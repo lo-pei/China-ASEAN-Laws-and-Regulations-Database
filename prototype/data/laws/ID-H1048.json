@@ -1,0 +1,308 @@
+{
+ "id": "ID-H1048",
+ "title": {
+  "zh": "设立兰达克县法",
+  "en": "Law on the Establishment of the Landak Regency Area",
+  "id": "PEMBENTUKAN DAERAH KABUPATEN LANDAK",
+  "orig": "PEMBENTUKAN DAERAH KABUPATEN LANDAK",
+  "vi": "Luật về Việc Thành lập Vùng Huyện Landak",
+  "th": "พระราชบัญญัติว่าด้วยการจัดตั้งเขตอำเภอลันดัก",
+  "ms": "Akta tentang Pembentukan Daerah Kabupaten Landak"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02b",
+ "language": "id",
+ "level": "law",
+ "category": "04_劳工与行政法",
+ "status": "active",
+ "promulgatedDate": "1999",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU55-1999",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 19,
+ "chars": 17419,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU551999.pdf&fl=P01086"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\04_劳工与行政法\\印尼_文本_1999_PEMBENTUKAN DAERAH KABUPATEN LANDAK.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 19 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H1048-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\n\nDalam Undang-undang ini yang dimaksud dengan:\na. Daerah adalah Daerah Otonom sebagaimana dimaksud dalam Pasal\n1 huruf i Undang-undang Nomor 22 Tahun 1999 tentang\nPemerintahan Daerah;\nb. Kabupaten Pontianak adalah  Daerah Otonom sebagaimana\ndimaksud dalam Undang-undang Nomor 27 Tahun 1959 tentang\nPenetapan Undang-undang Darura t Nomor 3 Tahun 1953 tentang\nPembentukan Daerah-daerah Tingka t II di Kalimantan (Lembaran\nNegara Tahun 1953 Nomor 9), sebagai undang-undang;\nc. Propinsi Kalimantan Barat adal ah Daerah Otonom sebagaimana\ndimaksud dalam Undang-undang Nomor 25 Tahun 1956 tentang\nPembentukan Daerah-daerah Otonom  Propinsi Kalimantan Barat,\nKalimantan Selatan dan Kalimantan Timur.\n\n\n\nBAB II\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\n\nPEMBENTUKAN, BATAS WILAYAH, DAN IBUKOTA"
+   }
+  },
+  {
+   "id": "ID-H1048-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\n\nDengan Undang-undang ini dibentuk Kabupaten Landak dalam wilayah\nPropinsi Kalimantan Barat."
+   }
+  },
+  {
+   "id": "ID-H1048-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\n\nKabupaten Landak berasal dari sebagian wilayah Kabupaten  Pontianak\nyang terdiri atas wilayah:\na. Kecamatan Air Besar;\nb. Kecamatan Kuala Behe;\nc. Kecamatan Ngabang;\nd. Kecamatan Meranti;\ne. Kecamatan Menyuke;\nf. Kecamatan Sengah Temila;\ng. Kecamatan Sebangki;\nh. Kecamatan Mempawah Hulu;\ni. Kecamatan Menjalin; dan\nj. Kecamatan Mandor."
+   }
+  },
+  {
+   "id": "ID-H1048-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\n\nDengan dibentuknya Kabupa ten Landak, sebagaimana dimaksud dalam\nPasal 2, wilayah Kabupaten Pon tianak dikurangi dengan wilayah\nKabupaten Landak, sebagaimana dimaksud dalam Pasal 3."
+   }
+  },
+  {
+   "id": "ID-H1048-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\n\n(1) Kabupaten Landak mempunyai batas wilayah :\n a. sebelah utara dengan K ecamatan Bengkayang, Kecamatan\nSamalantan, Kecamatan Ledo,  Kecamatan Sanggauledo,\nKecamatan Seluas, dan Keca matan Jagoi Babang Kabupaten\nBengkayang;\n b. sebelah timur dengan Kecamatan Beduwai, Kecamatan Sekayam,\nKecamatan Kembayan, Kecamatan Tayan Hulu, dan Kecamatan\nBalai, Kabupaten Sanggau;\n c. sebelah selatan dengan Kecamatan Sungai Ambawang,\nKecamatan Kuala Mandor dan Kecamatan Mempawah Hilir,\nKabupaten Pontianak; dan\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\n\n d. sebelah barat dengan Kecam atan Toho, Kecamatan Sungai\nPinyuh, dan Kecamatan Mempawah Hilir, Kabupaten Pontianak.\n(2) Batas wilayah sebagaimana di maksud pada ayat (1), dituangkan\ndalam peta yang mer upakan bagian tidak terpisahkan dari\nUndang-undang ini.\n(3) Penentuan batas Kabupaten La ndak secara pasti di lapangan\nsebagaimana dimaksud pada ayat (1), ditetapkan oleh Menteri\nDalam Negeri."
+   }
+  },
+  {
+   "id": "ID-H1048-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\n\n(1) Dengan dibentuknya Kabupaten Landak sebagaimana dimaksud\ndalam Pasal 2 dan mempunyai w ilayah sebagaimana dimaksud\ndalam Pasal 3, Pemerintah Ka bupaten Landak, wajib menetapkan\nTata Ruang Wilayah Kabupaten Landak sesuai  dengan peraturan\nperundang-undangan.\n(2) Penetapan Tata Ruang Wilayah Kabupaten Landak, sebagaimana\ndimaksud pada ayat (1), dilakuka n secara terpadu dan tidak\nterpisahkan dari Tata Ruang W ilayah Nasional, Propinsi, dan\nKabupaten/Kota."
+   }
+  },
+  {
+   "id": "ID-H1048-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\n\nIbukota Kabupaten Landak berkedudukan di Ngabang.\n\nBAB III\nKEWENANGAN DAERAH"
+   }
+  },
+  {
+   "id": "ID-H1048-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n\n(1) Dengan terbentuknya Kabupate n Landak, kewenangan Daerah\nsebagai Daerah Otonom menca kup seluruh kewe nangan bidang\npemerintahan, termasuk kewenanga n wajib, kecuali bidang politik\nluar negeri, pertahanan keamanan , peradilan, moneter dan fiskal,\nagama, serta kewenangan bidang lain sesuai dengan peraturan\nperundang-undangan.\n(2) Kewenangan wajib, sebagaimana di maksud pada ayat (1), terdiri\npekerjaan umum, kesehatan, pendi dikan dan kebudaya an, pertanian,\nperhubungan, industri dan perdag angan, penanaman modal,\nlingkungan hidup, pertanahan, koperasi, dan tenaga kerja.\n\nBAB IV\nPEMERINTAHAN DAERAH"
+   }
+  },
+  {
+   "id": "ID-H1048-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\n\n\nDengan terbentuknya Ka bupaten Landak, dibent uk Dewan Perwakilan\nRakyat Daerah Kabupa ten Landak, sesuai dengan peraturan\nperundang-undangan."
+   }
+  },
+  {
+   "id": "ID-H1048-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\n\nUntuk memimpin jalannya pemerintah an di Kabupaten Landak, dipilih\ndan disahkan seorang B upati dan Wakil Bupati di Kabupaten Landak,\nsesuai dengan peraturan perundang-undangan."
+   }
+  },
+  {
+   "id": "ID-H1048-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\n\nUntuk kelengkapan pera ngkat pemerintahan, di Kabupaten Landak\ndibentuk Sekretariat Dewan Perwakilan Rakyat Daerah Kabupaten,\nSekretariat Kabupaten, dinas-dina s Kabupaten, dan lembaga teknis\nKabupaten, sesuai dengan peraturan perundang-undangan.\n\nBAB V\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H1048-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n\n(1) Dengan terbentuknya Kabupaten Landak, pengisian keanggotaan\nDewan Perwakilan Rakyat Daerah Kabupaten Landak\ndiselenggarakan melalui pemilihan umum lokal selambat-lambatnya\nsatu tahun sejak peresmiannya  sesuai dengan peraturan\nperundang-undangan.\n(2) Anggota Dewan Perwakilan Ra kyat Daerah Kabupaten Landak\nterdiri atas:\n a. anggota Dewan Perwakilan Rakya t Daerah yang ditetapkan dari\npartai politik peserta pemilihan umum lokal yang dilaksanakan di\nKabupaten Landak; dan\n b. anggota ABRI yang diangkat.\n(3) Jumlah dan tata cara pengisian keanggotaan Dewan Perwakilan\nRakyat Daerah Kabupaten Landak, sebagaimana dimaksud pada ayat\n(2), ditetapkan sesuai dengan peraturan perundang-undangan.\n(4) Dengan terbentuknya Kabupaten Landak, jumlah anggota Dewan\nPerwakilan Rakyat Daerah Kabupaten Pontianak disesuaikan dengan\njumlah penduduk Kabupaten Pontiana k setelah dikurangi dengan\njumlah penduduk Kabupaten Landak."
+   }
+  },
+  {
+   "id": "ID-H1048-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\n\nPada saat terbentuknya Kabupaten Landak, Penjabat Bupati Landak\nuntuk pertama kali diangkat oleh Me nteri Dalam Negeri atas nama\nPresiden berdasarkan usul Gubernur Kalimantan Barat."
+   }
+  },
+  {
+   "id": "ID-H1048-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\n\n(1) Untuk kelancaran penyelenggara an pemerintahan di Kabupaten\nLandak, Gubernur Kalimantan Bara t dan Bupati Pontianak sesuai\ndengan wewenang dan t ugasnya masing-masing, menginventarisasi\ndan mengatur penyerahan kepada  Pemerintah Kabupaten Landak\nsesuai dengan peraturan perundang-undangan.\n a. pegawai yang karena jabata nnya diperlukan oleh Pemerintah\nKabupaten Landak;\n b. tanah, bangunan, barang bergerak, dan barang tidak bergerak\nyang dimiliki, dikuasai, atau di manfaatkan oleh Pemerintah\nPropinsi Kalimantan Barat dan Pe merintah Kabupaten Pontianak\nyang berada dalam wilayah Kabupaten Landak;\n c. Badan Usaha Milik Daerah  Propinsi Kalimantan Barat dan\nPemerintah Kabupaten Pontia nak yang tempat kedudukannya\nterletak di Kabupaten Landak;\n d. utang piutang Kabupaten Pontianak yang kegunaannya untuk\nKabupaten Landak; dan\n e. perlengkapan kantor, arsip,  dokumen, dan perpustakaan yang\nkarena sifatnya diperlukan oleh Kabupaten Landak.\n(2) Pelaksanaan penyerahan sebaga imana dimaksud pada ayat (1)\nselambat-lambatnya harus diselesaikan dalam waktu satu tahun,\nterhitung sejak diresmikannya Kabupaten Landak."
+   }
+  },
+  {
+   "id": "ID-H1048-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\n\n(1) Pembiayaan yang diperlukan akibat pembentukan Kabupaten\nLandak sebagaimana dimaksud da lam Pasal 2 dibebankan pada\nAnggaran Pendapatan dan Belanja Daerah Pemerintah Kabupaten\nLandak.\n(2) Untuk kelancaran penyelenggaraan pemerintahan dan pembangunan,\nterhitung sejak diresmikannya pembentukan Kabupaten Landak,\nsegala pembiayaan yang diperl ukan pada tahun pertama sebelum\ndapat disusun Anggaran Pendapa tan dan Belanja Daerah yang\nbersangkutan dibebanka n pada Anggaran Penda patan dan Belanja\nDaerah Kabupaten Pontianak, be rdasarkan perimbangan hasil\npendapatan yang diperolah dari Kabupaten Landak.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\n\n(3) Pemerintah Propinsi Kalimantan Barat wajib membantu pembiayaan\nsebagaimana dimaksud pada ayat (1) melalui Anggaran Pendapatan\ndan Belanja Daerah Propinsi Ka limantan Barat selama tiga tahun\nberturut-turut, terhitung sejak peresmiannya."
+   }
+  },
+  {
+   "id": "ID-H1048-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\n\nSemua peraturan per undang-undangan yang saat ini berlaku bagi\nKabupaten Pontianak tetap berlaku bagi Kabupaten Landak, sebelum\ndiubah, diganti, atau dicabut berdasarkan Undang-undang ini.\n\nBAB VI\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H1048-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\nPada saat berlakunya Undang-undang ini, semua peraturan\nperundang-undangan yang tidak se suai dengan Undang-undang ini\ndinyatakan tidak berlaku."
+   }
+  },
+  {
+   "id": "ID-H1048-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\n\nKetentuan lebih lanj ut yang diperlukan se bagai pelaksanaan\nUndang-undang ini diatur se suai dengan peraturan\nperundang-undangan."
+   }
+  },
+  {
+   "id": "ID-H1048-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\n\nUndang-undang ini mulai berlaku pada tanggal diundangkan.\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\n\nAgar setiap orang mengetahui nya, memerintahkan pengundangan\nUndang-undang ini dengan penempata nnya dalam Lembaran Negara\nRepublik Indonesia.\n\n Disahkan di Jakarta\n pada tanggal 4 Oktober 1999\n PRESIDEN REPUBLIK INDONESIA,\n\n   ttd.\n\n BACHARUDDIN JUSUF HABIBIE\nDiundangkan di Jakarta\npada tanggal 4 Oktober 1999\nMENTERI NEGARA SEKRETARIS NEGARA\nREPUBLIK INDONESIA,\n\nttd.\n\nMULADI\n\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1999 NOMOR 183\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\nPENJELASAN\nATAS\nUNDANG-UNDANG REPUBLIK INDONESIA\nNOMOR 55 TAHUN 1999\nTENTANG\nPEMBENTUKAN KABUPATEN LANDAK\n\nI. UMUM\n\nPropinsi Kalimantan Barat pada umumnya, Kabupaten P ontianak pada khususnya\nmeskipun telah menunjukkan kemajuan da lam penyelenggaraan pemerintahan,\npelaksanaan pembangunan dan pembinaan kemasyarakatan, dalam perkembangannya\nperlu ditingkatkan sesuai de ngan potensi Daerah, luas w ilayah, dan kebutuhan pada\nmasa mendatang.\nPropinsi Kalimantan Barat mempunyai luas  wilayah 146.807 km2 dengan sarana dan\nprasarana komunikasi serta transportasi yang relatif masih te rbatas, khususnya di\nKabupaten  Pontianak bagian selatan.\nKabupaten Pontianak mempunyai luas wilayah 18.171.20 km 2. Dalam rangka\nmembantu tugas penyelenggaraan pemeri ntahan, pelaksanaan pembangunan, dan\npelayanan kepada masyarakat, dibentuk wilayah kerja Pembantu Bupati Pontianak\nwilayah Ngabang yang wilayahnya meli puti lima kecamatan, yaitu Kecamatan\nNgabang, Kecamatan Air Besar, Kecamat an Menyuke, Kecamatan Sengah Temila,\ndan Kecamatan Meranti. Dalam rangka pembentukan Kabupate n Landak, wilayah\ntersebut ditambah dengan Kecamatan Sebangki, Kecamatan Menjalin, Kecamatan\nKuala Behe, Kecamatan Mandor, dan Kecamatan Mempawah Hulu.\nSecara geografis wilayah kerja Pembantu  Bupati Pontianak Wilayah Ngabang dan\nkecamatan-kecamatan tersebut mempunya i kedudukan yang sangat strategis jika\nditinjau dari segi politik, ekonomi, sosial, budaya, dan pertahanan keamanan.\nDalam perkembangannya wilayah kerja Pembantu Bupati Pontianak Wilayah\nNgabang dan kecamatan-kecamatan terse but telah menunjukkan kemajuan dalam\npenyelenggaraan pemerintahan, pelaksanaan  pembangunan, dan pelayanan kepada\nmasyarakat serta kemampuan untuk menge mbangkan potensi wilayah yang ada,\nantara lain, di bidang perkebunan, pe rtanian tanaman pa ngan, perikanan,\nperindustrian, peternakan, pertambangan, perdagangan, dan jasa.\nPerkembangan wilayah kerja Pembantu Bupati Pontianak Wilayah Ngabang dan\nkecamatan-kecamatan tersebut di atas diikuti pula dengan peningkatan jumlah\npenduduk. Pada tahun 1992 wila yah kerja Pembantu Bupati Pontianak Wilayah\nNgabang dan kecamatan-kecamatan te rsebut penduduknya be rjumlah 361.806 jiwa\ndan pada tahun 1998 meningka t menjadi 384.030 jiwa dengan laju pertumbuhan\npenduduk rata-rata 1,5 persen per tahun. Hal ini mengakibatkan bertambahnya beban\ntugas dan volume kerja dalam rangka pe nyelenggaraan pemerintahan, pembangunan\ndan pembinaan serta pelayanan masyarakat di wilayah kerja Pembantu Bupati\nPontianak Wilayah Ngabang dan kecamatan-kecamatan tersebut.\nBerdasarkan hal-hal tersebut dan memper hatikan aspirasi masyarakat yang mulai\nberkembang sejak tahun 1957 dan selanjutnya secara formal dituangkan dalam Surat\nKeputusan Dewan Perwakilan Rakyat Daerah Kabupaten Daerah Tingkat II\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\n\nPontianak tanggal 30 Maret 1999 Nomor 03 Tahun 1999 tentang Dukungan terhadap\nRencana Pembentukan Daerah Kabupaten P ontianak dan Keputusan DPRD Propinsi\nDaerah Tingkat I Kalimantan Barat tanggal 1 April 1999 Nomor 5 Tahun 1999\ntentang Dukungan terhadap Rencana Pe mbentukan Kabupaten Daerah Tingkat II\nLandak, serta untuk lebih meningkatkan dayaguna dan hasil guna penyelenggaraan\npemerintahan, pelaksanaan pembangunan, pe layanan kepada masyarakat, serta untuk\nlebih meningkatkan peran aktif masyarakat, Kabupaten Pontianak sebagaimana diatur\ndalam Undang-Undang Nomor 27 Tahun 1959 tentang Pe netapan Undang-Undang\nNomor 3 Tahun 1953 tentang Pembentukan Daer ah Tingkat II di Kalimantan, ditata\nmenjadi dua Kabupaten dengan membent uk Kabupaten Landak de ngan luas 9.909,10\nkm2 yang wilayahnya meliputi sepuluh ke camatan, yaitu Kecamatan Menyuke,\nKecamatan Meranti, Kecamatan Sengah Temila, Kecamatan Sebangki, Kecamatan\nMenjalin, Kecamatan Ngabang, Kecamatan Air Besar, Kecamatan Kuala Behe,\nKecamatan Mandor, dan Kecamatan Mempawah Hulu.\nDengan terbentuknya Kabupaten Landak, wilayah Kabupate n Pontianak berkurang\nseluas wilayah Kabupaten Landak. Wilayah kerja Pembantu Bupati Pontianak\nwilayah Ngabang dihapus. Pe nghapusan wilayah kerja Pembantu Bupati Pontianak\nwilayah Ngabang tersebut ditetapkan dengan Keputusan Menteri Dalam Negeri.\n\nII. PASAL DEMI PASAL\n\n Pasal 1\n  Cukup jelas\n\n Pasal 2\n  Wilayah Kabupaten Landak adalah yang sebelum dibent uk Kabupaten Landak\nmerupakan wilayah kerja Pembantu B upati Pontianak Wilayah Ngabang yang\ndibentuk berdasarkan Keput usan Menteri Dalam Nege ri tanggal 13 Maret Tahun\n1985 Nomor 821.26-224, dan ditambah de ngan wilayah Kecamatan Sebangki,\nKecamatan Menjalin, Kecamatan Ku ala Behe, Kecamatan Mandor, dan\nKecamatan Mempawah Hulu.\n\n Pasal 3\n  Cukup jelas\n\n Pasal 4\n  Cukup jelas\n\n Pasal 5\n  Ayat (1)\n   Cukup jelas\n  Ayat (2)\n   Peta sebagaimana dimaksud dalam ay at ini adalah peta wilayah Kabupaten\nLandak dalam bentuk lampiran Undang-undang ini\n\n  Ayat (3)\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\n\n   Penetapan batas wilayah secara pa sti antara Kabupaten Landak dan Kabupaten\nPontianak ditetapkan oleh Menteri Da lam Negeri setelah mempertimbangkan\nusul dan saran Gubernur Kalimantan Barat yang didasarkan atas hasil\npenelitian, pengukuran, dan pematokan di lapangan.\n\n Pasal 6\n  Ayat (1)\n   Cukup jelas\n  Ayat (2)\n   Dalam rangka mengembangkan Kabupa ten Landak, sesuai  dengan potensi\nDaerah, guna perencanaan dan  pelaksanaan penyelengga raan pemerintahan\ndan pembangunan pada masa-mas a mendatang khususnya, dan untuk\npengembangan sarana serta prasar ana pemerintah dan pembangunan,\ndiperlukan adanya kesatuan perencanaan pembangunan. Untuk itu Tata Ruang\nWilayah Kabupaten Landak harus be nar-benar serasi dan terpadu\npenyusunannya dalam satu kesatuan sist em rencana Tata Ruang Wilayah yang\nterpadu dengan Tata Ruang Wilayah Nasional, Propinsi, dan Kabupaten/Kota.\n\n Pasal 7\n  Yang dimaksud dengan Ngabang sebagai ibukota Kabupaten Landak adalah\nsebagian wilayah yang berada di Kecamatan Ngabang.\n\n Pasal 8\n  Cukup jelas\n\n Pasal 9\n  Cukup jelas\n\n Pasal 10\n  Cukup jelas\n\n Pasal 11\n  Pembentukan dinas-dinas Kabupate n dan lembaga teknis Kabupaten harus\ndisesuaikan dengan kebutuhan dan kemampuan Kabupaten.\n\n Pasal 12\n  Ayat (1)\n   Cukup jelas\n  Ayat (2)\n   Huruf a\n    Yang dimaksud dengan partai politik peserta pemilihan umum lokal adalah\npartai politik peserta pemilihan umum tahun 1999.\n   Huruf b\n    Yang dimaksud dengan anggota ABRI  adalah Tentara Nasional Indonesia\ndan Kepolisian Negara Republik Indonesia.\n  Ayat (3)\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\n\n   Cukup jelas\n  Ayat (4)\n   Cukup jelas\n\n Pasal 13\n  Penjabat Bupati Landak melaksanakan  tugas sampai denga n disahkannya Bupati\nLandak hasil pemilihan Dewan Perwakilan Rakyat Daerah Kabupaten Landak.\n\n Pasal 14\n  Ayat (1)\n   Dengan terbentuknya Ka bupaten Landak, untuk mencapai daya guna dan hasil\nguna dalam penyelenggaraan  pemerintahan, pelaksanaan pembangunan, dan\npembinaan kemasyarakatan digunakan pegawai, tanah, gedung perkantoran\nbeserta perlengkapannya, dan fasilitas pe layanan umum yang telah ada selama\nini dan telah dipakai dala m tugas oleh Pembantu Bupati Pontianak wilayah\nNgabang. Dalam rangka tertib administ rasi diperlukan tindakan hukum berupa\npenyerahan dari Pemerintah Propins i Kalimantan Barat dan Pemerintah\nKabupaten Pontianak kepada Pemerintah Kabupaten Landak.\n   Demikian pula halnya Badan Usaha Milik Daerah Propinsi Kalimantan Barat\ndan Pemerintah Kabupaten Pontianak yang kedudukan dan kegiatannya berada\ndi Kabupaten Landak, untuk mencapai  daya guna dan hasil guna dalam\npenyelenggaraannya, jika dianggap perlu, diserahkan oleh Pemerintah Propinsi\nKalimantan Barat dan Pemerintah Kabupaten Pontianak sesuai dengan\nwewenang dan lingkup tugasnya masi ng-masing kepada Pemerintah\nKabupaten Landak.\n   Begitu juga utang piutang yang kegunaannya untuk wilayah Kabupaten\nLandak diserahkan kepada Pemerintah Kabupaten Landak.\n   Berkenaan dengan pengaturan penye rahan tersebut, dibuatkan daftar\ninventaris.\n  Ayat (2)\n   Yang dimaksud dengan sejak diresm ikan Kabupaten Landa k adalah terhitung\nsejak dilantiknya Penjabat Bupati Landak.\n   Pelantikan Penjabat Bupati Landak didahului dengan pere smian pembentukan\nKabupaten Landak oleh Ment eri Dalam Negeri atas nama Presiden Republik\nIndonesia.\n   Setelah satu tahun peresmian Kabupa ten Landak, Gubernur Kalimantan Barat\nwajib melaporkan pelaksanaan penyerahan sebagaimana dimaksud pada ayat\nini kepada Menteri Dalam Negeri unt uk bahan pengambilan kebijakan lebih\nlanjut.\n\n Pasal 15\n  Ayat (1)\n   Yang dimaksud dengan pembiayaan  adalah biaya unt uk pembangunan gedung\nperkantoran, rumah dinas,  perlengkapan kantor, sara na mebel, dan sarana\nmobilitas, serta untuk biaya operasiona l bagi kelancaran penyelenggaraan\npemerintahan dan pembangunan, serta pembinaan kemasyarakatan.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\n\n  Ayat (2)\n   Cukup jelas\n  Ayat (3)\n   Cukup jelas\n Pasal 16\n  Cukup jelas\n\n Pasal 17\n  Cukup jelas\n\n Pasal 18\n  Cukup jelas\n\n\n Pasal 19\n  Cukup jelas\n\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 3904"
+   }
+  }
+ ]
+}

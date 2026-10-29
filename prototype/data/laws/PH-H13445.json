@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13445",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Section Two thousand One Hundred and Six of the Administrative Code, By Adding Subsection (F) At the End thereof.",
+  "orig": "An Act to Amend Section Two thousand One Hundred and Six of the Administrative Code, By Adding Subsection (F) At the End thereof."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1919-02-24",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2797",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 961,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1919/act_2797_1919.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02797_1919_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02797_1919_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13445-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section two thousand one hundred and six of Act Numbered Twenty-seven hundred and eleven,\nentitled the Administrative Code, is hereby amended by adding, at the end thereof, subsection (f), to read as\n\"(f) To permit, upon favorable recommendation by the Secretary of Commerce and Communications, and\nsubject to such conditions as may properly protect the public interests, the construction and maintenance, for\nprivate use, of railways, conduits, and telephone lines across public thoroughfares, streets, roads, and other\npublic property in the province: Provided, That such construction and private use shall not prevent or obstruct\nthe public use of such thoroughfares, streets, roads, or other public property, and that the permit granted shall\nat all times be subject to revocation by the Secretary of the Interior, if in the judgment of that official, the\npublic interest requires it.\""
+   }
+  },
+  {
+   "id": "PH-H13445-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, February 24, 1919."
+   }
+  }
+ ]
+}

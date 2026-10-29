@@ -1,0 +1,62 @@
+{
+ "id": "PH-H14782",
+ "title": {
+  "zh": null,
+  "en": "An Act Remitting the Bond of Twenty-Five Hundred Pesos Furnished By Jose Nazareno in the Case of \"the People of the Philippine Islands Versus Jose Castro Y Obregon Et Al.",
+  "orig": "An Act Remitting the Bond of Twenty-Five Hundred Pesos Furnished By Jose Nazareno in the Case of \"the People of the Philippine Islands Versus Jose Castro Y Obregon Et Al."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1934-12-08",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 4191",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 563,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1934/act_4191_1934.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_04191_1934_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_04191_1934_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14782-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The bond of twenty-five hundred pesos furnished by Jose Nazareno in favor of the Philippine\nGovernment for the provisional release of Jose Castro y Obregon in criminal case No. 33547 of the Court of\nFirst Instance of Manila, entitled \"The People of the Philippine Islands versus Jose Castro y Obregon, et al.,\"\nwhich has been declared forfeited by said court, is hereby remitted after the expenses actually incurred by the\nGovernment in the execution of the said bail bond have been deducted."
+   }
+  },
+  {
+   "id": "PH-H14782-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, December 8, 1934."
+   }
+  }
+ ]
+}

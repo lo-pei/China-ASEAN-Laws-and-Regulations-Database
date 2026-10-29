@@ -1,0 +1,330 @@
+{
+ "id": "MY-H4431",
+ "title": {
+  "zh": "1949年职位名衔条例",
+  "en": "TITLES OF OFFICE ORDINANCE 1949",
+  "orig": "TITLES OF OFFICE ORDINANCE 1949",
+  "ms": "Ordinan Nama Jawatan 1949",
+  "vi": "Pháp lệnh về Chức danh năm 1949",
+  "th": "บทบัญญัติชื่อตำแหน่ง ค.ศ. 1949",
+  "id": "Peraturan Nama Jabatan Tahun 1949"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-9",
+ "language": "ms",
+ "level": "decree",
+ "category": "05_其他及未分类",
+ "status": "active",
+ "promulgatedDate": "1970",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "PUA324",
+ "topics": [],
+ "summary": null,
+ "coverage": "partial",
+ "structureMode": "ARTICLE",
+ "articleCount": 24,
+ "chars": 6329,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-view.php?type=pua&no=P.U. (A) 324/1970&status=PINDAAN"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\05_其他及未分类\\1970_P.U.(A)324-1970_TITLES OF OFFICE ORDINANCE 1949.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 26 条；逐字未改写（源自厂商 OCR 文本）。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H4431-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "1. Setiausaha Tetap/Setiausaha         Ketua Setiausaha"
+   }
+  },
+  {
+   "id": "MY-H4431-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "2. Timbalan Setiausaha               Timbalan Ketua Setiausaha"
+   }
+  },
+  {
+   "id": "MY-H4431-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "3. Setiausaha Rendah ...            Setiausaha Bahagian"
+   }
+  },
+  {
+   "id": "MY-H4431-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "4. Juru Ukor Negara ...            Ketua Pengarah Ukor"
+   }
+  },
+  {
+   "id": "MY-H4431-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "5. Ketua Juru Ukor           .          Pengarah Ukor"
+   }
+  },
+  {
+   "id": "MY-H4431-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "6. Pengawal Kastam Negara ...        Ketua Pengarah Kastam"
+   }
+  },
+  {
+   "id": "MY-H4431-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "7. Pengawal Imigeresen               Ketua Pengarah Imigeresen"
+   }
+  },
+  {
+   "id": "MY-H4431-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "8. Ketua Pos Negara .             Ketua Pengarah Pos ~"
+   }
+  },
+  {
+   "id": "MY-H4431-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "9. Pengarah Talikom Negara ...      .  Ketua Pengarah Talikom"
+   }
+  },
+  {
+   "id": "MY-H4431-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "10. Pengawal Besar Hasil Dalam Negeri Ketua Pengarah Hasil Dalam Negeri"
+   }
+  },
+  {
+   "id": "MY-H4431-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "11. Pesurohjaya Pendaftaran Negara ... Ketua Pengarah Pendaftaran Negara\n12,, Pesurohjaya Tanah Persekutuan ... Ketua Pengarah Tanah dan Galian\nv                                   Persekutuan"
+   }
+  },
+  {
+   "id": "MY-H4431-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "13.  Pesurobjaya   Tanah dan Galian , Pengarah Tanah dan Galian Negeri\negeri"
+   }
+  },
+  {
+   "id": "MY-H4431-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "14. Pesurohjaya Pertahanan Awam         Ketua Pengarah Pertahanan Awam"
+   }
+  },
+  {
+   "id": "MY-H4431-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "15. Pesurohjaya Penjara         :      .... Ketua Pengarah Penjara"
+   }
+  },
+  {
+   "id": "MY-H4431-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "16. Perurohinya  Hal Ehwal Orang2.  Katun Pengarah Hal Ehwal Orang2\ni                                 i"
+   }
+  },
+  {
+   "id": "MY-H4431-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "17. Pesurohjaya Pengangkutan Jalan ... Ketua Pengarah Pengangkutan Jalan"
+   }
+  },
+  {
+   "id": "MY-H4431-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "18. Pesurohjaya Buroh ....    ng    .... Ketua Pengarah Hal Ehwal Bur\npu330f!          19.  Pesurohjaya   Hak Milek Geran Pengarah Hak Milek Geran Tanah\nan                    ~                                 \\"
+   }
+  },
+  {
+   "id": "MY-H4431-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "20. Pesurohjaya Kemajuan Kerjasama Ketua Pengarah Kemajuan Kerjasama"
+   }
+  },
+  {
+   "id": "MY-H4431-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "21. Pesurohjaya Insuran           ... Ketua Pengarah Insuran"
+   }
+  },
+  {
+   "id": "MY-H4431-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "22. Pesurohjaya Kerajaan Tempatan ... Ketua Pengarah Kerajaan Tempatan"
+   }
+  },
+  {
+   "id": "MY-H4431-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "23.  Pesurohjaya Peranchang Bandar dan Ketua Pengarah Peranchang Bandar\n\ndan Kampong\n\n815                         P.U. (B) 324. /\n\n(2)\nKetua Pengarah Pelajaran\nKetua Pengarah Kerja Raya\n\nKetua Pengarah Hal Ehwal Perhu-\nbgngan Perusahaan\n\nBertarikh 1 haribulan September, 1970.\n(PM. 10276 Vol. II; PN. 250/54-120.]\n\n(1)"
+   }
+  },
+  {
+   "id": "MY-H4431-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "24. Ketua Penasihat Pelajaran ..."
+   }
+  },
+  {
+   "id": "MY-H4431-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "25. Pengarah Kerja Raya"
+   }
+  },
+  {
+   "id": "MY-H4431-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "26. Pesurohjaya Perhubongan\nusahaan\n\nPer-\n\nP 380/0)\n\nDengan Perentah,\n\nTAN SRI ABDUL KADIR BIN SHAMSUDDIN,\nSetiausaha Juma‘ah Menteri\n\nTITLES OF OFFICE ORDINANCE, 1949\nNOTIFICATION UNDER SECTION 3\n\nIN exercise of the powers conferred by section 3 of the Titles of Office 22/1949,\nOrdinance, 1949, the Yang di-Pertuan Agong hereby makes the\nfollowing additions and substitutions to the First Schedule to the said\n\nOrdinance:\n(D\n1. Permanent Secretary/Secretary\n2. Deputy Secretary\n3.— Under Secretary — ...\n4. Surveyor General\n\n5. Chief Surveyor       ...   ve\n\n6. Comptroller General of Customs ...\n\n7. Controller General of Immigration\n\n8. Postmaster General ...         -\n\n9. Director General of Telecommuni-\ncations\n\n10. Comptroller General of Inland\nRevenue\n\n11. Commissioner of National Regis-\ntration\n\nFederal Commissioner of Lands ...\n\n13. Commissioner of Land and Mines\n(State)\n\n/\n14. Civil Defence Commissioner\n15. Commissioner of Prisons\n\n16. Commissioner for Orang2 Asli\nAffairs\n\n17. Commissioner for Road Transport\n18. Commissioner .for Labour ..\n19. Commissioner for Land Titles\n\n20. Commissioner of Co-operative\nDevelopment\n\n21. Insurance Commissioner\n\n22. Commissioner for Local Govern-\nments\n23. Commissioner of Town and Coun-\n\ntry Planning\n\n(2)\n\nSecretary General\n\nDeputy Secretary General\n\nUnder-Secretary  ?\n\nDirector General of Survey\n\nDirector of Survey\n\nDirector General of Customs\n\nDirector General of Immigration\n\"Director General of Posts\n\nDirector General of Telecommunica-\ntions\n\nDirector General of Inland Revenue\n\nDirector General of National Regis-\ntration\n\nDirector General of lands and Mines -\n(Federal)\n\nDirector of Lands and Mines\n(State)\n\nDirector General for Civil Defence\nDirector General of Prisons\n\nDirector General for Orang? Asli\nAffairs\n\nDirector General of Road Transport\nDirector General of Labour\nDirector of Land Titles\n\nDirector General\nDevelopment\n\nDirector General of Insurance\n\nDirector General for Local Govern-\nments\n\nDirector General of\nCountry Planning\n\nof Co-operative\n\nTown and\n\nP.U. (B) 324-326.                     816\n\n62/1967.\n\n62/1967.\n\nAkta 6.\n\nAci 6.\n\n(D                              (2)\n24. Chief Education Advisor ...    .... Director General of Education\n25. Director of Public Works ...     a    Director General of Public Works\n26. Commissioner for Industrial Rela-   Director General for Industrial\ntions                           Relations\n\nDated Ist day of September, 1970.\n(PM. 10276 Vol. II; AG. 250/54-120.1\n\nBy Command,\n\nTAN Sri ABDUL KADIR BIN SHAMSUDDIN,\nSecretary to Cabinet\n\nP.U. (B) 325.\nAKTA KASTAM, 1967\n\nPERLANTEKAN DI-BAWAH SEKSHEN 3 (5)\n\nPada menjalankan kuasa? yang di-beri oleh sekshen 3 (5) Akta\nKastam, 1967, Menteri Muda Kewangan bagi pehak dan di-atas nama\nMenteri Kewangan dengan ini memberi kapada Pegawai Kanan Kastam\nNo. 787, Enche' Abdul Aziz bin Bachik, sa-orang pegawai Kastam\ndengan semua kuasa sa-orang pegawai kanan Kastam mulai dari 1hb\nDisember, 1970.           (KE. (PER) 2083/Vol. 3/130a; (8.20) 201/1/3-2.1\n\nCUSTOMS ACT, 1967\nAPPOINTMENT UNDER SECTION 3 (5)\n\nIN exercise of the powers conferred by section 3 (5) of the Customs\nAct, 1967, the Assistant Minister of Finance on behalf and in the\nname of the Minister of Finance hereby invests Senior Customs Officer\nNo. 787, Enche' Abdul Aziz bin Bachik an officer of Customs with\nall the powers of a senior officer of Customs with effect from Ist\nDecember, 1970.           (KE. (PER) 2083 /Vol. 3/130A; (8.20) 201 /1/3-2.]\n\nP.U. (B) 326.\nAKTA SHARIKAT? MEMINJAM, 1969\n\nPada menjalankan kuasa? yang di-beri oleh sekshen 47 (1) (b) Akta\nSharikat? Meminjam, 1969, Menteri Kewangan dengan ini membenarkan\nMalaya Borneo Building Society Berhad, Leboh Ampang, Kuala\nLumpur, menjalankan perniagaan sa-lama sembilan bulan mulai dari\n1hb Disember, 1970, tertaklok kapada sharat bahawa sharikat itu\nmenghantar penyata bulanan-nya pada tiap* bulan kapada Bank Negara\nMalaysia mengikut borang yang akan di-tetapkan oleh Bank.\n\nDi-perbuat pada 27hb November, 1970.\n(CR. (8.02) 339/1-1 (SJ. 2); PN. (P.U.?) 12.1\n\nBagi pehak dan atas nama Menteri Kewangan, Malaysia,\n\nALI BIN Haji AHMAD,\nMenteri Muda Kewangan\n\nBORROWING COMPANIES ACT, 1969\n\nIN exercise of the powers conferred by section 47 (1) (b) of the Borrowing\nCompanies Act, 1969, the Minister of Finance hereby authorizes the\nMalaya Borneo Building Society Limited of Leboh Ampang, Kuala"
+   }
+  }
+ ]
+}

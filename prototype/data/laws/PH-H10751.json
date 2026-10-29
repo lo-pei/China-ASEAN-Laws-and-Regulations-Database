@@ -1,0 +1,72 @@
+{
+ "id": "PH-H10751",
+ "title": {
+  "zh": null,
+  "en": "AN ACT APPROPRIATING THIRTEEN THOUSAND SEVEN HUNDRED AND THIRTY-FOUR DOLLARS AND EIGHTY-THREE CENTS FOR THE CONSTRUCTION OF A SUITABLE VAULT FOR THE USE OF THE TREASURER OF THE PHILIPPINE ISLANDS, AND TWELVE THOUSAND FOUR HUNDRED AND TWENTY-FIVE DOLLARS FOR THE PURCHASE OF A SITE FOR A NEW MARKET IN THE CITY OF MANILA, BOTH IN THE MONEY OF THE UNITED STATES.",
+  "orig": "AN ACT APPROPRIATING THIRTEEN THOUSAND SEVEN HUNDRED AND THIRTY-FOUR DOLLARS AND EIGHTY-THREE CENTS FOR THE CONSTRUCTION OF A SUITABLE VAULT FOR THE USE OF THE TREASURER OF THE PHILIPPINE ISLANDS, AND TWELVE THOUSAND FOUR HUNDRED AND TWENTY-FIVE DOLLARS FOR THE PURCHASE OF A SITE FOR A NEW MARKET IN THE CITY OF MANILA, BOTH IN THE MONEY OF THE UNITED STATES."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 38",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 898,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_00038_1900_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_00038_1900_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H10751-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The following sums in money of the United States are hereby appropriated out of any money in\nthe Insular Treasury not otherwise appropriated, for the purposes and objects hereinafter expressed, namely:\nThe sum of thirteen thousand seven hundred and thirty-four dollars and eighty-three cent, to be expended in\nthe construction of a fire and burglar proof vault in the Treasury Building of the Philippine Islands in the city\nThe sum of twelve thousand four hundred and twenty-five dollars, to be expended in payment of the\npurchase money of a suitable site for the construction of an additional market within the city of Manila, and\nfor the payment of the other expenses attendant upon such purchase."
+   }
+  },
+  {
+   "id": "PH-H10751-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The Insular Treasurer is hereby authorized and directed to pay the warrants of the Military\nGovernor for the sums so appropriated."
+   }
+  },
+  {
+   "id": "PH-H10751-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, October 29, 1900."
+   }
+  }
+ ]
+}

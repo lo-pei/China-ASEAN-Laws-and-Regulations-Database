@@ -1,0 +1,62 @@
+{
+ "id": "PH-H15868",
+ "title": {
+  "zh": null,
+  "en": "An Act Appropriating the Sum of Forty Seven thousand Pesos for the Construction and Repair of Certain Dams Inside the Friar Land Estates.",
+  "orig": "An Act Appropriating the Sum of Forty Seven thousand Pesos for the Construction and Repair of Certain Dams Inside the Friar Land Estates."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1936-11-08",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 151",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 689,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00151_1936_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00151_1936_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H15868-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The sum of forty seven thousand pesos or so much thereof as may be necessary, is hereby\nappropriated out of any funds in the Philippine Treasury not otherwise appropriated, to be spent by the\nDirector of Lands, with the approval of the Secretary of Agriculture and Commerce, as follows:\nFor the repair of the Diezmo Dam, in Santa Rosa, Laguna\nFor the repair of the Anabu Dam in Imus, Cavite\n10,000.00\nFor the construction of a dam, to be known as the Katipunan Dam in the barrio of Palangue, Naic, Cavite\n10,000.00\nFor the repair of the Tubigan Dam in Binan, Laguna\n20,000.00\n-------------"
+   }
+  },
+  {
+   "id": "PH-H15868-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, November 8, 1936, except the last two items."
+   }
+  }
+ ]
+}

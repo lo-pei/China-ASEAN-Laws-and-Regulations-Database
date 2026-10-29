@@ -1,0 +1,162 @@
+{
+ "id": "PH-H18249",
+ "title": {
+  "zh": null,
+  "en": "MALACAÑAN PALACE BY THE PRESIDENT OF THE PHILIPPINES ADOPTION OF DIGITAL PAYMENTS FOR GOVERNMENT DISBURSEMENTS AND COLLECTIONS",
+  "orig": "MALACAÑAN PALACE BY THE PRESIDENT OF THE PHILIPPINES ADOPTION OF DIGITAL PAYMENTS FOR GOVERNMENT DISBURSEMENTS AND COLLECTIONS"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p157",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Executive Order No. 170",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 12,
+ "chars": 10848,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/07_行政命令_EO/EO_00170_2022.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 12 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 EO_00170_2022.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H18249-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "SECTION 1"
+   },
+   "text": {
+    "en": "Definitions. For the purpose of implementing this Order, the\nfollowing terms shall mean:\na. Digital collection - refers to a mode of payment wherein a government entity\nreceives payments from businesses and citizens through digital devices\n(e.g., mobile phones, Point of Sale or computers) and where payments can\nbe made through bank transfers, electronic money and payment cards (e.g.,\ncredit, debit or prepaid cards);\nb. Digital disbursement - refers to a mode of payment wherein a government\nentity disburses money or any equivalent electronic representations of legal\ntender, for purposes of paying government expenditures, by crediting the\ntarget recipient's transaction account through Advice to Debit Account or\nElectronic Fund Transfer facilitated by the Government Servicing Bank, or\nany other digital payment instruments allowed by existing laws and\nregulations;\nc. Digital payment - refers to a monetary payment transaction between two (2)\nparties through a digital payment instrument in which both the payer and the\npayee use an electronic channel:\nd. Electronic Fund Transfer - refers to transfer of funds between two (2)\ntransaction accounts in the same or in different financial institutions\n2\n\nsupervised by the BS, which are initiated and received using electronic\ndevices and channels to transmit payment instructions;\ne. Electronic money (e-money) - refers to electronically-stored monetary value\nwhich is issued in accordance with the relevant regulations and issuances\nf. Government Servicing Bank - refers to banks authorized, upon\naccreditation by the Monetary Board, to accept government deposits and\nperform banking services on behalf of government entities, including\nAuthorized Government Depositary Banks, as defined by regulations of the\nDepartment of Finance;\ng. Payment Service Provider - refers to an entity such as a bank or non-bank\nelectronic money issuer that provides payment services to end-users such\nas consumers, merchants, and billers, including government institutions;\nh. Transaction account - a bank account or e-money account held with a BSP-\nsupervised financial institution that can be used to store, send, and receive"
+   }
+  },
+  {
+   "id": "PH-H18249-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "SECTION 2"
+   },
+   "text": {
+    "en": "Coverage. All departments, agencies, and instrumentalities of the\ngovernment, including state universities and colleges, government-owned\nor -controlled corporations (hereafter, \"Covered Agencies\"), are hereby directed, and\nlocal government units (LGUs) are hereby enjoined, to adopt digital payments for their\nrespective disbursements and collections."
+   }
+  },
+  {
+   "id": "PH-H18249-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "SECTION 3"
+   },
+   "text": {
+    "en": "Digital Payments for Government Disbursements. All Covered\nAgencies shall utilize safe and efficient digital disbursement in the payment of goods,\nservices and other disbursements, including in the distribution of financial assistance,\nas well as in the payment of salaries, wages, allowances and other compensation to\nCovered Agencies shall be allowed to disburse funds directly into the\ntransaction accounts of recipients or beneficiaries, whether held in government or\nprivate financial institutions, without need of a special arrangement from the financial\ninstitution concerned. For this purpose, Covered Agencies may use facilities of\nGovernment Servicing Banks such as Advice to Debit Account or interoperable\nElectronic Fund Transfers (EFT). Further, Covered Agencies shall be responsible for\npreparing payment instructions, with all necessary details, including the name of the\nbeneficiary, details of the transaction account, and amount involved.\nThe Government Servicing Bank shall carry out payment instructions and\nsubmit to the government entity disbursing the fund a verified list of successful or failed\nfund transfers, together with all relevant details. Subject to agreements between the\nGovernment Servicing Banks and Covered Agencies, the former shall be allowed to\ncollect fees from the latter for EFT services.\nTo ensure continuity of the delivery of payment services, all Covered Agencies\nshall adopt a Business Continuity Plan to prepare for calamities and other\n3\n\nemergencies where payments through digital means may not be effected. In these\ncases, non-digital payout channels may be considered by Covered Agencies in the\nexigency of service.\nIt is understood that the provisions of RA No. 10173 or the \"Data Privacy Act of\n2012.\" its Implementing Rules and Regulations, and all relevant issuances of the\nNational Privacy Commission, shall be observed in the implementation of this Order."
+   }
+  },
+  {
+   "id": "PH-H18249-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "SECTION 4"
+   },
+   "text": {
+    "en": "Digital Payments for Government Collections. All Covered\nAgencies are mandated to offer a digital mode of collecting payments for taxes, fees,\ntolls, and other charges and impositions. It is understood that this Order does not\nforeclose the acceptance of cash and other traditional modes of payment.\nCovered Agencies shall utilize secure payment processing solutions to ensure\nthat various digital payment methods are accepted. For this purpose, Covered\nAgencies may engage the services of established Payment Service Providers,\nprovided that only interoperable digital payment solutions which are compliant with the\nNational Retail Payment System Framework shall be availed.\nSubject to existing laws, rules and regulations, the partner Payment Service\nProviders of Covered Agencies shall not be limited to Government Servicing Banks."
+   }
+  },
+  {
+   "id": "PH-H18249-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "SECTION 5"
+   },
+   "text": {
+    "en": "Technical Working Group on the Adoption of Digital\nPayments. A Technical Working Group (TWG) shall be created to provide guidance\nand promote cost-efficiency and transparency in the procurement of digital payment\nsolutions by Covered Agencies. The TWG shall be composed of representatives from\nthe following agencies and offices:\na. Department of Finance (DOF);\nb. Department of Budget and Management (DBM);\nc. Bureau of the Treasury (BTr);\nd. Bureau of Internal Revenue (BIR); and\ne. Government Procurement Policy Board (GPPB) Technical Support Office.\nConsistent with the respective mandates of the member-agencies, and in\ncoordination with the COA, the TWG shall have the following powers and functions:\na. Oversee and monitor the procurement of digital payment solutions by\nCovered Agencies and ensure that the same is in accordance with existing\nlaws, rules and regulations;\nb. Consider the formulation of standard terms and conditions for Payment\nService Providers, in consultation with the BSP and COA. Pursuant to its\nmandate, the GPPB may also issue specific procurement guidelines for the\nengagement of Payment Service Providers;\nc. Resolve issues relative to the implementation of this Order, without\nprejudice to the individual member-agencies resolving such concerns\npursuant to their respective mandates;\nd. Call on any department, agency or office under the Executive Branch for the\neffective implementation of this Order; and\ne. Perform such other functions as may be directed by the President.\n4\n\nAll departments, agencies, bureaus, offices or instrumentalities of the\ngovernment with mandates relating to the adoption of digital payments are directed to\nrender full assistance and cooperation to the TWG, as may be required to carry out its\nfunctions under this Order."
+   }
+  },
+  {
+   "id": "PH-H18249-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "SECTION 6"
+   },
+   "text": {
+    "en": "Implementing Rules and Regulations. The DOF, in coordination\nwith the BSP, COA, DBM, BTr, BIR, and other relevant government agencies, shall\nissue the necessary implementing rules and regulations (IRR), within ninety (90) days\nfrom the effectivity of this Order. The IRR shall include, among others, the tiering\nguidelines relative to the implementation of digital collections under Section 7 of this"
+   }
+  },
+  {
+   "id": "PH-H18249-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "SECTION 7"
+   },
+   "text": {
+    "en": "Transition. All Covered Agencies shall ensure the proper\ntransition of their respective agencies' disbursement and collection procedures and\npolicies to accommodate digital payments towards the full implementation of this\nOrder. Covered Agencies shall ensure the continuous delivery of public services\nduring such transition, particularly the acceptance of non-digital mode of payments.\nCovered Agencies shall fully implement digital disbursements and digital\ncollections in their respective agencies within six (6) months from the issuance of the\nIRR under Section 6 of this Order.\nThe implementation of digital payments, however, may be subject to a tiered\ntransition period, which shall reflect a differentiated transition timeframe, based on the\noperational readiness and capability of the concerned Covered Agency. Such tiered\ntransition period shall be in accordance with the tiring guidelines under the\naforementioned IRR, and shall not exceed a period of three (3) ears from the\nissuance thereof. Covered Agencies which are determined by the TWG to be capable\nof fully adopting digital payments shall be required to carry out digital payments within\na shorter period, while those which are incapable may be allowed a longer period.\nThe Department of Trade and Industry, Department of the Interior and Local\nGovernment, and Department of Information and Communications Technology (DICT)\nshall aid in the capacity building of Concerned Agencies relative to the adoption of\ndigital pavments.\nConcerned Agencies are encouraged to establish programs to capacitate their\npersonnel on innovative technologies, payment systems, and cybersecurity and data\nprivacy protection tools, and shall build public understanding on digital financial"
+   }
+  },
+  {
+   "id": "PH-H18249-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "SECTION 8"
+   },
+   "text": {
+    "en": "Funding. Funds for the initial implementation of this Order shall\nbe charged against the respective budgets of Covered Agencies, while funding for the\nsucceeding years shall be incorporated in their respective regular appropriations or\ncorporate operating budgets, and shall be subject to the usual budgeting process.\nFor the continued implementation of this Order, Covered Agencies, to the\nextent that the fiscal program can accommodate, may include in their respective\nbudgets such amounts which would cover the reasonable costs of establishing and\nmaintaining infrastructure and systems relating to digital payments, including\n5\n\ntransaction fees, as well as all other expenses that may be incurred in connection with\nthe implementation of this Order."
+   }
+  },
+  {
+   "id": "PH-H18249-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "SECTION 9"
+   },
+   "text": {
+    "en": "Connectivity Support. The DICT shall take appropriate\nmeasures to ensure adequate internet connectivity to support government programs\nand policies on the digitalization of financial transactions."
+   }
+  },
+  {
+   "id": "PH-H18249-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "SECTION 10"
+   },
+   "text": {
+    "en": "Separability. If any provision of this Order is declared invalid or\nunconstitutional, the other remaining provisions not affected thereby shall continue to\nbe in full force and effect."
+   }
+  },
+  {
+   "id": "PH-H18249-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "SECTION 11"
+   },
+   "text": {
+    "en": "Repeal. All issuances, rules, and regulations or parts thereof,\ninconsistent with this Order are hereby repealed, amended or modified accordingly."
+   }
+  },
+  {
+   "id": "PH-H18249-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "SECTION 12"
+   },
+   "text": {
+    "en": "Effectivity. This Order shall take effect immediately upon its\npublication in the Official Gazette or in a newspaper of general circulation.\nDONE in the City of Manila, this1 2t iday of\nof Our Lord, Two Thousand and Twenty-Two.\nBy the President:\nSALVADOR C. MEDIALDEA\nExecutive Secretary\nOnce el the Prosident\nMALACAMANG RECORDS OFTICE\nDIRECTOR IV\nREPUBDIC OF THE PRILIAOTHRS\n6"
+   }
+  }
+ ]
+}

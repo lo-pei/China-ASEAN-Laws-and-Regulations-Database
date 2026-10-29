@@ -1,0 +1,714 @@
+{
+ "id": "MY-H1875",
+ "title": {
+  "zh": "2011年柔佛港务局（收费表）附例",
+  "en": "JOHOR PORT AUTHORITY (SCALE OF CHARGES) BY-LAWS 2011",
+  "orig": "JOHOR PORT AUTHORITY (SCALE OF CHARGES) BY-LAWS 2011",
+  "ms": "Undang-Undang Kecil Lembaga Pelabuhan Johor (Skala Caj) 2011",
+  "vi": "Quy chế về Cục Cảng Johor (Biểu phí) năm 2011",
+  "th": "ข้อบัญญัติการท่าเรือยะโฮร์ (ตารางค่าบริการ) ค.ศ. 2011",
+  "id": "Peraturan Daerah Otoritas Pelabuhan Johor (Skala Biaya) Tahun 2011"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-4",
+ "language": "ms",
+ "level": "law",
+ "category": "03_涉外投资与贸易",
+ "status": "active",
+ "promulgatedDate": "2011",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "PUA175",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 56,
+ "chars": 120556,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-view.php?type=pua&no=P.U. (A) 175/2011&status=PRINCIPAL"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\03_涉外投资与贸易\\2011_P.U.(A)175-2011_JOHOR PORT AUTHORITY (SCALE OF CHARGES) BY-LAWS 2011.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 56 条；逐字未改写（源自厂商 OCR 文本）。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H1875-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "1. Nama dan permulaan kuat kuasa"
+   }
+  },
+  {
+   "id": "MY-H1875-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "2. Tafsiran\nBAHAGIAN II\nCAJ AKAUN VESEL"
+   }
+  },
+  {
+   "id": "MY-H1875-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "3. Jenis caj"
+   }
+  },
+  {
+   "id": "MY-H1875-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "4. Caj marin yang  disatukan"
+   }
+  },
+  {
+   "id": "MY-H1875-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "5. Caj penahanan malim"
+   }
+  },
+  {
+   "id": "MY-H1875-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "6. Caj penahanan kapal tunda"
+   }
+  },
+  {
+   "id": "MY-H1875-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "7. Caj permintaan lewat, perubahan atau pembatalan"
+   }
+  },
+  {
+   "id": "MY-H1875-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "8. Caj perkhidmatan kapal tunda"
+   }
+  },
+  {
+   "id": "MY-H1875-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "9. Caj perkhidmatan tambatan"
+   }
+  },
+  {
+   "id": "MY-H1875-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "10. Caj perkhidmatan pemaliman"
+   }
+  },
+  {
+   "id": "MY-H1875-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "11. Dius pelabuhan"
+   }
+  },
+  {
+   "id": "MY-H1875-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "12. Dius  simpan tunggu"
+   }
+  },
+  {
+   "id": "MY-H1875-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "13. Caj dokej"
+   }
+  },
+  {
+   "id": "MY-H1875-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "14. Caj pembatalan bagi membatalkan tempat himpitan yang diperuntukan di\nterminal pukal dan pecah pukal"
+   }
+  },
+  {
+   "id": "MY-H1875-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "15. Caj dermaga ke atas dermaga yang dikendalikan secara persendirian"
+   }
+  },
+  {
+   "id": "MY-H1875-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "16. Caj pemunggahan kargo"
+   }
+  },
+  {
+   "id": "MY-H1875-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "17. Caj ro-ro"
+   }
+  },
+  {
+   "id": "MY-H1875-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "18. Caj penumpang"
+   }
+  },
+  {
+   "id": "MY-H1875-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "19. Caj pengendalian bagi kontena"
+   }
+  },
+  {
+   "id": "MY-H1875-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "20. Caj pengendalian tambahan bagi mengalihkan kontena dan kargo tidak\nberkontena"
+   }
+  },
+  {
+   "id": "MY-H1875-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "21. Caj pembatalan bagi membatalkan tempahan tempat himpitan yang\ndiperuntukkan di terminal kontena\nBAHAGIAN III\nCAJ AKAUN PEKAPAL ATAU PENERIMA KONSAIN"
+   }
+  },
+  {
+   "id": "MY-H1875-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "22. Jenis caj"
+   }
+  },
+  {
+   "id": "MY-H1875-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "23. Caj am"
+   }
+  },
+  {
+   "id": "MY-H1875-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "24. Caj perkhidmatan dermaga"
+   }
+  },
+  {
+   "id": "MY-H1875-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "25. Caj perkhidmatan pemindahan"
+   }
+  },
+  {
+   "id": "MY-H1875-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "26. Caj penyimpanan bagi kargo pukal dan pecah pukal"
+   }
+  },
+  {
+   "id": "MY-H1875-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 27"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "27. Caj perkhidmatan dermaga  di dermaga yang dikendalikan secara persendirian"
+   }
+  },
+  {
+   "id": "MY-H1875-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 28"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "28. Caj pengendalian bagi kargo pukal\nBAHAGIAN  IV\nCAJ AKAUN VESEL, PEKAPAL ATAU PENERIMA KONSAIN"
+   }
+  },
+  {
+   "id": "MY-H1875-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Section 29"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "29. Jenis caj"
+   }
+  },
+  {
+   "id": "MY-H1875-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Section 30"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "30. Caj jambatan timbang dan penimbang"
+   }
+  },
+  {
+   "id": "MY-H1875-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Section 31"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "31. Caj bagi penggunaan ruang gudang atau tempat simpanan terbuka"
+   }
+  },
+  {
+   "id": "MY-H1875-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Section 32"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "32. Caj penyimpanan bagi kontena"
+   }
+  },
+  {
+   "id": "MY-H1875-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Section 33"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "33. Caj perkhidmatan kontena sejuk"
+   }
+  },
+  {
+   "id": "MY-H1875-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "Section 34"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "34. Caj pengendalian bagi kontena DLU,  kontena rosak atau kontena bukan\nberstandard ISO"
+   }
+  },
+  {
+   "id": "MY-H1875-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "Section 35"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "35. Caj pengalihan bagi kontena DLU, kontena rosak atau kontena bukan berstandard\nISO"
+   }
+  },
+  {
+   "id": "MY-H1875-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "Section 36"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "36. Caj pengalihan bagi mengalihkan kontena ke Ruang Pemeriksaan Kastam"
+   }
+  },
+  {
+   "id": "MY-H1875-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "Section 37"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "37. Caj penyimpanan bagi kontena di Ruang Pemeriksaan Kastam"
+   }
+  },
+  {
+   "id": "MY-H1875-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "Section 38"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "38. Caj penyimpanan kontena di SBK"
+   }
+  },
+  {
+   "id": "MY-H1875-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "Section 39"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "39. Caj bagi kargo yang diterima di SBK"
+   }
+  },
+  {
+   "id": "MY-H1875-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "Section 40"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "40. Caj pengendalian SBK"
+   }
+  },
+  {
+   "id": "MY-H1875-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "Section 41"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "41. Caj SBK bagi penghantaran lewat kargo, penerimaan lewat arahan pengisian dan\npelepasan lewat  daripada Pihak Berkuasa Zon Bebas dan Kastam"
+   }
+  },
+  {
+   "id": "MY-H1875-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "Section 42"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "42. Caj penyimpanan bagi kargo di SBK"
+   }
+  },
+  {
+   "id": "MY-H1875-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "Section 43"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "43. Caj masa penutupan"
+   }
+  },
+  {
+   "id": "MY-H1875-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "Section 44"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "44. Caj kontena ditinggalkan kapal dan penukaran vesel"
+   }
+  },
+  {
+   "id": "MY-H1875-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "Section 45"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "45. Caj pemuatan kontena tambahan"
+   }
+  },
+  {
+   "id": "MY-H1875-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "Section 46"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "46. Caj kontena pelbagai\nBAHAGIAN V\nPELBAGAI"
+   }
+  },
+  {
+   "id": "MY-H1875-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "Section 47"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "47. Kadar pindah kapal"
+   }
+  },
+  {
+   "id": "MY-H1875-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "Section 48"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "48. Kargo dieksport semula"
+   }
+  },
+  {
+   "id": "MY-H1875-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "Section 49"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "49. Kargo  yang dipaletkan atau diunitkan"
+   }
+  },
+  {
+   "id": "MY-H1875-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "Section 50"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "50. Tanan yang boleh dikenakan caj"
+   }
+  },
+  {
+   "id": "MY-H1875-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "Section 51"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "51. Pembayaran caj"
+   }
+  },
+  {
+   "id": "MY-H1875-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "Section 52"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "52. Caj terkurang"
+   }
+  },
+  {
+   "id": "MY-H1875-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "Section 53"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "53. Caj berlebihan"
+   }
+  },
+  {
+   "id": "MY-H1875-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "Section 54"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "54. Syarat-syarat untuk menyewa kelengkapan mekanikal,  peralatan dan perkakasan"
+   }
+  },
+  {
+   "id": "MY-H1875-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "Section 55"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "55. Syarat-syarat am"
+   }
+  },
+  {
+   "id": "MY-H1875-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "Section 56"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "56. Pembatalan\nJadual Pertama\nJadual Kedua\nJadual Ketiga\n\nAKTA LEMBAGA PELABUHAN 1963\nUNDANG-UNDANG KECIL LEMBAGA PELABUHAN JOHOR\n(SKALA CAJ) 2011\nPADA menjalankan kuasa yang diberikan oleh seksyen 16 dan 29 Akta Lembaga Pelabuhan\n1963 [Akta 488 ], Lembaga Pelabuhan Johor dengan kelulusan Menteri membuat undang -\nundang kecil yang berikut:\nBAHAGIAN I\nPERMULAAN\nNama dan permulaan kuat kuasa\n\nJADUAL PERTAMA\nCAJ AKAUN VESEL\nBAHAGIAN I\nCAJ MARIN YANG DISATUKAN\n[undang-undang kecil  4]\nButiran PK vesel (RM)\n1 Vesel sehingga 80 meter dan kurang\n(termasuk penyediaan satu  kapal tunda) 2,800.00\n2 Vesel melebihi 80 meter tetapi tidak melebihi 125 meter\n(termasuk penyediaan satu kapal tunda)\n3,500.00\n3 Vesel melebihi 125 meter tetapi tidak melebihi 185 meter\n(termasuk penyediaan dua kapal tunda)\n7,700.00\n4 Vesel melebihi 185 meter tetapi tidak melebihi 240 meter\n(termasuk penyediaan dua kapal tunda)\n9,900.00\n5 Vesel melebihi 240 meter tetapi tidak melebihi 280 meter\n(termasuk penyediaan dua kapal tunda untuk menghimpit\natau meninggalkan himpitan dan pe nyediaan satu kapal\ntunda pengiring)\n14,500.00\n6 Melebihi 280 meter\n(termasuk pe nyediaan dua kapal tunda untuk menghimpit\natau meninggalkan himpitan dan pe nyediaan dua kapal\ntunda pengiring)\n23,960.00\n\nBAHAGIAN  2\nCAJ PENAHANAN MALIM\n[perenggan 5(2)]\nButiran Caj penahanan malim Bagi setiap\nsetengah jam atau\nsebahagian\ndaripadanya\n(RM)\n1 Penahanan malim 150.00\nBAHAGIAN 3\nCAJ PENAHANAN KAPAL TUNDA\n[perenggan 6(1)]\nButiran Caj penahanan kapal tunda Bagi setiap\nsetengah jam atau\nsebahagian\ndaripadanya\n(RM)\n1 Penahanan kapal tunda disebabkan kelewatan dalam\nperlepasan vesel 200.00\nBAHAGIAN 4\nCAJ PERMINTAAN LEWAT, PERUBAHAN DAN PEMBATALAN PERKHIDMATAN\nPEMALIMAN DAN KAPAL TUNDA\n[perenggan 7(2)]\nButiran Permintaan lewat, perubahan dan pembatalan\nperkhidmatan pemaliman dan kapal tunda\n(RM)\n1 Permintaan, perubahan dan pembatalan\nperkhidmatan kurang daripada 2 jam notis\n500.00\n\nBAHAGIAN 5\nCAJ PERKHIDMATAN KAPAL TUNDA\n[perenggan 8(2)]\nButiran Caj perkhidmatan kapal tunda (RM)\n1 Semua vesel di dermaga Lembaga\n8.00 bagi setiap meter\nsetiap jam atau sebahagian\ndaripadanya\n2 Semua vesel di jeti persendirian 2,000.00 bagi setap jam atausebahagian daripadanya dari\npengkalan ke pengkalan\nBAHAGIAN 6\nCAJ PERKHIDMATAN TAMBATAN\n[undang-undang kecil 9]\nButiran Caj perkhidmatan tambatan Bagi setiap meter\nsetiap operasi bagi\nsetiap vesel\n(RM)\n1 Semua vesel\nCaj tambahan bagi perkhidmatan tambatan yang\ndilaksanakan di mana -mana dermaga yang dikendalikan\nsecara persendirian yang diluluskan di dalam Pelabuhan\n1.15\n(sehingga\nmaksimum 170.00)\n0.60\n\nBAHAGIAN  7\nCAJ PERKHIDMATAN PEMALIMAN\n[undang-undang kecil 10]\nButiran PK vesel\nBagi setiap meter PK setiap\njam setiap pergerakan atau\nsebahagian daripadanya\n(RM)\n1 Vesel melebihi 15 meter PK yang menghendaki\nperkhidmatan pemaliman di dermaga Lembaga\n4.00\n2 Vesel melebihi 15 meter PK yang menghendaki\nperkhidmatan pemaliman di jeti persendirian\n6.50\n3 Vesel melebihi 15 meter tanpa malim 2.00\nBAHAGIAN 8\nDIUS PELABUHAN BAGI VESEL YANG MEMUATKAN ATAU MEMUNGGAH KARGO ATAU\nMENGAMBIL ATAU MENURUNKAN PENUMPANG\n[subperenggan 11(1)(a)]\nButiran PK Vesel Bagi setiap meter\natau sebahagian\ndaripadanya\n(RM)\n1 Vesel sehingga 15 meter Tiada\n2 Vesel melebihi 15 meter tetapi tidak melebihi  90\nmeter\n3.00\n3 Vesel melebihi  90 meter tetapi tidak melebihi 175\nmeter\n9.00\n4 Vesel melebihi 175 meter tetapi tidak melebihi 280\nmeter\n15.00\n5 Vesel melebihi  280 meter 25.00\n\nBAHAGIAN 9\nDIUS PELABUHAN BAGI VESEL YANG MENDUDUKI TEMPAT BERLABUH DILULUSKAN\nLEMBAGA\n[subperenggan 11(1)(b)]\nButiran PKVesel\nBagi setiap meter atau\nsebahagian daripadanya\n(RM)\n1 Vesel sehingga 15 meter Tiada\n2 Vesel melebihi 15 meter tetapi tidak melebihi  90\nmeter\n1.50\n3 Vesel melebihi  90 meter tetapi tidak melebihi 175\nmeter\n4.50\n4 Vesel melebihi 175 meter tetapi tidak melebihi\n280 meter\n7.50\n5 Vesel melebihi  280 meter 12.50\nBAHAGIAN 10\nREBET DIUS PELABUHAN BAGI VESEL BERJADUAL SECARA BULANAN\n[perenggan 11(4)]\nButiran Kekerapan ketibaan\nPeratusan rebet dius\npelabuhan\n1 Bagi satu ketibaan bagi setiap bulan kalendar 20%\n2 Bagi dua ketibaan bagi setiap bulan kalendar 25%\n3 Bagi tiga ketibaan bagi setiap bulan kalendar 30%\nBAHAGIAN 11\nDIUS SIMPAN TUNGGU\n[undang-undang kecil 12]\nButiran TK bagi setiap vesel\nBagi setiap 30 hari atau\nsebahagian daripadanya\n(RM)\n1 1,000 TK dan kurang 2,000.00\n2 Melebihi 1,000 TK sehingga 2,000 TK 3,000.00\n3 Melebihi 2,000 TK sehingga 15,000 TK 4,000.00\n4 Melebihi 15,000 TK\nCaj tam bahan bagi setiap 100 TK yang melebihi\n15,000 TK\n7,300.00\n3.50\n\nBAHAGIAN 12\nCAJ DOKEJ\n[perenggan 13(1)]\nButiran\nJenis kargo/penumpang\nBagi setiap meter bagi setiap\njam atau sebahagian\ndaripadanya bagi setiap vesel\n(RM)\n1 Kargo am 1.15\n2 Kargo pukal cecair 2.50\n3 Kargo pukal kering 2.50\n4 Kontena dan kargo ro-ro 1.00\n5 Barang berbahaya 3.50\n6 Penumpang 2.50\nBAHAGIAN 13\nCAJ PEMBATALAN BAGI MEMBATALKAN TEMPAT HIMPITAN YANG DIPERUNTUKKAN DI\nTERMINAL PUKAL DAN PECAH PUKAL\n[undang-undang kecil 14]\nButiran Caj pembatalan Bagi setiap vesel\n(RM)\n1 Membatalkan tempahan tempat himpitan yang telah\ndiperuntukkan kurang daripada 8 jam notis bagi vesel yang\nmelebihi PK 50 meter\n100.00\nBAHAGIAN 14\nCAJ DERMAGA DI DERMAGA YANG DIKENDALIKAN SECARA PERSENDIRIAN\n[undang-undang kecil 15]\nButiran Caj dermaga\nBagi setiap tan atau\nsebahagian daripadanya\n(RM)\n1 Semua kargo 0.50\n\nBAHAGIAN 15\nCAJ PEMUNGGAH KARGO BAGI MEMUATKAN ATAU MEMUNGGAH KARGO IMPORT ATAU\nEKSPORT\n[subperenggan 16(1)(a)]\nButiran Jenis kargo\nBagi setiap tan atau\nsebahagian daripadanya\n(dengan peralatan\npemuatan atau\npemunggahan)\n(RM)\n1 Kargo yang dipaletkan atau diunitkan 4.50\n2 Kargo dalam berkas, beg, tong atau bendela 6.15\n3 Konkrit, keluli atau logam lain 7.50\n4 Barang berbahaya 9.50\nKenderaan dua tan dan kurang\nBagi  setiap unit tanpa\nperalatan\n(RM)\n5 45.00\n6 Kenderaan melebihi dua tan\nCaj tambahan bagi  setiap  unit bagi setiap satu\ntan berikutnya\n45.00\n6.00\n7 Lain-lain 8.00\n\nBAHAGIAN 16\nCAJ PEMUNGGAH KARGO BAGI MENGALIHKAN KARGO IMPORT ATAU EKSPORT\n[subperenggan 16(1)(b)]\nButiran Jenis perkhidmatan Bagi setiap tan atausebahagian daripadanya\n(RM)\n1 Mengalihkan kargo pada aras yang sama dalam\npetak yang sama 4.50\n2 Mengalihkan kargo dalam petak yang sama dari\nsatu aras ke satu aras yang lain 9.00\n3 Mengalihkan kargo dari satu petak ke  petak yang\nlain atau menerima kargo dan mengek sport semula\nuntuk memudahkan penyimpanan\n11.30\nBAHAGIAN 17\nCAJ PEMUNGGAH KARGO BAGI MENUNGGU SEDIA TETAPI TIDAK BEKERJA DAN\nPEMBATALAN TEMPAHAN\n[subperenggan 16(1)(c) dan perenggan 16(4)]\nButiran Pemunggah kargo menunggu sedia\nBagi setiap kumpulan\nsetiap syif atau\nsebahagian daripadanya\n(RM)\n1 Pemunggah kargo menunggu sedia tetapi tidak\nbekerja\n330.00\n2 Pembatalan tempahan pemunggah kargo kurang\ndaripada 3 jam notis\n330.00\nBAHAGIAN 18\nCAJ PERMOHONAN LEWAT ATAU PEMBATALAN PEMUNGGAH KARGO\n[perenggan 16(3)]\nButiran Permohonan lewat Bagi setiap kumpulan\n(RM)\n1 Permohonan lewat atau pembatalan 30.00\n\nBAHAGIAN 19\nCAJ RO-RO BAGI MEMUATKAN ATAU MEMUNGGAH KENDERAAN\n[subperenggan 17(a)]\nButiran Kenderaan\nBagi setiap unit setiap jam atau\nsebahagian daripadanya\n(RM)\n1 Kenderaan 5 tan dan kurang 20.00\n2 Kenderaan melebihi 5 tan tetapi tidak\nmelebihi 10 tan 40.00\n3 Kenderaan melebihi 10 tan 80.00\nBAHAGIAN 20\nCAJ RO-RO BAGI MEMUATKAN DAN MEMUNGGAH KARGO\n[subperenggan 17(b)]\nButiran Jenis kargo Bagi setiap tan atau sebahagiandaripadanya\n(RM)\n1 Semua jenis kargo 2.00\nBAHAGIAN 21\nCAJ RO-RO BAGI MEMUATKAN ATAU MEMUNGGAH KONTENA\n[subperenggan 17(c)]\nButiran Jenis perkhidmatan Bagi setiap kontena\n(RM)\n1 Pemuatan atau pemunggahan kontena dengan\nmenggunakan tanjakan  vesel\n30.00\n\nBAHAGIAN 22\nCAJ PENUMPANG\n[undang-undang kecil 18]\nButiran Penumpang yang naik atau turun di dermaga\nLembaga\n(RM)\n1 Dewasa (lebih daripada 12 tahun) 4.50\n2 Kanak-kanak (12 tahun dan ke bawah) 2.30\nBAHAGIAN 23\nCAJ PENGENDALIAN BAGI KONTENA YANG MENGGUNAKAN KREN PELABUHAN\n[subperenggan 19(1)(a) dan perenggan 48(2)]\nButiran Status kontena\nBagi setiap kontena\n20 kaki panjang\n(RM)\n40  kaki\npanjang dan\nke atas\n(RM)\n1 KMP bermuatan (Import/Eksport)\n(a) Kontena biasa yang mengandungi\nbarang t idak b erbahaya atau\nbarang berbahaya Kumpulan III\n(b) Kontena biasa yang mengandungi\nbarang berbahaya K umpulan I\ndan II\n(c) Kontena biasa dari tongkang atau\nbaj yang mengandungi barang\ntidak b erbahaya atau barang\nberbahaya Kumpulan III\n215.00\n230.00\n265.00\n310.00\n345.00\n395.00\n\n2 KMK bermuatan (Import/Export)\n(a) Kontena biasa yang mengandungi\nbarang t idak berbahaya atau\nbarang berbahaya Kumpulan III\n(b) Kontena biasa yang mengandungi\nbarang berbahaya K umpulan I\ndan II\n(c) Kontena biasa dari tongkang atau\nbaj yang mengandungi barang\ntidak b erbahaya atau barang\nberbahaya Kumpulan III\n405.00\n410.00\n498.00\n605.00\n610.00\n744.00\n3 Kontena kosong (Import/Eksport)\n(a) Kontena biasa 155.00 240.00\n(b) Kontena biasa dari tongkang atau\nbaj\n250.00 360.00\n4 Pindah kapal (masuk/keluar)\n(a) Kontena biasa yang mengandungi\nbarang t idak b erbahaya atau\nbarang berbahaya Kumpulan III\n(b) Kontena biasa yang mengandungi\nbarang berbahaya K umpulan I\ndan II\n(c) Kontena biasa dari tongkang atau\nbaj yang mengandungi barang\ntidak b erbahaya atau barang\nberbahaya Kumpulan III\n95.00\n140.00\n210.00\n140.00\n210.00\n325.00\n\nBAHAGIAN 24\nCAJ PENGENDALIAN BAGI KONTENA YANG MENGGUNAKAN KREN VESEL\n[subperenggan 19(1)(b)]\nButiran Status kontena\nBagi setiap kontena\n20 kaki panjang\n(RM)\n40  kaki panjang\ndan ke atas\n(RM)\n1 KMP bermuatan (Import/Eksport)\n(a) Kontena biasa yang\nmengandungi barang t idak\nberbahaya atau barang\nberbahaya Kumpulan III\n(b) Kontena b iasa yang\nmengandungi barang\nberbahaya Kumpulan I dan II\n170.00\n230.00\n205.00\n345.00\n2 KMK bermuatan (Import/Eksport)\n(a) Kontena biasa yang\nmengandungi barang tidak\nberbahaya atau barang\nberbahaya Kumpulan III\n(b) Kontena b iasa yang\nmengandungi barang\nberbahaya Kumpulan I dan II\n355.00\n360.00\n500.00\n505.00\n3 Kontena kosong (Import/ Eksport) 145.00 190.00\n4 Pindah kapal\n(a) Kontena biasa yang\nmengandungi barang tidak\nberbahaya atau barang\nberbahaya Kumpulan III\n(b) Kontena b iasa yang\nmengandungi barang\nberbahaya Kumpulan I dan II\n(c) Kontena biasa kosong\n60.00\n140.00\n60.00\n90.00\n210.00\n90.00\n\nBAHAGIAN 25\nCAJ PENGENDALIAN TAMBAHAN BAGI MENGALIHKAN KONTENA DALAM RUANG\nYANG SAMA\n[subperenggan 20(1)(a)]\nButiran Status kontena\nBagi setiap kontena\nDalam ruang yang sama\n(RM)\n1 Pengalihan menggunakan kren Pelabuhan\n(a) Kontena biasa yang mengandungi\nbarang tidak berbahaya atau barang\nberbahaya Kumpulan III, kontena\nkosong atau kotak gear\n(b) Kontena biasa yang mengandungi\nbarang berbahaya Kumpulan I dan\nII\n60.00\n88.00\n2 Pengalihan menggunakan kren vesel\n(a) Kontena biasa yang mengandungi\nbarang tidak berbahaya atau barang\nberbahaya Kumpulan III, kontena\nkosong atau gear box\n(b) Kontena biasa yang mengandungi\nbarang berbahaya Kumpulan I dan II\n50.00\n100.00\nBAHAGIAN 26\nCAJ PENGENDALIAN TAMBAHAN BAGI MENGALIHKAN KONTENA DARI RUANG KE\nRUANG ATAU PETAK KE PETAK\n[subperenggan 20(1)(b)]\nButiran Status kontena\nBagi setiap kontena\nDari ruang ke ruang/petak\nke petak\n(RM)\n1 Pengalihan menggunakan kren Pelabuhan\n(a) Kontena biasa yang mengandungi\nbarang tidak berbahaya atau barang\nberbahaya Kumpulan III, kontena\nkosong atau kotak gear\n120.00\n\n(b) Kontena biasa yang mengandungi\nbarang berbahaya Kumpulan I dan II\n175.00\n2 Pengalihan menggunakan kren vesel\n(a) Kontena biasa yang mengandungi\nbarang tidak berbahaya atau barang\nberbahaya Kumpulan III, kontena\nkosong atau kotak gear\n(b) Kontena biasa yang mengandungi\nbarang berbahaya Kumpulan I dan II\n100.00\n150.00\nBAHAGIAN 27\nCAJ PENGENDALIAN TAMBAHAN BAGI MENGALIHKAN KONTENA DLU ATAU\nKONTENA ROSAK DALAM RUANG YANG SAMA\n[subperenggan 20(1)(c)]\nButiran Status kontena\nBagi setiap kontena\nDalam ruang yang sama\n(RM)\n1 Pengalihan  kontena DLU atau  kontena rosak di\natas vesel dalam ruang yang sama menggunakan\nkren vesel\n(a) 15 tan dan kurang\n(b) Melebihi 15 tan tetapi tidak melebihi  20\ntan\n(c) Melebihi 20 tan tetapi tidak melebihi 25\ntan\n(d) Melebihi 25 tan tetapi tidak melebihi 30\ntan\n(e) Melebihi 30 tan tetapi tidak melebihi  35\ntan\n(f) Melebihi 35 tan tetapi tidak melebihi 40\ntan\n100.00\n132.00\n166.00\n199.00\n231.00\n261.00\n\nBAHAGIAN 28\nCAJ PENGENDALIAN TAMBAHAN BAGI MENGALIHKAN KONTENA DLU ATAU\nKONTENA ROSAK DARI RUANG KE RUANG ATAU PETAK KE PETAK\n[subperenggan 20(1)(d)]\nButiran Status kontena\nBagi setiap kontena\nDari ruang ke ruang/ petak ke\npetak\n(RM)\n1 Pengalihan  kontena DLU atau  kontena\nrosak di atas vesel dalam ruang yang sama\nmenggunakan kren vesel\n(a) 15 tan dan kurang\n(b) Melebihi 15 tan tetapi tidak\nmelebihi  20 tan\n(c) Melebihi 20 tan tetapi tidak\nmelebihi 25 tan\n(d) Melebihi 25 tan tetapi tidak\nmelebihi 30 tan\n(e) Melebihi 30 tan tetapi tidak\nmelebihi  35 tan\n(f) Melebihi 35 tan tetapi tidak\nmelebihi 40 tan\n200.00\n264.00\n332.00\n398.00\n462.00\n522.00\nBAHAGIAN 29\nCAJ PENGENDALIAN TAMBAHAN BAGI MEMBUKA DAN MENUTUP PENUTUP HAC\n[subperenggan 20(1)(e)]\nButiran Jenis perkhidmatan Bagi setiap hac\n(RM)\n1 Membuka dan menutup penutup hac\n(a) Menggunakan kren Pelabuhan\n(b) Menggunakan kren vessel\n130.00\n150.00\n\nBAHAGIAN 30\nCAJ PENGENDALIAN TAMBAHAN BAGI MENGANGKAT KARGO TIDAK BERKONTENA\n[subperenggan 20(1)(f)]\nButiran Tanan kargo Bagi setiap pengangkatan bagi\nsetap jam atau sebahagian\ndaripadanya\n(RM)\n1 (a) Kargo 15 tan dan kurang\n(b) Kargo m elebihi 15 tan tetapi tidak\nmelebihi  20 tan\n240.00\n700.00\nBAHAGIAN 31\nCAJ PEMBATALAN BAGI MEMBATALKAN TEMPAHAN TEMPAT HIMPITAN YANG\nDIPERUNTUKKAN DI TERMINAL KONTENA\n[undang-undang kecil 21]\nButiran Caj pembatalan Bagi setiap vesel\n(RM)\n1 Membatalkan tempahan tempat himpitan yang\ndiperuntukkan di terminal kontena kurang daripada\n5 jam notis\n200.00\nJADUAL KEDUA\nCAJ AKAUN PEKAPAL ATAU PENERIMA KONSAIN\nBAHAGIAN 1\nCAJ AM\n[undang-undang kecil 23]\nButiran Jenis kargo\nBagi setiap tan atau sebahagian\ndaripadanya\n(RM)\n1 Semua kargo 0.60\n\nBAHAGIAN 2\nCAJ PERKHIDMATAN DERMAGA\n[undang-undang kecil 24]\nButiran Jenis kargo\nPenerimaan dan\npenghantaran di\ndermaga bagi\nsetiap tan atau\nsetiap meter\npersegi atau\nsebahagian\ndaripadanya\n(secara\nlangsung)\n(RM)\nPenerimaan,\npenyimpanan dan\npenghantaran di\ngudang dan\npenyimpanan\nterbuka bagi\nsetiap tan atau\nsetiap meter  padu\natau sebahagian\ndaripadanya\n(tidak secara\nlangsung) – terhad\nkepada\npembekalan trelar\npindah dermaga\ndengan kapasiti\nmaksimum 40 tan\ndan satu forklift\ndengan kapasiti\nmaksimum 3 tan\n(RM)\n1 Kargo yang dipaletkan atau diunitkan 3.80 5.10\n2 Kargo dalam bandela atau dalamberkas atau kayu gergaji 3.30 6.80\n3 Konkrit, keluli atau logam lain 4.40 6.80\n4 Kargo yang dibegkan 3.80 5.70\n5 Kargo dalam tong 3.80 5.10\n6 Barang berbahaya Kumpulan I dan II 13.60 Tiada\n7 Barang berbahaya Kumpulan III 6.60 10.20\n8 Kenderaan 2 tan dan kurang ( bagi\nsetiap unit)\n33.00 39.60\n\n9 Kenderaan melebihi 2 tan   ( bagi\nsetiap unit)\n44.00 50.90\n10 Haiwan ternakan  (bagi setiap ekor) 1.10 Tiada\n11 Kargo kering yang lain (kargo yang\ntidak dinyatakan seperti kargo cerai,\nkayu balak bulat, batu g ranit, jentera,\nkargo projek, dsb.)\n6.05 8.50\n12 Tidak boleh dimakan: Kargo pukal\ncecair (barang berbahaya)\nPenerimaan ke dalam kenderaan atau\npepasangan melalui saluran paip atau\npengangkut bagi  setiap tan atau\nsebahagian daripadanya (secara\nlangsung)\n(RM)\nKumpulan I\nKumpulan II\nKumpulan III\n3.80\n3.30\n2.70\n13 Boleh dimakan: kargo pukal cecair 2.20\nSecara\nkonvensional\nbagi  setiap tan\natau sebahagian\ndaripadanya\n(secara\nlangsung)\n(RM)\nSecara saluran\npaip atau\npengangkut bagi\nsetiap tan atau\nsebahagian\ndaripadanya\n(secara langsung)\n(RM)\n14 Kargo pukal kering 2.80 2.10\nBagi setiap tan\natau bagi setiap\nmeter padu atau\nsebahagian\ndaripadanya\n15 Kargo pindah kapal  atau  dieksport semula\n(a) Barang berbahaya 50% daripadakadar biasa\n(b) Barang tidak berbahaya\n(i) Kargo cecair\n75% daripada\nkadar biasa\n(ii) Kargo pukal kering 75% daripada\nkadar biasa\n\n(c) Kargo am yang disenarai di bawah butiran 1, 2, 3, 4,\n5  dan 11\n50% daripada\nkadar biasa\nBAHAGIAN 3\nCAJ PERKHIDMATAN PEMINDAHAN\n[perenggan 25(1)]\nButiran Jenis perkhidmatan Bagi setiap tan atau\nsebahagian daripadanya\n(RM)\n1 Pemindahan kargo dari satu gudang ke satu\ngudang yang lain atau dari gudang ke tempat\nsimpanan atau sebaliknya di dalam premis\npelabuhan\n4.40\nBAHAGIAN 4\nCAJ PENYIMPANAN BAGI KARGO PUKAL DAN PECAH PUKAL PINDAH KAPAL ATAU\nEKSPORT SEMULA\n[subperenggan 26(1)(a)]\nButiran Tempoh penyimpanan\nBagi setiap tan atau\nsebahagian\ndaripadanya/ setiap\nminggu atau\nsebahagian\ndaripadanya\n(RM)\n1 Bagi tiga  minggu yang pertama yang dikira dari\ntarikh pemunggahan disiapkan oleh vesel pertama\nTiada\n2 Bagi minggu keempat  dan minggu -minggu yang\nberikutnya, yang dikira dari tarikh pemunggahan\ndisiapkan oleh vesel pertama\n8.00\n\nBAHAGIAN 5\nCAJ PENYIMPANAN BAGI KARGO PUKAL DAN PECAH PUKAL IMPORT\n[subperenggan 26(1)(b)]\nButiran Tempoh penyimpanan Bagi setiap tan atau sebahagian\ndaripadanya\n(RM)\nGudang Tempat\nsimpanan\nterbuka\n1 Bagi tiga  hari yang pertama Tiada Tiada\n2 Bagi hari yang keempat   atau\nsebahagian daripadanya\n1.50 0.75\n3 Bagi ha ri yang kelima  hingga keempat\nbelas, bagi setiap hari atau sebahagian\ndaripadanya\n0.50 0.25\n4 Bagi minggu yang ketiga  dan minggu-\nminggu yang berikutnya, bagi  setiap\nminggu atau sebahagian daripadanya\n7.00 4.00\nBAHAGIAN 6\nCAJ PENYIMPANAN BAGI BARANG BERBAHAYA KUMPULAN III IMPORT\n[subperenggan 26(1)(c)]\nButiran Tempoh penyimpanan\nBagi setiap tan atau\nsebahagian\ndaripadanya\n(RM)\n1 Bagi tiga hari yang pertama 2.25\n2 Bagi hari yang keempat  hingga ke keempat belas,\nbagi setiap hari atau sebahagian daripadanya 3.00\n3 Bagi minggu ketiga  dan minggu -minggu yang\nberikutnya, bagi  setiap minggu atau sebahagian\ndaripadanya\n10.50\n\nBAHAGIAN 7\nCAJ PENYIMPANAN BAGI KARGO PUKAL DAN PECAH PUKAL EKSPORT\n[subperenggan 26(1)(d)]\nButiran Tempoh penyimpanan Bagi setiap tan atau sebahagian\ndaripadanya\n(RM)\nGudang Tempat simpanan\nterbuka\n1 Bagi enam  hari yang pertama Tiada Tiada\n2 Bagi hari yang ketujuh  atau sebahagian\ndaripadanya\n1.50 0.75\n3 Bagi hari yang kelapan  hingga keempat\nbelas bagi setiap hari atau sebahagian\ndaripadanya\n0.50 0.25\n4 Bagi minggu yang ketiga dan minggu -\nminggu yang berikutnya, bagi  setiap\nminggu atau sebahagian daripadanya\n5.50 2.75\nBAHAGIAN 8\nCAJ PENYIMPANAN BAGI BARANG BERBAHAYA KUMPULAN III EKSPORT\n[subperenggan 26(1)(e)]\nButiran Tempoh penyimpanan Bagi setiap tan\natau sebahagian\ndaripadanya\n(RM)\n1 Bagi enam yang hari pertama 2.25\n2 Bagi hari yang ketujuh  hingga keempat belas  bagi setiap\nhari atau sebahagian daripadanya 3.00\n3 Bagi minggu yang ketiga dan minggu -minggu yang\nberikutnya, bagi  setiap minggu atau sebahagian\ndaripadanya\n8.25\n\nBAHAGIAN 9\nCAJ PENYIMPANAN BAGI KARGO PUKAL DAN PECAH PUKAL EXPORT YANG\nDITINGGALKAN KAPAL\n[subperenggan 26(1)(f)]\nButiran Tempoh penyimpanan Bagi setiap unit bagi setiap\ntan atau sebahagian\ndaripadanya\n(RM)\n1 Bagi enam yang hari pertama Tiada\n2 Bagi setiap  minggu atau sebahagian\ndaripadanya\n4.00\nBAHAGIAN 10\nCAJ PENYIMPANAN BAGI KENDERAAN\n[subperenggan 26(1)(g)]\nButiran\nJenis kenderaan/tanan kenderaan\nBagi setiap kenderaan bagi\nsetiap hari atau sebahagian\ndaripadanya\n(RM)\nGudang Tempat\nsimpanan\nterbuka\n1 Kenderaan sehingga dua tan 4.00 2.00\n2 Kenderaan melebihi daripada dua   tan 5.00 3.00\n3 Motosikal, skuter, basikal, basikal beroda\ntiga, kereta sorong\n1.50 1.00\nBAHAGIAN 11\nCAJ PENYIMPANAN BAGI KARGO ROSAK\n[subperenggan 26(1)(h)]\nButiran Jenis kargo Bagi setiap tan setiap hari atau\nsebahagian daripadanya\n(RM)\nGudang Tempat\nsimpanan\nterbuka\n1 Kargo rosak 1.50 0.75\n\nBAHAGIAN 12\nCAJ PENYIMPANAN BAGI KARGO YANG DITINGGALKAN DI PREMIS PELABUHAN\n[perenggan 26(1)(i)]\nButiran Jenis kargo Bagi setiap tan  setiap hari\natau sebahagian\ndaripadanya\n(RM)\n1 Kargo yang ditinggalkan di premis pelabuhan 3.50\nBAHAGIAN 13\nCAJ PERKHIDMATAN DERMAGA DI DERMAGA YANG DIKENDALIKAN SECARA\nPERSENDIRIAN\n[undang-undang kecil 27]\nButiran Jenis kargo Bagi setiap tan  setiap hari\natau sebahagian\ndaripadanya\n(RM)\n1 Semua kargo 0.50\nBAHAGIAN 14\nCAJ PENGENDALIAN BAGI KARGO PUKAL KERING\n[subperenggan 28(a)]\nButiran\nKelengkapan pengendalian kargo pukal\nBagi setiap tan  atau\nsebahagian\ndaripadanya\n(RM)\n1 Menggunakan kren sahaja\n(a) Pemerah isirung  kelapa sawit dan baja 6.60\n(b) Klinker 5.50\n(c) Bijirin 5.50\n(d) Lain-lain 6.60\n2 Menggunakan sistem pengangkut atau paip sahaja\n(a) Pemerah isirung  kelapa sawit dan baja 5.00\n(b) Klinker 2.80\n(c) Bijirin 2.80\n(d) Lain-lain 5.00\n\n3 Menggunakan kren dan sistem pengangkut atau paip\nsahaja\n(a) Pemerah isirung  kelapa sawit dan baja 10.50\n(b) Klinker 7.15\n(c) Bijirin 7.15\n(d) Lain-lain 10.50\n4 Menggunakan kren vesel (termasuk cekau dan\ncorong)\n30% pengurangan\ndaripada butiran 1\n5 Meratakan 0.70\nBAHAGIAN 15\nCAJ PENGENDALIAN BAGI KARGO PUKAL CECAIR\n[perenggan 28(b)]\nButiran Kelengkapan pengendalian kargo pukal Bagi setiap tan  atau\nsebahagian\ndaripadanya\n(RM)\n1 Menggunakan lengan punggah muat 0.35\nJADUAL KETIGA\nCAJ AKAUN VESEL, PEKAPAL ATAU PENERIMA KONSAIN\nBAHAGIAN 1\nCAJ JAMBATAN TIMBANG\n[perenggan 30(1)]\nButiran Status  lori Bagi setiap lori /\nkontena bagi setiap\ntimbangan\n(RM)\n1 Lori kosong 3.00\n2 Lori dengan muatan kargo pukal dan pecah pukal 6.00\n3 Lori dengan kontena 5.00\n\nBAHAGIAN 2\nCAJ PENIMBANG MUDAH ALIH\n[perenggan 30(2)]\nButiran Lokasi (RM)\n1 Terminal pukal dan pecah pukal 300.00 bagi setiap unit\npenimbang bagi setiap syif\natau sebahagian\ndaripadanya\n2 SBK 1.00 bagi setiap timbangan\nBAHAGIAN 3\nCAJ PENGGUNAAN RUANG GUDANG ATAU TEMPAT SIMPANAN TERBUKA\n[undang-undang kecil 31]\nButiran Lokasi Bagi setiap syif atau setiap meter\npersegi atau sebahagian\ndaripadanya\n(RM)\n1 Gudang 1.00\n2 Tempat simpanan terbuka 0.50\nBAHAGIAN 4\nCAJ PENYIMPANAN BAGI KONTENA\n[undang-undang kecil 32 dan perenggan 44(3) dan (4)]\nButiran Jenis kontena\nBagi setiap\n24 jam atau sebahagian\ndaripadanya\n(RM)\n20 kaki\npanjang\n40 kaki panjang\ndan ke atas\n1 Kontena biasa bermuatan atau kosong atau\nkontena biasa yang mengandungi barang\ntidak berbahaya atau barang berbahaya\nKumpulan III (Import/Eksport)\n4.00 8.00\n2 Kontena DLU atau kontena rosak\n(Import/Export)\n15.00 30.00\n3 Casis treler 2.00 bagi\nsetiap  jam\natau\nsebahagian\ndaripadanya\n4.00 bagi  setiap\njam atau\nsebahagian\ndaripadanya\n\nBAHAGIAN 5\nCAJ BAGI PERKHIDMATAN KONTENA SEJUK\n[undang-undang kecil 33]\nButiran Jenis perkhidmatan Bagi setiap kontena\n(RM)\n1 Pemasangan atau pemotongan bekalan elektrik di atas\nvesel\n15.00\n2 Pemasangan atau pemotongan bekalan elektrik di  blok\nsejuk Pelabuhan\n15.00\n3 Pemeriksaan pra-perjalanan 100.00\n4 Perkhidmatan  sejuk di atas vesel (bagi kontena yang\ntelah berada di atas vesel)\n150.00\n5 Perkhidmatan memantau kontena sejuk di blok sejuk\nPelabuhan 11.00 bagi setiap syif\n6 Fi pemeriksaan kontena sejuk di blok sejuk Pelabuhan 15.00 bagi setiap\npemeriksaan\nBAHAGIAN 6\nCAJ PENGENDALIAN BAGI KONTENA DLU, KONTENA ROSAK ATAU KONTENA BUKAN\nBERSTANDARD ISO\n[perenggan 34(1)]\nButiran Tanan kontena\nImport/ Export Pindah kapal\nBagi setiap\npengangkatan\nsetiap jam atau\nsebahagian\ndaripadanya\n(RM)\nBagi setiap\npengangkatan\nsetiap jam atau\nsebahagian\ndaripadanya\n(RM)\n1 15 tan dan kurang 325.00 292.00\n2 Melebihi 15 tan tetapi tidak melebihi\n20 tan\n430.00 387.00\n3 Melebihi 20 tan tetapi tidak melebihi\n25 tan\n540.00 486.00\n4 Melebihi 25 tan tetapi tidak melebihi\n30 tan\n645.00 580.00\n5 Melebihi 30 tan tetapi tidak melebihi\n35 tan\n750.00 675.00\n6 Melebihi 35 tan tetapi tidak melebihi\n40 tan\n845.00 760.00\n\nBAHAGIAN 7\nCAJ PENGALIHAN BAGI KONTENA DLU, KONTENA ROSAK ATAU KONTENA BUKAN\nBERSTANDARD ISO DI ATAS KAPAL DENGAN MENGGUNAKAN KREN PELABUHAN DI\nDALAM RUANG YANG SAMA\n[subperenggan 35(1)(a)]\nButiran Tanan kontena\nBagi setiap kontena setiap\npengangkatanbagi setiap jam\natau sebahagian daripadanya\n(RM)\n1 15 tan dan kurang 91.00\n2 Melebihi 15 tan tetapi tidak melebihi  20\ntan\n120.00\n3 Melebihi 20 tan tetapi tidak melebihi 25\ntan\n151.00\n4 Melebihi 25 tan tetapi tidak melebihi 30\ntan\n181.00\n5 Melebihi 30 tan tetapi tidak melebihi  35\ntan\n210.00\n6 Melebihi 35 tan tetapi tidak melebihi 40\ntan\n237.00\nBAHAGIAN 8\nCAJ PENGALIHAN BAGI KONTENA DLU, KONTENA ROSAK ATAU KONTENA BUKAN\nBERSTANDARD ISO DI ATAS KAPAL DENGAN MENGGUNAKAN KREN PELABUHAN DARI\nRUANG KE RUANG ATAU PETAK KE PETAK\n[subperenggan 35(b)]\nButiran Tanan kontena\nBagi setiap kontena\nsetiap penangkatan\nbagi setiap jam atau\nsebahagian\ndaripadanya\n(RM)\n1 15 tan dan kurang 182.00\n2 Melebihi 15 tan tetapi tidak melebihi  20 tan 240.00\n3 Melebihi 20 tan tetapi tidak melebihi 25 tan 302.00\n4 Melebihi 25 tan tetapi tidak melebihi 30 tan 362.00\n5 Melebihi 30 tan tetapi tidak melebihi  35 tan 420.00\n6 Melebihi 35 tan tetapi tidak melebihi 40 tan 474.00\n\nBAHAGIAN 9\nCAJ BAGI PENGALIHAN KONTENA KE RUANGAN PEMERIKSAAN KASTAM\n[undang-undang kecil 36]\nButiran Jenis perkhidmatan\n20 kaki panjang\n(RM)\n40 kaki panjang\ndan ke atas\n(RM)\n1 Pengalihan kontena ke Ruangan\nPemeriksaan Kastam di dalam\nterminal kontena\n60.00 80.00\nBAHAGIAN 10\nCAJ PENYIMPANAN BAGI KONTENA DI RUANGAN PEMERIKSAAN KASTAM\n[perenggan 37(1)]\nButiran Jenis perkhidmatan\n20 kaki panjang\n(RM)\n40 kaki\npanjang dan ke\natas\n(RM)\n1 Caj penyimpanan bagi kontena yang\ndisimpan di Ruang an Pemeriksaan\nKastam\n10.00 bagi\nsetiap 24 jam\natau sebahagian\ndaripadanya\n15.00 bagi\nsetiap 24 jam\natau\nsebahagian\ndaripadanya\nBAHAGIAN 11\nCAJ PENYIMPANAN BAGI KONTENA DI SBK\n[perenggan 38(1)]\nButiran Jenis perkhidmatan 20 kaki panjang\n(RM)\n40 kaki panjang\ndan ke atas\n(RM)\n1 Caj peny impanan bagi kontena yang\ndisimpan di SBK\n10.00 bagi setiap\n24 jam atau\nsebahagian\ndaripadanya\n15.00 bagi setiap\n24 jam atau\nsebahagian\ndaripadanya\n\nBAHAGIAN 12\nCAJ BAGI PENERIMAAN KARGO DI SBK\n[undang-undang kecil 39]\nButiran Masa penerimaan di SBK Bagi setiap lori\n(RM)\n1 Kargo diterima di SBK dari jam 0700 hingga\njam 1800 tanpa kehendak tempahan\nTiada\n2 Kargo diterima di SBK dari jam 1801 hingga\njam 2300 dengan tempahan\nTiada\n3 Kargo diterima di SBK dari jam 1801 hingga\njam 2300 tanpa tempahan\n50.00\n4 Kargo diterima di SBK dari jam 2301 hingga\njam 0659  dengan atau tanpa tempahan\n50.00\nBAHAGIAN 13\nCAJ PENGENDALIAN SBK BAGI KARGO\nIMPORT ATAU EKSPORT\n[subperenggan 40(a)]\nButiran Jenis perkhidmatan\nBagi setiap kontena bagi setiap syif\natau sebahagian daripadanya\n20 kaki panjang\n(RM)\n40 kaki panjang\ndan ke atas\n(RM)\n1 Pengendalian kargo import atau eksport\ndi SBK\n210.00 315.00\n2 Caj tambahan sebagai tambahan kepada\nbutiran 1 bagi mengisi tanah liat secara\npukal dengan menggunakan penyodok\n22.00 44.00\n\nBAHAGIAN 14\nCAJ PENGENDALIAN SBK BAGI KARGO YANG TIDAK DIEKSPORT\n[perenggan 40(b)]\nButiran Jenis perkhidmatan\nBagi setiap tan metrik atau\nsebahagian daripadanya\n(RM)\n1 Pengendalian kargo yang tidak dieksport\n(a) Dipaletkan/diunitkan 5.10\n(b) Kargo dalam bandela atau dalam\nberkas, kayu gergaji\n5.10\n(c) Konkrit, keluli 6.80\n(d) Kargo yang dibegkan 5.70\n(e) Kargo dalam tong 5.10\n(f) Barang berbahaya Kumpulan III 10.20\n(g) Kenderaan  dua  tan  dan kurang 39.60\n(h) Kenderaan melebihi  dua tan 50.90\n(i) Kargo kering yang lain 8.50\nBAHAGIAN 15\nCAJ SBK BAGI PENGHANTARAN LEWAT KARGO, PENERIMAAN LEWAT ARAHAN\nPENGISIAN, DAN PELEPASAN LEWAT DARIPADA PIHAK BERKUASA ZON BEBAS DAN\nKASTAM\n[undang-undang kecil 41]\nButiran Jenis  perkhidmatan\nBagi setiap kontena bagi setiap syif\natau sebahagian daripadanya\n(RM)\n20 kaki panjang 40 kaki panjang\ndan ke atas\n1 Menerima kargo pecah pukal bagi\npengisian kurang dari pada 36 jam\nsebelum masa sebenar penghimpitan\nvesel yang dilantik\n45.00 70.00\n2 Menerima arahan pengisian kurang\ndaripada 12 jam sebelum masa\nsebenar penghimpitan vesel yang\ndilantik\n45.00 70.00\n\n3 Menerima pelepasan daripada Pihak\nBerkuasa Zon Bebas atau Kastam bagi\nkontena KMK dan KMP kurang\ndaripada 12 jam sebelum masa\nsebenar penghimpitan vesel yang\ndilantik\n45.00 70.00\nBAHAGIAN 16\nCAJ PENYIMPANAN BAGI KARGO DI SBK\n[perenggan 42(1)]\nButiran Jenis kargo\nGudang (Bagi\nsetiap tan atau\nsebahagian\ndaripadanya)\n(RM)\nTempat\nsimpanan\nterbuka\n(Bagi setiap tan\natau sebahagian\ndaripadanya)\n(RM)\n1 Kargo pukal atau pecah pukal\n(a) barang tidak berbahaya KMP\natau KMK eksport\n(i) hari ketujuh hingga hari\nkeempat belas\n1.50\n(penambahan 0.50\nbagi setiap hari\ntambahan)\n0.75\n(penambahan\n0.25 bagi setiap\nhari tambahan\n(ii) minggu ketiga 10.50 5.25\n(iii) selepas minggu ketiga Penambahan 5.50\nbagi setiap minggu\ntambahan atau\nsebahagian\ndaripadanya\nPenambahan\n2.75\nbagi setiap\nminggu\ntambahan atau\nsebahagian\ndaripadanya\n(b) barang t idak berbahaya KMP\natau KMK import\n(i) hari keempat hingga hari\nkeempat belas\n1.50\n(penambahan 0.50\nbagi setiap hari\ntambahan)\n0.75\n(penambahan\n0.25 bagi setiap\nhari tambahan)\n(ii) minggu ketiga 13.50 7.25\n\n(iii) selepas minggu ketiga Penambahan 7.00\nbagi setiap minggu\ntambahan\nPenambahan\n4.00 bagi setiap\nminggu\ntambahan\n2 (a) Penyimpanan barang\nberbahaya Kumpulan III\nimport\n(i) tiga hari yang pertama\napabila dikeluarkan isi dari\nkontena\n2.25\n(ii)hari keempat hingga hari\nkeempat belas bagi setiap\nhari atau sebahagian\ndaripadanya\n3.00\n(iii)minggu ketiga dan\nminggu-minggu yang\nberikutnya bagi setiap\nminggu atau sebahagian\ndaripadanya\n10.50\n(b) Penyimpanan barang -barang\nberbahaya Kumpulan III eksport\n(i) enam hari yang pertama\napabila diterima di SBK\n2.25\n(ii) hari ketujuh sehingga hari\nkeempat belas bagi setiap\nhari atau sebahagian\ndaripadanya\n3.00\n(iii) minggu ketiga dan minggu-\nminggu yang berikutnya\nbagi setiap minggu atau\nsebahagian daripadanya\n8.25\n3 Kargo ekspo rt yang ditinggalkan\nkapal\n4.00 bagi setiap minggu atau\nsebahagian daripadanya\nBagi setiap\nkenderaan/ bagi\nsetiap hari atau\nsebahagian\ndaripadanya\n(RM)\nBagi setiap\nkenderaan/ bagi\nsetiap hari atau\nsebahagian\ndaripadanya\n(RM)\n4 Kenderaan\n(a) kenderaan sehingga dua tan\n(b) kenderaan yang melebihi dua\ntan\n4.00\n5.00\n2.00\n3.00\n\n(c) motosikal, skuter, basikal,\nbasikal beroda tiga, kereta\nsorong\n1.50 1.00\nBAHAGIAN 17\nCAJ PEMINDAHAN BAGI KARGO YANG MELEBIHI TEMPOH PENYIMPANAN PERCUMA DI\nSBK\n[perenggan 42(6)]\nButiran Jenis perkhidmatan\nBagi setiap tan atau\nsebahagian\ndaripadanya\n(RM)\n1 Pemindahan kargo pecah pukal yang disimpan di\ndalam SBK ke lokasi lain apabila  melebihi tempoh\npenyimpanan percuma\n4.40\nBAHAGIAN 18\nCAJ MASA PENUTUPAN BAGI MENERIMA KONTENA EKSPORT DI TERMINAL TERMINAL\n[undang-undang kecil 43]\nButiran Caj masa penutupan\nBagi setiap kontena\n20 kaki\npanjang\n(RM)\n40 kaki\npanjang dan\nke atas\n(RM)\n1 Penerimaan kontena di terminal kontena\nkurang dari pada lapan jam sebelum\nanggaran masa ketibaan vesel\n45.00 70.00\n\nBAHAGIAN 19\nCAJ KONTENA YANG DITINGGALKAN KAPAL ATAU PENUKARAN VESEL\n[undang-undang kecil 44]\nButiran Ditinggalkan kapal atau penukaran vesel\nBagi setiap kontena\n20 kaki\npanjang\n(RM)\n40 kaki\npanjang dan\nke atas\n(RM)\nKontena yang diterima tetapi tidak\ndikapalkan di atas pelayaran asal ves el\nyang dilantik dan kemudiannnya\ndikapalkan melalui pela yaran ves el yang\nlain\n45.00 70.00\n2 Kontena diambil semula oleh pekapal 90.00 140.00\nBAHAGIAN 20\nCAJ PEMUATAN KONTENA TAMBAHAN\n[undang-undang kecil 45]\nButiran Jenis perkhidmatan\nBagi setiap kontena\n20 kaki\npanjang\n(RM)\n40 kaki\npanjang dan ke\natas\n(RM)\nPermintaan bagi pemuatan tambahan\nselepas mengemukakan pelan muatan\nmuktamad\n45.00 70.00\n2 Permintaan bagi pemuatan tambahan\napabila ves el yang dilantik  telah pun\ndihimpitkan\n90.00 140.00\n\nBAHAGIAN 21\nCAJ KONTENA PELBAGAI\n[undang-undang kecil 46]\nButiran Jenis perkhidmatan\nBagi setiap pengangkatan bagi\nsetiap kontena atau\nsebahagian daripadanya\n20 kaki\npanjang\n(RM)\n40 kaki\npanjang dan\nke atas\n(RM)\n1 CPT 45.00 70.00\n2 Penukaran pemilikan kontena 45.00 70.00\n3 Penukaran status kontena 45.00 70.00\n4 Angkut letak 45.00 70.00\nDibuat 20 Mei 2011\n[LPJ/IP/U(S)060JLD5(23); PN(PU2)175/IV]\nDATO‘ LONG SEE WOOL\nTimbalan Pengerusi\nLembaga Pelabuhan Johor\nDiluluskan 23 Mei 2011\n[KP/BM/PL/22/4 Jd. 7 (49); PN(PU2)175/IV]\nDATO' SERI KONG CHO HA\nMenteri Pengangkutan\n\nPORT AUTHORITY ACT 1963\nJOHOR PORT AUTHORITY (SCALE OF CHARGES) BY-LAWS 2011\nPART I\nPRELIMINARY\n1. Citation and commencement\n2. Interpretation\nPART II\nVESSEL'S ACCOUNT CHARGES\n3. Type of charges\n4. Consolidated marine charge\n5. Pilot detention charge\n6. Tugboat detention charge\n7. Late request, changes or cancellation charge\n8. Tugboat services charge\n9. Mooring services charge\n10. Pilotage services charge\n11. Port dues\n12. Lay-up dues\n13. Dockage charge\n14. Cancellation charge for cancelling allocated berth at Bulk and Break Bulk Terminal\n15. Wharfage charge on privately operated wharf\n16. Stevedore charge\n17. Roll-on roll-off charge\n18. Passenger charge\n19. Handling charge for containers\n20. Additional handling charge for shifting of containers and uncontainerized cargo\n21. Cancellation charge for cancelling the booking of allocated berth at Container\nTerminal\n\nPART III\nSHIPPER OR CONSIGNEE'S ACCOUNT CHARGES\n22. Type of charges\n23. General charge\n24. Wharf services charge\n25. Removal service charge\n26. Storage charge for bulk and break-bulk cargo\n27. Wharf services charge on privately operated wharf\n28. Handling charge for bulk cargo\nPART IV\nVESSEL, SHIPPER OR CONSIGNEE'S ACCOUNT CHARGES\n29. Type of charges\n30. Weighbridge and weighing scales charge\n31. Charge for the use of warehouse or open yard space\n32. Storage charge for containers\n33. Reefer container services charge\n34. Handling charge for OOG containers, damaged containers or non -ISO standard\ncontainers\n35. Shifting charge for OOG containers, damaged containers or non -ISO standard\ncontainers\n36. Shifting charge for containers to Customs Inspection Bay\n37. Storage charge for containers at Customs Inspection Bay\n38. Storage charge for containers at CFS\n39. Cargo received at the CFS\n40. CFS handling charge\n41. CFS charge for late delivery of cargo, late receiving stuffing instruction and late\nclearance from Free Zone Authority and Customs\n42. Storage charge for cargo at CFS\n\n43. Closing time charge\n44. Shut-out containers and change of vessel\n45. Additional container loading charge\n46. Miscellaneous container charge\nPART V\nMISCELLANEOUS\n47. Transhipment rates\n48. Re-export cargo\n49. Palletized or unitized cargo\n50. Chargeable tonnage\n51. Payment of charges\n52. Undercharge\n53. Overcharge\n54. Conditions for hire of mechanical equipment, gears and appliances\n55. General conditions\n56. Revocation\nFirst Schedule\nSecond Schedule\nThird Schedule\n\nPORT AUTHORITIES ACT 1963\nJOHOR PORT AUTHORITY (SCALE OF CHARGES) BY-LAWS 2011\nIN exercise of the powers conferred by sections 16 and 29 of the Port Authorities Act 1963\n[Act 488], the Johor Port Authority with the approval of the Minister makes the following\nby-laws:\nPART I\nPRELIMINARY\nCitation and commencement\n1. (1)  These by –laws may be cited as the Johor Port Authority (Scale of Charges)\nBy-Laws 2011.\n(2)  These By-laws come into operation on 23 August 2011.\nInterpretation\n2. In these By-laws, unless the context otherwise requires―\n\"Authority\" means the Johor Port Authority and includes its servants and agents;\n\"Authority Approved Anchorage\" means any anchorage approved by the Authority;\n\"Authority's wharf\" means a wharf, do ck, pier or landing place operated or\ncontrolled by the Authority;\n\"cargo\" shall  include goods, livestock, minerals, wares and merchandise of every\ndescription whether containerized or otherwise, and passenger luggage and effects;\n\"CFS\" means the Container Freight Station within the port premises;\n\n\"Chief Officer\" means an authorized personnel acting for and on behalf of the Master\nof the vessel;\n\"dangerous goods \" means dangerous goods whether in packaged form,\ncontainerized or carried in bulk , and include s the goods cl assified by the Authority into\ngroups as specified in the First Schedule of the Johor Port Authority By -Laws 1979\n[P.U. (A) 50/1979] and in conformity with the relevant IMO codes and the IMDG Code as\nmay be amended from time to time and as adopted by the Authority;\n\"day\", in relation to a transaction, means the period of twenty -four hours from the\ntime of the commencement of the transaction with the Authority;\n\"dockage charge\" means the charge imposed on a vessel for occupying a wharf;\n\"EMC\" means the extra movement char ges for any additional movement of\ncontainers;\n\"FCL\" means Full Container Load as declared by the shipping line or its agent in the\nmanifest, container discharged list, load list or e xport pre -advice submitted to the\nAuthority prior  to the discharge or  loading  onto a vessel;\n\"Free Zone Authority\" means the Pasir Gudang Free Zone Authority appointed\nunder subsection 3(2) of the Free Zones Act 1990 [Act 438];\n\"gang\" means a composit ion of labour comprising of a number of workers based on\nthe nature of the cargo and the handling requirements for the cargo;\n\"GT\" means the gross tonnage of a vessel measured in accordance with the\nInternational Convention of Tonnage Measurement of Ships 1982;\n\n\"IMDG Code\" means the International Maritime Dangerous Goods Code published by\nthe IMO;\n\"IMO\" means the International Maritime Organization;\n\"lay-up\", in relation to a vessel, means not actively employed provided that the\nmaster or owner of such vessel has given written notice to the Authority and the port\nofficer that the vessel is in such condition, and the Authority and the port officer have given\ntheir written approval;\n\"LCL\" means Less Container Load as declared by the shipping line or its agent in the\nmanifest, container discharge d list , load list or export pre -advice submitted to the\nAuthority prior to the discharge or loading onto a vessel;\n\"LOA\" means the length overall of a vessel measured from the extreme point\nforward of the vessel to the extreme point aft of the vessel;\n\"night\" means the period from 1900 hours on any day to 0700 hours the following\nday;\n\"OOG container\" means an ISO standard size container wh ich is out of gauge due to\nthe carrying of any cargo of the size exceeding the dimension of the container;\n\"package\" includes any box, basket, barrel, case, receptacle, sack, bag, wrapper,\nenvelope or other covering or thing in which any cargo is placed for the purpose of\ncarriage, consignment, freight, importation or exportation;\n\"pallet\" means a device on the deck of which a quantity of cargo es can be assembled\nto form a unit load for the purpose of transporting the cargo or of handling and stacking the\ncargo with the assistance of mechanical appliances and is made up of two decks separated\nby barriers, or of a single deck supported by feet;\n\n\"palletized cargo\" means the cargo in small packages or units which have been\nwrapped, strapped, or wrapped and strapped together and placed on a pallet;\n\"Port\" means the Pasir Gudang Port within the limits declared under section 6 of the\nMerchant Shipping Ordinance 1952 [Ord. 70/1952];\n\"port officer\" has the meaning assigned to it in the Merchant Shipping Ordina nce\n1952;\n\"port premises\" includes any pl ace owned or occupied by the Authority and\nappropriated by it for the landing and shipping of any cargo, including any portion of the\nbank of the river so owned or occupied which has been improved to facilitate s uch landing\nand shipping and any foreshore so owned or occupied and used for such purpose;\n\"shift\" means three recurring working periods in a day as follows:\n(a) first shift: from 0700 hours to 1500 hours of the same day;\n(b) second shift: from 1500 hours to 2300 hours of the same day; and\n(c) third shift: from 2300 hours to 0700 hours of the next day;\n\"shut-out\", in relation to a cargo or container, means not carried on the vessel's\nvoyage intended for the cargo or container;\n\"Terminal Manager\" means any officer in charge of a cargo or passenger terminal\nand includes his assistants and any other officer acting under or with his authority;\n\"tonne\" means one metric tonne of one thousand kilograms or one cubic metre;\n\"transaction\" includes all services rend ered, supplied or provided by the Authority\nor the use of Authority's facilities by the port user;\n\n\"transhipment cargo\" means the cargo which landed from a vessel and placed in the\ncustody of the Authority for the purpose of shipment on another vessel th rough bill of\nlading dated at the port of loading of such cargo and showing that the destination is via the\nPort, and the ultimate port of destination which shall be a port other than the Port is\nmarked on each package or unit containing such cargo and dec lared to the Authority prior\nto or at the time such cargo are placed in its custody;\n\"unitized cargo\" means the cargo in small packages or units which have been\nwrapped, strapped, or wrapped and strapped together as a single unit;\n\"wharf\" includes an y wall and building adjoining the foreshore, sea -bed or a river -\nbed.\nPART II\nVESSEL'S ACCOUNT CHARGES\nType of charges\n3. The Authority may impose the following types of charges on the port users and such\ncharges shall be credited into the vessel's accounts:\n(a) consolidated marine charge;\n(b) pilot detention charge;\n(c) tugboat detention charge;\n(d) late request, changes or cancellation charge;\n(e) tugboat services charge;\n(f) mooring services charge;\n(g) pilotage services charge;\n(h) port dues;\n(i) lay-up dues;\n(j) dockage charge;\n\n(k) cancellation charge for cancelling an allocated berth at bulk and break bulk\nterminal;\n(l) wharfage charge on privately operated wharf;\n(m) stevedore charge;\n(n) roll-on roll-off charge;\n(o) passenger charge;\n(p) handling charge for containers;\n(q) additional handling charge for shifting of container s and uncontainerized\ncargoes; and\n(r) cancellation charge for cancelling the booking of an allocated berth at\ncontainer terminal.\nConsolidated marine charge\n4. (1) A port user, in relation to a vessel arriving at and departing from the Port,\nshall pay the consolidated marine charge to the Authority for the purpose of using the\nAuthority's wharf  at the rate as specified in Part 1 of the First Schedule.\n(2) The consolidated marine charge shall consist of charges in respect of―\n(a) pilotage services;\n(b) towage services; and\n(c) mooring services.\nPilot detention charge\n5. (1) A port user shall pay the pilot detention charge to the Authority if―\n(a) the pilot waits at the Pilot Boarding Ground for the arrival of a vessel;\n(b) the pilot waits at the wharf for shifting or departure of a vessel;\n\n(c) the pilot waits onboard a vessel at anchorage for arrival, shifting or\ndeparture; or\n(d) the pilot is ordered or deployed but is not used.\n(2) A port user shall pay the pilot detention char ge for every half an hour or part\nthereof calculated from the time the service is requested at the rate as specified in Part 2 of\nthe First Schedule.\nTugboat detention charge\n6. (1) A port user shall pay the tugboat detention charge to the Authority for t he\ndetention of a tugboat due to the delay in vessel departure only for every half an hour or\npart thereof calculated at the rate as specified in Part 3 of the First Schedule.\n(2) The delay in vessel departure under paragraph (1) shall be due to―\n(a) the cargo, its owner or agent;\n(b) the vessel, its owner or agent; or\n(c) any other causes beyond the control of the Authority.\nLate request, changes or cancellation charge\n7. (1) A port user shall make a request for, changes to or cancellation of the\npilotage and tugboat services to the Authority not less than two hours before the services\nare required.\n(2) Where the request, changes or cancellation of the services is made to the\nAuthority less than tw o hours from the time of the service is required, the port user shall\npay the late request, changes or cancellation charges at the rate as specified in Part 4 of the\nFirst Schedule.\n\nTugboat services charge\n8. (1) A port user may request for tugboat services to the Authority for―\n(a) assisting or shifting a vessel at the Authority's wharf;\n(b) berthing, unberthing or shifting a vessel at private jetties;\n(c) towing or escorting a vessel within the Port; or\n(d) any other towage services not provided for under subparagraph\n4(2)(b).\n(2) A port user who makes the request for the tugboat services under paragraph\n(1) shall pay to the Authority the tugboat services charge at the rate as specified in Part 5 of\nthe First Schedule.\nMooring services charge\n9. A port user who requests for the mooring services other than the mooring services\nfor berthing during arrival or unberthing during departure provided for under\nsubparagraph 4(2)(c) shall pay to the A uthority the mooring services charge at the rate as\nspecified in Part 6 of the First Schedule.\nPilotage services charge\n10. A port user who request s for the pilotage services other than the pilotage services\nprovided for under subparagraph 4(2)(a) for piloting a vessel at, to or from the Authority's\nwharf, private jetties or any other areas within the Port shall pay the pilot age services\ncharge to the Authority at the rate as specified in Part 7 of the First Schedule.\nPort dues\n11. (1) A port user shall pay the port dues to the Authority based on the LOA of each\nvessel entering the Port as follows:\n\n(a) in the case of a vessel loading or discharging any cargo or embarking\nor disembarking passengers, at the rate as specified in Part 8 of the\nFirst Schedule; and\n(b) in the case of a vessel occupying an Authority Approved Anchorage or\na berth for bunkering, taking ship's supplies, repairs, change of crew\nor laying-up, at the rate as specified in Part  9 of the First Schedule.\n(2) Notwithstanding paragraph (1), all ves sels belonging to the Government of\nMalaysia are exempted from paying the port dues.\n(3) Where a port user has paid port dues in respect of a vessel on three\noccasions in any one calendar month, further port dues for that month shall be exempted.\n(4) A vessel belonging to any port user which call at the Port on a monthly\nscheduled basis may  be eligible for a rebate of the p ort dues under paragraph (1) at the\nrate as specified in Part 10 of the First Schedule.\n(5) In order to qualify for the rebate ref erred to in paragraph (4) , the port user\nshall―\n(a) notify the Authority in advance of the scheduled arrival of the vessel\nat the Port by submitting a time table;\n(b) prove to the Authority that the vessel had been on a scheduled arrival\nat the Port for one month preceding the notification under\nsubparagraph (a); and\n(c) submit to the Authority the certificate of ownership, charter party\nagreement or such other documents which shall establish the\nownership and status of the vessel.\n\n(6) The port dues payable by the port user referred to in paragraph (1) shall be\npaid in a dvance on the first day of each month and the minimum sum payable is for one\ncalendar month.\nLay-up dues\n12. A port user shall pay the lay -up dues of a vessel at an Authority Approved\nAnchorage to the Authority at the rate as specified in Part 11 of  the First Schedule.\nDockage charge\n13. (1) Subject to paragraphs (3) and (4), a port user shall pay the dockage charge to\nthe Authority at the rate as specified in Part 12 of the First Schedule.\n(2) The dockage charge shall be calculated from the time the vessel is moored\nalongside the Authority's wharf until the time the vessel departs from the wharf.\n(3) In the case where a vessel moored alongside another vessel berthed directly\nat the Authority's wharf, the dockage charge , except for the dockage charge for passengers,\nshall be fifty percent of the charges imposed under paragraph (1).\n(4) In the case where a vessel has the mix of two or more types of cargo, the\nfollowing dockage charge shall apply:\n(a) where the two or more types of cargo are handled simultaneously, the\ndockage charge  shall be calculated based on the rate of the cargo\ntypes, whichever is the higher , and the duration of the simultaneous\nhandling; and\n(b) where two or more types of cargo are handled separately, the dockage\ncharge shall be calculated based on the individual rates of the cargo\ntypes and the duration of the separate handling.\n\n(5) Upon arrival of the vessel at the Authority's wharf, the port user is allocated a\nperiod of two hours to prepare for the loading or discharging of the cargo from the time the\nvessel berthed at the Authority's wharf.\n(6) Where a port user exceeds the period allocated for the preparation of loading\nor discharging of the cargo under paragra ph (5), the port user shall be charged an\nadditional dockage charge based on the hours exceeded at the rate as specified in Part 12 of\nthe First Schedule.\n(7) In the case of the operations of loading or discharging of the cargo, the port\nuser is allocated a period of one hour of total stoppages for delay.\n(8) Where a port user exceeds the period allocated under paragraph (7), the\nport user shall be charged an additional dockage charge based on the hours exceeded at the\nrate as specified in Part 12 of the First Schedule.\n(9) Upon completion of the loading or discharging of the cargo into or from the\nvessel, the port user is allocated a period of one hour for the departure of the vessel from\nthe Authority's wharf.\n(10) Where a port user exceeds the period allocated under paragraph (9), the port\nuser shall be charged an additional dockage charged  based on the hours exceeded at the\nrate as specified in Part 12 of the First Schedule.\n(11) The hours exceeded or delay s under paragraphs (6), (8) and (10) shall be\ndue to―\n(a) the cargo, its owner or agent;\n(b) the vessel, its owner or agent; or\n(c) any other causes beyond the control of the Authority.\n\nCancellation charge for cancelling allocated berth at bulk and break bulk terminal\n14. A port user shall pay the cancellation charge to the Authority for the cancellation of\nallocated berth at bulk and break bulk terminal at the rate as specified in Part 13 of the\nFirst Schedule.\nWharfage charge on privately operated wharf\n15. A port user shall pay the wharfage charge to the Authority for discharging or loading\nany cargo from or o nto a vessel at any approved privately operated wharf within the Port\nat the rate as specified in Part 14 of the First Schedule.\nStevedore charge\n16. (1) A port user shall pay the stevedore charge in respect of any import or export\ncargo as follows:\n(a) in the case of stevedore s loading or discharging the cargo onto or\nfrom a vessel, at the rate as specified in Part 15 of the First Schedule;\n(b) in the case of stevedores shifting the cargo on board vessel, at the rate\nas specified in Part 16 of the First Schedule; and\n(c) in the case of stevedore s standing-by but does not work, at the rate as\nspecified in Part 17 of the First Schedule.\n(2) An application for stevedores to work―\n(a) during the first shift shall be made to the Authority not later than\n1300 hours on the day preceding the day of which the service is\nrequired and for the work to be performed on Sundays and gazetted\npublic holidays,  not later than 1100 hours on the day pre ceding the\nday of which the service is required;\n\n(b) during the second shift shall be made to the Authority not later than\n1000 hours on the same day the service is required and for the work\nto be performed on Sunday s and gazetted public holidays, not later\nthan 1100 hours on the day pre ceding the day of which the service is\nrequired; and\n(c) during the third shift shall be made to the Authority not later than\n1200 hours on the same day the service is required and for the work\nto be performed on Sundays and gazetted public holidays, not later\nthan 1100 hours on the day pre ceding the day of which the service is\nrequired.\n(3) A port user who makes any cancellation of the application or late application\nfor stevedore s under para graph (2) shall pay to the Authority the charges at the rate as\nspecified in Part 18 of the First Schedule.\n(4) A port user who makes the cancellation of the booking of stevedores to work\non the first and third shifts less than three hours before the commencement of the shift\nshall pay to the Authority the charges at the rate as specified in Part 17 of the First\nSchedule.\n(5) Where the stevedores service is not provided due to rai n, no stevedore\ncharge shall be imposed on the port user.\nRoll-on roll-off charge\n17. A port user shall pay the roll -on roll-off charge to the Authority for using a  roll -on\nroll-off vessel for the purpose of ―\n(a) loading or discharging vehicles at the rate as specified in Part 19 of the First\nSchedule;\n\n(b) loading or discharging any cargo at the rate as specified in Part 20 of the First\nSchedule; and\n(c) loading or discharging containers using vessel's ramp at the rate as specified\nin Part 21 of the First Schedule.\nPassenger charge\n18. Any passenger embarking or disembarking at the Authority's wharf shall pay the\npassenger charge to the Authority at the rate as specified in Part 22 of the First Schedule.\nHandling charge for containers\n19. (1) A port user shall pay the handling charge for containers to the Authority for\nthe handling of containers using―\n(a) the Port's crane at the rate as specified in Part 23 of the First Schedule;\nand\n(b) the vessel's crane at the rate as specified in Part 24 of the First\nSchedule.\n(2) The handling charge for container s under paragraph (1) is for the following\npurposes:\n(a) in the case of the handling of import FCL normal containers\ncontaining non-dangerous goods or dangerous goods Group III―\n(i) for discharging the normal containers from a vessel;\n(ii) for moving the normal containers from a wharf to a container\nyard for stacking; and\n\n(iii) for mounting the normal containers onto a haulier's trailer for\ndelivery;\n(b) in the case of the handling of export FCL normal containers containing\nnon-dangerous goods or dangerous goods Group III ―\n(i) for lifting the normal containers from a haulier's trailer;\n(ii) for stacking the normal containers at a container yard;\n(iii) for moving the normal containers to a container wharf; and\n(iv) for loading the normal containers onto a vessel;\n(c) in the case of the handling of import FCL normal containers\ncontaining dangerous goods Groups I and II―\n(i) for discharging the normal containers from a vessel, lighter or\nbarge; and\n(ii) for mounting t he normal containers onto a haulier's trailer for\ndirect delivery;\n(d) in the case of the handling of export FCL normal containers containing\ndangerous goods groups I and II―\n(i) for lifting the normal containers from a haulier's trailer; and\n(ii) for loading the normal containers directly from a haulier's\ntrailer onto a vessel, lighter or barge;\n\n(e) in the case of the handling of import LCL  normal containers\ncontaining non-dangerous goods or dangerous goods group III―\n(i) for discharging the normal container s from a vessel, lighter or\nbarge;\n(ii) for discharging the normal containers from a vessel;\n(iii) for moving the normal containers from a container wharf to a\ncontainer yard for stacking;\n(iv) for loading the normal containers onto a haulier's trailer for\ntransfer to the CFS;\n(v) for the lift-on lift-off services at the CFS;\n(vi) for unstuffing of the normal containers;\n(vii) for loading the break bulk cargo onto a lorry but limited to the\nsupply of a four tonne s capacity forklift with normal fork\nattachment;\n(viii) for general charges; and\n(ix) for returning the empty containers to an on -dock depot within\nthe Johor Port Free Zone excluding the cargo tally services ,\ninspection, cleaning, washing and  repairing of empty or laden\ncontainers and lift-on lift-off at the depot;\n(f) in the case of the handling of export LCL normal containers containing\nnon-dangerous goods or dangerous goods Group III―\n\n(i) for off-loading the break bulk cargo from a lorry at the CFS but\nlimited to the supply of a four tonne s capacity forklift with\nnormal fork attachment;\n(ii) for transferring the empty containers from an on -dock depot\nlocated within the Johor Port Free Zone to the CFS;\n(iii) for stuffing the cargoes into containers;\n(iv) for transferring the normal containers to a container yard;\n(v) for stacking the containers at container yard;\n(vi) for transferring the normal containers to a container wharf for\nloading onto a vessel;\n(vii) for the lift-on lift-off services at a depot;\n(viii) for securing the cargo inside the normal containers; and\n(ix) for supplying lashing materials;\n(g) in the case of the handling of import LCL normal containers\ncontaining dangerous goods Groups I and II–\n(i) for discharging the normal containers from a vessel, lighter or\nbarge;\n(ii) for moving the normal containers from a container wharf using\nthe Port's  trailer directly to the CFS for immediate unstuffing;\n\n(iii) for unstuffing the normal containers for direct loading of the\nbreak bulk cargo into the consignee's lorry;\n(iv) for loading the break bulk cargo directly onto a lorry but\nlimited to the supply of a four tonne s capacity forklift with\nnormal fork attachment; and\n(v) for returning the empty containers to an on -dock depot within\nthe Johor Port Free Zone excluding  the inspection, cleaning,\nwashing and repairing of empty containers and lift -on lift -off\nservices at the depot;\n(h) in the case of the handling of export LCL normal containers containing\ndangerous goods Groups I and II―\n(i) for transferring the empty containers from an on -dock depot\nlocated within t he Johor Port Free Zone to the CFS but\nexcluding inspection, cleaning, washing and repairing of the\nempty containers and lift-on lift-off services at the depot;\n(ii) for the lift-on lift-off services at the CFS;\n(iii) for off-loading the break bulk cargo from a lor ry at the CFS but\nlimited to the supply of a four tonne s capacity forklift with\nnormal fork attachment, and stuffing directly into the normal\ncontainers, excluding cargo tally services, securing of the cargo\ninside a container and Port fire and safety services; and\n(iv) for direct transferring of the normal containers from the CFS\nusing the Port's trailer to a vessel  upon completion of stuffing\nfor direct loading onto a vessel;\n\n(i) in the case of the handling of import empty containers―\n(i) for discharging the empty containers from a vessel;\n(ii) for transferring the empty containers from a container wharf\nto a container yard;\n(iii) for off -loading the empty containers at container yard for\nstacking; and\n(iv) for loading the empty containers on a haulier's trailer for\ndelivery of the empty containers;\n(j) in the case of the handling of export empty containers―\n(i) for off-loading the empty containers from a haulier's trailer for\nstacking at a container yard;\n(ii) for mounting the empty containers onto the Port's trailer at a\ncontainer yard for transfer to a container wharf;\n(iii) for transferring the empty containers from a container yard to\na container wharf; and\n(iv) for loading the empty containers onto a vessel;\n(k) in the case of the handling inward transhipment containers―\n(i) for discharging the transhipment containers from the first\nvessel; and\n\n(iii) for moving the transhipment containers from a wharf to a\ncontainer yard; and\n(l) in the case of the handling of outward transhipment containers―\n(i) for lifting the transhipment containers from a container yard\nto wharf; and\n(ii) for loading the transhipment containers onto the second\nvessel.\n(3)   The charges specified in Part 24 of the First Schedule are not inclusive of the\ninter-terminal transfer.\nAdditional handling charge for shifting of containers and uncontainerized cargo\n20. (1) Notwithstanding by-law 19, a port user shall pay additional handling charge\nto the Authority ―\n(a) for shifting the normal  containers containing non -dangerous goods\nor dangerous goods,  empty containers or gear box es using the Port's\nor vessel's crane within the same bay at the rate as specified in Part\n25 of the First Schedule;\n(b) for shifting the normal containers containing non -dangerous goods or\ndangerous goods,  empty containers or gear boxes using the Port's or\nvessel's crane from bay to bay or hatch to hatch including the\ndischarging, landing on a wharf side and re -loading of the containers\nto the same vessel at the rate as specified in Part 26 of the First\nSchedule;\n\n(c) for shifting the OOG containers or damaged containers on the vessel\nusing the vessel's crane within the same bay at the rate as specified in\nPart 27 of the First Schedule;\n(d) for shifting the OOG containers  or damaged containers on vessel\nusing th e vessel's crane from bay to bay or hatch to hatch including\nthe discharging, landing on wharf side and re -stowing of the\ncontainers to the same vessel at the rate as specified in Part 28 of the\nFirst Schedule;\n(e) for opening or closing the hatch cover u sing the Port's crane or\nvessel's crane at the rate as specified in Part 29 of the First Schedule;\nand\n(f) for lifting the uncontainerized cargo at the rate as specified in Part 30\nof the First Schedule.\n(2) The charges under subparagraph (1) (f) shall not include manpower and\ngears.\nCancellation charge for cancelling the booking of allocated berth at container\nterminal\n21. A port user shall pay the cancellation charge to the Authority for cancelling an allocated\nberth at the container terminal at the rate as specified in Part 31 of the First Schedule.\nPART III\nSHIPPER OR CONSIGNEE'S ACCOUNT CHARGES\nType of charges\n22. The Authority may impose the following types of charges to the port users and such\ncharges shall be credited into the shipper's or consignee's account:\n\n(a) general charge;\n(b) wharf services charge;\n(c) removal services charge;\n(d) storage charge for bulk and break-bulk cargo;\n(e) wharf services charge on privately operated wharf; and\n(f) handling charge for bulk cargo.\nGeneral charge\n23. A port user shall pay the general charge to the Authority for any cargo shipped or\ndischarged within the Authority's wharf at the rate as specified in Part 1 of the Second\nSchedule.\nWharf services charge\n24. (1) A port user shall pay the wharf service charge to the Authority for –\n(a) the receiving or delivery of any cargo directly on the wharf;\n(b) the transfer of any cargo from the wharf to a warehouse or an open\nyard for storing and delivery to a consignee; or\n(c) the receiving of any cargo from the shipper into the warehouse or\nopen yard for storing and transferring such cargo to the wharf for\nloading onto the vessel,\nat the rate as specified in Part 2 of the Second Schedule.\n(2) Where a second vessel is positioned alongside the first vessel which is\nberthed alongside the Authority's wharf, the port user shall pay to the Authority in respect\nof the second vessel fifty percent of the wharf services charge under paragraph (1).\n\nRemoval services charge\n25. (1) A port user shall pay the removal service s charge to the Authority for the\nremoval of any cargo from a warehouse to another warehouse or from a warehouse to a\nyard, or vice versa, within the port premises at the rate as specified in Part 3 of the Second\nSchedule.\n(2) The removal of any cargo shall be at the discretion of the Authority or the\nTerminal Manager and may be done−\n(a) in the case of the removal of any cargo to a warehouse, upon\nacceptance by the Authority or Terminal Manager of the application to\ntransfer the cargo the warehouse; and\n(b) in the case of any cargo not removed from the warehouse, whenever\nAuthority or Terminal Manager deems necessary.\nStorage charge for bulk and break bulk cargo\n26. (1) A port user shall pay the storage charge to the Authority for storing–\n(a) transhipment or re -export bulk and break -bulk cargo at the Port at\nthe rate as specified in Part 4 of the Second Schedule;\n(b) import bulk and  break -bulk cargo in the warehouse or open yard at\nthe Port at the rate as specified in Part 5 of the Second Schedule;\n(c) import dangerous goods Group III in the warehouse at the Port at the\nrate as specified  in Part 6 of the Second Schedule;\n(d) export bulk and  break -bulk cargo in the warehouse or open yard at\nthe Port at the rate as specified  in Part 7 of the Second Schedule;\n\n(e) export dangerous goods Group III in the warehouse at the Port at the\nrate as specified  in Part 8 of the Second Schedule;\n(f) shut-out export bulk and break bulk cargo in the warehouse or open\nyard at the Port at the rate as specified in Part 9 o f the Second\nSchedule;\n(g) import or export vehicles in the warehouse or open yard at the Port at\nthe rate as specified in Part 10 of the Second Schedule;\n(h) damaged cargo in the warehouse or open yard at the Port\ncommencing from the time of receipt of such ca rgo at the rate as\nspecified in Part 11 of the Second Schedule; and\n(i) any cargo left in port premises without the approval of the Authority\nat the rate as specified in Part 12 of the Second Schedule.\n(2) The transhipment or re -export bulk and break bulk cargo referred to in\nsubparagraph (1) (a) shall be entitled to a free storage period of twenty-one days\ncommencing from the completion of the discharge of the cargo from the first vessel, and the\nstorage charge shall be calculated after the expiry of such free storage period until the\nactual time of berthing of the second vessel on which the cargo are to be loaded.\n(3) The import bulk and break bulk cargo referred to in subparagraph (1) (b)\nshall be entitled to free storage period of three days commencing from the end of the shift\nduring which the vessel completes the discharge, and the storage charge shall be calculated\nafter the expiry of such free storage period until the cargo are collected by the consignee.\n(4) The export bulk and break bulk cargo referred to in subparagraph (1) (d)\nshall be entitled to  a free storage period of six days commencing from the end of the shift\nduring which the cargo are received into the w arehouse or open yard , and the storage\n\ncharge shall be calculated after the expiry of such free storage period until the actual time\nof berthing of the vessel on which the cargo are to be loaded.\n(5) The shut-out export bulk and break -bulk cargo referre d to in subparagraph\n(1)(f) shall be entitled to a free storage period of six days commencing from the end of the\nshift during which the cargo are received into the warehouse or open yard , and the storage\ncharge shall be calculated after the expiry of such free storage period until the actual time\nof berthing of the next vessel on which the cargo are to be loaded.\n(6) The import vehicles referred to in subparagraph (1) (g) shall be entitled to a\nfree storage period of three days commencing from the end of the s hift during which the\nvessel completes the discharge , and the storage charge shall be calculated after the expiry\nof such free storage period until the vehicles are collected by the consignee.\n(7) The export vehicle s referred to in subparagraph (1) (g) shall be entitled to a\nfree storage period of six days commencing from the end of the shift during which the\nvehicles are received into the warehouse or open yard, and the storage charge shall be\ncalculated after the expiry of such free storage period until the actual time of berthing of\nthe vessel on which the vehicles are to be loaded.\n(8) The free storage period under this by -law shall include Sundays and all\ngazetted public holidays.\n(9) The Authority may remove any cargo under subparagraph (1) (i) at any time\nand the cargo owner shall bear the cost of such removal.\nWharf services charge on privately operated wharf\n27. A port user shall pay the wharf services charge to the Authority on any cargo loaded\nor discharged into or from a vessel at any approved privately operated wharf within the\nPort at the rate as specified in Part 13 of the Second Schedule.\n\nHandling charge for bulk cargo\n28. A port user shall pay the handling charge to the A uthority for the use of bulk cargo\nhandling equipment in handling―\n(a) dry bulk cargo at the rate as specified in Part 14 of the Second\nSchedule; and\n(b) liquid bulk cargo at the rate as sp ecified in Part 15 of the Second\nSchedule.\nPART IV\nVESSEL, SHIPPER OR CONSIGNEE'S ACCOUNT CHARGES\nType of charges\n29. The Authority may impose the following types of charges to the port user and such\ncharges shall be credited into the vessel, shipper or consignee's accounts:\n(a) weighbridge and weighing scale charge;\n(b) charge for the use of warehouse or open yard space;\n(c) storage charge for containers;\n(d) reefer container services charge;\n(e) handling charge for OOG containers, damaged containers or non- ISO\nstandard containers;\n(f) shifting charge for  OOG containers, damaged containers or non- ISO\nstandard containers;\n(g) shifting charge for shifting containers to the Custom Inspection Bay;\n(h) storage charge for containers at the Custom Inspection Bay;\n(i) storage charge for containers at the CFS;\n(j) charges for cargoes received at the CFS;\n(k) CFS handling charge;\n\n(l) CFS charge for late delivery of cargoes, late  receiving of stuffing\ninstruction and late clearance from the Free Zone Authority and\nCustoms;\n(m) storage charge for cargoes at the CFS;\n(n) closing time charge;\n(o) shut-out containers or change of vessel charge;\n(p) additional container loading charge; and\n(q) miscellaneous container charge.\nWeighbridge and weighing scales charge\n30. (1) A port user shall pay the weighbridge charge to the Authority for the use of a\nweighbridge at the rate as specified in Part 1 of the Third Schedule.\n(2) A port user shall pay the weighing scales charge to the Authority for the use\nof portable weighing scales at the bulk and break bulk terminal and CFS at the rate as\nspecified in Part 2 of the Third Schedule.\nCharge for the use of warehouse or open yard space\n31. A port user shall pay to the Authority a charge for the use of a warehouse or an open\nyard space for opening up packages for the examination, assembling, repacking, re -grading\nor remarking of any cargo, sorting and storing of various cargo based on each square metre\nper shift or part thereof at the rate as specified in Part 3 of the Third Schedule.\nStorage charge for containers\n32. (1) A port user shall pay the storage charge to the Authority for storing−\n(a) the import, export or transhipment normal containers containing the\nnon-dangerous goods or dangerous goods Group III  or empty\ncontainers at the rate as specified in item 1  of Part 4 of the Third\nSchedule;\n\n(b) the OOG containers and damaged containers at the rate as specified in\nitem 2 of Part 4 of the Third Schedule;\n(c) the chassis trailer at the rate as specified in item 3 of Part 4 of the\nThird Schedule; and\n(2) Import containers shall be entitled to a free storage period of one hundred\nand twenty hours commencing from the time of the completion of discharge of the\ncontainers from the vessel , and the storage charge shall be calculated after the expiry of\nsuch free storage period until the time of the exi t of the container s at the container\nterminal out-gate.\n(3) Export containers shall be entitled to a free storage period of one hundred\nand twenty hours commencing from the time of receipt of the containers at the container\nterminal in -gate, and the storage charge shall be calculated after the expiry of such free\nstorage period until the actual time of berthing of the vessel on which the containers are to\nbe loaded.\n(4) Transhipment container s shall be entitled to a free storage period of five\nhundred and four hours commencing from the time of discharged of the container s from\nthe first vessel , and the storage charge shall be calculated after the expiry of such free\nstorage period until the actual time of berthing of the second vessel on which the\ncontainers are to be loaded.\n(5) Import OOG containers shall be entitled to a free storage period of one\nhundred and twenty hours commencing from the time of the completion of discharge of the\ncontainers from the vessel , and the storage charge shall be calculated after the expiry of\nsuch free storage period until the time of the exit of the containers at the container\nterminal out-gate.\n\n(6) Export OOG containers shall be entitled to a free storage period of one\nhundred and twenty hours commencing from the time of receipt of t he containers at the\ncontainer terminal in -gate, and the storage charge shall be calculated after the expiry of\nsuch free storage period until the actual time of berthing of the vessel on which the\ncontainers are to be loaded.\n(7) Transhipment OOG containers shall be entitled to a free storage period of five\nhundred and four hours commencing from the time of discharged of the container s from\nthe first vessel , and the storage charge shall be calculated after the expiry of such free\nstorage until the actual time of berthing of the second vessel on which the containers are to\nbe loaded.\n(8) Import damaged containers shall not be entitled to any free storage period ,\nand the storage charge shall be calculated commencing from the time the containers are\ndischarged from the vessel until the time of the exit of the containers at the container\nterminal out-gate.\n(9) Export damaged containers shall not be entitled to any free storage period ,\nand the storage charge shall be calculated commencing from the time of the receipt of the\ncontainers at the container terminal in -gate until the actual time of berthing of the vessel\non which the containers are to be loaded.\n(10) The storage charge for the chassis trailers, with or without a container, under\nitem 3 of Part 4 of the Third Schedule stored in a container yard or any other area within\nthe port premises shall be chargeable to the trailer owner.\n(11) The dangerous goods Group I or II may be stored at the Port upon\npermission by the Authority and if permitted , the storage charge shall not include the fire\nservices charge.\n\n(12) Upon exceeding the free storage period, any container stored at the container\nterminal shall be automatically charged with EMC at the rate as specified in item 1 of Part\n21 of the Third Schedule.\n(13) For the purpose of calculating the free storage period, the calculation of days\nshall include Sundays and all gazetted public holidays.\nReefer container services charge\n33. A port user shall pay the reefer container services charge to the Authority for each\ncontainer at the rate as specified in Part 5 of the Third Schedule.\nHandling charge for OOG con tainers, damaged containers or non-ISO standard\ncontainers\n34. (1) A port user shall pay the handling charge for handling the import, export and\ntranshipment OOG containers, damaged containers or non-ISO standard containers using\nthe Port's crane to the Authority at the rate as specified in Part 6 of the Third Schedule.\n(2) The handling charge for the import OOG containers, damaged containers or\nnon-ISO standard containers shall include the lifting of the containers on the vess el using\nthe Port's crane which lands directly onto shipper's or consignee's trailer at the wharf side.\n(3) The handling charge for the export OOG contai ners, damaged containers or\nnon-ISO standard containers shall include the lifting of the containers from the shipper's or\nconsignee's trailer at the wharf side onto the vessel using the Port's crane.\n(4) The handling charge for the  tran shipment OOG containers, damaged\ncontainers or non-ISO standard containers shall include−\n(a) the discharging of containers from the first vessel using the Port's\ncrane and stacking in the container yard; and\n\n(b) the off-loading of containers from the container yard and load ing onto\nthe second vessel using the Port's crane.\n(5) The h andling of the import, export or trans hipment OOG containers,\ndamaged containers or non-ISO standard containers−\n(a) on board vessel shall be charged to the vessel's account; and\n(b) at the container yard for import or export shall be charged to the\nshipper's or consignee's account.\nShifting charge for OOG containers, damaged containers or non ISO standard\ncontainers\n35. A port user shall pay the shifting charge of the OOG containers, damaged containers\nor non-ISO standard containers on board vessel using the Port's Crane to the Authority –\n(a) for shifting of containers within the same bay on board without landing on a\nwharf at the rate as specified in Part 7 of the Third Schedule; and\n(b) for shifting of containers from bay to bay or hatch to hatch including the\ndischarging, landing on the wharf side and re-stowing of the containers to the\nsame vessel at the rate as specified in Part 8 of the Third Schedule.\nShifting charge for shifting containers to the Customs Inspection Bay\n36. A port user shall pay the shifting charge to the Authority for the shifting of\ncontainers to the Customs Inspection Bay at the rate as specified in Part 9 of the Third\nSchedule.\n\nStorage charge for containers at the Customs Inspection Bay\n37. (1) A port user shall pay the storage charge for the containers stored at the\nCustoms Inspection Bay to the Authority at the rate as specified in Part 10 of the Third\nSchedule.\n(2) The container s which are stored at the Customs Inspection Bay shall be\nentitled to a free storage period of forty -eight ho urs commencing from the time the\ncontainers are stored at the Customs Inspection Bay.\nStorage charge for containers at the CFS\n38. (1) A port user shall pay the storage charge for the containers stored at the CFS\nto the Authority at the rate as specified in Part 11 of the Third Schedule.\n(2) The containers which are stored at the CFS shall be entitled to a free storage\nperiod of forty-eight hours from the time the containers are arrived at the CFS.\nCharge for cargo received at the CFS\n39. (1) Any cargo received by the Authority at the CFS from 0700 hours to 1800\nhours shall not be charged and no booking for the CFS is required.\n(2) Any cargo received by the Authority at the CFS from 1801 hours to 2300\nhours requires a booking and upon booki ng of the CFS, the cargo so received shall not be\ncharged.\n(3) Where a port user fails to book the CFS under paragraph (2), the port user\nshall be charged at the rate as specified in item 3 of Part 12 of the Third Schedule.\n(4) Any cargo received , with or without booking, by the Authority at the CFS\nfrom 2301 hours to 0659 hours shall be charged at the rate as specified in item 4 of Part 12\nof the Third Schedule.\n\nCFS handling charge\n40. A port user shall pay the handling charge to the Authority for−\n(a) the handling of any import or export cargo at CFS at the rate as specified in\nPart 13 of the Third Schedule; and\n(b) the handling of any unexported cargo at CFS at the rate as specified in Part 14\nof the Third Schedule.\nCFS charge for late delivery of cargo, late receiving of stuffing instruction and late\nclearance from the Free Zone Authority and Customs\n41. (1) Any break bulk cargo for stuffing into containers at the CFS shall be delivered\nat the CFS not less than thirty-six hours before the actual time of berthing of the nominated\nvessel, and any break bulk cargo for stuffing into cont ainers which is received less than\nthirty-six hours shall be charged at the rate as specified in item 1 of Part 15 of the Third\nSchedule.\n(2) Any stuffing instruction for stuffing of cargoes into containers at the CFS shall\nbe made to the Authority not less than twelve hours before the actual time of berthing of\nthe nominated vessel, and any instruction which is received less than twelve hours shall be\ncharged at the rate as specified in item 2 of Part 15 of the Third Schedule.\n(3) Any clearance from the Free Zone Authority and Customs shall be received\nby the Authority not less than twelve hours before the actual time of berthing of the\nnominated vessel and any late clearance shall be charged at the rate as specified in item 3\nof Part 15 of the Third Schedule.\nStorage charge for cargo at the CFS\n42. (1) A port user shall pay the storage charge to the Authority for storing any\ncargo at the CFS as follows:\n\n(a) in the case of export  FCL and LCL non-dangerous goods, at the rate as\nspecified in subitem 1(a) of Part 16 of the Third Schedule;\n(b) in the case of i mport FCL and LCL non-dangerous goods, at the rate as\nspecified in subitem 1(b) of Part 16 of the Third Schedule;\n(c) in the case of import dangerous goods Group III , at the rate as\nspecified in subitem 2(a) of Part 16 of the Third Schedule;\n(d) in the case of export dangerous goods Group III , at the rate as\nspecified in subitem 2(b) of Part 16 of the Third Schedule;\n(e) in the case of shut-out cargo, at the rate as specified in item 3 of Part\n16 of the Third Schedule; and\n(f) in the case of vehicles, at the rate as specified in item 4 of Par t 16 of\nthe Third Schedule.\n(2) The export FCL and LCL cargo shall be entitled to a free storage period of six\ndays calculated from the time the cargo are received into CFS.\n(3) The import FCL and LCL cargo shall be entitled to a free storage period of\nthree days calculated from the time the cargo are unstuffed from the containers at the CFS.\n(4) The v ehicles for export stored at the CFS shall be entitled to a free storage\nperiod of six days calculated from the time the vehicles are received into the CFS.\n(5) The vehicles for import stored at the CFS shall be entitled to a free storage\nperiod of three days calculated from the time the vehicles are received into the CFS.\n\n(6) Any break bulk cargo stored at the CFS which exceeds the free storage period\nand removed to another location shall be charged with the removal services charge at the\nrate as specified in Part 17 of the Third Schedule.\nClosing time charge\n43. A port user shall pay the closing time charge to the Authorit y for receiving export\ncontainers at the container terminal less than eight hours from the estimated time of\narrival of the vessel at the rate as specified in Part 18 of the Third Schedule.\nShut-out containers and change of vessel charge\n44. (1) A port user shall pay to the Authority the shut -out containers and change of\nvessel charge for the containers which are received but not shipped on the originally\nnominated vessel's voyage but instead shipped by another vessel's voyage at the rate as\nspecified in item 1 of Part 19 of the Third Schedule.\n(2) Where a shut -out container is collected back by the shipper, the port user\nshall pay to the Authority the charges at the rate as specified in item 2 of Part 19 of the\nThird Schedule.\n(3) Any container referred to in paragraph (1) shall be entitled to a free storage\nperiod of one hundred and twenty hours commencing from the time of receipt of the\ncontainers at the container terminal in-gate, and the storage charge shall be calculated after\nthe expiry of s uch free storage period until the actual time of berthing of the vessel on\nwhich the container is to be loaded based on the rate as specified in Part 4 of the Third\nSchedule.\n(4) Any shut-out container referred to in paragraph (2) shall be charged with the\nstorage charge at the rate as specified in Part 4 of the Third Schedule and shall not be\nentitled to any free storage period.\n\nAdditional container loading charge\n45. (1) A port user who makes a request for an additional container loading after the\nsubmission of the final loading plan shall pay to the Authority the additional container\nloading charge at the rate as specified in item 1 of Part 20 of the Third Schedule.\n(2) A port user who makes a request for an additional container loadin g when\nthe nominated vessel is already at berth shall pay to the Authority the additional container\nloading charge at the rate as specified in item 2 of Part 20 of the Third Schedule.\nMiscellaneous container charge\n46. A port user shall pay to the Authority―\n(a) the EMC for any extra movement in the handling of containers at the rate as\nspecified in item 1 of Part 21 of the Third Schedule;\n(b) the charge for change of container ownership at the rate as specified in item\n2 of Part 21 of the Third Schedule;\n(c) the charge for change of the status of import, export, transhipment, port of\ndischarge, FCL or LCL at the rate as specified in item 3 of Part 21 of the Third\nSchedule; and\n(d) the charge for lift-on lift-off services other than that has been provided under\nthese By -Laws at the rate as specified in item 4 of Part 21 of the Third\nSchedule.\n\nPART V\nMISCELLANEOUS\nTranshipment rates\n47. (1) Any cargo may be eligible for transhipment rates if the following conditions\nare complied with:\n(a) the cargo shall be declared for transhipment by the shipping line or its\nagent at the Port not less than eight hours before the arrival of the\nvessel, and for non -containerized cargo , twenty-four hours prior to\nthe arrival of the vessel;\n(b) the cargo shall be discharged by the importing vessel onto the wharf\nand remain in the custody of the Authority and stored at  the same\nlocation where  it is discharged from first vessel until it is\nreloaded onto the second vessel;\n(c) the cargo shall be transhipped onboard by another vessel at the\nAuthority's wharf; and\n(d) the information detailing the second vessel, voyage number and the\nnominated next or final port of discharge  shall be furnished to the\nAuthority not less than eight hours prior to the arrival of the first\nvessel.\n(2) Any container may be eligible for transhipment rates if−\n(a) the containers are discharged from the first vessel berthed at the\ncontainer terminal and stored in a container yard as inward\ntranshipment containers without any stuffing or unstuffing process\nmade to the containers; and\n\n(b) the containers are subsequently reloaded onto a second vessel\nberthed at the container terminal for outward transhipment.\n(3) Re-stowed containers, which are  not intended to be  discharged at the Port,\nmay be eligible for transhipment rates if−\n(a) the number of the re-stowed containers exceed a total of five\ncontainers per vessel or voyage;\n(b) the re -stowed containers which are di scharged from the first vessel\nare stored at the container yard as an inward movement; and\n(c) the re -stowed containers are subsequently reloaded on to the same\nfirst vessel for outward movement.\nRe-export cargo\n48. (1) The r e-export cargo rates shall apply to the cargo in respect of which the\nfollowing conditions are fulfilled:\n(a) the cargo are discharged by the importing vessel onto the Authority's\nwharf; and\n(b) after the discharged under subparagraph (1) (a), the cargo remain in\nthe port premises until they are exported on -board by another vessel\nat the Authority's wharf.\n(2) Any re-exported cargo shall be charged―\n(a) where the cargo is discharged from the first vessel , at the rate as\nspecified in Part 23 of the First Schedule ; and\n\n(b) where the cargo is loaded onto the second vessel , at the rate as\nspecified in Part 23 of the First Schedule.\nPalletized or unitized cargo\n49. Any cargo which complied with the following conditions is eligible for palletized or\nunitized cargo rates:\n(a) the weight or volume per palletized or unitized cargo shall not be more than\ntwo and a half tonnes or four cubic metres in measurement per palletized or\nunitized unit;\n(b) the cargo shall be manifested and the manifest shall be duly endorsed at the\nport of loading as being palletized or unitized and the bill of lading, delivery\norder or shipping order are similarly endorsed; and\n(c) the palletized or unitized cargo shall be discharged or loaded as single units\nwith the aid of forklift trucks on-board and on the wharf.\nChargeable tonnage\n50. (1) The Authority shall ascertain the tonnage of a cargo according to the cubic\nmeasurement or gross weight, whichever is greater.\n(2) In the case where the gross weight of the cargo cannot be ascertained, the\nAuthority may levy charges based on the tonnage ascertained by cubic measurement of the\ncargo, and vice versa.\n(3) In the case of a vessel with dual tonnage or a vessel with an open deck or\nclosed shelter deck, the higher tonnage shall be deemed to be the GT of the vessel.\n\nPayment of charges\n51. (1)    A port user who is not a ledger or other credit account holder s hall pay all\ncharges in cash.\n(2) Notwithstanding paragraph (1), payment by cheque may be made with the\nprior approval of the Authority.\n(3) Where credit facilities are made available by the Authority to a port user, the\noutstanding amount in respect of which su ch credit facilities are given shall be settled\nwithin the period of thirty days from the date of the invoice.\n(4) The outstanding amount which is not settled within the period as specified in\nparagraph (3) shall be subject to a two per cent surcharge if it is not settled within a period\nof thirty days or part thereof after the period specified in paragraph (3).\n(5) The outstanding amount in paragraph (4) which is not settled after sixty days\nfrom the date of the invoice shall be subject to an additional surchar ge of two percent for\neach month until it is settled.\n(6) The outstanding amount referred to in paragraph (5) does not include the\nsurcharged amount.\nUndercharge\n52. The Authority shall be entitled to collect any amount which is ascertained to have\nbeen un dercharged or which may otherwise be found to be due , and shall demand in\nwriting the payment of any such amount within six years from the date the transaction is\ncompleted.\nOvercharge\n53. (1) Any port user who has been overcharged by the Authority may c laim for\nrefund of the overcharges if―\n\n(a) he claims the overcharges in writing to the Authority within six years\nfrom the date of the bill issued; and\n(b) in the case of any cargo, he has disputed the measurement or weight of\nsuch cargo at the time such cargo was measured or weighed.\n(2) A port user who claims for refund of any overcharges shall give full\ninformation supported by such other documentary evidence as may be required by the\nAuthority.\nConditions for hire of mechanical equipment, gears and appliances\n54. (1) The Authority while taking all reasonable precautions to ensure that the\nmechanical equipment, gears and appliances it issues are in sound and usable condition,\nshall not be responsible for any consequences which may arise as a result of breakage or\nother unforeseen circumstances which may include technical defects and others\nconsequence not due to the fault of the Authority occurring during the period of hire.\n(2) The mechanical equipment, gears and appliances are hired on condition that\nthe entire liability rests with the hirer, who shall be required to indemnify the Authority\naccordingly.\n(3) Any expenses for repairs or renewal of mechanical equipment, gears and\nappliances hired by the Authority, over and above the cost for ordinary wear an d tear, shall\nbe charged in addition to the normal charges for the hire of such mechanical equipment,\ngears and appliances.\n(4) When cranes of the capacity required are not available from the Authority,\nthe Terminal Manager may, on application, allow a crane of suitable type to be brought\nfrom outside the Port.\n\nGeneral conditions\n55. (1) The Authority shall not provide any service or accommodation to any person\nunless such person makes a request in writing for the same, and where such a request is\nmade, the Authority may, where it deems fit to do so in the interest of the Authority, refuse\nthe request without assigning any reason.\n(2) A delivery order for delivery of imported cargo shall not be acted upon until\nsuch order in writing has been received from the ship owners or its agents.\n(3) Any shipment order for the shipment of any c argo shall not be acted upon\nunless it is endorsed by the ship owners or its agents.\n(4) In all cases, the Customs and the Free Zone Authority's requirements shall be\ncomplied with before the delivery or shipment is carried out.\n(5) The Authority may, upon notification to the port user, remove the cargo at\nany time as it considers necessary, and the appropriate removal charges shall apply.\nRevocation\n56. The Johor Port Authority (Scale of Rates, Dues and Charges) By -Laws 1988\n[P.U. (A) 366/1988] are revoked.\nFIRST SCHEDULE\nVESSEL'S ACCOUNT CHARGES\nPART 1\nCONSOLIDATED MARINE CHARGE\n[by-law 4]\nItem LOA of vessels (RM)\n1 Vessel up to 80 metres and below\n(inclusive of the provision of one tugboat)\n2,800.00\n\n2 Vessel exceeding 80 metres but not exceeding 125 metres\n(inclusive of the provision of one tugboat)\n3,500.00\n3 Vessel exceeding  125 metres but not exceeding 185 metres\n(inclusive of the provision of two tugboats)\n7,700.00\n4 Vessel exceeding 185 metres but not exceeding  240 metres\n(inclusive of the provision of two tugboats)\n9,900.00\n5 Vessel exceeding 240 metres but not exceeding 280 metres\n(inclusive of the provision of two tugboats for berthing or\nunberthing and the provision of one escort tug)\n14,500.00\n6 Vessel exceeding 280 metres\n(inclusive of the provision of two tugboats for berthing or\nunberthing and the provision of two escort tugs)\n23,960.00\nPART 2\nPILOT DETENTION CHARGE\n[paragraph 5(2)]\nItem Pilot detention charge Per half an hour or part\nthereof\n(RM)\n1 Detention of pilot 150.00\nPART 3\nTUGBOAT DETENTION CHARGE\n[paragraph 6(1)]\nItem Tugboat detention charge Per half an hour or part\nthereof\n(RM)\n1 Detention of tugboat due to delay in vessel departure 200.00\n\nPART 4\nLATE REQUEST, CHANGES AND CANCELLATION CHARGE OF PILOTAGE AND TUGBOAT\nSERVICES\n[paragraph 7(2)]\nItem Late request, changes and cancellation of pilotage and\ntugboat services\n(RM)\n1 Request, changes and cancellation of services less\nthan 2 hours notice\n500.00\nPART 5\nTUGBOAT SERVICES CHARGE\n[paragraph 8(2)]\nItem Tugboat services charge (RM)\n1 All vessels at the Authority's wharf 8.00 per metre per hour or\npart thereof\n2 All vessels at the private jetties 2,000.00 per hour or part\nthereof from base to base\nPART 6\nMOORING SERVICES CHARGE\n[by-law 9]\nItem Mooring services charge Per metre per operation for\neach vessel\n(RM)\n1 All vessels\nAn additional charge for the mooring services\nperformed at any approved privately operated\nwharf within the Port\n1.15\n(up to maximum of 170.00)\n0.60\n\nPART 7\nPILOTAGE SERVICES CHARGE\n[by-law 10]\nItem LOA of vessels Per metre of LOA per hour\nper movement or part\nthereof\n(RM)\n1 Vessel exceeding 15 met res LOA  requiring\npilotage services at the Authority's wharf\n4.00\n2 Vessel exceeding 15 met res LOA requiring\npilotage services at the private jetties\n6.50\n3 Vessel exceeding 15 metres without pilot 2.00\nPART 8\nPORT DUES FOR VESSEL LOADING OR DISHARGING CARGO OR EMBARKING OR\nDISEMBARKING PASSENGERS\n[subparagraph 11(1)(a)]\nItem LOA of vessels Per metre or part thereof\n(RM)\n1 Vessel up to 15 metres Nil\n2 Vessel exceeding 15 metres but not exceeding 90\nmetres\n3.00\n3 Vessel exceeding 90 metres but not exceeding 175\nmetres\n9.00\n4 Vessel exceeding 175 metres but not exceeding 280\nmetres\n15.00\n5 Vessel exceeding 280 metres 25.00\nPART 9\nPORT DUES FOR VESSEL OCCUPYING AN AUTHORITY APPROVED ANCHORAGE\n[subparagraph 11(1)(b)]\nItem LOA of vessels Per metre or part thereof\n(RM)\n1 Vessel up to 15 metres Nil\n2 Vessel exceeding 15 metres but not exceeding 90\nmetres\n1.50\n3 Vessel exceeding 90 metres but not exceeding 175\nmetres\n4.50\n4 Vessel exceeding 175 metres but not exceeding\n280 metres\n7.50\n5 Vessel exceeding 280 metres 12.50\n\nPART 10\nREBATE OF PORT DUES FOR MONTHLY SCHEDULE VESSELS\n[paragraph 11(4)]\nItem Frequency of arrival Percentage of rebate for Port\ndues\n1 For one arrival per calendar\nMonth\n20%\n2 For two arrivals per calendar\nMonth\n25%\n3 For three arrivals per calendar month 30%\nPART 11\nLAY-UP DUES\n[by-law 12]\nItem GT per vessel Per 30 days or part  thereof\n(RM)\n1 1,000 GT and below 2,000.00\n2 Exceeding 1,000 GT up to 2,000 GT 3,000.00\n3 Exceeding  2,000 GT up to 15,000 GT 4,000.00\n4 Exceeding  15,000 GT\nAn additional charge for every  100 GT\nexceeding 15,000 GT\n7,300.00\n3.50\n\nPART 12\nDOCKAGE CHARGE\n[paragraph 13(1)]\nItem Types of cargo/passenger\nPer metre per hour or part thereof for\neach vessel\n(RM)\n1 General cargo 1.15\n2 Liquid bulk cargo 2.50\n3 Dry bulk cargo 2.50\n4 Container and roll-on roll-off cargo 1.00\n5 Dangerous goods 3.50\n6 Passengers 2.50\nPART 13\nCANCELLATION CHARGE FOR CANCELLING ALLOCATED BERTH AT BULK AND BREAK\nBULK TERMINAL\n[by-law 14]\nItem Cancellation charge Per vessel\n(RM)\n1 Cancelling the booking of allocated berth less\nthan 8 hours notice for vessel exceeding 50\nmetres LOA\n100.00\nPART 14\nWHARFAGE CHARGE ON PRIVATELY OPERATED WHARF\n[by-law 15]\nItem Wharfage charge\nPer tonne or part\nthereof\n(RM)\n1 All cargoes 0.50\n\nPART 15\nSTEVEDORE CHARGE FOR LOADING OR DISCHARGING IMPORT OR EXPORT CARGO\n[subparagraph 16(1)(a)]\nItem Types of cargo\nPer tonne or part thereof\n(with loading or discharging\ngears)\n(RM)\n1 Palletized or unitized cargo 4.50\n2 Cargo in bundles, bags,drums or  bales 6.15\n3 Concrete, steel or other metal 7.50\n4 Dangerous goods 9.50\n5 Vehicles of two tonnes and\nbelow\nPer unit without gears\n(RM)\n45.00\n6 Vehicles above two tonnes\nAn additional charge per unit for each\nsubsequent one tone\n45.00\n6.00\n7 Others 8.00\n\nPART 16\nSTEVEDORE CHARGE FOR SHIFTING IMPORT OR EXPORT CARGO\n[subparagraph 16(1)(b)]\nItem Type of services Per tonne or part thereof\n(RM)\n1 Shifting cargo on the same level in the same hold 4.50\n2 Shifting cargo in the same hold from one level toanother level 9.00\n3 Shifting cargo from one hold to another or\nreceiving cargo and re -exporting to facilitate\nstowage\n11.30\nPART 17\nSTEVEDORE CHARGE FOR STANDING-BY BUT DOES NOT WORK AND CANCELLATION OF\nBOOKING\n[subparagraph 16(1)(c) and paragraph 16(4)]\nItem Stevedore standing-by\nPer gang per shift\nor part thereof\n(RM)\n1 Stevedore standing-by but does not work 330.00\n2 Cancellation of stevedore booking less than 3\nhours notice\n330.00\nPART 18\nLATE APPLICATION OR CANCELLATION OF STEVEDORE CHARGE\n[paragraph 16(3)]\nItem Late requisition Per gang\n(RM)\n1 Late application or cancellation RM30.00\n\nPART 19\nROLL-ON ROLL-OFF CHARGE FOR LOADING OR DISCHARGING VEHICLES\n[subparagraph 17(a)]\nItem Vehicle\nPer unit per hour or part\nthereof\n(RM)\n1 Vehicle 5 tonnes and below 20.00\n2 Vehicle exceeding 5 tonnes but not\nexceeding 10 tonnes 40.00\n3 Vehicle exceeding 10 tonnes 80.00\nPART 20\nROLL-ON ROLL-OFF CHARGE FOR LOADING OR DISCHARGING CARGO\n[subparagraph 17(b)]\nItem Types of cargo Per tonne or part thereof\n(RM)\n1 All types of cargo 2.00\nPART 21\nROLL-ON ROLL-OFF CHARGE FOR LOADING OR DISCHARGING CONTAINER\n[subparagraph 17(c)]\nItem Type of services Per container\n(RM)\n1 Loading or discharging containers using vessel'sramp 30.00\n\nPART 22\nPASSENGER CHARGE\n[by-law 18]\nItem Passengers embarking or disembarking at the\nAuthority's wharf\nPer person\n(RM)\n1 Adult (above 12 years old) 4.50\n2 Children (12 years old and below) 2.30\nPART 23\nHANDLING CHARGE FOR CONTAINERS USING PORT'S CRANE\n[subparagraph 19(1)(a) and paragraph 48(2)]\nItem Status of container\nPer container\n20 feet in\nlength\n(RM)\n40 feet and\nabove in\nlength\n(RM)\n1 Laden FCL (Import/Export)\n(a) Normal containers containing non-\ndangerous goods or dangerous\ngoods Group III\n(b) Normal containers containing\ndangerous goods Group I and II\n215.00\n230.00\n310.00\n345.00\n(c) Normal containers from lighter or\nbarge containing      non-dangerous\ngoods and dangerous goods Group\nIII\n265.00 395.00\n2 Laden LCL (Import/Export)\n(a) Normal containers containing  non-\ndangerous goods or dangerous\ngoods Group III\n(b) Normal containers containing\ndangerous goods Groups I and II\n(c) Normal containers from lighter or\nbarge containing non-dangerous\ngoods and dangerous goods Group\nIII\n405.00\n410.00\n498.00\n605.00\n610.00\n744.00\n\n3 Empty container (Import/Export)\n(a) Normal containers 155.00\n250.00\n240.00\n360.00(b) Containers from lighters or   barges\n4 Transhipment  (Inward/Outward)\n(a) Normal containers containing non-\ndangerous goods or dangerous goods\nGroup III\n(b) Normal containers containing\ndangerous goods Groups 1 and 2\n95.00\n140.00\n140.00\n210.00\n(c) Normal containers from lighter or\nbarge containing non-dangerous\ngoods and dangerous goods Group III\n210.00 325.00\nPART 24\nHANDLING CHARGE FOR CONTAINER USING VESSEL'S CRANE\n[subparagraph 19(1)(b)]\nItem Status of container\nPer container\n20 feet in\nlength\n(RM)\n40 feet and\nabove in\nlength\n(RM)\n1 Laden FCL (Import/Export)\n(a) Normal containers containing non-\ndangerous goods or dangerous\ngoods Group III\n170.00 205.00\n(b) Normal containers containing\ndangerous goods Groups I and II\n230.00 345.00\n2 Laden LCL (Import/Export)\n(a) Normal containers containing non-\ndangerous goods or dangerous\ngoods Group III\n355.00 500.00\n(b) Normal containers containing\ndangerous goods Groups I and II\n360.00 505.00\n3 Empty Container (Import/Export) 145.00 190.00\n4 Transhipment\n(a) Normal containers containing non-\ndangerous goods or dangerous\ngoods Group III\n60.00 90.00\n(b) Normal containers containing\ndangerous goods Groups I and II\n140.00 210.00\n(c) Empty containers 60.00 90.00\n\nPART 25\nADDITIONAL HANDLING CHARGE FOR SHIFTING OF CONTAINER WITHIN THE SAME BAY\n[subparagraph 20(1)(a)]\nItem Status of container\nPer container\nWithin same bay\n(RM)\n1 Shifting using Port's crane\n(a) Normal container containing non-\ndangerous goods or dangerous\ngoods Group III, empty container\nor gear box\n(b) Normal container containing\ndangerous goods Groups I and II\n60.00\n88.00\n2 Shifting using vessel's crane\n(a) Normal container containing non-\ndangerous goods or dangerous\ngoods Group III, empty container or\ngear box\n(b) Normal container containing\ndangerous goods Groups I and II\n50.00\n100.00\nPART 26\nADDITIONAL HANDLING CHARGE FOR SHIFTING OF CONTAINER FROM BAY TO BAY\nOR HATCH TO HATCH\n[subparagraph 20(1)(b)]\nItem Status of container\nPer container\nFrom bay to bay/hatch to\nhatch\n(RM)\n1 Shifting using Port's crane\n(a) Normal container containing non-\ndangerous goods or dangerous\ngoods Group III, empty container\nor gear box\n(b) Normal container containing\ndangerous goods Groups I and II\n120.00\n175.00\n2 Shifting using vessel's crane\n(a) Normal container containing non-\ndangerous goods or dangerous\ngoods Group III, empty container\nor gear box\n(b) Normal container containing\ndangerous goods Groups I and II\n100.00\n150.00\n\nPART 27\nADDITIONAL HANDLING CHARGE FOR SHIFTING OF OOG CONTAINER OR DAMAGED\nCONTAINER WITHIN THE SAME BAY\n[subparagraph 20(1)(c)]\nItem Status of container\nPer container\nWithin same bay\n(RM)\n1 Shifting of OOG container or damaged\ncontainers  on board of a vessel within\nthe same bay using vessel's crane\n(a) 15 tonnes and below\n(b) Exceeding 15 tonnes but not\nexceeding  20 tonnes\n(c) Exceeding 20 tonnes but not\nexceeding 25 tonnes\n(d) Exceeding 25 tonnes but not\nexceeding 30 tonnes\n(e) Exceeding 30 tonnes but not\nexceeding  35 tonnes\n(f) Exceeding 35 tonnes but not\nexceeding 40 tonnes\n100.00\n132.00\n166.00\n199.00\n231.00\n261.00\n\nPART 28\nADDITIONAL HANDLING CHARGE FOR SHIFTING OF OOG CONTAINER OR DAMAGED\nCONTAINER FROM BAY TO BAY OR HATCH TO HATCH\n[subparagraph 20(1)(d)]\nItem Status of container\nPer container\nFrom bay to bay/ hatch to\nhatch\n(RM)\n1 Shifting of OOG container or damaged\ncontainers  on board of a vessel within\nthe same bay  using vessel's crane\n(a) 15 tonnes and below\n(b) Exceeding 15 tonnes but not\nexceeding  20 tonnes\n(c) Exceeding 20 tonnes but not\nexceeding 25 tonnes\n(d) Exceeding 25 tonnes but not\nexceeding 30 tonnes\n(e) Exceeding 30 tonnes but not\nexceeding  35 tonnes\n(f) Exceeding 35 tonnes but not\nexceeding 40 tonnes\n200.00\n264.00\n332.00\n398.00\n462.00\n522.00\nPART 29\nADDITIONAL HANDLING CHARGE FOR OPENING OR CLOSING HATCH COVER\n[subparagraph 20(1)(e)]\nItem Type of service Per hatch\n(RM)\n1 Opening and closing of hatch cover\n(a) Using Port's crane\n(b) Using vessel's crane\n130.00\n150.00\n\nPART 30\nADDITIONAL HANDLING CHARGE FOR LIFTING OF UNCONTAINERIZED CARGO\n[subparagraph 20(1)(f)]\nItem Tonnage of cargo Per lift per hour or part\nthereof\n(RM)\n1 (a) Cargo 15 tonnes and below\n(b) Cargo exceeding 15 tonnes but not\nexceeding 20 tonnes\n240.00\n700.00\nPART 31\nCANCELLATION CHARGE FOR CANCELLING THE BOOKING OF ALLOCATED BERTH AT\nCONTAINER TERMINAL\n[by-law 21]\nItem Cancellation charge Per vessel\n(RM)\n1 Cancellation of the booking of allocated\nberth at container terminal less than five\nhours notice.\n200.00\nSECOND SCHEDULE\nSHIPPER OR CONSIGNEE'S ACCOUNT CHARGES\nPART 1\nGENERAL CHARGE\n[by-law 23]\nItem Type of cargo Per tonne or part thereof\n(RM)\n1 All cargoes 0.60\n\nPART 2\nWHARF SERVICES CHARGE\n[by-law 24]\nItem Type of cargo\nReceiving and\ndelivering at\nwharf  per\ntonnes or per\nmetre cubic or\npart thereof\n(direct)\n(RM)\nReceiving, storing\nand delivering at\nwarehouse and open\nstorage, per tonnes\nor per metre cubic\nor part thereof\n(indirect) – limited\nto the supply of\nwharf transfer\ntrailer of maximum\ncapacity of 40\ntonnes and a forklift\nof maximum\ncapacity of 3 tonnes\n(RM)\n1 Palletized or unitized cargo 3.80 5.10\n2 Cargo in bales or in bundles orsawn timber 3.30 6.80\n3 Concrete, steel or other 4.40 6.80\nmetal\n4 Bagged cargo 3.80 5.70\n5 Cargo in drum 3.80 5.10\n6 Dangerous goods Groups I and II 13.60 Nil\n7 Dangerous goods Group III 6.60 10.20\n8 Vehicles 2 tonnes and below (per\nunit)\n33.00 39.60\n9 Vehicles above 2 tonnes\n(per unit)\n44.00 50.90\n\n10 Livestock  (per head) 1.10 Nil\n11 Other dry cargo (unspecified\ncargo  such as  loose, round log,\ngranite stone, machinery, project\ncargo, etc.)\n6.05 8.50\n12 Non Edible: Liquid bulk\ncargo(dangerous goods)\nReceiving into vehicle or  installation\nthrough pipeline or conveyor per tonne\nor part thereof   (direct)\n(RM)\nGroup l\nGroup ll\nGroup lll\n3.80\n3.30\n2.70\n13 Edible: liquid bulk cargo 2.20\nBy conventional\nper tonne or part\nthereof (direct)\n(RM)\nBy pipeline or\nconveyor per tonne\nor part thereof\n(direct)\n(RM)\n14 Dry bulk cargo 2.80 2.10\nPer tonne or per\nmetre cubic or part\nthereof\n15 Transhipment and re-export cargo:\n(a) Dangerous goods 50% of the normal\nrate\n(b) Non-dangerous goods\n(i) Liquid cargo 75% of the normal\nrate\n(ii) Dry bulk cargo 75% of the normal\nrate\n(c) General cargo listed under Items 1, 2, 3, 4, 5\nand 11\n50% of the normal\nrate\n\nPART 3\nREMOVAL SERVICES CHARGE\n[paragraph 25(1)]\nItem Type of service Per tonne or part\nthereof\n(RM)\n1 Removal of cargo from one warehouse to another\nwarehouse or from warehouse to yard or vice versa\nwithin the port premises\n4.40\nPART 4\nSTORAGE CHARGE FOR TRANSHIPMENT OR RE-EXPORT BULK AND BREAK BULK CARGO\n[subparagraph 26(1)(a)]\nItem Storage period\nPer tonne or\npart thereof/ per week or\npart thereof\n(RM)\n1 For the first three weeks calculated from the\ndate of completion of discharge by the first\nvessel\nNil\n2 For the fourth and subsequent weeks\ncalculated from the date of completion of\ndischarge by the first vessel\n8.00\nPART 5\nSTORAGE CHARGE FOR IMPORT BULK AND BREAK BULK CARGO\n[subparagraph 26(1)(b)]\nItem Storage period\nPer tonne or part thereof\n(RM)\nWarehouse Open yard\n1 For the first three days Nil Nil\n2 For the fourth day or part thereof 1.50 0.75\n3 For the fifth day to the fourteen th day,\nper day or part thereof\n0.50 0.25\n4 For the third week and subsequent\nweeks, per  week or part thereof 7.00 4.00\n\nPART 6\nSTORAGE CHARGE FOR IMPORT DANGEROUS GOODS GROUP III\n[subparagraph 26(1)(c)]\nItem Storage period\nPer tonne or part\nthereof\n(RM)\n1 For the first three days 2.25\n2 For the fourth day to the fourteen th day, per day or\npart thereof\n3.00\n3 For the third week and subsequent weeks, per  week\nor part thereof\n10.50\nPART 7\nSTORAGE CHARGE FOR EXPORT BULK AND BREAK BULK CARGO\n[subparagraph 26(1)(d)]\nItem Storage period\nPer tonne or part thereof\nRM\nWarehouse Open yard\n1 For the first six days Nil Nil\n2 For the seventh day or part thereof 1.50 0.75\n3 For the eighth day to the fourteen th day,\nper day or part thereof\n0.50 0.25\n4 For the third week and subsequent\nweeks, per  week or part thereof\n5.50 2.75\nPART 8\nSTORAGE CHARGE FOR EXPORT DANGEROUS GOODS GROUP III\n[subparagraph 26(1)(e)]\nItem Storage period\nPer tonne or part\nthereof\n(RM)\n1 For the first six days 2.25\n2 For the seventh day to the fourteenth day, per day\nor part thereof\n3.00\n3 For the third week and subsequent weeks, per\nweek or part thereof 8.25\n\nPART 9\nSTORAGE CHARGE FOR SHUT-OUT EXPORT BULK AND BREAK BULK CARGO\n[subparagraph 26(1)(f)]\nItem Storage period\nPer unit  per tonne\nor part thereof\n(RM)\n1 For the first six days Nil\n2 Per week or  part thereof 4.00\nPART 10\nSTORAGE CHARGE FOR VEHICLE\n[subparagraph 26(1)(g)]\nItem Type of vehicles/tonnage of vehicles\nPer vehicle per day or\npart thereof\n(RM)\nWarehouse Open yard\n1 Vehicle up to two tones 4.00 2.00\n2 Vehicle of more than two tonnes 5.00 3.00\n3 Motorcycle, scooter, bicycle, tricycle and\nstroller\n1.50 1.00\nPART 11\nSTORAGE CHARGE FOR DAMAGED CARGO\n[subparagraph 26(1)(h)]\nItem Type of cargo\nPer tonne per day or part\nthereof\n(RM)\nWarehouse Open yard\n1 Damaged cargo 1.50 0.75\nPART 12\nSTORAGE CHARGE FOR CARGO LEFT IN PORT PREMISES\n[subparagraph 26(1)(i)]\nItem Type of cargo\nPer tonne per day or part\nthereof\n(RM)\n1 Cargo left in port premises 3.50\n\nPART 13\nWHARF SERVICES CHARGE ON PRIVATELY OPERATED WHARF\n[by-law 27]\nItem Type of cargo\nPer tonne per day or part\nthereof\n(RM)\n1 All cargoes 0.50\nPART 14\nHANDLING CHARGE FOR DRY BULK CARGO\n[subparagraph 28(a)]\nItem Bulk cargo handling equipment\nPer tonne or part\nthereof\n(RM)\n1 Using crane only\n(a) Palm kernel expeller and fertilizer\n(b) Clinker\n(c) Grains\n(d) Others\n6.60\n5.50\n5.50\n6.60\n2 Using conveyor or pipes systems only\n(a) Palm kernel expeller and fertilizer\n(b) Clinker\n(c) Grains\n(d) Others\n5.00\n2.80\n2.80\n5.00\n3 Using crane and conveyor or pipes systems\n(a) Palm kernel expeller and fertilizer\n(b) Clinker\n(c) Grains\n(d) others\n10.50\n7.15\n7.15\n10.50\n4 Using vessel's crane\n(inclusive of grab or hopper)\n30% reduction\nfrom Item 1\n5 Trimming 0.70\n\nPART 15\nHANDLING CHARGE FOR LIQUID BULK CARGO\n[paragraph 28(b)]\nItem Bulk cargo handling equipment\nPer tonne or part thereof\n(RM)\n1 Using of loading arm 0.35\nTHIRD SCHEDULE\nVESSEL, SHIPPER OR CONSIGNEE'S ACCOUNT CHARGES\nPART 1\nWEIGHBRIDGE CHARGE\n[paragraph 30(1)]\nItem Status of   lorry\nPer lorry/container per\nweigh\n(RM)\n1 Empty lorry 3.00\n2 Lorry with bulk  and break bulk cargo 6.00\n3 Lorry with container 5.00\nPART 2\nPORTABLE WEIGHING SCALES CHARGE\n[paragraph 30(2)]\nItem Location (RM)\n1 Bulk and break bulk terminal 300.00 per scale per\nshift or part thereof\n2 CFS 1.00 per weigh\n\nPART 3\nUSE OF WAREHOUSE OR OPEN YARD SPACE CHARGE\n[by-law 31]\nItem Location\nPer shift or per square\nmetre or part thereof\n(RM)\n1 Warehouse 1.00\n2 Open yard 0.50\nPART 4\nSTORAGE CHARGE FOR CONTAINER\n[by-law 32 and paragraphs 44(3) and (4)]\nItem Type of container\nPer 24 hours or\npart thereof\n(RM)\n20 feet in\nlength\n40 feet and\nabove in\nlength\n1 Laden or empty normal c ontainer  or\nnormal container containing non -\ndangerous goods or dangerous goods Group\nIII  (Import/Export)\n4.00 8.00\n2 OOG container or damaged container\n(Import/Export)\n15.00 30.00\n3 Chassis trailer 2.00 per hour\nor part\nthereof\n4.00 per hour\nor part\nthereof\n\nPART 5\nREEFER CONTAINER SERVICES CHARGE\n[by-law 33]\nItem Type of services Per container\n(RM)\n1 Connecting or disconnecting electricity\nsupply on board vessel\n15.00\n2 Connecting or disconnecting e lectricity\nsupply at reefer block\n15.00\n3 Pre-trip inspection 100.00\n4 On board vessel reefer services (for\ncontainer already on board vessel)\n150.00\n5 Reefer container monitoring service at Port\nreefer block\n11.00  per shift\n6 Reefer container inspection fee at Port reefer\nblock\n15.00  per inspection\nPART 6\nHANDLING CHARGE FOR OOG CONTAINER, DAMAGED CONTAINER OR NON-ISO\nSTANDARD CONTAINER\n[paragraph 34(1)]\nImport/ Export Transhipment\nItem Tonnage of container Per lift per hour\nor part thereof\n(RM)\nPer lift per hour\nor part thereof\n(RM)\n1 15 tonnes and below 325.00 292.00\n2 Exceeding 15 tonnes but not\nexceeding  20 tonnes\n430.00 387.00\n3 Exceeding 20 tonnes but not\nexceeding 25 tonnes\n540.00 486.00\n4 Exceeding 25 tonnes but not\nexceeding 30 tonnes\n645.00 580.00\n5 Exceeding 30 tonnes but not\nexceeding  35 tonnes\n750.00 675.00\n6 Exceeding 35 tonnes but not\nexceeding 40 tonnes\n845.00 760.00\n\nPART 7\nSHIFTING CHARGE FOR ON BOARD OOG CONTAINER, DAMAGED CONTAINER OR NON-ISO\nSTANDARD CONTAINER USING PORT'S CRANE WITHIN THE SAME BAY\n[subparagraph 35(1)(a)]\nItem Tonnage of container\nPer container per lift per hour\nor part thereof\n(RM)\n1 15 tonnes and below 91.00\n2 Exceeding 15 tonnes but not exceeding\n20 tonnes\n120.00\n3 Exceeding 20 tonnes but not  exceeding\n25 tonnes\n151.00\n4 Exceeding 25 tonnes but not exceeding\n30 tonnes\n181.00\n5 Exceeding 30 tonnes but not  exceeding\n35 tonnes\n210.00\n6 Exceeding 35 tonnes but not exceeding\n40 tonnes\n237.00\nPART 8\nSHIFTING CHARGE FOR ONBOARD OOG CONTAINER, DAMAGED CONTAINER OR NON-ISO\nSTANDARD CONTAINER USING PORT'S CRANE FROM BAY TO BAY OR HATCH TO HATCH\n[subparagraph 35(b)]\nItem Tonnage of container\nPer container per lift per hour\nor part thereof\n(RM)\n1 15 tonnes and below 182.00\n2 Exceeding 15 tonnes but not exceeding\n20 tonnes\n240.00\n3 Exceeding 20 tonnes but not  exceeding\n25 tonnes\n302.00\n4 Exceeding 25 tonnes but not exceeding\n30 tonnes\n362.00\n5 Exceeding 30 tonnes but not  exceeding\n35 tonnes\n420.00\n6 Exceeding 35 tonnes but not exceeding\n40 tonnes\n474.00\n\nPART 9\nCHARGES FOR SHIFTING OF CONTAINER TO CUSTOMS INSPECTION BAY\n[by-law 36]\nItem Type of services\n20 feet in length\n(RM)\n40 feet and above\nin length\n(RM)\n1 Shifting of container s to Customs\nInspection Bay within the   container\nterminal\n60.00 80.00\nPART 10\nSTORAGE CHARGE FOR CONTAINER AT CUSTOMS INSPECTION BAY\n[paragraph 37(1)]\nItem Type of service\n20 feet in length\n(RM)\n40 feet and above\nin length\n(RM)\n1 Storage charge for containers stored at\nCustoms Inspection Bay\n10.00\nper 24 hours or\npart thereof\n15.00\nper 24 hours or\npart thereof\nPART 11\nSTORAGE CHARGE FOR CONTAINER AT CFS\n[paragraph 38(1)]\nItem Type of service\n20 feet in length\n(RM)\n40 feet and above\nin length\n(RM)\n1 Storage charge for containers stored at\nCFS\n10.00\nper 24 hours or\npart thereof\n15.00\nper 24 hours or\npart thereof\n\nPART 12\nCHARGE FOR RECEIVING CARGO AT CFS\n[by-law 39]\nItem Time of receiving at the CFS Per lorry\n(RM)\n1 Cargo received at the CFS from 0700 hours to 1800 hours\nwithout requirement for booking\nNil\n2 Cargo received at the CFS from 1801 hours to 2300 hours\nwith booking\nNil\n3 Cargo received at the CFS from 1801 hours   to 2300\nhours  without booking\n50.00\n4 Cargo received at the CFS from  2301 to 0659 with or\nwithout booking\n50.00\nPART 13\nCFS HANDLING CHARGE FOR IMPORT OR EXPORT CARGO\n[subparagraph 40(a)]\nItem Type of service\nPer container per shift or part\nthereof\n(RM)\n20 feet in\nlength\n40 feet and\nabove in length\n1 Handling of import or export cargo at CFS 210.00 315.00\n2 Additional charge in addition to item 1 for\nstuffing of clay in bulk using shovel\n22.00 44.00\n\nPART 14\nCFS HANDLING CHARGE FOR UNEXPORTED CARGO\n[paragraph 40(b)]\nItem Type of service Per metric tonne or part thereof\n(RM)\n1 Handling of unexported cargo\n(a) Palletized/unitized 5.10\n(b) Cargo in bales or in bundles, sawn\ntimber\n5.10\n(c) Concrete, steel 6.80\n(d) Bagged cargo 5.70\n(e) Cargo in drums 5.10\n(f) Dangerous goods Group III 10.20\n(g) Vehicle 2 tonnes and below 39.60\n(h) Vehicle above 2 tonnes 50.90\n(i) Other dry cargo 8.50\nPART 15\nCFS CHARGE FOR LATE DELIVERY OF CARGO, LATE RECEIVING STUFFING INSTRUCTION\nAND LATE CLEARANCE FROM FREE ZONE AUTHORITY AND CUSTOMS\n[by-law 41]\nItem Type of service\nPer container per shift or part thereof\n(RM)\n20 feet in length 40 feet and above\nin length\n1 Receiving break-bulk cargo for\nstuffing less than 36 hours before\nactual time of berthing  of nominated\nvessel\n45.00 70.00\n2 Receiving stuffing instruction less than\n12 hours before actual time of berthing\nof nominated vessel\n45.00 70.00\n3 Receiving clearance from the Free\nZone Authority or Customs for LCL and\nFCL container s less than 12 hours\nbefore actual time of berthing  of\nnominated vessel\n45.00 70.00\n\nPART 16\nSTORAGE CHARGE FOR CARGO AT CFS\n[paragraph 42(1)]\nItem Type of cargo\nWarehouse\n(per tonne\nor part\nthereof\n(RM)\nOpen Yard\n(per tonne\nor part\nthereof)\n(RM)\n1 Bulk and break-bulk cargo\n(a) Export FCL or LCL of  non-dangerous goods\n(i) seventh  day until fourteenth day\n1.50 (add\n0.50 for\nevery\nadditional\nday)\n0.75 (add\n0.25 for\nevery\nadditional\nday)\n(ii) third week 10.50 5.25\n(iii) after third week Add 5.50 for\nevery\nadditional\nweek or\npart thereof\nAdd 2.75\nfor every\nadditional\nweek or\npart\nthereof\n(b) Import FCL or LCL of non-dangerous goods\n(i) fourth day until fourteenth day 1.50 (add\n0.50 for\nevery\nadditional\nday)\n0.75 (add\n0.25 for\nevery\nadditional\nday)\n(ii) third week 13.50 7.25\n(iii) after third week Add 7.00 for\nevery\nadditional\nweek or\npart thereof\nAdd 4.00\nfor every\nadditional\nweek or\npart\nthereof\n2 (a) Storage of import dangerous goods Group III\n(i)  first three days upon being unstuffed from\ncontainer\n2.25\n(ii) fourth day to fourteenth day, per day or\npart thereof\n3.00\n\n(iii) third week and\nsubsequent weeks, per\nweek or part thereof\n10.50\n(b) Storage of export dangerous goods Group III\n(i) first six days upon receipt     at CFS 2.25\n(ii) seventh to fourteenth day, per day or part\nthereof\n3.00\n(iii) third week and subsequent weeks, per\nweek or part thereof 8.25\n3 Shut-out export cargo 4.00 per week or part\nthereof\nPer\nvehicle/per\nday of part\nthereof\n(RM)\nPer\nvehicle/per\nday of part\nthereof\n(RM)\nVehicles\n(a) vehicle up to two tonnes\n(b) vehicle of more than  two tonnes\n(c) motorcycle, scooter, bicycle, tricycle, stroller\n4.00\n5.00\n1.50\n2.00\n3.00\n1.00\nPART 17\nREMOVAL CHARGE FOR CARGO EXCEEDING THE FREE STORAGE PERIOD AT CFS\n[paragraph 42(6)]\nItem Type of service\nPer tonne or part\nthereof\n(RM)\n1 Removal of break-bulk cargo stored at the CFS to a\nnew location upon exceeding the free storage period\n4.40\n\nPART 18\nCLOSING TIME CHARGE FOR RECEIVING EXPORT CONTAINER AT THE CONTAINER\nTERMINAL\n[by-law 43]\nItem Closing time charge\nPer container\n20 feet in\nlength\n(RM)\n40 feet and\nabove in\nlength\n(RM)\n1 Receiving container at the container terminal\nless than eight hours from estimated time of\narrival of the vessel\n45.00 70.00\nPART 19\nSHUT-OUT CONTAINER OR CHANGE OF VESSEL\n[by-law 44]\nItem Shut out or change of vessel\nPer Container\n20 feet in\nlength\n(RM)\n40 feet and\nabove in length\n(RM)\n1 Container received but  not shipped on the\noriginally nominated vessel's voyage and\nsubsequently shipped by another vessel's\nvoyage\n45.00 70.00\n2 Container collected back by the shipper 90.00 140.00\nPART 20\nADDITIONAL CONTAINER LOADING CHARGE\n[by-law 45]\nItem Type of service\nPer container\n20 feet in\nlength\n(RM)\n40 feet and\nabove in length\n(RM)\n1 Request for additional loading after\nsubmission of  final loading plan by  vessel\noperator\n45.00 70.00\n2 Request for additional loading when the\nnominated vessel  is already at berth\n90.00 140.00\n\nPART 21\nMISCELLANEOUS CONTAINER CHARGES\n[by-law 46]\nItem Type of service\nPer lift per container\nor part thereof\n20 feet in\nlength\n(RM)\n40 feet and\nabove in length\n(RM)\n1 EMC 45.00 70.00\n2 Change of container ownership 45.00 70.00\n3 Container change of status 45.00 70.00\n4 Lift-on lift-off 45.00 70.00\nMade 20 May 2011\n[LPJ/IP/U(S)060JLD5(23); PN(PU2)175/IV]\nDATO‘ LONG SEE WOOL\nDeputy Chairman\nJohor Port Authority\nApproved 23 May 2011\n[KP/BM/PL/22/4 Jd. 7(49); PN(PU2)175/IV]\nDATO' SERI KONG CHO HA\nMinister of Transport"
+   }
+  }
+ ]
+}

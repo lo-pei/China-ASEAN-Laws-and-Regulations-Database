@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13014",
+ "title": {
+  "zh": null,
+  "en": "An Act for the Relief of M. L. stewart, Director of Prisons, From Certain Accountability.",
+  "orig": "An Act for the Relief of M. L. stewart, Director of Prisons, From Certain Accountability."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1913-12-20",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2310",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 484,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1913/act_2310_1913.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02310_1913_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02310_1913_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13014-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The Auditor for the Philippine Islands is hereby directed to credit the account of M. L. Stewart,\nDirector of Prisons, with the sum of three thousand two hundred and nineteen pesos and four centavos on\naccount of a defalcation of Owen Messet, former sales clerk of the Bureau of Prisons, who was prosecuted,\npleaded guilty, and was sentenced to imprisonment for four years by the Court of First Instance of Manila."
+   }
+  },
+  {
+   "id": "PH-H13014-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, December 20, 1913."
+   }
+  }
+ ]
+}

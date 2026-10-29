@@ -1,0 +1,72 @@
+{
+ "id": "PH-H22627",
+ "title": {
+  "zh": null,
+  "en": "Authorizing Central Bank of the Philippines to Continue Implementation of Its Reward System for Information Leading to the Confiscation of Gold and Foreign Exchange",
+  "orig": "Authorizing Central Bank of the Philippines to Continue Implementation of Its Reward System for Information Leading to the Confiscation of Gold and Foreign Exchange"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1978-01-03",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 1276",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1053,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_01276_1978_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_01276_1978_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22627-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The provisions of any existing law to the contrary notwithstanding, the Central Bank of the\nPhilippines is hereby authorized to continue implementing its reward system for information leading to the\nconfiscation, and forfeiture in favor of the National Government, of gold, foreign exchange and Philippine\ncurrency held in violation of existing laws and regulations: Provided, however, that the amount of reward\nshall be in such amount as may be fixed by the Monetary Board, but in no case to exceed 10% of the proceeds\nof the forfeited gold, foreign exchange or Philippine currency."
+   }
+  },
+  {
+   "id": "PH-H22627-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The Central Bank shall continue to pay informers rewards out of the proceeds of the gold,\nforeign exchange or Philippine currency forfeited in favor of the National Government and all such payments,\nincluding payments made in the past in similar cases, are hereby declared to be within the authority of the\nCentral Bank."
+   }
+  },
+  {
+   "id": "PH-H22627-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Decree shall be effective immediately.\nDONE in the City of Manila, this 3rd day of January, in the year of Our Lord, nineteen hundred and seventy"
+   }
+  }
+ ]
+}

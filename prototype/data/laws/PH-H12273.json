@@ -1,0 +1,82 @@
+{
+ "id": "PH-H12273",
+ "title": {
+  "zh": null,
+  "en": "AN ACT TO PREVENT THE FAILURE OF MILITARY JUSTICE, TO AUTHORIZE THE SWEARING OF WITNESSES BEFORE A MILITARY INVESTIGATION, AND TO PUNISH PERJURIES THEREIN",
+  "orig": "AN ACT TO PREVENT THE FAILURE OF MILITARY JUSTICE, TO AUTHORIZE THE SWEARING OF WITNESSES BEFORE A MILITARY INVESTIGATION, AND TO PUNISH PERJURIES THEREIN"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 1562",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 1289,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_01562_1906_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_01562_1906_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12273-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Any officer or clerk of any of the Departments lawfully detailed to investigate frauds on, or\nattempts to defraud, the Government, or any irregularity or misconduct of any officer or agent of the United\nStates, and any officer of the Army detailed to conduct any investigation, and the recorder, and, if there be\nnone, Administration of the presiding officer of any military board appointed for such purpose, shall have\nauthority to administer an oath to any witness attending to testify or depose in the course of such\ninvestigation."
+   }
+  },
+  {
+   "id": "PH-H12273-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Any witness so testifying, who shall willfully, corruptly and falsely testify as to any material fact\nrelative to such investigation shall be guilty of perjury, and upon conviction thereof shall be punished with a\npenalty of arresto mayor in its maximum degree to presidio correccional in its medium degree and a fine of\nfrom six hundred and twenty-five pesetas to six thousand two hundred and .fifty pesetas."
+   }
+  },
+  {
+   "id": "PH-H12273-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "The public good requiring the speedy enactment of this bill, the passage of the same is hereby\nexpedited in accordance with section two of \"An Act prescribing the order of procedure by the Commission\nin the enactment of laws,\" passed September twenty-sixth, nineteen hundred."
+   }
+  },
+  {
+   "id": "PH-H12273-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "This Act shall take effect, on its passage.\nEnacted, November 10, 1906."
+   }
+  }
+ ]
+}

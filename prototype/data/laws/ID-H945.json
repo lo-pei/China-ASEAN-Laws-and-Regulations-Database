@@ -1,0 +1,630 @@
+{
+ "id": "ID-H945",
+ "title": {
+  "zh": "铁路交通与运输法",
+  "en": "traffic and transport railway Law",
+  "id": "lalu lintas dan angkutan kereta api",
+  "orig": "LALU LINTAS DAN ANGKUTAN KERETA API",
+  "vi": "Luật giao thông dan vận tải đường sắt",
+  "th": "พระราชบัญญัติ การจราจร dan การขนส่ง รถไฟ",
+  "ms": "Akta lalu lintas dan angkutan kereta api"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02b",
+ "language": "id",
+ "level": "law",
+ "category": "02_民商事与经济法",
+ "status": "active",
+ "promulgatedDate": "1998",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU81-1998",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 41,
+ "chars": 24639,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=pp0811998.pdf&fl=P04138"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\02_民商事与经济法\\印尼_文本_1998_LALU LINTAS DAN ANGKUTAN KERETA API.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 41 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H945-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\nDalam Peraturan Pemerintah ini yang dimaksud dengan:\n1. Lalu lintas kereta api adalah gerak sarana kereta api di jalan rel.\n2. Angkutan kereta api adalah pemindahan orang dan atau barang dari\nsatu tempat ke tempat lain dengan menggunakan kereta api.\n3. Badan Penyelenggara adalah badan usaha milik negara yang\nmelaksanakan penyelenggaraan angkutan kereta api.\n4. Kereta api adalah kendaraan dengan tenaga gerak, baik berjalan\nsendiri maupun dirangkaikan dengan kendaraan lainnya.\n5. Pelayanan angkutan kereta api adalah pelayanan jasa angkutan kereta\napi dalam jaringan jalur kereta api.\n6. Jaringan pelayanan angkutan kereta api adalah jaringan jalur kereta\napi yang dilayani angkutan kereta api.\n7. Menteri adalah Menteri yang bertanggung jawab di bidang\nperkeretaapian.\nBAB II\nJARINGAN PELAYANAN ANGKUTAN KERETA API"
+   }
+  },
+  {
+   "id": "ID-H945-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\n(1) Jaringan pelayanan angkutan kereta api terdiri dari:\na. jaringan pelayanan angkutan antar kota;\nb. jaringan pelayanan angkutan kota.\n(2) Jaringan ...\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Jaringan pelayanan angkutan antar kota terdiri dar pelayanan lintas\nutama dan lintas cabang.\n(3) Jaringan pelayanan angkutan kota merupakan pelayanan lintas utama\ndalam satu sistem angkutan kota."
+   }
+  },
+  {
+   "id": "ID-H945-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\n(1) Pelayanan lintas utama sebagaimana dimaksud dalam Pasal 2 ayat\n(2) memiliki ciri:\na. melayani jarak jauh atau sedang;\nb. menghubungkan antar stasiun yang berfungsi sebagai pengumpul,\nyang ditetapkan untuk melayani pelayanan lintas utama;\n(2) Pelayanan lintas cabang sebagaimana dimaksud dalam Pasal 2 ayat\n(2) memiliki ciri:\na. melayani jarak sedang atau dekat;\nb. menghubungkan antar stasiun yang berfungsi sebagai pengumpan\ndengan stasiun yang berfungsi sebagai pengumpul atau antar\nstasiun yang berfungsi sebagai pengumpan yang ditetapkan untuk\nmelayani pelayanan lintas cabang."
+   }
+  },
+  {
+   "id": "ID-H945-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\nJaringan pelayanan angkutan kota dan antar kota sebagaimana dimaksud\ndalam Pasal 2, harus terpadu satu sama lain termasuk dengan moda\ntransportasi lain."
+   }
+  },
+  {
+   "id": "ID-H945-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5 …"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 5\n(1) Jaringan pelayanan angkutan kereta api di dalam negeri ditetapkan\noleh Menteri.\n(2) Jaringan pelayanan sebagaimana dimaksud dalam ayat (1) berisi:\na. lintas pelayanan;\nb. frekuensi maksimum yang diizinkan;\nc. tekanan gandar lintas kereta api;\nd. kecepatan maksimum yang diizinkan.\n(3) Penetapan jaringan pelayanan angkutan kereta api sebagaimana\ndimaksud dalam ayat (1) dilakukan dengan memperhatikan:\na. keterpaduan intra dan antar moda transportasi;\nb. perpindahan orang dan atau barang menurut asal dan tujuan\nperjalanan.\n(4) Penetapan jaringan pelayanan angkutan kereta api antar kota dalam\nnegeri dengan kota di luar negeri dilakukan berdasarkan perjanjian\nantar negara."
+   }
+  },
+  {
+   "id": "ID-H945-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\n(1) Pelayanan angkutan kereta api dalam jaringan pelayanan\nsebagaimana dimaksud dalam Pasal 2, dilakukan dengan\nmemperhatikan:\na. terlayaninya seluruh jaringan pelayanan yang telah ditetapkan;\nb. tersedianya sarana kereta api;\nc. kapasitas lintas;\nPRESIDEN\nREPUBLIK INDONESIA\nd. permintaan jasa angkutan pada lintas yang bersangkutan.\n(2) Pelaksanaan pelayanan sebagaimana dimaksud dalam ayat (1)\ndilaporkan kepada Menteri."
+   }
+  },
+  {
+   "id": "ID-H945-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\n(1) Menteri melakukan evaluasi terhadap laporan mengenai pelayanan\nangkutan kereta api sebagaimana dimaksud dalam Pasal 6 ayat (2);\n(2) Hasil evaluasi sebagaimana dimaksud dalam ayat (1) merupakan\ndasar untuk m enetapkan kebijaksanaan dalam pelayanan angkutan\nkereta api."
+   }
+  },
+  {
+   "id": "ID-H945-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n(1) Pelayanan angkutan kereta api khusus semata -mata dipergunakan\nuntuk menunjang badan usaha dalam melaksanakan kegiatan\npokoknya.\n(2) Pelayanan angkutan kereta api khusus sebagaimana dimaksud dalam\nayat (1) dapat dipadukan dengan jaringan pelayanan angkutan kereta\napi untuk umum."
+   }
+  },
+  {
+   "id": "ID-H945-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\nKetentuan lebih lanjut yang diperlukan bagi pelaksanaan ketentuan\nmengenai pelayanan angkutan kereta api sebagaiman a dimaksud dalam\nPeraturan Pemerintah ini diatur dengan Keputusan Menteri.\nBAB III …\nPRESIDEN\nREPUBLIK INDONESIA\nBAB III\nPENGOPERASIAN KERETA API"
+   }
+  },
+  {
+   "id": "ID-H945-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\n(1) Pengoperasian kereta api dilaksanakan oleh badan penyelenggara.\n(2) Dalam pengoperasian kereta api sebagaimana dimaksu d dalam ayat\n(1) dilakukan dengan memperhatikan keselamatan, keamanan,\nketertiban, kelancaran, kenyataannya dan kelangsungan pelayanan."
+   }
+  },
+  {
+   "id": "ID-H945-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\n(1) Badan Penyelenggara menyusun dan menetapkan rencana\npengoperasian kereta api dan disampaikan kepada Menteri.\n(2) Perencanaan sebagaimana dimaksud dalam ayat (1) dilakukan\ndengan memperhatikan kebijaksanaan sebagaimana dimaksud dalam\nPasal 6 ayat (1).\n(3) Dalam keadaan tertentu Menteri dapat memerintahkan badan\npenyelenggara untuk mengoperasikan kereta api di luar rencana\npengoperasian sebagaimana dimaksud dalam ayat (1) dengan tetap\nmemperhatikan keselamatan operasi kereta api."
+   }
+  },
+  {
+   "id": "ID-H945-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\nBadan penyelenggara wajib mengangkut penumpang dan atau barang\nyang telah memenuhi syarat-syarat umum angkutan."
+   }
+  },
+  {
+   "id": "ID-H945-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13 …"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 13\n(1) Dalam pengoperasian kereta api, badan penyelenggara wajib\nmengumumkan kepada masyarakat jadwal perjalanan kereta api dan\ntarif angkutan penumpang atau perubahannya.\n(2) Badan penyelenggara diwajibkan:\na. mengumumkan di stasiun dan atau d i kereta api apabila terjadi\npembatalan, penundaan keberangkatan keterlambatan, atau\npengalihan pelayanan lintas kereta api;\nb. mematuhi jadwal keberangkatan kereta api."
+   }
+  },
+  {
+   "id": "ID-H945-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\nBadan penyelenggara dalam menyelenggarakan angkutan kereta api\nwajib:\na. mengutamakan kepentingan pelayanan umum bagi masyarakat luas;\nb. memberikan pelayanan yang adil dan merata kepada segenap lapisan\nmasyarakat dengan biaya terjangkau oleh masyarakat;\nc. mewujudkan keterpaduan baik intra maupun antar moda transportasi;\nd. menjaga kelangsungan pelayanan pada lintas -lintas yang telah\nditetapkan baik atas kemampuan sendiri atau melalui kerjasama\ndengan badan hukum Indonesia lainnya."
+   }
+  },
+  {
+   "id": "ID-H945-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\nPenumpang dan atau pengirim barang berhak:\na. memperoleh pelayanan sesuai tingkat pelayanan yang disepakati\ndalam karcis atau surat angkutan;\nPRESIDEN\nREPUBLIK INDONESIA\nb. memperoleh …\nb. memperoleh palayanan dalam batas -batas kelayakan sesuai\nkemampuan badan penyelenggara selama menunggu keberangkatan\napabila terjadi keterlambatan;\nc. memperoleh pengembalian biaya angkutan apabila terjadi\npembatalan keberangkatan;\nd. diangkut sampai di tempat tujuan, apabila kereta api tidak dapat\nmelanjutkan perjalanan tanpa dipungut biaya tambahan;\ne. memperoleh ganti rugi terhadap kerusakan dan kehilangan barang\nsesuai perjanjian angkutan."
+   }
+  },
+  {
+   "id": "ID-H945-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\n(1) Terhadap setiap gangguan operasi atau kecelakaan yang\nmengkibatkan:\na. korban jiwa;\nb. kerusakan yang cukup besar pada prasarana dan sarana kereta\napi;\nc. terhentinya operasi kereta api selama 24 jam atau lebih, harus\ndilakukan penelitian untuk menentukan sebab -sebab terjadinya\ngangguan atau kecelakaan tersebut.\n(2) Penelitian terhadap gangguan operasi kecelakaan sebagaimana\ndimaksud dalam ayat (1) dilakukan oleh Tim Peneliti yang dibentuk\noleh Menteri."
+   }
+  },
+  {
+   "id": "ID-H945-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\nKetentuan lebih lanjut yang diperlukan bagi pelaksanaan ketentuan\nmengenai pengoperasian kereta api sebagaimana dimaksud dalam\nPRESIDEN\nREPUBLIK INDONESIA\nPeraturan Peraturan ini diatur dengan Keputusan Menteri.\nBAB IV\nANGKUTAN ORANG DENGAN KERETA API"
+   }
+  },
+  {
+   "id": "ID-H945-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\n(1)Angkutan orang dengan kereta api dapat dibebani dengan:\na. kereta api penumpang berjadwal;\nb. kereta api penumpang tidak berjadwal.\n(2) Kereta api penumpang berjadwal sebagaimana dimaksud dalam ayat\n(1) huruf a, diselenggarakan dengan jadwal tetap dan teratur.\n(3) Kereta api penumpang tidak berjadwal sebagaimana dimaksud dalam\nayat (1) huruf b, diselenggarakan dengan jadwal tidak tetap."
+   }
+  },
+  {
+   "id": "ID-H945-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\n(1) Pelayanan angkutan orang sebagaimana dimaksud dalam Pasal 18\nterdiri dari pelayanan ekonomi dan non ekonomi.\n(2) Menteri menetapkan komposisi pelayanan angkutan ekonomi dan\nnon ekonomi serta standar pelayanan ekonomi untuk menjamin\nkelangsungan pelayanan angkutan ekonomi.\n(3) Pada setiap jalur pelayanan kereta api harus tersedia pelayanan\nangkutan ekonomi.\n(4) Badan penyelenggara menetapkan standar pelayanan non ekonomi\ndengan memperhatikan kepentingan pelayanan ekonomi dan\nmelaporkan kepada Menteri dan men gumumkannya kepada\nmasyarakat.\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H945-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\n(1) Angkutan orang hanya dilakukan dengan kereta penumpang.\n(2) Dalam kondisi tertentu badan penyelenggara dapat melakukan\npengangkutan orang sebagaimana dimaksud dalam ayat (1) dengan\nsarana kereta api lainnya.\n(3) Pengangkutan orang dengan menggunakan sarana kereta api lainnya\nsebagaimana dimaksud dalam ayat (2) wajib memenuhi persyaratan\nkeselamatan penumpang dan persyaratan fasilitas pelayanan\npenumpang."
+   }
+  },
+  {
+   "id": "ID-H945-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\nKetentuan lebih lanjut yang diperlukan bagi p elaksanaan ketentuan\nmengenai pengakutan orang dengan kereta api sebagaimana dimaksud\ndalam Peraturan Pemerintah ini diatur dengan Keputusan Menteri.\nBAB V\nANGKUTAN BARANG DENGAN KERETA API"
+   }
+  },
+  {
+   "id": "ID-H945-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\n(1) Angkutan barang dengan kereta api dapat dilayani dengan:\na. kereta api barang berjadwal;\nb. kereta api tidak berjadwal.\n(2) Angkutan barang dengan kereta api dilakukan dengan menggunakan\ngerbong sebagaimana dimaksud dalam ayat (2) terdiri dari:\nPRESIDEN\nREPUBLIK INDONESIA\na. barang ...\na. barang umum;\nb. barang khusus;\nc. barang berbahaya."
+   }
+  },
+  {
+   "id": "ID-H945-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\n(1) Angkutan barang umum sebagaimana dimaksud dalam Pasal 22 ayat\n(3) huruf a, diklasifikasikan atas:\na. barang aneka;\nb. barang curah;\nc. barang cair;\nd. kiriman pos;\ne. tumbuh-tumbuhan;\nf. hewan;\ng. peti kemas;\nh. kendaraan;\ni. jenazah.\n(2) Angkutan barang umum sebagaimana dimaksud dalam ayat (1) harus\nmemenuhi persyaratan:\na. pemuatan, pembongkaran dan penyusunan barang pada\ntempat-tempat yang telah ditetapkan sesuai dengan\nklasifikasinya;\nb. keselamatan dan keamanan barang yang diangkut;\nc. gerbong dan atau kereta bagasi yang digunakan sesuai dengan\nklasifikasi barang yang diangkut.\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H945-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24 …"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 24\n(1) Angkutan barang khusus sebagaimana dimaksud dalam Pasal 22 ayat\n(3) huruf b, diklasifikasikan atas:\na. barang yang memerlukan fasilitas pendingin;\nb. barang dan atau alat berat.\n(2) Angkutan barang umum dan barnag khusus sebagaimana dimaksud\ndalam Pasal 22 ayat (3) huruf a dan huruf b harus memenuhi\npersyaratan:\na. pemuatan, pembongkar an dan susunan barang pada\ntempat-tempat yang telah ditetapkan sesuai dengan\nklasifikasinnya;\nb. keselamatan dan keamanan barang yang diangkut;\nc. gerbong yang digunakan sesuai dengan klasifikasi barang yang\ndiangkut."
+   }
+  },
+  {
+   "id": "ID-H945-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\n(1) Angkutan barang berba haya sebagaimana dimaksud dalam Pasal 22\nayat (3) huruf c diklasifikasikan atas angkutan bahan:\na. mudah meledak;\nb. gas mampat, gas cair, gas terlarut pada tekanan atau pendinginan\ntertentu;\nc. cairan mudah menyala;\nd. padatan mudah menyala;\ne. oksidator, peroksida organik;\nPRESIDEN\nREPUBLIK INDONESIA\nf. racun ...\nf. racun dan bahan yang mudah menular;\ng. radio aktif;\nh. korosif;\ni. berbahaya lain.\n(2) Kereta api yang digunakan untuk mengangkut bahan berbahaya\nharus:\na. memenuhi persyaratan keselamatan sesuai sifat ba han berbahaya\nyang diangkut;\nb. diberi tanda -tanda tertentu sesuai bahan berbahaya yang\ndiangkut;\nc. disertai petugas yang memiliki kualifikasi tertentu sesuai sifat\nbahan berbahaya yang diangkut."
+   }
+  },
+  {
+   "id": "ID-H945-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\n(1) Badan penyelenggara mempunyai hak untuk me nahan barang yang\ndiangkut dengan kereta api, apabila pengirim atau penerima tidak\nmemenuhi kewajiban dalam batas waktu yang telah ditetapkan sesuai\nperjanjian angkutan.\n(2) Setelah batas waktu sebagaimana dimaksud dalam ayat (1)\nterlampaui barang -barang t ersebut dapat dijual secara lelang sesuai\ndengan peraturan perundang -undangan yang berlaku, untuk\nmemenuhi kewajiban pengirim dan atau penerima barang."
+   }
+  },
+  {
+   "id": "ID-H945-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27 …"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 27\nBarang-barang yang tidak bertuan disimpan oleh badan\npenyelenggara dan setelah lewat waktu sesuai perjanjian angkutan\ndapat dijual secara lelang sesuai peraturan perundang-undangan yang\nberlaku atau dimusnahkan apabila sifatnya berbahaya atau dapat\nmengganggu dalam penyimpanannya."
+   }
+  },
+  {
+   "id": "ID-H945-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\nKetentuan lebih lanjut yang diperlukan bagi pelaksanaan ketentuan\nmengenai pengangkutan barang dengan kereta api sebagaimana\ndimaksud dalam Peraturan Pemerintah ini diatur dengan Keputusan\nMenteri.\nBAB VI\nSTRUKTUR GOLONGAN TARIF"
+   }
+  },
+  {
+   "id": "ID-H945-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\nTarif angkutan kereta api terdiri dari tarif angkutan penumpang dan tarif\nangkutan barang."
+   }
+  },
+  {
+   "id": "ID-H945-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\nTarif angkutan penumpang terdiri dari tarif kereta api berjadwal dan\nkereta api tidak berjadwal."
+   }
+  },
+  {
+   "id": "ID-H945-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31 …"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 31\nGolongan tarif angkutan penumpang kereta api berjadwal terdiri dari\ngolongan tarif pelayanan ekonomi dan tarif pelayanan non ekonomi."
+   }
+  },
+  {
+   "id": "ID-H945-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 32\n(1) Struktur tarif pelayanan ekonomi kereta api berjadwal terdiri dari\ntarif dasar dan tarif jarak.\n(2) Struktur tarif pelayanan non ekonomi kereta api berjadwal terdiri\ndari tarif dasar, tarif pelayanan tambahan dan tarif jarak."
+   }
+  },
+  {
+   "id": "ID-H945-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 33\n(1) Tarif dasar sebagaimana dimaksud dalam Pasal 32 ayat (1)\nditetapkan dengan Keputusan Menteri.\n(2) Tarif dasar dan tarif pe layanan tambahan sebagaimana dimaksud\ndalam Pasal 32 ayat (2) ditetapkan oleh badan penyelenggara dan\ndilaporkan kepada Menteri.\n(3) Tarif jarak sebagaimana dimaksud dalam Pasal 32 ayat (1)\nditetapkan dengan Keputusan Menteri.\n(4) Tarif jarak sebagaimana d imaksud dalam Pasal 32 ayat (2)\nditetapkan oleh badan penyelenggara dan dilaporkan kepada\nMenteri."
+   }
+  },
+  {
+   "id": "ID-H945-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34 …"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 34\nTarif angkutan penumpang kereta api tidak berjadwal ditetapkan oleh\nbadan penyelenggara."
+   }
+  },
+  {
+   "id": "ID-H945-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 35\n(1) Dalam hal tarif dasar untuk kelas ekonomi sebagaimana dimaksud\ndalam Pasal 32 ayat (1) lebih rendah dari biaya angkutan\npenumpang, Pemerintah dapat memberikan kompensasi dari\nkekurangan biaya tersebut.\n(2) Tata cara dan penyediaan dana kompensasi sebagaima na dimaksud\ndalam ayat ayat (1) dilakukan oleh Menteri bersama Menteri\nKeuangan."
+   }
+  },
+  {
+   "id": "ID-H945-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 36\nTarif angkutan barang dengan kereta api ditetapkan berdasarkan\nkesepakatan antara pemilik dan atau pengirim barang dengan badan\npenyelenggara."
+   }
+  },
+  {
+   "id": "ID-H945-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 37\n(1) Badan p enyelenggara wajib mengasuransikan tanggung jawab\natas kerugian yang diderita oleh penumpang, pemilik atau pengirim\nbarang yang diangkut dan atau pihak ketiga, yang diakibatkan dari\npenyelenggaraan angkutan kereta api.\n(2) Besarnya tanggung jawab sebagaimana dimaksud dalam ayat (1)\ndibatasi sejumlah maksimum asuransi yang ditutup oleh badan\npenyelenggara."
+   }
+  },
+  {
+   "id": "ID-H945-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38 …"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 38\n(1) Badan penyelenggara wajib memberikan kemudahan (aksebilitas)\npelayanan khusus bagi penumpang penderita cacat dan atau orang\nsakit.\n(2) Pemberian kemudahan dan pelayanan khusus sebagaimana dimaksud\ndalam ayat (2) tidak dipungut biaya tambahan.\nBAB VII\nPEMBINAAN"
+   }
+  },
+  {
+   "id": "ID-H945-A39",
+   "no": 39,
+   "noLabel": {
+    "id": "Pasal 39"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 39\n(1) Menteri melakukan pembinaan terhadap lalu lintas dan angkutan\nkereta api melalui kegiatan pengaturan, pengendalian dan\npengawasan guna meningkatkan peran serta angkutan kereta api\ndalam keseluruhan moda transportasi secara terpadu.\n(2) Kegiatan pengaturan sebagaimana dimaksud dalam ayat (1) meliputi\nkegiatan penetapan kebijaksanaan umum dan kebijaksanaan teknis\nbidang perkeretaapian.\n(3) Kegiatan pengendalian sebagaimana dimaksud dalam ayat (1)\nmeliputi:\na. pemberian arahan dan petunjuk kepada aparatur pelaksana\nkebijaksanaan umum maupun teknis bidang perkeretaapian;\nb. pemberian bimbingan dan penyuluhan kepada masyarakat\nmengenai hak dan kewajiban dalam pelaksanaan kebijaksanaan\numum maupun teknis bidang perkeretaapian.\nPRESIDEN\nREPUBLIK INDONESIA\n(4) Kegiatan ...\n(4) Kegiatan pengawasa n sebagaimana dimaksud dalam ayat (1)\nmeliputi:\na. pemantauan dan penilaian terhadap pelaksanaan kebijaksanaan\numum maupun teknis bidang perkeretaapian;\nb. tindakan korektif terhadap pelaksanaan kebijaksanaan umum\nmaupun teknis bidang perkeretaapian.\nBAB IX\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H945-A40",
+   "no": 40,
+   "noLabel": {
+    "id": "Pasal 40"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 40\nDengan berlakunya Peraturan Pemerintah ini:\n1. semua peraturan perundang -undangan yang setingkat dengan\nPeraturan Pemerintah yang mengatur mengenai pembinaan dan\npenyelenggaraan perkeretaapian, dinyatakan tidak berlaku;\n2. semua peraturan perundang -undangan yang lebih rendah dari\nPeraturan Pemerintah yang mengatur mengenai pembinaan dan\npenyelenggaraan perkeretaapian dinyatakan tetap berlaku, sepanjang\ntidak bertentangan atau belum diganti dengan yang baru berdasarkan\nPeraturan Pemerintah ini.\nBAB X\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H945-A41",
+   "no": 41,
+   "noLabel": {
+    "id": "Pasal 41"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 41\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nPRESIDEN\nREPUBLIK INDONESIA\nAgar …\nPRESIDEN\nREPUBLIK INDONESIA\nAgar setiap orang dapat mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lemba ran\nNegara Republik Indonesia.\nDitetapkan di Jakarta\npada tanggal 30 November 1998\nPRESIDEN REPUBLIK INDONESIA\nttd.\nBACHARUDDIN JUSUF HABIBIE\nDiundangkan di Jakarta\npada tanggal 30 November 1998\nMENTERI NEGARA SEKRETARIS NEGARA\nREPUBLIK INDONESIA\nttd.\nAKBAR TANJUNG\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1998 NOMOR 196\nPRESIDEN\nREPUBLIK INDONESIA\nPENJELASAN\nATAS\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nNOMOR 81 TAHUN 1998\nTENTANG\nLALU LINTAS DAN ANGKUTAN KERETA API\nUMUM\nPerkeretaapian merupakan salah satu moda transportasi yang memiliki pera nan\nyang penting dan strategis, sehingga penyelenggaraannya dikuasai oleh negara dan\npembinaannya dilakukan oleh Pemerintah serta pengoperasian/pengusahaan prasarana\ndan sarana kereta api dilakukan oleh badan penyelenggara yang dibentuk khusus untuk\nitu.\nPembinaan di bidang lalu lintas dan angkutan kereta api yang meliputi aspek -aspek\npengaturan, pengendalian dan pengawasan lalu lintas dilaksanakan dengan\nmengutamakan dan memperhatikan pelayanan kepentingan umum atau masyarakat\npengguna jasa kereta ap i, kelestarian lingkungan, tata ruang, perkembangan ilmu\npengetahuan dan teknologi.\nPembinaan yang dilakukan oleh pemerintah tersebut juga dimaksudkan untuk\nmewujudkan lalu lintas angkutan kereta api yang selamat, aman, cepat, lancar, tertib dan\nteratur serta terpadu dengan moda transportasi lain.\nDalam rangka memenuhi kepentingan pemerintah sebagai pembina lalu lintas dan\nangkutan kereta api serta memenuhi kepentingan masyarakat pengguna jasa kereta api,\nmaka diwujudkan dalam berbagai ketentuan dalam P eraturan Pemerintah ini antara lain\nmengenai jaringan pelayanan kereta api, pengoperasian kereta api, pengangkutan orang\ndan barang dengan kereta api, struktur dan golongan tarif, tanggung jawab pengangkut\ndan tata cara pengangkutan penumpang dan barang serta pelayanan untuk orang cacat dan\norang sakit.\nPASAL …\nPRESIDEN\nREPUBLIK INDONESIA\nPASAL DEMI PASAL\nPasal 1\nAngka 1 s/d angka 7\nCukup jelas\nPasal 2\nAyat (1)\nHuruf a\nYang dimaksud dengan pengertian angkutan antar kota dalam ketentuan ini adalah\nangkutan kereta api antar kota dalam satu propinsi maupun antar kota antar\npropinsi.\nHuruf b\nCukup jelas\nAyat (2) dan Ayat (3)\nCukup jelas\nPasal 3\nAyat (1) dan Ayat (2)\nCukup jelas\nPasal 4\nCukup jelas\nPasal 5 …\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 5\nAyat (1) dan Ayat (4)\nCukup jelas\nPasal 6\nAyat (1)\nHuruf a dan Huruf b\nCukup jelas\nHuruf c\nYang dimaksud dengan kapasitas lintas dalam ketentuan ini adalah kemampuan\nsuatu lintas untuk menampung jumlah kereta api yang beroperasi untuk waktu\ntertentu.\nHuruf d\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 7\nAyat (1)\nCukup jelas\nAyat (2)\nPenetapan kebijaksanaan yang bersifat penugasan kepada bdan penyelenggara\ntidak mengurangi tanggungjawab Pemerintah dalam rangka menjamin\nkelangsungan pelayanan jasa kereta api serta kelangsungan dan pengembangan\nbadan penyelenggara dalam upaya peningkatan mutu pelayanan.\nPasal 8 …\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 8\nAyat (1)\nYang dimaksud dengan badan usaha adalah Badan Hukum Indonesia. Yang\ndimaksud dengan kegiatan pokok dalam ketentuan ini adalah kegiatan di bidang\nindustri, pertanian termasuk kehutanan dan perkebunan, pertambangan dan\nkepariwisataan.\nAyat (2)\nCukup jelas\nPasal 9\nCukup jelas\nPasal 10\nAyat (1) dan Ayat (2)\nCukup jelas\nPasal 11\nAyat (1)\nYang dimaksud dengan rencana peng operasian kereta api dalam bentuk grafik,\nyang memuat antara lain:\na. tanggal mulai berlakunya;\nb. nomor, jenis dan kecepatan kereta api;\nc. jadwal kereta api;\nd. lintas yang ditentukan;\ne. nama dan letak stasiun;\nf. lereng penentu (gradien).\nAyat (2) …\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (2) dan Ayat (3)\nCukup jelas\nPasal 12\nCukup jelas\nPasal 13\nAyat (1)\nCukup jelas\nAyat (2)\nHuruf a\nYang dimaksud dengan pengalihan pelayanan lintas kereta api dalam ketentuan ini\nadalah pengalihan perjalanan kereta api dari lintasan yang telah ditentukan ke\nlintas lain untuk mencapai tujuan stasiun akhir, karena adanya gangguan pada\nlintas yang bersangkutan.\nHuruf b\nCukup jelas\nPasal 14\nCukup jelas\nPasal 15\nHuruf a dan Huruf b\nCukup jelas\nHuruf c …\nPRESIDEN\nREPUBLIK INDONESIA\nHuruf c\nYang dimaksud biaya angkutan dalam ketentuan ini adalah tarif angkutan yang\ntelah dibayar yang harus dikembalikan kepada penumpang dan atau pengirim\nbarang.\nHuruf d dan huruf e\nCukup jelas\nPasal 16\nAyat (1) dan Ayat (2)\nCukup jelas\nPasal 17\nCukup jelas\nPasal 18\nAyat (1) s/d Ayat (3)\nCukup jelas\nPasal 19\nAyat (1) s/d Ayat (4)\nCukup jelas\nPasal 20\nAyat (1)\nCukup jelas\nAyat (2)\nYang dimaksud dengan kondisi tertentu dalam ketentuan ini adalah apabila kereta\napi penumpang tidak tersedia atau tidak mencukupi pada jalur tersebut sedangkan\npermintaan angkutan segera dilayani.\nAyat (3) …\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (3)\nPersyaratan minimal fasilitas pela yanan penumpang dalam ketentuan ini berupa\natap untuk pelindung panas dan hujan, sirkulasi udara, tempat duduk, penerangan\ndan kebersihan.\nPasal 21\nCukup jelas\nPasal 22\nAyat (1) dan Ayat (2)\nCukup jelas\nPasal 23\nAyat (1) dan Ayat (3)\nCukup jelas\nPasal 24\nAyat (1)\nHuruf a\nCukup jelas\nHuruf b\nYang dimaksud barang berat dalam ketentuan ini adalah barang yang mempunyai\nukuran panjang atau lebar atau berat yang memerlukan penanganan khusus dalam\npengangkutannya, antara lain rel kereta api ata u batangan panjang lainnya, travo\npembangkit tenaga listrik.\nAyat (2) …\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (2)\nCukup jelas\nPasal 25\nAyat (1)\nYang dimaksud dengan barang berbahaya dalam ketentuan ini adalah bahan atau\nbenda yang oleh karena sifat atau ciri khas serta keadaanny a dapat membahayakan\nkeselamatan jiwa manusia, mengganggu ketertiban umum serta merusak\nlingkungan hidup.\nAyat (2)\nCukup jelas\nPasal 26\nAyat (1)\nDalam perjanjian pengangkutan diatur syarat -syarat angkutan, hak dan kewajiban\nbadan penyelenggara dan pemilik dan atau pengirim barang.\nAyat (2)\nCukup jelas\nPasal 27\nCukup jelas\nPasal 28\nCukup jelas\nPasal 29 …\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 29\nCukup jelas\nPasal 30\nCukup jelas\nPasal 31\nTarif pelayanan ekonomi sebagaimana dimaksud dalam ketentuan ini adalah tarif\npelayanan angkutan kereta api yang berorientasi kepada kepentingan dan kemampuan\nmasyarakat luas;\nTarif pelayanan non ekonomi sebagaimana dimaksud dalam ketentuan ini adalah tar if\npelayanan angkutan kereta api yang berorientasi kepada kelangsungan dan\npengembangan usaha badan penyelenggara dalam rangka meningkatkan mutu\npelayanan serta perluasan jaringan pelayanan angkutan kereta api.\nPasal 32\nAyat (1)\nTarif dasar adalah besa ran tarif yang dinyatakan dengan biaya per penumpang per\nkilometer.\nPenetapan tarif dasar untuk pelayanan ekonomi dilakukan dengan memperhatikan\nkemampuan daya beli masyarakat.\nTarif jarak adalah besaran tarif yang didasarkan atas perkalian tarif dasar dengan\njarak tempuh.\nAyat (2)\nPenetapan tarif dasar untuk pelayanan non ekonomi dilakukan dengan\nmemperhatikan kelangsungan dan pengembangan usaha angkutan dalam rangka\nmeningkatkan mutu pelayanan serta perluasan jaringan pelayanan angkutan.\nTarif …\nPRESIDEN\nREPUBLIK INDONESIA\nTarif pelayanan tambahan adalah besaran tarif yang dinyatakan dengan biaya per\npenumpang per kilometer sesuai dengan fasilitas dan tingkat pelayanan yang\ndiberikan.\nTarif jarak adalah besaran tarif yang didasarkan atas penjumlahan tarif dasar\nditambah tarif pelayanan tambahan dikalikan jarak tempuh.\nPasal 33\nAyat (1) s/d Ayat (4)\nCukup jelas\nPasal 34\nCukup jelas\nPasal 35\nAyat (1)\nPemberian kompensasi kepada badan penyelenggara dengan mempertimbangkan\nkemampuan keuangan negara.\nAyat (2)\nCukup jelas\nPasal 36\nPengaturan tarif angkutan barang didasarkan atas kesepakatan antara badan\npenyelenggara dengan pemilik dan atau pengirim barang, dengan memperhatikan\nsyarat-syarat tertentu, antara lain mengenai jumlah, jenis barang yang diangkut, waktu\npengangkutan serta syarat-syarat pembayaran angkutan.\nPenetapan tarif dan syarat -syarat dimaksud dituangkan dalam bentuk surat perjanjian\nantara badan penyelenggara dengan pemilik dan atau pengirim barang.\nPasal 37 …\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 37\nAyat (1) dan Ayat (2)\nCukup jelas\nPasal 38\nAyat (1)\nKetentuan ini dimaksudkan agar penderita cacat mendapatkan pelayanan secara\nlayak dalam hal yang bersangkutan menggunakan jasa angkutan kereta api.\nAyat (2)\nCukup jelas\nPasal 39\nAyat (1) s/d Ayat (4)\nCukup jelas\nPasal 40\nCukup jelas\nPasal 41\nCukup jelas\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 3795"
+   }
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "id": "PH-H14162",
+ "title": {
+  "zh": null,
+  "en": "An Act Authorizing the Governor-General to Redeem the Bonds Issued Under Act Numbered Twenty-Nine Hundred and Eight, Approved March Twenty-three, Nineteen Hundred and Twenty, and Appropriating the Necessary Amount for the Redemption of Said Bonds.",
+  "orig": "An Act Authorizing the Governor-General to Redeem the Bonds Issued Under Act Numbered Twenty-Nine Hundred and Eight, Approved March Twenty-three, Nineteen Hundred and Twenty, and Appropriating the Necessary Amount for the Redemption of Said Bonds."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1929-08-09",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3529",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1110,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1929/act_3529_1929.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03529_1929_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03529_1929_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14162-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The Governor-General is hereby authorized to redeem at par value on the second day of\nSeptember, nineteen hundred and thirty, the bonds issued under the provisions of Act Numbered Twenty-nine\nhundred and eight of the Philippine Legislature, approved March twenty-three, nineteen hundred and twenty,\nin the amount of six million dollars, United States currency, for the purpose of providing funds for the\nconstruction of works and improvements in the Port of Manila. Said bonds shall cease to earn interest from the\nsecond day of September of the year nineteen hundred and thirty."
+   }
+  },
+  {
+   "id": "PH-H14162-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "There is hereby appropriated out of the general funds in the Insular Treasury, not otherwise\nappropriated, the sum of ten million pesos or so much thereof as may be necessary to be added to the Manila\nPort Works and Improvements Bond Sinking Fund so as to complete the amount of six million dollars, United\nStates currency, for the payment of the principal of said bonds, and to cover the exchange and other necessary\nexpenses for the redemption of said bonds."
+   }
+  },
+  {
+   "id": "PH-H14162-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, August 9, 1929."
+   }
+  }
+ ]
+}

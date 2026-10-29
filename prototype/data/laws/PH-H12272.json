@@ -1,0 +1,82 @@
+{
+ "id": "PH-H12272",
+ "title": {
+  "zh": null,
+  "en": "AN ACT AUTHORIZING THE GOVERNOR-GENERAL TO PAROLE PRISONERS AND PROVIDING FOR THE ENFORCEMENT OF THE CONDITIONS OF SUCH PAROLES.",
+  "orig": "AN ACT AUTHORIZING THE GOVERNOR-GENERAL TO PAROLE PRISONERS AND PROVIDING FOR THE ENFORCEMENT OF THE CONDITIONS OF SUCH PAROLES."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 1561",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 1172,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_01561_1906_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_01561_1906_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12272-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The Governor-General may, whenever he thinks best, be authorize and direct the discharge from\ncustody of any person convicted of crime under the laws of the Philippine Islands and suspend the sentence:\nof such convict without granting a pardon, and prescribe the terms upon which a convict so paroled shall\nhave his sentence suspended."
+   }
+  },
+  {
+   "id": "PH-H12272-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Upon the failure of: any convict to observe the conditions of his parole, to lie determined by the\nGovernor-General, the Governor-General shall have authority to direct the arrest and return of such convict\nto custody, and thereupon said convict shall be required to carry out the sentence of the court as though no\nparole had been granted him. the time between the parole and subsequent arrest not being taken as a part of\nthe term of his sentence in computing the period of his confinement."
+   }
+  },
+  {
+   "id": "PH-H12272-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "The public good requiring the speedy enactment of this bill, the passage of the same is hereby\nexpedited in accordance with section two of \"An Act prescribing the order of procedure by the Commission\nin the enactment of laws,\" passed September twenty-sixth, nineteen hundred."
+   }
+  },
+  {
+   "id": "PH-H12272-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, November 10, 1906."
+   }
+  }
+ ]
+}

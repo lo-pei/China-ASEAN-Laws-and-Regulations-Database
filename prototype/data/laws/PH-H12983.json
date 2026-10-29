@@ -1,0 +1,62 @@
+{
+ "id": "PH-H12983",
+ "title": {
+  "zh": null,
+  "en": "An Act Appropriating the Sum of One Hundred and Fifty thousand Pesos for the Maintenance and Repair of the Benguet Road.",
+  "orig": "An Act Appropriating the Sum of One Hundred and Fifty thousand Pesos for the Maintenance and Repair of the Benguet Road."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1913-06-14",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2279",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 402,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1913/act_2279_1913.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02279_1913_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02279_1913_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12983-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The sum of one hundred and fifty thousand pesos, or so much thereof as may be necessary, is\nhereby appropriated, out of any funds in the Insular Treasury not otherwise appropriated, to be expended in\nthe discretion of the Secretary of Commerce and Police for the maintenance and repair of the Benguet Road."
+   }
+  },
+  {
+   "id": "PH-H12983-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on July first, nineteen hundred and thirteen.\nEnacted, June 14, 1913."
+   }
+  }
+ ]
+}

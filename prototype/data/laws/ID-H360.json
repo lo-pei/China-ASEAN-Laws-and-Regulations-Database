@@ -1,0 +1,66 @@
+{
+ "id": "ID-H360",
+ "title": {
+  "zh": "印度尼西亚与菲律宾引渡协定及议定书批准法",
+  "en": "Law on the Ratification of the Extradition Agreement and Protocol between Indonesia and the Philippines",
+  "id": "PENGESAHAN PERJANJIAN EKSTRADISI ANTARA",
+  "orig": "PENGESAHAN PERJANJIAN EKSTRADISI ANTARA",
+  "vi": "Luật về Việc Phê chuẩn Hiệp định và Nghị định thư Dẫn độ giữa Indonesia và Philippines",
+  "th": "พระราชบัญญัติว่าด้วยการให้สัตยาบันความตกลงและพิธีสารส่งตัวผู้กระทำผิดระหว่างอินโดนีเซียกับฟิลิปปินส์",
+  "ms": "Akta tentang Pengesahan Perjanjian dan Protokol Ekstradisi antara Indonesia dan Filipina"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02b",
+ "language": "id",
+ "level": "law",
+ "category": "05_刑事与知识产权",
+ "status": "active",
+ "promulgatedDate": "1976",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "-",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 2,
+ "chars": 608,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": null
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\05_刑事与知识产权\\印尼_WLD_1976_PENGESAHAN PERJANJIAN EKSTRADISI ANTARA.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 2 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H360-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\nMengesahkan Perjanjian Ekstradisi antara Republik Indonesia dan\nRepublik Philippina serta Protokol tertanggal 10 Pebruari 1976,\nyang\nsalinan naskahnya dilampirkan pada undang-undang ini."
+   }
+  },
+  {
+   "id": "ID-H360-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\nUndang-undang ini mulai berlaku pada tanggal diundangkan.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan\npengundangan undang-undang ini dengan penempatannya dalam Lembaran\nNegara\nRepublik Indonesia.\nDisahkan di Jakarta\npada tanggal 26 Juli 1976\nPRESIDEN REPUBLIK INDONESIA,\nSOEHARTO\nDiundangkan di Jakarta\npada tanggal 26 Juli 1976\nMENTERI/SEKRETARIS NEGARA\nREPUBLIK INDONESIA,\nSUDHARMONO, SH."
+   }
+  }
+ ]
+}

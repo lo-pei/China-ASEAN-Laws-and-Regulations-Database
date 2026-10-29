@@ -1,0 +1,62 @@
+{
+ "id": "PH-H14622",
+ "title": {
+  "zh": null,
+  "en": "An Act to Encourage and Facilitate the Survey and Subdivision of Public Land in the Philippine Islands and Appropriate the Sum of One Hundred and Fifty thousand Pesos to Defray the Expenses thereof.",
+  "orig": "An Act to Encourage and Facilitate the Survey and Subdivision of Public Land in the Philippine Islands and Appropriate the Sum of One Hundred and Fifty thousand Pesos to Defray the Expenses thereof."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1932-12-08",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 4031",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 710,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1932/act_4031_1932.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_04031_1932_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_04031_1932_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14622-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "In order to encourage and facilitate the survey and subdivision of public land in the Philippine\nIslands, the sum of one hundred and fifty thousand pesos is hereby appropriated, out of any funds in the\nInsular Treasury not otherwise appropriated. This sum shall constitute a special fund which shall be available\nfor disbursement by the Director of Lands, subject to the approval of the Secretary of Agriculture and Natural\nResources for the payment of the salaries, wages, and traveling expenses of the necessary personnel, purchase\nof the necessary apparatus, equipment and material, and other expenses in connection with the purposes of"
+   }
+  },
+  {
+   "id": "PH-H14622-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, December 8, 1932."
+   }
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "id": "PH-H12809",
+ "title": {
+  "zh": null,
+  "en": "An Act Providing the Method of Executing Leases of Government Buildings or Cottages.",
+  "orig": "An Act Providing the Method of Executing Leases of Government Buildings or Cottages."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1912-01-25",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2102",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 349,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1912/act_2102_1912.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02102_1912_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02102_1912_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12809-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "All contracts and leases for the use and occupancy of Government buildings or cottages in the\nterritory under the exclusive control of the Philippine Commission shall hereafter be executed by the Director\nof Public Works, with the approval of the Secretary of Commerce and Police."
+   }
+  },
+  {
+   "id": "PH-H12809-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, January 25, 1912."
+   }
+  }
+ ]
+}

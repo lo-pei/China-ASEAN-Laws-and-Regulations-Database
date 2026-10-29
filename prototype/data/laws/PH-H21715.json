@@ -1,0 +1,82 @@
+{
+ "id": "PH-H21715",
+ "title": {
+  "zh": null,
+  "en": "Authorizing Barangay Members to Cast Their Votes in the Barangay Centers Nearest Their Residence",
+  "orig": "Authorizing Barangay Members to Cast Their Votes in the Barangay Centers Nearest Their Residence"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p159",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1973-07-27",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 256",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 961,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_00256_1973_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_00256_1973_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H21715-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Any barangay member who, on Referendum Day, inspite of diligent efforts and through no fault\nof his own could not locate his Barangay Center shall be allowed to vote in the Barangay Center nearest his"
+   }
+  },
+  {
+   "id": "PH-H21715-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Any registered barangay member of a city/ municipality/municipal district, who on Referendum\nDay is staying for any reason in another city/municipality/municipal district outside the province where he is\nregistered, may cast his vote in the Barangay Center nearest the place where he is temporarily staying."
+   }
+  },
+  {
+   "id": "PH-H21715-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "Any barangay referendum committee which on account of the additional transient voters\nmentioned above, runs short of ballots at any time of Referendum Day shall be authorized to borrow from the\nnearest Barangay Referendum Committee under proper receipt sufficient number of ballots for their Barangay"
+   }
+  },
+  {
+   "id": "PH-H21715-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "This Decree shall take effect immediately.\nDone in the City of Manila, this 27th day of July, in the year of Our Lord, nineteen hundred and seventy-three."
+   }
+  }
+ ]
+}

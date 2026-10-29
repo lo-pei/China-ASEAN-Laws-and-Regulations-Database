@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13302",
+ "title": {
+  "zh": null,
+  "en": "An Act Authorizing the Investment of the Immunized Cattle Insurance Fund Established By Act Numbered Twenty-Five Hundred and Forty-Eight.",
+  "orig": "An Act Authorizing the Investment of the Immunized Cattle Insurance Fund Established By Act Numbered Twenty-Five Hundred and Forty-Eight."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1916-02-24",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2650",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 642,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1916/act_2650_1916.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02650_1916_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02650_1916_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13302-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The immunized cattle insurance fund established by Act Numbered Twenty-five hundred and\nforty-eight is hereby made available for investment by the Insular Treasurer, with the approval of the\nGovernor-General, in such loans and securities as are authorized by existing laws for the investment of\ndeposits in the Postal Savings Bank, or for the investment of the insurance fund, created by Act Numbered\nSeventeen hundred and twenty-eight, as amended: Provided, That the rates of interest on all loans made by\nauthority of this section shall be fixed by the Governor-General."
+   }
+  },
+  {
+   "id": "PH-H13302-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, February 24, 1916."
+   }
+  }
+ ]
+}

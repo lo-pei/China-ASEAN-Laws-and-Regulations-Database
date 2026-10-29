@@ -1,0 +1,82 @@
+{
+ "id": "PH-H13359",
+ "title": {
+  "zh": null,
+  "en": "An Act to Provide for the Prosecution of All Persons Who Appear to Be Liable for a Crime and to Establish Conditions for the Discharge of Certain Accused Persons to Be Used as Government Witnesses.",
+  "orig": "An Act to Provide for the Prosecution of All Persons Who Appear to Be Liable for a Crime and to Establish Conditions for the Discharge of Certain Accused Persons to Be Used as Government Witnesses."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1917-03-11",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2709",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 1153,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1917/act_2709_1917.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02709_1917_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02709_1917_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13359-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Every prosecution for a crime shall be in the name of the United States against all persons who\nappear to be responsible therefor, except, in the cases determined in section two of this Act."
+   }
+  },
+  {
+   "id": "PH-H13359-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "When two or more persons are charged with the commission of a certain crime, the competent\ncourt, at' any time before they have entered upon their defense, may direct any of them to be discharged, that\nhe may be a witness for the Government when in the judgment of the court:\n(a) There is absolute necessity for the testimony of the accused whose discharge is requested;\n(b) There is no other direct evidence available for the proper prosecution of the crime committed, except the\ntestimony of said accused;\n(c)The testimony of said accused can be substantially corroborated in its material points;\n(d) Said accused does not appear to be the most guilty, and\n(e) Said accused has not at any time been convicted of the crime of perjury or false testimony or of any other\ncrime involving moral turpitude."
+   }
+  },
+  {
+   "id": "PH-H13359-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "All Acts or parts of Acts inconsistent with the provisions of this Act are hereby repealed."
+   }
+  },
+  {
+   "id": "PH-H13359-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nEffective, March 11, 1917."
+   }
+  }
+ ]
+}

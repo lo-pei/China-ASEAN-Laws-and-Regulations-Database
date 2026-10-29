@@ -1,0 +1,234 @@
+{
+ "id": "MY-H5405",
+ "title": {
+  "zh": "2018年所得税（豁免）（第10号）令",
+  "en": "INCOME TAX (EXEMPTION) (NO. 10) ORDER 2018",
+  "orig": "INCOME TAX (EXEMPTION) (NO. 10) ORDER 2018",
+  "ms": "Perintah Cukai Pendapatan (Pengecualian) (Bilangan 10) 2018",
+  "vi": "Lệnh về Thuế thu nhập (Miễn trừ) (số 10) năm 2018",
+  "th": "คำสั่งภาษีเงินได้ (การยกเว้น) (ฉบับที่ 10) ค.ศ. 2018",
+  "id": "Perintah Pajak Penghasilan (Pembebasan) (Nomor 10) Tahun 2018"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-11",
+ "language": "ms",
+ "level": "regulation",
+ "category": "02_民商事与经济法",
+ "status": "active",
+ "promulgatedDate": "2018",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "PUA389",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 16,
+ "chars": 16408,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-view.php?type=pua&no=P.U. (A) 389/2018&status=PRINCIPAL"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\02_民商事与经济法\\2018_P.U.(A)389-2018_INCOME TAX (EXEMPTION) (NO. 10) ORDER 2018.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 16 条；逐字未改写（源自厂商 OCR 文本）。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H5405-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "1. Analisis data besar"
+   }
+  },
+  {
+   "id": "MY-H5405-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "2. Kecerdasan buatan"
+   }
+  },
+  {
+   "id": "MY-H5405-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "3. Teknologi kewangan"
+   }
+  },
+  {
+   "id": "MY-H5405-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "4. Internet benda"
+   }
+  },
+  {
+   "id": "MY-H5405-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "5. Sekuriti siber (teknologi/perisian/reka bentuk dan sokongan)"
+   }
+  },
+  {
+   "id": "MY-H5405-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "6. Pusat data dan awan (teknologi/perisian/reka bentuk dan sokongan)"
+   }
+  },
+  {
+   "id": "MY-H5405-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "7. Blok rantai"
+   }
+  },
+  {
+   "id": "MY-H5405-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "8. Teknologi media kreatif"
+   }
+  },
+  {
+   "id": "MY-H5405-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "9. Platform ekonomi perkongsian"
+   }
+  },
+  {
+   "id": "MY-H5405-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "10. Antara muka pengguna dan pengalaman pengguna"
+   }
+  },
+  {
+   "id": "MY-H5405-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "11. Reka bentuk litar bersepadu dan perisian terbenam"
+   }
+  },
+  {
+   "id": "MY-H5405-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "12. Pencetakan 3D (teknologi/perisian/reka bentuk dan sokongan)"
+   }
+  },
+  {
+   "id": "MY-H5405-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "13. Robotik (teknologi/perisian/reka)"
+   }
+  },
+  {
+   "id": "MY-H5405-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "14. Autonomi (teknologi/perisian/reka bentuk dan sokongan)"
+   }
+  },
+  {
+   "id": "MY-H5405-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "15. Sistem atau rangkaian seni bina reka bentuk dan sokongan"
+   }
+  },
+  {
+   "id": "MY-H5405-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "16. Perkhidmatan perniagaan global atau penyumberluaran proses pengetahuan\ntidak termasuk:\n\n(a) Bukan teknikal\n\n(b) Pusat panggilan bernilai rendah\n\n(c) Kemasukan data\n\n(d) Penyumberluaran proses perekrutan\n\nJADUAL 2\n\nSyarikat yang layak Kategori 1 Kategori 2 Kategori 3\nPeratusan\npengecualian cukai\npendapatan\n\n100% 70%\nTempoh\npengecualian\n\n5 tahun  5 tahun\nPelanjutan tempoh\npengecualian\n\n5 tahun Boleh memohon\npelanjutan tempoh\npengecualian tertakluk\nkepada syarikat yang\nlayak bertukar daripada\nKategori 3 kepada\nKategori 1 atau Kategori\n2 dan memenuhi syarat\nyang dikenakan,\nmengikut mana-mana\nyang berkenaan\n\nLokasi aktiviti\nmenjanakan\npendapatan teras\ndijalankan\nPremis ditetapkan\ndalam kawasan\nbandar siber atau\npusat siber Koridor\nRaya Multimedia\n\nDalam kawasan\nbandar siber atau\npusat siber Koridor\nRaya Multimedia\nTidak tertakluk kepada\nsyarat lokasi\nSyarat\n\nBilangan minimum\npekerja sepenuh\nmasa\norang\norang\norang\norang\norang\n\norang\nPusat Data: 5 orang\nAmaun minimum\ngaji asas bulanan\npekerja sepenuh\nmasa (RM)\n\n5,000.00 10,000.00 5,000.00 10,000.00 5,000.00 8,000.00\nPusat Data: 5,000.00\nAmaun minimum\nperbelanjaan\noperasi tahunan\ndan pelaburan\ndalam harta tetap\n(RM)\n3,500,000.00 1,000,000.00\nPusat Data: 10,000,000.00\n\nDibuat 31 Disember 2018\n[Perb. 0.3865/73(SJ.133-4); LHDN.AY.A.600-12/1/7(23)-2; PN(PU2)80/XCII]\n\nDATO' SERI DR. WAN AZIZAH BINTI DR. WAN ISMAIL\nTimbalan Perdana Menteri\nyang menjalankan fungsi-fungsi Menteri Kewangan\n\n[Akan dibentangkan di Dewan Rakyat menurut subse ksyen 127(4) Akta Cukai\nPendapatan 1967]\n\nINCOME TAX ACT 1967\n\nINCOME TAX (EXEMPTION) (NO.  10) ORDER 2018\n\nIN exercise of the powers conferred by paragraph 127(3) (b) of the\nIncome Tax Act 1967 [Act 53], the Minister makes the following order:\n\nCitation and commencement\n1.  (1)  This o rder may be cited as the Income Tax (Exemption) (No.  10)\nOrder 2018.\n\n (2)  This Order comes into operation on 1 January 2019.\n\nInterpretation\n2.  In this Order—\n\n\"promoted activities for Multimedia Super Corridor \" means activities as set out\nin column (2) of  Schedule 1  as approved by the Minister , but not including trading,\nmanufacturing activities or provision of telecommunication services;\n\n\"core income generating a ctivities\" means activities undertaken  by a qualifying\ncompany in Malaysia to provide services in relation to promoted activities for\nMultimedia Super Corridor as approved under the award of the Multimedia Super\nCorridor status;\n\n\"Multimedia Super Corridor  cyber city or cyber centre\" means an area that is\nrecognized by the Government of Malaysia as the Multimedia Super Corridor cyber city\nor cyber centre from time to time;\n\n \"designated premises\" means premises within the Multimedia Super Corridor\ncyber city or cyber centre designated as such by the Government of Malaysia from time\nto time;\n\n\"approval letter\" means the approval letter issued to the qualifying company in\nrespect of the award of the Multimedia Super Corridor status;\n\n\"Multimedia Super Corridor status\" means the Multimedia Super Corridor status\nawarded by the Government of Malaysia to the qualifying company;\n\n\"exemption period\" means the exemption period as sp ecified in\nsubparagraph 4 (1) or any  extended exemption pe riod as  specified in\nsubparagraph 5(1), as the case may be.\n\nQualifying company\n3. Qualifying company means a company which is incorporated under\nthe Companies Act 2016 [Act 777] and resident in Malaysia—\n\n(a) which fulfills the following requirements:\n\n(i) has not issued any invoice for the core income generating activities\nin Malaysia on the date the application for the award of the\nMultimedia Super Corridor status is made;  or\n\n(ii) has sixty per cent Malaysian equit y ownership and has not issued\nany invoice for the core income generating activities in Malaysia\nmore than twelve months prior to the date the application for the\naward of the Multimedia Super Corridor status is made;\n\n(b) which has made an application to  the Minister for the award of the\nMultimedia Super Corridor status on or after 1 January 2019; and\n\n(c) which has been awarded the Multimedia Super Corridor status  by the\nGovernment of Malaysia.\n\nExemption\n4.  (1) Subject to this paragraph, t he Minister may exempt a qualifying company in\nthe basis period for a year of assessment from the payment of income tax in respect of\nthe statutory income derived from the core income generating activities  for a period of\nfive years commencing from a date to be determined by the Minister.\n\n(2) The qualifying company shall, within twenty four months from the date of\nthe award of the Multimedia Super Corridor status, request for the determination of the\ncommencement date of the exemption period.\n\n(3) An exemption granted under subparagraph (1) is subject to the qualifying\ncompany complying with all the  conditions imposed by the Minister in relation to the\nexemption as specified in the approval letter, which shall include the following:\n\n(a)      the qualifying company shall employ a mi nimum number of full time\nemployees to carry  on the core income generating activities  as\nspecified in Schedule 2 or such other number as determined by the\nMinister;\n\n(b)      the full time employees referred to in subsubparagraph (a) shall have a\nminimum amount of monthly base salary as specified in Schedule 2 or\nsuch other amount as determined by the Minister; and\n\n(c)      the qualifying company shall incur a minimum amount of annual\noperating expenditure and investment in fixed asset to carry on  the\ncore income  generating activities as specified in Schedule 2 or such\nother amount as determined by the Minister.\n\n(4) The amount of statutory income derived from the core income generating\nactivities in the basis period for a year of assessment in respect of which the payment of\nincome tax is exempted under this Order shall be either one hundred per  cent or\nseventy per  cent of the statutory income, as approved by the Minister in accordance\nwith Schedule 2 and specified in the approval letter.\n\n(5) The Minister may determine t hat t he statutory income referred to in\nsubparagraph (1) shall be the value added income.\n\n(6) The statutory income referred to in subparagraph (1) in the basis period for\neach year of assessment shall be determined after deducting the allowances which fall\nto be made under Schedule 3 to the Act notwithstanding that no claim for such\nallowances has been made.\n\n(7) Nothing in subparagraph (1) shall absolve or be deemed to have absolved\nthe qualifying company from complying with any requirement to submit any return or\nstatement of accounts or to furnish any other information, under the Act.\n\n(8) For the avoidance of doubt, the statutory income of a qualifying company\nreferred to in subparagraph (1) shall not include any income from royalty and other\nincome derived from an intellectual property right if it is receivable as consideration for\nthe commercial exploitation of that right.\n\n(9) Any income derived from intellectual property right referred to in\nsubparagraph (8) is subject to tax under the Act.\n\n(10) For the purpose of this paragraph—\n\n(a) \"value added income\" means the statutory income for the basis period\nfor the year of assessment less the inflation adjusted base income;\n\n(b) \"inflation adjusted base income\" shall be determined in accordance\nwith the following formula—\n\n(i)   for th e first year of assessment of the qualifying company's\noperation:\n\nA (1 + B)\n\nwhere A is the average statutory income of a\nqualifying company  for up to three years\nprior to the first year of assessment of the\nqualifying company's operation; and\n B is the rate of inflation for the basis year;\n\n(ii)   for the second year of assessment of the qualifying company's\noperation onwards:\n\nC (1 + B)\n\nwhere C is the inflation adjusted income for the\npreceding year; and\n B is the rate of inflation for the basis year;\nand\n\n (c) \"intellectual property right\" means a right arising from any patent,\nutility innovation and discovery, copyright, trade mark and service\nmark, industrial design, layout -design of integrated circuit, secret\nprocesses or formulae and know -how, geographical indication and the\ngrant of protection of a plant variety, and other like rights, whether or\nnot registered or registrable.\n\nExtension of exemption period\n5. (1) The Minister may extend the exemption period referred to in\nsubparagraph 4(1) for another period of five years subject to the qualifying company\ncomplying with all of the conditions specified in subparagraph 4(3).\n\n (2) An application for the extension of the exemption period shall be made by\nthe qualifying company in wr iting to the Minister not later than thirty days before the\nexpiry of the exemption period referred to in subparagraph 4(1).\n\n (3) The extension of the exemption period shall begin from the subsequent date\nafter the expiry of the exemption period referred to in subparagraph 4(1) and continues\nfor a period of five years.\n\n(4) No extension of the exemption period shall be granted where the exemption\ngranted is on value added-income as referred to in subparagraph 4(5).\n\nWithdrawal of exemption\n6. (1) The Minister may withdraw the exemption granted under\nsubparagraph 4(1) if the qualifying company fails to comply with any of the conditions\nreferred to in subparagraph 4(3) or with any provisions under the Act or this Order.\n\n(2) Where the exemp tion granted under subparagraph (1)  is withdrawn, the\nwithdrawal shall be effective—\n\n(a)       from the date the exemption comes into effect; or\n\n(b)        if the Minister thinks fit, from such other date after the date the\nexemption comes into effect, as determined by the Minister,\n\nas the case may be.\n\nSeparate source and separate account\n7. (1)   Where a  qualifying company carries on a core income generating activities\nand activity other than the core income generating activities, each act ivity shall be\ntreated as a separate and distinct source of the activity.\n\n (2) The qualifying company which is granted an exemption under\nsubparagraph 4(1) shall maintain a separate account for the income derived from each\nactivity referred to in subparagraph (1).\n\nNon-application\n8. This Order shall not apply to a qualifying company who in the basis period for a\nyear of assessment—\n\n(a) has made a claim for reinvestment allowance under Schedule 7A to the Act or\ninvestment allowance under Schedule 7B to the Act;\n\n(b) has been granted any incentive under the Promotion of\nInvestments Act 1986  [Act 327 ] in respect of the core income generating\nactivities;\n\n(c) has been granted an exemption under paragraph 127(3) (b) or\nsubsection 127(3 A) of the Act  in respect of the core income generating\nactivities;  or\n\n(d) has made a claim for deduction under any rules made under Section 154\nof the Act except—\n\n(i) the rules in relation to allowance under Schedule 3 to the Act;\n\n(ii) the Income Tax (Deduction for Audit Expenditure) Rules 2006\n[P.U. (A) 129/2006]; or\n\n(iii) the Income Tax (Deduction for Expenses in relation to Secretarial\nFee and Tax Filing Fee) Rules 2014 [P.U. (A) 336/2014].\n\nSpecial provision\n9. (1)  The Minister may exempt an existing qualifying company  in the basis period\nfor a year of assessment  from the payment of income tax in respect of the statutory\nincome derived from the core income generating activities, for a period to be\ndetermined by the Minister.\n\n (2)  For the purpose of the exemption granted under subparagraph (1)—\n\n(a) \"existing qualifying company\" means a company incorporated under\nthe Companies Act 2016 and resident in Malaysia , which, prior to 1\nJanuary 2019, has been awarded the Multimedia Super Corridor status\nand granted—\n\n(i) pioneer status under the Promotion of Investments Act 1986; or\n\n(ii)   income tax exemption under the Income Tax (Exemption) (No. 2)\nOrder 2015 [P.U.(A) 50/2015],\n\nand the exemption period thereunder h as not commenced  or has\ncommenced but has not expired on or after 1 January 2019;\n\n(b) the core income generating activities shall be the activities approved\nunder the award of the Multimedia Super Corridor status of the\nexisting qualifying company;\n\n(c) the per centage of the statutory income to be exempted shall be the\npercentage approved under the award of the Multimedia Super\nCorridor status of the existing qualifying company; and\n\n(d) all provisions under this Order shall apply to the existing qualifying\ncompany, except—\n\n(i) subparagraphs 3(a) and (b); and\n\n(ii) subparagraphs 4(1), (4) and (5).\n\n(3) The Minister may grant an extension of the exemption period to an existing\nqualifying company which exemption period has ended , in respect of statutory income\nderived from the core income generating activities, for a period of five years\ncommencing from a date to be determined by the Minister.\n\n(4) For the purpose of the extension granted under subparagraph (3)—\n\n(a) \"existing qualifying company  which exemption period has ended \"\nmeans a c ompany incorporated under the Companies Act 2016\nand resident in Malaysia,  which, prior to 1 January 2019 , has been\nawarded the Multimedia Super Corridor status and granted—\n\n(i) pioneer status under the Promotion of Investments Act 1986; or\n\n(ii) income tax exemption under the Income Tax (Exemption) (No. 2)\nOrder 2015,\n\nand the first five years of the exemption period thereunder has expired\nbefore 1 January 2019;\n\n(b)      the percentage of the statutory income to be exempted shall be one\nhundred per cent; and\n\n(c)      all provisions under this Order shall apply to the existing qualifying\ncompany which exemption period has ended, except—\n\n(i)   subparagraphs 3(a) and (b);\n\n(ii) subparagraphs 4(1), (2), (4) and (5); and\n\n(iii) paragraph 5.\n\nSCHEDULE 1\n\n(1)\n\nNo.\n(2)\n\nPromoted activity\n\n1. Big data analytics\n2. Artificial intelligence\n3. Financial technology\n4. Internet of things\n5. Cybersecurity (technology/software/design and support)\n6. Data centre and cloud (technology/software/design and support)\n7. Blockchain\n8. Creative media technology\n9. Sharing economy platform\n10. User interface and user experience\n11. Integrated circuit design and embedded software\n12. 3D printing (technology/software/design and support)\n13. Robotic (technology/software/design)\n14. Autonomous (technology/software/design and support)\n15. Systems or network architecture design and support\n16. Global business services or knowledge process outsourcing excluding:\n(a) Non-technical\n\n(b) Low value call centre\n\n(c) Data entry\n\n(d) Recruitment process outsourcing\n\nSCHEDULE 2\n\nQualifying company\n\nCategory 1 Category 2 Category3\nPercentage of\nincome tax\nexemption\n\n100% 70%\nExemption period\n\n5 years  5 years\nExtension of\nexemption period\n\n5 Years May apply for an\nextension of\nexemption period\nprovided that the\nqualifying\ncompany changed\nfrom Category 3 to\nCategory 1 or\nCategory 2 and\nfulfills the\nconditions\nimposed, as the\ncase may be\n\nLocation where\ncore income\ngenerating activities\nare carried out\nDesignated\nPremises within\nMultimedia Super\nCorridor cyber city\nor cyber centre\n\nWithin Multimedia\nSuper Corridor\ncyber city or cyber\ncentre\nNot subjected to\nlocation condition\nConditions\n\nMinimum number\nof full time\nemployees\npersons\npersons\npersons\npersons\npersons\npersons\nData Centre: 5 persons\nMinimum amount\nof monthly base\nsalary for full time\nemployees (RM)\n\n5,000.00 10,000.00 5,000.00 10,000.00 5,000.00 8,000.00\nData Centre: 5,000.00\nMinimum amount\nof annual operating\nexpenditure and\ninvestment in fixed\nasset (RM)\n3,500,000.00 1,000,000.00\nData Centre: 10,000,000.00\n\nMade 31 December 2018\n[Perb. 0.3865/73(SJ.133-4); LHDN.AY.A.600-12/1/7(23)-2; PN(PU2)80/XCII]\n\nDATO' SERI DR. WAN AZIZAH BINTI DR. WAN ISMAIL\nDeputy Prime Minister\nexercising the functions of the Minister of Finance\n\n[To be laid before Dewan Rakyat pursuant to subs ection 127(4) of the\nIncome Tax Act 1967]"
+   }
+  }
+ ]
+}

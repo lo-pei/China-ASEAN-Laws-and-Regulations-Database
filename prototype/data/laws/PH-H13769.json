@@ -1,0 +1,72 @@
+{
+ "id": "PH-H13769",
+ "title": {
+  "zh": null,
+  "en": "An Act to Designate the Date for the Opening of the Annual Sessions of the Philippine Legislature",
+  "orig": "An Act to Designate the Date for the Opening of the Annual Sessions of the Philippine Legislature"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1924-02-28",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3125",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 365,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1924/act_3125_1924.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03125_1924_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03125_1924_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13769-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The Legislature shall hold annual sessions beginning on the sixteenth day of July of each year, or\nif said sixteenth of July be a legal holiday, on the first day thereafter which is not a legal holiday."
+   }
+  },
+  {
+   "id": "PH-H13769-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "All acts or parts of acts inconsistent with the provisions of this Act are hereby repealed."
+   }
+  },
+  {
+   "id": "PH-H13769-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, February 28, 1924."
+   }
+  }
+ ]
+}

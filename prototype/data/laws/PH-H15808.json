@@ -1,0 +1,72 @@
+{
+ "id": "PH-H15808",
+ "title": {
+  "zh": null,
+  "en": "An Act to Fix the standard Time of the Philippines, and to Authorize the President of the Philippines to Establish a Daylight Savings Time therein.",
+  "orig": "An Act to Fix the standard Time of the Philippines, and to Authorize the President of the Philippines to Establish a Daylight Savings Time therein."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1936-10-26",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 91",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1581,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00091_1936_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00091_1936_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H15808-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The standard time of the Philippines shall be fixed upon the basis of the mean astronomical time\nat one hundred and twenty degrees East Longitude, Greenwich Meridian: Provided, That the President of the\nPhilippines may, when the public interest so requires, and at any time or times, within the periods from March\nto June and from November to January, all inclusive, establish; by proclamation, a daylight saving time, by\nadvancing by one hour, on such date as he shall determine, the standard time herein fixed, and by retarding\nsuch daylight saving time by another hour on such other date as he shall determine, so that during certain\nperiods of the year, as above indicated, the standard time shall be one hour in advance of the mean\nastronomical time at one hundred and twenty degrees East Longitude, Greenwich Meridian. The President\nshall, in such proclamation, fix the date and hour when such daylight saving time shall commence and"
+   }
+  },
+  {
+   "id": "PH-H15808-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The standard time or the daylight saving time herein established shall govern the movement of\nall common carriers. In all statutes, orders, rules and regulations relating to the time of performance of an act\nby any officer or department of the Government of the Commonwealth, or relating to the time within which\nany right shall accrue or determine, or within which any act shall or shall not be performed by any person in\nthe Philippines, it shall be understood that the time shall be the standard or the daylight saving time as herein\nestablished, as the case may be."
+   }
+  },
+  {
+   "id": "PH-H15808-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, October 26, 1936."
+   }
+  }
+ ]
+}

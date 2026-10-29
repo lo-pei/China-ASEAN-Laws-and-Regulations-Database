@@ -1,0 +1,72 @@
+{
+ "id": "PH-H12678",
+ "title": {
+  "zh": null,
+  "en": "An Act Legalizing, Ratifying, and Confirming All Acts Passed By the Legislative Council of the Moro Province and Heretofore Approved By the Philippine Commission Amending or Repealing or Inconsistent With Any Act of the Philippine Commission and All Taxes Collected and Action Taken and things Done Under the Provisions of Any of Such Acts of the Legislative Council of the Moro Province Prior to the Enactment of this Law.",
+  "orig": "An Act Legalizing, Ratifying, and Confirming All Acts Passed By the Legislative Council of the Moro Province and Heretofore Approved By the Philippine Commission Amending or Repealing or Inconsistent With Any Act of the Philippine Commission and All Taxes Collected and Action Taken and things Done Under the Provisions of Any of Such Acts of the Legislative Council of the Moro Province Prior to the Enactment of this Law."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1910-01-14",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 1970",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1039,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1910/act_1970_1910.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_01970_1910_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_01970_1910_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12678-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "All acts passed by the legislative council of the Moro Province and heretofore approved by the\nPhilippine Commission which amend or repeal or are inconsistent with, any of the Acts of the Philippine\nCommission, and all taxes collected and action taken and things done under the provisions of any of such acts\nof the legislative council of the Moro Province prior to the enactment of this law, are hereby legalized,\nratified, and confirmed as fully to all intents and purposes as if such acts had been originally enacted by the\nPhilippine Commission and such taxes collected and action taken and things done had by prior Act of the\nPhilippine Commission been specifically authorized and directed."
+   }
+  },
+  {
+   "id": "PH-H12678-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The public good requiring the speedy enactment of this bill, the passage of the same is hereby\nexpedited in accordance with section two of \"An Act prescribing the order of procedure bv the Commission in\nthe enactment of laws,\" passed September twenty-sixth, nineteen hundred."
+   }
+  },
+  {
+   "id": "PH-H12678-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, January 14, 1910."
+   }
+  }
+ ]
+}

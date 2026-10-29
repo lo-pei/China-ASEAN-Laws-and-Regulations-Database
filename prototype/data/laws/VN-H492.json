@@ -1,0 +1,1066 @@
+{
+ "id": "VN-H492",
+ "title": {
+  "zh": "传染病防治法",
+  "en": "Law No. 03/2007/QH12 on prevention and control of infectious diseases",
+  "vi": "Luật Phòng, chống bệnh truyền nhiễm số 03/2007/QH12",
+  "orig": "Luật Phòng, chống bệnh truyền nhiễm số 03/2007/QH12",
+  "th": "พระราชบัญญัติการป้องกันและควบคุมโรคติดต่อ เลขที่ 03/2007/QH12",
+  "id": "Undang-Undang Pencegahan dan Pengendalian Penyakit Menular No. 03/2007/QH12",
+  "ms": "Akta Pencegahan dan Kawalan Penyakit Berjangkit No. 03/2007/QH12"
+ },
+ "country": "VN",
+ "countryName": "越南",
+ "layer": "intl",
+ "pack": "vn-p06",
+ "language": "vi",
+ "level": "law",
+ "category": "05_其他及未分类",
+ "status": "active",
+ "promulgatedDate": "2007",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "国会",
+ "docNumber": "03/2007/QH12",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 64,
+ "chars": 48855,
+ "source": {
+  "name": "越南法律数据库（vbpl.vn 官方公报文本）",
+  "url": "https://vbpl.vn/van-ban/chi-tiet/luat-phong-chong-benh-truyen-nhiem-so-03-2007-qh12--12900"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\VN\\05_其他及未分类\\2007_03 2007 QH12_Luật Phòng, chống bệnh truyền nhiễm số 03 2007 QH12.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 64 条；逐字未改写（源自 VN）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "VN-H492-A1",
+   "no": 1,
+   "noLabel": {
+    "vi": "Điều 1"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Phạm vi điều chỉnh, đối tượng áp dụng"
+   },
+   "text": {
+    "vi": "Điều 1. Phạm vi điều chỉnh, đối tượng áp dụng\n\n1. Luật này quy định về phòng, chống bệnh truyền nhiễm; kiểm dịch y tế biên giới; chống dịch; các điều kiện bảo đảm cho công tác phòng, chống bệnh truyền nhiễm ở người. Việc phòng, chống nhiễm vi rút gây ra hội chứng suy giảm miễn dịch mắc phải ở người (HIV/AIDS) không thuộc phạm vi điều chỉnh của Luật này.\n\n2. Luật này áp dụng đối với cơ quan, tổ chức, cá nhân trong nước và nước ngoài tại Việt Nam."
+   }
+  },
+  {
+   "id": "VN-H492-A2",
+   "no": 2,
+   "noLabel": {
+    "vi": "Điều 2"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Giải thích từ ngữ"
+   },
+   "text": {
+    "vi": "Điều 2. Giải thích từ ngữ\n\nTrong Luật này, các từ ngữ dưới đây được hiểu như sau:\n\n1. Bệnh truyền nhiễm là bệnh lây truyền trực tiếp hoặc gián tiếp từ người hoặc từ động vật sang người do tác nhân gây bệnh truyền nhiễm.\n\n2. Tác nhân gây bệnh truyền nhiễm là vi rút, vi khuẩn, ký sinh trùng và nấm có khả năng gây bệnh truyền nhiễm.\n\n3. Trung gian truyền bệnh là côn trùng, động vật, môi trường, thực phẩm và các vật khác mang tác nhân gây bệnh truyền nhiễm và có khả năng truyền bệnh.\n\n4. Người mắc bệnh truyền nhiễm là người bị nhiễm tác nhân gây bệnh truyền nhiễm có biểu hiện triệu chứng bệnh.\n\n5. Người mang mầm bệnh truyền nhiễm là người mang tác nhân gây bệnh truyền nhiễm nhưng không có biểu hiện triệu chứng bệnh.\n\n6. Người tiếp xúc là người có tiếp xúc với người mắc bệnh truyền nhiễm, người mang mầm bệnh truyền nhiễm, trung gian truyền bệnh và có khả năng mắc bệnh.\n\n7. Người bị nghi ngờ mắc bệnh truyền nhiễm là người tiếp xúc hoặc người có biểu hiện triệu chứng bệnh truyền nhiễm nhưng chưa rõ tác nhân gây bệnh.\n\n8. Giám sát bệnh truyền nhiễm là việc thu thập thông tin liên tục, có hệ thống về tình hình, chiều hướng của bệnh truyền nhiễm, phân tích, giải thích nhằm cung cấp thông tin cho việc lập kế hoạch, triển khai và đánh giá hiệu quả các biện pháp phòng, chống bệnh truyền nhiễm.\n\n9. An toàn sinh học trong xét nghiệm là việc sử dụng các biện pháp để giảm thiểu hoặc loại trừ nguy cơ lây truyền tác nhân gây bệnh truyền nhiễm trong cơ sở xét nghiệm, từ cơ sở xét nghiệm ra môi trường và cộng đồng.\n\n10. Vắc xin là chế phẩm chứa kháng nguyên tạo cho cơ thể khả năng đáp ứng miễn dịch, được dùng với mục đích phòng bệnh.\n\n11. Sinh phẩm y tế là sản phẩm có nguồn gốc sinh học được dùng để phòng bệnh, chữa bệnh và chẩn đoán bệnh cho người.\n\n12. Tình trạng miễn dịch là mức độ đề kháng của cá nhân hoặc cộng đồng với một tác nhân gây bệnh truyền nhiễm.\n\n13. Dịch là sự xuất hiện bệnh truyền nhiễm với số người mắc bệnh vượt quá số người mắc bệnh dự tính bình thường trong một khoảng thời gian xác định ở một khu vực nhất định.\n\n14. Vùng có dịch là khu vực được cơ quan có thẩm quyền xác định có dịch.\n\n15. Vùng có nguy cơ dịch là khu vực lân cận với vùng có dịch hoặc xuất hiện các yếu tố gây dịch.\n\n16. Cách ly y tế là việc tách riêng người mắc bệnh truyền nhiễm, người bị nghi ngờ mắc bệnh truyền nhiễm, người mang mầm bệnh truyền nhiễm hoặc vật có khả năng mang tác nhân gây bệnh truyền nhiễm nhằm hạn chế sự lây truyền bệnh.\n\n17. Xử lý y tế là việc thực hiện các biện pháp sử dụng vắc xin, sinh phẩm y tế, cách ly y tế, tẩy uế, diệt tác nhân gây bệnh truyền nhiễm, trung gian truyền bệnh và các biện pháp y tế khác."
+   }
+  },
+  {
+   "id": "VN-H492-A3",
+   "no": 3,
+   "noLabel": {
+    "vi": "Điều 3"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Phân loại bệnh truyền nhiễm"
+   },
+   "text": {
+    "vi": "Điều 3. Phân loại bệnh truyền nhiễm\n\n1. Bệnh truyền nhiễm gồm các nhóm sau đây:\n\na) Nhóm A gồm các bệnh truyền nhiễm đặc biệt nguy hiểm có khả năng lây truyền rất nhanh, phát tán rộng và tỷ lệ tử vong cao hoặc chưa rõ tác nhân gây bệnh. Các bệnh truyền nhiễm thuộc nhóm A bao gồm bệnh bại liệt; bệnh cúm A-H5N1; bệnh dịch hạch; bệnh đậu mùa; bệnh sốt xuất huyết do vi rút Ê - bô - la (Ebola), Lát-sa (Lassa) hoặc Mác-bớc (Marburg); bệnh sốt Tây sông Nin (Nile); bệnh sốt vàng; bệnh tả; bệnh viêm đường hô hấp cấp nặng do vi rút và các bệnh truyền nhiễm nguy hiểm mới phát sinh chưa rõ tác nhân gây bệnh;\n\nb) Nhóm B gồm các bệnh truyền nhiễm nguy hiểm có khả năng lây truyền nhanh và có thể gây tử vong. Các bệnh truyền nhiễm thuộc nhóm B bao gồm bệnh do vi rút A-đê-nô (Adeno); bệnh do vi rút gây ra hội chứng suy giảm miễn dịch mắc phải ở người (HIV/AIDS); bệnh bạch hầu; bệnh cúm; bệnh dại; bệnh ho gà; bệnh lao phổi; bệnh do liên cầu lợn ở người; bệnh lỵ A-míp (Amibe); bệnh lỵ trực trùng; bệnh quai bị; bệnh sốt Đăng gơ (Dengue), sốt xuất huyết Đăng gơ (Dengue); bệnh sốt rét; bệnh sốt phát ban; bệnh sởi; bệnh tay-chân-miệng; bệnh than; bệnh thủy đậu; bệnh thương hàn; bệnh uốn ván; bệnh Ru-bê-ôn (Rubeon); bệnh viêm gan vi rút; bệnh viêm màng não do não mô cầu; bệnh viêm não vi rút; bệnh xoắn khuẩn vàng da; bệnh tiêu chảy do vi rút Rô-ta (Rota);\n\nc) Nhóm C gồm các bệnh truyền nhiễm ít nguy hiểm, khả năng lây truyền không nhanh. Các bệnh truyền nhiễm thuộc nhóm C bao gồm bệnh do Cờ-la-my-đi-a (Chlamydia); bệnh giang mai; các bệnh do giun; bệnh lậu; bệnh mắt hột; bệnh do nấm Can-đi-đa-an-bi-căng (Candida albicans); bệnh Nô-ca-đi-a (Nocardia); bệnh phong; bệnh do vi rút Xi-tô-mê-ga-lô (Cytomegalo); bệnh do vi rút Héc-péc (Herpes); bệnh sán dây; bệnh sán lá gan; bệnh sán lá phổi; bệnh sán lá ruột; bệnh sốt mò; bệnh sốt do Rích-két-si-a (Rickettsia); bệnh sốt xuất huyết do vi rút Han-ta (Hanta); bệnh do Tờ-ri-cô-mô-nát (Trichomonas); bệnh viêm da mụn mủ truyền nhiễm; bệnh viêm họng, viêm miệng, viêm tim do vi rút Cốc-xác-ki (Coxsakie); bệnh viêm ruột do Giác-đi-a (Giardia); bệnh viêm ruột do Vi-bờ-ri-ô Pa-ra-hê-mô-ly-ti-cút (Vibrio Parahaemolyticus) và các bệnh truyền nhiễm khác.\n\n2. Bộ trưởng Bộ Y tế quyết định điều chỉnh, bổ sung danh mục bệnh truyền nhiễm thuộc các nhóm quy định tại khoản 1 Điều này."
+   }
+  },
+  {
+   "id": "VN-H492-A4",
+   "no": 4,
+   "noLabel": {
+    "vi": "Điều 4"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Nguyên tắc phòng, chống bệnh truyền nhiễm"
+   },
+   "text": {
+    "vi": "Điều 4. Nguyên tắc phòng, chống bệnh truyền nhiễm\n\n1. Lấy phòng bệnh là chính trong đó thông tin, giáo dục, truyền thông, giám sát bệnh truyền nhiễm là biện pháp chủ yếu. Kết hợp các biện pháp chuyên môn kỹ thuật y tế với các biện pháp xã hội, hành chính trong phòng, chống bệnh truyền nhiễm.\n\n2. Thực hiện việc phối hợp liên ngành và huy động xã hội trong phòng, chống bệnh truyền nhiễm; lồng ghép các hoạt động phòng, chống bệnh truyền nhiễm vào các chương trình phát triển kinh tế - xã hội.\n\n3. Công khai, chính xác, kịp thời thông tin về dịch.\n\n4. Chủ động, tích cực, kịp thời, triệt để trong hoạt động phòng, chống dịch."
+   }
+  },
+  {
+   "id": "VN-H492-A5",
+   "no": 5,
+   "noLabel": {
+    "vi": "Điều 5"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Chính sách của Nhà nước về phòng, chống bệnh truyền nhiễm"
+   },
+   "text": {
+    "vi": "Điều 5. Chính sách của Nhà nước về phòng, chống bệnh truyền nhiễm\n\n1. Ưu tiên, hỗ trợ đào tạo chuyên ngành y tế dự phòng.\n\n2. Ưu tiên đầu tư nâng cao năng lực đội ngũ cán bộ, hệ thống giám sát phát hiện bệnh truyền nhiễm, nghiên cứu sản xuất vắc xin, sinh phẩm y tế.\n\n3. Hỗ trợ, khuyến khích nghiên cứu khoa học, trao đổi và đào tạo chuyên gia, chuyển giao kỹ thuật trong phòng, chống bệnh truyền nhiễm.\n\n4. Hỗ trợ điều trị, chăm sóc người mắc bệnh truyền nhiễm do rủi ro nghề nghiệp và trong các trường hợp cần thiết khác.\n\n5. Hỗ trợ thiệt hại đối với việc tiêu hủy gia súc, gia cầm mang tác nhân gây bệnh truyền nhiễm theo quy định của pháp luật.\n\n6. Huy động sự đóng góp về tài chính, kỹ thuật và nhân lực của toàn xã hội trong phòng, chống bệnh truyền nhiễm.\n\n7. Mở rộng hợp tác với các tổ chức quốc tế, các nước trong khu vực và trên thế giới trong phòng, chống bệnh truyền nhiễm."
+   }
+  },
+  {
+   "id": "VN-H492-A6",
+   "no": 6,
+   "noLabel": {
+    "vi": "Điều 6"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Cơ quan quản lý nhà nước về phòng, chống bệnh truyền nhiễm"
+   },
+   "text": {
+    "vi": "Điều 6. Cơ quan quản lý nhà nước về phòng, chống bệnh truyền nhiễm\n\n1. Chính phủ thống nhất quản lý nhà nước về công tác phòng, chống bệnh truyền nhiễm trong phạm vi cả nước.\n\n2. Bộ Y tế chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về công tác phòng, chống bệnh truyền nhiễm trong phạm vi cả nước.\n\n3. Các bộ, cơ quan ngang bộ trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm phối hợp với Bộ Y tế trong việc thực hiện quản lý nhà nước về công tác phòng, chống bệnh truyền nhiễm.\n\n4. Uỷ ban nhân dân các cấp thực hiện quản lý nhà nước về công tác phòng, chống bệnh truyền nhiễm theo phân cấp của Chính phủ."
+   }
+  },
+  {
+   "id": "VN-H492-A7",
+   "no": 7,
+   "noLabel": {
+    "vi": "Điều 7"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Trách nhiệm của cơ quan, tổ chức, cá nhân trong phòng, chống bệnh truyền nhiễm"
+   },
+   "text": {
+    "vi": "Điều 7. Trách nhiệm của cơ quan, tổ chức, cá nhân trong phòng, chống bệnh truyền nhiễm\n\n1. Cơ quan, tổ chức, đơn vị vũ trang nhân dân trong phạm vi nhiệm vụ, quyền hạn được giao có trách nhiệm xây dựng và tổ chức thực hiện kế hoạch về phòng, chống bệnh truyền nhiễm; phối hợp chặt chẽ, hỗ trợ lẫn nhau khi có dịch xảy ra và tuân thủ, chấp hành sự chỉ đạo, điều hành của Ban chỉ đạo chống dịch.\n\n2. Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên có trách nhiệm tuyên truyền, vận động nhân dân tham gia phòng, chống bệnh truyền nhiễm; tham gia giám sát việc thực hiện pháp luật về phòng, chống bệnh truyền nhiễm.\n\n3. Cơ quan, tổ chức, cá nhân trong nước và nước ngoài tại Việt Nam có trách nhiệm tham gia phòng, chống bệnh truyền nhiễm theo quy định của Luật này."
+   }
+  },
+  {
+   "id": "VN-H492-A8",
+   "no": 8,
+   "noLabel": {
+    "vi": "Điều 8"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Những hành vi bị nghiêm cấm"
+   },
+   "text": {
+    "vi": "Điều 8. Những hành vi bị nghiêm cấm\n\n1. Cố ý làm lây lan tác nhân gây bệnh truyền nhiễm.\n\n2. Người mắc bệnh truyền nhiễm, người bị nghi ngờ mắc bệnh truyền nhiễm và người mang mầm bệnh truyền nhiễm làm các công việc dễ lây truyền tác nhân gây bệnh truyền nhiễm theo quy định của pháp luật.\n\n3. Che giấu, không khai báo hoặc khai báo không kịp thời các trường hợp mắc bệnh truyền nhiễm theo quy định của pháp luật.\n\n4. Cố ý khai báo, thông tin sai sự thật về bệnh truyền nhiễm.\n\n5. Phân biệt đối xử và đưa hình ảnh, thông tin tiêu cực về người mắc bệnh truyền nhiễm.\n\n6. Không triển khai hoặc triển khai không kịp thời các biện pháp phòng, chống bệnh truyền nhiễm theo quy định của Luật này.\n\n7. Không chấp hành các biện pháp phòng, chống bệnh truyền nhiễm theo yêu cầu của cơ quan, tổ chức có thẩm quyền.\n\nChương II\n\nPHÒNG BỆNH TRUYỀN NHIỄM\n\nMục 1\n\nTHÔNG TIN, GIÁO DỤC, TRUYỀN THÔNG VỀ PHÒNG, CHỐNG BỆNH TRUYỀN NHIỄM"
+   }
+  },
+  {
+   "id": "VN-H492-A9",
+   "no": 9,
+   "noLabel": {
+    "vi": "Điều 9"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Nội dung thông tin, giáo dục, truyền thông về phòng, chống bệnh truyền nhiễm"
+   },
+   "text": {
+    "vi": "Điều 9. Nội dung thông tin, giáo dục, truyền thông về phòng, chống bệnh truyền nhiễm\n\n1. Đường lối, chủ trương của Đảng, chính sách, pháp luật của Nhà nước về phòng, chống bệnh truyền nhiễm.\n\n2. Nguyên nhân, đường lây truyền, cách nhận biết bệnh và các biện pháp phòng, chống bệnh truyền nhiễm.\n\n3. Hậu quả của bệnh truyền nhiễm đối với sức khỏe, tính mạng con người và phát triển kinh tế - xã hội của đất nước.\n\n4. Trách nhiệm của cơ quan, tổ chức, cá nhân trong phòng, chống bệnh truyền nhiễm."
+   }
+  },
+  {
+   "id": "VN-H492-A10",
+   "no": 10,
+   "noLabel": {
+    "vi": "Điều 10"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Đối tượng của thông tin, giáo dục, truyền thông về phòng, chống bệnh truyền nhiễm"
+   },
+   "text": {
+    "vi": "Điều 10. Đối tượng của thông tin, giáo dục, truyền thông về phòng, chống bệnh truyền nhiễm\n\n1. Mọi người đều được tiếp cận với thông tin, giáo dục, truyền thông về phòng, chống bệnh truyền nhiễm.\n\n2. Người mắc bệnh truyền nhiễm, người bị nghi ngờ mắc bệnh truyền nhiễm, người mang mầm bệnh truyền nhiễm, những người trong gia đình họ và các đối tượng trong vùng có dịch, vùng có nguy cơ dịch được ưu tiên tiếp cận thông tin, giáo dục, truyền thông về phòng, chống bệnh truyền nhiễm."
+   }
+  },
+  {
+   "id": "VN-H492-A11",
+   "no": 11,
+   "noLabel": {
+    "vi": "Điều 11"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Yêu cầu của thông tin, giáo dục, truyền thông về phòng, chống bệnh truyền nhiễm"
+   },
+   "text": {
+    "vi": "Điều 11. Yêu cầu của thông tin, giáo dục, truyền thông về phòng, chống bệnh truyền nhiễm\n\n1. Chính xác, rõ ràng, dễ hiểu, thiết thực, kịp thời.\n\n2. Phù hợp với đối tượng, truyền thống văn hoá, dân tộc, đạo đức xã hội, tôn giáo, tín ngưỡng và phong tục tập quán."
+   }
+  },
+  {
+   "id": "VN-H492-A12",
+   "no": 12,
+   "noLabel": {
+    "vi": "Điều 12"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Trách nhiệm thông tin, giáo dục, truyền thông về phòng, chống bệnh truyền nhiễm"
+   },
+   "text": {
+    "vi": "Điều 12. Trách nhiệm thông tin, giáo dục, truyền thông về phòng, chống bệnh truyền nhiễm\n\n1. Cơ quan, tổ chức, đơn vị vũ trang nhân dân trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm thông tin, giáo dục, truyền thông về phòng, chống bệnh truyền nhiễm.\n\n2. Bộ Y tế có trách nhiệm chủ trì, phối hợp với các cơ quan có liên quan trong việc cung cấp chính xác và kịp thời thông tin về bệnh truyền nhiễm.\n\n3. Bộ Thông tin và Truyền thông có trách nhiệm chỉ đạo các cơ quan thông tin đại chúng thường xuyên thông tin, truyền thông về phòng, chống bệnh truyền nhiễm, lồng ghép chương trình phòng, chống bệnh truyền nhiễm với các chương trình thông tin, truyền thông khác.\n\n4. Bộ Giáo dục và Đào tạo có trách nhiệm chủ trì, phối hợp với Bộ Y tế, Bộ Lao động, Thương binh và Xã hội, các bộ, cơ quan ngang bộ có liên quan xây dựng nội dung giáo dục phòng, chống bệnh truyền nhiễm kết hợp với các nội dung giáo dục khác.\n\n5. Uỷ ban nhân dân các cấp có trách nhiệm chỉ đạo, tổ chức thực hiện công tác thông tin, giáo dục, truyền thông về phòng, chống bệnh truyền nhiễm cho nhân dân địa phương.\n\n6. Các cơ quan thông tin đại chúng có trách nhiệm ưu tiên về thời điểm, thời lượng phát sóng để thông tin, giáo dục, truyền thông về phòng, chống bệnh truyền nhiễm trên đài phát thanh, đài truyền hình; dung lượng và vị trí đăng trên báo in, báo hình, báo điện tử theo quy định của Bộ Thông tin và Truyền thông. Việc thông tin, giáo dục, truyền thông về phòng, chống bệnh truyền nhiễm trên các phương tiện thông tin đại chúng không thu phí, trừ trường hợp thực hiện theo hợp đồng riêng với chương trình, dự án hoặc do tổ chức, cá nhân trong nước, nước ngoài tài trợ.\n\nMục 2\n\nVỆ SINH PHÒNG BỆNH TRUYỀN NHIỄM"
+   }
+  },
+  {
+   "id": "VN-H492-A13",
+   "no": 13,
+   "noLabel": {
+    "vi": "Điều 13"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Vệ sinh phòng bệnh truyền nhiễm trong các cơ sở giáo dục thuộc hệ thống giáo dục quốc dân"
+   },
+   "text": {
+    "vi": "Điều 13. Vệ sinh phòng bệnh truyền nhiễm trong các cơ sở giáo dục thuộc hệ thống giáo dục quốc dân\n\n1. Cơ sở giáo dục phải xây dựng ở nơi cao ráo, sạch sẽ, xa nơi ô nhiễm, đủ nước sinh hoạt, công trình vệ sinh; phòng học phải thông thoáng, đủ ánh sáng; thực phẩm sử dụng trong cơ sở giáo dục phải bảo đảm chất lượng vệ sinh an toàn.\n\n2. Cơ sở giáo dục có trách nhiệm giáo dục cho người học về vệ sinh phòng bệnh truyền nhiễm bao gồm vệ sinh cá nhân, vệ sinh trong sinh hoạt, lao động và vệ sinh môi trường.\n\n3. Đơn vị y tế của cơ sở giáo dục chịu trách nhiệm tuyên truyền về vệ sinh phòng bệnh; kiểm tra, giám sát vệ sinh môi trường, an toàn vệ sinh thực phẩm và triển khai thực hiện các biện pháp phòng, chống bệnh truyền nhiễm.\n\n4. Bộ trưởng Bộ Y tế ban hành quy chuẩn kỹ thuật quốc gia về vệ sinh phòng bệnh trong cơ sở giáo dục quy định tại khoản 1 Điều này."
+   }
+  },
+  {
+   "id": "VN-H492-A14",
+   "no": 14,
+   "noLabel": {
+    "vi": "Điều 14"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Vệ sinh trong cung cấp nước sạch, vệ sinh nguồn nước sinh hoạt"
+   },
+   "text": {
+    "vi": "Điều 14. Vệ sinh trong cung cấp nước sạch, vệ sinh nguồn nước sinh hoạt\n\n1. Nước sạch phải bảo đảm quy chuẩn kỹ thuật quốc gia theo quy định của Bộ trưởng Bộ Y tế.\n\n2. Cơ sở cung cấp nước sạch có trách nhiệm áp dụng các biện pháp kỹ thuật, giữ gìn vệ sinh môi trường, tự kiểm tra để bảo đảm chất lượng nước sạch.\n\n3. Cơ quan nhà nước có thẩm quyền về y tế có trách nhiệm thường xuyên kiểm tra chất lượng nước sạch do các cơ sở cung cấp; kiểm tra việc khám sức khỏe định kỳ cho người lao động làm việc tại các cơ sở cung cấp nước sạch.\n\n4. Uỷ ban nhân dân các cấp có trách nhiệm tổ chức thực hiện việc bảo vệ, giữ gìn vệ sinh, không để ô nhiễm nguồn nước sinh hoạt; tạo điều kiện cho việc cung cấp nước sạch.\n\n5. Cơ quan, tổ chức, cá nhân có trách nhiệm bảo vệ, giữ gìn vệ sinh, không để ô nhiễm nguồn nước sinh hoạt."
+   }
+  },
+  {
+   "id": "VN-H492-A15",
+   "no": 15,
+   "noLabel": {
+    "vi": "Điều 15"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Vệ sinh trong chăn nuôi, vận chuyển, giết mổ, tiêu hủy gia súc, gia cầm và động vật khác"
+   },
+   "text": {
+    "vi": "Điều 15. Vệ sinh trong chăn nuôi, vận chuyển, giết mổ, tiêu hủy gia súc, gia cầm và động vật khác\n\n1. Việc chăn nuôi, vận chuyển, giết mổ, tiêu hủy gia súc, gia cầm và động vật khác phải bảo đảm vệ sinh, không gây ô nhiễm môi trường, nguồn nước sinh hoạt hoặc làm phát tán tác nhân gây bệnh truyền nhiễm.\n\n2. Cơ quan nhà nước có thẩm quyền về thú y chịu trách nhiệm hướng dẫn tổ chức, cá nhân thực hiện các biện pháp vệ sinh trong chăn nuôi, vận chuyển, giết mổ, tiêu hủy gia súc, gia cầm và động vật khác để tránh làm lây truyền bệnh cho người."
+   }
+  },
+  {
+   "id": "VN-H492-A16",
+   "no": 16,
+   "noLabel": {
+    "vi": "Điều 16"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Vệ sinh an toàn thực phẩm"
+   },
+   "text": {
+    "vi": "Điều 16. Vệ sinh an toàn thực phẩm\n\n1. Tổ chức, cá nhân trồng trọt, chăn nuôi, thu hái, đánh bắt, sơ chế, chế biến, bao gói, bảo quản, vận chuyển, buôn bán thực phẩm có trách nhiệm bảo đảm cho thực phẩm không bị nhiễm tác nhân gây bệnh truyền nhiễm và thực hiện các quy định khác của pháp luật về vệ sinh an toàn thực phẩm.\n\n2. Người tiêu dùng có quyền được cung cấp thông tin về vệ sinh an toàn thực phẩm; có trách nhiệm thực hiện vệ sinh an toàn thực phẩm, thực hiện đầy đủ các hướng dẫn về vệ sinh an toàn thực phẩm, khai báo ngộ độc thực phẩm và bệnh truyền qua đường thực phẩm.\n\n3. Cơ quan nhà nước có thẩm quyền về vệ sinh an toàn thực phẩm có trách nhiệm hướng dẫn tổ chức, cá nhân thực hiện các biện pháp bảo đảm vệ sinh an toàn thực phẩm để phòng, chống bệnh truyền nhiễm."
+   }
+  },
+  {
+   "id": "VN-H492-A17",
+   "no": 17,
+   "noLabel": {
+    "vi": "Điều 17"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Vệ sinh trong xây dựng"
+   },
+   "text": {
+    "vi": "Điều 17. Vệ sinh trong xây dựng\n\n1. Công trình khi xây dựng phải tuân thủ các quy chuẩn kỹ thuật quốc gia về vệ sinh trong xây dựng theo quy định của Bộ trưởng Bộ Y tế.\n\n2. Dự án đầu tư xây dựng khu công nghiệp, khu đô thị, khu dân cư tập trung, cơ sở khám bệnh, chữa bệnh truyền nhiễm chỉ được xây dựng sau khi có thẩm định của cơ quan y tế có thẩm quyền về báo cáo đánh giá tác động sức khoẻ.\n\n3. Cơ sở khám bệnh, chữa bệnh truyền nhiễm, các cơ sở có nguy cơ làm lây truyền tác nhân gây bệnh truyền nhiễm phải có khoảng cách an toàn về môi trường đối với khu dân cư, khu bảo tồn thiên nhiên theo quy định của Bộ trưởng Bộ Y tế.\n\n4. Cơ quan, tổ chức, cá nhân có trách nhiệm tổ chức thực hiện việc bảo đảm vệ sinh trong xây dựng."
+   }
+  },
+  {
+   "id": "VN-H492-A18",
+   "no": 18,
+   "noLabel": {
+    "vi": "Điều 18"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Vệ sinh trong việc quàn, ướp, mai táng, di chuyển thi thể, hài cốt"
+   },
+   "text": {
+    "vi": "Điều 18. Vệ sinh trong việc quàn, ướp, mai táng, di chuyển thi thể, hài cốt\n\n1. Người tử vong phải được tổ chức mai táng chậm nhất là 48 giờ sau khi chết, trừ trường hợp thi thể được bảo quản theo quy định của Bộ trưởng Bộ Y tế; đối với người mắc bệnh truyền nhiễm hoặc bị nghi ngờ mắc bệnh truyền nhiễm thuộc nhóm A tử vong thì thi thể phải được diệt khuẩn và tổ chức mai táng trong thời hạn 24 giờ.\n\n2. Việc bảo quản, quàn, ướp, mai táng, di chuyển thi thể, hài cốt thực hiện theo quy định của Bộ trưởng Bộ Y tế."
+   }
+  },
+  {
+   "id": "VN-H492-A19",
+   "no": 19,
+   "noLabel": {
+    "vi": "Điều 19"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Các hoạt động khác trong vệ sinh phòng bệnh truyền nhiễm"
+   },
+   "text": {
+    "vi": "Điều 19. Các hoạt động khác trong vệ sinh phòng bệnh truyền nhiễm\n\n1. Cơ quan, tổ chức, cá nhân phải thực hiện biện pháp bảo đảm về vệ sinh nơi ở, nơi công cộng, nơi sản xuất, kinh doanh, phương tiện giao thông, xử lý chất thải công nghiệp, sinh hoạt và các biện pháp bảo đảm khác về vệ sinh theo quy định của pháp luật có liên quan để không làm phát sinh, lây lan bệnh truyền nhiễm.\n\n2. Mọi người có trách nhiệm thực hiện vệ sinh cá nhân để phòng bệnh truyền nhiễm.\n\nMục 3\n\nGIÁM SÁT BỆNH TRUYỀN NHIỄM"
+   }
+  },
+  {
+   "id": "VN-H492-A20",
+   "no": 20,
+   "noLabel": {
+    "vi": "Điều 20"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Hoạt động giám sát bệnh truyền nhiễm"
+   },
+   "text": {
+    "vi": "Điều 20. Hoạt động giám sát bệnh truyền nhiễm\n\n1. Giám sát các trường hợp mắc bệnh, bị nghi ngờ mắc bệnh và mang mầm bệnh truyền nhiễm.\n\n2. Giám sát tác nhân gây bệnh truyền nhiễm.\n\n3. Giám sát trung gian truyền bệnh."
+   }
+  },
+  {
+   "id": "VN-H492-A21",
+   "no": 21,
+   "noLabel": {
+    "vi": "Điều 21"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Nội dung giám sát bệnh truyền nhiễm"
+   },
+   "text": {
+    "vi": "Điều 21. Nội dung giám sát bệnh truyền nhiễm\n\n1. Giám sát các trường hợp mắc bệnh, bị nghi ngờ mắc bệnh và mang mầm bệnh truyền nhiễm bao gồm thông tin về địa điểm, thời gian, các trường hợp mắc bệnh, tử vong; tình trạng bệnh; tình trạng miễn dịch; đặc điểm chủ yếu về dân số và các thông tin cần thiết khác. Trong trường hợp cần thiết, cơ quan y tế có thẩm quyền được lấy mẫu xét nghiệm ở người bị nghi ngờ mắc bệnh truyền nhiễm để giám sát.\n\n2. Giám sát tác nhân gây bệnh truyền nhiễm bao gồm các thông tin liên quan về chủng loại, đặc tính sinh học và phương thức lây truyền từ nguồn truyền nhiễm.\n\n3. Giám sát trung gian truyền bệnh bao gồm các thông tin liên quan đến số lượng, mật độ, thành phần và mức độ nhiễm tác nhân gây bệnh truyền nhiễm của trung gian truyền bệnh."
+   }
+  },
+  {
+   "id": "VN-H492-A22",
+   "no": 22,
+   "noLabel": {
+    "vi": "Điều 22"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Báo cáo giám sát bệnh truyền nhiễm"
+   },
+   "text": {
+    "vi": "Điều 22. Báo cáo giám sát bệnh truyền nhiễm\n\n1. Báo cáo giám sát bệnh truyền nhiễm phải được gửi cho cơ quan nhà nước có thẩm quyền về y tế. Nội dung báo cáo giám sát bệnh truyền nhiễm bao gồm các thông tin quy định tại Điều 21 của Luật này.\n\n2. Báo cáo giám sát bệnh truyền nhiễm phải được thực hiện bằng văn bản; trong trường hợp khẩn cấp, có thể thực hiện việc báo cáo thông qua fax, thư điện tử, điện tín, điện thoại hoặc báo cáo trực tiếp và trong thời hạn 24 giờ phải gửi báo cáo bằng văn bản.\n\n3. Chế độ báo cáo giám sát bệnh truyền nhiễm bao gồm:\n\na) Báo cáo định kỳ;\n\nb) Báo cáo nhanh;\n\nc) Báo cáo đột xuất.\n\n4. Cơ quan nhà nước có thẩm quyền về y tế khi nhận được báo cáo phải xử lý thông tin và thông báo cho cơ quan gửi báo cáo.\n\n5. Trong trường hợp xác định có dịch, cơ quan nhà nước có thẩm quyền về y tế phải báo cáo ngay với cơ quan nhà nước có thẩm quyền về y tế cấp trên và người có thẩm quyền công bố dịch.\n\n6. Bộ trưởng Bộ Y tế quy định cụ thể chế độ thông tin, báo cáo bệnh truyền nhiễm."
+   }
+  },
+  {
+   "id": "VN-H492-A23",
+   "no": 23,
+   "noLabel": {
+    "vi": "Điều 23"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Trách nhiệm giám sát bệnh truyền nhiễm"
+   },
+   "text": {
+    "vi": "Điều 23. Trách nhiệm giám sát bệnh truyền nhiễm\n\n1. Uỷ ban nhân dân các cấp chỉ đạo, tổ chức thực hiện giám sát bệnh truyền nhiễm tại địa phương.\n\n2. Cơ quan nhà nước có thẩm quyền về y tế có trách nhiệm giúp Uỷ ban nhân dân cùng cấp trong việc chỉ đạo các cơ sở y tế giám sát bệnh truyền nhiễm.\n\n3. Cơ sở y tế có trách nhiệm thực hiện hoạt động giám sát bệnh truyền nhiễm. Khi phát hiện môi trường có tác nhân gây bệnh truyền nhiễm thuộc nhóm A, người mắc bệnh truyền nhiễm thuộc nhóm A, người bị nghi ngờ mắc bệnh truyền nhiễm thuộc nhóm A, người mang mầm bệnh truyền nhiễm thuộc nhóm A, cơ sở y tế phải thông báo cho cơ quan nhà nước có thẩm quyền về y tế, triển khai vệ sinh, khử trùng, tẩy uế và các biện pháp phòng, chống bệnh truyền nhiễm khác.\n\n4. Cơ quan, tổ chức, cá nhân khi phát hiện bệnh hoặc dấu hiệu bệnh truyền nhiễm có trách nhiệm thông báo cho Ủy ban nhân dân, cơ quan chuyên môn y tế hoặc cơ sở y tế nơi gần nhất.\n\n5. Trong quá trình thực hiện giám sát bệnh truyền nhiễm, cơ sở xét nghiệm có trách nhiệm thực hiện việc xét nghiệm theo yêu cầu của cơ quan y tế có thẩm quyền.\n\n6. Bộ trưởng Bộ Y tế ban hành quy định chuyên môn kỹ thuật trong giám sát bệnh truyền nhiễm.\n\n7. Bộ Nông nghiệp và Phát triển nông thôn, Bộ Tài nguyên và Môi trường và các bộ, cơ quan ngang bộ khác khi thực hiện nhiệm vụ, quyền hạn thuộc phạm vi quản lý nhà nước của mình, nếu phát hiện tác nhân gây bệnh truyền nhiễm thì có trách nhiệm phối hợp với Bộ Y tế trong hoạt động giám sát.\n\nMục 4\n\nAN TOÀN SINH HỌC TRONG XÉT NGHIỆM"
+   }
+  },
+  {
+   "id": "VN-H492-A24",
+   "no": 24,
+   "noLabel": {
+    "vi": "Điều 24"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Bảo đảm an toàn sinh học tại phòng xét nghiệm"
+   },
+   "text": {
+    "vi": "Điều 24. Bảo đảm an toàn sinh học tại phòng xét nghiệm\n\n1. Phòng xét nghiệm phải bảo đảm các điều kiện an toàn sinh học phù hợp với từng cấp độ và chỉ được tiến hành xét nghiệm trong phạm vi chuyên môn sau khi được cơ quan nhà nước có thẩm quyền về y tế cấp giấy chứng nhận đạt tiêu chuẩn an toàn sinh học.\n\n2. Chính phủ quy định cụ thể về bảo đảm an toàn sinh học tại phòng xét nghiệm."
+   }
+  },
+  {
+   "id": "VN-H492-A25",
+   "no": 25,
+   "noLabel": {
+    "vi": "Điều 25"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Quản lý mẫu bệnh phẩm"
+   },
+   "text": {
+    "vi": "Điều 25. Quản lý mẫu bệnh phẩm\n\n1. Việc thu thập, vận chuyển, bảo quản, lưu giữ, sử dụng, nghiên cứu, trao đổi và tiêu hủy mẫu bệnh phẩm liên quan đến tác nhân gây bệnh truyền nhiễm phải tuân thủ quy định về chế độ quản lý mẫu bệnh phẩm.\n\n2. Chỉ cơ sở có đủ điều kiện mới được bảo quản, lưu giữ, sử dụng, nghiên cứu, trao đổi và tiêu hủy mẫu bệnh phẩm của bệnh truyền nhiễm thuộc nhóm A.\n\n3. Bộ trưởng Bộ Y tế quy định cụ thể chế độ quản lý mẫu bệnh phẩm và điều kiện của cơ sở quản lý mẫu bệnh phẩm quy định tại khoản 1 và khoản 2 Điều này."
+   }
+  },
+  {
+   "id": "VN-H492-A26",
+   "no": 26,
+   "noLabel": {
+    "vi": "Điều 26"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Bảo vệ người làm việc trong phòng xét nghiệm"
+   },
+   "text": {
+    "vi": "Điều 26. Bảo vệ người làm việc trong phòng xét nghiệm\n\n1. Người làm việc trong phòng xét nghiệm tiếp xúc với tác nhân gây bệnh truyền nhiễm phải được đào tạo về kiến thức chuyên môn, kỹ năng thực hành và trang bị phòng hộ cá nhân để phòng lây nhiễm tác nhân gây bệnh truyền nhiễm.\n\n2. Người làm việc trong phòng xét nghiệm tiếp xúc với tác nhân gây bệnh truyền nhiễm phải chấp hành các quy trình chuyên môn kỹ thuật trong xét nghiệm.\n\nMục 5\n\nSỬ DỤNG VẮC XIN, SINH PHẨM Y TẾ PHÒNG BỆNH"
+   }
+  },
+  {
+   "id": "VN-H492-A27",
+   "no": 27,
+   "noLabel": {
+    "vi": "Điều 27"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Nguyên tắc sử dụng vắc xin, sinh phẩm y tế"
+   },
+   "text": {
+    "vi": "Điều 27. Nguyên tắc sử dụng vắc xin, sinh phẩm y tế\n\n1. Vắc xin, sinh phẩm y tế được sử dụng phải bảo đảm các điều kiện quy định tại Điều 36 của Luật dược.\n\n2. Vắc xin, sinh phẩm y tế được sử dụng theo hình thức tự nguyện hoặc bắt buộc.\n\n3. Vắc xin, sinh phẩm y tế phải được sử dụng đúng mục đích, đối tượng, thời gian, chủng loại và quy trình kỹ thuật sử dụng.\n\n4. Vắc xin, sinh phẩm y tế phải được sử dụng tại các cơ sở y tế có đủ điều kiện."
+   }
+  },
+  {
+   "id": "VN-H492-A28",
+   "no": 28,
+   "noLabel": {
+    "vi": "Điều 28"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Sử dụng vắc xin, sinh phẩm y tế tự nguyện"
+   },
+   "text": {
+    "vi": "Điều 28. Sử dụng vắc xin, sinh phẩm y tế tự nguyện\n\n1. Mọi người có quyền sử dụng vắc xin, sinh phẩm y tế để bảo vệ sức khỏe cho mình và cho cộng đồng.\n\n2. Nhà nước hỗ trợ và khuyến khích công dân tự nguyện sử dụng vắc xin, sinh phẩm y tế.\n\n3. Thầy thuốc, nhân viên y tế trực tiếp tham gia chăm sóc, điều trị cho người mắc bệnh truyền nhiễm, người làm việc trong phòng xét nghiệm tiếp xúc với tác nhân gây bệnh truyền nhiễm được sử dụng miễn phí vắc xin, sinh phẩm y tế."
+   }
+  },
+  {
+   "id": "VN-H492-A29",
+   "no": 29,
+   "noLabel": {
+    "vi": "Điều 29"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Sử dụng vắc xin, sinh phẩm y tế bắt buộc"
+   },
+   "text": {
+    "vi": "Điều 29. Sử dụng vắc xin, sinh phẩm y tế bắt buộc\n\n1. Người có nguy cơ mắc bệnh truyền nhiễm tại vùng có dịch và đến vùng có dịch bắt buộc phải sử dụng vắc xin, sinh phẩm y tế đối với các bệnh có vắc xin, sinh phẩm y tế phòng bệnh.\n\n2. Trẻ em, phụ nữ có thai phải sử dụng vắc xin, sinh phẩm y tế bắt buộc đối với các bệnh truyền nhiễm thuộc Chương trình tiêm chủng mở rộng.\n\n3. Cha, mẹ hoặc người giám hộ của trẻ em và mọi người dân có trách nhiệm thực hiện yêu cầu của cơ sở y tế có thẩm quyền trong việc sử dụng vắc xin, sinh phẩm y tế bắt buộc.\n\n4. Miễn phí sử dụng vắc xin, sinh phẩm y tế bắt buộc trong các trường hợp sau:\n\na) Người có nguy cơ mắc bệnh truyền nhiễm tại vùng có dịch;\n\nb) Người được cơ quan nhà nước có thẩm quyền cử đến vùng có dịch;\n\nc) Các đối tượng quy định tại khoản 2 Điều này."
+   }
+  },
+  {
+   "id": "VN-H492-A30",
+   "no": 30,
+   "noLabel": {
+    "vi": "Điều 30"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Trách nhiệm trong việc tổ chức sử dụng vắc xin, sinh phẩm y tế"
+   },
+   "text": {
+    "vi": "Điều 30. Trách nhiệm trong việc tổ chức sử dụng vắc xin, sinh phẩm y tế\n\n1. Nhà nước có trách nhiệm bảo đảm kinh phí cho việc sử dụng vắc xin, sinh phẩm y tế quy định tại khoản 3 Điều 28 và khoản 4 Điều 29 của Luật này.\n\n2. Bộ trưởng Bộ Y tế có trách nhiệm:\n\na) Ban hành danh mục bệnh truyền nhiễm phải sử dụng vắc xin, sinh phẩm y tế bắt buộc quy định tại khoản 1 Điều 29 của Luật này;\n\nb) Tổ chức triển khai Chương trình tiêm chủng mở rộng và quy định danh mục bệnh truyền nhiễm phải sử dụng vắc xin, sinh phẩm y tế bắt buộc, độ tuổi trẻ em thuộc đối tượng của Chương trình tiêm chủng mở rộng quy định tại khoản 2 Điều 29 của Luật này;\n\nc) Quy định phạm vi và đối tượng phải sử dụng vắc xin, sinh phẩm y tế bắt buộc tùy theo tình hình dịch;\n\nd) Quy định việc sử dụng vắc xin, sinh phẩm y tế quy định tại khoản 3 Điều 27 của Luật này; điều kiện của cơ sở y tế quy định tại khoản 4 Điều 27 của Luật này;\n\nđ) Quy định việc thành lập, tổ chức và hoạt động của Hội đồng tư vấn chuyên môn để xem xét nguyên nhân khi có tai biến trong quá trình sử dụng vắc xin, sinh phẩm y tế quy định tại khoản 5 và khoản 6 Điều này.\n\n3. Uỷ ban nhân dân tỉnh, thành phố trực thuộc trung ương (sau đây gọi là Uỷ ban nhân dân cấp tỉnh) có trách nhiệm chỉ đạo việc tổ chức triển khai tiêm chủng, sử dụng vắc xin, sinh phẩm y tế.\n\n4. Cơ sở y tế có trách nhiệm thực hiện việc tiêm chủng, sử dụng vắc xin, sinh phẩm y tế trong phạm vi chuyên môn theo quy định của Bộ trưởng Bộ Y tế.\n\n5. Tổ chức, cá nhân sản xuất, kinh doanh, bảo quản vắc xin, sinh phẩm y tế và người làm công tác tiêm chủng, sử dụng vắc xin, sinh phẩm y tế có lỗi trong việc sản xuất, kinh doanh, bảo quản, sử dụng vắc xin, sinh phẩm y tế thì phải chịu trách nhiệm về hành vi vi phạm của mình gây ra tai biến cho người được sử dụng vắc xin, sinh phẩm y tế theo quy định của pháp luật.\n\n6. Khi thực hiện tiêm chủng mở rộng, nếu xảy ra tai biến ảnh hưởng nghiêm trọng đến sức khỏe hoặc gây thiệt hại đến tính mạng của người được tiêm chủng, Nhà nước có trách nhiệm bồi thường cho người bị thiệt hại. Trường hợp xác định được lỗi thuộc về tổ chức, cá nhân sản xuất, kinh doanh, bảo quản vắc xin, sinh phẩm y tế hoặc người làm công tác tiêm chủng thì tổ chức, cá nhân này phải bồi hoàn cho Nhà nước theo quy định của pháp luật.\n\nMục 6\n\nPHÒNG LÂY NHIỄM BỆNH TRUYỀN NHIỄM TẠI CƠ SỞ KHÁM BỆNH, CHỮA BỆNH"
+   }
+  },
+  {
+   "id": "VN-H492-A31",
+   "no": 31,
+   "noLabel": {
+    "vi": "Điều 31"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Biện pháp phòng lây nhiễm bệnh truyền nhiễm tại cơ sở khám bệnh, chữa bệnh"
+   },
+   "text": {
+    "vi": "Điều 31. Biện pháp phòng lây nhiễm bệnh truyền nhiễm tại cơ sở khám bệnh, chữa bệnh\n\n1. Cách ly người mắc bệnh truyền nhiễm.\n\n2. Diệt khuẩn, khử trùng môi trường và xử lý chất thải tại cơ sở khám bệnh, chữa bệnh.\n\n3. Phòng hộ cá nhân, vệ sinh cá nhân.\n\n4. Các biện pháp chuyên môn khác theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H492-A32",
+   "no": 32,
+   "noLabel": {
+    "vi": "Điều 32"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Trách nhiệm của cơ sở khám bệnh, chữa bệnh trong phòng lây nhiễm bệnh truyền nhiễm"
+   },
+   "text": {
+    "vi": "Điều 32. Trách nhiệm của cơ sở khám bệnh, chữa bệnh trong phòng lây nhiễm bệnh truyền nhiễm\n\n1. Thực hiện các biện pháp cách ly phù hợp theo từng nhóm bệnh; chăm sóc toàn diện người mắc bệnh truyền nhiễm. Trường hợp người bệnh không thực hiện yêu cầu cách ly của cơ sở khám bệnh, chữa bệnh thì bị áp dụng biện pháp cưỡng chế cách ly theo quy định của Chính phủ.\n\n2. Tổ chức thực hiện các biện pháp diệt khuẩn, khử trùng môi trường và xử lý chất thải tại cơ sở khám bệnh, chữa bệnh.\n\n3. Bảo đảm trang phục phòng hộ, điều kiện vệ sinh cá nhân cho thầy thuốc, nhân viên y tế, người bệnh và người nhà người bệnh.\n\n4. Theo dõi sức khỏe của thầy thuốc, nhân viên y tế trực tiếp tham gia chăm sóc, điều trị người mắc bệnh truyền nhiễm thuộc nhóm A.\n\n5. Thông báo thông tin liên quan đến người mắc bệnh truyền nhiễm cho cơ quan y tế dự phòng cùng cấp.\n\n6. Thực hiện các biện pháp chuyên môn khác theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H492-A33",
+   "no": 33,
+   "noLabel": {
+    "vi": "Điều 33"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Trách nhiệm của thầy thuốc và nhân viên y tế trong phòng lây nhiễm bệnh truyền nhiễm tại cơ sở khám bệnh, chữa bệnh"
+   },
+   "text": {
+    "vi": "Điều 33. Trách nhiệm của thầy thuốc và nhân viên y tế trong phòng lây nhiễm bệnh truyền nhiễm tại cơ sở khám bệnh, chữa bệnh\n\n1. Thực hiện các biện pháp phòng lây nhiễm bệnh truyền nhiễm quy định tại Điều 31 của Luật này.\n\n2. Tư vấn về các biện pháp phòng, chống bệnh truyền nhiễm cho người bệnh và người nhà người bệnh.\n\n3. Giữ bí mật thông tin liên quan đến người bệnh."
+   }
+  },
+  {
+   "id": "VN-H492-A34",
+   "no": 34,
+   "noLabel": {
+    "vi": "Điều 34"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Trách nhiệm của người bệnh, người nhà người bệnh trong phòng lây nhiễm bệnh truyền nhiễm tại cơ sở khám bệnh, chữa bệnh"
+   },
+   "text": {
+    "vi": "Điều 34. Trách nhiệm của người bệnh, người nhà người bệnh trong phòng lây nhiễm bệnh truyền nhiễm tại cơ sở khám bệnh, chữa bệnh\n\n1. Người bệnh có trách nhiệm:\n\na) Khai báo trung thực diễn biến bệnh;\n\nb) Tuân thủ chỉ định, hướng dẫn của thầy thuốc, nhân viên y tế và nội quy, quy chế của cơ sở khám bệnh, chữa bệnh;\n\nc) Đối với người mắc bệnh truyền nhiễm thuộc nhóm A ngay sau khi xuất viện phải đăng ký theo dõi sức khỏe với y tế xã, phường, thị trấn nơi cư trú.\n\n2. Người nhà người bệnh có trách nhiệm thực hiện chỉ định, hướng dẫn của thầy thuốc, nhân viên y tế và nội quy, quy chế của cơ sở khám bệnh, chữa bệnh.\n\nChương III\n\nKIỂM DỊCH Y TẾ BIÊN GIỚI"
+   }
+  },
+  {
+   "id": "VN-H492-A35",
+   "no": 35,
+   "noLabel": {
+    "vi": "Điều 35"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Đối tượng và địa điểm kiểm dịch y tế biên giới"
+   },
+   "text": {
+    "vi": "Điều 35. Đối tượng và địa điểm kiểm dịch y tế biên giới\n\n1. Đối tượng phải kiểm dịch y tế biên giới bao gồm:\n\na) Người nhập cảnh, xuất cảnh, quá cảnh Việt Nam;\n\nb) Phương tiện vận tải nhập cảnh, xuất cảnh, quá cảnh Việt Nam;\n\nc) Hàng hoá nhập khẩu, xuất khẩu, quá cảnh Việt Nam;\n\nd) Thi thể, hài cốt, mẫu vi sinh y học, sản phẩm sinh học, mô, bộ phận cơ thể người vận chuyển qua biên giới Việt Nam.\n\n2. Kiểm dịch y tế biên giới được thực hiện tại các cửa khẩu."
+   }
+  },
+  {
+   "id": "VN-H492-A36",
+   "no": 36,
+   "noLabel": {
+    "vi": "Điều 36"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Nội dung kiểm dịch y tế biên giới"
+   },
+   "text": {
+    "vi": "Điều 36. Nội dung kiểm dịch y tế biên giới\n\n1. Các đối tượng phải kiểm dịch y tế biên giới quy định tại khoản 1 Điều 35 của Luật này phải được khai báo y tế.\n\n2. Kiểm tra y tế bao gồm kiểm tra giấy tờ liên quan đến y tế và kiểm tra thực tế. Kiểm tra thực tế được tiến hành trong trường hợp đối tượng xuất phát hoặc đi qua vùng có dịch hoặc bị nghi ngờ mắc bệnh hoặc mang tác nhân gây bệnh truyền nhiễm.\n\n3. Xử lý y tế được thực hiện khi đã tiến hành kiểm tra y tế và phát hiện đối tượng phải kiểm dịch y tế có dấu hiệu mang mầm bệnh truyền nhiễm thuộc nhóm A. Trường hợp nhận được khai báo của chủ phương tiện vận tải hoặc có bằng chứng rõ ràng cho thấy trên phương tiện vận tải, người, hàng hoá có dấu hiệu mang mầm bệnh truyền nhiễm thuộc nhóm A thì phương tiện vận tải, người, hàng hoá trên phương tiện đó phải được cách ly để kiểm tra y tế trước khi làm thủ tục nhập cảnh, nhập khẩu, quá cảnh; nếu không thực hiện yêu cầu cách ly của tổ chức kiểm dịch y tế biên giới thì bị áp dụng biện pháp cưỡng chế cách ly.\n\n4. Giám sát bệnh truyền nhiễm được thực hiện tại khu vực cửa khẩu theo quy định tại Mục 3 Chương II của Luật này."
+   }
+  },
+  {
+   "id": "VN-H492-A37",
+   "no": 37,
+   "noLabel": {
+    "vi": "Điều 37"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Trách nhiệm trong việc thực hiện kiểm dịch y tế biên giới"
+   },
+   "text": {
+    "vi": "Điều 37. Trách nhiệm trong việc thực hiện kiểm dịch y tế biên giới\n\n1. Đối tượng quy định tại điểm a khoản 1 Điều 35, chủ phương tiện hoặc người quản lý đối tượng quy định tại các điểm b, c và d khoản 1 Điều 35 của Luật này phải thực hiện việc khai báo y tế; chấp hành các biện pháp giám sát, kiểm tra, xử lý y tế và nộp phí kiểm dịch y tế theo quy định của pháp luật.\n\n2. Tổ chức kiểm dịch y tế biên giới có trách nhiệm tổ chức thực hiện nội dung kiểm dịch y tế quy định tại Điều 36 của Luật này và cấp giấy chứng nhận xử lý y tế.\n\n3. Các cơ quan chức năng tại cửa khẩu có trách nhiệm phối hợp với tổ chức kiểm dịch y tế biên giới trong việc thực hiện kiểm dịch y tế biên giới.\n\n4. Cơ quan nhà nước có thẩm quyền có trách nhiệm phối hợp với các cơ quan hữu quan của các nước, các tổ chức quốc tế trong công tác phòng, chống bệnh truyền nhiễm tại khu vực biên giới.\n\n5. Chính phủ quy định chi tiết về kiểm dịch y tế biên giới.\n\nChương IV\n\nCHỐNG DỊCH\n\nMục 1\n\nCÔNG BỐ DỊCH"
+   }
+  },
+  {
+   "id": "VN-H492-A38",
+   "no": 38,
+   "noLabel": {
+    "vi": "Điều 38"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Nguyên tắc, thẩm quyền, thời hạn và điều kiện công bố dịch"
+   },
+   "text": {
+    "vi": "Điều 38. Nguyên tắc, thẩm quyền, thời hạn và điều kiện công bố dịch\n\n1. Việc công bố dịch được thực hiện theo nguyên tắc sau đây:\n\na) Mọi trường hợp có dịch đều phải được công bố;\n\nb) Việc công bố dịch và hết dịch phải công khai, chính xác, kịp thời và đúng thẩm quyền.\n\n2. Thẩm quyền công bố dịch được quy định như sau:\n\na) Chủ tịch Uỷ ban nhân dân cấp tỉnh công bố dịch theo đề nghị của Giám đốc Sở Y tế đối với bệnh truyền nhiễm thuộc nhóm B và nhóm C;\n\nb) Bộ trưởng Bộ Y tế công bố dịch theo đề nghị của Chủ tịch Uỷ ban nhân dân cấp tỉnh đối với bệnh truyền nhiễm thuộc nhóm A và đối với một số bệnh truyền nhiễm thuộc nhóm B khi có từ hai tỉnh, thành phố trực thuộc trung ương trở lên đã công bố dịch;\n\nc) Thủ tướng Chính phủ công bố dịch theo đề nghị của Bộ trưởng Bộ Y tế đối với bệnh truyền nhiễm thuộc nhóm A khi dịch lây lan nhanh từ tỉnh này sang tỉnh khác, ảnh hưởng nghiêm trọng đến tính mạng, sức khỏe con người.\n\n3. Trong thời hạn 24 giờ, kể từ khi nhận được đề nghị công bố dịch, người có thẩm quyền quy định tại khoản 2 Điều này quyết định việc công bố dịch.\n\n4. Thủ tướng Chính phủ quy định cụ thể điều kiện công bố dịch."
+   }
+  },
+  {
+   "id": "VN-H492-A39",
+   "no": 39,
+   "noLabel": {
+    "vi": "Điều 39"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Nội dung công bố dịch"
+   },
+   "text": {
+    "vi": "Điều 39. Nội dung công bố dịch\n\n1. Nội dung công bố dịch gồm:\n\na) Tên bệnh dịch;\n\nb) Thời gian, địa điểm và quy mô xảy ra dịch;\n\nc) Nguyên nhân, đường lây truyền, tính chất, mức độ nguy hiểm của dịch;\n\nd) Các biện pháp phòng, chống dịch;\n\nđ) Các cơ sở khám bệnh, chữa bệnh thực hiện việc tiếp nhận, điều trị người mắc bệnh truyền nhiễm.\n\n2. Các nội dung quy định tại khoản 1 Điều này phải được thông báo kịp thời cho cơ quan, tổ chức, cá nhân có liên quan để triển khai các biện pháp chống dịch."
+   }
+  },
+  {
+   "id": "VN-H492-A40",
+   "no": 40,
+   "noLabel": {
+    "vi": "Điều 40"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Điều kiện và thẩm quyền công bố hết dịch"
+   },
+   "text": {
+    "vi": "Điều 40. Điều kiện và thẩm quyền công bố hết dịch\n\n1. Điều kiện để công bố hết dịch bao gồm:\n\na) Không phát hiện thêm trường hợp mắc bệnh mới sau khoảng thời gian nhất định và đáp ứng các điều kiện khác đối với từng bệnh dịch theo quy định của\n\nb) Đã thực hiện các biện pháp chống dịch quy định tại Mục 3 Chương IV của Luật này.\n\n2. Người có thẩm quyền công bố dịch có quyền công bố hết dịch theo đề nghị của cơ quan có thẩm quyền quy định tại khoản 2 Điều 38 của Luật này."
+   }
+  },
+  {
+   "id": "VN-H492-A41",
+   "no": 41,
+   "noLabel": {
+    "vi": "Điều 41"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Đưa tin về tình hình dịch"
+   },
+   "text": {
+    "vi": "Điều 41. Đưa tin về tình hình dịch\n\nCác cơ quan thông tin đại chúng có trách nhiệm đưa tin chính xác, kịp thời và trung thực về tình hình sau khi dịch đã được công bố và công bố hết dịch theo đúng nội dung do cơ quan nhà nước có thẩm quyền về y tế cung cấp.\n\nMục 2\n\nBAN BỐ TÌNH TRẠNG KHẨN CẤP VỀ DỊCH"
+   }
+  },
+  {
+   "id": "VN-H492-A42",
+   "no": 42,
+   "noLabel": {
+    "vi": "Điều 42"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Nguyên tắc và thẩm quyền ban bố tình trạng khẩn cấp về dịch"
+   },
+   "text": {
+    "vi": "Điều 42. Nguyên tắc và thẩm quyền ban bố tình trạng khẩn cấp về dịch\n\n1. Việc ban bố tình trạng khẩn cấp về dịch được thực hiện theo nguyên tắc sau đây:\n\na) Khi dịch lây lan nhanh trên diện rộng, đe dọa nghiêm trọng đến tính mạng, sức khỏe con người và kinh tế - xã hội của đất nước thì phải ban bố tình trạng khẩn cấp;\n\nb) Việc ban bố tình trạng khẩn cấp phải công khai, chính xác, kịp thời và đúng thẩm quyền.\n\n2. Uỷ ban thường vụ Quốc hội ra nghị quyết ban bố tình trạng khẩn cấp theo đề nghị của"
+   }
+  },
+  {
+   "id": "VN-H492-A43",
+   "no": 43,
+   "noLabel": {
+    "vi": "Điều 43"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Nội dung ban bố tình trạng khẩn cấp khi có dịch"
+   },
+   "text": {
+    "vi": "Điều 43. Nội dung ban bố tình trạng khẩn cấp khi có dịch\n\n1. Lý do ban bố tình trạng khẩn cấp.\n\n2. Địa bàn trong tình trạng khẩn cấp.\n\n3. Ngày, giờ bắt đầu tình trạng khẩn cấp.\n\n4. Thẩm quyền tổ chức thi hành nghị quyết hoặc lệnh ban bố tình trạng khẩn cấp."
+   }
+  },
+  {
+   "id": "VN-H492-A44",
+   "no": 44,
+   "noLabel": {
+    "vi": "Điều 44"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Thẩm quyền bãi bỏ tình trạng khẩn cấp khi hết dịch"
+   },
+   "text": {
+    "vi": "Điều 44. Thẩm quyền bãi bỏ tình trạng khẩn cấp khi hết dịch\n\nTheo đề nghị của Thủ tướng Chính phủ, Uỷ ban thường vụ Quốc hội ra nghị quyết hoặc Chủ tịch nước ra lệnh bãi bỏ tình trạng khẩn cấp do mình ban bố khi dịch đã được chặn đứng hoặc dập tắt."
+   }
+  },
+  {
+   "id": "VN-H492-A45",
+   "no": 45,
+   "noLabel": {
+    "vi": "Điều 45"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Đưa tin trong tình trạng khẩn cấp về dịch"
+   },
+   "text": {
+    "vi": "Điều 45. Đưa tin trong tình trạng khẩn cấp về dịch\n\n1. Thông tấn xã Việt Nam, Đài Tiếng nói Việt Nam, Đài Truyền hình Việt Nam, Báo Nhân dân, Báo Quân đội nhân dân có trách nhiệm đăng ngay toàn văn nghị quyết của Uỷ ban thường vụ Quốc hội hoặc lệnh của Chủ tịch nước ban bố tình trạng khẩn cấp về dịch, các quyết định của Thủ tướng Chính phủ tổ chức thi hành nghị quyết của Uỷ ban thường vụ Quốc hội hoặc lệnh của Chủ tịch nước ban bố tình trạng khẩn cấp về dịch; đưa tin kịp thời về các biện pháp đã được áp dụng tại địa bàn có tình trạng khẩn cấp và tình hình khắc phục hậu quả dịch; đăng toàn văn nghị quyết của Uỷ ban thường vụ Quốc hội hoặc lệnh của Chủ tịch nước bãi bỏ tình trạng khẩn cấp về dịch.\n\nNghị quyết của Uỷ ban thường vụ Quốc hội hoặc lệnh của Chủ tịch nước ban bố hoặc bãi bỏ tình trạng khẩn cấp về dịch được niêm yết công khai tại trụ sở cơ quan, tổ chức và nơi công cộng.\n\n2. Các phương tiện thông tin đại chúng khác ở trung ương và địa phương có trách nhiệm đưa tin về việc ban bố, bãi bỏ tình trạng khẩn cấp về dịch và quá trình khắc phục hậu quả dịch.\n\nMục 3\n\nCÁC BIỆN PHÁP CHỐNG DỊCH"
+   }
+  },
+  {
+   "id": "VN-H492-A46",
+   "no": 46,
+   "noLabel": {
+    "vi": "Điều 46"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Thành lập Ban chỉ đạo chống dịch"
+   },
+   "text": {
+    "vi": "Điều 46. Thành lập Ban chỉ đạo chống dịch\n\n1. Ban chỉ đạo chống dịch được thành lập ngay sau khi dịch được công bố.\n\n2. Thành phần Ban chỉ đạo chống dịch được quy định như sau:\n\na) Ban chỉ đạo chống dịch quốc gia gồm đại diện của cơ quan y tế, tài chính, thông tin - truyền thông, ngoại giao, quốc phòng, công an và các cơ quan liên quan khác. Căn cứ vào phạm vi địa bàn được công bố dịch và tính chất của dịch,\n\nb) Ban chỉ đạo chống dịch cấp tỉnh, cấp huyện, cấp xã gồm đại diện của cơ quan y tế, tài chính, thông tin - truyền thông, quân đội, công an và các cơ quan liên quan khác. Trưởng ban chỉ đạo chống dịch là Chủ tịch Uỷ ban nhân dân cùng cấp. Cơ quan y tế cùng cấp là thường trực của Ban chỉ đạo.\n\n3. Ban chỉ đạo chống dịch có nhiệm vụ tổ chức thực hiện các biện pháp chống dịch và khắc phục hậu quả của dịch, thành lập đội chống dịch cơ động để trực tiếp thực hiện nhiệm vụ cấp cứu, điều trị và xử lý ổ dịch.\n\n4. Thủ tướng Chính phủ quy định cụ thể về thẩm quyền thành lập, tổ chức và hoạt động của Ban chỉ đạo chống dịch các cấp."
+   }
+  },
+  {
+   "id": "VN-H492-A47",
+   "no": 47,
+   "noLabel": {
+    "vi": "Điều 47"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Khai báo, báo cáo dịch"
+   },
+   "text": {
+    "vi": "Điều 47. Khai báo, báo cáo dịch\n\n1. Khi có dịch, người mắc bệnh dịch hoặc người phát hiện trường hợp mắc bệnh dịch hoặc nghi ngờ mắc bệnh dịch phải khai báo cho cơ quan y tế gần nhất trong thời gian 24 giờ, kể từ khi phát hiện bệnh dịch.\n\n2. Khi phát hiện trường hợp mắc bệnh dịch hoặc nhận được khai báo bệnh dịch, cơ quan y tế phải báo cáo cho Uỷ ban nhân dân nơi xảy ra dịch và cơ sở y tế dự phòng để khẩn trương tổ chức triển khai các biện pháp chống dịch.\n\n3. Bộ trưởng Bộ Y tế quy định cụ thể chế độ khai báo, báo cáo dịch."
+   }
+  },
+  {
+   "id": "VN-H492-A48",
+   "no": 48,
+   "noLabel": {
+    "vi": "Điều 48"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Tổ chức cấp cứu, khám bệnh, chữa bệnh"
+   },
+   "text": {
+    "vi": "Điều 48. Tổ chức cấp cứu, khám bệnh, chữa bệnh\n\nBan chỉ đạo chống dịch chỉ đạo việc áp dụng các biện pháp sau đây để tổ chức cấp cứu, khám bệnh, chữa bệnh cho người mắc bệnh dịch và người bị nghi ngờ mắc bệnh dịch:\n\n1. Phân loại, sơ cứu, cấp cứu kịp thời người mắc bệnh dịch theo hướng dẫn chẩn đoán, điều trị của Bộ Y tế;\n\n2. Huy động phương tiện, thuốc, thiết bị y tế, giường bệnh, cơ sở khám bệnh, chữa bệnh và bố trí cán bộ y tế chuyên môn trực 24/24 giờ để sẵn sàng cấp cứu, khám bệnh, chữa bệnh phục vụ chống dịch. Người mắc bệnh dịch thuộc nhóm A được khám và điều trị miễn phí;\n\n3. Căn cứ vào tính chất, mức độ và quy mô của bệnh dịch, Ban chỉ đạo chống dịch quyết định áp dụng các biện pháp sau đây:\n\na) Tổ chức các cơ sở điều trị tại vùng có dịch để tiếp nhận, cấp cứu người mắc bệnh dịch;\n\nb) Điều động đội chống dịch cơ động vào vùng có dịch để thực hiện việc phát hiện, cấp cứu và điều trị tại chỗ người mắc bệnh dịch; chuyển người mắc bệnh dịch về các cơ sở khám bệnh, chữa bệnh;\n\nc) Huy động các cơ sở khám bệnh, chữa bệnh tham gia cấp cứu, khám bệnh, chữa bệnh phục vụ chống dịch;\n\nd) Áp dụng các biện pháp cần thiết khác theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H492-A49",
+   "no": 49,
+   "noLabel": {
+    "vi": "Điều 49"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Tổ chức cách ly y tế"
+   },
+   "text": {
+    "vi": "Điều 49. Tổ chức cách ly y tế\n\n1. Người mắc bệnh dịch, người bị nghi ngờ mắc bệnh dịch, người mang mầm bệnh dịch, người tiếp xúc với tác nhân gây bệnh dịch thuộc nhóm A và một số bệnh thuộc nhóm B theo quy định của Bộ trưởng Bộ Y tế phải được cách ly.\n\n2. Hình thức cách ly bao gồm cách ly tại nhà, tại cơ sở khám bệnh, chữa bệnh hoặc tại các cơ sở, địa điểm khác.\n\n3. Cơ sở y tế trong vùng có dịch chịu trách nhiệm tổ chức thực hiện việc cách ly theo chỉ đạo của Trưởng ban chỉ đạo chống dịch. Trường hợp các đối tượng quy định tại khoản 1 Điều này không thực hiện yêu cầu cách ly của cơ sở y tế thì bị áp dụng biện pháp cưỡng chế cách ly theo quy định của Chính phủ."
+   }
+  },
+  {
+   "id": "VN-H492-A50",
+   "no": 50,
+   "noLabel": {
+    "vi": "Điều 50"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Vệ sinh, diệt trùng, tẩy uế trong vùng có dịch"
+   },
+   "text": {
+    "vi": "Điều 50. Vệ sinh, diệt trùng, tẩy uế trong vùng có dịch\n\n1. Các biện pháp vệ sinh, diệt trùng, tẩy uế bao gồm:\n\na) Vệ sinh môi trường, nước, thực phẩm và vệ sinh cá nhân;\n\nb) Diệt trùng, tẩy uế khu vực được xác định hoặc nghi ngờ có tác nhân gây bệnh dịch;\n\nc) Tiêu hủy động vật, thực phẩm và các vật khác là trung gian truyền bệnh.\n\n2. Đội chống dịch cơ động có trách nhiệm thực hiện các biện pháp vệ sinh, diệt trùng, tẩy uế theo quy trình chuyên môn ngay sau khi được Ban chỉ đạo chống dịch yêu cầu.\n\n3. Cơ quan, tổ chức, cá nhân có trách nhiệm thực hiện các biện pháp vệ sinh, diệt trùng, tẩy uế theo hướng dẫn của cơ quan y tế có thẩm quyền; trường hợp không tự giác thực hiện thì cơ quan y tế có quyền áp dụng các biện pháp vệ sinh, diệt trùng, tẩy uế bắt buộc."
+   }
+  },
+  {
+   "id": "VN-H492-A51",
+   "no": 51,
+   "noLabel": {
+    "vi": "Điều 51"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Các biện pháp bảo vệ cá nhân"
+   },
+   "text": {
+    "vi": "Điều 51. Các biện pháp bảo vệ cá nhân\n\n1. Người tham gia chống dịch và người có nguy cơ mắc bệnh dịch phải thực hiện một hoặc một số biện pháp bảo vệ cá nhân sau đây:\n\na) Trang bị bảo vệ cá nhân;\n\nb) Sử dụng thuốc phòng bệnh;\n\nc) Sử dụng vắc xin, sinh phẩm y tế để phòng bệnh;\n\nd) Sử dụng hóa chất diệt khuẩn, hóa chất phòng trung gian truyền bệnh.\n\n2. Nhà nước bảo đảm cho người tham gia chống dịch thực hiện các biện pháp bảo vệ cá nhân quy định tại khoản 1 Điều này."
+   }
+  },
+  {
+   "id": "VN-H492-A52",
+   "no": 52,
+   "noLabel": {
+    "vi": "Điều 52"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Các biện pháp chống dịch khác trong thời gian có dịch"
+   },
+   "text": {
+    "vi": "Điều 52. Các biện pháp chống dịch khác trong thời gian có dịch\n\n1. Trong trường hợp cần thiết, cơ quan nhà nước có thẩm quyền có thể áp dụng các biện pháp chống dịch sau đây:\n\na) Tạm đình chỉ hoạt động của cơ sở dịch vụ ăn uống công cộng có nguy cơ làm lây truyền bệnh dịch tại vùng có dịch;\n\nb) Cấm kinh doanh, sử dụng loại thực phẩm được cơ quan y tế có thẩm quyền xác định là trung gian truyền bệnh dịch;\n\nc) Hạn chế tập trung đông người hoặc tạm đình chỉ các hoạt động, dịch vụ tại nơi công cộng tại vùng có dịch.\n\n2. Chính phủ quy định cụ thể việc áp dụng các biện pháp quy định tại khoản 1 Điều này."
+   }
+  },
+  {
+   "id": "VN-H492-A53",
+   "no": 53,
+   "noLabel": {
+    "vi": "Điều 53"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Kiểm soát ra, vào vùng có dịch đối với bệnh dịch thuộc nhóm A"
+   },
+   "text": {
+    "vi": "Điều 53. Kiểm soát ra, vào vùng có dịch đối với bệnh dịch thuộc nhóm A\n\n1. Các biện pháp kiểm soát ra, vào vùng có dịch đối với bệnh dịch thuộc nhóm A bao gồm:\n\na) Hạn chế ra, vào vùng có dịch đối với người và phương tiện; trường hợp cần thiết phải kiểm tra, giám sát và xử lý y tế;\n\nb) Cấm đưa ra khỏi vùng có dịch những vật phẩm, động vật, thực vật, thực phẩm và hàng hóa khác có khả năng lây truyền bệnh dịch;\n\nc) Thực hiện các biện pháp bảo vệ cá nhân đối với người vào vùng có dịch quy định tại khoản 1 Điều 51 của Luật này;\n\nd) Các biện pháp cần thiết khác theo quy định của pháp luật.\n\n2. Trưởng Ban chỉ đạo chống dịch thành lập các chốt, trạm kiểm dịch tại các đầu mối giao thông ra, vào vùng có dịch để thực hiện các biện pháp quy định tại khoản 1 Điều này."
+   }
+  },
+  {
+   "id": "VN-H492-A54",
+   "no": 54,
+   "noLabel": {
+    "vi": "Điều 54"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Các biện pháp được áp dụng trong tình trạng khẩn cấp về dịch"
+   },
+   "text": {
+    "vi": "Điều 54. Các biện pháp được áp dụng trong tình trạng khẩn cấp về dịch\n\n1. Việc thành lập Ban chỉ đạo chống dịch trong tình trạng khẩn cấp thực hiện theo quy định tại điểm a khoản 2 Điều 46 của Luật này.\n\n2. Trong trường hợp ban bố tình trạng khẩn cấp về dịch, Trưởng Ban chỉ đạo có quyền:\n\na) Huy động, trưng dụng các nguồn lực quy định tại Điều 55 của Luật này;\n\nb) Đặt biển báo hiệu, trạm gác và hướng dẫn việc đi lại tránh vùng có dịch;\n\nc) Yêu cầu kiểm tra và xử lý y tế đối với phương tiện vận tải trước khi ra khỏi vùng có dịch;\n\nd) Cấm tập trung đông người và các hoạt động khác có nguy cơ làm lây truyền bệnh dịch tại vùng có dịch;\n\nđ) Cấm người, phương tiện không có nhiệm vụ vào ổ dịch;\n\ne) Tổ chức tẩy uế, khử độc trên phạm vi rộng;\n\ng) Tiêu hủy động vật, thực phẩm và các vật khác có nguy cơ làm lây lan bệnh dịch sang người;\n\nh) Áp dụng các biện pháp khác quy định tại Mục 3 của Chương này."
+   }
+  },
+  {
+   "id": "VN-H492-A55",
+   "no": 55,
+   "noLabel": {
+    "vi": "Điều 55"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Huy động, trưng dụng các nguồn lực cho hoạt động chống dịch"
+   },
+   "text": {
+    "vi": "Điều 55. Huy động, trưng dụng các nguồn lực cho hoạt động chống dịch\n\n1. Căn cứ vào tính chất, mức độ nguy hiểm và quy mô của bệnh dịch đe dọa đến sức khoẻ nhân dân, người có thẩm quyền được huy động người, huy động, trưng dụng cơ sở vật chất, thiết bị y tế, thuốc, hoá chất, vật tư y tế, cơ sở dịch vụ công cộng, phương tiện giao thông và các nguồn lực khác để chống dịch. Các phương tiện giao thông tham gia chống dịch được ưu tiên theo pháp luật về giao thông.\n\n2. Việc trưng dụng quy định tại khoản 1 Điều này được thực hiện theo quy định của pháp luật về trưng mua, trưng dụng tài sản. Tài sản đã trưng dụng phải được vệ sinh, diệt trùng, tẩy uế trước khi hoàn trả.\n\n3. Chính phủ, Ủy ban nhân dân các cấp có trách nhiệm bảo đảm các điều kiện để thực hiện các biện pháp chống dịch theo quy định tại Luật này."
+   }
+  },
+  {
+   "id": "VN-H492-A56",
+   "no": 56,
+   "noLabel": {
+    "vi": "Điều 56"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Hợp tác quốc tế trong hoạt động chống dịch"
+   },
+   "text": {
+    "vi": "Điều 56. Hợp tác quốc tế trong hoạt động chống dịch\n\n1. Khi có dịch xảy ra, căn cứ vào tính chất, mức độ nguy hiểm của dịch, Bộ trưởng Bộ Y tế quyết định hợp tác quốc tế về trao đổi mẫu bệnh phẩm, thông tin dịch, chuyên môn, kỹ thuật, chuyên gia, thiết bị, kinh phí trong hoạt động chống dịch.\n\n2. Trường hợp ban bố tình trạng khẩn cấp về dịch,\n\nChương V\n\nCÁC ĐIỀU KIỆN BẢO ĐẢM ĐỂ PHÒNG, CHỐNG BỆNH TRUYỀN NHIỄM"
+   }
+  },
+  {
+   "id": "VN-H492-A57",
+   "no": 57,
+   "noLabel": {
+    "vi": "Điều 57"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Cơ sở phòng, chống bệnh truyền nhiễm"
+   },
+   "text": {
+    "vi": "Điều 57. Cơ sở phòng, chống bệnh truyền nhiễm\n\n1. Cơ sở phòng, chống bệnh truyền nhiễm bao gồm:\n\na) Cơ sở y tế dự phòng;\n\nb) Cơ sở khám bệnh, chữa bệnh truyền nhiễm gồm có bệnh viện chuyên khoa bệnh truyền nhiễm; khoa truyền nhiễm thuộc bệnh viện đa khoa quận, huyện, thị xã, thành phố thuộc tỉnh trở lên và các cơ sở y tế khác có nhiệm vụ khám bệnh, chữa bệnh truyền nhiễm.\n\n2. Bệnh viện đa khoa quận, huyện, thị xã, thành phố thuộc tỉnh trở lên phải thành lập khoa truyền nhiễm.\n\n3. Bộ trưởng Bộ Y tế quy định về vị trí, thiết kế, điều kiện cơ sở vật chất, kỹ thuật, thiết bị và nhân lực của các cơ sở khám bệnh, chữa bệnh truyền nhiễm."
+   }
+  },
+  {
+   "id": "VN-H492-A58",
+   "no": 58,
+   "noLabel": {
+    "vi": "Điều 58"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Đào tạo, bồi dưỡng người làm công tác phòng, chống bệnh truyền nhiễm"
+   },
+   "text": {
+    "vi": "Điều 58. Đào tạo, bồi dưỡng người làm công tác phòng, chống bệnh truyền nhiễm\n\n1. Nhà nước có quy hoạch, kế hoạch và ưu tiên đào tạo, đào tạo lại, bồi dưỡng về nghiệp vụ cho người làm công tác phòng, chống bệnh truyền nhiễm.\n\n2. Bộ trưởng Bộ Y tế chủ trì phối hợp với Bộ trưởng Bộ Giáo dục và Đào tạo và thủ trưởng các cơ quan, tổ chức có liên quan tổ chức việc đào tạo, đào tạo lại, bồi dưỡng nghiệp vụ cho người làm công tác phòng, chống bệnh truyền nhiễm."
+   }
+  },
+  {
+   "id": "VN-H492-A59",
+   "no": 59,
+   "noLabel": {
+    "vi": "Điều 59"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Chế độ đối với người làm công tác phòng, chống bệnh truyền nhiễm và người tham gia chống dịch"
+   },
+   "text": {
+    "vi": "Điều 59. Chế độ đối với người làm công tác phòng, chống bệnh truyền nhiễm và người tham gia chống dịch\n\n1. Người làm công tác phòng, chống bệnh truyền nhiễm được hưởng các chế độ phụ cấp nghề nghiệp và các chế độ ưu đãi khác.\n\n2. Người tham gia chống dịch được hưởng chế độ phụ cấp chống dịch và được hưởng chế độ rủi ro nghề nghiệp khi bị lây nhiễm bệnh.\n\n3. Trong quá trình chống dịch, khi người tham gia chống dịch dũng cảm cứu người mà bị chết hoặc bị thương thì được xem xét để công nhận là liệt sỹ hoặc thương binh, hưởng chính sách như thương binh theo quy định của pháp luật về ưu đãi người có công với cách mạng.\n\n4. Thủ tướng Chính phủ quy định cụ thể các chế độ theo quy định tại các khoản 1, 2 và 3 Điều này."
+   }
+  },
+  {
+   "id": "VN-H492-A60",
+   "no": 60,
+   "noLabel": {
+    "vi": "Điều 60"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Kinh phí cho công tác phòng, chống bệnh truyền nhiễm"
+   },
+   "text": {
+    "vi": "Điều 60. Kinh phí cho công tác phòng, chống bệnh truyền nhiễm\n\n1. Kinh phí cho công tác phòng, chống bệnh truyền nhiễm bao gồm:\n\na) Ngân sách nhà nước;\n\nb) Vốn viện trợ;\n\nc) Các nguồn kinh phí khác theo quy định của pháp luật.\n\n2. Hằng năm, Nhà nước bảo đảm đủ, kịp thời ngân sách cho các hoạt động phòng, chống bệnh truyền nhiễm. Ngân sách phòng, chống bệnh truyền nhiễm không được sử dụng vào mục đích khác."
+   }
+  },
+  {
+   "id": "VN-H492-A61",
+   "no": 61,
+   "noLabel": {
+    "vi": "Điều 61"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Dự trữ quốc gia cho phòng, chống dịch"
+   },
+   "text": {
+    "vi": "Điều 61. Dự trữ quốc gia cho phòng, chống dịch\n\n1. Nhà nước thực hiện việc dự trữ quốc gia về kinh phí, thuốc, hóa chất, thiết bị y tế để phòng, chống dịch.\n\n2. Việc xây dựng, tổ chức, quản lý, điều hành và sử dụng dự trữ quốc gia để phòng, chống dịch được thực hiện theo quy định của pháp luật về dự trữ quốc gia."
+   }
+  },
+  {
+   "id": "VN-H492-A62",
+   "no": 62,
+   "noLabel": {
+    "vi": "Điều 62"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Quỹ hỗ trợ phòng, chống dịch"
+   },
+   "text": {
+    "vi": "Điều 62. Quỹ hỗ trợ phòng, chống dịch\n\n1. Quỹ hỗ trợ phòng, chống dịch được thành lập và hoạt động theo quy định của pháp luật để hỗ trợ điều trị, chăm sóc người mắc bệnh truyền nhiễm và các hoạt động phòng, chống dịch khác.\n\n2. Nguồn tài chính của Quỹ được hình thành trên cơ sở đóng góp tự nguyện, tài trợ của tổ chức, cá nhân trong nước và nước ngoài.\n\nChương VI\n\nĐIỀU KHOẢN THI HÀNH"
+   }
+  },
+  {
+   "id": "VN-H492-A63",
+   "no": 63,
+   "noLabel": {
+    "vi": "Điều 63"
+   },
+   "chapter": {
+    "vi": "Chương VI"
+   },
+   "heading": {
+    "vi": "Hiệu lực thi hành"
+   },
+   "text": {
+    "vi": "Điều 63. Hiệu lực thi hành\n\nLuật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2008."
+   }
+  },
+  {
+   "id": "VN-H492-A64",
+   "no": 64,
+   "noLabel": {
+    "vi": "Điều 64"
+   },
+   "chapter": {
+    "vi": "Chương VI"
+   },
+   "heading": {
+    "vi": "Hướng dẫn thi hành"
+   },
+   "text": {
+    "vi": "Điều 64. Hướng dẫn thi hành\n\nChính phủ quy định chi tiết và hướng dẫn thi hành Luật này.\n\nLuật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XII, kỳ họp thứ 2 thông qua ngày 21 tháng 11 năm 2007./.\n\n CHỦ TỊCH QUỐC HỘI\n\n (Đã ký)\n\n Nguyễn Phú Trọng\n\n1:{\"id\":\"12900\",\"docType\":{\"id\":\"11025e19-2dd6-4165-85ad-ab6241186a1a\",\"name\":\"Luật\",\"code\":\"Lu\",\"parentCode\":\"VBQPPL\",\"parentName\":null},\"docGroup\":\"VBQPPL\",\"docNum\":\"03/2007/QH12\",\"title\":\"Luật Phòng, chống bệnh truyền nhiễm số 03/2007/QH12\",\"applicationNote\":null,\"issueDate\":\"2007-11-21T00:00:00\",\"effFrom\":\"2008-07-01T00:00:00\",\"effTo\":null,\"publicDate\":null,\"effStatus\":{\"id\":\"9c20e89d-e048-4f3a-b6c2-df87fe0b1ada\",\"name\":\"Hết hiệu lực một phần\",\"code\":\"HHL1P\",\"parentCode\":null,\"parentName\":null},\"status\":\"Publish\",\"lang\":\"vi\",\"defaultLanguage\":\"VN\",\"updatedBy\":\"System Account\",\"updatedDate\":\"2026-05-08T19:14:28\",\"agencyName\":\"Quốc hội\",\"organization\":{\"id\":\"e3389e7d-de01-447b-912a-53ad00cd2b48\",\"code\":\"BYT\",\"name\":\"Bộ Y tế\",\"nameEn\":\"Bộ Y tế\",\"shortName\":\"BYT\",\"orgType\":\"0\"},\"isLw\":true,\"documentContent\":{\"id\":\"12900\",\"title\":null,\"content\":\"$2\"},\"documentContentEn\":null,\"documentContentFileName\":null,\"documentContentFileDocName\":null,\"documentIssues\":[{\"id\":\"97c52a34-4778-41da-9b62-d46a8ad64234\",\"agencyId\":\"55\",\"agencyName\":\"Quốc hội\",\"agencyNameEn\":\"National Assembly of Vietnam\",\"agencyCode\":\"QH\",\"personId\":\"119\",\"personName\":\"Nguyễn Phú Trọng\",\"jobTitleId\":\"28da0087-8afd-420c-875c-b2369e212c3e\",\"jobTitleCode\":\"CTQH\",\"jobTitleName\":\"Chủ tịch Quốc hội\",\"orderIndex\":1}],\"documentMajors\":[],\"documentFields\":[{\"id\":\"76e2c0d5-e93e-4ee9-8c72-59dae1167432\",\"name\":\"Chưa phân loại\",\"code\":null,\"parentCode\":null,\"parentName\":null}],\"documentRelatedList\":[{\"id\":\"8daf4f68-c3cf-4f35-b9ab-b1291d401bd9\",\"fileName\":\"12900_body_content.html\",\"relatedType\":\"MARKDOWN\",\"fileTitle\":\"12900_body_content.html\",\"fileOrder\":null},{\"id\":\"3c339ee4-3736-4482-bb88-0e2b01924c5f\",\"fileName\":\"Luatphong,chongbenhtruyennhiem.zip\",\"relatedType\":\"MARKDOWN\",\"fileTitle\":\"Luatphong,chongbenhtruyennhiem.zip\",\"fileOrder\":null}],\"provisionTree\":null,\"references\":null,\"isEffectAllDocument\":false,\"isOld\":true,\"reviewStatus\":\"RV_DONE\",\"reviewed\":true,\"isTranslationDoc\":false,\"isConsolidatedDocument\":false,\"isConstitutionDocument\":false,\"isAdministrativeDocument\":false,\"viewCount\":99,\"showViewCount\":true,\"hasContent\":true,\"hasOriginalPdf\":null,\"hasAIProcessed\":false,\"hasClauseRelation\":true,\"aiResults\":[]}"
+   }
+  }
+ ]
+}

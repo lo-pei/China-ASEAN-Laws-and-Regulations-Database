@@ -1,0 +1,62 @@
+{
+ "id": "PH-H22713",
+ "title": {
+  "zh": null,
+  "en": "Amending Section 6 of Chapter II of Presidential Decree No. 269 in Order to Increase the Capitalization of the National Electrification Administration.",
+  "orig": "Amending Section 6 of Chapter II of Presidential Decree No. 269 in Order to Increase the Capitalization of the National Electrification Administration."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1978-05-02",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 1370",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1237,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_01370_1978_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_01370_1978_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22713-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section 6 of Presidential Decree No. 269 is hereby amended to read as follows:\n\"Section 6 Capital Stock The authorized Capital Stock of NEA is Two Billion Pesos divided into Fifty (50)\nMillion shares with a par value of One Hundred Pesos (P100.00) each, which shares are not to be transferred,\nnegotiated, pledged, mortgaged or otherwise given as security for the payment of any obligation. Beginning\nwith the Fiscal Year 1978, the sum of Two Hundred Million Pesos is hereby appropriated out of the funds in\nthe National Treasury not otherwise appropriated and the same amount annually thereafter until the balance of\nthe unpaid subscription of the government to the capital stock of the corporation shall have been paid in full.\nSuch annual appropriation shall be programmed and released by the Budget Commission in accordance with\nthe schedule of cash requirements to be submitted by the NEA; provided that this annual appropriation of Two\nHundred Million Pesos and the programming and release thereof shall remain in force until the entire capital\nstock of the NEA is paid in full.\""
+   }
+  },
+  {
+   "id": "PH-H22713-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Decree shall take effect immediately.\nDone in the City of Manila, this 2nd day of May, in the year of Our Lord, nineteen hundred and seventy-eight."
+   }
+  }
+ ]
+}

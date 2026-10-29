@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13783",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Subsection (I) of Section Twelve Hundred and three of the Administrative Code",
+  "orig": "An Act to Amend Subsection (I) of Section Twelve Hundred and three of the Administrative Code"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1924-03-06",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3139",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 486,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1924/act_3139_1924.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03139_1924_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03139_1924_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13783-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Subsection (i) of section twelve hundred and three of the Administrative Code is hereby\namended to read as follows:\n\" (i) Every steamer making round trips in not more than forty-eight hours, staying all night in port, shall have\nthe following complement of engineers:\n\"Up to one hundred and twenty horsepower, one fourth engineer.\n\"From one hundred and twenty-one horsepower upward, one third and one fourth engineer.\""
+   }
+  },
+  {
+   "id": "PH-H13783-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, March 6, 1924."
+   }
+  }
+ ]
+}

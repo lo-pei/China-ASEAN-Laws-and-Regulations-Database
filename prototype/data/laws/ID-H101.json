@@ -1,0 +1,1794 @@
+{
+ "id": "ID-H101",
+ "title": {
+  "zh": "地方议会议员选举法",
+  "en": "Law on the Election of Members of the Regional House of Representatives",
+  "id": "PEMILIHAN ANGGOTA DEWAN PERWAKILAN RAKYAT DAERAH",
+  "orig": "PEMILIHAN ANGGOTA DEWAN PERWAKILAN RAKYAT DAERAH",
+  "vi": "Luật về Bầu cử Đại biểu Hội đồng Đại diện Nhân dân Địa phương",
+  "th": "พระราชบัญญัติว่าด้วยการเลือกตั้งสมาชิกสภาผู้แทนราษฎรระดับท้องถิ่น",
+  "ms": "Akta tentang Pemilihan Anggota Dewan Perwakilan Rakyat Daerah"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02c",
+ "language": "id",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "1956",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU19-1956",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 124,
+ "chars": 97337,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": null
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\01_宪法与基础法\\印尼_WLD_1956_PEMILIHAN ANGGOTA DEWAN PERWAKILAN RAKYAT DAERAH.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 125 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H101-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\nAnggota Dewan Perwakilan Rakyat Daerah dipilih oleh warganegara Indonesia yang dalam\ntahun pemilihan telah\nmencapai usia delapan belas tahun atau yang sudah kawin sebelum\nusia itu dan bertempat tinggal pokok dalam daerah itu\nsekurangkurangnya enam bulan yang\nterakhir."
+   }
+  },
+  {
+   "id": "ID-H101-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\n1. Seorang tidak diperkenankan menjalankan hak-pilih, apabila ia:\na. tidak terdaftar dalam daftar-pemilih;\nb. dengan putusan pengadilan, yang tidak dapat diubah lagi, sedang dalam keadaan\ndipecat\ndari hak-pilih;\nc. dengan putusan pengadilan, yang tidak dapat diubah lagi, sedang menjalani\nhukuman\npenjara atau kurungan, termasuk di dalamnya kurungan pengganti;\nd. nyata-nyata sedang dalam keadaan terganggu ingatannya.\n2. Ketentuan dalam ayat 1 huruf a pasal ini tidak mengurangi ketentuan dalam pasal 38 ayat 3."
+   }
+  },
+  {
+   "id": "ID-H101-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\n1. Menteri Kehakiman memberitahukan kepada Menteri Dalam Negeri tiap-tiap putusan\npengadilan yang\nmengakibatkan seseorang tidak diperkenankan menjalankan hak-pilih,\ndengan keterangan yang cukup tentang diri orang\nyang bersangkutan dan tentang\nlamanya tidak diperkenankan menjalankan hak-pilih itu.\n2. Menteri Dalam Negeri mengusahakan supaya hal tersebut di atas dicatat dalam daftar-\npemilih\nyang bersangkutan."
+   }
+  },
+  {
+   "id": "ID-H101-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\nUntuk memungkinkan pelaksanaan hak-pilih bagi anggota-anggota Angkatan Perang\ndan Polisi,\nyang pada hari pemungutan suara dilakukan sedang menjalankan tugas operasi\natau tugas biasa diluar tempat kedudukannya\ndan apabila perlu dengan mengadakan dalam\nwaktu sependek-pendeknya pemungutan suara susulan untuk mereka itu,\ndiadakan\nperaturan oleh Dewan Perwakilan Rakyat Daerah, dengan mengingat ketentuan-ketentuan\ndalam Peraturan Pemerintah yang mengatur pelaksanaan undang-undang ini.\nBagian II\nTentang Daftar-Pemilih."
+   }
+  },
+  {
+   "id": "ID-H101-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\n1. Untuk tiap-tiap desa disusun dan dipelihara sebuah daftar-pemilih, yang menunjukkan\npemilih-pemilih,\nyang bertempat tinggal di desa itu.\n2. Seorang pemilih hanya boleh didaftarkan satu kali dalam daftar pemilih.\n3. Jika seorang pemilih mempunyai tempat-tinggal lebih dari satu, maka ia memilih salah\nsatu di antara\ntempat-tinggal itu sebagai tempat-tinggal pokok."
+   }
+  },
+  {
+   "id": "ID-H101-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\nDalam daftar-pemilih dimuat keterangan-keterangan tentang tiap -tiap pemilih, sebagai\nberikut:\na. nama lengkap, termasuk nama panggilan, jika ada;\nb. umur;\nc. sudah/pernah/belum kawin;\nd. laki-laki atau perempuan;\ne. alamat rumah;\nf. pekerjaan;\ng. lamanya pemilih bertempat tinggal pokok dalam daerah-pemilihan."
+   }
+  },
+  {
+   "id": "ID-H101-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n1. Untuk mempersiapkan bahan-bahan, yang berguna untuk penyusunan daftarpemilih, di\ntiap-tiap desa\ndiadakan pendaftaran pemilih. Pendaftaran pemilih dilakukan oleh Panitia\nPendaftaran Pemilih.\n2. Atas dasar bahan-b ahan, yang tersebut dalam ayat 1 di atas, Panitia Pendaftaran\nPemilih menyusun\ndaftar-pemilih sementara, yang memuat nama-nama pemilih yang\ndisusun menurut tempat pemilih memb erikan suaranya\ndan menurut abjad.\n3. Daftar-pemilih sementara dibubuhi cap Kepala desa dan ditanda-tangani oleh Ketua\nPanitia\nPendaftaran Pemilih serta sekurang -kurangnya dua orang anggota lain.\n4. Hasil-hasil pendaftaran pemilih yang sudah dilakukan menurut ketentuan Undang -\nundang\nPemilihan Umum dan Pe raturan Pelaksanaannya dip akai seb agai dasar untuk\nme nyusun daftar-pemilih sementara\nbagi pemilihan anggota-anggota Dewan Perwakilan\nRakyat Daerah yang pe rtama kali menurut undang -undang ini, sedang\nuntuk menyusun\ndaftar-pemilih sementara bagi pemilihan anggota Dewan Perwakilan Rakyat Daerah\nselanjutnya, sebagai dasar dipakai hasil-hasil pendaftaran pemilih dari pemilihan yang\nterakhir me nurut kete\nntuan-ketentuan undang -undang ini."
+   }
+  },
+  {
+   "id": "ID-H101-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n1. Pada waktu yang ditentukan oleh Panitia Pemilihan Daerah daftar-pemilih sementara\ndiumumkan.\nPengumuman ini diadakan dengan memberikan kesempatan kepada umum\nuntuk melihat daftar itu pada Panitia Pendaftaran\nPemilih, tetapi daftar itu tidak boleh di\nbawah ke luar kantor penyimpanannya. Kesempatan melihat daftar itu lamanya\n30 hari,\ndimulai dari hari pengumuman daftar-pemilih sementara itu.\n2. Dalam jangka waktu yang tersebut dalam ayat 1 di atas, dapat diajukan usul-usul\nperubahan dalam\ndaftar-pemilih sementara, baik mengenai diri pengusul sendiri maupun\ndiri orang lain. Jika usul-usul itu dapat\nditerima oleh Panitia Pendaftaran Pemilih, segera\ndilakukan perubahan dan hal ini diberitahukan kepada pihak yang\nberkepentingan.\nApabila usul itu tidak diterima, maka pihak yang bersangkutan dapat meminta perubahan\ndengan melalui Panitia Pendaftaran Pemilih kepada Panitia Pemungutan Suara.\nKeputusan Panitia Pemungutan\nSuara dalam hal ini mengikat dan keputusan itu\ndiberitahukan kepada pihak yang berkepentingan dan Panitia Pendaftaran\nPemilih,\nsupaya menyesuaikannya dengan daftar-pemilih sementara."
+   }
+  },
+  {
+   "id": "ID-H101-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\nSetelah waktu yang tersebut dalam pasal 9 ayat 1 berakhir, maka Panitia Pendaftaran\nPemilih me nyusun\ndaftar-pemilih dan mengirimkan daftar itu bersama -sama dengan bahan-\nbahan pendaftaran dan pengaduan kepada Panitia\nPemungutan Suara untuk disahkan."
+   }
+  },
+  {
+   "id": "ID-H101-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\n1. Setiap pemilih memberitahukan kepada Panitia Pendaftaran Pemilih yang bersangkutan\ntentang hal-hal\nyang menyebabkan perlu diubah suatu daftarpemilih mengenai dirinya.\n2. Panitia Pendaftaran Pemilih memberitahukan kepada Panitia Pemungutan Suara tentang\nhal-hal -yang\nmenyebabkan perlunya perubahan suatu daftar-pemilih."
+   }
+  },
+  {
+   "id": "ID-H101-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\nSesudah daftar-pemilih disahkan, sampai hari permulaan, pencalonan, disusun daftar-\npemilih\ntambahan, yang ketentuan-ketentuannya diatur dengan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H101-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\nPanitia Pemungutan Suara menyampaikan kepada Panitia Pendaftaran Pemilih turunan\ndaftar-pemilih dan\ndaftar-pemilih tambahan sebanyak yang diperlukan untuk dipergunakan\ndalam pemungutan suara. Turunan itu disampaikan\nbersamasama dengan bahan-bahan\nyang tersebut dalam pasal 10."
+   }
+  },
+  {
+   "id": "ID-H101-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\nBentuk daftar-pemilih, cara mengisinya, cara memeliharanya dan lain-lain yang\nberhubungan dengan usaha\npenyusunan daftar-pemilih ditetapkan dengan Peraturan\nPemerintah.\nBagian III\nTentang Daerah Pemilihan Dan Daerah Pemungutan Suara"
+   }
+  },
+  {
+   "id": "ID-H101-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\nUntuk Pemilihan anggota Dewan Perwakilan Rakyat Daerah, tiap-tiap daerah swatantra\nmerup akan satu daerah-pemilihan."
+   }
+  },
+  {
+   "id": "ID-H101-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\n1. Tiap-tiap kecamatan merupakan daerah-pemungutan suara dari daerahpemilihan yang\nmelingkungi kecamatan\nitu. Daerah-pemungutan suara disebut dengan nama tempat\nkedudukan badan penyelenggara pemilihan daerahpemungutan\nsuara itu.\n2. Jika suatu daerah swatantra tidak terbagi ataupun tidak cukup terbagi dalam kecamatan,\nmaka Menteri\nDalam Negeri membagi daerah itu dalam kesatuankesatuan daerah, yang\ndalam menyelenggarakan undang-undang\nini dianggap sebagai kecamatan, dengan\nmenunjuk seorang untuk masing-masing kesatuan daerah itu, yang melakukan\nkewajiban\ncamat, serta menetapkan tempat kedudukan penjabat tersebut.\nBagian IV\ns.1 Tentang jenis Badan- badan Penyelenggara Pemilihan."
+   }
+  },
+  {
+   "id": "ID-H101-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\nUntuk pemilihan anggota Dewan Perwakilan Rakyat Daerah diadakan sebuah badan\npenyelenggara pemilihan\ndaerah:\na. dalam tiap-tiap daerah swatantra diibukota daerah tersebut atau di temp at lain yang\nditunjuk oleh\nMenteri Dalam Negeri, dengan nama Panitia Pemilihan Daerah disertai\ntingkat dan nama dari daerah yang bersangkutan;\nb. dalam tiap-tiap daerah-permungutan suara di tempat kedudukan camat, dengan nama\nPanitia Pemungutan\nSuara;\nc. dalam tiap-tiap desa di tempat kedudukan Kepala Desa, dengan nama Panitia\nPendaftaran Pemilih."
+   }
+  },
+  {
+   "id": "ID-H101-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\n1. Panitia Pemilihan Daerah Prop insi menyiapkan, memimpin dan menyelenggarakan\npemilihan anggota\nDewan Perwakilan Rakyat Daerah Propinsi. Panitia Pemilihan Daerah\nKabupaten membantu persiapan dan penyelenggaraan\npemilihan anggota Dewan\nPerwakilan Rakyat Daerah Propinsi dalam daerah-kabupatennya.\n2. Panitia Pemilihan Daerah Kabupaten menyiapkan, memimpin dan penyelenggarakan\npemilihan anggota\nDewan Perwakilan Rakyat Daerah Kabupaten.\n3. Panitia Pemilihan Daerah dari daerah swatantra tingkat terendah menyiapkan memimpin\ndan menyelenggarakan\npemilihan anggota Dewan Perwakilan Rakyat Daerah tingkat\nterendah.\n4. Panitia Pemungutan Suara mensahkan daftar-pemilih, membantu persiapan pemilihan\nanggota Dewan Perwakilan\nRakyat Daerah dan menyelenggarakan pemungutan suara.\n5. Panitia Pendaftaran Pemilih melakukan pendaftaran pemilih, menyusun daftarpemilih dan\nmembantu\nmenyiapkan pemilihan anggota Dewan Perwakilan Rakyat Daerah.\ns 2. Tentang Susunan Badan- Badan\nPenyelenggara Pemilihan"
+   }
+  },
+  {
+   "id": "ID-H101-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\n1. Panitia Pemilihan Daerah dibentuk untuk masa empat tahun dan terdiri dari sekurang-\nkurangnya\nlima orang anggota dan sebanyak-banyaknya sembilan orang anggota, yang\nsusunan keanggotaannya terdiri dari\nberbagai aliran politik/organisasi.\n2. Kepala Daerah karena jab atannya menjadi anggota merangkap Ketua Panitia Pemilihan\nDaerah.\nAnggota-anggota yang lain, di antaranya seorang Wakil Ketua, diangkat dan\ndiperhentikan oleh Dewan Perwakilan\nRakyat Daerah.\n3. Apabila karena sesuatu hal pengangkatan dimaksud dalam ayat 2 itu tidak dapat\ndilaksanakan, Menteri\nDalam Negeri berhak mengambil tindakan-tindakan seperlunya."
+   }
+  },
+  {
+   "id": "ID-H101-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\n1. Panitia Pemungutan Suara terdiri dari sekurang -kurangnya lima orang anggota, yang\nsusunan keanggotaannya\nterdiri dari berbagai aliran politik/organisasi.\n2. Camat karena jabatannya menjadi anggota merangkap Ketua Panitia Pemungutan Suara.\nAnggota-anggota\nyang lain, di antaranya seorang Wakil Ketua, diangkat dan\ndiperhentikan oleh Panitia Pemilihan Daerah dari daerah\nswatantra yang melingkungi\ndaerah Panitia Pemungutan Suara itu.\n3. Apabila pemungutan suara dalam suatu daerah-pemungutan suara dilakukan dibeberapa\ntempat serentak,\nPanitia Pemilihan Daerah dapat menambah jumlah anggota Panitia\nPemungutan Suara, sehingga pemungutan suara dilakukan\ndengan sah."
+   }
+  },
+  {
+   "id": "ID-H101-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\n1. Panitia Pendaftaran Pemilih terdiri dari sekurang-kurangnya tiga orang anggota, yang\nsusunan keanggotaannya\nterdiri dari berbagai aliran politik/organisasi.\n2. Kepala Desa karena jab atannya menjadi anggota merangkap Ketua Panitia\nPendaftaran Pemilih. Anggota-anggota\nyang lain, diantaranya seorang Wakil Ketua,\ndiangkat dan dip erhentikan atas nama Panitia Pemilihan Daerah oleh\nPanitia\nPemungutan Suara yang daerahnya melingkungi daerah Panitia Pendaftaran\nPemilihan itu."
+   }
+  },
+  {
+   "id": "ID-H101-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\nWakil Ketua menggantikan Ketua, apabila Ketua berhalangan. Jika Ketua dan Wakil\nKetua berhalangan, maka\nyang mengganti Ketua ialah anggota yang tertua usianya."
+   }
+  },
+  {
+   "id": "ID-H101-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\n1. Sebelum memangku jabatannya, anggota-anggota Panitia Pemilihan Daerah, Panitia\nPemungutan Suara,\nPanitia Pendaftaran Pemilihan dan anggota-anggota Panitia\nPemeriksaan Daerah, yang dimaksud dalam pasal 89,\nmengangkat sumpah (menyatakan\nketerangan) sebagai berikut: \"Saya bersumpah (saya menyatakan dan sanggup dengan\nsungguh-sungguh): Bahwa saya, untuk mendapat jabatan atau pekerjaan saja ini, baik\nlangsung maupun tidak langsung, dengan rupa atau kedok apapun juga, tidak memberi\natau menyanggupi\nakan memberi sesuatu kepada siapapun juga; Bahwa saya akan setia\ndan taat kepada Negara Republik Indonesia;\nBahwa saya akan memegang rahasia\nsesuatu yang menurut sifatnya atau menurut perintah harus saya rahasiakan; Bahwa\nsaya tidak akan menerima hadiah atau suatu pemberian berupa apa saja dari siapapun\njuga, yang\nsaya tahu atau patut dapat mengira, bahwa ia mempunyai hal yang b\nersangkutan atau mungkin bersangkutan dengan\njabatan atau pekerjaan saja; Bahwa\ndalam menjalankan jabatan atau pekerjaan saya, saya senantiasa akan lebih\nmementingkan kepentingan Negara umumnya dan daerah khususnya daripada\nkepentingan saya sendiri,\nseseorang atau golongan; Bahwa saya senantiasa akan\nmenjunjung tinggi kehormatan Negara dan Daerah; Bahwa saya\nakan bekerja dengan\njujur, cermat dan semangat untuk kepentingan Negara dan Daerah.\"\n2. Penjabat, yang karena jabatannya menjadi anggota suatu Badan Penyelenggara\nPemilihan Daerah,\nyang belum mengangkat sumpah (menyatakan keterangan) jabatan\ndalam Negara Republik Indonesia, diwajibkan mengangkat\nsumpah (menyatakan\nketerangan) seperti dimaksud dalam ayat 1. (3) Pengangkatan sumpah menurut cara\nagamanya (pernyataan keterangan) dilakukan dihadapan:\na. Kepala Daerah bagi anggota-anggota Panitia Pemilihan Daerah dan Panitia\nPemeriksaan Daerah;\nb. Ketua Panitia Pemilihan Daerah dimaksud dalam pasal 19 ayat 2, bagi anggota-\nanggota Panitia\nPemungutan Suara;\nc. Ketua Panitia Pemungutan Suara dimaksud dalam pasal 20 ayat 2, bagi angg ota-\nanggota Panitia\nPendaftaran Pemilih. (4) Penjab at-penjab at (4) Penjabat-penjabat\ndimaksud dalam ayat 2 mengangkat sumpah\nmenurut cara agamanya (menyatakan\nketerangan) dihadapan penguasa yang mengangkatnya atau wakil yang ditunjuk\noleh\npenguasa itu."
+   }
+  },
+  {
+   "id": "ID-H101-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 24\n1. Seorang anggota Badan Penyelenggara Pemilihan Daerah berhenti karena:\na. meninggal dunia;\nb. tugasnya telah selesai;\nc. permintaan sendiri;\nd. diperhentikan, sebab menjalankan kewajibannya tidak sebagai mestinya;\ne. diperhentikan dengan putusan pengadilan yang tidak dapat diubah lagi, dijatuhi\nhukuman\npenjara atau kurungan, termasuk di dalamnya kurungan pengganti.\n2. Pemberhentian karena alasan tersebut dalam ayat 1 huruf d dilakukan atas usul Badan\nPenyeleng\ng ara Pemilihan Daerah yang bersangkutan.\ns 3. Tentang rapat dan Keputusan"
+   }
+  },
+  {
+   "id": "ID-H101-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\nSesuatu rap at Panitia Pemilihan Daerah, Panitia Pemungutan Suara dan Panitia Pendaftaran\nPemilihan\nadalah sah, apabila dihadiri oleh lebih dari seperdua jumlah anggota, dalam mana\ntidak terhitung anggota tambahan menurut\npasal 20 ayat 3."
+   }
+  },
+  {
+   "id": "ID-H101-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\nPanitia Pemilihan Daerah, Panitia Pemungutan Suara dan Panitia Pendaftaran Pemilih\nmengambil keputusan\nsah dengan suara terbanyak dari jumlah anggota yang hadir, dalam\nmana tidak terhitung anggota tambahan menurut pasal\n20 ayat 3. Dalam hal suara-suara\nsama berat, keputusan diambil dengan jalan undian.\nBagian V\nTentang jumlah penduduk daerah."
+   }
+  },
+  {
+   "id": "ID-H101-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian V"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 27.\n1. Pada waktu melakukan pendaftaran pemilih, oleh Panitia Pendaftaran Pemilih dicatat\njuga jumlah\npenduduk dalam desanya dan Ketua Panitia Pendaftaran Pemilih\nmemberitahukan jumlah itu kepada Panitia Pemungutan\nSuara yang b ersangkutan.\n2. Pada waktu yang ditentukan oleh Panitia Pemilihan Daerah Ketua Panitia Pemungutan\nSuara memberitahukan\njumlah penduduk dalam daerahpemungutan suaranya kepada\nPanitia Pemilihan Daerah dari daerah swatantra yang me\nlingkung i daerah -pemungutan\nsuara itu.\n3. Panitia Pemilihan Daerah Kabupaten menjumlah penduduk dalam daerahnya, dan Ke tua\nPanitia tersebut\nmemberitahukan jumlah itu kepada Panitia Pemilihan Daerah Prop insi.\n4. Panitia Pemilihan Daerah Propinsi menjumlah penduduk dalam daerahnya dan\nmemberitahukan jumlah\nitu kepada Menteri Dalam Negeri, dengan perincian jumlah\npenduduk itu dalam tiap-tiap daerah swatantra Kabupaten/tingkat\nterendah.\nBagian VI\nTentang Pencalonan.\n1. Tentang syarat-syarat."
+   }
+  },
+  {
+   "id": "ID-H101-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian VI"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 28.\n1. Seorang calon dikemukakan sebagai orang-seorang dalam suatu daftar calon\nperseorangan,\nyang selanjutnya disebut daftar perseorangan atau bersama-sama calon-\ncalon lain dalam suatu daftar calon kumpulan,\nyang selanjutnya disebut daftar-kumpulan.\n2. Satu daftar-kumpulan tidak boleh memuat nama-nama calon yang jumlahnya me leb ihi\njumlah anggota\nme nurut jumlah yang ditentukan untuk daerah swatantra yang\nbersangkutan, ditambah sebanyak jumlah anggota yang\nsudah ditetapkan, tetapi\ntambahan itu tidak boleh melebihi jumlah 20 untuk pemilihan Dewan Perwakilan Rakyat\nDaerah Propinsi, jumlah 15 untuk pemilihan Dewan Perwakilan Rakyat Daerah\nKabupaten dan jumlah\n10 untuk pemilihan daerah swatantra tingkat terendah.\n3. Seorang tidak boleh dicalonkan dalam leb ih dari satu daftar untuk satu pemilihan\nanggota Dewan\nPerwakilan Rakyat Daerah.\n4. Yang boleh dikemukakan sebagai calon ialah orang yang memenuhi syaratsyarat\nuntuk menjadi anggota\nDewan Perwakilan Rakyat Daerah."
+   }
+  },
+  {
+   "id": "ID-H101-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian VI"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 29.\nUntuk pembagian kursi yang diatur dalam Bagian IX S 1 daftar-perseorangan ataupun daftar-\nkumpulan dapat\ndigabungkan dengan daftar-kumpulan lain."
+   }
+  },
+  {
+   "id": "ID-H101-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\n1. Seorang calon perseorangan atau calon pertama dari suatu daftar-kumpulan\ndikemukakan\nsebagai calon oleh sekurang-kurangnya sejumlah pemilih, yang namanya\nterdaftar dalam daftar-pemilih dari daerah-pemilihan\nyang bersangkutan itu, seperti\ntersebut di bawah ini:\na. empat ratus pemilih untuk pemilihan daerah swatantra Prop insi;\nb. dua ratus pemilih untuk pemilihan daerah swatantra Kabupaten;\nc. seratus pemilih untuk pemilihan daerah swatantra tingkat terendah.\n2. Tiap-tiap calon selanjutnya dari daftar kumpulan itu dikemukakan oleh\nsekurang-kurangnya;\na. lima puluh pemilih untuk pemilihan daerah swatantra Propinsi;\nb. tiga puluh pemilih untuk pemilihan daerah swatantra Kabupaten;\nc. duapuluh pemilih untuk pemilihan daerah swatantra tingkat terendah.\n3. Pemilih yang telah turut mengemukakan suatu daftar, tidak boleh turut mengemukakan\ndaftar\nlain lagi untuk satu pemilihan anggota Dewan Perwakilan Rakyat Daerah."
+   }
+  },
+  {
+   "id": "ID-H101-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\nTiap-tiap calon yang dikemukakan harus menyatakan kesediaannya untuk pencalonan itu dan\npersetujuannya\ntentang tempat yang diberikan kepadanya dalam urutan daftar.\ns 2. Tentang cara\npencalonan."
+   }
+  },
+  {
+   "id": "ID-H101-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 32\nCalon-calon dikemukakan dengan meng isi suatu pormulir surat pencalonan, yang harus\nditanda-tangani\noleh semua pemelih yang mengemukakannya. Dengan tandatangan\ndisamakan cap jempol kiri, atau jika tidak mungkin, cap\njari lain dengan disebutkan jarinya kiri\natau kanan. Pormulir itu dapat diperoleh dengan percuma pada tiap-tiap kantor\nPanitia\nPemungutan Suara."
+   }
+  },
+  {
+   "id": "ID-H101-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 33\n1. Pada waktu yang ditentukan oleh Panitia Pemilihan Daerah, partai dan organisasi yang\nakan mengemukakan\ncalon-calon atau orang yang akan dikemukakan seb agai calon\nperseorangan mengajukan nama dan tanda-gambar kepada\nPanitia Pemilihan Daerah\nswatantra untuk mana pemilihan anggota Dewan Perwakilan Rakyat Daerah itu diadakan.\n2. Panitia Pemilihan Daerah yang tersebut dalam ayat 1 menetapkan nama dan tanda-\ngambar yang diajukan\ndengan persetujuan pihak yang bersangkutan, untuk dipakai\ndalam pencalonan.\n3. Sebagai tanda-gambar tidak boleh dipakai lambang Negara Republik Indonesia, lambang\ndaerah, lambang\nnegara asing, bendera kebangsaan Merah Putih, gambar\nperseorangan. dan gambar-gambar yang bertentangan\ndengan tata susila Indonesia.\n4. Tanda-gambar yang telah dikemukakan oleh partai, organisasi atau perseorangan dalam\npemilihan umum\nberdasarkan Undang-undang Pemilihan Umum, tidak boleh dipakai oleh\npartai, organisasi atau perseorangan lain.\n5. Tanda-gambar yang telah dipakai oleh partai, organisasi atau perseorangan dalam\nsuatu pemilihan anggota\nDewan Perwakilan Rakyat Daerah-swatantra, tidak boleh\ndipakai oleh partai, organisasi atau perseorangan lain dalam\npemilihan anggota Dewan\nPerwakilan Rakyat Daerah swatantra lain.\n6. Apabila dalam suatu pemilihan anggota Dewan Perwakilan Rakyat Daerah dikemukakan\ndua atau\nlebih tanda-gambar yang sama atau yang mirip satu dengan lain, maka Panitia\nPemilihan Daerah dimaksud dalam\nayat 2 menentukan tanda-gambar mana yang dapat\ndipakai setelah mengadakan perundingan dengan mereka yang\nmengemukakan tanda-\ngambar itu, dengan memperhatikan oleh pihak mana tanda-gambar itu sudah lazim dip\nakai.\n7. Nama dan tanda-gambar yang telah ditetapkan oleh Panitia Pemilihan Daerah\ndiumumkan menurut cara\nyang ditentukan dalam pasal 54. Tanda-gambar yang ditolak,\ndiberitahukan kepada yang berkepentingan dan diberi kesempatan\nkepadanya untuk\nmengajukan tanda-gambar yang lain dalam waktu yang tersebut dalam ayat 1."
+   }
+  },
+  {
+   "id": "ID-H101-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 34\n1. Yang mengajukan nama dan tanda-gambar bagi partai dan organisasi ialah pengurus\npartai/organisasi\nyang tertinggi di daerah swatantra yang bersangkutan, untuk mana\npemilihan anggota Dewan Perwakilan Rakyat Daerah\ndiadakan. Orang yang akan\ndikemukakan sebagai calon perseorangan meng ajukan nama dan tanda-g ambar\ndengan disertai kutipan dari daftar-pemilih mengenai dirinya sendiri, yang ditanda-tangani\noleh Ketua Panitia\nPemungutan Suara yang bersangkutan. Apabila orang itu belum\ndidaftar dalam daftar-pemilih, maka kutipan tersebut\ndiganti dengan surat keterangan dari\nKetua Panitia Pemungutan Suara yang ditanda-tanganinya tentang hal-hal yang\nsemestinya dimuat dalam daftar-pemilih.\n2. Nama yang diajukan oleh partai atau org anisasi adalah nama dari partai atau organisasi\nitu atau\nsingkatan daripada itu, dan nama yang diajukan oleh orang dimaksud dalam ayat\n1 adalah namanya sendiri. Bentuk tanda-gambar\nyang diajukan oleh partai, organisasi\natau perseorangan dimaksud dalam ayat 1 harus memenuhi syarat-syarat yang\nditetap\nkan dengan Peraturan Pe merintah.\n3. Dalam menetapkan nama dan tanda-gambar, Panitia Pemilihan Daerah dimaksud dalam\npasal 33 ayat 2 memberikan\nkepada masing-masing tanda-gambar itu nomor yang terdiri\ndari angka b iasa. Nomor terseb ut jadi nomor daftar yang\nakan dikemukakan dengan\nmemakai tanda-gambar itu."
+   }
+  },
+  {
+   "id": "ID-H101-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 35\n1. Se suatu daftar-p erse orang an atau daftar-kumpulan dikemukakan dengan disertai\nnama dan tanda-gambar\nyang telah ditetapkan oleh Panitia Pemilihan Daerah yang\nbersangkutan sebagai dimaksud dalam pasal 33 ayat 2 yang\nakan dip akai sebagai nama\ndan tanda-gambar untuk daftar itu.\n2. Sesuatu daftar yang dikemukakan dengan tidak disertai nama dan tanda-gambar sebagai\ndimaksud\ndalam ayat 1 oleh Panitia Pemilihan Daerah dimaksud dalam pasal 33 ayat 2\ndiberi tanda-gambar.\n3. Nama dan tanda-gambar yang telah ditetapkan oleh Panitia Pemilihan Daerah untuk\ncalon perseorangan\nboleh dipergunakan untuk daftar-calon kumpulan yang tidak\nmemakai nama sesuatu partai, asal saja calon yang sudah\nmendapat ketetapan itu\nmenjadi calon pertama, dan daftar itu memakai nama calon tersebut d eng an dib e\nlakangnya dib ub uhi p erkataan \"dan kawan-kawan\" atau singkatan \"dkk\"."
+   }
+  },
+  {
+   "id": "ID-H101-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 36\n1. Nama calon dan nama pemilih yang mengemukakan calon pada surat pencalonan,\nditulis dengan cara yang\nditentukan untuk cara pengisian daftarpemilih. Nama-nama\ncalon yang dikemukakan dalam suatu daftar-kumpulan,\nditulis dalam urutan\nsebagaimana dikehendaki oleh pemilih-pemilih yang mengemukakan daftar-kumpulan\nitu.\n2. Calon-calon yang dikemukakan dan pemilih-pemilih yang mengemukakan caloncalon\nharus membubuhi tanda\n-tang an dalam urutan penempatan namanya pada surat itu.\nDengan tanda-tangan disamakan cap jempol kiri atau, jika\ntidak mungkin, cap jari lain\ndengan disebutkan jarinya kiri atau kanan."
+   }
+  },
+  {
+   "id": "ID-H101-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 37\nKeinginan penggabungan menurut pasal 29 harus dinyatakan dalam surat pencalonan\ndengan menyebut nama\ndan tanda-gambar dari daftar/daftar-daftar dengan mana diadakan\npenggabungan, sedang dalam surat pencalonan yang mengemukakan\ndaftar/ daftar-daftar\nyang disebut terakhir ini harus dinyatakan juga keinginan itu."
+   }
+  },
+  {
+   "id": "ID-H101-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 38\n1. Surat pencalonan harus dilampiri :\na. surat pernyataan tiap-tiap calon yang menyatakan kesediaannya dan persetujuannya\ndimaksud\ndalam pasal 31;\nb. surat keterangan Ketua Panitia Pemungutan Suara dimana calon-calon itu bertempat\ntinggal\npokok yang menyatakan, bahwa calon-calon itu terdaftar dalam daftar-pemilih\nuntuk desa-desa dalam lingkungan\ndaerahnya;\nc. surat keterangan Ketua Panitia Pemungutan Suara, dimana diadakan pencalonan\nyang menyatakan,\nbahwa pemilih-pemilih yang turut mengemukakan calon-calon\ndimaksud dalam huruf a di atas, terdaftar dalam\ndaftar-pemilih untuk desa-desa\ndalam lingkungan daerahnya; d.turunan surat-ketetapan Panitia Pemilihan Daerah\ndimaksud dalam pasal 33 ayat 2, yang dapat dip eroleh dengan percuma dari Panitia\nPemilihan Daerah tersebut.\n2. Untuk pencalonan pemilihan anggota-anggota Dewan Perwakilan Rakyat Daerah\nPropinsi, surat-surat\nketerangan dimaksud dalam ayat 1 huruf b dan c harus disahkan\nlebih dahulu oleh Ketua Panitia Pemilihan\nDaerah Kabupaten yang bersangkutan atau\nwakilnya, dengan membubuhi tanda-tangan dan cap Panitia Pemilihan Daerah\nKabupaten di atasnya.\n3. Jika seorang yang dicalonkan belum masuk dalam daftar-pemilih, maka ia didaftarkan,\nmeskipun waktu\ntersebut dalam pasal 12 sudah lampau."
+   }
+  },
+  {
+   "id": "ID-H101-A39",
+   "no": 39,
+   "noLabel": {
+    "id": "Pasal 39"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 39\nSurat pencalonan harus disampaikan sendiri oleh salah seorang yang turut\nmengemukakannya\nkepada Ketua Panitia Pemilihan Daerah atau wakilnya dari daerah\nswatantra untuk mana pemilihan Dewan Perwakilan Rakyat\nDaerah itu diadakan."
+   }
+  },
+  {
+   "id": "ID-H101-A40",
+   "no": 40,
+   "noLabel": {
+    "id": "Pasal 40"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 40\nJika surat pencalonan tidak ditolak menurut ketentuan-ketentuan dalam pasal 42, maka Ketua\nPanitia Pemilihan\nDaerah atau wakilnya tersebut dalam pasal 39 memberikan sehelai surat\ntanda-penerimaan kepada orang yang menyampaikannya."
+   }
+  },
+  {
+   "id": "ID-H101-A41",
+   "no": 41,
+   "noLabel": {
+    "id": "Pasal 41"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 41\nSusunan formulir surat pencalonan selanjutnya, susunan surat pernyataan dari calon,\nsusunan surat-keterangan\ndari Ketua Panitia Pemungutan Suara dimaksud dalam pasal 38\nayat 1, susunan surat tanda-p enerimaan dari Ketua Panitia\nPemilihan Daerah dimaksud\ndalam pasal 40 diatur dengan Peraturan Pemerintah, sedang mengenai cara dan waktu\npermintaan formulir surat pencalonan dan penyerahan surat pencalonan itu ditetapkan oleh\nPanitia Pemilihan Daerah,\ndengan mengingat ke tentuan-ketentuan dalam Peraturan\nPemerintah yang mengatur pelaksanaan undang-undang ini.\ns 3. Tentang Pemeriksaan Surat- pencalonan."
+   }
+  },
+  {
+   "id": "ID-H101-A42",
+   "no": 42,
+   "noLabel": {
+    "id": "Pasal 42"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 42\nSurat-pencalonan ditolak oleh Ketua Panitia Pemilihan Daerah tersebut dalam pasal 39 atau\nwakilnya,\napabila surat itu bukan pormulir surat-pencalonan menurut pasal 41 atau\ndisampaikan bukan oleh orang yang turut\nmengemukakan calon sendiri menurut pasal 39\natau tidak di dalam waktu yang ditentukan."
+   }
+  },
+  {
+   "id": "ID-H101-A43",
+   "no": 43,
+   "noLabel": {
+    "id": "Pasal 43"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 43\nSurat-surat-pencalonan yang tidak ditolak, dip eriksa oleh Panitia Pemilihan Daerah dimaksud\ndalam pasal 39, apakah surat-surat itu memenuhi syarat-syarat yang ditentukan dalam s1\ndan s 2 Bagian\nini.\n1. jika-satu daftar-kumpulan memuat nama calon hingga jumlah yang melebihi jumlah yang\nditentukan dalam\npasal 28 ayat 2, maka dari daftar itu dike luarkan nama calon mulai dari\nb awah, sehingga daftar itu memenuhi ketentuan\ntersebut;\n2. seorang calon, yang dengan bantuannya dikemukakan dalam lebih dari satu daftar\nuntuk suatu pemilihan\nanggota Dewan Perwakilan Rakyat Daerah, dikeluarkan dari\nsemua daftar;\n3. seorang calon dikeluarkan dari daftar, jika ia tidak memenuhi syarat-syarat untuk menjadi\nanggota,\natau jika tidak ada surat-pernyataan dimaksud dalam pasal 38 ayat 1 huruf a\natau surat-keterangan dimaksud dalam\npasal 38 ayat 1 huruf b dan c;\n4. jika jumlah pemilih yang mengemukakan suatu daftar tidak atau - karena pengeluaran -\ntidak lagi\nmemenuhi jumlah yang ditentukan dalam pasal 30, maka dari daftar itu dike\nluarkan nama-nama calon, dimulai dari\nbawah, sehingga daftar itu memenuhi kete tuan-\nketentuan dimaksud."
+   }
+  },
+  {
+   "id": "ID-H101-A44",
+   "no": 44,
+   "noLabel": {
+    "id": "Pasal 44"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 44\nSeorang pemilih yang turut mengemukakan calon dikeluarkan dari surat pencalonan, apabila:\n1. tidak ada tanda-tangan atau cap jarinya;\n2. tidak ada surat keterangan dimaksud dalam pasal 38 ayat 1 huruf c;\n3. ia turut mengemukakan lebih dari satu daftar untuk suatu pemilihan anggota Dewan\nPerwakilan Rakyat\nDaerah."
+   }
+  },
+  {
+   "id": "ID-H101-A45",
+   "no": 45,
+   "noLabel": {
+    "id": "Pasal 45"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 45\n1. Pengeluaran seorang calon dari daftar atau seorang pemilih dari suratpencalonan, oleh\nKetua Panitia\nPemilihan Daerah diberitahukan kepada orang yang menyampaikan surat-\npencalonan dimaksud dalam pasal 39 disertai\nalasan dan Ketua memberi kesempatan\nuntuk memperbaiki surat-pencalonan atau daftar, kecuali yang mengenai pasal\n43 angka\n2 dan pasal 44 angka 3.\n2. Pemilih yang dikeluarkan dari suatu surat-pencalonan menurut pasal 44 dapat\nmengadukan pengeluarannya\nkepada Ketua Panitia Pemilihan Daerah dimaksud dalam\npasal 49 dalam waktu yang ditentukan oleh Panitia Pemilihan\nDaerah.\n3. Pemilih yang turut mengemukakan calon yang dike luarkan menurut pasal 43 dapat\nmengadukan pengeluaran\nitu kepada Ketua Panitia Pemilihan Daerah dalam waktu\ndimaksud dalam ayat 2.\n4. Pengaduan-pengaduan yang tersebut dalam ayat 2 dan 3 diputuskan dalam suatu rap at\nterbuka."
+   }
+  },
+  {
+   "id": "ID-H101-A46",
+   "no": 46,
+   "noLabel": {
+    "id": "Pasal 46"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 46\nPemeriksaan surat-surat-pencalonan dan keputusan-keputusan mengenai pengaduan-\npengaduan tersebut dalam\npasal 45 ayat 2 dan 3 harus selesai dalam waktu yang ditentukan\ndengan Peraturan Daerah, dengan mengingat ketentuanketentuan\ndalam Peraturan\nPemerintah yang mengatur pelaksanaan undang-undang ini.\nBagian VII\nTentang-Daftar Calon\ns 1. Tentang daftar- calon sementara"
+   }
+  },
+  {
+   "id": "ID-H101-A47",
+   "no": 47,
+   "noLabel": {
+    "id": "Pasal 47"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 47\n1. Dari surat-surat pencalonan yang,dianggap sah, Panitia Pemilihan Daerah\ndimaksud dalam pasal 39,\nmenyusun daftar-calon sementara.\n2. Daftar-calon ini disusun sedemikian, sehingga nama calon-calon perseorangan nyata\nterpisah satu dari\nyang lain dan nyata terpisah dari nama calon-calon yang dikemukakan\nsebagai kumpulan, sedang daftar-daftar-kumpulan\nitu harus nyata terpisah satu dari yang\nlain pula, dengan memperhatikan adanya gabungan menurut pasal 29. Masing-masing\ndaftar dibubuhi tanda-gambar yang dikehendaki oleh daftar itu, kecuali kalau daftar itu\ntidak memakai\ntanda-gambar."
+   }
+  },
+  {
+   "id": "ID-H101-A48",
+   "no": 48,
+   "noLabel": {
+    "id": "Pasal 48"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 48\n1. Daftar calon sementara oleh Ketua Panitia Pemilihan Daerah dimaksud dalam pasal 39,\ndiumumkan dalam\ndaerah-pemilihannya sekurang -kurangnya dengan memuatkannya\ndalam satu harian yang diterbitkan ditempat kedudukan\nPanitia Pemilihan Daerah, atau -\njika harian yang dimaksud itu tidak ada - dengan memuatkannya dalam suatu harian\nlain\nyang oleh Panitia Pemilihan Daerah dianggap terbanyak dibaca dalam daerah itu, atau\ndengan\ncara lain yang ditetapkan oleh Panitia Pemilihan Daerah tersebut.\n2. Selain daripada dengan cara pengumuman tersebut dalam ayat 1, maka Ketua Panitia\nPemilihan Daerah\ndimaksud dalam pasal 39 berusaha supaya selembar dari harian itu\natau selembar dari pengumuman dengan cara lain\ndimaksud dalam ayat 1, dapat dilihat\ndi tiap-tiap kantor Pemungutan Suara oleh khalayak ramai."
+   }
+  },
+  {
+   "id": "ID-H101-A49",
+   "no": 49,
+   "noLabel": {
+    "id": "Pasal 49"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 49\nPenyusunan daftar-calon sementara diatur dengan Peraturan Pemerintah, sedang\npengumumannya dimaksud dalam pasal 48, dilakukan dalam waktu yang ditetapkan ole h\nPanitia Pemilihan Dae rah,\nde ng an me ng ing at ke te ntuan-ke te ntuan dalam Persatuan\nPemerintah yang mengatur pelaksanaan undang-undang ini."
+   }
+  },
+  {
+   "id": "ID-H101-A50",
+   "no": 50,
+   "noLabel": {
+    "id": "Pasal 50"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 50\nSe tiap orang dap at me ng e mukakan keb e ratan atas isi daftar-calon sementara kepada\nPanitia Pemilihan\nDaerah dimaksud dalam pasal 39 dalam waktu yang ditentukan dalam\nPeraturan Daerah, dengan mengingat ketentuan-ketentuan\ndalam Peraturan Pemerintah\nyang mengatur pelaksanaan undang-undang ini.\ns 2. Tentang daftar- calon tetap"
+   }
+  },
+  {
+   "id": "ID-H101-A51",
+   "no": 51,
+   "noLabel": {
+    "id": "Pasal 51"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 51\nPanitia Pemilihan Daerah dimaksud dalam pasal 39 memeriksa daftar-calon sementara\ndalam suatu rap at\nterbuka. Daftar yang tidak memakai tanda-gambar dib eri tanda-gamb ar.\nJika suatu keberatan yang dimaksud dalam pasal\n50 dianggap benar, maka daftar-calon\nsementara yang bersangkutan diubah seperlunya."
+   }
+  },
+  {
+   "id": "ID-H101-A52",
+   "no": 52,
+   "noLabel": {
+    "id": "Pasal 52"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 52\n1. Panitia Pemilihan Daerah dimaksud dalam pasal 51 memberi nomor pada tiaptiap daftar-\nperseorangan\ndan daftar-kumpulan, dengan memperhatikan penggabungan daftar\ndimaksud dalam pasal 29 dan 37. Pemberian nomor\nitu dilakukan dengan jalan undian.\n2. Kemudian Panitia Pemilihan Daerah dimaksud dalam ayat 1 menyusun daftarcalon tetap,\ndengan mengindahkan\nketentuan-ketentuan dalam pasal 47 dan dengan membubuhi\nnomor daftar dimaksud dalam ayat 1 pada tiap -tiap daftar\nperseorangan dan daftar-\nkumpulan."
+   }
+  },
+  {
+   "id": "ID-H101-A53",
+   "no": 53,
+   "noLabel": {
+    "id": "Pasal 53"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 53\nDaftar-daftar-calon tetap itu oleh Ketua Panitia Pemilihan Daerah dimaksud dalam p asal 51\ndiumumkan\ndi daerahnya. Panitia Pemilihan Daerah menyampaikan kepada tiap-tiap Panitia\nPemungutan Suara cetakan daftar-calon\ntetap sedemikian banyak, sehingga tiap-tiap Panitia\nPemungutan Suara memperoleh jumlah yang diperlukan untuk daerahnya."
+   }
+  },
+  {
+   "id": "ID-H101-A54",
+   "no": 54,
+   "noLabel": {
+    "id": "Pasal 54"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 54\n1. Pengumuman daftar-daftar-calon tetap dimaksud dalam p asal 53 kalimat p ertama\ndilakukan\ndengan menempatkannya dalam Lembaran Daerah.\n2. Apabila Lembaran Daerah tersebut pada ayat 1 belum ada, maka pengumuman\ndilakukan dengan cara\nlain yang ditentukan dengan Peraturan Daerah, dengan\nmengingat ketentuan-ketentuan dalam Peraturan Pemerintah\nyang mengatur\npelaksanaan undang-undang ini."
+   }
+  },
+  {
+   "id": "ID-H101-A55",
+   "no": 55,
+   "noLabel": {
+    "id": "Pasal 55"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 55\nPemeriksaan daftar-calon sementara, penyusunan daftar-calon tetap, pengumuman dan\npengiriman daftar-calon\ntetap dilakukan dalam waktu yang ditentukan dengan Peraturan\nDaerah, dengan mengingat ketentuan-ketentuan dalam Peraturan\nPemerintah yang mengatur\npelaksanaan undang-undang ini.\nBagian VIII\nTentang Pemungutan Suara Dan Penghitungan Suara\ns . 1. Tentang Pemungutan Suara"
+   }
+  },
+  {
+   "id": "ID-H101-A56",
+   "no": 56,
+   "noLabel": {
+    "id": "Pasal 56"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 56\nJika dalam suatu daerah swatantra untuk mana Pemilihan anggota Dewan Perwakilan Rakyat\nDaerah diadakan\njumlah calon yang masuk dalam daftar-calon tetap sama dengan atau\nkurang daripada jumlah anggota yang ditetapkan untuk\ndaerah swatantra yang bersangkutan,\nmaka dalam daerah-pemilihan itu tidak diadakan pemungutan suara, dan semua calon\ndianggap telah terpilih menjadi anggota."
+   }
+  },
+  {
+   "id": "ID-H101-A57",
+   "no": 57,
+   "noLabel": {
+    "id": "Pasal 57"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 57\n1. Pemungutan suara dilakukan dalam daerah pemungutan suara di temp at atau di tempat-\ntempat pemberian\nsuara, yang ditetapkan oleh Panitia Pemilihan Daerah dimaksud dalam\npasal 39, dengan mengingat jarak dan jumlah\npemilih, dan dalam waktu yang ditetapkan\ndengan Peraturan Daerah, dengan mengingat ketentuan-ketentuan dalam\nPeraturan\nPemerintah yang meng atur pelaksanaan undang -undang ini.\n2. Pemungutan suara di tempat pemberian suara diselenggarakan dalam rapat Panitia\nPemungutan Suara,\nyang selama pemberian suara dilakukan, dihadiri oleh sekurang-\nkurangnya tiga orang anggota, yang merupakan\nPenyelenggara Pemungutan Suara,\nyang susunan keanggotaannya terdiri dari berbagai aliran p olitik/organisasi.\n3. Penambahan anggota Panitia Pemungutan Suara untuk menyelenggarakan pemungutan\n-suara, dilakukan\ndengan sedapat-dapatnya mengambil anggotaanggota Panitia\nPendaftaran Pemilih, sedang waktu pemberhentian\nanggotaanggota itu ditetapkan oleh\nPanitia Pemilihan Daerah yang bersangkutan, dimaksud dalam pasal 20 ayat 3.\n4. Panitia Pemilihan Dae rah d imaksud d alam p asal 39 me ne tap kan untuk tiap -tiap\ntempat pemberian\nsuara, pemilih dari desa atau desa-desa mana yang akan\nmengeluarkan suaranya pada tiap-tiap tempat pemberian suara\nitu. Dalam hal pemilihan\nDewan Perwakilan Rakyat Daerah Swatantra Propinsi, penetapan tersebut dilakukan atas\nusul Panitia Pemilihan daerah Kabupaten dalam daerah Propinsi itu. Ketua Panitia\nPemungutan Suara\nmenunjuk di antara anggotaang g ota Panitia se orang Ketua untuk\nmasing -masing Penyelenggara Pemungutan Suara\ndi tiap-tiap tempat pemberian suara."
+   }
+  },
+  {
+   "id": "ID-H101-A58",
+   "no": 58,
+   "noLabel": {
+    "id": "Pasal 58"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 58\n1. Pemilih memberikan suaranya kepada seorang calon, yang dikemukakan sebagai calon-\nperseorangan,\natau yang dikemukakan dalam suatu daftarkumpulan, atau. kepada suatu\ndaftar-kumpulan yang namanya atau tandagambarnya\ntercantum dalam daftar-calon\ntetap.\n2. Untuk me mberikan suaranya pe milih harus datang se ndiri di temp at p emb erian suara\nyang ditentukan\nmenurut pasal 57 ayat 4."
+   }
+  },
+  {
+   "id": "ID-H101-A59",
+   "no": 59,
+   "noLabel": {
+    "id": "Pasal 59"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 59\n1. surat suara untuk memberikan suara memuat:\na. nama badan yang dip ilih;\nb. tahun diadakan pemilihan;\nc. nama daerah pemungutan suara;\nd. nama tempat pemberian suara;\ne. nomor, nama dan tanda-gambar masing-masing daftar;\nf. tanda yang menjamin tidak adanya pemalsuan.\n2. Pemilih memberikan suara kepada suatu daftar dengan menusuk tanda-gambar daftar itu\nsampai\ntembus. Pemilih memberikan suara kepada seorang calon dengan menulis nomor\ndaftar dan nomor serta nama dari calon\nitu dalam ruangan yang disediakan untuk itu\ndalam surat suara. Untuk memudahkan pemilih menulis nama calon yang\ndip ilihnya,\nmaka dalam tiap-tiap ruangan pemungutan suara dipasang daftar-calon tetap.\n3. Surat suara disusun oleh Panitia Pemilihan Daerah sep erti berikut:\na. Nomor, nama dan tanda-gambar masing-masing daftar sep erti dimaksud dalam ayat\n1 huruf e di atas disusun menurut cara yang ditetapkan dalam penyusunan daftar\ncalon tetap.\nb. Nama daerah pemungutan suara dan nama temp at pemberian suara diisi oleh Ketua\nPenyelenggara\nPemungutan Suara;\nc. Bentuk dan tempat dalam surat-surat dari tanda yang menjamin tidak adanya\npemalsuan,\nditetapkan dengan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H101-A60",
+   "no": 60,
+   "noLabel": {
+    "id": "Pasal 60"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 60\nSeorang pemilih yang mengisi surat-suara dengan keliru dapat satu kali meminta surat-suara\nbaru, setelah\nmenyerahkan surat-suara yang diisi dengan keliru kepada pimpinan rapat\npemungutan suara. Surat-suara yang dikembalikan\nitu oleh Ketua rap at diberi tanda, bahwa\nsurat-suara itu tidak terpakai lagi."
+   }
+  },
+  {
+   "id": "ID-H101-A61",
+   "no": 61,
+   "noLabel": {
+    "id": "Pasal 61"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 61\n1. Untuk pemberian suara harus disediakan suatu ruangan atau lebih, sehingga\npemberian suara dapat\ndijalankan dengan cara rahasia.\n2. Surat-suara yang telah dipergunakan oleh seorang pemilih, oleh pemilih itu sendiri\ndimasukkan ke\ndalam sebuah kotak suara, yang ditempatkan sedemikian, sehingga\ndapat dilihat oleh hadirin pada rapat pemungutan\nsuara itu.\n3. Seorang pemilih, yang berhubung dengan cacat badan tidak dapat mengisi surat-suara,\ndapat meminta\npertolongan kepada Ketua rapat pemungutan suara. Ketua tersebut\nmengisi surat-suara dan memasukkannya ke dalam\nkotak suara dengan disaksikan oleh\nanggota-anggota Penyelenggara Pe mungutan Suara yang hadir."
+   }
+  },
+  {
+   "id": "ID-H101-A62",
+   "no": 62,
+   "noLabel": {
+    "id": "Pasal 62"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 62\nSusunan ruangan pemungutan suara, cara memberikan surat-suara kepada pemilih, cara\nmemasukkan ke dalam\nkotak suara, bentuk kotak suara dan segala se suatu yang menjamin\nkejujuran, kerahasiaan, keb eb asan dan ketenangan\ndalam pelaksanaan pemungutan suara\ndiatur dengan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H101-A63",
+   "no": 63,
+   "noLabel": {
+    "id": "Pasal 63"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 63\n1. Ketua Penyelenggara Pemungutan Suara mengusahakan, supaya umum mengetahui\ntentang diadakannya\nrapat pemungutan suara, serta waktu dan tempatnya.\n2. Ketua tersebut menjaga ketertiban dalam ruangan pemungutan suara menurut aturan-\naturan yang -dite\ntap kan deng an Pe raturan Pemerintah. Peraturan Pemerintah\nmengatur penghentian pemungutan suara, jika jalan pemungutan\nsuara terhalang, atau\nkalau pemungutan suara diteruskan tidak terjamin sahnya, b erhub ung deng an ketertib\nan terg ang gu, dan meng atur ke lanjutan p emungutan suara yang dihentikan itu."
+   }
+  },
+  {
+   "id": "ID-H101-A64",
+   "no": 64,
+   "noLabel": {
+    "id": "Pasal 64"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 64\nTiap-tiap majikan wajib memberi kesempatan kepada pekerja-pekerja yang berhak\nmemilih untuk memberikan\nsuaranya. Kewajiban itu tidak berlaku terhadap yang berhubung\ndengan pekerjaannya pada waktu pemungutan suara tidak\nmungkin berada di tempat,\ndimana ia boleh memberikan suaranya."
+   }
+  },
+  {
+   "id": "ID-H101-A65",
+   "no": 65,
+   "noLabel": {
+    "id": "Pasal 65"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 65\nSetelah waktu untuk pemberian suara berakhir, Penyelenggara Pemungutan Suara segera\nmembuka surat-surat-suara\nyang telah dipergunakan oleh pemilih-pemilih. Surat-suara yang\nberlainan dari yang ditetapkan oleh ketentuan-ketentuan\ndalam undang-undang ini atau\ndalam peraturan-peraturan pelaksanaan undang-undang ini, tidak berharga. Selanjutnya\ntidaklah berharga surat-suara, kalau:\na. suara diberikan kepada lebih dari seorang calon atau kepada lebih dari suatu daftar-\nkumpulan;\nb. suara tidak terang maksudnya diberikan kepada siapa;\nc. pemberian suara tidak dilakukan menurut ketentuan-ketentuan dalam undangundang ini\natau dalam\nperaturan pelaksanaan undang-undang ini atau dalam peraturan pelaksanaan\nundang -undang ini;\nd. di dalamnya ditulis nama pemilih atau catatan lain."
+   }
+  },
+  {
+   "id": "ID-H101-A66",
+   "no": 66,
+   "noLabel": {
+    "id": "Pasal 66"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 66\nPenyelenggara Pemungutan Suara mengumpulkan surat-surat-suara yang berharga, daftar\ndemi daftar dan\nmenghitung:\na. dari tiap-tiap daftar-perseorangan, jumlah suara yang diberikan kepada calon dalam\ndaftar itu;\nb. dari tiap-tiap daftar-kumpulan:\na. jumlah suara yang lang sung diberikan kepada daftar;\nb. jumlah suara yang diberikan kepada masing-masing calon;\nc. jumlah suara yang diperoleh daftar dengan langsung dan dengan meliwati calon-\ncalon."
+   }
+  },
+  {
+   "id": "ID-H101-A67",
+   "no": 67,
+   "noLabel": {
+    "id": "Pasal 67"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 67\nPemilih-pemilih boleh hadir pada pembukaan surat-surat-suara dan penghitungan suara,\nselama dan sekedar\nketertib an dan pekerjaan-pekerjaan tidak terganggu oleh karenanya,\ndengan ketentuan sekurang-kurangnya dapat hadir\nwakil-wakil partai/organisasi yang ikut\nmencalonkan. Pembukaan Surat-surat suara dan p enghitung an suara d ilakukan\ndengan\ncara sedemikian, sehingga dapat diikuti oleh pemilih-pemilih yang hadir. Pemilih yang hadir\nboleh\nmengemukakan keberatan, yang seketika itu juga diputus oleh Penyelenggara\nPemungutan Suara."
+   }
+  },
+  {
+   "id": "ID-H101-A68",
+   "no": 68,
+   "noLabel": {
+    "id": "Pasal 68"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 68\n1. Dari pemungutan suara dan penghitungan suara segera dibuat berita acara, yang\nditanda-tangani oleh\nsemua anggota Penyelenggara Pemungutan Suara yang hadir.\nSurat catatan itu disebut Berita Acara Pemungutan Suara\ndan memuat:\na. nama daerah swatantra untuk mana diadakan pemilihan;\nb. nama daerah-pemungutan suara;\nc. nama tempat dimana rapat pemungutan suara dilangsungkan dan nama-nama desa\nyang masuk dalam\nlingkungan tempat pemungutan suara itu;\nd. hari dan tanggal pemberian suara;\ne. nama anggota-anggota Panitia Pemungutan Suara yang hadir pada rapat\npemungutan suara dengan\ndisebutkan Ketuanya;\nf. jumlah pemilih yang terdaftar;\ng. jumlah surat-suara yang diterima untuk rapat pemungutan suara;\nh. jumlah pemilih yang memberikan suara; s.\ni. jumlah surat-suara yang tidak dip ergunakan;\nj. jumlah surat-suara yang dikembalikan;\nk. jumlah surat-suara yang tidak berharga.\nl. jumlah suara sah yang diberikan;\nm. jumlah suara yang diberikan kepada calon dalam daftarperseorangan.\nn. jumlah suara yang lang sung diberikan kepada masing-masing daftar kump ulan;\no. jumlah suara yang diberikan kepada masing-masing calon dalam masing-masing\ndaftar-kumpulan;\np. jumlah suara yang dip eroleh masing-masing daftar-kumpulan. 2. Keberatan yang\ndikemukakan\noleh pemilih, dimaksud dalam pasal 67, dan keputusan atas\nkeberatan itu dimuat dalam berita acara itu."
+   }
+  },
+  {
+   "id": "ID-H101-A69",
+   "no": 69,
+   "noLabel": {
+    "id": "Pasal 69"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 69\n1. Berita Acara Pemungutan Suara dan salinannya, yang juga ditanda-tangani oleh semua\nanggota Penyelenggara\nPemungutan Suara yang hadir, bersama-sama surat-surat-suara\nyang berharga maupun yang tidak berharga atau yang tidak\ndip akai ataupun yang diberi\ntanda tidak terpakai lagi, oleh Ketua Penyelenggaraan Pemungutan Suara disampaikan\nkepada Ketua Panitia Pemungutan Suara.\n2. Satu rangkap dari Berita Acara Pemungutan Suara dimaksud dalam pasal 68 oleh Ketua\nPenyelenggara\nPemungutan Suara dikirim langsung kepada Panitia Pemilihan Daerah\ndimaksud dalam pasal 39 dengan perantaraan Ketua\nPanitia Pemungutan Suara.\n3. Panitia Pemungutan Suara memeriksa berita-berita acara yang diterima oleh Ketuanya\ndan membetulkannya\ndimana perlu. Panitia Pemungutan Suara me mb e rikan surat-\nsurat-suara,jika diangg ap p erlu.\n4. Panitia Pemungutan Suara menghitung seperti yang ditentukan untuk Penyelenggara\nPemungutan Suara\ndalam pasal 66 dan menghitung jumlah suara yang dikeluarkan\ndalam daerah-pemungutan suaranya. Dari perbuatan-perb\nuatan ini dibuat berita acara,\nyang ditanda-tangani oleh semua anggota yang hadir.\n5. Setelah menyelesaikan pekerjaannya seperti tersebut di atas Ketua Panitia Pemungutan\nSuara mengirim\nsurat-surat yang dimaksud dalam ayat 1 bersama dengan berita acara\nyang dibuatnya kepada Panitia Pemilihan Daerah\nyang dimaksud dalam pasal 39.\n6. Dalam hal pemilihan Dewan Perwakilan Rakyat Daerah swatantra Propinsi atas\nkehendak Panitia\nPemilihan Daerah tersebut pengiriman surat-surat yang tersebut dalam\nayat 5 dapat dilakukan kepada Panitia Pemilihan\nDaerah Kabupaten. Berita acara yang\nditerima Panitia Pemilihan Kabupaten menurut ayat 6 diperiksa Panitia tersebut\ndan\ndibetulkannya dimana perlu. Surat-surat-suara diperiksa jika dianggap perlu.\n7. Dalam hal demikian Panitia Pemilihan Kabupaten menghitung seperti yang ditentukan\nuntuk\nPanitia Pemungutan Suara dalam ayat 4 dan menghitung jumlah suara yang dike\nluarkan dalam daerahnya. Dari\nperbuatan-perb uatan ini dibuat berita acara yang ditanda-\ntangani oleh semua anggota yang hadir.\n8. Setelah menyelesaikan pekerjaan seperti tersebut di atas Ketua Panitia Pemilihan\nKabupaten mengirim\nsurat-surat yang diterimanya dari Panitia Pemungutan Suara seperti\ntersebut dalam ayat 6 bersama dengan berita\nacara yang dibuatnya, kep ada Panitia Pe\nmilihan Prop insi."
+   }
+  },
+  {
+   "id": "ID-H101-A70",
+   "no": 70,
+   "noLabel": {
+    "id": "Pasal 70"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 70\nCara pembukaan surat-surat-suara, cara penghitungan suara dan cara pengiriman\nberita acara serta surat-surat-suara\ndiatur lebih lanjut dengan Peraturan Pemerintah.\ns 2. Tentang ketentuan khusus mengenai pemungutan\nsuara."
+   }
+  },
+  {
+   "id": "ID-H101-A71",
+   "no": 71,
+   "noLabel": {
+    "id": "Pasal 71"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 71\n1. Menyimpang dari ketentuan tersebut dalam pasal 58 ayat 2, maka pemilih yang dimaksud\ndalam pasal\n5 dapat memberikan suaranya dengan cara lain yang ditentukan dengan\nPeraturan daerah, dengan mengingat ketentuan-ketentuan\ndalam Peraturan Pemerintah\nyang mengatur pelaksanaan undang-undang ini, setelah mendengar pertimbangan\nkomandan kesatuan yang bersangkutan.\n2. Pemilih-pemilih lain dari yang dimaksud dalam ayat 1 pasal ini, yang karena keadaan\nmemaksa harus\nberada di luar tempat pemberian suara yang ditunjuk bag inya me nurut\nke te ntuan-ke te ntuan undang -undang ini,\ndap at me mb e rikan suaranya pada tempat\npemberian suara lain dalam daerah untuk mana Dewan Perwakilan Rakyat Daerah\ndib\nentuk de ng an me nyerahkan kutip an daftar -pemilih mengenai namanya kepada Ketua\nPenyelenggara\nPemungutan Suara yang bersangkutan.\n3. Rumah sakit, rumah tahanan dan kamp tawanan merupakan tempat pemberian suara\ndari daerah pemungutan\nsuara, dimana rumah sakit, rumah tahanan dan kamp tawanan\nitu berada, bagi pemilih-pemilih pendiam rumah sakit,\nrumah tahanan dan kamp tawanan\nitu, yang terdaftar di tempat itu.\n4. Peraturan Pemerintah memberi petunjuk-petunjuk seperlunya mengenai ketentuan-\nketentuan yang dimaksud\ndalam ayat 1, 2 dan 3.\ns . 3. Tentang ketentuan mengenai pemungutan suara. tertunda"
+   }
+  },
+  {
+   "id": "ID-H101-A72",
+   "no": 72,
+   "noLabel": {
+    "id": "Pasal 72"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 72\n1. Jika berhubung dengan keamanan sesuatu Panitia Pemungutan Suara tidak dapat\nmengadakan pemungutan\nsuara di suatu tempat pemberian suara atau lebih, maka\nPanitia Pemungutan Suara yang bersangkutan memberitahukannya\ndengan segera\nkepada Panitia Pemilihan Daerah dimaksud dalam pasal 39. Dalam hal demikian Panitia\nPemilihan Daerah tersebut dapat memerintahkan kepada Panitia Pemungutan Suara\nuntuk mengadakan\npemungutan suara tertunda.\n2. Ketentuan-ketentuan mengenai pemungutan suara ulangan yang ditetapkan berdasarkan\npasal 73 ayat 3\ndan 4 berlaku bagi pemungutan suara tertunda itu.\nBagian IX\nTentang Penetapan Hasil Pemilihan\ns 1. Tentang\npembagian kursi-. Kursi"
+   }
+  },
+  {
+   "id": "ID-H101-A73",
+   "no": 73,
+   "noLabel": {
+    "id": "Pasal 73"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 73\n1. Panitia Pemilihan Daerah dimaksud dalam pasal 39 segera memeriksa beritaberita acara\nyang diterimanya\ndari Ketua Panitia Pemungutan Suara dan me nyelidiki keb e ratan-keb\ne ratan dan kep utusannya yang dimuat dalam\nsuratsurat itu. Panitia Pemilihan Daerah\ntersebut memeriksa surat-surat suara, jika dianggap perlu.\n2. Panitia Pemilihan Daerah dimaksud dalam ayat 1 dapat memerintahkan kepada suatu\nPanitia Pemungutan\nSuara untuk mengadakan p emungutan suara ulangan di seluruh\ndaerah-pemungutan suaranya atau di suatu atau di beberapa\ntempat dimaksud dalam\npasal 57 ayat 1, apabila hasil pemungutan suara tidak dapat dipertanggung jawabkan.\n3. Dalam hal Panitia Pemilihan Daerah itu memerintahkan mengadakan p emungutan suara\nulangan, maka tanggal\nuntuk melakukan ulangan itu dite tap kan sedemikian, sehingga\npenetapan hasil pemilihan tidak terlambat karenanya.\n4. Peraturan Pemerintah mengatur lebih lanjut hal-hal mengenai pemungutan suara\ndimaksud dalam ayat\n3."
+   }
+  },
+  {
+   "id": "ID-H101-A74",
+   "no": 74,
+   "noLabel": {
+    "id": "Pasal 74"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 74\n1. Panitia Pemilihan Daerah dimaksud dalam pasal 39 menghitung sep erti yang\nditentukan untuk Panitia\nPenyelenggara Pemungutan Suara dalam pasal 66, menjumlah\nsuara yang diperoleh daftar-daftar yang digabungkan dan\nmenghitung jumlah suara\nyang diberikan dalam daerah-pemilihan itu.\n2. Kemudian Panitia Pemilihan Daerah dimaksud dalam ayat 1 menetapkan pembagi-\npemilihan, yaitu bilangan\nbulat hasil-bagi yang diperoleh dari pembagian jumlah suara\nyang diberikan dalam daerah-pemilihan itu dengan\njumlah anggota yang ditetapkan\nuntuk daerah swatantra itu."
+   }
+  },
+  {
+   "id": "ID-H101-A75",
+   "no": 75,
+   "noLabel": {
+    "id": "Pasal 75"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 75\n1. Suatu daftar memperoleh kursi sejumlah bilangan bulat dari hasil-bagi yang diperoleh\ndari pembagian\njumlah suara yang diperoleh daftar itu dengan bilangan pembagi-\npemilihan.\n2. Suatu daftar hanya dapat memperoleh kursi paling b anyak sama dengan jumlah calon\nyang namanya tercantum\ndalam daftar itu.\n3. Daftar yang memperoleh jumlah suara kurang daripada bilangan pembagipemilihan,\ntidak mendapat kursi\ndalam pembagian kursi-kursi pertama.\n4. Apabila dengan pembagian sebagai tersebut dalam ayat 1, 2 dan 3 semua kursi yang\nditetapkan untuk\nsuatu daerah swatantra belum terbagi habis, maka sisa kursi itu\ndiberikan kepada gabungan daftar menurut pasal 37,\nsejumlah b ilangan bulat yang\ndiperoleh daripada pembagian jumlah sisa-sisa suara dari daftar-daftar yang digabungkan\ndengan bilangan pemb agi-pemilihan dimaksud dalam pasal 74 ayat 2.\n5. Apabila dengan pembagian menurut ayat 1, 2, 3 dan 4 semua kursi yang ditetapkan\nuntuk suatu daerah\nswatantra belum juga terbagi habis, maka kursikursi sisa dibagikan\nsekursi demi sekursi kepada daftar/gabungan\ndaftar yang menunjukkan sisa suara\nterbanyak, hingga semua kursi-sisa terbagi habis. Jika perlu, antara daftar/gabungan\ndaftar yang menunjukkan sisa suara yang sama diadakan undian.\n6. Kursi-kursi yang diperoleh gabungan daftar menurut pemb agian tersebut dalam ayat 4\ndan 5, diberikan\nkepada salah satu daftar dari gabungan itu berdasarkan persetujuan\nyang bersangkutan."
+   }
+  },
+  {
+   "id": "ID-H101-A76",
+   "no": 76,
+   "noLabel": {
+    "id": "Pasal 76"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 76\nPemb agian kursi-kursi dimaksud dalam pasal 75 dilakukan dalam suatu rapat yang terb uka\nuntuk umum\nse lama dan se ke dar kete rtib an dari p eke rjaan-pekerjaan tidak terganggu\noleh karenanya. Pembagian kursi-kursi\nitu dilakukan dengan cara sedemikian, sehingga\ndapat diikuti oleh hadirin. Orang yang hadir boleh mengemukakan keberatan,\nyang seketika\nitu juga diputus oleh Panitia Pemilihan Daerah yang bersangkutan dimaksud dalam pasal 39."
+   }
+  },
+  {
+   "id": "ID-H101-A77",
+   "no": 77,
+   "noLabel": {
+    "id": "Pasal 77"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 77\n1. Dari penghitungan suara dan pemb agian kursi-kursi segera dibuat b erita acara, yang\nditanda-tangani\noleh semua anggota Panitia Pemilihan Daerah dimaksud dalam pasal 39\nyang hadir. Berita acara itu disebut Berita\nAcara Pembagian Kursi, yang didalamnya atau\ndalam lampirannya membuat keterangan tentang:\na. nama daerah swatantra;\nb. nama daerah-daerah-pemungutan suara yang masuk dalam lingkungan\ndaerah swatantra\nitu;\nc. hari dan tanggal penetapan hasil pemilihan;\nd. nama semua anggota yang hadir dalam rapat penetapan hasil pemilihan\ndengan disebutkan Ketuanya;\ne. jumlah pemilih yang terdaftar dan jumlah suara yang dib erikan dalam masing-masing\ndaerah\npemungutan suara;\nf. jumlah suara yang diberikan dalam daerah swatantra itu:\ng. jumlah anggota Dewan Perwakilan Rakyat Daerah yang ditetapkan untuk daerah\nswatantra itu;\nh. pembagi-pemilihan untuk daerah swatantra itu,\ni. jumlah suara dalam daerah itu yang dib erikan kepada masing-masing daftar-\nperseorangan;\nj. jumlah suara dalam daerah itu yang lang sung diberikan kepada masing-masing\ndaftar Kumpulan:\nk. jumlah suara dalam daerah itu yang dib erikan kepada masing-masing calon dalam\nmasing-masing\ndaftar kumpulan;\nl. jumlah suara dalam daerah itu yang diperoleh masing-masing daftar kump ulan;\nm. jumlah kursi yang dip eroleh masing-masing daftar sesudah pembagian kursi\nmenurut ketentuan\npasal 75 ayat 1, 2 dan 3\nn. jumlah kursi yang belum terbagi,\no. jumlah sisa suara dari tiap-tiap daftar;\np. jumlah sisa suara dari tiap-tiap daftar dalam suatu gab ungan daftar dan jumlah sisa\nsuara\nseluruhnya dalam gabungan daftar itu;\nq. jumlah kursi-sisa yang dip eroleh gabungan daftar pada pembagian kursi-sisa\nmenurut ketentuan\np asal 7 ayat 4,\nr. jumlah kursi-sisa yang masih belum terbagi sesudah pembagian menurut ketentuan\npasal\n75 ayat 4;\ns. jumlah sisa suara dari masing-masing gabungan daftar sesudah pembagian kursi-\nsasa menurut\nketentuan pasal 75 ayat 4;\nt. jumlah kursi-sisa yang diperoleh tiap-tiap daftar/gabungan daftar sesudah\npembagian kursi-sisa menurut ketentuan pasal 75 ayat 5;\nu. jumlah kursi seluruhnya yang dip eroleh tiap-tiap daftar, dengan memperhatikan\nketentuan\npasal 75 ayat 6.\n3. Keberatan yang dikemukakan seperti dimaksud dalam pasal 76 dan keputusan atas\nkeberatan itu dimuat\ndalam berita acara. (3) Berita Acara Pembagian Kursi tersebut\ndisimpan oleh Ketua Panitia Pemilihan Daerah."
+   }
+  },
+  {
+   "id": "ID-H101-A78",
+   "no": 78,
+   "noLabel": {
+    "id": "Pasal 78"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 78\n1. Salinan Berita Acara Pembagian Kursi, yang juga ditanda-tangani oleh semua anggota\nPanitia\nPemilihan Daerah dimaksud dalam pasal 39 yang hadir, dikirim kepada Dewan\nPerwakilan Rakyat Daerah yang bersangkutan\ndan kepada Menteri Dalam Negeri.\n2. Isi berita acara, kecuali keberatan-keberatan dimaksud dalam pasal 76, oleh Panitia\nPemilihan Daerah\ndimaksud dalam pasal 39 diumumkan dalam daerahnya menurut cara\nseperti dimaksud dalam pasal 48 ayat 1."
+   }
+  },
+  {
+   "id": "ID-H101-A79",
+   "no": 79,
+   "noLabel": {
+    "id": "Pasal 79"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 79\nCara melaksanakan penghitungan suara dan pembagian kursi-kursi pertama serta kursi-kursi\nsisa diatur lebih\nlanjut dengan peraturan Pemerintah.\ns 2. Tentang penetapan calon-calon yang terpilih"
+   }
+  },
+  {
+   "id": "ID-H101-A80",
+   "no": 80,
+   "noLabel": {
+    "id": "Pasal 80"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 80\nPanitia Pemilihan Daerah dimaksud dalam pasal 39 menetapkan buat daerah-\npemilihannya calon-calon yang\nterpilih menjadi anggota berdasarkan pasal 81."
+   }
+  },
+  {
+   "id": "ID-H101-A81",
+   "no": 81,
+   "noLabel": {
+    "id": "Pasal 81"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 81\n1. Apabila suatu daftar memperoleh kursi sejumlah sama dengan jumlah calon dalam\ndaftar itu, maka semua\ncalon terpilih menjadi anggota.\n2. Ap ab ila jumlah kursi yang dip erole h suatu daftar kurang dari jumlah calon dalam daftar\nitu,\nmaka yang terpilih ialah calon-calon yang memperoleh suara sekurang -kurangnya\nsejumlah bilangan pembagi-pemilihan\ndaftar. Pembagi - pemilihan daftar ialah bilangan\nhasil-bagi dari daftar pembagian jumlah suara yang diperoleh\ndaftar itu dengan jumlah\nkursi yang diperolehnya. Suara yang diberikan kepada daftar dianggap diberikan kepada\ncalon pertama dalam daftar itu.\n3. Jika belum semua kursi ditempati dengan cara tertera dalam ayat 2, atau jika tidak\nseorang calonpun\nmemperoleh suara sejumlah bilangan pembagipemilihan daftar,\nmaka yang terpilih untuk menempati kursi-kursi yang\nlowong itu ialah calon atau calon-\ncalon menurut urutan tempat mereka dalam daftar, d eng an ke te ntuan, b ahwa\nyang\ndidahulukan ialah calon-calon yang memperoleh suara sekurang-kurangnya seperdua\ndari bilangan\npembagi-pemilihan daftar.\n4. Seorang calon yang menyatakan kepada Panitia Pemilihan Daerah dimaksud dalam\npasal 39 tidak bersedia\nditetapkan terpilih untuk suatu daftar, tidak ditetapkan terpilih\nmenjadi anggota untuk daftar itu. Suara yang\ndiperoleh calon tersebut dianggap\ndiberikan langsung kepada daftar yang bersangkutan."
+   }
+  },
+  {
+   "id": "ID-H101-A82",
+   "no": 82,
+   "noLabel": {
+    "id": "Pasal 82"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 82\nKetentuan dalam pasal 76 dengan perubahan seperlunya berlaku untuk penetapan calon-\ncalon yang\nterpilih."
+   }
+  },
+  {
+   "id": "ID-H101-A83",
+   "no": 83,
+   "noLabel": {
+    "id": "Pasal 83"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 83\nPanitia Pemilihan Daerah dimaksud dalam pasal 80 mengatur dari tiap-tiap daftar dalam\ndaftar baru urutan\ncalon sedemikian, sehingga calon-calon yang memperoleh jumlah suara\nyang dip erlukan untuk terpilih ditempatkan paling\natas dalam urutan daftar itu, kemudian\nditempatkan menurut urutan daftar semula calon-calon yang memperoleh jumlah\nsuara\nsedikit-dikitnya seperdua dan jumlah suara dimaksud, selanjutnya ditempatkan calon-calon\nyang lain\nmenurut urutan semula pula.\nBagian X.\nTentang Pengumuman\nHasil Pemilihan Dan Pemberitahuan Kepada yang Terpilih."
+   }
+  },
+  {
+   "id": "ID-H101-A84",
+   "no": 84,
+   "noLabel": {
+    "id": "Pasal 84"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian X."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 84\n1. Panitia Pemilihan Daerah dimaksud dalam pasal 39 membuat daftar dari caloncalon\nyang ditetapkan terpilih,\nselanjutnya disebut terpilih.\n2. Ketua Penitia dimaksud dalam ayat 1 mengumumkan daftar terpilih itu dalam\nwilayahnya menurut cara\ntersebut dalam pasal 54 dan pasal 48 ayat 1."
+   }
+  },
+  {
+   "id": "ID-H101-A85",
+   "no": 85,
+   "noLabel": {
+    "id": "Pasal 85"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian X."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 85\n1. Ketua Panitia Pemilihan Daerah dimaksud dalam pasal 84 memberitahukan penetapan\nterpilih kepada masing-masing\nterpilih dengan surat terdaftar, yang dialamatkan kepada\nalamat yang ditulis dalam surat pencalonannya atau dengan\nsurat yang disampaikan\ndalam tangan dengan tanda-penerimaan. Apabila karena ke adaan penetapan calon-\ncalon yang terpilih yang pasti perlu dip ercepat, maka untuk menyampaikan surat dalam\ntangan tersebut\ndi atas Ketua Panitia Pemilihan Daerah dimaksud pasal 39 dengan\nsurat kawat meminta terpilih untuk me ndatang\ni Panitia Pemilihan Daerah.\n2. Dalam waktu tigapuluh hari sesudah hari pemberitahuan terdaftar dikirimkan, yang\nternyata\ndari cap pos, atau dalam waktu tujuh hari sesudah surat pemberitahuan dalam\ntangan disampaikan, Panitia\nPemilihan Daerah tersebut dalam ayat 1 harus sudah\nmenerima surat dari terpilih yang menyatakan apakah ia\nmenerima penetapannya atau\ntidak.\nBagian\nXI\nTentang Penggantian"
+   }
+  },
+  {
+   "id": "ID-H101-A86",
+   "no": 86,
+   "noLabel": {
+    "id": "Pasal 86"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian X."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 86\n1. Jika dalam waktu-waktu yang ditentukan dalam p asal 85 Panitia Pemilihan Daerah\ndimaksud dalam pasal\nitu belum menerima pernyataan dari seorang terpilih dimaksud\ndalam pasal tersebut, maka terpilih itu dianggap tidak\nmenerima penetapannya.\n2. Waktu-waktu yang ditentukan dalam pasal 85 ayat 2 masing-masing diperpanjang\ndengan jangka waktu\nyang sama bagi terpilih yang dapat menunjukkan kepada Panitia\nPemilihan Daerah dimaksud pasal 39, bahwa ke lamb\natan p eng iriman pe rnyataan tidak\ndiseb ab kan kare na ke lalaian terp ilih itu, dalam mana anggapan dalam ayat\n1\ndibatalkan.\n3. Dalam hal Ketua Panitia Pemilihan Daerah meminta terpilih untuk mendatangi Panitia\nPemilihan Daerah\nsebagaimana dimaksud dalam pasal 85 ayat 1 kalimat kedua,\nmaka,jika dalam waktu lima belas hari sesudah hari pengiriman\npanggilan, terpilih belum\nmendatangi Panitia Pemilihan Daerah dimaksud pasal 39, terpilih itu dianggap tidak\nmenerima penetapannya.\n4. Jika dalam lima belas hari sesudah waktu tersebut dalam ayat 3, terpilih datang kepada\nPanitia Pemilihan\nDaerah dimaksud pasal 39, atau Panitia Pemilihan Daerah itu\nmenerima surat dari padanya, dengan bukti-bukti yang\ndapat menunjukkan kepada\nPanitia tersebut, bahwa kelambatan kedatangan terpilih tidak disebabkan karena\nkelalaian terpilih itu, maka anggapan tersebut dalam ayat 3 dibatalkan."
+   }
+  },
+  {
+   "id": "ID-H101-A87",
+   "no": 87,
+   "noLabel": {
+    "id": "Pasal 87"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian X."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 87\n1. Jika seorang calon tidak atau dianggap tidak menerima penetapannya, maka Panitia\nPemilihan Daerah\ndimaksud dalam pasal 86 mengganti calon itu dengan calon lain.\n2. Penggantian itu dilakukan sebagai berikut:\na. seorang calon yang dikemukakan secara perseorangan, diganti dengan seorang\ncalon yang\nmemperoleh suara terbanyak di antara semua calon yang belum terpilih;\nb. seorang calon yang dikemukakan dalam suatu daftar-kumpulan diganti dengan\nseorang calon\nyang menurut urutan sebagai tersebut dalam pasal 81 tempatnya\npaling atas antara calon-calon yang belum\nterpilih di antara daftar itu;jika penggantian\nsecara itu tidak mungkin dilakukan lagi, karena semua\ncalon dalam daftar itu sudah\nterpilih, maka b erlakulah penggantian menurut yang tersebut dalam huruf\na."
+   }
+  },
+  {
+   "id": "ID-H101-A88",
+   "no": 88,
+   "noLabel": {
+    "id": "Pasal 88"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian X."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 88\nKetentuan-ketentuan dalam pasal 85 dan pasal 86 berlaku juga terhadap penggantian terpilih.\nBAB III. TENTANG KEANGGOTAAN.\nBagian XII\nTentang Permulaan Keanggotaan,\nDan Penggantian"
+   }
+  },
+  {
+   "id": "ID-H101-A89",
+   "no": 89,
+   "noLabel": {
+    "id": "Pasal 89"
+   },
+   "chapter": {
+    "id": "BAB III. TENTANG KEANGGOTAAN. / Bagian XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 89\nDewan Perwakilan Rakyat Daerah dari daerah swatantra untuk mana diadakan pemilihan\nanggota Dewan Perwakilan\nRakyat Daerah itu mengangkat sebuah Panitia Pemeriksaan\nDaerah yang bertugas menentukan penerimaan seorang terpilih\nsebagai anggota Dewan\nPerwakilan Rakyat Daerah, yang bertempat-kedudukan di temp at kedudukan Panitia\nPemilihan Daerah dari swatantra yang bersangkutan. Panitia te rseb ut diangkat dari ang g\nota Dewan Pe rwakilan Rakyat\nDae rah dan terdiri dari sekurang-kurangnya 5 orang\nanggota, di antaranya seorang merangkap Ketua dan seorang merangkap\nWakil-Ketua.\nSebagai Sekretaris Panitia Pemeriksaan Daerah ditetapkan Sekretaris Dewan Perwakilan\nRakyat\nDaerah yang bersangkutan."
+   }
+  },
+  {
+   "id": "ID-H101-A90",
+   "no": 90,
+   "noLabel": {
+    "id": "Pasal 90"
+   },
+   "chapter": {
+    "id": "BAB III. TENTANG KEANGGOTAAN. / Bagian XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 90\nKetua Panitia Pemilihan Daerah dari daerah swatantra dimaksud dalam pasal 89\nmenyampaikan kepada Panitia\nPemeriksaan Daerah salinan surat-surat pemberitahuan\npenetapan dimaksud dalam pasal 85 ayat 1 dan memberitahukan kepada\nPanitia tersebut\npenerimaan pernyataan dari terpilih, bahwa ia menerima p enetap an seb agai terp ilih, yang\ndisertai dengan salinan pernyataan penerimaan itu."
+   }
+  },
+  {
+   "id": "ID-H101-A91",
+   "no": 91,
+   "noLabel": {
+    "id": "Pasal 91"
+   },
+   "chapter": {
+    "id": "BAB III. TENTANG KEANGGOTAAN. / Bagian XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 91\nTerpilih yang menerima penetapannya harus secepat-cepatnya menyampaikan kepada\nPanitia Pemeriksaan Daerah;\na. surat pemberitahuan penetapan yang dimaksud dalam pasal 85 ayat 1 dalam aslinya;\nb. salinan dari surat pernyataan penerimaan penetapan dimaksud dalam pasal 85 ayat 2;\nc. surat-keterangan atau keterangan yang menyatakan bahwa terpilih benar seorang\nwarganegara Indonesia;\nd. kutipan dari daftar-kelahiran, atau jika ini tidak ada, surat-kenal yang menyatakan umur\nterpilih;\ne. surat-keterangan dari Kepala Desa yang berwenang, yang menyatakan bahwa terpilih\nbetul\ntelah bertempat tinggal di daerah itu sedikitnya enam bulan yang terakhir;\nf. surat-keterangan yang ditanda-tangani oleh terpilih tentang semua jab atan yang\ndijalankan\ndan tentang kesediaannya untuk melepaskan jabatan yang tidak dapat\ndirangkap. Surat-surat pemberitahuan\ntersebut dalam huruf a dan b bersama-sama\nmerupakan surat-kepercayaan."
+   }
+  },
+  {
+   "id": "ID-H101-A92",
+   "no": 92,
+   "noLabel": {
+    "id": "Pasal 92"
+   },
+   "chapter": {
+    "id": "BAB III. TENTANG KEANGGOTAAN. / Bagian XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 92\n1. Jika tujuh hari setelah menerima pemberitahuan penerimaan pernyataan dari Ketua Panitia\nPemilihan Daerah\ndimaksud dalam pasal 90, Panitia Pemeriksaan Daerah b elum\nmenerima surat-surat tersebut dalam pasal 91 dari terpilih\nyang bersangkutan, maka\nkeesokan harinya tempat terpilih itu dianggap menjadi lowong. Ketentuan dalam pasal 86\nayat 2 berlaku terhadap terpilih yang dimaksud.\n2. Jika Panitia Pemeriksaan Daerah memutuskan, b ahwa seorang terpilih tidak dapat\nditerima sebagai anggota\nkarena tidak memenuhi syarat-syarat untuk itu, maka tempatnya\nmenjadi lowong lagi.\n3. Ketua Panitia Pemeriksaan Daerah dengan segera memberitahukan kepada Panitia\nPemilihan Daerah dimaksud\ndalam pasal 86 tentang adanya lowongan.\n4. Dalam waktu tujuh hari sesudah Panitia Pemeriksaan Daerah menerima surat-surat\ntersebut dalam pasal\n91, Panitia Pemeriksaan Daerah harus sudah selesai dengan\npekerjaannya dan melaporkan hasil-hasilnya kepada Kepala\nDaerah yang bersangkutan."
+   }
+  },
+  {
+   "id": "ID-H101-A93",
+   "no": 93,
+   "noLabel": {
+    "id": "Pasal 93"
+   },
+   "chapter": {
+    "id": "BAB III. TENTANG KEANGGOTAAN. / Bagian XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 93\nJika menurut laporan dimaksud dalam pasal 92 ayat 4 jumlah terpilih yang diterima sebagai\nanggota sudah\nmencapai tiga perempat dari jumlah anggota yang ditetapkan untuk daerah\nswatantra itu, maka Dewan Perwakilan Rakyat\nDaerah dapat d ilantik."
+   }
+  },
+  {
+   "id": "ID-H101-A94",
+   "no": 94,
+   "noLabel": {
+    "id": "Pasal 94"
+   },
+   "chapter": {
+    "id": "BAB III. TENTANG KEANGGOTAAN. / Bagian XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 94\nPanitia Pemilihan Daerah dimaksud dalam p asal 86 sete lah menerima p emb eritahuan\ntentang adanya lowongan\ndimaksud dalam pasal 92 segera mengusahakan pengisian\nlowongan itu menurut aturan-aturan tentang penggantian terpilih\nseperti dimaksud dalam\npasal 87 ayat 1 dan 2.\nBagian XIII.\nTentang Pemberhentian Dan Pengisian Lowongan"
+   }
+  },
+  {
+   "id": "ID-H101-A95",
+   "no": 95,
+   "noLabel": {
+    "id": "Pasal 95"
+   },
+   "chapter": {
+    "id": "BAB III. TENTANG KEANGGOTAAN. / Bagian XIII."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 95.\nSeorang anggota berhenti antara-waktu sebagai anggota:\n1. atas permintaan sendiri;\n2. karena tidak memenuhi lagi syarat-syarat untuk menjadi anggota Dewan Perwakilan\nRakyat Daerah:\n3. karena menjabat suatu jabatan yang tidak boleh dirangkap dengan keanggotaan Dewan\nPerwakilan Rakyat\nDaerah,\n4. karena meninggal dunia."
+   }
+  },
+  {
+   "id": "ID-H101-A96",
+   "no": 96,
+   "noLabel": {
+    "id": "Pasal 96"
+   },
+   "chapter": {
+    "id": "BAB III. TENTANG KEANGGOTAAN. / Bagian XIII."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 96\n1. Apabila terjadi seorang anggota berhenti antara-waktu seperti dimaksud dalam pasal 95,\nmaka Ketua\nDewan Perwakilan Rakyat Daerah segera memberitahukan hal itu kepada\nPanitia Pemilihan Daerah dari daerahnya.\n2. Panitia Pemilihan Daerah tersebut dalam ayat 1 segera menetapkan penggantian\nanggota yang dimaksud\ndalam ayat 1 itu menurut aturan-aturan tentang pengisian\nlowongan tertera dalam pasal 87.\nBAB IV\nBagian XIV\nPasal pasal Pidana"
+   }
+  },
+  {
+   "id": "ID-H101-A97",
+   "no": 97,
+   "noLabel": {
+    "id": "Pasal 97"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian XIV"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 97.\nBarangsiapa dengan sengaja memberikan keterangan yang tidak benar mengenai dirinya\nsendiri atau diri\norang lain tentang sesuatu hal yang diperlukan untuk isian daftar pemilih,\ndihukum dengan hukuman penjara selama-lamanya\nsembilan bulan."
+   }
+  },
+  {
+   "id": "ID-H101-A98",
+   "no": 98,
+   "noLabel": {
+    "id": "Pasal 98"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian XIV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 98\nBarang siapa meniru atau memalsu sesuatu surat, yang menurut suatu aturan dalam\nundang-undang ini atau\nmenurut suatu peraturan pelaksanaan undang -undang ini\ndiperlukan untuk menjalankan sesuatu perbuatan dalam pemilihan,\ndengan maksud untuk\ndipergunakan sendiri atau oleh orang lain sebagai surat yang sah dan tidak terpalsu,\ndihukum dengan hukuman penjara selama-lamanya lima tahun."
+   }
+  },
+  {
+   "id": "ID-H101-A99",
+   "no": 99,
+   "noLabel": {
+    "id": "Pasal 99"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian XIV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 99\nBarangsiapa menyimpan sesuatu surat dimaksud dalam pasal 98 dengan mengetahui b\nahwa surat\nitu tidak sah atau terpalsu, dengan maksud untuk mempergunakannya atau\nsupaya dipergunakan oleh orang lain\nsebagai surat yang sah dan tidak terpalsu, dihukum\ndengan hukuman penjara selama-lamanya lima tahun."
+   }
+  },
+  {
+   "id": "ID-H101-A100",
+   "no": 100,
+   "noLabel": {
+    "id": "Pasal 100"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian XIV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 100\nBarangsiapa dengan sengaja, dengan mengetahui bahwa sesuatu surat dimaksud dalam\npasal 98 adalah tidak\nsah atau terpalsu, mempergunakannya atau menyuruh orang lain\nmempergunakannya sebagai surat yang sah dan tidak terpalsu,\ndihukum dengan hukuman\npenjara selama-lamanya lima tahun."
+   }
+  },
+  {
+   "id": "ID-H101-A101",
+   "no": 101,
+   "noLabel": {
+    "id": "Pasal 101"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian XIV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 101\nBarangsiapa menyimpan sesuatu surat dimaksud dalam pasal 98 dengan maksud untuk\nmempergunakannya atau\nsupaya dipergunakan oleh orang lain berlawanan dengan hukum,\ndihukum dengan hukuman penjara selama-lamanya dua tahun."
+   }
+  },
+  {
+   "id": "ID-H101-A102",
+   "no": 102,
+   "noLabel": {
+    "id": "Pasal 102"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian XIV"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 102.\nBarangsiapa dengan sengaja mengacaukan, menghalang-halangi atau mengganggu jalan\npe milihan yang diselenggarakan\nmenurut undang-undang ini, dihukum dengan hukuman\npenjara selama-lamanya lima tahun."
+   }
+  },
+  {
+   "id": "ID-H101-A103",
+   "no": 103,
+   "noLabel": {
+    "id": "Pasal 103"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian XIV"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 103.\nBarangsiapa pada waktu diselenggarakan pemilihan menurut undang-undang ini dengan\nsengaja dan dengan\nkekerasan atau dengan ancaman kekerasan menghalang -halang i se\nse orang akan me lakukan haknya memilih dengan b eb\nas dan tidak terganggu, dihukum\ndengan hukuman penjara selama-lamanya lima tahun."
+   }
+  },
+  {
+   "id": "ID-H101-A104",
+   "no": 104,
+   "noLabel": {
+    "id": "Pasal 104"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian XIV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 104\nBarangsiapa pada waktu diselenggarakan pemilihan menurut undang-undang ini dengan\npemberian\natau janji menyuap seseorang, baik supaya orang itu tidak menjalankan haknya\nuntuk memilih maupun supaya ia menjalankan\nhaknya itu dengan cara tertentu, dihukum\ndengan hukuman penjara selama-lamanya tiga tahun. Hukuman itu dikenakan juga\nkepada\npemilih yang karena menerima suap berupa pemberian atau janji berbuat sesuatu."
+   }
+  },
+  {
+   "id": "ID-H101-A105",
+   "no": 105,
+   "noLabel": {
+    "id": "Pasal 105"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian XIV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 105\nBarangsiapa pada waktu diselenggarakan pemilihan menurut undang-undang ini melakukan\nsesuatu\nperbuatan tipu muslihat yang menyebabkan suara seorang pemilih menjadi tidak\nberharga atau orang lain daripada orang\nyang dimaksudkan oleh pemilih itu menjadi terpilih,\ndihukum dengan hukuman penjara selama-lamanya tiga tahun."
+   }
+  },
+  {
+   "id": "ID-H101-A106",
+   "no": 106,
+   "noLabel": {
+    "id": "Pasal 106"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian XIV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 106\nBarangsiapa yang dengan sengaja turut serta dalam pemilihan menurut undangundang ini\ndengan mengaku\ndirinya sebagai orang lain, dihukum dengan hukuman penjara selama-\nlamanya lima tahun."
+   }
+  },
+  {
+   "id": "ID-H101-A107",
+   "no": 107,
+   "noLabel": {
+    "id": "Pasal 107"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian XIV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 107\nBarangsiapa memberikan suaranya lebih dari satu kali dalam suatu pemilihan yang diadakan\nmenurut undang-undang\nini, dihukum dengan hukuman penjara selamalamanya lima tahun."
+   }
+  },
+  {
+   "id": "ID-H101-A108",
+   "no": 108,
+   "noLabel": {
+    "id": "Pasal 108"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian XIV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 108\nBarangsiapa pada waktu diselenggarakan pemilihan menurut undang-undang ini dengan\nsengaja menggagalkan\npemungutan suara yang telah dilakukan, atau melakukan sesuatu\nperbuatan tipu muslihat, yang menyebab kan hasil pemungutan\nsuara itu menjadi lain\ndaripada yang harus diperoleh dengan surat-surat suara yang dimasukkan dengan sah atau\ndengan surat-suara yang diberikan dengan sah, dihukum dengan hukuman penjara selama-\nlamanya lima tahun."
+   }
+  },
+  {
+   "id": "ID-H101-A109",
+   "no": 109,
+   "noLabel": {
+    "id": "Pasal 109"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian XIV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 109\nSeorang majikan yang tidak memenuhi kewajib an tersebut dalam pasal 64, dihukum dengan\nhukuman penjara\nselama-lamanya tiga bulan atau denda setinggi-tingginya seribu rupiah."
+   }
+  },
+  {
+   "id": "ID-H101-A110",
+   "no": 110,
+   "noLabel": {
+    "id": "Pasal 110"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian XIV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 110\nSeorang penyelenggara pemilihan yang melalaikan kewajibannya, dihukum dengan hukuman\ndenda setinggi-tingginya\nseribu rupiah."
+   }
+  },
+  {
+   "id": "ID-H101-A111",
+   "no": 111,
+   "noLabel": {
+    "id": "Pasal 111"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian XIV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 111\nDalam menjatuhi hukuman atas perbuatan-perbuatan tercantum dalam pasal 98 sampai\ndengan pasal\n101, surat-surat yang dipergunakan dalam perbuatan-pidana atau yang\nmerupakan alat daripada perbuatan-pidana itu, beserta\nbenda-benda dan barang-barang\nyang menurut sifatnya diperuntukkan guna meniru atau memalsu surat-surat itu, dirampas\ndan dimusnahkan juga kalau surat-surat, benda-benda atau barang-barang itu bukan\nkepunyaan\nterhukum."
+   }
+  },
+  {
+   "id": "ID-H101-A112",
+   "no": 112,
+   "noLabel": {
+    "id": "Pasal 112"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian XIV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 112\nDalam menjatuhkan hukuman atas perbuatan-perbuatan tercantum dalam pasal 98 sampai\ndengan pasal 108\nterhukum dapat dipecat dari hak-hak tersebut dalam pasal 35 angka 1\nsampai dengan 3 Kitab Undang-undang Hukum Pidana."
+   }
+  },
+  {
+   "id": "ID-H101-A113",
+   "no": 113,
+   "noLabel": {
+    "id": "Pasal 113"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian XIV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 113\nPerbuatan-pidana tercantum dalam pasal 97 sampai dengan pasal 108 adalah kejahatan.\nPerbuatan-pidana tercantum\ndalam pasal 109 dan pasal 110 adalah pelanggaran.\nBAB V\nBagian XV.\nKetentuan- ketentuan tambahan\ndan peralihan"
+   }
+  },
+  {
+   "id": "ID-H101-A114",
+   "no": 114,
+   "noLabel": {
+    "id": "Pasal 114"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian XV."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 114\nSetelah hasil pemilihan ditetapkan, Ketua Panitia Pemilihan Daerah mengusahakan agar\nsurat-surat-suara,.\nbaik yang sudah terpakai maupun yang belum ataupun yang tidak\nterpakai lagi, tidak dapat dipergunakan lagi untuk suatu\npemilihan anggota Dewan\nPerwakilan Rakyat Daerah, sedang surat-surat pencalonan beserta lampiran-lamp irannya\ndan turunan Berita Acara Pembagian Kursi-kursi disimpannya. Panitia Pemungutan Suara\natas pemberitahuan Ketua\nPanitia Pemilihan Daerah yang bersangkutan memusnahkan\nsalinan berita-berita acara pemungutan suara yang disimpan oleh\nKetuanya."
+   }
+  },
+  {
+   "id": "ID-H101-A115",
+   "no": 115,
+   "noLabel": {
+    "id": "Pasal 115"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian XV."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 115\nPenyelenggara-penyelenggara pemilihan wajib bantu-membantu dalam melakukan\ntugasnya."
+   }
+  },
+  {
+   "id": "ID-H101-A116",
+   "no": 116,
+   "noLabel": {
+    "id": "Pasal 116"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian XV."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 116\nPanitia Pemilihan Daerah dari daerah swatantra untuk mana diadakan pemilihan ang gota\nDewan Pe rwakilan Rakyat Daerah mengajukan pendapat-pendapat, anjuran serta usul-usul\ndalam segala hal mengenai\npemilihan anggota Dewan Perwakilan Rakyat Daerah kepada\nMenteri Dalam Negeri dan atau Dewan Perwakilan Rakyat\nDaerah yang bersangkutan, baik\nyang diminta kepadanya maupun atas kehendak sendiri."
+   }
+  },
+  {
+   "id": "ID-H101-A117",
+   "no": 117,
+   "noLabel": {
+    "id": "Pasal 117"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian XV."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 117\nBagi daerah swatantra yang pada waktu meng adakan pemilihan menurut ketentuan\nundang-undang ini, belum\nmempunyai Dewan Perwakilan Rakyat Daerah, maka Panitia\nPemeriksaan Daerah dimaksud dalam pasal 89, diangkat atas usul\nPanitia Pemilihan\nDaerah. Segera setelah Dewan Perwakilan Rakyat Daerah yang baru dilantik, maka Panitia\nPemeriksaan Daerah dimaksud dalam pasal ini dibubarkan."
+   }
+  },
+  {
+   "id": "ID-H101-A118",
+   "no": 118,
+   "noLabel": {
+    "id": "Pasal 118"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian XV."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 118\nSebelum ada Undang-undang Pokok Pemerintah Daerah yang berlaku untuk seluruh\nwilayah Republik Indonesia,\nmaka untuk pemilihan anggota Dewan Perwakilan Rakyat\nDaerah, yang dilaksanakan me nurut ke te ntuan-ketentuan undang-undang\nini, jumlah\nanggota Dewan Perwakilan Rakyat Daerah di tiap -tiap daerah ditetapkan oleh Menteri\nDalam\nNegeri atas dasar sebagai berikut:\na. bagi daerah Propinsi tiap-tiap 200.000 orang penduduk mempunyai seorang wakil\ndengan minimum 30\ndan maksimum 75 orang.\nb. bagi daerah Kabupaten tiap-tiap 10.000 orang penduduk mempunyai seorang wakil\ndengan minimum 15\ndan maksimum 35 orang.\nc. bagi daerah tingkat yang terendah tiap-tiap 2000 orang penduduk mempunyai seorang\nwakil dengan\nminimum 10 dan maksimum 20 orang."
+   }
+  },
+  {
+   "id": "ID-H101-A119",
+   "no": 119,
+   "noLabel": {
+    "id": "Pasal 119"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian XV."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 119\nSebelum ada Undang-undang Pokok Pemerintahan Daerah yang berlaku untuk seluruh\nwilayah Republik Indonesia,\nmaka anggota-anggota Dewan Perwakilan Rakyat Daerah, yang\ndipilih dengan ketentuan-ketentuan undang-undang ini, dipilih\nuntuk masa empat tahun."
+   }
+  },
+  {
+   "id": "ID-H101-A120",
+   "no": 120,
+   "noLabel": {
+    "id": "Pasal 120"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian XV."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 120\n1. Sebelum ada Undang -undang Pokok Pemerintahan Daerah yang berlaku untuk seluruh\nwilayah Republik\nIndonesia, maka yang dapat menjadi anggota Dewan Perwakilan\nRakyat Daerah, yang dipilih dengan ketentuan-ketentuan\nundangundang ini, ialah\nwarganegara Indonesia yang:\na. telah berumur dua puluh satu tahun;\nb. bertempat tinggal pokok di dalam wilayah yang bersangkutan sedikitnya enam bulan\nyang terakhir, atau bagi pemilihan untuk Dewan Perwakilan Rakyat Daerah\nKabupaten, b ertempat tinggal\npokok sedikitnya enam bulan yang terakhir dalam\nKota-Besar yang terletak dalam wilayah Kabupaten itu;\nc. cakap menulis dan membaca bahasa Indonesia dengan huruf Latin;\nd. tidak kehilangan hak menguasai atau mengurus harta-bendanya karena keputusan\npengadilan\nyang tidak dapat diubah lagi;\ne. tidak dipecat dari hak memilih atau hak dipilih dengan keputusan pengadilan yang\ntidak\ndapat diubah lagi;\nf. tidak terganggu ingatannya.\n2. Bagi daerah-daerah dalam wilayah hukum peraturan perundangan lain daripada wilayah\nhukum Undang-undang\nRepublik Indonesia No. 22 tahun 1948 dan Undang-undang\nNegara Indonesia Timur Staatsblad No. 44 tahun 1950, untuk\nmenjadi anggota Dewan\nPerwakilan Rakyat Daerah, harus memenuhi syaratsyarat seperti tersebut dalam ayat 1 di\natas."
+   }
+  },
+  {
+   "id": "ID-H101-A121",
+   "no": 121,
+   "noLabel": {
+    "id": "Pasal 121"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian XV."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 121\nSebelum ada Undang-undang Pokok Pemerintahan Daerah yang berlaku untuk seluruh\nwilayah Republik Indonesia,\nmaka keanggotaan Dewan Perwakilan Rakyat Daerah, yang\ndipilih dengan ketentuan-ketentuan undang-undang ini; tidak dapat\ndirangkap dengan:\na. Presiden dan Wakil Presiden;\nb. Perdana Menteri dan Menteri;\nc. Ketua dan anggota Dewan Pengawas Keuangan;\nd. Anggota Dewan Pemerintah Daerah yang tingkatan lebih atas atau tingkatan lebih\nbawah;\ne. Anggota Dewan Perwakilan Rakyat Daerah tingkatan lebih atas atau tingkatan lebih\nbawah, apabila\nia dipilih menjadi Kepala Daerah;\nf. Kepala Dinas Daerah, Sekretaris Daerah dan pegawai yang bertanggungjawab tentang\nkeuangan kepada\nDaerah yang bersangkutan;"
+   }
+  },
+  {
+   "id": "ID-H101-A122",
+   "no": 122,
+   "noLabel": {
+    "id": "Pasal 122"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian XV."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 122\n1. Dewan Perwakilan Rakyat Daerah suatu daerah swatantra yang lama, bubar pada hari\npelantikan Dewan\nPerwakilan Rakyat Daerahnya yang baru.\n2. Pemilihan anggota Dewan Perwakilan Rakyat Daerah dari Kota Makasar dan dari Daerah\nSangir-Talaud\nberjalan terus sehingga selesai.\n3. Dewan-dewan Perwakilan Rakyat Daerah yang terbentuk menurut ayat 2 dan Dewan-\ndewan Perwakilan\nRakyat Daerah dari Daerah Kota Menado dan Daerah Minahasa dapat\nberjalan terus sampai akhir masa-duduk\nyang ditentukan dalam peraturan perundangan\nyang berlaku bagi daerah-daerah tersebut.\nBagian XVI\nKetentuan-ketentuan Penutup"
+   }
+  },
+  {
+   "id": "ID-H101-A123",
+   "no": 123,
+   "noLabel": {
+    "id": "Pasal 123"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian XVI"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 123.\nMenteri Dalam Negeri mengawasi dan menjaga agar pelaksanaan pemilihan anggota Dewan-\ndewan Perwakilan\nRakyat Daerah menurut ketentuan undang -undang ini berjalan sebaik-\nbaiknya."
+   }
+  },
+  {
+   "id": "ID-H101-A124",
+   "no": 124,
+   "noLabel": {
+    "id": "Pasal 124"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian XVI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 124\nUntuk menyelenggarakan pemilihan ini dengan sebaik-baiknya aturan-aturan selanjutnya\nyang diperlukan,\ndiatur dengan Peraturan Pemerintah, sepanjang pengaturan itu tidak\ndiserahkan oleh ketentuan undang-undang ini kepada\nDewan Perwakilan Rakyat Daerah."
+   }
+  },
+  {
+   "id": "ID-H101-A125",
+   "no": 125,
+   "noLabel": {
+    "id": "Pasal 125"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian XVI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 125\nUndang-undang ini dapat disebut Undang-undang Pemilihan Daerah dan mulai berlaku\npada hari diundangkan.\nAgar supaya setiap orang dapat mengetahuinya memerintahkan\npengundangan undang-undang ini dengan penemp atan dalam\nLembaran Negara Republik\nIndonesia.\nDisahkan di Jakarta\npada tanggal 8 September 1956\nWakil Pre siden Republik Indonesia,\nttd.\nMOHAMMAD HATTA\nDiundangkan pada tanggal 24 September 1956.\nMenteri Kehakiman,\nMULJATNO\nMenteri Dalam Negeri,\nttd.\nSUNARJO\nMEMORI PENJELASAN- UNDANGUNDANG NOMOR 19 TAHUN 1956\nTENTANG\nPEMILIHAN ANGGOTA DEWAN PERWAKILAN RAKYAT DAE RAH\nDASAR- DASAR PENYUSUNAN\n1. Berhubung dengan adanya daerah-daerah swatantra yang belum mempunyai Dewan\nPerwakilan Rakyat Daerah,\natau Dewan Perwakilan Rakyat Daerahnya karena sesuatu\nhal tidak berjalan lagi, maupun Dewan Perwakilan Rakyat Daerahnya\nada berjalan, tetapi\nkarena sesuatu pertimbangan dianggap perlu untuk diganti, maka ketiadaan peraturan\npemilihan anggota Dewan-dewan Perwakilan Rakyat Daerah sangat dirasakan, apalagi\nDewan-dewan Perwakilan\nRakyat Daerah yang dibentuk menurut Undang-undang No.14\ntahun 1956 akan bubar selambat-lambatnya pada tanggal 17 Juli 1957.\n2. Undang-undang No.7 tahun 1950 serta Peraturan Pelaksanaannya tentang pemilihan\nanggota Dewan Perwakilan\nRakyat Daerah Propinsi dan Daerah-daerah di dalam\nlingkungannya pada dewasa ini tidak dapat dijalankan, karena bertentangan\ndengan\nkehendak rakyat, sebab Undang-undang itu memakai sistim p emilihan be rting kat yang\nme makan b iaya dan waktu te rlalu b anyak dan diang gap kurang demokratis. Peraturan\nPemerintah No.39 tahun\n1950 tidak dap at dilakukan sejak diterima mosi-Hadikusumo\ntanggal 22 Januari tahun 1951 oleh Dewan Perwakilan\nRakyat Republik Indonesia.\nDemikian pula praktis tidak d imaksudkan lag i untuk memb e ntuk De wan-de wan\nPerwakilan Rakyat Daerah atas Groep sgemeenschap sordonnantie s, S.G.O. (B)\ndan/atau\nperaturan lainlainnya. Oleh sebab itu diusahakan menyusun suatu Undang-\nundang pemilihan yang dapat mengganti\nsemua peraturan-peraturan yang ada dan yang\ndapat mengganti semua peraturan-peraturan yang ada dan yang\njuga pada azasnya akan\nberlaku buat seluruh wilayah hukum Indonesia.\n3. Pemilihan adalah alat untuk menyusun badan perwakilan, Bentuk-susunan Dewan\nPerwakilan Rakyat Daerah\nitu sendiri diatur oleh Undang-undang Pokok Pemerintahan\nDaerah. Alat tadi harus dapat mewujudkan badan-badan yang\nmemenuhi syarat-syarat\nyang ditentukan oleh Undang-undang Pokok Pemerintahan Daerah itu. Suatu Undang-\nundang Pemilihan Dewan Perwakilan Rakyat Daerah hanya dapat didasarkan atas\nperaturan-perundangan yang berada.\nUndang-undang itu ialah antara lain: Undang-\nundang Repub lik Indonesia No.22 tahun 1948, Undang-undang Negara Indonesia\nTimur\nStaatsb lad No.44 tahun 1950 dan lain-lain, peraturan-peraturan mana hanya berlaku\nsecara\nterbatas dalam lingkungannya masing-masing. Secara integral dasar-dasar dari\nperaturan-peraturan ini akan\ndiatur lagi dengan satu Undang-undang Pokok\nPemerintahan Daerah yang berlaku buat seluruh wilayah Indonesia.\n4. Pun pada pokoknya Undang-undang ini dimaksudkan juga akan berlaku untuk pemilihan\nanggota-anggota\nDewan Perwakilan Rakyat Daerah swatantra tingkat terendah.\n5. Untuk mencapai maksud di atas, maka disusunlah Undang-undang Pemilihan Anggota\nDewan Perwakilan Rakyat\nDaerah ini, yang memakai Undang-undang No.7 tahun 1953\nsebagai pedoman.\n6. Sifat Dewan Perwakilan Rakyat Daerah menurut Undang-undang Pokok Pemerintahan\nDaerah merupakan perwakilan\nuntuk menjalankan pemerintahan, jadi berlainan sifat\ndengan Parlemen atau Konstituante, yang pada pokoknya merupakan\nbadan perwakilan\nyang melakukan kewenangan perundangundangan.\n7. Susunan Parlemen oleh Undang-undang No. 7 tahun 1953 diharuskan diatur secara\nberimbang, sedangkan\nterhadap Dewan Perwakilan Rakyat Daerah ketentuan demikian\ntidak ada, baik dalam Undang-undang Negara Indonesia\nTimur Staatsblad No. 44 tahun\n1950, maupun dalam Undang-undang Republik Indonesia No. 22 tahun 1948. Hanya\nmengenai susunan Dewan Pemerintah Daerah keadaannya adalah sedikit berlainan.\nUndang-undang, Republik\nIndonesia No. 22 tahun 1948 menentukan secara imp eratif,\nbahwa kalau Dewan Perwakilan Rakyat Daerah sudah dibentuk,\nsusunan Dewan\nPemerintah Daerah harus b erdasarkan atas p erwakilan b erimb ang. Undang -undang\nNe gara Indonesia Timur Staatsb lad No. 44 tahun 1950 tidak mengharuskan adanya\nperimbangan dalam susunan\nDewan Pemerintah Daerah.\n8. Dalam suatu negara demokrasi sifat suatu badan perwakilan terutama ialah \"oleh dan\ndari rakyat\".\nSifat \"oleh dan dari Rakyat\" itu mengharuskan adanya penyusunan Dewan\nPerwakilan dengan pemilihan (tidak dengan\nangkatan). Bergantung kepada keadaanlah,\npemilihan itu bersifat umum, langsung atau bertingkat. Sebagai\nprinsip dalam Undang-\nundang No. 7 tahun 1953 ditetapkan, bahwa pemilihan itu bersifat umum dan langsung.\nMeskipun demikian Undangundang Dasar Sementara Republik Indonesia masih juga\nmemakai sistim\nangkatan untuk minoriteiten seb agai jaminan khusus; pun pula Undang-\nundang No. 7 tahun 1953 dalam ke adaan istimewa.\nSifat Dewan Perwakilan Rakyat\nDaerah dan Dewan Pemerintah Daerah lebih condong kepada syarat \"untuk Rakyat\",\nsifat mana kalau dibanding dengan syarat \"oleh dan dari rakyat\", lebih melayakkan\npengangkatan tadi.\nAkan tetapi oleh karena ketentuan tentang pengangkatan itu tidak\nada dalam Undang-undang Pokok Pemerintah Daerah,\nmaka Undangundang tidak\nmemuat ketentuan mengenai pengangkatan anggota itu.\n9. Sebagai badan p emerintahan, Dewan Perwakilan Rakyat Daerah itu merupakan suatu\nsusunan hierarchie\nyang tertentu, seperti misalnya, hubungan swatantra tingkat yang\nterendah dengan Kabupaten, Kabupaten dengan Propinsi.\nHub ung an antara Peme\nrintah Daerah bawahan dengan Pemerintah Daerah atasan ini diatur atas dasar hak\npengawasan. Maka dari itu dalam Dewan Perwakilan Rakyat Daerah bawahan\nseharusnya ada juga terdapat satu\ngolongan, yang dap at membela hak pengawasan\ntadi, walaupun adanya golongan itu karena pemilihan. Begitu pula dalam\nDewan\nPerwakilan Rakyat Daerah atasan, yang menjalankan hak pengawasan itu, seharusnya\nada juga\ngolongan yang dapat mempertahankan hal-hal yang diawasi. Selain dari pada\nitu untuk kelancaran jalannya pemerintahan\ndaerah, maka dalam badan perwakilan\nrakyat yang mengatur pemerintahan daerah, seharusnya duduk wakil-wakil dari\ntiap b\nagian daerah itu (streek). Untuk mencapai kedua hal itu, maka Dewan Perwakilan Rakyat\nDaerah\nitu haruslah pula merupakan suatu \"Streekvertegenwoordiging \".\n10. Dengan demikian seharusnya dalam Undang-undang ini dimuat ketentuanketentuan yang\nmemberi jaminan\nuntuk memilih wakilnya dalam Dewan Perwakilan Rakyat Daerah\natasan kepada tiap-tiap bagian dari suatu daerah swatantra,-\nseperti kepada daerah\nKabupaten-kabupaten dalam hal pemilihan anggota-anggota Dewan Perwakilan Rakyat\nDaerah Prop insi dan kepada daerah tingkat te rend ah atau daerah-daerah yang dap at\ndisamakan dengan itu\ndalam hal pemilihan anggota-anggota Dewan Perwakilan Rakyat\nDaerah Kabupaten. Karena itu hendaknya Undang-undang\nmemuat ketentuan- ketentuan\ndalam pemilihan anggota-anggota Dewan Perwakilan Rakyat Daerah Propinsi, bahwa\nsegala daerah swatantra Kabupaten-kabupaten dalam tiap-tiap Propinsi itu masing-\nmasing dijadikan daerah-daerah\npemilihan Prop insi dan bahwa tiap-tiap daerah tingkat\nterendah masing-masing dijadikan daerah-daerah pemilihan\nbagi daerah swatantra\nKabupaten. Dengan mengadakan daerah-daerah pemilihan demikian, akan terjamin\nterpilihnya wakil-wakil dari daerah swatantra bawahan untuk duduk dalam Dewan\nPerwakilan Rakyat Daerah atasan,\nsehingga dengan demikian wakil-wakil dari tiap-tiap\ndaerah swatantra bawahan mendapat kesempatan sepenuhnya\nuntuk membela\nkepentingan daerah dan penduduknya dalam Dewan Perwakilan Rakyat Daerah atasan\nitu. Akan tetapi dalam Undangundang ini, tiap -tiap daerah swatantra itu dijadikan hanya\nsatu\ndaerah pemilihan. Bagi Kota-kota-Besar dan daerah-daerah swatantra tingkat\nterendah adanya satu daerah pemilihan\nyang demikian adalah telah sesuai dengan\nkeadaan daerah itu masing -masing. karena daerah Kota-Be sar dan daerah\nitu masing-\nmasing, karena daerah Kota-Besar dan daerah tingkat terendah itu merupakan satu\nkesatuan\nyang tidak terbagi lagi atas daerah-daerah bawahan, berlainan dengan sifat\ndaerah swatantra Propinsi - dan daerah\nswatantra Kabupaten yang merupakan gabungan\ndari daerah-daerah swatantra bawahan. Sungguhpun demikian daerah-daerah\nPropinsi\ndan Kabupaten itu, dalam Undang-undang ini dijadikan satu daerah pemilihan, ialah atas\npertimbangan, Bahasa sudah tiba kiranya waktunya, demi perkembangan hidup\nkepartaian dan demokrasi untuk menyerahkan\nhal yang pokok ini kepada kesadaran\npartai-partai politik, untuk me mikul tang gung -jawab sepe uhnya atas pemerintahan\ndaerah-daerah. Bukan saja untuk mengatur siasat dalam cara menjalankan pemerintahan\ndaerah dalam\nDewan-dewan Perwakilan daerah nanti, tetapi juga cara menyusun dan\nmemilih anggota-anggota yang bakal duduk dalam\nDewan-dewan daerah itu diserahkan\nsepenuhnya kepada kesadaran dan keinsyafan partai-partai politik dan organisasi-\norganisasi. Sifat dan keadaan masing-masing daerah tentulah akan menjadi bahan\npertimbangan partai\npolitik dalam menyusun dan mengatur calon-calon ditiap-tiap\npemilihan daerah swatantra supaya hasil pemilihan\nitu nanti tidak saja menunjukkan\nperimb angan menurut besar kecilnya partai-partai, tetapi juga memberi perimbangan\nanggota yang terpilih untuk bagian-bagian dari daerah pemilihan. Oleh karena Undang-\nundang ini\nhanya mengenai satu daerah pemilihan dalam tiap -tiap daerah swatantra,\nmaka perbedaan-perbedaan yang didapati dalam\nUndang-undang ini dengan Undang-\nundang No. 7/1953 ialah akibat dari adanya hanya satu daerah pemilihan itu.\n11. Mengenai alat-alat perlengkapan diusahakan penyederhanaan dengan memakai alat-alat\nyang ada. Seterusnya\nPemerintah akan mengadakan peraturanperaturan pelaksanaan\nyang bersifat umum, dan dalam beberapa hal-hal yang mengenai\nkeadaan setempat,\nakan diatur oleh Daerah sendiri, sedang pelaksanaannya dilakukan oleh badan-badan\npenyelenggara pemilihan di daerah masing-masing. Susunan badan penyelenggara\npemilihan disesuaikan dengan susunan\notonomi Daerah, yang secara hierarchie\nbertingkat-tingkat tidak saja di lapangan administratif, tetapi juga di lapangan\notonomi.\nSusunan yang demikian nyata dapat dilihat dalam susunan Panitia Penyelenggara\nPropinsi.\nPanitia yang tertinggi dalam hal pemilihan Dewan Perwakilan Rakyat Daerah\nPropinsi adalah Panitia\nPemilihan Daerah Propinsi. Dalam menyelenggarakan\npekerjaannya, misalnya dalam pencalonan, penghitungan\nsurat-surat suara dan lain-lain,\nPanitia Pemilihan Daerah Propinsi itu dibantu oleh Panitia Pemilihan Daerah Kabupaten.\nAkan tetapi dalam penyelenggaraan pemilihan di Kabupaten, Kota-Besar, daerah\nswatantra tingkat\nterendah, hanyalah Panitia Pemilihan Daerah itu masing-masing yang\nmenyelenggarakan segala sesuatu, karena\nmasing -masing daerah tersebut dapat\nmengawasi perjalanan pemilihan dalam daerahnya, berlainan deng an daerah\nProp insi\nyang terlalu luas untuk diawasi dan diselenggarakan sendiri oleh Panitia Pemilihan.\n12. Masa duduk, jumlah anggota, larangan merangkap jab atan, syarat-syarat keanggotaan,\nadalah hal-hal\nyang seharusnya diatur dalam Undang-undang Pokok Pemerintahan\nDaerah. Sungguhpun demikian, karena adanya perbedaanperbedaan\nantara Undang-\nundang Pokok Pemerintah Daerah yang berlaku sekarang tentang materi yang tersebut,\nmaka sebelum adanya suatu Undangundang Pokok Pemerintahan Daerah yang berlaku\nuntuk seluruh wilayah Indone sia,\ndalam Undang -undang ini, dimasukkan ketentuan-\nketentuan tersebut sebagai pasal-pasal peralihan, yang disesuaikan\ndengan ketentuan-\nketentuan tentang materi tersebut sebagaimana tercantum dalam Rancangan Undang-\nundang Pokok Pemerintahan Daerah yang sudah berada ditangan Parlemen.\n13. Jangka waktu Undang-undang ini mengatur taraf-taraf pemilihan dan rangkaian waktu\nyang merupakan\nperiode-periode, agar terhindar kemungkinan timbulnya bahaya\nketidaksahan tindakan-tindakan, jikalau terjadi sesuatu\npenyimpangan bagaimana\nsekalipun kecilnya, dari ketentuan yang sudah ditetapkan dengan teliti dan saksama.\nSelain daripada itu Panitia-panitia Pemilihan Daerah dimaksudkan hanya akan\nmenetapkan perincian tanggal\nyang sesuai menurut tehnik pelaksanaan dalam batas-batas\njangka waktu yang diatur oleh Undangundang ini maupun peraturan\n-peraturan pelaksanaannya.\n14. Adapun istilah-istilah:\n1. daerah swatantra Propinsi.\n2. daerah swatantra Kabupaten dan\n3. daerah swatantra tingkat terendah. dalam Undang-undang ini, kelak akan\ndisesuaikan de ng\nan Undang-und ang Pokok Peme rintahan Daerah.\nPENJELASAN PASAL DEMI PASAL\nUmumnya pokok-pokok Undang-undang No. 7/1953 mengenai hak-pilih dan daftarpemilih,\nsebagaimana diatur\ndalam pasal 2 sampai dengan 14, dipakai juga sebagai pokok-pokok\nUndang-undang ini. Hanya saja pokok-pokok itu disesuaikan\ndengan keb utuhan daerah-\ndaerah swatantra dan disederhanakan penyusunannya, misalnya:\na. Pasal 2 memberi syarat tempat-tinggal pokok untuk hak-pilih.\nb. Pasal 6 memuat leb ih lanjut ketentuan mengenai tempat kediaman pokok.\nc. Pasal 12 mengatur daftar-pemilihan tambahan yang ketentuannya diatur\ndengan Peraturan Pemerintah.\nd. Pasal 14 bentuk daftar-pemilihan dan sebagainya ditetapkan dengan\nPeraturan\nPemerintah.\nPasal 3 dan pasal 24.\nSebenarnya dalam pasal 3 ayat 1 dan pasal 24 ayat 1 dicantumkan juga \"hukuman\ntutupan\".\ndimaksud oleh Undang-undang No. 20 tahun 1946 dari Pemerintah Republik\nIndonesia dulu (Yogyakarta). oleh karena Undang-undang\nitu konstitusionil masih berlaku\n(sebab belum dicabut), Tetapi karena Undang-undang itu tidak berlaku untuk seluruh\nIndonesia dan peraturan pelaksanaannya pun belum ada, maka dilihat dari sudut\npraktisnya, seb aiknya\nkata-kata itu tidak dimuat dalam pasalpasal tersebut.\nPa sal 85 ayat 4 menentukan bahwa alat yang penting untuk melaksanakan\npemilihan ialah\ndaftar pemilih. Daftar itu tidak perlu disusun baru lagi khusus untuk pemilihan Dewan\nPerwakilan Rakyat Daerah. Cukup lah kalau daftar-daftar pemilih yang dib uat atas dasar\nUndang-undang Pemilihan Umum,\nsesudah ditambah dan diubah\nseperlunya sampai dengan tahun pencalonan dipergunakan bagi pemilihan anggotaanggota\nDewan Perwakilan Rakyat Daerah.\nPasal 15 mengandung sistim yang lain, dan berbeda dengan sistim dalam Undang-undang\nPemilihan Umum, yaitu bahwa tiap-tiap daerah swatantra, baik tingkat Propinsi, Kabupaten\nmaupun tingkat\nterendah yang akan menyelenggarakan pemilihan, merupakan satu daerah\npemilihan saja. Pokok pikiran yang demikian sudah\njelas dikemukakan dalam penjelasan\nmengenai dasar-dasar penyusunan pada angka 1O. Walaupun prosedur Undang-undang\nNo. 7/1953 diikuti sebanyak mungkin, tetapi karena sistim yang terkandung dalam pasal 15\nberlainan dengan\nsistim yang ada dalam Undang-undang No. 7/ 1953 mengenai daerah\npemilihan, maka sudah b arang tentu p asal 15 ini akan\nme nentukan me ng akib atkan hal-\nhal yang berbeda.antara lain mengenai tugas panitia penyelenggara, cara melaksanakan\npencalonan dan pemasukan tanda-gamb ar, penetapan hasil pemungutan suara dan\nsebagainya, yang dapat diikuti\npada penjelasan pasal-pasal yang tersebut di bawah ini.\nPasal 16 ayat 2\nAda kemungkinan luas suatu daerah swatantra tingkat terendah hanya tejadi dari sebagian\ndari suatu Kecamatan\natau sama dengan luas daerah Kecamatan. Dalam hal yang\ndemikian akan sulit bagi Panitia Pemilihan Daerah yang bersangkutan\nuntuk membagi\ndaerahnya dalam daerah-daerah pemungutan suara yang menurut pasal 16 ayat I harus\nmerupakan\nKecamatan. Demikian juga mungkin pula suatu daerah Kabupaten yang\nwalaupun sudah terbagi dalam beberapa Kecamatan,\ntetapi untuk kelancaran pelaksanaan\nUndang-undang ini merasa perlu menambah jumlah Kecamatan itu. Karena itu ketentuan\npasal 16 ayat 2 memberi kemungkinan kepada Menteri Dalam Negeri untuk memb agi\ndaerah itu dalam\nke satuan-kesatuan daerah yang untuk menyelenggarakan Undang-\nundang ini dianggap sebagai Kecamatan.\nPasa l 17 dan 18\nSebagai akibat dari pasal 15, maka tiap -tiap daerah swatantra itu harus menyiapkan,\nmemimpin dan menyelenggarakan sendiri pemilihan anggota Dewan Perwakilan Rakyat\nDaerahnya masing-masing.\nOleh sebab itu buat tiap-tiap daerah swatantra, dibentuk Panitia\nPemilihan Daerah dengan nama daerah swatantra itu.\nTetapi dalam pemilihan anggota\nDewan Perwakilan Rakyat Daerah Propinsi, Karena luasnya daerah dan masih sukarnya\nperhubungan terutama di daerah-daerah luar Jawa, maka kiranya akan terlalu berat kalau\nsegala pekerjaan\nitu diserahkan kepada Panitia Pemilihan Daerah Prop insi sendiri. Oleh\nkarena itu untuk meng atasi ke sulitan di atas,\npasal 18 ayat 1 menentukan secara imperatif,\nbahwa Panitia Daerah Kabupaten diwajibkan memb antu persiapan dan penyelenggaraan\npemilihan anggota-anggota Dewan Perwakilan Rakyat Daerah Propinsi dalam\nKabupatennya,\nyaitu sebagai panitia bawahan yang menjadi petugas pembantu panitia\natasan dalam hal penyelenggaraan pemilihan panitia\natasan.\nPasal 19\nDalam susunan badan-badan penyelenggara dimasukkan prinsip baru dengan mendudukkan\nKepala Daerah karena\njab atannya, sebagai Ketua Panitia Pemilihan Daerah. Hal ini dianggap\nlebih sesuai dengan sifat Dewan Perwakilan Rakyat\nDaerah yang disamping tugasnya\nmengatur (perundang-undangan), terutama harus mengurus rumah-tangga daerahnya dan\npemerintahan. Di samping itu pemilihan daerah yang dipimpin dan diselenggarakan oleh\nPanitia Pemilihan\nDaerah, adalah termasuk kepentingan daerah itu sendiri. Pengangkatan\nWakil-Ketua dan anggotaanggota lainnya oleh Dewan\nPerwakilan Rakyat Daerah adalah lebih\nsesuai dengan sifat dae rah itu. Buat daerah swatantra dimana be lum ada Dewan\nPerwakilan\nRakyat Daerah atau dimana Dewan Perwakilan Rakyat Daerahnya dalam keadaan \"beku\",\npengangkatan\nitu dilakukan oleh Kepala Daerah, sesuai dengan Undang-undangNo. 10 tahun\n1956. Sungguhpun demikian perlu juga diperhatikan kemungkinan timbulnya sesuatu\nkesulitan. Dan untuk menghindarkannya,\nayat 3 memberi ketentuan untuk itu.\nPasal 20 ayat 2 Pada dasarnya anggota Panitia Pemungutan Suara diangkat oleh Dewan\nPerwakilan Rakyat Daerah, tetapi untuk praktek pelaksanaannya cukup dilakukan oleh Panitia\nPemilihan Daerah\nyang dibentuk oleh Dewan Perwakilan Rakyat itu.\nPasal 21 ayat 2 sama dengan di atas. Pasal 23 ayat 3 huruf a. Karena pengangkatan\ndilakukan oleh Dewan Perwakilan Rakyat Daerah, seharusnya pengambilan sumpah\ndilakukan pula oleh atau\ndi muka Dewan Perwakilan Rakyat Daerah. Atas pertimbangan-\npertimbangan praktis cukuplah kalau Kepala Daerah\nyang menjalankan tugas itu.\nPasal 24\nUndang-undang Pemilihan Umum mengatur lamanya masa keanggotaan pada Badan\nPenye leng gara\nPemilihan, tetap i tidak memb eri kekuasaan kepada Pemerintah untuk\nmemperhentikan anggotanya antara-waktu,\nsehingga seseorang anggota dalam jangka\nwaktu itu tidak dapat diperhentikan.\nDalam pemilihan\nanggota-anggota Dewan Perwakilan Rakyat Daerah, daerah-daerah\nswatantra yang bermacam-macam corak dan banyaknya itu,\nsecara tehnis tidak saja sulit\nmengadakan satu pemb atasan masa duduk dengan jangka waktu yang tertentu pun\ndianggap sudah pada tempatnya kalau penguasa yang mengangkat, diberi pula kekuasaan\nuntuk memperhentikan seseorang\nanggota karena kelalaian atau hal-hal lain.\nPasal 28 ayat 1 dan .MengikutisistimdariUndang-undangPemilihanUmum,hanya 2 saja\nharus disesuaikan dengan sifat daerah. Jika dalam ayat 2 pasal ini ditentukan jumlah 20\nbagi Propinsi,\n15 bagi Kabupaten dan 10 bagi tingkat terendah, maka tambahan itu sudah\nmerupakan perbandingan yang selayaknya.\nPasal 30\nMengandung pokok pikiran yang sama dengan pasal 28.\nPasal 33\nPasal pokoknya mengikuti prosedur yang dipakai dalam Undang -undang Pemilihan Umum.\nHanya saja karena Undang-undang ini mengenal satu daerah pemilihan saja, maka tanda-\ngambar harus diajukan\nlangsung kepada Panitia Pemilihan Daerah, untuk mana pemilihan\nDewan Perwakilan Rakyat Daerah diadakan. Jelasnya tandagambar\nitu harus diajukan\nkepada:\na. Panitia Pemilihan Daerah Propinsi dalam hal pemilihan anggota Dewan Perwakilan\nRakyat Daerah Prop\ninsi;\nb. Panitia pemilihan Daerah Kabupaten, dalam hal pemilihan anggota Dewan Perwakilan\nRakyat Daerah\nKabupaten;\nc. Panitia Pemilihan Daerah tingkat Yang terendah, dalam hal pemilihan anggota Dewan\nPerwakilan\nRakyat Daerah tingkat yang terendah.\nDalam hal ini untuk pemilihan anggota Dewan Perwakilan Rakyat Daerah Propinsi\nkesukaran-kesukaran karena luasnya Daerah dan sulitnya perhubungan dapat dip erkecil,\nsebab yang akan\nmengajukan tanda-gambar itu ialah pengurus yang tertinggi dari sesuatu\npartai di daerah swatantra itu. Pengurus\ndemikian pada galibnya bertempat kedudukan di\nibukota daerah swatantra yang bersangkutan, sehingga dekat dengan Panitia\nPemilihan\nDaerah, dimana tanda-gambar itu harus disampaikan.\nPasal 34\nPasal ini menentukan siapa yang harus mengajukan tanda-gambar, sesuai dengan pasal 23\nPeraturan Pemerintah No. 9/1954. Perbedaannya hanya bahwa dalam pasal ini Panitia\nPemilihan\nDaerah memberi nomor yang terdiri dari angka biasa saja, tanpa huruf latin,\nsebab huruf latin dalam Peraturan Pemerintah\nNo. 9/1954 dimaksudkan untuk menunjukkan\ndaerah pemilihan, sedang Undang-undang ini hanya mengenai satu daerah pemilihan.\nPasal 38 pada pokoknya sesuai dengan Undang-undang Pemilihan Umum.\nAyat 2 pasal ini dimaksudkan untuk mencegah kesukaran-kesukaran karena luasnya\ndaerah dan sukarnya perhubungan.\nLagi pula Panitia Pemilihan Daerah Kabupaten\ndianggap lebih mengetahui hal-ikhwal seseorang calon ataupun pemilih.\nPasal 39 mengandung pokok pikiran yang sama dengan pasal 33.\nPasal 47 sampai dengan pasal 55\nKarena dipakai sistim satu daerah pemilihan, maka untuk pemilihan suatu Dewan Perwakilan\nRakyat Daerah\npenyusunan diftar-calon sementara dan daftar-calon tetap dilakukan oleh\nPanitia Penyelenggara yang sama. Misalnya untuk\npemilihan Dewan Perwakilan Rakyat\nDaerah Prop insi, penyusunan daftar-calon sementara dan daftarcalon tetap kedua-duanya\ndilakukan oleh Panitia Pemilihan Daerah Propinsi itu\nsendiri. Oleh karena itu pasal-pasal yang mengandung\nketentuan tentang daftar calon\nsementara dan daftar-calon tetap berbeda dengan ketentuan-ketentuan yang mengenai hal\ntersebut dalam Undang-undang Pemilihan Umum.\nPerbedaan-p erbedaan itu antara lain:\na. Daftar-calon sementara yang disusun oleh Panitia Pemilihan Daerah\ndiumumkan oleh\nPanitia tersebut dalam daerahnya (pasal 48);\nb. Setiap orang boleh mengajukan keberatan;\nc. Panitia Pemilihan Daerah memeriksa daftar-calon sementara tersebut dalam\nrap at\nterbuka.\nDalam rapat terbuka itu kecuali diperiksa daftar-calon sementara, juga diambil keputusan\nmengenai\nkeberatan yang diajukan; daftar yang tidak memakai tandagambar diberi tanda-\ngambar (pasal 5 1 ). Kemudian Panitia\nPemilihan Daerah dengan undian memberi nomor\npada tiap-tiap daftar dengan memperhatikan penggabungan, setelah mana\ndaftar-calon\nsementara itu menjadi daftar-calon tetap (pasal 52). Daftar-calon tetap diumumkan.\nPasal 56 sampai dengan pasal, 72tentang pemungutan dan penghitungan suara mengikuti\nprosedur yang sesuai dengan Undang-undang Pemilihan Umum. Ke cuali dalam pasal 69\ndimasukkan\ncara baru tentang penghitungan suara dan Berita Acara Pemungutan Suara, di\nmana Panitia Pemungutan Suara harus\nmemeriksa berita acara pemungutan suara, yang\nditerimanya dari Panitia Penyelenggara Pemungutan Suara.Setelah\nitu Panitia Pemungutan\nSuara mengirimkan Berita Acara Pemungutan Suara yang sudah diperiksanya itu kepada\nPanitia Pemilihan Daerah, untuk mana pemilihan Dewan Perwakilan Rakyat Daerah itu\ndiadakan. Pada pokoknya\njuga dalam hal pemilihan Dewan Perwakilan Rakyat Daerah\nswatantra Propinsi pengiriman itu dari Panitia Pemungutan Suara\ndilakukan langsung ke\nPanitia Pemilihan Daerah Propinsi. Tetapi atas pertimbangan kesulitan-kesulitan karena\nluasnya daerah dan sukarnya perhubungan, maka ayat 6 dari pasal ini membolehkan\npengiriman itu melalui Panitia\nPemilihan Daerah Kabupaten, dan dalam hal yang demikian\nPanitia Pemilihan Daerah Kabupaten juga melakukan pemeriksaan\nseperti yang dilakukan\noleh Panitia Pemungutan Suara.\nPasal 71\nBerhubung dengan keadaan pemilih yang tidak mungkin berada pada tempat pemberian\nsuara yang ditentukan\nbaginya, karena sifat pekerjaannya atau karena hal-hal lain, seperti\npelaut, pegawai yang melakukan perjalanan dinas,\ndan sebagainya, maka pasal ini memb eri\nkesempatan kepada mereka untuk melakukan hak-pilihnya ditemp at pemb erian\nsuara lain, asal masih\ndalam daerah pemilihan itu, dengan membawa surat kutipan daftar-pemilih mengenai namanya,\nPasal 75\nMengenai cara pembagian kursi untuk masing-masing daftar sesuai dengan sistim satu\ndaerah pemilihan,\nyaitu pembagian kursi hanya dilakukan satu kali saja oleh Panitia\nPemilihan Daerah yang mengadakan pemilihan, dengan\nmelalui 3 taraf pembagian yakni:\n1. Tiap daftar yang mencapai pembagi-pemilihan.\n2. Gabungan daftar yang jumlah sisa suaranya mencapai pembagi pemilihan.\n3. Daftar gabungan daftar yang jumlah sisa suaranya terbanyak,\nKeterangan:\nBeberapa\npasal yang tidak dicantumkan di atas dianggap sudah cukup jelas. Termasuk\nLembaran-Negara No. 44 tahun 1956.\n--------------------------------\nCATATAN\n*)Disetujui D.P.R. dalam rapat pleno terbuka ke-53 pada hari Jum'at tanggal 24 Agustus"
+   }
+  }
+ ]
+}

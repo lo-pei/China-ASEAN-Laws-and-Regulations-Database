@@ -1,0 +1,62 @@
+{
+ "id": "PH-H14663",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Section Two of Act Numbered thirty-three Hundred and Ninety-Six, Establishing Additional Exemptions From the Obligation to Install Radio Apparatus on Ships of Philippine Register.",
+  "orig": "An Act to Amend Section Two of Act Numbered thirty-three Hundred and Ninety-Six, Establishing Additional Exemptions From the Obligation to Install Radio Apparatus on Ships of Philippine Register."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1933-10-12",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 4072",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 795,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1933/act_4072_1933.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_04072_1933_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_04072_1933_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14663-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section two of Act Numbered Thirty-three hundred and ninety-six is hereby amended to read as\n\"Section 2. Vessels of Philippine register of three hundred and fifty tons gross or over carrying passengers in\nthe coastwise trade, except vessels plying exclusively on rivers, lakes, and bays, and on straits when the\ndistance traversed is not greater than thirty nautical miles and the voyage does not last over three hours, shall\nbe equipped with radio apparatus capable of sending and receiving communications over a distance of not less\nthan two hundred nautical miles: Provided, That vessels of two hundred tons net making regular trips from\none port to another for more than fifteen hours shall be included in this section.\""
+   }
+  },
+  {
+   "id": "PH-H14663-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, October 12, 1933."
+   }
+  }
+ ]
+}

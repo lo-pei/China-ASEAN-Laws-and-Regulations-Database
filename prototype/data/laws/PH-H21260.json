@@ -1,0 +1,82 @@
+{
+ "id": "PH-H21260",
+ "title": {
+  "zh": null,
+  "en": "Declaring the National Science and Technology Authority as Critical Agency",
+  "orig": "Declaring the National Science and Technology Authority as Critical Agency"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p159",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1983-07-19",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Executive Order No. 902",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 619,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/07_行政命令_EO/EO_00902_1983_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 EO_00902_1983_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H21260-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Sec 1"
+   },
+   "text": {
+    "en": "The National Science and Technology Authority is hereby declared as a critical agency."
+   }
+  },
+  {
+   "id": "PH-H21260-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Sec 2"
+   },
+   "text": {
+    "en": "Accordingly, the salary structure of the Office of the President shall be applicable, where appropriate,\nto all authorized regular positions allocated to the National Science and Technology Authority and those of its"
+   }
+  },
+  {
+   "id": "PH-H21260-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Sec 3"
+   },
+   "text": {
+    "en": "The implementing compensation circular to carry out this order shall be prepared by the Office of the\nBudget and Management in coordination with NSTA."
+   }
+  },
+  {
+   "id": "PH-H21260-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Sec 4"
+   },
+   "text": {
+    "en": "This Executive Order shall take effect on 1 January 1984.\nDone in the City of Manila, this 19th day of July in the year of Our Lord, nineteen hundred and eighty-three."
+   }
+  }
+ ]
+}

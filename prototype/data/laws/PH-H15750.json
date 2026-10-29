@@ -1,0 +1,62 @@
+{
+ "id": "PH-H15750",
+ "title": {
+  "zh": null,
+  "en": "An Act Authorizing: the President of the Philippines to Receive and Accept Donations of Money Made for the National Defense and to Prescribe the Rules and Regulations Under Which the Donated Money May Be Expended By the Philippine",
+  "orig": "An Act Authorizing: the President of the Philippines to Receive and Accept Donations of Money Made for the National Defense and to Prescribe the Rules and Regulations Under Which the Donated Money May Be Expended By the Philippine"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1936-09-22",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 33",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 619,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00033_1936_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00033_1936_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H15750-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The President of the Philippines is authorized to receive and accept donations of money, not\nsubject to any onerous condition, made for the purpose of the national defense or support of the Philippine\nArmy. Said donations, once accepted, shall be irrevocable. The President is also authorized to prescribe the\nrules and regulations under which the donated money may lie expended by the Philippine Army, without\naffecting in any way its yearly appropriation. Donations made for a specific purpose shall be expended or used\nonly for that purpose."
+   }
+  },
+  {
+   "id": "PH-H15750-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, September 22, 1936."
+   }
+  }
+ ]
+}

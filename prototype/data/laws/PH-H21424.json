@@ -1,0 +1,62 @@
+{
+ "id": "PH-H21424",
+ "title": {
+  "zh": null,
+  "en": "Repealing Executive Order No. 955, as Amended By Executive Order No. 988, Additional Import Duty on Imported Articles",
+  "orig": "Repealing Executive Order No. 955, as Amended By Executive Order No. 988, Additional Import Duty on Imported Articles"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p159",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1986-01-01",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Executive Order No. 1062",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 344,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/07_行政命令_EO/EO_01062_1986_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 EO_01062_1986_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H21424-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Sec 1"
+   },
+   "text": {
+    "en": "The provisions of Executive Order No. 955, series of 1984, as amended by Executive Order No. 988,\nand the rules and regulations issued pursuant thereto, are hereby repealed."
+   }
+  },
+  {
+   "id": "PH-H21424-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Sec 2"
+   },
+   "text": {
+    "en": "This Executive Order shall take effect on January 1, 1986.\nDone in the City of Manila, this 7th day of November, in the year of Our Lord, nineteen hundred and\neighty-five."
+   }
+  }
+ ]
+}

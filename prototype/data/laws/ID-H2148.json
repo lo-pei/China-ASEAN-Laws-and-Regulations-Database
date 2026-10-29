@@ -1,0 +1,2222 @@
+{
+ "id": "ID-H2148",
+ "title": {
+  "zh": "粮食法",
+  "en": "food Law",
+  "id": "pangan",
+  "orig": "PANGAN",
+  "vi": "Luật lương thực",
+  "th": "พระราชบัญญัติ อาหาร",
+  "ms": "Akta pangan"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02c",
+ "language": "id",
+ "level": "law",
+ "category": "04_劳工与行政法",
+ "status": "active",
+ "promulgatedDate": "2012",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU18-2012",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 154,
+ "chars": 99866,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU%20Nomor%2018%20Tahun%202012.pdf&fl=P14626"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\04_劳工与行政法\\印尼_文本_2012_PANGAN.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 154 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H2148-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\nDalam Undang-Undang ini yang dimaksud dengan:\n1. Pangan adalah segala sesuatu yang berasal dari sumber\nhayati produk pertanian, perkebunan, kehutanan,\nperikanan, peternakan, perairan, dan air, baik yang\ndiolah maupun tidak diolah yang diperuntukkan sebagai\nmakanan atau minuman bagi konsumsi manusia,\ntermasuk bahan tambahan Pangan, bahan baku Pangan,\ndan bahan lainnya yang digunakan dalam proses\npenyiapan, pengolahan, dan/atau pembuatan makanan\natau minuman.\n2. Kedaulatan Pangan adalah hak negara dan bangsa yang\nsecara mandiri menentukan kebijakan Pangan yang\nmenjamin hak atas Pangan bagi rakyat dan yang\nmemberikan hak bagi masyarakat untuk menentukan\nsistem Pangan yang sesuai dengan potensi sumber daya\nlokal.\n3. Kemandirian Pangan adalah kemampuan negara dan\nbangsa dalam memproduksi Pangan yang beraneka ragam\ndari dalam negeri yang dapat menjamin pemenuhan\nkebutuhan Pangan yang cukup sampai di tingkat\nperseorangan dengan memanfaatkan potensi sumber daya\nalam, manusia, sosial, ekonomi, dan kearifan lokal secara\nbermartabat.\n4. Ketahanan . . .\n\n\n\n4. Ketahanan Pangan adalah kondisi terpenuhinya Pangan\nbagi negara sampai dengan perseorangan, yang tercermin\ndari tersedianya Pangan yang cukup, baik jumlah\nmaupun mutunya, aman, beragam, bergizi, merata, dan\nterjangkau serta tidak bertentangan dengan a gama,\nkeyakinan, dan budaya masyarakat, untuk dapat hidup\nsehat, aktif, dan produktif secara berkelanjutan.\n5. Keamanan Pangan adalah kondisi dan upaya yang\ndiperlukan untuk mencegah Pangan dari kemungkinan\ncemaran biologis, kimia, dan benda lain yang dapat\nmengganggu, merugikan , dan membahayakan kesehatan\nmanusia serta tidak bertentangan dengan agama,\nkeyakinan, dan budaya masyarakat sehingga aman untuk\ndikonsumsi.\n6. Produksi Pangan adalah kegiatan  atau proses\nmenghasilkan, menyiapkan, mengolah, membuat,\nmengawetkan, mengemas, mengemas kembali, dan/atau\nmengubah bentuk Pangan.\n7. Ketersediaan Pangan adalah kondisi tersedianya Pangan\ndari hasil produksi dalam negeri dan Cadangan Pangan\nNasional serta impor apabila kedua sumber utama tidak\ndapat memenuhi kebutuhan.\n8. Cadangan Pangan Nasional adalah persediaan Pangan di\nseluruh wilayah Negara Kesatuan Republik Indonesia\nuntuk konsumsi manusia dan untuk menghadapi\nmasalah kekurangan Pangan,  gangguan pasokan dan\nharga, serta keadaan darurat.\n9. Cadangan Pangan Pemerintah  adalah persediaan Pangan\nyang dikuasai dan dikelola oleh Pemerintah.\n10. Cadangan Pangan Pemerintah Provinsi adalah persediaan\nPangan yang dikuasai dan dikelola oleh pemerintah\nprovinsi.\n11. Cadangan Pangan Pemerintah Kabupaten/Kota adalah\npersediaan Pangan yang dikuasai dan dikelola oleh\npemerintah kabupaten/kota.\n12. Cadangan Pangan Pemerintah Desa adalah persediaan\nPangan yang dikuasai dan dikelola oleh pemerintah desa.\n13. Cadangan Pangan Masyarakat adalah persediaan Pangan\nyang dikuasai dan dikelola oleh masyarakat  di t ingkat\npedagang, komunitas, dan rumah tangga.\n\n\n14. Penyelengaraan . . .\n\n\n\n\n14. Penyelenggaraan Pangan adalah kegiatan perencanaan,\npelaksanaan, dan pengawasan dalam penyediaan,\nketerjangkauan, pemenuhan konsumsi Pangan dan Gizi,\nserta keamanan Pangan dengan melibatkan peran serta\nmasyarakat yang terkoordinasi dan terpadu.\n15. Pangan Pokok adalah Pangan yang diperuntukkan\nsebagai makanan utama sehari -hari sesuai dengan\npotensi sumber daya dan kearifan lokal.\n16. Penganekaragaman Pangan adalah upaya peningkatan\nketersediaan dan konsumsi Pangan yang beragam, bergizi\nseimbang, dan berbasis pada potensi sumber daya lokal.\n17. Pangan Lokal adalah makanan yang dikonsumsi oleh\nmasyarakat setempat sesuai dengan potensi dan kearifan\nlokal.\n18. Pangan Segar adalah Pangan yang belum men galami\npengolahan yang dapat dikonsumsi langsung dan/atau\nyang dapat menjadi bahan baku pengolahan Pangan.\n19. Pangan Olahan adalah makanan atau minuman hasil\nproses dengan cara atau metode tertentu dengan atau\ntanpa bahan tambahan.\n20. Petani adalah warga negara Indonesia, baik perseorangan\nmaupun beserta keluarganya yang melakukan usaha tani\ndi bidang Pangan.\n21. Nelayan adalah warga negara Indonesia , baik\nperseorangan maupun beserta keluarganya yang mata\npencahariannya melakukan penangkapan ikan.\n22. Pembudi Daya Ikan adalah warga negara Indonesia , baik\nperseorangan maupun beserta keluarganya yang mata\npencahariannya membesarkan, membiakkan, dan/atau\nmemelihara ikan dan sumber hayati perairan lainnya\nserta memanen hasilnya dalam lingkungan yang\nterkontrol.\n23. Perdagangan Pangan adalah setiap kegiatan atau\nserangkaian kegiatan dalam rangka penjualan dan/atau\npembelian Pangan, termasuk penawaran untuk menjual\nPangan dan kegiatan lain yang berkenaan dengan\npemindahtanganan Pangan dengan memperoleh imbalan.\n\n24. Ekspor . . .\n\n\n\n\n24. Ekspor Pangan adalah kegiatan mengeluarkan Pangan\ndari daerah pabean negara Republik Indonesia yang\nmeliputi wilayah darat, perairan, dan ruang udara di\natasnya, tempat -tempat tertentu di Zona Ekonomi\nEksklusif, dan landas kontinen.\n25. Impor Pangan adalah k egiatan memasukkan Pangan ke\ndalam daerah pabean negara Republik Indonesia yang\nmeliputi wilayah darat, perairan, dan ruang udara di\natasnya, tempat -tempat tertentu di Zona Ekonomi\nEksklusif, dan landas kontinen.\n26. Peredaran Pangan adalah setiap kegiatan at au\nserangkaian kegiatan dalam rangka penyaluran Pangan\nkepada masyarakat, baik diperdagangkan maupun tidak.\n27. Bantuan Pangan adalah Bantuan Pangan Pokok dan\nPangan lainnya yang diberikan oleh Pemerintah,\nPemerintah Daerah, dan/atau masyarakat dalam\nmengatasi Masalah Pangan dan Krisis Pangan,\nmeningkatkan akses Pangan bagi masyarakat miskin\ndan/atau rawan Pangan dan Gizi, dan kerja sama\ninternasional.\n28. Masalah Pangan adalah keadaan kekurangan, kelebihan,\ndan/atau ketidakmampuan perseorangan atau rumah\ntangga da lam memenuhi kebutuhan Pangan dan\nKeamanan Pangan.\n29. Krisis Pangan adalah kondisi kelangkaan Pangan yang\ndialami sebagian besar masyarakat di suatu wilayah yang\ndisebabkan oleh, antara lain, kesulitan distribusi Pangan,\ndampak perubahan iklim, bencana alam d an lingkungan,\ndan konflik sosial, termasuk akibat perang.\n30. Sanitasi Pangan adalah upaya untuk  menciptakan dan\nmempertahankan kondisi Pangan yang sehat dan higienis\nyang bebas dari bahaya cemaran biologis, kimia, dan\nbenda lain.\n31. Persyaratan Sanitasi adal ah standar kebersihan dan\nkesehatan yang harus dipenuhi untuk menjamin Sanitasi\nPangan.\n32. Iradiasi Pangan adalah metode penanganan Pangan , baik\ndengan menggunakan zat radioaktif maupun akselerator\nuntuk mencegah terjadinya pembusukan dan kerusakan,\nmembebaskan Pangan dari jasad renik patogen, serta\nmencegah pertumbuhan tunas.\n\n33. Rekayasa . . .\n\n\n\n\n33. Rekayasa Genetik Pangan adalah suatu proses yang\nmelibatkan pemindahan gen (pembawa sifat) dari suatu\njenis hayati ke jenis hayati lain yang berbeda atau sama\nuntuk mendapatkan jenis baru yang mampu\nmenghasilkan produk Pangan yang lebih unggul.\n34. Pangan Produk Rekayasa Genetik adalah Pangan yang\ndiproduksi atau yang menggunakan bahan baku, bahan\ntambahan Pangan, dan/atau bahan lain yang dihasilkan\ndari proses rekayasa genetik.\n35. Kemasan Pangan adalah bahan yang digunakan untuk\nmewadahi dan/atau membungkus Pangan, baik yang\nbersentuhan langsung dengan Pangan maupun tidak.\n36. Mutu Pangan adalah nilai yang ditentukan atas dasar\nkriteria keamanan dan kandungan Gizi Pangan.\n37. Gizi adalah zat atau senyawa yang terdapat dalam Pangan\nyang terdiri atas karbohidrat, protein, lemak, vitamin,\nmineral, serat, air, dan komponen lain  yang bermanfaat\nbagi pertumbuhan dan kesehatan manusia.\n38. Setiap Orang adalah orang perseorangan atau korporasi,\nbaik yang berbadan hukum maupun yang tidak berbadan\nhukum.\n39. Pelaku Usaha Pangan adalah Setiap Orang yang bergerak\npada satu atau lebih subsistem agribisnis Pangan, yaitu\npenyedia masukan produksi, proses produksi,\npengolahan, pemasaran, perdagangan, dan penunjang.\n40. Pemerintah Pusat, selanjutnya disebut Pemerintah, adalah\nPresiden Republik Indonesia yang memegang kekuasaan\nPemerintahan negara Republik Indonesia sebagaimana\ndimaksud dalam Undang -Undang Dasar Negara Republik\nIndonesia Tahun 1945.\n41. Pemerintah Daerah adalah gubernur, bupati atau walikota,\ndan perangkat daerah sebagai unsur penyelenggara\npemerintahan daerah.\n\n\n\nBAB II . . .\n\n\n\n\n\n\n\nBAB II\nASAS, TUJUAN, DAN LINGKUP PENGATURAN"
+   }
+  },
+  {
+   "id": "ID-H2148-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\nPenyelenggaraan Pangan dilakukan dengan berdasarkan\nasas:\na. kedaulatan;\nb. kemandirian;\nc. ketahanan;\nd. keamanan;\ne. manfaat;\nf. pemerataan;\ng. berkelanjutan; dan\nh. keadilan."
+   }
+  },
+  {
+   "id": "ID-H2148-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\nPenyelenggaraan Pangan dilakukan untuk memenuhi\nkebutuhan dasar manusia yang memberikan manfaat secara\nadil, merata, dan berkelanjutan  berdasarkan Kedaulatan\nPangan, Kemandirian Pangan, dan Ketahanan Pangan."
+   }
+  },
+  {
+   "id": "ID-H2148-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\nPenyelenggaraan Pangan bertujuan untuk:\na. meningkatkan kemampuan memproduksi Pangan secara\nmandiri;\nb. menyediakan Pangan yang beraneka ragam dan\nmemenuhi persyaratan keamanan, mutu, dan Gizi bagi\nkonsumsi masyarakat;\nc. mewujudkan tingkat kecukupan Pangan , terutama\nPangan Pokok dengan harga yang wajar dan terjangkau\nsesuai dengan kebutuhan masyarakat;\nd. mempermudah atau meningkatkan akses Pangan bagi\nmasyarakat, terutama masyarakat rawan Pangan dan\nGizi;\ne. meningkatkan nilai tambah dan daya saing komoditas\nPangan di pasar  dalam negeri dan luar negeri;\n\nf. meningkatkan . . .\n\n\n\n\nf. meningkatkan pengetahuan dan kesadaran masyarakat\ntentang Pangan yang aman, bermutu, dan bergizi bagi\nkonsumsi masyarakat;\ng. meningkatkan kesejahteraan bagi Petani, Nelayan,\nPembudi Daya Ikan, dan Pelaku Usaha Pangan; dan\nh. melindungi dan mengembangkan kekayaan sumber daya\nPangan nasional."
+   }
+  },
+  {
+   "id": "ID-H2148-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\nLingkup pengaturan Penyelenggaraan Pangan meliputi:\na. perencanaan Pangan;\nb. Ketersediaan Pangan;\nc. keterjangkauan Pangan;\nd. konsumsi Pangan dan Gizi;\ne. Keamanan Pangan;\nf. label dan iklan Pangan;\ng. pengawasan;\nh. sistem informasi Pangan;\ni. penelitian dan pengembangan Pangan;\nj. kelembagaan Pangan;\nk. peran serta masyarakat; dan\nl. penyidikan.\n\nBAB III\nPERENCANAAN"
+   }
+  },
+  {
+   "id": "ID-H2148-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\nPerencanaan Pangan dilakukan untuk merancang\nPenyelenggaraan Pangan ke arah Kedaulatan Pangan,\nKemandirian Pangan, dan Ketahanan Pangan."
+   }
+  },
+  {
+   "id": "ID-H2148-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\nPerencanaan Pangan harus memperhatikan:\na. pertumbuhan dan sebaran penduduk;\n\nb. kebutuhan . . .\n\n\n\n\nb. kebutuhan konsumsi Pangan dan Gizi;\nc. daya dukung sumber daya alam , teknologi,  dan\nkelestarian lingkungan;\nd. pengembangan sumber daya manusia  dalam\nPenyelenggaraan Pangan;\ne. kebutuhan sarana dan prasarana  Penyelenggaraan\nPangan;\nf. potensi Pangan dan budaya lokal;\ng. rencana tata ruang wilayah; dan\nh. rencana pembangunan nasional dan daerah."
+   }
+  },
+  {
+   "id": "ID-H2148-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n(1) Perencanaan Pangan harus terintegrasi dalam rencana\npembangunan nasional dan rencana pembangunan\ndaerah.\n(2) Perencanaan Pangan sebagaimana dimaksud pada ayat\n(1) dilaksanakan oleh Pemerintah dan/atau Pemerintah\nDaerah dengan melibatkan peran masyarakat.\n(3) Perencanaan Pangan sebagaimana dimaksud pada ayat\n(2) disusun di tingkat nasional, provinsi, dan\nkabupaten/kota.\n(4) Perencanaan Pangan ditetapkan dalam rencana\npembangunan jangka panjang, rencana pembangunan\njangka menengah, dan rencana kerja tahunan di tingkat\nnasional, provinsi, dan kabupaten/kota sesuai dengan\nketentuan peraturan perundang-undangan."
+   }
+  },
+  {
+   "id": "ID-H2148-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n(1) Perencanaan Pangan tingkat nasional dilakukan dengan\nmemperhatikan rencana pembangunan nasional serta\nkebutuhan dan usulan provinsi.\n(2) Perencanaan Pangan tingkat provinsi dilakukan dengan\nmemperhatikan rencana pembangunan provinsi dan\nmemperhatikan kebutuhan dan usulan kabupaten/kota\nserta dilakukan dengan  berpedoman pada rencana\nPangan nasional.\n\n(3) Perencanaan . . .\n\n\n\n(3) Perencanaan Pangan tingkat kabupaten/kota dilakukan\ndengan memperhatikan rencana pembangunan\nkabupaten/kota dan rencana Pangan tingkat provinsi\nserta dilakukan dengan berpedoman pada rencana\nPangan nasional."
+   }
+  },
+  {
+   "id": "ID-H2148-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\n(1) Perencanaan Pangan diwujudkan dalam bentuk rencana\nPangan.\n(2) Rencana Pangan sebagaimana dimaksud pada ayat (1)\nterdiri atas:\na. rencana Pangan nasional;\nb. rencana Pangan provinsi; dan\nc. rencana Pangan kabupaten/kota.\n(3) Rencana Pangan sebagaimana dimaksud pada ayat (2)\nditetapkan oleh Presiden, gubernur, atau bupati/walikota\nsesuai dengan ketentuan peraturan perundang -\nundangan."
+   }
+  },
+  {
+   "id": "ID-H2148-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  11\nRencana Pangan nasional sekurang-kurangnya memuat:\na. kebutuhan konsumsi Pangan dan status Gizi masyarakat;\nb. Produksi Pangan;\nc. Cadangan Pangan terutama Pangan Pokok;\nd. Ekspor Pangan;\ne. Impor Pangan;\nf. Penganekaragaman Pangan;\ng. distribusi, perdagangan, dan pemasaran Pangan,\nterutama Pangan Pokok;\nh. stabilisasi pasokan dan harga Pangan Pokok;\ni. Keamanan Pangan;\nj. penelitian dan pengembangan Pangan;\nk. kebutuhan dan diseminasi ilmu peng etahuan dan\nteknologi di bidang Pangan;\n\nl. kelembagaan . . .\n\n\n\n\n\nl. kelembagaan Pangan; dan\nm. tingkat pendapatan Petani, Nelayan, Pembudi Daya Ikan,\ndan Pelaku Usaha Pangan.\n\nBAB IV\nKETERSEDIAAN PANGAN\nBagian Kesatu\nUmum"
+   }
+  },
+  {
+   "id": "ID-H2148-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n(1) Pemerintah dan Pemerintah Daerah   bertanggung jawab\natas Ketersediaan Pangan.\n(2) Pemerintah dan Pemerintah Daerah bertanggung jawab\natas Ketersediaan Pangan di daerah dan pengembangan\nProduksi Pangan Lokal di daerah.\n(3) Dalam mewujudkan Ketersediaan Pangan melal ui\npengembangan Pangan Lokal,  Pemerintah Daerah\nmenetapkan  jenis Pangan lokalnya.\n(4) Penyediaan Pangan diwujudkan untuk memenuhi\nkebutuhan dan konsumsi Pangan bagi masyarakat,\nrumah tangga, dan perseorangan secara berkelanjutan.\n(5) Untuk mewujudkan Ketersediaan Pangan melalui\nProduksi Pangan dalam negeri dilakukan dengan:\na. mengembangkan Produksi Pangan yang  bertumpu\npada sumber daya, kelembagaan, dan budaya lokal;\nb. mengembangkan efisiensi sistem usaha Pangan;\nc. mengembangkan sarana, prasarana, dan teknologi\nuntuk produksi, penanganan pascapanen,\npengolahan, dan penyimpanan Pangan;\nd. membangun, merehabilitasi, dan  mengembangkan\nprasarana Produksi Pangan;\ne. mempertahankan dan mengembangkan lahan\nproduktif; dan\nf. membangun kawasan sentra Produksi Pangan.\n(6) Pemerintah menetapkan sentra Produksi Pangan Lokal\nsesuai dengan usulan Pemerintah Daerah."
+   }
+  },
+  {
+   "id": "ID-H2148-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13 "
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kesatu"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 13 . . .\n\n\n\n\nPasal 13\nPemerintah berkewajiban mengelola stabilisasi pasokan dan\nharga Pangan Pokok, mengelola  cadangan Pangan Pokok\nPemerintah, dan distribusi Pangan Pokok untuk mewujudkan\nkecukupan Pangan Pokok ya ng aman dan bergizi bagi\nmasyarakat."
+   }
+  },
+  {
+   "id": "ID-H2148-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\n(1) Sumber penyediaan Pangan berasal dari Produksi Pangan\ndalam negeri dan Cadangan Pangan Nasional.\n(2) Dalam hal sumber penyediaan Pangan sebagaimana\ndimaksud pada ayat (1) belum mencukupi, Pangan dapat\ndipenuhi dengan Impor Pangan sesuai dengan kebutuhan."
+   }
+  },
+  {
+   "id": "ID-H2148-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\n(1) Pemerintah mengutamakan Produksi Pangan dalam\nnegeri untuk  pemenuhan kebutuhan konsumsi Pangan.\n(2) Dalam hal Ketersediaan Pangan untuk kebutuhan\nkonsumsi dan cadangan Pangan sudah tercukupi,\nkelebihan Produksi Pangan dalam negeri dapat digunakan\nuntuk keperluan lain.\n\nBagian Kedua\n Produksi Pangan Dalam Negeri\nParagraf 1\nPotensi Produksi Pangan"
+   }
+  },
+  {
+   "id": "ID-H2148-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\n(1) Pemerintah, Pemerintah Daerah, dan masyarakat\nmengembangkan potensi Produksi Pangan.\n(2) Pengembangan potensi Produksi Pangan sebagaimana\ndimaksud pada ayat (1) dilakukan dengan memanfaatkan:\na. sumber daya manusia;\nb. sumber daya alam;\nc. sumber . . .\n\n\n\n\n\nc. sumber pendanaan;\nd. ilmu pengetahuan dan teknologi;\ne. sarana dan prasarana Pangan; dan\nf. kelembagaan Pangan."
+   }
+  },
+  {
+   "id": "ID-H2148-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\nPemerintah dan Pemerintah Daerah berkewajiban melindungi\ndan memberdayakan  Petani, Nelayan, Pembudi Daya Ikan,\ndan Pelaku Usaha Pangan sebagai produsen Pangan."
+   }
+  },
+  {
+   "id": "ID-H2148-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\nPemerintah dan Pemerintah Daerah dalam memenuhi\nkebutuhan Pangan berkewajiban:\na. mengatur, m engembangkan, dan mengalokasikan lahan\npertanian dan sumber daya air;\nb. memberikan penyuluhan dan pendampingan;\nc. menghilangkan berbagai kebijakan yang berdampak pada\npenurunan daya saing; dan\nd. melakukan pengalokasian anggaran."
+   }
+  },
+  {
+   "id": "ID-H2148-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\nPemerintah dan Pemerint ah Daerah berkewajiban\nmengembangkan dan  menyebarluaskan ilmu pengetahuan\ndan teknologi untuk peningkatan Produksi Pangan."
+   }
+  },
+  {
+   "id": "ID-H2148-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\nPemerintah dan Pemerintah Daerah memfasilitasi\npenggunaan dan pengembangan sarana dan prasarana dalam\nupaya meningkatkan Produksi Pangan."
+   }
+  },
+  {
+   "id": "ID-H2148-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\nPemerintah dan Pemerintah Daerah mengembangkan\nkelembagaan Pangan masyarakat untuk meningkatkan\nProduksi Pangan.\n\nParagraf 2 . . .\n\n\n\nParagraf 2\nAncaman Produksi Pangan"
+   }
+  },
+  {
+   "id": "ID-H2148-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\n(1) Ancaman Produksi Pangan merupakan kejadian yang\ndapat m enimbulkan kegag alan Produksi Pangan yang\ndisebabkan oleh:\na. perubahan iklim;\nb. serangan organisme pengganggu tumbuhan serta\nwabah penyakit hewan dan ikan;\nc. bencana alam;\nd. bencana sosial;\ne. pencemaran lingkungan;\nf. degradasi sumber daya lahan dan air;\ng. kompetisi pemanfaatan sumber daya Produksi\nPangan;\nh. alih fungsi penggunaan lahan; dan\ni. disinsentif ekonomi.\n(2) Pemerintah dan Pemerintah Daerah berkewajiban\nmengantisipasi dan menanggulangi ancaman Produksi\nPangan sebagaimana dimaksud pada ayat (1)  melalui\nbantuan teknologi dan regulasi.\nBagian Ketiga\nCadangan Pangan Nasional\nParagraf 1\nUmum"
+   }
+  },
+  {
+   "id": "ID-H2148-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\n(1) Dalam mewujudkan Kedaulatan Pangan, Kemandirian\nPangan, dan Ketahanan Pangan, Pemerintah menetapkan\nCadangan Pangan Nasional.\n(2) Cadangan Pangan Nasional terdiri atas:\na. Cadangan Pangan Pemerintah;\nb. Cadangan Pangan Pemerintah Daerah; dan\nc. Cadangan Pangan Masyarakat."
+   }
+  },
+  {
+   "id": "ID-H2148-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24 "
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 24 . . .\n\n\n\n\n\nPasal 24\nCadangan Pangan Nasional sebagaimana dimaksud dalam\nPasal 23 dilakukan untuk mengantisipasi:\na. kekurangan Ketersediaan Pangan;\nb. kelebihan  Ketersediaan Pangan;\nc. gejolak harga Pangan; dan/atau\nd. keadaan darurat."
+   }
+  },
+  {
+   "id": "ID-H2148-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\nCadangan Pangan Nasional dapat dimanfaatkan untuk kerja\nsama internasional dan Bantuan Pangan luar negeri."
+   }
+  },
+  {
+   "id": "ID-H2148-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\nPemerintah dapat mengembangkan kemitraan dengan Pelaku\nUsaha Pangan, perguruan tinggi, dan masyarakat dalam\npengembangan Cadangan Pangan Nasional.\n\nParagraf 2\nCadangan Pangan Pemerintah"
+   }
+  },
+  {
+   "id": "ID-H2148-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\n(1) Dalam mewujudkan Cadangan Pangan Nasional\nsebagaimana dimaksud dalam Pasal 23 ayat ( 1),\nPemerintah menetapkan Cadangan Pangan  Pemerintah\ndan Cadangan Pangan Pemerintah  Daerah.\n(2) Cadangan Pangan Pemerintah  sebagaimana dimaksud\npada ayat (1) diutamakan bersumber dari Produksi\nPangan dalam negeri.\n(3) Cadangan Pangan Pemerintah Daerah sebagaimana\ndimaksud pada ayat (1) terdiri atas:\na. Cadangan Pangan Pemerintah Desa;\nb. Cadangan Pangan Pemerintah Kabupaten/Kota; dan\nc. Cadangan Pangan Pemerintah Provinsi."
+   }
+  },
+  {
+   "id": "ID-H2148-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28 "
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 28 . . .\n\n\n\nPasal 28\n(1) Pemerintah menetapkan jenis dan jumlah Pangan Pokok\ntertentu sebagai Cadangan Pangan Pemerintah.\n(2) Cadangan Pangan Pemeri ntah sebagaimana dimaksud\npada ayat (1)  ditetapkan secara berkala dengan\nmemperhitungkan tingkat kebutuhan.\n(3) Pengadaan Cadangan Pangan Pemerintah diutamakan\nmelalui pembelian Pangan Pokok produksi dalam negeri,\nterutama pada saat panen raya.\n(4) Ketentuan menge nai penetapan Cadangan Pangan\nPemerintah sebagaimana dimaksud pada ayat (1) dan\npengadaan Cadangan Pangan Pemerintah sebagaimana\ndimaksud pada ayat (3) diatur dengan atau berdasarkan\nPeraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H2148-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\n(1) Pemerintah provinsi, p emerintah kabupaten/kota,\ndan/atau pemerintah desa menetapkan jenis dan jumlah\ncadangan Pangan tertentu sesuai dengan kebutuhan\nkonsumsi masyarakat setempat.\n(2) Cadangan Pangan pemerintah provinsi , pemerintah\nkabupaten/kota, dan pemerintah desa sebagaimana\ndimaksud pada ayat (1 ) bersumber dari produksi dalam\nnegeri."
+   }
+  },
+  {
+   "id": "ID-H2148-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  30\n(1) Pemerintah menyelenggarakan pengadaan, pengelolaan,\ndan penyaluran Cadangan Pangan Pemerintah.\n(2) Penyelenggaraan Cadangan Pangan Pemerintah\nsebagaimana dimaksud pada ayat (1) dilakukan secara\nterkoordinasi de ngan memperhatikan Cadangan Pangan\nPemerintah Desa , Cadangan Pangan Pemerintah\nKabupaten/Kota, dan Cadangan Pangan Pemerintah\nProvinsi."
+   }
+  },
+  {
+   "id": "ID-H2148-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\n(1) Penyaluran Cadangan Pangan Pemerintah sebagaimana\ndimaksud dalam Pasal 30 ayat (1) dilakukan untuk\nmenanggulangi:\na. kekurangan Pangan;\nb. gejolak . . .\n\n\n\nb. gejolak harga Pangan;\nc. bencana alam;\nd. bencana sosial; dan/atau\ne. menghadapi keadaan darurat.\n(2) Penyaluran Cadangan Pangan Pemerintah dilakukan\ndengan:\na. mekanisme yang disesuaikan dengan kondisi wilayah\ndan rumah tangga; dan\nb. tidak merugikan konsumen dan produsen.\n(3) Dalam hal tertentu sebagaimana dimaksud dalam Pasal\n24, Pemerintah berhak mengatur penyaluran Cadangan\nPangan Pemerintah Daerah."
+   }
+  },
+  {
+   "id": "ID-H2148-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 32\n(1) Pemerintah menugasi kelembagaan Pemerintah yang\nbergerak di  bidang Pangan untuk mengelola Cadangan\nPangan Pemerintah sesuai dengan ketentuan peraturan\nperundang-undangan.\n(2) Kelembagaan Pemerintah sebagaimana dimaksud pada\nayat (1) didukung dengan sarana, jaringan, dan\ninfrastruktur secara nasional.\n(3) Dalam pengelolaan cadangan Panga n, Pemerintah Daerah\ndapat menunjuk kelembagaan daerah dan/atau bekerja\nsama dengan kelembagaan Pemerintah sebagaimana\ndimaksud pada ayat (1).\n\nParagraf 3\nCadangan Pangan Masyarakat"
+   }
+  },
+  {
+   "id": "ID-H2148-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 33\n(1) Masyarakat mempunyai hak dan kesempatan seluas -\nluasnya dalam upa ya mewujudkan Cadangan Pangan\nMasyarakat.\n(2) Pemerintah dan Pemerintah Daerah memfasilitasi\npengembangan Cadangan Pangan  Masyarakat sesuai\ndengan kearifan lokal.\n\n\nBagian Keempat . . .\n\n\n\nBagian Keempat\nEkspor Pangan"
+   }
+  },
+  {
+   "id": "ID-H2148-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 34\n(1) Ekspor Pangan  dapat dilakukan deng an memperhatikan\nkebutuhan konsumsi Pangan di dalam negeri dan\nkepentingan nasional.\n(2) Ekspor Pangan Pokok hanya dapat dilakukan setelah\nterpenuhinya kebutuhan konsumsi Pangan Pokok dan\nCadangan Pangan Nasional."
+   }
+  },
+  {
+   "id": "ID-H2148-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 35\n(1) Setiap Orang  yang mengekspor Pangan  bertanggung\njawab atas keamanan, mutu, dan Gizi Pangan yang\ndipersyaratkan negara tujuan.\n(2) Ekspor Pangan sebagaimana dimaksud pada ayat (1)\ndilakukan sesuai dengan ketentuan peraturan\nperundang-undangan.\n\nBagian Kelima\nImpor Pangan"
+   }
+  },
+  {
+   "id": "ID-H2148-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 36\n(1) Impor  Pangan h anya dapat dilakukan apabila Produksi\nPangan dalam negeri tidak mencukupi dan/atau tidak\ndapat diproduksi di dalam negeri.\n(2) Impor Pangan Pokok hanya dapat dilakukan apabila\nProduksi Pangan dalam negeri dan Cadangan Pangan\nNasional tidak mencukupi.\n(3) Kecukupan Produksi Pangan Pokok dalam negeri dan\nCadangan Pangan Pemerintah ditetapkan oleh menteri\natau lembaga pemerintah yang mempunyai tugas\nmelaksanakan tugas pemerintahan di bidang Pangan."
+   }
+  },
+  {
+   "id": "ID-H2148-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 37\n(1) Impor Pangan yang dilakukan untuk memenuhi\nkebutuhan konsums i dalam negeri wajib memenuhi\npersyaratan keamanan, mutu, Gizi,  dan tidak\nbertentangan dengan agama, keyakinan, dan budaya\nmasyarakat.\n(2) Ketentuan . . .\n\n\n\n(2) Ketentuan  mengenai  persyaratan  sebagaimana\ndimaksud pada ayat (1) diatur dengan  atau berdasarkan\nPeraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H2148-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 38\nImpor Pangan wajib memenuhi persyaratan batas\nkedaluwarsa dan kualitas Pangan."
+   }
+  },
+  {
+   "id": "ID-H2148-A39",
+   "no": 39,
+   "noLabel": {
+    "id": "Pasal 39"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 39\nPemerintah menetapkan kebijakan dan pe raturan Impor\nPangan yang tidak berdampak negatif terhadap keberlanjutan\nusaha tani, peningkatan  produksi, kesejahteraan Petani,\nNelayan, Pembudi Daya Ikan, dan Pelaku Usaha Pangan\nmikro dan kecil."
+   }
+  },
+  {
+   "id": "ID-H2148-A40",
+   "no": 40,
+   "noLabel": {
+    "id": "Pasal 40"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 40\nImpor Pangan sebagaimana dimaksud dalam Pasal 36 sampai\ndengan Pasal 39 dilakukan sesuai dengan ketentuan\nperaturan perundang-undangan.\n\nBagian Keenam\nPenganekaragaman Pangan"
+   }
+  },
+  {
+   "id": "ID-H2148-A41",
+   "no": 41,
+   "noLabel": {
+    "id": "Pasal 41"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 41\nPenganekaragaman Pangan merupakan upaya meningkatkan\nKetersediaan Pangan yang beragam dan yang berbasis potensi\nsumber daya lokal untuk:\na. memenuhi pola konsumsi Pangan yang beragam, bergizi\nseimbang, dan aman;\nb. mengembangkan usaha Pangan; dan/atau\nc. meningkatkan kesejahteraan masyarakat."
+   }
+  },
+  {
+   "id": "ID-H2148-A42",
+   "no": 42,
+   "noLabel": {
+    "id": "Pasal 42"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 42\nPenganekaragaman Pangan sebagaimana dimaksud dalam\nPasal 41 dilakukan dengan:\na. penetapan kaidah Penganekaragaman Pangan;\nb. pengoptimalan Pangan Lokal;\nc. pengembangan . . .\n\n\n\n\nc. pengembangan teknologi dan sistem insentif bagi usaha\npengolahan Pangan Lokal;\nd. pengenalan jenis Pangan baru, termasuk Pangan Lokal\nyang belum dimanfaatkan;\ne. pengembangan diversifikasi usaha tani dan perikanan;\nf. peningkatan ketersediaan dan akses benih dan bibit\ntanaman, ternak, dan ikan;\ng. pengoptimalan pemanfaatan lahan, termasuk lahan\npekarangan;\nh. penguatan usaha mikro, kecil, dan menengah di bidang\nPangan; dan\ni. pengembangan industri Pangan yang berbasis Pangan\nLokal."
+   }
+  },
+  {
+   "id": "ID-H2148-A43",
+   "no": 43,
+   "noLabel": {
+    "id": "Pasal 43"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 43\nKetentuan lebih lanjut mengenai Pengane karagaman Pangan\nsebagaimana dimaksud dalam Pasal 41 dan Pasal 42 diatur\ndengan atau berdasarkan Peraturan Pemerintah.\n\nBagian Ketujuh\nKrisis Pangan"
+   }
+  },
+  {
+   "id": "ID-H2148-A44",
+   "no": 44,
+   "noLabel": {
+    "id": "Pasal 44"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 44\n(1) Pemerintah dan Pemerintah Daerah berkewajiban\nmelakukan tindakan untuk mengatasi Krisis Pangan.\n(2) Tindakan sebagaimana dimaksud pada ayat (1) dapat\ndilakukan dalam bentuk:\na. pengadaan, pengelolaan, dan  penyaluran Cadangan\nPangan Pemerintah dan Pemerintah Daerah;\nb. mobilisasi Cadangan Pangan Masyarakat di dalam\ndan antardaerah;\nc. menggerakkan partisipasi masyarakat;  dan/atau\nd. menerapkan teknologi untuk mengatasi Krisis Pangan\ndan  pencemaran lingkungan."
+   }
+  },
+  {
+   "id": "ID-H2148-A45",
+   "no": 45,
+   "noLabel": {
+    "id": "Pasal 45 "
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketujuh"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 45 . . .\n\n\n\n\n\nPasal 45\n(1) Penetapan kriteria dan status Krisis Pangan dilakukan\noleh Pemerintah dan/atau Pemerintah Daerah sesuai\ndengan skala krisis.\n(2) Penetapan sebagaimana dimaksud pada ayat (1)\ndilakukan oleh:\na. Presiden untuk skala nasional;\nb. gubernur untuk skala provinsi; dan\nc. bupati/walikota untuk skala kabupaten/kota.\n(3) Ketentuan lebih lanjut mengenai penetapan kriteria dan\nstatus Krisis Pangan sebagaimana dimaksud pada ayat (1)\ndiatur dengan atau berdasarkan pada Peraturan\nPemerintah.\n\n\nBAB V\nKETERJANGKAUAN PANGAN\nBagian Kesatu\nUmum"
+   }
+  },
+  {
+   "id": "ID-H2148-A46",
+   "no": 46,
+   "noLabel": {
+    "id": "Pasal 46"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 46\n(1) Pemerintah dan Pemerintah Daerah bertanggung  jawab\ndalam mewujudkan keterjangkauan Pangan bagi\nmasyarakat, rumah tangga, dan perseorangan.\n(2) Dalam mewujudkan keterjangkauan Pangan sebagaimana\ndimaksud pada ayat (1),  Pemerintah dan Pemerintah\nDaerah melaksanakan kebijakan Pemerintah di bidang:\na. distribusi;\nb. pemasaran;\nc. perdagangan;\nd. stabilisasi pasokan dan harga Pangan Pokok; dan\ne. Bantuan Pangan.\n\n\n\nBagian Kedua . . .\n\n\n\n\n\n\nBagian Kedua\nDistribusi Pangan"
+   }
+  },
+  {
+   "id": "ID-H2148-A47",
+   "no": 47,
+   "noLabel": {
+    "id": "Pasal 47"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 47\n(1) Distribusi Pangan dilakukan untuk memenuhi\npemerataan Ketersediaan Pangan ke seluruh wilayah\nNegara Kesatuan Republik Indonesia  secara\nberkelanjutan.\n(2) Distribusi Pangan sebagaimana  dimaksud pada ayat (1)\ndilakukan agar perseorangan dapat memperoleh Pangan\ndalam jumlah yang cukup, aman, bermutu, beragam,\nbergizi, dan terjangkau.\n(3) Pemerintah dan Pemerintah Daerah bertanggung jawab\nterhadap distribusi Pangan sesuai dengan\nkewenangannya."
+   }
+  },
+  {
+   "id": "ID-H2148-A48",
+   "no": 48,
+   "noLabel": {
+    "id": "Pasal 48"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 48\n(1) Distribusi Pangan sebagaimana dimaksud dalam Pasal 47\ndilakukan melalui:\na. pengembangan sistem distribusi Pangan yang\nmenjangkau seluruh wilayah Negara Kesatuan\nRepublik Indonesia secara efektif dan efisien;\nb. pengelolaan sistem distribusi Pangan ya ng dapat\nmempertahankan keamanan, mutu, gizi, dan tidak\nbertentangan dengan agama, keyakinan, dan budaya\nmasyarakat; dan\nc. perwujudan kelancaran dan keamanan distribusi\nPangan.\n(2) Ketentuan lebih lanjut mengenai distribusi Pangan\nsebagaimana dima ksud pada ayat (1) diatur dalam\nPeraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H2148-A49",
+   "no": 49,
+   "noLabel": {
+    "id": "Pasal 49"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 49\n(1) Pemerintah dan/atau Pemerintah Daerah mewujudkan\nkelancaran distribusi  Pangan dengan mengutamakan\npelayanan transportasi yang efektif dan efisien sesuai\ndengan ketentuan peraturan perundang-undangan.\n\n(2) Pemerintah . . .\n\n\n\n\n(2) Pemerintah dan/atau Pemerintah Daerah memberikan\nprioritas untuk kelancaran bongkar muat produk Pangan.\n(3) Pemerintah dan/atau Pemerintah Daerah berkewajiban\nmenyediakan sarana dan prasarana distribusi Pangan ,\nterutama Pangan Pokok.\n(4) Pemerintah dan Pemerintah Daerah berkewajiban\nmengembangkan lembaga distribusi Pangan masyarakat.\n\nBagian Ketiga\nPemasaran Pangan"
+   }
+  },
+  {
+   "id": "ID-H2148-A50",
+   "no": 50,
+   "noLabel": {
+    "id": "Pasal 50"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 50\n(1) Pemerintah dan/atau Pemerintah Daerah berkewajiban\nmelakukan pembinaan kepada pihak yang melakukan\npemasaran Pangan.\n(2) Pembinaan sebagaimana dimaksud pada ayat (1)\nbertujuan agar setiap pihak mempunyai kemampuan\nmenerapkan tata cara pemasaran yang baik.\n(3) Pemerintah dan/atau Pemerintah Daerah melakukan\npromosi untuk meningkatkan penggunaan produk\nPangan Lokal.\n(4) Pemerintah dan/atau Pemerintah Daerah melakukan\npromosi di luar negeri untuk meningkatkan pemasaran\nproduk Pangan.\n\nBagian Keempat\nPerdagangan Pangan"
+   }
+  },
+  {
+   "id": "ID-H2148-A51",
+   "no": 51,
+   "noLabel": {
+    "id": "Pasal 51"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 51\n(1) Pemerintah berkewajiban mengatur Perdagangan Pangan.\n(2) Pengaturan Perdagangan Pangan sebagaimana dimaksud\npada ayat (1) bertujuan untuk:\na. stabilisasi pasokan dan harga Pangan, terutama\nPangan Pokok;\nb. manajemen Cadangan Pangan; dan\nc. penciptaan iklim usaha Pangan yang sehat."
+   }
+  },
+  {
+   "id": "ID-H2148-A52",
+   "no": 52,
+   "noLabel": {
+    "id": "Pasal 52 "
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Keempat"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 52 . . .\n\n\n\n\n\nPasal 52\n(1) Dalam hal Perdagangan Pangan, Pemerintah menetapkan\nmekanisme, tata cara, dan juml ah maksimal\npenyimpanan Pangan Pokok oleh Pelaku Usaha Pangan.\n(2) Ketentuan mengenai mekanisme, tata cara, dan jumlah\nmaksimal sebagaimana dimaksud pada ayat (1) diatur\ndengan atau berdasarkan pada Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H2148-A53",
+   "no": 53,
+   "noLabel": {
+    "id": "Pasal 53"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 53\nPelaku Usah a Pangan dilarang menimbun atau  menyimpan\nPangan Pokok melebihi  jumlah maksimal sebagaimana\ndimaksud dalam Pasal 52."
+   }
+  },
+  {
+   "id": "ID-H2148-A54",
+   "no": 54,
+   "noLabel": {
+    "id": "Pasal 54"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 54\n(1) Pelaku Usaha Pangan  yang melanggar ketentuan\nsebagaimana dimaksud da lam Pasal 53  dikenai sanksi\nadministratif.\n(2) Sanksi administratif sebagaimana dimaksud pada ayat (1)\nberupa:\na. denda;\nb. penghentian sementara dari kegiatan, produksi,\ndan/atau peredaran; dan/atau\nc. pencabutan izin.\n(3) Ketentuan lebih lanjut mengenai jenis, besaran denda,\ntata cara, dan mekanisme pengenaan sanksi administratif\nsebagaimana dimaksud pada ayat (1) dan ayat (2) diatur\ndalam Peraturan Pemerintah.\n\nBagian Kelima\nStabilisasi Pasokan dan Harga Pangan Pokok"
+   }
+  },
+  {
+   "id": "ID-H2148-A55",
+   "no": 55,
+   "noLabel": {
+    "id": "Pasal 55"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 55\n(1) Pemerintah berkewajiban melakukan stabilisasi pasokan\ndan harga Pangan Pokok di tingkat produsen dan\nkonsumen.\n\n(2) Stabilisasi . . .\n\n\n\n\n(2) Stabilisasi pasokan dan harga Pangan Pokok sebagaimana\ndimaksud pada ayat (1) dilakukan untuk melindungi\npendapatan dan daya beli Petani, Nelayan, Pembudi Daya\nIkan, dan Pelaku Usaha Pangan  mikro dan kecil, serta\nmenjaga keterjangkauan konsumen terhadap Pangan\nPokok."
+   }
+  },
+  {
+   "id": "ID-H2148-A56",
+   "no": 56,
+   "noLabel": {
+    "id": "Pasal 56"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 56\nStabilisasi pasokan dan harga Pangan Pokok sebagaimana\ndimaksud dalam Pasal 55 dilakukan melalui:\na. penetapan harga pada tingkat produsen sebagai pedoman\npembelian Pemerintah;\nb. penetapan harga pada tingkat konsumen sebagai\npedoman bagi penjualan Pemerintah;\nc. pengelolaan dan pemeliharaan Cadangan Pangan\nPemerintah;\nd. pengaturan dan pengelolaan pasokan Pangan;\ne. penetapan kebijakan pajak dan/atau tarif yang berpihak\npada kepentingan nasional;\nf. pengaturan kelancaran distribusi antarwilayah; dan/atau\ng. pengaturan Ekspor Pangan dan Impor Pangan."
+   }
+  },
+  {
+   "id": "ID-H2148-A57",
+   "no": 57,
+   "noLabel": {
+    "id": "Pasal 57"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 57\n(1) Pemerintah Daerah dapat menentukan harga minimum\ndaerah untuk Pangan Lokal yang tidak ditetapkan oleh\nPemerintah.\n(2) Penentuan harga Pangan Lokal minimum daerah\nsebagaimana dimaksud pada ayat (1) diatur dengan\nPeraturan Daerah, Peraturan Gubernur, dan/atau\nPeraturan Bupati/Walikota.\n\nBagian Keenam\nBantuan Pangan"
+   }
+  },
+  {
+   "id": "ID-H2148-A58",
+   "no": 58,
+   "noLabel": {
+    "id": "Pasal 58"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 58\n(1) Pemerintah dan Pemerintah Daerah bertanggung jawab\ndalam penyediaan dan penyaluran Pangan Pokok\ndan/atau Pangan lainnya sesua i dengan kebutuhan, baik\nbagi masyarakat miskin, rawan Pangan dan Gizi, maupun\ndalam keadaan darurat.\n(2) Bantuan . . .\n\n\n\n\n(2) Bantuan Pangan sebagaimana dimaksud pada ayat (1)\ndilakukan dengan mengutamakan produksi dalam negeri\ndan kearifan lokal.\n\nBAB VI\nKONSUMSI PANGAN DAN GIZI\nBagian Kesatu\nKonsumsi Pangan"
+   }
+  },
+  {
+   "id": "ID-H2148-A59",
+   "no": 59,
+   "noLabel": {
+    "id": "Pasal 59"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 59\nPemerintah dan Pemerintah Daerah berkewajiban\nmeningkatkan pemenuhan kuantitas dan  kualitas konsumsi\nPangan masyarakat melalui:\na. penetapan target pencapaian angka konsumsi Pangan per\nkapita pertahun sesuai dengan angka kecukupan Gizi;\nb. penyediaan Pangan yang beragam, bergizi seimbang ,\naman, dan  tidak bertentangan dengan agama, keyakinan,\ndan budaya masyarakat; dan\nc. pengembangan pengetahuan dan kemampuan\nmasyarakat dalam pola konsumsi Pangan yang ber agam,\nbergizi seimbang, bermutu, dan aman.\n\nBagian Kedua\nPenganekaragaman Konsumsi Pangan"
+   }
+  },
+  {
+   "id": "ID-H2148-A60",
+   "no": 60,
+   "noLabel": {
+    "id": "Pasal 60"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 60\n(1) Pemerintah dan Pemerintah  Daerah berkewajiban\nmewujudkan penganekaragaman konsumsi Pangan untuk\nmemenuhi kebutuhan Gizi masyarakat  dan mendukung\nhidup sehat, aktif, dan produktif.\n(2) Penganekaragaman konsumsi Pangan sebagaimana\ndimaksud pada ayat (1) diarahkan untuk meningkatkan\nkesadaran masyarakat dan membudayakan pola\nkonsumsi Pangan yang beragam, bergizi seimbang, dan\naman serta sesuai dengan potensi dan kearifan lokal."
+   }
+  },
+  {
+   "id": "ID-H2148-A61",
+   "no": 61,
+   "noLabel": {
+    "id": "Pasal 61 "
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kedua"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 61 . . .\n\n\n\n\nPasal 61\nPenganekaragaman konsumsi Pangan dilakukan dengan:\na. mempromosikan penganekaragaman konsumsi Pangan;\nb. meningkatkan pengetahuan dan kesadaran masyarakat\nuntuk mengonsumsi aneka ragam Pangan dengan prinsip\nGizi seimbang;\nc. meningkatkan keterampilan dalam pengembangan olahan\nPangan Lokal; dan\nd. mengembangkan dan mendiseminasikan teknologi tepat\nguna untuk pengolahan Pangan Lokal."
+   }
+  },
+  {
+   "id": "ID-H2148-A62",
+   "no": 62,
+   "noLabel": {
+    "id": "Pasal 62"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 62\nTercapainya penganekaragaman konsumsi Pangan\nsebagaimana dimaksud dalam Pasal  60 diukur melalui\npencapaian nilai komposisi pola Pangan dan Gizi seimbang.\n\nBagian Ketiga\nPerbaikan Gizi"
+   }
+  },
+  {
+   "id": "ID-H2148-A63",
+   "no": 63,
+   "noLabel": {
+    "id": "Pasal 63"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 63\n(1) Pemerintah menetapkan kebijakan di bidang Gizi untuk\nperbaikan status Gizi masyarakat.\n(2) Kebijakan Pemerintah sebagaimana dimaksud pada ayat\n(1) dilakukan melalui:\na. penetapan persyaratan perbaikan atau pengayaan Gizi\nPangan tertentu yang diedarkan apabila terjadi\nkekurangan atau penurunan status Gizi masyarakat;\nb. penetapan persyaratan khusus mengenai komposisi\nPangan untuk meningkatkan kandungan Gizi Pangan\nOlahan tertentu yang diperdagangkan;\nc. pemenuhan kebutuhan Gizi ibu hamil, ibu menyusui,\nbayi, balita, dan kelompok rawan Gizi lainnya; dan\nd. peningkatan konsumsi Pangan hasil produk ternak,\nikan, sayuran, buah-buahan, dan umbi-umbian lokal.\n(3) Pemerintah dan Pemeri ntah Daerah menyusun rencana\naksi Pangan dan Gizi setiap 5 (lima) tahun."
+   }
+  },
+  {
+   "id": "ID-H2148-A64",
+   "no": 64,
+   "noLabel": {
+    "id": "Pasal 64 "
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Ketiga"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 64 . . .\n\n\n\n\n\nPasal 64\n(1) Setiap Orang yang me lakukan Produksi Pangan Olahan\ntertentu untuk diperdagangkan wajib menerapkan tata\ncara pengolahan Pangan yang dapat menghambat proses\npenurunan atau kehilangan kandungan Gizi bahan baku\nPangan yang digunakan.\n(2) Penerapan tata cara pengolahan Pangan sebagaimana\ndimaksud pada ayat (1)  dilakukan secara bertahap\nberdasarkan jenis Pangan serta jenis dan skala usaha\nProduksi Pangan."
+   }
+  },
+  {
+   "id": "ID-H2148-A65",
+   "no": 65,
+   "noLabel": {
+    "id": "Pasal 65"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 65\n(1) Setiap Orang yang melanggar ketentuan sebagaimana\ndimaksud dalam Pasal 64 ayat (1)  dikenai sanksi\nadministratif.\n(2) Sanksi administratif sebagaimana dimaksud pada ayat (1)\nberupa:\na. denda;\nb. penghentian sementara dari kegiatan, produksi,\ndan/atau peredaran;\nc. penarikan Pangan dari peredaran oleh produsen;\nd. ganti rugi; dan/atau\ne. pencabutan izin.\n(3) Ketentuan lebih lanjut mengenai jenis, besaran denda,\ntata cara, dan mekanisme pengenaan sanksi administratif\nsebagaimana dimaksud pada ayat (1) dan ayat (2) diatur\ndalam Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H2148-A66",
+   "no": 66,
+   "noLabel": {
+    "id": "Pasal 66"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 66\nKetentuan mengenai persyaratan khusus tentang komposisi,\npersyaratan perbaikan, atau pengayaan Gizi dan tata cara\npengolahan Pangan diatur dengan atau berdasarkan\nPeraturan Pemerintah.\n\nBAB VII . . .\n\n\n\n\nBAB VII\nKEAMANAN PANGAN\nBagian Kesatu\nUmum"
+   }
+  },
+  {
+   "id": "ID-H2148-A67",
+   "no": 67,
+   "noLabel": {
+    "id": "Pasal 67"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 67\n(1) Keamanan Pangan diselenggarakan untuk menjaga\nPangan tetap aman, higienis , bermutu, bergizi, dan tidak\nbertentangan dengan agama, keyakinan, dan budaya\nmasyarakat.\n(2) Keamanan Pangan dimaksudkan untuk mencegah\nkemungkinan cemaran biologis,  kimia, dan benda lain\nyang dapat mengganggu, merugikan, dan membahayakan\nkesehatan manusia."
+   }
+  },
+  {
+   "id": "ID-H2148-A68",
+   "no": 68,
+   "noLabel": {
+    "id": "Pasal 68"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 68\n(1) Pemerintah dan Pemerintah Daerah menjamin\nterwujudnya penyelenggaraan Keamanan Pangan di setiap\nrantai Pangan secara terpadu.\n(2) Pemerintah menetapkan  norma, standar, prosedur, dan\nkriteria Keamanan Pangan.\n(3) Petani, Nelayan, Pembudi Daya Ikan, dan Pelaku Usaha\nPangan wajib menerapkan norma, standar, prosedur, dan\nkriteria Keamanan Pangan  sebagaimana dimaksud pada\nayat (2).\n(4) Penerapan norma, standar, prosedur, d an kriteria\nKeamanan Pangan  sebagaimana dimaksud pada ayat (3)\ndilakukan secara bertahap berdasarkan jenis Pangan dan\nskala usaha Pangan.\n(5) Pemerintah dan/atau Pemerintah Daerah wajib membina\ndan mengawasi pelaksanaan penerapan norma, standar,\nprosedur, dan kriteria Keamanan Pangan sebagaimana\ndimaksud pada ayat (3) dan ayat  (4)."
+   }
+  },
+  {
+   "id": "ID-H2148-A69",
+   "no": 69,
+   "noLabel": {
+    "id": "Pasal 69"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 69\nPenyelenggaraan Keamanan Pangan dilakukan melalui:\na. Sanitasi Pangan;\nb. pengaturan terhadap bahan tambahan Pangan;\n\nc. pengaturan . . .\n\n\n\n\nc. pengaturan terhadap Pangan Produk Rekayasa Genetik;\nd. pengaturan terhadap Iradiasi Pangan;\ne. penetapan standar Kemasan Pangan;\nf. pemberian jaminan Keamanan Pangan dan Mutu Pangan;\ndan\ng. jaminan produk halal bagi yang dipersyaratkan.\n\nBagian Kedua\nSanitasi Pangan"
+   }
+  },
+  {
+   "id": "ID-H2148-A70",
+   "no": 70,
+   "noLabel": {
+    "id": "Pasal 70"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 70\n(1) Sanitasi Pangan dilakukan aga r Pangan aman untuk\ndikonsumsi.\n(2) Sanitasi  Pangan  dilakukan  dalam  kegiatan  atau\nproses produksi,  penyimpanan, pengangkutan, dan/atau\nperedaran Pangan.\n(3) Sanitasi Pangan sebagaimana dimaksud pada ayat (2)\nharus memenuhi persyaratan standar Keamanan Pangan."
+   }
+  },
+  {
+   "id": "ID-H2148-A71",
+   "no": 71,
+   "noLabel": {
+    "id": "Pasal 71"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 71\n(1) Setiap Orang yang terlibat dalam rantai Pangan wajib\nmengendalikan risiko bahaya pada Pangan, baik yang\nberasal dari bahan, peralatan, sarana produksi, maupun\ndari perseorangan sehingga Keamanan Pangan  terjamin.\n(2) Setiap Orang yang menyelenggar akan kegiatan atau\nproses produksi,  penyimpanan, pengangkutan, dan/atau\nperedaran Pangan wajib:\na. memenuhi Persyaratan Sanitasi; dan\nb. menjamin Keamanan Pangan dan/atau keselamatan\nmanusia.\n(3) Ketentuan mengenai Persyaratan Sanit asi dan jaminan\nKeamanan Pangan  dan/atau keselamatan manusia\nsebagaimana dimaksud pada ayat ( 2) diatur dalam\nPeraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H2148-A72",
+   "no": 72,
+   "noLabel": {
+    "id": "Pasal 72"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 72\n(1) Setiap Orang yang melanggar ketentuan sebagaimana\ndimaksud dalam Pasal 71 ayat (1) dan ayat (2) dikenai\nsanksi administratif.\n(2) Sanksi . . .\n\n\n\n(2) Sanksi administratif sebagaimana dimaksud pada ayat (1)\nberupa:\na. denda;\nb. penghentian sementara dari kegiatan, produksi,\ndan/atau peredaran;\nc. penarikan Pangan dari peredaran oleh produsen;\nd. ganti rugi; dan/atau\ne. pencabutan izin.\n(3) Ketentuan lebih lanjut mengenai jenis, besaran denda,\ntata cara, dan mekanisme pengenaan sanksi administratif\nsebagaimana dimaksud pada ayat (1) dan ayat (2) diatur\ndalam Peraturan Pemerintah.\n\nBagian Ketiga\nPengaturan Bahan Tambahan Pangan"
+   }
+  },
+  {
+   "id": "ID-H2148-A73",
+   "no": 73,
+   "noLabel": {
+    "id": "Pasal 73"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 73\nBahan tambahan Pangan merupakan bahan yang\nditambahkan ke dalam Pangan untuk mempengaruhi sifat\ndan/atau bentuk Pangan."
+   }
+  },
+  {
+   "id": "ID-H2148-A74",
+   "no": 74,
+   "noLabel": {
+    "id": "Pasal 74"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 74\n(1) Pemerintah berkewajiban memeriksa keamanan bahan\nyang akan digunakan sebagai bahan tambahan Pangan\nyang belum diketahui dampaknya bagi kesehatan\nmanusia dalam kegiatan ata u proses Produksi Pangan\nuntuk diedarkan.\n(2) Pemeriksaan keamanan bahan tambahan sebagaimana\ndimaksud pada ayat (1) dilakukan untuk mendapatkan\nizin peredaran."
+   }
+  },
+  {
+   "id": "ID-H2148-A75",
+   "no": 75,
+   "noLabel": {
+    "id": "Pasal 75"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 75\n\n(1) Setiap Orang yang melakukan Produksi Pangan  untuk\ndiedarkan dilarang menggunakan:\na. bahan tambahan Pangan yang melampaui ambang\nbatas maksimal yang ditetapkan; dan/atau\nb. bahan yang dilarang digunakan sebagai bahan\ntambahan Pangan.\n\n(2) Ketentuan . . .\n\n\n\n\n(2) Ketentuan mengenai ambang batas maksimal dan bahan\nyang dilarang sebagaimana dimaksud pada ayat  (1) diatur\ndengan atau berdasarkan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H2148-A76",
+   "no": 76,
+   "noLabel": {
+    "id": "Pasal 76"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 76\n(1) Setiap Orang yang melanggar ketentuan sebagaimana\ndimaksud dalam Pasal 7 5 ayat (1) dikenai sanksi\nadministratif.\n(2) Sanksi administratif sebagaimana dimaksud pada ayat (1)\nberupa:\na. denda;\nb. penghentian sementara dari kegiatan, produksi,\ndan/atau peredaran;\nc. penarikan Pangan dari peredaran oleh produsen;\nd. ganti rugi; dan/atau\ne. pencabutan izin.\n(3) Ketentuan lebih lanjut mengenai jenis, besaran denda,\ntata cara, dan mekanisme pengenaan sanksi administrati f\nsebagaimana dimaksud pada ayat (1) dan ayat (2) diatur\ndalam Peraturan Pemerintah.\n\nBagian Keempat\nPengaturan Pangan Produk Rekayasa Genetik"
+   }
+  },
+  {
+   "id": "ID-H2148-A77",
+   "no": 77,
+   "noLabel": {
+    "id": "Pasal 77"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 77\n(1) Setiap Orang dilarang memproduksi Pangan yang\ndihasilkan dari Rekayasa Genetik  Pangan yang belum\nmendapatkan persetujuan Keamanan Pangan sebelum\ndiedarkan.\n(2) Setiap Orang yang melakukan kegiatan atau proses\nProduksi Pangan dilarang menggunakan bahan baku,\nbahan tambahan Pangan, dan/atau bahan lain yang\ndihasilkan dari Rekayasa Genetik  Pangan yang belum\nmendapatkan persetujuan Keamanan Pangan sebelum\ndiedarkan.\n(3) Persetujuan Keamanan Pangan sebagaimana dimaksud\npada ayat (1) dan ayat (2) diberikan oleh Pemerintah.\n\n(4) Ketentuan . . .\n\n\n\n(4) Ketentuan mengenai tata cara memperoleh persetujuan\nKeamanan Pangan sebagaima na dimaksud pada ayat (3)\ndiatur dalam Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H2148-A78",
+   "no": 78,
+   "noLabel": {
+    "id": "Pasal 78"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 78\n(1) Pemerintah menetapkan persyaratan dan prinsip\npenelitian, pengembangan, dan pemanfaatan metode\nRekayasa Genetik Pangan dalam kegiatan atau proses\nProduksi Pangan, serta menetapkan pers yaratan bagi\npengujian Pangan yang dihasilkan dari Rekayasa Genetik\nPangan.\n(2) Ketentuan mengenai persyaratan dan prinsip penelitian,\npengembangan, dan pemanfaatan metode Rekayasa\nGenetik Pangan sebagaimana dimaksud pada ayat (1)\ndiatur dalam Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H2148-A79",
+   "no": 79,
+   "noLabel": {
+    "id": "Pasal 79"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 79\n(1) Setiap Orang yang melanggar ketentuan sebagaimana\ndimaksud dalam Pasal 77 ayat (1) dan ayat (2) dikenai\nsanksi administratif.\n(2) Sanksi administratif sebagaimana dimaksud pada ayat (1)\nberupa:\na. denda;\nb. penghentian sementara dari kegiatan, produk si,\ndan/atau peredaran;\nc. penarikan Pangan dari peredaran oleh produsen;\nd. ganti rugi; dan/atau\ne. pencabutan izin.\n(3) Ketentuan lebih lanjut mengenai jenis, besaran denda,\ntata cara, dan mekanisme pengenaan sanksi administratif\nsebagaimana dimaksud pada ayat (1) da n ayat (2) diatur\ndalam Peraturan Pemerintah.\n\nBagian Kelima\nPengaturan Iradiasi Pangan"
+   }
+  },
+  {
+   "id": "ID-H2148-A80",
+   "no": 80,
+   "noLabel": {
+    "id": "Pasal 80"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 80\n(1) Iradiasi Pangan dapat dilakukan dengan menggunakan\nzat radioaktif maupun akselerator.\n\n(2) Iradiasi . . .\n\n\n\n(2) Iradiasi Pangan sebagaimana dimaksud pada ayat (1)\ndilakukan untuk mencegah terjadinya pembusukan dan\nkerusakan untuk membebaskan Pangan dari jasad renik\npatogen, serta mencegah pertumbuhan tunas."
+   }
+  },
+  {
+   "id": "ID-H2148-A81",
+   "no": 81,
+   "noLabel": {
+    "id": "Pasal 81"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 81\n(1) Iradiasi Pangan sebagaimana dimaksud dalam Pasal 80\nayat (1) dilakukan berdasarkan izin Pemerintah.\n(2) Izin Pemerintah sebagaimana dimaksud pada ayat (1)\ndiberikan setelah memenuhi:\na. persyaratan kesehatan;\nb. prinsip pengolahan;\nc. dosis;\nd. teknik dan peralatan;\ne. penanganan limbah dan penanggulangan bahaya zat\nradioaktif;\nf. keselamatan kerja; dan\ng. kelestarian lingkungan.\n(3) Ketentuan mengenai pemenuhan izin Pemerintah\nsebagaimana dimaksud pada ayat (2) diatur dalam\nPeraturan Pemerintah.\n\nBagian Keenam\nStandar Kemasan Pangan"
+   }
+  },
+  {
+   "id": "ID-H2148-A82",
+   "no": 82,
+   "noLabel": {
+    "id": "Pasal 82"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 82\n(1) Kemasan Pangan berfungsi untuk mencegah terjadinya\npembusukan dan kerusakan, melindungi pro duk dari\nkotoran, dan membebaskan Pangan dari jasad renik\npatogen.\n(2) Setiap Orang yang me lakukan Produksi Pangan  dalam\nkemasan wajib menggunakan bahan Kemasan Pangan\nyang tidak membahayakan kesehatan manusia."
+   }
+  },
+  {
+   "id": "ID-H2148-A83",
+   "no": 83,
+   "noLabel": {
+    "id": "Pasal 83"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 83\n(1) Setiap Orang yang melakukan Produksi Pa ngan untuk\ndiedarkan dilarang menggunakan bahan apa pun sebagai\nKemasan Pangan yang dapat melepaskan cemaran yang\nmembahayakan kesehatan manusia.\n\n(2) Pengemasan . . .\n\n\n\n\n(2) Pengemasan   Pangan   yang   d iedarkan   dilakukan\nmelalui tata  cara yang dapat menghi ndarkan terjadinya\nkerusakan dan/atau pencemaran.\n(3) Ketentuan mengenai Kemasan Pangan, tata cara\npengemasan Pangan, dan bahan yang dilarang digunakan\nsebagai Kemasan Pangan diatur dalam Peraturan\nPemerintah."
+   }
+  },
+  {
+   "id": "ID-H2148-A84",
+   "no": 84,
+   "noLabel": {
+    "id": "Pasal 84"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  84\n(1) Setiap Orang dilarang membuka kemasan a khir Pangan\nuntuk dikemas kembali dan diperdagangkan.\n(2) Ketentuan larangan sebagaimana dimaksud pada ayat (1)\ntidak berlaku terhadap Pangan yang pengadaannya dalam\njumlah besar dan lazim dikemas kembali dalam jumlah\nkecil untuk diperdagangkan lebih lanjut."
+   }
+  },
+  {
+   "id": "ID-H2148-A85",
+   "no": 85,
+   "noLabel": {
+    "id": "Pasal 85"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 85\n(1) Setiap Orang yang melanggar ketentuan sebagaimana\ndimaksud dalam Pasal 82 ayat (2), Pasal 83 ayat (1), dan\nPasal 84 ayat (1) dikenai sanksi administratif.\n(2) Sanksi administratif sebagaimana dimaksud pada ayat (1)\nberupa:\na. denda;\nb. penghentian sementara  dari kegiatan, produksi,\ndan/atau peredaran;\nc. penarikan Pangan dari peredaran oleh produsen;\nd. ganti rugi; dan/atau\ne. pencabutan izin.\n(3) Ketentuan lebih lanjut mengenai jenis, besaran denda,\ntata cara, dan mekanisme pengenaan sanksi administratif\nsebagaimana dimaksud pada ayat (1) dan ayat (2) diatur\ndalam Peraturan Pemerintah.\n\nBagian Ketujuh\nJaminan Keamanan Pangan dan Mutu Pangan"
+   }
+  },
+  {
+   "id": "ID-H2148-A86",
+   "no": 86,
+   "noLabel": {
+    "id": "Pasal 86"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 86\n(1) Pemerintah menetapkan standar Keamanan Pangan dan\nMutu Pangan.\n(2) Setiap . . .\n\n\n\n(2) Setiap Orang yang memproduksi dan memperdag angkan\nPangan wajib memenuhi standar Keamanan Pangan dan\nMutu Pangan.\n(3) Pemenuhan standar Keamanan Pangan dan Mutu Pangan\nsebagaimana dimaksud pada ayat (2) dilakukan melalui\npenerapan sistem jaminan Keamanan Pangan dan Mutu\nPangan.\n(4) Pemerintah dan/atau lembaga sertifikasi yang\nterakreditasi oleh Pemerintah dapat memberikan sertifikat\nJaminan Keamanan Pangan dan Mutu Pangan.\n(5) Pemberian sertifikat sebagaimana dimaksud pada ayat (4)\ndilakukan secara bertahap sesuai dengan jenis Pangan\ndan/atau skala usaha.\n(6) Ketentuan mengenai standar Keamanan Pangan dan\nMutu Pangan diatur dalam Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H2148-A87",
+   "no": 87,
+   "noLabel": {
+    "id": "Pasal 87"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 87\n(1) Pemerintah dapat menetapkan persyaratan agar Pangan\ndiuji di laboratorium sebelum diedarkan.\n(2) Pengujian sebagaimana dimaksud pada ayat (1) dilakukan\ndi laborat orium yang ditunjuk oleh dan/atau yang telah\nmemperoleh akreditasi dari Pemerintah.\n(3) Ketentuan mengenai persyaratan pengujian laboratorium\ndiatur dalam Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H2148-A88",
+   "no": 88,
+   "noLabel": {
+    "id": "Pasal 88"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 88\n(1) Petani, Nelayan, Pembudi Daya Ikan, dan Pelaku Usaha\nPangan di bidang Pan gan Segar harus memenuhi\npersyaratan Keamanan Pangan dan Mutu Pangan Segar.\n(2) Pemerintah dan Pemerintah Daerah wajib membina,\nmengawasi, dan memfasilitasi pengembangan usaha\nPangan Segar untuk memenuhi persyaratan teknis\nminimal Keamanan Pangan dan Mutu Pangan.\n(3) Penerapan persyaratan teknis K eamanan Pangan dan\nMutu Pangan Segar sebagaimana dimaksud pada ayat (2)\ndilakukan secara bertahap sesuai dengan jenis Pangan\nSegar serta jenis dan/atau skala usaha.\n\n(4) Ketentuan . . .\n\n\n\n\n(4) Ketentuan lebih lanjut mengenai per syaratan Keamanan\nPangan dan Mutu Pangan Segar sebagaimana dimaksud\npada ayat (1) diatur dengan atau berdasarkan Peraturan\nPemerintah."
+   }
+  },
+  {
+   "id": "ID-H2148-A89",
+   "no": 89,
+   "noLabel": {
+    "id": "Pasal 89"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 89\nSetiap Orang dilarang memperdagangkan Pangan yang tidak\nsesuai dengan Keamanan Pangan dan Mutu Pangan yang\ntercantum dalam label Kemasan Pangan."
+   }
+  },
+  {
+   "id": "ID-H2148-A90",
+   "no": 90,
+   "noLabel": {
+    "id": "Pasal 90"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 90\n(1) Setiap Orang dilarang mengedarkan Pangan tercemar.\n(2) Pangan tercemar sebagaimana dimaksud pada ayat (1)\nberupa Pangan yang:\na. mengandung bahan beracun,  berbahaya, atau yang\ndapat membahayakan kesehatan atau jiwa manusia;\nb. mengandung cemaran yang melampaui ambang batas\nmaksimal yang ditetapkan;\nc. mengandung bahan yang dilarang digunakan dalam\nkegiatan atau proses Produksi Pangan;\nd. mengandung bahan yang kotor, busuk, tengik,\nterurai, atau mengandung bahan nabati atau hewan i\nyang berpenyakit atau berasal dari bangkai;\ne. diproduksi dengan cara yang dilarang; dan/atau\nf. sudah kedaluwarsa."
+   }
+  },
+  {
+   "id": "ID-H2148-A91",
+   "no": 91,
+   "noLabel": {
+    "id": "Pasal 91"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 91\n(1) Dalam hal pengawasan keamanan, mutu, dan Gizi,  setiap\nPangan Olahan yang dibuat di dalam negeri atau yang\ndiimpor untuk diperdagangkan  dalam kemasan eceran,\nPelaku Usaha Pangan wajib memiliki izin edar.\n(2) Kewajiban memiliki izin edar sebagaimana dimaksud pada\nayat (1) dikecualikan terhadap Pangan Olahan tertentu\nyang diproduksi oleh industri rumah tangga.\n\n(3) Ketentuan . . .\n\n\n\n\n\n(3) Ketentuan m engenai kewajiban memiliki izin edar\nsebagaimana dimaksud pada ayat (1) dan ayat (2)\ndilaksanakan sesuai dengan ketentuan peraturan\nperundang-undangan."
+   }
+  },
+  {
+   "id": "ID-H2148-A92",
+   "no": 92,
+   "noLabel": {
+    "id": "Pasal 92"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 92\n(1) Pemerintah dan/atau Pemerintah Daerah melakukan\npengawasan dan pencegahan secara berkala terha dap\nkadar atau kandungan cemaran pada Pangan.\n(2) Pengawasan dan pencegahan sebagaimana dimaksud\npada ayat (1) dilaksanakan sesuai  dengan ketentuan\nperaturan perundang-undangan."
+   }
+  },
+  {
+   "id": "ID-H2148-A93",
+   "no": 93,
+   "noLabel": {
+    "id": "Pasal 93"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 93\nSetiap Orang yang mengimpor Pangan untuk diperdagangkan\nwajib memenuhi standar K eamanan Pangan dan Mutu\nPangan."
+   }
+  },
+  {
+   "id": "ID-H2148-A94",
+   "no": 94,
+   "noLabel": {
+    "id": "Pasal 94"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 94\n(1) Setiap Orang yang melanggar ketentuan sebagaimana\ndimaksud dalam Pasal 86 ayat (2) mengenai pemenuhan\nstandar Mutu Pangan, Pasal 89 mengenai label Kemasan\nPangan, Pasal 90 ayat (1) mengenai Pangan tercemar, dan\nPasal 93 mengenai impor Pangan dikenai sanksi\nadministratif.\n(2) Sanksi administratif sebagaimana dimaksud pada ayat (1)\nberupa:\na. denda;\nb. penghentian sementara dari kegiatan, produksi,\ndan/atau peredaran;\nc. penarikan Pangan dari peredaran oleh produsen;\nd. ganti rugi; dan/atau\ne. pencabutan izin.\n(3) Ketentuan lebih lanjut mengenai jenis, besaran denda,\ntata cara, dan mekanisme pengenaan sanksi administratif\nsebagaimana dimaksud pada ayat (1) dan ayat (2) diatur\ndalam Peraturan Pemerintah.\n\nBagian Kedelapan . . .\n\n\n\n\nBagian Kedelapan\nJaminan Produk Halal bagi yang Dipersyaratkan"
+   }
+  },
+  {
+   "id": "ID-H2148-A95",
+   "no": 95,
+   "noLabel": {
+    "id": "Pasal 95"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Kedelapan"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 95\n(1) Pemerintah dan Pemerintah Daerah melakukan\npengawasan terhadap penerapan sistem jaminan produk\nhalal bagi yang dipersyaratkan terhadap Pangan.\n(2) Penerapan sistem jaminan produk halal bagi yan g\ndipersyaratkan sebagaimana dimaksud pada ayat (1)\ndilaksanakan sesuai dengan ketentuan peraturan\nperundang-undangan.\n\nBAB VIII\nLABEL DAN IKLAN PANGAN\nBagian Kesatu\nLabel Pangan"
+   }
+  },
+  {
+   "id": "ID-H2148-A96",
+   "no": 96,
+   "noLabel": {
+    "id": "Pasal 96"
+   },
+   "chapter": {
+    "id": "BAB VIII / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 96\n(1) Pemberian label Pangan bertujuan untuk memberikan\ninformasi yang ben ar dan jelas kepada masyarakat\ntentang setiap produk Pangan yang dikemas sebelum\nmembeli dan/atau mengonsumsi Pangan.\n(2) Informasi sebagaimana dimaksud pada ayat (1) terkait\ndengan asal, keamanan, mutu, kandungan Gizi, dan\nketerangan lain yang diperlukan."
+   }
+  },
+  {
+   "id": "ID-H2148-A97",
+   "no": 97,
+   "noLabel": {
+    "id": "Pasal 97"
+   },
+   "chapter": {
+    "id": "BAB VIII / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 97\n(1) Setiap Orang yang memproduksi Pangan di dalam negeri\nuntuk diperdagangkan wajib mencantumkan label di\ndalam dan/atau pada Kemasan Pangan.\n(2) Setiap Orang yang mengimpor pangan untuk\ndiperdagangkan wajib mencantumkan label di dalam\ndan/atau pada Kemasan  Pangan pada saat memasuki\nwilayah Negara Kesatuan Republik Indonesia.\n(3) Pencantuman label di dalam dan/atau pada Kemasan\nPangan sebagaimana dimaksud pada ayat (1) dan ayat (2)\nditulis atau dicetak dengan menggunakan bahasa\nIndonesia serta memuat paling sedi kit keterangan\nmengenai:\na. nama . . .\n\n\n\na. nama produk;\nb. daftar bahan yang digunakan;\nc. berat bersih atau isi bersih;\nd. nama dan alamat pihak yang memproduksi atau\nmengimpor;\ne. halal bagi yang dipersyaratkan;\nf. tanggal dan kode produksi;\ng. tanggal, bulan, dan tahun kedaluwarsa;\nh. nomor izin edar bagi Pangan Olahan; dan\ni. asal usul bahan Pangan tertentu.\n(4) Keterangan pada label sebagaimana dimaksud pada ayat\n(3) ditulis, dicetak, atau ditampilkan secara tegas dan\njelas sehingga mudah dimengerti oleh masyarakat."
+   }
+  },
+  {
+   "id": "ID-H2148-A98",
+   "no": 98,
+   "noLabel": {
+    "id": "Pasal 98"
+   },
+   "chapter": {
+    "id": "BAB VIII / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 98\n(1) Ketentuan mengenai label berlaku bagi Pangan yang telah\nmelalui proses pengemasan akhir dan siap untuk\ndiperdagangkan.\n(2) Ketentuan label tidak berlaku bagi Perdagangan Pangan\nyang dibungkus di hadapan pembeli.\n(3) Pemerintah dan Pemerintah Daerah melaksanakan\npembinaan terhadap usaha mikro dan kecil agar secara\nbertahap mampu menerapkan ketentuan label\nsebagaimana dimaksud pada ayat (1)."
+   }
+  },
+  {
+   "id": "ID-H2148-A99",
+   "no": 99,
+   "noLabel": {
+    "id": "Pasal 99"
+   },
+   "chapter": {
+    "id": "BAB VIII / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 99\nSetiap Orang dilarang menghapus, mencabut, menutup,\nmengganti label, melabel kembali,  dan/atau menukar tanggal,\nbulan, dan tahun kedaluwarsa Pangan yang diedarkan."
+   }
+  },
+  {
+   "id": "ID-H2148-A100",
+   "no": 100,
+   "noLabel": {
+    "id": "Pasal 100"
+   },
+   "chapter": {
+    "id": "BAB VIII / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 100\n(1) Setiap label Pangan yang diperdagangkan wajib memuat\nketerangan mengenai Pangan dengan benar dan tidak\nmenyesatkan.\n(2) Setiap Orang dilarang memberikan keterangan atau\npernyataan yang tidak benar dan/atau menyesatkan pada\nlabel."
+   }
+  },
+  {
+   "id": "ID-H2148-A101",
+   "no": 101,
+   "noLabel": {
+    "id": "Pasal 101 "
+   },
+   "chapter": {
+    "id": "BAB VIII / Bagian Kesatu"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 101 . . .\n\n\n\n\nPasal 101\n(1) Setiap   Orang   yang   menyatakan   dalam   label   bahwa\nPangan  yang diperdagangkan adalah halal sesuai dengan\nyang dipersyaratkan  bertanggung jawab atas\nkebenarannya.\n(2) Setiap Orang yang menyatakan dalam la bel bahwa\nPangan yang diperdagangkan adalah sesuai dengan klaim\ntertentu bertanggung jawab atas kebenaran klaim\ntersebut.\n(3) Label tentang Pangan Olahan tertentu yang\ndiperdagangkan wajib memuat keterangan tentang\nperuntukan, cara penggunaan, dan/atau keteran gan lain\nyang perlu diketahui mengenai dampak Pangan terhadap\nkesehatan manusia."
+   }
+  },
+  {
+   "id": "ID-H2148-A102",
+   "no": 102,
+   "noLabel": {
+    "id": "Pasal 102"
+   },
+   "chapter": {
+    "id": "BAB VIII / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 102\n(1) Setiap Orang yang melanggar ketentuan sebagaimana\ndimaksud dalam Pasal 97 ayat (1), Pasal 99, dan Pasal\n100 ayat (2) dikenai sanksi administratif.\n(2) Setiap Orang yang  melanggar ketentuan sebagaimana\ndimaksud dalam Pasal 97 ayat (2)  wajib mengeluarkan\ndari dalam wilayah Negara Kesatuan Republik Indonesia\natau memusnahkan Pangan yang diimpor.\n(3) Sanksi administratif sebagaimana dimaksud pada ayat (1)\nberupa:\na. denda;\nb. penghentian sementara dari kegiatan, produksi,\ndan/atau peredaran;\nc. penarikan Pangan dari peredaran oleh produsen;\nd. ganti rugi; dan/atau\ne. pencabutan izin.\n(4) Ketentuan lebih lanjut mengenai jenis, besaran denda,\ntata cara, dan mekanisme pengenaan sanksi administratif\nsebagaimana dimaksud pada ayat (1) dan ayat ( 3) diatur\ndalam Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H2148-A103",
+   "no": 103,
+   "noLabel": {
+    "id": "Pasal 103 "
+   },
+   "chapter": {
+    "id": "BAB VIII / Bagian Kesatu"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 103 . . .\n\n\n\nPasal 103\nKetentuan lebih lanjut mengenai label Pangan sebagaimana\ndimaksud dalam Pasal 96 sampai dengan Pasal 101 diatur\ndengan atau berdasarkan Peraturan Pemerintah.\n\nBagian Kedua\nIklan Pangan"
+   }
+  },
+  {
+   "id": "ID-H2148-A104",
+   "no": 104,
+   "noLabel": {
+    "id": "Pasal 104"
+   },
+   "chapter": {
+    "id": "BAB VIII / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 104\n(1) Setiap iklan Pangan yang diperdagangkan harus memuat\nketerangan atau pernyataan mengenai Pangan dengan\nbenar dan tidak menyesatkan.\n(2) Setiap Orang dilarang memuat keterangan atau\npernyataan yang tidak benar atau  menyesatkan dalam\niklan Pangan yang diperdagangkan.\n(3) Pemerintah mengatur, mengawasi, dan melakukan\ntindakan yang diperlukan agar iklan Pangan yang\ndiperdagangkan tidak memuat keterangan atau\npernyataan yang tidak benar atau menyesatkan."
+   }
+  },
+  {
+   "id": "ID-H2148-A105",
+   "no": 105,
+   "noLabel": {
+    "id": "Pasal 105"
+   },
+   "chapter": {
+    "id": "BAB VIII / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 105\n(1) Setiap Orang yang menyatakan dalam iklan  bahwa\nPangan yang diperdagangkan adalah halal sesuai dengan\nyang dipersyaratkan  wajib bertanggung jawab atas\nkebenarannya.\n(2) Setiap Orang yang menyatakan dalam iklan bahwa\nPangan yang diperdagangkan adalah sesuai dengan klaim\ntertentu wajib bertanggung jawab atas kebenaran klaim\ntersebut."
+   }
+  },
+  {
+   "id": "ID-H2148-A106",
+   "no": 106,
+   "noLabel": {
+    "id": "Pasal 106"
+   },
+   "chapter": {
+    "id": "BAB VIII / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 106\n(1) Setiap Orang yang melanggar ketentuan sebagaimana\ndimaksud dalam Pasal 104 ayat (2) dan Pasal 105 dikenai\nsanksi administratif.\n(2) Sanksi administratif sebagaimana dimaksud pada ayat (1)\nberupa:\na. denda;\nb. penghentian . . .\n\n\n\n\n\nb. penghentian sementara dari kegiatan, produksi,\ndan/atau peredaran;\nc. penarikan Pangan dari peredaran oleh produsen;\nd. ganti rugi; dan/atau\ne. pencabutan izin.\n(3) Ketentuan lebih lanjut mengenai jenis, besaran denda,\ntata cara, dan mekanisme pengenaan sanksi administratif\nsebagaimana dimaksud pada ayat (1) dan ayat (2) diatur\ndalam Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H2148-A107",
+   "no": 107,
+   "noLabel": {
+    "id": "Pasal 107"
+   },
+   "chapter": {
+    "id": "BAB VIII / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 107\nKetentuan lebih lanjut mengenai iklan Pangan sebagaimana\ndimaksud dalam Pasal 104 dan Pasal 105 diatur dengan atau\nberdasarkan Peraturan Pemerintah.\n\nBAB IX\nPENGAWASAN"
+   }
+  },
+  {
+   "id": "ID-H2148-A108",
+   "no": 108,
+   "noLabel": {
+    "id": "Pasal 108"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 108\n(1) Dalam melaksanakan Penyelenggaraan Pangan,\nPemerintah berwenang melakukan pengawasan.\n(2) Pengawasan sebagaimana dimaksud pada ayat (1)\ndilakukan terhadap pemenuhan:\na. ketersediaan dan/atau kecukupan Pangan Pokok\nyang aman, bergizi, dan terjangkau oleh daya beli\nmasyarakat; dan\nb. persyaratan Keamanan Pangan, Mutu Pangan, dan\nGizi Pangan serta persyaratan label dan iklan Pangan.\n(3) Pengawasan terhadap:\na. Ketersediaan dan/atau kecukupan Pangan Pokok\nsebagaimana dimaksud pada ayat (2) huruf a\ndilaksanakan oleh lembaga pemerintah yang\nmenyelenggarakan urusan  pemerintahan di bidang\nPangan;\n\nb. persyaratan . . .\n\n\n\n\n\nb. persyaratan  Keamanan Pangan, Mutu Pangan, dan\nGizi Pangan, serta persyaratan label dan iklan Pa ngan\nsebagaimana dimaksud pada ayat (2) huruf b , untuk\nPangan Olahan, dilaksanakan oleh lembaga\npemerintah yang melaksanakan tugas pemerintahan\ndi bidang pengawasan obat dan makanan; dan\nc. persyaratan  Keamanan Pangan, Mutu Pangan, dan\nGizi Pangan, serta persyaratan label dan iklan Pangan\nsebagaimana dimaksud pada ayat (2) huruf b , untuk\nPangan Segar, dilaksanakan oleh lembaga pemerintah\nyang menyelenggarakan urusan  pemerintahan di\nbidang Pangan.\n(4) Pemerintah menyelenggarakan program pemantauan,\nevaluasi, dan p engawasan secara berkala terhadap\nkegiatan atau proses produksi, penyimpanan,\npengangkutan, dan/atau Peredaran Pangan oleh Pelaku\nUsaha Pangan."
+   }
+  },
+  {
+   "id": "ID-H2148-A109",
+   "no": 109,
+   "noLabel": {
+    "id": "Pasal 109"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 109\nDalam melaksanakan pengawasan, lembaga pemerintah\nsebagaimana dimaksud dalam Pasal 108 ayat (3) sesuai\ndengan urusan dan/atau  tugas serta kewenangan, masing-\nmasing mengangkat pengawas."
+   }
+  },
+  {
+   "id": "ID-H2148-A110",
+   "no": 110,
+   "noLabel": {
+    "id": "Pasal 110"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 110\n(1) Pengawas sebagaimana dimaksud dalam Pasal 109\nberwenang:\na. memasuki setiap tempat yang diduga digunakan\ndalam kegiatan atau proses produksi, penyimpanan,\npengangkutan, dan Perdagangan Pangan untuk\nmemeriksa, meneliti, dan mengambil contoh Pangan\ndan segala sesuatu yang diduga digunakan dalam\nkegiatan produksi, penyimpanan, pengangkutan,\ndan/atau Perdagangan Pangan;\nb. menghentikan, memeriksa, dan mencegah setiap\nsarana angkutan yang diduga atau patut diduga yang\ndigunakan dalam pengangkutan Pangan serta\nmengambil dan memeriksa contoh Pangan;\nc. membuka dan meneliti Kemasan Pangan;\n\nd. memeriksa . . .\n\n\n\nd. memeriksa setiap buku, dokumen, atau catatan lain\nyang diduga memuat kete rangan mengenai kegiatan\nproduksi, penyimpanan, pengangkutan, dan/atau\nPerdagangan Pangan, termasuk menggandakan atau\nmengutip keterangan tersebut; dan\ne. memerintahkan untuk memperlihatkan izin usaha\natau dokumen lain yang sejenis.\n(2) Pengawas dalam melaksanaka n tugas sebagaimana\ndimaksud pada ayat (1) wajib dilengkapi dengan surat\nperintah pengawasan dan/atau pemeriksaan serta tanda\npengenal."
+   }
+  },
+  {
+   "id": "ID-H2148-A111",
+   "no": 111,
+   "noLabel": {
+    "id": "Pasal 111"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 111\nDalam hal  hasil pemeriksaan oleh pengawas menunjukkan\nadanya bukti awal bahwa telah terjadi tindak pidana di bidang\nPangan, penyidikan segera  dilakukan oleh penyidik yang\nberwenang sesuai dengan ketentuan peraturan perundang -\nundangan."
+   }
+  },
+  {
+   "id": "ID-H2148-A112",
+   "no": 112,
+   "noLabel": {
+    "id": "Pasal 112"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 112\nKetentuan lebih lanjut mengenai pengawasan sebagaimana\ndimaksud dalam Pasal 108 sampai dengan Pasal 110 diatur\ndalam Peraturan Pemerintah.\n\nBAB X\nSISTEM INFORMASI PANGAN"
+   }
+  },
+  {
+   "id": "ID-H2148-A113",
+   "no": 113,
+   "noLabel": {
+    "id": "Pasal 113"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 113\nSistem informasi Pangan mencakup pengumpulan,\npengolahan, penganalisisan, penyimpanan, dan penyajian\nserta penyebaran data dan informasi tentang Pangan."
+   }
+  },
+  {
+   "id": "ID-H2148-A114",
+   "no": 114,
+   "noLabel": {
+    "id": "Pasal 114"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 114\n(1) Pemerintah dan Pemerintah Daera h berkewajiban\nmembangun, menyusun, dan mengembangkan sistem\ninformasi Pangan yang terintegrasi.\n(2) Sistem informasi sebagaimana dimaksud pada ayat (1)\npaling sedikit digunakan untuk:\na. perencanaan;\nb. pemantauan . . .\n\n\n\n\nb. pemantauan dan evaluasi;\nc. stabilitas pasokan dan harga Pangan; dan\nd. sistem peringatan dini terhadap Masalah Pangan serta\nkerawanan Pangan dan Gizi.\n(3) Pemerintah dan Pemerintah Daerah  sesuai dengan\nkewenangannya berkewajiban mengumumkan harga\nkomoditas Pangan.\n(4) Ketentuan lebih lanjut mengenai pengumuman  harga\nkomoditas Pangan diatur dalam peraturan menteri yang\nmenyelenggarakan urusan pemerintahan di bidang\nperdagangan."
+   }
+  },
+  {
+   "id": "ID-H2148-A115",
+   "no": 115,
+   "noLabel": {
+    "id": "Pasal 115"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 115\n(1) Sistem informasi Pangan sebagaimana dimaksud dalam\nPasal 114 ayat (1) diselenggarakan oleh pusat data dan\ninformasi Pangan.\n(2) Pusat data dan informasi Pangan wajib melakukan\npemutakhiran data dan informasi.\n(3) Pusat data dan informasi Pangan menyediakan data dan\ninformasi paling sedikit mengenai:\na. jenis produk Pangan;\nb. neraca Pangan;\nc. letak, luas wilayah, dan kawasan Produksi Pangan;\nd. permintaan pasar;\ne. peluang dan tantangan pasar;\nf. produksi;\ng. harga;\nh. konsumsi;\ni. status Gizi;\nj. ekspor dan impor;\nk. perkiraan pasokan;\nl. perkiraan musim tanam dan musim panen;\nm. prakiraan iklim;\nn. teknologi Pangan; dan\no. kebutuhan Pangan setiap daerah.\n\n(4) Data . . .\n\n\n\n(4) Data dan informasi sebagaimana dimaksud pada ayat (3)\ndapat diakses dengan mudah dan cepat oleh masyarakat ,\nkecuali yang menyangkut kepentingan negara sesuai\ndengan ketentuan peraturan perundang-undangan."
+   }
+  },
+  {
+   "id": "ID-H2148-A116",
+   "no": 116,
+   "noLabel": {
+    "id": "Pasal 116"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 116\nKetentuan lebih lanjut mengenai sistem informas i Pangan\nsebagaimana dimaksud dalam Pasal 113 sampai dengan Pasal\n115 diatur dalam Peraturan Pemerintah.\nBAB XI\nPENELITIAN DAN PENGEMBANGAN PANGAN"
+   }
+  },
+  {
+   "id": "ID-H2148-A117",
+   "no": 117,
+   "noLabel": {
+    "id": "Pasal 117"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 117\nPenelitian dan pengembangan Pangan dilakukan untuk\nmemajukan ilmu pengetahuan dan teknologi Pangan serta\nmenjadi dasar dalam merumuskan kebijakan Pangan yang\nmampu meningkatkan Kedaulatan Pangan, Kemandirian\nPangan, dan Ketahanan Pangan."
+   }
+  },
+  {
+   "id": "ID-H2148-A118",
+   "no": 118,
+   "noLabel": {
+    "id": "Pasal 118"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 118\n(1) Penelitian dan pengembangan Pangan  sebagaimana\ndimaksud dalam Pasal 117 diarahkan untuk menjamin\npenyediaan, penyimpanan, pengolahan, dan distribusi\nPangan agar mendapatkan bahan Pangan yang bermutu\ndan aman dikonsumsi bagi masyarakat.\n(2) Penelitian dan pengembangan Pangan  sebagaimana\ndimaksud pada ayat (1) dilakukan dengan:\na. menciptakan produk Pangan yang be rdaya saing di\ntingkat lokal, nasional, dan internasional;\nb. mempercepat  pemuliaan dan perakitan untuk\nmenghasilkan varietas unggul sumber Pangan  yang\nberasal  dari  tanaman, ternak, dan ikan yang toleran\nterhadap cekaman biotik dan abiotik, tahan terhadap\norganisme pengganggu tumbuhan atau wabah\npenyakit hewan dan ikan , dan adaptif terhadap\nperubahan iklim;\nc. merekayasa . . .\n\n\n\n\nc. merekayasa inovasi teknologi dan kelembagaan sistem\nbudi daya tanaman , hewan, dan ikan sebagai sumber\nPangan yang dapat meningkatka n produktivitas,\nefisiensi, dan daya saing , serta melestarikan\nkeanekaragaman hayati;\nd. merekayasa inovasi teknologi dan kelembagaan\npascapanen, pengolahan, dan pemasaran  hasil untuk\nmengembangkan produk Pangan Olahan berbasis\nPangan Lokal, peningkatan nilai  tambah,\npengembangan bisnis Pangan,  dan pengayaan\nkomposisi kandungan Gizi Pangan  yang aman\ndikonsumsi;\ne. menciptakan produk Pangan Lokal yang dapat\nmenyubstitusi Pangan Pokok dengan memperhatikan\nkesesuaian kandungan vitamin dan zat lain di\ndalamnya;\nf. mengoptimalkan pemanfaatan  sumber daya lahan,\nair, iklim, dan geneti k guna mempertahankan dan\nmeningkatkan kapasitas Produksi Pangan nabati dan\nhewani secara nasional; dan\ng. menghasilkan rekomendasi kebijakan pembangunan\nPangan."
+   }
+  },
+  {
+   "id": "ID-H2148-A119",
+   "no": 119,
+   "noLabel": {
+    "id": "Pasal 119"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 119\n(1) Pemerintah wajib melaks anakan penelitian dan\npengembangan Pangan sebagaimana dimaksud dalam\nPasal 117 dan Pasal 118 secara terus-menerus.\n(2) Pemerintah mendorong dan menyinergikan kegiatan\npenelitian dan pengembangan Pangan yang dilakukan\noleh Pemerintah Daerah, lembaga pendidikan,  lembaga\npenelitian, Pelaku Usaha Pangan, dan masyarakat."
+   }
+  },
+  {
+   "id": "ID-H2148-A120",
+   "no": 120,
+   "noLabel": {
+    "id": "Pasal 120"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 120\nPenelitian dan pengembangan Pangan sebagaimana dimaksud\ndalam Pasal 119  dapat dilakukan secara mandiri dan/atau\nmelalui kerja sama dengan lembaga penelitian internasional,\nbaik yang dikelola Pemerintah maupun swasta."
+   }
+  },
+  {
+   "id": "ID-H2148-A121",
+   "no": 121,
+   "noLabel": {
+    "id": "Pasal 121 "
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 121 . . .\n\n\n\nPasal 121\nPemerintah dan/atau Pemerintah Daerah berkewajiban\nmemfasilitasi publikasi, penyebaran, pemanfaatan, dan\npenerapan hasil penelitian Pangan."
+   }
+  },
+  {
+   "id": "ID-H2148-A122",
+   "no": 122,
+   "noLabel": {
+    "id": "Pasal 122"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 122\nKerja sama internasional untuk pengembangan Pang an Lokal\ndapat dilakukan apabila diinisiasi oleh lembaga di dalam\nnegeri setelah mendapat izin menteri yang membidangi\npenelitian."
+   }
+  },
+  {
+   "id": "ID-H2148-A123",
+   "no": 123,
+   "noLabel": {
+    "id": "Pasal 123"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 123\n(1) Setiap Orang asing dapat melakukan penelitian Pangan\nuntuk kepentingannya di wilayah Negara Kesatuan\nRepublik Indonesia.\n(2) Dalam melakukan penelitian sebagaimana dimaksud\npada ayat (1), Setiap Orang asing wajib menaati ketentuan\nperaturan perundang-undangan.\n(3) Dalam hal penelitian sebagaimana dimaksud pada ayat\n(2) menggunakan material hayati dari dalam negeri yang\nbertujuan untuk komersial, Setiap Orang asing wajib\nmemberikan r oyalti kepada Pemerintah sesuai  dengan\nketentuan peraturan perundang-undangan."
+   }
+  },
+  {
+   "id": "ID-H2148-A124",
+   "no": 124,
+   "noLabel": {
+    "id": "Pasal 124"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 124\nPemerintah mem fasilitasi dan memberikan pelindungan hak\natas kekayaan intelektual terhadap hasil penelitian dan\npengembangan Pangan serta Pangan Lokal unggulan sesuai\ndengan ketentuan peraturan perundang-undangan."
+   }
+  },
+  {
+   "id": "ID-H2148-A125",
+   "no": 125,
+   "noLabel": {
+    "id": "Pasal 125"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 125\nPemerintah dan /atau Pemerintah Daerah memberikan\npenghargaan dan/atau insentif bagi peneliti dan/atau\npenelitian Pangan yang mampu menghasilkan teknologi\nunggul yang bermanfaat bagi masyarakat  dalam pewujudan\nKedaulatan Pangan, Kemandirian Pangan, dan Ketahanan\nPangan.\nBAB XII . . .\n\n\n\nBAB XII\nKELEMBAGAAN PANGAN"
+   }
+  },
+  {
+   "id": "ID-H2148-A126",
+   "no": 126,
+   "noLabel": {
+    "id": "Pasal 126"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 126\nDalam hal  mewujudkan Kedaulatan Pangan, Kemandirian\nPangan, dan Ketahanan Pangan n asional, dibentuk lembaga\nPemerintah yang menangani bidang Pangan yang berada di\nbawah dan bertanggung jawab kepada Presiden."
+   }
+  },
+  {
+   "id": "ID-H2148-A127",
+   "no": 127,
+   "noLabel": {
+    "id": "Pasal 127"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 127\nLembaga Pemerintah sebagaimana dimaksud dalam Pasal 126\nmempunyai tugas melaksanakan tugas pemerintahan di\nbidang Pangan."
+   }
+  },
+  {
+   "id": "ID-H2148-A128",
+   "no": 128,
+   "noLabel": {
+    "id": "Pasal 128"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 128\nLembaga Pemerintah sebagaimana dimaksud dalam Pasal 127\ndapat mengusulkan kepada Presiden untuk memberikan\npenugasan khusus kepada badan usaha milik negara di\nbidang Pangan untuk melaksanakan  produksi, pengadaan,\npenyimpanan, dan/atau distribusi Pangan Pokok dan Pangan\nlainnya yang ditetapkan oleh Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H2148-A129",
+   "no": 129,
+   "noLabel": {
+    "id": "Pasal 129"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 129\nKetentuan lebih lanjut mengenai organisasi dan tata kerja\nlembaga Pemerintah sebagaimana dimaksud dalam Pasal 126\nsampai Pasal 128 diatur dengan Peraturan Presiden.\n\nBAB XIII\nPERAN SERTA MASYARAKAT"
+   }
+  },
+  {
+   "id": "ID-H2148-A130",
+   "no": 130,
+   "noLabel": {
+    "id": "Pasal 130"
+   },
+   "chapter": {
+    "id": "BAB XIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 130\n(1) Masyarakat dapat  berperan serta dalam mewujudkan\nKedaulatan Pangan, Kemandirian Pangan, dan Ketahanan\nPangan.\n(2) Peran serta masyarakat sebagaimana dimaksud pada ayat\n(1) dilakukan dalam hal:\na. pelaksanaan produksi, dis tribusi, perdagangan, dan\nkonsumsi Pangan;\nb. penyelenggaraan . . .\n\n\n\n\nb. penyelenggaraan Cadangan Pangan Masyarakat;\nc. pencegahan dan penanggulangan rawan Pangan  dan\nGizi;\nd. penyampaian informasi dan pengetahuan Pangan dan\nGizi;\ne. pengawasan kelancaran penyelenggara an\nKetersediaan Pangan , keterjangkauan  Pangan,\nPenganekaragaman Pangan, dan Keamanan Pangan ;\ndan/atau\nf. peningkatan Kemandirian Pangan rumah tangga.\n(3) Pemerintah dan/atau Pemerintah D aerah mendorong\nperan serta masyarakat sebagaimana dimaksud pada ayat\n(1)."
+   }
+  },
+  {
+   "id": "ID-H2148-A131",
+   "no": 131,
+   "noLabel": {
+    "id": "Pasal 131"
+   },
+   "chapter": {
+    "id": "BAB XIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 131\n(1) Masyarakat dapat menyampaikan permasalahan,\nmasukan, dan/atau cara penyelesaian Masalah Pangan\nkepada Pemerintah dan/atau Pemerintah Daerah.\n(2) Ketentuan mengenai tata cara penyampaian\npermasalahan, masukan, dan/atau cara penyelesaian\nMasalah Pangan sebagaimana dimaksud pada ayat (1)\ndiatur dalam Peraturan Pemerintah.\n\nBAB XIV\nPENYIDIKAN"
+   }
+  },
+  {
+   "id": "ID-H2148-A132",
+   "no": 132,
+   "noLabel": {
+    "id": "Pasal 132"
+   },
+   "chapter": {
+    "id": "BAB XIV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 132\n(1) Selain pejabat polisi negara Republik Indonesia, pejabat\npegawai negeri sipil tertentu yang lingkup tugas dan\ntanggung jawabnya di bidang Pangan diberi wew enang\nkhusus sebagai penyidik untuk melakukan penyidikan\ndalam tindak pidana di bidang Pangan  sesuai dengan\nketentuan peraturan perundang -undangan di bidang\nHukum Acara Pidana.\n(2) Penyidik pegawai negeri sipil sebagaimana dimaksud pada\nayat (1) berwenang:\na. melakukan pemeriksaan atas kebenaran laporan atau\nketerangan berkenaan dengan tindak pidana di\nbidang Pangan;\n\nb. melakukan . . .\n\n\n\nb. melakukan pemanggilan terhadap seseorang untuk\ndidengar dan diperiksa sebagai tersangka atau sebagai\nsaksi dalam tindak pidana di bidang Pangan;\nc. melakukan penggeledahan dan penyitaan terhadap\nbarang bukti tindak pidana di bidang Pangan;\nd. meminta keterangan dan barang bukti dari orang atau\nbadan hukum sehubungan dengan tindak pidana di\nbidang Pangan;\ne. membuat dan menandatangani berita acara;\nf. menghentikan penyidikan apabila tidak terdapat\ncukup bukti tentang adanya tindak pidana di bidang\nPangan; dan\ng. meminta bantuan ahli dalam rangka pelaksanaan\ntugas penyidikan tindak pidana di bidang Pangan.\n(3) Penyidik pegawai negeri sipil sebagaimana dimaksud pada\nayat (1)  memberitahukan dimulainya penyidikan kepada\npejabat penyidik kepolisian negara Republik Indonesia.\n(4) Apabila pelaksanaan kewenangan sebagaimana dimaksud\npada ayat (2) memerlukan tindakan penangkapan dan\npenahanan, penyidik pegawai negeri sipil melakukan\nkoordinasi dengan pejabat penyidik kepolisian negara\nRepublik Indonesia sesuai dengan ketentuan peraturan\nperundang-undangan.\n(5) Penyidik pegawai negeri sipil sebagaimana dimaksud pada\nayat (1) menyampaikan hasil penyidikan kepada penuntut\numum melalui pejabat penyidik kepolisian negara\nRepublik Indonesia.\n(6) Pengangkatan pejabat penyidik pegawai negeri sipil dan\ntata cara serta proses penyidikan dilaksanakan sesuai\ndengan ketentuan peraturan perundang-undangan.\n\nBAB XV\nKETENTUAN PIDANA"
+   }
+  },
+  {
+   "id": "ID-H2148-A133",
+   "no": 133,
+   "noLabel": {
+    "id": "Pasal 133"
+   },
+   "chapter": {
+    "id": "BAB XV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 133\n\nPelaku Usaha Pangan yang dengan sengaja menimbun atau\nmenyimpan melebihi jumlah maksimal sebagaimana dimaksud\ndalam Pasal 53 dengan maksud untuk memperoleh\nkeuntungan yang mengakibatkan harga Pangan Pokok\nmenjadi mahal atau melambung tinggi  dipidana dengan\npidana penjara paling lama 7 (tuju h) tahun atau denda paling\nbanyak Rp100.000.000.000,00 (seratus miliar rupiah)."
+   }
+  },
+  {
+   "id": "ID-H2148-A134",
+   "no": 134,
+   "noLabel": {
+    "id": "Pasal 134 "
+   },
+   "chapter": {
+    "id": "BAB XV"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 134 . . .\n\n\n\nPasal 134\nSetiap Orang yang me lakukan Produksi Pangan Olahan\ntertentu untuk diperdagangkan, yang dengan sengaja tidak\nmenerapkan tata c ara pengolahan Pangan yang  dapat\nmenghambat proses penurunan atau kehilangan kandungan\nGizi bahan baku Pangan yang digunakan sebagaimana\ndimaksud dalam Pasal 64 ayat (1) dipidana dengan pidana\npenjara paling lama 1 (satu) tahun atau denda paling banyak\nRp2.000.000.000,00 (dua miliar rupiah)."
+   }
+  },
+  {
+   "id": "ID-H2148-A135",
+   "no": 135,
+   "noLabel": {
+    "id": "Pasal 135"
+   },
+   "chapter": {
+    "id": "BAB XV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 135\nSetiap Orang yang menyelenggarakan kegiatan atau proses\nproduksi, penyimpanan, pengangkutan, dan/atau peredaran\nPangan yang tidak memenuhi Persyaratan Sanitasi Pangan\nsebagaimana dimaksud dalam Pasal 71 ayat ( 2) dipidana\ndengan pidana penjara paling lama 2 (du a) tahun atau denda\npaling banyak  Rp4.000.000.000,00 (empat miliar rupiah)."
+   }
+  },
+  {
+   "id": "ID-H2148-A136",
+   "no": 136,
+   "noLabel": {
+    "id": "Pasal 136"
+   },
+   "chapter": {
+    "id": "BAB XV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 136\nSetiap Orang yang melakukan Produksi Pangan untuk\ndiedarkan yang dengan sengaja menggunakan:\na. bahan tambahan Pangan mel ampaui ambang batas\nmaksimal yang ditetapkan; atau\nb. bahan yang dilarang digunakan sebagai bahan tambahan\nPangan\nsebagaimana dimaksud dalam Pasal 75 ayat (1) dipidana\ndengan pidana penjara paling lama 5 (lima) tahun atau denda\npaling banyak Rp10.000.000.000,00 (sepuluh miliar rupiah)."
+   }
+  },
+  {
+   "id": "ID-H2148-A137",
+   "no": 137,
+   "noLabel": {
+    "id": "Pasal 137"
+   },
+   "chapter": {
+    "id": "BAB XV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 137\n(1) Setiap Orang yang memproduksi Pangan yang dihasilkan\ndari Rekayasa Genetik Pangan yang belum mendapatkan\npersetujuan Ke amanan Pangan sebelum diedarkan\nsebagaimana dimaksud d alam Pasal 77 ayat (1)  dipidana\ndengan pida na penjara paling lama 5 (lima) tahun atau\ndenda paling banyak Rp10.000.000.000,00 ( sepuluh\nmiliar rupiah).\n\n(2) Setiap . . .\n\n\n\n(2) Setiap Orang yang melakukan kegiatan atau proses\nProduksi Pangan dengan menggunakan bahan baku,\nbahan tambahan Pangan, dan/atau ba han lain yang\ndihasilkan dari Rekayasa Genetik Pangan yang belum\nmendapatkan persetujuan Ke amanan Pangan sebelum\ndiedarkan sebagaimana dimaksud dalam Pasal 77 ayat (2)\ndipidana dengan pidana penjara paling lama 5 (lima)\ntahun atau denda paling banyak Rp10. 000.000.000,00\n(sepuluh miliar rupiah)."
+   }
+  },
+  {
+   "id": "ID-H2148-A138",
+   "no": 138,
+   "noLabel": {
+    "id": "Pasal 138"
+   },
+   "chapter": {
+    "id": "BAB XV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 138\nSetiap Orang yang melakukan Produksi Pangan untuk\ndiedarkan, yang dengan sengaja menggunakan bahan apa pun\nsebagai Kemasan Pangan yang dapat melepaskan cemaran\nyang membahayakan kesehatan manusia sebagaiman a\ndimaksud dalam Pasal 83 ayat (1)  dipidana dengan pidana\npenjara paling lama 2 (dua) tahun atau denda paling banyak\nRp4.000.000.000,00 (empat miliar rupiah)."
+   }
+  },
+  {
+   "id": "ID-H2148-A139",
+   "no": 139,
+   "noLabel": {
+    "id": "Pasal 139"
+   },
+   "chapter": {
+    "id": "BAB XV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 139\nSetiap Orang yang dengan sengaja membuka kemasan akhir\nPangan untuk dikemas kembali dan  diperdagangkan\nsebagaimana dimaksud dalam Pasal 84 ayat (1)  dipidana\ndengan pidana penjara paling lama 5 (lima) tahun atau denda\npaling banyak Rp10.000.000.000,00 (sepuluh miliar rupiah)."
+   }
+  },
+  {
+   "id": "ID-H2148-A140",
+   "no": 140,
+   "noLabel": {
+    "id": "Pasal 140"
+   },
+   "chapter": {
+    "id": "BAB XV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 140\nSetiap Orang yang memproduksi dan memperdagangkan\nPangan yang dengan sengaja tidak memenuhi standar\nKeamanan Pangan sebagaimana dimaksud dalam Pasal 86\nayat (2) dipidana dengan pidana penjara paling lama 2 (dua)\ntahun atau denda paling banyak Rp 4.000.000.000,00 ( empat\nmiliar rupiah)."
+   }
+  },
+  {
+   "id": "ID-H2148-A141",
+   "no": 141,
+   "noLabel": {
+    "id": "Pasal 141"
+   },
+   "chapter": {
+    "id": "BAB XV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 141\nSetiap Orang yang dengan sengaja memperdagangkan Pangan\nyang tidak sesuai dengan Keamanan Pangan dan Mutu\nPangan yang tercantum dalam label Kemasan Pangan\nsebagaimana dimaksud dalam Pasal 89  dipidana dengan\npidana penjara paling lama 2 (dua) tahun atau denda paling\nbanyak Rp4.000.000.000,00 (empat miliar rupiah)."
+   }
+  },
+  {
+   "id": "ID-H2148-A142",
+   "no": 142,
+   "noLabel": {
+    "id": "Pasal 142 "
+   },
+   "chapter": {
+    "id": "BAB XV"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 142 . . .\n\n\n\nPasal 142\n\nPelaku Usaha Pangan yang dengan senga ja tidak memiliki izin\nedar terhadap setiap Pangan Olahan yang dibuat di dalam\nnegeri atau yang diimpor untuk diperdagangkan dalam\nkemasan eceran sebagaimana dimaksud dalam Pasal 91 ayat\n(1) dipidana dengan pidana penjara paling lama  2 (dua) tahun\natau denda paling banyak Rp4.000.000.000,00 (empat  miliar\nrupiah)."
+   }
+  },
+  {
+   "id": "ID-H2148-A143",
+   "no": 143,
+   "noLabel": {
+    "id": "Pasal 143"
+   },
+   "chapter": {
+    "id": "BAB XV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 143\n\nSetiap Orang yang dengan sengaja menghapus, mencabut,\nmenutup, mengganti label, melabel kembali , dan/atau\nmenukar tanggal, bulan, dan tahun kedaluwarsa Pangan yang\ndiedarkan sebagaimana dimaksud dalam Pasal 99 dipidana\ndengan pidana penjara paling lama 2 (dua) tahun atau denda\npaling banyak Rp4.000.000.000,00 (empat miliar rupiah)."
+   }
+  },
+  {
+   "id": "ID-H2148-A144",
+   "no": 144,
+   "noLabel": {
+    "id": "Pasal 144"
+   },
+   "chapter": {
+    "id": "BAB XV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 144\n\nSetiap Orang yang dengan sengaja memberikan keterangan\natau pernyataan yang tidak benar atau menyesatkan pada\nlabel sebagaimana dimaksud dalam Pasal 100 ayat (2)\ndipidana dengan pidana penjara paling lama 3 (tiga) tahun\natau denda paling banyak Rp6.000.000.000, 00 (enam miliar\nrupiah)."
+   }
+  },
+  {
+   "id": "ID-H2148-A145",
+   "no": 145,
+   "noLabel": {
+    "id": "Pasal 145"
+   },
+   "chapter": {
+    "id": "BAB XV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 145\nSetiap Orang yang dengan sengaja memuat keterangan atau\npernyataan tentang Pangan yang diperdagangkan melalui\niklan yang tidak benar atau menyesatkan sebagaimana\ndimaksud dalam Pasal 104 ayat (2)  dipidana dengan pidana\npenjara paling lama  3 (tiga) tahun atau denda paling banyak\nRp6.000.000.000,00 (enam miliar rupiah)."
+   }
+  },
+  {
+   "id": "ID-H2148-A146",
+   "no": 146,
+   "noLabel": {
+    "id": "Pasal 146"
+   },
+   "chapter": {
+    "id": "BAB XV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 146\n(1) Jika perbuatan sebagaimana dimaksud da lam Pasal 137,\nPasal 1 38, Pasal 142, Pasal  143, dan Pasal 145 yang\nmengakibatkan:\na. luka berat atau membahaya kan nyawa orang, pelaku\ndipidana dengan pidana penjara paling lama 5 (lima)\ntahun atau denda paling banyak\nRp10.000.000.000,00 (sepuluh miliar rupiah).\n b. kematian . . .\n\n\n\nb. kematian orang, pelaku dipidana dengan pidana\npenjara paling lama 10  (sepuluh) tahun atau denda\npaling banyak Rp20.000.000.000,00 (dua puluh miliar\nrupiah).\n(2) Jika perbuatan sebagaimana dimaksud da lam Pasal 1 40\nyang mengakibatkan:\na. luka berat atau membahayakan nyawa orang, pelaku\ndipidana dengan pidana penjara paling lama 7 (tujuh)\ntahun atau denda paling ba nyak\nRp14.000.000.000,00 (empat belas miliar rupiah).\nb. kematian orang, pelaku dipidana dengan pidana\npenjara paling lama 10 (sepuluh) tahun atau denda\npaling banyak Rp20.000.000.000,00 (dua puluh miliar\nrupiah)."
+   }
+  },
+  {
+   "id": "ID-H2148-A147",
+   "no": 147,
+   "noLabel": {
+    "id": "Pasal 147"
+   },
+   "chapter": {
+    "id": "BAB XV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 147\nSetiap pejabat atau penyelenggara negara yang melakukan\natau membantu tindak pidana sebagaimana dimaksud dalam\nPasal 133 sampai  Pasal 14 5, dikenai pidana dengan\npemberatan ditambah 1/ 3 (satu pertiga) dari ancaman pidana\nmasing-masing."
+   }
+  },
+  {
+   "id": "ID-H2148-A148",
+   "no": 148,
+   "noLabel": {
+    "id": "Pasal 148"
+   },
+   "chapter": {
+    "id": "BAB XV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 148\n(1)  Dalam hal perbuatan sebagaimana dimaksud dalam Pasal\n133 sampai  Pasal 145 dilakukan oleh korporasi, selain\npidana penjara dan pidana denda terhadap pengurusnya,\npidana dapat dijatuhkan terhadap korporasi berupa\npidana denda dengan pemberatan 3 (tiga) kali dari pidana\ndenda terhadap perseorangan.\n(2)  Selain pidana denda sebagaimana dimaksud pada ayat (1),\nkorporasi dapat dikenai pidana tambahan berupa:\na. pencabutan hak-hak tertentu; atau\nb. pengumuman putusan hakim.\n\n\n\nBAB XVI . . .\n\n\n\n\n\nBAB XVI\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H2148-A149",
+   "no": 149,
+   "noLabel": {
+    "id": "Pasal 149"
+   },
+   "chapter": {
+    "id": "BAB XVI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 149\nPada saat Undang -Undang ini  mulai berlaku, lembaga\nPemerintah yang menangani bidang Pangan yang sudah ada\npada saat berlakunya Undang -Undang ini tetap menjalankan\ntugasnya sampai dengan terbentuknya lembaga Pemerintah\nyang menangani bidang Pangan berdasarkan ketentuan\nUndang-Undang ini.\n\nBAB XVII\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H2148-A150",
+   "no": 150,
+   "noLabel": {
+    "id": "Pasal 150"
+   },
+   "chapter": {
+    "id": "BAB XVII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 150\n\nPeraturan pelaksanaan Undang -Undang ini harus telah\nditetapkan paling lambat 3 (tiga) tahun sejak Undang -Undang\nini diundangkan."
+   }
+  },
+  {
+   "id": "ID-H2148-A151",
+   "no": 151,
+   "noLabel": {
+    "id": "Pasal 151"
+   },
+   "chapter": {
+    "id": "BAB XVII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 151\n\nLembaga Pemerintah yang menangani bidang Pangan\nsebagaimana dimaksud da lam Pasal 129 harus telah\nterbentuk paling lambat 3 (tiga) tahun sejak Undang -Undang\nini diundangkan."
+   }
+  },
+  {
+   "id": "ID-H2148-A152",
+   "no": 152,
+   "noLabel": {
+    "id": "Pasal 152"
+   },
+   "chapter": {
+    "id": "BAB XVII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 152\n\nPada saat Undang -Undang ini mulai berlaku, semua\nketentuan peraturan perundang -undangan yang mengatur\nPangan, dinyatakan tetap berlaku sepanja ng belum diganti\natau tidak bertentangan dengan Undang-Undang ini."
+   }
+  },
+  {
+   "id": "ID-H2148-A153",
+   "no": 153,
+   "noLabel": {
+    "id": "Pasal 153"
+   },
+   "chapter": {
+    "id": "BAB XVII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 153\n\nPada saat Undang-Undang ini mulai berlaku, Undang -Undang\nNomor 7 Tahun 1996 tentang Pangan (Lembaran Negara\nRepublik Indonesia Tahun 1996 Nomor 99, Tambahan\nLembaran Negara Rep ublik Indonesia Nomor 3656), dicabut\ndan dinyatakan tidak berlaku."
+   }
+  },
+  {
+   "id": "ID-H2148-A154",
+   "no": 154,
+   "noLabel": {
+    "id": "Pasal 154"
+   },
+   "chapter": {
+    "id": "BAB XVII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 154\n\nUndang-Undang ini mulai berlaku pada tanggal diundangkan.\n\nAgar . . .\n\n\n\n\n\nAgar setiap orang  mengetahuinya, memerintahkan\npengundangan Undang -Undang ini dengan penempatannya\ndalam Lembaran Negara Republik Indonesia.\n\n\nDisahkan di Jakarta\npada tanggal 16 November 2012\n\nPRESIDEN REPUBLIK INDONESIA,\n\n\n                                           ttd.\n\n\n                                                         DR. H. SUSILO BAMBANG YUDHOYONO\n\nDiundangkan di Jakarta\npada tanggal 17 November 2012\n\nMENTERI HUKUM DAN HAK ASASI MANUSIA\n               REPUBLIK INDONESIA,\n\n\n                              ttd.\n\n\n                 AMIR SYAMSUDIN\n\n\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2012 NOMOR 227\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSalinan sesuai dengan aslinya\nKEMENTERIAN SEKRETARIAT NEGARA\nREPUBLIK INDONESIA\nAsisten Deputi Perundang-undangan\nBidang Perekonomian\n\n\n\n\nLYDIA SILVANNA DJAMAN\n\n\nPENJELASAN\n\nATAS\n\nUNDANG-UNDANG REPUBLIK INDONESIA\n\nNOMOR 18 TAHUN 2012\n\nTENTANG\n\nPANGAN\n\nI.  UMUM\nPembangunan nasional merupakan pencerminan kehendak seluruh\nrakyat untuk terus -menerus meningkatkan kemakmuran dan\nkesejahteraannya secara adil da n merata dalam segala aspek kehidupan\nyang dilakukan secara terpadu, terarah, dan berkelanjutan dalam rangka\nmewujudkan suatu masyarakat yang adil dan makmur, baik material\nmaupun spiritual berdasarkan Pancasila dan Undang -Undang Dasar\nNegara Republik Indo nesia Tahun 1945. Pangan merupakan kebutuhan\ndasar manusia yang paling utama dan pemenuhannya merupakan bagian\ndari hak asasi setiap rakyat Indonesia. Pangan harus senantiasa tersedia\nsecara cukup, aman, bermutu, bergizi, dan beragam dengan harga yang\nterjangkau oleh daya beli masyarakat, serta tidak bertentangan dengan\nagama, keyakinan, dan  budaya masyarakat. Untuk mencapai semua itu,\nperlu diselenggarakan suatu sistem Pangan yang memberikan\npelindungan, baik bagi pihak yang memproduksi maupun yang\nmengonsumsi pangan.\nPenyelenggaraan Pangan dilakukan untuk memenuhi kebutuhan dasar\nmanusia yang memberikan manfaat secara adil, merata, dan\nberkelanjutan dengan berdasarkan pada Kedaulatan Pangan, Kemandirian\nPangan, dan Ketahanan Pangan. Hal itu berarti bahwa  dalam rangka\nmemenuhi kebutuhan konsumsi Pangan masyarakat sampai pada tingkat\nperseorangan, negara mempunyai kebebasan untuk menentukan\nkebijakan Pangannya secara mandiri, tidak dapat didikte oleh pihak mana\npun, dan para Pelaku Usaha Pangan  mempunyai ke bebasan untuk\nmenetapkan dan melaksanakan usahanya sesuai dengan sumber daya\nyang dimilikinya. Pemenuhan konsumsi Pangan tersebut harus\nmengutamakan produksi dalam negeri dengan memanfaatkan sumber\ndaya dan kearifan lokal secara optimal. Untuk mewujudkan h al tersebut,\ntiga hal pokok yang harus diperhatikan adalah (i) ketersediaan pangan\nyang berbasis pada pemanfaatan sumber daya lokal secara optimal, (ii)\nketerjangkauan pangan dari aspek fisik dan ekonomi oleh seluruh\nmasyarakat, serta (iii) pemanfaatan pan gan atau konsumsi Pangan dan\nGizi untuk hidup sehat, aktif, dan produktif.\nPewujudan . . .\n\n\n\nPewujudan ketersediaan pangan yang berbasis pada pemanfaatan sumber\ndaya lokal secara optimal dilakukan dengan Penganekaragaman Pangan\ndan pengutamaan Produksi Pangan dalam negeri. Pewujudan\nketerjangkauan Pangan dari aspek fisik dan ekonomi dilakukan melalui\npengelolaan stabilisasi pasokan dan harga Pangan Pokok, pengelolaan\ncadangan Pangan Pokok, dan pendistribusian Pangan Pokok. Pemanfaatan\npangan atau konsumsi Pangan dan Gizi aka n menghasilkan sumber daya\nmanusia yang berkualitas sebagai salah satu faktor penentu keberhasilan\npembangunan. Hal itu dilakukan melalui pemenuhan asupan Pangan\nyang beragam, bergizi seimbang, serta pemenuhan persyaratan Keamanan\nPangan, Mutu Pangan, dan Gizi Pangan.\nPenyelenggaraan Keamanan Pangan untuk kegiatan atau proses Produksi\nPangan untuk dikonsumsi harus dilakukan melalui Sanitasi Pangan,\npengaturan terhadap bahan tambahan Pangan, pengaturan terhadap\nPangan produk rekayasa genetik dan Iradiasi Pan gan, penetapan standar\nKemasan Pangan, pemberian jaminan Keamanan Pangan dan Mutu\nPangan, serta jaminan produk halal bagi yang dipersyaratkan. Pelaku\nUsaha Pangan dalam melakukan Produksi Pangan harus memenuhi\nberbagai ketentuan mengenai kegiatan atau pros es Produksi Pangan\nsehingga tidak berisiko merugikan atau membahayakan kesehatan\nmanusia. Pelaku Usaha Pangan bertanggung jawab terhadap Pangan yang\ndiedarkan, terutama apabila Pangan yang diproduksi menyebabkan\nkerugian, baik terhadap gangguan kesehatan m aupun kematian orang\nyang mengonsumsi Pangan tersebut.\nMasyarakat juga perlu mendapatkan informasi yang jelas mengenai setiap\nproduk pangan yang dikemas sebelum membeli dan mengonsumsi\nPangan. Informasi tersebut terkait dengan asal, keamanan, mutu,\nkandungan Gizi, dan keterangan lain yang diperlukan. Sehubungan\ndengan hal tersebut, perlu ditetapkan ketentuan mengenai label dan iklan\npangan sehingga masyarakat dapat mengambil keputusan berdasarkan\ninformasi yang akurat.\nKeberlanjutan dalam pe wujudan Kedaul atan Pangan, Kemandirian\nPangan, dan Ketahanan Pangan bergantung kepada kemampuan bangsa\ndan negara dalam menciptakan inovasi teknologi di bidang Pangan serta\nmendiseminasikannya kepada Pelaku Usaha Pangan. Oleh karena itu ,\nPemerintah wajib melakukan penel itian dan pengembangan Pangan\nsecara terus -menerus, dan mendorong serta menyinergikan kegiatan\npenelitian dan pengembangan Pangan yang dilakukan oleh Pemerintah\nDaerah, lembaga pendidikan, lembaga penelitian, Pelaku Usaha Pangan,\ndan masyarakat.\n\n\nDalam . . .\n\n\n\nDalam mewujudkan Kedaulatan Pangan, Kemandirian Pangan, dan\nKetahanan Pangan, diperlukan kelembagaan Pangan yang memiliki\nkewenangan dalam membangun koordinasi, integrasi, dan sinergi lintas\nsektor. Kelembagaan tersebut melaksanakan tugas pemerintahan d i\nbidang Pangan, yang berada di bawah dan bertanggung jawab kepada\nPresiden.\nDalam mewujudkan Kedaulatan Pangan, Kemandirian Pangan, dan\nKetahanan Pangan, masyarakat dapat berperan serta melalui pelaksanaan\nproduksi, distribusi, perdagangan, konsumsi Panga n, penyelenggaraan\nCadangan Pangan Masyarakat, pencegahan dan penanggulangan rawan\nPangan dan Gizi, penyampaian informasi dan pengetahuan Pangan dan\nGizi, pengawasan kelancaran penyelenggaraan Ketersediaan Pangan,\nketerjangkauan Pangan, Penganekaragaman Pa ngan, Keamanan Pangan,\ndan/atau peningkatan Kemandirian Pangan rumah tangga. Masyarakat\ndapat juga menyampaikan permasalahan, masukan, dan/atau\npenyelesaian masalah Pangan kepada Pemerintah dan Pemerintah\nDaerah.\nUndang-Undang tentang Pangan dimaksudkan se bagai landasan hukum\nbagi Penyelenggaraan Pangan yang mencakup perencanaan Pangan ,\nKetersediaan Pangan, Keterjangkauan Pangan, konsumsi Pangan dan Gizi,\nKeamanan Pangan, label dan iklan Pangan, pengawasan, sistem informasi\nPangan, penelitian dan pengemban gan Pangan , kelembagaan Pangan ,\nperan serta masyarakat, dan penyidikan.\nUndang-Undang tentang Pangan ini menyesuaikan dengan perkembangan\neksternal dan internal mengenai Pangan di Indonesia, seperti\ndemokratisasi, desentralisasi, globalisasi, penegakan hu kum, dan kondisi\naktual masyarakat Indonesia.\n\n\nII.  PASAL DEMI PASAL\n\nPasal 1\nCukup jelas.\n\nPasal 2\nHuruf a\n          Cukup jelas.\nHuruf b\nCukup jelas.\n\nHuruf c . . .\n\n\n\n\nHuruf c\nCukup jelas.\n\nHuruf d\nCukup jelas.\nHuruf e\nYang dimaksud dengan “asas manfaat ” adalah bahwa\nPenyelenggaraan Pangan harus memberikan manfaat bagi\nkemanusiaan dan kesejahteraan masyarakat, baik lahir\nmaupun batin dan manfaat tersebut dapat dinikmati oleh\nseluruh lapisan masyarakat secara adil dan merata dengan\ntetap bersandarkan pada daya dan potensi yang berkembang di\ndalam negeri.\nHuruf f\nYang dimaksud dengan “asas pemerataan” adalah bahwa\nPenyelenggaraan Pangan harus dilakukan secara menyeluruh\ndan mampu menjamin keterjangkauan Pangan sampai pada\ntingkat perseorangan secara merata.\nHuruf g\nYang dimaksud dengan “asas berkelanjutan” adalah bahwa\nPenyelenggaraan Pangan harus dilaksanakan secara konsisten\ndan berkesinambungan dengan memanfaatkan sumber daya\nalam yang menjamin peningkatan kesejahteraan masyarakat\nuntuk masa kini dan masa depan.\nHuruf h\nYang dimaksud dengan “asas keadilan” adalah bahwa\nPenyelenggaraan Pangan harus memberikan peluang dan\nkesempatan yang sama secara proporsional kepada semua\nwarga negara.\n\nPasal 3\nCukup jelas.\n\nPasal 4\nHuruf a\nCukup jelas.\nHuruf b\nCukup jelas.\nHuruf c\nCukup jelas.\n\nHuruf d . . .\n\n\n\n\nHuruf d\nYang dimaksud d engan ”masyarakat rawan Pangan”  adalah\nmasyarakat di suatu wilayah yang memiliki ketidakmampuan\nuntuk memperoleh Pangan yang cukup dan sesuai untuk\nhidup sehat dan aktif, termasuk di dalamnya masyarakat\nmiskin, masyarakat yang terkena bencana, dan/atau\nmasyarakat yang berada di kondisi geografis yang tidak\nterjangkau akses Pangan.\nYang dimaksud dengan ”masyarakat rawan Gizi” adalah\nmasyarakat yang paling mudah mengalami gangguan\nkesehatan atau kekurangan Gizi. Kelompok rawan Gizi ini pada\numumnya berhubungan dengan proses kehidupan manusia\nyang terdiri atas kelompok umur tertentu dalam siklus\nkehidupan manusia yang meliputi bayi, balita, ibu hamil dan\nmenyusui serta anak usia sekolah, remaja, dan lansia.\nHuruf e\nCukup jelas.\nHuruf f\nCukup jelas.\nHuruf g\nCukup jelas.\nHuruf h\nCukup jelas.\n\nPasal 5\nCukup jelas.\n\nPasal 6\nCukup jelas.\n\nPasal 7\nHuruf a\nCukup jelas.\nHuruf b\nCukup jelas.\nHuruf c\nDaya dukung  sumber daya alam, antara lain , lahan, air,\ngenetik, dan iklim.\nHuruf d\nCukup jelas.\n\nHuruf e . . .\n\n\n\n\nHuruf  e\nYang dimaksud dengan ”sarana Penyelenggaraan Pangan”\nadalah segala sesuatu yang dapat dipakai sebagai alat untuk\nmeningkatkan Produksi Pangan, antara lain, berupa bibit,\nbenih, pupuk, pakan, bahan pengendali organisme pengganggu\ntumbuhan, dan/atau pengendali wabah penyakit hewan dan\nikan.\nYang dimaksud dengan ”prasarana Penyelenggaraan Pangan”\nadalah segala sesuatu yang merupakan penunjang utama\nuntuk meningkatkan Produksi Pangan, antara lain, berupa\njaringan irigasi, jalan penghubung, gudang berpendingin,\ngudang yang memenuhi persyaratan teknis, alat tangkap ikan,\nkapal, dan/atau pelabuhan.\nHuruf f\nCukup jelas.\nHuruf g\nCukup jelas.\nHuruf h\nCukup jelas.\n\nPasal 8\nCukup jelas.\n\nPasal 9\nCukup jelas.\n\nPasal 10\nCukup jelas.\n\nPasal 11\nCukup jelas.\n\nPasal 12\nCukup jelas.\n\nPasal 13\nCukup jelas.\n\nPasal 14\nCukup jelas.\n\nPasal 15 . . .\n\n\n\n\n\nPasal 15\nAyat (1)\nCukup jelas.\nAyat (2)\nYang dimaksud dengan “untuk keperluan lain” adalah\npenggunaan kelebihan Produksi Pangan selain untuk\nkonsumsi, antara lain, untuk pakan, bahan baku energi,\nindustri, dan/atau ekspor.\nPasal 16\nCukup jelas.\n\nPasal 17\nCukup jelas.\n\nPasal 18\nHuruf a\nCukup jelas.\nHuruf b\nCukup jelas.\nHuruf c\nKebijakan yang berdampak pada penurunan daya sai ng, antara\nlain, berupa kebijakan pungutan yang tumpang tindih atau\nbesaran pungutan yang memberatkan Petani, Nelayan,\nPembudi Daya Ikan, dan Pelaku Usaha Pangan.\nHuruf d\nCukup jelas.\n\nPasal 19\nCukup jelas.\n\nPasal 20\nCukup jelas\n\nPasal 21\nYang dimaksud den gan “kelembagaan Pangan masyarakat” adalah\norganisasi dan/atau norma Penyelenggaraan Pangan yang berlaku di\nmasyarakat.\n\n\n\nPasal 22 . . .\n\n\n\n\nPasal 22\nAyat (1)\nHuruf a\nYang dimaksud dengan “perubahan iklim” adalah\nperubahan pola dan intensitas unsur iklim, khu susnya\nsuhu dan curah hujan pada kondisi periode waktu\ntertentu terhadap kondisi normal.\nHuruf b\nYang dimaksud dengan “serangan organisme pengganggu\ntumbuhan” adalah serangan organisme yang dapat\nmerusak, mengganggu kehidupan, atau menyebabkan\nkematian tumbuhan.\nYang dimaksud dengan “wabah penyakit hewan dan ikan”\nadalah penyakit hewan dan ikan yang dapat\nmenimbulkan kerugian ekonomi, keresahan masyarakat,\ndan/atau kematian hewan atau ikan yang tinggi dalam\nwaktu cepat.\nHuruf c\nYang dimaksud dengan “bencan a alam” adalah bencana\nyang diakibatkan oleh peristiwa atau serangkaian\nperistiwa yang diakibatkan oleh alam, antara lain, berupa\ngempa bumi, tsunami, gunung meletus, banjir,\nkekeringan, angin topan, dan tanah longsor.\nHuruf d\nYang dimaksud dengan “bencana  sosial” adalah bencana\nyang diakibatkan oleh peristiwa atau serangkaian\nperistiwa yang diakibatkan oleh manusia yang meliputi\nkonflik sosial antarkelompok atau antarkomunitas\nmasyarakat, dan/atau teror.\nHuruf e\nYang dimaksud dengan “pencemaran lingkungan”  adalah\nmasuk atau dimasukkannya mahluk hidup, zat, energi,\ndan/atau komponen lain ke dalam lingkungan oleh\nkegiatan manusia sehingga melampaui baku mutu\nlingkungan yang telah ditetapkan.\nHuruf f\nYang dimaksud dengan ”degradasi sumber daya lahan\ndan air” a dalah penurunan kualitas dan kuantitas\nsumber daya lahan dan air.\n\nHuruf g . . .\n\n\n\n\nHuruf g\nKompetisi pemanfaatan sumber daya Produksi Pangan\nmisalnya pemanfaatan lahan yang seharusnya untuk\nProduksi Pangan, tetapi digunakan untuk keperluan lain\ndi luar Pr oduksi Pangan karena memiliki nilai ekonomi\nyang lebih tinggi.\nHuruf h\nYang dimaksud dengan “alih fungsi penggunaan lahan”\nadalah perubahan fungsi lahan pertanian menjadi bukan\nlahan pertanian, baik secara tetap maupun sementara.\nHuruf i\nYang dimaksud den gan “disinsentif ekonomi” adalah\nkondisi ekonomi yang tidak mendukung peningkatan\nProduksi Pangan nasional, misalnya, ketidakstabilan\nharga Pangan, persaingan yang tidak adil terhadap\nkomoditas Pangan, dan/atau kebijakan yang berdampak\nnegatif pada upaya p eningkatan Produksi Pangan dalam\nnegeri, misalnya, pembebasan tarif Impor Pangan atau\npengenaan pungutan yang berlebihan.\nAyat (2)\nCukup jelas.\n\nPasal 23\nCukup jelas.\n\nPasal 24\nHuruf a\nCukup jelas.\nHuruf b\nCukup jelas.\nHuruf c\nCukup jelas.\nHuruf d\nYang dimaksud dengan \"keadaan darurat\" adalah kondisi yang\nterjadi di luar kemampuan manusia untuk mencegah atau\nmenghindari, antara lain, bencana alam, paceklik yang hebat,\natau konflik sosial.\n\nPasal 25\nCukup jelas.\n\n\nPasal 26 . . .\n\n\n\n\nPasal 26\nCukup jelas.\n\nPasal 27\nCukup jelas.\n\nPasal 28\nAyat (1)\nYang dimaksud dengan “Pangan Pokok tertentu” adalah Pangan\nyang diproduksi dan dikonsumsi oleh sebagian besar\nmasyarakat Indonesia yang apabila ketersediaan dan harganya\nterganggu dapat mempengaruhi stabilitas ekonomi  dan\nmenimbulkan gejolak sosial di masyarakat.\nAyat (2)\nTingkat kebutuhan Cadangan Pangan Pemerintah dihitung\ndengan memperhatikan antara lain kemampuan produksi,\njumlah dan sebaran penduduk, pola konsumsi, tingkat\nkonsumsi perkapita, dan dinamika pasar int ernasional.\nPerhitungan tingkat kebutuhan  tersebut ditetapkan secara\nberkala.\nAyat (3)\nCukup jelas.\nAyat (4)\nCukup jelas.\n\nPasal 29\nCukup jelas.\n\nPasal 30\nCukup jelas.\n\nPasal 31\nCukup jelas.\n\nPasal 32\nCukup jelas.\n\nPasal 33\nCukup jelas.\n\nPasal 34\nCukup jelas.\n\n\nPasal 35 . . .\n\n\n\n\nPasal 35\nCukup jelas.\n\nPasal 36\nCukup jelas.\n\nPasal 37\nAyat (1)\nTidak bertentangan dengan agama, keyakinan, dan budaya\nmasyarakat, antara lain Pangan yang memenuhi persyaratan\nhalal bagi umat Islam atau Pangan yang dilarang dikonsumsi\nmenurut agama, keyakinan, dan budaya masyarakat di\nIndonesia.\nAyat (2)\nCukup jelas.\n\nPasal 38\nCukup jelas.\n\nPasal 39\nCukup jelas.\n\nPasal 40\nCukup jelas.\n\nPasal 41\nCukup jelas.\n\nPasal 42\nCukup jelas.\n\nPasal 43\nCukup jelas.\n\nPasal 44\nCukup jelas.\n\nPasal 45\nCukup jelas.\n\nPasal 46\nCukup jelas.\n\n\nPasal 47 . . .\n\n\n\n\nPasal 47\nCukup jelas.\n\nPasal 48\nCukup jelas.\n\nPasal 49\nAyat (1)\nCukup jelas.\nAyat (2)\nCukup jelas.\nAyat (3)\nYang dimaksud dengan ”sarana distribusi Pangan” adalah\nsegala sesuatu yang dapat dipakai sebaga i alat untuk\nkelancaran distribusi Pangan.\nDalam rangka meningkatkan keterjangkauan fisik dan ekonomi\nterhadap Pangan, penyediaan dan pengembangan sarana\ndistribusi Pangan diutamakan untuk daerah terpencil,\ntertinggal, dan tidak terjangkau masyarakat, ant ara lain,\nberupa angkutan laut, darat, dan udara.\nYang dimaksud dengan ”prasarana distribusi Pangan” adalah\nsegala sesuatu yang merupakan penunjang utama untuk\nmeningkatkan kelancaran distribusi Pangan, antara lain,\nberupa gudang, pelabuhan, dan  jalan.\nAyat (4)\nCukup jelas.\n\nPasal 50\nCukup jelas.\n\nPasal 51\nAyat (1)\nCukup jelas.\nAyat (2)\nHuruf a\nYang dimaksud dengan ”stabilisasi pasokan Pangan\nPokok” adalah upaya yang dilakukan Pemerintah untuk\nmenjaga Ketersediaan Pangan Pokok, antara lain, melalui\nCadangan Pangan Pemerintah.\n\nYang . . .\n\n\n\n\nYang dimaksud dengan ”stabilisasi harga Pangan Pokok”\nadalah upaya yang dilakukan Pemerintah untuk menjaga\nkestabilan harga Pangan Pokok, antara lain, melalui\noperasi pasar, kebijakan tarif, kuota impor,  Bantuan\nPangan, d an/atau distribusi Pangan bersubsidi untuk\nkelompok masyarakat tertentu.\nHuruf b\nCukup jelas.\n\nHuruf c\nCukup jelas.\n\nPasal 52\nCukup jelas.\n\nPasal 53\nYang dimaksud dengan “menimbun” adalah menyimpan melebihi\nbatas yang diperbolehkan dengan maksud untuk memp eroleh\nkeuntungan yang mengakibatkan harga Pangan Pokok menjadi\nmahal dan/atau  melambung tinggi.\n\nPasal 54\nCukup jelas.\n\nPasal 55\nCukup jelas.\n\nPasal 56\nCukup jelas.\n\nPasal 57\nCukup jelas.\n\nPasal 58\nCukup jelas.\n\nPasal 59\nHuruf a\nYang dimaksud dengan “ang ka kecukupan Gizi” adalah\nbesarnya zat Gizi yang diperlukan oleh perseorangan dalam\nsatu populasi untuk dapat hidup sehat, aktif, dan produktif.\n\nHuruf b . . .\n\n\n\n\nHuruf b\nCukup jelas.\nHuruf c\nCukup jelas.\n\nPasal 60\nCukup jelas.\n\nPasal 61\nCukup jelas.\n\nPasal 62\nPencapaian nilai komposisi pola Pangan dan Gizi seimbang, antara\nlain, diukur dengan berpedoman pada Gizi seimbang.\n\nPasal 63\nAyat (1)\nYang dimaksud dengan “status Gizi” adalah suatu keadaan\ntubuh yang diakibatkan oleh keseimbangan antara asupan zat\nGizi dan kebutuhannya. Keseimbangan tersebut dapat dilihat\ndari variabel pertumbuhan, yaitu berat badan, tinggi\nbadan/panjang badan, lingkar kepala, lingkar lengan, dan\npanjang tungkai.\nAyat (2)\nCukup jelas.\nAyat (3)\nCukup jelas.\nPasal 64\nAyat (1)\nYang dima ksud dengan \"Pangan Olahan tertentu\" adalah\nPangan Olahan untuk konsumsi bagi kelompok tertentu,\nmisalnya, formula untuk bayi, Pangan yang diperuntukkan ibu\nhamil atau menyusui, Pangan khusus bagi penderita penyakit\ntertentu, atau Pangan Olahan lain yang m empunyai pengaruh\nbesar terhadap perkembangan kualitas kesehatan manusia.\nAyat (2)\nCukup jelas.\nPasal 65\nCukup jelas.\n\nPasal 66 . . .\n\n\n\n\n\nPasal 66\nCukup jelas.\n\nPasal 67\nCukup jelas.\n\nPasal 68\nAyat (1)\nYang dimaksud dengan “rantai Pangan” adalah urutan taha pan\ndan operasi di dalam produksi, pengolahan, distribusi,\npenyimpanan, dan penanganan suatu Pangan dan bahan\nbakunya mulai dari produksi hingga konsumsi, termasuk\nbahan yang berhubungan dengan Pangan hingga Pangan siap\ndikonsumsi.\nYang dimaksud dengan “se cara terpadu” adalah\npenyelenggaraan Keamanan Pangan harus dilaksanakan secara\nterpadu dan sinergis oleh semua pemangku kepentingan pada\nsetiap rantai Pangan.\nAyat (2)\nPenetapan norma, standar, prosedur, dan kriteria Keamanan\nPangan dilakukan antara lain, dengan berbasis analisis risiko.\nAnalisis risiko merupakan proses pengambilan keputusan yang\ndilakukan secara sistematis dan transparan berdasarkan\ninformasi ilmiah yang meliputi manajemen risiko, kajian risiko,\ndan komunikasi risiko.\nAyat (3)\nCukup jelas.\nAyat (4)\nCukup jelas.\nAyat (5)\nCukup jelas.\n\nPasal 69\nHuruf a\nCukup jelas.\nHuruf b\nCukup jelas.\nHuruf c\nCukup jelas.\n\nHuruf d . . .\n\n\n\n\n\nHuruf d\nCukup jelas.\nHuruf e\nCukup jelas.\nHuruf f\nJaminan Keamanan Pangan dan Mutu Pangan diberikan\nkepada  Petani, Nel ayan, Pembudi Daya Ikan, dan Pelaku\nUsaha Pangan yang menyelenggarakan sistem jaminan mutu.\nSistem jaminan  mutu merupakan upaya menghasilkan Pangan\nyang aman dan bermutu yang lazimnya diselenggarakan sejak\nawal kegiatan Produksi Pangan sampai dengan siap  untuk\ndiperdagangkan.\nHuruf g\nCukup jelas.\n\nPasal 70\nCukup jelas.\n\nPasal 71\nAyat (1)\nCukup jelas\nAyat (2)\nHuruf a\nPengertian Persyaratan Sanitasi mencakup pengertian\npersyaratan higienis.\nHuruf b\nCukup jelas.\nAyat (3)\nCukup jelas.\n\nPasal 72\nCukup jelas.\n\nPasal 73\nSifat Pangan, antara lain, rasa dan warna Pangan.\n\nPasal 74\nCukup jelas.\n\n\n\n\nPasal 75 . . .\n\n\n\n\nPasal 75\nAyat (1)\nHuruf a\nPenggunaan bahan tambahan Pangan  dalam produk\nPangan yang tidak mempunyai risiko terhadap kesehatan\nmanusia dapat dibenarkan ka rena lazim digunakan.\nNamun, penggunaan bahan tambahan Pangan yang\nmelampaui ambang batas maksimal tidak dibenarkan\nkarena merugikan atau membahayakan kesehatan\nmanusia.\nHuruf b\nCukup jelas.\nAyat (2)\nCukup jelas.\n\nPasal 76\nCukup jelas.\n\nPasal 77\nAyat (1)\nCukup jelas.\nAyat (2)\nYang dimaksud dengan \"bahan baku\" adalah bahan utama\nyang dipakai dalam kegiatan atau proses Produksi Pangan,\nyang dapat berupa bahan mentah, bahan setengah jadi, atau\nbahan jadi.\nYang dimaksud dengan \"bahan lain\" adalah bahan yang tid ak\ntermasuk bahan baku maupun bahan tambahan Pangan.\nAyat (3)\nCukup jelas.\nAyat (4)\nCukup jelas.\n\nPasal 78\nCukup jelas.\n\nPasal 79\nCukup jelas.\n\n\nPasal 80 . . .\n\n\n\n\nPasal 80\nCukup jelas.\n\nPasal 81\nCukup jelas.\n\nPasal 82\nCukup jelas.\n\nPasal 83\nCukup jelas.\n\n\nPasal 84\nAyat (1)\nYang dimaksud dengan \"kemasan akhir Pangan\" adalah\nkemasan yang digunakan untuk mengemas produk Pangan\npada tahap akhir proses atau kegiatan produksi yang siap\ndiperdagangkan.\nAyat (2)\nCukup jelas.\n\nPasal 85\nCukup jelas.\n\nPasal 86\nAyat (1)\nYang dimaksud dengan “standar Keamanan Pangan dan Mutu\nPangan” adalah spesifikasi atau persyaratan teknis yang\ndibakukan tentang Keamanan Pangan dan Mutu Pangan,\nmisalnya, bentuk, warna, rasa, bau, atau komposisi yang\ndisusun berdasarkan kriteria tertentu yang sesuai dengan\nperkembangan ilmu pengetahuan dan teknologi serta aspek\nlain yang terkait. Standar Keamanan Pangan dan Mutu Pangan\nmencakup Pangan Olahan dan Pangan Segar.\nAyat (2)\nCukup jelas.\nAyat (3)\nCukup jelas.\nAyat (4)\nCukup jelas.\nAyat (5) . . .\n\n\n\n\n\nAyat (5)\nCukup jelas.\nAyat (6)\nCukup jelas.\n\nPasal 87\nCukup jelas.\n\nPasal 88\nCukup jelas.\n\nPasal 89\nCukup jelas.\n\nPasal 90\nCukup jelas.\n\nPasal 91\nAyat (1)\nCukup jelas.\nAyat (2)\nYang dimaksud dengan ”Pangan Olahan tertentu” adalah\npangan olahan yang dibuat oleh industri rumah tangga Pangan,\nyaitu industri Pangan yang memiliki tempat usaha di tempat\ntinggal dengan peralatan pengolahan manual hingga semi\notomatis.\nAyat (3)\nCukup jelas.\n\nPasal 92\nAyat (1)\nPengawasan dan pencegahan dilakukan antara lain d engan\nmenetapkan ambang batas maksimal cemaran yang\ndiperbolehkan.\nAyat (2)\nCukup jelas.\n\nPasal 93\nCukup jelas.\n\n\n\n\nPasal 94 . . .\n\n\n\n\nPasal 94\nCukup jelas.\n\nPasal 95\nCukup jelas.\n\nPasal 96\nCukup jelas.\n\nPasal 97\nAyat (1)\nCukup jelas.\nAyat (2)\nCukup jelas.\nAyat (3)\nHuruf a\nCukup jelas.\nHuruf b\nCukup jelas.\nHuruf c\nCukup jelas.\nHuruf d\nCukup jelas.\nHuruf e\nCukup jelas.\nHuruf f\nCukup jelas.\nHuruf g\nCukup jelas.\nHuruf h\nCukup jelas.\nHuruf i\nYang dimaksud dengan “keterangan mengenai asal usul\nbahan Panga n” adalah penjelasan mengenai informasi\nasal bahan tertentu, misalnya, bahan yang bersumber,\nmengandung, atau berasal dari hewan atau Pangan yang\ndiproduksi melalui proses khusus, misalnya, Rekayasa\nGenetik Pangan atau Iradiasi Pangan.\n\nAyat (4) . . .\n\n\n\n\nAyat (4)\nCukup jelas.\n\nPasal 98\nCukup jelas.\n\nPasal 99\nCukup jelas.\n\nPasal 100\nCukup jelas\n\nPasal 101\nCukup jelas.\n\nPasal 102\nCukup jelas.\n\nPasal 103\nCukup jelas.\n\nPasal 104\nCukup jelas.\n\nPasal 105\nCukup jelas.\n\nPasal 106\nCukup jelas.\n\nPasal 107\nCukup jelas.\n\nPasal 108\nCukup jelas.\n\nPasal 109\nCukup jelas.\n\nPasal 110\nCukup jelas.\n\n\nPasal 111 . . .\n\n\n\n\n\nPasal 111\nCukup jelas.\n\nPasal 112\nCukup jelas.\n\nPasal 113\nCukup jelas.\n\nPasal 114\nCukup jelas.\n\nPasal 115\nAyat (1)\nCukup jelas.\nAyat (2)\nCukup jelas.\nAyat (3)\nCukup jelas.\nAyat (4)\nYang dimaksud dengan “menyangkut kepentingan negara”\nadalah informasi yang dapat membahayakan negara yang\nberkaitan dengan Cadangan Pangan Nasional, perlindungan\nusaha dari persaingan usaha tidak sehat, dan/atau yang\ndiminta belum dikuasai atau didokumentasikan.\n\nPasal 116\nCukup jelas.\n\nPasal 117\nCukup jelas.\n\nPasal 118\nCukup jelas.\n\nPasal 119\nCukup jelas.\n\nPasal 120\nCukup jelas.\n\n\n\nPasal 121 . . .\n\n\n\n\nPasal 121\nCukup jelas.\n\nPasal 122\nCukup jelas.\n\nPasal 123\nAyat (1)\nOrang asing dalam ketentuan ini antara lain, perguruan tinggi\nasing, lembaga penelitian dan pengembangan asing, badan\nusaha asing, dan/atau perseorangan asing.\nAyat (2)\nCukup jelas.\nAyat (3)\n       Cukup jelas.\n\nPasal 124\nCukup jelas.\n\nPasal 125\nYang dimak sud dengan “teknologi unggul” adalah teknologi yang\nmampu mendukung peningkatan produksi, produktivitas,\nketersediaan dan keanekaragaman Pangan dan Gizi, efisiensi, daya\nsaing produk, dan usaha Pangan.\n\nPasal 126\nCukup jelas.\n\nPasal 127\nCukup jelas.\n\nPasal 128\nCukup jelas.\n\nPasal 129\nCukup jelas.\n\nPasal 130\nCukup jelas.\n\nPasal 131\nCukup jelas.\n\n\nPasal 132 . . .\n\n\n\n\nPasal 132\nCukup jelas.\n\nPasal 133\nCukup jelas.\n\nPasal 134\nCukup jelas.\n\nPasal 135\nCukup jelas.\n\nPasal 136\nCukup jelas.\n\nPasal 137\nCukup jelas.\n\nPasal 138\nCukup jelas.\n\nPasal 139\nCukup jelas.\n\nPasal 140\nCukup jelas.\n\nPasal 141\nCukup jelas.\n\nPasal 142\nCukup jelas.\n\nPasal 143\nCukup jelas.\n\nPasal 144\nCukup jelas.\n\nPasal 145\nCukup jelas.\n\n\n\nPasal 146 . . .\n\n\n\n\nPasal 146\nCukup jelas.\n\nPasal 147\nCukup jelas.\n\nPasal 148\nCukup jelas.\n\nPasal 149\nCukup jelas.\n\nPasal 150\nCukup jelas.\n\nPasal 151\nCukup jelas.\n\nPasal 152\nCukup jelas.\n\nPasal 153\nCukup jelas.\n\nPasal 154\nCukup jelas.\n\n\nTAMBAHAN  LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 5360"
+   }
+  }
+ ]
+}

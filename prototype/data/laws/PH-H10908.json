@@ -1,0 +1,92 @@
+{
+ "id": "PH-H10908",
+ "title": {
+  "zh": null,
+  "en": "AN ACT TO AMEND ACT NUMBERED NINETY.",
+  "orig": "AN ACT TO AMEND ACT NUMBERED NINETY."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 195",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 5,
+ "chars": 1753,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_00195_1901_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 5 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_00195_1901_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H10908-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Act Numbered Ninety is hereby amended by striking out the words \"Military Governor\" and\ninserting in lieu thereof the words \"Civil Governor\" whenever the words occur in the Act."
+   }
+  },
+  {
+   "id": "PH-H10908-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Rule thirty-three of Act Numbered Ninety is hereby amended so that it shall read as follows:\n\"Transfers of funds from one disbursing officer to another shall be made only upon the authority of the Civil\nGovernor, the head of the proper civil department, or the officer commanding a military department or\ndistrict, notice of which authorization shall be given forthwith to the Auditor by the Civil Governor or officer\ngiving the authority. When there is a change is disbursing officers, the outgoing officer shall render an\naccount in full, showing the disposition of his unexpended balance, whether transferred to his successor in\naccordance with the provisions herein contained or deposited with the Treasurer of the Islands.\""
+   }
+  },
+  {
+   "id": "PH-H10908-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act is passed in conformity with executive order of June twenty-first, nineteen hundred and\none, transferring certain executive powers from the Military Governor and from the Commission to the Civil\nGovernor, and shall in its operation relate to July fourth, nineteen hundred and one, the date of the actual\ntransfer of such powers, and nothing herein is to be construed as indicating that the said order of June\ntwenty-first did not impliedly effect the result herein expressly provided by this Act."
+   }
+  },
+  {
+   "id": "PH-H10908-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "The public good requiring the speedy enactment of this bill, the passage of the same is hereby\nexpedited in accordance with section two of \"An Act prescribing the order of procedure by the Commission\nin the enactment of laws,\" passed September twenty-sixth, nineteen hundred."
+   }
+  },
+  {
+   "id": "PH-H10908-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, August 12, 1901."
+   }
+  }
+ ]
+}

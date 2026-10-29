@@ -1,0 +1,62 @@
+{
+ "id": "PH-H14787",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Section One Hundred and Eighteen of Act Numbered Twenty-Eight Hundred and Seventy-Four, Entitled \"An Act to Amend and Compile the Laws Relative to Lands of the Public Domain, and for Other Purposes,\" or Commonly Known as \"The Public Land Act.",
+  "orig": "An Act to Amend Section One Hundred and Eighteen of Act Numbered Twenty-Eight Hundred and Seventy-Four, Entitled \"An Act to Amend and Compile the Laws Relative to Lands of the Public Domain, and for Other Purposes,\" or Commonly Known as \"The Public Land Act."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1935-02-05",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 4196",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 663,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1935/act_4196_1935.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_04196_1935_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_04196_1935_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14787-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section one hundred and eighteen of Act Numbered Twenty-eight hundred and seventy-four,\nknown as the Public Land Act, is hereby amended to read as follows:\n\"Section 118. Conveyances and encumbrances made by persons belonging to the so-called 'Non-Christian\nTribes,' when proper, shall not be invalid as to those who are literate members of such tribes, but shall not be\nvalid as to those not falling under the class above mentioned, unless duly approved by the Director of the\nBureau of Non-Christian Tribes.\"1"
+   }
+  },
+  {
+   "id": "PH-H14787-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, February 5, 1935.\n1 Declared in force by Proclamation No. 768 (1935). See Appendix, p. 402, post."
+   }
+  }
+ ]
+}

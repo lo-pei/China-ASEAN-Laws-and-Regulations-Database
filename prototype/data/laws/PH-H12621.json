@@ -1,0 +1,62 @@
+{
+ "id": "PH-H12621",
+ "title": {
+  "zh": null,
+  "en": "An Act Amending Section Two Hundred and Fifty-Two of Act Numbered three Hundred and Fifty-Five, Entitled \"An Act to Constitute the Customs Service of the Philippine Archipelago and to Provide for the Administration thereof,\" By Providing a Longer Period During Which Merchandise May Remain in Bonded Warehouses.",
+  "orig": "An Act Amending Section Two Hundred and Fifty-Two of Act Numbered three Hundred and Fifty-Five, Entitled \"An Act to Constitute the Customs Service of the Philippine Archipelago and to Provide for the Administration thereof,\" By Providing a Longer Period During Which Merchandise May Remain in Bonded Warehouses."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1909-05-19",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 1912",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 720,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1909/act_1912_1909.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_01912_1909_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_01912_1909_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12621-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section two hundred and fifty-two of Act Numbered Three hundred and fifty-five, entitled \"An\nAct to constitute the customs service of the Philippine Archipelago and to provide for the administration\nthereof,\" is hereby amended to read as follows:\n\"Section 252. Merchandise duly entered for warehouse may remain in bonded warehouses for a period of two\nyears from the time of arrival, which period may lie further extended for not more than one year by the Insular\nCollector whenever sufficient reasons for such extension are presented to him. Merchandise not withdrawn at\nthe completion of the prescribed period shall be sold at auction by the Collector.\""
+   }
+  },
+  {
+   "id": "PH-H12621-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, May 19, 1909."
+   }
+  }
+ ]
+}

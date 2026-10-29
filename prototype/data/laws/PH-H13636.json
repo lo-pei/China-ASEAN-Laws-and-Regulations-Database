@@ -1,0 +1,72 @@
+{
+ "id": "PH-H13636",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Sections Eight and Ten of Act Numbered Twenty-Six Hundred and Fifty-Five, Known as the Usury Law.",
+  "orig": "An Act to Amend Sections Eight and Ten of Act Numbered Twenty-Six Hundred and Fifty-Five, Known as the Usury Law."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1921-02-26",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2992",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 2179,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1921/act_2992_1921.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02992_1921_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02992_1921_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13636-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section eight of Act Numbered Twenty-six hundred and fifty-five, is hereby amended to read as\n\"Section 8. All loans under which payment is to be made in agricultural products or seed or in any other kind\nof commodities shall also be null and void unless they provide that sucxh products or seed or other\ncommodities shall be appraised at the time when the obligation falls due at the current local market price:\nProvided, That unless otherwise stated in a document written in a language or dialect inteligible to the debtor\nand subscribed in the presence of not less than two witnessess, any contract advancing money to be repaid\nlater in agricultural products or seed or any other kind of commodities shall be understood to be a loan, and\nany person or corporation having paid otherwise shall be entitled in case action is brought within two years\nafter such payment or delivery to recover all the products or seed delivered as interest, or the value thereof,\ntogether with the costs and attorneys's fees in such sum as may be allowed by the court. Nothing contained in\nthis section shall be construed to prevent the lender from taking interest for the money lent, provided such\ninterest be not in excess of the rates herein fixed.\""
+   }
+  },
+  {
+   "id": "PH-H13636-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Section ten of the same Act is hereby amended to read as follows:\n\"Section 10. Without prejudice to the proper civil action, violations of this Act shall be subject to criminal\nprosecution and the guilty person shall, upon conviction, be sentenced to a fine of not less than fifty pesos nor\nmore than two hundred pesos, or to imprisonment for not less than ten days nor more than six months, or both,\nin the discretion of the court, and to return the entire sum received as interest from the party aggrieved, and in\ncase of non-payment, to suffer subsidiary imprisonment at the rate of one day for every two pesos: Provided,\nThat in case of corporations, associations, societies or companies the manager, administrator or gerente or the\nperson who has charge of the management or administration of the business shall be criminally responsible for\nany violation of this Act.\""
+   }
+  },
+  {
+   "id": "PH-H13636-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, February 26, 1921."
+   }
+  }
+ ]
+}

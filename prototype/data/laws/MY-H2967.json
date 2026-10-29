@@ -1,0 +1,438 @@
+{
+ "id": "MY-H2967",
+ "title": {
+  "zh": "2023年伊斯兰家庭法（联邦直辖区）（全国人权协会）规则",
+  "en": "ISLAMIC FAMILY LAW (FEDERAL TERRITORIES) (HAKAM) RULES 2023",
+  "orig": "ISLAMIC FAMILY LAW (FEDERAL TERRITORIES) (HAKAM) RULES 2023",
+  "ms": "Kaedah Undang-Undang Keluarga Islam (Wilayah-Wilayah Persekutuan) (Persatuan Hak Asasi Manusia Kebangsaan) 2023",
+  "vi": "Quy tắc về Luật Gia đình Hồi giáo (Các lãnh thổ liên bang) (Hội Nhân quyền Quốc gia) năm 2023",
+  "th": "กฎกฎหมายครอบครัวอิสลาม (เขตสหพันธรัฐ) (สมาคมสิทธิมนุษยชนแห่งชาติ) ค.ศ. 2023",
+  "id": "Tata Tertib Hukum Keluarga Islam (Wilayah-Wilayah Persekutuan) (Perhimpunan Hak Asasi Manusia Nasional) Tahun 2023"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-7",
+ "language": "ms",
+ "level": "regulation",
+ "category": "02_民商事与经济法",
+ "status": "active",
+ "promulgatedDate": "2023",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "PUA238",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 33,
+ "chars": 64092,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-view.php?type=pua&no=P.U. (A) 238/2023&status=PRINCIPAL"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\02_民商事与经济法\\2023_P.U.(A)238-2023_ISLAMIC FAMILY LAW (FEDERAL TERRITORIES) (HAKAM) RULES 2023.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 33 条；逐字未改写（源自厂商 OCR 文本）。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H2967-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "1. Nama"
+   }
+  },
+  {
+   "id": "MY-H2967-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "2. Tafsiran\n\nBAHAGIAN II\nHAKAM"
+   }
+  },
+  {
+   "id": "MY-H2967-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "3. Hakam"
+   }
+  },
+  {
+   "id": "MY-H2967-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "4. Kelayakan Hakam"
+   }
+  },
+  {
+   "id": "MY-H2967-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "5. Penamaan Hakam"
+   }
+  },
+  {
+   "id": "MY-H2967-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "6. Pelantikan Hakam"
+   }
+  },
+  {
+   "id": "MY-H2967-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "7. Penggantian Hakam"
+   }
+  },
+  {
+   "id": "MY-H2967-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "8. Pelantikan Hakam dengan kuasa penuh"
+   }
+  },
+  {
+   "id": "MY-H2967-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "9. Pembatalan pelantikan Hakam"
+   }
+  },
+  {
+   "id": "MY-H2967-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "10. Penamatan pelantikan Hakam"
+   }
+  },
+  {
+   "id": "MY-H2967-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "11. Kesan pembatalan atau penamatan pelantikan Hakam\n\nBAHAGIAN III\nFUNGSI DAN TANGGUNGJAWAB HAKAM"
+   }
+  },
+  {
+   "id": "MY-H2967-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "12. Fungsi Hakam"
+   }
+  },
+  {
+   "id": "MY-H2967-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "13. Tanggungjawab Hakam\n\nBAHAGIAN IV\nPENIMBANGTARAAN"
+   }
+  },
+  {
+   "id": "MY-H2967-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "14. Pengendalian penimbangtaraan"
+   }
+  },
+  {
+   "id": "MY-H2967-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "15. Syor oleh Hakam"
+   }
+  },
+  {
+   "id": "MY-H2967-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "16. Laporan penimbangtaraan"
+   }
+  },
+  {
+   "id": "MY-H2967-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "17. Lafaz talaq dan perceraian khul'"
+   }
+  },
+  {
+   "id": "MY-H2967-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "18. Tempoh penimbangtaraan"
+   }
+  },
+  {
+   "id": "MY-H2967-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "19. Kegagalan pihak-pihak untuk hadir penimbangtaraan"
+   }
+  },
+  {
+   "id": "MY-H2967-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "20. Pemberhentian penimbangtaraan\n\nBAHAGIAN V\nJAWATANKUASA HAKAM"
+   }
+  },
+  {
+   "id": "MY-H2967-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "21. Penubuhan Jawatankuasa Hakam"
+   }
+  },
+  {
+   "id": "MY-H2967-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "22. Keanggotaan Jawatankuasa"
+   }
+  },
+  {
+   "id": "MY-H2967-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "23. Mesyuarat Jawatankuasa"
+   }
+  },
+  {
+   "id": "MY-H2967-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "24. Fungsi Jawatankuasa"
+   }
+  },
+  {
+   "id": "MY-H2967-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "25. Pendaftaran anggota Panel Hakam"
+   }
+  },
+  {
+   "id": "MY-H2967-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "26. Daftar Anggota Panel Hakam\n\nBAHAGIAN VI\nADUAN DAN SIASATAN TERHADAP ANGGOTA PANEL HAKAM"
+   }
+  },
+  {
+   "id": "MY-H2967-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 27"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "27. Aduan terhadap anggota Panel Hakam"
+   }
+  },
+  {
+   "id": "MY-H2967-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 28"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "28. Siasatan oleh Jawatankuasa"
+   }
+  },
+  {
+   "id": "MY-H2967-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Section 29"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "29. Pembatalan pendaftaran anggota Panel Hakam\n\nBAHAGIAN VII\nPELBAGAI"
+   }
+  },
+  {
+   "id": "MY-H2967-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Section 30"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "30. Elaun"
+   }
+  },
+  {
+   "id": "MY-H2967-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Section 31"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "31. Rujukan kepada Hukum Syarak"
+   }
+  },
+  {
+   "id": "MY-H2967-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Section 32"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "32. Sekatan"
+   }
+  },
+  {
+   "id": "MY-H2967-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Section 33"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "33. Perlindungan Hakam\n\nJADUAL PERTAMA\nJADUAL KEDUA\n\nAKTA UNDANG-UNDANG KELUARGA ISLAM (WILAYAH-WILAYAH PERSEKUTUAN) 1984\n\nKAEDAH-KAEDAH UNDANG-UNDANG KELUARGA ISLAM\n(WILAYAH-WILAYAH PERSEKUTUAN) (HAKAM) 2023\n\nPADA menjalankan kuasa yang diberikan oleh seksyen 48 dan perenggan 134(3) (e)\ndan (i) Akta Undang -Undang Keluarga Islam (Wilayah -Wilayah Persekutuan) 1984\n[Akta 303 ], Yang di -Pertuan Agong, atas nasihat Majlis, membuat kaedah -kaedah\nyang berikut:\n\nBAHAGIAN I\nPERMULAAN\n\nNama\n1. Kaedah-kaedah ini bolehlah dinamakan Kaedah-Kaedah Undang -Undang\nKeluarga Islam (Wilayah-Wilayah Persekutuan) (Hakam) 2023.\n\nTafsiran\n2. Dalam Kaedah -Kaedah ini,  melainkan jika konteksnya menghendaki makna\nyang lain—\n\n\"anggota Panel Hakam\" ertinya seorang anggota Panel Hakam yang berdaftar\ndi bawah kaedah 25;\n\n\"Daftar Anggota Panel Hakam\" ertinya Daftar Anggota Panel Hakam yang disimpan\ndan disenggarakan di bawah kaedah 26;\n\n\"Jawatankuasa\" ertinya Jawatankuasa Hakam yang ditubuhkan di  bawah  kaedah 21;\n\n\"Pengerusi\" ertinya Pengerusi Jawatankuasa Hakam;\n\n\"penimbangtaraan\" ertinya prosiding penimbangtaraan yang dikendalikan oleh\nHakam yang melibatkan pihak -pihak kepada suatu perkahwinan bagi maksud\nperdamaian atau perceraian melalui lafaz talaq atau perceraian khul';\n\n \"perkelahian (shiqaq)\" ertinya perbezaan yang berlarutan dan tidak dapat\ndidamaikan antara suami dengan isteri dalam tempoh perkahwinan termasuklah dalam\ntempoh permohonan pembubaran perkahwinan yang belum diputuskan oleh\nMahkamah;\n\n\"pihak-pihak\" ertinya suami dan isteri kepada suatu perkahwinan;\n\n\"prinsipal\" ertinya suami atau isteri yang baginya seseorang Hakam dilantik untuk\nbertindak;\n\n\"Setiausaha\" ertinya Set iausaha Jawatankuasa Hakam yang disebut dalam\nsubkaedah 22(5).\n\nBAHAGIAN II\nHAKAM\n\nHakam\n3. Bagi maksud pelantikan Hakam di bawah seksyen 48 Akta, Mahkamah boleh\nmelantik orang yang berikut sebagai Hakam:\n\n(a) saudara karib pihak-pihak;\n\n(b) anggota Panel Hakam; atau\n\n(c) mana-mana pegawai syariah atau mana-mana orang lain yang mempunyai\nkepakaran dalam perkara yang berhubungan dengan undang -undang\nkeluarga Islam yang, pada pendapat Mahkamah, sesuai untuk menjalankan\nfungsi Hakam.\n\nKelayakan Hakam\n4. (1) Saudara karib pihak-pihak yang boleh dilantik sebagai Hakam hendaklah\nmemenuhi kelayakan yang berikut:\n\n(a) seorang lelaki Islam yang telah mencapai umur lapan belas tahun dan\nsempurna akal;\n\n(b) seorang yang mempunyai hubungan dengan pihak -pihak itu sama\nada melalui nasab, pertalian kahwin atau sesusuan yang mempunyai\npengetahuan mengenai hal keadaan kes itu;\n\n(c) seorang yang adil dan boleh dipercayai; dan\n\n(d) seorang yang mempunyai pengetahuan asas dalam hal ehwal\nkeluarga Islam dan Hukum Syarak.\n\n (2) Orang yang disebut dalam perenggan 3(c) juga boleh dilantik sebagai Hakam\nsekiranya dia memenuhi kelayakan yang disebut dalam perenggan (1)(a), (c) dan (d).\n\nPenamaan Hakam\n5. (1)  Bagi maksud pelantikan Hakam yang disebut dalam kaedah 3,\nMahkamah hendaklah mengarahkan pihak -pihak untuk menamakan seseorang sebagai\nHakam untuk bertindak bagi pihak -pihak itu masing -masing dalam masa\nempat belas hari dari tarik h Mahkamah menentukan bahawa perkelahian (shiqaq)\nsentiasa berlaku antara pihak-pihak itu.\n\n(2) Penamaan oleh pihak-pihak di bawah subkaedah (1) hendaklah memberikan\nkeutamaan kepada saudara karib pihak -pihak itu masing -masing dan hendaklah dibuat\ndalam Borang 1 Jadual Pertama.\n\nPelantikan Hakam\n6. (1) Mahkamah hendaklah, sekiranya berpuas hati dengan kelayakan orang yang\ndinamakan di bawah kaedah 5, melantik orang yang dinamakan itu sebagai Hakam bagi\npihak-pihak itu masing-masing.\n\n (2) Walau apa pun subkaedah (1), Mahkamah boleh melantik mana -mana orang\nlain yang disebut dalam perenggan 3 (b) atau (c) sebagai Hakam untuk bertindak bagi\nmana-mana pihak jika—\n\n(a) mana-mana pihak -pihak itu memaklumkan Mahkamah mengenai\nhasratnya untuk tidak menamakan mana -mana orang sebagai\nHakam;\n\n(b) mana-mana pihak -pihak itu tidak menamakan mana -mana orang\nsebagai Hakam dalam tempoh yang dinyatakan dalam\nsubkaedah 5(1); atau\n\n(c) pada pendapat Mahkamah, orang yang dinamakan sebagai Hakam\noleh pihak-pihak itu tidak memenuhi kelayakan yang disebut dalam\nkaedah 4.\n\n (3) Pelantikan Hakam di bawah subkaedah (1) dan (2) hendaklah dibuat melalui\nsuatu perintah dalam Borang 2 Jadual Pertama.\n\nPenggantian Hakam\n7. (1) Jika Hakam yang dilantik di bawah kaedah 6 tidak mendapat persetujuan\npihak-pihak bagi perdamaian atau perceraian, Mahkamah boleh membatalkan\npelantikan Hakam itu melalui suatu perintah yang disebut dalam kaedah 9.\n\n (2) Mahkamah hendaklah melantik Hakam lain dalam kalangan orang yang\ndisebut dalam perenggan 3(b) atau (c) melalui suatu perintah di bawah subkaedah 6(3)\nuntuk menggantikan Hakam yang dibatalkan pelantikannya di bawah subkaedah (1).\n\n (3) Hakam yang dilantik di bawah  subkaedah (2) hendaklah berusaha untuk\nmendapatkan kuasa penuh daripada prinsipalnya.\n\n (4) Sekiranya prinsipal bersetuju untuk memberi kuasa penuh kepada Hakam\nyang dilantik di bawah subkaedah (2), pemberian kuasa penuh itu hendaklah dilafazkan\noleh prinsipal dan Notis Pemberian Kuasa Penuh dalam Borang 3 atau 4 Jadual Pertama\nhendaklah ditandatangani, di hadapan Hakim yang di hadapannya kes itu didengar.\n\n (5) Bagi maksud Bahagian ini, \"kuasa penuh\" ertinya—\n\n(a) berhubung dengan suami, kuasa yang membenarkan Hakam yang\nbertindak bagi pihaknya untuk melafazkan talaq atau khul'\ndi hadapan Mahkamah; dan\n\n(b) berhubung dengan isteri, kuasa yang membenarkan Hakam yang\nbertindak bagi pihaknya untuk menerima lafaz khul' di hadapan\nMahkamah.\n\nPelantikan Hakam dengan kuasa penuh\n8. (1) Jika Hakam yang dilantik di bawah kaedah 7 berpendapat bahawa pihak-pihak\nitu patut bercerai tetapi Hakam itu tidak mendapat kuasa penuh daripada prinsipalnya,\nMahkamah boleh membatalkan pelantikan  Hakam itu melalui perintah yang disebut\ndalam kaedah 9.\n\n (2) Mahkamah hendaklah, melalui perintah dalam Borang 5 atau Borang 6\nJadual Pertama, mengikut mana -mana yang berkenaan, melantik Hakam lain dengan\nkuasa penuh dalam kalangan orang yang disebut d alam perenggan 3 (b) atau (c) untuk\nmenggantikan Hakam yang dibatalkan pelantikannya di bawah subkaedah (1).\n\nPembatalan pelantikan Hakam\n9. (1) Mahkamah boleh membatalkan pelantikan seseorang Hakam jika—\n\n(a) Hakam itu tidak mendapat persetujuan pihak-pihak bagi perdamaian\natau perceraian;\n\n(b) Hakam itu tidak mendapat kuasa penuh daripada prinsipalnya;\n\n(c) Mahkamah tidak berpuas hati dengan cara Hakam itu menjalankan\nsuatu penimbangtaraan; atau\n\n(d) Hakam itu menjadi tidak sempurna akal atau selainnya tidak\nberupaya untuk melaksanakan kewajipannya sebagai Hakam.\n\n (2) Pembatalan pelantikan Hakam hendaklah melalui perintah dalam Borang 7\nJadual Pertama.\n\nPenamatan pelantikan Hakam\n10. Pelantikan seseorang Hakam tamat jika—\n\n(a) dia meninggal dunia; atau\n\n(b) dia menarik diri atau enggan meneruskan kewajipannya sebagai Hakam\nmelalui suatu notis dalam Borang 8 Jadual Pertama.\n\nKesan pembatalan atau penamatan pelantikan Hakam\n11. Apabila pelantikan seseorang Hakam dibatalkan di bawah kaedah 9 atau\nditamatkan di bawah kaedah 10, mengikut mana -mana yang berkenaan, Mahkamah\nboleh melantik Hakam lain untuk menggantikannya menurut kaedah 6, 7 atau 8,\nmengikut mana-mana yang berkenaan.\n\n BAHAGIAN III\nFUNGSI DAN TANGGUNGJAWAB HAKAM\n\nFungsi Hakam\n12. Seseorang Hakam hendaklah menyelesaikan perkelahian (shiqaq) antara\npihak-pihak melalui cara perdamaian atau perceraian pihak -pihak melalui talaq atau\nperceraian khul'.\n\nTanggungjawab Hakam\n13. Seseorang Hakam hendaklah bertanggungjawab untuk—\n\n(a) mengendalikan penimbangtaraan mengikut arahan dan kod etika yang\ndikeluarkan oleh Mahkamah dan menurut Hukum Syarak;\n\n(b) membantu pihak-pihak mencapai perdamaian;\n\n(c) membantu Mahkamah dalam membuat keputusan dengan memberikan\nsyor kepada Mahkamah;\n\n(d) melafazkan talaq atau khu l', jika dibenarkan sedemikian oleh Mahkamah;\ndan\n\n(e) bertindak secara bebas dan tidak berat sebelah.\n\nBAHAGIAN IV\nPENIMBANGTARAAN\n\nPengendalian penimbangtaraan\n14. (1) Mahkamah boleh memberi arahan kepada seseorang Hakam mengenai\npengendalian suatu penimbangtaraan dan Hakam hendaklah mengendalikan\npenimbangtaraan itu mengikut arahan dan kod etika yang dikeluarkan oleh Mahkamah\ndan menurut Hukum Syarak.\n\n(2) Suatu penimbangtaraan boleh diadakan di premis Mahkamah atau\ndi mana-mana tempat lain yang ditentukan oleh Hakam sebagaimana yang difikirkannya\nsesuai.\n\nSyor oleh Hakam\n15. (1)  Dalam mengendalikan penimbangtaraan di bawah Kaedah -Kaedah ini, jika\nkedua-dua Hakam berpuas hati bahawa—\n\n(a) pihak-pihak itu bersetuju untuk mencapai perdamaian, Hakam\nhendaklah mengesyorkan supaya pihak-pihak itu berdamai; atau\n\n(b) pihak-pihak itu tidak mencapai perdamaian, Hakam hendaklah\nmenentukan pihak yang menyebabkan perkelahian (shiqaq) itu dan\nsubkaedah (2) atau (3) hendaklah terpakai, mengikut mana -mana\nyang berkenaan.\n\n(2) Hakam hendaklah mengesyorkan perceraian melalui talaq jika—\n\n(a) Hakam berpuas hati bahawa perkelahian (shiqaq) disebabkan oleh\nsuami atau kedua-dua pihak; atau\n\n(b) Hakam tidak dapat menentukan pihak yang menyebabkan\nperkelahian (shiqaq) dan permohonan percerai an itu dibuat oleh\nsuami.\n\n(3) Hakam hendaklah mengesyorkan perceraian khul' dan kadar bayaran tebus\ntalaq jika—\n\n(a) Hakam berpuas hati bahawa perkelahian (shiqaq) disebabkan oleh\nisteri; atau\n\n(b) Hakam tidak dapat menentukan pihak yang menyebabkan\nperkelahian (shiqaq) dan permohonan perceraian itu dibuat oleh\nisteri.\n\nLaporan penimbangtaraan\n16. Apabila selesai suatu penimbangtaraan, kedua -dua Hakam hendaklah, secara\nbersesama, menyediakan laporan penimbangtaraan dalam Borang 9 Jadual Pertama yang\nmengandungi syor yang disebut dalam kaedah 15 dan hendaklah mengemukakan\nlaporan itu kepada Mahkamah.\n\nLafaz talaq dan perceraian khul'\n17. (1) Jika Mahkamah bersetuju dengan syor Hakam bagi pembubaran perkahwinan\nmelalui talaq, talaq itu hendaklah dilafazkan oleh Hakam yang bertindak bagi pihak suami\ndi hadapan Mahkamah.\n\n (2) Jika Mahkamah bersetuju dengan syor Hakam bagi pembubaran perkahwinan\nmelalui penceraian khul' dan bayaran tebus talaq tela h dibuat oleh isteri, Hakam yang\nbertindak bagi pihak suami hendaklah melafazkan perceraian khul' dan Hakam yang\nbertindak bagi pihak isteri hendaklah melafazkan penerimaan khul' itu, di hadapan\nMahkamah.\n\n(3) Bagi maksud subkaedah (1) dan (2), lafaz talaq dan penceraian khul'  adalah\nsebagaimana yang dinyatakan dalam Jadual Kedua.\n\n(4) Perceraian melalui talaq di bawah subkaedah (1) dan penceraian khul'\ndi bawah subkaedah (2) merupakan talaq ba-in sughra atau penceraian yang tidak boleh\ndiruju'kan.\n\nTempoh penimbangtaraan\n18. (1)  Pengendalian penimbangtaraan hendaklah diselesaikan dalam masa tiga\npuluh hari daripada tarikh pelantikan Hakam.\n\n(2) Mahkamah boleh melanjutkan tempoh yang dinyatakan dalam subkaedah (1)\nbagi suatu tempoh selanjutnya yang tidak melebihi tiga puluh hari.\n\nKegagalan pihak-pihak menghadiri penimbangtaraan\n19. Jika mana -mana pihak tidak menghadiri penimbangtaraan, Hakam boleh\nmeneruskan penimbangtaraan itu dan membuat apa -apa dapatan berhu bung dengan\npenimbangtaraan itu.\n\nPemberhentian penimbangtaraan\n20. Suatu penimbangtaraan hendaklah terhenti—\n\n(a) jika mana-mana pihak yang tertakluk kepada penimbangtaraan itu meninggal\ndunia atau didapati tidak sempurna akal;\n\n(b) jika kedua-dua pihak yang tertakluk kepada penimbangtaraan itu bersetuju\nuntuk berdamai;\n\n(c) jika suami telah melafazkan talaq; atau\n\n(d) atas apa-apa sebab lain yang difikirkan patut oleh Mahkamah.\n\nBAHAGIAN V\n     JAWATANKUASA HAKAM\n\nPenubuhan Jawatankuasa Hakam\n21. Majlis hendaklah menubuh kan suatu jawatankuasa yang dikenali sebagai\nJawatankuasa Hakam.\n\nKeanggotaan Jawatankuasa\n22. (1)  Jawatankuasa hendaklah terdiri daripada anggota yang berikut:\n\n(a) Ketua Hakim Syarie, sebagai Pengerusi;\n\n(b) seorang Hakim Mahkamah Tinggi Syariah, sebagai Timbalan\nPengerusi;\n\n(c) Peguam Negara atau wakilnya;\n\n(d) seorang wakil Majlis;\n\n(e) seorang Hakim Mahkamah Rendah Syariah;\n\n(f) Ketua Pendaftar Mahkamah Rayuan Syariah atau wakilnya; dan\n\n(g) tiga orang anggota lain yang mempunyai kepakaran dalam Hukum\nSyarak.\n\n(2) Anggota Jawatankuasa yang disebut dalam perenggan (1) (b), (e) dan (g)\nhendaklah dilantik oleh Ketua Hakim Syarie.\n\n(3) Anggota Jawatankuasa yang disebut dalam perenggan (1)(g)—\n\n(a) hendaklah memegang jawatannya selama tempoh dua tahun dan\nboleh dilantik semula; dan\n\n(b) boleh, pada bila -bila masa, meletakkan jawatan dengan memberi\nnotis secara bertulis kepada Pengerusi.\n\n(4) Ketua Hakim Syarie boleh, pada bila -bila masa, menggantikan mana -mana\nanggota yang disebut dalam perenggan (1)(b), (e) dan (g).\n\n(5) Ketua Pendaftar Mahkamah Rayuan Syariah hendaklah menjadi Setiausaha.\n\nMesyuarat Jawatankuasa\n23. (1)  Pengerusi hendaklah mempengerusikan semua mesyuarat Jawatankuasa\ndan jika Pengerusi tidak hadir, Timbalan Pengerusi hendaklah mempengerusikan\nmesyuarat itu.\n\n(2) Lima orang anggota Jawatankuasa hendaklah membentuk kuorum mesyuarat.\n\n(3) Keputusan dalam mesyuarat Jawatankuasa hendaklah dibuat secara sebulat\nsuara atau mengikut majoriti anggota yang hadir.\n\n(4) Jika atas apa -apa ketetapan terdapat persamaan undi,  Pengerusi hendaklah\nmempunyai undi pemutus.\n\n(5) Jawatankuasa boleh menentukan tatacaranya sendiri.\n\nFungsi Jawatankuasa\n24. (1)  Jawatankuasa hendaklah mempunyai fungsi yang berikut:\n\n(a) untuk mendaftarkan mana -mana orang yang layak sebagai anggota\nPanel Hakam;\n\n(b) untuk menyiasat apa-apa aduan yang berhubungan dengan kelakuan\nmana-mana anggota Panel Hakam;\n\n(c) untuk mengawal selia dan menjalankan kawalan tatatertib terhadap\nanggota Panel Hakam;\n\n(d) untuk menentukan apa -apa latihan yang perlu bagi anggota\nPanel Hakam;\n\n(e) untuk menubuhkan apa -apa jawatankuasa kecil bagi maksud\nmembantu Jawatankuasa dalam pelaksanaan fungsinya; dan\n\n(f) untuk menjalankan apa -apa fungsi lain sebagaimana yang\ndifikirkan perlu oleh Jawatankuasa bagi maksud melaksanakan\nKaedah-Kaedah ini.\n\n(2) Mana-mana anggota Panel Hakam boleh memohon kepada Jawatankuasa\nsupaya namanya dikeluarkan daripada Daftar Anggota Panel Hakam.\n\n(3) Jawatankuasa boleh, atas apa -apa alasan yang munasabah, mengeluarkan\nnama mana-mana anggota Panel Hakam daripada Daftar Anggota Panel Hakam.\n\nPendaftaran anggota Panel Hakam\n25. (1) Jawatankuasa boleh mendaftarkan mana -mana orang sebagai anggota\nPanel Hakam jika dia memenuhi syarat yang berikut:\n\n(a) seorang lelaki Islam;\n\n(b) seorang warganegara Malaysia;\n\n(c) sempurna akal;\n\n(d) bukan seorang bankrap;\n\n(e) tidak pernah disabitkan atas apa -apa kesalahan jenayah termasuk\nkesalahan jenayah syariah di Malaysia atau di mana -mana negara\nlain;\n\n(f) mempunyai kepakaran dalam perkara yang berhubungan dengan\nundang-undang keluarga Islam atau memiliki kelayakan a kademik\nyang bersesuaian sekurang -kurangnya di peringkat Diploma atau\nyang setara dengannya atau kelayakan yang lebih tinggi daripada\nmana-mana institusi pengajian tinggi yang diiktiraf oleh Kerajaan\nMalaysia; dan\n\n(g) telah lulus apa-apa penilaian yang ditentukan oleh Jawatankuasa.\n\n(2) Pendaftaran seseorang anggota Panel Hakam hendaklah bagi suatu tempoh\nyang tidak melebihi tiga tahun dan anggota Panel Hakam  yang tempoh keanggotaannya\ntelah habis tempoh boleh didaftarkan semula bagi suatu tempoh tidak melebihi\ntiga tahun.\n\nDaftar Anggota Panel Hakam\n26. Setiausaha hendaklah menyimpan dan menyenggara suatu daftar yang\nmengandungi butir -butir yang berkaitan bagi an ggota Panel Hakam yang didaftarkan\ndi bawah Kaedah -Kaedah ini, dan daftar sedemikian hendaklah dikenali sebagai\n\"Daftar Anggota Panel Hakam\".\n\nBAHAGIAN VI\nADUAN DAN SIASATAN TERHADAP ANGGOTA PANEL HAKAM\n\nAduan terhadap anggota Panel Hakam\n27. (1) Apa-apa adu an yang berhubungan dengan salah laku mana -mana anggota\nPanel Hakam hendaklah dibuat secara bertulis dan dialamatkan kepada Pengerusi.\n\n (2) Tiada apa -apa jua dalam Kaedah -Kaedah ini boleh dikira menghalang\nJawatankuasa daripada membuat apa-apa aduan atas usulnya sendiri kepada Pengerusi\nterhadap mana-mana anggota Panel Hakam.\n\nSiasatan oleh Jawatankuasa\n28. (1) Apabila aduan yang disebut dalam kaedah 27 diterima, Jawatankuasa\nhendaklah mengeluarkan suatu notis kepada anggota Panel Hakam yang ke atasnya\naduan itu dibuat menghendaki anggota Panel Hakam itu untuk memberikan penjelasan\nberhubung dengan aduan itu.\n\n          (2)     Anggota Panel Hakam yang atasnya aduan itu dibuat hendaklah, dalam masa\nempat belas hari dari tarikh notis itu diterima, mengemukakan penjelasan secara bertulis\nkepada Jawatankuasa.\n\n(3)      Jawatankuasa hendaklah, selepas menerima penjelasan yang disebut dalam\nsubkaedah (2), menjalankan siasatan berhubung dengan aduan di bawah\nsubkaedah 27(1) dalam tempoh masa yang munasabah.\n\n          (4)       Jika, selepas mempertimbangkan fakta dan keterangan yang berkaitan\nberhubung dengan aduan itu dan penjelasan anggota Panel Hakam itu, jika ada,\nJawatankuasa berpuas hati bahawa terdapat merit yang mencukupi bagi aduan itu,\nJawatankuasa hendaklah membatalkan pendaftaran anggota Panel Hakam itu dan\nmengeluarkan namanya daripada Daftar Anggota Panel Hakam.\n\n(5)    Notis yang disebut dalam subkaedah (1) hendaklah disampaikan kepada\nanggota Panel Hakam itu—\n\n(a) secara ke diri;\n\n(b) dengan pos berdaftar atau dengan meninggalkan suatu salinan notis\nitu di alamat terakhir anggota Panel Hakam itu yang diketahui; atau\n\n(c) dengan menghantar notis itu ke alamat elektronik terakhir anggota\nPanel Hakam itu yang diketahui melalui cara elektronik.\n\n  (6) Apa-apa notis yang dihantar melalui cara elektronik di bawah perenggan 5(c)\nhendaklah disifatkan telah disampaikan dan diserahkan kepada anggota Panel Hakam itu\npada tarikh notis itu dihantar ke alamat elektronik terakhir anggota Panel Hakam itu\nyang diketahui.\n\nPembatalan pendaftaran anggota Panel Hakam\n29. Jawatankuasa boleh membatalkan pendaftaran mana -mana anggota Panel Hakam\ndan mengeluarkan nama anggota itu daripada Daftar Anggota Panel Hakam jika anggota\nPanel Hakam itu—\n\n(a) berkelakuan, sama ada yang berkaitan den gan kewajipannya sebagai\nanggota Panel Hakam atau selainnya, dengan sedemikian cara yang boleh\n\nmemburukkan imejnya sebagai anggota Panel Hakam;\n\n(b) tidak berupaya menjalankan kewajipan Hakam;\n\n(c) telah tidak hadir tiga prosiding penimbangtaraan berturut -turut tanpa\nalasan yang munasabah;\n(d) bertindak bertentangan dengan mana-mana undang-undang bertulis; atau\n\n(e) seorang bankrap.\n\nBAHAGIAN VII\nPELBAGAI\n\nElaun\n30. (1)  Anggota Jawatankuasa dan anggota apa -apa jawatankuasa kecil yang\nditubuhkan oleh Jawatankuasa hendaklah d ibayar apa -apa elaun sebagaimana yang\nditentukan oleh Majlis.\n\n(2) Hakam yang dilantik oleh Mahkamah, selain Hakam yang dinamakan oleh\npihak-pihak, hendaklah dibayar apa-apa elaun sebagaimana yang ditentukan oleh Majlis.\n\nRujukan kepada Hukum Syarak\n31. (1)  Mana-mana peruntukan di bawah Kaedah -Kaedah ini yang tidak selaras\ndengan Hukum Syarak hendaklah terbatal setakat ketidakselarasan itu.\n\n(2) Sekiranya terdapat lakuna atau jika apa -apa perkara tidak diperuntukkan\ndengan nyata dalam Kaedah -Kaedah ini, Mahka mah hendaklah mengguna pakai\nHukum Syarak.\n\nSekatan\n32. Mana-mana Peguam Syarie yang bertindak sebagai Hakam bagi pihak seseorang\nsuami atau isteri dalam suatu penimbangtaraan tidak boleh mewakili pihak suami atau\nisteri itu dalam mana-mana prosiding lain di hadapan mana-mana Mahkamah.\n\nPerlindungan Hakam\n33. Tiada prosiding boleh dimulakan terhadap mana -mana Hakam bagi apa -apa\ntindakan yang dilakukan dengan suci hati dalam mana-mana penimbangtaraan di bawah\nKaedah-Kaedah ini.\n\nJADUAL PERTAMA\n[Kaedah 16, subkaedah 5(2), 6(3), 7(2), 7(4), 8(2) dan 9(2), dan perenggan 10(b)]\n\nAKTA UNDANG-UNDANG KELUARGA ISLAM (WILAYAH-WILAYAH PERSEKUTUAN) 1984\n\nKAEDAH-KAEDAH UNDANG-UNDANG KELUARGA ISLAM\n(WILAYAH-WILAYAH PERSEKUTUAN) (HAKAM) 2023\n\nBORANG 1\n[Subkaedah 5(2)]\n\nPENAMAAN HAKAM\n\nBAHAWASANYA SAYA……………….......……………………............................. (nama *suami/isteri) ,\nNo. Kad Pengenalan: ………………………………..... dengan ini menamakan\n................................................ (nama Hakam) , No. Kad Pengenalan: ……………………………...\nsebagai Hakam untuk bertindak bagi pihak saya dalam Saman No.: .....................................\ndalam Mahkamah …..........….………………...\n\nBertarikh …………………………….     ……….………………………\n*Suami/Isteri\n\nSaya, …............................................... (nama Hakam), No. Kad Pengenalan: …………………………...\ndengan ini bersetuju dengan penamaan di atas.\n\nBertarikh …………………………….\n\n……….………………………\nHakam\n\nNota:\n*Potong mana-mana yang tidak berkenaan\n\nAKTA UNDANG-UNDANG KELUARGA ISLAM (WILAYAH-WILAYAH PERSEKUTUAN) 1984\n\nKAEDAH-KAEDAH UNDANG-UNDANG KELUARGA ISLAM\n(WILAYAH-WILAYAH PERSEKUTUAN) (HAKAM) 2023\n\nBORANG 2\n[Subkaedah 6(3) dan 7(2)]\n\nPERINTAH PELANTIKAN HAKAM\n\nDENGAN INI DIPERINTAHKAN BAHAWA, ……………………………………………………….....\n(Nama, No. Kad Pengenalan Hakam suami) dilantik sebagai Hakam  bagi\n…………………………………..................................................... (Nama, No. Kad Pengenalan suami) dan\n………………………………………………………………. (Nama, No. Kad Pengenalan Hakam isteri)\ndilantik sebagai Hakam  bagi ………………………………………………………………........................\n(Nama, No. Kad Pengenalan isteri).\n\nPerintah ini dikeluarkan pada .................…………………. (tarikh) dan hendaklah berkuat\nkuasa mulai ...............………………….…….. (tarikh).\n\nBertarikh …………………………….\n\n(Meterai)\n\n         ……….………………………\nHakim\n\n AKTA UNDANG-UNDANG KELUARGA ISLAM (WILAYAH-WILAYAH PERSEKUTUAN) 1984\n\nKAEDAH-KAEDAH UNDANG-UNDANG KELUARGA ISLAM\n(WILAYAH-WILAYAH PERSEKUTUAN) (HAKAM) 2023\n\nBORANG 3\n[Subkaedah 7(4)]\n\nNOTIS PEMBERIAN KUASA PENUH OLEH SUAMI\n\nSaya …………………………................... (nama suami) , No.  Kad Pengenalan:.....................................\ndengan ini memberi kuasa kepada …………………………..................................... (nama Hakam) ,\nNo. Kad Pengenalan: ……………………………... untuk bertindak sebagai Hakam bagi pihak\nsaya dalam No. Saman: ................ ...................... dengan kuasa penuh untuk melafazkan satu\ntalaq atau khul' kepada isteri saya ………………………….................................. (nama isteri) ,\nNo. Kad Pengenalan: …………………………. di hadapan Mahkamah …………………………. mulai\n………………………… (tarikh).\n\nBertarikh …………………………….     ……….………………………\n      Suami\n\nSaya …………………………................................................................................................ (nama Hakam) ,\nNo. Kad Pengenalan: ...................................................... deng an ini menerima pemberian kuasa\noleh suami yang tersebut di atas dengan kuasa penuh.\n\nBertarikh …………………………….\n\n……….………………………\nHakam\n\nDi hadapan saya,\n\n (Meterai)\n         ……….………………………\nHakim\n\nAKTA UNDANG-UNDANG KELUARGA ISLAM (WILAYAH-WILAYAH PERSEKUTUAN) 1984\n\nKAEDAH-KAEDAH UNDANG-UNDANG KELUARGA ISLAM\n(WILAYAH-WILAYAH PERSEKUTUAN) (HAKAM) 2023\n\nBORANG 4\n[Subkaedah 7(4)]\n\nNOTIS PEMBERIAN KUASA PENUH OLEH ISTERI\n\nSaya …………………………........................................................................................................ (nama isteri) ,\nNo. Kad Pengenalan: ................................................ dengan  ini memberi kuasa kepada\n………………….......................... (nama Hakam) , No. Kad Pengenalan: ……………………………...\nuntuk bertindak sebagai Hakam bagi pihak saya dalam No. Saman: ......................................\ndengan kuasa penuh untuk menerima lafaz khul' daripada Hakam suami saya\n………………………....................................................................................................... (nama Hakam suami) ,\nNo. Kad Pengenalan (Hakam suami): …………………………..................... di hadapan Mahkamah\n………………………… mulai …………………….. (tarikh).\n\nBertarikh …………………………….     ……….………………………\n         Isteri\n\nSaya …………………………................................ (nama Hakam) , No.  Kad Pengenalan:\n...................................................... dengan  ini menerima pemberian kua sa oleh isteri yang\ntersebut di atas dengan kuasa penuh.\n\nBertarikh …………………………….\n\n……….………………………\nHakam\nDi hadapan saya,\n\n(Meterai)\n         ……….………………………\nHakim\n\nAKTA UNDANG-UNDANG KELUARGA ISLAM (WILAYAH-WILAYAH PERSEKUTUAN) 1984\n\nKAEDAH-KAEDAH UNDANG-UNDANG KELUARGA ISLAM\n(WILAYAH-WILAYAH PERSEKUTUAN) (HAKAM) 2023\n\nBORANG 5\n[Subkaedah 8(2)]\n\nPERINTAH PELANTIKAN HAKAM SUAMI DENGAN KUASA PENUH\n\nDENGAN INI DIPERINTAHKAN BAHAWA, ……………………………………………………….....\n(Nama, No. Kad Pengenalan Hakam suami) dilantik sebagai Hakam  bagi\n…………………………………..................................................... (Nama, No. Kad Pengenalan suami)\ndalam Saman No.: ..................................................  dalam Mahkamah ...... ....................................\ndengan kuasa penuh untuk melafazkan talaq atau khul' di hadapan Mahkamah.\n\nPerintah ini dikeluarkan pada .................…………………. (tarikh) dan hendaklah berkuat\nkuasa mulai ...............………………….…….. (tarikh).\n\nBertarikh …………………………….\n\n(Meterai)\n         ……….………………………\nHakim\n\nAKTA UNDANG-UNDANG KELUARGA ISLAM (WILAYAH-WILAYAH PERSEKUTUAN) 1984\n\nKAEDAH-KAEDAH UNDANG-UNDANG KELUARGA ISLAM\n(WILAYAH-WILAYAH PERSEKUTUAN) (HAKAM) 2023\n\nBORANG 6\n[Subkaedah 8(2)]\n\nPERINTAH PELANTIKAN HAKAM ISTERI DENGAN KUASA PENUH\n\nDENGAN INI DIPERINTAHKAN BAHAWA, ……………………………………………………….....\n(Nama, No. Kad Pengenalan Hakam isteri) dilantik sebagai Hakam  bagi\n…………………………………..................................................... (Nama, No. Kad Pengenalan isteri)\ndalam Saman No.: ..................................................  dalam Mahkamah ..........................................\ndengan kuasa penuh untuk menerima lafaz khul' di hadapan Mahkamah.\n\nPerintah ini dikeluarkan pa da .................………………….................... (tarikh) dan hendaklah\nberkuat kuasa mulai ...............………………….…….. (tarikh).\n\nBertarikh …………………………….\n\n(Meterai)\n\n         ……….………………………\nHakim\n\nAKTA UNDANG-UNDANG KELUARGA ISLAM (WILAYAH-WILAYAH PERSEKUTUAN) 1984\n\nKAEDAH-KAEDAH UNDANG-UNDANG KELUARGA ISLAM\n(WILAYAH-WILAYAH PERSEKUTUAN) (HAKAM) 2023\n\nBORANG 7\n[Subkaedah 9(2)]\n\nPERINTAH PEMBATALAN PELANTIKAN HAKAM\n\nDENGAN INI DIPERINTAHKAN BAHAWA, pelantikan ……………………………………………………\n(Nama, No. Kad Pengenalan Hakam *suami/isteri) sebagai Hakam  bagi pihak\n…………………………………...................................... (Nama, No. Kad Pengenalan *suami/isteri)\ndalam Saman No.: ..................................................  dalam Mahkamah ...........................................\ndibatalkan.\n\nPerintah ini dikeluarkan pada .................…………………. (tarikh) dan hendaklah berkuat\nkuasa mulai ...............………………….…….. (tarikh).\n\nBertarikh …………………………….\n\n(Meterai)\n         ……….………………………\nHakim\n\nNota:\n*Potong mana-mana yang tidak berkenaan\n\nAKTA UNDANG-UNDANG KELUARGA ISLAM (WILAYAH-WILAYAH PERSEKUTUAN) 1984\n\nKAEDAH-KAEDAH UNDANG-UNDANG KELUARGA ISLAM\n(WILAYAH-WILAYAH PERSEKUTUAN) (HAKAM) 2023\n\nBORANG 8\n[Perenggan 10(b)]\n\nNOTIS PENARIKAN DIRI SEBAGAI HAKAM\n\nKepada:\nHakim,\nDALAM NO. SAMAN: ..........................................................................................................................................\nDALAM MAHKAMAH ……………………………………………… DI ……………………………………………..\n\nDENGAN INI DIMAKLUMKAN BAHAWA SAYA .....................…………………… (nama Hakam) ,\nNo. Kad Pengenalan ................................ ................ menarik diri daripada menjadi Hakam yang\nmewakili ............……………………....................................................... ........ (nama *suami/ isteri),\nNo. Kad Pengenalan: ………………………… berkuat kuasa mulai ........................................ (tarikh).\n\nBertarikh ……………………………………….\n\n……….……………………..\n*Hakam suami/Hakam isteri\n\nNota:\n*Potong mana-mana yang tidak berkenaan\n\nAKTA UNDANG-UNDANG KELUARGA ISLAM (WILAYAH-WILAYAH PERSEKUTUAN) 1984\n\nKAEDAH-KAEDAH UNDANG-UNDANG KELUARGA ISLAM\n(WILAYAH-WILAYAH PERSEKUTUAN) (HAKAM) 2023\n\nBORANG 9\n[Kaedah 16]\n\nLAPORAN PENIMBANGTARAAN\n\nBAHAWASANYA KAMI ........................................................................…........... (nama Hakam  suami),\nNo. Kad Pengenalan: ………………….................. dan ................................................ (nama Hakam is teri),\nNo. Kad Pengenalan ………………………......... pada akhir penimbangtaraan yang dikendalikan pada\n……………….......………… (tarikh) di ............................................................... dengan ini melaporkan kepada\nMahkamah .......................................................... seperti yang berikut:\n\n(a) .………………………………………………………………………………………………………………………......\n……………………………......................................................................................................................................\n(b) …………………………………………………………………………………………………………………………....\n.......................……………………………………………………………………………………………………….......\n(c) …………………………………………………………………………………………………………………………...\n......………………………………………………………………………………………………………………............\n(d) …………………………………………………………………………………………………………………………...\n…………………………………………………………………………………………………………………………...\n\n(2) Kami—\n\n(a) *telah mencapai persetujuan/tidak dapat mencapai apa -apa persetujuan, dalam\npenimbangtaraan;\n\n(b) berpendapat bahawa punca shiqaq ialah *suami/isteri/kedua-dua suami dan\nisteri/tidak dapat ditentukan;\n\n(c) berpendapat bahawa suami dan isteri patut *mencapai perdamaian/bercerai\nsecara *talaq/khul'.\n\n(d) berpendapat bahawa jumlah tebus talaq bagi perceraian khul' ini ialah\nRM .......................................................... berdasarkan siasatan berkaitan kemampuan\npasangan ini.\n\nBertarikh …………………………………………\n\n......................................................      …...........………………………\nHakam suami        Hakam isteri\n\nNota:\n*Potong mana-mana yang tidak berkenaan\n\nJADUAL KEDUA\n[Subkaedah 17(3)]\n\nLAFAZ TALAQ DAN PENCERAIAN KHUL'\n\nBil.\n\nKategori\n\nLafaz\n\nLafaz talaq jika Hakam suami\nmemperoleh kuasa penuh\ndaripada suami\n\nLafaz oleh Hakam suami:\n\n\"Saya, dengan kuasa penuh yang diberikan\noleh ...................... ( nama suami ), menceraikan\n...................... (nama isteri) dengan talaq satu.\".\n\nLafaz talaq jika Hakam suami\ntelah diberikan kuasa oleh\nMahkamah untuk\nmemerintahkan perceraian\n\nLafaz oleh Hakam suami:\n\n\"Saya, dengan kuasa yang diberikan oleh\nMahkamah untuk memerintahkan perceraian\nbagi pihak suami ...................... (nama suami) ,\nmenceraikan ...................................... (nama isteri)\ndengan talaq satu.\".\n\nLafaz penceraian khul' jika\nHakam suami memperoleh\nkuasa penuh daripada suami\n\n(a) Lafaz oleh Hakam suami:\n\n\"Saya, dengan kuasa penuh yang\ndiberikan oleh ...................... (nama suami),\nmenceraikan ...................... (nama isteri)\ndengan khul' dengan tebus talaq\nsebanyak Ringgit Malaysia ......................\n(amaun) atau ...................... (harta lain atau\nmanfaat yang bernilai).\".\n\n(b) Lafaz oleh Hakam isteri:\n\n\"Saya, sebagai Hakam bagi pihak\n...................... (nama isteri) menerima khul'\ndengan tebus talaq sebanyak Ringgit\nMalaysia ...................... (jumlah) atau\n...................... (harta lain atau manfaat yang\nbernilai) yang tersebut.\".\n\nLafaz penceraian khul' apabila\nHakam bagi suami telah\ndiberikan kuasa oleh\nMahkamah untuk\nmemerintahkan perceraian\n\n(a) Lafaz oleh Hakam bagi suami:\n\n\"Saya, dengan kuasa yang telah diberikan\noleh Mahkamah untuk memerintahkan\nperceraian bagi pihak suami ......................\n(nama suami) , menceraikan ......................\n(nama isteri) dengan khul' dengan tebus\ntalaq sebanyak Ringgit Malaysia\n...................... (amaun) atau ......................\n(harta lain atau manfaat yang bernilai).\".\n\n(b) Lafaz oleh Hakam isteri:\n\n\"Saya, sebagai Hakam bagi pihak\n...................... (nama isteri) menerima khul'\ndengan tebus talaq sebanyak Ringgit\nMalaysia ...................... (amaun) atau\n...................... (harta lain atau manfaat yang\nbernilai).\".\n\nDibuat 14 Julai 2023\n[MSWP. 100-1/5/19 (101); PN(PU2)442/IV]\n\nDengan Titah Perintah\n\n       TAN SRI DATO' SERI MOHD ZUKI BIN ALI\n     Setiausaha Jemaah Menteri\n\nISLAMIC FAMILY LAW (FEDERAL TERRITORIES) ACT 1984\n\nISLAMIC FAMILY LAW (FEDERAL TERRITORIES) (HAKAM) RULES 2023\n\nARRANGEMENT OF RULES\n\nPART I\nPRELIMINARY\n\nRule\n1. Citation\n2. Interpretation\n\nPART II\nHAKAM\n\n3. Hakam\n4. Qualifications of Hakam\n5. Nomination of Hakam\n6. Appointment of Hakam\n7. Substitution of Hakam\n8. Appointment of Hakam with full authority\n9. Revocation of appointment of Hakam\n10. Termination of appointment of Hakam\n11. Consequence of revocation or termination of appointment of Hakam\n\nPART III\nFUNCTION AND RESPONSIBILITIES OF HAKAM\n\n12. Function of Hakam\n13. Responsibilities of Hakam\n\nPART IV\nARBITRATION\n\n14. Conduct of arbitration\n15. Recommendation by Hakam\n16. Report of arbitration\n17. Pronouncement of talaq and khul' divorce\n18. Duration of arbitration\n19. Failure of parties to attend arbitration\n20. Cessation of arbitration\n\nPART V\nHAKAM COMMITTEE\n\n21. Establishment of Hakam Committee\n22. Membership of Committee\n23. Meeting of Committee\n24. Functions of Committee\n25. Registration of members of Hakam Panel\n26. Register of Members of Hakam Panel\n\nPART VI\nCOMPLAINT AND INVESTIGATION AGAINST MEMBERS OF HAKAM PANEL\n\n27. Complaint against members of Hakam Panel\n28. Inquiry by Committee\n29. Revocation for registration of members of Hakam Panel\n\nPART VII\nMISCELLANEOUS\n\n30. Allowances\n31. Reference to Hukum Syarak\n\n32. Restriction\n33. Protection of Hakam\n\nFIRST SCHEDULE\nSECOND SCHEDULE\n\nISLAMIC FAMILY LAW (FEDERAL TERRITORIES) ACT 1984\n\nISLAMIC FAMILY LAW (FEDERAL TERRITORIES) (HAKAM) RULES 2023\n\nIN exercise of the powers conferred by section 48 and paragraphs 134(3) (e) and (i) of\nthe Islamic Family Law (Federal Territories) Act 1984 [ Act 303 ],\nthe Yang di-Pertuan Agong, on the advice of the Majlis, makes the following rules:\n\nPART I\nPRELIMINARY\n\nCitation\n1. These rules may be cited as the Islamic Family Law (Federal Territories)\n(Hakam) Rules 2023.\n\nInterpretation\n2. In these Rules, unless the context otherwise requires—\n\n\"member of Hakam Panel\" means a member of Hakam Panel registered under\nrule 25;\n\n\"Register of Members of Hakam Panel\" means the Register of Members of Hakam\nPanel kept and maintained under rule 26;\n\n\"Committee\" means the Hakam Committee established under rule 21;\n\n\"Chairman\" means the Chairman of Hakam Committee;\n\n\"arbitration\" means arbitration proceedings conducted by Hakam involving parties\nto a marriage for the purpose of reconciliation or divorce by pronouncement of talaq or\nkhul' divorce;\n\n \"quarrels (shiqaq)\" means continuous and irreconcilable differences between\na husband and wife in a period of marriage including in a period of an application for\n\na dissolution of marriage that has not been decided by the Court;\n\n\"parties\" means the husband and wife to a marriage;\n\n\"principal\" means the husband or wife for whom a Hakam is appointed to act;\n\n\"Secretary\" means the Secretary of Hakam Committee referred to in subrule 22(5).\n\nPART II\nHAKAM\n\nHakam\n3. For the purpose of appoinment of a Hakam under section 48 of the Act, the Court\nmay appoint the following person to be a Hakam:\n\n(a) close relatives of the parties;\n\n(b) members of Hakam Panel; or\n\n(c) any syariah officer  or any other p erson who has expertise in matters\nrelating to Islamic family law who, in the opinion of the Court, is fit to carry\nout the functions of Hakam.\n\nQualifications of Hakam\n4. (1) The close relatives of the parties who may be appointed as Hakam shall fulfill\nthe following qualifications:\n\n(a) a Muslim male who has attained the age of eighteen years old and is\nof sound mind;\n\n(b) a person who stands in relation of the parties whether by way of\nconsanguinity, affinity or fosterage having knowledge of the\ncircumstances of the case;\n\n(c) a person who is just and trustworthy; and\n\n(d) a person who has basic knowledge in Islamic family affairs and\nHukum Syarak.\n\n (2) The person referred to in paragraph 3 (c) may also be appointed as Hakam if\nhe fulfills the qualifications referred to in paragraphs (1)(a), (c) and (d).\n\nNomination of Hakam\n5. (1) For the purpose of an appointment of Hakam referred to in rule 3,\nthe Court shall direct the parties to nominate a person as Hakam to act on behalf of the\nrespective parties within fourteen days from the date the Court determines that there are\nconstant quarrels (shiqaq) between the parties.\n\n(2) The nomination by the parties under subrule (1) shall give preference to close\nrelatives of the respective parties and shall be made in Form 1 of the First Schedule.\n\nAppointment of Hakam\n6. (1) The Court shall, if satisfied with the qualifications of the person nominated\nunder rule 5, appoint the nominated person as Hakam for the respective parties.\n\n(2) Notwithstanding subrule (1), the Court may appoint any other person\nreferred to in paragraph 3(b) or (c) as Hakam to act for any party if—\n\n(a) any of the parties informs the Court of his intention not to nominate\nany person as Hakam;\n\n(b) any of the parties fails to nominate any person as Hakam within the\nperiod specified in subrule 5(1); or\n\n(c) in the opinion the Court, the person nominated as Hakam by the\nparties does not fulfil the qualifications referred to in rule 4.\n\n(3) The appointment  of Hakam under subrules (1) and (2) shall be made by\nan order in Form 2 of the First Schedule.\n\nSubstitution of Hakam\n7. (1) Where the Hakam appointed under rule 6 is unable to reach the agreement of\nthe parties for reconciliation or divorce, the Court may revoke the appointment of the\nHakam by an order referred to in rule 9.\n\n (2) The Court shall appoint another Hakam among the persons referred to in\nparagraph 3 (b) or (c) by an order under subrule 6(3) to substitute the Hakam whose\nappointment has been revoked under subrule (1).\n\n (3) The Hakam appointed under subrule (2) shall endeavour to obtain full\nauthority from his principal.\n\n (4) If the principal agrees to give full authority to the Hakam appointed under\nsubrule (2), the full authorization shall be pronounced by the principal and Notice of Full\nAuthorization in Form 3 or 4 of the First Schedule shall be signed, before the Judge before\nwhom the case is heard.\n\n(5) For the purposes of this Part, \"full authority\" means—\n\n(a) in relation to the husband, the authority which allows the Hakam who\nacts on his behalf to pronounce talaq or khul' before the Court; and\n\n(b) in relation to the wife, the authority which allows the Hakam who acts\non her behalf to accept the pronouncement of khul' before the Court.\n\nAppointment of Hakam with full authority\n8. (1) Where the Hakam appointed under rule 7 is of the opinion that the parties\nshould be divorced but the Hakam is unable to obtain full authority from his principal,\nthe Court may revoke the appointment of the Hakam by an order referred to in rule 9.\n\n (2) The Court shall, by an order in Form 5 or Form 6 of the First Schedule,\nas the case may be, appoint another Hakam with full authority among the persons\nreferred to in paragraph 3(b) or (c) to substitute the Hakam whose appointment has been\nrevoked under subrule (1).\n\nRevocation of appointment of Hakam\n9. (1) The Court may revoke the appointment of a Hakam if—\n\n(a) the Hakam is unable to reach the agreement of the parties for\nreconciliation or divorce;\n\n(b) the Hakam is unable to obtain full authority from his principal;\n\n(c) the Court is not satisfied with the manner the Hakam conducts an\narbitration; or\n\n(d) the Hakam becomes of unsound mind or otherwise incapable\nto discharge his duty as Hakam.\n\n (2) The revocation of appointment of Hakam shall be by an order in Form 7 of\nthe First Schedule.\n\nTermination of appointment of Hakam\n10. The appointment of a Hakam is terminated if—\n\n(a) he dies; or\n\n(b) he withdraws himself or refuses to pursue his duty as Hakam by a notice in\nForm 8 of the First Schedule.\n\nConsequence of revocation or termination of appointment of Hakam\n11. Upon the appointment of a Hakam is revoked under rule 9 or terminated under\nrule 10, as the case may be, the Court may appoint another Hakam to replace him\npursuant to rule 6, 7 or 8, as the case may be.\n\nPART III\nFUNCTION AND RESPONSIBILITIES OF HAKAM\n\nFunction of Hakam\n12. A Hakam shall resolve quarrels (shiqaq) between the parties by way of\nreconciliation or divorce of the parties by talaq or khul' divorce.\n\nResponsibilities of Hakam\n13. A Hakam shall be responsible to—\n\n(a) conduct an arbitration according to the directions and ethical code issued\nby the Court and pursuant to Hukum Syarak;\n\n(b) assist the parties to reach reconciliation;\n\n(c) assist the Court in making decision by providing recommendations\nto the Court;\n\n(d) pronounce talaq or khul', if so permitted by the Court; and\n\n(e) act independently and impartially.\n\nPART IV\nARBITRATION\n\nConduct of arbitration\n14. (1) The Court may give directions to a Hakam on the conduct of an arbitration and\nthe Hakam shall conduct the arbitration in accordance with the directions and ethical\ncodes issued by the Court and pursuant to Hukum Syarak.\n\n (2) An arbitration may be held in the premises of the Court or any other places as\ndetermined by the Hakam as he may think appropriate.\n\nRecommendation by Hakam\n15. (1) In conducting an arbitration under these Rules, where both Hakam are\nsatisfied that—\n\n(a) the parties agree to reach a reconciliation, the Hakam shall\nrecommend for the parties to reconcile; or\n\n(b) the parties fail to reach a reconciliation, the Hakam shall determine\nthe party who causes the quarrel (shiqaq) and subrule (2) or (3) shall\napply, as the case may be.\n\n (2) The Hakam shall recommend a divorce by talaq where—\n\n   (a) the Hakam is satisfied that the quarrel (shiqaq) is caused by the\nhusband or both parties; or\n\n  (b) the Hakam fails to determine  the party who causes the quarrel\n(shiqaq) and the application for divorce is made by the husband.\n\n (3) The Hakam shall recommend khul' divorce and rate of payment for tebus talaq\nwhere—\n\n(a) the Hakam is satisfied that the quarrel (shiqaq) is caused by the wife;\nor\n\n(b) the Hakam fails to determine the party who causes the quarrel\n(shiqaq) and the application for the divorce is made by the wife.\n\nReport of arbitration\n16. Upon the conclusion of an arbitration, both Hakam shall, jointly, prepare a report of\narbitration in Form 9 of the First Schedule containing the recommendation referred to in\nrule 15 and shall submit the report to the Court.\n\nPronouncement of talaq and khul' divorce\n17. (1) Where the Court agrees with the r ecommendation of Hakam for the\ndissolution of marriage by talaq, the talaq shall be pronounced by the Hakam acting on\nbehalf of the husband before the Court.\n\n (2) Where the Court agrees with the recommendation of Hakam for the\ndissolution of marriage by khul' divorce and the payment of tebus talaq has been made\nby the wife, the Hakam acting on behalf of the husband shall pronounce the khul' divorce\nand the Hakam acting on behalf of the wife shall pronounce the acceptance to the khul',\nbefore the Court.\n\n (3) For the purpose of subrules (1) and (2), the pronouncement of talaq and khul'\ndivorce shall be as specified in the Second Schedule.\n\n (4) Divorce by talaq under subrule (1) and khul' divorce under subrule (2) are\ntalaq ba-in sughra or irrevocable divorce.\n\nDuration of arbitration\n18. (1) The conduct of arbitration shall be completed within thirty days from the date\nof appointment of Hakam.\n\n (2) The Court may extend the period specified in subrule (1) for a further period\nof not exceeding thirty days.\n\nFailure of parties to attend arbitration\n19. Where any party fails to attend an arbitration, the Hakam may continue the\narbitration and make any finding in relation to the arbitration.\n\nCessation of arbitration\n20. An arbitration shall cease—\n\n(a) if any party subjected to the arbitration dies or is found to be\nof unsound mind;\n\n(b) if both parties subjected to the arbitration agree to reconcile;\n\n(c) if the husband pronounced talaq; or\n\n(d) for any other reasons as the Court thinks fit.\n\nPART V\nHAKAM COMMITTEE\n\nEstablishment of Hakam Committee\n21. The Majlis shall establish a committee to be known as the Hakam Committee.\n\nMembership of Committee\n22. (1) The Committee shall consist of the following members:\n\n(a) the Chief Syariah Judge, as Chairman;\n\n(b) a Syariah High Court Judge, as Deputy Chairman;\n\n(c) the Attorney General or his representative;\n\n(d) a representative of the Majlis;\n\n(e) a Syariah Subordinate Court Judge;\n\n(f) the Chief Registrar of the Syariah Appeal Court or his representative;\nand\n\n(g) three other members who have expertise in Hukum Syarak.\n\n(2) The members of the Committee referred to in paragraphs (1) (b), (e) and (g)\nshall be appointed by the Chief Syariah Judge.\n\n(3) The members of the Committee referred to in paragraph (1)(g)—\n\n(a) shall hold office for a period of two years and may be reappointed;\nand\n\n(b) may, at any time, resign by giving a notice in writing to the Chairman.\n\n(4) The Chief Syariah Judge may, at any time, replace any member referred to in\nparagraphs (1)(b), (e) and (g).\n\n(5) The Chief Registrar of the Syariah Appeal Court shall be the Secretary.\n\nMeeting of Committee\n23. (1) The Chairman shall preside at all meetings of the Committee and if\nthe Chairman is absent, the Deputy Chairman shall preside at the meeting.\n\n(2) Five members of the Committee shall form a quorum of a meeting.\n\n(3) The decision in the Committee meeting shall be made unanimously or by the\nmajority of the members present.\n\n(4) If on any resolution there is an equal vote, the Chairm an shall have\na casting vote.\n\n(5) The Committee may determine its own procedure.\n\nFunctions of Committee\n24. (1) The Committee shall have the following functions:\n\n(a) to register any eligible person as a member of Hakam Panel;\n\n(b) to inquire into any complaint rel ating to the conduct of any member\nof the Hakam Panel;\n\n(c) to regulate and conduct a disciplinary control over the members of\nthe Hakam Panel;\n\n(d) to determine any necessary training for the members of the\nHakam Panel;\n\n(e) to establish any subcommittee for the purpose of assisting the\nCommittee in the performance of its functions; and\n\n(f) to perform any other functions as the Committee thinks necessary for\nthe purpose of carrying into effect these Rules.\n\n(2) Any member of the Hakam Panel may apply to the Committee for his name to\nbe removed from the Register of Members of Hakam Panel.\n\n(3) The Committee may, on any reasonable ground, remove the name of any\nmember of the Hakam Panel from the Register of Members of Hakam Panel.\n\nRegistration of members of Hakam Panel\n25. (1) The Committee may register any person to be a member of Hakam Panel if he\nfulfills the following conditions:\n\n(a) is a Muslim male;\n\n(b) is a Malaysian citizen;\n\n(c) is of sound mind;\n\n(d) is not a bankrupt;\n\n(e) has not been convicted of any criminal offence including syariah\ncriminal offence in Malaysia or any other country;\n\n(f) has expertise in matters relating to Islamic family law or possesses\nsuitable academic qualification at least at Diploma level or equivalent\nor higher qualification from any higher learning institution\nrecognized by the Government of Malaysia; and\n\n(g) has passed any assessment determined by the Committee.\n\n(2) The registration of a member of Hakam Panel shall be for a period of not\nexceeding three years and the members of Hakam Panel whose period of membership\nhas expires may be reregistered for a period of not exceeding three years.\n\nRegister of Members of Hakam Panel\n26. The Secretary shall keep and maintain a register containing relevant particulars of\nmembers of Hakam Panel registered under these Rules, and such register shall be known\nas \"Register of Members of Hakam Panel\".\n\nPART VI\nCOMPLAINT AND INVESTIGATION AGAINST MEMBERS OF HAKAM PANEL\n\nComplaint against members of Hakam Panel\n27. (1) Any complaint relating to the misconduct of any member of the Hakam Panel\nshall be made in writing and addressed to the Chairman.\n\n (2) Nothing in these Rules shall be taken to preclude the Committee from making\nany complaint of its own motion to the Chairman against any member of the Hakam Panel.\n\nInquiry by Committee\n28. (1) Upon receipt the complaint referred to in rule 27, the Committee shall issue a\nnotice to the member of Hakam Panel on whom the complaint is made  requiring the\nmember of Hakam Panel to give explanation in relation to the complaint.\n\n(2)  The member of Hakam Panel on whom the complaint is made  shall, within\nfourteen days from t he date the notice is received, give explanation in writing to the\nCommittee.\n\n(3)      The Committee shall, after received the explaination referred to in\nsubrule (2), conduct an investigation in relation to the complaint under subrule  27(1)\nwithin a reasonable period.\n\n(4) Where, after considering relevant facts and evidence in relation to\nthe complaint and the explanation of the member of the Hakam Panel, if any,\nthe Committee is satisfied that there is sufficient merit in the complaint, the Committee\nshall revoke the registration of the member of the Hakam Panel and remove his name\nfrom the Register of Members of Hakam Panel.\n\n(5) The notice referred in subrule (1) shall be served to the member of the\nHakam Panel—\n\n(a) personally;\n\n(b) by registered post or by leaving a copy of the notice at the last known\naddress of the member of the Hakam Panel; or\n\n(c) by sending the noti ce to the last known  electronic address of the\nmember of the Hakam Panel through electronic means.\n\n  (6) Any notice send by electronic means under paragraph 5(c) shall be deemed to\nhave been served and delivered upon the member of the Hakam Panel on the date the\nnotice is sent to the last known electronic address of the member of the Hakam Panel.\n\nRevocation for registration of members of Hakam Panel\n29. The Committee may revoke the registration of any member of the Hakam Panel and\nremove the name of the member from the Register of Members  of Hakam Panel where\nthe member of the Hakam Panel—\n\n(a) conducts himself, whether in connection with his duties as a member of the\nHakam Panel or otherwise, in such a way as to bring discredit to his image\nas a member of the Hakam Panel;\n\n(b) is incapable of carrying out the duties of Hakam;\n\n(c) has been absent from three consecutive arbitrations proceedings without\nreasonable excuse;\n\n(d) acts in contrary to any written law; or\n\n(e) is a bankrupt.\n\nPART VII\nMISCELLANEOUS\n\nAllowances\n30. (1) The members of the Committee and members of any subcommittee\nestablished by the Committee shall be paid such allowances as may be determined\nby the Majlis.\n\n(2) The Hakam appointed by the Court, other than the Hakam nominated\nby the parties, shall be paid such allowances as may be determined by the Majlis.\n\nReference to Hukum Syarak\n31. (1) Any provision under these Rules which is inconsistent with Hukum Syarak\nshall be void to the extent of the inconsistency.\n\n(2) If there is any lacuna or matter not expressly provided for in these Rules, the\nCourt shall apply Hukum Syarak.\n\nRestriction\n32. Any Peguam Syarie acting as Hakam on behalf of a husband or wife in an arbitration\nshall not represent the husband or wife in any other proceedings before any Court.\n\nProtection of Hakam\n33. No proceeding may be instituted against any Hakam for any act done in good faith\nin any arbitration under these Rules.\n\nFIRST SCHEDULE\n[Rule 16, subrules 5(2), 6(3), 7(2), 7(4), 8(2) and 9(2), and paragraph 10(b)]\n\nISLAMIC FAMILY LAW (FEDERAL TERRITORIES) ACT 1984\n\nISLAMIC FAMILY LAW (FEDERAL TERRITORIES) (HAKAM) RULES 2023\n\nFORM 1\n [Subrule 5(2)]\n\nNOMINATION OF HAKAM\n\nWHEREAS I ……………….......………................................................... (name of the *husband/wife) ,\nIdentity Card No.: …………………………………........................... hereby nominate\n.............................................. (name of the Hakam) , Identity Card No.: ……………………………..........\nas a Hakam to act on my behalf in Summons No.: ................................................................................\nin …..........….……………….............. Court.\n\nDated ……………………………………….             ……………………………………….\n*Husband/Wife\n\nI, .............................................. (name of the Hakam) , Identity Card No.: ……………………………..\nhereby agree with the above nomination.\n\nDated ……………………………………….\n\n……………………………………….\n         Hakam\n\nNote:\n*Delete whichever is not applicable\n\nISLAMIC FAMILY LAW (FEDERAL TERRITORIES) ACT 1984\n\nISLAMIC FAMILY LAW (FEDERAL TERRITORIES) (HAKAM) RULES 2023\n\nFORM 2\n[Subrules 6(3) and 7(2)]\n\nHAKAM APPOINTMENT ORDER\n\nIT IS HEREBY ORDERED THAT, …………………………………………………...........................................\n(Name, Identity Card No. of the Hakam for the husband)  is appointed as a Hakam for\n……………………………………............................... (Name, Identity Card No. of the husband) and\n……………………………………........................ (Name, Identity Card No. of the Hakam for the wife)\nis appointed  as a Hakam for …………………………………….................................................................\n(Name, Identity Card No. of the wife).\n\nThis Order is issued on .................…………………. (date) and shall have effect from\n.................…………………. (date).\n\nDated ……………………………………….\n\n(Seal)\n……………………………..\nJudge\n\nISLAMIC FAMILY LAW (FEDERAL TERRITORIES) ACT 1984\n\nISLAMIC FAMILY LAW (FEDERAL TERRITORIES) (HAKAM) RULES 2023\n\nFORM 3\n [Subrule 7(4)]\n\nNOTICE OF FULL AUTHORIZATION BY THE HUSBAND\n\nI ………………………................. (name of the husband) , Identity Card No.: …………………………\nhereby authorize ……………….………………………… (name of the Hakam) ,\nIdentity Card No.: …….……….………………………… to act on my behalf as Hakam in\nSummons No.: ...................................... with full authority to pronounce one talaq or khul' to\nmy wife ……………………………….. (name of the wife) , Identity Card No.: ………………………….\nbefore the ………………………………Court commencing from ………………………… (date).\n\nDated ……………………………………….             ……………………………………….\n      Husband\n\nI …………………………....................................................................................(name of the Hakam) ,\nIdentity Card No.:……………………….................. hereby accept the authorization by the\nhusband as stated above with full authority.\n\nDated ……………………………………….\n\n……………………………………….\n        Hakam\n\nIn my presence,\n\n(Seal)\n……………………………….\nJudge\n\nISLAMIC FAMILY LAW (FEDERAL TERRITORIES) ACT 1984\n\nISLAMIC FAMILY LAW (FEDERAL TERRITORIES) (HAKAM) RULES 2023\n\nFORM 4\n [Subrule 7(4)]\n\nNOTICE OF FULL AUTHORIZATION BY THE WIFE\n\nI …………………………............................................................................... ..................... (name of the wife) ,\nIdentity Card No.: …………………………............................................. hereby authorize\n…………………………..................... (name of the Hakam) , Identity Card No.: ………………………….\nto act on my behalf as Hakam in the S ummons No.: .......................................................................\nwith full authority to accept the pronouncement of khul' from the Hakam for my husband\n………………………….......................................................... (name of the Hak am for the husband) ,\nIdentity Card No. (Hakam for the Husband) : ………………………….. before the\n……………………….. Court commencing from …………………….. (date).\n\nDated ……………………………………….             ……………………………………….\n              Wife\n\nI ………………………..…… (name of the Hakam) , Identity Card No.: ……………………………………\nhereby accept the authorization by the wife as stated above with full authority.\n\nDated ……………………………………….             ……………………………………….\n         Hakam\n\nIn my presence,\n\n(Seal)\n……………………………….\nJudge\n\nISLAMIC FAMILY LAW (FEDERAL TERRITORIES) ACT 1984\n\nISLAMIC FAMILY LAW (FEDERAL TERRITORIES) (HAKAM) RULES 2023\n\nFORM 5\n [Subrule 8(2)]\n\nAPPOINTMENT OF HAKAM FOR THE HUSBAND WITH FULL AUTHORITY ORDER\n\nIT IS HEREBY ORDERED THAT, …………………………………………………...........................................\n(Name, Identity Card No. of the Hakam for the husband)  is appointed as the Hakam for\n……………………………………............................... (Name, Identity Card No. of the hus band)\nin the Summons No.: ................................................................ in ..................................... ............. Court\nwith full authority to pronounce talaq or khul' before the Court.\n\nThis Order is issued  on .................…………………. (date) and shall have effect from\n.................…………………. (date).\n\nDated ……………………………………….\n\n(Seal)\n……………………………..\nJudge\n\nISLAMIC FAMILY LAW (FEDERAL TERRITORIES) ACT 1984\n\nISLAMIC FAMILY LAW (FEDERAL TERRITORIES) (HAKAM) RULES 2023\n\nFORM 6\n [Subrule 8(2)]\n\nAPPOINTMENT OF HAKAM FOR THE WIFE WITH FULL AUTHORITY ORDER\n\nIT IS HEREBY ORDERED THAT, …………………………………………………...........................................\n(Name, Identity Ca rd No. of the Hakam for the wife)  is appointed as the Hakam for\n……………………………………............................... (Name, Identity Card No. of the wife)\nin the Summons No.: .................................................. .............. in .................................................. Court\nwith full authority to accept the pronouncement of khul' before the Court.\n\nThis Order is issued on .................…………………. (date) and shall have effect from\n.................…………………. (date).\n\nDated ……………………………………….\n\n(Seal)\n……………………………..\nJudge\n\nISLAMIC FAMILY LAW (FEDERAL TERRITORIES) ACT 1984\n\nISLAMIC FAMILY LAW (FEDERAL TERRITORIES) (HAKAM) RULES 2023\n\nFORM 7\n [Subrule 9(2)]\n\nREVOCATION OF APPOINTMENT OF HAKAM ORDER\n\nIT IS HEREBY ORDERED THAT, the appointment of ………………………………………………….......\n(Name, Identity Card No. of the Hakam for the *husband/wife)  as the Hakam for\n……………………………………............................... (Name, Identity  Card No. of the *husband/wife)\nin the Summons No.: ................................................................ in ..................................... ............. Court is\nrevoked.\n\nThis Order is issued on .... .............…………………. (date) and shall have effect from\n.................…………………. (date).\n\nDated ……………………………………….\n\n(Seal)\n……………………………..\nJudge\n\nNote:\n*Delete whichever is not applicable\n\nISLAMIC FAMILY LAW (FEDERAL TERRITORIES) ACT 1984\n\nISLAMIC FAMILY LAW (FEDERAL TERRITORIES) (HAKAM) RULES 2023\n\nFORM 8\n[Paragraph 10(b)]\n\nNOTICE OF WITHDRAWAL AS HAKAM\n\nTo:\nJudge,\nIN SUMMONS NO: ..........................................................................................................................................\nIN THE ………………………………………………………… COURT AT ……………………………………………\n\nIT IS HEREBY INFORMED THAT I  ………………………… (name of the Hakam) ,\nIdentity Card No.: …………………………. withdraw myself from being a Hakam who\nrepresents …………………………....................................................... (name of the *husband/wife),\nIdentity Card No.:  ………………………… with effect from .............................. (date).\n\nDated ……………………………………….\n\n…….……………………............\n*Hakam for the husband/\nHakam for the wife\n\nNote:\n*Delete whichever is not applicable\n\nISLAMIC FAMILY LAW (FEDERAL TERRITORIES) ACT 1984\n\nISLAMIC FAMILY LAW (FEDERAL TERRITORIES) (HAKAM) RULES 2023\n\nFORM 9\n[Rule 16]\n\nREPORT OF ARBITARTION\n\nWHEREAS WE ........................................................................…………… (name of Hakam for the husband) ,\nIdentity Card No.:………………...................and................................................. (name of Hakam for the wife),\nIdentity Card No.: ………………………..........................… at the end of the arbitration conducted on\n………………………… (date) at ............................................. hereby report to the ................................................\nCourt as follows:\n\n(a) .………………………………………………………………………………………………………………………......\n……………………………......................................................................................................................................\n(b) …………………………………………………………………………………………………………………………....\n.......................……………………………………………………………………………………………………….......\n(c) …………………………………………………………………………………………………………………………...\n......………………………………………………………………………………………………………………............\n(d) …………………………………………………………………………………………………………………………...\n…………………………………………………………………………………………………………………………...\n\n(2) We—\n\n(a) *have reach to an agreement/are unable to reach any agreement, in the arbitration;\n\n(b) are of the opinion that the cause of the shiqaq is the *husband/wife/both husband\nand wife/unascertained;\n\n(c) are of the opinion that the husband and wife should *reach conciliation/divorce by\n*talaq/khul';\n\n(d) are of the opinion that the amount of tebus talaq  for the khul' divorce is\nRM …………………….. based on inquiry into the means of the couple.\n\nDated …………………………………………\n\n........................................................      .....…………………………\n   Hakam for husband                          Hakam for  wife\n\nNote:\n*Delete whichever is not applicable\n\nSECOND SCHEDULE\n[Subrule 17(3)]\n\nPRONOUNCEMENT OF TALAQ AND KHUL' DIVORCE\n\nNo.\n\nCategory\n\nPronouncement\n\nPronouncement of talaq where\nthe Hakam for the husband\nobtains full authority from the\nhusband\n\nPronouncement by the Hakam for the\nhusband:\n\n\"I, having the full authority granted by\n...................... (name of husband) , divorce\n...................... (name of wife) with one talaq.\".\n\nPronouncement of talaq where\nthe Hakam for the husband has\nbeen conferred authority by\nthe Court to order a divorce\n\nPronouncement by the Hakam for the\nhusband:\n\n\"I, having been conferred the authority by the\nCourt to order a divorce on behalf of\n...................... (name of husband) , div orce\n...................... (name of wife) with one talaq.\".\n\nPronouncement of khul'\ndivorce where the Hakam for\nthe husband obtains full\nauthority from the husband\n\n(a) Pronouncement by the Hakam for the\nhusband:\n\n\"I, having the full authority granted by\n...................... (name of husband) , divorce\n...................... (name of wife)  by khul' with a\ntebus talaq of Ringgit Malaysia ......................\n(amount) or ...................... (other property or\nbenefit with value).\".\n\n(b) Pronouncement by the Hakam for the\nwife:\n\n\"I, as the Hakam for ………….. (name of\nwife), accept the khul' with a tebus talaq of\nRinggit Malaysia ...................... (amount) or\n...................... (other property or benefit with\nvalue).\".\n\nNo.\n\nCategory\n\nPronouncement\n\nPronouncement of khul'\ndivorce where the Hakam for\nthe husband has been\nconferred authority by the\nCourt to order a divorce\n\n(a) Pronouncement by the Hakam for the\nhusband:\n\n\"I, having been conferred the authority by\nthe Court to order a divorce on behalf of\n...................... (name of husband) , divorce\n...................... (name of wife)  by khul' with a\ntebus talaq of Ringgit Malaysia ......................\n(amount) or ...................... (other property or\nbenefit with value).\".\n\n(b) Pronouncement by the Hakam for the\nwife:\n\n\"I, as the Hakam for ………….. (name of\nwife), accept the khul' with a tebus talaq of\nRinggit Malaysia ...................... (amount) or\n...................... (other property or benefit with\nvalue).\".\n\nMade 14 July 2023\n[MSWP. 100-1/5/19 (101); PN(PU2)442/IV]\n\nBy Command\n\n                                                                               TAN SRI DATO' SERI MOHD ZUKI BIN ALI\n    Secretary to the Cabinet"
+   }
+  }
+ ]
+}

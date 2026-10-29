@@ -1,0 +1,72 @@
+{
+ "id": "PH-H15535",
+ "title": {
+  "zh": null,
+  "en": "Batas Pambansa Blg. 706  An Act Converting Certain Roads in the Province of Rizal Into National Roads",
+  "orig": "Batas Pambansa Blg. 706  An Act Converting Certain Roads in the Province of Rizal Into National Roads"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1984-04-13",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Batasang Pambansa",
+ "docNumber": "Batas Pambansa Blg. 706",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 769,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/08_国民议会法令_BP/BP_00706_1984_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 BP_00706_1984_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H15535-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The following provincial roads in the Province of Rizal are converted into and declared as\nnational roads:\n(a) Pililla Junction-Jalajala Road\n(b) Tanay-Sampaloc Road\n(c) Antipolo-Hinulugang TakTak Road\n(d) Antipolo Diversion Road No. 1\n(e) Antipolo Diversion Road No. 2\n(f) Montalban-San Jose-Quezon City\n(g) Daang Cainta Road\n(h) Marikina-Diversion Road"
+   }
+  },
+  {
+   "id": "PH-H15535-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The amount necessary for the improvement and maintenance of said roads shall continue to be\nfunded out of the lump sum appropriation authorized under Batas Pambansa Blg. 640 for the repair and\nmaintenance of local roads until such time that the maintenance funds for said roads shall have been provided\nfor in the succeeding appropriations acts."
+   }
+  },
+  {
+   "id": "PH-H15535-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: April 13, 1984"
+   }
+  }
+ ]
+}

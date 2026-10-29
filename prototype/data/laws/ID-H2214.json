@@ -1,0 +1,700 @@
+{
+ "id": "ID-H2214",
+ "title": {
+  "zh": "可持续粮食农业土地信息系统法",
+  "en": "Law on the Information System for Sustainable Food Agricultural Land",
+  "id": "SISTEM INFORMASI LAHAN PERTANIAN PANGAN BERKELANJUTAN",
+  "orig": "SISTEM INFORMASI LAHAN PERTANIAN PANGAN BERKELANJUTAN",
+  "vi": "Luật về Hệ thống Thông tin Đất Nông nghiệp Lương thực Bền vững",
+  "th": "พระราชบัญญัติว่าด้วยระบบข้อมูลที่ดินเกษตรกรรมอาหารอย่างยั่งยืน",
+  "ms": "Akta tentang Sistem Maklumat Tanah Pertanian Makanan Lestari"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02a",
+ "language": "id",
+ "level": "law",
+ "category": "02_民商事与经济法",
+ "status": "active",
+ "promulgatedDate": "2012",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU25-2012",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 46,
+ "chars": 39435,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PP%20Nomor%2025%20Tahun%202012.pdf&fl=P17121"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\02_民商事与经济法\\印尼_文本_2012_SISTEM INFORMASI LAHAN PERTANIAN PANGAN BERKELANJUTAN.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 46 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H2214-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\n\nDalam Peraturan Pemerintah ini yang dimaksud dengan:\n1. Sistem Informasi Lahan Pertanian Pangan Berkelanj utan\nadalah kesatuan komponen yang terdiri atas kegiatan yang\nmeliputi penyediaan data, penyeragaman, penyimpanan\ndan pengamanan, pengolahan, pembuatan produk\nInformasi, penyampaian produk Informasi dan penggunaan\nInformasi yang terkait satu sama lain, ser ta\npenyelenggaraan mekanismenya pada Perlindungan Lahan\nPertanian Pangan Berkelanjutan.\n2. Data . . .\n\n\n\n\n2. Data Dasar adalah keterangan atau bahan nyata yang\ndapat dijadikan dasar kajian, analisis, atau kesimpulan\ndalam penyelenggaraan Sistem Informasi Lahan P ertanian\nPangan Berkelanjutan.\n3. Informasi adalah data yang sudah diolah sehingga dapat\ndigunakan sebagai alat bantu dalam perumusan kebijakan,\npengambilan keputusan, dan/atau pelaksanaan kegiatan\nyang berhubungan dengan perlindungan Lahan Pertanian\nPangan Berkelanjutan.\n4. Lahan Pertanian Pangan Berkelanjutan adalah bidang\nlahan pertanian yang ditetapkan untuk dilindungi dan\ndikembangkan secara konsisten guna menghasilkan\npangan pokok bagi kemandirian, ketahanan, dan\nkedaulatan pangan nasional.\n5. Kawasan Pertania n Pangan Berkelanjutan adalah wilayah\nbudidaya pertanian terutama pada wilayah perdesaan yang\nmemiliki hamparan Lahan Pertanian Pangan Berkelanjutan\ndan/atau hamparan Lahan Cadangan Pertanian Pangan\nBerkelanjutan serta unsur penunjangnya dengan fungsi\nutama untuk mendukung kemandirian, ketahanan, dan\nkedaulatan pangan nasional.\n6. Lahan Cadangan Pertanian Pangan Berkelanjutan adalah\nlahan potensial yang dilindungi pemanfaatannya agar\nkesesuaian dan ketersediaannya tetap terkendali untuk\ndimanfaatkan sebagai La han Pertanian Pangan\nBerkelanjutan pada masa yang akan datang.\n7. Standardisasi Data adalah segala kegiatan yang\nberhubungan dengan penyeragaman, gradasi, penyajian,\ndan peningkatan nilai dari suatu data dan Informasi.\n8. Tipe numerik adalah bentuk data berupa a ngka dan\nproduk informasi yang dapat dipublikasikan dalam bentuk\nangka, huruf, dan/atau narasi.\n9. Tipe tekstual adalah bentuk data yang diperoleh dan/atau\ndipublikasikan dalam bentuk narasi.\n10. Tipe geospasial adalah bentuk data hasil pengukuran,\npencatatan, da n pencitraan terhadap suatu unsur\nkeruangan yang berada di bawah, pada, atau di atas\npermukaan bumi dengan posisi keberadaan mengacu pada\nsistem koordinat nasional.\n\n11. Pemerintah . . .\n\n\n\n\n11. Pemerintah Pusat, yang selanjutnya disebut Pemerintah\nadalah Preside n Republik Indonesia yang memegang\nkekuasaan pemerintahan Negara Republik Indonesia\nsebagaimana dimaksud dalam Undang -Undang Dasar\nNegara Republik Indonesia Tahun 1945.\n12. Pemerintah Daerah adalah gubernur, bupati atau walikota\ndan perangkat daerah sebagai un sur penyelenggara\npemerintahan daerah.\n13. Menteri adalah menteri yang menyelenggarakan urusan\npemerintahan di bidang pertanian.\n14. Masyarakat adalah setiap orang, kelompok, orang\ndan/atau korporasi yang berbentuk badan hukum atau\nbukan badan hukum.\n15. Pemangku Kep entingan adalah pihak terkait dengan isu\ndan permasalahan yang berhubungan dengan Sistem\nInformasi Lahan Pertanian Pangan Berkelanjutan.\n16. Pusat Informasi Lahan Pertanian Pangan Berkelanjutan\nadalah pusat yang menyelenggarakan sistem informasi\nserta adminis trasi Lahan Pertanian Pangan Berkelanjutan\ndan Lahan Cadangan Pertanian Pangan Berkelanjutan\npada lembaga pemerintah yang berwenang di bidang\npertanahan."
+   }
+  },
+  {
+   "id": "ID-H2214-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\n\nSistem Informasi Lahan Pertanian Pangan Berkelanjutan\nbertujuan untuk:\na. mewujudkan penyelengg araan perlindungan Lahan\nPertanian Pangan Berkelanjutan secara terpadu dan\nberkelanjutan; dan\nb. menghasilkan data dan Informasi yang akurat, relevan, dan\ndapat dipertanggungjawabkan yang digunakan sebagai dasar\nperencanaan, penetapan, pemanfaatan, dan pengen dalian\nkawasan serta lahan dan Lahan Cadangan Pertanian Pangan\nBerkelanjutan yang dapat diakses oleh Masyarakat dan\nPemangku Kepentingan."
+   }
+  },
+  {
+   "id": "ID-H2214-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3 "
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 3 . . .\n\n\n\n\nPasal 3\n\nSistem Informasi Lahan Pertanian Pangan Berkelanjutan yang\ndiatur dalam Peraturan Pemerintah ini meliputi:\na. penyediaan data, penyeragaman data, penyimpanan dan\npengamanan data, pengolahan data, pembuatan produk\nInformasi, penyampaian produk Informasi dan penggunaan\nInformasi; dan\nb. penyelenggaraan Sistem Informasi Lahan Pertanian Pangan\nBerkelanjutan.\n\nBAB II\nPENYEDIAAN DATA PERTANIAN PANGAN BERKELANJUTAN\n\nBagian Kesatu\nUmum"
+   }
+  },
+  {
+   "id": "ID-H2214-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\n\nPenyediaan data pertanian pangan berkelanjutan dilakukan\nmelalui kegiatan:\na. inventarisasi Data Dasar pertanian pangan berkelanjutan;\ndan\nb. pengolahan Data Dasar.\n\n\nBagian Kedua\nInventarisasi Data Dasar\nPertanian Pangan Berkelanjutan\n\nParagraf 1\nUmum"
+   }
+  },
+  {
+   "id": "ID-H2214-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\n\n(1) Bupati/walikota bertanggung jawab untuk melakukan\ninventarisasi Data Dasar pertanian pangan berkelanjutan.\n(2) Hasil inventarisasi sebagaimana dimaksud pada ayat (1)\ndisampaikan kepada gubernur.\n(3) Gubernur melakukan kompilasi dan verifikasi Data Dasar\npertanian pangan berkelanjutan sebagaimana dimaksud\npada ayat (2) untuk disampaikan kepada Menteri.\n(4) Menteri . . .\n\n\n\n\n(4) Menteri/pimpinan lembaga terkait menyampaikan\nkompilasi dan verifikasi Data Dasar Lahan Pertanian\nPangan Berkelanjutan kepada Menteri.\n(5) Inventarisasi Data Dasar yang disampaikan oleh\nmenteri/pimpinan lembaga terkait atau gubernur\ndisampaikan melalui Pusat Informasi Lahan Pertanian\nPangan Berkelanjutan."
+   }
+  },
+  {
+   "id": "ID-H2214-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\n\n(1) Data Dasar merupakan bagian data lahan Sistem Informasi\nLahan Pertanian Pangan Berkelanjutan, paling sedikit\nmemuat Informasi tentang:\na. fisik alamiah;\nb. fisik buatan;\nc. kondisi sumber daya manusia dan sosial ekonomi;\nd. status kepemilikan dan/atau penguasaan tanah;\ne. luas dan lokasi lahan; dan\nf. jenis komoditas tertentu yang bersifat pangan pokok.\n(2) Data Dasar sebagaimana dimaksud pada ayat (1) dapat\ndigunakan untuk:\na. kebijakan;\nb. perencanaan; dan\nc. konsumsi publik.\n(3) Data Dasar sebagaimana dimaksud pada ayat (1)\nditetapkan oleh Menteri.\n(4) Menteri dapat menetapkan Data Dasar selain Data Dasar\nyang telah ditetapkan sebagaimana dimaksud pada ayat\n(3).\n(5) Ketentuan lebih lanjut mengenai Data Dasar selain Data\nDasar sebagaimana dimaksud pada ayat (4) diatur dengan\nPeraturan Menteri."
+   }
+  },
+  {
+   "id": "ID-H2214-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\n\nPenyediaan Data Dasar Lahan Pertanian Pangan Berkelanjutan\nsebagaimana dimaksud dalam Pasal 4 bersumber dari:\n\na. Kawasan . . .\n\n\n\n\n\na. Kawasan Pertanian Pangan Berkelanjutan yang telah\ndimuat dalam rencana tata ruang wilayah provinsi\ndan/atau kabupaten/kota;\nb. Lahan Pertanian Pangan Berkelanjutan yang telah\nditetapkan dalam rencana detail tata ruang\nkabupaten/kota;\nc. Lahan Cadangan Pertanian Pangan Berkelanjutan yang\ntelah ditetapkan di tingkat kabupaten/kota; dan/atau\nd. tanah terlantar dan subyek haknya.\n\nParagraf 2\nKawasan Pertanian Pangan Berkelanjutan"
+   }
+  },
+  {
+   "id": "ID-H2214-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n\n(1) Data Dasar fisik alamiah sebagaimana dimaksud dalam\nPasal 6 ayat (1) huruf a yang bersumber dari Kawasan\nPertanian Pangan Berkelanjutan, paling sedikit meliputi\ndata mengenai:\na. tutupan lahan;\nb. iklim;\nc. kelerengan;\nd. bentang alam;\ne. sistem lahan; dan\nf. hidrologi daerah aliran sungai, hidrogeologis, dan\nhidrometeorologis.\n(2) Data Dasar sebagaimana dimaksud pada ayat (1)\ndiwujudkan  dalam bentuk:\na. peta dasar;\nb. peta tematik; dan/atau\nc. keterangan yang dituru nkan dari data penginderaan\njauh dan survei lapangan."
+   }
+  },
+  {
+   "id": "ID-H2214-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n\nPerwujudan Data Dasar fisik alamiah sebagaimana dimaksud\ndalam Pasal 8 diperoleh dari lembaga yang menyelenggarakan\nurusan pemerintahan di bidang pemetaan."
+   }
+  },
+  {
+   "id": "ID-H2214-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10 "
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 10 . . .\n\n\n\n\n\n\nPasal 10\n\n(1) Data Da sar fisik buatan sebagaimana dimaksud dalam\nPasal 6 ayat (1)  huruf b yang bersumber dari Kawasan\nPertanian Pangan Berkelanjutan, paling sedikit meliputi\ndata:\na. prasarana jaringan irigasi yang  terdiri atas data\npengembangan dan pengelolaan jaringan irigasi yang\ndiprioritaskan untuk Lahan Pertanian Pangan\nBerkelanjutan; dan\nb. pembangunan jalan usaha tani dan/atau penyediaan\nsarana pertanian.\n\n(2) Data pengembangan dan pengelolaan jaringan irigasi\nsebagaimana dimaksud pada ayat (1) huruf a terintegrasi\nke dalam ata u mengacu pada sistem Informasi irigasi\nsesuai dengan ketentuan peraturan perundang-undangan."
+   }
+  },
+  {
+   "id": "ID-H2214-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\n\nPenyediaan Data dasar fisik buatan sebagaimana dimaksud\ndalam Pasal 10 merupakan tanggung jawab menteri yang\nmenyelenggarakan urusan pemerintahan di bi dang irigasi,\nmenteri yang menyelenggarakan urusan pemerintahan di\nbidang pertanian, pemerintah provinsi, dan pemerintah\nkabupaten/kota dalam bidang irigasi dan prasarana pertanian\nsesuai dengan kewenangannya."
+   }
+  },
+  {
+   "id": "ID-H2214-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n\nData Dasar kondisi sumber daya manu sia dan sosial ekonomi\nsebagaimana dimaksud dalam Pasal 6 ayat (1) huruf c yang\nberada di  Kawasan Pertanian Pangan Berkelanjutan, paling\nsedikit memuat data:\na. jumlah penduduk;\nb. keluarga petani dan pelaku lainnya;\nc. organisasi petani; dan\nd. organisasi masyarakat perdesaan  yang terkait."
+   }
+  },
+  {
+   "id": "ID-H2214-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  13\n\nData Dasar kondisi sumber daya manusia dan sosial ekonomi\nyang berada di  Kawasan Pertanian Pangan Berkelanjutan\nsebagaimana dimaksud dalam Pasal 12 merupakan tanggung\njawab lembaga yang menyelenggarakan urusan pemerin tahan\ndi bidang statistik."
+   }
+  },
+  {
+   "id": "ID-H2214-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14 "
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 14 . . .\n\n\n\n\nPasal 14\n\n(1) Data Dasar status kepemilikan dan/atau penguasaan\ntanah sebagaimana dimaksud dalam Pasal 6 ayat (1) huruf\nd merupakan administrasi pertanahan.\n(2) Data Dasar status kepemilikan dan/atau penguasaan\ntanah yang merupakan admin istrasi pertanahan\nsebagaimana dimaksud pada ayat (1) bersumber dari\nKawasan Pertanian Pangan Berkelanjutan, paling sedikit\nmemuat data:\na. luas tanah;\nb. batas tanah;\nc. status kepemilikan dan/atau penguasaan tanah; dan\nd. penggunaan dan pemanfaatan tanah."
+   }
+  },
+  {
+   "id": "ID-H2214-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\n\nData Dasar status kepemilikan dan/atau penguasaan tanah\nsebagaimana dimaksud dalam Pasal 14 merupakan tanggung\njawab lembaga yang menyelenggarakan urusan pemerintahan\ndi bidang pertanahan."
+   }
+  },
+  {
+   "id": "ID-H2214-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  16\n\nData Dasar luas dan lokasi lahan sebagaimana dimaksu d\ndalam Pasal 6 ayat (1) huruf e yang bersumber dari Kawasan\nPertanian Pangan Berkelanjutan, paling sedikit memuat data:\na. letak lahan;\nb. luas lahan;\nc. lokasi lahan; dan\nd. tematik lahan,\ndalam wilayah administratif pemerintahan."
+   }
+  },
+  {
+   "id": "ID-H2214-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\n\nData Dasar luas dan lo kasi lahan pada Kawasan Pertanian\nPangan Berkelanjutan sebagaimana dimaksud dalam Pasal 16\nmerupakan tanggung jawab lembaga yang menyelenggarakan\nurusan pemerintahan di bidang pertanahan."
+   }
+  },
+  {
+   "id": "ID-H2214-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18 "
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 18 . . .\n\n\n\n\n\nPasal 18\n\n(1) Data Dasar jenis komoditas tertentu yang  bersifat pangan\npokok sebagaimana dimaksud dalam Pasal 6 ayat (1) huruf\nf yang bersumber dari Kawasan Pertanian Pangan\nBerkelanjutan, paling sedikit memuat data:\na. jenis komoditas;\nb. produktivitas komoditas; dan\nc. pola tanam komoditas.\n(2) Data Dasar jenis komodita s tertentu yang bersifat pangan\npokok yang bersumber dari Kawasan Pertanian Pangan\nBerkelanjutan sebagaimana dimaksud pada ayat (1)\ndiusahakan oleh petani dan Masyarakat."
+   }
+  },
+  {
+   "id": "ID-H2214-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\n\nData Dasar jenis komoditas pangan tertentu yang bersifat\npangan pokok yang bersumber dari Kawasan Pertanian Pangan\nBerkelanjutan sebagaimana dimaksud dalam Pasal 18\nmerupakan tanggung jawab Menteri, menteri/pimpinan\ninstansi terkait, gubernur, dan bupati/walikota sesuai dengan\nkewenangannya.\n\n\nParagraf 3\nLahan Pertanian Pangan Berkelanjutan\ndan Lahan Cadangan Pertanian Pangan Berkelanjutan"
+   }
+  },
+  {
+   "id": "ID-H2214-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\n\n(1) Data Dasar sebagaimana dimaksud dalam Pasal 6 ayat (1)\nyang bersumber dari Lahan Pertanian Pangan\nBerkelanjutan dan Lahan Cadangan Pertanian Pangan\nBerkelanjutan dimutakhirkan seca ra berkala sesuai\ndengan sifat dan jenis Data Dasar lahan yang dibutuhkan.\n(2) Ketentuan mengenai Data Dasar yang bersumber dari\nKawasan Pertanian Pangan Berkelanjutan sebagaimana\ndimaksud dalam Pasal 8 sampai dengan Pasal 19 berlaku\nmutatis mutandis terhadap Data Dasar yang bersumber\ndari Lahan Pertanian Pangan Berkelanjutan dan Lahan\nCadangan Pertanian Pangan Berkelanjutan sebagaimana\ndimaksud pada ayat (1)."
+   }
+  },
+  {
+   "id": "ID-H2214-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21 "
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 21 . . .\n\n\n\n\nPasal 21\n\nData Dasar yang bersumber dari Lahan Pertanian Pangan\nBerkelanjutan dan Laha n Cadangan Pertanian Pangan\nBerkelanjutan sebagaimana dimaksud dalam Pasal 20 berupa:\na. data fisik alamiah dimutakhirkan paling sedikit 1 (satu) kali\ndalam 10 (sepuluh) tahun;\nb. data fisik buatan dimutakhirkan paling sedikit 1 (satu) kali\ndalam 5 (lima) tahun;\nc. data kondisi sumber daya manusia dan sosial ekonomi\ndimutakhirkan paling sedikit 1 (satu) kali dalam 1 (satu)\ntahun;\nd. data status pemilikan dan/atau penguasaan tanah\ndimutakhirkan paling sedikit 1 (satu) kali dalam 5 (lima)\ntahun;\ne. data luas dan lokasi laha n dimutakhirkan paling sedikit 1\n(satu) kali dalam 1 (satu) tahun; dan\nf. data jenis komoditas pangan pokok dimutakhirkan paling\nsedikit 1 (satu) kali dalam 1 (satu) tahun."
+   }
+  },
+  {
+   "id": "ID-H2214-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\n\n(1) Data Dasar Lahan Pertanian Pangan Berkelanjutan dan\nLahan Cadangan Pertania n Pangan Berkelanjutan\nsebagaimana dimaksud dalam Pasal 21 huruf a, huruf b,\nhuruf d, dan huruf e terdiri atas tipe numerik, tekstual,\ndan/atau geospasial.\n(2) Data Dasar Lahan Pertanian Pangan Berkelanjutan dan\nLahan Cadangan Pertanian Pangan Berkelanjutan\nsebagaimana dimaksud dalam Pasal 21 huruf  c dan huruf\nf  terdiri atas tipe numerik dan/atau tekstual.\n\nParagraf 4\nTanah Terlantar dan Subyek Haknya"
+   }
+  },
+  {
+   "id": "ID-H2214-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\n\n(1) Penyediaan Data Dasar Lahan Pertanian Pangan\nBerkelanjutan yang bersumber dari tanah terlantar da n\nsubyek hak sebagaimana dimaksud dalam Pasal 7 huruf d\nditetapkan oleh lembaga yang menyelenggarakan urusan\npemerintahan di bidang pertanahan.\n(2) Penetapan tanah terlantar dan subyek hak sebagaimana\ndimaksud pada ayat (1) disampaikan kepada Menteri.\n\nparagraf 5 . . .\n\n\n\n\n\nParagraf 5\nStandardisasi Data Dasar"
+   }
+  },
+  {
+   "id": "ID-H2214-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 24\n\n(1) Data Dasar Lahan Pertanian Pangan Berkelanjutan\nsebagaimana dimaksud dalam Pasal 6 wajib memenuhi\nstandar.\n(2) Standar Data Dasar Lahan Pertanian Pangan\nBerkelanjutan sebagaimana dimaksud pada ayat (1) , paling\nsedikit meliputi:\na. kesesuaian lahan\nb. luas lahan; dan\nc. tipologi lahan.\n(3) Ketentuan lebih lanjut mengenai standar Data Dasar\nLahan Pertanian Pangan Berkelanjutan sebagaimana\ndimaksud pada ayat (2) diatur dengan Peraturan Menteri\nsetelah berkoordinasi den gan menteri/pimpinan lembaga\nterkait, gubernur, dan bupati/walikota.\n\nParagraf 6\nPenyimpanan dan Pengamanan Data Dasar"
+   }
+  },
+  {
+   "id": "ID-H2214-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\n\n(1) Penyimpanan dan pengamanan Data Dasar pertanian\npangan berkelanjutan dilakukan dalam pangkalan data\nsesuai standar serta mekan isme penyimpanan dan\npengamanan data.\n(2) Penyimpanan dan pengamanan data sebagaimana\ndimaksud pada ayat (1) dilakukan dengan menggunakan\nmedia penyimpanan elektronik dan/atau media cetak.\n(3) Ketentuan lebih lanjut mengenai tata cara penyimpanan\ndan pengamanan d ata sebagaimana dimaksud pada ayat\n(1) diatur oleh Kepala Lembaga yang menyelenggarakan\nurusan pemerintahan di bidang pertanahan setelah\nberkoordinasi dengan Menteri.\n\n\nBagian Ketiga . . .\n\n\n\n\n\nBagian Ketiga\nPengolahan Data Dasar"
+   }
+  },
+  {
+   "id": "ID-H2214-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\n\n(1) Menteri melakukan p engolahan Data Dasar Lahan\nPertanian Pangan Berkelanjutan berdasarkan inventarisasi\nData Dasar sebagaimana dimaksud dalam Pasal 8 sampai\ndengan Pasal 22.\n(2) Pengolahan Data Dasar Lahan Pertanian Pangan\nBerkelanjutan sebagaimana dimaksud pada ayat (1)\ndimanfaatkan untuk:\na. perencanaan Kawasan Pertanian Pangan Berkelanjutan;\nb. penetapan Lahan Pertanian Pangan Berkelanjutan; dan\nc. penetapan Lahan Cadangan Pertanian Pangan\nBerkelanjutan.\n\n(3) Pengolahan Data Dasar Lahan Pertanian Pangan\nBerkelanjutan sebagaimana dimaksud pa da ayat (1)\ndianalisis secara terintegrasi."
+   }
+  },
+  {
+   "id": "ID-H2214-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\n\nSelain Menteri melakukan pengolahan Data Dasar Lahan\nPertanian Pangan Berkelanjutan, Menteri juga dapat menerima\nData Dasar Lahan Pertanian Pangan Berkelanjutan dari\nmenteri/pimpinan lembaga terkait, gubernur, dan\nbupati/walikota.\n\nBagian Keempat\nInformasi\n\nParagraf 1\nProduk Informasi"
+   }
+  },
+  {
+   "id": "ID-H2214-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\n\n(1) Hasil pengolahan Data Dasar sebagaimana dimaksud\ndalam Pasal 26 berupa produk Informasi.\n(2) Produk Informasi sebagaimana dimaksud pada ayat (1)\nterdiri dari tipe tekstual, numerik, dan/atau geospasial.\n(3) Produk Informasi sebagaimana dimaksud pada ayat (2)\ndisajikan dalam bentuk elektronik dan/atau media cetak."
+   }
+  },
+  {
+   "id": "ID-H2214-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29 "
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 29 . . .\n\n\n\n\nPasal 29\n\nProduk Informasi Lahan Pertanian Pangan Berkelanjutan\nsebagaimana dimaksud dalam P asal 28, paling sedikit meliputi\nInformasi:\na. Kawasan Pertanian Pangan Berkelanjutan;\nb. Lahan Pertanian Pangan Berkelanjutan; dan/atau\nc. Lahan Cadangan Pertanian Pangan Berkelanjutan."
+   }
+  },
+  {
+   "id": "ID-H2214-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\n\nKetentuan lebih lanjut mengenai bentuk dan tata cara\npenyajian pr oduk Informasi sebagaimana dimaksud dalam\nPasal 28 diatur oleh Kepala Lembaga yang menyelenggarakan\nurusan pemerintahan di bidang pertanahan setelah\nberkoordinasi dengan Menteri.\n\n\nParagraf 2\nPenyampaian Produk Informasi"
+   }
+  },
+  {
+   "id": "ID-H2214-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\n\n(1) Produk Informasi Lahan P ertanian Pangan Berkelanjutan\ndapat berupa elektronik dan/atau media cetak.\n(2) Produk Informasi Lahan Pertanian Pangan Berkelanjutan\nsebagaimana dimaksud pada ayat (1) wajib disampaikan\nsetiap tahun oleh:\na. Menteri kepada Presiden, Dewan Perwakilan Rakyat,\ndan Dewan Perwakilan Daerah;\nb. menteri/pimpinan lembaga terkait kepada Menteri;\nc. Gubernur kepada Dewan Perwakilan Rakyat Daerah\nProvinsi; dan\nd. Bupati/Walikota kepada Dewan Perwakilan Rakyat\nDaerah kabupaten/kota."
+   }
+  },
+  {
+   "id": "ID-H2214-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 32\n\nBupati/walikota sebagaimana dimaksud da lam Pasal 31 huruf\nd menyebarkan produk Informasi Lahan Pertanian Pangan\nBerkelanjutan kepada camat dan kepala desa."
+   }
+  },
+  {
+   "id": "ID-H2214-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33 "
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 33 . . .\n\n\n\n\n\nPasal 33\n\n(1) Produk Informasi Lahan Pertanian Pangan Berkelanjutan\nsebagaimana dimaksud dalam Pasal 28 dapat diakses,\npaling sedikit melalui:\na. media elektronik internet;\nb. media elektronik intranet Pusat Informasi Lahan\nPertanian Pangan Berkelanjutan nasional; dan/atau\nc. media cetak.\n(2) Produk Informasi Lahan Pertanian Pangan Berkelanjutan\nsebagaimana dimaksud pada ayat (1) disusun dal am\nformat yang tidak dapat diolah secara langsung.\n(3) Produk Informasi Lahan Pertanian Pangan Berkelanjutan\nsebagaimana dimaksud pada ayat (1) dapat diperoleh\ndalam format yang dapat diolah secara langsung dengan\nmengganti biaya pemeliharaan."
+   }
+  },
+  {
+   "id": "ID-H2214-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 34\n\nKetentuan lebih lanjut mengenai kriteria dan tata cara\npenyampaian produk Informasi Lahan Pertanian Pangan\nBerkelanjutan diatur dengan Peraturan Menteri.\n\nParagraf 3\nPenggunaan Informasi"
+   }
+  },
+  {
+   "id": "ID-H2214-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 35\n\n(1) Penggunaan Informasi merupakan kegiatan untuk\nmemperoleh manfa at langsung atau tidak langsung dari\nInformasi.\n(2) Pengguna Informasi berhak mengetahui kualitas produk\nInformasi yang diperolehnya.\n(3) Untuk menjamin kualitas produk Informasi sebagaimana\ndimaksud pada ayat (2) diperlukan penyimpanan dan\npengamanan produk Informasi yang berkelanjutan.\n(4) Ketentuan lebih lanjut mengenai tata cara penyimpanan\ndan pengamanan produk Informasi diatur dengan\nPeraturan Menteri.\n\nBAB III . . .\n\n\n\n\n\n\n\nBAB III\n\nPENYELENGGARAAN SISTEM INFORMASI\n\nBagian Kesatu\nUmum"
+   }
+  },
+  {
+   "id": "ID-H2214-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 36\n\n(1) Penyelenggaraan Sistem Informasi dan Administrasi Lahan\nPertanian Pangan Berkelanjutan dilakukan oleh Pusat\nInformasi Lahan Pertanian Pangan Berkelanjutan.\n\n(2) Pusat Informasi sebagaimana dimaksud pada ayat (1)\nmembantu Menteri dalam perlindungan Lahan Pertanian\nPangan Berkelanjutan."
+   }
+  },
+  {
+   "id": "ID-H2214-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 37\n\nPenyelenggaraan Sistem Informasi Lahan Pertanian Pangan\nBerkelanjutan dilaksanakan oleh:\na. Pemerintah;\nb. pemerintah provinsi; dan\nc. pemerintah kabupaten/kota."
+   }
+  },
+  {
+   "id": "ID-H2214-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 38\n\n(1) Penyelenggaraan Sistem Informasi Lahan Pertanian Pangan\nBerkelanjutan sebagaimana dimaksud dalam Pasal 37\nmeliputi:\na. penyelenggaraan sistem Informasi nasional;\nb. penyelenggaraan sistem Informasi provinsi; dan\nc. penyelenggaraan sistem Informasi kabupaten/kota.\n(2) Dalam melaksanakan penyelenggaraan sistem Informasi\nsebagaimana dimaksu d pada ayat (1) didukung dengan\nkegiatan pemantauan, pengendalian, dan evaluasi.\n\n\n\nBagian Kedua . . .\n\n\n\n\n\n\n\n\nBagian Kedua\nPenyelenggaraan Sistem Informasi Nasional"
+   }
+  },
+  {
+   "id": "ID-H2214-A39",
+   "no": 39,
+   "noLabel": {
+    "id": "Pasal 39"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 39\n\n(1) Penyelenggaraan sistem Informasi nasional meliputi\npenyelenggaraan Sistem Informasi Lahan Pertanian Pangan\nBerkelanjutan nasional sebagaimana dimaksud dalam\nPasal 38 ayat (1) huruf a, dilakukan oleh lembaga yang\nmenyelenggarakan urusan pemerintahan di bidang\npertanahan setelah berkoordinasi dengan Menteri.\n\n(2) Penyelenggaraan sistem Informasi nasional meliputi:\n\na. verifikasi data yang disampaikan oleh pemerintah\nprovinsi;\nb. melakukan Standardisasi Data, penyimpanan dan\npengamanan data, pengolahan data, pembuatan produk\nInformasi, serta penyampaian produk Informasi;\nc. melakukan pendistribusian produk Sistem Informasi\nLahan Pertanian Pangan Berkelanjutan; dan\nd. melakukan peninjauan ulang data dan Informasi dalam\nSistem Informasi Lahan Pertanian Pangan\nBerkelanjutan.\n\n(3) Pelaksanaan koordinasi sebagaimana dimaksud pada ayat\n(1) dilaksanakan melalui kem enterian/lembaga yang\nmenyelenggarakan urusan pemerintahan di bidang\npertanahan, statistik, dan instansi pemerintah terkait\nlainnya.\n\n\nBagian Ketiga\nPenyelenggaraan Sistem Informasi Provinsi"
+   }
+  },
+  {
+   "id": "ID-H2214-A40",
+   "no": 40,
+   "noLabel": {
+    "id": "Pasal 40"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 40\n\n(1) Penyelenggaraan sistem Informasi provinsi meliputi\npenyelenggaraan Sistem Informasi Lahan Pertanian Pangan\nBerkelanjutan di provinsi sebagaimana dimaksud dalam\nPasal 38 ayat (1) huruf b, dilakukan oleh lembaga yang\nmenyelenggarakan urusan pemerintahan di bidang\npertanahan setelah berkoordinasi dengan gubernur.\n(2) Pelaksanaan . . .\n\n\n\n\n\n(2) Pelaksanaan koordinasi sebagaimana dimaksud pada ayat\n(1) dilaksanakan melalui satuan kerja perangkat daerah\nprovinsi yang menyelenggarakan urusan pemerintahan di\nbidang tanaman pangan dan hortikultura, pemetaan,\npekerjaan umum, s tatistik, pertanahan, dan instansi\nterkait lainnya.\n(3) Penyelenggaraan sistem Informasi provinsi meliputi:\na. verifikasi penyediaan Data Dasar Lahan Pertanian\nPangan Berkelanjutan yang diperoleh dari\nkabupaten/kota;\nb. pendistribusian produk sistem Informasi; dan\nc. verifikasi pemutakhiran data.\n\nBagian Keempat\nPenyelenggaraan Sistem Informasi Kabupaten/Kota"
+   }
+  },
+  {
+   "id": "ID-H2214-A41",
+   "no": 41,
+   "noLabel": {
+    "id": "Pasal 41"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 41\n\n(1) Penyelenggaraan sistem Informasi kabupaten/kota meliputi\npenyelenggaraan Sistem Informasi Lahan Pertanian Pangan\nBerkelanjutan sebagaimana dimaksud dalam Pasal 38 ayat\n(1) huruf c dilakukan oleh lembaga yang menyelenggarakan\nurusan pemerintahan di bidang pertanahan di\nkabupaten/kota setelah berkoordinasi dengan\nbupati/walikota.\n(2) Pelaksanaan koordinasi sebagaimana dimaksud pada ayat\n(1) dilaksanakan melalu i satuan kerja perangkat daerah\nkabupaten/kota yang menyelenggarakan urusan\npemerintahan di bidang tanaman pangan dan hortikultura,\npemetaan, pekerjaan umum, statistik, pertanahan, dan\ninstansi terkait lainnya.\n(3) Penyelenggaran sistem Informasi kabupaten/kota meliputi:\na. penyediaan Data Dasar Lahan Pertanian Pangan\nBerkelanjutan;\nb. pendistribusian produk sistem Informasi; dan\nc. pemutakhiran penyediaan Data Dasar Lahan Pertanian\nPangan Berkelanjutan\n\nBagian Kelima . . .\n\n\n\n\n\n\n\nBagian Kelima\nPemantauan, Pengendalian dan Evaluasi"
+   }
+  },
+  {
+   "id": "ID-H2214-A42",
+   "no": 42,
+   "noLabel": {
+    "id": "Pasal 42"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 42\n\n(1) Menteri, menteri/pimpinan lembaga terkait, gubernur, dan\nbupati/walikota wajib melakukan pemantauan data dan\nInformasi serta pengendalian dan evaluasi Sistem Informasi\nLahan Pertanian Pangan Berkelanjutan.\n(2) Pemantauan data dan Informas i sebagaimana dimaksud\npada ayat (1) dilakukan dengan membandingkan antara\ndata dan Informasi saat ini dengan keadaan sebelumnya\nsecara berkala.\n(3) Hasil pemantauan data dan Informasi sebagaimana\ndimaksud pada ayat (2) dituangkan dalam dokumen\npemantauan."
+   }
+  },
+  {
+   "id": "ID-H2214-A43",
+   "no": 43,
+   "noLabel": {
+    "id": "Pasal 43"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 43\n\n(1) Pengendalian dan evaluasi Sistem Informasi Lahan\nPertanian Pangan Berkelanjutan dilakukan melalui\npembandingan Informasi secara berkala terhadap:\na. tutupan Lahan Pertanian Pangan Berkelanjutan;\ndan/atau\nb. pemilikan dan penguasaan tanah pada Lahan Pert anian\nPangan Berkelanjutan.\n(2) Hasil pengendalian dan evaluasi sebagaimana dimaksud\npada ayat (1) dituangkan dalam:\na. neraca tutupan lahan; dan/atau\nb. neraca pemilikan dan penguasaan tanah pada Lahan\nPertanian Pangan Berkelanjutan."
+   }
+  },
+  {
+   "id": "ID-H2214-A44",
+   "no": 44,
+   "noLabel": {
+    "id": "Pasal 44"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 44\n\n(1) Bupati/walikota m enyampaikan hasil pemantauan\nsebagaimana dimaksud dalam Pasal 42 ayat (3) dan hasil\npengendalian dan evaluasi sebagaimana dimaksud dalam\nPasal 43 ayat (2) secara berkala 1 (satu) kali dalam 1 (satu)\ntahun kepada gubernur.\n(2) Gubernur . . .\n\n\n\n\n(2) Gubernur menyampaikan penggabungan hasil pemantauan\nsebagaimana dimaksud pada ayat (1) secara berkala 1\n(satu) kali dalam 1 (satu) tahun kepada Menteri.\n\nBagian Keenam\nPublikasi"
+   }
+  },
+  {
+   "id": "ID-H2214-A45",
+   "no": 45,
+   "noLabel": {
+    "id": "Pasal 45"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 45\n\n(1) Dalam penyelenggaraan Sistem Informasi Lahan Pertanian\nPangan Berkelanjutan, Peme rintah, pemerintah provinsi,\ndan pemerintah kabupaten/kota  wajib mempublikasikan\nproduk Informasi dan Sistem Informasi Lahan Pertanian\nPangan Berkelanjutan kepada para Pemangku Kepentingan\nsecara berkala dan berkelanjutan.\n(2) Publikasi sebagaimana dimaksud pada ayat (1) dilakukan\nmelalui media elektronik dan/atau media cetak.\n\nBAB IV\n\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H2214-A46",
+   "no": 46,
+   "noLabel": {
+    "id": "Pasal 46"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 46\n\nPeraturan Pemerintah ini mulai berlaku setalah 1 (satu) tahun\nterhitung sejak tanggal diundangkan.\n\n\n\n\n\nAgar . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\nAgar setiap orang meng etahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran\nNegara Republik Indonesia.\n\n\nDitetapkan di Jakarta\npada tanggal 23 Februari 2012\nPRESIDEN REPUBLIK INDONESIA,\n\n                          ttd.\n\nDR. H. SUSILO BAMBANG YUDHOYONO\n\n\nDiundangkan di Jakarta\npada tanggal 23 Februari 2012\nMENTERI HUKUM DAN HAK ASASI MANUSIA\n                         REPUBLIK INDONESIA,\n\n                             ttd.\n\n                 AMIR SYAMSUDIN\n\n\nSalinan sesuai dengan aslinya\n KEMENTERIAN SEKRETARIAT NEGARA RI\n     Asisten Deputi Perundang-undangan\n                Bidang Perekonomian,\n\n\n\n\n                Setio Sapto Nugroho\n\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2012 NOMOR 46\n\nPENJELASAN\nATAS\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nNOMOR 25 TAHUN 2012\nTENTANG\nSISTEM INFORMASI LAHAN PERTANIAN PANGAN BERKELANJUTAN\n\nI. UMUM\n\nSesuai dengan Pasal 60 Undang -Undang Nomor 41 Tahun 2009 tentang\nPerlindungan Lahan Pertanian Pangan Berkelanjutan yang merupakan\npedoman untuk penyusunan Sistem Informasi Lahan Pertanian Pangan\nBerkelanjutan dalam rangka menunjang perlindungan Lahan Pertanian\nPangan Berkelanjutan sebagai upaya untuk mewujudkan kemandirian,\nketahanan, dan kedaulatan pangan nasional. Dalam mencapai tujuan\ntersebut, perlu memperhatikan dinamika pembangunan yang sedang\nberkembang, amanat dari undang undang ini sendiri, serta prediksi dan\narah pembangunan pertanian jangka panjang.\n\nPenyusunan Sistem Informasi Lahan Pertanian Pangan Berkelanjutan\nmemperhatikan di namika pembangunan yang sedang berkembang antara\nlain meliputi tantangan globalisasi, pemanasan global, otonomi dan aspirasi\ndaerah, pembangunan pertanian di luar Jawa dan perlindungan Lahan\nPertanian Pangan Berkelanjutan terutama di Pulau Jawa dan Bali, s erta\npelestarian lingkungan hidup yang berkelanjutan. Untuk mengantisipasi\ndinamika pembangunan tersebut maka upaya pembangunan pertanian\nharus terintegrasi dengan pembangunan sektor lainnya. Di lain pihak,\ndinamika pembangunan di segala sektor membutuhkan  lahan sebagai\nmedia, pertambahan penduduk sekitar 1,5% (satu koma lima persen) per\ntahun, kondisi kesehatan masyarakat semakin baik, tingkat harapan hidup\nmanusia semakin meningkat yang bermuara pada penyediaan pangan yang\nlebih besar. Di samping itu, kom petisi pemanfaatan ruang dan alih fungsi\nlahan pertanian sulit dihindari sehingga pengaturan Sistem Informasi\nLahan Pertanian Pangan Berkelanjutan dipandang sangat penting dan\nstrategis dalam rangka mengantisipasi dan mengatasi permasalahan\nketersediaan pangan.\n\nSistem . . .\n\n\n\nSistem Informasi Lahan Pertanian Pangan Berkelanjutan memuat data\ntentang  : (a) Kawasan Pertanian Pangan Berkelanjutan; (b) Lahan Pertanian\nPangan Berkelanjutan; (c) Lahan Cadangan Pertanian Pangan\nBerkelanjutan.\n\nSistem Informasi Kawa san Pertanian Pangan Berkelanjutan difokuskan\nuntuk mendapatkan data tentang kawasan pertanian di kawasan perdesaan\nyang merupakan dominasi pembangunan pertanian pada umumnya. Sistem\nInformasi Kawasan Pertanian Pangan Berkelanjutan merupakan bagian dari\npola ruang budidaya pertanian khususnya tanaman pangan yang menjadi\nbagian dari rencana tata ruang nasional, provinsi dan kabupaten/kota.\nPenetapan Kawasan Pertanian Pangan Berkelanjutan ini menjadi bagian\ndari Rencana Tata Ruang Wilayah Nasional, Provinsi d an Kabupaten/Kota\nsebagai wujud dari jaminan tersedianya Kawasan Pertanian Pangan\nBerkelanjutan. Mengenai Informasi ini akan diatur lebih rinci dan menjadi\nbagian dari Rencana Tata Ruang Wilayah Provinsi.\n\nSistem Informasi Lahan Pertanian Pangan Berkelanj utan difokuskan untuk\nmendapatkan data dan Informasi serta mendistribusikannya kepada\nMasyarakat dan para Pemangku Kepentingan untuk diakses sebagai dasar\ndalam rencana pembangunan daerah dan pembangunan pertanian pangan\nberkelanjutan. Data yang dibutuhkan dalam sistem Informasi ini sekurang -\nkurangnya meliputi data dan Informasi tentang: (a) fisik alamiah; (b) fisik\nbuatan; (c) kondisi sumber daya manusia dan sosial ekonomi Masyarakat;\n(d) status kepemilikan dan penguasaan tanah; (e)  luas dan lokasi; (f) j enis\nkomoditas tertentu yang bersifat pangan pokok. Data dan Informasi di atas\ndisediakan dan menjadi tanggungjawab kementerian dan/atau lembaga\nyang membidangi peta tematik dan spasial, penyediaan data dan Informasi\ntentang infrastruktur irigasi dan rekla masi rawa oleh Kementerian\nPekerjaan Umum dan Kementerian Pertanian, data dan Informasi tentang\nkondisi sumber daya manusia penerima manfaat dan sosial ekonominya\noleh Badan Pusat Statistik, status kepemilikan dan penguasaan tanah serta\ntata guna lahan ole h Badan Pertanahan Nasional, luas dan lokasi serta\njenis komoditas pangan pokok oleh Kementerian Pertanian. Penyediaan dan\ntanggung jawab data dan Informasi di atas dikoordinasikan oleh Menteri\ndalam rangka perlindungan Lahan Pertanian Pangan Berkelanjutan  melalui\nsuatu lembaga berupa Pusat Informasi Lahan Pertanian Pangan\nBerkelanjutan.\n\nSistem Informasi lahan cadangan merupakan bagian dari Sistem Informasi\nLahan Pertanian Pangan Berkelanjutan yang difokuskan menyediakan\nlahan pengganti apabila terjadi ali h fungsi Lahan Pertanian Pangan\nBerkelanjutan yang telah ditetapkan. Lahan cadangan sebagai lahan\npengganti  berasal  dari  lahan  terlantar  dan  atau lahan bekas hutan yang\n\ntelah . . .\n\n\n\ntelah dilepaskan. Lahan terlantar sebagai lahan cadangan diperoleh dari\nBadan Pertanahan Nasional berupa sebaran dan luas di masing -masing\nprovinsi dan kabupaten/kota.  Sedangkan lahan bekas kawasan hutan\ndiperoleh dari Kementerian Kehutanan berupa lahan yang telah\ndicadangkan dan dilepaskan dari kawasan hutan untuk pemba ngunan\npertanian. Data lahan ini meliputi sebaran dan luas di masing -masing\nprovinsi dan kabupaten/kota. Atas dasar sebaran dan luas lahan cadangan\nsebagai lahan pengganti dimaksud akan dievaluasi berdasarkan atas\nkesesuaian lahannya sebagai bahan pertimba ngan untuk ditetapkan\nsebagai Lahan Cadangan Pertanian Pangan Berkelanjutan. Mekanisme\nperubahan lahan cadangan menjadi Lahan Pertanian Pangan Berkelanjutan\nmerupakan tanggung jawab dari pihak yang melakukan alih fungsi Lahan\nPertanian Pangan Berkelanjutan  sesuai dengan Undang -Undang Nomor 41\nTahun 2009 tentang tentang Perlindungan Lahan Pertanian Pangan\nBerkelanjutan.\n\nInformasi tentang kawasan, lahan dan Lahan Cadangan Pertanian Pangan\nBerkelanjutan akan dikoordinasikan dan dilaporkan oleh Pemerintah,\npemerintah provinsi, pemerintah kabupaten/kota berturut -turut kepada\nDewan Perwakilan Rakyat dan Dewan Perwakilan Daerah, dewan\nperwakilan rakyat daerah provinsi dan dewan perwakilan rakyat daerah\nkabupaten/kota sesuai dengan kewajiban masing -masing dan dilak ukan\nsecara berjenjang dan berkelanjutan.\n\nII. PASAL DEMI PASAL\n\nPasal 1\n Cukup jelas.\nPasal 2\nHuruf a\n Cukup jelas.\nHuruf b\nYang dimaksud “ akurat, relevan, dan dapat\ndipertanggungjawabkan” adalah data yang diperoleh atas dasar\nhasil pengukuran yang teliti, te rkait dengan substansi data dan\nInformasi tentang Lahan Pertanian Pangan Berkelanjutan serta\ndiperoleh dari institusi yang berkompeten untuk menerbitkannya.\nPasal 3\n Cukup jelas.\n\nPasal 4 . . .\n\n\n\n\nPasal 4\nCukup jelas.\nPasal 5\n Cukup jelas.\nPasal 6\n Ayat (1)\nHuruf a\nCukup jelas.\nHuruf b\nCukup jelas.\nHuruf c\nYang dimaksud dengan “ kondisi sumber daya manusia”\nmeliputi jumlah penduduk, keluarga petani dalam kelompok\ntani dan/atau gabungan kelompok tani,  pelaku usaha\ndalam bidang pertanian pangan dan/atau pelaku lainnya\nyang bergerak dalam sistem usaha agribisnis pertanian\npangan.\n\nYang dimaksud dengan “kondisi sosial ekonomi” meliputi\ntingkat produktivitas usaha pertanian tanaman pangan,\npendapatan petani dari usaha tani, pendapatan petani dari\nluar usaha tani ta naman pangan, organisasi petani serta\norganisasi perdesaan lain yang terkait.\n\nHuruf d\nCukup jelas.\nHuruf e\nCukup jelas.\nHuruf f\nCukup jelas.\n\n Ayat (2)\nCukup jelas.\n Ayat (3)\nCukup jelas.\n\nAyat (4) . . .\n\n\n\nAyat (4)\nYang dimaksud dengan “Data Dasar selain Da ta Dasar yang telah\nditetapkan” adalah data yang dapat diperlukan akibat terjadinya\nsesuatu perubahan bentang muka lahan atau akibat perubahan\niklim.\n\nAyat (5)\nCukup jelas.\nPasal 7\nCukup jelas.\nPasal 8\n Ayat (1)\nHuruf a\nYang dimaksud dengan “tutupan lahan”  adalah materi fisik\nyang ada pada permukaan bumi yang diperoleh dari\nInformasi hasil survei lapangan dan analisis citra\npenginderaan jauh.\n\nHuruf b\nCukup jelas.\nHuruf c\nCukup jelas.\nHuruf d\nCukup jelas.\nHuruf e\nCukup jelas.\nHuruf f\n Cukup jelas.\n Ayat (2)\nHuruf a\nYang dimaksud “Peta Dasar” adalah peta yang diturunkan\ndari data penginderaan jauh dan survei lapangan  serta\nmemuat Informasi dasar seperti batas administrasi,\nketinggian dan kelerengan, penggunaan lahan pada saat\npeta diterbitkan, koordinat geog rafis dan dibuat dalam skala\n1:10.000 atau lebih besar dan/atau disesuaikan dengan\nkedalaman skala dalam rencana tata ruang.\n\nHuruf b . . .\n\n\n\nHuruf b\nYang dimaksud “peta tematik” adalah peta yang memuat\nInformasi dasar dan Informasi yang dibuat sesuai dengan\nkebutuhan dalam rangka penyediaan data, pengolahan data\ndan pembuatan produk sistem Informasi lahan pangan\nberkelanjutan. Skala yang digunakan adalah adalah 1:\n10.000 atau lebih besar dan/atau disesuaikan dengan\nkedalaman skala dalam tata ruang.\n\nHuruf c\nCukup jelas.\nPasal 9\n Cukup jelas.\nPasal 10\nAyat (1)\nHuruf a\nYang dimaksud dengan “prasarana jaringan irigasi” meliputi\npembangunan, operasi dan pemeliharaan, serta rehabilitasi\nirigasi, reklamasi rawa pasang surut dan lebak, dan non\nirigasi sesuai dengan kewenangannya sebagaimana\ndimaksud dalam ketentuan peraturan perundang-undangan.\n\nHuruf b\nYang dimaksud dengan “pembangunan jalan usaha tani\ndan/atau penyediaan sarana pertanian” adalah dukungan\npemerintah kepada petani dalam hal petani tidak dapat\nmembiayainya antara lain jalan produksi, jalan usaha tani,\nteknis konservasi tanah dan air, serta sarana produksi\nlainnya yang dibutuhkan seperti pupuk, benih, pestisida,\nlantai jemur serta alat dan mesin pertanian dalam rangka\nmelindungi Lahan Pertanian Pangan Berkelanjutan.\nAyat (2)\n Cukup jelas.\nPasal 11\n Cukup jelas.\nPasal 12\nHuruf a\nCukup jelas.\nHuruf b . . .\n\n\n\n\nHuruf b\nYang dimaksud dengan “pelaku lainnya” adalah organisasi\nmasyarakat di perdesaan yang terkait selain organisasi petani\n(kelompok tani dan/atau Perkumpulan Petani Pemakai Air), seperti\nkarang taruna, program kesejahteraan keluarga, organisasi wanita\ntani dan lain-lain.\n\nHuruf c\n  Cukup jelas.\nHuruf d\n  Cukup jelas.\nPasal 13\nCukup jelas.\nPasal 14\nAyat (1)\nYang dimaksud dengan data “status kepemilikan  dan/atau\npenguasaan tanah” adalah data status kepemilikan, penguasaan,\npenggunaan, dan pemanfaatan tanah.\n\n Ayat (2)\nCukup jelas.\nPasal 15\n Cukup jelas.\nPasal 16\n Cukup jelas.\nPasal 17\n Cukup jelas.\nPasal 18\nAyat (1)\nHuruf a\nYang dimaksud dengan “jenis k omoditas” adalah jenis\ntanaman pangan dominan yang diusahakan pada kawasan\ntersebut, misalnya: padi, jagung, kedele, ubi kayu, ubi jalar.\n\n\nHuruf b . . .\n\n\n\nHuruf b\nYang dimaksud dengan “produktivitas komoditas” adalah\nhasil jenis tanaman pangan rata -rata per  hektar yang\ndiperoleh pada suatu kawasan tertentu yang ditetapkan oleh\ninstitusi yang berwenang.\n\nHuruf c\nYang dimaksud dengan “pola tanam komoditas” adalah tata\nurutan pertanaman komoditas yang telah diatur dalam\nsuatu kurun waktu tertentu dalam rangka p emanfaatan\nsumber daya alam secara efektif dan efisien yang ditetapkan\noleh pemerintah daerah.\n Ayat (2)\n  Cukup jelas.\nPasal 19\n Cukup jelas.\nPasal 20\n Cukup jelas.\nPasal 21\n Cukup jelas.\nPasal 22\nCukup jelas.\nPasal 23\nCukup jelas.\nPasal 24\nAyat (1)\nCukup jelas.\nAyat (2)\nHuruf a\nYang dimaksud dengan “kesesuaian lahan” adalah tingkat\nkesuburan tanah yang diukur dari kesuburan secara fisik,\nkimia, kelerengan, dan bentang muka lahan yang sesuai\ndengan komoditas tanaman pangan.\n\n  Huruf b\nCukup jelas.\nHuruf c …\n\n\n\nHuruf c\nYang dimaksud dengan “tipologi lahan” adalah kelas\nkesesuaian lahan berdasarkan ketersediaan sumber air\nuntuk tanaman tersebut, meliputi : irigasi, rawa pasang\nsurut dan/atau lebak dan non irigasi.\nAyat (3)\nCukup jelas.\nPasal 25\n Ayat (1)\nYang dimaksud dengan “penyimpanan dan pengamanan Data\nDasar” adalah proses menempatkan data ditempat yang tepat\nsehingga tidak rusak baik secara fisik maupun elektronik.\n\n Ayat (2)\nCukup jelas.\n Ayat (3)\nCukup jelas.\nPasal 26\n Ayat (1)\nYang dimaksud de ngan “pengolahan Data Dasar” adalah proses\nyang dilakukan untuk pemeriksaan, pembersihan, perubahan, dan\npemodelan data dengan tujuan menghasilkan Informasi yang\nberguna berkaitan dengan penarikan kesimpulan dan pengambilan\nkeputusan.\n\n Ayat (2)\nCukup jelas.\n Ayat (3)\nCukup jelas.\n\nPasal 27\n Cukup jelas.\n\n\nPasal 28 . . .\n\n\n\n\n\nPasal 28\n Ayat (1)\nYang dimaksud dengan “produk Informasi” adalah hasil\npemrosesan tumpang tindih data spasial yang terdiri dari data fisik\nalamiah, fisik buatan, kondisi sumber daya manus ia dan sosial\nekonomi masyarakat, status kepemilikan dan penguasaan tanah,\nluas dan lokasi pada Lahan Pertanian Pangan Berkelanjutan.\n\n Ayat (2)\nskala produk Informasi yang memiliki bentuk geospasial terdiri\ndari:\n\na. 1: 100.000 untuk produk sistem Informasi tingkat provinsi;\nb. 1: 50.000 untuk produk sistem Informasi kabupaten; dan\nc. 1: 25.000 untuk produk sistem Informasi tingkat kota.\n\n Ayat (3)\n  Cukup jelas.\nPasal 29\n Cukup jelas.\nPasal 30\n Cukup jelas.\nPasal 31\n Ayat (1)\nYang dimaksud dengan “produk Infor masi” adalah keluaran\nInformasi tentang Lahan Pertanian Pangan Berkelanjutan yang\ndapat dipublikasikan kepada Pemangku Kepentingan.\n\n Ayat (2)\nCukup jelas.\nPasal 32\n Cukup jelas.\nPasal 33\nAyat (1)\nHuruf a\nYang dimaksud dengan “media elektronik internet” a dalah\njaringan perangkat lunak dan jaringan perangkat keras yang\nsaling terhubung dalam sistem global yang dapat diakses\noleh pengguna Informasi di seluruh dunia.\nHuruf b . . .\n\n\n\n\nHuruf b\nYang dimaksud dengan “media elektronik intranet” adalah\njaringan perangkat lunak dan jaringan perangkat keras yang\ndapat diakses oleh pengguna Informasi secara internal\ndalam pusat sistem Informasi.\n\nHuruf c\nCukup jelas.\n Ayat (2)\n  Cukup jelas.\n Ayat (3)\n  Cukup jelas.\nPasal 34\n Cukup jelas.\nPasal 35\n Ayat (1)\nYang dimaksud  dengan “penggunaan Informasi” adalah\nmerupakan kegiatan untuk memanfaatkan secara langsung\nmaupun tidak langsung suatu Informasi sesuai dengan kebutuhan\npengguna.\n\nAyat (2)\n  Cukup jelas.\nAyat (3)\n  Cukup jelas.\nAyat (4)\n  Cukup jelas.\nPasal 36\nCukup jelas.\nPasal 37\nCukup jelas.\nPasal 38\n Cukup jelas.\nPasal 39 . . .\n\n\n\n\nPasal 39\n Cukup jelas.\nPasal 40\n Cukup jelas.\nPasal 41\n Cukup jelas.\nPasal 42\n Cukup jelas.\nPasal 43\n Cukup jelas.\nPasal 44\nCukup jelas.\nPasal 45\nCukup jelas.\nPasal 46\n Cukup jelas.\n\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 5283"
+   }
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "id": "PH-H15878",
+ "title": {
+  "zh": null,
+  "en": "An Act to Provide for the Establishment of three Leper Colonies in Luzon and to Appropriate the Sum of Five Hundred thousand Pesos for the",
+  "orig": "An Act to Provide for the Establishment of three Leper Colonies in Luzon and to Appropriate the Sum of Five Hundred thousand Pesos for the"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1936-11-09",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 161",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1111,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00161_1936_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00161_1936_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H15878-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "There is hereby appropriated, out of any funds in the Philippine Treasury not otherwise\nappropriated, the sum of five hundred thousand pesos to be spent under the authority of the Secretary of\nPublic Instruction for the purpose of establishing three leper colonies, one near the City of Manila, another in\nthe Cagayan Valley, and another in the Ilocos region, for maintenance, treatment, and hospitalization of"
+   }
+  },
+  {
+   "id": "PH-H15878-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The Secretary of Public Instruction is hereby authorized to select sites preferably on public lands\nfor the three leper colonies and, upon the establishment of such colonies, he shall prescribe the necessary rules\nand regulations for the administration and management of the colonies, and shall appoint the necessary\npersonnel and fix their compensation.\nThe Secretary of Public Instruction shall render, through the President of the Philippines, a complete report of\nall actions taken in accordance with this Act to the National Assembly within the first ten days of the next\nregular session."
+   }
+  },
+  {
+   "id": "PH-H15878-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on January first, nine-teen hundred and thirty-seven.\nApproved, November 9, 1936."
+   }
+  }
+ ]
+}

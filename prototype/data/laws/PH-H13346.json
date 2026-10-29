@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13346",
+ "title": {
+  "zh": null,
+  "en": "An Act to Appropriate the Sum of thirty-Five thousand Pesos, or So Much thereof as May Be Necessary, for the Purchase, Installation, and Operation of Two Machines for the Promotion of the Maguey Industry.",
+  "orig": "An Act to Appropriate the Sum of thirty-Five thousand Pesos, or So Much thereof as May Be Necessary, for the Purchase, Installation, and Operation of Two Machines for the Promotion of the Maguey Industry."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1917-03-09",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2696",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 569,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1917/act_2696_1917.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02696_1917_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02696_1917_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13346-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "For the purpose of promoting the maguey industry, there is hereby appropriated, out of any funds\nin the Insular Treasury not otherwise appropriated, the sum of thirty-five thousand pesos, for the purchase,\noperation during the first year, and any other additional expenses that may be necessary in connection with the\ninstallation of two maguey-cleaning machines, to be managed by the Director of Agriculture, subject to the\ndirection and control of the Secretary of Agriculture and Natural Resources."
+   }
+  },
+  {
+   "id": "PH-H13346-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, March 9, 1917."
+   }
+  }
+ ]
+}

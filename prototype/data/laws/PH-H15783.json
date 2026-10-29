@@ -1,0 +1,72 @@
+{
+ "id": "PH-H15783",
+ "title": {
+  "zh": null,
+  "en": "An Act Providing for the Verification Free of Charge By Justices of the Peace as Notaries Ex Officio, and for the Registration Free of Charge By Registers of Deeds, of Instruments Concerning Agricultural or Crop Loans Not Exceeding Two Hundred Pesos Made to Small Farmers By the Philippine National Bank.",
+  "orig": "An Act Providing for the Verification Free of Charge By Justices of the Peace as Notaries Ex Officio, and for the Registration Free of Charge By Registers of Deeds, of Instruments Concerning Agricultural or Crop Loans Not Exceeding Two Hundred Pesos Made to Small Farmers By the Philippine National Bank."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1936-10-22",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 66",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 678,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00066_1936_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00066_1936_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H15783-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Any justice of the peace, in his capacity as notary public ex officio, shall render service free of\ncharge of to any person applying for an agricultural or crop loan not exceeding two hundred pesos from the\nPhilippine National Bank either in administering the oath or in the acknowledgment of instruments relative to"
+   }
+  },
+  {
+   "id": "PH-H15783-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Any register of deeds shall make proper entry in the books and records of his office, free of\ncharge, of any instrument relative to agricultural or crop loans not exceeding two hundred pesos made to any\nperson by the Philippine National Bank."
+   }
+  },
+  {
+   "id": "PH-H15783-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect as provided in section eleven of the Revised Administrative Code.\nApproved, October 22, 1936."
+   }
+  }
+ ]
+}

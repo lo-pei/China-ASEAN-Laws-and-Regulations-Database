@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13294",
+ "title": {
+  "zh": null,
+  "en": "An Act Amending Act Numbered Eleven Hundred and Twenty, as Amended, and for Other Purposes.",
+  "orig": "An Act Amending Act Numbered Eleven Hundred and Twenty, as Amended, and for Other Purposes."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1916-02-24",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2642",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 924,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1916/act_2642_1916.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02642_1916_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02642_1916_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13294-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section fifteen of Act Numbered Eleven hundred and twenty is hereby amended to read as\n\"Section 15. The Government hereby reserves the title to each and every parcel of land sold under the\nprovisions of this Act until the full payment of all installments of purchase money and interest by the\npurchaser has been made, and any sale or incumbrance made by him shall be invalid as against the\nGovernment of the Philippine Islands and shall be in all respects subordinate to its prior claim.\n\"The rights of possession and purchase acquired by certificates of sale signed under the provisions hereof by\npurchasers of friar lands, pending final payment and the issuance of title, shall be considered as personal\nproperty for -the purposes of serving as security for mortgages, and shall be considered as such in judicial\nproceedings relative to such security.\""
+   }
+  },
+  {
+   "id": "PH-H13294-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, February 24, 1916."
+   }
+  }
+ ]
+}

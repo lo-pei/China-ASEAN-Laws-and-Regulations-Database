@@ -1,0 +1,336 @@
+{
+ "id": "ID-H2659",
+ "title": {
+  "zh": "举办贸易部环境的信息与通信技术法",
+  "en": "Organisation technology information and communication in environment ministry trade Law",
+  "id": "Penyelenggaraan teknologi informasi dan komunikasi di lingkungan kementerian perdagangan",
+  "orig": "Penyelenggaraan Teknologi Informasi Dan Komunikasi Di Lingkungan Kementerian Perdagangan",
+  "vi": "Luật Tổ chức công nghệ thông tin dan truyền thông tại môi trường bộ thương mại",
+  "th": "พระราชบัญญัติ จัด เทคโนโลยี ข้อมูล dan การสื่อสาร ใน สิ่งแวดล้อม กระทรวง การค้า",
+  "ms": "Akta Penganjuran teknologi informasi dan komunikasi di lingkungan kementerian perdagangan"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02b",
+ "language": "id",
+ "level": "law",
+ "category": "02_民商事与经济法",
+ "status": "active",
+ "promulgatedDate": "2017",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "-",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 21,
+ "chars": 52801,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": null
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\02_民商事与经济法\\印尼_文本_2017_Penyelenggaraan Teknologi Informasi Dan Komunikasi Di Lingkungan Kementerian Perdagangan.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 21 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H2659-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\nDalam Peraturan Menteri ini yang dimaksud dengan:\n1. Penyelenggaraan Teknologi Informasi dan Komunikasi\nyang selanjutnya disebut e-Government adalah\npemanfaatan teknologi informasi dan komunikasi dalam\nproses pemerintahan.\n2. Sistem Informasi adalah kesatuan komponen yang terdiri\natas lembaga, sumber daya manusia, perangkat keras,\nperangkat lunak, substansi data dan informasi yang\nterkait satu sama lain dalam satu mekanisme kerja\nuntuk mengelola data dan informasi.\n3. Teknologi Informasi dan Komunikasi yang selanjutnya\ndisingkat TIK adalah suatu teknik untuk\nmengumpulkan, menyiapkan, menyimpan, memproses,\nmengumumkan, \t menganalisis, \t dan/atau\nmenyebarluaskan informasi.\n4. Data adalah kumpulan fakta berupa angka, huruf,\ngambar, suara, peta, atau citra tentang karakteristik\natau ciri-ciri suatu objek.\n5. Data Perdagangan adalah data substansi Kementerian\nPerdagangan yang digunakan dalam rangka mendukung\npengambilan kebijakan dan pengendalian perdagangan.\n6. Data Administratif adalah data yang bersifat\nnonsubstansi yang digunakan dalam rangka mendukung\nkegiatan \t administratif/ nonsubstansi \t Kementerian\nPerdagangan, di luar Data Perdagangan.\n7. Informasi adalah gabungan, rangkaian, dan analisis data\nyang berbentuk angka, huruf, gambar, suara, peta, atau\ncitra yang telah diolah, yang mempunyai arti, nilai dan\nmakna tertentu.\n8. Informasi Perdagangan adalah gabungan, rangkaian, dan\nanalisis Data Perdagangan yang berbentuk angka, huruf,\ngambar, suara, peta, atau citra yang telah diolah, yang\nmempunyai arti, nilai, dan makna tertentu dalam rangka\nmendukung pengambilan kebijakan dan pengendalian\nperdagangan.\n9. Informasi Administratif adalah gabungan, rangkaian, dan\nanalisis Data Administratif yang berbentuk angka, huruf,\ngambar, suara, peta, atau citra yang telah diolah, yang\nmempunyai arti, nilai, dan makna tertentu dalam rangka\nmendukung \t kegiatan \t administratif/ nonsubstansi\nKementerian Perdagangan, di luar Informasi\nPerdagangan.\n10. Infrastruktur Teknologi Informasi dan Komunikasi yang\nselanjutnya disebut Infrastruktur TIK adalah perangkat\nkeras, perangkat lunak sistem operasi dan Aplikasi, data\ncenter serta fasilitas penunjang lainnya, untuk\nmendukung penyelenggaraan e-Government.\n11. Infrastruktur Teknologi Informasi dan Komunikasi\nKementerian Perdagangan yang selanjutnya disebut\nInfrastruktur TIK Kementerian Perdagangan adalah\nperangkat keras jaringan dan server, perangkat lunak\nAplikasi bidang perdagangan (substansi), perangkat\nlunak Aplikasi pendukung yang bersifat nonsubstansi\ndan/atau administratif perkantoran, anti virus, data\ncenter, serta fasilitas pendukung lainnya yang memiliki\nkarakteristik multi user serta keterkaitan antar unit kerja\nuntuk mendukung penyelenggaraan e-Government.\n12. Infrastruktur Teknologi Informasi dan Komunikasi Unit\nKerja yang selanjutnya disebut Infrastruktur TIK Unit\nKerja adalah perangkat keras pengolah data personal\n(nonjaringan), perangkat lunak sistem operasi dan\npendukung pengolah data personal di luar Infrastruktur\nTIK Kementerian Perdagangan.\n13. Pusat Data yang selanjutnya disebut Data Center adalah\nsuatu fasilitas yang digunakan untuk menempatkan\nsistem komputer dan komponen terkaitnya, untuk\nkeperluan penempatan, penyimpanan, pengolahan, dan\npengamanan data.\n14. Pusat Pemulihan Bencana (Disaster Recovery Center)\nadalah fasilitas sistem cadangan (backup system) Data\nCenter yang terdiri atas perangkat keras, perangkat\nlunak, prosedur, dan tim pengelola untuk mendukung\nkegiatan operasional Kementerian Perdagangan secara\nberkesinambungan ketika Data Center mati/rusak\nkarena bencana.\n15. Perangkat Lunak Aplikasi yang selanjutnya disebut\nAplikasi adalah komponen Sistem Informasi yang\ndigunakan untuk menjalankan fungsi, proses, dan\nmekanisme kerja yang mendukung pelaksanaan\ne-Government.\n16. Portal Web adalah kumpulan situs (website) yang berisi\ninformasi elektronik yang dapat diakses oleh publik.\n17. Portal Web Kementerian Perdagangan adalah situs\n(website) resmi yang memuat identitas, tugas, dan fungsi\nKementerian Perdagangan, dan konten-konten lain\nterkait.\n18. Portal Web Unit Kerja adalah situs (website) yang\nmemuat identitas, tugas, dan fungsi Unit Kerja, dan\nkonten-konten lain terkait Unit Kerja.\n19. Interoperabilitas adalah kemampuan dua sistem atau\ndua komponen atau lebih untuk bertukar Informasi dan\nuntuk menggunakan Informasi yang telah\ndipertukarkan.\n20. Keamanan Informasi adalah mekanisme pengamanan\ndan perlindungan terhadap aset data dan Informasi\nKementerian Perdagangan dalam rangka menjamin\nkerahasiaan (confidentiality), keutuhan (integrity), dan\nketersediaan (availability).\n21. Nama Domain adalah alamat internet penyelenggara\nnegara, orang, badan usaha, dan/atau masyarakat, yang\ndapat digunakan dalam berkomunikasi melalui internet,\n-6\nyang berupa kode atau susunan karakter yang bersifat\nunik untuk menunjukkan lokasi tertentu dalam internet.\n22. Hak Cipta adalah hak eksklusif pencipta yang timbul\nsecara otomatis berdasarkan prinsip deklaratif setelah\nsuatu ciptaan diwujudkan dalam bentuk nyata tanpa\nmengurangi pembatasan sesuai dengan ketentuan\nperaturan perundang-undangan.\n23. Akses adalah kegiatan melakukan interaksi dengan\nsistem elektronik yang berdiri sendiri atau dalam\njaringan.\n24. Unit Kerja adalah unit organisasi setingkat eselon I\ndan/atau eselon II.\n25. Pusat Data dan Sistem Informasi yang selanjutnya\ndisingkat PDSI adalah Unit Kerja yang mempunyai tugas\nmelaksanakan koordinasi, penyusunan, perumusan,\npelaksanaan, pengembangan, pembinaan, pemantauan,\nevaluasi dan pelaporan kebijakan, arsitektur dan\nmanajemen risiko teknologi informasi dan komunikasi,\nmanajemen data, pengembangan dan pengelolaan\nlayanan teknologi informasi dan komunikasi.\n26. Kementerian Perdagangan adalah kementerian yang\nmenyelenggarakan urusan pemerintahan di bidang\nperdagangan untuk membantu Presiden dalam\nmenyelenggarakan pemerintahan negara.\n27. Menteri adalah menteri yang menyelenggarakan urusan\npemerintahan di bidang perdagangan.\nBAB II\nTATA ICELO LA"
+   }
+  },
+  {
+   "id": "ID-H2659-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\nTata kelola e-Government di lingkungan Kementerian\nPerdagangan dilaksanakan pada tingkat Kementerian dan\nUnit Kerja.\n-7"
+   }
+  },
+  {
+   "id": "ID-H2659-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\n(1) Tata kelola e-Government pada tingkat Kementerian\ndikoordinasikan oleh PDSI.\n(2) Dalam melaksanakan tata kelola e-Government pada\ntingkat Kementerian sebagaimana dimaksud pada ayat\n(1) PDSI mempunyai tugas:\na. menyusun kebijakan dan pedoman pengelolaan\nInfrastruktur TIK;\nb. menyusun standar Infrastruktur TIK serta fasilitas\npenunjang lainnya untuk mendukung\npenyelenggaraan e-Government;\nc. menyusun dan mengkoordinasikan perencanaan\nInfrastruktur TIK Kementerian Perdagangan;\nd. menyediakan, mengembangkan, dan memelihara\nInfrastruktur TIK Kementerian Perdagangan;\ne. menyediakan dan mengelola anggaran Infrastruktur\nTIK Kementerian Perdagangan;\nf. melakukan pemantauan dan evaluasi terhadap\npengelolaan Infrastruktur TIK Kementerian\nPerdagangan secara berkala;\ng. mengoordinasikan pengelolaan, menyediakan, dan\nmemutakhirkan Data dan Informasi di lingkungan\nKementerian Perdagangan; dan\nh. mengoordinasikan dan melaksanakan integrasi\nSistem Informasi dengan eksternal Kementerian\nPerdagangan yang antara lain meliputi\nkementerian / lembaga/ daerah / instansi \t dan\norganisasi lainnya."
+   }
+  },
+  {
+   "id": "ID-H2659-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\n(1) Tata kelola e-Government pada tingkat Unit Kerja\ndilaksanakan oleh setiap Unit Kerja di lingkungan\nKementerian Perdagangan.\nmelakukan\nPDSI; dan\nmenyediakan\npelaksanaan TIK dengan\nmemutakhirkan Data dan\nkoordinasi\ne. dan\n(2) Dalam melaksanakan tata kelola e-Government pada\ntingkat Unit Kerja sebagaimana dimaksud pada ayat (1),\nUnit Kerja mempunyai tugas:\na. memberikan dan menyampaikan inisiatif kebutuhan\nInfrastruktur TIK Kementerian Perdagangan;\nb. menyediakan dan mengelola anggaran Infrastruktur\nTIK Unit Kerja;\nc. menggunakan, mengelola, memelihara, dan menjaga\nkeberlangsungan penggunaan Infrastruktur TIK\nyang diusulkan dan/atau diadakan;\nd. menginventaris, memantau, dan mengidentifikasi\npenerapan TIK di masing-masing unit kerja, serta\nInformasi di lingkungan Kementerian Perdagangan."
+   }
+  },
+  {
+   "id": "ID-H2659-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\nTata kelola e-Government sebagaimana dimaksud dalam Pasal\n3 dan Pasal 4 tercantum dalam Lampiran I yang merupakan\nbagian tidak terpisahkan dan Peraturan Menteri ini.\nBAB III\nINFRASTRUKTUR TEKNOLOGI INFORMASI DAN KOMUNIKASI"
+   }
+  },
+  {
+   "id": "ID-H2659-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\n(1) Infrastruktur TIK yang digunakan dalam e-Government di\nlingkungan Kementerian Perdagangan harus\nmempertimbangkan standar teknologi, Interoperabilitas,\nmanajemen risiko, dan keamanan Informasi.\n(2) Standar teknologi sebagaimana dimaksud pada ayat (1)\nharus memperhatikan:\na. teknologi yang terbuka;\nb. mudah didapat;\nc. perkembangan teknologi yang cepat dan dinamis;\n-9\nd. efisien;\ne. mudah memperoleh dukungan teknis;\nf. mampu mendukung tugas dan fungsi organisasi;\ndan\ng. mudah dikembangkan (scalable).\n(3) Pertimbangan standar keamanan Informasi sebagaimana\ndimaksud pada ayat (1) dalam rangka melindungi aset\nData dan Informasi di lingkungan Kementerian\nPerdagangan dari berbagai bentuk ancaman baik dari\ndalam maupun dari luar Kementerian Perdagangan, yang\ndilakukan secara sengaja maupun tidak sengaja.\n(4) Petunjuk Teknis mengenai standar teknologi\nsebagaimana dimaksud pada ayat (2) ditetapkan oleh\nSekretaris Jenderal."
+   }
+  },
+  {
+   "id": "ID-H2659-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\n(1) Data Center dalam penyelenggaraan e-Government di\nlingkungan Kementerian Perdagangan hanya dapat\ndiadakan dan dikelola oleh PDSI.\n(2) Data dan Informasi di Kementerian Perdagangan wajib di\nsimpan dalam Data Center.\n(3) Data Center dikelola dengan mengacu kepada standar\npengelolaan Data Center yang berlaku secara nasional\ndan/atau internasional.\n(4) Standar pengelolaan Data Center sebagaimana dimaksud\npada ayat (3) paling sedikit meliputi aspek operasi, disain\nteknis dan implementasi, dan keberlangsungan kegiatan.\n(5) Untuk mengantisipasi gangguan pada Data Center, PDSI\nmengadakan dan mengelola Pusat Pemulihan Bencana\n(Disaster Recovery Center).\n(6) Pusat Pemulihan Bencana (Disaster Recovery Center)\nsebagaimana dimaksud pada ayat (5) hanya untuk\nAplikasi strategis dan/ atau Aplikasi lain yang\nmembutuhkan pencadangan sistem."
+   }
+  },
+  {
+   "id": "ID-H2659-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\nPengadaan dan/atau pengelolaan Infrastruktur TIK yang\ndilakukan oleh PDSI atau Unit Kerja dengan pihak ketiga\nharus melalui perjanjian.\nBAB IV\nNAMA DOMAIN DAN SUBDOMAIN"
+   }
+  },
+  {
+   "id": "ID-H2659-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n(1) Nama domain resmi Kementerian Perdagangan\nkemendag.go. id .\n(2) Pengelolaan nama domain dan subdomain resmi\ndilaksanakan oleh PDSI.\n(3) Website dan/atau Aplikasi berbasis web di lingkungan\nKementerian Perdagangan wajib menggunakan nama\ndomain atau subdomain resmi Kementerian\nPerdagangan.\n(4) Website dan/atau Aplikasi berbasis web di lingkungan\nKementerian Perdagangan yang menggunakan nama\ndomain atau subdomain tidak resmi Kementerian\nPerdagangan dikategorikan sebagai website atau Aplikasi\nilegal.\n(5) Unit Kerja yang mengajukan nama subdomain dan/atau\npemilik proses bisnis Aplikasi menjadi penanggung jawab\nsubdomain.\n(6) Penanggung jawab subdomain sebagaimana dimaksud\npada ayat (5) hams melakukan pemantauan dan\nevaluasi subdomain untuk memastikan keberlangsungan\ndan pemanfaatan website, Aplikasi, atau kegiatan yang\nmenggunakan subdomain.\n(7) Nama Domain dan subdomain tercantum dalam\nLampiran II yang merupakan bagian tidak terpisahkan\ndari Peraturan Menteri ini.\nBAB V\nAPLIKASI"
+   }
+  },
+  {
+   "id": "ID-H2659-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\nAplikasi e-Government paling sedikit harus dilengkapi dengan:\na. kode program;\nb. basis Data; dan\nc. dokumentasi."
+   }
+  },
+  {
+   "id": "ID-H2659-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\n(1) Aplikasi e-Government di lingkungan Kementerian\nPerdagangan hams memenuhi standar pengembangan,\nInteroperabilitas, dan keamanan Informasi.\n(2) Nama Domain atau subdomain Aplikasi hams sesuai\ndengan ketentuan mengenai Nama Domain dan\nsubdomain Kementerian Perdagangan.\n(3) Hak Cipta atas seluruh Aplikasi di lingkungan\nKementerian Perdagangan dan kelengkapannya menjadi\nmilik Kementerian Perdagangan.\n(4) Standar pengembangan Aplikasi tercantum dalam\nLampiran III yang merupakan bagian tidak terpisahkan\ndan Peraturan Menteri ini.\nBAB VI\nDATA DAN INFORMASI"
+   }
+  },
+  {
+   "id": "ID-H2659-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n(1) Data dan Informasi di lingkungan Kementerian\nPerdagangan dihasilkan dan/atau disediakan oleh\nmasing-masing Unit Kerja Kementerian Perdagangan\nsesuai dengan tugas dan fungsinya.\n(2) Data dan Informasi sebagaimana dimaksud pada ayat (1)\nhams memenuhi kaidah:\na. struktur Data;\nb. Interoperabilitas;\nc. kemutakhiran;\nd. keakuratan;\ne. kerahasiaan; dan\nf. keamanan Informasi.\n(3) Seluruh Data dan Informasi e-Government di lingkungan\nKementerian Perdagangan wajib ditempatkan di Data\nCenter.\n(4) Seluruh Data Perdagangan dan Informasi Perdagangan\nwajib disampaikan ke PDSI."
+   }
+  },
+  {
+   "id": "ID-H2659-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\n(1) Data dan Informasi di lingkungan Kementerian\nPerdagangan sebagaimana dimaksud dalam Pasal 12\nmerupakan Hak Cipta dan milik Kementerian\nPerdagangan.\n(2) Pemanfaatan, pengelolaan, dan penyebarluasan Data\nPerdagangan dan Informasi Perdagangan wajib\nberkoordinasi dengan PDSI.\n(3) Data Perdagangan dan Informasi Perdagangan yang\ndikeluarkan Kementerian Perdagangan wajib melalui\nPDSI sebagai sumber Data Perdagangan dan Informasi\nPerdagangan resmi Kementerian Perdagangan.\n(4) Seluruh Unit Kerja sebagai produsen Data wajib\nmembuat klasifikasi hak akses Data untuk menjaga\nkeamanan informasi (information security) dengan\nberkoordinasi bersama PDSI.\n(5) Setiap orang dilarang menyebarluaskan Data\nPerdagangan dan Informasi Perdagangan tanpa\nsepengetahuan dan/atau persetujuan dan PDSI.\n(6) Setiap orang yang menerima dan/atau menggunakan\nData dan Kementerian Perdagangan dan akan\ndisebarluaskan wajib mencantumkan sumber referensi\nData.\n(7) Pemanfaatan Data Administatif dan Informasi\nAdministatif hams berkoordinasi dengan Unit Kerja\nterkait dan/atau Pejabat Pengelola Informasi dan\nDokumentasi (PPID) Kementerian Perdagangan.\nBAB VII\nPORTAL WEB KEMENTERIAN PERDAGANGAN"
+   }
+  },
+  {
+   "id": "ID-H2659-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\n(1) Portal Web resmi Kementerian Perdagangan dan Portal\nWeb resmi Unit Kerja hanya dapat diadakan dan dikelola\noleh PDSI.\n(2) Nama Domain Portal Web resmi Kementerian\nPerdagangan kemendag.go. id .\n(3) Nama subdomain Portal Web Unit Kerja harus sesuai\ndengan ketentuan mengenai nama subdomain\nKementerian Perdagangan.\n(4) Konten Portal Web resmi Kementerian Perdagangan\nmenjadi tanggung jawab PDSI bersama Unit Kerja.\n(5) Konten Portal Web Unit Kerja resmi menjadi tanggung\njawab Unit Kerja Pengelola Portal Web.\n(6) Tata kelola Portal Web resmi sebagaimana dimaksud\npada ayat (1) dan ayat (2) tercantum dalam Lampiran IV\nyang merupakan bagian tidak terpisahkan dan\nPeraturan Menteri ini.\nBAB VIII\nSURAT ELEKTRONIK"
+   }
+  },
+  {
+   "id": "ID-H2659-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\n(1) Surat elektronik Kementerian Perdagangan hanya dapat\ndiadakan dan dikelola oleh PDSI.\n(2) Akun surat elektronik resmi Kementerian Perdagangan\nmenggunakan alamat @kemendag.go. id .\n(3) Surat elektronik untuk korespondensi resmi wajib\nmenggunakan surat elektronik resmi Kementerian\nPerdagangan.\n(4) Akun surat elektronik resmi Kementerian Perdagangan\ndapat dimiliki dan digunakan oleh Unit Kerja dan\npegawai Aparatur Sipil Negara Kementerian\nPerdagangan.\n(5) Untuk dapat memiliki dan menggunakan Akun surat\nelektronik resmi sebagaimana dimaksud pada ayat (2),\nUnit Kerja dan pegawai Aparatur Sipil Negara\nKementerian Perdagangan harus mengajukan\npermohonan secara manual atau online kepada PDSI.\nBAB IX\nMANAJEMEN RISIKO DAN KEAMANAN INFORMASI"
+   }
+  },
+  {
+   "id": "ID-H2659-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\n(1) Penyelenggaraan e-Government di lingkungan\nKementerian Perdagangan hams menerapkan prinsip\nmanajemen risiko dan keamanan Informasi.\n(2) Penerapan prinsip manajemen risiko bertujuan untuk\nmenjamin kontinuitas operasional Infrastruktur TIK.\n(3) Penerapan prinsip keamanan Informasi bertujuan untuk\nmenjamin kerahasiaan (confidentiality), keutuhan\n(integrity), dan ketersediaan (availability) aset Informasi\nagar selalu terjaga dan terpelihara dengan baik.\n(4) Dalam menerapkan prinsip manajemen risiko dan\nkeamanan Informasi TIK, Kementerian Perdagangan\nhams mengacu kepada standar nasional dan/atau\ninternasional.\nBAB X\nEVALUASI"
+   }
+  },
+  {
+   "id": "ID-H2659-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\n(1) Evaluasi e-Government di lingkungan Kementerian\nPerdagangan dilakukan oleh PDSI secara periodik setiap\n1 (satu) tahun sekali.\n(2) Evaluasi e-Government sebagaimana dimaksud pada ayat\n(1), paling sedikit meliputi:\na. tata kelola;\nb. Infrastruktur TIK;\nc. Aplikasi;\nd. Portal Web Kementerian Perdagangan; dan\ne. manajemen risiko dan keamanan Informasi.\n(3 ) Kepala PDSI harus menyampaikan laporan hasil evaluasi\nsebagaimana dimaksud pada ayat (2) kepada Menteri\nmelalui Sekretaris Jenderal.\nBAB XI\nSANKSI"
+   }
+  },
+  {
+   "id": "ID-H2659-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\n(1) Unit Kerja dan pegawai Aparatur Sipil Negara\nKementerian Perdagangan yang melanggar ketentuan\nsebagaimana diatur dalam Peraturan Menteri ini dikenai\nsanksi administratif berupa:\na. peringatan tertulis;\nb. pembatasan atau pemberhentian sementara akses\nterhadap Infrastruktur TIK;\nc. pembatasan atau pemberhentian permanen akses\nterhadap Infrastruktur TIK; dan/atau\nd. sanksi lain sesuai dengan ketentuan peraturan\nperundang-undangan.\n(2) Pihak ketiga yang melanggar ketentuan perjanjian\nsebagaimana dimaksud dalam Pasal 8 dikenai sanksi\nberupa:\na. peringatan tertulis;\nb. pencantuman dalam daftar hitam pelaku usaha;\nc. pelarangan keikutsertaan dalam penyediaan barang\ndan jasa di Kementerian Perdagangan; dan/atau\nd. sanksi lain sesuai dengan ketentuan peraturan\nperundang-undangan.\nBAB XII\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H2659-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\n(1) Seluruh Infrastruktur TIK Kementerian Perdagangan dan\nInfrastruktur TIK Unit Kerja yang telah ada sebelum\nberlakunya Peraturan Menteri ini tetap dapat\ndioperasikan dan harus dilakukan penyesuaian\npenyelenggaraannya berdasarkan ketentuan dalam\nPeraturan Menteri ini.\n(2) Unit Kerja hams melakukan penyesuaian pengelolaan\nData Perdagangan dan Informasi Perdagangan\nberdasarkan ketentuan dalam Peraturan Menteri ini.\n(3) Penyesuaian sebagaimana dimaksud pada ayat (1) dan\nayat (2) paling lama 2 (dua) tahun sejak Peraturan\nMenteri ini mulai berlaku.\n(4) Tahapan peralihan sebagaimana dimaksud pada ayat (1)\ntercantum dalam Lampiran V yang merupakan bagian\ntidak terpisahkan dari Peraturan Menteri ini.\nBAB XIII\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H2659-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB XIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan\nMenteri Perdagangan Nomor 04/ M-DAG/ PER/ 3/ 2011\ntentang Pedoman Tertib Pengelolaan dan Pemanfaatan\nTeknologi Informasi dan Komunikasi (TIK) di Lingkungan\nKementerian Perdagangan (Berita Negara Republik Indonesia\nTahun 2011 Nomor 186), dicabut dan dinyatakan tidak\nberlaku."
+   }
+  },
+  {
+   "id": "ID-H2659-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB XIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\nPeraturan Menteri ini mulai berlaku pada tanggal\ndiundangkan.\nSalinan sesuai dengan aslinya\nSekretariat Jenderal\nPerdagangan\no Hukum,\n- M. SYI ST\nAgar setiap orang mengetahuinya, memerintahkan\npengundangan Peraturan Menteri ini dengan penempatannya\ndalam Berita Negara Republik Indonesia.\nDitetapkan di Jakarta\npada tanggal 11 Juli 2017\nMENTERI PERDAGANGAN REPUBLIK INDONESIA,\nTtd.\nENGGARTIASTO LUKITA\nDiundangkan di Jakarta\npada tanggal 17 Juli 2017\nDIREKTUR JENDERAL\nPERATURAN PERUNDANG-UNDANGAN\nKEMENTERIAN HUKUM DAN HAK ASASI MANUSIA\nREPUBLIK INDONESIA,\nTtd.\nWIDODO EKATJAHJANA\nBERITA NEGARA REPUBLIK INDONESIA TAHUN 2017 NOMOR 971\nLAMPIRAN I\nPERATURAN MENTERI PERDAGANGAN REPUBLIK INDONESIA\nNOMOR 46/M-DAG/PER/7/2017\nTENTANG\nPENYELENGGARAAN TEKNOLOGI INFORMASI DAN KOMUNIKASI\nDI LINGKUNGAN KEMENTERIAN PERDAGANGAN\nTATA KELOLA e-GOVERNMENT\nDI LINGKUNGAN KEMENTERIAN PERDAGANGAN\nI. UMUM\nKebijakan tata kelola e-Government merupakan kebijakan yang\ndigunakan sebagai pedoman penyelenggaraan TIK di lingkungan\nKementerian Perdagangan.\nII. RUANG LINGKUP\nRuang lingkup dan tata kelola e-Government meliputi penetapan tugas\nmasing-masing pihak yang terkait dengan penyelenggaraan TIK di\nlingkungan Kementerian Perdagangan.\nIII. KEBIJAKAN\n1. Setiap Pimpinan Unit Kerja bertanggung jawab dalam memantau dan\nmengawasi pengelolaan TIK di lingkungan Unit Kerjanya.\n2. Setiap inisiatif dan penyelenggaraan terkait Infrasturktur TIK, baik\nInfrastruktur TIK Kementerian Perdagangan dan Infrasturktur TIK\nUnit Kerja, harus sesuai dengan tata kelola e-Government di\nlingkungan Kementerian Perdagangan yang ditetapkan dalam\nPeraturan Menteri ini.\n3. Koordinasi penyelenggaraan Infrasturktur TIK Kementerian\nPerdagangan harus menggunakan pencatatan atau formulir khusus\nsebagai bukti sah telah dilakukan koordinasi TIK.\n4. Unit Kerja yang menyelenggarakan Infrastruktur TIK Unit Kerja\nharus berpedoman pada panduan teknis yang dikeluarkan PDSI.\n5. Integrasi sistem dengan pihak di luar Kementerian Perdagangan\ndikoordinasikan dan dilaksanakan oleh PDSI. Unit Kerja harus\nmemberikan dukungan terkait proses bisnis substansi perdagangan\ndan/atau substansi lainnya yang tidak ditangani oleh PDSI.\n6. Usulan kebutuhan Infrastruktur TIK Kementerian Perdagangan\nharus dilakukan paling lama 1 (satu) tahun sebelum pelaksanaan\nkegiatan atau sebelum pembahasan Pagu Anggaran.\n7. PDSI dan Unit Kerja bertanggung jawab dalam penyediaan dan\npemutakhiran data dan informasi di lingkungan Kementerian\nPerdagangan.\n8. PDSI mengoordinasikan dan melaksanakan perumusan hak akses\npenggunaan Data Perdagangan di lingkungan Kementerian\nPerdagangan. Unit Kerja memberikan usulan hak akses penggunaan\nData Perdagangan di lingkungan Kementerian Perdagangan.\n9. Data dan Informasi di lingkungan Kementerian Perdagangan\nmerupakan milik Kementerian Perdagangan dan dipergunakan oleh\nseluruh Unit Kerja dengan mengikuti kaidah keamanan Informasi\ndan ketentuan peraturan perundang-undangan.\nIV. PENYELENGGARAAN\nTata kelola e-Government dilaksanakan pada tingkat Kementerian dan\nUnit Kerja. PDSI menyelenggarakan pengelolaan e-Government pada\ntingkat Kementerian dan Unit Kerja melakukan pengelolaan e-Government\npada tingkat Unit Kerja.\n1. PDSI\nPDSI menyelenggarakan Infrastruktur TIK Kementerian\nPerdagangan. Penyelenggaraan Infrastruktur TIK Kementerian\nPerdagangan dilakukan terhadap seluruh perangkat keras dan\nperangkat lunak yang digunakan lintas Unit Kerja, dan/atau\nmemiliki karakteristik multi user serta keterkaitan antar Unit Kerja.\nInfrastruktur TIK Kementerian Perdagangan dimaksud paling sedikit\nmeliputi:\na. perangkat Jaringan;\nb. internet;\nc. server,\nd. Aplikasi bidang perdagangan, paling sedikit meliputi\nperancangan/disain dan produk Aplikasi;\ne. Aplikasi pendukung kegiatan administratif dan non substantif\nKementerian Perdagangan, paling sedikit meliputi\nperancangan/disain dan produk Aplikasi;\nf. Database pendukung Aplikasi;\ng. Antivirus dan sejenisnya;\nh. Akun berlangganan data dan informasi berbasis elektronik; dan\ni. Infrastruktur TIK lainnya dengan karakteristik serupa.\n2. Unit Kerja\nUnit Kerja menyelenggarakan Infrasturktur TIK Unit Kerja masing-\nmasing. Penyelenggaraan Infrastruktur TIK Unit Kerja dilakukan\nterhadap perangkat keras dan perangkat lunak yang digunakan\nkhusus untuk pengolahan data personal, tidak lintas Unit Kerja,\ndan/atau cenderung memiliki karakteristik infrastruktur stand\nalone. Infrastruktur TIK dimaksud meliputi:\na. Komputer Personal, Laptop, dan perangkat sejenis;\nb. Perangkat keras pendukung pengolah/pemroses Data, seperti\nScanner, Printer, Projector, dan perangkat sejenis;\nc. Perangkat lunak sistem operasi;\nd. Perangkat lunak pendukung pengolah data personal dan/atau\npendukung pekerjaan admnistratif (sejenis aplikasi office);\ndan / atau\ne. Infrastruktur TIK lainnya dengan karakteristik serupa.\nUnit Kerja di luar kantor Pusat Kementerian Perdagangan dapat\nmelakukan penyediaan internet cadangan melalui koordinasi dengan\nPDSI.\nV. KOORDINASI PENYELENGGARAAN E-GOVERNMENT\nKoordinasi dalam rangka penyelenggaraan e-Government dilakukan\ndalam seluruh rangkaian pengelolaan TIK, yaitu mulai dan\nperencanaan, pengembangan, pengadaan, penggunaan, hingga\nmonitoring dan evaluasi. Rangkaian kegiatan koordinasi TIK wajib\ndilengkapi dengan pencatatan yang resmi yang dikeluarkan oleh PDSI\ndan ditandatangani oleh pimpinan PDSI dan Unit Kerja.\nUnit Kerja yang membutuhkan pengadaan, pengembangan,\npemeliharaan, dan bentuk-bentuk lain penyelenggaraan Infrastruktur\nTIK Kementerian Perdagangan wajib berkoordinasi dengan PDSI. Proses\nkoordinasi dimaksud adalah sebagai berikut:\n1. Perencanaan kebutuhan/inisiatif Infrastruktur TIK Kementerian\nPerdagangan\nPerencanaan kebutuhan/inisiatif Infrastruktur TIK Kementerian\nPerdagangan dilaksanakan melalui tahapan sebagai berikut:\na. Unit Kerja menyampaikan usulan/rencana kebutuhan\nInfrastruktur TIK kepada Kepala PDSI paling lama 1 (satu)\ntahun sebelum pelaksanaan kegiatan dimaksud atau sebelum\npembahasan Pagu Anggaran.\nb. Unit Kerja mengajukan usulan kebutuhan Infrastruktur TIK\ndengan melampirkan proposal rencana/inisiatif kebutuhan\nInfrastruktur TIK dengan template proposal yang telah\ndisediakan oleh PDSI.\nc. PDSI menerima seluruh usulan rencana/ kebutuhan\nInfrastruktur TIK dari Unit Kerja, untuk kemudian\ndisinergikan, dinilai, direviu, dan dialokasikan kebutuhan\nanggarannya.\n2. Pembuatan, pengembangan, dan pengadaan Infrastruktur TIK\nKementerian Perdagangan\nPembuatan, pengembangan, dan pengadaan Infrastruktur TIK\nKementerian Perdagangan dilaksanakan melalui tahapan sebagai\nberikut:\na. PDSI akan melakukan pembuatan, pengembangan, pengadaan\ninfrastruktur TIK Kementerian berdasarkan usulan Unit Kerja.\nb. Unit Kerja sebagai pemilik proses bisnis, pengusul, dan/atau\npengguna paling sedikit harus menyiapkan tim/pelaksana\nyang akan menjadi penjamin kualitas Infrastruktur TIK\ntersebut agar Infrastruktur TIK yang diusulkannya sesuai\ndengan kebutuhan.\n3. Monitoring dan evaluasi\na. Monitoring dan evaluasi dilakukan dalam rangka optimalisasi\npenggunaan, pengembangan, dan pemeliharaan Infrasturktur\nTIK.\nSalinan sesuai dengan aslinya\nSekretariat Jenderal\nPerdagangan\no Hukum,\n<\n3E\\'' \t SYIST\nb. Unit Kerja pemilik proses bisnis, pengusul, dan/atau pengguna\nmelakukan monitoring dan evaluasi atas Infrastruktur TIK\nKementerian Perdagangan yang diusulkannya.\nc. Proses monitoring dan evaluasi dilakukan paling sedikit dalam\nhal inventaris dan penggunaan/utilisasi Infrastruktur TIK\ndimaksud.\nd. PDSI akan melakukan monitoring dan evaluasi dan segi teknis\nInfrastruktur TIK.\nUnit Kerja yang melakukan pengadaan dan pemeliharaan\nInfrastruktur TIK Unit Kerja wajib melakukan hal-hal berikut:\na. Mengacu pada panduan teknis yang telah disediakan oleh\nPDSI dalam perencanaan pengadaan dan pemeliharaan\nkebutuhan TIK Unit Kerja.\nb. Melaporkan hasil pengadaan dan pemeliharaan Infrastruktur\nTIK Unit Kerja kepada Sekretaris Jenderal secara berkala,\npaling sedikit 1 (satu) tahun sekali.\nMENTERI PERDAGANGAN REPUBLIK INDONESIA,\nTtd.\nENGGARTIASTO LUKITA\nLAMPIRAN II\nPERATURAN MENTERI PERDAGANGAN REPUBLIK INDONESIA\nNOMOR 46/M-DAG/PER/7/2017\nTENTANG\nPENYELENGGARAAN TEKNOLOGI INFORMASI DAN KOMUNIKASI\nDI LINGKUNGAN KEMENTERIAN PERDAGANGAN\nNAMA DOMAIN DAN SUBDOMAIN\nI. UMUM\nStandar ini menjadi pedoman bagi penyelenggara Portal Web (website)\ndan/atau aplikasi berbasis web di Kementerian Perdagangan. Kebijakan\nini sesuai dengan ketentuan yang telah ditetapkan oleh Kementerian\nKomunikasi dan Informatika.\nII. RUANG LINGKUP\nRuang lingkup dari penataan Domain dan subdomain meliputi Portal Web\n(website), aplikasi berbasis web, dan kegiatan Kementerian Perdagangan\nyang dituangkan dalam tampilan Portal Web (website).\nSetiap pengajuan, perubahan, penghapusan dan bentuk pengelolaan\nnama subdomain disampaikan kepada PDSI disertai bukti tertulis yang\ndisetujui PDSI.\nIII. KEBIJAKAN\n1. Setiap Pimpinan Unit Kerja bertanggung jawab dalam memantau dan\nmengawasi penggunaan subdomain di lingkungan Unit Kerja\nmasing-masing.\n2. Setiap Pimpinan Unit Kerja bertanggung jawab mengetahui\npenggunaan, penambahan, dan perubahan nama subdomain di\nlingkungan Unit Kerja masing-masing, dalam hal ini meliputi\npenambahan, perubahan, perpanjangan, dan penghapusan\nsubdomain.\n3. Domain dan subdomain yang sudah dibuat menjadi milik\nKementerian Perdagangan dan tidak boleh digunakan di luar tugas\ndan fungsi Kementerian Perdagangan.\n4. Dalam rangka tertib pengelolaan TIK, akan dilakukan registrasi\nulang penggunaan Domain dan subdomain maksimal 2 (dua) tahun\nsekali, kecuali untuk website resmi organisasi.\nIV. SISTEM PENAMAAN DOMAIN (DOMAIN NAME SERVER (DNS))\n1. Pengertian DNS\na. DNS adalah sistem basis data terdistribusi (distribute database\nsystem) yang digunakan untuk pencarian nama komputer di\njaringan yang menggunakan TCP/IP (Transmission Control\nProtocol/ Internet Protocol).\nb. DNS merupakan sebuah aplikasi service yang bisa digunakan di\ninternet seperti peramban (web browser) atau surat elektronik\nyang menerjemahkan sebuah Nama Domain ke alamat IP (IP\naddress).\nContoh : yahoo.com  --> 68.142.197.64\n2. Struktur DNS\nDNS merupakan sebuah hierarki pengelompokan Domain\nberdasarkan nama yang terbagi menjadi beberapa bagian, yakni:\na. Domain Tingkat Pertama (Root Domain)\n1) Domain Level Global (Generic/ Global Top Level Domain\n(gTLD))\nContoh: .com, .net, .org, .ac, .web, .go\n2) Domain Level Negara (Country Code Top Level Domain\n(ccTLD))\nContoh: .sg, .au, .id\nb. Domain Tingkat Kedua (Second Level Domain)\nContoh: kemendag.go. id\nc. Domain Tingkat Ketiga (Third Level Domain (subdomain))\nContoh: intranet. kemendag.go. id , 1pse. kemendag.go. id\nV. PENGELOLAAN PENAMAAN DOMAIN DAN SUBDOMAIN\n1. Pengelolaan Penamaan Domain dan Subdomain meliputi:\na. Pendaftaran;\nb. Pembuatan;\nc. Penggunaan;\nd. Penonaktifan;\ne. Penghapusan;\nf. Perpanjangan;\ng. Perubahan; dan/atau\nh. bentuk pengelolaan lain dalam rangka tertib Domain dan\nsubdomain.\n2. Nama Domain dan subdomain yang dimaksud di atas dibiayai oleh\nanggaran Kementerian Perdagangan.\n3. Seluruh situs web (website) serta aplikasi berbasis web pada\nKementerian Perdagangan wajib menjadi subdomain dan nama\nDomain Kementerian Perdagangan.\nVI. SUBDOMAIN DI KEMENTERIAN PERDAGANGAN\n1. Hal-hal yang perlu dipertimbangkan dalam mendapatkan nama\nsubdomain adalah:\na. Unit Kerja setingkat eselon I di Kementerian Perdagangan.\nb. Pelayanan publik di Kementerian Perdagangan.\nc. Kegiatan Kementerian Perdagangan.\nd. Aplikasi berbasis web.\ne. Kebutuhan domain lain yang diatur dan/atau diinisiasikan\ndalam peraturan perundang-undangan.\n2. Permohonan mendapatkan nama subdomain\nUntuk mendapatkan nama subdomain Unit Kerja harus mengajukan\npermohonan kepada PDSI dengan mencantumkan dan melampirkan:\na. Surat permohonan pembuatan nama subdomain disertai\nurgensi pembuatan (jika urgensi belum tertera pada dokumen\npengajuan pembuatan Aplikasi), yang ditandatangani pimpinan\nunit kerja; dan\nb. Peraturan perundang-undangan yang menjadi dasar pembuatan\nDomain, jika Domain yang diajukan terkait penyelenggaraan\npelayanan publik Kementerian Perdagangan.\n3. Persetujuan, penolakan, dan setiap bentuk pengelolaan subdomain\nmerupakan kewenangan PDSI.\n4. Nama subdomain yang diajukan harus terdiri atas karakter yang\ndapat berupa nama, singkatan nama atau akronim dari nama resmi\ninstansi, nomenklatur pelayanan publik, nama kegiatan Kementerian\nPerdagangan, dan Aplikasi berbasis web.\n5. Penataan subdomain untuk Unit Kerja dan struktural lainnya di\nKementerian Perdagangan sebagai berikut:\na. Unit Kerja Eselon I \t eselonI kemendag.go. id\nb. Unit Kerja/UPT \t eselonl. kemendag.go. id/ namaUPT\nc. Atase Perdagagangan : atdag. kemendag.go. id/ wilayah\nd. Indonesian Trade \t itpc. kemendag.go. id/ wilayah\nPromotion Centre\n6. Penataan subdomain untuk kegiatan Kementerian Perdagangan:\na. Subdomain untuk kegiatan Skala Nasional/Internasional yang\nrutin diselenggarakan adalah:\nkegiatan. kemendag.go. id\nb. Subdomain untuk kegiatan Skala Nasional/Internasional yang\ntidak rutin diselenggarakan, masuk dalam subdomain unit kerja\neselon I.\n7. Penataan subdomain untuk aplikasi berbasis web:\na. Subdomain yang digunakan oleh publik, lintas kementerian/\nlembaga/daerah adalah:\naplikasi. kemendag.go. id\nb. Subdomain yang digunakan lintas unit kerja di internal\nKementerian Perdagangan adalah:\nintranet. kemendag.go. id/ aplikasi\nc. Subdomain yang digunakan internal unit kerja Kementerian\nPerdagangan adalah:\nintranet. kemendag.go. id/ eselonI/ aplikasi\n8. Nama subdomain Unit Kerja Eselon I di Kementerian Perdagangan\nadalah:\na. Sekretariat Jenderal \t : setjen.kemendag.go.id\nb. Inspektorat Jenderal \t : itjen.kemendag.go.id\nc. Direktorat Jenderal \t : ditjenpdn. kemendag.go. id\nPerdagangan Dalam Negeri\nd. Direktorat Jenderal \t : ditjendaglu. kemendag.go. id\nPerdagangan Luar Negeri\ne. Direktorat Jenderal \t : ditjenpktn. kemendag.go. id\nPerlindungan Konsumen\ndan Tertib Niaga\nf. Direktorat Jenderal \t : ditjenpen.kemendag.go.id\nPengembangan Ekspor Nasional\ng. Direktorat Jenderal Perundingan : ditjenppi. kemendag.go. id\nPerdagangan Internasional\nh. Badan Pengawas Perdagangan : bappebti.kemendag.go.id\nBerjangka Komoditi\ni. Badan Pengkajian dan \t : bppp.kemendag.go.id\nPengembangan Perdagangan\n9. Nama subdomain lain yang belum tercantum klasifikasinya,\npengaturannya menjadi kewenangan PDSI.\nMENTERI PERDAGANGANREPUBLIK INDONESIA,\nTtd.\nENGGARTIASTO LUKITA\nSalinan sesuai dengan aslinya\nkretariat Jenderal\nPerdagangan\no Hukum,\nLAMPIRAN III\nPERATURAN MENTERI PERDAGANGAN REPUBLIK INDONESIA\nNOMOR 46/M-DAG/PER/7/2017\nTENTANG\nPENYELENGGARAAN TEKNOLOGI INFORMASI DAN KOMUNIKASI\nDI LINGKUNGAN KEMENTERIAN PERDAGANGAN\nSTANDAR PENGEMBANGAN DAN PEMELIHARAAN APLIKASI\nI. TUJUAN\nStandar ini digunakan sebagai pedoman dalam pengembangan dan\npemeliharaan Aplikasi di lingkungan Kementerian Perdagangan agar\npengembangan dan pemeliharaan Aplikasi menghasilkan perangkat lunak\nyang efektif dan efisien.\nII. RUANG LINGKUP\nStandar ini berlaku untuk pengembangan dan pemeliharaan Aplikasi di\nlingkungan Kementerian Perdagangan yang dilaksanakan secara internal\ndan/atau menggunakan pihak ketiga, yang mencakup komponen sistem\naplikasi dan basis data.\nIII. KEBIJAKAN\n1. Aplikasi dikembangkan dalam rangka mendukung tugas dan fungsi\nKementerianPerdagangan.\n2. Penyelenggara pembuatan, pengembangan, dan pemeliharaan\nAplikasi di Kementerian Perdagangan adalah PDSI.\n3. Unit Kerja pemilik proses bisnis bertanggung jawab atas penggunaan\ndan pemanfaatan Aplikasi.\n4. Setiap pengembangan dan pemeliharaan Aplikasi hams sesuai\ndengan Kebijakan dan Standar Pengembangan Aplikasi yang diatur\ndalam Peraturan Menteri ini, serta mempertimbangkan aspek\nmanajemen risiko dan keamanan Informasi.\n5. Setiap Aplikasi yang dibangun atau dikembangkan dinyatakan\nselesai dan layak dipergunakan apabila telah dilaksanakan User\nAcceptance Test (UAT) dan disetujui oleh pemilik proses bisnis.\n6. Setiap Aplikasi yang dibangun atau dikembangkan harus\ndisosialisasikan kepada pengguna Aplikasi.\n7. Setiap Aplikasi yang dibangun atau dikembangkan harus\nditempatkan di Data Center Kementerian Perdagangan yang dikelola\noleh PDSI.\n8. Setiap Aplikasi yang dibangun atau dikembangkan hams memiliki\nsistem backup plan untuk menjaga ketersediaan Data dan layanan.\n9. Seluruh Aplikasi yang sudah dibangun atau dikembangkan menjadi\nmilik Kementerian Perdagangan dan tidak boleh digunakan di luar\nKementerian Perdagangan tanpa izin dari pejabat yang berwenang.\n10. Dokumentasi Aplikasi paling sedikit terdiri atas identifikasi\nkebutuhan, desain Aplikasi, penjelasan kode program, prosedur\nstandar manual, penjelasan basis Data, dan pengaturan hak akses.\n11. Penghapusan Aplikasi pada server Kementerian Perdagangan hams\ndilaksanakan sesuai dengan ketentuan peraturan perundang-\nundangan.\n12. Monitoring dan evaluasi terhadap Aplikasi paling sedikit dilakukan\ndalam hal performa Aplikasi dan standar pengembangan Aplikasi\nyang berlaku paling sedikit 1 (satu) tahun sekali.\nIV. PIHAK TERKAIT\nPihak-pihak yang terkait dalam pengembangan Aplikasi terdiri atas:\n1. Pemilik proses bisnis adalah Unit Kerja di Kementerian Perdagangan\nyang mengusulkan kebutuhan Aplikasi dan/atau memiliki tugas dan\nfungsi yang paling representatif dengan suatu Aplikasi, dalam rangka\nmendukung berjalannya tugas dan fungsi organisasi.\n2. Pengembang Aplikasi adalah tim dan/atau pegawai PDSI dan/atau\npihak ketiga/pihak lain yang ditunjuk PDSI untuk melaksanakan\npengembangan dan/atau pemeliharaan Aplikasi.\n3. Pemelihara Aplikasi adalah tim dan/atau pegawai PDSI dan/atau\npihak ketiga/pihak lain yang ditunjuk PDSI untuk melaksanakan\npengembangan dan/atau pemeliharaan Aplikasi.\n4. Pelaksana pengendalian mutu (quality assurance and acceptance)\nadalah tim dan/atau pegawai Kementerian Perdagangan yang\nditunjuk oleh pemilik proses bisnis untuk melaksanakan kegiatan\npengendalian mutu dan proses User Acceptance Test (UAT) dalam\npengembangan Aplikasi di luar pengembang Aplikasi.\n5. PDSI.\n6. Pengguna Aplikasi.\nV. TANGGUNG JAWAB\n1. Pemilik proses bisnis mempunyai tanggung jawab sebagai berikut:\na. mengajukan proposal kebutuhan Aplikasi dan diserahkan\nkepada PDSI sebagai bahan pertimbangan/penilaian dalam\npemenuhan kebutuhan Aplikasi;\nb. memastikan bahwa Aplikasi yang dikembangkan telah sesuai\nkebutuhan dengan menyetujui laporan hasil pelaksanaan\npengendalian mutu yang dilaporkan oleh pelaksana\npengendalian mutu;\nc. memberikan masukan kepada pengembang Aplikasi terkait\npengembangan Aplikasi;\nd. melakukan monitoring dan evaluasi pasca implementasi terkait\npenggunaan, performa Aplikasi, dan melaporkan hasilnya\nkepada Sekretariat Jenderal melalui PDSI;\ne. melakukan pencatatan dan/atau bentuk inventarisir lainnya\ndalam rangka mendukung pengelolaan TIK Kementerian\nPerdagangan; dan\nf. membuat panduan penggunaan Aplikasi dan melakukan\nsosialisasi kepada pengguna Aplikasi.\n2. Pengembang Aplikasi mempunyai tanggung jawab sebagai berikut:\na. melaksanakan pengembangan sesuai dengan kebijakan dan\nstandar pengembangan Aplikasi yang diatur dalam Peraturan\nMenteri ini;\nb. menindaldanjuti masukan dari pemilik proses bisnis dan/atau\nPDSI terkait pengembangan Aplikasi;\nc. menyusun laporan status dan kemajuan pelaksanaan\npengembangan Aplikasi secara berkala; dan\nd. menyusun dokumentasi yang merupakan keluaran pada\ntahapan pengembangan Aplikasi.\n3. Pemelihara Aplikasi mempunyai tanggung jawab sebagai berikut:\na. melaksanakan pemeliharaan Aplikasi sesuai dengan kebijakan\ndan standar pengembangan Aplikasi yang ditetapkan dalam\nPeraturan Menteri ini; dan\nb. menyusun laporan pemeliharaan Aplikasi secara berkala.\n4. Pelaksana pengendalian mutu (quality assurance and acceptance)\nmempunyai tanggung jawab sebagai berikut:\na. menyediakan seluruh bahan dan/atau kebutuhan lainnya yang\ndiperlukan pada proses analisis dan spesifikasi kebutuhan\ndalam tahapan pengembangan Aplikasi;\nb. melakukan pendampingan dan pengendalian mutu dalam\npengembangan Aplikasi;\nc. menyusun laporan pengendalian mutu (quality assurance)\ndalam setiap tahapan pengembangan Aplikasi dengan tembusan\ndisampaikan kepada kepala PDSI;\nd. melaksanakan User Acceptance Test (UAT) dan penyusunan\nlaporan dengan tembusan disampaikan kepada kepala PDSI;\ndan\ne. membuat laporan hasil survey/ feedback yang masuk.\n5. PDSI mempunyai tanggung jawab sebagai berikut:\na. melakukan pendampingan pada setiap pelaksanaan\npengendalian mutu dalam pengembangan Aplikasi;\nb. melakukan pengaturan, pembinaan, dan pengawasan\npelaksanaan pengembangan Aplikasi di Kementerian\nPerdagangan;\nc. memastikan bahwa pengembangan Aplikasi baik proses\nmaupun produk yang dihasilkan sesuai dengan kebijakan dan\nstandar pengembangan Aplikasi yang ditetapkan dalam\nPeraturan Menteri ini;\nd. memastikan tidak terjadi redundansi pengembangan Aplikasi\nuntuk produk aplikasi sejenis; dan\ne. melakukan monitoring dan evaluasi pasca implementasi terkait\nkepatuhan terhadap kebijakan dan standar TIK yang berlaku.\n6. Pengguna aplikasi mempunyai tanggung jawab sebagai berikut:\na. ikut serta dalam proses User Acceptance Test (UAT);\nb. menggunakan Aplikasi sesuai dengan panduan penggunaan\nAplikasi;\nc. melaporkan kepada PDSI apabila dijumpai bug/ error pada\nAplikasi; dan\nd. mengisi survey/ feedback yang disediakan sebagai tinjauan\npasca implementasi Aplikasi.\nVI. STANDAR\n1. Tahapan pengembangan dan implementasi Aplikasi yang\ndilaksanakan oleh pengembang Aplikasi paling sedikit terdiri atas:\na. Proses analisa dan spesifikasi kebutuhan merupakan proses\npengumpulan informasi terkait kebutuhan pengembangan\nAplikasi kemudian menganalisanya dan menjadikan sebagai\nacuan untuk menyusun spesifikasi kebutuhan. Keluaran pada\ntahap ini adalah dokumen analisa dan spesifikasi kebutuhan.\nb. Proses perancangan Aplikasi merupakan proses desain Aplikasi\ndan basis Data berdasarkan dokumen analisa dan spesifikasi\nkebutuhan. Keluaran pada tahap ini adalah dokumen\nperancangan Aplikasi dan/atau prototipe Aplikasi.\nc. Proses pengembangan Aplikasi merupakan proses pengkodean\n(coding) Aplikasi yang dilaksanakan berdasarkan hasil\nperancangan Aplikasi atau dengan melanjutkan prototipe\nAplikasi. Pada proses ini pengembang Aplikasi harus\nmenggunakan Version Control System (VCS). Keluaran pada\ntahap ini adalah source code Aplikasi dan basis Data;\nd. Proses User Acceptance Test (UAT) atau uji penerimaan Aplikasi\nmerupakan proses yang dilaksanakan untuk menguji kelayakan\npakai Aplikasi yang telah dibangun atau dikembangkan.\nPengujian Aplikasi dapat dilakukan lebih dan sekali dan\ndianggap selesai apabila telah disetujui oleh pemilik proses\nbisnis. Keluaran pada tahap ini adalah daftar skenario\npengujian.\ne. Proses implementasi Aplikasi merupakan proses penerapan\nAplikasi yang telah dibangun atau dikembangkan pada\nlingkungan operasional. Keluaran pada tahap ini adalah Nota\nDinas Kepala PDSI kepada pemilik proses bisnis terkait hasil\npelaksanaan implementasi Aplikasi.\n2. Tahapan pengendalian mutu yang dilaksanakan oleh pelaksana\npengendalian mutu terdiri atas:\na. Ikut serta dalam proses analisa dan spesifikasi kebutuhan dan\nbertugas menyediakan seluruh bahan dan/atau kebutuhan\nlainnya yang diperlukan, serta memastikan bahwa dokumen\nanalisa dan spesifikasi kebutuhan sesuai dengan yang\ndiusulkan. Keluaran pada tahap ini adalah bahan/kebutuhan\nanalisa.\nb. Melakukan pendampingan dan pengendalian mutu dalam setiap\ntahapan pengembangan Aplikasi. Keluaran pada tahap ini\nadalah laporan pengendalian mutu (quality assurance) di akhir\nsetiap tahapan pengembangan aplikasi.\nc. Ikut serta dalam proses User Acceptance Test (UAT) dan\nmemastikan Aplikasi berjalan sesuai dengan kebutuhan.\nKeluaran pada tahap ini adalah laporan hasil pelaksanaan User\nAcceptance Test (UAT).\n3. Tahapan pasca implementasi aplikasi terdiri atas:\na. Masa garansi Aplikasi merupakan masa waktu paling singkat 3\n(tiga) bulan setelah proses implementasi Aplikasi yang\ndisediakan oleh pengembang Aplikasi dari pihak ketiga/pihak\nlain dengan lingkup:\n1) Perbaikan bug dan error yang ditimbulkan dari kesalahan\naplikasi.\n2) Penambahan fungsi pada Aplikasi yang tanpa sengaja\nbelum terlaksana pada proses pengembangan Aplikasi\ntetapi sudah tercantum pada dokumen analisa dan\nspesifikasi kebutuhan dan/atau dokumen perancangan\nAplikasi.\nb. Training peralihan ilmu (transfer knowledge) merupakan\npelatihan yang diberikan oleh pengembang Aplikasi dari pihak\nketiga/pihak lain kepada pegawai PDSI terkait fungsi pada\nAplikasi dan proses pengkodeannya. Dokumen yang berisi\npenjelasan algoritma pemograman tiap fungsi pada Aplikasi dan\npanduan penggunaan hams disediakan sebagai bahan\npelatihan.\nc. Proses tinjauan pasca implementasi Aplikasi bertujuan untuk\nmenghasilkan bahan pembelajaran untuk pengembangan\nAplikasi selanjutnya, proses ini dilaksanakan oleh:\n1) PDSI dengan melakukan monitoring dan evaluasi terkait\nkepatuhan terhadap kebijakan dan standar keamanan\ninformasi yang berlaku.\n2) Pemilik proses bisnis dengan melakukan monitoring dan\nevaluasi terkait performa Aplikasi dan melaporkan hasilnya\nkepada Sekretariat Jenderal melalui PDSI.\n3) Pelaksana pengendalian mutu dengan melaporkan hasil\nsurvey/ feedback yang masuk kepada pemilik proses bisnis.\nd. Pemeliharaan Aplikasi (software maintenance) merupakan\nkegiatan pemeliharaan terhadap Aplikasi yang dilaksanakan\nsetelah masa implementasi Aplikasi dan garansi Aplikasi.\nPemelihara Aplikasi bertanggung jawab terhadap pemeliharaan\nAplikasi dimaksud. Tujuan dari pemeliharaan Aplikasi adalah\nuntuk menjaga agar Aplikasi tetap beroperasi dengan baik,\nsehingga Data dan layanan tetap tersedia. Lingkup kegiatan\nyang dilakukan adalah sebagai berikut:\n1) Memastikan Aplikasi menggunakan Version Control System\n(VCS).\n2) Pemeliharaan korektif merupakan perubahan atau\nperbaikan yang disebabkan adanya masalah (bug/ error)\nyang timbul selama penggunaan Aplikasi.\n3) Pemeliharaan adaptif merupakan perubahan berdasarkan\nperkembangan teknologi. Aplikasi harus disesuaikan agar\ntetap dapat beroperasi dengan baik.\n4) Pemeliharaan perfektif merupakan perubahan untuk\nmeningkatkan kualitas Aplikasi tanpa mengubah fungsi\nyang ada. Pemeliharaan ini dapat berupa perubahan User\nInterface agar lebih user friendly atau perubahan dalam\nrangka penyesuaian terhadap kebijakan baru pemerintah.\n5) Pemeliharaan preventif merupakan perubahan yang\ndilakukan untuk mencegah suatu permasalahan yang\nmungkin dapat terjadi.\n4. Standar keamanan Aplikasi yang dikembangkan harus mengacu\npada kebijakan dan standar keamanan Informasi di lingkungan\nKementerian Perdagangan.\n5. Standar biaya pembuatan Aplikasi diukur dengan harga/gaji tenaga\nkerja di bidang teknologi informasi.\nVII. ISTILAH YANG DIGUNAKAN\n1. Pengembangan Aplikasi (software development) terdiri atas\npembuatan, perluasan/penambahan, atau pengurangan fungsi yang\noutputnya dapat berupa disain dan/atau produk Aplikasi.\n2. Backup Plan adalah rencana pemulihan sistem ke kondisi semula\nsebelum terjadi permasalahan terkait proses implementasi.\n3. User Acceptance Test (UAT) merupakan uji penerimaan Aplikasi yang\ntelah dibangun atau dikembangkan yang dilakukan dengan\nmenugaskan pengembang Aplikasi, pelaksana pengendalian mutu,\nserta pengguna Aplikasi.\nMENTERI PERDAGANGAN REPUBLIK INDONESIA,\nTtd.\nENGGARTIASTO LUKITA\nSalinan sesuai dengan aslinya\nSekretariat Jenderal\nPerdagangan\n(1)) Hukum,\nRI3T JO •• SYIST\nLAMPIRAN IV\nPERATURAN MENTERI PERDAGANGAN REPUBLIK INDONESIA\nNOMOR 46/M-DAG/PER/7/ 2017\nTENTANG\nPENYELENGGARAAN TEKNOLOGI INFORMASI DAN KOMUNIKASI\nDI LINGKUNGAN KEMENTERIAN PERDAGANGAN\nTATA KELOLA PORTAL WEB\nI. UMUM\nTata kelola Portal Web merupakan kebijakan terkait dalam pengelolaan\nPortal Web Kementerian Perdagangan dan Unit Kerja. Tata kelola ini\nberlaku bagi pengelola Portal Web dan penanggung jawab konten Portal\nWeb di Kementerian Perdagangan.\nII. RUANG LINGKUP\nRuang lingkup dan tata kelola Portal Web meliputi kegiatan pengelolaan\nPortal Web dan penetapan penanggung jawab konten pada Portal Web\nKementerian Perdagangan dan Unit Kerja.\nIII. KEBIJAKAN\n1. PDSI bertanggung jawab menyelenggarakan dan melakukan\npemeliharaan Portal Web Kementerian Perdagangan dan Unit Kerja.\n2. Portal Web Kementerian Perdagangan adalah situs (website) resmi\nyang memuat identitas, tugas dan fungsi Kementerian, dan konten-\nkonten lain terkait Kementerian Perdagangan dengan alamat\nkemendag.go. id .\n3. Portal Web Unit Kerja merupakan subportal web yang memuat\nidentitas, tugas dan fungsi Kementerian, dan konten-konten lain\nterkait Unit Kerja Eselon I. Alamat subportal web Unit Kerja\ndisesuaikan dengan kebijakan dan standar Nama Domain yang\ndiatur dalam Peraturan Menteri ini.\n4. Setiap Pimpinan Unit Kerja bertanggung jawab untuk menugaskan\npegawai/tim di unit masing-masing sebagai pengelola konten Portal\nWeb.\nIV. TANGGUNG JAWAB\nPihak yang terkait dalam kegiatan penyelenggaraan dan pengelolaan\nPortal Web terdiri atas:\n1. Pengelola Portal Web adalah PDSI yang bertanggung jawab\nmenyelenggarakan dan melakukan pemeliharaan Portal Web\nKementerian Perdagangan dan Unit Kerja.\n2. Penangung jawab konten Portal Web Kementerian Perdagangan\nadalah PDSI bersama Unit Kerja. Penetapan penanggung jawab\nkonten Portal Web Kementerian Perdagangan diatur dalam\nkebijakan dan tata kelola Portal Web yang ditetapkan dalam\nPeraturan Menteri ini.\n3. Penanggung jawab konten Portal Web Unit Kerja adalah Unit Kerja\nmasing-masing.\n4. Pengguna adalah publik baik eksternal maupun internal\nKementerian Perdagangan.\nV. PENGELOLAAN PORTAL WEB\nPengelolaan Portal Web dilaksanakan oleh PDSI dengan lingkup kegiatan\nsebagai berikut:\n1. Kegiatan pengelolaan Portal Web meliputi penyelenggaraan dan\npemeliharaan Portal Web yang mengacu pada kebijakan dan\nstandar pengembangan Aplikasi yang ditetapkan dalam Peraturan\nMenteri ini.\n2. Penyelenggaraan Portal Web meliputi perencanaan, perancangan,\npembuatan, dan pengembangan yang dapat menghasilkan keluaran\nberupa rancangan dan/atau aplikasi Portal Web Kementerian\nPerdagangan dan Unit Kerja eselon I.\n3. Pemeliharaan Portal Web meliputi perbaikan atau perubahan pada\naplikasi Portal Web Kementerian Perdagangan dan Unit Kerja untuk\nmenjaga keberlangsungan Portal Web agar tetap beroperasi dengan\nbaik.\n4. Konten yang belum tersedia dan akan ditayangkan pada Portal Web\nKementerian Perdagangan dalam rangka penyesuaian terhadap\nkebijakan baru, disediakan oleh PDSI berdasarkan usulan dari Unit\nKerja/pemilik proses bisnis yang ditunjuk sebagai penanggung\njawab konten. Usulan dan pembuatan konten sebagaimana\ndimaksud mengikuti ketentuan yang berlaku.\nVI. PENANGGUNG JAWAB KONTEN PORTAL WEB\n1. Portal Web Kementerian Perdagangan\nKelengkapan informasi dan pemutakhiran konten yang tersedia di\nPortal Web Kementerian Perdagangan menjadi tanggung jawab PDSI\nbersama dengan Unit Kerja. Penetapan penanggung jawab konten\nPortal Web Kementerian Perdagangan sesuai dengan matriks tugas\ndan tanggung jawab sebagai berikut:\nNO KONTEN\nUNIT KERJA\nPELAKSANA\n1.  Sejarah, Tugas, dan Fungsi Kementerian\nPerdagangan\nBiro Hubungan\nMasyarakat\n2.  Struktur \t Organisasi \t Kementerian\nPerdagangan\nBiro Organisasi\ndan Kepegawaian\n3.  Transparansi Kerja Unit kerja Terkait\n4.  Reformasi Birokrasi Biro Organisasi\ndan Kepegawaian\ndan Sekretariat\nInspektorat\nJenderal\n5.  Pejabat Kementerian Perdagangan Biro Organisasi\ndan Kepegawaian\n6.  Pejabat Perwakilan Perdagangan Biro Organisasi\ndan Kepegawaian\n7.  Regulasi Biro Hukum\n8.  Siaran Pers dan Pidato Biro Hubungan\nMasyarakat\n9.  Berita Biro Hubungan\nMasyarakat\n10.  Kegiatan Biro Hubungan\nMasyarakat\n11.  Pengumuman PDSI\n12.  Galeri Foto dan Video Biro Hubungan\nMasyarakat\n13.  Statistik Perdagangan PDSI\nSalinan sesuai dengan aslinya\nSekretariat Jenderal\nPerdagangan\nHukum,\nSYIST\nNO KONTEN\nUNIT KERJA\nPELAKSANA\n14.  Publikasi Perdagangan Unit kerja terkait\n15.  Banner/Link PDSI\n16.  F.A.Q Unit kerja terkait\n17.  Kontak Kami Biro Hubungan\nMasyarakat\n18.  Catatan kaki dan Hak Cipta PDSI\n2. Portal Web Unit Kerja\nKelengkapan informasi dan pemutakhiran/perubahan konten yang\ntersedia di Portal Web Unit Kerja menjadi tanggung jawab Unit Kerja\nmasing-masing.\nMENTERI PERDAGANGAN REPUBLIK INDONESIA,\nTtd.\nENGGARTIASTO LUKITA\nLAMPIRAN V\nPERATURAN MENTERI PERDAGANGAN REPUBLIK INDONESIA\nNOMOR 46/M-DAG/PER/7/2017\nTENTANG\nPENYELENGGARAAN TEKNOLOGI INFORMASI DAN KOMUNIKASI\nDI LINGKUNGAN KEMENTERIAN PERDAGANGAN\nTAHAPAN PERALIHAN\nI. UMUM\nTahapan peralihan merupakan langkah-langkah lebih lanjut yang wajib\ndilakukan dalam rangka efektifitas pelaksanaan Peraturan Menteri ini.\nH. RUANG LINGKUP\nRuang lingkup dari tahapan peralihan meliputi:\na. Infrastruktur TIK Kementerian Perdagangan; dan\nb. Anggaran Infrastruktur TIK.\nc. Data Perdagangan dan Informasi Perdagangan.\nIII. PENYELENGGARAAN PERALIHAN\n1. Infrastruktur TIK Kementerian Perdagangan\nPeralihan pengelolaan seluruh Infrastruktur TIK Kementerian\nPerdagangan kepada PDSI meliputi hal-hal sebagai berikut:\na. Akses administrator seluruh Aplikasi dan/atau database\nberikut server.\nb. Relokasi server, Aplikasi, dan/atau database yang masih\nditempatkan di luar Data Center Kementerian Perdagangan.\nc. Dokumen Teknis terkait Aplikasi dan/atau database.\nd. Transfer knowledge Aplikasi meliputi proses bisnis,\npengembangan Aplikasi, dan pengetahuan lain yang dibutuhkan\ndalam mengoptimalkan pengelolaan Aplikasi.\ne. Nama Domain dan/atau subdomain yang belum menggunakan\nnomenklatur resmi Kementerian Perdagangan wajib\nmenyesuaikan dengan kebijakan dan standar Nama Domain dan\nsubdomain yang ditetapkan dalam Peraturan Menteri ini.\nf. Hal lain yang mendukung efektifitas penyelenggaraan TIK.\n2. Data Perdagangan dan Informasi Perdagangan\nUnit Kerja harus melakukan peralihan terhadap seluruh Data\nPerdagangan dan Informasi Perdagangan di lingkungan Kementerian\nPerdagangan terhadap hal-hal sebagai berikut:\na. penyampaian Data perdagangan dan Informasi Perdagangan\ndari Unit Kerja ke PDSI.\nb. pembuatan klasifikasi hak akses Data oleh seluruh Unit Kerja\nuntuk menjaga keamanan informasi (information security)\ndengan berkoordinasi bersama PDSI.\nc. pencantuman sumber referensi Data Perdagangan dan Informasi\nperdagangan.\nd. hal lain yang mendukung efektifitas pengelolaan Data dan\nInformasi di Lingkungan Kementerian perdagangan.\n3. Anggaran Infrastruktur TIK\nSeluruh anggaran Infrastruktur TIK Kementerian Perdagangan wajib\ndialokasikan melalui anggaran PDSI. Alokasi anggaran Infrastruktur\nTIK adalah sebagai berikut:\na. Anggaran Infrastruktur TIK Kementerian Perdagangan tahun\n2017 tetap dapat digunakan oleh Unit Kerja.\nb. Anggaran Infrastruktur TIK Kementerian Perdagangan akan\ndialihkan ke PDSI mulai Tahun Anggaran 2018.\nMENTERI PERDAGANGAN REPUBLIK INDONESIA,\nTtd.\nENGGARTIASTO LUKITA\nSalinan sesuai dengan aslinya\ntariat Jenderal\nPerdagangan\no Hukum,\nM. SYIST"
+   }
+  }
+ ]
+}

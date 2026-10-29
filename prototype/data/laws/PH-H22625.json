@@ -1,0 +1,72 @@
+{
+ "id": "PH-H22625",
+ "title": {
+  "zh": null,
+  "en": "Amending Presidential Decree Numbered Eight Hundred and Twenty Four Entitled \"Creating the Metropolitan Manila and the Metropolitan Manila Commission and for Other Purposes",
+  "orig": "Amending Presidential Decree Numbered Eight Hundred and Twenty Four Entitled \"Creating the Metropolitan Manila and the Metropolitan Manila Commission and for Other Purposes"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1977-12-27",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 1274",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 641,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_01274_1977_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_01274_1977_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22625-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "A new section is hereby inserted after Section 14 thereof, to be designated as Section 15, which\nshall read as follows:\n\"Sec. 15. Until the organization or appointment of the members of the Metropolitan Manila Commission, the\nGovernor of Chairman thereof shall exercise the powers and functions of the commission.\""
+   }
+  },
+  {
+   "id": "PH-H22625-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The existing Sections 15 and 16 of Presidential Decree No. 824 are hereby renumbered as\nSections 16 and 17, respectively."
+   }
+  },
+  {
+   "id": "PH-H22625-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Decree shall take effect as of the date Presidential Decree No. 824 became effective.\nDone in the City of Manila, this 27th day of December, in the year of Our Lord, nineteen hundred and\nseventy-seven."
+   }
+  }
+ ]
+}

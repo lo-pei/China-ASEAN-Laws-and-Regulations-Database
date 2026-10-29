@@ -1,0 +1,78 @@
+{
+ "id": "MY-H593",
+ "title": {
+  "zh": "食品捐赠者保护法",
+  "en": "FOOD DONORS PROTECTION ACT",
+  "orig": "FOOD DONORS PROTECTION ACT",
+  "vi": "Luật về Bảo vệ người hiến tặng thực phẩm",
+  "th": "พระราชบัญญัติการคุ้มครองผู้บริจาคอาหาร",
+  "id": "Undang-Undang Perlindungan Donor Pangan",
+  "ms": "Akta Perlindungan Penderma Makanan"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-13",
+ "language": "en",
+ "level": "law",
+ "category": "05_其他及未分类",
+ "status": "active",
+ "promulgatedDate": "2020",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "ACT826",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 3,
+ "chars": 1883,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-detail.php?act=826&lang=BI"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\05_其他及未分类\\2020_826_FOOD DONORS PROTECTION ACT.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 3 条；逐字未改写（AI 自行 OCR）。",
+ "textQuality": "ocr-ai",
+ "articles": [
+  {
+   "id": "MY-H593-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "1. (1) This Act may be cited as the Food Donors Protection\nAct 2020.\n\n(2) This Act comes into operation on a date to be appointed\nby the Minister by notification in the Gazette.\nInterpretation"
+   }
+  },
+  {
+   "id": "MY-H593-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "2. In this Act, unless the context otherwise requires —\n\n\"food\" means food used or intended for use in whole or in\npart for human consumption and includes—\n\n(a) any raw, surplus, cooked, processed or prepared edible\nsubstance;\n\n(b) any surplus, cooked, processed or prepared beverage; and\n(c) any raw, surplus, processed or prepared ingredient;\n\n\"food donor\" means any person who donates or distributes food\nto any person without any payment or any form of consideration\nand includes any corporation, partnership, enterprise, association,\ngovernment entity, manufacturer, supplier, wholesaler, retailer,\nhypermarket, supermarket, hotel, restaurant, caterer, agricultural\nproducer, charitable institution, charitable organization, foundation\nor other organization or entity and its director, agent, or employee,\nor volunteer.\n\nProtection of food donors"
+   }
+  },
+  {
+   "id": "MY-H593-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "3. A food donor shall not incur any civil liability in respect of\nany personal injury or disease suffered by any person, or the\ndeath of any person, resulting from the consumption of the food\ndonated or distributed by the food donor unless it can be proven\nthat—\n\n(a) the personal injury, disease or death was caused by the\nnegligence or the willful misconduct of the food donor;\n\n(b) the food donor has not complied with any requirement\nin relation to food safety and food hygiene under any\nwritten law before donating or distributing the food;\n\n(c) the food was not safe for consumption at the time it was\ndonated or distributed to any person; and\n\n(d) the donation or distribution of food was not made in good\nfaith.\n\nDICETAK OLEH\nPERCETAKAN NASIONAL MALAYSIA BERHAD,\nKUALA LUMPUR\n\n= BAGI PIHAK DAN DENGAN PERINTAH KERAJAAN MALAYSIA\nPNMB"
+   }
+  }
+ ]
+}

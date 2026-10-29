@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13955",
+ "title": {
+  "zh": null,
+  "en": "An Act Amending Section three of Act Numbered Twenty-Nine Hundred and Forty-One, as Amended.",
+  "orig": "An Act Amending Section three of Act Numbered Twenty-Nine Hundred and Forty-One, as Amended."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1926-12-04",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3320",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 730,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1926/act_3320_1926.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03320_1926_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03320_1926_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13955-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section three of Act Numbered Twenty-nine hundred and forty-one, as amended, is hereby\nfurther amended to read as follows:\n\"Section 3. Salaries of judges of first instance.- The judges of first instance of the fifth, ninth, twelfth,\nfourteenth, nineteenth, twentieth, twenty-second, twenty-third, and twenty-sixth judicial districts shall receive\nan annual salary of ten thousand pesos each; those of the third, sixth, seventh, eleventh, thirteenth, fifteenth,\nand seventeenth, nine thousand pesos; and those of the other judicial districts and the auxiliary judges of first\ninstance, eight thousand pesos. The clerk of the Supreme Court, six thousand pesos.\""
+   }
+  },
+  {
+   "id": "PH-H13955-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, December 4, 1926."
+   }
+  }
+ ]
+}

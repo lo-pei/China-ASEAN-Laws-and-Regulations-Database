@@ -1,0 +1,112 @@
+{
+ "id": "PH-H13717",
+ "title": {
+  "zh": null,
+  "en": "An Act to Regulate the Sale of VIruses, Serums, Toxins, and Analogous Products in the Philippine Islands",
+  "orig": "An Act to Regulate the Sale of VIruses, Serums, Toxins, and Analogous Products in the Philippine Islands"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1923-03-16",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3073",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 7,
+ "chars": 4369,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1923/act_3073_1923.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03073_1923_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 7 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03073_1923_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13717-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "From and after six months after the promulgation of the regulations authorized by section four of\nthis Act no person, firm, or corporation shall sell, barter, or exchange, or offer for sale, barter, or exchange in\nthe Philippine Islands, or send, carry, or bring for sale, barter, or exchange from any foreign country into the\nPhilippine Islands or from the Philippine Islands into any foreign country any virus, therapeutic serum, toxin,\nantitoxin or analogous product applicable to the prevention and cure of disease in man, unless (a) such virus,\nserum, toxin, antitoxin, or analogous product has been propagated and prepared by any person, firm, or\ncorporation holding an unsuspended and unrevoked license issued by the Secretary of Public Instruction on\nrecommendation of the Director of Health, as hereinafter authorized, to propagate and prepare such virus,\nserum, toxin, antitoxin or analogous product for sale in the Philippine Islands, or for sending, bringing or\ncarrying from or to any foreign country; (b) unless each package of such virus, serum, toxin, antitoxin or\nanalogous products is plainly marked with the proper name of the article contained therein, the name, address\nand license number of the manufacturer, and the date beyond which the contents cannot be expected beyond\nreasonable doubt to yield their specific results: Provided, That the suspension or revocation of any license\nshall not prevent the sale, barter, or exchange of any virus, serum, toxin or antitoxin, or analogous product\naforesaid which has been sold and delivered by the licensee prior to such suspension or revocation, unless the\nowner or custodian of such virus, serum, toxin, antitoxin or analogous product as aforesaid has been notified\nby the Secretary of Public Instruction not to sell, barter, or exchange same."
+   }
+  },
+  {
+   "id": "PH-H13717-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "No person shall falsify, relabel or remark any package or container of any virus, serum, toxin,\nantitoxin or analogous product aforesaid; nor alter any label or mark on any package or container of any virus,\nserum, toxin, antitoxin, or analogous product aforesaid so as to falsify such label or mark."
+   }
+  },
+  {
+   "id": "PH-H13717-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "Any officer, agent, or employee of the Bureau of Health duly authorized by the Director of\nHealth for that purpose, may, for the safeguarding of the public health, enter and inspect any establishment for\nthe propagation and preparation of any virus, serum, toxin, antitoxin or analogous product aforesaid for sale,\nbarter or exchange in the Philippine Islands, or to be sent, carried, or brought from the Philippine Islands into\nany foreign country or from any foreign country into the Philippine Islands."
+   }
+  },
+  {
+   "id": "PH-H13717-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "A board is hereby created, composed of the Secretary of Public Instruction as chairman, and the\nDirector of Health and the Director of Bureau of Science as members, with authority to promulgate from time\nto time such rules as may be necessary in the judgment of said board to govern the issue, suspension, and\nrevocation of licenses for the propagation and preparation of viruses, serums, toxins, antitoxins, and analogous\nproducts, applicable to the cure of disease of man and intended for sale in the Philippine Islands or any other\ncountry: Provided, That all licenses issued for the propagation and preparation of any virus, serum, toxin,\nantitoxin or analogous product aforesaid imported for sale, barter, or exchange in the Philippine Islands shall\nbe issued upon condition that licenses shall permit the inspection of the establishments where said articles are\npropagated and prepared in accordance with section three of this Act. Applications in accordance with the\nprovisions of this Act shall be submitted to the Secretary of Public Instruction, who is hereby authorized and\ndirected to issue, suspend or revoke, upon recommendation of the Director of Health, licenses issued in\naccordance with this Act."
+   }
+  },
+  {
+   "id": "PH-H13717-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "text": {
+    "en": "No person shall interfere with any officer, agent, or any employee of the Philippine Government\nin the performance of any duty imposed upon him by this Act, or by regulations made by authority thereof."
+   }
+  },
+  {
+   "id": "PH-H13717-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "text": {
+    "en": "Any person who shall violate, or aid or abet in violating any of the provisions of this Act shall be\npunished by a fine not exceeding one thousand pesos, or by imprisonment not exceeding one year, or by both\nsuch fine and imprisonment, in the discretion of the court."
+   }
+  },
+  {
+   "id": "PH-H13717-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, March 16, 1923."
+   }
+  }
+ ]
+}

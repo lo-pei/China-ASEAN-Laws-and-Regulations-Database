@@ -1,0 +1,826 @@
+{
+ "id": "ID-H2225",
+ "title": {
+  "zh": "交通事故调查法",
+  "en": "Law on the Investigation of Transportation Accidents",
+  "id": "INVESTIGASI KECELAKAAN TRANSPORTASI",
+  "orig": "INVESTIGASI KECELAKAAN TRANSPORTASI",
+  "vi": "Luật về Điều tra Tai nạn Giao thông Vận tải",
+  "th": "พระราชบัญญัติว่าด้วยการสอบสวนอุบัติเหตุการขนส่ง",
+  "ms": "Akta tentang Siasatan Kemalangan Pengangkutan"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02a",
+ "language": "id",
+ "level": "law",
+ "category": "03_涉外投资与贸易",
+ "status": "active",
+ "promulgatedDate": "2013",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU62-2013",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 55,
+ "chars": 30897,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PP%20Nomor%2062%20Tahun%202013.pdf&fl=P17577"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\03_涉外投资与贸易\\印尼_文本_2013_INVESTIGASI KECELAKAAN TRANSPORTASI.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 55 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H2225-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\n\nDalam Peraturan Pemerintah ini yang dimaksud dengan:\n\n1. Investigasi Kecelakaan T ransportasi adalah kegiatan\npenelitian terhadap penyebab kecelakaan transportasi\ndengan cara pengumpulan, pengolahan, analisis, dan\npenyajian data secara sistematis dan objektif agar tidak\nterjadi kecelakaan transportasi dengan penyebab yang\nsama.\n\n2. Kecelakaan Transportasi adalah peristiwa atau kejadian\npengoperasian sarana transportasi yang mengakibatkan\nkerusakan sarana transportasi , korban jiwa , dan/atau\nkerugian harta benda.\n\n3. Investigator adalah orang yang mempunyai kualifikasi dan\nkompetensi tertentu untuk melaksanakan kegiatan\nInvestigasi Kecelakaan Transportasi.\n\n4. Kereta Api adalah sarana perkeretaapian dengan tenaga\ngerak, baik berjalan sendiri maupun dirangkaikan dengan\nsarana perkeretaapian lainnya, yang akan ataupun sedang\nbergerak di jalan rel yang terkait dengan perjalanan kereta\napi.\n\n5. Kapal adalah kendaraan air dengan bentuk dan jenis\ntertentu, yang digerakkan dengan tenaga angin, tenaga\nmekanik, energi lainnya, ditarik atau ditunda, terma suk\nkendaraan yang berdaya dukung dinamis, kendaraan di\nbawah permukaan air, serta alat apung dan bangunan\nterapung yang tidak berpindah-pindah.\n\n\n6. Pesawat Udara adalah setiap mesin atau alat yang dapat\nterbang di atmosfer karena gaya angkat dari reaksi uda ra,\ntetapi bukan karena reaksi udara terhadap permukaan\nbumi yang digunakan untuk penerbangan.\n\n7. Kejadian . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n7. Kejadian Serius adalah suatu kondisi pengoperasian\nPesawat Udara hampir terjadinya kecelakaan.\n\n8. Menteri adalah menteri yang menyelenggarakan urusan\npemerintahan di bidang transportasi."
+   }
+  },
+  {
+   "id": "ID-H2225-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\n\nInvestigasi Kecelakaan Transportasi  diselenggarakan\nberdasarkan prinsip:\n\na. tidak untuk mencari kesalahan (no blame);\n\nb. tidak untuk memberikan sanksi/hukuman ( no judicial);\ndan\n\nc. tidak untuk mencari siapa yang bertanggung j awab\nmenanggung kerugian (no liability)."
+   }
+  },
+  {
+   "id": "ID-H2225-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\n\nInvestigasi Kecelakaan Transportasi  diselenggarakan untuk\nmengungkap suatu peristiwa kecelakaan transportasi secara\nprofesional dan independen guna memperoleh data dan fakta\npenyebab terjadinya kecelakaan transportasi."
+   }
+  },
+  {
+   "id": "ID-H2225-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\n\nPelaksanaan Investigasi Kecelakaan Transportasi\nsebagaimana dimaksud dalam Pasal 3 dilakukan oleh Komite\nNasional Keselamatan Transportasi."
+   }
+  },
+  {
+   "id": "ID-H2225-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\n\nKedudukan, Tugas, dan Organisasi Komite Nasional\nKeselamatan Transportasi diatur dengan Peraturan Presiden.\n\n\n\nBAB II . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\nBAB II\n\n\nKECELAKAAN TRANSPORTASI"
+   }
+  },
+  {
+   "id": "ID-H2225-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\n\nInvestigasi Kecelakaan Transportasi dilakukan terhadap:\n\na. kecelakaan Kereta Api;\n\nb. kecelakaan Kapal;\n\nc. kecelakaan Pesawat Udara; dan\n\nd. kecelakaan tertentu kendaraan bermotor umum."
+   }
+  },
+  {
+   "id": "ID-H2225-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\n\nKecelakaan Kereta Api sebagaimana dimaksud dalam Pasal 6\nhuruf a terdiri atas:\n\na. tabrakan antar Kereta Api;\n\nb. Kereta Api terguling;\n\nc. Kereta Api anjlok; dan/atau\n\nd. Kereta Api terbakar."
+   }
+  },
+  {
+   "id": "ID-H2225-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n\nKecelakaan Kapal sebagaimana dimaksud dalam P asal 6\nhuruf b terdiri atas:\n\na. Kapal tenggelam;\nb. Kapal terbakar;\nc. Kapal tubrukan; dan/atau\nd. Kapal kandas."
+   }
+  },
+  {
+   "id": "ID-H2225-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n\nKecelakaan Pesawat Udara sebagaimana dimaksud dalam\nPasal 6 huruf c terdiri atas:\n\na. Pesawat Udara yang jatuh pada saat tinggal landas, lepas\nlandas, atau selama penerbangan;\n\nb. tabrakan antar Pesawat Udara atau antar Pesawat Udara\ndengan fasilitas di bandar udara;\n\nc. Pesawat Udara yang hilang atau tidak dapat diketemukan;\ndan/atau\n\nd. Pesawat Udara yang mengalami Kejadian Serius  (serious\nincident)."
+   }
+  },
+  {
+   "id": "ID-H2225-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10 "
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 10 . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\nPasal 10\n\nKecelakaan tertentu kendaraan bermotor umum sebagaimana\ndimaksud dalam Pasal 6 huruf d terdiri atas:\n\na. tabrakan antar kendaraan bermotor umum , antar a\nkendaraan bermotor umum dengan Kereta Api , atau\nantara kendaraan  bermotor umum dengan fasilitas atau\ndengan benda-benda lainnya;\n\nb. kendaraan bermotor umum terguling;\n\nc. kendaraan bermotor umum  jatuh ke jurang atau sungai;\ndan/atau\n\nd. kendaraan bermotor umum terbakar.\n\nBAB III\nKRITERIA KECELAKAAN TRANSPORTASI"
+   }
+  },
+  {
+   "id": "ID-H2225-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\n\n(1) Setiap investigasi kecelakaan Kereta Api, Kapal, Pesawat\nUdara, dan kecelakaan tertentu terhadap kendaraan\nbermotor umum sebagaimana dimaksud dalam Pasal 6\ndilakukan oleh Komite Nasional Keselamatan Transportasi.\n(2) Komite Nasional Keselamatan Transportasi  dalam\nmelakukan investigasi kecelakaan tertentu terhadap\nkendaraan bermotor umum sebagaimana dimaksud pada\nayat (1) wajib berkoordinasi dengan Kepolisian Negara\nRepublik Indonesia."
+   }
+  },
+  {
+   "id": "ID-H2225-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n\nKecelakaan Kereta Api  yang wajib dilakukan Investigasi\nKecelakaan Tr ansportasi oleh Komite Nasional Keselamatan\nTransportasi sebagaimana dimaksud dalam Pasal  11 yaitu\nkecelakaan yang mengakibatkan:\n\na. korban jiwa; dan/atau\n\nb. kerusakan atau tidak dapat beroperasinya Kereta Api yang\nmengakibatkan rintang jalan selama lebih dari  6 (enam)\njam untuk 2 (dua) arah."
+   }
+  },
+  {
+   "id": "ID-H2225-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\n\n(1) Kecelakaan Kapal yang wajib dilakukan Investigasi\nKecelakaan Transportasi oleh Komite Nasional\nKeselamatan Transportasi seb agaimana dimaksud dalam\nPasal 11 meliputi:\na. kecelakaan . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\na. kecelakaan Kapal dengan bobot lebih dari GT  100\n(seratus Gross Tonage ) untuk Kapal penumpang,\nKapal penyeberangan, dan Kapal ikan; atau\n\nb. kecelakaan Kapal dengan bobot lebih dari GT 500\n(lima ratus Gross Tonage) untuk Kapal barang dan\nKapal tangki.\n\n(2) Kecelakaan Kapal sebagaimana dimaksud pada ayat (1 )\nyaitu kecelakaan yang mengakibatkan:\n\na. korban jiwa;\n\nb. kerusakan atau tidak dapat beroperasinya Kapal\ndan/atau fasilitas di perairan; dan/atau\n\nc. pencemaran laut."
+   }
+  },
+  {
+   "id": "ID-H2225-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\n\nInvestigasi Kecelakaan Transportasi  terhadap Kapal asing\nyang mengalami kecelakaan di wilayah Negara Kesatuan\nRepublik Indonesia dilakukan atas permintaan negara\nbendera Kapal yang bersangkutan sesuai  dengan ketentuan\ninternasional dan hukum nasional."
+   }
+  },
+  {
+   "id": "ID-H2225-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\n\nDalam hal Kapal berbendera Indonesia mengalami kecelakaan\ndi luar wilayah  Negara Kesatuan Republik Indonesia, Komite\nNasional Kese lamatan Transportasi melakukan Investigasi\nKecelakaan Transportasi di negara tempat terjadinya\nkecelakaan sesuai dengan ketentuan internasional."
+   }
+  },
+  {
+   "id": "ID-H2225-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\n\n(1) Kecelakaan Pesawat Udara sebagaimana dimaksud\ndalam Pasal 11 wajib dilakukan Investigasi Kecelakaan\nTransportasi oleh Komite Nasional Keselamatan\nTransportasi yaitu kecelakaan yang mengakibatkan:\n\na. korban jiwa/luka serius; dan/atau\n\nb. kerusakan berat  pada peralatan/fasilitas yang\ndigunakan.\n\n(2) Investigasi Kecelakaan Transportasi  sebagaimana\ndimaksud pada ayat (1) wajib dilakukan pula terhadap\nPesawat Udara yang mengalami Kejadian Serius (serious\nincident)."
+   }
+  },
+  {
+   "id": "ID-H2225-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17 "
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 17 . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\nPasal 17\n\n(1) Pesawat Udara asing yang mengalami kecelakaan di\nwilayah Negara Kesatuan Republik Indones ia, wajib\ndilakukan Investigasi Kecelakaan Transportasi oleh\nKomite Nasional Keselamatan Transportasi.\n\n(2) Investigasi Kecelakaan Transportasi  sebagaimana\ndimaksud pada ayat (1) dapat mengikutsertakan  wakil\nresmi dari negara ( acredited representative ) tempat\nPesawat Udara didaftarkan, negara tempat badan usaha\nangkutan udara, negara tempat perancang Pesawat\nUdara, dan negara tempat pembuat Pesawat Udara ,\nsepanjang tidak bertentangan dengan kepentingan\nnasional dan ketentuan peraturan perundang -\nundangan."
+   }
+  },
+  {
+   "id": "ID-H2225-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\n\n\nDalam hal Pesawat Udara yang didaftarkan di Indonesia\nmengalami kecelakaan di luar wilayah Negara Kesatuan\nRepublik Indonesia, Komite Nasional Keselamatan\nTransportasi dapat mengirimkan wakil resmi dari negara\n(acredited representative ) untuk berpar tisipasi dalam\ninvestigasi tersebut."
+   }
+  },
+  {
+   "id": "ID-H2225-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\n\nKecelakaan tertentu kendaraan bermotor umum sebagaimana\ndimaksud dalam Pasal 6 huruf d, meliputi:\n\na.  terdapat korban jiwa paling sedikit 8 (delapan) orang;\n\nb.  mengundang perhatian publik secara luas;\n\nc.  menimbulkan polemik/kontroversi;\n\nd.  menimbulkan prasarana rusak berat;\n\ne.  berulang-ulang pada merek dan/atau tipe kendaraan\nyang sama dalam satu tahun;\n\nf.  berulang-ulang pada lokasi yang sama dalam satu\ntahun; dan/atau\n\ng.  mengakibatkan pencemar an lingkungan akibat limbah\natau Bahan Berbahaya dan Beracun (B3) yang diangkut.\n\n\n\n\n\nBAB IV . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBAB IV\n\nPEMBERITAHUAN KECELAKAAN TRANSPORTASI"
+   }
+  },
+  {
+   "id": "ID-H2225-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\n\nSetiap Kereta Api yang mengalami kecelakaan sebagaimana\ndimaksud dalam Pasal 12 wajib diberitahukan kepada Ko mite\nNasional Keselamatan Transportasi oleh:\n\n\na. penyelenggara prasarana Kereta Api;\nb. penyelenggara sarana Kereta Api; atau\nc. kementerian yang menyelenggarakan urusan\npemerintahan di bidang transportasi."
+   }
+  },
+  {
+   "id": "ID-H2225-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\n\nSetiap kecelakaan Kapal sebagaimana dimaksud dalam Pasal\n13 wajib diberitahukan kepada Komite Nasional Keselamatan\nTransportasi oleh:\n\n\na. nakhoda;\nb. pemilik Kapal; atau\nc. kementerian yang menyelenggarakan urusan\npemerintahan di bidang transportasi."
+   }
+  },
+  {
+   "id": "ID-H2225-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\n\nSetiap kecelakaan Pesawat Udara dan Kejadian Serius\nPesawat Udara sebagaimana dimaksud da lam Pasal 1 6 wajib\ndiberitahukan kepada Komite Nasiona l Keselamatan\nTransportasi oleh:\n\na. badan usaha angkutan udara;\nb. penyedia jasa penerbangan; atau\nc. kementerian yang menyelenggarakan urusan\npemerintahan di bidang transportasi."
+   }
+  },
+  {
+   "id": "ID-H2225-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23 "
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 23 . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\nPasal 23\n\nKomite Nasional Keselamatan Transportasi  wajib segera\nmeneruskan pemberitahuan kecelakaan Pesawat Udara atau\nKejadian Serius  sebagaimana dimaksud dalam Pasal 22\nkepada:\n\na. negara tempat pesawat terdaftar;\nb. negara operator;\nc. negara tempat perancang pesawat;\nd. negara industri pesawat atau komponen; dan\ne. International Civil Aviation Organization  apabila berat\npesawat melebihi 2.250 Kg  (dua ribu dua ratus lima\npuluh kilogram)."
+   }
+  },
+  {
+   "id": "ID-H2225-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  24\n\n(1) Pemberitahuan Kecelakaan Transportasi sebagaimana\ndimaksud dalam Pasal 20, Pasal 21, dan Pasal 22\ndisampaikan segera dengan cara lisan atau tertulis.\n\n(2) Pemberitahuan Kecelakaan Transportasi paling sedikit\nmemuat:\na. lokasi kejadian;\nb. waktu kejadian;\nc. akibat kecelakaan;\nd. jumlah korban jiwa dan/atau luka-luka; dan\ne. prasarana dan sarana transportasi yang mengalami\nkecelakaan."
+   }
+  },
+  {
+   "id": "ID-H2225-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\n\nKetentuan lebih lanjut mengenai tata cara dan prosedur\npemberitahuan diatur dengan Peraturan Ketua Komite\nNasional Keselamatan Transportasi.\n\n\n\n\n\n\n\nBAB V . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\nBAB V\n\nPELAKSANAAN INVESTIGASI KECELAKAAN TRANSPORTASI\n\nBagian Kesatu\n\nPelaksanaan Investigasi"
+   }
+  },
+  {
+   "id": "ID-H2225-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\n\n(1) Setelah menerima pemberitahua n terjadinya kecelakaan\nKereta Api, Kapal, dan Pesawat Udara, sebagaimana\ndimaksud dalam Pasal 20, Pasal 21, dan Pasal 22, Komite\nNasional Keselamatan Transportasi melakukan persiapan\ninvestigasi.\n\n(2) Persiapan investigasi sebagaimana dimaksud pada ayat\n(1) meliputi:\n\na. membentuk tim investigasi;\nb. mempersiapkan peralatan investigasi; dan\nc. melakukan koordinasi dengan instansi terkait atau\noperator sarana transportas i yang mengalami\nkecelakaan.\n\n(3) Tim investigasi s ebagaimana dimaksud pada ayat ( 2)\nhuruf a ditetapkan oleh Ketua Komite Nasional\nKeselamatan Transportasi."
+   }
+  },
+  {
+   "id": "ID-H2225-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\n\nSetelah persiapan investigasi sebagaimana dimaksud dalam\nPasal 26,  Komite Nasional Keselamat an Transportasi\nmelakukan investigasi awal di lokasi Kecelakaan Transportasi."
+   }
+  },
+  {
+   "id": "ID-H2225-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\n\nInvestigasi awal sebagaimana dimaksud dalam Pasal 27 paling\nsedikit dilakukan dengan:\n\na. mengumpulkan data dan barang bukti Kecelakaan\nTransportasi;\nb. mengambil gambar atau foto;\nc. mendata korban; dan/atau\nd. mengumpulkan informasi dan keterangan di lokasi\nKecelakaan Transportasi dari pihak yang mengetahui\nkejadian kecelakaan."
+   }
+  },
+  {
+   "id": "ID-H2225-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29 "
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kesatu"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 29 . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\nPasal 29\n\nDalam rangka pemenuhan data, keterangan, informasi , dan\npengumpulan barang bukti  yang lebih  lengkap dapat\ndilakukan investigasi lanjutan."
+   }
+  },
+  {
+   "id": "ID-H2225-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\n\nInvestigasi lanjutan sebagaimana dimaksud dalam Pasal 29\npaling sedikit dilakukan dengan:\n\na. meminta keterangan dari pihak yang terkait dengan\nkecelakaan;\n\nb. mengumpulkan data tambahan untuk melengka pi data\ninvestigasi awal;\n\nc. melakukan uji laboratorium; dan/atau\n\nd. membuat analisis dari hasil keterangan, pengumpulan\nbarang bukti Kecelakaan Transportas i, dan data yang\ntelah diperoleh."
+   }
+  },
+  {
+   "id": "ID-H2225-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  31\n\n(1) Pelaksanaan Investigasi Kecelaka an Transportasi\ndilakukan oleh Investigator.\n\n(2) Investigator sebagaimana dimaksud pada ayat (1) wajib\nmemiliki kualifikasi dan kompetensi kecakapan tertentu\nyang dibuktikan dengan sertifikat kecakapan.\n\n(3) Sertifikat kecakapan sebagaimana dimaksud pada ayat\n(2) diperoleh melalui pendidikan dan pelatihan."
+   }
+  },
+  {
+   "id": "ID-H2225-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 32\n\nKetentuan lebih lanjut mengenai tata cara dan persyaratan\npengangkatan Investigator diatur dengan Peraturan Ketua\nKomite Nasional Keselamatan Transportasi.\n\n\n\n\n\n\n\n\nBagian Kedua . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\nBagian Kedua\n\n         Pengamanan Sarana Transportasi dan Lokasi Kecelakaan Transportasi"
+   }
+  },
+  {
+   "id": "ID-H2225-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 33\n\nSetiap orang dilarang merusak atau menghilangkan barang\nbukti Kecelakaan Transportasi , mengubah letak sarana\ntransportasi, memindahkan barang bukti , dan mengambil\nbagian dari sarana transportasi atau barang  lainnya yang\ntersisa akibat Kecelakaan Transportasi  kecuali untuk\nkepentingan penyelidikan dan/atau penyidikan."
+   }
+  },
+  {
+   "id": "ID-H2225-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 34\n\n(1) Pemindahan barang bukti sebagaimana dimaksud\ndalam Pasal 33 dapat dilaksanakan oleh pejabat\nberwenang setelah berkoordinasi dengan  Komite\nNasional Keselamatan Transportasi kecuali mengganggu\nkepentingan umum.\n\n(2) Pejabat yang berwenang sebagaimana dimaksud pada\nayat (1) terdiri atas:\n\na. pejabat yang berwenang di bidang transportasi\nperkeretaapian;\n\nb. pejabat yang berwenang di bidang transportasi laut;\n\nc. pejabat yang berwenang di bidang transportasi\nudara; atau\n\nd. pejabat yang berwenang di bidang transportasi  lalu\nlintas dan angkutan jalan."
+   }
+  },
+  {
+   "id": "ID-H2225-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  35\n\nPejabat yang berwenang  sebagaimana dimaksud dalam Pasal\n34 ayat (2) wajib melakukan pengamanan sarana transportasi\ndan lokasi Kecelakaan Transportasi."
+   }
+  },
+  {
+   "id": "ID-H2225-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 36\n\nPengamanan sarana transportasi dan lokasi Kecelakaan\nTransportasi sebagaimana dimaksud dalam Pasal 35\ndilakukan guna:\na. melindungi personil , awak sarana transportasi ,\npenumpang, dan barang;\n\nb. mencegah . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\nb. mencegah terjadinya tindakan yang dapat mengubah letak\nsarana transportasi; dan\nc. mencegah tind akan yang dapat merusak atau me ngubah\nlokasi Kecelakaan Transportasi."
+   }
+  },
+  {
+   "id": "ID-H2225-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 37\n\nPengamanan sarana transportasi dan lokasi Kecelakaan\nTransportasi sebagaimana dimaksud d alam Pasal 36\ndilakukan sampai dengan berakhirnya pelaksanaan\nInvestigasi Kecelakaan Transportasi  oleh Komite Nasional\nKeselamatan Transportasi."
+   }
+  },
+  {
+   "id": "ID-H2225-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 38\n\nKetentuan lebih lanjut mengenai tata cara pelaksanaan\nInvestigasi Kecelakaan Transportasi diatur de ngan Peraturan\nKetua Komite Nasional Keselamatan Transportasi.\n\nBAB VI\n\nLAPORAN HASIL INVESTIGASI KECELAKAAN TRANSPORTASI"
+   }
+  },
+  {
+   "id": "ID-H2225-A39",
+   "no": 39,
+   "noLabel": {
+    "id": "Pasal 39"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 39\n\n(1) Hasil kerja tim investigasi dibuat dalam bentuk laporan\nInvestigasi Kecelakaan Transportasi.\n\n(2) Laporan Investigasi Kecelakaa n Transportasi\nsebagaimana dimaksud pada ayat (1) terdiri atas:\n\na. pemberitahuan (notification);\nb. laporan awal (preliminary report); dan\nc. laporan akhir (final report)."
+   }
+  },
+  {
+   "id": "ID-H2225-A40",
+   "no": 40,
+   "noLabel": {
+    "id": "Pasal 40"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 40\n\n(1) Pemberitahuan sebagaimana dimaksud dalam Pasal 39\nayat (2) huruf a hanya berlaku untuk kecelakaan Pesawat\nUdara.\n\n(2) Pemberitahuan sebagaimana dimaksud pada ayat (1)\npaling sedikit memuat:\na. pabrik dan nomor seri pesawat;\nb. nama operator;\nc. kebangsaan pilot dan penumpang;\nd. tanggal dan waktu kejadian; dan/atau\ne. kondisi dan situasi lokasi kecelakaan."
+   }
+  },
+  {
+   "id": "ID-H2225-A41",
+   "no": 41,
+   "noLabel": {
+    "id": "Pasal 41 "
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 41 . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\nPasal 41\n\nLaporan awal Investigasi Kecelakaan Transportasi\nsebagaimana dimaksud dalam Pasal 39 ayat (2) huruf b\nmemuat:\n\na. riwayat operasi prasarana dan/atau sarana transportasi;\nb. data korban;\nc. data kerusakan prasarana dan sarana transportasi;\nd. data ker usakan lain di luar prasarana dan sarana\ntransportasi;\ne. data personil yang terkait dengan kecelakaan;\nf.    data rekaman operasi;\ng. komponen yang dapat dijadikan bukti dalam investigasi;\nh. data medis;\ni.    data cuaca dan kondisi alam;\nj.    hasil wawancara atau tanya j awab dengan petugas yang\nterkait; dan\nk. data penunjang lain yang terkait dengan Kecelakaan\nTransportasi."
+   }
+  },
+  {
+   "id": "ID-H2225-A42",
+   "no": 42,
+   "noLabel": {
+    "id": "Pasal 42"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 42\n\nLaporan awal Investigasi Kecelakaan Transportasi\ndisampaikan oleh ketua tim investigasi kepada Ketua Komite\nNasional Keselamatan Transportasi paling lama 1 (satu) bulan\nsetelah terjadinya kecelakaan."
+   }
+  },
+  {
+   "id": "ID-H2225-A43",
+   "no": 43,
+   "noLabel": {
+    "id": "Pasal 43"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 43\n\nLaporan akhir I nvestigasi Kecelakaan Transportasi\nsebagaimana dimaksud dalam Pasal 39 ayat (2) huruf c\nmemuat:\n\na. informasi fakta;\nb. analisis fakta penyebab kecelakaan;\nc. kesimpulan penyebab ya ng paling memungkinkan\nterjadinya Kecelakaan Transportasi;\nd. saran tindak lanjut untuk pencegahan dan perbaikan;\ndan/atau\ne. lampiran hasil investigasi dan dokumen pendukung\nlainnya."
+   }
+  },
+  {
+   "id": "ID-H2225-A44",
+   "no": 44,
+   "noLabel": {
+    "id": "Pasal 44 "
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 44 . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\nPasal 44\n(1) Penyusunan laporan akhir Investigasi Kecelakaan\nTransportasi seb agaimana dimaksud dalam Pasal 43\ndilakukan oleh tim investigasi dengan meminta\ntanggapan dan/atau masukan dari regulator, operator,\npabrikan sarana transportasi, dan pihak terkait lainnya.\n\n(2) Laporan akhir Investigasi Kecelakaan Transportasi\nsebagaimana dima ksud pada ayat (1) disampaikan oleh\nketua tim investigasi kepada Ketua Komite Nasional\nKeselamatan Transportasi paling lama 1 (satu) tahun\nsetelah laporan awal sebagaimana dimaksud dalam Pasal\n42 disampaikan.\n\n(3) Laporan akhir Investigasi Kecelakaan Transpo rtasi\nsebagaimana dimaksud pada ayat (2) disampaikan oleh\nKetua Komite Nasional Keselamatan Transportasi kepada\nregulator, operator, pabrikan sarana transportasi, dan\npihak terkait lainnya sesuai masing-masing moda."
+   }
+  },
+  {
+   "id": "ID-H2225-A45",
+   "no": 45,
+   "noLabel": {
+    "id": "Pasal 45"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 45\n\nKetentuan lebih lanjut menge nai tata cara dan prosedur\nlaporan Investigasi Kecelakaan Transportasi  diatur dengan\nPeraturan Ketua Komite Nasional Keselamatan Transportasi."
+   }
+  },
+  {
+   "id": "ID-H2225-A46",
+   "no": 46,
+   "noLabel": {
+    "id": "Pasal 46"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 46\n\n\nLaporan akhir Investigasi Kecelakaan Transportasi\nsebagaimana dimaksud dalam Pasal 44 ayat (3)  dapat\ndisampaikan oleh Ketua Komite Nasional Keselamatan\nTransportasi kepada Presiden melalui Menteri."
+   }
+  },
+  {
+   "id": "ID-H2225-A47",
+   "no": 47,
+   "noLabel": {
+    "id": "Pasal 47"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 47\n\n(1) Operator, pabrikan sarana transportasi, dan pihak terkait\nlainnya wajib menindaklanjuti  rekomendasi keselamatan\nyang tercantum dalam laporan akhir Investigasi\nKecelakaan Transportasi sebagaimana dimaksud dalam\nPasal 44 ayat (3).\n\n(2) Operator, pabrikan sarana transportasi, dan pihak terkait\nlainnya sebagaimana dimaksud pada ayat (1) wajib\nmelaporkan perkembangan tindak lanjut rekomendasi\nkepada Ketua Komite Nasional Keselamatan Transportasi."
+   }
+  },
+  {
+   "id": "ID-H2225-A48",
+   "no": 48,
+   "noLabel": {
+    "id": "Pasal 48 "
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 48 . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\nPasal 48\n\nSemua dokumen yang b erkaitan dengan seluruh proses\nInvestigasi Kecelakaan Transportasi sampai dengan l aporan\nInvestigasi Kecelakaan Transportasi sebagaimana dimaksud\ndalam Pasal 39 ayat (2) tidak dapat d igunakan sebagai alat\nbukti dalam proses peradilan."
+   }
+  },
+  {
+   "id": "ID-H2225-A49",
+   "no": 49,
+   "noLabel": {
+    "id": "Pasal 49"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 49\n\nDalam hal Investigasi Kecelakaan Transportasi telah selesai\ndilakukan, namun ditemukan kembali bukti baru (novum)\nmemperjelas penyebab terja dinya Kecelakaan Transportasi ,\nInvestigasi Kecelakaan Transportasi dapat dibuka kembali\n(reopening an investigation)  oleh Komite Nasional\nKeselamatan Transportasi.\n\nBAB VII\n\nSISTEM INFORMASI INVESTIGASI KECELAKAAN TRANSPORTASI"
+   }
+  },
+  {
+   "id": "ID-H2225-A50",
+   "no": 50,
+   "noLabel": {
+    "id": "Pasal 50"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 50\n\n(1) Sistem informasi Investigasi Kecelakaan Transportasi\nmencakup pengumpu lan, pengolahan, analisis,\npenyimpanan, penyajian, serta penyebaran data dan\ninformasi untuk:\n\na. mendukung pelaksanaan investigasi;\nb. mencapai hasil investigasi yang optimal; dan\nc. mendukung perumusan kebijakan transportasi dan\nupaya pencegahan Kecelakaan Transportasi.\n\n(2) Sistem informasi I nvestigasi Kecelakaan Transportasi\nsebagaimana dimaksud pada ayat (1) diselenggarakan\noleh Komite Nasional Keselamatan Transportasi."
+   }
+  },
+  {
+   "id": "ID-H2225-A51",
+   "no": 51,
+   "noLabel": {
+    "id": "Pasal 51"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 51\n\nSistem informasi Investigasi Kecelakaan Transportasi\nsebagaimana dimaksud dalam Pasal  50 paling sedikit\nmemuat:\n\na. jumlah Kecelakaan Transportasi;\nb. jenis Kecelakaan Transportasi;\nc. penyebab terjadinya Kecelakaan Transportasi;\nd. akibat . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\nd. akibat Kecelakaan Transportasi;\ne. fasilitas Investigasi Kecelakaan Transportasi;\nf.    tenaga Investigator Kecelakaan Transportasi;\ng. lokasi Kecelakaan Transportasi; dan/atau\nh. isi rekomendasi."
+   }
+  },
+  {
+   "id": "ID-H2225-A52",
+   "no": 52,
+   "noLabel": {
+    "id": "Pasal 52"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 52\n\nPenyelenggaraan sistem informasi I nvestigasi Kecelakaan\nTransportasi dilakukan dengan membangun dan\nmengembangkan jaringan informasi secara efektif, efisien, dan\nterpadu yang melibatkan pihak terkait dengan  memanfaatkan\nperkembangan teknologi informasi dan komunikasi."
+   }
+  },
+  {
+   "id": "ID-H2225-A53",
+   "no": 53,
+   "noLabel": {
+    "id": "Pasal 53"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 53\n\n(1) Informasi mengenai Investigasi Kecelakaan Transportasi\ndidokumentasikan dan dipublikasikan serta dapat\ndiakses dan digunakan oleh masyarakat.\n\n(2) Pengelolaan sistem informasi Investigasi Kecelakaan\nTransportasi oleh Komite Nasional Keselamatan\nTransportasi dapat dilakukan melalui kerja sama dengan\npihak lain."
+   }
+  },
+  {
+   "id": "ID-H2225-A54",
+   "no": 54,
+   "noLabel": {
+    "id": "Pasal 54"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 54\n\nKetentuan lebih lanjut mengenai tata cara penyampaian dan\npengelolaan sistem informasi Investigasi Kecelakaan\nTransportasi diatur dengan Peraturan Ketua Komite Nasional\nKeselamatan Transportasi.\n\nBAB VIII\n\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H2225-A55",
+   "no": 55,
+   "noLabel": {
+    "id": "Pasal 55"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 55\n\nPeraturan Pemerintah ini mulai berlaku pada tanggal\ndiundangkan.\n\n\n\n Agar  . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\nAgar setiap orang mengetahuinya, memerintah kan\npengundangan Peraturan Pemerintah ini dengan\npenempatannya dalam Lembaran Negara Republik Indonesia.\n\nDitetapkan di Jakarta\n\npada tanggal  1 Oktober 2013\n\nPRESIDEN REPUBLIK INDONESIA,\n\n\n\n                         ttd.\n\n\n\nDR. H. SUSILO BAMBANG YUDHOYONO\n\nDiundangkan di Jakarta\n\npada tanggal  2 Oktober 2013\n\nMENTERI HUKUM DAN HAK ASASI MANUSIA\n\n               REPUBLIK INDONESIA,\n\n\n\n                             ttd.\n\n\n                  AMIR SYAMSUDIN\n\n\nLEMBARAN NEGARA REPUBLIK INDONESIA  TAHUN  2013  NOMOR  156\n\n\n\n\n\n\n\n\n\n\n\nSalinan sesuai dengan aslinya\nKEMENTERIAN SEKRETARIAT NEGARA\nREPUBLIK INDONESIA\nAsisten Deputi Perundang-undangan\nBidang Perekonomian,\n\n\nttd.\n\n Lydia Silvanna Djaman\n\n\nPENJELASAN\n\nATAS\n\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\n\n\nNOMOR   62   TAHUN  2013\n\n\nTENTANG\n\nINVESTIGASI KECELAKAAN TRANSPORTASI\n\n\nI. UMUM\n\nDalam rangka mengantisipasi perkembangan penyelenggaraan\ntransportasi dan upaya untuk mew ujudkan transportasi yang aman,\nselamat, lancar, tertib, dan teratur sesuai dengan ketentuan nasional dan\ninternasional maka perlu diambil langkah secara terencana dan terpadu\ndengan peningkatan keselamatan sebagai prioritas utama. Dalam hal\nterjadinya suatu kecelakaan transportasi , langkah Investigasi Kecelakaan\nTransportasi merupakan langkah yang tepat untuk dapat mengetahui\npenyebab dari suatu kecelakaan.\n\nInvestigasi Kecelakaan Transportasi merupakan kegiatan penelitian\nterhadap penyebab peristiwa at au kejadian pengoperasian sarana\ntransportasi yang mengakibatkan kerusakan sarana transportasi\ndimaksud, korban jiwa , dan/atau kerugian harta benda dengan cara\npengumpulan, pengolahan, analisis, dan penyajian data secara sistematis,\ndan obyektif agar kecel akaan transportasi dengan penyebab yang sama\ntidak terulang kembali.\n\nBahwa untuk melaksanakan ketentuan Pasal 177 Undang -Undang Nomor\n23 tahun 2007 tentang Perkeretaapian, Pasal 257 Undang -Undang Nomor\n17 tahun 2008 tentang Pelayaran, Pasal 369 Undang -Undang Nomor 1\ntahun 2009 tentang Penerbangan, dan  Undang-Undang Nomor 22 tahun\n2009 tentang Lalu Lintas dan Angkutan Jalan, perlu menetapkan\nPeraturan Pemerintah tentang Investigasi Kecelakaan Transportasi.\n\nUntuk kepentingan tersebut maka dalam Peraturan P emerintah ini diatur\nmengenai jenis kecelakaan transportasi, kriteria kecelakaan transportasi,\npemberitahuan kecelakaan transportasi, pelaksanaan investigasi, laporan\nhasil investigasi, dan sistem informasi Investigasi Kecelakaan\nTransportasi.\n\n\nII. PASAL  . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\nII. PASAL DEMI PASAL\n\nPasal 1\n Cukup jelas.\n\nPasal 2\n Cukup jelas.\n\nPasal 3\nCukup jelas.\n\nPasal 4\nCukup jelas.\n\nPasal 5\n Cukup jelas.\n\nPasal 6\nCukup jelas.\n\nPasal 7\nHuruf a\nCukup jelas.\n\nHuruf b\nCukup jelas.\n\nHuruf c\nYang dimaksud dengan “anjlok” adalah kereta  keluar dari rel.\n\nHuruf d\nCukup jelas.\n\n Pasal 8\nYang dimaksud dengan “kecelakaan Kapal” antara lain:\n\n- Kecelakaan sangat berat  (very serious marine casualty) adalah\nsuatu kecelakaan yang dialami satu Kapal yang berakibat\nhilangnya Kapal tersebut atau sama seka li tidak dapat\ndiselamatkan ( total loss ), menimbulkan korban jiwa , atau\npencemaran berat.\n- Kecelakaan berat (serious casualty) adalah sebuah kecelakaan yang\ntidak dikategorikan sebagai kecelakaan sangat berat tetapi terkait\ndengan hal-hal sebagai berikut:\na. terjadinya . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\na. terjadinya kebakaran di Kapal, ledakan, kandas, senggolan\n(contact), kerusakan akibat cuaca buruk, keretakan badan Kapal\n(hull cracking), atau dugaan cacat pada badan Kapal  (suspected\nhull defect), dan lain-lain;\nb. kerusakan konstruksi yang menjadikan Kapal tidak laik laut,\nmisalnya  ada kebocoran pada badan Kapal di bawah garis air,\ntidak berfungsinya mesin induk Kapal, kerusakan besar pada\nakomodasi, dan lain-lain;\nc. pencemaran laut, tanpa memperhitungkan jumlah atau besarnya\ntumpahan;\nd. ketidakberdayaan Kapa l sehingga memerlukan penundaan\n(towage) atau bantuan dari darat; dan/atau\ne. setiap kejadian berikut yang dengan memperhitungkan keadaan\nsekelilingnya dapat memungkinkan menjadi penyebab cedera\nserius atau gangguan kesehatan seseorang dikarenakan kejadian\natau peristiwa dibawah ini:\n1. meledaknya (bursting) atau lumpuhnya (collapse) suatu bejana\ntekan, saluran pipa atau katup;\n2. lumpuhnya (collapse) atau tidak bekerjanya  suatu alat angkat\natau peralatan untuk memasuki ruangan ( access equipment),\natau penutup palka, peranca (staging);\n3. jatuhnya muatan ( cargo), pergeseran muatan yang tidak\ndikehendaki atau tolak bara Kapal ( ballast) yang menjadi\nsebab kemiringan Kapal yang membahayakan atau jatuhnya\nmuatan ke laut;\n4. terjadinya kontak seseorang dengan serat asbes ( asbestos\nfibre) yang terlepas, kecuali yang bersangkutan mengenakan\npakaian pelindung lengkap; dan/atau\n5. tersebarnya bahan berbahaya atau unsur yang dapat\nmencederai seseorang.\n\n Pasal 9\n Cukup jelas.\n\nPasal 10\n     Cukup jelas\n\n Pasal 11\n  Cukup jelas.\n\n\nPasal 12 . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\nPasal 12\n     Cukup jelas.\n\n Pasal 13\n             Cukup jelas.\n\n Pasal 14\n             Cukup jelas.\n\n Pasal 15\nCukup jelas.\n\n Pasal 16\n            Ayat (1)\nCukup jelas.\n\nAyat (2)\nYang dimaksud dengan “Kejadian Serius ( serious incident )” yaitu\nsuatu ko ndisi pengoperasian Pesawat Udara hampir terjadinya\nkecelakaan antara lain:\n\n1) kegagalan fungsi atau kerusakan pada sistem kemudi\npenerbangan (flight control system);\n\n2) ketidakmampuan dari awak Pesawat Udara (flight crew member)\nuntuk menjalankan tugas secara normal yang diakibatkan oleh\nadanya luka atau sakit;\n\n3) kerusakan komponen struktur turbin mesin kecuali kompresor\ndan daun-daun turbin dan baling-baling;\n\n4) kebakaran;\n\n5) kerusakan/kebocoran bahan berbahaya dan beracun;\n\n6) kerusakan pada properti;\n7) kerusakan sist em listrik dalam penerbangan yang\nmembutuhkan bantuan pasokan daya listrik cadangan\n(emergency bus) dari sumber daya dukung seperti baterai, unit\ndaya tambahan atau generator yang digerakkan oleh udara\nuntuk mempertahanka n kemudi terbang atau instrumen -\ninstrumen penting;\n8) kerusakan sistem hidrolik dalam penerbangan yang\nmengakibatkan ketergantungan pada satu -satunya sistem\nhidrolik atau sistem mekanis yang tersisa untuk pergerakan\npermukaan kemudi terbang;\n\n9) kehilangan terus menerus tenaga atau daya dorong y ang\ndihasilkan oleh dua mesin atau lebih;\n\n10) hampir mengalami tabrakan antar pesawat udara; dan\n11) batal tinggal landas.\n\nPasal 17. . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPasal 17\n             Cukup jelas.\n\n Pasal 18\n  Cukup jelas.\n\nPasal 19\n  Cukup jelas.\n\nPasal 20\n  Cukup jelas.\n\nPasal 21\n  Cukup jelas.\n\nPasal 22\n             Huruf a\n     Cukup jelas.\n\nHuruf b\n Yang dimaksud „‟penyedia jasa penerbangan‟‟ antara lain:\n\na. badan usaha bandar udara dan unit penyelenggara bandar\nudara;\nb. penyelenggara pelayanan navigasi penerbangan;\nc. badan usaha pemeliharaan Pesawat Udara;\nd. penyelenggara pendidikan dan pelatihan penerbangan; dan\ne. badan usaha rancang bangun dan pabrik pesawat udara,\nmesin pesawat udara, baling -baling pesawat  udara, dan\nkomponen pesawat udara.\n\nHuruf c\n   Cukup jelas.\n\nPasal 23\n             Cukup jelas.\n\nPasal 24\nAyat (1)\nYang dimaksud dengan ”cara lisan atau tertulis ” antara lain\ntelepon, sms (short message service), faksimili, dan/atau email.\n\nAyat (2)\nCukup jelas.\nPasal 25 . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPasal 25\n     Cukup jelas.\n\nPasal 26\n    Cukup jelas.\n\nPasal 27\nCukup jelas.\n\nPasal 28\n    Huruf a\n                    Cukup jelas.\n\nHuruf b\nCukup jelas.\n\nHuruf c\nCukup jelas.\n\nHuruf d\nYang dimaksud dengan ”pihak  yang mengetahui kejadian\nkecelakaan” antara lain awak atau personil sarana transportasi,\npenumpang, petugas , atau orang lai n yang berada di  lokasi\nkejadian kecelakaan transportasi.\n\nPasal 29\n     Cukup jelas.\n\nPasal 30\n    Cukup jelas.\n\nPasal 31\n             Cukup jelas.\n\nPasal 32\nCukup jelas.\n\nPasal 33\nCukup jelas.\n\n Pasal 34\nAyat (1)\n           Cukup jelas.\nAyat 2 . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  Ayat (2)\nHuruf a\nYang dimaksud  dengan ”pejabat yang berwenang di bidang\ntransportasi perkeretaapian” antara lain , kement erian yang\nbertanggung jawab di  bidang transportasi perkeretaapian,\naparat keamanan setempat, dan kepala stasiun.\n\nHuruf b\nYang dimaksud de ngan ”pejabat yang berwenang di bidang\ntransportasi laut” antara lain , kementerian yang bertanggung\njawab di bidang transportasi laut, aparat keamanan setempat ,\ndan kepala otoritas pelabuhan.\n\nHuruf c\nYang dimaksud dengan ”pejabat yang berwenang di bidang\ntransportasi udara” antara lain, kementerian yang bertanggung\njawab di  bidang transportasi udara, a parat keamanan\nsetempat, dan kepala otoritas bandara.\n\nHuruf d\nYang dimaksud dengan ”pejabat yang berwenang di bidang\ntransportasi lalu lintas dan angkutan jalan” antara lain,\nkementerian yang bertanggung jawab di  bidang transportasi\nlalu lintas dan angkutan jalan, aparat keamanan setempat, dan\nkepala terminal.\n\n Pasal 35\nCukup jelas.\n\n Pasal 36\n   Cukup Jelas.\n\nPasal 37\n    Cukup jelas.\n\n Pasal 38\n    Cukup jelas.\n\n Pasal 39\n             Cukup jelas.\n\n Pasal 40\n             Cukup jelas.\nPasal 41 . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\nPasal 41\nHuruf a\nCukup jelas.\n\n              Huruf b\nCukup jelas.\n\n              Huruf c\n    Cukup jelas.\n\nHuruf d\n    Cukup jelas.\n\nHuruf e\nYang dimaksud deng an “data personil yang terkait dengan\nkecelakan”, misalnya awak sarana transportasi.\n\nHuruf f\nCukup jelas.\n\nHuruf g\nCukup jelas.\n\nHuruf h\nCukup jelas.\n\nHuruf i\nCukup jelas.\n\nHuruf j\nCukup jelas.\n\nHuruf k\nCukup jelas.\n\n Pasal 42\n     Cukup jelas.\n\n        Pasal 43\n    Cukup jelas.\n\n\nPasal 44\n Ayat (1)\nPermintaan tanggapan dilakukan oleh Ketua Komite Nasional\nKeselamatan Transportasi.\n\n Ayat (2)\nCukup jelas.\n\n Ayat (3)  . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\nAyat (3)\nCukup jelas.\n\nPasal 45\n             Cukup jelas.\n\nPasal 46\nCukup jelas.\n\nPasal 47\n             Cukup jelas.\n\n\nPasal 48\n    Cukup jelas.\n\nPasal 49\nYang dimaksud dengan “telah selesai” adalah sampai adanya laporan\nakhir hasil Investigasi Kecelakaan Transportasi yang telah\ndipublikasikan kepada masyarakat.\n\nPasal 50\n             Cukup jelas.\n\nPasal 51\nCukup jelas.\n\nPasal 52\nCukup jelas.\n\nPasal 53\nCukup jelas.\n\nPasal 54\nCukup jelas.\n\nPasal 55\nCukup jelas.\n\n\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR  5448"
+   }
+  }
+ ]
+}

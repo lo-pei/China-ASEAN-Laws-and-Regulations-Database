@@ -1,0 +1,62 @@
+{
+ "id": "PH-H12912",
+ "title": {
+  "zh": null,
+  "en": "An Act Validating the Acts Performed By the Present Commercial Register of the City of Manila Since the Passage of Act Numbered Twelve Hundred and Eighty-Eight.",
+  "orig": "An Act Validating the Acts Performed By the Present Commercial Register of the City of Manila Since the Passage of Act Numbered Twelve Hundred and Eighty-Eight."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1913-01-29",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2207",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 383,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1913/act_2207_1913.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02207_1913_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02207_1913_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12912-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "All acts performed by Enrique Barrera y Caldes or by his substitute as commercial register of the\ncity of Manila since the date on which Act Numbered Twelve hundred and eighty-eight took effect are hereby\nratified and confirmed, and shall be valid for all purposes as though performed by a duly authorized officer."
+   }
+  },
+  {
+   "id": "PH-H12912-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, January 29, 1913."
+   }
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "id": "PH-H12564",
+ "title": {
+  "zh": null,
+  "en": "Acts No. 1855  An Act Appropriating the Sum of One Hundred and Fifty thousand Pesos for the Purchase and Preparation of Land for Cattle Quarantine stations in the Cities of Manila, Cebu, and Iloilo, and Making Provision for the Reimbursement of the Insular Treasury for the Said Amount With the Proceeds of the Sale of the Singalong Experimental station, Malate. Manila.",
+  "orig": "Acts No. 1855  An Act Appropriating the Sum of One Hundred and Fifty thousand Pesos for the Purchase and Preparation of Land for Cattle Quarantine stations in the Cities of Manila, Cebu, and Iloilo, and Making Provision for the Reimbursement of the Insular Treasury for the Said Amount With the Proceeds of the Sale of the Singalong Experimental station, Malate. Manila."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1908-06-13",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 1855",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 1250,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (HTML full text only)  |  https://lawphil.net/statutes/acts/act1908/act_1855_1908.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_01855_1908_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_01855_1908_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12564-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The sum of one hundred and fifty thousand pesos is hereby appropriated, out of any funds in the\nInsular Treasury not otherwise appropriated, for the purchase and preparation of such lands as may he\nnecessary for animal quarantine stations and for such other purposes as may be determined by the Director of\nAgriculture, in the cities of Manila, Cebu, and lloilo."
+   }
+  },
+  {
+   "id": "PH-H12564-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The Director of Agriculture is hereby authorized, with the approval of tin; Secretary of -the\nInterior, to acquire, under the most economical conditions possible, the lands referred to in the next preceding"
+   }
+  },
+  {
+   "id": "PH-H12564-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "The Director of Lands shall take charge, as soon as possible, of the Singalong experimental\nstation; and the lot of said station, forty-eight thousand square meters in area, and improvements, consisting of\nplantations, buildings, and an artesian well, shall he sold by the Director of Lands under the terms and\nconditions approved by the Secretary of the Interior. The proceeds of said sale, after deducting the expenses of\nsame, shall be turned into the Insular Treasury for the reimbursement of the amount appropriated by this Act,\nand any balance left over shall be turned into the general funds of the Treasury."
+   }
+  },
+  {
+   "id": "PH-H12564-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, June, 13, 1908."
+   }
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "id": "PH-H22203",
+ "title": {
+  "zh": null,
+  "en": "Prescribing the Manner of Collecting the Income Tax Due on the Net Purse Payable to Muhammad Ali/Herbert Muhammad and Joe Frazier/Smokin' Joe, Inc. and the Disposition of the Proceeds Thereof",
+  "orig": "Prescribing the Manner of Collecting the Income Tax Due on the Net Purse Payable to Muhammad Ali/Herbert Muhammad and Joe Frazier/Smokin' Joe, Inc. and the Disposition of the Proceeds Thereof"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1975-09-30",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 804",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 706,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_00804_1975_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_00804_1975_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22203-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The provisions of the National Internal Revenue Code and other existing laws to the contrary\nnotwithstanding, the income tax due on the net purse payable to Muhammad Ali/Herbert Muhammad and Joe\nFrazier/Smokin' Joe, Inc. shall be held by the Philippine National Bank and applied to the obligations of the\nGames and Amusement Board incurred with the said Bank in connection with the \"ALI-FRAZIER FIGHT\";"
+   }
+  },
+  {
+   "id": "PH-H22203-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "All other taxes, levies and assessments collected in connection with the \"ALI-FRAZIER\nFIGHT\" shall be turned over by the Bureau of Internal Revenue to GAB to effectuate the purpose of this\nDONE in the City of Manila, this 30th day of September, in the year of Our Lord, nineteen hundred and\nseventy-five."
+   }
+  }
+ ]
+}

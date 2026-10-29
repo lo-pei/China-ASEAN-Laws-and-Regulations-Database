@@ -1,0 +1,92 @@
+{
+ "id": "PH-H16333",
+ "title": {
+  "zh": null,
+  "en": "An Act Providing the Manner in Which the Option to Elect Philippine Citizenship Shall Be Declared By a Person Whose Mother Is a Filipino Citizen.",
+  "orig": "An Act Providing the Manner in Which the Option to Elect Philippine Citizenship Shall Be Declared By a Person Whose Mother Is a Filipino Citizen."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1941-06-07",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 625",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 5,
+ "chars": 1095,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00625_1941_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 5 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00625_1941_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H16333-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The option to elect Philippine citizenship in accordance with subsection (4), section 1, Article IV\nof the Constitution shall be expressed in a statement to be signed and swim to by the party concerned before\nany officer authorized to administer oaths, and shall be filed with the nearest civil registry. The said party\nshall accompany the aforesaid statement with the oath of allegiance to the Constitution and the Government o\nf the Philippines."
+   }
+  },
+  {
+   "id": "PH-H16333-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "If the party concerned is absent from the Philippines, he may make the statement herein\nauthorized before any officer of the Government of the United States authorized to administer oaths, aid he\nshall forward such statement together with his oath of allegiance, to the Civil Registry of Manila."
+   }
+  },
+  {
+   "id": "PH-H16333-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "The civil registrar shall collect as filing fees of the statement, the amount of ten pesos."
+   }
+  },
+  {
+   "id": "PH-H16333-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "The penalty of prision correccional, or a fine not exceeding ten thousand pesos, or both, shall be\nimposed on anyone found guilty of fraud or falsehood in making the statement herein prescribed."
+   }
+  },
+  {
+   "id": "PH-H16333-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, June 7 1941."
+   }
+  }
+ ]
+}

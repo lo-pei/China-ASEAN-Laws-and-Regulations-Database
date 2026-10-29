@@ -1,0 +1,72 @@
+{
+ "id": "PH-H14250",
+ "title": {
+  "zh": null,
+  "en": "An Act Reorganizing the Representative Districts of the Province of Albay and Creating a Fourth District Comprising the Seven Municipalities in the Island of Catanduanes.",
+  "orig": "An Act Reorganizing the Representative Districts of the Province of Albay and Creating a Fourth District Comprising the Seven Municipalities in the Island of Catanduanes."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1929-12-05",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3617",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 778,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1929/act_3617_1929.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03617_1929_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03617_1929_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14250-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The Province of Albay is hereby divided into four representative districts, each district to be\ncomposed as follows: to the First District shall belong the municipalities of Bacacay, Malilipot, Tabaco,\nMalinao, Tiwi, and Libog; the Second District shall be composed of the municipalities of Camalig, Daraga,\nLegaspi, Manito, and Rapu-rapu; the Third District shall be composed of the municipalities of Guinobatan,\nLigao, Oas, Polangui, Libon, and Jovellar; and to the Fourth District shall belong the municipalities of Virac,\nBato, Baras, Viga, Panganiban, Panpan, and Calolbon."
+   }
+  },
+  {
+   "id": "PH-H14250-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "All acts and regulations, or parts thereof, inconsistent with the provision of this Act are hereby"
+   }
+  },
+  {
+   "id": "PH-H14250-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on June first, nineteen hundred and thirty-one.\nApproved, December 5, 1929."
+   }
+  }
+ ]
+}

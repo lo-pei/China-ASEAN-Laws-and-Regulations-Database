@@ -1,0 +1,638 @@
+{
+ "id": "ID-H875",
+ "title": {
+  "zh": "移民安置法",
+  "en": "Law on Transmigration",
+  "id": "KETRANSMIGRASIAN",
+  "orig": "KETRANSMIGRASIAN",
+  "vi": "Luật về Tái định cư",
+  "th": "พระราชบัญญัติว่าด้วยการย้ายถิ่นฐาน",
+  "ms": "Akta tentang Transmigrasi"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02a",
+ "language": "id",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "1997",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU15-1997",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 42,
+ "chars": 60755,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU0151997.pdf&fl=P01001"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\01_宪法与基础法\\印尼_文本_1997_KETRANSMIGRASIAN.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 42 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H875-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\nDalam Undang-undang ini yang dimaksud dengan:\n1. Ketransmigrasian adalah segala sesuatu yang berkaitan dengan\npenyelenggaraan transmigrasi.\n2. Transmigrasi adalah perpindahan penduduk secara sukarela untuk\nmeningkatkan keseja hteraan dan menetap di Wilayah\nPengembangan Transmigrasi atau Lokasi Permukiman\nTransmigrasi.\n3. Transmigrasi adalah warga negara Republik Indonesia yang\nberpindah secara sukarela ke Wilayah Pengembangan Transmigrasi\natau Lokasi Transmigrasi melalui pengat uran dan pelayanan\nPemerintah.\n4. Wilayah Pengembangan Transmigrasi adalah wilayah potensial\nyang ditetapkan sebagai penge mbangan permukiman transmigrasi\nuntuk mewujudkan pusat pertumbuhan wilayah yang baru sesuai\ndengan Rencana Tata Ruang Wilayah.\n5. Lokasi Permukiman Transmigrasi adalah lokasi potensial yang\nditetapkan sebagai permukiman transmigrasi untuk mendukung\npusat pertumbuhan wilayah yang sudah ada atau yang sedang\nberkembang sesuai dengan Rencana Tata Ruang Wilayah.\n6. Satuan Kawasan Pengembangan adalah suatu kawasan yang terdiri\natas beberapa Satuan Permukiman yang salah satu diantaranya\nmerupakan permukiman yang disiapkan menjadi desa utama.\n7. Permukiman Transmigrasi adalah satu kesatuan permukiman atau\nbagian dari Satuan Permukiman yang diperu ntukan bagi tempat\ntinggal dan tempat usaha transmigran.\n8. Menteri adalah Menteri yang bertanggung jawab di bidang\nketransmigrasian.\nBAB II\nASAS, TUJUAN, SASARAN, DAN ARAH"
+   }
+  },
+  {
+   "id": "ID-H875-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\nPenyelenggara transmigrasi berasaskan:\na. kepeloporan;…\nPRESIDEN\nREPUBLIK INDONESIA\na. kepeloporan;\nb. kesukarelaan;\nc. kemandirian;\nd. kekeluargaan;\ne. keterpaduan; dan\nf. wawasan lingkungan."
+   }
+  },
+  {
+   "id": "ID-H875-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\nPenyelenggaraan transmigrasi bertujuan untuk meningkatkan\nkesejahteraan transmigran dan masyarakat sekitarnya, peningkatan dan\npemerataan pe mbangunan daerah, serta memperkukuh persatuan dan\nkesatuan bangsa."
+   }
+  },
+  {
+   "id": "ID-H875-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\nSasaran penyelenggaraan transmigrasi adalah meningkatkan kemampuan\ndan produktivitas masyarakat transmigrasi, membangun kemandirian, dan\nmewujudkan integrasi di permukiman transmi grasi sehingga ekonomi\ndan sosial budaya mampu tumbuh dan berkembang secara berkelanjutan."
+   }
+  },
+  {
+   "id": "ID-H875-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\nPenyelenggaraan transmigrasi diarahkan pada penataan persebaran\npenduduk yang serasi dan seimbang dengan daya dukung alam dan daya\ntampung lingkungan, peningkatan kualitas sumber daya manusia, dan\nperwujudan integrasi masyarakat.\nBAB III\nJENIS TRANSMIGRASI DAN TRANSMIGRAN\nBagian Kesatu\nJenis Transmigrasi"
+   }
+  },
+  {
+   "id": "ID-H875-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\n(1) Jenis transmigrasi terdiri atas Transmigrasi Umum, Transmigrasi\nSwakarsa Berbantuan, dan Transmigrasi Swakarsa Mandiri.\n(2) Jenis transmigrasi sebagaimana dimaksud pada ayat (1)\ndiselenggarakan melalui pola usaha pokok."
+   }
+  },
+  {
+   "id": "ID-H875-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7…"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 7\nTransmigrasi Umum diselenggarakan oleh Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H875-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n(1) Transmigrasi Swakarsa Berbantuan dilaksanakan oleh Pemerintah\nbekerja sama dengan Badan Usaha.\n(2) Dalam kerja sama sebagaimana dimaksud pada ayat (1) Pemerintah\nbertindak selaku penanggung jawab penyelenggaraan transmigrasi\nsekaligus sebagai pihak yang mewakili kepentingan transmigran.\n(3) Badan Usaha sebagaimana dimaksud pada ayat (1) menjalin\nkemitraan usaha dengan transmigran.\n(4) Hubungan kemitraan usaha sebagaimana dimaksud pada ayat (3)\nberlangsung setara, adil, saling menguntungkan, dan berkelanjutan.\n(5) Ketentuan tentang kerja sama dan kemitraan usaha sebagaimana\ndimaksud pada ayat (1), ayat (2 ), ayat (3), dan ayat (4) diatur lebih\nlanjut dengan Peraturan Menteri."
+   }
+  },
+  {
+   "id": "ID-H875-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n(1) Transmigrasi Swakarsa Mandiri dilaksanakan oleh masyarakat yang\nbersangkutan secara perseorangan atau kelompok, baik bekerja\nsama maupun tidak bekerja sama dengan Badan U saha atas arahan,\nlayanan, dan bantuan Pemerintah.\n(2) Transmigrasi Swakarsa Mandiri yang dilakukan melalui kerja sama\ndengan Badan Usaha, hak dan kewajiban masing -masing serta cara\npelaksanaannya dituangkan dalam perjanjian kerjasama antara\ntransmigran dan Badan Usaha.\nBagian Kedua\nTransmigran"
+   }
+  },
+  {
+   "id": "ID-H875-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 10.\n(1) Setiap warga negara Republik Indonesia dapat ikut serta sebagai\ntransmigran.\n(2) Keikutsertaan sebagai transmigran sebagaimana dimaksud pada\nayat (1) didasarkan atas kesukarelaan dan memenuhi persya ratan\nyang ditetapkan.\n(3) Transmigran terdiri atas kepala keluarga beserta anggota\nkeluarganya.\n(4) Untuk...\nPRESIDEN\nREPUBLIK INDONESIA\n(4) Untuk kepentingan tertentu, Pemerintah dapat menetapkan\npengecualian terhadap ketentuan sebagaimana dimaksud pada ayat\n(3).\n(5) Ketentuan tentang persyaratan sebagaimana dimaksud pada ayat (2)\ndan pengeculian sebagaimana dimaksud pada ayat (4) diatur lebih\nlanjut dengan Peraturan Menteri."
+   }
+  },
+  {
+   "id": "ID-H875-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\nPenduduk di wilayah Pengembangan Transmigrasi dan Lokasi\nPermukiman Transmigrasi da pat memperoleh perlakuan sebagai\ntransmigrasi."
+   }
+  },
+  {
+   "id": "ID-H875-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\nDengan tidak mengurangi ketentuan Pasal 10 ayat (1), transmigran pada\nTransmigrasi Umum diutamakan bagi penduduk yang berasal dari:\na. wilayah yang tingkat kepadatan penduduknya tinggi dan/atau\nterbatas lapangan kerja yang tersedia dan/atau merupakan lahan\nkritis;\nb. daerah yang terkena bencana alam atau gangguan keamanan;\nc. perambah hutan dan peladang berpindah; dan\nd. wilayah yang tempat tinggalnya dijadikan proyek pembangunan\nbagi kepentingan umum."
+   }
+  },
+  {
+   "id": "ID-H875-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\n(1) Transmigran pada Transmigrasi Umum berhak untuk memperoleh\nbantuan dari Pemerintah berupa:\na. informasi seluas -luasnya tentang kesempatan kerja dan peluang\nusaha serta informasi lain tentang lokasi tujuan transmigrasi;\nb. pendidikan dan pelatihan persiapan, perbekalan, dan pelayanan\npengangkutan ke lokasi tujuan;\nc. lahan usaha dan lahan tempat tinggal beserta rumah dengan\nstatus hak milik;\nd. sarana produksi dan/atau sarana usaha;\ne. sanitasi dan sarana air bersih;\nf. catu pangan hingga transmigran mampu berproduksi atau\nmendapat penghasilan;\ng. bimbingan dan pelatihan untuk pengembangan usaha;\nh. fasilitas...\nPRESIDEN\nREPUBLIK INDONESIA\nh. fasilitas pelayanan umum permukinan;\nI. prasarana dan sarana pengolahan dan pemasaran hasil usaha; dan\nj. bimbingan dan pelayanan sosial kemasyarakatan dan administrasi\npemerintahan.\n(2) Ketentuan tentang bantuan Pemerintah sebagaimana dimaksud pada\nayat (1) diatur lebih lanjut dengan Peraturan Menteri."
+   }
+  },
+  {
+   "id": "ID-H875-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\n(1) Transmigran pada Transmigrasi Swakarsa Berbantuan memperoleh\nbantuan dari Pemerintah berupa:\na. informasi seluas -luasnya tentang peluang kerja dan usaha serta\ninformasi lain yang diperlukan tentang lokasi tujuan\ntransmigrasi;\nb. bimbingan umum dan bantuan prasarana pelatihan;\nc. pelayanan kepindahan dan penempatan di lokasi tujuan;\nd. lahan usaha dan/atau sarana usaha dan lahan tempat tinggal\nbeserta rumah dengan status hak milik;\ne. sanitasi dan sarana air bersih;\nf. sebagian kebutuhan sarana produksi;\ng. penyediaan prasarana, fasilita s pelayanan umum, dan fasilitas\npelayanan sosial permukiman; dan\nh. pembinaan hubungan kemitraan usaha dan bimbingan sosial serta\nadministrasi pemerintah.\n(2) Transmigran pada Transmigrasi Swakarsa Berbantuan dapat\nmemperoleh bantuan catu pangan dari Pemerintah.\n(3) Transmigran pada Transmigrasi Swakarsa Berbantuan, mendapat\nbantuan dari Badan Usaha mitranya berupa:\na. perolehan kredit investasi dan modal kerja yang diperlukan bagi\nkegiatan usaha transmigran atas jaminannya;\nb. bimbingan usaha ekonomi dan sosial kemasyarakatan;\nc. pelatihan, penyuluhan dan peningkatan produktivitas;\nd. informasi usaha;\ne. jaminan pemasaran hasil produksi;\nf. sebagian kebutuhan fasilitas pelayanan umum dan fasilitas\npelayanan sosial permukiman; dan\ng. jaminan pendapatan yang layak bagi transmigran.\n(4) Ketentuan...\nPRESIDEN\nREPUBLIK INDONESIA\n(4) Ketentuan tentang bantuan Pemerintah dan Badan Usaha\nsebagaimana dimaksud pada ayat (1) dan ayat (2) diatur lebih lanjut\ndengan Peraturan Menteri."
+   }
+  },
+  {
+   "id": "ID-H875-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\n(1) Transmigrasi pada Transmigrasi Swakarsa Mandiri dapat\nmemperoleh bantuan dari Pemerintah berupa:\na. informasi seluas -luasnya tentang peluang kerja dan usaha serta\ninformasi lain yang dibutuhkan tentang daerah tujuan\ntransmigrasi;\nb. pengurusan kepindahan dan penempatan di Wilayah\nPengembangan Transmigrasi dan/atau Lokasi Permukiman\nTransmigrasi;\nc. bimbingan untuk mendapatkan lapangan kerja atau usaha;\nd. lahan tempat tinggal dan/atau lahan usaha dengan status hak\nmilik, serta ramuan rumah;\ne. penyediaan prasarana dan fasilitas pelayanan umum dan sosial\npermukiman;\nf. pembinaan sosial kemasyarakatan dan administrasi pemerintah;\ndan\ng. bimbingan, pengembangan, dan perlindungan kemitraan usaha.\n(2) Kebutuhan pengembangan usaha transmigrasi di luar bantu an\nPemerintah diupayakan melalui kemampuan swadaya dan/atau\nmelalui bantuan Badan Usaha.\n(3) Ketentuan tentang bantuan Pemerintah dan Badan Usaha\nsebagaimana dimaksud pada ayat (1) dan ayat (2) diatur lebih lanjut\ndengan Peraturan Menteri."
+   }
+  },
+  {
+   "id": "ID-H875-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\nSetiap transmigran berkewajiban untuk:\na. bertempat tinggal menetap di permukiman transmigrasi;\nb. memelihara kelestarian lingkungan;\nc. memelihara dan mengembangkan kegiatan usahanya secara berdaya\nguna dan berhasil guna;\nd. mempertahankan dan memelihara pemil ikan tanah dan aset\nproduksinya;\ne. memelihara…\nPRESIDEN\nREPUBLIK INDONESIA\ne. memelihara hubungan yang serasi dengan masyarakat setempat\nserta menghormati dan memperhatikan adat istiadatnya; dan\nf. mematuhi ketentuan ketransmigrasian.\nBagian Ketiga\nKetentuan Pelaksana"
+   }
+  },
+  {
+   "id": "ID-H875-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\nKetentuan tentang pelaksanaan Transmigrasi Umum, Transmigrasi\nSwakarsa Berbantuan, Transmigrasi Swakarsa Mandiri serta pola usaha,\ndiatur lebih lanjut dengan Peraturan Pemerintah.\nBAB IV\nWILAYAH PENGEMBANGAN TRANSMIGRASI DAN\nLOKASI PERMUKIMAN TRANSMIGRASI"
+   }
+  },
+  {
+   "id": "ID-H875-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\nPemerintah menetapkan Wilayah Pengembangan Transmigrasi dal Lokasi\nPermukiman Transmigrasi."
+   }
+  },
+  {
+   "id": "ID-H875-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\n(1) Wilayah Pengembangan Transmigrasi sebagaimana dimaksud\ndalam Pasal 18 penetapannya didasarkan pada pertimbangan potensi\nwilayah yang memu ngkinkan pengembangannya bagi upaya\nmewujudkan pusat pertumbuhan wilayah.\n(2) Wilayah Pengembangan Transmigrasi sebagaimana dimaksud pada\nayat (1) dikembangkan melalui pembangunan satuan -satuan\nkawasan pengembangan.\n(3) Dalam satuan kawasan pengembangan sebagaimana dimaksud pada\nayat (2) terdapat beberapa satuan permukiman transmigrasi."
+   }
+  },
+  {
+   "id": "ID-H875-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\n(1) Lokasi Permukiman Transmigrasi sebagaimana dimaksud dalam\nPasal 18 dikembangkan diluar Wilayah Pengembangan\nTransmigrasi.\n(2) Lokasi Permukiman Transmigrasi sebagaimana dimaksud pada ayat\n(1) ditetapkan untuk mendukung percepatan pengembangan wilayah\ndan/atau pusat pertumbuhan wilayah yang sedang berkembang."
+   }
+  },
+  {
+   "id": "ID-H875-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21…"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 21\nWilayah Pengembangan Transmigrasi dan Lokasi Permukiman\nTransmigrasi sebagaimana dimaksud dalam pasal 19 dan Pasal 20\ndiwujudkan melalui penyelenggaraan Transmigrasi Umum dan/atau\nTransmigrasi Swakarsa Berbantuan dan/atau Transmigrasi Swakarsa\nMandiri."
+   }
+  },
+  {
+   "id": "ID-H875-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\n(1) Pembangunan Wilayah Pengembangan Transmigrasi dan Lokasi\nPermukiman Transmigrasi dilaksanakan secara terencana dan\nbertahap serta terpadu dengan pembangunan sektoral dan\npembangunan daerah.\n(2) Ketentuan tentang pelaksanaan pembangunan Wilayah\nPengembangan Transmigrasi dan Lokasi Permukim an Transmigrasi\nsebagaimana dimaksud pada ayat (1) diatur lebih lanjut dengan\nPeraturan Pemerintah.\nBAB V\nPENYEDIAAN TANAH"
+   }
+  },
+  {
+   "id": "ID-H875-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\n(1) Pemerintah menyediakan tanah bagi penyelenggaraan transmigrasi.\n(2) Alokasi penyediaan tanah sebagaimana dimaksud pada ayat (1)\ndisesuaikan dengan Rencana Tata Ruang Wilayah dan peraturan\nperundang-undangan yang berlaku."
+   }
+  },
+  {
+   "id": "ID-H875-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 24\n(1) Tanah yang diperoleh Pemerintah untuk penyelenggaraan\ntransmigrasi sebagaimana dimaksud dalam Pasal 23 diberikan\ndengan hak pengelolaan sesuai dengan peraturan\nperundang-undangan yang berlaku.\n(2) Dalam hal tanah yang akan Diberikan kepada transmigran dikuasai\noleh Badan Usaha, tanah tersebut terlebih dahulu diserahkan kepada\nPemerintah sesua i dengan peraturan perundang -undangan yang\nberlaku.\n(3) Tanah...\nPRESIDEN\nREPUBLIK INDONESIA\n(3) Tanah yang diperuntukkan bagi transmigran diberikan dengan\nstatus hak milik.\nBAB VI\nPENYIAPAN PERMUKIMAN"
+   }
+  },
+  {
+   "id": "ID-H875-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\n(1) Penyiapan permukiman transmigrasi diarahkan bagi terwujudnya\npermukiman transmigrasi yang layak huni, layak usaha, dan layak\nberkembang.\n(2) Penyiapan permukiman meliputi penyiapan areal, perencanaan\npermukiman, pembangunan perumahan, fasilitas umum, saran a dan\nprasarana permukiman transmigrasi, serta penyiapan lahan dan/atau\nruang usaha.\n(3) Perencanaan penyiapan permukiman disusun berdasarkan potensi\nsumber daya alam dan sumber daya lainnya secara terpadu\ndengan pembangunan sektoral dan pembangunan daerah.\n(4) Penyiapan permukiman dalam Transmigrasi Umum dilaksanakan\noleh Pemerintah.\n(5) Penyiapan permukiman dalam Transmigrasi Swakarsa Berbantuan\ndilaksanakan oleh Pemerintah dan Badan Usaha berdasarkan\nrencana yang disusun sesuai dengan kete ntuan yang dituangkan\ndalam perjanjian kerja sama.\n(6) Pembukaan lahan tempat tinggal dan lahan usaha serta penyediaan\nsarana usaha dalam Transmigrasi Swakarsa Mandiri dilakukan oleh\nTransmigran dan dapat memperoleh bantuan dari Pemerintah\ndan/atau Badan Usaha.\n(7) Ketentuan yang penyiapan permukiman diatur lebih lanjut dengan\nPeraturan Menteri.\nBAB VII\nINFORMASI, SELEKSI, PENDIDIKAN DAN PELATIHAN, SERTA PENEMPATAN"
+   }
+  },
+  {
+   "id": "ID-H875-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\n(1) Pemerintah memberikan informasi mengenai ketersediaan lapangan\nkerja, kesempa tan berusaha, tempat tinggal, kondisi geografis dan\nadat istiadat di Wilayah Pengembangan Transmigrasi dan/atau\nLokasi Permukiman Transmigrasi.\n(2) Setiap...\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Setiap orang mempunyai kesempatan seluas -luasnya untuk\nmenetapkan pilihan lapangan kerja dan /atau usaha di Wilayah\nPengembangan Transmigrasi sesuai dengan kualifikasi kemampuan\nmasing-masing."
+   }
+  },
+  {
+   "id": "ID-H875-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\nPemerintah menyeleksi setiap calon transmigran."
+   }
+  },
+  {
+   "id": "ID-H875-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\n(1) Calon transmigran pada Transmigrasi Umum diseleksi berdasarkan\nprioritas penangana n masalah sosial ekonomi bagi penduduk yang\nbersangkutan.\n(2) Calon transmigran pada Transmigrasi Swakarsa Berbantuan dan\nTransmigrasi Swakarsa Mandiri diseleksi berdasarkan kesesuaian\nantara kesempatan kerja atau usaha yang tersedia dan dipilih dengan\nkesiapan dan keahliannya."
+   }
+  },
+  {
+   "id": "ID-H875-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\n(1) Calon transmigran yang d inyatakan lulus seleksi diberi pendidikan\ndan pelatihan yang sesuai dengan kebutuhan pengembangan.\n(2) Pendidikan dan pelatihan untuk calon transmigran pada\nTransmigrasi Umum dilaksanakan oleh Pemerintah.\n(3) Pendidikan dan pelatihan untuk calon transmigra n pada\nTransmigrasi Swakarsa Berbantuan dilaksanakan oleh Pemerintah\ndan/atau Badan Usaha.\n(4) Pendidikan dan pelatihan untuk calon transmigran pada\nTransmigrasi Swakarsa Mandiri yang terkait dengan Badan Usaha\ndilaksanakan oleh Badan Usaha yang bersangkutan."
+   }
+  },
+  {
+   "id": "ID-H875-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\n(1) Penempatan transmigran di permukiman transmigrasi dilaksanakan\nsetelah ada kepastian kesempatan kerja atau usaha dan tempat\ntinggal.\n(2) Penempatan transmigran pada Transmigrasi Umum dilaksanakan\noleh Pemerintah.\n(3) Penempatan transmigr an pada Transmigrasi Swakarsa Berbantuan\ndilaksanakan oleh Pemerintah dan/atau Badan Usaha sesuai dengan\nketentuan dalam perjanjian kerja sama.\n(4) Penempatan...\nPRESIDEN\nREPUBLIK INDONESIA\n(4) Penempatan transmigrasi pada Transmigrasi Swakarsa Mandiri\ndilaksanakan sendiri oleh trans migran atau Badan Usaha yang\nmenyediakan lapangan kerja atau usaha dan dapat dibantu oleh\nPemerintah."
+   }
+  },
+  {
+   "id": "ID-H875-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\nKetentuan tentang tata cara pemberian informasi, seleksi, pendidikan dan\npelatihan, serta penempatan diatur lebih lanjut dengan Peraturan\nPemerintah.\nBAB VIII\nPEMBINAAN MASYARAKAT TRANSMIGRASI DAN\nPEMBINAAN LINGKUNGAN PERMUKIMAN TRANSMIGRASI"
+   }
+  },
+  {
+   "id": "ID-H875-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 32\n(1) Pembinaan masyarakat transmigrasi dan pembinaan lingkungan\npermukiman transmigrasi diarahkan untuk mencapai kesejahteraan\ndan kemandirian serta integrasi masyarakat transmigrasi dengan\npenduduk sekitar dan kelestarian secara berkelanjutan.\n(2) Pembinaan ma syarakat transmigrasi dan pembinaan lingkungan\npermukiman transmigrasi dilaksanakan oleh Pemerintah dan/atau\nBadan Usaha sesuai dengan jenis transmigrasi dan pola usaha\npokoknya.\n(3) Pembinaan masyarakat transmigrasi dan pembinaan lingkungan\npermukiman tra nsmigrasi didasarkan pada potensi sumber daya\nalam, sumber daya manusia, dan sumber daya lainnya secara\nperpadu dengan berbagai sektor pembangunan lain dan\npembangunan daerah serta berwawasan lingkungan.\n(4) Pembinaan masyarakat transmigrasi dan pembinaan lingkungan\npermukiman transmigrasi sebagaimana dimaksud pada ayat (1)\nmeliputi bidang;\na. ekonomi untuk menuju terciptanya tingkat swasembada;\nb. sosial budaya untuk menuju pemenuhan kebutuhan pelayanan\numum masyarakat serta terjadinya proses integrasi dan akulturasi\nyang menyeluruh antara transmigran dan masyarakat sekitar;\nc. mental spiritual untuk menuju pembinaan manusia yang ulet,\nmandiri, beriman dan bertaqwa kepada Tuhan Yang Maha Esa;\nd. pengembangan kelembahaan pemerintahan untuk menuju\nkesiapan pembentukan perangkat desa definitif; dan\ne. lingkungan...\nPRESIDEN\nREPUBLIK INDONESIA\ne. lingkungan permukiman untuk menuju terpeliharanya kelestarian\nlingkungan hidup di sekitar permukiman transmigrasi."
+   }
+  },
+  {
+   "id": "ID-H875-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 33\nKetentuan tentang pembinaan masyarakat transmigrasi dan pembinaan\nlingkungan permukiman transmigrasi diatur lebih lanjut dengan Peraturan\nPemerintah.\nBAB IX\nPENYERAHAN PEMBINAAN PERMUKIMAN TRANSMIGRASI"
+   }
+  },
+  {
+   "id": "ID-H875-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 34\n(1) Setelah mencapai sasaran pembangunan yang ditetapkan atau\nselambat-lambatnya lima tahun sejak penempatan transmigran,\npembinaan permukiman transmigrasi diserahkan kepada Pemerintah\nDaerah.\n(2) Dengan adanya penyerahan sebagaimana dimaksud pada ayat (1),\nmaka permukiman transmigrasi berubah menjadi desa definitif serta\nstatus sebagai transmigran menjadi berakhir.\n(3) Ketentuan sebagaimana dimaksud pada ayat (1) atas status\nsebagaimana dimaksud pada ayat (2) diatur lebih lanjut dengan\nPeraturan Pemerintah.\nBAB X\nPERAN SERTA MASYARAKAT"
+   }
+  },
+  {
+   "id": "ID-H875-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 35\n(1) Masyarakat mempunyai hak dan kesempatan seluas -luasnya untuk\nberperan serta dalam penyelenggaraan transmigrasi.\n(2) Peran serta sebagaimana dimaksud pada ayat (1) dapat dilakukan\nsecara perseorangan dan/atau kelompok masyarakat dan/atau Badan\nUsaha.\n(3) Pemerintah mendorong dan b erkewajiban memberikan kemudahan\nkepada perseorangan, kelompok masyarakat, dan Badan Usaha\nuntuk berperan serta dalam penyelenggaraan transmigrasi.\n(4) Ketentuan lebih lanjut yang diperlukan bagi perlaksanaan peran\nserta perseorangan, kelompok masyarakat, dan Badan Usaha\nsebagaimana dimaksud pada ayat (1), ayat (2), dan ayat (3) diatur\nlebih lanjut dengan Peraturan Pemerintah.\nBAB XI…\nPRESIDEN\nREPUBLIK INDONESIA\nBAB XI\nPENGAWASAN DAN TINDAKAN ADMINISTRATIF"
+   }
+  },
+  {
+   "id": "ID-H875-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 36\nMenteri melakukan pengawasan terhadap semua kegiatan yang berkaitan\ndengan penyelenggaraan transmigrasi."
+   }
+  },
+  {
+   "id": "ID-H875-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 37\nMenteri berwenang mengambil tindakan administrasi terhadap semua\npihak yang melakukan pelanggaran dalam penyelenggaraan transmigrasi."
+   }
+  },
+  {
+   "id": "ID-H875-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 38\nKetentuan tentang tata cara pelaksanaan pengawasan dan tentang bentuk\nserta jenis tindakan administratif sebagaimana dimaksud dalam Pasal 36\ndan Pasal 37 diatur dengan Peraturan Pemerintah.\nBAB XII\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H875-A39",
+   "no": 39,
+   "noLabel": {
+    "id": "Pasal 39"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 39\nDengan berlakunya Und ang-undang ini, semua peraturan\nperundang-undangan sebagai pelaksanaan Undang -undang Nomor 3\nTahun 1972 tentang Ketentuan -ketentuan Pokok Transmigrasi yang telah\nada masih tetap berlaku sepanjang tidak bertentangan atau diubah atau\ndiganti berdasarkan Undang-undang ini."
+   }
+  },
+  {
+   "id": "ID-H875-A40",
+   "no": 40,
+   "noLabel": {
+    "id": "Pasal 40"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 40\nPenyelenggaraan transmigrasi yang sedang berlangsung disesuaikan\ndengan ketentuan dalam Undang-undang ini.\nBAB XIII\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H875-A41",
+   "no": 41,
+   "noLabel": {
+    "id": "Pasal 41"
+   },
+   "chapter": {
+    "id": "BAB XIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 41\nDengan berlakunya Undang -undang ini maka Undang -undang Nomor 3\nTahun 1972 tentang ketentuan -ketentuan Pokok Transmigrasi (Lembaran\nNegara Tahun 1972 Nomor 33 dan Tambahan Lembaran Negara Nomor\n2988) dinyatakan tidak berlaku."
+   }
+  },
+  {
+   "id": "ID-H875-A42",
+   "no": 42,
+   "noLabel": {
+    "id": "Pasal 42…"
+   },
+   "chapter": {
+    "id": "BAB XIII"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 42\nUndang-undang ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nUndang-undang ini dengan penempatannya dalam Lembaran Negara\nRepublik Indonesia.\nDisahkan di Jakarta\npada tanggal 9 Mei 1997\nPRESIDEN REPUBLIK INDONESIA\nttd.\nSOEHARTO\nDiundangkan di Jakarta\npada tanggal 9 Mei 1997\nMENTERI NEGARA SEKRETARIS NEGARA\nREPUBLIK INDONESIA,\nttd,\nMOERDIONO.\nLEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 37 TAHUN 1997.\nPRESIDEN\nREPUBLIK INDONESIA\nPENJELASAN\nUNDANG-UNDANG REPUBLIK INDONESIA\nNOMOR 15 TAHUN 1997\nTENTANG\nKETRANSMIGRASIAN\nUMUM\nNegara Kesatuan Republik Indonesia sebagai negara merdeka dan berdaulat berdasarkan\nPancasila dan Undang -Undang Dasar 1945, dengan wilayah perairan dan daratan yang\nluas, memilik i belasan ribu pulau besar, sedang dan kecil dengan letak geografis,\nmemiliki kekayaan aneka ragam potensi sumber daya alam dan sumber daya hayati serta\nberagam budaya dan adat istiadat merupakan karunia Tuhan Yang Maha Esa yang tidak\nada taranya, belum se penuhnya dapat dimanfaatkan secara optimal untuk mewujudkan\nkesejahteraan rakyat dan mewujudkan pemerataan pembangunan daerah dan wilayah serta\nmemperkukuh persatuan dan kesatuan bangsa.\nPemerintah bersama-sama rakyat Indonesia berkewajiban memanfaatkan, mengolah, dan\nmembina seluruh sumber daya dan kekayaan alam guna tercapainya tujuan pembangunan\nnasional sebagai pengamalan Pancasila, yaitu mewujudkan masyarakat adil dan makmur,\nbaik meteriil maupun spirit ual, sebagaimana diamanatkan pada ayat (3) Pasal 33\nUndang-Undang Dasar 1945.\nWilayah Republik Indonesia dengan jumlah penduduk yang sangat besar, persebaran yang\nbelum serasi dan belum seimbang antara daya dukung alam dan daya tampung\nlingkungan, apabila tidak ditangani dengan baik, dapat menimbulkan kerawanan sosial\nataupun kerusakan lingkungan. Persebaran penduduk yang belum seimbang tersebut\nmenyebabkan pembangunan yang belum serasi dan belum merata sehingga ada\nkecenderungan daerah atau wilayah yang t elah berkembang menjadi makin berkembang;\nsebaliknya, daerah atau wilayah yang kurang berkembang menjadi makin tertinggal.\nDaerah atau wilayah yang tertinggal dengan penduduk yang terpencar -pencar dalam\nkelompok kecil sulit berkembang. Untuk itu, penyebara n penduduk perlu diatur melalui\npenyebaran transmigrasi.\nPenyelenggaraan…\nPRESIDEN\nREPUBLIK INDONESIA\nPenyelenggaraan transmigrasi yang merupakan bagian integral dari pembangunan\nnasional adalah segala sesuatu yang berkaitan dengan kegiatan penyiapan permukiman\ndalam bentuk kesiapan permukiman yang layak huni, layak usaha, dan layak berkembang,\npengarahan dan penempatan serta pembinaan masyarakat transmigrasi dan pembinaan\nlingkungan permukiman transmigrasi sampai dengan penyerahannya kepada Pemerintah\nDaerah.\nPenyelenggaraan trans migrasi akan mendorong perluasan dan pengembangan investasi\noleh Badan Usaha dan masyarakat dalam memanfaatkan potensi yang ada sehingga pada\ngilirannya dapat menciptakan kesempatan kerja dan peluang usaha yang lebih luas dan\nmerata serta tumbuhnya daerah dan wilayah sebagai pusat -pusat pertumbuhan ekonomi\nbaru. Dengan demikian, penyelenggaraan transmigrasi membuka kesempatan bagi\npenduduk dari daerah lain dengan cara swakarsa untuk berpindah dan menetap guna\nmeningkatkan kesejahteraannya.\nTerbentuknya pusat-pusat pertumbuhan ekonomi tersebut sekaligus mendorong kemajuan\ndalam peningkatan kesejahteraan penduduk sekitarnya.\nMelalui transmigrasi, sebagai salah satu bentuk mobilitas penduduk, akan terjadi\npertemuan antar budaya kelompok masyarakat sehingga pe rlu pembinaan untuk\nmempercepat proses integrasi dan akulturasi. Proses ini akan memperkukuh persatuan dan\nkesatuan bangsa, yang akan menjadikan bangsa Indonesia memiliki kekuatan sinergi\ndalam melaksanakan pembangunan untuk meningkatkan kesejahteraan, men ingkatkan\ndan memeratakan pembangunan daerah, serta memantapkan Ketahanan Nasional yang\ndidasarkan pada Wawasan Nusantara.\nPenyelenggaraan transmigrasi merupakan tugas Pemerintah dengan memperhatikan\nperkembangan nilai -nilai dalam kehidupan masyarakat seh ingga peran serta masyarakat\nmakin mendorong dalam penyelenggaraan transmigrasi dengan memberikan kesempatan\nkepada dunia usaha sebagai mitra dan keikutsertaan masyarakat transmigran swakarsa.\nDari aspek ketenagakerjaan dan kewirausahaan, terdapat berbaga i kelompok penduduk\nyang dapat menjadi atau mendapat kesempatan ikut serta dalam transmigrasi, yaitu:\n1) penduduk bermasalah, yang memiliki tekad dan semangat untuk melakukan\npeningkatan kesejahteraannya, tetapi mengalami keterbatasan dalam mendapatkan\npeluang kerja dan usaha;\n2) penduduk yang relatif berpotensi dan telah mendapatkan kesempatan kerja dan\nusaha, tetapi ingin lebih meningkatkan kesejahteraannya;\n3) penduduk yang telah mampu mengembangkan diri, tetapi ingin lebih\nmeningkatkan mutu kehidupannya lebih baik lagi.\nUntuk…\nPRESIDEN\nREPUBLIK INDONESIA\nUntuk memenuhi ketiga hal tersebut di atas, dikembangkan tiga jenis transmigrasi sebagai\nberikut:\nPertama, Transmigrasi Umum yaitu jenis transmigrasi yang sepenuhnya diselenggarakan\noleh Pemerintah, yang transmigrannya mendapat bantuan dan bila perlu mendapat subsidi\ndari Pemerintah.\nKedua, Transmigrasi Swakarsa Berbantuan, yaitu jenis transmigrasi ya ng dirancang oleh\nPemerintah bekerjasama dengan Badan Usaha sebagai mitra usaha transmigran,\nsedangkan Pemerintah membantu dalam batas tertentu untuk mendukung agar\nkemitrausahaannya menjadi layak.\nKetiga, Transmigrasi Swakarsa Mandiri, yaitu jenis transm igrasi yang sepenuhnya\nmerupakan prakarsa transmigran yang dilakukan, baik melalui kerja sama dengan Badan\nUsaha maupun sepenuhnya dikembangkan transmigran atas arahan Pemerintah.\nPembangunan transmigrasi mengacu kepada perkembangan ke depan dengan\nmengantisipasi era globalisasi, perdagangan bebas, dan investasi sehingga kegiatan usaha\ntransmigran mencakup seluruh kegiatan usaha yang ada, diarahkan pada upaya untuk\nmeningkatkan efisiensi serta kegiatan usaha produksi yang berorientasi pasar serta\nmempunyai keunggulan komparatif dan kompetitif agar mampu bersaing di pasar\ndomestik dan pasar global. Oleh karena itu, penyelenggaraan terutama didasarkan pada\npengembangan agribisnis dan agroindustri yang terpadu dengan kepastian kegiatan usaha\nlain melalui peman faatan teknologi maju sesuai dengan perkembangan sosial budaya\nmasyarakat.\nBerbagai usaha pokok transmigrasi yang dikembangkan meliputi kegiatan usaha pokok\npertanian dalam arti luas (usaha primer), usaha pokok industri (usaha sekunder), serta\nusaha jasa dan perdagangan (usaha tersier). Usaha -usaha pokok macam komoditas yang\ndikembangkan tersebut harus dapat saling menunjang sehingga dapat meningkatkan\nefisiensi dan produktivitas.\nDalam hal ini, percepatan peningkatan kehidupan masyarakat transmigran melal ui\nhubungan kemitraan dengan Badan Usaha perlu dikembangkan dan dimantapkan\nberdasarkan hubungan yang saling menguntungkan, setara, adil, transparan, dan\nberkembang secara berkelanjutan.\nUntuk itu, koperasi perlu dijadikan wadah dan wahana bagi pengembang an ekonomi\nmasyarakat transmigran yang berasaskan kekeluargaan. Koperasi perlu dikembangkan\ndari bawah agar keberadaannya dirasakan sebagai kebutuhan dan dikelola secara\nprofesional sehingga dapat menjadi tulang punggung perekonomian dan pengembangan\nusaha transmigran.\nSehubungan…\nPRESIDEN\nREPUBLIK INDONESIA\nSehubungan dengan penyelenggaraan transmigrasi merupakan kegiatan lintas sektoral dan\ndaerah, peranan Pemerintah Daerah menjadi sangat penting dan strategis dalam\nkoordinasi pelaksanaan transmigrasi di daerah.\nUndang-undang Nomor 3 Tahun 1972 tentang Ketentuan -ketentuan Pokok Transmigrasi\ntidak dapat lagi mengantisipasi tuntutan perkembangan dan orientasi transmigrasi\nsebagaimana diuraikan di atas sehingga dipandang perlu mengatur kembali perihal\nketransmigrasian dalam suatu undang-undang.\nPASAL DEMI PASAL\nPasal 1\nCukup jelas\nPasal 2\nYang dimaksud asas adalah nilai -nilai dasar operasional sebagai landasan untuk\nmengoptimalkan pencapaian tujuan dan sasaran penyelenggaraan transmigrasi.\nHuruf a\nAsas kepeloporan dimaksudkan bahwa penyelenggaraan transmigrasi\ndidasarkan pada jiwa kepeloporan dan keperintisan dan semangat juang\npara penyelenggara, para pelaksana dan para transmigran, serta pihak terkait\nlain dalam mendayagunakan sumber daya alam dan sumber daya lain.\nHuruf b\nAsas kesukarelaan dimaksudkan bahwa penyelenggaraan transmigrasi\ndidasarkan pada jiwa dan semangat tanpa pemaksaan dalam keikutsertaan\nseseorang untuk bertransmigrasi.\nHuruf c\nAsas kemandirian dimaksudkan bahwa para penyelenggara dan transmigran\nharus mengarahkan diri agar upaya pembinaan dan pengembangan\nkehidupan transmigran tidak menciptakan sikap ketergantungan.\nHuruf d\nAsas kekeluargaan dimaksudkan bahwa dalam melaksanaka n kegiatan\nusaha dan kehidupan masyarakat, perlu ditumbuhkan semangat dan jiwa\nkebersamaan dan gotong royong.\nHuruf e…\nPRESIDEN\nREPUBLIK INDONESIA\nHuruf e\nAsas keterpaduan dimaksudkan bahwa dalam penyelenggaraan transmigrasi\nselalu terkait dengan hampir seluruh sektor pembanguna n. Oleh karena itu,\nsemangat dan jiwa untuk mengadakan koordinasi, integrasi, dan\nsinkronisasi antar -berbagai sektor pembangunan dan instansi berbagai\ntingkatan, baik Pemerintah dan swasta maupun masyarakat perlu\ndikembangkan.\nHuruf f\nAsas wawasan lingku ngan dimaksudkan bahwa penyelenggaraan\ntransmigrasi dilaksanakan berdasarkan wawasan lingkungan yang telah\nmempertimbangkan aspek kelestarian fungsi lingkungan.\nPasal 3\nPeningkatan kesejahteraan merupakan salah satu daya tarik utama untuk\nbertransmigrasi. Dalam hubungan ini, peningkatan kesejahteraan yang dimaksud\nmencakup peningkatan kesejahteraan ekonomi dan kesejahteraan sosial di dalam\nmemenuhi seluruh hajat hidup transmigran, baik bagi diri dan keluarganya maupun\nbagi pengembangan generasi penerusnya. Peningkatan kesejahteraan tidak hanya\nditujukan kepada transmigran, tetapi juga kepada masyarakat yang berada di\nsekitar permukiman transmigrasi. Untuk itu, perlu kepastian adanya lapangan kerja\ndan usaha serta permukiman yang layak. Dengan demikian, peningkatan\nkesejahteraan serta permukiman yang layak. Dengan demikian, peningkatan\nkesejahteraan merupakan tujuan pertama penyelenggaraan transmigrasi.\nPenyelenggaraan transmigrasi sen gaja ditata oleh Pemerintah agar sejalan dengan\nkepentingan penduduk untuk meningkatkan kesejahteraannya sehingga sekaligus\ndapat meningkatkan dan meratakan pembangunan daerah. Perpindahan penduduk\nyang pada dasarnya merupakan pendayagunaan tenaga kerja me rupakan\npendayagunaan tenaga kerja merupakan usaha untuk memanfaatkan potensi\nsumber daya alam dan sumber daya lain, seperti modal, manajemen, dan teknologi\nyang belum didayagunakan secara optimal. Untuk itu, pemanfaatan potensi\ntersebut perlu disesuaikan dengan daya dukung dan daya tampung lingkungan agar\npembangunan, khususnya pembangunan di daerah, dapat dilaksanakan secara\nberkelanjutan. Dengan demikian, peningkatan dan pemerataan pembangunan\ndaerah merupakan tujuan kedua penyelenggaraan transmigrasi.\nPerpindahan…\nPRESIDEN\nREPUBLIK INDONESIA\nPerpindahan penduduk akan dapat mengakibatkan proses pertemuan budaya, tata\nnilai dan perilaku, yang bila dikelola dengan tepat akan memantapkan integrasi\nmasyarakat dan proses akulturasi budaya yang akan menjadikan kekuatan sinergi\nguna m elaksanakan pembangunan lebih lanjut. Oleh karena itu, memperkukuh\npersatuan dan kesatuan bangsa merupakan tujuan ketiga penyelenggaraan\ntransmigrasi.\nPasal 4\nPenyelenggaraan transmigrasi akan dilaksanakan secara meluas di tanah air dan\nmerupakan suatu pr oses yang tidak henti -hentinya diupayakan. Dengan demikian,\ntujuan transmigrasi perlu dijabarkan dalam bentuk sasaran kuantitatif yang terukur,\nbaik kesejahteraan ekonomi maupun kesejahteraan sosial. Ukuran kesejahteraan\ndimaksud ditentukan pada tingkat kemampuan dan produktivitas masyarakat untuk\nmembangun kemandiriannya. Untuk itu, tatanan perekonomian yang berasaskan\nkekeluargaan dikembangkan melalui lembaga koperasi serta tatanan sosial budaya\nyang mengandung paham persatuan dan kesatuan, kebersamaan, g otong-royong,\ndan musyawarah mufakat perlu mendapat perhatian sehingga ekonomi dan sosial\nbudaya mampu tumbuh dan berkembang secara berkelanjutan.\nPasal 5\nPenataan persebaran penduduk yang dikembangkan melalui transmigrasi\ndisesuaikan dengan pemanfaatan p otensi sumber daya alam sesuai dengan daya\ndukungnya sehingga pembangunan dapat dilaksanakan secara berkelanjutan.\nSehubungan dengan kemampuan pengembangan teknologi dan kemampuan\nsumber daya manusia dan permodalan, penataan tersebut dilakukan sesuai denga n\nberbagai kesempatan kerja dan peluang usaha serta pelayanan kehidupan sosial\nbudaya di setiap aspek kehidupan masyarakat. Dengan demikian, penyelenggaraan\ntransmigrasi selalu diarahkan pada penataan persebaran penduduk yang sesuai\ndengan daya tampung lin gkungan, yang memungkinkan kehidupan masyarakat\nmenuju kesejahteraan transmigran dan masyarakat sekitarnya dalam semua aspek\nkehidupan.\nPasal 6\nAyat (1)\nJenis-jenis transmigrasi dikembangkan dalam rangka memanfaatkan\nkesempatan kerja dan peluang usaha, baik yang diciptakan melalui\npembangunan transmigrasi maupun pembangunan sektor lainnya.\nDengan demikian, jenis -jenis transmigrasi dapat menggambarkan tingkat\ndan itensitas peranan Pemerintah.\nAyat (2)…\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (2)\nPola usaha pokok yang dimaksudkan dapat meliputi kegiatan usaha primer\n(pengelolaan sumber daya alam seperti pertanian tanaman pangan,\nperikanan, peternakan perkebunan, kehutanan, dan pertambangan), usaha\nsekunder (industri pengolahan dan manufaktur), dan usaha tersier (jasa dan\nperdagangan), yang tiap -tiap usaha menjadi kegiatan pokok transmigran\nyang saling menunjang. Dengan ketiga usaha pokok tersebut, transmigrasi\ndapat dikembangkan pada seluruh bentuk dan ragam kegiatan usaha yang\nada sesuai dengan potensi daerah serta bakat kemampuan transmigran.\nPasal 7\nCukup jelas\nPasal 8\nAyat (1)\nCukup jelas\nAyat (2)\nTransmigrasi Swakarsa Berbantuan diarahkan pada hubungan kemitraan\nusaha yang pengembangannya menjadi inisiatif Badan Usaha serta\ndilakukan bersama Pemerintah selaku penanggung jawab penyelenggaraan\ntransmigrasi dan sebagai pihak yang mewakili kepentingan transmigran.\nPemerintah dan Badan Usaha memberikan bantuan kepada transmigran\nuntuk mencapai tingkat kelayakan usaha tertentu agar kegiatan usaha nya\nberkembang secara berkelanjutan.\nAyat (3)\nCukup jelas\nAyat (4)\nSetara dalam hubungan kemitraan usaha berarti mempunyai kedudukan\nhukum yang sama. Adil dalam hubungan kemitraan usaha tercermin dalam\nhak dan kewajiban masing -masing yang dilandasi oleh prinsip\nkekeluargaan, gotong -royong, dan saling menguntungkan. Hubungan\nkemitraan usaha dilakukan dengan prinsip saling memperkuat dan saling\nmembutuhkan bagi semua pihak yang berdimensi musyawarah mufakat\nsehingga dapat menjamin berkembangnya kemitraan usaha secara\nberkelanjutan.\nAyat (5)\nCukup jelas\nPasal 9…\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 9\nAyat (1)\nTransmigrasi Swakarsa Mandiri yang dilaksanakan secara perseorangan\natau kelompok mendapatkan arahan, layanan, serta bantuan dari Pemerintah\ndan kei kutsertaan transmigran dalam bertransmigrasi sepenuhnya\nmerupakan prakarsa dan pilihan yang bersangkutan.\nDalam hal pelaksanaan Transmigrasi Swakarsa Mandiri yang terkait\nhubungan kerja dan kemitraan usaha dengan Badan Usaha, Pemerintah\nberkewajiban unt uk mengarahkan, melayani, dan menjaga hubungan\ntersebut agar dapat berlangsung setara, adil, saling menguntungkan, dan\nberkelanjutan sehingga dapat menjamin tercapainya kesejahteraan\ntransmigran.\nAyat (2)\nDalam pelaksanaan kerja sama antara transmigran p ada Transmigrasi\nSwakarsa Mandiri dan Badan Usaha dituangkan dalam perjanjian kerja\nsama antara kedua belah pihak dan Pemerintah bertanggungjawab untuk\nmelaksanakan pengawasannya.\nPasal 10\nAyat (1)\nYang dimaksud warga negara Republik Indonesia dalam hal ini termasuk\ndidalamnya penduduk setempat yang dengan sukarela berkeinginan pindah\nke permukiman transmigrasi.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nPada dasarnya untuk memantapkan pembinaan, setiap transmigran harus\ntelah berumah tangga. Akan tetapi, karena pertimbangan khusus, seperti\nkebutuhan tenaga ahli, guru, dan dai, yang sangat diperlukan sebagai\nmonivator atau penyuluh, meskipun belum menikah, seseorang dapat\nmenjadi transmigran.\nAyat (5)\nCukup jelas\nPasal 11…\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 11\nPenduduk yang bermukim di Wilayah Pengembangan Transmigrasi dan Lokasi\nPermukiman Transmigrasi yang menjadi tempat pembangunan transmigrasi dan\nyang bersedia menjadi transm igran dapat memperoleh perlakuan sebagai\ntransmigran. Penduduk yang tidak bersedia, permukimannya dimungkinkan untuk\ndipugar dan mereka dapat fasilitas yang tersedia dalam permukiman transmigrasi.\nPerlakuan sebagai transmigran sebagaimana dimaksud disesuai kan dengan jenis\ntransmigrasi yang dikembangkan.\nPasal 12\nHuruf a\nWilayah yang tingkat kepadatan penduduknya tinggi menunjukkan bahwa\ntekanan penduduk pada lahan sangat tinggi dan/atau kesempatan kerja dan\npeluang usaha yang terbatas sehingga menimbulkan kerawanan sosial dan\nkerusakan lingkungan.\nHuruf b\nPenduduk yang tinggal di tempat terjadinya bencana alam dan/atau\ngangguan keamanan yang terus menerus akan sulit memperoleh\nkesejahteraan hidup. Oleh karena itu, akan lebih baik bila penduduknya\ndapat d imotivasi untuk bertransmigrasi sehingga kehidupannya dapat\nberkembang dengan lebih baik.\nHuruf c\nPenduduk perambah hutan yang terpaksa melakukan pekerjaannya karena\ntekanan ekonomi da n demikian pula penduduk peladang berpindah yang\nterpaksa melakukannya karena tingkat kemampuan ekonomi dan\nteknologinya terbatas, perlu dibantu melalui transmigrasi.\nHuruf d\nPenduduk yang wilayah tempat tinggalnya terkena proyek pembangunan\nyang diperlu kan bagi kepentingan umum, pada umumnya memerlukan\nbantuan. Karena keadaan memaksa mereka harus pindah, kepada mereka\nperlu diberikan berbagai alternatif, yang salah satu di antaranya ialah\ntransmigrasi.\nPasal 13…\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 13\nAyat (1)\nMengingat kesel uruhan penyelenggaraan Transmigrasi Umum sepenuhnya\nditangani oleh Pemerintah, maka Pemerintah memberikan bantuan kepada\ntransmigran melalui pengadaan berbagai jenis layanan dan bantun berupa\npendidikan dan pelatihan guna mempersiapkan dan meningkatkan\nkemampuan sesuai dengan kegiatan usaha yang ditetapkan, perbekalan\ntransmigran, pemindahan dan penempatan transmigran di lokasi tujuan,\ntempat tinggal transmigran dengan segala fasilitas permukiman, termasuk\nsarana ibadah dan kesehatan, sanitasi dan air bersi h, serta lahan dan/atau\nuang usaha sebagai sarana lapangan kerja dan usaha yang dapat\nberkembang dengan layak, dan mampu meningkatkan kesejahteraan hidup\ntransmigran. Sarana produksi atau sarana usaha yang dapat digunakan\nsecara efektif. Sebelum mampu mand iri transmigran diberi catu pangan,\nberupa natura dan non-natura atau dana yang dapat membantu meringankan\nbiaya hidup di permukiman transmigran. Meskipun hampir semua\nkebutuhan usaha dan hidup transmigran dipenuhi, cara penyampaian dan\nbesaran yang diberi kan tetap bertujuan menjaga proses kemandirian bagi\npengembangan kehidupan transmigran.\nAyat (2)\nCukup jelas\nPasal 14\nAyat (1)\nPada Transmigrasi Swakarsa Berbantuan, bantuan Pemerintah perlu\ndiarahkan pada aset produksi yang tidak habis sekali pakai, terutama untuk\nmengurangi besaran bebas kredit yang harus dipikul transmigran bagi\nkeperluan investasi dan modal kerja. Dengan demik ian, bantuan tersebut\nakan meringankan beban transmigran dan sekaligus membina kemandirian\ntransmigran. Bantuan aset produksi dimaksud dapat meningkatkan tingkat\nkelayakan usaha transmigran sehingga transmigran dapat mengembangkan\nusahanya secara lebih mantap.\nAyat (2)…\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (2)\nPelaksanaan Transmigrasi Swakarsa Berbantuan didasarkan atas kerja sama\nPemerintah dengan Badan Usaha dan diikuti dengan hubungan kemitraan\nusaha antara Badan Usaha dan transmigran. Pola usaha pada Transmigrasi\nSwakarsa Berbantuan bervariasi dan memerlukan perlakuan dan pelayanan\nyang berbeda-beda Pada umumnya pada awal kedatangannya, transmigran\nbelum dapat memberikan penghasilan yang memadai. Oleh karena itu,\nkepada transmigran dapat diberi bantuan catu pangan yang dalam\npelaksanaannya akan ditentukan lebih lanjut berdasarkan keadaan pola\nusaha masing-masing.\nAyat (3)\nMengingat Transmigrasi Swakarsa Berbantuan selalu terkait dalam bentuk\nhubungan kemitraan usaha dengan Badan Usaha, maka perlu ditetapkan\nperan dan bantuan Badan Usaha. Bantuan Badan Usaha kepada transmigran\ndimaksudkan untuk memudahkan transmigran dalam mengelola usahanya\nsehingga mampu berproduksi secara optimal, yang hasilnya dimanfaatkan\noleh Badan Usaha dengan menampung mengolah, dan memasarkannya\nsehingga transmigran mendapatkan sisa hasil usaha yang optimal untuk\nmencukupi kebutuhan hidupnya. Disamping itu, Badan Usaha berkewajiban\nuntuk mematuhi fasilitas pelayanan umum dan fasilitas pelayanan sosial\npermukiman selain yang sudah disediakan oleh Pemerintah.\nAyat (4)\nCukup jelas\nPasal 15\nAyat (1)\nTransmigran pada Transmigrasi Swakarsa Mandiri dapat memperoleh\npelayanan dari Pemerintah berupa informasi tentang kesempatan kerja dan\npeluang usaha, kemudahan dalam proses kepindahan, lahan tempat tinggal\nbeserta fasilitas pelayanan umum dan sosial permukiman, termasuk sarana\nibadah dan kesehatan, serta lahan dan mampu meningkatkan kesejahteraan\nhidup transmigran.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nPasal 16…\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 16\nHuruf a\nCukup jelas\nHuruf b\nSetiap transmigran harus menjaga dan memelihara kelestarian lingkungan\ndan menghindarkan diri dari perbuatan yang merusak alam dan lingkungan\nagar pemanfaatan sumber daya alam tetap efektif dan berkelanjutan.\nHuruf c\nSetiap kegiatan usaha atau lapangan kerja yang dipilihnya perlu dikelola\ndengan baik untuk meningkatkan pendapatan. Di samping itu, transmigr an\nberkewajiban juga memelihara prasarana umum dan fasilitas lingkungan\ndengan sebaik-baiknya agar berfungsi dengan baik.\nHuruf d\nSemua aset produksi baik yang diberikan Pemerintah dan pihak lain sebagai\nbantuan atau subsidi maupun aset produksi yang diperolehnya sendiri perlu\ndidayagunakan dan dipelihara serta dikembangkan.\nHuruf e\nMasyarakat transmigrasi dan penduduk sekitar perm ukiman transmigrasi\nperlu selalu menjalin, memelihara dan menghormati budaya dan adat\nistiadat masing -masing sehingga tercipta suasana yang harmonis penuh\nkeakraban yang ditunjang rasa kekeluargaan yang kental.\nHuruf f\nSetiap transmigran perlu mematuhi ketentuan dan peraturan yang ditetapkan\noleh Pemerintah ataupun peraturan yang telah menjadi kesepakatan\ntransmigran dengan Badan Usaha dalam bentuk perjanjian kerja sama, yang\nkesemuanya itu pada dasarnya ditujukan bagi upaya peningkatan\nkesejahteraan transmigran dan kepentingan masyarakat sekitarnya.\nPasal 17\nCukup jelas\nPasal 18\nCukup jelas\nPasal 19…\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 19\nAyat (1)\nPada wilayah yang potensial sumber alam dan/atau kondisi geografisnya\nsangat baik dan belum dikembangkan, tetapi dinilai perlu di kembangkan\nsecara khusus, pengembangan itu perlu dimulai melalui investasi oleh\nPemerintah dan/atau Badan Usaha melalui penyelenggaraan transmigrasi,\nditetapkan sebagai Wilayah Pengembangan Transmigrasi. Pembangunan\nWilayah Pengembangan Transmigrasi dilaku kan secara terencana dan\nbertahap dengan menyelenggarakan berbagai jenis transmigrasi, yang\ndiarahkan agar terwujud pusat pertumbuhan wilayah baru dan dapat\nmenciptakan pusat pertumbuhan ekonomi baru sehingga diharapkan akan\nmempercepat proses pengembangan selanjutnya.\nAyat (2) dan Ayat (3)\nPembangunan Wilayah Pengembangan Transmigrasi dilakukan secara\nbertahap dengan konsep pengembangan wilayah yang terstruktur. Setiap\nWilayah Pengembangan Transmigrasi ditujukan bagi perwujudan pusat\npertumbuhan wilayah baru yang mempunyai fasilitas pendidikan, kesehatan,\npelayanan jasa dan perdagangan, serta industri pengolahan dan sebagainya,\nyang akan mendorong pengembangan wilayah pendukungnya. Dalam setiap\nWilayah Pengembangan Transmigrasi terdapat beberapa Satuan Ka wasan\nPengembangan sedangkan setiap Satuan Kawasan Pengembangan terdiri\natas beberapa Satuan Permukiman sebagai embrio desa. Disamping itu,\npada salah satu Satuan Permukiman yang merupakan desa utama dalam\nsetiap Satuan Kawasan Pengembangan dikembangkan pu sat pelayanan dan\nfasilitas umum tingkat Satuan Kawasan Pengembangan, seperti pelayanan\npos, jasa perbankan, pasar harian, perbengkelan, industri kecil/industri\nrumah tangga dan pertokoan, Sekolah Lanjutan Tingkat Pertama, dan Pusat\nKesehatan Masyarakat Pembantu. Pada setiap Satuan Permukiman terdapat\npusat pelayanan tingkat Satuan Permukiman dan fasilitas umum tingkat\ndesa dengan kelengkapan seperti Sekolah Dasar, balai pengobatan, balai\ndesa, tempat ibadah, warung atau koperasi, dan pasar.\nPasal 20\nAyat (1)\nLokasi Permukiman Transmigrasi diperuntukkan bagi permukiman\ntransmigrasi diluar Wilayah Pengembangan Transmigrasi yang dirancang\nuntuk mempercepat pengembangan pusat pertumbuhan wilayah yang ada.\nAyat (2)…\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (2)\nWilayah yang pusat pertum buhannya telah mulai berkembang dalam hal\nmasih terdapat kawasan yang potensial dan belum dikembangkan dapat\nditetapkan sebagai Lokasi Permukiman Transmigrasi yang dirancang secara\nutuh bagi kepentingan pembangunan permukiman transmigrasi yang baru.\nUpaya ini dimaksud untuk memacu percepatan pengembangan daerah dan\npusat pertumbuhannya.\nPasal 21\nPembangunan permukiman transmigrasi dilakukan pada Wilayah Pengembangan\nTransmigrasi dan Lokasi Permukiman Transmigrasi. Jenis transmigrasi yang\ndilaksanakan pada Wilayah Pengembangan Transmigrasi dan Lokasi Permukiman\nTransmigrasi dapat berupa Transmigrasi Umum, Transmigrasi Swakarsa\nBerbantuan, Transmigrasi Swakarsa Mandiri, atau dapat berupa gabungan dari\nketiga jenis transmigrasi tersebut.\nPasal 22\nAyat (1)\nUntuk mencapai hasil pembangunan yang berhasil guna berdaya guna\nsesuai dengan kemampuan dan potensi sumber daya yang ada,\npembangunan Wilayah Pengembangan Transmigrasi dan Lokasi\nPermukiman Transmigrasi perlu dilaksanakan secara bertahap. Sehubungan\ndengan penyelenggaraan transmigrasi mengikutsertakan hampir seluruh\nsektor pembangunan dan terkait dengan kepentingan pembangunan daerah,\npenyelenggaraannya perlu dilaksanakan secara terpadu antar sektor dan\nantar daerah. Agar keberhasilannya terjamin, koordina si penyelenggaraan\ntransmigrasi menjadi tanggung jawab Menteri yang didukung secara\nfungsional dan teknis oleh instansi terkait, sedangkan koordinasi di tingkat\ndaerah menjadi tanggung jawab Kepala Daerah yang bersangkutan.\nAyat (2)\nCukup jelas\nPasal 23\nAyat (1)\nCukup jelas\nAyat (2)…\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (2)\nAlokasi penyediaan tanah bagi transmigrasi sangat penting, yang didasarkan\npada ketentuan peraturan perundang -undangan yang berlaku untuk\nmemberikan kepastian bagi penyediaan lapangan kerja dan ruan g usaha\nserta permukiman. Wilayah Pengembangan Transmigrasi dan Lokasi\nPermukiman Transmigrasi ditetapkan melalui pertimbangan yang antara\nlain telah didasarkan pada ketentuan Undang -undang tentang Penataan\nRuang.\nPasal 24\nAyat (1)\nPenyediaan tanah bagi penyelenggaraan transmigrasi dapat berasal dari\ntanah negara dan/atau tanah hak. Apabila berasal dari tanah hak, tanah\ndimaksud harus terlebih dahulu dibebaskan dari segala hak atas tanah dan\nsegala sesuatu yang berada di atasnya, dan selanjutnya diprose s hak\npengelolaannya sesuai dengan peraturan perundang-undangan yang berlaku.\nAyat (2)\nTanah yang dikuasai oleh Badan Usaha yang dialihkan peruntukannya bagi\npenyelenggaraan transmigrasi terlebih dahulu diserahkan kepada Menteri\nyang diserahi urusan agra ria untuk kemudian diproses hak pengelolaannya\nkepada Menteri.\nAyat (3)\nPemberian hak milik atas tanah kepada transmigran dilakukan apabila\ntransmigran yang bersangkutan telah memenuhi persyaratan tertentu yang\nditetapkan oleh Menteri.\nPasal 25\nAyat (1)\nUntuk menjamin agar permukiman yang dibangun menjadi layak huni,\nlayak usaha, dan layak berkembang, diperlukan perencanaan wilayah dan\npermukiman yang dilakukan sesuai dengan potensi yang ada serta peluang\nyang dapat dikembangkan agar dapat menja min tersedianya lapangan kerja\natau ruang usaha serta fasilitas permukiman dan selanjutnya diikuti dengan\npelaksanaan yang tepat waktu, tepat mutu, dan tepat jumlah sehingga\npelaksanaan dapat meningkatkan kesejahteraan transmigrasi. Permukiman\nyang layak h uni ditetapkan sebelum penempatan transmigran dengan\nmemperhatikan kesiapan bangunan rumah termasuk ketersediaan sarana air\nbersih serta fasilitas pelayanan umum dan fasilitas sosial, dan terbukanya\nAksesibilitas…\nPRESIDEN\nREPUBLIK INDONESIA\naksesibilitas baik dengan pusat pemasa ran maupun dengan pusat kegiatan\nlain. Layak usahanya permukiman berkenaan dengan tersedianya\nkesempatan kerja dan peluang usaha di permukiman yang dapat menjamin\nkehidupan transmigran. Permukiman yang layak berkembang mengandung\narti bahwa sarana usaha di permukiman mampu memacu untuk\nmenumbuhkembangkan kehidupan sosial, ekonomi, dan budaya untuk\nterciptanya peningkatan kesejahteraan transmigran.\nAyat (2)\nKegiatan penyiapan permukiman terdiri atas urutan proses penyiapan area\nuntuk membebaskan status tanah dari pemilikan lainnya, perencanaan lokasi\nmelalui penelitian untuk menghasilkan studi kelayakan dan rencana teknis\ntuang, penyiapan fisik pembangunan permukiman dan fasilitasnya, serta\npenyediaan lahan dan ruang usaha.\nAyat (3)\nPerencanaan penyiapan permukiman pada dasarnya terdiri atas perencanaan\nmakro yang terkait dengan perencanaan wilayah serta perencanaan mikro\nyang terkait dengan studi kelayakan dan penyusunan rencana teknis\npermukiman yang dilakukan secara terpadu dengan sektor pembangunan\nlain, baik yang dilakukan oleh Pemerintah maupun oleh Badan Usaha dan\nmasyarakat. Karena perencanaan mikro dapat memberikan rekomendasi\nbagi kegiatan transmigrasi lain, perencanaan itu harus telah\nmempertimbangkan semua aspek sosial ekonomi dan sosial budaya\nsehingga memberikan kemudahan dan daya tarik bagi calon transmigran,\npendidikan dan pelatihan, serta pembinaan masyarakat dan lingkungan.\nAyat (4)\nCukup jelas\nAyat (5)\nPada jenis Transmigrasi Swakarsa Berbantuan, pelaksanaan dan\npembiayaan pada dasar nya dilakukan oleh Badan Usaha dan transmigrasi.\nDalam hal ini, Pemerintah hanya memberikan bantuan dalam batas tertentu.\nDalam hubungan ini, semua pembagian tugas dan tanggung jawab serta\nperanan Pemerintah dan Badan Usaha serta transmigran perlu diatur d alam\nnaskah perjanjian kerja sama.\nAyat (6)\nPada jenis Transmigrasi Swakarsa Mandiri yang dilaksanakan dengan tidak\nbekerja sama dengan Badan Usaha, pembukaan lahan tempat tinggal, lahan\nusaha dan/atau penyediaan sarana usaha dilaksanakan dan dibiayai ol eh\ntransmigran yang bersangkutan, sedangkan pada Transmigrasi Swakarsa\nMandiri yang terkait dengan badan Usaha, pembukaan dan/atau\npenyediaannya dibantu oleh Badan Usaha yang bersangkutan.\nAyat (7)…\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (7)\nCukup jelas\nPasal 26\nAyat (1)\nDalam penyelenggaraan transmigrasi, Pemerintah berkewajiban\nmemberikan kepastian akan kesediaan lapangan kerja, kesempatan\nberusaha, tersedianya tempat tinggal, dan fasilitasnya. Selain itu,\nPemerintah juga berkewajiban mempertemukan pihak -pihak yang terka it\nuntuk memberikan jaminan kepastian kepada penduduk yang tertarik untuk\nbertransmigrasi. Peranan ini mencakup pula pemberian wawasan dan\nmotivasi agar penduduk mengetahui adanya berbagai alternatif yang dapat\ndipilih, dalam bentuk informasi yang terinci dan akurat tentang jenis\nlapangan kerja dan usaha serta lokasinya untuk meningkatkan kesejahteraan\ntransmigran.\nAyat (2)\nInformasi perihal ketersediaan lapangan kerja, usaha, serta tempat tinggal di\npermukiman transmigrasi disampaikan oleh Pemerintah kep ada penduduk\nsecara meluas. Dengan demikian, setiap orang mempunyai kesempatan yang\nseluas-luasnya untuk menyesuaikan diri dengan kemampuannya dalam\nmemilih lapangan kerja dan usaha yang tersedia.\nPasal 27\nSeleksi calon transmigran pada semua jenis transm igrasi diperlukan agar dengan\ndemikian kriteria mengenai calon transmigrasi dapat dipenuhi dalam rangka lebih\nmenjamin tercapainya sasaran penyelenggaraan transmigrasi.\nPasal 28\nAyat (1)\nCukup jelas\nAyat (2)\nSeleksi calon transmigran pada jenis Transmigrasi Swakarsa Berbantuan\ndan Transmigrasi Swakarsa Mandiri yang bekerja sama dengan Badan\nUsaha dilakukan oleh Pemerintah dan Badan Usaha yang bersangkutan.\nSeleksi calon transmigran pada jenis Transmigrasi Swak arsa Mandiri yang\ntidak bekerja sama dengan Badan Usaha dilakukan melalui pendaftaran dan\ndidasarkan atas kemampuan serta keterampilan calon transmigran yang\nbersangkutan.\nPasal 29…\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 29\nPendidikan dan pelatihan diberikan kepada calon transmigran ses uai dengan pola\nusaha yang akan dikembangkan di permukiman transmigrasi. Disamping itu,\nkepada calon transmigran diberikan motivasi dan informasi tentang kondisi sosial\nbudaya, potensi dan peluang usaha di daerah tujuan sehingga lebih siap\nmenghadapi kehidupan baru di permukiman. Pendidikan dan pelatihan transmigran\ndapat dilakukan oleh Pemerintah, atau Badan Usaha, atau Pemerintah bekerja sama\ndengan Badan Usaha, atau pihak lain yang ditunjuk, sesuai dengan jenis\ntransmigrasi dan pola usaha yang dikembangkan.\nPasal 30\nSecara umum, penempatan transmigran sangat erat kaitannya dengan pola usaha\npokok dan jenis komoditas yang dikelola, yang penempatannya perlu ditata\ndemikian rupa agar memudahkan pembinaan usaha dan pembinaan masyarakat dan\nlingkungannya yang akan dilaksanakan sehingga dapat dilakukan secara efektif.\nPenempatan transmigran di permukiman untuk Transmigrasi Umum dan\nTransmigrasi Swakarsa Berbantuan dapat dilakukan apabila permukimannya telah\nsiap ditempati dan diberitahukan dengan pernyataan sia p terima penempatan dari\nGubernur/Kepala Daerah Tingkat I. Penempatan Transmigrasi Swakarsa Mandiri\ndidasarkan pada kepastian lahan tempat tinggal dan ramuan rumah yang disediakan\nPemerintah dan adanya peluang kesempatan kerja dan/atau usaha.\nPasal 31\nCukup jelas\nPasal 32\nAyat (1)\nSasaran pembinaan transmigrasi dan pembinaan lingkungan permukiman\ntransmigrasi pada dasarnya sesuai dengan sasaran penyelenggaraan\ntransmigrasi.\nAyat (2)\nPembinaan ditujukan kepada suatu pembentukan masyarakat. Agar up aya\nyang dilakukan dapat efektif dan menjadikan masyarakat berperan aktif\ndalam pembangunan, perlu dilakukan pembinaan dengan pendekatan\nkemasyarakatan yang memperhatikan aspek sosial budaya. Melalui\npendekatan pembangunan tersebut, masyarakat akan sanggup\nmengembangkan kemampuannya seluas -luasnya dan menjadi pelaku aktif\npembangunan sesuai dengan jenis dan usaha pokok yang dipilihnya.\nAyat (3)…\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (3)\nPembinaan masyarakat transmigrasi dan pembinaan lingkungan\npermukiman transmigrasi dilaksanakan dengan memanfaatkan potensi alam\nsecara bijaksana dan berwawasan lingkungan sehingga sebagai potensi alam\nyang ada dapat dikembangkan secara berkelanjutan. Untuk itu, potensi\nsumber daya masyarakat transmigrasi perlu ditingkatkan melalui pendidikan\ndan pelatihan sejalan dengan kebutuhan pengelolaan usaha dan kehidupan\nmasyarakat. Potensi sumber daya lainnya, seperti modal dan teknologi yang\ntersedia, dapat diupayakan peningkatan dan perolehannya serta\ndimanfaatkannya secara optimal.\nAyat (4)\nHuruf a\nPembinaan di bidang ekonomi yang dilakukan melalui berbagai\npengembangan usaha harus diupayakan agar dapat mencapai tahap\npengembangan ekonomi yang mampu memupuk didasarkan pada\ntatanan ekonomi bersama yang berasaskan kekeluargaan melalui\nlembaga koperasi. Untuk me ncapai tingkat kehidupan ekonomi\nseperti itu, kemampuan produksi dan efisiensi perlu ditingkatkan\nsecara terus menerus dan dikembangkan melalui berbagai kegiatan\nusaha yang terpadu yang berorientasi pada pemanfaatan keunggulan\nkomparatif dan kompetitif serta kebutuhan pasar.\nHuruf b\nPembinaan sosial budaya menyangkut pemberian pelayanan berbagai\nfasilitas sosial di permukiman transmigrasi yang meliputi\npendidikan, kesehatan, kesenian, olahraga dan pembinaan generasi\nmuda serta peranan wanita, dan lain -lain termasuk pembinaan\nwawasan kebangsaan dan integrasi masyarakat antara transmigran\ndan penduduk di sekitar permukiman transmigrasi sehingga terbina\nkehidupan masyarakat yang harmonis dan saling membutuhkan.\nDengan demikian, secara alami akan terjadi pros es akulturasi budaya\nyang akan memperkukuh persatuan dan kesatuan bangsa.\nHuruf c\nPembinaan di bidang mental spiritual diarahkan pada sikap mental\nyang ulet, tangguh dan mandiri, serta perilaku yang makin baik\nsesuai dengan ajaran agama dan keyakinanny a sehingga\nmenjadi manusia yang beriman dan bertaqwa kepada Tuhan Yang\nMaha Esa.\nHuruf d…\nPRESIDEN\nREPUBLIK INDONESIA\nHuruf d\nUntuk menjamin pelayanan masyarakat yang makin baik,\npembentukan kelembagaan pemerintahan desa dan kelembagaan\nkemasyarakatan, yang meliputi Lembaga Ketahanan Masyarakat\nDewa dan Lingkungan Musyawarah Desa, dan lain -lain perlu\ndipersiapkan sejak dini. Untu k itu, kerja sama dengan Pemerintah\nDaerah perlu dilakukan secara lebih intensif agar pada saatnya dapat\ndibentuk perangkat desa yang definitif dan efektif.\nHuruf e\nUntuk menjamin kelestarian lingkungan hidup di sekitar\npermukiman transmigrasi, pemanfaa tan potensi sumber daya alam\nperlu dilakukan secara arif dan tanpa merusak fungsi lingkungan\nsetempat agar usaha yang dikembangkan dapat berkelanjutan,\nPemeliharaan kelestarian lingkungan menjadi tanggungjawab\nbersama antara pemerintah, transmigran dan Bad an Usaha. Dalam\nrangka memelihara kelestarian lingkungan secara berkelanjutan,\nperlu ditingkatkan kesadaran akan pentingnya kelestarian lingkungan\nhidup.\nPasal 33\nCukup jelas\nPasal 34\nAyat (1)\nPenanganan penyelenggaraan transmigrasi berakhir bilamana s asaran\npembangunan yang ditetapkan telah tercapai. Apabila transmigrasi telah\nmencapai tingkat kesejahteraan dan tingkat pembinaan yang diharapkan\natau selambat -lambatnya lima tahun sejak penempatan transmigrasi, maka\npembinaan permukiman transmigrasi diserahkan kepada Pemerintah Daerah\nyang di dalam pelaksanaannya melibatkan instansi teknis dan fungsional\nyang terkait. Penyerahan sebagaimana dimaksud hanya berlaku untuk jenis\nTransmigrasi Umum dan Transmigrasi Swakarsa Berbantuan, sedangkan\njenis Transmigr asi Swakarsa Mandiri sejak awal pembinaannya dilakukan\noleh Pemerintah Desa.\nAyat (2)\nSetelah penyerahan pembinaan dilakukan, maka perlakuan khusus yang\ndilakukan melalui penyelenggaraan transmigrasi, baik terhadap masyarakat\ndan lingkungan sosial maupun lingkungan fisik, disesuaikan dengan\npembinaan yang berlaku secara umum. Dengan demikian, status\npermukiman transmigrasi menjadi desa definitif dan status sebagai\ntransmigrasi berakhir.\nAyat (3)…\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (3)\nCukup jelas.\nPasal 35.\nAyat (1)\nPeran serta masyarakat pada penyelenggaraan transmigrasi yang dimaksud\ndapat berupa penyediaan jasa, barang dan modal, serta tenaga, seperti\nsukarelawan atau tenaga pekerja sosial, tenaga pelayanan masyarakat yang\nakan bertransmigrasi, penanam modal, serta pelaku pelatihan dan\npembinaan masyarakat.\nAyat (2)\nYang dimaksud perseorangan adalah orang secara pribadi, yang dimaksud\ndengan kelompok masyarakat adalah organisasi sosial kemasyarakatan atau\nLembaga Swadaya Masyarakat dan sejenisnya; dan yang dimaksu d dengan\nBadan Usaha adalah lembaga berbadan hukum termasuk koperasi.\nAyat (3)\nPeran serta perseorangan, kelompok masyarakat, dan Badan Usaha dalam\npenyelenggaraan transmigrasi dan mobilitas penduduk yang teratur, terarah\ndan makin besar merupakan hal ya ng sangat dikehendaki dan merupakan\nkeberhasilan penyelenggaraan transmigrasi. Oleh karena itu, Pemerintah\nsesuai dengan perkembangan masyarakat senantiasa perlu mengarahkan,\nmendorong dan memberikan segala kemudahan yang diperlukan bagi\npeningkatan peran tersebut. Pemberian kemudahan dan pelayanan yang\ndapat diberikan, antara lain dengan memudahkan proses perizinan,\nmembantu mengusahakan pinjaman modal, serta memberikan dukungan\ndan prioritas pembangunan prasarana dan fasilitas umum dari penanam\nmodal, ser ta pelayanan lain bagi Badan Usaha, kelompok masyarakat dan\nperseorangan yang turut serta pada penyelenggaraan transmigrasi.\nAyat (4)\nCukup jelas.\nPasal 36\nPengawasan dimaksudkan agar pelaksanaan tugas dan kewajiban dilakukan secara\ntertib berdasarkan peraturan dan ketentuan yang berlaku untuk meningkatkan tertib\nmanajemen guna mencapai hasil yang berdaya guna dan berhasil guna dalam\npenyelenggaraan transmigrasi. Pengawasan dimaksud termasuk kegiatan\npemeriksaan administratif dan tindak lanjutnya.\nPasal 37…\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 37\nTindakan administratif diperlukan untuk memperbaiki dan mendidik para pihak\nyang melakukan pelanggaran administratif, baik aparatur Pemerintah, Badan\nUsaha, perseorangan maupun kelompok masyarakat. Tindakan administratif yang\ndiambil ha rus masih dalam rangka mencapai sasaran pembangunan\nketransmigrasian yang optimal.\nPasal 38\nCukup jelas\nPasal 39\nCukup jelas\nPasal 40\nCukup jelas\nPasal 41\nCukup jelas\nPasal 42\nCukup jelas\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 3682."
+   }
+  }
+ ]
+}

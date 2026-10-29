@@ -1,0 +1,72 @@
+{
+ "id": "PH-H23114",
+ "title": {
+  "zh": null,
+  "en": "Further Amending Presidential Decree No. 15 (Cultural Center of the Philippines), as Amended By Presidential Decree No. 1444 and 1815",
+  "orig": "Further Amending Presidential Decree No. 15 (Cultural Center of the Philippines), as Amended By Presidential Decree No. 1444 and 1815"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1981-01-16",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 1825",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 873,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_01825_1981_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_01825_1981_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H23114-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "All taxes, except income tax, imposed on the business operations of the Cultural Center of the\nPhilippines shall, in lieu of being paid directly to the Bureau of Internal Revenue be remitted directly to the\nCultural Center of the Philippines, such fund to be used by the Center for its cultural activities. As such, these\ntaxes shall be part of the expenses of its business operations and shall not in any way place the business\noperations of the Center such as the hotel, at an undue advantage over the other hotels which are required by\nlaw to pay these taxes."
+   }
+  },
+  {
+   "id": "PH-H23114-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The Center shall report to the Bureau of Internal Revenue the amount of taxes so transferred for\ncultural activities of the Center within five (5) days from its accrual."
+   }
+  },
+  {
+   "id": "PH-H23114-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Decree shall take effect immediately.\nDone in the City of Manila, this 16th day of January, in the year of Our Lord, nineteen hundred and"
+   }
+  }
+ ]
+}

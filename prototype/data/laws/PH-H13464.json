@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13464",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Section Nineteen Hundred and Fifty-Nine of the Administrative Code, Authorizing the Director of Posts to Collect storage on Postal",
+  "orig": "An Act to Amend Section Nineteen Hundred and Fifty-Nine of the Administrative Code, Authorizing the Director of Posts to Collect storage on Postal"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1919-03-04",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2816",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 691,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1919/act_2816_1919.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02816_1919_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02816_1919_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13464-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section nineteen hundred and fifty-nine of the Administrative Code is hereby amended by\nadding, at the end thereof, the following paragraph:\n\"The Director of Posts shall fix and collect storage charges for postal packages the consignees or addresses of\nwhich have failed to call for them at the post offices within thirty days after being notified and requested to do\nso, and for this purpose he shall, with the approval of the Secretary of Commerce and Communications,\nestablish a schedule of charges for these cases: Provided, That the charge made for each package shall not\nexceed five centavos for each day of storage.\""
+   }
+  },
+  {
+   "id": "PH-H13464-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, March 4, 1919."
+   }
+  }
+ ]
+}

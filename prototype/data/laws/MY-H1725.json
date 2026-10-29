@@ -1,0 +1,66 @@
+{
+ "id": "MY-H1725",
+ "title": {
+  "zh": "2024年马来西亚志愿团（附表修正）令",
+  "en": "MALAYSIA VOLUNTEERS CORPS (AMENDMENT OF SCHEDULE) ORDER 2024",
+  "orig": "MALAYSIA VOLUNTEERS CORPS (AMENDMENT OF SCHEDULE) ORDER 2024",
+  "ms": "Perintah Kor Sukarelawan Malaysia (Pindaan Jadual) 2024",
+  "vi": "Lệnh về Đoàn Tình nguyện Malaysia (Sửa đổi phụ lục) năm 2024",
+  "th": "คำสั่งกองกำลังอาสาสมัครมาเลเซีย (การแก้ไขภาคผนวก) ค.ศ. 2024",
+  "id": "Perintah Korps Sukarelawan Malaysia (Perubahan Lampiran) Tahun 2024"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-4",
+ "language": "ms",
+ "level": "regulation",
+ "category": "05_其他及未分类",
+ "status": "active",
+ "promulgatedDate": "2024",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "PUA165",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 2,
+ "chars": 314,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-view.php?type=pua&no=P.U. (A) 165/2024&status=PRINCIPAL"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\05_其他及未分类\\2024_P.U.(A)165-2024_MALAYSIA VOLUNTEERS CORPS (AMENDMENT OF SCHEDULE) ORDER 2024.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 2 条；逐字未改写（源自厂商 OCR 文本）。原文马来文/英文双语并置，已分别落 text.ms 与 text.en。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H1725-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "1. (1) Perintah ini bolehlah dinamakan Perintah Pasukan Sukarelawan\n\nMalaysia (Pindaan Jadual) 2024.\n\n(2) Perintah ini mula berkuat kuasa pada 1 Julai 2024.\n\nPindaan Jadual"
+   }
+  },
+  {
+   "id": "MY-H1725-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "2. Akta Pasukan Sukarelawan Malaysia 2012 dipinda dengan menggantikan\n\nJadual dengan jadual yang berikut:\n\n\"JADUAL\n\n[Seksyen 22]\n\nPANGKAT RELA"
+   }
+  }
+ ]
+}

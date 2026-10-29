@@ -1,0 +1,82 @@
+{
+ "id": "PH-H16403",
+ "title": {
+  "zh": null,
+  "en": "An Act Creating a Bureau of Labor Under the Administrative Supervision of the Department of Labor and Appropriating Funds therefor.",
+  "orig": "An Act Creating a Bureau of Labor Under the Administrative Supervision of the Department of Labor and Appropriating Funds therefor."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1945-10-15",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 695",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 1038,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00695_1945_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00695_1945_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H16403-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "There is hereby created a bureau to be known as the Bureau of Labor under the administrative\nsupervision and control of the Department of Labor."
+   }
+  },
+  {
+   "id": "PH-H16403-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The Secretary of Labor, with the approval of the President, is hereby authorized to transfer from\nhis Department to the Bureau of Labor such personnel, equipment, appropriation and records as, in his opinion\nare essential to the proper functioning of said bureau."
+   }
+  },
+  {
+   "id": "PH-H16403-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "The sum of forty thousand two hundred pesos, or so much thereof as may be necessary, is hereby\nappropriated out of the funds of the National Treasury not otherwise appropriated for the salaries of the\nDirector of Labor at seven thousand two hundred pesos per annum;five labor agents at two thousand four\nhundred pesos each, or twelve thousand pesos per annum; five labor agents at one thousand eight hundred\npesos each, or nine thousand per annum; and ten labor agents at one thousand two hundred pesos each, or\ntwelve thousand pesos per annum, respectively."
+   }
+  },
+  {
+   "id": "PH-H16403-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, October 15, 1945."
+   }
+  }
+ ]
+}

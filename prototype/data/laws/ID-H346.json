@@ -1,0 +1,66 @@
+{
+ "id": "ID-H346",
+ "title": {
+  "zh": "印度尼西亚共和国政府同意法",
+  "en": "government approval Republic of Indonesia Law",
+  "id": "persetujuan pemerintah republik indonesia",
+  "orig": "PERSETUJUAN PEMERINTAH REPUBLIK INDONESIA",
+  "vi": "Luật chấp thuận của chính phủ Cộng hòa Indonesia",
+  "th": "พระราชบัญญัติ ความเห็นชอบของรัฐบาล สาธารณรัฐอินโดนีเซีย",
+  "ms": "Akta persetujuan pemerintah republik indonesia"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02c",
+ "language": "id",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "1973",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "-",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 2,
+ "chars": 721,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": null
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\01_宪法与基础法\\印尼_WLD_1973_PERSETUJUAN PEMERINTAH REPUBLIK INDONESIA.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 2 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H346-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\nMengesyahkan Persetujuan Pemerintah Republik Indonesia terhadap\nPerubahan Pasal VI Anggaran Dasar Badan Tenaga Atom Internasional\n(An Amendment of Article VI of the Statute of the International\nAtomic Energy Agency), yang salinannya dilampirkan pada\nUndang-undang\nini."
+   }
+  },
+  {
+   "id": "ID-H346-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\nUndang-undang ini mulai berlaku pada tanggal diundangkannya.\nAgar supaya setiap orang mengetahuinya, memerintahkan\npengundangan Undang-undang ini dengan menempatkannya dalam Lembaran\nNegara Republik\nIndonesia.\nDisahkan di Jakarta\npada tanggal 12 Januari 1973.\nPRESIDEN REPUBLIK INDONESIA,\nSOEHARTO\nJENDERAL TNI.\nDiundangkan di Jakarta\npada tanggal 12 Januari 1973\nSEKRETARIS NEGARA\nREPUBLIK INDONESIA,\nSUDHARMONO, SH.\nMAYOR JENDERAL TNI."
+   }
+  }
+ ]
+}

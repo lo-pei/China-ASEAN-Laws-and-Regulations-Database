@@ -1,0 +1,234 @@
+{
+ "id": "MY-H2287",
+ "title": {
+  "zh": "2023年家庭主妇社会保障（登记与缴纳）条例",
+  "en": "HOUSEWIVES’ SOCIAL SECURITY (REGISTRATION AND CONTRIBUTION) REGULATIONS 2023",
+  "orig": "HOUSEWIVES’ SOCIAL SECURITY (REGISTRATION AND CONTRIBUTION) REGULATIONS 2023",
+  "ms": "Peraturan Keselamatan Sosial Suri Rumah (Pendaftaran dan Caruman) 2023",
+  "vi": "Quy định về An sinh xã hội cho người nội trợ (Đăng ký và đóng góp) năm 2023",
+  "th": "ข้อบังคับความมั่นคงทางสังคมของแม่บ้าน (การขึ้นทะเบียนและการสมทบ) ค.ศ. 2023",
+  "id": "Peraturan Jaminan Sosial Ibu Rumah Tangga (Registrasi dan Iuran) Tahun 2023"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-5",
+ "language": "ms",
+ "level": "regulation",
+ "category": "04_劳工与行政法",
+ "status": "active",
+ "promulgatedDate": "2023",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "PUA199",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 16,
+ "chars": 26081,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-view.php?type=pua&no=P.U. (A) 199/2023&status=PRINCIPAL"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\04_劳工与行政法\\2023_P.U.(A)199-2023_HOUSEWIVES' SOCIAL SECURITY (REGISTRATION AND CONTRIBUTION) REGULATIONS 2023.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 16 条；逐字未改写（源自厂商 OCR 文本）。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H2287-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "1. Nama dan permulaan kuat kuasa\n\nBAHAGIAN II\n\nPENDAFTARAN"
+   }
+  },
+  {
+   "id": "MY-H2287-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "2. Pendaftaran suri rumah"
+   }
+  },
+  {
+   "id": "MY-H2287-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "3. Pemberitahuan perubahan"
+   }
+  },
+  {
+   "id": "MY-H2287-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "4. Daftar\n\nBAHAGIAN III\n\nCARUMAN"
+   }
+  },
+  {
+   "id": "MY-H2287-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "5. Bayaran caruman"
+   }
+  },
+  {
+   "id": "MY-H2287-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "6. Bayaran caruman bagi pihak suri rumah"
+   }
+  },
+  {
+   "id": "MY-H2287-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "7. Bayaran balik caruman yang Akta tidak terpakai"
+   }
+  },
+  {
+   "id": "MY-H2287-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "8. Caruman mengikut imbangan"
+   }
+  },
+  {
+   "id": "MY-H2287-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "9. Tempoh caruman"
+   }
+  },
+  {
+   "id": "MY-H2287-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "10. Tempoh pelindungan"
+   }
+  },
+  {
+   "id": "MY-H2287-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "11. Pemakaian tak retroaktif"
+   }
+  },
+  {
+   "id": "MY-H2287-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "12. Pemotongan caruman oleh majikan"
+   }
+  },
+  {
+   "id": "MY-H2287-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "13. Ketidakupayaan suami untuk membayar caruman\n\nBAHAGIAN IV\n\nAM\n\nPeraturan"
+   }
+  },
+  {
+   "id": "MY-H2287-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "14. Pendaftaran tidak lengkap"
+   }
+  },
+  {
+   "id": "MY-H2287-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "15. Kesahan dokumen"
+   }
+  },
+  {
+   "id": "MY-H2287-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "16. Kegagalan pembayaran caruman oleh suami suri rumah\n\nJADUAL\n\nAKTA KESELAMATAN SOSIAL SURI RUMAH 2022\n\nPERATURAN-PERATURAN KESELAMATAN SOSIAL SURI RUMAH\n\n(PENDAFTARAN DAN CARUMAN) 2023\n\nPADA menjalankan kuasa yang diberikan oleh seksyen 92 dibaca bersama\n\nsubseksyen 13(1) Akta Keselamatan Sosial Suri Rumah 2022 [Akta 838],\n\nMenteri membuat peraturan-peraturan yang berikut:\n\nBAHAGIAN I\n\nPERMULAAN\n\nNama dan permulaan kuat kuasa\n\n1. (1) Peraturan-peraturan ini bolehlah dinamakan Peraturan-Peraturan\n\nKeselamatan Sosial Suri Rumah (Pendaftaran dan Caruman) 2023.\n\n(2) Peraturan-Peraturan ini disifatkan telah mula berkuat kuasa\n\npada 1 Disember 2022.\n\nBAHAGIAN II\n\nPENDAFTARAN\n\nPendaftaran suri rumah\n\n2. (1) Mana-mana suri rumah, suami suri rumah itu atau mana-mana orang lain\n\nboleh memohon bagi pendaftaran suri rumah itu kepada Pertubuhan bagi Skim dalam\n\nBorang SR 1 Jadual bersama dengan apa-apa dokumen, maklumat dan butir-butir\n\nsebagaimana yang dinyatakan dalam Borang SR 1.\n\n(2) Seseorang suri rumah atau suami suri rumah itu boleh membenarkan\n\nmana-mana orang untuk melengkapkan dan memberikan Borang SR 1 Jadual yang\n\ndisebut dalam subperaturan (1) bagi pihaknya tertakluk kepada apa-apa terma dan\n\narahan sebagaimana yang difikirkan perlu oleh Pertubuhan.\n\n(3) Jika Pertubuhan berpuas hati bahawa suri rumah atau suami suri rumah\n\nitu tidak dapat melengkapkan dan memberikan Borang SR 1 Jadual disebabkan oleh\n\napa-apa sebab, Pertubuhan boleh memberikan bantuan kepada suri rumah atau suami\n\nsuri rumah itu untuk melengkapkan Borang itu.\n\nPemberitahuan perubahan\n\n3. Seseorang suri rumah atau suami suri rumah itu yang mendaftar suri rumah\n\ndi bawah subperaturan 2(1), atau majikan suri rumah atau suami suri rumah itu\n\nhendaklah memberitahu kepada Pertubuhan secara bertulis mengenai apa-apa\n\nperubahan maklumat atau butir-butir yang telah diberikan dalam Borang SR 1 Jadual\n\ndi bawah peraturan 2 dalam masa tujuh hari daripada perubahan itu.\n\nDaftar\n\n4. Pertubuhan hendaklah menyimpan dan menyenggara suatu daftar suri rumah\n\nmengikut cara sebagaimana yang ditentukan oleh Ketua Pengarah.\n\nBAHAGIAN III\n\nCARUMAN\n\nBayaran caruman\n\n5. (1) Apabila didaftarkan di bawah peraturan 2, jika suami suri rumah itu\n\nmemilih untuk membayar caruman berkenaan dengan suri rumahnya\n\ndalam Borang SR 1 Jadual, suami suri rumah itu hendaklah membayar caruman kepada\n\nPertubuhan atau mana-mana ejen pada kadar caruman sebagaimana yang dinyatakan\n\ndalam Jadual Ketiga Akta.\n\n(2) Jika suami suri rumah itu tidak memilih untuk membayar caruman itu\n\ndalam Borang SR 1 Jadual atau jika suri rumah itu tidak mempunyai suami, caruman\n\nberkenaan dengan suri rumah itu boleh dibayar oleh suri rumah itu sendiri kepada\n\nPertubuhan atau mana-mana ejen pada kadar caruman sebagaimana yang dinyatakan\n\ndalam Jadual Ketiga Akta.\n\n(3) Walau apa pun subperaturan (2), suami suri rumah itu boleh memilih\n\nuntuk membayar caruman itu pada bila-bila masa berkenaan dengan suri rumahnya\n\ndalam Borang SR 1 Jadual.\n\n(4) Bagi maksud subperaturan (1) dan (3), suami suri rumah itu hendaklah\n\nmembayar caruman dalam masa tiga puluh hari dari tarikh suami suri rumah itu\n\ntelah memilih untuk membayar caruman berkenaan dengan suri rumahnya dalam\n\nBorang SR 1 Jadual.\n\n(5) Bagi maksud subseksyen 15(5) Akta, caruman yang kena dibayar di bawah\n\nperaturan ini boleh dibuat terlebih dahulu bagi dua belas bulan berturut-turut\n\nyang berikutnya dalam Borang SR 1 Jadual.\n\n(6) Caruman di bawah peraturan ini hendaklah dibayar—\n\n(a) secara tunai;\n\n(b) secara kiriman wang, wang pos, perintah juruwang, arahan bank\n\natau draf bank yang kena dibayar kepada Pertubuhan dan dipalang\n\ndengan perkataan \"Akaun Penerima Sahaja\"; atau\n\n(c) secara kad kredit, kad debit atau pemindahan wang\n\nsecara elektronik.\n\n(7) Apabila bayaran caruman di bawah peraturan ini diterima,\n\nPertubuhan hendaklah mengeluarkan suatu Nombor Kod Pengenalan Suri Rumah\n\nkepada suri rumah dan memasukkan nama dan nombor kad pengenalannya ke dalam\n\ndaftar yang disebut dalam peraturan 4.\n\nBayaran caruman bagi pihak suri rumah\n\n6. (1) Bagi maksud menjalankan apa-apa program atau aktiviti,\n\natau kerjasama menurut perenggan 13(2)(a) Akta, Pertubuhan boleh melaksanakan\n\nSkim kepada mana-mana suri rumah jika terdapat bayaran caruman dibuat\n\noleh mana-mana orang bagi pihak suri rumah.\n\n(2) Dalam menjalankan kuasanya di bawah subperaturan (1), Pertubuhan\n\nboleh meminta apa-apa dokumen, maklumat dan butir-butir sebagaimana yang\n\nditentukan oleh Pertubuhan dan merekodkan dokumen, maklumat dan butir-butir\n\nsuri rumah itu, dan memasukkan nama dan nombor kad pengenalannya ke dalam daftar\n\nyang disebut dalam peraturan 4.\n\nBayaran balik caruman yang Akta tidak terpakai\n\n7. (1) Tertakluk kepada subperaturan (2), jika apa-apa caruman kepada\n\nPertubuhan telah dibayar oleh atau bagi pihak mana-mana suri rumah yang baginya\n\nAkta tidak terpakai, jumlah wang yang telah dibayar oleh atau bagi pihak\n\nsuri rumah itu, Pertubuhan hendaklah apabila berpuas hati bahawa jumlah wang itu\n\ntidak boleh dibayar di bawah Akta, membayar balik jumlah wang itu tanpa\n\nfaedah kepada orang yang membuat bayaran itu.\n\n(2) Pertubuhan hendaklah membayar balik caruman yang tidak layak dibayar\n\ndi bawah subperaturan (1), jika bayaran balik itu dituntut dalam tempoh dua belas\n\nbulan dalam Borang SR 2 Jadual dari tarikh jumlah itu tidak kena dibayar di bawah Akta.\n\nCaruman mengikut imbangan\n\n8. Bagi maksud subseksyen 15(10) Akta, jika umur seorang suri rumah\n\nberinsurans melebihi umur lima puluh lima tahun dalam suatu tempoh caruman yang\n\nkena dibayar, kadar caruman hendaklah dikurangkan mengikut imbangan secara\n\nbulanan supaya jumlah caruman yang kena dibayar tidak melebihi had umur suri rumah\n\nberinsurans itu.\n\nTempoh caruman\n\n9. (1) Seseorang suri rumah berinsurans hendaklah hanya dilindungi\n\nterhadap bencana domestik jika caruman telah dibayar terlebih dahulu berkenaan\n\ndengan dirinya—\n\n(a) di bawah subperaturan 5(1), (2) atau (3) bagi tempoh caruman\n\ndua belas bulan; dan\n\n(b) di bawah subperaturan 5(5) bagi dua belas bulan berturut-turut\n\nyang berikutnya.\n\n(2) Tempoh caruman hendaklah bermula dari waktu dan tarikh caruman\n\nyang dibayar oleh atau bagi pihak seseorang suri rumah dan berakhir sebaik sahaja\n\nhabis hari terakhir tempoh caruman itu.\n\n(3) Bagi maksud tempoh caruman yang berterusan, caruman hendaklah\n\ndibayar bagi tempoh caruman yang baharu pada bila-bila masa sebelum habis tempoh\n\ncaruman yang sedia ada, dan tempoh caruman yang baharu itu hendaklah bermula dari\n\nwaktu dan tarikh sebaik selepas hari terakhir tempoh caruman yang sedia ada itu.\n\nTempoh pelindungan\n\n10. (1) Berhubung dengan keilatan, tempoh pelindungan hendaklah bermula\n\ndari waktu dan tarikh pembayaran caruman dan berakhir sebaik sahaja habis hari\n\nterakhir tempoh pelindungan itu.\n\n(2) Sekiranya tempoh pelindungan yang sedia ada bertindih dengan\n\nmana-mana tempoh pelindungan yang baharu, tempoh pelindungan sedia ada\n\nyang bertindih itu hendaklah dikira sebagai satu tempoh pelindungan sahaja dan\n\nhendaklah tidak ditambah kepada tempoh pelindungan yang baharu apabila tempoh\n\npelindungan yang baharu itu bermula, dan tempoh pelindungan yang baharu itu\n\nhendaklah berakhir sebaik sahaja habis hari terakhir tempoh pelindungan itu tanpa\n\nmengambil kira pertindihan tempoh pelindungan itu.\n\nPemakaian tak retroaktif\n\n11. Walau apa pun apa-apa peruntukan dalam Peraturan-Peraturan ini, tarikh\n\npermulaan tempoh caruman atau tempoh pelindungan tidak mempunyai pemakaian\n\nretroaktif dari waktu dan tarikh pembayaran caruman diterima oleh Pertubuhan.\n\nPemotongan caruman oleh majikan\n\n12. (1) Seseorang suami suri rumah atau suri rumah itu boleh, dengan\n\nmengemukakan Borang SR 3 Jadual kepada Pertubuhan, meminta Pertubuhan untuk\n\nmengarahkan majikannya untuk memotong caruman yang kena dibayar\n\ndi bawah subperaturan 5(1), (2), (3) atau (5) daripada gaji bulanannya.\n\n(2) Apa-apa caruman melalui pemotongan daripada gaji yang kena dibayar\n\ndi bawah subperaturan (1) oleh majikan hendaklah dibayar kepada Pertubuhan\n\nmengikut cara yang berikut:\n\n(a) secara tunai;\n\n(b) secara kiriman wang, wang pos, perintah juruwang, arahan bank\n\natau draf bank yang kena dibayar kepada Pertubuhan dan dipalang\n\ndengan perkataan \"Akaun Penerima Sahaja\"; atau\n\n(c) secara kad kredit, kad debit atau pemindahan wang secara\n\nelektronik.\n\n(3) Apabila menerima Borang SR 3 Jadual, Pertubuhan boleh menyerahkan\n\nsuatu notis secara bertulis dalam Borang SR 4 Jadual kepada majikan melalui\n\npenyampaian ke diri atau melalui pos berdaftar Akuan Terima untuk mengarahkan\n\nmajikan untuk memotong caruman itu.\n\n(4) Apabila menerima Borang SR 4 Jadual, majikan hendaklah mematuhi\n\narahan Pertubuhan yang dinyatakan dalam Borang SR 4 dan memotong\n\ngaji suami suri rumah atau suri rumah dalam masa tiga puluh hari dari tarikh penerimaan\n\nBorang SR 4 atau apa-apa tempoh lanjutan yang dibenarkan oleh Pertubuhan.\n\nKetidakupayaan suami untuk membayar caruman\n\n13. (1) Jika seorang suami suri rumah telah memilih untuk membayar caruman\n\nberkenaan dengan suri rumah itu di bawah subperaturan 5(1) atau (3) dan—\n\n(a) belum membayar caruman tetapi menjadi tidak berupaya untuk\n\nmembayar caruman disebabkan oleh kehilangan pendapatan atau\n\nkerana apa-apa sebab lain, suami suri rumah itu hendaklah\n\nmemaklumkan Pertubuhan berkenaan dengan ketidakupayaannya\n\nuntuk membayar caruman dengan mengemukakan suatu notis\n\nbertulis dalam Borang SR 5 Jadual bersama dengan apa-apa\n\ndokumen, maklumat dan butir-butir sebagaimana yang dinyatakan\n\ndalam Borang SR 5; atau\n\n(b) telah membayar caruman berkenaan dengan suri rumah itu tetapi\n\nmenjadi tidak berupaya untuk membayar caruman yang baharu\n\ndisebabkan oleh kehilangan pendapatan atau kerana apa-apa sebab\n\nlain, suami suri rumah itu hendaklah memaklumkan Pertubuhan\n\nberkenaan dengan ketidakupayaannya untuk membayar caruman\n\ndengan mengemukakan suatu notis bertulis dalam Borang SR 5\n\nJadual bersama dengan apa-apa dokumen, maklumat dan\n\nbutir-butir sebagaimana yang dinyatakan dalam Borang SR 5.\n\n(2) Notis dalam Borang SR 5 Jadual hendaklah dikemukakan kepada dan\n\ndiakui penerimaan oleh Pertubuhan—\n\n(a) dalam hal perenggan (1)(a), dalam masa tiga puluh hari dari tarikh\n\nsuami suri rumah itu telah memilih untuk membayar caruman; dan\n\n(b) dalam hal perenggan (1)(b), sekurang-kurangnya enam puluh hari\n\nsebelum habis tempoh caruman yang sedia ada.\n\n(3) Selepas Pertubuhan menerima Borang SR 5 Jadual—\n\n(a) suri rumah itu boleh membayar caruman mengikut\n\nsubperaturan 5(2) bagi tempoh caruman yang baharu; dan\n\n(b) suami suri rumah itu boleh pada bila-bila masa memilih semula\n\nuntuk membayar caruman mengikut subperaturan 5(3)\n\nsebaik sahaja dia boleh membayar caruman berkenaan dengan\n\nsuri rumahnya.\n\nBAHAGIAN IV\n\nAM\n\nPendaftaran tidak lengkap\n\n14. Jika suatu pendaftaran dibuat dengan Pertubuhan didapati tidak lengkap,\n\nPertubuhan boleh meminta suri rumah, suami suri rumah itu atau mana-mana orang lain\n\nuntuk mengambil langkah yang perlu bagi melengkapkan pendaftaran itu dalam tempoh\n\nyang ditentukan oleh Pertubuhan.\n\nKesahan dokumen\n\n15. (1) Jika apa-apa persoalan dibangkitkan mengenai kesahan apa-apa dokumen,\n\nmaklumat atau butir-butir yang berhubungan dengan pendaftaran yang dikemukakan\n\noleh suri rumah, suami suri rumah itu atau mana-mana orang lain, Pertubuhan boleh\n\nmenghendaki suri rumah, suami suri rumah itu atau mana-mana orang lain untuk\n\nmengemukakan dokumen, maklumat atau butir-butir tambahan kepada Pertubuhan.\n\n(2) Mana-mana Pemeriksa hendaklah mempunyai kuasa untuk memasuki\n\nmana-mana premis, tempat kediaman atau tempat penginapan yang merupakan tempat\n\nmenjalankan aktiviti suri rumah untuk menentusahkan dokumen atau apa-apa butir lain\n\ntermasuk waktu berlakunya suatu kemalangan di tempat itu.\n\nKegagalan pembayaran caruman oleh suami suri rumah\n\n16. Walau apa pun peraturan 13, jika suami tidak membayar caruman bagi apa-apa\n\ntempoh caruman yang baharu, suri rumah kepada suami itu boleh membayar caruman\n\nmengikut subperaturan 5(2) bagi tempoh caruman yang baharu itu.\n\nJADUAL\n\nBORANG\n\nBil.\n\n(1)\n\nTajuk Borang\n\n(2)\n\nBorang\n\n1. Pendaftaran dan Caruman Borang SR 1\n\n2. Tuntutan Bayaran Balik Caruman yang Tidak Layak Dibayar Borang SR 2\n\n3. Permohonan bagi Pemotongan Caruman Borang SR 3\n\n4. Notis Arahan bagi Pemotongan Caruman Borang SR 4\n\n5. Notis Ketidakupayaan Membayar Caruman oleh Suami Borang SR 5\n\nDibuat 9 Jun 2023\n\n[KSM/PUU(S)600-1/1/31/1(3); PN(PU2)765]\n\n SIVAKUMAR A/L VARATHARAJU NAIDU\n\n Menteri Sumber Manusia\n\nHOUSEWIVES' SOCIAL SECURITY ACT 2022\n\nHOUSEWIVES' SOCIAL SECURITY\n\n(REGISTRATION AND CONTRIBUTION) REGULATIONS 2023\n\n_____________________\n\nARRANGEMENT OF REGULATIONS\n\n_____________________\n\nPART I\n\nPRELIMINARY\n\nRegulation\n\n1. Citation and commencement\n\nPART II\n\nREGISTRATION\n\n2. Registration of housewife\n\n3. Notification of change\n\n4. Register\n\nPART III\n\nCONTRIBUTION\n\n5. Payment of contribution\n\n6. Payment of contribution on behalf of housewife\n\n7. Refund of contribution to which the Act does not apply\n\n8. Proportionate contribution\n\n9. Contribution period\n\n10. Coverage period\n\n11. Non-retroactive application\n\n12. Deduction of contribution by employer\n\n13. Inability of husband to pay contribution\n\nPART IV\n\nGENERAL\n\nRegulation\n\n14. Incomplete registration\n\n15. Validity of document\n\n16. Failure of payment of contribution by husband of housewife\n\nSCHEDULE\n\nHOUSEWIVES' SOCIAL SECURITY ACT 2022\n\nHOUSEWIVES' SOCIAL SECURITY (REGISTRATION AND CONTRIBUTION)\n\nREGULATIONS 2023\n\nIN exercise of the powers conferred by section 92 read together with\n\nsubsection 13(1) of the Housewives' Social Security Act 2022 [Act 838],\n\nthe Minister makes the following regulations:\n\nPART I\n\nPRELIMINARY\n\nCitation and commencement\n\n1. (1) These regulations may be cited as the Housewives' Social Security\n\n(Registration and Contribution) Regulations 2023.\n\n(2) These Regulations are deemed to have come into operation\n\non 1 December 2022.\n\nPART II\n\nREGISTRATION\n\nRegistration of housewife\n\n2. (1) Any housewife, the husband of the housewife or any other person\n\nmay apply for registration of the housewife to the Organization for the Scheme\n\nin Form SR 1 of the Schedule together with such documents, information and particulars\n\nas may be specified in Form SR 1.\n\n(2) A housewife or the husband of the housewife may authorize any person\n\nto complete and furnish Form SR 1 of the Schedule referred to in subregulation (1)\n\non her or his behalf subject to such terms and directions as the Organization\n\ndeems necessary.\n\n(3) If the Organization is satisfied that the housewife or the husband of the\n\nhousewife is unable to complete and furnish Form SR 1 of the Schedule due to any reason,\n\nthe Organization may provide assistance to the housewife or the husband of the\n\nhousewife in completing the Form.\n\nNotification of change\n\n3. A housewife or the husband of the housewife who registers a housewife\n\nunder subregulation 2(1), or an employer of the housewife or the husband\n\nof the housewife shall notify the Organization in writing of any change of information\n\nor particulars which has been provided in Form SR 1 of the Schedule under regulation 2\n\nwithin seven days of such change.\n\nRegister\n\n4. The Organization shall keep and maintain a register of housewives in the manner\n\nas may be determined by the Director General.\n\nPART III\n\nCONTRIBUTION\n\nPayment of contribution\n\n5. (1) Upon registration under regulation 2, if the husband of the housewife elects\n\nto pay the contribution in respect of his housewife in Form SR 1 of the Schedule,\n\nthe husband of the housewife shall pay the contribution to the Organization or any agent\n\nat the rate of contribution as may be specified in the Third Schedule of the Act.\n\n(2) If the husband of the housewife does not elect to pay the contribution\n\nin Form SR 1 of the Schedule or if the housewife does not have a husband, the contribution\n\nin respect of the housewife may be paid by the housewife herself to the Organization\n\nor any agent at the rate of contribution as may be specified in the Third Schedule\n\nof the Act.\n\n(3) Notwithstanding subregulation (2), the husband of the housewife\n\nmay elect to pay the contribution at any time in respect of his housewife in Form SR 1\n\nof the Schedule.\n\n(4) For the purposes of subregulations (1) and (3), the husband\n\nof the housewife shall pay the contribution within thirty days from the date the husband\n\nof the housewife elected to pay the contribution in respect of his housewife in Form SR 1\n\nof the Schedule.\n\n(5) For the purposes of subsection 15(5) of the Act, the contribution payable\n\nunder this regulation may be made in advance for the following twelve consecutive\n\nmonths in Form SR 1 of the Schedule.\n\n(6) The contribution under this regulation shall be paid—\n\n(a) by cash;\n\n(b) by money order, postal order, cashier's order, banker's order\n\nor bank draft made payable to the Organization and crossed\n\nwith the words \"Account Payee Only\"; or\n\n(c) by credit card, debit card or electronic fund transfer.\n\n(7) Upon receiving the payment of contribution under this regulation,\n\nthe Organization shall issue a Housewife Identity Code Number to the housewife\n\nand enter her name and her identity card number in the register\n\nreferred to in regulation 4.\n\nPayment of contribution on behalf of housewife\n\n6. (1) For the purpose of carrying out any programme or activity, or collaboration\n\npursuant to paragraph 13(2)(a) of the Act, the Organization may implement\n\nthe Scheme to any housewife if there is payment of contribution made by any person\n\non behalf of the housewife.\n\n(2) In the exercise of its power under subregulation (1), the Organization may\n\nrequest any documents, information and particulars as may be determined by the\n\nOrganization and record the documents, information and particulars of the housewife,\n\nand enter her name and her identity card number in the register referred\n\nto in regulation 4.\n\nRefund of contribution to which the Act does not apply\n\n7. (1) Subject to subregulation (2), if any contribution to the Organization\n\nhas been paid by or on behalf of any housewife to whom the Act does not apply,\n\nthe amount of money which has been paid by or on behalf of the housewife,\n\nthe Organization shall upon being satisfied that the said amount of money is not payable\n\nunder the Act, refund the said amount of money without interest to the person making\n\nthe payment.\n\n(2) The Organization shall refund the contribution that is not eligible to be paid\n\nunder subregulation (1), if the refund is claimed within twelve months in Form SR 2\n\nof the Schedule from the date the amount is not payable under the Act.\n\nProportionate contribution\n\n8. For the purposes of subsection 15(10) of the Act, if the age of an insured housewife\n\nexceeds the age of fifty-five years within a payable contribution period, the rate\n\nof contribution shall be proportionately reduced on monthly basis so that the total\n\ncontribution payable shall not exceed the age limit of the insured housewife.\n\nContribution period\n\n9. (1) An insured housewife shall only be covered against a domestic injury\n\nif the contribution has been paid in advance in respect of herself—\n\n(a) under subregulation 5(1), (2) or (3) for the contribution\n\nperiod of twelve months; and\n\n(b) under subregulation 5(5) for the following twelve\n\nconsecutive months.\n\n(2) The contribution period shall begin from the time and date the contribution\n\npaid by or on behalf of a housewife and ends immediately on the expiration\n\nof the last day of the contribution period.\n\n(3) For the purposes of a continuous contribution period, the contribution\n\nshall be paid for the new contribution period at any time before the expiration of the\n\nexisting contribution period, and the new contribution period shall begin from the time\n\nand date immediately following the last day of the existing contribution period.\n\nCoverage period\n\n10. (1) In relation to invalidity, the coverage period shall begin from the time\n\nand date of the payment of the contribution and ends immediately on the expiration of\n\nthe last day of the coverage period.\n\n(2) In the event the existing coverage period overlaps with any new coverage\n\nperiod, the overlapped existing coverage period shall be counted as one coverage period\n\nonly and shall not be added to the new coverage period when the new coverage period\n\ncommenced, and the new coverage period shall end immediately on the expiration of the\n\nlast day of the coverage period not taking into consideration the overlapped\n\ncoverage period.\n\nNon-retroactive application\n\n11. Notwithstanding any provision in these Regulations, the starting date of the\n\ncontribution period or coverage period shall not have retroactive application from the\n\ntime and date the payment of the contribution is received by the Organization.\n\nDeduction of contribution by employer\n\n12. (1) A husband of the housewife or the housewife may, by submitting\n\nForm SR 3 of the Schedule to the Organization, request the Organization to instruct\n\nhis or her employer to deduct the contribution payable under subregulation 5(1), (2),\n\n(3) or (5) from his or her monthly wages.\n\n(2) Any contribution through deduction from wages payable under\n\nsubregulation (1) by the employer shall be paid to the Organization\n\nin the following manner:\n\n(a) by cash;\n\n(b) by money order, postal order, cashier's order, banker's order\n\nor bank draft made payable to the Organization and crossed\n\nwith the words \"Account Payee Only\"; or\n\n(c) by credit card, debit card or electronic fund transfer.\n\n(3) Upon receipt of Form SR 3 of the Schedule, the Organization may serve\n\na notice in writing in Form SR 4 of the Schedule to the employer by personal service\n\nor by A.R. registered post to instruct the employer to deduct the contribution.\n\n(4) Upon receipt of Form SR 4 of the Schedule, the employer shall comply\n\nwith the instruction of the Organization specified in Form SR 4 and\n\ndeduct the wages of the husband of the housewife or the housewife within thirty days\n\nfrom the date of receipt of Form SR 4 or any extended period allowed by the Organization.\n\nInability of husband to pay contribution\n\n13. (1) Where a husband of the housewife has elected to pay the contribution\n\nin respect of the housewife under subregulation 5(1) or (3) and—\n\n(a) has yet to pay the contribution but becomes unable to pay\n\nthe contribution due to loss of income or for any other reasons,\n\nthe husband of the housewife shall inform the Organization\n\nin respect of his inability to pay the contribution by submitting\n\na written notice in Form SR 5 of the Schedule together with such\n\ndocuments, information and particulars as may be specified\n\nin Form SR 5; or\n\n(b) has paid the contribution in respect of the housewife but becomes\n\nunable to pay for the new contribution due to loss of income\n\nor for any other reasons, the husband of the housewife shall inform\n\nthe Organization in respect of his inability to pay the contribution\n\nby submitting a written notice in Form SR 5 of the Schedule\n\ntogether with such documents, information and particulars\n\nas may be specified in Form SR 5.\n\n(2) The notice in Form SR 5 of the Schedule shall be submitted to and\n\nacknowledged receipt by the Organization—\n\n(a) in the case of paragraph (1)(a), within thirty days from the date\n\nthe husband of the housewife has elected to pay the contribution;\n\nand\n\n(b) in the case of paragraph (1)(b), at least sixty days before the expiry\n\nof the existing contribution period.\n\n(3) After the Organization receives Form SR 5 of the Schedule—\n\n(a) the housewife may pay the contribution in accordance with\n\nsubregulation 5(2) for the new contribution period; and\n\n(b) the husband of the housewife may at any time reelect to pay\n\ncontribution in accordance with subregulation 5(3) immediately\n\nafter he is able to pay the contribution in respect of his housewife.\n\nPART IV\n\nGENERAL\n\nIncomplete registration\n\n14. Where a registration made with the Organization appears to be incomplete,\n\nthe Organization may request the housewife, the husband of the housewife or any other\n\nperson to take the necessary steps to complete the registration within the period\n\ndetermined by the Organization.\n\nValidity of document\n\n15. (1) Where any question arises as to the validity of any documents, information\n\nor particulars relating to the registration produced by the housewife, the husband of the\n\nhousewife or any other person, the Organization may require the housewife, the husband\n\nof the housewife or any other person to submit additional documents, information or\n\nparticulars to the Organization.\n\n(2) Any Inspector shall have the authority to enter any premises, place\n\nof residence or accommodation which is a place of the activities of the housewife to verify\n\ndocuments or any other details including when an accident occurs at that place.\n\nFailure of payment of contribution by husband of housewife\n\n16. Notwithstanding regulation 13, if a husband fails to pay contribution\n\nfor any new contribution period, the housewife to the husband may pay contribution\n\nin accordance with subregulation 5(2) for the new contribution period.\n\nSCHEDULE\n\nFORM\n\nNo.\n\n(1)\n\nTitle of Form\n\n(2)\n\nForm\n\n1. Registration and Contribution Form SR 1\n\n2. Claim of Refund of Non-eligible Contribution Form SR 2\n\n3. Application for Deduction of Contribution Form SR 3\n\n4. Notice of Instruction for Deduction of Contribution Form SR 4\n\n5. Notice of Inability to Pay Contribution by Husband Form SR 5\n\nMade 9 June 2023\n\n[KSM/PUU(S)600-1/1/31/1(3); PN(PU2)765]\n\nSIVAKUMAR A/L VARATHARAJU NAIDU\n\n Minister of Human Resources"
+   }
+  }
+ ]
+}

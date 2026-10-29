@@ -1,0 +1,664 @@
+{
+ "id": "ID-H1605",
+ "title": {
+  "zh": "鱼类资源保护法",
+  "en": "Law on the Conservation of Fish Resources",
+  "id": "KONSERVASI SUMBER DAYA IKAN",
+  "orig": "KONSERVASI SUMBER DAYA IKAN",
+  "vi": "Luật về Bảo tồn Nguồn lợi Cá",
+  "th": "พระราชบัญญัติว่าด้วยการอนุรักษ์ทรัพยากรปลา",
+  "ms": "Akta tentang Pemuliharaan Sumber Ikan"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02b",
+ "language": "id",
+ "level": "law",
+ "category": "04_劳工与行政法",
+ "status": "active",
+ "promulgatedDate": "2007",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "PP 60/2007",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 44,
+ "chars": 55713,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PP%20Nomor%2060%20Tahun%202007.pdf&fl=P17549"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\04_劳工与行政法\\印尼_文本_2007_KONSERVASI SUMBER DAYA IKAN.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 55 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H1605-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\n(t) Konservasi sumber daya ikan dilakukan berdasarkan asas:\na. manfaat;\nb. keadilan;\nc. kemitraan;\nd. pemerataan;\ne. keterpaduan;\nf. keterbukaan;\ng. efisiensi; dan\nh. kelestarian yang berkelanjutan.\n(2) Konservasi sumber daya ikan dilakukan berdasarkan\nprinsip:\na. pendekatan kehati-hatian;\nb. pertimbangan bukti ilmiah;\nc. pertimbangan kearifan lokal;\nd. pengelolaan berbasis masyarakat;\ne. keterpaduzln pengembangan wilayah pesisir;\nf. pencegahan tangkap lebih;\ng.pengembangan...\nPRESIDEN\nREPUBLIK INDONESIA\ng. pengembangan alat penangkapan ikan,\npenan$kapan ikan, dan pembudidayaan ikan\nramah lingkungan;\nh. pertimbangan kondisi sosial ekonomi masyarakat;\ni. pemanfaatan keanekaragaman hayati yang\nberkelanjutan;\nj. perlindungan stmktur dan fungsi alami ekosistem\nperairan yang dinamis;\nk. perlindungan jenis dan kualitas genetik ikan; dan\nl. pengelolaanadaptif."
+   }
+  },
+  {
+   "id": "ID-H1605-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\nKonserwasi sumber daya ikan menjadi tanggung jawab\nPemerintah, pemerintah daerah, dan masyarakat.\nBAE} II\nKONSERVASI SUMBER DAYA IKAN\nBagian Kesatu\nUmum"
+   }
+  },
+  {
+   "id": "ID-H1605-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB I / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\nKonservasi sumber daya ikan meliputi:\na. konservasiekosistem;\nb. konservasi jenis ikan; dan\nc. konservasi genetik ikan.\nBagian Kedua\nKonservasi Ekosistem"
+   }
+  },
+  {
+   "id": "ID-H1605-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB I / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\n(1) Konservasi ekosistem dilakukan pada semua tipe ekosistem\nyang terkait dengan sumber daya ikan.\n(2) Tipe ekosistem yang terkait dengan sumber daya ikan\nsebagaimana dimaksud pada ayat (1) terdiri atas:\nca_ra\nyang\na. laut;\nPRESIDEN\nREPUBLIK INDONESIA\na. laut;\nb. padang lamun;\nc. terumbu karanfi;\nd. mzurgrove;\ne. estuari;\nf. pantai;\ng. rawa;\nh. sungai;\ni. danau;\nj. waduk;\nk. embung; dan\nl. ekosistem perairan buatan"
+   }
+  },
+  {
+   "id": "ID-H1605-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB I / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\n(l) Konservasi ekosistem sebagaimana dimaksud dalam Pasal\n5 ayat (1) dilakukan melalui kegiatan:\na. perlindungan habitat dan populasi ikan;\nb. rehabilitasi habitat dan populasi ikan;\nc. penelitian dan pengembangan;\nd. pemanfaatan sumber daya ikan dan jasa lingkungau\ne. pengembangan sosial ekonomi masyarakat;\nf. pengawasan dan pengendalian; dan/atau\ng. monitoring dan evaluasi.\n(2) Kegiatan konservasi ekosistem sebagaimana dimaksud\npada ayat (I) dilakukan berdasarkan data dan informasi\nsumber daya ikan dan lingkungan sumber daya ikan.\n(3) Ketentuan lebih lanjut mengenai kegiatan konserwasi\nekosistem sebagaimana dimaksud pada ayat (I) dan ayat\n(2) diatur dengan peraturan Menteri."
+   }
+  },
+  {
+   "id": "ID-H1605-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB I / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\n(l) Dalam rangka pemulihan kondisi habitat sumber daya\nikan dan perlindungan siklus pengembangbiakan jenis\nikan, Menteri menetapkan pembukaan dan penutupan\nperairan tertentu untuk kegiatan penangkapan ikan.\n(2) Pembukaan...\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Pembukaan dan penutupan sebagaimana dimaksud pada\nayat (1) dilakukan dengan mempertimbangkan:\na. tingkat kerusakan habitat ikan;\nb. musim berkembang biak ikan; dan/atau\nc. tingkat pemanfaatan yang berlebih.\n(3) Ketentuan lebih lanjut mengenai pembukaan dan\npenutupan perairan tertentu sebagaimana dimaksud pada\nayat (1) dan ayat (2) diatur dengan peraturan Menteri."
+   }
+  },
+  {
+   "id": "ID-H1605-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB I / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n(1) Satu atau beberapa tipe ekosistem yang terkait dengan\nsumber daya ikan sebagaim€rna dimaksud dalam Pasal 5\nayat (21, dapat ditetapkan sebagai kawasan konservasi\nperairan.\n(2) Kawasan konservasi perairan sebagaimana dimaksud pada\nayat (1) terdiri atas taman nasional perairan, taman wisata\nperairart, suaka alam perairan, dan suaka perikanan.\n(3) Kawasan konservasi perairan sebagaimana dimaksud pada\nayat (1) ditetapkan oleh Menteri."
+   }
+  },
+  {
+   "id": "ID-H1605-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB I / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n(1) Penetapan kawasan konservasi perairan sebagaimana\ndimaksud dalam Pasal 8 ayat (3) dilakukan berdasarkan\nkriteria:\na. ekologi, meliputi keanekaragaman hayati, kealamiahan,\nketerkaitan ekologis, keterwakilan, keunikan,\nproduktivitas, daerah ruaya, habitat ikan langka,\ndaerah pemijahan ikan, dan daerah pengasuhan;\nb. sosial dan budaya, meliputi tingkat dukungan\nmasyarakat, potensi konflik kepentingan, potensi\nancarnan, kearifan lokal serta adat istiadat; dan\nc. ekonomi, meliputi nilai penting perikanan, potensi\nrekreasi dan pariwisata, estetika, dan kemudahan\nmencapai kawasan.\n(2) Ketentuan lebih lanjut mengenai kriteria penetapan\nsebagaimana dimaksud pada ayat (1) diatur dengan\nperaturan Menteri."
+   }
+  },
+  {
+   "id": "ID-H1605-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB I / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\nKawasan konserwasi perairan sebagaimana dimaksud dalam\nPasal 8 yang memiliki potensi biofisik dan sosial budaya yang\nsangat penting secara global dapat diusulkan oleh Pemerintah\nkepada lembaga internasional yang berwenang sebagai\nkawasan warisan alam dunia sesuai dengan peraturan\nperundang-undangan.\nPasal I I\n(1) Penetapan kawasan konservasi perairan sebagaimana\ndimaksud dalam Pasal 8 ayat (3) dilakukan melalui\ntahapan:\na. usulan inisiatil\nb. identifikasi dan inventarisasi;\nc. pencadan$an kawasan konservasi perairan; dan\nd. penetapan.\n(2) Terhadap kawasan konservasi perairan yang telah\nditetapkan dilakukan penataan batas oleh panitia tata\nbatas.\n(3) Ketentuan lebih lanjut mengenai penataan batas\nsebagaimana dimaksud pada ayat (2) diatur dengan\nperaturan Menteri."
+   }
+  },
+  {
+   "id": "ID-H1605-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB I / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n(t) Orang perseor€rngzrn, kelompok masyarakat, lembaga\npenelitian, lembaga pendidikan, lembaga pemerintah, dan\nlembaga swadaya masyarakat dapat berinisiatif untuk\nmengajukan usulan calon kawasan konservasi perairan\nsebagaimana dimaksud dalam Pasal 1l ayat (1) huruf a.\n(2) Usulan sebagaimana dimaksud pada ayat (1) disampaikan\nkepada Pemerintah atau pemerintah daerah dengan\ndilengkapi kajian awal dan peta lokasi.\n(3) Ketentuan lebih lanjut mengenai kajian awal dan peta\nlokasi sebagaimana dimaksud pada ayat (2) diatur dengan\nperaturan Menteri."
+   }
+  },
+  {
+   "id": "ID-H1605-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB I / Bagian Kedua"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 13\n(l) Berdasarkan usulan calon kawasan konserwasi perairan\nsebagaimana dimaksud dalam Pasal 12, Pemerintah atau\npemerintah daerah sesuai kewenangannya, melakukan\nidentifikasi dan inventarisasi calon kawasan konservasi\nperairan dengan melibatkzrn masy€rrakat'\n(2) Kegiatan identifikasi dan inventarisasi meliputi kegiatan\nsurvey dan penilaian potensi, sosialisasi, konsultasi publik,\ndan koordinasi dengan instansi terkait.\n(3) Ketentuan lebih lanjut mengenai identifikasi dan\ninventarisasi sebagaimana dimaksud pada ayat (1) dan ayat\n(2) diatur dengan peraturan Menteri.\nPasa] 14\n(1) Hasil identifikasi dan inventarisasi calon kawasan\nkonservasi perairan sebagaimana dimaksud dalam Pasal\n13, yang secara potensial memiliki kepentingan dan nilai\nkonservasi, dapat digunakan untuk pencadangan kawasan\nkonserwasi perairan.\n(2) Pencadangan kawasan konservasi perairan sebagaimana\ndimaksud pada ayat (1) ditetapkan oleh Menteri, gubernur,\natau bupati/walikota sesuai dengan kewenangannya'\n(3) Gubernur atau bupati/walikota mengusulkan kawasan\nkonservasi perairan berdasarkan pencadangan yang telah\nditetapkan sebagaimana dimaksud pada ayat (2) kepada\nMenteri.\n(4) Berdasarkan usulan kawasan konservasi perairan\nsebagaimana dimaksud pada ayat (3), Menteri atau pejabat\nyang ditunjuk melakukan evaluasi.\n(5) Berdasarkan hasil evaluasi sebagaimana dimaksud pada\nayat (4), Menteri dapat menetapkan kawasan konsenrasi\nperairan.\n(6) Ketentuan lebih lanjut mengenai proses pencadangan\nkawasam konservasi perairan sebagaimana dimaksud pada\nayat (I) sampai dengan ayat (5) diatur dengan peraturan\nMenteri."
+   }
+  },
+  {
+   "id": "ID-H1605-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB I / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\n(1) Kawasan konservasi perairan yang telah ditetapkan\nsebagaimana dimaksud dalam Pasal 14 ayat (5) dikelola\noleh Pemerintah atau pemerintah daerah sesuai\nkewenangannya.\n(2) Pengelolaan kawasan konservasi perairan sebagaimana\ndimaksud pada ayat (t) dilakukan oleh satuan unit\norganisasi pengelola sesuai dengan peraturan perundang-\nundangan."
+   }
+  },
+  {
+   "id": "ID-H1605-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB I / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\n(1) Pengelolaan kawasan konservasi perairan yang dilakukan\noleh Pemerintah sebagaimana dimaksud dalam Pasal 15\nayat (l) meliputi:\na. perairan laut di luar 12 (dua belas) mil laut diukur dari\ngaris pantai ke arah laut lepas dan/atau ke arah\nperairan kepulauan.\nb. perairan yang berada dalam wilayah kewenangan\npengelolaan lintas provinsi; atau\nc. perairan yang memiliki karakteristik tertentu.\n(2) Pengelolaan kawasan konservasi perairan yang dilakukan\noleh pemerintah provinsi meliputi:\na. perairan laut paling jauh 12 (dua belas) mil laut diukur\ndad garis pantai ke arah laut lepas dan/atau ke arah\nperairan kepulauan; dan\nb. kawasan konservasi perairan yang berada dalam\nwilayah kewenangan pengelolaan lintas\nkabupaten/kota.\n(3) Pengelolaan kawasan konserwasi perairan yang dilakukan\noleh pemerintah kabupaten/kota, meliputi:\na. perairan laut 1/3 (sepertiga) dari wilayah kewenangan\npengelolaan provinsi; dan\nb. perairan payau dan/atau perairan tawar yang berada\ndalam wilayah kewenangannya."
+   }
+  },
+  {
+   "id": "ID-H1605-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB I / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\n(1) Pengelolaan kawasan konservasi perairan sebagaimana\ndimaksud dalam Pasal 15 ayat (1) dilakukan berdasarkan\nrencana pengelolaan kawasan konserwasi perairan'\n(2) Rencana pengelolaan kawasan konservasi perairan\nsebagaimana dimaksud pada ayat (I) disusun oleh satuan\nunit organisasi pengelola.\n(3) Setiap rencana pengelolaan kawasan konservasi perairan\nhartts memuat zonasi kawasan konsenrasi perairan.\n(4) Zonasi kawasan konservasi perairan sebagaimana\ndimaksud pada ayat (3) terdiri atas:\na. zona inti;\nb. zona perikanan berkelanjutan;\nc. zonapemanfaatan; dan\nd. zonalainnya.\n(5) Ketentuan lebih lanjut mengenai rencana pengelolaan dan\nzonasi kawasan konservasi perairan sebagaimana\ndimaksud pada ayat (1) sampai dengan ayat (4) diatur\ndengan peraturan Menteri."
+   }
+  },
+  {
+   "id": "ID-H1605-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB I / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\n(1) Pemerintah atau pemerintah daerah sesuai\nkewenangannya dalam mengelola kawasan konservasi\nperairan sebagaimana dimaksud dalam Pasal 15 ayat (1)\ndapat melibatkan masyarakat melalui kemitraan antara\nunit orgzrnisasi pengelola dengan kelompok masyarakat\ndan/atau masyarakat adat, lembaga swadaya masyarakat,\nkorporasi, lembaga penelitian, maupun perguruan tinggi.\n(2) Ketentuan lebih lanjut mengenai kemitraan sebagaimana\ndimaksud pada ayat (1) diatur dengan peraturan Menteri."
+   }
+  },
+  {
+   "id": "ID-H1605-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB I / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\n(I) Dalam pengelolaan kawasan konservasi perairan dapat\ndibentuk jejaring kawasan konservasi perairan, baik pada\ntingkat lokal, nasional, regional, maupun global.\n(2) Jejaring...\nPRESIDEN\nREPI.'BLIK INDONESIA\n(2) Jejaring kawasan konservasi perairan sebagaimana\ndimaksud pada ayat (I) dibentuk berdasarkan keterkaitan\nbiofisik antarkawasan konservasi perairan disertai dengan\nbukti ilmiah yang meliputi aspek oceanografi, limnologi,\nbioekologi perikanan, dan daya tahan lingkungan'\n(3) Jejaring kawasan konservasi perairan pada tingkat lokal\nmaupun nasional sebagaimana dimaksud pada ayat (1)\ndilaksanakan melalui kerja s€una antar unit organisasi\npengelola.\n(4) Jejaring kawasan konservasi perairan pada tingkat regional\nmaupun global sebagaimana dimaksud pada ayat (l)\ndilaksanakan melalui ke{a sama antar negara.\n(5) Ketentuan lebih lanjut mengenai jejaring kawasan\nkonservasi perairan sebagaimana dimaksud pada ayat (1)\nsampai dengan ayat (4) diatur dengan peraturan Menteri."
+   }
+  },
+  {
+   "id": "ID-H1605-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB I / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\nPembiaya€rn pengelolaan kawasan konserwasi perairan dapat\nberasal dari sumber-sumber:\na. Anggaran Pendapatan dan Belanja Negara dan/atau\nAnggaran Pendapatan dan Belanja Daerah;\nb. pungutan perikanzrn;\nc. pungutan jasa konservasi; dan\nd. sumber lain yang sah dan tidak mengikat.\nBagian Ketiga\nKonservasi Jenis Ikan\nPasal 2l\nKonservasi jenis ikan dilakukan dengan tujuan:\na. melindungi jenis ikan yang terancam punah;\nb. mempertahankan keanekaragaman jenis ikan;\nc. memelihara keseimbangan dan kemantapan ekosistem; dan\nd. memanfaatkan sumber daya ikan secara berkelanjutan."
+   }
+  },
+  {
+   "id": "ID-H1605-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB I / Bagian Ketiga"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 22. . .\nPRESIDEN\nREPUBLIK INDONESIA\nPasal22\nKonservasi jenis ikan dilakukan melalui:\na. penggolongan jenis ikan;\nb. penetapan status perlindungan ienis ikan;\nc. pemeliharaan;\nd. pengembangbiakan; dan\ne. penelitian dan pengembangan."
+   }
+  },
+  {
+   "id": "ID-H1605-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB I / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\n(l) Penggolongan jenis ikan sebagaimana dimaksud dalam\nPasal 22 huruf a terdiri atas:\na. jenis ikan yang dilindungi;\nb. jenis ikan yang tidak dilindungi.\n(2) Kriteria jenis ikan yang dilindungi sebagaimana dimaksud\npada ayat (I) huruf a meliputi:\na. terancam punah;\nb. langka;\nc. daerah penyebaran terbatas (endemik);\nd. terjadinya penurllnan jumlah populasi ikan di alam\nsecara drastis; dan/atau\ne. tingkat kemampuan reproduksi yang rendah.\nPasal24\n(t) Penetapan status perlindungan jenis ikan sebagaimana\ndimaksud dalam Pasal 22 huruf b, ditetapkan oleh\nMenteri.\n(2) Tata cara penetapan status perlindun$an jenis ikan\nsebagaimana dimaksud pada ayat (t) diatur dengan\nperaturan Menteri."
+   }
+  },
+  {
+   "id": "ID-H1605-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB I / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\n(l) Pemeliharaan sebagaimana dimaksud dalam Pasal 22\nhuruf c dilakukan terhadap jenis ikan yang dilindungi dan\njenis ikan yang tidak dilindungi melalui kegiatan koleksi\nikan hidup pada suatu media terkontrol sebagai habitat\nbuatan.\n(2) Pemeliharaan\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Pemeliharaan jenis ikan sebagaimana dimaksud pada ayat\n(1) dapat dilakukan dengan czrra mengambil ikan dari\nhabitat alam atau dari hasil pengemban$biakan.\n(3) Pemeliharaan jenis ikan yang dilindungi dan jenis ikan\nyang tidak dilindungi di habitat buatan sebagaimana\ndimaksud pada ayat (1) dilakukan setelah memenuhi\npersyaratan:\na. standar kesehatan ikan;\nb. tempat yang cukup luas, zurl€u1, dan nyaman; dan\nc. mempekerjakan tenaga ahli dalam bidang medis dan\npemeliharaan ikan.\n(4) Pemeliharaan jenis ikan yang dilindungi dan jenis ikan\nyang tidak dilindungi dapat dilakukan oleh:\na. oremg perseorangan;\nb. kelompok masyarakat;\nc. badan hukum Indonesla;\nd. lembaga penelitian; dan/atau\ne. perguruEr.n tinggi.\n(5) Ketentuan tebih lanjut mengenai pemeliharaan jenis ikan\nyang dilindungi dan jenis ikan yang tidak dilindungi\nsebagaimana dimaksud pada ayat (l) sampai dengan ayat\n(4), diatur dengan peraturan Menteri."
+   }
+  },
+  {
+   "id": "ID-H1605-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB I / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\n(1) Pengembangbiakan sebagaimana dimaksud dalam Pasal22\nhuruf d dilakukan terhadap jenis ikan yang dilindungi dan\njenis ikan yang tidak dilindungi melalui:\na. pembenihan dalam lingkungan yang terkontrol;\nb. penetasan telur;\nc. pembesaran anakan yang diambil dari alam; atau\nd. transplantasi.\n(2) Pengembangbiakan jenis ikan yang dilindungi dan jenis\nikan yang tidak dilindungi sebagaimana dimaksud pada\nayat (1) dilakukan dengan cara menjaga kemurnian genetik\nikan.\n(3) Pengembangbiakan\nPRESIDEN\nREPUBLIK INDONESIA\n-t4-\n(3) Pengembangbiakan jenis ikan yang dilindungi dan jenis\nikan yang tidak dilindungi harr.s memenuhi standar\nkualilikasi pengembangbiakan jenis ikan.\n(4) Pengembangbiakan jenis ikan yang dilindungi dan jenis\nikan yang tidak dilindungi dapat dilakukan oleh:\na. perseorzmg€ul;\nb. kelompok masyarakat;\nc. badan hukum Indonesia;\nd. lembaga penelitian; dan/atau\ne. perguruan tinggi.\n(5) Ketentuan lebih tanjut mengenai standar kualifikasi\npengembangbiakan jenis ikan yang dilindungi dan jenis\nikan yang tidak dilindungi sebagaimana dimaksud pada\nayat (3) diatur dengan peraturan Menteri.\nPasal27\n(l) Untuk kepentingan pengendalian kegiatan\npengembangbiakan jenis ikan yang dilindungi dan jenis\nikan yang tidak dilindungi dapat dilakukan penandaan\nterhadap induk ikan dan ikan hasil pengembangbiakan.\n(2) Ketentuan lebih lanjut mengenai tata cara penandaan\nsebagaimana dimaksud pada ayat (1) diatur dengan\nperaturan Menteri."
+   }
+  },
+  {
+   "id": "ID-H1605-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB I / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\n(t) Penelitian dan pengembangan sebagaimana dimaksud\ndalam Pasal 22 huruf e dilakukan terhadap jenis ikan yang\ndilindungi dan jenis ikan yang tidak dilindungi.\n(2) Ketentuan mengenai penelitian dan pengembangan\nsebagaimana dimaksud pada ayat (1) diatur sesuai dengan\nperaturan perundang- undangan.\nBagian\nPRESIDEN\nREPUBLIK INDONESIA\nBagian Keempat\nKonservasi Genetik Ikan"
+   }
+  },
+  {
+   "id": "ID-H1605-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB I / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\n(1) Konservasi sumber daya genetik ikan dilakukan melalui\nupaya:\na. pemeliharaan;\nb. pengembangbiakan;\nc. penelitian; dan\nd. pelestarian gamet.\n(2) Ketentuan mengenai pemeliharaan, pengemban$biakan,\ndan penelitian sebagaimana dimaksud pada ayat (l) huruf\na, huruf b, dan huruf c berlaku mutatis mutandts\nketentuan mengenai konserwasi jenis ikan sebagaimana\ndimaksud dalam Pasal 25 sampai dengan Pasal 28.\n(3) Pelestarian gamet sumber daya genetik ikan sebagaimana\ndimaksud pada ayat (l) huruf d dilakukan dalam kondisi\nbeku.\n(4) Ketentuan lebih lanjut mengenai pelestarian gamet\nsebagaimana dimaksud pada ayat (3) diatur dengan\nperaturan Menteri.\nBAB III\nPEMANFAATAN\nPasal 3O\n(t) Pemanfaatan konservasi sumber daya ikan meliputi:\na. pemanfaatan kawasan konservasi perairan; dan\nb. pemanfaatan jenis ikan dan genetik ikan.\n(2) Pemanfaatan kawasan konservasi perairan sebagaimana\ndimaksud pada ayat (1) huruf a dilakukan melalui\nkegiatan:\na. penangkapan ikan;\nb. pembudidayaan ikan;\nc. pariwisata. . .\nPRESIDEN\nREPUBLIK INDONESIA\nc. pariwisata alam perairan; atau\nd. penelitian dan pendidikan.\n(3) Pemanfaatan jenis ikan dan genetik ikan sebagaimana\ndimaksud pada ayat (t) huruf b dilakukan melalui\nkegiatan:\na. penelitian dan pengembangan;\nb. pengembangbiakan;\nc. perdagangan;\nd. aquaria;\ne. pertukaran; dan\nf. pemeliharaan untuk kesenangan.\nPasal 3l\n(1) Pemanfaatan kawasan konservasi perairan untuk\npenangkapan ikan sebagaimana dimaksud dalam Pasal 30\nayat (2) huruf a dilakukan di zona perikanan\nberkelanjutan.\n(2) Setiap orang dalam melakukan penangkapan ikan\nsebagaimana dimaksud pada ayat (1) wajib memiliki izin.\n(3) Izin penangkapan ikan dalam kawasan konservasi perairan\nsebagaimana dimaksud pada ayat (2), diberikan oleh\nMenteri, gubernur, bupati/walikota atau pejabat yang\nditunjuk sesuai kewenangannya.\n(4) Menteri, gubernur, atau bupati/walikota dalam\nmemberikan :z;in penangkapan ikan antara lain\nmempertimbangkan:\na. daya dukung dan kondisi lingkungan sumber daya\nikan;\nb. metoda penangkapan ikan; dan\nc. jenis alat penangkapan ikan.\n(5) Ketentuan lebih lanjut mengenai tata cara memperoleh izin\npenangkapan ikan di zona perikanan berkelanjutan dalam\nkawasan konservasi perairan sebagaimana dimaksud pada\nayat (1) dan ayat (2) diatur dengan peraturan Menteri."
+   }
+  },
+  {
+   "id": "ID-H1605-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 32. . .\nPRESIDEN\nREPUBLIK INDONESIA\n-t7-\nPasal 32\n(1) Pemanfaatan kawasan konservasi perairan untuk\npembudidayaan ikan sebagaimana dimaksud dalam Pasal\n30 ayat (2) huruf b dilakukan di ?r;.ra perikanan\nberkelanjutan.\nl2l Setiap orang dalam melakukan pembudidayaan ikan\nsebagaimana dimaksud pada ayat (1) wajib memiliki bin.\n(3) Izin pembudidayaan ikan dalam kawasan konservasi\nperairan sebagaimana dimaksud pada ayat (2), diberikan\noleh Menteri, guberrlur, bupati/walikota atau pejabat yang\nditunjuk sesuai kewenangannya.\n(4) Menteri, gubernur, atau bupati/walikota dalam\nmemberikan izin pembudidayaan ikan pada kawasan\nkon servasi perairan, antara lain, mempertimban gkan :\na. jenis ikan yang dibudidayaftan;\nb. jenis pakan;\nc. teknologi;\nd. jumlah unit usaha budidaya; dan\ne. daya dukung dan kondisi lingkungan sumber daya\nikan.\n(5) Ketentuan lebih lanjut mengenai tata cara memperoleh\nizin pembudidayaal ikan di zfirra perikanan berkelanjutan\ndalam kawasan konservasi perairan sebagaimana\ndimaksud pada ayat (1) dan ayat l2l diatur dengan\nperaturan Menteri."
+   }
+  },
+  {
+   "id": "ID-H1605-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 33\n(1) Pemanfaatan kawasan konservasi perairan untuk\npariwisata alam perairan sebagaimana dimaksud dalam\nPasal 30 ayat (21 huruf c dapat dilakukan di zona\npemanfaatan da,n/ atau ?rrrra perikanan berkelanjutan.\n(2) Pariwisata alam perairan dalam kawasan konservasi\nperairan sebagaimana dimaksud pada ayat (l ) dapat\ndilakukan melalui:\na. kegiatan wisata alam perairan; dan/atau\nb. pengusalraan pa.riwisata alam perairan.\n(3) Setiap\nPRESIDEN\nREPUBLIK INDONESIA\n(3) Setiap orang dalam melakukan kegiatan\npengusahaan pariwisata alam perairan\ndimaksud pada ayat(21, wajib memiliki bin.\n(4) Izin sebagaimana dimaksud pada ayat (3) diberikan oleh\nMenteri, gubernur, bupati/walikota atau pejabat yang\nditunjuk sesuai dengan kewenan gannya.\n(5) Ketentuan lebih lanjut mengenaitata, cara memperoleh izin\npariwisata alam perairan di znna pemanfaatan dan/atau\nzrlr,a perikanan berkelanjutan dalam kawasan konservasi\nperairan sebagaimana dimaksud pada ayat (1) dan ayat (2)\ndiatur dengan peraturan Menteri."
+   }
+  },
+  {
+   "id": "ID-H1605-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 34\n(1) Pemanfaatan kawasan konservasi perairan untuk kegiatan\npenelitian dan pendidikan sebagaimana dimaksud dalam\nPasal 3O ayat (2) huruf d dapat dilakukan di zona inti,\n?rirra perikanan berkelanjutan, znna pemanfaatan,\nmaupun znna lainnya.\n(21 Setiap orang dalam memanfaatkan kawasan konservasi\nperairan untuk kegiatan penelitian dan pendidikan\nsebagaimana dimaksud pa.da ayat (1) wajib memiliki izin\npemanfaatan,\n(3) Izin sebagaimana dimaksud pada ayat (21 diberikan oleh\nMenteri, gubernur, bupati/walikota atau pejabat yang\nditunjuk sesuai dengan kewenangannya.\n(4) Orang asing dan/atau badan hukum asing yang akan\nmelakukan kegiatan penelitian dalam kawasan konservasi\nperairan dapat diberikan tzin setelah memenuhi\npersyaratan penzinan penelitian berdasarkan ketentuan\nperaturan perundan g-undangan.\n(5) Ketentuan lebih lanjut mengenai tata, cara memperoleh iztrr\npenelitian dan pendidikan dalam kawasan konservasi\nperairan sebagaimana dimaksud pada ayat (21dan ayat (3)\ndiatur dengan peraturan Menteri."
+   }
+  },
+  {
+   "id": "ID-H1605-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 35\n(1) Pemanfaatan jenis ikan dan genetik ikan sebagaimana\ndimaksud dalam Pasal 30 ayat (3) dilakukan terhadap jenis\nikan yang dilindungi dan jenis ikan yang tidak dilindungi,\nwisata dan\nsebagaimana\n(2) Pemanfaatan...\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Pemanfaatan jenis ikan dan genetik ikan sebagaimana\ndimaksud pada ayat (l) dapat dilakukan melalui\npengambilan ikan dari alam.\n(3) Pengambilan jenis ikan yang dilindungi dan jenis ikan\nyang tidak dilindungi dari alam sebagaimana dimaksud\npada ayat (2) wajib mendapat izin dari Menteri atau\npejabat yang ditunjuk, setelah mendapat rekomendasi dari\notoritas keilmuan.\n(4) Setiap jenis ikan yang dilindungi yang diambil dari alam\nuntuk kegiatan pengembangbiakan dan aquaria\ndinyatakan sebagai ikan titipan negara.\n(5) Setiap orzrng yang melakukan pengambilan ikan dari alam\nsebagaimana dimaksud pada ayat (2) wajib membayar\npungutan perikanan sesuai dengan ketentuan peraturan\nperundang-undangan.\n(6) Ketentuan lebih lanjut mengenai perizinan sebagaimana\ndimaksud pada ayat (3) diatur dengan peraturan Menteri."
+   }
+  },
+  {
+   "id": "ID-H1605-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 36\n(t) Pemanfaatan jenis ikan dan genetik ikan untuk kegiatan\npenelitian dan pengembangan sebagaimana dimaksud\ndalam Pasal 30 ayat (3) huruf a dapat dilakukan terhadap\njenis ikan yang dilindungi dan jenis ikan yang tidak\ndilindungi.\n(2) Penelitian dan pengembangan sebagaimana dimaksud\npada ayat (1) dapat dilakukan oleh:\na. orang perseorzrngan;\nb. pergurua.n tinggi;\nc. lembaga swadaya masyarakat; dan\nd. lembaga penelitian dan pengembangan.\n(3) Pemanfaatan jenis ikan dan genetik ikan untuk kegiatan\npenelitian dan pengembangan sebagaimana dimaksud\npada ayat (1) wajib mendapat izin pemanfaatan dari\nMenteri atau pejabat yang ditunjuk.\n(4) Hasil penelitian dan pengembangan sebagaimana\ndimaksud pada ayat (1) wajib diserahkan kepada Menteri.\n(5) Penelitian\nPRESIDEN\nREPUBLIK INDONESIA\n(5) Penelitian dan pengembangan terhadap jenis ikan yang\ndilindungi dan jenis ikan yang tidak dilindungi yang\ndilaksanakan oleh orang asing dan/atau badan hukum\nasing di Indonesia dilakukan sesuai dengan ketentuan\nperaturan perundang-undangan."
+   }
+  },
+  {
+   "id": "ID-H1605-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 37\n(1) Pemanfaatan jenis ikan dan genetik ikan untuk\npengembangbiakan sebagaimana dimaksud dalam Pasal\n30 ayat (3) huruf b dapat dilakukan terhadap jenis ikan\nyang dilindungi dan jenis ikan yang tidak dilindungi.\n(2) Pengembangbiakan sebagaimana dimaksud pada ayat (1)\ndapat dilakukan oleh:\na. oremg perseorangan;\nb. kelompok masyarakat;\nc. badan hukum Indonesia;\nd. lembaga penelitian; dan/atau\ne. perguman tinggi.\n(3) Kegiatan pengembangbiakan sebagaimana dimaksud pada\nayat (1) wajib mendapat izin dari Menteri atau pejabat\nyang ditunjuk.\n(4) Izin sebagaimana dimaksud pada ayat (3) diberikan oleh\nMenteri atau pejabat yang ditunjuk setelah pemohon\nmemenuhi persyaratan teknis dan administratif.\n(5) Ketentuan lebih lanjut mengenai persya.ratan teknis dan\nadministratif sebagaimana dimaksud pada ayat (4) diatur\ndengan peraturan Menteri."
+   }
+  },
+  {
+   "id": "ID-H1605-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 38\n(I) Pemanfaatan jenis ikan untuk perdagangan sebagaimana\ndimaksud dalam Pasal 3O ayat (3) huruf c meliputi:\na. jenis ikan yang dilindungi hasil pengembangbiakan:\nt) generasi II (F2) dan seterusnya;\n2) generasi I (F1) yang ditetapkan oleh Menteri setelah\nmendapatkan rekomendasi dari otoritas keilmuan;\nb. jenis\nPRESIDEN\nREPUBLIK INDONESIA\n-2r-\nb. jenis ikan yang tidak dilindungi;\nc. jenis ikan yang dapat diperdagangkan berdasarkan\nketentuan hukum internasional.\n(2) Menteri menetapkan jumlah kuota pengambilan ikan yang\ntidak dilindungi dari alam sebagaimana dimaksud pada\nayat (1) huruf b, untuk perdagangan setelah mendapat\nrekomendasi dari otoritas keilmuan."
+   }
+  },
+  {
+   "id": "ID-H1605-A39",
+   "no": 39,
+   "noLabel": {
+    "id": "Pasal 39"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 39\n(1) Pemanfaatan jenis ikan untuk perdagangan sebagaimana\ndimaksud dalam Pasal 38 ayat (1) dapat dilakukan oleh:\na. orurng perseorangan; dan /atau\nb. korporasi.\n(2) Orang perseorangan dan/atau korporasi sebagaim€Lna\ndimaksud pada ayat (1) untuk melakukan perdagangan\nwajib mendapat i.r;rrl dari Menteri atau pejabat yang\nditunjuk, setelah memenuhi persyaratan teknis'\n(3) Ketentuan lebih lanjut mengenai tata cara mendapatkan\nizin dan persyaratan teknis sebagaimana dimaksud pada\nayat (2) diatur dengan peraturan Menteri."
+   }
+  },
+  {
+   "id": "ID-H1605-A40",
+   "no": 40,
+   "noLabel": {
+    "id": "Pasal 40"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 40\n(t) Pemanfaatan jenis ikan untuk perdagangan sebagaimana\ndimaksud dalam Pasal 38 ayat (1) dapat dilakukan untuk\nekspor, impor, atau re-ekspor.\n(2) Pemanfaatan jenis ikan untuk ekspor, impor, atau re-\nekspor sebagaimana dimaksud pada ayat (1) sekurang-\nkurangnya waj ib dilengkapi:\na. surat pengiriman dari dan ke luar negeri;\nb. dokumen pengiriman atau pengangkutan;\nc. surat perolehan kuota perdagangan;\nd. surat keteranglan asal; dan\ne. surat keterangan hasil pengembangbiakan.\n(3) Ketentuan lebih lanjut mengenai ekspor, impor, atau re-\nekspor untuk perdagangan jenis ikan sebagaimana\ndimaksud pada ayat (l) dan ayat (2) diatur dengan\nperaturan Menteri.\nPasa] 4l . ..\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 4l\nJenis ikan yang di ekspor, impor, atau re-ekspor wajib\ndilakukan tindakan karantina sesuai dengan peraturan\nperundang-undangan.\nPasd, 42\n(t) Pemanfaatan jenis ikan untuk aquaria sebagaimana\ndimaksud dalam Pasal 30 ayat (3) huruf d dapat dilakukan\nterhadap jenis ikan yang dilindungi dan jenis ikan yang\nUdak dilindungi.\n(2) Aquaria sebagaimana dimaksud pada ayat (1) dapat\ndilakukan oleh:\na. badan hukum Indonesia;\nb. lembaga penelitian; atau\nc. perguruan tinggi.\n(3) Badan hukum Indonesia, lembaga penelitian, atau\npergunran tinggi sebagaimana dimaksud pada ayat (2)\nyang melakukan aquaria ikan, wajib mendapat izin dari\nMenteri atau pejabat yang ditunjuk.\n(4) Badan hukum Indonesia, lembaga penelitian, atau\nperguruan tinggi sebagaimana dimaksud pada ayat (2)\nyang melakukan aquaria ikan, wajib bertanggun$ jawab\natas kesehatan, keselamatan, dan keamanan ikan.\n(5) Aquaria sebagaimana dimaksud pada ayat (I) dilakukan\nmelalui kegiatan:\na. koleksi ikan hidup pada suatu media terkontrol sebagai\nhabitat buatan;\nb. koleksi ikan mati termasuk bagian-bagiannya; dan\nc. peragaan dalam bentuk atraksi ikan hidup.\n(6) Ketentuan lebih lanjut mengenai aquaria sebagaimana\ndimaksud pada ayat (1) sampai dengan ayat (5) diatur\ndengan peraturan Menteri."
+   }
+  },
+  {
+   "id": "ID-H1605-A43",
+   "no": 43,
+   "noLabel": {
+    "id": "Pasal 43"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 43\n(I) Pemanfaatan jenis ikan untuk pertukaran sebagaimana\ndimaksud dalam Pasal 30 ayat (3) huruf e dapat dilakukan\nterhadap jenis ikan yang dilindungi dan jenis ikan yang\ntidak dilindungi.\n(2) Pertukaran\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Pertukaran jenis ikan sebagaimana dimaksud pada ayat (1)\ndapat dilakukan oleh:\na. Pemerintah;\nb. Pemerintah Daerah;\nc. badan hukum Indonesia; atau\nd. perguruan tinggi;\n(3) Pertukaran jenis ikan sebagaimana dimaksud dalam ayat\n(t) wajib memiliki rzut:- dari Menteri atau pejabat yang\nditunjuk.\n(41 Pertukaran jenis ikan yang dilindungi dan jenis ikan yang\ntidak ditindungi sebagaimana dimaksud pada ayat (1)\ndilakukan atas dasar kesetaraan.\n(5) Ketentuan lebih lanjut mengenai pertukaran sebagaimana\ndimaksud pada ayat (l) sampai dengan ayat (4) diatur\ndengan peraturan Menteri."
+   }
+  },
+  {
+   "id": "ID-H1605-A44",
+   "no": 44,
+   "noLabel": {
+    "id": "Pasal 44"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 44\n(1) Pemanfaatan jenis ikan untuk pemeliharaan untuk\nkesenangan sebagaimana dimaksud dalam Pasal 30 ayat\n(3) huruf f dapat dilakukan terhadap jenis ikan yang\ndilindungi dan jenis ikan yang tidak dilindungi.\n(2) Pemeliharaan sebagaimana dimaksud pada ayat (1) dapat\ndilakukan oleh orang perseorangan.\n(3) Pemeliharaan jenis ikan yang dilindungi untuk kesenangan\nsebagaimana dimaksud pada ayat (l) hanya dapat\ndilakukan dari hasil pengembangbiakan.\n(4) Orang Perseorangan yang melakukan pemeliharaan jenis\nikan yang dilindungi sebagaimana dimaksud pada ayat (3)\nwajib memiliki uin dari Menteri atau pejabat yang\nditunjuk.\n(5) Orang Perseorangan yang melakukan pemeliharaan jenis\nikan yang dilindungi untuk kesenangan, wajib:\na. menjaga kesehatan, kenyam€Ln€u:r., keselamatan, dan\nkeamanan jenis ikan peliharaannya; dan\nb. menyediakan tempat dan fasilitas yang memenuhi\nstandar pemeliharaan jenis ikan.\n(6) Ketentuan lebih lanjut mengenai pemeliharaan jenis ikan\nuntuk kesenangan sebagaimana dimaksud pada ayat (1)\nsampai dengan ayat (5) diatur dengan peraturan Menteri.\nBAB TV .\nPRESIDEN\nREPUBLIK INDONESIA\nBAB TV\nPENDIDIKAN DAN PEI.ATIFIAN KONSERVASI\nSUMBER DAYA IKAN"
+   }
+  },
+  {
+   "id": "ID-H1605-A45",
+   "no": 45,
+   "noLabel": {
+    "id": "Pasal 45"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 45\n(1) Dalam rangka mengembangkan dan meningkatkan\nkapasitas kelembagaan dan sumber daya manusia di\nbidang pengelolaan konservasi sumber daya ikan,\ndilaksanakan pendidikan dan pelatihan konservasi sumber\ndaya ikan.\n(2) Ketentuan lebih lanjut mengenai pendidikan dan pelatihan\nsebagaimana pada ayat (t) diatur dengan peraturan\nMenteri.\nBAB V\nPEMBINAAN MASYARAKAT"
+   }
+  },
+  {
+   "id": "ID-H1605-A46",
+   "no": 46,
+   "noLabel": {
+    "id": "Pasal 46"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 46\n(I) Untuk meningkatkan kesadaran masyarakat tentang\npentingnya konservasi sumber daya ikan dilakukan\npembinazrn masyarakat.\n(2) PembinaErn masyarakat sebagaimana dimaksud pada ayat\n(I) dilakukan oleh Pemerintah, pemerintah daerah, dunia\nusaha, lembaga swadaya masyarakat, atau kelompok\nmasyarakat.\n(3) Dalam rangka pembinaan masyarakat dapat diberikan\npenghargaan atas upaya pengelolaan konservasi\nekosistem, konservasi jenis ikan, dan konservasi genetik\nikan\n(4) Penghargaan sebagaimana dimaksud pada ayat (3) dapat\ndiberikan oleh Pemerintah atau pemerintah daerah kepada\nperseorzrngzrn atau mereka yang berjasa di bidang\nkonservasi sumber daya ikan\n(5) Ketentuan lebih lanjut mengenai pembinaan masyarakat\nsebagaimana dimaksud pada ayat (t) sampai dengan ayat\n(4) diatur dengan peraturan Menteri.\nBAB VI\nPRESIDEN\nREPUBLIK INDONESIA\nBAI} VI\nPENGAWASAN KONSERVASI\nSUMBER DAYA IKAN"
+   }
+  },
+  {
+   "id": "ID-H1605-A47",
+   "no": 47,
+   "noLabel": {
+    "id": "Pasal 47"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 47\n(1) Dalam rangka konservasi sumber daya ikan dilakukan\npengawasan.\n(2) Pengawasan konservasi sumber daya ikan sebagaimana\ndimaksud pada ayat (1) dapat dilakukan melalui:\na. penjagaan dan patroli kawasan konservasi perairan;\ndan\nb. pengawasan pemanfaatan jenis ikan dan genetik ikan\nyang dilindungi.\n(3) Pengawasan sebagaimana dimaksud pada ayat (1)\ndilaksanakan oleh pengawas perikanan, yang terdiri atas\nPenyidik Pegawai Negeri Sipil Perikanan dan Non Penyidik\nPegawai Negeri Sipil Perikanan.\n(4) Masyarakat dapat diikutsertakan dalam pengawaszrn\nkonservasi sumber daya ikan.\n(5) Ketentuan mengenai pengawasan konservasi sumber daya\nikan diatur dengan Peraturan Pemerintah tersendiri.\nBAB VII\nSANKSI"
+   }
+  },
+  {
+   "id": "ID-H1605-A48",
+   "no": 48,
+   "noLabel": {
+    "id": "Pasal 48"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 48\n(1) Pelanggaran terhadap Pasal 31 ayat (l), Pasal 32 ayat (1),\nPasal 33 ayat (t), Pasa] 35 ayat (5), Pasal 36 ayat (4),\nPasal 38 ayat (1), Pasal 42 ayat (4), dan Pasal 44 ayat (3)\ndan ayat (5) dikenakan sanksi administratif.\n(2) Sanksi\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Sanksi administratif sebagaimana dimaksud pada ayat (l)\ndapat berupa:\na. peringatan tertulis;\nb. pembekuart rz;in:'\nc. pencabutan uin: dan/atau\nd. denda.\n(3) Sanksi administratif sebagaimana dimaksud pada ayat (2)\ndijatuhkan oleh pemberi izin pemanfaatan sesuai dengan\nkewenangannya.\n(4) Denda administratif sebagaimana dimaksud pada ayat (2)\nhuruf d merupakan penerimaan negara bukan paiak yang\ndisetorkan ke Kas Negara."
+   }
+  },
+  {
+   "id": "ID-H1605-A49",
+   "no": 49,
+   "noLabel": {
+    "id": "Pasal 49"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 49\n(1) Sanksi administratif berupa peringatan tertulis\nsebagaimana dimaksud dalam Pasal 48 ayat (2) huruf a\ndikenakan kepada setiap pemegan g uin yang melanggar\nketentuan sebagaimana dimaksud dalam Pasal 3l ayat (1),\nPasal 32 ayat (1), Pasal 33 ayat (1), Pasal 36 ayat (4),\nPasal 38 ayat (1), Pasal 42 ayat (4), Pasal 44 ayat (3), atau\nayat (5).\n(2) Peringatan tertulis sebagaimana dimaksud pada ayat (l)\ndiberikan kepada pemegang izin yang tidak memenuhi\nkewajibannya paling banyak 3 (tiga) kali secara berurutan\ndalam jangka waktu paling lama L4 (empat belas) hari\nkalender untuk setiap kali peringatan.\nPasal 5O\n(t) Sanksi administratif berupa pembekuan izin sebagaimana\ndimaksud dalam Pasal 48 ayat (2) huruf b dikenakan\nkepada setiap pemegang vin sebagaimana dimaksud\ndalam Pasal 49 ayat (l) yang sampai dengan berakhirnya\njangka waktu peringatan tertulis ketiga tidak\nmelaksanakan kewaj ibannya.\n(2) Sanksi...\nPRESTDEN\nREPUBLIK INDONES]A\n(2) Sanksi administratif berupa pembekuan izin sebagaimana\ndimaksud pada ayat (1) dikenakan untuk selama 6 (enam)\nbulan sejak sanksi dijatuhkan.\n(3) Sanksi administrasi berupa pencabutan izin sebagaimana\ndimaksud dalam Pasal 48 ayat (2) huruf c dikenakan\ndalam hal jangka waktu pembekuan uin sebagaimana\ndimaksud pada ayat (21 telah berakhir, pemegang uin\ntidak melaksanakan kewaj ibannya."
+   }
+  },
+  {
+   "id": "ID-H1605-A51",
+   "no": 51,
+   "noLabel": {
+    "id": "Pasal 51"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 51\n(l) Pemegangizlnyang melanggar ketentuan Pasal 35 ayat (5)\ndikenakan sanksi administratif berupa pembekuan izin\ndan sanksi administratif berupa denda sebagaimana\ndimaksud dalam Pasal 48 ayat (2) huruf b dan huruf c\npaling sedikit 10 (sepuluh) kati dan paling banyak 15 (lima\nbelas) kali dad pungutan perikanan yang menjadi\nkewajibannya.\n(2) Pembekuan izin sebagaimana dimaksud pada ayat (l)\ndikenakan untuk selama 6 (enam) bulan sejak sanksi\ndijatuhkan.\n(3) Datam haf jangka waktu pembekuan izin sebagaimana\ndimaksud pada ayat (2) telah berakhir, pemegan$ izin\ntetap tidak melaksanakan kewajibannya, izLn pemanfaatan\njenis ikan dan genetik ikan dicabut.\n(4) Pencabutan izir: sebagaimana dimaksud pada ayat (3)\ntidak menghapus sanksi denda administratif seba$aimana\ndimaksud pada ayat (t)."
+   }
+  },
+  {
+   "id": "ID-H1605-A52",
+   "no": 52,
+   "noLabel": {
+    "id": "Pasal 52"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 52\nPelanggaran terhadap ketentuan sebagaimana dimaksud dalam\nPasal 3I ayat (2), Pasal 32 ayat (2), Pasal 33 ayat (3), Pasal 34\nayat (2), Pasa] 35 ayat (3), Pasal 36 ayat (3), Pasal 37 ayat (3),\nPasal 39 ayat (2), Pasal 41, Pasal 42 ayat (3), Pasal 43 ayat (3),\natau Pasal 44 ayat {4) dikenakan sanksi sesuai ketentuan\nperaturan perundang-undangan.\nBAB VIII\nPRESIDEN\nREPUBLIK INDONESIA\nBAE} VIII\nKETENTUAN T,AIN-I,A.IN"
+   }
+  },
+  {
+   "id": "ID-H1605-A53",
+   "no": 53,
+   "noLabel": {
+    "id": "Pasal 53"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 53\nBerdasarkan Peraturan Pemerintah ini:\na. Departemen/Kementerian yang bertanggung jawab di\nbidang perikanan ditetapkan sebagai. Otoritas Pengelola\n(Management Auttorifu) konservasi sumber daya ikan.\nb. t embaga Ilmu Pengetahuan Indonesia (LIPI) ditetapkan\nseb agai Oto ritas Keilmu an (Sctentlftc Authoritg) .\nBAB Ix\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H1605-A54",
+   "no": 54,
+   "noLabel": {
+    "id": "Pasal 54"
+   },
+   "chapter": {
+    "id": "BAB Ix"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 54\nPada saat Peraturan Pemerintah ini mulai berlaku semua\nperaturan pelaksanaan di bidang konserwasi sumber daya ikan\nmasih tetap berlaku sepanjang tidak bertentangan atau belum\ndiganti berdasarkan Peratura.n Pemerintah ini."
+   }
+  },
+  {
+   "id": "ID-H1605-A55",
+   "no": 55,
+   "noLabel": {
+    "id": "Pasal 55"
+   },
+   "chapter": {
+    "id": "BAB Ix"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 55\nPeraturan Pemerintah ini mulai berlaku pada tanggal\ndiundangkan.\nAgar\nPRESIDEN\nREPUBLIK INDONESIA\n-29'\nAgar setiap orang mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan\npenempatannya dalam Lembaran Negara Republik Indonesia.\nDitetapkan di Jakarta\npada tanggal 16 November 2OO7\nPRESIDEN REPUBLIK INDONESIA,\nDR. H. SUSILO BAMBANG YUDHOYONO\nDiundangkan di Jakarta\npada tanggal 16 November 2OOT\nMENTERI HUKUM DAN HAK ASASI MANUSIA\nREPUBLIK INDONESIA,\nttd\nANDI MATTALATTA\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2OO7 NOMOR 134\nttd\n$alln611 s€suai demgan aslinya\nDEPUTI MENTERI SEKRETARIS NEGARA\nBI DANG PERUN DANG- UNDANGAN,\nMUHAMIvTAD SAPTA MURTI\n\nI\nPRESIDEN\nREPUBLIK INDONESIA\nPENJEI.,ASAN\nATAS\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nNOMOR 60 TAHUN 2OO7\nTEI.ITANG\nKONSERVASI SUMBER DAYA IKAN\nUMUM\nBangsa Indonesia dikaruniai oleh Tuhan Yang Maha Esa sumber daya\nkelautan yang berupa keanekaragaman sumber daya ikan yang sangat\ntinggi. Porcnsi keanekaragaman sumber daya ikan di laut perlu dikelola dan\ndimanfaatkan untuk sebesar-besar kemakmuran rakyat di masa kini\nmaupun masa mendatan g dengan menerapkan prinsip-prin sip konservasi.\nUndang-Undang Nomor 31 Tahun 2OO4 tentang Perikanan antara lain\nmengatur tentang konservasi sumber daya ikan yang dilakukan melalui\nkonservasi ekosistem, konservasi jenis dan konservasi genetik. Upaya\nkonservasi sumber daya ikan pada dasarnya tidak dapat dipisahkan\ndengan pengelolaan sumber daya ikan dan lingkungannya secara\nkeseluruhan.\nMengingat karakteristik sumber daya ikan dan lingkungannya mempunyai\nsensitivitas yang tinggi terhadap pengaruh iklim global maupun iklim\nmusiman serta aspek-aspek keterkaitan (mnnectiliful ekosistem\nantarwilayah perairan baik lokal, regional maupun global, yang\nkemungkinan melewati batas-batas kedaulatan suatu rLegara, maka dalam\nupaya pengembangan dan pengelolaan konservasi sumber daya ikan harus\nberdasarkan prin sip kehati-hatian dengan dukungan bukti-bukti ilmiah.\nPeraturan Pemerintah tentang Konservasi Sumber Daya Ikan mengatur\nlebih rinci tentang upaya pengelolaan konservasi ekosistem atau habitat\nikan termasuk didalamnya pengembangan Kawasan Konservasi Perairan\nsebagai bagian dari konservasi ekosistem. Selain itu Peraturan Pemerintah\nini juga memuat aturan-aturan untuk menjamin pemanfaatan\nberkelanjutan dari jenis-jenis ikan serta terpeliharanya keanekaragaman\ngenetik ikan.\nMengingat hal-hal tersebut di atas, sebagai pelaksanaan Undang-Undang\nNomor 31 Tahun 2OO4 tentang Perikanan dan sebagai landasan hukum\nbagi pelaksanaan kegiatan konservasi sumber daya ikan perlu mengatur\nketentuan mengenai konservasi sumber daya ikan dengan peraturan\npemerintah,\nII. PASAL DEMI PASAL .\nI\n\nPRESIDEN\nREPUBLIK INDONESIA\nil. PASAL DEMI PASAL\nPasal I\nCukup jelas.\nPasal 2\nAyat (1)\nHuruf a\nAsas manfaat dimaksudkan agar pelaksanaan konservasi\nsumber daya ikan dapat memberikan manfaat bagi\nkemanusiaan, peningkatan kesejahteraan rallyat, dan\npengembangan peri kehidupan yang berkesinambungan bagi\nwarga negara, serta peningkatan kelestarian sumber daya ikan.\nHuruf b\nAsas keadilan dimaksudkan agar pelaksanaan konservasi\nsumber daya ikan memperhatikan aspek kebenaran,\nkeseimbangan, ketidakberpihakan, serta tidak sewenang-\nwenang.\nHuruf c\nAsas kemitraan dimaksudkan agar pelaksanaan konservasi\nsumber daya ikan dilakukan berdasarkan kesepakatan ke{a\nsama antarpemangku kepentingan yang berkaitan dengan\nkonservasi sumber daya ikan.\nHuruf d\nAsas pemerataan dimaksudkan agar pelaksanaan konservasi\nsumber daya ikan dapat memberikan manfaat ekonomi yang\ndapat dinikmati oleh sebagian besar masyarakat secara\nmerata.\nHuruf e\nAsas keterpaduan dimaksudkan agar pelaksanaan konservasi\nsumber daya ikan dilakukan secara terpadu, bulat, dan utuh,\nserta saling menunjang dengan memperhatikan kepentingan\nnasional, sektor lain, dan masyarakat setempat.\nHuruf f\nAsas keterbukaan dimaksudkan agar pelaksanaan konservasi\nsumber daya ikan dilakukan seca-ra transparan dan\nmemberikan akses kepada masyarakat untuk memperoleh\ninformasi yang benar, jujur, dan tidak diskriminatif.\nHuruf g\nAsas efisiensi dimaksudkan agar pelaksanaan konservasi\nsumber daya ikan memperhatikan faktor efisiensi, baik dari\nsegi waktu, proses, maupun pembiayaannya.\nHuruf h. . .\nPRESIDEN\nREPUBLIK INDONESIA\nHuruf h\nAsas kelestarian yang berkelanjutan dimaksudkan agar\npelaksanaan konserwasi sumber daya ikan memperhatikan\ndaya dukung dan kelestaian sumber daya ikan dan\nlingkungzrnnya.\nAyat (2)\nCukup jelas.\nPasal 3\nCukup jelas\nPasal 4\nCukup jelas\nPasal 5\nAyat (I)\nCukup jelas.\nAyat (2)\nHuruf a\nLaut merupakan ruang perairan di muka bumi yang\nmenghubungkan daratan dengan daratan dan bentuk-bentuk\nalamiah tainnya yang merupakan kesatuan geografis beserta\nsegenap unsur terkait padanya yang batas dan sistemnya\nditentukan berdasarkan hukum nasional dan hukum\ninternasional.\nHuruf b\nPadang lamun merupakan koloni tumbuhan berbunga yang\ntumbuh di perairan laut dangkal berpasir dan masih dapat\nditembus oleh sinar matahari sampai ke dasar laut, sehingga\nmemungkinkan tumbuhan tersebut berfotosintesa.\nHurrf c\nTerumbu karang terdiri atas polip-polip karang dan organisme-\norganisme kecil lain yang hidup dalam koloni, yang merupakan\nsuatu ekosistem yang hidup di dasar perairan dan berupa\nbentukan batuan kapur (CaCOd.\nHuruf d\nMangrove merupakan komunitas vegetasi pantai tropis yang\nkhas tumbuh dan berkembang pada daerah pasang surut\npantai berlumpur, berpasir, atau muara sungai, seperti pohon\napi-api (Autcennia spp), bakau (Rhizophora spp), pedada\n(Sonneratta), tanjang (Brtquiera), nyirih (Xglocarpus), tengar\n(Ceriops), dan buta-buta (Exoecarta).\nHuruf e. . .\nPRESIDEN\nREPUBLIK INDONESIA\n4-\nHuruf e\nEstuari mempakan suatu perairan semi tertutup yang berada\ndi bagian hilir sungai dan masih berhubungan dengan laut,\nsehingga memungkinkan terjadinya percampuran antara air\ntawar dan air laut.\nHuruf f\nPantai merupakan ekosistem yang terletak antara garis air\nsurut terendah dengan air pasang tertinggi. Ekosistem ini\nberkisar dari daerah yang subtratnya berbatu dan berkerikil\n(yang mendukung flora dan fauna dalam jumlah terbatas)\nhingga daerah berpasir aktif (dimana populasi bakteri,\nprotozoa. dan metazoa ditemukan) serta daerah yang\nbersubtrat liat dan lumpur (dimana ditemukan sejumlah besar\nkomunitas binatang yang jarang muncul ke permukaan).\nHuruf g\nRawa merupakan Semua mac€un tanah berlumpur yang terbuat\nSecara alami, atau buatan manusia dengan mencampurkan air\ntawar dan air laut secara pennzrnen atau sementara, termasuk\ndaerah laut yang kedalaman airnya kurang dari 6 meter pada\nsaat air surut yakni rawa dan tanah pasang surut.\nHuruf h\nSungai, termasuk anak sungai dan sungai buatan merupakan\nalur atau tempat atau wadah air berupa jaringan pengaliran\nair, sedimen, dan ekosistem yang terkait mulai dari hulu\nsampai muara, serta kanan dan kiri sepanjang pengalireulnya\ndibatasi oleh garis semPadan.\nHuruf i\nDanau merupakan wadah air dan ekosistem yang ada yang\nterbentuk secara alamiah dapat berupa bagian dari sun$ai\nyang lebar dan kedalamnya jauh melebihi ruas-rllas lain dari\nsungai yang bersangkutan, termasuk situ, embung dan wadah\nair sejenis dengan istilah sebutan lokal (telaga, ranu).\nHuruf j\nWaduk merupakan wadah air buatan, yzrng terbentuk sebagai\nakibat dibangunnya bendungan dan berbentuk pelebaran\nalur/badan/palung sungai, atau daratan yang diperdalam.\nHuruf k\nEmbung merupakan wadah air yang terbentuk secara alamiah\natau buatan.\nHuruf I\nEkosistem perairan buatan meliputi sawah, tambak, dan\nkolam.\nPasal 6\nCukup jelas\nPasal 7\n\nPRESIDEN\nREPUBLIK INDONESIA\n5-\nPasal 7\nAyat (I)\nYang dimaksud dengan pembukaan dan penutupan perairan\ntertentu adalah pemberian izin dan pelarangan melakukan kegiatan\npenangkapan sumber daya ikan tertentu, yang bersifat sementara,\ndatam jangka waktu dan/atau muslm tertentu, yang ditetapkan\nberdasarkan pada data dan informasi ilmiah, dalam rangka memberi\nkesempatan bagi pemulihan sumber daya ikan dan lingkungannya.\nAyat (2)\nHun f a\nCukup jelas.\nHuruf b\nCukup jelas.\nHuruf c\nTingkat pemanfaatan yang berlebih (ouerJishing) merupakan\nstatus sumber daya ikan di suatu perairan, di mana usaha\npemanfaatannya melebihi potensi lestari atau pemanfaatan ikan\nyang melebihi kapasitas stok (cadangan) perikanan setempat.\nAyat (3)\nCukup Jelas.\nPasal 8\nCukup jelas.\nPasal 9\nAyat (I)\nHuruf a\nKealamiahan merupakan suatu kondisi perairan yang\nkeanekaragaman hayati dan keasliannya masih te{aga secara\nbaik.\nKeterkaitan ekologis merupakan keterkaitan ekologi yang\nberlangsung pada satuan geografi tertentu, termasuk\nkomunitas biologis dan lingkungan fisik, dalam suatu sistem\nekologi.\nKeterwakilan merupakan bagian yang mewakili kondisi\nekosistem tertentu.\nKeunikan mempakan ciri khusus yang dimiliki oleh suatu\nperairan dan/atau biotanya.\nDaerah ruaya merupakan bagian dari suatu perairan yang\ndipergunakan untuk lintasan ikan berpindah dari satu tempat\nke tempat lainnya secara periodik.\nDaerah\nPRESIDEN\nREPUBLIK INDONESIA\nDaerah pemijahan merupakan bagian dari perairan yang\ndipergunakan untuk proses reproduksi ikan secara alamiah.\nDaerah pengasuhan merupakan bagian dari perairan yang\ndipergunakan untuk mencari makan dan/atau berlindung bagi\nikan pada stadia lanrya, stadia muda'\nHuruf b\nPotensi konflik kepentingan meliputi potensi konflik\nantarsektor, antarmasyarakat, antara masyarakat dengan\npemerintah, antara pemerintah dan pemerintah daerah.\nPotensi anczunan meliputi potensi ancaman terhadap habitat\nperairan dan biotanya.\nKearifan tokal merupaka.n norrna dan kebiasaan yang berlaku\npada masyarakat tertentu yang berkaitan dengan nilai-nilai\npelestarian lingkungan hiduP.\nHuruf c\nNilai penting perikanan merupak€m kondisi perairan dan\nbiotanya yang dapat mendukung perikanan berkelanjutan'\nEstetika merupakern nilai keindahan alamiah dari suatu\nperairan dan/atau biota yang memiliki daya tarik tertentu.\nAyat (2)\nCukup jelas.\nPasal lO\nWarisan alam dunia ditetapkan oleh Perserikatan Bangsa Bangsa atas\nusul dan inisiatif dari Pemerintah. Dengan ditetapkannya satu\nkawasan konservasi perairan sebagai warisan alam dunia, diharapkan\ndapat merupakan upaya promosi dalam rangka mengundang\nperhatian masyarakat dunia bagi pengembangan kawasan konserwasi.\nPasal I I\nAyat (l)\nHuruf a\nCukup jelas.\nHuruf b\nCukup jelas.\nHuruf c\nYang dimaksud dengan pencadangan kawasan konservasi\nperairan adalah upaya yang dilakukan untuk menyediakan\nsebagian perairan untuk ditetapkan sebagai calon kawasan\nkonserwasi perairan.\nHuruf d\nCukup jelas.\nAyat (2)\nCukup jelas.\nAyat(3) ...\nPRESIDEN\nREPUBLIK INDONESIA\n7-\nAyat (3)\nCukup jelas.\nPasal 12\nCukup jelas.\nPasal 13\nCukup jelas\nPasal 14\nAyat (I)\nYang dimaksud dengan potensial memiliki kepentingan dan nilai\nkonserwasi adalah perairan yang selain mempunyai konsentrasi\nnilai-nitai keanekaragamem hayati yang penting secara global,\nregional dan lokal (ekosistem dan jenis yang endemik, langka,\nterancam dan hampir punah), juga sangat penting untuk memenuhi\nkebutuhan dasar masyarakat lokal, yang kesemuanya harus dtjaga\nkeberlanjutannya\nAyat (2)\nCukup jelas.\nAyat (3)\nCukup jelas.\nAyat (a)\nCukup jelas.\nAyat (5)\nCukup jelas.\nAyat (6)\nCukup jelas.\nPasal 15\nAyat (1)\nCukup jelas.\nAyat (2)\nSatuan unit organisasi pengelola dapat berbentuk unit pelaksana\nteknis pusat, unit pelaksana teknis daerah atau bagian unit dari\nsatuan organisasi yang menangani bidang perikanan sesuai\nperaturan perundang-undangan yang berlaku.\nPasal 16\nAyat (1)\nHun f a\nCukup jelas.\nHuruf b\nCukup jelas.\nHuruf c\nPRESIDEN\nREPUBLIK INDONESIA\nHuruf c\nPerairan yang mbmitiki karakteristik tertentu merupakan\nperairan:\na. memiliki nitai dan kepentingan konservasi nasional\ndan / atau internasional ;\nb. secara ekologi bersifat lintas negara;\nc. mencakup habitat dan daerah ruaya ikan; dan\nd. memiliki potensi sebagai warisan alam dunia.\nAyat (2)\nCukup jelas.\nAyat (3)\nCukup jelas.\nPasal 17\nAyat (1)\nCukup jelas.\nAyat (2)\nCukup Jelas.\nAyat (3)\nhnasi kawasan konservasi perairan merupakan suatu bentuk\nrekayasa teknik pemanfaatan ruang melalui penetapan batas-batas\nfungsional sesuai dengan potensi sumber daya dan daya dukung\nserta proses-proses ekologis yang berlangsung sebagai satu\nkesatuan ekosistem.\nAyat (a)\nHuruf a\nZona inti diperuntukkan bagi:\na. perlindungan mutlak habitat dan populasi ikan;\nb. penelitian; dan\nc. pendidikan.\nHuruf b\nZona perikanan berkelanjutan diperuntukkan bagi :\na. perlindungan habitat dan populasi ikan;\nb. penangkapan ikan dengan alat dan cara yang ramah\nlingkungan;\nc. budi daya ramah lingkungan;\nd. pariwisata dan rekreasi;\ne. penelitian dan pengembangan; dan\nf. pendidikan.\nHuruf c\nTnna Pemanfaatan diperuntukkan bagi:\na. perlindunga.n habitat dan populasi ikan;\nb. pariwisata dan rekreasi;\nc. penelitian dan pengembangan; dan\nd. pendidikan.\nHuruf d . .\nPRESIDEN\nREPUBL]K INDONESIA\nHuruf d\n7-ona lainnya merupakan zona di luar zona inti, zorra\nperikanan berkelanjutan, dan zona pemanfaatan yang karena\nfungsi dan kondisinya ditetapkan sebagai zona tertentu antara\nlain: zona perlindungan, zona rehabilitasi dan sebagainya.\nAyat (5)\nCukup jelas.\nPasal 18\nAyat (r)\nKemitraan merupakan hubungan keria sama antara dua pihak\natau lebih, berdasarkan kesetaraan, keterbukaan dan saling\nmenguntungkan.\nAyat (2)\nCukup jelas.\nPasal 19\nAyat (r)\nCukup jelas.\nAyat (2)\nOceanografi merupakan ilmu mengenai laut dengan segala\nfenomenanya.\nLimnologi merupakan ilmu tentang perairan tawar/darat, yang\ndalam hal ini berguna bagi habitat ikan.\nBioekologi perikanzrn merupakan ilmu yang mempelajari lingkungan\nkehidupan ikan.\nDaya tahan lingkungan merupakan kemampuan daya tahan biota\nperairan terhadap pengaruh pembahan lingkungan.\nAyat (3)\nCukup jelas.\nAyat (4)\nYang dimaksud dengan jejaring kawasan konservasi perairan pada\ntingkat regional adalah kawasan konservasi perairan yang terdapat\ndalam suatu hamparan ekoregion yang mencakup dua atau lebih\nnegara bertetangga serta memiliki keterkaitan ekosistem.\nYang dimaksud dengan jejaring kawasan konsenrasi perairan pada\ntingkat global adalah kawasan konservasi perairan yang terdapat\ndalam suatu hamparan beberapa ekoregion yang berbeda tetapi\nmempunyai keterkaitan ekosistem secetra global dan mencakup\nbeberapa negzrra.\nAyat (5)\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (5)\nCukup jelas.\nPasal 2O\nCukup jelas\nPasal 21\nCukup jelas.\nPasal 22\nCukup jelas.\nPasal 23\nAyat (l)\nHuruf a\nYang dimaksud jenis ikan yang dilindungi adalah jenis ikan\nyang dilindungi berdasarkan peraturan perundang-undangan.\nTermasuk dalam pengertian jenis ikan yang dilindungi adalah\njenis ikan yang dilindungi terbatas berdasarkan ukuran\ntertentu, wilayah sebaran tertentu atau periode waktu\ntertentu.\nTermasuk dalam pengertian jenis ikan yang dilindungi adalah\njenis ikan yang dilindungi berdasarkan peraturan perundang-\nundangan dan juga dilindungi berdasarkan ketentuan hukum\ninternasional yang diratifikasi (seperti Appendiks I,II dan III\nCITES)\nTermasuk dalam pengertian jenis ikan yang dilindungi adalah\ntelur, bagian tubuh, dan/atau produk turunannya (dertuat).\nHuruf b\nYang dimaksud dengan jenis ikan yang tidak dilindungi adalah\njenis ikan yang tidak dilindungi berdasarkan peraturan\nperundang-undangan tetapi dilindungi berdasarkan ketentuan\nhukum internasional yang diratifikasi (seperti Appendiks I,II\ndan III CITES).\nTermasuk jenis ikan yang tidak dilindungi adalah jenis ikan\nyang tidak dilindungi berdasarkan peraturan perundang-\nundangan maupun ketentuan hukum internasional tetapi\ndalam perdagangan internasional diperlukan persyaratan dan\nproses administrasi sesuai dengan konvensi internasional\n(crrEs).\nAyat (2)\nHurrf a\nTerancam punah, menunjukkan kondisi populasi jenis ikan\ntertentu yang mengalami anc€una.n kepunahan yang\ndiakibatkan oleh faktor alami dan/atau aktivitas manusia.\nHuruf b\nPRESIDEN\nREPUBLIK INDONESIA\nHuruf b\nLangka, merupakan suatu kondisi jenis ikan tertentu yang\nkelimpahan stoknya terbatas.\nHuruf c\nEndemisitas, merupakan suatu keadaan dari jenis ikan\ntertentu yang memiliki sebaran terbatas.\nHuruf d\nPenurunan jumlah populasi ikan di alam secara drastis,\nmerupakan suatu keadaan dari jenis ikan tertentu yang\nberada pada habitat tertentu mengalami penurunan jumlah\npopulasi dalam kurr.n waktu relatif singkat.\nHuruf e\nTingkat kemampuan reproduksi, merupakan kemampuan\nuntuk berkembang biak dalam menghasilkan keturunan'\nPasal24\nCukup jelas.\nPasal 25\nAyat (1)\nMedia yang terkontrol merupakan tempat hidup ikan yang kondisi\nlingkungannya diatur dan dikendalikan oleh manusia.\nAyat (2)\nCukup jelas.\nAyat (3)\nCukup jelas.\nAyat (a)\nCukup jelas.\nAyat (5)\nCukup jelas.\nPasal 26\nAyat (t)\nHurrf a\nCukup jelas.\nHuruf b\nCukup jelas.\nHuruf c\nCukup jelas.\nHuruf d\nTfansplantasi merupakan cara pembiakan jenis karang\nmelalui pemotongan karang hidup untuk\nditanam/ditempelkan pada substrat buatan atau batu karang\nalami.\nAyat (2) .\nPRESIDEN\nREPUBLIK INDONESIA\n-t2-\nAyat (2)\nKemurnian genetik ikan merupakan suatu keadaan individu ikan\ntertentu yang mempunyai sifat asli jenis ikan tersebut.\nAyat (3)\nCukup jelas.\nAyat (a)\nCukup jelas.\nAyat (5)\nDalam ketentuan standar kualifikasi pengembangbiakan jenis ikan\nyang dilindungi dan jenis ikan yang tidak dilindungi, diatur\nmengenai dasar pertimbangannya yang antara lain meliputi:\na. batas jumlah populasi jenis ikan hasil pengembangbiakan;\nb. tenaga ahli pengembangbiakan jenis ikan;\nc. tingkat ketangkaan jenis ikan yang dikembangbiakan; dan\nd. szrrana dan prasarana pengembangbiakan jenis ikan.\nPasal 27\nAyat (l)\nPenandaan mempakan upaya memberi tanda pada bagian tubuh\ntertentu dari setiap individu ikan, antara lain, berupa pemberian\nwarna tertentu, lempeng plastik/metal dengan identitas nomor\ntertentu, pemotongan bagian tubuh tertentu, atau pemasangan\nmicrochip.\nAyat (2)\nCukup jelas.\nPasal 28\nCukup jelas.\nPasal 29\nAyat (r)\nHuruf a\nCukup jelas.\nHuruf b\nCukup jelas.\nHuruf c\nCukup jelas.\nHuruf d\nPelestarian gamet mempakan suatu upaya pelestarian sumber\ndaya genetik dengan cara menyimpzrn sel pembiakan berupa\nsel jantan (sperma) atau sel betina (ouuni yang dapat\ndilakukan dalam kondisi beku (bank sperma).\nAyat (2)\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (2)\nCukup jelas.\nAyat (3)\nCukup jelas.\nAyat (a)\nCukup jelas.\nPasal 30\nCukup jelas\nPasal 3l\nCukup jelas\nPasal 32\nCukup jelas\nPasal 33\nCukup jelas\nPasal 34\nCukup jelas\nPasal 35\nCukup jelas\nPasal 36\nCukup jelas.\nPasal 37\nCukup jelas.\nPasal 38\nAyat (r)\nHurrf a\nCukup jelas.\nHuruf b\nCukup jelas.\nHuruf c\nKetentuan hukum internasional merupakan perjanjian\ninternasional di bidang konservasi di mana Indonesia telah\nmeratifikasi, antara lain Konvensi mengenai Perdagangan\nInternasional Untuk Jenis Tumbuhan dan Satwa yang\nTerancam Punah (Conuentton on Internattonal Trade tn\nEndangered Spectes oJ WtLd Fauna and FLora /CITES).\nAyat (2)\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (2)\nCukup jelas.\nPasal 39\nCukup jelas\nPasal 40\nAyat (t)\nCukup jelas.\nAyat (2)\nHuruf a\nYang dimaksud dengan surat pengiriman dari dan ke luar negeri\nmeliputi export permtt, tmport permtt, dan re-export permtt sesuai\ndengan format dan ketentuan yang ditetapkan oleh Sekretariat\nConuentton on International Tfo.de tn Endangered Species oJ WtLd\nFo:una and FLora (CITES) .\nHuruf b\nDokumen pengiriman dan pengangkutan dilengkapi dengan\ndokumen antara lain:\na. surat izin angkut dalam negeri;\nb. berita acara hasit pengembangbiakan dan/atau pengambilan\ndari alam; dan\nc. keterangan kesehatan ikan dari pejabat yang berwenang.\nHuruf c\nCukup jelas.\nHuruf d\nCukup jelas.\nHuruf e\nCukup jelas.\nAyat (3)\nCukup jelas.\nPasal 4l\nCukup jelas.\nPasal 42\nCukup jelas.\nPasal 43\nAyat (1)\nCukup jelas.\nAyat (2)\nCukup jelas.\nAyat (3)\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (3)\nCukup jelas.\nAyat (4)\nYang dimaksud dengan kesetaraan adalah kesetaraan dalam nilai\nkonservasi jenis ikan yang dipertukarkan.\nAyat (5)\nCukup jelas.\nPasal 44\nCukup jelas.\nPasal 45\nCukup jelas\nPasal 46\nAyat (1)\nPembinaan masyarakat mempakan kegiatan yang dirancang untuk\nmeningkatkan pengetahuan dan kesadaran masyarakat akan\npentingnya pengelolaan sumber daya hayati perairan dan\nlingkung€u1nya secara berkelanjutan serta merubah perilaku\nmasyarakat dari perilaku yang merusak menjadi perilaku yang\ndapat menjaga, mengelola dan melindungi sumber daya ikan dan\nlingkungannya.\nAyat (2)\nCukup jelas.\nAyat (3)\nCukup jelas.\nAyat (a)\nYang dimaksud dengan mereka yang berjasa di bidang konservasi\nsumber daya ikan antara lain kelompok masyarakat, lembaga\nswadaya masyarakat dan korporasi\nAyat (5)\nCukup jelas.\nPasal 47\nCukup jelas.\nPasal 48\nCukup jelas\nPasal 49\nCukup jelas\nPasal 50. . .\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 5O\nCukup jelas\nPasal 51\nCukup jelas.\nPasal 52\nCukup jelas\nPasal 53\nHuruf a\nOtoritas Pengelola (Marwgem.ent Authorityl bertanggung jawab\nantara lain dalam aspek administratif, pelaksanaan legislasi,\npenegal€n hukum, perizinan, dan komunikasi yang terkait dengan\nkonservasi sumber daya ikan, termasuk pelaksanaan Coruention on\nhternational Trade in Endarryered Speci.a of Wild Fquna qnd Flora\n(crTES).\nHuruf b\nOtoritas Keilmual {*ientiIlo Authoity) bertanggung jawab antara\nlain untuk memberikan rekomendasi kepada Otoritas Pengelola\n(Management AuthoritAl mengenai konservasi sumber daya ikan\nberdasarkan prinsip-prinsip keilmuan, termasuk dalam rangka\npelaksanaan Conuention ort Internationnl Trade in Endartgered\nSpecies of Wild Fauna and Flora (CITES).\nPasal 54\nCukup jelas.\nPasal 55\nCukup jelas\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 4779"
+   }
+  }
+ ]
+}

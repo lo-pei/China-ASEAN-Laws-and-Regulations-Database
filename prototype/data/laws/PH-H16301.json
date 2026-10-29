@@ -1,0 +1,62 @@
+{
+ "id": "PH-H16301",
+ "title": {
+  "zh": null,
+  "en": "An Act to Suspend the Effect of Sections three and Four of Commonwealth Act Number Ed Five Hundred and Sixty-Seven, for the Year Beginning July First, Nineteen Hundred and thirty-Nine, and Ending June thirty, Nineteen Hundred and Forty, Insofar as they Affect Owners or Persons in Control of Sugar Lands.",
+  "orig": "An Act to Suspend the Effect of Sections three and Four of Commonwealth Act Number Ed Five Hundred and Sixty-Seven, for the Year Beginning July First, Nineteen Hundred and thirty-Nine, and Ending June thirty, Nineteen Hundred and Forty, Insofar as they Affect Owners or Persons in Control of Sugar Lands."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1940-08-19",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 593",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 441,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00593_1940_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00593_1940_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H16301-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The operation and effect of sections three and four of Commonwealth Act Numbered Five\nhundred and sixty-seven are suspended for the year beginning July first, nineteen hundred an d thirty-nine,\nand ending June thirty, nineteen hundred and forty, insofar as they affect owners or persons in control of sugar\nlands ceded to others under contracts of lease or otherwise."
+   }
+  },
+  {
+   "id": "PH-H16301-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "- This Act shall take effect upon its approval.\nApproved, August 19, 1940."
+   }
+  }
+ ]
+}

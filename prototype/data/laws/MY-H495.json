@@ -1,0 +1,1070 @@
+{
+ "id": "MY-H495",
+ "title": {
+  "zh": "2003年支付系统法",
+  "en": "PAYMENT SYSTEMS ACT 2003",
+  "orig": "PAYMENT SYSTEMS ACT 2003",
+  "vi": "Luật về Các hệ thống thanh toán năm 2003",
+  "th": "พระราชบัญญัติระบบการชำระเงิน ค.ศ. 2003",
+  "id": "Undang-Undang Sistem Pembayaran Tahun 2003",
+  "ms": "Akta Sistem Pembayaran 2003"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-10",
+ "language": "en",
+ "level": "law",
+ "category": "02_民商事与经济法",
+ "status": "active",
+ "promulgatedDate": "2003",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "ACT627",
+ "topics": [],
+ "summary": null,
+ "coverage": "partial",
+ "structureMode": "ARTICLE",
+ "articleCount": 74,
+ "chars": 94097,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-detail.php?act=627&lang=BI"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\02_民商事与经济法\\2003_627_PAYMENT SYSTEMS ACT 2003.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 77 条；逐字未改写（源自厂商 OCR 文本）。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H495-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "1. (1) This Act may be cited as the Payment Systems Act 2003.\n\n(2) This Act comes into operation on a date to be appointed by\nthe Minister by notification in the Gazette.\n\nInterpretation"
+   }
+  },
+  {
+   "id": "MY-H495-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "2. (1) In this Act, unless the context otherwise requires—\n\"payment instruction\" or \"settlement instruction\" includes an\n\ninstruction to transfer, clear or settle transactions in funds or securities,\nas the case may be;\n\n10                           Laws of Malaysia                   - Act 627\n\n\"Bank\" means the Central Bank of Malaysia established by the\nCentral Bank of Malaysia Act 1958;\n\n\"fund\" or \"money\" includes any unit of account or unit of value\nthat facilitates the purchase of goods or services;\n\n\"data\" means representations of information or of concepts that\nare being prepared or have been prepared in a form suitable for\nuse in a computer;\n\n\"specify\" means to specify in writing, and a power to specify\nincludes the power to specify differently for different persons,\npayment systems or payment instruments, or for different classes,\ncategories or descriptions of persons, payment systems or payment\ninstruments;\n\n\"prescribe\" means prescribed by order published in the Gazette,\nand a power to prescribe includes the power to make different\nprovisions for different persons, payment systems or payment\ninstruments, or for different classes, categories or descriptions of\npersons, payment systems or payment instruments;\n\n\"Governor\" means the Governor of the Bank and includes a\nDeputy Governor of the Bank;\n\n\"payment instrument\" means any instrument, whether tangible\nor intangible, that enables a person to obtain money, goods or\nservices or to otherwise make payment;\n\n\"designated payment instrument\" means a payment instrument\nprescribed as a designated payment instrument under subsection\n24(1);\n\n\"chief executive officer\", in relation to an operator, means a\nperson by whatever name called, who, either individually or jointly\nwith one or more other persons, is responsible, subject to the\nauthority of the directors, for the conduct of the business and the\nadministration of the operator;\n\n\"computer\" means any device for recording, storing, processing,\nretrieving or producing any information or other matter, or for\nperforming any one or more of those functions, by whatever name\nor description such device is called; and where two or more computers\ncarry out any one or more of those functions in combination or\nin succession or otherwise conjointly, they shall be treated as a\nsingle computer;\n\n©\n\n©\n\nPayments Systems                               11\n\n\"Minister\" means the Minister charged with the responsibility\nfor finance;\n\n\"computer output\" means a statement or a representation, whether\nin written, printed, pictorial, film, graphical, acoustic or other\nform—\n\n(a) produced by a computer;\n(b) displayed on the screen of a computer; or\n\n(c) accurately translated from a statement or representation\nso produced;\n\n\"officer\", in relation to any sole proprietorship, company, body,\nassociation or group of persons, whether corporate or unincorporate,\nincludes any employee and a chief executive officer;\n\n\"issuer\" means any person, acting alone or under an arrangement\nwith another person, who undertakes to be responsible for the\npayment obligation in respect of a payment instrument resulting\nfrom the user being issued with or using the payment instrument;\n\n\"director\" means any person who occupies the position of a\ndirector by whatever name called, and includes an alternate or\nsubstitute director, and without prejudice to the foregoing, in the\ncase of—\n\n(a) a co-operative society, means a member of the Board of\nDirectors, or other governing body of the co-operative\nsociety;\n\n(6) astatutory body, means a member of the board, committee,\ncouncil or other governing body of the statutory body;\n\n(c) a partnership, means a partner;\n(d) a sole proprietorship, means the sole proprietor; and\n\n(e) any company, body, association or group of persons,\nwhether corporate or unincorporate, including those listed\nin (a) to (d) above, means a person in accordance with\nwhose directions and instructions the directors or officers\nare accustomed to act or a person having the direction\nand control, whether directly or indirectly, of the\nmanagement of its business or affairs;\n\n\"operator\" means any person, acting alone or under an arrangement\nwith another person, responsible for the rules, procedures and\noperations of a payment system but excludes such persons as may\nbe prescribed by the Bank;\n\n\"participant\" means any person who is permitted by the rules\ngoverning the payment system to send payment or settlement\ninstructions to a payment system and is bound by the rules governing\nthat payment system;\n\n\"systemic risk\" means—\n\n- (a) the risk that the failure of a participant or operator to\nmeet his payment or settlement obligations will cause\nanother participant to be unable' to meet his payment or\nsettlement obligations when due; or\n\n(b) the risk that the failure of a participant or operator to\nmeet his payment or settlement obligations may cause.\nsignificant liquidity or credit problems that might threaten\nthe stability of financial markets;\n\n\"relative\" has the same meaning as in the Banking and Financial\nInstitutions Act 1989 [Act 372];\n\n\"securities\" has the same meaning as in the Securities Commission\nAct 1993 [Act 498];\n\n\"business associate\" has the same meaning as in the Banking\nand Financial Institutions Act 1989;\n\n\"designated payment system\" means a payment system prescribed\nas a designated payment system under subsection 6(1);\n\n\"payment system\" means any system or arrangement for the\ntransfer, clearing or settlement of funds or securities, but excludes—\n\n(a) a payment system operated by the Bank under the Central\nBank of Malaysia Act 1958;\n\n(b) aclearing house recognized under the Securities Industry\nAct 1983 [Act 280];\n\n(c) a clearing house licensed under the Futures Industry Act\n1993 [Act 499];\n\nPayments Systems                                  13\n\n(d) an in-house payment system operated by a person solely\nfor his own administrative purposes that does not transfer,\nclear or settle funds or securities for third parties;\n\n(e) a system that solely facilitates the initiation of payment\ninstructions; and\n\n(f) such other systems or arrangements as may be prescribed\nby the Bank.\n\nApplication"
+   }
+  },
+  {
+   "id": "MY-H495-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "3. (1) Where an operator issues a designated payment\ninstrument, such operator shall also comply with the requirements\nof Part III.                                        |\n\n(2) Where an issuer operates a payment system, such issuer\nshall also comply with the requirements of Part II.\n\n(3) This Act shall apply to a person outside Malaysia who is\nan operator of a payment system if such payment system accepts\npayment or settlement instructions from participants in Malaysia\nunless otherwise prescribed by the Bank.\n\nFunctions of the Bank"
+   }
+  },
+  {
+   "id": "MY-H495-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "4. (1) The Bank shall have all the functions and powers conferred\non it by this Act and such functions and powers shall be in addition\nto those conferred under the Central Bank of Malaysia Act 1958\nand the Governor shall perform the functions of the Bank on its\nbehalf.\n\n(2) The Bank may authorize any of its officers to perform any\nof its functions under this Act.\n\n(3) The Bank may, either generally or in a particular case, -\n\nappoint a person who is not an officer of the Bank to perform any\nor all of its functions or render such assistance in the performance\nof its functions under this Act as the Bank may specify.\n\nPart II\n\nPAYMENT SYSTEMS\nChapter 1\nPayment Systems and Designation of Payment Systems\nOperation of payment systems"
+   }
+  },
+  {
+   "id": "MY-H495-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "chapter": {
+    "en": "Part II"
+   },
+   "heading": {},
+   "text": {
+    "en": "5. (1) No person shall operate any payment system unless he has\ncomplied with the requirements of subsection (3) and has received\na written notification from the Bank that he has so complied.\n\n(2) The written notification under subsection (1) is not an approval\nor endorsement of the payment system by the Bank.\n\n(3) A person referred to in subsection (1) shall submit to the\nBank the documents and information as prescribed by the Bank,\ntogether with such fees as may be prescribed by the Bank.\n\n(4) Notwithstanding subsection (1), the Bank may, by written\nnotice, prohibit a person from operating any payment system where—\n\n(a) the payment system is detrimental to the reliable, safe,\nefficient and smooth operation of the payment systems\nof Malaysia; or\n\n(b) the prohibition ‘is in the interest of the public.\n\n(5) The Bank shall give the person referred to in subsection (4)\na reasonable opportunity to make representations before making\na decision to impose the prohibition under that subsection.\n\nDesignation of payment systems"
+   }
+  },
+  {
+   "id": "MY-H495-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "chapter": {
+    "en": "Part II"
+   },
+   "heading": {},
+   "text": {
+    "en": "6. (1) The Bank may, by order published in the Gazette, designate\na payment system as a designated payment system if the Bank is\nof the opinion that—\n\n(a) the payment system poses systemic risk; or\n\n(b) the designation is necessary to protect the interest of the\npublic.\n\n©\n\nPayments Systems                                        15\n\n(2) The Bank may, in considering whether to designate a payment\nsystem as a designated payment system under subsection (1), inspect\nthe premises, equipment, machinery, apparatus, books or other\ndocuments, or accounts and transactions relating to the payment\nsystem, upon giving written notice to the operator.\n\nCompliance with Chapter 2"
+   }
+  },
+  {
+   "id": "MY-H495-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7"
+   },
+   "chapter": {
+    "en": "Part II"
+   },
+   "heading": {},
+   "text": {
+    "en": "7. (1) Where a payment system is prescribed as a designated\npayment system under subsection 6(1), the operator of that designated\npayment system shall comply with the provisions of Chapter 2.\n\n(2) The Bank may, upon the request of an operator of a designated\npayment system, allow for an extension of time, with or without\nconditions, for the compliance with any of the requirements in\nChapter 2.\n\nPower to revoke designation'"
+   }
+  },
+  {
+   "id": "MY-H495-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8"
+   },
+   "chapter": {
+    "en": "Part II"
+   },
+   "heading": {},
+   "text": {
+    "en": "8. (1) The Bank may, by order published in the Gazette, revoke -\nthe designation of a payment system if the Bank is of the opinion\nthat—\n\n(a) the designated payment system no longer poses any\nsystemic risk; or\n\n(b) it is no longer in the interest of the public that the system\nbe designated.\n\n(2) The Bank shall give the operator a reasonable opportunity\nto make representations before making a decision to revoke the\ndesignation.\n\nChapter 2\nRequirements for Operation of Designated Payment Systems\n\nDisqualification of director"
+   }
+  },
+  {
+   "id": "MY-H495-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9"
+   },
+   "chapter": {
+    "en": "Part II"
+   },
+   "heading": {},
+   "text": {
+    "en": "9. (1) A person is disqualified from being appointed as a director\nof an operator of a designated payment system if—\n\n(a) that person has been adjudged a bankrupt, or has suspended\npayments, or has compounded with his creditors, whether\nin or outside Malaysia, within five years prior to the date\nof the appointment;\n\n(b) that person has been convicted of an offence under this\nAct or such an offence has been compounded against\nhim;\n\n(c) that person has been convicted of an offence under the\nBanking and Financial Institutions Act 1989, Insurance\nAct 1996 [Act 553], Islamic Banking Act 1983 [Act 276],\nTakaful Act 1984 [Act 3/2], Money-Changing Act 1998\n[Act 577], Exchange Control Act 1953 [Act 17], Central\nBank of Malaysia Act 1958, Development Financial\nInstitutions Act 2002 [Act 6/8], Anti Money Laundering\nAct 2001 [Act 6/3], Securities Industry Act 1983, Futures\nIndustry Act 1993, Companies Act 1965 [Act 125] or\nunder any written law involving fraud or dishonesty which\nis punishable with, as the case may be—\n\n(i) imprisonment for one year or more, whether by\nitself, or in lieu of, or in addition to, a fine; or\n\n(ii) a fine of one million ringgit or more, or such\noffence has been compounded against him;\n\n(d) that person has been a director or chief executive officer\nof any company which has been convicted of an offence\nunder any written law during his tenure of office unless\nhe proves that such offence was committed without his\nknowledge or consent and he was not in a position to\nprevent the offence;\n\n(e) there has been made against that person an order of\ndetention, supervision, restricted residence, banishment\nor deportation, or if there has been imposed on him any\nform of restriction or supervision by bond or otherwise,\nunder any law relating to the prevention of crime, or to\npreventive detention for the prevention of crime or drug\ntrafficking, or to restricted residence, or to banishment\nor immigration; or\n\n(f) that person has been a director or chief executive officer\nof a corporation incorporated in or outside Malaysia which\nis being or has been wound up.\n\n(2) No person shall accept an appointment as a director of an\noperator of a designated payment system, and no such operator\nshall appoint a person as a director of such operator, if that person\nis disqualified under subsection (1).\n\nPayments Systems                                       17\n\nAppointment of chief executive officer"
+   }
+  },
+  {
+   "id": "MY-H495-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10"
+   },
+   "chapter": {
+    "en": "Part II"
+   },
+   "heading": {},
+   "text": {
+    "en": "10. (1) A person is disqualified from being appointed or remaining\nas chief executive officer of an operator of a designated payment\nsystem if—\n\n(a) that person would be disqualified from being appointed\na director under subsection 9(1);\n\n(b) that person is not available for full time employment; or\n\n(c) that person is carrying on any other business or vocation,\nexcept as a non-executive director or shareholder of another\ncompany.\n\n(2) No person shall accept an appointment as chief executive\nofficer of an operator of a designated payment system, and no such\noperator shall appoint a person as chief executive officer of such\noperator, if that person is disqualified under subsection (1).\n\n(3) An operator of a designated payment system shall appoint\na chief executive officer who shall be—\n\n(a) an individual; and\n\n(b) resident in Malaysia during the period of his appointment.\n\nExceptions"
+   }
+  },
+  {
+   "id": "MY-H495-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11"
+   },
+   "chapter": {
+    "en": "Part II"
+   },
+   "heading": {},
+   "text": {
+    "en": "11. (1) A person who is disqualified as a director or chief executive\nofficer of an operator of a designated payment system on the\nground specified in paragraph 9(1)(f) may, with the written\nconcurrence of the operator in which he is holding office or is to\nbe appointed, apply to the Bank in writing to be exempted from\nthat paragraph and the Bank may grant such exemption, subject\nto such conditions as it considers fit to impose.\n\n(2) During the pendency of any criminal proceedings in any\ncourt for an offence referred to in paragraph 9(1)(b) or (c) against\na director or chief executive officer of an operator of a designated\npayment system, that director or chief executive officer shall not\nact in that capacity, or hold any other office, or act in any other\ncapacity, in any payment system or in any manner, directly or\nindirectly, be concerned with any business or affairs of any payment\nsystem unless authorized in writing by the Bank to such extent and\nsubject to such conditions as the Bank may impose.\n\n(3) For the purposes of subsection (2), criminal proceedings\nshall be deemed to be pending from the date that the accused\nperson is first charged in court for the offence until the date of\nthe final conclusion of the proceedings, whether in a court of\noriginal jurisdiction or, in the event of an appeal by any party, in\na court of final appellate jurisdiction.\n\nEffect of disqualification"
+   }
+  },
+  {
+   "id": "MY-H495-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12"
+   },
+   "chapter": {
+    "en": "Part II"
+   },
+   "heading": {},
+   "text": {
+    "en": "12. Where a person becomes disqualified under subsection 9(1)\nor 10(1) after his appointment—\n\n(a) he shall immediately cease to hold office; and\n\n(b) the operator of the designated payment system shall\nimmediately terminate his appointment,\n\nand that person, notwithstanding any contract of service, shall not\nbe entitled to claim any compensation for his loss of office or\ntermination of appointment.\n\nGovernance arrangements"
+   }
+  },
+  {
+   "id": "MY-H495-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13"
+   },
+   "chapter": {
+    "en": "Part II"
+   },
+   "heading": {},
+   "text": {
+    "en": "13. The operator of a designated payment system shall establish\nadequate governance arrangements which are effective, accountable\nand transparent to ensure the continued integrity of such designated\npayment system.\n\nOperational arrangements"
+   }
+  },
+  {
+   "id": "MY-H495-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14"
+   },
+   "chapter": {
+    "en": "Part II"
+   },
+   "heading": {},
+   "text": {
+    "en": "14. An operator of a designated payment system shall establish\nthe following operational arrangements:\n\n(a) rules and procedures setting out the rights and liabilities\nof the operator and the participant and the financial risks\nthe participant may incur;\n\n(b) procedures, controls and measures for the management\nof credit, liquidity and settlement risk, including rules\ndetermining the time when a payment instruction and a\nsettlement is final;\n\n(c) criteria for participation in the designated payment system;\nand\n\n©\n\nO\n\nPayments Systems                                     19\n\n(d) measures to ensure the safety, security and operational\nreliability of the designated payment system including\ncontingency arrangements.\n\nChanges to designated payment systems"
+   }
+  },
+  {
+   "id": "MY-H495-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15"
+   },
+   "chapter": {
+    "en": "Part II"
+   },
+   "heading": {},
+   "text": {
+    "en": "15. (1) Where the Bank has prescribed documents and information\nunder subsection (2), an operator of a designated payment system\nshall submit to the Bank particulars of any proposed change to the\ndocuments or information within thirty days prior to the making\nof such change.\n\n(2) The Bank, in prescribing the documents and information to\nbe submitted under subsection 5(3), may also prescribe the documents\nand information to which subsection (1) shall apply.\n\n(3) Where it appears to the Bank that such change is inappropriate,\nthe Bank may, before the expiry of the thirty days referred to in\nsubsection (1)—\n\n(a) prohibit the operator from making such change; or\n(b) require the operator to make any other changes as the\n\nBank may specify.\nChapter 3\nFinality of Payment and Netting Arrangement\nInterpretation"
+   }
+  },
+  {
+   "id": "MY-H495-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16"
+   },
+   "chapter": {
+    "en": "Part II"
+   },
+   "heading": {},
+   "text": {
+    "en": "16. For the purposes of this Chapter—\n\n\"bilateral netting\" means a netting arrangement between two\nparties;\n\n\"multilateral netting\" means a netting arrangement that has more\nthan two parties;                          .\n\n\"payments netting\" means a netting arrangement where on any\nday-on which amounts are due between the parties in respect of\none or more transactions, the party with the higher gross payment\nobligation is obligated to pay to the other party the net amount of\nthe gross payment obligations of the parties;\n\n\"close out netting\" means a netting arrangement under which,\nfollowing the occurrence of certain events specified by the parties\nto the arrangement, all or any of the transactions referred to in the\nnetting arrangement may be terminated, and where so terminated\nthe termination value becomes due and payable;\n\n\"netting by novation\" means a netting arrangement between the\nparties to a series of transactions where an account of amounts due\nis kept and the rights and obligations of the parties in respect of\nthe account are continuously extinguished and replaced by a new\nsingle amount payable by one party to the other;\n\n\"netting arrangement\" means an arrangement in writing to convert\nseveral claims or obligations into one net claim or one net obligation\nand includes bilateral netting, multilateral netting, netting by novation,\nclose out netting, payments netting or a combination thereof;\n\n\"insolvency administrator\" includes a receiver, manager, receiver\nand manager, liquidator, provisional liquidator, judicial manager,\ncurator, special administrator or any other person, by whatever\nname called, authorized under any law in or outside Malaysia to\ntake control of a person's property for the benefit of that person's\ncreditors in the event that the person is, or is likely to become,\ninsolvent;\n\n\"designated payment system\" includes a payment system operated\nby the Bank under the Central Bank of Malaysia Act 1958.\n\nApplication"
+   }
+  },
+  {
+   "id": "MY-H495-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17"
+   },
+   "chapter": {
+    "en": "Part II"
+   },
+   "heading": {},
+   "text": {
+    "en": "17. (1) The provisions of this Chapter shall apply to—\n\n(a) any payment or settlement instruction sent through a\ndesignated payment system; and\n\n(b) any netting arrangement, in respect of claims or obligations\narising from a payment or settlement instruction that is\nfinal under subsection 19(1), entered into between an\noperator and a participant or between participants only\nin respect of a designated payment system.\n\n(2) Any written law relating to bankruptcy and insolvency shall\ncontinue to apply, but where there is any conflict or inconsistency\nbetween the provisions of this Chapter and the written law relating\nto bankruptcy and insolvency, the provisions of this Chapter shall\nprevail.\n\nPayments Systems                                                21\n\nPayment or settlement instruction made after appointment of\ninsolvency administrator"
+   }
+  },
+  {
+   "id": "MY-H495-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18"
+   },
+   "chapter": {
+    "en": "Part II"
+   },
+   "heading": {},
+   "text": {
+    "en": "18. This Chapter shall not apply in relation to any payment or\nsettlement instruction which is sent through a designated payment\nsystem after the expiry of the day on which an insolvency\nadministrator is appointed in respect of an operator or participant\nof a designated payment system.\n\nFinality of payment and netting arrangement"
+   }
+  },
+  {
+   "id": "MY-H495-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19"
+   },
+   "chapter": {
+    "en": "Part II"
+   },
+   "heading": {},
+   "text": {
+    "en": "19. (1) A payment instruction or settlement shall be valid and\nenforceable by and against an operator or participant of a designated\npayment system and shall be final and shall not be revoked, reversed\nor set aside by any person from the time the payment instruction\n\n‘or settlement is determined to be final under the rules of the |\n\ndesignated payment system required to be established under paragraph\n14(b) and no order shall be made by any court for the rectification\nor stay of such payment instruction or settlement.\n\n(2) A netting arrangement shall be valid and enforceable and\nan operator or participant of a designated payment system shall do\nwhatever is permitted or required under the netting arrangement\nin order to give effect to the netting arrangement.\n\n(3) Any payment or settlement obligations owed to an operator\nor participant of a designated payment system under the netting\narrangement that has not been discharged—\n\n(a) is provable in insolvency proceedings; and\n\n(b) may be recovered for the benefit of the creditors.\n\n(4) Without limiting the generality of subsection 17(2), any\npayment instruction or settlement that is final and irrevocable\nunder subsection (1) and any netting arrangement that is valid and\nenforceable under subsections (2) and (3) shall be given effect\nnotwithstanding anything to the contrary contained in—\n\n(a) sections 223 and 224 of the Companies Act 1965 in\nrelation to avoidance of dispositions of property;\n\n(b) section 296 of the Companies Act 1965, section 59 of the\nBankruptcy Act 1967 [Act 360] or subsection 40(1) of\nthe Pengurusan Danaharta Nasional Berhad Act 1998\n[Act 587] in relation to the disclaiming of onerous property;\n\n22        |                    Laws of Malaysia                    Act 627\n\n(c) section 219 of the Companies Act 1965 and section 47\nof the Bankruptcy Act 1967 in relation to the time of\ncommencement of insolvency;\n\n(d) section 293 of the Companies Act 1965 and section 53\nof the Bankruptcy Act 1967 in relation to undue preference;\nand\n\n(e) section 222 of the Companies Act 1965 and section 10\nof the Bankruptcy Act 1967 in relation to the power to\nstay or restrain proceedings.\n\nPreservation of rights"
+   }
+  },
+  {
+   "id": "MY-H495-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20"
+   },
+   "chapter": {
+    "en": "Part II"
+   },
+   "heading": {},
+   "text": {
+    "en": "20. For the avoidance of doubt, it is declared that the provisions\nof this Chapter shall not restrict or preclude any person from\nenforcing his rights under the law in so far as it does not affect\nthe finality of payment instruction or settlement or the validity and\nenforceability of a netting arrangement under this Chapter.\n\nNon-recognition of insolvency order by foreign court"
+   }
+  },
+  {
+   "id": "MY-H495-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21"
+   },
+   "chapter": {
+    "en": "Part II"
+   },
+   "heading": {},
+   "text": {
+    "en": "21. Notwithstanding any other written law or rule of law, a court\nshall not recognize or give effect to an order of a court exercising\n_ jurisdiction under the law of insolvency outside Malaysia in so far\nas the making of that order would be inconsistent with or contrary\nto the provisions of this Chapter.\n\nRequirement to notify in the event of insolvency, efc."
+   }
+  },
+  {
+   "id": "MY-H495-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22"
+   },
+   "chapter": {
+    "en": "Part II"
+   },
+   "heading": {},
+   "text": {
+    "en": "22. (1) Where an operator of a designated payment system—\n(a) is insolvent or is likely to become insolvent;\n\n(b) has become or is likely to become unable to meet any or\nall of his obligations; or\n\n(c) has suspended payments or compounded with his creditors,\n\nsuch operator shall immediately notify the participants of the\ndesignated payment system.\n\nO\n\nPayments Systems                             23\n\n(2) Where a participant of a designated payment system—\n(a) is insolvent or is likely to become insolvent;\n\n(b) has become or is likely to become unable to meet any or\nall of his obligations; or\n\n(c) has suspended payments or compounded with his creditors,\n\nsuch participant shall immediately notify the operator who shall\nnotify the other participants of the designated payment system.\n\nPart III\nPAYMENT INSTRUMENTS\nChapter 1\n\nOperation and Designation of Payment Instruments\nProhibition of issuance of payment instruments"
+   }
+  },
+  {
+   "id": "MY-H495-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23"
+   },
+   "chapter": {
+    "en": "Part III"
+   },
+   "heading": {},
+   "text": {
+    "en": "23. (1) The Bank may, by order published in the Gazette, prohibit\nany person from issuing or using any payment instrument if—\n\n(a) the issuing or use of the payment instrument is detrimental\nto the reliable, safe, efficient and smooth operation of the\npayment systems of Malaysia; or\n\n(b) the prohibition is in the interest of the public.\n\n(2) The Bank may, in considering whether to prohibit any person\nfrom issuing or using any payment instrument under subsection\n(1), inspect the premises, equipment, machinery, apparatus, books\nor other documents, or accounts and transactions of the issuer of\nthe payment instrument, upon giving written notice to the issuer.\n\n(3) The Bank shall give the person referred to in subsection (1)\na reasonable opportunity to make representation before making a\ndecision to impose the prohibition under that subsection.\n\nDesignation of payment instruments"
+   }
+  },
+  {
+   "id": "MY-H495-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24"
+   },
+   "chapter": {
+    "en": "Part III"
+   },
+   "heading": {},
+   "text": {
+    "en": "24. (1) Where the Bank is of the opinion that—\n\n(a) a payment instrument may be of widespread use as a\nmeans of making payment and may affect the payment\nsystems of Malaysia; and\n\n24                            Laws of Malaysia                    Acr 627\n\n(b) it is necessary to protect the interest of the public or it\nis necessary to maintain the integrity, efficiency and\nreliability of a payment instrument,\n\nthe Bank may prescribe such payment instrument as a designated\npayment instrument.\n\n(2) Where a payment instrument is prescribed as a designated\npayment instrument, the issuer of that designated payment instrument\nshall comply with the requirements of subsection 25(1) within\nsuch period as the Bank may specify.                .\n\nIssuing of designated payment instruments"
+   }
+  },
+  {
+   "id": "MY-H495-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25"
+   },
+   "chapter": {
+    "en": "Part III"
+   },
+   "heading": {},
+   "text": {
+    "en": "25. (1) No person shall issue a designated payment instrument\nunless he has—\n\n(a) submitted to the Bank the documents and information as\nmay be prescribed by the Bank;\n\n(b) paid the fee prescribed by the Bank; and\n(c) obtained a written approval from the Bank to issue a\ndesignated payment instrument.            |\n(2) The Bank may in giving its approval—\n\n(a) require all or any of the documents submitted to be modified\nand altered as it may deem necessary; and\n\n(b) impose such restriction, limitations or conditions as it\nmay deem fit.\n\nRevocation of approval"
+   }
+  },
+  {
+   "id": "MY-H495-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26"
+   },
+   "chapter": {
+    "en": "Part III"
+   },
+   "heading": {},
+   "text": {
+    "en": "26. (1) The Bank may revoke an approval granted under paragraph\n25(1)(c) if it appears to the Bank that—\n\n(a) the issuer has contravened or is contravening any of the\nprovisions of this Act;\n\n(b) the issuer has contravened any restrictions, limitations or\nconditions of the approval;\n\n(c) the issuer has failed to comply with any guidelines, circulars,\nstandards or notices issued by the Bank under section 70;\n\n©)\n\nPayments Systems                             25\n\n(d) the issuer has made a false or an incorrect statement in\nthe documents or information submitted under paragraph\n25(1)(a) or particulars of any change to documents and\ninformation submitted under subsection 29(1);\n\n(e) the issuer has ceased issuing the designated payment\ninstruments for any continuous period of six months; or\n\n(f) the issuer goes into liquidation or is wound up or is\notherwise dissolved.\n\n(2) The Bank shall give the issuer a reasonable opportunity to\nmake representations before making a decision to revoke the approval.\n\nChapter 2\n\nRequirements for Issuance of Designated Payment\nInstruments\n\nGovernance   arrangements"
+   }
+  },
+  {
+   "id": "MY-H495-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 27"
+   },
+   "chapter": {
+    "en": "Part III"
+   },
+   "heading": {},
+   "text": {
+    "en": "27. The issuer of a designated payment instrument shall establish\nadequate governance arrangements which are effective, accountable\nand transparent to ensure the continued integrity of such designated\npayment instrument.\n\nOperational arrangements"
+   }
+  },
+  {
+   "id": "MY-H495-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 28"
+   },
+   "chapter": {
+    "en": "Part III"
+   },
+   "heading": {},
+   "text": {
+    "en": "28. An issuer of a designated payment instrument shall establish\nthe following operational arrangements:\n\n(a) rules and procedures setting out the rights and liabilities\nof the issuer and the user of the designated payment\ninstrument and the risks the user may incur;\n\n(b) measures to ensure prudent management of funds collected\nfrom a user of the designated payment instrument, including\nmeasures to ensure that such funds are available for\nrepayment to a user; and\n\n(c) measures to ensure safety, security and operational\nreliability of the designated payment instrument including\ncontingency arrangements.\n\nChanges to designated payment instruments"
+   }
+  },
+  {
+   "id": "MY-H495-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Section 29"
+   },
+   "chapter": {
+    "en": "Part III"
+   },
+   "heading": {},
+   "text": {
+    "en": "29. (1) Where the Bank has prescribed documents and information\nunder subsection (2), an issuer of a designated payment instrument\nshall submit to the Bank particulars of any proposed change to the\ndocuments or information within thirty days prior to the making\nof such change.\n\n(2) The Bank, in prescribing the documents and information to\nbe submitted under subsection 25(1), may also prescribe the\ndocuments and information to which subsection (1) shall apply.\n\n(3) Where it appears to the Bank that such change is inappropriate,\nthe Bank may, before the expiry of the thirty days referred to in\nsubsection (1)—       :\n\n(a) prohibit the issuer from making such change; or\n\n(b) require the issuer to make any other changes as the Bank\nmay specify.\n\nPart IV\nPOWERS OF THE BANK\nChapter 1\nGeneral Powers of the Bank\nRequirement to incorporate"
+   }
+  },
+  {
+   "id": "MY-H495-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Section 30"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "30. (1) The Bank may at any time require an operator or issuer\nwhich is not a body corporate established by or under any written\nlaw to incorporate as a company under the Companies Act 1965\nwithin such time as the Bank may specify and the operator or\nissuer shall not continue to operate the payment system or issue\nthe payment instrument after the specified time unless he has\ncomplied with the Bank's requirement.\n\n(2) The Bank may, upon the request of an operator or issuer,\nallow for an extension of time, with or without conditions, for the\ncompliance with the requirements of subsection (1).\n\n©\n\n©\n\n©\n\nPayments Systems                             27\n\nRequirement to submit information"
+   }
+  },
+  {
+   "id": "MY-H495-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Section 31"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "31. (1) An operator, participant or issuer shall, within such time\nas the Bank may specify, submit to the Bank all such documents\nand information regarding the payment system or payment instrument\nas the Bank may specify.\n\n(2) The documents and information referred to in subsection (1)\nshall include documents and information relating to any participant\nof the payment system or user of the payment instrument, and the\nbusiness, affairs, statistics and information on transactions relating\nto the payment system or payment instrument as the Bank may\nspecify under subsection (1).\n\n(3) The provisions of subsection (1) shall be without prejudice\nto, and shall not in any manner derogate from, any other power\nconferred on the Bank or an investigating officer under this Act.\n\n(4) The provisions of this section shall have effect notwithstanding\nthe provisions of any written law as to secrecy or other restriction\non the disclosure of information or of any oath, undertaking or\nrequirement of secrecy, to the contrary, or of any obligation under\nany contract, agreement or arrangement, whether express or implied,\nto the contrary.\n\nChapter 2\n\nPowers of the Bank over Designated Payment Systems and\nDesignated Payment Instruments\n\nPower to make modifications"
+   }
+  },
+  {
+   "id": "MY-H495-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Section 32"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "32. (1) The Bank may, by written notice, require an operator of\na designated payment system or issuer of a designated payment\ninstrument to make modifications or alterations to—\n\n(a) the designated payment system or designated payment\ninstrument including governance arrangements referred\nto in section 13 or 27;\n\n(b) operational arrangements referred to in section 14 or 28;\n\n(c) documents and information submitted under subsection\n5(3) or 25(1); and\n\n(d) any other documents relating to the designated payment\nsystem or designated payment instrument.\n\n(2) In exercising its powers under subsection (1), the Bank shall\nhave regard to—\n\n(a) systemic risk;\n\n(b) the object of the Bank to promote monetary stability and\na sound financial structure;\n\n(c) the interest of the public including market conditions and\nbehaviour;\n\n(d) the safety, integrity, efficiency or reliability of the\ndesignated payment system or designated payment\ninstrument including security and operating standards\nand infrastructure arrangements;\n\n(e) the interests of the current participants of the designated\npayment system or users of. the designated payment\ninstruments; or      '\n\n(f) the interests of persons who, in the future, may want\naccess to the designated payment system or may want to\nuse the designated payment instrument.\n\n(3) An operator of a designated payment system or an issuer of\na designated payment instrument shall make such modifications or\nalterations as may be required under subsection (1) within such\ntime as the Bank may specify.\n\n(4) The Bank shall 'give the operator of a designated payment\nsystem or issuer of a designated payment instrument a reasonable\nopportunity to make representations before making a decision to\nimpose the requirement under subsection (1).\n\nPower to issue directives"
+   }
+  },
+  {
+   "id": "MY-H495-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Section 33"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "33. (1) Where the Bank is of the opinion that an operator or a\nparticipant of a designated payment system or issuer of a designated\npayment instrument—\n\n(a) is engaging or is about to engage, in any act, or course\nof conduct or has omitted any act or is about to omit any\nact that results or is likely to result in systemic risk being\n\n_ inadequately controlled, or that is detrimental to the interests\nof its participants, users or creditors or the public generally;\n\nPayments Systems                               29\n\n(b) has contravened any provision of this Act, whether or not\nthere has been no criminal prosecution in respect thereof,\nor any guideline issued under section 70; or\n\n(c) has become or is likely to become unable to meet all or\nany of his obligations,\n\nthe Bank may issue a directive in writing requiring the operator\nor participant of the designated payment system or issuer of the\ndesignated payment instrument to—\n\n(aa) take any steps, take any action, do or not to do any act\nor thing, in relation to the designated payment system or\nthe designated payment instrument which in the opinion\nof the Bank is necessary to remedy the situation;\n\n(bb) cease to operate the designated payment system; or\n\n(cc) cease to issue the designated payment instrument.\n\n(2) In giving any directive under subsection (1), the Bank may\ninclude requirements of a consequential, ancillary or incidental\nnature to be complied with by the operator or participant of a\ndesignated payment system or the issuer of a designated payment\ninstrument and the Bank may impose such terms, conditions and\nrequirements as it deems necessary or expedient.\n\n(3) An operator or participant of a designated payment system\nor an issuer of a designated payment instrument shall comply with\nany directive issued under subsection (1) within such time as the\nBank may specify.\n\n(4) If the Bank exercises its power under paragraph (1)(bb), the\noperator is prohibited from operating the designated payment system\nand if the Bank exercises its power under paragraph (1)(cc) the\napproval to issue a designated payment instrument is deemed to\nhave been revoked under section 26.\n\n'.(5) The Bank shall give the operator, participant or issuer, as\n the case may be, referred to in subsection (1) an opportunity to\n\nmake representations before making a decision to issue a directive\nunder that subsection.\n\nChapter 3\n\nPowers of Examination\nExamination by the Bank"
+   }
+  },
+  {
+   "id": "MY-H495-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "Section 34"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "34. The Bank may, where it is of the opinion that it is necessary\nfor the purposes of carrying out its functions under this Act, examine,\nwith or without any prior written notice, the premises, apparatus,\nequipment, machinery, books or other documents, accounts or\ntransactions of an operator or issuer and any of his offices in or\noutside Malaysia.\n\nProduction of person's books, etc."
+   }
+  },
+  {
+   "id": "MY-H495-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "Section 35"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "35. (1) For the purposes of an examination under section 34, any\nperson under examination and that person's directors and officers\nshall afford any officer of the Bank carrying out the examination\naccess to all his premises, apparatus, equipment, machinery, books\nor other documents and accounts, including documents of title to\nhis assets, all securities held by him in respect of his customers'\ntransactions, all his cash, and to all such documents, information\nand facilities as may be required by that officer for the purpose\nof the examination, and shall produce to that officer all such\napparatus, equipment, machinery, books or other documents,\naccounts, titles, securities or cash, and give all such information,\norally or in writing, as he may require, however, so far as is\nconsistent with the conduct of the examination, such apparatus,\nequipment, machinery, books or documents, accounts, titles, securities\nand cash shall not be required to be produced at such times or at\nsuch places as may interfere with the proper conduct of the normal\ndaily business of that person.\n\n(2) Notwithstanding the generality of subsection (1), any officer\nof the Bank authorized by the Bank in writing for this purpose may\ntake possession of any apparatus, equipment, machinery, books or\nother documents, accounts, titles, securities or cash to which he\nhas access under subsection (1) if in his opinion—\n\n(a) the inspection of them, the copying of them or the making\nof extracts from them cannot reasonably be undertaken\nwithout taking possession of them,\n\n(b) it may be interfered with or destroyed unless he takes\npossession of them; or\n\n©\n\nO\n\nPayments Systems                                   31\n\n(c) it may be needed as evidence in any legal proceedings,\nwhether civil or criminal, which may be instituted under\nor in connection with this Act, the Central Bank of Malaysia\nAct 1958 or any other written law.\n\n(3) A person who is or was at any time—\n\n(a) a director or officer of an operator or issuer;\n\n(b) an agent of or who performs any of the functions of an\nOperator or issuer;\n\n(c) a participant of a payment system or user of a payment\ninstrument; or\n\n(d) an auditor of an operator or issuer,\n\nshall give such information or document as the Bank may require\nwithin such time as the Bank may specify in carrying out an\nexamination under section 34.\n\n(4) An auditor referred to in paragraph (3)(d) shall not be liable\nfor breach of contract relating to, or duty of, confidentiality for\ngiving any information or document to the officer carrying out the\nexamination.\n\nChapter 4\nControl Over Designated Payment Systems\nOperator of designated payment system insolvent"
+   }
+  },
+  {
+   "id": "MY-H495-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "Section 36"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "36. Any operator of a designated payment system who is insolvent\nor likely to become insolvent, or has become or likely to become\n\nunable to meet all or any of his obligations, or has suspended\npayments or compounded with his creditors shall immediately\n\n-inform the Bank of that fact.\n\nDirective in the event of insolvency"
+   }
+  },
+  {
+   "id": "MY-H495-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "Section 37"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "37. (1) Without prejudice to section 33, if the Bank is satisfied,\nupon being informed by an operator of a designated payment\nsystem under section 36 or after an examination under section 34\nor otherwise, that an operator of a designated payment system—\n\n(a) is insolvent or is likely to become insolvent;\n\n(b) has become or is likely to become unable to meet all or\nany of his obligations; or\n\n( c) has suspended payments or compounded with his creditors,\n\nthe Bank may issue a directive in writing, exercising any one or\nmore of the following powers, as it deems necessary—\n\n(aa) remove from office, with effect from such date as may\nbe specified in the directive, any director or chief executive\nofficer of the operator of the designated payment system;\n\n(bb) appoint any person as a director or chief executive officer\nof the operator of the designated payment system and\nprovide in the directive for the person so appointed to be\npaid by the operator of the designated payment system\nsuch remuneration as may be set out in the directive; or\n\n(cc) appoint a person to advise the operator of a designated\npayment system in relation to the proper conduct of its\nbusiness, and provide in the directive for the person so\nappointed to be paid by the operator of the designated\npayment system such remuneration as may be set out in\nthe directive.\n\n(2) This section shall apply notwithstanding anything contained\nin any written law, or any limitations contained in the constituent\ndocuments of the operator of a designated payment system.\n\nAssumption of assets"
+   }
+  },
+  {
+   "id": "MY-H495-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "Section 38"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "38. (1) Where any of the circumstances set out in paragraphs\n37(1)(a) to (c) exist in respect of an operator of a designated\npayment system, the Bank may, whether or not the Bank has\nexercised any of its powers under section 37, provide by order\npublished in the Gazette—\n\n(a) for the Bank to assume control of the whole of the property,\nbusiness and affairs of the operator of a designated payment\nsystem, and carry on the whole of its business and affairs,\nor to assume control of such part of its property, business\nand affairs, and carry on such part of its business and\naffairs, as may be set out in the order, or for the Bank\nto appoint any person to do so on behalf of the Bank, and\n\n©\n\nO\n\nPayments Systems                                 33\n\nfor the costs and expenses of the Bank, or the remuneration\nof the person so appointed, as the case may be, to be\npayable out of the funds and properties of the operator\nof the designated payment system as a first charge thereon;\n\n(b) whether or not an order has been made under paragraph\n(a), to authorize an application to be made by the Bank\nto the High Court to appoint a receiver or manager to\nmanage the whole of the business, affairs and property\nof the operator of a designated payment system, or such\npart thereof as may be set out in the order, and for all\nsuch incidental, ancillary or consequential orders or\ndirections of the High Court in relation to such appointment\nas may, in the opinion of the Bank, be necessary or\nexpedient; or\n\n(c) whether or not an order has been made under paragraph\n(a) or (b), to authorize the Bank to present a petition to\nthe High Court for the winding up of the operator of a\ndesignated payment system.\n\n(2) An order under subsection (1) or a directive of the Bank\nunder section 37 may, from time to time, be modified, amended,\naltered, varied or replaced either prospectively, or where it is not\nimpracticable or unjust to do so, retrospectively, by an order under\nsubsection (1) or a further directive under section 37, as the case\nmay be.\n\n(3) No order under subsection (1) or (2) or directive under\nsection 37 shall be made unless the operator of a designated payment\nsystem in respect of which the order or directive is to be made,\nand in the case of a directive under paragraph 37(1)(aa), the\ndirector or chief executive officer of the operator of the designated\npayment system who is to be removed from office, has been given\na reasonable opportunity of making representations against, or\notherwise in respect of, the proposed order or directive.\n\n(4) Notwithstanding subsection (3), if in the opinion of the\nBank any delay would be detrimental to the interests of the operator\nor participant of a designated payment system or creditors, or the\npublic generally, an order under subsection (1) or (2) or directive\nunder section 37 may be made first and the opportunity to make\nrepresentations against or otherwise in respect of the order or\ndirective shall, in such case, be given immediately after the order\n\n34                            Laws of Malaysia                    AcTt 627\n\nor directive has been made, and the order or directive may, in\nconsequence of such representations, either be confirmed, or be\nmodified, amended, altered, varied or replaced under subsection\n(2), or be revoked under subsection (5), subject to such conditions,\nif any, as the Bank thinks fit to impose.\n\n(5) An order of the Bank under subsection (1) or (2) or a\ndirective of the Bank made under section 37, may at any time be\nrevoked by an order or a directive similarly made by the Bank,\nas the case may be, and any such order or directive may contain\nall such provisions of an incidental, ancillary, or consequential\nnature, as may be deemed necessary or expedient by the Bank, as\nthe case may be.\n\n(6) Where a receiver or manager has been appointed by the\nHigh Court under paragraph (1)(b), in respect of an operator of a\ndesignated payment system, all proper costs, charges and expenses,\nincluding the remuneration, of such receiver or manager shall be\npayable out of the assets of the operator of the designated payment\nsystem in priority to all other claims.\n\nEffect of removal from office"
+   }
+  },
+  {
+   "id": "MY-H495-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "Section 39"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "39. The removal under paragraph 37(1)(aa) of any director or\nchief executive officer of an operator of a designated payment\nsystem shall be lawful and valid notwithstanding anything contained\nin any contract of service or other contract or agreement, whether\nexpress or implied, whether individual or collective, and whether\nor not made or provided for under any written law, and such\nperson shall not be entitled to claim any compensation for the loss\nor termination of office.\n\nProvisions relating to assumption of control under paragraph\n38(1)(a)"
+   }
+  },
+  {
+   "id": "MY-H495-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "Section 40"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "40. (1) Where control of an operator of a designated payment\nsystem has been assumed in pursuance of section 37 or an order\nunder paragraph 38(1)(a), the operator of the designated payment\nsystem and its directors and officers shall provide the Bank or the\nperson appointed by the Bank with such facilities, documents and\ninformation as may be required to carry on its business.\n\nPayments Systems                             35\n\n(2) The Bank or the person appointed by the Bank shall control\nand carry on the property, business and affairs of the operator of\nthe designated payment system.as the case may be, in the name\nand on behalf of that operator of the designated payment system\nuntil the directive issued under section 37 or order made under\nparagraph 38(1)(a) is revoked.\n\n(3) During the period for which a directive under section 37 or\nan order. under paragraph 38(1)(a) is in force—\n\n(a) no director or chief executive officer of the operator of\nthe designated payment system shall engage in any activity\nin relation to the designated payment system, directly or\nindirectly, except as may be required or authorized by\nthe Bank or the person appointed by the Bank;\n\n(b) no remuneration shall accrue or be payable to a director\nor chief executive officer of the operator of the designated\npayment system unless approved in writing by the Bank\nor the person appointed by the Bank; and\n\n(c) the Bank or the person appointed by the Bank shall be\nvested with all the powers of the operator of a designated\npayment system, and its board of directors, under its\nconstituent documents, or exercisable by the operator of\na designated payment system or its board of directors\nunder any written law regardless whether such powers\nare exercisable by resolution.\n\n(4) For the avoidance of doubt, it is hereby declared that a\ndirective under section 37 or an order under paragraph 38(1)(a)\nshall not have the effect of conferring on, or vesting in, the Bank\nor the person appointed by the Bank any title to, or any beneficial\ninterest in, any property of the operator of a designated payment\nsystem to which the directive or order relates.\n\nPower to reduce share capital and to cancel shares"
+   }
+  },
+  {
+   "id": "MY-H495-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "Section 41"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "41. (1) Notwithstanding anything in any written law or the\nconstituent documents of an operator of a designated payment\nsystem, the Bank or the person appointed by the Bank may apply\nto the High Court for an order to reduce the share capital of such\noperator by cancelling any portion of its paid-up capital which is\nlost or unrepresented by available assets.\n\n(2) Where the High Court makes an order under subsection (1)\nto reduce the share capital of an operator of a designated payment\nsystem, the Court may—\n\n(a) on an application by the Bank, or the person appointed\nby the Bank; and\n\n(b) if, on the expiry of thirty days from the date of any call\nmade by the operator of a designated payment system on\nits members to pay on their respective shares, payment\non any such shares has not been made,\n\nalso order that such shares for which payment has not been made\nbe cancelled accordingly.\n\n(3) Where the share capital of an operator of a designated payment\nsystem is reduced pursuant to subsection (1), or any of its shares\nis cancelled pursuant to subsection (2), the Bank or the person\nappointed by the Bank may cause the constituent docnments of the\noperator of a designated payment system to be altered accordingly.\n\n(4) The powers conferred under subsections (1), (2) and (3) on\nthe Bank and the person appointed by the Bank shall be in addition\nto any powers exercisable under subsection 64 (1) of the Companies\nAct 1965, and where an application is made to the High Court\nunder subsection (1)—\n\n(a) the High Court may exercise any of the powers conferred\non it under section 64 of the Companies Act 1965 in\nrelation to an application for confirmation referred to\ntherein; and\n\n(b) subsections 64(9) and (10) of the Companies Act 1965\nshall apply in relation thereto.\nPart V\nINVESTIGATION, SEARCH AND SEIZURE\nInterpretation"
+   }
+  },
+  {
+   "id": "MY-H495-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "Section 42"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "42. For the purposes of this Part, \"financial institution\" means\na bank, a finance company, a banking and finance company, a\n\nmerchant bank or a discount house licensed under the Banking and\nFinancial Institutions Act 1989, or a prescribed institution as defined\n\n©\n\nO\n\nPayments Systems                             37\n\nunder the Development Financial Institutions Act 2002 or any co-\noperative society registered or deemed to have been registered\nunder the Co-operative Societies Act 1993 [Act 502] or a clearing\nhouse recognized under the Securities Industry Act 1983 or a\nclearing house licensed under the Futures Industry Act 1993.\n\nAppointment of investigating officers, their powers, functions\nand duties"
+   }
+  },
+  {
+   "id": "MY-H495-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "Section 43"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "43. (1) For the purposes of this Part, the Bank may appoint any\nofficer of the Bank or any person appointed under subsection 4(3)\nto be an investigating officer.\n\n(2) Subject to subsection (3), an investigating officer appointed\nunder subsection (1) shall have all the powers, functions, and\nduties conferred on an investigating officer under this Act, and\nwhere such investigating officer is not an officer of the Barik, he\nshall, in relation to such powers, functions and duties—\n\n(a) be subject to; and\n\n(b) enjoy such rights, privileges, protection, immunities and\nindemnities as may be specified in,\n\nthe provisions of this Act, the Central Bank of Malaysia Act 1958\nor other written law applicable to an officer of the Bank as if he\nwas an officer of the Bank.\n\n(3) An investigating officer shall be subject to the direction and\ncontrol of the Governor, or of such other officer of the Bank as\nmay be authorized by the Governor to act on behalf of the Governor,\nand of any other investigating officer or officers superior to him\nin rank, and shall exercise his powers, perform his functions, and\ndischarge his duties referred to in subsection (2) in compliance\nwith such directions, instructions, conditions, restrictions or\nlimitations as the Governor, or an officer of the Bank authorized\nto act on behalf of the Governor, or an investigating officer superior\nin rank, may specify orally or in writing, either generally, or in\nany particular case or circumstance.\n\n(4) The Governor, or any officer of the Bank authorized by the\nGovernor to act on behalf of Governor, shall have all the powers,\nfunctions and duties of an investigating officer.\n\n(5) An investigating officer conducting any examination of any\nperson under this Part shall have the power to administer an oath\nor affirmation to the person who is being examined.\n\nInvestigation powers in respect of clearing houses\n\n44, Where the Bank has reason to believe that an offence has\nbeen committed under this Act, and it is necessary to exercise its\npowers under this Part in respect of a clearing house recognized\nunder the Securities Industry Act 1983 or a clearing house licensed\nunder the Futures Industry Act 1993, the Bank shall notify the\nSecurities Commission established by the Securities Commission\nAct 1993.\n\nPowers of entry, search and seizure"
+   }
+  },
+  {
+   "id": "MY-H495-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "Section 45"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "45. (1) Where an investigating officer is satisfied, or has any\nreason to believe, that any person has committed an offence under\nthis Act, he may, if in his opinion it is reasonably necessary to do\nso for the purpose of investigating into such offence—\n\n(a) enter any premises and there search for, seize and detain\nany property, apparatus, equipment, machinery, computer,\ncomputer output, data, book or other document;\n\n(b) have access to, inspect, make copies of, or take extracts\nfrom, any computer, computer output, book or other\ndocument so seized and detained, including access to any\nprogram or data held in any computer or have access to,\ninspect or check the operation of any computer and any\nassociated apparatus or material;\n\n(c) take possession of, and remove from the premises, any\nequipment, apparatus, machinery, property, computer,\ncomputer output, data, book or other document so seized\nand detained;\n\n(d) search any person who is in, or on, such premises, and\nfor the purpose of such search detain such person and\nremove him to such place as may be necessary to facilitate\nsuch search, and seize and detain any equipment, apparatus,\nmachinery, property, computer, computer output, data,\nbook or other document found on such person;\n\n(e) break open, examine, and search, any article, container\nor receptacle, including accessing into a computer; or\n\n(f) stop, detain or search any conveyance.\n\n©\n\nPayments Systems                             39\n\n(2) In exercising his powers under subsection (1), an investigating\nofficer may if it is necessary so to do—\n\n(a) break open any outer or inner door of any premises and\nenter thereinto;\n\n(b) forcibly enter such premises and every part thereof;\n\n(c) remove by force any obstruction to such entry, search,\nseizure, detention or removal as he is empowered to\neffect; or\n\n(d) detain all or any person found on any premises, or in any\nconveyance, searched under subsection (1) until such\npremises or conveyance has been searched.\n\n(3) An investigating officer shall for the purposes of this section\nbe provided with the necessary password, encryption code, decryption\ncode, software or hardware and any other means required to enable\ncomprehension of any program or data held in any computer including\nin a form in which the information contained in a computer can\nbe taken away and in which it is visible and legible.\n\n(4) A list of all things seized in the course of a search made\nunder this section and of the premises in which they are respectively\nfound shall be prepared by the investigating officer conducting the\nsearch and signed by him.\n\n(5) The occupant of the premises entered under subsection (1),\nor any person on his behalf, shall in every instance be permitted\nto attend during the search, and a copy of the list prepared and\nsigned under this section shall be delivered to such occupant or\nperson at his request.\n\n(6) An investigating officer shall, unless otherwise ordered by\nany court—\n\n(a) on the close of investigations or any proceedings arising\ntherefrom; or\n\n(b) with the prior written consent of any officer of the Bank\nauthorized by the Governor to act on the Governor's\n‘behalf for this purpose, or of any investigating officer\nsuperior to him in rank, at any time before the close of\ninvestigations, release any property, apparatus, equipment,\nmachinery, computer, computer output, data, book or\nother document seized, detained or removed by him or\nany other investigating officer, to such person as he\n\ndetermines to be lawfully entitled to the property, apparatus,\nequipment, machinery, computer, computer output, data,\nbook or other document if he is satisfied that it is not\nrequired for the purpose of any prosecution or proceedings\nunder this Act, or for the purpose of any prosecution\nunder any other written law.\n\n(7) Arecord in writing shall be made by the investigating officer\neffecting any release of any property, apparatus, equipment,\nmachinery, computer, computer output, data, book or other document\nunder subsection (6) in respect of such release specifying therein\nin detail the circumstances of, and the reason for, such release.\n\n(8) Where the investigating officer is unable to determine the\nperson who is lawfully entitled to the property, equipment, apparatus,\nmachinery, computer, computer output, data, book or other document\nor where there is more than one claimant to such property, equipment,\napparatus, machinery, computer, computer output, data, book or\nother document, the investigating officer shall report the matter to\na Magistrate who shall then deal with the property, apparatus,\nequipment, machinery, computer, computer output, data, book or\nother document as provided for in subsections 413(2), (3) and (4),\nand sections 414, 415 and 416 of the Criminal Procedure Code\n[Act 593].\n\nSearch of person"
+   }
+  },
+  {
+   "id": "MY-H495-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "Section 46"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "46. (1) An investigating officer may search any person whom he\nhas reason to believe has on his person any property, apparatus,\nequipment, machinery, computer, computer output, data, book or\nother document or other article necessary, in his opinion, for the\npurpose of investigation into any offence under this Act, and for\nthe purpose of such search may detain such person as may be\nnecessary to have the search carried out and may remove him in\ncustody to such place as may be necessary to facilitate such search.\n\n(2) An investigating officer making a search of a person under\nsubsection (1) may seize, detain, or take possession of any property,\napparatus, equipment, machinery, computer, computer output, data,\nbook or other document, or article, found upon such person for the\npurpose of the investigation being carried out by him.\n\n(3) No female person shall be searched ‘under this section or\nunder section 50 except by another female.\n\n©\n\n©\n\nPayments Systems                                      41\n\nObstruction to exercise of powers by an investigating officer"
+   }
+  },
+  {
+   "id": "MY-H495-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "Section 47"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "47. No person shall—\n\n(a)\n\n(b)\n\n(c)\n\n(d)\n\n(e)\n\n(f)\n\n(g)\n\n(h)\n\nrefuse any investigating officer exercising his powers\nunder section 45 or 46 access to any premises or any part\nthereof, or fail to submit to the search of his person;\n\nassault, obstruct, hinder or delay such investigating officer\nin effecting any entrance which he is entitled to effect;\n\nfail to comply with any lawful demands of any investigating\nofficer in the execution of his duties under section 45 or\n46;\n\nrefuse to give to an investigating officer any information\nwhich may reasonably be required of him and which he\nhas it in his power to give;\n\nfail to produce to, or conceal or attempt to conceal from,\nan investigating officer any property, book, other document\nor article in relation to which the investigating officer\nhas reasonable grounds for suspecting that an offence has\nbeen or is being committed under this Act;\n\nrescue or endeavour to rescue any thing which has been\nduly seized;\n\nfurnish to an investigating officer as true, information\nwhich he knows or has reason to believe to be false; or\n\nbefore or after any seizure, break or otherwise destroy\nany thing to prevent the seizure thereof, or the securing\nof such thing.\n\nRequirement to provide translation"
+   }
+  },
+  {
+   "id": "MY-H495-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "Section 48"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "48. (1) Where an investigating officer finds, seizes, detains or\ntakes possession of any computer, computer output, data, book or\nother document, in the exercise of any power under this Part, and\nsuch book or other document or any part thereof is in a language\nother than the national language or the English language, or in any\nsign or code, the investigating officer may, orally or in writing,\nrequire the person who had the possession, custody or control of\nsuch computer, computer output, data, book or other document, to\nfurnish to the investigating officer a translation in the national -\n\nlanguage or the English language of such computer output, data,\nbook or other document within such reasonable period as the\ninvestigating officer may specify, having regard to the length of\nthe computer output, data, book or other document, or other\ncircumstances relating to it.\n\n(2) No person shall knowingly furnish a translation under\nsubsection (1) which is not an accurate, faithful and true translation,\n\nor knowingly make a translation under that subsection which is not\n\naccurate, faithful and true.\n\n(3) Where the person required to furnish a translation under\nsubsection (1) is not the person who is suspected to have committed\nthe offence under investigation, the Bank shall pay him reasonable\nfees for the translation.\n\nPower to examine persons"
+   }
+  },
+  {
+   "id": "MY-H495-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "Section 49"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "49. (1) Where an investigating officer suspects any person to\nhave committed an offence under this Act, he may, if in his opinion\nit is reasonably necessary to do so for the purposes of an investigation\nInto such offence—\n\n(a) order any person orally or in writing to attend before him\nfor the purpose of being examined orally by the investigating\nofficer in relation to any matter which may, in the opinion\n\n‘of the investigating  officer,   assist in the investigation\ninto the offence;\n\n(b) order any person orally or in writing to produce before\nthe investigating officer property, apparatus, equipment,\nmachinery, computer, computer output, data, book or\nother document, or article, or thing which may, in the\nopinion of the investigating officer, assist in the\ninvestigation into the offence; or\n\n(c) by written notice require any person to furnish a statement\nin writing made on oath or affirmation setting out therein\nall such information which may be required under the\nwritten notice, being information which, in the opinion\nof the investigating officer, would be of assistance in the\ninvestigation into the offence.\n\nO\n\nO\n\nPa\nKJ\n\nPayments Systems                             43\n\n(2) A person to whom an order under paragraph (1)(a) or (b),\nor a written notice under paragraph (1)(c), has been given shall\ncomply with the terms of such order or written notice, as the case\nmay be, and, in particular—\n\n(a) a person to whom an order under paragraph (1)(a) has\n\n(b\n\n(c\n\n)\n\n—\n\nbeen given shall attend in accordance with the terms of\nthe order to be examined, and shall continue to so attend\nfrom day to day as directed by the investigating officer\nuntil the examination is completed, and shall during such\nexamination disclose all information which is within his\nknowledge, or which is available to him, or which is\ncapable of being obtained by him, in respect of the matter\nin relation to which he is being examined, whether or not\nany question is put to him with regard thereto, and where\nany question is put to him he shall answer the question\ntruthfully and to the best of his knowledge and belief,\nand shall not refuse to answer any question on the ground\nthat it tends to incriminate him or his spouse;\n\na person to whom an order has been given under paragraph\n(1)(b) shall not conceal, hide, destroy, alter, remove from\nor send out of Malaysia, or deal with, expend, or dispose\nof, any property, apparatus, equipment, machinery,\ncomputer, computer output, data, book or other document,\narticle or thing specified in the order, or alter or deface\nany entry in any such computer output, data, book or\nother document, or cause such acts to be done, or assist\nor conspire to do such acts; and\n\na person to whom a notice has been given under paragraph\n(1)(c) shall, in his statement made on oath or affirmation,\nfurnish and disclose truthfully all information required\nunder the notice which is within his knowledge, or which\nis available to him, or which is capable of being obtained\nby him, and shall not fail to furnish or disclose the same\non the ground that it tends to incriminate him or his\nspouse.\n\n(3) A person to whom an order or a notice is given under\nsubsection (1) shall comply with such notice or order and with the\nprovisions of subsection (2) in relation thereto, notwithstanding\nthe provisions of any written law, whether enacted before or after\nthe commencement of this Act, or of any oath, undertaking or\nrequirement of secrecy, to the contrary, or of any obligation under\nany contract, agreement or arrangement, whether express or implied,\nto the contrary.\n\n(4) Where any person discloses any information or produces\nany property, equipment, apparatus, machinery, computer data,\nbook or other document, article or thing, pursuant to subsections\n(1) and (2), neither the first-mentioned person, nor any other person\non whose behalf or direction or as whose agent or officer the\nfirst-mentioned person may be acting, shall, on account of such\ndisclosure or production, be liable to any prosecution for any\noffence under or by virtue of any law, or to any proceeding or\nclaim in any form or of any description by any person under or\nby virtue of any agreement or arrangement, or otherwise.\n\n(5) An investigating officer may seize, take possession of and\nretain for such duration as he deems necessary, any property,\napparatus, equipment, machinery, computer, computer output, data,\nbook or other document, or article or thing produced before him\nin the course of an investigation under subsection (1), or search\nthe person who is being examined by him under paragraph (1)(a),\nor who is producing anything to him under paragraph (1)(b), for\nascertaining whether anything relevant to the investigation is\nconcealed, or is otherwise upon such person.\n\n(6) An examination under paragraph (1)(a) shall be reduced\ninto writing by the investigating officer and shall be read to and\nsigned by the person being examined, and where such person\nrefuses to sign the record, the investigating officer shall endorse\nthereon under his hand the fact of such refusal and the reasons\nthereof, if any, stated by-the person examined.\n\n(7) The record of an examination under paragraph (1)(a), or a\nwritten statement on oath or affirmation made pursuant to paragraph\n(1)(c), or any property, apparatus, equipment, machinery, computer,\ncomputer output, data, book or other document, or article or thing\nproduced under paragraph (1)(b) or otherwise in the course of an\nexamination under paragraph (1)(a@) or under a written statement\non oath or affirmation made pursuant to paragraph (1)(c) shall,\nnotwithstanding any written law or rule of law to the contrary, be\nadmissible in evidence in any proceedings in any court—\n\n(a) for or in relation to an offence under this Act;\n(b) for or in relation to any other matter under this Act; or\n\n(c) for or in relation to any offence under any other written\nlaw,\n\nO\n\nPayments Systems                             45\n\nregardless whether such proceedings are against the person who\nwas examined, or who produced the property, apparatus, equipment,\nmachinery, computer, computer output, data, book, other document,\narticle or thing, or who made the written statement on oath or\naffirmation, or against any other person.\n\nSpecific persons in respect of whom powers of investigation\nmay be exercised"
+   }
+  },
+  {
+   "id": "MY-H495-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "Section 50"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "50. Without prejudice to the generality of other powers of\ninvestigation conferred on an investigating officer under this Part,\nsuch powers may be exercised by the investigating officer—\n\n(a) against—\n(i) any past or present business associate;\n(ii) any person who is or was a relative;\n(iii) any person who is or was a creditor;\n\n(iv) any person who is or was concerned with the\ncontrol or management, in whole or in part, of the\naffairs; or\n\n(v) any person who has or had an interest in the shares,\nor otherwise has or had an interest in the property,\n\nof the person suspected to have committed an offence\nunder this Act;\n\n(b) against any business associate or relative of a person\nreferred to in paragraph (a); or\n\n(c) against any body, corporate or unincorporate, in which\nany person referred to in paragraph (a) is a director or\nofficer or, where such body is a corporation, has an\ninterest in the shares of the corporation.\n\nSeizure of movable property in financial institution"
+   }
+  },
+  {
+   "id": "MY-H495-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "Section 51"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "51. (1) Where the Bank is satisfied on information given by an\ninvestigating officer that any movable property, including any\nmonetary instrument or any accretion to it, which is the subject\nmatter of an offence under this Act or evidence in relation to the\ncommission of such offence, is in the possession, custody or control\n\n46                             Laws of Malaysia                     Acr 627\n\nof a financial institution, the Bank may, notwithstanding any other\nlaw or rule of law, by order direct the financial institution not to\npart with, deal in, or otherwise dispose of such property or any\npart of it until the order is revoked or varied.\n\n(2) A financial institution or any agent or officer of a financial\ninstitution shall not, on account of complying with an order under\nsubsection (1), be liable to any prosecution under any law or to\nany proceedings or claim by any person under any law or under\nany contract, agreement, or arrangement, or otherwise.\n\n(3) Any person who fails to comply with an order under subsection\n(1) commits an offence.\n\n(4) In this section, \"monetary instrument\" includes the domestic\ncurrency or any foreign currency, travellers' cheque, personal cheque,\nbank cheque, money order, investment security or negotiable\ninstrument in bearer form or otherwise in such form that title to\nit passes upon delivery or upon delivery and endorsement.\n\nDealing with property after seizure to be void"
+   }
+  },
+  {
+   "id": "MY-H495-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "Section 52"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "52. (1) Where any property has been seized under this Act, and\nso long as such seizure remains in force, any dealing effected by\nany person or between.any persons in respect of such property,\nexcept any dealing effected under this Act or by virtue of this Act\nby or on behalf of the Government of Malaysia, or the Government\nof a State, or a local authority or other statutory authority, shall\nbe null and void, and shall not be registered or otherwise given\neffect to by any person or authority.\n\n(2) For so long as a seizure of any property under this Act\nremains in force, no action, suit or other proceeding of a civil\nnature shall be instituted, or if it is pending immediately before\nsuch seizure, be maintained or continued in any court or before\nany other authority in respect of the property which has been so\nseized, and no attachment, execution or other similar process shall\nbe commenced, or if any such process is pending immediately\nbefore such seizure, be maintained or continued, in respect of such\nproperty on account of any claim, judgement or decree, regardless\nwhether such claim was made, or such judgement or decree was\n\nPayments Systems                             47\n\ngiven, before or after such seizure was effected, except at the\ninstance of the Government of Malaysia or the Government of a\nState, or at the instance of a local authority or other statutory\nauthority, or except with the prior consent in writing of the Public\nProsecutor.\n\nValidity of seizure"
+   }
+  },
+  {
+   "id": "MY-H495-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "Section 53"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "53. Where the seizure of any property has been effected under\nthis Act, the validity of such seizure, or other form of disposal of\nsuch property, or of any destruction of the property in accordance\nwith the provisions of this Act, in consequence of such seizure,\nshall not be affected by any objection to it relating to the manner\nin which the seizure was effected, or the place at which it was\neffected, or the person from whom it was effected, or the person\nto whom any notice of the seizure was given, or omitted to be\ngiven, or any failure to conform to any procedural provision of this\nAct or of any other written law in effecting the seizure.\n\nAssistance to police or other public officer"
+   }
+  },
+  {
+   "id": "MY-H495-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "Section 54"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "54. The Bank may at its own initiative, or on the request of a\npublic officer—\n\n(a) supply to a police officer or any other public officer a\ncopy of any book, computer output, data, or other document\nseized, detained or taken possession of under section 45\nor 46, or of any record of examination under paragraph\n49(1)(a), or of any written statement on oath or affirmation\nmade under paragraph 49(1)(c) or of any book or other\ndocument produced under paragraph 49(1)(d), or otherwise\nin the course of any examination under paragraph 49(1)(a),\nor under any written statement on oath or affirmation\nmade pursuant to paragraph 49(1)(c), and such police\nofficer or other public officer may make such use of such\ncopy of such record, statement, book or other document\nas may be necessary or expedient in relation to the exercise\nof his powers, the performance of his functions, or the\ndischarge of his duties, in respect of any person; or\n\n(b) allow a police officer or any other public officer to have\naccess to and inspect any property, apparatus, equipment,\nmachinery, computer, computer output, data, book, other\n\n48                            Laws of Malaysia                   . Act 627\n\ndocument, article or thing which had been produced before,\nor seized, detained or taken possession of, by an\ninvestigating officer under this Part, and such police or\nother public officer may make such use of any knowledge\ngained by such access or inspection as may be necessary\nor expedient in relation to the exercise of his powers, the\nperformance of his functions, or the discharge of his\nduties, in respect of any person.\n\nInvestigating officer deemed to be public servant and public\nofficer"
+   }
+  },
+  {
+   "id": "MY-H495-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "Section 55"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "55. An investigating officer shall be deemed to be a public servant\nfor the purposes of the Penal Code [Act 574], and to be a public\nofficer for the purposes of the Criminal Procedure Code or any\nother written law which the Bank may prescribe.\n\nPart VI\nOFFENCES\nOffences and penalties"
+   }
+  },
+  {
+   "id": "MY-H495-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "Section 56"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "56. (1) Any person who fails to comply with or contravenes any\nrequirement or prohibition imposed upon him by any of the provisions\nof this Act, any specification or requirement made, or any order,\ndirective or notice given, or any limit, term, condition or restriction\nimposed, in the exercise of any power conferred under, pursuant\nto, or by virtue of any of the provisions of this Act set out in the\nsecond column of the Schedule commits an offence under such\nprovision and shall on conviction be liable to a fine not exceeding\nthe amount set out in the third column of the Schedule or to\nimprisonment not exceeding the term set out in the fourth column\nof the Schedule, or to both, and in the case of a continuing offence,\nshall in addition, be liable to a daily fine not exceeding the amount\nset out in the fifth column of the Schedule for every day during\nwhich the offence continues.\n\n(2) Notwithstanding subsection (1), if the person convicted of\nan offence under this Act is a body corporate, the punishment of\nimprisonment set out in the fourth column of the Schedule shall\nnot apply to it.\n\nO\n\nC)\n\nPayments Systems                             49\n\nGeneral penalty"
+   }
+  },
+  {
+   "id": "MY-H495-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "Section 57"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "57. Any person who fails to comply with or contravenes any\nrequirement or prohibition imposed upon him by any of the provisions\nof this Act or any specification or requirement made, or any order,\ndirective or notice given, or any limit, term, condition or restriction\nimposed in the exercise of any power conferred under, pursuant\nto, or by virtue of any of the provisions of this Act not specified\nin the Schedule, commits an offence under such provision, and if\nno penalty is expressly provided for the offence in this Act, shall\non conviction be liable to a fine not exceeding five hundred thousand\nringgit, and in the case of a continuing offence, shall, in addition,\nbe liable to a daily fine not exceeding one thousand ringgit for\nevery day during which the offence continues.\n\nOffences by body corporate and by servants and agents"
+   }
+  },
+  {
+   "id": "MY-H495-A58",
+   "no": 58,
+   "noLabel": {
+    "en": "Section 58"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "58. (1) Where any offence against any provision of this Act has\nbeen committed by any body corporate or association of persons,\nany person who at the time of the commission of the offence was\na director or officer of the body corporate or association of persons\nor was purporting to act in any such capacity, or was in any\nmanner or to any extent responsible for the management of any\nof the affairs of such body corporate or association of persons, or\nwas assisting in such management, shall be guilty of that offence\nunless he proves that the offence was committed without his consent\nor connivance and that he exercised all such diligence to prevent\nthe commission of the offence as he ought to have exercised,\nhaving regard to the nature of his functions in that capacity and\nto all the circumstances.\n\n(2) Where any person, in this subsection referred to as the\n\"principal\", would be liable under this Act to any punishment or\npenalty for any act, omission, neglect or default, he shall be liable\nto the same punishment or penalty for every such act, omission,\nneglect or default of any clerk, servant or agent of his, or of the\nclerk or servant of such agent if such act, omission, neglect or\ndefault was committed by the principal's clerk or servant in the\ncourse of his employment, or by the agent when acting on behalf\nof the principal, or by the clerk or servant of such agent in the\ncourse of his employment by such agent or otherwise on behalf\nof the agent.\n\nJoinder of offences"
+   }
+  },
+  {
+   "id": "MY-H495-A59",
+   "no": 59,
+   "noLabel": {
+    "en": "Section 59"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "59. Notwithstanding anything contained in any other written law,\nwhere a person is accused of more than one offence under this Act,\nhe may be charged with and tried at one trial for any number of\nsuch offences committed within any length of time.\n\n~ Power to compound offences ."
+   }
+  },
+  {
+   "id": "MY-H495-A60",
+   "no": 60,
+   "noLabel": {
+    "en": "Section 60"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "60. (1) The Governor may with the consent in writing of the:\n\n. Public Prosecutor, offer to compound any offence under any provision\nof this Act or under regulations made under this Act by accepting\nfrom the person reasonably suspected of having committed the\noffence such amount not exceeding fifty per centum of the amount\nof the maximum fine, including the daily fine, if any, in the case\nof a continuing offence, to which that person would have been\nliable if he had been convicted of the offence, within such time\nas may be specified in the offer.\n\n(2) An offer under subsection (1) may be made at any time after\nthe offence has been committed and where the amount specified\nin the offer is not paid within the time specified in the offer, or\nsuch extended time as the Governor may grant, prosecution for the\noffence may be instituted at any time after that against the person\nto whom the offer was made.\n\n(3) Upon receipt of the amount under subsection (1), no\nprosecution shall be instituted in respect of the offence against the\nperson to whom the offer to compound was made.\n\nPower to impose administrative penalty"
+   }
+  },
+  {
+   "id": "MY-H495-A61",
+   "no": 61,
+   "noLabel": {
+    "en": "Section 61"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "61. (1) The Bank may, by regulations issued under section 69,\nimpose administrative penalties on any person for any delay in\ncomplying with any directive, guideline, standard, circulars,\nspecification, order or notice issued by the Bank in respect of any\nprovision of this Act.\n\n(2) The Bank shall, before making a decision to impose any\nadministrative penalty on a person, serve on him a written notice\ncalling on him to show cause why the administrative penalty should\nnot be imposed on him.\n\nPayments Systems                                   51\n\n(3) If a satisfactory explanation is not received within fourteen\ndays from the date of the written notice, the Bank may impose an\nadministrative penalty in an amount not exceeding five hundred\nringgit for each day of non-compliance and such amount shall not\nin total exceed the sum of five thousand ringgit.\n\nOffences to be seizable offences"
+   }
+  },
+  {
+   "id": "MY-H495-A62",
+   "no": 62,
+   "noLabel": {
+    "en": "Section 62"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "62. Every offence under the Act shall be a seizable offence, and\na police officer not below the rank of Inspector, or an investigating\n\n_ officer appointed under section 43, may arrest without warrant any\n\nperson whom he reasonably suspects to have committed or to be\ncommitting any such offence.\n\nDuty of investigating officer to make over arrested person to\npolice"
+   }
+  },
+  {
+   "id": "MY-H495-A63",
+   "no": 63,
+   "noLabel": {
+    "en": "Section 63"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "63. An investigating officer appointed under section 43 making\nan arrest under section 62 shall without unnecessary delay make\nover the person so arrested to the nearest police officer or, in the\nabsence of a police officer, take such person to the nearest police\nstation, and thereafter the person arrested shall be dealt with as\nprovided for by the law relating to criminal procedure for the time\nbeing in force as if he had been arrested by a police officer.\n\nAttempts, preparations, abetments and conspiracies punishable\nas offences"
+   }
+  },
+  {
+   "id": "MY-H495-A64",
+   "no": 64,
+   "noLabel": {
+    "en": "Section 64"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "64. (1) Any person who—\n\n(a) attempts to commit any offence under this Act;\n\n(b) does any act preparatory to or in furtherance of the\ncommission of any offence under this Act; or\n\n(c) abets or is engaged in a criminal conspiracy to commit,\nas those terms are defined in the Penal Code, any offence\nunder this Act, whether or not the offence is committed\nin consequence thereof,\n\nshall be guilty of such offence and shall be liable to the penalty\nprovided for such offence.\n\n(2) Any provision of this Act which contains a reference to any\noffence under any specific provision of this Act shall be read as\nincluding a reference to an offence under subsection (1) in relation\nto the offence under that specific provision.\n\nPart VII\nMISCELLANEOUS\nDuty to submit accurate information"
+   }
+  },
+  {
+   "id": "MY-H495-A65",
+   "no": 65,
+   "noLabel": {
+    "en": "Section 65"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "65. Where under any provision of this Act power is given to the\nBank to require any person, or where any person is required under\nany provision of this Act, to submit to the Bank any information,\nstatistics, return or document—\n\n(a) the Bank may specify that such information, statistics,\nreturn or document shall be submitted within such period,\nat such intervals, in such manner, in such form, and in\nwriting or by means of any visual recording, whether of\nstill or moving images, or any sound recording, or any\nelectronic, magnetic, mechanical, or other recording, on\nany substance, material, thing or article, as the Bank may\nset out in the specification; and\n\n(b) such person shall not submit, produce or provide any\ninformation, statement, statistics, return or document which\nhe knows, or has reason to believe, to be false or misleading.\n\nAppeal against a decision of the Bank"
+   }
+  },
+  {
+   "id": "MY-H495-A66",
+   "no": 66,
+   "noLabel": {
+    "en": "Section 66"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "66. (1) If any person disagrees with any decision by the Bank in\nrelation to subsection 5(4), 8(1), 23(1), 26(1), 32(1), 33(1) or\n61(1), such person may within twenty-one days, or within such\nextended period of time as the Bank may allow, appeal in writing\nagainst the decision of the Bank to the Minister whose decision\nshall be final.\n\n(2) Every appeal under subsection (1) shall be submitted to the\nBank and the Bank shall forward the written appeal to the Minister\ntogether with the Bank's recommendation.\n\nPayments Systems                             53\n\n(3) If within the period specified in subsection (1) the person\n\nappeals to the Minister, the decision of the Bank shall not take\n\nC)                 effect unless the Minister confirms the decision or, for any reason,\ndismisses the appeal, or the appeal is withdrawn.\n\nExemptions\n\n©            67. The Bank may, if it is consistent with the purposes of this\nAct, by order published in the Gazette, exempt any particular\nperson or any class, category or description of persons, from all\nor any of the provisions of this Act, for such duration, and subject\nto such condition, as the Bank may specify in the order.\n\nMoneys received by the Bank"
+   }
+  },
+  {
+   "id": "MY-H495-A68",
+   "no": 68,
+   "noLabel": {
+    "en": "Section 68"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "68. All moneys received by the Bank pursuant to this Act including\nfees collected under subsection 5(3) and paragraph 25(1)(b), moneys\ncollected for the compounding of an offence under section 60 and\nadministrative penalties under section 61 shall form part of the\nfunds of the Bank.\n\nRegulations"
+   }
+  },
+  {
+   "id": "MY-H495-A69",
+   "no": 69,
+   "noLabel": {
+    "en": "Section 69"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "69. (1) The Bank may, with the approval of the Minister, make\nsuch regulations as may be—\n\n(a) required or permitted by this Act to be prescribed by\nregulations;\n\n(b) necessary or expedient for—\n(i) giving full effect to the provisions of this Act;\n\n(ii) carrying out or achieving the objects and purposes\nC)                          of this Act; or\n\n(iii) the further, better or more convenient\nimplementation of the provisions of this Act.\n\n(2) Without prejudice to the generality of subsection (1),.\nC)           regulations may be made—\n\n(a) to provide that any act or omission in contravention of\nany provision of such regulations shall be an offence;\n\n(b) to provide for the imposition of penalties for such offences\nwhich shall not exceed a fine of one million ringgit or\nimprisonment for a term not exceeding one year or both;\n\n(c) to provide for the imposition of an additional penalty for\na continuing offence which shall not exceed one thousand\nringgit for each day that the offence continues after\nconviction.\n\n(3) Notwithstanding anything contained in any—\n\n(a) approval, directive, acknowledgement, notice, standard\nor guideline issued under this Act; or\n\n(b) rules and procedures governing a payment system or\npayment instrument,\n\nevery operator or issuer shall comply with any regulations made\nunder subsection (1) and where there is any conflict or inconsistency\nbetween anything contained in paragraph (a) or (b) and the regulations,\nthe provisions of the regulations shall prevail and have full force\nand effect.\n\nPower to issue guidelines, etc.\n\n‘70. The Bank may, generally in respect of this Act, or in respect\nof any particular provision of this Act, or generally in respect of\nthe conduct of all or any of the operators of payment systems or\nissuers of payment instruments, issue such guidelines, circulars,\nstandards or notices as the Bank may consider desirable.\n\nContravention not to affect contract, agreement or arrangement"
+   }
+  },
+  {
+   "id": "MY-H495-A71",
+   "no": 71,
+   "noLabel": {
+    "en": "Section 71"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "71. (1) Except as otherwise provided in this Act, or in pursuance\nof any provision of this Act, no contract, agreement or arrangement\nentered into in contravention of any provision of this Act shall be\nvoid solely by reason of such contravention.\n\n(2) Subsection (1) shall not affect any criminal liability of any\nperson for an offence under this Act in respect of such contravention.\n\nPayments Systems                                          55\n\nIndemnity"
+   }
+  },
+  {
+   "id": "MY-H495-A72",
+   "no": 72,
+   "noLabel": {
+    "en": "Section 72"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "72. No action, suit, prosecution or other proceedings shall lie or\nbe brought, instituted or maintained in any court or before any\nauthority against the Minister or the Bank or any of its directors\nand officers, or any person acting on its behalf, either personally\nor in his official capacity, for, on account of, or in respect of an\nact done or statement made, or omitted to be done or made, or\npurporting to be done or made, or omitted to be done or made, in\npursuance of or in execution of, or intended pursuance or execution\nof, this Act or any order, directive, instruction or other thing\nissued under this Act if such act or statement was done or made,\nor was omitted to be done or made, in good faith.\n\nSecrecy"
+   }
+  },
+  {
+   "id": "MY-H495-A73",
+   "no": 73,
+   "noLabel": {
+    "en": "Section 73"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "73. (1) No director or officer of any operator or issuer, whether\nduring his tenure of office, or during his employment, or thereafter,\nshall give, produce, divulge, reveal, publish or otherwise disclose'\nto any person, or make a record for any person of, any information\nor document relating to the affairs or account of any participant\nof a payment system or user of a payment instrument.\n\n(2) No person who for any reason, has by any means access to\nany record, book, register, correspondence, or other document, or\nmaterial, relating to the affairs or, in particular, the account, of any\nparticular operator of a designated payment system, participant of\na payment system or user of a payment instrument, shall give,\nproduce, divulge, reveal, publish or otherwise disclose to any\nperson, or make a record for any person of, any information or\ndocument relating to the affairs or account of such operator of a\ndesignated payment system, participant of a payment system or\nuser of the payment instrument.\n\n(3) No person who has any information or document which to\nhis knowledge has been disclosed in contravention of subsections\n(2) or (3) shall in any manner disclose the information or document\nto any other person.\n\nDisclosures to the Bank and persons appointed by the Bank"
+   }
+  },
+  {
+   "id": "MY-H495-A74",
+   "no": 74,
+   "noLabel": {
+    "en": "Section 74"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "74. (1) The provisions of section 73 shall not apply to the disclosure\nof any information or document—\n\n(a) to the Bank, as is required for the purposes of the credit\nbureau established under paragraph 30(1)(mmm) of the\nCentral Bank of Malaysia Act 1958;\n\n(b) to the Bank, or to any director or officer of the Bank, or\nto any person appointed by the Bank under subsection\n4(3) where the disclosure is for the purpose of the exercise\nof powers, the performance of functions or the discharge\nof duties of the Bank, or of the director or officer of the\nBank, or of the person appointed under subsection 4(3);\n\n(c) to any person rendering professional services to the Bank\nin relation to any matter of law, accountancy, valuation,\nor any other matter requiring professional knowledge,\nwhere he is authorized in writing by the Bank to obtain\nthe information from the operator or issuer for the purpose\nof his services to the Bank.\n\n(2) Where the Bank, in the course of the exercise of any of its\npowers, or the performance of any of its functions, or the discharge\nof any of its duties under this Act or under any other written law,\nsuspects any person to have committed any offence under this Act\nor any other written law, it shall be lawful for the Bank to give\ninformation of such commission to any police officer or to convey\nany or all information in relation to such offence to any authority\nor person having power to investigate under, or enforce, the provision\nof the law under which the offence is suspected by the Bank to\nhave been committed.\n\n(3) Subsection (2) shall have full force and effect, notwithstanding\nanything inconsistent therewith, or contrary thereto, in this Act or\nin any other written law.\n\nOther permitted disclosure"
+   }
+  },
+  {
+   "id": "MY-H495-A75",
+   "no": 75,
+   "noLabel": {
+    "en": "Section 75"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "75. The provisions of section 73 shall not apply to the disclosure\nof any information or document—\n\n(a) which at the time of the disclosure is, or has already been\nmade, lawfully available to the public from any source\nother than the operator or issuer;\n\nO\n\nPayments Systems                             57\n\n(b) which is in the form of a summary, consolidation, aggregate\nor collection of information set out in such manner as\ndoes not enable information relating to any particular\nparticipant or any particular user of a payment instrument\nto be ascertained from it;\n\nc) which the customer, or his personal representative, has\n-         -.  -.    .     .,.  Pp    .     Pp\ngiven permission in writing to disclose;\n\n(d) where such disclosure is required or authorized under\nany other provision of this Act;\n\n(e) where such disclosure is authorized in writing by the\nBank; or\n\n(f) where such disclosure is required or authorized by any\ncourt or under any written law.\n\nApplication of the Exchange Control Act 1953"
+   }
+  },
+  {
+   "id": "MY-H495-A76",
+   "no": 76,
+   "noLabel": {
+    "en": "Section 76"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "76. Nothing contained in this Act shall in any manner affect, or.\nderogate from, the provisions of the Exchange Control Act 1953,\nand in the application of any provision of this Act to any person,\nsuch provision shall apply subject to the provisions of that Act\nand, accordingly, in the event of any conflict or inconsistency\nbetween any provision of this Act and that Act, the provisions of\nthat Act shall prevail.\n\nSavings"
+   }
+  },
+  {
+   "id": "MY-H495-A77",
+   "no": 77,
+   "noLabel": {
+    "en": "Section 77"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "77. (1) An issuer of a designated payment instrument who has\nobtained approval under paragraph 19(1)(b) of the Banking and\nFinancial Institutions Act 1989 shall be deemed to have obtained\napproval under subsection 24(1) in respect of the issuance of that\ndesignated payment instrument.\n\n(2) Any designated payment instrument issued pursuant to an\napproval under subsection 119(1) of the Banking and Financial\nInstitutions Act 1989 shall be deemed to have been approved\nunder subsection 24(1).\n\n(3) An operator of a payment system who has obtained approval\nunder subsection 119(1) of the Banking and Financial Institutions\nAct 1989 shall be deemed to have complied with the requirements\nand received the notification under subsection 4(1).\n\n58                         Laws of Malaysia                  AcT 627 '\n\n(4) Every guideline and circular issued by the Bank under section\n126 of the Banking and Financial Institutions Act 1989 in relation\nto paragraph 19(1)(b) and subsection 119(1) of the Banking and\nFinancial Institutions Act 1989 shall be deemed to have been\nlawfully issued under section 70 of this Act in relation to the\nparticular provisions of this Act corresponding to the matter dealt\nwith in the guideline or circular and shall remain in full force and\neffect until it is amended, rescinded or replaced under this Act.\n\n©\n\nPayments Systems                             59\n\nSCHEDULE\n\n[Section 56 - Offences and Penalties]\nFirst          Second Column\n\nThird Column\nColumn\nProvision of this Act            Fine\nSeria          contravened or nol              RM\nNo            complied with\n\n.     Subsection 5(1)  5 years\n\n.     Subsection 5(4)  5 years\nSubsection 9(2)  3 years\n\nFourth Column\n\nFifth Column\n\nDaily Fine\nRM\n\nimprisonment\n\n—\n\nN\n\ni                 | -\n\nSubsection 10(2)  3 years    | |\nubsection 10(3)  3 years    | — |\nSection 12  3 years\nection 13  3 years -\nSection 14  3 years\nSubsection 15(1) | 1 million | _1 year\nParagraph 15(3)(a)  3 years\nParagraph 15(3)(b)  3 years      3 thousand\nSection 22          | 1 million | 1 year\n\n13.     Subsection 23(1)  5 years\n\n(ep)\n\noO\n\n—-\n\n—_— | — |\nS    I] ajay Ale\n(do)\n\n(ep)\n\nubsection 24(2)   5 years\nubsection 25(1)  5 years\nection 27   3 years\nection 28       :  3 years\n\n. | Subsection 29(1) | 1milion | 1 year\nParagraph 29(3)(a)   3 years\nParagraph 29(3)(b)  3 years\n\n\"\"\n\n—\nin\n\n— fa\nmyo\ni\n\n—\noo\n\n2,\n\nNININI —\n\nn\n\nubsection 33(3)  5 years\nection 36          | 1 million |   1 year\nSubsection 37(1)\nSection 47   3 years\n8.     Subsection 49(2)   3 years\nParagraph 65(a)  1 year\nParagraph 65(b)   3 years\n\nNIN INI N\n\nN\n\nWIN\no| oO\n\nLAWS OF MALAYSIA\n\nAct 627\n\nPAYMENT SYSTEMS ACT 2003\n\nLIST OF AMENDMENTS\n\nAmending law                     Short title                  In force from\n\n— NIL —\n\n©\n\nOQ\n\nLAWS OF MALAYSIA\n\nAct 627\n\nPAYMENT SYSTEMS ACT 2003\n\nLIST OF SECTIONS AMENDED\n\nSection               Amending authority               In force from\n\n— NIL —\n\nDICETAK OLEH\n\nWa  PERCETAKAN NASIONAL MALAYSIA BERHAD,\nKUALA LUMPUR\n\nPNMB BAGI PIHAK DAN DENGAN PERINTAH KERAJAAN MALAYSIA\n\nNN\n)\n()"
+   }
+  }
+ ]
+}

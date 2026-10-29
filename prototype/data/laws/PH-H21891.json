@@ -1,0 +1,72 @@
+{
+ "id": "PH-H21891",
+ "title": {
+  "zh": null,
+  "en": "Amending Further Presidential Decree No. 412 Providing for the Disposition, Development and Utilization of Guano Deposits for Fertilizer Purposes",
+  "orig": "Amending Further Presidential Decree No. 412 Providing for the Disposition, Development and Utilization of Guano Deposits for Fertilizer Purposes"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p159",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1974-05-14",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 455",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 899,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_00455_1974_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_00455_1974_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H21891-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section 11 of Presidential Decree No. 412 providing for the disposition, development and\nutilization of guano deposits for fertilizer purposes is hereby amended to read as follows:\n\"Sec. 11. Fees. The permit fee for gratuitous and commercial permits shall be determined and fixed by the\nDirector of Mines but the same shall not be more than two centavos (P0.02) per kilo of guano removed. Fifty\nper centum (50%) of such fee shall accrue to the province and fifty per centum (50%) to the municipality from\nwhere the guano is extracted: Provided, That in case of cities the whole amount shall accrue to the city"
+   }
+  },
+  {
+   "id": "PH-H21891-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "All laws, decrees, orders, rules and regulations or part hereof inconsistent with this Decree are\nhereby repealed or modified accordingly."
+   }
+  },
+  {
+   "id": "PH-H21891-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Decree shall take effect immediately.\nDone in the City of Manila, this 14th day of May, in the year of Our Lord, nineteen hundred and seventy-four."
+   }
+  }
+ ]
+}

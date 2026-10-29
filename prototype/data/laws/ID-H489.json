@@ -1,0 +1,462 @@
+{
+ "id": "ID-H489",
+ "title": {
+  "zh": "职业培训法",
+  "en": "Law on Job Training",
+  "id": "LATIHAN KERJA",
+  "orig": "LATIHAN KERJA",
+  "vi": "Luật về Đào tạo Nghề",
+  "th": "พระราชบัญญัติว่าด้วยการฝึกอาชีพ",
+  "ms": "Akta tentang Latihan Kerja"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02a",
+ "language": "id",
+ "level": "law",
+ "category": "04_劳工与行政法",
+ "status": "active",
+ "promulgatedDate": "1991",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU71-1991",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 30,
+ "chars": 34181,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PP%20NO%2071%20TH%201991.pdf&fl=P03697"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\04_劳工与行政法\\印尼_文本_1991_LATIHAN KERJA.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 30 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H489-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\n\nDalam Peraturan Pemerintah ini yang dimaksud dengan:\n1. Latihan Kerja adalah keseluruhan kegiatan untuk memberikan,\nmemperoleh, meningkatkan serta mengembangkan keterampilan,\nproduktivitas, disiplin, sikap ke rja dan etos kerja pada tingkat\nketerampilan tertentu berdasarkan persyaratan jabatan tertentu\nyang pelaksanaannya lebih mengutamakan praktek daripada teori.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n2. Program latihan kerja adalah pernyataan tertulis yang memuat\ntentang tujuan dan cara-cara untuk mencapai tujuan secara\nsistematis yang disusun menurut bidang kejuruan, jenjang dan atau\ntingkat, standar latihan, metode, peserta, instruktur, sarana,\npembiayaan, sertifikasi dan lisensi kerja.\n3. Metode latihan kerja adalah cara penyajian pengetahuan,\nketerampilan dan sikap kerja kepada peserta oleh instruktur dengan\nmenggunakan sarana yang tersedia.\n4. Sertifikasi latihan kerja adalah suatu proses pemberian sertifikat\nbagi seseorang yang telah lulus ujian akhir latihan kerja.\n5. Sertifikasi keterampilan adalah suatu proses pemberian sertifikat\nmelalui suatu pengujian yang didasarkan pada standar kualifikasi\nketerampilan dan atau jabatan pekerjaan yang berlaku.\n6. Lisensi adalah surat keterangan yang diberikan kepada seseorang\nyang telah memiliki sertifikat keterampilan kerja tertentu yang\ndinyatakan berhak untuk melakukan kegiatan pekerjaan\ndibidangnya, yang mengandung resiko bahaya baik bagi tenaga\nkerja yang bersangkutan maupun lingkungan.\n7. Akreditasi adalah penetapan status melalui penilaian terhadap\nlembaga penyelenggara latihan kerja yang dilakukan melalui\npenilaian berdasarkan standar yang telah ditetapkan  bagi setiap\nkejuruan dan jenjang atau tingkat latihan kerja.\n8. Etos kerja adalah jiwa dan semang at kerja yang didasari oleh cara\npandang yang menilai pekerjaan sebagai pengabdian terhadap diri\nsendiri, masyarakat dan Tuhan Yang Maha Esa.\n9. Tenaga kerja adalah tiap orang yang mampu melakukan pekerjaan\nbaik di dalam maupun di luar hub ungan kerja guna menghasilkan\njasa atau barang dengan menggunakan keterampilan tertentu untuk\nmemenuhi kebutuhan masyarakat.\n10.Kualifikasi keterampilan adalah uraian keterampilan yang baku\nberdasarkan analisis suatu jabatan yang harus dikuasai oleh\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nseseorang tenaga kerja untuk mampu melaksanakan tugasnya\nsecara efisien dan efektif.\n11.Instruktur latihan kerja adalah seseorang yang memiliki kualifikasi\nketerampilan dan keahlian tertentu untuk memberikan latihan kerja\nbidang dan atau kejuruan tertentu.\n12.Lembaga latihan kerja adalah suatu badan, organisasi, instansi atau\nlembaga yang menyelenggarakan latihan kerja bagi angkatan kerja\ndan memenuhi persyaratan yang ditetapkan.\n13.Menteri adalah Menteri yang bertanggung jawab di bidang\nketenagakerjaan.\n\nBAB II\nDASAR DAN TUJUAN LATIHAN KERJA"
+   }
+  },
+  {
+   "id": "ID-H489-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\n\nLatihan kerja disusun dan dilaksanakan secara bertahap, berjenjang,\nberkesinambungan dan sistematis sepanjang karier tenaga kerja sesuai\ndengan perkembangan pasar kerja, persyaratan jabatan dan teknologi."
+   }
+  },
+  {
+   "id": "ID-H489-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\n\nLatihan kerja bertujuan untuk memberikan, memperoleh dan\nmeningkatkan serta mengembangkan pengetahuan, keterampilan,\ndisiplin, sikap kerja dan etos kerja berdasarkan persyaratan jabatan\ntertentu yang pelaksanaannya lebih mengutamakan praktek dari pada\nteori.\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nBAB III\nSTANDAR LATIHAN KERJA DAN KUALIFIKASI KETERAMPILAN KERJA"
+   }
+  },
+  {
+   "id": "ID-H489-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\n\n(1) Standar latihan kerja merupakan bagian dari program latihan\nkerja disusun mengacu pada standar kualifikasi keterampilan.\n(2) Latihan kerja digolongkan dala m 3 (tiga) bidang, yaitu bidang\ntehnik, bidang managerial dan bidang kewirausahaan.\n(3) Setiap bidang latihan kerja dibagi dalam kejuruan dan sub\nkejuruan latihan.\n(4) Setiap kejuruan atau sub kejuruan latihan dapat dibagi dalam\njenjang dan tingkat latihan kerja sesuai dengan klasifikasi\njabatan.\n(5) Kejuruan, jenjang, tingkat latihan kerja dan klasifikasi jabatan\nsebagaimana dimaksud ayat (3) da n (4) diatur lebih lanjut oleh\nMenteri."
+   }
+  },
+  {
+   "id": "ID-H489-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\n\n(1) Kualifikasi keterampilan kerja dapat ditetapkan untuk setiap\njenjang dan tingkat keterampilan kerja guna membina mutu\nketerampilan kerja sesuai dengan kebutuhan jabatan kerja.\n(2) Kualifikasi keterampilan kerja merupakan tolok ukur kemampuan\nkerja bagi pengembangan dan peningkatan pengetahuan,\nketerampilan, disiplin dan etos kerja tenaga kerja sesuai dengan\njenjang dan tingkat persyaratan jabatan kerja.\n(3) Kualifikasi keterampilan kerja dapat digolongkan dalam tiga\ntingkat yaitu kelas III, kelas II dan kelas I dengan tetap\nmemperhatikan perkembangan teknologi.\n(4) Kualifikasi keterampilan kerja sebagaimana dimaksud dalam ayat\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n(3) diatur lebih lanjut oleh Menteri."
+   }
+  },
+  {
+   "id": "ID-H489-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\n\n(1) Metode latihan kerja lebih mengutamakan praktek dari pada\nteori.\n(2) Penyelenggaraan latihan kerja dapat dilakukan untuk perorangan\natau kelompok, dengan pelaksanaan di lembaga latihan kerja,\nlatihan keliling, tempat kerja, permagangan dan di tempat lain\nyang memenuhi persyaratan akreditasi."
+   }
+  },
+  {
+   "id": "ID-H489-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\n\n(1) Peserta latihan kerja adalah masyarakat, pencari kerja, calon\npekerja, pekerja, maupun pekerja yang lepas dari pekerjaannya.\n(2) Peserta latihan kerja wajib memenuhi persyaratan.\n(3) Persyaratan peserta dan metode latihan bagi peserta penyandang\ncacad diatur dan dilaksanakan tersendiri sesuai dengan tingkat\nkondisi mental dan atau fisik yang bersangkutan datam upaya\npemberian kesempatan kerja dan penempatan pada jabatan\nkerja yang sesuai.\n(4) Persyaratan sebagaimana dimaks ud dalam ayat (2) dan ayat (3)\ndiatur lebih lanjut oleh Menteri,"
+   }
+  },
+  {
+   "id": "ID-H489-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n\n(1) Instruktur latihan kerja harus memenuhi kualifikasi sesuai dengan\nkejuruan dan tingkat latihan kerja.\n(2) Kualifikasi Instruktur sebaga imana dimaksud dalam ayat (1)\ndiatur lebih lanjut oleh Menteri.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n(3) Tiap Instruktur latihan kerja dapat mendirikan dan atau menjadi\nanggota perserikatan instruktur latihan kerja."
+   }
+  },
+  {
+   "id": "ID-H489-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n\n(1) Penyelenggaraan latihan kerja dilaksanakan dengan\nmemperhatikan syarat dan sarana latihan kerja sesuai dengan\njenjang dan tingkat latihan kerja.\n(2) Syarat dan sarana latihan kerja sebagaimana dimaksud dalam\nayat (1) diatur oleh Menteri."
+   }
+  },
+  {
+   "id": "ID-H489-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\n\nDana penyelenggaraan latihan kerja dapat bersumber dari Pemerintah\ndan atau Swasta, peserta latihan, atau sumber dana lainnya."
+   }
+  },
+  {
+   "id": "ID-H489-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\n\n(1) Sertifikasi Latihan Kerja diberikan dalam bentuk Sertifikat\nLatihan Kerja dan Sertifikat Keterampilan.\n(2) Sertifikat Latihan Kerja diberikan kepada peserta melalui\npenilaian selama proses latihan kerja sesuai dengan jenjang dan\ntingkat latihan kerja.\n(3) Sertifikat Keterampilan diberikan kepada peserta melalui uji\nketerampilan sesuai dengan klasifikasi atau tingkat jabatan.\n(4) Uji keterampilan dapat diikuti oleh para lulusan sekolah,\ntamatan latihan kerja, maupun tenaga kerja yang berpengalaman\ndi bidang yang bersangkutan sesuai dengan persyaratan yang\nditetapkan oleh Menteri.\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H489-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n\n(1) Penyusunan kualifikasi keterampilan sebagaimana dimaksud\ndalam Pasal 5 serta materi uji keterampilan sebagaimana\ndimaksud dalam Pasal 11 ayat (4), didasarkan pada Standar\nKualifikasi Keterampilan.\n(2) Standar Kualifikasi Keterampilan disusun untuk setiap jenjang\ndan tingkat keterampilan sesuai dengan klasifikasi jabatan.\n(3) Standar Kualifikasi Keterampilan ditetapkan oleh Menteri."
+   }
+  },
+  {
+   "id": "ID-H489-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\n\n(1) Lisensi diberikan kepada tenaga kerja yang memiliki sertifikat\nketerampilan untuk jenjang dan tingkat keterampilan tertentu\nyang menyangkut jasa pelayanan, kesehatan dan keselamatan\ntenaga kerja, masyarakat dan lingkungan.\n(2) Jenis keterampilan dan jabatan yang memerlukan lisensi diatur\nlebih lanjut oleh Menteri.\n(3) Pemberian lisensi kerja diatur lebih lanjut oleh Menteri, setelah\nmendengar pertimbangan dari Menteri lain atau Pimpinan\nLembaga Pemerintah Non Departemen yang bersangkutan.\n\nBAB IV\nKELEMBAGAAN"
+   }
+  },
+  {
+   "id": "ID-H489-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\n\nLembaga latihan kerja baik Pemerintah maupun swasta meliputi\nlembaga penyelenggara, lembaga pembina, lembaga penasehat dan\nlembaga uji keterampilan.\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H489-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\n\n(1) Lembaga penyelenggara terdiri dari lembaga latihan kerja\nPemerintah dan lembaga latihan kerja swasta.\n(2) Lembaga latihan kerja swasta dapat berbentuk lembaga latihan\nkerja mandiri atau lembaga latihan kerja di perusahaan.\n(3) Lembaga penyelenggara berfungsi menyelenggarakan latihan\nkerja sesuai dengan program latihan kerja yang ditetapkan.\n(4) Tiap lembaga latihan kerja dapat mendirikan dan atau menjadi\nanggota perserikatan lembaga latihan kerja."
+   }
+  },
+  {
+   "id": "ID-H489-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\n\n(1) Lembaga pembina latihan kerja adalah Departemen yang\nbertanggung jawab di bidang ketenagakerjaan.\n(2) Lembaga pembina latihan kerja berfungsi membina program dan\nkelembagaan latihan kerja."
+   }
+  },
+  {
+   "id": "ID-H489-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\n\n(1) Lembaga penasihat latihan kerja dapat dibentuk oleh Menteri,\nyang keanggotaannya terdiri dari unsur Pemerintah,\npenyelenggara latihan kerja, pengguna hasil latihan kerja, ahli\nlatihan kerja dan perhimpunan profesi kerja yang terkait.\n(2) Lembaga penasehat berfungsi memberikan saran dan\npertimbangan baik diminta maupun tidak kepada Menteri."
+   }
+  },
+  {
+   "id": "ID-H489-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\n\n(1) Lembaga uji keterampilan dapat dibentuk oleh Menteri yang\nkeanggotaannya terdiri dari para ahli keterampilan yang\nbersangkutan baik dari unsur Pemerintah maupun Swasta sesuai\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\ndengan kebutuhan.\n(2) Lembaga uji keterampilan berfungsi menyiapkan dan\nmelaksanakan uji keterampilan.\n\nBAB V\nPERAN SERTA MASYARAKAT"
+   }
+  },
+  {
+   "id": "ID-H489-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\n\n(1) Masyarakat mempunyai kesempatan seluas-luasnya untuk\nberperan serta dalam setiap penyelenggaraan latihan kerja, yang\ndalam pelaksanaannya dapat dilakukan secara perorangan\nmaupun kelompok.\n(2) Peran serta masyarakat sebagaimana dimaksud dalam ayat (1)\ndilakukan dalam bentuk sumbangan pemikiran, penyediaan\nsarana, Instruktur, biaya dan informasi latihan kerja.\n\nBAB VI\nPEMBINAAN"
+   }
+  },
+  {
+   "id": "ID-H489-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\n\nRuang lingkup pembinaan latihan kerja meliputi pembinaan program\nlatihan kerja dan pembinaan lembaga penyelenggara latihan kerja."
+   }
+  },
+  {
+   "id": "ID-H489-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\n\n(1) Pembinaan program latihan kerja ditujukan kepada terpenuhinya\nsuatu program latihan kerja yang telah ditetapkan.\n(2) Pembinaan program latihan kerja meliputi perencanaan,\npengaturan, pengawasan dan pengendalian, serta\npengembangan.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n(3) Perencanaan latihan kerja dilakukan berdasarkan kebutuhan\npasar kerja, perkembangan ilmu dan teknologi, serta\nmemperhatikan tuntutan keterpaduan dalam pelaksanaannya.\n(4) Pengaturan latihan kerja dibuat untuk mendukung kelancaran,\nkejelasan, keserasian, kemudahan, dan keselamatan bagi setiap\npelaksanaan latihan kerja.\n(5) Pengawasan dan pengendalian latihan kerja ditujukan bagi\nkesesuaian antara perencanaan penyelenggaraan dan mutu\nlulusan latihan kerja sesuai dengan kebutuhan pasar kerja.\n(6) Pengembangan latihan kerja dilakukan melalui penyempurnaan\nprogram, penyelenggaraan dan pengendalian yang ditujukan\nuntuk terpenuhinya sasaran sesuai dengan kebutuhan pasar\nkerja, perkembangan ilmu dan teknologi serta keterpaduan\ndalam pelaksanaan."
+   }
+  },
+  {
+   "id": "ID-H489-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\n\n(1) Pembinaan lembaga penyelenggara latihan kerja meliputi\nperizinan, akreditasi dan pengawasan.\n(2) Perizinan lembaga penyelenggara latihan kerja mencakup\npengaturan pemberian izin pendirian lembaga dan\npenyelenggaraan serta pemantauan perkembangan pelaksanaan\nlatihan kerja.\n(3) Akreditasi lembaga penyelenggara latihan kerja mencakup\npenilaian lembaga penyelenggara latihan kerja berdasarkan\nstandar program yang ditetapkan untuk penentuan status\nlembaga yang bersangkutan.\n(4) Pengawasan penyelenggaraan latihan kerja dilakukan terhadap\npelaksanaan program latihan kerja yang dilakukan oleh lembaga\npenyelenggara baik secara langsung maupun tidak langsung.\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H489-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\n\n(1) Setiap lembaga penyclenggara latihan kerja wajib:\n a. mematuhi dan memenuhi ketentuan perizinan dari akreditasi\nsebagaimana dimaksud dalam Pasal 22;\n b. menyelenggarakan latihan kerja sesuai dengan program\nlatihan kerja yang telah ditetapkan;\n c. melaksanakan evaluasi dan penilaian atas kemajuan\nkemampuan peserta latihan secara periodik;\n d. melaporkan pelaksanaan seluruh kegiatan sebagaimana huruf\na, huruf b, dan huruf c kepada Menteri.\n(2) Ketentuan lebih lanjut mengenai perijinan, akreditasi dan\npenetapan program latihan kerja lembaga penyelenggara latihan\nkerja, diatur oleh Menteri.\n\nBAB VII\nINFORMASI LATIHAN KERJA"
+   }
+  },
+  {
+   "id": "ID-H489-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 24\n\nUntuk menyediakan informal latihan kerja secara lengkap, cepat,\ntepat dan terus menerus dalam rangka pembinaan dan\npenyelenggaraan latihan kerja ditetapkan sistem informal latihan\nkerja."
+   }
+  },
+  {
+   "id": "ID-H489-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\n\nInformasi latihan kerja meliputi informal tentang pembinaan latihan\nkerja, kelembagaan latihan kerja,  program latihan kerja dan hasil\nlatihan kerja.\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H489-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\n\nInformasi latihan kerja bersumber dari Pemerintah dan masyarakat\nyang berkaitan dengan latihan kerja."
+   }
+  },
+  {
+   "id": "ID-H489-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\n\nTatacara pengumpulan, pengolahan dan penyajian informal latihan\nkerja diatur lebih lanjut oleh Menteri.\n\nBAB VIII\nSANKSI"
+   }
+  },
+  {
+   "id": "ID-H489-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\n\n(1) Barangsiapa melanggar ketentuan sebagaimana dimaksud dalam\nPasal 23 ayat (1) huruf a dipidana berdasarkan ketentuan Pasal\n17 Undang-undang Nomor 14 Tahun 1969 tentang\nKetentuan-ketentuan Pokok Mengenai Tenaga Kerja.\n(2) Menteri berwenang mengambil tindakan administratif atas\npelanggaran Peraturan Pemerintah ini.\n\n\nBAB IX\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H489-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\n\nSemua ketentuan yang mengatur latihan kerja yang ada masih tetap\nberlaku sepanjang tidak bertentangan dan atau belum diganti\nberdasarkan Peraturan Pemerintah ini.\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nBAB X\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H489-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\n\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\n\nAgar setiap orang dapat mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan penempatannya\ndalam Lembaran Negara Republik Indonesia.\n\nDitetapkan di Jakarta\npada tanggal 28 Desember 1991\n\nPRESIDEN REPUBLIK INDONESIA\n\n     ttd\n\n           SOEHARTO\n\n\nDiundangkan di Jakarta\npada tanggal 28 Desember 1991\n\nMENTERI/SEKRETARIS NEGARA\n   REPUBLIK INDONESIA\n\n     ttd\n\n         MOERDIONO\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nPENJELASAN\nATAS\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nNOMOR 71 TAHUN 1991\nTENTANG\nLATIHAN KERJA\n\nI. UMUM\n\nPengaturan mengenai Latihan Kerja dalam Peraturan Pemerintah ini\ndidasarkan pada beberapa pertimbangan sebagai berikut :\n1. Sumber daya manusia adalah salah satu modal dasar pembangunan\nnasional. Jumlah sumber daya manusia Indonesia yang besar,\nmerupakan kekuatan yang efektif untuk mempercepat proses\npembangunan menuju ke arah tercapainya tujuan nasional. Namun,\nhal itu harus dilakukan melalui pengembangan sumber daya\nmanusia secara berdaya guna dan tepat guna. Dalam hubungan ini,\npengembangan sumber daya manusia dimaksud sebagai proses\ntransformasi potensi sumber daya manusia menjadi kekuatan\nefektif yang berkualitas tinggi. Diantaranya melalui pendidikan\nsekolah, latihan kerja, pengembangan di tempat kerja serta\nperbaikan gizi dan kesehatan. Keempat jalur pengembangan sumber\ndaya manusia tersebut saling terkait dan saling menunjang satu\nsama lain sebagai satu sistem untuk meningkatkan harkat,\nmartabat, mutu dan kemampuan sumber daya manusia.\n2. Dalam kaitannya dengan ketenagakerjaan, pengembangan sumber\ndaya manusia erat hubungannya dengan upaya mewujudkan amanat\nPasal 27 ayat (2) Undang-undang Dasar 1945 yang menggariskan\nbahwa \"Tiap warga negara berhak atas pekerjaan dan penghidupan\nyang layak bagi kemanusiaan\". Untuk hidup layak harus didukung\ndengan penghasilan yang memadai, harus bekerja secara produktif\ndengan mutu dan kemampuan kerja secara produktif, dengan mutu\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\ndan kemampuan kerja yang tinggi. Oleh karenanya, Undang-undang\nNomor 14 Tahun 1969, menegaskan perlunya pembinaan keahlian\ndan kejuruan tenaga kerja, yaitu melalui latihan kerja.\n3. Latihan kerja adalah suplemen dan sekaligus komplemen pendidikan\nsekolah. sebagai suplemen, latihan kerja memberikan pengetahuan,\nkeahlian, dan keterampilan yang tidak diberikan oleh pendidikan\nsekolah. Sebagai komplemen, latihan kerja memberikan\nketerampilan sebagai tambahan dan kelengkapan pendidikan\nsekolah untuk memenuhi persyaratan kerja. Dalam kaitannya\ndengan pengisian jabatan, pendidikan sekolah pada dasarnya belum\nmerupakan terminal akhir, akan tetapi baru merupakan terminal\nantara yang perlu dilengkapi oleh latihan kerja. Latihan kerja\nadalah keseluruhan kegiatan untuk memberikan, memperoleh,\nmeningkatkan dan mengembangkan pengetahuan, keterampilan,\ndisiplin, sikap kerja dan etos kerja dalam rangka pemenuhan\npersyaratan jabatan tertentu. Pelaksanaan latihan kerja lebih\nmengutamakan praktek daripada teori. Dibandingkan dengan\npendidikan, latihan kerja lebih bersifat luwes dan dinamis dalam\nmengantisipasi perubahan persyaratan jabatan.\n4. Teknologi akan terus berkembang dengan cepat. Struktur dan\nkondisi perekonomian Indonesia akan terus berubah, baik karena\nkemajuan yang telah dicapai maupun karena perubahan teknologi\ndan perekonomian dunia yang terus berkembang. Sebab itu\npersyaratan jabatan dan kebutuhan tenaga kerja terampil dan ahli\njuga akan terus berkembang. dengan demikian maka latihan kerja\nakan senantiasa merupakan kebutuhan dalam pembangunan\nnasional dan kehidupan bangsa In donesia. Semakin cepat dan luas\nlaju pembangunan nasional semakin banyak jumlah, jenis dan\ntingkat latihan kerja yang diperlukan. Untuk memenuhi\nperkembangan kebutuhan latihan kerja yang semakin meningkat,\ndiperlukan penghimpunan, pengembangan dan pendayagunaan\nsumber daya latihan kerja yang ada.\n5. Latihan kerja, yang lebih mengutamakan praktek daripada teori\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nakan memerlukan sumber daya yang  relatif besar. Oleh karenanya,\nsumber daya latihan kerja yang ada baik di sektor Pemerintah\nmaupun swasta, perlu dikelola secara  efektif dan efisien. Untuk itu\nperlu pengaturan. Beberapa Undang-undang secara parsial telah\nmengatur pengelolaan latihan kerja tersebut, misalnya\nUndang-undang Nomor 3 Tahun 1951 tentang Pernyataan Berlakunya\nUndang-undang Pengawasan Perburuhan Nomor 23 Tahun 1948 dari\nRepublik Indonesia Untuk Seluruh Indonesia, Undang-undang Nomor\n3 Tahun 1958 tentang Penempatan Tenaga Kerja Asing,\nUndang-undang Nomor 1 Tahun 1967 tentang Penanaman Modal\nAsing, dan Undang- undang Nomor 6 Tahun 1968 tentang\nPenanaman Modal Dalam Negeri. Namun demikian Undang-undang\nyang mengatur pengelolaan latihan kerja secara menyeluruh hanya\nUndang-undang Nomor 14 Tahun 1969 tentang ketentuan-ketentuan\nPokok Mengenai Tenaga Kerja, khususnya Bab III Pembinaan\nKeahlian dan Kejuruan.\n6. Dengan demikian Peraturan Pemerintah tentang Latihan Kerja ini,\ndimaksudkan untuk mengatur pengelolaan latihan kerja secara\nmenyeluruh, sebagai penjabaran dari Undang-undang Nomor 14\nTahun 1969, dengan tetap memperhatikan Undang-undang lain yang\nberkaitan dengan latihan kerja, misalnya Undang-undang Nomor 2\nTahun 1989 tentang Sistem Pendidikan Nasional.\n\nII. PASAL DEMI PASAL\n\n Pasal 1\n  C u k u p  j e l a s\n Pasal 2\n  Latihan kerja dilaksanakan berdasarkan, klasifikasi atau tingkat\njabatan pekerjaan, sesuai dengan sifat, fungsi dan isinya dapat\ndisusun dalam kelompok dan tingkat jabatan pekerjaan. Setiap\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nkelompok dan tingkat jabatan menuntut persyaratan atau\nkualifikasi tertentu dari orang yang akan melaksanakannya.\nSesuai dengan persyaratan tersebut latihan kerja dapat disusun\nuntuk setiap tingkat jabatan atau untuk setiap bagian dari\ntingkat jabatan. Demikian juga untuk setiap kenaikan tingkat\njabatan yang lebih tinggi dalam rangka pengembangan karier\npegawai, dapat disusun program-program latihan kerja untuk\nmemberikan tambahan bekal pengetahuan, keterampilan dan\nsikap yang diperlukan dalam rangka melaksanakan tugas\npekerjaan. Untuk itu latihan kerja disusun dan dilaksanakan\nsecara bertahap, berjenjang, berkesinambungan dan secara\nsistematis berdasarkan pola latihan kerja yang jelas arah\nsasarannya sepanjang karier tenaga kerja.\n Pasal 3\n  C u k u p  j e l a s\n Pasal 4\n  Ayat (1)\n   a. Yang dimaksud dengan standar kualifikasi keterampilan\nadalah sekumpulan tugas-tugas suatu jabatan pekerjaan\nyang baku disusun atau ditetapkan berdasarkan analisis\nsuatu tingkat jabatan tertentu, melalui proses pengkajian\nsebagai berikut:\n   1) Setiap jabatan pekerjaan dijabarkan dalam tugas-tugas\ndan setiap tugas diuraikan dalam sub-sub tugas.\n   2) Setiap tugas atau sub tugas harus menghasilkan suatu\nluaran atau produk baik dalam bentuk barang visual atau\njasa (abstrak) secara baku yang dapat diukur.\n   3) Untuk menghasilkan barang atau jasa secara baku, maka\ndalam setiap pelaksanaan tugas/sub tugas harus\nmenggunakan sarana, peralatan, bahan kerja dan kondisi\nkerja yang standar/ baku.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n   4) Disamping sarana, peralatan, bahan dan kondisi kerja\nsebagaimana butir 3) untuk pelaksanaan tugas/sub tugas\nagar tercapai hasil atau luaran secara standar, maka\ntenaga kerja/pelaksana tugas harus menguasai ilmu\npengetahuan, teknologi, keselamatan kerja dan etos\nkerja yang diperlukan.\n Uraian butir 1) sampai dengan 4) di atas adalah unsur-unsur\nkualifikasi keterampilan tenaga kerja yang harus dibakukan\ndalam format SKK, yang berlaku secara nasional atau\ndiberlakukan untuk standar wilayah tertentu, misalnya Standar\nKualifikasi Keterampilan (SKK) bagi tukang tenun Samarinda,\ntukang batik gaya Yogyakarta dan sebagainya.\n   b. Standar Latihan Kerja (SLK) merupakan acuan pokok dalam\nsetiap penyelenggaraan latihan kerja yang berisi Kejuruan,\nSub Kejuruan, Tingkat Latihan, Nama Latihan Jabatan,\nNomor Kode Jabatan yang tercantum pada buku Klasifikasi\nJabatan Indonesia (KJI), Uraian Jabatan, Lama Latihan\nKerja Kurikulum, Silabus, Latihan di tempat kerja\n(on-the-job), Test Akhir dan Sertifikasi. SLK disusun\nmengacu kepada SKK yang ditetapkan untuk masing-masing\ntingkat jabatan pekerjaan.\n  Ayat (2)\n   Secara umum program latihan kerja dapat digolongkan dalam\ntiga bidang yaitu:\n   a. Latihan kerja bidang teknik, merupakan program latihan\nkerja yang lebih banyak memberikan atau meningkatkan\nkemampuan fisik;\n   b. Latihan kerja bidang manajerial, lebih banyak memberikan\natau meningkatkan kemampuan olah pikir; dan\n   c. Latihan kerja bidang kewirausahaan, meningkatkan\nkemampuan berwirausaha terutama di sektor informal.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n  Ayat (3)\n   Kejuruan pokok latihan kerja meliputi antara lain Manajerial,\nSupervisory, Otomotif, Elektronik, Listrik, Konstruksi,\nPertanian, Tata Niaga dan sebagainya.\n   Sub Kejuruan merupakan bagian dari kejuruan pokok, misalnya\nKejuruan Otomotif dengan Sub Kejuruan :\n   - Mobil Motor Bensin\n   - Mobil Motor Diesel\n   - Sepeda Motor\n   - Alat-alat Kendaraan Berat\n   - dan sebagianya.\n  Ayat (4)\n   Contoh tingkat latihan kerja untuk Kejuruan Otomotif, Sub\nKejuruan Mobil Motor Bensin :\n   - Mobil Motor Bensin Tingkat Dasar\n   - Mobil Motor Bensin Tingkat Menengah\n   - Mobil Motor Bensin Tingkat Atas.\n   Sedang Kejuruan/Sub Kejuruan yang tidak dapat dibagi dalam\ntingkat latihan kerja, terutama jabatan-jabatan pekerjaan di\nsektor informal, misalnya tukang tenun ikat, tukang reparasi\nradiator mobil, pengrajin anyaman rotan, dan sebagainya.\n  Ayat (5)\n   C u k u p  j e l a s\n Pasal 5\n  Ayat (1)\n   C u k u p  j e l a s\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n  Ayat (2)\n   Untuk menetapkan bahwa kualifikasi keterampilan kerja\nseseorang telah memenuhi persyaratan jabatan kerja tertentu,\nmaka perlu adanya suatu sarana sebagai tolok ukur yang baku.\nKualifikasi keterampilan kerja dapat ditetapkan secara baku\ndalam tiga tingkat keterampilan, yaitu keterampilan kelas III,\nII, dan I atau Muda, Madya dan Utama.\n   Berdasarkan kualifikasi-keterampilan yang ditetapkan secara\nbaku untuk setiap jenjang atau tingkat jabatan tersebut, maka\nstandar kualifikasi keterampilan ini dapat dijadikan sebagai\ntolok ukur dalam rangka pembinaan mutu keterampilan sesuai\nkebutuhan jabatan, baik melalui proses latihan kerja yang\ndilaksanakan secara sistematis dan berlanjut maupun proses\nuji keterampilan dan sertifikasi.\n  Ayat (3)\n   Sebagaimana penjelasan ayat (2) pada dasarnya setiap tingkat\nkualifikasi keterampilan yaitu kelas III (Muda), kelas II (Madya)\ndan kelas I (Utama) selalu mengacu kepada kemampuan kerja\ntenaga kerja untuk memenuhi persyaratan jabatan yang\ndiperlukan.\n   Kemampuan yang dipersyaratkan untuk melaksanakan setiap\ntugas jabatan meliputi penguasaan pengetahuan, keterampilan\ndan etos kerjanya. Baik pengetahuan, keterampilan maupun\netos kerja untuk pelaksanaan tugas jabatan sangat terkait\ndengan perkembangan ilmu dan teknologi. Untuk itu perlu\nadanya upaya pembinaan kualifikasi keterampilan tenaga kerja\nsecara sistematis dan berkesinambungan, baik melalui proses\nlatihan kerja maupun uji keterampilan dan sertifikasi yang\nsenantiasa selalu mengacu pertumbuhan ilmu pengetahuan\ndan teknologi, manajemen, industri dan informal.\n  Ayat (4)\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n   C u k u p  j e l a s\nPasal 6\n Ayat (1)\n  C u k u p  j e l a s\n\n Ayat (2)\n   Latihan kerja secara perorangan diberikan kepada seseorang\ndengan lebih banyak memberikan keleluasaan dan kesempatan\nkepada peserta untuk melakukan latihan-latihan sesuai dengan\nkreativitas, aktivitas, dan kemampuannya sendiri dengan\nbimbingan/pengawasan instruktur. Oleh karena itu latihan\nkerja secara perorangan tidak terikat dengan batas waktu\ntertentu, semakin kreatif dan aktif seseorang maka dia akan\nsemakin cepat menyelesaikan latihan kerja.\n   Latihan kerja secara kelompok diberikan kepada sekelompok\npeserta untuk menyelesaikan suatu program latihan kerja\ntertentu dan dalam waktu yang telah ditetapkan sehingga\nseluruh peserta harus mengikuti latihan kerja pada waktu yang\nsama dan menyelesaikan latihan kerja secara bersama pula.\n   Latihan kerja keliling adalah suatu penyelenggaraan latihan\nkerja dimana instruktur dan fasilitas latihan kerja misalnya\nperalatan, bahan dan materi latihan kerja dengan\nmenggunakan sarana transportasi yang bersifat mudah\nbergerak untuk mendatangi peserta/kelompok peserta atau\nlatihan kerja di luar lembaga latihan kerja. Latihan kerja di\nlembaga latihan kerja adalah penyelenggaraan latihan yang\ndilakukan di tempat latihan kerja tertentu baik yang dikelola\noleh Pemerintah maupun yang dikelola oleh swasta atau\nperusahaan.\n   Latihan kerja di tempat latihan kerja dilakukan dengan\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nmengutamakan praktek di tempat kerja, di perusahaan atau di\nlapangan dalam rangka peningkatan pengetahuan, pemahaman\ndan penghayatan peserta, serta membiasakan peserta latihan\nkerja dalam kondisi kerja yang senyatanya. Pelaksanaan\nlatihan kerja di tempat kerja diberikan, diawasi dan dinilai\noleh karyawan atau pengawas/supervisor yang ditunjuk oleh\norganisasi kerja dimana peserta melaksanakan praktek kerja.\n   Permagangan dimaksudkan untuk meningkatkan kemampuan\ndan keterampilan kerja dengan cara mengamati mereka yang\nmampu melakukan kerja serta melaksanakan sendiri pekerjaan\ndimaksud di bawah pengawasan dan petunjuk tenaga\nsupervisi.\n Pasal 7\n  Ayat (1)\n   Yang dimaksud masyarakat dalam Peraturan Pemerintah ini\nadalah angkatan kerja baik pencari kerja, calon pekerja\nmaupun pekerja.\n   Pencari kerja adalah tenaga kerja yang menganggur dan aktif\nmencari pekerjaan, atau tenaga kerja yang ingin alih profesi.\n   Calon pekerja adalah mereka yang masih dalam proses\npengangkatan menjadi pekerja, melalui suatu proses\npembinaan dan atau penilaian kemampuan, pengetahuan serta\netos kerjanya. Melalui proses pcmbinaan dan atau penilaian\ntersebut, calon pekerja dapat diangkat atau tidak dapat\ndiangkat menjadi pekerja. Pengangkatan calon pekerja\nmenjadi pekerja dilakukan secara tertulis.\n   Pekerja adalah tenaga kerja yang bekerja baik dalam\nhubungan kerja dengan menerima upah atau pekerja mandiri.\n   Pekerja yang lepas dari pekerjaannya adalah tenaga kerja\nyang berhenti bekerja karena pemutusan hubungan kerja oleh\npengusaha atau atas permintaan sendiri atau karena pensiun.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n  Ayat (2)\n   Persyaratan yang harus dipenuhi oleh setiap peserta untuk\nmengikuti latihan kerja antara lain dilakukan dengan seleksi,\nbaik seleksi administratif dan atau    seleksi\nkemampuan/ keterampilan yang dilakukan oleh penyelenggara\nlatihan kerja.\n  Ayat (3)\n   C u k u p  j e l a s\n  Ayat (4)\n   C u k u p  j e l a s\n\n Pasal 8\n  Ayat (1)\n   Tiap Instruktur harus memiliki kualifikasi pengetahuan,\nketerampilan, sikap dan metodologi yang diperlukan untuk\nmelatih peserta latihan kerja. Contoh : Untuk melatih Sub\nKejuruan Mobil Motor Bensin Tingkat Dasar, Instruktur\nbersangkutan minimal lulusan STM jurusan mesin, telah\nmengikuti latihan kerja untuk Instruktur bidang Otomotif dan\nmenduduki jabatan serendah-rendahnya Asisten Instruktur\nberdasarkan Surat Pengangkatan atau Surat Keputusan dari\nPejabat yang berwenang.\n  Ayat (2)\n   C u k u p  j e l a s\n  Ayat (3)\n   Tiap Instruktur latihan kerja berhak mendirikan dan menjadi\nanggota perserikatan instruktur latihan kerja yang\npembentukannya dilakukan secara demokratis berdasarkan\nperaturan perundang-undangan mengenai pembentukan\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\norganisasi kemasyarakatan yang berlaku.\n Pasal 9\n  Ayat (1)\n   C u k u p  j e l a s\n  Ayat (2)\n   C u k u p  j e l a s\n Pasal 10\n  Latihan kerja bermanfaat bukan saja bagi pengusaha, akan tetapi\njuga bagi peserta, masyarakat, dan Pemerintah. Sebab itu\npembiayaan latihan harus pula menjadi tanggung jawab bersama.\nSumber utama dana latihan kerja dari Pemerintah pada dasarnya\nadalah Anggaran Pendapatan dan Belanja Negara, Anggaran\nPendapatan dan Belanja Daerah, Perusahaan Negara dan atau\nPerusahaan Pemerintah Daerah. Sumber dana latihan kerja dari\nperusahaan dapat dikerahkan dalam bentuk pembiayaan latihan\nkerja yang diselenggarakan sendiri dan atau kontribusi dana\nlatihan kerja.\n  Dana latihan kerja dapat juga dikerahkan dari sumbangan dan\natau hibah perorangan, organisasi masyarakat, dan perusahaan\ndari dalam maupun luar negeri.\n Pasal 11\n  Ayat (1)\n   C u k u p  j e l a s\n\n  Ayat (2)\n   C u k u p  j e l a s\n  Ayat (3)\n   C u k u p  j e l a s\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n  Ayat (4)\n   Peserta Uji Keterampilan terbuka untuk setiap orang yang\ntelah memenuhi persyaratan pendidikan sekolah, lulusan\nlatihan kerja dan atau yang berpengalaman kerja yang\nditetapkan oleh Panitia Uji Keterampilan sesuai pelimpahan\nwewenang dari Menteri.\n Pasal 12\n  Ayat (1)\n   C u k u p  j e l a s\n  Ayat (2)\n   C u k u p  j e l a s\n  Ayat (3)\n   C u k u p  j e l a s\n Pasal 13\n  Ayat (1)\n   Untuk pelaksanaan tugas-tugas pekerjaan tertentu terutama\nyang memiliki resiko bahaya cukup tinggi, disamping\npersyaratan memiliki keterampilan dasar yang ditetapkan\ndengan Sertifikat Keterampilan atau ijazah pendidikan\nsekolah, maka tenaga kerja yang bersangkutan harus memiliki\nlisensi kerja yang merupakan suatu jaminan bahwa pemegang\nlisensi tersebut telah memiliki kualifikasi keterampilan yang\ndipersyaratkan dan mampu melaksanakan tugas pelayanan,\nkesehatan dan keselamatan kerja dengan baik, guna\nmenghindarkan terjadinya resiko kecelakaan kerja baik bagi\ndiri yang bersangkutan maupun masyasarakat lingkungannya.\n  Ayat (2)\n   Jenis keterampilan dan jabatan yang memerlukan lisensi kerja\nantara lain pengemudi, instalator listrik, tukang las tekanan\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\ntinggi, pekerja medis/ para medis dan sebagainya.\nJabatan-jabatan kerja yang memerlukan lisensi akan diatur\nlebih lanjut oleh Menteri Tenaga Kerja setelah mendapat\nsaran dan pertimbangan dari Departemen atau instansi teknis\nterkait.\n  Ayat (3)\n   C u k u p  j e l a s\n Pasal 14\n  C u k u p  j e l a\n Pasal 15\n  Ayat (1)\n   C u k u p  j e l a s\n  Ayat (2)\n   C u k u p  j e l a s\n  Ayat (3)\n   C u k u p  j e l a s\n  Ayat (4)\n   Tiap lembaga latihan kerja dapat mendirikan dan menjadi\nanggota organisasi perserikatan lembaga latihan kerja sejenis\nyang pembentukannya dilakukan secara demokratis\nberdasarkan peraturan perundangan mengenai pembentukan\norganisasi kemasyarakatan yang berlaku.\n Pasal 16\n  Ayat (1)\n   C u k u p  j e l a s\n  Ayat (2)\n   C u k u p  j e l a s\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n Pasal 17\n  Ayat (1)\n   C u k u p  j e l a s\n  Ayat (2)\n   C u k u p  j e l a s\n Pasal 18\n  Ayat (1)\n   Lembaga Uji Keterampilan beranggotakan para ahli di bidang\nlatihan kerja yang dapat terdiri dari unsur pembina,\npenyelenggara, instruktur, tenaga  profesi, tenaga supervisor,\npengguna serta pihak lain yang ahli dalam mengevaluasi\nketerampilan dan keahlian seseorang.\n   Lembaga Uji Keterampilan dibentuk berdasarkan kebutuhan\natau permintaan masyarakat yang bersifat sementara (adhoc).\nUntuk memenuhi kebutuhan yang bersifat jangka panjang atau\nterus-menerus, terutama untuk tenaga kerja trampil\nberstandar internasional atau kebutuhan tenaga kerja sektor\ntertentu ataupun tenaga kerja khusus, dapat dibentuk\nLembaga Uji Keterampilan yang bersifat tetap.\n  Ayat (2)\n   C u k u p  j e l a s\n Pasal 19\n  Ayat (1)\n   C u k u p  j e l a s\n  Ayat (2)\n   C u k u p  j e l a s\n Pasal 20\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n  C u k u p  j e l a s\n Pasal 21\n  Ayat (1)\n   C u k u p  j e l a s\n  Ayat (2)\n   C u k u p  j e l a s\n  Ayat (3)\n   C u k u p  j e l a s\n  Ayat (4)\n   C u k u p  j e l a s\n  Ayat (5)\n   C u k u p  j e l a s\n  Ayat (6)\n   C u k u p  j e l a s\n Pasal 22\n  Ayat (1)\n   C u k u p  j e l a s\n  Ayat (2)\n   C u k u p  j e l a s\n  Ayat (3)\n   C u k u p  j e l a s\n  Ayat (4)\n   C u k u p  j e l a s\n Pasal 23\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n  Ayat (1)\n   C u k u p  j e l a s\n  Ayat (2)\n   Pada dasarnya akreditasi ditetapkan untuk penyelenggaraan\nsuatu program latihan kerja tertentu, dengan berpedoman\nkepada Standar Latihan Kerja (SLK) terkakait sebagai tolok\nukur penilaiannya. Unsur-unsur yang dinilai meliputi antara\nlain :\n   a. Kelengkapan dokumen perizinan latihan kerja;\n   b. Sarana dan fasilitas latihan kerja;\n   c. Program latihan kerja beserta perangkat keras dan\nperangkat lunaknya;\n   d. Personil dan Instrukturnya;\n   e. Fasilitas pendukung lainnya.\n\n Pasal 24\n  C u k u p  j e l a s\n Pasal 25\n  C u k u p  j e l a s\n Pasal 26\n  C u k u p  j e l a s\n Pasal 27\n  C u k u p  j e l a s\n Pasal 28\n  C u k u p  j e l a s\n Pasal 29\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n  C u k u p  j e l a s\n Pasal 30\n  C u k u p  j e l a s"
+   }
+  }
+ ]
+}

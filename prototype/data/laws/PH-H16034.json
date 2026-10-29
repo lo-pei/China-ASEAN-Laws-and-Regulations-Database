@@ -1,0 +1,72 @@
+{
+ "id": "PH-H16034",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Section One of ComMonwealth Act Numbered Two Hundred and Eleven",
+  "orig": "An Act to Amend Section One of ComMonwealth Act Numbered Two Hundred and Eleven"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1938-06-09",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 317",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1022,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00317_1938_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00317_1938_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H16034-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section one of Commonwealth Act Numbered Two hundred and eleven is hereby amended to\nread as follows:\n\"Section 1. All laborers employed by any corporation, as-sociation, person or persons in any public work\nshall receive a minimum daily wage of one peso, except in the City of Ma-nila where such minimum daily\nwage shall be one peso and twenty-five centavos: Provided, That the number of hours of labor shall in no case\nexceed eight daily or forty-eight weekly: And provided, further, That any overtime work rendered shall be\npaid at the same rate as the regular wage or salary and at least twenty per centum additional. In the case of\nprovincial and municipal public works, the province or municipality may pay lower wages, if the financial\nconditions of the province or municipality so demand.\""
+   }
+  },
+  {
+   "id": "PH-H16034-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The provisions of this Act shall not apply to roads constructed in accordance with Acts approved\nin the Third Regular Session of the First National Assembly."
+   }
+  },
+  {
+   "id": "PH-H16034-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, June 9, 1938."
+   }
+  }
+ ]
+}

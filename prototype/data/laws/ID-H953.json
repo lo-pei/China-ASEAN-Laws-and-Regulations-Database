@@ -1,0 +1,844 @@
+{
+ "id": "ID-H953",
+ "title": {
+  "zh": "船舶事故调查法",
+  "en": "Law on the Investigation of Ship Accidents",
+  "id": "PEMERIKSAAN KECELAKAAN KAPAL",
+  "orig": "PEMERIKSAAN KECELAKAAN KAPAL",
+  "vi": "Luật về Điều tra Tai nạn Tàu biển",
+  "th": "พระราชบัญญัติว่าด้วยการสอบสวนอุบัติเหตุเรือ",
+  "ms": "Akta tentang Siasatan Kemalangan Kapal"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02a",
+ "language": "id",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "1998",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU1-1998",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 56,
+ "chars": 33267,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=pp0011998.pdf&fl=P04058"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\01_宪法与基础法\\印尼_文本_1998_PEMERIKSAAN KECELAKAAN KAPAL.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 127 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H953-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\nDalam Peraturan Pemerintah ini yang dimaksud dengan:\n1. Pemeriksaan Kecelakaan Kapal adalah kegiatan penyelidikan atau\npengusutan suatu peristiwa kecelakaan kapal yang dilakukan oleh\nPejabat Pemerintah yang berwenang untuk mengetahui sebab -sebab\nterjadinya kecelakaan kapal.\n2. Tersangkut …\nPRESIDEN\nREPUBLIK INDONESIA\n2. Tersangkut adala h Nakhoda atau pemimpin kapal dan/atau perwira\nkapal yang diduga melakukan kesalahan atau kelalaian dalam\npenerapan standar profesi kepelautan yang menyebabkan kecelakaan\nkapal.\n3. Terhukum adalah tersangkut yang dijatuhi sanksi administratif\nberdasarkan hasil keputusan sidang Majelis Mahkamah Pelayaran.\n4. Perwira kapal adalah para mualim, masinis, dan perwira radio kapal.\n5. Saksi adalah setiap orang yang dapat memberikan keterangan guna\nkepentingan pemeriksaan mengenai suatu peristiwa kecelakaan kapal\nyang terdengar sendiri, dilihat sendiri atau dialami sendiri, atau pihak\nlain yang berwenang yang secara langsung atau tidak langsung\nberkaitan dengan kapal yang mengalami kecelakaan atau peristiwa\nkecelakaan tersebut.\n6. Saksi Ahli adalah orang yang memilik i keahlian di bidang tertentu\nyang memberikan keterangan sesuai dengan keahliannya dalam\npemeriksaan lanjutan kecelakaan kapal untuk membuat terang suatu\nperistiwa kecelakaan kapal.\n7. Penasehat Ahli adalah orang yang karena keahliannya ditunjuk oleh\ntersangkut untuk mendampingi tersangkut selama berlangsungnya\npemeriksaan lanjutan kecelakaan kapal.\n8. Menteri adalah Menteri yang bertanggung jawab di bidang\npelayaran."
+   }
+  },
+  {
+   "id": "ID-H953-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\n(1) Pemeriksaan kecelakaan kapal dilakukan terhadap semua kecelakaan\nkapal yang terjadi di dalam wilayah perairan Indonesia dan\nkecelakaan kapal berbendera Indonesia yang terjadi di luar wilayah\nperairan Indonesia.\n(2) Kecelakaan …\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Kecelakaan kapal sebagaimana dimaksud dalam ayat (1) meliputi :\na. kapal tenggelam;\nb. kapal terbakar;\nc. kapal tubrukan;\nd. kecelakaan kapal yang menyebabkan terancamnya jiwa manusia\ndan kerugian harta benda;\ne. kapal kandas."
+   }
+  },
+  {
+   "id": "ID-H953-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\nPemeriksaan kecelakaan kapal meliputi:\na. pemeriksaan pendahuluan kecelakaan kapal;\nb. pemeriksaan lanjutan kecelakaan kapal.\nBAB II\nLAPORAN KECELAKAAN KAPAL"
+   }
+  },
+  {
+   "id": "ID-H953-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\nSetiap orang yang berada di atas kapal yang mengetahui dikapalnya\nterjadi kecelakaan, sesuai batas kemampuannya wajib melaporkan\nkecelakaan kapal kepada:\na. Syahbandar pelabuhan terdekat bil a kecelakaan kapal terjadi di\ndalam wilayah perairan Indonesia;\nb. Pejabat Perwakilan Republik Indonesia terdekat dan Pejabat\nPemerintah negara setempat yang berwenang apabila kecelakaan\nkapal atau pelabuhan pert ama yang disinggahi sesudah kecelakaan\nkapal terjadi di luar wilayah perairan Indonesia."
+   }
+  },
+  {
+   "id": "ID-H953-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5 …"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 5\n(1) Nakhoda atau pemimpin kapal, yang :\na. kapalnya mengalami kecelakaan kapal;\nb. menyebabkan kapal lain mendapat kecelakaan kapal;\nc. mengetahui kapal lain mendapat kecelakaan kapal;\nd. membawa awak kapal atau penumpang dari kapal yang\nmengalami kecelakaan kapal wajib melaporkan kecelakaan kapal\nkepada Syahbandar pelabuhan terdekat bila kecelakaan kapal\nterjadi di dalam wilayah perairan Indonesia.\n(2) Nakhoda atau pemimpin kapal berbendera Indonesia yang\nmengalami kecelakaan kapal sebagaimana dimaksud dalam ayat (1)\nwajib melaporkan kecelakaan kapal kepada pejabat perwakilan\nRepublik Indonesia terdekat dan Pejabat Pemerintah negara setempat\nyang berwenang apabila kecelakaan kapal atau pelabuhan pertama\nyang disinggahi sesudah kecelakaan kapal terjadi berada di luar\nwilayah perairan Indonesia."
+   }
+  },
+  {
+   "id": "ID-H953-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\nKetentuan lebih lanjut mengenai tata cara dan bentuk isi laporan\nkecelakaan kapal sebagaimana d imaksud dalam Pasal 4 dan Pasal 5\ndiatur oleh Menteri."
+   }
+  },
+  {
+   "id": "ID-H953-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\nLaporan kecelakaan kapal yang dilaporkan kepada pejabat Perwakilan\nRepublik Indonesia sebagaimana dimaksud dalam Pasal 4 huruf b dan\nPasal 5 ayat (2), oleh Pimpinan Perwakilan Republik Indone sia\nditeruskan kepada Menteri.\nBAB III …\nPRESIDEN\nREPUBLIK INDONESIA\nBAB III\nPEMERIKSAAN PENDAHULUAN\nKECELAKAAN KAPAL"
+   }
+  },
+  {
+   "id": "ID-H953-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n(1) Pemeriksaan pendahuluan kecelakaan kapal dilaksanakan atas dasar\nlaporan kecelakaan kapal.\n(2) Pemeriksaan pendahuluan kecelakaan kapal sebagaimana dimaksud\ndalam ayat (1) dilaksanakan oleh:\na. Syahbandar, setelah menerima laporan kecelakaan kapal dari\npelapor.\nb. Pejabat Pemerintah yang ditunjuk oleh Menteri, setelah Menteri\nmenerima laporan kece lakaan kapal dari Pimpinan Perwakilan\nRepublik Indonesia dan/atau dari pejabat Pemerintah negara\nsetempat yang berwenang."
+   }
+  },
+  {
+   "id": "ID-H953-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\nPemeriksaan pendahuluan kecelakaan kapal sebagaimana dimaksud\ndalam Pasal 8 dilaksanakan untuk mencari keterangan dan/atau\nbukti-bukti awal atas terjadinya kecelakaan kapal."
+   }
+  },
+  {
+   "id": "ID-H953-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\nDalam melaksanakan pemeriksaan pendahuluan kecelakaan kapal,\nSyahbandar atau pejabat Pemerintah yang ditunjuk oleh Menteri dapat\nmencari keterangan yang diperlukan dari :\na. Nakhoda …\nPRESIDEN\nREPUBLIK INDONESIA\na. Nakhoda atau pemimpin kapal;\nb. perwira kapal;\nc. anak buah kapal;\nd. pihak lainnya."
+   }
+  },
+  {
+   "id": "ID-H953-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\nKetentuan lebih lanjut mengenai tata cara pemeriksaan pendahuluan\nkecelakaan kapal sebagaimana dimaksud dalam Pasal 8, Pasal 9, dan\nPasal 10 diatur oleh Menteri."
+   }
+  },
+  {
+   "id": "ID-H953-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n(1) Hasil pemeriksaan pendahuluan kecelakaan kapal dituangkan dalam\nbentuk berita acara pemeriksaan pendahuluan kecelakaan kapal.\n(2) Berita acara pemeriksaan pendahuluan kecelakaan kapal\nsebagaimana dimaksud dalam ayat (1) ditandatangani oleh\nSyahbandar atau pejabat Pemerintah yang ditunjuk oleh Mneteri."
+   }
+  },
+  {
+   "id": "ID-H953-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\n(1) Hasil pemeriksaan pendahuluan kecelakaan kapal disampaikan\nsecara tertulis kepada Menteri selambat -lambatnya 30 (tiga puluh)\nhari sejak diterimanya laporan kecelakaan kapal.\n(2) Hasil pemeriksaan pendahuluan kecelakaan kapal sebagaimana\ndimaksud dalam ayat (1) dilampiri dengan :\na. kesimpulan ...\nPRESIDEN\nREPUBLIK INDONESIA\na. kesimpulan hasil pemeriksaan pendahuluan kecelakaan kapal;\nb. laporan kecelakaan kapal;\nc. dokumen lain yang diperlukan.\n(3) Ketentuan lebih lanjut mengenai tata cara pembuatan hasil\npemeriksaan pendahuluan kecelakaan kapal sebagaimana dimaksud\ndalam ayat (1) dan ayat (2) diatur oleh Menteri."
+   }
+  },
+  {
+   "id": "ID-H953-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\nSegala biaya yang diperlukan dalam pelaksanaan pemeriksaan\npendahuluan ke celakaan kapal dibebankan pada Anggaran Pendapatan\ndan Belanja Departemen Perhubungan."
+   }
+  },
+  {
+   "id": "ID-H953-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\n(1) Apabila berdasarkan hasil pemeriksaan pendahuluan kecelakaan\nkapal. Menteri berpendapat adanya dugaan kesalahan dan/atau\nkelalaian dalam menerapkan standa r profesi kepelautan yang\ndilakukan oleh Nakhoda atau pemimpin kapal dan/atau perwira kapal\natas terjadinya kecelakaan kapal, maka selambat -lambatnya dalam\njangka waktu 14 (empat belas) hari sejak diterimanya hasil\npemeriksaan pendahuluan kecelakaan kapal, Menteri meminta\nMahkamah Pelayaran melakukan pemeriksaan lanjutan kecelakaan\nkapal.\n(2) Permintaan pemeriksaan lanjutan kecelakaan kapal sebagaimana\ndimaksud dalam ayat (1) diajukan secara tertulis disertai dengan:\na. laporan ...\nPRESIDEN\nREPUBLIK INDONESIA\na. laporan kedelakaan kapal;\nb. hasil pemeriksaan pendahuluan kecelakaan kapal;\nc. kesimpulan hasil pemeriksaan pendahuluan kecelakaan kapal;\nd. dokumen lain yang diperlukan."
+   }
+  },
+  {
+   "id": "ID-H953-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\n(1) Menteri mengeluarkan surat penghentian pemeriksaan kecelakaan\nkapal terhadap hasil pemeriksaan pendahuluan kecelakaan kapal\nyang tidak dimintakan pemeriksaan lanjutan kecelakaan kapal.\n(2) Surat penghentian pemeriksaan kecelakaan kapal sebagaimana\ndimaksud dalam ayat (1) sekurang -kurangnya memuat keterangan\nmengenai dasa r alasan tidak dimintakannya pemeriksaan lanjutan\nkecelakaan kapal dan penetapan sebab -sebab terjadinya kecelakaan\nkapal.\n(3) Pelaksanaan ketentuan sebagaimana dimaksud dalam ayat (1) dan\nayat (2) diatur lebih lanjut oleh Menteri.\nBAB IV\nPEMERIKSAAN LANJUTAN KECELAKAAN KAPAL\nBagian Pertama\nUmum"
+   }
+  },
+  {
+   "id": "ID-H953-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\nPemeriksaan lanjutan kecelakaan kapal dilaksanakan oleh Mahkamah\nPelayaran."
+   }
+  },
+  {
+   "id": "ID-H953-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18 …"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 18\nDalam melaksanakan pemeriksaan lanjutan kecelakaan kapal,\nMahkamah Pelayaran bertugas:\na. meneliti sebab -sebab kecelakaan kapal dan menentukan ada atau\ntidak adanya kesalahan atau kelalaian dalam penerapan standar\nprofesi kepelautan oleh Nakhoda atau pemimpin kapal dan/atau\nperwira kapal atas terjadinya kecelakaan kapal;\nb. menjatuhkan sanksi administratif ke pada Nakhoda atau pemimpin\nkapal dan/atau perwira kapal yang memiliki sertifikat keahlian Pelaut\nyang dikeluarkan oleh pemerintah Indonesia yang melakukan\nkesalahan atau kelalaian dalam menerapkan standar profesi\nkepelautan."
+   }
+  },
+  {
+   "id": "ID-H953-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\nSanksi administratif sebagaimana dimaksud dalam Pasal 18 huruf b\ndapat berupa:\na. peringatan;\nb. pencabutan sementara sertifikat keahlian Pelaut untuk bertugas\ndalam jabatan tertentu di kapal, untuk waktu paling lama 2 (dua)\ntahun.\nBagian Kedua\nKedudukan"
+   }
+  },
+  {
+   "id": "ID-H953-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\nMahkamah P elayaran merupakan lembaga Pemerintah yang berada di\nbawah dan bertanggung jawab langsung kepada Menteri."
+   }
+  },
+  {
+   "id": "ID-H953-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21 …"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 21\nMahkamah Pelayaran berkedudukan di Ibukota Negara Republik\nIndonesia.\nBagian Ketiga\nSusunan Keanggotaan"
+   }
+  },
+  {
+   "id": "ID-H953-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\nSusunan keanggotaan Mahkamah Pelayaran terdiri dari ketua\nmerangkap angota, anggota dan sekretaris Mahkamah Pelayaran."
+   }
+  },
+  {
+   "id": "ID-H953-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\n(1) Mahkamah Pelayaran dipimpin oleh seorang ketua.\n(2) Ketua sebagaimana dimaksud dalam ayat (1) dapat dijabat oleh\nSarjana Hukum, ahli Nautika Tingkat I, Ahli Teknika Tingkat I atau\nSarjana Teknik Perkapalan."
+   }
+  },
+  {
+   "id": "ID-H953-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 24\n(1) Anggota Mahkamah Pelayaran terdiri dari beberapa orang Sarjana\nHukum, Ahli Nautika Tingkat I, Ahli Teknika Tingkat I dan Sarjana\nTeknik Perkapalan.\n(2) Jumlah anggota Mahkamah Pelayaran sebagaimana dimaksud dalam\nayat (1) sebanyak-banyaknya 15 (lima belas) orang."
+   }
+  },
+  {
+   "id": "ID-H953-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25 …"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 25\nMahkamah Pelayaran dibantu oleh sebuah Sekretariat yang dipimpin\noleh seorang sekretaris Mahkamah Pelayaran."
+   }
+  },
+  {
+   "id": "ID-H953-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\n(1) Ketua, anggota, dan sekretaris Mahkamah Pelayaran diangkat dan\ndiberhentikan oleh Menteri.\n(2) Pengangkatan dan pemberhentian sebagaimana dimaksud dalam ayat\n(1) dilaksanakan sesuai dengan ketentuan peraturan\nperundang-undangan yang berlaku di bidang Pegawai Negeri Sipil."
+   }
+  },
+  {
+   "id": "ID-H953-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\nApabila ketua Mahkamah Pelayaran berhalangan dalam menjalankan\ntugasnya, Menteri menunjuk salah seorang angota Mahkamah Pelayaran\nuntuk diangkat sebagai pejabat sementara ketua Mahkamah Pelayaran."
+   }
+  },
+  {
+   "id": "ID-H953-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\n(1) Untuk dapat dian gkat menjadi ketua dan anggota Mahkamah\nPelayaran, seorang calon harus memenuhi persyaratan :\na. bertaqwa kepada Tuhan Yang Maha Esa;\nb. setia kepada Pancasila dan Undang-Undang Dasar 1945;\nc. memiliki masa kerja sekurang -kurangnya 15 (lima belas) tahun\nsebagai Pegawai Negeri Sipil;\nPRESIDEN\nREPUBLIK INDONESIA\nd. Sarjana ...\nd. Sarjana Hukum, Ahli Nautika Tingkat I, Ahli Teknika Tingkat I\natau Sarjana Teknik Perkapalan.\n(2) Selain ketentuan yang ditetapkan sebagaimana dimaksud dalam ayat\n(1) untuk dapat diangkat sebagai ketua Mahkamah Pelayaran,\nseorang calon harus:\na. memiliki pengalaman sekurang -kurangnya 2 (dua) tahun sebagai\nanggota Mahkamah Pelayaran;\nb. memenuhi persyaratan jabatan sesuai dengan ketentuan peraturan\nperundang-undangan di bidang Pegawai Negeri Sipil."
+   }
+  },
+  {
+   "id": "ID-H953-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\nUntuk dapat diangkat menjadi sekretaris Mahkamah Pelayaran, seorang\ncalon harus memenuhi persyaratan :\na. bertaqwa kepada Tuhan Yang Maha Esa;\nb. setia kepada Pancasila dan Undang-Undang Dasar 1945;\nc. seorang Sarjana Hukum;\nd. memenuhi persyaratan jabatan sesuai dengan ketentuan peraturan\nperundang-undangan di bidang Pegawai Negeri Sipil.\nBagian Keempat\nTata Kerja\nParagraf Kesatu\nPembentukan Majelis Mahkamah Pelayaran"
+   }
+  },
+  {
+   "id": "ID-H953-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30 …"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keempat"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 30\n(1) Selambat-lambatnya dalam jangka waktu 7 (tujuh) hari sejak\nditerimanya permintaan pemeriksaan lanjutan kecelakaan kapal,\nketua Mahkamah Pelayaran membentuk Majelis Mahkamah\nPelayaran.\n(2) Pembentukan Majelis sebagaimana dimaksud dalam ayat (1)\ndilakukan dengan menunjuk beberapa anggota Mahkamah Pelayaran\nsesuai keahlian yang dibutuhkan dalam pemeriksaan lanjutan\nkecelakaan kapal."
+   }
+  },
+  {
+   "id": "ID-H953-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\n(1) Susunan keanggotaan Majelis terdiri dari ketua merangkap sebagai\nanggota dan anggota Majelis.\n(2) Jumlah anggota Majelis harus ganjil dan sekurang -kurangnya terdiri\ndari 5 (lima) orang.\n(3) Anggota Majelis sebagaimana dimaksud dalam ayat (2)\nsekurang-kurangnya salah satunya adalah seorang Sarjana Hukum."
+   }
+  },
+  {
+   "id": "ID-H953-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 32\n(1) Kepada majelis diperbantukan seora ng sekretaris sebagai pencatat\ndalam Sidang Majelis.\n(2) Sekretaris Majelis dapat dijabat oleh Sekretaris Mahkamah Pelayaran\natau seorang sekretaris pengganti.\nPRESIDEN\nREPUBLIK INDONESIA\n(3) Sekretaris ...\n(3) Sekretaris Pengganti dijabat oleh Sarjana Hukum dan jumlah\nsekretaris pengganti pada Mahkamah Pelayaran dibatasi paling\nbanyak 2 (dua) orang sekretaris pengganti.\nParagraf Kedua\nSidang Majelis"
+   }
+  },
+  {
+   "id": "ID-H953-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 33\nSelambat-lambatnya dalam jangka waktu 30 (tiga puluh) hari sejak\ndibentuknya, Majelis harus telah melaksanakan Sidang Maj elis yang\npertama."
+   }
+  },
+  {
+   "id": "ID-H953-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 34\n(1) Sidang Majelis dilangsungkan di tempat kedudukan Mahkamah\nPelayaran.\n(2) Dalam hal tertentu Sidang Majelis dapat dilangsungkan di luar\ntempat kedudukan Mahkamah Pelayaran.\n(3) Sidang Majelis yang dilangsungkan di luar tempat kedudukan\nMahkamah Pelayaran sebagaimana dimaksud dalam ayat (2)\ndilakukan setelah mendapat ijin ketua Mahkamah Pelayaran."
+   }
+  },
+  {
+   "id": "ID-H953-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 35\n(1) Sidang Majelis dilaksanakan di ruang Sidang Mahkamah Pelayaran.\n(2) Ruang Sidang Mahkamah Pelayaran sebagaimana dimaksud dalam\nPRESIDEN\nREPUBLIK INDONESIA\nayat (1) disusun menurut tata cara:\na. tempat ...\na. tempat meja dan kursi anggota Majelis letaknya lebih tinggi dari\ntempat sekretaris Majelis, tersangkut, saksi, saksi ahli, dan\npengunjung;\nb. tempat sekretaris Majelis terletak di sisi kiri depan tempat\nanggota Majelis;\nc. tempat kursi tersangkut, saksi, dan saksi ahli terletak dihadapan\nanggota Majelis;\nd. tempat pengunjung terletak di belakang tempat tersangkut;\ne. bendera nasional ditempa tkan di sebelah kanan meja anggota\nMajelis dan Lambang Negara ditempatkan pada dinding bagian\natas di belakang meja anggota Majelis;\nf. diantara tempat anggota Majelis dan tempat tersangkut\ndisediakan meja peta laut;\ng tempat sebagaimana dimaksud pada hu ruf a, huruf b, huruf c,\nhuruf d, huruf e, dan huruf f diberi tanda pengenal.\n(3) Dalam hal Sidang Majelis dilangsungkan di luar tempat\nkedudukan Mahkamah Pelayaran, tata cara penyusunan ruang Sidang\nMajelis sedapat mungkin dilakukan sesuai dengan ketentu an\nsebagaimana dimaksud dalam ayat (2)."
+   }
+  },
+  {
+   "id": "ID-H953-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 36\n(1) Dalam melaksanakan Sidang Majelis, anggota dan sekretaris Majelis\nmengenakan pakaian sidang dan atribut.\n(2) Pelaksanaan ketentuan sebagaimana dimaksud dalam ayat (1) diatur\nPRESIDEN\nREPUBLIK INDONESIA\nlebih lanjut oleh Menteri."
+   }
+  },
+  {
+   "id": "ID-H953-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37 …"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keempat"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 37\nSidang Majelis dilakukan secara terbuka untuk umum."
+   }
+  },
+  {
+   "id": "ID-H953-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 38\n(1) Anggota Majelis harus mengundurkan diri dari persidangan apabila\nterikat hubungan keluarga atau semenda sampai derajat ketiga\ndengan tersangkut, atau hubungan suami ist eri meskipun telah\nbercerai dengan tersangkut.\n(2) Apabila setelah hasil sidang telah diputus baru diketahui terdapat\nanggota majelis terkena ketentuan sebagaimana dimaksud dalam ayat\n(1), maka segera dilakukan sidang ulang tanpa mengikutsertakan\nanggota Majelis yang bersangkutan.\n(3) Apabila ketentuan sebagaimana dimaksud dalam ayat (1) dan ayat\n(2) menyebabkan jumlah Anggota Majelis menjadi genap, maka\nketua Mahkamah Pelayaran mengambil keputusan untuk menambah\natau mengurangi satu orang anggota Majelis sehingga jumlah\nanggota Majelis menjadi ganjil, tetapi tetap tidak boleh kurang dari 5\n(lima) orang anggota majelis.\n(4) Ketentuan lebih lanjut mengenai tata cara pengunduran diri dan\npengurangan atau penambahan anggota Majelis dalam melaksanakan\nsidang sebagaimana dimaksud dalam ayat (1), ayat (2) dan ayat (3)\ndiatur oleh Menteri."
+   }
+  },
+  {
+   "id": "ID-H953-A39",
+   "no": 39,
+   "noLabel": {
+    "id": "Pasal 39"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 39\n(1) Dalam melakukan tugasnya, Sidang Majelis memanggil dan meminta\nketerangan dari tersangkut, saksi, saksi ahli, melakukan pemeriksaan\ndi lapangan atau hal lain yang dianggap perlu.\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Ketentuan ...\n(2) Ketentuan lebih lanjut mengenai tata cara pemanggilan kepada dan\nmeminta keterangan dari tersangkut, saksi dan saksi ahli\nsebagaimana dimaksud dalam ayat (1) diatur oleh Menteri."
+   }
+  },
+  {
+   "id": "ID-H953-A40",
+   "no": 40,
+   "noLabel": {
+    "id": "Pasal 40"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 40\n(1) Apabila Sidang Majelis memandang ketidakhadiran saksi dan/atau\nsaksi ahli dalam sidang disebabkan oleh hal atau alasan yang dapat\ndipertanggungjawabkan, sedangkan yang bersangkutan berkehendak\nmemberikan kesaksian atau keterangannya, maka Sidang Majelis\ndapat meminta kepada yang bersangkutan memberikan kesaksian\natau keterangannya secara tertulis diluar tempat dilaksanakan Sidang\nMajelis.\n(2) Sebelum memberikan kesaksian atau keterangan secara tertulis\nsebagaimana dimaksud dalam ayat (1) saksi dan/atau saks i ahli\nmengucapkan sumpah atau janji menurut cara agama dan\nkepercayaannya dihadapan pejabat yang ditunjuk oleh Menteri.\n(3) Pelaksanaan ketentuan sebagaimana dimaksud dalam ayat (1) dan\nayat (2) diatur lebih lanjut oleh Menteri."
+   }
+  },
+  {
+   "id": "ID-H953-A41",
+   "no": 41,
+   "noLabel": {
+    "id": "Pasal 41"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 41\n(1) Dalam Sidan g Majelis, saksi dan/atau saksi ahli sebelum\nmemberikan kesaksian atau keterangan kepada Sidang Majelis\nmengucapkan sumpah atau janji menourut cara agama dan\nkepercayaannya.\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Dalam ...\n(2) Dalam hal saksi dan/atau saksi ahli menolak mengucapkan sumpa h\natau janji sebagaimana dimaksud dalam ayat (1), Sidang Majelis\ndapat mempertimbangkan untuk tidak menggunakan kesaksian atau\nketerangan yang diberikan dalam menurut hasil Sidang Majelis.\n(3) Pelaksanaan ketentuan sebagaimana dimaksud dalam ayat (1) dan\nayat (2) diatur lebih lanjut oleh Menteri."
+   }
+  },
+  {
+   "id": "ID-H953-A42",
+   "no": 42,
+   "noLabel": {
+    "id": "Pasal 42"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 42\nDalam Sidang Majelis, tersangkut dapat didampingi oleh Penasehat\nAhli."
+   }
+  },
+  {
+   "id": "ID-H953-A43",
+   "no": 43,
+   "noLabel": {
+    "id": "Pasal 43"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 43\nKetentuan lebih lanjut mengenai Sidang Majelis ditetapkan oleh\nMenteri.\nParagraf Ketiga\nHasil Sidang Majelis"
+   }
+  },
+  {
+   "id": "ID-H953-A44",
+   "no": 44,
+   "noLabel": {
+    "id": "Pasal 44"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 44\n(1) Keputusan Sidang Majelis merupakan keputusan Mahkamah\nPelayaran.\n(2) Keputusan Mahkamah Pelayaran sebagaimana dimaksud dalam ayat\n(1) dituangkan dalam bentuk tertulis.\nPRESIDEN\nREPUBLIK INDONESIA\n(3) Keputusan Mahkamah Pelayaran sebagaimana dimaksud dalam ayat\n(1) dan ayat (2), memuat:\na. Kepala ...\na. Kepala putusan yang berbunyi \"DEMI KEADILAN\nBERDASARKAN KETUHANAN YANG MAHA ESA\"\nb. Nama, jabatan, sertifikat keahlian Pelaut, tempat dan tanggal\nlahir, kewarganegaraan, tempat kediaman atau kedudukan\nterakhir tersangkut, saksi dan/atau saksi ahli;\nc. dokumen dan data kapal;\nd. ringkasan jalannya persidangan;\ne. ada atau tidak adanya kesalahan atau kelalaian yang dilakukan\noleh Nakhoda atau pemimpin kapal, atau perwira kapal dalam\nmelakukan tugas profesinya;\nf. dasar atau alasan yang menjadi dasar putusan;\ng. hari, tanggal putusan, dan nama anggota Sidang Majelis dan\nSekretaris Majelis.\n(4) Keputusan Mahkamah Pelayaran ditandatangani oleh anggota dan\nsekretaris Majelis."
+   }
+  },
+  {
+   "id": "ID-H953-A45",
+   "no": 45,
+   "noLabel": {
+    "id": "Pasal 45"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 45\nKeputusan Mahkamah Pelayaran dibacakan oleh ketua Majelis dalam\nsidang terbuka untuk umum."
+   }
+  },
+  {
+   "id": "ID-H953-A46",
+   "no": 46,
+   "noLabel": {
+    "id": "Pasal 46"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 46\nKeputusan Mahkamah Pelayaran merupakan keputusan akhir.\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H953-A47",
+   "no": 47,
+   "noLabel": {
+    "id": "Pasal 47 …"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keempat"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 47\n(1) Dalam jangka waktu selambat -lambatnya 1980 (seratus delapan\npuluh) h ari sejak ditetapkannya hari sidang yang pertama, ketua\nMahkamah Pelayaran menyampaikan keputusan Mahkamah\nPelayaran secara tertulis kepada:\na. Menteri disertai laporan dalam hal adanya dugaan berdasarkan\nbukti awal telah terjadi perbuatan melawan hukum yang\ndilakukan oleh pejabat Pemerintah atau pihak -pihak lain yang\nsecara langsung atau tidak langsung berkaitan dengan\nsebab-sebab terjadinya kecelakaan kapal;\nb. tersangkut.\n(2) Ketua Mahkamah Pelayaran dapat memberikan salinan hasil\nkeputusan Mahkamah Pelayaran kepada pihak yang terkait dalam\nkecelakaan kapal dan/atau pihak lain yang membutuhkan."
+   }
+  },
+  {
+   "id": "ID-H953-A48",
+   "no": 48,
+   "noLabel": {
+    "id": "Pasal 48"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 48\n(1) Sanksi administratif yang ditetapk an dalam Keputusan Mahkamah\nPelayaran mulai berlaku sejak ditandatanganinya Berita Acara\nPelaksanaan Putusan Mahkamah Pelayaran oleh hukum, dan\nSyahbandar atau Pejabat Perwakilan Republik Indonesia di luar\nNegeri.\n(2) Syahbandar atau pejabat Perwakilan Rep ublik Indonesia di luar\nnegeri menyampaikan salinan Berita Acara Pelaksanaan Putusan\nMahkamah Pelayaran sebagaimana dimaksud dalam ayat (1) kepada\nPRESIDEN\nREPUBLIK INDONESIA\nMenteri dan Ketua Mahkamah Pelayaran.\nBagian …\nBagian Kelima\nPembiayaan"
+   }
+  },
+  {
+   "id": "ID-H953-A49",
+   "no": 49,
+   "noLabel": {
+    "id": "Pasal 49"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 49\nSegala biaya yang diperl ukan dalam pelaksanaan tugas Mahkamah\nPelayaran dibebankan pada Anggaran Pendapatan dan Belanja\nDepartemen Perhubungan.\nBagian Keenam\nPembinaan dan Pengawasan"
+   }
+  },
+  {
+   "id": "ID-H953-A50",
+   "no": 50,
+   "noLabel": {
+    "id": "Pasal 50"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 50\nKetua Mahkamah Pelayaran melakukan pembinaan dan pengawasan\nterhadap pelaksanaan tugas dan disiplin anggota, sekretaris Mahkamah\nPelayaran, dan sekretaris pengganti."
+   }
+  },
+  {
+   "id": "ID-H953-A51",
+   "no": 51,
+   "noLabel": {
+    "id": "Pasal 51"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 51\n(1) Ketua Mahkamah Pelayaran melakukan pengawasan terhadap\njalannya Sidang Majelis.\n(2) Pengawasan sebagaimana dimaksud dalam ayat (1) tidak boleh\nmengurangi kebebasan Sidang Majelis dalam menyelesaikan\npemeriksaan lanjutan kecelakaan kapal."
+   }
+  },
+  {
+   "id": "ID-H953-A52",
+   "no": 52,
+   "noLabel": {
+    "id": "Pasal 52"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 52\nDalam melaksanakan pembinaan dan pengawasan, Ketua Mahkamah\nPelayaran dapat memberikan petunjuk, teguran, dan peringatan yang\nPRESIDEN\nREPUBLIK INDONESIA\ndipandang perlu."
+   }
+  },
+  {
+   "id": "ID-H953-A53",
+   "no": 53,
+   "noLabel": {
+    "id": "Pasal 53 …"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keenam"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 53\nKetentaun lebih lanjut mengenai pelaksanaan pembinaan dan\npengawasan diatur oleh Menteri dengan memperhatikan ketenuan\nperundang-undangan yang berlaku.\nBAB V\nKETENTUAN PIDANA"
+   }
+  },
+  {
+   "id": "ID-H953-A54",
+   "no": 54,
+   "noLabel": {
+    "id": "Pasal 54"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 54\nSetiap orang yang berada di atas kapal yang mengetahui dikapalnya\nterjadi kecelakaan kapal, dalam batas -batas kemampuannya tidak\nmelaporkan kecelakaan tersebut sebagaimana dimaksud dalam Pasal 4,\ndipidana berdasarkan ketentuan Pasal 124 ayat (1) Undang -undang\nNomor 21 Tahun 1992 tentang Pelayaran."
+   }
+  },
+  {
+   "id": "ID-H953-A55",
+   "no": 55,
+   "noLabel": {
+    "id": "Pasal 55"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 55\nNakhoda dan pemimpin kapal yang tidak melaporkan kecelakaan kapal\nsebagaimana dimaksud dalam Pasal 5, dipidana berdasarkan ketentuan"
+   }
+  },
+  {
+   "id": "ID-H953-A127",
+   "no": 127,
+   "noLabel": {
+    "id": "Pasal 127 Undang-undang Nomor 21 Tahun 1"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {
+    "id": "Undang-undang Nomor 21 Tahun 1992 tentang Pelayaran."
+   },
+   "text": {
+    "id": "Pasal 127 Undang-undang Nomor 21 Tahun 1992 tentang Pelayaran.\nBAB VI\nKETENTUAN LAIN-LAIN\nPasal 56\n(1) Terhadap Keputusan yang dikeluarkan oleh badan peradilan asing di\nbidang kecelakaan kapal mengenai kesalahan atau kelalaian dalam\nPRESIDEN\nREPUBLIK INDONESIA\nmenerapkan standar profesi kepelautan yang dilakukan oleh\nNakhoda atau pemimpin kapal dan/atau perwira kapal yang memiliki\nsertifikat ...\nsertifikat keahlian Pelaut yang diterbitkan oleh Pemerintah\nIndonesia, dilakukan pemeriksaan lanjutan kecelakaan kapal oleh\nMahkamah Pelayaran.\n(2) Pemeriksaan lanjutan kecelakaan kapal sebagaimana dimaksu d\ndalam ayat (1) dilaksanakan sesuai dengan ketentuan yang diatur\ndalam Peraturan Pemerintah ini.\nPasal 57\nDengan berlakunya Peraturan Pemerintah ini, pengertian anggota\nMahkamah Pelayaran yang diatur dalam Peraturan Pemerintah ini adalah\nsama dengan penge rtian Hakim Mahkamah Pelayaran sebagaimana\ndimaksud dalam Peraturan Pemerintah Nomor 32 Tahun 1979 tentang\nPemberhentian Pegawai Negeri Sipil.\nBAB VII\nKETENTUAN PENUTUP\nPasal 58\nDengan berlakunya Peraturan Pemerintah ini, maka semua ketentuan\nperaturan perundang -undangan yang berhubungan dengan pemeriksaan\nkecelakaan kapal yang telah ada masih tetap berlaku sepanjang tidak\nbertentangan dan/atau belum diganti berdasarkan Peraturan Pemerintah\nini.\nPasal 59\nDengan berlakunya Peratuan Pemerintah ini, Keputusan Presiden\nPRESIDEN\nREPUBLIK INDONESIA\nNomor 32 Tahun 1984 tentang Susunan Keanggotaan Mahkamah\nPelayaran, dinyatakan tidak berlaku.\nPasal 60\nPeraturan Pemerintah ini mulai berlaku pada tanggal ditetapkan.\nAgar …\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran\nNegara Republik Indonesia.\nDitetapkan di Jakarta\npada tanggal 7 Januari 1998\nPRESIDEN REPUBLIK INDONESIA\nttd.\nSOEHARTO\nDiundangkan di Jakarta\npada tanggal 7 Januari 1998\nMENTERI NEGARA SEKRETARIS NEGARA\nREPUBLIK INDONESIA\nttd\nMOERDIONO\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1998 NOMOR 1\nPRESIDEN\nREPUBLIK INDONESIA\nPENJELASAN\nATAS\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nNOMOR 1 TAHUN 1998\nTENTANG\nPEMERIKSAAN KECELAKAAN KAPAL\nUMUM\nPenyelenggaraan pelayaran sebagai salah satu moda transportasi telah diatur dalam satu\nkesatuan sistem transportasi nasional dalam Undang -undang Nomor 21 Tahun 1992\ntentang Pelayaran. Penyelenggaraan pelayaran dilaksanakan untuk tujuan mewujudkan\npenyediaan transportasi di perairan yang seimbang dengan tingkat kebutuhan serta\ntersedianya pelayanan angkutan di perairan yang selamat, aman, cep at, lancar, tertib,\nteratur, nyaman, dan efisien dengan biaya yang wajar serta terjangkau oleh daya beli\nmasyarakat.\nMengingat arti pentingnya penyelenggaraan pelayaran bagi masyarakat, bangsa dan\nnegara, Undang-undang Nomor 21 Tahun 1992 tentang Pelayaran mengamanatkan bagi\nsetiap kecelakaan kapal dilakukan pemeriksaan kecelakaan kapal oleh pejabat yang\nberwenang.\nPemeriksaan kecelakaan kapal dilakukan untuk mengetahui sebab -sebab terjadinya\nkecelakaan kapal dan/atau menentukan ada atau tidak adanya kesala han atau kelalaian\ndalam penerapan standar profesi kepelautan yang dilakukan oleh Nahkoda atau pemimpin\nkapal dan/atau perwira kapal atas terjadinya kecelakaan kapal. Dengan demikian,\nnantinya atas hasil pemeriksaan kecelakaan kapal tersebut dapat diambil langkah-langkah\nyang diperlukan untuk, mencegah terjadinya kecelakaan kapal dengan sebab -sebab\nkecelakaan yang sama. Disamping itu, pemeriksaan kecelakaan kapal dimaksudkan\nsebagai satu bentuk pembinaan dan pengawasan bagi tenaga profesi kepelautan.\nPRESIDEN\nREPUBLIK INDONESIA\nPemeriksaan …\nPemeriksaan kecelakaan kapal meliputi pemeriksaan pendahuluan kecelakaan kapal dan\npemeriksaan lanjutan kecelakaan kapal.Pemeriksaan pendahuluan kecelakaan kapal\ndilaksanakan untuk mencari keterangan dan/atau bukti -bukti awal atas terjadinya\nkecelakaan kapal sebelum diteruskan dengan pemeriksaan lanjutan kecelakaan kapal\napabila terdapat dugaan adanya kesalahan atau kelalaian dalam penerapan standar profesi\nkepelautan oleh tenaga profesi kepelautan yaitu Nahkoda atau pemimpin kapal dan/atau\nperwira kapal.\nPemeriksaan lanjutan kecelakaan kapal dilakukan oleh Mahkamah Pelayaran yang\nanggota-anggotanya terdiri dari orang-orang ahli di bidang hukum dan kepelautan. Hal ini\ndimaksudkan untuk memberikan penilaian yang obyektif atas ada atau tidak adanya\nkesalahan atau kelalaian dalam penerapan standar profesi kepelautan yang dilakukan oleh\nNahkoda atau pemimpin kapal dan/atau perwira kapal atas terjadinya kecelakaan kapal.\nDalam hal terdapat kesalahan atau kelalaian dalam penerapan standar profesi kepelau tan,\nmaka Mahkamah Pelayaran berdasarkan Undang -undang Nomor 21 Tahun 1992 tentang\nPelayaran dapat memberikan sanksi administratif.\nSanksi administratif yang diberikan dapat berupa peringatan atau pencabutan sementara\nsertifikat keahlian pelaut untuk bertugas dalam jabatan tertentu di kapal.\nPeraturan Pemerintah tentang Pemeriksaan Kecelakaan Kapal ini ditetapkan sebagai\nperaturan pelaksanaan Undang-undang Nomor 21 Tahun 1992.\nPASAL DEMI PASAL\nPasal 1\nCukup jelas\nPasal 2\nAyat (1)\nPRESIDEN\nREPUBLIK INDONESIA\nCukup jelas\nAyat (2) …\nAyat (2)\nCukup jelas\nPasal 3\nCukup jelas\nPasal 4\nHuruf a\nPengertian dari pelabuhan terdekat termasuk pelabuhan asal.\nHuruf b\nYang dimaksud dengan pejabat pemerintah negara setempat yang berwenang\nadalah pejabat yang berdasarkan ketentuan peraturan perundang -undangan yang\nberlaku di negara yang bersangkutan memiliki kewenangan untuk menindaklanjuti\nlaporan kecelakaan kapal.\nPenjelasan atas pengertian pejabat pemerintah negara setempat yang berwenang\nberlaku untuk seterusnya kecuali ditentukan secara lain dalam Peraturan\nPemerintah ini.\nPasal 5\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 6\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 7 …\nPasal 7\nCukup jelas\nPasal 8\nAyat (1)\nCukup jelas\nAyat (2)\nHuruf a\nPemeriksaan pendahuluan kecelakaan kapal oleh Syahbandar pada dasarnya\ndilakukan setelah Syahbandar yang bersangkutan menerima laporan kecelakaan\nkapal dari pelapor.\nNamun demikian, tidak menutup kemungkinan pemeriksaan pendahuluan\nkecelakaan kapal dilakukan oleh Syahbandar lain yang terdekat dengan lokasi\nkecelakaan kapal dengan pertimbangan efisiensi dari segi tenaga dan waktu.\nDalam pelaksanaannya, Syahbandar yan g menerima laporan kecelakaan kapal\nmelakukan langkah -langkah yang diperlukan dan berkoordinasi dengan\nSyahbandar lain yang terdekat dengan lokasi kecelakaan kapal.\nHuruf b\nCukup jelas\nPasal 9\nCukup jelas\nPasal 10\nHuruf a\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nHuruf b …\nHuruf b\nYang dimaksud dengan perwira kapal adalah perwira yang mendapat tugas jaga\npada waktu kecelakaan kapal terjadi\nHuruf c\nYang dimaksud dengan anak buah kapal adalah anak buah kapal yang mendapat\ntugas jaga pada waktu kecelakaan kapal terjadi.\nHuruf d\nYang dimaksud dengan pihak lainnya adalah pihak -pihak yang dapat memberikan\nketerangan atas terjadinya kecelakaan kapal, misalnya saksi.\nPasal 11\nCukup jelas\nPasal 12\nAyat (1)\nCukup jelas\nAyat (2)\nPengertian ditandatangani dalam ayat ini adalah ditandatangani oleh Syahbandar\natau pejabat pemerintah yang ditunjuk oleh Menteri, yang melakukan pemeriksaan\npendahuluan kecelakaan kapal.\nPasal 13\nAyat (1)\nCukup jelas\nAyat (2)\nHuruf a\nKesimpulan hasil pemeriksaan pendahuluan kecelakaan kapal memuat\npendapat Syahbandar atau pejabat pemerintah yang ditunjuk oleh Menteri, yang\nmelakukan pemeriksaan pendahuluan kecelakaa n kapal mengenai sebab -sebab\nPRESIDEN\nREPUBLIK INDONESIA\nterjadinya kecelakaan kapal.\nHuruf b …\nHuruf b\nCukup jelas\nHuruf c\nYang dimaksud dengan dokumen lain yang diperlukan antara lain fotokopi dari\nsurat kapal, sertifikat kapal, buku harian kapal, buku olah gerak kapal pada waktu\nkecelakaan kapal terjadi, dokumen awak kapal, buku pelaut, daftar penumpang dan\nmuatan kapal, surat ijin berlayar terakhir, data kapal, peta lokasi kecelakaan kapal.\nAyat (3)\nCukup jelas\nPasal 14\nCukup jelas\nPasal 15\nAyat (1)\nCukup jelas\nAyat (2)\nHuruf a\nCukup jelas\nHuruf b\nCukup jelas\nHuruf c\nLihat penjelasan Pasal 13 ayat (2) huruf a.\nHuruf d\nLihat penjelasan Pasal 13 ayat (2) huruf c.\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 16 …\nPasal 16\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nPasal 17\nCukup jelas\nPasal 18\nCukup jelas\nPasal 19\nCukup jelas\nPasal 20\nCukup jelas\nPasal 21\nCukup jelas\nPasal 22\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 23 …\nPasal 23\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 24\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 25\nCukup jelas\nPasal 26\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 27\nCukup jelas\nPasal 28\nAyat (1)\nCukup jelas\nAyat (2)\nHuruf a\nPRESIDEN\nREPUBLIK INDONESIA\nCukup jelas\nHuruf b …\nHuruf b\nJabatan Ketua Mahkamah Pelayaran adalah jabatan struktural Pegawai Negeri\nSipil, maka untuk dapat menduduki jabatan tersebut harus memenuhi persyaratan\njabatan sesuai dengan ketentuan peraturan perundang -undangan yang berlaku di\nbidang Pegawai Negari Sipil.\nPasal 29\nHuruf a\nCukup jelas\nHuruf b\nCukup jelas\nHuruf c\nCukup jelas\nHuruf d\nJabatan Sekretaris Mahkamah Pelayaran adalah jabatan struktural Pegawai\nNegeri Sipil.\nLihat penjelasan Pasal 28 ayat (2) huruf b.\nPasal 30\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 31\nAyat (1)\nCukup jelas\nAyat (2)\nPRESIDEN\nREPUBLIK INDONESIA\nCukup jelas\nAyat (3) …\nAyat (3)\nCukup jelas\nPasal 32\nAyat (1)\nCukup jelas\nAyat (2)\nYang dimaksud dengan sekretaris pengganti adalah Pegawai Negeri Sipil yang\ndiangkat oleh pejabat yang berwenang dan ditugaskan sebagai sekretaris pengganti\ndalam Mahkamah Pelayaran sesuai dengan ketentuan peraturan\nperundang-undangan yang berlaku di bidan g Pegawai Negeri Sipil.Sekretaris\npengganti mempunyai tugas sebagai sekretaris dalam Sidang Majelis pemeriksaan\nlanjutan kecelakaan kapal.\nAyat (3)\nPengertian yang ada dalam ayat ini adalah bahwa jumlah sekretaris pengganti yang\ndapat diangkat dalam Mah kamah Pelayaran sebanyak -banyaknya adalah 2 (dua)\norang.\nPasal 33\nCukup jelas\nPasal 34\nAyat (1)\nCukup jelas\nAyat (2)\nDalam hal tertentu Sidang Majelis dapat dilangsungkan di lu ar tempat kedudukan\nMahkamah Pelayaran dengan pertimbangan antara lain karena sebagian besar alat\nbukti yang diperlukan berada di lokasi yang bersangkutan atau tersangkut berada\nPRESIDEN\nREPUBLIK INDONESIA\ndalam penahanan oleh pejabat yang berwenang pada lokasi yang bersangkutan.\nAyat (3) …\nAyat (3)\nCukup jelas\nPasal 35\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nPasal 36\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 37\nCukup jelas\nPasal 38\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nPRESIDEN\nREPUBLIK INDONESIA\nCukup jelas\nPasal 39 …\nPasal 39\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 40\nAyat (1)\nYang dimaksud dengan hal atau alasan yang dapat dipertanggung jawabkan\nmisalnya saksi dan/atau saksi ahli yang bersangkutan tidak mendapat ijin untuk\nmeninggalkan tugas.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nPasal 41\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nPasal 42\nCukup jelas\nPasal 43\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 44 …\nPasal 44\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nPasal 45\nCukup jelas\nPasal 46\nCukup jelas\nPasal 47\nAyat (1)\nCukup jelas\nAyat (2)\nYang dimaksud dengan pihak yang terkait dan/atau yang membutuhkan antara lain\nSyahbandar, Pengadilan Negeri dan Pengadilan Tata Usaha Negara.\nPasal 48\nAyat (1)\nCukup jelas\nAyat (2)\nPRESIDEN\nREPUBLIK INDONESIA\nCukup jelas\nPasal 49 …\nPasal 49\nCukup jelas\nPasal 50\nCukup jelas\nPasal 51\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 52\nCukup jelas\nPasal 53\nCukup jelas\nPasal 54\nCukup jelas\nPasal 55\nCukup jelas\nPasal 56\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 57 …\nPasal 57\nCukup jelas\nPasal 58\nCukup jelas\nPasal 59\nCukup jelas\nPasal 60\nCukup jelas\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 3724"
+   }
+  }
+ ]
+}

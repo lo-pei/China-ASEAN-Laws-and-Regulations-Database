@@ -1,0 +1,62 @@
+{
+ "id": "PH-H12561",
+ "title": {
+  "zh": null,
+  "en": "Acts No. 1852  An Act Revalidating Certain Declarations of Real Property for Assessment Purposes Heretofore Made in Accordance With the Provisions of Act Numbered Fourteen Hundred and Fifty-Five, as Amended.",
+  "orig": "Acts No. 1852  An Act Revalidating Certain Declarations of Real Property for Assessment Purposes Heretofore Made in Accordance With the Provisions of Act Numbered Fourteen Hundred and Fifty-Five, as Amended."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1908-06-11",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 1852",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 576,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (HTML full text only)  |  https://lawphil.net/statutes/acts/act1908/act_1852_1908.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_01852_1908_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_01852_1908_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12561-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": ".The failure of any official or board to certify to the correctness of any declaration of real estate\nand of improvements and of the rental value of same for assessment purposes heretofore made by any owner\nthereof in accordance with the provisions of Act Numbered Fourteen hundred and fifty-five, as amended, shall\nin no way invalidate such declaration, and such declaration is hereby declared, and shall be regarded, as valid\nand binding for assessment purposes, notwithstanding the lack of such certificate."
+   }
+  },
+  {
+   "id": "PH-H12561-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, June 11, 1908."
+   }
+  }
+ ]
+}

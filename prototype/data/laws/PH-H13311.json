@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13311",
+ "title": {
+  "zh": null,
+  "en": "An Act Making Appropriation for Completion of Barracks and Quarters for the Philippine Constabulary At Cabugao, Apayao, Mountain Province.",
+  "orig": "An Act Making Appropriation for Completion of Barracks and Quarters for the Philippine Constabulary At Cabugao, Apayao, Mountain Province."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1916-03-16",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2659",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 366,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1916/act_2659_1916.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02659_1916_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02659_1916_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13311-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The sum of two thousand two hundred and fifty pesos, or so much thereof as may be necessary,\nis hereby appropriated, out of any funds in the Insular Treasury not otherwise appropriated for the completion\nof barracks and quarters for the Philippine Constabulary at Cabugao, Apayao, Mountain Province."
+   }
+  },
+  {
+   "id": "PH-H13311-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, March 16, 1916."
+   }
+  }
+ ]
+}

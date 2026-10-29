@@ -1,0 +1,82 @@
+{
+ "id": "PH-H10973",
+ "title": {
+  "zh": null,
+  "en": "AN ACT PROVIDING THAT ALL SALARIES PAID TO OFFICERS AND EMPLOYEES IN THE CIVIL SERVICE SHALL BE PAID IN INSULAR CURRENCY OR IN MONEY OF THE UNITED STATES AS THE APPROPRIATING AUTHORITY SHALL DETERMINE, AND REPEALING ACT NUMBERED THIRTY-FOUR.",
+  "orig": "AN ACT PROVIDING THAT ALL SALARIES PAID TO OFFICERS AND EMPLOYEES IN THE CIVIL SERVICE SHALL BE PAID IN INSULAR CURRENCY OR IN MONEY OF THE UNITED STATES AS THE APPROPRIATING AUTHORITY SHALL DETERMINE, AND REPEALING ACT NUMBERED THIRTY-FOUR."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 260",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 1006,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_00260_1901_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_00260_1901_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H10973-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "All salaries and wages to be paid to officers and employees in the civil service of these islands,\ninsular, provincial, or municipal, shall hereafter be paid in money of the United States or in local currency, as\nshall be provided in the Act making appropriation for such payment. In case the appropriating authority shall\norder payment to be made in local currency, the ratio of local currency to money of the United States shall be\nthat fixed for the quarter for which the appropriations are made, by proclamation of the Civil Governor at the\nbeginning of the quarter."
+   }
+  },
+  {
+   "id": "PH-H10973-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Act Numbered Thirty-four, so far as it is in conflict with section one of this Act, is hereby"
+   }
+  },
+  {
+   "id": "PH-H10973-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "The public good requiring the speedy enactment of this bill, the passage of the same is hereby\nexpedited in accordance with section two of \"An Act prescribing the order of procedure by the Commission\nin the enactment of laws,\" passed September twenty-sixth, nineteen hundred."
+   }
+  },
+  {
+   "id": "PH-H10973-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, October 8, 1901."
+   }
+  }
+ ]
+}

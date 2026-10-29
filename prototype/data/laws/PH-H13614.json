@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13614",
+ "title": {
+  "zh": null,
+  "en": "An Act Authorizing Provincial Treasurers to Accept Redemptions of Property Seized By the Government for Delinquency in the Payment of the Land Tax.",
+  "orig": "An Act Authorizing Provincial Treasurers to Accept Redemptions of Property Seized By the Government for Delinquency in the Payment of the Land Tax."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1921-02-21",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2970",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 611,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1921/act_2970_1921.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02970_1921_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02970_1921_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13614-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section three hundred and seventy-seven of Act Numbered Twenty-seven hundred and eleven,\nknown as the Adminostrative Code of nineteen hundred and seventeen, is hereby amended by adding, at the\nend thereof, the following paragraph:\n\"Subject to such rules of procedures as the Director of Lands may, with the approval of the Secretary of\nAgriculture and Natural Resources, promulgate, the provincial treasurer may accept the redemption of any\nreal estate seized and distrained by the Government, upon payment of all taxes and penalties due.\""
+   }
+  },
+  {
+   "id": "PH-H13614-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, February 21, 1921."
+   }
+  }
+ ]
+}

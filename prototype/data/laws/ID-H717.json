@@ -1,0 +1,287 @@
+{
+ "id": "ID-H717",
+ "title": {
+  "zh": null,
+  "en": null,
+  "id": "PENGHITUNGAN PENGHASILAN KENA PAJAK DAN PELUNASAN PAJAK PENGHASILAN DALAM TAHUN BERJALAN",
+  "orig": "PENGHITUNGAN PENGHASILAN KENA PAJAK DAN PELUNASAN PAJAK PENGHASILAN DALAM TAHUN BERJALAN"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02a",
+ "language": "id",
+ "level": "law",
+ "category": "02_民商事与经济法",
+ "status": "active",
+ "promulgatedDate": "1994",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU47-1994",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 17,
+ "chars": 28587,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PP0471994.pdf&fl=P03885"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\02_民商事与经济法\\印尼_文本_1994_PENGHITUNGAN PENGHASILAN KENA PAJAK DAN PELUNASAN PAJAK PENGHASILAN DALAM TAHUN BERJALAN.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 22 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H717-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\n(1) Pajak Masukan yang tidak dapat dikreditkan berdasarkan\nUndang-undang No mor 8 Tahun 1983 tentang Pajak Pertambahan\nNilai Barang dan Jasa dan Pajak Penjualan Atas Barang Mewah\nsebagaimana telah diubah dengan Undang -undang Nomor 11\nTahun 1994 boleh dikurangkan dari penghasilan bruto, kecuali:\na. Pajak Masukan sebagaimana dimaksud dalam Pasal 9 ayat (8)\nhuruf f dan huruf g;\nb. Pajak Masukan yang berkenaan dengan barang dan jasa\nsebagaimana dimaksud dalam Pasal 9 ayat (1) huruf a, huruf b,\nhuruf e, huruf f, huruf g, dan huruf i Undang -undang Nomor 7\nTahun 1983 sebagaiman a telah diubah terakhir dengan\nUndang-undang Nomor 10 Tahun 1994.\n(2) Apabila...\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Apabila Pajak Masukan yang boleh dikurangkan dari Penghasilan\nbruto sebagaimana dimaksud dalam ayat (1) dibayarkan sehubungan\ndengan perolehan barang yang mempunyai masa manfaat lebih dari\n1 (satu) tahun, maka Pajak Masukan tersebut harus dikapitalisasi\ndan dikurangkan dari penghasilan bruto melalui penyusutan atau\namortisasi."
+   }
+  },
+  {
+   "id": "ID-H717-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\nUntuk menghitung besarnya Penghasilan Kena Pajak bagi Wajib Pajak\ndalam negeri dan bent uk usaha tetap tidak boleh dikurangkan dari\npenghasilan bruto:\na. biaya untuk mendapatkan, menagih, dan memelihara penghasilan\nyang bukan merupakan Objek Pajak;\nb. biaya untuk mendapatkan, menagih, dan memelihara penghasilan\nyang pengenaan pajaknya bersifa t final yang diatur tersendiri\nberdasarkan Pasal 4 ayat (2) Undang -undang Nomor 7 Tahun\n1983 sebagaimana telah diubah terakhir dengan Undang -undang\nNomor 10 Tahun 1994;\nc. biaya untuk mendapatkan, menagih, dan memelihara penghasilan\nyang telah dikenaka n pemotongan atau pemungutan Pajak\nPenghasilan yang bersifat final;\nd. Pajak Penghasilan yang ditanggung oleh pemberi penghasilan,\nkecuali Pajak Penghasilan sebagaimana diatur dalam Pasal 26 ayat\n(1) Undang -undang Nomor 7 Tahun 1983 sebagaimana telah\ndiubah terakhir dengan Undang -undang Nomor 10 Tahun 1994\ntidak termasuk dividen, sepanjang Pajak Penghasilan dimaksud\nditambahkan sebagai dasar penghitungan untuk pemotongan Pajak\nPenghasilan Pasal 26 ayat (1) tersebut."
+   }
+  },
+  {
+   "id": "ID-H717-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3…"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 3\nDalam hal terjadi pengalihan harta perusahaan kepada pegawainya, maka\nkeuntungan berupa selisih antara harga pasar harta tersebut dengan nilai\nsisa buku merupakan penghasilan bagi perusahaan."
+   }
+  },
+  {
+   "id": "ID-H717-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\n(1) Laba bruto usaha dala m suatu tahun pajak bagi Wajib Pajak yang\nbergerak dalam bidang pemborongan bangunan yang proses\npenyelesaiannya meliputi beberapa tahun pajak dihitung\nberdasarkan metode persentase tingkat penyelesaian pekerjaan.\n(2) Untuk menghitung penghasilan neto dar i laba bruto usaha\nsebagaimana dimaksud dalam ayat (1) selain biaya atau pengeluaran\nsehubungan dengan tingkat penyelesaian pekerjaan, boleh\ndikurangkan biaya atau pengeluaran sebagaimana dimaksud dalam"
+   }
+  },
+  {
+   "id": "ID-H717-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6 ayat (1) Undang-undang Nomor 7 T"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {
+    "id": "ayat (1) Undang-undang Nomor 7 Tahun 1983 sebagaimana"
+   },
+   "text": {
+    "id": "Pasal 6 ayat (1) Undang-undang Nomor 7 Tahun 1983 sebagaimana\ntelah diubah terakhir dengan Undang -undang Nomor 10 Tahun\n1994.\nPasal 5\nDirektur Jenderal Pajak berwenang untuk menentukan saat pengakuan\npenghasilan dan biaya sebagai dasar penghitungan penghasilan bruto bagi\nbidang usaha tertentu selain yang diatur dalam Pasal 4.\nBAB II …\nPRESIDEN\nREPUBLIK INDONESIA\nBAB II\nPELUNASAN PAJAK DALAM TAHUN BERJALAN\nMELALUI PIHAK LAIN\nPasal 6\n(1) Pemotongan Pajak Penghasilan oleh pihak -pihak sebagaimana\ndimaksud dalam Pasal 21 ayat (1) Undang -undang Nomor 7 Tahun\n1983 sebagaimana telah diubah terakhir dengan Undang -undang\nNomor 10 Tahun 1994 terutang pada akhir bulan dilakukannya\npembayaran atau pada akhir bulan terutangnya penghasilan yang\nbersangkutan.\n(2) Pemungutan Pajak Penghasilan o leh pihak -pihak sebagaimana\ndimaksud dalam Pasal 22 ayat (1) Undang -undang Nomor 7\nTahun 1983 sebagaimana telah diubah terakhir dengan\nUndang-undang Nomor 10 Tahun 1994 terutang pada saat\npembayaran kecuali ditetapkan lain oleh Menteri Keuangan.\n(3) Pemotongan Pajak Penghasilan oleh pihak -pihak sebagaimana\ndimaksud dalam Pasal 23 Undang -undang Nomor 7 Tahun 1983\nsebagaimana telah diubah terakhir dengan Undang -undang Nomor\n10 Tahun 1994 terutang pada akhir bulan dilakukannya pembayaran\natau pada akhir bulan terutangnya penghasilan yang bersangkutan.\n(4) Pemotongan Pajak Penghasilan atas penghasilan sebagaimana\ndimaksud dalam Pasal 26 ayat (1) dan ayat (2) Undang -undang\nNomor 7 Tahun 1983 sebagaimana telah diubah terakhir dengan\nUndang-undang Nomor 10 Ta hun 1994 terutang pada akhir bulan\ndilakukannya pembayaran atau terutangnya penghasilan yang\nbersangkutan.\n(5) Pemotongan...\nPRESIDEN\nREPUBLIK INDONESIA\n(5) Pemotongan Pajak Penghasilan atas penghasilan sebagaimana\ndimaksud dalam Pasal 26 ayat (4) Undang -undang Nomor 7 Tahun\n1983 sebagaimana telah diubah terakhir dengan Undang -undang\nNomor 10 Tahun 1994 terutang dan harus dibayar lunas\nselambat-lambatnya tanggal dua puluh lima bulan ketiga setelah\ntahun pajak atau bagian tahun pajak berakhir, sebelum Surat\nPemberitahuan Tahunan disampaikan.\n(6) Dalam hal pemotong pajak sebagaimana dimaksud dalam ayat (5)\nmeminta perpanjangan jangka waktu penyampaian Surat\nPemberitahuan Tahunan, pemotongan Pajak Penghasilan Pasal 26\nayat (4) Undang -undang Nomor 7 Tahun 1983 sebagaimana telah\ndiubah terakhir dengan Undang -undang Nomor 10 Tahun 1994\nberdasarkan penghitungan sementara, terutang dan harus dibayar\nlunas pada saat surat permohonan perpanjangan disampaikan, akan\ntetapi tidak melampaui tanggal dua puluh lima bulan ketiga setelah\ntahun pajak atau bagian tahun pajak berakhir."
+   }
+  },
+  {
+   "id": "ID-H717-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\n(1) Wajib Pajak yang dalam suatu tahun pajak masih berhak melakukan\nkompensasi atas kerugian dari tahun-tahun pajak sebelumnya, dapat\nmengajukan permohonan pembebasan dari pemotongan dan/atau\npemungutan pajak oleh pihak lain sepanjang kerugian tersebut\njumlahnya lebih besar daripada perkiraan penghasilan neto tahun\npajak yang bersangkutan.\n(2) Wajib Pajak yang dapat menunjukkan bahwa dalam suatu tahun\npajak tidak akan terutang Pajak Penghasilan, dapat mengajukan\npermohonan pembebasan dari pemotongan dan/atau pemungutan\npajak oleh pihak lain.\n(3) Permohonan...\nPRESIDEN\nREPUBLIK INDONESIA\n(3) Permohonan sebagaimana dimaksud dalam ayat (1) dan ayat (2)\ntidak berlaku terhadap penghasilan yang dikenakan pajak\ntersendiri berdasarkan Pasal 4 ayat (2) Undang -undang Nomor 7\nTahun 1983 sebagaimana telah diubah terakhir dengan\nUndang-undang No -mor 10 Tahun 1994 dan penghasilan yang\ndikenakan pajak melalui pemotongan dan/atau pemungutan pajak\noleh pihak lain yang bersifat final.\n(4) Dalam hal Direktur Jenderal Pajak mengabulkan permohonan\npembebasan sebagaimana dimaksud dalam ayat (1) dan ayat (2),\nmaka keputusan dimaksud berlaku sejak tanggal keputusan.\n(5) Hal-hal yang menyangkut pelaksanaan ketentuan di atas ditetapkan\nlebih lanjut oleh Direktur Jenderal Pajak.\nBAB III\nPELUNASAN PAJAK DALAM TAHUN BERJALAN\nOLEH WAJIB PAJAK SENDIRI"
+   }
+  },
+  {
+   "id": "ID-H717-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\nWajib Pajak orang pribad i dalam negeri yang menerima penghasilan\nsehubungan dengan pekerjaan dari badan -badan sebagaimana dimaksud\ndalam Pasal 21 ayat (2) Undang -undang Nomor 7 Tahun 1983\nsebagaimana telah diubah terakhir dengan Undang -undang Nomor 10\nTahun 1994 diwajibkan menghi tung dan membayar sendiri jumlah Pajak\nPenghasilan yang terutang dalam tahun berjalan dan atas penghasilan\ntersebut dilaporkan dalam Surat Pemberitahuan Tahunan."
+   }
+  },
+  {
+   "id": "ID-H717-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9…"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 9\nPembayaran-pembayaran lain untuk Pajak Penghasilan yang dilakukan\nsendiri oleh Wajib Pajak dalam tahun berjalan, kecuali pembayaran\nsendiri yang berkenaan dengan penghasilan yang pengenaan pajaknya\ndiatur tersendiri berdasarkan Pasal 4 ayat (2) Undang -undang Nomor 7\nTahun 1983 sebagaimana telah diubah terakhir dengan Undang -undang\nNomor 10 Tahun 1994 yang bersifat final, termasuk dalam pengertian\nangsuran Pajak Penghasilan Pasal 25 Undang -undang Nomor 7 Tahun\n1983 sebagaimana telah diubah terakhir dengan Undang -undang Nomor\n10 Tahun 1994 yang dapat dikreditkan terhadap Pajak\nPenghasilan yang terutang untuk tahun pajak yang bersangkutan\nsebagaimana dimaksud dalam Pasal 28 Undang -undang Nomor 7 Tahun\n1983 sebagaimana telah diubah terakhir dengan Undang -undang Nomor\n10 Tahun 1994.\nBAB IV\nKETENTUAN LAIN-LAIN"
+   }
+  },
+  {
+   "id": "ID-H717-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\n(1) Dalam hal terdapat perubahan tahun buku yang telah mendapat\npersetujuan dari Direktur Jenderal Pajak sebagaimana dimaksud\ndalam Pasal 28 ayat (8) Undang -undang Nomor 6 Tahun 1983\ntentang Ketentuan Umum dan Tata Cara Perpajakan sebagaimana\ntelah diubah dengan Undang -undang Nomor 9 Tahun 1994, maka\npenghasilan yang diterima atau diperoleh dalam bagian tahun\nbuku yang tidak termasuk dalam tahun buku yang baru, harus\ndilaporkan tersendiri dengan melampirkan neraca dan perhitungan\nrugi/laba berkenaan dengan bagian tahun buku dimaksud.\n(2) Hal-...\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Hal-hal yang menyangkut pelaksanaan ketentuan sebagaimana\ndimaksud dalam ayat (1) ditetapkan lebih lanjut oleh Direktur\nJenderal Pajak.\nBAB V\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H717-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\n(1) Pengeluaran untuk memperoleh harta berwujud kecuali bangunan,\ndan harta tidak berwujud yang masih dimiliki pada awal tahun pajak\n1995 dan dipergunakan untuk mendapatkan, menagih, dan\nmemelihara penghasilan disusutkan atau diamortisasi sesuai dengan\nketentuan sebagaimana diatur dalam Pasal 11 atau Pasal 11A\nUndang-undang Nomor 7 Tahun 1983 sebagaimana telah diubah\nterakhir dengan Undang -undang Nomor 10 Tahun 1994 dengan\nmemperhatikan sisa masa manfaatnya.\n(2) Penyusutan atau amortisasi sebagaimana dimaksud dalam ayat (1)\ndilakukan berdasarkan nilai sisa buku harta yang bersangkutan pada\nawal tahun pajak 1995.\n(3) Apabila sisa masa manfaat harta sebagaimana dimaksud dalam ayat\n(1) berakhir dalam tahun pajak 1995, maka nilai sisa buku harta\ntersebut disusutkan atau diamortisasi seluruhnya dalam tahun pajak\n1995.\n(4) Penyusutan atas harta berupa bangunan yang masih dimiliki pada\nawal tahun 1995 dan dipergunakan untuk mendapatkan, menagih\ndan memelihara pe nghasilan, dilakukan dengan cara yang sama\ndengan penyusutan yang telah dilakukan dalam tahun -tahun pajak\nsebelum tahun pajak 1995."
+   }
+  },
+  {
+   "id": "ID-H717-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12…"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 12\nWajib Pajak yang berhak atas kompensasi kerugian lebih dari 5 (lima)\ntahun tetapi tidak lebih dari 8 (delapan) tahun, yang masih mempunyai\nsisa kerugian tahun pajak 1994 dan sebelumnya, tetap dapat melakukan\nkompensasi atas kerugian tersebut sesuai dengan jangka waktunya."
+   }
+  },
+  {
+   "id": "ID-H717-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\nBesarnya angsuran pajak dalam tahun pajak berjalan yang harus dibayar\nsendiri oleh Wajib Pajak untuk setiap bulan dalam tahun pajak 1995\nditetapkan lebih lanjut oleh Direktur Jenderal Pajak."
+   }
+  },
+  {
+   "id": "ID-H717-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\nDengan berlakunya Peratura n Pemerintah ini, peraturan pelaksanaan di\nbidang Pajak Penghasilan yang sudah ada tetap berlaku, sepanjang tidak\nbertentangan dengan Peraturan Pemerintah ini dan belum diganti dengan\nperaturan pelaksanaan yang baru.\nBAB VI\nPENUTUP"
+   }
+  },
+  {
+   "id": "ID-H717-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\nDengan berlakunya Peraturan Pemerintah ini, maka :\na. Peraturan Pemerintah Nomor 42 Tahun 1985 tentang\nPelaksanaan Undang-undang Pajak Penghasilan 1984 sebagaimana\ntelah diubah dengan Peraturan Pemerintah Nomor 39 Tahun 1993\ntentang Perubahan atas Peraturan Pemerintah Nomor 42 Tahun\n1985 tentang Pelaksanaan Undang-undang Pajak Penghasilan 1984;\nb. Peraturan…\nPRESIDEN\nREPUBLIK INDONESIA\nb. Peraturan Pemerintah Nomor 61 Tahun 1992 tentang Pajak\nPenghasilan Perusahaan Reksa Dana;\nc. Peraturan Pemerintah Nomor 62 Tahun 1992 tentang Sektor -sektor\nUsaha Perusahaan Pasangan Usaha dari Perusahaan Modal Ventura\ndalam pelaksanaan Undang -undang Nomor 7 Tahun 1983 tentang\nPajak Penghasilan sebagaimana telah diubah dengan\nUndang-undang Nomor 7 Tahun 1991;\nd. Peraturan Pemerintah Nomor 63 Tahun 1992 tentang Pengertian\nDaerah Terpencil dan Jenis Imbalan Dalam Bentuk Natura dan/atau\nKenikmatan Dalam Pelaksanaan Undang -undang Nomor 7 Tahun\n1983 tentang Pajak Penghasilan sebagaimana telah diubah deng an\nUndang-undang Nomor 7 Tahun 1991;\ndinyatakan tidak berlaku."
+   }
+  },
+  {
+   "id": "ID-H717-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\nKetentuan lebih lanjut mengenai pelaksanaan Peraturan Pemerintah ini\nditetapkan oleh Menteri Keuangan."
+   }
+  },
+  {
+   "id": "ID-H717-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\nPeraturan Pemerintah ini mulai berlaku pada tanggal 1 Januari 1995.\nAgar…\nPRESIDEN\nREPUBLIK INDONESIA\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran\nNegara Republik Indonesia.\nDitetapkan di Jakarta\npada tanggal 27 Desember 1994\nPRESIDEN REPUBLIK INDONESIA,\nttd\nSOEHARTO\nDiundangkan di Jakarta\nPada tanggal 27 Desember 1994\nMENTERI NEGARA SEKRETARIS NEGARA\nREPUBLIK INDONESIA,\nttd\nMOERDIONO\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1994 NOMOR\nPRESIDEN\nREPUBLIK INDONESIA\nPENJELASAN\nATAS\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nNOMOR 47 TAHUN 1994\nTENTANG\nPENGHITUNGAN PENGHASILAN KENA PAJAK DAN PELUNASAN\nPAJAK PENGHASILAN DALAM TAHUN BERJALAN\nUMUM\nSistem pengenaan pajak yang diatur dalam Undang-undang Nomor 6 Tahun 1983 tentang\nKetentuan Umum dan Tata Cara Perpajakan sebagaimana telah diubah terakhir dengan\nUndang-undang Nomor 9 Tahun 1994 adalah memberikan kepercayaan dan tanggung\njawab yang l ebih besar kepada masyarakat Wajib Pajak untuk melaksanakan kewajiban\nperpajakannya. Pemerintah dalam hal ini aparatur perpajakan sesuai dengan fungsinya\nberkewajiban memberikan penyuluhan dan pembinaan serta pengawasan, agar masyarakat\nWajib Pajak mau dan mampu melaksanakan kewajiban perpajakannya dengan baik sesuai\ndengan peraturan perundang-undangan yang berlaku.\nSehubungan dengan berlakunya Undang -undang Nomor 10 Tahun 1994 tentang\nPerubahan atas Undang -undang Nomor 8 Tahun 1983 tentang Pajak Penghasil an, dan\nagar masyarakat Wajib Pajak dapat memenuhi kewajibannya dengan mudah dan aparatur\nperpajakan dapat melakukan pembinaan dan pengawasan dengan baik, maka dipandang\nperlu mengatur tentang Penghitungan Penghasilan Kena Pajak dan Pelunasan Pajak\nPenghasilan dalam tahun berjalan dengan Peraturan Pemerintah.\nPASAL DEMI PASAL\nPasal 1\nAyat (1)\nPada dasarnya Pajak Masukan yang tidak dapat dikreditkan sebagaimana\ndimaksud dalam Pasal 9 ayat (8) Undang -undang Nomor 8 Tahun 1983\nsebagaimana telah diubah dengan Undang -undang Nomor 11 Tahun 1994,\nmerupakan pengeluaran yang secara komersial merupakan biaya bagi Wajib\nPajak. Namun demikian untuk kepentingan penghitungan besarnya\nPenghasilan Kena Pajak tidak semua Pajak Masukan yang tidak dapat\ndikreditkan tersebut boleh dikurangkan dari penghasilan bruto.\nFaktur…\nPRESIDEN\nREPUBLIK INDONESIA\nFaktur Pajak Masukan yang tidak memenuhi ketentuan sebagaimana dimaksud\ndalam Pasal 13 ayat (5) dan ayat (6) Undang -undang Nomor 8 Tahun 1983\nsebagaimana telah diubah dengan Undang -undang Nomor 11 Tahun 1994\ntidak dapat dipakai sebagai bukti pengeluaran, dan oleh karena itu tidak boleh\ndikurangkan dari penghasilan bruto.\nPajak Masukan yang tidak boleh dikreditkan yang berkaitan dengan perolehan\nbarang dan jasa sebagaimana dimaksud dalam Pasal 9 ayat (1) huruf a,b, e, f, g\ndan huruf i Undang -undang Nomor 7 Tahun 1983 sebagaimana telah diubah\nterakhir dengan Undang -undang Nomor 10 Tahun 1994 tidak boleh\ndikurangkan sebagai biaya, karena Pajak Masukan tersebut melekat pada\nbarang dan jasa tersebut.\nAyat (2)\nPajak Masukan yang boleh dikurangkan dari penghasilan bruto yang\nberkenaan dengan perolehan barang atau jasa yang mempunyai masa manfaat\nlebih dari satu tahun merupakan unsur biaya yang melekat pada harga atau\nnilai perolehan barang atau jasa tersebut. Oleh karena itu pembebanannya\ndilakukan melalui penyusutan atau amortisasi.\nPasal 2\nSesuai ketentuan yang diatur dalam Pasal 6 ayat (1) Undang-undang Nomor 7 Tahun\n1983 sebagaimana telah diubah terakhir dengan Undang -undang Nomor 10 Tahun\n1994 biaya untuk mendapatkan, menagih, dan memelihara penghasilan boleh\ndikurangkan dari penghasilan bruto untuk menghitung besarnya Penghasilan Kena\nPajak. Bertitik tolak dari isi ketentuan t ersebut, maka pengeluaran yang dapat\ndibebankan sebagai biaya harus mempunyai hubungan langsung dengan usaha untuk\nmendapatkan, menagih, dan memelihara penghasilan yang merupakan Objek Pajak.\nHuruf a\nBerdasarkan prinsip tersebut di atas, pengeluaran -pengeluaran untuk\nmendapatkan, menagih, dan memelihara penghasilan yang bukan merupakan\nObjek Pajak tidak boleh dikurangkan dari penghasilan bruto lainnya yang\nmerupakan Objek Pajak.\nHuruf b dan huruf c\nSelaras dengan prinsip tersebut di atas, biaya -biaya yang berkenaan dengan\npenghasilan yang dikenakan pajak tersendiri dan penghasilan yang dikenakan\npemotongan atau pemungutan Pajak Penghasilan yang bersifat final tidak\nboleh dikurangkan dari penghasilan bruto lainnya yang pengenaan pajaknya\ndilakukan dengan menggunakan tarif umum.\nHuruf d…\nPRESIDEN\nREPUBLIK INDONESIA\nHuruf d\nPada dasarnya Pajak Penghasilan atas Wajib Pajak luar negeri yang dipotong\nberdasarkan Pasal 26 Undang -undang Nomor 7 Tahun 1983 sebagaimana\ntelah diubah terakhir dengan Undang -undang Nomor 10 Tahun 1994 tidak\ndapat dibebankan sebagai biaya oleh Wajib Pajak dalam negeri atau bentuk\nusaha tetap yang bersangkutan. Namun karena berdasarkan pertimbangan\nekonomi masih diperlukan modal, teknologi, dan jasa dari luar negeri, maka\nPajak Penghasilan yang terutang sebagaimana dimaksud dalam Pasal 26 ayat\n(1) kecuali dividen, yang ditanggung oleh pemberi penghasilan dapat\ndibebankan sebagai biaya sepanjang pajak tersebut ditambahkan pada\npenghasilan yang dipakai sebagai dasar pemotong an Pajak Penghasilan Pasal\n26 tersebut.\nContoh:\nPT. ABC membayar bunga kepada Bank di luar negeri sebesar Rp\n100.000.000,00 yang Pajak Penghasilannya ditanggung oleh PT. ABC, dengan\ntarif pemotongan sebesar 20%.\n- Jumlah yang dijadikan dasar pengenaan Pajak Penghasilan Pasal 26 =\n100\n----- xRp 100.000.000,00 = Rp 125.000.000,00\n80\n- Pajak Penghasilan Pasal 26 yang terutang =\n20% x Rp 125.000.000,00 = Rp 25.000.000,00\n- Jumlah biaya bunga yang boleh dikura ngkan dari penghasilan bruto\nPT.ABC. = Rp 125.000.000,00 (Rp 100.000.000,00 + Rp 25.000.000,00)\nPasal 3\nCukup jelas\nPasal 4\nMenurut ketentuan Undang-undang Nomor 7 Tahun 1983 sebagaimana telah diubah\nterakhir dengan Undang -undang Nomor 10 Tahun 1994, penghasilan diakui pada\nsaat diterima secara tunai (metode kas) atau pada saat diperoleh (metode akrual).\nDalam…\nPRESIDEN\nREPUBLIK INDONESIA\nDalam perusahaan -perusahaan kontraktor yang pengakuan penghasilannya\ndilakukan berdasarkan metode akrual, dijump ai cara atau metode yang lazim\ndigunakan untuk menentukan besarnya penghasilan yaitu:\na. penghasilan diakui secara periodik atas dasar persentase dari pekerjaan yang\ndiselesaikan. Dengan demikian penghasilan diakui secara proporsional sesuai\ndengan tahap penyelesaian pekerjaan. Cara ini lazim dijumpai dalam\nperusahaan-perusahaan konstruksi atau kontraktor bangunan yang\nmengerjakan proyek-proyek yang memakan waktu beberapa tahun. Metode ini\ndikenal sebagai metode persentase penyelesaian (\"percentage of com pletion\nmethod\"), atau\nb. penghasilan diakui pada saat kontrak telah selesai. Cara ini dikenal atau lazim\ndisebut metode kontrak selesai (\"completed contract method\").\nPenggunaan salah satu di antara kedua metode pengakuan penghasilan tersebut di\natas, akan menghasilkan jumlah penghasilan yang berbeda dari tahun ketahun dan\nperbedaan dalam penghitungan Pajak Penghasilan yang terutang untuk tiap tahun\npajak sebagai berikut :\na. dalam hal pengakuan penghasilan dilakukan berdasarkan \"metode persentase\npenyelesaian\", maka penghitungan Pajak Penghasilan yang terutang dilakukan\nsetiap tahun pajak atas dasar penghasilan yang diperoleh secara periodik\n(proporsional) selama tahap penyelesaian pekerjaan.\nb. dalam hal pengakuan penghasilan dilakukan berdasarkan \"metode kontrak\nselesai\", penghitungan Pajak Penghasilan yang terutang dilakukan pada saat\natau pada tahun pajak selesainya pelaksanaan pekerjaan, karena penghasilan\nbaru diakui p ada akhir tahun selesainya pekerjaan. Selama tahap penyelesaian\npekerjaan tidak dilakukan penghitungan Pajak Penghasilan yang terutang.\nMengingat akan hal tersebut di atas, maka ketentuan tentang pengakuan penghasilan\ndilakukan berdasarkan persentase tingkat penyelesaian pekerjaan yang dimaksudkan\nuntuk:\na. meratakan pembebanan pajak dalam setiap tahun pajak selama jangka waktu\npenyelesaian pekerjaan yang dapat meringankan beban Wajib Pajak, karena\npembayaran pajak pada suatu tahun pajak sesuai dengan p enghasilan yang\ndiperoleh secara proporsional selama tahap penyelesaian pekerjaan, dan beban\npajak tersebut tidak menumpuk pada akhir tahun penyelesaian pekerjaan;\nb. memperoleh…\nPRESIDEN\nREPUBLIK INDONESIA\nb. memperoleh keseragaman dalam pengakuan penghasilan bagi semua Wajib\nPajak yang bergerak dalam bidang kontraktor konstruksi atau kontraktor\nbangunan;\nc. memberikan perlakuan yang sama bagi Wajib Pajak yang bergerak dalam\nusaha yang sama.\nAyat (1)\nKetentuan ini mewajibkan bagi Wajib Pajak yang bergerak dalam bidang\nkonstruksi dan kontraktor bangunan untuk mempergunakan metode persentase\ntingkat penyelesaian (\"percentage of completion method\") dalam menentukan\nbesarnya laba bruto usaha dalam suatu tahun pajak.\nAyat (2)\nUntuk menghitung penghasilan neto, maka laba bruto us aha sebagaimana\ndimaksud dalam ayat (1) dikurangi dengan biaya -biaya sebagaimana\ndimaksud dalam Pasal 6 ayat (1) Undang-undang Nomor 7 Tahun 1983\ntentang Pajak Penghasilan sebagaimana telah diubah terakhir dengan\nUndang-undang Nomor 10 Tahun 1994, misa lnya biaya umum dan\nadministrasi.\nPasal 5\nDalam praktek dunia usaha dapat ditemui belum adanya keseragaman mengenai saat\npengakuan penghasilan dan biaya untuk bidang -bidang usaha terte ntu, sehingga\nmenimbulkan perbedaan dalam pemenuhan kewajiban perpajakan oleh Wajib Pajak.\nDapat pula terjadi kemungkinan penggeseran penghasilan dan biaya yang dapat\nmengakibatkan penghitungan penghasilan dalam suatu tahun pajak secara tidak\nwajar.\nBerdasarkan pertimbangan -pertimbangan di atas Direktur Jenderal Pajak diberi\nwewenang untuk menentukan saat pengakuan penghasilan dan biaya bagi bidang\nusaha tertentu seperti perusahaan yang bergerak dalam bidang properti dan\npengusahaan lapangan golf.\nPasal 6\nKetentuan ini mengatur tentang saat terutangnya pemotongan dan pemungutan pajak\nsebagaimana diatur dalam Pasal 21, Pasal 22, Pasal 23, dan Pasal 26\nUndang-undang Nomor 7 Tahun 1983 sebagaimana telah diubah terakhir dengan\nUndang-undang Nomor 10 Tahun 1994. Saat terutangnya pemotongan dan\npemungutan pajak berkaitan dengan tanggal jatuh tempo pembayaran pajak yaitu\nbatas terakhir penyetoran pajak yang telah dipotong atau dipungut ke bank persepsi\natau Kantor Pos dan Giro.\nDalam…\nPRESIDEN\nREPUBLIK INDONESIA\nDalam ketentuan ini diatur mengenai saat terutangnya pemotongan dan pemungutan\npajak, yaitu dikaitkan dengan saat pembayaran atau saat terutangnya penghasilan.\nYang dimaksud dengan saat terutangnya penghasilan adalah saat pembebanan\nsebagai biaya oleh pemotong pajak sesu ai dengan metode pembukuan yang\ndianutnya.\nAyat (1)\nCukup jelas\nAyat (2)\nBerdasarkan ketentuan ini Menteri Keuangan diberi wewenang untuk\nmenetapkan saat lain mengenai terutangnya pemungutan Pajak Penghasilan"
+   }
+  },
+  {
+   "id": "ID-H717-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22 selain saat pembayaran"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {
+    "id": "selain saat pembayaran."
+   },
+   "text": {
+    "id": "Pasal 22 selain saat pembayaran.\nAyat (3)\nPada dasarnya terutangnya pemotongan pajak sebagaimana diatur dalam Pasal\n23 Undang -undang Nomor 7 Tahun 1983 sebagaimana telah diubah terakhir\ndengan Undang -undang Nomor 10 Tahun 1994 adalah akhir bulan\ndilakukannya pembayaran atau terutangnya penghasilan. Untuk penghasilan\nberupa dividen,terutangnya penghasilan adalah pada saat dividen ditetapkan\ndalam Rapat Umum Pemegang Saham (RUPS) atau diumumkan siapa y ang\nberhak atas pembagian dividen, atau pada saat dibayarkan kepada pemegang\nsaham, dengan memperhatikan saat mana yang terjadi lebih dahulu.\nAyat (4)\nCukup jelas\nAyat (5)\nCukup jelas\nAyat (6)\nCukup jelas\nPasal 7…\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 7\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nAyat (5)\nCukup jelas\nPasal 8\nDengan dikecualikannya badan perwakilan negara asing dan organisasi internasional\ndari kewajiban melakukan pemotongan pajak seb agaimana dimaksud dalam\nPasal 21 ayat (2) Undang -undang Nomor 7 Tahun 1983 sebagaimana telah diubah\nterakhir dengan Undang -undang Nomor 10 Tahun 1994, maka Wajib Pajak dalam\nnegeri yang menerima atau memperoleh penghasilan dari badan -badan tersebut\nberkewajiban menghitung, membayar, dan melaporkan sendiri jumlah Pajak\nPenghasilan yang terutang.\nDengan demikian Wajib Pajak dalam negeri yang bekerja pada perwakilan negara\nasing dan organisasi internasional tersebut yang menerima atau memperoleh\npenghasilan di atas Penghasilan Tidak Kena Pajak wajib mendaftarkan diri untuk\nmendapatkan Nomor Pokok Wajib Pajak dan wajib menyampaikan Surat\nPemberitahuan Tahunan.\nPasal 9\nMisalnya pembayaran Pajak Penghasilan atas komisi impor ( “handling fee ”) oleh\nimportir yang mengimpor barang atas dasar inden. Pembayaran tersebut merupakan\npembayaran pembayaran sendiri yang dapat dikreditkan terhadap Pajak Penghasilan\nyang terutang untuk tahun pajak yang bersangkutan.\nPasal 10…\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 10\nAyat (1)\nWajib Pajak dapat memilih untuk menggunakan tahun pajak berdasarkan tahun\ntakwim atau tahun buku, tapi harus dilaksanakan secara taat asas (konsisten).\nPerubahan tahun buku dapat dilakukan, setelah mendapat persetujuan dari\nDirektur Jenderal Pajak.\nTerjadinya perubahan tahun buku dapat menimbulkan adanya bagian dari\ntahun buku yang tidak dapat dimasukkan baik dalam tahun buku yang lama\n(tahun buku semula) maupun dalam tahun buku yang baru.\nMenurut ketentuan ini, maka untuk penghitungan Pajak Penghasil an atas\nbagian dari tahun buku tersebut harus dilaporkan tersendiri oleh Wajib\nPajak dengan menggunakan Surat Pemberitahuan dan melampirkan\nNeraca serta Perhitungan Rugi/Laba berkenaan dengan bagian dari tahun buku\nyang bersangkutan.\nAyat (2)\nCukup jelas\nPasal 11\nAyat (1)\nBerdasarkan ketentuan ini, sisa pengeluaran untuk memperoleh harta berwujud\nkecuali harta berupa bangunan dan harta tidak berwujud sebelum tahun\npajak 1995 yang boleh disusutkan atau diamortisasi adalah apabila harta\ntersebut masih dimiliki pada awal tahun pajak 1995 dan dipergunakan untuk\nmendapatkan, menagih, dan memelihara penghasilan.\nUntuk menghitung besarnya penyusutan atau amortisasi untuk tahun pajak\n1995 atas sisa pengeluaran tersebut, maka sisa masa manfaat harta tersebut\ntanpa memperhatikan jenisnya merupakan titik tolak untuk menentukan harta\ntersebut ke dalam kelompok harta sesuai ketentuan Pasal 11 ayat (6) atau Pasal\n11A ayat (2) Undang -undang Nomor 7 Tahun 1983 sebagaimana telah diuba h\nterakhir dengan Undang-undang Nomor 10 Tahun 1994.\nContoh:…\nPRESIDEN\nREPUBLIK INDONESIA\nContoh:\nMesin yang digunakan dalam usaha industri yang menurut peraturan\ntermasuk dalam Golongan I telah digunakan selama 2 (dua) tahun, sisa\nmanfaat mesin tersebut adalah 2 (dua) tahun. Apabila berdasarkan ketentuan\nbaru mesin tersebut termasuk dalam Kelompok 1 yang masa manfaatnya 4\ntahun, maka untuk penghitungan penyusutan dimasukkan dalam kelompok\nharta yang mempunyai masa manfaat sesuai sisa manfaat harta tersebut, yaitu\nmasuk dalam Kelompok 1. Apabila tidak termasuk dalam masa manfaat\nyang ditentukan dalam Pasal 11 ayat (6) atau Pasal 11A ayat (2), maka\ndimasukkan dalam kelompok harta yang masa manfaatnya terdekat dengan\nsisa masa manfaat harta tersebut.\nDalam hal sisa masa manfaat harta berada di tengah -tengah antara kelompok\nharta yang satu dengan yang lain, maka Wajib Pajak boleh memilih untuk\nmenentukan kelompok harta tersebut, misaln ya apabila sisa masa manfaat\nharta 6 (enam) tahun, maka Wajib Pajak boleh memilih Kelompok 1 atau\nKelompok 2.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nPenyusutan atas harta berupa bangunan baik permanen maupun tidak\npermanen dilakukan dengan cara meneruskan penyusutan yang telah dilakukan\ndalam tahun -tahun sebelum tahun pajak 1995 dengan memperhatikan harga\n(nilai) perolehan dan sisa manfaat harta tersebut.\nContoh :\nHarga perolehan bangunan = Rp 2.000.000.000,00\nTelah disusutkan s/d tahun pajak 1994\nselama 10 tahun:\n10 x 5% x Rp 2.000.000.000,00 = Rp 1.000.000.000,00\nNilai sisa buku pada 1 Januari 1995 = Rp 1.000.000.000,00\nPenyusutan…\nPRESIDEN\nREPUBLIK INDONESIA\nPenyusutan dalam tahun pajak 1995 dan tahun -tahun pajak selanjutnya\ndilakukan dengan cara yang sama dengan tahun -tahun pajak sebelum tahun\npajak 1995 yaitu sebesar 5% x Rp 2.000.000.000,00\n= Rp 100.000.000,00.\nPasal 12\nCukup jelas\nPasal 13\nDengan penurunan tarif Pajak Penghasilan yang mulai berlaku sejak tahun pajak\n1995, maka perlu penyesuaian dalam penghitungan untuk menentukan besarnya\nPajak Penghasilan yang harus dibayar sendiri dalam tahun pajak berjalan 1995.\nPengaturan lebih lanjut mengenai hal ini ditetapkan oleh Direktur Jenderal Pajak.\nPasal 14\nCukup jelas\nPasal 15\nCukup jelas\nPasal 16\nCukup jelas\nPasal 17\nCukup jelas\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 3579"
+   }
+  }
+ ]
+}

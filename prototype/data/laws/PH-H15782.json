@@ -1,0 +1,62 @@
+{
+ "id": "PH-H15782",
+ "title": {
+  "zh": null,
+  "en": "An Act to Declare that Public Act Numbered Five Hundred and Twenty-One, Known as \"Carriage of Goods By Sea Act,\" Enacted By the Seventy-Fourth",
+  "orig": "An Act to Declare that Public Act Numbered Five Hundred and Twenty-One, Known as \"Carriage of Goods By Sea Act,\" Enacted By the Seventy-Fourth"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1936-10-22",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 65",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 584,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00065_1936_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00065_1936_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H15782-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "That the provisions of Public Act Numbered Five hundred and twenty-one of the Seventy-fourth\nCongress of the United States, approved on April sixteenth, nineteen hundred and thirty-six, be accepted, as it\nis hereby accepted to be made applicable to all contracts for the carriage of goods by sea to and from\nPhilippine ports in foreign trade: Provided, That nothing in this Act shall be construed as repealing any\nexisting provision of the Code of Commerce which is now in force, or as limiting its application."
+   }
+  },
+  {
+   "id": "PH-H15782-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, October 22, 1936."
+   }
+  }
+ ]
+}

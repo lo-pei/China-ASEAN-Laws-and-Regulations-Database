@@ -1,0 +1,72 @@
+{
+ "id": "PH-H10728",
+ "title": {
+  "zh": null,
+  "en": "AN ACT TO INCREASE THE MONTHLY SALARIES OF THE NATIVE FILIPINO PUBLIC SCHOOL TEACHERS OF MANILA AND VICINITY.",
+  "orig": "AN ACT TO INCREASE THE MONTHLY SALARIES OF THE NATIVE FILIPINO PUBLIC SCHOOL TEACHERS OF MANILA AND VICINITY."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 15",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 616,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_00015_1900_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_00015_1900_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H10728-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Until the salaries of all school-teachers can be properly adjusted by general law establishing a\nproper school system m the Islands, the monthly salaries of the native Filipino schoolteachers now teaching\nin the public schools of the city of Manila and in the suburbs of Pandacan, Pasay, Singalon, and Santa Ana,\nshall be increased thirty-three and one-third per cent over and above their present salaries."
+   }
+  },
+  {
+   "id": "PH-H10728-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The increase provided for in the first section of this Act shall apply to the salaries to be paid for\nthe month of October, nineteen hundred."
+   }
+  },
+  {
+   "id": "PH-H10728-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, October 10, 1900."
+   }
+  }
+ ]
+}

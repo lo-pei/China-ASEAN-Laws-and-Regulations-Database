@@ -1,0 +1,448 @@
+{
+ "id": "VN-H311",
+ "title": {
+  "zh": "人民法院组织法",
+  "en": "Law on organisation of People's Courts",
+  "vi": "Luật Tổ chức Tòa án nhân dân",
+  "orig": "Luật Tổ chức Tòa án nhân dân số Không số",
+  "th": "พระราชบัญญัติการจัดตั้งศาลประชาชน",
+  "id": "Undang-Undang Susunan Pengadilan Rakyat",
+  "ms": "Akta Organisasi Mahkamah Rakyat"
+ },
+ "country": "VN",
+ "countryName": "越南",
+ "layer": "intl",
+ "pack": "vn-p06",
+ "language": "vi",
+ "level": "law",
+ "category": "05_其他及未分类",
+ "status": "active",
+ "promulgatedDate": "1960",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "国会",
+ "docNumber": "Không số",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 29,
+ "chars": 14251,
+ "source": {
+  "name": "越南法律数据库（vbpl.vn 官方公报文本）",
+  "url": "https://vbpl.vn/van-ban/chi-tiet/luat-to-chuc-toa-an-nhan-dan-so-khong-so--882"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\VN\\05_其他及未分类\\1960_Không số_Luật Tổ chức Tòa án nhân dân số Không số.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 29 条；逐字未改写（源自 VN）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "VN-H311-A1",
+   "no": 1,
+   "noLabel": {
+    "vi": "Điều 1"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 1\n\nCác Toà án nhân dân là những cơ quan xét xử của nước Việt Nam dân chủ cộng hoà.\n\nToà án nhân dân xét xử những vụ án hình sự và dân sự để trừng trị những kẻ phạm tội và giải quyết những việc tranh chấp về dân sự trong nhân dân.\n\nMục đích của việc xét xử là bảo vệ chế độ dân chủ nhân dân, trật tự xã hội, tài sản công cộng và quyền lợi hợp pháp của nhân dân, góp phần bảo đảm cho công cuộc xây dựng chủ nghĩa xã hội ở miền Bắc và sự nghiệp đấu tranh nhằm thực hiện thống nhất nước nhà được tiến hành thắng lợi.\n\nTrong mọi hoạt động của mình, Toà án nhân dân giáo dục công dân trung thành với Tổ quốc, với chế độ dân chủ nhân dân, tôn trọng tài sản công cộng, tự giác tuân theo pháp luật, kỷ luật lao động và quy tắc sinh hoạt xã hội.\n\nToà án nhân dân xử phạt về hình sự không những chỉ trừng trị phạm nhân mà còn nhằm giáo dục và cải tạo họ."
+   }
+  },
+  {
+   "id": "VN-H311-A2",
+   "no": 2,
+   "noLabel": {
+    "vi": "Điều 2"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 2\n\nCác Toà án nhân dân gồm có:\n\n- Toà án nhân dân tối cao,\n\n- Các Toà án nhân dân địa phương,\n\n- Các Toà án quân sự.\n\nCác Toà án nhân dân địa phương gồm có: Toà án nhân dân tỉnh, thành phố trực thuộc trung ương hoặc đơn vị hành chính tương đương, Toà án nhân dân huyện, thành phố thuộc tỉnh, thị xã hoặc đơn vị hành chính tương đương, Toà án nhân dân ở các khu vực tự trị.\n\nở các khu vực tự trị, tổ chức các Toà án nhân dân địa phương sẽ do Hội đồng nhân dân khu vực tự trị quy định, căn cứ vào điều 95 của Hiến pháp và những nguyên tắc tổ chức Toà án nhân dân định trong luật này.\n\nTổ chức các Toà án quân sự sẽ do Uỷ ban thường vụ Quốc hội quy định riêng, căn cứ vào những nguyên tắc tổ chức Toà án nhân dân định trong luật này."
+   }
+  },
+  {
+   "id": "VN-H311-A3",
+   "no": 3,
+   "noLabel": {
+    "vi": "Điều 3"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 3\n\nToà án nhân dân xét xử theo nguyên tắc mọi công dân đều bình đẳng trước pháp luật, không phân biệt nam nữ, dân tộc, nòi giống, tôn giáo, tín ngưỡng, địa vị xã hội và thành phần xã hội."
+   }
+  },
+  {
+   "id": "VN-H311-A4",
+   "no": 4,
+   "noLabel": {
+    "vi": "Điều 4"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 4\n\nKhi xét xử, Toà án nhân dân có quyền độc lập và chỉ tuân theo pháp luật."
+   }
+  },
+  {
+   "id": "VN-H311-A5",
+   "no": 5,
+   "noLabel": {
+    "vi": "Điều 5"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 5\n\nCác Toà án nhân dân thực hành chế độ thẩm phán bầu."
+   }
+  },
+  {
+   "id": "VN-H311-A6",
+   "no": 6,
+   "noLabel": {
+    "vi": "Điều 6"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 6\n\nViệc xét xử tại các Toà án nhân dân đều công khai, trừ trường hợp đặc biệt mà Toà án nhân dân xét thấy cần xử kín để giữ gìn bí mật Nhà nước hoặc giữ gìn đạo đức xã hội."
+   }
+  },
+  {
+   "id": "VN-H311-A7",
+   "no": 7,
+   "noLabel": {
+    "vi": "Điều 7"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 7\n\nQuyền bào chữa của bị cáo được bảo đảm.\n\nNgoài việc tự bào chữa ra, bị cáo có thể nhờ luật sư bào chữa cho mình. Bị cáo cũng có thể nhờ người công dân được đoàn thể nhân dân giới thiệu hoặc được Toà án nhân dân chấp nhận bào chữa cho mình. Khi cần thiết, Toà án nhân dân chỉ định người bào chữa cho bị cáo."
+   }
+  },
+  {
+   "id": "VN-H311-A8",
+   "no": 8,
+   "noLabel": {
+    "vi": "Điều 8"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 8\n\nToà án nhân dân bảo đảm cho công dân thuộc các dân tộc thiểu số có quyền dùng tiếng nói, chữ viết của dân tộc mình trước toà án. Khi cần thiết, Toà án nhân dân phải chỉ định người phiên dịch để bảo đảm thực hiện quyền đó."
+   }
+  },
+  {
+   "id": "VN-H311-A9",
+   "no": 9,
+   "noLabel": {
+    "vi": "Điều 9"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 9\n\nToà án nhân dân thực hành chế độ hai cấp xét xử.\n\nĐương sự có quyền chống bản án hoặc quyết định của Toà án nhân dân xử sơ thẩm lên Toà án nhân dân trên một cấp.\n\nViện kiểm sát nhân dân cùng cấp và trên một cấp có quyền kháng nghị bản án hoặc quyết định sơ thẩm của Toà án nhân dân.\n\nNếu đương sự không chống án hoặc Viện kiểm sát nhân dân không kháng nghị trong thời hạn do pháp luật quy định thì bản án hoặc quyết định sơ thẩm của Toà án nhân dân địa phương sẽ có hiệu lực pháp luật.\n\nBản án và quyết định phúc thẩm của các Toà án nhân dân, bản án và quyết định sơ thẩm của Toà án nhân dân tối cao đều là chung thẩm và có hiệu lực pháp luật.\n\nCác bản án tử hình phải được Hội đồng toàn thể thẩm phán của Toà án nhân dân tối cao duyệt lại trước khi thi hành. Phải có hai phần ba tổng số thẩm phán của Toà án nhân dân tối cao tham dự phiên họp của Hội đồng và quá nửa tổng số thẩm phán tán thành thì quyết nghị của Hội đồng mới có giá trị.\n\nViện trưởng Viện kiểm sát nhân dân tối cao có quyền tham dự phiên họp của Hội đồng toàn thể thẩm phán của Toà án nhân dân tối cao. Nếu Viện trưởng Viện kiểm sát nhân dân tối cao không đồng ý với quyết nghị của Hội đồng toàn thể thẩm phán Toà án nhân dân tối cao thì báo cáo lên Uỷ ban thường vụ Quốc hội xét."
+   }
+  },
+  {
+   "id": "VN-H311-A10",
+   "no": 10,
+   "noLabel": {
+    "vi": "Điều 10"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 10\n\nNhững bản án và quyết định đã có hiệu lực pháp luật, nếu pháp hiện có sai lầm thì được xét lại.\n\nĐối với những bản án và quyết định của các Toà án nhân dân địa phương đã có hiệu lực pháp luật nhưng phát hiện có sai lầm thì Toà án nhân dân tối cao có quyền xét lại hoặc giao cho Toà án nhân dân cấp dưới xét lại.\n\nĐối với những bản án và quyết định của Toà án nhân dân tối cao đã có hiệu lực pháp luật, nếu phát hiện có sai lầm thì Chánh án Toà án nhân dân tối cao đưa ra Uỷ ban thẩm phán Toà án nhân dân tối cao xét định.\n\nĐối với những bản án và quyết định đã có hiệu lực pháp luật của toà án mình hoặc của toà án cấp dưới, nếu phát hiện có sai lầm thì Toà án nhân dân địa phương có quyền nêu lên để Toà án nhân dân tối cao xét định."
+   }
+  },
+  {
+   "id": "VN-H311-A11",
+   "no": 11,
+   "noLabel": {
+    "vi": "Điều 11"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 11\n\nKhi sơ thẩm, Toà án nhân dân có hội thẩm nhân dân tham gia. Hội thẩm nhân dân do nhân dân bầu ra. Khi xét xử, hội thẩm nhân dân ngang quyền với thẩm phán."
+   }
+  },
+  {
+   "id": "VN-H311-A12",
+   "no": 12,
+   "noLabel": {
+    "vi": "Điều 12"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 12\n\nToà án nhân dân thực hành chế độ xét xử tập thể và quyết định theo đa số.\n\nKhi sơ thẩm, Toà án nhân dân gồm một thẩm phán và hai hội thẩm nhân dân; trường hợp xử những vụ án nhỏ, giản đơn và không quan trọng thì Toà án nhân dân có thể xử không có hội thẩm nhân dân.\n\nKhi phúc thẩm những bản án, những quyết định bị chống án hoặc bị kháng nghị, và khi xét lại những bản án, những quyết định đã có hiệu lực pháp luật nhưng phát hiện có sai lầm thì Toà án nhân dân địa phương phải có ba thẩm phán. Trong trường hợp đặc biệt có thể có thêm hội thẩm nhân dân.\n\nKhi phúc thẩm những bản án, những quyết định bị chống án hoặc bị kháng nghị, và khi xét lại những bản án, những quyết định đã có hiệu lực pháp luật nhưng phát hiện có sai lầm, thì Toà án nhân dân tối cao gồm ba hoặc năm thẩm phán.\n\nChánh án Toà án nhân dân chủ toạ phiên toà, hoặc chỉ định một thẩm phán chủ toạ phiên toà."
+   }
+  },
+  {
+   "id": "VN-H311-A13",
+   "no": 13,
+   "noLabel": {
+    "vi": "Điều 13"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 13\n\nTại Toà án nhân dân tối cao, các Toà án nhân dân tỉnh, thành phố trực thuộc trung ương hoặc đơn vị hành chính tương đương, Toà án nhân dân khu tự trị, đều lập ra Uỷ ban thẩm phán có nhiệm vụ tổng kết kinh nghiệm xét xử, thảo luận những vụ án quan trọng hoặc phức tạp và những vấn đề liên quan đến công tác xét xử.\n\nUỷ ban thẩm phán gồm có Chánh án , Phó chánh án và một số thẩm phán, Chánh án điều khiển phiên họp của Uỷ ban thẩm phán. Uỷ ban thẩm phán quyết định theo đa số.\n\nViện trưởng Viện kiểm sát nhân dân cùng cấp có quyền tham dự phiên họp của Uỷ ban thẩm phán."
+   }
+  },
+  {
+   "id": "VN-H311-A14",
+   "no": 14,
+   "noLabel": {
+    "vi": "Điều 14"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 14\n\nĐương sự có quyền yêu cần toà án thay đổi thẩm phán hoặc hội thẩm nhân dân, nếu thấy những người này có quan hệ với vụ án có thể làm cho việc xét xử không được công bằng. Việc thay đổi này do Chánh án Toà án nhân dân xét và quyết định."
+   }
+  },
+  {
+   "id": "VN-H311-A15",
+   "no": 15,
+   "noLabel": {
+    "vi": "Điều 15"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 15\n\nToà án nhân dân tối cao chịu trách nhiệm và báo cáo công tác trước Quốc hội; trong thời gian Quốc hội không họp thì chịu trách nhiệm và báo cáo công tác trước Uỷ ban thường vụ Quốc hội. Các Toà án nhân dân địa phương chịu trách nhiệm và báo cáo công tác trước hội đồng nhân dân cùng cấp.\n\nToà án nhân dân cấp dưới chịu sự giám đốc của Toà án nhân dân cấp trên về công tác xét xử.\n\nCHƯƠNG II\n\nQUYỀN HẠN VÀ TỔ CHỨC CỦA TOÀ ÁN NHÂN DÂN CÁC CẤP\n\nToà án nhân dân huyện, thành phố thuộc tỉnh, thị xã hoặc đơn vị hành chính tương đương."
+   }
+  },
+  {
+   "id": "VN-H311-A16",
+   "no": 16,
+   "noLabel": {
+    "vi": "Điều 16"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 16\n\nToà án nhân dân huyện, thành phố thuộc tỉnh, thị xã hoặc đơn vị hành chính tương đương xử sơ thẩm những vụ án hình sự và dân sự do pháp luật quy định thuộc thẩm quyền của các toà án đó.\n\nToà án nhân dân huyện, thành phố thuộc tỉnh, thị xã hoặc đơn vị hành chính tương đương có nhiệm vụ hoà giải những vụ tranh chấp về dân sự, phân xử những việc hình sự nhỏ không phải mở phiên toà và hướng dẫn công tác hoà giải ở xã và khu phố."
+   }
+  },
+  {
+   "id": "VN-H311-A17",
+   "no": 17,
+   "noLabel": {
+    "vi": "Điều 17"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 17\n\nToà án nhân dân huyện, thành phố thuộc tỉnh, thị xã hoặc đơn vị hành chính tương đương gồm có Chánh án và thẩm phán, nếu cần thiết thì có Phó chánh án.\n\nTOÀ ÁN NHÂN DÂN TỈNH, THÀNH PHỐ TRỰC THUỘC TRUNG ƯƠNG\n\nHOẶC ĐƠN VỊ HÀNH CHÍNH TƯƠNG ĐƯƠNG."
+   }
+  },
+  {
+   "id": "VN-H311-A18",
+   "no": 18,
+   "noLabel": {
+    "vi": "Điều 18"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 18\n\nToà án nhân dân tỉnh, thành phố trực thuộc trung ương hoặc đơn vị hành chính tương đương có thẩm quyền:\n\n- Sơ thẩm những vụ án hình sự và dân sự do pháp luật quy định thuộc thẩm quyền của các toà án đó và những vụ án thuộc thẩm quyền của Toà án nhân dân cấp dưới mà các toà án đó lấy lên để xử;\n\n- Phúc thẩm những bản án và quyết định của Toà án nhân dân cấp dưới bị chống án hoặc bị kháng nghị."
+   }
+  },
+  {
+   "id": "VN-H311-A19",
+   "no": 19,
+   "noLabel": {
+    "vi": "Điều 19"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 19\n\nToà án nhân dân tỉnh, thành phố trực thuộc trung ương hoặc đơn vị hành chính tương đương gồm có Chánh án, một hoặc nhiều Phó chánh án và các thẩm phán.\n\nTOÀ ÁN NHÂN DÂN TỐI CAO."
+   }
+  },
+  {
+   "id": "VN-H311-A20",
+   "no": 20,
+   "noLabel": {
+    "vi": "Điều 20"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 20\n\nToà án nhân dân tối cao là cơ quan xét xử cao nhất của nước Việt Nam dân chủ cộng hoà. Toà án nhân dân tối cao giám đốc việc xét xử của các Toà án nhân dân địa phương và các Toà án quân sự."
+   }
+  },
+  {
+   "id": "VN-H311-A21",
+   "no": 21,
+   "noLabel": {
+    "vi": "Điều 21"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 21\n\nToà án nhân dân tối cao có thẩm quyền:\n\n- Sơ thẩm những vụ án do pháp luật quy định thuộc thẩm quyền của Toà án nhân dân tối cao và những vụ án thuộc thẩm quyền của Toà án nhân dân cấp dưới mà Toà án nhân dân tối cao lấy lên để xử;\n\n- Phúc thẩm những bản án và quyết định của Toà án nhân dân cấp dưới bị chống án hoặc bị kháng nghị;\n\n- Xét lại hoặc giao cho Toà án nhân dân cấp dưới xét lại những bản án và quyết định đã có hiệu lực pháp luật những phát hiện có sai lầm;\n\n- Duyệt lại các bản án tử hình trước khi các bản án đó được đem thi hành.\n\nToà án nhân dân tối cao nghiên cứu những quy định về tổ chức tư pháp, thủ tục tố tụng, luật hình sự, dân sự, phụ trách việc huấn luyện, đào tạo cán bộ Toà án nhân dân và phụ trách việc tuyên truyền giáo dục pháp luật trong nhân dân. Toà án nhân dân tối cao hướng dẫn các Toà án nhân dân cấp dưới áp dụng pháp luật, đường lối, chính sách và thủ tục tố tụng trong việc xét xử.\n\nToà án nhân dân tối cao có quyền trình Quốc hội hoặc Uỷ ban thường vụ Quốc hội dự án luật, dự án pháp lệnh về những vấn đề thuộc phạm vi công tác chuyên môn của mình."
+   }
+  },
+  {
+   "id": "VN-H311-A22",
+   "no": 22,
+   "noLabel": {
+    "vi": "Điều 22"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 22\n\nToà án nhân dân tối cao gồm có Chánh án, một hoặc nhiều Phó chánh án, các thẩm phán và thẩm phán dự khuyết.\n\nToà án nhân dân tối cao có những Toà chuyên trách về hình sự, dân sự và quân sự.\n\nTổ chức của Toà án nhân dân tối cao để xử phúc thẩm do Uỷ ban thường vụ Quốc hội quy định."
+   }
+  },
+  {
+   "id": "VN-H311-A23",
+   "no": 23,
+   "noLabel": {
+    "vi": "Điều 23"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 23\n\nTổ chức Toà án nhân dân tối cao do Uỷ ban thường vụ Quốc hội quy định.\n\nBộ máy làm việc và biên chế của các Toà án nhân dân địa phương các cấp do Toà án nhân dân tối cao hướng dẫn thực hiện theo quy định chung về bộ máy làm việc và biên chế của các cơ quan Nhà nước.\n\nVIỆC CHẤP HÀNH ÁN."
+   }
+  },
+  {
+   "id": "VN-H311-A24",
+   "no": 24,
+   "noLabel": {
+    "vi": "Điều 24"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 24\n\nTại các Toà án nhân dân địa phương có nhân viên chấp hành án làm nhiệm vụ thi hành những bản án và quyết định về dân sự, những khoản xử về bồi thường và tài sản trong các bản án và quyết định về hình sự.\n\nCơ quan Công an có nhiệm vụ thi hành những khoản hình phạt trong những bản án và quyết định về hình sự, trừ những khoản phạt tiền.\n\nCHƯƠNG III\n\nTHẨM PHÁN VÀ HỘI THẨM NHÂN DÂN"
+   }
+  },
+  {
+   "id": "VN-H311-A25",
+   "no": 25,
+   "noLabel": {
+    "vi": "Điều 25"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 25\n\nCông dân có quyền bầu cử và ứng cử từ hai mươi ba tuổi trở lên có thể được bầu làm thẩm phán hoặc hội thẩm nhân dân."
+   }
+  },
+  {
+   "id": "VN-H311-A26",
+   "no": 26,
+   "noLabel": {
+    "vi": "Điều 26"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 26\n\nChánh án Toà án nhân dân tối cao do Quốc hội bầu ra và bãi miễn.\n\nNhiệm kỳ của Chánh án Toà án nhân dân tối cao là năm năm.\n\nPhó chánh an, thẩm phán, thẩm phán dự khuyết và uỷ viên Uỷ ban thẩm phán Toà án nhân dân tối cao do Uỷ ban thường vụ Quốc hội bổ nhiệm và bãi miễn theo đề nghị của Chủ tịch Uỷ ban thường vụ Quốc hội."
+   }
+  },
+  {
+   "id": "VN-H311-A27",
+   "no": 27,
+   "noLabel": {
+    "vi": "Điều 27"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 27\n\nChánh án, Phó chánh án và thẩm phán Toà án nhân dân tỉnh, thành phố trực thuộc trung ương hoặc đơn vị hành chính tương đương do Hội đồng nhân dân cùng cấp bầu ra và bãi miễn. Nhiệm kỳ của Chánh án, Phó chánh án và thẩm phán Toà án nhân dân tỉnh, thành phố trực thuộc trung ương hoặc đơn vị hành chính tương đương là bốn năm.\n\nUỷ viên Uỷ ban thẩm phán của các Toà án nhân dân nói trên do Hội đồng nhân dân cùng cấp bầu ra và bãi miễn."
+   }
+  },
+  {
+   "id": "VN-H311-A28",
+   "no": 28,
+   "noLabel": {
+    "vi": "Điều 28"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 28\n\nChánh án, Phó chánh án và thẩm phán Toà án nhân dân huyện, thành phố thuộc tỉnh, thị xã hoặc đơn vị hành chính tương đương do Hội đồng nhân dân cùng cấp bầu ra và bãi miễn. Nhiệm kỳ của Chánh án, Phó chánh án và thẩm phán Toà án nhân dân huyện, thành phố thuộc tỉnh, thị xã hoặc đơn vị hành chính tương đương là ba năm."
+   }
+  },
+  {
+   "id": "VN-H311-A29",
+   "no": 29,
+   "noLabel": {
+    "vi": "Điều 29"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 29\n\nViệc bầu cử hội thẩm nhân dân, nhiệm kỳ và chế độ công tác của hội thẩm nhân dân sẽ do Uỷ ban thường vụ Quốc hội quy định.\n\n--------------------------------------------\n\nLuật này đã được Quốc hội nước Việt Nam dân chủ cộng hoà khoá thứ II, kỳ họp thứ nhất, thông qua ngày 14 tháng 7 năm 1960.\n\nHồ Chí Minh\n\n(Đã ký)\n\n1:{\"id\":\"882\",\"docType\":{\"id\":\"11025e19-2dd6-4165-85ad-ab6241186a1a\",\"name\":\"Luật\",\"code\":\"Lu\",\"parentCode\":\"VBQPPL\",\"parentName\":null},\"docGroup\":\"VBQPPL\",\"docNum\":\"Không số\",\"title\":\"Luật Tổ chức Tòa án nhân dân số Không số\",\"applicationNote\":\"Bị thay thế bởi Luật 3-LCT/HĐNN7 Tổ chức Tòa án nhân dân\",\"issueDate\":\"1960-07-14T01:00:00\",\"effFrom\":\"1960-07-26T01:00:00\",\"effTo\":\"1981-07-13T00:00:00\",\"publicDate\":null,\"effStatus\":{\"id\":\"f55c1469-4341-4274-93ef-32b283db4dbd\",\"name\":\"Hết hiệu lực toàn bộ\",\"code\":\"HHL\",\"parentCode\":null,\"parentName\":null},\"status\":\"Publish\",\"lang\":\"vi\",\"defaultLanguage\":\"VN\",\"updatedBy\":\"dungdvm_II.2\",\"updatedDate\":\"2026-01-16T17:33:21\",\"agencyName\":\"Quốc hội\",\"organization\":{\"id\":\"21325dad-147d-43e4-9180-96bd7f1cd0f9\",\"code\":\"TANDTC\",\"name\":\"Tòa án nhân dân tối cao\",\"nameEn\":\"Tòa án nhân dân tối cao\",\"shortName\":\"TANDTC\",\"orgType\":\"0\"},\"isLw\":true,\"documentContent\":{\"id\":\"882\",\"title\":null,\"content\":\"$2\"},\"documentContentEn\":null,\"documentContentFileName\":null,\"documentContentFileDocName\":\"Luat.1960.doc\",\"documentIssues\":[{\"id\":\"254ec46c-cab9-45cf-9fc8-489148de51e3\",\"agencyId\":\"55\",\"agencyName\":\"Quốc hội\",\"agencyNameEn\":\"National Assembly of Vietnam\",\"agencyCode\":\"QH\",\"personId\":\"303\",\"personName\":\"Hồ Chí Minh\",\"jobTitleId\":\"28da0087-8afd-420c-875c-b2369e212c3e\",\"jobTitleCode\":\"CTQH\",\"jobTitleName\":\"Chủ tịch Quốc hội\",\"orderIndex\":1}],\"documentMajors\":[],\"documentFields\":[{\"id\":\"76e2c0d5-e93e-4ee9-8c72-59dae1167432\",\"name\":\"Chưa phân loại\",\"code\":null,\"parentCode\":null,\"parentName\":null}],\"documentRelatedList\":[{\"id\":\"41ed0e36-7d19-4bac-844d-6237764baf86\",\"fileName\":\"882_body_content.html\",\"relatedType\":\"MARKDOWN\",\"fileTitle\":\"882_body_content.html\",\"fileOrder\":null}],\"provisionTree\":null,\"references\":null,\"isEffectAllDocument\":false,\"isOld\":true,\"reviewStatus\":\"INITIAL\",\"reviewed\":false,\"isTranslationDoc\":false,\"isConsolidatedDocument\":false,\"isConstitutionDocument\":false,\"isAdministrativeDocument\":false,\"viewCount\":47,\"showViewCount\":true,\"hasContent\":true,\"hasOriginalPdf\":null,\"hasAIProcessed\":false,\"hasClauseRelation\":null,\"aiResults\":[]}"
+   }
+  }
+ ]
+}

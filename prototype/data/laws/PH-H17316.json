@@ -1,0 +1,50 @@
+{
+ "id": "PH-H17316",
+ "title": {
+  "zh": null,
+  "en": "THE GOVERNMENT OF THE PHILIPPINE ISLANDS, EXECUTIVE BUREAU.",
+  "orig": "THE GOVERNMENT OF THE PHILIPPINE ISLANDS, EXECUTIVE BUREAU."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p157",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Executive Order No. 81",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 1,
+ "chars": 286,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/07_行政命令_EO/EO_00081_1913.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 1 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 EO_00081_1913.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H17316-A1",
+   "no": 1,
+   "noLabel": {},
+   "text": {
+    "en": "Bounded on northeast by Calleion; on south and south-\nwest by Loo Bay; on northwest by Calle Rizal.\nPoints referred to marked on plan II-3300-b.\nAll bearings true. Declination, 1° 02' E.\nSurveyed, January 21-22, 1912. Approved, April 9, 1912.\nNEWTON W. GILBERT,\nActing Governor-General."
+   }
+  }
+ ]
+}

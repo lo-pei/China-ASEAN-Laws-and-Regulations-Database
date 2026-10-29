@@ -1,0 +1,72 @@
+{
+ "id": "PH-H13502",
+ "title": {
+  "zh": null,
+  "en": "An Act to Appropriate the Sum of three Hundred thousand Pesos, or So Much thereof as May Be Necessary, for the Relief of Poor Sufferers From Earthquakes, Fires, Floods, Typhoons or Other Public Calamities.",
+  "orig": "An Act to Appropriate the Sum of three Hundred thousand Pesos, or So Much thereof as May Be Necessary, for the Relief of Poor Sufferers From Earthquakes, Fires, Floods, Typhoons or Other Public Calamities."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1919-03-11",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2854",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1183,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1919/act_2854_1919.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02854_1919_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02854_1919_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13502-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "There is hereby appropriated, out of any funds in the Insular Treasury not otherwise\nappropriated, the sum of three hundred thousand pesos or so much thereof as may be necessary, to be\ndisbursed for the relief of poor sufferers from earthquakes, fires, floods, typhoons, and other public calamities\nthat have occurred or may occur in the Philippine Islands during the years nineteen hundred and eighteen and\nnineteen hundred and nineteen, including the purchase and transportation of articles or supplies to the territory\nor territories affected and subsidies to steamers or vessels in order to provide permanent means of\ntransportation or communication with the province or provinces concerned."
+   }
+  },
+  {
+   "id": "PH-H13502-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The sum hereby appropriated shall be distributed by the Secretary of the Interior in the territory\nor territories affected, such distribution to be made pro rata in case there are two or more such territories, and\nthe sum or sums so allotted or prorated shall be disbursed in the discretion of the respective provincial board,\nwith the approval of the Secretary of the Interior, for the purposes hereinbefore specified."
+   }
+  },
+  {
+   "id": "PH-H13502-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, March 11, 1919."
+   }
+  }
+ ]
+}

@@ -1,0 +1,450 @@
+{
+ "id": "MY-H7050",
+ "title": {
+  "zh": "2019年民用航空（担保）条例",
+  "en": "CIVIL AVIATION (SECURITY) REGULATIONS 2019",
+  "orig": "CIVIL AVIATION (SECURITY) REGULATIONS 2019",
+  "ms": "Peraturan Penerbangan Awam (Jaminan) 2019",
+  "vi": "Quy định về Hàng không dân dụng (Bảo đảm) năm 2019",
+  "th": "ข้อบังคับการบินพลเรือน (หลักประกัน) ค.ศ. 2019",
+  "id": "Peraturan Penerbangan Sipil (Jaminan) Tahun 2019"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-16",
+ "language": "ms",
+ "level": "regulation",
+ "category": "03_涉外投资与贸易",
+ "status": "active",
+ "promulgatedDate": "2019",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "PUA99",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 34,
+ "chars": 63895,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-view.php?type=pua&no=P.U. (A) 99/2019&status=PRINCIPAL"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\03_涉外投资与贸易\\2019_P.U.(A)99-2019_CIVIL AVIATION (SECURITY) REGULATIONS 2019.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 34 条；逐字未改写（源自厂商 OCR 文本）。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H7050-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "1. Nama dan permulaan kuat kuasa"
+   }
+  },
+  {
+   "id": "MY-H7050-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "2. Tafsiran\n\nBAHAGIAN II\nPIHAK BERKUASA KESELAMATAN"
+   }
+  },
+  {
+   "id": "MY-H7050-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "3. Pihak Berkuasa Keselamatan"
+   }
+  },
+  {
+   "id": "MY-H7050-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "4. Maklumat mengenai tindakan gangguan yang menyalahi undang-undang"
+   }
+  },
+  {
+   "id": "MY-H7050-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "5. Kerjasama antarabangsa"
+   }
+  },
+  {
+   "id": "MY-H7050-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "6. Jawatankuasa\n\nBAHAGIAN III\nPROGRAM KESELAMATAN KEBANGSAAN"
+   }
+  },
+  {
+   "id": "MY-H7050-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "7. Program Keselamatan Kebangsaan"
+   }
+  },
+  {
+   "id": "MY-H7050-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "8. Pengubahan Program Keselamatan Kebangsaan\n\nBAHAGIAN IV\nPROGRAM KESELAMATAN"
+   }
+  },
+  {
+   "id": "MY-H7050-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "9. Program keselamatan"
+   }
+  },
+  {
+   "id": "MY-H7050-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "10. Pelan kontingensi oleh pengendali aerodrom\n\nPeraturan"
+   }
+  },
+  {
+   "id": "MY-H7050-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "11. Kajian semula program keselamatan yang diluluskan"
+   }
+  },
+  {
+   "id": "MY-H7050-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "12. Pematuhan kehendak program keselamatan dan pelan kontingensi yang\ndiluluskan\n\nBAHAGIAN V\nPEMERIKSAAN DAN KAWALAN KESELAMATAN"
+   }
+  },
+  {
+   "id": "MY-H7050-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "13. Peralatan keselamatan"
+   }
+  },
+  {
+   "id": "MY-H7050-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "14. Pemeriksa keselamatan"
+   }
+  },
+  {
+   "id": "MY-H7050-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "15. Kawasan terhad keselamatan"
+   }
+  },
+  {
+   "id": "MY-H7050-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "16. Pemeriksaan orang"
+   }
+  },
+  {
+   "id": "MY-H7050-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "17. Pemeriksaan bagasi"
+   }
+  },
+  {
+   "id": "MY-H7050-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "18. Pemeriksaan kargo, mel dan barangan"
+   }
+  },
+  {
+   "id": "MY-H7050-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "19. Pemeriksaan kenderaan"
+   }
+  },
+  {
+   "id": "MY-H7050-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "20. Gangguan tanpa kebenaran"
+   }
+  },
+  {
+   "id": "MY-H7050-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "21. Kawasan terkawal"
+   }
+  },
+  {
+   "id": "MY-H7050-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "22. Pelantikan ketua keselamatan\n\nBAHAGIAN VI\nKESELAMATAN KAPAL UDARA"
+   }
+  },
+  {
+   "id": "MY-H7050-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "23. Penggeledahan dan pemeriksaan keselamatan kapal udara"
+   }
+  },
+  {
+   "id": "MY-H7050-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "24. Akses tanpa kebenaran ke kapal udara"
+   }
+  },
+  {
+   "id": "MY-H7050-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "25. Kehadiran tanpa kebenaran di dalam kapal udara"
+   }
+  },
+  {
+   "id": "MY-H7050-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "26. Benda yang ditinggalkan"
+   }
+  },
+  {
+   "id": "MY-H7050-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 27"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "27. Langkah-langkah yang berhubungan dengan penumpang dalam jagaan yang sah\n\nBAHAGIAN VII\nAM"
+   }
+  },
+  {
+   "id": "MY-H7050-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 28"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "28. Pengajar"
+   }
+  },
+  {
+   "id": "MY-H7050-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Section 29"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "29. Permohonan bagi kelulusan, dsb.\n\nPeraturan"
+   }
+  },
+  {
+   "id": "MY-H7050-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Section 30"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "30. Pemindahmilikan kelulusan, perakuan dan kebenaran"
+   }
+  },
+  {
+   "id": "MY-H7050-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Section 31"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "31. Penggantungan, pengubahan dan pembatalan kelulusan"
+   }
+  },
+  {
+   "id": "MY-H7050-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Section 32"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "32. Kesalahan berhubung dengan dokumen dan rekod"
+   }
+  },
+  {
+   "id": "MY-H7050-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Section 33"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "33. Kuasa untuk memberi arahan"
+   }
+  },
+  {
+   "id": "MY-H7050-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "Section 34"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "34. Kesalahan\n\nJADUAL\n\nAKTA PENERBANGAN AWAM 1969\n\nPERATURAN-PERATURAN PENERBANGAN AWAM (KESELAMATAN) 2019\n\nPADA menjalankan kuasa yang diberikan oleh seksyen 3  Akta Penerbangan\nAwam 1969 [Akta 3], Menteri membuat peraturan-peraturan yang berikut:\n\nBAHAGIAN I\nPERMULAAN\n\nNama dan permulaan kuat kuasa\n1. (1)   Peraturan-peraturan ini bolehlah dinamakan Peraturan-Peraturan\nPenerbangan Awam (Keselamatan) 2019.\n\n(2)  Peraturan-Peraturan ini mula berkuat kuasa pada 30 Mac 2019.\n\nTafsiran\n2. Dalam Peraturan -Peraturan ini , melainkan jika konteksnya menghendaki makna\nyang lain—\n\n\"bagasi\" ertinya harta peribadi penumpang atau kru yang dibawa di dalam kapal\nudara dengan persetujuan pengendali;\n\n\"bagasi kabin\" ertinya bagasi yang diniatkan untuk dibawa di dalam kabin suatu\nkapal udara;\n\n\"barangan\" ertinya apa-apa barang selain kargo, mel dan bagasi, dan termasuklah—\n\n(a) apa-apa barang yang diniatkan untuk penggunaan penumpang atau kru\ndi dalam kapal udara;\n\n(b) apa-apa barang yang digunakan bagi pengendalian dan penyenggaraan\nkapal udara, termasuk minyak dan pelincir; dan\n\n(c) apa-apa barang untuk jualan kepada penumpang atau kru di dalam kapal\nudara atau dalam kawasan terhad keselamatan;\n\n\"Entiti Kerajaan\" ertinya—\n\n(a) mana-mana kementerian, jabatan, pejabat, agensi, pihak berkuasa,\nsuruhanjaya, jawatankuasa, lembaga atau majlis bagi Kerajaan\nPersekutuan, atau bagi mana -mana Kerajaan Negeri, yang ditubuhkan\ndi bawah mana-mana undang-undang bertulis atau sebaliknya; atau\n\n(b) mana-mana pihak berkuasa tempatan;\n\n\"fi yang ditetapkan\" ertinya fi yang ditetapkan di bawah Peraturan -Peraturan\nPenerbangan Awam (Fi dan Caj) 2016 [P.U. (A) 99/2016];\n\n\"Jawatankuasa\" ertinya Jawatankuasa Keselamatan Penerbangan Awam\nKebangsaan yang ditubuhkan di bawah peraturan 6;\n\n\"kapal ud ara\" mempunyai erti yang diberikan kepadanya dalam\nPeraturan-Peraturan Penerbangan Awam 2016 [P.U. (A) 97/2016];\n\n\"kawasan terhad keselamatan \" ertinya apa-apa kawasan yang ditetapkan oleh\npengendali aerodrom di bawah peraturan 15;\n\n \"NCASP\" ertinya program yang diadakan di bawah perenggan 7(1)(a);\n\n\"NCASTP\" ertinya program yang diadakan di bawah perenggan 7(1)(b);\n\n\"Negara Pejanji\" ertinya mana -mana Negara yang merupakan pihak kepada\nKonvensyen Chicago;\n\n\"NQCP\" ertinya program yang diadakan di bawah perenggan 7(1)(c);\n\n\"pemeriksa keselamatan \" ertinya seseorang yang memegang perakuan yang\ndikeluarkan di bawah peraturan 14;\n\n\"pengangkutan udara komersial\" mempunyai erti yang diberikan kepadanya dalam\nPeraturan-Peraturan Penerbangan Awam 2016;\n\n \"pengendali\" ertinya seseorang yang memegang perakuan pengendali udara yang\ndikeluarkan di bawah peraturan 110 Peraturan-Peraturan Penerbangan Awam 2016;\n\n\"pengendali aerodrom\" ertinya seseorang yang dilesenkan di bawah seksyen 38\nAkta Suruhanjaya Penerbangan Malaysia 2015 [Akta 771];\n\n\"pengendali darat\" ertinya seseorang yang dilesenkan di bawah seksyen 37 Akta\nSuruhanjaya Penerbangan Malaysia 2015;\n\n\"penumpang\" mempunyai erti yang di berikan kepadanya dalam\nPeraturan-Peraturan Penerbangan Awam 2016;\n\n\"penumpang pindah\" ertinya penumpang yang membuat sambungan terus antara\ndua penerbangan yang berlainan;\n\n  \"penumpang transit\" ertinya penumpang yang berlepas dari suatu aerodrom\ndalam penerbangan yang sama semasa ketibaannya;\n\n\"peralatan keselamatan\" ertinya peranti yang mempunyai sifat kegunaan yang\nkhusus, secara individu atau sebagai sebahagian daripada suatu sistem, bagi menghalang\natau mengesan apa-apa tindakan gangguan yang menyalahi undang -undang dengan\npenerbangan awam dan kemudahannya, termasuklah televisyen litar tertutup, pengesan\nlogam tangan, pengesan logam penuh dan pengimbas badan;\n\n\"Pihak Berkuasa Keselamatan\" ertinya Pihak Berkuasa Keselamatan Penerbangan\nAwam Kebangsaan yang ditubuhkan di bawah peraturan 3;\n\n\"program keselamatan\" ertinya program yang diadakan di bawah peraturan 9;\n\n\"Program Keselamatan Kebangsaan\" ertinya program yang diadakan di bawah\nperaturan 7;\n\n\"program kesela matan yang diluluskan\" ertinya program keselamatan yang\ndiluluskan oleh Pihak Berkuasa Keselamatan di bawah peraturan 29;\n\n \"tindakan gangguan  yang menyalahi undang -undang\" ertinya apa -apa tindakan\nyang membahayakan perihal selamat penerbangan awam, termasuklah—\n\n(a) perampasan kapal udara yang menyalahi undang-undang;\n\n(b) pemusnahan kapal udara yang sedang digunakan;\n\n(c) pengambilan tebusan di dalam kapal udara atau di aerodrom;\n\n(d) pencerobohan dengan kekerasan di dalam kapal udara, di lapangan\nterbang atau di premis kemudahan aeronautik;\n\n(e) kemasukan senjata atau peranti atau bahan berbahaya yang diniatkan\nbagi maksud jenayah di dalam kapal udara atau di lapangan terbang;\n\n(f) kegunaan kapal udara yang sedang digunakan bagi maksud menyebabkan\nkematian, kecederaan berat pada badan atau kerosakan berat kepada\nharta atau alam sekitar; dan\n\n(g) komunikasi maklumat palsu yang membahayakan perihal selamat sesuatu\nkapal udara dalam penerbangan atau di atas darat, seseorang penumpang,\nkru, kakitangan di atas darat atau orang awam secara am, di lapangan\nterbang atau di atas premis kemudahan penerbangan awam.\n\nBAHAGIAN II\nPIHAK BERKUASA KESELAMATAN\n\nPihak Berkuasa Keselamatan\n3. (1) Pihak Berkuasa hendaklah menjadi  Pihak Berkuasa Keselamat an\nPenerbangan Awam Kebangsaan.\n\n(2) Pihak Berkuasa Keselamatan hendaklah bertanggungjawab untuk melindungi\npenerbangan awam daripada apa -apa tindakan gangguan yang menyalahi\nundang-undang dan untuk mengawal selia keselamatan penerbangan awam sebagai\nmematuhi peruntukan Lampiran 17 kepada Konvensyen Chicago.\n\n(3) Fungsi Pihak Berkuasa Keselamatan adalah—\n\n(a) untuk mengadakan polisi keselamatan penerbangan awam dan mengkaji\nsemula polisi itu dari semasa ke semasa;\n\n(b) untuk memantau pelaksanaan peruntukan Peraturan-Peraturan ini;\n\n(c) untuk menjalankan kajian  semula terhadap Program Keselamatan\nKebangsaan;\n\n(d) untuk meluluskan suatu program keselamatan dan menjalankan kajian\nsemula terhadap mana-mana program keselamatan yang diluluskan;\n\n(e) untuk menentukan dan mengagihkan tugasan  dan menyelaraskan aktiviti\nkeselamatan penerbangan awam antara Entiti Kerajaan, pengendali dan\npengendali aerodrom, penyedia perkhidmatan kawalan trafik udar a dan\nmana-mana orang lain yang bertanggungjawab bagi pelaksanaan NCASP;\n\n(f) untuk menjalankan kajian  semula terhadap tahap ancaman kepada\npenerbangan awam;\n\n(g) untuk menjalankan penilaian risiko keselamatan secara tetap bagi\nkeselamatan penerbangan awam;\n\n(h) untuk menilai semula kawalan keselamatan dan tatacara bagi\nkeselamatan penerbangan awam;\n\n(i) untuk bertindak balas secara bersesuaian dengan tahap ancaman kepada\nkeselamatan penerbangan awam; dan\n\n(j) untuk melaksanakan apa-apa fungsi lain yang bersampingan dengan\natau berbangkit daripada mana -mana fungsinya di bawah\nPeraturan-Peraturan  ini.\n\nMaklumat mengenai tindakan gangguan yang menyalahi undang-undang\n4. Sekiranya berlaku apa -apa tindakan gangguan yang menyalahi undang -undang,\nPihak Berkuasa Keselamatan boleh memberikan maklumat penting yang berhubungan\ndengan aspek keselamatan mengenai tindakan itu kepada Pertubuhan Penerbangan\nAwam Antarabangsa.\n\nKerjasama antarabangsa\n5.  Pihak Berkuasa Keselamatan boleh bekerjasama dengan mana-mana Negara Pejanji\nbagi maksud pembangunan dan pertukaran maklumat mengenai Program Keselamatan\nKebangsaan.\n\nJawatankuasa\n6.  (1) Maka hendaklah ditubuhkan suatu Jawatankuasa Keselamatan Penerbangan\nAwam Kebangsaan, yang hendaklah terdiri daripada anggota yang berikut:\n\n(a) Ketua Pegawai Eksekutif, yang hendaklah  menjadi pengerusi;\n\n(b) seorang wakil Kementerian Pengangkutan; dan\n\n(c) apa-apa bilangan wakil yang dilantik oleh Ketua Pegawai Eksekutif—\n\n(i) daripada mana-mana Entiti Kerajaan; dan\n\n(ii) dalam kalangan pengendali, pengendali aerodrom, penyedia\nperkhidmatan kawalan trafik udara atau mana-mana orang\nlain.\n\n(2) Fungsi Jawatankuasa adalah—\n\n(a) untuk menasihati Pihak Berkuasa Keselamatan tentang perkara yang\nberhubungan dengan pelaksanaan peruntukan Peraturan -Peraturan\nini;\n\n(b) untuk memudahkan penyelarasan aktiviti keselamatan penerbangan\nawam antara Entiti Kerajaan, pengendali dan pengendali aerodrom,\npenyedia perkhidma tan kawalan trafik udara dan mana-mana orang\nlain yang bertanggungjawab bagi pelaksanaan NCASP;\n\n(c) untuk mempertimbangkan syor yang dibuat oleh jawatankuasa\nkeselamatan lapangan terbang berhubung dengan keselamatan\npenerbangan awam dan, jika sesuai, mencadan gkan kepada Pihak\nBerkuasa Keselamatan apa-apa perubahan kepada polisi keselamatan\npenerbangan awam; dan\n\n(d) untuk menjalankan apa -apa fungsi lain sebagaimana yang diarahkan\noleh Pihak Berkuasa Keselamatan.\n\n(3) Tatacara Jawatankuasa hendaklah sebagaimana yang dinyatakan dalam\nNCASP.\n\nBAHAGIAN III\nPROGRAM KESELAMATAN KEBANGSAAN\n\nProgram Keselamatan Kebangsaan\n7. (1)  Ketua Pegawai Eksekutif hendaklah mengadakan dan melaksanakan Program\nKeselamatan Kebangsaan seperti yang berikut:\n\n(a) NCASP, iaitu Program Keselamatan Penerbangan Awam Kebangsaan\nuntuk melindungi pengendalian penerbangan awam daripada apa -apa\ntindakan gangguan yang menyalahi undang-undang;\n\n(b) NCASTP, iaitu Program Latihan Keselamatan Penerbangan Awam\nKebangsaan untuk memastikan kesedaran mengenai keselamatan dan\nlatihan fungsi spesifik  diberikan kepada semua orang yang terlibat\ndalam atau yang bertanggungjawab bagi pelaksanaan NCASP;\n\n(c) NQCP, iaitu Program Kawalan Mutu Keselamatan Penerbangan Awam\nKebangsaan untuk menentukan pematu han kepada dan mengesahkan\nkeberkesananan NCASP; dan\n\n(d) apa-apa program lain yang difikirkan perlu oleh Ketua Pe gawai\nEksekutif.\n\n(2) Bagi maksud subperaturan (1), Ketua Pegawai Eksekutif hendaklah memberi\nkesan kepada apa-apa kajian semula yang dibuat oleh  Pihak Berkuasa Keselamatan\ndi bawah perenggan 3(3)(c).\n\n(3) Semua pengendali, pengendali aerodrom, pengendali darat dan orang lain\nyang ditentukan oleh Ketua Pegawai Eksekutif hendaklah mematuhi kehendak Program\nKeselamatan Kebangsaan.\n\n(4) Semua E ntiti Kerajaan yang bertanggung jawab bagi pelaksanaan Program\nKeselamatan Kebangsaan hendaklah bekerjasama dengan dan membantu satu sama lain\ndalam memastikan pelaksanaan wajar Program Keselamatan Kebangsaan.\n\n(5) Bagi maksud subperaturan (3), Ketua Pegawai Eksekutif hendaklah\nmemberikan kepada pengendali, pengendali aerodrom, pengendali darat atau orang lain\nyang ditentukan oleh Ketua Pegawai Eksekutif suatu salinan bahagian yang berkenaan\natau maklumat  yang berkaitan dengan Program Keselamatan Kebangsaan untuk\nmembolehkan pengendali, pengendali aerodrom, pengendali darat atau orang itu\nmematuhi kehendak Program Keselamatan Kebangsaan.\n\nPengubahan Program Keselamatan Kebangsaan\n8. (1) Ketua Pegawai Eksekutif boleh, jika difikirkannya perlu, mengubah\nmana-mana Program Keselamatan Kebangsaan.\n\n(2) Jika Ketua Pegawai Eksekutif mengubah mana-mana Program Keselamatan\nKebangsaan di bawah subperaturan (1), Ketua Pe gawai Eksekutif boleh mengarahkan\nmana-mana orang yang mengadakan mana-mana program keselamatan yang diluluskan\nuntuk mengubah program keselamatan yang diluluskan itu agar selaras dengan Program\nKeselamatan Kebangsaan  sebagaimana yang diubah dalam tempoh yang ditentukan oleh\nKetua Pegawai Eksekutif.\n\n(3) Mana-mana orang yang diarahkan di bawah subperaturan (2) hendaklah\nmengemukakan program keselamatan yang diluluskan yang telah diubah kepada Pihak\nBerkuasa Keselamatan untuk kelulusannya dalam tempoh yang ditentuk an oleh Ketua\nPegawai Eksekutif mengikut peraturan 29.\n\nBAHAGIAN IV\nPROGRAM KESELAMATAN\n\nProgram keselamatan\n9. (1) Seseorang pengendali, pengendali aerodrom, pengendali darat atau\nmana-mana orang lain yang ditentukan oleh Ketua Pegawai Eksekutif   hendaklah\nmengadakan program keselamatan seperti yang berikut:\n\n(a) suatu program keselamatan penerbangan awam mengikut kehendak\nNCASP;\n\n(b) suatu program latihan keselamatan penerbangan awam mengikut\nkehendak NCASTP;\n\n(c) suatu program kawalan mutu keselamatan penerbangan awam mengikut\nkehendak NQCP; dan\n\n(d) apa-apa program lain yang ditentukan oleh Ketua Pegawai Eksekutif.\n\n(2) Program keselamatan yang disebut dalam subperaturan (1) hendaklah\ndiluluskan oleh Pihak Berkuasa Keselamatan.\n\n(3) Permohonan bagi kelulusan atau pengubahan kelulusan  suatu program\nkeselamatan hendaklah dibuat mengikut peraturan 29.\n\n(4) Berhubung dengan program latihan keselamatan penerbangan awam yang\ndisebut dalam perenggan (1) (b), seseorang pengendali, pengendali aerodrom,\npengendali darat atau mana -mana orang lain yang ditentukan oleh Ketua Pegawai\nEksekutif hendaklah membaharui kelulusan program itu dalam tempoh yang ditentukan\noleh Ketua Pegawai Eksekutif.\n\n(5) Permohonan bagi pembaharuan kelulusan suatu program latihan\nkeselamatan penerbangan awam hendaklah dibuat mengikut peraturan 29.\n\nPelan kontingensi oleh pengendali aerodrom\n10. (1) Seseorang pengendali aerodrom hendaklah, sebagai tambahan kepada\nprogram keselamatan penerbangan awam yang disebut dalam perenggan 9(1) (a),\nmengadakan suatu pelan kontingensi mengikut kehendak NCASP.\n\n(2) Pelan kontingensi yang disebut dalam subperaturan (1) hendaklah diluluskan\noleh Pihak Berkuasa Keselamatan.\n\n(3) Permohonan bagi kelulusan atau pengubahan kelulusan suatu pelan\nkontingensi hendaklah dibuat mengikut peraturan 29.\n\n(4) Bagi maksud peraturan ini, \"pelan kontingensi\" ertinya suatu pelan proaktif\nyang termasuklah langkah-langkah dan tatacara yang memperkat akan tentang pelbagai\ntahap ancaman, penilaian risiko dan langkah -langkah keselamatan  berkaitan yang\nhendaklah dilaksanakan dan direka bentuk untuk menjangkakan, mengurangkan  hal\nkejadian dan menyediakan semua pihak yang berkenaan yang  mempunyai peranan dan\ntanggungjawab sekiranya berlaku tindakan gangguan yang menyalahi undang -undang\nyang sebenar.\n\nKajian semula program keselamatan yang diluluskan\n11. (1) Pihak Berkuasa Keselamatan boleh, jika difikirkannya perlu, menjalankan\nkajian semula terhadap mana-mana program keselamatan yang diluluskan.\n\n(2) Pihak Berkuasa Keselamatan boleh mengarahkan mana -mana orang yang\nmengadakan program keselamatan yang diluluskan untuk mengubah program\nkeselamatan itu berdasarkan kajian semula yang dibuat dalam tempoh yang ditent ukan\noleh Pihak Berkuasa Keselamatan.\n\n(3) Mana-mana orang  yang diarahkan di bawah subperaturan (2) hendaklah\nmengemukakan program keselamatan yang diluluskan sebagaimana yang telah diubah\nitu kepada Pihak Berkuasa Keselamatan untuk kelulusannya  dalam tempoh yang\nditentukan oleh Pihak Berkuasa Keselamatan mengikut peraturan 29.\n\n(4) Walau apa pun subperaturan (1), Pihak Berkuasa Keselamatan boleh\nmengarahkan mana-mana orang yang mengadakan mana-mana program keselamatan\nyang diluluskan untuk menjalankan sendiri kajian semula terhadap program\nkeselamatannya itu.\n\n(5) Mana-mana o rang yang diarahkan di bawah subperaturan (4) hendaklah\nmenjalankan kajian  semula dan  mengubah program keselamatan nya yang diluluskan\nberdasarkan kajian semula itu dan mengemukakan program itu sebagaimana yang telah\ndiubah itu kepada Pihak Berkuasa Keselamatan untuk kelulusannya dalam tempoh yang\nditentukan oleh Ketua Pegawai Eksekutif mengikut peraturan 29.\n\nPematuhan kehendak program keselamatan dan pelan kontingensi yang\ndiluluskan\n12. Pengendali, pengendali aerodrom, pengendali darat dan mana -mana orang yang\nditentukan oleh Ketua Pegawai Eksekutif hendaklah mematuhi program keselamatan\ndan pelan kontingensi yang diluluskan, mengikut mana-mana yang berkenaan, di bawah\nBahagian ini.\n\nBAHAGIAN V\nPEMERIKSAAN DAN KAWALAN KESELAMATAN\n\nPeralatan keselamatan\n13. (1) Tiada pengendali, pengendali aerodrom, pengendali darat atau mana -mana\norang lain boleh menggunakan mana -mana peralatan keselamatan kecuali dengan\nkebenaran Pihak Berkuasa Keselamatan.\n\n(2) Permohonan bagi suatu kelulusan  atau pembaharuan kelulusan untuk\nmenggunakan peralatan keselamatan di bawah subperaturan (1) hendaklah  dibuat\nmengikut peraturan 29.\n\nPemeriksa keselamatan\n14. (1) Tiada seora ng pun boleh bertindak sebagai pemeriksa keselamatan\nmelainkan jika orang itu memegang perakuan yang dikeluarkan oleh Pihak Berkuasa\nKeselamatan.\n\n(2) Permohonan bagi suatu perakuan  atau pembaharuan perakuan untuk\nbertindak sebagai pemeriksa keselamatan di bawah subperaturan (1) hendaklah dibuat\nmengikut peraturan 29.\n\n(3) Tiada pengendali, pengendali aerodrom, pengendali darat atau mana -mana\norang lain yang bertanggungjawab untuk menyediakan proses pemeriksaan boleh\nmembenarkan atau menyebabkan  dibenarkan mana-mana orang untuk bertindak\nsebagai pemeriksa keselamatan melainkan jika orang itu memegang suatu perakuan yang\ndikeluarkan oleh Pihak Berkuasa Keselamatan.\n\n(4)  Pemeriksa keselamatan hendaklah menjalankan proses pemeriksaan\nterhadap orang, bagasi, kargo, mel dan barangan mengikut kaedah dan cara pemeriksaan\nyang ditentukan oleh Ketua Pegawai Eksekutif.\n\n(5)  Seseorang pengendali, p engendali aerodrom, pengendali darat atau\nmana-mana orang lain yang bertanggungjawab untuk menyediakan proses pemeriksaan\nhendaklah memastikan agar pemeriksa keselamatan mematuhi subperaturan (4).\n\nKawasan terhad keselamatan\n15. Seseorang pengendali aerodrom hendaklah, dengan kelulusan Ketua Pe gawai\nEksekutif, menetapkan mana-mana kawasan di tapak udara sesuatu aerodrom sebagai\nkawasan terhad keselamatan, iaitu suatu kawasan berisiko utama di mana sebagai\ntambahan kepada kawalan, kawalan keselamatan lain adalah terpakai.\n\nPemeriksaan orang\n16. (1) Tiada seorang pun boleh memasuki sesuatu kawasan terhad keselamatan\natau kapal udara di dalam k awasan terhad keselamatan  melainkan jika orang itu\nmenjalani proses pemeriksaan oleh pemeriksa keselamatan.\n\n(2) Seseorang p engendali, pengendali  aerodrom, peng endali darat atau\nmana-mana orang lain yang bertanggungjawab untuk menyediakan proses pemeriksaan\nhendaklah memastikan tiada seorang pun memasuki sesuatu kawasan terhad\nkeselamatan atau kapal udara di dalam k awasan terhad keselamatan  melainkan jika\norang itu menjalani proses pemeriksaan oleh pemeriksa keselamatan.\n\n(3) Peraturan ini tidak terpakai bagi—\n\n(a) penumpang transit yang kekal berada di dalam kapal udara;\n\n(b) penumpang transit atau penumpang pindah yang tidak bercampur\ndengan orang yang tidak diperiksa daripada lapangan terbang transit\natau pindah, mengikut mana-mana yang berkenaan; dan\n\n(c) penumpang transit atau penumpang pindah yang tiba dari Negara\nPejanji yang standard keselamatan yang terpakai diperakui setara\ndengan kehendak yang ditentukan oleh Ketua Pegawai Eksekutif.\n\nPemeriksaan bagasi\n17. (1) Tiada seorang pun boleh—\n\n(a) mengambil atau menyebabkan supaya diambil di dalam mana -mana\nkapal udara; atau\n\n(b) menghantar atau menyebabkan supaya dihantar  bagi pemuatan atau\npembawaan ke dalam kapal udara,\n\napa-apa bagasi melainkan jika bagasi itu menjalani proses pemeriksaan oleh pemeriksa\nkeselamatan.\n\n(2)  Seseorang pengendali aerodrom hendaklah memastikan tiada seorang pun—\n\n(a) mengambil atau menyebabkan supaya diambil di dalam mana -mana\nkapal udara; atau\n\n(b) menghantar atau menyebabkan supaya dihantar  bagi pemuatan atau\npembawaan ke dalam kapal udara,\n\napa-apa bagasi melainkan jika bagasi itu menjalani proses pemeriksaan oleh pemeriksa\nkeselamatan.\n\n(3) Peraturan ini tidak terpakai bagi apa-apa bagasi kabin yang dibawa oleh—\n\n(a) penumpang transit yang kekal berada di dalam kapal udara;\n\n(b) penumpang transit atau penumpang pindah yang tidak bercampur\ndengan orang yang tidak dip eriksa daripada lapangan terbang transit\natau pindah, mengikut mana-mana yang berkenaan; dan\n\n(c) penumpang transit atau penumpang pindah yang tiba dari Negara\nPejanji yang standard keselamatan yang terpakai diperakui setara\ndengan kehendak yang ditentukan oleh Ketua Pegawai Eksekutif.\n\nPemeriksaan kargo, mel dan barangan\n18. (1) Tiada seorang pun boleh—\n\n(a) mengambil atau menyebabkan supaya diambil di dalam mana -mana\nkapal udara; atau\n\n(b) menghantar atau menyebabkan supaya dihantar  bagi pemuatan atau\npembawaan ke dalam kapal udara,\n\napa-apa kargo atau mel melainkan jika kargo atau mel itu menjalani proses pemeriksaan\noleh pemeriksa keselamatan.\n\n(2) Tiada seorang pun boleh membawa atau menyebabkan supaya dibawa\ndi dalam kawasan terhad keselamatan atau di dalam mana-mana kapal udara di dalam\nkawasan terhad keselamatan, apa -apa barangan melainkan jika barangan itu menjalani\nproses pemeriksaan oleh pemeriksa keselamatan.\n\nPemeriksaan kenderaan\n19. (1) Tiada seorang pun boleh  menggunakan atau mengendalikan , atau\nmenyebabkan supaya digunakan atau dikendalikan  suatu kenderaan di dalam kawasan\nterhad keselamatan melainkan jika kenderaan itu menjalani proses pemeriksaan oleh\npemeriksa keselamatan.\n\n(2) Pengendali aerodrom hendakla h memastikan tiada seorang pun\nmenggunakan atau mengendalikan , atau menyebabkan supaya digunakan atau\ndikendalikan suatu  kenderaan di dalam kawasan terhad keselamatan melainkan  jika\nkenderaan itu menjalani proses pemeriksaan oleh pemeriksa keselamatan.\n\nGangguan tanpa kebenaran\n20. Seseorang pengendali, pengendali aerodrom, pengendali darat atau mana -mana\norang lain yang bertangg ungjawab untuk menyediakan proses pemeriksaan hendaklah\nmemastikan semua penumpang, bagasi, kargo, mel dan barangan yang telah menjalani\nproses pemeriksaan di bawah Bahagian ini dilindungi daripada apa-apa gangguan tanpa\nkebenaran bermula dari  masa pemeriksaan dibuat sehingga perlepasan kapal udara ,\nmengikut kehendak NCASP dan program keselamatan penerbangan awam yang\ndiluluskan yang berkaitan.\n\nKawasan terkawal\n21. (1) Ketua Pegawai Eksekutif  boleh, setelah menjalankan penilaian risiko\nkeselamatan, mengisytiharkan mana -mana kawasan aerodrom atau mana -mana\nkawasan lain yang difikirkannya sesuai sebagai kawasan terkawal.\n\n(2) Tiada seorang pun boleh memasuki sesuatu kawasan terkawal melainkan jika\ndibenarkan oleh Ketua Pegawai Eksekutif dan tertakluk kepada terma dan syarat yan g\nditentukan oleh Ketua Pegawai Eksekutif.\n\nPelantikan ketua keselamatan\n22. (1) Seseorang pengendali, pengendal i aerodrom, pengendali darat atau\nmana-mana orang lain yang ditentukan oleh Ketua Pegawai Eksekutif hendaklah, dengan\nkelulusan terdahulu Pihak Berkuasa Keselamatan, melantik seorang ketua keselamatan.\n\n(2) Permohonan bagi kelulusan terdahulu di bawah subperaturan (1) hendaklah\ndibuat mengikut peraturan 29.\n\n(3) Seseorang ketua keselamatan hendaklah melaksanakan t ugas dan\ntanggungjawab sebagaimana yang dinyatakan dalam Program Keselamatan Kebangsaan.\n\nBAHAGIAN VI\nKESELAMATAN KAPAL UDARA\n\nPenggeledahan dan pemeriksaan keselamatan kapal udara\n23. (1) Tiada pengendali boleh membenarkan atau menyebabkan supaya dibenarkan\nmana-mana kapal udaranya untuk terbang bagi maksud pengangkutan udara komersial\nmelainkan jika pengendali itu menjalankan penggeledahan dan pemeriksaan\nkeselamatan terhadap kapal udara itu mengikut NCASP.\n\n(2) Pengendali hendaklah memastikan kapal udaranya dilindungi daripada\napa-apa gangguan tanpa kebenaran bermula dari masa penggeledahan dan pemeriksaan\nkeselamatan di bawah subperaturan (1) dijalankan sehingga perlepasan kapal udara itu.\n\nAkses tanpa kebenaran ke kapal udara\n24. Seseorang p engendali hendaklah memastikan kapal udaranya berada di bawah\npenyeliaannya untuk menghalang apa-apa akses tanpa kebenaran oleh sese orang atau\nsesuatu kenderaan ke atau dari kapal udara itu.\n\nKehadiran tanpa kebenaran di dalam kapal udara\n25. (1) Tiada seorang pun boleh memasuki atau berada  di dalam dek penerbangan\nmana-mana kapal udara yang terbang bagi maksud  pengangkutan udara komersial\nmelainkan jika—\n\n(a) orang itu ialah kru yang bertugas dan dibenarkan oleh pengendali;\n\n(b) orang itu, dengan kuasa oleh  Ketua Pengawai Eksekutif, melaksanakan\napa-apa fungsi pengawalseliaan, termasuk menyaksikan apa-apa latihan,\npraktis atau ujian bagi maksud Akta atau mana-mana perundangan\nsubsidiari yang dibuat di bawah Akta atau bagi maksud Akta Pihak\nBerkuasa Penerbangan Malaysia 2017 [Akta 788]; atau\n\n(c) orang itu dibenarkan oleh Ketua Pegawai Eksekutif.\n\n (2) Seseorang pengendali hendaklah memastikan tiada orang selain orang yang\ndisebut dalam perenggan (1) (a) hingga (c) memasuki atau berada di dalam dek\npenerbangan mana-mana kapal udaranya.\n\nBenda yang ditinggalkan\n26. Seseorang p engendali hendaklah memastikan apa-apa benda yang ditinggalkan\ndi dalam mana-mana kapal udaranya oleh penumpang yang turun daripada mana-mana\npenerbangan, termasuk penerbangan transit, dialihkan daripada kapal udara itu.\n\nLangkah-langkah yang berhubungan dengan penumpang dalam jagaan yang sah\n27. Seseorang pengendali hendaklah memastikan bahawa program keselamatan\npenerbangan awamnya mengandungi langkah -langkah dan tatacara untuk membawa\npenumpang dalam jagaan sah mana -mana agensi penguatkuasaan  mengikut kehendak\nNCASP.\n\nBAHAGIAN VII\nAM\n\nPengajar\n28. (1)  Tiada seorang pun  boleh mengendalikan latihan keselamatan penerbangan\nawam sebagai seorang pengajar melainkan jika orang itu memegang perakuan yang\ndikeluarkan oleh Pihak Berkuasa Keselamatan.\n\n  (2) Permohonan bagi suatu perakuan atau pembaharuan atau pengubahan\nperakuan bagi pengajar di bawah subperaturan (1) hendaklah dibuat mengikut\nperaturan 29.\n\nPermohonan bagi kelulusan, dsb.\n29. (1)   Permohonan bagi—\n\n(a) suatu kelulusan  atau pembaharuan atau pengubahan suatu kelulusan\ndi bawah peraturan 8, 9, 10, 11, 13 dan 22; atau\n\n(b) suatu perakuan, pembaharuan atau pengubahan suatu perakuan di bawah\nperaturan 14 dan 28;\n\nhendaklah—\n\n(A) dibuat kepada Pihak Berkuasa Keselamatan dalam bentuk dan cara dan\ndisertakan dengan  apa-apa dokumen dan maklumat sebagaimana yang\nditentukan oleh Ketua Pegawai Eksekutif;\n\n(B) kecuali bagi peraturan 8, 11, 13 dan 22, disertakan dengan fi yang\nditetapkan; dan\n\n(C) mengikut apa -apa kehendak se bagaimana yang ditentukan oleh Ketua\nPegawai Eksekutif.\n\n(2)   Pihak Berkuasa Keselamatan boleh, secara bertulis, pada bila -bila masa\nselepas menerima permohonan di bawah subperaturan (1), meminta pemoh on supaya\nmemberikan kepada Pihak Berkuasa Keselamatan dalam tempoh yang ditentukan dalam\npermintaan itu maklumat, butiran atau dokumen tambahan mengenai permohonan itu.\n\n(3)  Setelah mempertimbangkan permohonan di bawah subperaturan (1) , Pihak\nBerkuasa Keselamatan boleh membenarkan atau menolak permohonan itu.\n\n(4)  Jika Pihak Berkuasa Keselamatan membenarkan permohonan di bawah\nsubperaturan (1), Pihak Berkuasa Keselamatan boleh mengenakan apa -apa terma dan\nsyarat yang difikirkannya perlu bagi kelulusan  atau perakuan itu dan orang yang\ndikeluarkan terhadapnya kelulusan atau  perakuan itu hendaklah mematuhi terma dan\nsyarat itu.\n\nPemindahmilikan kelulusan, perakuan dan kebenaran\n30. Suatu kelulusan, perakuan dan kebenaran yang dikeluarkan di bawah\nPeraturan-Peraturan ini hendaklah khas kepada orang yang kepadanya ia dikeluarkan\ndan tidak boleh dipindahmilikkan atau diserahhakkan kepada mana-mana orang lain.\n\nPenggantungan, pengubahan dan pembatalan kelulusan\n31. (1) Pihak Berkuasa Keselamatan boleh mengantung, mengubah atau\nmembatalkan kelulusan, perakuan atau kebenaran yang dikeluarkan di bawah\nPeraturan-Peraturan ini kepada mana -mana orang dalam  mana-mana hal keadaan\nseperti yang berikut:\n\n(a) jika orang itu melanggar mana -mana terma dan syarat pada kelulusan,\nperakuan atau kebenaran itu;\n\n(b) jika orang itu melanggar mana -mana peruntukan Akta ,\nPeraturan-Peraturan ini atau mana-mana perundangan subsidiari yang\ndibuat di bawah Akta atau mana-mana peruntukan Akta Pihak Berkuasa\nPenerbangan Awam Malaysia 2017;\n\n(c) jika kelulusan, perakuan atau kebenaran itu diperoleh secara fraud atau\nsalah nyataan; atau\n\n(d) jika berlaku kematian, ketidakupayaan atau kebankrapan oleh orang itu\natau, dalam hal suatu syarikat, jika berlaku pembubaran atau pelantikan\nseorang penerima atau pengurus.\n\n(2) Pihak Berkuasa Keselamatan tidak boleh menggantung, mengubah atau\nmembatalkan mana-mana kelulusan, perakuan atau kebenaran melainkan jika orang itu\ntelah diberikan peluang untuk membuat suatu representasi.\n\n(3) Sementara menunggu keputusan untuk meng gantung, mengubah atau\nmembatalkan kelulusan, perakuan atau kebenaran di bawah subperaturan (1), Pihak\nBerkuasa Keselamatan boleh, jika difikirkan perlu, meng gantung sementara atau\nmengubah, dengan atau tanpa syarat, kelulusan, perakuan atau kebenaran itu.\n\n(4) Jika suatu kelulusan, perakuan atau kebenaran yang dikeluarkan di bawah\nPeraturan-Peraturan ini—\n\n(a) telah dibatalkan, pemegang kelulusan, perakuan atau kebenaran itu\nhendaklah dalam tempoh empat belas hari dari tarikh pembatalan\nmemulangkan kelulusan, perakuan atau kebenaran itu kepada Pihak\nBerkuasa Keselamatan; atau\n\n(b) digantung atau digantung sementara, kelulusan, perakuan atau\nkebenaran itu tidak berkuat kuasa semasa tempoh penggantungan.\n\nKesalahan berhubung dengan dokumen dan rekod\n32. (1) Seseorang tidak boleh dengan niat hendak memperdaya—\n\n(a) menggunakan apa-apa kelulusan, perakuan atau kebenaran yang telah\ndipalsukan, diubah, dibatalkan atau digantung, atau yang kepadanya\norang itu tidak berhak;\n\n(b) meminjamkan apa -apa kelulusan, perakuan atau kebenaran di bawah\nPeraturan-Peraturan ini untuk, atau membenarkan kelulusan, perakuan\natau kebenaran itu digunakan oleh, mana-mana orang lain; atau\n\n(c) membuat apa-apa pernyataan palsu bagi maksud untuk mendapatkan\nkepada dirinya atau orang lain apa-apa kelulusan, perakuan atau\nkebenaran di bawah Peraturan-Peraturan ini.\n\n(2) Bagi maksud peraturan ini, apa-apa sebutan tentang kelulusan, perakuan atau\nkebenaran termasuklah suatu salinan atau berupa salinannya itu.\n\nKuasa untuk memberi arahan\n33. (1) Pihak Berkuasa Keselamatan, Ketua Pegawai Eksekutif atau mana -mana\npegawai diberi kuasa boleh memberikan apa-apa arahan kepada mana-mana orang bagi\nmaksud Peraturan-Peraturan ini.\n\n(2) Orang yang kepadanya arahan di bawah subperaturan (1) diberikan\nhendaklah mematuhi arahan itu.\n\nKesalahan\n34. (1) Mana-mana orang yang melanggar mana -mana peruntukan yang dinyatakan\ndalam Bahagian A Jadual melakukan suatu kesalahan dan boleh, apabila disabitkan—\n\n(a) jika orang itu ialah seorang individu, didenda tidak melebihi satu ratus\nribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun\natau kedua-duanya; atau\n\n(b) jika orang itu ialah suatu syarikat, perkongsian liabiliti terhad, firma,\npertubuhan atau mana -mana kumpulan orang yang lain , didenda tidak\nmelebihi dua ratus ribu ringgit.\n\n(2) Mana-mana orang yang melanggar mana -mana peruntukan yang dinyatakan\ndalam Bahagian B Jadual melakukan suatu kesalahan dan boleh, apabila disabitkan—\n\n(a) jika orang itu ialah seorang individu, didenda tidak melebihi dua ratus\nribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun\natau kedua-duanya; atau\n\n(b) jika orang itu ialah suatu syarikat, perkongsian liabiliti terhad, firma,\npertubuhan atau mana -mana kumpulan orang yang lain , didenda tidak\nmelebihi empat ratus ribu ringgit.\n\nJADUAL\n[Peraturan 34]\n\nKESALAHAN\n\nMana-mana orang yang melanggar peruntukan yang disenaraikan dalam Bahagian A dan\nBahagian B Jadual ini adalah melakukan kesalahan:\n\nBAHAGIAN A\n\nPeraturan Perkara\n\n8(3)\n\nPengubahan Program Keselamatan Kebangsaan\nKajian semula program keselamatan\nPelantikan ketua keselamatan\nPengajar\nPemindahmilikan kelulusan, perakuan dan kebenaran\n\nBAHAGIAN B\n\nPeraturan Perkara\n\n7(3)\n\nPematuhan kepada Program Keselamatan Kebangsaan\nProgram keselamatan\nPelan kontingensi oleh pengendali aerodrom\n12 Pematuhan kepada program keselamatan dan pelan kontingensi\nyang diluluskan\n13 Peralatan keselamatan\n14 Pemeriksa keselamatan\n16 Pemeriksaan orang\n17 Pemeriksaan bagasi\n18 Pemeriksaan kargo, mel dan barangan\n\nPeraturan Perkara\n\n19 Pemeriksaan kenderaan\nGangguan tanpa kebenaran\nKawasan terkawal\n23 Penggeledahan dan pemeriksaan keselamatan kapal udara\n24 Akses tanpa kebenaran ke kapal udara\n25 Kehadiran tanpa kebenaran di dalam kapal udara\n26 Benda yang ditinggalkan\n27 Langkah-langkah yang berhubungan dengan penumpang dalam\njagaan yang sah\n29 Terma dan syarat bagi kelulusan atau perakuan\n31(4)(a) Tidak memulangkan kelulusan, perakuan atau kebenaran\n32 Kesalahan berhubung dengan dokumen dan rekod\n33 Tidak mematuhi arahan\n\nBertarikh 29 Mac 2019\n[MOT.BU(S).600-6/2/11(9); PN(PU2)38/XI]\n\nLOKE SIEW FOOK\nMenteri Pengangkutan\n\nCIVIL AVIATION ACT 1969\n\nCIVIL AVIATION (SECURITY) REGULATIONS 2019\n\n____________________________\nARRANGEMENT OF REGULATIONS\n_____________________________\n\nPART I\nPRELIMINARY\nRegulation\n1. Citation and commencement\n2. Interpretation\n\nPART II\nTHE SECURITY AUTHORITY\n\n3. The Security Authority\n4. Information on act of unlawful interference\n5. International co-operation\n6. The Committee\n\nPART III\nNATIONAL SECURITY PROGRAMMES\n\n7. National Security Programmes\n8. Variation of National Security Programmes\n\nPART IV\nSECURITY PROGRAMMES\n\n9. Security programmes\n10. Contingency plan by aerodrome operator\n\nRegulation\n11. Review of approved security programmes\n12. Compliance with the requirements of  the approved security programme s and\ncontingency plan\n\nPART V\nSCREENING AND SECURITY CONTROLS\n\n13. Security equipment\n14. Security screener\n15. Security restricted area\n16. Screening of person\n17. Screening of baggage\n18. Screening of cargo, mail and stores\n19. Screening of vehicle\n20. Unauthorized interference\n21. Controlled area\n22. Appointment of chief of security\n\nPART VI\nAIRCRAFT SECURITY\n\n23. Aircraft security search and checks\n24. Unauthorized access to aircraft\n25. Unauthorized presence on board aircraft\n26. Left items\n27. Measures relating to passengers in lawful custody\n\nPART VII\nGENERAL\n\n28. Instructor\n29. Application for approval, etc.\n30. Transfer of approval, certificate and authorization\n\nRegulation\n31. Suspension, variation and revocation of approval\n32. Offences in relation to documents and records\n33. Power to give direction\n34. Offences\n\nSCHEDULE\n\nCIVIL AVIATION ACT 1969\n\nCIVIL AVIATION (SECURITY) REGULATIONS 2019\n\nIN exercise of the powers conferred by section 3 of the Civil Aviation Act 1969 [ Act 3],\nthe Minister makes the following regulations:\n\nPART I\nPRELIMINARY\n\nCitation and commencement\n1. (1)   These r egulations may be cited as the Civil Aviation ( Security)\nRegulations 2019.\n\n(2)  These Regulations come into operation on 30 March 2019.\n\nInterpretation\n2. In these Regulations, unless the context otherwise requires—\n\n\"baggage\" means a personal property of a passenger or crew carried on an aircraft\nby agreement with an operator;\n\n\"cabin baggage\" means a baggage intended for carriage in the cabin of an aircraft;\n\n\"stores\" means any goods other than cargo, mail and baggage, and includes—\n\n(a) any goods intended for consumption by a  passenger or crew on board an\naircraft;\n\n(b) any goods used for the operation and maintenance of an aircraft, including\nfuel and lubricants; and\n\n(c) any goods for sale to a passenger or  crew on board an aircraft or in a\nsecurity restricted area;\n\n\"Government Entity\" means—\n\n(a) any ministry, department, office, agency, authority, commission,\ncommittee, board or council of the Federal Government, or of any of the\nState Governments, established under any written law or otherwise; or\n\n(b) any local authority;\n\n\"prescribed fee\" means the fee prescribed under the Civil Aviation (Fees and\nCharges) Regulations 2016 [P.U. (A) 99/2016];\n\n\"Committee\" means the National Civil Aviation Security Committe e established\nunder regulation 6;\n\n\"aircraft\" has the meaning assigned to it in the Civil Aviation Regulations 2016\n[P.U. (A) 97/2016];\n\n\"security restricted area\" means any area designated by an aerodrome operator\nunder regulation 15;\n\n \"NCASP\" means the programme established under paragraph 7(1)(a);\n\n\"NCASTP\" means the programme established under paragraph 7(1)(b);\n\n\"Contracting State\" means any State which is a party to the Chicago Convention;\n\n\"NQCP\" means the programme established under paragraph 7(1)(c);\n\n\"security screener\" means a person who holds a certificate issued  under\nregulation 14;\n\n\"commercial air transport\" has the meaning assigned to it in the Civil Aviation\nRegulations 2016;\n\n\"operator\" means a person who holds an air operator certificate issued under\nregulation 110 of the Civil Aviation Regulations 2016;\n\n\"aerodrome operator\" means a person who is licensed under section 38 of the\nMalaysian Aviation Commission Act 2015 [Act 771];\n\n\"groundhandler\" means a person who is licensed under section 37 of the Malaysian\nAviation Commission Act 2015;\n\n\"passenger\" has the meaning assigned to it in the Civil Aviation Regulations 2016;\n\n\"transfer passenger\" means a passenger making direct connections between two\ndifferent flights;\n\n \"transit passenger\" means a passenger departing from an aerodrome on the same\nflight as that on which he arrived;\n\n\"security equipment\" means a device of a specialized nature for use, individually or\nas part of a system, in the prevention or detection of any act of unlawful interference with\ncivil aviation and its facilities , including c losed-circuit television , hand -held metal\ndetector, walk-through metal detector and body scanner;\n\n\"Security Authority\" means the National Civil Aviation Security Authority\nestablished under regulation 3;\n\n\"security programmes\" means the programmes established under regulation 9;\n\n\"National Security Programmes\" means the programmes established under\nregulation 7;\n\n\"approved security programme\" means a security programme appr oved by the\nSecurity Authority under regulation 29;\n\n\"act of unlawful interference\" means any act such as to jeopardize the safety of civil\naviation, including—\n\n(a) unlawful seizure of an aircraft;\n\n(b) destruction of an aircraft in service;\n\n(c) hostage-taking on board an aircraft or on aerodromes;\n\n(d) forcible intrusion on board an aircraft, at an airport or on the premises of\nan aeronautical facility;\n\n(e) introduction on board an aircraft or at an airport of a weapon or hazardous\ndevice or material intended for criminal purposes;\n\n(f) use of an aircraft in service for the purpose of causing death, serious bodily\ninjury, or serious damage to property or the environment; and\n\n(g) communication of false information such as to jeopardize the safety of an\naircraft in flight or on the ground, of a passenger, crew, ground personnel\nor the general public, at an airport or on the premis es of a civil aviation\nfacility.\n\nPART II\nTHE SECURITY AUTHORITY\n\nThe Security Authority\n3. (1) The Authority shall be the National Civil Aviation Security Authority.\n\n(2) The Security Authority shall be responsible for safeguarding the civil aviation\nagainst any act of unlawful interference and for regulating the security of the civil aviation\nin compliance with the provisions of Annex 17 to the Chicago Convention.\n\n(3) The functions of the Security Authority are—\n\n(a) to establish civil aviation security policies and review such policies from\ntime to time;\n\n(b) to monitor the implementation of the provisions of these Regulations;\n\n(c) to conduct a review on the National Security Programmes;\n\n(d) to approve a security programme and to conduct a review on the\napproved security programme;\n\n(e) to define and allocate tasks and co -ordinate civil aviation security\nactivities between the Government Entities, operators and aerodrome\noperators, air traffic control service providers and any other persons\nresponsible for the implementation of the NCASP;\n\n(f) to conduct a review on the level of threat to civil aviation;\n\n(g) to conduct regular security risk assessments for civil aviation security;\n\n(h) to re-evaluate security control and procedures on civil aviation security;\n\n(i) to respond to meet any increased threat to civil aviation security; and\n\n(j) to perform any other functions that are incidental or consequential to any\nof its functions under these Regulations.\n\nInformation on act of unlawful interference\n4. In the event of any act of unlawful interference, the Security Authority may provide\npertinent information relating to the security aspects of any such act to the International\nCivil Aviation Organisation.\n\nInternational co-operation\n5. The Security Authority may co-operate with any Contracting State for the purposes\nof the development of and exchange of information on the National Security Programmes.\n\nThe Committee\n6. (1) There shall be a National  Civil Aviation Security Committee , which shall\nconsist of the following members:\n\n(a) the Chief Executive Officer, who shall be the chairman;\n\n(b) a representative of the Ministry of Transport; and\n\n(c) such number of  representatives who shall be appointed  by the Chief\nExecutive Officer—\n\n(i) from any Government Entity; and\n\n(ii) from amongst the  operators, aerodrome operators, air traffic\ncontrol service providers or any other persons.\n\n(2) The functions of the Committee are—\n\n(a) to advise the Security Authority on matters relating to the\nimplementation of the provisions of these Regulations;\n\n(b) to facilitate the co -ordination of  civil aviation security activities\nbetween the Government Entities, operators and aerodrome\noperators, air traffic control service providers  and any other persons\nresponsible for the implementation of the NCASP;\n\n(c) to consider the recommendations made by  the airport security\ncommittees in relation to the civil aviation security and , where\n\nappropriate, recommend to the Security Authority any change to the\ncivil aviation security policies; and\n\n(d) to carry out any other functions as directed by the Security Authority.\n\n(3) The procedures of the Committee shall be as specified in the NCASP.\n\nPART III\nNATIONAL SECURITY PROGRAMMES\n\nNational Security Programmes\n7. (1) The Chief Executive Officer  shall establish and implement the  National\nSecurity Programmes as follows:\n\n(a) the NCASP, that is the National Civil Aviation Security P rogramme for\nsafeguarding the civil aviation operation against any act of unlawful\ninterference;\n\n(b) the NCASTP, that is the National Civil Aviation Security Training\nProgramme to ensure that security awareness and function -specific\ntrainings are provided to all persons involved in or responsible for the\nimplementation of the NCASP;\n\n(c) the NQCP, that is the National Civil Aviation Security Quality Control\nProgramme to determine the compliance with and validate the\neffectiveness of the NCASP; and\n\n(d) any other programmes as the Chief Executive Officer thinks necessary.\n\n(2) For the purpose of subregulation (1), the Chief Executive Officer  shall give\neffect to any reviews made by the Security Authority under paragraph 3(3)(c).\n\n(3) All operators, aerodrome operators, groundhandler s and other person s as\nmay be determined by the Chief Executive Officer shall comply with the requirements of\nthe National Security Programmes.\n\n(4) All Government Entities responsible in the implementation of the National\nSecurity Programmes shall co-operate with and assist one another in ensuring the proper\nimplementation of the National Security Programmes.\n\n (5) For the purpose of subregulation (3), the Chief Executive Officer shall provide\nto the operators, aerodrome operators, groundhandlers or the persons determined by\nthe Chief Executive Officer a copy of the appropriate parts or the relevant information of\nthe National Security Programmes so as to enable them to comply with the requirements\nof the National Security Programmes.\n\nVariation of National Security Programmes\n8. (1) The Chief Executive Officer may, if he thinks necessary, vary any of the\nNational Security Programmes.\n\n(2) If the Chief Executive Officer varies any of the National Security Programmes\nunder subregulation (1), the Chief Executive Officer may direct any person who\nestablishes any of the  approved security programmes to vary the approved security\nprogramme to be in accordance with the National Security Programme as varied within\nthe period as may be determined by the Chief Executive Officer.\n\n(3) Any person directed under subregulation (2) shall submit the approved\nsecurity programme as varied to the Security Authority for its approval within the period\nas may be determined by the Chief Executive Officer in accordance with regulation 29.\n\nPART IV\nSECURITY PROGRAMMES\n\nSecurity programmes\n9.    (1) An operator, aerodrome operator, a groundhandler or any other person s as\nmay be determined by the Chief Executive Officer shall establish the security programmes\nas follows:\n\n(a) a civil aviation security programme in accordance with the requirements\nof the NCASP;\n\n(b) a civil aviation security training programme  in accordance with the\nrequirements of the NCASTP;\n\n(c) a civil aviation security quality control programme in accordance with the\nrequirements of the NQCP; and\n\n(d) any other programme s as may be determined by the Chief Executive\nOfficer.\n\n(2) The security programmes referred to in subregulation (1) shall be approved\nby the Security Authority.\n\n(3) An application for the approval or variation of an approval of a security\nprogramme shall be made in accordance with regulation 29.\n\n(4) In relation to the civil aviation security training programme referred to in\nparagraph (1)(b), an operator, aerodrome operator, a groundhandler or any other person\nas may be determined by the  Chief Executive Officer  shall renew the  approval of the\nprogramme within the period as may be determined by the Chief Executive Officer.\n\n(5) An application for the renewal of the approval of the civil aviation security\ntraining programme shall be made in accordance with regulation 29.\n\nContingency plan by aerodrome operator\n10.  (1) An aerodrome operator shall, in addition to  the civil aviation security\nprogramme referred to in paragraph 9(1)(a), establish a contingency plan in accordance\nwith the requirements of the NCASP.\n\n(2) The contingency plan referred to in subregulation (1) shall be approved by the\nSecurity Authority.\n\n(3) An application for the approval or variation of an approval of a contingency\nplan shall be made in accordance with regulation 29.\n\n(4) For the purpose of this regulation, \"contingency plan\" means a proactive plan\nwhich includes measures and procedures addressing various threat levels, risk\nassessments and associated security measures to be implemented and designed to\nanticipate, mitigate events and prepare all concerned par ties having roles and\nresponsibilities in the event of an actual act of unlawful interference.\n\nReview of approved security programmes\n11. (1) The Security Authority may, if it thinks necessary, conduct a review on any\napproved security programme.\n\n(2) The Security Authority may direct any  person who establishes the approved\nsecurity programme to vary the security programme based on the review made within\nthe period as may be determined by the Security Authority.\n\n(3) Any person directed under subregulation (2)  shall submit the  approved\nsecurity programme as varied to the Security Authority for its approval within the period\nas may be determined by the Security Authority in accordance with regulation 29.\n\n(4) Notwithstanding subregulation (1), the Security Authority may direct any\nperson who establishes any approved security programme to conduct the review on the\napproved security programme itself.\n\n(5) Any person directed under subregulation (4) shall conduct the review and\nvary its approved security programme based on such review and submit the approved\nsecurity programme as varied to the Security Authority for its approval within the period\nas may be determined by the Chief Executive Officer in accordance with regulation 29.\n\nCompliance with the requirements of the  approved security programme s and\ncontingency plan\n12. An operator, aerodrome operator, a groundhandler and any other person as may be\ndetermined by the Chief Executive Officer shall comply with the requirements of the\napproved security programmes and contingency plan, as the case be, under this Part.\n\nPART V\nSCREENING AND SECURITY CONTROLS\n\nSecurity equipment\n13. (1) No operator, aerodrome operator, a groundhandler or any other person shall\nuse any security equipment except with the approval of the Security Authority.\n\n(2) An application for an approval or renewal of  an approval to use security\nequipment under subregulation (1) shall be made in accordance with regulation 29.\n\nSecurity screener\n14. (1) No person shall act as a security screener unless he holds a certificate issued\nby the Security Authority.\n\n(2) An application for a certificate or renewal of a certificate to act as a security\nscreener under subregulation (1) shall be made in accordance with regulation 29.\n\n(3) No operator, aerodrome operator, groundhandler or any other person\nresponsible to provide a screening process shall permit or cause to be permitted any\nperson to act as a security screener unless the person  holds a certificate issued by the\nSecurity Authority.\n\n (4)  The security screener shall conduct a screening process on a person, baggage,\ncargo, mail and stores in accordance with the screening method and manner as may be\ndetermined by the Chief Executive Officer.\n\n(5)  The operator, aerodrome operator, a groundhandler or any other person\nresponsible to provide a screening process shall ensure that the security screener\ncomplies with subregulation (4).\n\nSecurity restricted area\n15. An aerodrome operator shall, with the approval of the Chief Executive Officer,\ndesignate any area of the airside of an aerodrome to be a security restricted area, that is\na priority risk area  where in addition to access  control, other security controls are\napplied.\n\nScreening of person\n16. (1) No person shall enter a security restricted area or an aircraft in a security\nrestricted area unless that person undergoes a screening process by a security screener.\n\n(2) An operator, aerodrome operator, a groundhandler or any other person\nresponsible to provide a screening process shall ensure that no person enters a security\nrestricted area or an aircraft in a security restricted area unless that person undergoes a\nscreening process by a security screener.\n\n(3) This regulation shall not apply to—\n\n(a) a transit passenger who remains on board an aircraft;\n\n(b) a transit passenger or transfer passenger who does not mix with an\nunscreened person from the transitting or transferring airport, as the\ncase may be; and\n\n(c) a transit passenger or transfer passenger who arrives from a Contracting\nState where the security standards applied are recogni zed as being\n\nequivalent to the requirements as may be determined by the Chief\nExecutive Officer.\n\nScreening of baggage\n17. (1) No person shall—\n\n(a) take or cause to be taken on board an aircraft; or\n\n(b) deliver or cause to be delivered for loading or carriage on an aircraft,\n\nany baggage unless the baggage undergoes a screening process by a security screener.\n\n(2) An aerodrome operator shall ensure that no person—\n\n(a) takes or causes to be taken on board an aircraft; or\n\n(b) delivers or causes to be delivered for loading or carriage on the aircraft,\n\nany baggage unless the baggage undergoes a screening process by a security screener.\n\n(3) This regulation shall not apply to any cabin baggage carried by—\n\n(a) a transit passenger who remains on board the aircraft;\n\n(b) a transit passenger or transfer passenger who does not mix with an\nunscreened person from the transitting or transferring  airport, as the\ncase may be; and\n\n(c) a transit passenger or transfer passenger who arrives from a Contracting\nState where the security standards applied are recogni zed as being\nequivalent to the requirements as may be determined by the\nChief Executive Officer.\n\nScreening of cargo, mail and stores\n18. (1) No person shall—\n\n(a) take or cause to be taken on board an aircraft; or\n\n(b) deliver or cause to be delivered for loading or carriage on the aircraft,\n\nany cargo or mail unless the cargo or mail undergo es a screening process by a security\nscreener.\n\n(2) No person shall carry or cause to be carried in a security restricted area or on\nboard an aircraft in a security restricted area, any stores unless the stores undergo a\nscreening process by a security screener.\n\nScreening of vehicle\n19. (1) No person shall use or operate, or cause to be used or operated a vehicle in a\nsecurity restricted area  unless the vehicle undergoes a screening process by a security\nscreener.\n(2) The aerodrome operator shall ensu re that no person uses or operate s, or\ncauses to be used or  operated a vehicle in a security restricted area  unless the vehicle\nundergoes a screening process by a security screener.\n\nUnauthorized interference\n20. An operator, aerodrome operator, a groundhandler or any other person responsible\nto provide a screening process shall ensure that all passengers, baggage, cargo, mail and\nstores which have undergone the screening process under this Part are protected from\nany unauthorized interference from the time of screening until the departure of aircraft,\nin accordance with the NCASP and the relevant approved civil aviation  security\nprogramme.\n\nControlled area\n21. (1)  The Chief Executive Officer may, after conducting a security risk assessment,\ndeclare any area of an aerodrome or any other area as he thinks suitable to be a controlled\narea.\n\n(2)  No person shall enter  a controlled area unless authorized by the Chief\nExecutive Officer and subject to the terms and conditions as may be determined by the\nChief Executive Officer.\n\nAppointment of chief of security\n22. (1) An operator , aerodrome operator, a groundhandler or any other person  as\nmay be determined by the Chief Executive Officer shall, with the prior approval of the\nSecurity Authority, appoint a chief of security.\n\n (2) An application for prior approval under subregulation (1) shall be made in\naccordance with regulation 29.\n\n(3) A chief of security shall perform the duties and responsibilities as specified in\nthe National Security Programmes.\n\nPART VI\nAIRCRAFT SECURITY\n\nAircraft security search and checks\n23. (1) No operator shall permit or cause to be permitted any of its aircraft to fly for\nthe purpose of commercial air transport unless the operator conducts a security search\nand checks on the aircraft in accordance with the NCASP.\n\n(2) The operator shall ensure that its aircraft is protected from any unauthorized\ninterference from the time of the security search and checks under subregulation (1) is\ncarried out until the departure of the aircraft.\n\nUnauthorized access to aircraft\n24. An operator shall ensure that its aircraft is kept under its supervision to prevent\nany unauthorized access of person or vehicle to or from the aircraft.\n\nUnauthorized presence on board aircraft\n25. (1) No person shall enter or be in a flight deck of any aircraft flying for the purpose\nof commercial air transport unless—\n\n(a) that person is a crew on duty and authorized by the operator;\n\n(b) that person is, with the authority of the Chief Executive Officer ,\nperforming any regulatory functions, including witnessing any training,\npractice or test for the purpose of the Act or any sub sidiary legislation\nmade under the Act  or for the purpose of the Civil Aviation Authority of\nMalaysia Act 2017 [Act 788]; or\n\n(c) that person is authorized by the Chief Executive Officer.\n\n(2) An operator shall ensure that no person other than the persons referred to in\nparagraphs (1)(a) to (c) enters or be in a flight deck of any of its aircraft.\n\nLeft items\n26. An operator shall  ensure that any item left behind in any of its aircraft by a\npassenger disembarking from any flight, including transit flight , is removed from the\naircraft.\n\nMeasures relating to passengers in lawful custody\n27. An o perator shall ensure that its civil aviation security programme contains the\nmeasures and procedures for carrying of passengers in lawful custody of any law\nenforcement agency in accordance with the requirements in the NCASP.\n\nPART VII\nGENERAL\n\nInstructor\n28. (1) No person shall conduct a civil  aviation security training as an instructor\nunless he holds a certificate issued by the Security Authority.\n\n(2) An application for a certificate or renewal or variation of the  certificate of an\ninstructor under subregulation (1) shall be made in accordance with regulation 29.\n\nApplication for approval, etc.\n29. (1) An application for—\n\n(a) an approval or  renewal or variation of an approval under\nregulations 8, 9, 10, 11, 13 and 22; or\n\n(b) a certificate, renewal or variation of a certificate  under regulations 14\nand 28;\n\nshall be—\n\n(A) made to the Security Authority in the form and manner together with\nsuch documents and information as may be determined by the Chief\nExecutive Officer;\n\n(B) except for regulations 8, 11, 13 and 22, accompanied by the prescribed\nfee; and\n\n(C) in accordance with any requirement as may be determined by the Chief\nExecutive Officer.\n\n(2) The Security Authority may, in writing, at any time after the receipt of an\napplication under subregulation (1), request the applicant to give to the Security\n\nAuthority within the period specified in the request additional information, particulars\nor document on the application.\n\n(3) After considering the application under subregulation (1), the Security\nAuthority may grant or refuse the application.\n\n(4) If the Security Authority grants the application under subregulation (1 ), the\nSecurity Authority may impose such terms and conditions  on the approval or certificate\nas it thinks necessary and the person issued with the approval or certificate shall comply\nwith such terms and conditions.\n\nTransfer of approval, certificate and authorization\n30.  An approval, certificate and authorization  issued under these Regulations shall be\npersonal to whom it is issued and shall not be transferred or assigned to any other\npersons.\n\nSuspension, variation and revocation of approval\n31.  (1) The Security Authority may suspend, vary or revoke any approval, certificate\nor authorization issued under these Regulations to any person under any of the following\ncircumstances:\n\n(a) if the person contravenes any terms and conditions of the approval,\ncertificate or authorization;\n\n(b) if the person contravenes any provisions of the Act, these Regulations or\nany subsidiary legislation made under the Act  or any provisions of the\nCivil Aviation Authority of Malaysia Act 2017;\n\n(c) if the approval, certificate or authorization was obtained by fraud or\nmisrepresentation; or\n\n(d) in the event of the death, incapacity or bankruptcy of the person or, in\nthe case of a company, in the event of its liquidation or on the\nappointment of a receiver or manager.\n\n(2) The Security Authority shall not suspend, vary or revoke any approval,\ncertificate or authorization unless the person has been given an opportunity to make a\nrepresentation.\n\n(3) Pending any decision to suspend, vary or revoke any approval, certificate or\nauthorization under subregulation (1), the Security Authority may, if it  considers\nnecessary, temporarily suspend or vary, with or without condition, the approval,\ncertificate or authorization.\n\n(4) If any approval, certificate or authorization issued under these Regulations—\n\n(a) is revoked, the holder of the approval, certificate or authorization shall\nwithin fourteen days from the date of revocation return the approval,\ncertificate or authorization to the Security Authority; or\n\n(b) is suspended or temporarily suspended, the approval, certificate or\nauthorization shall have no effect during the period of suspension.\n\nOffences in relation to documents and records\n32.  (1) A person shall not with intent to deceive—\n\n(a) use any approval, certificate or authorization which has been forged,\naltered, revoked or suspended, or to which the person is not entitled;\n\n(b) lend any approval, certificate or authorization under these Regulations\nto, or allow the approval, certificate or authorization to be used by, any\nother person; or\n\n(c) make any false representation for the purpose of procuring for himself\nor any other person any approval, certificate or authorization under\nthese Regulations.\n\n(2) For the purpose of this regulation, a reference to an approval, a certificate or\nan authorization includes a copy or purported copy of it.\n\nPower to give direction\n33.  (1) The Security Authority, Chief Executive Officer or any authorized officer may\ngive any direction to any person for the purposes of these Regulations.\n\n (2) The person who has been given the directions under subregulation (1) shall\ncomply with the instruction.\n\nOffences\n34.  (1) Any person who contravenes any provision specified in Part A of the Schedule\ncommits an offence and shall, on conviction, be liable—\n\n(a) if the person is an individual, to a fine not exceeding one hundred\nthousand ringgit or to imprisonm ent for a term not exceeding three\nyears or to both; or\n\n(b) if the person is a company, limited liability partnership, firm, society or\nother body of persons , to a fine not exceeding two hundred  thousand\nringgit.\n\n (2) Any person who contravenes any provision specified in Part B of the Schedule\ncommits an offence and shall, on conviction, be liable—\n\n(a) if the person is an individual, to a fine not exceeding two hundred\nthousand ringgit or to imprisonment for a term not exceeding five years\nor to both; or\n\n(b) if the person is a company, limited liability partnership, firm, society or\nother body of persons, to a fine not exceedin g four hundred thousand\nringgit.\n\nSCHEDULE\n[Regulation 34]\n\nOFFENCES\n\nAny person who contravenes the provisions listed in Part A and  Part B of this Schedule\ncommits an offence:\n\nPART A\n\nRegulation Subject matter\n\n8(3)\nVariation of National Security Programmes\nReview of security programmes\nAppointment of chief of security\nInstructor\nTransfer of approval, certificate and authorization\n\nPART B\n\nRegulation Subject matter\n\n7(3)\nCompliance with the National Security Programmes\nSecurity programmes\nContingency plan by aerodrome operator\n12 Compliance with the approved security programme s and\ncontingency plan\n13 Security equipment\n\nRegulation Subject matter\n\n14 Security screener\nScreening of person\nScreening of baggage\n18 Screening of cargo, mail and stores\n19 Screening of vehicles\n31(4)(a)\nUnauthorized interference\nControlled area\nAircraft security search and checks\nUnauthorized access to aircraft\nUnauthorized presence on board aircraft\nLeft items\nMeasures relating to passengers in lawful custody\nTerms and conditions of approval or certificate\nFailure to return approval, certificate or authorization\n32 Offences in relation to documents and records\n33 Failure to comply with directions\n\nMade 29 March 2019\n[MOT.BU(S).600-6/2/11(9); PN(PU2)38/XI]\n\nLOKE SIEW FOOK\nMinister of Transport"
+   }
+  }
+ ]
+}

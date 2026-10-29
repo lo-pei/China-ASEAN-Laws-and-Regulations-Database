@@ -1,0 +1,632 @@
+{
+ "id": "ID-H321",
+ "title": {
+  "zh": "基本规定法",
+  "en": "basic provisions Law",
+  "id": "ketentuan-ketentuan pokok",
+  "orig": "KETENTUAN-KETENTUAN POKOK",
+  "vi": "Luật quy định cơ bản",
+  "th": "พระราชบัญญัติ ข้อกำหนดหลัก",
+  "ms": "Akta ketentuan-ketentuan pokok"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02c",
+ "language": "id",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "1970",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU19-1964",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 40,
+ "chars": 34732,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": null
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\01_宪法与基础法\\印尼_WLD_1970_KETENTUAN-KETENTUAN POKOK.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 42 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H321-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 1.\nkekuasaan Kehakiman adalah kekuasaan Negara yang merdeka untuk\nmenyelenggarakan peradilan guna menegakkan hukum dan keadilan\nberdasarkan\nPancasila, demi terselenggaranya Negara Hukum Republik\nIndonesia."
+   }
+  },
+  {
+   "id": "ID-H321-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB I."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 2.\n(1) Penyelenggaraan Kekuasaan Kehakiman tercantum dalam pasal 1\ndiserahkan kepada Badan-badan peradilan dan ditetapkan dengan\nUndang-Undang,\ndengan tugas pokok untuk menerima, memeriksa dan\nmengadili serta memyelesaikan setiap perkara yang diajukan\nkepadanya.\n(2) Tugas lain dari pada yang tersebut pada ayat (1) dapat\ndiberikan kepadanya berdasarkan peraturan perundangan."
+   }
+  },
+  {
+   "id": "ID-H321-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB I."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 3.\n(1) Semua peradilan diseluruh wilayah Republik Indonesia adalah\nperadilan Negara dan ditetapkan dengan Undang-undang.\n(2) Peradilan Negara meneterapkan dan menegakkan hukum dan\nkeadilan yang berdasarkan Pancasila."
+   }
+  },
+  {
+   "id": "ID-H321-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB I."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 4.\n(1) Peradilan dilakukan \"DEMI KEADILAN BERDASARKAN KETUHANAN\nYANG MAHA ESA\".\n(2) Peradilan dilakukan dengan sederhana, cepat dan biaya\nringan.\n(3) Segala campur tangan dalam urusan peradilan oleh fihak-fihak\nlain diluar Kekuasaan Kehakiman dilarang, kecuali dalam hal-hal\nyang tersebut dalam Undang-undang Dasar."
+   }
+  },
+  {
+   "id": "ID-H321-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB I."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 5.\n(1) Pengadilan mengadili menurut hukum dengan tidak\nmembeda-bedakan orang.\n(2) Dalam perkara perdata Pengadilan membantu para pencari\nkeadilan dan berusaha sekeras-kerasnya mengatasi segala hambatan\ndan rintangan\nuntuk dapat tercapainya peradilan yang sederhana,\ncepat dan biaya ringan."
+   }
+  },
+  {
+   "id": "ID-H321-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB I."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 6.\n(1) Tiada seorang juapun dapat dihadapkan didepan Pengadilan\nselama dari pada yang ditentukan baginya oleh Undang-undang.\n(2) Tiada seorang juapun dapat dijatuhi pidana, kecuali apabila\nPengadilan karena alat pembuktian yang sah menurut Undang-undang,\nmendapat keyakinan, bahwa seseorang yang dianggap dapat\nbertanggung-jawab, telah bersalah atas perbuatan yang dituduhkan\natas dirinya."
+   }
+  },
+  {
+   "id": "ID-H321-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB I."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\nTiada seorang juapun dapat dikenakan penangkapan, penahanan,\npenggeledahan dan pensitaan, selain atas perintah tertulis oleh\nkekuasaan\nyang sah dalam hal-hal menurut cara-cara yang diatur\ndengan Undang-undang."
+   }
+  },
+  {
+   "id": "ID-H321-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB I."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 8.\nSetiap orang yang disangka, ditangkap, ditahan, dituntut\ndan/atau dihadapkan didepan Pengadilan, wajib dianggap tidak\nbersalah sebelum\nadanya putusan Pengadilan yang menyatakan\nkesalahannya dan memperoleh kekuatan hukum yang tetap."
+   }
+  },
+  {
+   "id": "ID-H321-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB I."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 9.\n(1) Seorang yang ditangkap, ditahan, dituntut ataupun diadili\ntanpa alasan yang berdasarkan Undang-undang atau karena kekeliruan\nmengenai\norangnya atau hukum yang diterapkannya, berhak menuntut\nganti kerugian dan rehabilitasi.\n(2) Pejabat yang dengan sengaja melakukan perbuatan sebagaimana\ntersebut dalam ayat (1) dapat dipidana.\n(3) Cara-cara untuk menuntut ganti kerugian, rehabilitasi dan\npembebasan ganti kerugian diatur lebih anjut dengan\nUndang-undang.\nBAB II.\nBADAN-BADAN PERADILAN DAN AZAS-AZASNYA."
+   }
+  },
+  {
+   "id": "ID-H321-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB II."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 10.\n(1) Kekuasaan Kehakiman dilakukan oleh Pengadilan dalam\nlingkungan;\na. Peradilan Umum;\nb. Peradilan Agama;\nc. Peradilan Militer;\nd. Peradilan Tata Usaha Negara.\n(2) Mahkamah Agung adalah Pengadilan Negara Tertinggi.\n(3) Terhadap putusan-putusan yang diberikan tingkat terakhir\noleh Pengadilan-pengadilan lain dari pada Mahkamah Agung, kasasi\ndapat\ndiminta kepada Mahkamah Agung.\n(4) Mahkamah Agung melakukan pengawasan tertinggi atas perbuatan\nPengadilan yang lain, menurut ketentuan yang ditetapkan dengan\nUndang-undang."
+   }
+  },
+  {
+   "id": "ID-H321-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB II."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 11.\n(1) Badan-badan yang melakukan peradilan tersebut pasal 10 ayat\n(1) organisatoris, administratif dan finansil ada dibawah kekuasaan\nmasing-masing Departemen yang bersangkutan.\n(2) Mahkamah Agung mempunyai organisasi, administrasi dan\nkeuangan tersendiri."
+   }
+  },
+  {
+   "id": "ID-H321-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB II."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 12.\nSusunan, Kekuasaan serta Acara dari Badan-badan Peradilan\nseperti tersebut dalam pasal 10 ayat (1) diatur dalam Undang-undang\ntersendiri."
+   }
+  },
+  {
+   "id": "ID-H321-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB II."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 13.\nBadan-badan Peradilan khusus disamping Badan-badan Peradilan\nyang sudah ada, hanya dapat diadakan dengan Undang-undang."
+   }
+  },
+  {
+   "id": "ID-H321-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB II."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 14.\n(1) Pengadilan tidak boleh menolak untuk memeriksa dan mengadili\nsesuatu perkara yang diajukan dalih bahwa hukum tidak atau kurang\njelas, melainkan wajib untuk memeriksa dan mengadilinya.\n(2) Ketentuan dalam ayat (1) tidak menutup kemungkinan untuk\nusaha penyelesaian perkara perdata secara perdamaian."
+   }
+  },
+  {
+   "id": "ID-H321-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB II."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 15.\n(1) Semua Pengadilan memeriksa dan memutus dengan\nsekurang-kurangnya tiga orang Hakim, kecuali apabila Undang-undang\nmenentukan lain.\n(2) Diantara para Hakim tersebut dalam ayat (1) seorang\nbertindak sebagai Ketua, dan lainnya sebagai Hakim anggota\nsidang.\n(3) Sidang dibantu oleh seorang Panitera atau seorang yang\nditugaskan melakukan pekerjaan panitera.\n(4) Dalam perkara pidana wajib hadir pula seorang Penuntut Umum,\nkecuali apabila ditentukan lain dengan Undang-undang."
+   }
+  },
+  {
+   "id": "ID-H321-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB II."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 17.\n(1) Sidang pemeriksaan Pengadilan adalah terbuka untuk umum,\nkecuali apabila Undang-undang menentukan lain.\n(2) Tidak dipenuhinya ketentuan dalam ayat (1) mengakibatkan\nbatalnya putusan menurut hukum.\n(3) Rapat permusyawaratan Hakim, bersifat rahasia."
+   }
+  },
+  {
+   "id": "ID-H321-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB II."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\nSemua putusan Pengadilan hanya sah dan mempunyai kekuatan hukum\napabila diucapkan dalam sidang terbuka untuk umum."
+   }
+  },
+  {
+   "id": "ID-H321-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB II."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\nAtas semua putusan Pengadilan tingkat pertama, yang tidak\nmerupakan pembebasan dari tuduhan, dapat dimintakan banding oleh\npihak-pihak\nyang bersangkutan, kecuali apabila Undang-undang\nmenentukan lain."
+   }
+  },
+  {
+   "id": "ID-H321-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB II."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\nAtas putusan Pengadilan dalam tingkat banding dapat dimintakan\nkasasi kepada Mahkamah Agung oleh pihak-pihak yang berkepentingan\nyang\ndiatur dalam Undang-undang."
+   }
+  },
+  {
+   "id": "ID-H321-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB II."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\nApabila terdapat hal-hal atau keadaan-keadaan yang ditentukan\ndengan Undang-undang, terhadap putusan Pengadilan, yang telah\nmemperoleh\nkekuatan hukum yang tetap dapat dimintakan peninjauan\nkembali kepada Mahkamah Agung, dalam perkara perdata dan pidana\noleh pihak-pihak\nyang berkepentingan."
+   }
+  },
+  {
+   "id": "ID-H321-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB II."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\nTindak pidana yang dilakukan bersama-sama oleh mereka yang\ntermasuk lingkungan Peradilan Umum dan lingkungan Peradilan\nMiliter, diperiksa\ndan diadili oleh Pengadilan dalam lingkungan\nPeradilan Umum, kecuali jika menurut keputusan Menteri\nPertahanan/Keamanan dengan persetujuan\nMenteri Kehakiman perkara\nitu harus diperiksa dan diadili oleh Pengadilan dalam lingkungan\nPeradilan Militer."
+   }
+  },
+  {
+   "id": "ID-H321-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB II."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\n(1) Segala putusan Pengadilan selain harus memuat alasan-alasan\ndan dasar-dasar putusan itu, juga harus memuat pula pasal-pasal\ntertentu\ndari peraturan-peraturan yang bersangkutan atau sumber\nhukum tak tertulis yang dijadikan dasar untuk mengadili.\n(2) Tiap putusan Pengadilan ditanda-tangani oleh Ketua serta\nHakim-hakim yang memutus dan Panitera yang ikut serta\nbersidang.\n(3) Penetapan-penetapan, ikhtiar-ikhtiar rapat permusyawaratan\ndan berita-berita acara tentang pemeriksaan sidang ditanda-tangani\noleh Ketua dan Panitera."
+   }
+  },
+  {
+   "id": "ID-H321-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB II."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 24\nUntuk kepentingan peradilan semua Pengadilan wajib saling\nmemberi bantuan yang diminta.\nBAB III\nHUBUNGAN PENGADILAN DAN LEMBAGA NEGARA\nLAINNYA"
+   }
+  },
+  {
+   "id": "ID-H321-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\nSemua Pengadilan dapat memberi keterangan, pertimbangan dan\nnasehat-nasehat tentang soal-soal hukum kepada Lembaga Negara\nlainnya\napabila diminta."
+   }
+  },
+  {
+   "id": "ID-H321-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\n(1) Mahkamah Agung berwenang untuk menyatakan tidak sah semua\nperaturan-peraturan dari tingkat yang lebih rendah dari\nUndang-undang\natas alasan bertentangan dengan peraturan\nperundang-undangan yang lebih tinggi.\n(2) Putusan tentang pernyataan tidak sahnya peraturan\nperundang-undangan tersebut dapat diambil berhubung dengan\npemeriksaan dalam\ntingkat kasasi.\nPencabutan dari peraturan perundangan yang dinyatakan tidak sah\ntersebut, dilakukan oleh instansi yang bersangkutan.\nBAB IV\nHAKIM DAN KEWAJIBANNYA"
+   }
+  },
+  {
+   "id": "ID-H321-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\n(1) Hakim sebagai penegak hukum dan keadilan wajib menggali,\nmengikuti dan memahami nilai-nilai hukum yang hidup dalam\nmasyarakat.\n(2) Dalam mempertimbangkan berat ringannya pidana, Hakim wajib\nmemperhatikan pula sifat-sifat yang baik dan yang jahat dari\ntertuduh."
+   }
+  },
+  {
+   "id": "ID-H321-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\n(1) Pihak yang diadili mempunyai hak ingkar terhadap Hakim yang\nmengadili perkaranya.\nHak ingkar ialah hak seseorang yang diadili untuk mengajukan\nkeberatan-keberatan yang disertai dengan alasan-alasan terhadap\nseorang\nHakim yang akan mengadili perkaranya.\nPutusan mengenai hal tersebut dilakukan oleh Pengadilan.\n(2) Apabila seorang hakim masih terikat hubungan keluarga\nsedarah sampai sederajat ketiga atau semenda dengan Ketua, salah\nseorang\nHakim anggota, Jaksa, Penasehat Hukum atau Panitera dalam\nsuatu perkara tertentu, ia wajib mengundurkan diri dari pemeriksaan\nperkara\nitu.\n(3) Begitu pula apabila Ketua, Hakim anggota, Jaksa atau\nPanitera masih terikat dalam hubungan keluarga sedarah sampai\nderajat ketiga\natau semenda dengan yang diadili, ia wajib\nmengundurkan diri dari pemeriksaan perkara itu."
+   }
+  },
+  {
+   "id": "ID-H321-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\nSemua melakukan jabatannya, Hakim, Panitera Pengganti dan\nJurusita untuk masing-masing lingkungan peradilan harus bersumpah\natau berjanji\nmenurut agamanya, yang berbunyi sebagai berikut:\n\"Saya bersumpah/menerangkan dengan sungguh-sungguh bahwa saya,\nuntuk memperoleh jabatan saya ini, langsung atau tak langsung,\ndengan\nmenggunakan nama atau cara apapun juga, tiada memberikan\natau menjanjikan barang sesuatu kepada siapapun juga\".\n\"Saya bersumpah/berjanji bahwa saya, untuk melakukan atau tidak\nmelakukan sesuatu dalam jabatan ini, tiada sekali-kali akan\nmenerima\nlangsung atau tidak langsung dari siapapun juga sesuatu\njanji atau pemberian\".\n\"Saya bersumpah/berjanji bahwa saya akan setia kepada dan akan\nmempertahankan serta mengamalkan Pancasila sebagai Dasar dan\nIdeologi\nNegara, Undang-undang Dasar 1945, dan segala Undang-undang\nserta peraturan-peraturan lain yang berlaku bagi Negara Republik\nIndonesia\".\n\"Saya bersumpah/berjanji bahwa saya senantiasa akan menjalankan\njabatan saya ini dengan jujur, saksama dan dengan tidak\nmembeda-bedakan\norang dan akan berlaku dalam melaksanakan kewajiban\nsaya sebaik-baiknya dan seadil-adilnya seperti selayaknya bagi\nseorang Hakim/Panitera/Panitera\nPengganti/Jurusita yang berbudi\nbaik dan jujur dalam menegakkan hukum dan keadilan\".\nBAB V\nKEDUDUKAN PEJABAT PERADILAN\n(PENGADILAN)"
+   }
+  },
+  {
+   "id": "ID-H321-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\nSyarat-syarat untuk dapat diangkat dan diberhentikan sebagai\nHakim dan tata-cara pengangkatannya dan pemberhentiannya ditentukan\ndengan\nUndang-undang."
+   }
+  },
+  {
+   "id": "ID-H321-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\nHakim diangkat dan diberhentikan oleh Kepala Negara."
+   }
+  },
+  {
+   "id": "ID-H321-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 32\nHal-hal yang mengenai pangkat, gaji dan tunjangan Hakim diatur\ndengan peraturan tersendiri.\nBAB VI\nPELAKSANAAN PUTUSAN PENGADILAN"
+   }
+  },
+  {
+   "id": "ID-H321-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 33\n(1) Pelaksanaan putusan Pengadilan dalam perkara pidana\ndilakukan oleh Jaksa.\n(2) Pengawasan pelaksanaan putusan Pengadilan tersebut ayat (1)\noleh Ketua Pengadilan yang bersangkutan, diatur lebih lanjut dengan\nUndang-undang.\n(3) Pelaksanaan putusan Pengadilan dalam perkara perdata\ndilakukan oleh Panitera dan Jurusita dipimpin oleh Ketua\nPengadilan.\n(4) Dalam melaksanakan putusan Pengadilan diusahakan supaya\nperikemanusiaan dan perikeadilan tetap dipelihara."
+   }
+  },
+  {
+   "id": "ID-H321-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 34\nPelaksanaan putusan Pengadilan diatur lebih lanjut dengan\nperaturan perundang-undangan.\nBAB VII\nBANTUAN HUKUM"
+   }
+  },
+  {
+   "id": "ID-H321-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 35\nSetiap orang yang tersangkut perkara berhak memperoleh bantuan\nhukum."
+   }
+  },
+  {
+   "id": "ID-H321-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 36\nDalam perkara pidana seorang tersangka terutama sejak saat\ndilakukan penangkapan dan/atau penahanan berhak menghubungi dan\nmeminta\nbantuan Penasehat Hukum."
+   }
+  },
+  {
+   "id": "ID-H321-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 37\nDalam memberi bantuan hukum tersebut pada pasal 36 diatas,\nPenasehat Hukum membantu melancarkan penyelesaian perkara dengan\nmenjunjung\ntinggi Pancasila, hukum dan keadilan."
+   }
+  },
+  {
+   "id": "ID-H321-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 38\nKetentuan-ketentuan dalam pasal-pasal 35, 36 dan 37 tersebut\ndiatas diatur lebih lanjut dengan Undang-undang.\nBAB VIII\nPENUTUP\nPenghapusan Pengadilan Adat dan Swapraja dilakukan oleh\nPemerintah."
+   }
+  },
+  {
+   "id": "ID-H321-A40",
+   "no": 40,
+   "noLabel": {
+    "id": "Pasal 40"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 40\nSemua peraturan-peraturan yang mengatur ketentuan-ketentuan\npokok Kekuasaan Kehakiman yang bertentangan dengan Undang-undang\nini dinyatakan\ntidak berlaku."
+   }
+  },
+  {
+   "id": "ID-H321-A41",
+   "no": 41,
+   "noLabel": {
+    "id": "Pasal 41"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 41\nUndang-undang ini dinamakan UNDANG-UNDANG KEKUASAAN\nKEHAKIMAN."
+   }
+  },
+  {
+   "id": "ID-H321-A42",
+   "no": 42,
+   "noLabel": {
+    "id": "Pasal 42"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 42\nUndang-undang ini mulai berlaku pada hari diundangkan.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan\npengundangan Undang-undang ini dengan penempatannya dalam Lembaran\nNegara\nRepublik Indonesia.\nDisahkan di Jakarta\npada tanggal 17 Desember 1970.\nPresiden Republik Indonesia,\nSOEHARTO\nJenderal TNI\nDiundangkan di Jakarta\nPada tanggal 17 Desember 1970.\nSekretaris Negara Republik Indonesia,\nALAMSJAH\nMayor Jenderal TNI\nPENJELASAN\nATAS\nUNDANG-UNDANG NOMOR 14 TAHUN 1970\nTENTANG\nKETENTUAN-KETENTUAN POKOK KEKUASAAN\nKEHAKIMAN\nI. UMUM.\n1. Dengan Dekrit Presiden 5 Juli 1959 kita sudah kembali kepada\nUndang-UndangDasar, kepada jiwa proklamasi 17 Agustus 1945.\nTetapi kenyataannya selama ini jiwa dan ketentuan-ketentuan\nUndang-Undang Dasar 1945 itu belum dilaksanakan secara murni.\nSebagai contoh dapat diajukan, bahwa pasal 24 dan pasal 25\nUndang-Undang Dasar 1945 dalam Penjelasannya secara tegas telah\nmenyatakan,\nbahwa Kekuasaan Kehakiman ialah kekuasaan yang merdeka,\nartinya terlepas dari pengaruh kekuasaan Pemerintah, akan tetapi\nternyata\ndalam praktek dan pelaksanaannya telah menyimpang dari\nUndang-undang Dasar, antara lain pasal 19 dalam Undang-undang No.\n19 tahun\n1964, yang memberikan wewenang kepada Presiden untuk dalam\n\"beberapa hal dapat turun atau campur tangan dalam soal-soal\nPengadilan\"\n2. Dalam rangka pemurnian pelaksanaan Undang-undang Dasar 1945\nsesuai dengan ketentuan Ketetapan Majelis Permusyawaratan Rakyat\nSementara No. XIX/MPRS/1966 juncto No. XXXIX/MPRS/1968 maka\nPemerintah bersama-sama Dewan Perwakilan Rakyat Gotong-Royong telah\nmengadakan\npeninjauan Undang-undang No. 19 tahun 1964 dengan\nUndang-undang No. 6 tahun 1969 pasal 2 lampiran III nomor urut 3\nyang menghendaki\nadanya Undang-undang untuk menggantikannya.\n3. Dengan dicabutnya Undang-undang No. 19 tahun 1964 tersebut di\natas terjadilah suatu kekosongan, yang akan menghambat jalannya\nperadilan pada umumnya.\nOleh karena itu perlulah dengan segera dibentuk Undang-undang\ntentang Ketentuan-ketentuan Pokok Kekuasaan Kehakiman yang baru\nsebagai\npenggantinya.\nUndang-undang yang baru ini selain bertujuan untuk mengisi\nkekosongan tersebut di atas, harus pula menjaga pemurnian\npelaksanaan\nUndang-Undang Dasar 1945.\nUntuk itu perlulah dalam Undang-undang tentang Ketentuan-ketentuan\nPokok Kekuasaan Kehakiman yang baru ini, diusahakan tercantumnya\ndasar-dasar bagi penyelenggaraan peradilan dan ketentuan-ketentuan\npokok mengenai hubungan peradilan dan pencari keadilan, yang sejiwa\ndengan Undang-Undang Dasar 1945 supaya pelaksanaannya nanti dapat\nsesuai dengan Pancasila.\nPenyelenggaraan Kekuasaan Kehakiman diserahkan kepada Badan-badan\nPeradilan dengan ketentuan bahwa Undang-undang tentang\nKetentuan-ketentuan\nPokok Kekuasaan Kehakiman ini akan merupakan\ninduk dan kerangka umum yang meletakkan dasar serta asas-asas\nperadilan serta pedoman\nbagi lingkungan Peradilan Umum, Peradilan\nAgama, Peradilan Militer dan Peradilan Tata Usaha Negara yang\nmasing-masing diatur dalam\nUndang-undang tersendiri.\n4. Undang-Undang Dasar 1945 beserta Penjelasannya tidak memberikan\nketerangan mengenai arti Kekuasaan Kehakiman secara tuntas\n(\"uit-puttend\").\nNamun ketentuan-ketentuan dalam pasal 24 dan pasal\n25 Undang-Undang Dasar 1945 beserta Penjelasannya antara lain\nmencantumkan: \"Kekuasaan\nKehakiman dilakukan oleh sebuah Mahkamah\nAgung dan lain-lain Badan Kehakiman menurut Undang-undang\" dan\n\"Syarat-syarat untuk menjadi\ndan diberhentikan sebagai Hakim\nditetapkan dengan Undang-undang\".\nMaka yang dituju dengan \"Kekuasaan Kehakiman\" dalam pasal 24\nUndang-undang Dasar 1945 ialah kekuasaan Negara yang merdeka untuk\nmenyelenggarakan peradilan guna menegakkan hukum dan keadilan\nberdasarkan Pancasila demi terselenggaranya Negara Hukum Republik\nIndonesia.\nAdapun penyelenggaraannya diserahkan kepada Badan-badan Peradilan\ndan ditetapkan dengan Undang-undang, dengan tugas pokok untuk\nmenerima, memeriksa dan mengadili serta menyelesaikan setiap\nperkara yang diajukan kepadanya. Hal ini sesuai dengan yang\ntercantum\ndalam Penjelasan Undang-undang Dasar \"Negara Indonesia\nberdasar atas hukum, tidak berdasarkan kekuasaan belaka\".\n5. Dalam Undang-undang ini dicantumkan beberapa\nketentuan-ketentuan pokok, yang memberi perlindungan hak-hak asasi\nmanusia dalam\nbidang peradilan, sesuai dengan jiwa Undang-Undang\nDasar 1945.\nUntuk menjamin terlaksananya maksud tersebut sampai mendapat hasil\nyang diharapkan perlu adanya penegak hukum dan keadilan selaku\nbadan pelaksana, yang melakukan tugasnya seadil-adilnya dan tidak\nmemihak. Untuk menjaga, supaya keadilan dijalankan\nseobyektif-obyektifnya\ndimuat dalam Undang-undang ini antara lain\nbeberapa peraturan yang menentukan:\na. diwajibkannya supaya pemeriksaan dilakukan dalam sidang terbuka\nuntuk umum oleh sekurang-kurangnya tiga orang Hakim, kecuali\napabila Undang-undang menentukan lain;\nb. diwajibkannya kepada Hakim yang masih terikat dalam hubungan\nkekeluargaan tertentu dengan tertuduh, Ketua, Hakim Anggota\nlainnya,\nJaksa atau Panitera dalam suatu perkara tertentu untuk\nmengundurkan diri dari pemeriksaan perkara itu;\nc. pemberian bantuan hukum kepada tersangka terutama semenjak\nseseorang dikenakan penangkapan dan atau penahanan;\nd. diadakannya kemungkinan untuk mengganti kerugian serta\nrehabilitasi seseorang yang ditahan, dituntut ataupun diadili tanpa\nalasan\nyang berdasarkan Undang-undang atau karena kekeliruan\nmengenai orangnya atau hukum yang diterapkannya.\n6. Pada hakekatnya segala sesuatu yang berhubungan dengan\npelaksanaan tugas badan-badan penegak hukum dan keadilan tersebut\nbaik/buruknya\ntergantung dari pada manusia-manusia pelaksanaan, in\ncasu para Hakim, maka untuk itu perlulah dalam Undang-undang\ntentang Ketentuan-ketentuan\nPokok Kekuasaan Kehakiman ini\ndicantumkan syarat-syarat yang senantiasa harus dipenuhi oleh\nseorang Hakim yaitu jujur, merdeka, berani\nmengambil keputusan dan\nbebas dari pengaruh, baik dari dalam maupun dari luar.\nUntuk memperoleh Hakim seperti tersebut di atas perlu ada kerja\nsama serta konsultasi antara Mahkamah Agung dan Pemerintah\nkhususnya\ndalam bidang pengangkatan, pemberhentian, pemindahan,\nkenaikan pangkat ataupun tindakan/hukuman administratif, terhadap\nHakim-hakim\nPengadilan Umum, sebelum Pemerintah mengadakan\npengangkatan, pemberhentian dan lain-lainnya.\nDengan demikian, khususnya dalam soal-soal kepegawaian yang\nbersangkutan dengan Hakim yang dilakukan oleh Pemerintah, Mahkamah\nAgung\ntidak akan ditinggalkan, bahkan akan didengar dan\ndiikut-sertakan.\nKerja sama yang dapat berupa usul-usul,\npertimbangan-pertimbangan ataupun saran-saran yang dapat diberikan\noleh kedua badan tersebut\nsetidak-tidaknya dapat mengurangi\nkemungkinan timbulnya subyektivisme, apabila soal-soal yang\nberhubungan dengan kepegawaian Hakim\nditentukan dan dilakukan\nsecara eksklusip oleh satu badan dalam soal-soal pengangkatan,\npemberhentian dan lain-lain.\nJaminan tersebut di atas kurang sempurna apabila tidak disertai\ndengan adanya peraturan-peraturan yang menjamin kukuhnya kedudukan\npara Hakim, untuk mana Undang-undang ini mewajibkan kepada\nPemerintah untuk mengatur kedudukan, pangkat dan gaji para Hakim\ndengan\nperaturan yang tersendiri yang lebih menjamin bahwa Hakim\ntidak akan dipengaruhi baik materiil maupun karena jabatan.\nSedangkan sebagai\nsyarat bathiniyah kepada para Hakim dalam\nmenjalankan keadilan oleh Undang-undang ini diletakkan suatu\npertanggungan-jawab, yang\nlebih berat dan mendalam dengan\nmenginsyafkan kepadanya, bahwa karena sumpah jabatannya dia tidak\nhanya bertanggung-jawab kepada\nhukum, kepada diri sendiri dan\nkepada rakyat, tetapi juga bertanggung-jawab kepada Tuhan Yang Maha\nEsa, yang dalam Undang-undang\nini dirumuskan dengan ketentuan,\nbahwa peradilan dilakukan \"DEMI KEADILAN BERDASARKAN KETUHANAN YANG\nMAHA ESA\".\n7. Penegasan bahwa peradilan adalah Peradilan Negara, dimaksudkan\nuntuk menutup semua kemungkinan adanya atau akan diadakannya lagi\nPeradilan-peradilan Swapradja atau Peradilan Adat yang dilakukan\noleh bukan badan peradilan Negara. Ketentuan ini sekali-kali tidak\nbermaksud untuk mengingkari hukum tidak tertulis, melainkan hanya\nakan mengalihkan perkembangan dan penetrapan hukum itu kepada\nPeradilan-peradilan\nNegara.\nDengan ketentuan bahwa Hakim wajib menggali, mengikuti dan\nmemahami nilai-nilai hukum yang hidup dengan mengintegrasikan diri\ndalam\nmasyarakat, telah terjamin sepenuhnya bahwa perkembangan dari\npenetrapan hukum tidak tertulis itu akan berjalan secara wajar.\n8. Ketentuan bahwa \"PERADILAN DILAKUKAN DENGAN SEDERHANA, CEPAT\nDAN BIAYA RINGAN\" tetap harus dipegang teguh yang tercermin dalam\nUndang-undang tentang Hukum Acara Pidana dan Hukum Acara Perdata\nyang memuat peraturan-peraturan tentang pemeriksaan dan pembuktian\nyang jauh lebih sederhana.\n9. Peradilan dilaksanakan oleh Majelis yang terdiri dari\nsekurang-kurangnya tiga orang Hakim.\nMengingat bahwa Negara Republik Indonesia memiliki wilayah yang\nsangat luas dan sulitnya alat-alat pengangkutan maka bagi\ndaerah-daerah\nyang terpencil dimana terdapat kekurangan Hakim,\nperlu dibuka kemungkinan untuk melakukan penyimpangan dari\nketentuan tersebut di\natas.\n10. Agar pengadilan benar-benar menjalankan keadilan demi\nmemenuhi hasrat dari para pencari keadilan, maka di samping\nkemungkinan\nuntuk memohon pemeriksaan pada tingkat banding dan\nkasasi, dibuka pula kemungkinan untuk memohon peninjauan kembali\nterhadap putusan\npengadilan yang telah memperoleh kekuatan hukum\nyang tetap.\nPeninjauan kembali ini dilakukan apabila terdapat fakta-fakta atau\nkeadaan-keadaan yang pada waktu mengadili dahulu belum\ndiketahui.\nII. PASAL DEMI PASAL.\nPasal 1.\nKekuasaan Kehakiman yang merdeka ini mengandung pengertian di\ndalamnya Kekuasaan Kehakiman yang bebas dari campur tangan pihak\nkekuasaan\nNegara lainnya, dan kebebasan dari paksaan, direktiva\natau rekomendasi yang datang dari pihak extra judiciil, kecuali\ndalam hal-hal\nyang diijinkan oleh Undang-undang.\nKebebasan dalam melaksanakan wewenang judiciil tidaklah mutlak\nsifatnya, karena tugas dari pada Hakim adalah untuk menegakkan\nhukum\ndan keadilan berdasarkan Pancasila dengan jalan menafsirkan\nhukum dan mencari dasar-dasar serta azas-azas yang jadi\nlandasannya,\nmelalui perkara-perkara yang dihadapkan kepadanya,\nsehingga keputusannya mencerminkan perasaan keadilan Bangsa dan\nRakyat Indonesia.\nPasal 2.\n(1) Penyelesaian setiap perkara yang diajukan kepada Badan-badan\nPeradilan mengadung pengertian di dalamnya penyelesaian yang\nbersangkutan\ndengan jurisdiksi voluntair.\n(2) Cukup jelas.\nPasal 3.\n(1) Pasal ini mengandung arti, bahwa di samping peradilan\nNegara, tidak diperkenankan lagi adanya peradilan-peradilan yang\ndilakukan\noleh bukan badan peradilan Negara.\nPenyelesaian perkara di luar Pengadilan atas dasar perdamaian atau\nmelalui wasit (arbitrage) tetap diperbolehkan.\n(2) Cukup jelas.\nPasal 4.\n(1) \"DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA\" adalah\nsesuai dengan pasal 29 Undang-undang Dasar yang berbunyi:\n1. Negara berdasarkan atas ke-Tuhanan Yang Maha Esa;\n2. Negara menjamin kemerdekaan tiap-tiap penduduk untuk memeluk\nagama masing-masing dan untuk beribadat menurut agamanya dan\nkepercayaannya\nitu.\nRumusan ini berlaku untuk semua pengadilan dalam semua lingkungan\nperadilan.\n(2) Peradilan harus memenuhi harapan dari para pencari keadilan\nyang selalu menghendaki peradilan yang cepat, tepat, adil dan biaya\nringan. Tidak diperlukan pemeriksaan dan acara yang berbelit-belit\nyang dapat menyebabkan proses sampai bertahun-tahun, bahkan\nkadang-kadang\nharus dilanjutkan oleh para ahli-waris pencari\nkeadilan. Biaya ringan artinya biaya yang serendah mungkin sehingga\ndapat terpikul\noleh rakyat. Ini semua dengan tanpa mengorbankan\nketelitian untuk mencari kebenaran dan keadilan.\n(3) Di sini perlu ditegaskan, bahwa agar supaya Pengadilan dapat\nmenaikan tugasnya dengan sebaik-baiknya, yakni memberikan keputusan\nyang semata-mata berdasarkan kebenaran, keadilan dan kejujuran,\nmaka tidak dapat dibenarkan adanya tekanan-tekanan atau\npengaruh-pengaruh\ndari luar yang akan menyebabkan para Hakim tidak\nbebas lagi dalam mengambil keputusan yang seadil-adilnya.\nPasal 5 sampai dengan pasal 8.\nIni semua menjamin hak-hak asasi manusia yang mendapatkan\nperlindungan dalam Negara berdasarkan Pancasila.\nPasal 9.\nPengertian rehabilitasi dalam Undang-undang ini adalah pemulihan\nhak seseorang dalam kemampuan atau posisi semula yang diberikan\noleh\nPengadilan.\nPasal 10.\n(1) Undang-undang ini membedakan antara empat lingkungan\nperadilan yang masing-masing mempunyai lingkungan wewenang\nmengadili tertentu\ndan meliputi Badan-badan Peradilan tingkat\npertama dan tingkat banding.\nPeradilan Agama, Militer dan Tata Usaha Negara merupakan peradilan\nkhusus, karena mengadili perkara-perkara tertentu atau mengenai\ngolongan rakyat tertentu, sedangkan Peradilan Umum adalah peradilan\nbagi rakyat pada umumnya mengenai baik perkara perdata, maupun\nperkara pidana.\nPerbedaan dalam empat lingkungan peradilan ini, tidak menutup\nkemungkinan adanya pengkhususan (differensiasi/spesialisasi) dalam\nmasing-masing lingkungan, misalnya dalam Peradilan Umum dapat\ndiadakan pengkhususan berupa Pengadilan lalu lintas, Pengadilan\nAnak-anak,\nPengadilan Ekonomi, dan sebagainya dengan\nUndang-undang.\n(2) Cukup jelas.\n(3) Mahkamah Agung merupakan peradilan tingkat terakhir (kasasi)\nbagi semua lingkungan peradilan.\n(4) Pengawasan tertinggi terhadap pengadilan dalam semua\nlingkungan peradilan ditetapkan dalam Undang-undang tersendiri.\nRatio untuk menentukan ini, karena adanya aspek-aspek khusus dari\nmasing-masing lingkungan peradilan baik dalam bidang persoalan\nmaupun dalam bidang mengenai orang-orangnya baik dalam hukum\nmaterial maupun formil, yang diterapkannya. Kesemuanya itu perlu\nmendapatkan\nperhatian dari masing-masing Undang-undang yang\nberlaku.\nPasal 11.\n(1) Cukupjelas.\n(2) Hal demikian berarti bahwa organisasi, administrasi dan\nkeuangan tersebut terpisah dari administrasi dan keuangan\nDepartemental,\nwalaupun demikian penentuan organisasi, administrasi\ndan keuangan Sekretariat Mahkamah Agung itu dilakukan oleh\nPemerintah dengan\nbahan-bahan yang disampaikan oleh Mahkamah\nAgung.\nPasal 12 dan Pasal 13.\nCukup jelas.\nPasal 14.\n(1) Hakim sebagai organ pengadilan dianggap memahami hukum.\nPencari keadilan datang padanya untuk mohon keadilan. Andai kata ia\ntidak\nmenemukan hukum tertulis, ia wajib menggali hukum tidak\ntertulis untuk memutus berdasarkan hukum sebagai seorang yang\nbijaksana dan\nbertanggung-jawab penuh kepada Tuhan Yang Maha Esa,\ndiri sendiri, masyarakat, Bangsa dan Negara.\n(2) Cukup jelas.\nPasal 15.\n(1) Sudah cukup dijelaskan dalam penjelasan umum ad.9.\n(2) Cukup jelas.\n(3) Cukup jelas.\n(4) Cukup jelas.\nPasal 16 sampai dengan Pasal 20.\nCukup jelas.\nPasal 21.\nPasal ini mengatur tentang peninjauan kembali terhadap putusan\nPengadilan yang telah memperoleh kekuatan hukum yang tetap.\nPermohonan\npeninjauan kembali dalam perkara perdata diajukan oleh\npihak yang berkepentingan, termasuk di dalamnya juga para ahli\nwaris dari\npihak-pihak yang berperkara dan dalam perkara pidana\noleh terhukum atau ahli warisnya. Syarat-syarat peninjauan kembali\nakan ditetapkan\ndalam Hukum Acara.\nPasal 22.\nKewenangan Pengadilan Umum untuk mengadili perkara-perkara yang\ndilakukan oleh mereka yang termasuk anggota ABRI bersama-sama non\nABRI, pada hakekatnya merupakan suatu kekacauan ataupun\npenyimpangan dari ketentuan, bahwa seorang semestinya dihadapkan di\ndepan\nPengadilannya masing-masing.\nJustru karena hal ini merupakan suatu kekecualian, maka kewenangan\nPengadilan Umum ini terbatas pada bentuk-bentuk pensertaan dalam\nsuatu delik, seperti dimaksudkan oleh pasal-pasal 55, 56\nK.U.H.P.\nUndang-undang ini memberikan kewenangan kepada Menteri\nPertahanan/Keamanan dengan persetujuan Menteri Kehakiman untuk\nmenetapkan\nPengadilan Militer sebagai pengadilan yang berwenang\nmengadili perkara koneksitas tersebut.\nPensertaan pada suatu delik militer yang murni oleh seorang bukan\nmiliter dan perkara pensertaan, di mana unsur militer melebihi\nunsur sipil misalnya, dapat dijadikan landasan untuk menetapkan\nPengadilan lain dari pada Pengadilan Umum, ialah Pengadilan Militer\nuntuk mengadili perkara-perkara demikian. Jika dalam hal perkara\ndiadili oleh Pengadilan Militer, maka susunan Hakim adalah dari\nPengadilan Militer dan Pengadilan Umum.\nDalam hal ini kepentingan dari justiciabel tetap mendapat\nperhatian sepenuhnya, yaitu dalam susunan Hakim yang bersidang.\nDalam\nwaktu perang dimana berlaku hukum ekseptionil ataupun hukum\nluar biasa, meskipun tindak pidana itu dilakukan bersama-sama\ndengan\nseorang sipil orang-orang militer tidak ditarik dari\npengadilannya.\nPasal 23 dan Pasal 24.\nCukup jelas.\nPasal 25.\nDengan Lembaga Negara dimaksudkan semua Lembaga Kenegaraan baik\ndi Pusat maupun di Daerah.\nPasal 26.\nPasal ini mengatur tentang hak menguji dari Mahkamah Agung.\nMahkamah Agung berhak untuk menguji peraturan yang lebih rendah\ndari Undang-undang\nmengenai sah tidaknya suatu peraturan atau\nbertentangan tidaknya dengan ketentuan perundang-undangan yang\nlebih tinggi.\nApabila Mahkamah Agung menggunakan hak mengujinya berdasarkan\npasal ini, maka Mahkamah Agung mengambil putusan suatu peraturan\nperundang-undangan\ndari tingkatan yang lebih rendah dari\nUndang-undang bertentangan dengan peraturan perundang-undangan yang\nlebih tinggi, dan Mahkamah\nAgung secara tegas menyatakan bahwa\nperaturan tersebut adalah tidak sah dan tidak berlaku untuk umum;\noleh karena itu pencabutan\nperaturan ini segera harus dilakukan\noleh instansi yang bersangkutan. Dalam Negara Kesatuan Republik\nIndonesia hak menguji Undang-undang\ndan peraturan pelaksanaan\nUndang-undang terhadap Undang-undang Dasar sebagai fungsi pokok\ntidak terdapat pada Mahkamah Agung.\nOleh karena Undang-undang Dasar 1945 tidak mengaturnya, maka tidak\ndengan sendirinya hak menguji Undang-undang terhadap Undang-undang\nDasar oleh Mahkamah Agung dapat diletakkan dalam Undang-undang ini.\nHak menguji tersebut apabila hendak diberikan kepada Mahkamah\nAgung\nseharusnya merupakan ketentuan Konstitutionil.\nDemikian pula, MPR(S) hingga sekarang tidak menetapkan hak\nmenguji oleh Mahkamah Agung.\nTidak disebut hak menguji ini dalam Undang-undang Dasar 1945 dan\ndalam Ketetapan MPR(S) yang dapat mengaturnya sebagai suatu\nperwujudan\ndari hubungan hukum antara alat perlengkapan Negara yang\nada dalam Negara, berarti bahwa Undang-undang ini (Undang-undang\ntentang\nKetentuan-ketentuan Pokok Kekuasaan Kehakiman) tidak dapat\nmemberikan kepada Mahkamah Agung kewenangan hak menguji, apalagi\nsecara\nmateriil Undang-undang terhadap Undang-undang Dasar.\nHanya Undang-undang Dasar ataupun Ketetapan MPR(S) dapat\nmemberikan ketentuan.\nPasal 27.\n(1) Dalam masyarakat yang masih mengenal hukum tidak tertulis,\nserta berada dalam masa pergolakan dan peralihan, Hakim merupakan\nperumus\ndan penggali dari nilai-nilai hukum yang hidup di kalangan\nrakyat.\nUntuk itu ia harus terjun ke tengah-tengah masyarakat untuk\nmengenal, merasakan dan mampu menyelami perasaan hukum dan rasa\nkeadilan\nyang hidup dalam masyarakat.\nDengan demikian Hakim dapat memberikan putusan yang sesuai dengan\nhukum dan rasa keadilan masyarakat.\n(2) Sifat-sifat yang jahat maupun yang baik dari tertuduh wajib\ndiperhatikan Hakim dalam mempertimbangkan pidana yang akan\ndijatuhkan.\nKeadaan-keadaan pribadi seseorang perlu diperhitungkan untuk\nmemberi pidana yang setimpal dan seadil-adilnya. Keadaan pribadi\ntersebut\ndapat diperoleh dari keterangan orang-orang dari\nlingkungannya, rukun tetangganya, dokter ahli jiwa dan\nsebagainya.\nPasal 28.\nCukup jelas.\nPasal 29.\nPada waktu pengambilan sumpah/janji lazimnya dipakai kata-kata\ntertentu sesuai dengan agama masing-masing yaitu misalnya untuk\npenganut\nagama Islam didahului dengan kata \"Demi Allah\" dan untuk\nagama Kristen/Katholik diakhiri dengan kata-kata \"Semoga Tuhan\nmenolong\nsaya\".\nPasal 30.\nCukup jelas.\nPasal 31.\nDengan diangkatnya dan diberhentikannya para Hakim oleh Kepala\nNegara, maka dijaminlah kebebasan kedudukannya.\nPasal 32.\nAgar para Hakim pengadilan tersebut dapat melakukan tugasnya\ndengan bebas dan baik, maka kepada mereka diberikan jaminan hidup\nyang\nsesuai dengan kedudukan dan tanggung-jawabnya.\nPasal 33.\n(1) Cukup jelas.\n(2) Untuk mendapatkan jaminan bahwa putusan tersebut dilaksanakan\nsebagaimana mestinya, Ketua Pengadilan yang bersangkutan mengawasi\npelaksanaan putusan tersebut.\n(3) Cukup jelas.\n(4) Cukup jelas.\nPasal 34.\nCukup jelas.\nPasal 35.\nMerupakan suatu asas yang penting bahwa seorang yang terkena\nperkara mempunyai hak untuk memperoleh bantuan hukum. Hal ini\ndianggap\nperlu karena ia wajib diberi perlindungan sewajarnya.\nPerlu diingat juga ketentuan dalam pasal 8, di mana seorang\ntertuduh wajib dianggap tidak bersalah sampai adanya putusan\nPengadilan\nyang menyatakan kesalahannya dan telah memperoleh\nkekuatan hukum yang tepat.\nKarena pentingnya maka supaya diadakan Undang-undang tersendiri\ntentang bantuan hukum.\nPasal 36.\nSesuai dengan sila Perikemanusiaan maka seorang tertuduh harus\ndiperlakukan sesuai dengan martabatnya sebagai manusia dan selama\nbelum\nterbukti kesalahannya harus dianggap tidak bersalah.\nKarena itu ia harus dibolehkan untuk berhubungan dengan keluarga\natau penasehat hukumnya terutama sejak ia ditangkap/ditahan. Tetapi\nhubungan ini dengan sendirinya tidak boleh merugikan kepentingan\npemeriksaan yang dimulai dengan penyidikan.\nUntuk itu Penyidik dan penuntut umum dapat melakukan pengawasan\nterhadap hubungan tersebut sesuai dengan ketentuan-ketentuan data\nHukum Acara Pidana.\nPasal 37.\nCukup jelas.\nPasal 38.\nCukup jelas.\nPasal 39.\nBerdasarkan Undang-undang Nomor 1 Drt. tahun 1951 tentang\ntindakan sementara untuk menyelenggarakan kesatuan, susunan,\nkekuasaan dan\nacara pengadilan sipil pasal 1 ayat (2) oleh Menteri\nKehakiman secara berangsur-angsur telah dilakukan penghapusan\nPengadilan Adat/Swapraja,\ndi seluruh Bali, Propinsi Sulawesi,\nLombok, Sumbawa, Timor, Kalimantan, Jambi dan Maluku. Dengan\nPeraturan Presiden Nomor 6 tahun\n1966 tentang Penghapusan\nPengadilan Adat/Swapraja dan Pembentukan Pengadilan Negeri di Irian\nBarat dihapus pula Pengadilan Adat/Swapraja\ndi Irian Barat.\nPeraturan Presiden tersebut dengan Undang-undang No. 5 tahun 1969\ntelah ditetapkan menjadi Undang-undang.\nDalam pasal 1 dicantumkan, bahwa pelaksanaan penghapusannya\ndiserahkan kepada Keputusan Bersama Gubernur Kepala Daerah dan\nKetua\nPengadilan Tinggi Propinsi Irian Barat.\nSebagai pelaksanaan telah dikeluarkan Keputusan Bersama Gubernur\nKepala Daerah Propinsi Irian Barat dan Ketua Pengadilan Tinggi\nJayapura No. 11/GIP/ 1970 tentang Pelaksanaan Penghapusan\nPengadilan Adat/ No. 11/IV/ 1970 Swapraja di daerah tertentu di\nPropinsi\nIrian Barat.\nDalam pasal 1 ayat (1) untuk tahap pertama telah dihapus\nPengadilan Adat/Swapraja sebagai berikut:\nPengadilan Swapraja, Jayapura, Lembah Balim, Nabiro, Biak,\nManokwari, Sorong, Raja Ampat, Fak-Fak, Kaimana, Serui,\nBokondini.\nPengadilan Adat di Merauke, Tanah Merah, Mindiptana.\nPasal 40 sampai dengan Pasal 42.\nCukup jelas.\n--------------------------------\nCATATAN\nKutipan: LEMBARAN NEGARA DAN TAMBAHAN LEMBARAN NEGARA TAHUN 1970\nYANG TELAH DICETAK ULANG"
+   }
+  }
+ ]
+}

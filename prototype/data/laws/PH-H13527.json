@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13527",
+ "title": {
+  "zh": null,
+  "en": "An Act Making Applicable to the Manila Railroad Company of the Philippine Islands All Provisions of Existing Law Concerning the Manila Railroad Company.",
+  "orig": "An Act Making Applicable to the Manila Railroad Company of the Philippine Islands All Provisions of Existing Law Concerning the Manila Railroad Company."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1920-02-17",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2879",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 772,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1920/act_2879_1920.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02879_1920_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02879_1920_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13527-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Whenever, in any existing law, mention is made of the Manila Railroad Company, such mention\nshall be deemed to include and to apply to the Manila Railroad Company of the Philippine Islands whenever\nnecessary to confer upon the latter corporation any of the benefits, privileges and immunities conferred by\nsuch law upon The Manila Railroad Company, or to make applicable to said Manila Railroad Company of the\nPhilippine Islands measures adopted by the Philippine Legislature for the control or administration of The\nManila Railroad Company or for the granting of financial aid thereto."
+   }
+  },
+  {
+   "id": "PH-H13527-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall be retroactive to the date of the merger of The Manila Railroad Company of\nAlabama into the Manila Railroad Company of the Philippine Islands.\nApproved, February 17, 1920."
+   }
+  }
+ ]
+}

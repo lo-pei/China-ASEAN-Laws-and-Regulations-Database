@@ -1,0 +1,62 @@
+{
+ "id": "PH-H21577",
+ "title": {
+  "zh": null,
+  "en": "Implementing the Provisions of the New Constitution Increasing the Salaries of the Chief Justice and the Associate Justices of the Supreme Court.",
+  "orig": "Implementing the Provisions of the New Constitution Increasing the Salaries of the Chief Justice and the Associate Justices of the Supreme Court."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p159",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1973-01-17",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 103",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 544,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_00103_1973_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_00103_1973_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H21577-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "There is hereby appropriated out of any funds in the National Treasury not otherwise\nappropriated so much as may be necessary to implement Article X, Section 10 of the Constitution up to the\nend of the current fiscal year. Thereafter, the necessary appropriation therefor shall be included in the annual\nGeneral Appropriations Decree."
+   }
+  },
+  {
+   "id": "PH-H21577-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The payment of the salaries as provided in the Constitution and as funded herein shall retroact to\nDone in the City of Manila, this 18th day January, in the year of Our Lord, nineteen hundred and\nseventy-three."
+   }
+  }
+ ]
+}

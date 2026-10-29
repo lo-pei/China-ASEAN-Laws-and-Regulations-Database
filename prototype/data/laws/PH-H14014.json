@@ -1,0 +1,62 @@
+{
+ "id": "PH-H14014",
+ "title": {
+  "zh": null,
+  "en": "An Act Authorizing Municipalities or Municipal Districts to Impose License Taxes on or Let the Privilege of Gathering Edible Birds' Nests therein, and for Other",
+  "orig": "An Act Authorizing Municipalities or Municipal Districts to Impose License Taxes on or Let the Privilege of Gathering Edible Birds' Nests therein, and for Other"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1927-12-03",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3379",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 882,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1927/act_3379_1927.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03379_1927_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03379_1927_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14014-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Municipalities or municipal districts shall have authority, within their respective territorial\njurisdiction, to impose municipal license taxes on the privilege of collecting edible birds' nests at rates fixed\nby ordinance of the council, or to grant the exclusive privilege of gathering edible birds' nests in accordance\nwith the provisions of the general municipal law concerning the letting of fisheries and municipal public\nutilities: Provided, That this authority shall not be interpreted as empowering said municipalities to regulate\nthe establishment of a close season for the collection of edible birds' nests, or to prescribe rules and\nregulations for the preservation of the lives of such birds and the industry itself, which, by law, is vested in the\nSecretary of Agriculture and Natural Resources."
+   }
+  },
+  {
+   "id": "PH-H14014-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, December 3, 1927."
+   }
+  }
+ ]
+}

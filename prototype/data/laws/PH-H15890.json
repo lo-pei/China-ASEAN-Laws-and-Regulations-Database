@@ -1,0 +1,62 @@
+{
+ "id": "PH-H15890",
+ "title": {
+  "zh": null,
+  "en": "An Act to Appropriate Funds for Additional Equipment for the Bureau of Printing to Print Textbooks Prepared and Furnished By the Bureau of Education or Manuscripts Acquired By the Government.",
+  "orig": "An Act to Appropriate Funds for Additional Equipment for the Bureau of Printing to Print Textbooks Prepared and Furnished By the Bureau of Education or Manuscripts Acquired By the Government."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1936-11-12",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 173",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 840,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00173_1936_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00173_1936_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H15890-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "There is hereby appropriated from the funds of the Philippine Treasury not otherwise\nappropriated, the sum of five hundred and seventy thousand pesos or such part thereof as may, in the\ndiscretion of the President, be necessary for the purchase of additional equipment for the Bureau of Printing to\nprint such textbooks as may be prepared and furnished by the Bureau of Education or manuscripts written by\nprivate persons and aquired by purchase or otherwise by the Philippines Government, including the necessary\ntravelling expenses of the Director of Printing and personnel whom the President my designate, upon\nrecommendation of the Secretary of Finace, to purchase the equipment abroad and to study modern methods\nof printing therein as the President may direct."
+   }
+  },
+  {
+   "id": "PH-H15890-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, November 12, 1936."
+   }
+  }
+ ]
+}

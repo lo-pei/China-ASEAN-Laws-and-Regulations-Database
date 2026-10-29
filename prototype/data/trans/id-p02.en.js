@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: id-p02
-   法规 6 部 / 译文 380 条
+   法规 8 部 / 译文 446 条
    由 _work/_ingest-2026-10-26/migrate_id_trans.py 从 id-en 回执迁入，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -1152,6 +1152,408 @@
         },
         "noLabel": {
           "en": "Article 126"
+        }
+      }
+    ]
+  };
+
+  TR["ID-H040"] = {
+    "lawId": "ID-H040",
+    "sourceLang": "id",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "DeepSeek-V4.1-Flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-26",
+    "reviewed": "machine",
+    "glossaryVersion": "id-en-2026-10",
+    "completenessNote": "从印尼语回执逐条入库，共 41 条；条号与原文一一对应。",
+    "articles": [
+      {
+        "no": 2,
+        "text": {
+          "en": "(1) The following shall be tax subjects:\na. 1. individuals;\n2. undivided inheritances, as a single entity, replacing the party entitled thereto;\nb. entities; and\nc. permanent establishments.\n(1a) A permanent establishment shall be a tax subject whose tax treatment is the same as that of a corporate tax subject.\n(2) Tax subjects shall be distinguished into domestic tax subjects and foreign tax subjects.\n(3) Domestic tax subjects shall be:\na.  individuals residing in Indonesia, individuals present in Indonesia for more than 183 (one hundred and eighty-three) days within a period of 12 (twelve) months, or individuals who in a tax year are present in Indonesia and have the intention to reside in Indonesia;\nb.  entities established or domiciled in Indonesia, except certain units of government bodies that meet the criteria:\n1. their establishment is based on statutory provisions;\n2. their financing is sourced from the State Budget or the Regional Budget;\n3. their receipts  ...\n3. their receipts are included in the budget of the Central Government or the Regional Government; and\n4. their bookkeeping is audited by the state functional supervisory apparatus; and\nc.  undivided inheritances, as a single entity, replacing the party entitled thereto.\n(4) Foreign tax subjects shall be:\na. individuals not residing in Indonesia, individuals present in Indonesia for not more than 183 (one hundred and eighty-three) days within a period of 12 (twelve) months, and entities not established and not domiciled in Indonesia, which carry on business or conduct activities through a permanent establishment in Indonesia; and\nb. individuals not residing in Indonesia, individuals present in Indonesia for not more than 183 (one hundred and eighty-three) days within a period of 12 (twelve) months, and entities not established and not domiciled in Indonesia, which may receive or obtain income from Indonesia otherwise than by carrying on business or conducting activities through a permanent establishment in Indonesia.\n(5) A permanent establishment shall be a form of business used by individuals not residing in Indonesia, individuals present in Indonesia for not more than 183 (one hundred and eighty-three) days within a period of 12 (twelve) months, and entities not established and not domiciled in Indonesia to carry on business or conduct activities in Indonesia, which may take the form of:\na.  a place of management;\nb.  a branch;\nc.  a representative office;\nd.  an office building;\ne.  a factory;\nf.  a workshop;\ng. a warehouse;\nh. premises for promotion and sale;\ni. mining and extraction of natural resources;\nj. a working area for oil and gas mining;\nk. fisheries , ...\nk. fisheries, animal husbandry, agriculture, plantations, or forestry;\nl. construction, installation, or assembly projects;\nm. the provision of services in any form by employees or other persons, insofar as it is carried out for more than 60 (sixty) days within a period of 12 (twelve) months;\nn. a person or entity acting as an agent whose position is not independent;\no. an agent or employee of an insurance company not established and not domiciled in Indonesia that receives insurance premiums or bears risks in Indonesia; and\np. computers, electronic agents, or automated equipment owned, leased, or used by electronic transaction operators to carry on business activities via the internet.\n(6) The residence of an individual or the domicile of an entity shall be determined by the Director General of Taxes according to the actual circumstances.\n3.  The provisions of Article 3 are amended and 1 (one) paragraph is added, namely\nparagraph (2), so that Article 3 shall read as follows:"
+        },
+        "noLabel": {
+          "en": "Article 2"
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "(1) The following shall not be included as tax subjects as referred to in Article 2:\na. representative offices of foreign states;\nb. officials of diplomatic and consular missions or other officials of foreign states and persons assigned to them who work with and reside together with them, provided that they are not Indonesian nationals and do not in Indonesia receive or obtain income outside their office or employment and that the state concerned grants reciprocal treatment;\nc. international organisations, provided that:\n1. Indonesia is a member of the organisation; and\n2. does not ...\n2. it does not carry on business or other activities to obtain income from Indonesia other than providing loans to the government from funds originating from members' contributions;\nd. officials of representatives of international organisations as referred to in letter c, provided that they are not Indonesian nationals and do not carry on business, activities, or other work to obtain income from Indonesia.\n(2) International organisations that are not included as tax subjects as referred to in paragraph (1) letter c shall be determined by a Decision of the Minister of Finance.\n4.  The provisions of Article 4 paragraph (1) letters d, e, h, and l, and the Elucidation of letter k are amended and 3 (three) letters are added, namely letters q to s, paragraph (2) is amended, paragraph\n(3) letters a, d, f, i, and k are amended,\nletter j is deleted, and 3 (three) letters are added, namely letters l,\nm, and n, so that Article 4 shall read as follows:"
+        },
+        "noLabel": {
+          "en": "Article 3"
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "(1) The tax object shall be income, namely any additional economic capacity received or obtained by a Taxpayer, whether originating from Indonesia or from outside Indonesia, which may be used for consumption or to increase the wealth of the relevant Taxpayer, under any name and in any form, including:\na. reimbursement or remuneration in connection with work or services received or obtained, including salaries, wages, allowances, honoraria, commissions, bonuses, gratuities, pensions, or remuneration in other forms, unless otherwise provided in this Law;\nb. prizes from lotteries or from work or activities, and awards;\nc. business profits;\nd. gains from the sale or from the transfer of assets, including:\n1. gains from the transfer of assets to companies, partnerships, and other entities in exchange for shares or equity participation;\n2. gains ...\n2. gains from the transfer of assets to shareholders, partners, or members obtained by companies, partnerships, and other entities;\n3. gains from liquidation, merger, consolidation, expansion, spin-off, business takeover, or reorganisation under any name and in any form;\n4. gains from the transfer of assets in the form of grants, aid, or donations, except those given to blood relatives in a direct line of descent one degree and to religious bodies, educational bodies, social bodies including foundations, cooperatives, or individuals carrying on micro and small businesses, the provisions of which are further regulated by a Regulation of the Minister of Finance, insofar as there is no relationship with the business, work, ownership, or control between the parties concerned; and\n5. gains from the sale or transfer of part or all of mining rights, of signs of participation in financing, or of capital participation in a mining company;\ne. the refund of tax payments that have been charged as costs and the payment of additional tax refunds;\nf. interest, including premiums, discounts, and remuneration for guarantees of debt repayment;\ng. dividends, under any name and in any form, including dividends from insurance companies to policyholders, and the distribution of the remaining business results of cooperatives;\nh. royalties or remuneration for the use of rights;\ni. rent and other income in connection with the use of assets;\nj. the receipt or acquisition of periodic payments;\nk. gains from debt forgiveness, except up to a certain amount determined by a Government Regulation;\nl. gains from foreign exchange rate differences;\nm. the excess from the revaluation of assets;\nn. insurance premiums;\no. contributions …\no. contributions received or obtained by an association from its members consisting of Taxpayers carrying on business or independent work;\np. an increase in net wealth originating from income that has not been subject to tax;\nq. income from sharia-based business;\nr. interest compensation as referred to in the Law governing general provisions and tax procedures; and\ns. the surplus of Bank Indonesia.\n(2) The following income may be subject to final tax:\na. income in the form of interest on deposits and other savings, interest on bonds and state debt securities, and interest on savings paid by cooperatives to individual cooperative members;\nb. income in the form of lottery prizes;\nc. income from share and other securities transactions, derivative transactions traded on an exchange, and transactions for the sale of shares or the transfer of equity participation in partner companies received by venture capital companies;\nd. income from transactions involving the transfer of assets in the form of land and/or buildings, the construction services business, the real estate business, and the leasing of land and/or buildings; and\ne. certain other income, regulated by or on the basis of a Government Regulation.\n(3) The following shall be excluded from the tax object:\na. 1. aid or donations, including zakat received by amil zakat bodies or amil zakat institutions established or confirmed by the government and received by entitled zakat recipients, or religious donations of a mandatory nature for adherents of religions recognised in Indonesia, received by religious institutions established or confirmed by the government and received by entitled donation recipients, the provisions of which are regulated by or on the basis of a Government Regulation; and\n2. assets …\n2. donated assets received by blood relatives in a direct line of descent one degree, religious bodies, educational bodies, social bodies including foundations, cooperatives, or individuals carrying on micro and small businesses, the provisions of which are regulated by or on the basis of a Regulation of the Minister of Finance, insofar as there is no relationship with the business, work, ownership, or control between the parties concerned;\nb. inheritances;\nc. assets, including cash deposits, received by entities as referred to in Article 2 paragraph\n(1) letter b in exchange for shares or in exchange for equity participation;\nd. reimbursement or remuneration in connection with work or services received or obtained in the form of goods and/or benefits from the Taxpayer or the Government, except those given by non-Taxpayers, Taxpayers subject to final tax, or Taxpayers using a special computation norm (deemed profit) as referred to in Article 15;\ne. payments from insurance companies to individuals in connection with health insurance, accident insurance, life insurance, endowment insurance, and student fee insurance;\nf. dividends or profit shares received or obtained by limited liability companies as domestic Taxpayers, cooperatives, state-owned enterprises, or regionally-owned enterprises, from equity participation in business entities established and domiciled in Indonesia, provided that:\n1. the dividends originate from retained earnings reserves; and\n2. for limited liability companies, state-owned enterprises, and regionally-owned enterprises receiving dividends, the shareholding in the entity distributing the dividends is at least 25% (twenty-five per cent) of the total paid-up capital;\ng. contributions …\ng. contributions received or obtained by pension funds whose establishment has been confirmed by the Minister of Finance, whether paid by employers or by employees;\nh. income from capital invested by pension funds as referred to in letter g, in certain fields determined by a Decision of the Minister of Finance;\ni. profit shares received or obtained by members from limited partnerships whose capital is not divided into shares, from partnerships, associations, firms, and kongsis, including holders of collective investment contract units;\nj. deleted;\nk. income received or obtained by a venture capital company in the form of a profit share from a partner business entity established and carrying on business or activities in Indonesia, provided that the partner business entity:\n1. is a micro, small, or medium enterprise, or carries on activities in business sectors regulated by or on the basis of a Regulation of the Minister of Finance; and\n2. its shares are not traded on a stock exchange in Indonesia;\nl. scholarships that meet certain requirements, the provisions of which are further regulated by or on the basis of a Regulation of the Minister of Finance;\nm. surplus received or obtained by non-profit bodies or institutions engaged in the field of education and/or the field of research and development, which have been registered with the agency competent in their field, which is reinvested in the form of facilities and infrastructure for education and/or research and development activities, within a period of at most 4 (four) years from the acquisition of such surplus, the provisions of which are further regulated by or on the basis of a Regulation of the Minister of Finance; and\nn. aid …\nn. aid or compensation paid by the Social Security Implementing Body to certain Taxpayers, the provisions of which are further regulated by or on the basis of a Regulation of the Minister of Finance.\n5.  The provisions of Article 6 paragraph (1) letters a, e, g, and\nletter h are amended and 5 (five) letters are added, namely letters i to m, and paragraph (2) is amended, so that Article 6 shall read as follows:"
+        },
+        "noLabel": {
+          "en": "Article 4"
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "(1) The amount of Taxable Income for domestic Taxpayers and permanent establishments shall be determined on the basis of gross income less the costs of obtaining, collecting, and maintaining income, including:\na. costs directly or indirectly related to business activities, among others:\n1. the cost of purchasing materials;\n2. costs relating to work or services including wages, salaries, honoraria, bonuses, gratuities, and allowances given in monetary form;\n3. interest, rent, and royalties;\n4. travel costs;\n5. waste treatment costs;\n6. insurance premiums;\n7. promotion and sales costs regulated by or on the basis of a Regulation of the Minister of Finance;\n8. administrative costs; and\n9. taxes other than Income Tax;\nb. depreciation of expenditure to acquire tangible assets and amortisation of expenditure to acquire rights and of other costs having a useful life of more than 1 (one) year as referred to in Article 11 and Article 11A;\nc. contributions to pension funds whose establishment has been confirmed by the Minister of Finance;\nd. losses  …\nd. losses from the sale or transfer of assets owned and used in the company or owned to obtain, collect, and maintain income;\ne. losses from foreign exchange rate differences;\nf. the costs of company research and development carried out in Indonesia;\ng. scholarship, apprenticeship, and training costs;\nh. receivables that are genuinely uncollectible, provided that:\n1. they have been charged as costs in the commercial profit and loss statement;\n2. the Taxpayer must submit a list of uncollectible receivables to the Directorate General of Taxes; and\n3. the collection case has been submitted to the District Court or to the government agency handling state receivables; or there is a written agreement on the write-off of receivables or the forgiveness of debt between the creditor and the relevant debtor; or it has been published in a general or special publication; or there is an acknowledgement from the debtor that the debt has been written off for a certain amount of debt;\n4. the condition referred to in number 3 shall not apply to the write-off of bad debts of small debtors as referred to in Article 4 paragraph (1) letter k, the implementation of which is further regulated by or on the basis of a Regulation of the Minister of Finance;\ni. donations for the purpose of overcoming a national disaster, the provisions of which are regulated by a Government Regulation;\nj. donations for the purpose of research and development carried out in Indonesia, the provisions of which are regulated by a Government Regulation;\nk. the costs of building social infrastructure, the provisions of which are regulated by a Government Regulation;\nl. donations of educational facilities, the provisions of which are regulated by a Government Regulation; and\nm. donations  …\nm. donations for the purpose of fostering sports, the provisions of which are regulated by a Government Regulation.\n(2) If after the deductions referred to in paragraph (1) a loss is obtained from gross income, such loss shall be compensated against income starting from the following tax year consecutively for up to 5 (five) years.\n(3) Individuals as domestic Taxpayers shall be granted a deduction in the form of Non-Taxable Income as referred to in Article 7.\n6.  The provisions of Article 7 are amended, so that Article 7 shall read as follows:"
+        },
+        "noLabel": {
+          "en": "Article 6"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "(1) Non-Taxable Income per year shall be granted in the amount of at least:\na.  Rp15,840,000.00 (fifteen million eight hundred and forty thousand  rupiah) for the individual Taxpayer himself;\nb.  Rp1,320,000.00 (one million three hundred and twenty thousand rupiah) additional for a married Taxpayer;\nc.  Rp15,840,000.00 (fifteen million eight hundred and forty thousand rupiah) additional for a wife whose income is combined with her husband's income as referred to in"
+        },
+        "noLabel": {
+          "en": "Article 7"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "d. Rp1,320,000.00 (one million three hundred and twenty thousand rupiah) additional for each member of the blood family and the family by marriage in a direct line of descent as well as adopted children, who are fully dependent, at most 3 (three) persons for each family.\n(2) The application of the provisions as referred to in paragraph\n(1) shall be determined by the circumstances at the beginning of the tax year or at the beginning of the part of the tax year.\n(3) The adjustment of the amount of Non-Taxable Income as referred to in paragraph (1) shall be determined by a Regulation of the Minister of Finance after consultation with the House of Representatives.\n7. The provisions  …\n7.  The provisions of Article 8 paragraphs (2) to (4) and the Elucidation of paragraph (1) are amended, so that Article 8 shall read as follows:"
+        },
+        "noLabel": {
+          "en": "Article 8"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "(1) All income or losses of a woman who is married at the beginning of the tax year or at the beginning of\nthe part of the tax year, as well as her losses originating from previous years that have not been compensated as referred to in Article 6\nparagraph (2) shall be deemed to be the income or losses of her husband, except where such income is solely received or obtained from 1 (one) employer from which tax has been withheld under the provisions of Article 21 and such work has no connection with the business or independent work of the husband or of other family members.\n(2) The income of husband and wife shall be taxed separately if:\na. the husband and wife have separated pursuant to a court decision;\nb. it is desired in writing by the husband and wife on the basis of an agreement on the separation of assets and income; or\nc. it is desired by the wife who chooses to exercise her own tax rights and obligations.\n(3) The net income of husband and wife as referred to in paragraph (2) letters b and c shall be taxed on the basis of the combined net income of the husband and wife, and the amount of tax to be paid by each of the husband and wife shall be computed in accordance with the proportion of their net income.\n(4) The income of minor children shall be combined with the income of their parents.\n8.  The provisions of Article 9 paragraph (1) letters c, e, and g as well as the Elucidation of letter f are amended, so that Article 9 shall read as follows:"
+        },
+        "noLabel": {
+          "en": "Article 8"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": ".."
+        },
+        "noLabel": {
+          "en": "Article 9"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "(1) In determining the amount of Taxable Income for domestic Taxpayers and permanent establishments, the following shall not be deductible:\na. the distribution of profits under any name and in any form such as dividends, including dividends paid by insurance companies to policyholders, and the distribution of the remaining business results of cooperatives;\nb. costs charged or incurred for the personal benefit of shareholders, partners, or members;\nc. the formation or accumulation of reserve funds, except:\n1. reserves for uncollectible receivables for banking businesses and other business entities extending credit, lease with option rights, consumer finance companies, and factoring companies;\n2. reserves for the insurance business including social assistance reserves formed by the Social Security Implementing Body;\n3. guarantee reserves for the Deposit Insurance Agency;\n4. reserves for reclamation costs for the mining business;\n5. reserves for replanting costs for the forestry business; and\n6. reserves for the closure and maintenance costs of industrial waste disposal sites for the industrial waste treatment business, the provisions and conditions of which are regulated by or on the basis of a Regulation of the Minister of Finance;\nd. premiums for health insurance, accident insurance, life insurance, endowment insurance, and student fee insurance paid by individual Taxpayers, except where paid by the employer and such premiums are computed as income of the relevant Taxpayer;\ne. reimbursement  ...\ne. reimbursement or remuneration in connection with work or services provided in the form of goods and benefits, except the provision of food and beverages for all employees as well as reimbursement or remuneration in the form of goods and benefits in certain areas and relating to the performance of work regulated by or on the basis of a Regulation of the Minister of Finance;\nf. amounts exceeding fairness paid to shareholders or to parties having a special relationship as remuneration in connection with work performed;\ng. assets donated, aid or donations, and inheritances as referred to in Article 4\nparagraph (3) letters a and b, except donations as referred to in Article 6 paragraph (1)\nletters i to m as well as zakat received by amil zakat bodies or amil zakat institutions established or confirmed by the government or religious donations of a mandatory nature for adherents of religions recognised in Indonesia, received by religious institutions established or confirmed by the government, the provisions of which are regulated by or on the basis of a Government Regulation;\nh. Income Tax;\ni. costs charged or incurred for the personal benefit of the Taxpayer or of persons dependent on him;\nj. salaries paid to members of partnerships, firms, or limited partnerships whose capital is not divided into shares;\nk. administrative sanctions in the form of interest, fines, and increases as well as criminal sanctions in the form of fines relating to the implementation of legislation in the field of taxation.\n(2) Expenditure to obtain, collect, and maintain income having a useful life of more than 1 (one) year shall not be charged in full at once, but shall be charged through depreciation or amortisation as referred to in Article 11 or Article 11A.\n9. The provisions  ...\n9.  The provisions of Article 11 paragraph (7) and paragraph (11) as well as the Elucidation of\nparagraphs (1) to (4) are amended, so that Article 11 shall read as follows:"
+        },
+        "noLabel": {
+          "en": "Article 9"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "(1) Depreciation of expenditure for the purchase, construction, addition, improvement, or alteration of tangible assets, except land having the status of rights of ownership, rights to build, rights to cultivate, and rights to use, owned and used to obtain, collect, and maintain income having a useful life of more than 1 (one) year, shall be carried out in equal parts over the useful life determined for such assets.\n(2) Depreciation of expenditure on tangible assets as referred to in paragraph (1) other than buildings may also be carried out in declining parts over the useful life, computed by applying the depreciation rate to the book residual value, and at the end of the useful life the book residual value shall be depreciated in full at once, provided that it is carried out consistently.\n(3) Depreciation shall begin in the month in which the expenditure is made, except for assets still in the process of construction, for which depreciation shall begin in the month in which the construction of such assets is completed.\n(4) With the approval of the Director General of Taxes, the Taxpayer shall be permitted to commence depreciation from the month in which such assets are used to obtain, collect, and maintain income or in the month in which the relevant assets begin to produce income.\n(5) If the Taxpayer carries out a revaluation of assets on the basis of the provisions as referred to in"
+        },
+        "noLabel": {
+          "en": "Article 11"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "the value after such revaluation of assets is carried out.\n(6) To compute depreciation, the useful life and the depreciation rate of tangible assets shall be determined as follows:\nClass ...\nDepreciation Rate as referred to in  Class of Tangible Assets  Useful Life  Paragraph (1)  Paragraph (2)\nI. Non-building  Class 1  4 years  25%  50%  Class 2  8 years  12.5%  25%  Class 3  16 years  6.25%  12.5%  Class 4  20 years  5%  10%  II. Building  Permanent  20 years  5%  Non-permanent  10 years  10%\n(7) Further provisions on depreciation of tangible assets owned and used in certain business fields shall be regulated by a Regulation of the Minister of Finance.\n(8) In the event of a transfer or withdrawal of assets as referred to in Article 4 paragraph (1) letter d or a withdrawal of assets for any other reason, the amount of the book residual value of such assets shall be charged as a loss and the amount of the selling price or insurance indemnity received or obtained shall be recorded as income in the year in which the withdrawal of such assets occurs.\n(9) If the amount of the insurance indemnity to be received can only be known with certainty at a later time, then with the approval of the Director General of Taxes the amount of the loss as referred to in paragraph (8) shall be recorded as an expense of that later time.\n(10) In the event of a transfer of assets meeting the conditions as referred to in Article 4 paragraph (3) letters a and b, in the form of tangible assets, the amount of the book residual value of such assets shall not be charged as a loss for the transferor.\n(11) Further provisions on the classes of tangible assets according to useful life as referred to in paragraph (6) shall be regulated by a Regulation of the Minister of Finance.\n10. The provisions  ...\n10.  The provisions of Article 11A paragraph (1) and the Elucidation of paragraph (5) are amended and 1 (one) paragraph is inserted between paragraph (1) and paragraph (2), namely paragraph (1a), so that Article 11A shall read as follows:"
+        },
+        "noLabel": {
+          "en": "Article 19"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "A\n(1) Amortisation of expenditure to acquire intangible assets and other expenditure including the costs of extending rights to build, rights to cultivate, rights to use, and goodwill having a useful life of more than 1 (one) year used to obtain, collect, and maintain income shall be carried out in equal\nparts or in declining parts over the useful life, computed by applying the amortisation rate to such expenditure or to the book residual value, and at the end of the useful life it shall be amortised in full at once, provided that it is carried out consistently.\n(1a) Amortisation shall begin in the month in which the expenditure is made, except for certain business fields further regulated by a Regulation of the Minister of Finance.\n(2)  To compute amortisation, the useful life and the amortisation rate shall be determined as follows:\nAmortisation Rate based on method  Class of Intangible Assets  Useful Life  Straight Line  Declining Balance  Class 1  4 years  25%  50%  Class 2  8 years  12.5%  25%  Class 3  16 years  6.25%  12.5%  Class 4  20 years  5%  10%\n(3) Expenditure for the costs of establishment and the costs of capital expansion of a company shall be charged in the year in which the expenditure occurs or amortised in accordance with the provisions as referred to in paragraph\n(2).\n(4) Amortisation of expenditure to acquire rights and other expenditure having a useful life of more than 1 (one) year in the field of oil and gas mining shall be carried out using the unit-of-production method.\n(5) Amortisation  …\n(5) Amortisation of expenditure to acquire mining rights other than those referred to in paragraph (4), forest exploitation rights, and rights to exploit natural resources and other natural products having a useful life of more than 1 (one) year shall be carried out using the unit-of-production method at a maximum of 20% (twenty per cent) per year.\n(6) Expenditure incurred before commercial operations having a useful life of more than 1 (one) year shall be capitalised and then amortised in accordance with the provisions as referred to in paragraph\n(2).\n(7) In the event of a transfer of intangible assets or rights as referred to in paragraph (1), paragraph\n(4), and paragraph (5), the book residual value of such assets or rights shall be charged as a loss and the amount received as compensation shall constitute income in the year in which such transfer occurs.\n(8) In the event of a transfer of assets meeting the conditions as referred to in Article 4 paragraph (3) letters a and b, in the form of intangible assets, the amount of the book residual value of such assets shall not be charged as a loss for the transferor.\n11.  The provisions of Article 14 paragraphs (2), (3), (5), and (7) as well as the Elucidation of paragraph (4) are amended, so that Article 14 shall read as follows:"
+        },
+        "noLabel": {
+          "en": "Article 11"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "(1) The Norm for Computing Net Income for determining net income shall be drawn up and continuously refined and issued by the Director General of Taxes.\n(2) Individual Taxpayers carrying on business activities or independent work whose gross turnover in 1 (one) year is less than Rp4,800,000,000.00 (four billion eight hundred million rupiah) may compute their net income using the Norm for Computing Net Income as referred to in paragraph (1), provided that they notify the Director General of Taxes within the first 3 (three) months of the relevant tax year.\n(3) Taxpayers  ...\n(3) Taxpayers as referred to in paragraph (2) who compute their net income using the Norm for Computing Net Income shall keep records as referred to in the Law governing general provisions and tax procedures.\n(4) Taxpayers as referred to in paragraph (2) who do not notify the Director General of Taxes of their intention to compute net income using the Norm for Computing Net Income shall be deemed to have chosen to keep books.\n(5) Taxpayers required to keep books or records, including Taxpayers as referred to in paragraph (3) and paragraph (4), who turn out not to keep, or not to fully keep, records or books or do not produce the records or supporting evidence, shall have their net income computed on the basis of the Norm for Computing Net Income and their gross turnover computed by another method regulated by or on the basis of a Regulation of the Minister of Finance.\n(6) Deleted.\n(7) The amount of gross turnover as referred to in paragraph (2) may be amended by a Regulation of the Minister of Finance.\n12.  The provisions of Article 16 paragraphs (1) to (3) and the Elucidation of paragraph (4) are amended, so that Article 16 shall read as follows:"
+        },
+        "noLabel": {
+          "en": "Article 14"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "(1) The Taxable Income as the basis for applying the rate for domestic Taxpayers in a tax year shall be computed by deducting from the income as referred to in Article 4\nparagraph (1) the deductions as referred to in Article 6 paragraphs (1) and (2), Article 7 paragraph (1), and Article 9 paragraph (1) letters c, d, e, and\nletter g.\n(2) Taxable Income  ...\n(2) The Taxable Income of individual and corporate Taxpayers as referred to in Article 14 shall be computed using the computation norm as referred to in Article 14 and for individual Taxpayers shall be reduced by the Non-Taxable Income as referred to in Article 7 paragraph (1).\n(3) The Taxable Income of foreign Taxpayers carrying on business or conducting activities through a permanent establishment in Indonesia in a tax year shall be computed by deducting from the income as referred to in Article 5 paragraph (1), having regard to the provisions in Article 4 paragraph (1), the deductions as referred to in Article 5 paragraphs (2) and\n(3), Article 6 paragraphs (1) and (2), and Article 9 paragraph (1)\nletters c, d, e, and g.\n(4) The Taxable Income of domestic individual Taxpayers owing tax in a part of a tax year as referred to in Article 2A\nparagraph (6) shall be computed on the basis of the net income received or obtained in the part of the tax year annualised.\n13.  The provisions of Article 17 paragraphs (1) to (3) and the Elucidation of paragraphs (5) to (7) are amended and 4 (four) paragraphs are inserted between paragraph (2) and paragraph (3), namely\nparagraphs (2a) to (2d), so that Article 17 shall read as follows:"
+        },
+        "noLabel": {
+          "en": "Article 16"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "(1) The tax rate applied to the Taxable Income of:\na. domestic individual Taxpayers shall be as follows:\nLayer of Taxable Income  Tax Rate  up to Rp50,000,000.00 (fifty million rupiah)  5% (five per cent)  above Rp50,000,000.00 (fifty million rupiah) up to Rp250,000,000.00 (two hundred and fifty million rupiah)  15% (fifteen per cent)  above ...\nLayer of Taxable Income  Tax Rate  above Rp250,000,000.00 (two hundred and fifty million rupiah) up to Rp500,000,000.00 (five hundred million rupiah)  25% (twenty-five per cent)  above Rp500,000,000.00 (five hundred million rupiah)  30% (thirty per cent)\nb. domestic corporate Taxpayers and permanent establishments shall be 28% (twenty-eight per cent).\n(2) The highest rate as referred to in paragraph (1)\nletter a may be reduced to at least 25% (twenty-five per cent), as regulated by a Government Regulation.\n(2a) The rate as referred to in paragraph (1) letter b shall become 25% (twenty-five per cent), effective from the 2010 tax year.\n(2b) Domestic corporate Taxpayers in the form of public companies at least 40% (forty per cent) of whose total paid-up shares are traded on a stock exchange in Indonesia and which meet certain other requirements may obtain a rate 5% (five per cent) lower than the rate as referred to in\nparagraph (1) letter b and paragraph (2a), as regulated by or on the basis of a Government Regulation.\n(2c) The rate imposed on income in the form of dividends distributed to domestic individual Taxpayers shall be at most 10% (ten per cent) and shall be final.\n(2d) Further provisions on the amount of the rate as referred to in paragraph (2c) shall be regulated by a Government Regulation.\n(3) The amount of the layers of Taxable Income as referred to in paragraph (1) letter a may be amended by a Decision of the Minister of Finance.\n(4) For the purpose of applying the tax rate as referred to in paragraph (1), the amount of Taxable Income shall be rounded down to the nearest full thousand rupiah.\n(5) The amount  …\n(5) The amount of tax owed by domestic individual Taxpayers owing tax in a part of a tax year as referred to in Article 16\nparagraph (4) shall be computed as the number of days in such part of the tax year divided by 360 (three hundred and sixty) multiplied by the tax owed for 1 (one) tax year.\n(6) For the purpose of computing the tax as referred to in paragraph (5), each full month shall be counted as 30 (thirty) days.\n(7) A Government Regulation may determine a separate tax rate on income as referred to in Article 4 paragraph (2), insofar as it does not exceed the highest tax rate referred to in paragraph (1).\n14.  The provisions of Article 18 paragraphs (2), (3), and (4), and the Elucidation of\nparagraph (1) are amended and 4 (four) paragraphs are inserted between paragraph (3a) and paragraph (4), namely paragraphs (3b) to\nparagraph (3e), so that Article 18 shall read as follows:"
+        },
+        "noLabel": {
+          "en": "Article 17"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "(1) The Minister of Finance shall have the authority to issue decisions on the amount of the ratio between debt and capital of a company for the purpose of computing tax under this Law.\n(2) The Minister of Finance shall have the authority to determine the time at which dividends are obtained by a domestic Taxpayer from equity participation in a business entity abroad other than a business entity that sells its shares on a stock exchange, subject to the following provisions:\na. the equity participation of such domestic Taxpayer is at least 50% (fifty per cent) of the paid-up shares; or\nb. jointly with other domestic Taxpayers it holds equity participation of at least 50% (fifty per cent) of the paid-up shares.\n(3) The Director  …\n(3) The Director General of Taxes shall have the authority to redetermine the amount of income and deductions and to determine debt as capital for computing the amount of Taxable Income for Taxpayers having a special relationship with other Taxpayers in accordance with the fairness and business custom not influenced by the special relationship, using the comparable price method between independent parties, the resale price method, the cost-plus method, or other methods.\n(3a) The Director General of Taxes shall have the authority to enter into agreements with Taxpayers and to cooperate with the tax authorities of other states to determine transaction prices between parties having a special relationship as referred to in paragraph (4), which shall apply for a certain period, and to supervise their implementation and to conduct renegotiation after such period ends.\n(3b) A Taxpayer that purchases shares or company assets through another party or through an entity formed for that purpose (special purpose company) may be determined to be the party actually making such purchase, insofar as the relevant Taxpayer has a special relationship with such other party or entity and there is an unfairness in the price determination.\n(3c) The sale or transfer of shares of an intermediary company (conduit company or special purpose company) established or domiciled in a state providing tax protection (tax haven country) which has a special relationship with an entity established or domiciled in Indonesia or with a permanent establishment in Indonesia may be determined to be the sale or transfer of shares of the entity established or domiciled in Indonesia or of the permanent establishment in Indonesia.\n(3d) The amount  … (3d)  The amount of income obtained by a domestic individual Taxpayer from an employer having a special relationship with another company not established and not domiciled in Indonesia may be redetermined, in the event that the employer transfers all or part of the income of such domestic individual Taxpayer into the form of costs or other expenditure paid to the company not established and not domiciled in Indonesia.\n(3e) The implementation of the provisions as referred to in\nparagraphs (3b), (3c), and (3d) shall be further regulated by or on the basis of a Regulation of the Minister of Finance.\n(4) A special relationship as referred to in paragraph\n(3) to paragraph (3d), Article 9 paragraph (1) letter f, and Article 10 paragraph (1) shall be deemed to exist if:\na. a Taxpayer has direct or indirect equity participation of at least 25% (twenty-five per cent) in another Taxpayer; the relationship between a Taxpayer and equity participation of at least 25% (twenty-five per cent) in two or more Taxpayers; or the relationship between two or more of the latter Taxpayers;\nb. a Taxpayer controls another Taxpayer or two or more Taxpayers are under the same control, whether directly or indirectly; or\nc. there is a family relationship, whether by blood or by marriage, in a direct line of descent and/or one degree collateral.\n(5) Deleted.\n15.  The provisions of Article 19 paragraph (2) are amended, so that Article 19 shall read as follows:"
+        },
+        "noLabel": {
+          "en": "Article 18"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "…"
+        },
+        "noLabel": {
+          "en": "Article 19"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "(1) The Minister of Finance shall have the authority to stipulate regulations on the revaluation of assets and the adjustment factor in the event of a mismatch between cost elements and income due to price developments.\n(2) The difference from the revaluation of assets as referred to in paragraph (1) shall be subject to a separate tax rate by a Regulation of the Minister of Finance, insofar as it does not exceed the highest tax rate as referred to in Article 17 paragraph (1).\n16.  The provisions of Article 21 paragraphs (1) to (5), and paragraph\n(8) are amended, and 1 (one) paragraph is inserted between paragraph (5) and paragraph (6), namely paragraph (5a), so that Article 21 shall read as follows:"
+        },
+        "noLabel": {
+          "en": "Article 19"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "(1) Withholding of tax on income in connection with work, services, or activities under any name and in any form received or obtained by domestic individual Taxpayers shall be mandatory for:\na. employers paying salaries, wages, honoraria, allowances, and other payments as remuneration in connection with work performed by employees or non-employees;\nb. government treasurers paying salaries, wages, honoraria, allowances, and other payments in connection with work, services, or activities;\nc. pension funds or other bodies paying pension money and other payments under any name by way of pension;\nd. entities paying honoraria or other payments as remuneration in connection with services including the services of experts performing independent work; and\ne. organisers of activities making payments in connection with the holding of an activity.\n(2) Not …\n(2) Not included as employers obliged to withhold tax as referred to in paragraph (1) letter a shall be representative offices of foreign states and international organisations as referred to in Article 3.\n(3) The income of permanent employees or pensioners from which tax is withheld for each month shall be the amount of gross income after deducting occupational costs or pension costs, the amount of which is determined by a Regulation of the Minister of Finance, pension contributions, and Non-Taxable Income.\n(4) The income of daily, weekly, and other non-permanent employees from which tax is withheld shall be the amount of gross income after deducting the portion of income not subject to withholding, the amount of which is determined by a Regulation of the Minister of Finance.\n(5) The withholding rate on income as referred to in paragraph (1) shall be the tax rate as referred to in Article 17 paragraph (1) letter a, unless otherwise determined by a Government Regulation.\n(5a) The amount of the rate as referred to in paragraph (5) applied to Taxpayers not having a Taxpayer Identification Number shall be 20% (twenty per cent) higher than the rate applied to Taxpayers able to produce a Taxpayer Identification Number.\n(6)  Deleted.\n(7)  Deleted.\n(8) Provisions on the implementing instructions for withholding tax on income in connection with work, services, or activities shall be regulated by or on the basis of a Regulation of the Minister of Finance.\n17.  The provisions of Article 22 paragraphs (1) and (2) are amended, and 1 (one) paragraph is added, namely paragraph (3), so that Article 22 shall read as follows:"
+        },
+        "noLabel": {
+          "en": "Article 21"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "…"
+        },
+        "noLabel": {
+          "en": "Article 22"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "(1) The Minister of Finance may determine:\na. government treasurers to collect tax in connection with payments for the delivery of goods;\nb. certain bodies to collect tax from Taxpayers carrying on activities in the field of import or business activities in other fields; and\nc. certain corporate Taxpayers to collect tax from buyers on the sale of goods classified as very luxurious.\n(2) Provisions on the basis of collection, the criteria, the nature, and the amount of the tax collection as referred to in paragraph (1) shall be regulated by or on the basis of a Regulation of the Minister of Finance.\n(3) The amount of the collection as referred to in paragraph\n(2) applied to Taxpayers not having a Taxpayer Identification Number shall be 100% (one hundred per cent) higher than the rate applied to Taxpayers able to produce a Taxpayer Identification Number.\n18.  The provisions of Article 23 paragraphs (1) and (2) and paragraph (4) letter c are amended, paragraph (4) letters d and g are deleted and 1 (one) letter is added, namely letter h, and 1 (one) paragraph is inserted between paragraph (1) and\nparagraph (2), namely paragraph (1a), so that"
+        },
+        "noLabel": {
+          "en": "Article 22"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "it shall read as follows:"
+        },
+        "noLabel": {
+          "en": "Article 23"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "(1) On the income set out below under any name and in any form which is paid, provided to be paid, or has fallen due for payment by government bodies, domestic corporate tax subjects, organisers of activities, permanent establishments, or other representatives of foreign companies to domestic Taxpayers or permanent establishments, tax shall be withheld by the party obliged to pay:\na. at 15% (fifteen per cent) of the gross amount of:\n1. dividends  …\n1. dividends as referred to in Article 4\nparagraph (1) letter g;\n2. interest as referred to in Article 4\nparagraph (1) letter f;\n3. royalties; and\n4. prizes, awards, bonuses, and the like other than those from which Income Tax has been withheld as referred to in Article 21 paragraph\n(1) letter e;\nb. deleted;\nc. at 2% (two per cent) of the gross amount of:\n1. rent and other income in connection with the use of assets, except rent and other income in connection with the use of assets that have been subject to Income Tax as referred to in"
+        },
+        "noLabel": {
+          "en": "Article 23"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "2. remuneration in connection with technical services, management services, construction services, consultancy services, and other services other than services from which Income Tax has been withheld as referred to in Article 21.\n(1a) In the event that a Taxpayer receiving or obtaining income as referred to in\nparagraph (1) does not have a Taxpayer Identification Number, the amount of the withholding rate shall be 100% (one hundred per cent) higher than the rate as referred to in paragraph (1).\n(2)  Further provisions on the types of other services as referred to in paragraph (1) letter c number 2 shall be regulated by or on the basis of a Regulation of the Minister of Finance.\n(3) An individual as a domestic Taxpayer may be appointed by the Director General of Taxes to withhold tax as referred to in paragraph (1).\n(4) The withholding of tax as referred to in paragraph\n(1) shall not be carried out on:\na. income paid or owed to a bank;\nb. rent paid or owed in connection with lease with option rights;\nc. dividends  …\nc. dividends as referred to in Article 4\nparagraph (3) letter f and dividends received by individuals as referred to in Article 17 paragraph (2c);\nd. deleted;\ne. profit shares as referred to in Article 4\nparagraph (3) letter i;\nf. the remaining business results of cooperatives paid by cooperatives to their members;\ng. deleted; and\nh. income paid or owed to business entities for financial services functioning as lenders and/or financiers, as regulated by a Regulation of the Minister of Finance.\n19.  The provisions of Article 24 paragraphs (3) and (6) are amended, so that"
+        },
+        "noLabel": {
+          "en": "Article 4"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "it shall read as follows:"
+        },
+        "noLabel": {
+          "en": "Article 24"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "(1) Tax paid or owed abroad on income from abroad received or obtained by a domestic Taxpayer may be credited against the tax owed under this Law in the same tax year.\n(2) The amount of the tax credit as referred to in\nparagraph (1) shall be the amount of income tax paid or owed abroad but may not exceed the computation of the tax owed under this Law.\n(3) In computing the limit of the amount of tax that may be credited, the source of income shall be determined as follows:\na. income from shares and other securities and gains from the transfer of shares and other securities shall be the state in which the entity issuing such shares or securities is established or domiciled;\nb. income in the form of interest, royalties, and rent in connection with the use of movable assets shall be the state in which the party paying or bearing such interest, royalties, or rent is domiciled or located;\nc. income  …\nc. income in the form of rent in connection with the use of immovable assets shall be the state in which such assets are located;\nd. income in the form of remuneration in connection with services, work, and activities shall be the state in which the party paying or bearing such remuneration is domiciled or located;\ne. the income of a permanent establishment shall be the state in which such permanent establishment carries on business or conducts activities;\nf.  income from the transfer of part or all of mining rights or of signs of participation in financing or capital participation in a mining company shall be the state in which the mining location is situated;\ng.  gains from the transfer of fixed assets shall be the state in which the fixed assets are located; and\nh.  gains from the transfer of assets forming part of a permanent establishment shall be the state in which the permanent establishment is located.\n(4) The determination of the source of income other than the income as referred to in paragraph (3) shall use the same principles as the principles referred to in that paragraph.\n(5) If the tax on income from abroad that has been credited is subsequently reduced or refunded, the tax owed under this Law shall be increased by that amount in the year in which the reduction or refund is made.\n(6) Provisions on the implementation of the crediting of tax on income from abroad shall be regulated by or on the basis of a Regulation of the Minister of Finance.\n20.  The provisions of Article 25 paragraphs (1), (2), (4), (6),\n(7), and (8) are amended, paragraph (9) is deleted, and 1 (one) paragraph is inserted between\nparagraph (8) and paragraph (9), namely paragraph (8a), so that Article 25 shall read as follows:"
+        },
+        "noLabel": {
+          "en": "Article 24"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": ".."
+        },
+        "noLabel": {
+          "en": "Article 25"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "(1) The amount of the tax instalment in the current tax year that must be paid by the Taxpayer himself for each month shall be the amount of Income Tax owed according to the Annual Income Tax Return of the previous tax year less:\na. the Income Tax withheld as referred to in Article 21 and Article 23 and the Income Tax collected as referred to in Article 22; and\nb. the Income Tax paid or owed abroad that may be credited as referred to in Article 24, divided by 12 (twelve) or by the number of months in\nthe part of the tax year.\n(2) The amount of the tax instalment that must be paid by the Taxpayer himself for the months before the Annual Income Tax Return is submitted, in the case of submission before the deadline for submission of the Annual Income Tax Return, shall be equal to the amount of the tax instalment for the last month of the previous tax year.\n(3) Deleted.\n(4) If in the current tax year a tax assessment letter is issued for the previous tax year, the amount of the tax instalment shall be recomputed on the basis of such tax assessment letter and shall apply starting from the month following the month of issuance of the tax assessment letter.\n(5) Deleted.\n(6) The Director General of Taxes shall have the authority to determine the computation of the amount of the tax instalment in the current tax year in certain cases, as follows:\na. the Taxpayer is entitled to loss compensation;\nb. the Taxpayer obtains irregular income;\nc. the Annual  …\nc. the Annual Income Tax Return of the previous year is submitted after the specified deadline;\nd. the Taxpayer is granted an extension of the period for submitting the Annual Income Tax Return;\ne. the Taxpayer corrects the Annual Income Tax Return himself, resulting in a monthly instalment larger than the monthly instalment before the correction; and\nf. there is a change in the circumstances of the business or activities of the Taxpayer.\n(7) The Minister of Finance shall determine the computation of the amount of the tax instalment for:\na. new Taxpayers;\nb. banks, state-owned enterprises, regionally-owned enterprises, listed Taxpayers, and other Taxpayers that under statutory provisions must prepare periodic financial statements; and\nc. individual Taxpayers who are certain entrepreneurs, at a rate of at most 0.75% (zero point seven five per cent) of gross turnover.\n(8) Domestic individual Taxpayers who do not have a Taxpayer Identification Number and have reached the age of 21 (twenty-one) years and depart abroad shall be obliged to pay tax, the provisions of which are regulated by a Government Regulation.\n(8a) The provisions as referred to in paragraph (8) shall apply until 31 December 2010.\n(9)  Deleted.\n21.  The provisions of Article 26 paragraph (1) are amended and 2 (two) letters are added, namely letters g and h, paragraphs (2) to\nparagraph (5) are amended, 1 (one) paragraph is inserted between paragraph (1) and paragraph (2), namely paragraph (1a), and 1 (one) paragraph is inserted between paragraph (2) and paragraph\n(3), namely paragraph (2a), so that Article 26 shall read as follows:"
+        },
+        "noLabel": {
+          "en": "Article 25"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "…"
+        },
+        "noLabel": {
+          "en": "Article 26"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "(1) On the income set out below, under any name and in any form, which is paid, provided to be paid, or has fallen due for payment by government bodies, domestic tax subjects, organisers of activities, permanent establishments, or other representatives of foreign companies to foreign Taxpayers other than permanent establishments in Indonesia, tax shall be withheld at 20% (twenty per cent) of the gross amount by the party obliged to pay:\na. dividends;\nb. interest, including premiums, discounts, and remuneration in connection with guarantees of debt repayment;\nc. royalties, rent, and other income in connection with the use of assets;\nd. remuneration in connection with services, work, and activities;\ne. prizes and awards;\nf. pensions and other periodic payments;\ng. swap premiums and other hedging transactions; and/or\nh. gains from debt forgiveness.\n(1a) The domicile state of a foreign Taxpayer other than one carrying on business or conducting business activities through a permanent establishment in Indonesia as referred to in paragraph (1) shall be the state of residence or domicile of the foreign Taxpayer that actually receives the benefit of such income (beneficial owner).\n(2) On income from the sale or transfer of assets in Indonesia, except that regulated in Article 4 paragraph\n(2), received or obtained by foreign Taxpayers other than permanent establishments in Indonesia, and on insurance premiums paid to foreign insurance companies, tax shall be withheld at 20% (twenty per cent) of the estimated net income.\n(2a)  On  … (2a) On income from the sale or transfer of shares as referred to in Article 18 paragraph (3c), tax shall be withheld at 20% (twenty per cent) of the estimated net income.\n(3) The implementation of the provisions as referred to in\nparagraph (2) and paragraph (2a) shall be regulated by or on the basis of a Regulation of the Minister of Finance.\n(4) The Taxable Income after deduction of tax of a permanent establishment in Indonesia shall be subject to tax at 20% (twenty per cent), unless such income is reinvested in Indonesia, the provisions of which are further regulated by or on the basis of a Regulation of the Minister of Finance.\n(5) The withholding of tax as referred to in paragraph\n(1), paragraph (2), paragraph (2a), and paragraph (4) shall be final, except:\na. withholding on income as referred to in Article 5 paragraph (1) letter b and\nletter c; and\nb. withholding on income received or obtained by an individual or foreign entity that changes status to become a domestic Taxpayer or a permanent establishment.\n22.  The provisions of Article 29 are amended, so that they shall read as follows:"
+        },
+        "noLabel": {
+          "en": "Article 26"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "If the tax owed for a tax year turns out to be greater than the tax credit as referred to in Article 28 paragraph (1), the shortfall in payment of the tax owed must be settled before the Annual Income Tax Return is submitted.\n23.  The provisions of Article 31A are amended, so that they shall read as follows:"
+        },
+        "noLabel": {
+          "en": "Article 29"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "A …"
+        },
+        "noLabel": {
+          "en": "Article 31"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "A\n(1) Taxpayers carrying out capital investment in certain business fields and/or in certain regions that receive high priority on a national scale may be granted tax facilities in the form of:\na.  a reduction of net income of at most 30% (thirty per cent) of the amount of investment made;\nb.  accelerated depreciation and amortisation;\nc.  compensation of losses over a longer period, but not more than 10 (ten) years; and\nd.  the imposition of Income Tax on dividends as referred to in Article 26 at 10% (ten per cent), except where the rate under the applicable tax treaty provides for a lower rate.\n(2)  Further provisions on the certain business fields and/or certain regions that receive high priority on a national scale as well as the granting of tax facilities as referred to in paragraph (1) shall be regulated by a Government Regulation.\n24.  Article 31B is deleted.\n25.  The provisions of Article 31C paragraph (2) are deleted, so that Article 31C shall read as follows:"
+        },
+        "noLabel": {
+          "en": "Article 31"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "C\n(1) State revenue from the Income Tax of domestic individuals and from Article 21 Income Tax withheld by employers shall be divided in the proportion of 80% for the Central Government and 20% for the Regional Government where the Taxpayer is registered.\n(2) Deleted.\n26.  Two 2 (two) articles are inserted between Article 31C and Article 32, namely Article 31D and Article 31E, so that they shall read as follows:"
+        },
+        "noLabel": {
+          "en": "Article 31"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "D ..."
+        },
+        "noLabel": {
+          "en": "Article 31"
+        },
+        "dupIndex": 4
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "D Provisions on taxation for the oil and gas mining business sector, the geothermal business sector, the general mining business sector including coal, and sharia-based business sectors shall be regulated by or on the basis of a Government Regulation."
+        },
+        "noLabel": {
+          "en": "Article 31"
+        },
+        "dupIndex": 5
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "E\n(1) Domestic corporate Taxpayers with gross turnover of up to Rp50,000,000,000.00 (fifty billion rupiah) shall receive a facility in the form of a rate reduction of 50% (fifty per cent) of the rate as referred to in Article 17 paragraph (1) letter b and paragraph (2a) imposed on the Taxable Income from the portion of gross turnover of up to Rp4,800,000,000.00 (four billion eight hundred million rupiah).\n(2) The amount of the portion of gross turnover as referred to in paragraph (1) may be increased by a Regulation of the Minister of Finance.\n27.  The provisions of Article 32 are amended, so that they shall read as follows:"
+        },
+        "noLabel": {
+          "en": "Article 31"
+        },
+        "dupIndex": 6
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The procedures for imposing tax and the sanctions in connection with the implementation of this Law shall be carried out in accordance with Law Number 6 of 1983 on General Provisions and Tax Procedures as last amended several times by Law Number 28 of 2007 on the Third Amendment to Law Number 6 of 1983 on General Provisions and Tax Procedures.\n28.  1 (one) article is inserted between Article 32A and Article 33, namely Article 32B, so that it shall read as follows:"
+        },
+        "noLabel": {
+          "en": "Article 32"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "B ..."
+        },
+        "noLabel": {
+          "en": "Article 32"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "B Provisions on the imposition of tax on interest or discounts on State Bonds traded in another state on the basis of a reciprocal treatment agreement with that other state shall be regulated by a Government Regulation.\n29.  The provisions of Article 35 are amended, so that they shall read as follows:"
+        },
+        "noLabel": {
+          "en": "Article 32"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Matters that are not sufficiently regulated for the implementation of this Law shall be further regulated by a Government Regulation.\nArticle II\nUpon this Law coming into force:\n1. Taxpayers whose financial year ends after 30 June 2001 shall be obliged to compute their tax on the basis of the provisions set out in Law Number 7 of 1983 on Income Tax as last amended several times by Law Number 17 of 2000 on the Third Amendment to Law Number 7 of 1983 on Income Tax.\n2. Taxpayers whose financial year ends after 30 June 2009 shall be obliged to compute their tax on the basis of the provisions set out in Law Number 7 of 1983 as last amended several times by this Law.\nThis Law shall come into force on 1 January 2009.\nIn order ...\nIn order that every person may know of it, it is ordered that this Law be promulgated by placing it in the State Gazette of the Republic of Indonesia.\nEnacted in Jakarta on 23 September 2008  PRESIDENT OF THE REPUBLIC OF INDONESIA,  signed  DR. H. SUSILO BAMBANG YUDHOYONO  Promulgated in Jakarta on 23 September 2008  MINISTER OF LAW AND HUMAN RIGHTS OF THE REPUBLIC OF INDONESIA,  signed  ANDI MATTALATTA  STATE GAZETTE OF THE REPUBLIC OF INDONESIA YEAR 2008 NUMBER 133  Copy in accordance with the original  STATE SECRETARIAT OF THE REPUBLIC OF INDONESIA  Head of the Bureau for Legislation in the Economic and Industrial Sector,  SETIO SAPTO NUGROHO"
+        },
+        "noLabel": {
+          "en": "Article 35"
         }
       }
     ]
@@ -3514,6 +3916,257 @@
         "noLabel": {
           "en": "Article 40"
         }
+      }
+    ]
+  };
+
+  TR["ID-H047"] = {
+    "lawId": "ID-H047",
+    "sourceLang": "id",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "DeepSeek-V4.1-Flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-26",
+    "reviewed": "machine",
+    "glossaryVersion": "id-en-2026-10",
+    "completenessNote": "从印尼语回执逐条入库，共 25 条；条号与原文一一对应。",
+    "articles": [
+      {
+        "no": 4,
+        "text": {
+          "en": "(U The Government shall be responsible for encouraging the creation of a digital ecosystem that is fair, accountable, secure, and innovative.\n(21 In order to carry out the responsibility as referred to in paragraph (1), the Government shall be authorised to order an Electronic System Operator to make adjustments to the Electronic System and/or to take certain actions.\n(3) An Electronic System Operator shall be obliged to carry out the order as referred to in paragraph (2).\n(41 In the event that an Electronic System Operator violates the obligation as referred to in paragraph (3), the Electronic System Operator shall be subject to administrative sanctions.\n(5) Sanctions...\nSK No 190196A REPUBLIC OF INDONESIA\n(5) The administrative sanctions as referred to in paragraph (4) may be in the form of:\na. a written reprimand;\nb. an administrative fine;\nc. temporary suspension; and/or\nd. termination of Access.\n(6) Further provisions regarding the responsibility of the Government as referred to in paragraph (l), the authority of the Government as referred to in paragraph (21, the obligation of the Electronic System Operator as referred to in paragraph (3), and the imposition of administrative sanctions as referred to in paragraph\n(4) and paragraph (5) shall be regulated in a Government Regulation.\n15. The provisions of paragraph (2), paragraph (5), and paragraph (8) of Article 43 are amended, the provisions of paragraph (5) of Article 43 are added 1 (one) letter, namely letter l, and the explanation of paragraph (5)\nletter j of Article 43 is amended so that Article 43 reads as follows:"
+        },
+        "noLabel": {
+          "en": "Article 4"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "(1) In addition to the Investigator of the National Police Officer of the Republic of Indonesia, certain Civil Servant Officials within the Government whose scope of duties and responsibilities is in the field of Information Technology and Electronic Transactions shall be granted special authority as investigators as referred to in the Law on Criminal Procedure Law to conduct investigation of criminal offences in the field of Information Technology and Electronic Transactions.\n(2) Investigation...\nSK No l90l98A REPUBLIC OF INDONESIA -t4- l2l Investigation of criminal offences in the field of Information Technology and Electronic Transactions as referred to in paragraph (1) shall be carried out with due regard to the protection of privacy, confidentiality, the smooth running of public services, and the integrity or wholeness of data in accordance with the provisions of laws and regulations.\n(3) Search and/or seizure of Electronic Systems related to an alleged criminal offence in the field of Information Technology and Electronic Transactions shall be carried out in accordance with the provisions of criminal procedure law.\n(41 In carrying out the search and/or seizure as referred to in paragraph (3), the investigator shall be obliged to safeguard the preservation of the public service interest.\n(5) The Civil Servant Investigator as referred to in paragraph (l) shall be authorised to:\na. receive reports or complaints from a person concerning the existence of a criminal offence in the field of Information Technology and Electronic Transactions;\nb. summon every Person or other party to be heard and examined as a suspect or witness in connection with an alleged criminal offence in the field of Information Technology and Electronic Transactions;\nc. carry out examination of the truth of a report or statement concerning a criminal offence in the field of Information Technology and Electronic Transactions;\nd. carry out examination of a Person and/or Business Entity reasonably suspected of committing a criminal offence in the field of Information Technology and Electronic Transactions;\ne. carry out...\nSK No 190199A REPUBLIC OF INDONESIA e. carry out examination of the equipment and/or facilities relating to Information Technology activities suspected of being used to commit a criminal offence in the field of Information Technology and Electronic Transactions; carry out a search of a certain place suspected of being used as a place to commit a criminal offence in the field of Information Technology and Electronic Transactions; carry out sealing and seizure of equipment and/or facilities for Information Technology activities suspected of being used in deviation from the provisions of laws and regulations; make certain data and/or Electronic Systems related to a criminal offence in the field of Information Technology and Electronic Transactions inaccessible; request information contained in an Electronic System or information produced by an Electronic System from an Electronic System Operator related to a criminal offence in the field of Information Technology and Electronic Transactions; request the assistance of experts needed in the investigation of criminal offences in the field of Information Technology and Electronic Transactions; terminate the investigation of criminal offences in the field of Information Technology and Electronic Transactions in accordance with the provisions of criminal procedure law; and/or\nl. order... f. c. h I J k.\nSK No 190200A REPUBLIC OF INDONESIA\n1. order an Electronic System Operator to carry out temporary termination of Access to social media accounts, bank accounts, electronic money, and/or digital assets.\n(6) Arrest and detention of perpetrators of criminal offences in the field of Information Technology and Electronic Transactions shall be carried out in accordance with the provisions of criminal procedure law.\n(71 The Civil Servant Investigator as referred to in paragraph (l) in carrying out his duties shall notify the commencement of the investigation to the Public Prosecutor through the Investigator of the National Police Officer of the Republic of Indonesia.\n(7a) In the event that the investigation has been completed, the Civil Servant Investigator as referred to in paragraph (l) shall submit the results of his investigation to the Public Prosecutor through the Investigator of the National Police Officer of the Republic of Indonesia.\n(8) In order to uncover criminal offences in the field of Information Technology and Electronic Transactions, investigators may cooperate with investigators of other states to share information and evidence in accordance with the provisions of laws and regulations.\n16. The provisions of Article 45 are amended so as to read as follows:"
+        },
+        "noLabel": {
+          "en": "Article 43"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "(1) Every Person who deliberately and without right broadcasts, exhibits, distributes, transmits, and/or makes accessible Electronic Information and/or Electronic Documents containing content that violates decency for public knowledge as referred to in"
+        },
+        "noLabel": {
+          "en": "Article 45"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "a maximum of 6 (six) years and/or a fine of a maximum of Rp1,000,000,000.00 (one billion rupiah).\n(2) Act...\nSK No 190201A REPUBLIC OF INDONESIA -L7- (21 The act as referred to in paragraph (1) shall not be punishable in the event that:\na. it is carried out for the public interest;\nb. it is carried out in defence of oneself; or\nc. the Electronic Information and/or Electronic Documents constitute a work of art, culture, sports, health, and/or science.\n(3) Every Person who deliberately and without right distributes, transmits, and/or makes accessible Electronic Information and/or Electronic Documents containing gambling content as referred to in Article 27 paragraph (2) shall be punished with imprisonment for a maximum of 10 (ten) years and/or a fine of a maximum of Rp10,000,000,000.00 (ten billion rupiah).\n(4) Every Person who deliberately attacks the honour or good name of another person by imputing a matter, with the intention that the matter become publicly known, in the form of Electronic Information and/or Electronic Documents carried out through an Electronic System as referred to in Article 27A shall be punished with imprisonment for a maximum of 2 (two) years and/or a fine of a maximum of Rp400,000,000.00 (four hundred million rupiah).\n(5) The provisions as referred to in paragraph (4) constitute a criminal offence upon complaint that may only be prosecuted upon the complaint of the victim or the person affected by the criminal offence and not by a legal entity.\n(6) In the event that the act as referred to in paragraph (41 cannot be proven to be true and is contrary to what is known although an opportunity to prove it has been given, it shall be punished for defamation with imprisonment for a maximum of 4 (four) years and/or a fine of a maximum of Rp750,000,000.00 (seven hundred and fifty million rupiah).\n(7) Act...\nSK No 190202A REPUBLIC OF INDONESIA (71 The act as referred to in paragraph (4) shall not be punishable in the event that:\na. it is carried out for the public interest; or\nb. it is carried out by compulsion in defence of oneself.\n(8) Every Person who deliberately and without right distributes and/or transmits Electronic Information and/or Electronic Documents, with the intention of unlawfully benefiting himself or another person, forces a person by threat of violence to:\na. give a certain item, wholly or partly belonging to that person or to another person; or\nb. give a debt, make an acknowledgement of debt, or write off a receivable, as referred to in Article 27B paragraph (l) shall be punished with imprisonment for a maximum of 6 (six) years and/or a fine of a maximum of Rp1,000,000,000.00 (one billion rupiah).\n(9) In the event that the act as referred to in paragraph (8) is carried out within the family environment, criminal prosecution may only be carried out upon complaint.\n(1O) Every Person who deliberately and without right distributes and/or transmits Electronic Information and/or Electronic Documents, with the intention of unlawfully benefiting himself or another person, by threat of defamation or by threat of disclosing a secret, forces a person to:\na. give a certain item wholly or partly belonging to that person or to another person; or\nb. give...\nSK No 190289A...\nb. give a debt, make an acknowledgement of debt, or write off a receivable, as referred to in Article 27B paragraph (2) shall be punished with imprisonment for a maximum of 6 (six) years and/or a fine of a maximum of Rp1,000,000,000.00 (one billion rupiah).\n(11) The criminal offence as referred to in paragraph\n(10) may only be prosecuted upon the complaint of the victim of the criminal offence.\n17. The provisions of Article 45A are amended so as to read as follows:"
+        },
+        "noLabel": {
+          "en": "Article 27"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "A\n(1) Every Person who deliberately distributes and/or transmits Electronic Information and/or Electronic Documents containing false notification or misleading information that causes material loss to consumers in an Electronic Transaction as referred to in Article 28 paragraph (1) shall be punished with imprisonment for a maximum of 6 (six) years and/or a fine of a maximum of Rp1,000,000,000.00 (one billion rupiah).\n(2) Every Person who deliberately and without right distributes and/or transmits Electronic Information and/or Electronic Documents that are inciting, inviting, or ... another person so as to give rise to feelings of hatred or hostility towards certain individuals and/or groups of society on the basis of race, nationality, ethnicity, skin colour, religion, belief, gender, mental disability, or physical disability as referred to in Article 28 paragraph (2) shall be punished with imprisonment for a maximum of 6 (six) years and/or a fine of a maximum of Rp1,000,000,000.00 (one billion rupiah).\nSK No 190290A\n(3) Every...\nREPUBLIC OF INDONESIA\n(3) Every Person who deliberately disseminates Electronic Information and/or Electronic Documents which he knows contain false notification that gives rise to public disorder as referred to in Article 28 paragraph (3) shall be punished with imprisonment for a maximum of 6 (six) years and/or a fine of a maximum of Rp1,000,000,000.00 (one billion rupiah).\n18. The provisions of Article 45B are amended so as to read as follows:"
+        },
+        "noLabel": {
+          "en": "Article 45"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "B Every Person who deliberately and without right sends Electronic Information and/or Electronic Documents directly to a victim containing threats of violence and/or intimidation as referred to in Article 29 shall be punished with imprisonment for a maximum of 4 (four) years and/or a fine of a maximum of Rp750,000,000.00 (seven hundred and fifty million rupiah).\nArticle II\nUpon this Law coming into force, the provisions in Article 27 paragraph (1), Article 27A, Article\n28 paragraph (2), Article 28 paragraph (3), Article 36, Article 45 paragraph\n(1), Article 45 paragraph (2), Article 45 paragraph (4), Article 45 paragraph\n(5), Article 45 paragraph (6), Article 45 paragraph (7), Article 45A paragraph\n(2), and Article 45A paragraph (3) shall remain in force until the coming into force of Law Number 1 of 2023 on the Criminal Code (State Gazette of the Republic of Indonesia of 2023 Number 1, Supplement to the State Gazette of the Republic of Indonesia Number 6842).\nThis Law shall come into force on the date of its promulgation.\nIn order...\n1 2 SK No 190291A PRESIDENT OF THE REPUBLIC OF INDONESIA -2t- In order that every person may know it, orders the promulgation of this Law by placing it in the State Gazette of the Republic of Indonesia.\nEnacted in Jakarta on 2 January 2024 PRESIDENT OF THE REPUBLIC OF INDONESIA, JOKO WIDODO Promulgated in Jakarta on 2 January 2024 MINISTER OF STATE SECRETARIAT OF THE REPUBLIC OF INDONESIA, PRATIKNO STATE GAZETTE OF THE REPUBLIC OF INDONESIA YEAR 2024 NUMBER 1 True copy in accordance with the original MINISTRY OF STATE SECRETARIAT OF THE REPUBLIC OF INDONESIA Legislation and Legal Administration, sgd. sgd. SK No l90l75A Djaman EXPLANATION OF THE LAW OF THE REPUBLIC OF INDONESIA NUMBER 1 OF 2024 ON THE SECOND AMENDMENT TO LAW NUMBER 11 OF 2008 ON INFORMATION AND ELECTRONIC TRANSACTIONS\nI. GENERAL\nThe freedom to express thoughts and freedom of opinion in good and correct language as well as the right to obtain information through the use and utilisation of Information Technology are directed at advancing the general welfare and enlightening the life of the nation.\nThat freedom and liberty are also important in maintaining a digital space that is clean, healthy, ethical, productive, and just, and in providing a sense of security and legal certainty for users and Electronic System Operators.\nIn the life of society, nation, and state, the rights and freedoms in using and utilising Information Technology are exercised with due regard to the restrictions laid down by Law. Such restrictions are intended solely to guarantee the recognition and respect for the rights and freedoms of other persons and to meet just demands in accordance with moral considerations, religious values, security, and public order in a democratic society.\nIn reality, in applying Law Number 11 of 2008 on Information and Electronic Transactions as amended by Law Number 19 of 2016 on Amendments to Law Number 11 of 2008 on Information and Electronic Transactions, there are problems. The said problems include:\n1. the emergence of objections by part of the public to several criminal provisions such as in Article 27 paragraph (3) and Article 28 paragraph (21, which have been submitted several times for Judicial Review to the Constitutional Court;\n2. the occurrence of...\nSK No 190268A ... -2\n2. the occurrence of the first amendment to Law Number 11 of 2008 on Information and Electronic Transactions, namely Law Number 19 of 2016 on Amendments to Law Number 11 of 2008 on Information and Electronic Transactions, which is considered still unable to resolve the problem; and\n3. the emergence of differing understandings of several articles so that their application may be directed at subjects who should not be the target of the said provisions.\nThis Law further perfects the norms regulated in Law Number 11 of 2008 on Information and Electronic Transactions as amended by Law Number 19 of 2016 on Amendments to Law Number 11 of 2008 on Information and Electronic Transactions. The said norms cover:\n1. electronic evidence as referred to in Article 5;\n2. electronic certification as referred to in Article 13;\n3. Electronic Transactions as referred to in Article 17;\n4. prohibited acts, among others Article 27, Article 27A, Article 27B,"
+        },
+        "noLabel": {
+          "en": "Article 45"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "regulated in Article 45, Article 45A, and Article 45B;\n5. the role of the Government as referred to in Article 40; and\n6. the authority of civil servant investigators as referred to in Article 43.\nIn addition, this Law also completes the material already regulated in Law Number 11 of 2008 on Information and Electronic Transactions as amended by Law Number 19 of 2016 on Amendments to Law Number 11 of 2008 on Information and Electronic Transactions. The material so regulated covers:\nf. digital identity in the provision of electronic certification as referred to in Article 13A;\n2. child protection in the Operation of Electronic Systems as referred to in Article 16A and Article 16B;\n3. international Electronic Contracts as referred to in Article 18A; and\n4. the role of the Government in encouraging the creation of a digital ecosystem that is fair, accountable, secure, and innovative as referred to in"
+        },
+        "noLabel": {
+          "en": "Article 28"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "A.\nII. ARTICLE...\nSK No 190269A ... II. ARTICLE BY ARTICLE Article I Item 1"
+        },
+        "noLabel": {
+          "en": "Article 40"
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "(l) The existence of Electronic Information and/or Electronic Documents shall be binding and recognised as valid evidence in order to provide legal certainty for the Operation of Electronic Systems and Electronic Transactions, particularly in proving and in matters relating to legal acts carried out through Electronic Systems.\n(2t Specifically for Electronic Information and/or Electronic Documents in the form of results of interception or wiretapping or recording that constitute\npart of wiretapping, it must be carried out in the context of law enforcement at the request of the police, the prosecution service, and/or other institutions whose authority is determined by Law.\n(3) Sufficiently clear.\n(41 Sufficiently clear.\nParagraph\nParagraph\nParagraph\nParagraph\nAng)<a 2"
+        },
+        "noLabel": {
+          "en": "Article 5"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Paragraph (1) Sufficiently clear.\nParagraph (21 Sufficiently clear.\nParagraph (s) Sufficiently clear.\nSK No 190270A\nParagraph(4)... ... Item 3"
+        },
+        "noLabel": {
+          "en": "Article 13"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "A\nParagraph (4) Sufficiently clear.\nParagraph (5)\nParagraph (6) Sufficiently clear.\nParagraph (1)\nLetter a\nSufficiently clear.\nLetter b\nLetter c What is meant by \"cooperation agreement\" is, among others, an agreement between Electronic Certification Operators or between Governments whose Electronic Certification Operators will carry out mutual recognition, whether bilaterally or multilaterally.\nWhat is meant by \"electronic seal\" is electronic data attached to, associated with, or related to Electronic Information and/or Electronic Documents to guarantee the origin, integrity, and wholeness of the Electronic Information and/or Electronic Documents used by a Business Entity or agency.\nWhat is meant by \"electronic time stamp\" is a marker that binds the time and date to Electronic Information and/or Electronic Documents by using a reliable method.\nLetter d...\nSK No 190271A ...\nLetter d\nLetter e\nLetter f\nLetter g Letter h What is meant by \"registered electronic delivery service\" is a service that provides the delivery of Electronic Information and/or Electronic Documents, provides proof relating to the delivery of Electronic Information and/or Electronic Documents, and protects the Electronic Information and/or Electronic Documents sent from the risk of loss, theft, damage, or unauthorised addition.\nWhat is meant by \"website authentication\" is a service that identifies the owner of a website and associates the said website with the Person or Business Entity receiving the Electronic Certificate of the website by using a reliable method.\nWhat is meant by \"preservation of Electronic Signatures and/or electronic seals\" is a service that guarantees that the legal force of an Electronic Signature and/or electronic seal in Electronic Information and/or Electronic Documents can still be validated even though the validity period of the said Electronic Certificate has expired.\nWhat is meant by \"digital identity\" is Electronic Information containing the unique identity of a legal subject the utilisation of which is under the control of the legal subject associated with the said identity.\nParagraph(21...\nSK No 190273A Sufficiently clear.\nREPUBLIC OF INDONESIA Item 4"
+        },
+        "noLabel": {
+          "en": "Article 13"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Paragraph (2) Sufficiently clear.\nParagraph (1)\nParagraph (2) What is meant by \"reliable\" is that the Electronic System has capabilities in accordance with the needs of its use.\nWhat is meant by \"secure\" is that the Electronic System is protected physically and non-physically.\nWhat is meant by \"operating as it should\" is that the Electronic System has capabilities in accordance with its specifications, including the capability of the Electronic System to comply with or fulfil the governance obligations for the Operation of Electronic Systems regulated in laws and regulations. legally responsible for the said Electronic System.\nParagraph (3) Sufficiently clear.\nItem 5"
+        },
+        "noLabel": {
+          "en": "Article 15"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "A\nParagraph (1) Sufficiently clear.\nParagraph (2) Protection of the rights of the child is a priority, compared with the interest of the Electronic System Operator.\nWhat is meant by \"responsible\" is that there is a legal subject who is ... the Operator of a commercial Electronic System. The...\nSK No 190274A REPUBLIC OF INDONESIA What is meant by \"protection of the rights of the child\" includes protection of the personal data, privacy, and personal safety of the child, whether physical, mental, or psychological, from misuse of Electronic Information and/or Electronic Documents that violates the rights of the child.\nWhat is meant by \"products, services, and features developed and operated by the Electronic System Operator\" is products, services, and features specifically designed to be used or accessed by children, or which may be used or accessed by children.\nParagraph (3) Sufficiently clear.\nParagraph (4)\nLetter a\nSufficiently clear.\nLetter b\nLetter c What is meant by \"verification mechanism\" is a procedure to ensure that the user accessing the Electronic System is a child, by using technology.\nWhat is meant by \"abuse reporting mechanism\" is a reporting procedure in a service or feature that can be easily accessed by the child, the parent, and/or the guardian of the child.\nParagraph (5) Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 16"
+        }
+      },
+      {
+        "no": 168,
+        "text": {
+          "en": "Sufficiently clear.\nSK No 190276A Item 6...\nREPUBLIC OF INDONESIA\nItem 6"
+        },
+        "noLabel": {
+          "en": "Article 168"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Paragraph\nParagraph\nParagraph\nParagraph\n(1) This Law provides an opportunity for the utilisation of Information Technology by state administrators, Persons, Business Entities, and/or the public.\nThe utilisation of Information Technology must be carried out properly, wisely, responsibly, effectively, and efficiently so that the greatest possible benefit may be obtained for the public.\n(21 Sufficiently clear.\n(2a) What is meant by \"high-risk Electronic Transaction\" is, among others, a financial transaction that is not carried out face to face physically.\n(3) Sufficiently clear.\nAng)<a7"
+        },
+        "noLabel": {
+          "en": "Article 17"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "A\nParagraph (l) This arrangement provides protection for users of the services of Electronic System Operators in Indonesia by guaranteeing access to an effective and efficient legal system for users in fulfilling their rights and obligations and settling their disputes.\nThis provision is intended for agreements containing standard clauses addressed to the Indonesian public generally in using the services or products provided by the Electronic System Operator.\nThe...\nSK No 190277A ...\nWhat is meant by \"governed by Indonesian law\" includes the settlement of disputes arising between the Electronic System Operator and its users.\nLetter a\nSufficiently clear.\nLetter b What is meant by \"the place of performance of the contract is in the territory of Indonesia\" includes the case where the services, products, or Electronic Systems operated by the Electronic System Operator are used or accessed by its users from Indonesia.\nLetter c What is meant by \"the Electronic System Operator has a place of business in the territory of Indonesia\" includes the Electronic System Operator having a representative office in the territory of Indonesia or an Indonesian Business Entity.\nWhat is meant by \"the Electronic System Operator carries out business activities in the territory of Indonesia\" includes the Electronic System Operator offering services or products and preparing the terms and conditions for the use of its services or products in the Indonesian language and addressed to the Indonesian public.\nParagraph (2) What is meant by \"language\" is the Indonesian language.\nItem 8...\nSK No 190278A REPUBLIC OF INDONESIA - Item 8"
+        },
+        "noLabel": {
+          "en": "Article 18"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Paragraph (1) What is meant by \"broadcasting\" includes the act of transmitting, distributing, and making accessible Electronic Information and/or Electronic Documents within an Electronic System.\nWhat is meant by \"distributing\" is sending and/or disseminating Electronic Information and/or Electronic Documents to many Persons or various parties through an Electronic System.\nWhat is meant by \"transmitting\" is sending Electronic Information and/or Electronic Documents addressed to another party through an Electronic System.\nWhat is meant by \"making accessible\" is all acts other than distributing and transmitting through an Electronic System that cause Electronic Information and/or Electronic Documents to become known to another party or the public.\nWhat is meant by \"violating decency\" is carrying out acts exhibiting nudity, genitalia, and sexual activity that are contrary to the values living in the society at the place and time the said acts are carried out.\nThe interpretation of the notion of decency is adjusted to the standard prevailing in the society at a certain time and place (contemporary community standard).\nWhat is meant by \"made known to the public\" is being able to be, or so as to be able to be, accessed by a multitude of persons the majority of whom do not know one another.\nParagraph(2)...\nSK No 190279A ... Item 9 Article 27A Article 27B\nParagraph (2) The provision in this paragraph refers to the provisions on gambling in terms of offering or providing an opportunity for a game of chance, making it a livelihood, offering or providing an opportunity to the public to gamble, and participating in an enterprise for that purpose.\nWhat is meant by \"attacking the honour or good name\" is an act that demeans or damages the good name or dignity of another person so as to prejudice that person, including insulting and/or defaming.\nParagraph\nParagraph (l) What is meant by \"threat of violence\" is Electronic Information and/or Electronic Documents containing content intended to give rise to fear, anxiety, or worry that violence will be carried out. t2t What is meant by \"threat of defamation\" is a threat to attack the honour or good name of another person by imputing a matter with the intention that the matter become publicly known.\nItem 10"
+        },
+        "noLabel": {
+          "en": "Article 27"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Paragraph (l) Sufficiently clear.\nParagraph (21 Sufficiently clear.\nParagraph(3) ...\nSK No 190280A PRESIDENT OF THE REPUBLIC OF INDONESIA Item 11"
+        },
+        "noLabel": {
+          "en": "Article 28"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Sufficiently clear.\nItem 13"
+        },
+        "noLabel": {
+          "en": "Article 36"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Paragraph (1)\nParagraph (3) What is meant by \"riot\" is a condition that disturbs public order in the physical space, not a condition in the digital/cyber space.\nWhat is meant by \"victim\" is a person who suffers physical, mental, and/or economic loss caused by a criminal offence.\nIncluded within the acts referred to in this provision is bullying in the digital space (cyber bullying).\nFacilitation of the utilisation of Information Technology, including the governance of Information Technology and Electronic Transactions that is secure, ethical, intelligent, creative, productive, and innovative.\nThis provision includes facilitating the wider public, government agencies, and business actors in developing Information and communication Technology products and services.\nParagraph (21 Sufficiently clear.\nParagraph (2a) Sufficiently clear.\nSK No 190281A\nParagraph(2b) ...\nParagraph Paragraph Paragraph Paragraph Paragraph Paragraph Paragraph (2b) What is meant by \"termination of Access\" is the act of blocking Access, closing an account, and/or removing content.\nIncluded within \"carrying out termination of Access\" is blocking social media accounts.\n(2c) Sufficiently clear.\n(2d) What is meant by \"content dangerous to the safety of life or health of an individual or the public\" is Electronic Information and/or Electronic Documents that may cause significant material and/or physical loss to an individual or the public.\nFor example, an event or occurrence showing suicide or showing a challenge dangerous to the safety of life, which may encourage others to commit similar acts.\n(3) Sufficiently clear.\n(4) Sufficiently clear.\n(s) Sufficiently clear.\n(6) Sufficiently clear.\nItem 14...\nSK No 190282A REPUBLIC OF INDONESIA -t4- Item 14"
+        },
+        "noLabel": {
+          "en": "Article 40"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "A Paragraph\nParagraph\nParagraph (s) Sufficiently clear.\n(l) What is meant by \"responsible for encouraging the creation of a digital ecosystem\" is by establishing policies that enable Electronic System Operators to obtain equal opportunities for business or innovation (equal level of playing field) in a fair, reasonable, and non-discriminatory manner, as well as maintaining service quality in the utilisation of Information Technology and Electronic Transactions aimed at providing added value to the digital ecosystem in the utilisation of Information Technology and Electronic Transactions, and providing opportunities for the public to obtain better and higher-quality choices, as well as realising the creation of a sense of security over the utilisation of Electronic Systems operated by Electronic System Operators.\n(21 What is meant by \"making adjustments to the Electronic System\" is, among others, restricting or adding features of a software or hardware on the Electronic System or prohibiting the use of a feature on the Electronic System in the legal territory of the Republic of Indonesia.\nWhat is meant by \"certain actions\" is, among others, the implementation of affirmative obligations by the Electronic System Operator towards the public affected by the utilisation of the software, hardware, and/or features of the Electronic System of the Electronic System Operator and the adjustment of the business activities of the Electronic System Operator to present equal opportunities for business (equal level of playing field).\nParagraph(4) ...\nSK No 190283A REPUBLIC OF INDONESIA\nParagraph (4) Sufficiently clear.\nParagraph (s) Sufficiently clear.\nParagraph (6) Sufficiently clear.\nItem 15"
+        },
+        "noLabel": {
+          "en": "Article 40"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Paragraph\nParagraph\nParagraph\nParagraph\nParagraph\n(1) What is meant by \"certain Civil Servant Officials\" is Civil Servant Officials of the ministry whose government affairs are in the field of communication and informatics who have fulfilled the requirements under the provisions of laws and regulations.\n(21 Sufficiently clear.\n(3) Sufficiently clear.\n(4) Sufficiently clear.\n(s)\nLetter a\nSufficiently clear.\nLetter b Sufficiently clear.\nLetter c Sufficiently clear.\nLetter d\nSufficiently clear.\nLetter e...\nSK No 190284A ...\nLetter e Sufficiently clear.\nLetter f Sufficiently clear.\nLetter g Sufficiently clear.\nLetter h Sufficiently clear.\nLetter i Sufficiently clear.\nLetter j\nWhat is meant by \"expert\" is a person who has special expertise in the field of Information Technology that can be accounted for both academically and practically regarding his knowledge.\nLetter k Sufficiently clear.\nLetter l\nWhat is meant by \"ordering the Electronic System Operator to carry out termination of Access\" includes ordering the Electronic System Operator to block social media accounts, bank accounts, electronic money, domain names, internet protocol addresses (IP address), and/or digital assets.\nWhat is meant by \"temporary termination of Access\" is the act of blocking Access, closing an account, and/or removing content for as long as required in the law enforcement process.\nParagraph(6)...\nSK No 190285A ... Paragraph Paragraph Paragraph Paragraph Item 16"
+        },
+        "noLabel": {
+          "en": "Article 43"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Paragraph\nParagraph\nParagraph\nParagraph\nParagraph\nParagraph\nParagraph\n(6) Sufficiently clear.\n(7) Sufficiently clear.\n(7a) Sufficiently clear.\n(8) Sufficiently clear.\n(1) Sufficiently clear.\n(2) Sufficiently clear.\n(3) Sufficiently clear.\n(4) Sufficiently clear.\n(s) Sufficiently clear.\n(6) Sufficiently clear.\n(7) Letter a What is meant by \"carried out for the public interest\" is protecting the interest of the public expressed through the right to expression and the right to democracy, for example through demonstrations or criticism.\nIn... SK No 190285A ... In a democratic state, criticism becomes an important matter as part of the freedom of expression that should as far as possible be constructive, even though it contains disagreement with the acts or actions of others.\nBasically, criticism in this article constitutes a form of supervision, correction, and suggestion on matters relating to the public interest.\nLetter b Sufficiently clear.\nParagraph (8) Sufficiently clear.\nParagraph (9) Sufficiently clear.\nParagraph (10) Sufficiently clear.\nParagraph (11) Sufficiently clear.\nItem 17"
+        },
+        "noLabel": {
+          "en": "Article 45"
+        },
+        "dupIndex": 4
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "A Sufficiently clear.\nItem 18"
+        },
+        "noLabel": {
+          "en": "Article 45"
+        },
+        "dupIndex": 5
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "B Sufficiently clear.\nArticle II\nSufficiently clear.\nSUPPLEMENT TO THE STATE GAZETTE OF THE REPUBLIC OF INDONESIA NUMBER 6905 SK No 190287A"
+        },
+        "noLabel": {
+          "en": "Article 45"
+        },
+        "dupIndex": 6
       }
     ]
   };

@@ -1,0 +1,750 @@
+{
+ "id": "ID-H2341",
+ "title": {
+  "zh": "电影审查机构法",
+  "en": "Law on the Film Censorship Board",
+  "id": "LEMBAGA SENSOR FILM",
+  "orig": "LEMBAGA SENSOR FILM",
+  "vi": "Luật về Cơ quan Kiểm duyệt Phim",
+  "th": "พระราชบัญญัติว่าด้วยคณะกรรมการตรวจพิจารณาภาพยนตร์",
+  "ms": "Akta tentang Lembaga Penapisan Filem"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02c",
+ "language": "id",
+ "level": "law",
+ "category": "04_劳工与行政法",
+ "status": "active",
+ "promulgatedDate": "2014",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU18-2014",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 49,
+ "chars": 33190,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PP%20Nomor%2018%20Tahun%202014.pdf&fl=P17032"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\04_劳工与行政法\\印尼_文本_2014_LEMBAGA SENSOR FILM.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 49 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H2341-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\n\nDalam Peraturan Pemerintah ini yang dimaksud dengan:\n1. Film adalah karya seni budaya yang merupakan pranata\nsosial dan media komunikasi massa yang dibuat\nberdasarkan kaidah sinematografi dengan atau tanpa\nsuara dan dapat dipertunjukkan.\n2. Sensor Film adalah penelitian, penilaian, dan penentuan\nkelayakan film dan iklan film untuk diper tunjukkan\nkepada khalayak umum.\n3. Iklan Film adalah bentuk publikasi dan promosi film.\n4. Lembaga Sensor Film yang selanjutnya disingkat LSF\nadalah lembaga yang melakukan penyensoran setiap\nfilm dan iklan film.\n5. Pertunjukan Film adalah pemutaran dan/atau\npenayangan film yang diperuntukkan kepada umum\nmelalui berbagai media.\n6. Kode Etik adalah norma yang memuat standar moral\ndan perilaku anggota LSF dan tenaga sensor.\n7. Tenaga Sensor adalah seseorang yang memiliki\nkompetensi di bidang penyensoran.\n8. Menteri adalah m enteri yang membidangi urusan\nkebudayaan."
+   }
+  },
+  {
+   "id": "ID-H2341-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2 "
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 2 . . .\n\n\n\n\n\n\n\n\n\n\n\n\nPasal 2\n\n(1) Setiap film dan iklan film yang akan diedarkan\ndan/atau dipertunjukkan wajib memperoleh surat\ntanda lulus sensor.\n(2) Film sebagaimana dimaksud pada ayat (1) berbentuk\nfilm cerita atau film noncerita.\n(3) Iklan film sebagaimana dimaksud pada ayat (1)\nberbentuk poster, stillphoto, slide, klise, trailer, banner,\npamflet, brosur, baliho, spanduk, folder, plakat, dan\nsarana publikasi dan promosi lainnya.\n(4) Film sebagaimana dimaksud pada ayat (1) mencakup\nfilm iklan.\n\nBAB II\nPEMBENTUKAN, KEDUDUKAN, DAN KEANGGOTAAN\n\nBagian Kesatu\nPembentukan, Status, dan Tempat Kedudukan"
+   }
+  },
+  {
+   "id": "ID-H2341-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\n\n(1) Pemerintah membentuk LSF untuk  melakukan\npenyensoran film dan iklan film.\n(2) LSF sebagaimana dimaksud pada ayat ( 1) merupakan\nlembaga yang bersif at tetap dan independen yang\nberkedudukan di Ibukota Negara Republik Indonesia.\n(3) LSF berada di bawah dan bertanggung jawab kepada\nPresiden melalui Menteri."
+   }
+  },
+  {
+   "id": "ID-H2341-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4 "
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kesatu"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 4 . . .\n\n\n\n\n\n\n\n\n\n\n\n\nPasal 4\n\n(1) LSF dapat membentuk perwakilan di ibukota provinsi.\n(2) Pembentukan perwakilan sebagaimana d imaksud pada\nayat (1) berdasarkan kriteria yang ditetapkan oleh LSF.\n\nBagian Kedua\nSusunan Organisasi"
+   }
+  },
+  {
+   "id": "ID-H2341-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\n\n(1) Susunan organisasi LSF terdiri atas:\na. ketua merangkap anggota;\nb. wakil ketua merangkap anggota;\nc. anggota; dan\nd. sekretaris bukan anggota.\n(2) Sekretaris sebagaimana dimaksud pada ayat (1) huruf d\nmerupakan pimpinan sekretariat LSF.\n(3) Ketua dan wakil ketua dipilih oleh dan dari anggota\nLSF.\n\nBagian Ketiga\nTugas, Fungsi, dan Wewenang"
+   }
+  },
+  {
+   "id": "ID-H2341-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  6\n\nLSF mempunyai tugas :\na. melakukan penyensoran film dan iklan film se belum\ndiedarkan dan/atau dipertunjukkan kepada khalayak\numum; dan\n\nb. melakukan . . .\n\n\n\n\n\n\n\n\n\n\n\n\nb. melakukan penelitian dan penilaian  judul, tema,\ngambar, adegan, suara, dan teks terjemahan suatu film\ndan iklan film yang akan diedarkan dan/atau\ndipertunjukkan kepada khalayak umum."
+   }
+  },
+  {
+   "id": "ID-H2341-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\n\nUntuk melaksanakan t ugas sebagaimana dimaksud dalam\nPasal 6, LSF mempunyai fungsi:\na. perlindungan terhadap masyarakat dari dampak negatif\nyang timbul dari peredaran dan pertunjukan film dan\niklan film yang tidak sesuai dengan dasar, arah,  dan\ntujuan perfilman Indonesia;\nb. penyusunan pedoman penerbitan dan pembatalan surat\ntanda lulus sensor;\nc. sosialisasi secara intensif pedoman dan kriteria sensor\nkepada pemilik film dan iklan film agar dapat\nmenghasilkan film dan iklan film yang bermutu;\nd. pemberian kemudahan masyarakat dalam memilih dan\nmenikmati pertunjukan film  dan iklan film  yang\nbermutu serta memahami pengaruh film dan iklan film;\ne. pembantuan pemilik film  dan iklan film  dalam memberi\ninformasi yang benar dan lengkap kepada masyarakat\nagar dapat memilih dan menikmati film yang bermutu;\ndan\nf. pemantauan apresiasi masyarakat terhadap film dan\niklan film yang diedarkan, dipertunjukkan dan\nmenganalisis hasil pemantauan tersebut untuk\ndijadikan sebagai bahan pertimbangan dalam\nmelakukan tugas penyensoran beriku tnya dan/atau\ndisampaikan kepada Menteri sebagai bahan\npengambilan kebijakan kearah pengembangan perfilman\ndi Indonesia."
+   }
+  },
+  {
+   "id": "ID-H2341-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8 "
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 8 . . .\n\n\n\n\n\n\n\n\n\n\n\n\nPasal 8\n\nLSF mempunyai wewenang :\na. penentuan penggolongan usia penonton;\nb. pengembalian film dan iklan film yang tidak sesuai\ndengan pedo man dan kriteria penyensoran untuk\ndiperbaiki oleh pemillik film dan iklan film;\nc. penyensoran ulang ( re-censor) film dan iklan film yang\nsudah diperbaiki oleh pemilik film dan iklan film sesuai\npedoman dan kriteria penyensoran;\nd. pemberian surat tanda lulus  sensor yang dibubuhkan\nuntuk setiap kopi-jadi film dan iklan film yang\ndinyatakan telah lulus sensor;\ne. pembatalan surat tanda lulus sensor;\nf. pengusulan sanksi administratif kepada Pemerintah\nterhadap pelaku kegiatan perfilman atau pelaku usaha\nperfilman y ang melanggar ketentuan sebagaimana\ndimaksud dalam Undang -Undang tentang Perfilman ;\ndan\ng. pelaporan kegiatan sensor film dan iklan film baik yang\nlulus dan yang tidak lulus sensor kepada Presiden\nmelalui Menteri secara periodik."
+   }
+  },
+  {
+   "id": "ID-H2341-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n\nDalam pelaksanaan tugas LSF dibantu oleh sekretariat LSF\ndan Tenaga Sensor."
+   }
+  },
+  {
+   "id": "ID-H2341-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10 "
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 10 . . .\n\n\n\n\n\n\n\n\n\n\n\n\nPasal 10\n\n(1) LSF dalam melaksanakan tugas  sebagaimana dimaksud\ndalam Pasal 6  berpedoman pada tata kerja dan tata\nlaksana.\n(2) Ketentuan mengenai tata kerja dan tata laksana\nsebagaimana dimaksud pada  ayat (1) diatur dalam\nPeraturan LSF.\n\nBagian Keempat\nKeanggotaan"
+   }
+  },
+  {
+   "id": "ID-H2341-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\n\n(1) LSF beranggotakan 17 (tujuh belas) orang yang terdiri\natas 12 (dua belas) orang unsur masyarakat dan 5 (lima)\norang unsur Pemerintah.\n(2) Unsur masyarakat sebagaimana dimaksud pada ay at (1)\nmemiliki kepakaran di bidang:\na. pendidikan;\nb. perfilman;\nc. kebudayaan;\nd. hukum;\ne. teknologi informasi;\nf. pertahanan dan keamanan;\ng. bahasa;\nh. agama; dan/atau\ni. kepakaran lain yang relevan.\n\n(3) Unsur . . .\n\n\n\n\n\n\n\n\n\n\n\n\n(3) Unsur Pemerintah sebagaimana dimaksud pada ayat (1),\nterdiri atas kementerian/lembaga yang\nmenyelenggarakan urusan pemerintahan di bidang:\na. pendidikan 1 (satu) orang;\nb. kebudayaan1 (satu) orang;\nc. komunikasi dan informasi 1 (satu) orang;\nd. agama 1 (satu) orang; dan\ne. ekonomi kreatif 1 (satu) orang.\n(4) Untuk dapat diangkat sebagai anggota LS F harus\nmemenuhi syarat sebagai berikut:\na. warga negara Republik Indonesia berusia paling\nrendah 35 (tiga puluh lima) tahun dan paling tinggi\n70 (tujuh puluh) tahun;\nb. setia kepada Pancasila dan Undang -Undang Dasar\nNegara Republik Indonesia Tahun 1945;\nc. memahami asas, tujuan, dan fungsi perfilman;\nd. memiliki kecakapan dan wawasan dalam ruang\nlingkup tugas penyensoran; dan\ne. dapat melaksanakan tugasnya secara penuh waktu."
+   }
+  },
+  {
+   "id": "ID-H2341-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n\n(1) Masa jabatan anggota LSF selama 4 (empat) tahun dan\ndapat diangkat kembali untuk 1 (s atu) kali masa\njabatan.\n(2) Pengangkatan dan pemberhentian anggota LSF\nditetapkan dengan Keputusan Presiden."
+   }
+  },
+  {
+   "id": "ID-H2341-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13 "
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 13 . . .\n\n\n\n\n\n\n\n\n\n\n\n\nPasal 13\n\nCalon anggota LSF diseleksi oleh panitia seleksi anggota\nLSF."
+   }
+  },
+  {
+   "id": "ID-H2341-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\n\n(1) Panitia seleksi sebagaimana dimaksud dalam  Pasal 1 3\nberasal dari  pemangku kepentingan perfilman yang\ndibentuk dan ditetapkan oleh Menteri.\n(2) Pemangku kepentingan perfilman sebagaimana\ndimaksud pada ayat (1) terdiri atas:\na. Pemerintah dan pemerintah daerah\nb. pelaku kegiatan perfilman;\nc. pelaku usaha perfilman; dan\nd. masyarakat.\n(3) Panitia seleksi beranggotakan paling sedikit 5 (lima)\norang dan berjumlah gasal.\n(4) Panitia seleksi dalam memilih calon anggota LSF bekerja\nsecara jujur, terbuka, dan objektif.\n(5) Panitia seleksi sebagaimana dimaksud dalam Pasal 1 3\nbertanggung jawab kepada Menteri."
+   }
+  },
+  {
+   "id": "ID-H2341-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\n\n(1) Menteri mengajukan 2 ( dua) kali jumlah calon anggota\nLSF kepada Presiden.\n(2) Presiden mengangkat 17 (tujuh belas) anggota LSF\nsetelah berkonsultasi dengan Dewan Perwakilan Rakyat."
+   }
+  },
+  {
+   "id": "ID-H2341-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16 "
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 16 . . .\n\n\n\n\n\n\n\n\n\n\n\n\nPasal 16\n\n(1) Sebelum memangku jabatannya, anggota LSF\nmengucapkan sumpah atau janji.\n(2) Pengucapan sumpah atau janji bagi para anggota LSF\ndilakukan dihadapan Menteri."
+   }
+  },
+  {
+   "id": "ID-H2341-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\n\n(1) Anggota LSF berhenti karena:\na. berakhir masa jabatannya;\nb. mengundurkan diri dan/atau ditarik oleh\nkementerian/lembaga yang mengusulkannya; atau\nc. meninggal dunia.\n(2) Selain sebagaimana dimaksud pada ayat (1) anggota\nLSF diberhentikan karena:\na. tidak lagi memenuhi persyaratan sebagai anggota\nLSF;\nb. dinyatakan melanggar sumpah/janji atau kode etik;\nc. menyalahgunakan wewenang sebagai anggota LSF\nberdasarkan putusa n pengadilan yang telah\nmemiliki kekuatan hukum tetap;\nd. dijatuhi pidana berdasarkan putusan pengadilan\nyang telah memperoleh kekuatan hukum tetap;\ne. berhalangan tetap atau secara terus menerus selama\n3 (tiga) bulan tidak dapat melaksanakan tugasnya;\natau\nf. tidak melaksanakan tugas dan fungsinya secara\nindependen sebagaimana dimaksud dalam Pasal  6\ndan Pasal 7."
+   }
+  },
+  {
+   "id": "ID-H2341-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18 "
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 18 . . .\n\n\n\n\n\n\n\n\n\n\n\n\nPasal 18\n\nMenteri mengusulkan pemberhentian anggota LSF\nsebagaimana dimaksud dalam Pasal 15 kepada Presiden."
+   }
+  },
+  {
+   "id": "ID-H2341-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\n\n(1) Dalam hal anggota LSF berhenti dan diberhentikan\nsebagaimana dimaksud dalam Pasal 17 ayat (1) huruf b,\nhuruf c, dan ayat (2) dapat dilakukan penggantian\nantarwaktu.\n(2) Masa jabatan pengganti antarwaktu adalah sampai\ndengan berakhirnya masa  keanggotaan LSF yang\ndigantikan.\n(3) Penggantian antar waktu sebagaimana dimaksud pada\nayat (2) selama kurang dari 2 (dua) tahun tidak dihitung\nsebagai periode masa jabatan."
+   }
+  },
+  {
+   "id": "ID-H2341-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\n\n(1) Calon pengganti antarwaktu anggota LSF harus:\na. tercantum dalam daftar calon anggota LSF pada saat\npemilihan calon anggota LSF;\nb. berasal dari unsur yang sama;\nc. memenuhi syarat calon anggota LSF; dan\nd. bersedia dicalonkan.\n(2) Dalam hal calon pengganti antarwaktu dari unsur yang\nsama sebagaimana dimaksud pada ayat (1) huruf b\ntidak terpenuhi, Menteri mengusulkan kepada Presiden\ncalon pengganti antarwaktu tanpa melalui proses seleksi\nsebagaimana diatur dalam Pasal 14 dan Pasal 15.\n\nBagian  . . .\n\n\n\n\n\n\n\n\n\n\n\n\nBagian Kelima\nKode Etik dan Komite Etik"
+   }
+  },
+  {
+   "id": "ID-H2341-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\n\n(1) LSF menyusun Kode Etik yang berisi norma yang wajib\ndipatuhi oleh setiap anggota LSF dan Tenaga S ensor\nselama menjalankan tugasnya untuk menjaga martabat,\nkehormatan, citra, dan kredibilitas LSF.\n(2) Ketentuan mengenai K ode Etik sebagaimana dimaksud\npada ayat (1) diatur dengan Peraturan LSF."
+   }
+  },
+  {
+   "id": "ID-H2341-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\n\n(1) Dalam hal terjadi pelanggaran terhadap Kode Etik,\nMenteri dapat mem bentuk komite etik yang bersifat ad\nhoc.\n(2) Anggota komite e tik berjumlah paling sedikit 9\n(sembilan) orang yang memiliki pengalaman dan\npengetahuan tentang etika penyensoran serta\nmerupakan tokoh-tokoh masyarakat.\n\nBAB III\nPEDOMAN DAN KRITERIA PENYENSORAN\n\nBagian Kesatu\nUmum"
+   }
+  },
+  {
+   "id": "ID-H2341-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\n\n(1) LSF melaksanakan penyensoran berdasarkan pedoman\ndan kriteria penyensoran film.\n(2) LSF . . .\n\n\n\n\n\n\n\n\n\n\n\n\n(2) LSF dapat melibatkan tenaga ahli dan wakil organisasi\nkemasyarakatan untuk memberi masukan terhadap film\nyang disensor.\n(3) Dalam melaksanakan penyen soran film sebagaimana\ndimaksud pad a ayat (1) LSF dapat mengenakan  tarif\npenyensoran."
+   }
+  },
+  {
+   "id": "ID-H2341-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 24\n\n(1) Setiap film dan iklan film yang akan diedarkan\ndan/atau dipertunjukkan kepada khalayak umum wajib\ndisensor terlebih dahulu oleh LSF.\n(2) Prosedur penyensoran dilakukan sebagai berikut:\na. pemilik film  dan iklan film  mendaftarkan film  dan\niklan film ke LSF;\nb. film dan iklan film diteliti dan dinilai serta\nditentukan kelayakannya oleh LSF dan dilabeli\ndengan surat tanda lulus sensor atau tidak lulus\nsensor;\nc. film dan iklan film yang tidak lulus sensor\ndikembalikan kepada pemilik film dan iklan film\nuntuk diperbaiki; dan\nd. film dan iklan film sudah diperbaiki oleh pemilik film\ndan iklan film dapat diajukan lagi untuk diteliti dan\ndinilai kembali oleh LSF.\n(3) Proses penyensoran fil m dan iklan film dilaksanakan\noleh kelompok penyensor yang terdiri atas:\na. anggota LSF; dan\nb. Tenaga Sensor.\n\n\n\n(4) Dalam . . .\n\n\n\n\n\n\n\n\n\n\n\n\n(4) Dalam hal terjadi perbedaan pendapat di antara\nkelompok penyensor atas suatu film dan iklan film\nditeruskan ke sidang pleno untuk mendapatkan\nkeputusan.\n(5) Setiap film dan iklan film yang telah dinyatakan lulus\nsensor diterbitkan surat tanda lulus sensor."
+   }
+  },
+  {
+   "id": "ID-H2341-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\n\n(1) Penyensoran film dan iklan film dilakukan berdasarkan\nprinsip dialogis dengan pemilik film dan iklan film yang\ndisensor.\n(2) Selain hal sebag aimana dimaksud pada ayat ( 1),\npenyensoran dimaksudkan pula sebagai sarana\npemelihara tata nilai dan budaya bangsa agar dapat\nterjaga dan berkembang sesuai dengan kepribadian\nbangsa Indonesia.\n(3) Penyensoran sebagai mata rantai pembinaan diarahkan\nguna menumbuhkan kemampuan untuk mengendalikan\ndiri di kalangan insan perfilman dalam berkarya dan\nberkreasi sebagai perwujudan tanggung jawab, harkat,\ndan martabat bangsa."
+   }
+  },
+  {
+   "id": "ID-H2341-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\n\nPelaksanaan penyensoran oleh LSF dilakukan dengan\npenuh rasa tanggung jawab dan mem perhatikan sifat\nkontekstual sebuah film, kemajuan teknologi serta\nperkembangan tata nilai di dalam masyarakat."
+   }
+  },
+  {
+   "id": "ID-H2341-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27 "
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 27 . . .\n\n\n\n\n\n\n\n\n\n\n\n\nPasal 27\n\n(1) Surat tanda lulus sensor sebagaimana dimaksud dalam\nPasal 2 4 ayat (5) dikeluarkan ol eh LSF dan\nditandatangani oleh Ketua LSF.\n(2) Dalam hal Ketua LSF sebagaimana dimaksud pada ayat\n(1) berhalangan, baik berhalangan tetap maupun\nberhalangan tidak tetap, surat tanda lulus sensor\nditandatangani oleh Wakil Ketua LSF."
+   }
+  },
+  {
+   "id": "ID-H2341-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\n\n(1) Film dan iklan film yang sudah selesai disensor\ndigolongkan ke dalam usia penonton film sebagai\nberikut:\na. untuk penonton semua umur;\nb. untuk penonton usia 13 (tiga belas) tahun atau\nlebih;\nc. untuk penonton usia 17 (tujuh belas) tahun atau\nlebih; dan\nd. untuk penonton usia 21 (dua puluh satu) tahun\natau lebih.\n(2) LSF menetapkan kelayakan film dan iklan film ke dalam\npenggolongan usia penonton seb agaimana dimaksud\npada ayat (1).\n\nBagian Kedua\nPedoman Penyensoran"
+   }
+  },
+  {
+   "id": "ID-H2341-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\n\n(1) Penyensoran dilakukan dengan meneliti dan menilai\nfilm dan iklan film berpedoman kepada asas, tujuan ,\ndan fungsi p erfilman sebagaimana dimaksud dalam\nUndang-Undang tentang Perfilman.\n(2) Penyensoran . . .\n\n\n\n\n\n\n\n\n\n\n\n\n(2) Penyensoran sebagaimana dimaksud  pada ayat (1)\nmeliputi isi film dan iklan film dari segi:\na. kekerasan, perjudian, dan narkotika;\nb. pornografi;\nc. suku, ras, kelompok, dan/atau golongan;\nd. agama;\ne. hukum;\nf. harkat dan martabat manusia; dan\ng. usia penonton film.\n\nBagian Ketiga\nKriteria Penyensoran"
+   }
+  },
+  {
+   "id": "ID-H2341-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\n\n(1) Kriteria penyensoran terhadap isi film dan iklan film\ndari segi kekerasan sebagaimana dimaksud dalam\nPasal 29 ayat (2) huruf a meliputi adegan visual, dialog,\ndan/atau monolog yang dapat mendorong penonton\nbersimpati pada pelaku yang melakukan kekerasan\nsadis terhadap manusia dan hewan.\n(2) Kriteria penyensoran terhadap isi film dan iklan film\ndari segi perjudian sebagaimana dimaksud dalam\nPasal 29 ayat (2) huruf a meliputi adegan pelaksanaan\nberjudi berulang -ulang dan teknik berjudi secara\nberlebihan.\n(3) Kriteria penyensoran terhadap isi film dan iklan film\ndari segi narkotika sebagaimana dimaksud dalam\nPasal 29 ayat (2) huruf a meliputi adegan teknik\npenggunaan narkotika, psikotropika dan zat adiktif\nlainnya secara vulgar dan mudah ditiru.\n\n(4) Kriteria . . .\n\n\n\n\n\n\n\n\n\n\n\n\n(4) Kriteria penyensoran terhadap isi film dan iklan film\ndari segi pornografi sebagaimana dimaksud dalam\nPasal 29 ayat (2) huruf b meliputi adegan visual, dialog,\ndan/atau monolog yang menampilkan nafsu seks secara\nvulgar dan berlebihan.\n(5) Kriteria penyensoran terhadap isi film dan iklan film\ndari segi suku, ras, kelompok, dan/atau golongan\nsebagaimana dimaksud dalam Pasal 29 ayat (2) huruf c\nmeliputi adegan visual , dialog, dan/atau monolog yang\ndapat mengadu domba antar komunitas politik atau\nkomunitas so sial, dan dapat menampilkan kesan\nmendeskreditkan dan/atau merendahkan suku, ras,\nkelompok dan/atau golongan.\n(6) Kriteria penyensoran terhadap isi  film dan iklan film\ndari segi agama sebagaimana dimaksud dalam Pasal 29\nayat (2) huruf d meliputi adegan visual, dialog, dan/atau\nmonolog yang dapat merusak kerukunan hidup\nberagama, yang memperolok -olok dan/atau\nmeremehkan kesucian agama atau simbol agama.\n(7) Kriteria penyensoran terhadap isi film dan iklan film\ndari segi hukum sebagaimana dimaksud dalam Pasal 29\nayat (2) huruf e meliputi adegan visual, dialog, dan/atau\nmonolog yang dapat mendorong penonton melakukan\ntindakan melawan hukum dan/atau anarkis t erhadap\nPancasila, Undang -Undang Dasar Negara Republik\nIndonesia Tahun 1945, Bhineka Tunggal Ika, Negara\nKesatuan Republik Indonesia, dan/atau lambang\nnegara.\n(8) Kriteria penyensoran terhadap isi film dan iklan film\ndari segi harkat dan martabat manusia seba gaimana\ndimaksud dalam Pasal 29 ayat (2) huruf f meliputi\nadegan visual, dialog dan/atau monolog yang melanggar\nhak asasi manusia.\n(9) Kriteria . . .\n\n\n\n\n\n\n\n\n\n\n\n\n(9) Kriteria penyensoran terhadap isi film dan iklan film\nyang dikaitkan dengan usia penonton sebagaimana\ndimaksud dalam Pasal 28  meliputi adegan visual dan\ndialog, dan/atau monolog yang layak atau tidak layak\ndipertontonkan."
+   }
+  },
+  {
+   "id": "ID-H2341-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\n\nKetentuan lebih lanjut mengenai p edoman dan kriteria\npenyensoran seb agaimana dimaksud dalam Pasal 29 dan\nPasal 30 diatur dengan Peraturan Menteri.\n\nBagian Keempat\nPenggolongan Usia"
+   }
+  },
+  {
+   "id": "ID-H2341-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 32\n\nFilm dan iklan film yang telah disensor disertai\npencantuman penggolongan usia penonton yang meliputi:\na. untuk penonton semua umur;\nb. untuk penonton usia 13 (tiga belas) tahun atau lebih;\nc. untuk penonton usia 17 (tuj uh belas) tahun atau lebih;\ndan\nd. untuk penonton usia 21 (dua puluh satu) tahun atau\nlebih."
+   }
+  },
+  {
+   "id": "ID-H2341-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 33\n\nFilm dan iklan film digolongkan untuk penonton semua\numur apabila memenuhi kriteria:\na. dibuat dan ditujukan untuk penonton semua umur\ndengan penekanan pada anak-anak;\nb. berisi . . .\n\n\n\n\n\n\n\n\n\n\n\n\nb. berisi tema, judul, adegan visual, serta dialog dan/atau\nmonolog sesuai usia dan tidak merugikan\nperkembangan dan kesehatan fisik dan jiwa anak-anak;\nc. mengandung unsur pendidikan, budaya, budi pekerti,\nhiburan sehat, apresiasi estetika dan/atau m endorong\nrasa ingin tahu mengenai lingkungan;\nd. tidak mempertontonkan adegan kekerasan, baik fisik\nmaupun dialog dan/atau monolog, yang mengakibatkan\nmudah ditiru/diikuti oleh anak-anak;\ne. tidak mempertontonkan adegan yang memperlihatkan\nperilaku atau situasi membahayakan yang mudah\nditiru/diikuti oleh anak-anak;\nf. tidak mengandung adegan visual dan/atau dialog\ndan/atau monolog yang dapat mendorong anak meniru\nperilaku seks, bersikap tidak sopan kepada orang tua\ndan/atau guru, memaki orang lain dan/atau\nmenggunakan kata -kata kasar serta adegan anti sosial\nseperti tamak, licik, dan/atau dusta;\ng. tidak mengandung muatan yang membuat a nak-anak\npercaya kepada klenik atau ilmu gaib/perdukunan ,\nspiritual magis, mistis, dan tahayul yang bertentangan\ndengan norma agama;\nh. tidak mengandung adegan visual horor dan sadis;\ndan/atau\ni. tidak menampilkan adegan visual , dialog, dan/atau\nmonolog yang dapat mengganggu perkembangan jiwa\nanak seperti  perselingkuhan, bunuh diri, perjudian,\npenggunaan narkotika dan zat adiktif lainnya."
+   }
+  },
+  {
+   "id": "ID-H2341-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34 "
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 34  . . .\n\n\n\n\n\n\n\n\n\n\n\n\nPasal 34\n\nFilm dan iklan film digolongkan untuk penonton usia 13\n(tiga belas) tahun atau lebih apabila memenuhi kriteria:\na. mengandung nilai pendidikan, budi pekerti, apresiasi,\nestetika, kreatifitas, dan pertumbuhan rasa ingin tahu\nyang positif;\nb. berisi tema, judul, adegan visual serta dialog dan/atau\nmonolog yang sesuai dengan penonton berusia\nperalihan dari anak-anak ke remaja; dan/atau\nc. tidak menampilkan adegan yang peka untuk ditiru oleh\nusia peralihan dari anak -anak ke remaja seperti adegan\nberbahaya serta adegan pergaulan bebas antar manusia\nyang berlainan jenis maupun sesama jenis."
+   }
+  },
+  {
+   "id": "ID-H2341-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 35\n\nFilm dan iklan film digolongkan untuk penonton usia 17\n(tujuh belas) tahun atau lebih apabila memenuhi kriteria:\na. mengandung nilai pendidikan, budaya, budi pekerti,\napresiasi, estetika, dan/atau pertumbuhan rasa ingin\ntahu yang positif;\nb. berisi tema, judul, adegan visual serta dialog dan/atau\nmonolog yang sesuai dengan penonton berusia 17 (tujuh\nbelas) tahun ke atas;\nc. berkaitan dengan seksualitas yang disajikan secara\nproporsional dan edukatif;\nd. berkaitan dengan kekerasan yang disajikan secara\nproporsional; dan/atau\ne. tidak menampilkan adegan sadisme."
+   }
+  },
+  {
+   "id": "ID-H2341-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36 "
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 36 . . .\n\n\n\n\n\n\n\n\n\n\n\n\nPasal 36\n\nFilm dan iklan film digolongkan untuk penonton usia 21\n(dua puluh satu)  tahun atau lebih apabila memenuhi\nkriteria:\na. judul, tema, adegan visual, dan/atau dialog dan/atau\nmonolog yang ditujukan untuk orang dewasa;\nb. tema dan permasalahan keluarga;\nc. adegan visual dan dialog tentang seks serta kekerasan\ndan sadisme tidak berlebihan;\nd. penayangan di televisi setelah pukul 2 3.00 sampai\ndengan pukul 03.00 waktu setempat; dan/atau\ne. pertunjukan hanya di gedung bioskop , kecuali untuk\nkegiatan apresiasi film atau pertunjukan film untuk\ntujuan pendidikan dan/atau penelitian."
+   }
+  },
+  {
+   "id": "ID-H2341-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 37\n\nKetentuan lebih lanjut mengenai kriteria penggolongan usia\nsebagaimana dimaksud Pasal 32 sampai dengan Pasal 3 6\ndiatur dengan Peraturan Menteri.\n\nBagian Kelima\nPenarikan Peredaran Film dan Iklan Film"
+   }
+  },
+  {
+   "id": "ID-H2341-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 38\n\n(1) Film dan iklan film yang sudah lulus sensor dapat\nditarik dari peredaran oleh Menteri berda sarkan\npertimbangan LSF apabila menimbulkan gangguan\nterhadap keamanan, ketertiban, ketentraman atau\nkeselarasan hidup masyarakat.\n(2) Ketentuan . . .\n\n\n\n\n\n\n\n\n\n\n\n\n(2) Ketentuan mengenai penarikan film dan iklan film dari\nperedaran diatur dalam Peraturan Menteri.\n\nBAB IV\nSEKRETARIAT LEMBAGA SENSOR FILM"
+   }
+  },
+  {
+   "id": "ID-H2341-A39",
+   "no": 39,
+   "noLabel": {
+    "id": "Pasal 39"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 39\n\n(1) Sekretariat LSF dipimpin oleh Sekretaris LSF.\n(2) Sekretaris LSF sebagaimana dimaksud pada ayat (1)\nberasal dari pegawai negeri sipil.\n(3) Sekretariat LSF mempunyai tugas memberikan\ndukungan administratif dan teknis kepada LSF.\n(4) Sekretariat L SF secara administratif bertanggungjawab\nkepada Menteri.\n(5) Sekretaris LSF sebagaimana dimaksud pada  ayat (2 )\ndiangkat dan diberhentikan oleh Menteri.\n(6) Ketentuan lebih lanjut mengenai organisasi dan tata\nkerja sekretariat LSF ditetapkan oleh Menteri setelah\nmendapatkan persetujuan tertulis dari menteri yang\nmenyelenggarakan urusan pemerintah an di bidang\npendayagunaan aparatur negara dan reformasi\nbirokrasi."
+   }
+  },
+  {
+   "id": "ID-H2341-A40",
+   "no": 40,
+   "noLabel": {
+    "id": "Pasal 40"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 40\n\nDalam melaksanakan t ugas sebagaimana dimaksud dalam\nPasal 39 ayat (1), Sekretariat LSF mempunyai fungsi:\na. penyusunan dan pelaksanaan bahan rumusan\nkebijakan di bidang penyensoran;\nb. penyusunan rencana dan program;\nc. pengelolaan . . .\n\n\n\n\n\n\n\n\n\n\n\n\nc. pengelolaan urusan sumber daya; dan\nd. pengelolaan urusan umum.\n\nBAB V\nTENAGA SENSOR"
+   }
+  },
+  {
+   "id": "ID-H2341-A41",
+   "no": 41,
+   "noLabel": {
+    "id": "Pasal 41"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 41\n\n(1) Untuk melaksanakan tugas dan fungsinya, LSF dibantu\noleh Tenaga Sensor yang memiliki tugas penyensoran:\na. melaksanakan penelitian, penilaian, dan analisa\nterhadap suatu film dan iklan film untuk\ndipertunjukkan, ditayangkan, dan/atau diedarkan\nkepada khalayak umum;\nb. memantau hasil penyensoran yang diper tunjukkan,\nditayangkan, dan/atau diedarkan kepada khalayak\numum melalui layar lebar, televisi, dan jaringan\nteknologi informatika;\nc. melaporkan hasil penelitian, penilaian, dan\npemantauan kepada LSF.\n(2) Tenaga Sensor sebagaimana dimaksud pada ayat (1)\nberasal dari pegawai negeri sipil dan/atau bukan\npegawai negeri sipil.\n(3) Tenaga Sensor sebagaimana dimaksud pada ayat (1)\nterdiri atas:\na. Tenaga Sensor yang berkedudukan di pusat; dan\nb. Tenaga S ensor yang berkedudukan di ibu kota\nprovinsi.\n\n(4) Tenaga . . .\n\n\n\n\n\n\n\n\n\n\n\n\n(4) Tenaga Sensor yang berkedu dukan di pusat\nsebagaimana dimaksud pada ayat (2) huruf a berjumlah\npaling banyak 45 (empat puluh lima) orang.\n(5) Tenaga S ensor yang berkedudukan di ibu kota provinsi\nsebagaimana dimaksud pada ayat (2) huruf b berjumlah\npaling banyak 15 (lima belas) orang."
+   }
+  },
+  {
+   "id": "ID-H2341-A42",
+   "no": 42,
+   "noLabel": {
+    "id": "Pasal 42"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 42\n\n(1) Tenaga S ensor sebagaimana dimaksud dalam Pasal 41\nharus memenuhi syarat:\na. warga negara Republik Indonesia;\nb. setia kepada Pancasila dan Undang -Undang Dasar\nNegara Republik Indonesia Tahun 1945;\nc. memahami asas, tujuan, dan fungsi perfilman;\nd. memiliki kom petensi di bidang penyensoran  sesuai\ndengan ketentuan peraturan perundang-undangan;\ne. dapat melaksanakan tugasnya secara penuh waktu;\nf. memiliki pe mahaman tentang budaya daerah dan\nkearifan lokal; dan\ng. mampu melakukan penilaian terhadap isi film.\n(2) Tenaga Sensor dipilih melalui seleksi oleh panitia\nseleksi.\n(3) Panitia seleksi sebagaimana dimaksud pada ayat (2)\nditetapkan oleh Menteri.\n(4) Tenaga Sensor yang terpilih diangkat oleh Menteri."
+   }
+  },
+  {
+   "id": "ID-H2341-A43",
+   "no": 43,
+   "noLabel": {
+    "id": "Pasal 43 "
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 43 . . .\n\n\n\n\n\n\n\n\n\n\n\n\nPasal 43\n\n(1) Tenaga Sensor sebelum melaksanakan tugas, wajib\nmengucapkan sumpah atau janji.\n(2) Pengambilan sumpah atau janji bagi para Tenaga\nSensor film dilakukan oleh Ketua LSF\n\nBAB VI\nPENDANAAN"
+   }
+  },
+  {
+   "id": "ID-H2341-A44",
+   "no": 44,
+   "noLabel": {
+    "id": "Pasal 44"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 44\n\n(1) LSF dibiayai dari a nggaran pendapatan dan belanja\nnegara.\n(2) Selain dibiayai dari anggaran pendapatan dan belanja\nnegara, LSF dapat didukung oleh anggaran pendapatan\ndan belanja daerah.\n\nBAB VII\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H2341-A45",
+   "no": 45,
+   "noLabel": {
+    "id": "Pasal 45"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 45\n\nPada saat P eraturan Pemerintah ini berlaku , anggota LSF\nyang diangkat berdasarkan Peraturan Pemerintah Nomor 7\nTahun 1994 tentang Lembaga Sensor Film tetap\nmenjalankan tugas dan fungsinya sampai dengan\npengambilan sumpah  atau janji para anggota LSF\nberdasarkan Peraturan Pemerintah ini.\n\n\n\n\nBAB VIII . . .\n\n\n\n\n\n\n\n\n\n\n\n\nBAB VIII\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H2341-A46",
+   "no": 46,
+   "noLabel": {
+    "id": "Pasal 46"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 46\n\nSemua peraturan pelaksanaan dari Peraturan Pemerintah\nNomor 7 Tahun 1994 tentang Lembaga  Sensor Film\n(Lembaran Negara Republi k Indonesia Tahun 1994 Nomor\n12) dinyatakan masih tetap berlaku sepanjang tidak\nbertentangan atau belum diganti dengan peraturan yang\nbaru berdasarkan Peraturan Pemerintah ini."
+   }
+  },
+  {
+   "id": "ID-H2341-A47",
+   "no": 47,
+   "noLabel": {
+    "id": "Pasal 47"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 47\n\nSemua peraturan pelaksanaan Per aturan Pemerintah ini\nharus ditetapkan paling lambat 1 (satu) tahun sejak\nPeraturan Pemerintah ini diundangkan."
+   }
+  },
+  {
+   "id": "ID-H2341-A48",
+   "no": 48,
+   "noLabel": {
+    "id": "Pasal 48"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 48\n\nPada saat Peraturan Pemerintah ini mulai berlaku,\nPeraturan Pemerintah Nomor 7 Tahun 1994 tentang\nLembaga Sensor Film (Lembaran Negara Republik Indonesia\nTahun 1994 Nomor 12)  dicabut dan dinyatakan tidak\nberlaku."
+   }
+  },
+  {
+   "id": "ID-H2341-A49",
+   "no": 49,
+   "noLabel": {
+    "id": "Pasal 49"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 49\n\nPeraturan Pemerintah ini mulai berlaku pada tanggal\ndiundangkan.\n\n\n\nAgar . . .\n\n\n\n\n\n\n\n\n\n\n\n\nAgar setiap orang mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan\npenempatannya dalam Lembaran Negara Republik\nIndonesia.\n\nDitetapkan di Jakarta\npada tanggal 11 Maret 2014\n  PRESIDEN REPUBLIK INDONESIA,\n\n  ttd.\n\nDR. H. SUSILO BAMBANG YUDHOYONO\n\nDiundangkan di Jakarta\npada tanggal 11 Maret 2014\nMENTERI HUKUM DAN HAK ASASI MANUSIA\n         REPUBLIK INDONESIA,\n\n         ttd.\n\n AMIR SYAMSUDIN\n\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2014 NOMOR 48\n\n\n\n\n\n\nPENJELASAN\nATAS\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nNOMOR 18 TAHUN 2014\nTENTANG\nLEMBAGA SENSOR FILM\n\n\nI. UMUM\nKesadaran manusia akan kebutuhan hiburan memberi peluang besar\npada industri perfilman untuk mengembangkan usahanya dalam\nmelayani masyarakat. Pe rkembangan industri perfilman menjadi salah\nsatu aspek signifikan dalam pergerakan roda perekonomian negara. Pada\nbeberapa negara industri justru menjadi salah satu ujung tombak\nperekonomian negaranya.\nIndonesia memiliki kondisi yang berbeda dengan negara -negara yang\nmenjadi pelaku utama industri perfilman global. Kondisi Indonesia yang\nmemiliki keterbatasan aspek produksi film nasional menjadikan negara ini\nlebih banyak me ngakses komoditi film dari luar/ mengimpor film. Hal ini\ntentu saja sangat berpengaru h pada perkembangan dan pembangunan\nindustri perfilman nasional. Pengaruh yang dibawa oleh film dari luar\ntidak hanya berupa pengaruh dalam makna sistem dan teknis semata,\nnamun juga pengaruh dalam makna ideologis. Bentuk ideologis itu bisa\nberupa nilai da n norma yang berbeda dengan ketetapan hukum di\nIndonesia. Perbedaan ini baik secara langsung maupun tak langsung akan\nberimbas pada dekonstruksi dan perubahan nilai dan norma yang belum\ntentu bermakna positif bagi masyarakat, bangsa, dan negara.\n\n\n\nFilm . . .\n\n\n\n\n\n\n\n\nFilm sebagai sebuah komoditas informasi hiburan tidak dapat\ndipisahkan dari nilai -nilai, norma , dan budaya yang dibawanya.\nPerkembangan perfilman sedikit banyak tentu saja akan mempengaruhi\npola dan gaya hidup masyarakat yang mengaksesnya. Hadirnya nilai dan\nnorma baru ini merupakan aspek -aspek yang mempunyai potensi\nmembentuk budaya baru atau merubah budaya yang sudah ada.\nBeberapa aspek tersebut mungkin tidak sesuai dengan nilai dan norma\nluhur yang sudah ada di Indonesia dan telah terwariskan dari generasi ke\ngenerasi.\nNilai yang dibawa dalam film tidak selalu berasal dari ideologi barat,\ntidak selalu berasal dari film impor saja. Nilai dan norma yang tidak\nsesuai dengan budaya Indonesia juga sangat mungkin berasal dari film\nproduksi dalam negeri. Kondisi ini tentu saja harus mendapatkan\nperhatian serius dari Pemerintah dan masyarakat. Sebuah upaya untuk\nmenciptakan filter budaya bangsa dari rongrongan budaya luar dan dalam\nyang bersifat destruktif dan sudah selayaknya menjadi prioritas dalam\nkonteks pembangunan perfilman nasional.\nPenyensoran dilaksanakan dengan prinsip dialog dengan pemilik film\nyang disensor yaitu pelaku kegiatan perfilman, pelaku usaha perfilman,\nperwakilan diplomatik atau badan internasional yang diakui Pemerintah.\nFilm yang mengandung tema , gambar, adegan, suara, dan teks\nterjemahan yang tidak sesuai dengan pedoman dan kriteria sensor\ndikembalikan kepada pemilik film untuk diperbaiki sesuai dengan\npedoman dan kriteria sensor. Selain masyarakat wajib dilindungi dari\npengaruh negatif film, masyarakat juga diberi kesempatan untuk berperan\nserta dalam perfilman, baik secara perseorangan maupun secara\nkelompok.\nLembaga Sensor Film (LSF) pada dasarnya diperlukan untuk\nmelindungi masyarakat dari beberapa persoalan di atas. LSF harus dapat\nmelakukan fungsinya sebagai sensor yang profesional.\n\n\nFilm . . .\n\n\n\n\n\n\n\n\nFilm sebagai sebuah kesatuan narasi audio -visual tidak bisa dipilah\nmenjadi bagian kecil yang terpisah. Film memiliki kesatuan makna yang\nhanya bisa diidentifikasi dalam sebuah urutan narasi dari awal sampai\npada akhir. Hal inilah yang menjadikan tugas LSF lebih bersifat terurai\ndan jelas. Penghilangan sebuah adegan yang substansial akan\nmenghilangkan makna film itu sendiri. Masalah ketidakjelasan ini akan\nmengundang persepsi yang beragam dan multitafsir atas  kandungan isi\nfilm dan iklan film di Indonesia. Untuk maksud tersebut dibentuk\nPeraturan Pemerintah yang memberikan landasan hukum dan kepastian\nhukum.\nPenyensoran film dilakukan oleh sumber daya manusia yang memiliki\nkompetensi dan keahlian dalam penelit ian, penilaian, dan penentuan\nkelayakan film dan iklan film untuk dipertunjukkan kepada khalayak\numum.\nPeraturan Pemerintah ini mengatur mengenai Pembentukan,\nKedudukan, Keanggotaan  Lembaga Sensor Film , Pedoman dan Kriteria\nPenyensoran Film dan Iklan Film , Sekretariat Lembaga Sensor Film,\nTenaga Sensor, serta Pendanaan.\n\nII. PASAL DEMI PASAL\nPasal 1\nCukup jelas.\nPasal 2\nAyat (1)\nCukup jelas.\nAyat (2)\nYang dimaksud dengan “film cerita” adalah semua film yang\nmengandung cerita, termasuk film eksperimental dan film\nanimasi.\n\nYang . . .\n\n\n\n\n\n\n\n\nYang dimaksud dengan “film noncerita” adalah semua film yang\nberisi penyampaian informasi, termasuk film animasi, film iklan\n(film yang memuat materi iklan), film ekperimental, film seni, film\npendidikan, dan film dokumenter.\nAyat (3)\n Cukup jelas.\nAyat (4)\nYang dimaksud dengan “film iklan ” adalah film yang memuat\nmateri iklan atau film informasi yang bersifat komersial dan/atau\nlayanan masyarakat tentang tersedianya jasa, barang dan\ngagasan yang dapat dimanfaatkan oleh khalayak umum.\nPasal 3\nAyat (1)\n Cukup jelas.\nAyat (2)\n Yang dimaksud dengan ”independen” adalah LSF dalam\npenyensoran yang meliputi meneliti, menilai, penentuan\nkelayakan, dan penentuan penggolongan usia film dan iklan film\nbebas dari pengaruh manapun.\nAyat (3)\nCukup jelas.\nPasal 4\nCukup jelas.\nPasal 5\nCukup jelas.\nPasal 6\nCukup jelas.\nPasal 7 . . .\n\n\n\n\n\n\n\n\nPasal 7\nHuruf a\nCukup jelas.\nHuruf b\nCukup jelas.\nHuruf c\n Cukup jelas.\nHuruf d\n Cukup jelas.\nHuruf e\n Yang dimaksud dengan “film yang bermutu” adalah film yang baik\ndan benar serta layak ditonton.\nHuruf f\nCukup jelas.\nPasal 8\n Cukup jelas.\nPasal 9\nCukup jelas.\nPasal 10\nCukup jelas.\nPasal 11\nCukup jelas.\nPasal 12\nCukup jelas.\n\nPasal 13 . . .\n\n\n\n\n\n\n\n\nPasal 13\nCukup jelas.\nPasal 14\nCukup jelas.\nPasal 15\nAyat (1)\nCukup jelas.\nAyat (2)\nYang dimaksud berkonsultasi d engan D ewan Perwakilan Rakyat\ndalam ketentuan ini bukan merupakan uji kelayakan dan\nkepatutan.\nPasal 16\nCukup jelas.\nPasal 17\nCukup jelas.\nPasal 18\nCukup jelas.\nPasal 19\nCukup jelas.\nPasal 20\nCukup jelas.\nPasal 21\nCukup jelas.\nPasal 22\nCukup jelas.\nPasal 23 . . .\n\n\n\n\n\n\n\n\nPasal 23\nCukup jelas.\nPasal 24\nCukup jelas.\nPasal 25\nAyat (1)\nPrinsip dialogis dimaksudkan untuk menumbuhkan swasensor\n(self-censhorship) masyarakat serta menumbuhkan kemampuan\ndiri kalangan film  dan iklan film  dalam berkarya berdasarkan\nkebebasan berkreasi seja lan dengan dinamika masyarakat,\ndengan tetap menjunjung tinggi nilai -nilai agama, etika, moral,\nkesusilaan dan budaya bangsa.\nAyat (2)\n Cukup jelas.\nAyat (3)\n Cukup jelas.\nPasal 26\nCukup jelas.\nPasal 27\nCukup jelas.\nPasal 28\nCukup jelas.\nPasal 29\nCukup jelas.\nPasal 30\nCukup jelas.\nPasal 31 . . .\n\n\n\n\n\n\n\n\nPasal 31\nCukup jelas.\nPasal 32\nCukup jelas.\nPasal 33\nCukup jelas.\nPasal 34\nCukup jelas.\nPasal 35\nCukup jelas.\nPasal 36\nCukup jelas.\nPasal 37\nCukup jelas.\nPasal 38\nCukup jelas.\nPasal 39\nCukup jelas.\nPasal 40\nCukup jelas.\nPasal 41\nCukup jelas.\n\nPasal 42 . . .\n\n\n\n\n\n\n\n\nPasal 42\nCukup jelas.\nPasal 43\nCukup jelas.\nPasal 44\nCukup jelas.\nPasal 45\nCukup jelas.\nPasal 46\nCukup jelas.\nPasal 47\nCukup jelas.\nPasal 48\nCukup jelas.\nPasal 49\nCukup jelas.\n\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 5515"
+   }
+  }
+ ]
+}

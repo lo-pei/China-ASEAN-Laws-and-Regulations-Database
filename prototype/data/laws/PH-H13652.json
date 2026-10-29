@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13652",
+ "title": {
+  "zh": null,
+  "en": "An Act to Guarantee the Payment By the Government of the Philippine Islands of the Principal and Interest of Certain Bonds to Be Issued By the Manila Railroad Company of the Philippine Islands",
+  "orig": "An Act to Guarantee the Payment By the Government of the Philippine Islands of the Principal and Interest of Certain Bonds to Be Issued By the Manila Railroad Company of the Philippine Islands"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1922-02-28",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3008",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 812,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1922/act_3008_1922.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03008_1922_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03008_1922_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13652-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "For the purpose of augmenting the credit of said sinking fund bonds in the market, the\nGovernment of the Philippine Islands hereby guarantees the due and punctual payment by the Manila Railroad\nCompany of the Philippine Islands of the principal and interest of said bonds when and as they mature, and\nbecome due, respectively, and in the event of any default of the Manila Railroad Company in the payment of\nthe interest and principal of said bonds, or either of them, and of the inability of the trustee to sell enough of\nthe First Mortgage four per cent Gold Bonds deposited with it as security, to pay the said principal or interest\nor both when and as they mature and become due, respectively, the Government itself will pay the same on"
+   }
+  },
+  {
+   "id": "PH-H13652-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, February 28, 1922."
+   }
+  }
+ ]
+}

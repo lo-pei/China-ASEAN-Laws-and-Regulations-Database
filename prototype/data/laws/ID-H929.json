@@ -1,0 +1,982 @@
+{
+ "id": "ID-H929",
+ "title": {
+  "zh": "国家辖区空间规划规划法",
+  "en": "plan spatial planning territory national Law",
+  "id": "rencana tata ruang wilayah nasional",
+  "orig": "RENCANA TATA RUANG WILAYAH NASIONAL",
+  "vi": "Luật kế hoạch quy hoạch không gian lãnh thổ quốc gia",
+  "th": "พระราชบัญญัติ แผน ผังเมือง เขต แห่งชาติ",
+  "ms": "Akta rencana tata ruang wilayah nasional"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02a",
+ "language": "id",
+ "level": "law",
+ "category": "04_劳工与行政法",
+ "status": "active",
+ "promulgatedDate": "1997",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU47-1997",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 66,
+ "chars": 106904,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PP0471997.pdf&fl=P04056"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\04_劳工与行政法\\印尼_文本_1997_RENCANA TATA RUANG WILAYAH NASIONAL.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 66 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H929-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\nPeraturan Pemerintah ini yang dimaksud dengan:\n1. Ruang a dalah wadah yang meliputi ruang daratan, ruang lautan dan\nruang udara sebagai suatu kesatuan wilayah, tempat manusia dan\nmakhluk lainnya hidup dan melakukan kegiatan serta memelihara\nkelangsungan hidupnya;\n2. Tata ruang adalah wujud struktural dan pola pemanfaatan ruang,\nbaik direncanakan maupun tidak;\n3. Rencana tata ruang adalah hasil perencanaan tata ruang;\n4. Wilayah adalah ruang yang merupakan kesatuan geografis beserta\nsegenap unsur terkait pad anya yang batas dan sistemnya ditentukan\nberdasarkan aspek administratif dan/atau aspek fungsional;\n5. Wilayah nasional adalah seluruh wilayah Negara Republik\nIndonesia yang meliputi daratan, lautan, dan udara, berdasarkan\nperaturan perundang-undangan yang berlaku;\n6. Kawasan adalah wilayah dengan fungsi utama lindung atau budi\ndaya;\n7. Kawasan lindung adalah kawasan yang ditetapkan dengan fungsi\nutama melindungi kelestarian lingkungan hidup yang mencakup\nsumber daya alam dan sumber daya buatan;\n8. Kawasan budi daya adalah kawasan yang ditetapkan dengan fungsi\nutama untuk dibudidayakan atas dasar kondisi dan potensi sumber\ndaya alam, sumber daya manusia, dan sumber daya buatan;\n9. Kawasan permukiman adalah bagian dari lingkungan hidup di luar\nkawasan lindung baik berupa kawasan perkotaan maupun perdesaan\nyang berfungsi sebagai lingkungan tempat tinggal/lingkungan\nhunian dan tempat kegiatan yang mendukung perkehidupan dan\npenghidupan;\n10. Kawasan perdesaan adalah kawasan yang mempunyai kegiatan\nutama pertani an termasuk pengelolaan sumber daya alam dengan\nsusunan fungsi kawasan sebagai tempat permukiman perdesaan,\npelayanan jasa pemerintahan, pelayanan sosial dan kegiatan\nekonomi;\n11. Kawasan…\nPRESIDEN\nREPUBLIK INDONESIA\n11. Kawasan perkotaan adalah kawasan yang mempunyai kegiatan\nutama bukan pertanian dengan susunan fungsi kawasan sebagai\ntempat permikiman perkotaan, pemusatan dan distribusi jasa\npemerintahan, pelayanan sosial, dan kegiatan eknomi;\n12. Kawasan tertentu adalah kawasan yang ditetapkan secara nasional\nmempunyai nilai strategis yang penataan ruangnya diprioritaskan;\n13. Menteri adalah menteri yang ditunjuk oleh Presiden untuk\nmengkoordinasikan penataan ruang.\nBAB II\nRUANG LINGKUP DAN TUJUAN\nBagian Pertama\nRuang Lingkup"
+   }
+  },
+  {
+   "id": "ID-H929-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\nRuang lingkup Peraturan Pemerintah ten tang Rencana Tata Ruang\nwilayah Nasional ini mencakup strategi dan arahan kebijakasanaan\npemanfaatan ruang wilayah nasional sampai dengan 100 meter dibawah\npermukaan bumi, satu kilometer di atas permukaan bumi dan batas luar\nzona ekonomi ekslusif."
+   }
+  },
+  {
+   "id": "ID-H929-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\nRencana Tata Ruang wilayah Nasional sebagaimana dimaksud dalam\nPasal 2 meliputi :\na. tujuan nasional pemanfaatan ruang untuk peningkatan kesejahteraan\nmasyarakat dan pertahanan keamanan;\nb. pola pemanfaatan dan struktur ruang wilayah nasional;\nc. kriteria dan pola pengelolaan kawasan lindung, kawasan budi daya\ndan kawasan tertentu.\nBagian Kedua\nTujuan"
+   }
+  },
+  {
+   "id": "ID-H929-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\nTujuan nasional pemanfaatan ruang sebagaimana dimaksud dalam Pasal\n3 huruf a yaitu :\na. mencapai pemanfaatan sumber daya alam secara berkelanjuta n bagi\npeningkatan kesejahteraan masyarakat;\nb. meningkatkan…\nPRESIDEN\nREPUBLIK INDONESIA\nb. meningkatkan kesinambungan dan keserasian perkembangan antar\nwilayah serta keserasian antar sektor melalui pemanfaatan ruang\nkawasan secara serasi, selaras dan seimbang serta berkelanjutan;\nc. meningkatkan kemampuan memelihara pertahanan keamanan\nnegara yang dinamis dan memperkuat integrasi nasional;\nd. meningkatkan kualitas lingkungan hidup serta mencegah timbulnya\nkerusakan fungsi dan tatanannya.\nBAB III\nPOLA PEMANFAATAN DAN STRUKTUR\nRUANG WILAYAH NASIONAL\nBagian Pertama\nUmum"
+   }
+  },
+  {
+   "id": "ID-H929-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\n(1) Untuk mewujudkan tujuan nasional pemanfaatan ruang\nsebagaimana dimaksud dalam Pasal 4 ditetapkan strategi dan arahan\nkebijaksanaan pengembangan pola pemanfaatan ruang wilayah\nnasional.\n(2) Strategi dan arahan kebijaksanaan pengembangan pola pemanfaatan\nruang wilayah nasional sebagaimana dimaksud dalam ayat (1)\nmeliputi :\na. strategi dan arahan kebijaksanaan pengembangan kawasan\nlindung;\nb. strategi dan arahan kebijaksanaan pengembangan kawasan budi\ndaya;\nc. strategi dan arahan kebijaksanaan pengembangan kawasan\ntertentu."
+   }
+  },
+  {
+   "id": "ID-H929-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\n(1) Strategi dan arahan kebijaksanaan pengembangan kawasan lindung\nsebagaimana dimaksud dalam Pasal 5 ayat (2) huruf a meliputi\nlangkah-langkah untuk memelihara dan mewujudkan kelestarian\nfungsi lingkungan hidup dan mencegah timbulnya kerusakan\nlingkungan hidup.\n(2) Untuk...\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Untuk memelihara dan mewujudkan kelestarian fungsi lingkungan\nhidup sebagaimana dimaksud pada ayat (1) dilakukan penetapan\ndan perlind ungan terhadap kawasan lindung yang telah ditetapkan\nberdasarkan kriteria kawasan lindung sebagaimana dimaksud dalam\nParagraf 1, Bagian Pertama pada BAB IV Peraturan Pemerintah ini.\n(3) Kawasan lindung sebagaimana dimaksud pada ayat (2)\ndigambarkan secara indikatif dalam Lampiran I Peraturan\nPemerintah ini.\n(4) Perlindungsn terhadap kawasan lindung sebagaimana dimaksud\npada ayat (2) dilakukan dengan cara pelestarian fungsi dan tatanan\nlingkungan hidup alam, lingkungan hidup sosial, dan lingkungan\nhidup buatan untnuk meningkatkan kualitas dan fungsinya.\n(5) Perlindungan pelestarian fungsi dan tatanan lingkungan kawasan\nlindung sebagaimana dimaksud pada ayat (4) pada daerah yang\nberbatasan wilayah administratifnya diserasikan satu sama lain."
+   }
+  },
+  {
+   "id": "ID-H929-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\n(1) Strategi dan arahan kebijaksanaan pengembangan kawasan budi\ndaya sebagaimana dimaksud dalam Pasal 5 ayat (2) huruf b meliputi\nlangkah-langkah pengembangan kawasan budi daya secara terpadu.\n(2) Pengembangan kawasan budi daya sebagaimana dimaksud pada\nayat 91) meliputi pengembangan berbagai usaha dan/atau kegiatan,\npengembangan sistem permukiman, pengembangan jaringan\ntransportasi nasional, pengembangan energi dan jaringan kelistrikan\nnasional, pengembangan jaringan telekomunikasi nasional, serta\npengembangan jaringan prasarana dan sarana air baku nasional.\n(3) Untuk mewujudkan keterkaitan antara satu kegiatan dengan\nkegiatan lainnya yang saling mendukung serta mencegah dampak\nnegatif yang dapat terjadi terhadap kelestarian fungsi lingkungan\nhidup dan kehidupan po litik, sosial, dan budaya masyarakat\nsetempat dilakukan penetapan kawasan budi daya berdasarkan\nkriteria kawasan budi daya sebagaimana dimaksud dalam Paragraf 1\nBagian Kedua pada BAB IV Peraturan Pemerintah ini.\n(4) Di dalam kawasan budi daya dipilih kawas an-kawasan yang dapat\nberperan mendorong pertumbuhan ekonomi bagi kawasan tersebut\ndan kawasan di sekitarnya, serta dapat mewujudkan pemerataan\npemanfaatan ruang di wilayah nasional.\n(5) Kawasan...\nPRESIDEN\nREPUBLIK INDONESIA\n(5) Kawasan budi daya, termasuk di dalamnya yang melipu ti kawasan\nyang dapat berperan mendorong pertumbuhan ekonomi dan\nmewujudkan pemerataan pemanfaatan ruang di wilayah nasional\nsebagaimana dimaksud pada ayat (3) dan (4) digambarkan secara\nindikatif dalam Lampiran I dan Lampiran III Peraturan Pemerintah\nini."
+   }
+  },
+  {
+   "id": "ID-H929-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua pada BAB IV Peraturan Pemerintah ini."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n(1) Strategi dan arahan kebijaksanaan pengembangan kawasan tertentu\nsebagaimana dimaksud dalam Pasal 5 ayat (2) huruf c meliputi\nlangkah-langkah pengembangan kawasan tertentu secara terpadu.\n(2) Pengembangan kawasan tertentu sebagaimana dimaksud pada ayat\n(1) diselenggarakan untuk :\na. meningkatkan kesejahteraan masyarakat;\nb. meningkatkan pertumbuhan ekonomi;\nc. mempercepat pertumbuhan kawasan sangat tertinggal;\nd. menjamin upaya pertahanan keamanan negara;\ne. memperkuat integrasi nasional;\nf. melestarikan fungsi lingkungan hidup;\ng. meningkatkan daya dukung lingkungan hidup.\n(3) Untuk melaksanakan pengembangan kawasan tertentu sebagaimana\ndimaksud pada ayat (1) dilakukan penetapan kawasan tertentu\nberdasarkan kriteria kawasan tertentu sebagaimana dimaksud dalam\nParagraf I bagian ketiga pada BAB IV Peraturan Pemerintah ini.\n(4) Kawasan tertentu sebagaimana dimaksud pada ayat (3) terlampir\npada Lampiran VI Peraturan Pemerintah ini.\nBagian Kedua\nPola Pemanfaatan Ruang Wilayah Nasional"
+   }
+  },
+  {
+   "id": "ID-H929-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\nPola pemanfaatan ruang wilayah nasional sebagaimana dimaksud dalam\nPasal 3 huruf b menggambarkan sebaran kawasan lindung dan kawasan\nbudi daya."
+   }
+  },
+  {
+   "id": "ID-H929-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10…"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 10\n(1) Kawasan lindung sebagaimana dimaksud dalam Pasal 9 meliputi :\na. kawasan yang memberikan perlindungan kawasan bawahannya;\nb. kawasan perlindungan setempat;\nc. kawasan suaka alam;\nd. kawasan pelestarian alam;\ne. kawasan cagar budaya;\nf. kawasan rawan bencana alam;\ng. kawasan lindung lainnya.\n(2) Kawasan yang memberikan perlindungan kawasan bawahannya\nsebagaimana dimaksud pada ayat (1) huruf a meliputi :\na. kawasan hutan lindung;\nb. kawasan bergambut;\nc. kawasan resapan air.\n(3) Kawasan perlindungan setempat sebagaimana dimaksud pada ayat\n(1) huruf b meliputi :\na. sempadan pantai;\nb. sempadan sungai;\nc. kawasan sekitar danau/waduk.\nd. kawasan sekitar mata air;\ne. kawasan terbuka hijau kota termasuk didalamnya hutan kota.\n(4) Kawasan suaka alam s ebagaimana dimaksud pada ayat (1) huruf c\nmeliputi :\na. cagar alam;\nb. suaka margasatwa;\n(5) Kawasan pelestarian alam sebagaimana dimaksud pada ayat (1)\nhuruf d meliputi :\na. taman nasional;\nb. taman hutan raya;\nc. taman wisata alam.\n(6) Kawasan cagar budaya sebagaimana dimaksud pada ayat (1) huruf e\ntidak terbagi lagi dalam kawasan yang lebih kecil.\n(7) Kawasan...\nPRESIDEN\nREPUBLIK INDONESIA\n(7) Kawasan rawan bencana alam sebagaimana dimaksud pada ayat (1)\nhuruf f meliputi antara lain kawasan rawan letusan gunung b erapi,\ngempa bumi, tanah longsor, serta gelombang pasang dan banjir.\n(8) Kawasan lindung lainnya sebagaimana dimaksud pada ayat (1)\nhuruf g meliputi :\na. taman buru;\nb. cagar biosfir;\nc. kawasan perlindungan plasma mutfah;\nd. kawasan pantai berhutan bakau."
+   }
+  },
+  {
+   "id": "ID-H929-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\n(1) Kawasan budidaya sebagaimana dimaksud dalam Pasal 9 meliputi :\na. kawasan hutan produksi;\nb. kawasan hutan rakyat;\nc. kawasan pertanian;\nd. kawasan pertambangan;\ne. kawasan peruntukan industri;\nf. kawasan pariwisata;\ng. kawasan pemukiman.\n(2) Kawasan hutan Produksi sebagaimana dimaksud pada ayat (1) huruf\na meliputi :\na. kawasan hutan produksi terbatas;\nb. kawasan hutan produksi tetap;\nc. kawasan hutan yang dapat dikonversi.\n(3) Kawasan hutan rakyat sebagaimana dimaksud pada ayat (1) huruf b\ntidak terbagi lagi menjadi kawasan yang lebih kecil.\n(4) Kawasan pertanian sebagaimana dimaksud pada ayat (1) huruf c\nmeliputi :\na. kawasan pertanian tanah basah;\nb. kawasan pertanian tanah kering;\nc. kawasan tanaman tahunan/perkebunan;\nd. kawasan peternakan;\ne. kawasan perikanan.\n(5) Kawasan...\nPRESIDEN\nREPUBLIK INDONESIA\n(5) Kawasan pertambangan sebagaimana dimaksud pada ayat (1) huruf\nd meliputi bahan-bahan galian yang dibagi atas tiga golongan, yaitu\ngolongan bahan galian vital; atau golongan bahan galian yang tidak\ntermasuk dalam kedua golongan di atas.\n(6) Kawasan peruntukan industri sebagaimana dimaksud pada ayat (1)\nhuruf e meliputi tanah yang dipe runtukkan bagi kegiatan industri\nberdasarkan rencana tata ruang wilayah yang ditetakan oleh\nPemerintah Daerah Tingkat II yang bersangkutan.\n(7) Kawasan pariwisata sebagaimana dimaksud pada ayat (1) huruf f\nmeliputi kawasan dengan luas tertentu yang dibangu n atau\ndisediakan untuk memenuhi kebutuhan pariwisata.\n(8) Kawasan permukiman sebagaimana dimaksud pada ayat (1) huruf g\nmeliputi kawasan yang didominasi oleh lingkungan hunian dengan\nfungsi utama sebagai tempat tinggal."
+   }
+  },
+  {
+   "id": "ID-H929-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n(1) Sebaran kawasan lind ung dalam Rencana Tata Ruang Wilayah\nNasional sebagaimana dimaksud dalam Pasal 9 meliputi kawasan\nhutan lindung, kawasan suaka alam, kawasan pelestarian alam, dan\nkawasan cagar budaya yang digambarkan secara indikatif dalam\nLampiran I Peraturan Pemerintah ini.\n(2) Sebaran kawasan budidaya dalam Rencana Tata Ruang Wilayah\nNasional sebagaimana dimaksud dalam Pasal 9 digambarkan secara\nindikatif dalam Lampiran I Peraturan Pemerintah ini.\nBagian Ketiga\nStruktur Ruang Wilayah Nasional"
+   }
+  },
+  {
+   "id": "ID-H929-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\nStruktur ruang wilayah nasional sebagaimana dimaksud dalam Pasal 3\nhuruf b disusun berdasarkan arahan sebagai berikut :\na. arahan pengembangan sistem permukiman nasional;\nb. arahan pengembangan Jaringan transportasi nasional;\nc. arahan pengembangan energi dan jaringan kelistrikan nasional;\nd. arahan pengembangan jaringan telekomunikasi nasional; dan\ne. arahan pengembangan prasarana dan sarana air baku nasional."
+   }
+  },
+  {
+   "id": "ID-H929-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14…"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 14\n(1) Arahan pengembangan sistem permukiman nasional sebagai mana\ndimaksud dalam Pasal 13 huruf a dilakukan melalui pengembangan\npusat-pusat permukiman sebagai pusat pelayanan ekonomi, pusat\npemerintahan dan pusat pelayanan jasa baik bagi kawasan\npermukiman dan daerah sekitarnya.\n(2) Pusat-pusat permukiman sebagaimana dimaksud pada ayat (1)\nmeliputi pusat -pusat permukiman perkotaan dan pusat -pusat\npermukiman perdesaan.\n(3) Pusat-pusat permukiman perkotaan sebagaimana dimaksud pada\nayat (2) dikembangkan saling terkait dengan tingkatan fungsi kota\nsebagai Pusat Kegiatan Nasional, Pusat Kegiatan Wilayah dan Pusat\nKegiatan Lokal.\n(4) Pusat-pusat permukiman perdesaan sebagaimana dimaksud pada\nayat 92) dipilih dari wilayah desa yang mempunyai potensi cepat\nberkembang dan dapat meningkatkan perkemba ngan desa\nsekitarnya.\n(5) Pusat-pusat permukiman sebagaimana dimaksud pada ayat (3) dan\nayat (4) ditujukan untuk melayani perkembangan berbagai usaha\ndan/atau kegiatan dan permukiman masyarakat dalam wilayahnya\ndan wilayah sekitarnya.\n(6) Pusat Kegiatan Na sional, Pusat Kegiatan Wilayah dan Pusat\nKegiatan Lokal, sebagaimana dimaksud pada ayat (3) terlampir\npada Lampiran II Peraturan Pemerintah ini."
+   }
+  },
+  {
+   "id": "ID-H929-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\n(1) Arahan pengembangan jaringan transportasi sebagaimana dimaksud\ndalam Pasal 13 huruf b ditujukan untuk menunjang kegiatan sosial,\nekonomi, pertahanan keamanan negara, menggerakkan dinamika\npembangunan, dan memantapkan kesatuan wilayah nasional\ndengan mendukung peruntukan ruang di kawasan budi daya dan\npenyebaran pusat-pusat permukiman, serta sektor terkait lainnya.\n(2) Jaringan transportasi nasional sebagaimana dimaksud pada ayat (1)\nmenghubungan antarpulau, pusat permukiman, kawasan produksi,\npelabuhan laut dan udara, sehingga terbentuk satu kesatuan sistem\ntransportasi darat, laut dan udara.\n(3) Jaringan transportasi nasional sebagaimana dimaksud pada ayat (1)\nmeliputi jaringan transportasi darat, jaringan transportasi laut, dan\njaringan transportasi udara.\n(4) Jaringan...\nPRESIDEN\nREPUBLIK INDONESIA\n(4) Jaringan transportasi nasional sebagaimana dimaksud pada ayat (1)\ndikembangkan saling meliputi wilayah nasional dengan luar negeri,\nantarwilayah dan antarkota, dan dalam keterkaitan intra dan\nintermoda transportasi."
+   }
+  },
+  {
+   "id": "ID-H929-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\nJaringan transportasi darat sebagaimana dimaksud dalam Pasal 15 ayat\n(3) meliputi jaringan jalan darat , jaringan jalur kereta api, jaringan\ntransportasi sungai, danau dan penyeberangan, serta jaringan transportasi\njembatan dan terowongan antarpulau."
+   }
+  },
+  {
+   "id": "ID-H929-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\n(1) Jaringan jalan darat sebagaimana dimaksud dalam Pasal 16 terdiri\ndari jaringan arteri dan jaringan kolektor primer.\n(2) Jaringan arteri primer sebagaimana dimaksud pada ayat (1)\ndikembangkan untuk melayani dan menghubungkan kota -kota\nantar-Pusat Kegiatan Nasional, antar -Pulau Kegiatan Nasional dan\nPusatKegiatan Wilayah, dan antarkota yang melayani kawasan\nberskala besar dan/atau cepat berkembang dan/atau\npelabuhan-pelabuhan utama.\n(3) Jaringan kolektor primer sebagaimana dimaksud pada ayat (1)\ndikembangkan untuk melayani dan menghubungkan kota -kota\nantar-Pulau Kegiatan Wilayah, antar Pusat Kegiatan Wilayah dan\nPusat Kegiatan Lokal dan/atau kawasan -kawasan berskala kecil\ndan/atau pelabuhan pengumpan regional dan pelabuhan pengumpan\nlokal.\n(4) Arahan pengembangan jaringan jalan darat sebagaimana dimaksud\npada ayat (2) dan ayat (3) digambarkan secara indikatif dalam\nLampiran II Peraturan Pemerintah ini."
+   }
+  },
+  {
+   "id": "ID-H929-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\n(1) Jaringan jalur kereta api sebagaimana dimaksud dalam Pasal 16\nmeliputi jalur kereta antarkota dan jalur kereta api perkotaan.\n(2) Jaringan jalur kereta api antarkota sebagaimana dimaksud pada ayat\n(1) dititik beratkan pengembangannya pada:\na) jalur...\nPRESIDEN\nREPUBLIK INDONESIA\na) jalur kereta api kapasitas tinggi di Pulau Jawa;\nb) jalur kereta api lintas Sumatera;\nc).jalur kereta api untuk melayani angkutan barang khu sus di Pulau\nKalimantan dan Pulau Sulawesi.\n(3) Jalur kereta api perkotaan sebagaimana dimaksud pada ayat (1)\ndititikberatkan pengembangannya pada jalur kereta api untuk\nangkutan massal di kota-kota besar.\n(4) Arah pengembangan jaringan jalur kereta api s ebagaimana\ndimaksud pada ayat (2) dan ayat (3) digambarkan secara indikatif\npada Lampiran II Peraturan Pemerintah ini."
+   }
+  },
+  {
+   "id": "ID-H929-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\n(1) Jaringan transportasi sungai, danau, dan penyebrangan sebagaimana\ndimaksud dalam Pasal 16 meliputi jaringan transportasi s ungai,\njaringan transportasi danau, dan jaringan transportasi\npenyeberangan termasuk alur pelayaran dan sarananya.\n(2) Jaringan transportasi sungai sebagaimana dimaksud pada ayat (1)\ndititikberatkan pengembangannya di Pulau Kalimantan, Pulau\nSumatera dan Pulau Irian Jaya.\n(3) Jaringan transportasi danau sebagaimana dimaksud pada ayat (1)\ndititikberatkan pengembangannya pada danau-danau besar.\n(4) Jaringan transportasi penyeberangan sebagaimana dimaksud pada\nayat (1) dititikberatkan pengembangannya pada peny eberangan\nlintas utara, lintas tengah, dan lintas selatan dalam wilayah nasional.\n(5) Arah pengembangan jaringan transportasi sungai, jaringan\ntransportasi danau, dan jaringan transportasi penyeberangan\nsebagaimana dimaksud pada ayat (2), (3) dan ayat (4) di gambarkan\nsecara indikatif dalam Lampiran II Peraturan Pemerintah ini."
+   }
+  },
+  {
+   "id": "ID-H929-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\n(1) Alur pelayanan sungai dan danau sebagaimana diatur dalam Pasal\n19 ayat (1) ditetapkan dengan klasifikasi alur.\n(2) Penetapan klasifikasi alur pelayanan sungai dan danau dilakukan\ndengan memperhatikan serana dan pertimbangan teknis dari instansi\nyang bertanggung jawab di bidang pengairan.\n(3) Penetapan klasifikasi alur palayanan sungai dan danau ditetapkan\noleh instansi yang berwenang.\n(4) Alur...\nPRESIDEN\nREPUBLIK INDONESIA\n(4) Alur pelayaran penyeberangan sebagaimana dimaksud dalam Pasal\n19 ayat (1) ditetapkan oleh instansi yang berwenang dan\ndicantumkan dalam peta laut dan buku petunjuk pelayaran."
+   }
+  },
+  {
+   "id": "ID-H929-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\nJaringan transportasi jembatan dan terowongan antarpulau sebagaimana\ndimaksud dalam Pasal 16 dititkberatkan untuk melayani arus lalu lintas\nantarpulau yaitu antara Pulau Jawa dan Pulau Sumatera, antara Pulau\nJawa dan Pulau Madura, antara Pulau Jawa dan Pulau Bali, serta di\nkawasan yang mendukung kelancaran kerjasama antara Pemerintah\nRepublik Indonesia dengan negara lain."
+   }
+  },
+  {
+   "id": "ID-H929-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\n(1) Jaringan transportasi laut sebagaimana d imaksud dalam Pasal 15\nayat (3) berupa pelabuhan laut dan alur pelayaran di laut.\n(2) Pelabuhan laut sebagaimana dimaksud pada ayat (1) dikembangkan\ndalam klasifikasi pelabuhan laut utama dan pelabuhan pengumpan."
+   }
+  },
+  {
+   "id": "ID-H929-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\n(1) Pelabuhan laut utama sebagai mana dimaksud dalam Pasal 22 ayat\n(2) meliputi pelabuhan utama primer, pelabuhan utama sekunder,\ndan pelabuhan utama tersier.\n(2) Pelabuhan utama primer sebagaimana dimaksud pada ayat (1)\ndiarahkan untuk melayani keg iatan dan alih muat angkutan laut\nnasional dan internasional dalam jumlah besar dan Jangkauan\npelayanan sangat luas serta berfungsi sebagai simpul jaringan\ntransportasi laut internasional.\n(3) Pelabuhan utama sekunder sebagaimana dimaksud pada ayat (1)\ndiarahkan untuk melayani kegiatan dan alih muat angkutan laut\nnasional dan internasional dalam jumlah besar dan jangkauan\npelayanan sangat luas serta berfungsi sebagai simpul jaringan\ntransportasi laut nasional.\n(4) Pelabuhan utama tersier sebagaimana dimaksu d pada ayat (1)\ndiarahkan untuk melayani kegiatan dan alih muat angkutan laut\nnasional dan internasional dalam jumlah menengah dan jangkauan\npelayanan menengah.\n(5) Arah pengembangan pelabuhan utama sebagaimana dimaksud\ndalam ayat (1) digambarkan secara in dikatif dalam Lampiran II dan\nLampiran IV Peraturan Pemerintah ini."
+   }
+  },
+  {
+   "id": "ID-H929-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24…"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 24\n(1) Pelabuhan pengumpan sebagaimana dimaksud dalam Pasal 22 ayat\n(2) meliputi pelabuhan pengumpan regional dan pelabuhan\npengumpan lokal.\n(2) Pelabuhan pengumpan regio nal sebagaimana dimaksud pada ayat\n(1) diarahkan untuk melayani kegiatan dan alih muat angkutan laut\ndalam jumlah kecil dan jangkauan pelayanan dekat serta berfungsi\nsebagai pengumpan pelabuhan utama.\n(3) Pelabuhan pengumpan lokal sebagaimana dimaksud pada ayat (1)\ndiarahkan untuk melayani kegiatan alih muat angkutan laut dalam\njumlah kecil dan jangkauan dekat serta berfungsi sebagai\npengumpan pelabuhan utama dan pengumpan pelabuhan regional.\n(4) Arah pengembangan pelabuhan pengumpan sebagaimana dimaksud\npada ayat (1) digambarkan secara indikatif dalam Lampiran II dan\nLampiran IV Peraturan Pemerintah ini."
+   }
+  },
+  {
+   "id": "ID-H929-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\nAlur pelayanan di laut sebagaimana dimaksud dalam pasal 22 ayat (1)\nditentukan oleh instansi yang berwenang dan dicantumkan dalam peta\nlaut dan buku petunjuk pelayaran."
+   }
+  },
+  {
+   "id": "ID-H929-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\n(1) Jaringan transportasi udara sebagaimana dimaksud dalam Pasal 15\nayat (3) berupa bandar udara dan ruang lalu lintas udara.\n(2) Bandar udara sebagaimana dimaksud pada ayat (1) dikembangkan\ndalam klasifikasi pusat penyeb aran primer, pusat penyebaran\nsekunder, pusat penyebaran tersier, dan bandar udara bukan pusat\npenyebaran."
+   }
+  },
+  {
+   "id": "ID-H929-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\n(1) Pusat penyebaran primer sebagaimana dimaksu d dalam Pasal 26\nayat (2) diarahkan untuk melayani penumpang dalam jumlah besar\ndengan lingkup pelayanan nasional atau beberapa propinsi dan\nberfungsi sebagai pintu utama untuk ke luar negeri.\n(2) Pusat penyebaran sekunder sebagaimana dimaksud dalam Pasal 26\nayat (2) diarahkan untuk melayani penumpang dalam jumlah sedang\ndengan lingkup pelayanan dalam satu propinsi dan terhubungkan\ndengan pusat penyebaran primer.\n(3) Pusat...\nPRESIDEN\nREPUBLIK INDONESIA\n(3) Pusat penyebaran tersier sebagaimana dimaksud dalam Pasal 26\nayat (2) diarahkan untuk melayani penumpang dalam jumlah rendah\ndengan lingkup pelayanan pada beberapa kabupaten dan\nterhubungkan dengan pusat penyebaran primer dan pusat\npenyebaran sekunder.\n(4) Bandar udara bukan pusat penyebaran sebagaimana dimaksud\ndalam Pasal 26 ayat (2) diarahkan untuk melayani penumpang\ndengan jumlah kecil dan tidak mempunyai daerah cakupan atau\nlayanan.\n(5) Arah pengembangan bandar udara sebagai pusat penyebaran\nsebagaimana dimaksud dalam ayat (1) digambarkan secara indikatif\npada Lampiran II dan Lampiran V Peraturan Pemerintah ini."
+   }
+  },
+  {
+   "id": "ID-H929-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\nRuang lalu lintas udara sebagaimana dimaksud dalam Pasal 26 ayat (1)\nditentukan oleh instansi yang berwenang dan dicantumkan dalam buku\npetunjuk penerbangan."
+   }
+  },
+  {
+   "id": "ID-H929-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\n(1) Arahan pengembangan energi dan kelis trikan nasional sebagaimana\ndimaksud dalam Pasal 13 huruf c ditujukan untuk menunjang\nkegiatan sosial, ekonomi, pertahanan keamanan negara,\nmenggerakkan dinamika pembangunan, dan memantapkan kesatuan\nwilayah nasional dengan mendukung peruntukan ruang di ka wasan\nbudi daya dan penyebaran pusat-pusat permukiman.\n(2) Pengembangan energi dan jaringan kelistrikan nasional\nsebagaimana dimaksud pada ayat (1) berupa pengembangan\njaringan kelistrikan\n(3) Pengembangan jaringan kelistrikan nasional sebagaimana dimaksud\npada ayat (1) diselaraskan dengan pengembangan pusat -pusat\npermukiman, pusat-pusat produksi, dan pusat-pusat distribusi.\n(4) Arahan pengembangan jaringan kelistrikan nasional sebagaimana\ndimaksud pada ayat (3) digambarkan secara indikatif dalam\nLampiran II Peraturan Pemerintah ini."
+   }
+  },
+  {
+   "id": "ID-H929-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30…"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 30\n(1) Arahan pengembangan jaringan telekomunikasi nasional\nsebagaimana d imaksud dalam Pasal 13 huruf d ditujukan untuk\nmenyediakan arus informasi agar dapat menunjang kegiatan sosial,\nekonomi, memggerakkan dinamika pembangunan, dan\nmemantapkan kesatuan wilayah nasional dengan mendukung\nperuntukan ruang di kawasan budi daya dan penyeberangan\npusat-pusat permukiman.\n(2) Pengembangan jaringan telekomonikasi nasional sebagaimana\ndimaksud pada ayat (1) meliputi pengembangan stasiun bumi dan\npengembangan jaringan transmisi.\n(3) Pengembangan stasiun bumi sebagaimana dimaksud pada ayat (2)\ndilaksanakan untuk memeberikan pelayanan jasa telekomunikasi di\nseluruh wilayah nasional.\n(4) Pengembangan jaringan transmisi sebagaimana dimaksud pada ayat\n(2) dilaksanakan untuk melayani jasa telekomunikasi di seluruh\nwilayah nasional.\n(5) Arahan pe ngembangan jaringan telekomunikasi sebagaimana\ndimaksud pada ayat (1) digambarkan secara indikatif pada\nLampiran II Peraturan Pemerintah ini."
+   }
+  },
+  {
+   "id": "ID-H929-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\n(1) Arahan pengembangan jaringan prasarana dan sarana air baku\nnasional sebagaimana dimaksud dalam Pasa l 13 huruf e ditujukan\nuntuk memenuhi kebutuhan air baku bagi penyediaan air bersih dan\nkebutuhan air baku berbagai usaha dan/atau kegiatan.\n(2) Pengembangan jaringan prasara dan sarana air baku nasional\nsebagaimana dimaksud pada ayat (1) berupa pengembang an waduk\ndi daerah aliran sungai termasuk jaringan distribusi ke\nkawasan-kawasan yang dilayaninya.\n(3) Pengembangan waduk sebagiamana dimaksud pada ayat (2)\ndilaksanakan untuk memenuhi kebutuhan air baku dilaksanakan\nuntuk memenuhi kebutuhan air baku sebag aimana dimaksud pada\nayat (1).\n(4) Arahan pengembangan jaringan prasarana dan sarana air baku\nnasional sebagaimana dimaksud pada ayat (1) digambarkan secara\nindikatif pada Lampiran II Peraturan Pemerintah ini.\nBAB IV…\nPRESIDEN\nREPUBLIK INDONESIA\nBAB IV\nKRITERIA DAN POLA PENGELOLAAN\nKAWASAN LINDUNG,\nKAWASAN BUDI DAYA DAN KAWASAN TERTENTU\nBagian Pertama\nKriteria dan Pola Pengelolaan Kawasan Lindung\nParagraf 1\nKriteria Kawasan Lindung"
+   }
+  },
+  {
+   "id": "ID-H929-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 32\nKriteria kawasan lindung berupa ukuran dan/atau persyaratan yang\ndigunakan untuk penentuan kawasan -kawasan yang perlu ditetapkan\nsebagai kawasan berfungsi lindung."
+   }
+  },
+  {
+   "id": "ID-H929-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 33\n(1) Kriteria kawasan lindung untuk kawasan hutan lindung\nsebagaimana dimaksud dalam Pasal 10 ayat (2) huruf a adalah:\na. kawasan hutan dengan faktor-faktor kelas lereng, jenis tanah dan\nintensitas hujan setelah masing -masing dikalikan dengan angka\npenimbangan mempunyai jumlah nilai (skor) 175 atau lebih;\nb. kawasan hutan yang mempunyai lereng lapangan 40% atau lebih;\ndan/atau\nc. kawasan hutan yang mempunyai ketinggian di atas permukaan\nlaut 2000 m atau lebih.\n(2) Kriteria kawasan lindung untuk kawasan bergambut sebagaimana\ndimaksud dalam Pasal 10 ayat (2) huruf b yaitu kawasan tanah\nbergambut dengan ketebalan 3 meter atau lebih yang terdapat di\nbagian hulu sungai dan rawa.\n(3) Kriteria kawasan lindung untuk kawasan resapan air sebagaimana\ndimaksud dalam Pasal 10 ayat (2) huruf c yaitu kawasan bercurah\nhujan yang tinggi, berstruktur ta nah yang mudah meresapkan air\ndan mempunyai geomorfologi yang mampu meresapkan air hujan\nsecara besar-besaran."
+   }
+  },
+  {
+   "id": "ID-H929-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34…"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 34\n(1) Kriteria kawasan lindung untuk sempadan pantai sebagaimana\ndimaksud dalam Pasal 10 ayat (3) huruf a yaitu daratan sepanjang\ntepian yang lebarnya proporsional dengan bentuk dan kondisi fisik\npantai, minimal 100 meter dari titik pasang tertinggi ke arah darat.\n(2) Kriteria kawasan lindung untuk sempadan sungai sebagaimana\ndimaksud dalam Pasal 10 ayat (3) huruf b adalah:\na. Garis sempadan sungai bertanggul ditetapkan dengan batas lebar\nsekurang-kurangnya 5 (lima) meter di sebelah luar sepanjang\nkaki tanggungl.\nb. Garis sempadan sungai tidak bertanggul ditetapkan berdasarkan\npertimbangan teknis dan sosial ekonomis oleh Pejabat yang\nberwenang.\nc. Garis sempadan sungai yang bertanggul dan tidak bertanggul\nyang berada di wilayah perkotaan dan sepanjang jalan dit etapkan\ntersendiri oleh Pejabat yang berwenang.\n(3) Kriteria kawasan lindung untuk kawasan sekitar danau/waduk\nsebagaimana dimaksud dalam Pasal 10 ayat (3) huruf c yaitu\ndaratan sepanjang tepian danau/waduk yang lebarnya proporsional\ndengan bentuk dan kondisi fisik danau/waduk antara 50 - 100 meter\ndari titik pasang tertinggi ke arah darat.\n(4) Kriteria kawasan lindung untuk kawasan sekitar mata air\nsebagaimana dimaksud dalam Pasal 10 ayat (3) huruf d yaitu\nkawasan di sekitar mata air dengan jari -jari seku rang-kurangnya\n200 meter.\n(5) Kriteria kawasan lindung untuk kawasan terbuka hijau kota\nsebagaimana dimaksud dalam Pasal 10 ayat (3) huruf e adalah:\na. lokasi sasaran kawasan terbuka hijau termasuk didalamnya hutan\nkota antara lain di kawasan permukiman, industri, tepi\nsungai/pantai/jalan yang berada di kawasan perkotaan;\nb. hutan yang terletak di dalam wilayah perkotaan atau sekitar kota\ndengan luas hutan minimal 0,25 hektar;\nc. hutan yang terbentuk dari komunitas tumbuhan yang berbentuk\nkompak pada sat u hamparan, berbentuk jalur atau merupakan\nkombinasi dari bentuk kompak dan bentuk jalur;\nd. jenis tanaman untuk hutan kota adalah tanaman tahunan berupa\npohon-pohonan, bukan tanaman hias atau herba, dari berbagai\njenis baik jenis asing atau eksotik maupu n jenis asli atau\ndomestik;\ne. jenis...\nPRESIDEN\nREPUBLIK INDONESIA\ne. jenis tanaman untuk kawasan terbuka hijau kota adalah berupa\npohon-pohonan dan tanaman hias atau herba, dari berbagai jenis\nbaik jenis asing atau eksotik maupun jenis asli atau domestik."
+   }
+  },
+  {
+   "id": "ID-H929-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 35\n(1) Kriteria kawasan lindung untuk kawasan cagar alam sebagaimana\ndimaksud dalam Pasal 10 ayat (4) huruf a adalah:\na. kawasan yang ditunjuk mempunyai keanekaragaman jenis\ntumbuhan dan swasta serta tipe ekosistemnya; dan/atau\nb. mewakili formasi biota tertentu dan/atau unit-unit penyusunnya;\nc. mempunyai kondisi alam, baik biota maupu fisiknya yang masih\nasli dan tidak atau belum diganggu manusi; dan/atau\nd. mempunyai luas dan bentuk tertentu agar menunjang pengelolaan\nyang efektif dengan daerah penyangga yang cukup luas; dan/atau\ne. mempunyai ciri khas dan dapat merupakan satu -satunya contoh\ndi suatu daerah serta keberadaannya memerlukan konservasi;\n(2) Kriteria kawasan lindung untuk kawasan suaka margasatwa\nsebagaimana dimaksud dalam Pasal 10 ayat (4) huruf b adalah:\na. kawasan yang ditunjuk merupakan tempat hidup dan\nperkembangbiakan dari satu jenis satwa yang perlu dilakukan\nupaya konservasinya; dan/atau\nb. memiliki keanekaragaman satwa yang tinggi; dan/atau\nc. merupakan tempat dan kehidupan begi jenis satwa migran\ntertentu; dan/atau\nd. memunyai luas yang cukup sebagai habitat jenis satwa yang\nbersangkutan."
+   }
+  },
+  {
+   "id": "ID-H929-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 36\n(1) Kriteria kawasan lindung untuk taman nasional sebagaimana\ndimaksud dalam Pasal 10 ayat (5) huruf a adalah:\na. wilayah yang ditetapk an mempunyai luas yang cukup untuk\nmenjamin kelangsungan proses ekologis secara alami;\nb. memiliki sumber daya alam yang khas dan unik baik berupa jenis\ntumbuhan maupun jenis satwa dan ekosistemnya serta gejala\nalam yang masih utuh dan alami;\nc. satu...\nPRESIDEN\nREPUBLIK INDONESIA\nc. satu atau beberapa ekosistem yang terdapat di dalamnya secara\nmateri atau secara fisik tidak dapat diubah oleh eksploitasi\nmaupun pendudukan oleh manusia;\nd. memiliki keadaan alam yang asli dan alami untuk dikembnagkan\nsebagai pariwisata alam;\ne. merupakan kawasan yang dapat dibagi ke dalam zona inti, zona\npemanfaatan dan zona lain yang dapat mendukung upaya\npelestarian sumber daya alam hayati dan ekosistemnya.\n(2) Kriteria kawasan lindung untuk taman hutan raya sebagaimana\ndimaksud dalam Pasal 10 ayat (5) huruf b adalah:\na. merupakan wilayah dengan ciri khas baik asli maupun buatan,\nbaik pada kawasan yang ekosistemnya masih utuh ataupun\nkawasan yang sudah berubah;\nb. memiliki keindahan alam, tumbuhan, satwa, dan gejala alam;\nc. mudah dijangkau dan dekat dengan pusart -pusat pemukiman\npenduduk;\nd. mempunyai luas wilayah yang memungkinkan untuk\npembangunan koleksi tumbuhan dan/atau satwa baik jenis asli\ndan/atau bukan asli.\n(3) Kriteria kawasan lindung untuk taman wisata alam sebagaimana\ndimaksud dalam Pasal 10 ayat (5) huruf c adalah:\na. mempunyai daya tarik alam berupa tumbuhan, satwa beserta\nekosistemnya yang masih asli serta formasi geologi yang indah,\nunik dan nyaman;\nb. mempunyai luas yang cukup untuk menjamin pelestarian sumber\ndaya alam haya ti dan ekosistemnya untuk dimanfaatkan bagi\npariwisata dan rekreasi alam;\nc. kondisi lingkungan disekitarnya mendukung upaya\npengembangan pariwisata alam;\nd. mudah dijangkau dan dekat dengan pusat -pusat permukiman\npenduduk."
+   }
+  },
+  {
+   "id": "ID-H929-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 37\nKriteria kawasan li ndung untuk cagar budaya sebagaimana dimaksud\ndalam pasal 10 ayat (6) yaitu tempat serta ruang di sekitar bangunan\nbernilai budaya tinggi, situs purbakala dan kawasan dengan bentukan\ngeologi tertentu yang mempunyai manfaat tinggi untuk pengembangan\nilmu pengetahuan."
+   }
+  },
+  {
+   "id": "ID-H929-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38…"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 38\nKriteria kawasan lindung untuk kawasan rawan bencana alam\nsebagaimana dimaksud dalam Pasal 10 ayat (7) yaitu kawasan yang\ndiidentifikasi sering dan berpotensi tinggi mengalami bencana alam\nseperti letusan gunung berapi, gempa bumi dan tanah longsor serta\ngelombang pasang dan banjir."
+   }
+  },
+  {
+   "id": "ID-H929-A39",
+   "no": 39,
+   "noLabel": {
+    "id": "Pasal 39"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 39\n(1) Kriteria kawasan lindung untuk kawasan taman buru sebagaimana\ndimaksud dalam Pasal 10 ayat (8) huruf a adalah:\na. areal yang ditunjuk mempunyai luas yang cukup dan\nlapangannya tidak membahayakan; dan/atau\nb. kawasan yang terdapat satwa buru yang dikembangbiakkan\nsehingga memungkinkan perburuan secara teratur dengan\nmengutamakan segi rekreasi, olahraga, dan kelestarian satwa.\n(2) Kriteria kawasan lindung untuk kawasan cagar biosfer sebagaimana\ndimaksud dalam Pasal 10 ayat (8) huruf b adalah\na. kawasan yang mempunyai keperwakilan ekosistem yang masih\nalami dan kawasan yang sudah mengalami degradasi, modifikasi,\ndan/atau binaan;\nb. kawasan yang mempunyai komunitas alam yang unik, langka,\ndan indah; dan/atau\nc. merupakan bentang alam yang cukup luas yang mencerminkan\ninteraksi antara komunitas alami dengan manusia beserta\nkegiatannya secara harmonis; dan/atau\nd. tempat bagi penyelenggaraan pemantauan perubahan -perubahan\nekologi melalui kegiatan penelitian dan pendidikan.\n(3) Kriteria kawasan lindung untuk kawasan perlindungan plasma\nnutfah sebagaimana dimaksud dalam Pasal 10 ayat (8) huruf c\nadalah:\na. areal yang memiliki jenis plasma nutfah tertentu yang belum\nterdapat di dalam kawasan konservasi yang telah ditetapkan;\nb. areal dengan luasan tertentu yang memungkinkan kelangsung\nproses pertumbuhan jenis plasma nutfah tersebut.\n(4) Kriteria kawasan lindung untuk kawasan pengungsian satwa\nsebagaimana dimaksud dalam Pasal 10 ayat (8) huruf d adalah:\na. areal yang ditunjuk merupakan daerah kehidupan satwa yang\nsejak semula menghuni areal tersebut; dan/atau\nb. areal...\nPRESIDEN\nREPUBLIK INDONESIA\nb. areal tempat pemindahan satwa sebagai tempat kehidupan baru\nbagi satwa tersebut;\nc. mempunyai luas tertentu yang memungkinkan berlangsungnya\nproses hidup dan kehidupan serta berkembangbiaknya satwa\ntersebut.\n(5) Kriteria kawasan lindung untuk kawasan pantai berhutan b akau\nsebagaimana dimaksud dalam Pasal 10 ayat (8) huruf e yaitu\nkawasan minimal 130 kali nilai rata -rata perbedaan air pasang\ntertinggi dan terendah tahunan diukur dari garis air surut terendah\nke arah darat yang merupakan habitat hutan bakau.\nParagraf 2\nPengelolaan Kawasan Lindung"
+   }
+  },
+  {
+   "id": "ID-H929-A40",
+   "no": 40,
+   "noLabel": {
+    "id": "Pasal 40"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 40\n(1) Pola pengelolaan kawasan lindung bertujuan untuk mencegah\ntimbulnya kerusakan fungsi lingkungan hidup dan melestarikan\nfungsi lindung kawasan yang memberikan perlindungan kawasan\nbawahannya, kawasan perlindungan setempat, kawasan suaka alam,\nkawasan pelestarian alam, kawasan cagar budaya, dan kawasan\nlindung lainnya, serta menghindari berbagai usaha dan/atau\nkegiatan di kawasan rawan bencana.\n(2) Sararan pengelolaan kawasan lindung sebagaimana dimaksud pada\nayat (1) diselenggarakan untuk:\na. meningkatkan fungsi lindung terhadap tanah, air, iklim,\ntumbuhan, dan satwa, serta nilai budaya dan sejarah bangsa;\nb. mempertahankan keanekaragaman hayati, satwa, tipe ekosistem\ndan keunikan alam.\n(3) Pola pengelolaan kawasan lindung sebagaimana dimaksud pada\nayat (1) meliputi langkah-langkah pengelolaan kawasan lindung dan\npengendalian pemanfaatan ruang di kawasan lindung."
+   }
+  },
+  {
+   "id": "ID-H929-A41",
+   "no": 41,
+   "noLabel": {
+    "id": "Pasal 41"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 41\n(1) Langkah-langkah pengelolaan kawasan memberikan perlindungan\nkawasan bawahannya sebagaimana dimaksud dalam Pasal 10 ayat\n(1) huruf a berupa:\na. mencegah terjadinya erosi, bencana banjir, sedimentasi dan\nmenjaga fungsi hidroorologis tanah di kawasan hutan lindung\nsehingga ketersediaan unsur hara tanah, air tanah dan air\npermukaan selalu dapat terjamin;\nb. mengendalikan...\nPRESIDEN\nREPUBLIK INDONESIA\nb. mengendalikan hidrologi wilayah, berfungsi sebagai penambat\nair dan pencegah banjir, serta untuk melindungi ekosistem yang\nkhas di kawasan bergambut;\nc. memberikan ruang yang cukup bagi resapan air hujan pada\nkawasan resapan air untuk keperluan penyediaan kebutuhan air\ntanah dan penanggulangan banjir, baik untuk kawasan\nbawahannya maupun kawasan yang bersangkutan.\n(2) Langkah-langkah pengelolaa n kawasan perlindungan setempat\nsebagaimana dimaksud dalam Pasal 10 ayat (1) huruf b berupa:\na. menjaga sempadan pantai untuk melindungi wilayah pantai dari\nkegiatan yang mengganggu kelestarian fungsi pantai;\nb. menjaga sempadan sungai untuk melindungi sungai dari kegiatan\nmanusia yang dapat mengganggu dan merusak kualitas air\nsungai, kondisi fisik pinggir dan dasar sungai serta\nmengammankan aliran sungai;\nc. menjaga kawasan sekitar danau/waduk untuk melinsungi\ndanau/waduk dari berbagai usaha dan/atau ke giatan yang dapat\nmenggagu kelestarian fungsi danau/waduk;\nd. menjaga kawasan sekitar mata air untuk melindungi mata air dari\nbebagai usaha dan/atau kegiatan yang dapat merusak kualitas air\ndan kondisi fisik kawasan sekitar;\ne. menjaga kawasan terbuka hijau kota di dalamnya hutan kota\nuntuk melindungi kota dari polusi udara, dan kegiatan manusia\nyang dapat mengganggu kelestarian lingkungan kota, serta untuk\nmengendalikan tata air, meningkatkan upaya pelestarian habitat\nflora dan fauna, meningkatkan nilai estetika lingkungan\nperkotaan dan kenyamanan kehidupan di kota.\n(3) Langkah-langkah pengelolaan kawasan suuaka alam sebagaimana\ndimaksud dalam Pasal 10 ayat (1) huruf e berupa perlindungan\nkeanekaragaman biota, tipe ekosistim, gejala dan keunikan alam di\nkawasan suaka alam dan kawasan suaka alam dan kawasan suaka\nalam laut dan perairan lainnya untuk kepentingan plasma nutfah,\nkeperluan pariwisata, ilmu pengetahuan dan pembangunan pada\numumnya.\n(4) Langkah-langkah pengelolaan bagi kawasan pelestarian alam\nsebagaimana dimaksud dalam Pasal 10 ayat (1) huruf d berupa\npelestarian fungsi lindung dan tatanan lingkungan kawasan\npelestarian alam yang terdiri dari taman nasional, taman hutan raya,\ndan taman wisata alam untuk pengembangan pendidikan, rekreasi\ndan pari wisata, serta peningkatan kualitas lingkungan sekitarnya\ndan perlindungan dari pencemaran;\n(5) langkah-...\nPRESIDEN\nREPUBLIK INDONESIA\n(5) langkah-langkah pengelolaan kawasan cagar budaya sebagaimana\ndimaksud dalam Pasal 10 ayat (1) huruf e berupa perlindungan\nkekayaan budaya bangsa yang meliputi peninggalan -peninggalan\nsejarah, bangunan arkeologi dan monumen nasional, serta\nkeanekaragaman bentukan geologi di kawasan cagar budaya untuk\npengembangan ilmu pengetahuan dan pencagahan dari ancaman\nkepunahan yang disebabkan oleh kegiatan alam maupun manusia.\n(6) Langkah-langkah pengelolaan kawasan rawan bencana alam\nsebagaimana dimaksud dalam Pasal 10 ayat (1) huruf f dilakukan\nmelalui pengaturan kegiatan manusia di kawasan rawan bencana\nalam untuk melindungi manusia dari bencana yang diseb abkan oleh\nalam maupun secara tidak langsung oleh perbuatan manusia.\n(7) Langkah-langkah pengelolaan kawasan lindung lainnya\nsebagaimana dimaksud dalam Pasal 10 ayat (1) huruf g berupa:\na. melindungi kawasan taman buru dan ekosistemnya untuk\nkelangsungan perburuan satwa;\nb. melestarikan fungsi lindung dan tatanan lingkungan kawasan\ncagar biosfer untuk melindungi ekosistem alsi, ekosistem unit,\ndan/atau ekosistem yang telah mengalami degradasi dari\ngangguan kerusakan seluruh unsur -unsur alamnya untuk\npenelitian dan pendidikan;\nc. melestarikan fungsi lindung dan tatanan lingkungan daerah\nperlindungan plasma nutfah untuk melindungi daerah dan\nekosistemnya, serta menjaga kelestarian flora dan fauna;\nd. melestarikan fungsi lindung dan tatanan lingkungan daerah\npenggungsian satwa untuk melindungi daerah dan ekosistemnya\nbagi kehidupan satwa yang sejak semula menghuni areal\ntersebut;\ne. melestarikan fungsi dan tatanan lingkungan kawasan pantai\nberhutan bakau sebagai pembentuk ekosistem hutan\nbakau, tempat berkembangbiaknya berbagai biota laut, dan\npelindung pantai dari pengikisan air laut serta pelindung usaha\nbudi daya di belangkangnya;"
+   }
+  },
+  {
+   "id": "ID-H929-A42",
+   "no": 42,
+   "noLabel": {
+    "id": "Pasal 42"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 42\n(1) Pengendalian pemanfaatan ruang di kawasan lindung sebagaimana\ndimaksud dalam Pasal 40 ayat (3) dilakukan oleh pemerintah daerah\nsesuai dengan wilayah administrasinya dan/atau instansi yang\nberwenang berdasarkan peraturan perundang -undangan yang\nberlaku.\n(2) Pada...\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Pada Daerah lindung Tingkat II, pengendalian pemanfaatan ruang\ndi kawasan lindung sebagaimana dimaksud pada ayat (1) dilakukan\nberdasarkan pengelolaan kawasan lindung yang ditetapkan dalam\nRencana Tata Ruang wilayah Kabupaten/Kotamadya Daera h\nTingkat II.\n(3) Pada Daerah Tingkat I, pengendalian pemanfaatan ruang di\nkawasan lindung sebagaimana dimaksud pada ayat (1) dilakukan\nberdasar arahan pengelolaan kawasan lindung yang ditetapkan\ndalam Rencana Tata Ruang wilayah Propinsi Daerah Tingkat I.\n(4) Dalam hal Pemerintah Tingkat II menemui permasalahan yang tidak\ndapat diselesaikan dalam pengendalian pemanfaatan ruang di\nkawasan lindung, maka penyelesaian permasalahan tersebut\ndiputusan setelah mendapat persetujuan Gubernur Kepala Daerah\nTingkat I.\n(5) Dalam hal Pemerintah Daerah Tingkat I menemui permasalahan\nyang tidak dapat diselesaikan dalam pengendalian pemanfaatan\nruang di kawasan lindung, maka penyelesaian permasalahan\ntersebut diputuskan setelah mendapat persetujuan Menteri.\n(6) Pengendalian pemanfaatan ruang di kawasan lindung sebagaimana\ndimaksud pada ayat (1) dilaksanakan melalui kegiatan pengawasan\ndan penerbitan dalam pemanfaatan ruang."
+   }
+  },
+  {
+   "id": "ID-H929-A43",
+   "no": 43,
+   "noLabel": {
+    "id": "Pasal 43"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 43\n(1) Kegiatan pengawasan dalam pemanfaatan ruang di kawasan lindung\nsebagaimana dimaksud dalam Pasal 42 ayat (6) dilakukan melalui:\na. pemberian larangan melakukan berbagai usaha dan/atau\nkegiatan, kecuali berbagai usaha dan/atau kegiatan yang tidak\nmengganggu fungsi alam, tidak mengubah bentang alam dan\nekosistem alami;\nb. pengaturan berbagai usaha dan/atau kegiatan yang tetap dapat\nmempertahankan fungsi lindung;\nc. pencegahan berkembangannya berbagai usaha dan/atau kegiatan\nyang mengganggu fungsi lindung kawasan;\nd. pengawasan kegiatan penelitian eksplorasi mineral dan air tanah,\nserta kegia tan lain yang berkaitan dengan pencegahan bencana\nalam agar pelaksanaan kegiatannya tetap mempertahankan fungsi\nlindung kawasan;\ne. ketentuan sebagaimana dimaksud dalam huruf d diatur lebih\nlanjut oleh Menteri yang berwenang, setelah mendapat\npertimbnagan dari Menteri.\n(2) Kegiatan...\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Kegiatan enerbitan sebagaimana dimaksud dalam Pasal 42 ayat\n6) dilakukan melalui:\na. penerapan ketentuan -ketentuan yang berlaku tentang analisi\nmengenai dampak lingkungan hidup bagi berbagai usaha\ndan/atau kegiatan yang sudah ada di kawasan lindung yang\nmempunyai dampak besar dan penting terhadap lingkungan\nhidup;\nb. penerapan ketentuan -ketentuan untuk menge mbalikan fungsi\nlindung kawasan yang telah terganggu kepada fungsi lindung\nyang diharapkan secara bertahap;\nc. penegakan peraturan yang mewajibkan dilaksanakannya kegiatan\nperlindungan terhadap lingkungan hidup dan rehabilitasi daerah\nbekas penambangan pa da kawasan lindung yang dilakukan\nkegiatan penambangan bahan galian.\nBagian Kedua\nKriteria dan Pola Pengelolaan Kawasan Budi Daya\nParagraf 1\nKriteria Kawasan Budi Daya"
+   }
+  },
+  {
+   "id": "ID-H929-A44",
+   "no": 44,
+   "noLabel": {
+    "id": "Pasal 44"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 44\nKriteria kawasan budi daya merupakan ukuran yang digunakan untuk\npenentuan suatu kawasan yang ditetapkan untuk berbagai usaha dan/atau\nkegiatan dan yang dibagi dalam:\na. kriteria teknis sektoral, yaitu ukuran untuk menentukan bahwa\npemanfaatan ruang untuk suatu kegiatan dalam kawasan memenuhi\nketentuan-ketentuan teknis, daya duku ng dan daya tampung\nlingkungan hidup, kesesuaian ruang, dan bebas bencana; dan\nb. kriteria ruang, yaitu ukuran untuk menentukan bahwa pemanfaatan\nruang untuk suatu kegiatan budidaya dalam kawasan, menghasilkan\nnilai sinergi terbesar terhadap kesejahteraan masyarakat sekitarnya\ndan tidak bertentangan dengan pelestarian fungsi lingkungan hidup,\nyang didasarkan pada azas-azas sebagai berikut:\n1) saling menunjang antar kegiatan yang meliputi:\na) peningkatan daya guna pemanfaatan ruang serta s umber daya\nyang ada di dalamnya guna perkembangan kegiatan sosial\nekonomi dan budaya;\nb) dorongan terhadap perkembnagan kegiatan sekitar.\n2) kelestarian…\nPRESIDEN\nREPUBLIK INDONESIA\n2) kelestarian fungsi lingkungan hidup yang meliputi:\na) jaminan terhadap ketersediaan sumber da ya dalam waktu\npanjang;\nb) jaminan terhadap kualitas lingkungan hidup.\n3) tanggap terhadap dinamika perkembangan yang meliputi:\na) peningkatan pendapatan masyarakat;\nb) peningkatan pendapatan daerah dan nasional;\nc) peningkatan kesempatan kerja;\nd) peningkatan ekspor;\ne) peningkatan peran serta masyarakat dan kesesuaian sosial\nbudaya."
+   }
+  },
+  {
+   "id": "ID-H929-A45",
+   "no": 45,
+   "noLabel": {
+    "id": "Pasal 45"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 45\n(1) Kriteria kawasan budi daya untuk kawasan hutan produksi terbatas\nsebagaimana dimaksud dalam Pasal 11 ayat (2) huruf a adalah:\na. kawasan hutan dengan faktor-faktor kelas lereng, jenis tanah dan\nintensitas hutan, setelah masing -masing dikalikan dengan angka\npenimbang mempunyai jumlah nilai skor 125 -174 di luar hutan\nsuaka alam dan hutan pelestarian alam.\nb. kawasan yang secara ruang apabila digunakan untuk budi daya\nhutan dapat memberikan manfaat:\n1) meningkatkan perkembangan pembangunan lintas sektor dan\nsub sektor serta kegiatan ekonomi sekitarnya;\n2) meningkatkan fungsi lindung;\n3) meningkatkan upaya pelestarian kemampuan sumber daya\nhutan;\n4) meningkatkan pendapatan masyarakat terutama di daerah\nsetempat;\n5) meningkatkan pendapatan daerah dan nasional;\n6) meningkatkan kesempatan kerja terutama untuk masyarakat\ndaerah setempat;\n7) meningkatkan ekspor;\n8) mendorong perkembangan usaha dan peran serta masyarakat\nterutama di daerah setempat.\n(2) Kriteria kawasan budi daya untuk kawasan hutan produksi tetap\nsebagaimana dimaksud dalam Pasal 11 ayat (2) huruf b adalah:\na. kawasan...\nPRESIDEN\nREPUBLIK INDONESIA\na. kawasan hutan dengan faktor-faktor kelas lereng, jenis tanah, dan\nintensitas hujan setelah masing -masing dikalikan dengan angka\npenimbnag mempunyai jumlah nilai (skor) 124 atau kurang, di\nluar hutan suaka alam dan hutan pelestarian alam;\nb. kawasan yang secara ruang apabila digunakan untuk budi daya\nhutan alam dan hutan tanaman dapat memberi manfaat:\n1) meningkatkan perkembangan pembangunan lintas sektor dan\nsub sektor serta kegiatan ekonomi sekitarnya;\n2) meningkatkan fungsi lindung;\n3) meningkatkan upaya pelestraian kemampuan sumber daya\nhutan;\n4) meningkatkan pendapatan masyarakat terutama di daerah\nsetempat;\n5) meningkatkan pendapatan daerah dan nasional;\n6) meningkatkan kesempatan kerja terumata untuk masyarakat\ndaerah setempat;\n7) meningkatkan ekspor;\n8) mendorong perkembangan usaha dan p eran serta masyarakat\nterutama di daerah setempat.\n(3) Kriteria kawasan budi daya untuk kawasan hutan produksi yang\ndapat dikonversi sebagaimana dimaksud dalam Pasal 11 ayat (2)\nhuruf c adalah:\na. kawasan hutan dengan faktor-faktor kelas lereng, jenis tanah, dan\nintensitas hujan setelah masing-masing dikalikan dengan\nangka penimbang mempunyai jumlah nilai (skor) 124 atau\nkurang, di luar hutan suaka alam dan hutan pelestarian alam;\nb. kawasan hutan yang secara ruang dicadangka n untuk\ndigunakanbagi pengembangan transportasi, transmigrasi,\npermukiman, pertanian, perkebunan, industri, dan lain -lain\napabila dapat memberikan manfaat;\n1) meningkatkan perkembangan pembangunan lintas sektor dan\nsub sektor serta kegiatan ekonomi sekitarnya;\n2) meningkatkan fungsi lindung;\n3) meningkatkan upaya pelestarian kemampuan sumber daya\nhutan;\n4) meningkatkan pendapatan masyarakat terutama di daerah\nsetempat;\n5) meningkatkan pendapatan daerah dan nasional;\n6) meningkatkan...\nPRESIDEN\nREPUBLIK INDONESIA\n6) meningkatkan kesempatan kerja terutama untuk masyarakat\ndaerah setempat;\n7) meningkatkan ekspor;\n8) mendorong perkembangan usaha dan peran serta masyarakat\nterutama di daerah setempat.\n(4) Kriteria kawasan budi daya untuk kawasan hutan rakyat\nsebagaimana dimaksud dalam Pasal 11 ayat (3) adalah:\na. luas minimal 0,25 hektar dan mempunyai fungsi\nhidrologis/pelestarian ekosistem, luas penutupan tajuk minimal\n50 persen dan merupakan tanaman cepat tumbuh.\nb. kawasan yang apabila digunakan untuk kegiatan hutan ra kyat\nsecara ruang dapat memberikan manfaat:\n1) meningkatkan perkembangan pembnagunan lintas sektor dan\nsub sektor serta kegiatan ekonomi sekitarnya;\n2) meningkatkan fungsi lindung;\n3) meningkatkan upaya pelestarian kemampuan sumber daya\nalam;\n4) meningkatkan kesempatan kerja;\n5) meningkatkan pendapatan masyarakat, terutama di daerah\nsetempat;\n6) meningkatkan pendapatan daerah dan nasional;\n7) meningkatkan ekspor;\n8) mendorong perkembangan usaha dan peran serta masyarakat\nterutama di daerah setempat."
+   }
+  },
+  {
+   "id": "ID-H929-A46",
+   "no": 46,
+   "noLabel": {
+    "id": "Pasal 46"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 46\n(1) Kriteria kawasan budi daya untuk kawasan pertanian lahan basah\nsebagaimana dimaksud dalam Pasal 11 ayat (4) huruf a adalah:\na. kawasan yang secara teknis dapat digunakan untuk pertanian\nlahan basah;\nb. kawasan yang apabila digunak an untuk kegiatan pertanian lahan\nbasah secara ruang dapat memberikan manfaat untuk:\n1) meningkatkan produksi pangan dan pendayagunaan investasi;\n2) meningkatkan perkembangan pembangunan lintas sektor dan\nsub sektor serta kegiatan ekonomi sekitarnya;\n3) meningkatkan fungsi lindung;\n4) meningkatkan...\nPRESIDEN\nREPUBLIK INDONESIA\n4) meningkatkan upaya pelestarian kemampuan sumber daya\nalam untuk pertanian pangan;\n5) meningkatkan pendapatan masyarakat;\n6) meningkatkan pendapatan nasional dan daerah;\n7) menciptakan kesempatan kerja;\n8) meningkatkan ekspor;\n9) meningkatkan kesejahteraan masyarakat.\n(2) Kriteria kawasan budi daya untuk kawasan pertanian lahan kering\nsebagaimana dimaksud dalam Pasal 11 ayat (4) huruf b adalah:\na. kawasan yang secara teknis dapat dimanfaatkan sebagai kawasan\npertanian lahan kering;\nb. kawasan yang apabila dimanfaatkan untuk kegiatan pertanian\nlahan kering secara ruang dapat memberikan manfaat untuk:\n1) meningkatkan produksi pertanian dan mendayag unakan\ninvestasi;\n2) meningkatkan perkembangan pembangunan lintas sektor dan\nsub sektor serta kegiatan ekonomi sekitarnya;\n3) meningkatkan fungsi lindung;\n4) meningkatkan upaya pelestarian kemampuan sumber daya\nalam;\n5) meningkatkan pendapatan masyarakat;\n6) meningkatkan pendapatan nasional dan daerah;\n7) menciptakan kesempatan kerja;\n8) meningkatkan ekspor;\n9) meningkatkan kesejahteraan masyarakat.\n(3) Kriteria kawasan budi daya untuk kawasan tanaman\ntahunan/perkebunan sebagaimana dimaksud dalam Pasal 11 ayat (4)\nhuruf c adalah:\na. kawasan yang secara teknis dapat digunakan untuk kegiatan\nperkebunan;\nb. kawasan yang apabila digunakan untuk kegiatan perkebunan\nsecara ruang dapat memberikan manfaat untuk:\n1) meningkatkan produksi perkebuna n dan mendayagunaan\ninvestasi;\n2) meningkatkan...\nPRESIDEN\nREPUBLIK INDONESIA\n2) meningkatkan perkembangan pembangunan lintas sektor dan\nsub sektor serta kegiatan ekonomi sekitarnya;\n3) meningkatkan fungsi lindung;\n4) meningkatkan upaya pelestarian kemampuan sumber daya\nalam;\n5) meningkatkan pendapatan masyarakat;\n6) meningkatkan pendapatan nasional dan daerah;\n7) meningkatkan kesempatan kerja;\n8) meningkatkan ekspor;\n9) meningkatkan kesejahteraan masyarakat.\n(4) Kriteria kawasan budi daya untuk kawasan peternakan se bagaimana\ndimaksud dalam Pasal 11 ayat (4) huruf d adalah:\na. kawasan yang secara teknis dapat digunakan untuk usaha\npeternakan baik sbagai sambilan, cabang usaha, usaha pokok,\nmaupun industri;\nb. kawasan yang apabila digunakan untuk kegiatan peternakan\nsecara ruang dapat memberikan manfaat:\n1) meningkatkan produksi peternakan dan mendayagunakan\ninvestasi;\n2) meningkatkan perkembangan pembangunan lintas sektor dan\nsub sektor serta kegiatan ekonomi sekitarnya;\n3) meningkatkan fungsi lindung;\n4) tidak mengganggu upaya pelestarian kemampuan sumber\ndaya alam;\n5) meningkatkan pendapatan masyarakat;\n6) meningkatan pendapatan dan daerah;\n7) meningkatkan kesempatan kerja;\n8) meningkatkan ekspor;\n9) meningkatkan kesejahteraan masyarakat.\n(5) Kriteria kawasan budi daya untuk kawasan perikanan sebagaimana\ndimaksud dalam Pasal 11 ayat (4) huruf e adalah:\na. kawasan yang secara teknis dapat digunakan untuk kegiatan\nperikanan;\nb. kawasan yang apabila digunakan untuk kegiatan perikanan secara\nruang dapat memberikan manfaat:\n1) meningkatkan...\nPRESIDEN\nREPUBLIK INDONESIA\n1) meningkatkan produksi perikanan dan mendayagunakan\ninvestasi;\n2) meningkatkan perkembangan pembangunan lintas sektor dan\nsub sektor serta kegiatan ekonomi sekitarnya;\n3) meningkatkan fungsi lindung;\n4) tidak mengganggu upaya pelestarian kemampuan sumber\ndaya alam;\n5) meningkatkan pendapatan masyarakat;\n6) meningkatan pendapatan dan daerah;\n7) meningkatkan kesempatan kerja;\n8) meningkatkan ekspor;\n9) meningkatkan kesejahteraan masyarakat."
+   }
+  },
+  {
+   "id": "ID-H929-A47",
+   "no": 47,
+   "noLabel": {
+    "id": "Pasal 47"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 47\nKriteria kawasan budi daya untuk kawasan pertambangan sebagaimana\ndimaksud dalam Pasal 11 ayat (5) adalah:\na. kawasan yang secara teknis dapat digunakan untuk pemusatan\nkegiatan pertambangan, serta tidak mengganggu kelestarian fungsi\nlingkungan hidup;\nb. kawasan yang apabila digunakan untuk kegiatan pertambangan\nsecara ruang akan memberikan manfaat dalam:\n1) meningkatkan produksi pertambangan;\n2) meningkatkan perkembangan pembangunan lintas sektor dan sub\nsektor serta kegiatan ekonomi sekitarnya;\n3) tidak mengganggu fungsi lindung;\n4) tidak mengganggu upaya pelestarian kemampuan sumber daya\nalam;\n5) meningkatkan pendapatan masyarakat;\n6) meningkatan pendapatan nasional dan daerah;\n7) meningkatkan kesempatan kerja;\n8) meningkatkan ekspor;\n9) meningkatkan perkembangan masyarakat."
+   }
+  },
+  {
+   "id": "ID-H929-A48",
+   "no": 48,
+   "noLabel": {
+    "id": "Pasal 48…"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 48\nKriteria kawasan budi daya untuk kawasan peruntukan industri\nsebagaimana dimaksud dalam Pasal 11 ayat (6) adalah:\na. kawasan yang secara teknis dapat digunakan untuk kegiatan industri\nserta tidak mengganggu kelestarian fungsi lingkungan hidup;\nb. kawasan yang apabila digunakan untuk kegiatan industri secara\nruang dapat memberikan manfaat dalam:\n1) meningkatkan produksi hasil industri dan meningkatkan daya\nguna investasi yang ada di daerah sekitarnya;\n2) meningkatkan perkembangan pembangunan lintas sektor dan sub\nsektor serta kegiatan ekonomi sekitarnya;\n3) tidak mengganggu fungsi lindung;\n4) tidak mengganggu upaya pelestarian sumber daya alam;\n5) meningkatkan pendapatan masyarakat;\n6) meningkatan pendapatan nasional dan daerah;\n7) meningkatkan kesempatan kerja;\n8) meningkatkan ekspor;\n9) meningkatkan perkembangan masyarakat."
+   }
+  },
+  {
+   "id": "ID-H929-A49",
+   "no": 49,
+   "noLabel": {
+    "id": "Pasal 49"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 49\nKriteria kawasan budi daya untuk kawasan pariwisata sebagaimana\ndimaksud dalam Pasal 11 ayat (7) adalah:\na. kawasan yang secara teknis dapat digunakan untuk kegiatan\nparisata, serta tidak mengganggu kelestarian budaya, keindahan\nalam dan lingkungan;\nb. kawasan yang apabila digunakan untuk kegiatan pariwisata secara\nruang dapat memberikan manfaat dalam:\n1) meningkatkan devisa dan mendayagunakan investasi;\n2) meningkatkan perkembangan pembangunan lintas sektor dan sub\nsektor serta kegiatan ekonomi sekitarnya;\n3) tidak mengganggu fungsi lindung;\n4) tidak mengganggu upaya pelestarian sumber daya alam;\n5) meningkatkan pendapatan masyarakat;\n6) meningkatan…\nPRESIDEN\nREPUBLIK INDONESIA\n6) meningkatan pendapatan nasional dan daerah;\n7) meningkatkan kesempatan kerja;\n8) melestarikan budaya;;\n9) meningkatkan kesejahteraan masyarakat."
+   }
+  },
+  {
+   "id": "ID-H929-A50",
+   "no": 50,
+   "noLabel": {
+    "id": "Pasal 50"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 50\nKriteria kawasan budi daya untuk kawasan permukiman sebagaimana\ndimaksud dalam Pasal 11 ayat (8) adalah:\na. kawasan yang secara teknis dapat digunakan untuk permukiman\nyang aman da ri bahaya bencana alam maupun buatan manusia,\nsehat dan mempunyai akses untuk kesempatan berusaha;\nb. kawasan yang apabila digunakan untuk permukiman dapat\nmemberikan manfaat:\n1) meningkatkan ketersediaan permukiman dan mendayagunakan\nprasarana dan sarana permukiman;\n2) meningkatkan perkembangan pembangunan lintas sektor dan sub\nsektor serta kegiatan ekonomi sekitarnya;\n3) tidak mengganggu fungsi lindung;\n4) tidak mengganggu upaya pelestarian sumber daya alam;\n5) meningkatkan pendapatan masyarakat;\n6) meningkatan pendapatan nasional dan daerah;\n7) meningkatkan kesempatan kerja;\n8) meningkatkan kesejahteraan masyarakat.\nParagraf 2\nPola Pengelolaan Kawasan Budidaya"
+   }
+  },
+  {
+   "id": "ID-H929-A51",
+   "no": 51,
+   "noLabel": {
+    "id": "Pasal 51"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 51\n(1) Pola pengelolaan kawasan budi daya bertujuan untuk meningkatkan\ndaya guna dan hasil guna pemanfaatan ruang dan sumber daya alam\ndan sumber daya buatan dengan memperhatikan sumber daya\nmanusia untuk menyerasikan pemanfaatan ruang dan kelestarian\nfungsi lingkungan hidup.\n(2) Pengelolaan...\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Pengelolaan kawasan budi daya dilakukan secara seksama dan\nberdaya guna sebesar -besarnya bagi kepentingan masyarakat\nmelalui kegiatan -kegiatan budi daya dengan mempertimbangkan\naspek-aspek teknis seperti daya dukung dan kesesuaian tanah, aspek\nsosial serta aspek-aspek keruangan seperti sinergi kegiatan-kegiatan\ndan kelestarian fungsi lingkungan hidup.\n(3) Pengelolaan kawasan budi daya diselenggarakan untuk:\na. terwujudnya pemanfaatan ruang dan sumber daya alam untuk\nkesejahteraan masyarakat de ngan tetap memperhatikan\nkelestarian fungsi lingkungan hidup;\nb. terhindarkannya konflik pemanfaatan sumber daya dengan\npengertian pemanfaatan ruang harus berdasarkan pada prioritas\nkegiatan yang memberikan keuntungan terbesar pada masyarakat.\n(4) Pola pe ngelolaan kawasan budi daya meliputi langkah -langkah\npengelolaan kawasan budi daya dan pengendalian pemanfaatan\nruang di kawasan budi daya."
+   }
+  },
+  {
+   "id": "ID-H929-A52",
+   "no": 52,
+   "noLabel": {
+    "id": "Pasal 52"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 52\n(1) Langkah-langkah pengelolaan kawasan hutan produksi\nsebagaimana dimaksud dalam Pasal 11 ayat (1) huruf a berupa :\na. menerapkan cara pengelolaan hutan yang tepat dalam\nmemanfaatkan ruang beserta sumber daya hutan di kawasan\nhutan produksi terbatas, unntuk memperoleh hasil -hasil hutan\nbagi kepentingan negara , masyarakat, industri dan ekspor\ndengan tetap menjaga kelestarian fungsi lingkungan hidup;\nb. menerapkan cara pengelolaan hutan yang tepat dalam\nmemanfaatkan ruang beserta sumber daya hutan di kawasan\nhutan produksi tetap, untuk memperoleh hasil-hasil hutan bagi\nkepentingan negara, masyarakat, industri, dan ekspor dengan\ntetap menjaga kelestarian fungsi lingkungan hidup;\nc. menerapkan cara pengelolaan hutan yang tepat dalam\nmemanfaatkan ruang kawasan hutan produksiyang dapat\ndikonversi guna mendukung p engembangan transportasi,\ntransmigrasi, pertanian, permukiman, perkebunan, industri, dan\nlain-lain, dengan tetap menjaga kelestarian fungsi lingkungan\nhidup.\n(2) Langkah-...\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Langkah-langkah pengelolaan kawasan hutan rakyat sebagaimana\ndimaksud dalam Pasal 11 ayat (1) huruf b berupa menerapkan cara\npengelolaan hutan yang tepat dalam memanfaatkan ruang, beserta\nsumber daya alam di tanah yang dibebani hak lainnya untuk\nmeningkatkan penyediaan kayu bagi kepentingan rakyat dan bahan\nbaku industri pengelo laan kayu, dengan tetap menjaga kelestarian\nfungsi lingkungan hidup.\n(3) Langkah-langkah pengelolaan kawasan pertanian sebagaimana\ndimaksud dalam Pasal 11 ayat (1) huruf c berupa :\na. memanfaatkan potensi tanah yang sesuai untuk peningkatan\nkegiatan produ ksi pangan tanah basah di kawasan pertanian\ntanah basah, dengan tetap memperhatikan kelestarian fungsi\nlingkungan hidup;\nb. memanfaatkan potensi tanah yang sesuai untuk peningkatan\nkegiatan produksi pangan tanah kering di kawasan pertanian\ntanah kerig, de ngan tetap memperhatikan kelestarian fungsi\nlingkungan hidup;\nc. memanfaatkan potensi tanah yang sesuai untuk peningkatan\nkegiatan produksi perkebunan di kawasan perkebunan, dengan\ntetap memperhatikan kelestarian fungsi lingkungan hidup;\nd. memanfaatkan tanah yang sesuai untuk peningkatan kegiatan\nproduksi peternakan beserta hasil -hasilnya di kawasan\npeternakan, dengan tetap memperhatikan kelestarian fungsi\nlingkungan hidup;\ne. memanfaatkan potensi wilayah yang sesuai untuk peningkatan\nkegiatan produksi perikanan di kawasan perikanan, dengan tetap\nmemperhatikan kelestarian fungsi lingkungan hidup untuk\nmewujudkan pembangunan yang berkelanjutan.\n(4) Langkah-langkah pengelolaan kawasan pertambangan sebagaimana\ndimaksud dalam Pasal 11 ayat (1) huruf d berupa memanfaatkan\nsumber daya mineral, energi dan bahan galian lainnya di kawasan\npertambangan untuk sebesar -besarnya kemakmuran rakyat, dengan\ntetap memelihara sumber daya tersebut sebagai cadangan\npembangunan yang berkelanjutan dan tetap memperhatikan\nkaidah-kaidah pelestarian fungsi lingkungan hidup.\n(5) Langkah-langkah pengelolaan kawasan peruntukan industri\nsebagaimana dimaksud dalam Pasal 11 ayat (1) huruf e berupa\nmemanfaatkan potensi kawasan peruntukan industri untuk\nmeningkatkan nilai tambah pemanfaata n ruang dalam memenuhi\nkebutuhan ruang bagi pengembangan kegiatan industri, dengan\ntetap mempertahankan kelestarian fungsi lingkungan hidup.\n(6) Langkah-...\nPRESIDEN\nREPUBLIK INDONESIA\n(6) Langkah-langkah pengelolaan kawasan pariwisata sebagaimana\ndimaksud dalam Pasal 11 ayat (1) h uruf f berupa memanfaatkan\npotensi keindahan alam dan budaya di kawasan pariwisata guna\nmendorong perkembangan pariwisata dengan memperhatikan\nkelestarian nilai -nilai budaya, adat istiadat, mutu dan keindahan\nlingkungan alam dan kelestarian fungsi lingkungan hidup.\n(7) Langkah-langkah pengelolaan kawasan permukiman sebagaimana\ndimaksud dalam Pasal 11 ayat (1) huruf g berupa memanfaatkan\nruang yang sesuai untuk tempat bermukim di kawasan permikiman\ndengan menyediakan lingkungan yang sehat dan aman dari benca na\nalam serta dapat memberikan lingkungan hidup yang sesuai bagi\npengembangan masyarakat, dengan tetap memperhatikan\nkelestarian fungsi lingkungan hidup."
+   }
+  },
+  {
+   "id": "ID-H929-A53",
+   "no": 53,
+   "noLabel": {
+    "id": "Pasal 53"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 53\n(1) Pengendalian pemanfaatan ru ang di kawasan budi daya\nsebagaimana dimaksud dalam Pasal 51 ayat (4) dilakukan oleh\npemerintah daerah sesuai dengan wilayah administrasinya dan/atau\ninstansi yang berwenang berdasarkan peraturan\nperundang-undangan yang berlaku.\n(2) Pada Daerah Tingkat II, pengendalian pemanfaatan ruang di\nkawasan budi daya sebagaimana dimaksud pada ayat (1) dilakukan\nberdasarkan pengelolaan kawasan budi daya yang ditetapkan dalam\nRencana Tata Ruang Wilayah Kabupaten/Kotamadya Daerah\nTingkat II.\n(3) Pada Daerah Tingkat I, p engendalian pemanfaatan ruang di\nkawasan budi daya sebagaimana dimaksud pada ayat (1) dilakukan\nberdasarkan arahan pengelolaan kawasan budi daya yang ditetapkan\ndalam Rencana Tata Ruang wilayah Propinsi Daerah Tingkat I.\n(4) Dalam hal Pemerintah Daerah Tin gkat II menemui permasalahan\nyang tidak dapat diselesaikan dalam pengendalian pemanfaatan\nruang di kawasan budi daya, maka penyelesaian permasalahan\ntersebut diputuskan setelah mendapat persetujuan Gubernur Kepala\nDaerah Tingkat I.\n(5) Dalam hal Pemerintah Daerah Tingkat I menemui permasalahan\nyang tidak dapat diselesaikan dalam pengendalian pemanfaatan\nruang di kawasan budi daya, maka penyelesaian permasalahan\ntersebut diputuskan setelah mendapat persetujuan Menteri.\n(6) Pengendalian...\nPRESIDEN\nREPUBLIK INDONESIA\n(6) Pengendalian pemanfaatan ruang di kawasan budi daya\nsebagaimana dimaksud pada ayat (1) dilaksanakan melalui kegiatan\npengawasan dan penertiban dalam pemanfaatan ruang."
+   }
+  },
+  {
+   "id": "ID-H929-A54",
+   "no": 54,
+   "noLabel": {
+    "id": "Pasal 54"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 54\n(1) Kegiatan pengawasan sebagaimana dimaksud dalam Pasal 53ayat\n(6) dilakukan melalui :\na. pengkajian dampak lingkungan sebagaimana diatur dalam\nperaturan perundang -undangan dalam pengembangan berbagai\nusaha dan/atau kegiatan, terutama yang berskala besar;\nb. pengawasan terhadap proses pelaksanaan berbagai usaha\ndan/atau kegiatan berdasarkan prosedur dan tata cara\npemanfaatan ruang di kawasan budi daya agar terlaksana\nkelestarian antar kegiatan ruang di kawasan budi daya;\nc. pengawasan terhadap pelaksanaan kegiatan penelitian eksplorasi\nmineral dan air tanah, serta kegiatan lain yang berkai tan dengan\npencegahan bencana alam di kawasan budi daya agar tetap\nterjaga kelestarian fungsi lingkungan hidup, keamanan dan\nkeberlanjutan usaha dan/atau kegiatan budi daya lainnya;\nd. pemantauan dan evaluasi dalam pemanfaatan ruang di kawasan\nbudi daya.\n(2) Kegiatan penertiban sebagaimana dimaksud dalam pasal 53 ayat (6)\ndilakukan melalui :\na. penegakan prosedur perizinan dalam mendirikan bangunan untuk\nmenjamin bangunan yang akan dibangun telah sesuai dengan\nperuntukan ruang dan kegiatan yang direncanakan;\nb. dalam pemberian izin mendirikan bangunan, Pemerintah Daerah\nmemperhatikan\nBagian Ketiga\nKriterian dan Pola Pengelolaan Kawasan Tertentu\nParagraf 1\nKreteria Kawasan Tertentu"
+   }
+  },
+  {
+   "id": "ID-H929-A55",
+   "no": 55,
+   "noLabel": {
+    "id": "Pasal 55"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 55\n(1) Kriteria kawasan tertentu adalah berupa ukuran dan/atau\npersyaratan yang digunakan untuk penentuan kawasan -kawasan\nyang perlu ditetapkan sebagai kawasan tertentu.\n(2) Kriteria...\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Kriteria kawasan tertentu adalah:\na. kawasan yang mempunyai skala kegiatan pr oduksi dan/atau\npotensi sumber daya alam, sumber daya buatan, dan sumber daya\nmanusia yang besar dan berpengaruh terhadap pengembangan\naspek ekonomi, demografi, politik, pertahanan dan keamanan,\nserta pengembangan wilayah sekitarnya;\nb. kawasan yang mempu nyai skala kegiatan produksi dan/atau\npotenmsi sumber daya alam, sumber daya buatan, dan sumber\ndaya manusia yang besar serta usaha dan/atau kegiatannya\nberdampak besar dan penting terhadap kegiatan sejenis maupun\nkegiatan lain baik di wilayah bersangkutan , wilayah sekitarnya,\nmaupun wilayah negara;\nc. kawasan yang memiliki faktor pendorong besar bagi peningkatan\nkesejahteraan sosial ekonomi masyarakat baik di wilayah yang\nbersangkutan maupun di wilayah sekitarnya;\nd. kawasan yang mempunyai keterkaitan ya ng dilaksanakan di\nwilayah lainnya yang berbatasan baik dalam lingkup nasional\nmaupun regional; dan/atau\ne. kawasan yang mempunyai posisi strategis serta usaha dan/atau\nkegiatannya berdampak besar dan penting terhadap kondisi\npolitis dan pertahanan keamanan nasional serta regional.\nParagraf 2\nPola Pengelolaan Kawasan Tertentu"
+   }
+  },
+  {
+   "id": "ID-H929-A56",
+   "no": 56,
+   "noLabel": {
+    "id": "Pasal 56"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 56\n(1) Pola pengeloalaan kawasan tertentu bertujuan untuk:\na. terselenggaranya penataan ruang kawasan yang strategis dan\ndiprioritaskan, dalam rangka penataan ruang nasional atau ruang\nwilayah Propinsi Daerah Tingkat I atau ruang wilayah\nKabupaten/Kotamadya Daerah Tingkat II;\nb. meningkatkan fungsi kawasan lindung d an fungsi kawasan budi\ndaya yang berada dalam kawasan tertentu;\nc. mengatur pemanfaatan ruang guna meningkatkan kesejahteraan\ndan pertahanan keamanan negara;\nd. menciptakan nilai tambah dan pengaruh positif secara ekonomis\ndari pengembangan kawasan strat egis, baik bagi pembangunan\nnasional maupun pembangunan daerah.\n(2) Pola...\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Pola pengelolaan kawasan tertentu meliputi langkah -langkah\npengelolaan kawasan tertentu dan pengendalian pemanfaatan ruang"
+   }
+  },
+  {
+   "id": "ID-H929-A57",
+   "no": 57,
+   "noLabel": {
+    "id": "Pasal 57"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 57\nLangkah-langkahpengelolaankawasan tertentu berupa :\na. mengoptimalkan pemanfaatanruang agar sesuai dengan poternsinya,\ndapat mengarahkan pola investasi baik pemerintah maupun swasta\ndan masyarakat untuk meningkatkanpembangunan kawasan ,\nmeminimalkan konflik pemanf aatan ruang, dan mengupayakan\nsinergi pembangunan yang tinggi baik terhadap Daerah Tingkat II,\nTingkatI maupun Nasional;\nb. memacu perkembangan kawasan/daerah dengan memanfaatkan\npoternsi-potensi yang ada secara optimal melalui pola investasi\nyangterarah, baik pemerintah maupuan swasta dan masyarakat,\ndengan mngupayakan sinergi pembangunan yang tinggi;\nc, meningkatkan tingkat kesejahteraan sosial ekonomi masyarakat dan\nwilayah tersebut melaluipelaksanaan program -program\npembangunan secara terpadu dan lintas sektoral di tingkat pusat,\npropinsi dan kabupaten/kotamdya;\nd. meningkatkan kegiatan sosial dan ekonomo kawasan agar\npertahanan keamanan negara dapat diselenggarakan secara optimal\ndan dap0at mengantisipasi setiap bentukancaman yang akan timbul;\ne. memanfaatkan sumber daya alam ruang kawasan untuk\nmengembalikan keseimbangan dan kelestarian fungsi dan tatanan\nlingkungan hidup di kawasan yang bersangkutan."
+   }
+  },
+  {
+   "id": "ID-H929-A58",
+   "no": 58,
+   "noLabel": {
+    "id": "Pasal 58"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 58\n(1) Dalam rangka mewujudkan langkah -langkah pengelolaan kawasan\ntertentu sebagaimana dimaksud dalam Pasal 57 yang berhasil guna,\nperlu disusunrencana tata ruang kawasan tertentu dengan\nmemperhatikan keterpaduannya dengan Rencana Tata Ruang\nwilayah Propinsi Daerah Tingkat I dan Rencana Tata Ruang\nwilayah Kabupaten/Kotamadya Daerah Tingkat II.\n(2) Penyusunan rencana tata ruang kawasan tertentu sebagaimana\ndimaksud pada ayat (1) dikoordinasikan oleh Menteri."
+   }
+  },
+  {
+   "id": "ID-H929-A59",
+   "no": 59,
+   "noLabel": {
+    "id": "Pasal 59…"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 59\n(1) Pengendalian pemanfaatan ruang di kawasan tertentu\ndiselenggarakan sesuai dengan peraturan perundang -undangan yang\nberlaku.\n(2) Pengendalian pemanfaatan ruangdi kawasan tertentu sebagaimana\ndimaksud pada ayat (1) dilaksanakan melalui kegiatan pengawasan\ndan penertibandalam pemanfaatan ruang."
+   }
+  },
+  {
+   "id": "ID-H929-A60",
+   "no": 60,
+   "noLabel": {
+    "id": "Pasal 60"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 60\n(1) Keigiatan pengawasan sebagaimana dimaksud dalam Pasal 5 9 ayat\n(2) dilakukan melalui :\na. pengkajian dampak lingkungan hidup sebagaimana dimaksud\ndalam peraturan perundang -undangan tentang analisis mengenai\ndampak lingkungan hidup dalam pengembangan berbagai usaha\ndan/atau kegiatan, terutama bagi kegiatan yang berskala besar;\nb. pengawasan terhadap proses pelaksanaan kegiatan berdasarkan\nprosedur dan tata cara pemanfaatan ruang di kawasan tertentu\nagar terlaksana keserasian antar kegiatan pemanfaatan rung di\nkawasan tertentu;\nc. pengawasan terhadap pelaksanaan kegiatan penelitian eksplorasi\nmineral dan air tanah, serta kegiatan lain yang bekaitan enga\npencegahan bencana alam di kawasan tertentu agar tetap terjaga\nkelestarian fungsi lingkungan hidup, keamanan dan\nkeberlanjutan anta rkegiatan yang prosedur dan tata caranya\ndilakukan sesua dengan peraturan perunang -undangan yang\nberlaku;\nd. pemantauan dan evaluasi dalam pemanfaatan ruang di kawasan\ntertentu;\n(2) Kegiatan penertiban sebagaimana dimaksud dalam Pasal 59 ayat (2)\ndilakukan melalui:\na. penegakan prosedur perizinan dalam mendirikan bangunan untuk\nmenjamin pelaksanaan kegiatan telah sesuai dengan peruntukan\nruang dan kegiatan yang direncenakan;\nb. pemberian izin mendirikan bangunan dilakukan berdasarkan\nperaturan perundang-undangan yang berlaku.\nBAB V…\nPRESIDEN\nREPUBLIK INDONESIA\nBAB V\nKETENTUAN LAIN"
+   }
+  },
+  {
+   "id": "ID-H929-A61",
+   "no": 61,
+   "noLabel": {
+    "id": "Pasal 61"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 61\nRencana Tata Ruang wilayah Nasional sebagaimana dimaksud dalam\nPasal 2 digambarkan dalam peta wilayah Negara Indonesia dengan\ntingkat ketelitian peta skala minimal 1 : 1.000.000, yang meru pakan\nbagian tidak terpisahkan dari Peraturan Pemerintah ini."
+   }
+  },
+  {
+   "id": "ID-H929-A62",
+   "no": 62,
+   "noLabel": {
+    "id": "Pasal 62"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 62\nRencana Tata Ruang wilayah Nasional digunakan sebagai pedoman bagi\n:\na. perumusan kebijaksanaan pokok pemanfaatan ruang di wilayah\nnasional seara adil dan merata;\nb. mewujudkan ketetpaduan, keterkaitan, dan keseimbangan\nperkembangan antar wilayah serta keserasian antarsektor;\nc. pengarahan lokasi investasi pemerintah, swasta dan/atau\nmasyarakat;\nd. penataan ruang wilayah Propinsi Daerah Tingkat I dan wilayah\nKabupaten/Kotamadya Daerah Tingkat II."
+   }
+  },
+  {
+   "id": "ID-H929-A63",
+   "no": 63,
+   "noLabel": {
+    "id": "Pasal 63"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 63\nPeninjauan kembali dan/atau penyempurnaan Rencana Tata Ruang\nwilayah Nasional dapat dilakukan paling tidak 5 tahun setelah berlakunya\nPeraturan Pemerintah ini.\nBAB V…\nPRESIDEN\nREPUBLIK INDONESIA\nBAB V\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H929-A64",
+   "no": 64,
+   "noLabel": {
+    "id": "Pasal 64"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 64\nPada saat mulai berlakunay Peraturan Pemerintah ini, maka semua\nrencana tata ruang wilayah, daerah, dan sektoral yang berkaitan dengan\npenataan ruang tetap berlaku sepanjang tidak bertentangan dengan\nRencana Tata Ruang Wilayah Nasional sesuai den gan Peraturan\nPemerintah ini.\nBAB VI\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H929-A65",
+   "no": 65,
+   "noLabel": {
+    "id": "Pasal 65"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 65\nHal-hal yang belum diatur dalam Peraturan Pemerintah ini sepanjang\nmengenai pelaksanan penataan ruang pad kawasan -kawasan di ruang\ndaratan, ruang lautan, dan ruang udara sebagai bagian dari Rencana Tata\nRuang Wilayah Nasional akan diatur lebih lanjut dengan Keputusan\nPresiden."
+   }
+  },
+  {
+   "id": "ID-H929-A66",
+   "no": 66,
+   "noLabel": {
+    "id": "Pasal 66"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 66\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar...\nPRESIDEN\nREPUBLIK INDONESIA\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nperaturan pemerintah ini dengn penempatannya dalam Lembaran Negara\nRepublik Indonesia.\nDitetapkan di Jakarta\npada tanggal 30 Desember 1997\nPRESIDEN REPUBLIK INDONESIA\nttd.\nSOEHARTO\nDiundangkan di Jakarta\npada tanggal 30 Desember 1997\nMENTERI SEKRETARIS NEGARA\nREPUBLIK INDONESIA\nttd.\nMOERDIONO\nLEMBARAN NEGARA REPUBLIK I NDONESIA TAHUN 1997 NOMOR 96\nPRESIDEN\nREPUBLIK INDONESIA\nPENJELASAN\nATAS\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nNOMOR 47 TAHUN 1997\nTENTANG\nRENCANA TATA RUANG WILAYAH NASIONAL\nUMUM\nPelaksanaan pembangunan nasional dalam kurun waktu Pembangunan Jangka Panjang I\n(PJP I) telah menghasilkan kemajuan dalam segenap aspek kehidupa n bangsa, dan telah\nmeletakkan landasan yang kuat untuk memasuki tahap pembangunan selanjutnya.\nKetersediaan sarana dan prasarana fisik semakin baik, dan kebutuhan pokok rakyat\nsemakin terpenuhi. Di bidang ekonomi terlihat peluang yang meyakinkan karena st ruktur\nekonomi nasional semakin kuat.\nDi samping peluang yang dimiliki, banyak tantangan yang akan dihadapi dalam\nmelaksanakanPembangunan Jangka Panjang II (PJP II). Tantangan tersebut disebabkan\nadanya perubahan tuntutan dan keinginan masyarakat, baik ka rena perubahan kualitas\nhidup sebagai akibat kemajuan pembangunan maupun pengaruh perkembangan teknologi\ndan globalisasi.\nUpaya pembangunan nasional harus ditingkatkan terus melalui perencanaan, pelaksanaan,\ndan pengawasan pembangunan yang lebih baik agar seluruh pikiran dan sumberdaya\ndapat diarahkan secara berhasil guna dan berdaya guna. Salah satu hal penting yang\ndibutuhkan untuk mencapai maksud tersebut adalah peningkatan keterpaduan dan\nkeserasian pembangunan di segala bidang.\nPembangunan dilakukan melalui tujuh bidang pembangunan dengan meletakkan titik\nberat pada bidang ekonomi seiring dengan kualitas sumber daya manusia, dan didorong\nuntuk saling memperkuat, saling terkait dan terpadu dengan pembangunan bidang\nlainnya.\nDalam melaksanakan pembangu nan, penggunaan sumber daya alam dilakukan secara\nterencana, rasional, optimal, bertanggung jawab, dan sesuai dengan kemampuan daya\ndukungnya, dengan mengutamakan sebesar -besar kemakmuran rakyat, serta dengan\nmemperhatikan kelestarian fungsi dan keseimbang an lingkungan hidup serta\nkeanekaragaman hayati guna mewujudkan pembangunan yang berkelanjutan.\nSehubungan dengan itu, Rencana Tata Ruang wilayah Nasional yang berwawasan\nnusantara dijadikan pedoman bagi perencanaan pembangunan agar penataan lingkungan\nhidup dan pemanfaatan sumber daya alam dapat dilakukan secara aman, tertib, efisien dan\nefektif.\nRencana…\nPRESIDEN\nREPUBLIK INDONESIA\nRencana tata ruang yang memadukan dan menyerasikan tata guna tanah, air, dan\nsumberdaya alam lainnya dalam satu kesatuan tata lingkungan yang harmonis dan dinamis\nserta ditunjang oleh pengelolaan perkembangan kependudukan yang serasi disusun\nmelalui pendekatan wilayah dengan memperhatikan sifat lingkungan alam dan\nlingkungan sosial.\nRencana Tata Ruang wilayah Nasional sebagai pedoman untuk pengarahan inve stasi\npembangunan nasional dan sebagai dasar perencanaan pembangunan merupakan bagian\nintegral dari pembangunan nasional secara keseluruhan. Oleh karena itu, tujuan penataan\nruang harus diselaraskan dengan tujuan pembangunan nasional melalui penterjemahan\ntujuan dan sasaran pembangunan nasional PJP II ke dalam rencana pola pemanfaatan dan\nstruktur ruang nasional yang meliputi indikasi sebaran kawasan lindung dan kawasan budi\ndaya dan sektor -sektor yang perlu dikembangkan di dalamnya, arahan pengembangan\nsistem permukiman dan arahan pengembangan jaringan prasarana dan sarana dasar.\nPASAL DEMI PASAL\nPasal 1\nCukup jelas\nPasal 2\nCukup jelas\nPasal 3\nHuruf a\nTujuan nasional pemanfaatan ruang adalah pemanfaatan ruang wilayah\nnasional secara berhasil guna dan berdaya guna untuk peningkatan\nkesejahteraan masyarakat dan pertahanan keamanan secara berkelanjutan\nmelalui upaya -upaya pemanfaatan sumberdaya alam di dal amnya secara\nberhasil guna dan berdaya guna, keseimbangan antarwilayah dan\nantarsektor, pencegahan kerusakan fungsi dan tatanan serta peningkatan\nkualitas lingkungan hidup.\nHuruf b\nPola pemanfaatan ruang nasional adalah gambaran secara indikatif yang\nmemperlihatkan sebaran kawasan lindung dan kawasan budi daya.\nStruktur pemanfaatan ruang nasional adalah struktur yang memperlihatkan\narahan pengembangan jaringan transportasi, kelistrikan, telekomunikasi,\ndan pengairan dalam upaya untuk mendukung sistem per mukiman dan\nkawasan.\nHuruf c…\nPRESIDEN\nREPUBLIK INDONESIA\nHuruf c\nKriteria kawasan lindung, kawasan budi daya dan kawasan tertentu adalah\nukuran-ukuran dan/atau syarat -syarat yang digunakan untuk menetapkan\nkawasan.\nPola pengelolaan kawasan lindung, kawasan budi daya dan kawasan\ntertentu adalah bagian dari kegiatan penataan ruang nasional dalam rangka\nuntuk meningkatkan fungsi dari masing-masing kawasan.\nPasal 4\nHuruf a\nUpaya mencapai pemanfaatan sumber daya alam dimaksud dilakukan\nmelalui :\n1) pemanfaatan sumber daya alam ya ng seoptimal mungkin dengan tetap\nmemperhatikan kelestarian fungsi dan tatanan lingkungan hidup;\n2) pengarahan lokasi investasi nasional dalam pengelolaan dan\npengembangan kawasan lindung, kawasan budi daya, dan kawasan\ntertentu;\n3) pengelolaan tata guna tanah, air, udara, dan sumber daya alam lainnya;\n4) penetapan pokok -pokok kriteria penentuan kawasan budi daya serta\nkebijaksanaan pengelolaannya.\nHuruf b\nCukup jelas\nHuruf c\nYang dimaksud dengan memelihara p ertahanan keamanan negara yang\ndinamis adalah menumbuhkan kesadaran untuk mematuhi peraturan\nperundang-undangan yang berlaku dalam kaitannya dengan pertahanan\nkeamanan.\nHuruf d\nUpaya meningkatkan kualitas lingkungan hidup dan mencegah kerusakan\nfungsi dan tatanannya dilakukan melalui :\n1) peningkatan perlindungan bagi tanah, air, iklim, keanekaragaman\nhayati, tumbuhan dan satwa, serta nilai sejarah dan budaya bangsa;\n2) pemeliharaan keanekaragaman hayati, ekosistem dan keunikan alam\nserta kearifan tradisional;\n3) penetapan pokok -pokok kriteria penentuan kawasan lindung serta\nkebijaksanaan pengelolaannya.\nPasal 5…\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 5\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 6\nAyat (1)\nStrategi pengembangan kawasan lindung pada dasarnya ditujukan untuk\nmewujudkan pelestarian alam yang meliputi lingkungan hidup, alam dan\nsuaka alam untuk mewujudkan pembangunan yang berkelanjutan. Dalam\npelaksanaan pembangunan, kegiatan sosial dan ekonomi yang meliputi\nkegiatan produksi, penelitian dan pembangunan prasarana dan sarana dasar\npendukung sering tidak terelakkan harus dilakukan di dalam atau melalui\nkawasan lindung. Oleh karena itu, dalam batasan -batasan tertentu dan\nmengingat bahwa kawasan lind ung diutamakan untuk pelestarian alam, di\ndalam kawasan lindung dapat dilakukan kegiatan -kegiatan penelitian,\neksplorasi dan produksi serta pembangunan prasarana dan sarana dasar\npendukung dengan tetap memperhatikan ketentuan -ketentuan dan\npersyaratan-persyaratan agar fungsi dan tatanan kawasan lindung dapat\nlestari.\nBagi kawasan lindung yang masih belum terganggu fungsi lindungnya\ndilakukan perlindungan sesuai dengan peraturan perundang -undangan yang\nberlaku, antara lain Undang -undang Nomor 5 Tahun 1990 t entang\nKonservasi Sumber Daya Alam Hayati Dan Ekosistemnya. Perlindungan\nkawasan mencakup pula pengembalian fungsi kawasan lindung yang telah\nterganggu.\nAyat (2)\nKawasan lindung yang ditetapkan secara indikatif dalam Rencana Tata\nRuang wilayah Nasionalme rupakankawasanyangkemudian akan dijelaskan\nlebih lanjut dalam Rencana Tata Ruang wilayah Propinsi Daerah Tingkat I\ndan Rencana Tata Ruang wilayah Kabupaten/Kotamadya Daerah Tingkat II\ndan penanganan lintas sektoral.\nPelaksanaan perlindungan terhadap kawasan lindung harus dilakukan secara\nlintas sektoral.\nAyat (3)\nCukup jelas\nAyat (4)…\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (4)\nCukup jelas\nAyat (5)\nCukup jelas\nPasal 7\nAyat (1)\nStrategi dan arahan kebijaksanaan pengembangan kawasan budi daya\nsebagaimana dimaksud dalam ayat (1) d ilakukan untuk meningkatkan\nkelestarian manfaatnya bagi semua orang melalui peningkatan keterkaitan\nantara satu kegiatan dengan kegiatan lainnya yang saling berhubungan, serta\npencegahan dampak negatif yang dapat terjadi terhadap kelestarian fungsi\nlingkungan hidup dan kehidupan politik, sosial, dan budaya masyarakat\nsetempat.\nAyat (2)\nPengembangan berbagai usaha dan/atau kegiatan di kawasan budi daya\ndilakukan untuk meningkatkan kegiatan produksi dan jasa yang bersumber\ndari potensi sumber daya alam, sum ber daya buatan, dan sumber daya\nmanusia dengan memperhatikan daya dukung dan daya tampung\nlingkungan hidup.\nPengembangan berbagai usaha dan/atau kegiatan satu dengan yang\nlainnya beserta prasarana penunjangnya di kawasan budi daya dilakukan\nsecara selar as dan serasi sehingga tercipta sinergi antarkegiatan dalam\nmewujudkan tata ruang yang optimal, efisien, tertib, dan teratur.\nDalam kaitannya dengan pertahanan keamanan negara, pengembangan\nberbagai usaha di kawasan budi daya dapat mendukung si stem pertahanan\nkeamanan rakyat semesta serta terbina keserasian dan saling menguatkan\nantara kegiatan pertahanan keamanan dan berbagai kegiatan usaha.\nPengembangan kawasan budi daya dilakukan dengan pendekatan sebagai\nberikut:\na. kawasan budi daya yang berada di dalam ruang daratan dan ruang\nlautan dikembangkan dengan mengutamakan kesejahteraan\nmasyarakat dan pertahanan keamanan secara saling menguatkan, serasi\ndan selaras dengan perkembangan sektor produksi dan jasa serta\nkawasan permukiman dengan mempe rhatikan potensi sumber daya\nalam, sumber daya buatan, prasarana pendukung dan kemampuan\ninvestasi nasional serta kondisi ekonomi global;\nb. pengembangan…\nPRESIDEN\nREPUBLIK INDONESIA\nb. pengembangan kegiatan budi daya beserta prasarana penunjangnya di\ndarat, di laut, dan di udara dilakukan dengan memperhatikan ketentuan\npengaturan penggunaaan ruang daratan, ruang lautan, dan ruang udara\nyang berlaku agar dapat menghasilkan sinergi antarkegiatan dalam\nmewujudkan tata ruang yang tertib, teratur, berhasil guna, selaras, dan\nserasi dalam menunjang kegiatan pembangunan;\nc. kawasan budi daya dikembangkan sedemikian rupa sehingga dapat :\n1) menyebarkan pengembangan usaha dan/atau kegiatan budi daya\nunggulannya di wilayah nasional untuk mendorong\npertumbuhan dan pemerataan perkembangan a ntarwilayah\ndan/atau antarkawasan dengan memperhatikan potensi daerah,\npermukiman dan penduduk, kemampuan investasi nasional dan\nsumber daya buatan dan kondisi ekonomi global;\n2) meningkatkan keterkaitan dan saling menguatkan antarkawasan\ntermasuk kawasan andalan dalam wilayah nasional untuk\nmeningkatkan sinergi perkembangan sebesar-besarnya.\nAyat (3)\nCukup jelas\nAyat (4)\nKawasan-kawasan yang dapat berperan m endorong pertumbuhan ekonomi\nbagi kawasan itu sendiri dan kawasan disekitarnya, serta dapat mewujudkan\npemerataan pemanfaatan ruang di wilayah nasional ini kemudian disebut\nsebagai Kawasan Andalan. Kawasan Andalan ditentukan berdasarkan\npotensi yang ada, m emiliki aglomerasi pusat -pusat permukiman perkotaan\ndan kegiatan produksi, serta pertimbangan perkembangan daerah\nsekitarnya.\nDalam Kawasan Andalan diindikasikan sektor-sektor unggulan berdasarkan\npotensi sumber daya alam kawasan.\nKawasan ini ditetapkan untuk mengupayakan sinergi keselarasan\npengembangan antarwilayah dan antarsektor.\nAyat (5)\nKawasan budi daya, termasuk di dalamnya meliputi kawasan andalan yang\nditetapkan secara indikatif dalam Rencana Tata Ruang Wilayah Nasional\nmerupakan kawasan yang kemudian dijelaskan lebih lanjut dalam Rencana\nTata Ruang wilayah Propinsi Daerah Tingkat I atau Rencana Tata Ruang\nwilayah Kabupaten/Kotamadya Daerah Tingkat II.\nPasal 8…\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 8\nAyat (1)\nPengembangan kawasan tertentu disusun berdasarkan pada nilai strategis\npenetapan kawasannya dilihat dari segi pertimbangan politik, ekonomi,\nsosial, budaya, lingkungan hidup, dan pertahanan keamanan serta prioritas\npengembangan kawasan dalam skala nasional. Pengembangan kawasan\ntertentu diselenggarakan secara serasi dan selaras dengan kawasan\nsekitarnya.\nDalam perencanaan pembangunan, perlu ditetapkan kawasan -kawasan yang\nmempunyai pengaruh besar terhadap upaya pengembangan tata ruang\nwilayah sekitarnya, mempunyai dampak besar dan penting serta merupakan\nfaktor pendorong bagi kesejahteraan masyarakat dan pertahanan keamanan\nrakyat semesta dalam mewujudkan sasaran pembangunan nasional pada\nmasa yang akan datang. Kawasan-kawasan ini disebut kawasan tertentu dan\ndiprioritaskanpenataan ruangnya.\nAyat (2)\nCukup jelas\nAyat (3)\nKawasan tertentu yang ditetapkan secara indikatif dalam Rencana Tata\nRuang wilayah Nasional merupakan kawasan yang kemudian dijelaskan\nlebih lanjut dalam Rencana Tata Ruang wilayah Propinsi Daerah Tingkat I\ndan Rencana Tata Ruang wilayah Kabupaten/Kotamadya Daerah Tingkat II.\nAyat (4)\nCukup jelas\nPasal 9\nPola pemanfaatan ruang wilayah Nasional ini digunakan sebagai acuan untuk\nmengarahkan peruntukan ruang bagi penataan ruang wilayah Propinsi Daerah\nTingkat I dan Kabupaten/Kotamadya Daerah Tingkat II.\nPasal 10\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)…\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nAyat (5)\nCukup jelas\nAyat (6)\nCukup jelas\nAyat (7)\nCukup jelas\nAyat (8)\nCukup jelas\nPasal 11\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nHutan rakyat adalah hutan yang tumbuh, ditanam dan dikelola di atas tanah\nyang dibebani hak milik ataupun hak lainnya dan arealnya berada di luar\nkawasan hutan negara. Hutan rakyat dapat dimiliki oleh orang baik sendiri\nmaupun bersama orang lain atau badan hukum.\nAyat (4)\nCukup jelas\nAyat (5)\nCukup jelas\nAyat (6)\nCukup jelas\nAyat (7)\nKebutuhan pariwisata berkaitan dengan segala sesuatu yang berhubungan\ndengan wisata, termasuk pengelolaan obyek dan daya tarik wis ata yang\nmencakup:\na. obyek…\nPRESIDEN\nREPUBLIK INDONESIA\na. obyek dan daya tarik wisata ciptaan Tuhan Yang Maha Esa, yang\nberwujud keadaan alam serta flora dan fauna;\nb. obyek dan daya tarik wisata hasil karya manusia yang berwujud\nmuseum, peninggalan purbakala, peninggalan sejara h, seni budaya,\nwisata agro, wisata tirta, wisata buru, wisata petualangan alam, taman\nrekreasi dan tempat hiburan.\nAyat (8)\nKawasan permukiman dimaksud dilengkapi dengan prasarana dan sarana\nlingkungan, serta tempat kerja yang memberikan pelayanan dan kesempatan\nkerja terbatas untuk mendukung perikehidupan dan penghidupan sehingga\nfungsi permukiman tersebut dapat berdaya guna dan berhasil guna.\nPasal 12\nAyat (1)\nDalam ruang wilayah nasional diindikasikan kawasan -kawasan hutan\nlindung serta kawasan suaka alam, pelestarian alam dan cagar budaya, agar\nlingkungan hidup dan sumber daya alam dapat dipertahankan kelestariannya\nsejalan dengan pengembangan kegiatan budi daya dan pusat -pusat\npermukiman. Oleh karena itu kawasan hutan lindung se rta kawasan Suaka\nAlam, Pelestarian Alam dan Cagar Budaya diupayakan membentuk satu\nkesatuan dalam setiap pulau dan berdampingan secara serasi, selaras dan\nsaling memperkuat dengan pengembangan kawasan budi daya dan kawasan\nandalan serta pusat-pusat permukiman.\nAyat (2)\nCukup jelas\nPasal 13\nCukup jelas\nPasal 14\nAyat (1)\nPengembangan pusat -pusat permukiman dilakukan secara selaras, saling\nmemperkuat dan serasi dalam ruang wilayah nasional, sehingga membentuk\nsatu sistem yang menunjang pertumbuhan dan penyebaran berbagai usaha\ndan/atau kegiatan dalam ruang wilayah nasional.\nPengembangan…\nPRESIDEN\nREPUBLIK INDONESIA\nPengembangan pusat -pusat permukiman diserasikan dengan sistem\npermukiman, jaringan prasarana dan sarana, serta peruntukan ruang lain\nyang berada di dalam kawasan b udi daya wilayah sekitarnya, yang ada\nmaupun yang direncanakan, sehingga pengembangannya dapat\nmeningkatkan mutu pemanfaatan ruang yang ada.\nAyat (2)\nDalam pusat -pusat permukiman dikembangkan kawasan -kawasan untuk\npeningkatan kegiatan ekonomi, sosial, bu daya, dan pelestarian lingkungan\nhidup secara harmonis.\nDalam pusat -pusat permukiman dikembangkan jaringan prasarana dan\nsarana pelayanan penduduk yang sesuai dengan kebutuhan dan menunjang\nfungsi pusat-pusat permukiman dimaksud dalam wilayah nasional.\nPusat-pusat permukiman dibangun agar terwujudkan lingkungan\npermukiman yang harmonis dan serasi sehingga terbentuk tata lingkungan\nyang bermutu dan adil bagi seluruh anggota masyarakat yang ada di dalam\nmaupun di sekitarnya.\nAyat (3)\nDalam upaya meningkatkan daya guna penyediaan prasarana, pusat -pusat\npermukiman perkotaan perlu disusun secara berjenjang menurut fungsi dan\nbesarannya. Pusat -pusat permukiman perdesaan disusun terkait dengan\npusat permukiman perkotaan yang melayaninya seh ingga secara\nkeseluruhan pusat -pusat permukiman saling terkait, berjenjang dan dapat\nmenguatkan perkembangan kota dan desa yang serasi dan saling\nmemperkuat.\nRencana pengembangan sistem permukiman meliputi penetapan fungsi kota\ndan hubungan hirarkisnya be rdasarkan penilaian kondisi sekarang dan\nantisipasi perkembangan di masa yang akan datang.\nPusat Kegiatan Nasional (PKN) adalah kota yang mempunyai potensi\nsebagai pintu gerbang ke kawasan -kawasan internasional dan mempunyai\npotensi untuk mendorong daerah sekitarnya sertasebagai pusat jasa, pusat\npengolahan, simpul transportasi yang melayani beberapa propinsi dan\nnasional, dengan kriteria penentuan: kota yang mempunyai potensi sebagai\npintu gerbang ke kawasan internasional dan mempunyai potensi untuk\nmendorong daerah sekitarnya, pusat jasa -jasa pelayanan keuangan/bank\nyang cakupan pelayanannya berskala nasional/beberapa propinsi, pusat\npengolahan/pengumpul barang secara nasional/beberapa propinsi, simpul\ntransportasi secara nasional/beberapa propinsi, jasa pemerintahan untuk\nNasional/beberapa propinsi, jasa publik yang lain untuk Nasional/beberapa\npropinsi.\nPusat…\nPRESIDEN\nREPUBLIK INDONESIA\nPusat Kegiatan Wilayah (PKW) adalah kota sebagai pusat jasa, pusat\npengolahan dan simpul transportasi yang melayani beberapa kabupaten,\ndengan kriteria penentuan: pusat jasa pelayanan keuangan/bank yang\nmelayani beberapa kabupaten, pusat pengolahan/pengumpul barang yang\nmelayani kabupaten, simpul transportasi untuk beberapa kabupaten, pusat\npelayanan jasa pemerintahan untuk beberapa kabupaten, pusat pelayanan\njasa yang lain untuk beberapa kabupaten.\nPusat Kegiatan Lokal (PKL) adalah kota sebagai pusat jasa, pusat\npengolahan dan simpul transportasi yang mempunyai pelayanan satu\nkabupaten ataub eberapa kecamatan, dengan kriteria penentuan: pusat jasa\nkeuangan/ bank yang melayani satu kabupaten atau beberapa kecamatan,\npusat pengolahan/pengumpul barang untuk beberapa kecamatan, jasa\npemerintahan untuk beberapa kecamatan, bersifat khusus dalam arti\nmendorong perkembangan sektor strategis.\nAyat (4)\nPusat-pusat permukiman perdesaan tersebut memiliki intensitas kegiatan\nekonomi non-pertanian cukup beragam.\nAyat (5)\nSebagai pusat pelayanan perkembangan kegiatan budi daya, baik dalam\nwilayahnya maupu n wilayah sekitarnya, pusat permukiman perkotaan\nmempunyai fungsi:\n1. ekonomi, yaitu sebagai pusat produksi dan pengolahan barang;\n2. jasa perekonomian, yaitu sebagai pusat pelayanan kegiatan\nkeuangan/bank, dan/atau sebagai pusat koleksi dan distribusi b arang,\ndan/atau sebagai pusat simpul transportasi, pemerintahan, yakni sebagai\npusat jasa pelayanan pemerintah;\n3. jasa sosial, yaitu sebagai pusat pemerintahan, pusat pelayanan\npendidikan, kesehatan, kesenian, dan/atau budaya.\nDalam lingkup kawasan perdesaan, pusat-pusat permukiman perdesaan juga\nmemiliki fungsi yang sama sebagai pusat pelayanan perkembangan kegiatan\nbudi daya, meskipun dalam skala kegiatan yang lebih kecil dan terbatas.\nAyat (6)\nCukup jelas\nPasal 15\nAyat (1)\nPengembangan jaringan transportasi nasional sebagaimana dimaksud pada\nayat (1) dilakukan secara selaras dan terpadu dengan pengembangan sistem\npermukiman dan sektor terkait lainnya.\nAyat (2)…\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (2)\nCukup jelas\nAyat (3)\nJaringan transportasi nasion al merupakan sistem yang memperlihatkan\nketerkaitan kebutuhan dan pelayanan transportasi antarwilayah, dan\nantarkota dalam ruang wilayah nasional, serta keterkaitannya dengan\njaringan transportasi internasional.\nAyat (4)\nJaringan transportasi harus dikem bangkan saling terkait antara alat\ntransportasi darat, laut, dan udara.\nPasal 16\nJaringan transportasi darat yang berupa jaringan transportasi jalan nasional\ndikembangkan dalam bentuk lintas pada masing -masing pulau untuk dapat\nmenghubungkan dan memadukan kawasan-kawasan andalan, pusat -pusat\npermukiman dan pintu -pintu outlet dalam suatu jaringan. Dengan pendekatan ini\ndapat diupayakan peningkatan pertumbuhan dan pemerataan serta kesatuan proses\nsosial ekonomi pada masing-masing pulau.\nDi samping itu jaring an transportasi darat antarpulau dihubungkan dengan lintas\ndan/atau jembatan penyeberangan sehingga secara menyeluruh wilayah nasional\ndapat membentuk satu kesatuan proses politik, ekonomi, sosial budaya, dan\npertahanan keamanan\nPasal 17\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nPasal 18\nAyat (1)\nCukup jelas\nAyat (2)…\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nPasal 19\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nPenyeberangan lintas utara ialah penyeberangan dari Sabang sampai\nJayapura melalui Pontianak, Nunukan, Manado, Ternate dan Biak.\nPenyeberangan lintas tengah ialah penyeberangan dari Palembang sampai\nJayapura melalui Banjarmasin, Ujung Pandang, Kendari, Ambon, Sorong\ndan Biak. Penyeberanganlintasselatanialahpenyeberangan dari Sabang\nsampai Merauke melalui Ja karta, Bali, Bima, Kupang, Dilli dan Tual.\nPenyeberangan tersebut dilaksanakan dengan feri penyeberangan.\nAyat (5)\nCukup jelas\nPasal 20\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)…\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (4)\nCukup jelas\nPasal 21\nPengembangan jaringan transportasi antarpulau selain berupa jembatan, dapat\nberupa terowongan.\nPasal 22\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 23\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nAyat (5)\nCukup jelas\nPasal 24\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)…\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (4)\nCukup jelas\nPasal 25\nCukup jelas\nPasal 26\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 27\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nAyat (5)\nCukup jelas\nPasal 28\nCukup jelas\nPasal 29\nAyat (1)\nCukup jelas\nAyat (2)…\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (2)\nPengembangan energi dan jaringan kelistrikan nasional memperlihatkan\njaringan kelistrikan yang melayani kota atau kawasan andalan dan\npusat-pusat permukiman sesuai dengan kebutuhan dan tingkat\nperkembangannya. Daerah atau pulau yang tingkat perkembangannya tinggi\ndan merata didukung oleh jaringan interkoneksi tegangan tinggi untuk\nkedayagunaan pengadaan energi listrik.\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nPasal 30\nAyat (1)\nPengembangan jaringan telekomunikasi dilakukan dengan memperhatikan\nkondisi geografis wilayah negara dan penggunaan kemajuan teknologi yang\nsesuai.\nAyat (2)\nJaringan telekomunikasi nasional yang memperlihatkan indikasi jaringan\ntelekomunikasi untuk melayani kota atau kawasan yang dibedakan atas\njaringan komunikasi kabel laut, jaringan komunikasi gelombang mikro, dan\njaringan k omunikasi terestrial darat. Jaringan komunikasi satelit tidak\ndigambarkan karena berada di luar batas ruang wilayah udara.\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nAyat (5)\nCukup jelas\nPasal 31…\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 31\nAyat (1)\nPengembangan jaringan prasarana dan sarana air baku nasional\nsebagaimana dimaksud pada ayat (1) diselaraskan dengan pengembangan\nsistem permukiman yang didasarkan pada keseimbangan antara kebutuhan\nair baku untuk permukiman dan kegiatan budi daya dengan ke tersediaan\nsumber daya air, dengan memperhatikan teknologi, investasi nasional,\nlingkungan hidup alam, lingkungan hidup sosial, budaya, dan hidrologi\nwilayah.\nAyat (2)\nPrasarana dan sarana air baku nasional memperlihatkan sebaran waduk dan\nDaerah Pengali ran Sungai (DPS) atau Daerah Aliran Sungai (DAS), dan\nkawasan yang perlu dilayani oleh tiap-tiap DPS atau DAS.\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nPasal 32\nCukup jelas\nPasal 33\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nPasal 34\nAyat (1)\nCukup jelas\nAyat (2)…\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (2)\nHuruf a\nCukup Jelas\nHuruf b\nYang dimaksud dengan Pejabat yang berwenang adalah Pejabat yang\nberwenang sebagaimana dimaksud dalam Peraturan Pemerintah\nNomor 35 tahun 1991 tentang Sungai.\nHuruf c\nMengingat tingkat kepadatan penggunaan lahan di daerah perkotaan\nterutama yang terletak di sepanjang jalan sangat tinggi, maka\npenetapan garis sempadan sungai yang berada pada lokasi tersebut\nperlu ditetapkan lain dengan ketentuan yang berlaku bagi garis\nsempadan sungai pada umumnya.\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nAyat (5)\nHuruf a\nCukup jelas\nHuruf b\nCukup jelas\nHuruf c\nCukup jelas\nHuruf d\nCiri-ciri jenis tanaman atau pohon yang cocok untuk ditanam pada\nkawasan ini antara lain :\n1) perakarannya dalam, tidak mudah tumbang, tidak merusak\njalanan atau bangunan;\n2) tidak memerlukan perawatan yang intensif;\n3) tanaman cepat tumbuh, berdaun rimbun dan berumur panjang;\n4) mempunyai nilai estetika;\n5) memiliki fungsi ekologi.\nHuruf e…\nPRESIDEN\nREPUBLIK INDONESIA\nHuruf e\nCukup jelas\nPasal 35\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 36\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nPasal 37\nCukup jelas\nPasal 38\nCukup jelas\nPasal 39\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nAyat (5)…\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (5)\nCukup jelas\nPasal 40\nAyat (1)\nPengelolaan kawasan lindung dilakukan secara seksama dan berdayaguna\nsebesar-besarnyabagikepentinganmasyarakatmelaluikegiatan-kegiatan yang\nmeningkatkan fungsi lindung dengan mempertimbangkan aspek -aspek\nteknis seperti daya dukung dan kemampuan/kesesuaian tanah, aspek sosial,\ndan aspek -aspek keruangan seperti sinergi antarkegiatan dan kelestarian\nfungsi lingkungan hidup.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nPasal 41\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nAyat (5)\nCukup jelas\nAyat (6)\nCukup jelas\nAyat (7)\nCukup jelas\nPasal 42…\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 42\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nAyat (5)\nCukup jelas\nAyat (6)\nCukup jelas\nPasal 43\nAyat (1)\nHuruf a\nYang dimaksud pemberian larangan melakukan kegiatan budi daya,\nkecuali kegiatan budi daya yang tidak mengganggu fungsi\nlingkungan hidup alam, tidak mengubah bentang alam dan ekosistem\nalami antara lain pembuatan teras untuk meningkatkan konservasi\ntanah da n air, pemanfaatan hasil hutan non kayu seperti\nbuah-buahan, getah, damar, tengkawang dan lain -lain, dan harus\ndilakukan tanpa mengurangi fungsi pokok masing -masing kawasan\nlindung yang bersangkutan; pembuatan menara pengawas satwa di\ntaman nasional atau t aman hutan raya dengan menggunakan\nkonstruksi bambu atau kayu, sehingga yang berada langsung di\npermukaan tanah hanya keempat kakinya.\nHuruf b\nCukup jelas\nHuruf c\nCukup jelas\nHuruf d…\nPRESIDEN\nREPUBLIK INDONESIA\nHuruf d\nApabila ternyata dari kegiatan penelitian eksplorasi mineral dan air\ntanah terdapat indikasi adanya deposit mineral atau air tanah atau\nkekayaan alam lainnya yang menguasai hajat hidup orang banyak,\nmaka kegiatan budi daya di kawasan lindung tersebut dapat\ndiizinkan, sesuai dengan ketentuan peraturan perundang -undangan\nyang berlaku dengan tetap memelihara fungsi lindung kawasan.\nHuruf e\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 44\nYang dimaksud dengan kriteria teknis sektoral adalah ukuran untuk menya takan\nkesesuaian tanah,kemampuan daya dukung dan kondisi yang aman dari bahaya\nbencana. Kriteria ini diterbitkan oleh berbagai instansi pemerintah yang\nmenangani pertanian, kehutanan, perindustrian dan perdagangan, pekerjaan umum,\npertambangan dan energi dan lain-lain.\nBerdasarkan kriteria teknis sektoral dan kriteria teknik ruang diperoleh beberapa\nkemungkinan/alternatif kegiatan budi daya yang dapat dilaksanakan pada suatu\nkawasan budi daya. Penetapan pilihan alternatif kegiatan budi daya didasarkan\npada nilai manfaat yang optimal dan memberikan nilai sinergi terbesar dalam\npemanfaatan ruang.\nPasal 45\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nPasal 46…\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 46\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nAyat (5)\nCukup jelas\nPasal 47\nCukup jelas\nPasal 48\nCukup jelas\nPasal 49\nCukup jelas\nPasal 50\nCukup jelas\nPasal 51\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)…\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (4)\nCukup jelas\nPasal 52\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nAyat (5)\nCukup jelas\nAyat (6)\nCukup jelas\nAyat (7)\nCukup jelas\nPasal 53\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nAyat (5)\nApabila permasalahan tersebut menyangkut instansi pusat, maka Menteri\nmemberikan keputusannya, tetapi apabila permasalahannya hanya\nmenyangkut Pemerintah Daerah Tingkat I, maka Menteri hanya\nmemberikan persetujuan.\nAyat (6)…\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (6)\nCukup jelas\nPasal 54\nAyat (1)\nHuruf a\nCukup jelas\nHuruf b\nCukup jelas\nHuruf c\nApabila ternyata pada kegiatan dimaksud terdapat indikasi adanya\ndeposit mineral atau air tanah, dan/atau kekayaan alam lainnya yang\nbelum diusahakan dan dapat memberikan nilai tambah bagi rakyat\nbanyak, maka kegiatan tersebut dapat diizinkan dengan persetujuan\nMenteri, sesuai dengan ketentuan peraturan perundang-undangan\nyang berlaku dengan tetap memelihara fungsi kawasan.\nHuruf d\nApabila berdasarkan pemantauan dan evaluasi dalam pemanfaatan\nruang dianggap perlu untuk dilakukan peninjauan kembali dan/atau\npenyempurnaan Rencana Tata Ruang wilayah Propi nsi Daerah\nTingkat I dan Rencana Tata Ruang wilayah Kabupaten/Kotamadya\nDaerah Tingkat II, maka hal itu dilakukan sesuai dengan peraturan\nperundang-undangan.\nAyat (2)\nCukup jelas\nPasal 55\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 56…\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 56\nAyat (1)\nPola pengelolaan kawasan tertentu dimaksudkan untuk mewujudkan\npercepatan terselenggaranya pemanfaatan ruang kawasan secara serasi,\nselaras, dan seimbang, serta menjamin kelestarian fungsi lingkungan hidup\nAyat (2)\nCukup jelas\nPasal 57\nCukup jelas\nPasal 58\nAyat (1)\nYang dimaksud dengan keterpaduan adalah bahwaperencanaan tata ruang\nkawasan tertentu dianalisis dan dirumuskan menjadi satu kesatuan dari\nberbagai kegiatan pemanfaatan ruang wilayah Propinsi Daerah Tingkat I\ndan Wilay ah Kabupaten/Kotamadya Daerah Tingkat II yang terkait oleh\npemerintah dan masyarakat. Perencanaan tata ruang kawasan tertentu\ndilakukan secara terpadu dan mencakup antara lain pertimbangan aspek\nwaktu, modal, optimasi, daya dukung dan daya tampung lingkung an hidup,\ndan geopolitik. Dalam mempertimbangkan aspek waktu, perencanaan tata\nruang kawasan tertentu mempertimbangkan adanya prakiraan, ruang\nlingkup wilayah yang direncanakan, persepsi yang mengungkapkan\nberbagai keinginan, serta kebutuhan dan tujuan pem anfaaatan ruang di\nkawasan tertentu.\nAyat (2)\nCukup jelas\nPasal 59\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 60…\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 60\nAyat (1)\nHuruf a\nCukup jelas\nHuruf b\nCukup jelas\nHuruf c\nApabila ternyata pada kegiatan penelitian eksplorasi mineral dan air\ntanah serta kegiatanlain yang berkaitan dengan pencegahan bencana\nalam terdapat indikasi adanya deposit mineral atau air tanah,\ndan/atau kekayaan alam lainnya yang belum diusahakan dan da pat\nmemberikan nilai tambah bagi rakyat banyak, maka kegiatan tersebut\ndapat diizinkan dengan persetujuan Menteri,sesuai dengan ketentuan\nperaturan perundang -undangan yang berlaku dengan tetap\nmemelihara fungsi kawasan.\nHuruf d\nCukup jelas\nHuruf e\nApabila berdasarkan pemantauan dan evaluasi dalam pemanfaatan\nruang dianggap perlu untuk dilakukan peninjauan kembali dan/atau\npenyempurnaan Rencana Tata Ruang wilayah Propinsi Daerah\nTingkat I dan Rencana Tata Ruang wilayah Kabupaten/Kotamadya\nDaerah Ting kat II, maka hal itu dilakukan sesuai dengan peraturan\nperundang-undangan.\nAyat (2)\nCukup jelas\nPasal 61\nCukup jelas\nPasal 62…\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 62\nRencana Tata Ruang wilayah Nasional dijadikan acuan bagi instansi pemerintah\ntingkat pusat dan daerah serta masyarakat untuk mengarahkan lokasi dan\nmemanfaatkan ruang dalam menyusun program pembangunan yang berkaitan\ndengan pemanfaatan ruang. Dalam hal ini pemanfaatan ruang yang terkait dengan\nrencana pembangunan harus memperhatikan Rencana Tata Ruang Wilayah\nNasional.Pengarahan investasi swasta dan masyarakat diupayakan serasi, selaras,\ndan mempertegas arahan program -program pembangunan sektoral dan region al\nyang dijabarkan dari Rencana Tata Ruang Wilayah Nasional.\nPasal 63\nCukup jelas\nPasal 64\nCukup jelas\nPasal 65\nCukup jelas\nPasal 66\nCukup jelas\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 3721\nPRESIDEN\nREPUBLIK INDONESIA\nLAMPIRAN V\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nNOMOR 47 TAHUN 1997\nTANGGAL 30 Desember 1997\nARAHAN PENGEMBANGAN BANDAR UDARA\n-----------------------------------------------------------------------------------------------------------\nPUSAT PENYEBARAN\n-----------------------------------------------------------------------------------------------------------\nPRIMER SEKUNDER TERSIER\nJakarta Palembang Timika\nMedan Jayapura Bima\nUjung Pandang Pontianak Nabire\nSurabaya Banjarmasin Wamena\nDenpasar Ambon Bengkulu\nMenado Mataram Pangkal Pinang\nBiak Pekanbaru Manokwari\nBalikpapan Palangkaraya Ternate\nBatam Padang Gorontalo\nSolo Tarakan Maumere\nKupang Ende\nBandung Pangkalan Bun\nMerauke Kendari\nSemarang Bandar Lampung\nBanda Aceh Jambi\nPalu Kupang\nDilli\nTanjung Pinang\nSamarinda\nTanjung Pandan\nSampit\nKatapang\nWaingapu\nYogyakarta\nSorong\nPRESIDEN REPUBLIK INDONESIA\nttd.\nSOEHARTO\nPRESIDEN\nREPUBLIK INDONESIA\nLAMPIRAN VI\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nNOMOR 47 TAHUN 1997\nTANGGAL 30 Desember 1997\nDAFTAR KAWASAN TERTENTU\n1. Kawasan Jakarta, Bogor, Tangerang, Bekasi (Jabotabek).\n2. Kawasan Gersik, Bangkalan, Kertosono, Surabaya, Sidoarjo, Lamongan\n(Gerbangkertosusila).\n3. Kawasan Denpasar dan sekitarnya.\n4. Kawasan Industri Lhokseumawe.\n5. Kawasan Mebidang (Medan, Binjai dan D eliserdang) dan sekitarnya termasuk\nsegitiga pertumbuhan Indonesia, Malaysia, Thailand (Indonesia, Malaysia,\nThailand Growth Triangle).\n6. Kawasan Batam, Bintan dan kawasan-kawasan lain di Propinsi Riau dan Sumatera\nBarat yang termasuk dalam segitiga pertu mbuhan Indonesia, Malaysia, Singapura\n(Indonesia, Malaysia, Singapore Growth Triangle).\n7. Kawasan Pulau Natuna dan sekitarnya.\n8. Kawasan Palembang dan sekitarnya.\n9. Kawasan Teluk Ratai dan sekitarnya.\n10. Kawasan Borobudur dan sekitarnya.\n11. Kawasan Bontang dan sekitarnya.\n12. Kawasan Nunukan dan sekitarnya.\n13. Kawasan Soroako dan sekitarnya.\n14. Kawasan Toraja dan sekitarnya.\n15. Kawasan Bitung dan sekitarnya.\n16. Kawasan Timika.\n17. Kawasan Biak.\n18. Kawasan Kahayan-Kapuas-Barito (KAKAB).\n19. Kawasan Bogor, Puncak, Cianjur, Tangerang.\n20. Kawasan Perbatasan Kalimantan-Serawak (Malaysia).\n21. Kawasan Perbatasan Irian Jaya - Papua Nugini.\n22. Kawasan Perbatasan Sangihe Talaud dan sekitarnya.\n23. Kawasan Hutan Produksi Terbatas Siabu.\nPRESIDEN REPUBLIK INDONESIA\nttd.\nSOEHARTO"
+   }
+  }
+ ]
+}

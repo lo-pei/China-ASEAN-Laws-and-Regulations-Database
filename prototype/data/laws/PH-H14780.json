@@ -1,0 +1,72 @@
+{
+ "id": "PH-H14780",
+ "title": {
+  "zh": null,
+  "en": "An Act Authorizing the Chief of the Philippine Constabulary, With the Approval of the Secretary of the Interior, to Purchase the Provincial Buildings and the Site on Which Said Buildings Are Located in the Province of Mindoro to Be Converted Into a Constabulary Reservation, and Appropriating the Sum of Twenty-Five thousand Pesos for Said Purpose.",
+  "orig": "An Act Authorizing the Chief of the Philippine Constabulary, With the Approval of the Secretary of the Interior, to Purchase the Provincial Buildings and the Site on Which Said Buildings Are Located in the Province of Mindoro to Be Converted Into a Constabulary Reservation, and Appropriating the Sum of Twenty-Five thousand Pesos for Said Purpose."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1934-12-08",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 4189",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 729,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1934/act_4189_1934.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_04189_1934_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_04189_1934_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14780-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "There is hereby appropriated out of any funds in the Insular Treasury not otherwise appropriated,\nthe sum of twenty-five thousand pesos to be expended for the acquisition of the Government buildings and the\nsite on which said buildings are located, owned by the Province of Mindoro, to be converted into barracks and\nreservation of the Philippine Constabulary in the said Province of Mindoro."
+   }
+  },
+  {
+   "id": "PH-H14780-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The Chief of the Philippine Constabulary is hereby authorized, with the approval of the\nSecretary of the Interior, to purchase under such terms and conditions as he may see fit, the aforementioned\nbuildings and site, situated in the municipality of Calapan, Mindoro."
+   }
+  },
+  {
+   "id": "PH-H14780-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, December 8, 1934."
+   }
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "id": "PH-H15843",
+ "title": {
+  "zh": null,
+  "en": "An Act to Appropriate the Sum of three thousand Two Hundred and Seventy Pesos Out of Any Funds in the Philippine Treasury Not Otherwise Appropriated for the Purchase of Equipment, Supplies, and the Conversion Into a Second Class Weather station of the Present Weather station in Borongan, Samar.",
+  "orig": "An Act to Appropriate the Sum of three thousand Two Hundred and Seventy Pesos Out of Any Funds in the Philippine Treasury Not Otherwise Appropriated for the Purchase of Equipment, Supplies, and the Conversion Into a Second Class Weather station of the Present Weather station in Borongan, Samar."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1936-11-05",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 126",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 677,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00126_1936_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00126_1936_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H15843-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "For the purpose of converting the weather station located in Borongan, Samar, into a\nsecond-class weather station, the sum of three thousand two hundred and seventy pesos, is hereby\nappropriated out of any funds in the Philippine Treasury not otherwise appropriated to be apportioned as\nOne year salary for a second-class observer P720.00\nFor equipment and supplies of a second-class weather station………………. 2,550.00"
+   }
+  },
+  {
+   "id": "PH-H15843-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The expenses for salary of the observer and maintenance of this station, aside from what is\nherein provided, shall be regularly included in the annual appropriations for the Weather Bureau."
+   }
+  },
+  {
+   "id": "PH-H15843-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, November 5, 1936."
+   }
+  }
+ ]
+}

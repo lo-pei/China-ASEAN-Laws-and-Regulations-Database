@@ -1,0 +1,72 @@
+{
+ "id": "PH-H16084",
+ "title": {
+  "zh": null,
+  "en": "An Act Transferring the National Library From the National Assembly to the Department of Public Instruction, and for Other Purposes.",
+  "orig": "An Act Transferring the National Library From the National Assembly to the Department of Public Instruction, and for Other Purposes."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1938-08-23",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 367",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1022,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00367_1938_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00367_1938_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H16084-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The National Library is hereby transferred from the National Assembly to the Department of\nPublic Instruction, and the administrative supervision and control now being exercised by the Speaker of the\nNational Assembly over the National Library pursuant to the provisions of section thirty-five of Act\nNumbered Four thousand and seven, otherwise known as \"The Reorganization Law of 1932,\" shall hereafter\nbe vested in the Secretary of Public Instruction: Provided, however, That for the purpose of organizing a\ndivision of bill drafting and research work in the National Assembly, the Speaker is hereby authorized to\nretain the necessary personnel, furniture and equipment, and books of the National Library, together with the\ncorresponding appropriations."
+   }
+  },
+  {
+   "id": "PH-H16084-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Section thirty-five of Act Numbered Four thousand and seven, and all other Acts or parts of Acts\nwhich are inconsistent with the provisions of this Act are hereby amended or repealed accordingly."
+   }
+  },
+  {
+   "id": "PH-H16084-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, August 23, 1938."
+   }
+  }
+ ]
+}

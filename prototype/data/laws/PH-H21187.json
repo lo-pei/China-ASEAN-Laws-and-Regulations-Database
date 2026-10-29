@@ -1,0 +1,62 @@
+{
+ "id": "PH-H21187",
+ "title": {
+  "zh": null,
+  "en": "Modifying the Rate of Duty on Certain Imported Articles as Provided Under the Tariff and Customs Code of 1982",
+  "orig": "Modifying the Rate of Duty on Certain Imported Articles as Provided Under the Tariff and Customs Code of 1982"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p159",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1983-01-20",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Executive Order No. 865",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 733,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/07_行政命令_EO/EO_00865_1983_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 EO_00865_1983_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H21187-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Sec 1"
+   },
+   "text": {
+    "en": "The article acetate tow under heading No. 56.02.500 of the Code is hereby amended and a subdivision\nthereof is provided to read as follows:\nRate of Duty\n1983\n1984\n1985\n56.02\nContinuous filament tow for manufacture of man-made fibres (discontinuous):\n56.02.400\nOf regenerated fibres:\n20%\n20%\n20%\n56.02.510\nACETATE TOW AD VAL.\n10%\n10%\n10%\n56.02.590\nOTHERS . . . . . AD VAL.\n20%\n20%\n20%"
+   }
+  },
+  {
+   "id": "PH-H21187-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Sec 2"
+   },
+   "text": {
+    "en": "These rates of duty shall be effective on January 1, 1983. All articles under this heading, when entered\nor withdrawn from warehouse, in the Philippines, for consumption shall be subject to the rate of import duty\n\nas herein prescribed.\nDone in the City of Manila, this 20th day of January, in the year of Our Lord, nineteen hundred and\neighty-three."
+   }
+  }
+ ]
+}

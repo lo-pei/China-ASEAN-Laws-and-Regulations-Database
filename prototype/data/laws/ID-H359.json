@@ -1,0 +1,78 @@
+{
+ "id": "ID-H359",
+ "title": {
+  "zh": "东帝汶并入印度尼西亚共和国法",
+  "en": "Law on the Integration of East Timor into the Unitary State of the Republic of Indonesia",
+  "id": "PENGESAHAN PENYATUAN TIMOR TIMUR KE DALAM",
+  "orig": "PENGESAHAN PENYATUAN TIMOR TIMUR KE DALAM",
+  "vi": "Luật về Việc Sáp nhập Đông Timor vào Nhà nước Thống nhất Cộng hòa Indonesia",
+  "th": "พระราชบัญญัติว่าด้วยการรวมติมอร์ตะวันออกเข้าเป็นส่วนหนึ่งของรัฐเอกภาพสาธารณรัฐอินโดนีเซีย",
+  "ms": "Akta tentang Penyatuan Timor Timur ke dalam Negara Kesatuan Republik Indonesia"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02a",
+ "language": "id",
+ "level": "law",
+ "category": "03_涉外投资与贸易",
+ "status": "active",
+ "promulgatedDate": "1976",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "-",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 3,
+ "chars": 853,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": null
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\03_涉外投资与贸易\\印尼_WLD_1976_PENGESAHAN PENYATUAN TIMOR TIMUR KE DALAM.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 4 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H359-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\nMengesahkan penyatuan Timor Timur ke dalam Negara Kesatuan\nRepublik Indonesia."
+   }
+  },
+  {
+   "id": "ID-H359-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\nMembentuk propinsi Daerah Tingkat I Timor Timur yang wilayahnya\nmeliputi wilayah bekas koloni Portugis di Timor.\nTGPT NAME=\"ps3\">Pasal 3\nHal-hal yang berhubungan dengan pelaksanaan ketentuan tersebut\ndalam Pasal 2 diatur lebih lanjut dengan peraturan\nperundang-undangan\ntersendiri, dengan memperhatikan keadaan dan\nperkembangan di wilayah Timor Timur."
+   }
+  },
+  {
+   "id": "ID-H359-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\nUndang-undang ini mulai berlaku pada tanggal diundangkan.\nAgar supaya setiap orang mengetahuinya, memerintahkan\npengundangan undang-undang ini dengan penempatannya dalam Lembaran\nNegara Republik\nIndonesia.\nDisahkan di Jakarta\npada tanggal 17 Juli 1976\nPRESIDEN REPUBLIK INDONESIA,\nSOEHARTO\nDiundangkan di Jakarta\npada tanggal 17 Juli 1976\nMENTERI/SEKRETARIS NEGARA\nREPUBLIK INDONESIA,\nSUDHARMONO, SH."
+   }
+  }
+ ]
+}

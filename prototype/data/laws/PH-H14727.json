@@ -1,0 +1,62 @@
+{
+ "id": "PH-H14727",
+ "title": {
+  "zh": null,
+  "en": "An Act Granting to Tomas Alonso a Franchise to Install, Maintain and Operate An Electric Light, Heat and Power System in the Municipalities of Asturias and Balamban, Province of Cebu.",
+  "orig": "An Act Granting to Tomas Alonso a Franchise to Install, Maintain and Operate An Electric Light, Heat and Power System in the Municipalities of Asturias and Balamban, Province of Cebu."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1934-11-22",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 4136",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 570,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1934/act_4136_1934.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_04136_1934_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_04136_1934_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14727-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Subject to the rules and conditions established in Act Numbered Thirty-six hundred and\nthirty-six, there is hereby granted to Tomas Alonso, for a period of fifty years from the approval of this Act,\nthe right, privilege and authority to construct, maintain and operate an electric light, heat and power plant for\nthe purpose of generating and distributing electric light, heat or power for sale within the limits of the\nmunicipalities of Asturias and Balamban, Province of Cebu, Philippine Islands."
+   }
+  },
+  {
+   "id": "PH-H14727-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, November 22, 1934."
+   }
+  }
+ ]
+}

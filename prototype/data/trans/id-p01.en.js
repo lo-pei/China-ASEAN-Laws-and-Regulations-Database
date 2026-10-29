@@ -1,12 +1,360 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: id-p01
-   法规 7 部 / 译文 1124 条
+   法规 11 部 / 译文 1838 条
    由 _work/_ingest-2026-10-26/migrate_id_trans.py 从 id-en 回执迁入，请勿手工编辑。
    ========================================================================== */
 (function (root) {
   'use strict';
   var TR = root.CALR_TRANS = root.CALR_TRANS || {};
+
+  TR["ID-H002"] = {
+    "lawId": "ID-H002",
+    "sourceLang": "id",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "DeepSeek-V4.1-Flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-26",
+    "reviewed": "machine",
+    "glossaryVersion": "id-en-2026-10",
+    "completenessNote": "从印尼语回执逐条入库，共 37 条；条号与原文一一对应。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "(1)  The State of Indonesia is a Unitary State which takes the form of a Republic.\n(2)  Sovereignty is vested in the people and is exercised in accordance with the Constitution. ***)\n(3)  The State of Indonesia is a State based on law. ***) CHAPTER II THE PEOPLE'S CONSULTATIVE ASSEMBLY"
+        },
+        "noLabel": {
+          "en": "Article 1"
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "(1)  The People's Consultative Assembly consists of the members of the House of Representatives and the members of the Regional Representatives Council who are elected through general elections and are further regulated by law. ****)\n(2)  The People's Consultative Assembly sits at least once every five years in the capital city of the State.\n(3)  All decisions of the People's Consultative Assembly are taken by a majority of votes."
+        },
+        "noLabel": {
+          "en": "Article 2"
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "(1)  The People's Consultative Assembly has the authority to amend and to enact the Constitution. ***)\n(2)  The People's Consultative Assembly inaugurates the President and/or the Vice President. ***/****) *)  :  First Amendment **)  :  Second Amendment ***)  :  Third Amendment ****)  :  Fourth Amendment\n(3)  The People's Consultative Assembly may dismiss the President and/or the Vice President during his or her term of office only in accordance with the Constitution. ***/****) CHAPTER III STATE GOVERNMENT AUTHORITY"
+        },
+        "noLabel": {
+          "en": "Article 3"
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "(1)  The President of the Republic of Indonesia holds the power of government in accordance with the Constitution.\n(2)  In performing his or her duties the President is assisted by one Vice President."
+        },
+        "noLabel": {
+          "en": "Article 4"
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "(1)  The President has the right to submit a draft law to the House of Representatives. *)\n(2)  The President enacts Government Regulations to implement laws as they should be implemented."
+        },
+        "noLabel": {
+          "en": "Article 5"
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "(1)  A candidate for President and a candidate for Vice President must be a citizen of Indonesia since birth and must never have received another citizenship of his or her own accord, must never have betrayed the State, and must be spiritually and physically capable of performing the duties and obligations of President and Vice President. ***)\n(2)  The requirements for becoming President and Vice President are further regulated by law. ***)\n\nA\n(1)  The President and the Vice President are elected as a single ticket directly by the people. ***)\n(2)  The ticket of candidates for President and Vice President is proposed by a political party or a coalition of political parties participating in the general election before the general election is held. ***) *)  :  First Amendment **)  :  Second Amendment ***)  :  Third Amendment ****)  :  Fourth Amendment\n(3)  The ticket of candidates for President and Vice President that obtains more than fifty per cent of the total number of votes in the general election, with at least twenty per cent of the votes in each province distributed over more than half of the total number of provinces in Indonesia, is inaugurated as President and Vice President. ***)\n(4)  In the event that no ticket of candidates for President and Vice President is elected, the two tickets that obtained the highest and the second highest number of votes in the general election shall be voted on directly by the people and the ticket that obtains the highest number of popular votes shall be inaugurated as President and Vice President. ****)\n(5)  The procedure for conducting the election of the President and Vice President is further regulated by law. ***)"
+        },
+        "noLabel": {
+          "en": "Article 6"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The President and the Vice President hold office for five years and thereafter may be re-elected to the same office for only one further term of office. *)\n\nA The President and/or the Vice President may be dismissed during his or her term of office by the People's Consultative Assembly upon the proposal of the House of Representatives, either where it is proven that he or she has committed a violation of law in the form of treason against the State, corruption, bribery, other serious criminal offence or a disgraceful act, or where it is proven that he or she no longer meets the requirements to serve as President and/or Vice President. ***)\n\nB\n(1)  A proposal to dismiss the President and/or the Vice President may be submitted by the House of Representatives to the People's Consultative Assembly only after first submitting a request to the Constitutional Court to examine, adjudicate and decide on the opinion of the House of Representatives that the President and/or the Vice President has committed a violation of law in the form of treason against the State, corruption, bribery, other serious criminal offence or a disgraceful act; and/or the opinion that the President and/or the Vice President no longer meets the requirements to serve as President and/or Vice President. ***) *)  :  First Amendment **)  :  Second Amendment ***)  :  Third Amendment ****)  :  Fourth Amendment\n(2)  The opinion of the House of Representatives that the President and/or the Vice President has committed such violation of law or no longer meets the requirements to serve as President and/or Vice President is expressed in the exercise of the oversight function of the House of Representatives.\n***)\n(3)  The request of the House of Representatives to the Constitutional Court may be made only with the support of at least two thirds of the total number of members of the House of Representatives present at a plenary session attended by at least two thirds of the total number of members of the House of Representatives. ***)\n(4)  The Constitutional Court is obliged to examine, adjudicate and decide as fairly as possible on the said opinion of the House of Representatives at the latest within ninety days after the request of the House of Representatives is received by the Constitutional Court. ***)\n(5)  Where the Constitutional Court decides that the President and/or the Vice President is proven to have committed a violation of law in the form of treason against the State, corruption, bribery, other serious criminal offence or a disgraceful act; and/or is proven no longer to meet the requirements to serve as President and/or Vice President, the House of Representatives shall hold a plenary session in order to forward the proposal to dismiss the President and/or the Vice President to the People's Consultative Assembly. ***)\n(6)  The People's Consultative Assembly is obliged to hold a session in order to decide on the said proposal of the House of Representatives at the latest thirty days after the People's Consultative Assembly receives the proposal. ***)\n(7)  The decision of the People's Consultative Assembly on the proposal to dismiss the President and/or the Vice President must be taken at a plenary session of the People's Consultative Assembly attended by at least three quarters of the total number of members and approved by at least two thirds of the total number of members present, after the President and/or the Vice President has been given the opportunity to submit an explanation at the plenary session of the People's Consultative Assembly. ***) *)  :  First Amendment **)  :  Second Amendment ***)  :  Third Amendment ****)  :  Fourth Amendment\n\nC The President may not freeze and/or dissolve the House of Representatives. ***)"
+        },
+        "noLabel": {
+          "en": "Article 7"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "(1)  If the President dies, resigns, is dismissed or is unable to perform his or her duties during his or her term of office, he or she is replaced by the Vice President until the end of that term of office. ***)\n(2)  In the event of a vacancy in the office of Vice President, within at the latest sixty days the People's Consultative Assembly shall hold a session in order to elect a Vice President from two candidates proposed by the President. ***)\n(3)  If the President and the Vice President die, resign, are dismissed or are unable to perform their duties during their term of office simultaneously, the duties of the presidency shall be performed jointly by the Minister for Foreign Affairs, the Minister for Home Affairs and the Minister for Defence.\nAt the latest thirty days thereafter, the People's Consultative Assembly shall hold a session in order to elect a President and a Vice President from the two tickets of candidates for President and Vice President proposed by the political parties whose tickets of candidates for President and Vice President obtained the highest and the second highest number of votes in the preceding general election, until the end of that term of office. ****)"
+        },
+        "noLabel": {
+          "en": "Article 8"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "(1)  Before assuming office, the President and the Vice President shall take an oath according to their religion, or make a solemn promise, before the People's Consultative Assembly or the House of Representatives, as follows:\nOath of the President (Vice President):\n“ In the name of God, I swear that I will perform the obligations of the President of the Republic of Indonesia (Vice President of the Republic of Indonesia) as well as possible and as fairly as possible, uphold the Constitution and execute all laws and regulations thereunder in the most upright manner, and be devoted to the Nation and the People”.\n*)  :  First Amendment **)  :  Second Amendment ***)  :  Third Amendment ****)  :  Fourth Amendment Promise of the President (Vice President):\n“I solemnly promise that I will perform the obligations of the President of the Republic of Indonesia (Vice President of the Republic of Indonesia) as well as possible and as fairly as possible, uphold the Constitution and execute all laws and regulations thereunder in the most upright manner, and be devoted to the Nation and the People”. *)\n(2)  If the People's Consultative Assembly or the House of Representatives is unable to hold a session, the President and the Vice President shall take an oath according to their religion, or make a solemn promise, before the leadership of the People's Consultative Assembly, witnessed by the leadership of the Supreme Court. *)"
+        },
+        "noLabel": {
+          "en": "Article 9"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The President holds the highest authority over the Army, the Navy and the Air Force."
+        },
+        "noLabel": {
+          "en": "Article 10"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "(1)  With the approval of the House of Representatives, the President declares war, makes peace and concludes treaties with other States. ****)\n(2)  In concluding other international treaties that give rise to extensive and fundamental consequences for the life of the people, that are related to the financial burden of the State and/or that require the amendment or the enactment of a law, the President must obtain the approval of the House of Representatives. ***)\n(3)  Further provisions on international treaties are regulated by law. ***)"
+        },
+        "noLabel": {
+          "en": "Article 11"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The President declares a state of danger. The requirements for and the consequences of a state of danger are determined by law.\n*)  :  First Amendment **)  :  Second Amendment ***)  :  Third Amendment ****)  :  Fourth Amendment"
+        },
+        "noLabel": {
+          "en": "Article 12"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "(1)  The President appoints ambassadors and consuls.\n(2)  In appointing ambassadors, the President has regard to the opinion of the House of Representatives. *)\n(3)  The President receives the accreditation of ambassadors of other States with due regard to the opinion of the House of Representatives. *)"
+        },
+        "noLabel": {
+          "en": "Article 13"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "(1)  The President grants pardon and rehabilitation with due regard to the opinion of the Supreme Court. *)\n(2)  The President grants amnesty and abolition with due regard to the opinion of the House of Representatives. *)"
+        },
+        "noLabel": {
+          "en": "Article 14"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The President confers titles, decorations and other marks of honour regulated by law. *)"
+        },
+        "noLabel": {
+          "en": "Article 15"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The President establishes a consultative council whose duty is to give advice and consideration to the President, which is further regulated by law. ****) *)  :  First Amendment **)  :  Second Amendment ***)  :  Third Amendment ****)  :  Fourth Amendment CHAPTER IV SUPREME ADVISORY COUNCIL Deleted. ****) CHAPTER V STATE MINISTRIES"
+        },
+        "noLabel": {
+          "en": "Article 16"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "(1)  The President is assisted by State Ministers.\n(2)  Those Ministers are appointed and dismissed by the President. *)\n(3)  Each Minister is responsible for a particular area of government affairs. *)\n(4)  The establishment, amendment and dissolution of State Ministries are regulated by law. ***) CHAPTER VI REGIONAL GOVERNMENT"
+        },
+        "noLabel": {
+          "en": "Article 17"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "(1)  The Unitary State of the Republic of Indonesia is divided into provincial regions and each provincial region is divided into regencies and cities, each of which province, regency and city has a regional government, as regulated by law. **)\n(2)  The regional governments of provinces, regencies and cities regulate and administer their own government affairs according to the principle of autonomy and the duty of assistance. **)\n(3)  The regional governments of provinces, regencies and cities have a Regional House of Representatives whose members are elected through general elections. **)\n(4)  The Governor, the Regent and the Mayor, respectively as head of the regional government of the province, regency and city, are elected democratically. **)\n(5)  Regional governments exercise the widest possible autonomy, except for government affairs that are determined by law as affairs of the Central Government. **) *)  :  First Amendment **)  :  Second Amendment ***)  :  Third Amendment ****)  :  Fourth Amendment\n(6)  Regional governments have the right to enact regional regulations and other regulations in order to implement autonomy and the duty of assistance. **)\n(7)  The structure and procedure for the administration of regional government are regulated by law. **)\n\nA\n(1)  The relationship of authority between the central government and the regional governments of provinces, regencies and cities, or between a province and its regencies and cities, is regulated by law with due regard to the particularities and the diversity of the regions. **)\n(2)  Financial relations, public services and the utilisation of natural resources and other resources between the central government and regional governments are regulated and implemented fairly and harmoniously on the basis of law. **)\n\nB\n(1)  The State recognises and respects regional government units that are special or privileged in character and that are regulated by law. **)\n(2)  The State recognises and respects the units of indigenous legal communities and their traditional rights in so far as they remain alive and are consistent with the development of society and with the principles of the Unitary State of the Republic of Indonesia, as regulated by law. **) *)  :  First Amendment **)  :  Second Amendment ***)  :  Third Amendment ****)  :  Fourth Amendment CHAPTER VII HOUSE OF REPRESENTATIVES"
+        },
+        "noLabel": {
+          "en": "Article 18"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "(1)  The members of the House of Representatives are elected through general elections. **)\n(2)  The composition of the House of Representatives is regulated by law. **)\n(3)  The House of Representatives sits at least once a year. **)"
+        },
+        "noLabel": {
+          "en": "Article 19"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "(1)  The House of Representatives holds the power to enact laws. *)\n(2)  Every draft law is deliberated by the House of Representatives and the President in order to obtain joint approval. *)\n(3)  If that draft law does not obtain joint approval, that draft law may not be submitted again during the session of the House of Representatives of that period. *)\n(4)  The President ratifies a draft law that has been jointly approved so that it becomes a law. *)\n(5)  In the event that a draft law that has been jointly approved is not ratified by the President within thirty days after that draft law is approved, that draft law shall validly become a law and must be promulgated. **)\n\nA\n(1)  The House of Representatives has the legislative function, the budgetary function and the oversight function. **)\n(2)  In performing its functions, in addition to the rights regulated in other articles of this Constitution, the House of Representatives has the right of interpellation, the right of inquiry and the right to express an opinion. **)\n(3)  In addition to the rights regulated in other articles of this Constitution, the House of Representatives has the right to submit questions, to convey proposals and opinions, and the right of immunity. **) *)  :  First Amendment **)  :  Second Amendment ***)  :  Third Amendment ****)  :  Fourth Amendment\n(4)  Further provisions on the rights of the House of Representatives and on the rights of the members of the House of Representatives are regulated by law. **)"
+        },
+        "noLabel": {
+          "en": "Article 20"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The members of the House of Representatives have the right to submit a proposal for a draft law. *)"
+        },
+        "noLabel": {
+          "en": "Article 21"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "(1)  In matters of compelling urgency, the President has the right to enact a Government Regulation in Lieu of Law.\n(2)  That Government Regulation must obtain the approval of the House of Representatives at the next session.\n(3)  If it does not obtain approval, that Government Regulation must be revoked.\n\nA Further provisions on the procedure for the enactment of laws are regulated by law. **)\n\nB Members of the House of Representatives may be dismissed from office, the requirements and procedure for which are regulated by law. **) *)  :  First Amendment **)  :  Second Amendment ***)  :  Third Amendment ****)  :  Fourth Amendment CHAPTER VIIA ***) REGIONAL REPRESENTATIVES COUNCIL\n\nC\n(1)  The members of the Regional Representatives Council are elected from each province through general elections. ***)\n(2)  The members of the Regional Representatives Council from each province are equal in number and the total number of members of the Regional Representatives Council does not exceed one third of the total number of members of the House of Representatives. ***)\n(3)  The Regional Representatives Council sits at least once a year.\n***)\n(4)  The structure and status of the Regional Representatives Council are regulated by law. ***)\n\nD\n(1)  The Regional Representatives Council may submit to the House of Representatives a draft law relating to regional autonomy, the relationship between the centre and the regions, the formation and the expansion as well as the merger of regions, the management of natural resources and other economic resources, and matters relating to the financial balance between the centre and the regions. ***)\n(2)  The Regional Representatives Council participates in deliberating draft laws relating to regional autonomy; the relationship between the centre and the regions; the formation, expansion and merger of regions; the management of natural resources and other economic resources; and the financial balance between the centre and the regions; and gives consideration to the House of Representatives on the draft law on the State budget and on draft laws relating to taxes, education and religion. ***)\n(3)  The Regional Representatives Council may exercise oversight over the implementation of laws concerning: regional autonomy, the formation, expansion and merger of regions, the relationship between the centre and the regions, the management of natural resources and other economic resources, the implementation of the State budget, taxes, education and religion, and shall convey the results of that oversight to the House of Representatives as material for consideration for follow-up action. ***) *)  :  First Amendment **)  :  Second Amendment ***)  :  Third Amendment ****)  :  Fourth Amendment\n(4)  Members of the Regional Representatives Council may be dismissed from office, the requirements and procedure for which are regulated by law. ***) CHAPTER VIIB ***) GENERAL ELECTIONS\n\nE\n(1)  General elections are held directly, publicly, freely, secretly, honestly and fairly once every five years. ***)\n(2)  General elections are held in order to elect the members of the House of Representatives, the members of the Regional Representatives Council, the President and the Vice President and the members of the Regional House of Representatives. ***)\n(3)  The participants in a general election to elect the members of the House of Representatives and the members of the Regional House of Representatives are political parties. ***)\n(4)  The participants in a general election to elect the members of the Regional Representatives Council are individuals. ***)\n(5)  General elections are held by a general elections commission that is national, permanent and independent. ***)\n(6)  Further provisions on general elections are regulated by law. ***) CHAPTER VIII FINANCIAL MATTERS"
+        },
+        "noLabel": {
+          "en": "Article 22"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "(1)  The State budget, as a manifestation of the management of State finances, is determined every year by law and is implemented openly and responsibly for the greatest possible prosperity of the people. ***)\n(2)  The draft law on the State budget is submitted by the President to be deliberated with the House of Representatives with due regard to the consideration of the Regional Representatives Council. ***) *)  :  First Amendment **)  :  Second Amendment ***)  :  Third Amendment ****)  :  Fourth Amendment\n(3)  If the House of Representatives does not approve the draft State budget proposed by the Government, the Government shall implement the State budget of the preceding year.\n***)\n\nA Taxes and other levies of a compulsory nature for the purposes of the State are regulated by law. ***)\n\nB The types and the prices of currency are determined by law. ****)\n\nC Other matters concerning State finances are regulated by law.\n***)\n\nD The State has a central bank whose structure, status, authority, responsibility and independence are regulated by law. ****) CHAPTER VIIIA ***) AUDIT BOARD\n\nE\n(1)  In order to audit the management of and the accountability for State finances, a single Audit Board is established which is free and independent.\n***)\n(2)  The results of the audit of State finances are submitted to the House of Representatives, the Regional Representatives Council and the Regional House of Representatives in accordance with their respective authority. ***)\n(3)  Those audit results are followed up by the representative institutions and/or bodies in accordance with law. ***) *)  :  First Amendment **)  :  Second Amendment ***)  :  Third Amendment ****)  :  Fourth Amendment\n\nF\n(1)  The members of the Audit Board are elected by the House of Representatives with due regard to the consideration of the Regional Representatives Council and are inaugurated by the President. ***)\n(2)  The leadership of the Audit Board is elected from and by its members. ***)\n\nG\n(1)  The Audit Board is based in the capital city of the State and has a representative office in each province. ***)\n(2)  Further provisions concerning the Audit Board are regulated by law. ***) CHAPTER IX JUDICIAL POWER"
+        },
+        "noLabel": {
+          "en": "Article 23"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "(1)  Judicial power is an independent power to administer justice in order to uphold law and justice. ***)\n(2)  Judicial power is exercised by a Supreme Court and the judicial bodies below it within the general judicature, the religious judicature, the military judicature and the State administrative judicature, and by a Constitutional Court. ***)\n(3)  Other bodies whose functions relate to judicial power are regulated by law. ****)\n\nA\n(1)  The Supreme Court has the authority to adjudicate at the level of cassation, to review regulations below a law against the law, and has other authority conferred by law. ***)\n(2)  A supreme judge must have integrity and an unblemished personality, be fair, be professional and be experienced in the field of law. ***) *)  :  First Amendment **)  :  Second Amendment ***)  :  Third Amendment ****)  :  Fourth Amendment\n(3)  Candidates for supreme judge are proposed by the Judicial Commission to the House of Representatives in order to obtain approval and are thereafter appointed as supreme judges by the President. ***)\n(4)  The Chief Justice and the Deputy Chief Justice of the Supreme Court are elected from and by the supreme judges.\n***)\n(5)  The structure, status, membership and procedural law of the Supreme Court and of the judicial bodies below it are regulated by law. ***)\n\nB\n(1)  The Judicial Commission is independent in character and has the authority to propose the appointment of supreme judges and has other authority in the context of maintaining and upholding the honour, the nobility of dignity and the conduct of judges. ***)\n(2)  The members of the Judicial Commission must have knowledge and experience in the field of law and must have integrity and an unblemished personality.\n***)\n(3)  The members of the Judicial Commission are appointed and dismissed by the President with the approval of the House of Representatives. ***)\n(4)  The structure, status and membership of the Judicial Commission are regulated by law. ***)\n\nC\n(1)  The Constitutional Court has the authority to adjudicate at the first and final level, with decisions that are final, in order to review laws against the Constitution, to decide disputes over the authority of State institutions whose authority is conferred by the Constitution, to decide on the dissolution of political parties, and to decide disputes concerning the results of general elections. ***)\n(2)  The Constitutional Court is obliged to give a decision on the opinion of the House of Representatives concerning an alleged violation by the President and/or the Vice President under the Constitution. ***)\n(3)  The Constitutional Court has nine members of constitutional justices appointed by the President, three of whom are proposed *)  :  First Amendment **)  :  Second Amendment ***)  :  Third Amendment ****)  :  Fourth Amendment by the Supreme Court, three by the House of Representatives and three by the President. ***)\n(4)  The Chief Justice and the Deputy Chief Justice of the Constitutional Court are elected from and by the constitutional justices. ***)\n(5)  A constitutional justice must have integrity and an unblemished personality, be fair, be a statesman who masters the constitution and constitutional government, and must not concurrently hold office as a State official. ***)\n(6)  The appointment and dismissal of constitutional justices, the procedural law and other provisions concerning the Constitutional Court are regulated by law. ***)"
+        },
+        "noLabel": {
+          "en": "Article 24"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The requirements for becoming and for being dismissed as a judge are determined by law.\nCHAPTER IXA **) STATE TERRITORY\n\nThe Unitary State of the Republic of Indonesia is an archipelagic State characterised by Nusantara, whose boundaries and rights are determined by law. **) CHAPTER X CITIZENS AND INHABITANTS **)"
+        },
+        "noLabel": {
+          "en": "Article 25"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "(1)  Citizens are persons of the original Indonesian nation and persons of other nations who are validated by law as citizens.\n(2)  Inhabitants are Indonesian citizens and foreign nationals residing in Indonesia. **)\n(3)  Matters concerning citizens and inhabitants are regulated by law. **) *)  :  First Amendment **)  :  Second Amendment ***)  :  Third Amendment ****)  :  Fourth Amendment"
+        },
+        "noLabel": {
+          "en": "Article 26"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "(1)  All citizens are equal in status in law and in government and are obliged to uphold that law and government without any exception.\n(2)  Every citizen has the right to work and to a livelihood that is decent for humanity.\n(3)  Every citizen has the right and the duty to participate in the efforts of State defence. **)"
+        },
+        "noLabel": {
+          "en": "Article 27"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Freedom of association and assembly, of expressing thoughts orally and in writing and so forth is determined by law.\nCHAPTER XA **) HUMAN RIGHTS\n\nA Every person has the right to live and the right to defend his or her life and livelihood. **)\n\nB\n(1)  Every person has the right to form a family and to continue his or her lineage through a lawful marriage. **)\n(2)  Every child has the right to survival, to grow and to develop and has the right to protection from violence and discrimination. **)\n\nC\n(1)  Every person has the right to develop himself or herself through the fulfilment of his or her basic needs, has the right to obtain education and to benefit from science and technology, art and culture, for the improvement of the quality of his or her life and for the welfare of mankind. **)\n(2)  Every person has the right to advance himself or herself in striving collectively for his or her rights in order to build his or her society, nation and State. **) *)  :  First Amendment **)  :  Second Amendment ***)  :  Third Amendment ****)  :  Fourth Amendment\n\nD\n(1)  Every person has the right to recognition, guarantee, protection and fair legal certainty and to equal treatment before the law. **)\n(2)  Every person has the right to work and to receive fair and decent remuneration and treatment in an employment relationship. **)\n(3)  Every citizen has the right to obtain equal opportunity in government. **)\n(4)  Every person has the right to the status of citizenship. **)\n\nE\n(1)  Every person is free to adhere to a religion and to worship according to his or her religion, to choose education and teaching, to choose an occupation, to choose citizenship, to choose a place of residence within the territory of the State and to leave it, and has the right to return. **)\n(2)  Every person has the freedom to hold beliefs and to express thoughts and attitudes in accordance with his or her conscience. **)\n(3)  Every person has the right to freedom of association, of assembly and of expression. **)\n\nF Every person has the right to communicate and to obtain information for the development of his or her person and social environment, and has the right to seek, obtain, possess, store, process and convey information using every type of available channel. **)\n\nG\n(1)  Every person has the right to protection of himself or herself, his or her family, honour, dignity and property under his or her control, and has the right to a sense of security and to protection from the threat of fear to do or not to do something that constitutes a human right. **)\n(2)  Every person has the right to be free from torture and from treatment that degrades human dignity and has the right to obtain political asylum from another State. **) *)  :  First Amendment **)  :  Second Amendment ***)  :  Third Amendment ****)  :  Fourth Amendment\n\nH\n(1)  Every person has the right to a life that is prosperous in body and spirit, to a place of residence, and to a good and healthy living environment, and has the right to obtain health services. **)\n(2)  Every person receives facilities and special treatment in order to obtain equal opportunity and benefit for the achievement of equality and justice. **)\n(3)  Every person has the right to social security that enables the full development of his or her person as a human being with dignity. **)\n(4)  Every person has the right to own private property and that ownership right may not be taken over arbitrarily by anyone. **)\n\nI\n(1)  The right to life, the right not to be tortured, the right to freedom of thought and conscience, the right to religion, the right not to be enslaved, the right to be recognised as a person before the law, and the right not to be prosecuted on the basis of a retroactive law are human rights that may not be reduced in any circumstances whatsoever. **)\n(2)  Every person has the right to be free from treatment that is discriminatory on any ground whatsoever and has the right to obtain protection against such discriminatory treatment. **)\n(3)  The cultural identity and the rights of traditional communities are respected in harmony with the development of the times and of civilisation. **)\n(4)  The protection, advancement, enforcement and fulfilment of human rights are the responsibility of the State, especially of the Government. **)\n(5)  In order to enforce and protect human rights in accordance with the principles of a democratic State based on law, the implementation of human rights is guaranteed, regulated and embodied in laws and regulations.\n**) *)  :  First Amendment **)  :  Second Amendment ***)  :  Third Amendment ****)  :  Fourth Amendment\n\nJ\n(1)  Every person is obliged to respect the human rights of others in the order of social, national and State life. **)\n(2)  In exercising his or her rights and freedoms, every person is obliged to submit to the restrictions determined by law solely for the purpose of guaranteeing the recognition and respect of the rights and freedoms of others and of meeting fair demands in accordance with moral considerations, religious values, security and public order in a democratic society. **) CHAPTER XI RELIGION"
+        },
+        "noLabel": {
+          "en": "Article 28"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "(1)  The State is based on the belief in the One and Only God.\n(2)  The State guarantees the freedom of every inhabitant to adhere to his or her respective religion and to worship according to that religion and belief.\nCHAPTER XII\nSTATE DEFENCE AND SECURITY **)"
+        },
+        "noLabel": {
+          "en": "Article 29"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "(1)  Every citizen has the right and the duty to participate in the efforts of State defence and security. **)\n(2)  The efforts of State defence and security are carried out through a system of total people's defence and security by the Indonesian National Armed Forces and the Indonesian National Police as the principal force, and by the people as the supporting force. **)\n(3)  The Indonesian National Armed Forces consist of the Army, the Navy and the Air Force as instruments of the State tasked with defending, protecting and maintaining the integrity and sovereignty of the State. **)\n(4)  The Indonesian National Police, as an instrument of the State that maintains the security and public order of society, is tasked with protecting, safeguarding and serving the public and with enforcing the law. **) *)  :  First Amendment **)  :  Second Amendment ***)  :  Third Amendment ****)  :  Fourth Amendment\n(5)  The structure and status of the Indonesian National Armed Forces and of the Indonesian National Police, the relationship of authority between the Indonesian National Armed Forces and the Indonesian National Police in the performance of their duties, and the requirements for the participation of citizens in the efforts of defence and security are regulated by law. **) CHAPTER XIII EDUCATION AND CULTURE ****)"
+        },
+        "noLabel": {
+          "en": "Article 30"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "(1)  Every citizen has the right to obtain education. ****)\n(2)  Every citizen is obliged to undergo basic education and the Government is obliged to finance it. ****)\n(3)  The Government endeavours to establish and to conduct a single national education system that enhances faith and piety as well as noble character in the context of developing the intellectual life of the nation, as regulated by law. ****)\n(4)  The State prioritises an education budget of at least twenty per cent of the State budget and of the regional budgets in order to meet the needs of the conduct of national education. ****)\n(5)  The Government advances science and technology by upholding religious values and the unity of the nation for the progress of civilisation and the welfare of mankind. ****) *)  :  First Amendment **)  :  Second Amendment ***)  :  Third Amendment ****)  :  Fourth Amendment"
+        },
+        "noLabel": {
+          "en": "Article 31"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "(1)  The State advances the Indonesian national culture in the midst of world civilisation by guaranteeing the freedom of society to maintain and to develop its cultural values. ****)\n(2)  The State respects and maintains regional languages as the cultural wealth of the nation. ****) CHAPTER XIV NATIONAL ECONOMY AND SOCIAL WELFARE ****)"
+        },
+        "noLabel": {
+          "en": "Article 32"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "(1)  The economy is organised as a joint effort based on the principle of kinship.\n(2)  Branches of production that are important to the State and that control the livelihood of the many are controlled by the State.\n(3)  The land, the waters and the natural wealth contained therein are controlled by the State and are used for the greatest possible prosperity of the people.\n(4)  The national economy is conducted on the basis of economic democracy with the principles of togetherness, efficiency with justice, sustainability, environmental insight and self-reliance, and by maintaining the balance of progress and the unity of the national economy. ****)\n(5)  Further provisions concerning the implementation of this article are regulated by law. ****) *)  :  First Amendment **)  :  Second Amendment ***)  :  Third Amendment ****)  :  Fourth Amendment"
+        },
+        "noLabel": {
+          "en": "Article 33"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "(1)  The poor and abandoned children are cared for by the State. ****)\n(2)  The State develops a social security system for all the people and empowers communities that are weak and unable, in accordance with human dignity. ****)\n(3)  The State is responsible for the provision of health service facilities and of adequate public service facilities. ****)\n(4)  Further provisions concerning the implementation of this article are regulated by law. ****) CHAPTER XV THE FLAG, THE LANGUAGE AND THE EMBLEM OF THE STATE, AND THE NATIONAL ANTHEM **)"
+        },
+        "noLabel": {
+          "en": "Article 34"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The State Flag of Indonesia is the Sang Merah Putih (Red and White)."
+        },
+        "noLabel": {
+          "en": "Article 35"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The State Language is the Indonesian Language.\n\nA The State Emblem is the Garuda Pancasila with the motto Bhinneka Tunggal Ika (Unity in Diversity). **)\n\nB The National Anthem is Indonesia Raya. **)\n\nC Further provisions concerning the Flag, the Language and the Emblem of the State, and the National Anthem are regulated by law. **) *)  :  First Amendment **)  :  Second Amendment ***)  :  Third Amendment ****)  :  Fourth Amendment CHAPTER XVI AMENDMENT OF THE CONSTITUTION"
+        },
+        "noLabel": {
+          "en": "Article 36"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "(1)  A proposal to amend articles of the Constitution may be placed on the agenda of a session of the People's Consultative Assembly if it is submitted by at least one third of the total number of members of the People's Consultative Assembly. ****)\n(2)  Every proposal to amend articles of the Constitution is submitted in writing and clearly indicates the part proposed to be amended together with the reasons therefor. ****)\n(3)  In order to amend articles of the Constitution, a session of the People's Consultative Assembly is attended by at least two thirds of the total number of members of the People's Consultative Assembly. ****)\n(4)  A decision to amend articles of the Constitution is taken with the approval of at least fifty per cent plus one member of the total membership of the People's Consultative Assembly. ****)\n(5)  In particular, the form of the Unitary State of the Republic of Indonesia may not be amended. ****) TRANSITIONAL PROVISIONS Article I All existing laws and regulations remain in force in so far as new ones have not been enacted under this Constitution. ****) Article II All existing State institutions continue to function in so far as they carry out the provisions of the Constitution and new ones have not been established under this Constitution. ****) Article III The Constitutional Court shall be established at the latest on 17 August 2003 and, prior to its establishment, all its authority shall be exercised by the Supreme Court.\n****) *)  :  First Amendment **)  :  Second Amendment ***)  :  Third Amendment ****)  :  Fourth Amendment SUPPLEMENTARY PROVISIONS Article I The People's Consultative Assembly is assigned to conduct a review of the substance and the legal status of the Decrees of the Provisional People's Consultative Assembly and of the Decrees of the People's Consultative Assembly in order to take a decision at the 2003 session of the People's Consultative Assembly. ****) Article II Upon the enactment of this amendment to the Constitution, the Constitution of the State of the Republic of Indonesia of 1945 consists of the Preamble and the articles. ****) _________"
+        },
+        "noLabel": {
+          "en": "Article 37"
+        }
+      }
+    ]
+  };
 
   TR["ID-H004"] = {
     "lawId": "ID-H004",
@@ -757,6 +1105,2295 @@
         "noLabel": {
           "en": "Article 82"
         }
+      }
+    ]
+  };
+
+  TR["ID-H011"] = {
+    "lawId": "ID-H011",
+    "sourceLang": "id",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "DeepSeek-V4.1-Flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-26",
+    "reviewed": "machine",
+    "glossaryVersion": "id-en-2026-10",
+    "completenessNote": "从印尼语回执逐条入库，共 238 条；条号与原文一一对应。",
+    "articles": [
+      {
+        "no": 20,
+        "text": {
+          "en": ", and Article 33 of the Constitution of the Republic of Indonesia of 1945; b. c. d.\n2. Law 2 of 1994 on the Ratification of the Agreement Establishing the World Trade Organization (Agreement Establishing the World Trade Organization) (State Gazette of the Republic of Indonesia of 1994 Number 57, Supplement to the State Gazette of the Republic of Indonesia Number 356a);\nBy Mutual Agreement\nTHE HOUSE OF REPRESENTATIVES OF THE REPUBLIC OF INDONESIA and THE PRESIDENT OF THE REPUBLIC OF INDONESIA DECIDE:\nTo enact: LAW ON MARKS AND GEOGRAPHICAL INDICATIONS.\nON MARKS AND GEOGRAPHICAL\nCHAPTER I\nGENERAL PROVISIONS"
+        },
+        "noLabel": {
+          "en": "Article 20"
+        }
+      },
+      {
+        "no": 1,
+        "text": {
+          "en": "In this Law, the following definitions apply:\n1. A Mark is a sign that can be displayed graphically in the form of a picture, logo, name, word, letter, numeral, colour arrangement, in 2 (two) dimensions and/or 3 (three) dimensions, sound, hologram, or a combination of 2 (two) or more of those elements to distinguish goods and/or services produced by a person or legal entity in trading activities in goods and/or services.\n2. A Trademark is a Mark used on goods traded by a person or several persons jointly or by a legal entity to distinguish them from other similar goods.\n3. A Service Mark is a Mark used on services traded by a person or several persons jointly or by a legal entity to distinguish them from other similar services.\n4. Mark. .\nR E P u J.Tnt t,',?o=5 r .\n=, o\n4. A Collective Mark is a Mark used on goods and/or services with the same characteristics as regards the nature, common features, and quality of the goods or services as well as their supervision, to be traded by several persons or legal entities jointly to distinguish them from other similar goods and/or services.\n5. The Right to a Mark is the exclusive right granted by the State to the owner of a registered Mark for a certain period by using the Mark himself or by giving permission to another party to use it.\n6. A Geographical Indication is a sign indicating the area of origin of goods and/or products for which the geographical environmental factors, including natural factors, human factors, or a combination of the two, give a certain reputation, quality, and characteristics to the goods and/or products produced.\n7. The Right to a Geographical Indication is the exclusive right granted by the State to the holder of a registered Geographical Indication right, for as long as the reputation, quality, and characteristics constituting the basis for granting protection of the Geographical Indication still exist.\n8. An Application is a request for registration of a Mark or registration of a Geographical Indication submitted to the Minister.\n9. An Applicant is a party submitting an application for a Mark or a Geographical Indication.\n10. A User of a Geographical Indication is a party obtaining permission from the holder of the right to a registered Geographical Indication to process and/or market goods and/or products of the Geographical Indication.\n11. A Document Describing the Geographical Indication is a document containing information, including the reputation, quality, and characteristics of the goods and/or products related to the geographical factors of the goods and/or products for which the Geographical Indication is applied for.\n12. An Examiner is a mark examiner as a professional official who, by reason of his expertise, is appointed and dismissed by the Minister to conduct a substantive examination of an application for registration of a Mark. 13. Attorney . . .\nR E p u \"I5ot t\",?o=| n, .\n=, o\n13. An Attorney is an intellectual property consultant residing or having a permanent domicile within the territory of the Unitary State of the Republic of Indonesia.\n14. An Intellectual Property Consultant is a person having expertise in the field of intellectual property and registered as an Intellectual Property Consultant, and specifically providing services in the field of filing and processing intellectual property Applications.\n15. The Geographical Indication Expert Team is a team consisting of persons having expertise that assesses the Document Describing the Geographical Indication and gives consideration/recommendation to the Minister in connection with the registration, modification, cancellation, technical guidance and/or supervision of national Geographical Indications.\n16. The Filing Date is the date of receipt of an Application that has fulfilled the minimum requirements.\n17. The Right of Priority is the right of an applicant to file an Application originating from a state that is a party to the Paris Convention for the Protection of Industrial Property (Paris Convention for the Protection of Industrial Property) or to the Agreement Establishing the World Trade Organization (Agreement Establishing the World Trade Organization) in order to obtain recognition that the Filing Date in the state of origin constitutes the priority date in the destination state which is also a member of one of those two treaties, provided that the filing is made within the period determined on the basis of the said international treaty.\n18. A Licence is a permission granted by the owner of a registered Mark to another party on the basis of a written agreement in accordance with statutory provisions to use the registered Mark.\n19. A Person is a natural person or a legal entity.\n20. The Minister is the minister administering government affairs in the field of law.\n21. The Sending Date is the postal stamp date and/or the date of sending a letter electronically.\n22. A Day is a working day.\n23. Commission R E p rr J.Tot t,',?Sf;\n* .\n=, o\n23. The Mark Appeal Commission is an independent special body within the ministry administering government affairs in the field of law.\n24. The Official Mark Gazette is an official medium published periodically by the Minister through electronic and/or non-electronic means and containing provisions on Marks according to this Law.\nCHAPTER II\nSCOPE OF MARKS"
+        },
+        "noLabel": {
+          "en": "Article 1"
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "(1) The scope of this Law covers:\na. Marks; and\nb. Geographical Indications.\n(2) The Marks as referred to in paragraph (1) letter a cover:\na. Trademarks; and\nb. Service Marks.\n(3) The Marks protected consist of signs in the form of pictures, logos, names, words, letters, numerals, colour arrangements, in 2 (two) dimensions and/or 3 (three) dimensions, sound, holograms, or a combination of 2 (two) or more of those elements to distinguish goods and/or services produced by a person or legal entity in trading activities in goods and/or services."
+        },
+        "noLabel": {
+          "en": "Article 2"
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The right to a Mark is obtained after the Mark is registered.\nCHAPTER III ...\nREPUJS':=,',Y5f;*==,o\nCHAPTER III\nAPPLICATION FOR REGISTRATION OF MARKS\nSection One\nRequirements and Procedures for Applications"
+        },
+        "noLabel": {
+          "en": "Article 3"
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "(1) An application for registration of a Mark shall be filed by the Applicant or his Attorney with the Minister electronically or non-electronically in the Indonesian language.\n(2) The Application as referred to in paragraph (1) must state:\na. the date, month, and year of the Application;\nb. the full name, nationality, and address of the Applicant;\nc. the full name and address of the Attorney if the Application is filed through an Attorney;\nd. the colours if the Mark applied for registration uses colour elements;\ne. the name of the state and the date of the first application for the Mark in the event that the Application is filed with the Right of Priority; and\nf. the class of goods and/or class of services as well as the description of the types of goods and/or types of services.\n(3) The Application shall be signed by the Applicant or his Attorney.\n(4) The Application as referred to in paragraph (1) shall be accompanied by the mark label and proof of payment of the fee.\n(5) The fee for an application for registration of a Mark shall be determined per class of goods and/or services.\n(6) In the event that the Mark as referred to in paragraph (4) is in 3 (three) dimensional form, the mark label attached shall be in the form of the characteristics of that Mark.\n(7) In the event that the Mark as referred to in paragraph (4) is in the form of sound, the mark label attached shall be in the form of notation and sound recording.\n(8) The Application as referred to in paragraph (1) must be accompanied by a statement of ownership of the Mark applied for registration.\n(9) Provisions. . .\n(1) (21 R E i3 u J5ot t,',?ot) * =,, o\n(9) Further provisions on the application fee as referred to in paragraph (5) shall be regulated by a Government Regulation."
+        },
+        "noLabel": {
+          "en": "Article 4"
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "In the event that the Application is filed by more than one Applicant who jointly have the right to the Mark, all names of the Applicants shall be stated by choosing one address as the applicant's address; the Application as referred to in paragraph (1) shall be signed by one of the applicants entitled to the Mark by attaching the written consent of the Applicants represented.\nAn Application as referred to in paragraph (1) in which one or more of the Applicants are foreign nationals and foreign legal entities domiciled abroad must be filed through an Attorney.\nIn the event that the Application as referred to in paragraph (1) is filed through an Attorney, the power of attorney for that purpose shall be signed by all parties entitled to the Mark.\n(3) (41\n(1) (21"
+        },
+        "noLabel": {
+          "en": "Article 5"
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "An application for more than 1 (one) class of goods and/or services may be filed in one application.\nThe Application as referred to in paragraph (1) must state the types of goods and/or services included in the class applied for registration.\n' Further provisions on the classes of goods and/or services as referred to in paragraph (1) shall be regulated by a Regulation of the Minister."
+        },
+        "noLabel": {
+          "en": "Article 6"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "(1) An Application and matters relating to the administration of Marks filed by an applicant residing or having a permanent domicile outside the territory of the Unitary State of the Republic of Indonesia must be filed through an Attorney.\n(3)\n(2) Applicant REPuJ.T':t\"'35|*==,o\n(2) The Applicant as referred to in paragraph (1) must state and choose the address of an Attorney having a legal domicile in Indonesia."
+        },
+        "noLabel": {
+          "en": "Article 7"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Further provisions on the Requirements and Applications as referred to in Article 4 to Article 6 shall be regulated by a Regulation of the Minister.\nSection Two\nApplications for Registration of Marks with the Right of Priority Procedures 4 to\n(1)"
+        },
+        "noLabel": {
+          "en": "Article 8"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "An Application using the Right of Priority must be filed within a period of at most 6 (six) months from the Filing Date of the application for registration of the Mark first received in another state that is a member of the Paris Convention for the Protection of Industrial Property (Paris Convention for the Protection of Industrial Property) or a member of the Agreement Establishing the World Trade Organization (Agreement Establishing the World Trade Organization)."
+        },
+        "noLabel": {
+          "en": "Article 9"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "In addition to having to fulfil the provisions referred to in Article 4 to Article 7, an application using the Right of Priority must be completed with proof of receipt of the application for registration of the Mark that first gave rise to that Right of Priority.\nThe proof as referred to in paragraph (1) must be translated into the Indonesian language.\n- In the event that the provisions as referred to in paragraph (1) and paragraph (2) are not fulfilled within a period of 3 (three) months after the expiry of the right to file an Application using the Right of Priority as referred to in Article 9, the application shall still be processed but without using the Right of Priority.\n(2)\n(3)\nSection .\nREPUELIK II(DONESIA\nSection Three\nExamination of the Completeness of the Requirements for Registration of Marks"
+        },
+        "noLabel": {
+          "en": "Article 10"
+        }
+      },
+      {
+        "no": 1,
+        "text": {
+          "en": "(1) An Application shall be filed by fulfilling all the completeness requirements for registration of a Mark as referred to in Article 4, Article 5, Article 6, Article 7, Article 9, and Article 10.\n(2) In the event that there is a shortage in the completeness of the requirements as referred to in Article 4, Article 5, Article 6, and/or Article 7, within a period of at most 30 (thirty) Days from the date of receipt, the applicant shall be notified to fulfil the completeness of those requirements within a period of at most 2 (two) months from the Sending Date of the notification letter to fulfil the completeness of the requirements.\n(3) In the event that the shortage concerns the completeness of the requirements as referred to in Article 10, the period for fulfilling the shortage in the completeness of those requirements shall be at most 3 (three) months from the expiry of the period for filing an application using the Right of Priority.\n(4) In the event that the completeness of the requirements of the application as referred to in paragraph (2) and paragraph (3) is not fulfilled owing to a natural disaster or a force majeure beyond human capability, the applicant or his Attorney may submit a written request for an extension of the period for fulfilling the said completeness of requirements."
+        },
+        "noLabel": {
+          "en": "Article 1"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "In the event that the completeness of the requirements is not fulfilled within the period as referred to in Article 11 paragraph (2), the Minister shall notify the applicant or his Attorney in writing that the Application is deemed withdrawn.\nSection . . .\n(1) _ 10_\nSection Four\nFiling Date of Applications"
+        },
+        "noLabel": {
+          "en": "Article 12"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "An Application that has fulfilled the minimum requirements shall be given a Filing Date.\nThe minimum requirements as referred to in paragraph\n(1) consist of:\na. an Application form that has been completely filled in;\nb. the mark label; and\nc. proof of payment of the fee.\nSection Five\nPublication of Applications"
+        },
+        "noLabel": {
+          "en": "Article 13"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "(1) The Minister shall publish the Application in the Official Mark Gazette within a period of at most 15 (fifteen) Days from the Filing Date of the application as referred to in Article 13.\n(2) The publication of the Application in the Official Mark Gazette as referred to in paragraph (1) shall last for 2 (two) months.\n(3) The Official Mark Gazette as referred to in paragraph (2) shall be published periodically by the Minister through electronic and/or non-electronic means."
+        },
+        "noLabel": {
+          "en": "Article 14"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The publication shall be carried out by stating:\na. the name and address of the Applicant, including the Attorney if the Application is filed through an Attorney;\nb. the class and types of goods and/or services;\nc. the Filing Date;\nd. the name of the state and the date of receipt of the first application in the event that the Application is filed using the Right of Priority; and\n(2)\ne. the label . .\n(1) R E p u J,-T,[ t,',?ot5 * . r, o\ne. the mark label, including information on colours and, if the mark label uses a foreign language and/or\nletters other than Latin letters and/or numerals not customarily used in the Indonesian language, accompanied by its translation into the Indonesian language, Latin letters or numerals customarily used in the Indonesian language, as well as its pronunciation in Latin spelling.\nSection Six\nObjections and Rebuttals"
+        },
+        "noLabel": {
+          "en": "Article 15"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Within the publication period as referred to in Article 14, any party may file a written objection with the Minister against the Application concerned, subject to a fee.\nThe objection as referred to in paragraph (1) may be filed if there are sufficient grounds accompanied by evidence that the Mark applied for registration is a Mark that under this Law cannot be registered or is to be rejected.\nIn the event that there is an objection as referred to in\nparagraph (1), within a period of at most 14 (fourteen) Days from the date of receipt of the objection, a copy of the letter containing the objection shall be sent to the Applicant or his Attorney."
+        },
+        "noLabel": {
+          "en": "Article 16"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The Applicant or his Attorney shall be entitled to file a rebuttal against the objection as referred to in Article 16 with the Minister.\nThe rebuttal as referred to in paragraph (1) shall be filed in writing within a period of at most 2 (two) months from the Sending Date of the copy of the objection submitted by the Minister.\n(2)\n(3)\n(1) (21 Section REPUBLIK INDONIESIA _t2_\nSection Seven\nCorrection and Withdrawal of Applications for Registration of Marks"
+        },
+        "noLabel": {
+          "en": "Article 17"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Correction of an Application shall be permitted only as regards the writing of the name and/or address of the Applicant or his Attorney."
+        },
+        "noLabel": {
+          "en": "Article 18"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "As long as the mark certificate or a letter of rejection from the Minister has not been issued, the Application may be withdrawn by the Applicant or his Attorney.\nIn the event that the withdrawal as referred to in\nparagraph (1) is carried out by his Attorney, the withdrawal must be carried out on the basis of a special power of attorney for the purpose of such withdrawal.\nCHAPTER IV\nREGISTRATION OF MARKS\nSection One\nMarks that Cannot be Registered and are to be Rejected"
+        },
+        "noLabel": {
+          "en": "Article 19"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "A Mark cannot be registered if:\na. it conflicts with state ideology, statutory provisions, morality, religion, decency, or public order;\nb. it is the same as, related to, or merely mentions the goods and/or services applied for registration;\nc. it contains elements that may mislead the public as to the origin, quality, type, size, kind, purpose of use of the goods and/or services applied for registration, or constitutes the name of a protected plant variety for similar goods and/or services;\nd. it contains information that does not correspond to the quality, benefits, or efficacy of the goods and/or services produced;\n(1) (21\ne. does not REPI-JBLIK INDONESIA\ne. it lacks distinctiveness; and/or\nf. it constitutes a common name and/or public emblem."
+        },
+        "noLabel": {
+          "en": "Article 20"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "(1) An Application shall be rejected if the Mark has similarity in essence or in its entirety with:\na. a registered Mark belonging to another party or applied for earlier by another party for similar goods and/or services;\nb. a well-known Mark belonging to another party for similar goods and/or services;\nc. a well-known Mark belonging to another party for dissimilar goods and/or services that meets certain requirements; or\nd. a registered Geographical Indication.\n(2) An Application shall be rejected if the Mark: a. constitutes or resembles the name or abbreviation of the name of a well-known person, a photograph, or the name of a legal entity belonging to another person, except with the written consent of the party entitled thereto;\nb. constitutes a imitation or resembles the name or abbreviation of the name, flag, emblem or symbol or emblem of a state, or of a national or international institution, except with the written consent of the competent party; or\nc. constitutes an imitation or resembles an official sign or seal or stamp used by the State or a Government institution, except with the written consent of the competent party.\n(3) An Application shall be rejected if it is filed by an applicant acting in bad faith.\n(4) Further provisions on the rejection of applications for Marks as referred to in paragraph (1) letters a to c shall be regulated by a Regulation of the Minister."
+        },
+        "noLabel": {
+          "en": "Article 2"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "R E P u J.T,i t,',?ou) n, u ., o _t4_"
+        },
+        "noLabel": {
+          "en": "Article 22"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Against a registered Mark that subsequently becomes a generic name, any person may file an application for a Mark using the said generic name with the addition of other words, insofar as there is a distinguishing element.\nSection Two\nSubstantive Examination of Marks"
+        },
+        "noLabel": {
+          "en": "Article 22"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "(1) A substantive examination is an examination carried out by an Examiner of an application for registration of a Mark.\n(2) All objections and/or rebuttals as referred to in Article 16 and Article 17 shall be taken into consideration in the substantive examination as referred to in paragraph (1).\n(3) In the event that there is no objection within a period of at most 30 (thirty) Days from the date of expiry of the publication, a substantive examination shall be carried out on the Application.\n(4) In the event that there is an objection within a period of at most 30 (thirty) Days from the date of expiry of the deadline for submitting a rebuttal as referred to in Article 17, a substantive examination shall be carried out on the Application.\n(5) The substantive examination as referred to in paragraph\n(3) and paragraph (4) shall be completed within a period of at most 150 (one hundred and fifty) Days.\n(6) In the event that it is necessary to carry out a substantive examination, expert mark examiners other than Examiners may be appointed.\n(7) The result of a substantive examination carried out by an expert mark examiner other than an Examiner as referred to in paragraph (6) may be regarded as the same as the result of a substantive examination carried out by an Examiner, with the approval of the Minister.\n(8) Provisions...\nREPuJrT':t\",35|*==,o\n(8) Further provisions on expert mark examiners other than Examiners as referred to in paragraph\n(6) shall be regulated by a Regulation of the Minister."
+        },
+        "noLabel": {
+          "en": "Article 23"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "(1) In the event that the Examiner decides that the Application can be registered, the Minister shall:\na. register the Mark;\nb. notify the registration of the Mark to the Applicant or his Attorney;\nc. issue a mark certificate; and\nd. publish the registration of the Mark in the Official Mark Gazette, whether electronic or non-electronic.\n(2) In the event that the Examiner decides that the Application cannot be registered or is rejected, the Minister shall notify the Applicant or his Attorney in writing, stating the reasons.\n(3) Within a period of at most 30 (thirty) Days from the Sending Date of the notification letter as referred to in paragraph (2), the Applicant or his Attorney may submit a response in writing stating the reasons.\n(4) In the event that the Applicant or his Attorney does not submit a response as referred to in paragraph (3), the Minister shall reject the Application.\n(5) In the event that the Applicant or his Attorney submits a response as referred to in paragraph (3) and the Examiner decides that the response can be accepted, the Minister shall carry out the provisions as referred to in paragraph (1).\n(6) In the event that the Applicant or his Attorney submits a response as referred to in paragraph (3) and the Examiner decides that the response cannot be accepted, the Minister shall reject the Application.\n(7) The rejection as referred to in paragraph (4) and paragraph\n(6) shall be notified in writing to the applicant or his Attorney, stating the reasons.\n(8) In...\nR EF u #i,t =\"'i'55n, = u, o - 16_\n(8) In the event that there is an objection as referred to in Article 16, the Minister shall send a copy of the notification letter of registration or rejection to the party filing the objection."
+        },
+        "noLabel": {
+          "en": "Article 24"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "(1) A mark certificate shall be issued by the Minister from the time the Mark is registered.\n(2) The mark certificate as referred to in paragraph (1) shall contain:\na. the name and full address of the owner of the registered Mark;\nb. the name and full address of the Attorney, in the event that the Application is made through an Attorney;\nc. the Filing Date;\nd. the name of the state and the Filing Date of the first application in the event that the application is filed using the Right of Priority;\ne. the registered mark label, including information on the kinds of colours if the Mark uses colour elements, and if the Mark uses a foreign language, letters other than Latin letters, and/or numerals not customarily used in the Indonesian language, accompanied by its translation into the Indonesian language, Latin letters and numerals customarily used in the Indonesian language as well as its pronunciation in Latin spelling;\nf. the registration number and date;\ng. the class and types of goods and/or services for which the Mark is registered; and\nh. the term of validity of the registration of the Mark.\n(3) In the event that a mark certificate that has been issued is not collected by the owner of the Mark or his Attorney within a period of at most 18 (eighteen) months from the date of issuance of the certificate, the Mark that has been registered shall be deemed withdrawn and deleted.\nArticle 26...\nR E P rr JSot =,'*\"5| * .\n=, o"
+        },
+        "noLabel": {
+          "en": "Article 25"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Any party may file a request to obtain an official extract of a registered mark certificate by paying a fee.\nSection Three\nCorrection of Certificates\nArticle 27\nThe owner of a registered Mark or his Attorney may file a request for correction in writing to the Minister in the event that there is an error in the mark certificate as referred to in Article 25, without being subject to a fee.\nIn the event that the error in the mark certificate is caused by an error of the Applicant in filing the application for registration of the Mark, the correction of the mark certificate shall be subject to a fee.\nFurther provisions on the correction of certificates as referred to in paragraph (1) and paragraph (2) shall be regulated by a Regulation of the Minister.\n(1) (21\n(3)\n(1)\n(2)\n(3) Section Four Appeal Applications"
+        },
+        "noLabel": {
+          "en": "Article 26"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "An appeal may be filed against a rejection of an Application on the grounds as referred to in Article 20 and/or Article 21.\nThe appeal shall be filed in writing by the Applicant or his Attorney with the Mark Appeal Commission with a copy submitted to the Minister, subject to a fee.\nThe appeal shall be filed by setting out in full the objection as well as the grounds against the rejection of the Application.\nThe grounds as referred to in paragraph (3) shall not constitute a correction or improvement of the rejected Application.\n(4) Article 29...\n## R E P u JtTr: t,',?S|n, =., o _18_"
+        },
+        "noLabel": {
+          "en": "Article 28"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "(1) An appeal against a rejection of an Application shall be filed within a period of at most 90 (ninety) Days from the Sending Date of the notification letter of rejection of the Application.\n(2) In the event that the appeal as referred to in paragraph (1) is not filed, the rejection of the Application shall be deemed accepted by the Applicant."
+        },
+        "noLabel": {
+          "en": "Article 29"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "(1) A decision of the Mark Appeal Commission shall be given within a period of at most 3 (three) months from the date of receipt of the appeal application.\n(2) In the event that the Mark Appeal Commission grants the appeal, the Minister shall issue and give a mark certificate to the Applicant or his Attorney as referred to in Article 24.\nIn the event that the Mark Appeal Commission rejects the appeal, the Applicant or his Attorney may file a claim against the decision rejecting the appeal with the Commercial Court within a period of at most 3 (three) months from the date of receipt of the decision of rejection.\nAgainst the decision of the Commercial Court as referred to in paragraph (3), a cassation may be filed."
+        },
+        "noLabel": {
+          "en": "Article 30"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "In the event that a registered Mark conflicts with state ideology, statutory provisions, morality, religion, decency, and public order, the Mark Appeal Commission shall give a recommendation to the Minister to carry out its deletion."
+        },
+        "noLabel": {
+          "en": "Article 31"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Further provisions on the procedures for application, examination and settlement of appeals at the Mark Appeal Commission as referred to in Article 28 to"
+        },
+        "noLabel": {
+          "en": "Article 32"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "shall be regulated by a Government Regulation.\n(3) (41 Section R E F u J5,[ t,',?ot] * = r, o\nSection Five\nMark Appeal Commission"
+        },
+        "noLabel": {
+          "en": "Article 31"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "(1) The Mark Appeal Commission shall consist of:\na. a chairperson who is also a member;\nb. a vice-chairperson who is also a member;\nc. experts in the field of Marks as members; and\nd. senior Examiners as members.\n(2) The members of the Mark Appeal Commission as referred to in paragraph (1) shall number at most 30 (thirty) persons, consisting of 15 (fifteen) senior Examiners and 15 (fifteen) experts in the field of Marks appointed and dismissed by the Minister for a term of office of 3 (three) years.\n(3) The chairperson and vice-chairperson shall be elected from and by the members of the Mark Appeal Commission.\n(4) To examine appeals, the Mark Appeal Commission shall form a panel numbering an odd number of at least 3 (three) persons, one of whom shall be a senior Examiner who did not carry out the substantive examination of the Application."
+        },
+        "noLabel": {
+          "en": "Article 33"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Further provisions on the requirements and procedures for the appointment of members, organisational structure, duties, and functions of the Mark Appeal Commission as referred to in Article 33 shall be regulated by a Government Regulation.\nSection Six\nTerm of Protection and Renewal of Registered Marks"
+        },
+        "noLabel": {
+          "en": "Article 34"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "(1) A registered Mark shall receive legal protection for a period of 10 (ten) years from the Filing Date.\n(2) Period...\n(4) (21\n(3)\n(3)\n(4) The term of protection as referred to in\nparagraph (1) may be renewed for the same period.\nThe application for renewal as referred to in\nparagraph (2) shall be filed electronically or non-electronically in the Indonesian language by the owner of the Mark or his Attorney within a period of 6 (six) months before the expiry of the term of protection for the registered Mark, subject to a fee.\nThe application for renewal as referred to in\nparagraph (2) may still be filed within a period of at most 6 (six) months after the expiry of the term of protection of the registered Mark, subject to a fee and a fine equal to the renewal fee."
+        },
+        "noLabel": {
+          "en": "Article 35"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "An application for renewal shall be approved if it attaches a statement concerning:\na. that the Mark concerned is still used on the goods or services as stated in the mark certificate; and\nb. that the goods or services as referred to in letter a are still produced and/or traded."
+        },
+        "noLabel": {
+          "en": "Article 36"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "An application for renewal shall be rejected if it does not fulfil the provisions as referred to in Article 36.\nThe rejection of the application for renewal as referred to in paragraph (1) shall be notified in writing to the owner of the Mark or his Attorney, stating the reasons.\nAgainst the rejection of the application for renewal as referred to in paragraph (2), an appeal may be filed with the Mark Appeal Commission.\nThe provisions on appeal applications as referred to in Article 28 to Article 30 shall apply mutatis mutandis to the rejection of an application for renewal.\nApplicant\n(1) (2t"
+        },
+        "noLabel": {
+          "en": "Article 37"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "(1) R E P u JrTo-t,'i?S|n, . r, o"
+        },
+        "noLabel": {
+          "en": "Article 38"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "(1) The renewal of a registered Mark in the form of a logo or emblem of a company or legal entity shall not require the procedure as referred to in Article 35 to Article 37, but shall merely require payment of the renewal fee for the registered Mark within a period of 6 (six) months before the expiry of the term of protection for the registered Mark, insofar as no dispute arises over the said renewal of the Mark.\n(2) In the event that a dispute arises as referred to in\nparagraph (1), the determination of registration of the application for renewal of the Mark shall be made after there is a decision having permanent legal force."
+        },
+        "noLabel": {
+          "en": "Article 38"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The renewal of the term of protection of a registered Mark shall be recorded and published in the Official Mark Gazette.\nThe renewal of the term of protection of a registered Mark as referred to in paragraph (1) shall be notified in writing to the owner of the Mark or his Attorney.\nFurther provisions on the requirements and procedures for applications for renewal of the term of protection of registered Marks as referred to in paragraph (1) and\nparagraph (2) shall be regulated by a Regulation of the Minister."
+        },
+        "noLabel": {
+          "en": "Article 39"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "(1) An application for recording a change of name and/or address of the owner of a registered Mark shall be filed with the Minister, subject to a fee, to be recorded, accompanied by a copy of the deed concerning proof of such change.\n(2) A change of name and/or address as referred to in paragraph (1) may be made at the time of the process of the application for registration of the Mark.\n(3) A change of name and/or address of the owner of a Mark as referred to in paragraph (1) shall be published in the Official Mark Gazette.\n(2)\n(3)\n(4) Provisions\n(1) R E P u J'-T': =\",35|* - =, o (4) Further provisions on the requirements and procedures for applications for recording a change of name and/or address as referred to in paragraph (1) to paragraph\n(3) shall be regulated by a Regulation of the Minister.\nCHAPTER V\nTRANSFER OF RIGHTS AND LICENCES\nSection One\nTransfer of Rights"
+        },
+        "noLabel": {
+          "en": "Article 40"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The right to a registered Mark may pass or be transferred by reason of:\na. inheritance;\nb. will;\nc. waqf;\nd. grant;\ne. agreement; or\nf. other causes justified by statutory provisions.\nThe transfer of the right to a registered Mark by the owner of a Mark who owns more than one registered Mark having similarity in essence or in its entirety for similar goods and/or services may be carried out only if all those registered Marks are transferred to the same party.\n(3) The transfer of the right to a registered Mark as referred to in paragraph (1) and paragraph (2) shall be requested for recording with the Minister.\n(4) The application for transfer of the right to a Mark as referred to in paragraph (3) shall be accompanied by its supporting documents.\nThe transfer of the right to a registered Mark that has been recorded as referred to in paragraph (3) shall be published in the Official Mark Gazette.\nA transfer of the right to a registered Mark that is not recorded shall have no legal effect on third parties.\n(21 (s)\n(6)\n(7) Pencatatan (71\n(8) The recording of a transfer of the right to a Mark as referred to in paragraph (1) shall be subject to a fee.\nThe transfer of the right to a Mark as referred to in paragraph (1) may be carried out at the time of the process of the application for registration of the Mark.\nFurther provisions on the requirements and procedures for applications for recording the transfer of the right to a Mark as referred to in paragraph (1) to paragraph\n(8) shall be regulated by a Regulation of the Minister.\nSection Two\nLicences"
+        },
+        "noLabel": {
+          "en": "Article 41"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The owner of a registered Mark may grant a Licence to another party to use the Mark either for part or for all types of goods and/or services.\nA licence agreement shall apply throughout the territory of the Unitary State of the Republic of Indonesia, unless otherwise agreed.\nA licence agreement must be requested for recording with the Minister, subject to a fee.\nThe licence agreement as referred to in paragraph (3) shall be recorded by the Minister and published in the Official Mark Gazette.\nA licence agreement that is not recorded shall have no legal effect on third parties.\n(6) A licence agreement shall be prohibited from containing provisions that, either directly or indirectly, give rise to effects detrimental to the Indonesian economy or contain restrictions that hamper the ability of the Indonesian nation to master and develop technology."
+        },
+        "noLabel": {
+          "en": "Article 42"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "The owner of a registered Mark who has granted a Licence to another party as referred to in Article 42 paragraph (1) may still use the Mark himself or grant a Licence to a third party to use the Mark, unless otherwise agreed.\n(e)\n(1) (21\n(3)\n(4) (s)"
+        },
+        "noLabel": {
+          "en": "Article 43"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "13RESIDtrN REPUB!--II( I ITIDOI\\IESIA"
+        },
+        "noLabel": {
+          "en": "Article 44"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "The use of a registered Mark within the territory of the Unitary State of the Republic of Indonesia by a licence recipient shall be deemed the same as the use of the Mark within the territory of the Unitary State of the Republic of Indonesia by the owner of the Mark."
+        },
+        "noLabel": {
+          "en": "Article 44"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Further provisions on the requirements and procedures for recording Licences as referred to in Article 42 paragraph\n(3) shall be regulated by a Regulation of the Minister.\nCHAPTER VI\nCOLLECTIVE MARKS"
+        },
+        "noLabel": {
+          "en": "Article 45"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "An application for registration of a Mark as a Collective Mark may be accepted only if the Application clearly states that the Mark will be used as a Collective Mark.\nIn addition to the affirmation concerning the use of a Collective Mark as referred to in paragraph (1), the Application must be accompanied by a copy of the provisions on the use of the Mark as a Collective Mark.\nThe provisions on the use of a Collective Mark as referred to in paragraph (2) shall at least contain arrangements concerning:\na. the nature, common features, or quality of the goods and/or services to be produced and traded;\nb. supervision of the use of the Collective Mark; and\nc. sanctions for violation of the provisions on the use of the Collective Mark.\nFor the empowerment of Micro, Small, and Medium Enterprises, the Government may register Collective Marks intended for business development and/or public services.\n(1) (2t\n(3) (41"
+        },
+        "noLabel": {
+          "en": "Article 46"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "R E P u J5,[ t,'*oot5 n, .., o Article 47 An application for registration of a Collective Mark shall undergo an examination of the completeness of the requirements as referred to in Article 4 to Article 7 and Article 46.\nThe examination shall be carried out Article 24."
+        },
+        "noLabel": {
+          "en": "Article 47"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "substantively on the Application for a Collective Mark in accordance with the provisions in Article 23 and"
+        },
+        "noLabel": {
+          "en": "Article 48"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "The transfer of the right to a registered Collective Mark must be requested for recording with the Minister, subject to a fee.\nThe recording of the transfer of rights as referred to in\nparagraph (1) shall be recorded and published in the Official Mark Gazette."
+        },
+        "noLabel": {
+          "en": "Article 49"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "A registered Collective Mark shall be used by the community of the said Collective Mark and cannot be licensed to another party."
+        },
+        "noLabel": {
+          "en": "Article 50"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Further provisions on Collective Marks as referred to in Article 46 to Article 50 shall be regulated by a Regulation of the Minister.\nCHAPTER VII\nAPPLICATIONS FOR INTERNATIONAL REGISTRATION OF MARKS"
+        },
+        "noLabel": {
+          "en": "Article 51"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "(1) An application for international registration of a Mark may be in the form of:\na. an Application originating from Indonesia addressed to the international bureau through the Minister; or\n(1)\n(2)\nb. An application . .\n(2)\nb. an Application addressed to Indonesia as one of the destination states received by the Minister from the international bureau.\nAn application for international registration of a Mark as referred to in paragraph (1) letter a may be filed only by:\na. an Applicant having Indonesian nationality;\nb. an Applicant having a domicile or legal seat within the territory of the Unitary State of the Republic of Indonesia; or\nc. an Applicant having real industrial or commercial business activities within the territory of the Unitary State of the Republic of Indonesia.\nThe Applicant as referred to in paragraph (2) has filed an Application or holds a Mark registration in Indonesia as the basis for the application for international registration of a Mark.\nFurther provisions on the international registration of Marks based on the Protocol Relating to the Madrid Agreement Concerning the International Registration of Marks shall be regulated by a Government Regulation.\nCHAPTER VIII\nGEOGRAPHICAL INDICATIONS"
+        },
+        "noLabel": {
+          "en": "Article 52"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "A Geographical Indication shall be protected after the Geographical Indication is registered by the Minister.\nTo obtain the protection as referred to in paragraph (1), the Applicant for a Geographical Indication must file an Application with the Minister.\nThe Applicant as referred to in paragraph (2) shall be:\na. an institution representing the community in a certain geographical area that cultivates goods and/or products in the form of:\n1. natural resources;\n2. handicraft goods; or\n3. industrial products.\nb. the provincial or district/city regional government.\n(3)\n(4)\n(1)\n(2)\n(3)\n(4) Provisions R E P u J.T': =,',35|* = r, o (4) The provisions on publication, objection, rebuttal, and withdrawal as referred to in"
+        },
+        "noLabel": {
+          "en": "Article 53"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "mutatis mutandis to applications for registration of Geographical Indications."
+        },
+        "noLabel": {
+          "en": "Article 14"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "An application filed by an applicant residing or having a permanent domicile outside the territory of the Unitary State of the Republic of Indonesia must be filed through his Attorney in Indonesia.\nThe Application as referred to in paragraph (1) may be registered only if the Geographical Indication has obtained recognition from the government of its state and/or is registered in accordance with the provisions in force in its state of origin."
+        },
+        "noLabel": {
+          "en": "Article 54"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "A Geographical Indication may also be registered on the basis of an international agreement.\nFurther provisions on the registration of Geographical Indications from abroad as referred to in"
+        },
+        "noLabel": {
+          "en": "Article 55"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "shall be regulated by a Regulation of the Minister.\nPENDAFTA** ?$S,iI*, cEo cRAFr s\nSection One\nGeographical Indications that Cannot be Registered and are to be Rejected"
+        },
+        "noLabel": {
+          "en": "Article 54"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "(1) An application for a Geographical Indication cannot be registered if:\na. it conflicts with state ideology, statutory provisions, morality, religion, decency, and public order;\nb. it misleads or deceives the public as to the reputation, quality, characteristics, source of origin, process of manufacture of the goods, and/or their use; and\n(1)\n(2)\n(1)\n(2)\nc. it constitutes (21\n(1) (21 R E P u J.Tnl =,',?55 * = =, o\nc. it constitutes a name that has been used as a plant variety and is used for a similar plant variety, unless there is an addition of an equivalent word indicating the similar geographical indication factor.\nAn application for a Geographical Indication shall be rejected if:\na. the truth of the Document Describing the Geographical Indication cannot be proven; and/or\nb. it has similarity in its entirety with a Geographical Indication already registered."
+        },
+        "noLabel": {
+          "en": "Article 56"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Against the rejection as referred to in Article 56 paragraph (2), an appeal may be requested to the Mark Appeal Commission.\nThe provisions on appeals as referred to in Article 28 to Article 32 shall apply mutatis mutandis to the appeal request as referred to in paragraph (1).\nSection Two\nSubstantive Examination of Geographical Indications"
+        },
+        "noLabel": {
+          "en": "Article 57"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "(1) The substantive examination of a Geographical Indication shall be carried out by the Geographical Indication Expert Team.\n(2) The provisions as"
+        },
+        "noLabel": {
+          "en": "Article 58"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "examination\n(1) concerning the substantive examination of Marks referred to in Article 23 up to shall apply mutatis mutandis to the substantive as referred to in paragraph"
+        },
+        "noLabel": {
+          "en": "Article 26"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "(1) The Geographical Indication Expert Team as referred to in"
+        },
+        "noLabel": {
+          "en": "Article 59"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "paragraph (1) shall be an independent team to carry out an assessment of the Document Describing the Geographical Indication and to give consideration/recommendation to the Minister in connection with the registration, modification, cancellation, and/or supervision of national Geographical Indications.\n(2) Members (21 REPUBLIK INDONESIA The members of the Geographical Indication Expert Team as referred to in paragraph (1) shall number at most 15 (fifteen) persons, consisting of experts having capability in the field of Geographical Indications originating from:\na. representatives of the Minister;\nb. representatives of the ministry competent in agricultural, industrial, and trade matters and/or other related ministries;\nc. representatives of agencies or institutions competent to carry out supervision and/or testing of the quality of goods; and/or\nd. other competent experts.\nThe members of the Geographical Indication Expert Team as referred to in paragraph (2) shall be appointed and dismissed by the Minister for a term of office of 5 (five) years.\nThe Geographical Indication Expert Team shall be led by a chairperson elected from and by the members of the Geographical Indication Expert Team.\nIn carrying out its duties and functions as referred to in paragraph (1), the Geographical Indication Expert Team shall be assisted by a technical assessment team whose membership is based on expertise."
+        },
+        "noLabel": {
+          "en": "Article 58"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Further provisions on the requirements and procedures for registration of Geographical Indications as well as the appointment of members, organisational structure, duties, and functions of the Geographical Indication Expert Team as referred to in Article 56 to Article 59 shall be regulated by a Regulation of the Minister.\nSection Three\nTerm of Protection and Deletion of Geographical Indications"
+        },
+        "noLabel": {
+          "en": "Article 60"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "(1) A Geographical Indication shall be protected as long as the reputation, quality, and characteristics constituting the basis for granting protection of the Geographical Indication to goods are maintained.\n(3) (41 (s)\n(2) A Geographical...\nR E P u JtT'[ t\",35]* =., o (2) A Geographical Indication may be deleted if: a. the provisions as referred to in paragraph (1) are not fulfilled; and/or\nb. it violates the provisions as referred to in"
+        },
+        "noLabel": {
+          "en": "Article 61"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "paragraph (1) letter a."
+        },
+        "noLabel": {
+          "en": "Article 56"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "The Geographical Indication Expert Team, on its own initiative or on a report from the public, shall conduct a study of the reputation, quality, and characteristics of a registered Geographical Indication and report it to the Minister.\nIn the event that the Minister receives a report as referred to in paragraph (1) not originating from the Geographical Indication Expert Team, the Minister shall forward the report to the Geographical Indication Expert Team within a period of at most 30 (thirty) Days from the receipt of the report.\nWithin a period of at most 6 (six) months from the receipt of the report as referred to in paragraph (2), the Geographical Indication Expert Team shall carry out an examination and notify the Minister of the result of its decision as well as the steps to be taken.\nIn the event that the result of the decision states that the Geographical Indication fulfils the provisions to be deleted as referred to in Article 61 paragraph (2), within a period of at most 30 (thirty) Days from the receipt of the result of the decision as referred to in paragraph (3), the Minister shall carry out the deletion.\nIn the event that the Minister gives a decision of deletion of the Geographical Indication, the Minister shall notify in writing the Applicant or his Attorney and all Users of the Geographical Indication, or through their Attorneys, within a period of at most 14 (fourteen) Days from the receipt of the decision.\nWithin a period of at most 30 (thirty) Days from the decision on the result of deletion as referred to in paragraph (5), the decision shall be published in the Official Gazette of Geographical Indications.\nThe publication as referred to in paragraph (6) must state the deletion of the Geographical Indication and the termination of the right to use the Geographical Indication by the Users of the Geographical Indication.\n(1) (21\n(3) (41\n(6) (s) (71\n(8) Objection.\nREFuJ.T,?=\"\",35f;*=r,o\n(8) An objection against the deletion of a Geographical Indication as referred to in paragraph (5) may be filed with the Commercial Court within a period of at most 3 (three) months from the receipt of the decision of deletion.\nSection Four\nIndications of Origin"
+        },
+        "noLabel": {
+          "en": "Article 62"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "An indication of origin shall be protected without the obligation of registration or declaratively as a sign indicating the true origin of goods and/or services and used in trade."
+        },
+        "noLabel": {
+          "en": "Article 63"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "An indication of origin constitutes a characteristic of the origin of goods and/or services that is not directly related to natural factors."
+        },
+        "noLabel": {
+          "en": "Article 64"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Further provisions on indications of origin as referred to in Article 63 and Article 64 shall be regulated by a Regulation of the Minister."
+        },
+        "noLabel": {
+          "en": "Article 65"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "CHAPTER X\nINFRINGEMENT AND CLAIMS\nSection One\nInfringement of Geographical Indications"
+        },
+        "noLabel": {
+          "en": "Article 64"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Infringement of a Geographical Indication shall cover:\na. the use of a Geographical Indication, whether directly or indirectly, on goods and/or products that do not fulfil the Document Describing the Geographical Indication;\nb. the use of a Geographical Indication sign, whether directly or indirectly, on goods and/or products that are protected or not protected with the intention to:\n1. indicate that such goods and/or products are comparable in quality to goods and/or products protected by the Geographical Indication;\n2. obtain profit from such use; or\n3. obtain profit from the reputation of the Geographical Indication. the use of a Geographical Indication that may mislead the public as to the geographical origin of the goods; the use of a Geographical Indication by a person who is not a User of the registered Geographical Indication; imitation or misuse that may mislead as to the place of origin of the goods and/or products or the quality of the goods and/or products contained in:\n1. the wrapper or packaging;\n2. statements in advertisements;\n3. statements in documents concerning such goods and/or products; or\n4. misleading information as to their origin on a package. other acts that may mislead the general public as to the true origin of such goods and/or products.\nSection Two\nClaims"
+        },
+        "noLabel": {
+          "en": "Article 66"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Against the infringement as referred to 66, a claim may be filed.\nThe claim as referred to shall be filed by: referred to in Article paragraph (1) may d. e. f.\n(1) (21\na. any producer entitled to use the Geographical Indication; and/or an institution representing the community in a certain geographical area and granted authority for that purpose."
+        },
+        "noLabel": {
+          "en": "Article 67"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "In the event that before or at the time of the application for registration as a Geographical Indication, a sign is used in good faith by another party not entitled to register under the provisions as referred to in Article 53 paragraph (3), the party acting in good faith may still use the sign for a period of 2 (two) years from the time the sign is registered as a Geographical Indication.\nIn the event that the sign as referred to in paragraph (1) has been registered as a Mark, the Minister shall cancel and strike out the registration of the Mark for all or part of the same types of goods after a period of 2 (two) years from the time the sign is registered as a Geographical Indication.\nThe cancellation and striking out of the registration of the Mark as referred to in paragraph (2) shall be notified in writing to the owner of the Mark or his Attorney, stating the reasons.\nThe cancellation and striking out of the registration of the Mark as referred to in paragraph (2) shall be recorded and published in the Official Mark Gazette.\n'The cancellation and striking out of the registration of the Mark as referred to in paragraph (2) shall result in the termination of legal protection of the Mark for all or part of the same types of goods.\n(6) An objection against the cancellation and striking out as referred to in paragraph (2) may be filed with the Commercial Court.\n(7) Against the decision of the Commercial Court as referred to in paragraph (6), a cassation may be filed. a. b.\n(1) (21\n(3)\n(4) (s) Article 69...\n#p"
+        },
+        "noLabel": {
+          "en": "Article 68"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "(1) The holder of the right to a Geographical Indication may file a claim against a User of the Geographical Indication acting without right, in the form of a request for compensation and cessation of use as well as destruction of the Geographical Indication labels used without right.\n(2) To prevent greater loss to the party whose right is infringed, the judge may order the infringer to stop the activities of making and reproducing, and order the destruction of the Geographical Indication labels used without right.\nCHAPTER XI\nDEVELOPMENT AND SUPERVISION OF GEOGRAPHICAL INDICATIONS\nSection One\nDevelopment"
+        },
+        "noLabel": {
+          "en": "Article 69"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "O\n(1) Guidance of Geographical Indications shall be carried out by the central government and/or regional governments in accordance with their respective authority.\n(2) The guidance referred to in paragraph (1) shall cover:\na. preparation for the fulfilment of the requirements for an application for a Geographical Indication;\nb. Application for registration of a Geographical Indication;\nc. utilisation and commercialisation of a Geographical Indication;\nd. socialisation and understanding of the protection of Geographical . Indications;\ne. mapping and inventory of the potential of Geographical Indication products;\nf. training and mentoring;\ng. monitoring, evaluation, and guidance;\nh. legal protection; and\ni. facilitation of the development, processing, and marketing of goods and/or Geographical Indication products.\nSection\nR E P u JtT': =\".\"55 n, . r' o\nSection Two\nSupervision"
+        },
+        "noLabel": {
+          "en": "Article 7"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "(1) Supervision of Geographical Indications shall be carried out by the central government and regional governments in accordance with their respective authority.\n(2) Supervision as referred to in paragraph (1) may also be carried out by the public.\n(3) Supervision as referred to in paragraph (1) and paragraph\n(2) is carried out to:\na. ensure the continued existence of the reputation, quality, and characteristics on which the issuance of the Geographical Indication was based; and\nb. prevent the unlawful use of Geographical Indications.\n(4) The results of the supervision as referred to in paragraph (2) shall be submitted to the holder of the right to the Geographical Indication and/or the Minister.\n(5) Further provisions regarding the supervision as referred to in paragraph (1) up to paragraph (4) shall be regulated in a Ministerial Regulation.\nCHAPTER XII\nDELETION AND CANCELLATION OF MARK REGISTRATION\nSection One\nDeletion\nArticle 72\n(1) The deletion of a registered Mark may be requested by the owner of the relevant Mark to the Minister.\n(2) The request for deletion as referred to in\nparagraph (1) may be filed by the owner of the Mark or through his Attorney, either for part or for all types of goods and/or services.\n(3) In . .\nR E P u J.T,t t,',?rtf;\n* r., o\n(3) In the event that the Mark referred to in paragraph (1) is still bound by a Licence agreement, deletion may only be carried out if such is approved in writing by the licensee.\n(4) An exception to the approval as referred to in paragraph (3) is only possible if, in the Licence agreement, the licensee expressly agrees to set aside such approval.\n(5) The deletion of Mark registration as referred to in paragraph (1) shall be recorded and announced in the Official Gazette of Marks.\n(6) The deletion of a registered Mark may be carried out on the initiative of the Minister.\n(7) The deletion of a registered Mark on the initiative of the Minister may be carried out if:\na. it has identity in essence and/or in its entirety with a Geographical Indication;\nb. it contravenes the ideology of the state, laws and regulations, morality, religion, decency, and public order; or\nc. it has identity in its entirety with a traditional cultural expression, intangible cultural heritage, or a name or logo that has already become a tradition handed down from generation to generation.\n(8) The deletion as referred to in paragraph (6) and\nparagraph (7) may be carried out after obtaining a recommendation from the Mark Appeal Commission.\n(9) The Mark Appeal Commission shall provide the recommendation as referred to in paragraph (8) based on a request from the Minister."
+        },
+        "noLabel": {
+          "en": "Article 71"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "(1) The owner of a Mark who objects to the decision on the deletion of a registered Mark on the initiative of the Minister as referred to in Article 72 paragraph (6) and paragraph (7) may file a lawsuit through the State Administrative Court.\n(2) A party who objects to the decision of the State Administrative Court as referred to in paragraph (1) may only file an appeal for cassation to the Supreme Court."
+        },
+        "noLabel": {
+          "en": "Article 73"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "(1)"
+        },
+        "noLabel": {
+          "en": "Article 74"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "The deletion of a registered Mark may also be requested by an interested third party in the form of a lawsuit to the Commercial Court on the ground that the Mark has not been used for 3 (three) consecutive years in the trade of goods and/or services since the date of registration or the last use.\nThe ground that the Mark is not used as referred to in paragraph (1) shall not apply in the event of the existence of:\na. an import prohibition;\nb. a prohibition relating to the licence for the distribution of goods using the relevant Mark or a decision of the competent authority that is temporary; or\nc. other similar prohibitions stipulated by a Government Regulation.\n(3) The deletion of a registered Mark as referred to in\nparagraph (1) shall be recorded and announced in the Official Gazette of Marks."
+        },
+        "noLabel": {
+          "en": "Article 74"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "The provisions as referred to in Article 74 shall apply mutatis mutandis to the deletion of a registered Collective Mark.\nSection Two\nCancellation"
+        },
+        "noLabel": {
+          "en": "Article 75"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "A lawsuit for the cancellation of a registered Mark may be filed by an interested party based on the grounds as referred to in Article 20 and/or Article 21.\nThe owner of an unregistered Mark may file the lawsuit as referred to in paragraph (1) after filing an Application to the Minister.\nA cancellation lawsuit shall be filed with the Commercial Court against the owner of the registered Mark.\n(21\n(1)\n(2)\n(3)"
+        },
+        "noLabel": {
+          "en": "Article 76"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "(1) (21\n(1) (21 REPUBLII( INDONESIA Article 77 A lawsuit for the cancellation of Mark registration may only be filed within a period of 5 (five) years from the date of registration of the Mark.\nA cancellation lawsuit may be filed without a time limit if there is an element of bad faith and/or the relevant Mark contravenes the ideology of the state, laws and regulations, morality, religion, decency, and public order."
+        },
+        "noLabel": {
+          "en": "Article 77"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "Against the decision of the Commercial Court on the cancellation as referred to in . . ., an appeal for cassation may be filed.\nThe clerk of the court shall promptly submit the decision on the lawsuit to the parties to the dispute."
+        },
+        "noLabel": {
+          "en": "Article 78"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "paragraph (3) the decision to"
+        },
+        "noLabel": {
+          "en": "Article 76"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "The provisions regarding the grounds for a cancellation lawsuit as referred to in Article 76 shall apply mutatis mutandis to a registered Collective Mark.\nCHAPTER XIII\nDOCUMENTATION AND INFORMATION NETWORK SYSTEM FOR MARKS AND\nGEOGRAPHICAL INDICATIONS"
+        },
+        "noLabel": {
+          "en": "Article 79"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "The documentation and information network system for Marks and Geographical Indications as regulated in this Law shall be implemented by the Minister."
+        },
+        "noLabel": {
+          "en": "Article 80"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "The documentation and information network system for Marks and Geographical Indications as referred to in Article 80 shall be organised through electronic and/or non-electronic means that can be accessed nationally and internationally.\nCHAPTER XIV\n(1) (21\n(3) CHAPTER XIV COSTS"
+        },
+        "noLabel": {
+          "en": "Article 81"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "All costs that must be paid under this Law shall be regulated by a Government Regulation.\nAll costs that have been paid through the state treasury may not be withdrawn again.\nThe Directorate General of Intellectual Property, with the approval of the Minister and the Minister of Finance, may use the receipts derived from the costs as referred to in paragraph (1) in accordance with the provisions of laws and regulations.\nCHAPTER XV\nSETTLEMENT OF DISPUTES\nSection One\nLawsuits for Mark Infringement"
+        },
+        "noLabel": {
+          "en": "Article 82"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "The owner of a registered Mark and/or the licensee of a registered Mark may file a lawsuit against another party that without the right uses a Mark having identity in essence or in its entirety with the registered Mark for similar goods and/or services in the form of:\na. a lawsuit for compensation; and/or\nb. the cessation of all acts relating to the use of such Mark.\nThe lawsuit as referred to in paragraph (1) may also be filed by the owner of a well-known Mark based on a court decision.\n(3) The lawsuit as referred to in paragraph (1) shall be filed with the Commercial Court.\n(1)\n(2)"
+        },
+        "noLabel": {
+          "en": "Article 83"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "(ip\n(1) REPUJS,:t\",35f;*=='o"
+        },
+        "noLabel": {
+          "en": "Article 84"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "As long as the examination is still ongoing and in order to prevent greater loss, the owner of the Mark and/or the licensee as plaintiff may submit a request to the judge to stop the activities of production, circulation, and/or trade in goods and/or services that use such Mark without the right.\nIn the event that the defendant is demanded to surrender goods that use the Mark without the right, the judge may order that the surrender of such goods or the value of such goods be carried out after the court decision has become legally final.\nSection Two\nProcedures for Lawsuits at the Commercial Court"
+        },
+        "noLabel": {
+          "en": "Article 84"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "(1) A lawsuit as referred to in Article 30 paragraph (3),"
+        },
+        "noLabel": {
+          "en": "Article 85"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "the Commercial Court within the jurisdiction of the residence or domicile of the defendant.\n(2) In the event that one of the parties is domiciled outside the territory of the Unitary State of the Republic of Indonesia, the lawsuit shall be filed with the Chairman of the Central Jakarta Commercial Court.\n(3) The clerk shall register the lawsuit on the date on which the relevant lawsuit is filed and the plaintiff shall be given a written receipt signed by the clerk bearing the same date as the date of registration of the lawsuit.\n(4) The clerk shall submit the lawsuit to the chairman of the Commercial Court within a period of no more than 2 (two) days from the date the lawsuit is registered.\n(5) Within a period of no more than 3 (three) days from the date the lawsuit is submitted as referred to in paragraph (4), the chairman of the Commercial Court shall study the lawsuit and appoint a panel of judges to determine the day of the hearing.\n(2)\n(6) Summons\n(6) (7) -4L- The summons of the parties shall be carried out by the court bailiff no later than 7 (seven) days after the lawsuit is registered.\nThe examination hearing up to the decision on the lawsuit as referred to in paragraph (1) must be completed no later than 90 (ninety) days after the case is received by the panel examining the case and may be extended for no more than 30 (thirty) days with the approval of the Chief Justice of the Supreme Court.\nThe decision on the lawsuit as referred to in paragraph (1) containing in full the legal considerations underlying the decision must be pronounced in a hearing open to the public.\nThe contents of the decision of the Commercial Court as referred to in\nparagraph (8) must be submitted by the court bailiff to the parties no later than 14 (fourteen) days after the decision on the lawsuit as referred to in paragraph (1) is pronounced."
+        },
+        "noLabel": {
+          "en": "Article 68"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "The provisions regarding the requirements and procedures for a Mark lawsuit as referred to in Article 85 shall apply mutatis mutandis to the requirements and procedures for a Geographical Indication lawsuit.\nSection Three\nCassation"
+        },
+        "noLabel": {
+          "en": "Article 86"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "Against the decision of the Commercial Court as referred to in Article 85 paragraph (8), an appeal for cassation may only be filed."
+        },
+        "noLabel": {
+          "en": "Article 87"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "(1) The application for cassation as referred to in Article 87 shall be filed no later than 14 (fourteen) days after the date the decision for which cassation is sought is pronounced or notified to the parties by registering it with the clerk at the Commercial Court that has decided the lawsuit.\n(8) (e)\n(2) Panitera .\nR E P u J.Tot t,'*oot I * r' o (2) The clerk shall register the application for cassation on the date on which the relevant application is filed and the applicant for cassation shall be given a written receipt signed by the clerk bearing the same date as the date of receipt of registration.\n(3) The clerk shall be obliged to notify the application for cassation as referred to in paragraph (2) to the respondent in cassation no later than 7 (seven) days after the application for cassation is registered.\n(4) The applicant for cassation must have submitted the memorandum of cassation to the clerk within no more than 14 (fourteen) days from the date the application for cassation is registered as referred to in paragraph (1).\n(5) The clerk shall be obliged to submit the memorandum of cassation to the respondent in cassation no later than 2 (two) days after the memorandum of cassation is received by the clerk.\n(6) The respondent in cassation may submit a counter memorandum of cassation to the clerk no later than 14 (fourteen) days after the date the respondent in cassation receives the memorandum of cassation as referred to in paragraph (5) and the clerk shall be obliged to submit the counter memorandum of cassation to the applicant for cassation no later than 7 (seven) days after the counter memorandum of cassation is received by the clerk.\n(7) The clerk shall be obliged to submit the relevant case file for cassation to the Supreme Court no later than 7 (seven) days after the expiry of the period as referred to in paragraph (6).\n(8) The examination hearing and the decision on the application for cassation must be completed no later than 90 (ninety) days after the date the application for cassation is received by the Panel for Cassation.\n(9) The decision on the application for cassation as referred to in paragraph (8) containing in full the legal considerations underlying the decision must be pronounced in a hearing open to the public.\n(10) The clerk of the Supreme Court shall be obliged to submit the contents of the cassation decision to the clerk no later than 7 (seven) days after the date the decision on the application for cassation is pronounced.\n(11) The court bailiff R E P u J,-Tot =,',?Sf; * = r, o _43_\n(11) The court bailiff shall be obliged to submit the contents of the cassation decision as referred to in paragraph (10) to the applicant for cassation and the respondent in cassation no later than 2 (two) days after the cassation decision is received.\n(12) The legal remedy of judicial review against the cassation decision as referred to in paragraph (8) shall be carried out based on the provisions of laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 88"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "Against a decision of the Commercial Court that has become legally final, judicial review may be filed."
+        },
+        "noLabel": {
+          "en": "Article 89"
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "The provisions regarding the filing of cassation as referred to in Article 88 and the filing of judicial review as referred to in Article 89 shall apply mutatis mutandis to the filing of a Geographical Indication lawsuit.\nSection Four\nProcedures for the Implementation of Decisions"
+        },
+        "noLabel": {
+          "en": "Article 90"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The implementation of cancellation based on a court decision shall be carried out after the Minister receives the official copy of the decision that has become legally final and it is announced in the Official Gazette of Marks.\nFurther provisions regarding the implementation of cancellation as referred to in paragraph (1) and the deletion by the Minister as referred to in Article 72 up to Article 75 shall be regulated by a Government Regulation."
+        },
+        "noLabel": {
+          "en": "Article 9"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "(1) The cancellation or deletion of Mark registration shall be carried out by the Minister by striking out the relevant Mark with a note of the reasons and the date of such cancellation or deletion.\n(1) (21\n(2) The cancellation R E P u J.Tot t,',?otf; n, .\n=, o\n(2) The cancellation or deletion of registration as referred to in paragraph (1) shall be notified in writing to the owner of the Mark or his Attorney by stating the reasons for the cancellation or deletion and confirming that as of the date of striking out, the certificate of the relevant Mark is declared no longer valid.\n(3) The striking out of a registered Mark as referred to in paragraph (1) shall be announced in the Official Gazette of Marks.\nSection Five\nAlternative Dispute Resolution"
+        },
+        "noLabel": {
+          "en": "Article 92"
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "In addition to the settlement of a lawsuit as referred to in"
+        },
+        "noLabel": {
+          "en": "Article 93"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "arbitration or alternative dispute resolution.\nCHAPTER XVI\nPROVISIONAL COURT ORDER"
+        },
+        "noLabel": {
+          "en": "Article 83"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "Based on sufficient preliminary evidence, the owner of a registered Mark whose rights are harmed may request the judge of the Commercial Court to issue a letter of provisional order regarding:\na. the prevention of the entry of goods suspected to be the result of infringement of the Right to a Mark into trade channels;\nb. the storage of evidence relating to the infringement of the Right to a Mark;\nc. the securing and prevention of the loss of evidence by the infringer; and/or\nd. the cessation of the infringement in order to prevent greater loss."
+        },
+        "noLabel": {
+          "en": "Article 94"
+        }
+      },
+      {
+        "no": 95,
+        "text": {
+          "en": "The application for a provisional order shall be filed in writing to the Commercial Court within the jurisdiction where the Mark infringement occurs with the following requirements:\na. attaching a. b. c.\nREPUBLIK INDONESIA attaching proof of ownership of the Mark; attaching proof of strong preliminary indications of the occurrence of Mark infringement; attaching a clear description of the goods and/or documents requested, sought, collected, and secured for the purposes of evidence; and\nd. submitting security in the form of cash and/or a bank guarantee commensurate with the value of the goods to be subject to the provisional order."
+        },
+        "noLabel": {
+          "en": "Article 95"
+        }
+      },
+      {
+        "no": 96,
+        "text": {
+          "en": "In the event that the application for a provisional order has fulfilled the requirements as referred to in Article 95, the clerk of the Commercial Court shall record the application for a provisional order and shall be obliged to submit such application within no more than 1x24 (one times twenty-four) hours to the chairman of the Commercial Court.\nWithin no more than 2 (two) days from the date of receipt of the application for a provisional order as referred to in paragraph (1), the chairman of the Commercial Court shall appoint a judge of the Commercial Court to examine the application for a provisional order.\nWithin no more than 2 (two) days from the date of appointment as referred to in paragraph (2), the judge of the Commercial Court must decide to grant or reject the application for a provisional order.\nIn the event that the application for a provisional order is granted, the judge of the Commercial Court shall issue a letter of provisional court order.\nThe letter of provisional court order as referred to in paragraph (4) shall be notified to the party subject to the provisional court order within no more than 1x24 (one times twenty-four) hours.\nIn the event that the application for a provisional order is rejected, the judge of the Commercial Court shall notify such rejection to the applicant for the provisional order together with the reasons.\n(1)\n(2)\n(3) (41 (s)\n(6) Pasl 97. .\nTJRE.S IDEt..I\nREPLIBLIK. II.JDOI.Jtr5IA"
+        },
+        "noLabel": {
+          "en": "Article 96"
+        }
+      },
+      {
+        "no": 97,
+        "text": {
+          "en": "(1) In the event that the Commercial Court issues a letter of provisional order as referred to in Article 96 paragraph (4), the Commercial Court shall summon the party subject to the provisional order within no more than 7 (seven) days from the date of issuance of the letter of provisional order to be asked for information.\n(2) The party subject to the provisional order may submit information and evidence regarding the Mark within no more than 7 (seven) days from the date of receipt of the summons as referred to in paragraph (1).\n(3) Within no more than 30 (thirty) days from the date of issuance of the letter of provisional order, the judge of the Commercial Court must decide to confirm or annul the provisional court order. (4) In the event that the provisional court order is confirmed, then:\na. the security money that has been paid must be returned to the applicant for the order;\nb. the applicant for the order may file a lawsuit for compensation for Mark infringement; and/or\nc. the applicant for the order may report the Mark infringement to the investigating officer of the Indonesian National Police or to the civil servant investigating officer.\n(5) In the event that the provisional court order is annulled, the security money that has been paid must be immediately handed over to the party subject to the provisional order as compensation for the consequences of such provisional order."
+        },
+        "noLabel": {
+          "en": "Article 97"
+        }
+      },
+      {
+        "no": 98,
+        "text": {
+          "en": "The provisions regarding the provisional order as referred to in Article 94 up to Article 97 shall apply mutatis mutandis to the Right to a Geographical Indication.\nCHAPTER XVII\n(1) CHAPTER XVII INVESTIGATION"
+        },
+        "noLabel": {
+          "en": "Article 98"
+        }
+      },
+      {
+        "no": 99,
+        "text": {
+          "en": "In addition to the investigating officers of the Indonesian National Police, certain civil servant investigating officers within the ministry that administers government affairs in the field of law shall be given special authority as investigators as referred to in the Law governing criminal procedure law to conduct investigations of criminal offences in the field of Marks.\nThe investigators as referred to in paragraph (1) shall be authorised to carry out:\na. examination of the truth of reports or information concerning criminal offences in the field of Marks;\nb. examination of Persons suspected of committing criminal offences in the field of Marks;\nc. requests for information and evidence from Persons in connection with criminal offences in the field of Marks;\nd. examination of bookkeeping, records, and other documents relating to criminal offences in the field of Marks;\ne. search and examination at places where there are suspected to be evidence, bookkeeping, records, and other documents relating to criminal offences in the field of Marks;\nf. seizure of materials and goods resulting from infringement that may serve as evidence in cases of criminal offences in the field of Marks;\ng. requests for expert opinion in the context of carrying out the duties of investigating criminal offences in the field of Marks;\nh. requests for assistance from relevant agencies to carry out arrest, detention, placement on the wanted list, and prevention of perpetrators of criminal offences in the field of Marks; and\ni. termination of investigation if there is insufficient evidence of a criminal offence in the field of Marks.\n(21\n(3) In (4) (5) R E F u J.To= t,'*'Sf;\n* . r, o\n(3) In conducting an investigation, a civil servant investigating officer may request assistance from investigating officers of the Indonesian National Police for the smooth conduct of the investigation.\nA civil servant investigating officer shall notify the commencement of the investigation to the public prosecutor with a copy to the investigating officer of the Indonesian National Police.\nThe results of the investigation that have been carried out by a civil servant investigating officer shall be submitted to the public prosecutor through the investigating officer of the Indonesian National Police.\nCHAPTER XVIII\nCRIMINAL PROVISIONS"
+        },
+        "noLabel": {
+          "en": "Article 99"
+        }
+      },
+      {
+        "no": 100,
+        "text": {
+          "en": "(1) Any Person who without the right uses a Mark that has identity in its entirety with a registered Mark belonging to another party for similar goods and/or services that are produced and/or traded, shall be punished with imprisonment for a maximum of 5 (five) years and/or a fine of a maximum of Rp2,000,000,000.00 (two billion rupiah).\n(2) Any Person who without the right uses a Mark having identity in essence with a registered Mark belonging to another party for similar goods and/or services that are produced and/or traded, shall be punished with imprisonment for a maximum of 4 (four) years and/or a fine of a maximum of Rp2,000,000,000.00 (two billion rupiah).\n(3) Any Person who violates the provisions as referred to in paragraph (1) and paragraph (2), where the type of goods results in health hazards, environmental hazards, and/or human death, shall be punished with imprisonment for a maximum of 10 (ten) years and/or a fine of a maximum of Rp5,000,000,000.00 (five billion rupiah)."
+        },
+        "noLabel": {
+          "en": "Article 100"
+        }
+      },
+      {
+        "no": 101,
+        "text": {
+          "en": "(1) PRES IPEI..J REPU BLI t< I r'ltrol'.!LSIA"
+        },
+        "noLabel": {
+          "en": "Article 101"
+        }
+      },
+      {
+        "no": 101,
+        "text": {
+          "en": "Any Person who without the right uses a sign having identity in its entirety with a Geographical Indication belonging to another party for goods and/or products that are the same as or similar to registered goods and/or products, shall be punished with imprisonment for a maximum of 4 (four) years and/or a fine of a maximum of Rp2,000,000,000.00 (two billion rupiah).\nAny Person who without the right uses a sign having identity in essence with a Geographical Indication belonging to another party for goods and/or products that are the same as or similar to registered goods and/or products, shall be punished with imprisonment for a maximum of 4 (four) years and/or a fine of a maximum of Rp2,000,000,000.00 (two billion rupiah)."
+        },
+        "noLabel": {
+          "en": "Article 101"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 102,
+        "text": {
+          "en": "Any Person who trades goods and/or services and/or products while knowing or reasonably being presumed to know that such goods and/or services and/or products are the result of a criminal offence as referred to in Article 100 and Article 101 shall be punished with imprisonment for a maximum of 1 (one) year or a fine of a maximum of Rp200,000,000.00 (two hundred million rupiah)."
+        },
+        "noLabel": {
+          "en": "Article 102"
+        }
+      },
+      {
+        "no": 103,
+        "text": {
+          "en": "The criminal offences as referred to in Article 100 up to Article 102 constitute offences subject to complaint.\nCHAPTER XIX\nTRANSITIONAL PROVISIONS"
+        },
+        "noLabel": {
+          "en": "Article 103"
+        }
+      },
+      {
+        "no": 104,
+        "text": {
+          "en": "(1) All Applications filed based on Law Number 15 of 2001 on Marks but not yet completed on the date of entry into force of this Law shall be settled based on the provisions of that Law.\n(2)\n(2) All R E P rr J.Tnt =,',?ot5 *, =, o\n(2) All Marks that have been registered based on Law Number 15 of 2001 on Marks and are still valid at the time of the promulgation of this Law shall be declared to remain valid under this Law for the remainder of their registration period."
+        },
+        "noLabel": {
+          "en": "Article 104"
+        }
+      },
+      {
+        "no": 105,
+        "text": {
+          "en": "Mark disputes that are still in process in court at the time this Law enters into force shall continue to be processed based on Law Number 15 of 2001 on Marks until a decision having legal force is obtained.\nCHAPTER XX\nCLOSING PROVISIONS"
+        },
+        "noLabel": {
+          "en": "Article 105"
+        }
+      },
+      {
+        "no": 106,
+        "text": {
+          "en": "At the time this Law enters into force, all laws and regulations that constitute implementing regulations of Law Number 15 of 2001 on Marks (State Gazette of the Republic of Indonesia of 2001 Number 110, Supplement to the State Gazette of the Republic of Indonesia Number 4131) shall be declared to remain in force insofar as they do not conflict with the provisions in this Law."
+        },
+        "noLabel": {
+          "en": "Article 106"
+        }
+      },
+      {
+        "no": 107,
+        "text": {
+          "en": "At the time this Law enters into force, Law Number 15 of 2001 on Marks (State Gazette of the Republic of Indonesia of 2001 Number 110, Supplement to the State Gazette of the Republic of Indonesia Number 4131) shall be repealed and declared not in force."
+        },
+        "noLabel": {
+          "en": "Article 107"
+        }
+      },
+      {
+        "no": 108,
+        "text": {
+          "en": "Implementing regulations of this Law shall be stipulated no later than 2 (two) years counted from the date this Law is promulgated.\nThis Law must . . . from the date of the Law-"
+        },
+        "noLabel": {
+          "en": "Article 108"
+        }
+      },
+      {
+        "no": 109,
+        "text": {
+          "en": "This Law shall enter into force on the date of its promulgation.\nAgar .rE3rAREF In order that every person may know it, it is ordered that the promulgation of this Law be carried out by placing it in the State Gazette of the Republic of Indonesia.\nEnacted in Jakarta on 25 November 2016 PRESIDENT OF THE REPUBLIC OF INDONESIA, signed JOKO WIDODO Promulgated in Jakarta on 25 November 2016 MINISTER OF LAW AND HUMAN RIGHTS OF THE REPUBLIC OF INDONESIA, signed YASONNA H. LAOLY STATE GAZETTE OF THE REPUBLIC OF INDONESIA YEAR 2016 NUMBER 252 Copy in accordance with the original MINISTRY OF STATE SECRETARIAT Deputy Assistant for Economic, gku* and Legislative Affairs, ffi nUI $lvanna Djaman ELUCIDATION ON THE DRAFT LAW OF THE REPUBLIC OF INDONESIA NUMBER 20 OF 2016 ON MARKS AND GEOGRAPHICAL INDICATIONS\nI. GENERAL\nThe influence of globalisation in all fields of community life, whether in the social, economic, or cultural field, increasingly drives the pace of development of the community's economy. In addition, the ever-increasing development of information technology and means of transportation has caused activities in the trade sector, both goods and services, to experience very rapid development. The tendency for the flow of trade in goods and services to increase will continue continuously in line with increasingly rising national economic growth. Taking into account such realities and tendencies, it is understandable that there is a demand for more adequate regulation in order to create legal certainty and strong legal protection. Moreover, several countries increasingly rely their economic and trade activities on products produced on the basis of human intellectual capability. Given these realities, the Mark, as one of the works of human intellect closely related to economic and trade activities, plays a very important role.\nTrade activities in goods and services cross the territorial borders of states. Therefore, the international Mark registration mechanism is one system that should be able to be utilised in order to protect national Marks in the international world. The international Mark registration system based on the Madrid Protocol is a means that greatly helps national business actors to register their Marks abroad easily and at affordable cost.\nBesides... qru In addition, Indonesia's participation in ratifying the Convention on the Establishment of the World Trade Organization, which also encompasses the agreement on Trade-Related Aspects of Intellectual Property Rights/IPR (Trade Related Aspect of Intellectual Property Rights/TRIPs) as ratified by Law Number 7 of 1994 on the Ratification of the Agreement Establishing the World Trade Organization, has required Indonesia to comply with and implement the contents of that international agreement.\nRatification of these regulations has encouraged Indonesia's participation in ratifying the Paris Convention for the Protection of Industrial Property, which was ratified by Presidential Decree Number 15 of 1997, and the Trademark Law Treaty, which was ratified by Presidential Decree Number 17 of 1997. These international agreements create an obligation for Indonesia to adjust the applicable Marks Law to the provisions of the international agreements that have been ratified.\nOne of the developments in the field of Marks is the emergence of protection for new types of Marks, or what are called non-traditional Marks. In this Law the scope of protected Marks also covers sound Marks, three-dimensional Marks, and hologram Marks, which fall within the category of such non-traditional Marks.\nFurthermore, several improvements are made to further enhance services to the public as Mark Applicants. In order to make it easier for Applicants to register Marks, several revisions or changes need to be made in the form of simplifying the process and procedure for Mark registration. The existence of provisions on the minimum requirements for an Application will provide convenience in filing an Application by simply filling in the Application form, attaching the label or specimen of the Mark for which registration is requested, and paying the Application fee. By fulfilling the completeness of such minimum requirements of the Application, an Application for a Mark shall be given a Filing Date or filing date.\nThe changes to the flow of the Mark registration process in this Law are intended to further accelerate the completion of the Mark registration process. The implementation of the announcement of the Application before the substantive examination is carried out is intended so that the substantive examination can be carried out at the same time if there are objections and/or counter-arguments, so that no re-examination is required.\nConcerning . . .\nR E P u J,-Tnt t,'*'55 * = =' ^ With regard to the Application for the extension of Mark registration, the owner of the Mark is given an additional opportunity to extend the registration of his Mark up to 6 (six) months after the expiry of the Mark registration period. This provision is intended so that the owner of a registered Mark does not easily lose his Right to the Mark as a result of a delay in filing the extension of Mark registration.\nIn addition, in order to provide more legal protection to the owner of a registered Mark against Mark infringement committed by another party, the criminal sanctions for such Mark infringement are made heavier, particularly those that threaten human health, the environment, and may result in death. Considering that Mark matters are closely related to economic factors, in this Law the criminal sanction of fines is made heavier.\nOne of the matters regulated in this Law is Geographical Indications, considering that a Geographical Indication is a national potential that can become a superior commodity, both in domestic and international trade. Therefore, this Law is enacted under the name Law on Marks and Geographical Indications.\nII. ARTICLE BY ARTICLE"
+        },
+        "noLabel": {
+          "en": "Article 109"
+        }
+      },
+      {
+        "no": 1,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 1"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 2"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "What is meant by \"registered\" is after the Application has gone through the formalities examination process, the announcement process, and the substantive examination process and has obtained the approval of the Minister for the issuance of a certificate."
+        },
+        "noLabel": {
+          "en": "Article 3"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Paragraph (1) Sufficiently clear.\nParagraph (2) Sufficiently clear.\nParagraph (3) Sufficiently clear.\nParagraph (4) ...\nREPUBLIK INDONIESIA\nParagraph (4) What is meant by \"Mark label\" is the specimen of the Mark or the label attached in the Application for Mark registration.\nParagraph (5) Sufficiently clear.\nParagraph (6) What is meant by \"characteristics of the Mark\" is in the form of a drawing/painting that can be seen from the front, side, top, and bottom.\nParagraph (7) Sufficiently clear.\nParagraph (8) Sufficiently clear.\nParagraph (9) Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 4"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 5"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Paragraph (1) In principle an Application may be filed for more than 1 (one) class of goods and/or services in accordance with the provisions of the Trademark Law Treaty that has been ratified by Presidential Decree Number 17 of 1997. This is intended to make it easier for Mark owners who will use their Marks for several goods and/or services.\nParagraph (2) Sufficiently clear.\nParagraph (3) Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 6"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Paragraph (1) This provision shall also apply to an application using the Right of Priority.\nParagraph (2) The address of the Applicant's Attorney shall be used as the correspondence address for the Applicant, both for letters relating to the Application and for court summons."
+        },
+        "noLabel": {
+          "en": "Article 7"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "PRt\"S IDF:l\"l\nREFU BLI K. I t'JUO ['l LSI/r."
+        },
+        "noLabel": {
+          "en": "Article 8"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 8"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "This provision is intended to accommodate the interests of a state that is only a member of the Paris Convention or a member of the agreement establishing the World Trade Organization.\nWhat is meant by \"Paris Convention\" is the Paris Convention for the Protection of Industrial Property of 1883 together with all other agreements amending or supplementing it which contain the following provisions:\na. the period for filing an application for Mark registration using the Right of Priority is 6 (six) months;\nb. the said 6 (six) month period runs from the date of the first filing in the country of origin;\nc. the date of filing of the Application is not included in the calculation of the 6 (six) month period; and\nd. in the event that the last day of the period is a holiday, the filing of the application for Mark registration in which protection is requested, the period shall be extended until the beginning of the following working day."
+        },
+        "noLabel": {
+          "en": "Article 9"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 1,
+        "text": {
+          "en": "O\nParagraph (1) What is meant by \"proof of priority rights\" is in the form of a copy of the letter of application for Mark registration first filed in a member state of the Paris Convention or a member of the World Trade Organization.\nParagraph (2) The translation shall be made by a sworn translator.\nParagraph (3) Sufficiently clear.\nArticle 11\nSufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 1"
+        },
+        "dupIndex": 4
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 12"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Paragraph (1) The Filing Date is known as filing date.\nDate\nThe Filing Date may be the same as the date of filing of the Application if the minimum requirements are fulfilled at the time of filing the Application. If the fulfilment of the completeness of the requirements only occurs on another date after the filing date, that other date shall be determined as the Filing Date.\nParagraph (2) Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 13"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 14"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 15"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Paragraph (1) What is meant by \"any party\" is a party other than the Applicant or his Attorney.\nParagraph (2) Sufficiently clear.\nParagraph (3) Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 16"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 17"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Correction of the writing of a name and/or address, for example Fahrul Arifin becoming Fachrul Arifin, Jl. Nuri No. 445 becoming Jl. Nuri No. 445."
+        },
+        "noLabel": {
+          "en": "Article 18"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 19"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Letter a\nWhat is meant by \"contravening public order\" is not being in line with the rules existing in society that are comprehensive in nature, such as offending the feelings of the community or a group, offending the decency or general ethics of the community, and offending the peace of the community or a group.\nLetter b\nLetter b Such Mark relates to or only mentions the goods and/or services for which registration is requested.\nLetter c What is meant by \"containing an element that may mislead\" is for example the Mark \"Kecap No. 1\" cannot be registered because it misleads the public in relation to the quality of the goods, the Mark \"netto 100 gram\" cannot be registered because it misleads the public in relation to the size of the goods.\nLetter d What is meant by \"containing information that is not in accordance with the quality, benefits, or efficacy of the goods and/or services produced\" is including information that is not in accordance with the quality, benefits, efficacy, and/or risks of the product concerned. For example: a medicine that can cure a thousand and one diseases, cigarettes that are safe for health.\nLetter e A sign shall be considered not to have distinguishing power if the sign is too simple such as a single line or a single dot, or too complicated so that it is unclear.\nLetter f What is meant by \"generic name\" includes the Mark \"rumah makan\" for a restaurant, the Mark \"warung kopi\" for a cafe. Meanwhile \"public symbols\" include the \"skull symbol\" for dangerous goods, the \"poison sign\" for chemicals, the \"spoon and fork symbol\" for restaurant services."
+        },
+        "noLabel": {
+          "en": "Article 20"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Paragraph (1) What is meant by \"identity in essence\" is similarity caused by the existence of a dominant element between one Mark and another Mark so as to give the impression of identity, both as regards the form, manner of placement, manner of writing or combination of elements, and similarity of sound of pronunciation, contained in such Mark.\nLetter a\nWhat is meant by \"Mark applied for earlier\" is an Application for Mark registration that has been approved for registration.\nLetter b . .\nLetter b The rejection of an Application having identity in essence or in its entirety with a well-known Mark belonging to another party for similar goods and/or services shall be carried out by taking into account the general knowledge of the public regarding such Mark in the relevant field of business.\nIn addition, consideration shall also be given to the reputation of such Mark obtained due to intensive and massive promotion, investments in several countries in the world made by its owner, and accompanied by evidence of registration of the said Mark in several countries.\nIf such is not yet considered sufficient, the Commercial Court may order an independent institution to conduct a survey in order to obtain a conclusion regarding whether or not the Mark that constitutes the basis for the rejection is well known.\nLetter c Sufficiently clear.\nLetter d Sufficiently clear.\nParagraph (2)\nLetter a\nWhat is meant by \"name of a legal entity\" is the name of a legal entity used as a Mark and registered.\nLetter b What is meant by \"national institution\" includes community organisations or socio-political organisations.\nLetter c Sufficiently clear.\nParagraph (3) What is meant by \"Applicant acting in bad faith\" is an Applicant who may reasonably be presumed, in registering his Mark, to have the intention to imitate, copy, or follow another party's Mark for the interests of his business, giving rise to a condition of unfair business competition, deceiving, or misleading consumers.\nFor example\nFor example, an Application for a Mark in the form of writing, drawing, logo, or colour arrangement that is the same as a Mark belonging to another party or a Mark that has been publicly known for years, imitated in such a way as to have identity in essence or in its entirety with the Mark already known. From such example, bad faith on the part of the Applicant has already occurred because at the very least it should be known that there is an element of intent in imitating the Mark already known.\nParagraph (4) Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 2"
+        },
+        "dupIndex": 4
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 22"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Sufficiently clear.\nArticle 24\nSufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 23"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Paragraph (1) Sufficiently clear.\nParagraph (2)\nLetter a\nSufficiently clear.\nLetter b Sufficiently clear.\nLetter c Sufficiently clear.\nLetter d Sufficiently clear.\nLetter e Sufficiently clear.\nLetter f What is meant by \"date of registration\" is the date on which the Mark is registered.\nLetter g Sufficiently clear.\nLetter h. . .\nLetter h Sufficiently clear.\nParagraph (3) Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 25"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 26"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Paragraph (1) If the typing error in the certificate is not an error of the Applicant, no fee shall be charged for the correction of the certificate.\nParagraph (2) Sufficiently clear.\nParagraph (3) Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 27"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Paragraph (1) The basis for filing an appeal is limited only to reasons or considerations of a substantive nature.\nParagraph (2) Sufficiently clear.\nParagraph (3) Sufficiently clear.\nParagraph (4) The appeal must contain more in-depth reasons for the objection to the rejection. This provision is necessary to prevent the possibility of an appeal being used as a means to complete a shortage of requirements in the Application, considering that the opportunity to complete the shortage of requirements in the Application has been given at the previous stage."
+        },
+        "noLabel": {
+          "en": "Article 28"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 29"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 30"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "(D"
+        },
+        "noLabel": {
+          "en": "Article 31"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "1 Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 3"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 32"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Paragraph (1)\nLetter a\nSufficiently clear.\nLetter b Sufficiently clear.\nLetter c Experts who may be appointed as members of the Mark Appeal Commission may come from various circles, whether from the government or the private sector.\nLetter d What is meant by \"senior Examiner\" is an Examiner who has experience in carrying out examination of Applications and holds a functional position at least that of Associate Mark Examiner Expert.\nParagraph (2) Sufficiently clear.\nParagraph (3) Sufficiently clear.\nParagraph (4) The provision that the number of members of the panel is odd is intended so that if there is a difference of opinion, a decision can be taken based on the majority vote."
+        },
+        "noLabel": {
+          "en": "Article 33"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 34"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 35"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 36"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 37"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": ". .\nREPUBLIK INDONESI,A -t2-"
+        },
+        "noLabel": {
+          "en": "Article 38"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 38"
+        },
+        "dupIndex": 4
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 39"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "O Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 4"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Paragraph (1)\nLetter a\nSufficiently clear.\nLetter b Sufficiently clear.\nLetter c Sufficiently clear.\nLetter d Sufficiently clear.\nLetter e Sufficiently clear.\nLetter f What is meant by \"other reasons justified by laws and regulations\" is insofar as they do not conflict with laws and regulations, for example a change of ownership of a Mark due to the dissolution of a legal entity, restructuring, merger, or acquisition.\nParagraph (2) Sufficiently clear.\nParagraph (3) Sufficiently clear.\nParagraph (4) The documents referred to include, among others, the certificate of the Mark and other evidence supporting the ownership of such right.\nParagraph (5) Sufficiently clear.\nParagraph (6) ...\nRtrPUBLIK INDONESIA\nParagraph (6) The determination that such legal consequence only applies after the transfer of the Right to the Mark is recorded is intended to facilitate supervision and realise legal certainty.\nParagraph (7) Sufficiently clear.\nParagraph (8) A Mark that is still in the process of Application may also be requested for recording of the transfer of rights.\nParagraph (9) Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 41"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Paragraph (1) Sufficiently clear.\nParagraph (2) What is meant by \"unless otherwise agreed\" is a licence agreement that applies not only to the territory of the Unitary State of the Republic of Indonesia or only to part of the territory of the Unitary State of the Republic of Indonesia.\nParagraph (3) Sufficiently clear.\nParagraph (4) Sufficiently clear.\nParagraph (5) Sufficiently clear.\nParagraph (6) Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 42"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 43"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "In the event that the owner of a registered Mark does not himself use his Mark in the trade of goods and/or services within the territory of the Unitary State of the Republic of Indonesia, the use of such Mark by the licensee shall be the same as the use by the relevant owner of the registered Mark.\nHal -L4- That matter relates to the provision regarding the possibility of deletion of Mark registration that is not used in the trade of goods and/or services within 3 (three) consecutive years."
+        },
+        "noLabel": {
+          "en": "Article 44"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 45"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Paragraph (1) Sufficiently clear.\nParagraph (2) Sufficiently clear.\nParagraph (3)\nLetter a\nWith the existence of provisions among others regarding the nature, general characteristics, or quality of goods and/or services and their supervision, there is contained the understanding that there are requirements that must be followed by parties who participate in using the relevant Collective Mark.\nLetter b Sufficiently clear.\nLetter c Sufficiently clear.\nParagraph (4) Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 46"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 47"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 48"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 49"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "The reason why a Collective Mark cannot be licensed is that its ownership is collective in nature and if there is another party that will use such Mark, it is not necessary to obtain a Licence from the owner of the Collective Mark, it is sufficient to join."
+        },
+        "noLabel": {
+          "en": "Article 50"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "(D"
+        },
+        "noLabel": {
+          "en": "Article 51"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 51"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Paragraph (1) Sufficiently clear.\nParagraph (2)\nLetter a\nSufficiently clear.\nLetter b Sufficiently clear.\nLetter c What is meant by \"real industrial or commercial business activity within the territory of the Unitary State of the Republic of Indonesia\" is business activity that is truly real, concrete, and effective within the territory of the Unitary State of the Republic of Indonesia.\nParagraph (3) Sufficiently clear.\nParagraph (4) Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 52"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Paragraph (1) Sufficiently clear.\nParagraph (2) Sufficiently clear.\nParagraph (3)\nLetter a Institutions representing the community in a certain geographical area include, among others, producer associations, cooperatives, and geographical indication protection societies (MPIG).\nItem 1\nWhat is meant by \"natural resources\" is everything that is based on nature that can be used to meet the needs of human life which covers not only biotic components such as animals, plants, and microorganisms but also abiotic components such as petroleum, natural gas, various types of metals, water, and soil.\nItem 2 PRES IDENI REPUELIK INIDOI.IESIA Item 2 Sufficiently clear.\nItem 3 What is meant by \"industrial product\" is the result of human processing in the form of turning raw materials into finished goods, among others Tenun Gringsing, Tenun Sikka.\nLetter b Sufficiently clear.\nParagraph (4) Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 53"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 54"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Sufficiently clear.\nArticle 56 Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 55"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 57"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 58"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Paragraph (1) Sufficiently clear.\nParagraph (2)\nLetter a\nSufficiently clear.\nLetter b Sufficiently clear.\nLetter c Sufficiently clear.\nLetter d What is meant by \"other competent experts\" is academics or practitioners who have expertise in their field relating to Geographical Indications.\nParagraph (3) ... t7-\nParagraph (3) Sufficiently clear.\nParagraph (4) Sufficiently clear.\nParagraph (5) Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 59"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 60"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 61"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 62"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 63"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "An indication of source is not the same as a Geographical Indication because an indication of source only identifies the origin of where the goods are produced, which is not related to natural factors.\nFor example, a Nikon-branded camera originating from Japan but also made by its factory located in China through a Licence and on that Chinese product camera it is written Made in China. This Made in China label is an indication of source. The right to an indication of source arises in line with the realisation of the object and not through registration, in contrast to the protection of a Geographical Indication which is constitutive in nature and requires registration."
+        },
+        "noLabel": {
+          "en": "Article 64"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 65"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 66"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 67"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 68"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "REPUBLIK INDONESI/("
+        },
+        "noLabel": {
+          "en": "Article 69"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 69"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Paragraph (1) What is meant by \"central government\" is the ministry and/or institution having duties and responsibilities in the fields of law, domestic government, foreign relations, agriculture, environment, industry, trade, creative economy, tourism, research and technology, maritime affairs, and other related fields.\nParagraph (2) Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 70"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 71"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 72"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 73"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 74"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 75"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "Paragraph (1) What is meant by \"interested party\" includes, among others, the owner of a registered Mark, the public prosecutor, foundations/institutions in the field of consumers, and religious councils/institutions.\nParagraph (2) What is meant by \"owner of an unregistered Mark\" includes, among others, the owner of a Mark acting in good faith but not registered or the owner of a well-known Mark whose Mark is not registered.\nParagraph (3) Sufficiently clear.\nArticle 77\nREFUBLIK INDONESIA"
+        },
+        "noLabel": {
+          "en": "Article 76"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 77"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 78"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 79"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "O Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 8"
+        },
+        "dupIndex": 4
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "1 Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 8"
+        },
+        "dupIndex": 5
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "Paragraph (1) Sufficiently clear.\nParagraph (2) Sufficiently clear.\nParagraph (3) In this Law there are provisions regarding the possibility of using part of the Non-Tax State Revenue (PNBP) by the Directorate General of Intellectual Property derived from all fees relating to Marks and Geographical Indications.\nWhat is meant by \"using receipts\" is the utilisation of PNBP based on the applicable system and mechanism. In this case all receipts shall be deposited directly into the state treasury as PNBP."
+        },
+        "noLabel": {
+          "en": "Article 82"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "Paragraph (1) Sufficiently clear.\nParagraph (2) The granting of the right to file a civil lawsuit based on fraudulent acts committed by another party is intended to provide legal protection to the owner of a well-known Mark even though it is not yet registered.\nParagraph (3) Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 83"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "REPUBLIK INDONIESIA"
+        },
+        "noLabel": {
+          "en": "Article 84"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 84"
+        },
+        "dupIndex": 4
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "Paragraph (1) Sufficiently clear.\nParagraph (2) Sufficiently clear.\nParagraph (3) Sufficiently clear.\nParagraph (4) What is meant by\nParagraph (5) What is meant by\nParagraph (6) What is meant by\nParagraph (7) What is meant by\nParagraph (8) Sufficiently clear.\nParagraph (9) What is meant by"
+        },
+        "noLabel": {
+          "en": "Article 85"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 86"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 87"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "Paragraph (1) \"day\" is calendar day.\n\"day\" is calendar day.\n\"day\" is calendar day.\n\"day\" is calendar day.\n\"day\" is calendar day.\nWhat is meant by \"day\" is calendar day.\nParagraph (2) Sufficiently clear.\nParagraph (3) What is meant by \"day\" is calendar day.\nParagraph (4) What is meant by \"day\" is calendar day.\nParagraph (5) . .\nREFUBLIK INDONESIA -2t-\nParagraph (5) What is meant by \"day\" is calendar day.\nParagraph (6) What is meant by \"day\" is calendar day.\nParagraph (7) What is meant by \"case file for cassation\" is the application for cassation, memorandum of cassation, and/or counter memorandum of cassation as well as other documents.\nWhat is meant by \"day\" is calendar day.\nParagraph (8) What is meant by \"day\" is calendar day.\nParagraph (9) Sufficiently clear.\nParagraph (10) What is meant by \"day\" is calendar day.\nParagraph (11) What is meant by \"day\" is calendar day.\nParagraph (12) Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 88"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 89"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "O Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 9"
+        },
+        "dupIndex": 4
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "1 Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 9"
+        },
+        "dupIndex": 5
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 92"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "What is meant by \"alternative dispute resolution\" includes, among others, negotiation, mediation, conciliation, and other means chosen by the parties."
+        },
+        "noLabel": {
+          "en": "Article 93"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "Letter a\nWhat is meant by goods in this provision includes imported goods.\nLetter b Sufficiently clear.\nLetter c This is intended to prevent the infringing party from eliminating evidence.\nLetter d Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 94"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "Letter a\nWhat is meant by goods in this provision includes imported goods.\nLetter b Sufficiently clear.\nLetter c This is intended to prevent the infringing party from eliminating evidence.\nLetter d Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 94"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 95,
+        "text": {
+          "en": "Letter a\nWhat is meant by \"proof of ownership of the Mark\" is the certificate of the Mark.\nLetter b Sufficiently clear.\nLetter c Such information is in the form of a description of the types of goods and/or services suspected to be products resulting from Mark infringement.\nLetter d Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 95"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 96,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 96"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 97,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 97"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 98,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 98"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 99,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 99"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 100,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 100"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 101,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 101"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 1,
+        "text": {
+          "en": "REPUELIK INDONESIA"
+        },
+        "noLabel": {
+          "en": "Article 1"
+        },
+        "dupIndex": 5
+      },
+      {
+        "no": 102,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 102"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 103,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 103"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 1,
+        "text": {
+          "en": "O4 Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 1"
+        },
+        "dupIndex": 6
+      },
+      {
+        "no": 105,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 105"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 106,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 106"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 107,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 107"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 108,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 108"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 109,
+        "text": {
+          "en": "Sufficiently clear.\nSUPPLEMENT TO THE STATE GAZETTE OF THE REPUBLIC OF INDONESIA NUMBER 5953"
+        },
+        "noLabel": {
+          "en": "Article 109"
+        },
+        "dupIndex": 2
       }
     ]
   };
@@ -4742,6 +7379,545 @@
     ]
   };
 
+  TR["ID-H031"] = {
+    "lawId": "ID-H031",
+    "sourceLang": "id",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "DeepSeek-V4.1-Flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-26",
+    "reviewed": "machine",
+    "glossaryVersion": "id-en-2026-10",
+    "completenessNote": "从印尼语回执逐条入库，共 55 条；条号与原文一一对应。",
+    "articles": [
+      {
+        "no": 8,
+        "text": {
+          "en": "Population data and user feedback data constitute population data and user feedback data as regulated in the provisions of laws and regulations governing population administration.\nParagraph (1) In respect of errors in the completion of a Tax Return made by a Taxpayer, the Taxpayer remains entitled to make a correction of his own accord, on condition that the Director General of Taxes has not commenced an audit action.\nWhat is meant by \"commencing an audit action\" is the moment the Tax Audit Notification Letter is delivered to the Taxpayer, the representative, the attorney, the employee, or an adult family member of the Taxpayer.\nParagraph (1a) What is meant by the limitation period for assessment is a period of 5 (five) years after the tax becomes due or after the end of the Tax Period, part of a Tax Year, or Tax Year, as referred to in"
+        },
+        "noLabel": {
+          "en": "Article 8"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "paragraph (1).\nParagraph (21 Sufficiently clear.\nParagraph (2a) Sufficiently clear.\nParagraph (2b) Sufficiently clear.\nParagraph (3) Sufficiently clear.\nParagraph (3a) Sufficiently clear.\nSK No I15616 A\nParagraph (4) ...\nParagraph (a)\nParagraph (5)\nParagraph (5a)\nParagraph (6) Sufficiently clear.\nSufficiently clear.\nAlthough the Director General of Taxes has conducted an audit but has not yet delivered a notification letter of the audit results, a Taxpayer, whether or not it has corrected its Tax Return, is still given the opportunity to disclose the untruth of the completion of the Tax Return that has been submitted, which may be in the form of an Annual Tax Return or a Periodic Tax Return for the Tax Year, part of the Tax Year, or Tax Period audited.\nThe disclosure of the untruth of the completion of the Tax Return shall be made in a separate report and must reflect the actual situation so that the amount of tax actually due may be ascertained. However, in order to prove the truth of the Taxpayer's report, the audit process shall continue to completion.\nIn connection with the issuance of a tax assessment letter, a Decision Letter on Objection, a Decision Letter on Correction, a Decision on Appeal, or a Decision on Judicial Review for a certain Tax Year resulting in a fiscal loss different from the fiscal loss that has been compensated in the Annual Tax Return of the following year or years, an adjustment of the fiscal loss shall be made in accordance with the tax assessment letter, Decision Letter on Objection, Decision Letter on Correction, Decision on Appeal, or Decision on Judicial Review in the calculation of Income Tax for the following years; the 3 (three) month time limit is intended for administrative order without removing the Taxpayer's right to loss compensation.\nSK No I15617 A\nIn ...\nREPUBLIC OF INDONESIA\nIn the event that a Taxpayer corrects the Tax Return beyond the 3 (three) month period or the Taxpayer does not submit a correction as a result of a tax assessment letter, a Decision Letter on Objection, a Decision Letter on Correction, a Decision on Appeal, or a Decision on Judicial Review for the previous Tax Year or several previous Tax Years, which states a fiscal loss different from the fiscal loss that has been compensated in the Annual Income Tax Return, the Director General of Taxes shall take it into account in determining the tax obligations of the Taxpayer.\nFor clarity, the following example is given:\nExample 1:\nPT A submits an Annual Income Tax Return for the year 2021 stating:\nNet Income of = Rp200,000,000.00 Loss compensation based on the Annual Income Tax Return for the year 2020 of Rp150,000,000.00 (-) Taxable Income of: Rp50,000,000.00 An audit was conducted on the Annual Income Tax Return for the year 2020, and on 6 January 2023 a tax assessment letter was issued stating a fiscal loss of Rp70,000,000.00.\nBased on the said tax assessment letter the Director General of Taxes shall amend the calculation of Taxable Income for the year 2021 to become as follows:\nNet Income = Rp200,000,000.00 Loss according to the tax assessment for the year 2020 0.000 SK No 115618 A Income ...\n_ 11_ Taxable Income of = Rp130,000,000.00 Thus the Taxable Income from the Tax Return which was originally Rp50,000,000.00 (Rp200,000,000.00 - Rp150,000,000.00) after the correction becomes Rp130,000,000.00 (Rp200,000,000.00 - Rp70,000,000.00).\nExample 2:\nPT B submits an Annual Income Tax Return for the year 2021 stating:\nNet Income of = Rp300,000,000.00 Loss compensation based on the Annual Income Tax Return for the year 2020 of Taxable Income of: Rp100,000,000.00 An audit was conducted on the Annual Income Tax Return for the year 2020 and on 6 January 2023 a tax assessment letter was issued stating a fiscal loss of Rp250,000,000.00.\nBased on the said tax assessment letter the Director General of Taxes shall amend the calculation of Taxable Income for the year 2021 to become as follows:\nNet Income = Rp300,000,000.00 Loss according to the tax assessment for the year 2020 50,000 Taxable Income = Rp50,000,000.00 Thus the Taxable Income from the Tax Return which was originally Rp100,000,000.00 (Rp300,000,000.00 - Rp200,000,000.00) after the correction becomes Rp50,000,000.00 (Rp300,000,000.00 - Rp250,000,000.00).\nItem 3 ...\nSK No 115619 A = Rp200,000,000.00(-) _12_ Item 3"
+        },
+        "noLabel": {
+          "en": "Article 13"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Paragraph (1) Sufficiently clear.\nParagraph (2) Sufficiently clear.\nParagraph (2a) Sufficiently clear.\nParagraph (2b) Sufficiently clear.\nParagraph (3)\nParagraph (3a) Sufficiently clear.\nParagraph (3b) Sufficiently clear.\nParagraph (3c) This paragraph regulates the administrative sanction of a tax assessment for violating tax obligations as referred to in paragraph (1) point b, point c, and point d. The administrative sanction in the form of interest or an increase is a proportional amount that must be added to the principal tax underpaid.\nThe administrative sanction for Income Tax paid by the Taxpayer and income tax not or under-withheld or under-collected shall be in the form of an interest rate determined by the Minister of Finance calculated on the basis of the reference interest rate plus 20% (twenty per cent) and divided by 12 (twelve) prevailing on the date the calculation of the sanction begins, whereas for Income Tax withheld or collected but not or under-deposited and Value Added Tax and Sales Tax on Luxury Goods the administrative sanction shall be an increase of 75% (seventy-five per cent).\nSK No 115620 A Sufficiently clear\nParagraph (4) ...\nPRESIDENT\nParagraph (a) Sufficiently clear\nParagraph (5) Deleted.\nParagraph (6) Sufficiently clear Item 4"
+        },
+        "noLabel": {
+          "en": "Article 13"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Paragraph (1) Sufficiently clear.\nParagraph (2) A Tax Collection Notice under this paragraph has the same legal force as a tax assessment letter, so that in the event of collection it may also be enforced by means of a Distraint Warrant.\nParagraph (3) Sufficiently clear.\nParagraph (4) Sufficiently clear.\nParagraph (5) Deleted.\nParagraph (5a) Sufficiently clear.\nParagraph (5b) Sufficiently clear.\nParagraph (5c) Sufficiently clear.\nParagraph (6) Sufficiently clear.\nSK No 115621 A Item 5 ...\nItem 5"
+        },
+        "noLabel": {
+          "en": "Article 14"
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Paragraph (1)\nParagraph (2)\nParagraph (3) This Law authorises the Minister of Finance to enter into cooperation for the implementation of tax collection assistance to the government of a partner country or partner jurisdiction.\nWhat is meant by \"tax collection assistance\" is the tax collection assistance facility contained in an international agreement that may be utilised by the Government of Indonesia and the government of a partner country or partner jurisdiction reciprocally in order to collect tax debts administered by the Director General of Taxes or by the tax authority of the partner country or partner jurisdiction.\nIn implementing cooperation on tax collection assistance, the Director General of Taxes carries out tax collection assistance activities for the tax authority of the partner country or partner jurisdiction. The implementation of such tax collection assistance covers the provision of tax collection assistance and the request for tax collection assistance to the tax authority of the partner country or partner jurisdiction.\nThe application of the reciprocity principle in this paragraph is intended so that the Director General of Taxes may provide tax collection assistance to the government of a partner country or partner jurisdiction insofar as that government also provides equivalent tax collection assistance to the Government of Indonesia.\nFor example, tax collection measures will be carried out up to the notification of a Distraint Warrant where the partner country or partner jurisdiction carries out tax collection assistance measures up to the notification of a Distraint Warrant or measures comparable thereto.\nSK No 115622 A\nParagraph (4) ..\nParagraph (4)\nParagraph (5)\nParagraph (6) Sufficiently clear.\nParagraph (7)\nLetter a\nSufficiently clear.\nWhat is meant by \"international agreement\" is a bilateral or multilateral agreement that has been ratified by the Government of Indonesia in accordance with the provisions of the Law on International Agreements, which states that the Government of Indonesia has bound itself with a partner country or partner jurisdiction regarding cooperation on matters relating to tax collection assistance.\nInternational agreements include, among others, the Convention on Mutual Administrative Assistance in Tax Matters.\nWhat is meant by \"value of the tax claim\" is the amount of money for which tax collection assistance is requested by the partner country or partner jurisdiction, which includes, among others, the principal amount of tax still due, administrative sanctions, and collection costs imposed by the partner country or partner jurisdiction.\nMeanwhile, the collection costs incurred by the Directorate General of Taxes in the context of providing tax collection assistance shall be borne by the partner country or partner jurisdiction requesting the tax collection assistance, in the event that the tax claim is collectible, and vice versa.\nSuch collection costs shall be recorded as Non-Tax State Revenue in the State Budget.\nSK No 115623 A In the event that the tax claim is not collectible, the tax collection costs already incurred by the Directorate General of Taxes shall be borne by the State.\nThe tax claim for which tax collection assistance is requested by the partner country or partner jurisdiction is not in dispute (has become final and binding) in the partner country or partner jurisdiction.\nLetter b The identity of the tax guarantor shall contain at least the name, identity number, and address of the tax guarantor.\nParagraph (8) A tax claim from a partner country or partner jurisdiction constitutes the basis for tax collection upon which tax collection measures will be carried out by the Director General of Taxes in accordance with the provisions of laws and regulations in the field of taxation, applying mutatis mutandis the tax collection provisions in force in the partner country or partner jurisdiction.\nThe value of the tax claim from the partner country or partner jurisdiction has the same standing as a tax debt. Therefore, in respect of such value of the tax claim, tax collection measures shall be carried out by the Director General of Taxes through the activities of admonishing or warning, issuing and notifying a Distraint Warrant, carrying out seizure, selling seized goods, proposing prevention from leaving the country, and carrying out hostage-taking in accordance with the provisions of laws and regulations in the field of taxation.\nTax collection measures shall be carried out on an equal footing with the measures carried out by the partner country or partner jurisdiction. For example, tax collection measures will be carried out up to the notification of a Distraint Warrant where the partner country or partner jurisdiction carries out tax collection assistance measures up to the notification of a Distraint Warrant or measures comparable thereto.\nTax collection measures shall be carried out against the tax guarantor whose identity is stated in the tax claim.\nSK No 115624 A\nParagraph (9) REPUBLIC OF INDONESIA\nParagraph (9) Item 6"
+        },
+        "noLabel": {
+          "en": "Article 2"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Paragraph (1) Tax collection proceeds in respect of tax claims from a partner country or partner jurisdiction shall be accommodated in a separate other government account, separate from the state treasury account or the state revenue module, before being remitted to the partner country or partner jurisdiction. Tax collection proceeds in respect of tax claims from a partner country or partner jurisdiction do not constitute State Revenue and are therefore not recorded in the State Budget, because they do not fall within the sphere of state finances.\nWhere a Taxpayer is of the opinion that the amount of loss, the amount of tax, and the withholding or collection of tax are not as they should be, the Taxpayer may file an objection only with the Director General of Taxes.\nThe objection filed concerns the substance or content of the tax assessment, namely the amount of loss based on the provisions of tax laws and regulations, the amount of tax, or the withholding or collection of tax. What is meant by \"a\" in this paragraph is that 1 (one) objection must be filed against 1 (one) type of tax and 1 (one) Tax Period or Tax Year.\nExample:\nAn objection against an Income Tax assessment for Tax Year 2008 and Tax Year 2009 must be filed in 1 (one) separate objection letter each. For those 2 (two) Tax Years, 2 (two) objection letters must be filed.\nSK No 115625 A\nParagraph (2) ...\n_18_\nParagraph (2) What is meant by \"the reasons forming the basis of the calculation\" is reasons that are clear and accompanied by a photocopy of the tax assessment letter, the collection receipt, or the withholding receipt.\nParagraph (3) The time limit for filing an objection letter is set at 3 (three) months from the date the tax assessment letter is sent or from the date of the withholding or collection of tax as referred to in paragraph\n(1), with the intention that the Taxpayer has sufficient time to prepare the objection letter together with its reasons.\nIf it turns out that the said 3 (three) month time limit cannot be met by the Taxpayer owing to circumstances beyond the Taxpayer's control (force majeure), the said 3 (three) month grace period may still be considered for extension by the Director General of Taxes.\nParagraph (3a) This provision regulates that a requirement for a Taxpayer to file an objection is that the Taxpayer must first settle the amount of its tax obligations that the Taxpayer has agreed to at the time of the final discussion of the audit results. Such settlement must be made before the Taxpayer files an objection.\nParagraph (4) An objection application that does not fulfil any one of the requirements referred to in this article is not an objection letter, so that it cannot be considered and no Decision Letter on Objection shall be issued.\nParagraph (5) The receipt mark given by an official of the Directorate General of Taxes or by the post office serves as an acknowledgement of receipt of the objection letter if the letter fulfils the requirements of an objection letter. Accordingly, the time limit for the settlement of the objection shall be calculated from the date of receipt of the said letter.\nSK No 115626 A Where _19_ Where a Taxpayer's letter does not fulfil the requirements of an objection letter and the Taxpayer rectifies it within the time limit for the submission of an objection letter, the time limit for the settlement of the objection shall be calculated from the receipt of the subsequent letter that fulfils the requirements of an objection letter.\nParagraph (6)\nParagraph (7)\nParagraph (8)\nParagraph (9) Sufficiently clear.\nIn order that a Taxpayer may formulate an objection on strong grounds, the Taxpayer is given the right to request the tax base, the calculation of loss, or the withholding or collection of tax that has been determined. Therefore, the Director General of Taxes is obliged to fulfil such request.\nThis paragraph regulates that the due date for payment stated in the tax assessment letter is deferred until 1 (one) month from the date of issuance of the Decision Letter on Objection. The deferral of the tax settlement period results in the administrative sanction in the form of interest as provided for in Article 19 not being applied to the amount of tax unpaid at the time of filing the objection.\nIn the event that the Taxpayer's objection is rejected or partially granted and the Taxpayer does not file an application for appeal, the amount of tax based on the objection decision, less the tax already paid before filing the objection, must be settled at the latest within 1 (one) month from the date of issuance of the Decision Letter on Objection, and collection by means of a Distraint Warrant shall be carried out if the Taxpayer does not settle the said tax debt. In addition, the Taxpayer shall be subject to an administrative sanction in the form of a fine of 30% (thirty per cent).\nSK No 115627 A Example:\nExample:\nFor Tax Year 2023, a Tax Assessment Letter for Underpaid Tax (SKPKB) with an amount of tax still to be paid of Rp1,000,000,000.00 (one billion rupiah) was issued against PT A. At the final discussion of the audit results, the Taxpayer only agreed to tax still to be paid of Rp200,000,000.00 (two hundred million rupiah). The Taxpayer settled part of the said SKPKB in the amount of Rp200,000,000.00 (two hundred million rupiah) and then filed an objection against the other corrections.\nThe Director General of Taxes partially granted the Taxpayer's objection, with the amount of tax still to be paid becoming Rp750,000,000.00 (seven hundred and fifty million rupiah). In this case, the Taxpayer is not subject to the administrative sanction as provided for in Article 19, but is subject to an administrative sanction in accordance with this paragraph, namely in the amount of 30% x (Rp750,000,000.00 - Rp200,000,000.00) = Rp165,000,000.00.\nParagraph (10) Sufficiently clear.\nItem 7"
+        },
+        "noLabel": {
+          "en": "Article 25"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Paragraph (1) Sufficiently clear.\nParagraph (2) Sufficiently clear.\nParagraph (3) Sufficiently clear.\nParagraph (4) Deleted.\nParagraph (4a) Sufficiently clear\nParagraph (5) Deleted.\nSK No 115628 A\nParagraph (5a) -21-\nParagraph (5a) This paragraph regulates that for a Taxpayer filing an appeal, the time limit for the settlement of the tax appealed against is deferred until 1 (one) month from the date of issuance of the Appeal Decision.\nThe deferral of the tax settlement period results in the administrative sanction in the form of interest as provided for in Article 19 not being applied to the amount of tax unpaid at the time of filing the objection.\nParagraph (5b) Sufficiently clear.\nParagraph (5c) Sufficiently clear.\nParagraph (5d) In the event that the Taxpayer's appeal is rejected or partially granted, the amount of tax based on the Appeal Decision, less the tax already paid before filing the objection, must be settled at the latest within 1 (one) month from the date of issuance of the Appeal Decision, and collection by means of a Distraint Warrant shall be carried out if the Taxpayer does not settle the said tax debt. In addition, the Taxpayer shall be subject to an administrative sanction in the form of a fine of 60% (sixty per cent) as referred to in this paragraph.\nExample:\nFor Tax Year 2023, a Tax Assessment Letter for Underpaid Tax (SKPKB) with an amount of tax still to be paid of Rp1,000,000,000.00 (one billion rupiah) was issued against PT A. At the final discussion of the audit results, the Taxpayer only agreed to tax still to be paid of Rp200,000,000.00 (two hundred million rupiah). The Taxpayer settled part of the said SKPKB in the amount of Rp200,000,000.00 (two hundred million rupiah) and then filed an objection against the other corrections.\nThe Director General of Taxes partially granted the Taxpayer's objection, with the amount of tax still to be paid becoming Rp750,000,000.00 (seven hundred and fifty million rupiah).\nSK No 115629 A Subsequently the Taxpayer filed an application for appeal and the Tax Court decided that the amount of tax still to be paid became Rp450,000,000.00 (four hundred and fifty million rupiah). In this case, neither the administrative sanction in the form of interest as provided for in Article 19 nor the administrative sanction in the form of a fine as provided for in Article 25 paragraph (9) shall be imposed. However, the Taxpayer shall be subject to an administrative sanction in the form of a fine in accordance with this paragraph, namely in the amount of 60% x (Rp450,000,000.00 - Rp200,000,000.00) = Rp150,000,000.00.\nParagraph (5e)\nParagraph (5f) Sufficiently clear In the event that an application for judicial review is filed by the Taxpayer or the Director General of Taxes against the Appeal Decision and, based on the Judicial Review Decision, the amount of tax still to be paid by the Taxpayer increases, the Taxpayer shall be subject to an administrative sanction in the form of a fine of 60% (sixty per cent) of the amount of tax based on the Judicial Review Decision less the tax already paid before filing the objection.\nExample 1:\nA Tax Assessment Letter for Underpaid Tax (SKPKB) was issued against a Taxpayer for Tax Year 2023 with an amount of tax still to be paid of Rp3,000,000,000.00 (three billion rupiah). The annual corporate income tax return previously submitted by the Taxpayer was in an underpaid position with a value of Rp1,000,000,000.00 (one billion rupiah). At the final discussion of the audit results, the Taxpayer did not agree in full to the tax still to be paid, so that no payment was made by the Taxpayer in respect of the said SKPKB before the filing of the objection. Based on the objection filed by the Taxpayer, the Director General of Taxes issued a Decision Letter on Objection the content of which rejected the Taxpayer's objection in its entirety. The Taxpayer then filed an application for SK No 115630 A appeal appeal and the Judge of the Tax Court decided to accept the Taxpayer's appeal in its entirety. Based on the said Appeal Decision, there was no tax still to be paid by the Taxpayer. The Director General of Taxes then filed an application for judicial review with the Supreme Court. The outcome of the Judicial Review Decision granted the applicant's application and declared that the amount of tax still to be paid by the Taxpayer was Rp3,000,000,000.00 (three billion rupiah). In this case, the Taxpayer must settle the underpayment of Rp3,000,000,000.00 plus the administrative sanction as referred to in this paragraph, namely in the amount of 60% x Rp3,000,000,000.00 = Rp1,800,000,000.00.\nExample 2:\nA Tax Assessment Letter for Underpaid Tax (SKPKB) was issued against a Taxpayer for Tax Year 2023 with an amount of tax still to be paid of Rp3,000,000,000.00 (three billion rupiah). The annual corporate income tax return previously submitted by the Taxpayer was in an underpaid position with a value of Rp400,000,000.00 (four hundred million rupiah). At the final discussion of the audit results, the Taxpayer agreed to an amount of tax still to be paid of Rp600,000,000.00 (six hundred million rupiah), so that the Taxpayer made a payment in respect of the said SKPKB in the amount agreed at the final discussion of the audit results before the filing of the objection. Based on the objection filed by the Taxpayer, the Director General of Taxes issued a Decision Letter on Objection the content of which rejected the Taxpayer's objection in its entirety. The Taxpayer then filed an application for appeal and the Judge of the Tax Court decided to accept part of the Taxpayer's appeal and declared that the tax underpaid amounted to Rp600,000,000.00 (six hundred million rupiah). Considering that the Taxpayer had made a payment before filing the objection in an amount equal to the Appeal Decision, there was no tax to be settled by the Taxpayer based on the said Appeal Decision and no administrative sanction as referred to in paragraph (5d) shall be imposed. The Director SK No 115631 A General...\nGeneral of Taxes then filed an application for judicial review with the Supreme Court. The outcome of the Judicial Review Decision granted the applicant's application and declared that the amount of tax still to be paid by the Taxpayer was Rp3,000,000,000.00 (three billion rupiah). In this case, the Taxpayer must settle the underpayment of Rp3,000,000,000.00 - Rp600,000,000.00 = Rp2,400,000,000.00, plus the administrative sanction as referred to in this paragraph, namely in the amount of 60% x (Rp3,000,000,000.00 - Rp600,000,000.00) = Rp1,440,000,000.00.\nParagraph (5g)\nParagraph (6) Sufficiently clear Sufficiently clear Item 8"
+        },
+        "noLabel": {
+          "en": "Article 27"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "C\nParagraph (1) What is meant by \"mutual agreement procedure\" is an administrative procedure provided for in a double taxation avoidance agreement to prevent or resolve issues arising in the application of the double taxation avoidance agreement.\nParagraph (2) Sufficiently clear.\nParagraph (3) Sufficiently clear.\nParagraph (4) In order that the mutual agreement procedure may effectively encourage a Taxpayer to obtain fairness and eliminate double taxation, it is necessary to regulate their interaction in the event that the mutual agreement procedure is carried out concurrently with the domestic dispute settlement process, in particular the filing of an appeal and SK No 115632 A judicial... judicial review. This paragraph confirms that in the event that the appeal or judicial review decision has been pronounced in advance of the attainment of a mutual agreement but the dispute submitted to the mutual agreement procedure is not decided in the appeal or judicial review decision, the negotiations in the context of the mutual agreement procedure shall continue.\nIn the event that the appeal or judicial review decision also decides the dispute submitted to the mutual agreement procedure, the negotiations may still be continued by basing the negotiating position of the Director General of Taxes on the appeal or judicial review decision. In the event that a mutual agreement cannot be reached on the basis of such negotiating position, the Director General of Taxes may propose to discontinue the negotiations, having regard to the provisions and principles of international negotiation and consultation, in particular those relating to the implementation of the mutual agreement procedure.\nParagraph (5)\nParagraph (6)\nParagraph (1) Sufficiently clear.\nSufficiently clear.\nItem 9"
+        },
+        "noLabel": {
+          "en": "Article 27"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "This Law determines who shall act as the representative for the exercise of the tax rights and obligations of a Taxpayer in respect of a body, a body declared bankrupt, a body in dissolution, a body in liquidation, an undivided inheritance, and a minor or a person under guardianship. For such Taxpayers it is necessary to determine who shall act as their representative or attorney because they cannot or are unable to carry out such legal acts themselves.\nSK No 115633 A\nParagraph (2) ...\nREPUBLIC OF INDONESIA\nParagraph (2)\nParagraph (3)\nParagraph (3a) This paragraph confirms that the representative of a Taxpayer provided for in this Law shall be personally or jointly and severally liable for the payment of the tax due.\nAn exception may be considered by the Director General of Taxes where the Taxpayer's representative can prove and satisfy that, in his position, according to reasonableness and propriety, he could not be held liable.\nThis paragraph gives leeway and opportunity to a Taxpayer to request the assistance of another party who understands tax matters as his attorney, for and on his behalf, to assist in exercising the tax rights and obligations of the Taxpayer.\nSuch assistance covers the performance of formal and material obligations as well as the fulfilment of the rights of the Taxpayer as determined in the provisions of tax laws and regulations.\nWhat is meant by attorney is a person who receives a special power of attorney from a Taxpayer to exercise the rights and fulfil certain tax obligations of the Taxpayer in accordance with the provisions of tax laws and regulations.\nIn order to exercise the rights and fulfil the tax obligations, an attorney appointed by a Taxpayer must possess certain competence in the tax aspect. Such competence includes, among others, a certain level of education, certification, and/or coaching by an association or the Ministry of Finance.\nTherefore, the power of attorney may be exercised by a tax consultant or another party insofar as it fulfils the requirements in accordance with the provisions of laws and regulations in the field of taxation.\nSK No 115634 A\nParagraph (4) ...\nParagraph (5) Item 10"
+        },
+        "noLabel": {
+          "en": "Article 32"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "A\nParagraph (1)\nParagraph (2) A person who manifestly has the authority to determine policy and/or take decisions in the context of carrying on the company's activities, for example the authority to sign contracts with third parties, sign cheques, and the like, although such person is not listed by name in the management structure stated in the deed of establishment or the deed of amendment, is also included within the meaning of management. The provisions of this paragraph also apply to commissioners and majority or controlling shareholders.\nSufficiently clear In order to increase the realisation of tax potential and to optimise the imposition of tax, a scheme of tax withholding and/or collection may be applied through the appointment of a tax withholder and/or collector, namely another party.\nAnother party appointed as a tax withholder and/or collector is a tax subject, whether domestic or foreign, that is directly involved in or facilitates a transaction, for example by providing the means or medium of transaction, including transactions carried out electronically.\nExample 1:\nPT ABC is a domestic Taxpayer that provides a peer to peer lending platform in Indonesia.\nMr A lends a certain amount of funds to Mr B through the said platform. In this scheme, although PT ABC acts only as an intermediary for the transaction between Mr A and Mr B on the peer to peer lending platform, the Minister of Finance may appoint PT ABC as another party to withhold, deposit, and report tax on the income in the form of interest received by Mr A from Mr B.\nSK No 115635 A Example 2: ...\nExample 2:\nR Inc. is a company that provides a video sharing site domiciled outside Indonesia. Mr C, a content creator, earns income from R Inc. In this transaction, R Inc. is another party that may be appointed by the Minister of Finance to withhold, deposit, and report tax on the income paid to Mr C.\nExample 3:\nPT DEF is a domestic marketplace platform provider serving as a forum for traders of goods and/or providers of services to post offers of goods and/or services. PT PQR is a Taxable Entrepreneur that makes offers of goods through the marketplace platform provided by PT DEF.\nMr Z purchases goods offered by PT PQR through the marketplace platform provided by PT DEF. PT DEF may be appointed by the Minister of Finance as a VAT collector to collect, deposit, and report the VAT due on the supply of Taxable Goods by PT PQR to Mr Z effected through the marketplace platform provided by PT DEF.\nParagraph (3)\nParagraph (4)\nParagraph (5) The arrangements concerning assessment, collection, legal remedies, and the imposition of sanctions on a Taxpayer in accordance with the Law on General Provisions and Tax Procedures and the Law on Tax Collection by Distraint Warrant shall also apply to another party, including a tax subject located outside the territory of Indonesian law.\nAn electronic system operator is an electronic system operator as regulated in the provisions of laws and regulations concerning information and electronic transactions.\nSK No 115636 A Sufficiently clear.\nParagraph (6) ...\nParagraph (6) Sufficiently clear\nParagraph (7) Sufficiently clear Item 11"
+        },
+        "noLabel": {
+          "en": "Article 32"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Paragraph (1) Every official, whether a tax officer or a person performing duties in the field of taxation, is prohibited from disclosing the confidentiality of a Taxpayer relating to tax matters, among others:\na. Tax Returns, financial statements, and others reported by the Taxpayer;\nb. data obtained in the context of the conduct of an audit:\nc. documents and/or data obtained from third parties that are confidential in nature;\nd. documents and/or secrets of the Taxpayer in accordance with the provisions of the relevant laws and regulations.\nParagraph (2) Experts, such as linguists, accountants, and lawyers appointed by the Director General of Taxes to assist in the implementation of the tax laws, are the same as tax officers and are likewise prohibited from disclosing the confidentiality of a Taxpayer as referred to in paragraph (1).\nParagraph (2a) The information that may be disclosed is the identity of the Taxpayer and information of a general nature concerning taxation.\nThe identity of the Taxpayer covers:\n1. the name of the Taxpayer;\n2. the Taxpayer Identification Number;\nSK No 115637 A\n3. the address REPUBLIC OF INDONESIA\n3. the address of the Taxpayer;\n4. the address of the business activity;\n5. the business mark; and/or\n6. the business activity of the Taxpayer.\nInformation of a general nature concerning taxation covers:\na. national tax revenue;\nb. tax revenue per Regional Office of the Directorate General of Taxes and/or per Tax Service Office;\nc. tax revenue per type of tax;\nd. tax revenue per business field classification;\ne. the number of registered Taxpayers and/or Taxable Entrepreneurs;\nf. the register of Taxpayer applications;\ng. tax arrears at the national level; and/or\nh. tax arrears per Regional Office of the Directorate General of Taxes and/or per Tax Service Office.\nParagraph (3) The cooperation referred to in this paragraph constitutes the provision or exchange of data and/or information between the Directorate General of Taxes and state institutions, government agencies, legal entities established by Law or Government Regulation, or other parties for the interests of the State in the context of gathering state revenue as well as regional revenue or carrying out good government administration and supporting government policy.\nThe permit letter issued by the Minister of Finance must state the name of the Taxpayer, the name of the appointed party, and the name of the official, expert, or specialist permitted to provide information or show written evidence from or concerning the Taxpayer.\nLetter ...\nSK No 115638 A\nThe permit letter issued by the Minister of Finance in the context of implementing cooperation for the interests of the State may omit the name of the Taxpayer but shall still state the type of data as set out in the cooperation.\nThe granting of such permit shall be carried out on a limited basis in cases deemed necessary by the Minister of Finance.\nParagraph (4)\nParagraph (5) In order to carry out an examination at a court hearing in a criminal or civil case relating to tax matters, for the interests of the administration of justice, the Minister of Finance shall grant a permit exempting tax officials and the experts referred to in paragraph (1) and paragraph (2) from the obligation of confidentiality upon the written request of the presiding judge.\nThis paragraph constitutes a limitation and a confirmation that the tax information requested concerns only the criminal or civil case concerning an act or event relating to the field of taxation and is limited to the suspect concerned.\nItem 12"
+        },
+        "noLabel": {
+          "en": "Article 34"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The prosecution of criminal offences in the field of taxation shall be time-barred 10 (ten) years from the moment the tax becomes due, the end of the Tax Period, part of the Tax Year, or the Tax Year concerned. This is intended to provide legal certainty for the Taxpayer, the Public Prosecutor, and the Judge.\nWhat is meant by \"prosecution\" is the delivery of a notification letter of the commencement of investigation to the public prosecutor through the investigator of the National Police of the Republic of Indonesia and/or to the reported party.\nSK No 115639A Item 13 Item 13"
+        },
+        "noLabel": {
+          "en": "Article 40"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "A\nParagraph (1) Item 14"
+        },
+        "noLabel": {
+          "en": "Article 43"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Paragraph (1)\nParagraph (2) Information, data, reports, and complaints received by the Directorate General of Taxes shall be developed and analysed through intelligence activities and/or other activities the results of which may be followed up by an Audit, a Preliminary Evidence Examination, or not followed up.\nA Preliminary Evidence Examination has the same purpose and standing as an inquiry as regulated in the Law governing criminal procedure law.\nParagraph (1a) Sufficiently clear.\nParagraph (2) Sufficiently clear.\nParagraph (3) Sufficiently clear.\nParagraph (a) Sufficiently clear.\nCertain Civil Servant Officials within the Directorate General of Taxes appointed as investigators of criminal offences in the field of taxation by the competent official are investigators of criminal offences in the field of taxation. The investigation of criminal offences in the field of taxation shall be carried out according to the provisions stipulated in the applicable Criminal Procedure Law.\nLetter a\nSK No I15640 A\nSufficiently clear.\nLetter b\nLetter b Sufficiently clear.\nLetter c Sufficiently clear.\nLetter d Sufficiently clear.\nLetter e Sufficiently clear.\nLetter f Sufficiently clear.\nLetter g Sufficiently clear.\nLetter h Sufficiently clear.\nLetter i Sufficiently clear.\nLetter j Seizure for the purpose of recovering losses to state revenue may be carried out against movable or immovable property, including bank accounts, receivables, and securities belonging to the Taxpayer, the Tax Guarantor, and/or other parties that have been designated as suspects.\nSeizure shall be carried out by the investigator subject to the provisions of criminal procedure law, among others:\n1. a permit from the chairman of the local district court must be obtained;\n2. in a very necessary and urgent situation, the investigator may carry out the seizure and immediately report it to the chairman of the local district court in order to obtain his approval.\nSK No 11564l A What Y What is meant by \"other party\" is a party who orders, participates in, encourages, or assists in the commission of a criminal offence in the field of taxation.\nBlocking shall be carried out by making a blocking request to the competent parties such as banks, land offices, motor vehicle registration offices (samsat) and others.\nLetter k Sufficiently clear\nLetter l Sufficiently clear\nParagraph (3) Sufficiently clear.\nParagraph (a) Sufficiently clear.\nItem 15"
+        },
+        "noLabel": {
+          "en": "Article 44"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "A\nLetter a\nSufficiently clear\nLetter b Sufficiently clear Letter c Sufficiently clear\nLetter d Termination of investigation by operation of law is a ground for the lapse of the right to prosecute and the loss of the right to execute a sentence, among others because the same case cannot be tried a second time (ne bis in idem), the suspect has died, or because of the limitation period as referred to in Article\n40.\nSK No 115642 A Item 16 Item 16"
+        },
+        "noLabel": {
+          "en": "Article 44"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "B\nParagraph (1)\nParagraph (2) PRESIDENT _35_ For the interest of state revenue, at the request of the Minister of Finance, the Attorney General may terminate the investigation of a taxation criminal offence insofar as the said criminal case has not been transferred to the court.\nIn the event that the investigation process has designated more than 1 (one) person or entity as suspect, each suspect also has the right to submit an application for termination of investigation for himself.\nThe application for termination of investigation shall be submitted by the suspect after paying off the amount of loss to state revenue; the amount of tax due not or underpaid; the amount of tax in tax invoices, tax collection evidence, tax withholding evidence, and/or tax deposit evidence; the amount of restitution requested and/or compensation or tax crediting carried out, in accordance with the proportion borne by him plus an administrative sanction in the form of a fine.\nExample:\nThe Investigator conducted an investigation of PT XYZ with a loss to state revenue of Rp100,000,000.00. In that case A and B were designated as suspects. Based on the examination results it was found that A received a benefit of Rp15,000,000.00, whereas B received a benefit of Rp5,000,000.00. A and B then submitted applications for termination of investigation and requested information on the loss to state revenue that they must pay off.\nSK No 115643 A Based on _36_ Based on the benefits received by A and B, the amount of loss to state revenue that must be paid off in the context of the application for termination of investigation is as follows:\n1. A must pay off (Rp15,000,000.00/ Rp20,000,000.00) x Rp100,000,000.00 = Rp75,000,000.00\n2. B must pay off (Rp5,000,000.00/ Rp20,000,000.00) x Rp100,000,000.00 = Rp25,000,000.00\nParagraph (2a)\nParagraph (2b) Considering that the handling of criminal cases in the field of taxation prioritises the recovery of losses to state revenue over punishment, the opportunity for a defendant to pay off the amount of loss to state revenue; the amount of tax due not or underpaid; the amount of tax in tax invoices, tax collection evidence, tax withholding evidence, and/or tax deposit evidence; the amount of restitution requested and/or compensation or tax crediting carried out, in accordance with the proportion borne by him plus an administrative sanction in the form of a fine is extended up to the trial stage.\nWhat is meant by \"prosecuted without the imposition of imprisonment\" is a criminal case which is proven lawfully and convincingly to remain prosecuted and declared guilty but without the imposition of imprisonment for a defendant who is a person. Meanwhile, a fine, whether for a defendant who is a person or an entity, shall still be imposed in the amount that has been paid off by the defendant as referred to in paragraph (2a) and such amount of payment shall be counted as the fine imposed.\nSK No 115644 A\nParagraph (2c) ..\nPRESIDENT\nParagraph (2c) In the event that the payment made by the Taxpayer, suspect, or defendant up to the trial stage does not pay off the amount of loss to state revenue; the amount of tax due not or underpaid; the amount of tax in tax invoices, tax collection evidence, tax withholding evidence, and/or tax deposit evidence; the amount of restitution requested and/or compensation or tax crediting carried out, in accordance with the proportion borne by him plus an administrative sanction in the form of a fine, the defendant shall still be prosecuted and found guilty with the imposition of imprisonment for a defendant who is a person and a fine for a defendant who is a person or an entity, but such payment may be counted as payment of the fine imposed on the defendant.\nParagraph (3) Deleted.\nItem 17"
+        },
+        "noLabel": {
+          "en": "Article 44"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "C\nParagraph (1) Sufficiently clear.\nParagraph (2) Sufficiently clear.\nParagraph (3) The duration of imprisonment as a subsidiary to a fine shall be determined in the judgment of the court."
+        },
+        "noLabel": {
+          "en": "Article 44"
+        },
+        "dupIndex": 4
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "D Sufficiently clear.\nItem 18 Sufficiently clear SK No I15645 A Item 19 _38_ Item 19"
+        },
+        "noLabel": {
+          "en": "Article 44"
+        },
+        "dupIndex": 5
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "E Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 44"
+        },
+        "dupIndex": 6
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Paragraph (1) This Law adheres to the principle of taxation on income in a broad sense, namely that tax is imposed on every additional economic capacity received or obtained by a Taxpayer from whatever source which may be used for consumption or to increase the wealth of the Taxpayer.\nThe meaning of income in this Law does not look at the existence of income from a particular source, but at the existence of additional economic capacity. The additional economic capacity received or obtained by a Taxpayer is the best measure of the ability of the Taxpayer to participate in bearing the costs required by the government for routine activities and development.\nViewed from the flow of additional economic capacity to the Taxpayer, income may be grouped into:\ni. income from work in an employment relationship and independent work such as salary, honorarium, and income from the practice of doctors, notaries, actuaries, accountants, lawyers, and the like; ii. income from business and activities; iii. income from capital, in the form of movable or immovable property, such as interest, dividends, royalties, rent, and gains from the sale of property or rights not used for business; and iv. other income, such as debt forgiveness and prizes.\nSK No 115646 A Viewed .\nViewed from its use, income may be used for consumption and may also be saved in order to increase the wealth of the Taxpayer.\nBecause this Law adheres to a broad meaning of income, all types of income received or obtained in a tax year are combined in order to obtain the tax base. Accordingly, if in one tax year a business or activity suffers a loss, such loss shall be compensated against other income (horizontal compensation), except for losses suffered abroad. Nevertheless, if a type of income is subject to tax at a final rate or is excluded from the tax object, such income may not be combined with other income subject to the general rate.\nThe examples of income referred to in this provision are intended to clarify the meaning of broad income, which is not limited to the examples referred to.\nLetter a\nAll payments or remuneration in connection with employment, such as wages, salaries, life insurance premiums, and health insurance premiums paid by the employer, or remuneration in other forms are the tax object. The meaning of remuneration in other forms includes remuneration in the form of benefits in kind and/or amenities which in essence constitute income.\nIn addition, the meaning of income includes gratuities, which constitute reasonable payments for services and benefits received by the recipient of the gratuity in connection with the performance of work or the provision of services.\nWhat is meant by \"remuneration in the form of benefits in kind\" is remuneration in the form of goods other than money, whereas \"remuneration in the form of amenities\" is remuneration in the form of a right to the utilisation of a facility and/or service.\nSK No 115647 A\nLetter b _40_\nLetter b\nLetter c Sufficiently clear.\nLetter d The meaning of prizes includes prizes from lotteries, from work, as well as from activities such as savings lotteries and prizes from sports competitions.\nWhat is meant by \"award\" is remuneration given in connection with a certain activity, for example remuneration received in connection with the discovery of antiquities.\nIf a Taxpayer sells property at a price higher than the book residual value or higher than the acquisition price or value, the difference in price constitutes a gain. In the event that the sale of such property takes place between a business entity and its shareholders, the selling price used as the basis for calculating the gain from such sale shall be the market price.\nFor example, PT S owns a car used in its business activities with a book residual value of Rp40,000,000.00 (forty million rupiah). The car is sold at a price of Rp60,000,000.00 (sixty million rupiah).\nAccordingly, the gain of PT S obtained from the sale of the said car is Rp20,000,000.00 (twenty million rupiah). If the car is sold to one of its shareholders at a price of Rp55,000,000.00 (fifty-five million rupiah), the selling value of the said car shall still be calculated on the basis of the market price of Rp60,000,000.00 (sixty million rupiah). The difference of Rp20,000,000.00 (twenty million rupiah) constitutes a gain for PT S and, for the shareholder purchasing the said car, the difference of Rp5,000,000.00 (five million rupiah) constitutes income.\nSK No 115648 A Where -41- Where an entity is liquidated, the gain from the sale of property, namely the difference between the selling price based on the market price and the book residual value of such property, is the tax object. Likewise, the excess of the market price over the book residual value in the event of a merger, consolidation, spin-off, split-up, and business takeover constitutes income.\nIn the event of a transfer of property in exchange for shares or equity participation, the gain in the form of the difference between the market price of the property transferred and its book value constitutes income.\nThe gain in the form of the difference between the market price and the acquisition value or book residual value on the transfer of property in the form of grants, assistance, or donations constitutes income for the party transferring it, except where such property is granted to blood relatives in a direct line of descent of one degree. Likewise, the gain in the form of the difference between the market price and the acquisition value or book residual value on the transfer of property in the form of assistance or donations and grants to religious bodies, educational bodies, social bodies including foundations, cooperatives, or individuals carrying on micro and small businesses does not constitute income, insofar as it has no connection with the business, work, ownership, or control between the parties concerned.\nIn the event that a Taxpayer holding a mining right transfers part or all of such right to another Taxpayer, the gain obtained is the tax object.\nLetter e A tax refund that has already been charged as a cost at the time of calculating Taxable Income is the tax object.\nSK No 115649 A As an example, Land and Building Tax that has been paid and charged as a cost, which for some reason is refunded, the amount of such refund constitutes income.\nLetter f\nLetter g The meaning of interest also includes premium, discount, and remuneration in connection with a guarantee for the repayment of debt.\nA premium occurs where, for example, bonds are sold above their nominal value, whereas a discount occurs where bonds are purchased below their nominal value. Such premium constitutes income for the issuer of the bonds and the discount constitutes income for the purchaser of the bonds.\nA dividend is the share of profit obtained by a shareholder or by a policyholder of an insurance company.\nIncluded in the meaning of dividend are:\n1) the distribution of profit, whether directly or indirectly, under any name and in any form;\n2) repayment owing to liquidation in excess of the amount of capital paid in;\n3) the granting of bonus shares effected without payment, including bonus shares originating from the capitalisation of share premium;\n4) the distribution of profit in the form of shares;\n5) the recording of additional capital effected without payment;\n6) the amount in excess of the amount of their share subscription received or obtained by shareholders owing to the repurchase of shares by the company concerned;\nSK No 115650 A\n7) payment\n7) the repayment in whole or in part of the capital paid in, if in previous years profits were obtained, except where such repayment results from a reduction of the authorised capital (statute) effected lawfully;\n8) payments in connection with profit-sharing certificates, including those received as redemption of such profit-sharing certificates;\n9) the share of profit in connection with the holding of bonds;\n10) the share of profit received by policyholders;\n11) company expenditure for the private purposes of shareholders charged as company costs.\nIn practice, the distribution or payment of dividends in disguised form is frequently encountered, for example where a shareholder who has fully paid up his capital grants a loan to the company against interest exceeding what is reasonable. Where this occurs, the excess of the interest paid over the interest rate prevailing in the market shall be treated as a dividend. The portion of interest treated as a dividend may not be charged as a cost by the company concerned.\nLetter h A royalty is an amount paid or payable in any manner or on any calculation, whether effected periodically or not, as remuneration for:\n1. the use of or the right to use copyright in the fields of literature, art or scientific works, patents, designs or models, plans, secret formulas or processes, trade marks, or other forms of intellectual/industrial property rights or other similar rights;\nSK No 115651 A\n2. the use\n2. the use of or the right to use industrial, commercial, or scientific equipment/apparatus;\n3. the provision of knowledge or information in the scientific, technical, industrial, or commercial field;\n4. the provision of additional or supplementary assistance in connection with the use of or the right to use the rights referred to in item 1, the use of or the right to use the equipment/apparatus referred to in item 2, or the provision of the knowledge or information referred to in item 3, in the form of:\na) the receipt of or the right to receive image recordings or sound recordings or both, which are transmitted to the public by satellite, cable, optical fibre, or similar technology;\nb) the use of or the right to use image recordings or sound recordings or both, for television or radio broadcasts transmitted/broadcast by satellite, cable, optical fibre, or similar technology;\nc) the use of or the right to use part or all of the radio communication spectrum;\n5. the use of or the right to use motion picture films, films or video tapes for television broadcast, or sound tapes for radio broadcast; and\n6. the release in whole or in part of rights relating to the use or the granting of intellectual/industrial property rights or other rights as referred to above.\nSK No 115652 A\nLetter i _45_\nLetter i\nLetter j\nLetter k\nLetter l\nLetter m The meaning of rent includes remuneration received or obtained under any name and in any form in connection with the use of movable or immovable property, for example car rental, office rental, house rental, and warehouse rental.\nReceipts in the form of periodic payments, for example \"alimentary\" payments or life annuities paid repeatedly over a certain period.\nThe forgiveness of debt by the creditor is regarded as income for the party originally indebted, whereas for the creditor it may be charged as a cost.\nHowever, by Government Regulation it may be determined that the forgiveness of debt of small debtors, for example the Pre-Prosperous Family Business Credit (Kukesra), the Farming Business Credit (KUT), the People's Business Credit (KUR), credit for very simple housing, as well as other small credits up to a certain amount, is excluded as a tax object.\nThe gain obtained owing to fluctuations in foreign currency exchange rates is recognised on the basis of the bookkeeping system adopted and applied consistently in accordance with the Financial Accounting Standards applicable in Indonesia.\nThe excess arising from the revaluation of assets as referred to in Article 19 constitutes income.\nSK No 115653 A\nLetter n _46_\nLetter n\nLetter o Sufficiently clear\nLetter p\nLetter q\nLetter r Sufficiently clear.\nLetter s Sufficiently clear.\nParagraph (1a) Sufficiently clear.\nParagraph (1b) Sufficiently clear.\nParagraph (1c) Sufficiently clear.\nParagraph (1d) Deleted.\nThe meaning of insurance premium includes reinsurance premium.\nNet worth accretion is in essence the accumulation of income, whether already subject to tax or not a tax object as well as not yet subject to tax. If it becomes known that there is a net worth accretion exceeding the accumulation of income already subject to tax and not a tax object, then such net worth accretion constitutes income.\nSharia-based business activities have a philosophical foundation different from that of conventional business activities. However, the income received or obtained from such sharia-based business activities remains a tax object under this Law.\nSK No 115654 A\nParagraph (2) ...\n_47_\nParagraph (2) In accordance with the provisions of paragraph (1), the income referred to in this paragraph is the tax object. On the basis of considerations including: the need for an impetus in the context of the development of investment and public savings;\n-- simplicity in tax collection; the reduction of the administrative burden both for Taxpayers and for the Directorate General of Taxes; equity in the imposition of the tax; and having regard to economic and monetary developments, it is necessary to give separate treatment in the imposition of tax on such income.\nThe separate treatment in the imposition of tax on such types of income, including the nature, the amount, and the procedure for the implementation of payment, withholding, or collection, shall be regulated in a Government Regulation.\nThe bonds referred to in this paragraph include debt securities with a term of more than 12 (twelve) months, such as Medium Term Notes and Floating Rate Notes with a term of more than 12 (twelve) months.\nThe State Debt Securities referred to in this paragraph cover Government Bonds and Treasury Bills.\nParagraph (3)\nLetter a\nAssistance or donations for the recipient party are not a tax object insofar as they are received not in the context of an employment relationship, a business relationship, a relationship of ownership, or a relationship of control between the parties concerned. Zakat, infaq, and sadaqah received by an amil zakat body or an amil zakat institution established or ratified by the government and by the entitled recipients of zakat, SK No 115655 A as well as _48_ as well as religious donations of a mandatory nature for adherents of other religions recognised in Indonesia received by religious institutions established or ratified by the government and received by the entitled recipients of the donations shall be treated in the same manner as assistance or donations. What is meant by \"zakat\" is zakat as referred to in the Law regulating zakat.\nA business relationship between the party giving and the party receiving may occur, for example where PT A is a producer of a certain type of goods whose main raw material is produced by PT B. If PT B provides a donation of raw materials to PT A, the donation of raw materials received by PT A is the tax object.\nProperty granted for the recipient party is not a tax object if received by blood relatives in a direct line of descent of one degree, and by religious bodies, educational bodies, or social bodies including foundations or individuals carrying on micro and small businesses including cooperatives, insofar as it is received not in the context of an employment relationship, a business relationship, a relationship of ownership, or a relationship of control between the parties concerned.\nLetter b Sufficiently clear\nLetter c In principle, property, including cash deposits, received by an entity constitutes additional economic capacity for such entity.\nHowever, because such property is received in exchange for shares or equity participation, under this provision the property so received is not a tax object.\nSK No 115656 A\nLetter d .\n_49_\nLetter d A certain area is an area that meets the criteria of, among others, a remote area, namely an area which economically has potential worth developing but whose economic infrastructure is generally inadequate and which is difficult to reach by public transport, whether by land, sea or air, so that in order to convert the available economic potential into real economic strength, investors bear a fairly high risk and a relatively long payback period, including marine waters having a depth of more than 50 (fifty) metres whose seabed holds mineral reserves.\nLetter e Compensation or indemnity received by an individual from an insurance company in connection with health insurance, accident insurance, life insurance, endowment insurance, and scholarship insurance policies is not a tax object. This is consistent with the provision in Article 9 paragraph (1) letter d, namely that insurance premiums paid by an individual Taxpayer for his own benefit may not be deducted in the calculation of Taxable Income.\nLetter f Sufficiently clear.\nLetter g The exclusion as a tax object under this provision applies only to pension funds whose establishment has obtained approval from the Financial Services Authority. What is excluded from the tax object is the contributions received from pension participants, whether borne by themselves or borne by the employer. Basically, the contributions received by such pension funds constitute funds belonging to the pension participants, which will be paid back to them in due course. The imposition of tax on such contributions would mean reducing the rights of the pension participants, and therefore such contributions are excluded as a tax object.\nSK No 115657 A\nLetter h ...\n_50_\nLetter h As stated in letter g, the exclusion as a tax object under this provision applies only to pension funds whose establishment has obtained approval from the Financial Services Authority. What is excluded from the tax object in this case is income from capital invested in certain fields.\nInvestment by pension funds is intended for development and constitutes funds for repayment to pension participants in the future, so that such investment needs to be directed to fields that are not speculative or high-risk.\nLetter i For the purposes of the imposition of tax, the bodies referred to in this provision which constitute associations of their members shall be taxed as a single entity, namely at the level of such body. Therefore, the share of profit or the remainder of business results received by the members of such body is no longer a tax object.\nLetter j Sufficiently clear.\nLetter k What is meant by \"venture capital company\" is a company whose business activities consist of financing a business entity (as a partner company) in the form of equity participation for a certain period. Under this provision, the share of profit received or obtained from the partner company is not included as a tax object, provided that the partner company is a micro, small or medium enterprise, or one carrying on business or conducting activities in certain sectors determined by the Minister of Finance, and that the shares of such company are not traded on a stock exchange in Indonesia.\nSK No 115658 A If a partner company of a venture capital company fulfils the provisions referred to in paragraph (3) letter f, the dividend received or obtained by the venture capital company is not a tax object.\nIn order that the activities of venture capital companies may be directed to sectors of economic activity that receive priority for development, for example to increase non-oil and gas exports, the business or activities of such partner companies shall be regulated by the Minister of Finance.\nConsidering that a venture capital company is an alternative form of financing in the form of equity participation, the equity participation to be undertaken by venture capital companies shall be directed to companies that do not yet have access to the stock exchange.\nLetter l\nLetter m Sufficiently clear.\nIn order to support efforts to improve the quality of human resources through education and/or research and development, adequate facilities and infrastructure are required. For that purpose it is considered necessary to provide a taxation facility in the form of exemption from the imposition of tax on the surplus received or obtained, insofar as such surplus is reinvested in the form of the construction and procurement of facilities and infrastructure for the said activities. The reinvestment of the said surplus must be realised at the latest within a period of 4 (four) years from the receipt or acquisition of such surplus.\nIn order to ensure the achievement of the purpose of granting this facility, the institution or body organising education must be non-profit in nature. The education as well as research and development organised must be open to anyone and must have obtained approval from the authority competent in the field.\nLetter n ...\nSK No 115659 A Item 2"
+        },
+        "noLabel": {
+          "en": "Article 4"
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Letter n Assistance or indemnity provided by the Social Security Administering Body (BPJS) to certain Taxpayers is social assistance provided specifically to Taxpayers or members of the community who are unable or who are suffering from a natural disaster or have been struck by misfortune.\nLetter o Sufficiently clear.\nLetter p Sufficiently clear.\nParagraph (1) Costs deductible from gross income may be divided into 2 (two) classes, namely costs or expenses having a useful life of not more than 1 (one) year and those having a useful life of more than 1 (one) year. Costs having a useful life of not more than 1 (one) year are expenses of the year concerned, for example salaries, administrative and interest expenses, and routine waste treatment costs, whereas expenditure having a useful life of more than 1 (one) year is charged through depreciation or through amortisation. In addition, if in a tax year a loss is incurred owing to the sale of property or owing to an exchange rate difference, such loss may be deducted from gross income.\nLetter a\nThe costs referred to in this paragraph are commonly called day-to-day costs which may be charged in the year of expenditure.\nIn order to be chargeable as a cost, such expenditure must have a direct or indirect connection with the business or activity of obtaining, collecting, and maintaining income which is a tax object.\nSK No 115660 A\nAccordingly ...\nAccordingly, expenditure to obtain, collect, and maintain income which is not a tax object may not be charged as a cost.\nExample:\nPension Fund A, whose establishment has obtained approval from the Financial Services Authority, obtains gross income consisting of:\na. income which is not a tax object in accordance with Article 4\nparagraph (3) letter h\nb. other gross income amounting to Total gross income Rp100,000,000.00 Rp300,000,000.00 (+) Rp400,000,000.00 If all costs amount to Rp200,000,000.00 (two hundred million rupiah), the costs deductible to obtain, collect, and maintain income amount to 3/4 x Rp200,000,000.00 = Rp150,000,000.00.\nLikewise, interest on a loan used to purchase shares may not be charged as a cost insofar as the dividends received are not a tax object as referred to in Article 4 paragraph (3)\nletter f. Interest on such non-deductible loan may be capitalised as an addition to the acquisition price of the shares.\nExpenditure having no connection with efforts to obtain, collect, and maintain income, for example expenditure for the private purposes of shareholders, payment of interest on loans used for the private purposes of the borrower as well as payment of insurance premiums for private purposes, may not be charged as a cost.\nSK No 115661 A Payment ... Payment of insurance premiums by an employer for the benefit of its employees may be charged as a company cost, but for the employee concerned such premium constitutes income.\nExpenditure deductible from gross income must be incurred within reasonable limits in accordance with the good commercial usage of traders. Accordingly, if expenditure exceeding such reasonable limit is influenced by a special relationship, the amount exceeding the reasonable limit may not be deducted from gross income.\nSee further the provisions in Article 9 paragraph (1)\nletter f and Article 18 together with their explanations.\nTaxes borne by a company in the context of its business other than Income Tax, for example Land and Building Tax (PBB), Stamp Duty (BM), Hotel Tax, and Restaurant Tax, may be charged as costs.\nAs regards expenditure for promotion, it is necessary to distinguish between costs genuinely incurred for promotion and costs which in essence constitute donations. Costs genuinely incurred for promotion may be deducted from gross income.\nLetter b Expenditure to acquire tangible property and intangible property as well as other expenditure having a useful life of more than 1 (one) year shall be charged through depreciation or amortisation.\nSee further the provisions of Article 9 paragraph (2), Article 11, and Article 11A together with their explanations.\nExpenditure which by its nature constitutes an advance payment, for example rent for several years paid in a lump sum, may be charged through allocation.\nLetter c ...\nSK No 115662 A\nLetter c\nLetter d\nLetter e in Indonesia\nLetter f Contributions to a pension fund whose establishment has been ratified by the Financial Services Authority may be charged as costs, whereas contributions paid to a pension fund whose establishment has not been or has not yet been ratified by the Financial Services Authority may not be charged as costs.\nA loss from the sale or transfer of property which by its original purpose was not intended to be sold or transferred, which is held and used in the company or which is held to obtain, collect, and maintain income, may be deducted from gross income.\nA loss from the sale or transfer of property which is held but not used in the company, or which is held but not used to obtain, collect, and maintain income, may not be deducted from gross income.\nA loss from fluctuations in foreign currency exchange rates is recognised on the basis of the bookkeeping system adopted and applied consistently in accordance with the applicable Financial Accounting Standards Research and development costs of a company carried out in Indonesia in a reasonable amount to discover new technology or systems for the development of the company may be charged as company costs.\nLetter g ...\nSK No 115663 A\nLetter g Costs incurred for scholarships, internships, and training in the context of improving the quality of human resources may be charged as company costs, having regard to reasonableness; the scholarships that may be charged as costs include scholarships granted to pupils, students, and other parties.\nLetter h Receivables that are manifestly uncollectible may be charged as costs insofar as the Taxpayer has recognised them as costs in the commercial profit and loss statement and has carried out maximum or final collection efforts.\nPublication does not only mean publication on a national scale, but also internal publication by associations and the like.\nLetter i Sufficiently clear.\nLetter j Sufficiently clear.\nLetter k What is meant by \"social infrastructure development costs\" is costs incurred for the purpose of building facilities and infrastructure for the public interest and being non-profit in nature.\nExamples of social infrastructure include, among others, places of worship, cultural and arts centres, and polyclinics.\nLetter l\nSufficiently clear.\nLetter m Sufficiently clear.\nLetter n Sufficiently clear.\nSK No 115664 A\nParagraph (2) ...\n[The remainder of this page in the source is a table of example calculations (a comparative statement of commercial and fiscal profit and loss for PT A for Tax Years 2010-2012) that appears in the original rotated through 180 degrees; the OCR text of this line is not recoverable. The figures should be verified against page 51 of the official text.] Item 3"
+        },
+        "noLabel": {
+          "en": "Article 6"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The fiscal loss for the year 2009 of Rp100,000,000.00 (one hundred million rupiah) remaining at the end of the year 2014 may no longer be compensated against the fiscal profit for the year 2015, whereas the fiscal loss for the year 2011 of Rp300,000,000.00 (three hundred million rupiah) may only be compensated against the fiscal profit for the year 2015 and the year 2016, because the five-year period commencing from the year 2012 ends at the end of the year 2016.\nParagraph (3) In calculating the Taxable Income of a domestic individual Taxpayer, a deduction is given to him in the form of Non-Taxable Income (PTKP) based on the provisions referred to in Article 7.\nParagraph (1) In order to calculate the amount of Taxable Income of a domestic individual Taxpayer, his net income is reduced by the amount of Non-Taxable Income. In addition to that for himself, a Taxpayer who is married is given an additional Non-Taxable Income.\nFor a Taxpayer whose wife receives or obtains income that is combined with his income, such Taxpayer receives an additional Non-Taxable Income for one wife of at least Rp54,000,000.00 (fifty-four million rupiah).\nA Taxpayer who has blood relatives and relatives by marriage in a direct line of descent who are wholly dependent on him, for example parents, parents-in-law, natural children, or adopted children, is given an additional Non-Taxable Income for at most 3 (three) persons. What is meant by \"family members who are wholly dependent\" is family members who have no income and whose entire cost of living is borne by the Taxpayer.\nSK No 115666 A Example:\nExample:\nTaxpayer A has a wife with 4 (four) dependent children. If his wife obtains income from one employer and that income has already been withheld for Article 21 Income Tax and that work has no connection with the husband's business or that of other family members, the amount of Non-Taxable Income granted to Taxpayer A is Rp72,000,000.00 (Rp54,000,000.00 + Rp4,500,000.00 + (3 x Rp4,500,000.00)), whereas for his wife, at the time of the withholding of Article 21 Income Tax by the employer, a Non-Taxable Income of Rp54,000,000.00 (fifty-four million rupiah) is granted.\nIf the wife's income must be combined with the husband's income, the amount of Non-Taxable Income granted to Taxpayer A is Rp126,000,000.00 (Rp72,000,000.00 + Rp54,000,000.00).\nParagraph (2)\nParagraph (2a) Sufficiently clear\nParagraph (3) The calculation of the amount of Non-Taxable Income as referred to in paragraph (1) shall be determined according to the circumstances of the Taxpayer at the beginning of the tax year or at the beginning of part of the tax year.\nFor example, on 1 January 2021 Taxpayer B is married with 1 (one) dependent child. If the second child is born after 1 January 2021, the amount of Non-Taxable Income granted to Taxpayer B for the tax year 2021 shall still be calculated on the basis of the status of being married with 1 (one) child.\nUnder this provision the Minister of Finance is given the authority to amend the amount of:\na. the Non-Taxable Income as referred to in paragraph (1); and SK No 115667 A\nb. the limit ...\nb. the threshold of gross turnover not subject to Income Tax as referred to in paragraph (2a), after consulting the permanent working organs of the House of Representatives of the Republic of Indonesia, namely the commission whose duties and authority lie in the fields of finance, banking, and development planning, having regard to economic and monetary developments as well as developments in the prices of basic necessities each year.\nItem 4"
+        },
+        "noLabel": {
+          "en": "Article 7"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Paragraph (1) Expenditure incurred by a Taxpayer may be distinguished between expenditure that may and that may not be charged as a cost.\nIn principle, the costs deductible from gross income are costs having a direct and indirect connection with the business or activity of obtaining, collecting, and maintaining income which is a tax object, the charging of which may be effected in the year of expenditure or over the useful life of such expenditure. Expenditure that may not be deducted from gross income covers expenditure which by its nature is a use of income or the amount of which exceeds what is reasonable.\nLetter a\nThe distribution of profit under any name and in any form, including the payment of dividends to owners of capital, the distribution of the remainder of the business results of a cooperative to its members, and the payment of dividends by an insurance company to policyholders, may not be deducted from the income of the entity distributing them, because such distribution of profit constitutes part of the income of such entity that will be subject to tax under this Law.\nSK No 115668 A\nLetter b\nLetter b\nLetter c Sufficiently clear.\nLetter d\nLetter e Deleted.\nLetter f Costs that may not be deducted from the gross income of a company are costs incurred or charged by the company for the private purposes of shareholders, partners or members, such as repairs to private houses, travel costs, and insurance premium costs paid by the company for the private purposes of the shareholders or their families.\nPremiums for health insurance, accident insurance, life insurance, endowment insurance, and scholarship insurance paid by an individual Taxpayer himself may not be deducted from gross income, and at the time the individual concerned receives insurance compensation or indemnity, such receipt is not a tax object.\nIf such insurance premiums are paid or borne by the employer, then for the employer such payment may be charged as a cost and for the employee concerned it constitutes income which is a tax object.\nIn an employment relationship, it is possible that payment of remuneration may occur to an employee who is also a shareholder. Because basically the expenditure to obtain, collect, and maintain income that may be deducted from gross income is expenditure the amount of which is reasonable in accordance with business custom, under this provision the amount exceeding such reasonableness may not be charged as a cost.\nSK No 115669 A Amount ...\nThe reasonable amount as referred to in this paragraph is an amount not exceeding the amount that should have been incurred by the employer as remuneration in connection with the work if it had been performed by a party having no special relationship.\nFor example, an expert who is a shareholder of an entity provides services to such entity and obtains remuneration of Rp50,000,000.00 (fifty million rupiah).\nIf for the same services provided by another comparable expert only Rp20,000,000.00 (twenty million rupiah) is paid, the amount of Rp30,000,000.00 (thirty million rupiah) may not be charged as a cost. For the expert who is also such a shareholder, the said amount of Rp30,000,000.00 (thirty million rupiah) is regarded as a dividend.\nLetter g Sufficiently clear.\nLetter h What is intended by Income Tax in this provision is the Income Tax due by the Taxpayer concerned.\nLetter i Costs for the private purposes of a Taxpayer or of persons dependent on him are in essence the use of income by the Taxpayer concerned. Therefore such costs may not be deducted from the gross income of the company.\nLetter j Members of a firm, partnership and limited partnership whose capital is not divided into shares are treated as a single entity, so that there is no remuneration in the form of salary.\nAccordingly ...\nSK No 115670 A Accordingly, salaries received by members of a partnership, firm, or limited partnership whose capital is not divided into shares do not constitute payments deductible from the gross income of such entity.\nLetter k Sufficiently clear.\nParagraph (2) In accordance with business custom, expenditure that plays a role in producing income for several years shall be charged in accordance with the number of years during which such expenditure plays a role in producing income.\nIn line with the principle of matching expenditure against income, under this provision expenditure to obtain, collect, and maintain income having a useful life of more than 1 (one) year may not be deducted as a company cost at once in the year of expenditure, but shall be charged through depreciation and amortisation over its useful life as regulated in Article 11 and Article 11A.\nItem 5"
+        },
+        "noLabel": {
+          "en": "Article 9"
+        }
+      },
+      {
+        "no": 1,
+        "text": {
+          "en": "Paragraph (1) and paragraph (2) Expenditure to acquire tangible property having a useful life of more than 1 (one) year must be charged as a cost to obtain, collect, and maintain income by allocating such expenditure over the useful life of the tangible property through depreciation.\nExpenditure to acquire land held under title of ownership, including land with the status of building use rights, business use rights, and use rights for the first time, may not be depreciated, except where such land is used in the company or is held to obtain income on condition that the value of such land decreases owing to its use to obtain income, for example land used for a tile company, a ceramics company, or a brick company.\nThe ...\nSK No 115671 A What is meant by \"expenditure to acquire land held under building use rights, business use rights, and use rights for the first time\" is the cost of acquiring land with the status of building use rights, business use rights, and use rights from third parties and the administration of such rights from the competent authority for the first time, whereas the cost of extending building use rights, business use rights, and use rights shall be amortised over the term of such rights.\nThe depreciation methods permitted under this provision are carried out:\na. in equal parts over the useful life prescribed for such property (straight-line method); or\nb. in decreasing parts by applying a depreciation rate to the book residual value (declining balance method).\nThe use of a depreciation method for property must be applied consistently.\nFor tangible property in the form of buildings, depreciation may only be made using the straight-line method. Tangible property other than buildings may be depreciated using the straight-line method or the declining balance method.\nIn the event that a Taxpayer chooses to use the declining balance method, the book residual value at the end of the useful life must be depreciated in full.\nIn accordance with the Taxpayer's bookkeeping, small tools that are the same or of a similar kind may be depreciated in one group.\nExample of the use of the straight-line method:\nA building whose acquisition cost is Rp1,000,000,000.00 (one billion rupiah) and whose useful life is 20 (twenty) years shall be depreciated each year in the amount of Rp50,000,000.00 (Rp1,000,000,000.00 : 20).\nExample ...\nSK No 115672 A Example of the use of the declining balance method:\nA machine purchased and placed in service in January 2009 with an acquisition cost of Rp150,000,000.00 (one hundred and fifty million rupiah).\nThe useful life of such machine is 4 (four) years. If the depreciation rate is set at, for example, 50% (fifty per cent), the calculation of its depreciation is as follows:\nParagraph (3) Depreciation begins in the month in which the expenditure is incurred or in the month in which the work on a property is completed, so that the depreciation in the first year is calculated pro rata.\nExample 1:\nExpenditure for the construction of a building amounts to Rp1,000,000,000.00 (one billion rupiah). Construction began in October 2009 and was completed for use in March 2010. Depreciation of the acquisition cost of the said building begins in March of the tax year\n2010.\nExample 2:\nA machine purchased and placed in service in July 2009 with an acquisition cost of Rp100,000,000.00 (one hundred million rupiah). The useful life of such machine is 4 (four) years. If the depreciation rate is set at, for example, 50% (fifty per cent), the calculation of its depreciation is as follows:\nYear Depreciation Rate Book Residual Value\nAcquisition Cost 150,000,000.00 2009 50% 75,000,000.00 75,000,000.00 2010 50% 37,500,000.00 37,500,000.00 2011 50% 18,750,000.00 18,750,000.00 2012 Depreciated in full\n18,750,000.00 0.00 SK No 115673 A Year Year Depreciation Rate Book Residual Value Acquisition Cost 100,000,000.00 2009 6/12 x 50% 25,000,000.00 75,000,000.00 2010 50% 37,500,000.00 37,500,000.00 2011 50% 18,750,000.00 18,750,000.00 2012 50% 9,375,000.00 9,375,000.00 2013 Depreciated in full\n9,375,000.00 0.00\nParagraph (4) Based on the approval of the Director General of Taxes, the commencement of depreciation may be effected in the month in which the property is used to obtain, collect, and maintain income or in the month in which the property begins to produce income. The commencement of production in this provision is linked to the commencement of production operations and is not linked to the time the income is received or obtained.\nExample:\nPT X, which is engaged in the plantation sector, purchased a tractor in 2009. The plantation began to produce (harvest) in 2010. With the approval of the Director General of Taxes, the depreciation of the said tractor may be effected starting from 2010.\nParagraph (5) Sufficiently clear.\nParagraph (6) In order to provide legal certainty for Taxpayers in carrying out depreciation of expenditure on tangible property, this provision regulates the groups of useful life of property and the depreciation rates according to both the straight-line method and the declining balance method.\nSK No 115674 A What is meant by \"non-permanent buildings\" is buildings that are temporary in nature and made of non-durable materials or buildings that can be moved, whose useful life is not more than 10 (ten) years, for example barracks or dormitories made of wood for employees.\nParagraph (6a) Sufficiently clear.\nParagraph (7) In order to adapt to the characteristics of certain business fields, such as plantations of perennial crops, forestry, and livestock, it is necessary to provide separate arrangements for the depreciation of tangible property used in such certain business fields.\nParagraph (8) and paragraph (9) Basically the gain or loss from the transfer of property is subject to tax in the year in which the transfer of such property is made.\nIf such property is sold or destroyed by fire, the net proceeds from the sale of such property, namely the difference between the selling price and the costs incurred in connection with such sale and/or the insurance compensation, shall be recorded as income in the year in which the sale occurs or the year in which the insurance compensation is received, and the book residual value of such property shall be charged as a loss in the tax year concerned.\nIn the event that the amount of insurance compensation received can only be ascertained with certainty at a later time, the Taxpayer may submit an application to the Director General of Taxes so that the amount of such loss may be charged in the year of such insurance compensation.\nParagraph (10) Departing from the provisions referred to in paragraph (8), in the event of a transfer of tangible property that fulfils the requirements referred to in"
+        },
+        "noLabel": {
+          "en": "Article 1"
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "may not be charged as a loss by the party transferring it.\nParagraph (11) ...\nSK No 115675 A\nParagraph (11) Deleted.\nItem 6"
+        },
+        "noLabel": {
+          "en": "Article 4"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 1,
+        "text": {
+          "en": "Paragraph (1) The acquisition cost of intangible property and other expenditure, including the cost of extending building use rights, business use rights, use rights, and goodwill having a useful life of more than 1 (one) year, shall be amortised by the method of:\na. equal parts each year over the useful life; or\nb. decreasing parts each year by applying an amortisation rate to the book residual value.\nSpecifically for the amortisation of intangible property using the declining balance method, at the end of the useful life the book residual value of such intangible property or rights shall be amortised in full.\nParagraph (1a) Amortisation begins in the month in which the expenditure is incurred, so that the amortisation in the first year is calculated pro rata.\nIn order to adapt to the characteristics of certain business fields, it is necessary to provide separate arrangements for the time at which amortisation begins.\nParagraph (2) The determination of the useful life and the amortisation rate for expenditure on intangible property is intended to provide uniformity for Taxpayers in carrying out amortisation.\nSK No 115676 A A Taxpayer _69_ A Taxpayer may carry out amortisation in accordance with the method chosen by it as referred to in\nparagraph (1) on the basis of the actual useful life of each item of intangible property. The amortisation rate applied shall be based on the group of useful life as regulated in this provision. For intangible property whose useful life is not listed in the existing groups of useful life, the Taxpayer shall use the nearest useful life. For example, intangible property with an actual useful life of 6 (six) years may use the group of useful life of 4 (four) years or 8 (eight) years. In the event that the actual useful life is 5 (five) years, such intangible property shall be amortised using the group of useful life of 4 (four) years.\nParagraph (2a)\nParagraph (3)\nParagraph (4) Sufficiently clear.\nSufficiently clear.\nThe unit-of-production method is carried out by applying an amortisation rate percentage the amount of which each year equals the percentage of the ratio between the realised extraction of oil and gas in the year concerned and the estimated total producible oil and gas content at such location.\nIf it turns out that the actual production volume is smaller than estimated, so that there remains residual expenditure to acquire the right or other expenditure, such residual expenditure may be charged in full in the tax year concerned.\nSK No 115677 A\nParagraph (5) ...\n_70_\nParagraph (5) Expenditure to acquire mining rights other than oil and gas, forest exploitation rights, and rights to exploit natural resources and other natural products such as the right to exploit marine products shall be amortised on the unit-of-production method at a maximum of 20% (twenty per cent) per year.\nExample:\nExpenditure to acquire forest exploitation rights having a potential of 10,000,000 (ten million) tonnes of timber amounting to Rp500,000,000.00 (five hundred million rupiah) shall be amortised in accordance with the percentage of units of production realised in the year concerned. If in 1 (one) tax year the production volume reaches 3,000,000 (three million) tonnes, which means 30% (thirty per cent) of the available potential, although the production volume in that year reaches 30% (thirty per cent) of the available potential, the amount of amortisation permitted to be deducted from gross income in that year is 20% (twenty per cent) of the expenditure, namely Rp100,000,000.00 (one hundred million rupiah).\nParagraph (6) Within the meaning of expenditure incurred before commercial operations are the costs incurred before commercial operations, for example feasibility study costs and trial production costs, but excluding operational costs of a routine nature, such as employee salaries, electricity and telephone bill costs, and other office costs. Such routine operational expenditure may not be capitalised but shall be charged in full in the year of expenditure.\nSK No 115678 A\nParagraph (7) .\n-71-\nParagraph (7) Example:\nPT X incurred costs to acquire oil and gas mining rights at a certain location amounting to Rp500,000,000.00. The estimated total oil content in the area is 200,000,000 (two hundred million) barrels. After oil and gas production reached 100,000,000 (one hundred million) barrels, PT X sold such mining right to another party at a price of Rp300,000,000.00. The calculation of the income and loss from the sale of such right is as follows:\nAcquisition cost Rp500,000,000.00 Amortisation already made:\n100,000,000 / 200,000,000 barrels (50%) Book value of property Selling price of property Rp250,000,000.00 Rp250,000,000.00 Rp300,000,000.00 Accordingly, the amount of the book residual value of Rp250,000,000.00 shall be charged as a loss and the amount of Rp300,000,000.00 shall be recorded as income.\nParagraph (8) Sufficiently clear.\nItem 7"
+        },
+        "noLabel": {
+          "en": "Article 1"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Paragraph (1)\nLetter a\nExample of the calculation of tax due for an individual Taxpayer:\nAmount of Taxable Income\nRp6,000,000,000.00 (six billion rupiah).\nSK No 115679 A Income Tax ...\nIncome Tax due:\n5% 15% 25% 30% 35% x Rp60,000,000.00 = x Rp190,000,000.00 = x Rp250,000,000.00 = x Rp4,500,000,000.00 = x Rp1,000,000,000.00 = Rp3,000,000.00 Rp28,500,000.00 Rp62,500,000.00 Rp1,350,000,000.00 Rp350,000,000.00 (+) Rp1,794,000,000.00\nLetter b Example of the calculation of tax due for a domestic corporate Taxpayer and a permanent establishment:\nThe Taxable Income of PT A in the tax year 2022 is Rp1,500,000,000.00 (one billion five hundred million rupiah).\nIncome Tax due for the tax year 2022:\n22% x Rp1,500,000,000.00 = Rp330,000,000.00.\nParagraph (2) A change of rate shall be applied nationally commencing 1 January and shall be announced at the latest 1 (one) month before the new rate takes effect.\nParagraph (2a) Deleted.\nParagraph (2b) Sufficiently clear.\nParagraph (2c) Sufficiently clear.\nParagraph (2d) Sufficiently clear.\nParagraph (2e) ..\nSK No 115680 A _73_\nParagraph (2e) Sufficiently clear.\nParagraph (3) The amount of the brackets of Taxable Income as referred to in paragraph (1) letter a shall be adjusted by an adjustment factor, including the inflation rate, as determined by Minister of Finance Regulation.\nParagraph (4) Example:\nTaxable Income of Rp5,050,900.00 for the application of the rate shall be rounded down to Rp5,050,000.00.\nParagraph (5) Sufficiently clear.\nParagraph (6) Example:\nThe Taxable Income of an individual Taxpayer for a year (calculated in accordance with the provisions of Article 16 paragraph (4)): Rp584,160,000.00 (five hundred and eighty-four million one hundred and sixty thousand rupiah).\nIncome Tax for a year:\n5% x Rp60,000,000.00 = Rp3,000,000.00 15% x Rp190,000,000.00 = Rp28,500,000.00 25% x Rp250,000,000.00 = Rp62,500,000.00 30% x Rp84,160,000.00 = Rp25,248,000.00 (+) Rp119,248,000.00 Income Tax due in part of the tax year (3 months) ((3 x 30) : 360) x Rp119,248,000.00 = Rp29,812,000.00\nParagraph (7) The provision in this paragraph gives authority to the Government to determine a separate tax rate which may be final on certain types of income as referred to in Article 4 paragraph (2), insofar as it is not higher than the highest tax rate as referred to in paragraph (1). The determination of such separate tax rate shall be based on considerations of simplicity, fairness, and equity in the imposition of tax.\nSK No 115681 A Item 8 ...\nItem 8"
+        },
+        "noLabel": {
+          "en": "Article 17"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The Government has the authority to prevent tax avoidance practices as efforts made by a Taxpayer to reduce, avoid, or defer the payment of tax that should be due which is contrary to the intent and purpose of the provisions of laws and regulations in the field of taxation. One means of tax avoidance is to carry out transactions that do not correspond to the actual circumstances, which is contrary to the substance over form principle, namely the recognition of economic substance over its formal form.\nParagraph (1) In determining the limit on the amount of borrowing costs that may be charged for tax purposes, use is made of methods commonly applied in the international world, for example through the method of determining a certain reasonable comparative ratio regarding the magnitude of the ratio between debt and capital (debt to equity ratio), through a certain percentage of borrowing costs compared with business income before deduction of borrowing costs, tax, depreciation and amortisation (earnings before interest, taxes, depreciation, and amortization), or through other methods.\nParagraph (2) With the increasing development of the economy and international trade in line with the era of globalisation, it may occur that a domestic Taxpayer invests its capital abroad. In order to reduce the possibility of tax avoidance, in respect of investment abroad other than in a business entity whose shares are sold on a stock exchange, the Minister of Finance has the authority to determine the time at which dividends are deemed to be obtained.\nSK No 115682 A Example: _75_ Example:\nPT A and PT B hold shares of 40% (forty per cent) and 20% (twenty per cent) respectively in X Ltd. which is domiciled in country Q.\nThe shares of X Ltd. are not traded on a stock exchange. In the year 2009 X Ltd. obtained profit after tax amounting to Rp1,000,000,000.00 (one billion rupiah). In such case, the Minister of Finance has the authority to determine the time at which the dividend is obtained and the basis for its calculation.\nParagraph (3) This provision is intended to prevent the occurrence of tax avoidance that may arise owing to the existence of a special relationship. A Taxpayer carries out tax avoidance by means including reporting income lower than it should be, reporting costs exceeding what they should be, reporting business profit that is too small compared with the financial performance of other Taxpayers in the same line of business, or reporting an unreasonable business loss although the Taxpayer has carried out commercial sales for 5 (five) years.\nIn such case, the Director General of Taxes has the authority to redetermine the amount of income and/or costs in accordance with the arm's length principle and business custom not influenced by a special relationship.\nWhat is meant by \"arm's length principle and business custom\" is the principle in sound business practice as applied between parties that do not have and/or are not influenced by a special relationship. In redetermining the amount of income and/or deductions for calculating the amount of Taxable Income, use may be made of:\na. the comparable uncontrolled price method;\nb. the resale price method;\nc. the cost-plus method; or SK No 115683 A\nd. the method ...\n_76_\nd. other methods, such as:\n1. the profit split method;\n2. the transactional net margin method;\n3. the comparable uncontrolled transaction method;\n4. methods of valuation of tangible assets and/or intangible assets (tangible asset and intangible asset valuation); and\n5. business valuation methods (business valuation).\nIn respect of a Taxpayer that reports business profit that is too small compared with the financial performance of other Taxpayers in the same line of business or reports an unreasonable business loss although the Taxpayer has carried out commercial sales for 5 (five) years, benchmarking of financial performance against Taxpayers in similar business activities may be applied in order to calculate the tax that should be due.\nLikewise, where there is a possibility of disguised equity participation, by declaring such equity participation as debt, the Director General of Taxes has the authority to determine such debt as company capital. Such determination may be made, for example, through indications concerning the ratio between capital and debt that commonly occurs between parties not influenced by a special relationship or on the basis of data or other indications.\nAccordingly, interest paid by the Taxpayer in connection with debt regarded as such equity participation may not be deducted in calculating the Taxable Income of the Taxpayer. Meanwhile, for the party having a special relationship with the Taxpayer, the receipt or acquisition of such interest payment is regarded as a dividend subject to tax.\nSK No 115684 A For .\nThe difference between the value of a transaction influenced by a special relationship that does not conform to the arm's length principle and business custom and the value of a transaction influenced by a special relationship that conforms to the arm's length principle and business custom is also regarded as a dividend subject to income tax in accordance with the provisions of laws and regulations in the field of taxation.\nParagraph (3a) An advance pricing agreement (APA) is an agreement between a Taxpayer and the Director General of Taxes concerning the fair selling price of products produced by it to parties having a special relationship (related parties) with it. The purpose of holding an APA is to reduce the occurrence of the practice of abuse of transfer pricing by multinational companies. The agreement between the Taxpayer and the Director General of Taxes may cover several matters, including the selling price of the products produced, and the amount of royalties and others, depending on the agreement.\nThe advantage of an APA, besides providing legal certainty and ease of tax calculation, is that the tax authority need not make corrections to the selling price and profit of products sold by the Taxpayer to companies within the same group. An APA may be unilateral, namely an agreement between the Director General of Taxes and a Taxpayer, or bilateral, namely an agreement of the Director General of Taxes with the tax authority of another country concerning a Taxpayer located within its jurisdiction.\nParagraph (3b) This provision is intended to prevent tax avoidance by a Taxpayer that purchases shares or participates in a domestic Taxpayer company through a foreign company established specifically for that purpose (special purpose company).\nSK No 115685 A\nParagraph (3c) ..\n_78_\nParagraph (3c) Example X Ltd., which is established and domiciled in country A, a country that provides tax protection (tax haven country), holds 95% (ninety-five per cent) of the shares of PT X which is established and domiciled in Indonesia. X Ltd. is a conduit company established and wholly owned by Y Co., a company in country B, for the purpose of acting as a conduit company in its ownership of the majority of the shares of PT X.\nIf Y Co. sells its entire ownership of the shares of X Ltd. to Mr Z, who is a domestic Taxpayer, in legal and formal terms the above transaction constitutes a transfer of shares of a foreign company by a foreign Taxpayer.\nHowever, in essence this transaction constitutes a transfer of ownership (shares) of a domestic Taxpayer company by a foreign Taxpayer, so that the income from this transfer is subject to Income Tax.\nParagraph (3d) Sufficiently clear.\nParagraph (3e) Deleted.\nParagraph (4) A special relationship between Taxpayers may arise owing to the dependence or tie of one upon the other caused by:\na. ownership or equity participation; or\nb. control through management or the use of technology.\nApart from those matters, a special relationship between individual Taxpayers may also arise owing to a blood relationship or marriage.\nSK No 115686 A\nLetter a ..\n_79_\nLetter a\nA special relationship is deemed to exist where there is an ownership relationship in the form of equity participation of 25% (twenty-five per cent) or more, whether directly or indirectly.\nFor example, PT A holds 50% (fifty per cent) of the shares of PT B. The shareholding by PT A constitutes a direct participation.\nFurthermore, if PT B holds 50% (fifty per cent) of the shares of PT C, PT A as a shareholder of PT B indirectly has a participation in PT C of 25% (twenty-five per cent). In such case, a special relationship is deemed to exist between PT A, PT B, and PT C.\nIf PT A also holds 25% (twenty-five per cent) of the shares of PT D, a special relationship is deemed to exist between PT B, PT C, and PT D.\nAn ownership relationship as described above may also arise between an individual and an entity.\nLetter b A special relationship between Taxpayers may also arise owing to control through management or the use of technology although no ownership relationship exists.\nA special relationship is deemed to exist where one or more companies are under the same control.\nLikewise the relationship between several companies that are under such same control.\nWhat is meant by \"blood relationship in a direct line of descent of one degree\" is father, mother, and child, whereas \"blood relationship in a collateral line of one degree\" is sibling.\nThe ...\nSK No 115687 A\nWhat is meant by \"relationship by marriage in a direct line of descent of one degree\" is parent-in-law and stepchild, whereas \"relationship by marriage in a collateral line of one degree\" is brother-in-law or sister-in-law.\nParagraph (5) Deleted Item 9"
+        },
+        "noLabel": {
+          "en": "Article 18"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "A In order to enhance economic relations, in particular in the field of taxation, with a partner country or partner jurisdiction and in line with the development of the dynamic international tax landscape, the Government of Indonesia is given the authority to establish and/or implement agreements and/or arrangements with the government of a partner country or partner jurisdiction, whether bilaterally or multilaterally, through a legal instrument applicable specifically (lex specialis) for the avoidance of double taxation and the prevention of tax evasion, the prevention of base erosion and profit shifting, the exchange of tax information, tax collection assistance, and other tax cooperation.\nWhat is meant by \"agreements and/or arrangements in the field of taxation\" is agreements and/or arrangements in a certain form and name in the field of taxation, which refer to the law in force before, since, or after this Law takes effect.\nLetter a\nWhat is meant by \"double taxation\" is the imposition of tax by two or more countries or jurisdictions on the same income obtained or received by the same tax subject and on the same income obtained or received by different tax subjects.\nSK No 115688 A The ...\nWhat is meant by \"tax evasion\" is evasion, concealment or reduction of tax carried out illegally by an individual, entity or permanent establishment with the intention of not paying tax in any country or jurisdiction or reducing the tax due.\nLetter b What is meant by \"base erosion and profit shifting\" is a tax planning strategy aimed at exploiting the interaction of tax provisions between different countries or jurisdictions, one means of which is to shift profits to a country or jurisdiction that does not impose tax or imposes tax at a low rate and where there is no or little contribution of substantive economic activity, with the aim of not paying tax in any country or jurisdiction or reducing the tax due.\nLetter c What is meant by \"exchange of tax information\" is the exchange of information relating to taxation between countries or jurisdictions in implementation of international agreements.\nLetter d What is meant by \"tax collection assistance\" is the tax collection assistance facility contained in an agreement that may be utilised by the Government of Indonesia and the government of a partner country or partner jurisdiction reciprocally in order to collect tax debts administered by the Director General of Taxes or by the tax authority of the partner country or partner jurisdiction.\nLetter e Sufficiently clear Item 10 Sufficiently clear.\nSK No 115689 A Item 11 ...\nItem 11"
+        },
+        "noLabel": {
+          "en": "Article 32"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "C Sufficiently clear"
+        },
+        "noLabel": {
+          "en": "Article 32"
+        },
+        "dupIndex": 4
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Paragraph (1) Deleted.\nParagraph (2)\nLetter a\nDeleted.\nLetter b Deleted.\nLetter c Sufficiently clear.\nLetter d Sufficiently clear.\nParagraph (3)\nLetter a\nDeleted.\nLetter b Deleted.\nLetter c Deleted.\nLetter d Deleted.\nLetter e Deleted.\nSK No 115690 A\nLetter f ...\nREPUBLIC OF INDONESIA\n_83_\nLetter f Religious services cover:\n1. services for the use of places of worship;\n2. services of delivering sermons or preaching;\n3. services of organising religious activities; and\n4. other services in the religious field.\nLetter g Deleted.\nLetter h Sufficiently clear.\nLetter i Deleted.\nLetter j Deleted.\nLetter k Deleted.\nLetter l\nSufficiently clear.\nLetter m Sufficiently clear.\nLetter n Sufficiently clear.\nLetter o Deleted.\nLetter p Deleted.\nLetter q Sufficiently clear.\nSK No 115691 A Item 2 REPUBLIC OF INDONESIA Item 2"
+        },
+        "noLabel": {
+          "en": "Article 4"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Paragraph (1) Sufficiently clear\nParagraph (2) Value Added Tax is imposed on the consumption of Taxable Goods and/or Taxable Services within the Customs Area. Therefore, on the export of Taxable Goods and/or Taxable Services for consumption outside the Customs Area, Value Added Tax is imposed at the rate of 0% (zero per cent).\nThe imposition of the 0% (zero per cent) rate does not mean exemption from the imposition of Value Added Tax.\nAccordingly, the Input Tax already paid for the acquisition of Taxable Goods and/or Taxable Services relating to such activity may be credited.\nParagraph (3) Based on considerations of economic development and/or increasing needs for development funds, the Value Added Tax rate may be changed to a minimum of 5% (five per cent) and a maximum of 15% (fifteen per cent).\nParagraph (4) What is meant by the House of Representatives of the Republic of Indonesia is a permanent working organ of the House of Representatives of the Republic of Indonesia, namely the commission whose duties and authority lie in the fields of finance, banking, and development planning.\nSK No 115692 A Item 3 .\n_85_ Item 3"
+        },
+        "noLabel": {
+          "en": "Article 7"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Paragraph (1) Deleted\nParagraph (1) Example:\na. Application of the 12% (twelve per cent) rate Taxable Entrepreneur A sells Taxable Goods for cash at a Selling Price of Rp10,000,000.00 (ten million rupiah). Value Added Tax due = 12% x Rp10,000,000.00 = Rp1,200,000.00. The Value Added Tax of Rp1,200,000.00 (one million two hundred thousand rupiah) constitutes Output Tax collected by Taxable Entrepreneur A.\nb. Application of the 12% (twelve per cent) rate A person imports certain Taxable Goods subject to the 12% (twelve per cent) rate with an Import Value of Rp10,000,000.00 (ten million rupiah).\nThe Value Added Tax collected through the Directorate General of Customs and Excise = 12% x Rp10,000,000.00 = Rp1,200,000.00.\nc. Application of the 0% (zero per cent) rate Taxable Entrepreneur D exports Taxable Goods with an Export Value of Rp10,000,000.00 (ten million rupiah). Value Added Tax due = 0% x Rp10,000,000.00 = Rp0.00. The Value Added Tax of Rp0.00 (zero rupiah) constitutes Output Tax.\nParagraph (2) Deleted.\nParagraph (3) Sufficiently clear.\nSK No 115693 A\nParagraph (2)\nParagraph (2) The purchaser of Taxable Goods, the recipient of Taxable Services, the importer of Taxable Goods, the party utilising Intangible Taxable Goods from outside the Customs Area, or the party utilising Taxable Services from outside the Customs Area is obliged to pay Value Added Tax and is entitled to receive proof of tax collection. The Value Added Tax that should have been paid constitutes Input Tax for the purchaser of Taxable Goods, the recipient of Taxable Services, the importer of Taxable Goods, the party utilising Intangible Taxable Goods from outside the Customs Area within the Customs Area, or the party utilising Taxable Services from outside the Customs Area within the Customs Area, which has the status of Taxable Entrepreneur.\nThe Input Tax that must be paid may be credited by the Taxable Entrepreneur against the Output Tax collected by it in the same Tax Period.\nParagraph (2a) Sufficiently clear.\nParagraph (2b) For the purpose of crediting Input Tax, the Taxable Entrepreneur uses a Tax Invoice that fulfils the requirements referred to in"
+        },
+        "noLabel": {
+          "en": "Article 9"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "paragraph (5).\nIn addition, the Input Tax to be credited must also fulfil the requirements of formal and material correctness as referred to in Article 13\nparagraph (9).\nParagraph (3) Sufficiently clear.\nParagraph (4) The Input Tax referred to in this paragraph is Input Tax that may be credited.\nSK No 115694 A In a Tax Period it may occur that the creditable Input Tax exceeds the Output Tax. Such excess Input Tax may not be claimed back in the Tax Period concerned, but shall be compensated to the following Tax Period.\nExample:\nTax Period May 2023 Output Tax Rp2,000,000.00 Creditable Input Tax = Overpaid tax:\nRp4,000.00 (-) Rp2,500,000.00 (-) Rp2,500,000.00 Such overpaid tax shall be compensated to the Tax Period June 2023.\nTax Period June 2023 Output Tax Creditable Input Tax Tax underpaid Tax overpaid from Tax Period May 2023 compensated to Tax Period June 2023 Overpaid tax for Tax Period June 2023 Rp3,000,000.00 Rp2,000,000.00 (-) Rp1,000,000.00 Rp1,500,000.00 Such overpaid tax shall be compensated to the Tax Period July 2023.\nSK No 115695 A\nParagraph (4a) ...\nParagraph (4a) The excess Input Tax in a Tax Period in accordance with the provision in paragraph (4) shall be compensated in the following Tax Period.\nHowever, if the excess Input Tax occurs in the Tax Period of the end of the financial year, a claim for refund (restitution) of such excess Input Tax may be submitted.\nIncluded in the meaning of the end of the financial year in this provision is the Tax Period at the time the Taxpayer terminates its business (dissolves).\nParagraph (4b) Sufficiently clear.\nParagraph (4c) Sufficiently clear.\nParagraph (4d) Deleted.\nParagraph (4e) In order to reduce abuse of the granting of the facility of accelerated refund of excess tax, the Director General of Taxes may carry out an audit after granting the preliminary refund of excess tax.\nParagraph (4f) In the event that the Director General of Taxes, after carrying out an audit, issues a Tax Assessment Letter for Underpaid Tax, the sanction of increase as referred to in Article 17C paragraph (5) of Law No. 6 of 1983 on General Provisions and Tax Procedures and its amendments shall not be applied although at the previous stage a Decision Letter on the Preliminary Refund of Excess Tax has already been issued.\nConversely, the administrative sanction imposed shall be in accordance with Article 13 paragraph (2) of Law No. 6 of 1983 on General Provisions and Tax Procedures and its amendments.\nSK No 115696 A\nWhere\nWhere in the said audit indications of a criminal offence in the field of taxation are found, this provision shall not apply.\nWhat is meant by \"supply subject to tax\" is the supply of goods or services which in accordance with the provisions of this Law is subject to Value Added Tax. There are two treatments of Input Tax on supplies subject to tax, namely creditable or non-creditable.\nWhat is meant by \"supply not subject to tax\" is the supply of goods and services not subject to Value Added Tax as referred to in Article 4A and which is exempted from the imposition of Value Added Tax as referred to in Article 16B. Input Tax on supplies not subject to tax may not be credited.\nA Taxable Entrepreneur that in a Tax Period carries out supplies subject to tax whose Input Tax is creditable, supplies subject to tax whose Input Tax is not creditable, and supplies not subject to tax, may only credit the Input Tax relating to supplies subject to tax whose Input Tax is creditable. The portion of such supplies subject to tax must be ascertainable with certainty from the bookkeeping of the Taxable Entrepreneur.\nExample:\nA Taxable Entrepreneur carries out several kinds of supplies, namely:\na. supplies subject to tax and whose Input Tax is creditable at a selling price of Rp25,000,000.00 (twenty-five million rupiah) with Output Tax of Rp3,000,000.00 (three million rupiah) assuming the imposition of the normal rate of 12% (twelve per cent);\nb. supplies ...\nSK No 115697 A\nb. supplies subject to tax and whose Input Tax is not creditable at a selling price of Rp20,000,000.00 (twenty million rupiah) with Output Tax of Rp400,000.00 (four hundred thousand rupiah) assuming the imposition of the final rate of 2% (two per cent);\nc. supplies not subject to Value Added Tax amounting to Rp5,000,000.00 (five million rupiah) without collecting Output Tax.\nThe total Output Tax that must be collected is Rp3,400,000.00 (three million four hundred thousand rupiah).\nInput Tax paid on the acquisition of:\na. Taxable Goods and/or Taxable Services relating to supplies subject to tax whose Input Tax is creditable amounting to Rp1,500,000.00 (one million five hundred thousand rupiah);\nb. Taxable Goods and/or Taxable Services relating to supplies subject to tax whose Input Tax is not creditable amounting to Rp1,000,000.00 (one million rupiah);\nc. Taxable Goods and Taxable Services relating to supplies not subject to tax amounting to Rp300,000.00 (three hundred thousand rupiah).\nThe total Input Tax already paid is Rp2,800,000.00 (two million eight hundred thousand rupiah).\nUnder this provision, the Input Tax creditable against the Output Tax of Rp3,400,000.00 is only Rp1,500,000.00, originating from the Input Tax on the acquisition of Taxable Goods and/or Taxable Services relating to supplies subject to tax.\nParagraph (6) In the event that the Input Tax for supplies subject to tax whose Input Tax is creditable cannot be ascertained with certainty, the method of crediting Input Tax shall be calculated on the basis of the guidelines for crediting Input Tax, which are intended to provide ease and certainty to the Taxable Entrepreneur.\nExample: ...\nSK No 115698 A\nExample:\nA Taxable Entrepreneur carries out 3 (three) kinds of supplies, namely:\na. supplies subject to tax and whose Input Tax is creditable amounting to Rp35,000,000.00 (thirty-five million rupiah) with Output Tax of Rp4,200,000.00 (four million two hundred thousand rupiah) assuming the imposition of the normal rate of 12% (twelve per cent);\nb. supplies subject to tax and whose Input Tax is not creditable amounting to Rp20,000,000.00 (twenty million rupiah) with Output Tax of Rp400,000.00 (four hundred thousand rupiah) assuming the imposition of the final rate of 2% (two per cent);\nc. supplies not subject to tax amounting to Rp15,000,000.00 (fifteen million rupiah) without collecting Output Tax.\nThe total Output Tax that must be collected is Rp4,600,000.00 (four million six hundred thousand rupiah).\nThe Input Tax paid on the acquisition of Taxable Goods and/or Taxable Services relating to all of the supplies amounts to Rp2,500,000.00 (two million five hundred thousand rupiah), whereas the Input Tax relating to supplies subject to tax whose Input Tax is creditable cannot be ascertained with certainty.\nUnder this provision, the Input Tax of Rp2,500,000.00 (two million five hundred thousand rupiah) may not be credited in its entirety against the Output Tax of Rp4,600,000.00 (four million six hundred thousand rupiah).\nThe amount of Input Tax that may be credited shall be calculated on the basis of the guidelines for crediting Input Tax.\nParagraph (6a) SK No 115699 A Sufficiently clear\nParagraph (6b) ...\n_92_\nParagraph (6b) Deleted.\nParagraph (6c) Sufficiently clear.\nParagraph (6d) Sufficiently clear.\nParagraph (6e) Sufficiently clear.\nParagraph (6f) Sufficiently clear.\nParagraph (6g) Sufficiently clear.\nParagraph (7) Deleted.\nParagraph (7a) Deleted.\nParagraph (7b) Deleted.\nParagraph (8) Input Tax may in principle be credited against Output Tax. However, for the expenditure referred to in this paragraph, the Input Tax may not be credited.\nLetter a\nDeleted.\nLetter b What is meant by expenditure directly related to business activities is expenditure for production, distribution, marketing, and management activities.\nSK No 115700 A Provisions Provisions of this paragraph apply to all lines of business.\nIn order to be creditable, the Input Tax must also satisfy the condition that such expenditure relates to a supply subject to Value Added Tax. Therefore, even though an expenditure fulfils the condition of having a direct connection with business activities, it is still possible that such Input Tax may not be credited, namely where the said expenditure has no connection with a supply subject to Value Added Tax.\nLetter c Deleted.\nLetter d Deleted.\nLetter e Deleted.\nLetter f Sufficiently clear\nLetter g Sufficiently clear\nLetter h Deleted.\nLetter i Deleted.\nLetter j Deleted.\nParagraph (9) Sufficiently clear.\nParagraph (9a) Sufficiently clear.\nParagraph (9b) Sufficiently clear.\nSK No 115701 A\nParagraph (9c) ...\nParagraph (9c) Sufficiently clear.\nParagraph (10) Deleted.\nParagraph (11) Deleted.\nParagraph (12) Deleted.\nParagraph (13) Deleted.\nParagraph (14) Sufficiently clear.\nItem 5"
+        },
+        "noLabel": {
+          "en": "Article 13"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "A\nParagraph (1) In order to provide ease and simplification of tax administration as well as a sense of fairness, the Minister of Finance may determine the amount of Value Added Tax collected and deposited by:\na. Taxable Entrepreneurs whose business turnover in 1 (one) financial year does not exceed a certain amount;\nb. Taxable Entrepreneurs carrying out certain business activities, among others those which:\n1. experience difficulty in administering Input Tax;\n2. carry out transactions through third parties, whether the supply of Taxable Goods and/or Taxable Services or their payment; or\n3. have a complexity of business processes such that the imposition of Value Added Tax cannot be carried out under the normal mechanism, and/or\nc. Taxable ...\nSK No 115702 A c Taxable Entrepreneurs that carry out the supply of certain Taxable Goods and/or certain Taxable Services.\nWhat is meant by \"certain Taxable Goods and/or certain Taxable Services\" is:\n1. Taxable Goods and/or Taxable Services subject to Value Added Tax in the context of broadening the tax base; and\n2. Taxable Goods required by the general public.\nParagraph (2) Sufficiently clear.\nItem 6"
+        },
+        "noLabel": {
+          "en": "Article 9"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 168,
+        "text": {
+          "en": "Paragraph (1) One of the principles that must be firmly upheld in the Taxation Law is that equal treatment is applied to all Taxpayers or to cases in the field of taxation that are essentially the same, by adhering firmly to the provisions of laws and regulations. Therefore, every facility in the field of taxation, if truly necessary, must refer to the above principle and must be safeguarded so that in its application it does not deviate from the intent and purpose for which such facility is granted.\nThe purpose and intent of granting facilities is essentially to provide taxation facilities that are truly necessary, particularly for the success of high-priority sectors of economic activity on a national scale, to encourage exports which are a national priority in certain regions or certain places, to encourage the development of the business world and enhance competitiveness, to assist in handling national natural disasters and national non-natural disasters, as well as to facilitate national development.\nSK No 115703 A\nParagraph (1a) ..\nParagraph (1a)\nLetter a\nThe taxation facility granted to encourage exports includes, among others, a facility to support the activities of entrepreneurs carrying out exports.\nWhat is meant by carrying out exports is the activity of taking Taxable Goods in tangible form out of the Customs Area beyond the Customs Area without going through a supply to another party.\nLetter b Sufficiently clear.\nLetter c Sufficiently clear.\nLetter d Sufficiently clear.\nLetter e Sufficiently clear.\nLetter f Sufficiently clear.\nLetter g Sufficiently clear.\nLetter h Sufficiently clear.\nLetter i Sufficiently clear.\nLetter j The taxation facility granted for the purpose of supporting the availability of certain goods and services that are strategic in the context of national development shall be granted very selectively and on a limited basis, and having regard to its impact on state revenue.\nSK No 115704 A Certain ...\nCertain Taxable Goods and/or certain Taxable Services that are exempted from the imposition of Value Added Tax include, among others:\n1. goods of basic necessity greatly needed by the general public, covering:\na) rice;\nb) paddy;\nc) maize;\nd) sago;\ne) soybeans;\nf) salt, whether iodised or non-iodised;\ng) meat, namely fresh meat that is unprocessed but has gone through the process of slaughtering, skinning, cutting, chilling, freezing, packing or not packing, salting, liming, acidifying, preserving by other means, and/or boiling;\nh) eggs, namely unprocessed eggs, including eggs that are cleaned, salted, or packed;\n(i) milk, namely raw milk whether it has gone through a process of chilling or heating, containing no added sugar or other ingredients, and/or packed or not packed;\nj) fruits, namely fresh fruits that are picked, whether they have gone through the process of washing, sorting, peeling, cutting, slicing, grading, and/or packing or not packed; and\nk) vegetables, namely fresh vegetables that are picked, washed, drained, and/or stored at low temperature, including fresh vegetables that are chopped.\nSK No 115705 A\n2. medical ...\n2. medical health services covering:\na) certain health services, among others:\n1) services of general practitioners, specialists, and dentists;\n2) services of veterinary surgeons;\n3) services of health specialists such as acupuncturists, dental specialists, nutritionists, and physiotherapists;\n4) midwifery services and traditional birth attendants;\n5) paramedical and nursing services;\n6) services of hospitals, maternity homes, health clinics, health laboratories, and sanatoria;\n7) services of psychologists and psychiatrists; and\n8) alternative treatment services, including those performed by paranormals; and\nb) health services covered by national health insurance.\n3. social services, covering:\na) services of orphanages and nursing homes;\nb) fire-fighting services;\nc) accident rescue services;\nd) services of rehabilitation institutions;\ne) services of providing funeral homes or burial services, including crematoria; and f) services in the field of sports that are not for profit.\n4. financial services, covering:\na) services of collecting funds from the public in the form of demand deposits, time deposits, deposit certificates, savings, and/or other forms equivalent thereto; b) services ...\nSK No 115706 A\nb) services of placing funds, borrowing funds, or lending funds to other parties by using letters, telecommunication facilities or by means of sight drafts, cheques, or other means;\nc) financing services, including financing based on sharia principles, in the form of:\n1) leasing with an option right;\n2) factoring;\n3) credit card business; and/or 4) consumer financing;\nd) services of channelling loans on the basis of pledge law, including sharia pledges and fiduciary security; and\ne) guarantee services.\n5. what is meant by 'insurance services' is indemnity services covering loss insurance, life insurance, and reinsurance, carried out by insurance companies for insurance policyholders, excluding insurance support services such as insurance agents, insurance loss assessors, and insurance consultants.\n6. education services, covering:\na) services of organising school education, such as services of organising general education, vocational education, special education, official education, religious education, academic education, and professional education; and\nb) services of organising out-of-school education.\n7. sufficiently clear;\n8. labour services, covering:\na) labour services;\nSK No 115707 A b) services\nb) services of providing labour insofar as the entrepreneur providing the labour is not responsible for the work results of such labour; and\nc) services of organising training for labour.\nParagraph (2) The existence of special treatment in the form of Value Added Tax being due but not collected means that the Input Tax relating to the supply of Taxable Goods and/or Taxable Services receiving such special treatment may still be credited. Accordingly, the Value Added Tax remains due but is not collected.\nExample:\nTaxable Entrepreneur A produces Taxable Goods that receive a facility from the State, namely that the Value Added Tax due on the supply of such Taxable Goods is not collected.\nIn order to produce such Taxable Goods, Taxable Entrepreneur A uses other Taxable Goods and/or Taxable Services as raw materials, auxiliary materials, capital goods, or as other cost components.\nAt the time of purchasing such other Taxable Goods and/or Taxable Services, Taxable Entrepreneur A pays Value Added Tax to the Taxable Entrepreneur selling or supplying such Taxable Goods and/or Taxable Services.\nThe Value Added Tax paid by Taxable Entrepreneur A to such supplier Taxable Entrepreneur constitutes Input Tax that may be credited against Output Tax; the Input Tax may still be credited against Output Tax even though such Output Tax is nil because it enjoys the facility of Value Added Tax not collected from the State under the provisions referred to in paragraph (1).\nSK No 115708 A\nParagraph (3) ...\nParagraph (3) Unlike the provision in paragraph (2), the existence of special treatment in the form of exemption from the imposition of Value Added Tax results in the absence of Output Tax, so that the Input Tax relating to the supply of Taxable Goods and/or Taxable Services obtaining such exemption may not be credited.\nExample:\nTaxable Entrepreneur B produces Taxable Goods that receive a facility from the State, namely that the supply of such Taxable Goods is exempted from the imposition of Value Added Tax. In order to produce such Taxable Goods, Taxable Entrepreneur B uses other Taxable Goods and/or Taxable Services as raw materials, auxiliary materials, capital goods, or as other cost components. At the time of purchasing such other Taxable Goods and/or Taxable Services, Taxable Entrepreneur B pays Value Added Tax to the Taxable Entrepreneur selling or supplying such Taxable Goods and/or Taxable Services.\nAlthough the Value Added Tax paid by Taxable Entrepreneur B to such supplier Taxable Entrepreneur constitutes Input Tax that may be credited, because there is no Output Tax owing to the granting of the facility of exemption from the imposition of tax as referred to in paragraph (1), such Input Tax becomes non-creditable.\nItem 7 Sufficiently clear Item 8"
+        },
+        "noLabel": {
+          "en": "Article 168"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "G\nLetter a\nA Tax Base in the form of another value is applied to ensure legal certainty where the Selling Price, Replacement Value, Import Value, and Export Value as the Tax Base are difficult to determine.\nSK No 115709 A\nLetter b ...\n-102-\nLetter b Sufficiently clear.\nLetter c Sufficiently clear.\nLetter d Sufficiently clear.\nLetter e Sufficiently clear.\nLetter f Sufficiently clear.\nLetter g Sufficiently clear.\nLetter h Sufficiently clear.\nLetter i Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 16"
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Paragraph (1) What is meant by \"has not yet found data and/or information concerning assets\" is that the Director General of Taxes has not yet begun to carry out an examination in order to calculate Income Tax in connection with such data and/or information concerning assets.\nParagraph (2) Sufficiently clear.\nParagraph (3) Sufficiently clear.\nParagraph (4) Sufficiently clear.\nSK No 115710 A\nParagraph (5)\nParagraph (5) Sufficiently clear\nParagraph (6) Sufficiently clear.\nParagraph (7) What is meant by \"business activity in the natural resource processing sector\" is the activity of processing raw materials of natural resources into semi-finished goods or finished goods that add value to such natural resource raw materials.\nFor example: the processing of gold ore into pure gold.\nWhat is meant by \"renewable energy sector\" is the energy sector generated from materials that can be continually renewed. For example: the solar energy sector.\nState securities cover state debt securities and state sharia securities.\nParagraph (8) Sufficiently clear.\nParagraph (9) Sufficiently clear.\nParagraph (10) Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 5"
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Paragraph (1)\nParagraph (2) What is meant by \"asset disclosure return\" is a letter used by a Taxpayer to disclose at least the identity of the Taxpayer, assets, liabilities, net assets, as well as the calculation and payment of the final Income Tax due.\nProof of payment of Income Tax in the form of a Tax Payment Slip or other administrative means equated with a Tax Payment Slip and which has obtained validation from the party receiving the payment in accordance with the provisions of laws and regulations.\nSK No 115711 A\nParagraph (3)\nParagraph (3) Sufficiently clear.\nParagraph (4) Sufficiently clear.\nParagraph (5) Sufficiently clear.\nParagraph (6) The criminal offence regulated in this article covers criminal offences in the field of taxation and other criminal offences.\nParagraph (7) Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 6"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Paragraph (1) Sufficiently clear.\nParagraph (2) Sufficiently clear.\nParagraph (3) Sufficiently clear.\nParagraph (4) A Tax Assessment Letter for Underpaid Tax issued under the provision of this paragraph contains only the principal tax underpaid and does not contain administrative sanctions, considering that the amount of the rate on the additional Income Tax is deemed to include administrative sanctions.\nExample:\nOn 10 January 2022, Mr A submitted an asset disclosure return in respect of net assets in the form of cash amounting to Rp1,000,000,000.00 (one billion rupiah) located in Indonesia and not yet disclosed in the statement letter. Mr A also declared that he would invest such cash in a state securities instrument.\nTherefore, Mr A applies the final Income Tax rate of 6% (six per cent) in disclosing such net assets.\nSK No 115712 A Income Tax Income Tax on the disclosure of net assets:\n6% x Rp1,000,000,000.00 = Rp60,000,000.00 In the event that it becomes known that Mr A, up to 30 September 2023, invested only 40% (forty per cent) of the portion of net assets disclosed on 10 January 2022 in a state securities instrument, so that there is 60% (sixty per cent) of the portion of net assets not invested.\nIf the Director General of Taxes issues a Tax Assessment Letter for Underpaid Tax on 4 October 2023, the calculation in the tax assessment letter shall be as follows:\n1. the portion of net assets not invested in state securities:\n60% x Rp1,000,000,000.00 = Rp600,000,000.00.\n2. the imposition of additional final Income Tax:\n4.5% x Rp600,000,000.00 = Rp27,000,000.00.\nIn the event that Mr A, up to 30 September 2023, invested only 40% (forty per cent) of the portion of assets disclosed on 10 January 2022 in a state securities instrument, then Mr A may of his own will disclose the portion of assets not invested to the Director General of Taxes and pay the additional final Income Tax himself, with the following calculation:\n1. the portion of net assets not invested in state securities:\n60% x Rp1,000,000,000.00 = Rp600,000,000.00.\n2. the imposition of additional final Income Tax:\n3% x Rp600,000,000.00 = Rp18,000,000.00.\nParagraph (5) Sufficiently clear"
+        },
+        "noLabel": {
+          "en": "Article 7"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Paragraph (1) Sufficiently clear SK No 115713 A\nParagraph (2)\nParagraph (2) What is meant by \"debt\" is the amount of principal debt not yet paid that is directly related to the acquisition of assets.\nParagraph (3) Sufficiently clear.\nParagraph (4) The provision regulated in this paragraph covers the obligation of Income Tax, withholding and/or collection of Income Tax, and Value Added Tax in respect of the individual concerned and does not include the obligation of an individual Taxpayer acting as representative or attorney."
+        },
+        "noLabel": {
+          "en": "Article 8"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 9"
+        },
+        "dupIndex": 4
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Paragraph (1) Sufficiently clear.\nParagraph (2)\nLetter a\nSufficiently clear.\nLetter b Sufficiently clear.\nLetter c Sufficiently clear.\nLetter d The provision on the revocation of applications as regulated in this letter covers applications relating to Income Tax, withholding and/or collection of Income Tax, and Value Added Tax in respect of the individual concerned for the tax year 2016, tax year 2017, tax year 2018, tax year 2019, and/or tax year 2020.\nParagraph (3) ...\nSK No 115714 A -107-\nParagraph (3) Sufficiently clear.\nParagraph (4) Sufficiently clear.\nParagraph (5) Included in this provision are individual Taxpayers who only obtained a Taxpayer Identification Number in 2022 and have not submitted an annual individual income tax return for tax year 2020.\nIn order to submit an asset disclosure return, an individual Taxpayer must first submit an annual individual income tax return for tax year 2020 with assets originating from income in tax year 2020.\nFurthermore, net assets held other than those stated in the annual individual income tax return for tax year 2020 must be disclosed in the asset disclosure return.\nParagraph (6) Sufficiently clear.\nParagraph (7) Sufficiently clear.\nParagraph (8) Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 10"
+        }
+      },
+      {
+        "no": 1,
+        "text": {
+          "en": "Paragraph (1)\nLetter a\nSufficiently clear.\nLetter b Sufficiently clear.\nLetter c The criminal offence regulated in this article covers criminal offences in the field of taxation and other criminal offences.\nSK No 115715 A\nParagraph (2) .\nParagraph (2) Example:\nOn 10 January 2022, Mr B submitted an asset disclosure return in respect of net assets in the form of cash amounting to Rp1,000,000,000.00 (one billion rupiah) located in Indonesia and not yet disclosed in the annual individual income tax return for tax year 2020. Mr B also declared that he would invest such cash in a state securities instrument. Therefore, Mr B obtains the final income tax rate of 12% (twelve per cent) in the disclosure of such net assets.\nIncome Tax on the disclosure of net assets: 12% x Rp1,000,000,000.00 = Rp120,000,000.00 In the event that it becomes known that Mr B still holds net assets in the form of cash amounting to Rp100,000,000.00 (one hundred million rupiah) that were not disclosed in the asset disclosure return on 10 January 2022, then if the Director General of Taxes issues a Tax Assessment Letter for Underpaid Tax on 4 February 2023, the calculation in the tax assessment letter shall be as follows:\n1. assets not disclosed in the asset disclosure return and subject to final income tax at a rate of 30% (thirty per cent):\n30% x Rp100,000,000.00 = Rp30,000,000.00.\n2. administrative sanction in the form of interest: 1% x 2 months x Rp30,000,000.00 = Rp600,000.00.\n3. the amount still to be paid in the Tax Assessment Letter for Underpaid Tax:\nRp30,000,000.00 + Rp600,000.00 = Rp30,600,000.00 As for the number of months in the imposition of such administrative sanction, it is calculated from the end of tax year 2022, namely 1 January 2023, up to the time of issuance of the Tax Assessment Letter for Underpaid Tax, namely 4 February 2023, thus amounting to 1 (one) month and 4 (four) days, with the part of a month calculated in full as 2 (two) months.\nSK No 115716 A Assumption Assumption that the Minister of Finance sets the rate of the administrative sanction in the form of interest under Article 13 paragraph (2) for the month of January 2023 at 1% (one per cent)."
+        },
+        "noLabel": {
+          "en": "Article 1"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Paragraph (1) Sufficiently clear.\nParagraph (2) Sufficiently clear.\nParagraph (3) Sufficiently clear.\nParagraph (4) Example:\nBased on the example in the explanation of Article 11 paragraph (2), in the event that it becomes known that Mr B, up to 30 September 2023, invested only 40% (forty per cent) of the portion of net assets disclosed on 10 January 2022 in a state securities instrument, so that there is 60% (sixty per cent) of the portion of net assets not invested.\nIf the Director General of Taxes issues a Tax Assessment Letter for Underpaid Tax on 15 October 2023, the calculation in the tax assessment letter shall be as follows:\n1. the portion of net assets not invested in state securities:\n60% x Rp1,000,000,000.00 = Rp600,000,000.00.\n2. the imposition of additional final Income Tax:\n4.5% x Rp600,000,000.00 = Rp27,000,000.00.\nIn the event that Mr B of his own will discloses to the Directorate General of Taxes the portion of net assets not invested and pays the additional final Income Tax himself, the calculation of the additional final Income Tax shall be as follows:\nSK No 115717 A\n1. the portion - 110 _\n1. the portion of assets not invested in state securities:\n60% x Rp1,000,000,000.00 = Rp600,000,000.00.\n2. the imposition of additional final Income Tax:\n3% x Rp600,000,000.00 = Rp18,000,000.00.\nParagraph (5) Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 12"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Paragraph (1)\nParagraph (2) Sufficiently clear Various instruments may be taken in order to achieve the Nationally Determined Contribution (NDC) target, among which is the use of carbon economic value (NEK) instruments consisting of trading and non-trading instruments.\nNon-trading instruments include, among others, the imposition of a carbon tax.\nThe carbon tax is imposed in the context of controlling greenhouse gas emissions to support the achievement of Indonesia's NDC.\nThe NDC or nationally determined contribution is a national commitment for addressing global climate change in order to achieve the objectives of the Paris Agreement to the United Nations Framework Convention on Climate Change.\nWhat is meant by \"carbon emission\" is carbon dioxide equivalent emission (CO2e).\nThe criteria for negative impacts on the environment include, among others:\na. depletion of natural resources;\nb. pollution of the environment; or\nc. damage to the environment.\nSK No 115718 A\nParagraph (3)\nParagraph (3) The carbon tax road map contains the following:\na. Carbon Emission Reduction Strategy The Government has committed to reducing greenhouse gas emissions by 29% (twenty-nine per cent) with its own capability and 41% (forty-one per cent) with international support by the year 2030 and towards Net Zero Emission (NZE) at the latest in the year 2060.\nb. Priority Sector Targets The emission reduction targets of the energy and transport sectors as well as the forestry sector already cover 97% (ninety-seven per cent) of the total NDC emission reduction target, so that they become the main priority for greenhouse gas emission reduction.\nIn addition to those two sectors, they will follow the transformation of national industry based on clean energy and the carbon tax towards Indonesia Emas in 2045 and NZE at the latest in 2060.\nc. Taking into Account the Development of New and Renewable Energy The blend of carbon tax policy, carbon trading and sectoral technical policies including phasing out coal, the development of new and renewable energy, and/or the enhancement of biodiversity is expected to support the achievement of the 2060 NZE target while still putting forward the principle of a just and affordable transition for the community and providing certainty of the business climate.\nd. Alignment Among Various Policies The carbon tax road map will contain, among others, the carbon emission reduction strategy in the NDC, priority sector targets, and/or taking into account the development of new and renewable energy, and shall be further regulated by or under a Government Regulation.\nThe imposition of the carbon tax shall be implemented as follows:\na. In 2021, the development of a carbon trading mechanism is carried out;\nSK No 115719 A\nb. In ...\n-112-\nb. From 2022 to 2024, a tax mechanism based on an emission cap (cap and tax) is applied for the power generation sector, limited to coal-fired Steam Power Plants (PLTU);\nc. In 2025 and thereafter, the full implementation of carbon trading and the expansion of the sectors subject to the carbon tax, with staging according to the readiness of the sectors concerned, having regard to, among others, economic conditions, the readiness of the actors, impact, and/or scale.\nThe application of the carbon tax prioritises the regulation of corporate tax subjects.\nThe carbon tax rate shall be set higher than or equal to the carbon price in the domestic carbon market.\nParagraph (4) What is meant by the House of Representatives of the Republic of Indonesia is a permanent working organ of the House of Representatives of the Republic of Indonesia, namely the commission whose duties and authority lie in the fields of finance, banking, and development planning.\nParagraph (5) What is meant by \"goods containing carbon\" is goods including but not limited to fossil fuels that cause carbon emissions.\nWhat is meant by \"activities that produce carbon emissions\" is activities that produce or release carbon emissions originating, among others, from the energy, agriculture, forestry and land use change, industry, and waste sectors.\nIncluded within the scope of purchasing is purchasing goods that produce carbon emissions domestically and by import.\nParagraph (6) The calculation of the carbon tax due on the entire value of the purchase of goods containing carbon or activities producing carbon emissions shall take into account the value of the emission factor determined by the ministry and/or body or institution having the competence and authority to measure the value of the emission factor.\nSK No 115720 A What is meant by the value of the emission factor is a coefficient value that relates the average amount of emissions released into the atmosphere from a certain source relative to the unit of activity or process associated with the release of carbon emissions.\nParagraph (7) Sufficiently clear.\nParagraph (8) Carbon dioxide equivalent (CO2e) is a representation of greenhouse gas emissions including, among others, carbon dioxide (CO2), nitrous oxide (N2O), and methane (CH4).\nWhat is meant by \"equivalent\" is a conversion unit of carbon dioxide equivalent (CO2e) including, among others, to units of mass and units of volume.\nParagraph (9) Sufficiently clear.\nParagraph (10) What is meant by the House of Representatives of the Republic of Indonesia is a permanent working organ of the House of Representatives of the Republic of Indonesia, namely the commission whose duties and authority lie in the fields of finance, banking, and development planning.\nParagraph (11) What is meant by the House of Representatives of the Republic of Indonesia is a permanent working organ of the House of Representatives of the Republic of Indonesia, namely the commission whose duties and authority lie in the fields of finance, banking, and development planning.\nParagraph (12) What is meant by \"climate change control\" is climate change mitigation and adaptation.\nWhat is meant by \"climate change mitigation\" is a series of activities carried out in an effort to reduce the level of greenhouse gas emissions or increase the absorption of greenhouse gas emissions as a form of effort to address the impacts of climate change.\nSK No 115721 A What -114- What is meant by \"climate change adaptation\" is efforts undertaken to improve the ability to adapt to climate change, including climate variability and extreme climate events, so that the potential for damage due to climate change is reduced, the opportunities created by climate change can be utilised, and the consequences arising from climate change can be overcome.\nParagraph (13) What is meant by \"carbon emission trading\" is a transaction mechanism between business actors and/or activities having emissions exceeding the specified emission cap.\nWhat is meant by \"carbon emission offset\" is the reduction of carbon emissions carried out by a business and/or activity to compensate for emissions created elsewhere.\nParagraph (14) Sufficiently clear.\nParagraph (15) What is meant by the House of Representatives of the Republic of Indonesia is a permanent working organ of the House of Representatives of the Republic of Indonesia, namely the commission whose duties and authority lie in the fields of finance, banking, and development planning.\nParagraph (16) Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 13"
+        },
+        "dupIndex": 4
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Paragraph (1)\nLetter a\nWhat is meant by \"ethyl alcohol or ethanol\" is a liquid, clear, and colourless substance, an organic compound with the chemical formula C2H5OH, obtained either by fermentation and/or distillation or by chemical synthesis.\nSK No 115722 A\nLetter b .\nLetter b\nLetter c What is meant by \"beverages containing ethyl alcohol\" is all liquid substances commonly called beverages containing ethyl alcohol produced by fermentation, distillation, or other means, including among others beer, shandy, wine, gin, whisky, and the like.\nWhat is meant by \"concentrates containing ethyl alcohol\" is materials containing ethyl alcohol used as raw materials or auxiliary materials in the manufacture of beverages containing ethyl alcohol.\nWhat is meant by \"cigarette\" is a tobacco product made from shredded tobacco wrapped in paper by rolling, for use, irrespective of the substitute or auxiliary materials used in its manufacture.\nCigarettes consist of kretek cigarettes, white cigarettes, and kelembak kemenyan cigarettes.\nKretek cigarettes are cigarettes in the manufacture of which cloves, or parts thereof, whether genuine or imitation, are mixed, regardless of the quantity.\nWhite cigarettes are cigarettes in the manufacture of which no cloves, kelembak, or kemenyan are mixed.\nWhite cigarettes and kretek cigarettes consist of cigarettes made by machine or made by means other than machine.\nSK No 115723 A What ...\nWhat is meant by machine-made white cigarettes and kretek cigarettes is white cigarettes and kretek cigarettes in the manufacture of which, from rolling, fitting of filters, packing in retail packages, up to the affixing of excise bands, the whole or part uses machines.\nWhat is meant by white cigarettes and kretek cigarettes made by means other than machine is white cigarettes and kretek cigarettes in the manufacturing process of which, from rolling, fitting of filters, packing in retail packages, up to the affixing of excise bands, no machines are used.\nKelembak kemenyan cigarettes are cigarettes in the manufacture of which kelembak and/or kemenyan, whether genuine or imitation, are mixed, regardless of the quantity.\nWhat is meant by \"cigar\" is a tobacco product made from sheets of tobacco leaf, whether cut or not, by rolling them in such a manner with tobacco leaf, for use, irrespective of the substitute or auxiliary materials used in its manufacture.\nWhat is meant by \"leaf cigarette\" is a tobacco product made with nipah leaf, maize husk (klobot), or the like, by rolling, for use, irrespective of the substitute or auxiliary materials used in its manufacture.\nWhat is meant by \"shredded tobacco\" is a tobacco product made from shredded tobacco leaf, for use, irrespective of the substitute or auxiliary materials used in its manufacture.\nSK No 115724 A What -117- What is meant by \"electric cigarette\" is a tobacco product in liquid, solid, or other form, originating from the processing of tobacco leaf made by extraction or other means in accordance with technological developments and consumer taste, irrespective of the substitute or auxiliary materials in its manufacture, which is provided to end consumers in retail sales packaging and consumed by being heated using an electric heating device and then inhaled.\nWhat is meant by \"other processed tobacco products\" is tobacco products made from tobacco leaf other than those mentioned in this letter, made in another manner in accordance with technological developments and consumer taste, irrespective of the substitute or auxiliary materials used in its manufacture.\nParagraph (2) What is meant by the House of Representatives of the Republic of Indonesia is a permanent working organ of the House of Representatives of the Republic of Indonesia, namely the commission whose duties and authority lie in the fields of finance, banking, and development planning.\nItem 2"
+        },
+        "noLabel": {
+          "en": "Article 4"
+        },
+        "dupIndex": 4
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "B\nParagraph (1) What is meant by \"investigation of a suspected violation\" is all efforts undertaken by customs and excise officials in respect of persons, places, goods, and means of transport, such as requesting information from the parties concerned, inspecting goods, inspecting places or buildings, inspecting means of transport, examining books and records, and/or other actions based on laws and regulations in order to seek and gather materials and information to determine whether or not a violation in the field of excise has occurred, whether administrative or criminal.\nParagraph (2) ...\nSK No 115725 A -118-\nParagraph (2) Sufficiently clear.\nParagraph (3) This is intended so that the law enforcement approach in the field of excise is restorative justice, namely a law enforcement approach that prioritises the restoration of the rights or condition of the victim, where in a criminal offence in the field of excise the party acting as victim is the State, because the State loses its right, namely state revenue in the field of excise.\nParagraph (4) Sufficiently clear.\nParagraph (5) What is meant by \"other goods\" is goods other than excisable goods involved in the criminal offence that has occurred, such as means of transport, communication equipment, media or storage places, as well as documents and letters.\nParagraph (6) Sufficiently clear.\nItem 3"
+        },
+        "noLabel": {
+          "en": "Article 40"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Paragraph (1) Sufficiently clear.\nParagraph (2) The administrative sanction in the form of a fine of 4 (four) times the value of excise that should be paid is considered sufficient to provide deterrence and constitutes a manifestation of the balance between restorative justice and fiscal recovery.\nParagraph (3) Sufficiently clear.\nSK No 115726 A\nParagraph (4) ...\nParagraph (4)\nParagraph (5)\nParagraph (6)\nParagraph (7)\nParagraph (8)\nParagraph (9) Sufficiently clear.\nFor cases already referred to the court, the payment of the administrative sanction in the form of a fine for the termination of investigation as referred to in\nparagraph (1) shall be a consideration for the public prosecutor to prepare an indictment without the imposition of corporal punishment.\nThe administrative sanction in the form of a fine already paid by such defendant shall be taken into account as payment of the criminal fine imposed by the judge.\nSufficiently clear.\nThe payment of the administrative sanction in the form of a fine made by a suspect or defendant that has not yet reached the amount in accordance with the provisions referred to in paragraph (2) shall be taken into account as payment of the criminal fine imposed by the judge, while the shortfall shall be charged to the defendant.\nWhat is meant by \"other goods\" is goods other than excisable goods involved in the criminal offence that has occurred that have been seized by the Civil Servant Investigators of the Directorate General of Customs and Excise, such as means of transport, communication equipment, media or storage places, as well as documents and letters."
+        },
+        "noLabel": {
+          "en": "Article 64"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Sufficiently clear SK No 115727 A Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 15"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "REPUBLIC OF INDONESIA\n-120-"
+        },
+        "noLabel": {
+          "en": "Article 16"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Sufficiently clear"
+        },
+        "noLabel": {
+          "en": "Article 16"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Sufficiently clear"
+        },
+        "noLabel": {
+          "en": "Article 17"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Sufficiently clear"
+        },
+        "noLabel": {
+          "en": "Article 18"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Sufficiently clear STATE GAZETTE SUPPLEMENT OF THE REPUBLIC OF INDONESIA NUMBER 6736 SK No 115728 A"
+        },
+        "noLabel": {
+          "en": "Article 19"
+        }
+      }
+    ]
+  };
+
   TR["ID-H032"] = {
     "lawId": "ID-H032",
     "sourceLang": "id",
@@ -7954,6 +11130,3689 @@
         "noLabel": {
           "en": "Article 193"
         }
+      }
+    ]
+  };
+
+  TR["ID-H034"] = {
+    "lawId": "ID-H034",
+    "sourceLang": "id",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "DeepSeek-V4.1-Flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-26",
+    "reviewed": "machine",
+    "glossaryVersion": "id-en-2026-10",
+    "completenessNote": "从印尼语回执逐条入库，共 384 条；条号与原文一一对应。",
+    "articles": [
+      {
+        "no": 5,
+        "text": {
+          "en": "the Constitution of the Republic of Indonesia of 1945; d. e.\nHaving regard to\nWith\nWith the Joint Approval of\nTHE HOUSE OF REPRESENTATIVES OF THE REPUBLIC OF INDONESIA and THE PRESIDENT OF THE REPUBLIC OF INDONESIA DECIDE:\nTo enact : LAW ON PATENTS.\nCHAPTER I\nGENERAL PROVISIONS"
+        },
+        "noLabel": {
+          "en": "Article 5"
+        }
+      },
+      {
+        "no": 1,
+        "text": {
+          "en": "In this Law, the following terms have the meanings:\n1. A Patent is an exclusive right granted by the state to an inventor for the results of his invention in the field of technology for a certain period to himself carry out that invention or to give approval to other parties to carry it out.\n2. An Invention is an inventor's idea embodied in a specific problem-solving activity in the field of technology in the form of a product or process, or an improvement and development of a product or process.\n3. An Inventor is a person or several persons who jointly carry out the idea embodied in an activity that produces an Invention.\n4. An Application is an application for a patent or a simple patent filed with the Minister.\n5. An Applicant is a party filing an application for a Patent.\n6. A Patent Holder is an Inventor as the owner of the patent, a party receiving the right to such patent from the owner of the Patent, or another party receiving further the right to such Patent who is registered in the general register of Patents.\n7. An Attorney is an intellectual property consultant who resides or has a permanent domicile within the territory of the Unitary State of the Republic of Indonesia.\n8. Examiner -J-\n8. A Patent Examiner, hereinafter referred to as examiner, is a functional official of the State Civil Apparatus or an expert appointed by the Minister and assigned the duty and authority to carry out substantive examination of Applications.\n9. The Filing Date is the date of receipt of an Application that has fulfilled the minimum requirements.\n10. The Right of Priority is the right of an Applicant to file an Application originating from a country that is a member of the Paris Convention for the Protection of Industrial Property or of the Agreement Establishing the World Trade Organization to obtain recognition that the Filing Date in the country of origin is the priority date in the destination country that is also a member of one of those two agreements, provided that such filing is made within the period determined under the said international agreement.\n11. A Licence is a permission granted by a patent holder, whether exclusive or non-exclusive, to a licensee based on a written agreement to use a Patent still under protection for a certain period and on certain terms.\n12. The Patent Appeal Commission is an independent commission within the ministry that administers government affairs in the field of law.\n13. A Person is an individual or a legal entity.\n14. A Royalty is remuneration given for the use of the right to a Patent.\n15. Compensation is the compensation received by a party entitled to obtain a Patent for an Invention produced, in an employment relationship, or an Invention produced by either an employee or a worker using data and/or facilities available in his work even though the agreement does not require him to produce an Invention, or a Patent Holder for an Invention produced by an Inventor in an official relationship or a patent holder of a compulsory Licensee or a patent holder for a Patent implemented by the government.\n16. Day REPIJ BLIK INDONESIA\n16. A Day is a working day.\n17. The Minister is the minister who administers government affairs in the field of law.\nCHAPTER II\nSCOPE OF PATENT PROTECTION\nSection One\nGeneral"
+        },
+        "noLabel": {
+          "en": "Article 1"
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Patent protection shall cover:\na. Patents; and\nb. simple patents.\n(1) (2t"
+        },
+        "noLabel": {
+          "en": "Article 2"
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "A Patent as referred to in Article 2 letter a shall be granted for an Invention that is new, contains an inventive step, and is capable of industrial application.\nA simple patent as referred to in Article 2\nletter b shall be granted for any new Invention, an improvement of an existing product or process, and capable of industrial application."
+        },
+        "noLabel": {
+          "en": "Article 3"
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "An Invention shall not cover:\na. aesthetic creations;\nb. schemes;\nc. rules and methods for performing activities:\n1. involving mental activity;\n2. games; and\n3. business.\nd. rules and methods containing only computer programs;\ne. presentations of information; and\nf. findings\nf. findings (discovery) in the form of:\n1. new uses for existing and/or known products; and/or\n2. new forms of existing compounds that do not produce a meaningful increase in efficacy and in respect of which there is a known related chemical structure difference from the compound.\nSection Two\nInvention\nParagraph 1 Inventions Eligible for a Patent"
+        },
+        "noLabel": {
+          "en": "Article 4"
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "An Invention shall be considered new as referred to in"
+        },
+        "noLabel": {
+          "en": "Article 5"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "that is not the same as technology disclosed previously.\nTechnology disclosed previously as referred to in paragraph (1) is technology that has been announced in Indonesia or outside Indonesia in a writing, oral description or through demonstration, use, or in another manner enabling an expert to carry out such Invention before:\na. the Filing Date; or\nb. the priority date in the event that the Application is filed with the Right of Priority.\nTechnology disclosed previously as referred to in paragraph (1) shall include other Application documents filed in Indonesia that are published on or after the Filing Date whose substantive examination is being carried out, but whose Filing Date is earlier than the Filing Date or priority date of the Application.\n(1)\n(2)\n(3)"
+        },
+        "noLabel": {
+          "en": "Article 3"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "q,#\nREPUBLIK IN DO N ESIA"
+        },
+        "noLabel": {
+          "en": "Article 6"
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "(1) Excepted from the provision as referred to in Article 5 paragraph (2), an Invention shall not be considered to have been disclosed if within no more than 6 (six) months before the Filing Date, the Invention has been:\na. exhibited at an official exhibition or at an exhibition recognised as an official exhibition, whether held in Indonesia or abroad;\nb. used in Indonesia or abroad by its Inventor for the purposes of an experiment for research and development; and/or\nc. disclosed by its Inventor in:\n1. a scientific session in the form of an examination and/or a stage of examination of a paper, thesis, dissertation, or other scientific work; and/or\n2. another scientific forum for the purposes of discussion of research results at an educational institution or research institution.\n(2) An Invention shall also not be considered to have been disclosed if within 12 (twelve) months before the Filing Date, another party has disclosed it in a manner breaching the obligation to maintain the confidentiality of such Invention.\n(1)\n(2)"
+        },
+        "noLabel": {
+          "en": "Article 6"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "An Invention shall contain an inventive step if to a person having certain expertise in the field of engineering such Invention is something that could not be anticipated beforehand.\nTo determine that an Invention is something that could not be anticipated beforehand as referred to in paragraph (1), it must be done by taking into account the expertise existing at the time the Application is filed or that already existed at the time the first application was filed in the event that the Application is filed with the Right of Priority."
+        },
+        "noLabel": {
+          "en": "Article 7"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "gLru -rlp,4@ REPU BLII( IN DO N ESIA"
+        },
+        "noLabel": {
+          "en": "Article 8"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "An Invention shall be capable of industrial application if such Invention can be carried out in industry as described in the Application.\nParagraph 2 Inventions Not Eligible for a Patent"
+        },
+        "noLabel": {
+          "en": "Article 8"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Inventions that cannot be granted a Patent shall cover:\na. processes or products whose announcement, use, or implementation contravenes laws and regulations, religion, public order, or decency;\nb. examination, care, treatment and/or surgery methods applied to humans and/or animals;\nc. theories and methods in the fields of science and mathematics;\nd. living organisms, except micro-organisms; or\ne. biological processes essential for producing plants or animals, except non-biological processes or microbiological processes.\nSection Three\nSubject of a Patent"
+        },
+        "noLabel": {
+          "en": "Article 9"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The party entitled to obtain a Patent is the Inventor or a Person receiving further the right of the relevant Inventor.\nIf an Invention is produced by several persons jointly, the right to the Invention shall be jointly held by the relevant Inventors.\n(1)\n(2)"
+        },
+        "noLabel": {
+          "en": "Article 10"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "REFU BLII( INDONESIA"
+        },
+        "noLabel": {
+          "en": "Article 11"
+        }
+      },
+      {
+        "no": 1,
+        "text": {
+          "en": "Unless proven otherwise, the party considered to be the Inventor is the person or several persons first declared as Inventor in the application.\n(1)\n(2)\n(3)"
+        },
+        "noLabel": {
+          "en": "Article 1"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "A Patent Holder for an Invention produced by an Inventor in an employment relationship shall be the party providing the work, unless otherwise agreed.\nThe provision as referred to in paragraph (1) shall also apply to an Invention produced by either an employee or a worker using data and/or facilities available in his work.\nThe Inventor as referred to in paragraph (1) and paragraph\n(2) shall be entitled to Compensation based on an agreement made by the employer and the Inventor, taking into account the economic benefit obtained from the said Invention.\n(4) The Compensation as referred to in paragraph (3) may be paid based on:\na. a certain amount and in a lump sum;\nb. a percentage;\nc. a combination of a certain amount and in a lump sum with an award or bonus; or\nd. another form agreed by the parties.\nIn the event that there is no agreement on the manner of calculation and determination of the amount of Compensation, the parties may file a lawsuit with the Commercial Court.\nThe provision as referred to in paragraph (1), paragraph (2), and paragraph (3) shall not eliminate the Inventor's right to still be named in the patent certificate.\n(s)\n(6)"
+        },
+        "noLabel": {
+          "en": "Article 12"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "(1)\n(2)\n(3) (41 (s)\n(6)"
+        },
+        "noLabel": {
+          "en": "Article 13"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "A Patent Holder for an Invention produced by an Inventor in an official relationship with a government agency shall be the said government agency and the Inventor, unless otherwise agreed.\nAfter the Patent is commercialised, the Inventor as referred to in paragraph (1) shall be entitled to Compensation for the Patent he produced from non-tax state revenue sources.\nIn the event that the government agency as Patent Holder cannot implement its Patent, the Inventor, with the approval of the Patent Holder, may implement the patent with a third party.\nFor the implementation of the Patent as referred to in paragraph (3), apart from the government agency, the Inventor shall obtain a Royalty from the third party obtaining economic benefit from the commercialisation of such Patent.\nThe provision as referred to in paragraph (1) and paragraph\n(2) shall not eliminate the Inventor's right to still be named in the Patent certificate.\nFurther provisions regarding the Compensation as referred to in paragraph (2) shall be regulated by a ministerial regulation that administers government affairs in the field of finance.\nSection Four\nPrior Users"
+        },
+        "noLabel": {
+          "en": "Article 13"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "A party carrying out an Invention at the time the same Invention is filed as an Application shall remain entitled to carry out its Invention even if the same Invention is subsequently granted a Patent.\nA party carrying out an Invention as referred to in paragraph (1) shall be recognised as a prior user.\nThe provision as referred to in paragraph (1) shall not apply if the party carrying out the Invention as a prior user uses knowledge of such Invention based on the description, drawings, examples, or claims of the Invention applied for as a Patent.\n(l) (21\n(3)"
+        },
+        "noLabel": {
+          "en": "Article 14"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "(1) PRESIDEI!\n_10_"
+        },
+        "noLabel": {
+          "en": "Article 15"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "A party carrying out an Invention as referred to in Article 14 may only be recognised as a prior user if, after a patent is granted for the same Invention, he files an application as a prior user with the Minister.\nRecognition as a prior user shall be granted by the Minister in the form of a prior user certificate after fulfilling the requirements and paying the fee.\nThe right of the prior user shall terminate upon the termination of the Patent for the same Invention."
+        },
+        "noLabel": {
+          "en": "Article 15"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "A prior user may not transfer the right as prior user to another party, whether by reason of a Licence or transfer of rights, except by reason of inheritance.\nA prior user may only use the right to carry out the Invention.\n(3) A prior user shall not be entitled to prohibit others from carrying out the Invention."
+        },
+        "noLabel": {
+          "en": "Article 16"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "In the event that a prior user violates the provision as referred to in Article 16 paragraph (1), the Minister may revoke the certificate as prior user."
+        },
+        "noLabel": {
+          "en": "Article 17"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Further provisions regarding prior users shall be regulated by a Ministerial Regulation.\n(21\n(3)\n(1)\n(2)\nSection Five #.)-$t>&\n(1) R F-PU B LIK IN DO N ESIA\nSection Five\nRights and Obligations of the Patent Holder"
+        },
+        "noLabel": {
+          "en": "Article 18"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "A Patent Holder shall have the exclusive right to carry out the Patent he owns and to prohibit other parties who without his approval:\na. in the case of a product Patent: make, use, sell, import, rent, deliver, or make available for sale or rent or delivery products granted the Patent;\nb. in the case of a process Patent: use the production process granted the Patent to make goods or perform other actions as referred to in\nletter a.\nThe prohibition on using the production process granted the Patent as referred to in paragraph (1) letter b shall only apply to the import of products solely produced from the use of the process granted Patent protection.\nIn the event that for the purposes of education, research, experiment, or analysis, the prohibition as referred to in paragraph (1) and paragraph (2) may be excepted insofar as it does not harm the reasonable interests of the Patent Holder and is not commercial in nature."
+        },
+        "noLabel": {
+          "en": "Article 19"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "A Patent Holder shall be obliged to make the product or use the process in Indonesia.\nMaking the product or using the process as referred to in paragraph (1) must support technology transfer, investment absorption and/or the provision of employment."
+        },
+        "noLabel": {
+          "en": "Article 20"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Every Patent Holder or patent licensee shall be obliged to pay an annual fee.\n(2)\n(3)\n(1) (2t\nSection Six\n(1) (2t\n(3)\n(1) (2t (s) REPUBLIK IN DON ES IA _t2_\nSection Six\nTerm of Patent Protection"
+        },
+        "noLabel": {
+          "en": "Article 21"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "A Patent shall be granted for a period of 20 (twenty) years from the Filing Date.\nThe period as referred to in paragraph (1) may not be extended.\nThe start and end dates of the patent period shall be recorded and announced through electronic and/or non-electronic media."
+        },
+        "noLabel": {
+          "en": "Article 22"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "A simple patent shall be granted for a period of 10 (ten) years from the Filing Date.\nThe period as referred to in paragraph (1) may not be extended.\nThe start and end dates of the simple patent period shall be recorded and announced through electronic and/or non-electronic media.\nCHAPTER III\nPATENT APPLICATIONS\nSection One\nRequirements and Procedures for Applications"
+        },
+        "noLabel": {
+          "en": "Article 23"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "(1) A Patent shall be granted based on an application.\n(2) The Application as referred to in paragraph (1) shall be filed by the Applicant or his Attorney with the Minister in writing in the Indonesian language by paying the fee.\n(3) Each Application shall be filed for one Invention or several Inventions that constitute a single unified Invention that are interrelated.\n(4) Application\n(1)\n(4) The Application as referred to in paragraph (2) may be filed either electronically or non-electronically."
+        },
+        "noLabel": {
+          "en": "Article 24"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The Application as referred to in Article 24 shall at least contain:\na. the date, month, and year of the application letter;\nb. the name, full address, and nationality of the Inventor;\nc. the name, full address, and nationality of the Applicant in the event that the Applicant is not a legal entity;\nd. the name and full address of the Applicant in the event that the Applicant is a legal entity;\ne. the name and full address of the Attorney in the event that the Application is filed through an Attorney; and\nf. the name of the country and the date of receipt of the first application in the event that the application is filed with the Right of Priority.\nThe Application as referred to in paragraph (1) must be accompanied by the requirements:\n(2t a. b. c. d. e. the title of the Invention; a description of the Invention; a claim or several claims of the Invention; an abstract of the Invention; drawings mentioned in the description that are necessary to clarify the Invention, if;\nthe Application is accompanied by drawings; a power of attorney in the event that the Application is filed through f.\nan Attorney;\ng. a statement letter of ownership of the Invention by the Inventor;\nh. a letter of transfer of the right of ownership of the Invention in the event that the Application is filed by an applicant who is not the Inventor; and\ni. a letter of evidence of deposit of micro-organisms in the event that the Application relates to micro-organisms.\n(3) Description\n(3) (41 REP IJ B LIK INDONESIA The description of the Invention as referred to in\nparagraph (2) letter b must disclose clearly and completely how such Invention can be carried out by a person skilled in the art.\nThe claim or several claims of the Invention as referred to in paragraph (2) letter c must disclose clearly and consistently the essence of the Invention, and be supported by the description as referred to in\nparagraph (3).\n(1)"
+        },
+        "noLabel": {
+          "en": "Article 25"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "If an Invention relates to and/or originates from genetic resources and/or traditional knowledge, the origin of such genetic resources and/or traditional knowledge must be stated clearly and correctly in the description.\nInformation on the genetic resources and/or traditional knowledge as referred to in\nparagraph (1) shall be determined by an official institution recognised by the government.\nThe sharing of results and/or access to the utilisation of genetic resources and/or traditional knowledge as referred to in paragraph (1) shall be carried out in accordance with laws and regulations and international agreements in the field of genetic resources and traditional knowledge."
+        },
+        "noLabel": {
+          "en": "Article 26"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "In the event that the Application is filed through an Attorney, the address of the Attorney as referred to in Article 25 paragraph (1) letter e shall become the domicile of the Applicant.\nArticle 28 An Application filed by an Applicant who does not reside or have a permanent domicile within the territory of the Unitary State of the Republic of Indonesia must be filed through his Attorney in Indonesia.\n(21\n(3)"
+        },
+        "noLabel": {
+          "en": "Article 27"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 29"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Further provisions regarding the requirements and procedures for filing an Application shall be regulated by a Ministerial Regulation.\nSection Two\nApplications with the Right of Priority"
+        },
+        "noLabel": {
+          "en": "Article 29"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "(1) An Application with the Right of Priority must be filed within no more than 12 (twelve) months from the priority date.\n(2) In addition to having to fulfil the provisions as referred to in Article 25, an application using the Right of Priority as referred to in paragraph (1) must also be completed with priority documents legalised by the competent official in the country concerned.\n(3) The priority documents legalised by the competent official in the country concerned as referred to in paragraph (2) must have been submitted to the Minister no later than 16 (sixteen) months from the priority date.\n(a) If the requirements as referred to in paragraph (1), paragraph\n(2), and paragraph (3) are not fulfilled by the Applicant, the application shall be considered filed without using the Right of Priority."
+        },
+        "noLabel": {
+          "en": "Article 30"
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The provisions as referred to in Article 24 up to Article 28 shall apply mutatis mutandis to an Application using the Right of Priority."
+        },
+        "noLabel": {
+          "en": "Article 3"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Further provisions regarding Applications filed with the Right of Priority shall be regulated by a Ministerial Regulation.\nSection Three t6-\nSection Three\nApplications under the Patent Cooperation Treaty\n(1) (2\\\n(3)"
+        },
+        "noLabel": {
+          "en": "Article 32"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "An Application may be filed under the Patent Cooperation Treaty.\nThe provisions as referred to in Article 24 up to Article 28 shall apply mutatis mutandis to an Application under the Patent Cooperation Treaty.\nFurther provisions regarding Applications filed under the Patent Cooperation Treaty shall be regulated in a Ministerial Regulation.\nSection Four\nAdministrative Examination"
+        },
+        "noLabel": {
+          "en": "Article 33"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "An Application that has fulfilled the minimum requirements shall be given a Filing Date and recorded by the Minister.\nThe minimum requirements as referred to in paragraph\n(1) shall cover:\na. the Application data as referred to in"
+        },
+        "noLabel": {
+          "en": "Article 34"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "paragraph (1);\nb. the Application data as referred to in"
+        },
+        "noLabel": {
+          "en": "Article 25"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "c. proof of payment of the Application fee.\nIn the event that the description of the Invention as referred to in Article 25 paragraph (2) letter b is written in a foreign language, the description must be completed with a translation in the Indonesian language and must be submitted no later than 30 (thirty) Days from the Filing Date as referred to in paragraph\n(1).\nIf the description of the Invention written in a foreign language is not completed with a translation in the Indonesian language up to the time limit as referred to in paragraph (3), the said Application shall be considered withdrawn.\n(1) (21\n(3) (41"
+        },
+        "noLabel": {
+          "en": "Article 25"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "(3)\n(4) -t7-"
+        },
+        "noLabel": {
+          "en": "Article 35"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "(1) In the event that the requirements and completeness of the application as referred to in Article 25 are not yet complete, the Minister shall notify the Applicant in writing to complete the requirements and completeness of such Application within no more than 3 (three) months from the date of the notice letter sent by the Minister.\n(2) The period as referred to in paragraph (1) may be extended for no more than 2 (two) months.\nThe extension period as referred to in paragraph (2) may be extended for no more than 1 (one) month after the expiry of such period subject to a fee.\nTo obtain the extension of the period as referred to in paragraph (2) and paragraph (3), the Applicant must file a request in writing to the Minister accompanied by the reasons before the time limit as referred to in paragraph (1) or paragraph (2) expires.\n(5) In the event of an emergency, the Applicant may file a request for an extension of the period other than as referred to in paragraph (2) and paragraph (3) in writing accompanied by supporting evidence to the Minister.\n(6) The Minister may grant the extension of the period as referred to in paragraph (5) for no more than 6 (six) months after the expiry of the period as referred to in paragraph (3)."
+        },
+        "noLabel": {
+          "en": "Article 35"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "If the Applicant does not complete the requirements and completeness of the Application within the period as referred to in Article 35 paragraph (1), paragraph (2), paragraph (3), and/or paragraph (6), the Minister shall notify the Applicant in writing that the Application is considered withdrawn."
+        },
+        "noLabel": {
+          "en": "Article 36"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "(1) (21\n(3)\n(4) (s) _18_"
+        },
+        "noLabel": {
+          "en": "Article 37"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "If for one same Invention more than one Application is filed by different applicants and on different dates, the application given the earlier Filing Date shall be considered for the grant of a Patent.\nIf several Applications for the same Invention as referred to in paragraph (1) have the same Filing Date, the Minister shall notify in writing and order the applicants to deliberate in order to decide the Application to be considered for the grant of a Patent.\nThe Applicants as referred to in paragraph (2) shall be obliged to hold deliberations and submit the results of their decision to the Minister within no more than 6 (six) months from the date of the Minister's notice letter.\nIn the event that no agreement or decision is reached among the Applicants, deliberation is not possible, or the results of the deliberation are not submitted by the Applicants within the period as referred to in\nparagraph (3), the Minister shall reject the Applications filed by several Applicants with the same Filing Date as referred to in paragraph (2).\nThe Minister shall notify the rejection as referred to in paragraph (4) in writing to the Applicants.\n(1)\nSection Five\nAmendment and Divisional Applications Paragraph 1 General"
+        },
+        "noLabel": {
+          "en": "Article 37"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "An Application may be amended or divided on the initiative of the Applicant and/or on the advice of the Minister.\nThe amendment or division as referred to in\nparagraph (1) may be made before the application is given a decision approving the Patent.\n(2t Paragraph 2 $^1)-ilqy4( Paragraph 2 Amendment of Applications\n(1)\n(2)"
+        },
+        "noLabel": {
+          "en": "Article 38"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "An Application may be amended in respect of:\na. the Application data as referred to in"
+        },
+        "noLabel": {
+          "en": "Article 39"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "paragraph (1) letter b, letter e, and/or letter f; and/or\nb. the Application data as referred to in"
+        },
+        "noLabel": {
+          "en": "Article 25"
+        },
+        "dupIndex": 4
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "paragraph (2) letter a up to letter e.\nAmendment to the description of the Invention and/or the claim or several claims of the Invention as referred to in Article 25 paragraph (2) letter b and letter c may be made provided that such amendment does not broaden the scope of the Invention already filed in the earlier Application.\nIn the event that the amendment is made by adding the number of claims from the original Application so that it becomes more than 10 (ten) claims, a fee shall be charged for such excess claims.\nIf the Applicant does not pay the fee as referred to in paragraph (3), the excess claims shall be considered withdrawn."
+        },
+        "noLabel": {
+          "en": "Article 25"
+        },
+        "dupIndex": 5
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "In addition to the amendment of the application data as referred to in Article 39 paragraph (1), the Application may also be converted from a patent to a simple patent or vice versa.\nThe request for amendment as referred to in\nparagraph (1), which has fulfilled the requirements as referred to in Article 25, shall be considered filed on the same date as the original Filing Date.\n(3)\n(4)\n(1)\n(2) Paragraph 3 REFU BLIK INDONESIA Paragraph 3 Divisional Applications (l) (2t"
+        },
+        "noLabel": {
+          "en": "Article 40"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "If an Application consists of several Inventions that do not constitute a single unified Invention as referred to in Article 24 paragraph (3), the Applicant may file a divisional application.\nThe Divisional Application as referred to in\nparagraph (1) may be filed separately in one or more Applications provided that the scope of protection requested in each such Application does not broaden the scope of protection already filed in the original application.\nThe Divisional Application as referred to in\nparagraph (1) and paragraph (2), which has fulfilled the requirements as referred to in Article 25, shall be considered filed on the same date as the original Filing Date.\nIn the event that the Applicant does not file a divisional Application within the time limit as referred to in Article 38 paragraph (2), the Substantive Examination of the Application shall only be carried out on the Invention that constitutes a single unified Invention.\n(3) (4t"
+        },
+        "noLabel": {
+          "en": "Article 41"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Further provisions regarding the procedures for amendment and divisional applications shall be regulated by a Ministerial Regulation.\nSection Six\nWithdrawal of Applications"
+        },
+        "noLabel": {
+          "en": "Article 42"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "An Application may only be withdrawn by the applicant before the Minister gives a decision approving or rejecting the Application.\nThe withdrawal of the Application as referred to in paragraph (1) shall be filed in writing to the Minister.\n(3) The provision (l)\n(2)\n(3) The provisions regarding the procedures for withdrawal of an Application shall be regulated by a Ministerial Regulation.\nSection Seven\nApplications That Cannot Be Accepted and the Obligation to Maintain Confidentiality"
+        },
+        "noLabel": {
+          "en": "Article 43"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "(1) (21 The Minister cannot accept an application filed by an employee of the Directorate General of Intellectual Property or a person who by reason of his duties works for and on behalf of the Directorate General of Intellectual Property, or his Attorney until 1 (one) year after ceasing for any reason from the Directorate General of Intellectual Property.\nAny acquisition of a Patent or of rights relating to a Patent by an employee of the Directorate General of Intellectual Property or a person who by reason of his duties works for and on behalf of the Directorate General of Intellectual Property until 1 (one) year after ceasing for any reason from the Directorate General of Intellectual Property shall be declared invalid unless the ownership of such Patent is obtained by inheritance.\n(1)\n(2)\n(3)"
+        },
+        "noLabel": {
+          "en": "Article 44"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "All documents of the Application, from the Filing Date up to the date of announcement of the Application, shall be confidential, except for an Inventor who does not act as the Applicant.\nEvery Person shall be obliged to maintain the confidentiality of all documents of the Application as referred to in paragraph\n(1).\nThe Inventor as referred to in paragraph (1) may request a copy of all documents of the application as referred to in paragraph (1) subject to a fee.\nAn Inventor who does not act as the applicant as referred to in paragraph (1) must attach a statement completed with sufficient evidence that the person concerned is the Inventor of the Invention applied for.\n(41 CHAPTER IV CHAPTER IV ANNOUNCEMENT AND SUBSTANTIVE EXAMINATION\nSection One\nAnnouncement"
+        },
+        "noLabel": {
+          "en": "Article 45"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The Minister shall announce an Application that has fulfilled the provisions as referred to in"
+        },
+        "noLabel": {
+          "en": "Article 46"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The announcement as referred to in paragraph (1) shall be made no later than 7 (seven) Days after 18 (eighteen) months from:\na. the Filing Date; or\nb. the priority date in the event that the application is filed with the Right of Priority.\nIn certain cases in accordance with the provisions of laws and regulations, the announcement as referred to in paragraph (2) may be made at the earliest 6 (six) months from the Filing Date at the request of the Applicant accompanied by the reasons and subject to a fee."
+        },
+        "noLabel": {
+          "en": "Article 25"
+        },
+        "dupIndex": 6
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "(1) The announcement shall be made through electronic media and/or non-electronic media.\n(2) The date of commencement of the announcement of the application shall be recorded by the Minister.\n(3) The announcement as referred to in paragraph (1) must be visible and accessible to every Person."
+        },
+        "noLabel": {
+          "en": "Article 47"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "The announcement shall be valid for 6 (six) months from the date of announcement of the application.\nThe announcement shall be made by stating:\na. the name and nationality of the Inventor;\nb. the name and full address of the applicant and of the Attorney in the event that the Application is filed through an Attorney;\nc. the title of the Invention;\n(1)\n(2)\n(3)\n(1) (2t\nd. Date d.\nPRESIDEI!\nFiling Date and the country where it was filed in the case of the Right of Priority; abstract of the Invention; classification of the Invention; drawings, in the event that the Application is accompanied by drawings; announcement number; Application number. or priority date, number, application first filed in the event that the Application is filed with the Application accompanied by drawings and e. f. o h. i.\n(1)\n(2)\n(3)"
+        },
+        "noLabel": {
+          "en": "Article 48"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Every Person may submit views and/or objections in writing to the Minister accompanied by reasons regarding the announced Application.\nThe submission of views and/or objections as referred to in paragraph (1) must have been received by the Minister within the announcement period.\nIn the event that there are views and/or objections as referred to in paragraph (1), the Minister shall notify such views and/or objections to the Applicant no later than 7 (seven) Days from the date the views and/or objections are received.\nThe Applicant may submit in writing explanations and/or counter-arguments against the views and/or objections as referred to in paragraph (1) to the Minister no later than 30 (thirty) Days from the date of the notice letter as referred to in paragraph (3).\nThe Minister shall use the views and/or objections, explanations, and/or counter-arguments as referred to in paragraph (1) and paragraph (4) as additional material for consideration in the substantive examination stage.\n(41 (s)"
+        },
+        "noLabel": {
+          "en": "Article 49"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "(2)\n(3) REPI-] BLIK IN DO N ESIA"
+        },
+        "noLabel": {
+          "en": "Article 50"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "(1) If an Invention relates to the defence and security interests of the state, the Minister shall determine that the Application for such Invention is not to be announced after consulting with the agency that administers government affairs in the field of state defence and security.\nThe Minister shall notify the Applicant or his Attorney in writing regarding the determination of the Application not to be announced as referred to in paragraph (1).\nThe documents of the Application not announced that are consulted with the government agency as referred to in paragraph (1) shall be excepted from the provision as referred to in Article 45 paragraph\n(1).\nThe government agency as referred to in paragraph\n(1) shall be obliged to maintain the confidentiality of the Invention and the documents of the Application consulted.\nSection Two\nSubstantive Examination"
+        },
+        "noLabel": {
+          "en": "Article 50"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The request for substantive examination shall be filed in writing to the Minister subject to a fee.\nThe request for substantive examination as referred to in paragraph (1) shall be filed no later than 36 (thirty-six) months from the Filing Date.\nIf the request for substantive examination is not filed within the time limit as referred to in paragraph (1) or the fee for it is not paid, the Application shall be considered withdrawn.\nThe Minister shall notify in writing the Application considered withdrawn as referred to in paragraph (2) to the Applicant or his Attorney.\n(4)\n(1) (21\n(3)\n(4)\n(5) Apabila (s)\n(6) (71\n(8)\n(1) (2) If the request for substantive examination as referred to in paragraph (1) is filed before the expiry of the announcement period as referred to in Article 48 paragraph (1), the substantive examination shall be carried out after the expiry of the announcement period.\nIf the request for substantive examination as referred to in paragraph (1) is filed after the expiry of the announcement period as referred to in Article 48 paragraph (1), the substantive examination shall be carried out after the date of receipt of such request for substantive examination.\nThe request for substantive examination of a divisional Application or of a conversion of an Application from a patent to a simple patent or vice versa must be filed together with the filing of the divisional application or the conversion of the Application from a Patent to a simple patent or vice versa.\nIf the request for substantive examination is not filed together with the divisional application or the conversion of the Application from a Patent to a simple patent or vice versa as referred to in paragraph (7), the divisional Application or the conversion of the application from a Patent to a simple patent or vice versa shall be considered withdrawn."
+        },
+        "noLabel": {
+          "en": "Article 5"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "The substantive examination of an Application not announced as referred to in Article 50 shall be carried out no later than 6 (six) months from the date of the Minister's determination regarding the non-announcement of the relevant Application.\nThe substantive examination as referred to in\nparagraph (1) shall not be subject to a fee."
+        },
+        "noLabel": {
+          "en": "Article 52"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "(1) The substantive examination shall be carried out by an examiner.\n(2) The Minister may request the assistance of experts and/or use the necessary facilities of other agencies for the purposes of substantive examination.\n(3) Experts\n(3)\n(4) (s)\n(6) The experts as referred to in paragraph (2) shall be appointed and dismissed by the Minister.\nThe results of the substantive examination carried out by the experts as referred to in paragraph (3) shall be considered the same as the results of the examination carried out by an Examiner.\nThe results of the examination as referred to in paragraph (4) must obtain the approval of the Minister.\nFurther provisions regarding the procedures and requirements for the appointment and dismissal of experts as referred to in paragraph (3) shall be regulated by a Ministerial Regulation.\nArticle 55\n(1) In the event that the substantive examination is carried out on an Application with the Right of Priority, the Minister may request from the Applicant and/or the patent office in the country of origin of the Right of Priority or in another country regarding the completeness of documents in the form of:\na. a valid copy of the letter relating to the results of the substantive examination carried out on the patent application first filed abroad;\nb. a valid copy of the patent documents already granted in connection with the patent application first filed abroad;\nc. a valid copy of the decision on the rejection of the patent application first filed abroad in the event that the said patent application was rejected;\nd. a valid copy of the decision on the annulment of the patent ever issued abroad in the event that the said patent was ever annulled; and/or\ne. other necessary documents."
+        },
+        "noLabel": {
+          "en": "Article 53"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "The substantive examination shall be carried out based on the provisions of Article 3 paragraph (1), Article 4, Article 5, Article 7, Article 9,"
+        },
+        "noLabel": {
+          "en": "Article 54"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "paragraph (2), Article 40, and Article 41.\n(2) Submission #trp_rrtt>€ R F:PU B LIK INDONESIA The submission of copies of documents as referred to in paragraph (1) may be accompanied by additional explanations separately by the Applicant.\nThe documents as referred to in paragraph (1) may serve as the basis for the Minister's consideration in giving a decision approving or rejecting an Application with the Right of Priority."
+        },
+        "noLabel": {
+          "en": "Article 9"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Further provisions regarding the requirements and procedures for substantive examination shall be regulated by a Ministerial Regulation.\nCHAPTER V\nAPPROVAL OR REJECTION OF APPLICATIONS\nSection One\nGeneral"
+        },
+        "noLabel": {
+          "en": "Article 56"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "The Minister shall give a decision to approve or reject the Application no later than 30 (thirty) months from:\na. the date of receipt of the request letter for substantive examination if the request for substantive examination is filed after the expiry of the announcement period; or\nb. the expiry of the announcement period as referred to in Article 48 paragraph (1) if the request for substantive examination is filed before the expiry of the announcement period.\nSection Two\nApproval"
+        },
+        "noLabel": {
+          "en": "Article 57"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "(1) The Minister shall approve the Application if, based on the results of the substantive examination, the Invention applied for as a patent fulfils the provisions as referred to in"
+        },
+        "noLabel": {
+          "en": "Article 58"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "(2)\n(3)\n(2) In\n(2) In the event that the Application is approved, the Minister shall notify the applicant or Attorney in writing that his Application is granted a patent.\n(3) Within no more than 2 (two) months from the date of the notice letter of the grant of the Patent, the Minister shall issue the Patent certificate.\nThe Applicant may not withdraw the application or make improvements to the description and claims within the period as referred to in paragraph (3).\nThe Patent that has been granted shall be recorded and announced, except for a Patent relating to the defence and security interests of the state.\nThe Minister may provide extracts or copies of Patent documents to parties requiring them subject to a fee.\n(41 (s)\n(6) REPU ELIK INDONESIA"
+        },
+        "noLabel": {
+          "en": "Article 54"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "The Patent certificate constitutes proof of the right to the patent.\nThe right to the Patent as referred to in paragraph (1) shall have its scope of protection determined based on the Invention described in the claims.\n(3) The right to the Patent as referred to in paragraph (1) and\nparagraph (2) constitutes an intangible movable object.\nArticle 60 Patent protection shall be evidenced by the issuance of a Patent certificate that applies retroactively from the Filing Date."
+        },
+        "noLabel": {
+          "en": "Article 59"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "The Patent Holder or his Attorney may file a request for correction in writing to the Minister in the event that there is a data error in the patent certificate and/or its attachment.\nIn the event that the data error in the patent certificate is an error of the Applicant, the request for correction of the Patent certificate as referred to in paragraph (1) shall be subject to a fee.\n(1)\n(2)\n(1)\n(2)\n(3) In\n(3) (4t (s) In the event that the data error in the patent certificate is not an error of the Applicant, the request for correction of the Patent certificate as referred to in\nparagraph (1), shall not be subject to a fee.\nThe change of data as referred to in paragraph (1) in the form of a change of name and/or address of the Patent Holder shall be recorded and announced by the Minister.\nThe provisions regarding the requirements and procedures for recording the change of data as referred to in paragraph (1) shall be regulated by a Ministerial Regulation.\nSection Three\nRejection"
+        },
+        "noLabel": {
+          "en": "Article 61"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "In the event that the Examiner reports that the Invention applied for as a Patent does not fulfil the provisions as referred to in Article 54, the Minister shall notify the applicant or his Attorney in writing in order to fulfil the said provisions.\nThe notification as referred to in paragraph (1) shall state:\na. the provisions that must be fulfilled; and\nb. the reasons and references used in the substantive examination.\nThe Applicant must provide a response and/or fulfil the provisions as stated in the notice letter no later than 3 (three) months from the date of the notice letter.\nThe period as referred to in paragraph (3) may be extended for no more than 1 (one) month.\nThe extension period as referred to in paragraph (4) may be extended for no more than 1 (one) month after the expiry of the said period subject to a fee.\n(1)\n(2)\n(3) (41 (s)\n(6) In order to -30_\n(6) In order to obtain the extension of the period as referred to in paragraph (4) and paragraph (5), the Applicant must file a request in writing to the Minister before the time limit as referred to in paragraph (3) and paragraph (4) expires.\n(7) In the event of an emergency, the applicant may file a request for an extension other than as referred to in paragraph (4) and paragraph (5) in writing accompanied by supporting evidence to the Minister.\n(8) The Minister may grant the extension of the period as referred to in paragraph (7) for no more than 6 (six) months after the expiry of the period as referred to in paragraph (6).\n(9) If the Applicant provides a response but does not fulfil the provisions as stated in the notice letter within the period as referred to in paragraph (3), paragraph (4), paragraph (5), and/or paragraph\n(8), the Minister shall notify the Applicant in writing that the Application is rejected within no later than 2 (two) months.\n(10) If the Applicant does not provide the response as stated in the notice letter within the period as referred to in paragraph\n(3), paragraph (4), paragraph (5), and/or paragraph (8), the Minister shall notify the applicant in writing that the Application is considered withdrawn within no later than 2 (two) months."
+        },
+        "noLabel": {
+          "en": "Article 62"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "(1) In the event that a divisional is made to an Application, the Minister shall reject:\na. a divisional Application that exceeds the time limit in Article 38 paragraph (2);\nb. a claim or several claims of protection in a divisional Application whose filing broadens the scope of protection as referred to in Article 41 paragraph (2);\nc. an Invention that does not constitute a unity of the original Application.\n(2) In ESQ^\\, tr^*y-flc>,.€\n(2) In the event that the Application is rejected, the Minister shall notify the said rejection in writing accompanied by the reasons and considerations forming the basis of the rejection to the Applicant or his Attorney.\nCHAPTER VI\nPATENT APPEAL COMMISSION AND APPEAL APPLICATIONS\nSection One\nPatent Appeal Commission"
+        },
+        "noLabel": {
+          "en": "Article 63"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "The Patent Appeal Commission shall have the duty to receive, examine, and decide:\na. appeal applications against the rejection of an Application;\nb. appeal applications against corrections to the description, claims, and/or drawings after the Application is granted a Patent; and\nc. appeal applications against the decision to grant a Patent.\nThe composition of the Patent Appeal Commission shall consist of:\na. 1 (one) chairman concurrently member;\nb. 1 (one) vice-chairman concurrently member; and\nc. at most 30 (thirty) members originating from the elements of:\n1. 15 (fifteen) experts in the field of patents; and\n2. 15 (fifteen) Examiners.\nThe members of the Patent Appeal Commission as referred to in paragraph (2) shall be appointed and dismissed by the Minister for a term of office of 3 (three) years and may be reappointed for 1 (one) further term of office.\nThe chairman and vice-chairman shall be elected from and by the members of the Patent Appeal Commission.\n(1)\n(2)\n(3) (4t"
+        },
+        "noLabel": {
+          "en": "Article 64"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "(1) (21 REPU ELIK INDONESIA _32_"
+        },
+        "noLabel": {
+          "en": "Article 65"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "To examine appeal applications, the Patent Appeal Commission shall form a panel numbering an odd number of at least 3 (three) persons and at most 5 (five) persons, one of whom shall be designated as chairman.\nThe panel as referred to in paragraph (1) shall be drawn from the members of the Patent Appeal Commission, one of whose members is an Examiner holding at least the position of Associate Examiner who did not carry out substantive examination of the Application.\nIn the event that the panel numbers more than 3 (three) persons, the Examiners as referred to in paragraph (1) shall be fewer in number than the panel members other than Examiners."
+        },
+        "noLabel": {
+          "en": "Article 65"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Further provisions regarding the membership, duties, functions, and authority of the Patent Appeal Commission shall be regulated by a Ministerial Regulation.\nSection Two\nAppeal Applications\nParagraph 1 General"
+        },
+        "noLabel": {
+          "en": "Article 66"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "An appeal application may be filed against:\na. the rejection of an Application;\nb. corrections to the description, claims, and/or drawings after the Application is granted a Patent; and/or\nc. the decision to grant a Patent.\nThe appeal application shall be filed in writing by the Applicant or his Attorney to the Patent Appeal Commission with a copy submitted to the Minister subject to a fee.\n(3)\n(1) (21 Paragraph 2 Paragraph 2 Appeal Applications against the rejection of an application\n(1) (2t\n(3) (4t (s)\n(6) (7t\n(8)"
+        },
+        "noLabel": {
+          "en": "Article 67"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "An appeal application against the rejection of an application shall be filed no later than 3 (three) months from the date of sending of the notice letter of rejection of the Application.\nIf the Applicant or his Attorney files an appeal after passing the period as referred to in paragraph (1), the Applicant may not file the appeal application again.\nThe Patent Appeal Commission shall commence the examination of the appeal application against the rejection of the Application within no more than 1 (one) month from the date of receipt of the appeal application.\nIn the appeal application as referred to in paragraph (1), the objections and the reasons against the rejection of the Application must be described in full.\nThe reasons as referred to in paragraph (4) shall not constitute new reasons or explanations that broaden the scope of the Invention.\nThe decision of the Patent Appeal Commission shall be determined no later than 9 (nine) months from the date of commencement of the examination of the appeal application as referred to in paragraph (3).\nIn the event that the Patent Appeal Commission decides to accept the appeal application against the rejection of the Application, the Minister shall follow up by issuing a Patent certificate.\nIn the event that the appeal application against the rejection of the Application is accepted as referred to in paragraph\n(7), the Minister shall record and announce it through electronic media and/or non-electronic media.\nParagraph 3 ItrRESIDEN tl EP ll B LIl\\ |hlDot.tE:]lr\\ Appeal Applications against the Correction of the Description, Claims, and/or Drawings After the Application Is Granted a Patent (l)"
+        },
+        "noLabel": {
+          "en": "Article 68"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "An appeal application against corrections to the description, claims, and/or drawings after the application is granted a Patent shall be filed within a period of 3 (three) months from the date of sending of the notice letter that the Patent may be granted.\nIf the Applicant or his Attorney files an appeal after passing the period as referred to in paragraph (1), the Applicant may not file the appeal application again.\nThe Patent Appeal Commission shall commence the examination of the appeal application against corrections to the description, claims, and/or drawings after the application is granted a Patent within no more than 1 (one) month from the date of receipt of the appeal application.\nThe corrections as referred to in paragraph (1) must be limited to the following matters:\na. limitation of the scope of the claims;\nb. correction of errors in the translation of the description; and/or\nc. clarification of the contents of the description that are unclear or ambiguous.\nThe corrections as referred to in paragraph (4) shall not result in the scope of protection of the Invention being broader than the scope of protection of the Invention first filed.\nThe decision of the Patent Appeal Commission shall be determined no later than 6 (six) months from the date of commencement of the examination of the appeal application as referred to in paragraph (3).\nIn the event that the Patent Appeal Commission decides to accept the appeal application against corrections to the description, claims, and/or drawings after the application is granted a Patent, the Minister shall follow up by amending the attachment to the certificate.\n(21\n(3)\n(4) (s)\n(6)\n(7)\n(8) In o r o u J.T,[ n,'1, 5] n, r., o\n(8) In the event that the appeal application against corrections to the description, claims, and/or drawings is accepted as referred to in paragraph (7), the Minister shall record and announce it through electronic media and/or non-electronic media.\nParagraph 4 Appeal Applications against the Decision to Grant a Patent"
+        },
+        "noLabel": {
+          "en": "Article 69"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "An appeal application against the decision to grant a Patent shall be filed in writing by an interested party or his Attorney to the Patent Appeal Commission with a copy submitted to the Minister subject to a fee.\nThe appeal application against the decision to grant a Patent shall be filed within a period of no more than 9 (nine) months from the date of notification of the grant of the Patent.\nIf the appeal application against the decision to grant a Patent already granted to a Patent Holder is filed beyond the period as referred to in paragraph (2), the interested party or his Attorney may pursue a legal remedy by filing a lawsuit with the Commercial Court.\nThe Patent Appeal Commission shall commence the examination of the appeal application against the decision to grant a Patent within no more than 1 (one) month from the date of receipt of the appeal application.\nIn the appeal application against the decision to grant a Patent as referred to in paragraph (1), the objections and reasons must be described in full and completed with strong supporting evidence.\nThe decision of the Patent Appeal Commission shall be determined no later than 9 (nine) months from the date of commencement of the appeal examination as referred to in paragraph\n(4).\nIn the event that the Patent Appeal Commission grants part of the appeal application against the decision to grant a Patent, the Minister shall follow up by amending the attachment to the certificate.\n(1) (21\n(3) (41 (s)\n(6) (71\n(8) In\n(8) (e) REPUBLIK II( DON ES IA In the event that the Patent Appeal Commission grants the entire contents of the appeal application against the decision to grant a Patent, the Minister shall revoke the certificate.\nAgainst the decision of the Patent Appeal Commission as referred to in paragraph (7) or paragraph (8), the Minister shall record and announce it through electronic media and/or non-electronic media."
+        },
+        "noLabel": {
+          "en": "Article 70"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "The Patent Appeal Commission shall be obliged to send a notice letter within no more than 14 (fourteen) Days from the date of the decision to accept or reject:\na. appeal applications against the rejection of an Application;\nb. appeal applications against corrections to the description, claims, and/or drawings after the Application is granted a Patent; and\nc. appeal applications against the decision to grant a Patent.\nSection Three\nLegal Remedies"
+        },
+        "noLabel": {
+          "en": "Article 71"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "The Applicant or his Attorney may file a lawsuit against the rejection decision of the Patent Appeal Commission with the Commercial Court within no more than 3 (three) months from the date of sending of the notice letter of rejection.\nThe notification of rejection as referred to in\nparagraph (1) shall cover the rejection of a Patent appeal application against:\na. the rejection of an Application;\nb. corrections to the description, claims and/or drawings; and\nc. the decision to grant a Patent.\nAgainst the decision of the Commercial Court as referred to in paragraph (1), an appeal for cassation may only be filed.\n(1)\n(2)\n(3)"
+        },
+        "noLabel": {
+          "en": "Article 72"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "- J/ -"
+        },
+        "noLabel": {
+          "en": "Article 73"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "Further provisions regarding the procedures for applying for, examining, and settling patent appeal applications and appeal applications against the grant of a patent shall be regulated by a Ministerial Regulation.\nCHAPTER VII\nTRANSFER OF RIGHTS, LICENCES, AND PATENTS AS OBJECTS OF FIDUCIARY SECURITY\nSection One\nTransfer of Rights\nArticle 74\nThe right to a Patent may pass or be transferred either wholly or in part by reason of:\na. inheritance;\nb. grant;\nc. will;\nd. waqf;\ne. written agreement; or\nf. other reasons justified under the provisions of laws and regulations.\nThe transfer of the right to a Patent as referred to in\nparagraph (1) must be accompanied by the original patent document and other rights relating to the patent.\nAll forms of transfer of the right to a patent as referred to in paragraph (1) must be recorded and announced subject to a fee.\nAgainst a transfer of the right to a patent that does not comply with the provisions as referred to in paragraph (1),\nparagraph (2), and paragraph (3), all rights and obligations shall remain attached to the Patent Holder.\nThe provisions regarding the requirements and procedures for recording the transfer of a Patent shall be regulated by a Government Regulation.\n(1) (2\\\n(3) (4t (s)"
+        },
+        "noLabel": {
+          "en": "Article 73"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "Article 75 A transfer of rights shall not eliminate the right of the Inventor to have his name and identity still included in the patent certificate.\nSection Two\nLicence"
+        },
+        "noLabel": {
+          "en": "Article 75"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "A Patent Holder shall be entitled to grant a Licence to another party based on a Licence agreement, whether exclusive or non-exclusive, to carry out the acts as referred to in Article 19.\nThe Licence agreement as referred to in paragraph (1) may cover all or part of the acts as referred to in Article 19.\nThe Licence agreement as referred to in paragraph (2) shall be valid for the period for which the Licence is granted and shall be valid within the territory of the Unitary State of the Republic of Indonesia.\nArticle 77\nThe Patent Holder as referred to in Article 76 shall be entitled to carry out his Patent himself, unless otherwise agreed. gt) -fj,,$*€"
+        },
+        "noLabel": {
+          "en": "Article 76"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "A Licence agreement is prohibited from containing provisions that may harm Indonesia's national interests or containing restrictions that hinder the ability of the Indonesian nation to carry out technology transfer, mastery, and development.\n(1) (21\n(3)"
+        },
+        "noLabel": {
+          "en": "Article 78"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "(1) A Licence agreement must be recorded and announced by the Minister subject to a fee.\n(2) If -39_\n(2) If the Licence agreement is not recorded and not announced as referred to in paragraph (1), the said Licence agreement shall have no legal effect against third parties.\n(3) The Minister shall reject a request for recording a Licence agreement containing provisions as referred to in Article 78."
+        },
+        "noLabel": {
+          "en": "Article 79"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "Further provisions regarding the recording of Licence agreements shall be regulated by a Ministerial Regulation.\nSection Three\nCompulsory Licences\nParagraph 1 General"
+        },
+        "noLabel": {
+          "en": "Article 80"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "1 Compulsory Licences shall be non-exclusive."
+        },
+        "noLabel": {
+          "en": "Article 8"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "(1) A Compulsory Licence is a Licence to carry out a Patent granted based on a Ministerial Decision on the basis of an application on the grounds of:\na. the Patent Holder not carrying out the obligation to make the product or use the process in Indonesia as referred to in Article 20\nparagraph (1) within a period of 36 (thirty-six) months after the patent is granted;\nb. the Patent having been carried out by the patent holder or licensee in a form and in a manner that harms the interests of the public; or\nc. the Patent resulting from the development of a previously granted patent being incapable of being carried out without using another party's Patent still under protection.\n(2) Application -40_\n(2) The application for a Compulsory Licence as referred to in\nparagraph (1) shall be subject to a fee. Paragraph 2 Application for a Compulsory Licence\n(1) (21\n(3)"
+        },
+        "noLabel": {
+          "en": "Article 82"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "An application for a Compulsory Licence on the ground as referred to in Article 82 paragraph (1) letter a may be filed after passing the period of 36 (thirty-six) months from the date of grant of the patent.\nAn application for a Compulsory Licence on the grounds as referred to in Article 82 paragraph (1) letter b and letter c may be filed at any time after the patent is granted.\nAn application for a Compulsory Licence as referred to in Article 82 paragraph (1) letter c may only be granted if the Patent to be carried out contains an element of renewal that is more advanced than the existing patent.\nArticle 84 A Compulsory Licence as referred to in Article 82\nparagraph (1) may only be granted by the Minister if:\na. the applicant or his Attorney can submit evidence of having the ability to carry out the said Patent himself in full and having the facilities to carry out the relevant patent as soon as possible;\nb. the applicant or his Attorney has endeavoured to take steps within a period of no more than 12 (twelve) months to obtain a Licence from the Patent Holder on reasonable terms and conditions but has not obtained a result; and\nc. the Minister is of the opinion that the said Patent can be carried out in Indonesia on an economically feasible scale and provides benefits to the public.\nThe evidence as referred to in paragraph (1) letter a must be completed with a statement from the competent agency issued at the request of the applicant or his Attorney.\n(1) (2t"
+        },
+        "noLabel": {
+          "en": "Article 83"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "Article 85 In the event that a Compulsory Licence is applied for on the ground as referred to in Article 82 paragraph (1) letter c, then:\na. the Patent Holder shall be entitled to grant a Licence to each other to use the other party's Patent on reasonable terms; and\nb. the use of the Patent by the licensee may not be transferred except if transferred together with the other Patent."
+        },
+        "noLabel": {
+          "en": "Article 85"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "The examination of the application for a Compulsory Licence shall be carried out by an ad hoc team of experts formed by the Minister in accordance with the field of the Patent for which the Compulsory Licence is applied.\nIn carrying out the examination as referred to in paragraph (1), the team of experts shall summon the patent holder to hear his opinion.\nThe Patent Holder shall be obliged to submit his opinion within no more than 30 (thirty) Days from the date of notification.\nIf the Patent Holder does not submit his opinion within the period as referred to in paragraph\n(3), the Patent Holder shall be considered to approve the grant of the Compulsory Licence.\n(1)\n(2)\n(3) (41 _4I_"
+        },
+        "noLabel": {
+          "en": "Article 86"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "(1) The Minister shall notify the decision to grant, postpone, or reject the application for a Compulsory Licence to:\na. the applicant or his Attorney; and\nb. the Patent Holder or his Attorney.\nParagraph 3 Grant, Postponement, or Rejection of an application for a Compulsory Licence\n(2) Notification REPt.I EILIK IN DO N ESIA\n(2) The notification as referred to in paragraph (1) shall be made no later than 7 (seven) Days from the date of determination of the decision to grant, postpone, or reject the application for a Compulsory Licence.\n(1)\n(2)"
+        },
+        "noLabel": {
+          "en": "Article 87"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "In the event that the Minister grants the application for a Compulsory Licence as referred to in Article 87, the Minister shall determine a Ministerial Decision regarding the grant of the Compulsory Licence to the applicant or his Attorney, including the amount of Compensation and the manner of its payment.\nThe determination of the decision on the grant of the Compulsory Licence as referred to in paragraph (1) shall be made within no more than 90 (ninety) Days from the date of filing of the application for the Compulsory Licence.\nThe period as referred to in paragraph (2) shall not include a postponement period of no more than 12 (twelve) months from the date of notification of postponement by the Minister.\nThe decision on the grant of the Compulsory Licence as referred to in paragraph (1) shall contain:\na. the Compulsory Licence is non-exclusive;\nb. the grounds for the grant of the Compulsory Licence;\nc. the evidence, including statements or explanations as the basis for the grant of the Compulsory Licence;\nd. the term of the Compulsory Licence;\ne. the amount of Compensation to be paid by the compulsory licensee to the Patent Holder and the manner of its payment;\nf. the conditions for the termination of the Compulsory Licence and the matters that may annul it;\ng. the scope of the Compulsory Licence for all or part of the Patent for which the Compulsory Licence is applied; and\nh. other matters necessary to safeguard the interests of the relevant parties fairly.\n(s) (41\n(5) The provision -43_\n(5) Further provisions regarding the format of the decision on the grant of the Compulsory Licence as referred to in\nparagraph (1) shall be regulated by a Ministerial Regulation."
+        },
+        "noLabel": {
+          "en": "Article 88"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "The Ministerial Decision regarding the grant of the Compulsory Licence as referred to in Article 88 paragraph (1) may be challenged by a lawsuit with the Commercial Court."
+        },
+        "noLabel": {
+          "en": "Article 89"
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "The Minister may postpone or reject the grant of a Compulsory Licence if, based on the recommendation of the team of experts and the statement of the Patent Holder, the said Patent requires a period longer than 36 (thirty-six) months for its commercial implementation in Indonesia.\nThe statement of the Patent Holder as referred to in paragraph (1) must be accompanied by evidence that the period of 36 (thirty-six) months is not yet sufficient to carry out his Patent commercially in Indonesia."
+        },
+        "noLabel": {
+          "en": "Article 90"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The postponement of the grant of the Compulsory Licence as referred to in Article 90 paragraph (1) shall be granted for a period of no more than 12 (twelve) months from the date of notification of the postponement of the grant of the Compulsory Licence by the Minister.\nThe Minister shall determine the decision to grant or reject the application for a Compulsory Licence within no more than 14 (fourteen) Days from the date of expiry of the postponement period."
+        },
+        "noLabel": {
+          "en": "Article 9"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "A compulsory licensee shall be obliged to pay Compensation to the Patent Holder.\nThe provisions regarding the amount of Compensation and the manner of payment as referred to in paragraph (1) shall be regulated by a Ministerial Regulation.\n(1) (21\n(1)\n(2)\n(1)\n(2)"
+        },
+        "noLabel": {
+          "en": "Article 92"
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "(1) (2t\n(3)"
+        },
+        "noLabel": {
+          "en": "Article 93"
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "The Minister may grant a Compulsory Licence to produce pharmaceutical products granted a patent in Indonesia for the treatment of diseases in humans.\nThe Minister may grant a Compulsory Licence for the import of the supply of pharmaceutical products granted a patent in Indonesia but not yet capable of being produced in Indonesia for the treatment of diseases in humans.\nThe Minister may grant a Compulsory Licence to export pharmaceutical products granted a patent and produced in Indonesia for the treatment of diseases in humans based on a request from a developing country or a least developed country.\nParagraph 4 Recording of Compulsory Licences"
+        },
+        "noLabel": {
+          "en": "Article 93"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "The Minister shall be obliged to record the grant of a Compulsory Licence in the general register of Patents and announce it through electronic media and/or non-electronic media.\nThe recording and announcement of the grant of the Compulsory Licence as referred to in paragraph (1) shall be made within no more than 30 (thirty) Days from the date of determination of the decision on the grant of the Compulsory Licence by the Minister."
+        },
+        "noLabel": {
+          "en": "Article 94"
+        }
+      },
+      {
+        "no": 95,
+        "text": {
+          "en": "The Minister shall deliver a copy of the decision on the grant of the Compulsory Licence to:\na. the applicant for the Compulsory Licence or his Attorney; and\nb. the Patent Holder or his Attorney.\nThe delivery of a copy of the decision on the grant of the Compulsory Licence as referred to in paragraph (1) shall be made no later than 30 (thirty) Days from the date of determination of the decision on the grant of the Compulsory Licence as referred to in Article 88 paragraph (1).\n(1)\n(2) (l)\n(2)"
+        },
+        "noLabel": {
+          "en": "Article 95"
+        }
+      },
+      {
+        "no": 96,
+        "text": {
+          "en": "ffi\n(1) (2t"
+        },
+        "noLabel": {
+          "en": "Article 96"
+        }
+      },
+      {
+        "no": 96,
+        "text": {
+          "en": "Every Person may file a request for an extract of the decision on the grant of a Compulsory Licence.\nThe request for an extract of the decision on the grant of a Compulsory Licence as referred to in paragraph (1) must be filed in writing, either electronically or non-electronically, with the Directorate General of Intellectual Property subject to a fee.\nParagraph 5 Implementation of Compulsory Licences\nArticle 97 A Compulsory Licence shall be granted to the compulsory licensee for a period not exceeding the term of protection of the Patent for which the Compulsory Licence is applied."
+        },
+        "noLabel": {
+          "en": "Article 96"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 98,
+        "text": {
+          "en": "The implementation of the Compulsory Licence by the compulsory licensee shall be considered as the implementation of the patent for which the Compulsory Licence is applied."
+        },
+        "noLabel": {
+          "en": "Article 98"
+        }
+      },
+      {
+        "no": 99,
+        "text": {
+          "en": "The grant of a Compulsory Licence shall not release the Patent Holder from the obligation to pay the annual fee in accordance with the provisions of laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 99"
+        }
+      },
+      {
+        "no": 100,
+        "text": {
+          "en": "In the event that the Compulsory Licence relates to semiconductor technology, the compulsory licensee may only use the said Compulsory Licence for:\na. non-commercial public interests; or\nb. to carry out REPUELII( INDONESIA\nb. to carry out measures determined based on a court decision or a decision of a relevant institution stating that the implementation of the said patent constitutes a monopolistic practice or unfair business competition."
+        },
+        "noLabel": {
+          "en": "Article 100"
+        }
+      },
+      {
+        "no": 101,
+        "text": {
+          "en": "In order to implement the Compulsory Licence, the compulsory licensee may cooperate with other parties, whether domestically or abroad.\nParagraph 6 Transfer of Compulsory Licences"
+        },
+        "noLabel": {
+          "en": "Article 101"
+        }
+      },
+      {
+        "no": 102,
+        "text": {
+          "en": "A Compulsory Licence may not be transferred, except by reason of inheritance.\nIn the event that the Compulsory Licence is transferred by reason of inheritance, the Ministerial Decision regarding the grant of the Compulsory Licence shall remain applicable to the heir.\nA Compulsory Licence that passes by reason of inheritance as referred to in paragraph (1) must be reported to the Minister to be recorded in the general register of patents and announced through electronic media and/or non-electronic media. A Compulsory Licence that passes by reason of inheritance as referred to in paragraph (1) shall remain bound by the conditions of its grant and other provisions, particularly regarding the period stipulated in the decision on the grant of the Compulsory Licence as referred to in"
+        },
+        "noLabel": {
+          "en": "Article 102"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "paragraph (4).\nIf the heir does not report the transfer of the Compulsory Licence as referred to in paragraph (3) to the Minister, the Ministerial Decision regarding the grant of the Compulsory Licence shall not apply\n(1) (2t\n(3)\n(4) (s) Paragraf 7\n(1)\n(2) (s)\n(4) REtrUBLII( INDONESIA Paragraph 7 Termination of Compulsory Licences\nArticle 103 A Compulsory Licence shall terminate by reason of the expiry of the period stipulated in the decision on the grant of the Compulsory Licence by the Minister or by reason of a decision of the Commercial Court that has become legally final annulling the Ministerial Decision regarding the grant of the Compulsory Licence.\nApart from the expiry of the term of the Compulsory Licence and the decision of the Commercial Court annulling the grant of the Compulsory Licence as referred to in paragraph (1), the Compulsory Licence shall also terminate by reason of annulment based on a Ministerial Decision at the request of the Patent Holder if:\na. the ground on which the Compulsory Licence was granted no longer exists;\nb. the compulsory licensee does not implement the Compulsory Licence or does not make reasonable preparatory efforts to implement the Compulsory Licence promptly; or\nc. the compulsory licensee does not comply with the conditions and other provisions.\nA request for annulment of the decision on the grant of the Compulsory Licence on the ground as referred to in paragraph (2) letter b may be made after the compulsory licensee has not implemented the patent under the Compulsory Licence within a period of 24 (twenty-four) months from the date of the decision on the grant of the Compulsory Licence.\nThe conditions and other provisions that must be complied with by the compulsory licensee as referred to in\nparagraph (2) letter c may be in the form of:\na. payment of Compensation; or\nb. compliance with the scope of the Licence, as stipulated in the decision on the grant of the Compulsory Licence."
+        },
+        "noLabel": {
+          "en": "Article 88"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 1,
+        "text": {
+          "en": "(1) (21 FRL-:iiL)lll.l l? F-F'LlL'l l. I1., Il\\lt-r (,I .lE li Il\\ _48_"
+        },
+        "noLabel": {
+          "en": "Article 1"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 104,
+        "text": {
+          "en": "The Minister shall be obliged to notify the decision on the annulment of the Compulsory Licence as referred to in Article 103 paragraph (2) to:\na. the Patent Holder or his Attorney; and\nb. the compulsory licensee or his Attorney.\nThe notification of the Ministerial Decision regarding the annulment of the Compulsory Licence as referred to in paragraph (1) shall be made within no more than 14 (fourteen) Days from the date of determination of the Ministerial Decision regarding the annulment of the Compulsory Licence."
+        },
+        "noLabel": {
+          "en": "Article 104"
+        }
+      },
+      {
+        "no": 105,
+        "text": {
+          "en": "The Minister shall be obliged to record the termination of the Compulsory Licence as referred to in Article 103 paragraph (1) and paragraph (2) in the general register of patents and announce it through electronic media and/or non-electronic media.\nThe recording of the termination of the Compulsory Licence as referred to in paragraph (1) shall be made within no more than 14 (fourteen) Days from the date of termination of the Compulsory Licence."
+        },
+        "noLabel": {
+          "en": "Article 105"
+        }
+      },
+      {
+        "no": 106,
+        "text": {
+          "en": "The termination of the Compulsory Licence shall result in the restoration of the Patent Holder's right to the Patent from the date of recording as referred to in Article 105 paragraph (1)."
+        },
+        "noLabel": {
+          "en": "Article 106"
+        }
+      },
+      {
+        "no": 107,
+        "text": {
+          "en": "Further provisions regarding the procedures for granting a Compulsory Licence shall be regulated by a Ministerial Regulation.\n(1)\n(2)\nSection Four\n(1)\n(2) ffi PF]tr!JIIJEN tlEFU BLII'\\ I I.IDONES I,1\\ _49_\nSection Four\nPatents as Objects of Fiduciary Security"
+        },
+        "noLabel": {
+          "en": "Article 107"
+        }
+      },
+      {
+        "no": 108,
+        "text": {
+          "en": "The right to a Patent may serve as an object of fiduciary security.\nThe provisions regarding the requirements and procedures for the right to a patent as an object of fiduciary security shall be regulated by a Government Regulation.\nCHAPTER VIII\nIMPLEMENTATION OF PATENTS BY THE GOVERNMENT"
+        },
+        "noLabel": {
+          "en": "Article 108"
+        }
+      },
+      {
+        "no": 109,
+        "text": {
+          "en": "(1) The Government may itself implement a patent in Indonesia based on the considerations of:\na. matters relating to the defence and security of the state; or\nb. a very urgent need for the interests of the public.\nThe implementation of the Patent by the government as referred to in paragraph (1) shall be carried out in a limited manner, to meet domestic needs, and shall be non-commercial in nature.\nThe implementation of the Patent by the government as referred to in paragraph (1) shall be stipulated by a Presidential Regulation.\nThe implementation of the Patent by the government as referred to in paragraph (3) shall be carried out for a certain period and may be extended after hearing the considerations of the Minister and the relevant minister or the head of the agency responsible in the relevant field.\n(21\n(3) (4t Article 110 The implementation of a patent by the government as referred to in Article 109 paragraph (1) letter a shall cover:\na. firearms;\nb. ammunition;\nc. batan *ntt*^u F!6.*@ qft c. d. e. f. h. military explosives; interception; wiretapping; reconnaissance; encryption devices and devices and/or processes and/or other state defence equipment. cryptanalysis; and security"
+        },
+        "noLabel": {
+          "en": "Article 109"
+        }
+      },
+      {
+        "no": 111,
+        "text": {
+          "en": "The implementation of a Patent by the Government as referred to in Article 109 paragraph (1) letter b shall cover:\na. pharmaceutical and/or biotechnology products that are expensive and/or required to cope with diseases that may cause sudden death in large numbers, cause significant disability, and constitute a Public Health Emergency of International Concern (PHEIC);\nb. chemical and/or biotechnology products relating to agriculture that are required for food security;\nc. veterinary medicines required to cope with pests and/or animal diseases that spread widely; and/or\nd. processes and/or products to cope with natural disasters and/or environmental disasters."
+        },
+        "noLabel": {
+          "en": "Article 111"
+        }
+      },
+      {
+        "no": 112,
+        "text": {
+          "en": "(1) In the event that the implementation of the Patent by the government relates to the defence and security of the state as referred to in Article 109 paragraph (1) letter a and Article 110, the Patent Holder may not exercise his exclusive right as referred to in Article 19.\n(2) In\n(1)\n(2)\n(3) (41 REPU BLII< INDONESIA\n(2) In the event that the implementation of the Patent by the government is for a very urgent need for the interests of the public as referred to in Article 109\nparagraph (1) letter b and Article 111, this shall not reduce the right of the Patent Holder to exercise his exclusive right as referred to in Article 19."
+        },
+        "noLabel": {
+          "en": "Article 112"
+        }
+      },
+      {
+        "no": 113,
+        "text": {
+          "en": "A Patent that interferes with or contravenes the defence and security interests of the state may only be implemented by the Government.\nIn the event that the Government does not or does not yet intend to itself implement the Patent as referred to in paragraph (1), the implementation of the patent may only be carried out by the Patent Holder with the approval of the Government.\nA Patent Holder whose Patent is itself implemented by the Government as referred to in paragraph (1) shall be released from the obligation to pay the annual fee.\nThe Patent Holder as referred to in paragraph (2) shall be released from the obligation to pay the annual fee until the Patent can be implemented."
+        },
+        "noLabel": {
+          "en": "Article 113"
+        }
+      },
+      {
+        "no": 114,
+        "text": {
+          "en": "In the event that the Government intends to implement a patent that is important for the defence and security of the state or for a very urgent need for the interests of the public as referred to in"
+        },
+        "noLabel": {
+          "en": "Article 114"
+        }
+      },
+      {
+        "no": 109,
+        "text": {
+          "en": "paragraph (1) and a Patent that interferes with or contravenes the defence and security interests as referred to in Article 113 paragraph\n(1) the Government shall notify the Patent Holder in writing of the said matter.\nA copy of the Presidential Regulation regarding the approval of the implementation of the Patent by the government as referred to in Article 109 paragraph (3) shall be sent by the Minister to the Patent Holder.\n(1) (21\n(3) Implementation\n(3)\n(4)\n(1) (21\n(1) (21"
+        },
+        "noLabel": {
+          "en": "Article 109"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 115,
+        "text": {
+          "en": "The implementation of the Patent by the Government as referred to in Article 109 paragraph (1) and Article 113 paragraph\n(1) shall be carried out by providing reasonable Compensation to the Patent Holder.\nThe Government shall provide reasonable Compensation to the Patent Holder as compensation for the implementation of the Patent by the Government as referred to in"
+        },
+        "noLabel": {
+          "en": "Article 115"
+        }
+      },
+      {
+        "no": 116,
+        "text": {
+          "en": "In the event that the Government cannot itself implement the Patent as referred to in Article 109 paragraph (1), the Government may appoint a third party to implement it.\nThe third party as referred to in paragraph (1) shall be obliged to fulfil the requirements:\na. having the facilities and being capable of implementing the patent;\nb. not transferring the implementation of the said patent to another party; and\nc. having good production methods, distribution, and supervision in accordance with the provisions of laws and regulations.\n(3) The provision of Compensation on behalf of the government as referred to in Article 115 shall be carried out by the third party appointed as referred to in paragraph (1).\nREtrU BLIK INDONESIA\nThe implementation of a Patent by the Government shall be recorded in the general register of patents and announced through electronic media and/or non-electronic media.\nThe Government's decision that a patent is itself implemented by the Government as referred to in"
+        },
+        "noLabel": {
+          "en": "Article 116"
+        }
+      },
+      {
+        "no": 109,
+        "text": {
+          "en": "paragraph (1) shall be final and binding."
+        },
+        "noLabel": {
+          "en": "Article 109"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 117,
+        "text": {
+          "en": "(1)\n(2)\n(3)\n(4) (r) (2t REPUBLIK IN DON ES IA"
+        },
+        "noLabel": {
+          "en": "Article 117"
+        }
+      },
+      {
+        "no": 117,
+        "text": {
+          "en": "In the event that the Patent Holder does not approve the amount of Compensation provided by the government as referred to in Article 115, the patent holder may file a lawsuit with the Commercial Court.\nThe lawsuit as referred to in paragraph (1) shall be filed within no more than 90 (ninety) Days from the date of sending of the copy of the Presidential Regulation as referred to in Article 109 paragraph (3).\nIn the event that the Patent Holder does not file the lawsuit as referred to in paragraph (1), the patent holder shall be considered to accept the amount of Compensation that has been determined.\nThe process of examination of the lawsuit as referred to in paragraph (1) shall not halt the implementation of the patent by the Government."
+        },
+        "noLabel": {
+          "en": "Article 117"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 118,
+        "text": {
+          "en": "The Patent Holder shall be released from the obligation to pay the annual fee for a Patent implemented by the Government on the consideration as referred to in Article 109 paragraph (1) letter a.\nThe Patent Holder shall be obliged to pay the annual fee for a Patent implemented by the government on the consideration as referred to in Article 109\nparagraph (1) letter b.\nArticle 119 The costs of implementing a Patent by the government as referred to in Article 109 paragraph (1) shall be charged to the State Budget."
+        },
+        "noLabel": {
+          "en": "Article 118"
+        }
+      },
+      {
+        "no": 120,
+        "text": {
+          "en": "Further provisions regarding the procedures for the implementation of Patents by the Government shall be regulated by a Presidential Regulation.\nCHAPTER IX\nCHAPTER IX\nSIMPLE PATENTS"
+        },
+        "noLabel": {
+          "en": "Article 120"
+        }
+      },
+      {
+        "no": 121,
+        "text": {
+          "en": "All provisions regulated in this Law shall apply mutatis mutandis to simple patents, except the provisions of Article 3 paragraph (1), Article 7, and those otherwise determined in this Chapter."
+        },
+        "noLabel": {
+          "en": "Article 121"
+        }
+      },
+      {
+        "no": 122,
+        "text": {
+          "en": "(1) A simple patent shall be granted for only one Invention.\n(2) The request for substantive examination of a simple patent may be made together with the filing of the simple patent Application or no later than 6 (six) months from the Filing Date of the simple patent Application subject to a fee.\n(3) If the request for substantive examination of the simple patent is not made within the time limit as referred to in paragraph (2) or the fee for the substantive examination of the simple patent is not paid, the simple patent Application shall be considered withdrawn.\n(1) (21\n(3)"
+        },
+        "noLabel": {
+          "en": "Article 122"
+        }
+      },
+      {
+        "no": 123,
+        "text": {
+          "en": "The announcement of a simple patent Application shall be made no later than 7 (seven) Days after 3 (three) months from the Filing Date of the simple patent Application.\nThe announcement as referred to in paragraph (1) shall be carried out for 2 (two) months from the date of announcement of the simple patent Application.\nThe substantive examination of the simple patent Application shall be carried out after the announcement period as referred to in paragraph (2) ends.\nArticle 124\n(1) (21 (s) PRES IDEN"
+        },
+        "noLabel": {
+          "en": "Article 123"
+        }
+      },
+      {
+        "no": 124,
+        "text": {
+          "en": "The Minister shall be obliged to give a decision to approve or reject the simple patent Application no later than 12 (twelve) months from the date of receipt of the simple patent Application.\nA simple patent granted by the Minister shall be recorded and announced through electronic media and/or non-electronic media.\nThe Minister shall provide a simple patent certificate to the simple patent holder as proof of right.\nCHAPTER X\nPATENT DOCUMENTATION AND INFORMATION SERVICES"
+        },
+        "noLabel": {
+          "en": "Article 124"
+        }
+      },
+      {
+        "no": 125,
+        "text": {
+          "en": "(1) The Minister shall organise patent documentation and information services.\n(2) In organising the patent documentation and information services as referred to in paragraph (1), the Minister shall establish a national patent documentation and information network system.\nCHAPTER XI\nCOSTS"
+        },
+        "noLabel": {
+          "en": "Article 125"
+        }
+      },
+      {
+        "no": 126,
+        "text": {
+          "en": "The payment of the annual fee for the first time shall be obligatory no later than 6 (six) months from the date the Patent certificate is issued.\nThe payment of the annual fee as referred to in\nparagraph (1) for Patents and simple patents shall cover the annual fee payable for the first year from the Filing Date up to the year the patent is granted plus the annual fee for the following one year.\nThe payment of the subsequent annual fee shall be made no later than 1 (one) month before the date corresponding to the Filing Date in the period of the following year of protection.\n(1)\n(2)\n(3)\n(4) Exceptions\n(4) Exceptions to the payment of the annual fee as referred to in paragraph (2) shall be regulated by a Government Regulation."
+        },
+        "noLabel": {
+          "en": "Article 126"
+        }
+      },
+      {
+        "no": 127,
+        "text": {
+          "en": "The payment of the annual fee may be made by the Patent Holder or his Attorney.\nIn the event that the Patent Holder does not reside or have a permanent domicile within the territory of the Unitary State of the Republic of Indonesia, the payment of the annual fee must be made through his Attorney in Indonesia.\nThe Attorney shall notify the amount of the annual fee to the Patent Holder and make the payment of the annual fee as referred to in paragraph (2) on behalf of the Patent Holder."
+        },
+        "noLabel": {
+          "en": "Article 127"
+        }
+      },
+      {
+        "no": 128,
+        "text": {
+          "en": "In the event that the annual fee as referred to in"
+        },
+        "noLabel": {
+          "en": "Article 128"
+        }
+      },
+      {
+        "no": 126,
+        "text": {
+          "en": "the prescribed time limit, the Patent shall be declared deleted.\nA postponement of the payment of the annual fee may be requested by the Patent Holder by submitting a request letter to use the grace period mechanism to the Minister.\nThe request letter as referred to in paragraph (2) shall be submitted no later than 7 (seven) Days before the due date for payment of the annual fee.\nA Patent Holder submitting the request letter as referred to in paragraph (2) shall make the payment of the annual fee during the grace period of no more than 12 (twelve) months from the date of expiry of the time limit for payment of the Patent annual fee.\nThe payment of the annual fee as referred to in\nparagraph (3) shall be subject to an additional fee of 100% (one hundred per cent) calculated from the total payment of the annual fee.\n(1) (2t\n(3)\n(1)\n(2)\n(3)\n(4) (s)\n(6) As long as\n(6) As long as the Patent Holder has not made the annual fee payment within the grace period referred to in paragraph (4):\na. the Patent Holder may not prohibit third parties from performing the acts as referred to in Article 19 and may not license and transfer the Patent to third parties;\nb. third parties may not perform the acts as referred to in Article 19; and\nc. the Patent Holder may not file civil lawsuits or criminal charges."
+        },
+        "noLabel": {
+          "en": "Article 126"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 129,
+        "text": {
+          "en": "All fees received under this Law shall constitute non-tax state revenue.\nThe Minister, with the approval of the minister administering government affairs in the field of finance, may utilise revenue derived from the fees as referred to in paragraph (i) in accordance with the provisions of laws and regulations.\nFurther provisions on the fees as referred to in paragraph (1) shall be regulated by Government Regulation.\nCHAPTER XII\nREVOCATION OF PATENTS\nArticle 130 A Patent shall be revoked in part or in whole on the grounds that:\na. a request for revocation by the Patent Holder is granted by the Minister;\nb. a court decision revoking the said patent has obtained permanent legal force;\nc. a patent revocation decision issued by the Patent Appeal Commission; or\nd. the Patent Holder fails to fulfil the obligation to pay the annual fee. the said payment\n(1)\n(2)\n(3)"
+        },
+        "noLabel": {
+          "en": "Article 129"
+        }
+      },
+      {
+        "no": 131,
+        "text": {
+          "en": "(2t\n(3) (41 (s)\n(6)"
+        },
+        "noLabel": {
+          "en": "Article 131"
+        }
+      },
+      {
+        "no": 131,
+        "text": {
+          "en": "(1) Revocation of a Patent on the ground as referred to in Article 130 point a shall be effected on the basis of a written request submitted by the Patent Holder in respect of all or part of the claims to the Minister.\nIn the event of a request for revocation of part of the claims as referred to in paragraph (1), the part of the claims shall be adjusted without broadening the scope of the said claims.\nRevocation of a Patent as referred to in paragraph (1) may not be effected if the licensee does not give written consent attached to the request for patent revocation.\nThe decision on the revocation of the patent as referred to in paragraph (1) shall be notified in writing by the Minister to:\na. the Patent Holder or his Attorney; and\nb. the licensee or his Attorney.\nThe decision on the revocation of the patent as referred to in paragraph (l) shall be recorded and announced through electronic media and/or non-electronic media by the Minister.\nThe revocation of the Patent as referred to in paragraph (l) shall take effect as from the date of the stipulation of the Ministerial decision on the revocation of the Patent."
+        },
+        "noLabel": {
+          "en": "Article 131"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 132,
+        "text": {
+          "en": "(1) Revocation of a Patent on the basis of a court decision as referred to in Article 130 point b shall be effected if:\na. the Patent, under the provisions as referred to in Article 3, Article 4, or Article 9, should not have been granted;\nb. the Patent originating from genetic resources and/or traditional knowledge does not fulfil the provisions as referred to in Article 26;\nc. the Patent (2t\n(3) REPUBLIC OF INDONESIA\nc. the Patent in question is the same as another patent already granted to another party for the same Invention;\nd. the granting of a compulsory licence has evidently been unable to prevent the continued exploitation of the patent in a form and manner detrimental to the public interest within 2 (two) years from the date of granting of the said compulsory licence or from the date of granting of the first compulsory licence where several compulsory licences have been granted; or\ne. the Patent Holder violates the provisions as referred to in Article 20.\nA claim for revocation on the grounds as referred to in paragraph (1) point a and point b shall be filed by a third party against the Patent Holder through the Commercial Court.\nA claim for revocation on the ground as referred to in paragraph (1) point c may be filed by the Patent Holder or the licensee with the Commercial Court so that the other patent identical to his Patent is revoked.\n(4) A claim for revocation as referred to in paragraph\n(i) point d and point e shall be filed by the public prosecutor or another party representing the national interest against the Patent Holder or the compulsory licensee with the Commercial Court."
+        },
+        "noLabel": {
+          "en": "Article 132"
+        }
+      },
+      {
+        "no": 133,
+        "text": {
+          "en": "Where a claim for patent revocation as referred to in Article 132 concerns only one or several claims or parts of claims, the revocation shall be effected only in respect of the one or several claims or parts of claims whose revocation is claimed."
+        },
+        "noLabel": {
+          "en": "Article 133"
+        }
+      },
+      {
+        "no": 134,
+        "text": {
+          "en": "_60_\n(1)"
+        },
+        "noLabel": {
+          "en": "Article 134"
+        }
+      },
+      {
+        "no": 134,
+        "text": {
+          "en": "A Patent may be revoked on the ground as referred to in Article 130 point d if the Patent Holder fails to fulfil the obligation to pay the annual fee within the period as referred to in Article 126 or Article 128 paragraph (l).\nThe Minister shall be obliged to notify the Patent Holder within 30 (thirty) Days before the said patent is declared revoked on the ground as referred to in paragraph (1).\nThe non-receipt of the notification letter by the Patent Holder as referred to in paragraph (21 shall not derogate from the provisions as referred to in paragraph (i)."
+        },
+        "noLabel": {
+          "en": "Article 134"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 135,
+        "text": {
+          "en": "(1) In the event that a Patent is declared revoked as referred to in Article 130, the Minister shall notify in writing, in electronic or non-electronic form, the said revocation to:\na. the Patent Holder or his Attorney; and\nb. the licensee or his Attorney.\n(2) A Patent declared revoked as referred to in paragraph (1) shall be recorded and announced."
+        },
+        "noLabel": {
+          "en": "Article 135"
+        }
+      },
+      {
+        "no": 136,
+        "text": {
+          "en": "A Patent Holder or licensee whose Patent has been declared revoked shall not be subject to the obligation to pay the annual fee."
+        },
+        "noLabel": {
+          "en": "Article 136"
+        }
+      },
+      {
+        "no": 137,
+        "text": {
+          "en": "The revocation of a Patent shall eliminate all legal consequences relating to the Patent and other matters originating from the said Patent.\n(2t\n(3)"
+        },
+        "noLabel": {
+          "en": "Article 137"
+        }
+      },
+      {
+        "no": 138,
+        "text": {
+          "en": "(1)\n(2)\nREPU BLIK INDONESIA"
+        },
+        "noLabel": {
+          "en": "Article 138"
+        }
+      },
+      {
+        "no": 138,
+        "text": {
+          "en": "Unless otherwise determined in a decision of the Commercial Court, a Patent shall be revoked in whole or in part as from the date the said revocation decision obtains permanent legal force.\nIn the event of a request for revocation of part of the claims or the Commercial Court revokes part of the claims of a Patent, the claims shall be adjusted without broadening the scope of the said claims."
+        },
+        "noLabel": {
+          "en": "Article 138"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 139,
+        "text": {
+          "en": "A licensee of a Patent revoked on the ground as referred to in Article 132 paragraph (1)\npoint c shall remain entitled to exercise the Licence held by him until the expiry of the period stipulated in the licence agreement.\nThe licensee as referred to in paragraph (1) shall not make the payment of royalties that would otherwise still be obligatory to the Patent Holder whose Patent has been revoked.\nIn the event that the Patent Holder has already received royalties in a lump sum from the licensee, the Patent Holder shall be obliged to return the amount of royalties corresponding to the remaining period of use of the Licence to the Patent Holder entitled thereto."
+        },
+        "noLabel": {
+          "en": "Article 139"
+        }
+      },
+      {
+        "no": 140,
+        "text": {
+          "en": "A licence of a Patent declared revoked on the ground as referred to in Article 132 paragraph (1)\npoint c obtained in good faith, prior to the filing of a claim for revocation of the patent in question, shall remain valid in respect of the other patent.\nThe licence as referred to in paragraph (1) shall remain valid on the condition that the said licensee shall henceforth remain obliged to pay royalties to the Patent Holder who has not been revoked, in an amount equal to the amount previously promised to the Patent Holder whose patent has been revoked.\n(r) (2t\n(3)\n(1)\n(2)"
+        },
+        "noLabel": {
+          "en": "Article 140"
+        }
+      },
+      {
+        "no": 141,
+        "text": {
+          "en": "$).)-ilgyrq@"
+        },
+        "noLabel": {
+          "en": "Article 141"
+        }
+      },
+      {
+        "no": 141,
+        "text": {
+          "en": "A Patent that has been revoked may not be revived, except on the basis of a decision of the Commercial Court.\nREPUBLIK INOONESIA\nCHAPTER XIII\nDISPUTE SETTLEMENT\nSection One\nGeneral"
+        },
+        "noLabel": {
+          "en": "Article 141"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 142,
+        "text": {
+          "en": "A party entitled to obtain a patent as referred to in Article 10, Article 11, Article 12, and Article 13 may file a claim with the Commercial Court if a patent is granted to a party other than the party entitled to obtain the Patent. file a claim for damages with the Commercial Court against any Person who deliberately and without right performs the acts as referred to in Article 19 paragraph (1).\n(2) A claim for damages filed in respect of the acts as referred to in paragraph (1) may only be accepted if the product or process is proven to have been made by using the Invention that has been granted a patent.\nSection Two\nClaim Procedure"
+        },
+        "noLabel": {
+          "en": "Article 142"
+        }
+      },
+      {
+        "no": 144,
+        "text": {
+          "en": "A claim shall be registered with the Commercial Court within whose jurisdiction the defendant resides or is domiciled. In the event that one of the parties resides outside the territory of Indonesia, the claim shall be registered with the Central Jakarta Commercial Court."
+        },
+        "noLabel": {
+          "en": "Article 144"
+        }
+      },
+      {
+        "no": 143,
+        "text": {
+          "en": "(1) A Patent Holder or licensee shall be entitled\n(1)\n(2)\n(3) The Chairman ,o(r(?. (i' g^*) -r!qy4€\n(3) The Chairman of the Commercial Court shall fix the day of the hearing within no more than 14 (fourteen) days from the date the claim is registered.\n(4) The hearing for the examination of the claim shall commence within no later than 60 (sixty) days from the date the claim is registered.\n(5) The bailiff shall summon the parties within no later than 14 (fourteen) days before the first examination hearing is held."
+        },
+        "noLabel": {
+          "en": "Article 143"
+        }
+      },
+      {
+        "no": 145,
+        "text": {
+          "en": "(1) In the examination of a claim against a patented process, the burden of proof shall be imposed on the defendant if:\na. the product produced through the patented process in question is a new product; or\nb. the product is alleged to be the result of the patented process, although sufficient evidentiary efforts have been made, the Patent Holder remains unable to determine the process used to produce the said product.\n(2) In conducting the examination of a claim as referred to in paragraph (1), the Commercial Court shall be authorised:\na. to order the Patent Holder to first submit a copy of the Patent certificate for the process in question and the preliminary evidence forming the basis of his claim; and\nb. to order the defendant to prove that the product he produces does not use the patented process.\n(3) In conducting the examination of a claim as referred to in paragraph (i) and paragraph (2), the judge shall be obliged to safeguard the interest of the defendant in obtaining protection for the process that has been described in the hearing.\n(4) In\n(1)\n(2)\n(3) (41\n(4) In conducting the examination of a claim as referred to in paragraph (1) and paragraph (21, the judge, at the request of the parties, may determine that the hearing be declared closed to the public."
+        },
+        "noLabel": {
+          "en": "Article 145"
+        }
+      },
+      {
+        "no": 146,
+        "text": {
+          "en": "The decision on the claim shall be pronounced within no later than 180 (one hundred and eighty) days from the date the claim is registered.\nThe decision on the claim as referred to in paragraph\n(1) shall be pronounced in a hearing open to the public.\nThe Commercial Court shall be obliged to deliver a copy of the decision to the parties who are not present within no later than 14 (fourteen) days from the pronouncement of the decision in a hearing declared open to the public.\nThe Commercial Court shall be obliged to deliver a copy of its decision on the revocation of a patent that has obtained permanent legal force to the Directorate General of Intellectual Property within no later than 14 (fourteen) days from the pronouncement of the decision.\nThe Minister shall record and announce the operative part of the decision that has obtained permanent legal force after receiving a copy of the decision from the Commercial Court.\nIn the event that the copy of the court decision as referred to in paragraph (1) is not delivered by the Chairman of the Commercial Court, the Minister shall not be obliged to record and announce the operative part of the decision that has obtained permanent legal force."
+        },
+        "noLabel": {
+          "en": "Article 146"
+        }
+      },
+      {
+        "no": 148,
+        "text": {
+          "en": "Against a decision of the Commercial Court as referred to in Article 146 paragraph (1), cassation may only be filed.\n(s)\n(6)"
+        },
+        "noLabel": {
+          "en": "Article 148"
+        }
+      },
+      {
+        "no": 147,
+        "text": {
+          "en": "The claim procedure as referred to in Chapter XIII of this Law shall apply mutatis mutandis to"
+        },
+        "noLabel": {
+          "en": "Article 147"
+        }
+      },
+      {
+        "no": 132,
+        "text": {
+          "en": "and Article 133.\nSection Three\n(1)\n(2) REPUBLIC OF INDONESIA\nSection Three\nCassation"
+        },
+        "noLabel": {
+          "en": "Article 132"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 149,
+        "text": {
+          "en": "An application for cassation as referred to in Article 148 shall be registered with the Commercial Court that decided the said claim within no later than 14 (fourteen) days from the date of pronouncement or receipt of the decision in respect of which cassation is applied for.\nThe Commercial Court shall issue a receipt signed by the registrar on the same date as the date of receipt of the registration."
+        },
+        "noLabel": {
+          "en": "Article 149"
+        }
+      },
+      {
+        "no": 150,
+        "text": {
+          "en": "The cassation applicant shall submit a memorandum of cassation to the registrar within no later than 14 (fourteen) days from the date the application for cassation is registered as referred to in Article 149 paragraph (1).\nThe registrar shall be obliged to notify the application for cassation and the memorandum of cassation as referred to in paragraph (1) to the cassation respondent within no later than 2 (two) days from the receipt of the memorandum of cassation.\nThe cassation respondent may submit a counter-memorandum of cassation to the registrar within no later than 14 (fourteen) days from the date the cassation respondent receives the memorandum of cassation as referred to in paragraph (2).\nThe registrar shall be obliged to deliver the counter-memorandum of cassation to the cassation applicant within no later than 7 (seven) days from the receipt of the counter-memorandum of cassation.\nArticle 151 The registrar shall be obliged to send the case file for cassation to the Supreme Court within no later than 7 (seven) days after the expiry of the period as referred to in Article 150 paragraph (3).\nThe Supreme Court shall fix the day of the hearing within no later than 7 (seven) days from the date the case file for cassation is received.\n(1) (21\n(3) (4t\n(1) (2t\n(3) Hearing\n(1) (21\n(3)\n(4)\n(3) The examination hearing on the case file for cassation shall commence within no later than 60 (sixty) days from the date the case file for cassation is received."
+        },
+        "noLabel": {
+          "en": "Article 150"
+        }
+      },
+      {
+        "no": 152,
+        "text": {
+          "en": "The cassation decision shall be pronounced within no later than 180 (one hundred and eighty) days from the date the case file for cassation is received by the Supreme Court.\nThe cassation decision as referred to in paragraph (1) shall be pronounced in a hearing open to the public.\nThe registrar of the Supreme Court shall be obliged to deliver a copy of the cassation decision to the registrar of the Commercial Court within no later than 7 (seven) days from the date the cassation decision is pronounced.\nThe Commercial Court, through the bailiff, within no later than 7 (seven) days after the copy of the cassation decision is received, shall be obliged to deliver it to:\na. the applicant;\nb. the respondent; and\nc. the Minister.\nThe Minister shall record and announce the operative part of the decision that has obtained permanent legal force after receiving a copy of the decision from the Commercial Court.\nSection Four\nAlternative Dispute Resolution"
+        },
+        "noLabel": {
+          "en": "Article 152"
+        }
+      },
+      {
+        "no": 153,
+        "text": {
+          "en": "In addition to dispute settlement as referred to in Article 143, the parties may settle the dispute through arbitration or alternative dispute resolution.\nDispute settlement through arbitration or alternative dispute resolution shall be carried out in accordance with the provisions of laws and regulations.\n(s)\n(1)\n(2)"
+        },
+        "noLabel": {
+          "en": "Article 153"
+        }
+      },
+      {
+        "no": 154,
+        "text": {
+          "en": "REPU BLIK INDONESIA"
+        },
+        "noLabel": {
+          "en": "Article 154"
+        }
+      },
+      {
+        "no": 154,
+        "text": {
+          "en": "In the event that a criminal charge is brought for infringement of a Patent or a simple patent, the parties shall first settle the matter through mediation.\nCHAPTER XIV\nTEMPORARY COURT ORDER"
+        },
+        "noLabel": {
+          "en": "Article 154"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 155,
+        "text": {
+          "en": "At the request of a party aggrieved by the exploitation of a Patent, the Commercial Court may issue a temporary injunction order to:\na. prevent the entry of goods suspected of infringing the Patent and/or rights relating to the patent;\nb. secure and prevent the removal of evidence by the infringer; and/or\nc. stop the infringement in order to prevent greater loss."
+        },
+        "noLabel": {
+          "en": "Article 155"
+        }
+      },
+      {
+        "no": 156,
+        "text": {
+          "en": "An application for a temporary injunction shall be filed in writing with the Commercial Court within whose jurisdiction the Patent infringement occurs, subject to the following requirements:\na. attaching evidence of ownership of the patent;\nb. attaching evidence of strong initial indications of the occurrence of the patent infringement;\nc. attaching a clear description of the goods and/or documents requested, sought, collected, and secured for evidentiary purposes; and\nd. submitting security in the form of cash and/or a bank guarantee equivalent to the value of the goods reasonably subject to the temporary injunction."
+        },
+        "noLabel": {
+          "en": "Article 156"
+        }
+      },
+      {
+        "no": 157,
+        "text": {
+          "en": "(2t\n(3)\n(4) ITRISIDEN REPLTRLtt( ll! t-] O N t: !; t.,r.\n(3) The examination hearing on the case file for cassation shall commence within no later than 60 (sixty) days from the date the case file for cassation is received."
+        },
+        "noLabel": {
+          "en": "Article 157"
+        }
+      },
+      {
+        "no": 152,
+        "text": {
+          "en": "(1) The cassation decision shall be pronounced within no later than 1g0 (one hundred and eighty) days from the date the case file for cassation is received by the Supreme Court.\nThe cassation decision as referred to in paragraph (1) shall be pronounced in a hearing open to the public.\nThe registrar of the Supreme Court shall be obliged to deliver a copy of the cassation decision to the registrar of the Commercial Court within no later than 7 (seven) days from the date the cassation decision is pronounced.\nThe Commercial Court, through the bailiff, within no later than 7 (seven) days after the copy of the cassation decision is received, shall be obliged to deliver it to:\na. the applicant;\nb. the respondent; and\nc. the Minister.\nThe Minister shall record and announce the operative part of the decision that has obtained permanent legal force after receiving a copy of the decision from the Commercial Court.\nSection Four\nAlternative Dispute Resolution"
+        },
+        "noLabel": {
+          "en": "Article 152"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 153,
+        "text": {
+          "en": "In addition to dispute settlement as referred to in Article 143, the parties may settle the dispute through arbitration or alternative dispute resolution.\nDispute settlement through arbitration or alternative dispute resolution shall be carried out in accordance with the provisions of laws and regulations.\n(s) (l)\n(2)"
+        },
+        "noLabel": {
+          "en": "Article 153"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 154,
+        "text": {
+          "en": "REPUBLIK IN DO N ESIA"
+        },
+        "noLabel": {
+          "en": "Article 154"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 157,
+        "text": {
+          "en": "(1) If an application for a temporary injunction has fulfilled the requirements as referred to in Article 156, the registrar of the Commercial Court shall record the application for a temporary injunction and shall be obliged to submit the said application within no later than 1x24 (one times twenty-four) hours to the Chairman of the Commercial Court.\n(2) Within no later than 2 (two) days counted from the date of receipt of the application for a temporary injunction as referred to in paragraph (1), the Chairman of the Commercial Court shall appoint a judge to examine the application for a temporary injunction.\nWithin no later than 2 (two) days counted from the date of appointment as referred to in paragraph\n(2), the judge shall decide to grant or refuse the application for a temporary injunction.\nIn the event that the application for a temporary injunction is granted, the judge shall issue a temporary injunction order.\nThe temporary injunction order as referred to in\nparagraph (4) shall be notified to the party subject to the temporary injunction within no later than 1x24 (one times twenty-four) hours.\nIn the event that the application for a temporary injunction is refused, the judge shall notify the said refusal to the applicant for the temporary injunction together with the reasons."
+        },
+        "noLabel": {
+          "en": "Article 157"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 158,
+        "text": {
+          "en": "(1) In the event that the Commercial Court issues a temporary injunction order as referred to in"
+        },
+        "noLabel": {
+          "en": "Article 158"
+        }
+      },
+      {
+        "no": 157,
+        "text": {
+          "en": "the party subject to the temporary injunction within no later than 7 (seven) days from the date of issuance of the temporary injunction order for the purpose of being requested to give information.\n(3) (4\\ (s)\n(6)\n(2) Party (21 REPUBLIC OF INDONESIA A party subject to the temporary injunction may submit information and evidence regarding the patent within no later than 7 (seven) days counted from the date of receipt of the summons as referred to in paragraph (1).\nWithin no later than 30 (thirty) days counted from the date of issuance of the temporary injunction order, the judge of the Commercial Court shall decide to affirm or annul the temporary injunction.\nIn the event that the temporary court order is affirmed, then:\na. the security money that has been paid shall be returned to the applicant for the order;\nb. the applicant for the order may file a claim for damages for the Patent infringement; and/or\nc. the applicant for the order may report the Patent infringement to the investigator of the Indonesian National Police or the civil servant investigator\n(3) (4t (s) civil servant.\nIn the event that the temporary court order is annulled, the security money that has been submitted shall be immediately returned to the party subject to the temporary injunction as compensation for the loss arising from the said temporary injunction.\n(1) CHAPTER XV INVESTIGATION"
+        },
+        "noLabel": {
+          "en": "Article 157"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 159,
+        "text": {
+          "en": "In addition to the investigator of the Indonesian National Police, certain civil servant investigators within the ministry administering government affairs in the field of law shall be granted special authority as investigators as referred to in the provisions of laws and regulations governing criminal procedure law to conduct investigation of criminal offences in the field of Patents.\nThe investigator as referred to in paragraph (l) shall be authorised to conduct:\na. examination of the truth of a report or statement concerning a criminal offence in the field of patents;\n(2t\nb. Examination q,#\n(3) (41 (s)\nb. examination of a Person suspected of committing a criminal offence in the field of Patents;\nc. request for information and evidence from a Person in connection with a criminal offence in the field of patents;\nd. examination of bookkeeping, records, and other documents concerning a criminal offence in the field of Patents;\ne. search and examination at a place where there is suspected to be evidence, bookkeeping, records, and other documents concerning a criminal offence in the field of Patents;\nf. seizure of materials and products resulting from infringement that may serve as evidence in a case of criminal offence in the field of Patents;\ng. request for expert opinion in the context of carrying out the duties of investigation of criminal offences in the field of Patents;\nh. request for assistance from relevant agencies to carry out arrest, detention, determination of a wanted persons list, prevention and deterrence against perpetrators of criminal offences in the field of patents; and\ni. termination of investigation if there is insufficient evidence of a criminal offence in the field of patents.\nIn conducting an investigation, a civil servant investigator may request the assistance of the investigator of the Indonesian National Police for the smooth conduct of the investigation.\nA civil servant investigator shall notify the commencement of the investigation to the public prosecutor with a copy to the investigator of the Indonesian National Police.\nThe results of the investigation that have been carried out by a civil servant investigator shall be submitted to the public prosecutor through the investigator of the Indonesian National Police.\nCHAPTER XVI /htt =\\,lB\"' r =(,lr q# -7t- CHAPTER XVI PROHIBITED ACTS"
+        },
+        "noLabel": {
+          "en": "Article 159"
+        }
+      },
+      {
+        "no": 160,
+        "text": {
+          "en": "Every Person without the consent of the patent holder shall be prohibited:\na. in the case of a product Patent: from making, using, selling, importing, renting, delivering, or providing for sale or rental or delivery the patented product; and/or\nb. in the case of a process Patent: from using the patented production process to make goods or to perform other acts as referred to in point a.\nCHAPTER XVII\nCRIMINAL PROVISIONS"
+        },
+        "noLabel": {
+          "en": "Article 160"
+        }
+      },
+      {
+        "no": 161,
+        "text": {
+          "en": "Every Person who deliberately and without right performs the acts as referred to in Article 160 in respect of a Patent shall be punished with imprisonment for a maximum of 4 (four) years and/or a fine of a maximum of Rp1,000,000,000.00 (one billion rupiah)."
+        },
+        "noLabel": {
+          "en": "Article 161"
+        }
+      },
+      {
+        "no": 162,
+        "text": {
+          "en": "Every Person who deliberately and without right performs the acts as referred to in Article 160 in respect of a simple patent shall be punished with imprisonment for a maximum of 2 (two) years and/or a fine of a maximum of Rp500,000,000.00 (five hundred million rupiah)."
+        },
+        "noLabel": {
+          "en": "Article 162"
+        }
+      },
+      {
+        "no": 163,
+        "text": {
+          "en": "(l) Every Person who violates the provisions as referred to in Article 161 and/or Article 162, which results in disruption of health and/or the environment, shall be punished with imprisonment for a maximum of 7 (seven) years and/or a fine of a maximum of Rp2,000,000,000.00 (two billion rupiah).\n(2) Every _72_\n(2) Every Person who violates the provisions as referred to in Article 161 and/or Article 162, which results in the death of a human being, shall be punished with imprisonment for a maximum of 10 (ten) years and/or a fine of a maximum of Rp3,500,000,000.00 (three billion five hundred million rupiah)."
+        },
+        "noLabel": {
+          "en": "Article 163"
+        }
+      },
+      {
+        "no": 164,
+        "text": {
+          "en": "Every Person who deliberately and without right discloses a confidential application document as referred to in Article 45 paragraph (1) shall be punished with imprisonment for a maximum of 2 (two) years."
+        },
+        "noLabel": {
+          "en": "Article 164"
+        }
+      },
+      {
+        "no": 165,
+        "text": {
+          "en": "Criminal offences as referred to in Article 161,"
+        },
+        "noLabel": {
+          "en": "Article 165"
+        }
+      },
+      {
+        "no": 162,
+        "text": {
+          "en": ", and Article 164 shall constitute offences subject to complaint."
+        },
+        "noLabel": {
+          "en": "Article 162"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 166,
+        "text": {
+          "en": "In the event that a patent infringement is proven, the judge may order that the goods resulting from the said patent infringement be confiscated by the state for destruction.\nCHAPTER XVIII\nOTHER PROVISIONS"
+        },
+        "noLabel": {
+          "en": "Article 166"
+        }
+      },
+      {
+        "no": 167,
+        "text": {
+          "en": "Excluded from the criminal provisions as referred to in Chapter XVII and from civil claims shall be:\na. the import of a pharmaceutical product protected by a patent in Indonesia where the said pharmaceutical product has been lawfully marketed in a country, on the condition that the pharmaceutical product is imported in accordance with the provisions of laws and regulations; and\nb. production b.\n_73_ the production of a pharmaceutical product protected by a patent in Indonesia within a period of 5 (five) years before the expiry of the patent protection for the purpose of the licensing process and thereafter marketing it after the said Patent protection expires."
+        },
+        "noLabel": {
+          "en": "Article 167"
+        }
+      },
+      {
+        "no": 168,
+        "text": {
+          "en": "An intellectual property consultant is a person who has expertise in the field of intellectual property and specifically provides services for the filing and management of intellectual property applications.\nThe intellectual property consultant as referred to in paragraph (1) shall be appointed and dismissed by the Minister.\nThe provisions regarding the requirements and procedures for the appointment and dismissal of intellectual property consultants shall be regulated by Ministerial Regulation.\n(t)\n(2) (s) CHAPTER XIX TRANSITIONAL PROVISIONS"
+        },
+        "noLabel": {
+          "en": "Article 168"
+        }
+      },
+      {
+        "no": 169,
+        "text": {
+          "en": "Upon this Law coming into force:\na. Patent applications that have already been filed and have been processed but not yet completed shall continue to be completed on the basis of the provisions of laws and regulations in the field of Patents prior to the coming into force of this Law;\nb. simple Patent applications filed under Law Number 6 of 1989 on Patents as amended by Law Number 13 of 1997 on Amendments to Law Number 6 of 1989 on Patents, the protection period shall be calculated from the date of grant;\nc. Patents that have been granted on the basis of:\n1. Law Number 6 of 1989 on Patents as amended by Law Number 13 of 1997 on Amendments to Law Number 6 of 1989 on Patents; and\n2. Law\n2. Law Number 14 of 2001 on Patents, shall be declared to remain valid until the expiry of their term of validity.\nCHAPTER XX\nCLOSING PROVISIONS"
+        },
+        "noLabel": {
+          "en": "Article 169"
+        }
+      },
+      {
+        "no": 170,
+        "text": {
+          "en": "Upon this Law coming into force, all laws and regulations constituting implementing regulations of the laws and regulations in the field of Patents prior to the coming into force of this Law shall be declared to remain in force insofar as they are not inconsistent with the provisions of this Law."
+        },
+        "noLabel": {
+          "en": "Article 170"
+        }
+      },
+      {
+        "no": 171,
+        "text": {
+          "en": "Upon this Law coming into force, Law Number 14 of 2001 (State Gazette of the Republic of Indonesia of 2001 Number 109, Supplement to the State Gazette of the Republic of Indonesia Number 4130) shall be repealed and declared no longer valid."
+        },
+        "noLabel": {
+          "en": "Article 171"
+        }
+      },
+      {
+        "no": 172,
+        "text": {
+          "en": "The implementing regulations of this Law shall be stipulated within no later than 2 (two) years counted from the promulgation of this Law.\nthe Law is promulgated."
+        },
+        "noLabel": {
+          "en": "Article 172"
+        }
+      },
+      {
+        "no": 173,
+        "text": {
+          "en": "this date it comes into force In order that every person may know it, orders the promulgation of this Law by its placement in the State Gazette of the Republic of Indonesia.\nEnacted in Jakarta on 26 August 2016 PRESIDENT OF THE REPUBLIC OF INDONESIA, sgd. JOKO WIDODO Promulgated in Jakarta on 26 August 2016 MINISTER OF LAW AND HUMAN RIGHTS OF THE REPUBLIC OF INDONESIA, sgd. YASONNA H. LAOLY STATE GAZETTE OF THE REPUBLIC OF INDONESIA YEAR 2016 NUMBER 176 True copy in accordance with the original MINISTRY OF STATE SECRETARIAT Deputy for Economic Affairs, Law and Legislation, ,7-------.- f,r,uu.rrr,\" Djaman EXPLANATION OF THE LAW OF THE REPUBLIC OF INDONESIA NUMBER 13 OF 2016 ON PATENTS\nI. GENERAL\nFor Indonesia, as a country with a large population and abundant natural resources, the role of technology is very important for increasing added value and competitiveness in managing the said resources. This is an undeniable matter. However, such technological development has not yet achieved the desired target, in the sense that technological development has not been utilised to the maximum in all fields, so that it has not strengthened Indonesia's capability in facing global competition.\nTechnological development is directed towards improving the quality of the mastery and utilisation of technology in order to support the transformation of the national economy towards an economy based on competitive advantage. In order that the support of technological development for national development may proceed consistently and sustainably, the national innovation system needs to be strengthened through the establishment of public or private research institutions, the utilisation of natural resources, the empowerment of human resources and information technology network systems, the cultivation of research, the development and application of technology in strategic fields in the form of scientific publications, technology services, as well as technology entrepreneurs.\nThe role of technology is a primary concern in developed countries in addressing the problems of nation building and increasing economic growth. In various developed countries, economic policy and technology policy are increasingly integrated and harmonised to enhance national competitiveness. Accordingly, one policy is directed towards increasing the utilisation of technology in the production sector for the improvement of the national economy and appreciation of domestic technology.\nIndonesia\nIndonesia is a country possessing a wealth of genetic resources and traditional knowledge that is often utilised by Inventors, whether domestic or foreign, to produce new Inventions. Therefore, in this Law there are arrangements regarding the clear and honest mention of the materials used in the Invention if they are related to and/or originate from the said genetic resources and/or traditional knowledge in the description. Although under Law Number 14 of 2001 on Patents the implementation of Patents has been running, there are substances that are no longer in accordance with legal developments, whether national or international, and have not been regulated in accordance with the standards in the Agreement on Trade-Related Aspects of Intellectual Property Rights, hereinafter referred to as the TRIPS Agreement, so that it is necessary to make a replacement. the approach of the revision of the Patent Law:\n1. optimisation of the presence of the state in the best government services in the field of intellectual property.\n2. Alignment with Indonesia's interests without violating international principles.\n3. Realising economic self-reliance by mobilising strategic sectors of the domestic economy by encouraging national Inventions in the field of technology so as to achieve technological strengthening.\n4. Building the foundation of the national patent through a systemic approach of pragmatic legal realism.\nThe urgency of amending the Patent Law includes:\n1. Adjustment to the intellectual property administration automation system as it relates to the patent registration mechanism that may be filed electronically.\n2. Improvement of the provisions on the exploitation of patents by the government.\n3. Exemption from criminal and civil claims for parallel import and Bolar provision.\n4. Inventions in the form of second and further use (second use and second medical use) of patents whose protection period has expired (public domain) are not permitted.\n5. Remuneration for researchers of the State Civil Apparatus as inventors in an official relationship from the commercialisation of their patents.\n6. Improvement of the provisions relating to novelty and inventive step for publication in educational institutions or research institutions.\n7. A Patent may be the object of fiduciary security.\n8. Adding\n8.\nREPU BLII< II.] DON ES IA\nAdding the authority of the Patent Appeal Commission to examine applications for correction of the description, claims, or drawings after the Application has been granted a patent and the revocation of patents that have been granted.\nA Patent may be transferred by way of waqf (endowment).\nProvisions on the appointment and dismissal of experts by the Minister as Examiners.\n9.\n10.\n11. The existence of a grace period mechanism in relation to the payment of annual fees for Patents.\n12.\n13.\n14.\n15.\nRegulation on force majeure in the administrative and substantive examination of Applications.\nRegulation of export and import in relation to compulsory licences.\nThe existence of a mediation mechanism prior to the bringing of criminal charges.\nOpening the widest possible opportunity for national industry to exploit Patents whose protection period has expired optimally and free from legal claims and the obligation to pay royalties.\nThe granting of compulsory licences at the request of developing countries or least developed countries requiring pharmaceutical products patented in Indonesia for the treatment of diseases of an endemic nature, and such pharmaceutical products may possibly be produced in Indonesia for export to those countries. Conversely, the granting of compulsory licences to import the procurement of pharmaceutical products patented in Indonesia but not yet possible to be produced in Indonesia for the treatment of diseases of an endemic nature.\n16.\nII. ARTICLE BY ARTICLE"
+        },
+        "noLabel": {
+          "en": "Article 173"
+        }
+      },
+      {
+        "no": 1,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 1"
+        },
+        "dupIndex": 4
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Sufficiently clear.\nArticle 3\nParagraph (1) Sufficiently clear.\nParagraph (2) i.#\nParagraph (2) A simple patent is granted for an Invention in the form of a product which is not merely different in its technical features, but must possess a function/utility that is more practical than the previous Invention by reason of its shape, configuration, construction, or components comprising tools, goods, machines, compositions, formulas, compounds, or systems.\nA simple patent is also granted for an Invention in the form of a new process or method."
+        },
+        "noLabel": {
+          "en": "Article 2"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Letter a\nSufficiently clear.\nLetter b Sufficiently clear.\nLetter c Item 1 Sufficiently clear.\nItem 2 What is meant by \"game\" is a rule or norm relating to a physical human activity or pastime for playing.\nItem 3 What is meant by \"business\" is a business method that has no technical character and effect.\nLetter d What is meant by \"rules and methods that contain only a computer program\" is a computer program that contains only a program without possessing a character, technical effect, and problem solving, but if the computer program has a character (instructions) possessing a technical effect and a function for producing problem solving, whether tangible or intangible, it constitutes an Invention that may be granted a patent.\nExamples of Inventions that may be granted a patent:\n1. Algorithm 1. An algorithm is an effective method expressed as a finite set of well-defined instructions for calculating a function.\nStarting from an initial condition and an initial input (possibly empty), those instructions describe a computation that, when executed, proceeds through a finite number of well-defined successive states, ultimately producing \"output\" and ending at a final state. The transition from one state to the next need not be deterministic; some algorithms, known as randomised algorithms, use random input.\n2. Encryption of information by way of encoding and decoding so as to randomise it such that the information cannot be read by other parties.\nLetter e Sufficiently clear.\nLetter f Item 1 What is meant by \"existing and/or known product\" comprises tools, goods, machines, compositions, formulas, methods, uses, compounds, and systems whether still protected by a Patent or already in the public domain.\nItem 2 What is meant by \"significant\" is generally used in the pharmaceutical field, namely the difference in the chemical structure of the compound concerned, for example an Invention concerning antibiotic drugs of the penicillin, ampicillin and amoxicillin groups. The difference in one of the H (hydrogen) groups in ampicillin and the OH (hydroxyl) group in amoxicillin gives rise to a microbial-destroying efficacy with a broad antimicrobial spectrum and higher stability compared with ampicillin, so that it may be said that amoxicillin possesses a significant increase in efficacy compared with ampicillin."
+        },
+        "noLabel": {
+          "en": "Article 4"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Paragraph (1) What is meant by \"not the same\" is not merely different, but must be seen as the same or not the same from the function of the technical features of the Invention concerned compared with the function of the technical features of the previous Invention.\nEquivalent\nF R L_:l I L) tr t.l RIl]LlcI Iti It.i I) o I,l E:r I j\\ Equivalent terminology for the technology disclosed previously is state of the art or prior art, which comprises patent literature and non-patent literature.\nParagraph (2) In this Law, the provisions regarding oral description or by demonstration or by any other means are not only carried out in Indonesia, but also in respect of such matters carried out abroad, on the condition that the said evidence must still also be submitted.\nThe priority right in an application applies if the administrative requirements and substantive requirements are fulfilled. For the substantive requirements, the elements claimed in the application are disclosed in the priority document.\nParagraph (3) What is meant by substantive examination in this paragraph and in the following articles, except for the articles governing simple patents, is the examination of the Invention stated in the application, in the context of assessing fulfilment of the requirements: novelty, inventive step and industrial applicability, as well as compliance with the provisions on unity of Invention, clear disclosure, and not falling within the category of Inventions that may not be granted a patent. This provision is intended to resolve the problem arising from the existence of the same invention filed by another applicant at a non-simultaneous time (conflicting application).\nAn application has a priority date if it is filed with a Priority Right."
+        },
+        "noLabel": {
+          "en": "Article 5"
+        },
+        "dupIndex": 4
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Paragraph (l)\nLetter a\nWhat is meant by \"official exhibition\" is an exhibition organised by the government.\nWhat is meant by \"exhibition recognised as an official exhibition\" is an exhibition organised by the public but recognised by or obtaining the approval of the government.\nLetter b Sufficiently clear.\nLetter c Sufficiently clear.\nParagraph (2) REPUBLIC OF INDONESIA\nParagraph (21 Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 6"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Paragraph (1) What is meant by \"matter that could not be anticipated previously (non-obvious)\", for example a patent application for a toothbrush whose brush head can be detached so that it can be fitted with a razor blade head so as to function for shaving. This Invention could not be anticipated by a person skilled in the art.\nParagraph (2) What is meant by \"first application in the case of an Application filed with a priority right\" is an Application that has been filed for the first time in another country which is a member of the Paris Convention for the Protection of Industrial Property or a member of the World Trade Organization. The priority right in an application applies if the administrative requirements and substantive requirements are fulfilled. For the substantive requirements, the elements claimed in the application are disclosed in the priority document."
+        },
+        "noLabel": {
+          "en": "Article 7"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "An Invention in the form of a product that is industrially applicable must be capable of being made repeatedly (in mass) with the same quality, whereas if the Invention is in the form of a process, the said process must be capable of being carried out or used in practice."
+        },
+        "noLabel": {
+          "en": "Article 8"
+        },
+        "dupIndex": 4
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Letter a\nSufficiently clear.\nLetter b What is meant by \"examination method\" is a diagnostic method.\nWhat is meant by \"treatment method\" is a method of medical treatment.\nIn the event that the said examination, treatment, therapy, and surgery use health equipment, this provision applies only to the Invention of the method, whereas health equipment including tools, materials, and medicines is not included in this provision.\nLetter c REPUBLIC OF INDONESIA\nLetter c Sufficiently clear.\nLetter d Living creatures comprise humans, animals, or plants, whereas micro-organisms are living creatures of a very small size that cannot be seen with the naked eye but only with the aid of a microscope, for example amoebae, yeasts, viruses, and bacteria.\nLetter e What is meant by \"essentially biological process for producing plants or animals\" is a crossing process that is conventional or natural, for example by way of cuttings, grafting, or natural pollination.\nWhat is meant by \"non-biological process or microbiological process for producing plants or animals\" is a process for producing plants or animals that is usually transgenic/genetically engineered, carried out by including chemical or physical processes, the use of micro-organisms, or other forms of genetic engineering."
+        },
+        "noLabel": {
+          "en": "Article 9"
+        },
+        "dupIndex": 4
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Paragraph (1) What is meant by \"Person who receives further rights of the Inventor concerned\" is, for example, the child of the patent holder by way of inheritance.\nParagraph (21 Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 10"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 1,
+        "text": {
+          "en": "l Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 1"
+        },
+        "dupIndex": 5
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Paragraph (1) Sufficiently clear.\nParagraph (2) Sufficiently clear.\nParagraph (3) Sufficiently clear.\nParagraph (4) REPUBLIC OF INDONESIA\nParagraph (a) Sufficiently clear.\nParagraph (5) Sufficiently clear.\nParagraph (6) The inclusion of the Inventor's name in the certificate is basically customary. This is known as moral rights."
+        },
+        "noLabel": {
+          "en": "Article 12"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Paragraph (1) What is meant by \"Inventor in an official relationship\" is a State Civil Apparatus (ASN).\nWhat is meant by \"government agency\" is a central government agency and a regional government agency.\nParagraph (2) Sufficiently clear.\nParagraph (3) Sufficiently clear.\nParagraph (4) Sufficiently clear.\nParagraph (5) Sufficiently clear.\nParagraph (6) Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 13"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Paragraph (1) This provision is intended to provide protection to a prior user acting in good faith who does not file an Application.\nParagraph (2) Sufficiently clear.\nParagraph (s) The Invention must genuinely be the result of activities carried out in good faith by the person who first used the Invention."
+        },
+        "noLabel": {
+          "en": "Article 14"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "$).b-ilqy*S PRESIDfN REPI.I BLIK INIDO )']F- S IA"
+        },
+        "noLabel": {
+          "en": "Article 15"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 15"
+        },
+        "dupIndex": 4
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Paragraph (1) Sufficiently clear.\nParagraph (2) Sufficiently clear.\nParagraph (3) Prior user Article 17 Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 16"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 18"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Paragraph (1) not the owner of the exclusive right.\nWhat is meant by \"exclusive right\" is a right granted only to the Patent Holder for a certain period to exploit it himself commercially or to grant further rights for that purpose to another person. Accordingly, another person is prohibited from exploiting the said patent without the consent of the Patent Holder.\nWhat is meant by \"product\" comprises tools, machines, compositions, formulas, product by process, systems, and others.\nExamples are writing instruments, erasers, medicinal compositions, and ink.\nWhat is meant by \"process\" comprises a process, method or use. For example: the process of making ink, and the process of making tissue.\nWhat is meant by \"party\" is a person, several persons jointly or a legal entity, as adjusted to the context of each text.\nParagraph (2) In the event that a product is imported into Indonesia and the process for making the product concerned has been protected by a patent, the holder of the process Patent concerned shall be entitled to take legal action against the imported product if the product has been made in Indonesia using the protected process.\nParagraph (3) PRESIDENT OF THE REPUBLIC OF INDONESIA _ lt _\nParagraph (3) This provision is intended to provide an opportunity for parties who genuinely require the use of an Invention solely for research and education.\nWhat is meant by \"for the purposes of education, research, experimentation, or analysis\" also comprises activities for the purposes of bioequivalence testing or other forms of testing.\nWhat is meant by not prejudicing the legitimate interests of the Patent Holder is that the exploitation or use of the said Invention is not directed to exploitation for commercial purposes so as to prejudice or even become a competitor to the Patent Holder."
+        },
+        "noLabel": {
+          "en": "Article 19"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 20"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "What is meant by annual fee is a fee that must be paid by the Patent Holder regularly for each year. The term is also known in several countries as a maintenance fee."
+        },
+        "noLabel": {
+          "en": "Article 2"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Paragraph (1) Sufficiently clear.\nParagraph (2) Sufficiently clear.\nParagraph (3) What is meant by \"recorded\" is recorded in the patent register.\nWhat is meant by \"electronic media\" is media using electronic or electro-mechanical energy to access its content, for example an internet site.\nWhat is meant by \"non-electronic media\" is placement in the patent official gazette published periodically by the Minister, placement in special media that can easily and clearly be seen by the public, among others periodic publications issued by the Directorate General of Intellectual Property and/or a notice board at the office of the Minister."
+        },
+        "noLabel": {
+          "en": "Article 22"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "*.o,JrTott,',?Sf;ru'o -t2-"
+        },
+        "noLabel": {
+          "en": "Article 23"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Paragraph (l) In general, the product or tool protected is obtained in a relatively short time, in a simple manner, at a relatively low cost, and is also technologically simple, so that the protection period of 10 (ten) years is considered sufficient to obtain reasonable economic benefits.\n10 (ten) years is considered sufficient to obtain reasonable economic benefits.\nParagraph (2) Sufficiently clear.\nParagraph (3) Sufficiently clear.\nArticle 24\nParagraph (1) Sufficiently clear.\nParagraph (21 Patent applications filed by micro, small, and medium enterprises, educational institutions, and government research and development institutions may be registered through an intellectual property clinic or intellectual property centre.\nParagraph (3) What is meant by \"unity of Invention\" is several Inventions that are new and still have a close inventive relationship, for example, an Invention in the form of a new writing instrument with new ink. In that example it is clear that the ink constitutes a unity of Invention for use in the writing instrument, which is a new Invention, so that the writing instrument and the ink may be filed in one application.\nAnother example, an Invention in the form of a new product and a process for making the product.\nParagraph (a) Electronic filing is carried out with the IPAS (Industrial Property Automation System) system."
+        },
+        "noLabel": {
+          "en": "Article 23"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Paragraph (1) Sufficiently clear.\nParagraph (2) PRESIDENT OF THE REPUBLIC OF INDONESIA\nParagraph (2)\nLetter a\nSufficiently clear.\nLetter b Sufficiently clear.\nLetter c A claim is the part of the application describing the essence of the Invention for which legal protection is sought, which must be set out clearly and must be supported by the description.\nLetter d What is meant by \"abstract of the Invention\" is a summary of the description describing the essence of the Invention.\nLetter e What is meant by \"drawing\" is a technical drawing.\nLetter f Sufficiently clear.\nLetter g Sufficiently clear.\nLetter h Sufficiently clear.\nLetter i Sufficiently clear.\nParagraph (3) Sufficiently clear.\nParagraph (a) Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 25"
+        },
+        "dupIndex": 7
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Paragraph (1) The reason for stating the origin of genetic resources and/or traditional knowledge in the description is so that the genetic resources and/or traditional knowledge are not recognised by other countries and in order to support Access and Benefit Sharing (ABS).\nAyat (2) #.s *. o u J.Tot t,',3ouSn =., o -t4-\nParagraph (2) Sufficiently clear.\nParagraph (3) What is meant by \"international agreement\" is an international agreement that has been ratified."
+        },
+        "noLabel": {
+          "en": "Article 26"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 27"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The purpose of this provision is to assist the process of filing an Application by an Inventor or a party entitled to the Invention who is domiciled outside the territory of the Republic of Indonesia, since this concerns, among other things, language and the fulfilment of the requirements that must be met."
+        },
+        "noLabel": {
+          "en": "Article 28"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 29"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Paragraph (1) Sufficiently clear.\nParagraph (21 What is meant by a priority document is the document of the application first filed in a member country of the Paris Convention or the World Trade Organization used to claim the priority date of the application in the destination country, which is also a member of one of the two treaties, and certified by the competent official at the patent office where the Patent application was first filed. the competent party certifying the copy of the first application is an official of the Patent Office in the country where the patent application was first filed. If the application is filed through the Patent Cooperation Treaty (PCT), the competent party is an official of the World Intellectual Property Organization (WIPO), namely the United Nations body responsible for administering international treaties on intellectual property.\nParagraph (s) Sufficiently clear.\nParagraph (4) Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 30"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "R EPI] E LIK INDONESIA _15_"
+        },
+        "noLabel": {
+          "en": "Article 31"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 31"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 32"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Paragraph (1) Patent Cooperation Treaty is the translation of patent Cooperation Treaty (PCT) This provision is intended to provide convenience and speed to an applicant in Indonesia in filing his patent Application to several other countries (which are also members of the Patent Cooperation Treaty (PCT)), and conversely an applicant from another country who is also a member of the PCT may easily and quickly file his Application in Indonesia. Indonesia ratified the PCT by Presidential Decree Number 16 of 1997.\nParagraph (2) Sufficiently clear.\nParagraph (3) The matters to be contained in the Ministerial regulation include:\na. additional administrative requirements that must be met by the Applicant such as: the use of foreign languages where permitted, the designation by the applicant of a patent office to be assigned as an international search authority and an international preliminary examination authority, and so on;\nb. the obligations of the Directorate General as receiving office or as designated office of this system, and so on."
+        },
+        "noLabel": {
+          "en": "Article 33"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Paragraph (l) This provision is intended to facilitate the applicant in obtaining a Filing Date which is very important for the status of the Application because the system used is first to file.\nIn addition, this is intended to provide certainty regarding the Filing Date.\nHal PRESIDENT OF THE REPUBLIC OF INDONESIA _16-\nThis is also intended to improve services and convenience for the public by simplifying it, and to adjust to the minimum requirements for the Filing Date for Applications filed through the Patent Cooperation Treaty.\nAn Invention that has been applied for and has obtained a Filing Date: the Applicant may already produce the said Invention, but the Invention does not yet obtain legal protection until the application is granted a patent.\nParagraph (2) Sufficiently clear.\nParagraph (3) What is meant by \"description\" is a written explanation of the manner of carrying out an Invention so that it can be understood by a person skilled in the field of the Invention.\nParagraph (4) Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 34"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Paragraph (1) Sufficiently clear.\nParagraph (2) Sufficiently clear.\nParagraph (3) The fee imposed constitutes a penalty for the Applicant's delay in fulfilling the requirements and completeness.\nParagraph (a) Sufficiently clear.\nParagraph (s) What is meant by \"state of emergency\" is force majeure, for example a state of war, revolution, riot, strike, natural disaster or other similar emergency that causes the applicant to be unable to submit the completeness of the application requirements.\nParagraph (6) Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 35"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 36"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "REFU BLIK INDONESIA"
+        },
+        "noLabel": {
+          "en": "Article 37"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 37"
+        },
+        "dupIndex": 4
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 38"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Paragraph (1) Sufficiently clear.\nParagraph (2) What is meant by \"broadening the scope of the Invention\" is adding to the essence/subject, new information, or reducing the technical features of the Invention, whether in the description, drawings, or claims, which may result in a broader scope of the Invention.\nParagraph (3) Sufficiently clear.\nParagraph (4) Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 39"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 40"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Paragraph (1) What is meant by \"an Invention that does not constitute a unity\" is an Invention or Inventions separate from the one Invention accepted.\nExample:\nIf an Application contains 15 claims consisting of:\n1. Invention A stated in claims 1 to 5 constitutes one invention;\n2. Invention B stated in claims 6 to 10 does not constitute a unity with Invention A;\n3. Invention C stated in claims 11 to 15 does not constitute a unity with Invention A and Invention B.\nOf the three Inventions above, those rejected are Invention B and Invention C.\nParagraph (21 Sufficiently clear.\nParagraph (3)\nParagraph (s) Sufficiently clear.\nParagraph (4) Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 4"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 42"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 43"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 44"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Paragraph (1) Sufficiently clear.\nParagraph (21 Sufficiently clear.\nParagraph (3) Sufficiently clear.\nParagraph (4) What is meant by \"sufficient evidence\" is evidence that can convince the Minister that the Person is the Inventor of an Invention, for example: evidence of an agreement between the applicant and the Person claiming to be the Inventor.\nThis provision is intended to protect the Inventor from possibilities that are detrimental to him."
+        },
+        "noLabel": {
+          "en": "Article 45"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Paragraph (1) Sufficiently clear.\nParagraph (2) Sufficiently clear.\nParagraph (3) This provision is made to provide an opportunity where the Applicant, for reasons of his own interest, wishes the application to be announced earlier.\nWhat is meant by \"in certain cases\" is, among others, to fulfil the credit point requirements for researchers as Inventors or as a requirement for submitting a tender."
+        },
+        "noLabel": {
+          "en": "Article 46"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "REPUELIK INDONESIA"
+        },
+        "noLabel": {
+          "en": "Article 47"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Paragraph (1) What is meant by \"electronic media\" is media using electronic or electro-mechanical energy to access its content, for example an internet site.\nWhat is meant by \"non-electronic media\" is placement in the patent official gazette published periodically by the Minister, placement in special media that can easily and clearly be seen by the public, among others periodic publications issued by the Directorate General of Intellectual Property and/or a notice board at the office of the Minister.\nParagraph (21 Sufficiently clear.\nParagraph (3) Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 47"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Paragraph (1) Within that period, the announcement is made continuously.\nParagraph (2)\nLetter a\nSufficiently clear.\nLetter b Sufficiently clear.\nLetter c Sufficiently clear.\nLetter d Sufficiently clear.\nLetter e Sufficiently clear.\nLetter f The classification of Inventions is intended to group Inventions in applications according to the relevant field of technology. In this way, the activity of searching for similar Inventions (to find comparison documents) required in the context of substantive examination of an Application can be carried out more easily and quickly.\nAlthough Indonesia has not ratified the International Patent Classification, in practice Indonesia uses the International Patent Classification as widely applied by various countries.\nHuruf g g).) -$1y4(\nLetter g Sufficiently clear.\nLetter h Sufficiently clear.\nLetter i Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 48"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Paragraph (1) What is meant by \"view\" covers information submitted by a Person without being accompanied by a request.\nThe information may be in the form of written evidence from an oral description or through demonstration or by other means carried out in Indonesia and/or abroad.\nWhat is meant by \"objection\" is information submitted by a Person accompanied by a request not to grant a Patent or a simple patent for the Invention announced.\nParagraph (21 Sufficiently clear.\nParagraph (3) Sufficiently clear.\nParagraph (4) Sufficiently clear.\nParagraph (s) Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 49"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Paragraph (1) What is meant by \"Invention relating to the defence and security interests of the state\" is, among others, inventions of the main weaponry system of defence (alutsista), firearms, ammunition, military explosives, interception, wiretapping, reconnaissance, and/or encryption.\nParagraph (2) Sufficiently clear.\nParagraph (3) Sufficiently clear.\nParagraph (4) ffi\nParagraph (a) Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 50"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 51"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 52"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 53"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 54"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Paragraph (1)\nLetter a\nSufficiently clear.\nLetter b The documents in this provision are required to facilitate the assessment that the Invention for which a Patent is sought is indeed a new Invention and genuinely contains an inventive step and is industrially applicable.\nLetter c Sufficiently clear.\nLetter d Sufficiently clear.\nLetter e What is meant by \"other required documents\" is, for example, comparison documents, search reports, correspondence of examination results carried out in the country of origin of the priority right or in another country that conducted the examination earlier.\nAyat (2\\ *. \", JrTot t,'*ootf;\nParagraph (21 What is meant by \"additional explanation\" in this paragraph may be information regarding the existence of amendments made by the Applicant to the patent application documents based on search results or preliminary examination results, and this constitutes supplementary information that may be required in the examination.\nParagraph (3) Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 55"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 56"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "The decision is given within no more than 30 (thirty) months because the examination requires several communications with the Applicant."
+        },
+        "noLabel": {
+          "en": "Article 57"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 58"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 59"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 60"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Paragraph (1) The attachment to the Patent certificate constitutes part of the Patent certificate.\nWhat is meant by data is data in the certificate and the attachment to the certificate.\nParagraph (21 Sufficiently clear.\nParagraph (3) Sufficiently clear.\nParagraph (4) Sufficiently clear.\nParagraph (s) Sufficiently clear. one unity with this is data in the"
+        },
+        "noLabel": {
+          "en": "Article 61"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "*.\"rJiFt,',?otf;ru.,o"
+        },
+        "noLabel": {
+          "en": "Article 62"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Paragraph (1) Sufficiently clear.\nParagraph (2) Sufficiently clear.\nParagraph (3) Sufficiently clear.\nParagraph (4) Sufficiently clear.\nParagraph (5) The fee imposed constitutes a penalty for the Applicant's delay in providing a response and/or fulfilling the provisions as stated in the notification letter.\nParagraph (6) Sufficiently clear.\nParagraph (7) What is meant by \"state of emergency\" is force majeure, for example a state of war, revolution, riot, strike, natural disaster or other similar emergency that causes the Applicant to be unable to provide a response and/or fulfil the provisions as stated in the notification letter of the substantive examination results.\nParagraph (8) Sufficiently clear.\nParagraph (9) Sufficiently clear.\nParagraph (10) Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 62"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 63"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 64"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "REPU BLIK INDONESIA"
+        },
+        "noLabel": {
+          "en": "Article 65"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Paragraph (1) Sufficiently clear.\nParagraph (21 This provision is intended to maintain the independence of the examination results in the panel examining the appeal application.\nParagraph (3) If the panel consists of 3 (three) persons, its elements consist of 1 (one) Examiner and 2 (two) experts. If the panel consists of 5 (five) persons, its elements consist of 2 (two) examiners and 3 (three) experts."
+        },
+        "noLabel": {
+          "en": "Article 65"
+        },
+        "dupIndex": 4
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 66"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 67"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 68"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 69"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 70"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 71"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 72"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 73"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "Paragraph (1) As an exclusive right, a Patent may be transferred by its Inventor or by the party entitled to the Invention to an individual or to a legal entity.\nWhat is meant by \"may pass or be transferred\" is only the economic right, whereas the moral right remains attached to the Inventor.\nThe transfer of rights over a Patent must be effected notarially (authentic deed).\nLetter a\nSufficiently clear.\nLetter b Sufficiently clear.\nLetter c Sufficiently clear.\nLetter d Sufficiently clear.\nLetter e Sufficiently clear.\nLetter f What is meant by \"other cause justified under the provisions of laws and regulations\" is, for example, ownership of a Patent due to the dissolution of a legal entity that was previously the Patent Holder.\nParagraph (2) Sufficiently clear.\nParagraph (3) Sufficiently clear.\nParagraph (4) Sufficiently clear.\nParagraph (5) Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 74"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "This right is called a moral right."
+        },
+        "noLabel": {
+          "en": "Article 75"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "*.,,u J5ott,',35f;*u'o"
+        },
+        "noLabel": {
+          "en": "Article 76"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "Paragraph (1) Unlike the transfer of a patent where ownership of the right also passes, a Licence through an agreement is basically only in the nature of granting the right to enjoy the economic benefits of the Patent for a certain period and on certain terms.\nWhat is meant by \"exclusive Licence agreement\" is an agreement granted to only one licensee, and/or within a certain territory.\nWhat is meant by \"non-exclusive Licence agreement\" is an agreement that may be granted to several licensees and/or within several territories.\nParagraph (2) Sufficiently clear.\nParagraph (3) Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 76"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 77"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "What is meant by \"national interest\" is a matter or action of ideological, political, economic, social and cultural, defence and security interest, energy, technology and other interests to achieve the national goals of the Indonesian nation as stated in the Constitution of the Republic of Indonesia of 1945."
+        },
+        "noLabel": {
+          "en": "Article 78"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 79"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 80"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "What is meant by \"non-exclusive in nature\" is a Licence that may be granted to one licensee to exploit the licensed Patent, but it is not prohibited to grant the same Licence to another party.\nArticle 82 REPUBLIC OF INDONESIA"
+        },
+        "noLabel": {
+          "en": "Article 81"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "Paragraph (1)\nLetter a\nSufficiently clear.\nLetter b Sufficiently clear.\nLetter c This situation usually occurs in the exploitation of a patent that is the result of an improvement or development of an Invention previously protected by a patent. Therefore the exploitation of the new Patent means carrying out part or all of the Invention already protected by a Patent held by another party.\nIf the earlier Patent Holder grants a Licence to the subsequent Patent Holder, which enables the subsequent Patent to be carried out, then in this case there is no patent infringement problem.\nBut if the Licence for that purpose is not granted, this Law should provide the way out.\nThis provision is intended so that a patent granted later may be carried out without infringing the earlier patent through the granting of a compulsory Licence by the Minister.\nParagraph (2) Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 82"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 83"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "Paragraph (l)\nLetter a\nSufficiently clear.\nLetter b Sufficiently clear.\nLetter c What is meant by a Patent produced on an \"economically viable scale\" is one that can be sold at a price that\nAyat (2) *.\", J.Tott,R5f;*.r,o\nParagraph (2) What is meant by \"agency having competence\" is an agency competent in accordance with the field of the Patent for which the compulsory Licence is applied."
+        },
+        "noLabel": {
+          "en": "Article 84"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "Letter a\nWhat is meant by \"mutually granting Licences\" is the Patent Holder of Invention A grants a Licence to a licensee who has a patent over Invention A+1, and the licensee grants a Licence to the patent holder of Invention A to use the Patent over Invention A+1.\nLetter b Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 85"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "Paragraph (1) Sufficiently clear.\nParagraph (21 This summons is aimed at hearing the opinion of the Patent Holder, including the reasons why the patent holder does not grant a Licence to the applicant for the compulsory Licence.\nParagraph (3) Sufficiently clear.\nParagraph (a) Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 86"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 87"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 88"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 89"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 90"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 91,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 91"
+        }
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "*. o, JrTot t,',?Sf;\n*. r, o"
+        },
+        "noLabel": {
+          "en": "Article 92"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "Paragraph (l) What is meant by \"compensation\" may be in the form of money or other things agreed by the parties.\nParagraph (21 Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 92"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "Paragraph (l) What is meant by \"pharmaceutical product\" is, among others, a substance or a tool for diagnosing a disease.\nParagraph (2) Sufficiently clear.\nParagraph (s) Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 93"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 94"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 95,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 95"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 96,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 96"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 97,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 97"
+        }
+      },
+      {
+        "no": 98,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 98"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 99,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 99"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 100,
+        "text": {
+          "en": "Letter a\nSufficiently clear.\nLetter b What is meant by \"related institution\" is an institution established and tasked with supervising business competition as regulated in laws and regulations. or other forms of material"
+        },
+        "noLabel": {
+          "en": "Article 100"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 101,
+        "text": {
+          "en": "REPUELIK IN DO N ESIA"
+        },
+        "noLabel": {
+          "en": "Article 101"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 101,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 101"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 102,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 102"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 103,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 103"
+        }
+      },
+      {
+        "no": 104,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 104"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 105,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 105"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 106,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 106"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 107,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 107"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 108,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 108"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 109,
+        "text": {
+          "en": "Paragraph (1)\nLetter a\nExamples of Inventions relating to the defence and security of the State include explosives, firearms, and ammunition.\nLetter b What is meant by \"very urgent need for the public interest\" is, among others, in the health sector such as medicines still protected by patents in Indonesia required to deal with a widely spreading disease (endemic), in the agricultural sector for example pesticides urgently needed to deal with the failure of harvests nationally caused by pests, processes and/or products to deal with natural disasters and/or environmental disasters.\nParagraph (2) Sufficiently clear.\nAyat (3) *r\", J5,it,',?5|*=.,o\nParagraph (3) Sufficiently clear.\nParagraph (a) What is meant by \"the relevant minister or the head of the agency responsible in the relevant field\" is the minister or head of agency whose duties and authority relate to the field of the Patent exploited by the government. For example a patent in the pharmaceutical field, then the relevant minister is the minister whose duties and authority are in the health field."
+        },
+        "noLabel": {
+          "en": "Article 109"
+        },
+        "dupIndex": 4
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "O\nLetter a\nSufficiently clear.\nLetter b Sufficiently clear.\nLetter c Sufficiently clear.\nLetter d What is meant by \"interception\" is diverting, altering, and/or obstructing the transmission of electronic information and/or electronic documents that are not public in nature, whether using cable communication networks or wireless networks, for example electromagnetic emissions or radio frequency waves.\nLetter e What is meant by \"wiretapping\" is a patent relating to wiretapping equipment or a process for making wiretapping equipment used to listen to and record the transmission of electronic information and/or electronic documents that are not public in nature, whether using cable communication networks or wireless networks, for example electromagnetic emissions or radio frequency waves.\nLetter f What is meant by \"reconnaissance\" is an activity to obtain information, data, or imagery regarding the activities and resources of an enemy or regarding the meteorological, hydrographic, and/or geographical characteristics of a certain area, whether through visual observation or other sensing methods.\nHuruf g *. \", JrTot t,'*ort5 * u' o\nLetter g What is meant by \"encryption device\" is a device used to carry out the alteration, randomisation, and/or concealment of information into a format that cannot be read or understood.\nWhat is meant by \"cryptanalysis device\" is a device used to obtain the meaning of encrypted information by applying any concept, theory, art, or technique systematically, methodologically, and consistently.\nLetter h Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 11"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 111,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 111"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 112,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 112"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 113,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 113"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 114,
+        "text": {
+          "en": "Paragraph (l) Sufficiently clear.\nParagraph (2) Sufficiently clear.\nParagraph (3) Sufficiently clear.\nParagraph (4) What is meant by \"final in nature\" is that the Government's decision to exploit a patent cannot be subject to civil, criminal, state administrative, or other legal remedies.\nWhat is meant by \"binding in nature\" is that the Government's decision regarding the exploitation of a patent by the government applies to the parties."
+        },
+        "noLabel": {
+          "en": "Article 114"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 115,
+        "text": {
+          "en": "Paragraph (1) What is meant by \"reasonable compensation\" is a balance between the economic benefit that the Patent Holder may obtain and the financial capacity of the state to pay.\nParagraph (21 Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 115"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 115,
+        "text": {
+          "en": "Paragraph (1) What is meant by \"reasonable compensation\" is a balance between the economic benefit that the Patent Holder may obtain and the financial capacity of the state to pay.\nParagraph (21 Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 115"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 1,
+        "text": {
+          "en": "16 Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 1"
+        },
+        "dupIndex": 6
+      },
+      {
+        "no": 117,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 117"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 118,
+        "text": {
+          "en": "Paragraph (1) The Patent Holder cannot exercise his exclusive right and is therefore exempted from the obligation to pay the annual fee for the Patent exploited by the government.\nParagraph (2) The exploitation of a Patent by the Government does not reduce the exclusive right of the Patent Holder, so that the patent holder remains obliged to pay the annual fee."
+        },
+        "noLabel": {
+          "en": "Article 118"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 119,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 119"
+        }
+      },
+      {
+        "no": 120,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 120"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 121,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 121"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 122,
+        "text": {
+          "en": "Paragraph (1) What is meant by \"one Invention\" is that a simple patent is filed only for one independent product claim or one independent process claim, but may consist of several dependent claims.\nParagraph (2) Sufficiently clear.\nParagraph (3) REPUBLIC OF INDONESIA\nParagraph (3) Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 122"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 123,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 123"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 124,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 124"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 125,
+        "text": {
+          "en": "Paragraph (1) What is meant by \"documentation\" is a collection of archives constituting the history of a Patent from the application up to the final decision granting the Patent, rejecting the application, or withdrawing the Application in the form of electronic and/or non-electronic documents.\nParagraph (21 The establishment of a national patent documentation and information network system is to provide the widest possible information to the public regarding technology related to Patents so that the public may utilise it for carrying out technological development."
+        },
+        "noLabel": {
+          "en": "Article 125"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 126,
+        "text": {
+          "en": "Paragraph (1) The date of the Patent certificate is the date of grant of the patent.\nExample of the calculation of the annual fee:\nAn application filed on 1 April 2010 and declared granted a Patent on 5 January 2013. The Patent Holder's obligation to pay the annual fee for the first time must be performed no later than 4 July 2013.\nParagraph (2) As for the amount of the fee that must be paid for the first time, as follows:\nYear\nYear Period Fee (rupiah) I (1 April 2010 - 31 March 2011) A II (1 April 2011 - 31 March 2012) B III (1 April 2012 - 31 March 2013) C IV (1 April 2013 - 31 March 2014) D (1 April 2014 - 31 March 2015) E VI (1 April 2015 - 31 March 2016) F The date of 5 January 2013 falls in Year III for the period 1 April 2012-31 March 2013. The manner of the first payment is: the annual fee for the first year from the Filing Date up to the year in which the Patent is granted plus the annual fee for the following year. Thus for the first payment the patent annual fee is: A+B+C+D paid no later than 4 July 2013.\nParagraph (3) The second payment (the fee for year V) shall be made no later than 1 (one) month before the same date as the Filing Date in the period of the following year of protection.\nIn the example the obligation for the second payment of the annual fee (E) is performed on 2 March 2014.\nParagraph (4) Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 126"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 127,
+        "text": {
+          "en": "Paragraph (1) For a Patent Holder who resides or has a permanent domicile in the territory of the Unitary State of the Republic of Indonesia, payment of the annual fee may be made by the Patent Holder or an Attorney, which in this case is an Intellectual Property Consultant.\nParagraph (2) Sufficiently clear.\nParagraph (3) Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 127"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 128,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 128"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 129,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 129"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 130,
+        "text": {
+          "en": "*.\",JrTott,',?Sf;*r'o"
+        },
+        "noLabel": {
+          "en": "Article 130"
+        }
+      },
+      {
+        "no": 130,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 130"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 131,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 131"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 132,
+        "text": {
+          "en": "Paragraph (l)\nLetter a\nSufficiently clear.\nLetter b Sufficiently clear.\nLetter c Sufficiently clear.\nLetter d What is meant by \"unable to prevent the continued exploitation of the patent in a form and manner detrimental to the public interest\" is that although a compulsory Licence has been granted, the granting of the said compulsory Licence is not followed by its implementation, or a compulsory Licence is implemented but not effectively, so that the product urgently needed by the public is not supplied and the purpose of granting the compulsory Licence is not achieved, for example the granting of a compulsory Licence to produce a medicine but it is not implemented effectively so that the quantity produced remains small and the price of the medicine remains expensive.\nLetter e Sufficiently clear.\nParagraph (2) What is meant by \"third party\" is a party having an interest in the Patent whose revocation is claimed and which must be proven in the Commercial Court.\nParagraph (3) Sufficiently clear.\nParagraph (4) PRESIDENT OF THE REPUBLIC OF INDONESIA\nParagraph (4) What is meant by \"another party representing the national interest\" is any person who brings a claim solely for the interest of the public and/or the Unitary State of the Republic of Indonesia."
+        },
+        "noLabel": {
+          "en": "Article 132"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 133,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 133"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 134,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 134"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 135,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 135"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 136,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 136"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 137,
+        "text": {
+          "en": "The exclusive right of the Patent Holder is lost as from the decision of the Commercial Court having permanent legal force revoking the patent held by the Patent Holder.\nIf the Patent has been licensed by the patent holder to another party, the licensee is not obliged to pay royalties to the patent holder whose Patent has been revoked."
+        },
+        "noLabel": {
+          "en": "Article 137"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 138,
+        "text": {
+          "en": "Paragraph (1) Sufficiently clear.\nParagraph (21 A Patent Holder whose claims have been partially revoked by his own request or by a court decision having permanent legal force must file a request to the Minister to adjust the part of the claims not yet revoked.\nThe adjustment of claims upon partial revocation of claims is carried out by renumbering the patent claim numbers that have not been revoked. The said renumbering of patent claim numbers does not result in broadening the scope of the claims."
+        },
+        "noLabel": {
+          "en": "Article 138"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 139,
+        "text": {
+          "en": "Paragraph (1) A licensee of a revoked Patent may basically continue to exercise the rights it has obtained. The said Licence becomes a Licence over the other patent that has not been revoked.\nAyat (21 $3.)*rt$oi€ PI]ESIIJFN REPUELIK IN DO I.IESIA\nParagraph (2) Sufficiently clear.\nParagraph (3) Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 139"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 140,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 140"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 141,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 141"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 142,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 142"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 143,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 143"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 144,
+        "text": {
+          "en": "Paragraph (1) Sufficiently clear.\nParagraph (21 Sufficiently clear.\nParagraph (3) What is meant by \"day\" is calendar day.\nParagraph (4) What is meant by \"day\" is calendar day.\nParagraph (s) What is meant by \"day\" is calendar day."
+        },
+        "noLabel": {
+          "en": "Article 144"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 145,
+        "text": {
+          "en": "Paragraph (1) Reverse proof is applied given the difficulty of handling disputes over a patented process.\nletter a The notion of a patented process or patent for a process basically refers to the same term, namely a process patent.\nletter b Sufficiently clear.\nParagraph (2) To maintain a balance of legitimate interests among the parties, the judge is still given the authority to order the patent owner to first submit a copy of the Patent certificate for the process concerned and preliminary evidence strengthening the allegation. In addition, the judge must also consider the interest of the defendant in obtaining protection for the confidentiality of the process he has described in the context of the proof he must carry out in the hearing.\nParagraph (3) PRESIDENT OF THE REPUBLIC OF INDONESIA\nParagraph (3) Sufficiently clear.\nParagraph (a) Protection of such confidentiality is very important given the nature of a process which is generally very easily manipulated or ... common knowledge in the field of engineering or technology. Accordingly, at the request of the parties, the judge may determine that the hearing be declared closed to the public. Article 146\nParagraph (l) What is meant by \"day\"\nParagraph (21 Sufficiently clear.\nParagraph (s) What is meant by \"day\"\nParagraph (4) What is meant by \"day\" Paragraph (5) Sufficiently clear.\nParagraph (6) Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 145"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 147,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 147"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 148,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 148"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 149,
+        "text": {
+          "en": "Paragraph (1) What is meant\nParagraph (2) Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 149"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 150,
+        "text": {
+          "en": "by \"day\" is calendar day.\nParagraph (1) What is meant by \"day\" is calendar day. Paragraph (2) What is meant by \"day\" is calendar day. Paragraph (3) What is meant by \"day\" is calendar day. Paragraph (4) What is meant by \"day\" is calendar day."
+        },
+        "noLabel": {
+          "en": "Article 150"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 151,
+        "text": {
+          "en": "Paragraph (1) What is meant by \"case file for cassation\" in this article is the cassation application, memorandum of cassation, counter-memorandum of cassation and other documents.\nWhat is meant by \"day\" is calendar day. Paragraph (2) What is meant by \"day\" is calendar day. is calendar day. is calendar day. is calendar day.\nParagraph (3) PRESIDENT OF THE REPUBLIC OF INDONESIA\nParagraph (3) What is meant by \"day\" is calendar day."
+        },
+        "noLabel": {
+          "en": "Article 151"
+        }
+      },
+      {
+        "no": 152,
+        "text": {
+          "en": "Paragraph (1) What is meant by \"day\" is calendar day. Paragraph (21 Sufficiently clear.\nParagraph (3) What is meant by \"day\" is Paragraph (4) What is meant by \"day\" is Letter a Sufficiently clear.\nLetter b Sufficiently clear.\nLetter c Specifically for a claim for patent revocation, even though the Minister is not a party to the said claim, the copy of the court decision declaring permanent legal force must be delivered by the Commercial Court to the Minister. Paragraph (5) Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 152"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 153,
+        "text": {
+          "en": "Paragraph (1) What is meant by \"alternative dispute resolution\" is, among others, negotiation, mediation, conciliation, and expert appraisal chosen by the parties.\nParagraph (2) Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 153"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 154,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 154"
+        },
+        "dupIndex": 4
+      },
+      {
+        "no": 155,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 155"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 156,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 156"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 157,
+        "text": {
+          "en": "Paragraph (1) Sufficiently clear.\nParagraph (2) What is meant\nParagraph (3) What is meant\nParagraph (4) Sufficiently clear.\nParagraph (5) Sufficiently clear.\nParagraph (6) Sufficiently clear. calendar day, calendar day. by \"day\" is calendar day. by \"day\" is calendar day."
+        },
+        "noLabel": {
+          "en": "Article 157"
+        },
+        "dupIndex": 4
+      },
+      {
+        "no": 158,
+        "text": {
+          "en": "q,w\n_4t_"
+        },
+        "noLabel": {
+          "en": "Article 158"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 158,
+        "text": {
+          "en": "Paragraph (1) What is meant by\nParagraph (21 What is meant by \"day\" is calendar day.\n\"day\" is calendar day.\nParagraph (3) What is meant by \"day\" is calendar day.\nParagraph (a) Sufficiently clear.\nParagraph (s) Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 158"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 159,
+        "text": {
+          "en": "Paragraph (1) What is meant by \"certain civil servant investigators within the ministry administering government affairs in the field of law\" is civil servant investigators in the field of Intellectual Property.\nParagraph (21\nLetter a\nSufficiently clear.\nLetter b Sufficiently clear.\nLetter c Sufficiently clear.\nLetter d Sufficiently clear.\nLetter e Sufficiently clear.\nLetter f Seizing materials used to make goods resulting from infringement that may serve as evidence in a case of criminal offence in the field of patents. With the seizure by the Investigator, the said materials cannot be used by the Reported Person to make goods resulting from a criminal offence in the field of Patents.\nSeizure of goods resulting from infringement that may serve as evidence in a case of criminal offence in the field of patents does not include seizing the machine making the said goods insofar as the Reported Person can prove that the said machine can be used to produce other goods that do not constitute a criminal offence in the field of patents.\nLetter g Sufficiently clear.\nHuruf h *.\"u J.Tn= t,',?otf;* u.,o _42_\nLetter h A civil servant investigator has the right to carry out arrest, detention, determination of a Wanted Persons List (DPO), prevention and deterrence against criminal offences in the field of Patents by requesting the assistance of the Police, including Interpol, the Immigration authorities, the Detention Centre authorities, and other relevant agencies.\nLetter i Sufficiently clear.\nParagraph (s) Sufficiently clear.\nParagraph (4) Sufficiently clear.\nParagraph (s) Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 159"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 160,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 160"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 161,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 161"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 162,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 162"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 163,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 163"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 164,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 164"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 165,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 165"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 166,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 166"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 167,
+        "text": {
+          "en": "*.\n\" u J.Tot t/,?otf;\n* = r, o"
+        },
+        "noLabel": {
+          "en": "Article 167"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 167,
+        "text": {
+          "en": "The acts of parallel import and Bolar provision are excluded from the criminal provisions and civil claims so that there is no doubt for parties who will carry out such acts.\nLetter a\nThe exclusion of the importation of pharmaceutical products as referred to in point a of this Article is to guarantee a fair price and to satisfy the sense of justice in respect of pharmaceutical products that are urgently needed for human health. This provision may be used where the price of a product in Indonesia is very expensive compared with the price that has been lawfully circulated on the international market.\nLetter b The exception as referred to in point b of this Article is to guarantee the availability of pharmaceutical products by other parties after the expiry of the patent protection period. Accordingly, a fair price for pharmaceutical products may be pursued.\nWhat is meant by the licensing process in this point is the process for processing the marketing authorisation and production permit for a pharmaceutical product at the relevant agency."
+        },
+        "noLabel": {
+          "en": "Article 167"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 168,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 168"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 169,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 169"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 170,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 170"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 171,
+        "text": {
+          "en": "Sufficiently clear."
+        },
+        "noLabel": {
+          "en": "Article 171"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 172,
+        "text": {
+          "en": "Sufficiently clear"
+        },
+        "noLabel": {
+          "en": "Article 172"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 173,
+        "text": {
+          "en": "Sufficiently clear.\nSUPPLEMENT TO THE STATE GAZETTE OF THE REPUBLIC OF INDONESIA NUMBER 5922"
+        },
+        "noLabel": {
+          "en": "Article 173"
+        },
+        "dupIndex": 2
       }
     ]
   };

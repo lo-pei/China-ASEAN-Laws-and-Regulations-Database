@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13764",
+ "title": {
+  "zh": null,
+  "en": "An Act to Repeal Acts Numbered Twenty-Eight Hundred and Ninety-Four. Twenty-Nine Hundred and Fifty, three thousand and Nine, and three thousand and Fifty-One",
+  "orig": "An Act to Repeal Acts Numbered Twenty-Eight Hundred and Ninety-Four. Twenty-Nine Hundred and Fifty, three thousand and Nine, and three thousand and Fifty-One"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1923-11-23",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3120",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1179,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1923/act_3120_1923.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03120_1923_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03120_1923_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13764-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Acts Numbered Twenty-eight hundred and ninety-four, entitled \"An Act granting authority to\nprovinces, municipalities, and chartered cities to incur indebtedness and issue bonds covering the same, under\ncertain conditions;\" Twenty-nine hundred and fifty, entitled \"An Act to amend Act Numbered Twenty-eight\nhundred and ninety-four, entitled 'An Act granting authority to provinces, municipalities, and chartered cities\nto incur indebtedness and issue bonds covering the same, under certain conditions;' \" Three thousand and\nnine, entitled \"An Act to amend subsection (a) of section one of Act Numbered Twenty-nine hundred and\nfifty, entitled 'An Act to amend Act Numbered Twenty-eight hundred and ninety-four, entitled \"An Act\ngranting authority to provinces, municipalities, and chartered cities to incur indebtedness and issue bonds\ncovering the same, under certain conditions;\" ' \" and Three thousand and fifty-one, entitled \"An Act\nauthorizing the issue of bonds of the Government of the Philippine Islands secured by bonds issued by\nprovinces, municipalities, and chartered cities,\" are hereby repealed."
+   }
+  },
+  {
+   "id": "PH-H13764-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, November 23, 1923."
+   }
+  }
+ ]
+}

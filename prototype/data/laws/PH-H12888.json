@@ -1,0 +1,52 @@
+{
+ "id": "PH-H12888",
+ "title": {
+  "zh": null,
+  "en": "An Act Appropriating- the Sum of Twenty thousand Pesos for the Construction and Furnishing of a Dormitory for Filipino Schoolteachers At the Teachers' Camp, Baguio, Mountain Province.",
+  "orig": "An Act Appropriating- the Sum of Twenty thousand Pesos for the Construction and Furnishing of a Dormitory for Filipino Schoolteachers At the Teachers' Camp, Baguio, Mountain Province."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1912-05-20",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2182",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 1,
+ "chars": 394,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1912/act_2182_1912.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02182_1912_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 1 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02182_1912_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12888-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The sum of twenty thousand pesos, or so much thereof as may be necessary, is hereby\nappropriated, out of any funds in the Insular Treasury not otherwise appropriated, to be expended under the\ndirection of the Secretary of Public Instruction, for the construction and furnishing of a dormitory for\nFilipino-school teachers at the Teachers' Camp, Baguio, Mountain Province.\nEnacted, May 20, 1912."
+   }
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "id": "PH-H12654",
+ "title": {
+  "zh": null,
+  "en": "An Act Providing the Time At Which All Acts of the Philippine Legislature Shall Take Effect.",
+  "orig": "An Act Providing the Time At Which All Acts of the Philippine Legislature Shall Take Effect."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1909-05-20",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 1945",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 518,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1909/act_1945_1909.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_01945_1909_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_01945_1909_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12654-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "No Act passed by the Philippine Legislature shall in effect until fifteen days alter its\npromulgation unless otherwise expressly provided."
+   }
+  },
+  {
+   "id": "PH-H12654-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The promulgation of a law shall be understood to have been made on the day when the\npublication of same in the Official Gazette of the Philippine Islands shall have been completed."
+   }
+  },
+  {
+   "id": "PH-H12654-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "All Acts directly or indirectly in conflict with the provisions of this Act are hereby repealed."
+   }
+  },
+  {
+   "id": "PH-H12654-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "This Act shall lake effect at the opening of the next session of the Legislature.\nEnacted, May 20, 1909."
+   }
+  }
+ ]
+}

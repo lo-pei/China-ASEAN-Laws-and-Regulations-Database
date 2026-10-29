@@ -1,0 +1,62 @@
+{
+ "id": "PH-H12988",
+ "title": {
+  "zh": null,
+  "en": "An Act Making An Appropriation to Enable the Mountain Province and the Provinces of Nueva VIzeaya and Agusan to Make Exhibits of their Products, Industries, and Resources, At the Philippine Exposition to Be Held in the Year Nineteen Hundred and",
+  "orig": "An Act Making An Appropriation to Enable the Mountain Province and the Provinces of Nueva VIzeaya and Agusan to Make Exhibits of their Products, Industries, and Resources, At the Philippine Exposition to Be Held in the Year Nineteen Hundred and"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1913-09-08",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2284",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 564,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1913/act_2284_1913.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02284_1913_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02284_1913_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12988-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "There is hereby appropriated, out of any funds in the Insular Treasury not otherwise\nappropriated, the sum of fifteen thousand pesos, to be expended by the Philippine Exposition Board created by\nAct Numbered Twenty-two hundred and twenty-four, for the purpose of enabling the Mountain Province and\nthe Provinces of Nueva Vizcaya and Agusan to make exhibits of their products, industries and resources, at\nthe Philippine exposition to be held in Manila in the year nineteen hundred and fourteen."
+   }
+  },
+  {
+   "id": "PH-H12988-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, September 8, 1913."
+   }
+  }
+ ]
+}

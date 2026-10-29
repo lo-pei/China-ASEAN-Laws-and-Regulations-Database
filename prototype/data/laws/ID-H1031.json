@@ -1,0 +1,350 @@
+{
+ "id": "ID-H1031",
+ "title": {
+  "zh": "政党法",
+  "en": "political party Law",
+  "id": "partai politik",
+  "orig": "PARTAI POLITIK",
+  "vi": "Luật đảng chính trị",
+  "th": "พระราชบัญญัติ พรรคการเมือง",
+  "ms": "Akta partai politik"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02b",
+ "language": "id",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "1999",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU2-1999",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 22,
+ "chars": 22129,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU021999.pdf&fl=P01033"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\01_宪法与基础法\\印尼_文本_1999_PARTAI POLITIK.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 22 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H1031-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\n(1) Dalam undang-undang ini yang dimaks ud dengan Partai Politik adalah\nsetiap organisasi yang dibentuk oleh  warga negara Republik Indonesia\nsecara sukarela atas dasar persamaan kehendak untuk memperjuangkan\nbaik kepentingan anggotanya maupun bangsa dan negara melalui\npemilihan umum.\n(2) Kedaulatan Partai Politik berada di tangan anggotanya.\n(3) Setiap Partai Politik mempunyai kedudukan, fungsi, hak, dan kewajiban\nyang sama dan sederajat.\n(4) Partai Politik bersifat mandiri dalam mengatur rumah tangga\norganisasinya.\n\nBAB II\nSYARAT-SYARAT PEMBENTUKAN"
+   }
+  },
+  {
+   "id": "ID-H1031-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\n\n(1) Sekurang-kurangnya 50 (lima puluh) orang warga negara Republik\nIndonesia yang telah berusia 21 (dua puluh satu) tahun dapat membentuk\nPartai Politik.\n(2) Partai Politik yang dibentuk sebagaimana dimaksud ayat (1) harus\nmemenuhi syarat:\n a. mencantumkan Pancasila sebagai dasar negara dari Negara Kesatuan\nRepublik Indonesia dalam anggaran dasar partai;\n b. asas atau ciri, aspirasi dan pr ogram Partai Politik tidak bertentangan\ndengan Pancasila;\n c. keanggotaan Partai Politik bersifat terbuka untuk setiap warga negara\nRepublik Indonesia yang telah mempunyai hak pilih;\n d. Partai Politik tidak boleh menggunakan nama atau lambang yang sama\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\n\ndengan lambang negara asing, bendera Negara Kesatuan Republik\nIndonesia Sang Merah Putih, bendera kebangsaan negara asing,\ngambar perorangan dan nama serta lambang partai lain yang telah ada."
+   }
+  },
+  {
+   "id": "ID-H1031-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\n  Pembentukan Partai Politik tidak boleh membahayakan persatuan dan\nkesatuan nasional."
+   }
+  },
+  {
+   "id": "ID-H1031-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\n\n(1) Partai Politik didirikan dengan ak te notaris dan didaftarkan pada\nDepartemen Kehakiman Republik Indonesia.\n(2) Departemen Kehakiman Republik Indonesia hanya dapat menerima\npendaftaran pendirian Partai Politik ap abila telah memenuhi syarat sesuai\ndengan Pasal 2 dan Pasal 3 undang-undang ini.\n(3) Pengesahan pendirian Partai Po litik sebagai badan hukum diumumkan\ndalam Berita Negara Republik Indonesia oleh Menteri Kehakiman\nRepublik Indonesia.\n\nBAB III\nTUJUAN"
+   }
+  },
+  {
+   "id": "ID-H1031-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\n\n(1) Tujuan umum Partai Politik adalah:\n a. mewujudkan cita-cita nasional Bangsa Indonesia sebagaimana\ndimaksud dalam Pembukaan Undang-Undang Dasar 1945;\n b. mengembangkan kehidupan demokrasi berdasarkan Pancasila dengan\nmenjunjung tinggi kedaulatan rakyat dalam Negara Kesatuan Republik\nIndonesia.\n(2) Tujuan khusus Partai Politik adalah memperjuangkan cita-cita para\nanggotanya dalam kehidupan bermasyarakat, berbangsa, dan bernegara."
+   }
+  },
+  {
+   "id": "ID-H1031-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\n  Setiap Partai Politik wajib mencantumkan tujuan umum dan tujuan khusus\nseperti tercantum dalam Pasal 5 undang-undang ini di dalam anggaran\ndasarnya.\n\nBAB IV\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\n\nFUNGSI, HAK, DAN KEWAJIBAN"
+   }
+  },
+  {
+   "id": "ID-H1031-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\n  (1) Partai Politik berfungsi untuk:\n a. melaksanakan pendidikan politik dengan menumbuhkan dan\nmengembangkan kesadaran atas hak dan kewajiban politik rakyat\ndalam kehidupan berbangsa dan bernegara;\n b. menyerap, menyalurkan dan memperjuangkan kepentingan masyarakat\ndalam pembuatan kebijakan negara melalui mekanisme badan-badan\npermusyawaratan/perwakilan rakyat;\n c. mempersiapkan anggota masyarakat untuk mengisi jabatan-jabatan\npolitik sesuai dengan mekanisme demokrasi.\n  (2) Partai Politik sebagai lembaga demokrasi merupakan wahana guna\nmenyatakan dukungan dan tuntutan dalam proses politik."
+   }
+  },
+  {
+   "id": "ID-H1031-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n  Partai Politik mempunyai hak:\na. ikut serta dalam pemilihan umum  sesuai dengan Undang-Undang tentang\nPemilihan Umum;\nb. memperoleh perlakuan yang sama, sederajat, dan adil dari negara."
+   }
+  },
+  {
+   "id": "ID-H1031-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n  Partai Politik berkewajiban:\na. memegang teguh serta mengamalkan Pancasila dan Undang-Undang\nDasar 1945;\nb. mempertahankan keutuhan Negara Kesatuan Republik Indonesia;\nc. memelihara persatuan dan kesatuan bangsa;\nd. menyukseskan pembangunan nasional;\ne. menyukseskan penyelenggaraan pemilihan umum secara demokratis,\njujur, dan adil dengan mengadakan pemberian dan pemungutan suara\nsecara langsung, umum, bebas dan rahasia.\n\nBAB V\nKEANGGOTAAN DAN KEPENGURUSAN"
+   }
+  },
+  {
+   "id": "ID-H1031-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\n  (1) Anggota Partai Politik adalah warga negara Republik Indonesia dengan\npersyaratan sebagai berikut:\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\n\n a. telah berusia 17 (tujuh belas) tahun atau sudah/pernah kawin;\n b. dapat membaca dan menulis;\n  (2) Partai Politik mendaftar dan memelihara daftar anggota."
+   }
+  },
+  {
+   "id": "ID-H1031-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\n  Partai Politik dapat membentuk kepengurusan di:\na. ibukota negara Republik Indonesia untuk Pengurus Tingkat Pusat;\nb Ibukota propinsi untuk Pengurus Daerah Tingkat I;\nc. ibukota kabupaten/kotamadya untuk Pengurus Daerah Tingkat II;\nd. kecamatan untuk Pengurus Tingkat Kecamatan;\ne. desa/kelurahan untuk Pengurus Tingkat Desa/Kelurahan.\n\nBAB VI\nKEUANGAN"
+   }
+  },
+  {
+   "id": "ID-H1031-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n  (1) Keuangan Partai Politik diperoleh dari:\n a. iuran anggota;\n b. sumbangan;\n c. usaha lain yang sah.\n(2) Partai Politik menerima bantuan tahunan dari anggaran negara yang\nditetapkan berdasarkan perolehan suara dalam pemilihan umum\nsebelumnya.\n(3) Penetapan mengenai bantuan tahunan sebagaimana dimaksud ayat (2)\nditetapkan melalui Peraturan Pemerintah.\n(4) Partai Politik tidak boleh menerima sumbangan dan bantuan dari pihak\nasing."
+   }
+  },
+  {
+   "id": "ID-H1031-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\n  (1) Partai Politik merupakan organisasi nirlaba.\n  (2) Pelaksanaan sebagaimana dimaksud ayat (1), Partai Politik dilarang\nmendirikan badan usaha dan/atau memiliki saham suatu badan."
+   }
+  },
+  {
+   "id": "ID-H1031-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\n  (1) Jumlah sumbangan dari setiap orang yang dapat diterima oleh Partai\nPolitik sebanyak-banyaknya adalah Rp. 15.000.000,00 (lima belas juta\nrupiah) dalam waktu satu tahun.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\n\n(2) Jumlah sumbangan dari setiap perusahaan dan setiap badan lainnya yang\ndapat diterima oleh Partai Politik sebanyak-banyaknya adalah Rp.\n150.000.000,00 (seratus lima puluh juta rupiah) dalam waktu satu tahun.\n(3) Sumbangan yang berupa barang dinilai menurut nilai pasar yang berlaku\ndan diperlakukan sama dengan sumbangan yang berupa uang.\n(4) Partai Politik memelihara daftar penyumbang dan jumlah sumbangannya\nserta terbuka untuk diaudit oleh akuntan publik."
+   }
+  },
+  {
+   "id": "ID-H1031-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\n(1) Partai Politik wajib melaporkan daftar sebagaimana dimaksud Pasal 14\nayat (4) beserta laporan keuanga nnya setiap akhir tahun dan setiap 15\n(lima belas) hari sebelum serta 30 (tiga puluh) hari sesudah pemilihan\numum kepada Mahkamah Agung Republik Indonesia.\n(2) Laporan sebagaimana dimaksud ayat (1) sewaktu-waktu dapat diaudit oleh\nakuntan publik yang ditunjuk oleh Mahkamah Agung Republik Indonesia.\n\nBAB VII\nPENGAWASAN DAN SANKSI"
+   }
+  },
+  {
+   "id": "ID-H1031-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\n  Partai Politik tidak boleh:\na. menganut, mengembangkan, menyebarkan ajaran atau paham\nKomunisme/Marxisme/Leninisme dan ajaran lain yang bertentangan\ndengan Pancasila;\nb. menerima sumbangan dan/atau bant uan dalam bentuk apapun dari pihak\nasing, baik langsung maupun tidak langsung;\nc. memberi sumbangan dan/atau bant uan dalam bentuk apapun kepada pihak\nasing, baik langsung maupun tidak langsung, yang dapat merugikan\nkepentingan bangsa dan negara;\nd. melakukan kegiatan yang bertenta ngan dengan kebijakan Pemerintah\nRepublik Indonesia dalam memelihara persahabatan dengan negara lain."
+   }
+  },
+  {
+   "id": "ID-H1031-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\n(1) Pengawasan atas ketentuan-ketentuan yang tercantum dalam\nundang-undang ini dilakukan oleh Mahkamah Agung Republik Indonesia.\n\n\n(2) Dengan kewenangan yang ada padanya, Mahkamah Agung Republik\nIndonesia dapat membekukan atau membubarkan suatu Partai Politik jika\nnyata-nyata melanggar Pasal 2, Pasal 3, Pasal 5, Pasal 9, dan Pasal 16\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\n\nundang-undang ini.\n(3) Pelaksanaan kewenangan sebagaimana dimaksud ayat (2) dilakukan\ndengan terlebih dahulu mendengar dan mempertimbangkan keterangan\ndari Pengurus Pusat Partai Politik yang bersangkutan dan setelah melalui\nproses peradilan.\n(4) Pelaksanaan pembekuan atau pembubaran Partai Politik dilakukan setelah\nadanya putusan pengadilan yang telah memperoleh kekuatan hukum tetap\ndengan mengumumkannya dalam Berita Negara Republik Indonesia oleh\nMenteri Kehakiman Republik Indonesia."
+   }
+  },
+  {
+   "id": "ID-H1031-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\n(1) Mahkamah Agung Republik Indonesia dapat menjatuhkan sanksi\nadministratif berupa penghentian bant uan dari anggaran negara apabila\nsuatu Partai Politik nyata-nyata melanggar Pasal 15 undang-undang ini.\n(2) Mahkamah Agung Republik Indonesia da pat mencabut hak suatu Partai\nPolitik untuk ikut pemilihan umum jika nyata-nyata melanggar Pasal 13\ndan Pasal 14 undang-undang ini.\n(3) Pencabutan hak sebagaimana dimaksud ayat (2) dilakukan dengan terlebih\ndahulu mendengar pertimbangan pengurus pusat Partai Politik yang\nbersangkutan dan setelah melalui proses peradilan."
+   }
+  },
+  {
+   "id": "ID-H1031-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\n\n(1) Barangsiapa dengan sengaja memberikan sumbangan kepada Partai Politik\nmelebihi ketentuan yang diatur dala m Pasal 14 ayat (1) dan ayat (2)\nundang-undang ini diancam pidana kurungan selama-lamanya 30 (tiga\npuluh) hari atau pidana de nda sebanyak-banyaknya Rp. 100.000.000,00\n(seratus juta rupiah).\n(2) Barangsiapa dengan sengaja memberikan uang atau barang kepada orang\nlain dengan maksud agar orang tersebut menyumbangkannya kepada\nPartai Politik sehingga melebihi ketentuan yang diatur dalam Pasal 14 ayat\n(1) dan ayat (2) undang-undang ini diancam pidana kurungan\nselama-lamanya 30 (tiga puluh) hari atau pidana denda\nsebanyak-banyaknya Rp. 100.000.000,00 (seratus juta rupiah).\n(3) Barangsiapa dengan sengaja menerima uang atau barang dari seseorang\nuntuk disumbangkan kepada Partai Politik dengan maksud agar orang\ntersebut dapat menyumbang melebihi ketentuan yang diatur dalam Pasal\n14 ayat (1) dan ayat (2) undang-undang ini diancam pidana kurungan\nselama-lamanya 30 (tiga puluh) hari atau pidana denda\nsebanyak-banyaknya Rp. 100.000.000,00 (seratus juta rupiah).\n(4) Barangsiapa dengan sengaja memaksa seseorang atau badan untuk\nmemberikan sumbangan kepada Partai Politik dalam bentuk apapun\ndiancam pidana kurungan selama-lamanya 30 (tiga puluh) hari atau pidana\ndenda sebanyak-banyaknya Rp. 100.000.000,00 (seratus juta rupiah).\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\n\n\nBAB VIII\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H1031-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\n  Pada saat berlakunya undang-undang ini maka Organisasi Peserta Pemilihan\nUmum Tahun 1997, yaitu Partai Persat uan Pembangunan, Golongan Karya,\ndan Partai Demokrasi Indonesia sebagai organisasi kekuatan sosial politik\nberdasarkan Undang-undang Nomor 3 Tahun 1975 tentang Partai Politik dan\nGolongan Karya sebagaimana telah diubah dengan Undang-undang Nomor 3\nTahun 1985 tentang Perubahan Undang-undang Nomor 3 Tahun 1975 tentang\nPartai Politik dan Golongan Karya, dianggap telah memenuhi persyaratan\nsebagaimana diatur dalam Pasal 2 dan Pasal 4 undang-undang ini serta wajib\nmenyesuaikan diri dengan ketentuan undang-undang ini.\n\nBAB IX\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H1031-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\n(1) Sejak mulai berlakunya undang-undang ini maka Undang-undang Nomor\n3 Tahun 1975 tentang Partai Politik dan Golongan Karya sebagaimana\ntelah diubah dengan Undang-undang Nomor 3 Tahun 1985 tentang\nPerubahan Undang-undang Nomor 3 Tahun 1975 tentang Partai Politik\ndan Golongan Karya dinyatakan tidak berlaku lagi.\n(2) Segala ketentuan dan peratura n yang bertentangan dengan undang-undang\nini dinyatakan tidak berlaku lagi."
+   }
+  },
+  {
+   "id": "ID-H1031-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\n  Undang-undang ini mulai berlaku pada tanggal diundangkan.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\n\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nundang-undang ini dengan penempatannya dalam Lembaran Negara Republik\nIndonesia.\n\n     Disahkan di Jakarta\n     pada tanggal 1 Februari 1999\n     PRESIDEN REPUBLIK INDONESIA,\n       t t d .\n     BACHARUDDIN JUSUF HABIBIE\nDiundangkan di Jakarta\npada tanggal 1 Februari 1999\nMENTERI NEGARA SEKRETARIS NEGARA\nREPUBLIK INDONESIA,\nttd.\nAKBAR TANDJUNG\n\n\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1999 NOMOR 22\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\nPENJELASAN\nATAS\nUNDANG-UNDANG REPUBLIK INDONESIA\nNOMOR 2 TAHUN 1999\nTENTANG\nPARTAI POLITIK\n\nUMUM\n\n Pembentukan Partai Politik pada dasarnya merupakan salah satu pencerminan hak warga\nnegara untuk berserikat, berkumpul, dan me nyatakan pendapat sesuai dengan Pasal 28\nUndang-Undang Dasar 1945. Melalui Partai Po litik rakyat dapat mewujudkan haknya untuk\nmenyatakan pendapat tentang arah kehidupan berb angsa dan bernegara. Keragaman pendapat di\ndalam masyarakat akan melahirkan keinginan untuk membentuk berbagai Partai Politik sesuai\ndengan ragam pendapat yang hidup. Dengan demi kian, pada hakekatnya, negara tidak\nmembatasi jumlah Partai Politik yang dibentuk oleh rakyat.\n Dalam keragaman Partai Politik ini, setiap Partai Politik mempunyai kedudukan, fungsi, hak,\ndan kewajiban yang sama dan sederajat. Kedaulat an Partai Politik berada di tangan anggotanya,\ndan karena itu Partai Politik bersifat mandiri dalam mengatur rumah tangga organisasinya.\nDengan demikian, pihak-pihak yang berada di luar  partai tidak dibenarkan campur tangan dalam\nurusan rumah tangga suatu Partai Politik.\n Untuk mencapai suatu kehidupan berbangsa da n bernegara yang sehat dicita-citakan oleh\npendiri negara sebagaimana dirumuskan da lam Pembukaan Undang-Undang Dasar 1945, setiap\nPartai Politik dalam kehidupan bernegara melaksanakan secara konsisten Pancasila sebagai dasar\nNegara. Dengan demikian dinamika demokrasi di Indonesia mendapatkan landasan yang kokoh.\n Karena acuan utama Partai Politik telah disepakati, maka setiap Partai Politik dapat\nmempunyai asas atau ciri, aspirasi dan progr am tersendiri yang tidak bertentangan dengan\nPancasila. Aspirasi dan program Partai Politik me rupakan pengejawantahan dari asas atau ciri\ndalam upaya memecahkan masalah bangsa Indone sia. Program tersebut diarahkan untuk\nmewujudkan cita-cita nasional Bangsa Indone sia dan mengembangkan kehidupan demokrasi\nberdasarkan Pancasila sebagai tujuan umum dan memperjuangkan cita-cita para anggotanya\nsebagai tujuan khusus Partai Politik.\n Kehidupan berbangsa dan bernegara yang me rupakan cita-cita demokrasi berdasarkan\nPancasila, hanya dapat tercapai jika perbedaan yang ada dalam masyarakat tidak dijadikan alasan\nuntuk mendiskriminasikan keanggotaan Partai  Politik. Prinsip nondiskriminasi dalam\nkeanggotaan Partai Politik dimaksudkan agar dem okrasi berdasarkan Pancasila dapat terwujud\nsecara dinamis, sehingga setiap Partai Politik bersifat terbuka bagi setiap warga negara Republik\nIndonesia. Dengan demikian, keragaman Partai Politik itu tidak menjadi pemecah belah bangsa\ntetapi justru menjadi pengikat persatuan dan kesatuan bangsa.\n Sebagai salah satu lembaga demokrasi, Partai Politik berfungsi mengembangkan kesadaran\natas hak dan kewajiban politik rakyat, menyalurk an kepentingan masyarakat dalam pembuatan\nkebijakan negara, serta membina dan memp ersiapkan anggota masyarakat untuk mengisi\njabatan-jabatan politik sesuai dengan mekanisme demokrasi. Partai Politik juga merupakan salah\nsatu wahana guna menyatakan dukungan dan tuntutan  dalam proses politik. Semua fungsi ini\ndiwujudkan melalui Pemilihan Umum yang diselenggarakan secara demokratis, jujur, dan adil\ndengan mengadakan pemberian dan pemungutan suara secara langsung, umum, bebas, dan\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\n\nrahasia, sebagaimana diamanatkan dalam TA P MPR Nomor XIV/MPR/1998 tentang Perubahan\ndan Tambahan Atas TAP MPR Nomor III/MPR/1988 tentang Pemilihan Umum. Oleh karena itu\nsetiap Partai Politik berhak ikut serta dalam Pemilihan Umum setelah memenuhi syarat\nkeikutsertaan sebagaimana diatur dalam Undang-Undang tentang Pemilihan Umum.\n Negara harus menjamin bahwa setiap warga negara mempunyai kesempatan yang sama\nuntuk mempengaruhi kebijakan negara melalui Partai Politik dan terwujudnya asas demokrasi\nyaitu satu orang satu suara. Mengingat pemb entukan Partai Politik merupakan perwujudan\nkedaulatan rakyat, bukan perwujudan kekuatan ekonomi, maka perlu pembatasan sumber\nkeuangan Partai Politik untuk mencegah penyala hgunaan uang demi kepentingan politik (money\npolitics). Keterbukaan Partai Politik dalam hal keuangan merupakan informasi penting bagi\nwarga negara untuk menilai dan memutuskan dukungannya terhadap Partai Politik tersebut.\n Selanjutnya sebagai perwujudan prinsip negara hukum, Partai Politik tunduk pada peraturan\nperundang-undangan yang berlaku. Pengawasa n terhadap pelanggaran undang-undang ini\ndilakukan oleh Mahkamah Agung Republik Indonesi a atas dasar kewenangan yang ada padanya\nsebagai lembaga yudikatif tertinggi dengan merujuk kepada mekanisme hukum yang telah\nditetapkan.\n\nPASAL DEMI PASAL\n\nPasal 1\n Ayat (1)\n  Cukup jelas\n Ayat (2)\n  Yang dimaksud dengan kedaulatan berada di tangan anggota dalam ayat ini termasuk\nuntuk membubarkan diri sebagaimana diatur dalam Anggaran Dasar dan Anggaran\nRumah Tangga Partai, di luar ketentuan Pasal 17 ayat (2) undang-undang ini.\n Ayat (3)\n  Cukup jelas\n Ayat (4)\n  Yang dimaksud dengan mandiri dalam ayat ini adalah bahwa Partai Politik dalam\nmengatur rumah tangganya terbebas dari cam purtangan pihak-pihak di luar partai,\ntermasuk pihak pemerintah.\n\nPasal 2\n Ayat (1)\n  Cukup jelas\n Ayat (2)\n Huruf a\n  Yang dimaksud dengan Pancasila adalah Pancasila yang rumusannya tercantum dalam\nPembukaan Undang-Undang Dasar 1945. Pencan tuman Pancasila dalam anggaran dasar\nPartai Politik sebagaimana dimaksud ayat (2) huruf a ini dimuat dalam batang tubuh\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\n\nanggaran dasarnya untuk menunjukkan konsistensi Partai Politik terhadap pelaksanaan\nPancasila dalam kehidupan bernegara.\n Huruf b\n  Cukup jelas\n Huruf c\n  Yang dimaksud dengan terbuka dalam ayat ini adalah bahwa keanggotaan Partai Politik\nterbuka bagi setiap warganegara tanpa membed akan acuan kedaerahan, agama, suku, ras,\ndan jenis kelamin, serta perbedaan lainnya.\n Huruf d\n  Cukup jelas\n\nPasal 3\nYang dimaksud dengan membahayakan persatuan dan kesatuan nasional dalam pasal ini\nadalah pembentukan Partai Politik yang didasarkan pada tujuan separatisme dan segala\ntindakan yang langsung atau tidak langsung da pat berakibat terganggunya persatuan dan\nkesatuan nasional.\n\nPasal 4\n Ayat (1)\n  Cukup jelas\n Ayat (2)\n  Cukup jelas\n Ayat (3)\n  Pengesahan pendirian Partai Politik melalu i pengumuman dalam Berita Negara Republik\nIndonesia oleh Menteri Kehakiman Repub lik Indonesia dimaksudkan untuk keperluan\nadministrasi hukum yang bersifat nasional dan memenuhi asas publisitas.\n\nPasal 5\n Ayat (1)\n Huruf a\n  Yang dimaksud dengan cita-cita nasional bangsa Indonesia adalah seluruh isi yang\nterkandung dalam Pembukaan Undang-Undang Dasar 1945.\n Huruf b\n  Cukup jelas\n Ayat (2)\n  Cukup jelas\n\nPasal 6\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\n\n Cukup jelas\n\nPasal 7\n Ayat (1)\n Huruf a\n  Cukup jelas\n Huruf b\n  Cukup jelas\n Huruf c\n  Cukup jelas\n Ayat (2)\n  Cukup jelas\n\nPasal 8\n Huruf a\n  Keikutsertaan Partai Politik dalam Pemilihan Umum adalah hak untuk mengikuti\nPemilihan Umum setelah memenuhi persyaratan sebagaimana diatur dalam\nUndang-Undang tentang Pemilihan Umum.\n Huruf b\n  Cukup jelas\n\nPasal 9\n Huruf a\n  Cukup jelas\n Huruf b\n  Cukup jelas\n Huruf c\n  Cukup jelas\n Huruf d\n  Cukup jelas\n Huruf e\n  Yang dimaksud dengan jujur, adil, la ngsung, umum, bebas, dan rahasia adalah\nsebagaimana diatur dalam Undang-Undang tentang Pemilihan Umum.\n\nPasal 10\n Ayat (1)\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\n\n Huruf a\n  Cukup jelas\n Huruf b\n  Cukup jelas\n Huruf c\n  Cukup jelas\n Ayat (2)\n  Cukup jelas\n\nPasal 11\nKepengurusan Partai Politik untuk Wilayah Administrasi di lingkungan Daerah Khusus\nIbukota Jakarta Raya dan Wilayah Administrasi lainnya yang ditetapkan setingkat\ndengan Daerah Tingkat II, dipersamakan dengan Daerah Tingkat II sebagaimana\ndimaksud Pasal 11 huruf c.\n\nPasal 12\n Ayat (1)\n Huruf a\n  Yang dimaksud dengan iuran anggota adalah  sumbangan dana yang diwajibkan oleh\nPartai Politik kepada setiap anggotanya secara berkala.\n Huruf b\n  Yang dimaksud dengan sumbangan adalah dana yang diberikan kepada Partai Politik\noleh anggota masyarakat, perusahaan dan badan lainnya serta oleh pemerintah.\n Huruf c\n  Cukup jelas\n Ayat (2)\n  Yang dimaksud dengan anggaran negara adalah Anggaran Pendapatan dan Belanja\nNegara dan Anggaran Pendapatan dan Belanja Daerah.\n  Jumlah bantuan kepada setiap Partai Politik peserta Pemilihan Umum yang pertama\nsetelah undang-undang ini diundangkan disama kan. Besarnya bantuan disesuaikan\ndengan kondisi keuangan negara.\n Ayat (3)\n  Cukup jelas\n Ayat (4)\n  Cukup jelas\n\nPasal 13\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\n\n Ayat (1)\n  Yang dimaksud dengan organisasi nirlab a adalah organisasi yang tidak mencari\nkeuntungan finansial.\n Ayat (2)\n  Cukup jelas\n\nPasal 14\n Ayat (1)\n  Yang dimaksud dengan setiap orang adalah setiap warga negara Republik Indonesia.\n Ayat (2)\n  Cukup jelas\n Ayat (3)\n  Cukup jelas\n Ayat (4)\n  Cukup jelas\n\nPasal 15\n Ayat (1)\n  Yang dimaksud dengan akhir tahun dalam ayat ini adalah akhir tahun takwim.\n  Yang dimaksud dengan Pemilihan Umum dalam ayat ini adalah hari pemungutan suara.\n Ayat (2)\n  Cukup jelas\n\nPasal 16\n Huruf a\n  Cukup jelas\n Huruf b\n  Yang dimaksud dengan sumbangan dan bantua n dari pihak asing dalam Pasal 16 huruf b\nini adalah sumbangan dan bantuan dari pemerintah, lembaga, badan usaha, dan warga\nnegara asing, baik yang berada di luar negeri maupun di dalam negeri.\n\n Huruf c\n  Cukup jelas\n Huruf d\n  Yang dimaksud dengan kebijakan Pemerint ah adalah kegiatan Pemerintah dalam\nmenjalankan kebijakan negara.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\n\n\nPasal 17\n Ayat (1)\n  Cukup jelas\n Ayat (2)\n  Yang dimaksud dengan membekukan dalam ayat (2) ini adalah menghentikan sementara\nkepengurusan dan/atau kegiatan Partai Politik.\n  Yang dimaksud dengan membubarkan dalam ay at (2) ini adalah mencabut hak hidup dan\nkeberadaan partai politik di seluruh wilayah Republik Indonesia.\n Ayat (3)\n  Sebelum proses peradilan sebagaimana dimaksud ayat (3) ini, Mahkamah Agung\nRepublik Indonesia memberikan peringatan secara tertulis sebanyak 3 (tiga) kali\nberturut-turut dalam waktu 3 (tiga) bulan.\n Ayat (4)\n  Cukup jelas\n\nPasal 18\n Ayat (1)\n  Yang dimaksud dengan sanksi administratif  dalam ayat (1) ini adalah sanksi yang\ndikenakan terhadap pelanggaran administrasi.\n Ayat (2)\n  Yang dimaksud dengan Pemilihan Umum dalam ayat (2) ini adalah Pemilihan Umum\npada waktu itu.\n Ayat (3)\n  Cukup jelas\n\nPasal 19\n Ayat (1)\n  Cukup jelas\n Ayat (2)\n  Cukup jelas\n Ayat (3)\n  Cukup jelas\n Ayat (4)\n  Cukup jelas\n\nPasal 20\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\n\n Cukup jelas\n\nPasal 21\n Ayat (1)\n  Cukup jelas\n Ayat (2)\n  Cukup jelas\n\nPasal 22\n Cukup jelas\n\n\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 3809"
+   }
+  }
+ ]
+}

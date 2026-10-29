@@ -1,0 +1,62 @@
+{
+ "id": "PH-H23101",
+ "title": {
+  "zh": null,
+  "en": "Further Amending Presidential Decree No. 9, as Amended By Presidential Decree No. 1728",
+  "orig": "Further Amending Presidential Decree No. 9, as Amended By Presidential Decree No. 1728"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1981-01-16",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 1811",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1260,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_01811_1981_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_01811_1981_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H23101-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Presidential Decree No. 9 is hereby further amended in order to add a new paragraph to read as\n\"5. The mandatory penalty of death shall be imposed upon any person who uses an unlicensed firearm or\nfirearms used or carried in violation of General Orders Nos. 6 and 7, or any deadly weapon as defined in the\npreceding paragraphs 2 and 3, in committing terroristic activities in furtherance of subversion, rebellion or\ninsurrection, or sedition, or in committing an attempt on the life of the President/Prime Minister, any member\nof his Cabinet, any member of the Interim Batasang Pambansa, any officer of the Armed Forces of the\nPhilippines with at least the rank of Brigadier General or its equivalent, a member of the Supreme Court or of\nany of the Constitutional Commissions, or any immediate member of the family of the said officials, or who\nuses such firearm or deadly weapon against the person of any of the government officials enumerated herein,\nor any immediate member of the family of said official during the commission of, or for the purpose of\ncommitting subversion, rebellion or insurrection, or sedition."
+   }
+  },
+  {
+   "id": "PH-H23101-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This decree shall take effect immediately.\nDone in the City of Manila, this 16th day of January, in the year of Our Lord, nineteen hundred and"
+   }
+  }
+ ]
+}

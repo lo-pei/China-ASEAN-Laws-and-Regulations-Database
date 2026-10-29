@@ -1,0 +1,62 @@
+{
+ "id": "PH-H16123",
+ "title": {
+  "zh": null,
+  "en": "An Act Amending Section Twelve Hundred and Ninety of the Administrative Code So as to Give Collectors of Customs Discretionary Power to Impose Surcharges.",
+  "orig": "An Act Amending Section Twelve Hundred and Ninety of the Administrative Code So as to Give Collectors of Customs Discretionary Power to Impose Surcharges."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1938-09-13",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 406",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 928,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00406_1938_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00406_1938_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H16123-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section twelve hundred and ninety of the administrative Code, is amended so as to read as\n\"Section 1290. Undervaluation and misdescription in entry.-When imported merchandise shall be so declared\nand entered as to the value or classification thereof that the taxes, if estimated on the face of the entry, would\nbe less by ten per centum than by law should be collected, or when the dutiable weight, measurement, or\nquantity of imported merchandise is found upon examination to exceed by ten per centum or more the entered\nweight, measurement, or quantity, a surcharge may, in the discretion of the collector of customs and subject to\nthe approval by the Secretary of Finance be imposed upon the importer of not less than the additional amount\nrequired to pay the full tax on merchandise, and not more than five times such additional amount so required.\""
+   }
+  },
+  {
+   "id": "PH-H16123-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, September 13, 1938."
+   }
+  }
+ ]
+}

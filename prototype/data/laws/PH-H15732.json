@@ -1,0 +1,62 @@
+{
+ "id": "PH-H15732",
+ "title": {
+  "zh": null,
+  "en": "An Act to Appropriate the Sum of thirty thousand Pesos for the Operation and Maintenance of the Junior College of Liberal Arts of the University of the Philippines in the Municipality of Cebu, Province of Cebu, During the Fiscal Year Nineteen Hundred and thirty-Six. and for Other Purposes.",
+  "orig": "An Act to Appropriate the Sum of thirty thousand Pesos for the Operation and Maintenance of the Junior College of Liberal Arts of the University of the Philippines in the Municipality of Cebu, Province of Cebu, During the Fiscal Year Nineteen Hundred and thirty-Six. and for Other Purposes."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1935-12-31",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 15",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 464,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00015_1935_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00015_1935_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H15732-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The sum of thirty thousand pesos is hereby appropriated out of any funds in the Philippine\nTreasury, not otherwise appropriated, as a contribution for the operation and maintenance of the Junior\nCollege of Liberal Arts of the University of the Philippines in the municipality of Cebu, Province of Cebu,\nduring the fiscal year nineteen hundred and thirty-six."
+   }
+  },
+  {
+   "id": "PH-H15732-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on January first, nineteen hundred and thirty-six.\nApproved, December 31, 1935."
+   }
+  }
+ ]
+}

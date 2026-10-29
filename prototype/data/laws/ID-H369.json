@@ -1,0 +1,618 @@
+{
+ "id": "ID-H369",
+ "title": {
+  "zh": "村行政法",
+  "en": "governance village Law",
+  "id": "pemerintahan desa",
+  "orig": "PEMERINTAHAN DESA",
+  "vi": "Luật chính quyền làng",
+  "th": "พระราชบัญญัติ การปกครอง หมู่บ้าน",
+  "ms": "Akta pemerintahan desa"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02b",
+ "language": "id",
+ "level": "law",
+ "category": "04_劳工与行政法",
+ "status": "active",
+ "promulgatedDate": "1979",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU5-1979",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 41,
+ "chars": 50211,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": null
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\04_劳工与行政法\\印尼_WLD_1979_PEMERINTAHAN DESA.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 88 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H369-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\nDalam Undang-undang ini yang dimaksud dengan:\na. Desa adalah suatu wilayah yang ditempati oleh\nsejumlah penduduk sebagai kesatuan masyarakat termasuk di dalamnya\nkesatuan masyarakat\nhukum yang mempunyai organisasi pemerintahan\nterendah langsung dibawah Camat dan berhak menyelenggarakan rumah\ntangganya sendiri\ndalam ikatan Negara Kesatuan Republik\nIndonesia;\nb. Kelurahan adalah suatu wilayah yang ditempati\noleh sejumlah penduduk yang mempunyai organisasi pemerintahan\nterendah langsung di\nbawah Camat, yang tidak berhak\nmenyelenggarakan rumah tangganya sendiri;\nc. Dusun adalah bagian wilayah dalam Desa yang\nmerupakan lingkungan kerja pelaksanaan pemerintahan Desa;\nd. Lingkungan adalah bagian wilayah dalam\nKelurahan yang merupakan lingkungan kerja pelaksanaan pemerintahan\nKelurahan;\ne. Pemerintah, Pemerintah Daerah, Kepala Daerah,\nPeraturan Daerah, Kecamatan, Pemerintahan Umum, Pemerintahan\nDaerah, dan Pejabat\nyang berwenang, adalah pengertian-pengertian\nmenurut ketentuan Undang-undang Nomor 5 Tahun 1974 tentang\nPokok-pokok Pemerintahan\ndi Daerah;\nf. Pembentukan Desa dan Kelurahan adalah tindakan\nmengadakan Desa dan Kelurahan baru di luar wilayah Desa-desa dan\nKelurahan-kelurahan\nyang telah ada;\ng. Pemecahan Desa dan Kelurahan adalah tindakan\nmengadakan Desa dan Kelurahan baru di dalam wilayah Desa dan\nKelurahan;\nh. Penyatuan Desa dan Kelurahan adalah\npenggabungan dua Desa dan Kelurahan atau lebih menjadi satu Desa\ndan Kelurahan baru;\ni. Penghapusan Desa dan Kelurahan adalah tindakan\nmeniadakan Desa dan Kelurahan yang ada.\nBAB II\nDESA\nBagian Pertama\nPembentukan, Pemecahan, Penyatuan,\ndan Penghapusan Desa"
+   }
+  },
+  {
+   "id": "ID-H369-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\n(1) Desa dibentuk dengan memperhatikan\nsyarat-syarat luas wilayah, jumlah penduduk dan syarat-syarat lain\nyang akan ditentukan lebih\nlanjut dengan peraturan Menteri Dalam\nNegeri.\n(2) Pembentukan nama, batas, kewenangan, hak dan\nkewajiban Desa ditetapkan dan diatur dengan Peraturan Daerah sesuai\ndengan pedoman\nyang ditetapkan oleh Menteri Dalam Negeri.\n(3) Ketentuan tentang pemecahan, penyatuan dan\npenghapusan Desa diatur dengan Peraturan Menteri Dalam\nNegeri.\n(4) Peraturan Daerah yang dimaksud dalam ayat (2),\nbaru berlaku sesudah ada pengesahan dari pejabat yang\nberwenang.\nBagian Kedua\nPemerintah Desa"
+   }
+  },
+  {
+   "id": "ID-H369-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\n(1) Pemerintah Desa terdiri atas:\na. Kepala Desa;\nb. Lembaga Musyawarah Desa.\n(2) Pemerintah Desa dalam pelaksanaan tugasnya dibantu oleh\nPerangkat Desa.\n(3) Perangkat Desa terdiri atas:\na. Sekretariat Desa;\nb. Kepala-kepala Dusun.\n(4) Susunan organisasi dan tatakerja Pemerintah\nDesa dan Perangkat Desa sebagaimana dimaksud dalam ayat (1) dan\nayat (3) diatur dengan\nPeraturan Daerah sesuai dengan pedoman yang\nditetapkan oleh Menteri Dalam Negeri.\n(5) Peraturan Daerah yang dimaksud dalam ayat (4)\nbaru berlaku sesudah ada pengesahan dari pejabat yang\nberwenang.\nBagian Ketiga\nKepala Desa\nParagrap Satu\nPemilihan, Pengangkatan dan Pemberhentian"
+   }
+  },
+  {
+   "id": "ID-H369-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\nYang dapat dipilih menjadi Kepala Desa adalah penduduk Desa\nWarganegara Indonesia yang:\na. bertaqwa kepada Tuhan Yang Maha Esa;\nb. setia dan taat kepada Pancasila dan Undang-Undang Dasar\n1945;\nc. berkelakuan baik, jujur, adil, cerdas, dan berwibawa;\nd. tidak pernah terlibat langsung atau tidak\nlangsung dalam sesuatu kegiatan yang mengkhianati Negara Kesatuan\nRepublik Indonesia\nyang berdasarkan Pancasila dan Undang-Undang\nDsar 1945, seperti G.30.S/ PKI dan atau kegiatan-kegiatan\norganisasi terlarang lainnya;\ne. tidak dicabut hak pilihnya berdasarkan\nKeputusan Pengadilan yang mempunyai kekuatan pasti;\nf. tidak sedang menjalankan pidana penjara atau\nkurungan berdasarkan Keputusan Pengadilan yang telah mempunyai\nkekuatan pasti, karena\ntindak pidana yang dikenakan ancaman pidana\nsekurang-kurangnya 5 (lima) tahun;\ng. terdaftar sebagai penduduk dan bertempat\ntinggal tetap di Desa yang bersangkutan sekurang-kurangnya selama 2\n(dua) tahun terakhir\ndengan tidak terputus-putus, kecuali bagi\nputera Desa yang berada di luar Desa yang bersangkutan;\nh. sekurang-kurangnya telah berumur 25 (duapuluh\nlima) tahun dan setinggi-tingginya 60 (enampuluh) tahun;\ni. sehat jasmani dan rokhani;\nj. sekurang-kurangnya berijazah Sekolah Lanjutan\nPertama atau yang berpengetahuan/berpengalaman yang sederajat\ndengan itu."
+   }
+  },
+  {
+   "id": "ID-H369-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\n(1) Kepala Desa dipilih secara langsung, umum,\nbebas dan rahasia oleh penduduk Desa Warganegara Indonesia yang\ntelah berumur sekurang-kurangnya\n17 (tujuhbelas) tahun atau\ntelah/pernah kawin.\n(2) Syarat-syarat lain mengenai pemilih serta\ntatacara pencalonan dan pemilihan Kepala Desa diatur dengan\nPeraturan Daerah, sesuai\ndengan pedoman yang ditetapkan oleh\nMenteri Dalam Negeri.\n(3) Peraturan Daerah yang dimaksud dalam ayat (2),\nbaru berlaku sedudah ada pengesahan dari pejabat yang\nberwenang."
+   }
+  },
+  {
+   "id": "ID-H369-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\nKepala Desa diangkat oleh Bupati/Walikotamadya Kepala Daerah\nTingkat II atas nama Gubernur Kepala Derah Tingkat I dari calon\nyang\nterpilih."
+   }
+  },
+  {
+   "id": "ID-H369-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\nMasa jabatan Kepala Desa adalah 8 (delapan) tahun terhitung sejak\ntanggal pelantikannya dan dapat diangkat kembali untuk 1 (satu)\nkali masa jabatan berikutnya."
+   }
+  },
+  {
+   "id": "ID-H369-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n(1) Sebelum memangku jabatannya Kepala Desa\nbersumpah menurut agamanya atau berjanji dengan sungguh-sungguh dan\ndilantik oleh pejabat\nyang berwenang mengangkat atas nama Gubernur\nKepala Daerah Tingkat I.\n(2) Susunan kata-kata sumpah/janji yang dimaksud\nayat (1) adalah sebagai berikut:\n\"Saya bersumpah/berjanji, bahwa saya untuk\ndiangkat menjadi Kepala Desa, langsung atau tidak langsung dengan\nnama atau dalih apapun,\ntidak memberikan atau menjanjikan atau akan\nmemberikan sesuatu kepada siapapun juga.\nSaya bersumpah/berjanji, bahwa saya untuk melakukan atau tidak\nmelakukan sesuatu dalam jabatan ini, tidak sekali-kali akan\nmenerima\nlangsung atau tidak langsung dari siapapun juga sesuatu\njanji atau pemberian.\nSaya bersumpah/berjanji, bahwa saya akan memenuhi kewajiban saya\nsebagai Kepala Desa dengan sebaik-baiknya dan sejujur-jujurnya,\nbahwa saya akan taat dan akan mempertahankan Pancasila sebagai\ndasar dan ideologi Negara, bahwa saya senantiasa akan menegakkan\nUndang-Undang\nDasar 1945 dan segala peraturan perundang-undangan\nyang berlaku bagi Negara Republik Indonesia.\nSaya bersumpah/berjanji bahwa saya akan memegang rahasia sesuatu\nyang menurut sifatnya atau menurut perintah harus saya rahasiakan.\nSaya bersumpah/berjanji, bahwa saya dalam menjalankan jabatan atau\npekerjaan saya, senantiasa akan lebih mengutamakan kepentingan\nNegara, Daerah dan Desa daripada kepentingan saya sendiri,\nseseorang atau sesuatu golongan dan akan menjunjung tinggi\nkehormatan\nNegara, Pemerintah, Daerah dan Desa.\nSaya bersumpah/berjanji, bahwa saya akan berusaha sekuat tenaga\nmembantu memajukan kesejahteraan masyarakat pada umumnya dan\nmasyarakat\nDesa pada khususnya, akan setia kepada Bangsa dan Negara\nKesatuan Republik Indonesia.\"\n(3) Tatacara pengambilan sumpah/janji dan\npelantikan Kepala Desa sebagaimana dimaksud ayat (1) diatur dengan\nPeraturan Daerah sesuai\ndengan pedoman yang ditetapkan oleh\nMeenteri-Dalam Negeri."
+   }
+  },
+  {
+   "id": "ID-H369-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\nKepala Desa berhenti atau diberhentikan oleh pejabat yang berwenang\nmengangkat karena:\na. meninggal dunia;\nb. atas permintaan sendiri;\nc. berakhir masa jabatannya dan telah dilantik Kepala Desa yang\nbaru;\nd. tidak lagi memenuhi syarat yang dimaksud dalam Pasal 4\nUndang-undang ini;\ne. melanggar sumpah/janji yang dimaksud dalam\nPasal 8 ayat (2) Undang-undang ini;\nf. melanggar larangan bagi Kepala Desa yang\ndimaksud dalam Pasal 13 Undang-undang ini;\ng. sebab-sebab lain.\nParagrap Dua\nHak, Wewenang, dan Kewajiban"
+   }
+  },
+  {
+   "id": "ID-H369-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\n(1) Kepala Desa menjalankan hak, wewenang, dan\nkewajiban pimpinan pemerintahan Desa yaitu menyelenggarakan rumah\ntangganya sendiri\ndan merupakan penyelenggara dan penanggungjawab\nutama di bidang pemerintahan, pembangunan dan kemasyarakatan dalam\nrangka penyelenggaraan\nurusan pemerintahan Desa, urusan\npemerintahan umum termasuk pembinaan ketentraman dan ketertiban\nsesuai dengan peraturan perundang-undangan\nyang berlaku dan\nmenumbuhkan serta mengembangkan jiwa gotong royong masyarakat\nsebagai sendi utama pelaksanaan pemerintahan Desa.\n(2) Dalam menjalankan hak, wewenang, dan kewajiban\npimpinan pemerintahan Desa yang dimaksud dalam ayat (1), Kepala\nDesa:\na. bertanggungjawab kepada pejabat yang berwenang\nmengangkat melalui Camat;\nb. memberikan keterangan pertanggungjawaban\ntersebut kepada Lembaga Musyawarah Desa."
+   }
+  },
+  {
+   "id": "ID-H369-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\n(1) Kedudukan dan kedudukan keuangan Kepala Desa,\nSekretaris Desa, Kepala-kepala Urusan dan Kepala-kepala Dusun\ndiatur dengan Peraturan\nDaerah sesuai dengan pedoman yang\nditetapkan oleh Menteri Dalam Negeri.\n(2) Peraturan Daerah yang dimaksud dalam ayat (1)\nbaru berlaku sesudah ada pengesahan dari pejabat yang\nberwenang."
+   }
+  },
+  {
+   "id": "ID-H369-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n(1) Kepala Desa mewakili Desanya di dalam dan di luar\nPengadilan.\n(2) Apabila dipandang perlu Kepala Desa dapat\nmenunjuk seorang kuasa atau lebih untuk mewakilinya."
+   }
+  },
+  {
+   "id": "ID-H369-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\nKepala Desa dilarang melakukan kegiatan-kegiatan atau melalaikan\ntindakan yang menjadi kewajibannya, yang merugikan kepentingan\nNegara,\nPemerintah, Pemerintah Daerah dan masyarakat Desa.\nBagian Keempat\nSekretariat Desa"
+   }
+  },
+  {
+   "id": "ID-H369-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\nSekretariat Desa adalah unsur staf yang membantu Kepala Desa dalam\nmenjalankan hak, wewenang dan kewajiban pimpinan pemerintahan\nDesa."
+   }
+  },
+  {
+   "id": "ID-H369-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\n(1) Sekretariat Desa terdiri atas:\na. Sekretaris Desa;\nb. Kepala-kepala Urusan..\n(2) Sekretaris Desa diangkat dan diberhentikan\noleh Bupati/Walikota. madya Kepala Daerah Tingkat II setelah\nmendengar pertimbangan\nCamat atas usul Kepala Desa sesudah\nmendengar pertimbangan Lembaga Musyawarah Desa.\n(3) Apabila Kepala Desa berhalangan maka\nSekretaris Desa menjalankan tugas dan wewenang Kepala Desa\nsehari-hari.\n(4) Kepala-kepala Urusan diangkat dan\ndiberhentikan oleh Camat atas nama Bupati/Walikotamadya Kepala\nDaerah Tingkat II atas usul Kepala\nDesa.\n(5) Syarat-syarat pengangkatan dan pemberhentian\nSekretaris Desa dan Kepala-kepala Urusan diatur dalam Peraturan\nDaerah sesuai dengan\npedoman yang ditetapkan oleh Menteri Dalam\nNegeri.\nBagian Kelima\nDusun"
+   }
+  },
+  {
+   "id": "ID-H369-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\n(1) Untuk memperlancar jalannya pemerintahan Desa\ndalam Desa dibentuk Dusun yang dikepalai oleh Kepala Dusun sesuai\ndengan pedoman\nyang ditetapkan oleh Menteri Dalam Negeri.\n(2) Kepala Dusun adalah unsur pelaksana tugas\nKepala Desa dengan wilayah kerja tertentu.\n(3) Kepala Dusun diangkat dan diberhentikan oleh\nCamat atas nama Bupati/Walikotamadya Kepala Daerah Tingkat II atas\nusul Kepala Desa.\n(4) Syarat-syarat pengangkatan dan pemberhentian\nKepala Dusun diatur dalam Peraturan Daerah sesuai dengan pedoman\nyang ditetapkan\noleh Menteri Dalam Negeri.\nBagian Keenam\nLembaga Musyawarah Desa"
+   }
+  },
+  {
+   "id": "ID-H369-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\n(1) Lembaga Musyawarah Desa adalah lembaga\npermusyawaratan/ permufakatan yang keanggotaannya terdiri atas\nKepala-kepala Dusun, Pimpinan\nLembaga-lembaga Kemasyarakatan dan\nPemuka-pemuka Masyarakat di Desa yang bersangkutan.\n(2) Kepala Desa karena jabatannya menjadi Ketua Lembaga Musyawarah\nDesa.\n(3) Sekretaris Desa karena jabatannya menjadi\nSekretaris Lembaga Musyawarah Desa.\n(4) Ketentuan lebih lanjut mengenai Lembaga\nMusyawarah Desa ditetapkan dengan Peraturan Daerah sesuai dengan\npedoman yang ditetapkan\noleh Menteri Dalam Negeri.\n(5) Peraturan Daerah yang dimaksud dalam ayat (4),\nbaru berlaku sesudah ada pengesahan dari pejabat yang\nberwenang.\nBagian Ketujuh\nKeputusan Desa"
+   }
+  },
+  {
+   "id": "ID-H369-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\nKepala Desa menetapkan Keputusan Desa setelah\ndimusyawarahkan/dimufakatkan dengan Lembaga Musyawarah Desa."
+   }
+  },
+  {
+   "id": "ID-H369-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\nKeputusan Desa dan Keputusan Kepala Desa tidak boleh bertentangan\ndengan kepentingan umum, Peraturan Daerah dan peraturan\nperundang-undangan\nyang berlaku."
+   }
+  },
+  {
+   "id": "ID-H369-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\n(1) Ketentuan lebih lanjut tentang Keputusan Desa\ndiatur dengan Peraturan Daerah sesuai dengan pedoman yang\nditetapkan oleh Menteri\nDalam Negeri.\n(2) Peraturan Daerah yang dimaksud dalam ayat (1),\nbaru berlaku sesudah ada pengesahan dari pejabat yang\nberwenang.\nBagian Kedelapan\nSumber Pendapatan, Kekayaan dan Anggaran Penerimaan\ndan Pengeluaran Keuangan Desa"
+   }
+  },
+  {
+   "id": "ID-H369-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedelapan"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\n(1) Sumber pendapatan Desa adalah:\na. Pendapatan asli Desa sendiri yang terdiri\ndari:\n- hasil tanah-tanah Kas Desa;\n- hasil dari swadaya dan partisipasi masyarakat Desa;\n- hasil dari gotong royong masyarakat;\n- lain-lain hasil dari usaha Desa yang sah.\nb. Pendapatan yang berasal dari pemberian\nPemerintah dan Pemerintah Daerah yang terdiri dari:\n- sumbangan dan bantuan Pemerintah;\n- sumbangan dan bantuan Pemerintah Daerah;\n- sebagian dari pajak dan retribusi Daerah yang diberikan kepada\nDesa.\nc. Lain-lain pendapatan yang sah.\n(2) Setiap tahun Kepala Desa menetapkan Anggaran\nPenerimaan dan Pengeluaran Keuangan Desa setelah\ndimusyawarahkan/dimufakatkan dengan\nLembaga Musyawarah Desa.\n(3) Ketentuan lebih lanjut tentang sumber\npendapatan dan kekayaan Desa, pengurusan dan pengawasannya beserta\npenyusunan Anggaran Penerimaan\ndan Pengeluaran Keuangan Desa diatur\ndengan Peraturan Daerah sesuai dengan pedoman yang ditetapkan oleh\nMenteri Dalam Negeri.\n(4) Peraturan Daerah yang dimaksud dalam ayat (3),\nbaru berlaku sesudah ada pengesahan dari pejabat yang\nberwenang.\nBAB III\nKELURAHAN\nBagian Pertama\nPembentukan, Pemecahan, Penyatuan,\ndan Penghapusan Kelurahan"
+   }
+  },
+  {
+   "id": "ID-H369-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\n(1) Dalam Ibukota Negara, Ibukota Propinsi,\nIbukota Kabupaten, Kotamadya, Kota Administratif dan Kota-kota lain\nyang akan ditentukan\nlebih lanjut dengan Peraturan Menteri Dalam\nNegeri, dapat dibentuk Kelurahan sebagaimana dimaksud dalam pasal 1\nhuruf b.\n(2) Kelurahan yang dimaksud dalam ayat (1),\ndibentuk dengan memperhatikan syarat-syarat luas wilayah, jumlah\npenduduk dan syarat-syarat\nlain yang akan ditentukan lebih lanjut\ndengan Peraturan Menteri Dalam Negeri.\n(3) Pembentukan, nama dan batas Kelurahan diatur\ndengan Peraturan Daerah sesuai dengan pedoman yang ditetapkan oleh\nMenteri Dalam\nNegeri.\n(4) Ketentuan tentang pemecahan, penyatuan, dan\npenghapusan Kelurahan diatur dengan Peraturan Menteri Dalam\nNegeri.\n(5) Peraturan Daerah yang dimaksud dalam ayat (3),\nbaru berlaku sesudah ada pengesahan dari pejabat yang\nberwenang.\nBagian Kedua\nPemerintah Kelurahan"
+   }
+  },
+  {
+   "id": "ID-H369-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\n(1) Pemerintah Kelurahan terdiri dari Kepala\nKelurahan dan Perangkat Kelurahan.\n(2) Perangkat Kelurahan terdiri dari Sekretariat\nKelurahan dan Kepala-kepala lingkungan.\n(3) Susunan organisasi dan tatakerja Pemerintah\nKelurahan yang dimaksud dalam ayat (1), diatur dengan Peraturan\nDaerah sesuai dengan\npedoman yang ditetapkan oleh Menteri Dalam\nNegeri.\n(4) Peraturan Daerah yang dimaksud dalam ayat (3),\nbaru berlaku sesudah ada pengesahan dari pejabat yang\nberwenang.\nBagian Ketiga\nKepala Kelurahan"
+   }
+  },
+  {
+   "id": "ID-H369-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 24\n(1) Kepala Kelurahan adalah penyelenggara dan\npenanggungjawab utama di bidang pemerintahan, pembangunan dan\nkemasyarakatan dalam rangka\npenyelenggaraan urusan pemerintahan\nDaerah, urusan pemerintahan Umum termasuk pembinaan ketentraman dan\nketertiban sesuai dengan\nperaturan perundang-undangan yang\nberlaku.\n(2) Kepala Kelurahan adalah Pegawai Negeri yang\ndiangkat oleh Bupati/ Walikotamadya Kepala Daerah Tingkat\nII/Walikota atas nama Gubernur\nKepala Daerah Tingkat I dengan\nmemperhatikan syarat-syarat dan ketentuan-ketentuan tentang\nkepegawaian sesuai dengan peraturan perundang-undangan\nyang berlaku\ndan syarat-syarat yang dimaksud dalam Pasal 4 kecuali huruf g\nUndang-undang ini."
+   }
+  },
+  {
+   "id": "ID-H369-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\n(1) Sebelum memangku jabatannya Kepala Kelurahan\nbersumpah menurut agamanya atau berjanji dengan sungguh-sungguh dan\ndilantik oleh\npejabat yang berwenang mengangkat atas nama Gubernur\nKepala Daerah Tingkat I.\n(2) Susunan kata-kata sumpah/janji yang dimaksud\nayat (1) adalah sebagai berikut:\n\"Saya bersumpah/berjanji, bahwa saya untuk\ndiangkat, menjadi Kepala Kelurahan, langsung atau tidak langsung\ndengan nama atau dalih\napapun, tidak memberikan atau menjanjikan\natau akan memberikan sesuatu kepada siapapun juga.\nSaya bersumpah/berjanji, bahwa saya untuk melakukan atau tidak\nmelakukan sesuatu dalam jabatan ini, tidak sekalikali akan menerima\nlangsung ataupun tidak langsung dari siapapun juga sesuatu janji\natau pemberian.\nSaya bersumpah/berjanji, bahwa saya akan memenuhi kewajiban saya\nsebagai Kepala Kelurahan dengan sebaikbaiknya dan sejujur-jujurnya,\nbahwa saya akan taat dan akan mempertahankan Pancasila sebagai\ndasar dan ideologi Negara, bahwa saya senantiasa akan menegakkan\nUndang-Undang\nDasar 1945 dan segala peraturan perundang-undangan\nyang berlaku bagi Negara Republik Indonesia.\nSaya bersumpah/berjanji, bahwa saya akan memegang rahasia sesuatu\nyang menurut sifatnya atau menurut perintah harus saya rahasiakan.\nSaya bersumpah/berjanji, bahwa saya dalam menjalankan jabatan atau\npekerjaan saya, senantiasa akan lebih mengutamakan kepentingan\nNegara, Daerah dan Kelurahan daripada kepentingan saya sendiri,\nseseorang atau sesuatu golongan dan akan menjunjung tinggi\nkehormatan\nNegara, Pemerintah, Daerah, dan Kelurahan.\nSaya bersumpah/berjanji, bahwa saya akan berusaha sekuat tenaga\nmembantu memajukan kesejahteraan masyarakat pada umumnya dan\nmasyarakat\nKelurahan pada khususnya, akan setia kepada Bangsa dan\nNegara Kesatuan Republik Indonesia\".\n(3) Tatacara pengambilan sumpah/janji dan\npelantikan Kepala Kelurahan sebagaimana dimaksud dalam ayat (1)\ndiatur dengan Peraturan\nDaerah sesuai dengan pedoman yang\nditetapkan oleh Menteri Dalam Negeri."
+   }
+  },
+  {
+   "id": "ID-H369-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\nKepala Kelurahan berhenti atau diberhentikan oleh pejabat yang\nberwenang mengangkat karena:\na. meninggal dunia;\nb. atas permintaan sendiri;\nc. tidak lagi memenuhi syarat yang dimaksud dalam\npasal 4 kecuali huruf g Undang-undang ini;\nd. melanggar sumpah/janji yang dimaksud dalam\nPasal 25 ayat (2) Undang-undang ini;\nc. melanggar larangan bagi Kepala Kelurahan yang\ndimaksud dalam Pasal 28 Undang-undang ini;\nf. sebab-sebab lain."
+   }
+  },
+  {
+   "id": "ID-H369-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\nDalam menjalankan tugas dan wewenang pimpinan pemerintahan\nKelurahan, Kepala Kelurahan bertanggungjawab kepada pejabat yang\nberwenang\nmengangkat melalui Camat."
+   }
+  },
+  {
+   "id": "ID-H369-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\nKepala Kelurahan dilarang melakukan kegiatan-kegiatan atau\nmelalaikan tindakan yang menjadi kewajibannya, yang merugikan\nkepentingan\nNegara, Pemerintah, Pemerintah Daerah dan masyarakat\nKelurahan.\nBagian Keempat\nSekretariat Kelurahan"
+   }
+  },
+  {
+   "id": "ID-H369-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\nSekretariat Kelurahan adalah unsur staf yang membantu Kepala\nKelurahan dalam menjalankan tugas dan wewenang pimpinan\npemerintahan\nKelurahan."
+   }
+  },
+  {
+   "id": "ID-H369-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\n(1) Sekretariat Kelurahan terdiri atas Sekretaris\nKelurahan dan Kepala-kepala Urusan.\n(2) Sekretaris Kelurahan dan Kepala-kepala Urusan\nadalah Pegawai Negeri yang diangkat dan diberhentikan oleh\nBupati/Walikotamadya\nKepala Daerah Tingkat II/Walikota atas nama\nGubernur Kepala Daerah Tingkat I dengan memperhatikan syarat-syarat\ndan ketentuan-ketentuan\ntentang kepegawaian sesuai dengan peraturan\nperundang-undangan yang berlaku.\n(3) Apabila Kepala Kelurahan berhalangan maka\nSekretaris Kelurahan menjalankan tugas dan wewenang Kepala\nKelurahan sehari-hari.\nBagian Kelima\nLingkungan"
+   }
+  },
+  {
+   "id": "ID-H369-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\n(1) Untuk memperlancar jalannya pemerintahan\nKelurahan di dalam Kelurahan dapat dibentuk Lingkungan yang\ndikepalai oleh kepala Lingkungan\nsesuai dengan pedoman yang\nditetapkan oleh Menteri Dalam Negeri.\n(2) Kepala Lingkungan adalah unsur pelaksana tugas\nKepala Kelurahan dengan wilayah kerja tertentu.\n(3) Kepala Lingkungan adalah Pegawai Negeri yang\ndiangkat dan diberhentikan oleh Bupati/Walikota atas nama Gubernur\nKepala Daerah\nTingkat I, dengan memperhatikan syarat-syarat dan\nketentuan-ketentuan kepegawaian sesuai dengan peraturan\nperundang-undangan yang\nberlaku.\nBAB IV\nKERJASAMA DAN PENYELESAIAN PERSELISIHAN"
+   }
+  },
+  {
+   "id": "ID-H369-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 32\n(1) Kerjasama antar Desa, antar Kelurahan dan\nantara Desa dengan Kelurahan diatur oleh pejabat tingkat atas yang\nbersangkutan.\n(2) Perselisihan antar Desa, antar Kelurahan dan\nantara Desa dengan Kelurahan penyelesaiannya diatur oleh pejabat\ntingkat atas yang\nbersangkutan.\nBAB V\nPEMBINAAN DAN PENGAWASAN\nBagian Pertama\nPembinaan"
+   }
+  },
+  {
+   "id": "ID-H369-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 33\nBupati/Walikotamadya Kepala Daerah Tingkat II/Walikota melaksanakan\npembinaan dalam rangka penyelenggaraan pemerintahan Desa dan\npemerintahan Kelurahan untuk mencapai dayaguna dan hasilguna yang\nsebesar-besarnya baik mengenai urusan rumah tangga Desanya maupun\nmengenai urusan pemerintahan umum.\nBagian Kedua\nPengawasan"
+   }
+  },
+  {
+   "id": "ID-H369-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 34\n(1) Dengan Peraturan Daerah ditentukan bahwa\nKeputusan Desa mengenai hal-hal tertentu, baru berlaku sesudah ada\npengesahan dari Bupati/\nWalikotamadya Kepala Daerah Tingkat\nII.\n(2) Keputusan Desa dan Keputusan Kepala Desa yang\nbertentangan dengan kepentingan umum, Peraturan Daerah dan\nperaturan perundang-undangan\nlainnya dibatalkan oleh\nBupati/Walikotamadya Kepala Daerah Tingkat II.\n(3) Pengawasan umum terhadap penyelenggaraan\npemerintahan Desa dan pemerintahan Kelurahan dilakukan oleh Menteri\nDalam Negeri, Gubernur\nKepala Daerah Tingkat I dan\nBupati/Walikotamadya Kepala Daerah Tingkat II.\n(4) Pengaturan lebih lanjut mengenai ketentuan\nayat (1), (2) dan (3) diatur dengan Peraturan Daerah sesuai dengan\npedoman yang ditetapkan\noleh Menteri Dalam Negeri.\nBAB VI\nATURAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H369-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 35\n(1) Desa atau yang disebut dengan nama lainnya\nyang setingkat dengan Desa yang sudah ada pada saat mulai\nberlakunya Undang-undang\nini dinyatakan sebagai Desa menurut Pasal\n1 huruf a.\n(2) Suatu wilayah yang ditempati oleh sejumlah\npenduduk yang mempunyai organisasi pemerintahan terendah langsung\ndi bawah Camat dan\nberada di Ibukota Negara, Ibukota Propinsi,\nIbukota Kabupaten, Kotamadya, Kota Administratif, dan Kota-kota\nlainnya yang tidak termasuk\ndalam ketentuan yang dimaksud dalam\nayat (1) dinyatakan sebagai Kelurahan menurut Pasal 1 huruf\nb."
+   }
+  },
+  {
+   "id": "ID-H369-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 36\n(1) Kepala Desa, Kepala Kelurahan atau yang\ndisebut dengan nama lainnya dan perangkatnya yang ada pada saat\nberlakunya Undang-undang\nini tetap menjalankan tugasnya kecuali\nditentukan lain berdasarkan Undang-undang ini.\n(2) Lembaga Permusyawaratan Desa atau yang disebut\ndengan nama lainnya yang sudah ada pada saat berlakunya\nUndang-undang ini, dinyatakan\nsebagai Lembaga Musyawarah Desa\nmenurut Pasal 17"
+   }
+  },
+  {
+   "id": "ID-H369-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 37\nSegala peraturan perundang-undangan yang ada, sepanjang tidak\nbertentangan dengan Undang-undang ini, tetap berlaku selama belum\ndicabut\natau diganti berdasarkan Undang-undang ini.\nBAB VII\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H369-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 38\nHal-hal yang belum diatur dan segala sesuatu yang timbul sebagai\nakibat dilaksanakannya Undang-undang ini diatur lebih lanjut dengan\nperaturan perundang-undangan."
+   }
+  },
+  {
+   "id": "ID-H369-A39",
+   "no": 39,
+   "noLabel": {
+    "id": "Pasal 39"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 39\nPada saat mulai berlakunya Undang-undang ini tidak berlaku\nlagi:\na. Undang-undang Nomor 19 Tahun 1965 tentang\nDesapraja (Lembaran Negara Tahun 1965 Nomor 84, Tambahan Lembaran\nNegara Nomor 2779);\nb. Segala ketentuan yang bertentangan dan atau\ntidak sesuai dengan Undang-undang ini."
+   }
+  },
+  {
+   "id": "ID-H369-A40",
+   "no": 40,
+   "noLabel": {
+    "id": "Pasal 40"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 40\nUndang-undang ini mulai berlaku pada tanggal diundangkan.\nAgar supaya setiap orang mengetahuinya memerintahkan pengundangan\nUndang-undang ini dengan penempatannya dalam Lembaran Negara\nRepublik\nIndonesia.\nDisahkan di Jakarta\npada tanggal 1 Desember 1979\nPRESIDEN REPUBLIK INDONESIA,\nSOEHARTO\nDiundangkan di Jakarta\npada tanggal 1 Desember 1979\nMENTERI/SEKRETARIS NEGARA\nREPUBLIK INDONESIA,\nSUDHARMONO, SH\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1979 NOMOR 56\nPENJELASAN\nATAS\nUNDANG-UNDANG REPUBLIK INDONESIA\nNOMOR 5 TAHUN 1979\nTENTANG\nPEMERINTAHAN DESA\nI. UMUM\n1. Yang dimaksud dengan Desa dalam judul\nUndang-undang ini adalah Desa dan Kelurahan sebagaimana dimaksud\ndalam Pasal 1 huruf a dan\nhuruf b Undang-undang ini, sehingga\ndengan demikian yang dimaksud dengan Pemerintahan Desa adalah\nkegiatan dalam rangka penyelenggaraan\npemerintahan yang\ndilaksanakan oleh Pemerintah Desa dan Pemerintah Kelurahan.\n2. Dengan berlakunya Undang-undang Nomor 6 Tahun\n1969 tentang Pernyataan tidak berlakunya berbagai Undang-undang dan\nPeraturan Pemerintah\nPengganti Undang-undang (Lembaran Negara Tahun\n1969 Nomor 37), maka mulai pada saat berlakunya Undang-undang ini,\nUndang-undang Nomor\n19 Tahun 1965 tentang Desapraja tidak berlaku\nlagi.\n3. Sesuai dengan Ketetapan Majelis Permusyawaratan\nRakyat Nomor IV/MPR/1978 tentang Garis-garis Besar Haluan Negara\nyang bertujuan\ntidak saja mengadakan tertib hukum dan menciptakan\nkepastian hukum bagi jalannya kehidupan organisasi pemerintahan di\nIndonesia,\ntetapi juga yang penting adalah mensukseskan pembangunan\ndi segala bidang di seluruh Indonesia, guna mencapai cita-cita\nNasional\nberdasarkan Pancasila, yaitu masyarakat adil dan makmur,\nbaik material maupun spiritual bagi seluruh rakyat Indonesia, maka\nperlu\nmemperkuat pemerintahan Desa agar makin mampu menggerakkan\nmasyarakat dalam partisipasinya dalam pembangunan dan\nmenyelenggarakan\nadministrasi Desa yang makin meluas dan\nefektif.\nSejalan dengan apa yang telah digariskan dalam\nGaris-garis Besar Haluan Negara tersebut, maka sudah saatnya pula\nuntuk membuat suatu\nUndang-undang Nasional, yang mengatur\npemerintahan Desa sebagai pengganti Undang-undang Nomor 19 Tahun\n1965, sesuai dengan perkembangan\nOrde Baru yang berniat untuk\nsungguh-sungguh melaksanakan dan mensukseskan pembangunan yang\ntelah dimulai sejak PELITA I.\n4. Keadaan pemerintahan Desa sekarang ini adalah\nsebagai akibat pewarisan dari Undang-undang lama yang pernah ada,\nyang mengatur Desa,\nyaitu Inlandsche Gemeente Ordonnantie\n(Stbl.1906 Nomor 83) yang berlaku untuk Jawa dan Madura dan\nInlandsche Gemeente Ordonnantie\nBuitengewesten (Stbl. 1938 Nomor\n490 jo Stbl. 1938 Nomor 681) yang berlaku untuk di luar Jawa dan\nMadura.\nPeraturan perundang-undangan di atas ini tidak\nmengatur pemerintahan Desa secara seragam dan kurang memberikan\ndorongan kepada masyarakatnya\nuntuk tumbuh kearah kemajuan yang\ndinamis. Akibatnya Desa dan pemerintahan Desa yang ada sekarang ini\nbentuk dan coraknya masih beraneka\nragam, masing-masing daerah\nmemiliki ciri-cirinya sendiri, yang kadang-kadang merupakan\nhambatan untuk pembinaan dan pengendalian\nyang intensif guna\npeningkatan taraf hidup masyarakatnya.\nUndang-undang ini mengarah pada penyeragaman\nbentuk dan susunan pemerintahan Desa dengan corak Nasional yang\nmenjamin terwujudnya\nDemokrasi Pancasila secara nyata, dengan\nmenyalurkan pendapat masyarakat dalam wadah yang disebut Lembaga\nMusyawarah Desa.\n5. Sebagai landasan yang dipakai dalam menyusun\nUndang-undang ini adalah Pancasila, Undang-undang Dasar 1945 Pasal\n18 yang berbunyi\n\"Pembagian Daerah Indonesia atas Daerah besar\nkecil, dengan bentuk susunan pemerintahannya ditetapkan dengan\nUndang-undang dengan\nmemandang dan mengingat dasar permusyawaratan\ndalam sistem pemerintahan Negara dan hak-hak asal usul dalam Daerah\nyang bersifat Istimewa\",\ndan Ketetapan Majelis Permusyawaratan\nRakyat Nomor IV/MPR/1978 tentang Garis-garis Besar Haluan Negara\nyang menegaskan perlu memperkuat\npemerintahan Desa agar makin mampu\nmenggerakkan masyarakat dalam partisipasinya dalam pembangunan dan\nmenyelenggarakan administrasi\nDesa-yang makin meluas dan\nefektif.\nSelain itu, juga Undang-undang Nomor 5 Tahun\n1974 tentang Pokok-pokok Pemerintahan di Daerah pada ketentuan"
+   }
+  },
+  {
+   "id": "ID-H369-A88",
+   "no": 88,
+   "noLabel": {
+    "id": "Pasal 88 menyatakan bahwa"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {
+    "id": "menyatakan bahwa"
+   },
+   "text": {
+    "id": "Pasal 88 menyatakan bahwa\n\"Pengaturan tentang Pemerintahan Desa\nditetapkan dengan Undang-undang\".\n6. Undang-undang ini sesuai dengan Undang-undang\nNomor 5 Tahun 1974 tentang Pokok-pokok Pemerintahan di Daerah dan\nKetetapan Majelis\nPermusyawaratan Rakyat Nomor IV/MPR/1978 tentang\nGaris-garis Besar Haluan Negara, hanya mengatur Desa dari segi\npemerintahannya.\nUndang-undang ini tetap mengakui adanya kesatuan\nmasyarakat termasuk di dalamnya kesatuan masyarakat hukum, adat\nistiadat dan kebiasaan-kebiasaan\nyang masih hidup sepanjang\nmenunjang kelangsungan pembangunan dan ketahanan Nasional.\nOleh sebab itu yang dimaksud dengan\npemerintahan Desa dalam Undang-undang ini adalah kegiatan dalam\nrangka penyelenggaraan pemerintahan\nyang dilaksanakan oleh\norganisasi pemerintahan yang terendah langsung di bawah Camat.\nDalam perkembangannya Desa-desa ini telah menjurus\nke arah dua\npengkategorian sebagaimana terlihat pada Pasal 1 huruf a dan huruf\nb dalam Undang-undang ini.\n7. Desa yang dimaksud Pasal 1 huruf a, di dalam\nperkembangan sejarah ketatanegaraan dan tata pemerintahan sampai\nsekarang merupakan\nsuatu wilayah yang ditempati oleh sejumlah\npenduduk yang mempunyai organisasi pemerintahan terendah langsung\ndibawah Camat, telah\nmemiliki hak menyelenggarakan rumah\ntangganya.\nHak menyelenggarakan rumah tangganya ini\nbukanlah hak otonomi sebagamana dimaksudkan Undang-undang Nomor 5\nTahun 1974 tentang Pokok-pokok\nPemerintahan di Daerah.\nDengan demikian perkembangan dan pengembangan\notonomi selanjutnya baik kesamping, keatas dan atau ke bawah,\nsebagaimana dimaksud dalam\nUndang-undang Nomor 5 Tahun 1974 tetap\ndimungkinkan sesuai dengan kondisi politik, ekonomi, sosial-budaya\nserta pertahanan dan keamanan\nNasional.\nDi samping itu terdapat pula suatu wilayah\nyang ditempati oleh sejumlah penduduk yang mempunyai organisasi\npemerintahan terendah langsung\ndi bawah Camat yang disebut\n\"Kelurahan\"yang dapat dibentuk di Ibukota Negara, Ibukota Propinsi,\nIbukota Kabupaten, Kotamadya, Kota\nAdministratif dan Kota-kota lain\ndalam arti bahwa Kelurahan ini juga merupakan suatu wilayah yang\nditempati oleh sejumlah penduduk\nyang mempunyai organisasi\npemerintahan terendah langsung dibawah Camat, tetapi tidak memiliki\nhak menyelenggarakan rumah tangganya.\n8. Mengingat bahwa Desa dan Kelurahan adalah suatu\nwilayah yang ditempati oleh sejumlah penduduk dan mempunyai\norganisasi pemerintahan\nterendah langsung di bawah Camat,\nmenghadapi kemungkinan perkembangan, baik berupa pembentukan,\npemecahan,penyatuan dan penghapusan,\nmaka Undang-undang ini\nmenampung terjadinya hal-hal tersebut.\nDalam melakukan pembentukan, pemecahan,\npenyatuan dan penghapusan Desa dan Kelurahan perlu diperhatikan\nsyarat-syarat tertentu antara\nlain luas wilayah dan jumlah\npenduduk.\nPersyaratan itu perlu diperhatikan supaya Desa\ndan Kelurahan yang dibentuk atau dipecah itu dapat diharapkan\nmemenuhi fungsinya sebagai\nsuatu wilayah yang mempunyai\npemerintahan yang terendah langsung di bawah Camat yang mampu dan\ntangguh melaksanakan tugas-tugas pemerintahan\ntermasuk\npembangunan.\nPengaturan lebih lanjut mengenai pembentukan,\npemecahan,penyatuan dan penghapusan Desa dan Kelurahan oleh\nUndang-undang ini diserahkan\nkepada Pemerintah Daerah, karena\nPemerintah Daerah yang bersangkutan dipandang lebih mengetahui\nfakta dan keadaan Desa dan Kelurahan\ndi Daerahnya.\n9. Dalam pelaksanaan tugasnya Pemerintah Desa dan\nPemerintah Kelurahan dibantu oleh Perangkat Desa dan Perangkat\nKelurahan. Kepala\nDesa dan Kepala Kelurahan sebagai orang pertama\nmengemban tugas dan kewajiban yang berat, karena ia adalah\npenyelenggara dan penanggungjawab\nutama di bidang pemerintahan,\npembangunan, kemasyarakatan, dan urusan pemerintahan umum termasuk\npembinaan ketentraman dan ketertiban.\nDi samping itu Kepala Desa dan Kepala\nKelurahan juga mengemban tugas membangun mental masyarakat Desa\nbaik dalam bentuk menumbuhkan\nmaupun mengembangkan semangat\nmembangun yang dijiwai oleh azas usaha bersama dan kekeluargaan.\nDengan beratnya beban tugas Kepala\nDesa dan Kepala Kelurahan\nitu,maka dalam menjalankan tugas dan kewajibannya Kepala Desa dan\nKepala Kelurahan sebagai penanggungjawab\nutama di bidang\npembangunan dibantu oleh Lembaga Sosial Desa. Dengan\npembantu-pembantu seperti tersebut di atas, diharapkan Kepala\nDesa\ndan Kepala Kelurahan, dapat menyelenggarakan pimpinan pemerintahan\nDesa dan pemerintahan Kelurahan dengan baik sesuai dan seimbang\ndengan laju perputaran roda pemerintahan dari atas sampai\nbawah.\n10. Sebanding dengan beratnya beban tugas Kepala\nDesa dan Kepala Kelurahan sebagaimana telah digambarkan di atas,\nmaka Undang-undang\nini menekankan perlunya pemenuhan persyaratan\ntertentu bagi para calon Kepala Desa dan Kepala Kelurahan.\nDiantaranya adalah persyaratan pendidikan\nminimal yang dalam Undang-undang ini disyaratkan sekurang-kurangnya\nberijazah Sekolah Lanjutan\nPertama atau yang\nberpengetahuan/berpengalaman sederajat dengan itu.\nDengan peningkatan persyaratan pendidikan ini\ndiharapkan agar Kepala Desa dan Kepala Kelurahan mampu menangani\nurusan-urusan, baik\ndalam rangka penyelenggaraan urusan rumah\ntangga Desa maupun urusan pemerintahan umum termasuk pembinaan\nketentraman dan ketertiban.\n11. Perwujundang Demokrasi Pancasila dalam\npemerintahan Desa terlihat dari adanya Lembaga Musyawarah Desa yang\nmerupakan wadah dan\npenyalur pendapat masyarakat di Desa. Lembaga\nMusyawarah Desa tersebut adalah merupakan wadah\npermusyawaratan/permufakatan dari pemuka-pemuka\nmasyarakat yang ada\ndi Desa dalam mengambil bagian terhadap pembangunan Desa yang\nkeputusan-keputusannya ditetapkan berdasarkan musyawarah\ndan\nmufakat dengan memperhatikan sungguh-sungguh kenyataan yang hidup\ndan berkembang dalam masyarakat yang bersangkutan.\n12. Yang dimaksud dengan Gotong Royong dalam\nUndang-undang ini adalah bentuk kerjasama yang spontan dan sudah\nmelembaga serta mengandung\nunsur-unsur timbal-balik yang bersifat\nsukarela antara warga Desa dan atau antara warga Desa dengan\nPemerintah Desa untuk memenuhi\nkebutuhan yang insidentil maupun\nberkelangsungan dalam rangka meningkatkan kesejahteraan bersama\nbaik material maupun spiritual.\nII. PASAL DEMI PASAL\nPasal 1\nCukup jelas.\nPasal 2\nSyarat-syarat pembentukan, pemecahan, penyatuan\ndan penghapusan Desa dalam Undang-undang ini akan ditentukan lebih\nlanjut oleh Menteri\nDalam Negeri, sedang pelaksanaannya diatur\ndengan Peraturan Daerah yang baru berlaku sesudah ada pengesahan\ndari pejabat yang berwenang.\nPeraturan Menteri Dalam Negeri dimaksud ditetapkan dengan\nmemperhatikan hal-hal sebagai berikut:\na. faktor manusia/jumlah penduduk, faktor alam,\nfaktor letak dan faktor sosial budaya termasuk adat istiadat;\nb. faktor-faktor obyektif lainnya seperti\npenguasaan wilayah,keseimbangan antara organisasi dan luas wilayah\ndan pelayanan;\nc. dan lain sebagainya.\nPasal 3\nAyat (1)\nCukup jelas.\nAyat (2)\nCukup jelas.\nAyat (3)\nCukup jelas.\nAyat (4)\nPedoman Menteri Dalam Negeri mengenai susunan\norganisasi dan tata kerja Pemerintah Desa mengatur hal-hal sebagai\nberikut:\na. kedudukan, tugas dan fungsi Kepala Desa b. susunan\norganisasi;\nc. tata kerja;\nd. dan lain sebagainya, dengan mengindahkan adat istiadat yang\nberkembang dan berlaku setempat.\nAyat (5)\nCukup jelas.\nPasal 4\nYang dimaksud dengan penduduk Desa Warganegara\nIndonesia adalah warganegara Indonesia yang bertempat tinggal di\nDesa yang bersangkutan\ndan memenuhi syarat-syarat untuk dipilih,\nPengertian kegiatan terlarang adalah perbuatan-perbuatan yang\ndilarang menurut peraturan\nperundang-undangan yang berlaku seperti\nkegiatan G.30.S/PKI dengan organisasi massanya dan\nkegiatan-kegiatan organisasi terlarang\nlainnya.\nYang dimaksud dengan putra Desa dalam Undang-undang ini adalah\nmereka yang lahir di Desa dari orang tua yang terdaftar sebagai\npenduduk-desa\nyang bersangkutan atau mereka yang lahir di luar Desa\ndan kemudian pernah menjadi penduduk Desa yang bersangkutan\nsehingga betul-betul\nmengenal Desa tersebut.\nUndang-undang ini menetapkan sekurang-kurangnya umur 25 (dua puluh\nlima) tahun yang dapat dipilih menjadi Kepala Desa,dengan\npertimbangan\nbahwa dalam usia inilah pada umumnya orang dipandang\nsudah mantap kedewasaannya.\nYang dimaksud dengan sehat jasmani dan rokhani adalah sehat jasmani\ndan rokhaninya yang menurut penilaian mampu melaksanakan\ntugas-tugas\ndan pekerjaan sebagai Kepala Desa dengan baik.\nPasal 5\nAyat (1)\nDalam rangka pemilihan Kepala Desa yang dimaksud\ndengan azas:\na. Langsung.\nPemilih mempunyai hak suara langsung memberikan\nsuaranya menurut hati nuraninya tanpa perantara dan tanpa\ntingkatan.\nb. Umum.\nPada dasarnya semua penduduk Desa Warganegara\nIndonesia yang memenuhi persyaratan sekurang-kurangnya telah\nberusia l7 (tujuh belas)\ntahun atau telah/pernah kawin, berhak\nmemilih dalam pemilihan Kepala Desa.\nJadi pemilihan bersifat umum berarti pemilihan yang berlaku\nmenyeluruh bagi semua penduduk Desa Warganegara Indonesia menurut\npersyaratan\ntertentu tersebut di atas.\nc. Bebas Pemilih dalam menggunakan haknya dijamin\nkeamanannya untuk menetapkan pilihannya sendiri tanpa adanya\npengaruh, tekanan atau\npada siapapun, dan dengan apapun;\nd. Rahasia.\nPemilih dijamin oleh peraturan perundang-undangan\nbahwa suara yang diberikan dalam pemilihan tidak diketahui oleh\nsiapapun dan dengan\njalan apapun;\nAyat (2)\nPedoman Menteri Dalam Negeri mengenai tatacara\npemilihan Kepala Desa mengatur hal-hal sebagai berikut:\na. lowongan Kepala Desa;\nb. panitya pemilihan;\nC. pencalonan;\nd. pelaksanaan pemilihan;\ne. pengesahan, pengangkatan, dan pelantikan Kepala Desa;\nf. dan lain sebagainya.\nPasal 6\nPengertian atas nama Gubernur Kepala Daerah\nTingkat I adalah dimaksudkan bahwa pada hakekatnya pengangkatan\nKepala Desa merupakan\nwewenang Gubernur Kepala Daerah Tingkat\n1.\nYang dimaksud dengan calon terpilih ialah calon yang\nterpilih,dengan suara terbanyak dengan memperhatikan persyaratan\ndan tatacara\npemilihan yang diatur dengan Peraturan Daerah, sesuai\nPedoman yang dimaksud Pasal 5 ayat (2) Undang-undang ini.\nPasal 7\nPenetapan masa jabatan 8 (delapan) tahun adalah\nberdasarkan pertimbangan bahwa tenggang waktu tersebut dipandang\ncukup lama bagi seorang\nKepala Desa untuk dapat menyelenggarakan\ntugas-tugas yang dibebankan kepadanya dengan baik.\nDipandang dari segi kelestarian pekerjaan waktu yang 8 (delapan)\ntahun itu cukup untuk memberikan jaminan terhindarnya\nperombakan-perombakan\nkebijaksanaan sebagai akibat dari\npenggantian-penggantian Kepala-kepala Desa. Ketentuan pembatasan\nuntuk dapat dipilih kembali hanya\nuntuk 1 (satu) kali masa jabatan\nberikutnya adalah dengan maksud untuk menghindarkan kemungkinan\nmenurunnya kegairahan dalam menyelenggarakan\npemerintahan di\nDesa.\nPasal 8\nAyat (1)\nCukup jelas.\nAyat (2)\nCukup jelas.\nAyat (3)\nPedoman Menteri Dalam Negeri mengenai tatacara\npengambilan sumpah/janji dan pelantikan Kepala Desa mengatur\nhal-hal sebagai berikut:\na. tatacara pelantikan;\nb. urutan acara pelantikan;\nc. pengukuhan sumpah;\nd. dan lain sebagainya.\nPasal 9\nYang dimaksud dengan sebab-sebab lain ialah\nperbuatan yang bertentangan dengan ketentuan/peraturan\nperundang-undangan yang berlaku\ndan atau norma-norma yang hidup dan\nberkembang dalam kehidupan masyarakat Desa setempat,Pasal 10\nAyat (1)\nDalam rangka menumbuhkan dan mengembangkan jiwa\ngotong royong masyarakat Desa, Kepala Desa antara lain melakukan\nusaha pemantapan\nkoordinasi melalui Lembaga Sosial Desa,Rukun\nTetangga, Rukun Warga, dan Lembaga-lembaga kemasyarakatan lainnya\nyang ada di Desa.\nDalam rangka pelaksanaan tugasnya Kepala Desa di bidang ketentraman\ndan ketertiban dapat mendamaikan perselisihan-perselisihan yang\nterjadi di Desa. Pertanggungjawaban Kepala Desa kepada\nBupati/Walikotamadya Kepala Daerah Tingkat II meliputi pelaksanaan\nurusan-urusan\npemerintahan dan urusan pembantuan maupun\nurusan-urusan rumah tangga Desa.\nSetelah Kepala Desa memberikan pertanggungjawaban kepada\nBupati/Walikotamadya Kepala Daerah Tingkat II, selanjutnya\nmenyampaikan\nketerangan pertanggungjawaban kepada-Lembaga\nMusyawarah Desa.\nAyat (2)\nKeterangan pertanggungjawaban Kepala Desa kepada\nLembaga Musyawarah Desa, dapat dijadikan pegangan pejabat yang\nberwenang mengangkat\ndalam mengambil tindakan-tindakan\nkebijaksanaan, antara lain dalam rangka pemberian penghargaan dana\ntanda kesetiaan, maupun pelaksanan\nsebagaimana dimaksud Pasal dan\nlain sebagainya.\nPasal 11\nAyat (1)\nPedoman Menteri Dalam Negeri mengenai kedudukan\ndan Kedudukan Keuangan Kepala Desa, Kepala-kepala Urusan dan\nKepala-kepala Dusun mengatur\nhal-hal sebagai berikut:\na. kedudukan;\nb. penghasilan dan pembebanan anggaran;\nc. dan lain sebagainya.\nAyat (2)\nCukup jelas\nPasal 12\nCukup jelas\nPasal 13\nLarangan bagi Kepala Desa melakukan\nkegiatan-kegiatan atau melalaikan tindakan yang menjadi\nkewajibannya yang merugikan kepentinan\nNegara, Pemerintah,\nPemerintah Daerah dan masyarakat Desa adalah dimaksudkan untuk\nmenghindarkan penyimpangan-penyimpangan yang melanggar\nkepentingan\numum,khususnya untuk kepentingan Desa itu sendiri.\nPasal 14\nCukup jelas.\nPasal 15\nAyat (1)\nCukup jelas.\nAyat (2)\nCukup jelas.\nAyat (3)\nBerdasarkan pertimbangan bahwa Sekretaris Desa\nsebagai Kepala Sekretariat adalah lebih banyak mengetahui\nurusan-urusan pemerintahan\nDesa dibandingkan dengan Perangkat Desa\nlainnya, maka dalam hal Kepala Desa berhalangan menjalankan\ntugasnya, Sekretaris Desa ditetapkan\nuntuk mewakilinya.\nAyat (4)\nCukup jelas.\nAyat (5)\nPedoman Menteri Dalam Negeri tentang\nsyarat-syarat pengangkatan dan pemberhentian Sekretaris Desa dan\nKepala-kepala Urusan mengatur\nhal-hal sebagai berikut:\na. syarat-syarat calon;\nb. tatacara pengangkatan;\nc. pemberhentian;\nd. dan lain sebagainya.\nPasal 16\nAyat (1)\nPedoman Menteri Dalam Negeri mengenai pembentukan\nDusun dalam Desa ditetapkan dengan memperhatikan hal-hal sebagai\nberikut:\na. faktor manusia/jumlah penduduk, faktor alam,\nfaktor letak dan faktor sosial budaya termasuk adat istiadat;\nb. faktor-faktor obyektif lainnya seperti\npenguasaan wilayah,keseimbangan antara organisasi dan luas wilayah,\ndan pelayanan;\nc. dan lain sebagainya.\nAyat (2)\nCukup jelas.\nAyat (3)\nCukup jelas.\nAyat (4)\nPedoman Menteri Dalam Negeri tentang\nsyarat-syarat pengangkatan dan pemberhentian Kepala-kepala Dusun\nmengatur hal-hal sebagai berikut:\na. syarat-syarat calon;\nb. tatacara pengangkatan dan pemberhentian;\nc. dan lain sebagainya.\nPasal 17\nAyat (1)\nPembentukan Lembaga Musyawarah Desa dan\nkeanggotaannya dimusyawarahkan/dimufakatkan oleh Kepala Desa dengan\npemuka-pemuka masyarakat\ndi Desa yang bersangkutan.\nYang dimaksud dengan pemuka-pemuka masyarakat ialah pemuka-pemuka\nmasyarakat yang diambil antara lain dari kalangan Adat, Agama,\nkekuatan Sosial Politik dan golongan Profesi yang bertempat tinggal\ndi Desa dengan memperhatikan ketentuan peraturan perundang-undangan\nyang berlaku, antara lain Undang-undang Nomor 3 Tahun 1975 dalam\nrangka menyalurkan perwujundang Demokrasi Pancasila secara nyata\ndengan memperhatikan pula perkembangan dan keadaan setempat.\nAyat (2)\nCukup jelas.\nAyat (3)\nCukup jelas.\nAyat (4)\nPedoman Menteri Dalam Negeri mengenai Lembaga\nMusyawarah Desa mengatur hal-hal sebagai berikut:\na. pembentukan;\nb. kedudukan;\nc. fungsi, tugas dan kewajiban;\nd. hak dan kewenangan;\ne. dan lain sebagainya.\nAyat (5)\nCukup jelas.\nPasal 18\nYang dimaksud dengan musyawarah/mufakat adalah\nmusyawarah yang menghasilkan mufakat.\nPasal 19\nKeputusan Desa ialah semua Keputusan-keputusan\nyang telah ditetapkan oleh Kepala Desa setelah\ndimusyawarahkan/dimufakatkan dengan\nLembaga Musyawarah Desa serta\ntelah mendapat pengesahan dari Bupati/Walikotamadya Kepala Daerah\nTingkat II.\nKeputusan Kepala Desa ialah semua keputusan yang merupakan\npelaksanaan dari Keputusan Desa dan kebijaksanaan Kepala Desa yang\nmenyangkut\npemerintahan dan pembangunan di Desa sepanjang tidak\nbertentangan dengan kepentingan umum maupun peraturan\nperundang-undangan yang\nberlaku.\nPasal 20\nAyat (1)\nPedoman Menteri Dalam Negeri mengenai keputusan\nDesa mengatur hal-hal sebagai berikut:\na. syarat-syarat dan tata cara pengambilan keputusan;\nb. tata cara pengesahan;\nc. dan lain sebagainya.\nAyat (2)\nCukup jelas.\nPasal 21\nAyat (1)\nYang dimaksud dengan kekayaan Desa adalah segala\nkekayaan dan sumber penghasilan bagi Desa yang bersangkutan,\nmisalnya tanah kas Desa,\npemandian umum, obyek rekreasi dan lain\nsebagainya.\nSwadaya masyarakat ialah kemampuan dari suatu kelompok masyarakat\ndengan kesadaran dan inisiatif sendiri mengadakan ikhtiar ke arah\npemenuhan kebutuhan jangka pendek maupun jangka panjang yang\ndirasakan dalam kelompok masyarakat itu.\nUsaha-usaha lain yang sah dimaksud sebagai rumusan umum untuk\nmemungkinkan Desa menciptakan usaha-usaha baru dalam batas yang\nditentukan\noleh peraturan perundang-undangan yang berlaku. Di\ndalamnya dapat dimasukkan usaha-usaha Desa seperti pasar Desa,\nusaha pembakaran\nkapur, genteng dan batu bata, peternakan,\nperikanan, dan lain-lain.\nBegitu juga pungutan-pungutan Desa yang telah ditetapkan oleh\nKepala Desa setelah dimusyawarahkan/dimufakatkan dengan Lembaga\nMusyawarah\nDesa dan telah mendapat pengesahan dari\nBupati/Walikotamadya Kepala Daerah Tingkat II.\nSumbangan-sumbangan dari Pemerintah dan atau Pemerintah Daerah,\ndicantumkan agar dimungkinkan Desa menerima sumbangan-sumbangan\ntersebut\nuntuk dimasukkan dalam Anggaran (Bantuan Inpres, Bantuan\nKhusus Presiden dan lain-lain Instansi).\nDari retribusi Daerah diberikan atas obyek-obyek Pemerintah Daerah\nyang letaknya dalam Desa yang bersangkutan (pemandian umum, obyek\nrekreasi, obyek pariwisata, dan lain-lain).\nAyat (2)\nCukup jelas.\nAyat (3)\nPedoman Menteri Dalam Negeri mengenai anggaran\nPenerimaan dan Pengeluaran Keuangan Desa mengatur hal-hal sebagai\nberikut:\na. perincian pembagian Anggaran;\nb. penetapan dan pengesahan Anggaran;\nc. pelaksanaan tata usaha Keuangan;\nd. perubahan Anggaran;\ne. perhitungan;\nf. pengawasan;\ng. dan lain sebagainya.\nAyat (4)\nCukup jelas.\nPasal 22\nYang dimaksud dengan Kota-kota lain ialah Desa\nyang telah menunjukkan ciri-ciri kehidupan perkotaan.\nSyarat-syarat pembentukan, pemecahan, penyatuan dan penghapusan\nKelurahan dalam Undang-undang ini akan ditentukan lebih lanjut oleh\nMenteri Dalam Negeri, sedang pekerjaannya diatur dengan Peraturan\nDaerah yang baru berlaku sesudah ada pengesahan dari pejabat yang\nberwenang.\nPeraturan Menteri Dalam Negeri dimaksud ditetapkan dengan\nmemperhatikan hal-hal sebagai berikut:\na. faktor manusia/jumlah penduduk, faktor alam,\nfaktor letak dan faktor sosial budaya termasuk adat istiadat;\nb. faktor-faktor obyektif lainnya seperti\npenguasaan wilayah,keseimbangan antara organisasi dan luas wilayah\ndan pelayanan;\nc. dan lain sebagainya.\nPasal 23\nAyat (1)\nKepala Kelurahan biasa disebut Lurah.\nAyat (2)\nJika dalam Kelurahan tidak dibentuk Lingkungan\nkarena pertimbangan lain maka Perangkat Kelurahan adalah\nSekretariat Kelurahan.\nAyat (3)\nPedoman Menteri Dalam Negeri mengenai susunan\norganisasi dan tata kerja Kelurahan mengatur hal-hal sebagai\nberikut:\na. kedudukan, tugas dan fungsi Kepala Kelurahan;\nb. susunan organisasi dan tata kerja;\nc. dan sebagainya.\nAyat (4)\nCukup jelas.\nPasal 24\nAyat (1)\nCukup jelas.\nAyat (2)\nYang dimaksud dengan Walikota adalah pejabat yang\nberwenang mengangkat Kepala Kelurahan atas nama Gubernur Kepala\nDaerah Khusus Ibukota\nJakarta untuk Daerah Khusus Ibukota\nJakarta.\nPasal 25\nAyat(l)\nCukup jelas.\nAyat (2)\nCukup jelas\nAyat (3)\nPedoman Menteri Dalam Negeri mengenai tatacara\npengambilan sumpah/janji dan pelantikan Kepala Kelurahan mengatur\nhal-hal sebagai berikut:\na. upacara pelantikan;\nb. urutan acara pelantikan;\nc. pengukuhan sumpah;\nd. dan lain sebagainya.\nPasal 26\nCukup jelas.\nPasal 27\nDalam menjalankan tugas dan wewenang pimpinan\npemerintahan Kelurahan, Kepala Kelurahan perlu memperhatikan\nkeadaan masyarakat.\nPasal 28\nLarangan bagi Kepala Kelurahan melakukan\nkegiatan-kegiatan atau melalaikan tindakan yang menjadi\nkewajibannya yang merugikan kepentingan\nNegara, Pemerintah,\nPemerintah Daerah dan masyarakat adalah dimaksudkan untuk\nmenghindarkan penyimpangan-penyimpangan yang merugikan\nkepentingan\numum,khususnya kepentingan Kelurahan itu sendiri,Pasal 29\nCukup jelas.\nPasal 30\nAyat (1)\nCukup jelas.\nAyat (2)\nLihat penjelasan Pasal 24 ayat (2).\nPasal 31\nAyat (1)\nPedoman Menteri Dalam Negeri mengenai pembentukan\nLingkungan dalam Kelurahan mengatur hal-hal sebagai berikut:\na. faktor manusia/jumlah penduduk, faktor alam,\nfaktor letak dan faktor sosial budaya termasuk adat istiadat;\nb. faktor-faktor obyektif lainnya seperti\npenguasaan wilayah,keseimbangan antara organisasi dan luas wilayah,\ndan pelayanan;\nc. dan lain sebagainya.\nAyat (2)\nCukup jelas.\nAyat (3)\nLihat penjelasan Pasal 24 ayat (2).\nPasal 32\nAyat (1)\nkerjasama yang diatur oleh pejabat tingkat atas\nyang bersangkutan adalah kerjasama yang mengakibatkan beban bagi\nmasyarakat Desa dan\nKelurahan yang bersangkutan.\nAyat (2)\nSudah sewajarnya bahwa pejabat tingkat atas yang\nbersangkutan bertindak dan mengambil keputusan untuk mengatasi\nperselisihan yang\ntimbul antar Desa, antar Kelurahan dan antar Desa\ndengan Kelurahan yang berada di bawah pengawasannya.\nPerselisihan itu dapat terjadi antara:\na. Desa/Kelurahan dengan Desa/Kelurahan dalam satu wilayah\nKecamatan;\nb. Desa/Kelurahan dengan Desa/Kelurahan lainnya\nyang tidak termasuk di dalam satu wilayah Kecamatan;\nc. Desa/Kelurahan dengan Desa/Kelurahan lainnya\nyang tidak termasuk di dalam satu wilayah Daerah Tingkat II;\nd. Desa/Kelurahan dengan Desa/Kelurahan lainnya\nyang tidak termasuk di dalam satu wilayah Daerah Tingkat I.\nPerselisihan yang dimaksud dalam huruf a diputuskan oleh Camat,\nhuruf b oleh Bupati/Walikotamadya Kepala Daerah Tingkat II, huruf\nc\noleh Gubernur Kepala Daerah Tingkat I,dan huruf d oleh Menteri\nDalam Negeri. Perselisihan yang dimaksud dalam pasal ini sudah\ntentu\nhanya perselisihan mengenai pemerintahan, jadi yang bersifat\nhukum publik,sebab perselisihan yang bersifat hukum perdata sudah\njelas\nmenjadi wewenang pengadilan.\nPasal 33\nCukup jelas.\nPasal 34\nAyat (1)\nPada pokoknya Keputusan Desa yang untuk\nberlakunya memerlukan pengesahan dari Bupati/Walikotamadya Kepala\nDaerah Tingkat II adalah\nyang:\na. menetapkan ketentuan-ketentuan yang bersifat mengatur;\nb. menetapkan segala sesuatu yang menyangkut\nkepentingan masyarakat Desa, misalnya penjualan, pelepasan, dan\npenukaran kekayaan Desa;\nc. menetapkan segala sesuatu yang memberatkan beban Keuangan\nDesa.\nAyat (2)\nCukup jelas.\nAyat (3)\nPengawasan umum adalah suatu jenis pengawasan\nyang dilakukan oleh Pemerintah terhadap segala kegiatan\npemerintahan untuk mengawasi\npenyelenggaraan pemerintahan dengan\nbaik. Pengawasan umum terhadap pemerintahan Desa dan pemerintahan\nKelurahan dilakukan oleh Menteri\nDalam Negeri, Gubernur Kepala\nDaerah tingkat I, Bupati/Walikotamadya Kepala Daerah Tingkat II\ntermasuk Walikota di Daerah Khusus\nIbukota Jakarta, Walikota dan\nCamat sebagai Wakil Pemerintah di Daerah yang bersangkutan.\nPasal 35\nKetentuan-ketentuan dalam ayat (1) dan (2) pasal\nini dilaksanakan secara bertahap mengingat banyaknya\nperbedaan-perbedaan kualitatif\nyang terdapat pada Desa-desa di\nseluruh wilayah Indonesia, seperti Desa di Jawa, dan Bali, Kampung\ndi Kalimantan dan lain sebagainya,\nsehingga tidaklah mungkin dalam\nwaktu yang singkat diperoleh keseragaman.\nPasal 36\nAyat (1)\nKetentuan ini dimasudkan untuk menjaga agar\njangan sampai terjadi kekosongan penyelenggaraan pemerintahan Desa\ndan Kelurahan.\nAyat (2)\nCukup jelas\nPasal 37\nPasal ini dimaksudkan untuk menghindarkan adanya\nkekosongan peraturan perundang-undangan, khususnya mengenai\npemerintahan Desa dan\nKelurahan.\nPasal 38\nCukup jelas.\nPasal 39\nCukup jelas.\nPasal 40\nCukup jelas.\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 3153"
+   }
+  }
+ ]
+}

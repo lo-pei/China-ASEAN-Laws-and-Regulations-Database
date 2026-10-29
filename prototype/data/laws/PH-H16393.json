@@ -1,0 +1,62 @@
+{
+ "id": "PH-H16393",
+ "title": {
+  "zh": null,
+  "en": "An Act Appropriating the Sum of Two Hundred thousand Pesos for the Control of Venereal Diseases.",
+  "orig": "An Act Appropriating the Sum of Two Hundred thousand Pesos for the Control of Venereal Diseases."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1945-09-26",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 685",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 359,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00685_1945_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00685_1945_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H16393-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The sum of two hundred thousand pesos, or so much thereof as may be necessary, is\nappropriated out of any funds in the National Treasury not otherwise appropriated, to be disbursed by the\nSecretary of Health and Public Welfare, for the control of venereal diseases in the Philippines."
+   }
+  },
+  {
+   "id": "PH-H16393-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, September 26, 1945."
+   }
+  }
+ ]
+}

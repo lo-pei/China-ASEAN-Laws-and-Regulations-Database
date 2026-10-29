@@ -1,0 +1,1106 @@
+{
+ "id": "ID-H601",
+ "title": {
+  "zh": "航空法",
+  "en": "aviation Law",
+  "id": "penerbangan",
+  "orig": "PENERBANGAN",
+  "vi": "Luật hàng không",
+  "th": "พระราชบัญญัติ การบิน",
+  "ms": "Akta penerbangan"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02b",
+ "language": "id",
+ "level": "law",
+ "category": "03_涉外投资与贸易",
+ "status": "active",
+ "promulgatedDate": "1992",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU15-1992",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 76,
+ "chars": 60449,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU_NO_15_TH_1992.pdf&fl=P00935"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\03_涉外投资与贸易\\印尼_文本_1992_PENERBANGAN.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 76 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H601-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\n\nDalam Undang-undang ini yang dimaksud dengan :\n1. Penerbangan adalah segala sesuatu yang berkaitan dengan\npenggunaan wilayah udara, pesawat udara, bandar udara,\nangkutan udara, keamanan dan keselamatan penerbangan, serta\nkegiatan dan fasilitas penunjang lain yang terkait;\n2. Wilayah udara adalah ruang udara di atas wilayah daratan dan\nperairan Republik Indonesia;\n3. Pesawat udara adalah setiap alat yang dapat terbang di atmosfer\nkarena daya angkat dari reaksi udara;\n4. Pesawat udara Indonesia adalah pesawat udara yang didaftarkan\ndan mempunyai tanda pendaftaran Indonesia;\n5. Pesawat terbang adalah pesawat udara yang lebih berat dari\nudara, bersayap tetap, dan da pat terbang dengan tenaganya\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nsendiri;\n6. Helikopter adalah pesawat udara yang lebih berat dari udara,\ndapat terbang dengan sayap berputar, dan bergerak dengan\ntenaganya sendiri;\n7. Pesawat udara negara adalah pesawat udara yang dipergunakan\noleh Angkatan Bersenjata Republik Indonesia dan pesawat udara\ninstansi Pemerintah tertentu yang diberi fungsi dan kewenangan\nuntuk menegakkan hukum sesuai dengan peraturan\nperundang-undangan yang berlaku;\n8. Pesawat udara sipil adalah pesawat udara selain pesawat udara\nnegara;\n9. Pesawat udara sipil asing adalah  pesawat udara yang didaftarkan\ndan/atau mempunyai tanda pendaftaran negara bukan Indonesia;\n10. Pesawat udara Angkatan Bersenjata Republik Indonesia adalah\npesawat udara negara yang dipergunakan dalam dinas Angkatan\nBersenjata Republik Indonesia;\n11. Bandar udara adalah lapangan terbang yang dipergunakan untuk\nmendarat dan lepas landas pesawat udara, naik turun\npenumpang, dan/atau bongkar muat kargo dan/atau pos, serta\ndilengkapi dengan fasilitas keselamatan penerbangan dan sebagai\ntempat perpindahan antar moda transportasi;\n12. Pangkalan udara adalah kawasan di daratan dan/atau di perairan\ndalam wilayah Republik Indonesia yang dipergunakan untuk\nkegiatan penerbangan Angkatan Bersenjata Republik Indonesia;\n13. Angkutan udara adalah setiap kegiatan dengan menggunakan\npesawat udara untuk mengangkut penumpang, kargo, dan pos\nuntuk satu perjalanan atau lebih dari satu bandar udara ke\nbandar udara yang lain atau beberapa bandar udara;\n14. Angkutan  udara niaga adalah angkutan udara untuk umum\ndengan memungut pembayaran;\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n15. Kelaikan udara adalah terpenuhinya persyaratan minimum\nkondisi pesawat udara dan/atau komponen-komponennya untuk\nmenjamin keselamatan penerbangan dan mencegah terjadinya\npencemaran lingkungan.\n\nBAB II\nASAS DAN TUJUAN"
+   }
+  },
+  {
+   "id": "ID-H601-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\n\nPenerbangan diselenggarakan berdasarkan asas manfaat, usaha\nbersama dan kekeluargaan, adil dan merata, keseimbangan,\nkepentingan umum, keterpaduan, kesadaran hukum, dan percaya pada\ndiri sendiri."
+   }
+  },
+  {
+   "id": "ID-H601-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\n\nTujuan penerbangan adalah untuk mewujudkan penyelenggaraan\npenerbangan yang selamat, aman, cepat, lancar, tertib dan teratur,\nnyaman dan berdayaguna, dengan bi aya yang terjangkau oleh daya\nbeli masyarakat, dengan mengutam akan dan melindungi penerbangan\nnasional, menunjang pemerataan, pertumbuhan dan stabilitas, sebagai\npendorong, penggerak, dan penunjang pembangunan nasional serta\nmempererat hubungan antar bangsa.\n\n\nBAB III\nKEDAULATAN ATAS WILAYAH UDARA"
+   }
+  },
+  {
+   "id": "ID-H601-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\n\nNegara Republik Indonesia berdaulat penuh dan utuh atas wilayah\nudara Republik Indonesia.\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H601-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\n\nDalam rangka penyelenggaraan kedaulatan negara atas wilayah udara\nRepublik Indonesia, Pemerintah melaksanakan wewenang dan\ntanggung jawab pengaturan ruang udara untuk kepentingan\npertahanan dan keamanan negara, penerbangan, dan ekonomi\nnasional."
+   }
+  },
+  {
+   "id": "ID-H601-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\n\n(1) Untuk kepentingan pertahanan dan keamanan negara serta\nkeselamatan penerbangan, Pemerintah menetapkan kawasan\nudara terlarang.\n(2) Pesawat udara Indonesia atau pesawat udara asing dilarang\nterbang melalui kawasan udara terlarang, dan terhadap pesawat\nudara yang melanggar larangan dimaksud dapat dipaksa untuk\nmendarat di pangkalan udara atau bandar udara di dalam wilayah\nRepublik Indonesia.\n(3) Ketentuan mengenai penetapan kawasan udara terlarang dan\ntindakan pemaksaan sebagaimana dimaksud dalam ayat (1) dan\nayat (2) diatur lebih lanjut dengan Peraturan Pemerintah.\n\n\nBAB IV\nPEMBINAAN"
+   }
+  },
+  {
+   "id": "ID-H601-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\n\n(1) Penerbangan dikuasai oleh negara dan pembinaannya dilakukan\noleh Pemerintah.\n(2) Penyelenggaraan penerbangan dilaksanakan berdasarkan\nketentuan dalam Undang-undang ini.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n(3) Pembinaan penerbangan diarahkan untuk meningkatkan\npenyelenggaraan penerbangan dalam keseluruhan moda\ntransportasi secara terpadu, te rwujudnya sarana dan prasarana\npenerbangan yang andal, sumber daya manusia yang profesional\nserta didukung industri pesawat terbang nasional yang tangguh,\ndengan memperhatikan seluruh aspek kehidupan masyarakat\nuntuk mewujudkan tujuan sebagaimana dimaksud dalam Pasal 3.\n(4) Pembinaan penerbangan sebagaimana dimaksud dalam ayat (3),\ndiatur lebih lanjut dengan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H601-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n\nPrasarana dan sarana penerbangan yang dioperasikan wajib\nmempunyai keandalan dan memenuhi persyaratan keamanan dan\nkeselamatan penerbangan.\n\n\nBAB V\nPENDAFTARAN DAN KEBANGSAAN PESAWAT UDARA\nSERTA PENGGUNAANNYA SEBAGAI JAMINAN"
+   }
+  },
+  {
+   "id": "ID-H601-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n\n(1) Pesawat udara yang dioperasikan di Indonesia wajib mempunyai\ntanda pendaftaran.\n(2) Pesawat udara sipil yang dapat memperoleh tanda pendaftaran\nIndonesia adalah pesawat udara yang tidak didaftarkan di negara\nlain dan memenuhi salah satu ketentuan sebagai berikut :\na. dimiliki oleh warga negara Indonesia atau dimiliki oleh badan\nhukum Indonesia;\nb. dimiliki oleh warga negara asing atau badan hukum asing dan\ndioperasikan oleh warga negara Indonesia atau badan hukum\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nIndonesia untuk jangka waktu pemakaiannya minimal dua\ntahun secara terus menerus berdasarkan suatu perjanjian\nsewa beli, sewa guna usaha atau bentuk perjanjian lainnya;\nc. dimiliki oleh instansi Pemerintah;\nd. dimiliki oleh lembaga tertentu yang diizinkan Pemerintah.\n(3) Ketentuan mengenai pendaftaran pesawat udara sipil\nsebagaimana dimaksud dalam ayat (2) dan pendaftaran pesawat\nudara Angkatan Bersenjata Republik Indonesia diatur lebih lanjut\ndengan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H601-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\n\n(1) Selain tanda pendaftaran sebagaimana dimaksud dalam Pasal 9\nayat (1), pesawat terbang dan heli kopter yang dioperasikan di\nIndonesia wajib mempunyai tanda kebangsaan.\n(2) Tanda kebangsaan Indonesia hanya diberikan kepada pesawat\nterbang dan helikopter yang telah mempunyai tanda pendaftaran\nIndonesia.\n(3) Persyaratan dan tata cara untuk memperoleh dan mencabut\ntanda kebangsaan Indonesia sebagaimana dimaksud dalam ayat\n(2) dan jenis-jenis pesawat terban g dan helikopter tertentu yang\ndapat dibebaskan dari kewajiban memiliki tanda kebangsaan,\ndiatur lebih lanjut dengan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H601-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\n\n(1) Dilarang memberi atau mengubah tanda-tanda pada pesawat\nudara sipil sedemikian rupa sehingga menyerupai pesawat udara\nnegara.\n(2) Ketentuan sebagaimana dimaksud dalam ayat (1) hanya berlaku\nterhadap pesawat terbang dan helikopter.\n\n\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H601-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n\n(1) Pesawat terbang dan helikopter yang telah mempunyai tanda\npendaftaran dan kebangsaan Indonesia dapat dibebani hipotek.\n(2) Pembebanan hipotek pada pesawat terbang dan helikopter\nsebagaimana dimaksud dalam ayat (1) harus didaftarkan.\n(3) Ketentuan sebagaimana dimaksud  dalam ayat (2) diatur lebih\nlanjut dengan Peraturan Pemerintah.\n\n\nBAB VI\nPENGGUNAAN PESAWAT UDARA"
+   }
+  },
+  {
+   "id": "ID-H601-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\n\n(1) Pesawat udara yang dapat digunakan di wilayah Republik\nIndonesia hanya pesawat udara Indonesia.\n(2) Penggunaan pesawat udara sipil asing dari dan ke atau melalui\nwilayah Republik Indonesia, hanya dapat dilakukan berdasarkan\nperjanjian bilateral atau perjanjian  multilateral atau izin khusus\nPemerintah.\n(3) Penggunaan pesawat udara negara asing dari dan ke atau melalui\nwilayah Republik Indonesia, hanya dapat dilakukan berdasarkan\nizin khusus Pemerintah.\n(4) Izin khusus sebagaimana dimaks ud dalam ayat (2) dan ayat (3)\ndiatur lebih lanjut dengan Peraturan Pemerintah.\n\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H601-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\n\nJenis dan penggunaan pesawat udar a sipil dan pesawat udara negara\ndiatur lebih lanjut dengan Peraturan Pemernitah."
+   }
+  },
+  {
+   "id": "ID-H601-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\n\n(1) Setiap pesawat udara sipil Indone sia atau asing yang tiba di atau\nberangkat dari Indonesia, hanya dapat mendarat di atau tinggal\nlandas dari bandar udara yang ditetapkan untuk itu.\n(2) Ketentuan sebagaimana dimaksud  dalam ayat (1) tidak berlaku\ndalam keadaan darurat.\n(3) Ketentuan sebagaimana dimaksud  dalam ayat (1) dan ayat (2)\ndiatur lebih lanjut dengan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H601-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\n\nDilarang menerbangkan pesawat udara yang dapat membahayakan\nkeselamatan pesawat udara, penumpang dan barang, dan/atau\npenduduk atau mengganggu keamanan dan ketertiban umum atau\nmerugikan harta benda milik orang lain."
+   }
+  },
+  {
+   "id": "ID-H601-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\n\n(1) Dilarang melakukan perekaman dari udara dengan menggunakan\npesawat udara kecuali atas izin Pemerintah.\n(2) Persyaratan dan tata cara untuk memperoleh izin sebagaimana\ndimaksud dalam ayat (1) diatur lebih lanjut dengan Peraturan\nPemerintah.\n\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nBAB VII\nKEAMANAN DAN KESELAMATAN PENERBANGAN"
+   }
+  },
+  {
+   "id": "ID-H601-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\n\n(1) Setiap personil penerbangan wajib memiliki sertifikat kecakapan.\n(2) Sertifikat kecakapan sebagaimana dimaksud dalam ayat (1)\ndiperoleh melalui pendidikan dan pelatihan.\n(3) Persyaratan dan tata cara untuk memperoleh sertifikat\nkecakapan sebagaimana dimaksud dalam ayat (1) dan ayat (2)\ndiatur lebih lanjut dengan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H601-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\n\n(1) Setiap pesawat udara yang dipergunakan untuk terbang wajib\nmemiliki sertifikat kelaikan udara.\n(2) Untuk memperoleh sertifikat kelaikan udara sebagaimana\ndimaksud dalam ayat (1) dilakukan pemeriksaan dan pengujian.\n(3) Persyaratan dan tata cara untuk memperoleh sertifikat kelaikan\nudara serta ketentuan mengenai pemeriksaan dan pengujian\nsebagaimana dimaksud dalam ayat (1) dan ayat (2) diatur lebih\nlanjut dengan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H601-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\n\nSetiap fasilitas dan/atau peralatan penunjang penerbangan wajib\nmemenuhi persyaratan keamanan dan keselamatan penerbangan."
+   }
+  },
+  {
+   "id": "ID-H601-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\n\n(1) Persyaratan keselamatan penerbangan dalam kegiatan rancang\nbangun, pembuatan, perakitan, perawatan, dan penyimpanan\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\npesawat udara termasuk komponen-komponen, dan suku\ncadangnya ditetapkan oleh Pemerintah.\n(2) Ketentuan sebagaimana dimaksud dalam ayat (1) hanya berlaku\nterhadap pesawat terbang dan helikopter."
+   }
+  },
+  {
+   "id": "ID-H601-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\n\n(1) Dalam rangka keselamatan penerbangan, pesawat udara yang\nterbang di wilayah Republik Indonesia diberikan pelayanan\nnavigasi penerbangan.\n(2) Pemberian pelayanan sebagaimana dimaksud dalam ayat (1)\ndikenakan biaya.\n(3) Persyaratan dan tata cara pemberian pelayanan sebagaimana\ndimaksud dalam ayat (1) dan ayat (2) diatur lebih lanjut dengan\nPeraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H601-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\n\n(1) Selama terbang, kapten penerbang pesawat udara yang\nbersangkutan mempunyai wewenang mengambil tindakan untuk\nkeamanan dan keselamatan penerbangan.\n(2) Jenis dan bentuk tindakan ya ng dapat diambil untuk keamanan\ndan keselamatan penerbangan sebagaimana dimaksud dalam ayat\n(1) diatur lebih lanjut dengan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H601-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 24\n\nPencegahan dan penanggulangan tindakan yang dapat menimbulkan\ngangguan terhadap keamanan penerbangan termasuk yang\nmembahayakan pertahanan dan keamanan negara diatur dengan\nPeraturan Pemerintah.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nBAB VIII\nBANDAR UDARA"
+   }
+  },
+  {
+   "id": "ID-H601-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\n\n(1) Pemerintah menetapkan bagian wilayah darat dan/atau perairan\nRepublik Indonesia untuk dipergunakan sebagai bandar udara.\n(2) Penentuan lokasi, pembuatan rancang bangun, perencanaan, dan\npembangunan bandar udara termasuk kawasan di sekelilingnya\nwajib memperhatikan ketentuan keamanan penerbangan,\nkeselamatan penerbangan, dan kelestarian lingkungan kawasan\nbandar udara.\n(3) Ketentuan sebagaimana dimaksud  dalam ayat (1) dan ayat (2)\ndiatur lebih lanjut dengan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H601-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\n\n(1) Penyelenggaraan bandar udara untuk umum dan pelayanan\nnavigasi penerbangan dilakukan oleh Pemerintah dan\npelaksanaannya dapat dilimpahkan kepada badan usaha milik\nnegara yang didirikan untuk maksud tersebut berdasarkan\nperaturan perundang-undangan yang berlaku.\n(2) Badan hukum Indonesia dapat diikutsertakan dalam\npenyelenggaraan bandar udar a untuk umum sebagaimana\ndimaksud dalam ayat (1) atas dasar kerja sama dengan badan\nusaha milik negara yang melaksanakan penyelenggaraan bandar\nudara untuk umum.\n(3) Pengadaan, pengoperasian, dan perawatan fasilitas penunjang\nbandar udara untuk umum dapat dilakukan oleh Pemerintah atau\nbadan hukum Indonesia atau warga negara Indonesia.\n(4) Ketentuan sebagaimana dimaksud  dalam ayat (1), ayat (2), dan\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nayat (3) diatur lebih lanjut dengan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H601-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\n\n(1) Dalam rangka menunjang kegiatan tertentu dapat\ndiselenggarakan bandar udara khusus.\n(2) Pembangunan dan/atau pengoperasian bandar udara khusus\nsebagaimana dimaksud dalam ayat (1) dilakukan berdasarkan izin\nPemerintah.\n(3) Ketentuan sebagaimana dimaksud  dalam ayat (1) dan ayat (2),\nperawatan dan pengoperasian serta pelayanan navigasi\npenerbangan di bandar udara khus us diatur lebih lanjut dengan\nPeraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H601-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\n\nDilarang berada di bandar udara, mendirikan bangunan atau\nmelakukan kegiatan-kegiatan lain di dalam maupun di sekitar bandar\nudara yang dapat membahayakan keamanan dan keselamatan\npenerbangan."
+   }
+  },
+  {
+   "id": "ID-H601-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\n\nKetentuan mengenai status, kelas, dan penggunaan bandar udara\nuntuk keperluan penerbangan internasional dan/atau domestik diatur\ndengan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H601-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\n\n(1) Penyelenggara bander udara bertanggung jawab terhadap\nkeamanan dan keselamatan penerbangan serta kelancaran\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\npelayanannya.\n(2) Tanggung jawab terhadap keamanan dan keselamatan\npenerbangan sebagaimana dimaksud dalam ayal (1) yang wajib\ndiasuransikan diatur lebih lanjut dengan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H601-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\n\nStruktur dan golongan tarif penggunaan fasilitas dan jasa yang\ndiberikan di bandar udara ditetapkan oleh Pemerintah.\n\n\nBAB IX\nPENCARIAN DAN PERTOLONGAN KECELAKAAN\nSERTA PENELITIAN SEBAB-SEBAB KECELAKAAN\nPESAWAT UDARA"
+   }
+  },
+  {
+   "id": "ID-H601-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 32\n\nPemerintah wajib melakukan pencarian dan pertolongan terhadap\nsetiap pesawat udara yang mengalami kecelakaan di wilayah Republik\nIndonesia."
+   }
+  },
+  {
+   "id": "ID-H601-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 33\n\n(1) Setiap orang atau badan hukum yang mengoperasikan pesawat\nudara wajib membantu usaha pencarian dan pertolongan\nterhadap kecelakaan pesawat udara.\n(2) Pengaturan mengenai pencarian dan pertolongan terhadap\npesawat udara sebagaimana dimaksud dalam ayat (1) diatur lebih\nlanjut dengan Peraturan Pemerintah.\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H601-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 34\n\n(1) Pemerintah melakukan penelitian mengenai penyebab setiap\nkecelakaan pesawat udara yang terjadi di wilayah Republik\nIndonesia.\n(2) Setiap orang dilarang merusak atau menghilangkan bukti-bukti,\nmengubah letak pesawat udara, mengambil bagian pesawat\nudara atau barang lainnya yang tersisa akibat dari  kecelakaan\npesawat udara sebelum dilakukan penelitian terhadap penyebab\nkecelakaan tersebut.\n(3) Ketentuan mengenai penelitian sebagaimana dimaksud dalam\nayat (1) diatur lebih lanjut dengan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H601-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 35\n\nDalam hal pesawat udara asing mengalami kecelakaan di wilayah\nRepublik Indonesia, wakil pemerintah tempat pesawat udara\ndidaftarkan, wakil perusahaan angkutan udara yang bersangkutan, dan\nwakil pabrik pesawat udara yang bersangkutan dapat disertakan\nsebagai peninjau dalam penelitian.\n\nBAB X\nANGKUTAN UDARA"
+   }
+  },
+  {
+   "id": "ID-H601-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 36\n\n(1) Kegiatan angkutan udara niaga yang melayani angkutan di dalam\nnegeri atau ke luar negeri hanya dapat diusahakan oleh badan\nhukum Indonesia yang telah mendapat izin.\n(2) Kegiatan angkutan udara bukan niaga dapat dilakukan oleh\nPemerintah atau badan hukum Indonesia, lembaga tertentu atau\nperorangan warga negara Indonesia yang telah mendapat izin.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n(3) Persyaratan dan tata cara untuk memperoleh izin sebagaimana\ndimaksud dalam ayat (1) dan ayat (2) diatur lebih lanjut dengan\nPeraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H601-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 37\n\n(1) Usaha angkutan udara niaga dilakukan secara berjadwal dan\ntidak berjadwal.\n(2) Ketentuan mengenai penetapan jaringan dan rute penerbangan\ndalam negeri untuk angkutan udara niaga berjadwal sebagaimana\ndimaksud dalam ayat (1) dengan mempertimbangkan\nketerpaduan antar moda angkutan diatur lebih lanjut dengan\nPeraturan Pemerintah.\n(3) Penetapan jaringan dan rute penerbangan international diatur\noleh Pemerintah berdasarkan perjanjian antar negara."
+   }
+  },
+  {
+   "id": "ID-H601-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 38\n\n(1) Pemerintah menyelenggarakan angkutan udara perintis untuk\nmelayani jaringan dan rute penerbangan yang menghubungkan\ndaerah-daerah terpencil dan pedalaman atau yang sukar\nterhubungi oleh moda transportasi lain.\n(2) Penyelenggaraan angkutan udar a perintis sebagaimana dimaksud\ndalam ayat (1) diatur lebih lanjut dengan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H601-A39",
+   "no": 39,
+   "noLabel": {
+    "id": "Pasal 39"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 39\n\nPerusahaan angkutan udara asing di larang melakukan angkutan udara\nniaga di dalam negeri.\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H601-A40",
+   "no": 40,
+   "noLabel": {
+    "id": "Pasal 40"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 40\n\nStruktur dan golongan tarif angkut an udara niaga, ditetapkan oleh\nPemerintah."
+   }
+  },
+  {
+   "id": "ID-H601-A41",
+   "no": 41,
+   "noLabel": {
+    "id": "Pasal 41"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 41\n\n(1) Perusahaan angkutan udara niaga, wajib mengangkut orang\ndan/atau barang, setelah disepakati perjanjian pengangkutan.\n(2) Tiket penumpang atau tiket bagasi merupakan tanda bukti telah\ndisepakati perjanjian pengangkutan dan pembayaran biaya\nangkutan.\n(3) Ketentuan sebagaimana dimaksud  dalam ayat (1) diatur lebih\nlanjut dengan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H601-A42",
+   "no": 42,
+   "noLabel": {
+    "id": "Pasal 42"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 42\n\n(1) Penyandang cacat dan orang sakit berhak memperoleh pelayanan\nberupa perlakuan khusus dalam angkutan udara niaga.\n(2) Ketentuan sebagaimana dimaksud  dalam ayat (1), diatur lebih\nlanjut dengan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H601-A43",
+   "no": 43,
+   "noLabel": {
+    "id": "Pasal 43"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 43\n\n(1) Perusahaan angkutan udara yang melakukan kegiatan angkutan\nudara niaga bertanggungjawab atas :\n a. kematian atau lukanya penumpang yang diangkut;\n b. musnah, hilang atau rusaknya barang yang diangkut;\n c. keterlambatan angkutan penumpang dan/atau barang yang\ndiangkut apabila terbukti hal tersebut merupakan kesalahan\npengangkut.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n(2) Batas jumlah ganti rugi terhadap tanggung jawab pengangkut\nsebagaimana dimaksud dalam ayat (1) diatur lebih lanjut dengan\nPeraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H601-A44",
+   "no": 44,
+   "noLabel": {
+    "id": "Pasal 44"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 44\n\n(1) Setiap orang atau badan hukum yang mengoperasikan pesawat\nudara bertanggungjawab terhadap kerugian yang diderita oleh\npihak ketiga yang diakibatkan ol eh pengoperasian pesawat udara\natau kecelakaan pesawat udara atau jatuhnya benda-benda lain\ndari pesawat udara yang dioperasikan.\n(2) Persyaratan dan tata cara untuk memperoleh ganti rugi dan batas\njumlah ganti rugi sebagaimana dimaksud dalam ayat (1) diatur\nlebih lanjut dengan Peraturan Pemernitah."
+   }
+  },
+  {
+   "id": "ID-H601-A45",
+   "no": 45,
+   "noLabel": {
+    "id": "Pasal 45"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 45\n\nPengangkutan udara yang dilakukan berturut-turut oleh beberapa\nperusahaan angkutan udara, dianggap sebagai satu pengangkutan\nudara, apabila oleh pihak-pihak yang bersangkutan diperjanjikan\nsebagai satu perjanjian pengangkutan udara."
+   }
+  },
+  {
+   "id": "ID-H601-A46",
+   "no": 46,
+   "noLabel": {
+    "id": "Pasal 46"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 46\n\nDalam pengangkutan campuran yang sebagian dilaksanakan melalui\nangkutan udara dan sebagian melalui moda angkutan lainnya,\nketentuan dalam Undang-undang ini hanya berlaku untuk tanggung\njawab dalam rangka pengangkutan udara."
+   }
+  },
+  {
+   "id": "ID-H601-A47",
+   "no": 47,
+   "noLabel": {
+    "id": "Pasal 47"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 47\n\nSetiap orang atau badan hukum ya ng mengoperasikan pesawat udara\nwajib mengasuransikan tanggungjawabnya sebagaimana dimaksud\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\ndalam Pasal 43 dan Pasal 44 ayat (1)."
+   }
+  },
+  {
+   "id": "ID-H601-A48",
+   "no": 48,
+   "noLabel": {
+    "id": "Pasal 48"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 48\n\nSetiap orang atau badan hukum ya ng mengoperasikan pesawat udara\nwajib mengasuransikan awak pesawat udara yang dipekerjakannya."
+   }
+  },
+  {
+   "id": "ID-H601-A49",
+   "no": 49,
+   "noLabel": {
+    "id": "Pasal 49"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 49\n\n(1) Dalam keadaan tertentu pesawat udara Angkatan Bersenjata\nRepublik Indonesia dapat dipergunakan untuk keperluan angkutan\nudara sipil dan sebaliknya.\n(2) Ketentuan sebagaimana dimaksud  dalam ayat (1) diatur lebih\nlanjut dengan Peraturan Pemerintah.\n\nBAB XI\nDAMPAK LINGKUNGAN"
+   }
+  },
+  {
+   "id": "ID-H601-A50",
+   "no": 50,
+   "noLabel": {
+    "id": "Pasal 50"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 50\n\n(1) Untuk mencegah terganggunya kelestarian lingkungan hidup,\nsetiap pesawat udara wajib memenuhi persyaratan ambang batas\ntingkat kebisingan.\n(2) Setiap orang atau badan hukum yang mengoperasikan pesawat\nudara wajib mencegah terganggunya kelestarian lingkungan\nhidup sebagaimana dimaksud dalam ayat (1).\n(3) Ketentuan sebagaimana dimaksud  dalam ayat (1) dan ayat (2)\ndiatur lebih lanjut dengan Peraturan Pemerintah.\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H601-A51",
+   "no": 51,
+   "noLabel": {
+    "id": "Pasal 51"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 51\n\nStandar mengenai tingkat kebisingan  pesawat udara di bandar udara\ndan sekitarnya diatur lebih lanjut dengan Peraturan Pemerintah.\n\n\nBAB XII\nPENYIDIKAN"
+   }
+  },
+  {
+   "id": "ID-H601-A52",
+   "no": 52,
+   "noLabel": {
+    "id": "Pasal 52"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 52\n\n(1) Selain pejabat Polisi Negara Republik Indonesia, pejabat Pegawai\nNegeri Sipil tertentu di lingkungan departemen yang lingkup\ntugas dan tanggung jawabnya di bidang penerbangan, dapat\ndiberi wewenang khusus sebagai penyidik sebagaimana dimaksud\ndalam Undang-undang Nomor 8 Tahun 1981 tentang Hukum Acara\nPidana, untuk melakukan penyidik an tindak pidana di bidang\npenerbangan, kecuali tindak pidana yang diancam hukuman\nsebagaimana dimaksud dalam Pasal 54.\n(2) Penyidik sebagaimana dimaksud dalam ayat (1) berwenang\nuntuk:\n a. melakukan,pemeriksaan atas kebenaran laporan, pengaduan\natau keterangan tentang adanya tindak pidana;\n b. memanggil dan memeriksa saksi dan/atau tersangka;\n c. melakukan penggeledahan, penyegelan dan/atau penyitaan\nalat-alat yang digunakan untuk melakukan tindak pidana;\n d. melakukan pemeriksaan tempat yang diduga digunakan untuk\nmelakukan tindak pidana;\n e. meminta keterangan kepada saksi-saksi dan mengumpulkan\nbarang bukti dari orang dan/atau badan hukum sehubungan\ndengan tindak pidana;\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n f. membuat dan menandatangani berita acara pemeriksaan;\n g. menghentikan penyidikan ap abila tidak terdapat cukup bukti\ntentang adanya tindak pidana.\n(3) Pelaksanaan penyidikan sebaga imana dimaksud dalam ayat (1)\ndan ayat (2), dilakukan sesuai dengan peraturan\nperundang-undangan yang berlaku."
+   }
+  },
+  {
+   "id": "ID-H601-A53",
+   "no": 53,
+   "noLabel": {
+    "id": "Pasal 53"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 53\n\nPenyidikan terhadap pelanggaran wilayah udara termasuk kawasan\nudara terlarang yang mengakibatkan tindakan pemaksaan mendarat\noleh pesawat udara Angkatan Bersenjata Republik Indonesia/Tentara\nNasional Indonesia Angkatan Udara, dan penyelesaian hukumnya\ndilakukan sesuai dengan ketentuan Undang-undang Nomor 8 Tahun\n1981 tentang Hukum Acara Pidana.\n\nBAB XIII\nKETENTUAN PIDANA"
+   }
+  },
+  {
+   "id": "ID-H601-A54",
+   "no": 54,
+   "noLabel": {
+    "id": "Pasal 54"
+   },
+   "chapter": {
+    "id": "BAB XIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 54\n\nBarangsiapa mengoperasikan pesawat udara melalui kawasan udara\nterlarang sebagaimana dimaksud dalam Pasal 6 ayat (2), dipidana\ndengan pidana penjara paling lama 6 (enam) tahun dan denda\nsetinggi-tingginya Rp. 72.000.000,- (tujuh puluh dua juta rupiah)."
+   }
+  },
+  {
+   "id": "ID-H601-A55",
+   "no": 55,
+   "noLabel": {
+    "id": "Pasal 55"
+   },
+   "chapter": {
+    "id": "BAB XIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 55\n\nBarangsiapa mengoperasikan pesawat udara yang tidak mempunyai\ntanda pendaftaran sebagaimana dimaksud dalam Pasal 9 ayat (1),\ndipidana dengan pidana kurungan paling lama 1 (satu) tahun atau\ndenda setinggi-tingginya Rp. 36.000.000,- (tiga puluh enam juta\nrupiah).\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H601-A56",
+   "no": 56,
+   "noLabel": {
+    "id": "Pasal 56"
+   },
+   "chapter": {
+    "id": "BAB XIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 56\n\nBarangsiapa mengoperasikan pesawat terbang dan helikopter yang\ntidak mempunyai tanda kebangsaan sebagaimana dimaksud dalam\nPasal 10 ayat (1), dipidana dengan pidana kurungan paling lama 1\n(satu) tahun atau denda setinggi-tingginya Rp. 36.000.000,- (tiga puluh\nenam juta rupiah)."
+   }
+  },
+  {
+   "id": "ID-H601-A57",
+   "no": 57,
+   "noLabel": {
+    "id": "Pasal 57"
+   },
+   "chapter": {
+    "id": "BAB XIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 57\n\nBarangsiapa memberi atau mengubah tanda-tanda pada pesawat udara\nsipil sedemikian rupa sehingga menyerupai pesawat udara negara\nsebagaimana dimaksud dalam Pasal 11 ayat (1), dipidana dengan\npidana kurungan paling lama 6 (enam) bulan atau denda\nsetinggi-tingginya Rp. 18.000.000,- (delapan belas juta rupiah)."
+   }
+  },
+  {
+   "id": "ID-H601-A58",
+   "no": 58,
+   "noLabel": {
+    "id": "Pasal 58"
+   },
+   "chapter": {
+    "id": "BAB XIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 58\n\nBarangsiapa mengoperasikan pesawat udara asing  dari, ke atau\nmelalui wilayah Republik Indonesia dengan melanggar ketentuan\nsebagaimana dimaksud dalam Pasal 13 ayat (2), dipidana dengan\npidana penjara paling lama 5 (lima) tahun dan denda\nsetinggi-tingginya Rp. 60.000.000,- (enam puluh juta rupiah)."
+   }
+  },
+  {
+   "id": "ID-H601-A59",
+   "no": 59,
+   "noLabel": {
+    "id": "Pasal 59"
+   },
+   "chapter": {
+    "id": "BAB XIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 59\n\nBarangsiapa melakukan pendaratan atau tinggal landas dengan\nmenggunakan pesawat udara tidak di  atau dari bandar udara yang\nditetapkan untuk itu sebagaimana dimaksud dalam Pasal 15 ayat (1),\ndipidana dengan pidana kurungan paling lama 1 (satu) tahun atau\ndenda setinggi-tingginya Rp. 36.000.000,- (tiga puluh enam juta\nrupiah).\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H601-A60",
+   "no": 60,
+   "noLabel": {
+    "id": "Pasal 60"
+   },
+   "chapter": {
+    "id": "BAB XIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 60\n\nBarangsiapa menerbangkan pesawat udara yang dapat membahayakan\nkeselamatan pesawat udara, penumpang dan barang, dan/atau\npenduduk, atau mengganggu keamanan dan ketertiban umum atau\nmerugikan harta benda milik orang lain sebagaimana dimaksud dalam\nPasal 16, dipidana dengan pidana penjara paling lama 5 (lima) tahun\ndan denda setinggi-tingginya Rp . 60.000.000,- (enam puluh juta\nrupiah)."
+   }
+  },
+  {
+   "id": "ID-H601-A61",
+   "no": 61,
+   "noLabel": {
+    "id": "Pasal 61"
+   },
+   "chapter": {
+    "id": "BAB XIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 61\n\nBarangsiapa tanpa izin Pemerintah melakukan perekaman dari udara\ndengan menggunakan pesawat udara sebagaimana dimaksud dalam\nPasal 17 ayat (1), dipidana dengan pidana penjara paling lama 5 (lima\n) tahun dan denda setinggi-tingginya Rp. 60.000.000,- (enam puluh\njuta rupiah)."
+   }
+  },
+  {
+   "id": "ID-H601-A62",
+   "no": 62,
+   "noLabel": {
+    "id": "Pasal 62"
+   },
+   "chapter": {
+    "id": "BAB XIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 62\n\nBarangsiapa melanggar ketentuan sebagaimana dimaksud dalam Pasal\n18 ayat (1), dipidana dengan pidana  kurungan paling lama 1 (satu)\ntahun atau denda setinggi-tingginya Rp. 36.000.000,- (tiga puluh enam\njuta rupiah)."
+   }
+  },
+  {
+   "id": "ID-H601-A63",
+   "no": 63,
+   "noLabel": {
+    "id": "Pasal 63"
+   },
+   "chapter": {
+    "id": "BAB XIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 63\n\nBarangsiapa mengoperasikan pesawat udara yang tidak memiliki\nsertifikat kelaikan udara sebagaim ana dimaksud dalam Pasal 19 ayat\n(1), dipidana dengan pidana kurungan paling lama 1 (satu) tahun atau\ndenda setinggi-tingginya Rp. 36.000.000,- (tiga puluh enam juta\nrupiah).\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H601-A64",
+   "no": 64,
+   "noLabel": {
+    "id": "Pasal 64"
+   },
+   "chapter": {
+    "id": "BAB XIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 64\n\nBarangsiapa mengoperasikan fasilitas dan/atau peralatan penunjang\npenerbangan yang tidak memenuhi persyaratan keamanan dan\nkeselamatan penerbangan sebagaimana dimaksud dalam Pasal 20,\ndipidana dengan pidana kurungan paling lama 6 (enam) bulan atau\ndenda setinggi-tingginya Rp. 18.000.000,- (delapan belas juta rupiah)."
+   }
+  },
+  {
+   "id": "ID-H601-A65",
+   "no": 65,
+   "noLabel": {
+    "id": "Pasal 65"
+   },
+   "chapter": {
+    "id": "BAB XIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 65\n\nBarangsiapa membangun dan/atau mengoperasikan bandar udara\nkhusus tanpa izin sebagaimana dimaksud dalam Pasal 27 ayat (2),\ndipidana dengan pidana kurungan paling lama 1 (satu) tahun atau\ndenda setinggi-tingginya Rp. 100.000.000,- (seratus juta rupiah)."
+   }
+  },
+  {
+   "id": "ID-H601-A66",
+   "no": 66,
+   "noLabel": {
+    "id": "Pasal 66"
+   },
+   "chapter": {
+    "id": "BAB XIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 66\n\nBarangsiapa tanpa hak berada di tempat-tempat tertentu di bandar\nudara, mendirikan bangunan atau melakukan kegiatan lain di dalam\natau di sekitar bandar udara yang dapat membahayakan keamanan\ndan keselamatan penerbangan sebagaimana dimaksud dalam Pasal 28,\ndipidana dengan pidana kurungan paling lama 6 (enam) bulan atau\ndenda setinggi-tingginya Rp. 18.000.000,- (delapan belas juta rupiah)."
+   }
+  },
+  {
+   "id": "ID-H601-A67",
+   "no": 67,
+   "noLabel": {
+    "id": "Pasal 67"
+   },
+   "chapter": {
+    "id": "BAB XIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 67\n\nBarangsiapa tidak membantu usaha pencarian dan pertolongan\nterhadap pesawat udara yang mengalami kecelakaan sebagaimana\ndimaksud dalam Pasal 33 ayat (1) walaupun telah diberitahukan secara\npatut oleh pejabat yang berwenang, dipidana dengan pidana kurungan\npaling lama 1 (satu) tahun atau denda setinggi-tingginya Rp.\n36.000.000,- (tiga puluh enam juta rupiah).\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H601-A68",
+   "no": 68,
+   "noLabel": {
+    "id": "Pasal 68"
+   },
+   "chapter": {
+    "id": "BAB XIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 68\n\n(1) Barangsiapa tanpa hak merusak atau menghilangkan bukti-bukti\natau mengubah letak pesawat udara, atau mengambil bagian\npesawat udara atau barang lainnya yang tersisa akibat dari\nkecelakaan pesawat udara, sebelum dilakukan penelitian\nterhadap penyebab kecelakaan tersebut sebagaimana dimaksud\ndalam Pasal 34 ayat (2), dipidana dengan pidana kurungan paling\nlama 6 (enam) bulan atau denda setinggi-tingginya Rp.\n18.000.000,- (delapan belas juta rupiah).\n(2) Apabila perbuatan sebagaimana dimaksud dalam ayat (1)\ndilakukan dengan tujuan untuk menghilangkan bukti-bukti\nmengenai penyebab kecelakaan, dipidana dengan pidana penjara\npaling lama 5 (lima) tahun da n denda setinggi-tingginya Rp.\n60.000.000,- (enam puluh juta rupiah)."
+   }
+  },
+  {
+   "id": "ID-H601-A69",
+   "no": 69,
+   "noLabel": {
+    "id": "Pasal 69"
+   },
+   "chapter": {
+    "id": "BAB XIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 69\n\nBarangsiapa melakukan kegiatan an gkutan udara niaga atau bukan\nniaga tanpa izin sebagaimana dimaksud dalam Pasal 36 ayat (1) dan\nayat (2), dipidana dengan pidana kurungan paling lama 6 (enam) bulan\natau denda setinggi-tingginya Rp. 18.000.000.- (delapan belas juta\nrupiah)."
+   }
+  },
+  {
+   "id": "ID-H601-A70",
+   "no": 70,
+   "noLabel": {
+    "id": "Pasal 70"
+   },
+   "chapter": {
+    "id": "BAB XIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 70\n\nBarangsiapa mengoperasikan pesawat udara dan tidak\nmengasuransikan tanggungjawabnya sebagaimana dimaksud dalam\nPasal 47, dipidana dengan pidana kurungan paling lama 1 (satu) tahun\natau denda setinggi-tingginya Rp. 36.000.000,- .(tiga puluh enam juta\nrupiah).\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H601-A71",
+   "no": 71,
+   "noLabel": {
+    "id": "Pasal 71"
+   },
+   "chapter": {
+    "id": "BAB XIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 71\n\nBarangsiapa tidak mengasuransikan awak pesawat udara yang\ndipekerjakannya sebagaimana dimaksud dalam Pasal 48 terhadap\nresiko terjadinya kecelakaan pesawat udara, dipidana dengan pidana\nkurungan paling lama 1 (satu) ta hun atau denda setinggi-tingginya Rp.\n36.000.000,- (tiga puluh enam juta rupiah)."
+   }
+  },
+  {
+   "id": "ID-H601-A72",
+   "no": 72,
+   "noLabel": {
+    "id": "Pasal 72"
+   },
+   "chapter": {
+    "id": "BAB XIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 72\n\nBarangsiapa mengoperasikan pesawat udara yang tidak memenuhi\npersyaratan ambang batas tingkat kebisingan sebagaimana dimaksud\ndalam Pasal 50 ayat (1), dipidana dengan pidana kurungan paling  lama\n1 (satu) tahun atau denda setinggi-tingginya Rp. 36.000.000,- (tiga\npuluh enam juta rupiah)."
+   }
+  },
+  {
+   "id": "ID-H601-A73",
+   "no": 73,
+   "noLabel": {
+    "id": "Pasal 73"
+   },
+   "chapter": {
+    "id": "BAB XIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 73\n\n(1) Tindak  pidana sebagaimana dimaksud dalam Pasal 54, Pasal 58,\nPasal 60, Pasal 61, dan Pasal 68 ayat (2) adalah kejahatan.\n(2) Tindak pidana sebagaimana dimaksud dalam Pasal 55, Pasal 56.\nPasal 57, Pasal 59, Pasal 62, Pasa l 63, Pasal 64, Pasal 65, Pasal\n66, Pasal 67, Pasal 69 ayat (1). Pa sal 69, Pasal 70, Pasal 71, dan\nPasal 72 adalah pelanggaran.\n\n\n\n\n\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nBAB XIV\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H601-A74",
+   "no": 74,
+   "noLabel": {
+    "id": "Pasal 74"
+   },
+   "chapter": {
+    "id": "BAB XIV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 74\n\nDengan berlakunya Undang-undang ini maka :\na. Ordonansi Pengangkutan Udara (Luchtvervoer Ordonnantie\nStaatsblad Tahun, 1939 Nomor 100) dinyatakan tetap berlaku\nsepanjang tidak bertentangan dengan Undang-undang ini atau\nbelum diganti dengan Undang-undang yang baru;\nb. semua peraturan pelaksanaan Undang-undang Nomor 93 Tahun 1958\ntentang Penerbangan (Lembaran Negara Tahun 1958 Nomor 159,\nTambahan Lembaran Negara Nomor 1687) dinyatakan tetap berlaku\nsepanjang tidak bertentangan atau belum diganti dengan yang baru\nberdasarkan Undang-undang ini.\n\nBAB XV\nPENUTUP"
+   }
+  },
+  {
+   "id": "ID-H601-A75",
+   "no": 75,
+   "noLabel": {
+    "id": "Pasal 75"
+   },
+   "chapter": {
+    "id": "BAB XV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 75\n\nPada saat mulai berlakunya Undang -undang ini, maka Undang-undang\nNomor 83 Tahun 1958 tentang Penerbangan (Lembaran Negara Tahun\n1958 Nomor 159, Tambahan Lemb aran Negara Nomor 1687),\ndinyatakan tidak berlaku."
+   }
+  },
+  {
+   "id": "ID-H601-A76",
+   "no": 76,
+   "noLabel": {
+    "id": "Pasal 76"
+   },
+   "chapter": {
+    "id": "BAB XV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 76\n\nUndang-undang ini mulai berlaku pada tanggal 17 September 1992.\n\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nUndang-undang ini dengan penempatannya dalam Lembaran Negara\nRepublik Indonesia.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\nDisahkan di Jakarta\npada tanggal 25 Mei 1992\n\nPRESIDEN REPUBLIK INDONESIA\n\n      ttd\n\n            SOEHARTO\n\nDiundangkan di Jakarta\npada tanggal 25 Mei 1992\n\nMENTERI/SEKRETARIS NEGARA\n   REPUBLIK INDONESIA\n\n     ttd\n\n         MOERDIONO\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nPENJELASAN\nATAS\nUNDANG-UNDANG REPUBLIK INDONESIA\nNOMOR 15 TAHUN 1992\nTENTANG\nPENERBANGAN\n\nUMUM\n\nBahwa berkat rahmat Tuhan Yang Maha Esa Negara Republik Indonesia\ntelah dianugerahi sebagai negara kepulauan yang terdiri dari beribu\npulau, terletak memanjang di garis khatulistiwa, di antara dua benua\ndan dua samudera, oleh karena itu mempunyai posisi dan peranan\nyang sangat penting dan strategis dalam hubungan antar bangsa.\n\nUntuk mencapai tujuan pembangunan nasional sebagai pengamalan\nPancasila, transportasi memiliki posisi yang penting dan strategis\ndalam pembangunan bangsa yang berwawasan lingkungan dan hal ini\nharus tercermin pada kebutuhan mobilitas seluruh sektor dan wilayah.\n\nTransportasi merupakan sarana yang sangat penting dan strategis\ndalam memperlancar roda perekonomian, memperkukuh persatuan\ndan kesatuan, mempengaruhi semua aspek kehidupan bangsa dan\nnegara serta mempererat hubungan antar bangsa.\n\nPentingnya transportasi tersebut tercermin pada semakin\nmeningkatnya kebutuhan jasa angkutan bagi mobilitas orang serta\nbarang dari dan ke seluruh pelosok tanah air, bahkan dari dan ke luar\nnegeri.\n\nDi samping itu, transportasi juga berperan sebagai penunjang,\npendorong, dan penggerak bagi pertumbuhan daerah yang berpotensi\nnamun belum berkembang, dalam upaya peningkatan dan pemerataan\npembangunan serta hasil-hasilnya.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\nMenyadari peranan transportasi, maka penyelenggaraan penerbangan\nharus ditata dalam satu kesatuan sistem transportasi nasional secara\nterpadu dan mampu mewujudkan penyediaan jasa transportasi yang\nseimbang dengan tingkat kebutuhan dan tersedianya pelayanan\nangkutan yang selamat, aman, cepat, lancar, tertib, teratur, nyaman,\ndan efisien dengan biaya yang wajar serta terjangkau oleh daya beli\nmasyarakat.\n\nPenerbangan yang mempunyai karakteristik dan keunggulan tersendiri\nperlu dikembangkan dengan memperhatikan sifatnya yang padat\nmodal sehingga mampu meningkatkan pelayanan yang lebih luas baik\ndi dalam negeri maupun ke luar negeri.\n\nPengembangan penerbangan yang ditata dalam satu kesatuan sistem,\ndilakukan dengan mengintegrasikan dan mendinamisasikan\nunsur-unsurnya yang terdiri dari pr asarana dan sarana penerbangan,\nperaturan-peraturan, prosedur dan metoda sedemikian rupa sehingga\nterwujud suatu totalitas yang utuh,  berdayaguna, berhasilguna serta\ndapat diterapkan.\n\nMengingat penting dan strategisnya peranan penerbangan yang\nmenguasai hajat hidup orang banyak, maka penerbangan dikuasai oleh\nnegara yang pembinaannya dilakukan oleh Pemerintah.\n\nPenyelenggaraan penerbangan perlu diselenggarakan secara\nberkesinambungan dan terus ditingkatkan agar lebih luas daya jangkau\ndan pelayanannya kepada masyarakat dengan memperhatikan\nsebesar-besar kepentingan umum dan kemampuan masyarakat,\nkelestarian lingkungan, koordinasi antar wewenang pusat dan daerah\nserta antar instansi, sektor, dan antar unsur terkait serta pertahanan\ndan keamanan negara, sekaligus dalam rangka mewujudkan sistem\ntransportasi nasional yang andal dan terpadu.\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nKeseluruhan hal tersebut perlu dicerminkan dalam satu\nUndang-undang yang utuh.\n\nDalam Undang-undang ini juga diatur mengenai hak, kewajiban serta\ntanggung jawab para penyedia jasa dan para pengguna jasa, dan\ntanggung jawab penyedia jasa terhadap kerugian pihak ketiga sebagai\nakibat dari penyelenggaraan penerbangan serta pembebanan hipotek\nterhadap pesawat terbang dan helikopter yang telah memperoleh\ntanda pendaftaran Indonesia.\n\nDi samping itu dalam rangka pembangunan hukum nasional serta untuk\nlebih memantapkan perwujudan kepastian hukum, Undang-undang\nNomor 83 Tahun 1958 tentang Penerbangan, perlu diganti dengan\nUndang-undang ini, karena tidak sesuai lagi dengan perkembangan\nzaman, kemajuan ilmu pengetahuan dan teknologi, dan belum tertata\ndalam satu kesatuan sistem yang merupakan bagian dari transportasi\nsecara keseluruhan.\n\nMengingat Indonesia sebagai salah satu negara anggota Organisasi\nPenerbangan Sipil Internasional (International Civil Aviation\nOrganization, disingkat ICAO), maka ketentuan-ketentuan\npenerbangan internasional sebagaimana tercantum dalam Konvensi\nChicago 1944 beserta Annexes dan dokumen-dokumen teknis\noperasionalnya serta konvensi-konvensi internasional terkait lainnya,\nmerupakan ketentuan-ketentuan yang harus ditaati sesuai dengan\nkepentingan nasional.\n\nDalam Undang-undang ini diatur hal-hal yang bersifat pokok,\nsedangkan yang bersifat teknis dan operasional diatur dalam Peraturan\nPemerintah dan peraturan pelaksanaan lainnya.\n\nPASAL DEMI PASAL\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nPasal 1\n Angka 1\n  C u k u p  j e l a s\n Angka 2\n  C u k u p  j e l a s\n Angka 3\n  Tidak termasuk pengertian pesawat udara adalah alat-alat yang\ndapat terbang bukan oleh daya angkat dari reaksi udara,\nmelainkan karena reaksi udara terhadap permukaan bumi,\nmisalnya roket.\n Angka 4\n  C u k u p  j e l a s\n Angka 5\n  C u k u p  j e l a s\n Angka 6\n  C u k u p  j e l a s\n Angka 7\n  C u k u p  j e l a s\n Angka 8\n  C u k u p  j e l a s\n Angka 9\n  C u k u p  j e l a s\n Angka 10\n  C u k u p  j e l a s\n Angka 11\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n  Yang dimaksud dengan lapangan terbang dalam ketentuan ini\nadalah kawasan di daratan atau perairan yang dipergunakan\nuntuk lepas landas dan/atau pendaratan pesawat udara.\n Angka 12\n  C u k u p  j e l a s\n Angka 13\n  C u k u p  j e l a s\n Angka 14\n  C u k u p  j e l a s\n Angka 15\n  C u k u p  j e l a s\n\nPasal 2\n Dalam ketentuan pasal ini yang dimaksud dengan :\n a. asas manfaat yaitu, bahwa penerbangan harus dapat memberikan\nmanfaat yang sebesar-besarnya bagi kemanusiaan, peningkatan\nkesejahteraan rakyat dan pengembangan perikehidupan yang\nberkeseimbangan bagi warga negara, serta upaya peningkatan\npertahanan dan keamanan negara;\n b. asas usaha bersama dan kekeluargaan yaitu, bahwa\npenyelenggaraan usaha di bidang penerbangan dilaksanakan\nuntuk mencapai cita-cita dan aspirasi bangsa yang dalam\nkegiatannya dapat dilakukan oleh seluruh lapisan masyarakat dan\ndijiwai oleh semangat kekeluargaan;\n c. asas adil dan merata yaitu,  bahwa penyelenggaraan penerbangan\nharus dapat memberikan pelayanan yang adil dan merata kepada\nsegenap lapisan masyarakat dengan biaya yang terjangkau oleh\nmasyarakat;\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n d. asas keseimbangan yaitu, bahwa penerbangan harus\ndiselenggarakan sedemikian rupa sehingga terdapat\nkeseimbangan yang serasi antara sarana dan prasarana, antara\nkepentingan pengguna dan penyedia jasa, antara kepentingan\nindividu dan masyarakat, serta antara kepentingan nasional dan\ninternasional;\n e. asas kepentingan umum yaitu, bahwa penyelenggaraan\npenerbangan harus mengutamakan kepentingan pelayanan umum\nbagi masyarakat luas;\n f. asas keterpaduan yaitu, bahwa penerbangan harus merupakan\nkesatuan yang bulat dan utuh, terpadu, saling menunjang, dan\nsaling mengisi baik intra maupun antar moda transportasi;\n g. asas kesadaran hukum yaitu, bahwa mewajibkan kepada\npemerintah untuk menegakkan dan menjamin kepastian hukum\nserta mewajibkan kepada setiap warga negara Indonesia untuk\nselalu sadar dan taat kepada hukum dalam penyelenggaraan\npenerbangan;\n h. asas percaya pada diri send iri yaitu, bahwa penerbangan harus\nberlandaskan pada kepercayaan akan kemampuan dan kekuatan\nsendiri, serta bersendikan kepada kepribadian bangsa.\n\nPasal 3\n Cukup jelas\n\nPasal 4\n Sebagai negara berdaulat, Republik Indonesia memiliki kedaulatan\npenuh dan utuh di wilayah udara Repu blik Indonesia, sesuai dengan\nketentuan Konvensi Chicago 1944 tentang Penerbangan Sipil\nInternasional.\n Ketentuan dalam pasal ini hanya menegaskan mengenai\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nkewenangan dan tanggung jawab negara Republik Indonesia untuk\nmengatur penggunaan wilayah udara yang merupakan bagian dari\nwilayah dirgantara Indonesia, sedangkan mengenai kedaulatan atas\nwilayah Republik Indonesia secara menyeluruh tetap berlaku\nketentuan sebagaimana diatur dalam Undang-undang Nomor 20\nTahun 1982 tentang Ketentuan Pokok Pertahanan Keamanan Negara\nRepublik Indonesia.\n\nPasal 5\n Wilayah udara yang berupa ruang udara di atas wilayah daratan dan\nperairan Republik Indonesia merupakan kekayaan nasional sehingga\nharus dimanfaatkan bagi sebesar-besar kepentingan rakyat, bangsa,\ndan negara.\n\nPasal 6\n Ayat (1)\n  Kewenangan menetapkan kawasan udara terlarang merupakan\nkewenangan dari setiap negara berdaulat untuk mengatur\npenggunaan wilayah udaranya, dalam rangka pertahanan\nkeamanan negara dan keselamatan penerbangan.\n  Kawasan udara terlarang dalam ketentuan ini mengandung dua\npengertian yaitu :\n  a. kawasan udara terlarang yang larangannya bersifat tetap\n(prohibited area) karena pertimbangan pertahanan dan\nkeamanan negara serta keselamatan penerbangan;\n  b. kawasan udara terlarang yang larangannya bersifat terbatas\n(restricted area) karena pertimbangan pertahanan dan\nkeamanan atau keselamatan penerbangan atau kepentingan\numum misalnya pembatasan ketinggian terbang, pembatasan\nwaktu operasi, dan lain-lain.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n Ayat (2)\n  Penegakan hukum terhadap ketentuan ini dilakukan dengan\nmenggunakan pesawat udara Angkatan Bersenjata Republik\nIndonesia oleh instansi yang bertanggung jawab di bidang\npertahanan dan keamanan.\n Ayat (3)\n  C u k u p  j e l a s\n\nPasal 7\n Ayat (1)\n  Pengertian dikuasai oleh negara adalah bahwa negara\nmempunyai hak penguasaan atas penyelenggaraan penerbangan\nyang perwujudannya meliputi aspek-aspek pengaturan,\npengendalian, dan pengawasan.\n  Dalam aspek pengaturan, tercakup perumusan dan penentuan\nkebijaksanaan umum maupun teknis yang antara lain berupa\npersyaratan keselamatan dan perizinan.\n  Aspek pengendalian dilakukan baik di bidang pembangunan\nmaupun operasi berupa pengarahan dan bimbingan. Sedangkan\naspek pengawasan dilakukan terhadap penyelenggaraan\npenerbangan.\n Ayat (2)\n  C u k u p  j e l a s\n Ayat (3)\n  Dalam pengertian memperhatikan seluruh aspek kehidupan\nmasyarakat yang meliputi aspek po litik, ekonomi, sosial budaya,\npertahanan dan keamanan, termasuk memperhatikan lingkungan\nhidup, tata ruang, energi, perkembangan ilmu pengetahuan dan\nteknologi, hubungan internasional, serta pengembangan potensi\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nyang ada dalam masyarakat dalam rangka meningkatkan\nkemampuan penerbangan nasional yang lebih luas.\n Ayat (4)\n  C u k u p  j e l a s\n\nPasal 8\n Yang dimaksud dengan mempunyai keandalan adalah kondisi\nprasarana yang siap pakai dan secara  teknis laik untuk dioperasikan\nserta sarana yang laik udara.\n\nPasal 9\n Ayat (1)\n  Yang dimaksud dengan tanda pendaftaran dalam ketentuan ini\nadalah tanda pendaftaran Indonesia atau asing.\n  Pengertian dioperasikan dala m ayat ini adalah dipakai untuk\nterbang.\n Ayat (2)\n  H u r u f  a\n   C u k u p  j e l a s\n  H u r u f  b\n   Sepanjang kebutuhan angkutan udara di Indonesia belum\nterpenuhi, pesawat udara yang dimiliki oleh warga negara\nasing atau badan hukum asing, dapat didaftarkan di Indonesia\napabila memenuhi ketentuan dalam ayat ini.\n  H u r u f  c\n   C u k u p  j e l a s\n  H u r u f  d\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n   Yang dimaksud dengan lembaga tertentu antara lain lembaga\nsosial, keagamaan, pendidikan, dan olah raga. Sedangkan yang\ndimaksud dengan izin Pemerintah adalah izin untuk melakukan\nkegiatan tertentu di Indonesia dan izin untuk dapat\nmenggunakan pesawat udara dalam rangka menunjang\nkegiatannya.\n Ayat (3)\n  Sesuai dengan kebutuhan dan perkembangan keadaan, dalam\nPeraturan Pemerintah dapat diatur mengenai bentuk-bentuk\nperjanjian lainnya yang dapat dipergunakan sebagai dasar untuk\nmendaftarkan di Indonesia, pesawat udara milik warga negara\nasing atau badan hukum asing, dengan tetap memperhatikan\nketentuan dalam Undang-undang ini.\n\nPasal 10\n Ayat (1)\n  C u k u p  j e l a s\n Ayat (2)\n  C u k u p  j e l a s\n Ayat (3)\n  Yang dimaksud dengan jenis-jenis pesawat terbang tertentu yang\nmerupakan hasil pengembangan teknologi antara lain adalah\npesawat terbang sangat ringan (ultra light).\n  Mengingat pengoperasian ultra light sangat terbatas dan\nterhadap ultra light tidak berlaku ketentuan Konvensi Chicago\n1944, maka tidak diwajibkan untuk memiliki tanda kebangsaan.\n\nPasal 11\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n Ayat (1)\n  C u k u p  j e l a s\n Ayat (2)\n  Berdasarkan pertimbangan keamanan dan ketertiban, ketentuan\ndalam pasal ini diberlakukan pula terhadap jenis-jenis pesawat\nudara tertentu yang ditetapkan oleh Pemerintah.\n\nPasal 12\n Ayat (1)\n  Terhadap hipotek pesawat terbang dan helikopter sebagaimana\ndimaksud dalam ketentuan ini berlaku ketentuan-ketentuan\nhipotek dalam Kitab Undang-undang Hukum Perdata Indonesia.\n  Ketentuan dalam pasal ini tidak menutup pembebanan pesawat\nterbang dan helikopter dengan hak jaminan lain sesuai dengan\nperaturan perundang-undangan yang berlaku.\n Ayat (2)\n  C u k u p  j e l a s\n Ayat (3)\n  C u k u p  j e l a s\n\nPasal 13\n Ayat (1)\n  Yang dimaksud dengan kata digunakan dalam ketentuan ini\nadalah dioperasikan.\n Ayat (2)\n  C u k u p  j e l a s\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n Ayat (3)\n  C u k u p  j e l a s\n Ayat (4)\n  C u k u p  j e l a s\n\nPasal 14\n Ketentuan ini dimaksudkan untuk mencapai optimalisasi dalam\npengoperasian pesawat udara, melalui pengaturan jenis dan\npenggunaan pesawat udara pada rute atau daerah operasi tertentu,\ndengan memperhatikan perkembangan industri pesawat udara\ndalam negeri dan perkembangan angkutan udara nasional.\n Dalam Peraturan Pemerintah diatur jenis dan penggunaan pesawat\nudara sipil untuk angkutan udara ni aga dan bukan niaga, serta jenis\ndan penggunaan pesawat udara negara untuk Angkatan Bersenjata\nRepublik Indonesia, Bea dan Cukai, dan lain-lain instansi.\n\nPasal 15\n Ayat (1)\n  C u k u p  j e l a s\n Ayat (2)\n  Yang dimaksud dalam keadaan darurat adalah suatu keadaan\nyang memaksa, sehingga harus dilakukan pendaratan di luar\nbandar udara yang telah ditetapkan, misalnya karena terjadi\nkerusakan mesin atau kehabisan bahan bakar atau cuaca buruk\nyang dapat membahayakan keselamatan penerbangan apabila\npenerbangan tetap dilanjutkan.\n Ayat (3)\n  C u k u p  j e l a s\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\nPasal 16\n Kegiatan yang membahayakan tersebut antara lain terbang di luar\njalur yang ditentukan, terbang tidak membawa peralatan\nkeselamatan, terbang di atas kawasan udara terlarang, dan juga\ndapat membahayakan kelestarian lingkungan hidup.\n\nPasal 17\n Ayat (1)\n  Ketentuan ini dimaksudkan untuk mencegah dilakukannya\nkegiatan perekaman dengan menggunakan pesawat udara yang\ndilengkapi dengan alat-alat perekam dalam bentuk apapun,\nsehingga dapat membahayakan kepentingan pertahanan dan\nkeamanan negara.\n Ayat (2)\n  C u k u p  j e l a s\n\nPasal 18\n Ayat (1)\n  Yang dimaksud dengan personil penerbangan adalah orang yang\nmempunyai kecakapan tertentu yang tugasnya secara langsung\nmempengaruhi keselamatan penerbangan.\n Ayat (2)\n  Berdasarkan pertimbangan keselamatan penerbangan, sertifikat\nkecakapan sebagaimana dimaksud dalam ketentuan ini\nditetapkan batas waktunya, dan untuk memperoleh\nperpanjangan masa berlakunya dilakukan kegiatan antara lain\npengujian kecakapan dan pengujian kesehatan.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n Ayat (3)\n  C u k u p  j e l a s\n\nPasal 19\n Ayat (1)\n  C u k u p  j e l a s\n Ayat (2)\n  C u k u p  j e l a s\n Ayat (3)\n  C u k u p  j e l a s\n\nPasal 20\n Fasilitas penerbangan ialah peralatan-peralatan yang dibutuhkan\nlangsung untuk navigasi penerbangan antara lain peralatan sistem\npendaratan, sistem komunikasi, meteorologi sedangkan peralatan\npenunjang berupa peralatan yang tidak secara langsung\nmempengaruhi keamanan dan keselamatan penerbangan antara lain\nperalatan perbengkelan.\n\nPasal 21\n Ayat (1)\n  Ketentuan ini merupakan persyaratan yang harus diperhatikan\ndalam rangka keselamatan penerbangan.\n Ayat (2)\n  C u k u p  j e l a s\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nPasal 22\n Ayat (1)\n  Pelayanan navigasi penerbangan (air navigation) dalam ketentuan\nini antara lain terdiri dari pelayanan lalu lintas udara,\nmeteorologi, komunikasi penerbangan, dan fasilitas bantu\nnavigasi penerbangan.\n Ayat (2)\n  Pendapatan yang diperoleh sebagai hasil pemberian pelayanan\nnavigasi penerbangan sebagaimana dimaksud dalam ketentuan\nini, dikelola sesuai dengan peraturan perundang-undangan yang\nberlaku.\n Ayat (3)\n  C u k u p  j e l a s\n\nPasal 23\n Ayat (1)\n  Yang dimaksud dengan selama terbang dalam ketentuan ini\nadalah sejak saat semua pintu luar pesawat udara ditutup\nsetelah naiknya penumpang (embarkasi) sampai saat pintu dibuka\nuntuk penurunan penumpang (debarkasi).\n  Kewenangan yang diatur dalam Undang-undang ini untuk\nmemberi landasan hukum bagi tindakan yang diambil oleh kapten\npenerbang dalam rangka keamanan dan keselamatan\npenerbangan.\n Ayat (2)\n  C u k u p  j e l a s\n\nPasal 24\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n Cukup jelas\n\nPasal 25\n Ayat (1)\n  C u k u p  j e l a s\n Ayat (2)\n  C u k u p  j e l a s\n Ayat (3)\n  C u k u p  j e l a s\n\nPasal 26\n Ayat (1)\n  Penyelenggaraan bandar udara sebagaimana dimaksud dalam\nketentuan ini meliputi kegiatan perencanaan, pembangunan,\npengoperasian, perawatan, dan pengawasan serta pengendalian.\n Ayat (2)\n  C u k u p  j e l a s\n Ayat (3)\n  Fasilitas penunjang bandar udara adalah fasilitas yang diperlukan\nuntuk memperlancar arus lalu lintas penumpang, kargo, dan pos\ndi bandar udara, antara lain hotel, jasaboga, toko, gudang,\nhanggar, parkir, dan jasa perawatan pada umumnya.\n Ayat (4)\n  Dalam Peraturan Pemerintah diatur pula ketentuan mengenai\npenggunaan bersama suatu bandar udara atau pangkalan udara\nuntuk penerbangan sipil dan penerbangan Angkatan Bersenjata\nRepublik Indonesia (enclave sipil dan enclave militer).\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\nPasal 27\n Ayat (1)\n  Yang dimaksud dengan bandar udara khusus adalah bandar udara\nyang penggunaannya hanya untuk menunjang kegiatan tertentu\ndan tidak dipergunakan untuk umum.\n Ayat (2)\n  Pengawasan dan pengendalian terhadap.bandar udara khusus\ntetap dilaksanakan oleh Pemerintah.\n Ayat (3)\n  Dalam Peraturan Pemerintah diatur pula ketentuan mengenai\nkemungkinan penggunaan bandar udara khusus untuk umum.\n\nPasal 28\n Pengertian berada di bandar udara dalam ketentuan ini adalah\nberada tanpa izin di daerah-daerah tertentu di bandar udara yang\ndapat membahayakan keamanan dan keselamatan penerbangan.\n Yang dimaksud dengan bangunan antara lain adalah bangunan yang\nsecara pisik membahayakan operasi lalu lintas udara, yang dapat\nberupa gedung, tumpukan tanah, tumpukan bahan bangunan, atau\nbenda-benda galian baik bersifat sementara ataupun bersifat tetap.\n Ketentuan ini juga berlaku terhadap bangunan yang sebelumnya\ntelah didirikan atau tanaman yang kemudian ternyata dapat\nmembahayakan keamanan dan keselamatan penerbangan.\n Yang dimaksud dengan kegiatan-kegiatan lain dalam ketentuan ini\nantara lain adalah kegiatan yang dapat mengganggu komunikasi\npenerbangan dan navigasi penerbangan.\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nPasal 29\n Cukup jelas\n\nPasal 30\n Ayat (1)\n  Tanggung jawab terhadap keamanan dan keselamatan\npenerbangan serta kelancaran pelayanan termasuk keamanan\ndan keselamatan calon penumpang dan penumpang selama\nberada di sisi udara dari bandar udara yang bersangkutan.\n Ayat (2)\n  C u k u p  j e l a s\n\nPasal 31\n Dengan berpedoman pada struktur dan golongan tarif yang\nditetapkan oleh Pemerintah. penyelenggara bandar udara\nmenetapkan tarif dengan memperhatikan kelangsungan dan\npengembangan usaha penyelenggara bandar udara dalam rangka\nmeningkatkan mutu pelayanan.\n\nPasal 32\n Pengertian pencarian dan pertolongan (search and rescue) dalam\nketentuan ini adalah pencarian terhadap pesawat udara dan\nmanusia yang menjadi korban, sedangkan pertolongan hanya\nterhadap manusia.\n\nPasal 33\n Ayat (1)\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n  C u k u p  j e l a s\n Ayat (2)\n  C u k u p  j e l a s\n\nPasal 34\n Ayat (1)\n  Penelitian mengenai penyebab kecelakaan sebagaimana\ndimaksud dalam ketentuan ini, dilakukan oleh suatu panitia yang\nanggotanya terdiri dari para ahli di bidang penerbangan dan\nbidang-bidang lain sesuai kebutuhan.\n  Semua keterangan atau data yang ditemukan dari kegiatan\npenelitian tidak dimaksudkan untuk mempertanggungjawabkan\nkesalahan pada pihak-pihak yang terkait, melainkan untuk\nmencegah jangan sampai terjadi lagi kecelakaan pesawat udara\ndengan penyebab yang sama.\n Ayat (2)\n  Untuk keperluan penyelamatan para korban dan keselamatan\npenerbangan serta keselamatan umum yang disebabkan oleh\nkecelakaan dimaksud para petugas yang berwenang dapat\nmelakukan tindakan merusak, mengubah letak pesawat udara\natau mengambil bagian pesawat udara dan lain-lain sebelum\ndilakukan penelitian penyebab kecelakaan pesawat udara\ntersebut.\n Ayat (3)\n  C u k u p  j e l a s\n\nPasal 35\n Kata dapat sebagaimana dimaksud dalam ketentuan ini mengandung\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\npengertian bahwa bukan merupakan suatu kewajiban untuk\nmengikutsertakan wakil pemerintah tempat pesawat udara\ndidaftarkan dan/atau wakil perusahaan angkutan udara dan/atau\nwakil pabrik pesawat udara yang bersangkutan sebagai peninjau\ndalam penelitian.\n Pengertian peninjau dalam ketentuan ini adalah pengamat\n(observer) dalam pelaksanaan penelitian.\n\nPasal 36\n Ayat (1)\n  Yang dimaksud dengan badan hukum Indonesia adalah badan\nusaha milik negara, badan usaha milik swasta, dan koperasi.\n Ayat (2)\n  Kegiatan angkutan udara bukan niaga yang dilaksanakan oleh\nbadan hukum Indonesia atau perorangan adalah yang kegiatan\npokoknya bukan usaha angkutan udara dan hanya untuk\nmendukung kegiatan pokok tersebut, misalnya perusahaan\nperkebunan, perusahaan minyak, dan lain sebagainya.\n Ayat (3)\n  C u k u p  j e l a s\n\nPasal 37\n Ayat (1)\n  Yang dimaksud dengan secara berjadwal adalah pelayanan\nangkutan udara niaga dalam rute penerbangan yang dilakukan\nsecara tetap dan teratur, sedangkan yang dimaksud dengan\nsecara tidak berjadwal adalah pelayanan angkutan udara niaga\nyang tidak terikat pada rute serta jadwal penerbangan yang\ntetap dan teratur.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n Ayat (2)\n  Penetapan jaringan dan rute penerbangan bertujuan di samping\nuntuk kepentingan kelangsungan hidup perusahaan angkutan\nudara juga untuk menjamin tersedianya jasa angkutan udara\nyang diperlukan oleh pengguna jasa ke seluruh pelosok wilayah\nRepublik Indonesia, termasuk jaringan dan rute angkutan udara\nperintis.\n Ayat (3)\n  Penentuan jaringan dan rute penerbangan internasional\ndibicarakan dalam negosiasi perjanjian antar negara dengan\nmemanfaatkan wilayah udara nasional bagi sebesar-besar\nkemakmuran rakyat.\n  Delegasi Indonesia dalam negosiasi terdiri dari instansi\npemerintah yang terkait dan perusahaan angkutan udara yang\nakan melayani rute tersebut.\n\nPasal 38\n Ayat (1)\n  Guna membuka isolasi dan mengembangkan semua daerah dan\npulau terpencil, angkutan udara perintis diselenggarakan oleh\npemerintah dengan mengikutsertakan angkutan udara niaga\nnasional yang dapat diberi kemudahan tertentu.\n Ayat (2)\n  C u k u p  j e l a s\n\nPasal 39\n Cukup jelas\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nPasal 40\n Dalam penetapan struktur dan golo ngan tarif angkutan udara niaga\ndomestik, Pemerintah memperhatikan kepentingan masyarakat dan\nkepentingan penyelenggara angkutan udara niaga.\n Pemerintah menetapkan tarif yang berorientasi kepada kepentingan\ndan kemampuan masyarakat luas, termasuk tarif untuk angkutan\nudara perintis.\n Dengan berpedoman pada struktur dan golongan tarif tersebut\npenyelenggara angkutan udara niaga menetapkan tarif yang\nberorientasi kepada kelangsungan dan pengembangan usaha\nangkutan udara niaga dalam rangka meningkatkan mutu pelayanan.\n Tarif angkutan udara niaga internasional ditetapkan berdasarkan\nperjanjian internasional.\n\nPasal 41\n Ayat (1)\n  Ketentuan wajib angkut ini dimaksudkan agar perusahaan\nangkutan udara niaga tidak melakukan perbedaan perlakuan\nterhadap pengguna jasa angkutan, sepanjang yang bersangkutan\ntelah memenuhi persyaratan sesuai perjanjian pengangkutan\nyang disepakati.\n Ayat (2)\n  C u k u p  j e l a s\n Ayat (3)\n  C u k u p  j e l a s\n\nPasal 42\n Ayat (1)\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n  Pelayanan khusus bagi penumpang yang menyandang cacat atau\norang sakit dimaksudkan agar mereka juga dapat menikmati\npelayanan angkutan udara dengan baik.\n  Yang dimaksud pelayanan khusus dalam ketentuan ini dapat\nberupa pembuatan jalan khusus di bandar udara dan sarana\nkhusus untuk naik ke atau turun dari pesawat udara, atau\npenyediaan ruang yang disediakan khusus bagi penempatan kursi\nroda atau sarana bantu bagi or ang sakit yang pengangkutannya\nmengharuskan dalam posisi tidur.\n  Yang dimaksud dengan cacat dalam ketentuan ini misalnya\npenumpang yang menggunakan kursi roda karena lumpuh, cacat\nkaki, tuna netra, dan sebagainya.\n  Tidak termasuk dalam pengertian orang sakit dalam ketentuan ini\nadalah orang yang menderita peny akit menular sesuai peraturan\nperundang-undangan yang berlaku.\n Ayat (2)\n  C u k u p  j e l a s\n\nPasal 43\n Ayat (1)\n  H u r u f  a\n   Tanggung jawab perusahaan angkutan udara sebagaimana\ndimaksud dalam ketentuan ini adalah apabila kematian atau\nlukanya penumpang diakibatkan karena kecelakaan selama\ndalam pengangkutan udara dan terjadi di dalam pesawat\nudara atau kecelakaan pada s aat naik ke atau turun dari\npesawat udara.\n   Termasuk dalam pengertian lukanya penumpang adalah cacat\nfisik dan/atau cacat mental.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n  H u r u f  b\n   C u k u p  j e l a s\n  H u r u f  c\n   C u k u p  j e l a s\n Ayat (2)\n  Ketentuan ini dimaksudkan untuk menyempurnakan balas ganti\nrugi sebagaimana diatur dalam Pasal 30 Ordonansi Pengangkutan\nUdara (Luchtvervoer Ordonnantie Staatsblad 1939 No. 100).\n  Besarnya ganti rugi harus selalu disesuaikan dengan\nperkembangan nilai mata uang.\n\nPasal 44\n Ayat (1)\n  Yang dimaksud pihak ketiga adalah orang atau badan hukum yang\ntidak ada kaitannya dengan pengoperasian pesawat udara tetapi\nmeninggal atau luka atau menderita kerugian akibat\npengoperasian pesawat udara.\n Ayat (2)\n  Penetapan batas ganti rugi harus selalu disesuaikan dengan\nperkembangan nilai mata uang.\n\n\nPasal 45\n Dalam hal pengangkutan udara dilakukan sebagaimana dimaksud\ndalam ketentuan ini, maka perusahaan angkutan udara yang\nmelakukan perjanjian angkutan dengan pengguna jasa, bertanggung\njawab terhadap kerugian yang diderita oleh pengguna jasa,\nmeskipun pelaksanaannya dilakukan oleh beberapa perusahaan\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nangkutan udara.\n Ketentuan ini dimaksudkan untuk melindungi kepentingan pengguna\njasa angkutan udara.\n\nPasal 46\n Ketentuan ini dimaksudkan untuk memberikan penegasan bahwa\ndalam hal pengangkutan campuran, Undang-undang ini hanya\nmengatur ketentuan mengenai tanggung jawab pengangkut udara,\napabila kegiatan angkutan tersebut dilakukan dalam satu dokumen\nangkutan udara, sedangkan ketentuan mengenai tanggung jawab\nyang menyangkut moda angkutan  lainnya diatur berdasarkan\nketentuan mengenai tanggungjawab sesuai peraturan\nperundang-undangan yang berlaku.\n\nPasal 47\n Cukup jelas\n\nPasal 48\n Cukup jelas\n\nPasal 49\n Ayat (1)\n  Yang dimaksud keadaan tertentu yaitu apabila Pemerintah\nmemerlukan transportasi untuk angkutan udara, sedangkan yang\ntersedia hanya pesawat udara Angkatan Bersenjata Republik\nIndonesia, maka Pemerintah dapat mengubah pesawat udara\nAngkatan Bersenjata Republik Indonesia menjadi pesawat udara\nsipil sesuai dengan persyaratan pesawat udara sipil.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n  Begitu juga sebaliknya apabila Pemerintah memerlukan pesawat\nudara untuk transportasi angkutan udara Angkatan Bersenjata\nRepublik Indonesia, sedangkan yang tersedia hanya pesawat\nudara sipil maka pesawat udara sipil dapat diubah menjadi\npesawat udara Angkatan Bersenjata Republik Indonesia sesuai\ndengan persyaratan pesawat udara Angkatan Bersenjata Republik\nIndonesia.\n  Sedangkan yang dimaksudkan dengan angkutan udara sipil adalah\nangkutan udara niaga atau bukan niaga.\n Ayat (2)\n  C u k u p  j e l a s\n\nPasal 50\n Ayat (1)\n  C u k u p  j e l a s\n Ayat (2)\n  C u k u p  j e l a s\n Ayat (3)\n  C u k u p  j e l a s\n\nPasal 51\n Ketentuan ini bertujuan untuk mencegah atau setidak-tidaknya\nmengurangi sejauh mungkin gangguan yang diderita oleh\nmasyarakat yang ditimbulkan oleh  kebisingan bunyi mesin pesawat\nudara, baik pada waktu terbang,  mendarat, tinggal landas maupun\npada saat menghidupkan mesinnya di bandar udara.\n\nPasal 52\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n Ayat (1)\n  Penyidikan pelanggaran terhadap Undang-undang Penerbangan\nmemerlukan keahlian dalam bidang penerbangan sehingga perlu\nadanya petugas khusus untuk melakukan penyidikan di samping\npegawai yang biasa bertugas menyidik tindak pidana.\n Ayat (2)\n  C u k u p  j e l a s\n Ayat (3)\n  C u k u p  j e l a s\n\nPasal 53\n Cukup jelas\n\nPasal 54\n Cukup jelas\n\nPasal 55\n Cukup jelas\n\nPasal 56\n Cukup jelas\n\nPasal 57\n Cukup jelas\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nPasal 58\n Cukup jelas\n\nPasal 59\n Cukup jelas\n\nPasal 60\n Cukup jelas\n\nPasal 61\n Cukup jelas\n\nPasal 62\n Cukup jelas\n\nPasal 63\n Cukup jelas\n\nPasal 64\n Cukup jelas\n\nPasal 65\n Cukup jelas\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nPasal 66\n Cukup jelas\n\nPasal 67\n Cukup jelas\n\nPasal 68\n Ayat (1)\n  Yang dimaksud dengan merusak atau menghilangkan bukti-bukti,\nmengubah letak pesawat udara, mengambil bagian pesawat\nudara atau barang lainnya yang tersisa akibat kecelakaan\npesawat udara adalah setiap tindakan yang mengakibatkan\nsulitnya penelitian terhadap penyebab kecelakaan pesawat\nudara.\n Ayat (2)\n  C u k u p  j e l a s\n\nPasal 69\n Cukup jelas\n\nPasal 70\n Cukup jelas\n\nPasal 71\n Cukup jelas\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nPasal 72\n Cukup jelas\n\nPasal 73\n Ayat (1)\n  C u k u p  j e l a s\n Ayat (2)\n  C u k u p  j e l a s\n\nPasal 74\n Huruf a\n  Ketentuan ini dimaksudkan untuk menegaskan bahwa ordonansi\nPengangkutan Udara (Luchtvervoer Ordonnantie Staatsblad 1939\nNo. 100) tetap berlaku.\n  Dalam Undang-undang ini telah dilakukan penyempurnaan\nterhadap Pasal 3, Pasal 30, dan Pasal 38 Ordonansi Pengangkutan\nUdara (Luchtvervoer Ordonnantie Staatsblad 1939 No. 100) yang\nmaterinya telah dituangkan di dalam Pasal 43, Pasal 45, dan\nPasal 46.\n  Dalam rangka mengantisipasi perkembangan angkutan udara yang\nsemakin meningkat, baik di dalam negeri maupun internasional,\nperlu segera diambil langkah-langkah perubahan dan\npenyempurnaan terhadap Ordonansi Pengangkutan Udara\n(Luchtvervoer Ordonnantie Staatsblad 1939 No. 100) dalam\nbentuk Undang-undang tersendiri.\n Huruf b\n  C u k u p  j e l a s\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nPasal 75\n Cukup jelas\n\nPasal 76\n Cukup jelas"
+   }
+  }
+ ]
+}

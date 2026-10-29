@@ -1,0 +1,762 @@
+{
+ "id": "VN-H574",
+ "title": {
+  "zh": "人民公安法",
+  "en": "Law No. 73/2014/QH13 on people's public security",
+  "vi": "Luật Công an nhân dân số 73/2014/QH13",
+  "orig": "Luật Công an nhân dân số 73/2014/QH13",
+  "th": "พระราชบัญญัติตำรวจประชาชน เลขที่ 73/2014/QH13",
+  "id": "Undang-Undang Kepolisian Rakyat No. 73/2014/QH13",
+  "ms": "Akta Polis Rakyat No. 73/2014/QH13"
+ },
+ "country": "VN",
+ "countryName": "越南",
+ "layer": "intl",
+ "pack": "vn-p06",
+ "language": "vi",
+ "level": "law",
+ "category": "05_其他及未分类",
+ "status": "active",
+ "promulgatedDate": "2014",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "国会",
+ "docNumber": "73/2014/QH13",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 45,
+ "chars": 47654,
+ "source": {
+  "name": "越南法律数据库（vbpl.vn 官方公报文本）",
+  "url": "https://vbpl.vn/van-ban/chi-tiet/luat-cong-an-nhan-dan-so-73-2014-qh13--46817"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\VN\\05_其他及未分类\\2014_73 2014 QH13_Luật Công an nhân dân số 73 2014 QH13.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 45 条；逐字未改写（源自 VN）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "VN-H574-A1",
+   "no": 1,
+   "noLabel": {
+    "vi": "Điều 1"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Phạm vi điều chỉnh"
+   },
+   "text": {
+    "vi": "Điều 1. Phạm vi điều chỉnh\n\nLuật này quy định về nguyên tắc tổ chức, hoạt động; chức năng, nhiệm vụ, quyền hạn và chế độ, chính sách đối với Công an nhân dân."
+   }
+  },
+  {
+   "id": "VN-H574-A2",
+   "no": 2,
+   "noLabel": {
+    "vi": "Điều 2"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Đối tượng áp dụng"
+   },
+   "text": {
+    "vi": "Điều 2. Đối tượng áp dụng\n\nLuật này áp dụng đối với Công an nhân dân, cơ quan, tổ chức, công dân Việt Nam và tổ chức, cá nhân nước ngoài cư trú, hoạt động trên lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam; trường hợp điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên có quy định khác thì áp dụng điều ước quốc tế đó."
+   }
+  },
+  {
+   "id": "VN-H574-A3",
+   "no": 3,
+   "noLabel": {
+    "vi": "Điều 3"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Giải thích từ ngữ"
+   },
+   "text": {
+    "vi": "Điều 3. Giải thích từ ngữ\n\nTrong Luật này, các từ ngữ dưới đây được hiểu như sau:\n\n1. Bảo vệ an ninh quốc gia là phòng ngừa, phát hiện, ngăn chặn, đấu tranh làm thất bại các hoạt động xâm phạm an ninh quốc gia.\n\n2. Bảo đảm trật tự, an toàn xã hội là phòng ngừa, phát hiện, ngăn chặn, đấu tranh chống tội phạm và các hành vi vi phạm pháp luật về trật tự, an toàn xã hội.\n\n3. Sĩ quan, hạ sĩ quan nghiệp vụ là công dân Việt Nam được tuyển chọn, đào tạo, huấn luyện và hoạt động trong các lĩnh vực nghiệp vụ của Công an nhân dân được phong, thăng cấp bậc hàm cấp tướng, cấp tá, cấp úy, hạ sĩ quan.\n\n4. Sĩ quan, hạ sĩ quan chuyên môn kỹ thuật là công dân Việt Nam , có trình độ chuyên môn kỹ thuật, hoạt động trong Công an nhân dân được phong, thăng cấp bậc hàm cấp tá, cấp úy, hạ sĩ quan.\n\n5. Hạ sĩ quan, chiến sĩ nghĩa vụ là công dân Việt Nam thực hiện nghĩa vụ tham gia Công an nhân dân được phong, thăng cấp bậc hàm Thượng sĩ, Trung sĩ, Hạ sĩ, Binh nhất, Binh nhì.\n\n6. Công nhân công an là người được tuyển dụng vào làm việc trong Công an nhân dân mà không thuộc diện được phong cấp bậc hàm sĩ quan, hạ sĩ quan, chiến sĩ."
+   }
+  },
+  {
+   "id": "VN-H574-A4",
+   "no": 4,
+   "noLabel": {
+    "vi": "Điều 4"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Vị trí, cơ cấu của Công an nhân dân"
+   },
+   "text": {
+    "vi": "Điều 4. Vị trí, cơ cấu của Công an nhân dân\n\nCông an nhân dân là lực lượng vũ trang nhân dân làm nòng cốt trong thực hiện nhiệm vụ bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội, đấu tranh phòng, chống tội phạm.\n\nCông an nhân dân gồm lực lượng An ninh nhân dân, lực lượng Cảnh sát nhân dân và Công an xã."
+   }
+  },
+  {
+   "id": "VN-H574-A5",
+   "no": 5,
+   "noLabel": {
+    "vi": "Điều 5"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Nguyên tắc tổ chức, hoạt động của Công an nhân dân"
+   },
+   "text": {
+    "vi": "Điều 5. Nguyên tắc tổ chức, hoạt động của Công an nhân dân\n\n1. Công an nhân dân đặt dưới sự lãnh đạo tuyệt đối, trực tiếp về mọi mặt của Đảng Cộng sản Việt Nam, sự thống lĩnh của Chủ tịch nước, sự thống nhất quản lý nhà nước của Chính phủ và sự chỉ huy, quản lý trực tiếp của Bộ trưởng Bộ Công an.\n\n2. Công an nhân dân được tổ chức tập trung, thống nhất và theo cấp hành chính từ trung ương đến cơ sở.\n\n3. Hoạt động của Công an nhân dân phải tuân thủ Hiến pháp và pháp luật; cấp dưới phục tùng cấp trên; dựa vào Nhân dân và chịu sự giám sát của Nhân dân; bảo vệ lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân."
+   }
+  },
+  {
+   "id": "VN-H574-A6",
+   "no": 6,
+   "noLabel": {
+    "vi": "Điều 6"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Ngày truyền thống của Công an nhân dân"
+   },
+   "text": {
+    "vi": "Điều 6. Ngày truyền thống của Công an nhân dân\n\nNgày 19 tháng 8 hằng năm là ngày truyền thống của Công an nhân dân và là ngày hội “Toàn dân bảo vệ an ninh Tổ quốc”."
+   }
+  },
+  {
+   "id": "VN-H574-A7",
+   "no": 7,
+   "noLabel": {
+    "vi": "Điều 7"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Tuyển chọn công dân vào Công an nhân dân"
+   },
+   "text": {
+    "vi": "Điều 7. Tuyển chọn công dân vào Công an nhân dân\n\n1. Công dân có đủ tiêu chuẩn về chính trị, phẩm chất đạo đức, trình độ học vấn, sức khoẻ, có nguyện vọng và năng khiếu phù hợp với công tác công an thì có thể được tuyển chọn vào Công an nhân dân.\n\n2. Công an nhân dân được ưu tiên tuyển chọn sinh viên, học sinh xuất sắc tốt nghiệp ở các học viện, trường đại học, cao đẳng, trung cấp chuyên nghiệp, dạy nghề có đủ tiêu chuẩn để đào tạo, bổ sung vào Công an nhân dân."
+   }
+  },
+  {
+   "id": "VN-H574-A8",
+   "no": 8,
+   "noLabel": {
+    "vi": "Điều 8"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Nghĩa vụ tham gia Công an nhân dân"
+   },
+   "text": {
+    "vi": "Điều 8. Nghĩa vụ tham gia Công an nhân dân\n\n1. Công dân thực hiện nghĩa vụ tham gia Công an nhân dân là thực hiện nghĩa vụ bảo vệ Tổ quốc trong lực lượng vũ trang nhân dân. Hằng năm, Công an nhân dân được tuyển chọn công dân trong độ tuổi gọi nhập ngũ vào phục vụ trong Công an nhân dân với thời hạn là ba năm.\n\n2. Thủ tục tuyển chọn công dân thực hiện nghĩa vụ tham gia Công an nhân dân được áp dụng như đối với công dân thực hiện nghĩa vụ quân sự tại ngũ."
+   }
+  },
+  {
+   "id": "VN-H574-A9",
+   "no": 9,
+   "noLabel": {
+    "vi": "Điều 9"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Chế độ phục vụ của sĩ quan, hạ sĩ quan, chiến sĩ Công an nhân dân và công nhân công an"
+   },
+   "text": {
+    "vi": "Điều 9. Chế độ phục vụ của sĩ quan, hạ sĩ quan, chiến sĩ Công an nhân dân và công nhân công an\n\n1. Sĩ quan Công an nhân dân phục vụ theo chế độ chuyên nghiệp; hạ sĩ quan, chiến sĩ Công an nhân dân phục vụ theo chế độ chuyên nghiệp hoặc chế độ nghĩa vụ; công nhân công an phục vụ theo chế độ tuyển dụng.\n\n2. Công dân phục vụ trong Công an nhân dân xuất ngũ, chuyển ngành phải thực hiện nghĩa vụ quân sự trong ngạch dự bị theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H574-A10",
+   "no": 10,
+   "noLabel": {
+    "vi": "Điều 10"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Xây dựng Công an nhân dân"
+   },
+   "text": {
+    "vi": "Điều 10. Xây dựng Công an nhân dân\n\n1. Nhà nước có chính sách đào tạo, bồi dưỡng sĩ quan, hạ sĩ quan, chiến sĩ Công an nhân dân; xây dựng Công an nhân dân cách mạng, chính quy, tinh nhuệ, từng bước hiện đại.\n\n2. Cơ quan, tổ chức và công dân có trách nhiệm tham gia xây dựng Công an nhân dân trong sạch, vững mạnh."
+   }
+  },
+  {
+   "id": "VN-H574-A11",
+   "no": 11,
+   "noLabel": {
+    "vi": "Điều 11"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Giám sát hoạt động của Công an nhân dân"
+   },
+   "text": {
+    "vi": "Điều 11. Giám sát hoạt động của Công an nhân dân\n\n1. Quốc hội, cơ quan của Quốc hội, Đoàn đại biểu Quốc hội, đại biểu Quốc hội, Hội đồng nhân dân, đại biểu Hội đồng nhân dân trong phạm vi nhiệm vụ, quyền hạn của mình thực hiện giám sát hoạt động của Công an nhân dân.\n\n2. Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên có trách nhiệm tuyên truyền, động viên mọi tầng lớp nhân dân tham gia phong trào toàn dân bảo vệ an ninh Tổ quốc, phối hợp, cộng tác, giúp đỡ Công an nhân dân thực hiện nhiệm vụ và xây dựng Công an nhân dân, giám sát việc thực hiện pháp luật về Công an nhân dân."
+   }
+  },
+  {
+   "id": "VN-H574-A12",
+   "no": 12,
+   "noLabel": {
+    "vi": "Điều 12"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Quan hệ phối hợp giữa Quân đội nhân dân, Dân quân tự vệ với Công an nhân dân"
+   },
+   "text": {
+    "vi": "Điều 12. Quan hệ phối hợp giữa Quân đội nhân dân, Dân quân tự vệ với Công an nhân dân\n\n1. Quân đội nhân dân, Dân quân tự vệ có trách nhiệm phối hợp chặt chẽ với Công an nhân dân để bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội và xây dựng Công an nhân dân.\n\n2. Việc phối hợp giữa Quân đội nhân dân, Dân quân tự vệ với Công an nhân dân do Chính phủ quy định."
+   }
+  },
+  {
+   "id": "VN-H574-A13",
+   "no": 13,
+   "noLabel": {
+    "vi": "Điều 13"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Trách nhiệm và chế độ, chính sách đối với cơ quan, tổ chức, cá nhân tham gia, phối hợp, cộng tác, giúp đỡ Công an nhân dân"
+   },
+   "text": {
+    "vi": "Điều 13. Trách nhiệm và chế độ, chính sách đối với cơ quan, tổ chức, cá nhân tham gia, phối hợp, cộng tác, giúp đỡ Công an nhân dân\n\n1. Cơ quan, tổ chức, cá nhân hoạt động trên lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam và cơ quan, tổ chức, công dân Việt Nam ở nước ngoài có trách nhiệm tham gia, phối hợp, cộng tác, giúp đỡ Công an nhân dân thực hiện chức năng, nhiệm vụ, quyền hạn theo quy định của pháp luật.\n\n2. Nhà nước bảo vệ, giữ bí mật cho cơ quan, tổ chức, cá nhân tham gia, phối hợp, cộng tác, giúp đỡ Công an nhân dân trong bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội, đấu tranh phòng, chống tội phạm.\n\nCơ quan, tổ chức, cá nhân tham gia, phối hợp, cộng tác, giúp đỡ Công an nhân dân trong bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội, đấu tranh phòng, chống tội phạm có thành tích thì được khen thưởng; bị tổn hại về danh dự thì được khôi phục, bị thiệt hại về tài sản thì được đền bù; người bị thương tích, tổn hại về sức khoẻ, tính mạng thì bản thân và gia đình được hưởng chế độ, chính sách theo quy định của pháp luật.\n\nChương II\n\nCHỨC NĂNG, NHIỆM VỤ VÀ\n\nQUYỀN HẠN CỦA CÔNG AN NHÂN DÂN"
+   }
+  },
+  {
+   "id": "VN-H574-A14",
+   "no": 14,
+   "noLabel": {
+    "vi": "Điều 14"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Chức năng của Công an nhân dân"
+   },
+   "text": {
+    "vi": "Điều 14. Chức năng của Công an nhân dân\n\nCông an nhân dân có chức năng tham mưu cho Đảng, Nhà nước về bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội, đấu tranh phòng, chống tội phạm; chịu trách nhiệm trước Chính phủ thực hiện thống nhất quản lý nhà nước về an ninh quốc gia, trật tự, an toàn xã hội; đấu tranh phòng, chống âm mưu, hoạt động của các thế lực thù địch, các loại tội phạm và vi phạm pháp luật về an ninh quốc gia, trật tự, an toàn xã hội."
+   }
+  },
+  {
+   "id": "VN-H574-A15",
+   "no": 15,
+   "noLabel": {
+    "vi": "Điều 15"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Nhiệm vụ và quyền hạn của Công an nhân dân"
+   },
+   "text": {
+    "vi": "Điều 15. Nhiệm vụ và quyền hạn của Công an nhân dân\n\n1. Thu thập thông tin, phân tích, đánh giá, dự báo tình hình và đề xuất với Đảng, Nhà nước ban hành, chỉ đạo thực hiện đường lối, chính sách, pháp luật, chiến lược bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội, đấu tranh phòng, chống tội phạm; tham gia thẩm định, đánh giá tác động về an ninh quốc gia, trật tự, an toàn xã hội đối với quy hoạch, kế hoạch, dự án phát triển kinh tế - xã hội; kết hợp chặt chẽ nhiệm vụ bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội, đấu tranh phòng, chống tội phạm với nhiệm vụ xây dựng, phát triển kinh tế, văn hóa, xã hội; phối hợp có hiệu quả hoạt động an ninh với hoạt động quốc phòng và đối ngoại.\n\n2. Chủ động phòng ngừa, phát hiện, ngăn chặn, đấu tranh làm thất bại âm mưu, hoạt động xâm phạm an ninh quốc gia, loại trừ nguy cơ đe dọa an ninh quốc gia; bảo vệ Đảng, Nhà nước và chế độ xã hội chủ nghĩa, bảo vệ độc lập, chủ quyền, thống nhất và toàn vẹn lãnh thổ của Tổ quốc; bảo vệ an ninh chính trị, an ninh trong các lĩnh vực tư tưởng - văn hóa, kinh tế, quốc phòng, đối ngoại, thông tin, xã hội, môi trường và các lợi ích khác của quốc gia; bảo vệ khối đại đoàn kết toàn dân tộc; bảo vệ tính mạng, sức khỏe, danh dự, nhân phẩm, tài sản, quyền tự do, dân chủ của công dân, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.\n\n3. Hoạt động tình báo theo quy định của pháp luật.\n\n4. Bảo vệ cán bộ lãnh đạo cấp cao của Đảng, Nhà nước, khách quốc tế đến thăm và làm việc tại Việt Nam; bảo vệ sự kiện, mục tiêu quan trọng về chính trị, kinh tế, ngoại giao, khoa học - kỹ thuật, văn hóa, xã hội; bảo vệ công trình quan trọng liên quan đến an ninh quốc gia, cơ quan đại diện nước ngoài, đại diện của tổ chức quốc tế tại Việt Nam; bảo vệ cá nhân nắm giữ hoặc liên quan mật thiết đến bí mật nhà nước theo quy định của pháp luật.\n\n5. Thực hiện quản lý về bảo vệ an ninh quốc gia, bảo vệ bí mật nhà nước; chủ trì thực hiện quản lý về nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam; kiểm soát nhập cảnh, xuất cảnh, quá cảnh tại các cửa khẩu theo quy định của Chính phủ; phối hợp với Bộ đội Biên phòng, các ngành hữu quan và chính quyền địa phương trong hoạt động quản lý, bảo vệ biên giới quốc gia, giữ gìn an ninh, trật tự, an toàn xã hội ở khu vực biên giới theo quy định của pháp luật.\n\n6. Thực hiện quản lý về công tác điều tra và phòng, chống tội phạm. Chủ trì thực hiện nhiệm vụ phòng, chống khủng bố, bạo loạn và giải quyết các tình huống phức tạp về an ninh quốc gia, trật tự, an toàn xã hội theo quy định của pháp luật. Chủ động phòng ngừa, phát hiện, ngăn chặn, đấu tranh chống tội phạm và vi phạm pháp luật về trật tự, an toàn xã hội, bảo vệ môi trường; tiếp nhận, giải quyết tin báo, tố giác về tội phạm, kiến nghị khởi tố; khởi tố, điều tra tội phạm theo quy định của pháp luật; thực hiện công tác thống kê hình sự; phát hiện nguyên nhân, điều kiện phát sinh tội phạm, vi phạm pháp luật về trật tự, an toàn xã hội, bảo vệ môi trường và kiến nghị biện pháp khắc phục; giáo dục đối tượng vi phạm pháp luật tại cộng đồng theo quy định của pháp luật.\n\n7. Thực hiện quản lý về thi hành án hình sự; quản lý trại giam, cơ sở giáo dục bắt buộc, trường giáo dưỡng, trại tạm giam, nhà tạm giữ; tổ chức thi hành bản án, quyết định về hình sự, biện pháp tư pháp, thực hiện nhiệm vụ hỗ trợ hoạt động tư pháp theo quy định của pháp luật.\n\n8. Thực hiện quản lý về xử phạt vi phạm hành chính trong lĩnh vực an ninh, trật tự, an toàn xã hội; xử phạt vi phạm hành chính và áp dụng các biện pháp xử lý hành chính theo quy định của pháp luật; bảo đảm an ninh, trật tự trong việc thực hiện quyết định cưỡng chế khi có yêu cầu của cơ quan có thẩm quyền.\n\n9. Thực hiện quản lý về cư trú, cơ sở dữ liệu quốc gia về dân cư, căn cước công dân, con dấu, trật tự, an toàn giao thông, trật tự công cộng, vũ khí, vật liệu nổ, công cụ hỗ trợ, phòng cháy, chữa cháy theo quy định của pháp luật; cấp thẻ Căn cước công dân; đăng ký, cấp biển số phương tiện giao thông cơ giới đường bộ; thực hiện công tác phòng cháy, chữa cháy và cứu nạn, cứu hộ; thực hiện quản lý về an ninh, trật tự các ngành, nghề kinh doanh có điều kiện và dịch vụ bảo vệ theo quy định của pháp luật.\n\n10. Chủ trì, phối hợp quản lý và thực hiện công tác tuyên truyền, giáo dục về bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội, đấu tranh phòng, chống tội phạm; hướng dẫn, kiểm tra, thanh tra, giải quyết khiếu nại, tố cáo trong hoạt động bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội, đấu tranh phòng, chống tội phạm.\n\n11. Làm nòng cốt xây dựng thế trận an ninh nhân dân, xây dựng phong trào toàn dân bảo vệ an ninh Tổ quốc. Hướng dẫn các cơ quan, tổ chức thực hiện công tác bảo vệ an ninh chính trị nội bộ, an ninh kinh tế, tài chính, tiền tệ, đầu tư, an ninh tư tưởng - văn hóa, an ninh thông tin, an ninh xã hội, an ninh môi trường.\n\n12. Hướng dẫn, huấn luyện nghiệp vụ, bồi dưỡng kiến thức pháp luật đối với lực lượng bảo vệ dân phố, dân phòng, bảo vệ cơ quan, doanh nghiệp theo quy định của pháp luật.\n\n13. Áp dụng các biện pháp vận động quần chúng, pháp luật, ngoại giao, kinh tế, khoa học - kỹ thuật, nghiệp vụ, vũ trang để bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội theo quy định của pháp luật.\n\n14. Được sử dụng vũ khí, vật liệu nổ, công cụ hỗ trợ để tấn công, truy bắt tội phạm, ngăn chặn người đang thực hiện hành vi phạm tội hoặc hành vi vi phạm pháp luật khác và để phòng vệ chính đáng theo quy định của luật.\n\n15. Quyết định hoặc kiến nghị tạm đình chỉ, đình chỉ hoạt động của cơ quan, tổ chức, cá nhân có hành vi gây nguy hại hoặc đe dọa gây nguy hại đến an ninh quốc gia, trật tự, an toàn xã hội; yêu cầu cơ quan, tổ chức, cá nhân cung cấp thông tin, tài liệu, đồ vật khi có căn cứ xác định liên quan đến hoạt động xâm phạm an ninh quốc gia, trật tự, an toàn xã hội theo quy định của pháp luật. Huy động, trưng dụng theo quy định của pháp luật phương tiện thông tin, phương tiện giao thông, phương tiện khác và người đang sử dụng, điều khiển phương tiện đó trong trường hợp cấp bách để bảo vệ an ninh quốc gia, trật tự, an toàn xã hội hoặc để ngăn chặn hậu quả thiệt hại cho xã hội đang xảy ra hoặc có nguy cơ xảy ra.\n\n16. Thực hiện các biện pháp bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội khi có tình trạng chiến tranh, tình trạng khẩn cấp hoặc khi có nguy cơ đe dọa an ninh quốc gia, trật tự, an toàn xã hội nhưng chưa đến mức ban bố tình trạng khẩn cấp theo quy định của pháp luật.\n\n17. Nghiên cứu, ứng dụng, huy động thành tựu khoa học, công nghệ trong bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội, xây dựng lực lượng Công an nhân dân.\n\n18. Xây dựng lực lượng Công an nhân dân cách mạng, chính quy, tinh nhuệ, từng bước hiện đại làm nòng cốt trong thực hiện nhiệm vụ bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội, đấu tranh phòng, chống tội phạm.\n\n19. Thực hiện hợp tác quốc tế trong đấu tranh phòng, chống tội phạm, bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội và xây dựng lực lượng Công an nhân dân; là cơ quan đầu mối thực hiện dẫn độ, chuyển giao người đang chấp hành hình phạt tù và thực hiện tương trợ tư pháp về hình sự theo quy định của pháp luật và điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.\n\n20. Thực hiện các nhiệm vụ, quyền hạn khác theo quy định của pháp luật.\n\nChương III\n\nTỔ CHỨC CỦA CÔNG AN NHÂN DÂN"
+   }
+  },
+  {
+   "id": "VN-H574-A16",
+   "no": 16,
+   "noLabel": {
+    "vi": "Điều 16"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Hệ thống tổ chức của Công an nhân dân"
+   },
+   "text": {
+    "vi": "Điều 16. Hệ thống tổ chức của Công an nhân dân\n\n1. Hệ thống tổ chức của Công an nhân dân gồm có:\n\na) Bộ Công an;\n\nb) Công an tỉnh, thành phố trực thuộc trung ương;\n\nc) Công an huyện, quận, thị xã, thành phố thuộc tỉnh;\n\nd) Công an xã, phường, thị trấn.\n\n2. Căn cứ yêu cầu công tác phòng cháy, chữa cháy và cứu nạn, cứu hộ, Chính phủ quy định việc thành lập Cảnh sát phòng cháy và chữa cháy tỉnh, thành phố trực thuộc trung ương.\n\n3. Công an xã là lực lượng nòng cốt trong phong trào toàn dân bảo vệ an ninh Tổ quốc, bảo đảm an ninh, trật tự, an toàn xã hội ở cơ sở. Chức năng, nhiệm vụ, quyền hạn, tổ chức, hoạt động và chế độ, chính sách đối với Công an xã do luật quy định.\n\n4. Căn cứ yêu cầu bảo đảm an ninh, trật tự, trong phạm vi nhiệm vụ, quyền hạn của mình, Bộ trưởng Bộ Công an quyết định thành lập các đồn, trạm Công an và các đơn vị độc lập bố trí tại những địa bàn cần thiết; quy định việc điều động sĩ quan, hạ sĩ quan Công an nhân dân đảm nhiệm các chức danh Công an xã."
+   }
+  },
+  {
+   "id": "VN-H574-A17",
+   "no": 17,
+   "noLabel": {
+    "vi": "Điều 17"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Thẩm quyền quy định cụ thể chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức trong Công an nhân dân"
+   },
+   "text": {
+    "vi": "Điều 17. Thẩm quyền quy định cụ thể chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức trong Công an nhân dân\n\n1. Chính phủ quy định cụ thể chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Công an.\n\n2. Bộ trưởng Bộ Công an quy định cụ thể chức năng, nhiệm vụ, quyền hạn, tổ chức bộ máy của tổng cục, bộ tư lệnh, đơn vị trực thuộc Bộ, đơn vị thuộc tổng cục, bộ tư lệnh, Công an tỉnh, thành phố trực thuộc trung ương, Công an huyện, quận, thị xã, thành phố thuộc tỉnh và các đơn vị còn lại trong Công an nhân dân."
+   }
+  },
+  {
+   "id": "VN-H574-A18",
+   "no": 18,
+   "noLabel": {
+    "vi": "Điều 18"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Chỉ huy trong Công an nhân dân"
+   },
+   "text": {
+    "vi": "Điều 18. Chỉ huy trong Công an nhân dân\n\n1. Bộ trưởng Bộ Công an là người chỉ huy cao nhất trong Công an nhân dân.\n\n2. Chỉ huy công an cấp dưới chịu trách nhiệm trước chỉ huy công an cấp trên về tổ chức và hoạt động của đơn vị công an được giao phụ trách. Chỉ huy công an địa phương chịu trách nhiệm trước chỉ huy công an cấp trên và trước cấp ủy Đảng, chính quyền cùng cấp.\n\n3. Sĩ quan, hạ sĩ quan, chiến sĩ Công an nhân dân có chức vụ hoặc cấp bậc hàm cao hơn là cấp trên của sĩ quan, hạ sĩ quan, chiến sĩ có chức vụ hoặc cấp bậc hàm thấp hơn. Sĩ quan, hạ sĩ quan, chiến sĩ có chức vụ cao hơn nhưng cấp bậc hàm ngang hoặc thấp hơn là cấp trên của sĩ quan, hạ sĩ quan, chiến sĩ có cấp bậc hàm ngang hoặc cao hơn nhưng chức vụ thấp hơn.\n\nChương IV\n\nSĨ QUAN, HẠ SĨ QUAN, CHIẾN SĨ CÔNG AN NHÂN DÂN"
+   }
+  },
+  {
+   "id": "VN-H574-A19",
+   "no": 19,
+   "noLabel": {
+    "vi": "Điều 19"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Phân loại sĩ quan, hạ sĩ quan, chiến sĩ Công an nhân dân"
+   },
+   "text": {
+    "vi": "Điều 19. Phân loại sĩ quan, hạ sĩ quan, chiến sĩ Công an nhân dân\n\n1. Phân loại theo lực lượng, trong Công an nhân dân có:\n\na) Sĩ quan, hạ sĩ quan, chiến sĩ An ninh nhân dân;\n\nb) Sĩ quan, hạ sĩ quan, chiến sĩ Cảnh sát nhân dân.\n\n2. Phân loại theo tính chất hoạt động, trong Công an nhân dân có:\n\na) Sĩ quan, hạ sĩ quan nghiệp vụ;\n\nb) Sĩ quan, hạ sĩ quan chuyên môn kỹ thuật;\n\nc) Hạ sĩ quan, chiến sĩ nghĩa vụ."
+   }
+  },
+  {
+   "id": "VN-H574-A20",
+   "no": 20,
+   "noLabel": {
+    "vi": "Điều 20"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Hệ thống cấp bậc hàm sĩ quan, hạ sĩ quan, chiến sĩ Công an nhân dân"
+   },
+   "text": {
+    "vi": "Điều 20. Hệ thống cấp bậc hàm sĩ quan, hạ sĩ quan, chiến sĩ Công an nhân dân\n\n1. Sĩ quan, hạ sĩ quan nghiệp vụ:\n\na) Sĩ quan cấp tướng có bốn bậc:\n\nĐại tướng;\n\nThượng tướng;\n\nTrung tướng;\n\nThiếu tướng;\n\nb) Sĩ quan cấp tá có bốn bậc:\n\nĐại tá;\n\nThượng tá;\n\nTrung tá;\n\nThiếu tá;\n\nc) Sĩ quan cấp úy có bốn bậc:\n\nĐại úy;\n\nThượng úy;\n\nTrung úy;\n\nThiếu úy;\n\nd) Hạ sĩ quan có ba bậc:\n\nThượng sĩ;\n\nTrung sĩ;\n\nHạ sĩ.\n\n2. Sĩ quan, hạ sĩ quan chuyên môn kỹ thuật:\n\na) Sĩ quan cấp tá có ba bậc:\n\nThượng tá;\n\nTrung tá;\n\nThiếu tá;\n\nb) Sĩ quan cấp úy có bốn bậc:\n\nĐại úy;\n\nThượng úy;\n\nTrung úy;\n\nThiếu úy;\n\nc) Hạ sĩ quan có ba bậc:\n\nThượng sĩ;\n\nTrung sĩ;\n\nHạ sĩ.\n\n3. Hạ sĩ quan, chiến sĩ nghĩa vụ:\n\na) Hạ sĩ quan có ba bậc:\n\nThượng sĩ;\n\nTrung sĩ;\n\nHạ sĩ;\n\nb) Chiến sĩ có hai bậc:\n\nBinh nhất;\n\nBinh nhì."
+   }
+  },
+  {
+   "id": "VN-H574-A21",
+   "no": 21,
+   "noLabel": {
+    "vi": "Điều 21"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Đối tượng, điều kiện, thời hạn xét phong, thăng cấp bậc hàm sĩ quan, hạ sĩ quan, chiến sĩ Công an nhân dân"
+   },
+   "text": {
+    "vi": "Điều 21. Đối tượng, điều kiện, thời hạn xét phong, thăng cấp bậc hàm sĩ quan, hạ sĩ quan, chiến sĩ Công an nhân dân\n\n1. Đối tượng xét phong cấp bậc hàm:\n\na) Học sinh, sinh viên hưởng sinh hoạt phí tại các trường của Công an nhân dân, khi tốt nghiệp được phong cấp bậc hàm như sau:\n\nTrung cấp: Trung sĩ;\n\nCao đẳng: Thượng sĩ;\n\nĐại học: Thiếu úy;\n\nHọc sinh, sinh viên tốt nghiệp xuất sắc được phong cấp bậc hàm cao hơn một bậc;\n\nb) Cán bộ, công chức hoặc người tốt nghiệp các học viện, trường đại học, trường cao đẳng, trường trung cấp chuyên nghiệp, dạy nghề được tuyển chọn vào Công an nhân dân thì căn cứ vào trình độ được đào tạo, quá trình công tác, nhiệm vụ được giao và bậc lương được xếp để phong cấp bậc hàm tương ứng;\n\nc) Chiến sĩ nghĩa vụ được phong cấp bậc hàm khởi điểm là Binh nhì.\n\n2. Điều kiện xét thăng cấp bậc hàm:\n\nSĩ quan, hạ sĩ quan, chiến sĩ Công an nhân dân được thăng cấp bậc hàm khi có đủ các điều kiện sau đây:\n\na) Hoàn thành nhiệm vụ, đủ tiêu chuẩn về chính trị, phẩm chất đạo đức, trình độ chuyên môn, nghiệp vụ, sức khỏe;\n\nb) Khi cấp bậc hàm hiện tại thấp hơn cấp bậc hàm cao nhất quy định đối với chức vụ, chức danh đang đảm nhiệm;\n\nc) Đủ thời hạn xét thăng cấp bậc hàm theo quy định tại khoản 3 Điều này.\n\n3. Thời hạn xét thăng cấp bậc hàm:\n\na) Hạ sĩ quan, sĩ quan nghiệp vụ:\n\nHạ sĩ lên Trung sĩ: 1 năm;\n\nTrung sĩ lên Thượng sĩ: 1 năm;\n\nThượng sĩ lên Thiếu úy: 2 năm;\n\nThiếu úy lên Trung úy: 2 năm;\n\nTrung úy lên Thượng úy: 3 năm;\n\nThượng úy lên Đại úy: 3 năm;\n\nĐại úy lên Thiếu tá: 4 năm;\n\nThiếu tá lên Trung tá: 4 năm;\n\nTrung tá lên Thượng tá: 4 năm;\n\nThượng tá lên Đại tá: 4 năm;\n\nĐại tá lên Thiếu tướng: 4 năm;\n\nThời hạn thăng cấp bậc hàm trong mỗi cấp tướng tối thiểu là 4 năm;\n\nb) Thời hạn xét thăng cấp bậc hàm sĩ quan, hạ sĩ quan chuyên môn kỹ thuật; hạ sĩ quan, chiến sĩ nghĩa vụ do Chính phủ quy định;\n\nc) Thời gian sĩ quan, hạ sĩ quan, chiến sĩ học tập tại trường được tính vào thời hạn xét thăng cấp bậc hàm; đối với sĩ quan, hạ sĩ quan, chiến sĩ bị giáng cấp bậc hàm, sau một năm kể từ ngày bị giáng cấp bậc hàm, nếu tiến bộ thì được xét thăng cấp bậc hàm.\n\n4. Tuổi của sĩ quan được xét thăng cấp bậc hàm từ Đại tá lên Thiếu tướng không quá 57; trường hợp cao hơn khi có yêu cầu theo quyết định của Chủ tịch nước."
+   }
+  },
+  {
+   "id": "VN-H574-A22",
+   "no": 22,
+   "noLabel": {
+    "vi": "Điều 22"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Phong, thăng cấp bậc hàm trước thời hạn và phong, thăng cấp bậc hàm vượt bậc"
+   },
+   "text": {
+    "vi": "Điều 22. Phong, thăng cấp bậc hàm trước thời hạn và phong, thăng cấp bậc hàm vượt bậc\n\n1. Sĩ quan, hạ sĩ quan, chiến sĩ Công an nhân dân lập thành tích đặc biệt xuất sắc trong bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội, đấu tranh phòng, chống tội phạm, nghiên cứu khoa học, học tập mà cấp bậc hàm hiện tại thấp hơn cấp bậc hàm cao nhất đối với chức vụ, chức danh sĩ quan, hạ sĩ quan, chiến sĩ đang đảm nhiệm thì được xét phong, thăng cấp bậc hàm trước thời hạn.\n\n2. Sĩ quan, hạ sĩ quan, chiến sĩ Công an nhân dân lập thành tích đặc biệt xuất sắc trong bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội, đấu tranh phòng, chống tội phạm mà cấp bậc hàm hiện tại thấp hơn cấp bậc hàm cao nhất quy định đối với chức vụ, chức danh sĩ quan, hạ sĩ quan, chiến sĩ đang đảm nhiệm từ hai bậc trở lên thì được xét phong, thăng cấp bậc hàm vượt bậc, nhưng không vượt quá cấp bậc hàm cao nhất đối với chức vụ, chức danh sĩ quan đang đảm nhiệm.\n\n3. Chủ tịch nước quyết định việc phong, thăng cấp bậc hàm trước thời hạn và phong, thăng cấp bậc hàm vượt bậc đối với cấp bậc hàm cấp tướng. Bộ trưởng Bộ Công an quyết định việc phong, thăng cấp bậc hàm trước thời hạn và phong, thăng cấp bậc hàm vượt bậc từ Đại tá trở xuống."
+   }
+  },
+  {
+   "id": "VN-H574-A23",
+   "no": 23,
+   "noLabel": {
+    "vi": "Điều 23"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Chức vụ của sĩ quan Công an nhân dân"
+   },
+   "text": {
+    "vi": "Điều 23. Chức vụ của sĩ quan Công an nhân dân\n\n1. Chức vụ cơ bản của sĩ quan gồm có:\n\na) Bộ trưởng Bộ Công an;\n\nb) Tổng cục trưởng, Tư lệnh;\n\nc) Cục trưởng;\n\nd) Giám đốc Công an tỉnh, thành phố trực thuộc trung ương;\n\nđ) Trưởng phòng; Trưởng Công an huyện, quận, thị xã, thành phố thuộc tỉnh; Trung đoàn trưởng;\n\ne) Đội trưởng; Trưởng Công an phường, thị trấn; Tiểu đoàn trưởng;\n\ng) Đại đội trưởng;\n\nh) Trung đội trưởng;\n\ni) Tiểu đội trưởng.\n\n2. Chức vụ, chức danh tương đương với chức vụ quy định tại điểm b khoản 1 Điều này do Chính phủ quy định; chức vụ, chức danh tương đương với chức vụ quy định tại các điểm c, d, đ, e, g, h và i khoản 1 Điều này do Bộ trưởng Bộ Công an quy định."
+   }
+  },
+  {
+   "id": "VN-H574-A24",
+   "no": 24,
+   "noLabel": {
+    "vi": "Điều 24"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Cấp bậc hàm cao nhất đối với chức vụ của sĩ quan Công an nhân dân"
+   },
+   "text": {
+    "vi": "Điều 24. Cấp bậc hàm cao nhất đối với chức vụ của sĩ quan Công an nhân dân\n\n1. Cấp bậc hàm cao nhất đối với chức vụ của sĩ quan được quy định như sau:\n\na) Đại tướng: Bộ trưởng Bộ Công an;\n\nb) Thượng tướng: Thứ trưởng Bộ Công an;\n\nSố lượng Thứ trưởng Bộ Công an có cấp bậc hàm Thượng tướng không quá sáu;\n\nc) Trung tướng:\n\nTổng cục trưởng; Tư lệnh, Chính ủy Bộ Tư lệnh Cảnh sát cơ động; Tư lệnh Bộ Tư lệnh Cảnh vệ;\n\nChánh Văn phòng Bộ Công an; Chánh Thanh tra Bộ Công an; Viện trưởng Viện Chiến lược và Khoa học Công an;\n\nCục trưởng các cục: An ninh mạng; Cảnh sát giao thông; Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ; Đối ngoại; Pháp chế và cải cách hành chính, tư pháp; Xây dựng phong trào toàn dân bảo vệ an ninh Tổ quốc; Giám đốc các học viện: An ninh nhân dân, Cảnh sát nhân dân, Chính trị Công an nhân dân;\n\nMột Phó Tổng cục trưởng là Bí thư hoặc Phó Bí thư Đảng ủy Tổng cục;\n\nGiám đốc Công an thành phố Hà Nội; Giám đốc Công an thành phố Hồ Chí Minh;\n\nd) Thiếu tướng:\n\nTrợ lý Bộ trưởng Bộ Công an;\n\nCục trưởng các cục: Cơ yếu; Tài chính; Kế hoạch và Đầu tư;\n\nCục trưởng các cục về tham mưu, chính trị, nghiệp vụ thuộc Tổng cục An ninh, trừ Cục trưởng Cục Hậu cần, Chánh Văn phòng thường trực Ban chỉ đạo về nhân quyền và Chánh Thanh tra Tổng cục;\n\nCục trưởng các cục về tham mưu, chính trị, nghiệp vụ thuộc Tổng cục Tình báo, trừ Cục trưởng Cục Hậu cần;\n\nCục trưởng các cục thuộc Tổng cục Cảnh sát: Tham mưu; Chính trị; Cảnh sát hình sự; Cảnh sát kinh tế; Cảnh sát điều tra tội phạm về ma túy; Cảnh sát điều tra tội phạm về tham nhũng; Cảnh sát phòng, chống tội phạm về môi trường; Cảnh sát phòng, chống tội phạm sử dụng công nghệ cao; Cảnh sát truy nã tội phạm; Cảnh sát quản lý hành chính về trật tự xã hội; Cảnh sát đăng ký, quản lý cư trú và dữ liệu quốc gia về dân cư; Chánh Văn phòng Cơ quan Cảnh sát điều tra Bộ Công an;\n\nCục trưởng các cục thuộc Tổng cục Chính trị Công an nhân dân: Tham mưu; Tổ chức Cán bộ; Công tác chính trị; Chính sách; Đào tạo; Công tác Đảng, công tác quần chúng;\n\nCục trưởng các cục thuộc Tổng cục Hậu cần - Kỹ thuật: Thông tin liên lạc; Quản lý trang bị kỹ thuật và trang cấp; Quản lý khoa học công nghệ và môi trường; Công nghệ thông tin; Quản lý xây dựng cơ bản và doanh trại; Y tế;\n\nCục trưởng các cục thuộc Tổng cục Cảnh sát thi hành án hình sự và hỗ trợ tư pháp: Chính trị; Quản lý phạm nhân, trại viên; Giáo dục cải tạo và hòa nhập cộng đồng; Theo dõi thi hành án hình sự và hỗ trợ tư pháp; Hướng dẫn tạm giam, tạm giữ;\n\nViện trưởng Viện Khoa học hình sự; Viện trưởng Viện Lịch sử Công an; Tổng biên tập Báo Công an nhân dân; Tổng biên tập Tạp chí Công an nhân dân; Giám đốc Trung tâm phát thanh, truyền hình, điện ảnh Công an nhân dân; Giám đốc các bệnh viện: 19-8, 199, 30-4, Y học cổ truyền;\n\nGiám đốc Học viện Tình báo; Hiệu trưởng các trường đại học: An ninh nhân dân; Cảnh sát nhân dân; Kỹ thuật - Hậu cần Công an nhân dân; Phòng cháy và chữa cháy;\n\nGiám đốc Cảnh sát phòng cháy và chữa cháy thành phố Hà Nội; Giám đốc Cảnh sát phòng cháy và chữa cháy thành phố Hồ Chí Minh;\n\nChức vụ cấp phó của cấp trưởng quy định tại điểm c khoản này có cấp bậc hàm cao nhất là Thiếu tướng, số lượng như sau: của Tổng cục trưởng không quá năm; của Tư lệnh Bộ Tư lệnh Cảnh sát cơ động không quá bốn; của Chính ủy Bộ Tư lệnh Cảnh sát cơ động là một; của Tư lệnh Bộ Tư lệnh Cảnh vệ không quá bốn; của Chánh Văn phòng Bộ Công an không quá ba; của Chánh Thanh tra Bộ Công an không quá ba; của Viện trưởng Viện Chiến lược và Khoa học Công an không quá ba; của Cục trưởng Cục An ninh mạng, Cục Cảnh sát giao thông, Cục Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ, Cục Đối ngoại, Cục Pháp chế và cải cách hành chính, tư pháp, Cục Xây dựng phong trào toàn dân bảo vệ an ninh Tổ quốc không quá hai; của Giám đốc Học viện An ninh nhân dân không quá ba; của Giám đốc Học viện Cảnh sát nhân dân không quá ba; của Giám đốc Học viện Chính trị Công an nhân dân không quá ba; của Giám đốc Công an thành phố Hà Nội không quá ba; của Giám đốc Công an thành phố Hồ Chí Minh không quá ba;\n\nđ) Đại tá:\n\nCục trưởng, Thủ trưởng đơn vị tương đương thuộc Tổng cục, Bộ Tư lệnh; Hiệu trưởng các trường bậc đại học, trường sĩ quan, trừ quy định tại điểm d khoản này;\n\nGiám đốc Công an tỉnh, thành phố trực thuộc trung ương, trừ Giám đốc Công an thành phố Hà Nội và Giám đốc Công an thành phố Hồ Chí Minh;\n\nChức vụ cấp phó của cấp trưởng quy định tại điểm d khoản này;\n\ne) Thượng tá: Trưởng phòng; Trưởng Công an huyện, quận, thị xã, thành phố thuộc tỉnh; Trung đoàn trưởng;\n\ng) Trung tá: Đội trưởng; Trưởng Công an phường, thị trấn; Tiểu đoàn trưởng; Trưởng đồn Công an;\n\nh) Thiếu tá: Đại đội trưởng; Trưởng trạm Công an;\n\ni) Đại úy: Trung đội trưởng;\n\nk) Thượng úy: Tiểu đội trưởng.\n\n2. Phó Chủ nhiệm thường trực, Phó Chủ nhiệm chuyên trách Ủy ban Kiểm tra Đảng ủy Công an Trung ương có cấp bậc hàm cấp tướng thực hiện theo quy định của cơ quan có thẩm quyền.\n\n3. Sĩ quan Công an nhân dân biệt phái là Ủy viên thường trực Ủy ban Quốc phòng và An ninh của Quốc hội hoặc được bổ nhiệm chức vụ Tổng cục trưởng hoặc tương đương có cấp bậc hàm cao nhất là Thiếu tướng; sĩ quan Công an nhân dân biệt phái là Phó Chủ nhiệm Ủy ban Quốc phòng và An ninh của Quốc hội hoặc được bổ nhiệm chức vụ Thứ trưởng hoặc tương đương có cấp bậc hàm cao nhất là Trung tướng; sĩ quan Công an nhân dân biệt phái có chức vụ cao hơn được phong, thăng cấp bậc hàm cấp tướng theo quy định của cơ quan có thẩm quyền.\n\n4. Cấp bậc hàm cao nhất là cấp tướng đối với chức vụ của sĩ quan ở đơn vị thành lập mới do Ủy ban thường vụ Quốc hội quyết định.\n\nCấp bậc hàm cao nhất đối với sĩ quan còn lại là cấp tá, cấp úy do Bộ trưởng Bộ Công an quy định."
+   }
+  },
+  {
+   "id": "VN-H574-A25",
+   "no": 25,
+   "noLabel": {
+    "vi": "Điều 25"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Thẩm quyền phong, thăng, giáng, tước cấp bậc hàm sĩ quan, hạ sĩ quan, chiến sĩ; bổ nhiệm, miễn nhiệm, cách chức, giáng chức các chức vụ trong Công an nhân dân"
+   },
+   "text": {
+    "vi": "Điều 25. Thẩm quyền phong, thăng, giáng, tước cấp bậc hàm sĩ quan, hạ sĩ quan, chiến sĩ; bổ nhiệm, miễn nhiệm, cách chức, giáng chức các chức vụ trong Công an nhân dân\n\n1. Chủ tịch nước phong, thăng cấp bậc hàm cấp tướng đối với sĩ quan Công an nhân dân.\n\n2. Thủ tướng Chính phủ bổ nhiệm các chức vụ Thứ trưởng, Tổng cục trưởng, Tư lệnh, Chính ủy Bộ Tư lệnh trong Công an nhân dân.\n\n3. Bộ trưởng Bộ Công an phong, thăng cấp bậc hàm cấp tá; bổ nhiệm các chức vụ Phó Tổng cục trưởng, Phó Tư lệnh, Phó Chính ủy Bộ Tư lệnh, Cục trưởng, Phó Cục trưởng và các chức vụ, chức danh tương đương, Giám đốc, Phó Giám đốc Công an tỉnh, thành phố trực thuộc trung ương, Giám đốc, Phó Giám đốc Cảnh sát phòng cháy và chữa cháy tỉnh, thành phố trực thuộc trung ương; quy định việc phong, thăng các cấp bậc hàm, bổ nhiệm các chức vụ, chức danh còn lại trong Công an nhân dân.\n\n4. Người có thẩm quyền phong, thăng cấp bậc hàm nào thì có thẩm quyền tước, giáng cấp bậc hàm đó; mỗi lần chỉ được thăng, giáng một cấp bậc hàm, trừ trường hợp đặc biệt mới xét thăng, giáng nhiều cấp bậc hàm. Người có thẩm quyền bổ nhiệm chức vụ nào thì có thẩm quyền miễn nhiệm, cách chức, giáng chức đối với chức vụ đó."
+   }
+  },
+  {
+   "id": "VN-H574-A26",
+   "no": 26,
+   "noLabel": {
+    "vi": "Điều 26"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Thủ tục phong, thăng cấp bậc hàm trong Công an nhân dân"
+   },
+   "text": {
+    "vi": "Điều 26. Thủ tục phong, thăng cấp bậc hàm trong Công an nhân dân\n\n1. Thủ tướng Chính phủ trình Chủ tịch nước phong, thăng, giáng, tước cấp bậc hàm cấp tướng.\n\nViệc phong, thăng, giáng, tước cấp bậc hàm cấp tướng của sĩ quan Công an nhân dân biệt phái theo đề nghị của cơ quan, tổ chức nơi được cử đến biệt phái và Bộ trưởng Bộ Công an.\n\n2. Thủ tục phong, thăng, giáng, tước cấp bậc hàm sĩ quan cấp tá, cấp úy và hạ sĩ quan, chiến sĩ do Bộ trưởng Bộ Công an quy định."
+   }
+  },
+  {
+   "id": "VN-H574-A27",
+   "no": 27,
+   "noLabel": {
+    "vi": "Điều 27"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Điều động sĩ quan, hạ sĩ quan, chiến sĩ Công an nhân dân"
+   },
+   "text": {
+    "vi": "Điều 27. Điều động sĩ quan, hạ sĩ quan, chiến sĩ Công an nhân dân\n\n1. Người có thẩm quyền bổ nhiệm chức vụ nào thì có quyền điều động người giữ chức vụ đó.\n\n2. Sĩ quan, hạ sĩ quan, chiến sĩ Công an nhân dân phục tùng sự điều động của cấp có thẩm quyền."
+   }
+  },
+  {
+   "id": "VN-H574-A28",
+   "no": 28,
+   "noLabel": {
+    "vi": "Điều 28"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Biệt phái sĩ quan Công an nhân dân"
+   },
+   "text": {
+    "vi": "Điều 28. Biệt phái sĩ quan Công an nhân dân\n\n1. Căn cứ yêu cầu nhiệm vụ bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội, đấu tranh phòng, chống tội phạm, cấp có thẩm quyền quyết định biệt phái sĩ quan đến công tác tại cơ quan, tổ chức ngoài Công an nhân dân theo quy định của pháp luật.\n\n2. Sĩ quan biệt phái được hưởng chế độ, chính sách như sĩ quan đang công tác trong Công an nhân dân. Việc phong, thăng, giáng, tước cấp bậc hàm đối với sĩ quan biệt phái thực hiện như đối với sĩ quan đang công tác trong Công an nhân dân, trừ quy định tại khoản 3 Điều 24 và khoản 1 Điều 26 của Luật này.\n\n3. Cơ quan, tổ chức nơi sĩ quan được biệt phái đến có trách nhiệm giao nhiệm vụ, giữ bí mật và bảo đảm điều kiện làm việc, sinh hoạt cho sĩ quan biệt phái theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H574-A29",
+   "no": 29,
+   "noLabel": {
+    "vi": "Điều 29"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Hạn tuổi phục vụ của sĩ quan Công an nhân dân"
+   },
+   "text": {
+    "vi": "Điều 29. Hạn tuổi phục vụ của sĩ quan Công an nhân dân\n\n1. Hạn tuổi phục vụ cao nhất của sĩ quan Công an nhân dân quy định như sau:\n\na) Cấp úy: 53;\n\nb) Thiếu tá, Trung tá: nam 55, nữ 53;\n\nc) Thượng tá: nam 58, nữ 55;\n\nd) Đại tá: nam 60, nữ 55;\n\nđ) Cấp tướng: nam 60, nữ 55.\n\n2. Trường hợp đơn vị công an có nhu cầu, sĩ quan quy định tại các điểm a, b và c khoản 1 Điều này nếu có đủ phẩm chất, giỏi về chuyên môn, nghiệp vụ, có sức khỏe tốt và tự nguyện thì có thể được kéo dài tuổi phục vụ theo quy định của Bộ trưởng Bộ Công an, nhưng không quá 60 đối với nam và 55 đối với nữ.\n\n3. Sĩ quan là giáo sư, phó giáo sư, tiến sĩ, chuyên gia cao cấp, nữ sĩ quan cấp tướng có thể được kéo dài hạn tuổi phục vụ hơn 60 đối với nam và hơn 55 đối với nữ theo quy định của Chính phủ; trường hợp đặc biệt có thể kéo dài khi có yêu cầu theo quyết định của Chủ tịch nước.\n\n4. Sĩ quan Công an nhân dân được nghỉ hưu khi có đủ điều kiện theo quy định của pháp luật; trường hợp chưa đủ điều kiện nghỉ hưu theo quy định của pháp luật mà Công an nhân dân không còn nhu cầu bố trí hoặc không chuyển ngành được hoặc sĩ quan tự nguyện xin nghỉ nếu nam sĩ quan có đủ hai mươi lăm năm, nữ sĩ quan có đủ hai mươi năm phục vụ trong Công an nhân dân thì được nghỉ hưu trước hạn tuổi quy định tại khoản 1 Điều này."
+   }
+  },
+  {
+   "id": "VN-H574-A30",
+   "no": 30,
+   "noLabel": {
+    "vi": "Điều 30"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Nghĩa vụ, trách nhiệm của sĩ quan, hạ sĩ quan, chiến sĩ Công an nhân dân"
+   },
+   "text": {
+    "vi": "Điều 30. Nghĩa vụ, trách nhiệm của sĩ quan, hạ sĩ quan, chiến sĩ Công an nhân dân\n\n1. Tuyệt đối trung thành với Tổ quốc, Nhân dân, với Đảng và Nhà nước.\n\n2. Nghiêm chỉnh chấp hành chủ trương, đường lối của Đảng, chính sách, pháp luật của Nhà nước, điều lệnh Công an nhân dân, chỉ thị, mệnh lệnh của cấp trên.\n\n3. Trung thực, dũng cảm, cảnh giác, sẵn sàng chiến đấu, hoàn thành mọi nhiệm vụ được giao.\n\n4. Tôn trọng và bảo vệ quyền, lợi ích hợp pháp của cơ quan, tổ chức, cá nhân; liên hệ chặt chẽ với Nhân dân; tận tụy phục vụ Nhân dân, kính trọng, lễ phép đối với Nhân dân.\n\n5. Thường xuyên học tập nâng cao trình độ chính trị, pháp luật, khoa học - kỹ thuật, chuyên môn, nghiệp vụ; rèn luyện phẩm chất cách mạng, ý thức tổ chức kỷ luật và thể lực.\n\n6. Chịu trách nhiệm trước pháp luật và cấp trên về những mệnh lệnh của mình, về việc chấp hành mệnh lệnh của cấp trên và việc thực hiện nhiệm vụ của cấp dưới thuộc quyền. Khi nhận mệnh lệnh của người chỉ huy, nếu có căn cứ cho là mệnh lệnh đó trái pháp luật thì phải báo cáo ngay với người ra mệnh lệnh; trong trường hợp vẫn phải chấp hành mệnh lệnh thì báo cáo kịp thời lên cấp trên trực tiếp của người ra mệnh lệnh và không phải chịu trách nhiệm về hậu quả của việc thi hành mệnh lệnh đó."
+   }
+  },
+  {
+   "id": "VN-H574-A31",
+   "no": 31,
+   "noLabel": {
+    "vi": "Điều 31"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Những việc sĩ quan, hạ sĩ quan, chiến sĩ Công an nhân dân không được làm"
+   },
+   "text": {
+    "vi": "Điều 31. Những việc sĩ quan, hạ sĩ quan, chiến sĩ Công an nhân dân không được làm\n\n1. Lợi dụng chức vụ, quyền hạn được giao để xâm phạm lợi ích của Nhà nước, quyền, lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.\n\n2. Những việc trái với pháp luật, điều lệnh Công an nhân dân và những việc mà pháp luật quy định cán bộ, công chức, viên chức không được làm.\n\nChương V\n\nBẢO ĐẢM HOẠT ĐỘNG VÀ CHẾ ĐỘ,\n\nCHÍNH SÁCH ĐỐI VỚI CÔNG AN NHÂN DÂN"
+   }
+  },
+  {
+   "id": "VN-H574-A32",
+   "no": 32,
+   "noLabel": {
+    "vi": "Điều 32"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Bảo đảm kinh phí và cơ sở vật chất phục vụ hoạt động của Công an nhân dân"
+   },
+   "text": {
+    "vi": "Điều 32. Bảo đảm kinh phí và cơ sở vật chất phục vụ hoạt động của Công an nhân dân\n\n1. Nhà nước bảo đảm điều kiện về ngân sách và cơ sở vật chất cho hoạt động bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội, đấu tranh phòng, chống tội phạm và xây dựng lực lượng Công an nhân dân bao gồm: đầu tư tài chính, trang bị vũ khí, công cụ hỗ trợ, trang bị, thiết bị, phương tiện kỹ thuật nghiệp vụ, đất đai, trụ sở, công trình, cơ sở công nghiệp và các điều kiện vật chất kỹ thuật khác.\n\n2. Trường hợp cần thiết để bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội, đấu tranh phòng, chống tội phạm, Nhà nước huy động thành tựu khoa học, công nghệ phục vụ hoạt động của Công an nhân dân bao gồm: chuyển giao công nghệ, kết quả nghiên cứu khoa học và phát triển công nghệ; bảo đảm cơ sở vật chất - kỹ thuật cho các cơ sở đào tạo, huấn luyện và nghiên cứu khoa học của Công an nhân dân; bảo đảm tiềm lực thông tin, cơ sở dữ liệu, tư liệu khoa học và công nghệ; bổ sung lực lượng, đào tạo, bồi dưỡng nhân lực khoa học và công nghệ phục vụ hoạt động bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội, đấu tranh phòng, chống tội phạm.\n\n3. Đối với vũ khí, công cụ hỗ trợ, trang bị, thiết bị, phương tiện kỹ thuật nghiệp vụ phục vụ cho hoạt động của Công an nhân dân mà trong nước chưa sản xuất được hoặc chưa đáp ứng đủ nhu cầu thì Bộ trưởng Bộ Công an trình Thủ tướng Chính phủ quyết định nhập khẩu theo quy định của pháp luật\n\n4. Chính phủ quy định chi tiết khoản 1 và khoản 2 Điều này."
+   }
+  },
+  {
+   "id": "VN-H574-A33",
+   "no": 33,
+   "noLabel": {
+    "vi": "Điều 33"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Trang bị vũ khí, công cụ hỗ trợ và phương tiện kỹ thuật nghiệp vụ của Công an nhân dân"
+   },
+   "text": {
+    "vi": "Điều 33. Trang bị vũ khí, công cụ hỗ trợ và phương tiện kỹ thuật nghiệp vụ của Công an nhân dân\n\n1. Công an nhân dân được Nhà nước trang bị vũ khí, vật liệu nổ, công cụ hỗ trợ và phương tiện kỹ thuật nghiệp vụ phù hợp với nhiệm vụ được giao.\n\n2. Nhà nước có chính sách ưu tiên ứng dụng thành tựu khoa học và công nghệ hiện đại; đầu tư nghiên cứu sản xuất thiết bị, phương tiện kỹ thuật nghiệp vụ và công cụ hỗ trợ phục vụ công tác, chiến đấu và xây dựng lực lượng Công an nhân dân."
+   }
+  },
+  {
+   "id": "VN-H574-A34",
+   "no": 34,
+   "noLabel": {
+    "vi": "Điều 34"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Trang phục, Công an hiệu, cờ hiệu, cấp hiệu, phù hiệu, giấy chứng minh Công an nhân dân"
+   },
+   "text": {
+    "vi": "Điều 34. Trang phục, Công an hiệu, cờ hiệu, cấp hiệu, phù hiệu, giấy chứng minh Công an nhân dân\n\nTrang phục, Công an hiệu, cờ hiệu, cấp hiệu, phù hiệu, giấy chứng minh Công an nhân dân do Chính phủ quy định."
+   }
+  },
+  {
+   "id": "VN-H574-A35",
+   "no": 35,
+   "noLabel": {
+    "vi": "Điều 35"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Chính sách đào tạo, bồi dưỡng sĩ quan, hạ sĩ quan, chiến sĩ Công an nhân dân"
+   },
+   "text": {
+    "vi": "Điều 35. Chính sách đào tạo, bồi dưỡng sĩ quan, hạ sĩ quan, chiến sĩ Công an nhân dân\n\n1. Sĩ quan, hạ sĩ quan, chiến sĩ Công an nhân dân được đào tạo, bồi dưỡng về chính trị, pháp luật, chuyên môn, nghiệp vụ và kiến thức cần thiết khác phù hợp với nhiệm vụ được giao; được Nhà nước khuyến khích và tạo điều kiện phát triển tài năng để phục vụ Công an nhân dân.\n\n2. Nhà nước có chính sách ưu tiên đào tạo, bồi dưỡng sĩ quan, hạ sĩ quan, chiến sĩ Công an nhân dân là người dân tộc thiểu số."
+   }
+  },
+  {
+   "id": "VN-H574-A36",
+   "no": 36,
+   "noLabel": {
+    "vi": "Điều 36"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Tiền lương, phụ cấp, nhà ở và điều kiện làm việc đối với sĩ quan, hạ sĩ quan, chiến sĩ Công an nhân dân"
+   },
+   "text": {
+    "vi": "Điều 36. Tiền lương, phụ cấp, nhà ở và điều kiện làm việc đối với sĩ quan, hạ sĩ quan, chiến sĩ Công an nhân dân\n\n1. Chế độ tiền lương và phụ cấp do Chính phủ quy định; tiền lương của sĩ quan, hạ sĩ quan phục vụ theo chế độ chuyên nghiệp được tính theo chức vụ, chức danh đảm nhiệm và cấp bậc hàm, phù hợp với tính chất, nhiệm vụ của Công an nhân dân; phụ cấp thâm niên được tính theo mức lương hiện hưởng và thời gian phục vụ trong Công an nhân dân; được hưởng trợ cấp, phụ cấp như đối với cán bộ, công chức có cùng điều kiện làm việc và trợ cấp, phụ cấp đặc thù Công an nhân dân.\n\n2. Sĩ quan Công an nhân dân nếu giữ nhiều chức vụ, chức danh trong cùng một thời điểm thì được hưởng quyền lợi của chức vụ, chức danh cao nhất và phụ cấp kiêm nhiệm chức vụ, chức danh theo quy định của pháp luật.\n\n3. Sĩ quan Công an nhân dân được giữ nguyên quyền lợi của chức vụ, chức danh đang đảm nhiệm khi được giao chức vụ, chức danh thấp hơn chức vụ, chức danh đang đảm nhiệm do yêu cầu công tác hoặc thay đổi tổ chức, biên chế.\n\n4. Sĩ quan Công an nhân dân khi có quyết định miễn nhiệm chức vụ, chức danh thì được hưởng các quyền lợi theo chức vụ, chức danh mới.\n\n5. Sĩ quan, hạ sĩ quan, chiến sĩ Công an nhân dân được bảo đảm doanh trại và các điều kiện làm việc, sinh hoạt phù hợp với tính chất công việc, nhiệm vụ được giao.\n\n6. Sĩ quan nghiệp vụ và sĩ quan chuyên môn kỹ thuật được hưởng phụ cấp nhà ở, được bảo đảm nhà ở công vụ; sĩ quan, hạ sĩ quan, chiến sĩ Công an nhân dân được hưởng chính sách hỗ trợ về nhà ở xã hội theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H574-A37",
+   "no": 37,
+   "noLabel": {
+    "vi": "Điều 37"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Chăm sóc sức khoẻ đối với sĩ quan, hạ sĩ quan, chiến sĩ, sinh viên, học sinh Công an nhân dân và thân nhân"
+   },
+   "text": {
+    "vi": "Điều 37. Chăm sóc sức khoẻ đối với sĩ quan, hạ sĩ quan, chiến sĩ, sinh viên, học sinh Công an nhân dân và thân nhân\n\n1. Sĩ quan, hạ sĩ quan, chiến sĩ, sinh viên, học sinh Công an nhân dân được bảo đảm chăm sóc sức khoẻ; khi bị thương, ốm đau, tai nạn, rủi ro nghề nghiệp ở xa các cơ sở y tế Công an nhân dân hoặc mắc những bệnh mà cơ sở y tế Công an nhân dân không có khả năng điều trị thì được khám bệnh, chữa bệnh tại các cơ sở y tế khác, được thanh toán viện phí và thực hiện các chế độ khác theo quy định của pháp luật.\n\n2. Bố, mẹ, người nuôi dưỡng hợp pháp của chồng và của vợ, vợ hoặc chồng và con dưới 18 tuổi của sĩ quan, hạ sĩ quan, chiến sĩ, sinh viên, học sinh Công an nhân dân không có chế độ bảo hiểm y tế thì được Công an nhân dân mua bảo hiểm y tế, được khám bệnh, chữa bệnh tại các cơ sở y tế theo quy định của pháp luật.\n\n3. Nhà nước bảo đảm kinh phí để thực hiện quy định tại khoản 1 và khoản 2 Điều này."
+   }
+  },
+  {
+   "id": "VN-H574-A38",
+   "no": 38,
+   "noLabel": {
+    "vi": "Điều 38"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Chế độ nghỉ ngơi của sĩ quan, hạ sĩ quan, chiến sĩ Công an nhân dân"
+   },
+   "text": {
+    "vi": "Điều 38. Chế độ nghỉ ngơi của sĩ quan, hạ sĩ quan, chiến sĩ Công an nhân dân\n\nSĩ quan, hạ sĩ quan, chiến sĩ Công an nhân dân đang công tác được nghỉ ngơi theo quy định của Bộ luật lao động và theo quy định của Bộ trưởng Bộ Công an."
+   }
+  },
+  {
+   "id": "VN-H574-A39",
+   "no": 39,
+   "noLabel": {
+    "vi": "Điều 39"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Chế độ, chính sách đối với sĩ quan, hạ sĩ quan, chiến sĩ Công an nhân dân nghỉ hưu, chuyển ngành, xuất ngũ, nghỉ theo chế độ bệnh binh, hy sinh, từ trần"
+   },
+   "text": {
+    "vi": "Điều 39. Chế độ, chính sách đối với sĩ quan, hạ sĩ quan, chiến sĩ Công an nhân dân nghỉ hưu, chuyển ngành, xuất ngũ, nghỉ theo chế độ bệnh binh, hy sinh, từ trần\n\n1. Sĩ quan Công an nhân dân nghỉ hưu được hưởng các quyền lợi sau đây:\n\na) Lương hưu tính trên cơ sở quy định tại khoản 1 Điều 36 của Luật này và theo quy định của pháp luật về bảo hiểm xã hội;\n\nb) Nếu nghỉ hưu trước hạn tuổi phục vụ theo quy định tại khoản 1 và khoản 2 Điều 29 của Luật này do thay đổi tổ chức, biên chế hoặc không còn nhu cầu bố trí, sử dụng thì ngoài chế độ bảo hiểm xã hội theo quy định của pháp luật về bảo hiểm xã hội còn được hưởng trợ cấp một lần theo quy định của Chính phủ;\n\nc) Sử dụng trang phục Công an nhân dân, Công an hiệu, cấp hiệu, phù hiệu trong các ngày lễ; các cuộc hội họp và cuộc giao lưu truyền thống của Công an nhân dân;\n\nd) Được chính quyền địa phương nơi cư trú tạo điều kiện ổn định cuộc sống; trường hợp chưa có nhà ở thì được được hưởng chính sách hỗ trợ về nhà ở xã hội theo quy định của pháp luật;\n\nđ) Được hưởng chế độ bảo hiểm y tế theo quy định của pháp luật, được khám, chữa bệnh theo cấp bậc hàm, chức vụ hoặc chức danh trước khi nghỉ hưu tại cơ sở y tế Công an nhân dân theo quy định của Bộ trưởng Bộ Công an.\n\n2. Sĩ quan, hạ sĩ quan Công an nhân dân chuyển ngành được hưởng các quyền lợi sau đây:\n\na) Nhà nước bảo đảm đào tạo về chuyên môn, nghiệp vụ cần thiết đối với sĩ quan, hạ sĩ quan chuyển ngành theo yêu cầu của tổ chức;\n\nb) Bảo lưu mức lương và phụ cấp thâm niên tại thời điểm chuyển ngành trong thời gian tối thiểu là 18 tháng;\n\nc) Các quyền lợi quy định tại điểm c khoản 1 Điều này;\n\nd) Trường hợp do yêu cầu điều động trở lại phục vụ trong Công an nhân dân thì thời gian chuyển ngành được tính vào thời gian công tác liên tục để xét thăng cấp bậc hàm và thâm niên công tác;\n\nđ) Khi nghỉ hưu được hưởng phụ cấp thâm niên tính theo thời gian phục vụ trong Công an nhân dân và mức lương hiện hưởng; trường hợp mức lương hiện hưởng thấp hơn mức lương tại thời điểm chuyển ngành thì được lấy mức lương tại thời điểm chuyển ngành để tính lương hưu theo quy định của pháp luật.\n\n3. Sĩ quan, hạ sĩ quan xuất ngũ được hưởng các quyền lợi sau đây:\n\na) Trợ cấp tạo việc làm và trợ cấp một lần theo quy định của Chính phủ;\n\nb) Các quyền lợi quy định tại điểm c và điểm d khoản 1 Điều này;\n\nc) Trường hợp có đủ mười lăm năm phục vụ trong Công an nhân dân trở lên, khi ốm đau được khám bệnh, chữa bệnh tại cơ sở y tế của Công an nhân dân theo quy định của Bộ trưởng Bộ Công an.\n\n4. Sĩ quan, hạ sĩ quan Công an nhân dân nghỉ theo chế độ bệnh binh được hưởng các quyền lợi sau đây:\n\na) Chế độ về ưu đãi người có công với cách mạng và chế độ bảo hiểm xã hội theo quy định của pháp luật;\n\nb) Quyền lợi quy định tại điểm c và điểm d khoản 1 Điều này.\n\n5. Sĩ quan, hạ sĩ quan Công an nhân dân có thời gian trực tiếp chiến đấu, phục vụ chiến đấu hoặc công tác ở địa bàn khó khăn, ngành nghề đặc thù thì được quy đổi thời gian đó để tính hưởng quyền lợi khi thôi phục vụ trong Công an nhân dân.\n\n6. Sĩ quan, hạ sĩ quan, chiến sĩ Công an nhân dân đang công tác mà hy sinh thì thân nhân của sĩ quan, hạ sĩ quan, chiến sĩ đó được hưởng các chế độ theo quy định của pháp luật về ưu đãi người có công với cách mạng, chế độ bảo hiểm xã hội theo quy định của pháp luật về bảo hiểm xã hội và được hưởng trợ cấp một lần theo quy định của Chính phủ.\n\n7. Sĩ quan, hạ sĩ quan, chiến sĩ Công an nhân dân đang công tác mà từ trần thì thân nhân của sĩ quan, hạ sĩ quan, chiến sĩ đó được hưởng chế độ bảo hiểm xã hội theo quy định của pháp luật về bảo hiểm xã hội và được hưởng trợ cấp một lần theo quy định của Chính phủ."
+   }
+  },
+  {
+   "id": "VN-H574-A40",
+   "no": 40,
+   "noLabel": {
+    "vi": "Điều 40"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Chế độ, chính sách đối với sinh viên, học sinh, công nhân công an, hạ sĩ quan, chiến sĩ nghĩa vụ"
+   },
+   "text": {
+    "vi": "Điều 40. Chế độ, chính sách đối với sinh viên, học sinh, công nhân công an, hạ sĩ quan, chiến sĩ nghĩa vụ\n\n1. Sinh viên, học sinh Công an nhân dân được hưởng sinh hoạt phí và chế độ, chính sách theo quy định của pháp luật đối với hạ sĩ quan, chiến sĩ nghĩa vụ.\n\n2. Công nhân công an có quyền và nghĩa vụ theo quy định của pháp luật về lao động và các quy định khác của pháp luật có liên quan.\n\n3. Hạ sĩ quan, chiến sĩ nghĩa vụ và thân nhân được hưởng các chế độ, chính sách quy định đối với hạ sĩ quan, binh sĩ phục vụ tại ngũ trong lực lượng vũ trang; khi hết thời hạn phục vụ được trợ cấp học nghề hoặc trợ cấp tạo việc làm và được ưu tiên thi tuyển vào các trường Công an nhân dân, được hưởng chế độ, chính sách khác theo quy định của Chính phủ.\n\nChương VI\n\nKHEN THƯỞNG VÀ XỬ LÝ VI PHẠM"
+   }
+  },
+  {
+   "id": "VN-H574-A41",
+   "no": 41,
+   "noLabel": {
+    "vi": "Điều 41"
+   },
+   "chapter": {
+    "vi": "Chương VI"
+   },
+   "heading": {
+    "vi": "Khen thưởng"
+   },
+   "text": {
+    "vi": "Điều 41. Khen thưởng\n\n1. Sĩ quan, hạ sĩ quan, chiến sĩ Công an nhân dân, công nhân công an có thành tích trong chiến đấu, công tác thì tùy theo công trạng được xét tặng thưởng huân chương, huy chương, danh hiệu vinh dự nhà nước và các hình thức khen thưởng khác theo quy định của pháp luật.\n\n2. Cơ quan, tổ chức, cá nhân tham gia, phối hợp, cộng tác, giúp đỡ Công an nhân dân trong bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội, đấu tranh phòng, chống tội phạm thì tuỳ theo công trạng được xét khen thưởng theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H574-A42",
+   "no": 42,
+   "noLabel": {
+    "vi": "Điều 42"
+   },
+   "chapter": {
+    "vi": "Chương VI"
+   },
+   "heading": {
+    "vi": "Xử lý vi phạm"
+   },
+   "text": {
+    "vi": "Điều 42. Xử lý vi phạm\n\n1. Sĩ quan, hạ sĩ quan, chiến sĩ Công an nhân dân, công nhân công an vi phạm kỷ luật, vi phạm pháp luật thì tuỳ theo tính chất, mức độ vi phạm bị xử lý kỷ luật, xử phạt hành chính hoặc bị truy cứu trách nhiệm hình sự; nếu gây thiệt hại cho sức khoẻ, tính mạng của người khác, tài sản hoặc lợi ích hợp pháp của cơ quan, tổ chức, cá nhân thì phải bồi thường theo quy định của pháp luật.\n\n2. Sĩ quan, hạ sĩ quan, chiến sĩ Công an nhân dân không được sử dụng Công an hiệu, cấp hiệu, phù hiệu khi bị khởi tố, tạm giữ, tạm giam; nếu bị phạt tù thì đương nhiên bị tước Công an hiệu, cấp hiệu, phù hiệu khi bản án có hiệu lực pháp luật.\n\n3. Cơ quan, tổ chức, cá nhân có hành vi chống đối, cản trở hoạt động của sĩ quan, hạ sĩ quan, chiến sĩ Công an nhân dân trong thi hành công vụ thì tuỳ tính chất, mức độ vi phạm bị xử lý theo quy định của pháp luật.\n\nChương VII\n\nĐIỀU KHOẢN THI HÀNH"
+   }
+  },
+  {
+   "id": "VN-H574-A43",
+   "no": 43,
+   "noLabel": {
+    "vi": "Điều 43"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {
+    "vi": "Hiệu lực thi hành"
+   },
+   "text": {
+    "vi": "Điều 43. Hiệu lực thi hành\n\n1. Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2015.\n\nCác quy định về phong, thăng, giáng, tước cấp bậc hàm cấp tướng; bổ nhiệm, miễn nhiệm, cách chức, giáng chức các chức vụ có cấp bậc hàm cao nhất là cấp tướng có hiệu lực thi hành kể từ ngày Luật này được công bố.\n\n2. Luật Công an nhân dân số 54/2005/QH11 ngày 29 tháng 11 năm 2005 hết hiệu lực thi hành kể từ ngày Luật này có hiệu lực thi hành."
+   }
+  },
+  {
+   "id": "VN-H574-A44",
+   "no": 44,
+   "noLabel": {
+    "vi": "Điều 44"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {
+    "vi": "Điều khoản chuyển tiếp"
+   },
+   "text": {
+    "vi": "Điều 44. Điều khoản chuyển tiếp\n\n1. Việc sử dụng vũ khí, vật liệu nổ, công cụ hỗ trợ của Công an nhân dân thực hiện theo quy định của pháp luật hiện hành cho đến thời điểm luật về vũ khí, vật liệu nổ, công cụ hỗ trợ được ban hành.\n\n2. Chức năng, nhiệm vụ, quyền hạn, tổ chức, hoạt động và chế độ, chính sách đối với Công an xã thực hiện theo quy định của pháp luật hiện hành cho đến thời điểm luật về Công an xã được ban hành."
+   }
+  },
+  {
+   "id": "VN-H574-A45",
+   "no": 45,
+   "noLabel": {
+    "vi": "Điều 45"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {
+    "vi": "Quy định chi tiết"
+   },
+   "text": {
+    "vi": "Điều 45. Quy định chi tiết\n\nChính phủ, cơ quan có thẩm quyền quy định chi tiết các điều, khoản được giao trong Luật.\n\nLuật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 8 thông qua ngày 27 tháng 11 năm 2014./.\n\n1:{\"id\":\"46817\",\"docType\":{\"id\":\"11025e19-2dd6-4165-85ad-ab6241186a1a\",\"name\":\"Luật\",\"code\":\"Lu\",\"parentCode\":\"VBQPPL\",\"parentName\":null},\"docGroup\":\"VBQPPL\",\"docNum\":\"73/2014/QH13\",\"title\":\"Luật Công an nhân dân số 73/2014/QH13\",\"applicationNote\":null,\"issueDate\":\"2014-11-27T00:00:00\",\"effFrom\":\"2015-07-01T00:00:00\",\"effTo\":\"2019-07-01T00:00:00\",\"publicDate\":null,\"effStatus\":{\"id\":\"f55c1469-4341-4274-93ef-32b283db4dbd\",\"name\":\"Hết hiệu lực toàn bộ\",\"code\":\"HHL\",\"parentCode\":null,\"parentName\":null},\"status\":\"Publish\",\"lang\":\"vi\",\"defaultLanguage\":\"VN\",\"updatedBy\":\"dungdvm_II.2\",\"updatedDate\":\"2026-01-16T17:33:21\",\"agencyName\":\"Quốc hội\",\"organization\":{\"id\":\"0995e017-a693-4ca7-9dc6-b0a969fe5f19\",\"code\":\"BCA\",\"name\":\"Bộ Công an\",\"nameEn\":\"Bộ Công an\",\"shortName\":\"BCA\",\"orgType\":\"0\"},\"isLw\":true,\"documentContent\":{\"id\":\"46817\",\"title\":null,\"content\":\"$2\"},\"documentContentEn\":null,\"documentContentFileName\":null,\"documentContentFileDocName\":null,\"documentIssues\":[{\"id\":\"c55fe27f-ae4e-4de0-8104-d9aa99628966\",\"agencyId\":\"55\",\"agencyName\":\"Quốc hội\",\"agencyNameEn\":\"National Assembly of Vietnam\",\"agencyCode\":\"QH\",\"personId\":\"122\",\"personName\":\"Nguyễn Sinh Hùng\",\"jobTitleId\":\"28da0087-8afd-420c-875c-b2369e212c3e\",\"jobTitleCode\":\"CTQH\",\"jobTitleName\":\"Chủ tịch Quốc hội\",\"orderIndex\":1}],\"documentMajors\":[{\"id\":\"69\",\"name\":\"Công an\",\"code\":null,\"parentCode\":null,\"parentName\":null}],\"documentFields\":[{\"id\":\"76e2c0d5-e93e-4ee9-8c72-59dae1167432\",\"name\":\"Chưa phân loại\",\"code\":null,\"parentCode\":null,\"parentName\":null}],\"documentRelatedList\":[{\"id\":\"0bdb9e5c-1e2d-4e2b-9c1b-97cb06349821\",\"fileName\":\"46817_body_content.html\",\"relatedType\":\"MARKDOWN\",\"fileTitle\":\"46817_body_content.html\",\"fileOrder\":null}],\"provisionTree\":null,\"references\":null,\"isEffectAllDocument\":false,\"isOld\":true,\"reviewStatus\":\"INITIAL\",\"reviewed\":false,\"isTranslationDoc\":false,\"isConsolidatedDocument\":false,\"isConstitutionDocument\":false,\"isAdministrativeDocument\":false,\"viewCount\":59,\"showViewCount\":true,\"hasContent\":true,\"hasOriginalPdf\":null,\"hasAIProcessed\":false,\"hasClauseRelation\":true,\"aiResults\":[]}"
+   }
+  }
+ ]
+}

@@ -1,0 +1,686 @@
+{
+ "id": "ID-H625",
+ "title": {
+  "zh": "铁路法",
+  "en": "Law on Railways",
+  "id": "PERKERETAAPIAN",
+  "orig": "PERKERETAAPIAN",
+  "vi": "Luật về Đường sắt",
+  "th": "พระราชบัญญัติว่าด้วยการรถไฟ",
+  "ms": "Akta tentang Keretapi"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02b",
+ "language": "id",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "1992",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU13-1992",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 46,
+ "chars": 41792,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU_NO_13_TH_1992.pdf&fl=P00933"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\01_宪法与基础法\\印尼_文本_1992_PERKERETAAPIAN.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 46 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H625-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\n\nDalam Undang-undang ini yang dimaksud dengan:\n\n1. Perkeretaapian adalah segala sesuatu yang berkaitan dengan\nsarana, prasarana, dan fasilitas penunjang kereta api untuk\npenyelenggaraan angkutan kereta api yang disusun dalam satu\nsistem;\n\n2. Kereta api adalah kendaraan deng an tenaga gerak, baik berjalan\nsendiri maupun dirangkaikan dengan kendaraan lainnya, yang akan\nataupun sedang bergerak di jalan rel,\n\n3. Jaringan jalur kereta api adalah seluruh jalur kereta api yang\nterkait satu sama lain yang menghubungkan berbagai tempat\nsehingga merupakan satu sistem;\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n4. Jalur kereta api khusus adalah  jalur kereta api yang digunakan\nsecara khusus oleh badan usaha tertentu untuk menunjang\nkegiatannya;\n\n5. Fasilitas keselamatan perkeretaapian adalah perangkat bangunan,\nperalatan, dan perlengkapan yang digunakan untuk menunjang\nkelancaran dan keselamatan perjalanan kereta api;\n\n6. Sarana kereta api adalah segala sesuatu yang dapat bergerak di atas\njalan rel;\n\n7. Prasarana kereta api adalah jalu r dan stasiun kereta api termasuk\nfasilitas yang diperlukan agar sarana kereta api dapat dioperasikan;\n\n8. Fasilitas penunjang kereta api adalah segala sesuatu yang\nmelengkapi penyelenggaraan angkutan kereta api yang dapat\nmemberikan kemudahan serta kenyamanan bagi pengguna jasa\nkereta api;\n\n9. Pengguna jasa adalah setiap orang dan/atau badan hukum yang\nmenggunakan jasa angkutan kereta  api baik untuk angkutan orang\nmaupun barang;\n\n10.Badan penyelenggara adalah badan usaha milik negara yang\nmelaksanakan penyelenggaraan angkutan kereta api;\n\n11.Menteri adalah Menteri yang bertanggung jawab di bidang\nperkeretaapian.\n\n\n\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nBAB II\nASAS DAN TUJUAN"
+   }
+  },
+  {
+   "id": "ID-H625-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\n\nPerkeretaapian sebagai salah satu moda transportasi nasional\ndiselenggarakan berdasarkan asas manfaat, adil dan merata,\nkeseimbangan, kepentingan umum, keterpaduan, dan percaya pada\ndiri sendiri."
+   }
+  },
+  {
+   "id": "ID-H625-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\n\nPerkeretaapian diselenggarakan dengan tujuan untuk memperlancar\nperpindahan orang dan/atau barang secara masal, menunjang\npemerataan, pertumbuhan dan stabilitas serta sebagai pendorong dan\npenggerak pembangunan nasional.\n\n\nBAB III\nPEMBINAAN"
+   }
+  },
+  {
+   "id": "ID-H625-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\n\nPerkeretaapian dikuasai oleh Negara dan pembinaannya dilakukan\noleh Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H625-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\n\n(1) Pembinaan perkeretaapian diarahkan untuk meningkatkan\nperanserta angkutan kereta api dalam keseluruhan moda\ntransportasi secara terpadu.\n\n(2) Ketentuan mengenai pembinaan perkeretaapian sebagaimana\ndimaksud dalam ayat (1), diatur lebih lanjut dengan Peraturan\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nPemerintah.\n\nBAB IV\nPENYELENGGARAAN"
+   }
+  },
+  {
+   "id": "ID-H625-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\n\n(1) Perkeretaapian diselenggarakan oleh Pemerintah dan\npelaksanaannya diserahkan kepada badan penyelenggara yang\ndibentuk untuk itu berdasarkan peraturan perundang-undangan\nyang berlaku.\n\n(2) Badan usaha lain selain badan penyelenggara sebagaimana\ndimaksud dalam ayat (1), dapat diikutsertakan dalam kegiatan\nperkeretaapian atas dasar kerjasama dengan badan\npenyelenggara.\n\n(3) Bentuk dan syarat-syarat kerjasama sebagaimana dimaksud\ndalam ayat (2), diatur lebih lanjut dengan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H625-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\n\n(1) Untuk menunjang kegiatan badan usaha di bidang industri,\npertanian, pertambangan, dan kepariwisataan oleh badan usaha\nyang bersangkutan dapat digunakan kereta api khusus.\n\n(2) Ketentuan sebagaimana dimaksud  dalam ayat (1), diatur lebih\nlanjut dengan Peraturan Pemerintah.\n\n\n\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nBAB V\nPRASARANA DAN SARANA"
+   }
+  },
+  {
+   "id": "ID-H625-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n\n(1) Pemerintah menyediakan dan merawat prasarana kereta api.\n\n(2) Penyediaan dan perawatan prasarana sebagaimana dimaksud\ndalam ayat (1), dapat dilimpahkan kepada badan penyelenggara.\n\n(3) Pengusahaan prasarana sebaga imana dimaksud dalam ayat (1),\ndilaksanakan oleh badan penyelenggara."
+   }
+  },
+  {
+   "id": "ID-H625-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n\n(1) Badan penyelenggara menyediakan dan merawat sarana kereta\napi.\n\n(2) Penyediaan dan perawatan sarana sebagaimana dimaksud dalam\nayat (1), dapat dilakukan oleh badan usaha lain sebagaimana\ndimaksud dalam Pasal 6 ayat (2), dengan cara kerjasama dengan\nbadan penyelenggara.\n\n(3) Pengusahaan sarana sebagaimana dimaksud dalam ayat (1) dan\nayat (2), dilaksanakan oleh badan penyelenggara."
+   }
+  },
+  {
+   "id": "ID-H625-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\n\n(1) Prasarana dan sarana kereta api yang dioperasikan wajib\nmempunyai keandalan dan memenuhi persyaratan keselamatan.\n\n(2) Untuk memenuhi ketentuan sebagaimana dimaksud dalam ayat\n(1), terhadap setiap prasarana dan sarana kereta api dilakukan\npemeriksaan dan pengujian.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\n(3) Syarat keselamatan dan tata cara pemeriksaan serta pengujian\ndiatur lebih lanjut dengan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H625-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\n\nPemerintah mengembangkan rancang bangun dan rekayasa\nperkeretaapian."
+   }
+  },
+  {
+   "id": "ID-H625-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n\n(1) Pengoperasian prasarana dan sarana kereta api hanya dapat\ndilakukan oleh tenaga-tenaga yang telah memenuhi kualifikasi\nkeahlian.\n\n(2) Persyaratan keahlian dan tata cara mendapatkan kualifikasi\nsebagaimana dimaksud dalam ayat (1), diatur lebih lanjut dengan\nPeraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H625-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\n\nUntuk kelancaran dan keselamatan pengoperasian kereta api,\nPemerintah menetapkan pengaturan mengenai jalur kereta api yang\nmeliputi daerah manfaat jalan, daerah milik jalan, dan daerah\npengawasan jalan termasuk bagian bawahnya serta ruang bebas di\natasnya."
+   }
+  },
+  {
+   "id": "ID-H625-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\n\n(1) Dilarang membangun gedung, membuat tembok, pagar, tanggul\ndan bangunan lainnya, menanam je nis pohon yang tinggi serta\nmenempatkan barang pada jalur kereta api baik yang dapat\nmengganggu pandangan bebas, maupun dapat membahayakan\nkeselamatan kereta api.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\n(2) Ketentuan mengenai larangan sebagaimana dimaksud dalam ayat\n(1), diatur lebih lanjut dengan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H625-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\n\n(1) Perlintasan antara jalur kereta api dengan jalan dibuat dengan\nprinsip tidak sebidang.\n\n(2) Pengecualian terhadap prinsip sebagaimana dimaksud dalam ayat\n(1), hanya dimungkinkan deng an tetap mempertimbangkan\nkeselamatan dan kelancaran, baik perjalanan kereta api maupun\nlalu lintas di jalan.\n\n(3) Ketentuan mengenai perpotongan dan pengecualiannya\nsebagaimana dimaksud dalam ayat (1) dan ayat (2), diatur lebih\nlanjut dengan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H625-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\n\nDalam hal terjadi perpotongan jalu r kereta api dengan jalan yang\ndigunakan untuk lalu lintas umum atau lalu lintas khusus, pemakai\njalan wajib mendahulukan perjalanan kereta api."
+   }
+  },
+  {
+   "id": "ID-H625-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\n\n(1) Pembangunan jalan, jalur kereta  api khusus, terusan, saluran air\ndan/atau prasarana lain yang menimbulkan atau memerlukan\npersambungan, pemotongan atau penyinggungan dengan jalur\nkereta api, dilaksanakan dengan  cara yang tidak membahayakan\nkeselamatan perjalanan kereta api.\n\n(2) Ketentuan mengenai pelaksanaan pembangunan sebagaimana\ndimaksud dalam ayat (1), diatur lebih lanjut dengan Peraturan\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nPemerintah."
+   }
+  },
+  {
+   "id": "ID-H625-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\n\nBadan penyelenggara sebagaimana dimaksud dalam Pasal 6 ayat (1),\nberwenang melarang siapapun:\na. berada di daerah manfaat jalan kereta api;\nb. menyeret barang di atas atau melintasi jalur kereta api;\nc. menggunakan jalur kereta api untuk kepentingan lain, selain untuk\nangkutan kereta api;\nd. berada di luar tempat yang disediakan untuk angkutan penumpang\ndan/atau barang;\ne. mengganggu ketertiban dan/atau pelayanan umum."
+   }
+  },
+  {
+   "id": "ID-H625-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\n\n(1) Stasiun merupakan tempat kereta api berangkat dan berhenti\nuntuk melayani naik dan turunnya penumpang dan/atau bongkar\nmuat barang dan/atau untuk keperluan operasi kereta api.\n\n(2) Kecuali dalam hal-hal tertentu yang ditetapkan oleh badan\npenyelenggara, naik turunnya penumpang dan/atau bongkar\nmuat barang hanya dapat dilakukan di stasiun."
+   }
+  },
+  {
+   "id": "ID-H625-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\n\n(1) Selain berfungsi sebagai temp at naik atau turunnya penumpang\ndan/atau bongkar muat barang, di stasiun dapat dilakukan\nkegiatan usaha penunjang angkutan kereta api.\n\n(2) Ketentuan sebagaimana dimaksud  dalam ayat (1), diatur lebih\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nlanjut oleh Menteri.\n\nBAB VI\nJARINGAN PELAYANAN ANGKUTAN KERETA API"
+   }
+  },
+  {
+   "id": "ID-H625-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\n\n(1) Jaringan pelayanan angkutan kereta api diselenggarakan secara\nterpadu dalam satu kesatuan yang merupakan bagian tidak\nterpisahkan dari sistem transportasi secara keseluruhan.\n\n(2) Jaringan pelayanan angkutan kereta api disusun dalam jaringan\npelayanan angkutan antar kota dan jaringan pelayanan angkutan\nkota."
+   }
+  },
+  {
+   "id": "ID-H625-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\n\n(1) Jaringan pelayanan angkutan kereta api antar kota sebagaimana\ndimaksud dalam Pasal 21 ayat (2) yang berfungsi sebagai\npelayanan lintas utama, melayani angkutan jarak jauh dan\nsedang.\n\n(2) Jaringan pelayanan angkutan kereta api antar kota sebagaimana\ndimaksud dalam Pasal 21 ayat (2) yang berfungsi sebagai\npelayanan lintas cabang, melayani angkutan jarak sedang dan\ndekat."
+   }
+  },
+  {
+   "id": "ID-H625-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\n\nJaringan pelayanan angkutan kota sebagaimana dimaksud dalam Pasal\n21 ayat (2), berfungsi sebagai pelayanan lintas utama dalam satu\nsistem angkutan kota.\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H625-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 24\n\nAngkutan kereta api khusus berfungsi untuk melayani kegiatan badan\nusaha tertentu di bidang industri, pertanian, pertambangan, dan\nkepariwisataan.\n\nBAB VII\nANGKUTAN"
+   }
+  },
+  {
+   "id": "ID-H625-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\n\n(1) Penyelenggaraan pelayanan angkutan orang atau barang\ndilakukan setelah dipenuhinya syarat-syarat umum angkutan yang\nditetapkan badan penyelenggara berdasarkan Undang-undang ini.\n\n(2) Karcis penumpang atau surat angkutan barang merupakan tanda\nbukti terjadinya perjanjian angkutan."
+   }
+  },
+  {
+   "id": "ID-H625-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\n\nPenumpang dan/atau barang yang telah memenuhi syarat-syarat\numum angkutan sebagaimana dimaksud dalam Pasal 25, wajib\ndiangkut oleh badan penyelenggara."
+   }
+  },
+  {
+   "id": "ID-H625-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\n\nJika terjadi pembatalan pemberangk atan perjalanan kereta api oleh\nbadan penyelenggara, badan peny elenggara wajib mengembalikan\njumlah biaya yang telah dibayar ol eh penumpang dan/atau pengirim\nbarang."
+   }
+  },
+  {
+   "id": "ID-H625-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\n\n(1) Badan penyelenggara bertanggung jawab atas kerugian yang\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\ndiderita oleh pengguna jasa dan/ atau pihak ketiga yang timbul\ndari penyelenggaraan pelayanan angkutan kereta api.\n\n(2) Tanggung jawab sebagaimana di maksud dalam ayat (1), diberikan\ndengan ketentuan:\n\n a. sumber kerugian berasal dari pelayanan angkutan dan harus\ndibuktikan adanya kelalaian petugas, atau pihak lain yang\ndipekerjakan oleh badan penyelenggara;\n\n b. besarnya ganti rugi dibatasi sejumlah maksimum asuransi yang\nditutup oleh badan penyelenggara dalam hal penyelenggaraan\nkegiatannya."
+   }
+  },
+  {
+   "id": "ID-H625-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\n\nBadan penyelenggara diberi wewenang untuk:\n\na. melaksanakan pemeriksaan terhadap pemenuhan syarat-syarat\numum angkutan bagi penumpang dan/atau barang;\n\nb. melaksanakan penindakan atas pelanggaran terhadap syarat-syarat\numum angkutan tersebut huruf a;\n\nc. membatalkan perjalanan kereta api apabila dianggap dapat\nmembahayakan ketertiban dan kepentingan umum;\n\nd. menertibkan penumpang kereta api atau masyarakat yang\nmengganggu perjalanan kereta api."
+   }
+  },
+  {
+   "id": "ID-H625-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\n\nStruktur dan golongan tarif angkutan kereta api ditetapkan oleh\nPemerintah.\n\n\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H625-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\n\nTanggung jawab sebagaimana dimaksud dalam Pasal 28, dimulai sejak\ndiangkutnya penumpang dan/atau diterimanya barang dan berakhir di\ntempat tujuan yang disepakati."
+   }
+  },
+  {
+   "id": "ID-H625-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 32\n\n(1) Pengirim dan/atau penerima barang yang tidak mengambil\nbarangnya dari tempat penyim panan yang ditetapkan badan\npenyelenggara dalam jangka waktu yang ditetapkan sesuai\ndengan syarat-syarat umum angkutan, dikenakan biaya\npcnyimpanan barang.\n\n(2) Pengirim dan/atau penerima barang hanya dapat mengambil\nbarang setelah biaya sebagaimana dimaksud dalam ayat (1)\ndilunasi.\n\n(3) Barang yang tidak diambil seba gaimana dimaksud dalam ayat (1)\nlebih dari waktu tertentu, dinyatakan sebagai barang tak bertuan\ndan dapat dijual secara lelang sesuai ketentuan peraturan\nperundang-undangan yang berlaku."
+   }
+  },
+  {
+   "id": "ID-H625-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 33\n\nPengangkutan barang berbahaya dilaksanakan sesuai peraturan\nperundang-undangan yang berlaku."
+   }
+  },
+  {
+   "id": "ID-H625-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 34\n\nBadan penyelenggara wajib mengasuransikan tanggung jawabnya\nsebagaimana dimaksud dalam Pasal 28.\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H625-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 35\n\n(1) Penderita cacat dan/atau orang sakit berhak memperoleh\npelayanan berupa perlakuan khusus dalam bidang angkutan\nkereta api.\n\n(2) Ketentuan sebagaimana dimaksud  dalam ayat (1), diatur lebih\nlanjut dengan Peraturan Pemerintah.\n\nBAB VIII\nPENYIDIKAN"
+   }
+  },
+  {
+   "id": "ID-H625-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 36\n\n(1) Selain Pejabat Polisi Negara Republik Indonesia, Pegawai Negeri\nSipil tertentu di lingkungan departemen yang lingkup tugas dan\ntanggung jawabnya meliputi pembinaan di bidang\nperkeretaapian, dapat diberi wewenang khusus sebagai penyidik\nsebagaimana dimaksud dalam Undang-undang Nomor 8 Tahun\n1981 tentang Hukum Acara Pidana, untuk melakukan penyidikan\ntindak pidana di bidang perkeretaapian.\n\n(2) Penyidik sebagaimana dimaksud dalam ayat (1), berwenang\nuntuk:\n a. melakukan pemeriksaan atas kebenaran laporan, pengaduan\natau keterangan tentang adanya tindak pidana;\n b. memanggil dan memeriksa saksi dan/atau tersangka;\n c. melakukan penggeledahan, penyegelan dan/atau penyitaan\nalat-alat yang digunakan untuk melakukan tindak pidana;\n d. melakukan pemeriksaan tempat yang diduga digunakan untuk\nmelakukan tindak pidana;\n c. meminta keterangan kepada saksi-saksi dan mengumpulkan\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nbarang bukti dari orang dan/atau badan hukum sehubungan\ndengan tindak pidana;\n f. membuat dan menandatangani berita acara pemeriksaan;\n g. menghentikan penyidikan ap abila tidak terdapat cukup bukti\ntentang adanya tindak pidana.\n\n(3) Pelaksanaan penyidikan sebaga imana dimaksud dalam ayat (1)\ndan ayat (2), dilakukan sesuai dengan peraturan\nperundang-undangan yang berlaku.\n\nBAB IX\nKETENTUAN PIDANA"
+   }
+  },
+  {
+   "id": "ID-H625-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 37\n\nBarangsiapa membangun gedung, membuat tembok, pagar tanggul dan\nbangunan lainnya, menanam jenis pohon yang tinggi serta\nmenempatkan barang pada jalur kereta api, baik yang dapat\nmengganggu pandangan bebas maupun yang dapat membahayakan\nkeselamatan kereta api sebagaimana dimaksud dalam Pasal 14,\ndipidana dengan pidana kurungan paling lama 3 (tiga) bulan atau\ndenda setinggi-tingginya Rp 3.000.000,- (tiga juta rupiah) dan\ndiwajibkan membayar ganti rugi kepada badan penyelenggara serta\nwajib membongkar ataupun menghilangkan gangguan dimaksud."
+   }
+  },
+  {
+   "id": "ID-H625-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 38\n\nBarangsiapa karena perbuatannya mengakibatkan rusaknya pintu\nperlintasan kereta api atau tanpa hak membuka pintu perlintasan\nkereta api pada waktu kereta api akan dan/atau sedang berjalan\ndipidana dengan pidana kurungan paling lama 6 (enam) bulan atau\ndenda setinggi-tingginya Rp 6.000.000,- (enam juta rupiah) dan\ndiwajibkan membayar ganti rugi kepada badan penyelenggara.\n\n\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H625-A39",
+   "no": 39,
+   "noLabel": {
+    "id": "Pasal 39"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 39\n\nBarangsiapa melakukan perbuatan yang mengakibatkan terjadinya\npergeseran tanah di jalur kereta api, sebagaimana dimaksud dalam\nPasal 17 sehingga mengganggu atau membahayakan perjalanan kereta\napi, dipidana dengan pidana kurungan paling lama 3 (tiga) bulan atau\ndenda setinggi-tingginya Rp 3.000.000,- (tiga juta rupiah) dan\ndiwajibkan membayar ganti rugi kepada badan penyelenggara."
+   }
+  },
+  {
+   "id": "ID-H625-A40",
+   "no": 40,
+   "noLabel": {
+    "id": "Pasal 40"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 40\n\nBarangsiapa melakukan perbuatan yang mengakibatkan rusaknya,\nmengurangi nilai atau tidak dapat berfungsinya atau tidak dapat\nberfungsi secara sempurna sarana dan/atau prasarana kereta api,\ndipidana dengan pidana kurungan paling lama 3 (tiga) bulan atau\ndenda setinggi-tingginya Rp 3.000.000,- (tiga juta rupiah) dan\ndiwajibkan membayar ganti rugi kepada badan penyelenggara."
+   }
+  },
+  {
+   "id": "ID-H625-A41",
+   "no": 41,
+   "noLabel": {
+    "id": "Pasal 41"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 41\n\nPerbuatan sebagaimana dimaksud da lam Pasal 37, Pasal 38, Pasal 39,\ndan Pasal 40 Undang-undang ini adalah pelanggaran."
+   }
+  },
+  {
+   "id": "ID-H625-A42",
+   "no": 42,
+   "noLabel": {
+    "id": "Pasal 42"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 42\n\nApabila perbuatan sebagaimana dimaksud dalam Pasal 41\nmenyebabkan matinya orang, luka berat atau cacat dapat dipidana\nsesuai dengan ketentuan dalam hukum pidana.\n\n\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nBAB X\nKETENTUAN LAIN-LAIN"
+   }
+  },
+  {
+   "id": "ID-H625-A43",
+   "no": 43,
+   "noLabel": {
+    "id": "Pasal 43"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 43\n\n(1) Terhadap setiap kecelakaan kere ta api harus dilakukan penelitian\nsebab-sebabnya.\n\n(2) Penelitian kecelakaan sebagaimana dimaksud dalam ayat (1),\ndilaksanakan oleh Panitia yang pembentukan, susunan dan\ntugas-tugasnya diatur lebih lanjut oleh Menteri.\n\nBAB XI\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H625-A44",
+   "no": 44,
+   "noLabel": {
+    "id": "Pasal 44"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 44\n\nPada tanggal mulai berlakunya Undang-undang ini, semua peraturan\npelaksanaan mengenai perkeretaapian dinyatakan tetap berlaku\nsepanjang tidak bertentangan atau belum diganti dengan yang baru\nberdasarkan Undang-undang ini.\n\nBAB XII\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H625-A45",
+   "no": 45,
+   "noLabel": {
+    "id": "Pasal 45"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 45\n\nPada saat mulai berlakunya Undang-undang ini, maka:\n\n1. Algemeene Regelen betreffende den Aanleg en de Exploitatie van\nSpoor en Tramwegen, bestemd voor Algemeen Verkeer in\nNederlandsch Indie (Koninklijke  Besluit, Staatsblad 1926 Nomor 26\njo. Staatsbiad Nomor 295);\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n2. Algemeene Bepalingen betreffende de Spoor en Tramwegen\n(Ordonnantie, Staatsblad 1927 Nomor 258);\n\n3. Bepalingen betreffende den Aanl eg en het Bedrijf der Spoorwegen\n(Ordonnantie, Staatsblad 1927 Nomor 259);\n\n4. Bepalingen voor de Stadstramwegen (Ordonnantie, Staatsblad 1927\nNomor 260);\n\n5. Bepalingen Landelijke Tramwegen (Ordonnantie, Staatsblad 1927\nNomor 261);\n\n6. Bepalingen betreffende het Vervoer over Spoorwegen (Ordonnantie,\nStaatsblad 1927 Nomor 262);\n\n7. Industriebaan Ordonnantie (Staatsblad 1885 Nomor 158 jo\nStaatsblad 1938 Nomor 595), dinyatakan tidak berlaku."
+   }
+  },
+  {
+   "id": "ID-H625-A46",
+   "no": 46,
+   "noLabel": {
+    "id": "Pasal 46"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 46\n\nUndang-undang ini mulai berlaku pada tanggal 17 September 1992.\n\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nUndang-undang ini dengan penempatannya dalam Lembaran Negara\nRepublik Indonesia.\n\nDisahkan di Jakarta\npada tanggal 11 Mei 1992\n\nPRESIDEN REPUBLIK INDONESIA\n\n      ttd\n\n            SOEHARTO\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\n\nDiundangkan di Jakarta\npada tanggal 11 Mei 1992\n\nMENTERI/SEKRETARIS NEGARA\n   REPUBLIK INDONESIA\n\n     ttd\n\n         MOERDIONO\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nPENJELASAN\nATAS\nUNDANG-UNDANG REPUBLIK INDONESIA\nNOMOR 13 TAHUN 1992\nTENTANG\nPERKERETAAPIAN\n\nUMUM\n\nBahwa berkat rahmat Tuhan Yang Maha Esa Negara Republik Indonesia\ntelah dianugerahi sebagai negara kepulauan yang terdiri dari beribu\npulau, terletak memanjang di garis khatulistiwa, di antara dua benua\ndan dua samudera, oleh karena itu mempunyai posisi dan peranan\nyang sangat strategis dalam hubungan antar bangsa.\n\nUntuk mencapai tujuan pembangunan nasional, sebagai pengamalan\nPancasila, transportasi memiliki posisi yang penting dan strategis\ndalam pembangunan bangsa dan hal ini harus tercermin pada\nkebutuhan mobilitas seluruh sektor dan wilayah.\n\nTransportasi merupakan sarana yang sangat penting dan strategis\ndalam memperlancar roda perekonomian, memperkukuh persatuan\ndan kesatuan serta mempengaruhi semua aspek kehidupan bangsa dan\nnegara. Pentingnya transportasi tersebut tercermin pada semakin\nmeningkatnya kebutuhan akan jasa angkutan bagi mobilitas orang\nserta barang dari dan ke seluruh pelosok tanah air, bahkan dari dan ke\nluar negeri.\n\nDi samping itu, transportasi juga berperan sebagai penunjang,\npendorong, dan penggerak bagi pertumbuhan daerah yang   berpotensi\nnamun belum berkembang, dalam upaya peningkatan dan pemerataan\npembangunan serta hasil-hasilnya.\n\nMenyadari peranannya, maka transportasi harus ditata dalam satu\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nsistem transportasi nasional secara terpadu, dan mampu mewujudkan\ntersedianya jasa transportasi yang serasi dengan tingkat kebutuhan\npelayanan yang aman, nyaman, cepa t, tepat, teratur dan dengan\nbiaya yang terjangkau oleh daya beli masyarakat. Untuk itu perlu\ndikembangkan berbagai moda transportasi dengan memperhitungkan\nkarakteristik dan keunggulan moda yang bersangkutan, dalam\nkaitannya dengan jenis dan volume yang diangkut serta jarak tempuh\nyang harus dilayani.\n\nPerkeretaapian merupakan salah satu modal transportasi yang\nmemiliki karakteristik dan keunggulan khusus terutama dalam\nkemampuannya untuk mengangkut baik penumpang maupun barang\nsecara masal, hemat energi, hemat dalam penggunaan ruang,\nmempunyai faktor keamanan yang tinggi, dan tingkat pencemaran\nyang rendah serta lebih efisien dibanding dengan moda transportasi\njalan raya untuk angkutan jarak jauh dan untuk daerah yang padat\nlalu lintas, seperti angkutan kota. Keunggulan dan karakteristik\nperkeretaapian tersebut perlu dimanfaatkan dalam upaya\npengembangan sistem transportasi secara terpadu, maka\npenyelenggaraannya mulai dari perencanaan dan pembangunan,\npengusahaan, pemeliharaan, dan pengoperasiannya perlu diatur\ndengan sebaik-baiknya, sehingga terdapat keterpaduan dan keserasian\nserta keseimbangan beban antar modal transportasi yang pada\nakhirnya mampu meningkatkan penyediaan jasa angkutan bagi\nmobilitas orang serta barang secara aman, nyaman, cepat, tepat,\nteratur dengan biaya yang terjangkau oleh daya beli masyarakat.\nKeseluruhan hal tersebut di atas perlu diatur dalam satu\nUndang-undang.\n\nDalam Undang-undang ini juga diatur mengenai hak, kewajiban serta\ntanggung jawab badan penyelenggara  dan pengguna jasa terhadap\nkerugian pihak ketiga, yang timbul dari penyelenggaraan pelayanan\nangkutan kereta api.\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nKecuali hal-hal tersebut di atas dan dalam rangka pembangunan\nhukum nasional serta untuk lebih mewujudkan kepastian hukum,\nmelalui undang-undang ini hendak dicapai penyederhanaan,\npenyesuaian, dan penggantian perundang-undangan di bidang\nperkeretaapian yang berlaku selama ini, yaitu:\n\na. Algemeene Regelen betreffende den Aanleg en de Exploitatie van\nSpoor en Tramwegen, bestemd voor Algemeen Verkeer in\nNederlandsch Indie (Koninklijke  Besluit, Staatsblad 1926 Nomor 26\njo Staatsblad Nomor 295);\nb. Algemeene Bepalingen betreffende de Spoor en Tramwegen\n(Ordonnantie, Staatsblad 1927 Nomor 258);\nc. Bepalingen betreffende den Aanl eg en het Bedrijf der Spoorwegen\n(Ordonnantie, Staatsblad 1927 Nomor 259);\nd. Bepalingen voor de Stadstramwegen (Ordonnantie, Staatsblad 1927\nNomor 260);\ne. Bepalingen Landelijke Tramwegen (Ordonnantie, Staatsblad 1927\nNomor 261);\nf. Bepalingen betreffende het Vervoer over Spoorwegen (Ordonnantie,\nStaatsblad 1927 Nomor 262);\ng. Industriebaan Ordonnantie (Staatsblad 1885 Nomor 158 jo.\nStaatsblad 1938 Nomor 595), yang suda h tidak sesuai lagi dengan\nperkembangan zaman, kemajuan ilmu pengetahuan dan teknologi.\nDalam Undang-undang ini hanya diatur  hal-hal yang bersifat pokok,\nsedangkan yang bersifat teknis akan diatur dalam Peraturan\nPemerintah dan peraturan pelaksanaan lainnya.\n\n\nPASAL DEMI PASAL\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nPasal 1\n Angka 1\n  Yang dimaksud dengan segala sesuatu dalam ketentuan ini\nmeliputi perencanaan, pembangunan, pengadaan,\npengoperasian, pengusahaan, pemeliharaan, pengaturan,\npengendalian, pengawasan, penelitian dan pengembangan Serta\npendidikan dan pelatihan.\n Angka 2\n  Yang dimaksud dengan akan atau pun sedang bergerak di jalan rel\nadalah yang terkait dengan urusan perjalanan kereta api.\n Angka 3\n  Pengertian menghubungkan berbagai tempat termasuk\nmenghubungkan titik temu berbagai moda transportasi.\n Angka 4\n  C u k u p  j e l a s\n Angka 5\n  C u k u p  j e l a s\n Angka 6\n  C u k u p  j e l a s\n Angka 7\n  C u k u p  j e l a s\n Angka 8\n  C u k u p  j e l a s\n Angka 9\n  C u k u p  j e l a s\n Angka 10\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n  C u k u p  j e l a s\n Angka 11\n  C u k u p  j e l a s\n\nPasal 2\n Dalam ketentuan pasal ini yang dimaksud dengan:\n a. asas manfaat yaitu, bahwa perkeretaapian harus dapat\nmemberikan manfaat yang sebesar-besarnya bagi kemanusiaan,\npeningkatan kesejahteraan rakyat dan pengembangan\nperikehidupan yang berkeseimbangan bagi Warga Negara;\n b. asas adil dan merata yaitu,  bahwa perkeretaapian harus dapat\nmemberikan pelayanan yang adil dan merata kepada segenap\nlapisan masyarakat dengan biaya yang terjangkau oleh\nmasyarakat;\n c. asas keseimbangan yaitu, bahwa perkeretaapian harus\ndiselenggarakan sedemikian rupa sehingga terdapat\nkeseimbangan yang serasi antara sarana dan prasarana, antara\nkepentingan pengguna dan penyedia jasa, antara kepentingan\nindividu dan masyarakat, serta antara kepentingan nasional dan\ninternasional;\n d. asas kepentingan umum yaitu, bahwa perkeretaapian harus lebih\nmengutamakan kepentingan pelayanan umum bagi masyarakat\nluas;\n e. asas keterpaduan yaitu, bahwa perkeretaapian harus merupakan\nkesatuan yang bulat dan utuh, terpadu, saling menunjang dan\nsaling mengisi baik intra maupun antar moda transportasi;\n\n f. asas percaya pada diri sendiri yaitu, bahwa perkeretaapian harus\nberlandaskan pada kepercayaan akan kemampuan dan kekuatan\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nsendiri, serta bersendikan kepada kepribadian bangsa.\n\nPasal 3\n Secara masal mengandung pengertian bahwa kereta api memiliki\nkemampuan untuk mengangkut orang dan/atau barang dalam\njumlah atau volume besar setiap kali perjalanannya.\n\nPasal 4\n Pengertian dikuasai oleh Negara adalah bahwa Negara mempunyai\nhak penguasaan atas penyelenggaraan perkeretaapian, yang\npembinaannya dilakukan oleh Pemerintah.\n Perwujudan pembinaan tersebut meliputi aspek-aspek pengaturan,\npengendalian dan pengawasan.\n Aspek pengaturan mencakup perumusan dan penentuan\nkebijaksanaan umum maupun teknis antara lain berupa persyaratan\nkeselamatan, perizinan dan penyelenggaraan angkutan kereta api.\n Aspek pengendalian dilakukan baik di bidang pembangunan maupun\noperasi berupa pengarahan dan bimbingan terhadap\npenyelenggaraan angkutan kereta api.\n Aspek pengawasan adalah pengawasan terhadap penyelenggaraan\nangkutan kereta api.\n\nPasal 5\n Ayat (1)\n  Peningkatan peranserta angkutan kereta api diutamakan untuk\nlintas jarak jauh dan angkutan kota.\n  Untuk lintas jarak jauh dengan pertimbangan bahwa sesuai\nkarakteristiknya sebagai angkutan masal lebih efisien apabila\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\ndibandingkan dengan moda angkutan lainnya.\n  Sebagai angkutan kota, ditujukan untuk mengurangi kepadatan\nlalu lintas di jalan serta memperlancar mobilitas orang secara\nmasal.\n  Sedangkan untuk lintas jarak sedang lebih ditujukan untuk\nmemperlancar dan menghimpun penumpang atau barang dari\ndaerah penyangga.\n Ayat (2)\n  Dalam Peraturan Pemerintah akan diatur antara lain mengenai\nketerpaduan antara perkeretaapian dengan moda transportasi\nlainnya.\n\nPasal 6\n Ayat (1)\n  Pelaksanaan penyelenggaraan angkutan kereta api oleh badan\npenyelenggara tidak mengurangi tanggung jawab Pemerintah\ndalam penyediaan prasarana dan sarana serta kualitas pelayanan\nkereta api.\n Ayat (2)\n  Yang dimaksud badan usaha lain selain badan penyelenggara\nialah badan hukum Indonesia.\n  Keikutsertaan badan hukum tersebut ialah dengan cara\nbekerjasama dengan badan penyelenggara sebagai pencerminan\ndari usaha bersama dan kekeluargaan.\n Ayat (3)\n  C u k u p  j e l a s\n\nPasal 7\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n Ayat (1)\n  Penggunaan kereta api khusus semata-mata hanya untuk\nmenunjang kegiatan pokok dari badan usaha di bidang industri,\npertanian termasuk kehutanan dan perkebunan, pertambangan,\nkepariwisataan, dan tidak dipergunakan untuk angkutan umum.\n  Kegiatan kereta api khusus di bidang kepariwisataan dibatasi\nhanya pada taman rekreasi yang merupakan kesatuan dari usaha\npokoknya dan tidak digolongkan sebagai angkutan umum.\n  Penyediaan, perawatan dan pengoperasian prasarana dan sarana\nkereta api khusus dilakukan oleh badan usaha yang bersangkutan.\n Ayat (2)\n  Dalam Peraturan Pemerintah akan diatur antara lain mengenai\ntata cara dan syarat-syarat perizinan, keandalan, dan\nkeselamatan.\n\nPasal 8\n Ayat (1)\n  Penyediaan dan perawatan prasarana kereta api dilakukan oleh\nPemerintah hanya terbatas bagi prasarana kereta api untuk\numum dengan prinsip mengutamakan produksi dalam negeri.\n Ayat (2)\n  C u k u p  j e l a s\n Ayat (3)\n  C u k u p  j e l a s\n\nPasal 9\n Ayat (1)\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n  Penyediaan dan perawatan sarana kereta api, dilakukan oleh\nbadan penyelenggara dengan pr insip mengutamakan produksi\ndalam negeri.\n Ayat (2)\n  C u k u p  j e l a s\n Ayat (3)\n  C u k u p  j e l a s\n\nPasal 10\n Ayat (1)\n  Yang dimaksud dengan mempunyai keandalan dan memenuhi\npersyaratan keselamatan adalah kondisi prasarana dan sarana\nsiap pakai dan secara teknis laik untuk dioperasikan.\n Ayat (2)\n  Hasil pemeriksaan dan pengujian dinyatakan dengan pemberian\ntanda lulus pemeriksaan dan pengujian. Khusus untuk hasil\npemeriksaan dan pengujian sarana kereta api di dalamnya juga\ndimuat daya angkut maksimal yang diperkenankan, hal tersebut\ndimaksudkan agar dalam pengoperasiannya tetap diperhatikan\nbatas muatan maksimum.\n Ayat (3)\n  C u k u p  j e l a s\n\nPasal 11\n Dalam mengembangkan rancang bangun dan rekayasa, Pemerintah\nmenciptakan iklim dan mendorong berkembangnya industri\nperkeretaapian dalam negeri dengan teknologi tepat guna antara\nlain yang hemat energi dan be rwawasan lingkungan, dengan\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\ndemikian harus dilakukan upaya yang konsisten dalam rangka\nmengurangi, mencegah, dan mengendalikan dampak pencemaran\nyang timbul dan dapat membahayakan lingkungan.\n\nPasal 12\n Ayat (1)\n  Sesuai tuntutan perkembangan teknologi dan kelangsungan\nusaha, badan penyelenggara dituntut secara berkesinambungan\nmeningkatkan keterampilan dan kualitas sumberdaya manusia di\nbidang perkeretaapian melalui pendidikan dan pelatihan.\n Ayat (2)\n  C u k u p  j e l a s\n\nPasal 13\n Penetapan peraturan mengenai jalur kereta api dalam ketentuan ini\ndimaksudkan untuk mencegah terjadinya gangguan terhadap\nkelancaran dan keselamatan pengoperasian kereta api itu sendiri\nsehingga diharapkan tetap dapat terwujud penyelenggaraan kereta\napi dengan kualitas yang tinggi.\n Sesuai maksud tersebut maka jalur kereta api sepenuhnya dikuasai\noleh Pemerintah melalui badan penyelenggara. Hal ini berarti\nbahwa badan penyelenggara dalam memanfaatkan  jalur\ntersebut tidak boleh mengakibatkan terganggunya penyelenggaraan\nangkutan kereta api.\n Agar masyarakat luas mengetahui batas jalur kereta api, maka\nbadan penyelenggara wajib menempatkan tanda atau patok\nbatas-batas jalur kereta api.\n Di dalam ketentuan ini yang dimaksud dengan:\n a. daerah manfaat jalan kereta ap i adalah jalan rel beserta tanah di\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nkiri dan kanannya yang dipergunakan untuk konstruksi jalan rel;\n b. daerah milik jalan kereta api yaitu daerah manfaat jalan kereta\napi beserta tanah di kiri dan kanannya yang dipergunakan untuk\npengamanan konstruksi jalan rel;\n c. daerah pengawasan jalan kere ta api yaitu daerah milik jalan\nkereta api beserta tanah di kiri dan kanannya yang dipergunakan\nuntuk pengamanan dan kelancaran operasional kereta api;\n d. jalan rel yaitu satu kesatuan konstruksi yang terbuat dari baja,\nbeton atau konstruksi lain yang terletak di permukaan, di bawah\ndan diatas tanah atau bergantung beserta perangkatnya yang\nmengarahkan jalannya kereta api.\n\nPasal 14\n Ayat (1)\n  Yang dimaksud dengan pandangan bebas dalam ketentuan ini\nadalah pandangan bebas masinis kereta api untuk melihat jauh\nke depan dan pandangan bebas masyarakat pemakai jalan yang\nakan melintasi jalur kereta api.\n Ayat (2)\n  C u k u p  j e l a s\n\nPasal 15\n Ayat (1)\n  Yang dimaksud dengan jalan adalah sebagaimana diatur dalam\nUndang-undang Nomor 13 Tahun 1980 tentang Jalan.\n  Yang dimaksud dengan prinsip ti dak sebidang adalah prinsip letak\njalan tidak berpotongan secara horizontal, melainkan dibangun di\natas atau di bawah jalur kereta api.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n  Prinsip ini berlaku pula untuk jalur kereta api khusus.\n  Terhadap perlintasan antara jalur kereta api dengan jalan yang\ntelah ada pada saat ini dan belum menerapkan prinsip tidak\nsebidang, secara berangsur-angsur sesuai dengan kemampuan\nPemerintah diupayakan untuk dibuat tidak sebidang.\n Ayat (2)\n  C u k u p  j e l a s\n Ayat (3)\n  C u k u p  j e l a s\n\nPasal 16\n Kewajiban mendahulukan perjalanan kereta api ini didasarkan\npertimbangan bahwa sifat pengoperasian kereta api sangat terbatas\npada jalan rel tersebut dan keterbatasan teknis lainnya.\n\nPasal 17\n Ayat (1)\n  Pihak-pihak yang memerlukan penyambungan, pemotongan atau\npenyinggungan dengan jalur kereta api dapat melakukannya\nsetelah memenuhi persyaratan dan perizinan serta tidak\nmembahayakan perjalanan kereta api.\n Ayat (2)\n  C u k u p  j e l a s\n\nPasal 18\n Huruf a\n  Termasuk dalam ketentuan ini adalah kegiatan menggembala\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\natau menggiring ternak.\n Huruf b\n  Termasuk dalam ketentuan ini adalah melintasi jalur kereta api\nmenjelang kereta api lewat dan termasuk pengertian menyeret\nadalah mendorong barang tanpa roda.\n Huruf c\n  C u k u p  j e l a s\n Huruf d\n  Yang dimaksud dengan di luar tempat yang disediakan adalah di\ntempat-tempat tertentu dalam stasiun yang tidak disediakan\nuntuk naik atau turunnya penum pang dan/atau bongkar muat\nbarang.\n Huruf e\n  Yang dimaksud dengan mengganggu ketertiban dan/atau\npelayanan umum antara lain kegiatan percaloan, duduk di atas\natap kereta api dan tempat-tempat lain yang membahayakan.\n  Termasuk dalam pengertian ini adalah penumpang dan/atau\nbarang yang menimbulkan gangguan kepada penumpang lainnya\ndan atau yang dapat membahayakan keselamatan perjalanan\nkereta api.\nPasal 19\n Ayat (1)\n  Operasi kereta api memerlukan tempat untuk bersilang,\nbersusulan, berangkat, berhenti dan operasi lainnya. Pemilihan\ntempat tersebut disesuaikan dengan kebutuhan pengguna jasa\nkereta api untuk naik turunnya penumpang dan/atau bongkar\nmuat barang serta perpindahan antar moda transportasi.\n  Selain itu terdapat pula stasiun yang hanya untuk melayani\npenumpang, barang, baik barang-barang umum atau barang-\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nbarang sejenis antara lain peti kemas,   batu bara, hewan dan\nsebagainya, serta stasiun yang hanya untuk keperluan operasi.\nPengertian tempat dalam ketentuan ini adalah merupakan suatu\nkawasan yang memiliki batas-batas tertentu.\n Ayat (2)\n  Yang dimaksud hal-hal tertentu  adalah naik turunnya penumpang\natau barang di luar stasiun yang disebabkan karena keadaan yang\nmemaksa antara lain kerusakan kereta api, jembatan atau jalan\nrel dan dalam rangka tugas-tugas keamanan.\n\nPasal 20\n Ayat (1)\n  Kegiatan usaha penunjang pada ay at ini antara lain dapat berupa\nusaha pertokoan, restoran, perkantoran, perhotelan sepanjang\nusaha penunjang tersebut tidak mengganggu fungsi pokok\nstasiun.\n Ayat (2)\n  C u k u p  j e l a s\n\n\nPasal 21\n Ayat (1)\n  C u k u p  j e l a s\n Ayat (2)\n  Penyusunan jaringan pelayanan angkutan antar kota adalah untuk\nmenghubungkan antar kota-kota di dalam negeri. Sesuai dengan\nkebutuhan, dapat pula menghubungkan antara kota di dalam\nnegeri dengan kota di luar negeri.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n  Penyusunan jaringan pelayanan angkutan antar kota dan\npelayanan angkutan kota ke dalam satu sistem yang terpadu\nditujukan untuk memperoleh efisiensi yang tinggi serta dalam\nrangka pemberian pelayanan yang sebaik-baiknya.\n  Hal ini tidak menutup kemungkinan untuk mengintegrasikan\npelayanan angkutan kereta api khusus ke dalam sistem ini.\n  Sistem angkutan kota pada dasarnya merupakan suatu jaringan\npelayanan tersendiri yang tidak sama dengan jaringan angkutan\nantar kota. Namun demikian kedua sistem tersebut harus\ndiintegrasikan agar memungkinkan pengguna jasa berpindah dari\nsatu jaringan pelayanan ke jaringan pelayanan kereta api yang\nlain, termasuk kemungkinan berpindah ke moda transportasi\nlainnya, karena merupakan satu sistem distribusi dan akumulasi\nbagi angkutan kota.\n\nPasal 22\n Ayat (1)\n  Pelayanan lintas utama dalam ayat ini dimaksudkan untuk\nmelayani angkutan yang bervolume besar dengan jarak tempuh\nyang jauh sehingga biaya angkutannya menjadi lebih murah.\n Ayat (2)\n  C u k u p  j e l a s\n\nPasal 23\n Cukup jelas\n\nPasal 24\n Lihat penjelasan Pasal 7 ayat (1)\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\nPasal 25\n Ayat (1)\n  Syarat-syarat umum angkutan sebagaimana dimaksud meliputi\nhak dan kewajiban pengguna jasa dan badan penyelenggara\nangkutan penumpang dan angkutan barang yang antara lain\nmemuat hal-hal sebagai berikut:\n\n  a. Hak pengguna jasa untuk memperoleh pelayanan sesuai\ndengan tingkat pelayanan yang disepakati misalnya pemegang\nkarcis tertentu akan memperoleh tingkat pelayanan sesuai\ndengan karcis yang dimilikinya. Kewajiban pengguna jasa\nuntuk membayar biaya angkutan sesuai dengan tingkat\npelayanan yang dikehendakinya.\n  b. Kewajiban badan penyelenggara untuk mengangkut\npenumpang yang telah memiliki karcis penumpang sesuai\ndengan tingkat pelayanan yang disepakati atau mengangkut\nbarang pengguna jasa yang telah memiliki surat angkutan\nbarang.\n\n   Demikian pula kewajiban badan penyelenggara untuk\nmembayar ganti rugi sesuai syarat-syarat umum yang telah\ndisepakati, kepada pengguna jasa yang mengalami kerugian\nsebagai akibat dari kelalaian badan penyelenggara.\n   Memberikan pelayanan dalam batas-batas kelayakan sesuai\nkemampuan badan penyelenggara kepada pengguna jasa,\nselama menunggu keberangkatan dalam hal terjadi\nketerlambatan pemberangkatan karena kelalaian badan\npenyelenggara.\n  c. Apabila calon pengguna jasa yang telah memiliki karcis atau\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nsurat angkutan barang, kemudian membatalkan\nperjalanannya, atau pengiriman barangnya maka berlaku\nketentuan-ketentuan sebagaimana tercantum dalam\nsyarat-syarat umum angkutan.\n Ayat (2)\n  C u k u p  j e l a s\n\nPasal 26\n Ketentuan wajib angkut ini dima ksudkan agar badan penyelenggara\ntidak melakukan perbedaan perlakuan terhadap pemakai jasa\nangkutan kereta api, sepanjang pengguna jasa   telah memenuhi\nsyarat-syarat umum angkutan yang ditetapkan berdasarkan\nUndang-undang ini.\n\nPasal 27\n Pembatalan dalam ketentuan ini tidak termasuk pembatalan\nsebagaimana dimaksud dalam Pasal 29 huruf c.\n\nPasal 28\n Ayat (1)\n  Pengertian kerugian yang diderita oleh pengguna jasa tidak\ntermasuk keuntungan yang akan diperoleh ataupun bagian biaya\natas pelayanan yang sudah dinikmati.\n Ayat (2)\n  C u k u p  j e l a s\n\nPasal 29\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n Huruf a\n  C u k u p  j e l a s\n Huruf b\n  Penindakan yang dapat dilakukan oleh badan penyelenggara\nantara lain berupa:\n  1) pengenaan denda atau menurunkan penumpang di stasiun\nterdekat;\n  2) menurunkan barang dan melaporkan kepada aparat yang\nberwenang apabila barang tersebut diduga membahayakan\nkeselamatan perjalanan kereta api.\n Huruf c\n  C u k u p  j e l a s\n Huruf d\n  Dalam penertiban penumpang kereta api atau masyarakat, dapat\ndilakukan bersama aparat keamanan.\n\nPasal 30\n Dalam penetapan struktur dan golongan taraf. Pemerintah\nmemperhatikan kepentingan masyarakat dan kepentingan badan\npenyelenggara.\n Pemerintah menetapkan tarif yang berorientasi kepada kepentingan\ndan kemampuan masyarakat luas.\n Dengan berpedoman pada struktur dan golongan tarif tersebut,\nbadan penyelenggara menetapkan tarif yang berorientasi kepada\nkelangsungan dan pengembangan usaha badan penyelenggara dalam\nrangka meningkatkan mutu pelayanan serta perluasan jaringan\nangkutan kereta api.\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nPasal 31\n Dalam angkutan barang maka tanggung jawab tersebut berakhir\nhingga diserahkannya barang ditempat tujuan yang disepakati.\n\nPasal 32\n Ayat (1)\n  Tempat penyimpanan yang dise diakan oleh badan penyelenggara\ndapat berupa gerbong, gudang dan ruang terbuka.\n  Biaya penyimpanan antara lain sewa gerbong, biaya\npembongkaran, biaya pemindahan, biaya penumpukan, dan biaya\nsewa gudang.\n Ayat (2)\n  C u k u p  j e l a s\n Ayat (3)\n  Yang dimaksud dengan waktu tertentu dalam ketentuan ini\nadalah waktu yang disebutkan dalam syarat-syarat umum\nangkutan.\n\nPasal 33\n Pada dasarnya barang berbahaya seperti bahan peledak, bahan\nkimia dan lain-lain harus diperlakukan dengan pengamanan khusus,\nseperti cara pengepakan, pemuatan dan lain-lain sehingga tidak\nmembahayakan keselamatan.\n\nPasal 34\n Cukup jelas\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nPasal 35\n Ayat (1)\n  Pelayanan khusus bagi penumpang yang menderita cacat atau\norang sakit tersebut dimaksudkan agar mereka juga dapat\nmenikmati pelayanan angkutan kereta api dengan baik. Yang\ndimaksud pelayanan khusus dalam ketentuan ini dapat berupa\npembuatan jalan khusus di stasi un dan sarana khusus untuk naik\nkereta api, atau penyediaan ruang yang disediakan khusus bagi\npenempatan kursi roda atau sarana bantu bagi orang sakit yang\npengangkutannya mengharuskan dalam posisi tidur.\n  Yang dimaksud dengan cacat dalam ketentuan ini misalnya\npenumpang yang menggunakan kursi roda karena lumpuh, cacat\nkaki, tuna netra dan sebagainya.\n Ayat (2)\n  C u k u p  j e l a s\n\nPasal 36\n Ayat (1)\n  Penyidikan pelanggaran terhadap Undang-undang Perkeretaapian\nmemerlukan keahlian dalam bidang perkeretaapian sehingga\nperlu adanya petugas khusus untuk melakukan penyidikan\ndisamping pegawai yang biasa bert ugas menyidik tindak pidana,\npetugas dimaksud adalah pegawai negeri sipil di lingkungan\nDepartemen yang membawahi bidang perkeretaapian.\n Ayat (2)\n  C u k u p  j e l a s\n Ayat (3)\n  Pelaksanaan penyidikan dilaksanakan sesuai dengan ketentuan\nperaturan perundang-undangan yang berlaku antara lain Pasal 7\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nayat (2) dan Pasal 107   Undang-undang Nomor 8 Tahun 1981\ntentang Hukum Acara Pidana.\nPasal 37\n Cukup jelas\n\nPasal 38\n Cukup jelas\n\nPasal 39\n Perbuatan yang mengakibatkan pergeseran tanah disekitar jalur\nkereta api dapat berupa menggali tanah, menimbun, membuang\nlimbah, air dan sebagainya di daerah milik jalan kereta api.\n\nPasal 40\n Cukup jelas\n\nPasal 41\n Cukup jelas\n\nPasal 42\n Yang dimaksud dengan ketentuan dalam hukum pidana adalah\nketentuan Kitab Undang-undang Hukum Pidana atau peraturan\nperundang-undangan yang menggantikannya.\n\nPasal 43\n Ayat (1)\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n  Penelitian sebab-sebab terjadinya kecelakaan dalam ketentuan\nini adalah bukan dalam kaitan dengan penyidikan (penegakan\nhukum), melainkan semata-mata untuk mengetahui sebab-sebab\nterjadinya kecelakaan dalam rangka perbaikan teknologi dan\nagar kecelakaan serupa tidak terjadi lagi dikemudian hari.\nApabila dalam kecelakaan tersebut memang terdapat unsur\nmelawan hukum maka pemeriksaannya juga dilakukan oleh\npenyidik dalam rangka penegakan hukum.\n Ayat (2)\n  C u k u p  j e l a s\n\nPasal 44\n Cukup jelas\n\nPasal 45\n Cukup jelas\n\nPasal 46\n Diberlakukannya Undang-undang ini mulai tanggal 17 September\n1992 dimaksudkan untuk memberikan kesempatan kepada aparat\nPemerintah dan badan penyelenggara guna menyesuaikan dengan\nketentuan Undang-undang ini serta memberikan penyuluhan kepada\nmasyarakat untuk mengetahui Undang-undang ini."
+   }
+  }
+ ]
+}

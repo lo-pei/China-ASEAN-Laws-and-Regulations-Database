@@ -1,0 +1,1290 @@
+{
+ "id": "ID-H3066",
+ "title": {
+  "zh": "矫治法",
+  "en": "Law on Correctional Services",
+  "id": "PEMASYARAKATAN",
+  "orig": "PEMASYARAKATAN",
+  "vi": "Luật về Cải tạo Phạm nhân",
+  "th": "พระราชบัญญัติว่าด้วยการราชทัณฑ์",
+  "ms": "Akta tentang Pemasyarakatan"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02a",
+ "language": "id",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "2022",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU22-2022",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 89,
+ "chars": 83712,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Salinan%20UU%20No%2022%20Tahun%202022.pdf&fl=P19483"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\01_宪法与基础法\\印尼_文本_2022_PEMASYARAKATAN.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 99 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H3066-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5 ayat (1), Pasal 20, Pasal 27 aya"
+   },
+   "chapter": {},
+   "heading": {
+    "id": "ayat (1), Pasal 20, Pasal 27 ayat (1), dan Pasal 2BD"
+   },
+   "text": {
+    "id": "Pasal 5 ayat (1), Pasal 20, Pasal 27 ayat (1), dan Pasal 2BD\nayat (1) Undang-Undang Dasar Negara Republik Indonesia\nTahun 1945;\nSK No 143384 A\nDengan . . .\nPRESIDEN\nREPUBLIK INDONESIA\nDengan Persetujuan Bersama\nDEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA\ndan\nPRESIDEN REPUBLIK INDONESIA\nMEMUTUSKAN\nMenetapkan UNDANG-UNDANG TENTANG PEMASYARAKATAN\nBAB I\nKETENTUAN UMUM\nPasal 1\nDalam Undang-Undang ini yang dimaksud dengan:\n1. Pemasyarakatan adalah subsistem peradilan pidana\nyang mcnyelenggarakan penegakan hukum di bidang\nperlakuan terhadap tahanan, anak, dan warga binaan.\n2. Sistem Pemasyarakatan adalah suatu tatanan\nmcngenai arah dan batas serta metode pelaksanaan\nfungsi Pemasyarakatan secara terpadu.\n3. Warga Binaan adalah narapidana, anak binaan, dan\nklicn.\n4. Tahanan adalah tersangka atau terdakwa yang sedang\nmenjalani proses peradilan dan ditahan di rumah\ntahanan negara.\n5. Anak yang Berkonflik dengan Hukum yang selanjutnya\ndisebut Anak adalah anak yang telah berumur 12 (dua\nbelas) tahun, tetapi belum berumur 18 (delapan belas)\ntahun yang diduga melakukan tindak pidana.\n6. Narapidana adalah terpidana yang sedang menjalani\npidana penjara untuk waktu tertentu dan seumur\nhidup atau terpidana mati yang sedang menunggu\npelaksanaan putusan, yang sedang menjalani\npembinaan di lembaga pemasyarakatan.\nSK No 143418 A\n7. Anak\nPRESIDEN\nREPUBLIK INDONESIA\n7. Anak Binaan adalah anak yang telah berumur\n14 (empat belas) tahun, tetapi belum berumur\n18 (delapan belas) tahun yang sedang menjalani\npembinaan di lembaga pembinaan khusus anak.\n8. Klien Pemasyarakatan yang selanjutnya disebut Klien\nadalah seseorang yang berada dalam pembimbingan\nkemasyarakatan, baik dewasa maupun anak.\n9. Pelayanan adalah kegiatan yang diselenggarakan\nuntuk memberikan pelindungan dan pemenuhan hak\nbagi Tahanan dan Anak pada proses peradilan.\n10. Pembinaan adalah kegiatan yang diselenggarakan\nuntuk meningkatkan kualitas kepribadian dan\nkemandirian Narapidana dan Anak Binaan.\n1 1. Pembimbingan Kemasyarakatan adalah kegiatan yang\ndiselenggarakan guna pendampingan Klien di dalam\ndan di luar proses peradilan pidana serta\nmempersiapkan Klien untuk proses reintegrasi sosial.\n12. Perawatan adalah kegiatan yang diselenggarakan\nuntuk mendukung terjaganya kondisi fisik dan\npsikologis Tahanan, Anak, Narapidana, dan Anak\nBinaan.\n13. Pengamanan adalah segala bentuk kegiatan dalam\nrangka melakukan pencegahan, penindakan, dan\npemulihan gangguan keamanan dan ketertiban yang\ndiselenggarakan untuk menciptakan kondisi yang\naman dan tertib di rumah tahanan negara dan lembaga\npemasyarakatan.\n14. Pengamatan adalah segala bentuk kegiatan dalam\nrangka melakukan pencegahan, penegakan disiplin,\ndan pemulihan gangguan keamanan dan ketertiban\nyang diselenggarakan untuk menciptakan kondisi\nyang aman dan tertib di lembaga penempatan anak\nsementara dan lembaga pembinaan khusus anak.\n15. Penelitian Kemasyarakatan yang selanjutnya disebut\nLitmas adalah kegiatan pengumpulan, pengolahan,\nanalisis, dan penyajian data yang dilakukan secara\nsistematis dan objektif untuk kepentingan Pelayanan\nTahanan atau Anak, Pembinaan Narapidana atau\nAnak Binaan, dan Pembimbingan Kemasyarakatan\nKlien, serta sebagai dasar pertimbangan penyidik,\npenuntut umum, dan hakim dalam penyelesaian\nperkara.\n16.Rumah...\nSK No l433tl6 A\nPRES IDEN\nREPUBLIK INDONESIA\n16. Rumah Tahanan Negara yang selanjutnya disebut\nRutan adalah lembaga atau tempat yang menjalankan\nfungsi Pelayanan terhadap Tahanan.\nL7. Lernbaga Penempatan Anak Sementara yang\nselanjutnya disingkat LPAS adalah tempat sementara\nbagi Anak selama proses peradilan berlangsung.\n18. Lembaga Pemasyarakatan yang selanjutnya disebut\nLapas adalah lembaga atau tempat yang menjalankan\nfungsi Pembinaan terhadap Narapidana.\n19. Lembaga Pembinaan Khusus Anak yang selanjutnya\ndisingkat LPKA adalah lembaga atau tempat Anak\nBinaan menjalani masa pidananya.\n20. Balai Pemasyarakatan yang selanjutnya disebut Bapas\nadalah lembaga atau tempat yang menjalankan fungsi\nPembimbingan Kemasyarakatan terhadap Klien.\n21. Petugas Pemasyarakatan adalah pejabat fungsional\npenegak hukum yang diberi wewenang berdasarkan\nUndang-Undang untuk melaksanakan tugas\nPemasyarakatan dalam sistem peradilan pidana.\n22. Wah Pemasyarakatan adalah Petugas Pemasyarakatan\nyang membantu kepala Lapas atau kepala LPKA dalam\nmenjalankan Pembinaan terhadap Narapidana dan\nAnak Binaan.\n23. Pembimbing Kemasyarakatan adalah Petugas\nPemasyarakatan yang melaksanakan Litmas,\npendampingan, pembimbingan, dan pengawasan\nterhadap Klien, baik di dalam maupun di luar proses\nperadilan pidana.\n24. Asesor Pemasyarakatan adalah Petugas\nPemasyarakatan yang melaksanakan asesmen\nterhadap Tahanan, Anak, dan Warga Binaan.\nPasal 2\nSistem Pemasyarakatan diselenggarakan untuk tujuan:\na. memberikan jaminan pelindungan terhadap hak\nTahanan dan Anak;\nSK No l433fl7 A\nb.meningkatkan...\nPRES IDEN\nREPUBLIK INDONESIA\nb. meningkatkan kualitas kepribadian dan kemandirian\nWarga Binaan agar mcnyadari kesalahan,\nmemperbaiki diri, dan tidak mengulangi tindak pidana,\nsehingga dapat diterima kembali oleh lingkungan\nmasyarakat, dapat hidup secara wajar sebagai warga\nyang baik, taat hukum, bertanggung jawab, dan dapat\naktif berperan dalam pembangunan; dan\nc. memberikan pelindungan kepada masyarakat dari\npengulangan tindak pidana.\nPasal 3\nSistem Pemasyarakatan dilaksanakan berdasarkan asas:\na. pengayoman;\nb. nondiskriminasi;\nc. kemanusiaan;\nd. gotong royong;\ne. kemandirian;\nf. proporsionalitas;\ng. kehilangan kemerdekaan sebagai satu-satunya\npenderitaan; dan\nh. profesionalitas.\nPasal 4\nFungsi Pemasyarakatan meliputi:\na. Pelayanan;\nb. Pembinaan;\nc. Pembimbingan Kemasyarakatan;\nd. Perawatan;\ne. Pengamanan; dan\nf. Pengamatan.\nPasal 5\n(1) Sistem dan fungsi Pemasyarakatan sebagaimana\ndimaksud dalam Pasal 2 dan Pasal 4 diselenggarakan\noleh kementerian / lembaga.\nSK No 1433U8 A\n(2) Ketentuan\nBAB II\nHAK DAN KEWAJIBAN TAHANAN, ANAK, DAN WARGA BINAAN\nBagian Kesatu\nHak dan Kewajiban Tahanan dan Narapidana"
+   }
+  },
+  {
+   "id": "ID-H3066-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\nPRES IDEN\nREPUBLIK INDONESIA\n(2) Ketentuan lebih lanjut mengenai\nkementerian/lembaga sebagaimana dimaksud pada\nayat (1) diatur dengan Peraturan Presiden.\nPasal 6\n(1) Penyelenggaraan sistem dan fungsi Pemasyarakatan\nsebagaimana dimaksud dalam Pasal 5 dilaksanakan di\nRutan, LPAS, Lapas, LPKA, Bapas, atau tempat lain\nyang ditentukan.\n(2) Rutan, LPAS, Lapas, dan LPI(A sebagaimana dimaksud\npada ayat (1) merupakan area dengan fungsi khusus.\nTahanan berhak:\na. menjalankan ibadah sesuai dengan agama atau\nkepercayaannya;\nb. mendapatkan perawatan, baik jasmani maupun\nrohani;\nc. mendapatkan pendidikan, pengajaran, dan kegiatan\nrekreasional, serta kesempatan mengembangkan\npotensi;\nd. mendapatkan pelayanan kesehatan dan makanan\nyang layak sesuai dengan kebutuhan gizi;\ne. mendapatkan layanan informasi;\nf. mendapatkan penyuluhan hukum dan bantuan\nhukum;\ng. menyampaikan pengaduan dan/atau keluhan;\nSK No 1433u9 A\nh. mendapatkan\nPRESIDEN\nREPUBLIK INDONESIA\nh. mendapatkan bahan bacaan dan mengikuti siaran\nmedia massa yang tidak dilarang;\ni. mendapatkan perlakuan secara manusiawi dan\ndilindungi dari tindakan penyiksaan, eksploitasi,\npembiaran, kekerasan, dan segala tindakan yang\nmembahayakan fisik dan mental;\nj. mendapatkan pelayanan sosial; dan\nk. menerima atau menolak kunjungan dari keluarga,\nadvokat, pendamping, dan masyarakat."
+   }
+  },
+  {
+   "id": "ID-H3066-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\nTahanan wajib:\na. menaati peraturan tata tertib;\nb. mengikuti secara tertib program Pelayanan;\nc. memelihara perikehidupan yang bersih, aman, tertib,\ndan damai; dan\nd. menghormati hak asasi setiap orang di lingkungannya."
+   }
+  },
+  {
+   "id": "ID-H3066-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\nNarapidana berhak:\na. menjalankan ibadah sesuai dengan agama atau\nkepercayaannya;\nb. mendapatkan perawatan, baik jasmani maupun\nrohani;\nc. mendapatkan pendidikan, pengajaran, dan kegiatan\nrekreasional serta kesempatan mengembangkan\npotensi;\nd. mendapatkan pelayanan kesehatan dan makanan\nyang layak sesuai dengan kebutuhan gizi;\ne. mendapatkan layanan informasi;\nf. mendapatkan penyuluhan hukum dan bantuan\nhukum;\ng. menyampaikan pengaduan dan/atau keluhan;\nSK No 143390 A\nh.mendapatkan...\nPRESIDEN\nREPUBLIK INDONESIA\nh. mendapatkan bahan bacaan dan mengikuti siaran\nmedia massa yang tidak dilarang;\ni. mendapatkan perlakuan secara manusiawi dan\ndilindungi dari tindakan penyiksaan, eksploitasi,\npembiaran, kekerasan, dan segala tindakan yang\nmembahayakan fisik dan mental;\nj. mendapatkan jaminan keselamatan kerja, upah, atau\npremi hasil bekerja;\nk. mendapatkan pelayanan sosial; dan\nl. menerima atau menolak kunjungan dari keluarga,\nadvokat, pendamping, dan masyarakat."
+   }
+  },
+  {
+   "id": "ID-H3066-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\n(1) Selain hak sebagaimana dimaksud dalam Pasal 9,\nNarapidana yang telah memenuhi persyaratan tertentu\ntanpa terkecuali juga berhak atas:\na. remisi;\nb. asimilasi;\nc. cuti mengunjungi atau dikunjungi keluarga;\nd. cuti bersyarat;\ne. cuti menjelang bebas;\nf. pembebasan bersyarat; dan\ng. hak lain sesuai dengan ketentuan peraturan\nperundang-undangan.\n(2) Persyaratan tertentu sebagaimana dimaksud pada\nayat (1) meliputi:\na. berkelakuan baik;\nb. aktif mengikuti program Pembinaan; dan\nc. telah menunjukkan penurllnan tingkat risiko.\n(3) Selain memenuhi persyaratan tertentu sebagaimana\ndimaksud pada ayat (2), bagi Narapidana yang akan\ndiberikan cuti menjelang bebas atau pembebasan\nbersyarat sebagaimana dimaksud pada ayat (1)\nhuruf e dan huruf f juga harus telah menjalani masa\npidana paling singkat 213 (dua pertiga) dengan\nketentuan 213 (dua pertiga) masa pidana tersebut\npaling sedikit 9 (sembilan) bulan.\nSK No 143391 A\n(4) Pemberian\nPRESIDEN\nREPUBLIK INDONESIA\n(4) Pemberian hak sebagaimana dimaksud pada ayat (1)\ntidak berlaku bagi Narapidana yang dijatuhi pidana\npenjara seumur hidup dan terpidana mati.\nPasal 1 1\n(1) Narapidana wajib:\na. menaati peraturan tata tertib;\nb. mengikuti secara tertib program Pembinaan;\nc. memelihara perikehidupan yang bersih, aman,\ntertib, dan damai; dan\nd. menghormati hak asasi setiap orang di\nlingkungannya.\n(2\\ Selain kewajiban sebagaimana dimaksud pada ayat (1),\nNarapidana juga wajib bekerja dengan\nmempertimbangkan kondisi kesehatan dan memiliki\nnilai guna.\nBagian Kedua\nHak dan Kewajiban Anak dan Anak Binaan"
+   }
+  },
+  {
+   "id": "ID-H3066-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\nAnak dan Anak Binaan berhak:\na. menjalankan ibadah sesuai dengan agama atau\nkepercayaannya;\nb. mendapatkan perawatan, baik jasmani maupun\nrohani;\nc. mendapatkan pendidikan, pengajaran, dan kegiatan\nrekreasional, serta kesempatan mengembangkan\npotensi dengan memperhatikan kebutuhan tumbuh\nkembangnya;\nd. mendapatkan pelayanan kesehatan dan makanan\nyang layak sesuai dengan kebutuhan gizi;\ne. mendapatkan layanan informasi;\nf. mendapatkan penyuluhan hukum dan bantuan\nhukum;\ng.menyampaikan...\nSK No 143392 A\nPRESIDEN\nREPUBLIK INDONESIA\ng. menyampaikan pengaduan danf atau keluhan;\nh. mendapatkan bahan bacaan dan mengikuti siaran\nmedia massa yang tidak dilarang;\ni. mendapatkan perlakuan secara manusiawi dan\ndilindungi dari tindakan penyiksaan, eksploitasi,\npembiaran, kekerasan, dan segala tindakan yang\nmembahayakan fisik dan mental;\nj mendapatkan pelayanan sosial; dan\nk. menerima atau menolak kunjungan dari keluarga,\npendamping, advokat, dan masyarakat."
+   }
+  },
+  {
+   "id": "ID-H3066-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\n(1) Selain hak sebagaimana dimaksud dalam Pasal 12,\nAnak Binaan yang telah memenuhi persyaratan\ntertentu tanpa terkecuali juga berhak atas:\na. pengurangan masa pidana;\nb. asimilasi;\nc. cuti mengunjungi atau dikunjungi keluarga;\nd. cuti bersyarat;\ne. cuti menjelang bebas;\nf. pembebasan bersyarat; dan\ng. hak lain sesuai dengan ketentuan peraturan\nperundang-undangan.\n(2) Persyaratan tertentu sebagaimana dimaksud pada\nayat (1) meliputi:\na. berkelakuan baik;\nb. aktif mengikuti program Pembinaan; dan\nc. telah menunjukkan penurunan tingkat risiko.\n(3) Selain memenuhi persyaratan tertentu sebagaimana\ndimaksud pada ayat (2), bagi Anak Binaan yang akan\ndiberikan cuti menjelang bebas atau pembebasan\nbersyarat sebagaimana dimaksud pada ayat (1)\nhuruf e dan huruf f juga harus telah menjalani masa\npidana paling singkat 1/2 (satu perdua).\nSK No 143393 A"
+   }
+  },
+  {
+   "id": "ID-H3066-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\nAnak dan Anak Binaan wajib:\na. menaati peraturan tata tertib;\nb. mengikuti secara tertib program Pelayanan atau\nPembinaan;\nc. memelihara perikehidupan yang bersih, aman, tertib,\ndan damai; dan\nd. menghormati hak asasi setiap orang di lingkungannya.\nBagian Ketiga\nHak dan Kewajiban Klien"
+   }
+  },
+  {
+   "id": "ID-H3066-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\nKlien berhak:\na. mendapatkan pendampingan pada tahap\npraadjudikasi, adjudikasi, pascaadjudikasi, dan\nbimbingan lanjutan;\nb. mendapatkan program pembimbingan pada tahap\npraadjudikasi, adjudikasi, pascaadjudikasi, dan\nbimbingan lanjutan;\nc. mendapatkan izin keluar negeri untuk alasan penting\nbagi Klien yang menjalani pembebasan bersyarat;\nd. mendapatkan informasi tentang peraturan\nPembimbingan Kemasyarakatan; dan\ne. menyampaikan pengaduan dan/atau keluhan."
+   }
+  },
+  {
+   "id": "ID-H3066-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\nKlien wajib:\na. mematuhi persyaratan Pembimbingan\nKemasyarakatan;\nb. mengikuti secara tertib program Pembimbingan\nKemasyarakatan;\nc. memelihara perikehidupan yang bersih, aman, tertib,\ndan damai; dan\nd. menghormati hak asasi setiap orang di lingkungannya.\nSK No 143394 A"
+   }
+  },
+  {
+   "id": "ID-H3066-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\nTahanan, Anak, dan Warga Binaan yang tidak\nmenjalankan kewajiban sebagaimana dimaksud dalam\nPasal 8, Pasal 1 1, Pasal 14, dan Pasal 16 dikenakan sanksi\nsesuai dengan ketentuan peraturan perundang-undangan."
+   }
+  },
+  {
+   "id": "ID-H3066-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\nKetentuan lebih lanjut mengenai syarat dan tata cara\npelaksanaan hak dan kewajiban Tahanan, Anak, dan\nWarga Binaan diatur dengan Peraturan Pemerintah.\nBAB III\nPENYELENGGARAAN FUNGSI PEMASYARAKATAN\nBagian Kesatu\nPelayanan\nParagraf 1\nPelayanan Tahanan"
+   }
+  },
+  {
+   "id": "ID-H3066-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\n(1) Pelayanan terhadap Tahanan diselenggarakan di\nRutan.\n(2) Rutan sebagaimana dimaksud pada ayat (1) dibentuk\ndi kabupaten/kota."
+   }
+  },
+  {
+   "id": "ID-H3066-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\n(1) Penyelenggaraan Pelayanan terhadap Tahanan\nsebagaimana dimaksud dalam Pasal 19 ayat (1)\nmeliputi:\na. penerimaan Tahanan;\nb. penempatan Tahanan;\nc. pelaksanaan Pelayanan Tahanan; dan\nd. pengeluaran Tahanan.\n(2) Dalam...\nSK No 143395 A\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Dalam penerimaan Tahanan sebagaimana dimaksud\npada ayat (1) huruf a dilakukan pemeriksaan\nkeabsahan dokumen dan kondisi kesehatan Tahanan.\n(3) Dokumen sebagaimana dimaksud pada ayat (2)\nmeliputi:\na. surat perintah penahanan atau penetapan\npenahanan; dan\nb. berita acara serah terima Tahanan.\n(4) Penempatan Tahanan sebagaimana dimaksud pada\nayat (1) huruf b dikelompokkan berdasarkan usia dan\njenis kelamin, atau alasan lain sesuai dengan asesmen\nrisiko dan kebutuhan yang dilakukan oleh Asesor\nPemasyarakatan.\n(5) Pelaksanaan Pelayanan Tahanan sebagaimana\ndimaksud pada ayat (1) huruf c dilakukan berdasarkan\nhasil Litmas.\n(6) Litmas sebagaimana dimaksud pada ayat (5) disusun\noleh Pembimbing Kemasyarakatan.\n(7) Pengeluaran Tahanan sebagaimana dimaksud pada\nayat (1) huruf d terdiri atas:\na. pengeluaran tetap;\nb. pengeluaran sementara; dan\nc. pengeluaran demi hukum."
+   }
+  },
+  {
+   "id": "ID-H3066-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\nPengeluaran tetap sebagaimana dimaksud dalam Pasal 20\nayat (7) huruf a, dilakukan karena:\na. proses peradilan telah selcsai; atau\nb. Tahanan meninggal dunia."
+   }
+  },
+  {
+   "id": "ID-H3066-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\n(1) Pengeluaran sementara sebagaimana dimaksud dalam\nPasal 20 ayat (7) huruf b dilakukan dalam hal:\na. permintaan instansi yang menahan; dan\nb. kondisi darurat.\nSK No 143396 A\n(2) Pengeluaran\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Pengeluaran sementara dalam hal kondisi darurat\nsebagaimana dimaksud pada ayat (1) huruf b dapat\ndilakukan oleh kepala Rutan dengan memberitahukan\nkepada instansi yang menahan."
+   }
+  },
+  {
+   "id": "ID-H3066-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\nPengeluaran demi hukum sebagaimana dimaksud dalam\nPasal 20 ayat (71 huruf c wajib dilakukan terhadap\nTahanan yang telah habis masa penahanan atau\nperpanj angan penahanannya."
+   }
+  },
+  {
+   "id": "ID-H3066-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 24\nDalam hal Tahanan membutuhkan pendidikan,\npengajaran, dan kegiatan rekreasional, serta kesempatan\nmengembangkan potensi diri, Tahanan dapat diberikan\nPelayanan berupa:\na. layanan kepribadian; dan\nb. layanan kemandirian."
+   }
+  },
+  {
+   "id": "ID-H3066-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\nUntuk alasan kepentingan keamanan dan/atau keperluan\nproses peradilan, Tahanan dapat dipindahkan setelah\nmendapat izin dari instansi yang berwenang."
+   }
+  },
+  {
+   "id": "ID-H3066-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\nKepala Rutan wajib mengeluarkan demi hukum\nsebagaimana dimaksud dalam Pasal 20 ayat (7) huruf c\nterhadap Tahanan yang telah habis masa penahanan atau\nperpanj angan penahanannya."
+   }
+  },
+  {
+   "id": "ID-H3066-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\nKetentuan lebih lanjut mengenai penyelenggaraan\nPelayanan Tahanan diatur dengan Peraturan Pemerintah.\nSK No 143397 A\nParagraf2.\nPRESIDEN\nREPUBLIK INDONESIA\nParagraf 2\nPelayanan Anak"
+   }
+  },
+  {
+   "id": "ID-H3066-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\n(1) Pelayanan terhadap Anak diselenggarakan di LPAS.\n(21 LPAS sebagaimana dimaksud pada ayat (1) dibentuk di\nprovinsi."
+   }
+  },
+  {
+   "id": "ID-H3066-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\n(1) Penyelenggaraan Pelayanan terhadap Anak\nsebagaimana dimaksud dalam Pasal 28 ayat (1)\nmeliputi:\na. penerimaan Anak;\nb. penempatan Anak;\nc. pelaksanaan Pelayanan Anak; dan\nd. pengeluaran Anak.\n(2) Dalam penerimaan Anak sebagaimana dimaksud pada\nayat (1) huruf a dilakukan pemeriksaan keabsahan\ndokumen dan kondisi kesehatan Anak.\n(3) Dokumen sebagaimana dimaksud pada ayat (21\nmeliputi:\na. surat perintah penahanan atau penetapan\npenahanan; dan\nb. berita acara serah terima Anak.\n(4) Penempatan Anak sebagaimana dimaksud pada ayat\n(1) huruf b dikelompokkan berdasarkan usia dan jenis\nkelamin, atau alasan lain sesuai dengan asesmen\nrisiko dan kebutuhan yang dilakukan oleh Asesor\nPemasyarakatan.\n(5) Pelaksanaan Pelayanan Anak sebagaimana dimaksud\npada ayat (1) huruf c berdasarkan hasil Litmas.\n(6) Litmas sebagaimana dimaksud pada ayat (5) disusun\noleh Pembimbing Kemasyarakatan.\nSK No 143398 A\n(7) Pengeluaran\nPRES tDEN\nREPUBLIK INDONESIA\n(71 Pengeluaran Anak sebagaimana dimaksud pada\nayat (1) huruf d terdiri atas:\na. pengeluaran tetap;\nb. pengeluaran sementara; dan\nc. pengeluaran demi hukum.\n(8) Ketentuan mengenai pengeluaran Tahanan\nsebagaimana dimaksud dalam Pasal 2l dan Pasal 23\nberlaku juga bagi ketentuan pengeluaran Anak."
+   }
+  },
+  {
+   "id": "ID-H3066-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\n(1) Pengeluaran sementara sebagaimana dimaksud dalam\nPasal 29 ayat (7) huruf b dilakukan dalam hal:\na. permintaan instansi yang menahan; dan\nb. kondisi darurat.\n(2) Pengeluaran sementara dalam hal kondisi darurat\nsebagaimana dimaksud pada ayat (1) huruf b dapat\ndilakukan oleh kepala LPAS dengan memberitahukan\nkepada instansi yang menahan."
+   }
+  },
+  {
+   "id": "ID-H3066-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\n(1) Penyelenggaraan Pelayanan Anak di LPAS diutamakan\npada pelaksanaan pendidikan berdasarkan asas\nkepentingan terbaik bagi Anak.\n(2) Pelaksanaan pendidikan sebagaimana dimaksud pada\nayat (1) tidak harus menyesuaikan dengan lamanya\nmasa penahanan."
+   }
+  },
+  {
+   "id": "ID-H3066-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 32\nUntuk alasan kepentingan keamanan dan/atau keperluan\nproses peradilan, Anak dapat dipindahkan setelah\nmendapat izin dari instansi yang berwenang."
+   }
+  },
+  {
+   "id": "ID-H3066-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 33\nKepala LPAS wajib mengeluarkan demi hukum\nsebagaimana dimaksud dalam Pasal 29 ayat (7) huruf c\nterhadap Anak yang telah habis masa penahanan atau\nperpanj angan penahanannya.\nPasal34...\nSK No 143399 A\nPRESIDEN\nREPU BLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H3066-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 34\nKetentuan lebih lanjut mengenai penyelenggaraan\nPelayanan Anak diatur dengan Peraturan Pemerintah.\nBagian Kedua\nPembinaan\nParagraf 1\nPembinaan Narapidana"
+   }
+  },
+  {
+   "id": "ID-H3066-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 35\n(1) Pembinaan terhadap Narapidana diselenggarakan oleh\nLapas.\n(2) Lapas sebagaimana dimaksud pada ayat (1) dibentuk\ndi kabupaten/kota."
+   }
+  },
+  {
+   "id": "ID-H3066-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 36\n(1) Penyelenggaraan Pembinaan terhadap Narapidana\nsebagaimana dimaksud dalam Pasal 35 ayat (1)\nmeliputi:\na. penerimaan Narapidana;\nb. penempatan Narapidana;\nc. pelaksanaan Pembinaan Narapidana;\nd. pengeluaran Narapidana; dan\ne. pembebasan Narapidana.\n(21 Dalam penerimaan Narapidana sebagaimana\ndimaksud pada ayat (1) huruf a dilakukan\npemeriksaan keabsahan dokumen dan kondisi\nkesehatan Narapidana.\n(3) Dokumen sebagaimana dimaksud pada ayat (21\nmeliputi:\na. salinan atau petikan putusan pengadilan yang\ntelah berkekuatan hukum tetap;\nb. berita acara pelaksanaan putusan; dan\nc. berita acara serah terima Narapidana.\nSK No 143400 A\n(4) Penempatan\nPRESIDEN\nREPUBLIK INDONESIA\n(41 Penempatan Narapidana sebagaimana dimaksud pada\nayat (1) huruf b dikelompokkan berdasarkan usia dan\njenis kelamin, atau alasan lain sesuai dengan asesmen\nrisiko dan kebutuhan yang dilakukan oleh Asesor\nPemasyarakatan.\n(5) Pelaksanaan Pembinaan Narapidana sebagaimana\ndimaksud pada ayat (1) huruf c dilakukan berdasarkan\nhasil Litmas.\n(6) Litmas sebagaimana dimaksud pada ayat (5) disusun\noleh Pembimbing Kemasyarakatan.\n(71 Pengeluaran Narapidana sebagaimana dimaksud pada\nayat (1) huruf d dilakukan dalam hal:\na. perawatan kesehatan;\nb. masih ada perkara lain;\nc. pelaksanaan Pembinaan;\nd. terdapat alasan penting lainnya; dan\ne. kondisi darurat.\n(8) Pembebasan Narapidana sebagaimana dimaksud pada\nayat (1) huruf e dilakukan karena telah selesai\nmenjalani masa pidana."
+   }
+  },
+  {
+   "id": "ID-H3066-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 37\nUntuk kepentingan keamanan,\nkeperluan proses peradilan,\ndipindahkan."
+   }
+  },
+  {
+   "id": "ID-H3066-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 38\nBerdasarkan hasil Litmas,\nPembinaan berupa:\na. pembinaan kepribadian; dan\nb. pembinaan kemandirian.\nPembinaan, dan/atau\nNarapidana dapat\nNarapidana diberikan"
+   }
+  },
+  {
+   "id": "ID-H3066-A39",
+   "no": 39,
+   "noLabel": {
+    "id": "Pasal 39"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 39\n(1) Pembinaan kemandirian sebagaimana dimaksud\ndalam Pasal 38 huruf b dapat ditingkatkan menjadi\nkegiatan menghasilkan barang dan jasa yang memiliki\nmanfaat dan nilai tambah.\nSK No 143401 A\n(2) Hasil\nPRESIDEN\nREPUBLIK TNDONESIA\n(21 Hasil Pembinaan sebagaimana dimaksud pada ayat (1)\nmenjadi sumber penerimaan negara bukan pajak\nsesuai dengan ketentuan peraturan perundang-\nundangan."
+   }
+  },
+  {
+   "id": "ID-H3066-A40",
+   "no": 40,
+   "noLabel": {
+    "id": "Pasal 40"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 40\nDalam menjalankan Pembinaan sebagaimana dimaksud\ndalam Pasal 36, kepala Lapas dapat dibantu oleh Wali\nPemasyarakatan.\nPasal 4 1\nKetentuan\nPembinaan\nPemerintah.\nlebih lanjut\nNarapidana\nmengenai penyelenggaraan\ndiatur dengan Peraturan"
+   }
+  },
+  {
+   "id": "ID-H3066-A42",
+   "no": 42,
+   "noLabel": {
+    "id": "Pasal 42"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 42\nKetentuan mengenai Pembinaan terhadap Narapidana\nsebagaimana dimaksud dalam Pasal 38 berlaku juga\nterhadap Narapidana yang menjalani pidana tutupan."
+   }
+  },
+  {
+   "id": "ID-H3066-A43",
+   "no": 43,
+   "noLabel": {
+    "id": "Pasal 43"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 43\n(1) Dalam hal Narapidana terlibat perkara lain sebagai\ntersangka atau saksi, penyidikan dilakukan di Lapas\ntempat Narapidana yang bersangkutan menjalani\npidana.\n(2) Penyidikan sebagaimana dimaksud pada ayat (1)\ndilaksanakan setelah penyidik menyerahkan surat izin\nmelaksanakan penyidikan kepada kepala Lapas.\n(3) Dalam keadaan tertentu, kepala Lapas dapat menolak\npelaksanaan penyidikan di Lapas sebagaimana\ndimaksud pada ayat (1).\n(4) Dalam hal penyidikan sebagaimana dimaksud pada\nayat (1) tidak dapat dilakukan di Lapas, penyidikan\ndapat dilakukan di luar Lapas setelah rnendapat surat\nizin dari kepala Lapas.\nSK No 143402 A\n(5) Pengeluaran\nPRESIDEN\nREPUBLIK INDONESTA\n(5) Pengeluaran Narapidana untuk keperluan penyidikan\nsebagaimana dimaksud pada ayat (4) dapat dilakukan\npaling lama 24 (dua puluh empat) jam terhitung sejak\ndibawa keluar Lapas, kecuali ditentukan lain oleh\nUndang-Undang.\n(6) Dalam hal penyidikan Narapidana dilakukan di luar\nwilayah tempat Narapidana menjalankan pidana,\nNarapidana dapat dititipkan ke Lapas terdekat dengan\ntempat penyidikan."
+   }
+  },
+  {
+   "id": "ID-H3066-A44",
+   "no": 44,
+   "noLabel": {
+    "id": "Pasal 44"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 44\n(1) Untuk keperluan penuntutan dan pemeriksaan di\nsidang pengadilan, Narapidana dapat dikeluarkan\nsetelah mendapat surat rzin dari kepala Lapas.\n(2) Dalam hal penuntutan dan pemeriksaan di sidang\npengadilan sebagaimana dimaksud pada ayat (1)\ndilakukan di luar wilayah tempat Narapidana\nmenjalankan pidana, Narapidana dapat dititipkan ke\nLapas terdekat dengan tempat penuntutan dan\npemeriksaan di sidang pengadilan."
+   }
+  },
+  {
+   "id": "ID-H3066-A45",
+   "no": 45,
+   "noLabel": {
+    "id": "Pasal 45"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 45\n(1) Dalam hal tertentu, Narapidana dapat dipindahkan ke\nnegara lain berdasarkan perjanjian.\n(2) Ketentuan mengenai pemindahan Narapidana\nsebagaimana dimaksud pada ayat (1) diatur dengan\nUndang-Undang."
+   }
+  },
+  {
+   "id": "ID-H3066-A46",
+   "no": 46,
+   "noLabel": {
+    "id": "Pasal 46"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 46\nKepala Lapas wajib membebaskan Narapidana yang telah\nselesai menjalani masa pidananya.\nParagraf 2\nPembinaan Anak Binaan"
+   }
+  },
+  {
+   "id": "ID-H3066-A47",
+   "no": 47,
+   "noLabel": {
+    "id": "Pasal 47"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 47\n(1) Pembinaan terhadap Anak Binaan diselenggarakan\noleh LPKA.\nSK No 143403 A\n(2) LPKA\nPRESTDEN\nREPUBLIK INDONESIA\n(21 LPKA sebagaimana dimaksud pada ayat (1) dibentuk di\nprovinsi."
+   }
+  },
+  {
+   "id": "ID-H3066-A48",
+   "no": 48,
+   "noLabel": {
+    "id": "Pasal 48"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 48\n(1) Penyelenggaraan Pembinaan terhadap Anak Binaan\nsebagaimana dimaksud dalam Pasal 47 ayat (1)\nmeliputi:\na. penerimaan Anak Binaan;\nb. penempatan Anak Binaan;\nc. pelaksanaan Pembinaan Anak Binaan;\nd. pengeluaran Anak Binaan; dan\ne. pembebasan Anak Binaan.\n(21 Dalam penerimaan Anak Binaan sebagaimana\ndimaksud pada ayat (1) huruf a dilakukan\npemeriksaan keabsahan dokumen dan kondisi\nkesehatan Anak Binaan.\n(3) Dokumen sebagaimana dimaksud pada ayat (21\nmeliputi:\na. salinan atau petikan putusan pengadilan yang\ntelah berkekuatan hukum tetap;\nb. berita acara pelaksanaan putusan; dan\nc. berita acara serah terima Anak Binaan.\n(4) Penempatan Anak Binaan sebagaimana dimaksud\npada ayat (1) huruf b dikelompokkan berdasarkan usia\ndan jenis kelamin, atau alasan lain sesuai dengan\nasesmen risiko dan kebutuhan yang dilakukan oleh\nAsesor Pemasyarakatan.\n(5) Pelaksanaan Pembinaan Anak Binaan sebagaimana\ndimaksud pada ayat (1) huruf c berdasarkan hasil\nLitmas.\n(6) Litmas sebagaimana dimaksud pada ayat (5) disusun\noleh Pembimbing Kemasyarakatan.\n(71 Pengeluaran Anak Binaan sebagaimana dimaksud\npada ayat (1) huruf d dilakukan dalam hal:\na. perawatan kesehatan;\nb. masih ada perkara lain;\nc. pelaksanaan Pembinaan;\nd. terdapat alasan penting lainnya; dan\ne. kondisi darurat.\nSK No 143404 A\n(8) Pembebasan\nPRESIDEN\nREPUBLIK INDONESIA\n(8) Pembebasan Anak Binaan sebagaimana dimaksud\npada ayat (1) huruf e dilakukan karena telah selesai\nmenjalani masa pidana."
+   }
+  },
+  {
+   "id": "ID-H3066-A49",
+   "no": 49,
+   "noLabel": {
+    "id": "Pasal 49"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 49\nUntuk kepentingan keamanan,\nkeperluan proses peradilan,\ndipindahkan.\nPembinaan, dan/atau\nAnak Binaan dapat"
+   }
+  },
+  {
+   "id": "ID-H3066-A50",
+   "no": 50,
+   "noLabel": {
+    "id": "Pasal 50"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 50\n(1) Berdasarkan hasil Litmas, Anak Binaan diberikan\nPembinaan berupa:\na. pendidikan;\nb. pembinaan kepribadian; dan\nc. pembinaan kemandirian.\n(2) Pendidikan sebagaimana dimaksud pada ayat (1)\nhuruf a terdiri atas pendidikan formal, nonformal,\ndanlatau informal.\n(3) Pembinaan kepribadian sebagaimana dimaksud pada\nayat (1) huruf b berupa kegiatan yang bertujuan pada\npembinaan mental dan spiritual.\n(41 Pembinaan kemandirian sebagaimana dimaksud pada\nayat (1) huruf c berupa pelatihan keterampilan.\n(5) Pembinaan sebagaimana dimaksud pada ayat (1)\ndiselenggarakan dengan mengutamakan kepentingan\nterbaik bagi Anak Binaan."
+   }
+  },
+  {
+   "id": "ID-H3066-A51",
+   "no": 51,
+   "noLabel": {
+    "id": "Pasal 51"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 51\nDalam menjalankan Pembinaan sebagaimana dimaksud\ndalam Pasal 48, kepala LPKA dapat dibantu oleh Wali\nPemasyarakatan.\nKetentuan\nPembinaan\nPemerintah"
+   }
+  },
+  {
+   "id": "ID-H3066-A52",
+   "no": 52,
+   "noLabel": {
+    "id": "Pasal 52"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 52\nlebih lanjut\nAnak Binaan\nmengenai penyelenggaraan\ndiatur dengan Peraturan\nSK No 143405 A\nPasal53...\nBagian Ketiga\nPelayanan Tahanan dan Pembinaan Narapidana Risiko Tinggi"
+   }
+  },
+  {
+   "id": "ID-H3066-A54",
+   "no": 54,
+   "noLabel": {
+    "id": "Pasal 54"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 54\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 53\nKepala LPKA wajib membebaskan Anak Binaan yang telah\nselesai menjalani masa pidananya.\n(1) Terhadap Tahanan atau Narapidana risiko tinggi\ndiberikan Pelayanan atau Pembinaan khusus\nberdasarkan hasil Litmas.\n(2) Hasil Litmas sebagaimana dimaksud pada ayat (1)\ndisusun berdasarkan asesmen yang dilakukan oleh\nAsesor Pemasyarakatan pada Bapas dan/atau instansi\nterkait.\n(3) Pelayanan atau Pembinaan khusus sebagaimana\ndimaksud pada ayat (1) meliputi:\na. penempatan dalam tempat tertentu; dan\nb. pemberian program Pelayanan atau Pembinaan\nberkoordinasi dengan instansi terkait.\n(4) Ketentuan lebih lanjut mengenai Pelayanan atau\nPembinaan khusus sebagaimana dimaksud pada ayat\n(1) diatur dengan Peraturan Pemerintah.\nBagian Keempat\nPembimbingan Kemasyarakatan"
+   }
+  },
+  {
+   "id": "ID-H3066-A55",
+   "no": 55,
+   "noLabel": {
+    "id": "Pasal 55"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 55\n(1) Pembimbingan Kemasyarakatan terhadap Klien\ndiselenggarakan oleh Bapas.\n(21 Bapas sebagaimana dimaksud pada ayat (1) dibentuk\ndi kabupaten/kota.\nSK No 143406A"
+   }
+  },
+  {
+   "id": "ID-H3066-A56",
+   "no": 56,
+   "noLabel": {
+    "id": "Pasal 56"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 56\n(1) Penyelenggaraan Pembimbingan Kemasyarakatan\nmeliputi:\na. pendampingan;\nb. pembimbingan; dan\nc. pengawasan.\n(21 Penyelenggaraan Pembimbingan Kemasyarakatan\nsebagaimana dimaksud pada ayat (1) dilakukan\nmelalui tahapan:\na. penerimaan Klien;\nb. pemberian program; dan\nc. pengakhiran.\n(3) Pendampingan sebagaimana dimaksud pada ayat (1)\nhuruf a digunakan untuk pemenuhan kebutuhan dan\npelindungan hak dalam proses peradilan sejak tahap\npraadjudikasi sampai dengan tahap pascaadjudikasi\ndan bimbingan lanjutan.\n(4) Pembimbingan sebagaimana dimaksud pada ayat (1)\nhuruf b digunakan untuk memberikan bekal dalam\nmeningkatkan kualitas mental dan spiritual,\nintelektual, keterampilan, dan kemandirian bagi Klien.\n(5) Pengawasan sebagaimana dimaksud pada ayat (1)\nhuruf c digunakan untuk memastikan pelaksanaan\nsyarat dan program yang telah ditetapkan.\n(6) Kegiatan pendampingan, pembimbingan, dan\npengawasan sebagaimana dimaksud pada ayat (3),\nayat (4), dan ayat (5) dilakukan berdasarkan hasil\nLitmas.\n(71 Litmas sebagaimana dimaksud pada ayat (6) disusun\noleh Pembimbing Kemasyarakatan."
+   }
+  },
+  {
+   "id": "ID-H3066-A57",
+   "no": 57,
+   "noLabel": {
+    "id": "Pasal 57"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 57\nKetentuan mengenai Pembimbingan Kemasyarakatan\nterhadap Klien sebagaimana dimaksud dalam Pasal 56\nberlaku juga terhadap Klien yang menjalani:\nSK No 143401 A\na pidana\nPRESIDEN\nREPUBLIK INDONESIA\na. pidana kerja sosial dan pidana pengawasan bagi\ndewasa; dan\nb. pidana peringatan, pidana dengan syarat, pelatihan\nkerja, dan pembinaan dalam lembaga bagi anak."
+   }
+  },
+  {
+   "id": "ID-H3066-A58",
+   "no": 58,
+   "noLabel": {
+    "id": "Pasal 58"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 58\n(1) Pembimbingan Klien berakhir karena:\na. telah selesai menjalani masa Pembimbingan\nKemasyarakatan berdasarkan putusan pengadilan\natau keputusan menteri/pimpinan lembaga;\nb. meninggal dunia; atau\nc. dicabut Pembimbingan Kemasyarakatannya\nkarena melanggar persyaratan Pembimbingan\nKemasyarakatan.\n(2) Kepala Bapas wajib mengakhiri Pembimbingan\nKemasyarakatan Klien sebagaimana dimaksud pada\nayat (1)."
+   }
+  },
+  {
+   "id": "ID-H3066-A59",
+   "no": 59,
+   "noLabel": {
+    "id": "Pasal 59"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 59\nKetentuan lebih lanjut mengenai pelaksanaan\nPembimbingan Kemasyarakatan diatur dengan Peraturan\nPemerintah.\nBagian Kelima\nPerawatan"
+   }
+  },
+  {
+   "id": "ID-H3066-A60",
+   "no": 60,
+   "noLabel": {
+    "id": "Pasal 60"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 60\n(1) Rutan, LPAS, Lapas, dan LPKA dalam melaksanakan\nfungsi Pelayanan dan Pembinaan memberikan\nPerawatan terhadap Tahanan, Anak, Narapidana, dan\nAnak Binaan.\n(21 Perawatan sebagaimana dimaksud pada ayat (1) terdiri\natas:\na. pemeliharaan kesehatan;\nb. rehabilitasi; dan\nc. pemenuhan kebutuhan dasar.\nSK No l4340tt A\nPasal61...\nPRES tDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H3066-A61",
+   "no": 61,
+   "noLabel": {
+    "id": "Pasal 61"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 61\n(1) Rutan, LPAS, Lapas, dan LPKA memberikan perlakuan\nkhusus terhadap kelompok berkebutuhan khusus.\n(2) Kelompok berkebutuhan khusus sebagaimana\ndimaksud pada ayat (1) terdiri atas:\na. Anak;\nb. Anak Binaan;\nc. perempuan dalam fungsi reproduksi;\nd. pengidap penyakit kronis;\ne. penyandang disabilitas; dan\nf. manusia lanjut usia."
+   }
+  },
+  {
+   "id": "ID-H3066-A62",
+   "no": 62,
+   "noLabel": {
+    "id": "Pasal 62"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 62\n(1) Anak dari Tahanan atau anak dari Narapidana\nperempuan yang dibawa ke dalam Rutan atau Lapas,\natau yang lahir di Lapas dapat tinggal bersama ibunya\npaling lama sampai dengan anak berusia 3 (tiga)\ntahun.\n(21 Anak dari Tahanan atau anak dari Narapidana\nperempuan sebagaimana dimaksud pada ayat (1)\nditempatkan secara khusus bersama dengan Tahanan\natau Narapidana perempuan tersebut.\n(3) Dalam hal anak dari Tahanan atau anak dari\nNarapidana perempuan sebagaimana dimaksud pada\nayat (1) merupakan anak yang berkebutuhan khusus,\nanak dapat ditempatkan pada unit layanan disabilitas.\n(4) Anak sebagaimana dimaksud pada ayat (1) dapat\ndiberi makanan tambahan atas petunjuk dokter atau\nahl: gizi."
+   }
+  },
+  {
+   "id": "ID-H3066-A63",
+   "no": 63,
+   "noLabel": {
+    "id": "Pasal 63"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 63\nKetentuan lebih lanjut mengenai Perawatan Tahanan,\nAnak, Narapidana, dan Anak Binaan diatur dengan\nPeraturan Pemerintah.\nSK No 143409 A\nBagian Keenam\nPRESIDEN\nREPUBLIK INDONESIA\nBagian Keenam\nPengamanan"
+   }
+  },
+  {
+   "id": "ID-H3066-A64",
+   "no": 64,
+   "noLabel": {
+    "id": "Pasal 64"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 64\n(1) Penyelenggaraan Pengarnanan dilakukan di Rutan dan\nLapas.\n(2) Penyelenggaraan Pengamanan sebagaimana dimaksud\npada ayat (1) dapat dilakukan ditempat lain.\n(3) Penyelenggaraan Pengamanan sebagaimana dimaksud\npada ayat (1) dan ayat (21terdiri atas:\na. pencegahan;\nb. penindakan; dan\nc. pemulihan."
+   }
+  },
+  {
+   "id": "ID-H3066-A65",
+   "no": 65,
+   "noLabel": {
+    "id": "Pasal 65"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 65\n(1) Pencegahan sebagaimana dimaksud dalam Pasal 64\nayat (3) huruf a merupakan upaya untuk mengurangi\natau menghilangkan potensi dan ancaman gangguan\nkeamanan dan ketertiban.\n(2) Dalam melaksanakan pencegahan di Rutan dan Lapas\nsebagaimana dimaksud pada ayat (1), Petugas\nPemasyarakatan berwenang melakukan:\na. pemeriksaan;\nb. pengawasan komunikasi; dan\nc. tindakan pencegahan lainnya."
+   }
+  },
+  {
+   "id": "ID-H3066-A66",
+   "no": 66,
+   "noLabel": {
+    "id": "Pasal 66"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 66\n(1) Penindakan sebagaimana dimaksud dalam Pasal 64\nayat (3) huruf b merupakan upaya untuk\nmenghentikan, mengurangi, dan melokalisasi\ngangguan keamanan dan ketertiban.\n(2) Dalam melaksanakan penindakan sebagaimana\ndimaksud pada ayat (1) di Rutan dan Lapas, Petugas\nPemasyarakatan berwenang untuk:\na. mengamankan barang terlarang;\nb. menggunakan kekuatan;\nc.menjatuhkan...\nSK No 143410 A\nPRESIDEN\nREPUBLIK TNDONESIA\nc. menjatuhkan sanksi; dan\nd. menjatuhkan tindakan pembatasan."
+   }
+  },
+  {
+   "id": "ID-H3066-A67",
+   "no": 67,
+   "noLabel": {
+    "id": "Pasal 67"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 67\n(1) Penjatuhan sanksi bagi Tahanan dan Narapidana\nsebagaimana dimaksud dalam Pasal 66 ayat (21\nhuruf c berupa:\na. penempatan dalam sel pengasingan paling lama 12\n(dua belas) hari; dan/atau\nb. penundaan atau pembatasan hak sebagaimana\ndimaksud dalam Pasal 7 huruf k dan Pasal 10 ayat (1).\n(2) Sanksi sebagaimana dimaksud pada ayat (1) huruf a\ntidak diberikan bagi Tahanan dan Narapidana\nperempuan dalam fungsi reproduksi."
+   }
+  },
+  {
+   "id": "ID-H3066-A68",
+   "no": 68,
+   "noLabel": {
+    "id": "Pasal 68"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 68\nDalam menjatuhkan sanksi kepada Tahanan dan\nNarapidana, Petugas Pemasyarakatan rvajib:\na. memperlakukan Tahanan dan Narapidana secara adil\ndan tidak bcrtindak sewenang-wenang; dan\nb. mendasarkan tindakannya pada peraturan tata tertib\nRutan dan Lapas."
+   }
+  },
+  {
+   "id": "ID-H3066-A69",
+   "no": 69,
+   "noLabel": {
+    "id": "Pasal 69"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 69\nDalam hal pelanggaran yang dilakukan oleh Tahanan atau\nNarapidana diduga tindak pidana, kepala Rutan atau\nkepala Lapas melaporkan kepada instansi yang berwenang\nuntuk diproses sesuai dengan ketentuan peraturan\nperundang-undangan.\nPasal 7O\n(1) Tindakan pembatasan sebagaimana dimaksud dalam\nPasal 66 ayat (2) huruf d berdasarkan hasil penilaian\nPetugas Pemasyarakatan dikenakan bagi Tahanan dan\nNarapidana yang:\na. terancam oleh lingkungan sekitar; atau\nb. risiko tinggi.\n(2) Tindakan...\nSK No l434ll A\nPRES!DEN\nREPUBLIK INDONESIA\n(2) Tindakan pembatasan sebagaimana dimaksud pada\nayat (1) berupa penempatan di tempat tertentu."
+   }
+  },
+  {
+   "id": "ID-H3066-A71",
+   "no": 71,
+   "noLabel": {
+    "id": "Pasal 71"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 71\n(1) Pemulihan sebagaimana dimaksud dalam Pasal 64\nayat (3) huruf c merupakan upaya untuk memperbaiki\ndan mengembalikan keadaan kondisi pasca gangguan\nkeamanan dan ketertiban.\n(2) Pemulihan sebagaimana dimaksud pada ayat (1)\ndilakukan melalui cipta kondisi di Rutan dan Lapas."
+   }
+  },
+  {
+   "id": "ID-H3066-A72",
+   "no": 72,
+   "noLabel": {
+    "id": "Pasal 72"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 72\nDalam melaksanakan penyelenggaraan Pengamanan,\nPetugas Pemasyarakatan dilengkapi dengan senjata api\nserta sarana dan prasarana Pengamanan lainnya sesuai\ndengan ketentuan peraturan perundang-undangan.\nBagian Ketujuh\nPengamatan"
+   }
+  },
+  {
+   "id": "ID-H3066-A73",
+   "no": 73,
+   "noLabel": {
+    "id": "Pasal 73"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 73\n(1) Penyelenggaraan Pengamatarr dilakrrkan di LPAS dan\nLPKA.\n(21 Penyelenggaraan Pengamatan sebagaimana dimaksud\npada ayat (1) dapat dilakukan di tempat lain.\n(3) Pengamatan sebagaimana dimaksud pada ayat (1)\nterdiri atas:\na. pencegahan;\nb. penegakan disiplin; dan\nc. pemulihan."
+   }
+  },
+  {
+   "id": "ID-H3066-A74",
+   "no": 74,
+   "noLabel": {
+    "id": "Pasal 74"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 74\n(1) Pencegahan sebagaimana dimaksud dalam Pasal 73\nayat (3) huruf a merupakan upaya untuk mengurangi\natau menghilangkan potensi dan ancaman gangguan\nkeamanan dan ketertiban.\nSK No 143412 A\n(2) Dalam\nPRESIDEN\nREPUBLIK INDONESIA\n(21 Dalam melaksanakan pencegahan di LPAS dan LPKA\nsebagaimana dimaksud pada ayat (1), Petugas\nPemasyarakatan berwenang melakukan:\na. pemeriksaan;\nb. pengawasan komunikasi; dan\nc. tindakan pencegahan lainnya."
+   }
+  },
+  {
+   "id": "ID-H3066-A75",
+   "no": 75,
+   "noLabel": {
+    "id": "Pasal 75"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 75\nDalam melaksanakan penegakan disiplin sebagaimana\ndimaksud dalam Pasal 73 ayat (3) huruf b di LPAS dan\nLPKA, Petugas Pemasyarakatan berwenang untuk:\na. mengamankan barang terlarang; dan\nb. menjatuhkan tindakan disiplin."
+   }
+  },
+  {
+   "id": "ID-H3066-A76",
+   "no": 76,
+   "noLabel": {
+    "id": "Pasal 76"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 76\nTindakan disiplin bagi Anak dan Anak Binaan\nsebagaimana dimaksud dalam Pasal 75 huruf b berupa:\na. peringatan atau teguran;\nb. permintaan maaf secara lisan atau tertulis;\nc. membersihkan lingkungan; dan\nd. tindakan disiplin sesuai kesepakatan bersama antara\nAnak atau Anak Binaan dengan Petugas\nPemasyarakatan."
+   }
+  },
+  {
+   "id": "ID-H3066-A77",
+   "no": 77,
+   "noLabel": {
+    "id": "Pasal 77"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 77\nDalam menjatuhkan tindakan disiplin kepada Anak dan\nAnak Binaan, Petugas Pemasyarakatan wajib:\na. memperlakukan Anak dan Anak Binaan secara adil;\nb. mendasarkan tindakannya pada peraturan tata tertib\nLPAS dan LPKA; dan\nc. tidak bertindak sewenang-wenang."
+   }
+  },
+  {
+   "id": "ID-H3066-A78",
+   "no": 78,
+   "noLabel": {
+    "id": "Pasal 78"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 78\nDalam hal pelanggaran yang dilakukan oleh Anak atau\nAnak Binaan diduga merupakan tindak pidana, kepala\nLPAS atau kepala LPKA melaporkan kepada instansi yang\nberwenang untuk diproses sesuai dengan ketentuan\nperaturan perundang-undangan.\nSK No 143413 A"
+   }
+  },
+  {
+   "id": "ID-H3066-A79",
+   "no": 79,
+   "noLabel": {
+    "id": "Pasal 79"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 79\n(1) Pemulihan sebagaimana dimaksud dalam Pasal 73\nayat (3) huruf c merupakan upaya untuk memperbaiki\ndan mengembalikan keadaan kondisi pasca gangguan\nkeamanan dan ketertiban.\n(2) Pemulihan sebagaimana dimaksud pada ayat (1)\ndilakukan melalui cipta kondisi di LPAS dan LPI(A.\nPasal 8O\nKetentuan lebih lanjut mengenai penyelenggaraan\nPengamanan dan Pengamatan diatur dengan Peraturan\nPemerintah.\nBAB IV\nINTELIJ EN PEMASYARAKATAN"
+   }
+  },
+  {
+   "id": "ID-H3066-A81",
+   "no": 81,
+   "noLabel": {
+    "id": "Pasal 81"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 81\n(1) Penyelenggaraan Pengamanan sebagaimana dimaksud\ndalam Pasal 64 sampai dengan Pasal 7 | dan\nPengamatan sebagaimana dimaksud dalam Pasal 73\nsampai dengan Pasal 79 didukung dengan kegiatan\nintelijen.\n(2) Kegiatan intelijen sebagaimana dimaksud pada ayat (1)\ndilaksanakan oleh Petugas Pemasyarakatan.\n(3) Dalam melaksanakan kegiatan intelijen sebagaimana\ndimaksud pada ayat (2), Petugas Pemasyarakatan\nberwenang melakukan:\na. pengumpulan informasi intelijen;\nb. pengelolaan dan analisis informasi intelijen;\nc. penyajian data dan inforrrrasi intelijen; dan\nd. pertukaran informasi intelijen.\nSK No 143414 A\nBAB V\nPRES IDEN\nREPUBLIK INDONESIA\nBAB V\nSISTEM TEKNOLOGI INFORMASI PEMASYARAKATAN"
+   }
+  },
+  {
+   "id": "ID-H3066-A82",
+   "no": 82,
+   "noLabel": {
+    "id": "Pasal 82"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 82\n(1) Untuk mendukung pelaksanaan fungsi\nPemasyarakatan digunakan sistem teknologi informasi\nPemasyarakatan.\n(2) Sistem teknologi informasi Pemasyarakatan\nsebagaimana dimaksud pada ayat (1) meliputi\npengaturan mengenai kelembagaan, proses bisnis,\nsumber daya manusia, data, layanan dan aplikasi,\ninfrastruktur, keamanan, audit teknologi informasi,\ndan pusat data.\n(3) Ketentuan lebih lanjut mengenai sistem teknologi\ninformasi Pemasyarakatan diatur dengan peraturan\nmenteri/ pimpinan lembaga.\nBAB VI\nSARANA DAN PRASARANA"
+   }
+  },
+  {
+   "id": "ID-H3066-A83",
+   "no": 83,
+   "noLabel": {
+    "id": "Pasal 83"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 83\n(1) Dalam melaksanakan kebijakan penyelenggaraan\nfungsi Pemasyarakatan, pemerintah menyediakan\nsarana dan prasarana yang dibutuhkan.\n(21 Sarana dan prasarana sebagaimana dimaksud pada\nayat (1) paling sedikit meliputi sarana dan prasarana:\na. Pelayanan, Pembinaan, Pembimbingan\nKemasyarakatan, Perawatan, Pengamanan, dan\nPengamatan;\nb. lingkungan;\nc. bangunan;\nd. teknologi informasi; dan\ne. pendidikan.\n(3) Sarana dan prasarana sebagaimana dimaksud pada\nayat (21memiliki fungsi yang terintegrasi antara aspek\nruang gerak, kesehatan, dan keselamatan.\n(4) Ketentr:an...\nSK No 143415 A\nPRESIDEN\nREPUBLIK INDONESIA\n(4) Ketentuan lebih lanjut mengenai sarana dan prasarana\ndiatur dengan peraturan menteri/pimpinan lembaga.\nBAB VII\nPETUGAS PEMASYARAKATAN"
+   }
+  },
+  {
+   "id": "ID-H3066-A84",
+   "no": 84,
+   "noLabel": {
+    "id": "Pasal 84"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 84\n(1) Petugas Pemasyarakatan merupakan pejabat\nfungsional penegak hukum yang melaksanakan fungsi\nPemasyarakatan.\n(2) Ketentuan mengenai pejabat fungsional sebagaimana\ndimaksud pada ayat (1) diatur sesuai dengan\nketentuan peraturan perundang-undangan."
+   }
+  },
+  {
+   "id": "ID-H3066-A85",
+   "no": 85,
+   "noLabel": {
+    "id": "Pasal 85"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 85\n(1) Untuk dapat diangkat sebagai Petugas\nPemasyarakatan, selain memenuhi syarat yang\nditentukan dalam penerimaan aparatur sipil negara,\njuga harus mengikuti pendidikan dan pelatihan di\nbidang Pemasyarakatan.\n(2) Ketentuan lebih lanjut mengenai pelaksanaan\npendidikan dan pelatihan di bidang Pemasyarakatan\nsebagaimana dimaksud pada ayat (1) diatur dengan\nperaturan menteri/ pimpinan lembaga."
+   }
+  },
+  {
+   "id": "ID-H3066-A86",
+   "no": 86,
+   "noLabel": {
+    "id": "Pasal 86"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 86\n(1) Petugas Pemasyarakatan wajib menghormati hak asasi\nTahanan, Anak, dan Warga Binaan.\n(2) Petugas Pemasyarakatan wajib berpedoman pada kode\netik dan kode perilaku.\nSK No 143416 A\n(3) Dalam\nPRESIDEN\nREPUBLIK INDONESIA\n(3) Dalam hal terjadi pelanggaran kode etik dan kode\nperilaku sebagaimana dimaksud pada ayat(21, Petugas\nPemasyarakatan diproses sesuai dengan ketentuan\nkode etik dan kode perilaku.\n(4) Dalam hal terjadi pelanggaran kode etik dan kode\nperilaku sebagaimana dimaksud pada ayat (3) yang\ndiduga merupakan tindak pidana, Petugas\nPemasyarakatan diproses sesuai dengan ketentuan\nperaturan perundan g-undangan.\n(5) Ketentuan lebih lanjut mengenai kode etik dan kode\nperilaku sebagaimana dimaksud pada ayat (21 diatur\ndengan peraturan menteri/pimpinan lembaga."
+   }
+  },
+  {
+   "id": "ID-H3066-A87",
+   "no": 87,
+   "noLabel": {
+    "id": "Pasal 87"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 87\n(1) Petugas Pemasyarakatan berhak mendapat bantuan\nhukum dalam melaksanakan tugas dan fungsinya.\n(2) Petugas Pemasyarakatan wajib diberi pelindungan oleh\nnegara dari kemungkinan ancaman yang\nmembahayakan diri, jiwa, danf atau hartanya dalam\nmelaksanakan tugas dan fungsinya.\n(3) Pelindungan sebagaimana dimaksud pada ayat (2)\ndiberikan juga kepada keluarga Petugas\nPemasyarakatan, dalam hal terdapat ancaman.\n(4) Pemberian bantuan hukurn dan pelindungan\nsebagaimana dimaksud pada ayat (1), ayat (2), dan\nayat (3) dilaksanakan sesuai dengan ketentuan\nperaturan perundang-undangan.\nBAB VIII\nPENGAWASAN"
+   }
+  },
+  {
+   "id": "ID-H3066-A88",
+   "no": 88,
+   "noLabel": {
+    "id": "Pasal 88"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 88\n(1) Pcngawasan internal penyelenggaraan fungsi\nPemasyarakatan dilakukan oleh menteri/pimpinan\nlembaga.\n(2) Pengawasan.\nSK No 143417 A\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Pengawasan eksternal penyelenggaraan\nPemasyarakatan dilakukan oleh komisi di\nPerwakilan Rakyat Republik Indonesia\nmenangani bidang hukum.\nfungsi\nDewan\nyang\n(3) Dalam melaksanakan pengawasan sebagaimana\ndimaksud pada ayat (2), komisi membentuk tim\npengawas.\n(41 Ketentuan lebih lanjut mengenai pembentukan tim\npengawas sebagaimana dimaksud pada ayat (3) diatur\ndengan Peraturan Dewan Perwakilan Ralryat Republik\nIndonesia.\nBAB IX\nKERJA SAMA DAN PERAN SERTA MASYARAKAT"
+   }
+  },
+  {
+   "id": "ID-H3066-A89",
+   "no": 89,
+   "noLabel": {
+    "id": "Pasal 89"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 89\n(1) Dalam rangka pelaksanaan tugas Pemasyarakatan,\nmenteri/pimpinan lembaga dapat mengadakan kerja\nsama dengan kementerian, pemerintah daerah,\nlembaga, dan perorangan yang kegiatannya sesuai\ndengan penyelenggaraan Sistem Pemasyarakatan.\n(2) Kementerian, pemerintah daerah, dan lembaga juga\ndapat memberikan bantuan dan dukungan terhadap\nprogram Pemasyarakatan."
+   }
+  },
+  {
+   "id": "ID-H3066-A90",
+   "no": 90,
+   "noLabel": {
+    "id": "Pasal 90"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 90\nDalam mengadakan kerja sama sebagaimana dimaksud\ndalam Pasal 89, pemerin+\"ah daerah dapat menyediakan\nlahan, infrastruktur, dan/atau dana untuk\npenyelenggaraan Pemasyarakatan di wilayahnya.\nSK No l434lliA\nPasal91...\nPRES IDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H3066-A91",
+   "no": 91,
+   "noLabel": {
+    "id": "Pasal 91"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 91\nDalam melaksanakan fungsi, tugas, dan wewenang, setiap\npimpinan satuan kerja Pemasyarakatan menerapkan\nprinsip koordinasi, integrasi, dan sinkronisasi, serta\nbekeda sama dalam lingkup internal dan eksternal."
+   }
+  },
+  {
+   "id": "ID-H3066-A92",
+   "no": 92,
+   "noLabel": {
+    "id": "Pasal 92"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 92\nMasyarakat dapat berperan serta dalam penyelenggaraan\nfungsi Pemasyarakatan dengan cara:\na. mengajukan usul progranr Pemasyarakatan;\nb. membantu pelaksanaan program Pemasyarakatan;\nc. berpartisipasi dalam pembimbingan mantan\nNarapidana dan Anak Binaan; dan/atau\nd. melakukan penelitian mengenai Pemasyarakatan."
+   }
+  },
+  {
+   "id": "ID-H3066-A93",
+   "no": 93,
+   "noLabel": {
+    "id": "Pasal 93"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 93\nKetentuan lebih lanjut mengenai kerja sama dan peran\nserta masyarakat sebagaimana dimaksud dalam Pasal 89\nsampai dengan Pasal 92 diatur dengan Peraturan\nPemerintah.\nBAB X\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H3066-A94",
+   "no": 94,
+   "noLabel": {
+    "id": "Pasal 94"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 94\nSebelum peraturan pelaksanaan dari Undang-Undang ini\nmulai berlaku maka:\nPeraturan Pemerintah Nomor 31 Tahun 1999 tentang\nPembinaan dan Pembimbingan Warga Binaan\nPemasyarakatan (Lembaran Negara Republik\nIndonesia Tahun 1999 Nomor 68, Tambahan\nLembaran Negara Republik Indonesia Nomor 3842);\n1\nSK No 143419 A\n2. Peraturan\nPRES IDEN\nREPUBLIK TNDONESIA\n2. Peraturan Pemerintah Nomor 32 Tahun 1999 tentang\nSyarat dan Tata Cara Pelaksanaan Hak Warga Binaan\nPemasyarakatan (Lembaran Negara Republik\nIndonesia Tahun 1999 Nomor 69, Tambahan\nLembaran Negara Republik Indonesia Nomor 38a6);\n3. Peraturan Pemerintah Nomor 57 Tahun 1999 tentang\nKerjasama Penyelenggaraan Pembinaan dan\nPembimbingan Warga Binaan Pemasyarakatan\n(Lembaran Negara Republik Indonesia Tahun 1999\nNomor 16, 'l'ambahan Lembaran Negara Republik\nIndonesia Nomor 3857);\n4. Peraturan Pemerintah Nomor 58 Tahun 1999 tentang\nSyarat-Syarat dan Tata Cara Pelaksanaan Wewenang,\nTugas dan Tanggung Jawab Perawatan Tahanan\n(Lembaran Negara Republik Indonesia Tahun 1999\nNomor ll2, Tambahan Lenrharan Negara Republik\nIndonesia Nomor 3858),\ndinyatakan masih tetap berlaku."
+   }
+  },
+  {
+   "id": "ID-H3066-A95",
+   "no": 95,
+   "noLabel": {
+    "id": "Pasal 95"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 95\nPada saat Peraturan Presiden mengenai\nkementerian/lembaga sebagaimana dimaksud dalam\nPasal 5 ayat (2) Undang-Undang rni belum berlaku, fungsi\nPemasyarakatan tetap dilaksanakan berdasarkan\nPeraturan Presiden Nomor 44 Tahun 2Ol5 tentang\nKementerian Hukum dan Hak Asasi Manusia (Lembaran\nNegara Republik Indonesia Tahun 2015 Nomor 84).\nSK No 143420 A\nBABXI...\nPRESIDEN\nREPUBLIK INDONESIA\nBAB XI\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H3066-A96",
+   "no": 96,
+   "noLabel": {
+    "id": "Pasal 96"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 96\nPada saat Undang-Undang ini mulai berlaku, semua\nperaturan perundang-undangan yang merupakan\nperaturan pelaksanaan dari Undang-Undang Nomor 12\nTahun 1995 tentang Pemasyarakatan (Lembaran Negara\nRepublik Indonesia Tahun 1995 Nomor 77, Tambahan\nLembaran Negara Republik Indonesia Nomor 3614),\ndinyatakan masih tetap berlaku sepanjang tidak\nbertentangan dengan ketentuan Undang-Undang ini."
+   }
+  },
+  {
+   "id": "ID-H3066-A97",
+   "no": 97,
+   "noLabel": {
+    "id": "Pasal 97"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 97\nPada saat Undang-Undang ini mulai berlaku, Undang-\nUndang Nomor 12 Tahun 1995 tentang Pemasyarakatan\n(Lembaran Negara Republik Indonesia T'ahun 1995 Nomor\n77, Tambahan Lembaran Negara Republik Indonesia\nNomor 3614), dicabut dan dinyatakan tidak berlaku."
+   }
+  },
+  {
+   "id": "ID-H3066-A98",
+   "no": 98,
+   "noLabel": {
+    "id": "Pasal 98"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 98\nPeraturan pelaksanaan dari Undang-Undang ini harus\nditetapkan paling lama 1 (satu) tahun terhitung sejak\nUndang- Undang ini diundangkan."
+   }
+  },
+  {
+   "id": "ID-H3066-A99",
+   "no": 99,
+   "noLabel": {
+    "id": "Pasal 99"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 99\nUndang-Undang ini mulai berlaku pada tanggal\ncliundangkan.\nSK No 143421 A\nAgar\nPRESIDEN\nREPUBLIK INDONESIA\nAgar setiap orang mengetahuinya, memerintahkan\npengundangan Undang-Undang ini dengan\npenempatannya dalam Lembaran Negara Republik\nIndonesia.\nDisahkan di Jakarta\npada tanggal 3 Agustus 2022\nPRESIDEN REPUBLIK INDONESIA,\nttd\nJOKO WIDODO\nDiundangkan di Jakarta\npada tanggal 3 Agustus 2022\nMENTERI SEKRETARIS NEGARA\nREPUBLIK INDONESIA\nAD INTERIM,\nPRAMONO ANUNG\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2022 NOMOR 165\nSalinan sesuai dengan aslinya\nKEMENTERIAN SEKRETARIAT NEGARA\nREPUBLIK INDONESIA\nDeputi Bidang Perundang-undangan\nAdministrasi Hukum,\ntrd\nrj' ;\n\\*\nlliD\nSK No 143479 A\nta anna Djaman\nPRESlDEN\nREPUELIK INDONESIA\nPENJELASAN\nATAS\nUNDANG-UNDANG REPUBLIK INDONESIA\nNOMOR 22 TAHUN 2022\nTENTANG\nPEMASYARAKATAN\nI. UMUM\nPemasyarakatan merupakan bagian dari sistem peradilan pidana terpadu\nyang menyelenggarakan penegakan hukum di bidang perlakuan terhadap\nTahanan, Anak, dan Warga Binaan dalam tahap praadjudikasi, adjudikasi,\ndan pascaadjudikasi. Penyelenggaraan Pemasyarakatan sebagai bagian dari\nsistem peradilan pidana terpadu berdasar pada sebuah sistem yang disebut\nsebagai Sistem Pemasyarakatan yang merupakan suatu tatanan mengenai\narah dan batas serta metode pelaksanaan fungsi Pemasyarakatan secara\nterpadu antara petugas, Tahanan, Anak, Warga Binaan, dan masyarakat.\nSistem Pemasyarakatan diselenggarakan dalam rangka memberikan jaminan\npelindungan terhadap hak Tahanan dan Anak serta meningkatkan kualitas\nkepribadian dan kemandirian Warga Binaan agar menyadari kesalahan,\nmemperbaiki diri, dan tidak mengulangi tindak pidana, sehingga dapat\nditerima kembali oleh lingkungan masyarakat, dapat hidup secara wajar\nsebagai warga yang baik, taat hukum, bertanggung jawab, dan dapat aktif\nberperan dalam pembangunan serta sekaligus memberikan pelindungan\nkepada masyarakat dari pengulangan tindak pidana.\nSistem Pemasyarakatan sebagai sebuah sistem perlakuan terhadap\nTahanan, Anak, dan Warga Binaan dilaksanakan melalui fungsi\nPemasyarakatan yang meliputi Pelayanan, Pembinaan, Pembimbingan\nKemasyarakatan, Perawatan, Pengamanan, dan Pengamatan dengan\nmenjunjung tinggi penghormatan, pelindungan, dan pemenuhan hak asasi\nmanusia. Hal ini sesuai dengan Konvensi Menentang Penyiksaan dan\nPerlakuan atau Penghukuman Lain yang Kejam, Tidak Manusiawi, atau\nMerendahkan Martabat Manusia sebagaimana telah diratifikasi dengan\nUndang-Undang Nomor 5 Tahun 1998 tentang Pengesahan Conuention\nAgainst Torture and Other Cruel, Inhuman, or Degrading Treatment or\nhtnishment (Konvensi Menentang Penyiksaan dan Perlakuan atau\nPenghukuman Lain yang Kejam, Tidak Manusiawi, atau Merendahkan\nMartabat Manusia).\nDengan . . .\nSK No 143423 A\nPRESIDEN\nREPUBLIK INDONESIA\nDengan demikian Pemasyarakatan tidak lagi hanya pada tahap akhir dari\nbekerjanya sistem peradilan pidana namun sudah bekerja sejak dimulainya\nproses peradilan pidana. Undang-Undang ini dibentuk untuk memperkuat\nSistem Pemasyarakatan di Indonesia yang dengan Undang-Undang Nomor\n12 Tahun 1995 tentang Pemasyarakatan telah menganut konsep reintegrasi\nsosial sebagai pengganti konsep pembalasan dan penjeraan. Undang-\nUndang ini disamping memperkuat konsep reintegrasi sosial juga\nmemperkuat konsep keadilan restoratif yang dianut dalam Sistem Peradilan\nPidana Anak dan pembaruan hukum pidana nasional Indonesia.\nUndang-Undang ini merupakan penyempurnaan terhadap materi muatan\ndalam Undang-Undang Nomor 12 Tahun 1995 tentang Pemasyarakatan,\nantara lain:\na. pemasyarakatan adalah tahap akhir dari sistem peradilan pidana yang\nmelaksanakan kegiatan pembinaan kepada warga binaan\npemasyarakatan;\nb. lingkup pelaksanaan tugas pemasyarakatan hanya mencakup\npelaksanaan pembinaan dan pembimbingan bagi warga binaan\npemasyarakatan;\nc. belum ada pengaturan mengenai pelayanan tahanan;\nd. ketentuan mengenai pemberian pembinaan, pembimbingan bagi warga\nbinaan pemasyarakatan masih sangat umum dan belum terdapat\nmekanisme pemberian program yang lebih terarah;\ne. ketentuan mengenai pelaksanaan pelayanan dan pembinaan bagi anak\nmasih belum disesuaikan dengan perubahan regulasi tentang sistem\nperadilan pidana anak;\nf. pengaturan mengenai pelaksanaan pengamanan di lembaga\npemasyarakatan dan perawatan kesehatan bagi narapidana belum diatur\nsecara jelas;\ng. kerja sama yang dilakukan instansi pemerintah terkait, badan-badan\nkemasyarakatan lainnya atau perorangan dilaksanakan hanya terkait\ndengan pelaksanaan pembinaan saja;\nh. pelindungan bagi pettrgas pemasyarakatan dalam melaksanakan tugas\ndan tanggung jawab belum diatur; dan\ni. pengaturan mengenai sarana dan prasarana hanya terkait dengan\npenyediaan pakaian dan rumah dinas dan belum ada penggunaan dan\npengembangan teknologi informasi sebagai sarana penunjang bagi\npelaksanaan tugas pemasyarakatan.\nSK No 143424 A\nSebagai\nPRES tDEN\nREPUBLIK INDONESIA\nSebagai penyempurnaan terhadap Undang-Undang sebelumnya, materi\nmuatan baru yang ditambahkan dalam Undang-Undang ini, antara lain:\na. penguatan posisi Pemasyarakatan dalam sistem peradilan pidana\nterpadu yang menyelenggarakan penegakan hukum di bidang perlakuan\nterhadap Tahanan, Anak, dan Warga Binaan;\nb. perluasan cakupan dari tujuan Sistem Pemasyarakatan tidak hanya\nmeningkatkan kualitas Narapidana dan Anak Binaan namun juga\nmemberikan jaminan pelindungan terhadap hak Tahanan dan Anak;\nc. pembaruan asas dalam pelaksanaan Sistem Pemasyarakatan didasarkan\npada asas pengayoman, nondiskriminasi, kemanusiaan, gotong royong,\nkemandirian, proporsionalitas, kehilangan kemerdekaan sebagai satu-\nsatunya penderitaan, serta profesionalitas;\nd. pengaturan tentang fungsi Pemasyarakatan yang mencakup tentang\nPelayanan, Pembinaan, Pembimbingan Kemasyarakatan, Perawatan,\nPengamanan, dan Pengamatan;\ne. penegasan pengaturan mengenai hak dan kewajiban bagi Tahanan,\nAnak, dan Warga Binaan;\nf. pengaturan mengenai penyelenggaraan dan pemberian program\nPelayanan, Pembinaan, Pembimbingan Kemasyarakatan, serta\npelaksanaan Perawatan, Pengamanan, dan Pengamatan;\ng. pengaturan tentang dukungan kegiatan intelijen dalam penyelenggaraan\nfungsi Pengamanan dan Pengamatan;\nh. pengaturan mengenai kode etik dan kode perilaku Petugas\nPemasyarakatan serta jaminan pelindungan hak Petugas\nPemasyarakatan untuk mendapatkan pelindungan keamanan dan\nbantuan hukum dalam melaksanakan tugas dan fungsinya;\ni. pengaturan mengenai kewajiban menyediakan sarana dan prasarana\ndalam penyelenggaraan Sistem Pemasyarakatan termasuk sistem\nteknologi informasi Pemasyarakatan;\nj. pengaturan tentang pengawasan terhadap penyelenggaraan fungsi\nPemasyarakatan; dan\nk. pengaturan mengenai kerja sama dan peran serta masyarakat yang\ndilakukan dalam rangka penyelenggaraan Sistem Pemasyarakatan.\nII. PASAL DEMI PASAL\nPasal 1\nCukup jelas\nSK No 143425 A\nPasal2...\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 2\nCukup jelas.\nPasal 3\nHuruf a\nYang dimaksud dengan \"asas pengayoman\" adalah melindungi\nmasyarakat dari kemungkinan diulanginya tindak pidana oleh\nTahanan, Anak, dan Warga Binaan, juga memberikan bekal hidup\nkepada Tahanan, Anak, dan Warga Binaan agar menjadi warga yang\nberguna di dalam masyarakat sebagai wujud pelindungan untuk\nmenciptakan keamanan dan ketertiban masyarakat.\nHuruf b\nYang dimaksud dengan \"asas nondiskriminasi\" adalah pelaksanaan\nSistem Pemasyarakatan yang tidak membedakan perlakuan atas\ndasar suku, ras, agama, etnik, kelompok, golongan, politik, status\nsosial dan ekonomi, dan jenis kelamin.\nHuruf c\nYang dimaksud dengan \"asas kemanusiaan\" adalah pelaksanaan\nSistem Pemasyarakatan yang didasarkan pada pelindungan dan\npenghormatan hak asasi serta harkat dan martabat Tahanan, Anak,\ndan Warga Binaan.\nHuruf d\nYang dimaksud dengan \"asas gotong royong\" adalah Sistem\nPemasyarakatan dilaksanakan secara bersama-sama antara\nTahanan, Anak, dan Warga Binaan dengan Petugas Pemasyarakatan,\naparatur penegak hukum, aparatur pemerintahan, dan masyarakat\nuntuk mencapai tujuan penyelenggaraan Sistem Pemasyarakatan.\nHuruf e\nYang dimaksud dengan \"asas kemandirian\" adalah pelaksanaan\nSistem Pemasyarakatan yang bertujuan untuk mengembangkan\npotensi diri berdasarkan atau dengan memperhatikan kemampuan\ndari Tahanan, Anak, dan [rarga Binaan agar dapat mengembangkan\nkualitas diri.\nHuruf f\nYang dimaksud dengan \"asas proporsionalitas\" adalah keseimbangan\nperlakuan yang disesuaikan dengan kebutuhan serta hak dan\nkewajiban.\nSK No 143426 A\nHuruf g\nPRESIDEN\nREPUBLIK INDONESIA\nHuruf g\nYang dimaksud dengan \"asas kehilangan kemerdekaan sebagai satu-\nsatunya penderitaan\" adalah bahwa negara tidak boleh membuat\nkondisi orang yang dilayani atau dibina menjadi lebih buruk daripada\nsebelum mereka dirampas kemerdekaannya. Dalam kondisi hilang\nkemerdekaan tersebut diisi dengan upaya yang ditujukan untuk\nmemperbaiki dan meningkatkan kualitas mereka selaku anggota\nmasyarakat.\nHuruf h\nYang dimaksud dengan \"asas profesionalitas\" adalah Sistem\nPemasyarakatan dilaksanakan berdasarkan tata kelola yang\ntransparan dan akuntabel.\nPasal 4\nCukup jelas.\nPasal 5\nCukup jelas.\nPasal 6\nAyat (1)\nPasal 7\nHuruf a\nCukup jelas\nHuruf b\nCukup jelas\nYang dimaksud dengan \"tempat lain yang ditentukan\" antara lain,\ntempat pelatihan kerja, tempat melaksanakan asimilasi, dan tempat\nmelaksanakan pidana kerja sosial.\nAyat (21\nYang dimaksud dengan \"area dengan fungsi khusus\" adalah area\ndengan kekhususan tertentu, misalnya, pembatasan komunikasi,\nspesifikasi pengamanan dan pengamatan, serta spesifikasi sarana\ndan prasarana.\nSK No 143421 A\nHuruf c\nPRES IDEN\nREPUBLIK INDONESIA\nHuruf c\nYang dimaksud dengan \"kegiatan rekreasional\" adalah kegiatan\nlatihan fisik bebas sehari-hari di udara terbuka dan Tahanan\nmemiliki waktu tambahan untuk kegiatan hiburan harian, kesenian,\natau mengembangkan keterampilan.\nYang dimaksud dengan \"kesempatan mengembangkan potensi\"\nantara lain, membawa alat untuk melukis, menulis, atau melakukan\nkegiatan lain sesuai minat dan bakatnya.\nHuruf d\nYang dimaksud dengan \"pelayanan makanan yang layak sesuai\ndengan kebutuhan giz7\" adalah pemenuhan angka kecukupan grzi,\npenetapan standar bahan makanan, dan penetapan menu makanan.\nHuruf e\nCukup jelas.\nHuruf f\nCukup jelas.\nHuruf g\nCukup jelas.\nHuruf h\nYang dimaksud dengan \"bahan bacaan\" dan \"siaran media massa\"\nantara lain, bahan bacaan dan media yang tidak mengandung unsur\npornografi, radikal terorisme, provokatif, atau kekerasan.\nHuruf i\nCukup jelas.\nHuruf j\nYang dimaksud dengan \"pelayanan sosial\" antara lain, memperoleh\nbantuan dan jaminan sosial berupa fasilitas Badan Penyelenggara\nJaminan Sosial dan Surat Keterangan Tidak Mampu'\nHuruf k\nCukup jelas.\nPasal 8\nCukup jelas.\nSK No l4342tl A\nPasal 9\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 9\nHuruf a\nCukup jelas.\nHuruf b\nCukup jelas.\nHuruf c\nYang dimaksud dengan \"kegiatan rekreasional\" adalah kegiatan\nlatihan fisik bebas sehari-hari di udara terbuka dan Narapidana\nmemiliki waktu tambahan untuk kegiatan hiburan harian, kesenian,\natau mengembangkan keterampilan.\nYang dimaksud dengan \"kesempatan mengembangkan potensi\"\nantara lain, membawa alat untuk melukis, menulis, atau melakukan\nkegiatan lain sesuai minat dan bakatnya.\nHuruf d\nYang dimaksud dengan \"pelayanan makanan yang layak sesuai\ndengan kebutuhan gizt\" adalah pemenuhan angka kecukupan gizi,\npenetapan standar bahan makanan, dan penetapan menu makanan.\nHuruf e\nCukup jelas.\nHuruf f\nCukup jelas.\nHuruf g\nCukup jelas.\nHuruf h\nYang dimaksud dengan \"bahan bacaan\" dan \"siaran media massa\"\nantara lain, bahan bacaan dan media yang tidak mengandung unsur\npornografi, radikal terorisme, provokatif, atau kekerasan.\nHuruf i\nCukup jelas.\nHuruf j\nYang dimaksud dengan \"upah\" adalah imbalan dalam bentuk uang\ndan sebagainya untuk Narapidana yang melakukan pekerjaan\nproduktif yang menghasilkan barang dan/atau jasa.\nSK No 143421) A\nYang. . .\nPRESIDEN\nREPUBLIK INDONESIA\nYang dimaksud dengan \"premi\" adalah hadiah dalam bentuk uang\natau barang untuk Narapidana yang melakukan kegiatan pelatihan\nkerja/keterampilan atau pekerjaan yang bersifat pemeliharaarl,\nmisalnya bekerja di dapur atau membersihkan lingkungan.\nHuruf k\nYang dimaksud dengan \"pelayanan sosial\" antara lain, memperoleh\nbantuan dan jaminan sosial berupa fasilitas Badan Penyelenggara\nJaminan Sosial dan Surat Keterangan Tidak Mampu.\nHuruf I\nCukup jelas.\nPasal 10\nAyat (1)\nYang dimaksud dengan \"tanpa terkecuali\" adalah berlaku sama bagi\nNarapidana untuk mendapatkan haknya dan tidak mendasarkan\npada tindak pidana yang telah dilakukan, kecuali dicabut\nberdasarkan putusan pengadilan.\nHuruf a\nYang dimaksud dengan \"remisi\" adalah pengurangan masa\nmenjalani pidana yang diberikan kepada Narapidana yang\nmemenuhi syarat sesuai dengan ketentuan peraturan perundang-\nundangan.\nHuruf b\nYang dimaksud dengan \"asimilasi\" adalah program reintegrasi\nNarapidana yang dilaksanakan dengan membaurkan Narapidana\ndalam kehidupan masyarakat.\nHuruf c\nYang dimaksud dengan \"cuti mengunjungi atau dikunjungi\nkeluarga\" adalah program Pembinaan untuk memberikan\nkesempatan kepada Narapidana untuk berasimilasi dengan\nkeluarga dalam fungsinya sebagai orang tua, suami/istri, atau\nanak.\nHuruf d\nYang dimaksud dengan \"cuti bersyarat\" adalah proses Pembinaan\nNarapidana yang dijatuhi pidana singkat di luar Lapas.\nSK No 143430A\nHuruf e .\nPRESIDEN\nREPUBLIK INDONESIA\nHuruf e\nYang dimaksud dengan \"cuti menjelang bebas\" adalah proses\nPembinaan Narapidana yang memiliki sisa masa pidana pendek\nuntuk berintegrasi dengan keluarga dan masyarakat di luar\nLapas.\nHuruf f\nYang dimaksud dengan \"pembebasan bersyarat\" adalah proses\nPembinaan Narapidana di luar Lapas untuk mengintegrasikan\ndengan keluarga dan masyarakat.\nHuruf g\nYang dimaksud dengan \"hak lain\" adalah menjadi wali\npernikahan dan/atau menghadiri pernikahan anak yang sah\nmenurut hukum, pembagian warisan, menengok keluarga yang\nsakit keras atau meninggal dunia.\nAyat (2)\nCukup jelas.\nAyat (3)\nCukup jelas.\nAyat (a)\nPemberian hak sebagaimana dimaksud pada ayat ini hanya dapat\ndiberikan apabila pidana seumur hidup at.au pidana mati diubah\nmenjadi pidana penjara untuk waktu tertentu.\nPasal 1 1\nAyat (1)\nCukup jelas.\nAyat (2)\nDalam ketentuan ini, kewajiban bekerja bagi Narapidana dapat\ndisesuaikan dengan minat dan bakat Narapidana.\nPasal 12\nHuruf a\nCukup jelas.\nHuruf b\nCukup jelas.\nHuruf c .\nSK No 143431 A\nPRESIDEN\nREPUBLIK INDONESIA\nHuruf c\nYang dimaksud dengan \"kegiatan rekreasional\" adalah kegiatan\nlatihan lisik bebas sehari-hari di udara terbuka serta Anak dan Anak\nBinaan memiliki waktu tambahan untuk kegiatan hiburan harian,\nkesenian, atau mengembangkan keterampilan.\nYang dimaksud dengan \"kesempatan mengembangkan potensi\"\nantara lain, membawa alat untuk melukis, menulis, atau melakukan\nkegiatan lain sesuai minat dan bakatnya.\nHuruf d\nYang dimaksud dengan \"pelayanan makanan yang layak sesuai\ndengan kebutuhan gizi\" adalah pemenuhan angka kecukupan gizi,\npenetapan standar bahan makanan, dan penetapan menu makanan.\nHuruf e\nCukup jelas.\nHuruf f\nCukup jelas.\nHuruf g\nCukup jelas.\nHuruf h\nYang dimaksud dengan \"bahan bacaan\" dan \"siaran media massa\"\nantara lain, bahan bacaan dan media yang tidak mengandung unsur\npornografi, radikal terorisme, provokatif, atau kekerasan.\nHuruf i\nCukup jelas.\nHuruf j\nYang dimaksud dengan \"pelayanan sosial\" antara lain, memperoleh\nbantuan dan jaminan sosial berupa fasilitas Badan Penyelenggara\nJaminan Sosial dan Surat Keterangan Tidak Mampu.\nHuruf k\nCukup jelas.\nSK No 143432 A\nPasal 13. . .\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 13\nAyat (1)\nYang dimaksud dengan \"tanpa terkecuali\" adalah berlaku sama bagi\nAnak Binaan untuk mendapatkan haknya dan tidak mendasarkan\npada tindak pidana yang telah dilakukan.\nHuruf a\nYang dimaksud dengan \"pengurangan masa pidana\" adalah\npengurangan masa menjalani pidana yang diberikan kepada Anak\nBinaan yang memenuhi syarat sesuai dengan ketentuan\nperaturan perundang-undangan.\nHuruf b\nYang dimaksud dengan \"asimilasi\" adalah program reintegrasi\nAnak Binaan yang dilaksanakan dengan membaurkan Anak\nBinaan dalam kehidupan masyarakat.\nHuruf c\nYang dimaksud dengan \"cuti mengunjungi atau dikunjungi\nkeluarga\" adalah program Pembinaan untuk memberikan\nkesempatan kepada Anak Binaan untuk berasimilasi dengan\nkeluarga.\nHuruf d\nYang dimaksud dengan \"cuti bersyarat\" adalah proses Pembinaan\nAnak Binaan yang dijatuhi pidana singkat di luar LPKA.\nHuruf e\nYang dimaksud dengan \"cuti menjelang bebas\" adalah proses\nPembinaan Anak Binaan yang memiliki sisa masa pidana pendek\nuntuk berintegrasi dengan keluarga dan masyarakat di luar\nLPKA.\nHuruf f\nYang dimaksud dengan \"pembebasan bersyarat\" adalah proses\nPembinaan Anak Binaan di luar LPKA untuk mengintegrasikan\ndengan keluarga dan masyarakat.\nHuruf g\nYang dimaksud dengan \"hak lain\" antara lain, menjadi wali\npernikahan dan/atau menghadiri pernikahan saudara kandung,\npembagian warisan, sakit keras, atau meninggalnya ayah, ibu,\natau saudara kandung.\nSK No 143433 A\nAyat (2)\nPRESIDEN\nREPUBLIK INDONESIA\n-t2-\nAyat (2)\nCukup jelas.\nAyat (3)\nCukup jelas.\nPasal 14\nCukup jelas.\nPasal 15\nHuruf a\nYang dimaksud dengan \"bimbingan lanjutan\" adalah kegiatan untuk\nmembantu mantan Narapidana dan Anak Binaan yang memerlukan\npendampingan untuk berintegrasi dalam kehidupan masyarakat.\nHuruf b\nCukup jelas.\nHuruf c\nYang dimaksud dengan \"alasan penting\" adalah untuk kegiatan\nibadah atau pengobatan.\nHuruf d\nCukup jelas.\nHuruf e\nCukup jelas.\nPasal 16\nCukup jelas.\nPasal 17\nCukup jelas.\nPasal 18\nCukup jelas.\nPasal 19\nAyat (1)\nCukup jelas.\nSK No 143434 A\nAyat (2) .\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (21\nPembentukan Rutan dalam ketentuan ini dilakukan sesuai dengan\nkebutuhan dan kemampuan keuangan negara.\nPasal 20\nAyat (1)\nCukup jelas.\nAyat (2)\nKondisi kesehatan Tahanan dibuktikan dengan surat medis dari\ndokter pemerintah yang menyatakan Tahanan dalam kondisi sehat.\nAyat (3)\nCukup jelas.\nAyat (a)\nYang dimaksud dengan \"alasan lain sesuai dengan asesmen risiko\ndan kebutuhan\" antara lain, kebutuhan Pelayanan Tahanan, risiko\nmelarikan diri, risiko berbahaya terhadap orang lain dan kesehatan\nmental, fisik, dan psikologis Tahanan.\nAyat (5)\nCukup jelas.\nAyat (6)\nCukup jelas.\nAyat (7)\nCukup jelas.\nPasal 21\nHuruf a\nYang dimaksud dengan \"proses peradilan telah selesai\" adalah\nberalihnya status Tahanan menjadi Narapidana atau karena Tahanan\ndiputus bebas atau lepas dari tuntutan hukum.\nHuruf b\nCukup jelas.\nSK No 143435 A\nPasal 22 .\nPRES IDEN\nREPUBLIK INDONESIA\nPasal 22\nAyat (1)\nHuruf a\nYang dimaksud dengan \"permintaan instansi yang menahan\"\nantara lain, perawatan kesehatan, rekonstruksi perkara,\nmenghadiri persidangan, menjadi wali pernikahan dan/atau\nmenghadiri pernikahan anak yang sah menurut hukum,\npembagian warisan, dan pelaksanaan Pelayanan.\nHuruf b\nYang dimaksud dengan \"kondisi darurat\" antara lain, sakit keras,\nmelahirkan, kebakaran, kerusuhan, huru-hara, bencana alam,\ndan kondisi darurat lainnya yang ditentukan berdasarkan\npenilaian kepala Rutan.\nAyat (2)\nCukup jelas.\nPasal 23\nCukup jelas.\nPasal24\nHuruf a\nYang dimaksud dengan \"layanan kepribadian\" antara lain, fasilitasi\nbantuan hukum, konseling, dan kesadaran berbangsa dan bernegara.\nHuruf b\nYang dimaksud dengan \"layanan kemandirian\" antara lain, pelatihan\nkerja dan keterampilan.\nPasal 25\nCukup jelas.\nPasal 26\nDalam ketentuan ini mengeluarkan demi hukum dilakukan segera\nsetelah masa penahanan berakhir dan sebelum berganti hari.\nPasal 27\nCukup jelas.\nPasal28...\nSK No 143436 A\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 28\nAyat (1)\nCukup jelas.\nAyat (2)\nPembentukan LPAS dalam ketentuan ini dilakukan sesuai dengan\nkebutuhan dan kemampuan keuangan negara.\nPasal 29\nAyat (1)\nCukup jelas.\nAyat (2)\nKondisi kesehatan Anak dibuktikan dengan surat medis dari dokter\npemerintah yang menyatakan Anak dalam kondisi sehat.\nAyat (3)\nCukup jelas.\nAyat (a)\nYang dimaksud dengan \"alasan lain sesuai dengan asesmen risiko\ndan kebutuhan\" antara lain, kebutuhan Pelayanan Anak, risiko\nmelarikan diri, risiko berbahaya terhadap orang lain dan kesehatan\nmental, fisik, dan psikologis Anak.\nAyat (5)\nCukup jelas.\nAyat (6)\nCukup jelas.\nAyat (7)\nCukup jelas.\nAyat (8)\nCukup jelas.\nPasal 30\nAyat (1)\nHuruf a\nYang dimaksud dengan \"permintaan instansi yang menahan\"\nantara lain, perawatan kesehatan, rekonstruksi perkara,\nmenghadiri persidangan, pembagian warisan, dan pelaksanaan\nPelayanan.\nHuruf b. . .\nSK No 143437 A\nPRES IDEN\nREPUBLIK INDONESIA\nHuruf b\nYang dimaksud dengan \"kondisi darurat\" antara lain, sakit keras,\nmelahirkan, kebakaran, kerusuhan, huru-hara, bencana alam,\ndan kondisi darurat lainnya yang ditentukan berdasarkan\npenilaian kepala LPAS.\nAyat (2)\nCukup jelas.\nPasal 31\nAyat (1)\nYang dimaksud dengan \"pendidikan\" adalah pendidikan formal,\nnonformal, danf atau informal.\nAyat (2)\nPada saat Anak melakukan tindak pidana dan masih bersekolah,\nselama menjalani proses peradilan, Anak tetap melanjutkan\npendidikan sekolahnya. Pada saat Anak menjalani masa penahanan\ndi LPAS dan mendapatkan putusan pengadilan atas tindak pidana\nyang dilakukan, Anak tetap melanjutkan pendidikan sekolahnya,\nbaik di dalam LPAS maupun di luar LPAS.\nPasal 32\nCukup jelas.\nPasal 33\nDalam ketentuan ini mengeluarkan demi hukum dilakukan segera\nsetelah masa penahanan berakhir dan sebelunr berganti hari.\nPasal 34\nCukup jelas.\nPasal 35\nAyat (1)\nCukup jelas.\nAyat (2)\nPembentukan Lapas dalam ketentuan ini dilakukan sesuai dengan\nkebutuhan dan kemampuan keuangan negara.\nPasal 36\nAyat (1)\nCukup jelas.\nAyat(2)...\nSK No l4343ti A\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (2)\nKondisi kesehatan Narapidana dibuktikan dengan surat medis dari\ndokter pemerintah yang menyatakan Narapidana dalam kondisi\nsehat.\nAyat (3)\nCukup jelas.\nAyat (a)\nYang dimaksud dengan \"alasan lain sesuai dengan asesmen risiko\ndan kebutuhan\" antara lain, kebutuhan Pembinaan Narapidana,\nrisiko melarikan diri, risiko berbahaya terhadap orang lain dan\nkesehatan mental, I-rsik, dan psikologis Narapidana.\nAyat (5)\nCukup jelas.\nAyat (6)\nCukup jelas.\nAyat (71\nHuruf a\nCukup jelas.\nHuruf b\nDalam ketentuan ini, masih ada perkara lain termasuk menjadi\nsaksi atau terdakwa dalam proses penuntutan dan pemeriksaan\ndi sidang pengadilan.\nHuruf c\nYang termasuk dalam \"pelaksanaan Pembinaan\" antara lain,\nasimilasi, cuti mengunjungi keluarga, rzin keluar dalam rangka\nPembinaan.\nHuruf d\nYang dimaksud dengan \"alasan penting lainnya\" antara lain,\nmenjadi wali pernikahan dan/atau menghadiri pernikahan anak\nyang sah menurut hukum, pembagian warisan, menengok\nkeluarga yang sakit keras atau meninggal dunia.\nHuruf e\nYang dimaksud dengan \"kondisi darurat\" antara lain, sakit keras,\nmelahirkan, kebakaran, kerusuhan, huru-hara, bencana alam,\ndan kondisi darurat lainnya yang ditentukan berdasarkan\npenilaian kepala Lapas.\nSK No 143439 A\nAyat (8)\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (8)\nCukup jelas\nPasal 37\nCukup jelas.\nPasal 38\nHuruf a\nBentuk \"pembinaan kepribadian\" antara lain, kesadaran beragama,\nberakhlak dan bermoral, kesadaran berbangsa dan bernegara, bela\nnegara, peningkatan kemampuan intelektual, kesadaran hukum,\nmengintegrasikan diri dengan masyarakat, dan deradikalisasi.\nHuruf b\nBentuk \"pembinaan kemandirian\" antara lain, pelatihan keterampilan\nuntuk mendukung usaha mandiri dan industri, pelatihan kerja, dan\npengembangan minat dan bakat.\nPasal 39\nAyat (1)\nDalam ketentuan ini peningkatan kegiatan pembinaan kemandirian\nyang semula ditujukan untuk mendukung usaha mandiri dan\nindustri, pelatihan kerja, dan pengembangan minat dan bakat,\nmenjadi pekerjaan produktif berskala industri yang diharapkan dapat\nmenghasilkan produk barang dan jasa yang memiliki rrilai ekonomi\ndan Narapidana dapat memperoleh upah atau premi dari pekerjaan\nyang dilakukan.\nAyat (2)\nYang dimaksud dengan \"hasil pernbinaan\" adalah barang dan jasa\nyang memiliki nilai ekonomi atau keuntungan hasil kerja sama\ndengan pihak ketiga.\nPasal 40\nDalam ketentuan ini, Wali Pemasyarakatan dapat membantu kepala\nLapas dalam menjalankan Pembinaan bagi Narapidana yang dipidana\ndengan masa pidana paling singkat 12 (dua belas) bulan. Akan tetapi,\npada kondisi tertentu, Wali Pemasyarakatan juga dapat membantu\nkepala Lapas dalam menjalankan Pembinaan bagi Narapidana yang\nmenjalani masa pidana di bawah 12 (dua belas) bulan berdasarkan hasil\nasesmen.\nSK No 143440 A\nPasal 41\nPRESIDEN\nREPUBLIK TNDONESIA\nPasal 41\nCukup jelas.\nPasal 42\nYang dimaksud dengan \"pidana tutupan\" adalah pidana yang diberikan\nkepada seseorang yang melakukan tindak pidana karena terdorong oleh\nmaksud yang patut dihormati.\nPasal 43\nAyat (1)\nCukup jelas.\nAyat (2)\nCukup jelas.\nAyat (3)\nYang dimaksud dengan \"dalam keadaan tertentu\", misalnya, kondisi\nkeamanan Lapas.\nAyat (a)\nCukup jelas.\nAyat (5)\nYang dimaksud dengan \"Undang-Undang\" misalnya, Undang-Undang\ndi bidang pemberantasan tindak pidana terorisme.\nAyat (6)\nYang dimaksud dengan \"di luar wilayah\" adalah di luar\nkabupaten I kota atau provinsi.\nPasal 44\nCukup jelas.\nPasal 45\nCukup jelas.\nPasal 46\nYang dimaksud dengan \"telah selesai menjalani masa pidananya\" adalah\nberakhirnya masa pidana dengan melakukan pembebasan Narapidana\nsegera setelah masa pidana berakhir dan sebelum berganti hari.\nSK No 143441 A\nPasal 47\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 47\nAyat (1)\nCukup jelas.\nAyat (2)\nPembentukan LPKA dalam ketentuan ini dilakukan sesuai dengan\nkebutuhan dan kemampuan keuangan negara.\nPasal 48\nAyat (1)\nCukup jelas.\nAyat (2)\nKondisi kesehatan Anak Binaan dibuktikan dengan surat medis dari\ndokter pemerintah yang menyatakan Anak Binaan dalam kondisi\nsehat.\nAyat (3)\nCukup jelas.\nAyat (a)\nYang dimaksud dengan \"alasan lain, sesuai dengan asesmen risiko\ndan kebutuhan\" antara lain, kebutul'ran Pembinaan Anak Binaan,\nrisiko melarikan diri, risiko berbahaya terhadap orang lain dan\nkesehatan mental, fisik, dan psikologis Anak Binaan.\nAyat (5)\nCukup jelas.\nAyat (6)\nCukup jelas.\nAyat (7)\nHuruf a\nCukup jelas.\nHuruf b\nDalam ketentuan ini, masih ada perkara lain termasuk menjadi\nsaksi atau terdakwa dalam proses penuntutan dan pemeriksaan\ndi sidang pengadilan.\nSK No 143442 A\nHuruf c\nPRESIDEN\nREPUBLIK INDONESIA\n-2t-\nHuruf c\nYang termasuk dalam \"pelaksanaan Pembinaan\" antara lain,\nasimilasi, cuti mengunjungi keluarga, izin keluar dalam rangka\nPembinaan.\nHuruf d\nYang dimaksud dengan \"alasan penting lainnya\" antara lain,\nmenjadi wali pernikahan dan/atau menghadiri pernikahan\nsaudara kandung, pembagian warisan, menengok keluarga yang\nsakit keras atau meninggal dunia.\nHuruf e\nYang dimaksud dengan \"kondisi darurat\" antara lain, sakit keras,\nmelahirkan, kebakaran, kerusuhan, huru-hara, bencana alam,\ndan kondisi darurat lainnya yang ditentukan berdasarkan\npenilaian kepala LPKA.\nAyat (8)\nCukup jelas.\nPasal 49\nCukup jelas.\nPasal 50\nAyat (1)\nCukup jelas.\nAyat (2)\nCukup jelas.\nAyat (3)\nKegiatan yang bertujuan pada pembinaan mental dan spiritual,\nantara lain, kegiatan jasmani dan kerohanian, kesadaran hukum,\nkesadaran berbangsa dan bernegara, dan kegiatan lainnya.\nAyat (a)\nKegiatan yang bertujuan pada pemberian pelatihan keterampilan,\nantara lain, kegiatan pertanian, peternakan, pertukangan, kesenian\ndan teknologi informasi, dan kegiatan lainnya.\nAyat (5)\nCukup jelas.\nPasal51...\nSK No 143443 A\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 51\nDalam ketentuan ini, Wali Pemasyarakatan dapat membantu kepala\nLPKA dalam menjalankan Pembinaan bagi Anak Binaan yang dipidana\ndengan masa pidana paling singkat 12 (dua belas) bulan. Akan tetapi,\npada kondisi tertentu, Wali Pemasyarakatan juga dapat membantu\nkepala LPKA dalam menjalankan Pembinaan bagi Anak Binaan yang\nmenjalani masa pidana di bawah 12 (dua belas) bulan berdasarkan hasil\nasesmen.\nPasal 52\nCukup jelas.\nPasal 53\nYang dimaksud dengan \"telah selesai menjalani masa pidananya\" adalah\nberakhirnya masa pidana dengan melakukan pembebasan Anak Binaan\nsegera setelah masa pidana berakhir dan sebelum berganti hari.\nPasal 54\nAyat (1)\nYang dimaksud dengan \"risiko tinggi\" adalah Tahanan atau\nNarapidana yang menurut hasil asesmen memiliki potensi untuk\nantara lain:\na. melarikan diri;\nb. berbahaya terhadap orang lain;\nc. memerlukan upaya pengendalian khusus agar mereka taat pada\naturan dalam lembaga; dan\nd. melakukan intimidasi, mempengaruhi, atau mengendalikan orang\nlain untuk melakukan tindak pidana.\nAyat (2)\nYang dimaksud \"instansi terkait\", misalnya, badan yang menangani\npenanggulangan tindak pidana terorisme dan badan yang menangani\npenanggulangan tindak pidana narkotika.\nAyat (3)\nDalam ketentuan ini, Pelayanan atau Pembinaan khusus terhadap\nTahanan atau Narapidana kelompok risiko tinggi dilaksanakan\ndengan memperhatikan aspek kemanusiaan dan kesehatan.\nAyat (4)\nCukup jelas.\nSK No 143444 A\nPasal 55\nPRESIDEN\nREPUBLIK INDONESTA\nPasal 55\nAyat (1)\nCukup jelas.\nAyat (21\nPembentukan Bapas dalam ketentuan ini dilakukan sesuai dengan\nkebutuhan dan kemampuan keuangan negara.\nPasal 56\nAyat (1)\nCukup jelas.\nAyat (2)\nCukup jelas.\nAyat (3)\nYang dimaksud dengan \"bimbingan lanjutan\" adalah kegiatan untuk\nmembantu mantan Narapidana dan Anak Binaan yang memerlukan\npendampingan untuk berintegrasi dalam kehidupan masyarakat.\nAyat (4)\nCukup jelas.\nAyat (5)\nCukup jelas.\nAyat (6)\nCukup jelas.\nAyat (7)\nCukup jelas.\nPasal 57\nCukup jelas.\nPasal 58\nCukup jelas.\nPasal 59\nCukup jelas.\nPasal 60\nAyat (1)\nCukup jelas.\nSK No 143445 A\nAyat (2)\nPRES tDEN\nREPUBLIK INDONESIA\nAyat (21\nHuruf a\nYang dimaksud dengan \"pemeliharaan kesehatan\" meliputi\npenyuluhan kesehatan dan pencegahan penyakit, perawatan\nkesehatan dasar, kelompok rentan, penyakit menular, penyakit\nmental, paliatif, lingkungan dan sanitasi, dan perawatan rujukan.\nHuruf b\nRehabilitasi dalam ketentuan ini dilaksanakan sesuai dengan\nketentuan peraturan perundang-undangan di bidang pencegahan\ndan pemberantasan tindak pidana narkotika.\nHuruf c\nYang dimaksud dengan \"pemenuhan kebutuhan dasar\" adalah\npemenuhan air bersih, air minum, makanan bergizi dan layak,\nperalatan kebersihan badan dan lingkungan, pakaian, peralatan\nkhusus wanita dan bayi, serta perlcngkapan tidur.\nPasal 61\nAyat (1)\nYang dimaksud dengan \"kelompok berkebutuhan khusus\" adalah\nmereka yang memiliki kerentanan dan kebutuhan yang kompleks\nyang dilindungi dalam rangka pemenuhan hak asasi manusia melalui\ntindakan afirmasi.\nAyat (2)\nHuruf a\nCukup jelas.\nHuruf b\nCukup jelas.\nHuruf c\nYang dimaksud dengan \"perempuan dalam fungsi reproduksi\"\nantara lain, perempuan yang sedang haid, mengandung,\nmelahirkan, atau menyusui.\nHuruf d\nPengidap penyakit kronis dibuktikan dengan surat keterangan\ndokter.\nHuruf e\nCukup jelas.\nHuruf I'...\nSK No 143446 A\nPRESIDEN\nREPUBLIK INDONESIA\nHuruf f\nYang dimaksud dengan \"manusia lanjut usia\" adalah manusia\ndengan usia 60 (enam puluh) tahun ke atas.\nPasal 62\nAyat (1)\nCukup jelas.\nAyat (21\nYang dimaksud dengan \"ditempatkan secara khusus\" adalah anak\ndari Tahanan atau anak dari Narapidana perempuan ditempatkan\npada tempat atau ruangan terpisah dari hunian Tahanan atau\nNarapidana yang terjaga kebersihannya dan layak untuk tumbuh\nkembang anak.\nAyat (3)\nYang dimaksud dengan \"unit layanan disabilitas\" adalah bagian dari\nsatu institusi atau lembaga yang berfungsi sebagai penyedia layanan\ndan fasilitas untuk penyandang disabilitas.\nAyat (4)\nCukup jelas.\nPasal 63\nCukup jelas.\nPasal 64\nAyat (1)\nCukup jelas.\nAyat (2)\nYang dimaksud dengan \"tempat lain\" antara lain, tempat Narapidana\nmelaksanakan asimilasi dan rumah sakit atau fasilitas kesehatan\ntempat Tahanan atau Narapidana mendapatl<an pelayanan medis.\nAyat (3)\nCukup jelas.\nPasal 65\nAyat (1)\nCukup jelas.\nSK No 143441 A\nAyat(2)...\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (2)\nHuruf a\nPasal 66\nAyat (1)\nCukup jelas\nAyat (2)\nHuruf a\nDalam ketentuan ini, pemeriksaan antara lain, pemeriksaan\nadministrasi, penggeledahan terhadap orang atau barang, dan\nmenolak orang yang dicurigai untuk masuk ke dalam Rutan atau\nLapas.\nHuruf b\nYang dimaksud dengan \"pengawasan komunikasi\" adalah\nkegiatan untuk mengawasi konten komunikasi dengan berbagai\nmedia komunikasi di Rutan dan Lapas.\nHuruf c\nDalam ketentuan ini, tindakan pencegahan lainnya antara lain,\npengendalian lingkungan berupa pembatasan ruang gerak,\npenentuan zonasi area steril, atau penggunaan alat pencegahan\nberupa borgol atau jaket pengikat.\nYang dimaksud dengan \"mengamankan barang terlarang\" adalah\nperbuatan mengamankan yang dilakukan terhadap barang\nterlarang yang dibawa oleh setiap orang ke dalam Rutan atau\nLapas, misalnya, alat komunikasi, senjata tajam, dan barang\nterlarang lainnya.\nHuruf b\nYang dimaksud dengan \"menggunakan kekuatan\" adalah\npengerahan daya, potensi, atau kemampuan internal atau\neksternal beserta perlengkapan pengamanannya dalam\nmelakukan upaya paksa untuk mencegah, menghambat,\nmenghentikan gangguan keamanan, atau melakukan penilaian\nterhadap eskalasi gangguan keamanan dan ketertiban sebagai\ndasar untuk permintaan bantuan.\nHuruf c\nCukup jelas.\nSK No l4344tl A\nHurui d\nPRESIDEN\nREPUBLIK INDONESIA\nHuruf d\nCukup jelas\nPasal 67\nAyat (1)\nHuruf a\nYang dimaksud dengan \"sel pengasingan\" adalah sel khusus yang\ntersendiri bagi Tahanan dan Narapidana yang menjalani\nhukuman disiplin, dengan tetap diawasi dan diperhatikan\nkesehatan dan kecukupan gizinya.\nHuruf b\nKetentuan ini dimaksudkan untuk memberikan penindakan\nterhadap pelanggaran oleh Tahanan di dalam Rutan atau oleh\nNarapidana di Lapas seperti penundaan hak mendapatkan\nkunjungan terhadap Tahanan dan penundaan atau pembatasan\npemberian Remisi terhadap Narapidana.\nAyat (2)\nCukup jelas.\nPasal 68\nCukup jelas.\nPasal 69\nCukup jelas.\nPasal 70\nAyat (1)\nHuruf a\nCukup jelas.\nHuruf b\nYang dimaksud dengan \"risiko tinggi\" adalah Tahanan atau\nNarapidana yang menurut hasil asesmen memiliki potensi untuk\nantara lain:\na. melarikan diri;\nb. berbahaya terhadap orang lain;\nc. memerlukan upaya pengendalian khusus agar mereka taat\npada aturan dalam lembaga; dan\nd.melakukan...\nSK No 143449 A\nPRESIDEN\nREPUBLIK INDONESIA\nd. melakukan intimidasi, mempengaruhi, atau mengendalikan\norang lain untuk melakukan tindak pidana.\nAyat (21\nDalam ketentuan ini, penempatan di tempat tertentu dilaksanakan\ndengan memperhatikan aspek kemanusiaan dan kesehatan.\nPasal 71\nAyat (1)\nCukup jelas.\nAyat (2)\nYang dimaksud dengan \"cipta kondisi\" adalah pemulihan kondisi\nsosial, keamanan, dan ketcrtiban seperti pemulihan kesehatan l-rsik\ndan psikologis Petugas Pemasyarakatan, Tahanan dan Narapidana,\npemulihan lingkungan Iisik seperti perbaikan dan penyediaan\nfasilitas, serta perbaikan prosedur kerja.\nPasal 72\nPeraturan perundang-undangan dalam kctentuan ini antara lain,\nperaturan yang dikeluarkan oleh instansi yang berwenang mengatur\nmengenai perizinan, pengawasan dan pengendalian senjata api non\norganik Tentara Nasional Indonesiar/Kepolisian Negara Republik\nIndonesia dan peralatan keamanan yang digolongkan senjata api.\nPasal 73\nAyat (1)\nCukup jelas.\nAyat (2)\nYang dimaksud dengan \"tempat lain\" antara lain, lembaga\npendidikan anak atau balai latihan kerja.\nAyat (3)\nCukup jelas.\nPasal 74\nAyat (1)\nCukup jelas.\nAyat (21\nHuruf a\nDalam ketentuan ini, pemeriksaan antara lain, pemeriksaan\nadministrasi, penggeledahan terhadap orang atau barang, dan\nmenolak orang yang dicurigai untuk masuk ke dalam LPAS atau\nLPKA'\nHuruf b. . .\nSK No 143450 A\nPRESIDEN\nREPUBLIK TNDONESIA\nHuruf b\nYang dimaksud dengan \"pengawasan komunikasi\" adalah\nkegiatan untuk mengawasi konten komunikasi dengan berbagai\nmedia komunikasi di LPAS dan LPKA.\nHuruf c\nDalam ketentuan ini, tindakan pencegahan lainnya antara lain,\npengendalian lingkungan berupa pembatasan ruang gerak,\npenentuan zonasi area steril, atau penggunaan alat pencegahan.\nPasal 75\nHuruf a\nYang dimaksud dengan \"mengamankan barang terlarang\" adalah\nperbuatan mengamankan yang dilakukan terhadap barang terlarang\nyang dibawa oleh setiap orang ke dalam LPAS atau LPKA, misalnya,\nalat komunikasi, senjata tajam, dan barang terlarang lainnya.\nHuruf b\nCukup jelas.\nPasal 76\nHuruf a\nCukup jelas.\nHuruf b\nCukup jelas.\nHuruf c\nYang dimaksud dengan \"membersihkan lingkungan\" adalah\nmembersihkan ruang tertentu yang terdapat dalam lingkungan\nLPAS/ LPKA.\nHuruf d\nCukup jelas.\nPasal 77\nCukup jelas.\nPasal 78\nCukup jelas.\nSK No 143451 A\nPasal 79\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 79\nAyat (1)\nCukup jelas.\nAyat (21\nYang dimaksud dengan \"cipta kondisi\" adalah pemulihan kondisi\nsosial, keamanan, dan ketertiban seperti pemulihan kesehatan fisik\ndan psikologis Petugas Pemasyarakatan, Anak dan Anak Binaan,\npemulihan lingkungan fisik seperti perbaikan dan penyediaan\nfasilitas, serta perbaikan prosedur kerja.\nPasal 80\nCukup jelas.\nPasal 81\nAyat (1)\nKegiatan intelijen bertujuan untuk mendeteksi, mengidentilikasi, dan\nmemberi peringatan dini terhadap ancaman keamanan, di\nlingkungan Pemasyarakatan sebagai bahan pertimbangan\npengambilan kebijakan.\nAyat (2)\nCukup jelas.\nAyat (3)\nYang dimaksud dengan \"informasi intelijen\" adalah data dan fakta\nyang terkumpul melalui metode kerja untuk pendeteksian dan\nperingatan dini setiap ancaman terhadap keamanan dan ketertiban\nRutan, LPAS, Lapas, dan LPKA termasuk dalam rangka pencarian\nkembali Tahanan, Anak, Narapidana, dan Anak Binaan. Informasi\nintelijen juga digunakan dalam rangka rencana program Pelayanan\natau Pembinaan.\nPasal 82\nAyat (1)\nYang dimaksud dengan \"sistem teknologi informasi Pemasyarakatan\"\nadalah sekumpulan informasi dan data yang diolah dalam bentuk\nelektronik dalam rangka penyelenggaraan fungsi Pemasyarakatan.\nAyat (2)\nCukup jelas.\nSK No 143452 A\nAyat (3)\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (3)\nCukup jelas.\nPasal 83\nCukup jelas.\nPasal 84\nCukup jelas.\nPasal 85\nAyat (1)\nPendidikan dan pelatihan di bidang Pemasyarakatan dilaksanakan\nsecara berjenjang mulai dari tahap dasar, tahap lanjutan, dan tahap\nmahir.\nAyat (2)\nCukup jelas.\nPasal 86\nCukup jelas.\nPasal 87\nAyat (1)\nCukup jelas.\nAyat (2)\nYang dimaksud dengan \"pelindungdfl\", antara lain, dilakukan dalam\nbentuk pengawalan dan ditempatkan di tempat aman.\nAyat (3)\nCukup jelas.\nAyat (4)\nCukup jelas.\nPasal 88\nCukup jelas.\nPasal 89\nAyat (1)\nYang dimaksud dengan \"lembaga\" antara lain, lembaga negara,\nlembaga pemerintah nonkementerian, organisasi nasional atau\ninternasional, dan badan usaha.\nSK No 143453 A\nAyat (21\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (2)\nBantuan dan dukungan yang diberikan di Rutan, LPAS, Lapas, dan\nLPKA misalnya, oleh kementerian yang menyelenggarakan urusan\npemerintahan di bidang kesehatan dengan menyediakan program,\nsarana dan prasarana, serta tenaga kesehatan, kementerian yang\nmenyelenggarakan urusan pemerintahan di bidang pendidikan\nmenyediakan program, sarana dan prasarana, serta tenaga\npendidikan, kementerian yang menyelenggarakan urusan\npemerintahan di bidang ketenagakerjaan menyediakan program,\nsarana dan prasarana, serta tenaga pelatihan kerja.\nPasal 90\nCukup jelas.\nPasal 91\nYang dimaksud dengan \"eksternal\" antara lain, aparatur penegak hukum\ndan pemerintah daerah.\nPasal 92\nHuruf a\nDalam ketentuan ini mengajukan usul program Pemasyarakatan\nantara lain, dapat dilakukan dalam bentuk penyampaian langsung\nprogram Pemasyarakatan atau melalui sistem teknologi informasi\nPemasyarakatan.\nHuruf b\nDalam ketentuan ini, membantu pelaksanaan program\nPemasyarakatan antara lain, dengan cara menyelenggarakan\nkegiatan sosialisasi, diseminasi, dan penyuluhan atau penyediaan\nsarana dan prasarana penunjang program Pemasyarakatan.\nHuruf c\nDalam ketentuan ini, berpartisipasi dalam pembimbingan mantan\nNarapidana dan Anak Binaan antara lain, dalam bentuk, penyediaan\nlapangan pekerjaan, bantuan permodalan, program orang tua asuh,\natau beasis'wa.\nHuruf d\nDalam ketentuan ini, melakukan penelitian mengenai\nPemasyarakatan antara lain, yang berkaitan dengan pengembangan\nprogram Pemasyarakatan atau kajian perbandingan program\nPemasyarakatan.\nSK No 143454 A\nPasal 93\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 93\nCukup jelas.\nPasal 94\nCukup jelas.\nPasal 95\nCukup jelas.\nPasal 96\nCukup jetas.\nPasal 97\nCukup jelas.\nPasal 98\nCukup jelas.\nPasal 99\nCukup jeias.\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 681 1\nSK No 143455 A"
+   }
+  }
+ ]
+}

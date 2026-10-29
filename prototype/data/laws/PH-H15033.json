@@ -1,0 +1,62 @@
+{
+ "id": "PH-H15033",
+ "title": {
+  "zh": null,
+  "en": "Batas Pambansa Blg. 168  An Act Creating the Municipality of Kapatagan in the Province of Lanao Del Sur.",
+  "orig": "Batas Pambansa Blg. 168  An Act Creating the Municipality of Kapatagan in the Province of Lanao Del Sur."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1982-02-08",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Batasang Pambansa",
+ "docNumber": "Batas Pambansa Blg. 168",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1423,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/08_国民议会法令_BP/BP_00168_1982_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 BP_00168_1982_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H15033-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Subject to the approval of the majority of the votes cast in a plebiscite to be held in the\nMunicipality of Balabagan, Province of Lanao del Sur, the barangays of Kapatagan, Riarik, Pinantao,\nSigpang, Biaklayan, Kabaniakawan, Minimao, Malinday, Upper Plasen, Madaya, Barao, Demagalen, Tugaya,\nTola-Tola, Libya-Sager, Dalomangcop, Katitowan, Bongabong, Salaman, Bakikis, Matimus, Lasac,\nBacongan, Banigan, Lusain, Pantukan, Lulubugan, Yliyana, Tappi, Babagulum, Tabowan, Balikaon,\nLinindigan, Murusando, Upper-Egabay, Daguan, Inudaran, and Benito are hereby separated from said\nmunicipality and constituted into a distinct and independent municipality in the same province to be known as\nthe Municipality of Kapatagan. The seat of government of the new municipality shall be in the present site of\nBarangay Kapatagan."
+   }
+  },
+  {
+   "id": "PH-H15033-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The Municipality of Kapatagan shall be bounded as follows:\n\"The Municipality of Kapatagan shall be bounded on the East by the boundary line between the Province of\nLanao del Sur on the West and the Province of Cotabato on the East from the summit of Mount Bita, the\nhighest peak south of Butig, thence south and west to Tugapangan Point; thence following the natural course\nof the Budas River up to its intersection with the Magolalung Creek and following the natural course of said\ncreek up to the Butig boundary and following the Butig boundary eastward to point of beginning at the\nsummit of Mount Bita.\""
+   }
+  }
+ ]
+}

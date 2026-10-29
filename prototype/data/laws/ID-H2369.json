@@ -1,0 +1,75 @@
+{
+ "id": "ID-H2369",
+ "title": {
+  "zh": null,
+  "en": null,
+  "id": "PENETAPAN UNIVERSITAS DIPONEGORO SEBAGAI PERGURUAN TINGGI NEGERI BADAN HUKUM",
+  "orig": "PENETAPAN UNIVERSITAS DIPONEGORO SEBAGAI PERGURUAN TINGGI NEGERI BADAN HUKUM"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02c",
+ "language": "id",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "2014",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU81-2014",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 3,
+ "chars": 873,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PP%20Nomor%2081%20Tahun%202014.pdf&fl=P17779"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\01_宪法与基础法\\印尼_文本_2014_PENETAPAN UNIVERSITAS DIPONEGORO SEBAGAI PERGURUAN TINGGI NEGERI BADAN HUKUM.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 3 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H2369-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\n\nMenetapkan Universitas Diponegoro sebagai Perguruan\nTinggi Negeri Badan Hukum."
+   }
+  },
+  {
+   "id": "ID-H2369-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\n\nPada saat  Peraturan Pemerintah ini mulai berlaku,\nsemua peraturan dan keputusan di lingkungan\nUniversitas Diponegoro yang telah ada tetap berlaku\nsepanjang belum diganti."
+   }
+  },
+  {
+   "id": "ID-H2369-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\n\nPeraturan Pemerintah ini mulai berlaku pada tanggal\ndiundangkan.\n\n\n\n\n\n\n\n\n\nAgar . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\nAgar setiap orang mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan\npenempatannya dalam Lembaran Negara Republik\nIndonesia.\n\nDitetapkan di Jakarta\npada tanggal 17 Oktober 2014\n  PRESIDEN REPUBLIK INDONESIA,\n\n                   ttd.\nDR. H. SUSILO BAMBANG YUDHOYONO\n\nDiundangkan di Jakarta\npada tanggal 17 Oktober 2014\nMENTERI HUKUM DAN HAK ASASI MANUSIA\n        REPUBLIK INDONESIA,\n               ttd.\n   AMIR SYAMSUDIN\n\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2014 NOMOR 302"
+   }
+  }
+ ]
+}

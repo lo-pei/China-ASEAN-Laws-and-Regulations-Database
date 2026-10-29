@@ -162,13 +162,17 @@ if (tm && tm.byLaw) {
       if (o['translatedAt'] === undefined) fail(rel + ' → ' + id + ' 缺少 translatedAt');
       if (o.reviewed === undefined) loos(rel + ' → ' + id + ' 缺少 reviewed（机器/人工校对标记）');
       const src = FT[id];
+      /* 条目标识用 no + dupIndex：源文条号重复的法规（多文件合集／逐款切分，
+         已在原文侧标 dupIndex）译文同样按此组合对齐，见 fulltext.js mergeTrans。 */
+      const tk = a => String(a.no) + '|' + String(a.dupIndex || 1);
+      const srcKeys = new Set(((src && src.articles) || []).map(s => tk(s)));
       o.articles.forEach(a => {
         if (typeof a.no !== 'number') fail(rel + ' → ' + id + ' 译文条文 no 非数字：' + a.no);
         if (!a.text || !a.text[o.targetLang]) fail(rel + ' → ' + id + ' 译文条文 ' + a.no + ' 缺少 ' + o.targetLang + ' 文本');
-        if (src && !(src.articles || []).some(s => s.no === a.no)) loos(rel + ' → ' + id + ' 译文条文 ' + a.no + ' 在原文中找不到对应条');
+        if (src && !srcKeys.has(tk(a))) loos(rel + ' → ' + id + ' 译文条文 ' + tk(a) + ' 在原文中找不到对应条');
       });
       const dup = {};
-      o.articles.forEach(a => { if (dup[a.no]) fail(rel + ' → ' + id + ' 译文条号重复：' + a.no); dup[a.no] = 1; });
+      o.articles.forEach(a => { if (dup[tk(a)]) fail(rel + ' → ' + id + ' 译文条目重复：' + tk(a)); dup[tk(a)] = 1; });
     });
     if (f.articles !== undefined && f.articles !== n && f.articles !== o0Articles(TR)) loos('trans/manifest 中 ' + f.file + ' 声明 articles=' + f.articles + ' 与实际不符');
     seen.add(f.file);

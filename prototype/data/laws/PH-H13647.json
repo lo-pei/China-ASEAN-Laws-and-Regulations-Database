@@ -1,0 +1,52 @@
+{
+ "id": "PH-H13647",
+ "title": {
+  "zh": null,
+  "en": "An Act to Suspend the Operation of Act Numbered Twenty-Seven Hundred and Ninety-three, Known as the Patent Law, Until Such Time as By Law It Shall Be Declared to Be in Effect, and for Other Purposes",
+  "orig": "An Act to Suspend the Operation of Act Numbered Twenty-Seven Hundred and Ninety-three, Known as the Patent Law, Until Such Time as By Law It Shall Be Declared to Be in Effect, and for Other Purposes"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1922-03-08",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3003",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 1,
+ "chars": 601,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1922/act_3003_1922.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03003_1922_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 1 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03003_1922_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13647-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section twenty-three of Act Numbered Twenty-seven hundred and ninety-three, known as the\nPatent Law, as amended by Act Numbered Twenty-nine hundred and four, is hereby further amended to read\n\"Section 23. The operation of the present Act is hereby suspended until such time as by law it shall again be\ndeclared to be in effect, until which date Act Numbered Twenty-two hundred and thirty-five, entitled 'An Act\nproviding for the registration of patents and patent rights in the Philippine Islands, and for the protection of the\nsame,' shall continue in full force and effect.\"\nApproved, March 8, 1922."
+   }
+  }
+ ]
+}

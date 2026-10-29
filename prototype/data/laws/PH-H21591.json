@@ -1,0 +1,62 @@
+{
+ "id": "PH-H21591",
+ "title": {
+  "zh": null,
+  "en": "Facilitating Bank Mergers or Consolidations",
+  "orig": "Facilitating Bank Mergers or Consolidations"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p159",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1973-01-29",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 117",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 807,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_00117_1973_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_00117_1973_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H21591-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "For the sole purpose of facilitating bank mergers or consolidations duly approved by the\nMonetary Board of the Central Bank of the Philippines, any bank may merge or consolidate with another bank\nand the capital stock of a bank may be increased to the extent necessary to effect such merger or consolidation\nby the affirmative vote of the stockholders representing at least a majority of the subscribed capital stock in a\nstockholders' meeting called for the purpose, notwithstanding the provisions of Section 28 1/2 and 17 of the\nCorporation Law (Act No. 1459), as amended)."
+   }
+  },
+  {
+   "id": "PH-H21591-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Decree shall take effect immediately and shall remain in force for a period of three (3) years\nfrom date hereof.\nDone in the City of Manila, this 29th day of January, in the year of Our Lord, nineteen hundred and\nseventy-three."
+   }
+  }
+ ]
+}

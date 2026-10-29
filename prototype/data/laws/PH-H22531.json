@@ -1,0 +1,72 @@
+{
+ "id": "PH-H22531",
+ "title": {
+  "zh": null,
+  "en": "Transferring the Seat of Government of the Province of Maguindanao From the Municipality of Maganoy to the Municipality of Sultan Kudarat",
+  "orig": "Transferring the Seat of Government of the Province of Maguindanao From the Municipality of Maganoy to the Municipality of Sultan Kudarat"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1977-07-11",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 1170",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 354,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_01170_1977_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_01170_1977_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22531-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The seat of government of the Province of Maguindanao is hereby transferred from the\nMunicipality of Maganoy to the Municipality of Sultan Kudarat."
+   }
+  },
+  {
+   "id": "PH-H22531-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Presidential Decree No. 341 is hereby amended accordingly."
+   }
+  },
+  {
+   "id": "PH-H22531-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This decree takes effect immediately.\nDONE in the City of Manila, this 11th day of July, in the year of Our Lord, nineteen hundred and\nseventy-seven."
+   }
+  }
+ ]
+}

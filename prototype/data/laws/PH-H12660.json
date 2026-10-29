@@ -1,0 +1,62 @@
+{
+ "id": "PH-H12660",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Section One of Act Numbered thirteen Hundred and Eighty-One, Entitled \"An Act to Amend Act Numbered Seven Hundred and Nine, Entitled 'An Act Prohibiting the Traffic in Intoxicating Liquors Within Certain Distances of Land Used By the United states for Military Purposes and At Certain Camps therein Named,' \" as Amended By Acts Numbered Seven Hundred and Sixty and Eleven Hundred and Sixty-Nine, By Authorizing the Governor-General to Except From the Provisions of Said Act, as Amended, Localities Where Garrisons Are Composed of Philippines Scouts.",
+  "orig": "An Act to Amend Section One of Act Numbered thirteen Hundred and Eighty-One, Entitled \"An Act to Amend Act Numbered Seven Hundred and Nine, Entitled 'An Act Prohibiting the Traffic in Intoxicating Liquors Within Certain Distances of Land Used By the United states for Military Purposes and At Certain Camps therein Named,' \" as Amended By Acts Numbered Seven Hundred and Sixty and Eleven Hundred and Sixty-Nine, By Authorizing the Governor-General to Except From the Provisions of Said Act, as Amended, Localities Where Garrisons Are Composed of Philippines Scouts."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1909-05-20",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 1951",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 862,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1909/act_1951_1909.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_01951_1909_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_01951_1909_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12660-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section one of Act Numbered Thirteen hundred and eighty-one is hereby amended to lead as\n\"Section 1. Section one of Act Numbered Seven hundred and nine, entitled 'An Act prohibiting the traffic in\nintoxicating liquors within certain distances of land used by the United States for military purposes and at\ncertain camps therein named, as amended by Acts Numbered Seven hundred and sixty and Eleven hundred\nsixty-nine, is hereby so amended as to authorize the Governor- General in his discretion to except from the\nprovisions of said Act as amended any of the places of localities therein named, or any portion thereof,\nwhenever the United States Army shall discontinue the maintenance of military garrisons thereat, or whenever\nsuch military garrisons shall be composed only of Philippine Scouts.\""
+   }
+  },
+  {
+   "id": "PH-H12660-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, May 20, 1909."
+   }
+  }
+ ]
+}

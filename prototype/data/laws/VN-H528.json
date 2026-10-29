@@ -1,0 +1,218 @@
+{
+ "id": "VN-H528",
+ "title": {
+  "zh": "资源税法",
+  "en": "Law No. 45/2009/QH12 on resource tax",
+  "vi": "Luật Thuế tài nguyên số 45/2009/QH12",
+  "orig": "Luật Thuế tài nguyên số 45/2009/QH12",
+  "th": "พระราชบัญญัติภาษีทรัพยากร เลขที่ 45/2009/QH12",
+  "id": "Undang-Undang Pajak Sumber Daya Alam No. 45/2009/QH12",
+  "ms": "Akta Cukai Sumber Asli No. 45/2009/QH12"
+ },
+ "country": "VN",
+ "countryName": "越南",
+ "layer": "intl",
+ "pack": "vn-p06",
+ "language": "vi",
+ "level": "law",
+ "category": "02_民商事与经济法",
+ "status": "active",
+ "promulgatedDate": "2009",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "国会",
+ "docNumber": "45/2009/QH12",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 11,
+ "chars": 12969,
+ "source": {
+  "name": "越南法律数据库（vbpl.vn 官方公报文本）",
+  "url": "https://vbpl.vn/van-ban/chi-tiet/luat-thue-tai-nguyen-so-45-2009-qh12--23778"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\VN\\02_民商事与经济法\\2009_45 2009 QH12_Luật Thuế tài nguyên số 45 2009 QH12.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 11 条；逐字未改写（源自 VN）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "VN-H528-A1",
+   "no": 1,
+   "noLabel": {
+    "vi": "Điều 1"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Phạm vi điều chỉnh"
+   },
+   "text": {
+    "vi": "Điều 1. Phạm vi điều chỉnh\n\nLuật này quy định về đối tượng chịu thuế, người nộp thuế, căn cứ tính thuế, kê khai thuế, nộp thuế, miễn thuế, giảm thuế tài nguyên."
+   }
+  },
+  {
+   "id": "VN-H528-A2",
+   "no": 2,
+   "noLabel": {
+    "vi": "Điều 2"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Đối tượng chịu thuế"
+   },
+   "text": {
+    "vi": "Điều 2. Đối tượng chịu thuế\n\n1. Khoáng sản kim loại.\n\n2. Khoáng sản không kim loại.\n\n3. Dầu thô.\n\n4. Khí thiên nhiên, khí than.\n\n5. Sản phẩm của rừng tự nhiên, trừ động vật.\n\n6. Hải sản tự nhiên, bao gồm động vật và thực vật biển.\n\n7. Nước thiên nhiên, bao gồm nước mặt và nước dưới đất.\n\n8. Yến sào thiên nhiên.\n\n9. Tài nguyên khác do Uỷ ban thường vụ Quốc hội quy định."
+   }
+  },
+  {
+   "id": "VN-H528-A3",
+   "no": 3,
+   "noLabel": {
+    "vi": "Điều 3"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Người nộp thuế"
+   },
+   "text": {
+    "vi": "Điều 3. Người nộp thuế\n\n1. Người nộp thuế tài nguyên là tổ chức, cá nhân khai thác tài nguyên thuộc đối tượng chịu thuế tài nguyên.\n\n2. Người nộp thuế tài nguyên trong một số trường hợp được quy định cụ thể như sau:\n\na) Doanh nghiệp khai thác tài nguyên được thành lập trên cơ sở liên doanh thì doanh nghiệp liên doanh là người nộp thuế;\n\nb) Bên Việt Nam và bên nước ngoài tham gia hợp đồng hợp tác kinh doanh khai thác tài nguyên thì trách nhiệm nộp thuế của các bên phải được xác định cụ thể trong hợp đồng hợp tác kinh doanh;\n\nc) Tổ chức, cá nhân khai thác tài nguyên nhỏ, lẻ bán cho tổ chức, cá nhân làm đầu mối thu mua và tổ chức, cá nhân làm đầu mối thu mua cam kết chấp thuận bằng văn bản về việc kê khai, nộp thuế thay cho tổ chức, cá nhân khai thác thì tổ chức, cá nhân làm đầu mối thu mua là người nộp thuế.\n\nChương II\n\nCĂN CỨ TÍNH THUẾ"
+   }
+  },
+  {
+   "id": "VN-H528-A4",
+   "no": 4,
+   "noLabel": {
+    "vi": "Điều 4"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Căn cứ tính thuế"
+   },
+   "text": {
+    "vi": "Điều 4. Căn cứ tính thuế\n\nCăn cứ tính thuế tài nguyên là sản lượng tài nguyên tính thuế, giá tính thuế và thuế suất"
+   }
+  },
+  {
+   "id": "VN-H528-A5",
+   "no": 5,
+   "noLabel": {
+    "vi": "Điều 5"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Sản lượng tài nguyên tính thuế"
+   },
+   "text": {
+    "vi": "Điều 5. Sản lượng tài nguyên tính thuế\n\n1. Đối với tài nguyên khai thác xác định được số lượng, trọng lượng hoặc khối lượng thì sản lượng tài nguyên tính thuế là số lượng, trọng lượng hoặc khối lượng của tài nguyên thực tế khai thác trong kỳ tính thuế.\n\n2. Đối với tài nguyên khai thác chưa xác định được số lượng, trọng lượng hoặc khối lượng thực tế khai thác do chứa nhiều chất, tạp chất khác nhau thì sản lượng tài nguyên tính thuế được xác định theo số lượng, trọng lượng hoặc khối lượng của từng chất thu được sau khi sàng tuyển, phân loại.\n\n3. Đối với tài nguyên khai thác không bán mà đưa vào sản xuất sản phẩm khác nếu không trực tiếp xác định được số lượng, trọng lượng hoặc khối lượng thực tế khai thác thì sản lượng tài nguyên tính thuế được xác định căn cứ vào sản lượng sản phẩm sản xuất trong kỳ tính thuế và định mức sử dụng tài nguyên tính trên một đơn vị sản phẩm.\n\n4. Đối với nước thiên nhiên dùng cho sản xuất thuỷ điện thì sản lượng tài nguyên tính thuế là sản lượng điện của cơ sở sản xuất thuỷ điện bán cho bên mua điện theo hợp đồng mua bán điện hoặc sản lượng điện giao nhận trong trường hợp không có hợp đồng mua bán điện được xác định theo hệ thống đo đếm đạt tiêu chuẩn đo lường chất lượng Việt Nam, có xác nhận của bên mua, bên bán hoặc bên giao, bên nhận.\n\n5. Đối với nước khoáng thiên nhiên, nước nóng thiên nhiên, nước thiên nhiên dùng cho mục đích công nghiệp thì sản lượng tài nguyên tính thuế được xác định bằng mét khối (m3) hoặc lít (I) theo hệ thống đo đếm đạt tiêu chuẩn đo lường chất lượng Việt Nam.\n\n6. Đối với tài nguyên được khai thác thủ công, phân tán hoặc khai thác lưu động, không thường xuyên, sản lượng tài nguyên khai thác dự kiến trong một năm có giá trị dưới 200.000.000 đồng thì thực hiện khoán sản lượng tài nguyên khai thác theo mùa vụ hoặc định kỳ để tính thuế. Cơ quan thuế phối hợp với cơ quan có liên quan ở địa phương xác định sản lượng tài nguyên khai thác được khoán để tính thuế. Chính phủ quy định chi tiết Điều này."
+   }
+  },
+  {
+   "id": "VN-H528-A6",
+   "no": 6,
+   "noLabel": {
+    "vi": "Điều 6"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Giá tính thuế"
+   },
+   "text": {
+    "vi": "Điều 6. Giá tính thuế\n\n1. Giá tính thuế tài nguyên là giá bán đơn vị sản phẩm tài nguyên của tổ chức, cá nhân khai thác chưa bao gồm thuế giá trị gia tăng.\n\n2. Trường hợp tài nguyên chưa xác định được giá bán thì giá tính thuế tài nguyên được xác định theo một trong những căn cứ sau:\n\na) Giá bán thực tế trên thị trường khu vực của đơn vị sản phẩm tài nguyên cùng loại nhưng không thấp hơn giá tính thuế do Uỷ ban nhân dân tỉnh, thành phố trực thuộc Trung ương (sau đây gọi chung là Uỷ ban nhân dân cấp tỉnh) quy định;\n\nb) Trường hợp tài nguyên khai thác có chứa nhiều chất khác nhau thì giá tính thuế xác định theo giá bán đơn vị của từng chất và hàm lượng của từng chất trong tài nguyên khai thác nhưng không thấp hơn giá tính thuế do Uỷ ban nhân dân cấp tỉnh quy định.\n\n3. Giá tính thuế tài nguyên trong một số trường hợp được quy định cụ thể như sau:\n\na) Đối với nước thiên nhiên dùng cho sản xuất thủy điện là giá bán điện thương phẩm bình quân;\n\nb) Đối với gỗ là giá bán tại bãi giao; trường hợp chưa xác định được giá bán tại bãi giao thì giá tính thuế được xác định căn cứ vào giá tính thuế do Uỷ ban nhân dân cấp tỉnh quy định;\n\nc) Đối với tài nguyên khai thác không tiêu thụ trong nước mà xuất khẩu là giá xuất khẩu;\n\nd) Đối với dầu thô, khí thiên nhiên, khí than là giá bán tại điểm giao nhận. Điểm giao nhận là điểm được thoả thuận trong hợp đồng dầu mà ở đó dầu thô, khí thiên nhiên, khí than được chuyển giao quyền sở hữu cho các bên tham gia hợp đồng dầu khí.\n\n4. Uỷ ban nhân dân cấp tỉnh quy định cụ thể giá tính thuế đối với tài nguyên chưa xác định được giá bán đơn vị sản phẩm tài nguyên, trừ dầu thô, khí thiên nhiên, khí than và nước thiên nhiên dùng cho sản xuất thủy điện. Chính phủ quy định chi tiết Điều này."
+   }
+  },
+  {
+   "id": "VN-H528-A7",
+   "no": 7,
+   "noLabel": {
+    "vi": "Điều 7"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Thuế suất"
+   },
+   "text": {
+    "vi": "Điều 7. Thuế suất\n\n1. Biểu khung thuế suất thuế tài nguyên được quy định như sau:\n\nSố thứ tự\n\nNhóm, loại tài nguyên\n\nThuế suất (%)\n\nI\n\nKhoáng sản kim loại\n\n1\n\nSắt, măng-gan (mangan)\n\n7-20\n\n2\n\nTi-tan (titan)\n\n7-20\n\n3\n\nVàng\n\n9-25\n\n4\n\nĐất hiếm\n\n12-25\n\n5\n\nBạch kim, bạc, thiếc\n\n7-25\n\n6\n\nVôn-phờ-ram (wolfram), ăng-ti-moan (antimoan)\n\n7-25\n\n7\n\nChì, kẽm, nhôm, bô-xit (bouxite), đồng, ni-ken (niken)\n\n7-25\n\n8\n\nCô-ban (coban), mô-lip-đen (molipden), thuỷ ngân, ma-nhê (magie), va-na-đi (vanadi)\n\n7-25\n\n9\n\nKhoáng sản kim loại khác\n\n5-25\n\nII\n\nKhoáng sản không kim loại\n\n1\n\nĐất khai thác để san lấp, xây dựng công trình\n\n3-10\n\n2\n\nĐá, trừ đá nung vôi và sản xuất xi măng; sỏi; cát, trừ cát làm thủy tinh\n\n5-15\n\n3\n\nĐất làm gạch\n\n5-15\n\n4\n\nGờ-ra-nít (granite), sét chịu lửa\n\n7-20\n\n5\n\nĐô-lô-mít (dolomite), quắc-zít (quartzite)\n\n7-20\n\n6\n\nCao lanh, mi-ca (mica), thạch anh kỹ thuật, cát làm thủy tinh\n\n7-15\n\n7\n\nPi-rít (pirite), phốt-pho-rít (phosphorite), đá nung vôi và sản xuất xi măng\n\n5-15\n\n8\n\nA-pa-tít (apatit), séc-păng-tin (secpentin)\n\n3-10\n\n9\n\nThan an-tra-xít (antraxit) hầm lò\n\n4-20\n\n10\n\nThan an-tra-xít (antraxit) lộ thiên\n\n6-20\n\n11\n\nThan nâu, than mỡ\n\n6-20\n\n12\n\nThan khác\n\n4-20\n\n13\n\nKim cương, ru-bi (rubi), sa-phia (sapphire)\n\n16-30\n\n14\n\nE-mô-rốt (emerald), a-lếch-xan-đờ-rít (alexandrite), màu đen\n\n16-30\n\n15\n\nAdít, rô-đô-lít (rodolite), py-rốp (pyrope), bê-rin (berin), sờ-pi-nen (spinen), tô-paz (topaz)\n\n12-25\n\n16\n\nThạch anh tinh thể màu tím xanh, vàng lục, da cam; cờ-ri-ô-lít (cryolite); ô-pan (pan) quý màu trắng, đỏ lửa; phen-sờ-phát (fenspat); birusa; nê-phờ-rít (nefrite)\n\n12-25\n\n17\n\nKhoáng sản không kim loại khác\n\n4-25\n\nIII\n\nDầu thô\n\n6-40\n\nIV\n\nKhí thiên nhiên, khí than\n\n1-30\n\nV\n\nSản phẩm của rừng tự nhiên\n\n1\n\nGỗ nhóm I\n\n25-35\n\n2\n\nGỗ nhóm II\n\n20-30\n\n3\n\nGỗ nhóm III, IV\n\n15-20\n\n4\n\nGỗ nhóm V, VI, VII, VIII và các loại gỗ khác\n\n10-15\n\n5\n\nCành, ngọn, gốc, rễ\n\n10-20\n\n6\n\nCủi\n\n1-5\n\n7\n\nTre, trúc, nứa, mai, giang, tranh, vầu, lồ ô\n\n10-15\n\n8\n\nTrầm hương, kỳ nam\n\n25-30\n\n9\n\nHồi, quế, sa nhân, thảo quả\n\n10-15\n\n10\n\nSản phẩm khác của rừng tự nhiên\n\n5-15\n\nVI\n\nHải sản tự nhiên\n\n1\n\nNgọc trai, bào ngư, hải sâm\n\n6-10\n\n2\n\nHải sản tự nhiên khác\n\n1-5\n\nVII\n\nNước thiên nhiên\n\n1\n\nNước khoáng thiên nhiên, nước nóng thiên nhiên, nước thiên nhiên tinh lọc đóng chai, đóng hộp\n\n8-10\n\n2\n\nNước thiên nhiên dùng cho sản xuất thủy điện\n\n2-5\n\n3\n\nNước thiên nhiên dùng cho sản xuất, kinh doanh, trừ nước quy định tại điểm 1 và điểm 2 Nhóm này\n\n3.1\n\nNước mặt\n\n1-3\n\n3.2\n\nNước dưới đất\n\n3-8\n\nVIII\n\nYến sào thiên nhiên\n\n10-20\n\nIX\n\nTài nguyên khác\n\n1-20\n\n2. Thuế suất cụ thể đối với dầu thô, khí thiên nhiên, khí than được xác định lũy tiến từng phần theo sản lượng dầu thô, khí thiên nhiên, khí than khai thác bình quân mỗi ngày.\n\n3. Căn cứ vào quy định tại khoản 1 và khoản 2 Điều này, Uỷ ban thường vụ Quốc hội quy định mức thuế suất cụ thể đối với từng loại tài nguyên trong từng thời kỳ bảo đảm các nguyên tắc sau:\n\na) Phù hợp với danh mục nhóm, loại tài nguyên và trong phạm vi khung thuế suất do Quốc hội quy định;\n\nb) Góp phần quản lý nhà nước đối với tài nguyên; bảo vệ, khai thác, sử dụng hợp lý, tiết kiệm và hiệu quả nguồn tài nguyên;\n\nc) Góp phần bảo đảm nguồn thu ngân sách nhà nước và bình ổn thị trường.\n\nChương III\n\nKÊ KHAI, NỘP THUẾ , MIỄN, GIẢM THUẾ"
+   }
+  },
+  {
+   "id": "VN-H528-A8",
+   "no": 8,
+   "noLabel": {
+    "vi": "Điều 8"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Kê khai, nộp thuế"
+   },
+   "text": {
+    "vi": "Điều 8. Kê khai, nộp thuế\n\nNgười nộp thuế tài nguyên thực hiện đăng ký, kê khai, tính và nộp thuế theo quy định của pháp luật về quản lý thuế."
+   }
+  },
+  {
+   "id": "VN-H528-A9",
+   "no": 9,
+   "noLabel": {
+    "vi": "Điều 9"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Miễn, giảm thuế"
+   },
+   "text": {
+    "vi": "Điều 9. Miễn, giảm thuế\n\n1. Người nộp thuế tài nguyên gặp thiên tai, hoả hoạn, tai nạn bất ngờ gây tổn thất đến tài nguyên đã kê khai, nộp thuế thì được xét miễn, giảm thuế phải nộp cho số tài nguyên bị tổn thất; trường hợp đã nộp thuế thì được hoàn trả số thuế đã nộp hoặc trừ vào số thuế tài nguyên phải nộp của kỳ sau.\n\n2. Miễn thuế đối với hải sản tự nhiên.\n\n3. Miễn thuế đối với cành, ngọn, củi, tre, trúc, nứa, mai, giang, tranh, vầu, lồ ô do cá nhân được phép khai thác phục vụ sinh hoạt.\n\n4. Miễn thuế đối với nước thiên nhiên dùng cho sản xuất thuỷ điện của hộ gia đình, cá nhân tự sản xuất phục vụ sinh hoạt.\n\n5. Miễn thuế đối với nước thiên nhiên dùng cho nông nghiệp, lâm nghiệp, ngư nghiệp, diêm nghiệp; nước thiên nhiên do hộ gia đình, cá nhân khai thác phục vụ sinh hoạt.\n\n6. Miễn thuế đối với đất khai thác và sử dụng tại chỗ trên diện tích đất được giao, được thuê; đất khai thác để san lấp, xây dựng công trình an ninh, quân sự, đê điều.\n\n7. Trường hợp khác được miễn, giảm thuế do Uỷ ban thường vụ Quốc hội quy định.\n\nChương IV\n\nĐIỀU KHOẢN THI HÀNH"
+   }
+  },
+  {
+   "id": "VN-H528-A10",
+   "no": 10,
+   "noLabel": {
+    "vi": "Điều 10"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Hiệu lực thi hành"
+   },
+   "text": {
+    "vi": "Điều 10. Hiệu lực thi hành\n\n1. Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2010.\n\n2. Các văn bản quy phạm pháp luật sau đây hết hiệu lực thi hành kể từ ngày Luật này có hiệu lực:\n\na) Pháp lệnh thuế tài nguyên số 05/1998/PL-UBTVQH10;\n\nb) Pháp lệnh sửa đổi, bổ sung Điều 6 Pháp lệnh thuế tài nguyên số 07/2008/PL-UBTVQH12.\n\n3. Đối với dự án đầu tư hoặc hợp đồng dầu khí đã được ký kết trước ngày 01 tháng 7 năm 2010 mà trong Giấy phép đầu tư, Giấy chứng nhận đầu tư hoặc hợp đồng dầu khí có quy định về thuế tài nguyên thì thực hiện theo quy định tại Giấy phép đầu tư, Giấy chứng nhận đầu tư hoặc hợp đồng dầu khí đã ký kết. Trường hợp ưu đãi về thuế tài nguyên quy định tại Giấy phép đầu tư, Giấy chứng nhận đầu tư hoặc hợp đồng dầu khí thấp hơn ưu đãi về thuế tài nguyên quy định tại Luật này thì áp dụng ưu đãi về thuế theo quy định của Luật này cho thời gian còn lại."
+   }
+  },
+  {
+   "id": "VN-H528-A11",
+   "no": 11,
+   "noLabel": {
+    "vi": "Điều 11"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Quy định chi tiết và hướng dẫn thi hành"
+   },
+   "text": {
+    "vi": "Điều 11. Quy định chi tiết và hướng dẫn thi hành\n\nChính phủ quy định chi tiết, hướng dẫn thi hành các điều, khoản được giao trong Luật; hướng dẫn những nội dung cần thiết khác của Luật này để đáp ứng yêu cầu quản lý nhà nước.\n\nLuật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá XII, kỳ họp thứ 6 thông qua ngày 25 tháng 11 năm 2009./.\n\n CHỦ TỊCH QUỐC HỘI\n\n (Đã ký)\n\n Nguyễn Phú Trọng\n\n1:{\"id\":\"23778\",\"docType\":{\"id\":\"11025e19-2dd6-4165-85ad-ab6241186a1a\",\"name\":\"Luật\",\"code\":\"Lu\",\"parentCode\":\"VBQPPL\",\"parentName\":null},\"docGroup\":\"VBQPPL\",\"docNum\":\"45/2009/QH12\",\"title\":\"Luật Thuế tài nguyên số 45/2009/QH12\",\"applicationNote\":null,\"issueDate\":\"2009-11-25T00:00:00\",\"effFrom\":\"2010-07-01T00:00:00\",\"effTo\":null,\"publicDate\":null,\"effStatus\":{\"id\":\"9c20e89d-e048-4f3a-b6c2-df87fe0b1ada\",\"name\":\"Hết hiệu lực một phần\",\"code\":\"HHL1P\",\"parentCode\":null,\"parentName\":null},\"status\":\"Publish\",\"lang\":\"vi\",\"defaultLanguage\":\"VN\",\"updatedBy\":\"System Account\",\"updatedDate\":\"2026-05-08T19:09:26\",\"agencyName\":\"Quốc hội\",\"organization\":{\"id\":\"d2907e2d-b1d4-4f22-8cfc-35f786fbf860\",\"code\":\"BTC\",\"name\":\"Bộ Tài chính\",\"nameEn\":\"Bộ Tài chính\",\"shortName\":\"BTC\",\"orgType\":\"0\"},\"isLw\":true,\"documentContent\":{\"id\":\"23778\",\"title\":null,\"content\":\"$2\"},\"documentContentEn\":null,\"documentContentFileName\":null,\"documentContentFileDocName\":\"45.2009.QH12.doc\",\"documentIssues\":[{\"id\":\"2dd44a48-6af9-4b86-9983-972dbf282292\",\"agencyId\":\"55\",\"agencyName\":\"Quốc hội\",\"agencyNameEn\":\"National Assembly of Vietnam\",\"agencyCode\":\"QH\",\"personId\":\"119\",\"personName\":\"Nguyễn Phú Trọng\",\"jobTitleId\":\"28da0087-8afd-420c-875c-b2369e212c3e\",\"jobTitleCode\":\"CTQH\",\"jobTitleName\":\"Chủ tịch Quốc hội\",\"orderIndex\":1}],\"documentMajors\":[],\"documentFields\":[{\"id\":\"76e2c0d5-e93e-4ee9-8c72-59dae1167432\",\"name\":\"Chưa phân loại\",\"code\":null,\"parentCode\":null,\"parentName\":null}],\"documentRelatedList\":[{\"id\":\"036c8b2f-f7b1-4b9c-a376-b8c87e685a88\",\"fileName\":\"23778_body_content.html\",\"relatedType\":\"MARKDOWN\",\"fileTitle\":\"23778_body_content.html\",\"fileOrder\":null}],\"provisionTree\":null,\"references\":null,\"isEffectAllDocument\":false,\"isOld\":true,\"reviewStatus\":\"RV_DONE\",\"reviewed\":true,\"isTranslationDoc\":false,\"isConsolidatedDocument\":false,\"isConstitutionDocument\":false,\"isAdministrativeDocument\":false,\"viewCount\":79,\"showViewCount\":true,\"hasContent\":true,\"hasOriginalPdf\":null,\"hasAIProcessed\":false,\"hasClauseRelation\":true,\"aiResults\":[]}"
+   }
+  }
+ ]
+}

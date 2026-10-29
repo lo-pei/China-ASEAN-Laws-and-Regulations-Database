@@ -1,0 +1,62 @@
+{
+ "id": "PH-H15982",
+ "title": {
+  "zh": null,
+  "en": "An Act to Grant Complete Postal and Telegraph Franking Privileges to the Commission of the Census.",
+  "orig": "An Act to Grant Complete Postal and Telegraph Franking Privileges to the Commission of the Census."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1938-05-20",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 265",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1229,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00265_1938_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00265_1938_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H15982-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "All mail matter of whatever class relative to the Commission of the Census and addressed to or\nfrom the Commissioner or the Assistant Commissioner of the Census, or any census officer, supervisor or\nenumerator or employee of the Commission of the Census, and indorsed \"Official Business, Commission of\nthe Census,\" shall be transported free of postage; and all telegrams relative to the Commission of the Census\nsent to or received from the officials aforesaid over all telephone and telegraph lines or other means of\ncommunication under public control in the Islands, shall be transmitted and delivered free of charge:\nProvided, That any person making use for private purposes of the postal or telegraph franking privileges to\navoid the payment of postage or telegraph charges on messages, letters, packages, or other matter sent by mail\nor telegraph shall be guilty of a misdemeanor and subject to a fine of three hundred pesos.\nThe Commissioner of the Census is authorized to employ, in his discretion, messengers or couriers, at a\ncompensation to be fixed by him for the purpose of expeditiously conveying official census mail of any class\nto any locality."
+   }
+  },
+  {
+   "id": "PH-H15982-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, May 20, 1938."
+   }
+  }
+ ]
+}

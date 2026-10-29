@@ -1,0 +1,92 @@
+{
+ "id": "PH-H21985",
+ "title": {
+  "zh": null,
+  "en": "Declaring All Barrios in the Philippines as Barangays, and for Other Purposes",
+  "orig": "Declaring All Barrios in the Philippines as Barangays, and for Other Purposes"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p159",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1974-09-21",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 557",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 5,
+ "chars": 1495,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_00557_1974_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 5 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_00557_1974_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H21985-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Any provision of existing laws to the contrary notwithstanding, all existing barrios or barrios that\nmay hereafter be created are hereby declared as Barangays and all references to the barrio in any existing laws\nshall henceforth be understood as references to the Barangay: Provided, however, That in the case of the City\nof Manila and other chartered cities where there are no barrios, all existing Barangays therein created under\nPresidential Decree No. 86, as amended, shall continue as such Barangays."
+   }
+  },
+  {
+   "id": "PH-H21985-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Republic Act No. 3590, as amended, otherwise known as the Revised Barrio Charter, is hereby\nadopted as the Barangay Charter."
+   }
+  },
+  {
+   "id": "PH-H21985-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "All powers and rights vested in or exercised by the barrio assembly, barrio council and all barrio\nofficials pursuant to Republic Act No. 3590, and such other powers and rights, appertaining to or conferred\nupon them by other laws, shall henceforth be exercised by the Barangay Assembly, Barangay Council and\nBarangay officials, and all duties and responsibilities vested in or conferred upon them by existing laws shall\nlikewise be performed by the Barangay assemblies, Barangay councils, and Barangay officials."
+   }
+  },
+  {
+   "id": "PH-H21985-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "The officials of the barrio as constituted pursuant to Republic Act No. 3590 shall now be known\nas Barangay Captain, Barangay Councilman, Barangay Secretary and Barangay Treasurer."
+   }
+  },
+  {
+   "id": "PH-H21985-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "text": {
+    "en": "This Decree shall take effect immediately upon approval.\nDONE in the City of Manila, this 21st day of September, in the year of Our Lord, nineteen hundred and\nseventy-four."
+   }
+  }
+ ]
+}

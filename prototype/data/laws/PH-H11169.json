@@ -1,0 +1,82 @@
+{
+ "id": "PH-H11169",
+ "title": {
+  "zh": null,
+  "en": "AN ACT AMENDING RULE FIFTY OF SECTION ONE OF ACT NUMBERED NINETY, RELATIVE TO THE MANNER IN WHICH THE TREASURER OF THE ARCHIPELAGO SHALL KEEP HIS ACCOUNTS AND RENDER THE SAME TO THE SECRETARY OF WAR; AND REPEALING THAT PART OF SECTION THREE OF ACT NUMBERED FOUR HUNDRED AND THIRTY WHICH PROHIBITS THE MAKING OF CONTRACTS PAYABLE ONLY IN UNITED STATES CURRENCY.",
+  "orig": "AN ACT AMENDING RULE FIFTY OF SECTION ONE OF ACT NUMBERED NINETY, RELATIVE TO THE MANNER IN WHICH THE TREASURER OF THE ARCHIPELAGO SHALL KEEP HIS ACCOUNTS AND RENDER THE SAME TO THE SECRETARY OF WAR; AND REPEALING THAT PART OF SECTION THREE OF ACT NUMBERED FOUR HUNDRED AND THIRTY WHICH PROHIBITS THE MAKING OF CONTRACTS PAYABLE ONLY IN UNITED STATES CURRENCY."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 456",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 2018,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_00456_1902_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_00456_1902_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H11169-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Rule fifty of section one of Act Numbered Ninety, entitled \"An Act reciting an executive order of\nthe President of the United States, amending the executive order of May eighth, eighteen hundred and\nninety-nine, creating the offices of Auditor for the Islands and thief clerk of the Auditor for the Islands of the\nPhilippine Archipelago, and enacting, with the concurrence and approval of the Secretary of War first had,\nthe rules and instructions relative to the accounting system of the Military Government of the United States\nin the Islands of the Philippine Archipelago,\" is hereby amended, by authority of the Secretary of War, by\nstriking out said rule fifty of section one and substituting therefor the following:\n\" Rule 50. The accounts of the Treasurer shall be kept in the moneys in which actually received and\nwithdrawn, but in all reports made to the Secretary of War the aggregate amount therein shall be converted\ninto money of the United States at the authorized rule of conversion at the close of the month for which the\naccount is rendered. The Treasurer shall also show in said report the distribution of his balance in local\ncurrency and United States currency respectively. \""
+   }
+  },
+  {
+   "id": "PH-H11169-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "That part of section three of Act Numbered Pour hundred and thirty which provides that \"no\ncontract or obligation of the Insular Government entered into by the head of any Department, Bureau, or\nOffice shall hereafter be made payable only in United States currency, but may be made payable in United\nStates currency or its equivalent in local currency, at the ratio authorized by the Civil Governor at the time of\npayment, at the option of the Government,\" is hereby repealed."
+   }
+  },
+  {
+   "id": "PH-H11169-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "The public good requiring the speedy enactment of this bill, the passage of the same is hereby\nexpedited in accordance with sect inn two of \"An Act prescribing the order of procedure by the Commission\nin the enactment of laws,\" passed September twenty-sixth, nineteen hundred."
+   }
+  },
+  {
+   "id": "PH-H11169-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, September 9, 1902."
+   }
+  }
+ ]
+}

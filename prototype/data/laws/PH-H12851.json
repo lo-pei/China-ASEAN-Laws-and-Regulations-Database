@@ -1,0 +1,82 @@
+{
+ "id": "PH-H12851",
+ "title": {
+  "zh": null,
+  "en": "An Act to Prevent the Introduction Into the Philippine Islands of Plant Diseases and Epidemics.",
+  "orig": "An Act to Prevent the Introduction Into the Philippine Islands of Plant Diseases and Epidemics."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1912-02-05",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2145",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 1280,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1912/act_2145_1912.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02145_1912_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02145_1912_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12851-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The importation into the Philippine Islands of every kind of plants, or parts thereof, or of seeds\nor fruit, or of anything used as a covering thereof, is hereby prohibited except through such ports as may be\ndesignated, and then only subject to such rules as may from time to time be prescribed by the Director of\nAgriculture with the consent of the Secretary of Public Instruction."
+   }
+  },
+  {
+   "id": "PH-H12851-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The Director of Agriculture shall appoint inspectors from amongst his approved inspectors to\nexamine such disease-breeding materials, and the Collector of Customs, shall, upon the certificate of such\ninspectors, be authorized (a) to destroy such material; (b) to permit the importation thereof after its\ndisinfection and fumigation; (c) to permit its importation without further restrictions; (d) to permit its\nimportation and cultivation at an isolated place under the supervision of the Director of Agriculture and\nsubject to such restrictions as he may impose."
+   }
+  },
+  {
+   "id": "PH-H12851-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "To carry out the purposes of this Act. the Director of Apparatus. Agriculture is hereby authorized\nto provide the necessary apparatus, chemical substances, and anything which may be necessary.for the\npurposes of this Act, out of the contingent funds of said Bureau."
+   }
+  },
+  {
+   "id": "PH-H12851-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, February 5, 1912."
+   }
+  }
+ ]
+}

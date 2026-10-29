@@ -1,0 +1,62 @@
+{
+ "id": "PH-H16144",
+ "title": {
+  "zh": null,
+  "en": "An Act Relieving All Provinces, Municipalities and Municipal Districts and the Cities of Zamboanga and Davao From the Payment of Sheriff Fees.",
+  "orig": "An Act Relieving All Provinces, Municipalities and Municipal Districts and the Cities of Zamboanga and Davao From the Payment of Sheriff Fees."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1939-05-31",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 427",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 204,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00427_1939_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00427_1939_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H16144-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "All provinces municipalities,municipal districts, and the cities of Zamboanga and Davao shall be\nexempt from the payment of sheriff fees."
+   }
+  },
+  {
+   "id": "PH-H16144-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, May 31, 1939."
+   }
+  }
+ ]
+}

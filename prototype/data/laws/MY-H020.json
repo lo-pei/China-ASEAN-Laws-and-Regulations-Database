@@ -3,12 +3,16 @@
  "title": {
   "zh": "2018年服务税法",
   "en": "SERVICE TAX ACT 2018",
-  "orig": null
+  "orig": "SERVICE TAX ACT 2018",
+  "vi": "Luật Thuế dịch vụ 2018",
+  "th": "พระราชบัญญัติภาษีบริการ ค.ศ. 2018",
+  "id": "Undang-Undang Pajak Jasa 2018",
+  "ms": "Akta Cukai Perkhidmatan 2018"
  },
  "country": "MY",
  "countryName": "马来西亚",
  "layer": "intl",
- "pack": "my-p02",
+ "pack": "my-2",
  "language": "en",
  "level": "law",
  "category": null,
@@ -24,254 +28,1347 @@
  "coverage": "full",
  "structureMode": "ARTICLE",
  "structure": null,
- "articleCount": 22,
- "chars": 27457,
+ "articleCount": 95,
+ "chars": 111029,
  "source": {
   "name": "InvestMalaysia（马来西亚投资发展局 MIDA 政府门户, investmalaysia.gov.my）法律法规栏目",
   "url": "https://www.investmalaysia.gov.my/media/rsoj31eh/service-tax-act-2018.pdf"
  },
- "sourceFile": null,
+ "sourceFile": "MY\\en\\TXT文本\\02_民商事与经济法\\2018_807_SERVICE TAX ACT 2018.txt",
  "fetchedAt": "2026-10-04",
- "completenessNote": "全文，共 22 条；经《东盟法律分类》归档原件重新校核切分，逐字未改写。",
- "textQuality": null,
+ "completenessNote": "全文：第 1 条至第 95 条；逐字未改写（源自厂商 OCR 文本）。",
+ "textQuality": "ocr-vendor",
  "ocrNoisySections": null,
  "pdfs": null,
  "duplicateOf": null,
  "articles": [
   {
-   "id": "MY-H020-A76",
-   "no": 76,
+   "id": "MY-H586-A1",
+   "no": 1,
    "noLabel": {
-    "en": "Article 76"
+    "en": "Section 1"
    },
-   "heading": {
-    "en": "Any person—"
-   },
+   "chapter": {},
+   "heading": {},
    "text": {
-    "en": "(a) being an employee of a taxable person or foreign registered person or a person authorized under section 75 who—\n(i) withholds for his own use or otherwise any portion of the amount of service tax or penalties collected under this Act;\n(ii) otherwise than in good faith, demands from any person an amount in excess of any assessment of service tax due and payable, or penalties payable, under this Act;\n92 Laws of Malaysia  ACT 807\n(iii) submits any false return, statement or report, whether in writing or otherwise, of the amount  of service tax or penalty collected or received by him under this Act; or\n(iv) defrauds any person, embezzles any money, or otherwise uses his position so as to deal wrongfully either with the Director General or any other individual; or\n(b) not being authorized under this Act who collects or attempts to collect any service tax or penalty under this Act, commits an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding three years or to both.\nObstruction"
+    "en": "1. (1) This Act may be cited as the Service Tax Act 2018.\n (2) This Act comes into operation on a date to be appointed by\nthe Minister by notification in the Gazette  and the Minister may\nappoint different dates for the coming into operation of different\nparts or different provisions of this Act.\n (3) Notwithstanding subsection (2), the Minister may, by\nnotification in the Gazette, appoint the effective date for the\ncharging and levying of service tax under this Act.\nInterpretation"
    }
   },
   {
-   "id": "MY-H020-A77",
-   "no": 77,
-   "noLabel": {
-    "en": "Article 77"
-   },
-   "heading": {
-    "en": "Any person who in any way obstructs, assaults or hinders any"
-   },
-   "text": {
-    "en": "proper officer of service tax in the discharge of his functions under this Act commits an offence and shall, on conviction, be liable to imprisonment for a term not exceeding five years or to a f ine not exceeding one hundred thousand ringgit or to both.\nOffences by company, etc."
-   }
-  },
-  {
-   "id": "MY-H020-A78",
-   "no": 78,
-   "noLabel": {
-    "en": "Article 78"
-   },
-   "text": {
-    "en": "(1) Where any company, limited liability partnership, firm, society or other body of persons commits an offence under this Act, a person who at the time of the commission of the offence was a director, compliance officer, partner, manager, secretary or other similar officer of the company, limited liability partnership, firm, society or other body of persons or was purporting to act in such capacity or was in any manner or to any extent responsible for the management of any of the affairs of the company, limited liability partnership, firm, society or other body of persons or was assisting in its management— Service Tax 93\n(a) may be charged severally or jointly in the same proceedings with the company, limited liability partnership, firm, society or other body of persons; and\n(b) if the company, limited liability partnership, firm, society or the body of persons is found guilty of the offence, shall be deemed to be guilty of that offence unless, having regard to the nature of his functions in that capacity and to all circumstances, he proves—\n(i) that the offence was committed without his knowledge; or\n(ii) that the offence was committed without his consent or connivance and that he had taken all reasonable precautions and exercised due diligence to prevent the commission of the offence.\n(2) Where any person is liable under this Act to any punishment or penalty for any act, omission, neglect or default, such person shall be liable to the same punishment or penalty for every such act, omission, neglect or default of the person’s employee or agent, or of the employee of the person’s agent, if the act, omission, neglect or default was committed—\n(a) by that person’s employee in the course of his employment;\n(b) by that person’s agent when acting on behalf of that person; or\n(c) by the employee of that person’s agent when acting in the course of his employment by the person’s agent or otherwise on behalf of the person’s agent acting on behalf of that person.\n94 Laws of Malaysia  ACT 807 General penalty"
-   }
-  },
-  {
-   "id": "MY-H020-A79",
-   "no": 79,
-   "noLabel": {
-    "en": "Article 79"
-   },
-   "text": {
-    "en": "Any person who commits an offence under this Act for which no penalty is expressly provided shall, on conviction, be liable to a fine not exceeding thirty thousand ringgit or to imprisonment for a term not exceeding two years or to both.\nCompounding of offences"
-   }
-  },
-  {
-   "id": "MY-H020-A80",
-   "no": 80,
-   "noLabel": {
-    "en": "Article 80"
-   },
-   "text": {
-    "en": "(1) The Minister may, with the approval of the Public Prosecutor, make regulations prescribing—\n(a) any offence under this Act or any regulations made under this Act as an offence which may be compounded;\n(b) the criteria for compounding such offence; and\n(c) the method and procedure for compounding such offence.\n(2) Any senior officer of service tax may, with the consent in writing of the Public Prosecutor, at any time before a charge is being instituted, compound any offence prescribed as an offence which may be compounded by making a written offer to the person reasonably suspected of having committed the offence to compound the offence upon payment to the Director General of a sum of money not exceeding fifty per centum of the amount of the maximum fine to which the person would have been liable to if he had been convicted of the offence, within such time as may be specified in the written offer.\n(3) An offer under subsection (2) may be made at any time after the offence has been committed but before any prosecution for it has been instituted, and where the amount specified in the offer is not paid within the time specified in the offer, or such extended time as the Director General may grant, prosecution fo r the offence may be instituted at any time after that against the person to whom the offer was made.\nService Tax 95\n(4) Where an offence has been compounded under subsection (2), no prosecution shall be instituted in respect of the offence against the person to whom the offer to compound was made, and any document or thing seized in connection with the offence may be released by the Director General, subject to such terms as the Director General thinks fit.\n(5) All sums of moneys received by the Director General under this section shall be paid into and form part of the Consolidated Fund.\nReview and appeal"
-   }
-  },
-  {
-   "id": "MY-H020-A81",
-   "no": 81,
-   "noLabel": {
-    "en": "Article 81"
-   },
-   "text": {
-    "en": "(1) Any person aggrieved by any decision of the Director General may apply to the Director General for review of any of his decision within thirty days from the date the person has been notified of such decision provided that no appeal has been made on the sam e decision to the Customs Appeal Tribunal or court.\n(2) An application for review under subsection (1) shall be made in the form and manner as determined by the Director General.\n(3) Where an application for review has been made under subsection (1), the Director General shall make the review and notify the decision of the review to the person, where practicable, within sixty days from the date of the receipt of such application.\n(4) No review may be made in any matter relating to compound.\n(5) Any person aggrieved by any decision of the Director General under subsection (3) or any other provision of this Act, except any matter relating to compound, may appeal to the Customs Appeal Tribunal in writing within thirty days from the date of notification of the decision to the aggrieved person.\n(6) Any service tax due and payable under this Act shall be paid notwithstanding any review or appeal has been made under this section.\n96 Laws of Malaysia  ACT 807\n(7) This section shall not apply to a foreign registered person.\nLiquidator of company to give notice of winding-up, and set aside service tax"
-   }
-  },
-  {
-   "id": "MY-H020-A82",
-   "no": 82,
-   "noLabel": {
-    "en": "Article 82"
-   },
-   "text": {
-    "en": "(1) Where a resolution is passed and becomes effective, or an order is made, for the winding-up of a company which is liable for any service tax due and payable, the liquidator of the company shall—\n(a) give notice of the winding up of the company to the Director General within fourteen days after the resolution is effective or order is made;\n(b) before disposing of any of the assets of the company, set aside such sum out of the assets as appears to the Director General to be sufficient to provide for any service tax that is or will thereafter become due and payable in respect of the company; and\n(c) pay the service tax referred to in paragraph (b).\n(2) A liquidator of any company referred to in subsection (1) who fails to give notice to the Director General within the time specified in paragraph (1)(a) or fails to provide for payment of the service  tax as required under paragraph (1) (c) shall be personally liable for any service tax that is or will become due and payable as aforesaid.\n(3) Any liquidator who fails to comply with subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit.\n(4) Where two or more persons are appointed as liquidators or are required by law to carry out the winding-up of the company referred to in subsection (1), the obligations and liabilities attaching to a liquidator under this section shall attach to all such persons jointly and severally, subject to a right of contribution between themselves as in cases of contract.\nService Tax 97\n(5) This section shall not apply to a foreign registered person.\nAppointment of receiver to be notified to Director General"
-   }
-  },
-  {
-   "id": "MY-H020-A83",
-   "no": 83,
-   "noLabel": {
-    "en": "Article 83"
-   },
-   "text": {
-    "en": "(1) Where a receiver of the property of  any person who is liable for any service tax due and payable is appointed, the receiver shall give notice of such appointment to the Director General within fourteen days thereafter, and shall before disposing of any of the assets of the person set aside such sum out of the assets as appears to the Director General to be sufficient to provide for any service tax that is or will thereafter become due and  payable in respect of the taxable services provided or imported taxable services acquired by the person before the appointment of the receiver, and shall pay such service tax.\n(2) Any receiver appointed under subsection (1) who fails to give notice to t he Director General within the time specified in subsection (1) or fails to provide for the payment of the taxable service tax as required under that subsection shall be personally liable for any service tax that is or will become due and payable as aforesaid.\n(3) Any receiver who fails to comply with subsection (1) commits an offence and shall, on co nviction, be liable to a fine not exceeding ten thousand ringgit.\n(4) Where two or more persons are appointed receivers, the obligations and liabilities attaching to a receiver under this section shall attach to all such persons jointly and severally, su bject to a right of contribution between themselves as in cases of contract.\n(5) This section shall not apply to a foreign registered person.\nRegistered person to submit audit certificate"
-   }
-  },
-  {
-   "id": "MY-H020-A84",
-   "no": 84,
-   "noLabel": {
-    "en": "Article 84"
-   },
-   "text": {
-    "en": "(1) The Director General may require a registered person to submit annually an audit certificate, signed by a public accountant not in the employment of the registered person, in relation to the records 98 Laws of Malaysia  ACT 807 required to be kept by the registered person under section 24 in respect of the taxable services provided by the registered person.\n(2) This section shall not apply to a foreign registered person.\nService tax, etc., to be payable notwithstanding any proceedings, etc."
-   }
-  },
-  {
-   "id": "MY-H020-A85",
-   "no": 85,
-   "noLabel": {
-    "en": "Article 85"
-   },
-   "text": {
-    "en": "The institution of proceedings or the imposition of a penalty, fine or term of imprisonment under this Act or the compounding of an offence under section 80 shall not relieve any person from the liability to pay for any service tax, surcharge, penalty, fee s or other money under this Act.\nService of notices, etc."
-   }
-  },
-  {
-   "id": "MY-H020-A86",
-   "no": 86,
-   "noLabel": {
-    "en": "Article 86"
-   },
-   "text": {
-    "en": "(1) Every notice, direction or other document required by this Act to be served on any person may be served—\n(a) personally on that person;\n(b) by sending it to that person by registered post; or\n(c) by the electronic service under section 87.\n(2) The notice, direction or other document sent by registered post to a person shall be deemed to have been served on that person at the time at which it w ould have been delivered to that person in the ordinary course of the post if such notice, direction or other document was addressed—\n(a) in the case of a company, limited liability partnership, firm, society or other body of persons—\n(i) to its registered office;\n(ii) to its last known address; or Service Tax 99\n(iii) to any person authorized by it to accept service of process; and\n(b) in the case of an individual, to his last known address.\n(3) Where a person has given his consent for a notice to be served on him through the electronic service, the notice shall be deemed to have been served at the time when the electronic notice is transmitted to his account through the electronic service.\n(4) This section shall not apply to a foreign registered person.\nService of summons 86A. (1) Every summons issued by a court against any person in connection with any civil or criminal proceedings under this Act may be served on the person named therein—\n(a) by delivering the summons to the person or any adult member of his family or any of his servants residing with him at his usual or last-known place of residence;\n(b) by leaving the summons at his usual or last-known place of residence or business in an envelope addressed to the person;\n(c) by sending the summons by registered post addressed to the person at his usual or last -known place of residence or business; or\n(d) where the person is a company, a limited liability partnership, a firm, a society, an association or other body of persons—\n(i) by delivering the summons to the secretary or other like officer of the company, limited liability partnership, firm, society, association or other body 100 Laws of Malaysia  ACT 807 of persons at its registered office or principal place of business; or\n(ii) by sending the summons by registered post addressed to the company, limited liability partnership, firm, society, association or other body of persons at its registered office or principal place of business.\n(2) Any summons sent by registered post to any person in accordance with subsection (1) or by delivering the summons to the person or to any adult member of his family or any of his servant residing with him shall be deemed to be duly served on the person.\n(3) When a summons issued by a court is served, an affidavit of the service purporting to be made before an officer duly authorized to administer an oath shall be admissible in evidence.\nUse of electronic service"
-   }
-  },
-  {
-   "id": "MY-H020-A87",
-   "no": 87,
-   "noLabel": {
-    "en": "Article 87"
-   },
-   "text": {
-    "en": "(1) Notwithstanding any other provision of this Act and subject to the regulations made under this Act, the Director General may provide an electronic service to any registered user for—\n(a) the filing or furnishing of any application, return, declaration or any other document; and\n(b) the service of any notice, direction, order, permit, receipt or any other document.\n(2) Where an electronic notice is made and transmitted to the Director General, the Director General shall not be liable for any loss or damage suf fered by the registered user by reason of any error or omission of whatever nature or however arising appearing in any electronic notice obtained by the registered user under the electronic service if the error or omission was made in good faith and in the ordinary course of the discharge of the duties of the Director General or occurred or arose as a result of any defect or breakdown in the Service Tax 101 electronic service or in the equipment used for the provision of the electronic service.\n(3) Any electronic notice made and transmitted by the registered user shall be deemed to have been filed, furnished or served at the time the electronic notice is received by the Director General.\n(4) For the purposes of this section, “registered user” means any person who is authorized in writing by the Director General to gain access to and use the electronic service.\nProtection of officer of service tax from liability"
-   }
-  },
-  {
-   "id": "MY-H020-A88",
-   "no": 88,
-   "noLabel": {
-    "en": "Article 88"
-   },
-   "heading": {
-    "en": "No officer of service tax or other person employed by the"
-   },
-   "text": {
-    "en": "Government in the course of carrying out his duties under this Act shall be liable to make good any loss sustained in respect of any goods, documents, articles or things by fire, theft, damage or other causes while the goods, documents, articles or things in the lawful custody or control of the officer or other person employed by the Government in the course of carrying out his duties under this Act unless the loss is caused by his wilful neglect or default.\nRewards"
-   }
-  },
-  {
-   "id": "MY-H020-A89",
-   "no": 89,
-   "noLabel": {
-    "en": "Article 89"
-   },
-   "text": {
-    "en": "The Director General may order such rewards as he may deem fit to be paid to any officer of service tax or other person for services rendered in connection with the detection of any offences against this Act.\nPower of Director General to charge fees"
-   }
-  },
-  {
-   "id": "MY-H020-A90",
-   "no": 90,
-   "noLabel": {
-    "en": "Article 90"
-   },
-   "heading": {
-    "en": "The Director General may charge such fee as he may consider"
-   },
-   "text": {
-    "en": "reasonable in respect of any service rendered by him or any officer of service tax—\n(a) which is not required to be rendered under this Act; and 102 Laws of Malaysia  ACT 807\n(b) for which no fee is prescribed by any written law.\nPower to extend period 90A. Where, by this Act, a period is specified within which an act or thing is to be done by a person, and the Minister is satisfied that the act or thing could not be completed in that period due to the occurrence of public emergency or public health crisis, the Minister may, upon such terms and conditions as the Minister thinks fit, extend the period for the completion of the act or thing before the expiration of the period.\nPower to modify terms and conditions 90B. (1) Where terms and conditions are imposed pursuant to this Act, the Minister may, on the advice of the Director General, from time to time modify the terms and conditions for the purpose of carrying out the objects of this Act.\n(2) Before modifying the terms and conditions, notice must be given to the person bound by the terms and conditions stating—\n(a) the terms and conditions as modified; and\n(b) the date the terms and conditions as modified take effect.\n(3) The modified terms and conditions shall not take effect in less than fourteen days from the date the notice is issued under subsection (2).\n(4) For the purposes of this section, “modify” means add to, delete or vary.\nService Tax 103 Power to make regulations"
-   }
-  },
-  {
-   "id": "MY-H020-A91",
-   "no": 91,
-   "noLabel": {
-    "en": "Article 91"
-   },
-   "text": {
-    "en": "(1) The Minister may make regulations as may be necessary or expedient for the purposes of carrying into effect the provisions of this Act.\n(2) Without prejudice to the generality of subsection (1), Minister may prescribe—\n(a) all matters relating to registration of registered person;\n(b) all matters relating to taxable period;\n(c) all matters relating to determination of value of taxable service;\n(d) all matters relating to furnishing returns, declarations and payment of service tax;\n(e) all matters relating to refund and remission of service tax;\n(f) all matters relating to public ruling and customs ruling;\n(g) all matters relating to electronic service;\n(h) all matters relating to invoices, credit notes and debit notes;\n(i) all matters relating to the offices for the administration of service tax;\n(j) all fees required by this Act to be prescribed;\n(k) (Deleted by Act 851);\n(l) any other matters required by this Act to be prescribed; or\n(m) all matters relating to digital services.\n104 Laws of Malaysia  ACT 807\n(3) Any regulations made under this section may prescribe an act or omission in contravention of the regulations to be an offence and may prescribe penalties of a fine not exceeding thirty thousand ringgit or to imprisonment for a term not exceeding two ye ars or both for such offence.\nPART XIII\nSAVINGS AND TRANSITIONAL\nRegistration on the commencement date"
-   }
-  },
-  {
-   "id": "MY-H020-A92",
-   "no": 92,
-   "noLabel": {
-    "en": "Article 92"
-   },
-   "text": {
-    "en": "(1) Notwithstanding section 13, any person who provides services before the effective date which services are taxable services on the effective date shall, within thirty days from the date of the coming into operation of this Act, apply to the Director General  to be registered as a registered person if there are reasonable grounds for believing that the total value of his taxable services provided in the month of effective date and eleven months immediately succeeding that month will exceed the total value of taxable services as prescribed in subsection 12(1).\n(2) The Director General shall register the person referred to in subsection (1) with effect from the first day of the month following the month in which the application is made and the person shall charge the service tax on the taxable service provided by the person with effect from such day.\n(3) Any person who provides services before the effective date which services are taxable services on the effective date and has made an application before the eff ective date to the Director General to be registered as a registered person under this Act—\n(a) shall be deemed to have been registered in accordance with\nsection 13 on the effective date, if there are reasonable grounds for believing that the total value of  his taxable services provided in the month of the effective date and eleven months immediately succeeding that month will Service Tax 105 exceed the amount of total value of taxable services as prescribed in subsection 12(1); and\n(b) shall charge the service tax on the taxable services provided by the person with effect from the effective date.\n(4) Any person who is registered under the Goods and Services Tax Act 2014 before the effective date and provides taxable services on the effective date—\n(a) shall be deemed to have been registered in accordance with\nsection 13 on the effective date, if there are reasonable grounds for believing that the total value of his taxable services provided in the month of the effective date and eleven mo nths immediately succeeding that month will exceed the amount of total value of taxable services as prescribed in subsection 12(1); and\n(b) shall charge the service tax on the taxable services provided by the person with effect from the effective date.\nProgressive or periodic agreement"
-   }
-  },
-  {
-   "id": "MY-H020-A93",
-   "no": 93,
-   "noLabel": {
-    "en": "Article 93"
-   },
-   "text": {
-    "en": "(1) Where any taxable service is provided under an agreement for a period or progressively over a period whether or not at regular intervals and that period begins before 1 June 2018 and ends after the effective date, the proportion of the service which is attributed to the part of the period after the effective date shall be chargeable to service tax.\n(2) The services provided under subsection (1) shall be taken to be made continuously and uniformly throughout the per iod of that agreement.\n(3) Where the services referred to in subsection (1) is provided under a warranty whether expressed, implied or required by law and the value of the warranty is included in the value of the services 106 Laws of Malaysia  ACT 807 provided, no service tax shall b e charged on the services provided under such warranty.\n(4) Subsections (1) and (2) shall not apply to a provision of services where goods and services tax under the Goods and Services  Tax Act 2014 has been paid on the services to the extent covered by the invoice.\nRights granted for life"
-   }
-  },
-  {
-   "id": "MY-H020-A94",
-   "no": 94,
-   "noLabel": {
-    "en": "Article 94"
-   },
-   "text": {
-    "en": "(1) This section shall apply where—\n(a) a registered person, who is a club or other similar body, provides taxable services under an agreement;\n(b) the agreement provides whether expressly or implicitly that a right is to be granted or exercisable for the rest of the person’s life or for a period of not less than thirty years; and\n(c) the rights is granted or first exercisable before the effective date.\n(2) Where any payment for rights granted or exercisable for the rest of the person’s life or for a period of not less than thirty years is paid by existing or new members of a club or other similar body for any rights to use facilities of the club or other similar body, the provision of services on which any payment is made—\n(a) before the effective date, shall not be chargeable to service tax; and\n(b) on or after the effective date, shall be chargeable to service tax.\nService Tax 107 Things done in anticipation of the enactment of this Act"
-   }
-  },
-  {
-   "id": "MY-H020-A95",
-   "no": 95,
-   "noLabel": {
-    "en": "Article 95"
-   },
-   "text": {
-    "en": "All acts and things done by or on behalf of the Director General in preparation for or in anticipation of the enactment of this Act and any expenditure incurred in relation thereto shall be deemed to have been authorized under this Act, provided that the acts and things done are consistent with the general intention and purposes of this Act, and all rights and obligations acquired or incurred as a result of the doing of those acts or things including any expenditure incurred in relation thereto shall upon the coming into operation of this Act be deemed to be the rights and obligations of the Director General.\n108 LAWS OF MALAYSIA Act 807 SERVICE TAX ACT 2018 LIST OF AMENDMENTS Amending law Short title In force from Act 812 Finance Act 2018 01-01-2019 Act A1579 Service Tax (Amendment) Act 2018 02-01-2019 Act A1597 Service Tax (Amendment) Act 2019 1. Para. 3 (b), sections 4, 5 and 6, para. 16 (a), (b) and (c), para. 21(a), (b), (c), (d), and (e), sections 22, 23, 24 and 27, para. 28 (a), sections 38, 39, 40, 41, 42, 43 and 49, and para. 50(a)— 01-09-2019;"
-   }
-  },
-  {
-   "id": "MY-H020-A2",
+   "id": "MY-H586-A2",
    "no": 2,
    "noLabel": {
-    "en": "Article 2"
+    "en": "Section 2"
    },
+   "chapter": {},
+   "heading": {},
    "text": {
-    "en": "Section 2, para.\n3(c), (e), and (f), sections 7, 8, 9, 10, 11, 12, 13, 14 and 15, para. 16(d), sections 17, 18, 19, and 20, para. 21(f), section 25 and 26, para. 28 (b), sections 29, 30, 31, 32, 33, 34, 35, 36, 44, 45, 4 6, 47, and 48, para. 50 (b), (c), and (d), sections 51 and 52—01-10-2019;\nService Tax 109 Amending law Short title In force from"
+    "en": "2. (1) In this Act, unless the context otherwise requires—\n \"this Act\" includes any subsidiary legislation made under this\nAct;\nLAWS OF MALAYSIA\nAct 807\nSERVICE TAX ACT 2018\nLaws of Malaysia\nAct 807\n \"service tax\" means the tax payable under this Act;\n \"prescribed\" means prescribed by the Minister in the regulations\nmade under this Act;\n \"document\" has the meaning assigned to it under section 3 of\nthe Evidence Act 1950 [ Act 56 ];\n \"licensed warehouse\" means any warehouse or place licensed\nunder section 65 of the Customs Act 1967 [ Act 235 ];\n \"licensed manufacturing warehouse\" means a licensed\nwarehouse in respect of which an additional licence to carry on\nany manufacturing process has been granted under section 65 a\nof the Customs Act 1967;\n \"designated areas\" means Labuan, Langkawi and Tioman;\n \"special areas\" means any free zone, licensed warehouse and\nlicensed manufacturing warehouse, and the Joint Development\nArea;\n \"Joint Development Area\" has the meaning assigned to it under\nsection 2 of the Malaysia-Thailand Joint Authority Act 1990\n[Act 440 ];\n \"customs ruling\" means any customs ruling made by the Director\nGeneral under section 43;\n \"Director General\" means the Director General of Customs and\nExcise appointed under subsection 3(1) of the Customs Act 1967;\n \"computer\" has the meaning assigned to it under section 3 of\nthe Evidence Act 1950;\n \"Labuan\" means the Island of Labuan and its dependent islands,\nnamely, Rusukan Besar, Rusukan Kecil, Keraman, Burong, Papan\nand Daat;\n \"Langkawi\" means the Island of Langkawi and all adjacent\nislands lying nearer to Langkawi Island than to the mainland;\nService Tax\n \"Minister\" means the Minister charged with the responsibility\nfor finance;\n \"registered person\" means a person registered under section 13\nor 14;\n \"taxable person\" means a registered person or a person who\nis liable to be registered under section 12;\n \"officer of service tax\" means any officer of customs as defined\nin subsection 2(1) of the Customs Act 1967 and includes any\nperson employed under subsection 3(3);\n \"proper officer of service tax\" means any senior officer of\nservice tax or officer of service tax acting in the fulfilment of\nhis duties under this Act, whether such duties are assigned to\nhim specially or generally, or expressly or by implication;\n \"senior officer of service tax\" means any senior officer of\ncustoms as defined in subsection 2(1) of the Customs Act 1967;\n \"regulations\" means regulations made under section 91;\n \"taxable service\" means any service which is prescribed to be\na taxable service under section 8;\n \"limited liability partnership\" has the meaning assigned to it\nunder section 2 of the Limited Liability Partnership Act 2012\n[Act 743 ];\n \"business\" includes any trade, commerce, profession or vocation,\nor any concern in the nature of trade, commerce, profession or\nvocation;\n \"surcharge\" means the surcharge referred to in subsection 32(3);\n \"effective date\" means the date appointed under subsection 1(3);\n \"taxable period\" means any period as determined or provided\nfor under section 25;\n \"Tioman\" means the Island of Tioman and the islands of Soyak,\nRengis, Tumok, Tulai, Chebeh, Labas, Sepoi and Jahat;\nLaws of Malaysia\nAct 807\n \"Customs Appeal Tribunal\" means the Customs Appeal Tribunal\nestablished under section 141 b of the Customs Act 1967;\n \"free zone\" has the meaning assigned to it under subsection 2(1)\nof the Free Zones Act 1990 [ Act 438 ].\nPart II\nADMINISTRATION\nFunctions and powers of Director General and other officers"
    }
   },
   {
-   "id": "MY-H020-A3",
+   "id": "MY-H586-A3",
    "no": 3,
    "noLabel": {
-    "en": "Article 3"
+    "en": "Section 3"
    },
-   "heading": {
-    "en": "Para. 3 (a) and"
+   "chapter": {
+    "en": "Part II"
    },
+   "heading": {},
    "text": {
-    "en": "3(d), and section 37— 01-01-2020 Act A1632 Service Tax (Amendment) Act 2020 01-01-2021 Act A1672 Service Tax (Amendment) Act 2022 01-01-2023 Act 851 Finance (No. 2) Act 2023 01-01-2024 exc. s.127;\n30-12-2023 Act A1719 Service Tax (Amendment) Act 2024 01-12-2024 110 LAWS OF MALAYSIA Act 807 SERVICE TAX ACT 2018 LIST OF SECTIONS AMENDED Section Amending authority In force from 1A Act A1597 01-10-2019 2 Act 812 Act A1597 Act A1632 Act A1719 01-01-2019 01-09-2019;\n01-10-2019;\n01-01-2020 01-01-2021 01-01-2024 7 Act 812 01-01-2019 9 Act 812 Act A1597 01-01-2019 01-09-2019 10 Act A1597 Act 851 01-09-2019 30-12-2023 11 Act 812 Act A1597 01-01-2019 01-09-2019 12 Act A1597 01-10-2019 13 Act A1597 Act 851 01-10-2019 01-01-2024 14 Act A1597 Act 851 01-10-2019 01-01-2024 15 Act A1597 01-10-2019 16 Act A1597 01-10-2019 17 Act A1597 Act 851 01-10-2019 01-01-2024 18 Act A1597 Act A1632 01-10-2019 01-01-2021 Service Tax 111 Section Amending authority In force from 19 Act A1597 Act A1632 01-10-2019 01-01-2021 20 Act A1597 01-10-2019 20A Act A1632 01-01-2021 21 Act A1597 01-09-2019;\n01-10-2019 22 Act A1597 01-10-2019 23 Act A1597 01-10-2019 24 Act 812 Act A1597 01-01-2019 01-10-2019 25 Act A1597 01-10-2019 26 Act A1597 Act 851 01-09-2019;\n01-10-2019 01-01-2024 26A Act 812 Act A1597 Act 851 01-01-2019 01-09-2019 01-01-2024 27 Act 812 Act A1597 Act A1632 01-01-2019 01-09-2019 01-01-2021 27A Act A1597 01-09-2019 28 Act A1597 01-10-2019 29 Act A1597 01-10-2019 31 Act A1597 Act A1632 01-09-2019 01-01-2021 32 Act A1597 Act A1632 01-09-2019;\n01-10-2019 01-01-2021 34 Act A1597 01-10-2019 34A Act A1632 01-01-2021 35 Act A1597 01-10-2019 36 Act A1597 01-10-2019 38 Act 851 01-01-2024 38A Act A1672 01-01-2023 112 Laws of Malaysia ACT 807 Section Amending authority In force from 39 Act A1597 Act 851 01-10-2019 01-01-2024 40 Act A1597 Act A1632 01-10-2019 01-01-2021 40A Act A1597 01-10-2019 42 Act 851 01-01-2024 46A Act A1597 01-10-2019 51A Act A1597 01-01-2019 Part IXA Act A1597 01-01-2020 56A Act A1579 Act A1597 Act A1632 Act A1672 02-01-2019 01-01-2020 01-01-2021 01-01-2023 56B Act A1597 01-01-2020 56C Act A1597 Act 851 01-01-2020 01-01-2024 56D Act A1597 Act A1672 01-01-2020 01-01-2023 56E Act A1597 Act A1672 01-01-2020 01-01-2023 56F−56K Act A1597 01-01-2020 56GA Act A1632 01-01-2021 56H Act A1632 Act 851 01-01-2021 01-01-2024 62 Act A1632 01-01-2021 62A Act A1632 01-01-2021 63A Act A1632 01-01-2021 63B Act A1632 01-01-2021 65 Act A1597 01-09-2019 65A Act A1632 01-01-2021 68 Act A1597 01-09-2019 69A Act A1597 01-09-2019 71 Act A1597 01-09-2019 Service Tax 113 Section Amending authority In force from 73A Act A1632 01-01-2021 75 Act A1597 Act 851 01-09-2019 01-01-2024 76 Act A1597 01-09-2019 81 Act A1597 Act 851 01-10-2019 01-01-2024 82 Act A1597 Act A1632 01-10-2019 01-01-2021 83 Act A1597 Act A1632 01-10-2019 01-01-2021 84 Act A1597 01-10-2019 86 Act A1597 01-10-2019 86A Act A1597 01-09-2019 90A Act A1672 01-01-2023 90B Act A1672 01-01-2023 91 Act A1597 Act 851 01-09-2019;\n01-10-2019 01-01-2024"
+    "en": "3. (1)  The Director General shall have the superintendence of\nall matters relating to service tax, subject to the direction and\ncontrol of the Minister.\n (2) Subject to the general direction and supervision of the Director\nGeneral, a senior officer of service tax shall have and exercise\nall powers conferred on the Director General by or under this\nAct, other than those conferred under sections 6, 40, 41 and 90.\n (3)  Any person, other than an officer of service tax may be\nappointed by, or employed with the concurrence of, the Director\nGeneral for any duty or service relating to service tax and such\nperson shall be deemed to be an officer of service tax for that\nduty or service.\n (4) The Director General may, by authorization in writing,\nconfer on any officer of service tax not being a senior officer of\nservice tax all or any of the powers of a senior officer of service\ntax for a period not exceeding ninety days in respect of any one\nauthorization.\n (5)  Any officer of service tax shall have the duties and powers\nto enforce and ensure due compliance with the provisions of this\nAct.\nPersons appointed or employed to be public servants"
+   }
+  },
+  {
+   "id": "MY-H586-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "chapter": {
+    "en": "Part II"
+   },
+   "heading": {},
+   "text": {
+    "en": "4. Every person appointed or employed under subsection 3(3) for\nany duty or service relating to the service tax shall be deemed\nto be a public servant within the meaning of the Penal Code\n[Act 574 ].\nService Tax\nRecognition of office"
+   }
+  },
+  {
+   "id": "MY-H586-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "chapter": {
+    "en": "Part II"
+   },
+   "heading": {},
+   "text": {
+    "en": "5. (1)  Every officer of service tax when discharging his duties\nshall, on demand made by any person, declare his office and\nproduce to the person the authority card or badge prescribed\nunder section 8 a of the Customs Act 1967 or in the case of any\nofficer of service tax not being an officer of customs, any other\nauthority card as may be approved by the Director General.\n (2) It shall not be an offence for any person to refuse to\ncomply with any request, demand or order made by any officer\nof service tax acting or purporting to act under this Act if the\nofficer refuses to declare his office and produce his authority\ncard or badge on demand being made by the person.\n (3) Any person, not being an officer of service tax, who\nunlawfully wears, uses, possesses or displays, otherwise than in\nthe course of a stage play or other theatrical performance—\n (a) any uniform prescribed under section 8 a of the Customs\nAct 1967 or any dress having the appearance of, or\nbearing the distinctive marks of, such uniform; or\n (b) any prescribed authority card or badge, or authority card\nas approved by the Director General, referred to in\nsubsection (1),\ncommits an offence and shall, on conviction, be liable to a fine\nnot exceeding fifty thousand ringgit or to imprisonment for a\nterm not exceeding three years or to both.\nConfidentiality of information"
+   }
+  },
+  {
+   "id": "MY-H586-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "chapter": {
+    "en": "Part II"
+   },
+   "heading": {},
+   "text": {
+    "en": "6. (1) Every person, having any official duty or being appointed\nor employed under this Act, shall regard and deal with all\ndocuments, information, returns or declarations relating to the\nbusiness or value of the provision of services by any taxable\nperson as confidential.\n (2) Subject to subsection (4), every person having possession\nor control over any document, information, return or declaration\nor copies thereof in relation to the business or the value of the\nLaws of Malaysia\nAct 807\nprovision of services by any taxable person, who at any time,\notherwise than for the purposes of this Act or with the express\nauthority of the Director General—\n (a) communicates or attempts to communicate the information\nor anything contained in the document, return or declaration\nor copies thereof to any person; or\n (b) suffers or permits any person to have access to any\ninformation or to anything contained in the document,\nreturn or declaration or copies thereof,\ncommits an offence.\n (3) No person having any official duty or being appointed or\nemployed under this Act or who is referred to in subsection (4)\nshall be required to produce in any matters or proceedings in any\ncourt or tribunal any document, information, return or declaration\nor to divulge or communicate in the matters or proceedings of\nany matter or thing, coming under his notice in the performance\nof his duties under this Act, except as may be necessary for the\npurposes of carrying into effect the provisions of this Act or in\norder to institute a prosecution or in the course of a prosecution\nfor any offence committed under this Act.\n (4) The Director General may, as he deems fit, transmit or\ncommunicate any document, information, return or declaration\nreferred to in subsection (1) or anything contained therein, to the\nChief Statistician of the Department of Statistics Malaysia which\nmay be required in the performance of his official duty.\n (5) Notwithstanding subsection (4), the Minister may, as he\ndeems fit, allow the Director General to transmit or communicate\nany document, information, return or declaration referred to in\nsubsection (1) or anything contained therein to any other person.\nPart III\nIMPOSITION AND SCOPE OF SERVICE TAX\nImposition and scope of service tax"
+   }
+  },
+  {
+   "id": "MY-H586-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7"
+   },
+   "chapter": {
+    "en": "Part III"
+   },
+   "heading": {},
+   "text": {
+    "en": "7. A tax to be known as service tax shall be charged and levied\non any taxable services provided in Malaysia by a registered\nperson in carrying on his business.\nService Tax\nTaxable service"
+   }
+  },
+  {
+   "id": "MY-H586-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8"
+   },
+   "chapter": {
+    "en": "Part III"
+   },
+   "heading": {},
+   "text": {
+    "en": "8. The Minister may prescribe any service to be a taxable service.\nDetermination of value of taxable service"
+   }
+  },
+  {
+   "id": "MY-H586-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9"
+   },
+   "chapter": {
+    "en": "Part III"
+   },
+   "heading": {},
+   "text": {
+    "en": "9. (1) For the purposes of this Act, the value of taxable service\non which service tax is payable shall be determined as follows:\n (a)   in the case of taxable service for—\n (i) the sale of goods by a taxable person to—\n (A) a person not connected with the taxable\nperson, the actual price for which the\ngoods are sold; or\n (B) a person connected with the taxable person,\nthe price at which the goods would have\nbeen sold in the ordinary course of business\nto a person not connected with the taxable\nperson; or\n (ii) the provision of goods, where the goods are\nprovided for free, the price at which the goods\nwould have been sold in the ordinary course\nof business to a person not connected with the\ntaxable person;\n (b) in the case of taxable service, other than the taxable\nservice specified in paragraph (a)—\n (i) provided by a taxable person to a person not\nconnected with the taxable person—\n ( A) the actual value of the taxable service\nprovided; or\n (B) in the case of premium for insurance policy,\nor takaful contribution for takaful certificate,\nthe actual premium or contribution paid;\nLaws of Malaysia\nAct 807\n (ii) provided by a taxable person to a person connected\nwith the taxable person, the value of the taxable\nservice which would have been provided in\nthe ordinary course of business to a person not\nconnected with the taxable person; or\n (iii)  where the taxable service are provided for free, the\nvalue of taxable service which would have been\nprovided in the ordinary course of business to\na person not connected with the taxable person;\nor\n (c) in the case of betting and gaming which are prescribed\nto be taxable services, the value of such betting and\ngaming shall be as prescribed.\n (2) For the purpose of this section—\n \"goods\" means goods as prescribed;\n \"person connected with the taxable person\" means a person\nconnected with the taxable person as prescribed.\nRate of service tax"
+   }
+  },
+  {
+   "id": "MY-H586-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10"
+   },
+   "chapter": {
+    "en": "Part III"
+   },
+   "heading": {},
+   "text": {
+    "en": "10. (1) Service tax shall be charged and levied at the rate fixed in\naccordance with subsection (2) on the taxable services by reference\nto the value of the taxable services provided as determined under\nsection 9.\n (2)  The Minister may, by order published in the Gazette —\n (a)   fix the rate of service tax to be charged and levied under\nthis Act; and\n (b)   vary or amend the rate of service tax fixed under\nparagraph (a).\n (3)  Any order made under subsection (2) shall—\n (a) be laid before the Dewan Rakyat at the next meeting of\nthe Dewan Rakyat; and\nService Tax\n (b) at the expiration of one hundred and twenty days from\nbeing laid under paragraph (a) or of such extended period\nas the Dewan Rakyat may, by resolution, direct, cease\nto have effect in whole if the order is not confirmed,\nor in part in so far as the order is not confirmed, by a\nresolution passed by the Dewan Rakyat within the said\none hundred and twenty days or, if such period has been\nextended, within such extended period.\n (4)  Where an order ceases to have effect in whole or in part\nas provided under subsection (3), any service tax charged and\nlevied in pursuance of the order or such part of the order as\nceases to have effect shall, subject to subsections (5) and (6), be\nrefundable to the persons by whom such service tax was paid.\n (5)  Unless the Minister otherwise directs, no service tax\nrefundable under subsection (4) shall be refunded, unless the\nperson by whom the service tax was paid makes a claim in\nwriting to the Director General within one year from the date on\nwhich the order ceases to have effect in whole or in part, and\nthe claim shall contain such particulars as the Director General\nmay require.\n (6)  The Director General may reduce or disallow any service\ntax refundable under subsection (4) to the extent that the refund\nwould unjustly enrich the person by whom the service tax was\npaid.\nService tax due"
+   }
+  },
+  {
+   "id": "MY-H586-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11"
+   },
+   "chapter": {
+    "en": "Part III"
+   },
+   "heading": {},
+   "text": {
+    "en": "11. (1)  The service tax chargeable under section 7 shall be due\nat the time when payment is received for the taxable service\nprovided to the customer by the registered person.\n (2)  Where the whole or any part of the payment for any taxable\nservice provided by the registered person is not received from\nthe customer within a period of twelve months from the date of\nthe invoice for the taxable service provided, service tax shall be\ndue on the day following that period of twelve months.\nLaws of Malaysia\nAct 807\n (3)  Notwithstanding subsection (1)—\n (a) the service tax required to be accounted in any return\nmade under subsection 26(3) shall be due on the day\nthe return is required to be furnished to the Director\nGeneral;\n (b) the service tax in respect of betting and gaming which\nare prescribed to be taxable services shall be due at the\ntime as prescribed;\n (c) where an arrangement or agreement for the provision of\nany taxable service is made by any person, who is a\ntaxable person under this Act, within the period beginning\nfrom 1 June 2018 and ending immediately before the\neffective date, and the taxable service is provided or\nperformed on or after the effective date—\n (i) the arrangement or agreement for the provision\nof such taxable service shall be deemed to have\nbeen made on the date such taxable service\nis provided or performed notwithstanding any\npayment, wholly or partly, is received or invoice\nis issued, for such taxable service during such\nperiod;\n (ii) any payment received within such period or on\nor after the effective date, or invoice issued\nwithin such period, shall be deemed to have\nbeen received or issued on the date such taxable\nservice is provided or performed; and\n (iii) service tax shall be charged and levied on such\ntaxable service and shall become due on the date\nsuch taxable service is provided or performed.\n (4) Where the taxable service referred to in paragraph (3) (c)\nare betting and gaming, the service tax in respect of such\nbetting and gaming shall be due at the time as prescribed under\nparagraph (3) (b).\nService Tax\nPart IV\nREGISTRATION\nLiability to be registered"
+   }
+  },
+  {
+   "id": "MY-H586-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "12. (1) The Minister may prescribe—\n (a) any person who provides any taxable service; and\n (b) the total value of taxable services of the person referred\nto in paragraph (a),\nfor the purpose of registration of the person under this Part.\n (2) Any person who provides any taxable service is liable to\nbe registered at the following time, whichever is the earlier:\n (a)  at the end of any month, where the total value of all his\ntaxable services in that month and the eleven months\nimmediately preceding that month has exceeded the total\nvalue of taxable service prescribed under subsection (1);\nor\n (b)  at the end of any month, where there are reasonable\ngrounds for believing that the total value of all his\ntaxable services in that month and the eleven months\nimmediately succeeding that month will exceed the total\nvalue of taxable services prescribed under subsection (1).\n (3) Notwithstanding subsection (2), the Minister may prescribe\nthat any person who provides taxable services shall be liable to\nbe registered on the date of the commencement of the business.\n (4) The total value of all taxable services of a person providing\ntaxable services in the month and the eleven months immediately\npreceding that month referred to in paragraph (2) (a) shall be\ndisregarded if—\n (a)  the registration of the person providing the taxable\nservices is cancelled, otherwise than under subsection 20(3),\nduring that period; and\nLaws of Malaysia\nAct 807\n (b) the Director General is satisfied that before the person's\nregistration is cancelled, he has given all information\nrequired by the Director General in order to determine\nwhether to cancel the registration or not.\nApplication for registration"
+   }
+  },
+  {
+   "id": "MY-H586-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "13. (1)  Any person who is liable to be registered under section 12\nshall apply to the Director General for registration as a registered\nperson in the prescribed form not later than the last day of the\nmonth following the month in which he is liable to be registered\nas referred to in paragraph 12(2) (a) or (b) or subsection 12(3).\n (2) Upon receipt of the application under subsection (1), the\nDirector General may approve the registration, subject to such\nconditions as he deems fit.\n (3) The Director General shall register the person under\nsubsection (1) with effect from the first day of the month following\nthe month in which the application under subsection (1) is made\nor from such earlier date as may be agreed between the Director\nGeneral and the person but such date shall not be earlier than\nthe date the person becomes liable to be registered.\n (4) Where any person fails to comply with subsection (1), the\nDirector General shall register that person on the date as the\nDirector General may determine but not earlier than the date he\nis liable to be registered under section 12.\n (5) Any person who fails to comply with subsection (1) commits\nan offence.\nVoluntary registration"
+   }
+  },
+  {
+   "id": "MY-H586-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "14. (1) Any person who is not liable to be registered under\nsection 12 may apply to the Director General for registration as\na registered person.\n (2) Upon receipt of the application under subsection (1), the\nDirector General may approve the registration from such date as\nhe may determine subject to such conditions as he deems fit.\nService Tax\nDirection to treat persons as single taxable person"
+   }
+  },
+  {
+   "id": "MY-H586-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "15. (1) Notwithstanding section 12, where the Director General\nis satisfied that any separation of business activities is artificial,\nhe may make a direction requiring that—\n (a) the persons named in that direction be treated as a single\ntaxable person carrying on the business activities described\nin that direction with effect from the date as specified\nin the direction; and\n (b) the single taxable person referred to in paragraph (a) to\nbe registered with effect from the date as specified in\nthe direction.\n (2) For the purposes of subsection (1), in determining whether\nany separation of business activities is artificial, regard shall be\nhad to the extent to which the different persons carrying on those\nbusiness activities are closely bound to one another by financial,\neconomic and organizational links.\n (3) The Director General may make a direction under\nsubsection (1) naming any person if the Director General is\nsatisfied that—\n (a) the person is providing or has provided any taxable\nservice;\n (b) the activities in the course of which the person provides\nor has provided those taxable service form only part\nof certain activities in the business and that the other\nactivities in that business, whether or not that other\nactivities are similar to the activities carried on by that\nperson, are being carried on concurrently or previously,\nor both, by one or more other persons; and\n (c) if all the taxable services provided in that business were\ntaken into account, the person carrying on that business\nwould, at the time of such direction is made, be required\nto be registered by virtue of section 12.\n (4)  Any direction made under subsection (1) shall be served\non each of the persons named in it.\nLaws of Malaysia\nAct 807\n (5)  Where, after a direction had been made under subsection (1),\nit appears to the Director General that any person who has not\nbeen named in that direction is providing any taxable services in\nthe course of activities which should be regarded as part of the\nbusiness activities, the Director General may make and serve on\nthat person a supplementary direction adding that person's name to\nthose of the persons named in the direction under subsection (1).\n (6) Upon the addition of the person's name in the direction\nunder subsection (5), that person shall be treated as a single\ntaxable person carrying on the business activities described in\nthe direction under subsection (1) with effect from the date as\nspecified in the direction.\n (7) Where, immediately before any direction including a\nsupplementary direction is made, any person named in the direction\nhas been registered in respect of the taxable service provided by\nhim as specified in subsection (3) or (5), his registration shall\nbe revoked by the Director General with effect from the date the\nsingle taxable person is registered under subsection (1).\n (8) Upon the revocation of registration under subsection (7),\nthe person whose registration has been revoked together with all\nother persons named in the direction under subsection (1) shall\nbe treated as a single taxable person.\n (9) In relation to a business specified in a direction, the\npersons named in such direction together with any person named\nin a supplementary direction relating to that business, being the\npersons who together are to be treated as a single taxable person,\nare referred to as \"the constituent members\" in subsections (10)\nand (11).\n (10) Where any direction is made under subsection (1)—\n (a) the single taxable person carrying on the business specified\nin the direction shall be registered in such name as the\npersons named in the direction may jointly nominate by\nnotice in writing given to the Director General not later\nthan fourteen days after the date the direction is served\non the last of such persons named in the direction or,\nin default of such nomination, in such name as may be\nspecified in the direction;\nService Tax\n (b) any taxable service provided by one of the constituent\nmembers in the course of the activities of the single\ntaxable person shall be treated as being taxable service\nprovided by the single taxable person;\n (c) each of the constituent members shall be jointly and\nseverally liable for any service tax due and payable by\nthe single taxable person;\n (d) without prejudice to paragraph (c), any failure by the\nsingle taxable person to comply with any requirement\nimposed under this Act shall be treated as a failure by\neach of the constituent members severally; and\n (e) subject to paragraphs (a) to (d), the constituent members\nshall be treated as a partnership carrying on the business\nof the single taxable person and any question as to the\nscope of the activities of that business at any time shall\nbe determined accordingly.\n (11) Where it appears to the Director General that any person\nwho is one of the constituent members should no longer be\nregarded as such for the purposes of paragraphs (10) (c) and (d)\nand the Director General gives notice in writing to that effect,\nthat person—\n (a) shall not have any liability by virtue of paragraphs (10) (c)\nand (d) for anything done after the date specified in\nthat notice; and\n (b) on the date as specified in the notice, shall be treated as\nhaving ceased to be a member of the partnership referred\nto in paragraph (10) (e).\nRegistration of partnership"
+   }
+  },
+  {
+   "id": "MY-H586-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "16. (1)  The registration of—\n (a) persons carrying on a business in a partnership as a\nregistered person shall be in the name of the firm; and\n (b) the same persons carrying on separate businesses in a\npartnership as a registered person shall be in the separate\nnames of the respective firms.\nLaws of Malaysia\nAct 807\n (2)  In determining whether taxable services are provided to or\nby the persons referred to in subsection (1), no account shall be\ntaken of any change in the partnership.\n (3) Any person who ceases to be a partner in a partnership\nshall—\n (a) notify the Director General in writing of the date of\ncessation within thirty days from the date of cessation;\nand\n (b) pay for the proportion of the partnership's liability on\nany service tax due and payable on any taxable services\nprovided by the partnership until the date of cessation.\n (4)  Where any person ceases to be a partner in a partnership\nunder subsection (3) during any taxable period, any notice, whether\nof assessment or otherwise, which is served on the partnership and\nrelates to the taxable period or to any other taxable period during\nthe whole or part of which he was a partner in the partnership,\nshall be deemed as to have been served also on him.\n (5)  Notwithstanding any written law to the contrary, any notice,\nwhether of assessment or otherwise, which is addressed to a\npartnership by the name in which it is registered under this Act,\nand is served in accordance with this Act shall be deemed—\n (a) as having been properly served on the partnership; and\n (b) where subsection (4) applies, as having been properly\nserved on any previous partner.\n (6)  Subsections (1) and (3) shall not affect the extent to which\na partner is liable for service tax owed by the firm under any\nother written law.\n (7)  Where a person is a partner in a firm during part only\nof a taxable period, his liability for service tax on any taxable\nservice provided by the firm during the taxable period shall be\nthe proportion of the firm's liability as may be just.\n (8)  Where any notice is required to be given by a partnership\nunder this Act, it shall be the joint and several liabilities of all\npartners to give the notice, except that if a notice is given by\nany of the partners, it shall be regarded as sufficient compliance\nwith the requirement.\nService Tax\n (9)  Any person who contravenes paragraph (3) (a) or (b) commits\nan offence.\n (10) For the purposes of this section, a partnership excludes\na limited liability partnership.\nRegistration of branches or divisions"
+   }
+  },
+  {
+   "id": "MY-H586-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "17. (1)  Where any business of a registered person is carried on\nby one or more branches or divisions, the registered person may\napply to the Director General, in the prescribed form, for any\nof the branches or divisions to be registered in the name of the\nbranch or division.\n (2)  The Director General may approve an application made\nunder subsection (1) subject to such conditions as he deems\nfit if he is satisfied that the registered person has fulfilled the\nfollowing requirements:\n (a) it is likely to cause real difficulty for the registered person\nto submit a single return in respect of all the branches\nor divisions but for the separate registration;\n (b) each branch or division maintains a separate account in\nrespect of its activities;\n (c) each branch or division is separately identifiable by\nreference to the nature of the activities carried on by\nor the location of the branch or division; and\n (d) each branch or division has the same taxable period.\n (3) The Director General may, at any time, by notice in writing\nto the registered person, cancel the registration approved under\nsubsection (2) in respect of any or all of the branches or divisions\nif he is satisfied that—\n (a) the registered person has failed to comply with any condition\nimposed by the Director General under subsection (2);\n (b) any of the requirements referred to in subsection (2) has\nceased to apply;\nLaws of Malaysia\nAct 807\n (c) the registered person has provided any false, misleading\nor inaccurate declaration or information in his application\nunder subsection (1); or\n (d) it is necessary for the protection of the revenue.\n (4)  Where the Director General cancels the registration in\naccordance with subsection (3), the cancellation shall have effect\nfrom the date as the Director General may determine.\n\n (5)  Subject to subsection (6), the registered person may apply\nin writing to the Director General for any branch or division\nseparately registered under subsection (2) to cease to be so\nregistered, and the Director General may cancel the separate\nregistration with effect from the date of application or from such\nlater date as the Director General may determine.\n (6)  A registered person registered under subsection (2) shall\nremain registered for a period of not less than two years or such\nother shorter period as the Director General may determine.\nCessation of liability to be registered"
+   }
+  },
+  {
+   "id": "MY-H586-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "18. (1)  Subject to subsection (2), any registered person shall\ncease to be liable to be registered at the end of any month where\nthe Director General is satisfied that the total value of all his\ntaxable services in that month and the eleven months immediately\nsucceeding that month (hereinafter referred to as \"the period\nof twelve months\") does not exceed the total value of taxable\nservices prescribed under paragraph 12(1) (b).\n (2) A registered person shall not cease to be liable to be\nregistered by virtue of subsection (1) where the Director General is\nsatisfied that the reason the total value of all his taxable services\ndoes not exceed the total value of taxable services prescribed\nunder paragraph 12(1) (b) is that in the period of twelve months\nreferred to in subsection (1) he temporarily ceases providing such\ntaxable services, or suspends providing such taxable services, for\na period of thirty days or more.\nService Tax\nNotification of cessation of liability"
+   }
+  },
+  {
+   "id": "MY-H586-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "19. (1)  A person registered under section 13 or 14—\n (a) who ceases to carry on business of providing taxable\nservices; or\n (b) who ceases to be liable to be registered under section 18,\nas the case may be, shall notify the Director General in writing\nof that fact and the date of cessation within thirty days from the\ndate of cessation.\n (2)  Any person who contravenes subsection (1) commits an\noffence.\nCancellation of registration"
+   }
+  },
+  {
+   "id": "MY-H586-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "20. (1) Where a registered person makes a notification under\nsection 19, the Director General may cancel the person's\nregistration from the date the registered person ceased to provide\ntaxable services or ceased to be liable to be registered under\nsection 18, as the case may be, or from such later date as the\nDirector General may determine if he is satisfied that the registered\nperson can be deregistered.\n (2)  Where there is no notification made under section 19 and\nthe Director General is satisfied that a registered person has\nceased to provide taxable services or has ceased to be liable to\nbe registered under section 18, the Director General may cancel\nhis registration from the date the registered person ceased to\nprovide taxable services or ceased to be liable to be registered\nunder section 18, as the case may be, or from such later date as\nthe Director General may determine.\n (3)  Where the Director General is satisfied that on the day on\nwhich a person was registered—\n (a) in the case of a person who was registered under\nsection 13, the person was not liable to be registered\nunder section 12 or has ceased to provide taxable\nservices; or\nLaws of Malaysia\nAct 807\n (b) in the case of a person who was registered under\nsection 14, the person was not providing taxable services\nor has ceased to provide taxable services,\nthe Director General may cancel the registration of such person\nwith effect from the date as determined by the Director General\nin the notification in writing to such person.\n (4) The Director General may cancel the registration of a\nregistered person under subsection 14(2) if the registered person is\nin breach of any conditions imposed in relation to such registration\nwith effect from the date of the breach or from such later date\nas determined by the Director General.\nPart V\nACCOUNTING, ASSESSMENT, RECOVERY, ETC.\nInvoices"
+   }
+  },
+  {
+   "id": "MY-H586-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "21. (1)  Every registered person who provides any taxable service\nshall issue an invoice containing prescribed particulars in the\nnational language or English language to the customer in respect\nof the transaction.\n (2)  No invoice showing an amount which purports to be service\ntax shall be issued on the provision of services—\n (a) which are not taxable services; or\n (b) by a person who is not a registered person.\n (3)  The amount of service tax payable shall be collected by\nthe registered person from the customer in addition to the value\nand any other amount due and payable by the customer in respect\nof the taxable services.\n (4) Any person who contravenes subsection (1), (2) or (3)\ncommits an offence.\nService Tax\nProduction of invoices by computer"
+   }
+  },
+  {
+   "id": "MY-H586-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "22. For the purposes of any provision  under this Act relating to\nan invoice, a registered person shall be treated as having issued\nan invoice to a customer notwithstanding that there is no delivery\nof any equivalent document in paper form to the customer if the\nprescribed particulars referred to in subsection 21(1) are recorded\nin a computer and—\n (a) are transmitted or made available to the customer by\nelectronic means; or\n (b) are produced on any material other than paper and are\ndelivered to the customer.\nCredit notes and debit notes"
+   }
+  },
+  {
+   "id": "MY-H586-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "23. Where any taxable service is provided by any registered\nperson which involves the issuance and receipt of credit notes\nor debit notes under the prescribed circumstances and conditions,\nsuch registered person shall make deduction or addition of service\ntax in his returns accordingly, and the credit notes and debit notes\nshall contain the prescribed particulars.\nDuty to keep records"
+   }
+  },
+  {
+   "id": "MY-H586-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "24. (1)  Every taxable person shall keep complete and true records\nwritten up to date of all transactions which affect or may affect\nhis liability to service tax, including the following records:\n (a) all records of provision of taxable services by or to that\ntaxable person including invoices, receipts, debit notes\nand credit notes; and\n (b) all other records as the Director General may determine.\n (2)  Any record kept under this section shall be—\n (a) preserved for a period of seven years from the latest date\nto which the record relates;\n (b) in the national language or English language; and\nLaws of Malaysia\nAct 807\n (c) kept in Malaysia, except as otherwise approved by the\nDirector General and subject to such conditions as he\ndeems fit.\n (3) Where the record is in an electronically readable form, the\nrecord shall be kept in such manner as to enable the record to\nbe readily accessible and convertible into writing.\n (4) Where the record is originally in a manual form and is\nsubsequently converted into an electronic form, the record shall\nbe retained in its original form prior to the conversion.\n (5) A copy of the record shall be admissible in evidence in\nany proceedings to the same extent as the record itself.\n (6) Any person who contravenes subsection (1), (2), (3) or (4)\ncommits an offence and shall, on conviction, be liable to a fine\nnot exceeding fifty thousand ringgit or to imprisonment for a\nterm not exceeding three years or to both.\nTaxable period"
+   }
+  },
+  {
+   "id": "MY-H586-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "25. (1) The first taxable period of every taxable person\nshall begin from the date he should have been registered under\nsection 13 and end on the last day of the following month and\nthe subsequent taxable period shall be a period of two months\nending on the last day of any month of any calendar year.\n (2) A taxable person may apply in writing to the Director\nGeneral for a taxable period other than the period as determined\nunder subsection (1).\n (3) The Director General may, upon receiving any application\nunder subsection (2)—\n (a) allow the application and the taxable period shall be the\nperiod as applied for;\n (b) refuse the application and the taxable period shall remain\nas determined under subsection (1); or\n (c) vary the length of the taxable period or the date on which\nthe taxable period begins or ends.\nService Tax\n (4) The Director General may, as he deems fit, reassign the\ntaxable person to any taxable period other than the period to which\nhe has been previously determined under subsection (1) or (3).\nFurnishing of returns and payment of service tax due and\npayable"
+   }
+  },
+  {
+   "id": "MY-H586-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "26. (1)  Every taxable person shall, in respect of his taxable\nperiod, account for the service tax due in a return as may be\nprescribed and the return shall be furnished to the Director\nGeneral in the prescribed manner not later than the last day of\nthe month following the end of his taxable period to which the\nreturn relates.\n (2)  Where a taxable period has been varied under\nparagraph 25(3) (c) and notwithstanding subsection (1), the return\nshall be furnished within thirty days from the end of the varied\ntaxable period.\n (3)  A registered person who ceases to be liable to be registered\nunder section 18 or ceases to carry on business of providing\ntaxable services under section 19 shall, not later than thirty days\nafter such cessation, or such later date as the Director General\nmay allow, furnish a return containing particulars as the Director\nGeneral may determine in respect of that part of the last taxable\nperiod during which the person was registered.\n (4) Any taxable person who is required to furnish a return\nunder this section shall pay to the Director General the amount\nof service tax due and payable by him in respect of the taxable\nperiod to which the return relates not later than the last day on\nwhich he is required to furnish the return.\n (5) The return referred to in subsections (1), (2) and (3) shall\nbe furnished whether or not there is service tax to be paid.\n (6) Any taxable person who—\n (a) contravenes subsection (1), (2) or (3); or\n (b) furnishes an incorrect return,\nLaws of Malaysia\nAct 807\ncommits an offence and shall, on conviction, be liable to a fine\nnot exceeding fifty thousand ringgit or to imprisonment for a\nterm not exceeding three years or to both.\n (7) Any taxable person who fails to pay to the Director General\nthe amount of service tax due and payable under subsection (4)\ncommits an offence and shall, on conviction, be liable to a fine\nnot exceeding fifty thousand ringgit or to imprisonment for a\nterm not exceeding three years or to both.\n (8) Where any service tax due and payable is not paid wholly\nor partly by any taxable person after the last day on which it\nis due and payable under subsection (4) and no prosecution is\ninstituted, the taxable person shall pay—\n (a) for the first thirty-day period that the service tax is not\npaid wholly or partly after the expiry of the period\nspecified under subsection (4), a penalty of ten percent\nof the amount of service tax which remains unpaid;\n (b) for the second thirty-day period that the service tax is\nnot paid wholly or partly after the expiry of the period\nspecified under subsection (4), an additional penalty\nof fifteen per cent of the amount of service tax which\nremains unpaid; and\n (c) for the third thirty-day period that the service tax is not\npaid wholly or partly after the expiry of the period\nspecified under subsection (4), an additional penalty\nof fifteen per cent of the amount of service tax which\nremains unpaid.\n (9)  Subject to subsection (11), prosecution for the offence under\nsubsection (7) may be instituted after the expiry of the period\nspecified in paragraph (8) (c).\n (10) The court may order that any taxable person who is\nconvicted for the offence under subsection (7) to pay the penalty\nas specified in subsection (8).\n (11) No prosecution for the offence under subsection (7) shall\nbe instituted against any taxable person who has paid the amount\nof service tax due and payable, and the penalty specified under\nsubsection (8) within the period specified in subsection (8).\nService Tax\nPower to assess"
+   }
+  },
+  {
+   "id": "MY-H586-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 27"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "27. (1) Where any taxable person—\n (a) fails to apply for registration under section 13;\n (b) fails to furnish a return under section 26; or\n (c) furnishes a return which appears to the Director General\nto be incomplete or incorrect;\nthe Director General may assess to the best of his judgment the\namount of service tax due and payable, and the penalty payable\nunder subsection 26(8), if any, by the taxable person and shall\nforthwith notify him of the assessment in writing.\n (2)  Where an amount has been paid to any person as being\na refund of service tax under this Act which ought not to have\nbeen paid to him, the Director General may assess the amount\nof the refund as being service tax due and payable by him and\nshall forthwith notify him of the assessment in writing.\n (3)  The assessment under subsections (1) and (2) shall not be\nmade more than six years from the date on which the service tax\nwas due and payable or from the date on which the refund of\nservice tax was made, as the case may be, except where in the\nopinion of the Director General any form of fraud or willful default\nhas been committed by or on behalf of any person in relation\nto the service tax or refund, the Director General may, for the\npurposes of making good any loss of service tax or payment of\nrefund of service tax attributable to the fraud or willful default,\nmake an assessment at any time.\n (4)  Where—\n (a) the Director General has made an assessment of service\ntax under subsection (1) in respect of paragraph (1) (a)\nor (b);\n (b) the service tax assessed under paragraph (a) has been\npaid but no return has been furnished for the taxable\nperiod to which the assessment relates; and\n (c) the taxable person fails to furnish a return for any\nsubsequent taxable period,\nLaws of Malaysia\nAct 807\nthe Director General may, as he deems fit, assess an amount\nof service tax greater than that which he otherwise would have\nconsidered to be appropriate.\n (5) Where it appears to the Director General that the amount\nwhich ought to have been assessed in an assessment under\nsubsection (1), (2) or (4) exceeds the amount which was so\nassessed, he may—\n (a) under the same provision as that assessment was made;\nand\n (b) within the taxable period during which that assessment\ncould have been made,\nmake a supplementary assessment of the amount of the excess and\nshall forthwith notify the taxable person in writing accordingly.\n (6) Where an amount of service tax and penalty, if any, has been\nassessed and notified to any taxable person under subsection (1),\n(2) or (5), it shall be deemed to be an amount of service tax due\nand payable, and penalty payable, by him and may be recovered\naccordingly and the amount of service tax and penalty, if any, shall\nbe paid by the taxable person, whether or not that taxable person\nappeals against the assessment, to the Director General unless or\nexcept to the extent that the assessment has been withdrawn or\nreduced by the Director General.\n (7)  The Director General may make any alteration in or\naddition to the assessment made under this section as he deems\nfit to ensure the correctness of the assessment and shall forthwith\nnotify the person in writing.\nRecovery of service tax, etc., as civil debt"
+   }
+  },
+  {
+   "id": "MY-H586-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 28"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "28. (1) Without prejudice to any other remedy and notwithstanding\nany review or appeal against any decision of the Director General\nunder section 81, any service tax due and payable, any surcharge\naccruing, or any penalty, fee or other money payable, under this\nAct may be recovered as a civil debt due to the Government.\nService Tax\n (2)  Where an invoice shows a provision of taxable service as\nhaving taken place with service tax chargeable on the service,\nthere shall be recoverable from the person who issued the invoice\nan amount equals to—\n (a) that which is shown in the invoice as service tax; or\n (b) so much of the total amount shown as payable as is to\nbe taken as representing service tax, if service tax is\nnot separately shown in the invoice,\nfor the provision of such taxable service.\n (3) Subsection (2) shall apply whether or not—\n (a) the invoice is an invoice issued under section 21 or 22;\n (b) the provision of taxable service shown on the invoice\nactually takes or has taken place or the amount shown\nas service tax or any amount of service tax is or was\nchargeable on the provision of the taxable service; or\n (c) the person issuing the invoice is a registered person,\nand any amount recoverable from the person under subsection (2)\nshall be recoverable as such and shall otherwise be recoverable\nas a civil debt due to the Government.\n (4) In any proceedings to recover the service tax, surcharge,\npenalty, fee or other money under subsection (1), the production\nof a certificate signed by the Director General—\n (a) stating that any service tax, surcharge, penalty, fee or\nother money and the amount shown in the certificate\nas due and payable, accruing or payable, in any return,\nassessment or notice made under this Act from a person\nnamed in the certificate; and\n (b) giving the address of the person and purporting to be a\ncopy of or an extract from any notice of assessment,\nshall be conclusive evidence of the service tax, surcharge, penalty\nor other money and the amount as due and payable, accruing or\npayable, in any return, assessment or notice and shall be sufficient\nauthority for the court to give judgement for that amount.\nLaws of Malaysia\nAct 807\n (5)  Any penalty imposed under this Act shall, for the purposes\nof this Act and the Limitation Act 1953 [ Act 254 ], the Limitation\nOrdinance of Sabah [ Sabah Cap. 72 ] or the Limitation Ordinance\nof Sarawak [ Sarawak Cap. 49 ], as the case may be, be recoverable\nas if the penalty were service tax due and payable under this\nAct and accordingly subsection 6(4) of the Limitation Act 1953,\nsection 3 of the Limitation Ordinance of Sabah or section 3 of\nthe Limitation Ordinance of Sarawak, as the case may be, shall\nnot apply to that penalty.\nPower to collect service tax, etc., from person owing money\nto taxable person"
+   }
+  },
+  {
+   "id": "MY-H586-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Section 29"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "29. (1)  Where any sum by way of service tax is due and payable,\nsurcharge is accrued, or penalty, fee or other money is payable, by\na taxable person, the Director General may, by notice in writing,\nrequire—\n (a) any person by whom any money is due or accruing or\nmay become due and payable to the taxable person;\n (b) any person who holds or may subsequently hold money\nfor or on account of the taxable person;\n (c) any person who holds or may subsequently hold money\nfor or on account of any person for payment to the\ntaxable person; or\n (d) any person having authority from any other person to\npay money to the taxable person,\nto pay to the Director General forthwith, or within such time as\nthe Director General allows, such money, not being salary or\nwages due or accruing to the taxable person, or so much of such\nmoney as is sufficient to pay the sum due and payable, accruing\nor payable by the taxable person as aforesaid.\n (2) A copy of the notice under subsection (1) shall be forwarded\nto the taxable person at his last known address.\n (3) All payments made pursuant to a notice under this\nsubsection (1) shall be deemed to be made on behalf of the\ntaxable person and with the authority of the taxable person and\nall other persons concerned.\nService Tax\n (4) For the purposes of this section, the Director General may\nrequire any person to give him information—\n (a) as to any money, fund or asset which may be held by\nthe person for any other person; or\n (b) of any money due and payable by him to any other person.\nRecovery of service tax before payable from persons about\nto leave Malaysia"
+   }
+  },
+  {
+   "id": "MY-H586-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Section 30"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "30. If the Director General has reason to believe that any person\nis about or is likely to leave Malaysia before any service tax due\nby him becomes payable in accordance with the provisions of this\nAct, the service tax shall, if the Director General deems fit, be\npayable on such earlier date as the Director General determines\nand the person shall be notified accordingly.\nRecovery of service tax, etc., from persons about to leave\nMalaysia without paying service tax, etc."
+   }
+  },
+  {
+   "id": "MY-H586-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Section 31"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "31. (1) Where the Director General has reason to believe that any\nperson is about or is likely to leave Malaysia without paying—\n (a) any service tax due and payable by him under\nsubsection 26(4);\n (b) any penalty payable by him under subsection 26(8);\n (c) any surcharge accrued by him under subsection 32(3);\n (d) any fee payable by him under this Act; or\n (e) any other money recoverable from him under this Act,\nthe Director General may issue to the Director General of\nImmigration a notice containing particulars of the person and the\noffence committed with a request that the person be prevented\nfrom leaving Malaysia unless he pays the service tax, surcharge,\npenalty, fee or other money, or furnishes security to the satisfaction\nof the Director General for its payment.\nLaws of Malaysia\nAct 807\n (2) Subject to any order issued or made under any written\nlaw for the time being in force relating to immigration, the\nDirector General of Immigration who receives a request under\nsubsection (1) in respect of a person shall exercise all measures\nwhich may include the removal and retention of any certificate of\nidentity, passport, exit permit or other travel documents in relation\nto that person as may be necessary to give effect to the request.\n (3) The Director General shall cause the notice under\nsubsection (1) to be served personally or by registered post on\nthe person to whom the notice relates.\n (4) The non-receipt of the notice under subsection (1) by the\nperson referred to in subsection (3) shall not invalidate anything\ndone under this section.\n (5) Where the person in respect of whom a notice has been\nissued under subsection (1) produces, on or after the date of\nthe notice, a written statement signed by the Director General\nstating that all the service tax, surcharge, penalty, fee or other\nmoney specified in the notice have been paid, or that security has\nbeen furnished for its payment, that statement shall be sufficient\nauthority for allowing that person to leave Malaysia.\n (6) No legal proceedings shall be instituted or maintained against\nthe Federal Government, a State Government or any other public\nofficer in respect of anything lawfully done under this section.\nPayment by instalments"
+   }
+  },
+  {
+   "id": "MY-H586-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Section 32"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "32. (1)  The Director General may allow any service tax due and\npayable, or penalty payable, to be paid by instalments under the\nprescribed circumstances in such amounts and on such dates as\nthe Director General may determine.\n (2) Where the service tax is allowed to be paid by instalments,\nthe penalty under subsection 26(8) shall cease to be calculated from\nthe date the Director General allows the payment by instalments.\n (3)  Where there is a default in payment of any instalment\nunder subsection (1) on its due date for payment of the balance\nof the amount due and payable, the whole outstanding balance\nshall become due and payable on that date and shall, without\nService Tax\nany further notice being served on the person liable to pay the\namount due, be subject to a surcharge equals to ten per cent of\nthat balance and the surcharge shall be recoverable as if it were\ndue and payable under this Act.\nLiability of directors, etc."
+   }
+  },
+  {
+   "id": "MY-H586-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Section 33"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "33. (1)  Notwithstanding any written law to the contrary, but\nsubject to subsection (2) in relation to a company that is being\nwound up, where service tax is due and payable, surcharge is\naccrued, or penalty, fee or other money is payable, under this\nAct by any company, limited liability partnership, firm, society\nor other body of persons—\n (a) the directors of the company;\n (b) the compliance officer who is appointed amongst the\npartners of the limited liability partnership or if no\ncompliance officer is appointed as such, any one or all\nof the partners of the limited liability partnership;\n (c) the partners of the firm;\n (d) the office-bearers of the society; or\n (e) the persons responsible for the management of the body\nof persons,\nas the case may be, shall together with the company, limited\nliability partnership, firm, society or other body of persons be\njointly and severally liable for the service tax, surcharge, penalty,\nfee or other money.\n (2) In relation to a company that is being wound up, the\ndirectors of the company shall only be liable where the assets of\nthe company are insufficient to meet the amount due, after paying\nany sum having priority under the Companies Act 2016 [ Act 777 ]\nin relation to the application of the assets of the company in the\nwinding-up over the service tax, surcharge, penalty, fee or other\nmoney.\nLaws of Malaysia\nAct 807\nPart VI\nEXEMPTION, REFUND AND REMISSION\nPower of Minister to exempt and refund"
+   }
+  },
+  {
+   "id": "MY-H586-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "Section 34"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "34. (1) The Minister may, by order published in the Gazette  and\nsubject to such conditions as he deems fit, exempt any person\nor class of persons from payment of the whole or any part of\nthe service tax which may be charged and levied on any taxable\nservice provided.\n (2) Any order made under subsection (1) shall be laid before\nthe Dewan Rakyat.\n (3)  The Minister may, in any particular case and subject to\nsuch conditions as he deems fit—\n (a) exempt any person or class of persons from payment of\nthe whole or any part of the service tax which may be\ncharged and levied on any taxable service provided; or\n (b) direct the Director General to make a refund to any\nperson or class of persons of the whole or any part of\nthe service tax or penalty paid by such persons or class\nof persons.\n (4) Where a registered person provides any taxable service to\na person or class of persons exempted under subsection (1) or\nparagraph (3) (a), the registered person shall be exempted from\ncharging and collecting service tax due and payable on such\ntaxable service.\n (5) Where any person who is exempted under subsection (1)\nor paragraph (3) (a) fails to comply with any conditions to which\nthe exemption relates, any service tax that has been the subject\nof the exemption shall become due and payable by the person\non the date on which any of the conditions failed to be complied\nwith.\n (6)  Where a person who has been granted exemption under\nsubsection (1) or paragraph (3) (a) has paid any of the service\ntax to which the exemption relates and has been granted approval\nby the Minister for a refund of the amount of service tax which\nhas been paid, the person shall be entitled to such refund.\nService Tax\nClaim for refund of service tax in relation to bad debt"
+   }
+  },
+  {
+   "id": "MY-H586-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "Section 35"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "35. (1) Any person who is, or has ceased to be, a registered\nperson may  make a claim to the Director General for a refund of\nthe whole or any part of any service tax paid by him in respect\nof taxable services if—\n (a) the whole or any part of the service tax payable to such\nperson has been written off in his accounts as bad debts;\nand\n (b) the Director General is satisfied that all reasonable efforts\nhave been made by such person to recover the service\ntax.\n (2) Where the person who makes a claim for a refund under\nsubsection (1) in relation to a bad debt—\n (a) has not received any payment in respect of the provision\nof taxable services, such person may make a claim for\na refund of the whole of the service tax paid; or\n (b) has received any payment in respect of the provision of\ntaxable services, such person may make a claim for\nthe difference between the service tax paid and amount\ncalculated in accordance with the following formula:\nA x CB\nwhere A is the payment received in respect\nof the provision of such taxable\nservices;\nB is the value of such taxable services\nplus service tax payable on such\ntaxable services; and\nC is the service tax payable on such\ntaxable services.\n (3) The person referred to in subsection (1) may make a claim\nfor a refund of the whole or any part of any service tax in relation\nto the bad debt within six years from the date the service tax i s\nLaws of Malaysia\nAct 807\npaid by him and the Director General may refund the whole or\nany part of the service tax after being satisfied that the person\nhas properly established the claim.\n (4) For the purposes of this section, \"bad debt\" means the\noutstanding amount of the payment in respect of the provision\nof taxable services including the service tax which is due to a\nperson who is, or has ceased to be, a registered person but has\nnot been paid to, and is irrecoverable by, the person.\nRepayment of service tax in relation to bad debt"
+   }
+  },
+  {
+   "id": "MY-H586-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "Section 36"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "36. Where a refund of service tax has been made under\nsection 35  by the Director General to the person referred to in\nsubsection 35(1) and any payment in respect of the provision of\ntaxable services for which the service tax is payable is subsequently\nreceived by the person, the person shall repay to the Director\nGeneral an amount calculated in accordance with the following\nformula:\nA  x C B\nwhere A is the payment received in respect\nof the provision of such taxable\nservices;\nB is the value of such taxable services\nplus service tax payable on such\ntaxable services; and\nC is the service tax payable on such\ntaxable services.\nPayment of service tax, etc., short paid or erroneously refunded"
+   }
+  },
+  {
+   "id": "MY-H586-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "Section 37"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "37. (1) Where—\n (a) the whole or any part of any service tax due and payable,\nsurcharge accrued, or penalty, fee or other money payable,\nunder this Act has not been paid by a person; or\nService Tax\n (b) the whole or any part of any service tax due and payable,\nsurcharge accrued, or penalty, fee or other money payable,\nafter having been paid, has been erroneously refunded\nto a person,\nthe Director General shall demand from the person to pay the\nservice tax, surcharge, penalty, fee or other money, or the deficient\nservice tax, surcharge, penalty, fee or other money, or to repay\nthe refund erroneously paid to him.\n (2) The demand under subsection (1) shall be made within six\nyears from the date on which—\n (a) the service tax, surcharge, penalty, fee or other money\nwas payable, or the deficient service tax, surcharge,\npenalty, fee or other money was paid; or\n (b) the refund was made.\n (3) Upon receipt of the demand under subsection (1), the person\nshall—\n (a) pay the service tax, surcharge, penalty, fee or other money,\nor the deficient service tax, surcharge, penalty, fee or\nother money; or\n (b) repay the refund erroneously paid to him.\nRefund of service tax, etc., overpaid or erroneously paid"
+   }
+  },
+  {
+   "id": "MY-H586-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "Section 38"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "38. (1)  Any person who—\n (a) has overpaid or erroneously paid any service tax, surcharge,\npenalty, fee or other money; or\n (b) is entitled to the refund under subsection 34(6) or 40(3),\nmay make a claim for refund in the prescribed form.\n (2) A claim for refund under subsection (1) shall be made to\nthe Director General within one year from the time—\n (a) such overpayment or erroneous payment occurred; or\nLaws of Malaysia\nAct 807\n (b) such entitlement of the refund under subsection 34(6)\nor 40(3) occurred.\n (3)  The Director General may make such refund in respect\nof the claim under subsection (1) after being satisfied that the\nperson has properly established the claim.\n (4)  The Director General may reduce or disallow any refund\ndue in respect of the claim under subsection (1) to the extent\nthat the refund would unjustly enrich the person referred to in\nsubsection (1).\n (5)  A claim for refund under this section shall be supported\nby such evidence as required by the Director General.\nDeduction from return of refunded service tax"
+   }
+  },
+  {
+   "id": "MY-H586-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "Section 39"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "39. (1) The Director General may approve, subject to such\nconditions as he deems fit, an application by any registered\nperson to deduct from time to time from his return referred to in\nsection 26 the amount of service tax paid but subsequently\nrefunded to his customer by reason of—\n (a) cancellation of taxable service;\n (b) termination of taxable service; or\n (c) such other reasons as may be approved by the Director\nGeneral.\n (2) The registered person shall make the deduction referred to\nin subsection (1) within one year after the payment was made,\nor such extended period as may be approved by the Director\nGeneral.\nRemission of service tax, etc."
+   }
+  },
+  {
+   "id": "MY-H586-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "Section 40"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "40. (1)  The Minister may remit the whole or any part of the\nservice tax due and payable under this Act where he deems fit.\n (2)  The Director General may remit the whole or any part of\nthe surcharge accrued, or penalty, fee or other money payable,\nunder this Act where he deems fit.\nService Tax\n (3)  Where a person who has been granted remission under\nsubsection (1) or (2) has paid any of the service tax, surcharge,\npenalty, fee or other money to which the remission relates, he shall\nbe entitled to a refund of the amount of service tax, surcharge,\npenalty, fee or other money which had been remitted.\nPart VII\nRULING\nPublic ruling"
+   }
+  },
+  {
+   "id": "MY-H586-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "Section 41"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "41. (1) The Director General may, at any time, make a public\nruling on the application of any provision of this Act in relation to\nany person or class of persons, or any type of business activities.\n (2) The Director General may withdraw, either wholly or partly,\nany public ruling made under this section.\n (3) Notwithstanding any provision of this Act, where a public\nruling under subsection (1) applies to any person in relation to\na business activity and the person applies the provision in the\nmanner stated in the ruling, the Director General shall apply the\nprovision in relation to the person and the business activities in\naccordance with the ruling.\nCustoms ruling"
+   }
+  },
+  {
+   "id": "MY-H586-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "Section 42"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "42. (1) Any person may apply, in the prescribed form together\nwith the prescribed fee, to the Director General for a customs\nruling in respect of any one or more of the following matters:\n (a) the determination of a taxable service;\n (b) the determination of a taxable person;\n (c) the principles to be adopted for the purposes of determination\nof value of taxable service;\n (d) any other matters as determined by the Director General.\nLaws of Malaysia\nAct 807\n (2) An application for a customs ruling under subsection (1)\nmay be made—\n (a)  at any time before any service is provided; or\n (b)  at any later time, if permitted by the Director General.\n (3) An applicant may withdraw his application at any time\nbefore a customs ruling is made and any payment made relating\nto the application for the customs ruling shall be forfeited by the\nDirector General.\nMaking of customs ruling"
+   }
+  },
+  {
+   "id": "MY-H586-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "Section 43"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "43. (1) Subject to subsection (3), the Director General shall\nmake a  customs ruling in respect of any matter specified in the\napplication made under section 42 and such customs ruling shall\nbind the applicant.\n (2) Any customs ruling made under subsection (1) may be\nsubject to such conditions as the Director General deems fit.\n (3) The Director General may decline to make a customs ruling\nif, in his opinion—\n (a) the information given by the applicant is insufficient to\ndo so;\n (b) the application is for a hypothetical situation; or\n (c) any pending appeal under section 81 involves the subject\nmatter referred to in the application.\nAmendment, modification or revocation of customs ruling"
+   }
+  },
+  {
+   "id": "MY-H586-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "Section 44"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "44. (1)  A customs ruling may be amended, modified or revoked\nby the Director General if—\n (a) the customs ruling contains an error which needs to be\ncorrected;\n (b) the customs ruling was based on an error of fact or law;\nService Tax\n (c) there is a change in law relating to service tax; or\n (d) there is a change in the material fact or circumstances\non which the customs ruling was based.\n (2)  The Director General shall, immediately after making the\namendment, modification or revocation, give a notice in writing\nto the applicant referred to in section 42 of the amendment,\nmodification or revocation and, such amended, modified or revoked\ncustoms ruling shall take effect from the date stated in the notice.\n (3) Notwithstanding subsection (2) and subject to section 38,\nif the amendment, modification or revocation of a customs ruling\nhas the effect of decreasing any service tax liability in respect of\nany taxable services, any higher service tax that has been paid\nshall be treated as if the higher service tax has been paid in error.\nDirector General to declare customs ruling to be null, etc."
+   }
+  },
+  {
+   "id": "MY-H586-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "Section 45"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "45. The Director General shall, by a notice, declare a customs\nruling  made under section 43 to be null, void and of no effect\nif the ruling has been obtained by the applicant referred to in\nsection 42 by way of fraud, misrepresentation or falsification of\nfacts.\nDifferent customs rulings on same subject matter"
+   }
+  },
+  {
+   "id": "MY-H586-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "Section 46"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "46. Where an applicant referred to in section 42 receives two or\nmore different customs  rulings on the same subject matter, such\nrulings shall be treated as being null and void, and such applicant\nshall immediately notify the Director General who shall, within\nthirty days from the date of notification, make a new customs\nruling.\nPart VIII\nSPECIAL PROVISIONS RELATING TO DESIGNATED AREAS\nInterpretation"
+   }
+  },
+  {
+   "id": "MY-H586-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "Section 47"
+   },
+   "chapter": {
+    "en": "Part VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "47. In this Part, \"Malaysia\" excludes the designated areas and\nspecial areas.\nLaws of Malaysia\nAct 807\nTaxable service provided within or between designated areas,\netc."
+   }
+  },
+  {
+   "id": "MY-H586-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "Section 48"
+   },
+   "chapter": {
+    "en": "Part VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "48. Notwithstanding section 7, no service tax shall be charged\nand levied on any taxable service provided within or between\ndesignated areas or between designated areas and special areas\nunless the Minister otherwise prescribes by order under section 51.\nTaxable service provided by person whose principal place of\nbusiness located in designated areas"
+   }
+  },
+  {
+   "id": "MY-H586-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "Section 49"
+   },
+   "chapter": {
+    "en": "Part VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "49. Service tax shall be charged by any person whose principal\nplace of business is located in a designated area on any taxable\nservice provided by him within Malaysia.\nTaxable service provided to designated areas by registered\nperson whose principal place of business located in Malaysia"
+   }
+  },
+  {
+   "id": "MY-H586-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "Section 50"
+   },
+   "chapter": {
+    "en": "Part VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "50. Service tax shall be charged by any registered person whose\nprincipal place of business is located in Malaysia who provides\nany taxable service to a designated area.\nPower of Minister to impose service tax"
+   }
+  },
+  {
+   "id": "MY-H586-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "Section 51"
+   },
+   "chapter": {
+    "en": "Part VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "51. The Minister may, by order published in the Gazette , prescribe\nany service provided within or between designated areas or\nbetween designated areas and special areas to be chargeable to\nservice tax.\nPart IX\nSPECIAL PROVISIONS RELATING TO SPECIAL AREAS\nInterpretation"
+   }
+  },
+  {
+   "id": "MY-H586-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "Section 52"
+   },
+   "chapter": {
+    "en": "Part IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "52. In this Part, \"Malaysia\" excludes the special areas and\ndesignated areas.\nService Tax\nTaxable service provided within or between special areas, etc."
+   }
+  },
+  {
+   "id": "MY-H586-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "Section 53"
+   },
+   "chapter": {
+    "en": "Part IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "53. Notwithstanding section 7, no service tax shall be charged\nand levied on any taxable service provided within or between\nspecial areas or between special areas and designated areas unless\nthe Minister otherwise prescribes by order under section 56.\nTaxable service provided by person whose principal place of\nbusiness located in special areas"
+   }
+  },
+  {
+   "id": "MY-H586-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "Section 54"
+   },
+   "chapter": {
+    "en": "Part IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "54. Service tax shall be charged by any person whose principal\nplace of business is located in a special area on any taxable\nservice provided by him within Malaysia.\nTaxable service provided to special areas by registered person\nwhose principal place of business located in Malaysia"
+   }
+  },
+  {
+   "id": "MY-H586-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "Section 55"
+   },
+   "chapter": {
+    "en": "Part IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "55. Service tax shall be charged by any registered person whose\nprincipal place of business is located in Malaysia who provides\nany taxable service to a special area.\nPower of Minister to impose service tax"
+   }
+  },
+  {
+   "id": "MY-H586-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "Section 56"
+   },
+   "chapter": {
+    "en": "Part IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "56. The Minister may, by order published in the Gazette , prescribe\nany service provided within or between special areas or between\nspecial areas and designated areas to be chargeable to service tax.\nPart X\nENFORCEMENT\nPersons bound to give information"
+   }
+  },
+  {
+   "id": "MY-H586-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "Section 57"
+   },
+   "chapter": {
+    "en": "Part X"
+   },
+   "heading": {},
+   "text": {
+    "en": "57. (1)  Every person having information about any matter into\nwhich it is the duty of the proper officer of service tax to inquire\nshall, upon being required by the officer to do so, give such\ninformation.\nLaws of Malaysia\nAct 807\n (2)  Every person required by the proper officer of service tax\nto produce any goods, documents, articles or things which are\nwithin the power of such person to produce, and which are—\n (a) goods, documents, articles or things used in any transaction\nor other matter relating to service tax; or\n (b) goods, documents, articles or things into which it is the\nduty of the proper officer of service tax to inquire under\nthis Act,\nshall produce such goods, documents, articles or things.\n (3) Where any information, goods, documents, articles or\nthings are not in the national language or English language, any\nproper officer of service tax may by notice in writing require the\nperson or any other person to produce within a reasonable period\na translation of the information, goods, documents, articles or\nthings in the national language or English language as the proper\nofficer of service tax may determine.\n (4) Any person—\n (a) who contravenes subsection (1) or (2); or\n (b) who fails to produce a translation as required under\nsubsection (3),\ncommits an offence.\nAccess to places or premises"
+   }
+  },
+  {
+   "id": "MY-H586-A58",
+   "no": 58,
+   "noLabel": {
+    "en": "Section 58"
+   },
+   "chapter": {
+    "en": "Part X"
+   },
+   "heading": {},
+   "text": {
+    "en": "58. (1) For the purposes of this Act, any senior officer of service\ntax shall at all times have access to any place or premises where\na person providing services carries on his business.\n (2)  Where any senior officer of service tax exercises his powers\nunder subsection (1), the person who carries on his business or\nany other person present at the place or premises at that time\nof entry shall provide to the officer all reasonable facilities and\nassistance for the exercise of his duties under this section.\nService Tax\n (3) Where any senior officer of service tax enters upon any\nplace or premises in accordance with this section, he may—\n (a) require the person providing services who carries on his\nbusiness at such place or premises or any other person\npresent at such place or premises, as the case may be, to\nproduce any goods, documents, articles or things, which\nsuch person is required to keep under the provisions of\nthis Act, or which relates to any taxable service;\n (b) examine any goods, documents, articles or things and\ntake copies of any documents;\n (c) seize and detain any goods, documents, articles or things\nwhich, in his opinion, may afford evidence of the\ncommission of any offence under this Act;\n (d) require the person providing services who carries on\nhis business at such place or premises or any other\nperson present at such place or premises, or any person\nemployed by such person to answer questions relating to\nany goods, documents, articles or things, or any entry\nin any documents, or any taxable service;\n (e) require any container, envelope or other receptacle in\nsuch place or premises to be opened; or\n (f) at the risk and expense of the person providing services\nwho carries on his business at such place or premises or\nany other person present at such place or premises, open\nand examine any package, or any goods or materials,\nin such place or premises.\n (4) Where the senior officer of service tax acting under this\nsection is unable to obtain access to any place or premises where\na person providing services carries on his business, or to any\nreceptacle contained in the place or premises, he may, at any\ntime, enter such place or premises, and open such receptacle in\nsuch manner, if necessary by force, as he may think necessary.\n (5) Any person who contravenes subsection (2) commits an\noffence.\nLaws of Malaysia\nAct 807\nAccess to recorded information or computerized data"
+   }
+  },
+  {
+   "id": "MY-H586-A59",
+   "no": 59,
+   "noLabel": {
+    "en": "Section 59"
+   },
+   "chapter": {
+    "en": "Part X"
+   },
+   "heading": {},
+   "text": {
+    "en": "59. (1) Any senior officer of service tax exercising his powers\nunder sections 58, 60 and 61 shall be given access to any recorded\ninformation or computerized data, whether stored in a computer\nor otherwise.\n (2)  In addition, a senior officer of service tax exercising his\npowers under sections 58, 60 and 61—\n (a) may inspect the operation of any computer and any\nassociated apparatus or material which he has reasonable\ncause to suspect is or has been used in connection with\nthe information or data; and\n (b) may require—\n (i) the person by whom or on whose behalf the senior\nofficer of service tax has reasonable cause to\nsuspect the computer is or has been so used in\nconnection with the information or data; or\n (ii) the person having charge of, or is otherwise\nconcerned with, the operation of the computer,\napparatus or material in connection with the\ninformation or data,\n  to provide the officer with such reasonable assistance as\nhe may require for the purpose of this section.\n (3) For the purposes of subsection (1), \"access\" includes being\nprovided with the necessary password, encryption code, decryption\ncode, software or hardware and any other means required to\nenable comprehension of recorded information or computerized\ndata.\nMagistrate may issue search warrant"
+   }
+  },
+  {
+   "id": "MY-H586-A60",
+   "no": 60,
+   "noLabel": {
+    "en": "Section 60"
+   },
+   "chapter": {
+    "en": "Part X"
+   },
+   "heading": {},
+   "text": {
+    "en": "60. (1) Whenever it appears to any Magistrate, upon written\ninformation upon oath and after any inquiry which he may think\nnecessary, that there is reasonable cause to believe that in any\nplace, premises or conveyance, there are concealed or deposited\nService Tax\nany goods, documents, articles or things which may afford evidence\nof the commission of an offence under this Act, the Magistrate\nmay issue a warrant authorizing any senior officer of service tax\nnamed therein, at any time and with or without assistance—\n (a) to enter the place, premises or conveyance and to search\nfor and seize the goods, documents, articles or things;\nand\n (b) to arrest any person being in the place, premises or\nconveyance in whose possession the goods, documents,\narticles or things are found or who may reasonably be\nsuspected as having concealed or deposited such goods,\ndocuments, articles or things.\n (2)  The senior officer of service tax authorized under\nsubsection (1) may, if it is necessary so to do—\n (a) break open any outer or inner door of the place, premises\nor conveyance and enter every part thereof, if necessary\nforcibly;\n (b) remove by force any obstruction to the entry to search\nor to seize as he is empowered to effect; and\n (c) detain every person found in the place, premises or\nconveyance until the search has been completed.\nSearch may be made without warrant"
+   }
+  },
+  {
+   "id": "MY-H586-A61",
+   "no": 61,
+   "noLabel": {
+    "en": "Section 61"
+   },
+   "chapter": {
+    "en": "Part X"
+   },
+   "heading": {},
+   "text": {
+    "en": "61. Whenever it appears to the senior officer of service tax that\nthere is reasonable cause to believe that in any place, premises or\nconveyance there are concealed or deposited any goods, documents,\narticles or things which may afford evidence of the commission\nof any offence under this Act and if he has reasonable grounds\nfor believing that by reason of the delay in obtaining a search\nwarrant the goods, documents, articles or things are likely to be\nremoved, he may exercise in, upon and in respect of the place,\npremises or conveyance, all the powers under section 60 in the\nsame manner as if he was empowered so to do by a warrant\nissued under that section.\nLaws of Malaysia\nAct 807\nSeizure of goods, etc."
+   }
+  },
+  {
+   "id": "MY-H586-A62",
+   "no": 62,
+   "noLabel": {
+    "en": "Section 62"
+   },
+   "chapter": {
+    "en": "Part X"
+   },
+   "heading": {},
+   "text": {
+    "en": "62. (1) Any proper officer of service tax may seize in any place\nany of the following:\n (a) all goods, documents, articles or things in respect of which\nthe proper officer of service tax has reasonable cause\nto suspect that there has been committed any offence\nunder this Act, any violation of any of the provisions\nof this Act, or any breach of any condition subject to\nwhich a registration has been approved under sections 13\nand 14; and\n (b) any other goods, documents, articles or things which may\nreasonably be believed to have a bearing on the offence,\nviolation or breach referred to in paragraph (a).\n (2) Whenever any goods, documents, articles or things are seized\nunder this Act, the proper officer of service tax shall forthwith\ngive notice in writing of such seizure and the grounds of the\nseizure to the owner of the goods, documents, articles or things,\nif known, either by delivering such notice to him personally or\nby post at his place of abode.\n (3) The provisions of this section relating to the seizure of any\ngoods, documents, articles or things shall apply to all contents\nof any receptacles or packages in which the goods, documents,\narticles or things are found, and to any articles used to conceal\nthe goods, documents, articles or things.\n (4) Where a senior officer of service tax is satisfied that the\ngoods, documents, articles or things seized are not required for\nthe purposes of investigation, prosecution or any proceedings\nunder this Act, he may release the goods, documents, articles or\nthings to—\n (a) the owner of the goods, documents, articles or things; or\n (b) the person from whose possession, custody or control,\nthe goods, documents, articles or things were seized.\nService Tax\nPower of arrest"
+   }
+  },
+  {
+   "id": "MY-H586-A63",
+   "no": 63,
+   "noLabel": {
+    "en": "Section 63"
+   },
+   "chapter": {
+    "en": "Part X"
+   },
+   "heading": {},
+   "text": {
+    "en": "63. (1) Any proper officer of service tax may arrest without\nwarrant—\n (a) any person found committing or attempting to commit, or\nemploying or aiding any person to commit, or abetting\nthe commission of, an offence under this Act;\n (b) any person whom he may reasonably suspect to have in\nhis possession any goods, documents, articles or things\nliable to seizure under this Act; or\n (c) any person whom he may reasonably suspect to have\ncommitted an offence under this Act.\n (2) The proper officer of service tax may search or cause to\nbe searched any person arrested under subsection (1) provided\nthat—\n (a) any person who requests that his person be searched in\nthe presence of a senior officer of service tax shall not\nbe searched except in the presence of and under the\nsupervision of such senior officer of service tax, but\nsuch person may be detained until the arrival of such\nsenior officer of service tax, or taken to any office or\npolice station where such senior officer of service tax\nmay be found;\n (b) the goods and baggage of the person who requests to be\npresent when the goods and baggage are searched and\nso presents himself within a reasonable time shall not\nbe searched except in his presence; and\n (c) no person shall be searched except by another person of\nthe same gender, and such search shall be conducted\nwith strict regard to decency.\n (3)  Any proper officer of service tax making an arrest under\nsubsection (1) shall, without unnecessary delay, bring the person\narrested to the nearest police station, and thereafter the person\nshall be dealt with in accordance with the law relating to criminal\nprocedure for the time being in force.\nLaws of Malaysia\nAct 807\n (4) If any person liable to be arrested under this Act is not\narrested at the time of committing the offence for which he is\nso liable, or after arrest makes his escape, he may at any time\nthereafter be arrested and dealt with as if he had been arrested\nat the time of committing such offence.\n (5) Any proper officer of service tax may cause to be taken\nphotographs, finger and thumb impressions and any other form\nof identification that may be required under any other written\nlaw of any person charged with an offence against this Act.\n (6) Every person so arrested may be released from custody—\n (a) on his depositing such reasonable sum of money as the\nproper officer of service tax may require;\n (b) on his executing a bond, with such surety or sureties, as\nthe proper officer of service tax may require; or\n (c) on his depositing such reasonable sum of money as the\nproper officer may require and his executing a bond,\nwith such surety or sureties, as the proper officer of\nservice tax may require.\n (7) Any person who has been released from custody under\nsubsection (6) may be arrested without warrant by any proper\nofficer of service tax—\n (a) if such officer has reasonable grounds for believing that\nany conditions subject to which such person was released\nor otherwise admitted to bail has been or is likely to be\nbreached; or\n (b) on being notified in writing by the surety of such person\nthat such person is likely to breach any conditions subject\nto which such person was released and that the surety\nwishes to be relieved of his obligation as surety.\nService Tax\nPart XI\nTRIALS AND PROCEEDINGS\nJurisdiction to try offences"
+   }
+  },
+  {
+   "id": "MY-H586-A64",
+   "no": 64,
+   "noLabel": {
+    "en": "Section 64"
+   },
+   "chapter": {
+    "en": "Part XI"
+   },
+   "heading": {},
+   "text": {
+    "en": "64. Notwithstanding any written law to the contrary, a Sessions\nCourt shall have jurisdiction to try any offence under this Act\nand to impose punishment under this Act for any such offence.\nEvidence by certificate, etc."
+   }
+  },
+  {
+   "id": "MY-H586-A65",
+   "no": 65,
+   "noLabel": {
+    "en": "Section 65"
+   },
+   "chapter": {
+    "en": "Part XI"
+   },
+   "heading": {},
+   "text": {
+    "en": "65. Any certificate signed by the Director General stating that—\n (a) a person was or was not, on any date, registered under\nthis Act;\n (b) any return has not been furnished or had not been furnished\non any date;\n (c) any service tax shown as due and payable in any return\nor assessment has not been paid;\n (d) any penalty and the amount of the penalty shown as due\nfrom a person named in the certificate; or\n (e) any public ruling is made under section 41 or customs\nruling is made under section 43,\nshall be prima facie  evidence of the facts stated in the certificate\nwithout proof of the signature to the certificate.\nObligation of secrecy"
+   }
+  },
+  {
+   "id": "MY-H586-A66",
+   "no": 66,
+   "noLabel": {
+    "en": "Section 66"
+   },
+   "chapter": {
+    "en": "Part XI"
+   },
+   "heading": {},
+   "text": {
+    "en": "66. (1)  Except as provided under section 67, the name, identification\ncard number, passport number and address of an informer, or any\nother information which can lead to the identity of the informer,\nand the substance of the information received from an informer\nshall be kept secret and shall not be disclosed by any officer of\nservice tax or any person who in the ordinary course of his duties\ncomes into possession of, or has control of or access to, the\ninformation to any person except the proper officer of service tax.\nLaws of Malaysia\nAct 807\n (2) Any person who contravenes subsection (1) commits an\noffence and shall, on conviction, be liable to imprisonment for\na term not exceeding seven years or to a fine not exceeding one\nhundred thousand ringgit or to both.\nProtection of informers from discovery"
+   }
+  },
+  {
+   "id": "MY-H586-A67",
+   "no": 67,
+   "noLabel": {
+    "en": "Section 67"
+   },
+   "chapter": {
+    "en": "Part XI"
+   },
+   "heading": {},
+   "text": {
+    "en": "67. (1)  Except as hereinafter provided, no witness in any civil\nor criminal proceedings shall be obliged or permitted to disclose\nthe name, address or any information of an informer, or the\nsubstance of the information received from an informer, or state\nany matter which might lead to the discovery of the informer.\n (2) If any documents which are produced in evidence or liable\nto inspection in any civil or criminal proceedings contain any\nentry in which any informer is named or described or which might\nlead to his discovery, the court shall cause all the passages to be\nconcealed from view or to be obliterated so far only as may be\nnecessary to protect the informer from discovery.\n (3) If in the trial for any offence under this Act, the court, after\nfull enquiry into the case, believes that the informer wilfully made\nin his complaint a material statement which he knew to be false\nor did not believe to be true, or if in any other proceedings the\ncourt is of the opinion that justice cannot fully be done between\nthe parties thereto without the discovery of the informer, it shall\nbe lawful for the court to require the production of the original\ncomplaint, if in writing, and permit enquiry and require full\ndisclosure concerning the informer.\nBurden of proof"
+   }
+  },
+  {
+   "id": "MY-H586-A68",
+   "no": 68,
+   "noLabel": {
+    "en": "Section 68"
+   },
+   "chapter": {
+    "en": "Part XI"
+   },
+   "heading": {},
+   "text": {
+    "en": "68. Where any dispute arises in any prosecution as to whether—\n (a) any service tax has been paid;\n (b) any provision of service is not liable to service tax\nchargeable under this Act;\n (c) any value upon which service tax is chargeable under\nthis Act; or\nService Tax\n (d) any amount of service tax chargeable under this Act is\nsubject to any deduction,\nthe burden of proof of such dispute shall lie on the accused in\nthe prosecution.\nCourt order"
+   }
+  },
+  {
+   "id": "MY-H586-A69",
+   "no": 69,
+   "noLabel": {
+    "en": "Section 69"
+   },
+   "chapter": {
+    "en": "Part XI"
+   },
+   "heading": {},
+   "text": {
+    "en": "69. (1) Where any person is found guilty of an offence under\nthis Act, the court before which that person is found guilty shall\norder the person to pay to the Director General the amount of\nservice tax due and payable or penalty payable, under this Act,\nif any, as certified by the Director General and such service tax\nor penalty shall be recoverable in the same manner as a fine\nas provided under section 283 of the Criminal Procedure Code\n[Act 593 ].\n (2)  In addition to subsection (1), the court has civil jurisdiction\nto the extent of the amount of service tax due and payable or\npenalty payable and the order is enforceable in all respects as a\nfinal judgement of the court in favour of the Director General.\n (3) Where any person is found not guilty of an offence under\nthis Act, and if he has paid the amount of service tax due and\npayable or penalty payable under this Act pursuant to section 85\nin respect of the offence charged, the court may order the amount\npaid to be refunded to such person where no notice of appeal is\nfiled.\nNo costs or damages arising from seizure to be recoverable\nunless seizure without reasonable or probable cause"
+   }
+  },
+  {
+   "id": "MY-H586-A70",
+   "no": 70,
+   "noLabel": {
+    "en": "Section 70"
+   },
+   "chapter": {
+    "en": "Part XI"
+   },
+   "heading": {},
+   "text": {
+    "en": "70. No person shall, in any proceedings before any court in\nrespect of the seizure of any goods, documents, articles or things\nin exercise or the purported exercise of any power conferred\nunder this Act, be entitled to the costs of the proceedings or to\nany damages or other relief, other than an order for  the return of\nsuch goods, documents, articles or things or the payment of the\nvalue of such goods, documents, articles or things, unless such\nseizure was made without reasonable or probable cause.\nLaws of Malaysia\nAct 807\nPart XII\nGENERAL\nEvasion of service tax"
+   }
+  },
+  {
+   "id": "MY-H586-A71",
+   "no": 71,
+   "noLabel": {
+    "en": "Section 71"
+   },
+   "chapter": {
+    "en": "Part XII"
+   },
+   "heading": {},
+   "text": {
+    "en": "71. (1)  Any person who, with the intent to evade or assist any\nother person to evade service tax—\n (a) omits from a return any information in relation to any\nmatter affecting the amount of service tax chargeable\nby him or other person;\n (b) makes a false statement or entry in any return, claim or\napplication;\n (c) gives any false answer, whether in writing or otherwise,\nto any question asked or request for information made\nunder this Act;\n (d) prepares or maintains, or authorizes the preparation\nor maintenance of, any false book of accounts, false\ninvoices or other false records, or falsifies or authorizes\nthe falsification of any book of accounts, invoices or\nrecords; or\n (e) makes, uses or authorizes the use of any fraud, artifice\nor contrivance,\ncommits an offence.\n (2) Any person who commits an offence under subsection (1)\nshall, on conviction—\n (a) for the first offence, be liable to a fine of not less than\nten times and not more than twenty times the amount of\nservice tax or to imprisonment for a term not exceeding\nfive years or to both; and\n (b) for a second or subsequent offence, be liable to a fine\nof not less than twenty times and not more than forty\ntimes the amount of service tax or to imprisonment for\na term not exceeding seven years or to both.\nService Tax\n (3) For the purposes of subsection (2), where the amount of\nservice tax cannot be ascertained, the person shall be liable to\na fine of not less than fifty thousand ringgit and not more than\nfive hundred thousand ringgit or to imprisonment for a term not\nexceeding seven years or to both.\n (4)  Any person who assists in, or advises with respect to,\nthe preparation of any return where the return results in an\nunderstatement of the liability for service tax of another person,\nunless he satisfies the court that the assistance or advice was given\nwith reasonable care, commits an offence and shall, on conviction,\nbe liable to a fine of not less than two thousand ringgit and not\nmore than twenty thousand ringgit or to imprisonment for a term\nnot exceeding three years or to both.\n (5)  Any reference in paragraph (1) (e) in relation to a person\nwho makes, uses or authorizes the use of any fraud, artifice or\ncontrivance includes a reference to a person who, without the\nauthority of the officer of service tax—\n (a) destroys, damages, erases, alters or manipulates data\nstored in, or used in connection with, a computer;\n (b) introduces into, or records or stores in, a computer by\nany means data for the purpose of—\n (i)  destroying, damaging, erasing, altering or\nmanipulating other data stored in that computer;\nor\n (ii) interfering with, interrupting or obstructing the\nlawful use of that computer, or the data stored\nin that computer; or\n (c) otherwise uses a computer,\nthe purpose or effect of which is to evade service tax.\n (6)  For the purposes of subsection (5), \"data\" includes any\ncomputer programme or part of a computer programme.\n (7)  In any prosecution under this section, any evasion of service\ntax shall be deemed to be with the knowledge of the accused\nunless the contrary be proved by the accused.\nLaws of Malaysia\nAct 807\nGiving incorrect information relating to liability to service tax"
+   }
+  },
+  {
+   "id": "MY-H586-A72",
+   "no": 72,
+   "noLabel": {
+    "en": "Section 72"
+   },
+   "chapter": {
+    "en": "Part XII"
+   },
+   "heading": {},
+   "text": {
+    "en": "72. Without prejudice to any other liability incurred under this\nAct, any person who gives any incorrect information in relation\nto any matter affecting his own liability to service tax or the\nliability of any other person to service tax commits an offence\nand shall, on conviction, be liable to imprisonment for a term not\nexceeding three years or to a fine not exceeding fifty thousand\nringgit or to both.\nImproperly obtaining refund"
+   }
+  },
+  {
+   "id": "MY-H586-A73",
+   "no": 73,
+   "noLabel": {
+    "en": "Section 73"
+   },
+   "chapter": {
+    "en": "Part XII"
+   },
+   "heading": {},
+   "text": {
+    "en": "73. Any person who causes or attempts to cause the refund by\nthe Director General under subsection 10(4), 35(1) or 38(1) to\nhimself or to any other person of any amount in excess of the\namount properly so refundable to him or to that other person\ncommits an offence and shall, on conviction, be liable—\n (a) to a fine not exceeding fifty thousand ringgit or to\nimprisonment for a term not exceeding three years or\nto both; and\n (b) to a penalty of two times the amount refunded in excess\nof the amount properly so refundable.\nEmployee may transact business"
+   }
+  },
+  {
+   "id": "MY-H586-A74",
+   "no": 74,
+   "noLabel": {
+    "en": "Section 74"
+   },
+   "chapter": {
+    "en": "Part XII"
+   },
+   "heading": {},
+   "text": {
+    "en": "74. (1) An employee of any person may transact business generally\nwith any proper officer of service tax on behalf of such person.\n (2) A proper officer of service tax may refuse to transact\nbusiness with such employee unless the person referred to under\nsubsection (1) identifies such employee to such proper officer of\nservice tax as empowered to transact.\nTransaction of business on behalf of taxable person"
+   }
+  },
+  {
+   "id": "MY-H586-A75",
+   "no": 75,
+   "noLabel": {
+    "en": "Section 75"
+   },
+   "chapter": {
+    "en": "Part XII"
+   },
+   "heading": {},
+   "text": {
+    "en": "75. (1)  Subject to section 74, no person shall transact any business\nin relation to this Act on behalf of any taxable person, except on\nmatters with regard to any refund, remission, exemption, or any\nother matters as approved by the Director General, under this Act.\nService Tax\n (2) The person who transacts business on any of the matters\nstated in subsection (1) on behalf of a taxable person shall—\n (a) produce a letter of authorization from the taxable person\nwhom he represents; and\n (b) where any prescribed form is required to be submitted\nfor the purposes of the matters being transacted, submit\nthe form that has been signed by the taxable person,\nexcept where otherwise allowed by a senior officer of\nservice tax.\n (3) Any person who contravenes subsection (1) commits an\noffence.\nOffences by authorized and unauthorized persons"
+   }
+  },
+  {
+   "id": "MY-H586-A76",
+   "no": 76,
+   "noLabel": {
+    "en": "Section 76"
+   },
+   "chapter": {
+    "en": "Part XII"
+   },
+   "heading": {},
+   "text": {
+    "en": "76. Any person—\n (a) being an employee of a taxable person or a person\nauthorized under section 75 who—\n (i) withholds for his own use or otherwise any\nportion of the amount of service tax or penalties\ncollected under this Act;\n (ii) otherwise than in good faith, demands from any\nperson an amount in excess of any assessment\nof service tax due and payable, or penalties\npayable, under this Act;\n (iii) submits any false return, statement or report,\nwhether in writing or otherwise, of the amount\nof service tax or penalty collected or received\nby him under this Act; or\n (iv) defrauds any person, embezzles any money,\nor otherwise uses his position so as to deal\nwrongfully either with the Director General or\nany other individual; or\n (b) not being authorized under this Act who collects or\nattempts to collect any service tax or penalty under this\nAct,\nLaws of Malaysia\nAct 807\ncommits an offence and shall, on conviction, be liable to a fine\nnot exceeding fifty thousand ringgit or to imprisonment for a\nterm not exceeding three years or to both.\nObstruction"
+   }
+  },
+  {
+   "id": "MY-H586-A77",
+   "no": 77,
+   "noLabel": {
+    "en": "Section 77"
+   },
+   "chapter": {
+    "en": "Part XII"
+   },
+   "heading": {},
+   "text": {
+    "en": "77. Any person who in any way obstructs, assaults or hinders\nany proper officer of service tax in the discharge of his functions\nunder this Act commits an offence and shall, on conviction, be\nliable to imprisonment for a term not exceeding five years or to\na fine not exceeding one hundred thousand ringgit or to both.\nOffences by company, etc."
+   }
+  },
+  {
+   "id": "MY-H586-A78",
+   "no": 78,
+   "noLabel": {
+    "en": "Section 78"
+   },
+   "chapter": {
+    "en": "Part XII"
+   },
+   "heading": {},
+   "text": {
+    "en": "78. (1)  Where any company, limited liability partnership, firm,\nsociety or other body of persons commits an offence under this\nAct, a person who at the time of the commission of the offence\nwas a director, compliance officer, partner, manager, secretary or\nother similar officer of the company, limited liability partnership,\nfirm, society or other body of persons or was purporting to act in\nsuch capacity or was in any manner or to any extent responsible\nfor the management of any of the affairs of the company, limited\nliability partnership, firm, society or other body of persons or\nwas assisting in its management—\n (a) may be charged severally or jointly in the same proceedings\nwith the company, limited liability partnership, firm,\nsociety or other body of persons; and\n (b) if the company, limited liability partnership, firm, society\nor the body of persons is found guilty of the offence,\nshall be deemed to be guilty of that offence unless,\nhaving regard to the nature of his functions in that\ncapacity and to all circumstances, he proves—\n (i) that the offence was committed without his\nknowledge; or\n (ii) that the offence was committed without his\nconsent or connivance and that he had taken all\nreasonable precautions and exercised due diligence\nto prevent the commission of the offence.\nService Tax\n (2) Where any person is liable under this Act to any punishment\nor penalty for any act, omission, neglect or default, such person\nshall be liable to the same punishment or penalty for every such\nact, omission, neglect or default of the person's employee or agent,\nor of the employee of the person's agent, if the act, omission,\nneglect or default was committed—\n (a) by that person's employee in the course of his employment;\n (b) by that person's agent when acting on behalf of that\nperson; or\n (c) by the employee of that person's agent when acting in\nthe course of his employment by the person's agent\nor otherwise on behalf of the person's agent acting on\nbehalf of that person.\nGeneral penalty"
+   }
+  },
+  {
+   "id": "MY-H586-A79",
+   "no": 79,
+   "noLabel": {
+    "en": "Section 79"
+   },
+   "chapter": {
+    "en": "Part XII"
+   },
+   "heading": {},
+   "text": {
+    "en": "79. Any person who commits an offence under this Act for which\nno penalty is expressly provided shall, on conviction, be liable to\na fine not exceeding thirty thousand ringgit or to imprisonment\nfor a term not exceeding two years or to both.\nCompounding of offences"
+   }
+  },
+  {
+   "id": "MY-H586-A80",
+   "no": 80,
+   "noLabel": {
+    "en": "Section 80"
+   },
+   "chapter": {
+    "en": "Part XII"
+   },
+   "heading": {},
+   "text": {
+    "en": "80. (1) The Minister may, with the approval of the Public\nProsecutor, make regulations prescribing—\n (a) any offence under this Act or any regulations made under\nthis Act as an offence which may be compounded;\n (b)  the criteria for compounding such offence; and\n (c)  the method and procedure for compounding such offence.\n (2) Any senior officer of service tax may, with the consent in\nwriting of the Public Prosecutor, at any time before a charge is\nbeing instituted, compound any offence prescribed as an offence\nwhich may be compounded by making a written offer to the\nperson reasonably suspected of having committed the offence to\ncompound the offence upon payment to the Director General of\nLaws of Malaysia\nAct 807\na sum of money not exceeding fifty per centum of the amount of\nthe maximum fine to which the person would have been liable\nto if he had been convicted of the offence, within such time as\nmay be specified in the written offer.\n (3) An offer under subsection (2) may be made at any time\nafter the offence has been committed but before any prosecution\nfor it has been instituted, and where the amount specified in the\noffer is not paid within the time specified in the offer, or such\nextended time as the Director General may grant, prosecution for\nthe offence may be instituted at any time after that against the\nperson to whom the offer was made.\n (4) Where an offence has been compounded under subsection (2),\nno prosecution shall be instituted in respect of the offence against\nthe person to whom the offer to compound was made, and any\ndocument or thing seized in connection with the offence may be\nreleased by the Director General, subject to such terms as the\nDirector General thinks fit.\n (5) All sums of moneys received by the Director General under\nthis section shall be paid into and form part of the Consolidated\nFund.\nReview and appeal"
+   }
+  },
+  {
+   "id": "MY-H586-A81",
+   "no": 81,
+   "noLabel": {
+    "en": "Section 81"
+   },
+   "chapter": {
+    "en": "Part XII"
+   },
+   "heading": {},
+   "text": {
+    "en": "81. (1) Any person aggrieved by any decision of the Director\nGeneral may apply to the Director General for review of any of\nhis decision within thirty days from the date the person has been\nnotified of such decision provided that no appeal has been made\non the same decision to the Customs Appeal Tribunal or court.\n (2) An application for review under subsection (1) shall be\nmade in the prescribed form.\n (3) Where an application for review has been made under\nsubsection (1), the Director General shall make the review and\nnotify the decision of the review to the person, where practicable,\nwithin sixty days from the date of the receipt of such application.\n (4)  No review may be made in any matter relating to compound.\nService Tax\n (5) Any person aggrieved by any decision of the Director\nGeneral under subsection (3) or any other provision of this\nAct, except any matter relating to compound, may appeal to the\nCustoms Appeal Tribunal in writing within thirty days from the\ndate of notification of the decision to the aggrieved person.\n (6) Any service tax due and payable under this Act shall be\npaid notwithstanding any review or appeal has been made under\nthis section.\nLiquidator of company to give notice of winding-up, and set\naside service tax"
+   }
+  },
+  {
+   "id": "MY-H586-A82",
+   "no": 82,
+   "noLabel": {
+    "en": "Section 82"
+   },
+   "chapter": {
+    "en": "Part XII"
+   },
+   "heading": {},
+   "text": {
+    "en": "82. (1)  Where a resolution is passed and becomes effective, or\nan order is made, for the winding-up of a company which is a\nregistered person, the liquidator of the company shall—\n (a) give notice of the winding up of the company to the\nDirector General within fourteen days after the resolution\nis effective or order is made;\n (b) before disposing of any of the assets of the company,\nset aside such sum out of the assets as appears to the\nDirector General to be sufficient to provide for any\nservice tax that is or will thereafter become due and\npayable in respect of the company; and\n (c) pay the service tax referred to in paragraph (b).\n (2) A liquidator of any company referred to in subsection (1)\nwho fails to give notice to the Director General within the time\nspecified in paragraph (1) (a) or fails to provide for payment\nof the service tax as required under paragraph (1) (c) shall be\npersonally liable for any service tax that is or will become due\nand payable as aforesaid.\n (3)  Any liquidator who fails to comply with subsection (1)\ncommits an offence and shall, on conviction, be liable to a fine\nnot exceeding ten thousand ringgit.\n (4) Where two or more persons are appointed as liquidators or\nare required by law to carry out the winding-up of the company\nreferred to in subsection (1), the obligations and liabilities attaching\nLaws of Malaysia\nAct 807\nto a liquidator under this section shall attach to all such persons\njointly and severally, subject to a right of contribution between\nthemselves as in cases of contract.\nAppointment of receiver to be notified to Director General"
+   }
+  },
+  {
+   "id": "MY-H586-A83",
+   "no": 83,
+   "noLabel": {
+    "en": "Section 83"
+   },
+   "chapter": {
+    "en": "Part XII"
+   },
+   "heading": {},
+   "text": {
+    "en": "83. (1)  Where a receiver of the property of a registered person\nis appointed, the receiver shall give notice of such appointment\nto the Director General within fourteen days thereafter, and shall\nbefore disposing of any of the assets of the registered person\nset aside such sum out of the assets as appears to the Director\nGeneral to be sufficient to provide for any service tax that is or\nwill thereafter become due and payable in respect of the taxable\nservices provided by the registered person before the appointment\nof the receiver, and shall pay such service tax.\n (2)  Any receiver appointed under subsection (1) who fails to\ngive notice to the Director General within the time specified in\nsubsection (1) or fails to provide for the payment of the taxable\nservice tax as required under that subsection shall be personally\nliable for any service tax that is or will become due and payable\nas aforesaid.\n (3)  Any receiver who fails to comply with subsection (1)\ncommits an offence and shall, on conviction, be liable to a fine\nnot exceeding ten thousand ringgit.\n (4)  Where two or more persons are appointed receivers, the\nobligations and liabilities attaching to a receiver under this section\nshall attach to all such persons jointly and severally, subject to a\nright of contribution between themselves as in cases of contract.\nRegistered person to submit audit certificate"
+   }
+  },
+  {
+   "id": "MY-H586-A84",
+   "no": 84,
+   "noLabel": {
+    "en": "Section 84"
+   },
+   "chapter": {
+    "en": "Part XII"
+   },
+   "heading": {},
+   "text": {
+    "en": "84. The Director General may require a registered person to submit\nannually an audit certificate, signed by a public accountant not in\nthe employment  of the registered person, in relation to the records\nrequired to be kept  by the registered person under section 24\nin respect of the taxable services provided by the registered\nperson.\nService Tax\nService tax, etc., to be payable notwithstanding any proceedings,\netc."
+   }
+  },
+  {
+   "id": "MY-H586-A85",
+   "no": 85,
+   "noLabel": {
+    "en": "Section 85"
+   },
+   "chapter": {
+    "en": "Part XII"
+   },
+   "heading": {},
+   "text": {
+    "en": "85. The institution of proceedings or the imposition of a penalty,\nfine or term of imprisonment under this Act or the compounding\nof an offence under section 80 shall not relieve any person from\nthe liability to pay for any service tax, surcharge, penalty, fees\nor other money under this Act.\nService of notices, etc."
+   }
+  },
+  {
+   "id": "MY-H586-A86",
+   "no": 86,
+   "noLabel": {
+    "en": "Section 86"
+   },
+   "chapter": {
+    "en": "Part XII"
+   },
+   "heading": {},
+   "text": {
+    "en": "86. (1) Every notice, direction or other document required by\nthis Act to be served on any person may be served—\n (a) personally on that person;\n (b)  by sending it to that person by registered post; or\n (c) by the electronic service under section 87.\n (2) The notice, direction or other document sent by registered\npost to a person shall be deemed to have been served on that\nperson at the time at which it would have been delivered to that\nperson in the ordinary course of the post if such notice, direction\nor other document was addressed—\n (a) in the case of a company, limited liability partnership,\nfirm, society or other body of persons—\n (i) to its registered office;\n (ii) to its last known address; or\n (iii) to any person authorized by it to accept service\nof process; and\n (b) in the case of an individual, to his last known address.\n (3) Where a person has given his consent for a notice to be\nserved on him through the electronic service, the notice shall\nbe deemed to have been served at the time when the electronic\nnotice is transmitted to his account through the electronic service.\nLaws of Malaysia\nAct 807\nUse of electronic service"
+   }
+  },
+  {
+   "id": "MY-H586-A87",
+   "no": 87,
+   "noLabel": {
+    "en": "Section 87"
+   },
+   "chapter": {
+    "en": "Part XII"
+   },
+   "heading": {},
+   "text": {
+    "en": "87. (1) Notwithstanding any other provision of this Act and subject\nto the regulations made under this Act, the Director General may\nprovide an electronic service to any registered user for—\n (a) the filing or furnishing of any application, return, declaration\nor any other document; and\n (b) the service of any notice, direction, order, permit, receipt\nor any other document.\n (2) Where an electronic notice is made and transmitted to the\nDirector General, the Director General shall not be liable for any\nloss or damage suffered by the registered user by reason of any\nerror or omission of whatever nature or however arising appearing\nin any electronic notice obtained by the registered user under the\nelectronic service if the error or omission was made in good faith\nand in the ordinary course of the discharge of the duties of the\nDirector General or occurred or arose as a result of any defect\nor breakdown in the electronic service or in the equipment used\nfor the provision of the electronic service.\n (3)  Any electronic notice made and transmitted by the registered\nuser shall be deemed to have been filed, furnished or served at\nthe time the electronic notice is received by the Director General.\n (4)  For the purposes of this section, \"registered user\" means\nany person who is authorized in writing by the Director General\nto gain access to and use the electronic service.\nProtection of officer of service tax from liability"
+   }
+  },
+  {
+   "id": "MY-H586-A88",
+   "no": 88,
+   "noLabel": {
+    "en": "Section 88"
+   },
+   "chapter": {
+    "en": "Part XII"
+   },
+   "heading": {},
+   "text": {
+    "en": "88. No officer of service tax or other person employed by the\nGovernment in the course of carrying out his duties under this\nAct shall be liable to make good any loss sustained in respect of\nany goods, documents, articles or things by fire, theft, damage or\nother causes while the goods, documents, articles or things in the\nlawful custody or control of the officer or other person employed\nby the Government in the course of carrying out his duties under\nthis Act unless the loss is caused by his wilful neglect or default.\nService Tax\nRewards"
+   }
+  },
+  {
+   "id": "MY-H586-A89",
+   "no": 89,
+   "noLabel": {
+    "en": "Section 89"
+   },
+   "chapter": {
+    "en": "Part XII"
+   },
+   "heading": {},
+   "text": {
+    "en": "89. The Director General may order such rewards as he may\ndeem fit to be paid to any officer of service tax or other person\nfor services rendered in connection with the detection of any\noffences against this Act.\nPower of Director General to charge fees"
+   }
+  },
+  {
+   "id": "MY-H586-A90",
+   "no": 90,
+   "noLabel": {
+    "en": "Section 90"
+   },
+   "chapter": {
+    "en": "Part XII"
+   },
+   "heading": {},
+   "text": {
+    "en": "90. The Director General may charge such fee as he may consider\nreasonable in respect of any service rendered by him or any\nofficer of service tax—\n (a) which is not required to be rendered under this Act; and\n (b) for which no fee is prescribed by any written law.\nPower to make regulations"
+   }
+  },
+  {
+   "id": "MY-H586-A91",
+   "no": 91,
+   "noLabel": {
+    "en": "Section 91"
+   },
+   "chapter": {
+    "en": "Part XII"
+   },
+   "heading": {},
+   "text": {
+    "en": "91. (1)  The Minister may make regulations as may be necessary\nor expedient for the purposes of carrying into effect the provisions\nof this Act.\n  (2)  Without prejudice to the generality of subsection (1),\nMinister may prescribe—\n (a) all matters relating to registration of registered person;\n (b) all matters relating to taxable period;\n (c) all matters relating to determination of value of taxable\nservice;\n (d) all matters relating to furnishing returns and payment of\nservice tax;\n (e) all matters relating to refund and remission of service\ntax;\n (f) all matters relating to public ruling and customs ruling;\nLaws of Malaysia\nAct 807\n (g) all matters relating to electronic service;\n (h) all matters relating to invoices, credit notes and debit\nnotes;\n (i) all matters relating to the offices for the administration\nof service tax;\n (j) all fees required by this Act to be prescribed;\n (k) all forms to be prescribed for the purposes of this\nAct; or\n (l) any other matters required by this Act to be prescribed.\n (2) Any regulations made under this section may prescribe\nan act or omission in contravention of the regulations to be an\noffence and may prescribe penalties of a fine not exceeding thirty\nthousand ringgit or to imprisonment for a term not exceeding two\nyears or both for such offence.\nPart XIII\nSAVINGS AND TRANSITIONAL\nRegistration on the commencement date"
+   }
+  },
+  {
+   "id": "MY-H586-A92",
+   "no": 92,
+   "noLabel": {
+    "en": "Section 92"
+   },
+   "chapter": {
+    "en": "Part XIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "92. (1) Notwithstanding section 13, any person who provides\nservices before the effective date which services are taxable\nservices on the effective date shall, within thirty days from\nthe date of the coming into operation of this Act, apply to the\nDirector General to be registered as a registered person if there\nare reasonable grounds for believing that the total value of his\ntaxable services provided in the month of effective date and eleven\nmonths immediately succeeding that month will exceed the total\nvalue of taxable services as prescribed in subsection 12(1).\n (2) The Director General shall register the person referred\nto in subsection (1) with effect from the first day of the month\nfollowing the month in which the application is made and the\nperson shall charge the service tax on the taxable service provided\nby the person with effect from such day.\nService Tax\n (3) Any person who provides services before the effective\ndate which services are taxable services on the effective date and\nhas made an application before the effective date to the Director\nGeneral to be registered as a registered person under this Act—\n (a) shall be deemed to have been registered in accordance with\nsection 13 on the effective date, if there are reasonable\ngrounds for believing that the total value of his taxable\nservices provided in the month of the effective date and\neleven months immediately succeeding that month will\nexceed the amount of total value of taxable services as\nprescribed in subsection 12(1); and\n (b) shall charge the service tax on the taxable services\nprovided by the person with effect from the effective date.\n (4) Any person who is registered under the Goods and Services\nTax Act 2014 [ Act 762 ] before the effective date and provides\ntaxable services on the effective date—\n (a) shall be deemed to have been registered in accordance with\nsection 13 on the effective date, if there are reasonable\ngrounds for believing that the total value of his taxable\nservices provided in the month of the effective date and\neleven months immediately succeeding that month will\nexceed the amount of total value of taxable services as\nprescribed in subsection 12(1); and\n (b) shall charge the service tax on the taxable services\nprovided by the person with effect from the effective date.\nProgressive or periodic agreement"
+   }
+  },
+  {
+   "id": "MY-H586-A93",
+   "no": 93,
+   "noLabel": {
+    "en": "Section 93"
+   },
+   "chapter": {
+    "en": "Part XIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "93. (1) Where any taxable service is provided under an agreement\nfor a period or progressively over a period whether or not at\nregular intervals and that period begins before 1 June 2018 and\nends after the effective date, the proportion of the service which\nis attributed to the part of the period after the effective date shall\nbe chargeable to service tax.\nLaws of Malaysia\nAct 807\n (2) The services provided under subsection (1) shall be taken\nto be made continuously and uniformly throughout the period of\nthat agreement.\n (3)  Where the services referred to in subsection (1) is provided\nunder a warranty whether expressed, implied or required by law\nand the value of the warranty is included in the value of the\nservices provided, no service tax shall be charged on the services\nprovided under such warranty.\n (4)  Subsections (1) and (2) shall not apply to a provision\nof services where goods and services tax under the Goods and\nServices Tax Act 2014 has been paid on the services to the extent\ncovered by the invoice.\nRights granted for life"
+   }
+  },
+  {
+   "id": "MY-H586-A94",
+   "no": 94,
+   "noLabel": {
+    "en": "Section 94"
+   },
+   "chapter": {
+    "en": "Part XIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "94. (1) This section shall apply where—\n (a) a registered person, who is a club or other similar body,\nprovides taxable services under an agreement;\n (b) the agreement provides whether expressly or implicitly\nthat a right is to be granted or exercisable for the rest\nof the person's life or for a period of not less than thirty\nyears; and\n (c) the rights is granted or first exercisable before the effective\ndate.\n (2) Where any payment for rights granted or exercisable for\nthe rest of the person's life or for a period of not less than thirty\nyears is paid by existing or new members of a club or other\nsimilar body for any rights to use facilities of the club or other\nsimilar body, the provision of services on which any payment is\nmade—\n (a) before the effective date, shall not be chargeable to service\ntax; and\n (b) on or after the effective date, shall be chargeable to\nservice tax.\nService Tax\nThings done in anticipation of the enactment of this Act"
+   }
+  },
+  {
+   "id": "MY-H586-A95",
+   "no": 95,
+   "noLabel": {
+    "en": "Section 95"
+   },
+   "chapter": {
+    "en": "Part XIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "95. All acts and things done by or on behalf of the Director\nGeneral in preparation for or in anticipation of the enactment of\nthis Act and any expenditure incurred in relation thereto shall\nbe deemed to have been authorized under this Act, provided that\nthe acts and things done are consistent with the general intention\nand purposes of this Act, and all rights and obligations acquired\nor incurred as a result of the doing of those acts or things\nincluding any expenditure incurred in relation thereto shall upon\nthe coming into operation of this Act be deemed to be the rights\nand obligations of the Director General.\nHakcipta Pencetak H\nPERCETAKAN NASIONAL MALAYSIA BERHAD\nSemua Hak Terpelihara. Tiada mana-mana bahagian jua daripada penerbitan ini boleh diterbitkan semula atau disimpan di dalam ben tuk\nyang boleh diperolehi semula atau disiarkan dalam sebarang bentuk dengan apa jua cara elektronik, mekanikal, fotokopi, rakaman dan/\natau sebaliknya tanpa mendapat izin daripada Percetakan Nasional Malaysia Berhad (Pencetak kepada Kerajaan Malaysia yang\ndilantik).\nDICETAK OLEH\nPERCETAKAN NASIONA L MALAYSIA BERHAD,\nKUALA LUMPUR\nBAGI PIHAK DAN DENGAN PERINT AH KERAJAAN MALA YSIA\nWJW011461   28-08-2018"
    }
   }
- ]
+ ],
+ "replacedAt": "2026-10-28",
+ "replaceNote": "2026-10-28 以新版扫描件 OCR 全文替换：条数 22 → 95"
 }

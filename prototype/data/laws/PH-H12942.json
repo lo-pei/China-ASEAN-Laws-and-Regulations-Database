@@ -1,0 +1,72 @@
+{
+ "id": "PH-H12942",
+ "title": {
+  "zh": null,
+  "en": "An Act to Provide for the Revision and Correction of Land-Tax Assessments, the Valuation of Newly Declared Real Property for the Purposes of Taxation, and Other",
+  "orig": "An Act to Provide for the Revision and Correction of Land-Tax Assessments, the Valuation of Newly Declared Real Property for the Purposes of Taxation, and Other"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1913-02-11",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2238",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 2198,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1913/act_2238_1913.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02238_1913_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02238_1913_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12942-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The position of provincial assessor is hereby created for each province possessing municipalities\norganized under the provisions of the Municipal Code. In those provinces organized under the Provincial\nGovernment Act, the assessor shall be appointed by the Executive Secretary, upon nomination of the\nprovincial board, and shall have his office in the provincial building. He shall be a resident of the province to\nwhich appointed and shall not be subject to the provisions of the Revised Civil Service Act unless his\nappointment shall so state. He shall receive such salary as the provincial board shall fix with the approval of\nthe Executive Secretary.\nIn provinces organized under the Special Provincial Government Act, possessing municipalities organized\nunder the provisions of the Municipal Code, the respective provincial treasurers thereof shall be, ex-officio,\nprovincial assessors."
+   }
+  },
+  {
+   "id": "PH-H12942-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Provincial assessors shall be allowed such number of deputies and clerks as shall be fixed by the\nprovincial board with the approval of the Executive Secretary. A deputy assessor shall not be subject to the\nprovisions of the Revised Civil Service Act unless his appointment shall so state, and any person already in\nthe Government service, if appointed to such position, may receive additional compensation therefor, the\nprovisions of Act Numbered One hundred and forty-eight to the contrary notwithstanding."
+   }
+  },
+  {
+   "id": "PH-H12942-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "Before entering upon their duties, the provincial assessor or his assistants shall take and\nsubscribe to the following oath or affirmation:\nI,......................................., do solemnly swear (or affirm) that I will appraise the real property subject to\ntaxation in the Province of ........................................, so far as required by law, at its true value in money, and\nwill faithfully discharge all the duties imposed upon me by law. So help me God. (Last four words to be\nomitted in case of affirmation.)\n.....................................\n(Signature of assessor.)\nSworn and subscribed to before me this............day of.............................,19........\n.................................................................\n(Signature of recorder of provincial board.)"
+   }
+  }
+ ]
+}

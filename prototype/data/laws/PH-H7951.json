@@ -3,7 +3,11 @@
  "title": {
   "zh": "在奥罗拉省设立奥罗拉经济特区、为此设立奥罗拉经济特区管理局、拨付资金并为其他目的法案",
   "en": "An Act Establishing the Aurora Special Economic Zone in the Province of Aurora, Creating for the purpose the Aurora Special Economic Zone Authority, appropriating funds therefor and for other purposes",
-  "orig": "An Act Establishing the Aurora Special Economic Zone in the Province of Aurora, Creating for the purpose the Aurora Special Economic Zone Authority, appropriating funds therefor and for other purposes"
+  "orig": "An Act Establishing the Aurora Special Economic Zone in the Province of Aurora, Creating for the purpose the Aurora Special Economic Zone Authority, appropriating funds therefor and for other purposes",
+  "vi": "Đạo luật thành lập Đặc khu Kinh tế Aurora tại Tỉnh Aurora, và phân bổ kinh phí cho mục đích này, và cho các mục đích khác",
+  "th": "พระราชบัญญัติจัดตั้งเขตเศรษฐกิจพิเศษ Aurora ในจังหวัด Aurora และจัดสรรเงินทุนสำหรับการนี้ และเพื่อวัตถุประสงค์อื่น",
+  "id": "Undang-Undang membentuk Kawasan Ekonomi Khusus Aurora di Provinsi Aurora, dan mengalokasikan dana untuk itu, dan untuk tujuan lain",
+  "ms": "Akta menubuhkan Zon Ekonomi Khas Aurora di Wilayah Aurora, dan memperuntukkan dana untuk itu, dan untuk tujuan lain"
  },
  "country": "PH",
  "countryName": "菲律宾",
@@ -27,14 +31,14 @@
  "structureMode": "ARTICLE",
  "structure": null,
  "articleCount": 27,
- "chars": 39710,
+ "chars": 39709,
  "source": {
   "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
   "url": "https://lawphil.net/statutes/repacts/ra2007/ra_9490_2007.html"
  },
  "sourceFile": null,
  "fetchedAt": "2026-10-06",
- "completenessNote": "全文，共 27 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra2007/ra_9490_2007.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "completenessNote": "全文，共 27 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra2007/ra_9490_2007.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原；已清除正文中的 1 个控制字符（C0/C1 区，法律文本中无合法用途，系 PDF 抽取/表单域残留）。",
  "textQuality": null,
  "ocrNoisySections": null,
  "pdfs": null,
@@ -47,7 +51,7 @@
     "en": "Section 1."
    },
    "text": {
-    "en": "Short Title. - This Act shall be known as the - Aurora Special Economic Zone Act of 2007&acirc;€."
+    "en": "Short Title. - This Act shall be known as the - Aurora Special Economic Zone Act of 2007&acirc;€."
    }
   },
   {

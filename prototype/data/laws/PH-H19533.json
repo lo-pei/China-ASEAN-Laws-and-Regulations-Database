@@ -1,0 +1,62 @@
+{
+ "id": "PH-H19533",
+ "title": {
+  "zh": null,
+  "en": "MaLACAÑAN PALACE BY THE PRESIDENT OF THE PHILIPPINES FIXING THE CEILING PRICES OF COMMODITIES AND FOR OTHER PURPOSES",
+  "orig": "MaLACAÑAN PALACE BY THE PRESIDENT OF THE PHILIPPINES FIXING THE CEILING PRICES OF COMMODITIES AND FOR OTHER PURPOSES"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p158",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Executive Order No. 353",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 567,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/07_行政命令_EO/EO_00353_1950.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 EO_00353_1950.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H19533-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Sec 2"
+   },
+   "text": {
+    "en": "Any commodity not ineluded in any previous\nExecutive Order fixing ceiling prices and issued by author\nity of Republic Act No. 509 or in this Order, the size and\nspecification of which are the same as those of the fore-\ngoing shall have the same ceiling price."
+   }
+  },
+  {
+   "id": "PH-H19533-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Sec 3"
+   },
+   "text": {
+    "en": "This Order shall take effect immediately.\nDone in the City of Manila, this 6th day of October, in\nthe year of Our Lord nineteen hundred and fifty, and of\nthe Independence of the Philippines, the fifth.\nELPIDIO QUIRINO\nPresident of the Philipines\nBy the President:\nTEODORO EVANGELISTA\nExecutive Secretary\n4671"
+   }
+  }
+ ]
+}

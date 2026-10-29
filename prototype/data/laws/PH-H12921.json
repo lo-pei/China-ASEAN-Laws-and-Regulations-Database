@@ -1,0 +1,62 @@
+{
+ "id": "PH-H12921",
+ "title": {
+  "zh": null,
+  "en": "An Act Amending Act Numbered Eleven Hundred and Forty-Seven, Entitled \"An Act Regulating the Registration, Branding, Conveyance; and Slaughter of Large Cattle, and Providing for the Disposition, Care, Custody, and Sale of Estrays or Large Cattle Captured or Seized By the Philippines Constabulary or Other Peace Officers, and So Forth.",
+  "orig": "An Act Amending Act Numbered Eleven Hundred and Forty-Seven, Entitled \"An Act Regulating the Registration, Branding, Conveyance; and Slaughter of Large Cattle, and Providing for the Disposition, Care, Custody, and Sale of Estrays or Large Cattle Captured or Seized By the Philippines Constabulary or Other Peace Officers, and So Forth."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1913-02-03",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2216",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1025,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1913/act_2216_1913.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02216_1913_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02216_1913_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12921-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section thirteen of Act Numbered Eleven hundred and forty-seven, entitled \"An Act regulating\nthe registration, branding, conveyance, and slaughter of large cattle, and providing for the disposition, care,\ncustody, and sale of estrays or large cattle captured or seized by the Philippines Constabulary or other peace\nofficers, and so forth,\" is hereby amended to read as follows:\n\"Section 13. The municipal treasurer shall enter in a book, duly prepared and kept for the purpose, all transfers\nof large cattle, which entry shall set forth the name and residence of the owner, the name and residence of the\npurchaser, the purchase price of the animal or the consideration for the sale or transfer, the class, sex, age,\nbrands, knots of radiated hair commonly known as remolinos or cowlicks, and other marks of identification of\nthe animal, and a reference by number to the original certificate of ownership, with the name of the\nmunicipality which issued it."
+   }
+  },
+  {
+   "id": "PH-H12921-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, February 3, 1913."
+   }
+  }
+ ]
+}

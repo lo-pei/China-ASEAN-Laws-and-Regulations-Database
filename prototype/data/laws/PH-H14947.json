@@ -1,0 +1,62 @@
+{
+ "id": "PH-H14947",
+ "title": {
+  "zh": null,
+  "en": "Batas Pambansa Blg. 82  An Act Further Amending Sections 145, 146, 147, 181, and 186 of the National Internal Revenue Code and for Other Purposes.",
+  "orig": "Batas Pambansa Blg. 82  An Act Further Amending Sections 145, 146, 147, 181, and 186 of the National Internal Revenue Code and for Other Purposes."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1980-09-17",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Batasang Pambansa",
+ "docNumber": "Batas Pambansa Blg. 82",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1674,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (HTML full text only)  |  https://lawphil.net/statutes/bataspam/bp1980/bp_82_1980.html"
+ },
+ "sourceFile": "菲律宾/法律原文/08_国民议会法令_BP/BP_00082_1980_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 BP_00082_1980_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14947-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section 145 of the National Internal Revenue Code of 1977, as amended, is hereby further\namended to read as follows:\n\"Sec. 145. Specific tax on distilled spirits. On distilled spirits there shall be collected, subject to the provisions\nof Section one hundred thirty-nine of this Code, except as hereinafter provided, specific taxes as follows:\n\"(a) If produced domestically from locally produced raw materials, per proof liter, two pesos and forty\ncentavos: Provided, That if produced in a pot still or other similar primary distilling apparatus, by a distiller\nproducing not more than fifty per centum of alcohol by volume, per proof liter, one peso and fifty-six\n\"(b) If imported or produced from imported raw materials, per proof liter, thirty-five pesos.\n\"This tax shall be proportionally increased for any strength of the spirits taxed over proof spirits, and the tax\nshall attach to this substance as soon as it is in existence as such, whether it be immediate or at any subsequent\ntime transformed into any other substance either in the process of original production or by any subsequent\n\"Spirits or \"distilled spirits\" is the substance known as ethyl alcohol, ethanol or spirits of wine, including all\ndilutions and mixtures thereof, from whatever source by whatever process produced, and shall include whisky,\nbrandy, rum, gin and vodka, and other similar products or mixtures except compounded liquors taxed under"
+   }
+  },
+  {
+   "id": "PH-H14947-A146",
+   "no": 146,
+   "noLabel": {
+    "en": "Section 146"
+   },
+   "text": {
+    "en": "of this Code.\n\"\"Proof spirits\" is liquor containing one-half of its volume of alcohol of a specific gravity of seven thousand\nnine hundred and thirty-nine ten thousandths at fifteen degrees centigrade. A \"proof liter\" means a liter of\nproof spirits.\""
+   }
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "id": "ID-H629",
+ "title": {
+  "zh": "克隆孔二级行政区县首府改名法",
+  "en": "Law on the Change of the Name of the Capital of Klungkung Second-Level Regency",
+  "id": "PERUBAHAN NAMA IBUKOTA KABUPATEN DAERAH TINGKAT II KLUNGKUNG",
+  "orig": "PERUBAHAN NAMA IBUKOTA KABUPATEN DAERAH TINGKAT II KLUNGKUNG",
+  "vi": "Luật về Việc Đổi tên Thủ phủ Huyện Cấp hai Klungkung",
+  "th": "พระราชบัญญัติว่าด้วยการเปลี่ยนชื่อเมืองหลวงของอำเภอระดับสองกลุงกุง",
+  "ms": "Akta tentang Perubahan Nama Ibu Pejabat Kabupaten Daerah Tingkat II Klungkung"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02c",
+ "language": "id",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "1992",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU18-1992",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 3,
+ "chars": 808,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PP%20NO%2018%20TH%201992.pdf&fl=P03721"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\01_宪法与基础法\\印尼_文本_1992_PERUBAHAN NAMA IBUKOTA KABUPATEN DAERAH TINGKAT II KLUNGKUNG.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 3 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H629-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\n\nNama Ibukota Kabupaten Daerah Tingkat II Klungkung diubah dari\nKlungkung menjadi Semarapura."
+   }
+  },
+  {
+   "id": "ID-H629-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\n\nSegala sesuatu yang berkenaan dengan pelaksanaan Peraturan\nPemerintah ini diatur lebih lanjut oleh Gubernur Kepala Daerah\nTingkat I Bali dengan memperhatikan ketentuan peraturan\nperundang-undangan yang berlaku.\n\n\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H629-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\n\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\n\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran\nNegara Republik Indonesia.\n\nDitetapkan di Jakarta\npada tanggal 25 April 1992\n\nPRESIDEN REPUBLIK INDONESIA\n\n     ttd\n\n          SOEHARTO\n\nDiundangkan di Jakarta\npada tanggal 25 April 1992\n\nMENTERI/SEKRETARIS NEGARA\n   REPUBLIK INDONESIA\n\n    ttd\n\n  MOERDIONO"
+   }
+  }
+ ]
+}

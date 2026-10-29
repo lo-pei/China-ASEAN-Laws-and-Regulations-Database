@@ -1,0 +1,72 @@
+{
+ "id": "PH-H16096",
+ "title": {
+  "zh": null,
+  "en": "An Act Requiring the Branding and Registration of Large Animals Imported Into the Philippines and Prescribing Penalties for the VIolation of the",
+  "orig": "An Act Requiring the Branding and Registration of Large Animals Imported Into the Philippines and Prescribing Penalties for the VIolation of the"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1938-08-23",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 379",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 833,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00379_1938_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00379_1938_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H16096-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "No delivery to the consignee shall be authorized by the Collector of Customs, of any large\nanimal' imported into the Philippines, unless the Director of Animal Industry or his authorized representative\nhas certified that' said animal has been duly registered and branded with a distinctive mark in the manner\nprescribed by the Bureau of Animal Industry."
+   }
+  },
+  {
+   "id": "PH-H16096-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Any person who shall fail, neglect or refuse to brand or register large animals as herein provided\nshall be punished for each animal not branded or registered in' accordance with this Act by a fine of not less\nthan two hundred pesos nor more than one thousand pesos or by imprisonment of not less than thirty days nor\nmore than six months, or by both such fine and imprisonment, at the discretion of the court."
+   }
+  },
+  {
+   "id": "PH-H16096-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, August 23, 1938."
+   }
+  }
+ ]
+}

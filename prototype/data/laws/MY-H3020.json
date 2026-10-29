@@ -1,0 +1,66 @@
+{
+ "id": "MY-H3020",
+ "title": {
+  "zh": "2026年纳闽信托（修正）条例",
+  "en": "LABUAN TRUSTS (AMENDMENT) REGULATIONS 2026",
+  "orig": "LABUAN TRUSTS (AMENDMENT) REGULATIONS 2026",
+  "ms": "Peraturan Amanah Labuan (Pindaan) 2026",
+  "vi": "Quy định về Ủy thác Labuan (Sửa đổi) năm 2026",
+  "th": "ข้อบังคับทรัสต์ลาบวน (การแก้ไข) ค.ศ. 2026",
+  "id": "Peraturan Perwalian Labuan (Perubahan) Tahun 2026"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-7",
+ "language": "ms",
+ "level": "regulation",
+ "category": "03_涉外投资与贸易",
+ "status": "active",
+ "promulgatedDate": "2026",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "PUA240",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 2,
+ "chars": 414,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-view.php?type=pua&no=P.U. (A) 240/2026&status=AMENDMENT"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\03_涉外投资与贸易\\2026_P.U.(A)240-2026_LABUAN TRUSTS (AMENDMENT) REGULATIONS 2026.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 2 条；逐字未改写（源自厂商 OCR 文本）。原文马来文/英文双语并置，已分别落 text.ms 与 text.en。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H3020-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "1. (1) Peraturan-peraturan ini bolehlah dinamakan Peraturan-Peraturan\n\nAmanah Labuan (Pindaan) 2026.\n\n(2) Peraturan-Peraturan ini mula berkuat kuasa pada 1 Julai 2026.\n\nPenggantian Jadual Ketiga"
+   }
+  },
+  {
+   "id": "MY-H3020-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "2. Peraturan-Peraturan Amanah Labuan 2010 [P.U. (A) 415/2010] dipinda dengan\n\nmenggantikan Jadual Ketiga dengan jadual yang berikut:\n\n\"JADUAL KETIGA\n\n[Peraturan 8]\n\nBAYARAN FI\n\n(1)\n\nBil.\n\n(2)\n\nButiran\n\n(3)\n\nFi\n\n(USD)\n\n\"."
+   }
+  }
+ ]
+}

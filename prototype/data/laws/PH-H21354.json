@@ -1,0 +1,82 @@
+{
+ "id": "PH-H21354",
+ "title": {
+  "zh": null,
+  "en": "Allowing Sales Tax Credits on Raw Materials Purchase Against Quarterly Sales Taxes Without Taking Into Account Raw Material, Work-In-Process and Finished Goods Inventories",
+  "orig": "Allowing Sales Tax Credits on Raw Materials Purchase Against Quarterly Sales Taxes Without Taking Into Account Raw Material, Work-In-Process and Finished Goods Inventories"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p159",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1984-10-10",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Executive Order No. 990",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 2287,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/07_行政命令_EO/EO_00990_1984_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 EO_00990_1984_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H21354-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Sec 1"
+   },
+   "text": {
+    "en": "Credits against sales tax due. Any specific or percentage tax paid under Titles IV and V of the National\nInternal Revenue Code on domestically manufactured, processed or produced, or imported raw material, part,\naccessory or other article locally purchased or imported by the manufacturer for conversion into or intended to\nform part of the finished products shall be credited against the sale tax due on the finished product enumerated\nin Sections 194, 195, 196, 197, 199 (a) and 201 of the same Code: Provided, however, that in case of total tax\npaid on the raw material, part, accessory or other article exceeds the amount of the sales tax due on the\nfinished product, the excess shall be credited against the sales tax liability of the manufacturer for the\nsucceeding taxable quarter or quarters; and, Provided, further, that the amount of tax on the raw material, part,\naccessory or other article shall be indicated as a separate item in the sales invoice; and, Provided, furthermore,\nthat any tax credit sold, transferred, disposed of, or, for any other reason, can no longer be used in the\nmanufacture of the finished product, shall either be deducted from any unused tax credit or paid as a part of\nthe tax due in the quarter following the disposal."
+   }
+  },
+  {
+   "id": "PH-H21354-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Sec 2"
+   },
+   "text": {
+    "en": "Transitory provisions. All accumulated tax credits accruing on inventories of raw materials,\nwork-in-process and finished goods as of the end of taxable quarter which commenced after December 31,\n1984 shall be applied in four equal installments against the quarterly sales tax for the four quarters\nimmediately following the effectivity of this Executive Order."
+   }
+  },
+  {
+   "id": "PH-H21354-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Sec 3"
+   },
+   "text": {
+    "en": "Uniformity of methods of recording sales tax credits and tax liability. The Minister of Finance, upon\nrecommendation of the Commissioner of Internal Revenue, shall promulgate rules and regulations prescribing\nuniform system of accounting and method of recording sales tax liability of manufactures and sales tax credits\nrepresenting specific and sales tax shifted and separately billed in sales invoices by dealers, importers,\nmanufactures or producers."
+   }
+  },
+  {
+   "id": "PH-H21354-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Sec 4"
+   },
+   "text": {
+    "en": "Effectivity. This Order shall take effect on sales for taxable quarters beginning after December 31,\n1984.\nDONE in the City of Manila, this 10th day October, in the year of Our Lord, nineteen hundred and\neighty-four."
+   }
+  }
+ ]
+}

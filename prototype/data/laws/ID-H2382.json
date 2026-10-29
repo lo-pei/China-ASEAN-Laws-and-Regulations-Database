@@ -1,0 +1,2492 @@
+{
+ "id": "ID-H2382",
+ "title": {
+  "zh": "商品期货交易实施法",
+  "en": "Law on the Implementation of Commodity Futures Trading",
+  "id": "PENYELENGGARAAN PERDAGANGAN BERJANGKA KOMODITI",
+  "orig": "PENYELENGGARAAN PERDAGANGAN BERJANGKA KOMODITI",
+  "vi": "Luật về Việc Thực hiện Giao dịch Hàng hóa Kỳ hạn",
+  "th": "พระราชบัญญัติว่าด้วยการดำเนินการซื้อขายล่วงหน้าสินค้าโภคภัณฑ์",
+  "ms": "Akta tentang Pelaksanaan Perdagangan Niaga Hadapan Komoditi"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02c",
+ "language": "id",
+ "level": "law",
+ "category": "02_民商事与经济法",
+ "status": "active",
+ "promulgatedDate": "2014",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU49-2014",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 175,
+ "chars": 135855,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PP%20Nomor%2049%20Tahun%202014.pdf&fl=P17429"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\02_民商事与经济法\\印尼_文本_2014_PENYELENGGARAAN PERDAGANGAN BERJANGKA KOMODITI.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 175 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H2382-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\nDalam Peraturan Pemerintah ini yang dimaksud dengan:\n1. Perdagangan Berjangka Komoditi yang selanjutnya disebut\nPerdagangan Berjangka adalah segala sesuatu yang\nberkaitan dengan jual beli Komoditi dengan penarikan\nMargin dan dengan penyelesaian kemudian berdasarkan\nKontrak Berjangka, Kontrak Derivatif Syariah, dan/atau\nKontrak Derivatif lainnya.\n2. Komoditi adalah semua barang, jasa, hak dan kepentingan\nlainnya, dan setiap derivatif dari Komoditi, yang dapat\ndiperdagangkan dan menjadi subjek  Kontrak Berjangka,\nKontrak Derivati f Syariah, dan/atau Kontrak Derivatif\nlainnya.\n3. Badan Pengawas Perdagangan Berjangka Komoditi yang\nselanjutnya disebut Bappebti adalah lembaga pemerintah\nyang tugas pokoknya melakukan pembinaan, pengaturan,\npengembangan, dan pengawasan Perdagangan Berjangka.\n4. Bursa Berjangka adalah badan usaha yang\nmenyelenggarakan dan menyediakan sistem dan/atau\nsarana untuk kegiatan jual beli Komoditi berdasarkan\nKontrak Berjangka, Kontrak Derivatif Syariah, dan/atau\nKontrak Derivatif lainnya.\n5. Kontrak Berjangka adalah suatu  bentuk kontrak standar\nuntuk membeli atau menjual Komoditi dengan\npenyelesaian kemudian sebagaimana ditetapkan di dalam\nkontrak yang diperdagangkan di Bursa Berjangka.\n6. Kontrak Derivatif adalah kontrak yang nilai dan harganya\nbergantung pada subjek Komoditi.\n7. Kontrak Derivatif Syariah adalah kontrak derivatif yang\nsesuai dengan prinsip-prinsip syariah.\n8. Opsi adalah kontrak yang memberikan hak kepada\npembeli untuk membeli atau menjual Kontrak Berjangka\natau Komoditi tertentu pada tingkat harga, jumlah, dan\njangka waktu tertentu yang telah ditetapkan terlebih\ndahulu dengan membayar sejumlah premi.\n9. Lembaga ...\n\n9. Lembaga Kliring dan Penjaminan Berjangka yang\nselanjutnya disebut Lembaga Kliring Berjangka adalah\nbadan usaha yang menyelenggarakan dan menyediakan\nsistem dan/atau sarana untuk pelaksanaan kliring dan\npenjaminan penyelesaian transaksi Perdagangan\nBerjangka.\n10. Sistem Perdagangan Alternatif adalah sistem perdagangan\nyang berkaitan dengan jual beli Kontrak Derivatif selain\nKontrak Berjangka dan Kontrak Der ivatif Syariah, yang\ndilakukan di luar Bursa Berjangka, secara bilateral dengan\npenarikan Margin yang didaftarkan ke Lembaga Kliring\nBerjangka.\n11. Penyelenggara Sistem Perdagangan Alternatif adalah\nPedagang Berjangka yang merupakan Anggota Kliring\nBerjangka y ang melakukan kegiatan jual beli Kontrak\nDerivatif selain Kontrak Berjangka dan Kontrak Derivatif\nSyariah, untuk dan atas nama sendiri dalam Sistem\nPerdagangan Alternatif.\n12. Peserta Sistem Perdagangan Alternatif adalah Pialang\nBerjangka yang merupakan Anggot a Kliring Berjangka\nyang melakukan kegiatan jual beli Kontrak Derivatif selain\nKontrak Berjangka dan Kontrak Derivatif Syariah, atas\namanat Nasabah dalam Sistem Perdagangan Alternatif.\n13.  Pihak adalah orang perseorangan, koperasi, badan usaha\nlain, badan usaha bersama, asosiasi, atau kelompok orang\nperseorangan, dan/atau perusahaan yang terorganisasi.\n14. Anggota Bursa Berjangka adalah Pihak yang mempunyai\nhak untuk menggunakan sistem dan/atau sarana Bursa\nBerjangka dan hak untuk melakukan transaksi  Kontrak\nBerjangka, Kontrak Derivatif Syariah, dan /atau Kontrak\nDerivatif lainnya  sesuai dengan peraturan dan tata tertib\nBursa Berjangka.\n15. Anggota Lembaga Kliring dan Penjaminan Berjangka yang\nselanjutnya disebut Anggota Kliring Berjangka adalah\nAnggota Bursa Berj angka yang mendapat hak untuk\nmenggunakan sistem dan/atau sarana Lembaga Kliring\nBerjangka dan mendapat hak dari Lembaga Kliring\nBerjangka untuk melakukan kliring dan mendapatkan\npenjaminan dalam rangka penyelesaian transaksi  Kontrak\nBerjangka, Kontrak De rivatif Syariah, dan/atau Kontrak\nDerivatif lainnya.\n16. Pialang  ...\n\n16. Pialang Perdagangan Berjangka yang selanjutnya disebut\nPialang Berjangka adalah badan usaha yang melakukan\nkegiatan jual beli Komoditi berdasarkan Kontrak\nBerjangka, Kontrak Derivatif Syariah, dan/atau K ontrak\nDerivatif lainnya  atas amanat Nasabah dengan menarik\nsejumlah uang dan/atau surat berharga tertentu sebagai\nMargin untuk menjamin transaksi tersebut.\n17. Penasihat Perdagangan Berjangka yang selanjutnya\ndisebut Penasihat Berjangka adalah Pihak yang\nmemberikan nasihat kepada pihak lain mengenai jual beli\nKomoditi berdasarkan Kontrak Berjangka, Kontrak\nDerivatif Syariah, dan/atau Kontrak Derivatif lainnya\ndengan menerima imbalan.\n18. Sentra Dana Perdagangan Berjangka yang selanjutnya\ndisebut Sentra Dana Berja ngka adalah wadah yang\ndigunakan untuk menghimpun dana secara kolektif dari\nmasyarakat untuk diinvestasikan dalam Kontrak\nBerjangka dan/atau Komoditi yang menjadi subjek\nKontrak Berjangka dan/atau instrumen lainnya yang\ndiatur dengan Peraturan Kepala Bappebti.\n19. Pengelola Sentra Dana Perdagangan Berjangka yang\nselanjutnya disebut Pengelola Sentra Dana Berjangka\nadalah Pihak yang melakukan usaha yang berkaitan\ndengan penghimpunan dan pengelolaan dana dari peserta\nSentra Dana Berjangka untuk diinvestasikan dala m\nKontrak Berjangka.\n20. Pedagang  Kontrak Berjangka, Kontrak Derivatif Syariah,\ndan/atau Kontrak Derivatif lainnya yang selanjutnya\ndisebut Pedagang Berjangka adalah Anggota Bursa\nBerjangka yang hanya berhak melakukan  transaksi\nKontrak Berjangka, Kontrak Der ivatif Syariah, dan/atau\nKontrak Derivatif lainnya di Bursa Berjangka untuk diri\nsendiri atau kelompok usahanya.\n21. Nasabah adalah Pihak  yang melakukan transaksi Kontrak\nBerjangka, Kontrak Derivatif Syariah, dan/atau Kontrak\nDerivatif lainnya melalui rekenin g yang dikelola oleh\nPialang Berjangka.\n22. Dana Kompensasi adalah dana yang digunakan untuk\nmembayar ganti rugi kepada Nasabah yang bukan Anggota\nBursa Berjangka karena cedera janji dan/atau kesalahan\nyang dilakukan oleh Anggota Bursa Berjangka dalam\nkedudukannya sebagai Pialang Berjangka.\n23. Margin ...\n\n23. Margin adalah sejumlah uang atau surat berharga yang\nharus ditempatkan oleh Nasabah pada Pialang Berjangka,\nPialang Berjangka pada Anggota Kliring Berjangka, atau\nAnggota Kliring Berjangka pada Lembaga Kliring Berjangka\nuntuk menjamin pelaksanaan transaksi Kontrak\nBerjangka, Kontrak Derivatif Syariah, dan/atau Kontrak\nDerivatif lainnya.\n24. Menteri adalah menteri yang menyelenggarakan urusan\npemerintahan di bidang perdagangan.\n\nBAB II\nBURSA BERJANGKA\n\nBagian Kesatu\nIzin Usaha"
+   }
+  },
+  {
+   "id": "ID-H2382-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\n(1) Bursa Berjangka didirikan sekurang -kurangnya oleh 11\n(sebelas) badan usaha yang berbentuk perseroan terbatas\nyang satu dengan lainnya tidak terafiliasi.\n(2) Badan usaha sebagaimana dimaksud pada ayat (1),\nmayoritas harus yang melakukan kegiatan usaha di\nbidang K omoditi dan/atau keuangan yang layak\ndiperdagangkan paling singkat 3 (tiga) tahun.\n(3) Bursa Berjangka sebagaimana dimaksud pada ayat (1)\nhanya dapat melakukan kegiatannya setelah memperoleh\nizin usaha dari Kepala Bappebti."
+   }
+  },
+  {
+   "id": "ID-H2382-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\n(1) Modal disetor Burs a Berjangka  paling sedikit berjumlah\nRp100.000.000.000,00 (seratus miliar rupiah).\n(2) Jumlah modal disetor sebagaimana dimaksud pada ayat\n(1) dapat diubah sesuai deng an perkembangan kegiatan\nusaha Bursa B erjangka dan ditetapkan dalam Peraturan\nKepala Bappebti.\n\nPasal ..."
+   }
+  },
+  {
+   "id": "ID-H2382-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\n(1) Untuk memperoleh izin usaha sebagaimana dimaksud\ndalam Pasal 2 ayat (3), Bursa Berjangka mengajukan\npermohonan kepada Kepala Bappebti disertai dengan\ndokumen berupa:\na. salinan akta pendirian perseroan t erbatas yang telah\ndisahkan oleh menteri yang menyelenggarakan urusan\npemerintahan di bidang hukum;\nb. daftar pendiri Bursa Berjangka;\nc. profil perusahaan pendiri Bursa Berjangka;\nd. Nomor Pokok Wajib Pajak (NPWP) perseroan terbatas;\ne. pertimbangan ekonomi yang mendasari pendirian\nBursa Berjangka ter masuk uraian tentang keadaan\npasar yang akan dibentuk;\nf. rencana usaha 3 (tiga) tahun;\ng. proyeksi keuangan selama 3 (tiga) tahun;\nh. neraca awal perseroan t erbatas yang telah diaudit oleh\nAkuntan Publik;\ni. daftar calon komisaris dan direksi;\nj. rancangan peraturan dan tata tertib Bursa Berjangka;\nk. perjanjian kerja sama Bursa Berjangka dengan\nLembaga Kliring Berjangka yang akan digunakan;\nl. rancangan Kontrak Berjangka, Kontrak Derivatif\nSyariah, Kontrak Derivatif lain nya dan/atau\nperdagangan fisik Komoditi;\nm. pernyataan ter tulis kesiapan perangkat keras dan\nlunak Bursa Berjangka; dan\nn. fotokopi akta pendirian Lembaga Kliring Berjangka\nyang akan digunakan apabila Lembaga Kliring\nBerjangka tersebut merupakan bagian dari Bursa\nBerjangka.\n(2) Permohonan sebagaimana dimaksud pada ayat (1)\ndiajukan dengan menggunakan formulir yang bentuk dan\nisinya ditetapkan oleh Kepala Bappebti.\n\n\nPasal ..."
+   }
+  },
+  {
+   "id": "ID-H2382-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\nDalam memberikan izin usaha Bursa Berjangka, Kepala\nBappebti:\na. memeriksa kelengkapan dokumen yang dipersyaratkan\nsebagaimana dimaksud dalam Pasal 4 ayat (1);\nb. melakukan penilaian rencana kegiatan 3 (tiga) tahun;\nc. melakukan penilaian dan persetujuan rancangan peraturan\ndan tata tertib;\nd. melakukan uji kepatutan dan kelayakan ( fit and proper test)\nterhadap calon komisaris dan direksi; dan\ne. memeriksa sarana dan prasarana fisik, sistem bursa, dan\ntransaksi yang aman dan efisien."
+   }
+  },
+  {
+   "id": "ID-H2382-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\n(1) Kepala Bappebti wajib memberikan atau menolak\npermohonan yang diajukan setiap Pihak untuk\nmemperoleh izin usaha sebagai Bursa Berjangka paling\nlambat 32 (tiga puluh d ua) hari kerja terhitung sejak\npermohonan diterima secara lengkap.\n(2) Izin usaha Bursa Berjangka berlaku selama Bursa\nBerjangka tersebut masih aktif melakukan kegiatannya."
+   }
+  },
+  {
+   "id": "ID-H2382-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\nKetentuan lebih lanjut mengenai tata cara pemberian izin\nusaha Bursa Berjangka  diatur dengan Peraturan Kepala\nBappebti.\n\nBagian Kedua\nOrgan Perusahaan"
+   }
+  },
+  {
+   "id": "ID-H2382-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n(1) Saham Bursa Berjangka hanya dapat dimiliki oleh:\na. para pendiri;\nb. Anggota Bursa Berjangka;\nc. badan hukum Indonesia; dan/atau\nd. orang perseorangan.\n(2) Saham Bursa Berjangka sebagaimana dimaksud pada ayat\n(1) berupa saham atas nama yang mempunyai nilai\nnominal dan hak suara yang sama.\n(3) Dalam ...\n\n(3) Dalam hal badan hukum Indonesia sebagaimana\ndimaksud pada ayat (1) huruf c terdapat modal asing,\nmasing-masing badan hukum Indonesia tersebut hanya\ndiperkenankan memiliki saham Bursa Berjangka paling\nbanyak 10% (sepuluh perseratus).\n(4) Jumlah seluruh saham badan hukum Indonesia yang\nterdapat modal asing sebagaimana dimaksud pada ayat (3)\npaling banyak 40% (empat puluh perseratus) dari seluruh\nsaham Bursa Berjangka."
+   }
+  },
+  {
+   "id": "ID-H2382-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n(1) Jumlah anggota komisaris dan direksi Bursa Berjangka\nmasing-masing paling banyak 7 (tujuh) orang.\n(2) Anggota komisaris sebagaimana dimaksud pada ayat (1)\npaling sedikit 1 (satu) orang mewakili masyarakat.\n(3) Anggota direksi Bursa Berjangka dilarang  mempunyai\njabatan rangkap sebagai  komisaris, direksi, atau pegawai\npada peru sahaan yang bergerak di bidang Perdagangan\nBerjangka lainnya.\n(4) Calon anggota komisaris dan direksi Bursa Berjangka\nwajib diajukan kepada Kepala Bappebti untuk\nmendapatkan persetujuan.\n(5) Kepala Bappebti wajib memberikan persetujuan terhadap\ncalon anggota komisaris dan direksi Bursa Berjangka\nsebagaimana dimaksud pada ayat (4), apabila telah\nmemenuhi persyaratan:\na. cakap melakukan perbuatan hukum;\nb. tidak pernah dinyatakan pailit atau menj adi direktur\natau komisaris yang dinyatakan bersalah\nmenyebabkan suatu perusahaan dinyatakan pailit\ndalam jangka waktu 5 (lima) tahun terakhir;\nc. tidak pernah dipidana karena terbukti melakukan\ntindak pidana di bidang ekonomi atau keuangan;\nd. tidak pernah dipi dana yang ancaman hukumannya\nlebih dari 5 (lima) tahun;\ne. memiliki akhlak dan moral yang baik; dan\nf. memiliki pengetahuan di bidan g Perdagangan\nBerjangka.\n(6) Anggota ...\n\n(6)  Anggota komisaris dan direksi diangkat untuk masa\njabatan selama 5 (lima) tahun dan dapat dipilih kembali\nuntuk 1 (satu) kali masa jabatan.\n(7)  Dalam hal akan dilakukan perubahan komisaris dan\ndireksi, calon anggota komisaris dan direksi Bursa\nBerjangka wajib diajukan kepada Kepala Bappebti untuk\nmendapatkan persetujuan.\n(8)   Ketentuan lebih lanjut mengenai persyaratan dan tata cara\npencalonan anggota komisaris dan direksi Bursa\nBerjangka diatur dengan Peraturan Kepala Bappebti.\n\nBagian Ketiga\nPeraturan dan Tata Tertib Kontrak Berjangka, Kontrak Derivatif Syariah,\ndan/atau Kontrak Derivatif Lainnya"
+   }
+  },
+  {
+   "id": "ID-H2382-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\n(1) Peraturan dan tata tertib Bursa Berjangka, Kontrak\nBerjangka, Kontrak Derivatif Syariah, dan/atau Kontrak\nDerivatif lainnya  serta perubahannya wajib mendapat\npersetujuan Kepala Bappebti.\n(2) Dalam hal peraturan dan tata tertib  Bursa Berjangka ,\nKontrak Berjangka, Kontrak Derivatif Syariah, dan/atau\nKontrak Derivatif lainnya  ditolak, Kepala Bappebti\nmemberikan alasan atas penolakan tersebut."
+   }
+  },
+  {
+   "id": "ID-H2382-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\nPersetujuan atau penolakan atas permohonan perubahan\nperaturan dan tata tertib Bursa Berjangka, Kontrak B erjangka,\nKontrak Derivatif Syariah, dan/atau Kontrak Derivatif lainnya\nsebagaimana dimaksud dalam Pasal  10 wajib diberikan paling\nlama 28 (dua puluh delapan) hari kerja sejak permohonan\nditerima secara lengkap dan benar oleh Kepala Bappebti.\n\nBagian Keempat\nRencana Kegiatan dan Anggaran Tahunan"
+   }
+  },
+  {
+   "id": "ID-H2382-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n(1) Rencana kegiatan dan anggaran tahunan Bursa Berjangka\nwajib mendapat persetujuan dari Kepala Bappebti.\n(2) Apabila ...\n\n(2)    Apabila dalam 10 (sepuluh) hari kerja sejak diterimanya\nrencana kegiatan dan anggaran tahunan Burs a Berjangka\nsebagaimana dimaksud pada ayat (1) Kepala Bappebti\ntidak memberikan tanggapan,  Bappebti dianggap\nmenyetujui rencana kegiatan dan anggaran tahunan yang\ndiajukan.\n\nBagian Kelima\nPenghentian Kegiatan"
+   }
+  },
+  {
+   "id": "ID-H2382-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\n(1)    Dalam hal terjadi keadaan yang men gancam kegiatan\nBursa Berjangka  atau Lembaga Kliring Berjangka,\nkegiatan transaksi Kontrak Berjangka di Bursa Berjangka\ndapat dihentikan sementara waktu  baik untuk Kontrak\nBerjangka tertentu, posisi tertentu dari Kontrak\nBerjangka, maupun seluruh Kontrak B erjangka yang\ndiperdagangkan di Bursa Berjangka.\n(2)    Keadaan yang mengancam kegiatan Bursa Berjangka atau\nLembaga Kliring Berjangka sebagaimana dimaksud pada\nayat (1) dapat berupa:\na. terjadi kerusakan sarana dan prasarana fisik yang\nmenghambat kegiatan operasional Bursa Berjangka;\nb. terjadi krisis ekonomi atau keuangan di Indonesia atau\ndi negara lain yang menyebabkan terganggunya\ntransaksi Kontrak Berjangka di Bursa Berjangka;\nc. bencana alam, pemogokan, kerusuhan, kebakaran,\ndan perang; atau\nd. terjadi pelanggaran t erhadap peraturan perundang -\nundangan di bidang Perdagangan Berjangka dalam\nkegiatan transaksi Kontrak Berjangka di Bursa\nBerjangka yang mengakibatkan mekanisme pasar tidak\nberjalan secara baik.\n(3)    Penghentian sementara sebagaimana dimaksud pada ayat\n(1) da pat dilakukan untuk sebagian atau seluruh posisi\nterbuka dari Kontrak Berjangka yang diperdagangkan di\nBursa Berjangka.\n\n\nPasal ..."
+   }
+  },
+  {
+   "id": "ID-H2382-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\n(1)    Penghentian sementara sebagaimana dimaksud dalam\nPasal 13 dilakukan oleh Bursa Berjangka dalam jangka\nwaktu paling lama 1 (satu) hari sejak terjadinya keadaan\nyang mengancam.\n(2)    Penghentian sebagaimana dimaksud pada ayat (1)\ndilaporkan kepada Kepala Bappebti disertai dengan alasan\npenghentian dan langkah -langkah yang dilakukan serta\nkemungkinan dapat atau tidak d apat diselesaikannya\npermasalahan tersebut.\n(3)    Akibat penghentian sementara sebagaimana dimaksud\npada ayat (1), Bursa Berjangka menetapkan harga\npenyelesaian bagi posisi terbuka Kontrak Berjangka di\nBursa Berjangka."
+   }
+  },
+  {
+   "id": "ID-H2382-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\n(1)    Apabila Bursa Berjangka tid ak dapat menyelesaikan\npermasalahan yang menyebabkan penghentian sementara\nsebagaimana dimaksud dalam Pasal 14 , Kepala Bappebti\nmengeluarkan keputusan penghentian sementara lanjutan\nkegiatan transaksi Kontrak Berjangka.\n(2)    Keputusan Kepala Bappebti sebagai mana dimaksud pada\nayat (1) diumumkan pada media cetak yang berskala\nnasional paling sedikit 2 (dua) media cetak."
+   }
+  },
+  {
+   "id": "ID-H2382-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\nApabila permasalahan yang menyebabkan penghentian\nsementara telah dapat diselesaikan, pelaksanaan kegiatan\ntransaksi Kontrak Berjang ka di Bursa Berjangka harus dibuka\nkembali dan diumumkan paling sedikit di 2 (dua) media cetak\nyang berskala nasional."
+   }
+  },
+  {
+   "id": "ID-H2382-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\n(1)    Selama penghentian sementara kegiatan transaksi Kontrak\nBerjangka sebagaimana dimaksud dalam Pasal 15 ayat (1),\nkepada Burs a Berjangka diberi kesempatan untuk\nmengambil langkah -langkah penyelesaian atau perbaikan\nyang diperlukan.\n(2) Apabila ...\n\n(2)    Apabila Bursa Berjangka tidak dapat mengambil langkah -\nlangkah penyelesaian atau perbaikan sebagaimana\ndimaksud pada ayat (1), Kepala Bappebti meme rintahkan\nkepada Bursa Berjangka untuk melaksanakan tindakan\ntertentu yang ditetapkan."
+   }
+  },
+  {
+   "id": "ID-H2382-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\n(1)    Apabila Bursa Berjangka tidak berhasil mengambil\nlangkah-langkah penyelesaian atau perbaikan\nsebagaimana dimaksud dalam Pasal  17 ayat (2) guna\nmelindungi ke pentingan Nasabah dan Anggota Bursa\nBerjangka, Kepala Bappebti dapat menghentikan sebagian\natau seluruh kegiatan transaksi Kontrak Berjangka di\nBursa Berjangka.\n(2)    Dalam hal sebagian atau seluruh kegiatan transaksi\nKontrak Berjangka di  Bursa Berjangka dihe ntikan\nsebagaimana dimaksud pada ayat (1), Lembaga Kliring\nBerjangka wajib menyelesaikan keuangan anggota Kliring\nBerjangka atas posisi terbuka.\n(3)    Penyelesaian keuangan sebagaimana dimaksud pada ayat\n(2) dilakukan dengan menggunakan harga penyelesaian\npada akhir hari perdagangan transaksi Kontrak Berjangka\nyang dihentikan kegiatan transaksinya di Bursa\nBerjangka."
+   }
+  },
+  {
+   "id": "ID-H2382-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\nAkibat yang timbul dari penghentian kegiatan sebagaimana\ndimaksud dalam Pasal  13 dan Pasal 18 menjadi beban dan\ntanggung jawab penyelenggara Bursa Berjangka."
+   }
+  },
+  {
+   "id": "ID-H2382-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\n(1)    Kegiatan Bursa Berjangka dapat dihentikan secara tetap.\n(2)    Penghentian kegiatan Bursa Berjangka secara tetap\nsebagaimana dimaksud pada ayat (1)  dilakukan oleh\nKepala Bappebti dengan mencabut  izin usaha Bursa\nBerjangka yang bersangkutan.\n(3)    Kepala Bappebti melaporkan pencabutan izin usaha Bursa\nBerjangka kepada Menteri dan segera mengumumkan\npaling sedikit pada 2 (dua)  media cetak  yang berskala\nnasional.\nPasal ..."
+   }
+  },
+  {
+   "id": "ID-H2382-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\nKetentuan mengenai penghentian kegiatan sebagaimana\ndimaksud dalam  Pasal 13  sampai dengan Pasal 20 berlaku\nmutatis mutandis terhadap kegiatan transaksi Kontrak Derivatif\nSyariah dan/atau Kontrak Derivatif lainnya."
+   }
+  },
+  {
+   "id": "ID-H2382-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\nKetentuan lebih lanjut mengenai penghentian kegiatan  Bursa\nBerjangka diatur dengan Peraturan Kepala Bappebti.\n\nBagian Keenam\nPembubaran"
+   }
+  },
+  {
+   "id": "ID-H2382-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\n(1)    Bursa Berjangka yang dicabut izin usahanya wajib  segera\nmenyelenggarakan Rapat Umum Pemegang Saham untuk\nmemutuskan pembubaran badan hukum Bursa Berjangka\ndan pembentukan tim likuidasi.\n(2)    Keputusan pembubaran badan hukum B ursa Berjangka\ndan pembentukan tim l ikuidasi seb agaimana dimaksud\npada ayat (1)  wajib dilaksanakan dalam jangka waktu\npaling lambat 2 (dua) bulan terhitung sejak tanggal\npencabutan izin usaha."
+   }
+  },
+  {
+   "id": "ID-H2382-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 24\nApabila ketentuan seb agaimana dimaksud dalam Pasal 23\ntidak terpenuhi, Kepala Bappebti dapat mengajukan\npermohonan kepada pengadilan melalui K ejaksaan untuk\nmengeluarkan penetapan yang berisi:\na.    pembubaran badan hukum Bursa Berjangka;\nb.    penunjukan tim l ikuidasi yang diusulkan ol eh Kepala\nBappebti; dan\nc.    perintah pelaksanaan likuidasi sesuai dengan peraturan\nperundang-undangan.\n\nPasal ..."
+   }
+  },
+  {
+   "id": "ID-H2382-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\n(1)    Likuidator Bursa Berjangka sebagaimana dimaksud dalam\nPasal 23 ayat (1) dan Pasal  24 huruf b membayarkan hak\nPialang Berjangka sete lah dikurangi pembayaran kepada\nNasabah yang mempunyai tagihan kepada Pialang\nBerjangka yang bersangkutan.\n(2)    Nasabah sebagaimana dimaksud pada ayat (1) berhak\nmenuntut dana miliknya yang berada pada Pialang\nBerjangka melalui likuidator dengan mengajukan b ukti-\nbukti yang sah."
+   }
+  },
+  {
+   "id": "ID-H2382-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\nKetentuan lebih lanjut mengenai pembubaran  Bursa Berjangka\ndiatur dengan Peraturan Kepala Bappebti.\n\nBAB III\nLEMBAGA KLIRING BERJANGKA\n\nBagian Kesatu\nIzin Usaha"
+   }
+  },
+  {
+   "id": "ID-H2382-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\nKegiatan Lembaga Kliring Berjangka hanya dapat dilaku kan\noleh badan usaha berbentuk perseroan t erbatas yang telah\nmemperoleh izin usaha dari Kepala Bappebti."
+   }
+  },
+  {
+   "id": "ID-H2382-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\n(1)   Modal disetor Lembaga  Kliring Berjangka paling sedikit\nberjumlah Rp100.000.000.000,00 (seratus miliar rupiah).\n(2)   Jumlah modal disetor sebagaimana dimaksud pada ayat (1)\ndapat diubah sesuai dengan perkembangan kegiatan usaha\nLembaga Kliring Berjangka dan ditetapkan dalam\nPeraturan Kepala Bappebti."
+   }
+  },
+  {
+   "id": "ID-H2382-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\n(1)  Lembaga Kliring Berjangka dapat:\na. terpisah dari Bursa Berjangka dan bersifat mandir i;\natau\nb. merupakan bagian dari Bursa Berjangka.\n(2) Dalam ...\n\n(2) Dalam hal Lembaga Kliring Berjangka merupakan bagian\ndari Bursa Berjangka sebagaimana dimaksud pada ayat (1)\nhuruf b, saham Lembaga Kliring Berjangka harus dimiliki\noleh Bursa Berjangka lebih dari 50% (lima p uluh\nperseratus)."
+   }
+  },
+  {
+   "id": "ID-H2382-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\n(1)    Untuk memperoleh izin usaha sebagaimana dimaksud\ndalam Pasal  27, Lembaga Kliring Berjangka mengajukan\npermohonan kepada Kepala Bappebti disertai dengan\ndokumen berupa:\na. salinan akta pendirian perseroan t erbatas yang telah\ndisahkan menteri yang menyelenggarakan urusan\npemerintahan di bidang hukum;\nb. daftar pemegang saham;\nc. Nomor Pokok Wajib Pajak (NPWP) perseroan terbatas;\nd. rencana kegiatan 3 (tiga) tahun;\ne. neraca awal perseroan terbatas yang telah diaudit oleh\nAkuntan Publik;\nf. daftar nama calon komisaris dan direksi;\ng. rancangan peraturan dan tata tertib Lembaga Kliring\nBerjangka;\nh. perjanjian kerjasama antara Lembaga Kliring\nBerjangka dengan Bursa Berjangka; dan\ni. pernyataan tertulis kesiapan perangkat keras dan\nlunak Lembaga Kliring Berjangka.\n(2)    Permohonan seb agaimana dimaksud pada ayat (1)\ndiajukan dengan menggunakan formulir yang bentuk dan\nisinya ditetapkan oleh Kepala Bappebti."
+   }
+  },
+  {
+   "id": "ID-H2382-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\nDalam memberikan izin usaha Lembaga Kliring Berjangka,\nBappebti:\na. memeriksa kelengkapan dokume n yang dipersyaratkan\nsebagaimana dimaksud dalam Pasal 30 ayat (1);\nb. melakukan penilaian rencana kegiatan 3 (tiga) tahun;\nc. melakukan penilaian  dan persetujuan rancangan peraturan\ndan tata tertib;\nd. melakukan ...\n\nd. melakukan uji kepatutan dan kelayakan ( fit and proper test )\nterhadap calon komisaris dan direksi; dan\ne. memeriksa sarana dan prasarana fisik, sistem kliring,\npenjaminan dan penyelesaian yang aman dan efisien."
+   }
+  },
+  {
+   "id": "ID-H2382-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 32\n(1) Kepala Bappebti wajib memberikan atau menolak\npermohonan yang diajukan setiap Pihak untuk\nmemperoleh izin usaha sebagai Lembaga Kliring Berjangka\npaling lambat 32 (tiga puluh dua) hari kerja terhitung\nsejak permohonan diterima secara lengkap.\n(2) Izin usaha Lembaga Kliring Berjangka berlaku selama\nLembaga Kliring Berjangka tersebut masih aktif\nmelakukan kegiatannya."
+   }
+  },
+  {
+   "id": "ID-H2382-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 33\nKetentuan lebih lanjut mengenai tata cara pemberian izin\nusaha Lembaga Kliring Berjangka diatur dengan Peraturan\nKepala Bappebti.\n\nBagian Kedua\nOrgan Perusahaan"
+   }
+  },
+  {
+   "id": "ID-H2382-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 34\n(1)    Saham Lembaga K liring Berjangka hanya dapat dimiliki\noleh:\na. orang perseorangan;\nb. Anggota Bursa Berjangka;\nc. Anggota Kliring Berjangka;\nd. Bursa Berjangka;\ne. badan usaha berbadan hukum Indonesia; dan/atau\nf. Negara.\n(2) Saham Lembaga Kliring Berjangka sebagaimana dimaksud\npada ayat (1) berupa saham  atas nama yang mempunyai\nnilai nominal dan hak suara yang sama.\n(3) Dalam hal badan hukum Indonesia sebagaimana\ndimaksud pada ayat (1) huruf e terdapat modal asing,\nmasing-masing badan hukum Indonesia tersebut hanya\ndiperkenankan memiliki saham Lembaga Kliring Berjangka\npaling banyak 10% (sepuluh perseratus).\n(4) Jumlah ...\n\n (4) Jumlah seluruh saham badan hukum Indonesia yang\nterdapat modal asing sebagaimana dimaksud pada ayat (3)\npaling banyak 40% (empat puluh perseratus) dari seluruh\nsaham Lembaga Kliring Berjangka."
+   }
+  },
+  {
+   "id": "ID-H2382-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 35\n(1)    Jumlah anggota komisar is dan direksi Lembaga Kliring\nBerjangka masing-masing paling banyak 7 (tujuh) orang.\n(2)    Anggota direksi Lembaga Kliring Berjangka dilarang\nmempunyai jabatan rangkap sebagai komisaris, direksi\natau pegawai pada perusahaan lain  yang bergerak di\nbidang Perdagangan Berjangka.\n(3)    Calon anggota komisaris dan direksi Lembaga Kliring\nBerjangka wajib diajukan kepada Kepala Bappebti untuk\nmendapatkan persetujuan.\n(4)  Kepala Bappebti wajib memberikan persetujuan terhadap\ncalon anggota komisaris dan direksi Lembaga K liring\nBerjangka sebagaimana dimaksud pada ayat (3), apabila\ntelah memenuhi persyaratan:\na. cakap melakukan perbuatan hukum;\nb. tidak pernah dinyatakan pailit atau menjadi direktur\natau komisaris yang dinyatakan bersalah menyebabkan\nsuatu perusahaan dinyatakan p ailit dalam jangka\nwaktu 5 (lima) tahun terakhir;\nc. tidak pernah dipidana karena terbukti melakukan\ntindak pidana di bidang ekonomi atau keuangan;\nd. tidak pernah dipidana yang ancaman hukumannya\nlebih dari 5 (lima) tahun;\ne. memiliki akhlak dan moral yang baik; dan\nf. memiliki pengetahuan di bidan g Perdagangan\nBerjangka.\n(4)    Anggota komisaris dan direksi diangkat untuk masa\njabatan selama 5 (lima) tahun dan dapat dipilih kembali\nuntuk 1 (satu) kali masa jabatan.\n(5)    Dalam hal akan dilakukan perubahan komisaris dan\ndireksi, calon anggota komisaris dan direksi Lembaga\nKliring Berjangka wajib diajukan kepada Kepala Bappebti\nuntuk mendapatkan persetujuan.\n(6) Ketentuan ...\n\n(6) Ketentuan lebih lanjut mengenai persyaratan dan tata cara\npencalonan anggota komisaris dan direksi Lembaga Kliring\nBerjangka diatur dengan Peraturan Kepala Bappebti.\n\nBagian Ketiga\nPeraturan dan Tata Tertib"
+   }
+  },
+  {
+   "id": "ID-H2382-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 36\n(1)    Peraturan dan tata tertib  Lembaga Kliring Berjangka serta\nperubahannya wajib mendapat persetujuan Kepala\nBappebti.\n(2)    Dalam hal peraturan dan tata tertib  ditolak, Kepala\nBappebti memberikan alasan atas penolakan tersebut."
+   }
+  },
+  {
+   "id": "ID-H2382-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 37\nPersetujuan atau penolakan atas permohonan perubahan\nperaturan dan tata tertib Lembaga Kliring Berjangka\nsebagaimana dimaksud dalam Pasal 36  wajib diberikan paling\nlama 28 (dua p uluh delapan) hari kerja sejak permohonan\nditerima secara lengkap dan benar oleh Kepala Bappebti.\n\nBagian Keempat\nRencana Kegiatan dan Anggaran Tahunan"
+   }
+  },
+  {
+   "id": "ID-H2382-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 38\n(1) Rencana kegiatan dan anggaran tahunan Lembaga Kliring\nBerjangka wajib mendapat persetujuan dar i Kepala\nBappebti.\n(2) Apabila dalam 10 (sepuluh) hari kerja sejak diterimanya\nrencana kegiatan dan anggaran tahunan Lembaga Kliring\nBerjangka sebagaimana dimaksud pada ayat (1) Kepala\nBappebti tidak memberikan tanggapan, Bappebti dianggap\nmenyetujui rencana k egiatan dan anggaran tahunan yang\ndiajukan.\n\n\nBagian ...\n\nBagian Kelima\nPenghentian Kegiatan"
+   }
+  },
+  {
+   "id": "ID-H2382-A39",
+   "no": 39,
+   "noLabel": {
+    "id": "Pasal 39"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 39\n(1)    Kegiatan Lembaga Kliring Berjangka dapat dihentikan\nsecara tetap.\n(2)    Penghentian kegiatan Lembaga Kliring Berjangka secara\ntetap sebagaimana dimaksud p ada ayat (1)  dilakukan\napabila:\na. semua Bursa Berjangka yang menggunakan jasanya\ndicabut izin usahanya;\nb. Bursa Berjangka yang merupakan induk dari Lembaga\nKliring Berjangka dicabut izin usahanya;\nc.  semua Bursa Berjangka dan Lembaga Kliring\nBerjangka sep akat untuk mengakhiri perjanjian\nkerjasama; atau\nd. Lembaga Kliring Berjangka yang bersangkutan\nmelakukan pelanggaran atau tidak mampu\nmelaksanakan hak dan kewajiban peraturan\nperundang-undangan di bidang  Perdagangan\nBerjangka yang mengganggu integritas Bu rsa\nBerjangka dan kepentingan Nasabah.\n(3)    Penghentian kegiatan Lembaga Kliring Berjangka secara\ntetap sebagaimana dimaksud pada ayat (1) dilakukan oleh\nKepala Bappebti dengan mencabut izin usaha Lembaga\nKliring Berjangka yang bersangkutan.\n(4) Kepala Bappebti melaporkan pencabutan izin usaha\nLembaga Kliring Berjangka sebagaimana dimaksud pada\nayat (2) kepada Menteri dan segera mengumumkan paling\nsedikit pada 2 (dua) media cetak  yang berskala nasional.\n(5) Dalam hal Lembaga Kliring Berjangka dihentikan\nkegiatannya secara tetap, Lembaga Kliring Berjangka wajib\nmenutup seluruh posisi terbuka A nggota Kliring\nBerjangka.\n(6) Penutupan sebagaimana dimaksud pada ayat (4)\ndilakukan dengan menggunakan harga penyelesaian pada\nsesi per dagangan terakhir dari seluruh posisi t erbuka\nKontrak Berjangka, Kontrak Derivatif Syariah, dan/atau\nKontrak Derivatif lainnya.\nPasal ..."
+   }
+  },
+  {
+   "id": "ID-H2382-A40",
+   "no": 40,
+   "noLabel": {
+    "id": "Pasal 40"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 40\nKetentuan lebih lanjut mengenai penghentian kegiatan\nLembaga Kliring Berjangka  diatur dengan Peraturan Kepala\nBappebti.\n\nBagian Keenam\nPembubaran"
+   }
+  },
+  {
+   "id": "ID-H2382-A41",
+   "no": 41,
+   "noLabel": {
+    "id": "Pasal 41"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 41\n(1)    Lembaga Kliring Berjangka yang dicabut izin usahanya\nwajib segera menyelenggarakan Rapat Umum Pemegang\nSaham untuk memutuskan pembubaran badan hukum\nLembaga Kliring Berjangka dan pembentukan tim\nlikuidasi.\n(2)    Keputusan pembubaran badan hukum Lembaga Kliring\nBerjangka dan pembentukan tim likuidasi  sebagaimana\ndimaksud pada ayat (1) wajib dilaksanakan dalam jangka\nwaktu paling lambat 2 (dua) bulan terhitung sejak tanggal\npencabutan izin usaha."
+   }
+  },
+  {
+   "id": "ID-H2382-A42",
+   "no": 42,
+   "noLabel": {
+    "id": "Pasal 42"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 42\nApabila ketentuan seb agaimana dimaksud dalam Pasal 41\ntidak terpenuhi, Kepala Bappebti dapat  mengajukan\npermohonan kepada pengadilan melalui Kejaksaan untuk\nmengeluarkan penetapan yang berisi:\na. pembubaran badan hukum Lembaga Kliring Berjangka;\nb. penunjukan tim likuidasi  yang diusulkan oleh Kepala\nBappebti; dan\nc. perintah pelaksanaan likuidasi sesuai dengan ketentuan\nperaturan perundang-undangan."
+   }
+  },
+  {
+   "id": "ID-H2382-A43",
+   "no": 43,
+   "noLabel": {
+    "id": "Pasal 43"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 43\n(1)    Likuidator Lembaga Kliring Berjangka seb agaimana\ndimaksud dalam Pasal 41 ayat (1) dan Pasal 42  huruf b\nwajib membayarkan hak Pialang Berjangka Anggota Kliring\nBerjangka setelah dikurangi pembayaran kepada Nasabah\nyang mempunyai tagihan kepada Pialang Berjangka yang\nbersangkutan.\n(2) Nasabah ...\n\n(2)    Nasabah sebagaimana dimaksud pada ayat (1) berhak\nmenuntut dana miliknya yang berada pada Pialang\nBerjangka yang ditempatkan pada Lembaga  Kliring\nBerjangka melalui likuidator dengan mengajukan bukti -\nbukti yang sah."
+   }
+  },
+  {
+   "id": "ID-H2382-A44",
+   "no": 44,
+   "noLabel": {
+    "id": "Pasal 44"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 44\nKetentuan lebih lanjut mengenai pembubaran Lembaga Kliring\nBerjangka diatur dengan Peraturan Kepala Bappebti.\n\nBAB IV\nPIALANG BERJANGKA DAN WAKIL PIALANG BERJANGKA, PENASIHAT\nBERJANGKA DAN WAKIL PENASIHAT BERJANGKA, PEDAGANG\nBERJANGKA, PENYELENGGARA SISTEM PERDAGANGAN\nALTERNATIF, DAN PESERTA SISTEM PERDAGANGAN ALTERNATIF\n\nBagian Kesatu\nPialang Berjangka dan Wakil Pialang Berjangka\n\nParagraf 1\nPialang Berjangka"
+   }
+  },
+  {
+   "id": "ID-H2382-A45",
+   "no": 45,
+   "noLabel": {
+    "id": "Pasal 45"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 45\nKegiatan usaha sebagai Pialang Berjangka hanya dapat\ndilakukan oleh Anggota Bursa Berjangka yang  berbentuk\nperseroan t erbatas yang telah memperoleh izin usaha Pialang\nBerjangka dari Kepala Bappebti."
+   }
+  },
+  {
+   "id": "ID-H2382-A46",
+   "no": 46,
+   "noLabel": {
+    "id": "Pasal 46"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 46\n(1)  Pialang Berjangka wajib memenuhi persyarat an\n permodalan.\n(2)  Ketentuan lebih lanjut mengenai permodalan sebagaimana\ndimaksud pada ayat  (1) diatur dengan Peraturan Kepala\nBappebti.\n\nPasal ..."
+   }
+  },
+  {
+   "id": "ID-H2382-A47",
+   "no": 47,
+   "noLabel": {
+    "id": "Pasal 47"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 47\n(1)    Permohonan untuk memperoleh izin usaha Pialang\nBerjangka diajukan kepada Kepala Bappebti dise rtai\ndengan dokumen sebagai berikut:\na. salinan akta pendirian perseroan t erbatas yang telah\ndisahkan oleh menteri yang menyelenggarakan urusan\npemerintahan di bidang hukum;\nb. daftar nama pemegang saham dan/atau pengendali\nperusahaan;\nc. Nomor Pokok Wajib Pajak (NPWP) perseroan terbatas;\nd. rencana kegiatan usaha;\ne. neraca awal perseroan terbatas yang telah diaudit oleh\nAkuntan Publik;\nf. daftar nama calon  komisaris dan direksi yang telah\nmendapat persetujuan dari Bursa Berjangka;\ng. tanda bukti pembukaan rekening terpisah un tuk dana\nNasabah;\nh. bukti keanggotaan pada Bursa Berjangka , Lembaga\nKliring Berjangka dan setoran Dana Kompensasi; dan\nj. daftar nama calon Wakil Pialang Berjangka.\n(2)  Permohonan seb agaimana dimaksud pada ayat (1)\ndiajukan dengan menggunakan formulir yang bentuk dan\nisinya ditetapkan oleh Kepala Bappebti.\n(3) Izin usaha Pialang Berjangka diberikan setelah memenuhi\nsemua persyaratan dan pemeriksaan sarana fisik yang\ndilakukan oleh Kepala Bappebti."
+   }
+  },
+  {
+   "id": "ID-H2382-A48",
+   "no": 48,
+   "noLabel": {
+    "id": "Pasal 48"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 48\n(1) Kepala Bappebti wajib memberikan atau menolak\npermohonan yang diajukan setiap Pihak untuk\nmemperoleh izin usaha sebagai Pialang Berjangka paling\nlambat 32 (tiga puluh dua) hari kerja terhitung sejak\npermohonan diterima secara lengkap.\n(2) Izin usaha Pialang Berjangka berlaku selama Bursa\nBerjangka tersebut masih aktif melakukan kegiatannya.\n\nPasal ..."
+   }
+  },
+  {
+   "id": "ID-H2382-A49",
+   "no": 49,
+   "noLabel": {
+    "id": "Pasal 49"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 49\nKetentuan lebih lanjut mengenai perizinan Pialang Berjangka\ndiatur dengan Peraturan Kepala Bappebti."
+   }
+  },
+  {
+   "id": "ID-H2382-A50",
+   "no": 50,
+   "noLabel": {
+    "id": "Pasal 50"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 50\nPialang Berjangka wajib memiliki paling sedikit 3 (tiga) orang\nWakil Pialang Berjangka yang s alah seorang diantaranya\nberkedudukan sebagai direktur."
+   }
+  },
+  {
+   "id": "ID-H2382-A51",
+   "no": 51,
+   "noLabel": {
+    "id": "Pasal 51"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 51\n(1)    Pialang Berjangka  wajib memiliki 1 (satu) orang direktur\nkepatuhan yang tidak berkedudukan sebagai Wakil\nPialang Berjangka.\n(2)    Direktur kepatuhan sebagaimana dimaksud pada ayat (1)\nharus lulus ujian profesi Wakil Pialang Berjangka  yang\ndiselenggarakan oleh Bappebti.\n(3)    Ketentuan mengenai p ersyaratan, tugas, wewenang , dan\nkewajiban direktur k epatuhan sebagaimana dimaksud\npada ayat (1) diatur dengan Peraturan Kepala Bappebti."
+   }
+  },
+  {
+   "id": "ID-H2382-A52",
+   "no": 52,
+   "noLabel": {
+    "id": "Pasal 52"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 52\n(1)    Pialang Berjangka dilarang untuk dikendalikan, baik\nlangsung maupun tidak langsung oleh orang perseorangan\nyang:\na. tidak cakap melakukan perbuatan hukum;\nb. pernah dinyatakan pailit atau menjadi direktur atau\nkomisaris yang dinyatakan bersalah menyebabkan\nsuatu p erusahaan dinyatakan pailit dalam jangka\nwaktu 5 (lima) tahun terakhir;\nc. pernah dipidana karena terbukti melakukan tindak\npidana di bidang ekonomi atau keuangan;\nd. pernah dipidana yang ancaman hukumannya lebih\ndari 5 (lima) tahun;\ne. tidak memiliki akhlak dan moral yang baik; dan/atau\nf. tidak memiliki pengetahuan di bidan g Perdagangan\nBerjangka.\n(2) Pialang ...\n\n(2)    Pialang Berjangka wajib melaporkan pihak yang\nmengendalikan perusahaannya baik langsung maupun\ntidak langsung kepada Kepala Bappebti."
+   }
+  },
+  {
+   "id": "ID-H2382-A53",
+   "no": 53,
+   "noLabel": {
+    "id": "Pasal 53"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 53\n(1)    Pialang Berjangka dapat membuka kantor cabang setelah\nmemperoleh persetujuan Kepala Bappebti.\n(2)  Persetujuan pembukaan kantor cabang sebagaimana\ndimaksud pada ayat (1) diberikan setelah memenuhi\npersyaratan:\na.  penambahan modal disetor sebagaimana diatur\ndengan Peraturan Kepala Bappebti;\nb.  memiliki rencana usaha yang dituangkan dalam\nrencana kegiatan perusahaan;\nc.  memiliki Wakil Pialang Berjangka yang akan\nditempatkan pada kantor cabang paling sedikit 3\n(tiga) orang  yang salah satunya menjadi kepala\nkantor; dan\nd.  memiliki sarana serta prasarana yang cukup untuk\nkantor cabang.\n(3)  Permohonan persetujuan pembukaan kantor cabang\nsebagaimana dimaksud pada ayat (1) diajukan oleh\nPialang Berjangka kepada Kepala Bappebti dengan mengisi\nformulir yang formatnya dite tapkan dengan Peraturan\nKepala Bappebti."
+   }
+  },
+  {
+   "id": "ID-H2382-A54",
+   "no": 54,
+   "noLabel": {
+    "id": "Pasal 54"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 54\n(1)    Pialang Berjangka dapat menjadi anggota di lebih dari 1\n(satu) Bursa Berjangka.\n(2)    Dalam hal Pialang Berjangka memiliki keanggotaan di\nlebih dari 1 (satu) Bursa Berjangka sebagaimana\ndimaksud pada ayat (1), Pialang Berjangka yang\nbersangkutan wajib melaporkan perihal keanggotaan\ntersebut kepada Kepala Bappebti.\n\n\n\nParagraf ...\n\nParagraf 2\nWakil Pialang Berjangka"
+   }
+  },
+  {
+   "id": "ID-H2382-A55",
+   "no": 55,
+   "noLabel": {
+    "id": "Pasal 55"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 55\nPelaksanaan kegiatan sebagai Wakil Pialang Berjangka hanya\ndapat dilakukan setelah mendapat izin dari Kepala Bappebti."
+   }
+  },
+  {
+   "id": "ID-H2382-A56",
+   "no": 56,
+   "noLabel": {
+    "id": "Pasal 56"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 56\nIzin sebagai Wakil Pialang Berjangka hanya diberikan kepada\norang perseorangan yang memiliki keahlian di bidang\nkeperantaraan perdagangan Kontrak Berjangka, Kontrak\nDerivatif Syariah, dan/atau Kontrak Derivatif lainnya."
+   }
+  },
+  {
+   "id": "ID-H2382-A57",
+   "no": 57,
+   "noLabel": {
+    "id": "Pasal 57"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 57\n(1)  Permohonan untuk memperoleh izin sebagai Wakil Pialang\nBerjangka, diajukan kepada Kepala Bappebti disertai\ndokumen sebagai berikut:\na. ijazah pendidikan formal;\nb. tanda lulus ujian profesi yang diselenggarakan oleh\nKepala Bappebti; dan\nc. rekomendasi dari Pialang Berjangka  yang\nbersangkutan.\n(2) Permohonan sebagaimana dimaksud pada ayat (1),\ndiajukan dengan menggunakan formulir yang bentuk dan\nisinya ditetapkan oleh Kepala Bappebti."
+   }
+  },
+  {
+   "id": "ID-H2382-A58",
+   "no": 58,
+   "noLabel": {
+    "id": "Pasal 58"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 58\n(1) Kepala Bappebti wajib memberikan atau menolak\npermohonan yang diajukan setiap Pihak untuk\nmemperoleh izin usaha sebagai Wakil Pialang Berjangka\npaling lambat 32 (tiga puluh dua) hari kerja terhitung\nsejak permohonan diterima secara lengkap.\n(2) Izin Wakil Pialang Berjangka berlaku selama Wakil Pialang\nBerjangka tersebut masih aktif melakukan kegiatannya.\n\nPasal ..."
+   }
+  },
+  {
+   "id": "ID-H2382-A59",
+   "no": 59,
+   "noLabel": {
+    "id": "Pasal 59"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 59\nKetentuan lebih lanjut mengenai perizinan Wakil Pialang\nBerjangka diatur dengan Peraturan Kepala Bappebti.\n\nBagian Kedua\nPenasihat Berjangka dan Wakil Penasihat Berjangka\n\nParagraf 1\nPenasihat Berjangka"
+   }
+  },
+  {
+   "id": "ID-H2382-A60",
+   "no": 60,
+   "noLabel": {
+    "id": "Pasal 60"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 60\n(1)    Pelaksanaan kegiatan sebagai Penasihat Berjangka hanya\ndapat dilakukan oleh Pihak  yang telah memperoleh izin\nusaha sebagai Penasihat Berjangka dari Kepala Bappebti.\n(2)    Izin u saha sebagaimana dimaksud pada ayat (1) tidak\ndapat diberikan kepada pihak-pihak berikut:\na. bank, pegawai bank, reporter berita, surat kabar,\npengacara, akuntan, guru, Pialang Berjangka, Pengelola\nSentra Dana  Berjangka, atau Bursa Berjangka yang\nsecara tidak tetap melakukan kegiatan atau profesi\ntersebut;\nb. pihak ya ng memberikan nasihat kepada kelompok\ninvestasi kolektif dalam satu kelompok usaha yang\ndikendalikannya, selain Sentra Dana Berjangka; atau\nc. pihak lainnya yang dikecualikan berdasarkan\nperaturan perundang-undangan di bidang Perdagangan\nBerjangka.\n(3)    Penasihat Berjangka sebagaimana dimaksud pada ayat (1)\nmelakukan kegiatan memberikan nasihat secara langsung,\nmelalui penerbitan publikasi khusus, atau laporan melalui\nmedia elektronik.\n(4)    Nasihat sebagaimana dimaksud pada ayat (3) memuat\nanalisis mengenai harga atau kegiatan perdagangan\nKontrak Berjangka, Kontrak Derivatif Syariah, dan/atau\nKontrak Derivatif lainnya.\n(5)  Pihak yang telah memiliki izin usaha sebagai Pialang\nBerjangka dapat melaksanakan kegiatan sebagai\nPenasihat Berjangka.\n\nPasal  ..."
+   }
+  },
+  {
+   "id": "ID-H2382-A61",
+   "no": 61,
+   "noLabel": {
+    "id": "Pasal 61"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 61\n(1) Penasihat Berjangka berhak mendapatkan pembayaran\natas Nasihat sebagaimana dimaksud dalam Pasal 60 ayat\n(4) dari Nasabah.\n(2) Dalam hal nasihat sebagaimana dimaksud dalam Pasal 60\nayat (4) diberikan  oleh Penasihat Berjangka yang memiliki\nizin usaha sebagai Pialang Berjangka, Penasihat Berjangka\ntersebut tidak berhak mendapat pembayaran."
+   }
+  },
+  {
+   "id": "ID-H2382-A62",
+   "no": 62,
+   "noLabel": {
+    "id": "Pasal 62"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 62\n(1)    Permohonan untuk memperoleh izin usaha sebagai\nPenasihat Berjangka diajukan kepada Kepala Bappebti\ndisertai dengan dokumen sebagai berikut:\na. bukti legalitas usaha,  akta pendirian badan usaha,\natau akta pendirian perseroan terbatas;\nb. Nomor Pokok Wajib Pajak (NPWP);\nc. memenuhi persyaratan keuangan yang ditetapkan; dan\nd. daftar nama tenaga ahli yang memiliki izin sebagai\nWakil Penasihat Berjangka dari Kepala Bappebti.\n(2)    Permohonan seb agaimana dimaksud pada ayat (1)\ndiajukan dengan menggunakan formulir yang bentuk dan\nisinya diatur dengan Peraturan Kepala Bappebti.\n(3)    Izin usaha Penasihat Berjangka diberikan setelah\nmemenuhi semua persyaratan dan pemeriksaan sarana\nfisik yang dilakukan oleh Kepala Bappebti."
+   }
+  },
+  {
+   "id": "ID-H2382-A63",
+   "no": 63,
+   "noLabel": {
+    "id": "Pasal 63"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 63\nPenasihat Berjangka wajib memiliki paling sedikit 3 (tiga) orang\nWakil Penasihat Berjangka."
+   }
+  },
+  {
+   "id": "ID-H2382-A64",
+   "no": 64,
+   "noLabel": {
+    "id": "Pasal 64"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 64\n(1)    Penasihat Berjangka dilarang untuk dikendalikan, baik\nlangsung maupun tidak langsung oleh orang perseorangan\nyang:\na.  tidak cakap melakukan perbuatan hukum;\nb. pernah ...\n\nb. pernah dinyatakan pailit atau menjadi direktur atau\nkomisaris yang dinyatakan bersalah menyebabkan\nsuatu perusahaan dinyatakan pailit dalam jangka\nwaktu 5 (lima) tahun terakhir;\nc. pernah dipidana k arena terbukti melakukan tindak\npidana di bidang ekonomi atau keuangan;\nd. pernah dipidana yang ancaman hukumannya lebih\ndari 5 (lima) tahun;\ne. tidak memiliki akhlak dan moral yang baik; atau\nf. tidak m emiliki pengetahuan di bidan g Perdagangan\nBerjangka.\n(2) Penasihat Berjangka wajib melaporkan pihak yang\nmengendalikan perusahaannya baik langsung maupun\ntidak langsung termasuk perubahannya kepada Kepala\nBappebti."
+   }
+  },
+  {
+   "id": "ID-H2382-A65",
+   "no": 65,
+   "noLabel": {
+    "id": "Pasal 65"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  65\n(1)    Penasihat Berjangka dapat membuka kantor cabang.\n(2)    Pembukaan kantor cabang sebagaimana dimaksud pada\nayat (1) wajib memenuhi persyaratan:\na. memiliki rencana usaha yang dituangkan dalam\nrencana kegiatan perusahaan;\nb. memiliki Wakil Penasihat Berjangka; dan\nc. memiliki sarana dan prasarana yang cukup.\n(2)    Pembukaan kantor cabang sebagaimana dimaksud p ada\nayat (1) dilaporkan kepada Kepala Bappebti dengan\nmenggunakan formulir yang bentuk dan isinya ditetapkan\ndengan Peraturan Kepala Bappebti."
+   }
+  },
+  {
+   "id": "ID-H2382-A66",
+   "no": 66,
+   "noLabel": {
+    "id": "Pasal 66"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 66\n(1) Kepala Bappebti wajib memberikan atau menolak\npermohonan yang diajukan setiap Pihak untuk\nmemperoleh iz in usaha sebagai Penasihat Berjangka\npaling lambat 32 (tiga puluh dua) hari kerja terhitung\nsejak permohonan diterima secara lengkap.\n(2) Izin usaha Penasihat Berjangka berlaku selama Penasihat\nBerjangka tersebut masih aktif melakukan kegiatannya.\nPasal ..."
+   }
+  },
+  {
+   "id": "ID-H2382-A67",
+   "no": 67,
+   "noLabel": {
+    "id": "Pasal 67"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 67\nKetentuan lebih lanjut mengenai perizinan Penasihat Berjangka\ndiatur dengan Peraturan Kepala Bappebti.\n\nParagraf 2\nWakil Penasihat Berjangka"
+   }
+  },
+  {
+   "id": "ID-H2382-A68",
+   "no": 68,
+   "noLabel": {
+    "id": "Pasal 68"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 68\nPelaksanaan kegiatan sebagai Wakil Penasihat Berjangka\nhanya dapat dilakukan setelah mendapat izin dari Kep ala\nBappebti."
+   }
+  },
+  {
+   "id": "ID-H2382-A69",
+   "no": 69,
+   "noLabel": {
+    "id": "Pasal 69"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  69\nIzin sebagai Wakil Penasihat Berjangka hanya diberikan kepada\norang perseorangan yang memiliki keahlian di bidang analisi s\nPerdagangan Berjangka."
+   }
+  },
+  {
+   "id": "ID-H2382-A70",
+   "no": 70,
+   "noLabel": {
+    "id": "Pasal 70"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  70\n(1)  Permohonan untuk memperoleh izin sebagai Wakil\nPenasihat Berjangka  diajukan kepada Kepala Bappebti\ndisertai dokumen sebagai berikut:\na.  ijazah pendidikan formal; dan\nb.  tanda lulus ujian profesi yang diselenggarakan oleh\nBappebti.\n(2) Permohonan seb agaimana dimaksud pada ayat (1)\ndiajukan dengan menggunakan formulir yang bentuk dan\nisinya ditetapkan dengan Peraturan Kepala Bappebti."
+   }
+  },
+  {
+   "id": "ID-H2382-A71",
+   "no": 71,
+   "noLabel": {
+    "id": "Pasal 71"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 71\n(1) Kepala Bappebti wajib memberikan atau menolak\npermohonan yang diajukan setiap Pihak untuk\nmemperoleh izin usaha sebagai Penasihat Berjangka\npaling lambat 32 (tiga puluh dua) hari kerj a terhitung\nsejak permohonan diterima secara lengkap.\n(2) Izin usaha Penasihat Berjangka berlaku selama Penasihat\nBerjangka tersebut masih aktif melakukan kegiatannya.\nPasal ..."
+   }
+  },
+  {
+   "id": "ID-H2382-A72",
+   "no": 72,
+   "noLabel": {
+    "id": "Pasal 72"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  72\nKetentuan lebih lanjut mengenai perizinan Wakil Penasihat\nBerjangka diatur dengan Peraturan Kepala Bappebti\n\nBagian Ketiga\nPedagang Berjangka"
+   }
+  },
+  {
+   "id": "ID-H2382-A73",
+   "no": 73,
+   "noLabel": {
+    "id": "Pasal 73"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  73\n(1) Kegiatan usaha sebagai Pedagang Berjangka hanya dapat\ndilakukan oleh Anggota Bursa Berjangka, baik orang\nperseorangan maupun badan usaha, yang berdomisili di\ndalam atau di luar negeri,  yang telah memperoleh\nsertifikat pendaftaran  sebagai Pedagang Berjangka dari\nKepala Bappebti.\n(2) Sertifikat pendaftaran seb agaimana dimaksud pada ayat\n(1) diberikan oleh Kepala Bappebti kepada Pihak yang\nmemiliki integritas keuangan, reputasi bisnis yang ba ik,\ndan kecakapan profesi."
+   }
+  },
+  {
+   "id": "ID-H2382-A74",
+   "no": 74,
+   "noLabel": {
+    "id": "Pasal 74"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 74\n(1)  Pedagang Berjangka wajib memenuhi persyaratan\n permodalan.\n(2)  Ketentuan mengenai permodalan sebagaimana dimaksud\npada ayat (1) diatur dengan Peraturan Kepala Bappebti."
+   }
+  },
+  {
+   "id": "ID-H2382-A75",
+   "no": 75,
+   "noLabel": {
+    "id": "Pasal 75"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 75\n(1)    Permohonan untuk memperoleh ser tifikat pendaftaran\nsebagai Pedagang Berjangka diajukan kepada Kepala\nBappebti disertai dengan dokumen yang dipersyaratkan.\n(2)    Dalam hal permohonan diajukan oleh orang perseorangan\nmaka permohonan diajukan kepada Kepala Bappebti\ndisertai dengan dokumen  yang dipersyaratkan\nsebagaimana dimaksud pada ayat (1)  paling sedikit\nsebagai berikut:\na. tanda keanggotaan Bursa Berjangka;\nb. Nomor Pokok Wajib Pajak (NPWP); dan\nc. sertifikat keahlian.\n(3) Dalam ...\n\n(3)    Dalam hal permohonan diajukan oleh badan usaha, maka\npermohonan diajukan kepada Kepala Bappebti disertai\ndengan dokumen  yang dipersyaratkan sebagaimana\ndimaksud pada ayat (1) paling sedikit sebagai berikut:\na. tanda keanggotaan Bursa Berjangka;\nb. Nomor Pokok Wajib Pajak (NPWP); dan\nc. nama tenaga ahli yang dibuktikan telah memiliki\nsertifikat pelatihan di bidang Perdagangan Berjangka.\n(3) Permohonan seb agaimana dimaksud pada ayat (1)\ndiajukan dengan menggunakan formulir yang bentuk dan\nisinya ditetapkan dengan Peraturan Kepala Bappebti."
+   }
+  },
+  {
+   "id": "ID-H2382-A76",
+   "no": 76,
+   "noLabel": {
+    "id": "Pasal 76"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 76\n(1)    Pedagang Berjangka yang berbentuk badan usah a dilarang\nuntuk dikendalikan, baik langsung maupun tidak\nlangsung oleh orang perseorangan yang:\na. tidak cakap melakukan perbuatan hukum;\nb. pernah dinyatakan pailit atau menjadi direktur atau\nkomisaris yang dinyatakan bersalah menyebabkan\nsuatu perusahaan diny atakan pailit dalam jangka\nwaktu 5 (lima) tahun terakhir;\nc. pernah dipidana karena terbukti melakukan tindak\npidana di bidang ekonomi atau keuangan;\nd. pernah dipidana yang ancaman hukumannya lebih\ndari 5 (lima) tahun;\ne. tidak memiliki akhlak dan moral yang baik; atau\nf. tidak memiliki pengetahuan di bidan g Perdagangan\nBerjangka.\n(2)    Pedagang Berjangka wajib melaporkan pihak yang\nmengendalikan perusahaannya baik langsung maupun\ntidak langsung kepada Kepala Bappebti."
+   }
+  },
+  {
+   "id": "ID-H2382-A77",
+   "no": 77,
+   "noLabel": {
+    "id": "Pasal 77"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 77\n(1) Kepala Bappebti wajib memberikan atau men olak\npermohonan yang diajukan setiap Pihak untuk\nmemperoleh izin usaha sebagai Penasihat Berjangka\npaling lambat 32 (tiga puluh dua) hari kerja terhitung\nsejak permohonan diterima secara lengkap.\n(2) Izin ...\n\n(2) Izin usaha Penasihat Berjangka berlaku selama Penasihat\nBerjangka tersebut masih aktif melakukan kegiatannya."
+   }
+  },
+  {
+   "id": "ID-H2382-A78",
+   "no": 78,
+   "noLabel": {
+    "id": "Pasal 78"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 78\nKetentuan lebih lanjut mengenai pemberian sertifikat\npendaftaran bagi Pedagang Berjangka diatur dengan Peraturan\nKepala Bappebti.\n\nBagian Keempat\nPenyelenggara Sistem Perdagangan Alternatif"
+   }
+  },
+  {
+   "id": "ID-H2382-A79",
+   "no": 79,
+   "noLabel": {
+    "id": "Pasal 79"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 79\nPelaksanaan kegiatan sebagai Penyelenggara Sistem\nPerdagangan Alternatif hanya dapat dilakukan oleh Pedagang\nBerjangka yang telah memperoleh persetujuan dari Kepala\nBappebti."
+   }
+  },
+  {
+   "id": "ID-H2382-A80",
+   "no": 80,
+   "noLabel": {
+    "id": "Pasal 80"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 80\n(1)  Penyelenggara Sistem Perdagangan Alternatif  wajib\n memenuhi persyaratan permodalan.\n(2)  Ketentuan mengenai permodalan sebagaimana dimaksud\npada ayat (1) diatur dengan Peraturan Kepala Bappebti."
+   }
+  },
+  {
+   "id": "ID-H2382-A81",
+   "no": 81,
+   "noLabel": {
+    "id": "Pasal 81"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  81\n(1)    Permohonan untuk memperoleh Persetujuan sebagai\nPenyelenggara Sistem Perdagangan Alternatif  diajukan\nkepada K epala Bappebti disertai dengan dokumen paling\nsedikit sebagai berikut:\na.  Nomor Pokok Wajib Pajak (NPWP);\nb.  sertifikat pendaftaran Pedagang Berjangka;\nc.  tanda keanggotaan pada Bursa Berjangka;\nd.  tanda keanggotaan pada Lembaga Kliring Berjangka;\ne.  laporan keuangan atas saldo modal yang telah diaudit\noleh Akuntan Publik;\nf. pernyataan ...\n\nf.  pernyataan tertulis  kesiapan sarana dan sistem yang\nmendukung perdagangan secara teratur, wajar, efisien,\nefektif, dan transparan; dan\ng.  perjanjian kerjasama dengan Piala ng Berjangka\nAnggota Kliring Berjangka Peserta Sistem Perdagangan\nAlternatif.\n(2)    Permohonan seb agaimana dimaksud pada ayat (1)\ndiajukan dengan menggunakan formulir yang bentuk dan\nisinya ditetapkan dengan Peraturan Kepala Bappebti."
+   }
+  },
+  {
+   "id": "ID-H2382-A82",
+   "no": 82,
+   "noLabel": {
+    "id": "Pasal 82"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 82\n(1) Kepala Bappebt i wajib memberikan atau menolak\npermohonan yang diajukan setiap Pihak untuk\nmemperoleh persetujuan bagi Penyelenggara Sistem\nPerdagangan Alternatif paling lambat 32 (tiga puluh dua)\nhari kerja terhitung sejak permohonan diterima secara\nlengkap.\n(2) Persetujuan Penyelenggara Sistem Perdagangan Alternatif\nberlaku selama Penyelenggara Sistem Perdagangan\nAlternatif tersebut masih aktif melakukan kegiatannya."
+   }
+  },
+  {
+   "id": "ID-H2382-A83",
+   "no": 83,
+   "noLabel": {
+    "id": "Pasal 83"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  83\nKetentuan lebih lanjut mengenai pemberian persetujuan bagi\nPenyelenggara Sistem Perdagangan Alter natif diatur dengan\nPeraturan Kepala Bappebti.\n\nBagian Kelima\nPeserta Sistem Perdagangan Alternatif"
+   }
+  },
+  {
+   "id": "ID-H2382-A84",
+   "no": 84,
+   "noLabel": {
+    "id": "Pasal 84"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 84\nPelaksanaan kegiatan  sebagai Peserta Sistem Perdagangan\nAlternatif hanya dapat diberikan kepada Pialang Berjangka\nyang merupakan Anggota Kliring B erjangka dan  telah\nmemperoleh persetujuan dari Kepala Bappebti."
+   }
+  },
+  {
+   "id": "ID-H2382-A85",
+   "no": 85,
+   "noLabel": {
+    "id": "Pasal 85"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 85\n(1)  Peserta Sistem Perdagangan Alternatif  wajib memenuhi\npersyaratan permodalan.\n(2)  Ketentuan mengenai permodalan sebagaimana dimaksud\npada ayat (1) diatur dengan Peraturan Kepala Bappebti.\nPasal ..."
+   }
+  },
+  {
+   "id": "ID-H2382-A86",
+   "no": 86,
+   "noLabel": {
+    "id": "Pasal 86"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 86\n(1)    Permohonan untuk memperoleh Persetujuan sebagai\nPeserta Sistem Perdagangan Alternatif  diajukan kepada\nKepala Bappebti disertai dengan dokumen paling sedikit\nsebagai berikut:\na. Nomor Pokok Wajib Pajak (NPWP);\nb. izin usaha Pialang Berjangka;\nc. tanda keanggotaan pada Bursa Berjangka;\nd. tanda keanggotaan pada Lembaga Kliring Berjangka;\ne. laporan keuangan atas saldo modal yang telah diaudit\noleh Akuntan Publik;\nf. pernyataan tertulis  kesiapan sarana dan sistem yang\nmendukung perdagangan secara teratur, wajar, efisien,\nefektif dan transparan; dan\ng. perjanjian kerjasama dengan Pedagang Berjangka\nAnggota Kliring Berjangka Penyelenggara Sistem\nPerdagangan Alternatif.\n(2)    Permohonan seb agaimana dimaksud pada ayat (1)\ndiajukan dengan menggunakan formulir y ang bentuk dan\nisinya ditetapkan dengan Peraturan Kepala Bappebti."
+   }
+  },
+  {
+   "id": "ID-H2382-A87",
+   "no": 87,
+   "noLabel": {
+    "id": "Pasal 87"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 87\n(1) Kepala Bappebti wajib memberikan atau menolak\npermohonan yang diajukan setiap Pihak untuk\nmemperoleh persetujuan bagi Peserta Sistem Perdagangan\nAlternatif paling lambat 32 (tiga puluh dua) hari kerja\nterhitung sejak permohonan diterima secara lengkap.\n(2) Persetujuan Peserta Sistem Perdagangan Alternatif berlaku\nselama Peserta Sistem Perdagangan Alternatif tersebut\nmasih aktif melakukan kegiatannya."
+   }
+  },
+  {
+   "id": "ID-H2382-A88",
+   "no": 88,
+   "noLabel": {
+    "id": "Pasal 88"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 88\nKetentuan lebih lanjut me ngenai pemberian persetujuan bagi\nPeserta Sistem Perdagangan Alternatif diatur dengan Peraturan\nKepala Bappebti.\n\nBAB ...\n\nBAB V\nSENTRA DANA BERJANGKA, PENGELOLA SENTRA DANA BERJANGKA, DAN\nWAKIL PENGELOLA SENTRA DANA BERJANGKA\n\nBagian Kesatu\nSentra Dana Berjangka"
+   }
+  },
+  {
+   "id": "ID-H2382-A89",
+   "no": 89,
+   "noLabel": {
+    "id": "Pasal 89"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 89\n(1)    Sentra Dana Berjangka dibentuk berdasarkan kontrak\nantara Pengelola Sentra Dana Berjangka dan Bank\nPenitipan Sentra Dana Berjangka.\n(2)    Kontrak p embentukan Sentra Dana Berjangka\nsebagaimana dimaksud pada ayat  (1) wajib memperoleh\npersetujuan dari Kepala Bappebti.\n(3)    Kontrak pembentukan Sentra Dana Berjangka\nsebagaimana dimaksud pada ayat (1) mengikat semua\npeserta Sentra Dana Berjangka."
+   }
+  },
+  {
+   "id": "ID-H2382-A90",
+   "no": 90,
+   "noLabel": {
+    "id": "Pasal 90"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 90\nKontrak pembentukan Sentra Dana Berjangka seba gaimana\ndimaksud dalam Pasal  89 memuat hal-hal sebagai berikut:\na. nama dan alamat Pengelola Sentra Dana Berjangka;\nb. nama dan alamat Bank Penitipan Sentra Dana Berjangka;\nc. hak dan kewajiban Pengelola Sentra Dana Berjangka\ntermasuk kewajiban untuk menyertakan sejumlah\ndananya pada Sentra Dana Berjangka;\nd. hak dan k ewajiban Bank Penitipan Sentra Dana\nBerjangka;\ne. hak dan kewajiban dari peserta Sentra Dana Berjangka;\nf. rencana usaha termasuk tujuan dan arah kebijakan\ninvestasi;\ng. jumlah imbalan yang dipungut;\nh. biaya-biaya yang dibebankan;\n\ni. pernyataan ...\n\ni. pernyataan iti kad baik dan tanggung jawab Pengelola\nSentra Dana Berjangka dan Bank Penitipan Sentra Dana\nBerjangka bahwa pelaksanaan tugasnya semata -mata\nuntuk kepentingan peserta Sentra Dana Berjangka;\nj. keadaan yang memperbolehkan Pengelola Sentra Dana\nBerjangka menunda  atau menolak pembelian kembali\nSertifikat Penyertaan;\nk. penyelesaian perselisihan yang timbul antara Pihak yang\nterkait dalam kegiatan Sentra Dana Berjangka; dan\nl. keadaan yang mengharuskan Pengelola Sentra Dana\nBerjangka menghentikan kegiatan Sentra Dana Berjangka."
+   }
+  },
+  {
+   "id": "ID-H2382-A91",
+   "no": 91,
+   "noLabel": {
+    "id": "Pasal 91"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  91\n(1)    Permohonan persetujuan atas kontrak pembentukan\nSentra Dana Berjangka sebagaimana dimaksud dalam\nPasal 89 ayat (2)  diajukan oleh Pengelola Sentra Dana\nBerjangka kepada Kepala Bappebti disertai dengan\ndokumen dan/atau keterangan sebagai berikut:\na. izin usaha Pengelola Sentra Dana Berjangka;\nb. persetujuan Bank Penitipan Sentra Dana Berjangka\nyang diterbitkan oleh Kepala Bappebti;\nc. rencana usaha dan proyeksi keuangan 3 (tiga) tahun;\nd. izin Wakil Pengelola Sentra Dana Berjangka; dan\ne. prospektus ya ng digunakan dalam penawaran\ninvestasi Sentra Dana Berjangka.\n(2)    Permohonan sebagaimana dimaksud pada a yat (1)\ndiajukan dengan menggunakan formulir yang bentuk dan\nisinya ditetapkan dengan Peraturan Kepala Bappebti."
+   }
+  },
+  {
+   "id": "ID-H2382-A92",
+   "no": 92,
+   "noLabel": {
+    "id": "Pasal 92"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 92\n Ketentuan lebih lanjut mengen ai tata cara dan persyaratan\npemberian persetujuan kontrak pembentukan  Sentra Dana\nBerjangka diatur dengan Peraturan Kepala Bappebti.\n\n\n\nBagian ...\n\nBagian Kedua\nPengelola Sentra Dana Berjangka"
+   }
+  },
+  {
+   "id": "ID-H2382-A93",
+   "no": 93,
+   "noLabel": {
+    "id": "Pasal 93"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 93\nPelaksanaan kegiatan sebagai Pengelola Sentra Dana Berjangka\nhanya dapat dilakukan oleh perseroan t erbatas yang telah\nmemperoleh izin usaha dari Kepala Bappebti."
+   }
+  },
+  {
+   "id": "ID-H2382-A94",
+   "no": 94,
+   "noLabel": {
+    "id": "Pasal 94"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 94\n(1)    Pengelola Sentra Dana Berjangka wajib memenuhi\npersyaratan permodalan.\n(2)    Ketentuan mengenai permodalan sebagaimana dimaksud\npada ayat (1) diatur dengan peraturan Kepala Bappebti."
+   }
+  },
+  {
+   "id": "ID-H2382-A95",
+   "no": 95,
+   "noLabel": {
+    "id": "Pasal 95"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 95\n(1)    Permohonan untuk memperoleh izin usaha sebagai\nPengelola Sentra Dana Berjangka diajukan kepada Kepala\nBappebti disertai dengan dokumen sebagai berikut:\na. salinan akta pendirian perseroan terbatas yan g telah\ndisahkan oleh menteri yang menyelenggarakan urusan\npemerintahan di bidang hukum;\nb. daftar nama pemegang saham;\nc. daftar nama pengendali perusahaan;\nd.  Nomor Pokok Wajib Pajak (NPWP) perseroan terbatas;\ne.  daftar nama calon anggota komisaris dan direksi; dan\nf.  nama-nama calon tenaga ahli yang akan bertindak\nsebagai Wakil Pengelola Sentra Dana Berjangka setelah\nmendapat izin dari Kepala Bappebti.\n(2)    Permohonan seb agaimana dimaksud pada ayat (1)\ndiajukan dengan menggunakan formulir yang bentuk dan\nisinya ditetapkan dengan Peraturan Kepala Bappebti."
+   }
+  },
+  {
+   "id": "ID-H2382-A96",
+   "no": 96,
+   "noLabel": {
+    "id": "Pasal 96"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 96\nPengelola Sentra Dana Berjangka wajib memiliki paling sedikit\n5 (lima) orang Wakil Pengelola Sentra Dana Berjangka yang\nsalah seorang diantaranya berkedudukan sebagai direktur.\nPasal ..."
+   }
+  },
+  {
+   "id": "ID-H2382-A97",
+   "no": 97,
+   "noLabel": {
+    "id": "Pasal 97"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 97\n(1)    Pengelola Sentra Dana Berjangka dilarang untuk\ndikendalikan, baik langsung maupun tidak langsung oleh\norang perseorangan yang:\na. tidak cakap melakukan perbuatan hukum;\nb. pernah dinyatakan pailit atau menjadi direktur atau\nkomisaris yang dinyatakan bers alah menyebabkan\nsuatu perusahaan dinyatakan pailit dalam jangka\nwaktu 5 (lima) tahun terakhir;\nc. pernah dipidana karena terbukti melakukan tindak\npidana di bidang ekonomi atau keuangan;\nd. pernah dipidana yang ancaman hukumannya lebih\ndari 5 (lima) tahun;\ne. terbukti melakukan pelanggaran terhadap peraturan\nperundang-undangan di  bidang Perdagangan\nBerjangka;\nf. tidak memiliki akhlak dan moral yang baik; atau\ng. tidak memiliki pengetahuan di bidan g Perdagangan\nBerjangka.\n(2)    Pengelola Sentra Dana Berjangka wajib melaporka n Pihak\nyang mengendalikan perusahaannya baik langsung\nmaupun tidak langsung termasuk perubahannya kepada\nKepala Bappebti."
+   }
+  },
+  {
+   "id": "ID-H2382-A98",
+   "no": 98,
+   "noLabel": {
+    "id": "Pasal 98"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 98\n(1) Pengelola Sentra Dana Berjangka dapat menginvestasikan\ndana yang dihimpun secara kolektif dari masyarakat\ndalam Kontrak Ber jangka dan/atau Komoditi yang\nmenjadi subjek Kontrak Berjangka dan/atau instrumen\nlainnya yang diatur dengan Peraturan Kepala Bappebti.\n(2) Ketentuan lebih lanjut mengenai investasi sebagaimana\ndimaksud pada ayat (1) diatur dengan Peraturan Kepala\nBappebti.\n\n\n\nPasal ..."
+   }
+  },
+  {
+   "id": "ID-H2382-A99",
+   "no": 99,
+   "noLabel": {
+    "id": "Pasal 99"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 99\n(1) Kepala Bappebti wajib memberikan atau menolak\npermohonan yang diajukan setiap Pihak untuk\nmemperoleh izin usaha sebagai Pengelola Sentra Dana\nBerjangka paling lambat 32 (tiga puluh dua) hari kerja\nterhitung sejak permohonan diterima secara lengkap.\n(2) Izin usaha Pengelola Sentra Dana Berjangka berlaku\nselama Pengelola Sentra Dana Berjangka tersebut masih\naktif melakukan kegiatannya."
+   }
+  },
+  {
+   "id": "ID-H2382-A100",
+   "no": 100,
+   "noLabel": {
+    "id": "Pasal 100"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  100\nKetentuan lebih lanjut mengenai persyaratan dan tata ca ra\npemberian izin usaha sebagai Pengelola Sentra Dana Berjangka\ndiatur dengan Peraturan Kepala Bappebti.\n\nBagian Kedua\nWakil Pengelola Sentra Dana Berjangka"
+   }
+  },
+  {
+   "id": "ID-H2382-A101",
+   "no": 101,
+   "noLabel": {
+    "id": "Pasal 101"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  101\nIzin sebagai Wakil Pengelola Sentra Dana Berjangka hanya\ndiberikan kepada orang perseorangan yang memiliki keahlian\ndi bidang pengelolaan Sentra Dana Berjangka."
+   }
+  },
+  {
+   "id": "ID-H2382-A102",
+   "no": 102,
+   "noLabel": {
+    "id": "Pasal 102"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  102\n(1)    Permohonan untuk memperoleh izin sebagai Wakil\nPengelola Sentra Dana Berjangka diajukan kepada Kepala\nBappebti disertai dokumen sebagai berikut:\na. ijazah pendidikan formal;\nb. tanda lulus ujian profesi sebagai Waki l Pengelola\nSentra Dana Berjangka yang  diselenggarakan oleh\nBappebti; dan\nc. rekomendasi dari Pengelola Sentra Dana Berjangka\nyang bersangkutan.\n(2)    Permohonan seb agaimana dimaksud pada ayat (1)\ndiajukan dengan menggunakan formulir yang bentuk dan\nisinya ditetapkan dengan Peraturan Kepala Bappebti.\nPasal ..."
+   }
+  },
+  {
+   "id": "ID-H2382-A103",
+   "no": 103,
+   "noLabel": {
+    "id": "Pasal 103"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 103\n(1) Kepala Bappebti wajib memberikan atau menolak\npermohonan yang diajukan setiap Pihak untuk\nmemperoleh izin sebagai Wakil Pengelola Sentra Dana\nBerjangka paling lambat 32 (tiga puluh dua) hari kerja\nterhitung sejak permohonan diterima secara lengkap.\n(2) Izin Wakil Pengelola Sentra Dana Berjangka berlaku\nselama Wakil Pengelola Sentra Dana Berjangka tersebut\nmasih aktif melakukan kegiatannya."
+   }
+  },
+  {
+   "id": "ID-H2382-A104",
+   "no": 104,
+   "noLabel": {
+    "id": "Pasal 104"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 104\nKetentuan lebih lanjut mengenai perizinan Wakil Peng elola\nSentra Dana Berjangka diatur dengan Peraturan Kepala\nBappebti.\n\nBAB VI\nDANA KOMPENSASI\n\nBagian Kesatu\nPenghimpunan Dana Kompensasi"
+   }
+  },
+  {
+   "id": "ID-H2382-A105",
+   "no": 105,
+   "noLabel": {
+    "id": "Pasal 105"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 105\n(1) Dana Kompensasi dihimpun oleh Bursa Berjangka.\n(2) Dana Kompensasi sebagaimana dimaksud pada ayat (1)\nberasal dari:\na. kontribusi secara tunai dari setiap anggota Bursa\nBerjangka yang berkedudukan sebagai Pialang\nBerjangka; dan\nb. sumber sah lain yang disetujui oleh Kepala Bappebti.\n(3) Jumlah minimum D ana Kompensasi yang wajib dihimpun\ndan besar kontribusi Pialang Berjangka  sebagaimana\ndimaksud pada ayat (2) huruf a ditetapkan oleh Bursa\nBerjangka dengan persetujuan Kepala Bappebti.\n(4) Sumber sah lain sebagaimana dimaksud pada ayat (2)\nhuruf b dapat dihimpun dari:\na. sebagian biaya jasa pelayanan informasi yang\nberkaitan dengan p erdagangan Kontrak Berjangka,\nKontrak Derivatif Syariah, dan/atau Kontrak Derivatif\nlainnya;\nb. sebagian ...\n\nb. sebagian biaya jasa yang berkaitan dengan kegiatan\ntransaksi Kontrak Berjangka,  Kontrak Derivatif\nSyariah, dan/atau Kontrak Derivatif lainnya; atau\nc. sebagian dari k euntungan Bursa Berjangka yang\ndisisihkan untuk Dana Kompensasi dan/atau hasil\nyang diperoleh dari Dana Kompensasi tersebut.\n(5)    Besarnya biaya yang dikenakan terhadap kegiatan\nsebagaimana dimaksud pada ayat (4) huruf a dan huruf b\nterlebih dahulu harus men dapat persetujuan dari\nBappebti.\n(6)    Dana Kompensasi wajib disetor kepada Bursa Berjangka\npada saat pengajuan permohonan menjadi Anggota Bursa\nBerjangka yang berkedudukan sebagai Pialang Berjangka.\n\nBagian Kedua\nPenyimpanan Dana Kompensasi"
+   }
+  },
+  {
+   "id": "ID-H2382-A106",
+   "no": 106,
+   "noLabel": {
+    "id": "Pasal 106"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 106\n(1)    Dana Kompensasi wajib disimpan dalam rekening yang\ndibuat khusus untuk menyimpan Dana Kompensasi pada\nBank yang disetujui oleh Kepala Bappebti.\n(2)    Pembukuan Dana Kompensasi terpisah dengan\npembukuan Bursa Berjangka.\n(3)    Laporan keuangan Dana Kompensasi wajib d iperiksa dan\ndiaudit oleh Akuntan Publik.\n(4)    Bursa Berjangka wajib menyampaikan laporan keuangan\nDana Kompensasi sebagaimana dimaksud pada ayat (3)\nkepada Kepala Bappebti  paling lambat 3 (tiga) bulan\nsetelah berakhirnya tahun buku.\n\nBagian Ketiga\nPenggunaan Dana Kompensasi"
+   }
+  },
+  {
+   "id": "ID-H2382-A107",
+   "no": 107,
+   "noLabel": {
+    "id": "Pasal 107"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 107\n(1)    Dana Kompensasi digunakan untuk pembayaran ganti\nrugi kepada Nasabah akibat cidera janji Pialang Berjangka.\n(2) Ganti ...\n\n(2)    Ganti rugi sebagaimana dimaksud pada ayat (1)\ndibayarkan sebesar nilai kerugian."
+   }
+  },
+  {
+   "id": "ID-H2382-A108",
+   "no": 108,
+   "noLabel": {
+    "id": "Pasal 108"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 108\n(1)    Nasabah dapat melakukan tuntutan ganti rugi pada Bursa\nBerjangka atas cidera janji Pialang Berjangka.\n(2)    Tuntutan ganti rugi pada Bursa Berjangka sebagaimana\ndimaksud pada ayat (1) dapat dipenuhi jika memenuhi\npersyaratan sebagai berikut:\na. Nasabah yang bersangkutan  telah melakukan upaya\npenagihan secara maksimal kepada Pialang Berjangka\nyang melakukan cidera janji tersebut;\nb. memberikan bukti yang kuat bahwa kerugian yang\ndialaminya disebabkan oleh perbuatan cidera janji\nPialang Berjangka yang menerima amanat dari\nNasabah yang bersangkutan; dan\nc.  jumlah uang yang dituntut adalah jumlah ganti rugi\nyang sebenarnya terjadi."
+   }
+  },
+  {
+   "id": "ID-H2382-A109",
+   "no": 109,
+   "noLabel": {
+    "id": "Pasal 109"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 109\n(1)    Bursa Berjangka wajib mempertahankan jumlah minimum\nDana Kompensasi yang harus tersedia.\n(2)    Besarnya Dana Kompensasi yang harus tersedia  untuk\nmembayar tuntutan ganti rugi ditetapkan oleh Bursa\nBerjangka atas persetujuan Kepala Bappebti."
+   }
+  },
+  {
+   "id": "ID-H2382-A110",
+   "no": 110,
+   "noLabel": {
+    "id": "Pasal 110"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 110\n(1)    Bursa Berjangka wajib membentuk suatu unit khusus\nuntuk menghimpun dan menggunakan Dana Kompensasi.\n(2)    Unit khusus sebagaimana dimaksud pada ayat ( 1)\nbertanggung jawab kepada Bursa Berjangka."
+   }
+  },
+  {
+   "id": "ID-H2382-A111",
+   "no": 111,
+   "noLabel": {
+    "id": "Pasal 111"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 111\nKetentuan lebih lanjut mengenai tata cara penggunaan Dana\nKompensasi diatur dengan Peraturan Kepala Bappebti.\n\nBAB ...\n\nBAB VII\nBANK PENYIMPANAN DANA"
+   }
+  },
+  {
+   "id": "ID-H2382-A112",
+   "no": 112,
+   "noLabel": {
+    "id": "Pasal 112"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 112\n(1)    Setiap dana Nasabah, Dana Kompe nsasi, dana jaminan,\ndan dana Sentra Dana Berjangka wajib disimpan dalam\nrekening terpisah dari rekening lembaga yang menyimpan\ndana tersebut pada bank umum yang berstatus bank\ndevisa.\n(2)    Bank sebagaimana dimaksud pada ayat (1) dapat\nmenjalankan kegiatan p enyimpanan dana Nasabah, Dana\nKompensasi, dana jaminan, dan/ atau dana Sentra Dana\nBerjangka setelah mendapat persetujuan dari Kepala\nBappebti."
+   }
+  },
+  {
+   "id": "ID-H2382-A113",
+   "no": 113,
+   "noLabel": {
+    "id": "Pasal 113"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 113\nUntuk mendapatkan persetujuan sebagaimana dimaksud\ndalam Pasal 112 ayat (2),  bank tersebut wajib meng ajukan\npermohonan kepada Kepala Bappebti disertai dokumen sebagai\nberikut:\na. anggaran dasar;\nb. Nomor Pokok Wajib Pajak (NPWP);\nc. izin usaha sebagai bank umum yang berstatus sebagai\nbank devisa;\nd. laporan keuangan 3 (tiga) tahun terakhir setelah diaudit\noleh Akuntan Publik;\ne. buku pedoman operasional tentang kegiatan penyimpanan\ndana dalam rekening terpisah yang akan dilakukan oleh\nbank tersebut; dan\nf. rekomendasi dari Bank Indonesia."
+   }
+  },
+  {
+   "id": "ID-H2382-A114",
+   "no": 114,
+   "noLabel": {
+    "id": "Pasal 114"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 114\n(1) Kepala Bappebti wajib memberikan atau menolak\npermohonan yang diajukan seti ap Pihak untuk\nmemperoleh persetujuan bagi bank yang dapat\nmenjalankan kegiatan penyimpanan dana Nasabah, Dana\nKompensasi, dana jaminan, dan/atau Sentra Dana\nBerjangka paling lambat 32 (tiga puluh dua) hari kerja\nterhitung sejak permohonan diterima secara lengkap.\n(2) Persetujuan ...\n\n(2) Persetujuan bank yang dapat menjalankan kegiatan\npenyimpanan dana Nasabah, Dana Kompensasi, dana\njaminan, dan/atau Sentra Dana Berjangka berlaku selama\nbank tersebut masih aktif melakukan kegiatan\npenyimpanan dana Nasabah, Dana Kompensasi, dana\njaminan, dan/atau Sentra Dana Berjangka."
+   }
+  },
+  {
+   "id": "ID-H2382-A115",
+   "no": 115,
+   "noLabel": {
+    "id": "Pasal 115"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  115\nKetentuan lebih lanjut mengenai  pemberian persetujuan bagi\nbank yang dapat menjalankan kegiatan  penyimpanan dana\nNasabah, Dana Kompensasi, dana jaminan, dan/atau Sentra\nDana Berjangka  dan tata cara penyimp anan dana pada\nrekening terpisah diatur dengan Peraturan Kepala Bappebti.\n\nBAB VIII\nPENYALURAN AMANAT NASABAH KE BURSA BERJANGKA LUAR NEGERI"
+   }
+  },
+  {
+   "id": "ID-H2382-A116",
+   "no": 116,
+   "noLabel": {
+    "id": "Pasal 116"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 116\n(1)    Penyaluran amanat Nasabah ke Bursa Berjangka luar\nnegeri hanya dapat dilakukan oleh Pialang Berjangka.\n(2)    Pialang Berjangka yang dapat melakukan Penyaluran\namanat Nasabah  ke Bursa Berjangka luar negeri\nsebagaimana dimaksud pada ayat (1)  wajib mendapat\npersetujuan dari Kepala Bappebti.\n(3)    Untuk memperoleh persetujuan sebagaimana dimaksud\npada ayat (1), Pialang Berjangka harus:\na. menyetorkan dana jaminan sebagaimana ditetapkan\noleh Kepala Bappebti;\nb. mempunyai Wakil Pialang Berjangka yang menguasai\natau mengerti peraturan dan tata tertib Bursa\nBerjangka serta Kontrak Berjangka dan/atau Kontrak\nDerivatif lainnya yang diperdagangkan di Bursa\nBerjangka tersebut yang dibuktikan dengan sertifikat\natau surat keterangan.\nc. melampirkan izin usaha sebagai Pialang Berjangka dari\nBappebti;\nd. melampirkan surat kesepakatan antara pemohon\ndengan Pialang Berjangka Anggota Kliring Berjangka\nluar negeri yang bersangkutan; dan\ne. melampirkan ...\n\ne. melampirkan daftar Kontrak Berjangka dan/atau\nKontrak Derivatif lainnya yang akan diperdagangkan\nsesuai dengan daftar yang ditetapkan oleh Kepala\nBappebti."
+   }
+  },
+  {
+   "id": "ID-H2382-A117",
+   "no": 117,
+   "noLabel": {
+    "id": "Pasal 117"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 117\n(1)    Dana jaminan sebagaimana dimaksud dalam P asal 116\nayat (3) huruf a  digunakan untuk membayar kewajiban\nPialang Berjangka kepada Nasabah yang tidak bisa atau\nlalai diselesaikan.\n(2)    Dana jaminan se bagaimana dimaksud dalam Pasal 116\nayat (3) huruf a  dikembalikan kepada Pialang Berjangka,\napabila yang  bersangkutan menghentikan kegiatan\npenyaluran amanat Nasabah ke Bursa Berjangka luar\nnegeri."
+   }
+  },
+  {
+   "id": "ID-H2382-A118",
+   "no": 118,
+   "noLabel": {
+    "id": "Pasal 118"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 118\n(1) Kepala Bappebti menetapkan daftar:\na. Bursa Berjangka luar negeri; dan\nb. Kontrak Berjangka dan/atau Kontrak Derivatif\nlainnya yang dapat disa lurkan ke Burs a Berjangka\nluar negeri.\n(2) Dalam menetapkan daftar sebagaimana dimaksud pada\nayat (1) , Bappebti melakukan penelitian terhadap Bursa\nBerjangka luar negeri serta  Kontrak Berjangka dan/atau\nKontrak Derivatif lainnya yang diperdagangkan di Bursa\nBerjangka luar negeri tersebut.\n(3) Dalam menetapkan daftar sebagaimana dimaksud pada\nayat (1), Bappebti mempertimbangkan:\na. peraturan dan tata tertib Bursa Berjangka luar negeri\nyang bersangkutan memberi perlindungan yang sama\nkepada Nasabah dalam negerinya dan Nasabah dari\nluar negeri;\nb. persyaratan dan likuiditas Kontrak Berjangka\ndan/atau Kontrak Derivatif lainnya yang\ndiperdagangkan di Bursa Berjangka luar negeri\ntersebut; dan\nc. Kontrak ...\n\nc. Kontrak Berjangka dan/atau Kontrak Derivatif lainnya\nsebagaimana dimaksud dalam huruf b mempunyai\nmanfaat bagi perekonomian Indonesia."
+   }
+  },
+  {
+   "id": "ID-H2382-A119",
+   "no": 119,
+   "noLabel": {
+    "id": "Pasal 119"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 119\nKepala Bappebti wajib memberikan atau menolak permohonan\nyang diajukan setiap Pihak untuk mempe roleh persetujuan\nbagi Pialang Berjangka yang dapat melakukan P enyaluran\namanat Nasabah ke Bursa Berjangka luar ne geri paling lambat\n32 (tiga puluh dua) hari kerja terhitung sejak permohonan\nditerima secara lengkap."
+   }
+  },
+  {
+   "id": "ID-H2382-A120",
+   "no": 120,
+   "noLabel": {
+    "id": "Pasal 120"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 120\nKetentuan lebih lanjut mengenai pemberian persetujuan bagi\nPialang Berjangka yang dapat melakukan Penyaluran amanat\nNasabah ke Bursa Berjangka luar negeri, persyaratan dan tata\ncara penyaluran amanat Nasabah  dan dana jaminan,  serta\npenetapan daftar Bursa Berjangka beserta Kontrak Berjangka\ndan/atau Kontrak Derivatif lainnya yang dapat disalurkan ke\nBursa Berjangka luar negeri diatur dengan Peratu ran Kepala\nBappebti.\n\nBAB IX\nPEMBUKUAN DAN PELAPORAN"
+   }
+  },
+  {
+   "id": "ID-H2382-A121",
+   "no": 121,
+   "noLabel": {
+    "id": "Pasal 121"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 121\nPemegang izin usaha  Bursa Berjangka , Lembaga Kliring\nBerjangka, Pialang Berjangka, Penasihat Berjangka, dan\nPengelola Sentra Dana Berjangka, izin Wakil Pialang Berjangka,\nWakil Penasihat Berja ngka, dan Wakil Pengelola Sentra Dana\nBerjangka, sertifikat pendaftaran  Pedagang Berjangka , dan\npersetujuan Pialang Berjangka untuk menyalurkan amanat\nNasabah ke Bursa Berjangka luar negeri, Penyelenggara Sistem\nPerdagangan Alternatif, Peserta Sistem Perda gangan Alternatif\nserta persetujuan bank,  wajib melaporkan tentang keadaan\ndan perkembangan usahanya setiap tahun takwim kepada\nKepala Bappebti dengan menggunakan formulir yang bentuk\ndan isinya ditetapkan dengan Peraturan Kepala Bappebti.\nPasal ..."
+   }
+  },
+  {
+   "id": "ID-H2382-A122",
+   "no": 122,
+   "noLabel": {
+    "id": "Pasal 122"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 122\n(1)    Bursa Berjangka, Lembaga Kliring Berjangka, Pialang\nBerjangka, Penasihat Berjangka, dan Pengelola Sentra\nDana Berjangka wajib membuat, menyimpan, dan\nmemelihara catatan mengenai:\na. organisasi, personil, dan dokumen tertulis menyangkut\nkebijaksanaan, prosedur, dan sistem kerja;\nb. keadaan keuangan, kekayaan, kewajiban keuangan ,\ndan perhitungan rugi/laba;\nc. data keanggotaan, Nasabah, klien, atau peserta Sentra\nDana Berjangka; dan\nd. pelaksanaan kegiatan usahanya setiap hari secara\nlengkap dan sistematis.\n(2)    Catatan sebagaimana dimaksud pada ayat (1) berupa data\ntransaksi harian di Bursa Berjangka dan penyelesaian\ntransaksi oleh Lembaga Kliring Berjangka serta neraca dan\nlaporan rugi/laba tahunan  wajib dipublikasikan dalam\njangka waktu tertentu.\n(3)    Catatan sebagai mana dimaksud pada ayat (1) wajib\ndilaporkan kepada Kepala Bappebti.\n(4)    Ketentuan lebih lanjut mengenai bentuk catatan ,\npublikasi, dan pelaporan  sebagaimana dimaksud pada\nayat (1) , ayat (2), dan ayat (3)  diatur dengan Peraturan\nKepala Bappebti."
+   }
+  },
+  {
+   "id": "ID-H2382-A123",
+   "no": 123,
+   "noLabel": {
+    "id": "Pasal 123"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 123\n(1)    Bursa Berjangka wajib membuat, menyimpan, dan\nmemelihara catatan transaksi Kontrak Berjangka, Kontrak\nDerivatif Syariah, dan/atau Kontrak Derivatif lainnya dan\nOpsi di Bursa Berjangka.\n(2)    Catatan sebagaimana dimaksud pada ayat (1) paling\nsedikit memuat informasi:\na. tanggal dan jam transaksi;\nb. jumlah transaksi;\nc. jenis Kontrak Berjangka, Kontrak Derivatif Syariah ,\ndan/atau Kontrak Derivatif lainnya atau Opsi;\nd. harga atau premi;\ne. bulan ...\n\ne. bulan penyerahan waktu jatuh tempo;\nf. transaksi Opsi jual atau beli;\ng. harga patokan; dan\nh. nama pelaku transaksi.\n(3)    Catatan seb agaimana dimaksud pada ayat (2)  wajib\ndilaporkan kepada Kepala Bappebti sebelum jam\nperdagangan dimulai pada hari berikutnya.\n(4)    Ketentuan lebih lanjut mengenai bentuk laporan\nsebagaimana dimaksud pada ayat (3) diatur dengan\nPeraturan Kepala Bappebti."
+   }
+  },
+  {
+   "id": "ID-H2382-A124",
+   "no": 124,
+   "noLabel": {
+    "id": "Pasal 124"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 124\n(1)    Bursa Berjangka wajib mempublikasikan pada setiap hari\ninformasi mengenai:\na. volume perdagangan, jumlah transaksi Kontrak\nBerjangka, Kontrak Derivatif Syariah, dan/atau\nKontrak Derivatif lainnya yang  diselesaikan secara\ntunai, jumlah Kontrak Berjangka yang terbuka, jumlah\nKontrak Berjangka terbuka yang telah diputuskan\nditutup dengan penyerahan barang, dan jumlah Opsi\nyang telah dilaksanakan; dan\nb. harga pada periode pembukuan dan penutupan, harga\njual atau penawaran yang terendah, harga beli atau\npermintaan yang tertinggi, harga transaksi tertinggi\ndan terendah, serta harga penyelesaian.\n(2)    Ketentuan lebih lanjut mengenai bentuk publikasi\nsebagaimana dimaksud pada ayat (1) diatur dengan\nPeraturan Kepala Bappebti."
+   }
+  },
+  {
+   "id": "ID-H2382-A125",
+   "no": 125,
+   "noLabel": {
+    "id": "Pasal 125"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 125\n(1)    Lembaga Kliring Berjangka wajib membuat, memelihara,\ndan menyimpan catatan transaksi Kontrak Berjangka,\nKontrak Derivatif Syariah , dan/atau Kontrak Derivatif\nlainnya di Bursa Berjangka dan/atau di Sistem\nPerdagangan Alternatif.\n\n(2) Catatan ...\n\n(2)    Catatan seb agaimana dimaksud pada ayat (1)  paling\nsedikit memuat informasi:\na. tanggal transaksi;\nb. waktu transaksi;\nc. jumlah transaksi;\nd. harga atau premi,\ne. bulan penyerahan atau tanggal jatuh tempo; dan\nf. transaksi Opsi.\n(3)    Catatan seb agaimana dimaksud  pada ayat (2)  wajib\ndilaporkan kepada Kepala Bappebti sebelum jam\nperdagangan dimulai pada hari berikutnya.\n(4)    Ketentuan lebih lanjut mengenai bentuk dan format\nlaporan seb agaimana dimaksud pada ayat (3)  diatur\ndengan Peraturan Kepala Bappebti."
+   }
+  },
+  {
+   "id": "ID-H2382-A126",
+   "no": 126,
+   "noLabel": {
+    "id": "Pasal 126"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  126\nLembaga Kliring Berjangka wajib membuat, menyimpan, dan\nmemelihara catatan mengenai:\na. tanggal penerimaan dan pengembalian M argin yang\nberupa uang atau surat berharga;\nb. identitas lembaga tempat M argin disimpan secara\nterpisah; dan\nc. pencarian M argin yang beru pa surat berharga\nsebagaimana dimaksud dalam huruf a disertai dengan\npenjelasan mengenai fakta -fakta dan keadaan yang\nmenyebabkan pencairan tersebut dilakukan serta\nkewenangan untuk melakukan pencairan tersebut."
+   }
+  },
+  {
+   "id": "ID-H2382-A127",
+   "no": 127,
+   "noLabel": {
+    "id": "Pasal 127"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 127\n(1)    Pialang Berjangka dan Pedagang  Berjangka wajib\nmembuat, menyimpan, dan memelihara:\na.  semua catatan keuangan dan pembukuan keuangan\nyang dibuat secara benar dan sesuai dengan prinsip\nakuntansi yang berlaku umum serta tersedia setiap\nsaat untuk diperiksa; dan\nb. catatan ...\n\nb.  catatan transaksi, termasuk semua kartu, memo,\natau rekaman yang berkaitan dengan kegiatan\ntransaksi Kontrak Berjangka, Kontrak Derivatif\nSyariah, dan/atau Kontr ak Derivatif lainnya, Opsi\ndan Komoditi di pasar fisik.\n(2)    Catatan, pembukuan keuangan, dan catatan tr ansaksi\nsebagaimana dimaksud pada ayat (1) wajib tersedia setiap\nsaat untuk diperiksa.\n(3)    Catatan sebagaimana dimaksud pada ayat (1) meliputi:\na. semua pesanan yang telah ditransaksikan, yang belum\nditransaksikan, atau yang dibatalkan;\nb. kartu transaksi;\nc. kartu tanda tangan;\nd. buku catatan transaksi;\ne. jurnal;\nf. buku kas;\ng. cek yang dibatalkan;\nh. salinan konfirmasi;\ni. salinan pernyataan jual dan beli;\nj. Dokumen Perjanjian Pemberian Amanat;\nk. Dokumen Pemberitahuan Adanya Risiko; dan\nl. catatan lainnya yang dibuat berkaitan dengan\npelaksanaan transaksi Kontrak Berjangka, Kontrak\nDerivatif Syariah dan/atau Kontr ak Derivatif lainnya,\nOpsi dan Komoditi di pasar fisik.\n(4)    Untuk transaksi Opsi harus dicatat informasi mengenai:\na. waktu transaksi;\nb. transaksi Opsi jual atau beli;\nc. waktu jatuh tempo;\nd. jumlah transaksi,\ne. jenis Opsi; dan\nf. harga patokan, premi, komisi, dan biaya lainnya.\n\n\nPasal ..."
+   }
+  },
+  {
+   "id": "ID-H2382-A128",
+   "no": 128,
+   "noLabel": {
+    "id": "Pasal 128"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  128\n(1)    Pialang Berjangka yang menerima amanat wajib membuat,\nmenyimpan, dan memelihara catatan nama Pihak yang\nmemberi amanat, nomor rekening, dan data amanat dalam\nkartu amanat.\n(2)    Kartu amanat seb agaimana dimaksud pada ayat (1)  wajib\nsegera diberi tanda waktu terima amanat dengan\nmenggunakan peralatan atau mesin pencatat waktu."
+   }
+  },
+  {
+   "id": "ID-H2382-A129",
+   "no": 129,
+   "noLabel": {
+    "id": "Pasal 129"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 129\n(1)    Pialang Berja ngka wajib membuat, menyimpan, dan\nmemelihara catatan keuangan yang terpisah untuk setiap\nNasabah, yang meliputi uang masuk dan keluar dan\nsemua transaksi Kontrak Berjangka, Kontrak Derivatif\nSyariah, dan/atau Kontrak Derivatif lainnya di Bursa\nBerjangka dalam negeri dan/atau luar negeri yang\nmencakup waktu, harga, jumlah transaksi, dan jenis\nkomoditi.\n(2)    Pialang Berjangka wajib menyampaikan konfirmasi\ntentang posisi keuangan Nasabah, mencakup berbagai\nbiaya yang dikeluarkan untuk transaksi dan jasa kepada\nNasabah setiap hari, paling lambat hari kerja berikutnya.\n(3)    Pialang Berjangka wajib membuat konfirmasi paling sedikit\n1 (satu) bulan sekali kepada Nasabah tentang posisi\nterbuka Kontrak Berjangka, Kontrak Derivatif Syariah,\ndan/atau Kontrak Derivatif lainnya dan harga yang terjadi,\nlaba atau rugi b ersih yang belum nyata, semua dana\nNasabah, dan berbagai biaya yang dibebankan kepada\nrekening Nasabah tersebut."
+   }
+  },
+  {
+   "id": "ID-H2382-A130",
+   "no": 130,
+   "noLabel": {
+    "id": "Pasal 130"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 130\n(1)    Pialang Berjangka wajib membuat laporan keuangan\ntermasuk perhitungan modal bersih disesuaikan setiap 1\n(satu) bulan, 3 (tiga) bu lan, dan 1 (satu) tahun sesuai\ndengan bentuk laporan yang ditetapkan oleh Kepala\nBappebti.\n(2)  Laporan keuangan setiap bulan sebagaimana dimaksud\npada ayat (1) wajib disampaikan kepada Kepala Bappebti\npaling lambat 7 (tujuh) hari setelah tanggal periode\npelaporan berakhir.\n(3) Laporan ...\n\n(3)  Laporan keuangan triwulan sebagaimana dimaksud pada\nayat (1) wajib disampaikan kepada Kepala Bappebti dan\nBursa Berjangka paling lambat 45 (empat puluh lima) hari\nsetelah tanggal periode pelaporan berakhir.\n(4)    Laporan keuangan tahu nan sebagaimana dimaksud pada\nayat (1) harus diaudit oleh Akuntan Publik dan\ndisampaikan kepada Kepala Bappebti paling lambat 90\n(sembilan puluh) hari setelah berakhirnya tahun laporan."
+   }
+  },
+  {
+   "id": "ID-H2382-A131",
+   "no": 131,
+   "noLabel": {
+    "id": "Pasal 131"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 131\n(1)    Direktur k epatuhan Pialang Berjangka wajib membuat\nlaporan bulanan.\n(2)    Laporan bulanan sebagaimana dimaksud pada ayat (1)\nwajib disampaikan kepada Kepala Bappebti paling lambat\n7 (tujuh) hari setelah tanggal periode pelaporan berakhir.\n(3)    Ketentuan lebih lanjut mengenai bentuk  dan tata cara\npembuatan laporan bu lanan sebagaimana dimaksud pada\nayat (1) diatur dengan Peraturan Kepala Bappebti."
+   }
+  },
+  {
+   "id": "ID-H2382-A132",
+   "no": 132,
+   "noLabel": {
+    "id": "Pasal 132"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 132\n(1)    Pialang Berjangka wajib melaporkan kepada Kepala\nBappebti keadaan sebagai berikut:\na. perusahaan Pialang Berjangka akan memulai,\nmenghentikan sementara, membuka ke mbali, atau\nmemberhentikan secara tetap kegiatannya;\nb. perusahaan Pialang Berjangka yang bersangkutan atau\nsalah satu komisaris, direksi, manajer, atau Wakil\nPialang Berjangka sedang dalam proses perkara di\npengadilan, dihukum karena terbukti melakukan\ntindak pidana di bidang ekonomi atau keuangan atau\ndinyatakan pailit oleh pengadilan atau melakukan\npelanggaran di bidang perbankan atau sedang dalam\nproses penyelesaian hutangnya dengan pihak ketiga;\nc. terdapat pengurus perusahaan Pialang Berjangka yang\nmelakukan kegiatan di luar kewenangannya;\nd. terdapat pengurus perusahaan atau pegawai Pialang\nBerjangka yang dianggap tidak layak lagi melakuka n\nPerdagangan Berjangka , karena yang bersangkutan\nbersikap tidak jujur atau tidak adil;\ne. terdapat ...\n\ne. terdapat pengurus Pialang Berjangk a yang melanggar\nperaturan perundang -undangan di bidan g\nPerdagangan Berjangka;\nf. terdapat perubahan kepemilikan saham perusahaan\nPialang Berjangka yang melebihi 10% (sepuluh\nperseratus) dari jumlah saham yang disetor;\ng. tidak memenuhi batas modal bersih disesu aikan\nsebagaimana ditetapkan dalam peraturan perundang -\nundangan di bidang Perdagangan Berjangka; atau\nh. volume transaksi perusahaan Pialang Berjangka untuk\nNasabah telah mencapai jumlah wajib lapor posisi\nterbuka Kontrak Berjangka, Kontrak Derivatif Syariah,\ndan/atau Kontrak Derivatif lainnya sebagaimana\nditetapkan dalam peraturan perundang -undangan di\nbidang Perdagangan Berjangka.\n(2)    Apabila Pialang Berjangka mengetahui terjadinya keadaan\nsebagaimana dimaksud pada ayat (1):\na. huruf a sampai dengan huruf e , Pialang Berjangka\nwajib melaporkan kepada Kepala Bappebti paling\nlambat 5 (lima) hari sejak diketahui atau dari tanggal\npermasalahan tersebut terjadi;\nb. huruf f, Pialang Berjangka wajib melaporkan kepada\nKepala Bappebti paling lambat 15 (lima belas) hari\nsejak perubahan kepemilikan saham; dan\nc. huruf g dan huruf h, Pialang Berjangka wajib\nmelaporkan paling lambat sebelum jam perdagangan\ndimulai pada hari berikutnya kepada Kepala Bappebti."
+   }
+  },
+  {
+   "id": "ID-H2382-A133",
+   "no": 133,
+   "noLabel": {
+    "id": "Pasal 133"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 133\n(1)  Penyelenggara Sistem Perdagangan Alternatif wajib\nmembuat, memelihara, dan menyimpan semua catatan\nkegiatan transaksi dan keuangan secara benar dan sesuai\ndengan prinsip akuntansi yang berlaku umum serta\ntersedia setiap saat untuk diperiksa.\n(2)  Catatan kegiatan transaksi dan keuangan sebagaimana\ndimaksud pada ay at (1) wajib dilaporkan kepada Kepala\nBappebti.\n\nPasal ..."
+   }
+  },
+  {
+   "id": "ID-H2382-A134",
+   "no": 134,
+   "noLabel": {
+    "id": "Pasal 134"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 134\n(1)    Penasihat Berjangka wajib membuat, memelihara, dan\nmenyimpan semua catatan kegiatannya secara benar serta\ntersedia setiap saat untuk diperiksa.\n(2)  Catatan sebagaimana dimaksud pada ayat (1) meliputi:\na. data dan informasi semua klien;\nb. semua dokumen resmi dan keterangan lainnya;\nc. tanda bukti pengakuan klien telah mengerti isi\nDokumen Keterangan Perusahaan;\nd. semua perjanjian tertulis, termasuk Dokumen\nPemberitahuan Adanya Resiko;\ne. semua naska h asli atau salinan dari laporan, surat,\nedaran, memo, publikasi, tulisan, dan iklan yang\ndisebarkan kepada klien yang disusun berdasarkan\ntanggal yang tercantum dalam naskah tersebut; dan\nf. buku dan catatan lainnya yang berkaitan dengan\ntransaksi Kontrak Be rjangka, Kontrak Derivatif\nSyariah, dan/atau Kontrak Derivatif lainnya dan\ntransaksi di pasar fisik yang dilakukan oleh\nprinsipalnya.\n(3)    Catatan seb agaimana dimaksud pada ayat (2)  wajib\ndilaporkan kepada Kepala Bappebti.\n(4)    Ketentuan lebih lanjut mengenai bentuk dan format\nlaporan seb agaimana dimaksud pada ayat (3)  diatur\ndengan Peraturan Kepala Bappebti."
+   }
+  },
+  {
+   "id": "ID-H2382-A135",
+   "no": 135,
+   "noLabel": {
+    "id": "Pasal 135"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 135\n(1)    Pengelola Sentra Dana Berjangka wajib membuat,\nmemelihara, dan menyimpan semua catatan kegiatan\ntransaksi dan keuangan secara benar dan sesu ai dengan\nprinsip akuntansi yang berlaku umum serta tersedia\nsetiap saat untuk diperiksa.\n(2)    Catatan sebagaimana dimaksud pada ayat (1) meliputi:\na. catatan harian tentang transaksi yang dilakukan\nuntuk Sentra Dana Berjangka yang meliputi tanggal\ntransaksi, jumlah, jenis Kontrak Berjangka, Kontrak\nDerivatif Syariah, dan/atau Kontrak Derivatif lainnya,\nharga, bulan penyerahan, jual atau beli, Pialang\nBerjangka yang mengelola rekening, Penasihat\nBerjangka, serta untung dan rugi yang diperoleh;\nb. pembukuan ...\n\nb. pembukuan atau ca tatan lainnya yang menunjukkan\nsemua tanda terima dan pengeluaran uang, surat\nberharga, atau kekayaan lainnya;\nc. tanda bukti pengakuan peserta Sentra Dana Berjangka\nyang telah mengerti isi Dokumen Keterangan\nPerusahaan;\nd. buku kas dan catatan lain yang menunju kkan nama\ndan alamat setiap peserta Sentra Dana Berjangka serta\ndana yang diterima dan dibagikan kepada setiap\npeserta Sentra Dana Berjangka;\ne. salinan dari konfirmasi transaksi dan laporan bulanan\ndari Pialang Berjangka dan/atau pelaku lainnya untuk\ntiap Sentra Dana Berjangka;\nf. cek yang dibatalkan, laporan bank, jurnal, buku kas,\nbukti pembayaran, data dari komputer, data lainnya,\ndan memo yang dibuat atau diterima yang berkaitan\ndengan kegiatan Sentra Dana Berjangka;\ng. semua naskah asli salinan dari laporan, s urat, edaran,\nmemo, publikasi, tulisan, dan iklan yang disebarkan\nkepada peserta Sentra Dana Berjangka yang disusun\nberdasarkan tanggal yang tercantum dalam naskah\ntersebut; dan\nh. buku dan catatan lainnya yang berkaitan dengan\ntransaksi Kontrak Berjangka, Ko ntrak Derivatif\nSyariah, Kontrak Derivatif lainnya, produk transaksi\nfisik di Bursa Berjangka, Sistem Perdagangan Alternatif\ndan/atau Sistem Resi Gudang yang dilakukan oleh\nPengelola Sentra Dana Berjangka atau prinsipalnya.\n(3)    Pengelola Sentra Dana Berjang ka wajib menyerahkan\nlaporan keuangan Sentra Dana Berjangka yang dibuat\nberdasarkan prinsip akuntansi yang berlaku umum\nkepada peserta Sentra Dana Berjangka paling lambat 30\n(tiga puluh) hari setelah akhir bulan."
+   }
+  },
+  {
+   "id": "ID-H2382-A136",
+   "no": 136,
+   "noLabel": {
+    "id": "Pasal 136"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 136\n(1)    Setiap Pedagang Berjangka ya ng menguasai atau memiliki\nposisi dalam jumlah mencapai batas wajib lapor, wajib\nmenyampaikan laporan kepada Kepala Bappebti paling\nlambat sebelum jam perdagangan dimulai pada hari\nberikutnya setelah diketahui atau menerima\npemberitahuan keadaan posisi tersebut.\n(2) Laporan ...\n\n(2)    Laporan sebagaimana dimaksud pada ayat (1)\ndisampaikan selama Pedagang Berjangka menguasai atau\nmemiliki posisi pada tingkat mencapai atau melebihi batas\nwajib lapor.\n(3)    Ketentuan lebih lanjut mengenai bentuk laporan\nsebagaimana dimaksud pada aya t (2) diatur dengan\nPeraturan Kepala Bappebti."
+   }
+  },
+  {
+   "id": "ID-H2382-A137",
+   "no": 137,
+   "noLabel": {
+    "id": "Pasal 137"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 137\nKetentuan lebih lanjut mengenai tata cara pembukuan dan\npelaporan serta bentuk laporan diatur dengan Peraturan\nKepala Bappebti.\n\nBAB X\nPELAKSANAAN PERDAGANGAN BERJANGKA\n\nBagian Kesatu\nPedoman Perilaku Pialang Berjangka"
+   }
+  },
+  {
+   "id": "ID-H2382-A138",
+   "no": 138,
+   "noLabel": {
+    "id": "Pasal 138"
+   },
+   "chapter": {
+    "id": "BAB X / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 138\nPialang Berjangka wajib mempertahankan modal bersih\ndisesuaikan sebagaimana ditetapkan dengan Peraturan Kepala\nBappebti."
+   }
+  },
+  {
+   "id": "ID-H2382-A139",
+   "no": 139,
+   "noLabel": {
+    "id": "Pasal 139"
+   },
+   "chapter": {
+    "id": "BAB X / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 139\n(1)    Pialang Berjangka wajib mengetahui dan memiliki data\natau informasi mengenai Nasabahnya yang meliputi:\na. nama, kedudukan, dan alamat;\nb. pekerjaan dan umur;\nc. kemampuan keuangan;\nd. pengetahuan mengenai Perdagangan Berjangka;\ne. alasan membuka rekenin g Perdagangan Berjangka ;\ndan\nf. informasi lainnya yang diperlukan.\n(2) Data ...\n\n(2)    Data dan informasi sebagaimana dimaksud  pada ayat (1)\nbersifat rahasia, kecuali diperlukan dalam pemeriksaan\ndan penyidikan atau mendapat persetujuan tertulis dari\nNasabah."
+   }
+  },
+  {
+   "id": "ID-H2382-A140",
+   "no": 140,
+   "noLabel": {
+    "id": "Pasal 140"
+   },
+   "chapter": {
+    "id": "BAB X / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 140\n(1)    Pialang Berjangka dilarang membuka rekening dan/atau\nmenerima amanat Nasabah untu k Perdagangan Berjangka\nbagi pihak sebagai berikut:\na. tidak cakap melakukan perbuatan hukum;\nb. yang telah dinyatakan pailit oleh p engadilan dalam\njangka waktu 5 (lima) tahun terakhir;\nc. yang telah mencapai batas posisi tidak diperkenankan\nmelakukan penambahan transaksi atau membuka\nrekening pada Pialang Berjangka lainnya;\nd. pejabat atau pegawai Bappebti, Bursa Berjangka, atau\nLembaga Kliring Berjangka dan/atau pihak lainnya\nyang ditetapkan dengan keputusan Kepala Bappebti;\ne. bendaharawan lembaga yang melayani kepentingan\numum, kecuali yang ber sangkutan mendapat kuasa\ndari lembaga tersebut;\nf.  yang memiliki kondisi keuangan kurang dari yang\ndipersyaratkan oleh Kepala Bappebti; atau\ng.  yang telah dinyatakan melanggar peraturan perundang-\nundangan di bidang Perdagangan Berjangka\nberdasarkan putus an pengadilan atau arbitrase atau\nberdasarkan keputusan Kepala Bappebti; atau\nh. yang lal ai memenuhi kewajiban membayar M argin\ndalam jangka waktu 1 (satu) tahun.\n(2)    Pialang Berjangka wajib:\na. menolak amanat baru dari Nasabah yang telah\nmembuka rekening Perda gangan Berjangka yang\ntermasuk dalam kategori sebagaimana dimaksud pada\nayat (1), kecuali hanya untuk melikuidasi posisi\nterbukanya;\nb. menutup rekening Nasabah yang termasuk dalam\nkategori sebagaimana dimaksud pada ayat (1), setelah\nsemua kewajibannya diselesaikan; dan\nc. memberitahukan ...\n\nc. memberitahukan kepada Bursa Berjangka mengenai\npenutupan rekening sebagaimana dimaksud dalam\nhuruf b agar segera dapat diinformasikan kepada\nAnggota Bursa Berjangka lainnya."
+   }
+  },
+  {
+   "id": "ID-H2382-A141",
+   "no": 141,
+   "noLabel": {
+    "id": "Pasal 141"
+   },
+   "chapter": {
+    "id": "BAB X / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 141\n(1)    Pialang Berjangka dilarang membuka atau memiliki\nrekening pada Pialang Berjangka lainnya.\n(2)    Pegawai Pialang Berjangka dan istri atau suami yang ingin\nikut serta dala m Perdagangan Berjangka  hanya boleh\nmembuka rekening atas nama masing -masing pada\nPialang Berjangka yang bersangkutan."
+   }
+  },
+  {
+   "id": "ID-H2382-A142",
+   "no": 142,
+   "noLabel": {
+    "id": "Pasal 142"
+   },
+   "chapter": {
+    "id": "BAB X / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 142\n(1)    Sebelum memb uka rekening Nasabah untuk transaksi\nKontrak Berjangka, Kontrak Derivatif Syariah, dan/atau\nKontrak Derivatif lainnya, Pialang Berjangka wajib:\na. memberitahukan dan menjelaskan tentang keterangan\nperusahaan yang dimuat dalam Dokumen Keterangan\nPerusahaan, ri siko yang dihadapi dalam  Perdagangan\nBerjangka yang dimuat dalam Dokumen\nPemberitahuan Adanya Risiko, dan isi Perjanjian\nPemberi Amanat yang isi dan bentuknya ditetapkan\ndengan Peraturan Kepala Bappebti.\nb. memberikan informasi yang jelas dan tidak\nmenyesatkan tentang prosedu r Perdagangan\nBerjangka;\nc. menjelaskan isi Kontrak Berjangka, Kontrak Derivatif\nSyariah, dan/atau Kontrak Derivatif lainnya yang akan\nditransaksikan oleh Nasabah;\nd. menerima dokumen sebagaimana dimaksud dalam\nhuruf a, yang telah ditandatangani  dan diberi tanggal\noleh Nasabah sebagai tanda bukti telah mengerti dan\nmenyetujui isi dokumen dan prosedur transaksi\nKontrak Berjangka, Kontrak Derivatif Syariah,\ndan/atau Kontrak Derivatif lainnya;\ne. segera memberitahukan kepada seluruh Nasabahnya\napabila ada perubahan dalam peraturan yang berlaku;\ndan\nf. meneliti ...\n\nf. meneliti semua informasi yang diberikan oleh Nasabah\ndalam permohonan pembukaan rekening.\n(2) Dalam hal penerimaan Nasabah dilakukan secara online,\nPialang Berjangka dikecualikan dari kewajiban\nsebagaimana dimaksud pada ayat (1) huruf a, huruf c, dan\nhuruf d."
+   }
+  },
+  {
+   "id": "ID-H2382-A143",
+   "no": 143,
+   "noLabel": {
+    "id": "Pasal 143"
+   },
+   "chapter": {
+    "id": "BAB X / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 143\n(1)    Pialang Berjangka dilarang menerima amanat Nasabah,\napabila belum menerima sejumlah M argin yang cukup\nuntuk melaksanakan transaksi Kontrak Berjangka\ntertentu dan/atau Kontrak Derivatif lainnya yang tertentu,\nkecuali amanat untuk likuidasi.\n(2)    Apabila jumlah M argin memerlukan penambahan, maka\nPialang Berjangka wajib memberitahukan dan\nmemindahkan kepada Nasabah untuk menambah M argin\ndalam jangka waktu tertentu sesuai dengan perjanjian.\n(3)    Apabila keadaan keuangan Nasabah sebagaimana\ndimaksud dalam Pasal 139  ayat (1) huruf c tidak cukup\nuntuk memenuhi kewajibannya dalam transaksi Kontrak\nBerjangka, Kontrak Derivatif Syariah, dan/atau Kontrak\nDerivatif lainnya, Pialang Berjangka wajib menolak amanat\nNasabah yang bersangkutan.\n(4)    Apabila kewajiban tambahan M argin tidak dipenuhi,\nPialang Berjangka berhak melikuidasi posisi Kontrak\nBerjangka, Kontrak Derivatif Syariah dan/atau Kontrak\nDerivatif lainnya Nasabah  yang bersangkutan, tanpa\npemberitahuan terlebih dahulu."
+   }
+  },
+  {
+   "id": "ID-H2382-A144",
+   "no": 144,
+   "noLabel": {
+    "id": "Pasal 144"
+   },
+   "chapter": {
+    "id": "BAB X / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 144\n(1)    Setiap kali menerima amanat Nasabah untuk melakukan\ntransaksi atas beban rekening Nasabah yang\nbersangkutan, Pialang Berjangka wajib mencatat dalam\nsistem pencatatan elektronik.\n(2)    Apabila amanat Nasabah sebagaimana dimaksud pada\nayat (1) disampaikan melalui telepon maka perintah dan\npembicaraan tersebut wajib direkam.\n\n(3) Pialang ...\n\n(3)    Pialang Berjangka wajib mengkonfirmasi kepada Nasabah\ntentang transaksi yang telah dilaksanakan dalam hal\npenyampaian transaksi dilakukan secara  tidak langsung\noleh Nasabah.\n(4)    Apabila transaksi telah selesai dilaksanakan, Pialang\nBerjangka segera memberitahukan kepada Nasabah yang\nbersangkutan paling lambat 2 (dua) hari kerja berikutnya.\n(5)    Pialang Berjangka wajib menyampaikan kepada Kepala\nBappebti mengenai formula perhitungan biaya transaksi\natau jasa yang harus dibayar oleh Nasabah untuk\nreferensi."
+   }
+  },
+  {
+   "id": "ID-H2382-A145",
+   "no": 145,
+   "noLabel": {
+    "id": "Pasal 145"
+   },
+   "chapter": {
+    "id": "BAB X / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 145\n(1)    Pialang Berjangka wajib menempatkan dana Nasabah pada\nrekening terpisah di b ank yang telah disetujui  oleh Kepala\nBappebti dan membuat pembukuan sesuai dengan sistem\nakuntansi yang berlaku umum, untuk memudahkan\nmengetahui jumlah dana milik masing-masing Nasabah.\n(2)    Apabila Nasabah tidak melaksanakan transaksi dalam\njangka waktu 1 (satu) tahun, maka rekening Nasabah yang\nbersangkutan harus ditutup dan nomor rekening tersebut\ntidak boleh dipergunakan lagi.\n(3)    Dalam hal rekening Nasabah ditutup sebagaimana\ndimaksud pada ayat (2), Pialang Berjangka berhak untuk\nmengambil dana yang masih ada dalam rekening tersebut\nsebagai pembayaran biaya adm inistrasi, setelah dilakukan\nupaya pemanggilan kepada Nasabah."
+   }
+  },
+  {
+   "id": "ID-H2382-A146",
+   "no": 146,
+   "noLabel": {
+    "id": "Pasal 146"
+   },
+   "chapter": {
+    "id": "BAB X / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 146\nDalam pelaksanaan transaksi Nasabah, Pialang Berjangka\ndilarang melakukan hal-hal sebagai berikut:\na. menyembunyikan atau mengubah informasi tentan g\nPerdagangan Berjangka;\nb. menyarankan untuk membeli atau menjual jenis Kontrak\nBerjangka, Kontrak Derivatif Syariah, dan/atau Kontrak\nDerivatif lainnya tertentu atau memberikan penilaian\nharga akan naik atau turun tanpa didasarkan perhitungan\nyang benar dengan maksud agar Nasabah melakukan\ntransaksi;\nc. membocorkan ...\n\nc. membocorkan rahasia tentang amanat Nasabah atau\nrahasia bisnis lainnya yang diperoleh dalam pelaksanaan\ntransaksi;\nd. menyalahgunakan dana Nasabahnya;\ne. memberikan jawaban yang tidak benar atas pertanyaan\nNasabah, sehingga merugikan kepentingan Nasabah;\nf. membuat, menyimpan, melaporkan, dan mempublikasikan\nsecara me lawan hukum tentang kegiatannya  atau\nmembuat pernyataan tidak benar dalam rekening, buku\nlaporan keuangan, dan dokumen lainnya yang\ndipersyaratkan dalam peraturan perundang-undangan;\ng. lalai menyampaikan berbagai laporan yang dipersyaratkan\nperaturan perundang-undangan;\nh. memberi pinjaman atau meminjam uang dari Nasabah\natau bertindak sebagai perantara bagi Nasabahnya untuk\nmeminjamkan atau meminjam uang dari pihak lain;\ni. melakukan kesa lahan pencatatan mengenai pelaksanaan\ntransaksi;\nj. melaksanakan transaksi melebihi jumlah batas  maksimal\nyang telah ditetapkan;\nk. melaksanakan transaksi untuk Nasabahnya tanpa\nperintah Nasabah yang bersangkutan;\nl. tidak menyalurkan amanat Nasabah ke Bursa Berjan gka\nsesuai dengan perintah Nasabah;\nm. tidak melaporkan transaksi Nasabah ke Bursa Berjangka\ndan tidak mendaftarkan ke Lembaga Kliring Berjangka;\nn. menerima kuasa dari Nasabah untuk melakukan transaksi\natas nama Nasabah yang bersangkutan, kecuali dalam\nkeadaan tertentu yang ditetapkan oleh Kepala Bappebti;\natau\no. melakukan pelanggaran terhadap ketentuan lainnya yang\ndiatur dalam peraturan perundang-undangan."
+   }
+  },
+  {
+   "id": "ID-H2382-A147",
+   "no": 147,
+   "noLabel": {
+    "id": "Pasal 147"
+   },
+   "chapter": {
+    "id": "BAB X / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 147\nKetentuan lebih lanjut mengenai pedoman perilaku Pialang\nBerjangka diatur dengan Peraturan Kepala Bappebti.\n\nBagian ...\n\nBagian Kedua\nPedoman Perilaku Penasihat Berjangka"
+   }
+  },
+  {
+   "id": "ID-H2382-A148",
+   "no": 148,
+   "noLabel": {
+    "id": "Pasal 148"
+   },
+   "chapter": {
+    "id": "BAB X / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 148\n(1)    Penasihat Berjangka dilarang menghimpun atau menerima\natas namanya, da na atau surat berharga sebagai M argin\nuntuk melakukan transaksi Kontrak Berjangka, Kontrak\nDerivatif Syariah, dan/atau Kontrak Derivatif lainnya dari\nkliennya.\n(2)    Sebelum membuat perjanjian pemberian jasa, Penasihat\nBerjangka wajib memberitahu dan menjelaskan kepada\ncalon klien informasi mengenai:\na. keterangan perusahaan berupa keahlian di bidang\nanalisis Perdagangan Berjangka , program kegiatan,\ndan pengalaman usahanya sebagaimana tercantum\ndalam Dokumen Keterangan Perusahaan;\nb. risiko yang dihadapi dala m Perdagangan Berjangka\nsebagaimana tercantum dalam Dokumen\nPemberitahuan Adanya Risiko.\n(3)    Bentuk dan isi dokumen sebagaimana dimaksud pada ayat\n(2) ditetapkan dengan Peraturan Kepala Bappebti.\n(4)    Dokumen Keterangan Perusahaan mengenai usaha\nPenasihat Berjangka sebagaimana dimaksud pada ayat (2)\nhuruf a harus benar dan tidak menyesatkan  serta hanya\nberlaku u ntuk jangka waktu 6 (enam) bulan dan\nselanjutnya wajib diperbaharui.\n(5)    Penasihat Berjangka harus menerima Dokumen\nKeterangan Perusahaan dan Dokumen Pemberitahuan\nAdanya Risiko yang telah ditandatangani dan diberi\ntanggal oleh klien sebagai tanda bukti tel ah mengerti dan\nmenyetujui isi dokumen.\n(6)    Penasihat Berjangka dilarang menerima kuasa untuk\nmelakukan transaksi atas nama kliennya, kecuali dalam\nkeadaan tertentu yang ditetapkan oleh Kepala Bappebti.\n\n\n\nBagian ...\n\nBagian Ketiga\nPedoman Perilaku Pengelola Sentra Dana Berjangka"
+   }
+  },
+  {
+   "id": "ID-H2382-A149",
+   "no": 149,
+   "noLabel": {
+    "id": "Pasal 149"
+   },
+   "chapter": {
+    "id": "BAB X / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 149\n(1)    Sebelum menerima seseorang sebagai peserta Sentra Dana\nBerjangka, Pengelola Sentra Dana Berjangka wajib\nmemberitahu dan menjelaskan kepada calon peserta,\ninformasi mengenai:\na. keterangan perusahaan berupa keahlian di bida ng\npengelolaan Sentra Dana Berjangka, keuangan,\nprogram kegiatan, dan pengalaman usaha\nsebagaimana tercantum dalam Dokumen Keterangan\nPerusahaan; dan\nb. risiko yang dihadapi dala m Perdagangan Berjangka\nsebagaimana tercantum dalam Dokumen\nPemberitahuan Adanya Risiko.\n(2)    Bentuk dan isi dokumen sebagaimana dimaksud pada ayat\n(1) ditetapkan dengan Peraturan Kepala Bappebti.\n(3)    Dokumen Keterangan Perusahaan mengenai Pengelola\nSentra Dana Berjangka sebagaimana dimaksud pada ayat\n(1) huruf a, harus benar dan tidak me nyesatkan serta\nhanya berlaku untuk jangka waktu 6 (enam) bulan dan\nselanjutnya wajib diperbaharui.\n(4)    Pengelola Sentra Dana Berjangka harus menerima\nDokumen Keterangan Perusahaan dan Dokumen\nPemberitahuan Adanya Risiko yang telah ditandatangani\ndan diberi  tanggal oleh peserta Sentra Dana Berjangka\nsebagai tanda bukti telah mengerti dan menyetujui isi\ndokumen.\n\nBagian Keempat\nPedoman Perilaku Dalam Sistem Perdagangan Alternatif"
+   }
+  },
+  {
+   "id": "ID-H2382-A150",
+   "no": 150,
+   "noLabel": {
+    "id": "Pasal 150"
+   },
+   "chapter": {
+    "id": "BAB X / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 150\n(1)    Sistem Perdagangan Alternatif hanya dapat dilakukan oleh\nPenyelenggara Sistem Perdagangan Alternatif dan Peserta\nSistem Perdagangan Alternatif yang satu dan lainnya tidak\nberafiliasi serta telah memperoleh persetujuan dari Kepala\nBappebti.\n(2) Sistem ...\n\n(2)    Sistem Perdagangan Alternatif sebagaimana dimaksud\npada ayat (1) wajib menggun akan sistem perdagangan\nelektronik yang memenuhi persyaratan.\n(3)    Ketentuan mengenai persyaratan untuk memperoleh\npersetujuan, mekanisme transaksi, penghentian kegiatan,\ndan persyaratan sistem perdagangan elektronik\nsebagaimana dimaksud pada ayat (1) dan ay at (2) diatur\ndengan Peraturan Kepala Bappebti."
+   }
+  },
+  {
+   "id": "ID-H2382-A151",
+   "no": 151,
+   "noLabel": {
+    "id": "Pasal 151"
+   },
+   "chapter": {
+    "id": "BAB X / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 151\nPenyelenggara Sistem Perdagangan Alternatif dan Peserta\nSistem Perdagangan Alternatif wajib:\na. melaporkan setiap transaksi Kontrak Derivatif lainnya ke\nBursa Berjangka dalam rangka pengawasan pasar; dan\nb. mendaftarkan setiap transaksi Kontrak Derivatif lainnya\nke Lembaga Kliring Berjangka untuk dijamin\npenyelesaiannya."
+   }
+  },
+  {
+   "id": "ID-H2382-A152",
+   "no": 152,
+   "noLabel": {
+    "id": "Pasal 152"
+   },
+   "chapter": {
+    "id": "BAB X / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 152\nDalam hal Penyelenggara Sistem Perdagangan Alternatif\ndan/atau Peserta Sistem Perdagangan Alternatif tidak\nmelaporkan setiap transaksi Kontrak Derivatif lainnya ke Bursa\nBerjangka dan tidak mendaftarkan setiap transaksi Kontrak\nDerivatif lainnya ke Lembaga Kliring Berjangka , maka\nPenyelenggara Sistem Perdagangan Alternatif dan/atau Peserta\nSistem Perdagangan Alternatif wajib men gembalikan dana\nNasabah yang terkait dengan transaksi yang tidak dilaporkan\ndan menanggung seluruh kerugian yang timbul akibat dari\ntransaksi yang tidak didaftarkan.\n\nBAB XI\nPELAKSANAAN KEGIATAN PROMOSI ATAU IKLAN, PELATIHAN, DAN\nPERTEMUAN DI BIDANG PERDAGANGAN BERJANGKA"
+   }
+  },
+  {
+   "id": "ID-H2382-A153",
+   "no": 153,
+   "noLabel": {
+    "id": "Pasal 153"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 153\n(1)    Setiap Pihak yang memperoleh izin usaha, izin,\npersetujuan, atau sertifikat pendaftaran dari Kepala\nBappebti berhak melakukan kegiatan promosi atau iklan,\npelatihan, dan pertemuan.\n(2) Sebelum ...\n\n(2)    Sebelum disampaikan kepada masyarakat, m ateri atau\nbahan yang berkaitan dengan kegiatan sebagaimana\ndimaksud pada ayat (1) wajib disampaikan kepada\nBappebti untuk memperoleh persetujuan."
+   }
+  },
+  {
+   "id": "ID-H2382-A154",
+   "no": 154,
+   "noLabel": {
+    "id": "Pasal 154"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 154\nSetiap Pihak yang memperoleh izin usaha, izin, persetujuan,\natau sertifikat pendaftaran dari Kepala Bappebti dalam\nmelakukan kegiatan promosi atau iklan, pelatihan, dan\npertemuan dilarang untuk:\na. menggunakan cara yang tidak jujur atau menipu, yang\ntidak sesuai dengan fakta, atau secara sengaja\nmenghilangkan fakta sehingga menyesatkan masyarakat;\nb. menggunakan cara pemaksaan;\nc. membuat pernyataan bahwa Perdagangan B erjangka\nmerupakan sarana investasi yang tepat bagi semua orang\nantara lain dengan hanya mengemukakan kemungkinan\ndiperolehnya keuntungan tanpa mengemukakan\nkemungkinan terjadinya kerugian; dan/atau\nd. membuat pernyataan yang dapat memperdaya masyarakat\nantara lain dengan menyembunyikan atau menghilangkan\nmateri atau fakta, atau hanya menyampaikan laporan\nkeuntungan perdagangan yang diperoleh dimasa lampau\ntanpa menjelaskan bahwa hal itu bukan cerminan\nkeberhasilan dimasa datang, atau menyampaikan data\nkinerja masa lalu dan laporan keuangan termasuk tingkat\npengambilan investasi yang tidak berdasarkan\nperhitungan yang akurat sesuai peraturan yang berlaku."
+   }
+  },
+  {
+   "id": "ID-H2382-A155",
+   "no": 155,
+   "noLabel": {
+    "id": "Pasal 155"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 155\nKetentuan lebih lanjut mengenai persy aratan dan tata cara\npelaksanaan kegiatan promosi atau iklan, pelatihan, dan\npertemuan diatur dengan Peraturan Kepala Bappebti.\n\n\n\n\nBAB ...\n\nBAB XII\nSANKSI ADMINISTRATIF"
+   }
+  },
+  {
+   "id": "ID-H2382-A156",
+   "no": 156,
+   "noLabel": {
+    "id": "Pasal 156"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 156\n(1) Setiap Pihak yang memperoleh izin usaha, izin,\npersetujuan, atau sertifikat pendaftaran dari Kepala\nBappebti yang melakukan pelanggaran terhadap\nketentuan peraturan perundang -undangan di bidang\nPerdagangan Berjangka dikenai sanksi administratif.\n(2) Sanksi administratif sebagaimana dimaksud pada ayat (1)\nberupa:\na.  peringatan tertulis;\nb.  denda administratif, yaitu kewajiban membayar\n sejumlah uang tertentu;\nc.  pembatasan kegiatan usaha;\nd.  pembekuan kegiatan usaha;\ne.  pencabutan izin usaha;\nf.  pencabutan izin;\ng.  pembatalan persetujuan; dan/atau\nh.  pembatalan sertifikat pendaftaran."
+   }
+  },
+  {
+   "id": "ID-H2382-A157",
+   "no": 157,
+   "noLabel": {
+    "id": "Pasal 157"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 157\n(1) Sanksi sebagaimana dimaksud dalam Pasal 156  ayat (2)\nhuruf b, huruf c, huruf d, huruf e, huruf f, huruf g, atau\nhuruf h dapat dikenakan dengan atau tanpa didahului\npengenaan sanksi peringatan tertulis seba gaimana\ndimaksud dalam Pasal 156 ayat (2) huruf a.\n(2) Sanksi denda sebagaimana dimaksud dalam Pasa l 156\nayat (2)  huruf b dapat dikenakan secara tersendiri atau\nbersama-sama dengan pengenaan sanksi seba gaimana\ndimaksud dalam Pasal 156 ayat (2) huruf c, huruf d, huruf\ne, huruf f, huruf g, atau huruf h.\n\n\n\nPasal ..."
+   }
+  },
+  {
+   "id": "ID-H2382-A158",
+   "no": 158,
+   "noLabel": {
+    "id": "Pasal 158"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 158\n(1)    Setiap Pihak yang lalai membuat, menyimpan, dan\nmemelihara catatan sebagaimana dimaksud dalam  Pasal\n122 ayat (1), Pasal 123 ayat (1), Pasal  125 ayat (1), Pasal\n126, Pasal  127, Pasal 128  ayat (1) , Pasal 129 ayat (1),\nPasal 133 ayat (1), Pasal 13 4 ayat (1), dan Pasal 135  ayat\n(1) dikenai sanksi administratif berupa  peringatan tertulis\noleh Kepala Bappebti.\n(2)    Peringatan tertulis sebagaimana dimaksud pada ayat (1)\ndiberikan dengan jangka waktu paling lama 1 (satu) bulan\nsejak dikeluarkan peringatan tertulis.\n(3)    Peringatan tertulis sebagaimana dimaksud pada ayat (1),\ndiberikan paling banyak 3 (tiga) kali."
+   }
+  },
+  {
+   "id": "ID-H2382-A159",
+   "no": 159,
+   "noLabel": {
+    "id": "Pasal 159"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 159\n(1)    Apabila Pihak sebagaimana dimaksud dalam Pasal 158\ntidak mematuhi peringatan tertulis terakhir, Kepala\nBappebti dapat menunjuk konsul tan untuk melakukan\npenertiban pembukuan perusahaan.\n(2)    Biaya yang timbul atas penugasan seb agaimana dimaksud\npada ayat (1)  menjadi beban perusahaan yang\nbersangkutan."
+   }
+  },
+  {
+   "id": "ID-H2382-A160",
+   "no": 160,
+   "noLabel": {
+    "id": "Pasal 160"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 160\nSetiap Pihak yang terlambat menyampaikan laporan atau\nkonfirmasi sebagaimana dimaksud dalam Pasal 122  ayat (3 ),\nPasal 123 ayat (3), Pasal 125 ayat (3), Pasal 129 ayat (2) dan\nayat (3), Pasal 130 ayat (2), ayat (3), dan ayat (4), Pasal 131 ayat\n(2), Pasal 132, dan Pasal 133 ayat (2) dikenai  sanksi denda\nadministratif sebagai berikut:\na.    Bursa Berjangka atau Lembaga Kliring Berjangka dikena i\nsanksi denda administratif sebesar Rp1.000.000,00 (satu\njuta rupiah) atas setiap hari kerja keterlambatan\npenyampaian laporan dimaksud dengan ketentuan bahwa\njumlah keseluruhan denda administratif  paling banyak\nsebesar Rp1.000.000.000,00 (satu miliar rupiah);\n\nb. Pialang ...\n\nb.    Pialang Berjangka, Penasihat Berjangka, Penyelenggara\nSistem Perdagangan Alternatif, dan Pengelola Sentra Dana\nBerjangka dikena i sanksi denda administratif paling\nbanyak Rp200.000,00 (dua ratus ribu rupiah) setiap hari\nkerja keterlambatan penyampaian laporan dimaksud\ndengan ketentuan bahwa jumlah keseluruhan denda\nadministratif paling banyak Rp 200.000.000,00 (dua ratus\njuta rupiah)."
+   }
+  },
+  {
+   "id": "ID-H2382-A161",
+   "no": 161,
+   "noLabel": {
+    "id": "Pasal 161"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 161\nBursa Berjangka yang lalai melakuka n publikasi sebagaimana\ndimaksud dalam Pasal 124 ayat (1) dikenai denda administratif\npaling banyak Rp200.000.000,00 (dua ratus juta rupiah)."
+   }
+  },
+  {
+   "id": "ID-H2382-A162",
+   "no": 162,
+   "noLabel": {
+    "id": "Pasal 162"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 162\nSetiap Pihak yang tidak mencapai persyaratan modal bersih\ndisesuaikan atau telah mencapai batas posisi wajib lapor\nsebagaimana dimaksud dalam Pasal 132 ayat (1) huruf g dan\nhuruf h dan Pasal 136  ayat (1) dikenai sanksi administratif\nberupa pembatasan kegiatan usaha."
+   }
+  },
+  {
+   "id": "ID-H2382-A163",
+   "no": 163,
+   "noLabel": {
+    "id": "Pasal 163"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 163\nKegiatan usaha Bursa Berjangka, Lembaga Kliring Berjangka,\nPialang Berjangka, Penasihat Berjangka, Pengelola Sentra Dana\nBerjangka dapat dibekukan dalam jangka waktu tertentu yang\nditetapkan oleh Kepala Bappebti, apabila yang bersangkutan:\na.    tidak mengindahkan peringatan tertulis yang telah\ndiberikan oleh Bappebti sebanyak 3 (tiga) kali;\nb.    tidak dapat mempertahankan integritas keuangan dan\nreputasi bisnis yang dipersyaratkan;\nc.    perusahaan diajukan ke pengadilan karena dituduh\nmelanggar peraturan perundang -undangan di bidang\nPerdagangan Berjangka; atau\nd.    sesuai hasil pemeriksaan Bap pebti, bertindak menyalahi\natau melanggar larangan yang ditetapkan mengenai\nperizinan atau ketentuan lain yang diatur dalam peraturan\nperundang-undangan di bidang Perdagangan Berjangka.\n\nPasal ..."
+   }
+  },
+  {
+   "id": "ID-H2382-A164",
+   "no": 164,
+   "noLabel": {
+    "id": "Pasal 164"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 164\nIzin usaha dan izin  yang dimiliki oleh setiap Pih ak dapat\ndicabut, apabila:\na. Pihak dimaksu d dijatuhi pidana berdasarkan putusan\npengadilan yang telah mempunyai kekuatan hukum yang\ntetap;\nb. Pihak dimaksud bertindak menyalahi atau melanggar\nlarangan yang ditetapkan mengenai perizinan atau\nketentuan lain yang diatur dalam peraturan perundang -\nundangan di bidang Perdagangan Berjangka;\nc. Bursa Berjangka atau Lembaga Kliring Berjangka tidak\nmelaksanakan kewajiban seb agaimana dimaksud dalam\nPasal 17 atau Pasal 27 Undang -Undang Nomor 32 Tahun\n1997 tentang Perdagangan B erjangka Komoditi\nsebagaimana telah diubah dengan Undang -Undang Nomor\n10 Tahun 2011  tentang Perubahan atas Undang -Undang\nNomor 32 Tahun 1997 tentang Perdagangan  Berjangka\nKomoditi;\nd. Bappebti memiliki alasan yang kuat bahwa Wakil Pialang\nBerjangka, Wakil Pen asihat Berjangka, atau Wakil\nPengelola Sentra Dana Berjangka yang bersangkutan tidak\nmelaksanakan kegiatannya secara jujur dan terbuka; atau\ne. Pihak dimaksud memberikan informasi atau keterangan\nyang tidak benar dalam permohonan perizinan atau\nlaporan yang d isampaikan kepada Bursa Berjangka,\nLembaga Kliring Berjangka, atau Bappebti."
+   }
+  },
+  {
+   "id": "ID-H2382-A165",
+   "no": 165,
+   "noLabel": {
+    "id": "Pasal 165"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 165\nPersetujuan dan sertifikat pendaftaran yang dimiliki oleh setiap\nPihak dapat dibatalkan, apabila:\na. Pihak dimaksu d dijatuhi pidana berdasarkan putusan\npengadilan yang tel ah mempunyai kekuatan hukum yang\ntetap;\nb. Pihak dimaksud bertindak menyalahi atau melanggar\nlarangan yang ditetapkan mengenai perizinan atau\nketentuan lain yang diatur dalam peraturan perundang -\nundangan di bidang Perdagangan Berjangka;\n\nc. Pihak ...\n\nc. Pihak dimak sud memberikan informasi atau keterangan\nyang tidak benar dalam permohonan perizinan atau\nlaporan yang disampaikan kepada Bursa Berjangka,\nLembaga Kliring Berjangka, atau Bappebti."
+   }
+  },
+  {
+   "id": "ID-H2382-A166",
+   "no": 166,
+   "noLabel": {
+    "id": "Pasal 166"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 166\nIzin Wakil Pialang Berjangka, Wakil Penasihat Berjangka, dan\nWakil Pengelola Sentra Dana Berjangka berakhir  dengan\nsendirinya apabila yang bersangkutan meninggal dunia."
+   }
+  },
+  {
+   "id": "ID-H2382-A167",
+   "no": 167,
+   "noLabel": {
+    "id": "Pasal 167"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 167\nKegiatan Wakil Pialang Berjangka, Wakil Penasihat Berjangka,\ndan Wakil Pengelola Sentra Dana Berjangka dapat dibekukan,\napabila:\na.    kegiatan usaha Pialang Berjangka, Penasihat Berjangka,\natau Pengelola Sentra Dana Berjangk a yang menunjuk\nmereka sebagai wakil dibekukan;\nb.    Wakil Pialang Berjangka, Wakil Penasihat Berjangka atau\nWakil Pengelola Sentra Dana Berjangka diajukan ke\npengadilan karen a dituduh melanggar peraturan\nperundang-undangan di bidang  Perdagangan Berjangka ;\natau\nc.    sesuai hasil pemeriksaan Bappebti, Wakil Pialang\nBerjangka, Wakil Penasihat Berjangka , atau Wakil\nPengelola Sentra Dana Berjangka  yang bersangkutan\nterbukti melakukan  pelanggaran ketentuan di  bidang\nPerdagangan Berjangka."
+   }
+  },
+  {
+   "id": "ID-H2382-A168",
+   "no": 168,
+   "noLabel": {
+    "id": "Pasal 168"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 168\nIzin Wakil Pialang Berjangka, Wakil Penasihat Berjangka, dan\nWakil Pengelola Sentra Dana Berjangka dapat dicabut, apabila:\na.    izin usaha Pialang Berjangka, Penasihat Berjangka, atau\nPengelola Sentra Dana Berjangk a yang menunjuk mereka\nsebagai wakil dicabut;\nb.    Wakil Pialang Berjangka, Wakil Penasihat Berjangka , atau\nWakil Pengelola Sentra Dana Berjangka mengundurkan\ndiri atau tidak lagi bekerja di perusahaan Pialang\nBerjangka;\nc. tidak ...\n\nc.    tidak mampu melaksanakan fungsinya selama 6 (enam)\nbulan berturut -turut berdasarkan usulan atau\npermohonan perusahaan Pialang Berjangka, Penasihat\nBerjangka, atau Pengelola Sentra Dana Berjangka yang\nmenunjuk mereka sebagai wakil;\nd.    Wakil Pialang Berjangk a, Wakil Penasihat Berjangka , atau\nWakil Pengelola Sentra Dana Berjangka dimaksud dijatuhi\npidana berdasarkan putusan pengadilan yang telah\nmempunyai kekuatan hukum yang tetap;\ne.    Wakil Pialang Berjangka, Wakil Penasihat Berjangka atau\nWakil Pengelola Sent ra Dana Berjangka dimaksud\nmelakukan pelanggaran atas peraturan perundang -\nundangan di bidang Perdagangan Berjangka; dan/atau\nf.    Wakil Pialang Berjangka, Wakil Penasihat Berjangka , atau\nWakil Pengelola Sentra Dana Berjangka dimaksud\nmemberikan informasi ata u keterangan yang tidak benar\ndalam permohonan perizinan atau laporan yang\ndisampaikan kepada Bursa Berjangka, Lembaga Kliring\nBerjangka, atau Bappebti."
+   }
+  },
+  {
+   "id": "ID-H2382-A169",
+   "no": 169,
+   "noLabel": {
+    "id": "Pasal 169"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 169\nBursa Berjangka yang tidak m enyimpan Dana Kompensasi\ndalam rekening t erpisah pada bank yang disetujui Kepala\nBappebti dikenai denda administratif paling banyak\nRp500.000.000,00 (lima ratus juta rupiah)."
+   }
+  },
+  {
+   "id": "ID-H2382-A170",
+   "no": 170,
+   "noLabel": {
+    "id": "Pasal 170"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 170\nSelain sanksi administratif sebagaimana dimaksud dalam Pasal\n158, s anksi denda administratif dapat dikena i kepada setiap\nPihak sebagaimana dimaksud dalam Pasa l 156 ayat (1) paling\nbanyak Rp 50.000.000,00 (lima puluh juta rupiah) bagi orang\nperseorangan dan paling banyak Rp 100.000.000,00 (seratus\njuta rupiah) bagi Pihak yang bukan orang perseorangan, yang\nmelanggar peraturan perundang -undangan di bidan g\nPerdagangan Berjangka.\n\n\n\nPasal ..."
+   }
+  },
+  {
+   "id": "ID-H2382-A171",
+   "no": 171,
+   "noLabel": {
+    "id": "Pasal 171"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 171\nPengenaan sanksi administratif sebagaimana dimaksud dalam\nPasal 156 ayat (1) dapat  diumumkan dalam media massa oleh\nBappebti."
+   }
+  },
+  {
+   "id": "ID-H2382-A172",
+   "no": 172,
+   "noLabel": {
+    "id": "Pasal 172"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 172\nKetentuan lebih lanjut yang diperlukan mengenai tata cara\npengenaan sanksi administratif diatur dengan  Peraturan\nKepala Bappebti.\n\nBAB XIII\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H2382-A173",
+   "no": 173,
+   "noLabel": {
+    "id": "Pasal 173"
+   },
+   "chapter": {
+    "id": "BAB XIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 173\nPada saat Peraturan Pemerintah ini mulai berlaku, ketentuan\nmengenai modal disetor Bursa Berjangka dan m odal disetor\nLembaga Kliring Berjangka wajib disesuaikan dengan\nketentuan dalam Peraturan Pemerintah ini paling lambat 1\n(satu) tahun sejak Peraturan Pemerintah ini diundangkan.\n\nBAB XIV\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H2382-A174",
+   "no": 174,
+   "noLabel": {
+    "id": "Pasal 174"
+   },
+   "chapter": {
+    "id": "BAB XIV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 174\nPada saat Peraturan Pemerintah ini mulai berlaku, Peraturan\nPemerintah Nomor 9 Tahun 1999 tentang Penyelenggaraan\nPerdagangan Berjangka Komoditi  (Lembaran Negara Republik\nIndonesia Tahun 1999 Nomor 16, Tambahan Lembaran Neg ara\nRepublik Indonesia Nomor 3805 ) dicabut dan dinyatakan tidak\nberlaku."
+   }
+  },
+  {
+   "id": "ID-H2382-A175",
+   "no": 175,
+   "noLabel": {
+    "id": "Pasal 175"
+   },
+   "chapter": {
+    "id": "BAB XIV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 175\nPeraturan Pemerintah  ini mul ai berlaku pada tanggal\ndiundangkan.\n\nAgar …\n\nAgar setiap orang mengetahuinya, memerint ahkan\npengundangan Peraturan Pemerintah  ini dengan\npenempatannya dalam Lembaran Negara Republik Indonesia.\n\n\nDitetapkan di Jakarta\npada tanggal 30 Juni 2014\nPRESIDEN REPUBLIK INDONESIA,\n\n                        ttd\n\nDR. H. SUSILO BAMBANG YUDHOYONO\n\nDiundangkan di Jakarta\npada tanggal 1 Juli 2014\nMENTERI HUKUM DAN HAK ASASI MANUSIA\n        REPUBLIK INDONESIA,\n\n                           ttd\n\n    AMIR SYAMSUDIN\n\n\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2014 NOMOR 143\n\n\n\n\n\n\n\n\n\nSALINAN\nPENJELASAN\nATAS\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nNOMOR 49 TAHUN 2014\nTENTANG\nPENYELENGGARAAN PERDAGANGAN BERJANGKA KOMODITI\n\n\nI. UMUM\nDengan telah diundangkannya Undang -Undang Nomor 10 Tahun 2011\ntentang Perubahan  atas Undang -Undang Nomor 32 Tahun 1997 tentang\nPerdagangan B erjangka Komoditi, perlu dilakukan penggantian terhadap\nPeraturan Pemerintah Nomor 9 Tahun 1999 tentang Penyelenggaraan\nPerdagangan Berjangka Komoditi dengan mengubah beberapa ketentuan\nantara lain  permodalan dan pemegang saham Bursa Berjangka dan\nLembaga Kliring Berjangka, pengaturan mengenai Penyelenggara dan\nPeserta Sistem Perdagangan Alternatif, persetujuan pembukaan kantor\ncabang Pialang Berjangka, pelaksanaan kegiatan promosi atau iklan,\npelatihan dan pertemuan di bidang Perdagangan Berjangka, serta\nperubahan pengaturan mengenai sanksi administratif bagi pelanggaran\nterhadap Peraturan Pemerintah ini.\nUntuk mewujudkan terlaksananya kegiatan Perdagangan Berjangka secara\nteratur, wajar, efisien, dan efektif, perlu ditetapkan berbagai persyaratan\ndan tata  cara yang harus dipenuhi oleh setiap Pihak yang melakukan\nkegiatan di bidang Perdagangan Berjangka Komoditi.  Persyaratan dan tata\ncara dimaksud berlaku dalam rangka perizinan Bursa Berjangka, Lembaga\nKliring Berjangka, Pialang Berjangka, Pedagang Berjangk a, Penyelenggara\nSistem Perdagangan Alternatif, Peserta Sistem Perdagangan Alternatif,\nPenasihat Berjangka, Pengelola Sentra Dana Berjangka, Sentra Dana\nBerjangka, Wakil Pialang Berjangka, Wakil Penasihat Berjangka, Wakil\nPengelola Sentra Dana Berjangka, dan bank penyimpanan dana terpisah.\nSelain persyaratan dan tata cara yang perlu dipenuhi dalam rangka\nperizinan dimaksud, maka perlu juga diatur mengenai persyaratan dan tata\ncara penggunaan Dana Kompensasi, penyimpanan dana pada rekening\nterpisah, penyalu ran a manat Nasabah k e Bursa Berjangka luar negeri,\npembukuan dan pelaporan, serta p elaksanaan Perdagangan Berjangka.\nSelanjutnya, dalam rangka penegakan berbagai peraturan di bidang\nPerdagangan Berjangka Komoditi, perlu juga diatur ketentuan tentang\npengenaan sanksi administratif.\n Mengingat ...\n\nMengingat banyak dan berkembangnya bentuk pelanggaran yang terjadi\ndalam kegiatan Perdagangan Berjangka , maka Peraturan Pemerintah ini\nmenyerahkan pengaturan lebih lanjut mengenai tata cara pengenaan\nsanksi administratif kepada B appebti sesuai dengan batas -batas yang\nditetapkan dalam Peraturan Pemerintah ini. Sehubungan dengan hal -hal\ntersebut dan sebagai penjabaran lebih lanjut dari  Undang-Undang Nomor\n32 Tahun 1997 tentang Perdagangan Berjangka  Komoditi sebagaimana\ntelah diubah dengan Undang -Undang Nomor 10 Tahun 2011  tentang\nPerubahan atas Undang -Undang Nomor 32 Tahun 1997  tentang\nPerdagangan Berjangka Komoditi, perlu menetapkan Peraturan Pemerintah\ntentang Penyelenggaraan Perdagangan Berjangka Komoditi.\n\nII. PASAL DEMI PASAL\n\nPasal 1\n Cukup jelas.\n\nPasal 2\n Ayat (1)\nJumlah paling sedikit 11 (sebelas) badan usaha  berbentuk\nperseroan t erbatas yang satu dengan lainnya tidak berafiliasi\nyang aktif dalam transaksi kegiatan Bursa Berjangka  dianggap\ncukup untuk dapat melaksanakan kegiata n Bursa Berjangka\nsecara wajar (fair).\n Ayat (2)\nYang dimaksud dengan “mayoritas”  adalah sebagian besar atau\nmisalnya paling sedikit 6 (enam) dari 11 (sebelas) badan usaha\ntersebut harus merupakan badan usaha berbentuk perseroan\nterbatas yang mela kukan ke giatan usaha di bidang K omoditi\ndan/atau keuangan yang layak diperdagangkan paling singkat 3\n(tiga) tahun , sedangkan selebihnya terbuka bagi badan usaha\nyang berusaha di bidang usaha lainnya.\n Ayat (3)\n  Cukup jelas.\n\nPasal 3\n Cukup jelas.\n\nPasal 4\nAyat (1)\n Huruf a\nCukup jelas.\nHuruf ...\n\nHuruf b\n Cukup jelas.\nHuruf c\n Cukup jelas.\nHuruf d\n Cukup jelas.\nHuruf e\nCukup jelas.\nHuruf f\nRencana usaha 3 (tiga) tahun termasuk susunan\norganisasi, fasilitas komunikasi, dan program latihan yang\nakan diadakan.\nHuruf g\n Cukup jelas.\nHuruf h\n Cukup jelas.\nHuruf i\n Cukup jelas.\nHuruf j\n Cukup jelas.\nHuruf k\n Cukup jelas.\nHuruf l\n Cukup jelas.\nHuruf m\n Cukup jelas.\nHuruf n\n Cukup jelas.\nAyat (2)\nCukup jelas.\n\nPasal 5\n Cukup jelas.\n\nPasal 6\nAyat (1)\nCukup jelas.\n\nAyat ...\n\nAyat (2)\nYang dimaksud dengan “masih aktif” adalah para Pihak yang\nmemperoleh perizinan masih menjalankan kegiatannya sesuai\ndengan fungsinya masing-masing.\n\nPasal 7\n Cukup jelas.\n\nPasal 8\n Cukup jelas.\n\nPasal 9\n Ayat (1)\nCukup jelas.\n Ayat (2)\nPada d asarnya Bursa Berjangka membawa misi khusus yang\nberorientasi membantu atau mendukung masyarakat terutama\ndunia usaha dan petani dalam melaksanakan manajemen risiko\nmelalui kegiatan lindung nilai (hedging). Untuk itu pasar ini harus\ndapat terlaksana secara  transparan dan wajar ( fair) dan\nmasyarakat terlindungi kepentingannya. Oleh karena itu\ndiperlukan adanya 1 (satu) orang tokoh masyarakat yang\nmewakili kepentingan masyarakat duduk dalam keanggotaan\nkomisaris. Orang perseorangan dimaksud antara lain dapat\nberasal dari tokoh pengusaha maupun pemerintah yang memiliki\nintegritas yang baik, terpandang , dan memaham i Perdagangan\nBerjangka.\n Ayat (3)\nCukup jelas.\n Ayat (4)\nCukup jelas.\n Ayat (5)\nCukup jelas.\n Ayat (6)\n  Cukup jelas.\nAyat (7)\nCukup jelas.\nAyat (8)\nCukup jelas.\n\nPasal 10\nCukup jelas.\nPasal ...\n\n\nPasal 11\n Cukup jelas.\n\nPasal 12\n Cukup jelas.\n\nPasal 13\n Ayat (1)\nApabila suatu peristiwa mengakibatkan terhentinya atau\nterganggunya kegiatan transaksi Kontrak Berjangka tertentu atau\nsebagian Kontrak Berjangka , maka penghentian kegiatan Bursa\nBerjangka hanya untuk transaksi Kontrak Berjangka yang\nbersangkutan.\n Ayat (2)\n  Huruf a\nYang dimaksud dengan “kerusakan sarana dan prasarana\nfisik” adalah seperti gangguan listrik, kerusakan sarana\nkomunikasi, tidak berfun gsinya komputer serta peristiwa\nlain yang menghambat pelaksanaan kegiatan transaksi.\n  Huruf b\nDalam hal krisis di bidang ekonomi atau keuangan di\nIndonesia atau negara lain membawa dampak atau\nmenggangu pelaksanaan transaksi Kontrak Berjangka di\nBursa Be rjangka maka terlebih dahulu dilakukan berbagai\nupaya untuk mengurangi dampak negatif dari krisis\ntersebut. Namun, apabila kegiatan transaksi Kontrak\nBerjangka diteruskan akan berakibat sangat merugikan bagi\npara pengelola, pelaku, masyarakat, dan pemerint ah, maka\nkegiatan Bursa Berjangka dapat dihentikan.\n  Huruf c\nDalam hal terjadi keadaan di luar kemampuan manusia\nuntuk mengendalikannya seperti bencana alam, pemogokan,\nkerusuhan, kebakaran, dan perang  yang mengakibatkan\ntidak dapat dilaksanakannya kegia tan Perdagangan\nBerjangka dengan baik maka kegiatan Bursa Berjangka perlu\nsegera dinyatakan dihentikan.\n  Huruf d\nYang dimaksud dengan pelanggaran yang mengakibatkan\nmekanisme pasar tidak b erjalan secara baik antara lain\npersekongkolan dan  manipulasi yan g mengakibatkan\nkerugian yang semakin besar diderita pelaku lain atau\nbahkan masyarakat.\nAyat ...\n\n Ayat (3)\n  Cukup jelas.\n\nPasal 14\n Ayat (1)\n Cukup jelas.\n Ayat (2)\n  Cukup jelas.\n Ayat (3)\nTerhentinya kegiatan transaksi Kontrak Berjangka berarti tidak\nada harga yang dapat digunakan untuk dasar perhitungan dan\nmelikuidasi posisi Kontrak Berjangka yang masih terbuka yang\ndimiliki oleh Nasabah atau pihak lainnya, untuk itu Bursa\nBerjangka perlu menetapkan harga penyelesaian sesuai dengan\nperaturan perundang -undangan di bidan g Perdagangan\nBerjangka.\n\nPasal 15\n  Cukup jelas.\n\nPasal 16\n Cukup jelas.\n\nPasal 17\n Ayat (1)\nYang dimaksud dengan “langkah -langkah penyelesaian atau\nperbaikan” dapat berupa memperbaiki atau merubah persyaratan\nKontrak Berjangka, menambah atau  mengurangi tempat\npenyerahan barang, menetapkan harga penyelesaian tertentu,\nmenetapkan tambahan modal yang lebih besar, yang\ndiperhitungkan dapat memperbaiki keadaan dan/atau\nmelakukan penghematan dan efisiensi.\n Ayat (2)\n  Cukup jelas.\n\nPasal 18\n Cukup jelas.\n\nPasal 19\nDengan ditetapkannya penghentian kegiatan Bursa Berjangka oleh\nKepala Bappebti, kewajiban keuangan dan hukum yang telah ada atau\nyang timbul kemudian sebagai akibat dari pemberhentian tersebut,\ntetap menjadi tanggung jawab penyelenggar a Bursa Berjangka untuk\ndiselesaikan sesuai dengan peraturan perundang-undangan.\nPasal ...\n\n\nPasal 20\n Ayat (1)\n Cukup jelas.\n Ayat (2)\nIzin usaha Bursa Berjangka dicabut setelah Kepala Bappebti\nmeyakini bahwa kegiatan Bursa Berjangka tersebut tidak\nmungkin diaktif kan kembali atau tidak dapat lagi memberikan\nmanfaat bagi perekonomian  dan masyarakat. Oleh karena itu\nsebelum melakukan pencabutan tersebut Kepala Bappebti perlu\nterlebih dahulu mempelajari secara mendalam dan\nmempertimbangkan berbagai kepentingan yang te rkait dengan\npencabutan izin usaha tersebut yaitu masyarakat, Nasabah,\nAnggota Bursa Berjangka yang bersangkutan , dan lembaga lain\nyang terkait.\n Ayat (3)\nCukup jelas.\n\nPasal 21\n Cukup jelas.\n\nPasal 22\n Cukup jelas.\n\nPasal 23\n Cukup jelas.\n\nPasal 24\n Cukup jelas.\n\nPasal 25\n Cukup jelas.\n\nPasal 26\n Cukup jelas.\n\nPasal 27\nBadan usaha Lembaga Kliring Berjangka berbentuk perseroan terbatas\nbertujuan mendukung terciptanya transaksi Kontrak Berjangka,\nKontrak Derivatif Syariah , dan/atau Kontrak Derivatif lain nya yang\nteratur, wajar, efisien, dan efektif.\n\nLembaga ...\n\n\nLembaga Kliring Berjangka merupakan institusi pendukung dari Bursa\nBerjangka dalam menciptakan kelancaran dan kemudahan bagi\nanggotanya untuk melaksanakan transaksi K omoditi berdasarkan\nKontrak B erjangka, Kontrak Derivatif Syariah dan/atau Kontrak\nDerivatif lainnya . Dengan demikian misi utama Lembaga Kliring\nBerjangka bukanlah untuk mencari laba. Biaya pelayanan dan\ntransaksi yang relatif murah merupakan salah satu unsur penting\ndalam upaya mencip takan pasar yang likuid, karena itu Lembaga\nKliring Berjangka harus memperhatikan unsur tersebut. Apabila\ndalam kegiatannya diperoleh sisa hasil usaha, maka sisa hasil usaha\ntersebut wajib digunakan sebesar -besarnya untuk kepentingan\nkelancaran dan kemudah an dalam penyelenggaraan kegiatan kliring\ndan penjaminan serta Anggota Kliring Berjangka yang bersangkutan.\n\nPasal 28\n Cukup jelas.\n\nPasal 29\n Cukup jelas.\n\nPasal 30\n Ayat (1)\n  Huruf a\n   Cukup jelas.\n  Huruf b\n   Cukup jelas.\n  Huruf c\n   Cukup jelas.\n  Huruf d\nRencana kegiatan 3 (tiga) tahun ini termasuk proyeksi\nkeuangan, susunan organisasi, fasilitas komunikasi, dan\nprogram latihan yang akan diadakan.\n  Huruf e\n   Cukup jelas.\n  Huruf f\n   Cukup jelas.\n  Huruf g\n  Cukup jelas.\n  Huruf h\n   Cukup jelas.\n\nHuruf ...\n\n  Huruf i\n   Cukup jelas.\n Ayat (2)\n  Cukup jelas.\n\nPasal 31\n Cukup jelas.\n\nPasal 32\nAyat (1)\nCukup jelas.\nAyat (2)\nYang dimaksud dengan “masih aktif” adalah para Pihak yang\nmemperoleh perizinan masih menjalankan kegiatannya sesuai\ndengan fungsinya masing-masing.\n\nPasal 33\n Cukup jelas.\n\nPasal 34\n Cukup jelas.\n\nPasal 35\n Cukup jelas.\n\nPasal 36\nCukup jelas.\n\nPasal 37\n Cukup jelas.\n\nPasal 38\n Cukup jelas.\n\nPasal 39\n Cukup jelas.\n\nPasal 40\nCukup jelas.\n\nPasal 41\n Cukup jelas.\n\nPasal 42\n Cukup jelas.\nPasal ...\n\n\nPasal 43\n Cukup jelas.\n\nPasal 44\n Cukup jelas.\n\nPasal 45\nCukup jelas.\n\nPasal 46\nCukup jelas.\n\nPasal 47\n Ayat (1)\n Huruf a\n Cukup jelas.\n Huruf b\n Cukup jelas.\n Huruf c\n Cukup jelas.\n Huruf d\nRencana kegiatan usaha meliputi organisasi, sistem\npenerimaan da n pendidikan serta pelatihan pegawai,\npenyiapan sarana telekomunikasi dan sistem informasi,\nsistem pengawasan dan pelaksanaan peraturan, rencana\noperasi dan pengelolaan transaksi, serta proyeksi keuangan\nuntuk 3 (tiga) tahun.\n Huruf e\n  Cukup jelas.\n Huruf f\n  Cukup jelas.\nHuruf g\n  Cukup jelas.\n Huruf h\n  Cukup jelas.\n Huruf i\n  Cukup jelas.\nHuruf j\n  Cukup jelas.\nAyat ...\n\nAyat (2)\n Cukup jelas.\n Ayat (3)\n Cukup jelas.\n\nPasal 48\nAyat (1)\nCukup jelas.\nAyat (2)\nYang dimaksud dengan “masih aktif” adalah p ara Pihak yang\nmemperoleh perizinan masih menjalankan kegiatannya sesu ai\ndengan fungsinya masing-masing.\n\nPasal 49\n Cukup jelas.\n\nPasal 50\n Cukup jelas.\n\nPasal 51\n Cukup jelas.\n\nPasal 52\n Ayat (1)\n Huruf a\n  Cukup jelas.\n Huruf b\n  Cukup jelas.\n Huruf c\nTindak pidana di bidang ekonomi antara lain tindak pidana\ndi bidang perdagangan, industri, atau pertanian. Tindak\npidana di bidang keuangan antara lain tindak pidana di\nbidang perbankan, asuransi, pasar modal, atau perpajakan.\n Huruf d\n  Cukup jelas.\n Huruf e\n  Cukup jelas.\n Huruf f\n  Cukup jelas.\n\nAyat ...\n\nAyat (2)\nYang dimaksud dengan “pihak yang mengendalikan\nperusahaannya baik langsung maupun tidak langsung” adalah\nkomisaris, direktur, pemegang saham, atau Pihak lainnya yang\nmemiliki kekuasaan yang dapa t mempengaruhi kebijaksanaan\ndan kegiatan perusahaan tersebut.\n\nPasal 53\n Cukup jelas.\n\nPasal 54\n Cukup jelas.\n\nPasal 55\n Cukup jelas.\n\nPasal 56\nKeahlian dalam hal ini ditunjukan dengan memiliki tanda lulus ujian\nyang diselenggarakan oleh Bappebti di bidang yang akan ditangani.\n\nPasal 57\n Ayat (1)\nHuruf a\n   Cukup jelas.\n Huruf b\n  Cukup jelas.\n Huruf c\nYang dimaksud dengan \"yang bersangkutan\" adalah\nperusahaan tempat dimana Wakil Pialang Berjangka akan\nbekerja.\n Ayat (2)\n  Cukup jelas.\n\nPasal 58\nAyat (1)\nCukup jelas.\nAyat (2)\nYang dimaksud dengan “masih aktif” adalah para Pihak yang\nmemperoleh perizinan masih menjalankan kegiatannya sesuai\ndengan fungsinya masing-masing.\n\nPasal 59\n Cukup jelas.\nPasal ...\n\nPasal 60\n Ayat (1)\n  Cukup jelas.\n Ayat (2)\nCukup jelas.\n Ayat (3)\n  Cukup jelas.\n Ayat (4)\n  Cukup jelas.\n Ayat (5)\nPialang Berjangka memenuhi syarat untuk sekaligus menjadi\nPenasihat Berjangka, sehingga dalam melaksanakan kegiatan\nsebagai Penasihat Berjangka tidak memerlukan lagi tambahan izin\nusaha sebagai Penasihat Berjangka.\n\nPasal 61\n Cukup jelas.\n\nPasal 62\n Cukup jelas.\n\nPasal 63\nCukup jelas.\n\nPasal 64\n Ayat (1)\n  Huruf a\n   Cukup jelas.\n Huruf b\n  Cukup jelas.\n Huruf c\nTindak pidana di bidang ekonomi antara lain tindak pidana\ndi bidang perdagangan, indu stri, atau pertanian. Tindak\npidana di bidang keuangan antara lain tindak pidana di\nbidang perbankan, asuransi, pasar modal, atau perpajakan.\n Huruf d\n  Cukup jelas.\n\n\n\nHuruf ...\n\n Huruf e\n  Cukup jelas.\n Huruf f\n  Cukup jelas.\n Ayat (2)\nYang dimaksud dengan “pihak  yang mengendalikan\nperusahaannya baik langsung maupun tidak langsung” adalah\nkomisaris, direktur, pemegang saham, atau Pihak lainnya yang\nmemiliki kekuasaan yang dapat mempengaruhi kebijaksanaan dan\nkegiatan perusahaan tersebut.\n\nPasal 65\n Cukup jelas.\n\nPasal 66\nAyat (1)\nCukup jelas.\nAyat (2)\nYang dimaksud dengan “masih aktif” adalah para Pihak yang\nmemperoleh perizinan masih menjalankan kegiatannya sesuai\ndengan fungsinya masing-masing.\n\nPasal 67\n Cukup jelas.\n\nPasal 68\n Cukup jelas.\n\nPasal 69\n Cukup jelas.\n\nPasal 70\n Cukup jelas.\n\nPasal 71\nAyat (1)\nCukup jelas.\nAyat (2)\nYang dimaksud dengan “masih aktif” adalah para Pihak yang\nmemperoleh perizinan masih menjalankan kegiatannya sesuai\ndengan fungsinya masing-masing.\n\nPasal ...\n\nPasal 72\n Cukup jelas.\n\nPasal 73\n Cukup jelas.\n\nPasal 74\n Cukup jelas.\n\nPasal 75\n Cukup jelas.\n\nPasal 76\n Ayat (1)\n  Huruf a\n  Cukup jelas.\n Huruf b\n  Cukup jelas.\nHuruf c\nTindak pidana di bidang ekonomi antara lain tindak pidana\ndi bidang perdagangan, industri, atau pertanian. Ti ndak\npidana di bidang keuangan antara lain tindak pidana di\nbidang perbankan, asuransi, pasar modal, atau perpajakan.\n Huruf d\n  Cukup jelas.\n Huruf e\n  Cukup jelas.\n Huruf f\n  Cukup jelas.\n Ayat (2)\nYang dimaksud dengan “pihak yang mengendalikan\nperusahaannya baik langsung maupun tidak langsung” adalah\nkomisaris, direktur, pemegang saham, atau Pihak lainnya yang\nmemiliki kekuasaan yang dapat mempengaruhi kebijaksanaan dan\nkegiatan perusahaan tersebut.\n\nPasal 77\nAyat (1)\nCukup jelas.\n\nAyat ...\n\nAyat (2)\nYang dimaksud dengan “masih aktif” adalah para Pihak yang\nmemperoleh perizinan masih menjalankan kegiatannya sesuai\ndengan fungsinya masing-masing.\n\nPasal 78\n Cukup jelas.\n\nPasal 79\n Cukup jelas.\n\nPasal 80\n Cukup jelas.\n\nPasal 81\n Cukup jelas.\n\nPasal 82\nAyat (1)\nCukup jelas.\nAyat (2)\nYang dimaksud dengan “masih aktif” adalah para Pihak yang\nmemperoleh perizinan masih menjalankan kegiatannya sesuai\ndengan fungsinya masing-masing.\n\nPasal 83\n Cukup jelas.\n\nPasal 84\n Cukup jelas.\n\nPasal 85\n Cukup jelas.\n\nPasal 86\n Cukup jelas.\n\nPasal 87\nAyat (1)\nCukup jelas.\nAyat (2)\nYang dimaksud dengan “masih aktif” adalah para Pihak yang\nmemperoleh perizinan masih menjalankan kegiatannya sesuai\ndengan fungsinya masing-masing.\nPasal ...\n\n\nPasal 88\n Cukup jelas.\n\nPasal 89\n Ayat (1)\nJumlah minimum dana yang tersedia diperhitungkan dari\nkebutuhan dana yang diperlukan untuk membayar tuntutan ganti\nrugi kepada Nasabah.\n Ayat (2)\n  Cukup jelas.\n\n Ayat (3)\n  Cukup jelas.\n\nPasal 90\n Huruf a\n Cukup jelas.\n Huruf b\nCukup jelas.\n Huruf c\n  Cukup jelas.\n Huruf d\n  Cukup jelas.\n Huruf e\n  Cukup jelas.\n Huruf f\n  Cukup jelas.\n Huruf g\n  Cukup jelas.\n Huruf h\n  Cukup jelas.\n Huruf i\n  Cukup jelas.\n Huruf j\nPengelola Sentra Dana Berjangka dapat menunda atau menolak\npembelian kembali Sertifikat Penye rtaan apabila harga Sertifikat\nPenyertaan sulit ditentukan karena terhentinya transaksi sebagian\natau seluruh Kontrak Berjangka,  Komoditi yang menjadi subjek\nKontrak Berjangka, dan/atau instrumen lainnya yang diatur\ndengan Peraturan Kepala Bappebti  dan kea daan keuangannya\nmencapai batas tertentu yang tidak memungkinkan untuk\nmembeli kembali Sertifikat Penyertaan tersebut.\nHuruf ...\n\nHuruf k\n  Cukup jelas.\n Huruf l\nKegiatan Sentra Dana Berjangka dapat berhenti atau dihentikan\nsecara tetap, apabila seluruh kontrak yang  menjadi dasar\ninvenstasi Sentra Dana Berjangka dihentikan antara lain jika\nbursa berjangka ditutup, force majeure , atau masa kontrak\npembentukan Sentra Dana Berjangka berakhir.\n\nPasal 91\n Cukup jelas.\n\nPasal 92\n Cukup jelas.\n\nPasal 93\n Cukup jelas.\n\nPasal 94\n Cukup jelas.\n\nPasal 95\n Cukup jelas.\n\nPasal 96\n Cukup jelas.\n\nPasal 97\n Ayat (1)\n  Huruf a\n  Cukup jelas.\n Huruf b\n  Cukup jelas.\n Huruf c\nTindak pidana di bidang ekonomi antara lain tindak pidana\ndi bidang perdagangan, industri, atau pertanian. Tind ak\npidana di bidang keuangan antara lain tindak pidana di\nbidang perbankan, asuransi, pasar modal, atau perpajakan.\n Huruf d\n  Cukup jelas.\n Huruf e\n  Cukup jelas.\nHuruf ...\n\n Huruf f\n  Cukup jelas.\n Huruf g\n  Cukup jelas.\n Ayat (2)\nYang dimaksud dengan “pihak yang  mengendalikan\nperusahaannya baik langsung maupun tidak langsung” adalah\nkomisaris, direktur, pemegang saham, atau Pihak lainnya yang\nmemiliki kekuasaan yang dapat mempengaruhi kebijaksanaan dan\nkegiatan perusahaan tersebut.\n\nPasal 98\nAyat (1)\nYang dimaksu d dengan “instrumen lainnya” antara lain produk\ntransaksi fisik di Bursa Berjangka dan Sistem Perdagangan\nAlternatif dan/atau Sistem Resi Gudang.\nAyat (2)\nCukup jelas.\n\nPasal 99\nAyat (1)\nCukup jelas.\nAyat (2)\nYang dimaksud dengan “masih aktif” adalah par a Pihak yang\nmemperoleh perizinan masih menjalankan kegiatannya sesuai\ndengan fungsinya masing-masing.\n\nPasal 100\n Cukup jelas.\n\nPasal 101\n Cukup jelas.\n\nPasal 102\n Cukup jelas.\n\nPasal 103\nAyat (1)\nCukup jelas.\nAyat (2)\nYang dimaksud dengan “masih aktif ” adalah para Pihak yang\nmemperoleh perizinan masih menjalankan kegiatannya sesuai\ndengan fungsinya masing-masing.\nPasal ...\n\nPasal 104\n Cukup jelas.\n\nPasal 105\n Ayat (1)\n  Cukup jelas.\n Ayat (2)\n  Cukup jelas.\n Ayat (3)\nJumlah minimum dana yang tersedia diperhitu ngkan dari\nkebutuhan dana yang diperlukan untuk membayar tuntutan ganti\nrugi kepada Nasabah.\n Ayat (4)\n  Huruf a\n   Cukup jelas.\n  Huruf b\n   Cukup jelas.\n  Huruf c\nKeuntungan Bursa Berjangka dalam operasionalnya\ndidapatkan dari berbagai sumber seperti p enjualan\nkeanggotaan Bursa Berjangka, iuran tahunan, biaya\ntransaksi, sewa fasilitas, dan jasa -jasa pelayanan lainnya.\nSisa pendapatan setelah dikurangi pengeluaran untuk\noperasi Bursa Berjangka harus digunakan sebesar -besarnya\nuntuk mengembangkan Bursa Be rjangka dengan\nmeningkatkan fasilitas dan pelayanan bagi anggotanya agar\nBursa Berjangka semakin efisien dan meningkat\nintegritasnya. Salah satu komponen yang dapat\nmeningkatkan integritas Bursa Berjangka adalah jumlah\nDana Kompensasi yang cukup. Oleh kare na itu keuntungan\nyang diperoleh Bursa Berjangka dapat disisihkan sebagian\nuntuk menambah Dana Kompensasi.\n Ayat (5)\n  Cukup jelas.\n Ayat (6)\n  Cukup jelas.\n\nPasal 106\n Cukup jelas.\n\n\nPasal ...\n\nPasal 107\n Ayat (1)\n  Cukup jelas.\n Ayat (2)\nYang dimaksu d dengan “nilai kerugian” adalah nilai kerugian\nsecara riil yang harus diterima Nasabah termasuk bunga kalau\nada, dan biaya yang dikeluarkan oleh Nasabah dalam proses\npengaduan dan penyelidikan tuntutan ganti rugi.\n\nPasal 108\n Ayat (1)\n  Cukup jelas.\n Ayat (2)\n  Huruf a\nUntuk mengklaim ganti rugi kepada Bursa Berjangka atas\nkerugian yang disebabkan oleh perbuatan cidera janji\nPialang Berjangka, Nasabah yang bersangkutan harus dapat\nmenunjukkan bukti telah berusaha menagihnya secara\nlangsung kepada Pialang Berjangka yang cidera janji tersebut\ndan diyakini tidak ada itikad baik dari Pialang Berjangka\ndimaksud untuk menyelesaikan kasus tersebut.\n  Huruf b\n   Cukup jelas.\n  Huruf c\nBesarnya tuntutan yang dapat diajukan harus sesuai dengan\njumlah kerugian riil  yang diderita ditambah biaya -biaya\nlainnya seperti bunga, dan biaya yang dikeluarkan oleh\nNasabah yang berkaitan dengan proses pengaduan dan\npenyelidikan tuntutan ganti rugi.\n\nPasal 109\n Ayat (1)\n  Cukup jelas.\n Ayat (2)\nJumlah minimum dana yang tersed ia diperhitungkan dari\nkebutuhan dana yang diperlukan untuk membayar tuntutan ganti\nrugi kepada Nasabah.\n\nPasal 110\n Cukup jelas.\n\n\nPasal ...\n\nPasal 111\n Cukup jelas.\n\nPasal 112\n Cukup jelas.\n\nPasal 113\n Cukup jelas.\n\nPasal 114\nAyat (1)\nCukup jelas.\nAyat (2)\nYang dimaksud dengan “masih aktif” adalah para Pihak yang\nmemperoleh perizinan masih menjalankan kegiatannya sesuai\ndengan fungsinya masing-masing.\n\nPasal 115\n Cukup jelas.\n\nPasal 116\n Cukup jelas.\n\nPasal 117\n Cukup jelas.\n\nPasal 118\n Ayat (1)\nKepala Bappebti dalam menetapkan daftar Bursa Berjangka luar\nnegeri sekaligus menetapkan Kontrak Berjangka  dan/atau\nKontrak Derivatif lainnya  yang dapat digunakan untuk\npenyaluran amanat Nasabah ke Bursa Berjangka tersebut.\n Ayat (2)\nPenetapan Bursa Berjangka luar negeri beserta Kontrak\nBerjangka dan/atau Kontrak Derivatif lainnya oleh Bappebti pada\ndasarnya ditujukan agar para Nasabah dalam negeri yang akan\nmenggunakan Kontrak Berjangka dan/atau Kontrak Derivatif\nlainnya yang diperdagangkan di Bursa Berjangka luar negeri yang\nbersangkutan bisa benar -benar terlindungi dari hal -hal yang\ndapat merugikannya, misalnya karena ketentuan Bursa\nBerjangka serta kliring dan penjaminannya  dinilai tidak\nmemberikan perlind ungan yang memadai bagi Nasabah  atau\npasarnya tidak likuid. Untuk itu sebelum Daftar Bursa Berjangka\nluar negeri beserta Kontrak Berjangka dan/atau Kontrak Derivatif\nlainnya ...\n\nlainnya ditetapkan, terlebih dahulu dilakukan penelitian yang\nseksama, antara lain terhadap peraturan dan tata tertib ( rules\nand regulations), baik untuk Bursa Berjangka maupun Lembaga\nKliring Berjangka, serta Kontrak Berjangka dan/atau Kontrak\nDerivatif lainnya dan kerjasama Badan Pengawas dan Bursa\nBerjangka luar negeri yang bersangkutan untuk membantu\npenyelesaian pengaduan dan/atau sengketa y ang diajukan\nNasabah.\n Ayat (3)\n  Huruf a\nYang dimaksud dengan perlindungan yang sama adalah\ntidak adanya perbedaan perlakuan (diskriminasi) dalam hal\npenanganan dan penyelesaian pengaduan atau tuntutan\nyang diajukan Nasabah, baik Nasabah dalam negeri ya ng\nbersangkutan maupun Nasabah luar negerinya.\n  Huruf b\n   Cukup jelas.\n  Huruf c\nTransaksi Kontrak Berjangka dan/atau Kontrak Derivatif\nlainnya di Bursa Berjangka luar negeri pada dasarnya harus\nmemberikan manfaat terhadap ekonomi Indonesia baik\nuntuk lindung nilai, arbitrase, dan lain sebagainya.\n\nPasal 119\nPermohonan dinyatakan diterima secara lengkap apabila permohonan\ndimaksud telah dilengkapi dengan semua dokumen yang\ndipersyaratkan tanpa ada permintaan perubahan dan/atau tambahan\ninformasi dari Kepala Bappebti.\n\nPasal  120\n Cukup jelas.\n\nPasal  121\n Cukup jelas.\n\nPasal  122\n Cukup jelas.\n\nPasal  123\n Cukup jelas.\n\nPasal  124\n Cukup jelas.\nPasal ...\n\nPasal 125\n Cukup jelas.\n\nPasal 126\n Huruf a\n  Cukup jelas.\n Huruf b\nYang dimaksud de ngan “identitas le mbaga tempat M argin\ndisimpan” adalah nama bank tempat dimana Lembaga Kliring\nBerjangka menyimpan Margin yang diterima dari Pialang\nBerjangka.\n Huruf c\n  Cukup jelas.\n\nPasal 127\n Cukup jelas.\n\nPasal 128\n Cukup jelas.\n\nPasal 129\n Ayat (1)\n  Cukup jelas.\n Ayat (2)\n  Cukup jelas.\n Ayat (3)\nYang dimaksud dengan “posisi terbuka Kontrak Berjangka,\nKontrak Derivatif Syariah, dan/atau Kontrak Derivatif lainnya”\nadalah posisi jual atau beli Kontrak Berjangka yang belum\ndilikuidasi atau jatuh tempo.\n\nPasal 130\n Cukup jelas.\n\nPasal 131\n Cukup jelas.\n\nPasal 132\n Cukup jelas.\n\nPasal 133\n Cukup jelas.\nPasal ...\n\nPasal 134\n Ayat (1)\n  Cukup jelas.\n Ayat (2)\n  Huruf a\n   Cukup jelas.\n  Huruf b\n   Cukup jelas.\n  Huruf c\n  Dalam Dokumen Keterangan Perusahaan juga terda pat\n program transaksi yang harus diketahui dan dimengerti\n oleh setiap kliennya.\n  Huruf d\n   Cukup jelas.\n  Huruf e\n   Cukup jelas.\n  Huruf f\n   Cukup jelas.\nAyat (3)\n Cukup jelas.\nAyat (4)\n Cukup jelas.\n\nPasal 135\n Ayat (1)\n  Cukup jelas.\n Ayat (2)\n  Huruf a\n   Cukup jelas.\n  Huruf b\n   Cukup jelas.\n  Huruf c\nDalam Dokumen Keterangan Perusahaan juga terdapat\nprogram transaksi yang harus diketahui dan dimengerti oleh\nsetiap peserta Sentra Dana Berjangka.\n  Huruf d\n   Cukup jelas.\n\n\nHuruf ...\n\n  Huruf e\n Yang dimaksud dengan “pelaku lainnya” adalah pihak yang\nmentransaksikan produk di luar Kontrak Berjangka, Kontrak\nDerivatif Syariah, dan/atau Kontrak Derivatif lainnya.\n  Huruf f\n   Cukup jelas.\n  Huruf g\n   Cukup jelas.\n  Huruf h\nYang dimaksud dengan “cat atan lainnya” adalah catatan\nsetiap transaksi untuk pribadi atau prinsipal dari\nperusahaan Pengelola Sentra Dana Berjangka meliputi\ntanggal transaksi, jumlah, jenis Kontrak Berjangka, Kontrak\nDerivatif Syariah, dan/atau Kontrak Derivatif lainnya,  harga,\nbulan penyerahan, Pialang Berjangka yang mengelola\nrekening, transaksi jual atau beli dan laba atau rugi,\ntermasuk konfirmasi dan laporan bulanan yang diserahkan\noleh Pialang Berjangka.\nAyat (3)\n  Cukup jelas.\n\nPasal 136\n Cukup jelas.\n\nPasal 137\n Cukup jelas.\n\nPasal 138\n Cukup jelas.\n\nPasal 139\n Cukup jelas.\n\nPasal 140\n Cukup jelas.\n\nPasal 141\n Ayat (1)\nLarangan untuk membuka atau memiliki rekening pada Pialang\nBerjangka lain adalah untuk menghindarkan terjadinya\npersekongkolan yang dapat merugikan Nasabah  dan tidak\nterlaksananya kegiatan transaksi di pasar secara wajar dan\ntransparan.\nAyat ...\n\n Ayat (2)\nKetentuan ini dimaksudkan agar istri atau suami pegawai Pialang\nBerjangka tidak dapat dimanfaatkan untuk bersekongkol\nmelakukan transaksi yang telah diatur sebelum nya yang\nmengakibatkan tidak dapat bekerjanya mekanisme pasar secara\nwajar ( fair) dan menghindari kemungkinan dilakukannya\ntransaksi oleh sekelompok orang atau keluarganya melampaui\nbatas posisi yang ditetapkan.\n\nPasal 142\n Ayat (1)\n  Huruf a\n   Cukup jelas.\n  Huruf b\n   Cukup jelas.\n  Huruf c\nHal-hal yang akan dijelaskan mengenai isi Kontrak\nBerjangka meliputi antara lain batas maksimum transaksi,\nposisi kepemilikan Kontrak Berjangka wajib  lapor, batas\nfluktuasi harga, M argin, dan ketentuan lainnya yang\nberlaku.\n  Huruf d\n   Cukup jelas.\n  Huruf e\n   Cukup jelas.\n  Huruf f\n   Cukup jelas.\n Ayat (2)\n  Cukup jelas.\n\nPasal 143\n Cukup jelas.\n\nPasal 144\n Cukup jelas.\n\nPasal 145\n Cukup jelas.\n\nPasal 146\n Huruf a\n  Cukup jelas.\nHuruf ...\n\n Huruf b\n  Cukup jelas.\n Huruf c\n  Cukup jelas.\n Huruf d\n  Cukup jelas.\n Huruf e\n  Cukup jelas.\n Huruf f\n  Cukup jelas.\n Huruf g\n  Cukup jelas.\n Huruf h\n  Cukup jelas.\n Huruf i\n  Cukup jelas.\n Huruf j\n  Cukup jelas.\n Huruf k\n  Cukup jelas.\n Huruf l\n  Cukup jelas.\n Huruf m\n  Cukup jelas.\n Huruf n\nYang dimaksud “keadaan tertentu” antara lain apabila Nasabah\ntidak ada ditempat selama periode tertentu dan untuk transaksi\nyang bertujuan menghindari kerugian lebih besar ( stop loss) sesuai\ndengan ketentuan yang ditetapkan Kepala Bappebti.\n Huruf o\n  Cukup jelas.\n\nPasal 147\n Cukup jelas.\n\nPasal 148\n Cukup jelas.\n\nPasal ...\n\nPasal 149\n Cukup jelas.\n\nPasal 150\n Ayat (1)\n Yang dimaksud dengan afiliasi adalah:\na. hubungan keluarga karena perkawinan dan keturunan\nsampai dengan derajat kedua, baik secara horizontal\nmaupun vertikal;\nb. hubungan antara Pihak dan pegawai, direktur atau\nkomisaris, dari Pihak tersebut;\nc. hubungan antara dua perusahaan yang mempunyai satu\natau lebih anggota direksi atau anggota dewan komisaris\nyang sama;\nd. hubungan antara perusahaan da n Pihak, baik langsung\nmaupun tidak langsung, yang mengendalikan atau\ndikendalikan oleh perusahaan tersebut;\ne. hubungan antara dua perusahaan yang dikendalikan, baik\nlangsung maupun tidak langsung, oleh Pihak yang sama;\natau\nf. hubungan antara perusahaan dan pemegang saham utama.\nAyat (2)\n  Cukup jelas.\n Ayat (3)\n  Cukup jelas.\n\nPasal 151\n Cukup jelas.\n\nPasal 152\n Cukup jelas.\n\nPasal 153\n Cukup jelas.\n\nPasal 154\n Cukup jelas.\n\nPasal 155\n Cukup jelas.\n\nPasal 156\n Cukup jelas.\nPasal ...\n\nPasal 157\n Cukup jelas.\n\nPasal 158\n Cukup jelas.\n\nPasal 159\n Cukup jelas.\n\nPasal 160\n Cukup jelas.\n\nPasal 161\n Cukup jelas.\n\nPasal 162\n Cukup jelas.\n\nPasal 163\n Huruf a\n  Cukup jelas.\nHuruf b\n Yang dimaksud dengan “integritas keuangan” adalah kemampuan\nkeuangan dari perusahaan atau orang p erseorangan yang diukur\ndari modal dan/atau kekayaan yang dimiliki sesuai dengan\npersyaratan yang ditetapkan serta ketaatan membayar semua\nkewajiban di bidang keuangan, terutama pembayaran pajak oleh\nyang bersangkutan.\n Yang dimaksud dengan “reputasi bisni s yang dipersyaratkan”\nadalah kemampuan mengelola usaha dengan baik dan memiliki\nkredibilitas serta perilaku yang baik, yang ditandai antara lain:\n1) tidak pernah dihukum karena melakukan tindak pidana;\n2) tidak pernah masuk daftar hitam perbankan;\n3) tidak pernah dinyatakan pailit dalam jangka waktu 5 (lima)\ntahun terakhir; dan\n4) memiliki keahlian di bidang Perdagangan Berjangka.\nHuruf c\n  Cukup jelas.\nHuruf d\nCukup jelas.\n\nPasal 164\n Cukup jelas.\nPasal ...\n\n\nPasal 165\n Cukup jelas.\n\nPasal 166\n Cukup jelas.\n\nPasal 167\n Cukup jelas.\n\nPasal 168\n Cukup jelas.\n\nPasal 169\n Cukup jelas.\n\nPasal 170\n Cukup jelas.\n\nPasal 171\n Cukup jelas.\n\nPasal 172\n Cukup jelas.\n\nPasal 173\n Cukup jelas.\n\nPasal 174\n Cukup jelas.\n\nPasal 175\n Cukup jelas.\n\n\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 5548"
+   }
+  }
+ ]
+}

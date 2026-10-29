@@ -1,0 +1,122 @@
+{
+ "id": "PH-H21243",
+ "title": {
+  "zh": null,
+  "en": "MALACAÑANG BY THE PRESIDENT OF THE PALLIPPINES PROMOTING THE DEPLOYMENT AND USE OF INTERNET PROTOCOL VERSION 6 (IPV6)",
+  "orig": "MALACAÑANG BY THE PRESIDENT OF THE PALLIPPINES PROMOTING THE DEPLOYMENT AND USE OF INTERNET PROTOCOL VERSION 6 (IPV6)"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p159",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Executive Order No. 893",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 8,
+ "chars": 5793,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/07_行政命令_EO/EO_00893_2010.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 8 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 EO_00893_2010.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H21243-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "SECTION 1"
+   },
+   "text": {
+    "en": "GENERAL POLICY\nThe government shall pursue the policy of adapting and promoting\nmodern technology for national benefit. It shall encourage the improvement of\nthe country's ICT infrastructure and ICT-enabled services. To the extent that the\nexhaustion of IPv4 addresses is threatening to deter growth and development,\nmigration to IPV6 shall be promoted."
+   }
+  },
+  {
+   "id": "PH-H21243-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "SECTION 2"
+   },
+   "text": {
+    "en": "SPECIFIC POLICIES\nTo ensure the successful implementation and monitoring of this Order, the\nfollowing policies shall be adopted:\nAll government online services shall be IPv6-compliant and\ninteroperable with IPv4 within two (2) years after the effectivity of\nGovernment procurement of IPv4-only equipment and software\nshall be prohibited beginning two (2) years after the effectivity of\nAll government agencies shall include an IPv6 migration plan in\ntheir Information Systems Strategic Plans (ISSP);\nAll Internet Service Providers (ISPs) shall be capable of providing\nIPV6 addresses and services within two (2) years from the\neffectivity of this Order;\nInteroperability between IPv6 and IPv4 infrastructure and systems\nshall be encouraged;\nCooperation between and among the government and the private\nsector to promote and ensure comoliance to IPv6 shall be pursued;\n9)\nCapacity-building to address the technical requirements brought\nabout by the new technology and public awareness program shall\nbe instituted and enhanced."
+   }
+  },
+  {
+   "id": "PH-H21243-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "SECTION 3"
+   },
+   "text": {
+    "en": "DEFINITION OF TERMS\nThe following definitions shall apply within the context of this policy:\nInformation and Communications Technology (ICT) - means\nthe totality of electronic means to collect, store, process and present\n(MA Hologram # 57750\n57753,\n\ninformation to end-users in support of their activities. It consists,\namong others, of computer systems, office systems, and consumer\nelectronics, as well as networked information infrastructure, -the\ncomponents of which include the telenhone, cable, wireless and\nsatellite systems, the Internet, fax machines, and computers.\nb) Internet Protocol - a standard set of rules for sending and\nreceiving data through the internet. Each computer or device\nconnected to the internet must have a unique IP address in order to\ncommunicate with other systems or the Internet.\nInternet: Protocol Version 4 (IPy4) - means the first widely\ndeployed version of the Internet Protocol. It uses 32-bit addresses,\nwhich limits the address space to 4,294,967,296 (232) possible unique\naddresses. It is typically in the form of n.n.n.n ranging from 0.0.0.0\nInternet Protocol Version 6 (IPv6) - means the next-generation\nInternet Protocol version designated as the successor to version 4\n(IPV4). It uses 128-bit address which supports 2128 (about 3.4x1038)\nis typically in\nhhhh:hhhh:hhhh:hhhh:hhhhhhhh:hhhh:hhhh\nhexadecimal format numbers ranging from 0 to 9 and A to F;\nmeans an equipment\ncommunicating/interfacing using only IPV4;\nis capable of\nIPv6-compliant - means a system is capable to receive, process,\nand transmit or forward (as appropriate) IPv6 packets;\n9)\nInteroperability - means the ability of systems, infrastructures,\nunits, or products to provide services to and accept services from\nother systems, infrastructures, units. or products.\nCREATION OF AN INTER-AGENCY TASK FORCE\nA Inter-Agency Task Force (IATF) on 1Pv is hereby created to ensure\nimplementation of this Executive Order. The Task Force shall be composed of\nthe Chairman of the Commission on Information and Communications\nTechnology (CICT), as Head; and Senior Level Officials from the Department of\nScience and Technology (DOST), Department of Trade and industry (DTI).\nDepartment of National Defense (DND), Department of Budget and Management\n(DBM), National Telecommunications Commission (NTC), and the private sector\npass song as get a\n\nrepresentatives as members. The CICT shall serve as secretariat of the Task\nThe Task Force shall create an Inter-Agency Technical Working Group\n(IATWG), composed of government and private sector representatives.\nThe Task Force shall be organized and hold its first meeting within (60)\ndays from the promulgation of this Executive Order.\nThe Task force shall cease to operate once all government agencies and\nISPs have reported full compliance."
+   }
+  },
+  {
+   "id": "PH-H21243-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "SECTION 5"
+   },
+   "text": {
+    "en": "FUNCTIONS OF INTER-AGENCY TASK FORCE (IATF)\nThe Task force shall have the following functons:\na) Formulate an IPv6 roadmap;\nb) Initiate and manage IPv6 data collection;\nc) Develop baseline and metrics for measuring IPv6 usage and benefits in\nthe country;\nd) Provide periodic reports to the President through the Chairman of CICT\nregarding the activities of the Task Force\ne) Promote human capacity-building, including training and awareness on\nf) Develop a database of IPv6 compliance;\ng) Recommend additional policies as may be deemed necessary;\n) Perform other functions as may be assicned by the Office of the"
+   }
+  },
+  {
+   "id": "PH-H21243-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "SECTION 6"
+   },
+   "text": {
+    "en": "FUNDING\nAppropriations for the agency level migration to IPv6 shall be included in\nthe respective agency allocations.\n67755\nPOMA Hologram * 557755"
+   }
+  },
+  {
+   "id": "PH-H21243-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "SECTION 7"
+   },
+   "text": {
+    "en": "IMPLEMENTING RULES ANC REGULATIONS (IRR)\nCICT shall issue the implementing Ruies and Regulations (IRK) within\nninety (90) days from the approval of this Order\nSECTION 3. REPEALING CLAUSE\nAll executive issuances, orders, rules and regulations or parts thereof\ninconsistent with this Executive Order are hereby repealed, amended, and/or\nmodified accordingly."
+   }
+  },
+  {
+   "id": "PH-H21243-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "SECTION 9"
+   },
+   "text": {
+    "en": "SEPARABILITY CLAUSE\nIf any provision of this Executive Order is declared invalid or\nunconstitutional, the other provisions not affected thereby shall remain valid and\nsubsisting,"
+   }
+  },
+  {
+   "id": "PH-H21243-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "SECTION 10"
+   },
+   "text": {
+    "en": "EFFECTIVITY CLAUSE\nThis Executive Order shall immediately take effect fifteen (15) days after\nits publication in a newspaper of general circulation.\nDONE, in the City of Manila, this 18th\nthe year of Our Lord, Two Thousand and Ten.\nfrain A. large\nBy the President:\n1,\nLEANDRO R/MENDOZA\nExecutive Sedretary\n12/\nPOMA Hologram # 57756"
+   }
+  }
+ ]
+}

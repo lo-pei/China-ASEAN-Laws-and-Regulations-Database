@@ -1,0 +1,92 @@
+{
+ "id": "PH-H11606",
+ "title": {
+  "zh": null,
+  "en": "AN ACT APPROPRIATING FIFTEEN THOUSAND DOLLARS, UNITED STATES CURRENCY, FOR THE PURPOSE OF CONTRIBUTING TO THE ERECTION OF THE RIZAL MONUMENT, AND AUTHORIZING THE INSULAR TREASURER TO DEPOSIT THE FUNDS ALREADY COLLECTED IN A BANK TO DRAW INTEREST.",
+  "orig": "AN ACT APPROPRIATING FIFTEEN THOUSAND DOLLARS, UNITED STATES CURRENCY, FOR THE PURPOSE OF CONTRIBUTING TO THE ERECTION OF THE RIZAL MONUMENT, AND AUTHORIZING THE INSULAR TREASURER TO DEPOSIT THE FUNDS ALREADY COLLECTED IN A BANK TO DRAW INTEREST."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 893",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 5,
+ "chars": 1373,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_00893_1903_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 5 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_00893_1903_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H11606-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "There is hereby appropriated, out of any funds in the Insular Treasury not otherwise appropriated,\nthe sum of fifteen thousand dollars, United States currency, as a contribution by the Insular Government to\nthe erection of a permanent monument to Jose Rizal, on condition that ten thousand dollars, United States\ncurrency, shall be raised by the Rizal Monument Committee by popular subscription in addition to the fifty\nthousand dollars, Mexican currency, already collected."
+   }
+  },
+  {
+   "id": "PH-H11606-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The fifteen thousand dollars, United States currency, appropriated by this Act shall be available\nupon the certification of the Insular Treasurer that the ten thousand dollars, United States currency,\nmentioned in section one of this Act to be raised by popular subscription have been deposited in the Insular\nTreasury by the Rizal Monument Committee."
+   }
+  },
+  {
+   "id": "PH-H11606-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "The Insular Treasurer is hereby authorized to deposit all the money collected for the Rizal\nmonument in one of the depository banks in Manila, to draw interest at the usual rate in the market for yearly"
+   }
+  },
+  {
+   "id": "PH-H11606-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "The public good requiring the speedy enactment of this bill, the passage of the same is hereby\nexpedited in accordance with section two of \"An Act prescribing the order of procedure by the Commission\nin the enactment of laws,\" passed September twenty-sixth, nineteen hundred."
+   }
+  },
+  {
+   "id": "PH-H11606-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, September 19, 1903."
+   }
+  }
+ ]
+}

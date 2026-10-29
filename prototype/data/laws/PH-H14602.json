@@ -1,0 +1,72 @@
+{
+ "id": "PH-H14602",
+ "title": {
+  "zh": null,
+  "en": "An Act to Require Certain statements Made By Any Judge of First Instance or Public Service Commissioner During the Hearing of a Case Before Him to Be Made of Record, and to Penalize VIolations Hereof.",
+  "orig": "An Act to Require Certain statements Made By Any Judge of First Instance or Public Service Commissioner During the Hearing of a Case Before Him to Be Made of Record, and to Penalize VIolations Hereof."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1932-12-05",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 4011",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 950,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1932/act_4011_1932.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_04011_1932_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_04011_1932_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14602-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Any statement made by a judge of First Instance or Public Service Commissioner with reference\nto a case tried by him, or to any of the parties thereto, witnesses or attorneys, during the hearing of such case,\nshall be made of record in the stenographic notes if requested by either of the parties."
+   }
+  },
+  {
+   "id": "PH-H14602-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Any judge of First Instance or Public Service Commissioner who shall order the clerk concerned\nto omit from his stenographic notes the statement mentioned in the preceding section, notwithstanding the\nrequest of either of the parties, shall be subject to such disciplinary action as the Supreme Court may\nrecommend to the Governor-General, after the procedure established in section one hundred and seventy-three\nof the Administrative Code. Any stenographer failing to comply with the provisions of the preceding section\nshall be punished in accordance with the Civil Service Rules."
+   }
+  },
+  {
+   "id": "PH-H14602-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, December 5, 1932."
+   }
+  }
+ ]
+}

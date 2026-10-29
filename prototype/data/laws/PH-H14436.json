@@ -1,0 +1,72 @@
+{
+ "id": "PH-H14436",
+ "title": {
+  "zh": null,
+  "en": "An Act Authorizing the Director of Lands to Assign to Provincial Treasurers the Fees Collectible From Cadastral Surveys, and for Other Purposes.",
+  "orig": "An Act Authorizing the Director of Lands to Assign to Provincial Treasurers the Fees Collectible From Cadastral Surveys, and for Other Purposes."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1930-12-05",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3804",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1364,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1930/act_3804_1930.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03804_1930_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03804_1930_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14436-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The Director of Lands, with the approval of the Secretary of Agriculture and Natural Resources,\nis hereby empowered to assign to provincial treasurers the fees collectible from cadastral surveys executed\nunder Act Numbered Twenty-two hundred and fifty-nine, as amended, and under Act Numbered Thirty-three\nhundred and twenty-seven, as amended, at a discount of from six to eight per centum. The provincial\ntreasurers may, with the approval of the provincial boards concerned and the Secretary of the Interior, pay the\nBureau of Lands out of any funds they may have in their possession which are not needed for immediate use,\nbased upon surplus provincial funds or trust fund not in excess of twenty per centum of the yearly average\nbalance in the last three years immediately preceding the year of the assignment."
+   }
+  },
+  {
+   "id": "PH-H14436-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "In order to expedite the collection of cadastral costs, for which the provinces have made advance\npayments, the provincial treasurers may appoint the necessary employees at a compensation to be approved by\nthe provincial board, and in cases of disagreement, the same shall be submitted to the Chief of the Executive\nBureau whose decision thereon shall be final. The salaries of such employees shall be chargeable against the\ncadastral collections accruing to the provincial funds."
+   }
+  },
+  {
+   "id": "PH-H14436-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, December 5, 1930."
+   }
+  }
+ ]
+}

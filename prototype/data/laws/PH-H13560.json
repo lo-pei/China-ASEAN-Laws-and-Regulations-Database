@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13560",
+ "title": {
+  "zh": null,
+  "en": "An Act Exempting Certain Bonds of the \"Manila Railroad Company of the Philippine Islands\" From Taxation.",
+  "orig": "An Act Exempting Certain Bonds of the \"Manila Railroad Company of the Philippine Islands\" From Taxation."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1920-03-23",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2916",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 339,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1920/act_2916_1920.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02916_1920_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02916_1920_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13560-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Any bonds hereafter issued by the \"Manila Railroad Company of the Philippine Islands,\" and all\nincome directly derived therefrom shall be exempt from the payment of any tax of the Government of the\nPhilippine Islands or any division or political subdivision of the same."
+   }
+  },
+  {
+   "id": "PH-H13560-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, March 23, 1920."
+   }
+  }
+ ]
+}

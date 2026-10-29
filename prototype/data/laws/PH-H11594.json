@@ -1,0 +1,102 @@
+{
+ "id": "PH-H11594",
+ "title": {
+  "zh": null,
+  "en": "AN ACT PROVIDING FOR THE RELIEF OF PERSONS WHO HAVE PAID OR ARE LIABLE TO PAY THE LAND TAX FOR THE YEAR NINETEEN HUNDRED AND TWO UPON AN EXCESSIVE ASSESSMENT.",
+  "orig": "AN ACT PROVIDING FOR THE RELIEF OF PERSONS WHO HAVE PAID OR ARE LIABLE TO PAY THE LAND TAX FOR THE YEAR NINETEEN HUNDRED AND TWO UPON AN EXCESSIVE ASSESSMENT."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 881",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 6,
+ "chars": 2843,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_00881_1903_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 6 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_00881_1903_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H11594-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "In all cases in which land assessed for the year nineteen hundred and two was assessed at more\nthan fifty per centum above the assessment of the succeeding year, as revised by the board of tax revision,\nthe provincial board of every organized province is hereby authorized and required to reduce the assessment\nfor the year nineteen hundred and two to the amount fixed by the board of tax revision for the same land for\nthe year nineteen hundred and three, and the provincial treasurer shall comply with the order of the\nprovincial board by making the reduction upon the records of the municipality and province."
+   }
+  },
+  {
+   "id": "PH-H11594-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "In all cases in which the money has been paid upon the excessive assessment as described in\nsection one, it shall be the duty of the provincial board to allow a credit of the amount of such excess\npayment, to be applied upon taxes due for the year nineteen hundred and three or some subsequent year."
+   }
+  },
+  {
+   "id": "PH-H11594-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "In case the tax has not been paid on the excessive assessment, then the taxpayer or the person\nfrom whom the tax is due shall be allowed to pay the tax on the reduced assessment without penalty at any\ntime within three months after the passage of this Act; and all proceedings for the sale of land because of a\ndelinquency of payment on the excessive assessment as defined in section one shall be discontinued and held\nfor naught, and the title to the land shall remain in the delinquent taxpayer, subject only to the lien for taxes\non the assessment as reduced in accordance with section one hereof: Provided, That if the amount of taxes\ndue on the reduced assessment is not paid within the said three months, the same procedure shall be followed\nin their collection as in other cases of delinquent taxes."
+   }
+  },
+  {
+   "id": "PH-H11594-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "In cases of excessive taxation described in section one hereof in which the land shall have been\nsold to a third person for failure to pay taxes, the delinquent taxpayer, upon redeeming his land by paying to\nthe purchaser the amount required by law to be paid, shall be entitled to a credit, for use in payment of future\ntaxes, for the amount expended by him over and above the tax without penalty at the reduced assessment. In\ncase the land shall have been purchased by the Government, the proceedings shall be by the provincial board\ndeclared null and void, and the title shall revert to the delinquent taxpayer on payment of the amount due on\n\nthe assessment, as reduced in accordance with the terms of section one of this Act, within three months from\nthe passage of this Act."
+   }
+  },
+  {
+   "id": "PH-H11594-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "text": {
+    "en": "The public good requiring the speedy enactment of this bill, the passage of the same is hereby\nexpedited in accordance with section two of \"An Act prescribing the order of procedure by the Commission\nin the enactment of laws,\" passed September twenty-sixth, nineteen hundred."
+   }
+  },
+  {
+   "id": "PH-H11594-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, September 10, 1903."
+   }
+  }
+ ]
+}

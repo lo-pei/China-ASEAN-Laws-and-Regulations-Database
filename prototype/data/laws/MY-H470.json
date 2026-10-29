@@ -1,0 +1,482 @@
+{
+ "id": "MY-H470",
+ "title": {
+  "zh": "2000年集成电路布图设计法",
+  "en": "LAYOUT-DESIGNS OF INTEGRATED CIRCUITS ACT 2000",
+  "orig": "LAYOUT-DESIGNS OF INTEGRATED CIRCUITS ACT 2000",
+  "vi": "Luật về Thiết kế bố trí mạch tích hợp năm 2000",
+  "th": "พระราชบัญญัติการออกแบบผังวงจรรวม ค.ศ. 2000",
+  "id": "Undang-Undang Desain Tata Letak Sirkuit Terpadu Tahun 2000",
+  "ms": "Akta Reka Bentuk Susun Atur Litar Bersepadu 2000"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-10",
+ "language": "en",
+ "level": "law",
+ "category": "02_民商事与经济法",
+ "status": "active",
+ "promulgatedDate": "2000",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "ACT601",
+ "topics": [],
+ "summary": null,
+ "coverage": "partial",
+ "structureMode": "ARTICLE",
+ "articleCount": 32,
+ "chars": 38054,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-detail.php?act=601&lang=BI"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\02_民商事与经济法\\2000_601_LAYOUT-DESIGNS OF INTEGRATED CIRCUITS ACT 2000.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 33 条；逐字未改写（源自厂商 OCR 文本）。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H470-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "1. (1) This Act may be cited as the Layout-Designs of Integrated\nCircuits Act 2000.\n\n(2) This Act shall come into operation on a date to be appointed\nby the Minister by notification in the Gazette.\n\nInterpretation"
+   }
+  },
+  {
+   "id": "MY-H470-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "2. (1) In this Act, unless the context otherwise requires—\n\n\"action\" means a civil proceeding commenced by writ or in\nsuch other manner as may be prescribed by rules of court and\nincludes a counter-claim;\n\n\"commercially exploit\" includes—\n\n(a) to sell, let for hire or otherwise distribute by way of\ntrade;\n\n(b) to offer or expose for sale or hire or other distribution\nby way of trade; and\n\n(c) to import for the purpose of sale, letting for hire or\nother distribution by way of trade;\n\n\"compulsory licence\" means the authorization to perform in\nMalaysia, without the agreement of the right holder of the protected\nlayout-design, any act referred to in section 9;\n\n\"creator\", in relation to a computer-aided design of a layout-\ndesign, means the person who made the arrangements for the\ncreation of the layout-design;\n\n\"exclusive licence\" means a licence in writing, signed by or on\nbehalf of a right holder authorizing the licensee, to the exclusion\nof all other persons including the person granting the licence, to\nexercise a right that would otherwise be exercisable exclusively\nby the right holder;\n\n\"integrated circuit\" means a product, whether in its final form\nor in an intermediate form, in which the elements, at least one of\nwhich is an active element, and some or all of the interconnections\nare integrally formed in and on, or in or on, a piece of material\nand which is intended to perform an electronic function;\n\n\"layout-design\" means the three-dimensional disposition, however\nexpressed, of the elements of an integrated circuit and some or all\nof the interconnections of the integrated circuit or such a three-\ndimensional disposition prepared for an integrated circuit intended\nfor manufacture;\n\n\"material form\", in relation to a layout-design, includes any\nform of storage (whether visible or not) from which the layout-\ndesign, or a substantial part of the layout-design, can be reproduced;\n\n\"protected layout-design\" means a layout-design that is protected\nunder section 5;\n\n\"qualifying country\" means a country or territory that is a Member\nto the World Trade Organization Agreement and includes a country\nor territory designated under section 4;\n\n\"qualifying person\" means a person who qualifies for the\nprotection of this Act under section 6;\n\nLayout-Designs of Integrated Circuits           7\n\n\"reproduction\" means the act or process of copying the layout-\ndesign, directly or indirectly, in a material form;\n\n\"right holder\" means the person that is to be regarded as the\nbeneficiary of the protection referred to in section 9;\n\n\"unauthorized\", in relation to—\n\n(a) a copy of a protected layout-design, means it is made\nwithout the consent of the right holder of the protected\nlayout-design; and\n\n(b) an integrated circuit in which a protected layout-design\nis incorporated, means such incorporation is done without\nthe consent of the right holder of the protected layout-\ndesign;\n\n\"World Trade Organization Agreement\" means the Marrakesh\nAgreement Establishing the World Trade Organization done at\nMarrakesh on 15 April 1994.\n\n(2) A layout-design shall be taken to have been commercially\nexploited if the layout-design, a copy of the layout-design or an\nintegrated circuit in which the layout-design is incorporated (whether\nor not the integrated circuit is contained in another article) is\ncommercially exploited in Malaysia or elsewhere.\n\n(3) A reference to the doing of an act (other than creating) in\nrelation to a layout-design includes a reference to the doing of\nthat act in relation to a substantial part of the layout-design.\n\n(4) A reference to a copy of a layout-design includes a reference\nto a copy of a substantial part of the layout-design.\n\n(5) A reference to an integrated circuit made in accordance\nwith a layout-design includes a reference to an integrated circuit\nin which the layout-design is substantially incorporated.\n\nApplication"
+   }
+  },
+  {
+   "id": "MY-H470-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "3. (1) This Act shall apply to a layout-design, whether created\nbefore or after the commencement of this Act, but an action under\nthis Act shall not lie in respect of any act done before that\ncommencement in relation to the layout-design, a copy of the\nlayout-design or an integrated circuit in which the layout-design\nis incorporated.\n\n(2) Nothing in this Act shall be deemed to affect any action\ntaken under any other written law relating to the protection of\nintellectual property rights that is pending on the commencement\nof this Act and such action shall be continued under the applicable\nwritten law until its final disposal.\n\n(3) Nothing in this Act shall be construed as reviving any\nprotection for a layout-design that had expired before the\ncommencement of this Act.\n\n(4) This Act shall not apply in relation to any idea, procedure,\nprocess, system, method of operation, concept, principle or discovery,\nregardless of the form in which it is described, explained, illustrated\nor embodied in a layout-design.\n\nDesignation of qualifying countries"
+   }
+  },
+  {
+   "id": "MY-H470-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "4. (1) The Minister may, by order published in the Gazette,\ndesignate a country or territory as a qualifying country if he considers\nthat provision has or will be made under the law of that country\nor territory that will give a right holder adequate protection in\nthat country or territory in respect of a protected layout-design in\nwhich he has rights.\n\n(2) For the purpose of subsection (1), \"right holder\" means a\nright holder who is a qualifying person.\n\nPart II\n\nPROTECTION OF LAYOUT-DESIGNS\n\nProtected layout-design"
+   }
+  },
+  {
+   "id": "MY-H470-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "chapter": {
+    "en": "Part II"
+   },
+   "heading": {},
+   "text": {
+    "en": "5. (1) A layout-design shall be eligible for protection under this\nAct if the layout-design is an original layout-design and the right\nholder of the layout-design was, at the time the layout-design was\ncreated, a qualifying person.\n\n(2) For the purposes of subsection (1), a layout-design shall\nbe original if—\n\n(a) it is the result of its creator's own intellectual effort and\nis not commonplace among creators of layout-designs\nand manufacturers of integrated circuits at the time of\nits creation; or\n\nLayout-Designs of Integrated Circuits           9\n\n(b) in relation to a layout-design that consisis of a combination\nof elements and interconnections that are commonplace,\nthe combination, taken as a whole, is the result of its\ncreator's own intellectual effort and is not commonplace\namong creators of layout-designs and manufacturers of\nintegrated circuits at the time of its creation.\n\n(3) This Act protects all independently created layout-designs\nreferred to in subsection (1) even if they are identical and, subject\nto section 8, regardless of when they were created.\n\n(4) A layout-design shall be deemed not to have been created\nuntil it has been fixed in a material form or incorporated into an\nintegrated circuit, whichever is earlier.\n\nPersons that qualify for protection"
+   }
+  },
+  {
+   "id": "MY-H470-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "chapter": {
+    "en": "Part II"
+   },
+   "heading": {},
+   "text": {
+    "en": "6. The protection given to a layout-design under this Act shall\nbe available to the following persons:\n\n(a) a natural person who—\n\n(i) is a national of, or is domiciled or ordinarily resident\nin, Malaysia or in a qualifying country; or\n\n(ii) has a real and effective industrial or commercial\nestablishment for the creation of layout-designs or\nfor the production of integrated circuits in Malaysia\nor in a qualifying country;\n\n(b) a legal entity that—\n\n(i) is incorporated or formed in Malaysia or in a\nqualifying country; or\n\n(ii) has a real and effective industrial or commercial\nestablishment for the creation of layout-designs or\nfor the production of integrated circuits in Malaysia\nor in a qualifying country;\n\n(c) the Government; and\n\n(d) the government of a qualifying country.\n\nRight holder of layout-design"
+   }
+  },
+  {
+   "id": "MY-H470-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7"
+   },
+   "chapter": {
+    "en": "Part II"
+   },
+   "heading": {},
+   "text": {
+    "en": "7. (1) Subject to any agreement to the contrary, the right holder\nof a layout-design shall be determined as follows:\n\n(a) if the layout-design is not created in pursuance of a\ncommission or in the course of employment, the creator\nof the layout-design is the right holder;\n\n(b) if the layout-design is created in pursuance of a\ncommission, the person who commissioned the layout-\ndesign is the right holder; and\n\n(c) if the layout-design is created by an employee in the\ncourse of his employment, the employer is the right holder.\n\n(2) A person can be a right holder even if he shares the right\nin the layout-design with a person who is not a qualifying person.\n\n(3) If the right in a layout-design is held by more than one\nperson—\n\n(a) a reference in this Act to the right holder is a reference\nto all the right holders; and\n\n(b) any requirement for the consent of a right holder requires\nthe consent of all the right holders.\n\n(4) If a layout-design is owned by more than one person and\nsuch persons include a person who is not a right holder within the\nmeaning of this Act, the protection specified in this Act shall\nonly apply in relation to that part of the layout-design that is\ncreated by the right holder and all references in this Act to a\nprotected layout-design shall be construed accordingly.\n\nDuration of protection"
+   }
+  },
+  {
+   "id": "MY-H470-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8"
+   },
+   "chapter": {
+    "en": "Part II"
+   },
+   "heading": {},
+   "text": {
+    "en": "8. (1) A layout-design shall be protected under this Act for a\nperiod of ten years from the date the layout-design is first\ncommercially exploited in Malaysia or elsewhere.\n\n(2) Notwithstanding subsection (1), the protection granted to\na layout-design under this Act shall lapse fifteen years after the\ndate the layout-design is created.\n\nLayout-Designs of Integrated Circuits          11\nPart III\n\nRIGHTS IN RELATION TO LAYOUT-DESIGNS\nAND INFRINGEMENTS\n\nRights of right holder\n\n9, The right holder of a protected layout-design shall have the\nfollowing rights:\n\n(a) the right to reproduce, and to authorize the reproduction\nof, all or a substantial part of his protected layout-design,\nwhether by incorporation into an integrated circuit or\notherwise; and\n\n(b) the right to commercially exploit, and to authorize the\ncommercial exploitation of, his protected layout-design,\nan integrated circuit in which the protected layout-design\nis incorporated or an article that contains an integrated\ncircuit in which the protected layout-design is incorporated.\n\nInfringement"
+   }
+  },
+  {
+   "id": "MY-H470-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10"
+   },
+   "chapter": {
+    "en": "Part III"
+   },
+   "heading": {},
+   "text": {
+    "en": "10. Subject to the provisions of this Act, it shall be an infringement\nof a right holder's right in a protected layout-design for any person\nto do or cause any other person to do any of the acts referred to\nin section 9 without the consent of the right holder.\n\nNon-infringing acts"
+   }
+  },
+  {
+   "id": "MY-H470-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11"
+   },
+   "chapter": {
+    "en": "Part III"
+   },
+   "heading": {},
+   "text": {
+    "en": "11. It shall not be an infringement of a right holder's right in a\nprotected layout-design—\n\n(a) if the reproduction is of any part of a protected layout-\ndesign that does not comply with the requirement of\noriginality referred to in subsection 5(1);\n\n(b) if the reproduction is done for a private purpose and not\nfor the purpose of commercial exploitation;\n\n(c) if the reproduction is done for the sole purpose of\nevaluation, analysis, research or teaching;\n\n(d) to use the results of any evaluation, analysis or research\ncarried out pursuant to paragraph (c) to create a different\nlayout-design that complies with the requirement of\noriginality referred to in subsection 5(1);\n\n(e) to do any of the acts referred to in section 9 in respect\nof the different layout-design referred to in paragraph\n(d);\n\n(f) for a right holder of another protected layout-design—\n\n(i) that is identical to the first-mentioned protected\nlayout-design; and\n\n(ii) that is independently created,\n\nto do any of the acts referred to in section 9 in respect\nof that other layout-design; or\n\n(g) to commercially exploit a copy of the protected layout-\ndesign, an integrated circuit in which the protected layout-\ndesign is incorporated or an article that contains an\nintegrated circuit in which the protected layout-design is\nincorporated after the copy, integrated circuit or article\nhas been commercially exploited, whether in Malaysia\nor elsewhere, by or with the consent of the right holder.\n\nInnocent infringement"
+   }
+  },
+  {
+   "id": "MY-H470-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12"
+   },
+   "chapter": {
+    "en": "Part III"
+   },
+   "heading": {},
+   "text": {
+    "en": "12. (1) The rights of a right holder in a protected layout-design\nare not infringed by a person who commercially exploits, or\nauthorizes the commercial exploitation of—\n\n(a) a copy of the protected layout-design;\n\n(b) an unauthorized integrated circuit, being an integrated\ncircuit in which the protected layout-design is incorporated;\nor\n\n(c) an article that contains an unauthorized integrated circuit\nreferred to in paragraph (b),\n\nif, at the time when the person acquired the copy, integrated circuit\nor article, the person did not know, and could not reasonably be\nexpected to have known, that the copy was unauthorized, that the\nintegrated circuit was unauthorized or that the article contained\nan unauthorized integrated circuit, as the case may be.\n\n(2) Ifa person referred to in subsection (1) becomes aware or\ncould reasonably be expected to have become aware that the copy\nwas unauthorized, that the integrated circuit was unauthorized or\nthat the article contains an unauthorized integrated circuit, as the\n\nLayout-Designs of Integrated Circuits          13\n\ncase may be, subsection (1) shall cease to apply to any subsequent\ncommercial exploitation of the copy, integrated circuit or article\nunless the person pays to the right holder such remuneration—\n\n(a) as may be agreed upon between the person and the right\nholder;\n\n(b) as may be determined by a method agreed upon between\nthe person and the right holder; or\n\n(c) in default of agreement, as may be determined by the\nHigh Court on the application of either the person or the\nright holder.\n\n(3) If the remuneration referred to in subsection (2) is to be\ndetermined by the High Court as provided under paragraph (2)(c),\nthe remuneration payable shall be an adequate remuneration in\nthe circumstances of the case, taking into account such royalties\nas would be reasonably payable under a freely negotiated licence\nin respect of such a protected layout-design.\n\nActions for infringement"
+   }
+  },
+  {
+   "id": "MY-H470-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13"
+   },
+   "chapter": {
+    "en": "Part III"
+   },
+   "heading": {},
+   "text": {
+    "en": "13. (1) Subject to this Act, a right holder may bring an action\nfor an infringement of his rights in a protected layout-design.\n\n(2) Subject to this Act, the relief that the High Court may\ngrant in an action under subsection (1) includes an injunction and\nthe High Court may impose such terms on the grant of the injunction\nas the High Court considers fit.\n\n(3) In addition to the injunction granted under subsection (2),\nthe High Court may, subject to this Act, make an order for damages\nor an account of profits or such other relief as the High Court\nconsiders fit.\n\n(4) If, in an action for an infringement of rights in a protected\nlayout-design, it is established that an infringement was committed\nbut that at the time of the infringement the defendant was not\naware or had no reasonable grounds for suspecting that the act\nconstituting the infringement was an infringement, the plaintiff\nshall not be entitled to any damages against the defendant in\nrespect of the infringement but shall be entitled to an account of\nprofits in respect of the infringement, whether any other relief is\ngranted or not.\n\n(5) In any action in which damages may be awarded, the High\nCourt may, having regard to all of the circumstances of the case\nincluding the flagrancy of the infringement and any benefit shown\nto have accrued to the defendant by reason of the infringement,\naward additional damages.\n\nLimitation of actions"
+   }
+  },
+  {
+   "id": "MY-H470-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14"
+   },
+   "chapter": {
+    "en": "Part III"
+   },
+   "heading": {},
+   "text": {
+    "en": "14. (1) An action to enforce the rights of a right holder in a\nprotected layout-design under this Part shall not be brought for an\ninfringement of those rights or any of those rights after the expiration\nof six years from the date on which the infringement occurred.\n\n(2) An action for an account of profits in respect of an\ninfringement of the rights of a right holder in a protected layout-\ndesign under this Part shall not be brought after the expiration of\nsix years from the date on which the infringement occurred.\n\nOrder for delivery up"
+   }
+  },
+  {
+   "id": "MY-H470-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15"
+   },
+   "chapter": {
+    "en": "Part III"
+   },
+   "heading": {},
+   "text": {
+    "en": "15. (1) A right holder of a protected layout-design may apply to\nthe High Court for an order that an integrated circuit or article in\nthe possession, custody or control of any person be delivered up\nto the right holder or to any other person that the High Court may\nspecify if the right holder has reason to believe that—\n\n(a) the integrated circuit in which a protected layout-design\nis incorporated is to be commercially exploited; or\n\n(b) the person knows or has reason to believe that the article\nhas been or is to be predominantly used to make integrated\ncircuits in which a protected layout-design is incorporated.\n\n(2) The High Court shall not make an order for delivery up\nunless it also makes, or it appears to the High Court that there are\ngrounds for making, an order under section 16.\n\n(3) A person to whom an integrated circuit or an article referred\nto in subsection (1) is delivered up shall, if an order under section\n16 has not been made at the time the order under this section is\nmade, retain the integrated circuit or article pending the making\nof the order, or a decision not to make the order, under section\n\nLayout-Designs of Integrated Circuits          15\n\nOrder for disposal"
+   }
+  },
+  {
+   "id": "MY-H470-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16"
+   },
+   "chapter": {
+    "en": "Part III"
+   },
+   "heading": {},
+   "text": {
+    "en": "16. (1) A right holder of a protected layout-design or a person\nordered to deliver up an integrated circuit or article under section\n15 may apply to the High Court for—\n\n(a) an order for disposal; or\n\n(b) a decision that no order for disposal be made.\n\n(2) An order for disposal may order that the integrated circuit\nor article delivered up under section 15—\n\n(a) be forfeited to the right holder; or\n(b) be destroyed or disposed of as the High Court may specify.\n\n(3) In deciding what order or decision to make under subsection\n(1), the High Court shall have regard to whether the other remedies\navailable to the applicant would be adequate to compensate the\napplicant and protect the interests of the applicant.\n\n(4) The High Court shall issue directions as to the service of\na notice of the application under this section on persons having\nan interest in the integrated circuit or article delivered up under\nsection 15.\n\n(5) Any person having an interest in the integrated circuit or\narticle delivered up under section 15 shall be entitled to—\n\n(a) appear in the proceedings under this section, whether or\nnot the person is served with a notice; and\n\n(b) appeal against any order made, whether or not that person\nappears in the proceedings under this section.\n\n(6) An order made under this section shall not take effect until\nthe end of the period within which notice of an appeal may be\ngiven or, if before the end of that period notice of appeal is duly\ngiven, until the final determination or abandonment of the\nproceedings on the appeal.\n\n(7) Ifthere is more than one person interested in the integrated\ncircuit or article delivered up under section 15, the High Court\nmay direct that the integrated circuit or article be sold or dealt\nwith in any other manner and the proceeds divided and shall\nmake any other order as it considers fit.\n\n(8) If the High Court decides that no order should be made\nunder this section, the person in whose possession, custody or\ncontrol the integrated circuit or article was before being delivered\nup under section 15 shall be entitled to its return and the High\nCourt may, on the application of that person or any person aggrieved\nby an order to deliver up made under section 15, make an order\nawarding compensation for any damage sustained by virtue of the\ndelivery up.\n\n(9) Nothing in this section shall render an advocate and solicitor\nliable to pay compensation for any damage sustained in respect of\nan act done by him in his professional capacity on behalf of a\nclient.\n\nPresumption of protection and right holder"
+   }
+  },
+  {
+   "id": "MY-H470-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17"
+   },
+   "chapter": {
+    "en": "Part III"
+   },
+   "heading": {},
+   "text": {
+    "en": "17. In any action to enforce the rights of a right holder under\nthis Part, it shall be presumed, unless a defendant puts the matter\nin issue, that in respect of the layout-design that is the subject-\nmatter of the action—\n\n(a) the layout-design is a protected layout-design; and\n\n(b) the plaintiff is the right holder of the protected layout-\ndesign.\n\nAffidavit evidence"
+   }
+  },
+  {
+   "id": "MY-H470-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18"
+   },
+   "chapter": {
+    "en": "Part III"
+   },
+   "heading": {},
+   "text": {
+    "en": "18. (1) In any action to enforce the rights of a right holder\nunder this Part, evidence may be submitted by affidavit asserting\nfacts relevant to show that—\n\n(a) the layout-design is a protected layout-design; and\n\n(b) the plaintiff is a right holder of the protected layout-\ndesign.\n\n(2) An affidavit under subsection (1) may be sworn by the\nright holder of the protected layout-design or by his authorized\nagent on his behalf.\n\n(3) A person who acts as an authorized agent of a right holder\nfor the purposes of subsection (1) shall submit such authorization\nin writing together with his affidavit in accordance with the\nprescribed rules of court.\n\nLayout-Designs of Integrated Circuits          17\n\n(4) An affidavit under subsection (1) shall be prima facle proof\nof tho facts contained in the affidavit.\n\n(S) If the High Court considers, on the application in good\nfaith of a party, that the deponent of an affidavit should be cross-\nexamined with respect to the matters sworn in the affidavit, the\naffidavit may not be used in the action unless the deponent appears\nas a witness for such cross-examination or the High Court before\nwhich the proceedings are being conducted, in its discretion, permits\nthe affidavit to be used without the deponent's so appearing.\n\n(6) Without prejudice to the powers of the High Court to award\ncosts, the High Court may award costs—\n\n(a) against a plaintiff—\n\n(i) who swears an affidavit under subsection (1) that\nis scandalous, irrelevant or otherwise oppressive;\nor\n\n(ii) if it is subsequently found that—\n\n(A) the layout-design is not a protected layout-\ndesign;\n\n(B) the plaintiff is not the right holder of the\nprotected layout-design; or\n\n(C) there is no infringement of the plaintiff's rights\nas a right holder of a protected layout-design;\n\n(b) against a defendant—\n\n(i) who applies to the High Court for the appearance\nof a deponent of an affidavit for the purpose of\ncross-examination with respect to the matters sworn\nin the affidavit; or\n\n(ii) who is subsequently found liable for the infringement\nof the plantiff's rights as a right holder of a protected\nlayout-design.\n\n(7) In awarding costs under subsection (6), the High Court\nshall have regard to the actual costs incurred by the defendant or\nplantiff, as the case may be, as a result of the affidavit sworn by\nthe plantiff or the application for the appearance of a deponent\nand the High Court may award costs under subsection (6) exceeding\nthe limit of costs, if any, that the High Court may award.\n\n18                           Laws of Malaysia                   Acr 601\nPart IV\nDEALINGS WITH LAYOUT-DESIGN RIGHTS\n\nAssignments and licences"
+   }
+  },
+  {
+   "id": "MY-H470-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "19. (1) A right in a protected layout-design shall be personal\nproperty and shall be transmissible by any means by which such\nproperty may be lawfully transmitted including by assignment, by\nlicence, by testamentary instrument and by devolution by operation\nof law.\n\n(2) An assignment or other transmission may be total or partial.\n\n(3) An assignment or other transmission shall not be effective\nagainst a third party unless—\n\n(a) the assignment or other transmission is in writing and\nsigned by or on behalf of the assignor; and\n\n(b) the third party has notice of the assignment or other\ntransmission, whether actual or constructive.\n\n(4) If the right in a protected layout-design is held by more\nthan one person, an assignment or licence granted by one right\nholder shall have effect as if the assignment or licence is also\ngranted by the other right holders, and subject to any agreement\nbetween the right holders, fees received by any of the right holders\nshall be divided equally between all the right holders.\n\n(5) A licence granted in respect of a right in a protected layout-\ndesign by a right holder binds each successor in title to the interest\nin the right of the right holder to the same extent as the licence\nwas binding on the right holder, except a purchaser in good faith\nfor value without notice (actual or constructive) of the licence\nand a person who derives title from the purchaser.\n\nFuture rights"
+   }
+  },
+  {
+   "id": "MY-H470-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "20. (1) If by an agreement made in relation to a future right in\na protected layout-design that is signed by or on behalf of the\nperson who would be the right holder on its coming into existence\nthe person purports to assign the future right in the protected\nlayout-design, wholly or partially, to another person (in this section\nreferred to as the \"assignee\"), then the right, on coming into\n\nLayout-Designs of Integrated Circuits           19\n\nexistence, shall vest in the assignee or his successor in title by\nvirtue of this subsection.\n\n(2) If at the time when a right in a protected layout-design\ncomes into existence the person who would be entitled to the\nright is dead, the right shall devolve as if, immediately before the\nperson's death, the person had been the right holder.\n\n(3) A licence granted in respect of a future right in a protected\nlayout-design by the prospective right holder binds each of his\nsuccessors in title to the prospective interest in the right to the\nsame extent as the licence was binding on the right holder, except\na purchaser in good faith for value without notice (actual or\nconstructive) of the licence and a person who derives title from\nthe purchaser.\n\nExclusive licensee"
+   }
+  },
+  {
+   "id": "MY-H470-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "21. (1) Anexclusive licensee shall have the same rights of action\nand shall be entitled to the same remedies for the infringement of\nthose rights against a successor in title to the right holder as he\nhas or is entitled to against the right holder.\n\n(2) An exclusive licensee shall have, except against the right\nholder, the same rights of action and shall be entitled to the same\nremedies in respect of matters occurring after the grant of the\nexclusive licence as if the licence had been an assignment.\n\n(3) An exclusive licensee's rights and remedies shall be\nconcurrent with the rights and remedies of the right holder.\n\n(4) In an action brought under Part III by the exclusive licensee\nby virtue of this section, a defence under this Act that would have\nbeen available to a defendant in the action if the action had been\nbrought by the right holder shall be available to the defendant as\nagainst the exclusive licensee.\n\nExercise of concurrent rights"
+   }
+  },
+  {
+   "id": "MY-H470-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "22. (1) If an action for the infringement of a right holder's right\nin a protected layout-design is brought by the right holder or by\nthe exclusive licensee under Part III and the action relates, wholly\nor partly, to an infringement in respect of which the right holder\n\nand the exclusive licensee have concurrent rights of action under\nthat Part, neither the right holder nor the exclusive licensee, as\nthe case may be, shall be entitled, except with the leave of the\nHigh Court, to proceed with the action in so far as it relates to\nthat infringement unless the other party is either joined as a plantiff\nin the action or added as a defendant.\n\n(2) Subsection (1) shall not apply to an application by a right\nholder or an exclusive licensee for interlocutory relief.\n\n(3) Without prejudice to subsections 18(6) and 18(7), a right\nholder or an exclusive licensee who is added as a defendant in an\naction under subsection (1) shall not be liable for any costs in the\naction unless he enters an appearance and takes part in the\nproceedings.\n\n(4) If an action for the infringement of the rights of a right\nholder in a protected layout-design is brought and the action relates,\nwholly or partly, to an infringement in respect of which a right\nholder and an exclusive licensee have concurrent rights of action—\n\n(a) the High Court shall, in assessing damages, take into\naccount the terms of the licence and any pecuniary remedy\npreviously awarded or available to either of them in respect\nof the infringement;\n\n(b) the High Court shall, if an account of profits is directed\nto be taken in respect of that infringement in that action,\napportion the profits between them as the High Court\nconsiders just and shall give such directions as the High\nCourt considers appropriate for giving effect to the\napportionment, subject to any agreement between them\nas to the application of those profits;\n\n(c) the High Court shall not, if an account of profits has\nbeen directed in favour of one of the parties in respect\nof an infringement, award damages in respect of the\nsame infringement to the other party; and\n\n(d) the High Court shall not, if an award of damages has\nbeen made or an account of profits has been directed in\nfavour of one of the parties in respect of an infringement,\ndirect that an account of profits be made in favour of the\nother party in respect of the same infringement.\n\nLayout-Designs of Integrated Circuits          21\n\n(5) Subsection (4) shall apply whether or not the right holder\nand the exclusive licensee are both parties to the action.\n\n(6) A right holder shall, by post or otherwise, notify any\nexclusive licensee who has concurrent rights of action in respect\nof an infringement of a right in a protected layout-design before\napplying for an order for delivery up under section 15, and the\nHigh Court may, on the application of the exclusive licensee,\nmake a delivery up order that it considers just having regard to\nthe terms of the licence.\n\nPART V\n\nUSE FOR PUBLIC NON-COMMERCIAL PURPOSE AND\nCOMPULSORY LICENSING\n\nInterpretation of Part V"
+   }
+  },
+  {
+   "id": "MY-H470-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23"
+   },
+   "chapter": {
+    "en": "PART V"
+   },
+   "heading": {},
+   "text": {
+    "en": "23. (1) In this Part, unless the context otherwise requires, \"public\nnon-commercial purpose\", means an act that is done—\n\n(a) for the defence or internal security of Malaysia; or\n\n(b) in the public interest.\n\n(2) If an exclusive licence is in operation in relation to any\nrights in a protected layout-design, the provisions of this Part\nshall apply as if references to the right holder of the rights in the\nprotected layout-design were references to the exclusive licensee.\n\nUse for public non-commercial purpose"
+   }
+  },
+  {
+   "id": "MY-H470-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24"
+   },
+   "chapter": {
+    "en": "PART V"
+   },
+   "heading": {},
+   "text": {
+    "en": "24. (1) An act done by the Government, or by a person designated\nin writing by the Minister, in relation to a protected layout-design\nshall not be an infringement of the rights of the right holder in\nthe protected layout-design if—\n\n(a) the act is done for a public non-commercial purpose;\nand\n\n(b) the act is authorized in writing by the Minister.\n(2) An authorization referred to in subsection (1) may be given\n\nbefore or after the act in respect of which it is given has been\ndone.\n\n(3) A right holder aggrieved by a decision of the Minister\nunder subsection (1) may appeal to the High Court.\n\n(4) The decision of the High Court on an appeal under subsection\n(3) shall be final.\n\nScope and nature of use for public non-commercial purpose"
+   }
+  },
+  {
+   "id": "MY-H470-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25"
+   },
+   "chapter": {
+    "en": "PART V"
+   },
+   "heading": {},
+   "text": {
+    "en": "25. (1) The authorization to do an act in relation to a protected\nlayout-design under section 24—\n\n(a) shall be both non-exclusive and non-assignable;\n\n(b) shall be limited to the public non-commercial purpose\nfor which the authorization under section 24 is given;\n\n(c) shall be subject to the terms of the authorization given\nunder section 24;\n\n(d) does not permit the sale of the protected layout-design,\na copy of the protected layout-design or an integrated\ncircuit in which the protected layout-design is incorporated\n(whether or not the integrated circuit is contained in\nanother article) to the public; and\n\n(e) shall be limited to the doing of the acts predominantly\nin Malaysia.\n\n(2) An act done under section 24 in relation to a protected\nlayout-design shall not be taken into account in calculating the\nduration of protection of the layout-design referred to in section\n\nDuty to inform right holder of use for public non-commercial\npurpose"
+   }
+  },
+  {
+   "id": "MY-H470-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26"
+   },
+   "chapter": {
+    "en": "PART V"
+   },
+   "heading": {},
+   "text": {
+    "en": "26. (1) Ifanactis done under section 24 in relation to a protected\nlayout-design, the Government or the person designated in writing\nby the Minister, as the case may be, shall—\n\n(a) if the act had been done in situations of national emergency\nor other circumstances of extreme urgency, as soon as\nreasonably practicable, inform the right holder that the\nact has been done; or\n\n(b) in any other case, inform the right holder promptly that\nthe act has been done.\n\nLayout-Designs of Integrated Circuits          23\n\n(2) The Government or the person designated in writing by\nthe Minister, as the case may be, shall give to the right holder\nsuch information about the doing of the act as the right holder\nmay require.\n\n(3) Nothing in subsection (1) or (2) shall require the Government\nor the person designated in writing by the Minister, as the case\nmay be, to inform the right holder or to disclose information to\nthe right holder if doing so would or might reasonably be expected\nto prejudice the defence or security of Malaysia.\n\nRight holder to be entitled to remuneration for use for public\nnon-commercial purpose"
+   }
+  },
+  {
+   "id": "MY-H470-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 27"
+   },
+   "chapter": {
+    "en": "PART V"
+   },
+   "heading": {},
+   "text": {
+    "en": "27. (1) Ifan act is done under section 24 in relation to a protected\nlayout-design, the Government or the person designated in writing\nby the Minister, as the case may be, shall pay to the right holder\nof the protected layout-design such remuneration—\n\n(a) as may be agreed upon between the Government or the\nperson, as the case may be, and the right holder;\n\n(b) as may be determined by a method agreed upon between\nthe Government or the person, as the case may be, and\nthe right holder; or\n\n(c) in default of agreement, as may be determined by the\nHigh Court on the application of either the Government\nor the person, as the case may be, or the right holder.\n\n(2) If the remuneration referred to in subsection (1) is to be\ndetermined by the High Court as provided under paragraph (1)(c),\nthe remuneration payable shall be an adequate remuneration in\nthe circumstances of the case, taking into account the economic\nvalue of the authorization under section 24.\n\nCompulsory licence"
+   }
+  },
+  {
+   "id": "MY-H470-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 28"
+   },
+   "chapter": {
+    "en": "PART V"
+   },
+   "heading": {},
+   "text": {
+    "en": "28. (1) A person who claims that he requires a licence to do\nany act referred to in section 9 in relation to a protected layout-\ndesign may apply to the High Court for the grant of a compulsory\nlicence on any of the following grounds:\n\n(a) that there is no production of the protected layout-design,\nany integrated circuit incorporating the protected layout-\n\ndesign or any article containing such an integrated circuit\nin Malaysia without any legitimate reason;\n\n(b) that there is no production of the protected layout-design,\nany integrated circuit incorporating the protected layout-\ndesign or any article containing such an integrated circuit\nfor sale in Malaysia; or\n\n(c) that there is production of the protected layout-design,\nintegrated circuits incorporating the protected layout-design\nor articles containing such integrated circuits in Malaysia\nbut the protected layout-design, integrated circuit\nincorporating the protected layout-design or the article\ncontaining such an integrated circuit produced is sold at\nunreasonably high prices or does not meet the public\ndemand without any legitimate reason.\n\n(2) An application to the High Court under subsection (1) shall\nonly be made after the applicant for the compulsory licence has\nmade efforts to obtain authorization from the right holder on\nreasonable commercial terms and conditions but such efforts have\nnot been successful within a reasonable period of time.\n\n(3) Ifthe High Court is satisfied that any of the grounds referred\nto in subsection (1) is established, the High Court may make an\norder for the grant of a compulsory licence in accordance with\nthe application on such terms as the High Court considers fit.\n\n(4) The High Court shall specify in the order the remuneration\nto be paid to the right holder for the compulsory licence as the\nHigh Court considers reasonable.\n\n(5) For the purposes of subsection (4), the remuneration payable\nshall be an adequate remuneration in the circumstances of the\ncase, taking into account the economic value of the compulsory\nlicence granted under subsection (3).\n\nScope and nature of compulsory licence"
+   }
+  },
+  {
+   "id": "MY-H470-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Section 29"
+   },
+   "chapter": {
+    "en": "PART V"
+   },
+   "heading": {},
+   "text": {
+    "en": "29. (1) A compulsory licence granted under section 28 shall\nbe—\n\n(a) both non-exclusive and non-assignable; and\n\nLayout-Designs of Integrated Circuits          25\n\n(b) subject to the payment of the remuneration specified by\nthe High Court in the order made under subsection 28(3)\nto the right holder.\n\n(2) An act done under a compulsory licence granted under\nsection 28 in relation to a protected layout-design shall not be\ntaken into account in calculating the duration of protection of the\nlayout-design referred to in section 8.\n\nHigh Court may terminate compulsory licence"
+   }
+  },
+  {
+   "id": "MY-H470-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Section 30"
+   },
+   "chapter": {
+    "en": "PART V"
+   },
+   "heading": {},
+   "text": {
+    "en": "30. A compulsory licence granted under section 28 may, on the\napplication of any interested party, be terminated by the High\nCourt if the High Court is satisfied that the ground on which the\ncompulsory licence was granted has ceased to exist.\n\nPART VI\n\nMISCELLANEOUS\n\nJurisdiction of High Court"
+   }
+  },
+  {
+   "id": "MY-H470-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Section 31"
+   },
+   "chapter": {
+    "en": "PART VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "31. Notwithstanding any written law to the contrary, the High\nCourt shall have jurisdiction with respect to all actions and\napplications under this Act and the power to issue any direction\nor make any order or award in relation to any such action or\napplication.\n\nRegulations"
+   }
+  },
+  {
+   "id": "MY-H470-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Section 32"
+   },
+   "chapter": {
+    "en": "PART VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "32. The Minister may make regulations for all or any of the\nfollowing purposes:\n\n(a) prescribing the form in which notices are to be given\nunder this Act and requiring a person giving such notice,\neither at the time of giving the notice or at such other\ntime as may be prescribed, or at both times, to furnish\nevidence and to comply with such other conditions, if\nany, as may be prescribed;\n\n(b) prescribing the fees and charges payable under this Act\nand the manner for collecting and disbursing such fees\nand charges;\n\n(c) providing for such other matters as are contemplated by,\nor necessary for giving full effect to, the provisions of\nthis Act and for their due administration.\n\nSavings"
+   }
+  },
+  {
+   "id": "MY-H470-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Section 33"
+   },
+   "chapter": {
+    "en": "PART VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "33. (1) Nothing in this Act shall affect any right or privilege of\nany person, including the Government, under any written law,\nexcept in so far as that written law is inconsistent with this Act,\n\n(2) Nothing in this Act shall affect the rights of the Government\nor any person deriving title from the Government to sell, use or\notherwise deal with articles forfeited under the laws relating to\ncustoms matters.\n\nSS SS\n\nDICETAK OLEH\n\n PERCETAKAN NASIONAL MALAYSIA BERHAD,\n\nCAWANGAN KUALA LUMPUR\n\nBAGI PIHAK DAN DENGAN PERINTAH KERAJAAN MALAYSIA"
+   }
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "id": "PH-H14075",
+ "title": {
+  "zh": null,
+  "en": "An Act Authorizing the Employment of a Competent Person to Care for Philippine Commercial Interests in America.",
+  "orig": "An Act Authorizing the Employment of a Competent Person to Care for Philippine Commercial Interests in America."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1928-11-28",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3442",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 769,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1928/act_3442_1928.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03442_1928_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03442_1928_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14075-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The Governor-General is hereby authorized to employ a competent person under a three-year\ncontract, to cooperate with the Resident Commissioners, the Bureau of Insular Affairs of the War Department,\nUnited States of America, and such other agencies as have been or may hereafter be created by the Philippine\nGovernment to care for Philippine commercial interests in the United States. The person so employed shall\nreceive as compensation the sum of twelve thousand pesos, Philippine currency, per annum, payable at the\nend of each month. The necessary expenses for carrying out the purposes of this Act while in force and effect\nshall be provided annually in the Appropriation Act."
+   }
+  },
+  {
+   "id": "PH-H14075-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on January first, nineteen hundred and twenty-nine. Approved,"
+   }
+  }
+ ]
+}

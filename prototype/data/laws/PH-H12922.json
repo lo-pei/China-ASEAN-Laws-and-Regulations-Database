@@ -1,0 +1,72 @@
+{
+ "id": "PH-H12922",
+ "title": {
+  "zh": null,
+  "en": "An Act Authorizing Municipal Councils to Appropriate At the Beginning of Each Year a Certain Sum Out of the School Funds for the Creation and Maintenance of Night Schools in English in their Respective Municipalities, Under Certain Conditions.",
+  "orig": "An Act Authorizing Municipal Councils to Appropriate At the Beginning of Each Year a Certain Sum Out of the School Funds for the Creation and Maintenance of Night Schools in English in their Respective Municipalities, Under Certain Conditions."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1913-02-03",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2217",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1052,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1913/act_2217_1913.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02217_1913_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02217_1913_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12922-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Municipal councils are hereby authorized to appropriate at the beginning of each year a certain\nsum out of the school funds for the maintenance of night schools in English to be created by virtue of this Act\nin their respective municipalities, under the following conditions:\n(a) That one hundred pupils at least, with the assent of the school superintendent of the province, petition the\nmunicipal council for their creation.\n(b) That the salary of any teacher who is to attend and teach in said schools shall not be greater than twenty"
+   }
+  },
+  {
+   "id": "PH-H12922-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The superintendent shall appoint a teacher for each school, giving preference to the public school\nteachers of each municipality, and shall fix the salary in accord with the respective municipal council and\nsubject to the limitation contained in paragraph (5) of section one."
+   }
+  },
+  {
+   "id": "PH-H12922-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "The public good requiring the speedy enactment of this bill, the same shall take effect on its\npassage, in accordance with section one of Act Numbered Nineteen hundred and forty-five of the Philippine\nLegislature.\nEnacted, February 3, 1913."
+   }
+  }
+ ]
+}

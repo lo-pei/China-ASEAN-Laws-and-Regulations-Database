@@ -1,0 +1,72 @@
+{
+ "id": "PH-H12877",
+ "title": {
+  "zh": null,
+  "en": "An Act Remitting Certain Unpaid Land Taxes.",
+  "orig": "An Act Remitting Certain Unpaid Land Taxes."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1912-02-06",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2171",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 537,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1912/act_2171_1912.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02171_1912_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02171_1912_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12877-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "All unpaid taxes on machinery attached to and forming a part of real estate which accrued prior\nto January first, nineteen hundred and twelve, are hereby remitted."
+   }
+  },
+  {
+   "id": "PH-H12877-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "No tax shall be levied upon agricultural machinery attached to and a part of real estate unless it\nexceeds in value two hundred pesos."
+   }
+  },
+  {
+   "id": "PH-H12877-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "The public good requiring the speedy enactment of this bill, the same shall take effect on its\npassage, in accordance with section one of Act Numbered Nineteen hundred and forty-five of the Philippine\nLegislature.\nEnacted, February 6, 1912."
+   }
+  }
+ ]
+}

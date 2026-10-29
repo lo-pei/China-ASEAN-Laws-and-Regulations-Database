@@ -1,0 +1,62 @@
+{
+ "id": "PH-H22172",
+ "title": {
+  "zh": null,
+  "en": "Penalizing Squatting and Other Similar Acts",
+  "orig": "Penalizing Squatting and Other Similar Acts"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1975-08-20",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 772",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 848,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_00772_1975_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_00772_1975_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22172-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Any person who, with the use of force, intimidation or threat, or taking advantage of the absence\nor tolerance of the landowner, succeeds in occupying or possessing the property of the latter against his will\nfor residential commercial or any other purposes, shall be punished by an imprisonment ranging from six\nmonths to one year or a fine of not less than one thousand nor more than five thousand pesos at the discretion\nof the court, with subsidiary imprisonment in case of insolvency.\nIf the offender is a corporation or association, the maximum penalty of five years and the fine of five thousand\npesos shall be imposed upon the president, director, manager or managing partners thereof."
+   }
+  },
+  {
+   "id": "PH-H22172-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This decree shall take effect immediately.\nDone in the City of Manila, this 20th day of August, in the year of Our Lord, nineteen hundred and\nseventy-five."
+   }
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "id": "PH-H14116",
+ "title": {
+  "zh": null,
+  "en": "An Act to Appropriate the Sum of Twenty-Four thousand Pesos, to Be Used to Purchase or Expropriate the Land on Which Doctor Jose Rizal Was Born, and for Other",
+  "orig": "An Act to Appropriate the Sum of Twenty-Four thousand Pesos, to Be Used to Purchase or Expropriate the Land on Which Doctor Jose Rizal Was Born, and for Other"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1928-12-07",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3483",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 710,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1928/act_3483_1928.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03483_1928_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03483_1928_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14116-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The sum of twenty-four thousand pesos, or so much thereof as may be necessary, is hereby\nappropriated, out of any general funds of the Insular Government not otherwise appropriated, to be expended\nfor the acquisition by purchase, expropriation or otherwise, of the land, with the improvements thereon, that\nformerly belonged to the parents of Doctor Jose Rizal and on which the latter was born, situated in the\nmunicipality of Calamba, Province of Laguna, Philippine Islands, and to convey the same, upon its\nacquisition, to the aforesaid municipality, subject to the obligation imposed by Act Numbered Twenty-nine\nhundred and sixty-three."
+   }
+  },
+  {
+   "id": "PH-H14116-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, December 7, 1928."
+   }
+  }
+ ]
+}

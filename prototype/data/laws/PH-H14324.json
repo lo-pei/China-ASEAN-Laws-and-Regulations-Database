@@ -1,0 +1,62 @@
+{
+ "id": "PH-H14324",
+ "title": {
+  "zh": null,
+  "en": "An Act Amending Section Ten of Act Numbered thirty-Four Hundred and Ninety-Five, Granting to the Robert Dollar Company a Franchise to Construct, Maintain, and Operate in the Philippine Islands stations for the Reception and Transmission of Wireless Long Distance Messages and Prescribing the Conditions of the Same.",
+  "orig": "An Act Amending Section Ten of Act Numbered thirty-Four Hundred and Ninety-Five, Granting to the Robert Dollar Company a Franchise to Construct, Maintain, and Operate in the Philippine Islands stations for the Reception and Transmission of Wireless Long Distance Messages and Prescribing the Conditions of the Same."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1930-11-20",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3692",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 769,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1930/act_3692_1930.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03692_1930_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03692_1930_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14324-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section ten of Act Numbered Thirty-four hundred and ninety-five is hereby amended to read as\n\"Section 10. The grantee shall be liable to pay the same taxes on its real property, exclusive of the franchise,\nas other persons or corporations are now or hereafter may be required by law to pay. The grantee shall further\npay to the Insular Treasurer each year, within ten days after the audit and approval of the accounts as\nprescribed in section nine of this Act, one and one half per centum of all gross receipts from business\ntransacted under this franchise by the said grantee in the Philippine Islands and the said percentage shall be in\nlieu of all taxes on the franchise or earnings thereof.\""
+   }
+  },
+  {
+   "id": "PH-H14324-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, November 20, 1930."
+   }
+  }
+ ]
+}

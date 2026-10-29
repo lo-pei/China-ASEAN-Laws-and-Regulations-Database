@@ -1,0 +1,62 @@
+{
+ "id": "PH-H12572",
+ "title": {
+  "zh": null,
+  "en": "Acts No. 1863  An Act Providing that the Provinces of Palawan and Mindoro Shall Have their Pro Rata Share of the Special Fund of Ten Per Centum of Internal-Revenue Collections, Created By Act Numbered Sixteen Hundred and Ninety-Five, and Payable to the Road and Bridge Fund of Certain Provinces.",
+  "orig": "Acts No. 1863  An Act Providing that the Provinces of Palawan and Mindoro Shall Have their Pro Rata Share of the Special Fund of Ten Per Centum of Internal-Revenue Collections, Created By Act Numbered Sixteen Hundred and Ninety-Five, and Payable to the Road and Bridge Fund of Certain Provinces."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1908-06-16",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 1863",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 392,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (HTML full text only)  |  https://lawphil.net/statutes/acts/act1908/act_1863_1908.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_01863_1908_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_01863_1908_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12572-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The Provinces of Palawan and Mindoro shall be entitled on the basis of their population to their\npro rata share of the special fund of ten per centum of internal-revenue collections created by act Numbered\nSixteen hundred and ninety-five for payment to the road and bridge fund of certain provinces."
+   }
+  },
+  {
+   "id": "PH-H12572-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "this Act shall take effect on July first, nineteen hundred and eight.\nEnacted, June 16, 1908."
+   }
+  }
+ ]
+}

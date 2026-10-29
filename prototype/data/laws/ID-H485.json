@@ -1,0 +1,305 @@
+{
+ "id": "ID-H485",
+ "title": {
+  "zh": null,
+  "en": null,
+  "id": "GANTI RUGI DAN TATA CARA PELAKSANAANNYA PADA PERADILAN TATA USAHA NEGARA",
+  "orig": "GANTI RUGI DAN TATA CARA PELAKSANAANNYA PADA PERADILAN TATA USAHA NEGARA"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02c",
+ "language": "id",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "1991",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU43-1991",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 19,
+ "chars": 13238,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PP%20NO%2043%20TH%201991.pdf&fl=P03669"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\01_宪法与基础法\\印尼_文本_1991_GANTI RUGI DAN TATA CARA PELAKSANAANNYA PADA PERADILAN TATA USAHA NEGARA.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 19 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H485-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\n\nDalam Peraturan Pemerintah ini yang dimaksud dengan:\n\n1. Ganti Rugi adalah pembayaran sejumlah uang kepada orang atau\nbadan hukum perdata atas beban Badan Tata Usaha Negara\nberdasarkan putusan Pengadilan Tata Usaha Negara karena adanya\nkerugian materiil yang diderita oleh penggugat.\n\n2. Kompensasi adalah pembayaran sejumlah uang kepada orang atas\nbeban Badan Tata Usaha Negara oleh karena putusan Pengadilan\nTata Usaha Negara di bidang kepegawaian tidak dapat atau tidak\nsempurna dilaksanakan oleh Badan Tata Usaha Negara.\n\n\nBAB II\nGANTI RUGI"
+   }
+  },
+  {
+   "id": "ID-H485-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\n\n(1) Ganti Rugi yang menjadi tanggung jawab Badan Tata Usaha\nNegara Pusat, dibebankan pada Anggaran Pendapatan dan\nBelanja Negara (APBN).\n\n(2) Ganti Rugi yang menjadi tanggung jawab Badan Tata Usaha\nNegara Daerah, dibebankan pada Anggaran Pendapatan dan\nBelanja Daerah (APBD).\n\n(3) Ganti Rugi yang menjadi tanggung jawab Badan Tata Usaha\nNegara di luar ketentuan ayat (1) dan ayat (2), menjadi beban\nkeuangan yang dikelola oleh badan itu sendiri.\n\n\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H485-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\n\n(1) Besarnya ganti rugi yang dapat diperoleh penggugat paling sedikit\nRp. 250.000,- (dua ratus lima puluh ribu rupiah), dan paling\nbanyak Rp. 5.000.000,- (lima juta rupiah), dengan\nmemperhatikan keadaan yang nyata.\n\n(2) Ganti rugi yang telah ditetapkan dalam putusan Pengadilan Tata\nUsaha Negara jumlahnya tetap dan tidak berubah sekalipun ada\ntenggang waktu antara tanggal ditetapkannya putusan tersebut\ndengan waktu pembayaran ganti rugi."
+   }
+  },
+  {
+   "id": "ID-H485-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\n\n(1) Tata cara pembayaran ganti rugi sebagaimana dimaksud dalam\nPasal 2 ayat (1) diatur lebih lanjut oleh Menteri Keuangan.\n\n(2) Tata cara pembayaran ganti rugi sebagaimana dimaksud dalam\nPasal 2 ayat (2) diatur lebih lanjut oleh Menteri Dalam Negeri."
+   }
+  },
+  {
+   "id": "ID-H485-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\n\nPelaksanaan pembayaran ganti rugi sebagaimana dimaksud dalam\nPasal 2 ayat (3) dilakukan oleh masing-masing pimpinan Badan yang\nbersangkutan."
+   }
+  },
+  {
+   "id": "ID-H485-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\n\n(1) Putusan Pengadilan Tata Usaha Negara yang berisikan kewajiban\npemberian ganti rugi sebagaimana dimaksud dalam Pasal 2\ndikirimkan kepada para pihak oleh Pengadilan Tata Usaha Negara\nyang menetapkan putusan, paling lama dalam jangka waktu 3\n(tiga) hari setelah putusan tersebut ditetapkan.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\n(2) Apabila putusan Pengadilan sebagaimana dimaksud dalam ayat\n(1) ditetapkan oleh Pengadilan Tinggi Tata Usaha Negara atau\noleh Mahkamah Agung, maka putusan tersebut dikirimkan pula\nkepada Pengadilan Tata Usaha Negara tingkat pertama."
+   }
+  },
+  {
+   "id": "ID-H485-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\n\n(1) Permintaan pelaksanaan putusan Pengadilan, diajukan oleh pihak\nyang bersangkutan kepada Badan Tata Usaha Negara dalam\njangka waktu paling lambat 30 (t iga puluh) hari sejak tanggal\npenerimaan salinan putusan Pengadilan.\n\n(2) Badan Tata Usaha Negara yang menerima permintaan\nsebagaimana dimaksud dalam ayat (1), memberitahukan kepada\npihak yang mengajukan permintaan perihal telah diterimanya\npermintaan tersebut.\n\n(3) Pemberitahuan sebagaimana dimaksud dalam ayat (2)\ndisampaikan melalui surat tercatat dalam tenggang waktu 30\n(tiga puluh) hari sejak tanggal penerimaan permintaan tersebut."
+   }
+  },
+  {
+   "id": "ID-H485-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n\nApabila pembayaran ganti rugi tidak dapat dilaksanakan oleh Badan\nTata Usaha Negara dalam tahun anggaran yang sedang berjalan, maka\npembayaran ganti rugi dimasukkan dan dilaksanakan dalam tahun\nanggaran berikutnya.\n\n\n\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nBAB III\nKOMPENSASI"
+   }
+  },
+  {
+   "id": "ID-H485-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n\nDalam hal putusan Pengadilan Tata Usaha Negara yang menyangkut\nrehabilitasi tidak dapat atau tidak dapat dengan sempurna\ndilaksanakan, maka Badan Tata Usaha Negara yang bersangkutan\ndalam tenggang waktu 30 (tiga puluh) hari sejak diterimanya putusan\nPengadilan, memberitahukan perihal tersebut kepada Pengadilan Tata\nUsaha Negara yang memutus di tingkat pertama dengan tembusan\nkepada penggugat."
+   }
+  },
+  {
+   "id": "ID-H485-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\n\nPenggugat dalam tenggang waktu 30 (tiga puluh) hari setelah\nmenerima pemberitahuan sebagaimana dimaksud dalam Pasal 9, dapat\nmengajukan permohonan kepada Ketua Pengadilan Tata Usaha Negara\nagar tergugat dibebani kewajiban untuk membayar kompensasi."
+   }
+  },
+  {
+   "id": "ID-H485-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\n\nKetua Pengadilan Tata Usaha Negara menerima permohonan\nsebagai-mana dimaksud dalam Pasal 10, memanggil Badan Tata Usaha\nNegara dan penggugat untuk mengupayakan tercapainya kesepakatan\nbesarnya jumlah kompensasi."
+   }
+  },
+  {
+   "id": "ID-H485-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n\nApabila Ketua Pengadilan Tata Usaha Negara tidak dapat\nmengupayakan tercapainya kesepakatan sebagaimana dimaksud dalam\nPasal 11, maka Ketua Pengadilan Tata Usaha Negara setelah\nmempertimbangkan kepentingan kedua belah pihak menetapkan\nbesarnya kompensasi.\n\n\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H485-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\n\n(1) Apabila salah satu atau para  pihak tidak dapat menyetujui\nbesarnya kompensasi yang ditetapkan oleh Ketua Pengadilan Tata\nUsaha Negara sebagaimana dimaksud dalam Pasal 12 maka dalam\ntenggang waktu 30 (tiga puluh) hari sejak diterimanya ketetapan\ntersebut pihak-pihak yang bersangkutan dapat mengajukan\nkepada Mahkamah Agung untuk minta ditetapkan kembali\nbesarnya kompensasi.\n\n(2) Ketetapan Mahkamah Agung mengenai besarnya kompensasi\nmerupakan ketetapan akhir dan dalam tenggang waktu 7 (tujuh)\nhari setelah ditetapkannya ketetapan tersebut dikirimkan kepada\npara pihak dan Ketua Pengadilan Tata Usaha Negara yang\nmemutus tingkat pertama."
+   }
+  },
+  {
+   "id": "ID-H485-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\n\n(1) Besarnya kompensasi sebagaimana dimaksud dalam Pasal 10\npaling sedikit Rp. 100.000,- (seratus ribu rupiah) dan paling\nbanyak Rp. 2.000. 000,- (dua juta rupiah), dengan\nmemperhatikan keadaan yang nyata.\n\n(2) Besarnya kompensasi yang telah ditetapkan oleh Ketua\nPengadilan Tata Usaha Negara atau Mahkamah Agung jumlahnya\ntetap dan tidak berubah sekalipun ada tenggang waktu antara\ntanggal ditetapkannya ketetapan tersebut dengan waktu\npembayaran kompensasi.\n\n\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H485-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\n\n(1) Segera setelah menerima ketetapan Mahkamah Agung tentang\nbesarnya kompensasi, Ketua Pengadilan Tata Usaha Negara\nmeminta secara tertulis agar Badan Tata Usaha Negara yang\nbersangkutan melaksanakan pembayaran kompensasi tersebut.\n\n(2) Tembusan surat permintaan sebagaimana dimaksud dalam ayat\n(1) diberitahukan kepada penggugat."
+   }
+  },
+  {
+   "id": "ID-H485-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\n\nApabila pembayaran kompensasi tidak dapat dilaksanakan oleh Badan\nTata Usaha Negara dalam tahun anggaran yang sedang berjalan, maka\npembayaran kompensasi dimasukkan dan dilaksanakan dalam tahun\nanggaran berikutnya.\n\n\nBAB IV\nKETENTUAN LAIN"
+   }
+  },
+  {
+   "id": "ID-H485-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\n\nPutusan Pengadilan Tata Usaha Nega ra yang membebankan ganti rugi\nkepada Badan Tata Usaha Negara, tidak mengurangi hak negara untuk\nmenjatuhkan sanksi administratif terhadap Pejabat Tata Usaha Negara\nberdasarkan peraturan perundang-undangan yang berlaku.\n\n\n\n\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nBAB V\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H485-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\n\nPeraturan Pemerintah ini dapat disebut Peraturan Pemerintah tentang\nGanti Rugi Tata Usaha Negara."
+   }
+  },
+  {
+   "id": "ID-H485-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\n\nPeraturan Pemerintah ini mulai berlaku sejak tanggal diundangkan.\n\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran\nNegara Republik Indonesia.\n\nDitetapkan di Jakarta\npada tanggal 5 Juli 1991\nPRESIDEN REPUBLIK INDONESIA\n\n    ttd\n\n           SOEHARTO\n\nDiundangkan di Jakarta\npada tanggal 5 Juli 1991\n\nMENTERI/SEKRETARIS NEGARA\n   REPUBLIK INDONESIA\n\n           ttd\n\n    MOERDIONO\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nPENJELASAN\nATAS\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nNOMOR 43 TAHUN 1991\nTENTANG\nGANTI RUGI DAN TATA CARA PELAKSANAANNYA\nPADA PERADILAN TATA USAHA NEGARA\n\nI. UMUM\n\n 1. Negara Republik Indonesia sebagai Negara hukum yang\nberdasarkan Pancasila dan Undang-Undang Dasar 1945 menjamin\npersamaan kedudukan warga masyarakat dalam hukum. Prinsip\nini disesuaikan dengan pandangan hidup dan kepribadian bangsa\nIndonesia, sehingga dapat diupayakan tercapainya keserasian,\nkeseimbangan, dan keselarasan antara kepentingan perseorangan\ndan kepentingan masyarakat atau kepentingan umum.\n\n  Peradilan Tata Usaha Negara yang dibentuk berdasarkan\nUndang-undang Nomor 5 Tahun 1986 tentang Peradilan Tata\nUsaha Negara adalah dalam rangka memberikan perlindungan\nhukum bagi pencari keadilan, yang merasa dirugikan oleh suatu\nkeputusan Tata Usaha Negara.\n\n 2. Hakim pada Peradilan Tata Usaha Negara oleh Undang-undang\ndimaksud di atas diberi tugas dan wewenang untuk memeriksa,\nmengadili, memutus, dan menyelesaikan sengketa Tata Usaha\nNegara.\n\n  Sejalan dengan kewenangan tersebut, Hakim dapat memutuskan\ndan menetapkan bahwa Badan Tata Usaha Negara sebagai\ntergugat dibebani kewajiban untuk membayar ganti rugi kepada\npenggugat. Pembayaran sejumlah uang juga dapat dibebankan\nkepada Badan Tata Usaha Negara sebagai kompensasi karena\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nputusan Pengadilan di bidang kepegawaian tidak dapat atau tidak\nsempurna dilaksanakan. Baik pembayaran ganti rugi maupun\npembayaran sejumlah uang sebagai kompensasi yang dibebankan\nkepada Badan Tata Usaha Negara merupakan upaya untuk\nmemulihkan keseimbangan kerugian materiil yang diderita\npenggugat.\n\n 3. Sesuai dengan ketentuan yang berlaku di bidang keuangan\nnegara, pengelolaan keuangan Negara ada yang dimasukkan\ndalam Anggaran Pendapatan dan Belanja Negara, Anggaran\nPendapatan dan Belanja Daerah atau pengelolaan langsung oleh\nBadan Tata Usaha Negara tertentu.\n\n  Oleh karena itu pelaksanaan ganti rugi dapat dibebankan pada\nAnggaran Pendapatan dan Belanja Negara, Anggaran Pendapatan\ndan Belanja Daerah, atau Badan Tata Usaha Negara yang\nlangsung mengelola keuangannya sendiri.\n\n 4. Pembayaran ganti rugi yang diatur dalam Peraturan Pemerintah\nini hanya terbatas pada pembayaran ganti rugi yang diputuskan\noleh Peradilan Tata Usaha Negara. Sejalan dengan prinsip dasar\ndalam pelaksanaan putusan Pengadilan, maka putusan Peradilan\nTata Usaha Negara tentang ganti rugi yang dapat dilaksanakan\nhanya putusan yang telah mempunyai kekuatan hukum tetap.\n\nII. PASAL DEMI PASAL\n Pasal 1\n  A n g k a  1\n   C u k u p  j e l a s\n\n  A n g k a  2\nSuatu putusan Peradilan Tata Usaha Negara di bidang\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nkepegawaian adakalanya tidak dapat direalisir. Dalam hal\nBadan Peradilan tersebut menetapkan bahwa seseorang\npegawai tidak bersalah melakukan suatu perbuatan yang\nsemula disangkakan kepadanya, maka pegawai yang\nbersangkutan pada prinsipnya dikembalikan kepada status dan\njabatan semula (pegawai tersebut direhabilitasi). Tetapi\nberhubung terjadinya perubahan keadaan yang tidak\nmemungkinkan pegawai yang bersangkutan dikembalikan pada\njabatan semula, maka pegawai tersebut dapat meminta\nkompensasi berupa sejumlah uang.\n Pasal 2\n  Ayat (1)\n   C u k u p  j e l a s\n  Ayat (2)\nYang dimaksud dengan Badan Tata Usaha Negara Daerah\nadalah Badan yang mengeluarkan keputusan Tata Usaha\nNegara atas nama Pemerintah Daerah.\n  Ayat (3)\nYang dimaksud dengan Badan Tata Usaha Negara dalam hal ini\nadalah Badan Tata Usaha Negara yang mengelola keuangan\nsecara tersendiri.\n Pasal 3\n  Ayat (1)\n   C u k u p  j e l a s\n  Ayat (2)\n Ketentuan ini mengandung arti bahwa sekalipun terdapat\ntenggang waktu antara saat ditetapkannya putusan Pengadilan\nTata Usaha Negara dengan pelaksanaan pembayaran ganti\nrugi, tetapi hal ini tidak mempengaruhi jumlah ganti rugi\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nyang telah diputuskan oleh Hakim Tata Usaha Negara. Dengan\ndemikian terhadap jumlah ganti rugi tersebut tidak\ndimungkinkan untuk dimintakan bunga sebagai tambahan atas\nnilai ganti rugi.\n Pasal 4\n  Ayat (1)\n   C u k u p  j e l a s\n  Ayat (2)\n   C u k u p  j e l a s\n Pasal 5\nYang dimaksud dengan \"pimpinan\"  ialah pejabat yang berwenang\nmembebani keuangan.\n Pasal 6\n  Ayat (1)\nKetentuan tentang batas waktu penyampaian putusan\nPengadilan ini adalah sesuai dengan penggarisan yang\nditetapkan dalam Pasal 120 ayat (1) Undang-undang Nomor 5\nTahun 1986 tentang Peradilan Tata Usaha Negara.\nNamun demikian, mengingat bahwa terdapat kemungkinan di\nantara perhitungan hari tersebut adalah hari libur, maka\ndalam Peraturan Pemerintah ini ditetapkan bahwa khusus\nuntuk penyampaian putusan Pengadilan yang dimaksud dengan\nhari adalah hari kerja.\n  Ayat (2)\n   C u k u p  j e l a s\n Pasal 7\n  Ayat (1)\nPengajuan permintaan pelaksanaan putusan Pengadilan\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\ndisampaikan oleh pihak yang berhak atas ganti rugi, yaitu\npihak penggugat dalam batas waktu yang telah ditentukan\ndalam ayat ini.\n  Ayat (2)\n   C u k u p  j e l a s\n  Ayat (3)\n   C u k u p  j e l a s\n Pasal 8\nApabila memungkinkan bagi Badan Tata Usaha Negara,\npembayaran ganti rugi dilaksanakan segera setelah diajukan\npermintaan pelaksanaan putusan Pengadilan Tata Usaha Negara\noleh pihak yang bersangkutan.\n Pasal 9\nKetentuan tentang prosedur kompensasi yang dituangkan dalam\nPeraturan Pemerintah ini pada hakekatnya adalah bersifat\nmenegaskan dan memperjelas penggarisan Pasal 117\nUndang-undang Nomor 5 Tahun 1986.\n\n Pasal 10\n  C u k u p  j e l a s\n Pasal 11\n  C u k u p  j e l a s\n\n Pasal 12\n  C u k u p  j e l a s\n Pasal 13\n  Ayat (1)\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n   C u k u p  j e l a s\n  Ayat (2)\nPengertian hari dalam ayat ini adalah sebagaimana dimaksud\ndalam penjelasan Pasal 6 ayat (1).\n Pasal 14\n  Ayat (1)\n   C u k u p  j e l a s\n  Ayat (2)\n   Lihat penjelasan Pasal 3 ayat (2).\n Pasal 15\n  Ayat (1)\n   C u k u p  j e l a s\n  Ayat (2)\n   C u k u p  j e l a s\n Pasal 16\n  Lihat penjelasan Pasal 8\n Pasal 17\n  C u k u p  j e l a s\n Pasal 18\n  C u k u p  j e l a s\n Pasal 19\n  C u k u p  j e l a s"
+   }
+  }
+ ]
+}

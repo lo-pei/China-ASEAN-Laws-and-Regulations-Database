@@ -1,0 +1,558 @@
+{
+ "id": "VN-H305",
+ "title": {
+  "zh": "地方政权组织法",
+  "en": "Law No. 110-SL/L.12 on organisation of local government",
+  "vi": "Luật Về việc Tổ chức chính quyền địa phương số 110-SL/L.12",
+  "orig": "Luật Về việc Tổ chức chính quyền địa phương số 110-SL/L.12",
+  "th": "พระราชบัญญัติข้อกำหนดการจัดตั้งรัฐบาลท้องถิ่น เลขที่ 110-SL/L.12",
+  "id": "Undang-Undang Pengaturan Susunan Pemerintahan Daerah No. 110-SL/L.12",
+  "ms": "Akta Peraturan Organisasi Kerajaan Tempatan No. 110-SL/L.12"
+ },
+ "country": "VN",
+ "countryName": "越南",
+ "layer": "intl",
+ "pack": "vn-p06",
+ "language": "vi",
+ "level": "law",
+ "category": "04_劳工与行政法",
+ "status": "active",
+ "promulgatedDate": "1958",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "国会",
+ "docNumber": "110-SL/L.12",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 43,
+ "chars": 21637,
+ "source": {
+  "name": "越南法律数据库（vbpl.vn 官方公报文本）",
+  "url": "https://vbpl.vn/van-ban/chi-tiet/luat-ve-viec-to-chuc-chinh-quyen-dia-phuong-so-110-sl-l-12--957"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\VN\\04_劳工与行政法\\1958_110-SL L.12_Luật Về việc Tổ chức chính quyền địa phương số 110-SL L.12.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 43 条；逐字未改写（源自 VN）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "VN-H305-A1",
+   "no": 1,
+   "noLabel": {
+    "vi": "Điều 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "vi": "Điều 1.\n\nChính quyền địa phương tổ chức như sau:\n\nCác khu tự trị, các thành phố trực thuộc trung ương, tỉnh, châu, thành phố trực thuộc tỉnh, thị xã, xã, thị trấn có Hội đồng nhân dân (HĐND) và Uỷ ban hành chính (UBHC).\n\nCác huyện có Uỷ ban hành chính.\n\nCác khu phố ở các thành phố và thị xã lớn có Ban hành chính khu phố. Tổ chức, nhiệm vụ, quyền hạn, lề lối làm việc của Ban hành chính khu phố do Thủ tướng Chính phủ quy định."
+   }
+  },
+  {
+   "id": "VN-H305-A2",
+   "no": 2,
+   "noLabel": {
+    "vi": "Điều 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "vi": "Điều 2.\n\nCác thành phố có thể chia thành khu phố có Hội đồng nhân dân và Uỷ ban hành chính. Điều kiện thành lập khu phố có Hội đồng nhân dân và Uỷ ban hành chính và tổ chức, nhiệm vụ, quyền hạn của chính quyền khu phố do Hội đồng Chính phủ quy định.\n\nCHƯƠNG THỨ HAI\n\nHỘI ĐỒNG NHÂN DÂN CÁC CẤP\n\nMỤC 1\n\nTỔ CHỨC"
+   }
+  },
+  {
+   "id": "VN-H305-A3",
+   "no": 3,
+   "noLabel": {
+    "vi": "Điều 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "vi": "Điều 3.\n\nHội đồng nhân dân các cấp là cơ quan quyền lực Nhà nước ở địa phương, do nhân dân bầu ra.\n\nSố lượng đại biểu Hội đồng nhân dân mỗi cấp và cách thức bầu cử do luật bầu cử quy định."
+   }
+  },
+  {
+   "id": "VN-H305-A4",
+   "no": 4,
+   "noLabel": {
+    "vi": "Điều 4"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "vi": "Điều 4.\n\nNhiệm kỳ Hội đồng nhân dân khu tự trị, thành phố trực thuộc trung ương, tỉnh là 3 năm.\n\nNhiệm kỳ Hội đồng nhân dân các cấp khác là 2 năm."
+   }
+  },
+  {
+   "id": "VN-H305-A5",
+   "no": 5,
+   "noLabel": {
+    "vi": "Điều 5"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "vi": "Điều 5.\n\nTrong nhiệm kỳ, nếu đại biểu Hội đồng nhân dân các cấp vì lý do gì mà không đảm nhiệm được chức vụ đại biểu, thì cử tri thuộc đơn vị bầu cử đã bầu ra đại biểu đó sẽ bầu người thay thế.\n\nMỤC 2\n\nNHIỆM VỤ VÀ QUYỀN HẠN"
+   }
+  },
+  {
+   "id": "VN-H305-A6",
+   "no": 6,
+   "noLabel": {
+    "vi": "Điều 6"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "vi": "Điều 6.\n\nTrong phạm vi địa phương và trong phạm vi quyền hạn của mình, căn cứ vào nhiệm vụ chung của Nhà nước và nhu cầu của địa phương, Hội đồng nhân dân lãnh đạo các ngành công tác, các mặt sinh hoạt, và quyết định tất cả công việc Nhà nước trong phạm vi địa phương được quyền quản lý, dưới sự lãnh đạo tập trung và thống nhất của trung ương."
+   }
+  },
+  {
+   "id": "VN-H305-A7",
+   "no": 7,
+   "noLabel": {
+    "vi": "Điều 7"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "vi": "Điều 7.\n\nTrong phạm vi địa phương và trong phạm vi luật lệ quy định, Hội đồng nhân dân khu tự trị, thành phố trực thuộc trung ương, tỉnh, châu, thành phố trực thuộc tỉnh, có nhiệm vụ và quyền hạn như sau:\n\n1) Bảo đảm sự tôn trọng và chấp hành luật lệ của Nhà nước và nghị quyết của cấp trên.\n\n2) Ra những nghị quyết thi hành trong phạm vi địa phương.\n\nNhững nghị quyết thuộc quyền xét duyệt của cấp trên theo luật lệ quy định phải được cấp có thẩm quyền thông qua trước khi ban hành.\n\n3) Căn cứ vào kế hoạch chung của Nhà nước, quyết định kế hoạch kiến thiết kinh tế, kiến thiết văn hoá, công tác xã hội và sự nghiệp lợi ích công cộng.\n\n4) Căn cứ vào kế hoạch chung của cấp trên, quyết định những công việc thuộc nhiệm vụ xây dựng quân đội, củng cố quốc phòng trong địa phương.\n\n5) Thẩm tra và phê chuẩn dự toán và quyết toán ngân sách.\n\n6) Bầu cử uỷ viên Uỷ ban hành chính cấp mình.\n\n7) Thẩm tra các báo cáo công tác của Uỷ ban hành chính cấp mình.\n\n8) Sửa đổi hoặc huỷ bỏ những nghị quyết không thích đáng của Uỷ ban hành chính cấp mình, của Hội đồng nhân dân và Uỷ ban hành chính cấp dưới.\n\nXét duyệt những nghị quyết của Hội đồng nhân dân và Uỷ ban hành chính cấp dưới trong các trường hợp do luật lệ quy định.\n\n9) Bảo vệ tài sản công cộng.\n\n10) Bảo vệ trật tự an ninh chung.\n\n11) Bảo đảm quyền công dân, bảo đảm quyền bình đẳng của các dân tộc.\n\nTrong sự thực hành các nhiệm vụ và quyền hạn nói trên, Hội đồng nhân dân các khu tự trị chiếu theo pháp luật mà thực hiện các quyền lợi của khu tự trị."
+   }
+  },
+  {
+   "id": "VN-H305-A8",
+   "no": 8,
+   "noLabel": {
+    "vi": "Điều 8"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "vi": "Điều 8.\n\nTrong phạm vi địa phương và trong phạm vi luật lệ quy định, Hội đồng nhân dân thị xã, xã, thị trấn, có nhiệm vụ và quyền hạn như sau:\n\n1) Bảo đảm sự tôn trọng và chấp hành luật lệ của Nhà nước và nghị quyết của cấp trên.\n\n2) Ra những nghị quyết thi hành trong phạm vi địa phương.\n\nNhững nghị quyết thuộc thẩm quyền xét duyệt của cấp trên theo luật lệ quy định phải được cấp có thẩm quyền thông qua trước khi ban hành.\n\n3) Căn cứ vào kế hoạch chung của cấp trên quyết định kế hoạch sản xuất nông nghiệp, thủ công nghiệp và công nghiệp, quyết định kế hoạch về sự nghiệp hợp tác tương trợ và các công tác kinh tế khác.\n\n4) Căn cứ vào kế hoạch chung của cấp trên, quyết định kế hoạch thực hiện công tác văn hoá, xã hội.\n\n5) Căn cứ vào kế hoạch chung của cấp trên, quyết định kế hoạch thực hiện công trình lợi ích công cộng.\n\n6) Thẩm tra và phê chuẩn dự toán và quyết toán ngân sách.\n\n7) Căn cứ vào kế hoạch chung của cấp trên, quyết định kế hoạch thực hiện các công tác quân sự trong địa phương.\n\n8) Bầu cử uỷ viên Uỷ ban hành chính cấp mình (và Uỷ ban hành chính huyện nếu là các Hội đồng nhân dân xã, thị trấn).\n\n9) Thẩm tra các báo cáo công tác của Uỷ ban hành chính cấp mình.\n\n10) Sửa đổi hoặc huỷ bỏ những nghị quyết không thích đáng của Uỷ ban hành chính cấp mình.\n\n11) Bảo vệ tài sản công cộng.\n\n12) Bảo vệ trật tự, an ninh chung.\n\n13) Bảo đảm quyền công dân, bảo đảm quyền bình đẳng của các dân tộc."
+   }
+  },
+  {
+   "id": "VN-H305-A9",
+   "no": 9,
+   "noLabel": {
+    "vi": "Điều 9"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "vi": "Điều 9.\n\nHội đồng nhân dân các cấp có quyền bãi miễn uỷ viên Uỷ ban hành chính do mình bầu ra.\n\nMỤC 3\n\nCHẾ ĐỘ LÀM VIỆC"
+   }
+  },
+  {
+   "id": "VN-H305-A10",
+   "no": 10,
+   "noLabel": {
+    "vi": "Điều 10"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "vi": "Điều 10.\n\nHội nghị Hội đồng nhân dân do Uỷ ban hành chính cùng cấp triệu tập."
+   }
+  },
+  {
+   "id": "VN-H305-A11",
+   "no": 11,
+   "noLabel": {
+    "vi": "Điều 11"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "vi": "Điều 11.\n\nHội đồng nhân dân khu tự trị và tỉnh họp 6 tháng một lần.\n\nHội đồng nhân dân thành phố và châu họp 3 tháng một lần.\n\nHội đồng nhân dân thị xã, xã, thị trấn họp ít nhất 3 tháng một lần."
+   }
+  },
+  {
+   "id": "VN-H305-A12",
+   "no": 12,
+   "noLabel": {
+    "vi": "Điều 12"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "vi": "Điều 12.\n\nNgoài các khoá họp thường kỳ nói ở điều 11, Uỷ ban hành chính các cấp có thể triệu tập hội nghị bất thường của Hội đồng nhân dân cấp mình nếu xét thấy cần thiết, hoặc theo chỉ thị của cấp trên, hoặc khi có từ 1/3 tổng số đại biểu Hội đồng nhân dân trở lên yêu cầu."
+   }
+  },
+  {
+   "id": "VN-H305-A13",
+   "no": 13,
+   "noLabel": {
+    "vi": "Điều 13"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "vi": "Điều 13.\n\nMỗi kỳ họp hội nghị, Hội đồng nhân dân bầu ra Chủ tịch đoàn để điều khiển hội nghị.\n\nHội nghị có một hay nhiều thư ký do Chủ tịch đoàn đề cử và Hội đồng nhân dân thông qua."
+   }
+  },
+  {
+   "id": "VN-H305-A14",
+   "no": 14,
+   "noLabel": {
+    "vi": "Điều 14"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "vi": "Điều 14.\n\nKhi họp hội nghị, Hội đồng nhân dân các cấp có thể lập những Tiểu ban cần thiết trong thời gian hội nghị."
+   }
+  },
+  {
+   "id": "VN-H305-A15",
+   "no": 15,
+   "noLabel": {
+    "vi": "Điều 15"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "vi": "Điều 15.\n\nTrong hội nghị, đại biểu Hội đồng nhân dân, Chủ tịch đoàn và Uỷ ban hành chính cùng cấp đều có thể đề xuất vấn đề, kèm dự án nghị quyết. Các dự án này do Chủ tịch đoàn đưa ra hội nghị thảo luận, hoặc giao cho một Tiểu ban xét trước rồi đưa ra hội nghị thảo luận, hoặc giao cho Uỷ ban hành chính nghiên cứu để trình bày trong phiên họp sau của Hội đồng."
+   }
+  },
+  {
+   "id": "VN-H305-A16",
+   "no": 16,
+   "noLabel": {
+    "vi": "Điều 16"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "vi": "Điều 16.\n\nHội đồng nhân dân các cấp phải có quá nửa số đại biểu đến họp thì biểu quyết mới có giá trị.\n\nNghị quyết của Hội đồng nhân dân phải được quá nửa số đại biểu có mặt biểu quyết thoả thuận mới có giá trị.\n\nĐối với Hội đồng nhân dân các cấp trong khu vực có dân tộc thiểu số, trước khi biểu quyết một vấn đề quan trọng có liên quan đến một dân tộc nào, nhất thiết cần thảo luận với đại biểu của dân tộc ấy."
+   }
+  },
+  {
+   "id": "VN-H305-A17",
+   "no": 17,
+   "noLabel": {
+    "vi": "Điều 17"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "vi": "Điều 17.\n\nKhi Hội đồng nhân dân các cấp họp hội nghị, cán bộ phụ trách các cơ quan chuyên môn cùng cấp có thể được mời đến tham dự.\n\nNhững người được mời tới dự có quyền tham gia ý kiến, nhưng không có quyền biểu quyết."
+   }
+  },
+  {
+   "id": "VN-H305-A18",
+   "no": 18,
+   "noLabel": {
+    "vi": "Điều 18"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "vi": "Điều 18.\n\nTrừ trường hợp đặc biệt phải họp kín, Hội đồng nhân dân các cấp họp công khai, có nhân dân dự thính."
+   }
+  },
+  {
+   "id": "VN-H305-A19",
+   "no": 19,
+   "noLabel": {
+    "vi": "Điều 19"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "vi": "Điều 19.\n\nTrong thời gian Hội đồng nhân dân họp hội nghị, nếu không có sự đồng ý của Chủ tịch đoàn thì không được bắt và xét hỏi đại biểu. Trong trường hợp phạm pháp quả tang hoặc trường hợp khẩn cấp thì cơ quan có trách nhiệm, sau khi bắt giữ một đại biểu, phải lập tức xin Chủ tịch đoàn thoả thuận."
+   }
+  },
+  {
+   "id": "VN-H305-A20",
+   "no": 20,
+   "noLabel": {
+    "vi": "Điều 20"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "vi": "Điều 20.\n\nĐại biểu Hội đồng nhân dân các cấp được hưởng cấp phí đi đường và lưu trú mỗi khi họp hội nghị. Chế độ cấp phí do Chính phủ quy định.\n\nMỤC 4\n\nQUAN HỆ GIỮA ĐẠI BIỂU HỘI ĐỒNG NHÂN DÂN VÀ CỬ TRI"
+   }
+  },
+  {
+   "id": "VN-H305-A21",
+   "no": 21,
+   "noLabel": {
+    "vi": "Điều 21"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "vi": "Điều 21.\n\nĐại biểu Hội đồng nhân dân các cấp phải giữ mối liên hệ mật thiết với cử tri đã bầu ra mình, báo cáo hoạt động của mình với cử tri, thu thập và phản ánh ý kiến, nguyện vọng của nhân dân cho Hội đồng nhân dân và Uỷ ban hành chính, giúp Uỷ ban hành chính cấp mình đẩy mạnh công tác và tuyên truyền, phổ biến luật lệ, chính sách của Nhà nước.\n\nĐại biểu Hội đồng nhân dân cấp trên có thể tham dự Hội nghị Hội đồng nhân dân cấp dưới, ở đơn vị bầu cử mình."
+   }
+  },
+  {
+   "id": "VN-H305-A22",
+   "no": 22,
+   "noLabel": {
+    "vi": "Điều 22"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "vi": "Điều 22.\n\nĐại biểu Hội đồng nhân dân chịu sự giám sát của cử tri đã bầu ra mình.\n\nCử tri có quyền bãi miễn đại biểu Hội đồng nhân dân do mình bầu ra.\n\nViệc bãi miễn một đại biểu Hội đồng nhân dân phải có quá nửa tổng số cử tri thuộc đơn vị bầu cử đã bầu ra đại biểu ấy bỏ phiếu thông qua. Thủ tục bỏ phiếu theo như lúc bầu cử.\n\nCHƯƠNG THỨ BA\n\nUỶ BAN HÀNH CHÍNH CÁC CẤP\n\nMỤC 1\n\nTỔ CHỨC"
+   }
+  },
+  {
+   "id": "VN-H305-A23",
+   "no": 23,
+   "noLabel": {
+    "vi": "Điều 23"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "vi": "Điều 23.\n\nUỷ ban hành chính các cấp là cơ quan chấp hành của Hội đồng nhân dân cùng cấp, là cơ quan hành chính của Nhà nước ở cấp ấy.\n\nở cấp huyện (không có Hội đồng nhân dân), Uỷ ban hành chính huyện là cơ quan hành chính của Nhà nước ở cấp ấy."
+   }
+  },
+  {
+   "id": "VN-H305-A24",
+   "no": 24,
+   "noLabel": {
+    "vi": "Điều 24"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "vi": "Điều 24.\n\nUỷ ban hành chính các cấp chịu trách nhiệm và báo cáo công tác với Hội đồng nhân dân cùng cấp, với cơ quan hành chính cấp trên trực tiếp, và đặt dưới sự lãnh đạo thống nhất của Chính phủ."
+   }
+  },
+  {
+   "id": "VN-H305-A25",
+   "no": 25,
+   "noLabel": {
+    "vi": "Điều 25"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "vi": "Điều 25.\n\nUỷ ban hành chính do Hội đồng nhân dân cùng cấp bầu ra.\n\nUỷ ban hành chính huyện do các đại biểu Hội đồng nhân dân xã và thị trấn bầu ra. Cách thức bầu cử do luật bầu cử quy định."
+   }
+  },
+  {
+   "id": "VN-H305-A26",
+   "no": 26,
+   "noLabel": {
+    "vi": "Điều 26"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "vi": "Điều 26.\n\nSố lượng uỷ viên Uỷ ban hành chính các cấp định từ 5 đến 19, trong đó có Chủ tịch và một hoặc nhiều Phó Chủ tịch. ở các khu vực tự trị và miền núi, số lượng uỷ viên Uỷ ban hành chính từ cấp châu trở lên tối đa là 25."
+   }
+  },
+  {
+   "id": "VN-H305-A27",
+   "no": 27,
+   "noLabel": {
+    "vi": "Điều 27"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "vi": "Điều 27.\n\nCấp có thẩm quyền ấn định số lượng uỷ viên cụ thể cho Uỷ ban hành chính mỗi cấp quy định như sau:\n\n- Hội đồng Chính phủ quy định số uỷ viên cho Uỷ ban hành chính khu tự trị, thành phố trực thuộc trung ương, tỉnh.\n\n- Uỷ ban hành chính thành phố trực thuộc trung ương, tỉnh, quy định số uỷ viên cho Uỷ ban hành chính thành phố trực thuộc tỉnh, huyện, thị xã, xã và thị trấn.\n\n- ở khu tự trị, Uỷ ban hành chính khu tự trị quy định số uỷ viên cho Uỷ ban hành chính châu, huyện, thị xã; Uỷ ban hành chính tỉnh hoặc châu (nơi không có tỉnh) quy định số uỷ viên cho Uỷ ban hành chính xã, trị trấn."
+   }
+  },
+  {
+   "id": "VN-H305-A28",
+   "no": 28,
+   "noLabel": {
+    "vi": "Điều 28"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "vi": "Điều 28.\n\nNhiệm kỳ của Uỷ ban hành chính theo nhiệm kỳ của Hội đồng nhân dân đã bầu ra Uỷ ban hành chính.\n\nKhi Hội đồng nhân dân mãn khoá, Uỷ ban hành chính sẽ tiếp tục làm việc cho tới khi Hội đồng nhân dân khoá sau bầu ra Uỷ ban hành chính mới."
+   }
+  },
+  {
+   "id": "VN-H305-A29",
+   "no": 29,
+   "noLabel": {
+    "vi": "Điều 29"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "vi": "Điều 29.\n\nTrong nhiệm kỳ, nếu uỷ viên Uỷ ban hành chính vì lý do gì mà không đảm nhiệm được chức vụ thì Hội đồng nhân dân đã bầu ra uỷ viên đó sẽ bầu người thay thế.\n\nMỤC 2\n\nNHIỆM VỤ VÀ QUYỀN HẠN"
+   }
+  },
+  {
+   "id": "VN-H305-A30",
+   "no": 30,
+   "noLabel": {
+    "vi": "Điều 30"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "vi": "Điều 30.\n\nTrong phạm vi địa phương và trong phạm vi luật lệ quy định, Uỷ ban hành chính khu tự trị, thành phố trực thuộc trung ương, tỉnh, châu, thành phố trực thuộc tỉnh, có nhiệm vụ và quyền hạn như sau:\n\n1) Thi hành luật lệ của Nhà nước, quyết định, chỉ thị của cơ quan hành chính cấp trên và nghị quyết của Hội đồng nhân dân cấp mình.\n\n2) Căn cứ vào luật lệ, quyết định, nghị quyết và chỉ thị nói trên, ra những quyết định, chỉ thị, thể lệ, đồng thời kiểm tra, đôn đốc việc thi hành các quyết định, chỉ thị, thể lệ này.\n\nNhững quyết định, chỉ thị, thể lệ thuộc thẩm quyền xét duyệt của cấp trên theo luật lệ quy định phải được cấp có thẩm quyền thông qua trước khi ban hành.\n\n3) Tổ chức bầu cử Hội đồng nhân dân cùng cấp.\n\n4) Triệu tập hội nghị Hội đồng nhân dân cùng cấp; báo cáo công tác và trình các đề án công tác trước Hội đồng nhân dân;\n\n5) Lãnh đạo công tác của cơ quan chuyên môn cùng cấp và công tác của Uỷ ban hành chính cấp dưới.\n\n6) Sửa đổi hoặc huỷ bỏ các quyết định, chỉ thị không thích đáng của các cơ quan chuyên môn cùng cấp và Uỷ ban hành chính cấp dưới.\n\nĐình chỉ thi hành những nghị quyết không thích đáng của Hội đồng nhân dân cấp dưới và trình Hội đồng nhân dân cùng cấp sửa đổi hoặc huỷ bỏ.\n\nXét duyệt những nghị quyết của cấp dưới trong các trường hợp do luật lệ quy định.\n\n7) Quản lý các cán bộ, nhân viên công tác tại các cơ quan thuộc quyền địa phương mình.\n\n8) Chấp hành kế hoạch kinh tế, văn hoá; quản lý dự toán ngân sách.\n\n9) Quản lý thị trường, quản lý công thương nghiệp quốc doanh, lãnh đạo và cải tạo công thương nghiệp tư doanh ở địa phương.\n\n10) Lãnh đạo sản xuất nông nghiệp, thủ công nghiệp, công nghiệp và công cuộc hợp tác tương trợ.\n\n11) Quản lý công tác thu thuế.\n\n12) Quản lý công tác giao thông vận tải và các sự nghiệp công cộng.\n\n13) Quản lý nhân lực; bảo đảm thi hành các luật lệ lao động.\n\n14) Quản lý công tác văn hoá, xã hội.\n\n15) Quản lý công tác kiến thiết, sửa sang thành thị và nông thôn.\n\n16) Căn cứ vào kế hoạch xây dựng quân đội, củng cố quốc phòng của cấp trên mà chỉ đạo việc xây dựng các lực lượng vũ trang địa phương, lực lượng hậu bị, dân quân, quản lý công tác nghĩa vụ quân sự, phục viên, thương binh và các công tác quân sự khác.\n\n17) Quản lý tài sản công cộng.\n\n18) Bảo vệ trật tự an ninh chung.\n\n19) Bảo đảm quyền công dân, bảo đảm quyền bình đẳng của các dân tộc.\n\n20) Giúp đỡ các dân tộc thiểu số phát triển về mặt chính trị, kinh tế, văn hoá.\n\n21) Thi hành các công tác do cơ quan hành chính Nhà nước cấp trên giao."
+   }
+  },
+  {
+   "id": "VN-H305-A31",
+   "no": 31,
+   "noLabel": {
+    "vi": "Điều 31"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "vi": "Điều 31.\n\nTrong phạm vi địa phương và trong phạm vi luật lệ quy định, Uỷ ban hành chính huyện có nhiệm vụ và quyền hạn như sau:\n\n1) Thi hành luật lệ của Nhà nước, quyết định, chỉ thị của cơ quan hành chính cấp trên.\n\n2) Lãnh đạo, kiểm tra, đôn đốc công tác của các cơ quan chuyên môn cùng cấp và công tác của Uỷ ban hành chính xã và thị trấn.\n\n3) Căn cứ vào kế hoạch của cấp trên, hướng dẫn xã, thị trấn xây dựng kế hoạch của xã, thị trấn và kiểm tra, đôn đốc việc chấp hành kế hoạch trong địa phương.\n\n4) Lãnh đạo sản xuất nông nghiệp, thủ công nghiệp, công nghiệp và công cuộc hợp tác tương trợ.\n\n5) Đình chỉ thi hành những nghị quyết không thích đáng của Hội đồng nhân dân và Uỷ ban hành chính xã, thị trấn, và trình Uỷ ban hành chính tỉnh hoặc thành phố xét định.\n\nXét duyệt những nghị quyết của Hội đồng nhân dân xã, thị trấn trong các trường hợp do luật lệ quy định.\n\n6) Thi hành các công tác và quản lý các đơn vị sự nghiệp, doanh nghiệp do cấp trên giao."
+   }
+  },
+  {
+   "id": "VN-H305-A32",
+   "no": 32,
+   "noLabel": {
+    "vi": "Điều 32"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "vi": "Điều 32.\n\nTrong phạm vi địa phương và trong phạm vi luật lệ quy định, Uỷ ban hành chính thị xã, xã, thị trấn có nhiệm vụ và quyền hạn như sau:\n\n1) Thi hành luật lệ của Nhà nước, quyết định, chỉ thị của cơ quan hành chính cấp trên và nghị quyết của Hội đồng nhân dân cấp mình.\n\n2) Căn cứ vào luật lệ, quyết định, nghị quyết và chỉ thị nói trên, ra những quyết định, chỉ thị, đồng thời kiểm tra đôn đốc việc thi hành các quyết định, chỉ thị này.\n\nNhững quyết định, chỉ thị thuộc thẩm quyền xét duyệt của cấp trên theo luật lệ quy định phải được cấp có thẩm quyền thông qua trước khi thi hành.\n\n3) Tổ chức bầu cử Hội đồng nhân dân cùng cấp.\n\n4) Triệu tập hội nghị Hội đồng nhân dân cùng cấp, báo cáo công tác và trình các đề án công tác trước Hội đồng nhân dân.\n\n5) Lãnh đạo công tác của các bộ phần chuyên môn cùng cấp.\n\n6) Chấp hành kế hoạch kinh tế, văn hoá; quản lý dự toán ngân sách.\n\n7) Lãnh đạo sản xuất nông nghiệp, thủ công nghiệp, công nghiệp và công cuộc hợp tác tương trợ.\n\n8) Quản lý công tác thu thuế.\n\n9) Quản lý các sự nghiệp công cộng.\n\n10) Quản lý nhân lực, bảo đảm thi hành các luật lệ lao động.\n\n11) Quản lý công tác văn hoá, xã hội.\n\n12) Quản lý và thực hiện công tác nghĩa vụ quân sự, công tác dân quân, phục viên, thương binh và các công tác quân sự khác.\n\n13) Quản lý tài sản công cộng.\n\n14) Bảo vệ trật tự an ninh chung.\n\n15) Bảo đảm quyền công dân, bảo đảm quyền bình đẳng của dân tộc.\n\n16) Thi hành các công tác do Uỷ ban hành chính cấp trên giao.\n\nMỤC 3\n\nCHẾ ĐỘ LÀM VIỆC"
+   }
+  },
+  {
+   "id": "VN-H305-A33",
+   "no": 33,
+   "noLabel": {
+    "vi": "Điều 33"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "vi": "Điều 33.\n\nUỷ ban hành chính các cấp làm việc theo nguyên tắc tập thể lãnh đạo, cá nhân phụ trách. Những việc quan trọng đều phải do hội nghị Uỷ ban thảo luận và quyết định. Các quyết định của Uỷ ban không được trái với luật lệ của Nhà nước, nghị quyết của Hội đồng nhân dân cùng cấp và chỉ thị của cấp trên.\n\nTrước khi Uỷ ban hành chính quyết định một vấn đề quan trong có liên quan đến một dân tộc ít người, nhất thiết cần thảo luận với đại biểu của dân tộc đó trong Uỷ ban, hoặc với đại biểu của dân tộc đó trong Hội đồng nhân dân nếu dân tộc đó không có đại biểu trong Uỷ ban."
+   }
+  },
+  {
+   "id": "VN-H305-A34",
+   "no": 34,
+   "noLabel": {
+    "vi": "Điều 34"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "vi": "Điều 34.\n\nChủ tịch Uỷ ban hành chính chủ trì các hội nghị và công tác của Uỷ ban, đôn đốc, theo dõi kiểm tra toàn bộ công tác của Uỷ ban, ban hành nghị quyết của Hội đồng nhân dân và Uỷ ban hành chính.\n\nPhó Chủ tịch giúp Chủ tịch chấp hành chức vụ.\n\nChủ tịch và phó Chủ tịch làm nhiệm vụ thường trực của Uỷ ban. Chủ tịch, Phó Chủ tịch và các uỷ viên khác phân công phụ trách các khối công tác, hoặc phụ trách từng vấn đề, và đi kiểm tra."
+   }
+  },
+  {
+   "id": "VN-H305-A35",
+   "no": 35,
+   "noLabel": {
+    "vi": "Điều 35"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "vi": "Điều 35.\n\nUỷ ban hành chính từ cấp huyện, thị xã trở lên, một tháng họp một lần. Uỷ ban hành chính xã, thị trấn, ít nhất nửa tháng họp một lần. Uỷ ban hành chính xã miền núi có thể một tháng họp một lần. Khi cần thiết, Uỷ ban hành chính các cấp có thể họp hội nghị bất thường.\n\nKhi Uỷ ban hành chính họp, cán bộ phụ trách các cơ quan chuyên môn có thể được mời đến tham dự. Những người được mời tới dự có quyền tham gia ý kiến, nhưng không có quyền biểu quyết.\n\nCHƯƠNG THỨ TƯ\n\nCÁC CƠ QUAN CHUYÊN MÔN Ở ĐỊA PHƯƠNG\n\nVÀ QUAN HỆ GIỮA UỶ BAN HÀNH CHÍNH\n\nVỚI CÁC CƠ QUAN ĐÓ"
+   }
+  },
+  {
+   "id": "VN-H305-A36",
+   "no": 36,
+   "noLabel": {
+    "vi": "Điều 36"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "vi": "Điều 36.\n\nUỷ ban hành chính khu tự trị, thành phố trực thuộc trung ương, tỉnh, có văn phòng và có thể, tuỳ nhu cầu công tác, lập ra các cơ quan chuyên môn.\n\nUỷ ban hành chính châu, thành phố trực thuộc tỉnh, huyện, thị xã, có văn phòng và có thể, tuỳ nhu cầu công tác, lập một số bộ phận chuyên môn.\n\nUỷ ban hành chính xã, thị trấn, có một hoặc nhiều thư ký giúp việc bộ phần thường trực của Uỷ ban và có thể, tuỳ nhu cầu công tác, lập một số bộ phận chuyên môn."
+   }
+  },
+  {
+   "id": "VN-H305-A37",
+   "no": 37,
+   "noLabel": {
+    "vi": "Điều 37"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "vi": "Điều 37.\n\nThủ tục thành lập, sửa đổi hoặc bãi, bỏ các cơ quan chuyên môn nói ở điều 36 ấn định như sau:\n\n- Thủ tướng Chính phủ ra nghị định, theo đề nghị của Uỷ ban hành chính thành phố trực thuộc trung ương, tỉnh, đối với các cơ quan chuyên môn bên cạnh Uỷ ban hành chính thành phố trực thuộc trung ương, tỉnh.\n\n- Uỷ ban hành chính thành phố trực thuộc trung ương, tỉnh, quyết định sau khi được Thủ tướng Chính phủ chuẩn y đối với các bộ phận chuyên môn ở thành phố trực thuộc trung ương, tỉnh, thành phố trực thuộc tỉnh, huyện, thị xã, xã và thị trấn.\n\n- Uỷ ban hành chính khu tự trị quyết định sau khi được Thủ tướng Chính phủ chuẩn y đối với các cơ quan chuyên môn bên cạnh Uỷ ban hành chính khu tự trị.\n\n- Uỷ ban hành chính khu tự trị quyết định, theo sự hướng dẫn của Thủ tướng Chính phủ, đối với các cơ quan và bộ phận chuyên môn bên cạnh Uỷ ban hành chính từ cấp tỉnh trở xuống trong khu tự trị.\n\n- Thủ tướng Chính phủ hỏi ý kiến các Bộ sở quan trước khi ra nghị định chuẩn y hoặc hướng dẫn trong các trường hợp nói trên."
+   }
+  },
+  {
+   "id": "VN-H305-A38",
+   "no": 38,
+   "noLabel": {
+    "vi": "Điều 38"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "vi": "Điều 38.\n\nCác cơ quan chuyên môn bên cạnh Uỷ ban hành chính khu tự trị, thành phố trực thuộc trung ương, tỉnh chịu sự lãnh đạo thống nhất của Uỷ ban hành chính cùng cấp, đồng thời chịu sự lãnh đạo của Bộ sở quan.\n\nCác cơ quan chuyên môn bên cạnh Uỷ ban hành chính châu, thành phố trực thuộc tỉnh, huyện, thị xã, chịu sự lãnh đạo thống nhất của Uỷ ban hành chính cùng cấp, đồng thời chịu sự lãnh đạo về nghiệp vụ của cơ quan chuyên môn bên cạnh Uỷ ban hành chính cấp trên."
+   }
+  },
+  {
+   "id": "VN-H305-A39",
+   "no": 39,
+   "noLabel": {
+    "vi": "Điều 39"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "vi": "Điều 39.\n\nCơ quan chuyên môn bên cạnh Uỷ ban hành chính, trong phạm vi nghiệp vụ và căn cứ vào quyết định, chỉ thị của Uỷ ban hành chính cùng cấp và chỉ thị của cơ quan chuyên môn cấp trên, ra chỉ thị cho cơ quan chuyên môn bên cạnh Uỷ ban hành chính cấp dưới."
+   }
+  },
+  {
+   "id": "VN-H305-A40",
+   "no": 40,
+   "noLabel": {
+    "vi": "Điều 40"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "vi": "Điều 40.\n\nCán bộ phụ trách cơ quan chuyên môn có nhiệm vụ kiểm tra công tác của ngành mình ở cấp dưới, và có thể được Uỷ ban hành chính cùng cấp uỷ nhiệm đi kiểm tra Uỷ ban hành chính cấp dưới về mặt lãnh đạo thực hiện công tác của ngành mình."
+   }
+  },
+  {
+   "id": "VN-H305-A41",
+   "no": 41,
+   "noLabel": {
+    "vi": "Điều 41"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "vi": "Điều 41.\n\nĐối với những đơn vị sự nghiệp, doanh nghiệp do các Bộ trực tiếp quản lý thì các Uỷ ban hành chính địa phương có trách nhiệm bảo vệ an toàn, theo dõi, kiểm soát việc thi hành các luật lệ, các chính sách chung của Chính phủ và những thể lệ của địa phương.\n\nUỷ ban hành chính địa phương có nhiệm vụ tham gia ý kiến về việc xây dựng kế hoạch sản xuất, chương trình công tác, theo dõi sự thực hiện kế hoạch, chương trình công tác, và giúp đỡ các đơn vị ấy làm nhiệm vụ, nhưng không chỉ đạo về công tác chuyên môn. Các đơn vị ấy phải báo cáo tình hình và công tác của mình với Uỷ ban hành chính địa phương.\n\nCHƯƠNG THỨ NĂM\n\nĐIỀU KHOẢN THI HÀNH"
+   }
+  },
+  {
+   "id": "VN-H305-A42",
+   "no": 42,
+   "noLabel": {
+    "vi": "Điều 42"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "vi": "Điều 42.\n\nNhững thể lệ quy định về tổ chức và bầu cử chính quyền địa phương trái với luật này đều bãi bỏ."
+   }
+  },
+  {
+   "id": "VN-H305-A43",
+   "no": 43,
+   "noLabel": {
+    "vi": "Điều 43"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "vi": "Điều 43.\n\nChính phủ quy định chi tiết thi hành luật này.\n\nHồ Chí Minh\n\n(Đã ký)\n\n1:{\"id\":\"957\",\"docType\":{\"id\":\"11025e19-2dd6-4165-85ad-ab6241186a1a\",\"name\":\"Luật\",\"code\":\"Lu\",\"parentCode\":\"VBQPPL\",\"parentName\":null},\"docGroup\":\"VBQPPL\",\"docNum\":\"110-SL/L.12\",\"title\":\"Luật Về việc Tổ chức chính quyền địa phương số 110-SL/L.12\",\"applicationNote\":\"Bị bãi bỏ bởi Luật Số hiệu: 51/LCT Tổ chức Hội đồng nhân dân và Uỷ ban hành chính các cấp\",\"issueDate\":\"1958-05-31T00:00:00\",\"effFrom\":\"1958-05-31T00:00:00\",\"effTo\":\"1962-11-11T01:00:00\",\"publicDate\":null,\"effStatus\":{\"id\":\"f55c1469-4341-4274-93ef-32b283db4dbd\",\"name\":\"Hết hiệu lực toàn bộ\",\"code\":\"HHL\",\"parentCode\":null,\"parentName\":null},\"status\":\"Publish\",\"lang\":\"vi\",\"defaultLanguage\":\"VN\",\"updatedBy\":\"dungdvm_II.2\",\"updatedDate\":\"2026-01-16T17:33:21\",\"agencyName\":\"Quốc hội\",\"organization\":{\"id\":\"e1e1ef48-0054-4da3-bc4d-3d9921c03883\",\"code\":\"BNV\",\"name\":\"Bộ Nội vụ\",\"nameEn\":\"Bộ Nội vụ\",\"shortName\":\"BNV\",\"orgType\":\"0\"},\"isLw\":true,\"documentContent\":{\"id\":\"957\",\"title\":null,\"content\":\"$2\"},\"documentContentEn\":null,\"documentContentFileName\":null,\"documentContentFileDocName\":null,\"documentIssues\":[{\"id\":\"c4d1cbbd-5176-4b6b-acf6-43ebf84acc36\",\"agencyId\":\"55\",\"agencyName\":\"Quốc hội\",\"agencyNameEn\":\"National Assembly of Vietnam\",\"agencyCode\":\"QH\",\"personId\":\"303\",\"personName\":\"Hồ Chí Minh\",\"jobTitleId\":\"ddf1368c-1720-4af8-a79e-d09e04ff6f55\",\"jobTitleCode\":\"CTN\",\"jobTitleName\":\"Chủ tịch nước\",\"orderIndex\":1}],\"documentMajors\":[],\"documentFields\":[{\"id\":\"76e2c0d5-e93e-4ee9-8c72-59dae1167432\",\"name\":\"Chưa phân loại\",\"code\":null,\"parentCode\":null,\"parentName\":null}],\"documentRelatedList\":[],\"provisionTree\":null,\"references\":null,\"isEffectAllDocument\":false,\"isOld\":true,\"reviewStatus\":\"INITIAL\",\"reviewed\":false,\"isTranslationDoc\":false,\"isConsolidatedDocument\":false,\"isConstitutionDocument\":false,\"isAdministrativeDocument\":false,\"viewCount\":50,\"showViewCount\":true,\"hasContent\":true,\"hasOriginalPdf\":null,\"hasAIProcessed\":false,\"hasClauseRelation\":null,\"aiResults\":[]}"
+   }
+  }
+ ]
+}

@@ -1,0 +1,858 @@
+{
+ "id": "VN-H399",
+ "title": {
+  "zh": "越南人民军军官法",
+  "en": "Law No. 16/1999/QH10 on officers of the Vietnam People's Army",
+  "vi": "Luật Sỹ quan quân đội nhân dân Việt Nam số 16/1999/QH10",
+  "orig": "Luật Sỹ quan quân đội nhân dân Việt Nam số 16/1999/QH10",
+  "th": "พระราชบัญญัตินายทหารกองทัพประชาชนเวียดนาม เลขที่ 16/1999/QH10",
+  "id": "Undang-Undang Perwira Tentara Rakyat Vietnam No. 16/1999/QH10",
+  "ms": "Akta Pegawai Tentera Rakyat Vietnam No. 16/1999/QH10"
+ },
+ "country": "VN",
+ "countryName": "越南",
+ "layer": "intl",
+ "pack": "vn-p06",
+ "language": "vi",
+ "level": "law",
+ "category": "04_劳工与行政法",
+ "status": "active",
+ "promulgatedDate": "1999",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "国会",
+ "docNumber": "16/1999/QH10",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 51,
+ "chars": 32917,
+ "source": {
+  "name": "越南法律数据库（vbpl.vn 官方公报文本）",
+  "url": "https://vbpl.vn/van-ban/chi-tiet/luat-sy-quan-quan-doi-nhan-dan-viet-nam-so-16-1999-qh10--6153"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\VN\\04_劳工与行政法\\1999_16 1999 QH10_Luật Sỹ quan quân đội nhân dân Việt Nam số 16 1999 QH10.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 51 条；逐字未改写（源自 VN）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "VN-H399-A1",
+   "no": 1,
+   "noLabel": {
+    "vi": "Điều 1"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Sĩ quan Quân đội nhân dân Việt Nam"
+   },
+   "text": {
+    "vi": "Điều 1. Sĩ quan Quân đội nhân dân Việt Nam\n\nSĩ quan Quân đội nhân dân Việt Nam (sau đây gọi là sĩ quan) là cán bộ của Đảng Cộng sản Việt Nam và Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam, hoạt động trong lĩnh vực quân sự, được Nhà nước phong quân hàm cấp Uý, cấp Tá, cấp Tướng. Quân phục, cấp hiệu, phù hiệu của sĩ quan do Chính phủ quy định."
+   }
+  },
+  {
+   "id": "VN-H399-A2",
+   "no": 2,
+   "noLabel": {
+    "vi": "Điều 2"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Vị trí, chức năng của sĩ quan"
+   },
+   "text": {
+    "vi": "Điều 2. Vị trí, chức năng của sĩ quan\n\nSĩ quan là lực lượng nòng cốt của quân đội và là thành phần chủ yếu trong đội ngũ cán bộ quân đội, đảm nhiệm các chức vụ lãnh đạo, chỉ huy, quản lý hoặc trực tiếp thực hiện một số nhiệm vụ khác, bảo đảm cho quân đội sẵn sàng chiến đấu và hoàn thành mọi nhiệm vụ được giao."
+   }
+  },
+  {
+   "id": "VN-H399-A3",
+   "no": 3,
+   "noLabel": {
+    "vi": "Điều 3"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Lãnh đạo, chỉ huy, quản lý sĩ quan"
+   },
+   "text": {
+    "vi": "Điều 3. Lãnh đạo, chỉ huy, quản lý sĩ quan\n\nĐội ngũ sĩ quan đặt dưới sự lãnh đạo tuyệt đối, trực tiếp về mọi mặt của Đảng Cộng sản Việt Nam, sự thống lĩnh của Chủ tịch nước, sự quản lý thống nhất của Chính phủ và sự chỉ huy, quản lý trực tiếp của Bộ trưởng Bộ Quốc phòng."
+   }
+  },
+  {
+   "id": "VN-H399-A4",
+   "no": 4,
+   "noLabel": {
+    "vi": "Điều 4"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Điều kiện tuyển chọn đào tạo sĩ quan"
+   },
+   "text": {
+    "vi": "Điều 4. Điều kiện tuyển chọn đào tạo sĩ quan\n\nCông dân nước Cộng hoà xã hội chủ nghĩa Việt Nam có đủ tiêu chuẩn về chính trị, phẩm chất đạo đức, trình độ học vấn, sức khỏe và tuổi đời; có nguyện vọng và khả năng hoạt động trong lĩnh vực quân sự thì có thể được tuyển chọn đào tạo sĩ quan."
+   }
+  },
+  {
+   "id": "VN-H399-A5",
+   "no": 5,
+   "noLabel": {
+    "vi": "Điều 5"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Nguồn bổ sung sĩ quan tại ngũ"
+   },
+   "text": {
+    "vi": "Điều 5. Nguồn bổ sung sĩ quan tại ngũ\n\nNhững người sau đây được tuyển chọn bổ sung cho đội ngũ sĩ quan tại ngũ:\n\n1. Hạ sĩ quan, binh sĩ tốt nghiệp các trường đào tạo sĩ quan hoặc các trường đại học ngoài quân đội;\n\n2. Hạ sĩ quan, binh sĩ hoàn thành tốt nhiệm vụ chiến đấu;\n\n3. Quân nhân chuyên nghiệp và công chức quốc phòng tại ngũ tốt nghiệp đại học trở lên đã được đào tạo, bồi dưỡng chương trình quân sự theo quy định của Bộ trưởng Bộ Quốc phòng;\n\n4. Cán bộ, công chức ngoài quân đội và những người tốt nghiệp đại học trở lên được điều động vào phục vụ trong quân đội đã được đào tạo, bồi dưỡng chương trình quân sự theo quy định của Bộ trưởng Bộ Quốc phòng;\n\n5. Sĩ quan dự bị."
+   }
+  },
+  {
+   "id": "VN-H399-A6",
+   "no": 6,
+   "noLabel": {
+    "vi": "Điều 6"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Quyền, nghĩa vụ và trách nhiệm của sĩ quan"
+   },
+   "text": {
+    "vi": "Điều 6. Quyền, nghĩa vụ và trách nhiệm của sĩ quan\n\n1. Sĩ quan có quyền và nghĩa vụ công dân theo quy định của Hiến pháp và pháp luật nước Cộng hoà xã hội chủ nghĩa Việt Nam; có quyền, nghĩa vụ và trách nhiệm theo quy định của Luật này.\n\n2. Sĩ quan được Nhà nước bảo đảm về chính sách, chế độ ưu đãi phù hợp với tính chất hoạt động đặc thù quân sự."
+   }
+  },
+  {
+   "id": "VN-H399-A7",
+   "no": 7,
+   "noLabel": {
+    "vi": "Điều 7"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Giải thích từ ngữ"
+   },
+   "text": {
+    "vi": "Điều 7. Giải thích từ ngữ\n\nTrong Luật này, các từ ngữ sau đây được hiểu như sau:\n\n1. Ngạch sĩ quan tại ngũ là ngạch gồm những sĩ quan thuộc lực lượng thường trực đang công tác trong quân đội hoặc đang được biệt phái.\n\n2. Sĩ quan biệt phái là sĩ quan tại ngũ được cử đến công tác ở cơ quan, tổ chức ngoài quân đội.\n\n3. Ngạch sĩ quan dự bị là ngạch gồm những sĩ quan thuộc lực lượng dự bị động viên được đăng ký, quản lý, huấn luyện để sẵn sàng huy động vào phục vụ tại ngũ.\n\n4. Sĩ quan dự bị hạng một, sĩ quan dự bị hạng hai là sĩ quan thuộc ngạch dự bị, được phân hạng theo hạn tuổi dự bị hạng một, dự bị hạng hai quy định tại khoản 1 Điều 13 của Luật này.\n\n5. Sĩ quan chỉ huy, tham mưu là sĩ quan đảm nhiệm công tác tác chiến, huấn luyện và xây dựng lực lượng về quân sự.\n\n6. Sĩ quan chính trị là sĩ quan đảm nhiệm công tác đảng, công tác chính trị.\n\n7. Sĩ quan hậu cần là sĩ quan đảm nhiệm công tác bảo đảm về vật chất cho sinh hoạt, huấn luyện và tác chiến của quân đội.\n\n8. Sĩ quan kỹ thuật là sĩ quan đảm nhiệm công tác bảo đảm về kỹ thuật vũ khí, trang thiết bị.\n\n9. Sĩ quan chuyên môn khác là sĩ quan đảm nhiệm công tác trong các ngành không thuộc các nhóm ngành sĩ quan quy định tại các khoản 5, 6, 7 và 8 Điều này.\n\n10. Phong cấp bậc quân hàm sĩ quan là quyết định trao cấp bậc quân hàm cho người trở thành sĩ quan.\n\n11. Thăng cấp bậc quân hàm sĩ quan là quyết định đề bạt sĩ quan lên cấp bậc quân hàm cao hơn.\n\n12. Giáng cấp bậc quân hàm sĩ quan là quyết định hạ cấp bậc quân hàm hiện tại của sĩ quan xuống cấp bậc quân hàm thấp hơn.\n\n13. Tước quân hàm sĩ quan là quyết định huỷ bỏ quân hàm sĩ quan của quân nhân.\n\n14. Sĩ quan thôi phục vụ tại ngũ là sĩ quan chuyển ra ngoài quân đội.\n\n15. Chuyển ngạch sĩ quan là chuyển sĩ quan từ ngạch sĩ quan tại ngũ sang ngạch sĩ quan dự bị hoặc ngược lại.\n\n16. Chuyển hạng sĩ quan dự bị là chuyển sĩ quan dự bị từ hạng một sang hạng hai.\n\n17. Giải ngạch sĩ quan dự bị là chuyển ra khỏi ngạch sĩ quan dự bị."
+   }
+  },
+  {
+   "id": "VN-H399-A8",
+   "no": 8,
+   "noLabel": {
+    "vi": "Điều 8"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Ngạch sĩ quan"
+   },
+   "text": {
+    "vi": "Điều 8. Ngạch sĩ quan\n\nSĩ quan chia thành hai ngạch: sĩ quan tại ngũ và sĩ quan dự bị."
+   }
+  },
+  {
+   "id": "VN-H399-A9",
+   "no": 9,
+   "noLabel": {
+    "vi": "Điều 9"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Nhóm ngành sĩ quan"
+   },
+   "text": {
+    "vi": "Điều 9. Nhóm ngành sĩ quan\n\nSĩ quan gồm các nhóm ngành sau đây:\n\n1. Sĩ quan chỉ huy, tham mưu;\n\n2. Sĩ quan chính trị;\n\n3. Sĩ quan hậu cần;\n\n4. Sĩ quan kỹ thuật;\n\n5. Sĩ quan chuyên môn khác."
+   }
+  },
+  {
+   "id": "VN-H399-A10",
+   "no": 10,
+   "noLabel": {
+    "vi": "Điều 10"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Hệ thống cấp bậc quân hàm sĩ quan"
+   },
+   "text": {
+    "vi": "Điều 10. Hệ thống cấp bậc quân hàm sĩ quan\n\nHệ thống cấp bậc quân hàm của sĩ quan gồm ba cấp, mười hai bậc:\n\n1. Cấp Uý có bốn bậc:\n\nThiếu uý;\n\nTrung uý;\n\nThượng uý;\n\nĐại uý.\n\n2. Cấp Tá có bốn bậc:\n\nThiếu tá;\n\nTrung tá;\n\nThượng tá;\n\nĐại tá.\n\n3. Cấp Tướng có bốn bậc:\n\nThiếu tướng, Chuẩn Đô đốc Hải quân;\n\nTrung tướng, Phó Đô đốc Hải quân;\n\nThượng tướng, Đô đốc Hải quân;\n\nĐại tướng."
+   }
+  },
+  {
+   "id": "VN-H399-A11",
+   "no": 11,
+   "noLabel": {
+    "vi": "Điều 11"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Chức vụ của sĩ quan"
+   },
+   "text": {
+    "vi": "Điều 11. Chức vụ của sĩ quan\n\n1. Chức vụ cơ bản của sĩ quan gồm có:\n\nTrung đội trưởng;\n\nĐại đội trưởng;\n\nTiểu đoàn trưởng;\n\nTrung đoàn trưởng,\n\nHuyện đội trưởng;\n\nLữ đoàn trưởng;\n\nSư đoàn trưởng,\n\nTỉnh đội trưởng;\n\nTư lệnh Quân đoàn;\n\nTư lệnh Quân khu,\n\nTư lệnh Quân chủng;\n\nChủ nhiệm Tổng cục;\n\nTổng Tham mưu trưởng,\n\nChủ nhiệm Tổng cục Chính trị;\n\nBộ trưởng Bộ Quốc phòng.\n\n2. Các chức vụ thuộc Bộ đội Biên phòng, binh chủng, cơ quan, nhà trường và các lĩnh vực khác tương đương với các chức vụ quy định tại khoản 1 Điều này và các chức vụ còn lại do cấp có thẩm quyền quy định."
+   }
+  },
+  {
+   "id": "VN-H399-A12",
+   "no": 12,
+   "noLabel": {
+    "vi": "Điều 12"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Tiêu chuẩn của sĩ quan"
+   },
+   "text": {
+    "vi": "Điều 12. Tiêu chuẩn của sĩ quan\n\n1. Tiêu chuẩn chung:\n\na) Có bản lĩnh chính trị vững vàng, tuyệt đối trung thành với Tổ quốc và nhân dân, với Đảng Cộng sản Việt Nam và Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam; có tinh thần cảnh giác cách mạng cao, sẵn sàng chiến đấu, hy sinh, hoàn thành tốt mọi nhiệm vụ được giao;\n\nb) Có phẩm chất đạo đức cách mạng; cần kiệm liêm chính, chí công vô tư; gương mẫu chấp hành đường lối, chủ trương của Đảng, chính sách, pháp luật của Nhà nước; phát huy dân chủ, giữ nghiêm kỷ luật quân đội; tôn trọng và đoàn kết với nhân dân, với đồng đội; được quần chúng tín nhiệm;\n\nc) Có trình độ chính trị, khoa học quân sự và khả năng vận dụng sáng tạo chủ nghĩa Mác - Lê nin, tư tưởng Hồ Chí Minh, đường lối, quan điểm, chủ trương của Đảng và Nhà nước vào nhiệm vụ xây dựng nền quốc phòng toàn dân, xây dựng quân đội nhân dân; có kiến thức về văn hoá, kinh tế, xã hội, pháp luật và các lĩnh vực khác; có năng lực hoạt động thực tiễn đáp ứng yêu cầu nhiệm vụ được giao; tốt nghiệp chương trình đào tạo theo quy định đối với từng chức vụ;\n\nd) Có lý lịch rõ ràng, tuổi đời và sức khoẻ phù hợp với chức vụ, cấp bậc quân hàm mà sĩ quan đảm nhiệm.\n\n2. Tiêu chuẩn cụ thể đối với từng chức vụ của sĩ quan do cấp có thẩm quyền quy định."
+   }
+  },
+  {
+   "id": "VN-H399-A13",
+   "no": 13,
+   "noLabel": {
+    "vi": "Điều 13"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Tuổi phục vụ của sĩ quan"
+   },
+   "text": {
+    "vi": "Điều 13. Tuổi phục vụ của sĩ quan\n\nHạn tuổi cao nhất của sĩ quan tại ngũ và sĩ quan dự bị được quy định như sau:\n\n1. Theo cấp bậc quân hàm:\n\nCấp Uý: tại ngũ 44, dự bị hạng một 46, dự bị hạng hai 48;\n\nThiếu tá: tại ngũ 46, dự bị hạng một 49, dự bị hạng hai 52;\n\nTrung tá: tại ngũ 49, dự bị hạng một 52, dự bị hạng hai 55;\n\nThượng tá: tại ngũ 52, dự bị hạng một 55, dự bị hạng hai 58;\n\nĐại tá: tại ngũ 55, dự bị hạng một 58, dự bị hạng hai 60;\n\nCấp Tướng: tại ngũ 60, dự bị hạng một 63, dự bị hạng hai 65.\n\n2. Theo chức vụ chỉ huy đơn vị:\n\nTrung đội trưởng 30;\n\nĐại đội trưởng 35;\n\nTiểu đoàn trưởng 40;\n\nTrung đoàn trưởng 45;\n\nLữ đoàn trưởng 48;\n\nSư đoàn trưởng 50;\n\nTư lệnh Quân đoàn 55;\n\nTư lệnh Quân khu,\n\nTư lệnh Quân chủng 60.\n\nHạn tuổi cao nhất của sĩ quan giữ chức vụ lãnh đạo, chỉ huy trong các đơn vị kỹ thuật, chuyên môn, quân sự địa phương và dự bị động viên có thể cao hơn hạn tuổi cao nhất của chức vụ tương ứng quy định tại khoản này nhưng không quá 5 tuổi.\n\n3. Khi quân đội có nhu cầu, sĩ quan có đủ phẩm chất, năng lực, sức khoẻ và tự nguyện thì có thể được kéo dài thời hạn phục vụ tại ngũ đến hết hạn tuổi dự bị hạng một; sĩ quan làm công tác nghiên cứu khoa học và giảng dạy ở nhà trường có thể được kéo dài đến hết hạn tuổi dự bị hạng hai; trường hợp đặc biệt có thể được kéo dài trên hạn tuổi dự bị hạng hai."
+   }
+  },
+  {
+   "id": "VN-H399-A14",
+   "no": 14,
+   "noLabel": {
+    "vi": "Điều 14"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Trách nhiệm xây dựng đội ngũ sĩ quan"
+   },
+   "text": {
+    "vi": "Điều 14. Trách nhiệm xây dựng đội ngũ sĩ quan\n\nTrong phạm vi chức năng, nhiệm vụ, quyền hạn của mình, các cơ quan, tổ chức, đơn vị vũ trang nhân dân và mọi công dân có trách nhiệm xây dựng đội ngũ sĩ quan.\n\nChương II\n\nQUÂN HÀM, CHỨC VỤ SĨ QUAN"
+   }
+  },
+  {
+   "id": "VN-H399-A15",
+   "no": 15,
+   "noLabel": {
+    "vi": "Điều 15"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Cấp bậc quân hàm cao nhất đối với chức vụ của sĩ quan"
+   },
+   "text": {
+    "vi": "Điều 15. Cấp bậc quân hàm cao nhất đối với chức vụ của sĩ quan\n\n1. Cấp bậc quân hàm cao nhất đối với chức vụ cơ bản của sĩ quan được quy định như sau:\n\nTrung đội trưởng Thượng uý;\n\nĐại đội trưởng Đại uý;\n\nTiểu đoàn trưởng Thiếu tá;\n\nTrung đoàn trưởng,\n\nHuyện đội trưởng Trung tá;\n\nLữ đoàn trưởng Thượng tá;\n\nSư đoàn trưởng,\n\nTỉnh đội trưởng Đại tá;\n\nTư lệnh Quân đoàn Thiếu tướng;\n\nTư lệnh Quân khu,\n\nTư lệnh Quân chủng Trung tướng;\n\nChủ nhiệm Tổng cục Trung tướng;\n\nTổng Tham mưu trưởng,\n\nChủ nhiệm Tổng cục Chính trị Đại tướng;\n\nBộ trưởng Bộ Quốc phòng Đại tướng.\n\n2. Cấp bậc quân hàm cao nhất của chức vụ tương đương với chức vụ tương ứng quy định tại khoản 1 Điều này và các chức vụ còn lại do cấp có thẩm quyền quy định.\n\n3. Sĩ quan ở đơn vị có nhiệm vụ đặc biệt hoặc ở lực lượng quân sự tỉnh, thành phố trực thuộc trung ương, huyện, quận, thị xã, thành phố thuộc tỉnh trọng yếu theo quy định của Bộ trưởng Bộ Quốc phòng thì cấp bậc quân hàm cao nhất cao hơn một bậc so với cấp bậc quân hàm cao nhất của chức vụ tương ứng quy định tại khoản 1 Điều này."
+   }
+  },
+  {
+   "id": "VN-H399-A16",
+   "no": 16,
+   "noLabel": {
+    "vi": "Điều 16"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Đối tượng được phong quân hàm sĩ quan tại ngũ"
+   },
+   "text": {
+    "vi": "Điều 16. Đối tượng được phong quân hàm sĩ quan tại ngũ\n\nNhững người sau đây được xét phong quân hàm sĩ quan tại ngũ:\n\n1. Học viên tốt nghiệp đào tạo sĩ quan tại ngũ được phong quân hàm Thiếu uý; trường hợp tốt nghiệp loại giỏi hoặc tốt nghiệp loại khá mà đã tham gia chiến đấu, phục vụ chiến đấu hoặc là Anh hùng Lực lượng vũ trang nhân dân, Anh hùng Lao động thì được phong quân hàm Trung uý;\n\n2. Hạ sĩ quan, binh sĩ trong thời chiến; quân nhân chuyên nghiệp và công chức quốc phòng tại ngũ; cán bộ, công chức ngoài quân đội và những người tốt nghiệp đại học trở lên vào phục vụ tại ngũ được bổ nhiệm giữ chức vụ của sĩ quan thì được phong cấp bậc quân hàm sĩ quan tương xứng."
+   }
+  },
+  {
+   "id": "VN-H399-A17",
+   "no": 17,
+   "noLabel": {
+    "vi": "Điều 17"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Thăng quân hàm đối với sĩ quan tại ngũ"
+   },
+   "text": {
+    "vi": "Điều 17. Thăng quân hàm đối với sĩ quan tại ngũ\n\n1. Sĩ quan tại ngũ được thăng quân hàm khi có ba điều kiện sau đây:\n\na) Đủ tiêu chuẩn theo quy định;\n\nb) Cấp bậc quân hàm hiện tại thấp hơn cấp bậc quân hàm cao nhất quy định đối với chức vụ đang đảm nhiệm;\n\nc) Đủ thời hạn xét thăng quân hàm quy định tại khoản 2 Điều này.\n\n2. Thời hạn xét thăng quân hàm đối với sĩ quan tại ngũ được quy định như sau:\n\nThiếu uý lên Trung uý 2 năm;\n\nTrung uý lên Thượng uý 3 năm;\n\nThượng uý lên Đại uý 3 năm;\n\nĐại uý lên Thiếu tá 4 năm;\n\nThiếu tá lên Trung tá 4 năm;\n\nTrung tá lên Thượng tá 4 năm;\n\nThượng tá lên Đại tá 4 năm;\n\nThăng quân hàm cấp Tướng không quy định thời hạn.\n\nThời gian sĩ quan học tập tại trường được tính vào thời hạn xét thăng quân hàm.\n\nTrong thời chiến, thời hạn xét thăng quân hàm có thể được rút ngắn theo quy định của cấp có thẩm quyền.\n\n3. Sĩ quan lập công đặc biệt xuất sắc thì được xét thăng quân hàm vượt bậc."
+   }
+  },
+  {
+   "id": "VN-H399-A18",
+   "no": 18,
+   "noLabel": {
+    "vi": "Điều 18"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Thăng quân hàm sĩ quan trước thời hạn"
+   },
+   "text": {
+    "vi": "Điều 18. Thăng quân hàm sĩ quan trước thời hạn\n\nSĩ quan được xét thăng quân hàm trước thời hạn quy định tại khoản 2 Điều 17 của Luật này trong các trường hợp sau đây:\n\n1. Trong chiến đấu lập chiến công xuất sắc hoặc trong công tác, nghiên cứu khoa học được tặng Huân chương;\n\n2. Hoàn thành tốt chức trách, nhiệm vụ mà cấp bậc quân hàm hiện tại thấp hơn cấp bậc quân hàm cao nhất quy định đối với chức vụ mà sĩ quan đang đảm nhiệm từ hai bậc trở lên."
+   }
+  },
+  {
+   "id": "VN-H399-A19",
+   "no": 19,
+   "noLabel": {
+    "vi": "Điều 19"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Kéo dài thời hạn xét thăng quân hàm sĩ quan"
+   },
+   "text": {
+    "vi": "Điều 19. Kéo dài thời hạn xét thăng quân hàm sĩ quan\n\n1. Sĩ quan đến thời hạn xét thăng quân hàm mà chưa đủ điều kiện thì được xét thăng quân hàm vào những năm tiếp theo, nhưng không quá thời hạn quy định tại khoản 2 Điều 17 của Luật này; nếu hết thời hạn đó vẫn không được thăng quân hàm thì thôi phục vụ tại ngũ.\n\n2. Trong thời hạn xét thăng quân hàm, sĩ quan bị kỷ luật cảnh cáo, giáng chức, cách chức hoặc trong năm cuối của thời hạn xét thăng quân hàm, sĩ quan bị kỷ luật khiển trách thì thời hạn xét thăng quân hàm phải kéo dài ít nhất một năm.\n\n3. Sĩ quan bị kỷ luật giáng cấp bậc quân hàm, sau ít nhất một năm kể từ ngày bị giáng cấp, nếu tiến bộ thì được xét thăng quân hàm."
+   }
+  },
+  {
+   "id": "VN-H399-A20",
+   "no": 20,
+   "noLabel": {
+    "vi": "Điều 20"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Mức thăng, giáng cấp bậc quân hàm sĩ quan"
+   },
+   "text": {
+    "vi": "Điều 20. Mức thăng, giáng cấp bậc quân hàm sĩ quan\n\nViệc thăng hoặc giáng cấp bậc quân hàm sĩ quan mỗi lần chỉ được một bậc; trường hợp đặc biệt mới thăng hoặc giáng nhiều bậc."
+   }
+  },
+  {
+   "id": "VN-H399-A21",
+   "no": 21,
+   "noLabel": {
+    "vi": "Điều 21"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Bổ nhiệm, miễn nhiệm chức vụ đối với sĩ quan"
+   },
+   "text": {
+    "vi": "Điều 21. Bổ nhiệm, miễn nhiệm chức vụ đối với sĩ quan\n\n1. Sĩ quan được bổ nhiệm chức vụ khi có nhu cầu biên chế và đủ tiêu chuẩn quy định đối với chức vụ đảm nhiệm.\n\n2. Việc miễn nhiệm chức vụ đối với sĩ quan được thực hiện trong các trường hợp sau đây :\n\na) Khi thay đổi tổ chức mà không còn biên chế chức vụ sĩ quan đang đảm nhiệm;\n\nb) Sĩ quan không còn đủ tiêu chuẩn và điều kiện đảm nhiệm chức vụ hiện tại;\n\nc) Sĩ quan hết hạn tuổi phục vụ tại ngũ quy định tại khoản 1 Điều 13 của Luật này mà không được kéo dài thời hạn phục vụ tại ngũ.\n\n3. Sĩ quan có thể được giao chức vụ thấp hơn chức vụ đang đảm nhiệm hoặc chức vụ có quy định cấp bậc quân hàm cao nhất thấp hơn cấp bậc quân hàm hiện tại trong những trường hợp sau đây:\n\na) Tăng cường cho nhiệm vụ đặc biệt;\n\nb) Thay đổi tổ chức, biên chế;\n\nc) Điều chỉnh để phù hợp với năng lực, sức khoẻ của sĩ quan."
+   }
+  },
+  {
+   "id": "VN-H399-A22",
+   "no": 22,
+   "noLabel": {
+    "vi": "Điều 22"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Quan hệ cấp bậc, chức vụ của sĩ quan"
+   },
+   "text": {
+    "vi": "Điều 22. Quan hệ cấp bậc, chức vụ của sĩ quan\n\nSĩ quan có cấp bậc quân hàm cao hơn là cấp trên của sĩ quan có cấp bậc quân hàm thấp hơn; trường hợp sĩ quan có chức vụ cao hơn nhưng có cấp bậc quân hàm bằng hoặc thấp hơn cấp bậc quân hàm của sĩ quan thuộc quyền thì sĩ quan có chức vụ cao hơn là cấp trên."
+   }
+  },
+  {
+   "id": "VN-H399-A23",
+   "no": 23,
+   "noLabel": {
+    "vi": "Điều 23"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Quyền tạm đình chỉ chức vụ đối với sĩ quan trong trường hợp khẩn cấp"
+   },
+   "text": {
+    "vi": "Điều 23. Quyền tạm đình chỉ chức vụ đối với sĩ quan trong trường hợp khẩn cấp\n\nTrường hợp khẩn cấp mà sĩ quan thuộc quyền không chấp hành mệnh lệnh có thể gây ra hậu quả nghiêm trọng thì sĩ quan có chức vụ từ Trung đoàn trưởng trở lên được quyền tạm đình chỉ chức vụ đối với sĩ quan đó và chỉ định người thay thế tạm thời, đồng thời phải báo cáo ngay cấp trên trực tiếp."
+   }
+  },
+  {
+   "id": "VN-H399-A24",
+   "no": 24,
+   "noLabel": {
+    "vi": "Điều 24"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Biệt phái sĩ quan"
+   },
+   "text": {
+    "vi": "Điều 24. Biệt phái sĩ quan\n\nCăn cứ vào yêu cầu nhiệm vụ quốc phòng, sĩ quan tại ngũ được biệt phái đến công tác ở cơ quan, tổ chức ngoài quân đội, do cấp có thẩm quyền quyết định."
+   }
+  },
+  {
+   "id": "VN-H399-A25",
+   "no": 25,
+   "noLabel": {
+    "vi": "Điều 25"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Thẩm quyền quyết định đối với sĩ quan"
+   },
+   "text": {
+    "vi": "Điều 25. Thẩm quyền quyết định đối với sĩ quan\n\n1. Thẩm quyền bổ nhiệm chức vụ, phong, thăng quân hàm đối với sĩ quan được quy định như sau:\n\na) Chủ tịch nước bổ nhiệm Tổng tham mưu trưởng, Chủ nhiệm Tổng cục Chính trị; phong, thăng quân hàm Đại tướng, Thượng tướng, Đô đốc Hải quân;\n\nb) Thủ tướng Chính phủ bổ nhiệm Chủ nhiệm Tổng cục, Tư lệnh Quân khu, Tư lệnh Quân chủng, Tư lệnh Quân đoàn và các chức vụ tương đương; phong, thăng quân hàm Trung tướng, Phó Đô đốc Hải quân, Thiếu tướng, Chuẩn Đô đốc Hải quân;\n\nc) Việc bổ nhiệm các chức vụ thuộc ngành Kiểm sát, Toà án, Thi hành án trong quân đội được thực hiện theo quy định của pháp luật;\n\nd) Bộ trưởng Bộ Quốc phòng bổ nhiệm các chức vụ và phong, thăng các cấp bậc quân hàm còn lại.\n\n2. Cấp có thẩm quyền quyết định bổ nhiệm, phong, thăng quân hàm đến chức vụ, cấp bậc nào thì có quyền quyết định kéo dài thời hạn phục vụ tại ngũ, nâng lương, điều động, biệt phái, miễn nhiệm, giao chức vụ thấp hơn, giáng chức, cách chức, tước quân hàm, giáng cấp bậc quân hàm sĩ quan, cho thôi phục vụ tại ngũ, chuyển ngạch, chuyển hạng và giải ngạch sĩ quan dự bị đến chức vụ, cấp bậc đó.\n\nChương III\n\nNGHĨA VỤ,TRÁCH NHIỆM VÀ QUYỀN LỢI CỦA SĨ QUAN"
+   }
+  },
+  {
+   "id": "VN-H399-A26",
+   "no": 26,
+   "noLabel": {
+    "vi": "Điều 26"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Nghĩa vụ của sĩ quan"
+   },
+   "text": {
+    "vi": "Điều 26. Nghĩa vụ của sĩ quan\n\nSĩ quan có nghĩa vụ sau đây:\n\n1. Sẵn sàng chiến đấu, hy sinh bảo vệ độc lập, chủ quyền, toàn vẹn lãnh thổ của Tổ quốc, bảo vệ Đảng Cộng sản Việt Nam và Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam; tham gia xây dựng đất nước, bảo vệ tài sản và lợi ích của Nhà nước, của cơ quan, tổ chức; bảo vệ tính mạng, tài sản, quyền và lợi ích hợp pháp của cá nhân;\n\n2. Thường xuyên giữ gìn và trau dồi đạo đức cách mạng, học tập, rèn luyện nâng cao trình độ, kiến thức, năng lực về chính trị, quân sự, văn hoá, chuyên môn và thể lực để hoàn thành nhiệm vụ;\n\n3. Tuyệt đối phục tùng tổ chức, phục tùng chỉ huy; nghiêm chỉnh chấp hành điều lệnh, điều lệ, chế độ, quy định của quân đội; giữ bí mật quân sự, bí mật quốc gia;\n\n4. Thường xuyên chăm lo lợi ích vật chất và tinh thần của bộ đội;\n\n5. Gương mẫu chấp hành và vận động nhân dân thực hiện đường lối, chủ trương của Đảng, chính sách, pháp luật của Nhà nước; tôn trọng và gắn bó mật thiết với nhân dân."
+   }
+  },
+  {
+   "id": "VN-H399-A27",
+   "no": 27,
+   "noLabel": {
+    "vi": "Điều 27"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Trách nhiệm của sĩ quan"
+   },
+   "text": {
+    "vi": "Điều 27. Trách nhiệm của sĩ quan\n\nSĩ quan có trách nhiệm sau đây:\n\n1. Chịu trách nhiệm trước pháp luật và cấp trên về những mệnh lệnh của mình, về việc chấp hành mệnh lệnh của cấp trên và việc thừa hành nhiệm vụ của cấp dưới thuộc quyền;\n\n2. Lãnh đạo, chỉ huy, quản lý, tổ chức thực hiện mọi nhiệm vụ của đơn vị theo chức trách được giao; bảo đảm cho đơn vị chấp hành triệt để đường lối, chủ trương của Đảng, chính sách, pháp luật của Nhà nước, điều lệnh, điều lệ, chế độ, quy định của quân đội, sẵn sàng chiến đấu và hoàn thành tốt mọi nhiệm vụ trong bất kỳ hoàn cảnh, điều kiện nào;\n\n3. Khi nhận mệnh lệnh của người chỉ huy, nếu sĩ quan có căn cứ cho là mệnh lệnh đó trái pháp luật thì phải báo cáo ngay với người ra mệnh lệnh; trong trường hợp vẫn phải chấp hành mệnh lệnh thì báo cáo kịp thời lên cấp trên trực tiếp của người ra mệnh lệnh và không phải chịu trách nhiệm về hậu quả của việc thi hành mệnh lệnh đó."
+   }
+  },
+  {
+   "id": "VN-H399-A28",
+   "no": 28,
+   "noLabel": {
+    "vi": "Điều 28"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Những việc sĩ quan không được làm"
+   },
+   "text": {
+    "vi": "Điều 28. Những việc sĩ quan không được làm\n\nSĩ quan không được làm những việc trái với pháp luật, kỷ luật quân đội và những việc mà pháp luật quy định cán bộ, công chức không được làm."
+   }
+  },
+  {
+   "id": "VN-H399-A29",
+   "no": 29,
+   "noLabel": {
+    "vi": "Điều 29"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Nghĩa vụ, trách nhiệm và quyền lợi của sĩ quan biệt phái"
+   },
+   "text": {
+    "vi": "Điều 29. Nghĩa vụ, trách nhiệm và quyền lợi của sĩ quan biệt phái\n\nSĩ quan biệt phái có nghĩa vụ, trách nhiệm và quyền lợi sau đây:\n\n1. Thực hiện nghĩa vụ, trách nhiệm và quyền lợi như sĩ quan đang công tác trong quân đội; được cơ quan, tổ chức nơi đến biệt phái bảo đảm điều kiện làm việc và sinh hoạt;\n\n2. Thực hiện nhiệm vụ do Bộ Quốc phòng giao, làm tham mưu về nhiệm vụ quốc phòng và chịu sự quản lý của cơ quan, tổ chức nơi đến biệt phái."
+   }
+  },
+  {
+   "id": "VN-H399-A30",
+   "no": 30,
+   "noLabel": {
+    "vi": "Điều 30"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Đào tạo, bồi dưỡng đối với sĩ quan"
+   },
+   "text": {
+    "vi": "Điều 30. Đào tạo, bồi dưỡng đối với sĩ quan\n\n1. Sĩ quan được Đảng và Nhà nước chăm lo, khuyến khích và tạo điều kiện để phát triển tài năng.\n\n2. Sĩ quan được đào tạo, bồi dưỡng tại các trường trong và ngoài quân đội theo yêu cầu công tác."
+   }
+  },
+  {
+   "id": "VN-H399-A31",
+   "no": 31,
+   "noLabel": {
+    "vi": "Điều 31"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Tiền lương, phụ cấp, nhà ở và điều kiện làm việc đối với sĩ quan tại ngũ"
+   },
+   "text": {
+    "vi": "Điều 31. Tiền lương, phụ cấp, nhà ở và điều kiện làm việc đối với sĩ quan tại ngũ\n\nSĩ quan tại ngũ được hưởng tiền lương, phụ cấp, nhà ở và điều kiện làm việc như sau:\n\n1. Chế độ tiền lương và phụ cấp do Chính phủ quy định; bảng lương của sĩ quan căn cứ vào cấp bậc quân hàm và chức vụ được quy định phù hợp với tính chất, nhiệm vụ của quân đội; thâm niên tính theo mức lương hiện hưởng và thời gian phục vụ tại ngũ. Sĩ quan được hưởng phụ cấp, trợ cấp như đối với cán bộ, công chức có cùng điều kiện làm việc và phụ cấp, trợ cấp có tính chất đặc thù quân sự;\n\n2. Đủ tiêu chuẩn, đến thời hạn xét thăng quân hàm nhưng đã có bậc quân hàm cao nhất của chức vụ đang đảm nhiệm hoặc đã có bậc quân hàm Đại tá 4 năm trở lên mà chưa được thăng quân hàm cấp Tướng thì được nâng lương theo chế độ tiền lương của sĩ quan;\n\n3. Nếu giữ nhiều chức vụ trong cùng một thời điểm thì được hưởng quyền lợi của chức vụ cao nhất;\n\n4. Khi được giao chức vụ thấp hơn chức vụ đang đảm nhiệm theo quy định tại điểm a khoản 3 Điều 21 của Luật này thì được giữ nguyên quyền lợi của chức vụ cũ;\n\n5. Khi có quyết định miễn nhiệm chức vụ thì được hưởng các quyền lợi theo cương vị mới;\n\n6. Được bảo đảm điều kiện để thực hiện nhiệm vụ theo quy định của Bộ trưởng Bộ Quốc phòng;\n\n7. Được bảo đảm nhà ở, đăng ký hộ khẩu theo quy định của Chính phủ."
+   }
+  },
+  {
+   "id": "VN-H399-A32",
+   "no": 32,
+   "noLabel": {
+    "vi": "Điều 32"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Chế độ nghỉ của sĩ quan tại ngũ"
+   },
+   "text": {
+    "vi": "Điều 32. Chế độ nghỉ của sĩ quan tại ngũ\n\n1. Sĩ quan tại ngũ được nghỉ những ngày lễ theo quy định của Bộ luật lao động và nghỉ theo quy định của Bộ trưởng Bộ Quốc phòng.\n\n2. Khi có lệnh tổng động viên hoặc động viên cục bộ và trong thời chiến, Bộ trưởng Bộ Quốc phòng được ra lệnh đình chỉ chế độ nghỉ của sĩ quan; mọi sĩ quan đang nghỉ phải về ngay đơn vị."
+   }
+  },
+  {
+   "id": "VN-H399-A33",
+   "no": 33,
+   "noLabel": {
+    "vi": "Điều 33"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Chăm sóc sức khoẻ sĩ quan tại ngũ và gia đình sĩ quan"
+   },
+   "text": {
+    "vi": "Điều 33. Chăm sóc sức khoẻ sĩ quan tại ngũ và gia đình sĩ quan\n\n1. Sĩ quan tại ngũ được chăm sóc sức khoẻ; khi bị thương, ốm đau ở xa các cơ sở quân y hoặc mắc những bệnh mà cơ sở quân y không có khả năng điều trị thì được khám bệnh, chữa bệnh tại các cơ sở dân y, được quân đội thanh toán viện phí.\n\n2. Bố, mẹ, người nuôi dưỡng hợp pháp của chồng và của vợ, vợ hoặc chồng và con dưới 18 tuổi của sĩ quan tại ngũ không có chế độ bảo hiểm y tế thì được khám bệnh, chữa bệnh miễn hoặc giảm viện phí tại các cơ sở quân y và dân y theo quy định của Chính phủ."
+   }
+  },
+  {
+   "id": "VN-H399-A34",
+   "no": 34,
+   "noLabel": {
+    "vi": "Điều 34"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Sĩ quan tại ngũ chuyển sang quân nhân chuyên nghiệp, công chức quốc phòng"
+   },
+   "text": {
+    "vi": "Điều 34. Sĩ quan tại ngũ chuyển sang quân nhân chuyên nghiệp, công chức quốc phòng\n\nKhi chức vụ đang đảm nhiệm không còn nhu cầu bố trí sĩ quan, nếu sĩ quan có đủ điều kiện thì được xét chuyển sang quân nhân chuyên nghiệp hoặc công chức quốc phòng và được hưởng mức lương không thấp hơn khi còn là sĩ quan."
+   }
+  },
+  {
+   "id": "VN-H399-A35",
+   "no": 35,
+   "noLabel": {
+    "vi": "Điều 35"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Sĩ quan thôi phục vụ tại ngũ"
+   },
+   "text": {
+    "vi": "Điều 35. Sĩ quan thôi phục vụ tại ngũ\n\n1. Sĩ quan thôi phục vụ tại ngũ trong các trường hợp sau đây:\n\na) Đủ điều kiện nghỉ hưu;\n\nb) Hết tuổi phục vụ tại ngũ quy định tại khoản 1 Điều 13 của Luật này;\n\nc) Do thay đổi tổ chức, biên chế mà không còn nhu cầu bố trí sĩ quan, quân nhân chuyên nghiệp, công chức quốc phòng;\n\nd) Đã quá thời hạn kéo dài xét thăng quân hàm quy định tại khoản 1 Điều 19 của Luật này mà vẫn không đủ tiêu chuẩn thăng quân hàm;\n\nđ) Không còn đủ tiêu chuẩn quy định đối với sĩ quan tại ngũ.\n\n2. Sĩ quan thôi phục vụ tại ngũ theo một trong các hình thức sau đây:\n\na) Nghỉ hưu;\n\nb) Chuyển ngành;\n\nc) Phục viên.\n\n3. Khi thôi phục vụ tại ngũ, nếu đủ tiêu chuẩn và chưa hết hạn tuổi dự bị hạng 2 quy định tại Điều 13 của Luật này thì chuyển sang ngạch sĩ quan dự bị."
+   }
+  },
+  {
+   "id": "VN-H399-A36",
+   "no": 36,
+   "noLabel": {
+    "vi": "Điều 36"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Điều kiện nghỉ hưu của sĩ quan"
+   },
+   "text": {
+    "vi": "Điều 36. Điều kiện nghỉ hưu của sĩ quan\n\nSĩ quan được nghỉ hưu khi:\n\n1. Đủ điều kiện theo quy định bảo hiểm xã hội của Nhà nước;\n\n2. Trong trường hợp chưa đủ điều kiện nghỉ hưu theo quy định tại khoản 1 Điều này, quân đội không còn nhu cầu bố trí sĩ quan, quân nhân chuyên nghiệp, công chức quốc phòng hoặc không chuyển ngành được, nếu nam sĩ quan có đủ 25 năm và nữ sĩ quan có đủ 20 năm phục vụ trong quân đội trở lên thì được nghỉ hưu."
+   }
+  },
+  {
+   "id": "VN-H399-A37",
+   "no": 37,
+   "noLabel": {
+    "vi": "Điều 37"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Quyền lợi của sĩ quan thôi phục vụ tại ngũ"
+   },
+   "text": {
+    "vi": "Điều 37. Quyền lợi của sĩ quan thôi phục vụ tại ngũ\n\n1. Sĩ quan nghỉ hưu được hưởng quyền lợi sau đây:\n\na) Lương hưu tính trên cơ sở quy định tại khoản 1 Điều 31 của Luật này;\n\nb) Sử dụng quân phục, quân hiệu, cấp hiệu, phù hiệu trong những ngày lễ và những cuộc hội họp, những buổi giao lưu truyền thống của quân đội;\n\nc) Được chính quyền địa phương nơi sĩ quan cư trú hợp pháp đăng ký hộ khẩu, tạo điều kiện để làm ăn sinh sống; trường hợp chưa có nhà ở thì được bảo đảm nhà ở hoặc đất ở theo quy định của Chính phủ;\n\nd) Khám bệnh, chữa bệnh theo chế độ bảo hiểm y tế tại các cơ sở quân y và dân y.\n\n2. Sĩ quan chuyển ngành được hưởng quyền lợi sau đây:\n\na) Nhà nước bảo đảm đào tạo về chuyên môn, nghiệp vụ cần thiết đối với những sĩ quan chuyển ngành theo yêu cầu của tổ chức;\n\nb) Bảo lưu mức lương sĩ quan tại thời điểm chuyển ngành trong thời gian tối thiểu là 18 tháng;\n\nc) Khi nghỉ hưu được hưởng phụ cấp thâm niên tính theo thời gian phục vụ tại ngũ và cấp bậc quân hàm tại thời điểm chuyển ngành; trường hợp mức lương hiện hưởng thấp hơn mức lương sĩ quan tại thời điểm chuyển ngành thì được lấy mức lương sĩ quan tại thời điểm chuyển ngành để tính lương hưu;\n\nd) Các quyền lợi quy định tại điểm b và điểm c khoản 1 Điều này.\n\n3. Sĩ quan phục viên được hưởng quyền lợi sau đây:\n\na) Trợ cấp tạo việc làm và trợ cấp phục viên một lần;\n\nb) Nếu có đủ 15 năm phục vụ trong quân đội trở lên, khi ốm đau được khám bệnh, chữa bệnh miễn hoặc giảm viện phí tại cơ sở quân y theo quy định của Bộ trưởng Bộ Quốc phòng;\n\nc) Các quyền lợi quy định tại điểm b và điểm c khoản 1 Điều này.\n\n4. Sĩ quan có thời gian trực tiếp chiến đấu, phục vụ chiến đấu hoặc công tác ở địa bàn, ngành nghề có tính chất đặc thù thì được quy đổi thời gian đó để tính hưởng quyền lợi khi thôi phục vụ tại ngũ. Chính phủ quy định cụ thể việc thực hiện Điều này.\n\nChương IV\n\n SĨ QUAN DỰ BỊ"
+   }
+  },
+  {
+   "id": "VN-H399-A38",
+   "no": 38,
+   "noLabel": {
+    "vi": "Điều 38"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Hạng ngạch sĩ quan dự bị"
+   },
+   "text": {
+    "vi": "Điều 38. Hạng ngạch sĩ quan dự bị\n\nSĩ quan dự bị gồm có sĩ quan dự bị hạng một và sĩ quan dự bị hạng hai theo hạn tuổi quy định tại khoản 1 Điều 13 của Luật này."
+   }
+  },
+  {
+   "id": "VN-H399-A39",
+   "no": 39,
+   "noLabel": {
+    "vi": "Điều 39"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Đối tượng đăng ký sĩ quan dự bị"
+   },
+   "text": {
+    "vi": "Điều 39. Đối tượng đăng ký sĩ quan dự bị\n\nNhững người sau đây phải đăng ký sĩ quan dự bị:\n\n1. Sĩ quan, cán bộ là quân nhân chuyên nghiệp khi thôi phục vụ tại ngũ còn đủ tiêu chuẩn và điều kiện của sĩ quan dự bị;\n\n2. Quân nhân chuyên nghiệp, hạ sĩ quan khi thôi phục vụ tại ngũ và hạ sĩ quan dự bị đã được đào tạo sĩ quan dự bị;\n\n3. Cán bộ, công chức ngoài quân đội và những người tốt nghiệp đại học trở lên có chuyên môn phù hợp với yêu cầu của quân đội, đã được đào tạo sĩ quan dự bị."
+   }
+  },
+  {
+   "id": "VN-H399-A40",
+   "no": 40,
+   "noLabel": {
+    "vi": "Điều 40"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Gọi đào tạo sĩ quan dự bị và gọi sĩ quan dự bị phục vụ tại ngũ"
+   },
+   "text": {
+    "vi": "Điều 40. Gọi đào tạo sĩ quan dự bị và gọi sĩ quan dự bị phục vụ tại ngũ\n\nCăn cứ vào kế hoạch của Chính phủ, Bộ trưởng Bộ Quốc phòng được quyền:\n\n1. Gọi đào tạo sĩ quan dự bị đối với cán bộ, công chức, sinh viên và những người tốt nghiệp đại học trở lên ngoài quân đội;\n\n2. Gọi sĩ quan dự bị vào phục vụ tại ngũ trong các trường hợp sau đây:\n\na) Trong thời bình, đối với sĩ quan dự bị chưa phục vụ tại ngũ; thời gian phục vụ tại ngũ là 2 năm;\n\nb) Trong thời chiến, khi có lệnh tổng động viên, động viên cục bộ hoặc khi có nhu cầu sĩ quan làm nhiệm vụ chiến đấu, phục vụ chiến đấu bảo vệ chủ quyền lãnh thổ mà chưa đến mức động viên cục bộ."
+   }
+  },
+  {
+   "id": "VN-H399-A41",
+   "no": 41,
+   "noLabel": {
+    "vi": "Điều 41"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Bổ nhiệm chức vụ, phong, thăng quân hàm sĩ quan dự bị"
+   },
+   "text": {
+    "vi": "Điều 41. Bổ nhiệm chức vụ, phong, thăng quân hàm sĩ quan dự bị\n\nViệc bổ nhiệm chức vụ, phong, thăng quân hàm đối với sĩ quan dự bị được quy định như sau:\n\n1. Học viên tốt nghiệp đào tạo sĩ quan dự bị được phong quân hàm Thiếu uý sĩ quan dự bị;\n\n2. Cán bộ, công chức tốt nghiệp đào tạo sĩ quan dự bị thì căn cứ vào chức vụ được bổ nhiệm trong các đơn vị dự bị động viên, kết quả học tập, rèn luyện và mức lương đang hưởng để xét phong cấp bậc quân hàm sĩ quan dự bị tương xứng;\n\n3. Căn cứ vào nhu cầu biên chế, tiêu chuẩn chức vụ của sĩ quan, kết quả học tập quân sự và thành tích phục vụ quốc phòng, sĩ quan dự bị được bổ nhiệm chức vụ trong các đơn vị dự bị động viên và được thăng cấp bậc quân hàm tương xứng với chức vụ đảm nhiệm;\n\n4. Thời hạn xét thăng quân hàm sĩ quan dự bị dài hơn 2 năm so với thời hạn của mỗi cấp bậc quân hàm sĩ quan tại ngũ quy định tại khoản 2 Điều 17 của Luật này;\n\n5. Sĩ quan dự bị vào phục vụ tại ngũ thì căn cứ vào tiêu chuẩn, quy định cấp bậc quân hàm của chức vụ được bổ nhiệm, cấp bậc quân hàm sĩ quan dự bị hiện tại và thời hạn xét thăng quân hàm để xét thăng cấp bậc quân hàm tương xứng."
+   }
+  },
+  {
+   "id": "VN-H399-A42",
+   "no": 42,
+   "noLabel": {
+    "vi": "Điều 42"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Trách nhiệm của sĩ quan dự bị"
+   },
+   "text": {
+    "vi": "Điều 42. Trách nhiệm của sĩ quan dự bị\n\nSĩ quan dự bị có trách nhiệm sau đây:\n\n1. Đăng ký, chịu sự quản lý của chính quyền và cơ quan quân sự địa phương nơi cư trú hoặc công tác và đơn vị dự bị động viên;\n\n2. Tham gia các lớp huấn luyện, tập trung kiểm tra sẵn sàng động viên, sẵn sàng chiến đấu theo quy định của Bộ trưởng Bộ Quốc phòng;\n\n3. Hoàn thành chức trách, nhiệm vụ được giao trong lực lượng dự bị động viên;\n\n4. Vào phục vụ tại ngũ theo quy định tại khoản 2 Điều 40 của Luật này."
+   }
+  },
+  {
+   "id": "VN-H399-A43",
+   "no": 43,
+   "noLabel": {
+    "vi": "Điều 43"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Quyền lợi của sĩ quan dự bị"
+   },
+   "text": {
+    "vi": "Điều 43. Quyền lợi của sĩ quan dự bị\n\nSĩ quan dự bị có quyền lợi sau đây:\n\n1. Được hưởng phụ cấp trách nhiệm quản lý đơn vị dự bị động viên; trong thời gian tập trung huấn luyện, kiểm tra sẵn sàng động viên, kiểm tra sẵn sàng chiến đấu được hưởng lương, phụ cấp, trợ cấp, được khám bệnh, chữa bệnh tại các cơ sở quân y và được hưởng các chế độ khác do Chính phủ quy định; được miễn thực hiện nghĩa vụ lao động công ích;\n\n2. Sĩ quan dự bị được gọi vào phục vụ tại ngũ trong thời bình, khi hết thời hạn được trở về cơ quan hoặc địa phương trước khi nhập ngũ và tiếp tục phục vụ trong ngạch dự bị; trường hợp quân đội có nhu cầu, sĩ quan có đủ tiêu chuẩn thì được chuyển sang ngạch sĩ quan tại ngũ."
+   }
+  },
+  {
+   "id": "VN-H399-A44",
+   "no": 44,
+   "noLabel": {
+    "vi": "Điều 44"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Chuyển hạng, giải ngạch sĩ quan dự bị"
+   },
+   "text": {
+    "vi": "Điều 44. Chuyển hạng, giải ngạch sĩ quan dự bị\n\n1. Sĩ quan dự bị hết hạn tuổi dự bị hạng một quy định tại khoản 1 Điều 13 của Luật này thì chuyển sang sĩ quan dự bị hạng hai.\n\n2. Sĩ quan dự bị hết hạn tuổi dự bị hạng hai hoặc không còn đủ điều kiện, tiêu chuẩn thì giải ngạch sĩ quan dự bị. Việc chuyển hạng và giải ngạch sĩ quan dự bị do cấp có thẩm quyền quyết định.\n\nChương V\nQUẢN LÝ NHÀ NƯỚC VỀ SĨ QUAN"
+   }
+  },
+  {
+   "id": "VN-H399-A45",
+   "no": 45,
+   "noLabel": {
+    "vi": "Điều 45"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Nội dung quản lý nhà nước về sĩ quan"
+   },
+   "text": {
+    "vi": "Điều 45. Nội dung quản lý nhà nước về sĩ quan\n\nNội dung quản lý nhà nước về sĩ quan bao gồm:\n\n1. Ban hành và hướng dẫn thực hiện các văn bản quy phạm pháp luật về sĩ quan;\n\n2. Lập quy hoạch, kế hoạch xây dựng đội ngũ sĩ quan;\n\n3. Chỉ đạo và tổ chức thực hiện việc đào tạo, bồi dưỡng, quản lý, bố trí, sử dụng sĩ quan; chính sách, chế độ đối với đội ngũ sĩ quan;\n\n4. Chỉ đạo, tổ chức việc thanh tra, kiểm tra, giải quyết các khiếu nại, tố cáo, khen thưởng, xử lý vi phạm đối với sĩ quan và việc thi hành các quy định của Luật này."
+   }
+  },
+  {
+   "id": "VN-H399-A46",
+   "no": 46,
+   "noLabel": {
+    "vi": "Điều 46"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Trách nhiệm của Chính phủ, các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ"
+   },
+   "text": {
+    "vi": "Điều 46. Trách nhiệm của Chính phủ, các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ\n\n1. Chính phủ thống nhất quản lý nhà nước về sĩ quan.\n\n2. Bộ Quốc phòng chịu trách nhiệm trước Chính phủ thực hiện việc quản lý nhà nước về sĩ quan; chủ trì phối hợp với các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Uỷ ban nhân dân tỉnh, thành phố trực thuộc trung ương để thực hiện việc quản lý nhà nước về sĩ quan.\n\n3. Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm phối hợp với Bộ Quốc phòng thực hiện việc quản lý nhà nước về sĩ quan; đào tạo, cung cấp cho quân đội những cán bộ phù hợp với yêu cầu quân sự; ưu tiên tiếp nhận, bố trí việc làm cho sĩ quan đã hoàn thành nhiệm vụ trong quân đội, có đủ điều kiện chuyển ngành theo kế hoạch của Chính phủ; bảo đảm điều kiện để thực hiện chính sách, chế độ đối với sĩ quan tại ngũ, sĩ quan thôi phục vụ tại ngũ và gia đình sĩ quan."
+   }
+  },
+  {
+   "id": "VN-H399-A47",
+   "no": 47,
+   "noLabel": {
+    "vi": "Điều 47"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Trách nhiệm của chính quyền địa phương các cấp"
+   },
+   "text": {
+    "vi": "Điều 47. Trách nhiệm của chính quyền địa phương các cấp\n\nChính quyền địa phương các cấp trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm:\n\n1. Giáo dục hướng nghiệp, tạo nguồn đào tạo sĩ quan trong thanh niên;\n\n2. Ưu tiên tiếp nhận, bố trí việc làm đối với sĩ quan chuyển ngành, phục viên;\n\n3. Đăng ký, quản lý, tạo điều kiện để sĩ quan dự bị hoàn thành nhiệm vụ theo quy định của pháp luật;\n\n4. Thực hiện các chế độ, chính sách đối với sĩ quan và gia đình sĩ quan cư trú hợp pháp tại địa phương.\n\nChương VI\n\nKHEN THƯỞNG VÀ XỬ LÝ VI PHẠM"
+   }
+  },
+  {
+   "id": "VN-H399-A48",
+   "no": 48,
+   "noLabel": {
+    "vi": "Điều 48"
+   },
+   "chapter": {
+    "vi": "Chương VI"
+   },
+   "heading": {
+    "vi": "Khen thưởng"
+   },
+   "text": {
+    "vi": "Điều 48. Khen thưởng\n\nSĩ quan có thành tích trong chiến đấu, phục vụ chiến đấu, công tác; cơ quan, tổ chức và cá nhân có thành tích trong việc thực hiện Luật này thì được khen thưởng theo quy định của Nhà nước."
+   }
+  },
+  {
+   "id": "VN-H399-A49",
+   "no": 49,
+   "noLabel": {
+    "vi": "Điều 49"
+   },
+   "chapter": {
+    "vi": "Chương VI"
+   },
+   "heading": {
+    "vi": "Xử lý vi phạm"
+   },
+   "text": {
+    "vi": "Điều 49. Xử lý vi phạm\n\n1. Sĩ quan vi phạm kỷ luật quân đội, pháp luật của Nhà nước thì tuỳ theo tính chất, mức độ vi phạm mà bị xử lý theo Điều lệnh quản lý bộ đội, xử phạt hành chính hoặc bị truy cứu trách nhiệm hình sự theo quy định của pháp luật.\n\n2. Sĩ quan tạm thời không được mang quân hàm khi bị khởi tố, tạm giữ, tạm giam; sĩ quan bị phạt tù thì đương nhiên bị tước quân hàm khi bản án có hiệu lực pháp luật.\n\n3. Cơ quan, tổ chức, cá nhân vi phạm Luật này thì bị xử lý theo quy định của pháp luật.\n\nChương VII\n\nĐIỀU KHOẢN THI HÀNH"
+   }
+  },
+  {
+   "id": "VN-H399-A50",
+   "no": 50,
+   "noLabel": {
+    "vi": "Điều 50"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {
+    "vi": "Hiệu lực thi hành"
+   },
+   "text": {
+    "vi": "Điều 50. Hiệu lực thi hành\n\nLuật này có hiệu lực thi hành kể từ ngày 01 tháng 4 năm 2000. Luật này thay thế Luật về sĩ quan Quân đội nhân dân Việt Nam ngày 30 tháng 12 năm 1981 và Luật sửa đổi, bổ sung một số điều của Luật về sĩ quan Quân đội nhân dân Việt Nam ngày 21 tháng 12 năm 1990. Những quy định trước đây trái với Luật này đều bãi bỏ."
+   }
+  },
+  {
+   "id": "VN-H399-A51",
+   "no": 51,
+   "noLabel": {
+    "vi": "Điều 51"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {
+    "vi": "Quy định thi hành Luật"
+   },
+   "text": {
+    "vi": "Điều 51. Quy định thi hành Luật\n\nChính phủ quy định chi tiết và hướng dẫn thi hành Luật này.\n\nLuật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá X, kỳ họp thứ 6 thông qua ngày 21 tháng 12 năm 1999.\n\n CHỦ TỊCH\n\n (Đã ký)\n\n Nông Đức Mạnh\n\n1:{\"id\":\"6153\",\"docType\":{\"id\":\"11025e19-2dd6-4165-85ad-ab6241186a1a\",\"name\":\"Luật\",\"code\":\"Lu\",\"parentCode\":\"VBQPPL\",\"parentName\":null},\"docGroup\":\"VBQPPL\",\"docNum\":\"16/1999/QH10\",\"title\":\"Luật Sỹ quan quân đội nhân dân Việt Nam số 16/1999/QH10\",\"applicationNote\":null,\"issueDate\":\"1999-12-21T00:00:00\",\"effFrom\":\"2000-04-01T00:00:00\",\"effTo\":null,\"publicDate\":null,\"effStatus\":{\"id\":\"9c20e89d-e048-4f3a-b6c2-df87fe0b1ada\",\"name\":\"Hết hiệu lực một phần\",\"code\":\"HHL1P\",\"parentCode\":null,\"parentName\":null},\"status\":\"Publish\",\"lang\":\"vi\",\"defaultLanguage\":\"VN\",\"updatedBy\":\"System Account\",\"updatedDate\":\"2026-05-08T19:32:46\",\"agencyName\":\"Quốc hội\",\"organization\":{\"id\":\"93724a75-0d15-4e7b-a4df-4282a2bea6a0\",\"code\":\"BQP\",\"name\":\"Bộ Quốc phòng\",\"nameEn\":\"Bộ Quốc phòng\",\"shortName\":\"BQP\",\"orgType\":\"0\"},\"isLw\":true,\"documentContent\":{\"id\":\"6153\",\"title\":null,\"content\":\"$2\"},\"documentContentEn\":null,\"documentContentFileName\":null,\"documentContentFileDocName\":\"16.1999.QH10.doc\",\"documentIssues\":[{\"id\":\"7c585069-0c05-4f25-96bc-0d57b7480f51\",\"agencyId\":\"55\",\"agencyName\":\"Quốc hội\",\"agencyNameEn\":\"National Assembly of Vietnam\",\"agencyCode\":\"QH\",\"personId\":\"184\",\"personName\":\"Nông Đức Mạnh\",\"jobTitleId\":null,\"jobTitleCode\":\"CT\",\"jobTitleName\":\"Chủ tịch\",\"orderIndex\":1}],\"documentMajors\":[{\"id\":\"70\",\"name\":\"Quốc phòng\",\"code\":null,\"parentCode\":null,\"parentName\":null}],\"documentFields\":[{\"id\":\"76e2c0d5-e93e-4ee9-8c72-59dae1167432\",\"name\":\"Chưa phân loại\",\"code\":null,\"parentCode\":null,\"parentName\":null}],\"documentRelatedList\":[{\"id\":\"73b90265-7bbe-49f4-88d7-b4db0641aba2\",\"fileName\":\"6153_body_content.html\",\"relatedType\":\"MARKDOWN\",\"fileTitle\":\"6153_body_content.html\",\"fileOrder\":null}],\"provisionTree\":null,\"references\":null,\"isEffectAllDocument\":false,\"isOld\":true,\"reviewStatus\":\"RV_DONE\",\"reviewed\":true,\"isTranslationDoc\":false,\"isConsolidatedDocument\":false,\"isConstitutionDocument\":false,\"isAdministrativeDocument\":false,\"viewCount\":77,\"showViewCount\":true,\"hasContent\":true,\"hasOriginalPdf\":null,\"hasAIProcessed\":false,\"hasClauseRelation\":true,\"aiResults\":[]}"
+   }
+  }
+ ]
+}

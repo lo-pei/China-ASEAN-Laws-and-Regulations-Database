@@ -1,0 +1,62 @@
+{
+ "id": "PH-H14719",
+ "title": {
+  "zh": null,
+  "en": "An Act Authorizing the Insular Treasurer to Deposit Public Funds of the Philippine Islands With the Secretary of the Treasury of the United states.",
+  "orig": "An Act Authorizing the Insular Treasurer to Deposit Public Funds of the Philippine Islands With the Secretary of the Treasury of the United states."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1934-10-05",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 4128",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 508,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1934/act_4128_1934.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_04128_1934_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_04128_1934_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14719-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The Insular Treasurer with the approval of the Governor-General upon previous\nrecommendation of the Secretary of Finance is authorized in his discretion to deposit with the Secretary of the\nTreasury of the United States upon such terms and conditions, including the rate of interest, if any, to be\nreceived thereon, as such Secretary may from time to time prescribe, any of the public moneys of the\nGovernment of the Philippine Islands."
+   }
+  },
+  {
+   "id": "PH-H14719-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, October 5, 1934."
+   }
+  }
+ ]
+}

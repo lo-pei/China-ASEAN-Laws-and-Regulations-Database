@@ -1,0 +1,63 @@
+{
+ "id": "ID-H333",
+ "title": {
+  "zh": null,
+  "en": null,
+  "id": "PENCABUTAN",
+  "orig": "PENCABUTAN"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02b",
+ "language": "id",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "1971",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU1-1971",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 2,
+ "chars": 1643,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": null
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\01_宪法与基础法\\印尼_WLD_1971_PENCABUTAN.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 2 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H333-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\nPeraturan Pemerintah Pengganti Undang-undang No.1 Tahun 1971\ntentang Pencabutan Undang-undang No. 17 Tahun 1964 tentang Larangan\nPenarikan\nCek Kosong ditetapkan menjadi Undang-undang."
+   }
+  },
+  {
+   "id": "ID-H333-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\nUndang-undang ini mulai berlaku pada hari diundangkan.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan\npengundangan Undang-undang ini dengan penempatannya dalam\nLembaran-Negara\nRepublik Indonesia.\nDisahkan di Jakarta\npada tanggal 16 Oktober 1971\nPresiden Republik Indonesia,\nSOEHARTO\nDiundangkan di Jakarta\npada tanggal 16 Oktober 1971 Jenderal TNI\nSekretaris Negara Republik Indonesia,\nALAMSJAH\nLetnan Jenderal TNI\nPENJELASAN\nATAS\nUNDANG-UNDANG REPUBLIK INDONESIA NOMOR 12 TAHUN 1971\ntentang\nPENETAPAN PERATURAN PEMERINTAH PENGGANTI UNDANG-UNDANG NOMOR 1\nTAHUN 1971 TENTANG PENCABUTAN UNDANG-UNDANG NOMOR 17 TAHUN 1964\nTENTANG\nLARANGAN PENARIKAN CEK KOSONG MENJADI UNDANG-UNDANG\nUMUM.\nPresiden dengan menggunakan wewenang yang tercantum dalam pasal\n22 ayat (1) Undang-undang Dasar 1945 telah mengeluarkan Peraturan\nPemerintah Pengganti Undang-undang No. 1 Tahun 1971 tentang\nPencabutan Undang-undang No. 17 Tahun 1964 tentang Larangan\nPenarikan\nCek Kosong. Sesuai dengan ketentuan dalam pasal 22 ayat\n(2) Undang-undang 1945, maka Peraturan Pemerintah Pengganti\nUndang-undang\ntersebut harus mendapat persetujuan Dewan Perwakilan\nRakyat, untuk ditetapkan menjadi Undang-undang.\nPASAL DEMI PASAL\nPasal 1\nCukup jelas.\nPasal 2\nCukup jelas.\n(Termasuk Lembaran-Negara Republik Indonesia\ntahun 1971, No. 83).\n--------------------------------\nCATATAN\nKutipan: LEMBARAN NEGARA DAN TAMBAHAN LEMBARAN NEGARA TAHUN 1971\nYANG TELAH DICETAK ULANG"
+   }
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "id": "PH-H15200",
+ "title": {
+  "zh": null,
+  "en": "Batas Pambansa Blg. 335  An Act Creating the Municipality of Semirara in the Province of",
+  "orig": "Batas Pambansa Blg. 335  An Act Creating the Municipality of Semirara in the Province of"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1983-02-09",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Batasang Pambansa",
+ "docNumber": "Batas Pambansa Blg. 335",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1368,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/08_国民议会法令_BP/BP_00335_1983_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 BP_00335_1983_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H15200-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "There shall be created the Municipality of Semirara in the Province of Antique out of all\nbarangays and sitios in the Islands of Semirara, Nagubat and Libagao, Province of Antique, and the\nsurrounding areas as described in Section 3 hereof, which are hereby detached and separated from the present\nMunicipality of Caluya, Province of Antique, and to form and constitute a distinct and independent\nmunicipality: Provided, That this Act shall not affect the legal existence of the Municipality of Caluya as such."
+   }
+  },
+  {
+   "id": "PH-H15200-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The seat of the municipal government of the newly created municipality shall be in Barangay\nSemirara, Island of Semirara."
+   }
+  },
+  {
+   "id": "PH-H15200-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "The technical description of the territorial jurisdiction of the Municipality of Semirara shall be as\n\"The municipality shall include the areas bounded by the following coordinates: On the southwest corner 1\nwith latitude 11° 57’ 00\" and longitude 121° 18’ 00\", thence north to corner 2 with latitude 12° 09’ 11\" and\nlongitude 121° 18’ 00\", thence northeast to corner 3 with latitude 12° 14’ 00\", and longitude 121° 25’ 00\",\nthen east to corner 4 with latitude 12° 14’ 00\" and longitude 121° 27’ 00\", thence south to corner 5 with\nlatitude 11° 57’ 00\", and longitude 121° 27’ 00\", thence west to corner 1, covering the islands of Semirara,\nNagubat, and Libagao as per Philippine Coast and Geodetic Chart No. 2518, Edition 2, March 1974.\""
+   }
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "id": "PH-H11423",
+ "title": {
+  "zh": null,
+  "en": "AN ACT DECLARING THE ENUMERATION OF CENSUS IN THE COMANDANCIA OF DAPITAN, MADE PRIOR TO MARCH SECOND, NINETEEN HUNDRED AND THREE, TO BE EFFECTIVE, AND AUTHORIZING THE PAYMENT OF A PER DIEM OF FIVE DOLLARS, UNITED STATES CURRENCY, TO THE ARMY OFFICER DETAILED AS SUPERVISOR OF THE CENSUS FOR SUCH COMANDANCIA OR CENSUS DISTRICT.",
+  "orig": "AN ACT DECLARING THE ENUMERATION OF CENSUS IN THE COMANDANCIA OF DAPITAN, MADE PRIOR TO MARCH SECOND, NINETEEN HUNDRED AND THREE, TO BE EFFECTIVE, AND AUTHORIZING THE PAYMENT OF A PER DIEM OF FIVE DOLLARS, UNITED STATES CURRENCY, TO THE ARMY OFFICER DETAILED AS SUPERVISOR OF THE CENSUS FOR SUCH COMANDANCIA OR CENSUS DISTRICT."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 710",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 1124,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_00710_1903_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_00710_1903_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H11423-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Whereas, owing to the irregularity of the mail service, the instructions of the Director of Census\nand the laws regarding the census were not received by the supervisor for the comandancia of Dapitan, and\nsaid supervisor, acting under instructions formerly given, commenced the enumeration in the comandancia of\nDapitan prior to the date fixed by law, and whereas the same was made in other respects in accordance with\nthe law, such enumeration is hereby declared to be legal and effective."
+   }
+  },
+  {
+   "id": "PH-H11423-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The payment of per diems of five dollars, United States currency, to the Army officer detailed as\nsupervisor of the census for the district comprising the comandancia of Dapitan is hereby authorized, the\nsame being declared to be a proper charge against the appropriation for census purposes."
+   }
+  },
+  {
+   "id": "PH-H11423-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "The public good requiring the speedy enactment of this bill, the passage of the same is hereby\nexpedited in accordance with section two of \"An Act prescribing the order of procedure by the Commission\nin the enactment of laws,\" passed September twenty-sixth, nineteen hundred."
+   }
+  },
+  {
+   "id": "PH-H11423-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, March 28, 1903."
+   }
+  }
+ ]
+}

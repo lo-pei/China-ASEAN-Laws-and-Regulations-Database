@@ -1,0 +1,62 @@
+{
+ "id": "PH-H14425",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Section Two of Act Numbered Twenty-Nine Hundred and Eighty-Five, Known as the Engineering and Architecture Law.",
+  "orig": "An Act to Amend Section Two of Act Numbered Twenty-Nine Hundred and Eighty-Five, Known as the Engineering and Architecture Law."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1930-12-02",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3793",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 863,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1930/act_3793_1930.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03793_1930_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03793_1930_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14425-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section two of Act Numbered Twenty-nine hundred and eighty-five, known as the \"Engineering\nand Architecture Law,\" is hereby amended to read as follows:\n\"Section 2. As soon as this Act takes effect, all persons desiring to practise the professions of engineer or\narchitect shall be required to obtain licenses in the manner and under the conditions hereinafter specified:\nProvided, however, That no foreign engineer or architect shall be allowed to practise his profession in the\nPhilippine Islands, unless the country of which he is a subject or citizen permits Filipino engineers or\narchitects to practise within its territorial limits. But engineers and architects called by the Government from\nforeign countries for consultation shall be exempted from the requirement herein prescribed.\""
+   }
+  },
+  {
+   "id": "PH-H14425-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, December 2, 1930."
+   }
+  }
+ ]
+}

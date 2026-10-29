@@ -1,0 +1,566 @@
+{
+ "id": "ID-H1294",
+ "title": {
+  "zh": "公营局企业法",
+  "en": "Law on the Public Service Corporation (Perjan)",
+  "id": "PERUSAHAAN JAWATAN (PERJAN)",
+  "orig": "PERUSAHAAN JAWATAN (PERJAN)",
+  "vi": "Luật về Doanh nghiệp Công ích Nhà nước (Perjan)",
+  "th": "พระราชบัญญัติว่าด้วยรัฐวิสาหกิจประเภทหน่วยงาน (Perjan)",
+  "ms": "Akta tentang Perbadanan Perkhidmatan Awam (Perjan)"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02b",
+ "language": "id",
+ "level": "law",
+ "category": "02_民商事与经济法",
+ "status": "active",
+ "promulgatedDate": "2000",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU6-2000",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 37,
+ "chars": 24822,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PP%20NO%206%20TH%202000.pdf&fl=P04246"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\02_民商事与经济法\\印尼_文本_2000_PERUSAHAAN JAWATAN (PERJAN).txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 38 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H1294-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\nDalam Peraturan Pemerintah ini yang dimaksud dengan:\n1. Perusahaan Jawatan yang selanjutnya disebut PERJAN ada lah Badan\nUsaha Milik Negara sebagaimana diatur dalam Undang -undang Nomor 9\nTahun 1969 dimana seluruh modalnya dimiliki oleh Pemerintah dan\nmerupakan kekayaan Negara yang tidak dipisahkan serta tidak terbagi\natas saham-saham;\n2. Menteri Keuangan adalah Men teri yang bertanggung jawab di bidang\npenatausahaan kekayaan Negara yang dimanfaatkan oleh PERJAN;\n3. Menteri adalah Menteri yang lingkup tugas dan kewenangannya meliputi\nbidang usaha PERJAN;\n4. Direksi adalah Direksi PERJAN yang bertanggung jawab atas\nkepengurusan PERJAN, serta mewakili PERJAN, baik di dalam maupun\ndi luar pengadilan;\n5. Dewan Pengawas adalah Dewan Pengawas PERJAN yang bertugas\nmelakukan pengawasan dan memberikan nasihat kepada Direksi dalam\nmenjalankan kegiatan kepengurusan PERJAN."
+   }
+  },
+  {
+   "id": "ID-H1294-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\n(1) Maksud dan tujuan PERJAN adalah menyelenggarakan kegiatan usaha\nyang bertujuan untuk kemanfaatan masyarakat umum, berupa\npenyediaan jasa pelayanan yang bermutu tinggi dan tidak semata -mata\nmencari keuntungan.\n(2) Untuk mendukung pembiayaan dalam m enyelenggarakan kegiatan\npelayanan sebagaimana dimaksud dalam ayat (1), PERJAN dapat\nmelakukan kegiatan -kegiatan tertentu yang berkaitan dengan bidang\npelayanan yang bersangkutan."
+   }
+  },
+  {
+   "id": "ID-H1294-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\n(1) Menteri Keuangan menyelenggarakan pembinaan keuangan PERJAN.\n(2) Menteri menyelenggarakan pembinaan teknis terhadap kegiatan\nPERJAN.\nBAB II\nPENDIRIAN DAN ANGGARAN DASAR\nBagian Pertama\nPendirian"
+   }
+  },
+  {
+   "id": "ID-H1294-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\nPRESIDEN\nREPUBLIK INDONESIA\nPERJAN didirikan dengan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H1294-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5 …"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Pertama"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 5\nPERJAN mempunyai tempat kedudukan dalam wilay ah Negara Republik\nIndonesia."
+   }
+  },
+  {
+   "id": "ID-H1294-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\nPERJAN didirikan untuk jangka waktu yang ditentukan dalam Anggaran\nDasar."
+   }
+  },
+  {
+   "id": "ID-H1294-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\n(1) Peraturan Pemerintah sebagaimana dimaksud dalam Pasal 4,\nsekurang-kurangnya memuat:\na. penetapan pendirian PERJAN;\nb. penetapan besarnya kekayaan Negara yang ada dalam PERJAN;\nc. anggaran Dasar PERJAN;\nd. penunjukan Menteri yang bertanggung jawab dalam pembinaan\nteknis PERJAN sebagaimana dimaksud dalam Pasal 3 ayat (2).\n(2) Usul pendirian PERJAN diajukan oleh Menteri se telah mendapat\npersetujuan Menteri Keuangan dan Menteri yang bertanggung jawab di\nbidang pendayagunaan aparatur Negara.\nBagian Kedua\nAnggaran Dasar"
+   }
+  },
+  {
+   "id": "ID-H1294-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\nAnggaran Dasar sekurang-kurangnya memuat:\na. nama dan tempat kedudukan PERJAN;\nb. maksud dan tujuan serta kegiatan pelayanan PERJAN;\nc. jangka waktu berdirinya PERJAN;\nd. susunan dan jumlah anggota Direksi serta jumlah anggota Dewan\nPengawas;\ne. penetapan tata cara penyelenggaraan rapat Direksi dan atau Dewan\nPengawas dengan Menteri Keuangan dan Menteri."
+   }
+  },
+  {
+   "id": "ID-H1294-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n(1) Perubahan Anggaran Dasar ditetapkan dengan Peraturan Pemerintah.\n(2) Perubahan Anggaran Dasar sebagaimana dimaksud dalam ayat (1) mulai\nberlaku sejak tanggal berlakunya Peraturan Pemerintah tentang\nPerubahan Anggaran Dasar PERJAN.\nPRESIDEN\nREPUBLIK INDONESIA\nBAB III …\nBAB III\nKEKAYAAN"
+   }
+  },
+  {
+   "id": "ID-H1294-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\n(1) Kekayaan PERJAN merupakan kekayaan Negara yang dikelola oleh\nPERJAN dan dimanfaatkan sepenuhnya untuk membiayai kegiatan\noperasional PERJAN.\n(2) Modal PERJAN tidak terbagi atas saham-saham.\n(3) Pengalihan atau pe rjanjian dengan pihak ketiga yang menyangkut\nkekayaan PERJAN yang mengakibatkan pengalihan, harus mendapat\npersetujuan Menteri Keuangan."
+   }
+  },
+  {
+   "id": "ID-H1294-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\n(1) PERJAN dapat menerima bantuan dan atau subsidi yang berasal dari\nAnggaran Pendapatan dan Belanja Negara, baik yang berwujud uang\nmaupun barang.\n(2) PERJAN dapat menerima pinjaman dari bank atas persetujuan Menteri\nKeuangan.\n(3) PERJAN dapat memperoleh hibah dan atau pi njaman luar negeri sesuai\ndengan ketentuan peraturan perundang-undangan yang berlaku.\n(4) PERJAN dapat bekerja sama dengan badan atau instansi atau lembaga\nlain yang mempunyai keterkaitan fungsi."
+   }
+  },
+  {
+   "id": "ID-H1294-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n(1) PERJAN memungut biaya sebagai imbalan atas ja sa pelayanan yang\ndiberikan dengan harga satuan atau tarip yang berlaku dan merupakan\npendapatan fungsional PERJAN.\n(2) Pola tarip yang dipergunakan sebagai dasar perhitungan biaya jasa\npelayanan sebagaimana dimaksud dalam ayat (1) ditetapkan oleh\nMenteri setelah mendapat pertimbangan Menteri Keuangan.\n(3) Penerimaan yang diperoleh sebagai imbalan jasa yang diberikan\nPERJAN, bukan merupakan Penerimaan Negara Bukan Pajak (PNBP).\n(4) Sisa penerimaan PERJAN pada akhir tahun anggaran ditetapkan\npenggunaannya oleh Menteri Keuangan.\nBAB IV\nDIREKSI"
+   }
+  },
+  {
+   "id": "ID-H1294-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\nPRESIDEN\nREPUBLIK INDONESIA\n(1) Kepengurusan PERJAN dilakukan oleh Direksi.\n(2) Jumlah anggota Direksi PERJAN paling sedikit 3 (tiga) orang dan paling\nbanyak 5 (lima) orang serta salah seorang di antaranya diangkat menjadi\nDirektur Utama.\n(3) Anggota …\n(3) Anggota Direksi adalah Warga Negara Indonesia yang diangkat dan\ndiberhentikan oleh Menteri atas persetujuan Menteri Keuangan.\n(4) Anggota Direksi diangkat untuk masa jabatan 5 (lima) tahun dan dapat\ndiangkat kembali untuk 1 (satu) kali masa jabatan berikutnya pada\nPERJAN yang sama.\n(5) Yang dapat diangkat menjadi anggota Direksi adalah orang perorangan\nyang memenuhi kriteria antara lain keahlian, in tegritas, kepemimpinan,\npengalaman dan berkelakuan baik serta memiliki dedikasi untuk\nmengembangkan kegiatan PERJAN."
+   }
+  },
+  {
+   "id": "ID-H1294-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\n(1) Dalam melaksanakan tugasnya Direksi wajib mencurahkan perhatian\ndan pengabdiannya secara penuh pada tugas, kewajiban dan pencapaian\ntujuan PERJAN.\n(2) Direksi bertanggung jawab penuh atas kepengurusan PERJAN untuk\nkepentingan dan tujuan PERJAN serta mewakili PERJAN, baik di dalam\nmaupun di luar Pengadilan."
+   }
+  },
+  {
+   "id": "ID-H1294-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\n(1) Menteri dapat memberhentikan anggota Direksi sebelum habi s masa\njabatannya, apabila berdasarkan kenyataan anggota Direksi:\na. tidak melaksanakan tugasnya dengan baik;\nb. tidak melaksanakan ketentuan peraturan perundang -undangan dan\natau ketentuan Peraturan Pendirian PERJAN;\nc. terlibat dalam tindakan yang merugikan PERJAN;\nd. dipidana penjara karena dipersalahkan melakukan perbuatan\npidana kejahatan dan atau kesalahan yang bersangkutan dengan\nkepengurusan PERJAN.\n(2) Keputusan pemberhentian sebagaimana dimaksud dalam ayat (1) huruf\na, b, dan c diambil setelah yang bersangkutan diberi kesempatan\nmembela diri.\n(3) Dengan keputusan sebagaimana dimaksud dalam ayat (2), maka\nkedudukannya sebagai anggota Direksi berakhir."
+   }
+  },
+  {
+   "id": "ID-H1294-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\n(1) Anggota Direksi tidak dibenarkan untuk memangku jabatan rangkap\nsebagaimana tersebut dibawah ini:\na. Direktur Utama atau Direktur pada Badan Usaha Milik Negara\nlainnya atau perusahaan swasta atau jabatan lainnya yang\nberhubungan dengan pengurusan perusahaan;\nPRESIDEN\nREPUBLIK INDONESIA\nb. jabatan struktural dan fungsional dalam instansi/lembaga\nPemerintah Pusat dan Daerah;\nc. jabatan lainnya sesuai dengan ketentuan dalam Anggaran Dasar\nPERJAN dan ketentuan peraturan perundang-undangan.\n(2) Peraturan …\n(2) Peraturan tent ang pembagian tugas dan wewenang setiap anggota\nDireksi serta hak dan kewajiban anggota Direksi ditetapkan oleh Menteri."
+   }
+  },
+  {
+   "id": "ID-H1294-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\n(1) Direksi wajib menyiapkan Rencana Jangka Panjang yang merupakan\nrencana strategis yang memuat sasaran dan tujuan PERJAN yang\nhendak dicapai dalam jangka waktu 5 (lima) tahun.\n(2) Rencana Jangka Panjang sebagaimana dimaksud dalam ayat (1)\nsekurang-kurangnya memuat:\na. evaluasi pelaksanaan Rencana Jangka Panjang sebelumnya;\nb. posisi PERJAN saat ini;\nc. asumsi-asumsi yang di pakai dalam penyusunan Rencana Jangka\nPanjang;\nd. penetapan sasaran, strategis, kebijakan dan program kerja Rencana\nJangka Panjang beserta keterkaitan antara unsur -unsur tersebut.\n(3) Rencana Jangka Panjang sebagaimana dimaksud dalam ayat (2)\nditandatangani oleh anggota Direksi bersama dengan Dewan Pengawas\ndan selanjutnya disampaikan kepada Menteri dan Menteri Keuangan\nuntuk disahkan.\n(4) Pengesahan Rencana Jangka Panjang sebagaimana dimaksud ayat (3)\ndilakukan oleh Menteri setelah mendapat persetujuan Me nteri\nKeuangan.\n(5) Bentuk, isi dan tata cara penyusunan Rencana Jangka Panjang\nsebagaimana dimaksud dalam ayat (2) ditetapkan oleh Menteri\nKeuangan."
+   }
+  },
+  {
+   "id": "ID-H1294-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\n(1) Direksi wajib menyiapkan Rencana Kerja dan Anggaran Perusahaan\n(RKAP) sebagai penjabaran tahunan dari Rencana Jangka Panjang.\n(2) Rencana Kerja dan Anggaran Perusahaan sebagaimana dimaksud dalam\nayat (1), diajukan kepada Menteri dan Menteri Keuangan\nselambat-lambatnya 60 (enam puluh) hari sebelum tahun anggaran\ndimulai untuk memperoleh pengesahan.\n(3) Rencana Kerja dan Anggaran Perusahaan sebagaimana dimaksud dalam\nayat (2) disahkan oleh Menteri setelah mendapat persetujuan Menteri\nKeuangan selambat -lambatnya 30 (tiga puluh) hari setelah tahun\nanggaran berjalan.\n(4) Dalam hal Rencana Kerja dan an ggaran Perusahaan sebagaimana\ndimaksud dalam ayat (3) belum disahkan oleh Menteri, maka Rencana\nPRESIDEN\nREPUBLIK INDONESIA\nJangka Panjang dan anggaran Perusahaan tersebut dianggap disetujui\nsepanjang telah memenuhi ketentuan tata cara penyusunannya.\n(5) Bentuk, isi dan tata cara pen yusunan Rencana Kerja dan Anggaran\nPerusahaan ditetapkan oleh Menteri Keuangan.\nBAB V …\nBAB V\nLAPORAN"
+   }
+  },
+  {
+   "id": "ID-H1294-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\n(1) Dalam waktu 5 (lima) bulan setelah berakhirnya tahun anggaran, Direksi\nwajib menyampaikan Laporan Tahunan kepada Menteri Keuangan dan\nMenteri.\n(2) Laporan Tahunan sebagaimana dimaksud dalam ayat (1) disampaikan\npula oleh Direksi kepada Badan Pengawasan Keuangan dan\nPembangunan, atau akuntan publik yang ditunjuk oleh Badan\nPengawasan Keuangan dan Pembangunan, untuk diperiksa.\n(3) Laporan Tahunan sebagaimana dimaksud dalam ayat (1),\nsekurang-kurangnya memuat:\na. Perhitungan Tahunan yang terdiri dari neraca, perhitungan\npenerimaan dan biaya, laporan arus kas, dan laporan perubahan\nkekayaan;\nb. Laporan mengenai pelaksanaan rencana kerja serta hasil-hasil yang\ntelah dicapai;\nc. Kegiatan utama PERJAN selama tahun anggaran;\nd. Permasalahan-permasalahan yang dihadapi dalam pelaksanaan\nrencana kerja;\ne. Nama anggota Direksi dan Dewan Pengawas;\nf. Gaji ddan tunjangan lain bagi anggota Direksi dan Dewan Pengawas.\n(4) Laporan Tahunan sebagaimana dimaksud dalam ayat (1) dan ayat (2)\nditandatangani oleh semua anggota Direksi dan Dewan Pengawas.\n(5) Laporan Tahunan yang telah diperiksa sebagaimana dimaksud dalam\nayat (2) disahkan oleh Menteri setelah mend apat persetujuan Menteri\nKeuangan."
+   }
+  },
+  {
+   "id": "ID-H1294-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\n(1) Laporan Tahunan dibuat sesuai dengan Standar Akuntansi Keuangan.\n(2) Dalam hal standar Akuntansi Keuangan sebagaimana dimaksud dalam\nayat (1) tidak dapat dilaksanakan sebagaimana mestinya, harus\ndiberikan penjelasan serta alasannya.\nBAB VI\nDEWAN PENGAWAS"
+   }
+  },
+  {
+   "id": "ID-H1294-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\nPRESIDEN\nREPUBLIK INDONESIA\n(1) Pada setiap PERJAN dibentuk Dewan Pengawas.\n(2) Dewan …\n(2) Dewan Pengawas bertugas melakukan pengawasan terhadap pengurusan\nPERJAN yang dilakukan oleh Direksi mengenai pelaksanaan Rencana\nKerja dan Anggaran Perusahaan, Rencana Jangka Panjang,\nketentuan-ketentuan dalam Peraturan Pendirian PERJAN, ketent uan\nperaturan perundang -undangan yang berlaku serta memberi nasehat\nkepada Direksi."
+   }
+  },
+  {
+   "id": "ID-H1294-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\n(1) Dewan Pengawas dalam melakukan tugasnya berkewajiban:\na. memberikan pendapat dan saran kepada Menteri dan Menteri\nkeuangan mengenai Rencana Kerja dan Anggaran Perusahaan yang\ndiusulkan Direksi;\nb. mengikuti perkembangan kegiatan PERJAN, memberikan pendapat\ndan saran kepada Menteri dan Menteri Keuangan mengenai s etiap\nmasalah yang dianggap penting bagi pengurusan PERJAN;\nc. melaporkan dengan segera kepada Menteri dan Menteri Keuangan\napabila terjadi gejala menurunnya kinerja PERJAN;\nd. melakukan tugas pengawasan lain yang ditetapkan dalam Peraturan\nPendirian PERJAN;\ne. memberikan nasihat kepada Direksi dalam melaksanakan\npengurusan PERJAN;\nf. melakukan hal -hal lain yang dianggap perlu sebagaimana diatur\ndalam Peraturan Pendirian PERJAN.\n(2) Dewan Pengawas melaporkan pelaksanaan tugasnya sebagaimana\ndimaksud dalam a yat (1) kepada Menteri dan Menteri Keuangan secara\nberkala dan sewaktu-waktu apabila diperlukan.\n(3) Bentuk, isi dan tata cara penyampaian laporan ditetapkan oleh Menteri\nKeuangan."
+   }
+  },
+  {
+   "id": "ID-H1294-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 24\nYang dapat diangkat sebagai anggota Dewan Pengawas adalah orang\nperorangan yang:\na. memiliki dedikasi, memahami masalah -masalah manajemen perusahaan\ndan dapat menyediakan waktu yang cukup untuk melaksanakan\ntugasnya; dan\nb. mampu melaksanakan perbuatan hukum dan tidak pernah dinyatakan\npailit atau menjadi anggota Direk si, Komisaris, atau Dewan Pengawan\nyang dinyatakan bersalah menyebabkan suatu perusahaan pailit.\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H1294-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25 …"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 25\nDewan pengawas PERJAN terdiri dari unsur -unsur pejabat Departemen yang\nmembawahi PERJAN, Departemen Keuangan dan Departemen/instansi lain\nyang kegiatannya berhubungan, serta tenaga ahli yang sesuai dengan kegiatan\nusaha PERJAN."
+   }
+  },
+  {
+   "id": "ID-H1294-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\n(1) Anggota Dewan Pengawas diangkat dan diberhentikan oleh Menteri atas\npersetujuan Menteri Keuangan.\n(2) Anggota Dewan Pengawas diangkat untuk masa jabatan yang sama\ndengan anggota Direksi, dan diangkat kembali untuk 1 (satu) kali masa\njabatan berikutnya pada PERJAN yang sama.\n(3) Pengangkatan Anggota Dewan Peng awas tidak bersamaan waktunya\ndengan pengangkatan anggota Direksi."
+   }
+  },
+  {
+   "id": "ID-H1294-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\nJumlah anggota Dewan Pengawas disesuaikan dengan kebutuhan PERJAN dan\npaling banyak 5 (lima) orang, serta salah seorang di antaranya diangkat\nsebagai Ketua Dewan Pengawas."
+   }
+  },
+  {
+   "id": "ID-H1294-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\n(1) Menteri atas persetujuan Menteri Keuangan dapat memberhentikan\nanggota Dewan Pengawas sebelum habis masa jabatannya, apabila\nberdasarkan kenyataan anggota Dewan Pengawas:\na. tidak melaksanakan tugasnya dengan baik;\nb. tidak melaksanakan ketent uan perundang -undangan dan atau\nketentuan peraturan pendirian PERJAN;\nc. terlibat dalam tindakan yang merugikan PERJAN; atau\nd. dipidana penjara karena dipersalahkan melakukan perbuatan\ntugasnya melaksanakan pengawasan dalam perusahaan.\n(2) Keputusan pemberhentian sebagaimana dimaksud dalam ayat (1) huruf\na, b dan c diambil setelah yang bersangkutan diberi kesempatan\nmembela diri.\n(3) Dengan keputusan sebagaimana dimaksud dalam ayat (2), maka\nPRESIDEN\nREPUBLIK INDONESIA\nkedudukannya sebagai anggota Dewan Pengawas berakhir."
+   }
+  },
+  {
+   "id": "ID-H1294-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\nUntuk membantu kelancaran pelaksanaan tugas Dewan Pengawas, Menteri\ndapat mengangkat seorang Sekretaris Dewan Pengawas atas beban PERJAN."
+   }
+  },
+  {
+   "id": "ID-H1294-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30 …"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 30\nSemua biaya yang diperlukan dalam rangka pelaksanaan tugas Dewan\nPengawas dibebankan kepada PERJAN dan secara jelas dimuat dalam Rencana\nKerja dan Anggaran Perusahaan.\nBAB VII\nSATUAN PENGAWAS INTERN"
+   }
+  },
+  {
+   "id": "ID-H1294-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\n(1) Pada seti ap PERJAN dibentuk Satuan Pengawasan Intern yang\nmerupakan aparat pengawas intern PERJAN.\n(2) Satuan Pengawasan Intern sebagaimana dimaksud dalam ayat (1)\ndipimpin oleh seorang kepada yang bertanggung jawab kepada Direktur\nUtama."
+   }
+  },
+  {
+   "id": "ID-H1294-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 32\n(1) Satuan Peng awasan Intern bertugas membantu Direktur Utama dalam\nmelaksanakan pemeriksaan intern keuangan dan operasional PERJAN,\nserta menilai pengendalian, pengelolaan dan pelaksanaannya pada\nPERJAN serta memberikan saran-saran perbaikannya.\n(2) Atas permintaan tert ulis Dewan Pengawas, Direksi memberikan\nketerangan hasil pemeriksaan atau hasil pelaksanaan tugas Satuan\nPengawasan Intern sebagaimana dimaksud dalam ayat (1)."
+   }
+  },
+  {
+   "id": "ID-H1294-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 33\nDireksi wajib memperhatikan dan segera mengambil langkah -langkah yang\ndiperlukan atas segala sesuatu yang dikemukakan dalam setiap laporan hasil\npemeriksaan yang dibuat oleh Satuan Pengawasan Intern.\nBAB VIII\nKEPEGAWAIAN"
+   }
+  },
+  {
+   "id": "ID-H1294-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 34\nPRESIDEN\nREPUBLIK INDONESIA\n(1) Pegawai PERJAN adalah Pegawai Negeri Sipil.\n(2) Direksi atas persetujuan Menteri dapat mengangkat pegawai\nberdasarkan perjanjian kerja sesuai peraturan perundang -undangan di\nbidang ketenagakerjaan.\nBAB IX …\nBAB IX\nKETENTUAN LAIN-LAIN"
+   }
+  },
+  {
+   "id": "ID-H1294-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 35\nPengadaan barang dan jasa untuk kegiatan PERJAN yang m enggunakan dana\nlangsung dari Anggaran Pendapatan dan Belanja Negara dilaksanakan sesuai\ndengna ketentuan peraturan perundang -undangan tentang Anggaran\nPendapatan dan Belanja Negara."
+   }
+  },
+  {
+   "id": "ID-H1294-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 36\nPihak lain manapun selain Direksi dan Dewan Pengawas PERJAN di larang\nturut mencampuri pengurusan dan pengelolaan PERJAN.\nBAB X\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H1294-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 37\nDengan berlakunya peraturan Pemerintah ini, maka ketentuan peraturan\nperundang-undangan yang bertentangan dengan peraturan ini dinyatakan\ntidak berlaku."
+   }
+  },
+  {
+   "id": "ID-H1294-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 38\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan\nPemerintah ini dengan penempatannya dalam Lembaran Negara Republik\nIndonesia.\nDitetapkan di Jakarta\npada tanggal 21 Februari 2000\nPRESIDEN REPUBLIK INDONESIA,\nttd.\nABDURRAHMAN WAHID\nDiundangkan di Jakarta\nPRESIDEN\nREPUBLIK INDONESIA\npada tanggal 21 Februari 2000\nPj. SEKRETARIS NEGARA\nREPUBLIK INDONESIA\nttd.\nBONDAN GUNAWAN\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2000 NOMOR 12\nPRESIDEN\nREPUBLIK INDONESIA\nPENJELASAN\nATAS\nPERATURAN PEMERINTAH RI NOMOR 6 TAHUN 2000\nTENTANG\nPERUSAHAAN JAWATAN (PERJAN)\nUMUM\nEra globalisasi dan perdagangan bebas sebagai pelaksanaan dari kesepakatan\nAFTA untuk kawasan Asia Tenggara, AFEC untuk kawasan Asia Pasifik dan\nPerjanjian GATT melalui WTO untuk kawasan global, dalam kurun waktu tidak\nlama lagi akan dihadapi.\nPembentukan kawasan perdagangan bebas tersebut, di satu sisi akan\nmengurangi bahkan meniadakan berbagai proteksi perdagangan pada\nnegara-negara penandatangan Perjanjian tersebut, namun di lain pihak juga\nakan membuka kesemp atan yang seluas -luasnya untuk memperoleh akses ke\npasar dunia. Memasuki era globalisasi tersebut, dibutuhkan kemampuan yang\ncukup untuk dapat bersaing dengan negara-negara lain.\nMenjelang berakhirnya abad ke -20, negara-negara di kawasan Asia, termasuk\nIndonesia mengalami krisis ekonomi yang cukup berat. Dan khusus bagi\nIndonesia, krisis ekonomi tersebut kemudian meluas kepada krisis politik,\nsosial dan budaya, dimana kesemuanya ini akan membawa pengaruh terhadap\nproses kesiapan bangsa Indonesia dalam menghadapi era globalisasi dan pasar\nbebas tersebut.\nMemasuki milenium ketiga, bangsa Indonesia mengalami suatu proses transisi\nmenuju terbentuknya masyarakat madani yang hidup dalam alam demokrasi\ndan keterbukaan, dimana masyarakat mulai lebih mengetahui dan memahami\nakan hak dan kewajibannya sebagai warga Negara.\nAparatur Pemerintah dalam menyelenggarakan fungsinya sebagai\npenyelenggara pemerintah, pembangunan dan pelayanan masyarakat,\ndiharapkan dapat memainkan peran yang lebih optimal khususnya dalam\nmenyelenggarakan fungsi pelayanan kepada masyarakat. Di era reformasi saat\nini masyarakat telah memandang pelayanan yang baik sudah merupakan hak\nmasyarakat, bukan sekedar kewajiban sebagaimana terjadi pada masa -masa\nyang lampau. Oleh karena itu berbagai upaya penyempurnaan dan perbaikan\nkualitas pelayanan masyarakat perlu terus dilakukan dan ditingkatkan untuk\nsemakin memenuhi hak kewajiban masyarakat.\nSalah …\nPRESIDEN\nREPUBLIK INDONESIA\nSalah satu langkah strategis yang ditempuh dalam upaya memperbaiki dan\nmeningkatkan kualitas pela yanan tersebut, adalah memberikan kewenangan\nekonomi yang lebih besar kepada unit -unit kerja/kantor pelayanan tertentu\ndari instansi Pemerintah untuk menyelenggarakan manajemen pengelolaan\nunitnya secara mandiri tanpa terlalu banyak dicampuri oleh birokrasi.\nSesuai dengan Undang -undang No. 9 Tahun 1969 tentang Penetapan\nPeraturan Pemerintah Pengganti Undang-undang No. 1 Tahun 1969 (LN Tahun\n1969 No.16, TLN. No. 2890) tentang Bentuk -bentuk Usaha Negara menjadi\nUndang-undang (LN RI Tahun 1969, TLN No.2904), dikenal tiga bentuk usaha\nNegara, yaitu Perusahaan Perseroan (PERSERO), Perusahaan Umum (PERUM)\ndan Perusahaan Jawatan (PERJAN). Peraturan Pemerintah tentang\npelaksanaan dari bentuk usaha Negara tersebut telah ditetapkan kecuali\nuntuk bentuk usaha Perusaha an Jawatan (PERJAN). Oleh karena itu\ndipandang perlu menetapkan peraturan pelaksanaan Perusahaan Jawatan\n(PERJAN) untuk memberi peluang dan menjadi wadah bagi unit -unit\npelayanan tertentu dari instansi Pemerintah untuk mengoperasionalkan\npenyelenggaraan tugas pokok dan fungsi di bidang pelayanan secara mandiri\ndan otonomi dalam bentuk PERJAN.\nPASAL DEMI PASAL\nPasal 1\nCukup jelas\nPasal 2\nAyat (1)\nYang dimaksud dengan tidak semata -mata mencari keuntungan adalah\nbahwa kegiatan usaha PERJAN mengutamakan fungsi sosial pelayanan kepada\nmasyarakat.\nAyat (2)\nPerusahaan Jawatan (PERJAN) dapat menyelenggarakan\nkegiatan-kegiatan tertentu lainnya dan dapat mandirikan unit usaha yang\nhasilnya digunakan sepenuhnya untuk mendukung penyelenggaraan\nfungsi-fungsi utama pengembangan perusahaan.\nPasal 3\nSebagai suatu badan usaha maka Menteri sangat berkepentingan untuk\nmengarahkan masalah investasi, pembiayaan serta pemanfaatan hasil usaha\nPERJA dengan jelas dalam suatu kebijakan pengembangan perusahaan.\nPRESIDEN\nREPUBLIK INDONESIA\nMenteri …\nMenteri menetapkan kebijakan teknis yang meliputi pula kebijakan\npengembangan PERJAN yang bertujuan menetapkan arah dalam mencapai\ntujuan perusahaan baik menyangkut kebijakan investasi, pembiayaan usaha,\nsumber pembiayaannya, penggunaan hasil u saha perusahaan maupun\nkebijakan pengembangan lainnya.\nDalam hal kebijakan pengembangan usaha tersebut mempunyai dampak\nkeuangan, maka penetapan kebijakan tersebut harus mendapat persetujuan\nMenteri Keuangan selaku pembina keuangan PERJAN.\nPasal 4\nDengan ketentuan ini suatu unit kerja tertentu dari instansi Pemerintah\nmemperoleh status sebagai Perusahaan Jawatan (PERJAN) setelah Peraturan\nPemerintah tentang Pendirian PERJAN tersebut ditetapkan.\nPasal 5\nCukup jelas\nPasal 6\nCukup jelas\nPasal 7\nCukup jelas\nPasal 8\nCukup jelas\nPasal 9\nCukup jelas\nPasal 10\nAyat (1)\nKekayaan PERJAN adalah seluruh kekayaan Negara yang tertanam\npada PERJAN ybs., yang nilainya ditetapkan oleh Menteri Keuangan\nberdasarkan perhitungan yang dilakukan bersama Menteri.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nPasal 11\nAyat (1)\nBantuan atau subsidi yang dimaksud dalam ayat ini adalah\nbantuan lain yang dicantumkan dari APBN dalam bentuk DIP/DIK atau\nPRESIDEN\nREPUBLIK INDONESIA\nbantuan lain yang dicantumkan secara jelas dalam Rencana Kerja dan\nAnggaran Perusahaan (RKAP).\nAyat (2) …\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nAyat (5)\nCukup jelas\nPasal 12\nCukup jelas\nPasal 13\nCukup jelas\nPasal 14\nCukup jelas\nPasal 15\nCukup jelas\nPasal 16\nAyat (1)\nhuruf a\nYang dimaksud dengan jabatan lainnya yang berhubungan\ndengan pengurusan PERJAN adalah jabatan rangkap lainnya selain\ndimaksud huruf a, huruf b dan huruf c yang mempunyai keterkaitan\nbaik langsung maupun tidak langsung dengan kegiatan usaha PERJAN.\nHal i ni dimaksudkan untuk menghindari kemungkinan\nterjadinya pertentangan kepentingan (conflict interest) oleh anggota\nDireksi yang dapat berakibat merugikan PERJAN.\nHuruf b\nCukup jelas\nHuruf c\nCukup jelas\nAyat (2)\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 17 …\nPasal 17\nAyat (1)\nRencana Jangka Panjang PERJAN sangat diperlukan sebagai\npenentu arah dan akan menjadi pedoman bagi Direksi dalam menjalankan\npengelolaan PERJAN untuk 5 (lima) ke depan.\nAyat (2)\nRencana Jangka Panjang PERJAN, selain untuk memuat ev aluasi\natas Rencana Jangka Panjang sebelumnya, asumsi-asumsi yang dipakai dalam\npenyusunan Rencana Jangka Panjang, analisa untuk mengetahui posisi\nperusahaan, juga harus memuat pula sasaran, strategis kebijakan serta semua\nprogram kerja yang disusun untuk mencapai sasaran PERJAN.\nHal ini penting untuk mengetahui secara jelas keterkaitan antar\nsemua unsur tersebut di atas, yakni strategi, kebijakan dan program kerja\ndimaksud.\nBagi PERJAN yang baru pertama kali menyusun Rencana Jangka Panjang,\nketentuan dalam ayat (2) huruf a ini tidak berlaku.\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nAyat (5)\nCukup jelas\nPasal 18\nCukup jelas\nPasal 19\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nHuruf a\nDalam ketentuan ini Perhitungan Tahunan yang terdiri dari\nneraca akhir dan perhitungan penerimaan dan biaya dari tahun\nanggaran yang bersangkutan belum diaudit oleh Badan Pengawasan\nKeuangan dan Pembangunan ata u Akuntan Publik yang ditunjuk oleh\nPRESIDEN\nREPUBLIK INDONESIA\nBadan Pengawasan Keuangan dan Pembangunan.\nHuruf b\nCukup jelas\nHuruf c …\nHuruf c\nCukup jelas\nHuruf d\nCukup jelas\nHuruf e\nCukup jelas\nHuruf f\nCukup jelas\nAyat (4)\nCukup jelas\nAyat (5)\nPengesahan laporan tahunan dapat membebaskan tanggung jawab\nDireksi.\nPasal 20\nCukup jelas\nPasal 21\nCukup jelas\nPasal 22\nCukup jelas\nPasal 23\nCukup jelas\nPasal 24\nCukup jelas\nPasal 25\nCukup jelas\nPasal 26\nCukup jelas\nPasal 27\nPRESIDEN\nREPUBLIK INDONESIA\nCukup jelas\nPasal 28\nCukup jelas\nPasal 29 …\nPasal 29\nCukup jelas\nPasal 30\nCukup jelas\nPasal 31\nCukup jelas\nPasal 32\nCukup jelas\nPasal 33\nCukup jelas\nPasal 34\nAyat (1)\nCukup jelas\nAyat (2)\nDalam hal keterbatasan anggaran pemerintah untuk mengisi\nformasi Pegawai Negeri Sipil yang ada di PERJAN, maka Direksi dapat\nmengangkat pegawai berdasarkan perjanjian kerja atau kontrak kerja sesuai\nperaturan perundang-undangan yang berlaku di bidang ketenagakerjaan.\nPasal 35\nCukup jelas\nPasal 36\nCukup jelas\nPasal 37\nCukup jelas\nPasal 38\nCukup jelas\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 3928"
+   }
+  }
+ ]
+}

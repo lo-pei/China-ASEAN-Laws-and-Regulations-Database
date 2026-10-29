@@ -1,0 +1,62 @@
+{
+ "id": "PH-H15986",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Section Nineteen Hundred and Sixty-Six of the Administrative Code.",
+  "orig": "An Act to Amend Section Nineteen Hundred and Sixty-Six of the Administrative Code."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1938-06-02",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 269",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 867,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00269_1938_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00269_1938_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H15986-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section nineteen hundred and sixty-six of the Administrative Code is amended so as to read as\n\"Section 1966. Telegraphic transfers.-Provision may likewise be made, for the convenience of the public, for\nthe telegraphic transfer of funds between places in the Philippines having telegraphic offices conducted by the\nBureau of Posts. The maximum amount which may be thus transferred upon any one day by one remitter and\npayable, directly or indirectly, to the same person, corporation, or firm, shall be two thousand pesos.\n\"The Director of Posts may authorize certain telegraph offices a regular maximum of five thousand pesos if\nthe business transactions so warrant: Provided, however, That greater amounts may be remitted by telegraphic\ntransfers upon specific authority by the Director of Posts.\""
+   }
+  },
+  {
+   "id": "PH-H15986-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, June 2, 1938."
+   }
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "id": "PH-H21784",
+ "title": {
+  "zh": null,
+  "en": "Amending Further Section Fifteen of Republic Act Numbered Four Thousand Three Hundred Seventy Four, Otherwise Known as the \"Geodetic Engineering Law,\" as Amended By Presidential Decree No. 202",
+  "orig": "Amending Further Section Fifteen of Republic Act Numbered Four Thousand Three Hundred Seventy Four, Otherwise Known as the \"Geodetic Engineering Law,\" as Amended By Presidential Decree No. 202"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p159",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1973-11-13",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 335",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1136,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_00335_1973_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_00335_1973_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H21784-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section fifteen, paragraph (e) of Republic Act Numbered Four Thousand Three Hundred Seventy\nFour, as amended, is further amended to read as follows:\n\"(e) To qualify in the Junior Geodetic Engineer Examination, he must, likewise, satisfy the foregoing\nrequirements (a) to (c) of this Section, and that he is a holder of the degree of Associate in Surveying, or a\nholder of the degree of Bachelor of Science in Civil Engineering, or has completed third year in Geodetic\nEngineering or Civil Engineering and has earned to his credit the following courses: Laws on Natural\nResources, Laws on Land Registration and Property, Land Reform Laws, Land Property Surveys,\nPhotogrammetry and Cartography from any recognized school, college or university."
+   }
+  },
+  {
+   "id": "PH-H21784-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "A certificate of registration as Junior Geodetic Engineer shall authorize the holder thereof to\nexecute land surveys or phases thereof, subject to such conditions and limitations as may be prescribed by the\n\nBoard of Geodetic Engineers."
+   }
+  },
+  {
+   "id": "PH-H21784-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Decree shall take effect immediately.\nDone in the City of Manila, this 13th day of November, in the year of Our Lord, nineteen hundred and\nseventy-three."
+   }
+  }
+ ]
+}

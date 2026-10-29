@@ -1,0 +1,62 @@
+{
+ "id": "PH-H12855",
+ "title": {
+  "zh": null,
+  "en": "An Act Amending Section (I) of Section Forty of the Municipal Code.",
+  "orig": "An Act Amending Section (I) of Section Forty of the Municipal Code."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1912-02-06",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2149",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 748,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1912/act_2149_1912.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02149_1912_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02149_1912_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12855-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Subsection (i) of section forty of the Municipal Code be, and it is hereby, amended to read as\n\"(i) To license, tax, regulate, or prohibit the keeping of dogs and authorize the killing of the same when at\nlarge contrary to ordinance; to require owners of large cattle, sheep and goats to keep such animals from\nmoving, running, or being at large except when in charge of some person of sufficient discretion, and to\npenalize infractions of such regulations by fine or imprisonment or both.\""
+   }
+  },
+  {
+   "id": "PH-H12855-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The public good requiring the speedy enactment of this bill, the same shall take effect on its\npassage, in accordance with the provisions of section one of Act Numbered Nineteen hundred and forty-five\nof the Philippine Legislature.\nEnacted, February 6, 1912."
+   }
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "id": "PH-H12872",
+ "title": {
+  "zh": null,
+  "en": "An Act Directing the Insular Treasurer to Collect Certain Sums Borrowed From the So-Called \"Cajas De Comunidad,\" and for Other Purposes.",
+  "orig": "An Act Directing the Insular Treasurer to Collect Certain Sums Borrowed From the So-Called \"Cajas De Comunidad,\" and for Other Purposes."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1912-02-06",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2166",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 935,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1912/act_2166_1912.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02166_1912_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02166_1912_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12872-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The Insular Treasurer is hereby directed to negotiate in representation of the Government of the\nPhilippine Islands with the debtors of the so-called \"Cajas de Comunidad\" of the late Spanish Government in\nthese Islands for the repayment of certain sums together with the interest thereon received by them as a loan:\nProvided, That in case said Treasurer believes it necessary to appeal to the courts of justice for the collection\nof such sums, he is hereby authorized to do so."
+   }
+  },
+  {
+   "id": "PH-H12872-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The amounts recovered or received by the Insular Treasurer by virtue of the provisions of the\nnext preceding section shall be deposited in the Insular Treasury as miscellaneous receipts, and be used to\nmeet appropriations made by the Legislature for charitable purposes and public-instruction."
+   }
+  },
+  {
+   "id": "PH-H12872-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "The Insular Treasurer is hereby required to account to the Governor-General for the result of his\nnegotiation under the provisions hereof.\nEnacted, February 6, 1912."
+   }
+  }
+ ]
+}

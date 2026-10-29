@@ -1,0 +1,62 @@
+{
+ "id": "PH-H14299",
+ "title": {
+  "zh": null,
+  "en": "An Act to Appropriate the Sum of thirty-Six thousand Pesos for the Operating Expenses of the Branch College Ot Liberal Arts Created By Act Numbered Twenty-Nine Hundred and Fifty-Six, and for Other Purposes.",
+  "orig": "An Act to Appropriate the Sum of thirty-Six thousand Pesos for the Operating Expenses of the Branch College Ot Liberal Arts Created By Act Numbered Twenty-Nine Hundred and Fifty-Six, and for Other Purposes."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1929-12-08",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3667",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 522,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1929/act_3667_1929.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03667_1929_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03667_1929_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14299-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The sum of thirty-six thousand pesos is hereby appropriated out of any funds in the Insular\nTreasury, not otherwise appropriated, for the initial operating expenses of the branch college of Liberal Arts\ncreated by Act Numbered Twenty-nine hundred and fifty-six. The operating expenses of this branch college in\nthe succeeding years shall be included in the annual appropriation for the university of the Philippines in the\nGeneral Appropriation Law."
+   }
+  },
+  {
+   "id": "PH-H14299-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, December 8, 1929."
+   }
+  }
+ ]
+}

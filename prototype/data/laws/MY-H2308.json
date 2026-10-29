@@ -1,0 +1,810 @@
+{
+ "id": "MY-H2308",
+ "title": {
+  "zh": "2012年公职人员（委任、晋升与终止服务）条例",
+  "en": "PUBLIC OFFICERS (APPOINTMENT, PROMOTION AND TERMINATION OF SERVICE) REGULATIONS 2012",
+  "orig": "PUBLIC OFFICERS (APPOINTMENT, PROMOTION AND TERMINATION OF SERVICE) REGULATIONS 2012",
+  "ms": "Peraturan Pegawai Awam (Pelantikan, Kenaikan Pangkat dan Penamatan Perkhidmatan) 2012",
+  "vi": "Quy định về Công chức (Bổ nhiệm, thăng chức và chấm dứt phục vụ) năm 2012",
+  "th": "ข้อบังคับข้าราชการ (การแต่งตั้ง การเลื่อนตำแหน่ง และการสิ้นสุดการปฏิบัติงาน) ค.ศ. 2012",
+  "id": "Peraturan Pejabat Publik (Pengangkatan, Promosi dan Pemutusan Dinas) Tahun 2012"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-5",
+ "language": "ms",
+ "level": "regulation",
+ "category": "04_劳工与行政法",
+ "status": "active",
+ "promulgatedDate": "2012",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "PUA1",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 64,
+ "chars": 121444,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-view.php?type=pua&no=P.U. (A) 1/2012&status=PRINCIPAL"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\04_劳工与行政法\\2012_P.U.(A)1-2012_PUBLIC OFFICERS (APPOINTMENT, PROMOTION AND TERMINATION OF SERVICE) REGULATIONS 2012.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 64 条；逐字未改写（源自厂商 OCR 文本）；已清除正文中的 10 个控制字符（C0/C1 区，法律文本中无合法用途，系 PDF 抽取/表单域残留）。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H2308-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "1. Nama dan permulaan kuat kuasa"
+   }
+  },
+  {
+   "id": "MY-H2308-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "2. Pemakaian"
+   }
+  },
+  {
+   "id": "MY-H2308-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "3. Pemakaian tatacara pelantikan"
+   }
+  },
+  {
+   "id": "MY-H2308-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "4. Tafsiran\n\nBAHAGIAN II\n\nPELANTIKAN"
+   }
+  },
+  {
+   "id": "MY-H2308-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "5. Pelantikan mengikut skim perkhidmatan"
+   }
+  },
+  {
+   "id": "MY-H2308-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "6. Pelantikan warganegara sahaja"
+   }
+  },
+  {
+   "id": "MY-H2308-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "7. Pelantikan semula seseorang yang telah meletakkan jawatan"
+   }
+  },
+  {
+   "id": "MY-H2308-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "8. Pelantikan semula seseorang yang dikehendaki bersara"
+   }
+  },
+  {
+   "id": "MY-H2308-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "9. Pelantikan semula seseorang yang telah ditamatkan perkhidmatan atau dibuang\n\nkerja"
+   }
+  },
+  {
+   "id": "MY-H2308-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "10. Pelantikan pegawai ke dalam skim perkhidmatan yang lain"
+   }
+  },
+  {
+   "id": "MY-H2308-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "11. Kembali ke dalam skim perkhidmatan terdahulu"
+   }
+  },
+  {
+   "id": "MY-H2308-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "12. Peminjaman pegawai"
+   }
+  },
+  {
+   "id": "MY-H2308-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "13. Pertukaran sementara\n\nBAHAGIAN III\n\nPENGAMBILAN\n\nPeraturan"
+   }
+  },
+  {
+   "id": "MY-H2308-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "14. Tatacara pengambilan"
+   }
+  },
+  {
+   "id": "MY-H2308-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "15. Tatacara tapisan"
+   }
+  },
+  {
+   "id": "MY-H2308-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "16. Butiran pengambilan"
+   }
+  },
+  {
+   "id": "MY-H2308-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "17. Kelayakan setaraf"
+   }
+  },
+  {
+   "id": "MY-H2308-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "18. Permohonan daripada pegawai"
+   }
+  },
+  {
+   "id": "MY-H2308-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "19. Tawaran pelantikan oleh Suruhanjaya"
+   }
+  },
+  {
+   "id": "MY-H2308-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "20. Pemeriksaan kesihatan, akuan berkanun dan surat aku janji"
+   }
+  },
+  {
+   "id": "MY-H2308-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "21. Tapisan keselamatan"
+   }
+  },
+  {
+   "id": "MY-H2308-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "22. Akuan setuju terima\n\nBAHAGIAN IV\n\nTARIKH PELANTIKAN, GAJI PERMULAAN DAN PERGERAKAN GAJI TAHUNAN"
+   }
+  },
+  {
+   "id": "MY-H2308-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "23. Tarikh pelantikan"
+   }
+  },
+  {
+   "id": "MY-H2308-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "24. Tarikh pelantikan tetap bagi pegawai sementara"
+   }
+  },
+  {
+   "id": "MY-H2308-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "25. Penentuan gaji permulaan"
+   }
+  },
+  {
+   "id": "MY-H2308-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "26. Gaji permulaan bagi kes khas"
+   }
+  },
+  {
+   "id": "MY-H2308-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 27"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "27. Pergerakan gaji tahunan\n\nBAHAGIAN V\n\nTEMPOH PERCUBAAN, PENGESAHAN DALAM PERKHIDMATAN DAN PELANJUTAN\n\nTEMPOH PERCUBAAN"
+   }
+  },
+  {
+   "id": "MY-H2308-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 28"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "28. Tempoh percubaan"
+   }
+  },
+  {
+   "id": "MY-H2308-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Section 29"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "29. Syarat pengesahan"
+   }
+  },
+  {
+   "id": "MY-H2308-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Section 30"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "30. Pelanjutan tempoh percubaan"
+   }
+  },
+  {
+   "id": "MY-H2308-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Section 31"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "31. Tarikh pengesahan"
+   }
+  },
+  {
+   "id": "MY-H2308-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Section 32"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "32. Kesan pelanjutan tempoh percubaan dengan denda\n\nPeraturan"
+   }
+  },
+  {
+   "id": "MY-H2308-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Section 33"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "33. Pemberitahuan tentang pengesahan\n\nBAHAGIAN VI\n\nKEKANANAN"
+   }
+  },
+  {
+   "id": "MY-H2308-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "Section 34"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "34. Kaedah penetapan kekananan"
+   }
+  },
+  {
+   "id": "MY-H2308-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "Section 35"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "35. Kekananan pegawai yang kembali ke dalam skim perkhidmatan terdahulunya"
+   }
+  },
+  {
+   "id": "MY-H2308-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "Section 36"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "36. Kekananan pegawai yang diluluskan cuti tanpa gaji dan tidak hadir bertugas\n\nBAHAGIAN VII\n\nOPSYEN BAGI SKIM KUMPULAN WANG SIMPANAN PEKERJA\n\nDAN PEMBERIAN TARAF BERPENCEN"
+   }
+  },
+  {
+   "id": "MY-H2308-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "Section 37"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "37. Opsyen bagi Skim Kumpulan Wang Simpanan Pekerja"
+   }
+  },
+  {
+   "id": "MY-H2308-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "Section 38"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "38. Pemberian taraf berpencen\n\nBAHAGIAN VIII\n\nKENAIKAN PANGKAT, PEMANGKUAN DAN PENANGGUNGAN KERJA"
+   }
+  },
+  {
+   "id": "MY-H2308-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "Section 39"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "39. Asas kenaikan pangkat"
+   }
+  },
+  {
+   "id": "MY-H2308-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "Section 40"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "40. Syarat kenaikan pangkat"
+   }
+  },
+  {
+   "id": "MY-H2308-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "Section 41"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "41. Kenaikan pangkat pegawai yang dalam peminjaman atau pertukaran sementara"
+   }
+  },
+  {
+   "id": "MY-H2308-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "Section 42"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "42. Pengiklanan kekosongan jawatan kenaikan pangkat"
+   }
+  },
+  {
+   "id": "MY-H2308-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "Section 43"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "43. Tarikh kenaikan pangkat"
+   }
+  },
+  {
+   "id": "MY-H2308-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "Section 44"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "44. Penentuan gaji kenaikan pangkat"
+   }
+  },
+  {
+   "id": "MY-H2308-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "Section 45"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "45. Tarikh pergerakan gaji jawatan kenaikan pangkat"
+   }
+  },
+  {
+   "id": "MY-H2308-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "Section 46"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "46. Pemangkuan dan penanggungan kerja"
+   }
+  },
+  {
+   "id": "MY-H2308-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "Section 47"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "47. Elaun pemangkuan dan penanggungan kerja\n\nBAHAGIAN IX\n\nPENAMATAN PERKHIDMATAN DAN PELETAKAN JAWATAN\n\nPeraturan"
+   }
+  },
+  {
+   "id": "MY-H2308-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "Section 48"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "48. Penamatan perkhidmatan pegawai yang belum disahkan"
+   }
+  },
+  {
+   "id": "MY-H2308-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "Section 49"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "49. Penamatan perkhidmatan pegawai yang gagal tapisan keselamatan"
+   }
+  },
+  {
+   "id": "MY-H2308-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "Section 50"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "50. Penamatan perkhidmatan pegawai yang gagal disahkan"
+   }
+  },
+  {
+   "id": "MY-H2308-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "Section 51"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "51. Kuasa menamatkan perkhidmatan"
+   }
+  },
+  {
+   "id": "MY-H2308-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "Section 52"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "52. Peluang untuk menunjukkan sebab"
+   }
+  },
+  {
+   "id": "MY-H2308-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "Section 53"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "53. Notis penamatan perkhidmatan"
+   }
+  },
+  {
+   "id": "MY-H2308-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "Section 54"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "54. Notis peletakan jawatan"
+   }
+  },
+  {
+   "id": "MY-H2308-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "Section 55"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "55. Kuat kuasa notis peletakan jawatan"
+   }
+  },
+  {
+   "id": "MY-H2308-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "Section 56"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "56. Pemendekan notis peletakan jawatan"
+   }
+  },
+  {
+   "id": "MY-H2308-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "Section 57"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "57. Peletakan jawatan tidak perlu\n\nBAHAGIAN X\n\nPELANTIKAN PEGAWAI KONTRAK"
+   }
+  },
+  {
+   "id": "MY-H2308-A58",
+   "no": 58,
+   "noLabel": {
+    "en": "Section 58"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "58. Pelantikan pegawai kontrak"
+   }
+  },
+  {
+   "id": "MY-H2308-A59",
+   "no": 59,
+   "noLabel": {
+    "en": "Section 59"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "59. Penamatan perkhidmatan dan peletakan jawatan pegawai kontrak\n\nBAHAGIAN XI\n\nUMUR"
+   }
+  },
+  {
+   "id": "MY-H2308-A60",
+   "no": 60,
+   "noLabel": {
+    "en": "Section 60"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "60. Umur dan tarikh lahir"
+   }
+  },
+  {
+   "id": "MY-H2308-A61",
+   "no": 61,
+   "noLabel": {
+    "en": "Section 61"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "61. Umur persaraan\n\nBAHAGIAN XII\n\nPELBAGAI"
+   }
+  },
+  {
+   "id": "MY-H2308-A62",
+   "no": 62,
+   "noLabel": {
+    "en": "Section 62"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "62. Kuasa Ketua Pengarah Perkhidmatan Awam\n\nPeraturan"
+   }
+  },
+  {
+   "id": "MY-H2308-A63",
+   "no": 63,
+   "noLabel": {
+    "en": "Section 63"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "63. Kecualian dan peralihan"
+   }
+  },
+  {
+   "id": "MY-H2308-A64",
+   "no": 64,
+   "noLabel": {
+    "en": "Section 64"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "64. Pembatalan\n\nJADUAL PERTAMA\n\nJADUAL KEDUA\n\nJADUAL KETIGA\n\nJADUAL KEEMPAT\n\nJADUAL KELIMA\n\nPERLEMBAGAAN PERSEKUTUAN\n\nPERATURAN-PERATURAN PEGAWAI AWAM (PELANTIKAN, KENAIKAN PANGKAT\n\nDAN PENAMATAN PERKHIDMATAN) 2012\n\nPADA menjalankan kuasa yang diberikan oleh Fasal (2) Perkara 132 Perlembagaan\n\nPersekutuan, Yang di-Pertuan Agong membuat peraturan-peraturan yang berikut:\n\nBAHAGIAN I\n\nPERMULAAN\n\nNama dan permulaan kuat kuasa\n\n1. (1) Peraturan-peraturan ini bolehlah dinamakan Peraturan-Peraturan\n\nPegawai Awam (Pelantikan, Kenaikan Pangkat dan Penamatan Perkhidmatan)\n\n(2) Peraturan-Peraturan ini mula berkuat kuasa pada 1 Januari 2012.\n\nPemakaian\n\n2. Tertakluk kepada peruntukan Bahagian X Perlembagaan Persekutuan,\n\nPeraturan-Peraturan ini hendaklah terpakai bagi semua pelantikan, kenaikan pangkat\n\ndan penamatan perkhidmatan dalam perkhidmatan awam.\n\nPemakaian tatacara pelantikan\n\n3. (1) Tatacara yang dinyatakan dalam Peraturan-Peraturan ini bagi\n\nmembuat pelantikan ke dalam perkhidmatan awam di bawah bidang kuasa\n\nSuruhanjaya hendaklah terpakai bagi semua pelantikan tetap atau sementara kecuali\n\npertukaran pelantikan, pertukaran tetap atau apa-apa pelantikan lain yang\n\ndiputuskan oleh Suruhanjaya.\n\n(2) Bagi maksud peraturan ini\n\n(a) \"pertukaran pelantikan\" ertinya pelantikan bagi membolehkan\n\nseseorang pegawai berpindah ke perkhidmatan awam\n\nPersekutuan, perkhidmatan awam Negeri, pihak berkuasa\n\nberkanun, pihak berkuasa tempatan atau skim perkhidmatan lain\n\ntanpa terikat dengan proses pelantikan biasa berikutan\n\npembubaran sesuatu agensi di bawah mana-mana perkhidmatan\n\nberkenaan, penjumudan sesuatu skim perkhidmatan dan\n\npemansuhan jawatan, atau atas permohonan pegawai, atau atas\n\nsebab-sebab lain yang diputuskan oleh Kerajaan selain daripada\n\npengkorporatan atau penswastaan; dan\n\n(b) \"pertukaran tetap\" ertinya pelantikan tetap pegawai yang sedang\n\nberkhidmat secara peminjaman atau pertukaran sementara ke\n\njawatan yang disandang olehnya di agensi dia dipinjamkan atau\n\nditukarkan sementara.\n\nTafsiran\n\n4. Dalam Peraturan-Peraturan ini, melainkan jika konteksnya menghendaki makna\n\nyang lain―\n\n\"kenaikan pangkat\" ertinya peningkatan secara hakiki dari satu gred ke suatu\n\ngred yang lebih tinggi dalam perkhidmatan dan skim perkhidmatan yang sama\n\ndengan kelulusan Lembaga Kenaikan Pangkat;\n\n\"Ketua Jabatan\" ertinya seseorang pegawai yang mengetuai sesuatu jabatan\n\natau mana-mana pegawai yang diwakilkan kuasa secara bertulis oleh Ketua Jabatan\n\nuntuk bertindak bagi pihaknya, dan sesuatu jabatan itu termasuklah―\n\n(a) sesuatu Kementerian;\n\n(b) sesuatu Jabatan Persekutuan di peringkat persekutuan, wilayah, negeri\n\natau daerah dalam Persekutuan;\n\n(c) sesuatu Jabatan Persekutuan di luar negara; dan\n\n(d) mana-mana entiti lain dalam perkhidmatan awam sebagaimana yang\n\nditentukan oleh Ketua Pengarah Perkhidmatan Awam;\n\n\"Ketua Perkhidmatan\" ertinya seseorang pegawai yang mengetuai sesuatu\n\nperkhidmatan atau mana-mana pegawai yang ditentukan oleh Ketua Pengarah\n\nPerkhidmatan Awam sebagai Ketua Perkhidmatan;\n\n\"lantikan terus\" ertinya pelantikan di gred naik pangkat dalam sesuatu skim\n\nperkhidmatan;\n\n\"Lembaga Kenaikan Pangkat\" ertinya Suruhanjaya, mana-mana orang atau\n\napa-apa Lembaga Kenaikan Pangkat sebagaimana yang diberi kuasa mengikut\n\nundang-undang untuk menaikkan pangkat seseorang pegawai;\n\n\"pegawai\" ertinya semua kategori pegawai yang sedang berkhidmat yang\n\ndilantik oleh Suruhanjaya secara tetap, sementara atau kontrak;\n\n\"pelantikan\" ertinya pelantikan ke dalam perkhidmatan awam oleh Suruhanjaya\n\nsecara tetap, sementara atau kontrak, termasuklah pelantikan kali pertama dan\n\npelantikan seseorang pegawai yang sedang berkhidmat dalam mana-mana skim\n\nperkhidmatan;\n\n\"pemangkuan\" berhubung dengan pegawai, ertinya pelaksanaan tugas secara\n\nsepenuh masa suatu jawatan lain yang lebih tinggi grednya daripada gred hakiki\n\npegawai itu dalam perkhidmatan dan skim perkhidmatan yang sama, dengan kelulusan\n\nLembaga Kenaikan Pangkat;\n\n\"peminjaman\" ertinya pelantikan seseorang pegawai di bawah―\n\n(a) angkatan tentera;\n\n(b) perkhidmatan kehakiman dan perundangan;\n\n(c) perkhidmatan awam am persekutuan;\n\n(d) pasukan polis; atau\n\n(e) perkhidmatan pelajaran,\n\nmenurut Fasal (1) Perkara 132 Perlembagaan Persekutuan ke perkhidmatan awam\n\nNegeri, pihak berkuasa berkanun, pihak berkuasa tempatan, atau mana-mana\n\norganisasi di dalam atau di luar Malaysia, untuk tempoh masa tertentu tanpa\n\nmemutuskan ikatan pegawai itu dengan perkhidmatan hakikinya, termasuklah\n\npelantikan pegawai di bawah perkhidmatan bersama yang disebut dalam\n\nPerkara 133 Perlembagaan Persekutuan ke perkhidmatan pihak berkuasa berkanun,\n\npihak berkuasa tempatan atau organisasi di dalam atau di luar Malaysia;\n\n\"penanggungan kerja\" berhubung dengan pegawai, ertinya pelaksanaan tugas,\n\ndi samping tugasnya sendiri bagi suatu tempoh yang dinyatakan, suatu jawatan lain\n\nyang diluluskan oleh pihak berkuasa yang berkenaan;\n\n\"pengamal perubatan berdaftar\" ertinya pengamal perubatan yang didaftarkan\n\ndi bawah Akta Perubatan 1971 [Akta 50], sama ada pegawai perubatan kerajaan atau\n\nswasta;\n\n\"perkhidmatan awam\" ertinya perkhidmatan awam Persekutuan, iaitu\n\nperkhidmatan kehakiman dan perundangan, perkhidmatan awam am persekutuan,\n\npasukan polis dan perkhidmatan pelajaran menurut Fasal (1) Perkara 132\n\nPerlembagaan Persekutuan;\n\n\"pertukaran sementara\" ertinya pelantikan seseorang pegawai ke\n\nperkhidmatan yang lain di bawah―\n\n(a) angkatan tentera;\n\n(b) perkhidmatan kehakiman dan perundangan;\n\n(c) perkhidmatan awam am persekutuan;\n\n(d) pasukan polis; atau\n\n(e) perkhidmatan pelajaran,\n\nmenurut Fasal (1) Perkara 132 Perlembagaan Persekutuan atau pelantikan\n\nseseorang pegawai ke suatu jawatan dalam skim perkhidmatan yang lain di bawah\n\npihak berkuasa melantik yang sama untuk tempoh masa tertentu tanpa memutuskan\n\nikatan pegawai itu dengan perkhidmatan hakikinya;\n\n\"Suruhanjaya\" ertinya Suruhanjaya Perkhidmatan Awam, Suruhanjaya\n\nPerkhidmatan Kehakiman dan Perundangan, Suruhanjaya Pasukan Polis atau\n\nSuruhanjaya Perkhidmatan Pelajaran, mengikut mana-mana yang berkenaan.\n\nBAHAGIAN II\n\nPELANTIKAN\n\nPelantikan mengikut skim perkhidmatan\n\n5. (1) Semua pelantikan ke dalam perkhidmatan awam hendaklah mengikut\n\nsyarat-syarat yang dinyatakan dalam skim perkhidmatan yang berkuat kuasa pada\n\nmasa itu.\n\n(2) Tertakluk kepada subperaturan (1), jika apa-apa syarat yang dinyatakan\n\ndalam mana-mana skim perkhidmatan perlu dipinda, Ketua Perkhidmatan\n\nhendaklah terlebih dahulu mendapatkan kelulusan Ketua Pengarah Perkhidmatan\n\nAwam sebelum pindaan tersebut dibuat.\n\nPelantikan warganegara sahaja\n\n6. (1) Semua calon bagi pelantikan ke dalam perkhidmatan awam mestilah\n\nwarganegara Malaysia.\n\n(2) Walau apa pun subperaturan (1), Yang di-Pertuan Agong boleh, atas\n\nalasan kepentingan negara, membenarkan pelantikan seseorang yang bukan\n\nwarganegara secara kontrak dan peruntukan dalam Bahagian X hendaklah terpakai\n\nkepada pegawai itu.\n\nPelantikan semula seseorang yang telah meletakkan jawatan\n\n7. Seseorang yang telah meletakkan jawatan dalam perkhidmatan awam boleh\n\ndilantik semula ke dalam perkhidmatan awam.\n\nPelantikan semula seseorang yang dikehendaki bersara\n\n8. (1) Tertakluk kepada subperaturan (2), (3) dan (4), seseorang yang\n\ndikehendaki bersara dari perkhidmatan awam boleh dilantik semula ke dalam\n\nperkhidmatan awam.\n\n(2) Dalam peraturan ini, \"dikehendaki bersara\" ertinya persaraan atas sebab\n\nkesihatan, persaraan kerana dilantik memasuki pertubuhan atau persaraan atas\n\nkeputusan Kerajaan mengikut undang-undang pencen yang berkuat kuasa.\n\n(3) Seseorang yang telah dibersarakan dari perkhidmatan awam atas sebab\n\nkesihatan boleh dilantik semula ke dalam perkhidmatan awam jika dia disahkan sihat\n\ndari segi perubatan dan berkeupayaan melaksanakan tugas dengan memuaskan oleh\n\nsuatu panel perubatan yang ditubuhkan atas permintaan Suruhanjaya.\n\n(4) Bagi maksud subperaturan (3), panel perubatan itu hendaklah terdiri\n\ntidak kurang daripada dua orang pengamal perubatan berdaftar yang salah seorang\n\ndaripada mereka ialah pakar dalam penyakit yang pernah dihidapi oleh pesara itu.\n\nPelantikan semula seseorang yang telah ditamatkan perkhidmatan atau dibuang\n\nkerja\n\n9. Seseorang yang telah ditamatkan dari perkhidmatan awam atau dibuang kerja\n\ntidak boleh dilantik semula ke dalam perkhidmatan awam kecuali dengan kebenaran\n\nkhas Suruhanjaya.\n\nPelantikan pegawai ke dalam skim perkhidmatan yang lain\n\n10. Pegawai boleh dilantik ke suatu jawatan dalam skim perkhidmatan yang lain jika\n\ndia memenuhi syarat yang dikehendaki oleh skim perkhidmatan yang lain itu.\n\nKembali ke dalam skim perkhidmatan terdahulu\n\n11. (1) Tertakluk kepada subperaturan (2), seseorang pegawai yang telah\n\ndisahkan dalam perkhidmatan di skim perkhidmatan terdahulunya sebelum dilantik\n\nke dalam skim perkhidmatan yang lain, boleh dibenarkan oleh Suruhanjaya untuk\n\nkembali ke dalam skim perkhidmatan dan gred terdahulunya jika\n\n(a) pegawai itu gagal untuk disahkan dalam perkhidmatan di skim\n\nperkhidmatan yang lain itu, dengan syarat kegagalannya\n\nbukanlah atas sebab kelakuannya yang tidak memuaskan; atau\n\n(b) pegawai itu memohon untuk kembali ke skim perkhidmatan\n\nterdahulunya, dengan syarat dia telah melalui tempoh\n\npercubaan minimum yang ditetapkan dalam skim perkhidmatan\n\nyang lain itu.\n\n(2) Suruhanjaya boleh membenarkan pegawai itu kembali ke dalam skim\n\nperkhidmatan dan gred terdahulunya sebelum disahkan dalam perkhidmatan di skim\n\nperkhidmatan yang lain itu jika—\n\n(a) ada kekosongan jawatan dalam skim perkhidmatan\n\nterdahulunya;\n\n(b) kelulusan Ketua Perkhidmatan yang berkenaan diperoleh; dan\n\n(c) jawatan dalam skim perkhidmatan terdahulu adalah di bawah\n\nbidang kuasa pihak berkuasa melantik yang sama.\n\n(3) Bagi maksud subperaturan (1), pegawai itu hendaklah, pada tarikh dia\n\nkembali ke skim perkhidmatan terdahulunya, diberikan mata gaji atau amaun gaji\n\nyang pegawai itu patut terima sekiranya dia tidak dilantik ke jawatan sekarang,\n\ntertakluk kepada tangga gaji maksimum dalam jawatan terdahulunya. Tarikh\n\npergerakan gaji tahunan pegawai itu adalah berdasarkan tarikh pergerakan gaji\n\ntahunan skim perkhidmatan terdahulu.\n\nPeminjaman pegawai\n\n12. (1) Pegawai yang dilantik secara tetap boleh, dengan persetujuannya,\n\npersetujuan Ketua Jabatannya dan dengan kelulusan Suruhanjaya, dipinjamkan,\n\ntertakluk kepada apa-apa syarat dan bagi apa-apa tempoh sebagaimana yang boleh\n\nditentukan oleh Yang di-Pertuan Agong, kepada mana-mana perkhidmatan awam\n\nNegeri, pihak berkuasa berkanun, pihak berkuasa tempatan atau mana-mana\n\norganisasi, di dalam atau di luar Malaysia.\n\n(2) Suruhanjaya boleh mempertimbangkan seseorang pegawai\n\nperkhidmatan awam Negeri untuk dipinjamkan kepada perkhidmatan awam tertakluk\n\nkepada apa-apa syarat dan bagi apa-apa tempoh sebagaimana yang ditentukan oleh\n\nYang di-Pertuan Agong.\n\n(3) Pihak berkuasa berkanun atau pihak berkuasa tempatan boleh\n\nmempertimbangkan seseorang pegawai pihak berkuasa berkanun atau pihak\n\nberkuasa tempatan untuk dipinjamkan kepada perkhidmatan awam, tertakluk kepada\n\npersetujuan pegawai berkenaan, pihak berkuasa berkanun atau pihak berkuasa\n\ntempatan yang berkenaan dan pihak yang kepadanya pegawai itu dipinjamkan dan\n\napa-apa syarat serta bagi apa-apa tempoh sebagaimana yang dipersetujui oleh\n\npihak-pihak yang terlibat.\n\nPertukaran sementara\n\n13. Pegawai yang dilantik secara tetap boleh, dengan kelulusan Suruhanjaya,\n\ndilantik secara pertukaran sementara kepada mana-mana jawatan dalam\n\nperkhidmatan awam, tertakluk kepada apa-apa syarat dan bagi apa-apa tempoh\n\nsebagaimana yang ditentukan oleh Ketua Pengarah Perkhidmatan Awam.\n\nBAHAGIAN III\n\nPENGAMBILAN\n\nTatacara pengambilan\n\n14. (1) Apa-apa pengambilan ke dalam perkhidmatan awam hendaklah\n\ndiiklankan dalam sekurang-kurangnya satu akhbar harian bahasa Melayu.\n\n(2) Bagi maksud subperaturan (1), iklan itu hendaklah menyatakan, antara\n\nlain—\n\n(a) nama jawatan dan taraf pelantikan;\n\n(b) nama skim perkhidmatan;\n\n(c) butiran gaji;\n\n(d) kelayakan akademik dan kelayakan lain yang dikehendaki;\n\n(e) taraf kewarganegaraan pemohon;\n\n(f) tarikh tutup permohonan; dan\n\n(g) alamat ke mana permohonan patut dikirimkan.\n\n(3) Walau apa pun subperaturan (1), Suruhanjaya boleh menggunakan apaapa cara lain yang difikirkannya sesuai untuk mengiklankan pengambilan.\n\nTatacara tapisan\n\n15. Suruhanjaya boleh melaksanakan tatacara tapisan mengikut profil atau tatacara\n\ntapisan lain yang sesuai bagi maksud mendapatkan calon yang terbaik untuk dilantik\n\ndalam perkhidmatan awam.\n\nButiran pengambilan\n\n16. (1) Ketua Perkhidmatan hendaklah memaklumkan kepada Suruhanjaya\n\napa-apa butiran yang dikehendaki bagi tiap-tiap urusan pengambilan seperti yang\n\nberikut:\n\n(a) bilangan jawatan kosong yang perlu diiisi;\n\n(b) bilangan calon simpanan yang dikehendaki;\n\n(c) syarat khas, jika ada; dan\n\n(d) perihal tugas dan tanggungjawab bagi jawatan kosong itu.\n\n(2) Jika kelayakan atau syarat dalam skim perkhidmatan bagi jawatan\n\nkosong itu perlu dipinda bagi urusan pengambilan itu, Ketua Perkhidmatan\n\nhendaklah terlebih dahulu mendapatkan kelulusan Ketua Pengarah Perkhidmatan\n\nAwam sebelum memaklumkan Suruhanjaya sebagaimana yang dikehendaki oleh\n\nsubperaturan (1).\n\nKelayakan setaraf\n\n17. Jika ada keraguan dalam mana-mana skim perkhidmatan atau iklan\n\nkekosongan tentang maksud kelayakan yang diiktiraf setaraf dengan bidang yang\n\ndikehendaki dalam skim perkhidmatan, perkara itu hendaklah dirujuk kepada Ketua\n\nPengarah Perkhidmatan Awam untuk penentuan.\n\nPermohonan daripada pegawai\n\n18. Permohonan daripada pegawai yang sedang berkhidmat hendaklah\n\ndikemukakan kepada Suruhanjaya dan dimaklumkan kepada Ketua Jabatan, dan\n\nSuruhanjaya boleh mendapatkan ulasan daripada Ketua Jabatan jika diperlukan.\n\nTawaran pelantikan oleh Suruhanjaya\n\n19. (1) Suruhanjaya hendaklah membuat tawaran pelantikan kepada calon\n\nyang berjaya sama ada secara terus atau melalui Ketua Perkhidmatan atau Ketua\n\nJabatan melalui apa-apa kaedah yang difikirkan sesuai oleh Suruhanjaya. Suruhanjaya\n\njuga hendaklah memaklumkan calon yang tidak berjaya.\n\n(2) Suruhanjaya boleh mengarahkan Ketua Perkhidmatan atau Ketua Jabatan\n\nuntuk membuat tawaran pelantikan kepada calon yang berjaya bagi pihak Suruhanjaya,\n\ndan Ketua Perkhidmatan atau Ketua Jabatan yang telah diarahkan sedemikian\n\nhendaklah menghantarkan kepada Suruhanjaya satu salinan surat tawaran pelantikan\n\nyang telah dikeluarkan oleh Ketua Perkhidmatan atau Ketua Jabatan itu.\n\n(3) Setiap surat tawaran pelantikan hendaklah menyatakan apa-apa\n\nmaklumat perkhidmatan yang ditetapkan oleh Suruhanjaya.\n\nPemeriksaan kesihatan, akuan berkanun dan surat aku janji\n\n20. (1) Tiap-tiap calon yang akan dilantik ke dalam perkhidmatan awam\n\nhendaklah mematuhi syarat pelantikan yang berikut:\n\n(a) calon itu hendaklah diperiksa dan diperakui sihat untuk\n\nberkhidmat oleh pengamal perubatan berdaftar; dan\n\n(b) calon itu hendaklah membuat suatu akuan berkanun di bawah\n\nAkta Akuan Berkanun 1960 [Akta 13] bahawa dia―\n\n(i) tidak mempunyai apa-apa rekod jenayah;\n\n(ii) tidak pernah dibuang kerja;\n\n(iii) bukannya penagih dadah;\n\n(iv) tidak memiliki kewarganegaraan asing;\n\n(v) bukan seorang bankrap;\n\n(vi) tidak dibersarakan atas sebab kesihatan; dan\n\n(vii) tidak pernah ditamatkan perkhidmatan dari perkhidmatan\n\nawam.\n\n(2) Suruhanjaya boleh menentukan apa-apa akuan lain selain akuan yang\n\nditetapkan dalam perenggan (1)(b), jika perlu.\n\n(3) Tiap-tiap calon hendaklah menandatangani Surat Aku Janji\n\nsebagaimana yang dinyatakan dalam Jadual Pertama bahawa dia akan mematuhi\n\nPeraturan-Peraturan Pegawai Awam (Kelakuan dan Tatatertib) 1993\n\n[P. U. (A) 395/1993], Perintah-Perintah Am, pekeliling, surat pekeliling, peraturan\n\ndan arahan lain yang dikeluarkan oleh Yang di-Pertuan Agong dari semasa ke\n\nsemasa sepanjang perkhidmatannya dalam perkhidmatan awam.\n\n(4) Pegawai yang telah mematuhi syarat di subperaturan (1) boleh\n\ndikehendaki mematuhi syarat itu semula apabila dilantik ke dalam skim\n\nperkhidmatan yang lain.\n\n(5) Suruhanjaya boleh membatalkan tawaran pelantikan jika calon itu\n\ndidapati tidak sihat setelah diperiksa mengikut perenggan (1)(a) atau tidak\n\nmematuhi mana-mana syarat yang disebut dalam perenggan (1)(b) dan\n\nsubperaturan (3).\n\n(6) Bagi maksud subperaturan (5), mana-mana calon yang telah mula\n\nberkhidmat boleh dibayar apa-apa emolumen bagi tempoh perkhidmatannya\n\nsebelum tawaran perkhidmatannya dibatalkan.\n\n(7) Bagi maksud pelantikan calon di bawah subperaturan 6(2), syarat\n\ndalam subperenggan (1)(b)(iv) dan (vii) adalah tidak terpakai bagi calon itu.\n\n(8) Walau apa pun perenggan 1(a), Ketua Jabatan boleh mengarahkan\n\npegawai yang sedang berkhidmat untuk menjalani pemeriksaan kesihatan atau\n\nmengemukakan maklumat kesihatan yang disahkan oleh pengamal perubatan berdaftar\n\napabila Ketua Jabatan berpandangan terdapat keperluan perkhidmatan.\n\nTapisan keselamatan\n\n21. Pegawai yang dilantik untuk kali pertama atau pegawai yang dilantik ke\n\nskim perkhidmatan yang lain dikehendaki lulus tapisan keselamatan sebagaimana\n\nyang ditetapkan sekiranya ditetapkan sedemikian dalam mana-mana undangundang yang berkuat kuasa.\n\nAkuan setuju terima\n\n22. Ketua Jabatan hendaklah menghantar kepada Suruhanjaya akuan setuju terima\n\ntawaran pelantikan daripada calon, berserta dengan perakuan oleh pengamal\n\nperubatan berdaftar, akuan berkanun dan Surat Aku Janji yang dikehendaki di bawah\n\nsubperaturan 20(1) dan (3) dan hendaklah memaklumkan Suruhanjaya tarikh calon itu\n\nmelaporkan diri untuk bertugas.\n\nBAHAGIAN IV\n\nTARIKH PELANTIKAN, GAJI PERMULAAN DAN PERGERAKAN GAJI TAHUNAN\n\nTarikh pelantikan\n\n23. (1) Tarikh pelantikan seseorang pegawai ke dalam perkhidmatan awam ialah\n\ntarikh dia melaporkan diri untuk bertugas, melainkan jika ditentukan selainnya oleh\n\nSuruhanjaya.\n\n(2) Ketua Perkhidmatan atau Ketua Jabatan tidak boleh menerima manamana pegawai yang melaporkan diri untuk bertugas jika pegawai itu belum mematuhi\n\nsyarat pelantikan di subperaturan 20(1).\n\n(3) Bagi maksud subperaturan (2), pegawai itu masih tertakluk kepada\n\ntempoh maksimum melaporkan diri untuk bertugas sebagaimana yang ditetapkan oleh\n\nSuruhanjaya dalam surat tawaran pelantikan.\n\nTarikh pelantikan tetap bagi pegawai sementara\n\n24. Jika seseorang pegawai sementara yang mematuhi semua syarat yang\n\ndinyatakan bagi mana-mana skim perkhidmatan dilantik untuk mengisi mana-mana\n\njawatan tetap yang kosong dalam skim perkhidmatan itu, tarikh pelantikan pegawai itu\n\nke dalam jawatan tetap tersebut adalah pada tarikh Suruhanjaya bermesyuarat dan\n\nmeluluskan pelantikan tetap itu.\n\nPenentuan gaji permulaan\n\n25. (1) Suruhanjaya hendaklah menentukan gaji permulaan seseorang\n\npegawai sebagaimana yang ditetapkan dalam skim perkhidmatan.\n\n(2) Jika seseorang pegawai yang akan dilantik untuk kali pertama memiliki\n\npengalaman kerja yang berkaitan dengan jawatan yang akan disandangnya, dia boleh\n\ndiberikan gaji permulaan yang lebih tinggi.\n\n(3) Jika Suruhanjaya mempertimbangkan gaji permulaan yang lebih tinggi\n\ndi bawah subperaturan (2), penentuan gaji yang lebih tinggi itu hendaklah\n\nberdasarkan satu pergerakan gaji biasa bagi tiap-tiap genap satu tahun pengalaman\n\nkerja yang berkaitan itu, terhad kepada gaji maksimum di gred jawatan tersebut.\n\n(4) Walau apa pun subperaturan (3), Suruhanjaya mempunyai budi bicara\n\nuntuk menentukan sebahagian atau sepenuhnya bilangan tahun pengalaman kerja\n\nyang berkaitan untuk diambil kira bagi menentukan gaji permulaan yang lebih\n\ntinggi.\n\n(5) Pengalaman kerja yang dianggap berkaitan bagi seseorang pegawai\n\ndalam Kumpulan Pengurusan dan Profesional ialah pengalaman kerja yang diperoleh\n\nselepas pegawai itu mendapat kelayakan profesional atau akademik sebagaimana\n\nyang ditentukan dalam skim perkhidmatan yang berkenaan.\n\n(6) Subperaturan (2), (3) dan (4) hendaklah juga terpakai—\n\n(a) bagi menentukan gaji permulaan seseorang pegawai yang belum\n\ndisahkan yang kemudiannya dilantik ke dalam skim\n\nperkhidmatan yang lain; dan\n\n(b) bagi menentukan gaji permulaan seseorang pegawai yang\n\ndilantik semula mengikut peraturan 7, 8 dan 9.\n\n(7) Jika seseorang pegawai yang telah disahkan dalam perkhidmatan\n\nkemudiannya dilantik ke dalam skim perkhidmatan yang lain, gaji permulaan pegawai\n\nitu adalah pada mata gaji yang lebih tinggi dan paling hampir yang perbezaannya\n\ntidak kurang daripada satu pergerakan gaji biasa atau amaun yang bersamaan\n\ndengan pergerakan gaji biasa dalam gred atau jawatan terdahulu, terhad kepada\n\nmata gaji maksimum jawatan baru.\n\n(8) Jika seseorang pegawai yang telah disahkan dalam perkhidmatan\n\ndilantik ke jawatan lain pada tarikh yang sama atau lebih awal dari tarikh\n\npergerakan gaji pegawai itu dalam jawatan terdahulunya, pergerakan gaji jawatan\n\nterdahulunya, jika ada, hendaklah diberi terlebih dahulu, terhad kepada amaun gaji\n\nmaksimum di gred tersebut sebelum menentukan gaji permulaan pelantikan itu.\n\n(9) Gaji permulaan pegawai yang dilantik untuk kali pertama secara\n\nlantikan terus adalah berdasarkan mata gaji minimum jawatan itu.\n\n(10) Gaji permulaan pegawai yang belum disahkan dalam perkhidmatan\n\nyang dilantik secara lantikan terus adalah sebagaimana dalam subperaturan (9).\n\n(11) Gaji permulaan pegawai yang telah disahkan dalam perkhidmatan dan\n\nkemudiannya dilantik secara lantikan terus adalah sebagaimana yang dinyatakan\n\ndalam subperaturan (7).\n\nGaji permulaan bagi kes khas\n\n26. Walau apa pun peraturan 25, Suruhanjaya boleh menentukan bahawa gaji\n\npermulaan bagi seseorang pegawai adalah pada mana-mana mata gaji atau suatu\n\namaun gaji tertentu bagi suatu jawatan tertentu setelah mengambil kira—\n\n(a) kelayakan khas atau bakat pegawai itu; atau\n\n(b) hal keadaan khas yang diputuskan oleh Kerajaan berhubung dengan\n\npelantikan pegawai itu.\n\nPergerakan gaji tahunan\n\n27. (1) Tarikh pergerakan gaji tahunan seseorang pegawai lantikan tetap dan\n\nsementara hendaklah sebagaimana yang dinyatakan dalam Jadual Kedua.\n\n(2) Walau apa pun subperaturan (1), Ketua Pengarah Perkhidmatan Awam\n\nboleh, dalam keadaan tertentu, menentukan tarikh pergerakan gaji seseorang\n\npegawai pada tarikh yang difikirkannya sesuai.\n\n(3) Tarikh pergerakan gaji tahunan seseorang pegawai yang dalam tempoh\n\npeminjaman atau pertukaran sementara hendaklah sebagaimana yang ditentukan\n\noleh Suruhanjaya.\n\n(4) Pergerakan gaji tahunan seseorang pegawai hendaklah berasaskan\n\npencapaian kerja tahunan pegawai itu atau apa-apa syarat lain yang ditentukan oleh\n\nYang di-Pertuan Agong dari semasa ke semasa.\n\nBAHAGIAN V\n\nTEMPOH PERCUBAAN, PENGESAHAN DALAM PERKHIDMATAN\n\nDAN PELANJUTAN TEMPOH PERCUBAAN\n\nTempoh percubaan\n\n28. (1) Setiap pegawai yang dilantik dikehendaki berkhidmat dalam percubaan\n\nbagi tempoh enam bulan hingga dua puluh empat bulan.\n\n(2) Walau apa pun subperaturan (1), Suruhanjaya boleh, dalam hal\n\nkeadaan khas, memendekkan tempoh percubaan seseorang pegawai atau\n\nmengecualikan seseorang pegawai daripada tempoh percubaan.\n\nSyarat pengesahan\n\n29. (1) Pegawai yang dalam tempoh percubaan yang telah memenuhi semua\n\nsyarat yang dinyatakan dalam skim perkhidmatan atau apa-apa syarat lain yang\n\nditentukan oleh Yang di-Pertuan Agong dari semasa ke semasa adalah layak\n\ndisahkan dalam perkhidmatan oleh Suruhanjaya.\n\n(2) Ketua Jabatan hendaklah mengemukakan kepada Suruhanjaya borang\n\nyang dinyatakan dalam Jadual Ketiga, sama ada memperakukan atau tidak\n\nmemperakukan pengesahan dalam perkhidmatan seseorang pegawai itu.\n\n(3) Jika seseorang pegawai diperakukan untuk disahkan dalam\n\nperkhidmatan, Ketua Jabatan hendaklah mengemukakan perakuan dalam borang\n\nyang dinyatakan dalam Jadual Ketiga dalam tempoh satu bulan dari tarikh pegawai\n\nitu layak diperakukan untuk pengesahan, dengan syarat perakuan itu dikemukakan\n\ntidak kurang dari tempoh percubaan minimum.\n\n(4) Jika seseorang pegawai tidak diperakukan untuk disahkan dalam\n\nperkhidmatan, Ketua Jabatan hendaklah mengemukakan kepada Suruhanjaya\n\nperakuan untuk tidak mengesahkan pegawai itu dalam perkhidmatan sebagaimana\n\ndalam Jadual Ketiga.\n\n(5) Jika Ketua Jabatan gagal mengemukakan perakuan bagi pengesahan\n\nseseorang pegawai mengikut subperaturan (3), pegawai itu boleh memohon kepada\n\nSuruhanjaya untuk disahkan dan suatu salinan permohonan itu hendaklah dihantar\n\nkepada Ketua Jabatan.\n\n(6) Setelah menerima permohonan di bawah subperaturan (5),\n\nSuruhanjaya boleh menjalankan suatu siasatan dan apabila selesai siasatan itu\n\nmengesahkan pegawai itu jika Suruhanjaya mendapati dia layak untuk disahkan.\n\n(7) Walau apa pun subperaturan (2), Suruhanjaya tidak terikat dengan\n\nperakuan Ketua Jabatan dalam mengesahkan seseorang pegawai dalam perkhidmatan.\n\n(8) Jika ada apa-apa syarat pengesahan dalam perkhidmatan yang perlu\n\ndipinda disebabkan hal keadaan khas, Ketua Perkhidmatan hendaklah terlebih dahulu\n\nmendapatkan kelulusan Suruhanjaya.\n\nPelanjutan tempoh percubaan\n\n30. (1) Suruhanjaya boleh melanjutkan tempoh percubaan seseorang pegawai,\n\nsama ada dengan atau tanpa denda, setelah melalui tempoh percubaan maksimum\n\nyang ditetapkan dalam skim perkhidmatan.\n\n(2) Jika seseorang pegawai belum memenuhi syarat untuk disahkan dalam\n\nperkhidmatan selepas melalui tempoh percubaan maksimum yang ditetapkan,\n\npegawai boleh mengemukakan suatu permohonan bagi pelanjutan tempoh\n\npercubaannya kepada Suruhanjaya melalui Ketua Jabatannya sebaik sahaja tamat\n\ntempoh percubaan maksimumnya itu, dengan syarat Ketua Jabatan masih belum\n\nmengemukakan perakuan untuk tidak mengesahkan pegawai itu dalam\n\nperkhidmatan di bawah subperaturan 29(4).\n\n(3) Sekiranya Ketua Jabatan bersetuju untuk memperakukan permohonan\n\npegawai, Ketua Jabatan hendaklah dengan segera mengemukakan borang yang\n\ndinyatakan dalam Jadual Keempat mengikut subperaturan (2) kepada Suruhanjaya\n\ndengan menyatakan butir-butir seperti yang berikut:\n\n(a) sebab pegawai itu tidak disahkan dalam perkhidmatan;\n\n(b) syor Ketua Jabatan sama ada tempoh percubaan patut\n\ndilanjutkan, dengan atau tanpa denda;\n\n(c) butiran perkhidmatan pegawai yang dikemas kini; dan\n\n(d) senarai peperiksaan, jika ada, yang telah diduduki oleh pegawai\n\nitu, tarikh dan keputusan peperiksaan itu.\n\n(4) Suruhanjaya akan hanya meluluskan permohonan pelanjutan tempoh\n\npercubaan yang dikemukakan mengikut subperaturan (3) jika ada alasan yang\n\nmunasabah bagi mempercayai bahawa pegawai itu berupaya mematuhi syaratsyarat bagi pengesahan semasa tempoh pelanjutan yang dipohon itu dan Ketua\n\nJabatan mengesyorkan bahawa tempoh percubaan pegawai itu patut dilanjutkan.\n\n(5) Tempoh percubaan seseorang pegawai hanya boleh dilanjutkan tidak\n\nmelebihi dua belas bulan, tetapi Suruhanjaya boleh dalam hal keadaan khas\n\nmelanjutkan tempoh percubaan melebihi dua belas bulan jika difikirkan patut.\n\n(6) Apa-apa keputusan yang dibuat oleh Suruhanjaya berkenaan dengan\n\npermohonan pelanjutan tempoh percubaan seseorang pegawai hendaklah\n\ndisampaikan kepada pegawai itu oleh Suruhanjaya dalam tempoh satu bulan dari\n\ntarikh keputusan.\n\nTarikh pengesahan\n\n31. (1) Tarikh pengesahan dalam perkhidmatan seseorang pegawai adalah\n\npada hari pertama selepas tarikh pegawai itu mematuhi semua syarat pengesahan\n\nyang ditetapkan.\n\n(2) Seseorang pegawai hendaklah disifatkan berada dalam percubaan\n\nsehinggalah pegawai itu disahkan dalam perkhidmatan oleh Suruhanjaya, walaupun\n\npegawai itu telah mematuhi semua syarat pengesahan yang ditetapkan.\n\nKesan pelanjutan tempoh percubaan dengan denda\n\n32. Seseorang pegawai yang tempoh percubaannya dilanjutkan dengan denda\n\nhendaklah—\n\n(a) hilang kekananannya bagi suatu tempoh yang sama dengan tempoh\n\npelanjutan itu;\n\n(b) tidak layak mendapat apa-apa pergerakan gaji tahunan semasa dalam\n\ntempoh pelanjutan percubaannya; dan\n\n(c) tertakluk kepada tarikh pengesahannya, diubah tarikh pergerakan gaji\n\ntahunan semasa ke tahun berikutnya.\n\nPemberitahuan tentang pengesahan\n\n33. Suruhanjaya hendaklah dengan segera memberitahu seseorang pegawai tentang\n\npengesahannya dalam perkhidmatan melalui Ketua Jabatan pegawai itu.\n\nBAHAGIAN VI\n\nKEKANANAN\n\nKaedah penentuan kekananan\n\n34. (1) Kekananan seseorang pegawai ditentukan seperti yang berikut:\n\n(a) bagi seseorang pegawai dalam gred lantikan atau gred lantikan\n\nterus, mengikut tarikh pegawai itu dilantik secara tetap; dan\n\n(b) bagi seseorang pegawai dalam gred kenaikan pangkat, mengikut\n\ntarikh pegawai itu menyandang gred itu secara hakiki.\n\n(2) Walau apa pun subperaturan (1), jika dua atau lebih pegawai dilantik\n\nsecara tetap atau dinaikkan pangkat ke gred yang sama dalam skim perkhidmatan yang\n\nsama pada tarikh yang sama, kekananan pegawai itu disifatkan sebagai sama.\n\nKekananan pegawai yang kembali ke dalam skim perkhidmatan terdahulunya\n\n35. Pegawai yang kembali ke dalam skim perkhidmatan terdahulunya mengikut\n\nsubperaturan 11(1) hilang kekananannya selama tempoh pegawai itu berada di luar\n\nskim perkhidmatan terdahulunya.\n\nKekananan pegawai yang diluluskan cuti tanpa gaji dan tidak hadir bertugas\n\n36. (1) Seseorang pegawai akan hilang kekananannya dalam hal keadaan yang\n\nberikut:\n\n(a) diluluskan cuti tanpa gaji, selain cuti belajar tanpa gaji selama\n\ntempoh dia bercuti tanpa gaji; atau\n\n(b) tidak hadir bertugas tanpa cuti, tanpa kebenaran atau tanpa\n\nsebab yang munasabah selama tempoh ketidakhadirannya.\n\n(2) Walau apa pun perenggan (1)(b), kuasa pihak berkuasa tatatertib untuk\n\nmengenakan apa-apa tindakan tatatertib terhadap pegawai yang didapati tidak hadir\n\nbertugas tanpa cuti, tanpa kebenaran atau tanpa sebab yang munasabah adalah tidak\n\nterjejas.\n\nBAHAGIAN VII\n\nOPSYEN BAGI SKIM KUMPULAN WANG SIMPANAN PEKERJA DAN PEMBERIAN TARAF\n\nBERPENCEN\n\nOpsyen bagi Skim Kumpulan Wang Simpanan Pekerja\n\n37. (1) Seseorang pegawai yang berhasrat untuk memilih Skim Kumpulan\n\nWang Simpanan Pekerja sebagaimana yang diperuntukkan di bawah seksyen 6A\n\nAkta Pencen 1980 [Akta 227] atau undang-undang pencen yang berkuat kuasa\n\nhendaklah, sebelum diperakukan pengesahan dalam perkhidmatan, melaksanakan\n\npilihannya dengan menggunakan borang yang dinyatakan dalam Jadual Kelima.\n\n(2) Pegawai yang telah memilih skim Kumpulan Wang Simpanan Pekerja\n\npada jawatan terdahulu dan dilantik ke jawatan lain dalam perkhidmatan awam,\n\nperkhidmatan awam Negeri, pihak berkuasa berkanun atau pihak berkuasa\n\ntempatan hendaklah tertakluk kepada subperaturan (1).\n\nPemberian taraf berpencen\n\n38. (1) Seseorang pegawai yang tidak memilih Skim Kumpulan Wang\n\nSimpanan Pekerja mengikut peraturan 37 layak diberi taraf berpencen mengikut\n\nundang-undang pencen.\n\n(2) Apabila seseorang pegawai menjadi layak untuk diberi taraf\n\nberpencen, Ketua Jabatan pegawai itu hendaklah mengemukakan perakuannya dalam\n\nborang yang dinyatakan dalam Jadual Keenam kepada Suruhanjaya.\n\n(3) Pelantikan seseorang pegawai ke suatu jawatan lain dalam\n\nperkhidmatan awam secara tetap mengikut peraturan 10 tidak menjejaskan taraf\n\nberpencen mengikut undang-undang pencen yang berkuat kuasa, kecuali jika\n\npegawai itu memilih Skim Kumpulan Wang Simpanan Pekerja semasa dilantik dalam\n\njawatan lainnya itu.\n\nBAHAGIAN VIII\n\nKENAIKAN PANGKAT, PEMANGKUAN DAN PENANGGUNGAN KERJA\n\nAsas kenaikan pangkat\n\n39. (1) Kenaikan pangkat seseorang pegawai adalah berasaskan merit.\n\n(2) Dalam mempertimbangkan merit seseorang pegawai bagi kenaikan\n\npangkat, Lembaga Kenaikan Pangkat hendaklah mengambil kira\n\n(a) kecekapan dan prestasi kerja pegawai itu;\n\n(b) kelayakan, pengetahuan, kemahiran dan pengalaman pegawai\n\nitu;\n\n(c) sifat-sifat peribadi, termasuk kesesuaiannya dengan jawatan\n\nkenaikan pangkat itu, keutuhan, potensi dan kepimpinan\n\npegawai itu; dan\n\n(d) kegiatan luar dan sumbangan pegawai itu kepada negara dan\n\nmasyarakat.\n\n(3) Sebagai tambahan kepada perkara yang dinyatakan dalam\n\nsubperaturan (2), Lembaga Kenaikan Pangkat boleh mempertimbangkan apa-apa aspek\n\nlain yang difikirkannya berkaitan.\n\n(4) Walau apa pun subperaturan (1), jika dua atau lebih pegawai\n\ndiputuskan sama dari segi merit, kelayakan akademik atau pengalaman kerja yang\n\nberkaitan dengan jawatan kenaikan pangkat, di samping kekananan pegawai itu,\n\nhendaklah juga dijadikan asas bagi pemilihan dan pertimbangan.\n\nSyarat kenaikan pangkat\n\n40. (1) Walau apa pun peraturan 39, seseorang pegawai hanya boleh\n\ndipertimbangkan bagi kenaikan pangkat jika pegawai itu telah mematuhi semua syarat\n\nyang dinyatakan dalam skim perkhidmatannya dan jika terdapat kekosongan dalam\n\njawatan kenaikan pangkat itu, melainkan jika skim perkhidmatan memperuntukkan\n\nselainnya.\n\n(2) Ketua Pengarah Perkhidmatan Awam dalam keadaan khas boleh\n\nmengecualikan syarat-syarat tertentu skim perkhidmatan bagi maksud kenaikan\n\npangkat seseorang pegawai di bawah subperaturan (1).\n\nKenaikan pangkat pegawai yang dalam peminjaman atau pertukaran sementara\n\n41. Jika seseorang pegawai dalam peminjaman mengikut subperaturan 12(1) atau\n\npertukaran sementara mengikut peraturan 13 telah mematuhi semua syarat bagi\n\nkenaikan pangkat, pegawai itu hendaklah dipertimbangkan dalam apa-apa urusan\n\nkenaikan pangkat yang dibuat berhubung dengan skim perkhidmatan hakikinya.\n\nPengiklanan kekosongan jawatan kenaikan pangkat\n\n42. (1) Jika Lembaga Kenaikan Pangkat berpendapat bahawa sesuatu\n\nkekosongan jawatan kenaikan pangkat hendaklah diisi dengan menjemput calon yang\n\nberkelayakan daripada suatu perkhidmatan tertentu di bawah jabatan tertentu\n\nsahaja, Ketua Jabatan hendaklah mengiklankan kekosongan itu melalui pekeliling\n\njabatan atau kaedah lain yang sesuai.\n\n(2) Jika terdapat suatu kekosongan jawatan kenaikan pangkat yang tidak\n\nmenghendaki suatu pengiklanan, Ketua Jabatan hendaklah membuat perakuan\n\nkepada Lembaga Kenaikan Pangkat bagi pengisian kekosongan itu dengan\n\nmemperakukan pegawai yang layak, mengikut skim perkhidmatan, untuk\n\npertimbangan.\n\n(3) Bagi maksud subperaturan (2), Ketua Jabatan boleh memperakukan\n\nkepada Lembaga Kenaikan Pangkat apa-apa syarat tambahan yang hendak dikenakan\n\nagar memperoleh pegawai berkelayakan yang bersesuaian dengan bilangan yang lebih\n\nmunasabah.\n\nTarikh kenaikan pangkat\n\n43. (1) Tertakluk kepada subperaturan (2) dan (3), tarikh kenaikan pangkat\n\nseseorang pegawai ialah tarikh yang ditentukan oleh Lembaga Kenaikan Pangkat.\n\n(2) Bagi kenaikan pangkat ke gred, tarikh itu tidak boleh lebih awal dari\n\ntarikh kekosongan jawatan atau tarikh pegawai yang berkenaan layak dinaikkan\n\npangkat mengikut skim perkhidmatannya, mengikut mana-mana yang terkemudian,\n\ntetapi tarikh itu tidak boleh lebih awal dari tarikh kenaikan pangkat terakhir bagi\n\ngred yang sama dalam urusan sebelumnya.\n\n(3) Bagi kenaikan pangkat ke jawatan, kecuali jika skim perkhidmatan tidak\n\nmenyatakan bahawa sesuatu kenaikan pangkat adalah tertakluk kepada kekosongan\n\njawatan, tarikh kenaikan pangkat itu tidak boleh lebih awal dari tarikh pegawai itu\n\ndiluluskan untuk memangku jawatan itu atau pada tarikh kekosongan jawatan hakiki\n\nitu, mengikut mana-mana yang terkemudian.\n\n(4) Bagi maksud peraturan ini\n\n(a) \"kenaikan pangkat ke gred\" ialah kenaikan pangkat ke manamana gred dalam Kumpulan Pengurusan dan Profesional dan\n\nKumpulan Pelaksana; dan\n\n(b) \"kenaikan pangkat ke jawatan\" ialah kenaikan pangkat ke manamana jawatan dalam Kumpulan Pengurusan Tertinggi.\n\nPenentuan gaji kenaikan pangkat\n\n44. (1) Tertakluk kepada subperaturan (3), gaji yang diterima oleh seseorang\n\npegawai yang dinaikkan pangkat hendaklah lebih tinggi daripada gaji akhir yang\n\nditerima dalam gred terdahulu.\n\n(2) Bagi maksud subperaturan (1)\n\n(a) jika gaji akhir dalam gred terdahulu adalah kurang daripada\n\ngaji minimum dalam gred kenaikan pangkat, dan perbezaan\n\nitu adalah sama dengan atau lebih daripada satu pergerakan\n\ngaji biasa atau amaun yang bersamaan dengan pergerakan gaji\n\nbiasa dalam gred atau jawatan terdahulu, pegawai itu\n\nhendaklah dibayar gaji minimum dalam gred kenaikan\n\npangkat itu;\n\n(b) jika gaji akhir dalam gred terdahulu kurang daripada gaji\n\nminimum dalam gred kenaikan pangkat tetapi perbezaannya\n\nadalah kurang daripada satu pergerakan gaji biasa atau amaun\n\nyang bersamaan dengan pergerakan gaji biasa dalam gred atau\n\njawatan terdahulu, gaji permulaan hendaklah ditentukan pada\n\nmata gaji atau amaun gaji di gred kenaikan pangkat selepas\n\nmata gaji minimum supaya perbezaan antara gaji akhir dalam\n\ngred terdahulu dan gaji barunya dalam gred kenaikan pangkat\n\nadalah sama atau lebih daripada satu pergerakan gaji biasa\n\natau amaun yang bersamaan dengan pergerakan gaji biasa\n\ndalam gred terdahulunya; dan\n\n(c) jika gaji akhir dalam gred terdahulu sama atau lebih tinggi\n\ndaripada gaji minimum dalam gred kenaikan pangkat,\n\npegawai itu hendaklah dibayar gaji pada satu mata gaji yang\n\nlebih tinggi berhampiran dengan gaji akhir yang diterimanya\n\ndalam gred terdahulu dan perbezaan gaji antara gaji kenaikan\n\npangkat dan gaji dalam gred terdahulu hendaklah tidak\n\nkurang daripada satu pergerakan gaji biasa atau amaun yang\n\nbersamaan dengan pergerakan gaji biasa dalam gred atau\n\njawatan terdahulu.\n\n(3) Jika seseorang pegawai dinaikkan pangkat sebelum atau sama dengan\n\ntarikh pergerakan gaji pegawai itu dalam jawatan terdahulunya, pergerakan gaji\n\njawatan terdahulunya, jika ada, hendaklah diberi terlebih dahulu sebelum\n\nmenentukan gaji permulaan dalam jawatan kenaikan pangkat.\n\nTarikh pergerakan gaji jawatan kenaikan pangkat\n\n45. Tarikh pergerakan gaji tahunan seseorang pegawai yang dinaikkan pangkat\n\nhendaklah ditentukan mengikut tarikh kenaikan pangkatnya berkuat kuasa mengikut\n\nsubperaturan 27(1).\n\nPemangkuan dan penanggungan kerja\n\n46. Seseorang pegawai boleh, apabila dikehendaki demi kepentingan perkhidmatan\n\ndan tertakluk kepada kelulusan pihak berkuasa yang berkenaan, diarah memangku atau\n\nmenanggung kerja tugas jawatan lain.\n\nElaun pemangkuan dan penanggungan kerja\n\n47. Pegawai yang telah diluluskan memangku atau menanggung kerja tugas jawatan\n\nlain layak dibayar elaun pemangkuan atau elaun penanggungan kerja mengikut\n\nperaturan yang sedang berkuat kuasa.\n\nBAHAGIAN IX\n\nPENAMATAN PERKHIDMATAN DAN PELETAKAN JAWATAN\n\nPenamatan perkhidmatan pegawai yang belum disahkan\n\n48. (1) Yang di-Pertuan Agong boleh menamatkan perkhidmatan seseorang\n\npegawai yang belum disahkan dalam perkhidmatan jika pegawai itu telah\n\n(a) menyembunyikan apa-apa maklumat tentang kesihatannya dalam\n\nborang pemeriksaan perubatan;\n\n(b) membuat akuan palsu dalam akuan berkanun sebagaimana yang\n\ndikehendaki oleh perenggan 20(1)(b) dan subperaturan 20(2);\n\n(c) gagal mematuhi kehendak dalam subperaturan 20(3); atau\n\n(d) meminda atau memalsukan apa-apa dokumen yang berhubungan\n\ndengan pelantikannya.\n\n(2) Bagi maksud menamatkan perkhidmatan seseorang pegawai di bawah\n\nperenggan (1)(a), Ketua Jabatan boleh mengarahkan pegawai itu menjalani\n\npemeriksaan kesihatan semula atau Ketua Jabatan boleh mendapatkan maklumat\n\nkesihatan pegawai itu melalui kaedah-kaedah lain yang bersesuaian.\n\nPenamatan perkhidmatan pegawai yang gagal tapisan keselamatan\n\n49. (1) Pegawai yang gagal tapisan keselamatan dalam tempoh percubaan atau\n\ntempoh percubaan yang dilanjutkan boleh ditamatkan perkhidmatan.\n\n(2) Pegawai yang gagal tapisan keselamatan setelah disahkan dalam\n\nperkhidmatan boleh ditamatkan perkhidmatan mengikut Peraturan-Peraturan Pegawai\n\nAwam (Kelakuan dan Tatatertib) 1993.\n\nPenamatan perkhidmatan pegawai yang gagal disahkan\n\n50. (1) Tertakluk kepada subperaturan (2), Yang di-Pertuan Agong boleh\n\nmenamatkan perkhidmatan seseorang pegawai dalam percubaan pada pelantikan\n\npertama yang telah gagal untuk disahkan dalam perkhidmatan semasa tempoh\n\npercubaan, sama ada tempoh percubaan asal atau yang dilanjutkan.\n\n(2) Walau apa pun subperaturan (1), pegawai boleh ditamatkan\n\nperkhidmatannya jika dia gagal dalam kursus atau latihan yang disyaratkan bagi\n\ntujuan pengesahan dalam perkhidmatan.\n\n(3) Pegawai yang telah disahkan dalam perkhidmatan dalam skim\n\nperkhidmatan terdahulunya dan kemudian dilantik ke dalam skim perkhidmatan\n\nyang lain tetapi gagal disahkan boleh ditamatkan perkhidmatannya di bawah\n\nsubperaturan (4). Penamatan di bawah peruntukan ini hendaklah disifatkan sebagai\n\npenamatan demi kepentingan awam dan apa-apa hal persaraan akibat penamatan\n\nitu adalah tertakluk kepada undang-undang pencen yang berkuat kuasa.\n\n(4) Bagi maksud subperaturan (5), representasi hendaklah dibuat oleh Ketua\n\nJabatan kepada Yang di-Pertuan Agong untuk menamatkan perkhidmatan seseorang\n\npegawai demi kepentingan awam dengan mengemukakan laporan penuh di mana\n\npegawai itu sedang atau telah berkhidmat.\n\n(5) Laporan yang disebut dalam subperaturan (4) hendaklah mengandungi\n\nbutir-butir yang berhubungan dengan perkhidmatan pegawai serta ulasan Ketua\n\nJabatan, jika ada.\n\n(6) Jika, setelah menimbang laporan yang diterima di bawah\n\nsubperaturan (5), Yang di-Pertuan Agong berpuas hati bahawa, dengan mengambil\n\nkira syarat-syarat perkhidmatan dan kebergunaan pegawai itu kepada\n\nperkhidmatan, adalah wajar demi kepentingan awam untuk berbuat demikian, Yang\n\ndi-Pertuan Agong bolehlah menamatkan perkhidmatan pegawai itu mulai dari tarikh\n\nyang hendaklah ditentukan oleh Yang di-Pertuan Agong.\n\n(7) Walau apa pun apa-apa jua dalam Peraturan-Peraturan ini dan manamana undang-undang lain yang berlawanan, apabila perkhidmatan mana-mana\n\npegawai ditamatkan demi kepentingan awam di bawah peraturan ini, pegawai itu\n\nboleh tidak diberikan apa-apa peluang untuk didengar berdasarkan Fasal (2)\n\nPerkara 135 Perlembagaan Persekutuan.\n\n(8) Bagi maksud peraturan ini, perkhidmatan seseorang pegawai, selain\n\nyang disebut dalam subperaturan (1) dan (2), hendaklah ditamatkan sekiranya\n\npegawai itu tidak dapat dikembalikan ke dalam skim perkhidmatan terdahulunya\n\nmengikut perenggan 11(1)(a).\n\n(9) Bagi maksud subperaturan (1), \"pelantikan pertama\" ertinya\n\npelantikan kali pertama ke dalam perkhidmatan awam atau pelantikan semula\n\nseseorang pegawai mengikut peraturan 7, 8 dan 9.\n\nKuasa menamatkan perkhidmatan\n\n51. Pihak yang boleh menamatkan perkhidmatan seseorang pegawai di bawah\n\nperaturan 48, 49 dan 50 hendaklah tidak rendah daripada pihak berkuasa yang\n\nmelantik atau lembaga pegawai yang telah diwakilkan dengan kuasa oleh\n\nSuruhanjaya di bawah Fasal (6) Perkara 144 Perlembagaan Persekutuan.\n\nPeluang untuk menunjukkan sebab\n\n52. Perkhidmatan seseorang pegawai tidak boleh ditamatkan di bawah\n\nperaturan 48 dan 49 dan subperaturan 50(1) dan (2) melainkan jika pegawai itu\n\ntelah diberi peluang untuk menunjukkan sebab, dalam tempoh tidak kurang daripada\n\nempat belas hari dari tarikh penerimaan notis untuk menunjukkan sebab, mengapa\n\nperkhidmatannya tidak boleh ditamatkan.\n\nNotis penamatan perkhidmatan\n\n53. (1) Yang di-Pertuan Agong boleh menamatkan perkhidmatan seseorang\n\npegawai selepas memberinya suatu notis bertulis atau sebulan gaji sebagai ganti\n\nnotis jika—\n\n(a) pegawai itu tidak memberi jawapan kepada notis untuk\n\nmenunjukkan sebab di bawah peraturan 52 dalam tempoh yang\n\nditetapkan; dan\n\n(b) Yang di-Pertuan Agong berpuas hati bahawa tiada sebab yang\n\nmunasabah wujud untuk tidak menamatkan perkhidmatan\n\npegawai itu.\n\n(2) Bagi maksud peraturan 48, 49 dan 50, tempoh notis bertulis yang\n\ndinyatakan dalam subperaturan (1) ialah tiga puluh hari.\n\n(3) Walau apa pun subperaturan (2), bagi pegawai yang dilantik selain\n\npelantikan tetap, tempoh notis bertulis itu hendaklah—\n\n(a) mengikut syarat pelantikan pegawai itu; atau\n\n(b) jika tempoh itu tidak diperuntukkan dalam syarat\n\npelantikannya, tiga puluh hari.\n\nNotis peletakan jawatan\n\n54. (1) Tertakluk kepada peraturan 56, seseorang pegawai yang berhasrat\n\nuntuk meletakkan jawatan hendaklah mengemukakan notis bertulis—\n\n(a) bagi pegawai yang dilantik secara tetap, tiga puluh hari sebelum\n\npeletakan jawatan itu berkuat kuasa atau sebulan gaji sebagai\n\nganti notis; dan\n\n(b) bagi pegawai yang dilantik selain dari secara tetap, mengikut\n\nsyarat pelantikan pegawai itu, atau jika tempoh itu tidak\n\ndiperuntukkan dalam syarat pelantikannya, tiga puluh hari\n\nsebelum peletakan jawatan itu berkuat kuasa atau sebulan gaji\n\nsebagai ganti notis.\n\n(2) Notis peletakan jawatan itu hendaklah dihantar oleh pegawai itu\n\nkepada Ketua Jabatan dan Ketua Jabatan hendaklah mengeluarkan akuan terima\n\nkepada pegawai itu dan memberikan salinannya kepada Ketua Perkhidmatan apabila\n\nmenerima notis peletakan jawatan itu.\n\n(3) Ketua Jabatan hendaklah merekodkan peletakan jawatan pegawai itu\n\nke dalam rekod perkhidmatan pegawai itu.\n\nKuat kuasa notis peletakan jawatan\n\n55. (1) Setiap peletakan jawatan hendaklah berkuat kuasa pada hari yang\n\nberikutnya selepas hari yang tempoh notis diberikan oleh pegawai itu tamat.\n\n(2) Peletakan jawatan yang telah berkuat kuasa tidak boleh ditarik balik.\n\nPemendekan notis peletakan jawatan\n\n56. Ketua Jabatan boleh membenarkan tempoh notis peletakan jawatan mana-mana\n\npegawai dipendekkan atas mana-mana sebab yang berikut:\n\n(a) pegawai itu ditawarkan pelantikan ke mana-mana jawatan dalam\n\nperkhidmatan awam Negeri, pihak berkuasa berkanun, pihak berkuasa\n\ntempatan atau syarikat yang Kerajaan mempunyai kepentingan;\n\n(b) pegawai itu atau pasangannya, anak atau ibu bapa pegawai itu\n\nmenghidapi masalah kesihatan;\n\n(c) pegawai itu menghadiri kursus atau latihan; atau\n\n(d) apa-apa sebab lain yang diluluskan oleh Ketua Pengarah Perkhidmatan\n\nAwam.\n\nPeletakan jawatan tidak perlu\n\n57. Pegawai yang dilantik secara tetap atau sementara yang dilantik ke dalam\n\nperkhidmatan lain dalam perkhidmatan awam, tidak dikehendaki meletakkan\n\njawatan, dengan syarat hendaklah memaklumkan Ketua Jabatannya secara bertulis\n\nuntuk melepaskan jawatan.\n\nBAHAGIAN X\n\nPELANTIKAN PEGAWAI KONTRAK\n\nPelantikan pegawai kontrak\n\n58. (1) Walau apa pun Bahagian II, Suruhanjaya boleh melantik seseorang\n\npegawai secara kontrak.\n\n(2) Dasar dan tatacara pelantikan bagi pegawai secara kontrak hendaklah\n\nditentukan oleh Ketua Pengarah Perkhidmatan Awam.\n\nPenamatan perkhidmatan dan peletakan jawatan pegawai kontrak\n\n59. Subperaturan 53(3) dan perenggan 54(1)(b) hendaklah terpakai bagi penamatan\n\nperkhidmatan dan peletakan jawatan seseorang pegawai yang dilantik secara kontrak.\n\nBAHAGIAN XI\n\nUMUR\n\nUmur dan tarikh lahir\n\n60. (1) Jika sesuatu skim perkhidmatan menetapkan keperluan umur, maka\n\numur yang dimaksudkan itu ialah umur mengikut kalendar Gregorian.\n\n(2) Bagi maksud subperaturan (1), umur seseorang itu ditentukan\n\nmengikut peruntukan yang berikut:\n\n(a) jika tarikh lahir sebenar diketahui, umur hendaklah mengikut\n\ntarikh itu;\n\n(b) jika hanya bulan yang diketahui, hari terakhir dalam bulan itu\n\nhendaklah disifatkan sebagai tarikh lahir;\n\n(c) jika hanya tahun yang diketahui, 31 Disember tahun itu\n\nhendaklah disifatkan sebagai tarikh lahir;\n\n(d) jika tarikh lahir ialah 29 Februari, maka ulang tahun tarikh lahir\n\norang itu bagi tahun yang tidak mempunyai tarikh 29 Februari\n\nhendaklah disifatkan pada 1 Mac.\n\nUmur persaraan\n\n61. Umur persaraan bagi seseorang pegawai adalah seperti yang ditentukan oleh\n\nundang-undang pencen.\n\nBAHAGIAN XII\n\nPELBAGAI\n\nKuasa Ketua Pengarah Perkhidmatan Awam\n\n62. (1) Melainkan kuasa yang telah diwakilkan kepadanya, Ketua Pengarah\n\nPerkhidmatan Awam boleh, dari semasa ke semasa, secara bertulis, mewakilkan\n\nkuasanya di bawah Peraturan-Peraturan ini kepada mana-mana pegawai.\n\n(2) Ketua Pengarah Perkhidmatan Awam boleh, dari semasa ke semasa,\n\njika perlu, mengeluarkan panduan untuk menjelaskan mana-mana peruntukan dalam\n\nPeraturan-Peraturan ini.\n\nKecualian dan peralihan\n\n63. (1) Tiada apa-apa jua pun dalam Peraturan-Peraturan ini boleh menyentuh\n\nkesahan dan kuat kuasa apa-apa keputusan yang dibuat berkenaan dengan apa-apa\n\nperkara di bawah Perintah Am dan peraturan-peraturan terdahulu, dan keputusan\n\nitu hendaklah terus mempunyai kuat kuasa dan kesan sepenuhnya walau apa pun\n\napa-apa jua yang tidak konsisten atau bertentangan dengan apa-apa peruntukan\n\ndalam Peraturan-Peraturan ini.\n\n(2) Semua perkara dan prosiding yang masih belum selesai di hadapan\n\nmana-mana Suruhanjaya sebelum berkuat kuasanya Peraturan-Peraturan ini\n\nhendaklah terus diuruskan mengikut Peraturan-Peraturan Pegawai Awam (Pelantikan,\n\nKenaikan Pangkat Dan Penamatan Perkhidmatan) 2005 [P. U. (A) 176/2005] seolaholah Peraturan-Peraturan itu tidak dibatalkan.\n\n(3) Apa-apa panduan yang telah dikeluarkan sebelum berkuat kuasanya\n\nPeraturan-Peraturan ini hendaklah terus terpakai selagi ia tidak bercanggah dengan\n\nmana-mana peruntukan dalam Peraturan-Peraturan ini.\n\n(4) Pegawai dalam tempoh percubaan boleh disahkan pada atau selepas\n\ntarikh kuat kuasa Peraturan-Peraturan ini, tertakluk kepada pegawai itu telah\n\nberkhidmat dalam tempoh percubaan selama enam bulan atau lebih dan memenuhi\n\nsemua syarat pengesahan selain syarat tempoh percubaan yang ditetapkan dalam skim\n\nperkhidmatan sebelum Peraturan-Peraturan ini berkuat kuasa.\n\n(5) Pegawai dalam tempoh percubaan yang telah berkhidmat dalam tempoh\n\npercubaan selama dua puluh empat bulan atau lebih tetapi belum disahkan dalam\n\nperkhidmatan pada tarikh kuat kuasa Peraturan-Peraturan ini dibenarkan\n\nmenghabiskan baki tempoh percubaan asal mengikut skim perkhidmatan sebelum\n\nPeraturan-Peraturan ini berkuat kuasa atau baki tempoh percubaan yang dilanjutkan\n\noleh Suruhanjaya dan pegawai itu boleh disahkan sekiranya telah memenuhi semua\n\nsyarat pengesahan yang ditetapkan dalam skim perkhidmatan.\n\nPembatalan\n\n64. (1) Peraturan-Peraturan Pegawai Awam (Pelantikan, Kenaikan Pangkat Dan\n\nPenamatan Perkhidmatan) 2005 dibatalkan kecuali subperaturan 26(1) dan 28(6) bagi\n\npegawai yang berada dalam Sistem Saraan Malaysia.\n\n(2) Walau apa pun subperaturan (1), Perintah Am 45 dan 49 PerintahPerintah Am Bab A (Lantikan dan Kenaikan Pangkat) 1973 hendaklah terus terpakai\n\nbagi pegawai yang berada dalam Sistem Saraan Jawatankuasa Khas Kabinet 1976.\n\nJADUAL PERTAMA\n\nSURAT AKU JANJI\n\n[subperaturan 20(3)]\n\nSaya, …………….................................................................. No. Kad Pengenalan ...........................................\n\nberalamat di ……………………………………………………………………………………………………………….\n\ndengan sesungguhnya berjanji bahawa saya akan mematuhi peruntukan PeraturanPeraturan Pegawai (Kelakuan dan Tatatertib) 1993, Perintah-Perintah Am, pekeliling\n\ndan surat pekeliling, peraturan dan arahan lain yang dikeluarkan dan dikuatkuasakan\n\noleh Kerajaan dari semasa ke semasa sepanjang tempoh perkhidmatan saya dengan\n\nKerajaan. Maka dengan itu saya berjanji, sebagaimana yang dikehendaki oleh peraturan\n\n4 Peraturan-Peraturan Pegawai (Kelakuan dan Tatatertib) 1993, bahawa saya—\n\n(i) akan sentiasa taat kepada Yang di-Pertuan Agong, negara dan Kerajaan;\n\n(ii) akan sentiasa melaksanakan tugas saya sebagai pegawai dengan cermat,\n\nbersungguh-sungguh, cekap, jujur, amanah dan bertanggungjawab;\n\n(iii) tidak akan membelakangkan tugas awam demi kepentingan peribadi\n\nsaya;\n\n(iv) tidak akan berkelakuan dengan cara yang mungkin menyebabkan\n\nkepentingan peribadi saya bercanggah dengan tugas awam saya;\n\n(v) tidak akan berkelakuan dengan cara yang boleh menimbulkan syak yang\n\nmunasabah bahawa saya telah membiarkan kepentingan peribadi saya\n\nbercanggah dengan tugas rasmi saya sehingga menjejaskan kebergunaan\n\nsaya sebagai pegawai;\n\n(vi) tidak akan menggunakan kedudukan saya sebagai pegawai bagi faedah\n\ndiri saya sendiri;\n\n(vii) tidak akan berkelakuan dengan cara yang boleh memburukkan atau\n\nmencemarkan nama perkhidmatan awam;\n\n(viii) tidak akan membawa atau cuba membawa sebarang bentuk pengaruh\n\natau tekanan luar untuk menyokong atau memajukan tuntutan saya atau\n\ntuntutan pegawai lain yang berhubungan dengan perkhidmatan awam;\n\ndan\n\n(ix) tidak akan ingkar perintah atau berkelakuan dengan cara yang boleh\n\nditafsirkan sebagai ingkar perintah.\n\nSaya sesungguhnya faham bahawa jika saya disabitkan kerana telah melanggar Aku\n\nJanji ini, saya boleh dikenakan tindakan tatatertib mengikut Peraturan-Peraturan\n\nPegawai (Kelakuan dan Tatatertib) 1993.\n\n…………............................................ ....................................................\n\n(Tandatangan Pegawai) (Jawatan Pegawai)\n\nDi hadapan saya,\n\n..............................................................\n\n(Tandatangan Ketua Jabatan)\n\n....................................................................................................\n\n(Nama dan No. Kad Pengenalan Ketua Jabatan)\n\n........................... ...............................................\n\n(Tarikh) (Cap Rasmi Jabatan)\n\nJADUAL KEDUA\n\nPERGERAKAN GAJI TAHUNAN\n\n(peraturan 27)\n\nTarikh pelantikan Tarikh pergerakan gaji\n\n1 Januari hingga 31 Mac 1 Januari tahun yang berikutnya\n\n1 April hingga 30 Jun 1 April tahun yang berikutnya\n\n1 Julai hingga 30 September 1 Julai tahun yang berikutnya\n\n1 Oktober hingga 31 Disember 1 Oktober tahun yang berikutnya\n\nJADUAL KETIGA\n\nBORANG PERAKUAN PENGESAHAN DALAM PERKHIDMATAN\n\n[subperaturan 29(2)]\n\nSaya dengan ini mengesahkan bahawa ............................................................................................\n\nNo. Kad Pengenalan ......................................................:\n\ndiperakukan untuk disahkan dalam perkhidmatan kerana telah\n\nmenjalankan tugasnya dengan jujur, tekun dan berkebolehan dan saya\n\nberpuas hati dengan sifat peribadi dan kelakuannya.*\n\natau\n\ntidak diperakukan untuk disahkan dalam perkhidmatan kerana\n\n.................................................................................................................................................... ....\n\n............................................................................................................................. .........................*\n\nTandatangan Ketua Jabatan: ......................................................................\n\nNama Ketua Jabatan: ....................................................................................\n\nKementerian/Jabatan: . ................................................................................\n\nTarikh: ......................................\n\n*tandakan () dalam kotak berkenaan\n\nJADUAL KEEMPAT\n\nBORANG PERAKUAN PELANJUTAN TEMPOH PERCUBAAN\n\n[subperaturan 30(3)]\n\nSaya dengan ini mengesahkan bahawa ......................................................................................................\n\nNo. Kad Pengenalan ................................................. belum dapat diperakukan untuk disyorkan\n\nbagi pengesahan dalam perkhidmatan dan dengan ini mengesyorkan supaya tempoh\n\npercubaan pegawai ini dilanjutkan selama ……….. bulan/tahun* dengan denda/tanpa\n\ndenda*. Pegawai belum dapat diperakukan bagi pengesahan dalam perkhidmatan atas\n\nsebab-sebab yang berikut:\n\n(a) tidak hadir/gagal* dalam kursus induksi;\n\n(b) tidak hadir/gagal* dalam peperiksaan; (Sila nyatakan tarikh dan keputusan\n\npeperiksaan)\n\n(c) sebab-sebab lain:\n\n(i) ..............................................................................................................................................\n\n(ii) ..............................................................................................................................................\n\n(iii) ..............................................................................................................................................\n\nTandatangan Ketua Jabatan: ...................................................................................................................\n\nNama Ketua Jabatan: ..................................................................................................................................\n\nKementerian/Jabatan:…………………...............................................................................................................\n\nTarikh: ..............................................................\n\n*potong mana yang tidak berkenaan\n\nJADUAL KELIMA\n\nBORANG OPSYEN BAGI SKIM KUMPULAN WANG SIMPANAN PEKERJA\n\nMENGIKUT SUBSEKSYEN 6A(1) AKTA PENCEN 1980\n\n(peraturan 37)\n\nKepada: …………………………………….\n\n…………………………………….\n\n…………………………………….\n\n(Ketua Jabatan)\n\nTuan,\n\nMerujuk kepada peraturan 37 Peraturan-Peraturan Pegawai Awam (Pelantikan,\n\nKenaikan Pangkat Dan Penamatan Perkhidmatan) 2012 [P.U. (A) 1/2012], saya\n\n................................................................................................ No. Kad Pengenalan ...........................................\n\nyang dilantik sebagai ……………………………………………............................... dalam perkhidmatan\n\n……………............................. pada (tarikh) ............................. dengan ini membuat opsyen untuk*\n\nmemilih SKIM KUMPULAN WANG SIMPANAN PEKERJA (KWSP)\n\natau\n\nmenolak SKIM KUMPULAN WANG SIMPANAN PEKERJA (KWSP)\n\n2. Saya sesungguhnya mengaku memahami bahawa jika saya menolak SKIM\n\nKUMPULAN WANG SIMPANAN PEKERJA, atau mengembalikan borang ini tanpa\n\nmenyatakan apa-apa pilihan atau menyatakan apa-apa syarat kepada pilihan atau tidak\n\nmengembalikan borang opsyen ini mengikut peraturan yang ditetapkan, maka saya\n\nhendaklah diberi taraf sebagai pegawai berpencen mengikut Akta Pencen 1980. Saya\n\nsesungguhnya mengetahui bahawa opsyen yang telah dibuat ini adalah muktamad.\n\nTandatangan: ……………..…………………………………………………………….\n\nNama: ……………………………………………………………………………………....\n\nNo. Kad Pengenalan: …….………….………………………………………………..\n\nJawatan: ……………………..…………………………………………………………….\n\nTarikh: ……………………….…………………………………………………………….\n\n* Tandakan ()dalam kotak yang berkenaan\n\nDisaksikan oleh: ......................................................................................\n\nTandatangan : .............................................................................................. Cop Rasmi Jabatan:\n\nNama: ......................................................................................................\n\nJawatan : .........................................................................................................\n\nTarikh : ........................................................................................................\n\nJADUAL KEENAM\n\nPERAKUAN PEMBERIAN TARAF BERPENCEN\n\n(peraturan 38)\n\nSaya dengan ini mengesahkan bahawa ………….......................................... No. Kad Pengenalan\n\n……....................................... telah disahkan dalam jawatannya yang sekarang dan telah genap\n\ntempoh selama tidak kurang daripada ….............................. tahun perkhidmatan yang boleh\n\ndimasuk kira dan saya dengan ini memperakukan pegawai ini untuk diberi taraf\n\nberpencen.\n\nTandatangan Ketua Jabatan: ..........................................................................................................................\n\nNama Ketua Jabatan: .........................................................................................................................................\n\nKementerian/Jabatan: ......................................................................................................................................\n\nTarikh: .....................................................................................................................................................................\n\nDibuat 29 Disember 2011\n\n[JPA(S)223/8/1; PN(PU2)76/I/V]\n\nDengan Titah Perintah\n\nTAN SRI MOHD SIDEK BIN HASSAN\n\nSetiausaha JemaahMenteri\n\nFEDERAL CONSTITUTION\n\nPUBLIC OFFICERS (APPOINTMENT, PROMOTION AND TERMINATION OF SERVICE)\n\nREGULATIONS 2012\n\n_________________________________\n\nARRANGEMENT OF REGULATIONS\n\n________________________________\n\nPART I\n\nPRELIMINARY\n\nRegulation\n\n1. Citation and commencement\n\n2. Application\n\n3. Application of appointment procedures\n\n4. Interpretation\n\nPART II\n\nAPPOINTMENT\n\n5. Appointment according to the scheme of service\n\n6. Appointment of citizens only\n\n7. Reappointment of a person who has resigned\n\n8. Reappointment of a person who has been required to retire\n\n9. Reappointment of a person whose service has been terminated or dismissed\n\n10. Appointment of an officer to another scheme of service\n\n11. Reversion to previous scheme of service\n\n12. Secondment of an officer\n\n13. Temporary transfer\n\nPART III\n\nRECRUITMENT\n\nRegulation\n\n14. Recruitment procedure\n\n15. Vetting procedure\n\n16. Particulars of recruitment\n\n17. Equivalent qualification\n\n18. Application from an officer\n\n19. Offer of appointment by the Commision\n\n20. Health examination, statutory declaration and letter of undertaking\n\n21. Security vetting\n\n22. Acknowledgement of acceptance\n\nPART IV\n\nDATE OF APPOINTMENT, INITIAL SALARY AND ANNUAL SALARY MOVEMENT\n\n23. Date of appointment\n\n24. Date of permanent appointment for a temporary officer\n\n25. Determination of initial salary\n\n26. Initial salary in special cases\n\n27. Annual salary movement\n\nPART V\n\nPROBATION PERIOD, CONFIRMATION OF SERVICE AND EXTENSION\n\nOF PROBATION PERIOD\n\n28. Probation period\n\n29. Conditions for confirmation\n\n30. Extension of probation period\n\n31. Date of confirmation\n\n32. Effect of extension of probation period with penalty\n\nRegulation\n\n33. Notification of confirmation\n\nPART VI\n\nSENIORITY\n\n34. Method of determining seniority\n\n35. Seniority of an officer who reverts to his previous scheme of service\n\n36. Seniority of an officer who is granted leave without pay and absent from duty\n\nPART VII\n\nOPTION FOR EMLOYEES PROVIDENT FUND SCHEME AND CONFERMENT\n\nOF PENSIONABLE STATUS\n\n37. Option for Employees Provident Fund Scheme\n\n38. Conferment of pensionable status\n\nPART VIII\n\nPROMOTION, ACTING AND COVERING\n\n39. The basis for promotion\n\n40. Conditions for promotion\n\n41. Promotion of an officer on secondment or temporary transfer\n\n42. Advertisement of a vacancy of a promotional post\n\n43. Date of promotion\n\n44. Determination of promotional salary\n\n45. Date of salary movement in the promotional post\n\n46. Acting and covering\n\n47. Acting and covering allowances\n\nPART IX\n\nTERMINATION OF SERVICE AND RESIGNATION\n\nRegulation\n\n48. Termination of service of an unconfirmed officer\n\n49. Termination of service of an officer who fails the security vetting\n\n50. Termination of service of an officer who fails to be confirmed\n\n51. Authority to terminate service\n\n52. Opportunity to show cause\n\n53. Notice of termination of service\n\n54. Notice of resignation\n\n55. The coming into effect of resignation notice\n\n56. The shortening of resignation notice\n\n57. Resignation is not required\n\nPART X\n\nAPPOINTMENT OF A CONTRACT OFFICER\n\n58. Appointment of a contract officer\n\n59. Termination of service and resignation of a contract officer\n\nPART XI\n\nAGE\n\n60. Age and date of birth\n\n61. Retirement age\n\nPART XI\n\nMISCELLANEOUS\n\n62. Power of the Director General of Public Service\n\n63. Savings and transitional\n\nRegulation\n\n64. Revocation\n\nFIRST SCHEDULE\n\nSECOND SCHEDULE\n\nTHIRD SCHEDULE\n\nFORTH SCHEDULE\n\nFIFTH SCHEDULE\n\nFEDERAL CONSTITUTION\n\nPUBLIC OFFICERS (APPOINTMENT, PROMOTION AND TERMINATION OF SERVICE)\n\nREGULATIONS 2012\n\nIN exercise of the powers conferred by Clause (2) of Article 132 of the Federal\n\nConstitution, the Yang di-Pertuan Agong makes the following regulations:\n\nPART I\n\nPRELIMINARY\n\nCitation and commencement\n\n1. (1) These regulations may be cited as the Public Officers (Appointment,\n\nPromotion and Termination of Service) Regulations 2012.\n\n(2) These Regulations come into operation on 1 January 2012.\n\nApplication\n\n2. Subject to the provisions of Part X of the Federal Constitution, these Regulations\n\nshall apply to all appointments, promotions and terminations of service in the public\n\nservice.\n\nApplication of appointment procedures\n\n3. (1) The procedures specified in these Regulations for making appointments\n\nto a public service under the jurisdiction of a Commission shall apply to all permanent\n\nor temporary appointments except for transfers of appointment, permanent transfers\n\nor any other appointment as decided by the Commission.\n\n(2) For the purpose of this regulation\n\n(a) \"transfer of appointment\" means an appointment to allow an\n\nofficer to transfer to the public services of the Federation, public\n\nservice of States, statutory authorities, local authorities or other\n\nscheme of service without being bound by the normal appointment\n\nprocess pursuant to the dissolution of an agency under any of the\n\nservices, scheme of service which has been made obsolete and\n\nabolishment of posts, or on the application of an officer, or on\n\nother grounds as decided by the Government other than\n\ncorporatisation or privatisation; and\n\n(b) \"permanent transfer\" means the permanent appointment of a\n\nserving officer on secondment or temporary transfer to the post\n\nheld by him at the agency where he is seconded or temporarily\n\ntransfered to.\n\nInterpretation\n\n4. In these Regulations, unless the context otherwise requires—\n\n\"promotion\" means substantive upgrading from one grade to a higher grade\n\nwithin the same service and scheme of service with the approval of the Promotion\n\nBoard;\n\n\"Head of Department\" means an officer who is heading a department or any\n\nofficer who is delegated with the powers by the Head of Department in writing to act on\n\nhis behalf, and a department includes\n\n(a) a Ministry;\n\n(b) a Federal Department at the federal, regional, state or district level in the\n\nFederation;\n\n(c) a Federal Department abroad; and\n\n(d) any other entity in the public service as determined by the Director\n\nGeneral of Public Service;\n\n\"Head of Service\" means an officer who is heading a service or any officer\n\ndetermined by the Director General of Public Service to be a Head of Service;\n\n\"lateral appointment\" means an appointment to a promotion grade in a scheme\n\nof service;\n\n\"Promotion Board\" means the Commission, any person or any Promotion Board\n\nas authorized in accordance with the law to promote an officer;\n\n\"officer\" means all categories of serving officers appointed by the Commission on\n\npermanent, temporary or contract basis;\n\n\"appointment\" means an appointment to the public service by the Commission\n\non permanent, temporary or contract basis, including first appointment and\n\nappointment of a serving officer in any scheme of service;\n\n\"acting\" in relation to an officer, means performing the duties on full time basis\n\nof another post which is of a higher grade than the officer's substantive grade in the\n\nsame service and scheme of service, with the approval of the Promotion Board;\n\n\"secondment\" means the appointment of an officer under\n\n(a) the armed forces;\n\n(b) the judicial and legal service;\n\n(c) the general public service of the Federation;\n\n(d) the police force; or\n\n(e) the education service,\n\npursuant to Clause (1) of Article 132 of the Federal Constitution to the public service of\n\nStates, statutory authorities, local authorities, or any organization in or outside\n\nMalaysia, for a specific period of time without severing the ties of the officer with his\n\nsubstantive service, including an appointment of an officer under the joint services\n\nmentioned in Article 133 of the Federal Constitution to the service of a statutory\n\nauthority, local authority or organization in or outside Malaysia;\n\n\"covering\" in relation to an officer, means the performing of duties, besides his\n\nown duties for a specified period, of another post which has been approved by the\n\nappropriate authority;\n\n\"registered medical practitioner\" means a medical practitioner registered under\n\nthe Medical Act 1971 [Act 50], whether a government or private medical officer;\n\n\"public service\" means the public services of the Federation, which are the\n\njudicial and legal service, the general public service of the Federation, the police force\n\nand the education service pursuant to Clause (1) of Article 132 of the Federal\n\nConstitution;\n\n\"temporary transfer\" means the appointment of an officer to another service\n\nunder\n\n(a) the armed forces;\n\n(b) the judicial and legal service;\n\n(c) the general public service of the Federation;\n\n(d) the police force ; or\n\n(e) the education service,\n\npursuant to Clause (1) of Article 132 of the Federal Constitution or the appointment of\n\nan officer to a post in another scheme of service under the same appointing authority\n\nfor a specific period of time without severing the ties of the officer with his substantive\n\nservice;\n\n\"Commission\" means the Public Services Commission, the Judicial and Legal\n\nService Commission, the Police Force Commission or the Education Service\n\nCommission, as the case may be.\n\nPART II\n\nAPPOINTMENT\n\nAppointment according to the scheme of service\n\n5. (1) All appointments to the public service shall be in accordance with the\n\nconditions specified in the scheme of service for the time being in force.\n\n(2) Subject to subregulation (1), if any condition specified in any scheme of\n\nservice needs to be amended, the Head of Service shall first obtain the approval of the\n\nDirector General of Public Service before the amendment is made.\n\nAppointment of citizens only\n\n6. (1) All candidates for appointments to the public service must be citizens of\n\nMalaysia.\n\n(2) Notwithstanding subregulation (1), the Yang di-Pertuan Agong may, on\n\nthe ground of national interest, allow the appointment of a non-citizen on contract basis\n\nand the provisions in Part X shall apply to such officer.\n\nReappointment of a person who has resigned\n\n7. A person who has resigned from the public service may be reappointed to the\n\npublic service.\n\nReappointment of a person who has been required to retire\n\n8. (1) Subject to subregulations (2), (3) and (4), a person who has been required\n\nto retire from the public service may be reappointed to the public service.\n\n(2) In this regulation, \"has been required to retire\" means medically boarded\n\nout, retirement due to appointment in an organisation or retirement due to the decision\n\nof the Government according to the pension laws in force.\n\n(3) A person who has been medically boarded out from the public service\n\nmay be reappointed to the public service if he has been confirmed to be medically fit\n\nand capable of performing his duties satisfactorily by a medical panel established on the\n\nrequest of the Commission.\n\n(4) For the purpose of subregulation (3), the medical panel shall comprise not\n\nless than two registered medical practitioners, one of whom is a specialist in the disease\n\nwhich the person who has retired suffered from.\n\nReappointment of a person whose service has been terminated or dismissed\n\n9. A person who has been terminated from public service or dismissed shall not be\n\nreappointed to the public service except with the special permission of the Commission.\n\nAppointment of an officer to another scheme of service\n\n10. An officer may be appointed to a post in another scheme of service if he fulfills\n\nthe conditions required by the other scheme of service.\n\nReversion to previous scheme of service\n\n11. (1) Subject to subregulation (2), an officer who has been confirmed in his\n\nprevious scheme of service before being appointed to another scheme of service, may be\n\nallowed by the Commission to revert to his previous scheme of service and grade if\n\n(a) the officer fails to be confirmed in the other scheme of service,\n\nprovided that his failure is not due to his unsatisfactory conduct;\n\nor\n\n(b) the officer applied to revert to his previous scheme of service,\n\nprovided that he has undergone the minimum probation period\n\nprescribed under the other scheme of service.\n\n(2) The Commission may allow the officer to revert to his previous scheme of\n\nservice and grade before being confirmed in the other scheme of service if\n\n(a) there is a vacancy of post in his previous scheme of service;\n\n(b) the approval of the appropriate Head of Service is obtained; and\n\n(c) the post in the previous scheme of service is under the jurisdiction\n\nof the same appointing authority.\n\n(3) For the purpose of subregulation (1), the officer shall, on the date of his\n\nreinstatement to the previous scheme of service, be given the salary point or salary\n\namount that the officer should have received if he was not appointed to the current\n\npost, subject to the maximum salary scale in his previous post. The date of the annual\n\nsalary movement of the officer is based on the date of the annual salary movement in\n\nthe previous scheme of service.\n\nSecondment of an officer\n\n12. (1) An officer appointed on a permanent basis may, with his consent, the\n\nconsent of his Head of Department and with the approval of the Commission, be\n\nseconded, subject to such conditions and for such term as may be determined by the\n\nYang di-Pertuan Agong, to any public service of a State, statutory authority, local\n\nauthority or any organization, in or outside Malaysia.\n\n(2) The Commission may consider an officer of a public service of a State\n\nservice to be seconded to the public service subject to such conditions and for such term\n\nas may be determined by the Yang di-Pertuan Agong.\n\n(3) A statutory authority or local authority may consider an officer of the\n\nstatutory authority or local authority to be seconded to the public service, subject to\n\nthe consent of the officer, such statutory authority or local authority and the party to\n\nwhom the officer is seconded to and any conditions and for such term as agreed by\n\nthe parties involved.\n\nTemporary transfer\n\n13. An officer who is appointed on a permanent basis may, with the approval of the\n\nCommission, be appointed on temporary transfer to any post in the public service,\n\nsubject to such conditions and for such term as may be determined by the Director\n\nGeneral of Public Service.\n\nPART III\n\nRECRUITMENT\n\nRecruitment procedure\n\n14. (1) Any recruitment to a public service shall be advertised in at least one\n\ndaily Malay language newspaper.\n\n(2) For the purpose of subregulation (1), the advertisement shall state,\n\namong other things\n\n(a) the title of the post and the status of appointment;\n\n(b) the name of the scheme of service;\n\n(c) particulars of the salary;\n\n(d) the required academic and other qualifications;\n\n(e) the citizenship's status of the applicant;\n\n(f) the closing date for applications; and\n\n(g) the address to which applications should be sent.\n\n(3) Notwithstanding subregulation (1), the Commission may use any other\n\nmethod as it thinks suitable to advertise the recruitment.\n\nVetting procedure\n\n15. The Commision may implement vetting procedure according to profile or other\n\nsuitable vetting procedures for the purpose of getting the best candidate to be\n\nappointed to the public service.\n\nParticulars of recruitment\n\n16. (1) The Head of Service shall inform the Commission of any required\n\nparticulars in every recruitment exercise as follows:\n\n(a) the number of vacant posts which need to be filled up;\n\n(b) the number of reserved candidates required;\n\n(c) special conditions, if any; and\n\n(d) the description of the duties and responsibilities of the vacant post.\n\n(2) If the qualifications or conditions in the scheme of service for the vacant\n\npost need to be amended for the recruitment exercise, the Head of Service shall first\n\nobtain the approval of the Director General of Public Service before informing the\n\nCommission as required by subregulation (1).\n\nEquivalent qualification\n\n17. Where any doubt arises in any scheme of service or advertisement of any\n\nvacancies regarding the meaning of qualification which is recognized as equivalent in\n\nthe required field of the scheme of service, the matter shall be referred to the Director\n\nGeneral of Public Service for determination.\n\nApplication from an officer\n\n18. An application from a serving officer shall be submitted to the Commission and\n\nnotified to the Head of Department, and the Commission may acquire the comments of\n\nthe Head of Department if necessary.\n\nOffer of appointment by the Commission\n\n19. (1) The Commission shall make an offer of appointment to successful\n\ncandidates either directly or through the Head of Service or the Head of Department by\n\nany suitable means as the Commission thinks fit. The Commission shall also inform the\n\nunsuccessful candidates.\n\n(2) The Commission may direct the Head of Service or Head of Department to\n\nmake an offer of appointment to the successful candidates on its behalf, and the Head of\n\nService or the Head of Department who has been so directed shall send to the\n\nCommission a copy of the offer letter for appointment issued by the Head of Service or\n\nthe Head of Department.\n\n(3) Every offer letter for appointment shall set out the information on the\n\nservice specified by the Commission.\n\nHealth examination, statutory declaration and letter of undertaking\n\n20. (1) Every candidate who is to be appointed to the public service shall comply\n\nwith the following conditions for appointment:\n\n(a) the candidate shall be examined and certified to be fit to serve by a\n\nregistered medical practitioner; and\n\n(b) the candidate shall make a statutory declaration under the\n\nStatutory Declarations Act 1960 [Act 13] that he—\n\n(i) does not have any criminal record;\n\n(ii) has never been dismissed;\n\n(iii) is not a drug addict;\n\n(iv) does not possess foreign citizenship;\n\n(v) is not a bankrupt;\n\n(vi) was not medically boarded out; and\n\n(vii) has never been terminated from public service.\n\n(2) The Commission may determine any other declarations apart from the\n\ndeclarations prescribed in paragraph (1)(b), if necessary.\n\n(3) Every candidate shall sign the Letter of Undertaking as specified in the\n\nFirst Schedule that he shall comply with the provisions of the Public Officers (Conduct\n\nand Discipline) Regulations 1993 [P. U. (A) 395/1993], General Orders, circulars, circular\n\nletters, regulations and other orders issued by the Yang di-Pertuan Agong from time to\n\ntime throughout his service in the public service.\n\n(4) An officer who has complied with the conditions of subregulation (1) may\n\nbe required to comply with those conditions again when appointed to another scheme\n\nof service.\n\n(5) The Commission may revoke the offer of appointment if the candidate is\n\nfound to be unfit after being examined in accordance with paragraph (1)(a) or does not\n\ncomply with any of the conditions mentioned in paragraph (1)(b) and subregulation (3).\n\n(6) For the purpose of subregulation (5), any candidate who has already\n\ncommenced service may be paid any emolument for the period of his service before the\n\noffer for service is revoked.\n\n(7) For the purpose of appointments of candidates under subregulation 6(2),\n\nthe conditions under subparagraphs (1)(b)(iv) and (vii) are not applicable to the\n\ncandidate.\n\n(8) Notwithstanding paragraph 1(a), the Head of Department may direct a\n\nserving officer to undergo medical examination or to submit medical report certified by\n\na registered medical practitioner if the Head of Department is of the opinion that it is\n\nnecessary for the service.\n\nSecurity vetting\n\n21. An officer who is appointed for the first time or an officer who is appointed to\n\nanother scheme of service is required to pass the security vetting as prescribed if it is so\n\nstipulated in any laws in force.\n\nAcknowledgement of acceptance\n\n22. The Head of Department shall send to the Commission the acknowledgement of\n\nacceptance of the offer of appointment from the candidate, together with the\n\ncertification by the registered medical practitioner, the statutory declaration and the\n\nLetter of Undertaking required under subregulations 20(1) and (3) and shall inform the\n\nCommission the date the candidate reports for duty.\n\nPART IV\n\nDATE OF APPOINTMENT, INITIAL SALARY AND ANNUAL SALARY MOVEMENT\n\nDate of appointment\n\n23. (1) The date of appointment of an officer to the public service is the date he\n\nreports for duty, unless otherwise determined by the Commission.\n\n(2) The Head of Service or the Head of Department shall not accept any\n\nofficer who reports for duty if the officer has not complied with the conditions for\n\nappointment in subregulation 20(1).\n\n(3) For the purpose of subregulation (2), the officer is still subject to the\n\nmaximum period to report for duty as prescribed by the Commission in the offer letter\n\nfor appointment.\n\nDate of permanent appointment for a temporary officer\n\n24. Where a temporary officer who complies with all the conditions specified for any\n\nscheme of service is appointed to fill any vacant permanent post in such scheme of\n\nservice, the date of appointment of the officer to that permanent post shall be the date\n\nthe Commission meets and approves the permanent appointment.\n\nDetermination of initial salary\n\n25. (1) The Commission shall determine the initial salary of an officer as\n\nprescribed in the scheme of service.\n\n(2) If an officer who is to be appointed for the first time possesses working\n\nexperience which is relevant to the post he is going to hold, he may be granted a higher\n\ninitial salary.\n\n(3) If the Commission is considering a higher initial salary under\n\nsubregulation (2), the determination of the higher salary shall be based on one normal\n\nsalary movement for every complete year of the relevant working experience, limited to\n\nthe maximum salary of the grade for the post.\n\n(4) Notwithstanding subregulation (3), the Commission has the discretion to\n\ndetermine a part of or the total number of years of the relevant working experience to\n\nbe taken into consideration in determining the higher initial salary.\n\n(5) The working experience which is considered as relevant to an officer in\n\nthe Managerial and Professional Group is the working experience obtained after the\n\nofficer has acquired his professional or academic qualifications as determined in the\n\nappropriate scheme of service.\n\n(6) Subregulations (2), (3) and (4) shall also apply\n\n(a) in determining the initial salary of an unconfirmed officer who is\n\nsubsequently appointed to another scheme of service; and\n\n(b) in determining the initial salary of an officer who is reappointed in\n\naccordance with regulations 7, 8 and 9.\n\n(7) If an officer who has been confirmed in service is subsequently appointed\n\nto another scheme of service, the initial salary of the officer shall be at a higher salary\n\npoint and nearest in which the difference shall not be less than one normal salary\n\nmovement or of the same amount with the normal salary movement in the previous\n\ngrade or post, limited to the maximum salary point of the new post.\n\n(8) If an officer who has been confirmed in service is appointed to another\n\npost on the same or earlier date of his salary movement in his previous post, the salary\n\nmovement in his previous post, if any, shall first be given, limited to the maximum\n\namount of the salary of the said grade, before determining the initial salary of the\n\nappointment.\n\n(9) The initial salary of an officer who is appointed for the first time by way of\n\nlateral appointment is based on the minimum salary point of the post.\n\n(10) The initial salary of an officer who has not been confirmed in the service\n\nin which he is appointed by way of lateral appointment is as specified in\n\nsubregulation (9).\n\n(11) The initial salary of an officer who has been confirmed in service and\n\nsubsequently appointed by way of lateral appointment is as specified in\n\nsubregulation (7).\n\nInitial salary in special cases\n\n26. Notwithstanding regulation 25, the Commission may determine that the initial\n\nsalary of an officer is at any salary point or a particular salary amount for a particular\n\npost after taking into consideration\n\n(a) the special qualification or talent of the officer; or\n\n(b) the special circumstances as determined by the Government in relation to\n\nthe appointment of the officer.\n\nAnnual salary movement\n\n27. (1) The date of the annual salary movement of permanent and temporary\n\nofficers shall be as set out in the Second Schedule.\n\n(2) Notwithstanding subregulation (1), the Director General of Public\n\nService may, in certain conditions, determine the date of salary movement of an\n\nofficer on a date which he thinks fit.\n\n(3) The date of the annual salary movement of an officer who is on\n\nsecondment or temporary transfer shall be as determined by the Commission.\n\n(4) The annual salary movement of an officer shall be based on the annual\n\nwork performance of the officer or such other conditions as determined by the Yang\n\ndi-Pertuan Agong from time to time.\n\nPART V\n\nPROBATION PERIOD, CONFIRMATION OF SERVICE\n\nAND EXTENSION OF PROBATION PERIOD\n\nProbation period\n\n28. (1) Every officer appointed is required to serve on probation for a period of\n\nsix to twenty-four months.\n\n(2) Notwithstanding subregulation (1), the Commission may, in special\n\ncircumstances, shorten the probation period of an officer or exempt an officer from\n\nprobation period.\n\nConditions for confirmation\n\n29. (1) An officer on probation who has fulfilled all the conditions specified in the\n\nscheme of service or such other conditions as determined by the Yang di-Pertuan Agong\n\nfrom time to time is eligible for confirmation in service by the Commission.\n\n(2) The Head of Department shall submit to the Commission the form set out\n\nin the Third Schedule, either to certify or not to certify the confirmation of the officer.\n\n(3) If an officer is certified to be confirmed in service, the Head of Department\n\nshall submit a certification in the form set out in the Third Schedule within one month\n\nfrom the date the officer is eligible to be certified for confirmation, provided that the\n\ncertification is submitted in not less than the minimum probation period.\n\n(4) If an officer is not certified to be confirmed in service, the Head of\n\nDepartment shall submit to the Commission a certification not to confirm the officer in\n\nservice as set out in the Third Schedule.\n\n(5) If the Head of Department fails to submit the certification for the\n\nconfirmation of an officer in accordance with subregulation (3), the officer may apply to\n\nthe Commission to be confirmed and a copy of the application shall be sent to the Head\n\nof Department.\n\n(6) After receiving the application under subregulation (5), the Commission\n\nmay conduct an investigation and upon completion of the investigation confirms the\n\nofficer if the Commission finds him to be eligible for confirmation.\n\n(7) Notwithstanding subregulation (2), the Commission is not bound by the\n\ncertification of a Head of Department in confirming an officer in service.\n\n(8) If there is any condition for confirmation in service which needs to be\n\namended in special circumstances, the Head of Service shall first obtain the approval of\n\nCommission.\n\nExtension of probation period\n\n30. (1) The Commission may extend the probation period of an officer, whether\n\nwith or without penalty, after undergoing the maximum probation period prescribed in\n\nthe scheme of service.\n\n(2) If an officer has not fulfilled the conditions to be confirmed in service after\n\nundergoing the prescribed maximum probation period, the officer may submit an\n\napplication for the extension of his probation period to the Commission through his\n\nHead of Department immediately after the expiry of his maximum probation period,\n\nprovided that the Head of Department has not submitted the certification not to confirm\n\nthe officer in service under subregulation 29(4).\n\n(3) If the Head of Department agrees to certify the application of the officer,\n\nthe Head of Department shall immediately submit the the form as set out in the Forth\n\nSchedule in accordance with subregulation (2) to the Commission stating the following\n\nparticulars:\n\n(a) the reasons for not confirming the officer;\n\n(b) the recommendation of the Head of Department on whether the\n\nprobation period should be extended, with or without penalty;\n\n(c) the up-dated particulars of service of the officer; and\n\n(d) the list of examinations, if any, that the officer has sat for, the dates\n\nand results of the examinations.\n\n(4) The Commission shall only approve the application for an extension of the\n\nprobation which is submitted in accordance with subregulation (3) if there are\n\nreasonable grounds for believing that the officer is able to comply with the conditions\n\nfor his confirmation during the extended period applied for and the Head of Department\n\nrecommends that the probation period of the officer be extended.\n\n(5) The probation period of an officer may only be extended for not more\n\nthan twelve months, but the Commission may in special circumstances extend the\n\nprobation period for more than twelve months if it thinks fit.\n\n(6) Any decision made by the Commission in respect of an application for the\n\nextension of the probation period of an officer shall be conveyed to the officer by the\n\nCommission within a period of one month from the date of the decision.\n\nDate of confirmation\n\n31. (1) The date of confirmation in service of a officer is the first day after the\n\ndate the officer has complied with all the conditions prescribed for confirmation.\n\n(2) An officer shall be deemed to be on probation until the officer is\n\nconfirmed in service by the Commission, even if the officer has already complied with all\n\nthe conditions prescribed for confirmation.\n\nEffect of extension of probation period with penalty\n\n32. An officer whose probation period is extended with penalty shall\n\n(a) lose his seniority for a period equal to the extended period;\n\n(b) not be eligible for any annual salary movement during the extended\n\nperiod; and\n\n(c) subject to the date of his confirmation, the date of his annual salary\n\nmovement be changed to the following year.\n\nNotification of confirmation\n\n33. The Commission shall immediately notify an officer of his confirmation in service\n\nthrough the Head of Department of the officer.\n\nPART VI\n\nSENIORITY\n\nMethod of determining seniority\n\n34. (1) The seniority of an officer is determined as follows:\n\n(a) for an officer on an appointment grade or lateral appointment\n\ngrade, according to the date the officer was appointed\n\npermanently; and\n\n(b) for an officer on a promotional grade, according to the date the\n\nofficer holds the grade substantively.\n\n(2) Notwithstanding subregulation (1), where two or more officers are\n\nappointed permanently or promoted to the same grade in the same scheme of service\n\non the same date, the seniority of the officers are deemed to be equal.\n\nSeniority of an officer who reverts to his previous scheme of service\n\n35. An officer who reverts to his previous scheme of service in accordance with\n\nsubregulation 11(1) loses his seniority for the period the officer remains outside his\n\nprevious scheme of service.\n\nSeniority of an officer who is granted leave without pay and absent from duty\n\n36. (1) An officer will lose his seniority in the following circumstances:\n\n(a) granted unpaid leave, other than unpaid study leave for the period\n\nhe is on such leave; or\n\n(b) absent from duty without leave, permission or reasonable excuse\n\nfor the period of his absence.\n\n(2) Notwithstanding paragraph (1)(b), the power of the disciplinary authority\n\nto impose any disciplinary action against an officer who is found to be absent from duty\n\nwithout leave, without approval or any other reasonable grounds is not affected.\n\nPART VII\n\nOPTION FOR EMPLOYEES PROVIDENT FUND SCHEME AND CONFERMENT\n\nOF PENSIONABLE STATUS\n\nOption for Employees Provident Fund Scheme\n\n37. (1) An officer who wishes to opt for the Employees Provident Fund Scheme\n\nas provided under section 6A of the Pensions Act 1980 [Act 227] or pension laws for the\n\ntime being in force shall, before being confirmed in service, exercise his option by using\n\nthe form set out in the Fifth Schedule.\n\n(2) An officer who has opted for Employees Provident Fund Scheme in his\n\nprevious post and appointed to another post in the public service, public service of a\n\nState, statutory authority or local authority shall be subject to subregulation (1).\n\nConferment of pensionable status\n\n38. (1) An officer who has not opted for the Employees Provident Fund Scheme\n\nin accordance with regulation 37 is eligible to be conferred with pensionable status in\n\naccordance with the pensions laws.\n\n(2) When an officer becomes eligible to be conferred with pensionable status,\n\nthe Head of Department of the officer shall submit his certification in the form set out in\n\nthe Sixth Schedule to the Commission.\n\n(3) The appointment of an officer to another permanent post in the public\n\nservice in accordance with regulation 10 shall not affect the pensionable status in\n\naccordance with the pensions laws, except if the officer opted for the Employees\n\nProvident Fund Scheme when appointed to the other post.\n\nPART VIII\n\nPROMOTION, ACTING AND COVERING\n\nThe basis for promotion\n\n39. (1) The promotion of an officer is based on merit.\n\n(2) In considering the merit of an officer for promotion, the Promotion Board\n\nshall take into consideration\n\n(a) the efficiency and performance of the work of the officer;\n\n(b) the qualifications, knowledge, skills and experience of the officer;\n\n(c) the personal characteristics, including his suitability for the\n\npromotional post, integrity, potential and leadership of the officer;\n\nand\n\n(d) the extramural activities and contributions of the officer to the\n\ncountry and society.\n\n(3) In addition to the matters specified in subregulation (2), the Promotion\n\nBoard may consider any other aspects which it thinks relevant.\n\n(4) Notwithstanding subregulation (1), if two or more officers are adjudged\n\nequal in terms of merit, the academic qualifications or working experience related to the\n\npromotional post, as well as the seniority of the officers, shall also be made a basis for\n\nselection and consideration.\n\nConditions for promotion\n\n40. (1) Notwithstanding regulation 39, an officer may only be considered for\n\npromotion if the officer has complied with all the conditions specified in his scheme of\n\nservice and if there is a vacancy in the promotional post, unless the scheme of service\n\nprovides otherwise.\n\n(2) The Director General of Public Service in special circumstances may\n\nexempt certain conditions of the scheme of service for the purpose of promotion of an\n\nofficer under subregulation (1).\n\nPromotion of an officer on secondment or temporary transfer\n\n41. Where an officer is on secondment in accordance with subregulation 12(1) or\n\ntemporary transfer in accordance with regulation 13 has complied with all the\n\nconditions for promotion, the officer shall be considered in any promotion exercise\n\nconducted in relation to his substantive scheme of service.\n\nAdvertisement of a vacancy of a promotional post\n\n42. (1) If the Promotion Board is of the opinion that a vacancy of a promotional\n\npost is to be filled by inviting eligible applicants from a particular service under a\n\nparticular department only, the Head of Department shall advertise the vacancy through\n\na departmental circular or other suitable means.\n\n(2) If there is a vacancy of a promotional post which does not require an\n\nadvertisement, the Head of Department shall make a certification to the appropriate\n\nPromotion Board to fill the vacancy by certifying eligible officers, according to the\n\nscheme of service, for consideration.\n\n(3) For the purpose of subregulation (2), the Head of Department may certify\n\nto the Promotion Board any additional conditions to be imposed so as to obtain a more\n\nreasonable number of suitably qualified officers.\n\nDate of promotion\n\n43. (1) Subject to subregulations (2) and (3), the date of promotion of an officer\n\nis the date determined by the Promotion Board.\n\n(2) For promotion to a grade, the date shall not be earlier than the date of\n\nvacancy of the post or the date the respective officer is eligible to be promoted\n\naccording to his scheme of service, whichever is the later, but the date shall not be\n\nearlier than the last promotion date for the same grade in a previous exercise.\n\n(3) For promotion to a post, except if the scheme of service does not stipulate\n\nthat a promotion is subject to a vacancy of the post, the date of promotion shall not be\n\nearlier than the date the officer is approved to act in the post or on the date the\n\nsubstantive post becomes vacant, whichever is the later.\n\n(4) For the purpose of this regulation\n\n(a) \"promotion to a grade\" is a promotion to any grade in the\n\nManagerial and Professional Group and the Implementer Group;\n\nand\n\n(b) \"promotion to a post\" is a promotion to any post in the Top\n\nManagement Group.\n\nDetermination of promotional salary\n\n44. (1) Subject to subregulation (3), the salary received by an officer who has\n\nbeen promoted shall be higher than the last-drawn salary received in the previous\n\ngrade.\n\n(2) For the purpose of subregulation (1)\n\n(a) if the last-drawn salary in the previous grade is less than the\n\nminimum salary in the promotional grade, and the difference is\n\nequal to or more than one normal salary movement or an amount\n\nwhich is equal to one normal salary movement in the previous\n\ngrade or post, the officer shall be paid the minimum salary in the\n\npromotional grade;\n\n(b) if the last-drawn salary in the previous grade is less than the\n\nminimum salary in the promotional grade but the difference is less\n\nthan one normal salary movement or an amount which is equal to\n\none normal salary movement in the previous grade or post, the\n\ninitial salary shall be determined at a salary point or salary amount\n\nof the promotional grade subsequent to the minimum salary point\n\nsuch that the difference between his last-drawn salary in the\n\nprevious grade and his new salary in the promotional grade is\n\nequal to or more than one normal salary movement or salary\n\namount which is equal to one normal salary movement in his\n\nprevious grade; and\n\n(c) if the last-drawn salary in the previous grade is equal to or higher\n\nthan the minimum salary in the promotional grade, the officer shall\n\nbe paid a salary at a higher salary point nearest to his last-drawn\n\nsalary in the previous grade and the difference between the salary\n\nin the promotional grade and the salary in the previous grade shall\n\nbe not less than one normal salary movement or an amount which\n\nis equal to one normal salary movement in the previous grade or\n\npost.\n\n(3) Where an officer is promoted earlier or on the same date as the date of his\n\nsalary movement in his previous post, the salary movement in his previous post, if any,\n\nshall be given first before determining the initial salary in the promotional post.\n\nDate of salary movement in the promotional post\n\n45. The date of the annual salary movement of an officer who is promoted shall be\n\ndetermined in accordance with the date on which his promotion comes into force\n\naccording to subregulation 27(1).\n\nActing and covering\n\n46. An officer may, whenever required in the interest of the service and subject to\n\nthe approval of the appropriate authority, be directed to act or to cover the duties of\n\nanother post.\n\nActing and covering allowances\n\n47. An officer who has been approved to act or to cover the duties of another post is\n\neligible to be paid acting or covering allowance in accordance with the regulations for\n\nthe time being in force.\n\nPART IX\n\nTERMINATION OF SERVICE AND RESIGNATION\n\nTermination of service of an unconfirmed officer\n\n48. (1) The Yang di-Pertuan Agong may terminate the service of an officer who\n\nhas not been confirmed in service if the officer has\n\n(a) concealed any information regarding his health in the medical\n\nexamination form;\n\n(b) made false declaration in the statutory declaration as required by\n\nparagraph 20(1)(b) and subregulation 20(2);\n\n(c) failed to comply with the requirement in subregulation 20(3); or\n\n(d) amended or falsified any document relating to his appointment.\n\n(2) For the purpose of terminating the service of an officer under\n\nparagraph (1)(a), the Head of Department may direct the officer to undergo medical\n\nexamination again or the Head of Department may acquire the health information of the\n\nofficer by any suitable means.\n\nTermination of service of an officer who fails the security vetting\n\n49. (1) The service of an officer who fails the security vetting during the\n\nprobation period or extended probation period may be terminated.\n\n(2) The service of an officer who fails the security vetting after being\n\nconfirmed in service may be terminated in accordance with the Public Officers\n\n(Disciplinary and Conduct) Regulations 1993.\n\nTermination of service of an officer who fails to be confirmed\n\n50. (1) Subject to subregulation (2), the Yang di-Pertuan Agong may terminate\n\nthe service of an officer who is on probation for his first appointment who has failed to\n\nbe confirmed in service during the probation period, whether the initial probation\n\nperiod or its extention.\n\n(2) Notwithstanding subregulation (1), the service of an officer may be\n\nterminated if he fails in a course or training which is a condition for the purpose of\n\nconfirmation in service.\n\n(3) An officer who has been confirmed in service in the previous scheme of\n\nservice and is subsequently appointed to a new scheme of service but fails to be\n\nconfirmed may be terminated under subregulation (4). Termination under this\n\nprovision is deemed to be a termination in the public interest and any pension matters\n\nresulting from the termination shall be subject to the pensions laws in force.\n\n(4) For the purpose of subregulation (5), representations shall be made by\n\nthe Head of Department to the Yang di-Pertuan Agong to terminate the service of an\n\nofficer in the public interest by submitting a full report stating where the officer is\n\nserving or has served.\n\n(5) The report mentioned in subregulation (4) shall contain the particulars\n\nrelating to the service of the officer and comments of the Head of Department, if any.\n\n(6) If, after considering the report received under subregulation (5), the Yang\n\ndi-Pertuan Agong is satisfied that, having regard to the conditions of service and the\n\nusefulness of the officer to the service, it is desirable in the public interest to do so, the\n\nYang di-Pertuan Agong may terminate the service of the officer from the date as shall be\n\ndetermined by the Yang di-Pertuan Agong.\n\n(7) Notwithstanding anything to the contrary in these Regulations and any\n\nother law, in terminating the service of any officer in the public interest under this\n\nregulation, such officer may not be given any opportunity to be heard according to\n\nClause (2) of Article 135 of the Federal Constitution.\n\n(8) For the purpose of this regulation, the service of an officer, other than\n\nthose mentioned in subregulations (1) and (2), shall be terminated if the officer is not\n\nable to revert to his previous scheme of service according to paragraph 11(1)(a).\n\n(9) For the purpose of subregulation (1), \"first appointment\" means the first\n\nappointment to the public service or the reappointment of an officer in accordance with\n\nregulations 7, 8 and 9.\n\nAuthority to terminate service\n\n51. The authority which may terminate the service of an officer under\n\nregulations 48, 49 and 50 shall not be lower than the appointing authority or the board\n\nof officers which has been delegated with the authority by the Commission under\n\nClause (6) of Article 144 of the Federal Constitution.\n\nOpportunity to show cause\n\n52. The service of an officer shall not be terminated under regulations 48 and 49 and\n\nsubregulations 50(1) and (2) unless the officer has been given the opportunity to show\n\ncause, within a period of not less than fourteen days from the date of receipt of notice to\n\nshow cause, as to why his service shall not be terminated.\n\nNotice of termination of service\n\n53. (1) The Yang di-Pertuan Agong may terminate the service of an officer after\n\ngiving him a written notice or one month salary in lieu of the notice if\n\n(a) the officer has not responded to the notice to show cause under\n\nregulation 52 within the specified period; and\n\n(b) the Yang di-Pertuan Agong is satisfied that no reasonable ground\n\nexists for not terminating the service of the officer.\n\n(2) For the purposes of regulations 48, 49 and 50, the period of the written\n\nnotice specified in subregulation (1) is thirty days.\n\n(3) Notwithstanding subregulation (2), for an officer who is appointed other\n\nthan to a permanent appointment, the period of the written notice shall be\n\n(a) according to the terms of appointment of the officer; or\n\n(b) if the period is not provided in the terms of his appointment, thirty\n\ndays.\n\nNotice of resignation\n\n54. (1) Subject to regulation 56, an officer who wishes to resign shall submit a\n\nwritten notice\n\n(a) for an officer who is appointed on a permanent basis, thirty days\n\nbefore the resignation takes effect or one month salary in lieu of\n\nnotice; and\n\n(b) for an officer who is appointed on other than permanent basis,\n\naccording to the terms of appointment of the officer or if the\n\nperiod is not provided in the terms of his appointment, thirty days\n\nbefore the resignation takes effect or one month salary in lieu of\n\nnotice.\n\n(2) The notice of resignation shall be sent by the officer to the Head of\n\nDepartment and the Head of Department shall issue a written acknowledgement of\n\nreceipt to the officer and provide a copy to the Head of Service when the notice of\n\nresignation is received.\n\n(3) The Head of Department shall record the resignation of the officer in the\n\nrecord of service of the officer.\n\nThe coming into effect of resignation notice\n\n55. (1) Every resignation shall take effect on the day following the day on which\n\nthe period of notice given by the officer expires.\n\n(2) The resignation which has come into effect shall not be withdrawn.\n\nThe shortening of resignation notice\n\n56. The Head of Department may allow the period of the resignation notice of any\n\nofficer to be shortened on any of the following grounds:\n\n(a) the officer is offered to hold any post in a public service of a State,\n\nstatutory authority, local authority or a company in which the\n\nGovernment has an interest;\n\n(b) the officer or his spouse, child or parent of the officer is suffering from\n\nhealth problems;\n\n(c) the officer is attending a course or training; or\n\n(d) any other grounds approved by the Director General of the Public Service.\n\nResignation is not required\n\n57. An officer who was appointed on a permanent or temporary basis and who is\n\nappointed to another service in the public service, is not required to resign, provided\n\nthat he shall inform the Head of Department in writing to release the post.\n\nPART X\n\nAPPOINTMENT OF A CONTRACT OFFICER\n\nAppointment of a contract officer\n\n58. (1) Notwithstanding Part II, the Commission may appoint an officer on a\n\ncontract basis.\n\n(2) The policy and procedure for the appointment of an officer on contract\n\nshall be determined by the Director General of Public Service.\n\nTermination of service and resignation of a contract officer\n\n59. Subregulation 53(3) and paragraph 54(1)(b) shall apply to the termination of\n\nservice and resignation of a contract officer.\n\nPART XI\n\nAGE\n\nAge and date of birth\n\n60. (1) Where a scheme of service specifies an age requirement, then the age\n\nreferred to is the age according to the Gregorian calendar.\n\n(2) For the purpose of subregulation (1), the age of a person is determined in\n\naccordance with the following provisions:\n\n(a) if the actual date of birth is known, the age shall be according to\n\nthat date;\n\n(b) if only the month is known, the last day of the month shall be\n\ndeemed to be the date of birth;\n\n(c) if only the year is known, 31 December of that year shall be\n\ndeemed to be the date of birth;\n\n(d) if the date of birth is 29 February, then the birthday anniversary of\n\nthe person for the year which does not have the date 29 February\n\nshall be deemed to be 1 March.\n\nRetirement age\n\n61. The retirement age of an officer is as determined by the pensions laws.\n\nPART XII\n\nMISCELLANEOUS\n\nPowers of the Director General of Public Service\n\n62. (1) Except for the power which has been delegated to him, the Director\n\nGeneral of Public Service may, from time to time, in writing, delegate his power under\n\nthese Regulations to any officer.\n\n(2) The Director General of Public Service may, from time to time, if\n\nnecessary, issue guidelines to clarify any provision in these Regulations.\n\nSavings and transitional\n\n63. (1) Nothing in these Regulations shall affect the validity and operation of any\n\ndecision made in respect of any matter under previous General Orders and regulations,\n\nand such decision shall continue to have full force and effect notwithstanding anything\n\ninconsistent with or contrary to any provision in these Regulations.\n\n(2) All matters and proceedings which were pending before any Commission\n\nprior to the commencement of these Regulations shall continue to be dealt with in\n\naccordance with the Public Officer (Appointment, Promotion and Termination) 2005\n\n[P.U. (A) 176/2005] as if those Regulations had not been repealed.\n\n(3) Any guidelines issued prior to the coming into operation of these\n\nRegulations shall continue to be applicable in so far as it is not contrary to any of the\n\nprovisions in these Regulations.\n\n(4) An officer on probation may be confirmed on or after the date of coming\n\ninto operation of these Regulations, subject to the officer having been in service for a\n\nprobation period of six months or more and fulfilling all conditions for confirmation\n\nother that the condition on probation period prescribed under the scheme of service\n\nbefore these Regulations come into operation.\n\n(5) An officer on probation who has served for twenty-four months or more\n\nbut has not been confirmed in service on the date these Regulations come into\n\noperation is allowed to complete the balance of his initial probation period under the\n\nscheme of service before these Regulations come into operation or the balance of the\n\nprobation period which is extended by the Commission and the officer may be\n\nconfirmed if he has fulfilled all the conditions for confirmation as prescribed under the\n\nscheme of service.\n\nRevocation\n\n64. (1) The Public Officers (Appointment, Promotion and Termination Of Service)\n\nRegulations 2005 are revoked except for subregulations 26(1) and 28(6) for the officers\n\nwho are in the Malaysian Remuneration System.\n\n(2) Notwithstanding subregulation (1), the General Orders 45 and 49 of the\n\nGeneral Orders Chapter A (Appointments and Promotion) 1973 shall continue to be\n\napplicable to the officers who are in the Special Cabinet Committee 1976 Remuneration\n\nSystem.\n\nFIRST SCHEDULE\n\nLETTER OF UNDERTAKING\n\n[subregulation 20(3)]\n\nI, .................................................. Identity Card No. .................. having an address at\n\n............................................................, do solemnly and truly declare that I shall comply with the\n\nprovisions of the Public Officers (Conduct and Discipline) Regulations 1993, General\n\nOrders, circulars and circular letters, regulations and other orders issued and enforced\n\nby the Government from time to time throughout the period of my service with the\n\nGovernment. I hereby undertake, as required by regulation 4 of the Public Officers\n\n(Conduct and Discipline) Regulations 1993, that I—\n\n(i) shall at all times give my loyalty to the Yang di-Pertuan Agong, the\n\ncountry and the Government;\n\n(ii) shall at all times be meticulous, dedicated, efficient, honest, trustworthy\n\nand responsible in performing my duty as a officer;\n\n(iii) shall not subordinate my public duty to my private interests;\n\n(iv) shall not conduct myself in such manner as is likely to bring my private\n\ninterests into conflict with my public duties;\n\n(v) shall not conduct myself in such manner as is likely to cause a reasonable\n\nsuspicion that I have allowed my personal interests to come into conflict\n\nwith my official duty so as to impair my usefulness as a officer;\n\n(vi) shall not use my public position for my personal advantage;\n\n(vii) shall not conduct myself in such manner as is likely bring the public\n\nservice into disrepute or to bring discredit thereto;\n\n(viii) shall not bring or attempt to bring any form of outside influence or\n\npressure to support or advance my claim or that of other officers relating\n\nto the public service; and\n\n(ix) shall not be insubordinate or conduct myself in such manner as is likely\n\nbe construed as being insubordinate.\n\nI fully understand that if I am found to have committed a breach of this undertaking, I\n\nshall be liable to disciplinary action in accordance with the Public Officers (Conduct and\n\nDiscipline) Regulations 1993.\n\n….………...................................... ………………………………………...\n\n(Signature of the Officer) (The Officer's Designation)\n\nBefore me,\n\n...........................................................................\n\n(Signature of the Head of Department)\n\n..............................................................................................................\n\n(Name and Identity Card No. of the Head of Department)\n\n................................. ……………….....................................\n\n(Date) (Official Seal of Department)\n\nSECOND SCHEDULE\n\nANNUAL SALARY MOVEMENT\n\n(regulation 27)\n\nDate of appointment Date of salary movement\n\n1 January to 31 March 1 January of the following year\n\n1 April to 30 June 1 April of the following year\n\n1 July to 30 September 1 July of the following year\n\n1 October to 31 December 1 October of the following year\n\nTHIRD SCHEDULE\n\nCERTIFICATION FORM FOR CONFIRMATION IN SERVICE\n\n[subregulation 29(2)]\n\nI hereby certify that .................................................................... Identity Card No.\n\n......................................................:\n\ncertified to be confirm in service because he has performed his duties\n\nhonestly, diligently and capable and that I am satisfied with his character\n\nand conduct.*\n\nor\n\nnot certified to be confirm in service because\n\n............................................................................................................................. ...........................\n\n..................................................................................................... ...................................................\n\n......................................................*\n\nSignature of the Head of Department:.........................................................................................\n\nName of the Head of Department: ....................................................................................................\n\nMinistry / Department: .......................................................................................................................\n\nDate: ............................................\n\n*mark () in applicable box\n\nFOURTH SCHEDULE\n\nCERTIFICATION FORM FOR EXTENSION OF PROBATION PERIOD\n\n[subregulation 30(3)]\n\nI hereby certify that ........................................................ Identity Card No. ....................................\n\ncannot be certified to be recommended for confirmation in service and I hereby\n\nrecommend that his probation period be extended for ………………month/year*\n\nwith/without penalty*. The officer is not qualified to be recommended for confirmation\n\nin service due to the following reasons:\n\n(a) non-attendance/non-performance* in induction course;\n\n(b) non-attendance/non-performance* in examination (Please specify the dates\n\nand results of the examinations);\n\n(c) other reasons:\n\n(i) ..............................................................................................................................................\n\n(ii) ..............................................................................................................................................\n\n(iii) ..............................................................................................................................................\n\nSignature of the Head of Department: .......................................................................................................\n\nName of the Head of Department: ................................................................................................................\n\nMinistry/Department:…………………...............................................................................................................\n\nDate: ..............................................................\n\n* delete where inapplicable\n\nFIFTH SCHEDULE\n\nOPTION FORM FOR EMPLOYEES PROVIDENT FUND SCHEME IN ACCORDANCE WITH\n\nSUBSECTION 6A(1) OF THE PENSIONS ACT 1980\n\n(regulation 37)\n\nTo: ……………………………………\n\n……………………………………\n\n……………………………………\n\n(Head of Department)\n\nDear Sir,\n\nReferring to regulation 37 Public Officers (Appointment, Promotion and Termination Of\n\nService) 2012 [P.U. (A) 1/2012], I ......................................................... Identity Card No.\n\n............................... appointed as ............................... in service on .......... (date), hereby *\n\nAgree to opt for the EMPLOYEES PROVIDENT FUND SCHEME (EPF)\n\nor\n\nDisagree to opt for EMPLOYEES PROVIDENT FUND SCHEME (EPF)\n\n2. I understand that if I do not opt for the EMPLOYEES PROVIDENT FUND SCHEME,\n\nor return this form without making any option or make an option with condition/s, or\n\nfail to return the option form in accordance with the stipulated regulation, I shall be\n\nemplaced on pensionable scheme in accordance with the Pensions Act 1980. I hereby\n\nacknowledge that the option made is final.\n\nSignature: ……………..…………………………………………………….…………….\n\nName: ……………………………………………………………………………………....\n\nIdentity Card No.: …….………….……………………………………………………..\n\nDesignation: ……………………..……………………………………………………….\n\nDate: ……………………….…………………………………………………………….….\n\n* mark () in applicable box\n\nWitnessed by :...............................................................................\n\nSignature :...................................................................................... . Official Seal Of Department:\n\nName :...............................................................................\n\nPost :...............................................................................\n\nDate :...............................................................................\n\nSIXTH SCHEDULE\n\nCERTIFICATION FOR CONFERMENT OF PENSIONABLE STATUS\n\n(regulation 38)\n\nI hereby certify that ........................................................ Identity Card No. ............................ has\n\nbeen confirmed in his present appointment and has completed not less than ................\n\nyears' reckonable service and I hereby recommend him to be conferred the pensionable\n\nstatus.\n\nSignature of the Head of Department: .......................................................................................................\n\nName of the Head of Department: ..............................................................................................................\n\nMinistry / Department: ...............................................................................................................................\n\nDate: ....................................................\n\nMade 29 December 2011\n\n[JPA(S)223/8/1; PN(PU2)76/I/V]\n\nBy Command\n\nTAN SRI MOHD SIDEK BIN HASSAN\n\nSecretary to the Cabinet"
+   }
+  }
+ ]
+}

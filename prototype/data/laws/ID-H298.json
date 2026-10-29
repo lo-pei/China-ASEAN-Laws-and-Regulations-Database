@@ -1,0 +1,908 @@
+{
+ "id": "ID-H298",
+ "title": {
+  "zh": "中央银行法",
+  "en": "Law on the Central Bank",
+  "id": "BANK SENTRAL.",
+  "orig": "BANK SENTRAL.",
+  "vi": "Luật về Ngân hàng Trung ương",
+  "th": "พระราชบัญญัติว่าด้วยธนาคารกลาง",
+  "ms": "Akta tentang Bank Pusat"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02b",
+ "language": "id",
+ "level": "law",
+ "category": "02_民商事与经济法",
+ "status": "active",
+ "promulgatedDate": "1968",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "-",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 55,
+ "chars": 58818,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": null
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\02_民商事与经济法\\印尼_WLD_1968_BANK SENTRAL..txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 56 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H298-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 1.\n(1) Dengan nama Bank Indonesia didirikan suatu Bank Sentral di\nIndonesia.\n(2) Bank Indonesia adalah milik Negara dan merupakan badan hukum ,\nyang berhak melakukan tugas dan usaha berdasarkan Undang-undang\nini.\n(3) Dengan tidak mengurangi ketentuan-ketentuan dalam\nUndang-undang ini, terhadap Bank Indonesia berlaku segala macam\nhukum Indonesia.\nBAB II.\nKETENTUAN UMUM."
+   }
+  },
+  {
+   "id": "ID-H298-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB II."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 2.\nYang dimaksud dalam Undang-undang ini dengan :\na. \"Bank\" adalah Bank Indonesia;\nb. \"Gubernur\" adalah Gubernur Bank Indonesia;\nc. \"Pengganti-Gubernur\" adalah Pengganti-Gubernur Bank\nIndonesia;\nd. \"Direktur\" adalah Direktur Bank Indonesia;\ne. \"Direksi\" adalah Gubernur dan Direktur-direktur Bank\nIndonesia."
+   }
+  },
+  {
+   "id": "ID-H298-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB II."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 3.\n(1) Bank berkedudukan serta berkantor Pusat di Ibu Kota Republik\nIndonesia dan dapat mempunyai kantor-kantor di seluruh wilayah\nRepublik\nIndonesia.\n(2) Bank dapat mempunyai perwakilan-perwakilan dan\nkoresponden-koresponden di luar-negeri.\nBAB III.\nMODAL."
+   }
+  },
+  {
+   "id": "ID-H298-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB III."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 4.\n(1) Modal Bank berjumlah Rp. 1.000.000.000,- (seribu juta\nrupiah) yang merupakan kekayaan Negara yang dipisahkan.\n(2) Modal termaksud dalam ayat (1) dapat ditambah dengan\npersetujuan Dewan Perwakilan Rakyat."
+   }
+  },
+  {
+   "id": "ID-H298-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB III."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 5.\n(1) Bank mempunyai cadangan umum yang dibentuk dan dipupuk\nmenurut ketentuan dalam Pasal 47 ayat (6) huruf a.\n(2) Cadangan umum dipergunakan untuk menutup kerugian yang mungkin\ndiderita terhadap modal Bank."
+   }
+  },
+  {
+   "id": "ID-H298-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB III."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 6.\n(1) Bank membentuk cadangan tujuan, sesuai dengan ketentuan\ndalam Pasal 47 ayat (6) huruf b.\n(2) Setiap cadangan yang diadakan oleh Bank harus jelas ternyata\ndalam tata-buku Bank.\nBAB IV.\nTUGAS POKOK BANK."
+   }
+  },
+  {
+   "id": "ID-H298-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB IV."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 7.\nTugas pokok Bank adalah membantu Pemerintah dalam:\na. Mengatur, menjaga dan memelihara kestabilan nilai Rupiah;\nb. Mendorong kelancaran produksi dan pembangunan serta memperluas\nkesempatan kerja;\nguna meningkatkan taraf hidup rakyat.\nBAB V.\nHUBUNGAN BANK SENTRAL DENGAN PEMERINTAH."
+   }
+  },
+  {
+   "id": "ID-H298-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB V."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 8.\n(1) Bank menjalankan tugas pokok tersebut dalam Pasal 7,\nberdasarkan kebijaksanaan yang ditetapkan oleh Pemerintah.\n(2) Dalam menetapkan kebijaksanaan tersebut pada ayat\n(1) Pemerintah dibantu oleh suatu Dewan Moneter.\nBAB VI.\nDEWAN MONETER."
+   }
+  },
+  {
+   "id": "ID-H298-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB VI."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 9.\n(1) Dewan Moneter membantu Pemerintah dalam merencanakan dan\nmenetapkan kebijaksanaan moneter seperti termaksud dalam Pasal 8,\ndengan\nmengajukan patokan-patokan dalam rangka usaha menjaga\nkestabilan moneter, kepenuhan kesempatan kerja dan peningkatan\ntaraf hidup\nrakyat.\n(2) Dewan Moneter memimpin dan mengkoordinir pelaksanaan\nkebijaksanaan moneter yang telah ditetapkan oleh Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H298-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB VI."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 10.\n(1) Dewan Moneter terdiri atas 3 (tiga) orang anggota, yaitu\nMenteri-menteri yang membidang Keuangan dan Perekonomian serta\nGubernur\nBank.\n2) Antara Anggota-anggota Dewan Moneter dan Anggota-anggota\nDireksi tidak boleh ada hubungan keluarga sampai dengan derajat\nketiga\nmenurut garis lurus maupun garis ke samping, termasuk\nmenantu dan ipar.\n(3) Jika seorang Anggota Direksi sesudah pengangkatannya masuk\nhubungan keluarga yang terlarang dengan seorang Anggota Dewan\nMoneter\nsebagai dimaksudkan dalam ayat (2), maka Anggota Direksi\nyang bersangkutan tidak boleh terus memangku jabatannya tanpa izin\nPresiden.\n(4) Jika dipandang perlu, Pemerintah dapat, menambahkan beberapa\norang Menteri sebagai Anggota penasehat kepada Dewan Moneter.\n(5) Sekretariat Dewan Moneter diselenggarakan oleh Departemen\nKeuangan."
+   }
+  },
+  {
+   "id": "ID-H298-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB VI."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\n(1) Dewan Moneter diketuai oleh Menteri Keuangan.\n(2) Anggota Dewan Moneter pada tiap kali ia berhalangan, menunjuk\nseorang wakil yang atas kuasanya dapat turut serta dalam\nSidang-sidang\nDewan Moneter dengan mempunyai hak suara."
+   }
+  },
+  {
+   "id": "ID-H298-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB VI."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 12.\n(1) Dewan Moneter bersidang sekurang-kurangnya 14 (empat belas)\nhari sekali dan selanjutnya setiap kali apabila seorang Anggota\nmemintanya.\n(2) Dalam pembicaraan mengenai hal-hal yang bersifat tehnis,\nAnggota Dewan Moneter masing-masing berhak menunjuk penasehat ahli\nyang dapat menghadiri Sidang Dewan.\n(3) Dewan Moneter dapat meminta Komisaris Pemerintah untuk\nmenghadiri Sidang-sidang Dewan."
+   }
+  },
+  {
+   "id": "ID-H298-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB VI."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 13.\n(1) Keputusan Dewan Moneter diambil dengan hikmah musyawarah\nuntuk mufakat.\n(2) Apabila Gubernur tidak dapat memufakati hasil musyawarah Dewan\nMoneter, maka ia dapat mengajukan pendapatnya kepada\nPemerintah."
+   }
+  },
+  {
+   "id": "ID-H298-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB VI."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 14.\nTata-tertib dan cara menjalankan pekerjaan Dewan Moneter\nditetapkan oleh Dewan Moneter.\nBAB VII.\nDIREKSI."
+   }
+  },
+  {
+   "id": "ID-H298-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB VII."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 15.\n(1) Bank dipimpin oleh Direksi yang terdiri atas seorang\nGubernur dan sekurang-kurangnya 5 (lima) dan sebanyak-banyaknya 7\n(tujuh)\norang Direktur.\n(2) Sebanyak-banyak 2 (dua) orang Direktur ditunjuk oleh Presiden\nsebagai Pengganti-Gubernur untuk mewakili Gubernur apabila Gubernur\nberhalangan.\n(3) a. Gubernur dan Direktur diangkat oleh Presiden atas usul\nDewan Moneter untuk masa jabatan 5 (lima) tahun. Setelah waktu itu\nberakhir, yang bersangkutan dapat diangkat kembali;\nb. Untuk dapat diangkat sebagai Gubernur dan Direktur, yang\nbersangkutah harus Warga-Negara Indonesia yang memiliki keahlian\ndan\nakhlak serta moral yang baik."
+   }
+  },
+  {
+   "id": "ID-H298-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB VII."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 16.\n(1) Tugas dan kewajiban Direksi ialah :\na. melaksanakan segala pekerjaan Bank sebagaimana ditetapkan dalam\nUndang-undang ini;\nb. melaksanakan kebijaksanaan moneter yang telah ditetapkan oleh\nPemerintah;\nc. menentukan kebijaksanaan dalam pengurusan Bank.\n(2) Atas pelaksanaan tugas dan kewajiban tersebut dalam ayat (1)\nDireksi bertanggung-jawab kepada Pemerintah.\n(3) Keputusan Direksi diambil dengan hikmah musyawarah untuk\nmufakat.\n(4) Direksi mengangkat dan memberhentikan pegawai-pegawai Bank\nmenurut peraturan kepegawaian Bank tanpa mengurangi\nketentuan-ketentuan\nberdasarkan peraturan-peraturan Pemerintah yang\nberlaku.\n(5) Direksi menetapkan gaji, pensiun dan tunjangan hari tua serta\npenghasilan lainnya dari Pegawai Bank.\n(6) Tata-tertib dan cara menjalankan pekerjaan Direksi diatur\ndalam suatu Peraturan yang ditetapkan oleh Direksi."
+   }
+  },
+  {
+   "id": "ID-H298-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB VII."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 17.\n(1) Presiden dapat memberhentikan Gubernur dan Direktur-direktur\nmeskipun masa jabatan yang bersangkutan belum berakhir :\na. karena meninggal dunia;\nb. karena melakukan sesuatu atau bersikap yang merugikan Bank atau\nyang bertentangan dengan kepentingan Negara;\nc. karena sesuatu hal yang menyebabkan ia tidak dapat melaksanakan\ntugasnya dengan wajar;\nd. atas permintaan sendiri.\n(2) Dalam hal-hal dimana diduga terdapat tuduhan tersebut dalam\nayat (1) huruf b, Gubernur dan Direktur-direktur dapat\ndiberhentikan\nuntuk sementara dari tugasnya oleh Pemerintah.\nPemberhentian sementara tersebut diberitahukan secara tertulis\nkepada yang bersangkutan disertai alasan-alasan yang menyebabkan\ntindakan tersebut.\n(3) Gubernur dan Direktur-direktur yang dikenakan pemberhentian\nsementara diberi kesempatan untuk membela diri secara tertulis\nkepada\nPresiden dalam waktu 2 (dua) minggu setelah yang\nbersangkutan diberitahukan tentang keputusan tersebut.\n(4) Apabila dalam waktu 1 (satu) bulan sejak tanggal pemberhentian\nsementara tidak ada pengesahan atau keputusan Presiden tentang\nhal\nini, maka pemberhentian sementara tersebut menjadi batal menurut\nhukum.\n(5) Apabila pelanggaran sebagaimana disebut dalam ayat\n(1) huruf b, merupakan suatu pelanggaran hukum pidana, maka\npemberhentian itu akan merupakan pemberhentian tidak dengan\nhormat."
+   }
+  },
+  {
+   "id": "ID-H298-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB VII."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 18.\n(1) Antara para anggota Direksi satu sama lainnya tidak boleh\nada hubungan keluarga sampai dengan derajat ketiga menurut garis\nlurus\nmaupun garis kesamping termasuk menantu dan ipar. Jika\nsesudah pengangkatannya mereka masuk hubungan keluarga yang\nterlarang itu,\nmaka salah seorang di antara mereka itu, tidak boleh\nmelanjutkan jabatannya tanpa izin Presiden.\n(2) Gubernur dan Direktur-direktur tidak boleh berdagang atau\nmempunyai kepentingan pada salah satu perusahaan manapun juga, baik\nlangsung maupun tidak langsung.\n(3) Gubernur dan Direktur-direktur tidak dapat merangkap jabatan\nlain, kecuali dengan persetujuan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H298-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB VII."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 19.\nGaji dan penghasilan lainnya bagi Gubernur dan Direktur-\ndirektur ditetapkan oleh Presiden."
+   }
+  },
+  {
+   "id": "ID-H298-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB VII."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 20.\nPeraturan-peraturan yang ada tentang tuntutan ganti rugi\nterhadap Pegawai Negeri bukan Bendaharawan berlaku juga terhadap\nAnggota\nDireksi dan Pegawai-pegawai Bank."
+   }
+  },
+  {
+   "id": "ID-H298-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB VII."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 21.\n(1) Direksi mewakili Bank di dalam dan di luar Pengadilan.\n(2) Direksi dapat menyerahkan kekuasaan mewakili tersebut pada\nayat (1) kepada seorang atau beberapa orang Direktur yang khusus\nditunjuk untuk itu atau kepada seorang beberapa orang Pegawai Bank,\nbaik sendiri maupun bersama-sama atau kepada orang/badan lain.\nBAB VIII.\nKOMISARIS PEMERINTAH."
+   }
+  },
+  {
+   "id": "ID-H298-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB VIII."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 22.\n(1) Komisaris Pemerintah mengawasi pengurusan Bank sebagai\nPerusahaan.\n(2) Komisaris Pemerintah diangkat dan diberhentikan oleh Presiden\natas usul Menteri Keuangan.\n(3) Untuk dapat diangkat sebagai Komisaris Pemerintah, yang\nbersangkutan harus Warga-Negara Indonesia yang memiliki keahlian\ndan\nakhlak serta moral yang baik.\n(4) Pengangkatan Komisaris Pemerintah berlaku untuk 3 (tiga)\ntahun. Setelah waktu itu berakhir, ia dapat diangkat kembali.\n(5) Antara Komisaris Pemerintah dan Anggota Direksi tidak boleh\nada hubungan keluarga sampai dengan derajat ketiga menurut garis\nlurus maupun garis kesamping termasuk menantu dan ipar. Apabila\nsesudah pengangkatannya Komisaris Pemerintah masuk hubungan\nkeluarga\nyang terlarang itu, maka ia tidak boleh melanjutkan\njabatannya tanpa izin Presiden."
+   }
+  },
+  {
+   "id": "ID-H298-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB VIII."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 23.\n(1) Komisaris Pemerintah berhak meminta segala keterangan dan\nmemeriksa segenap buku dan surat Bank serta ia dapat minta bantuan\nDirektorat\nAkuntan Negara untuk memeriksa buku-buku dan surat-surat\ntersebut jika dipandangnya perlu untuk menjalankan\nkewajibannya.\n(2) Direksi wajib memberikan segala penjelasan yang diperlukan\noleh Komisaris Pemerintah untuk melaksanakan tugasnya dengan\nsebaik-baiknya.\n(3) Komisaris Pemerintah berhak menghadiri rapat Direksi"
+   }
+  },
+  {
+   "id": "ID-H298-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB VIII."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 24.\n(1) Dalam menjalankan tugasnya Komisaris Pemerintah dibantu oleh\nsebuah Sekretariat yang pembiayaannya dibebankan pada Bank.\n(2) Komisaris Pemerintah menerima uang jasa yang besarnya\nditetapkan oleh Menteri Keuangan dan dibebankan pada Bank.\nBAB IX.\nSATUAN HITUNG UANG."
+   }
+  },
+  {
+   "id": "ID-H298-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB IX."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 25.\n(1) Satuan hitung uang Indonesia adalah Rupiah. Sebagai\nsingkatannya dipakai tanda \"Rp\".\n(2) Rupiah Indonesia dibagi dalam 100 (seratus) sen.\n(3) Tiap perbuatan yang mengenai uang atau mempunyai tujuan\npembayaran ataupun tujuan kewajiban yang harus dipenuhi dengan\nuang,\njika dilakukan di Indonesia, dilakukan dalam uang Rupiah\nIndonesia, kecuali jika dengan tegas diadakan ketentuan lain dengan\nperaturan\nperundangan.\nBAB X.\nPERINCIAN TUGAS BANK.\nPengedaran uang."
+   }
+  },
+  {
+   "id": "ID-H298-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB X."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 26.\n(1) Bank mempunyai hak tunggal untuk mengeluarkan uang kertas\ndan uang logam.\n(2) Uang termaksud pada ayat (1) pasal ini merupakan alat\npembayaran yang sah di Indonesia.\n(3) Sebelum permulaan tahun Anggaran Pemerintah menentukan jumlah\nmaksimum uang yang berdasarkan ayat (1) akan beredar dalam tahun\nyang bersangkutan dan mencantumkannya dalam Nota Keuangan.\n(4) Jenis, nilai dan ciri-ciri uang yang akan dikeluarkan\nditentukan oleh Bank, dan diberitahukan kepada umum dengan jalan\npengumuman\ndalam Berita-Negara.\n(5) Uang yang dikeluarkan oleh Bank dibebaskan dari bea\nmeterai.\n(6) Uang yang mengalir kembali ke dalam kas Bank dan oleh karena\ndianggap tidak layak lagi untuk diedarkan kembali, diberi tanda\noleh Bank dan cara pemberian tanda itu diumumkan dengan penempatan\ndalam Berita-Negara.\n(7) Uang yang telah diberi tanda demikian, tidak berharga lagi dan\ntidak ditukar oleh Bank, jika uang itu karena pencurian atau\nsebab\nlain beredar lagi."
+   }
+  },
+  {
+   "id": "ID-H298-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB X."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 27.\n(1) Uang dapat ditukar di kantor pusat Bank dan Kantor- kantor\ncabangnya pada tiap hari kerja pada waktu jam kas yang ditetapkan\noleh\nBank.\n(2) Bank tidak memberi penggantian kerugian jika uang hilang atau\nmusnah, Bank tidak memberi penggantian kerugian untuk bagian-bagian\nuang uang kecuali jika ada jaminan yang dianggap perlu untuk\nmencegah timbulnya kerugian Bank.\n(3) Jika ada persangkaan kejahatan atau atas permintaan tertulis\noleh yang berkepentingan, Bank dapat meminta surat tanda penyerahan\ndan pembubuhan tanda-tangan pada uang atau paket uang kepada pihak\nyang menukarkan uang itu atau yang menyerahkannya untuk dibukukan\ndalam suatu rekening di Bank.\n(4) Ketentuan dimaksud dalam Pasal-pasal 229 i, 229 j, dan 229 k\ndalam Kitab Undang-undang Hukum Dagang tidak berlaku terhadap uang\nkertas yang dikeluarkan oleh Bank."
+   }
+  },
+  {
+   "id": "ID-H298-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB X."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 28.\n(1) Bank dapat mencabut kembali uang yang dikeluarkannya serta\nmenariknya dari peredaran dan memanggil para pemegang uang itu\nuntuk\nmenyerahkannya guna ditukar.\n(2) Bank menetapkan jangka waktu untuk penyerahan tersebut pada\nayat (1).\n(3) Pencabutan dan panggilan itu diumumkan dalam\nBerita-Negara.\n(4) Sehabis waktu yang disebut pada ayat (2) uang yang dimaksud\ndalam panggilan itu hanya dapat ditukar pada kantor pusat Bank,\nsetelah menurut pemeriksaan ternyata, bahwa permintaan penukaran\nselayaknya dilakukan.\n(5) Sepuluh tahun sesudah waktu tersebut pada ayat (2) berakhir\njumlah uang yang dimaksud dalam panggilan yang tidak diserahkan,\nditambahkan kepada laba tahun buku yang sedang berjalan. Uang yang\nmasih diserahkan sesudah pemindah-bukuan dan telah diperiksa\nseperti\ntermaksud pada ayat (4) ditukar atas beban perhitungan\nlaba-rugi.\n(6) Sesudah tiga puluh tahun berselang sejak akhir jangka waktu\nyang termaksud pada ayat (2), hak untuk menuntut penukaran uang\nyang disebut dalam panggilan itu tidak berlaku lagi.\nPERBANKAN DAN PERKREDITAN."
+   }
+  },
+  {
+   "id": "ID-H298-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB X."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 29.\n(1) Bank memajukan perkembangan yang sehat dari urusan kredit\ndan urusan perbankan.\n(2) Bank mengadakan pengawasan terhadap urusan kredit."
+   }
+  },
+  {
+   "id": "ID-H298-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB X."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 30.\nBank membina perbankan dengan jalan :\na. memperluas, memperlancar dan mengatur lalu-lintas pembayaran\ngiral dan menyelenggarakan clearing antar Bank;\nb. menetapkan ketentuan-ketentuan umum tentang solvabilitas dan\nlikwiditas Bank-bank;\nc. memberikan bimbingan kepada Bank-bank guna penata-laksanaan\nBank secara sehat."
+   }
+  },
+  {
+   "id": "ID-H298-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB X."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 31.\nBank meminta laporan yang dianggap perlu dan mengadakan\npemeriksaan terhadap segala aktivitas bank-bank guna mengawasi\npelaksanaan\nketentuan yang telah dikeluarkan dalam bidang perbankan\nseperti tercantum dalam Pasal 29 dan\nPasal 30."
+   }
+  },
+  {
+   "id": "ID-H298-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB X."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 32.\n(1) Dalam melaksanakan tugas pokok tersebut dalam Pasal 7, maka\nBank :\na. menyusun rencana kredit untuk suatu jangka waktu tertentu untuk\ndiajukan kepada Pemerintah melalui Dewan Moneter;\nb. menetapkan tingkat dan struktur bunga;\nc. menetapkan pembatasan kwalitatif dan kwantitatif atas pemberian\nkredit oleh perbankan.\n(2) Bank dapat memberikan kredit likwiditas kepada bank-bank\ndengan cara :\na. menerima penggadaian ulang;\nb. menerima sebagai jaminan surat-surat berharga;\nc. menerima aksep;\ndengan syarat-syarat yang ditetapkan oleh Bank.\n(3) Bank dapat pula memberikan kredit likwiditas kepada bank-bank\nuntuk mengatasi kesulitan likwiditas dalam keadaan darurat.\n(4) Pemberian kredit Bank dibatasi oleh rencana kredit yang\nbersangkutan.\n(5) Bank tidak diperkenankan melakukan penyertaan modal dalam\nperusahaan-perusahaan kecuali dalam Lembaga-lembaga Keuangan\npenyertaan\nmana hanya dapat dilakukan dari cadangan."
+   }
+  },
+  {
+   "id": "ID-H298-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB X."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 33.\n(1) Bank dapat mengadakan ketentuan-ketentuan yang bertalian\ndengan penggunaan dana-dana oleh Lembaga-lembaga Keuangan, kecuali\nBadan-badan\nAsuransi.\n(2) Lembaga-lembaga termaksud pada ayat (1) diwajibkan mengikuti\npetunjuk dan ketentuan yang ditetapkan oleh Bank.\nHUBUNGAN KEUANGAN DENGAN PEMERINTAH."
+   }
+  },
+  {
+   "id": "ID-H298-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB X."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 34.\n(1) Bank bertindak sebagai Pemegang Kas Pemerintah.\n(2) Bank menyelenggarakan pemindahan uang untuk Pemerintah di\nantara kantor-kantornya di seluruh wilayah Republik Indonesia.\n(3) Bank membantu Pemerintah dalam penempatan surat-surat hutang\nNegara, penata-usahaan serta pembayaran kupon dan pelunasannya.\n(4) Dalam melaksanakan ketentuan dalam pasal ini Bank tidak\nmemperhitungkan biaya-biaya."
+   }
+  },
+  {
+   "id": "ID-H298-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB X."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 35.\n(1) Bank memberikan kepada Pemerintah kredit dalam rekening\nkoran untuk memperkuas kas Negara menurut keperluan sebagaimana\nditetapkan\ndalam Anggaran Pendapatan dan Belanja Negara.\n(2) Kredit tersebut diberikan atas tanggungan yang cukup dalam\nkertas perbendaharaan Negara dan yang pengeluaran serta\npenggadaiannya\ndiizinkan dengan atau berdasarkan Undang-undang.\n(3) Atas penggunaan kredit tersebut di atas, Pemerintah membayar\nbunga sebesar 3% (tiga perseratus) setahun dan tingkat bunga\ntermaksud\ndapat dirubah oleh Dewan Moneter mengingat perkembangan\nkeadaan.\n(4) Hasil pembayaran bunga termaksud pada ayat (3) setelah\ndikurangi biaya-biaya Bank yang bersangkutan disisihkan dan\ndiselesaikan\nmenurut ketentuan pada ayat (5).\n(5) Selambat-lambatnya dalam waktu 3 (tiga) bulan setelah tahun\nAnggaran yang bersangkutan berakhir, maka Pemerintah wajib\nmemberikan\nlaporan kepada Dewan Perwakilan Rakyat tentang jumlah\nkredit berdasarkan ayat (1) dan tentang hasil pembayaran bunga yang\ndisisihkan\nmenurut ayat (4) di atas disertai usul-usul\npenjelasannya. Dewan Perwakilan Rakyat selanjutnya menetapkan cara\npenyelesaian tersebut."
+   }
+  },
+  {
+   "id": "ID-H298-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB X."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 36.\n(1) Bank membantu penempatan surat-surat hutang Negara untuk\nmembiayai Anggaran Pendapatan dan Belanja Negara yang\npengeluarannya\ndiatur dengan atau berdasarkan Undang-undang.\n(2) Bank dapat membeli sendiri surat-surat hutang Negara tersebut\npada ayat (1).\nPENGERAHAN DANA-DANA"
+   }
+  },
+  {
+   "id": "ID-H298-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB X."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 37.\nBank mendorong pengerahan dana-dana masyarakat oleh perbankan\nuntuk tujuan usaha pembangunan yang produktif dan berencana.\nHUBUNGAN INTERNASIONAL."
+   }
+  },
+  {
+   "id": "ID-H298-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38"
+   },
+   "chapter": {
+    "id": "BAB X."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 38.\n(1) Dalam rangka pelaksanaan tugas pokok tersebut dalam Pasal 7,\nmaka Bank menyusun rencana devisa yang mencerminkan pemeliharaan\nEkonomi Nasional dan memperlancar usaha pembangunan dengan\nmemperhatikan posisi likwiditas dan solvabilitas internasional\nuntuk diajukan\nkepada Pemerintah melalui Dewan Moneter.\n(2) Untuk menjaga dan memelihara posisi likwiditas dan\nsolvabilitas internasional termaksud pada ayat (1) di atas :\na. Bank menguasai, mengurus dan menyelenggarakan tata-usaha\ncadangan emas dan devisa milik Negara;\nb. Pemerintah menetapkan syarat-syarat pembayaran berkenaan dengan\nperjanjian-perjanjian pinjaman yang mengakibatkan kewajiban\npembayaran\natas beban cadangan emas dan devisa Negara, walaupun\ndalam batas-batas yang telah ditetapkan dalam rencana devisa dengan\nmemperhatikan\npertimbangan Bank;\nc. Bank menata-usahakan tagihan dan kewajiban tunai maupun\nberjangka eterhadap luar negeri;\nd. Bank mengusahakan pemeliharaan jumlah cadangan minimum emas dan\ndevisa milik Negara terhadap kewajiban internasional dalam\nperbandingan\nyang akan diatur dengan Undang-undang."
+   }
+  },
+  {
+   "id": "ID-H298-A39",
+   "no": 39,
+   "noLabel": {
+    "id": "Pasal 39"
+   },
+   "chapter": {
+    "id": "BAB X."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 39.\n(1) Apabila perkembangan neraca pembayaran menunjukkan\ngejala-gejala yang mengakibatkan turunnya cadangan emas dan devisa\nmilik Negara\ndi bawah cadangan minimum yang ditetapkan dalam Pasal\n38 ayat (2) huruf d maka Bank melaporkan perkembangan tersebut\nkepada Pemerintah\nmelalui Dewan Moneter dan mengambil tindakan\npengamanan yang dipandangnya perlu untuk mengembalikan keseimbangan\ndalam neraca pembayaran\ntersebut.\n(2) Pemerintah dalam waktu selambat-lambatnya 1 (satu) bulan\nmenetapkan tindakan selanjutnya untuk mengatasi keadaan di\natas."
+   }
+  },
+  {
+   "id": "ID-H298-A40",
+   "no": 40,
+   "noLabel": {
+    "id": "Pasal 40"
+   },
+   "chapter": {
+    "id": "BAB X."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 40.\nBank dapat menjalankan pekerjaan-pekerjaan dalam bidang\npembayaran dengan Luar Negeri.\nBAB XI.\nUSAHA-USAHA BANK."
+   }
+  },
+  {
+   "id": "ID-H298-A41",
+   "no": 41,
+   "noLabel": {
+    "id": "Pasal 41"
+   },
+   "chapter": {
+    "id": "BAB XI."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 41.\nDalam rangka tugasnya sebagai Bank Sentral:\n(1) Bank memindahkan uang, baik dengan pemberitahuan secara\ntelegram maupun dengan surat, atau dengan jalan memberikan\nwesel-tunjuk\ndi antara kantornya; penarikan atas saldo kredit yang\nada pada koresponden dilakukan secara telegram atau dengan\nwesel-tunjuk.\n(2) Bank menerima dan membayarkan kembali uang dalam rekening\nkoran, menjalankan perintah untuk pemindahan uang, menerima\npembayaran\ndari tagihan atas kertas berharga dan melakukan\nperhitungan dengan atau antara pihak ketiga.\n(3) Bank mendiskonto :\na. surat-wesel dan surat-order dengan dua penanggung-jawab atau\nlebih secara solider dan dengan masa berlaku yang tidak lebih lama\ndaripada kebiasaan dalam perdagangan;\nb. surat-wesel dan kertas-dagang yang lain yang tidak lebih lama\nmasa berlakunya dari kebiasaan dalam perdagangan baik yang ditarik\ndengan jaminan surat-kredit, maupun dengan jaminan\ndokumen-pengangkutan;\nc. kertas-perbendaharaan atas beban Negara;\nd. surat-hutang dengan pelunasan dalam enam bulan dan selama\ndiskontonya turut bertanggung-jawab secara solider;\ne. mandat dan/atau surat perintah membayar atas kas Negara untuk\nrendemen-lelang.\n(4) Bank membeli dan menjual :\na. wesel yang diakseptasi oleh suatu bank dengan masa berlaku yang\ntidak lebih lama dari kebiasaan dalam perdagangan;\nb. kertas-perbendaharaan atas beban Negara;\nc. surat-hutang Negara atau surat-hutang lainnya yang tercatat\npada suatu bursa efek yang resmi yang bunga dan pelunasannya\ndijamin\noleh Negara.\n(5) Bank membeli dan menjual cek, surat-wesel, kertas-dagang\nlainnya, pembayaran dengan surat atau telegram dengan masa berlaku\ntidak lebih lama daripada kebiasaan dalam perdagangan dan adanya\njaminan yang lazim berlaku untuk itu.\n(6) Bank memberi jaminan-bank (bank-garansi) dengan tanggungan\nyang cukup.\n(7) Bank menyediakan tempat penyimpanan barang-barang\nberharga."
+   }
+  },
+  {
+   "id": "ID-H298-A42",
+   "no": 42,
+   "noLabel": {
+    "id": "Pasal 42"
+   },
+   "chapter": {
+    "id": "BAB XI."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 42.\nPada penyitaan barang-tetap atau hasil bumi, barang efek atau\ntanggungan lain, yang terikat kepada Bank, sebagai jaminan untuk\nmemenuhi\nkewajiban terhadap Bank, maka Bank boleh membeli seluruh\natau sebagian dari barang-barang atau hasil bumi, barang efek atau\ntanggungan\nlain, untuk dijadikan uang kembali dengan\nsecepat-cepatnya.\nBAB XII.\nPERATURAN PENSIUN DAN TUNJANGAN HARI TUA\nPADA PEGAWAI BANK."
+   }
+  },
+  {
+   "id": "ID-H298-A43",
+   "no": 43,
+   "noLabel": {
+    "id": "Pasal 43"
+   },
+   "chapter": {
+    "id": "BAB XII."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 43.\n(1) Bank mengadakan dana pensiun dan tunjangan hari tua para\npegawai Bank yang merupakan kekayaan yang dipisahkan.\n(2) Bank wajib mengusahakan supaya dana ini mencapai jumlah harga\ntunai kewajiban yang harus dipenuhi terhadap para Pegawai Bank\ndan\nwajib menjaga juga supaya jumlah harga tunai itu jangan\nberkurang.\n(3) Bank memberi sumbangan kepada dana yang disebut pada ayat\n(1).\n(4) Dana pensiun dan tunjangan hari tua para pegawai Bank disebut\npada ayat (1) dan sumbangan Bank kepada dana disebut pada ayat\n(3)\ntidak diperhitungkan dengan dana-dana dalam Pasal 47 ayat (6) huruf\nc dan d.\n(5) Ketentuan selanjutnya tentang dana tersebut pada ayat (1)\nserta sumbangan tersebut pada ayat (3) ditetapkan oleh Direksi.\nBAB XIII.\nANGGARAN, NERACA DAN LAPORAN."
+   }
+  },
+  {
+   "id": "ID-H298-A44",
+   "no": 44,
+   "noLabel": {
+    "id": "Pasal 44"
+   },
+   "chapter": {
+    "id": "BAB XIII."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 44.\n(1) Sebelum tahun buku baru mulai berjalan, Direksi menyampaikan\nAnggaran Tahunan Bank kepada Pemerintah untuk disetujui.\n(2) Persetujuan Pemerintah atas Anggaran Tahunan Bank harus telah\ndiberikan selambat-lambatnya 2(dua) bulan sesudah diterimanya\nAnggaran Tahunan Bank tersebut pada ayat (1).\nApabila dalam waktu yang telah ditetapkan itu Pemerintah tidak\nmengemukakan keberatan-keberatan terhadap Anggaran Tahunan Bank,\nAnggaran tersebut berlaku sepenuhnya untuk dilaksanakan oleh\nDireksi.\n(3) Tiap perubahan atas Anggaran Tahunan Bank yang terjadi dalam\ntahun buku yang bersangkutan harus mendapat persetujuan terlebih\ndahulu dari Pemerintah sebelum dapat dilaksanakan."
+   }
+  },
+  {
+   "id": "ID-H298-A45",
+   "no": 45,
+   "noLabel": {
+    "id": "Pasal 45"
+   },
+   "chapter": {
+    "id": "BAB XIII."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 45.\nBank membuat neraca singkat mingguan yang harus diumumkan tiap 7\n(tujuh) hari sekali dan dimuat dalam Berita-Negara."
+   }
+  },
+  {
+   "id": "ID-H298-A46",
+   "no": 46,
+   "noLabel": {
+    "id": "Pasal 46"
+   },
+   "chapter": {
+    "id": "BAB XIII."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 46.\nPada akhir tiap tahun buku, Bank menyusun laporan tahunan yang\nmenggambarkan perkembangan keuangan dan ekonomi secara luas.\nBAB XIV.\nPERHITUNGAN TAHUNAN."
+   }
+  },
+  {
+   "id": "ID-H298-A47",
+   "no": 47,
+   "noLabel": {
+    "id": "Pasal 47"
+   },
+   "chapter": {
+    "id": "BAB XIV."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 47.\n(1) Tahun buku Bank adalah Tahun Dinas Anggaran.\n(2) Selambat-lambatnya 6 (enam) bulan setelah akhir tahun buku,\nDireksi menyampaikan perhitungan tahunan yang terutama terdiri dari\nneraca dan perhitungan laba-rugi kepada Pemerintah untuk\ndisahkan.\n(3) Jika dalam waktu 3 (tiga) bulan sesudah Pemerintah menerima\nperhitungan tahunan itu tidak diajukan keberatan olehnya, maka hal\nitu berarti bahwa perhitungan tahunan telah disahkan oleh\nPemerintah.\n(4) Direktorat Akuntan Negara memeriksa perhitungan tahunan\nitu.\n(5) Neraca dan perhitungan laba-rugi yang disahkan secara demikian\nmemberi pembebasan tanggung-jawab sepenuhnya kepada Direksi.\n(6) Laba Bank yang disahkan dan setelah dikurangi pajak dibagi\nsebagai berikut :\na. dua puluh perseratus untuk cadangan umum, sampai cadangan ini\nmencapai jumlah yang sama besarnya dengan modal Bank;\nb. dua puluh perseratus untuk cadangan tujuan;\nc. tujuh setengah perseratus untuk dana kesejahteraan Pegawai Bank\nyang penggunaannya dilaksanakan dengan memperhatikan\npetunjuk-petunjuk\nPemerintah;\nd. tujuh setengah perseratus untuk jasa produksi bagi Pegawai\nBank, dengan batas sebanyak-banyaknya 3 (tiga) kali gaji\nsebulan;\ne. penggunaan laba selebihnya ditetapkan oleh Pemerintah.\nBAB XV.\nKETENTUAN KHUSUS."
+   }
+  },
+  {
+   "id": "ID-H298-A48",
+   "no": 48,
+   "noLabel": {
+    "id": "Pasal 48"
+   },
+   "chapter": {
+    "id": "BAB XV."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 48.\nBank dapat mewajibkan badan-badan dan/atau kesatuan ekonomi\nuntuk memberikan kepadanya keterangan-keterangan dan bahan-bahan\nyang\ndiperlukan oleh Bank dalam melakukan tugas dan usahanya.\nBAB XVI\nKETENTUAN PIDANA"
+   }
+  },
+  {
+   "id": "ID-H298-A49",
+   "no": 49,
+   "noLabel": {
+    "id": "Pasal 49"
+   },
+   "chapter": {
+    "id": "BAB XVI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 49\n(1) Gubernur, Direktur dan Pegawai Bank, Komisaris Pemerintah\nserta Pegawai Sekretariat Dewan Moneter dan Pegawai Sekretariat\nKomisaris\nPemerintah tidak memberikan keterangan- keterangan yang\ndiperoleh karena jabatannya kecuali apabila diperlukan untuk\npelaksanaan\ntugasnya atau untuk memenuhi kewajiban menurut\nUndang-undang ini.\n(2) Gubernur, Direktur dan Pegawai Bank, Komisaris Pemerintah\nserta Pegawai Sekretariat Dewan Moneter dan Pegawai Sekretariat\nKomisaris\nPemerintah yang bertentangan dengan ketentuan-ketentuan\ntersebut pada ayat (1) memberikan keterangan yang diperolehnya\nkarena jabatannya,\ndihukum dengan hukuman penjara selama-lamanya 1\n(satu) tahun dan/ atau denda setinggi-tingginya Rp. 10.000,-\n(sepuluh ribu rupiah).\n(3) Tindak pidana tersebut pada ayat (2) pasal ini dianggap\nsebagai kejahatan."
+   }
+  },
+  {
+   "id": "ID-H298-A50",
+   "no": 50,
+   "noLabel": {
+    "id": "Pasal 50"
+   },
+   "chapter": {
+    "id": "BAB XVI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 50\nApabila kewajiban tersebut dalam Pasal 48 Undang-undang ini\ntidak dipenuhi oleh Badan-badan atau kesatuan-kesatuan ekonomi,\nmaka yang\nbersangkutan dapat dihukum dengan hukuman denda\nsebanyak-banyaknya Rp. 10.000,- (sepuluh ribu rupiah).\nBAB XVII\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H298-A51",
+   "no": 51,
+   "noLabel": {
+    "id": "Pasal 51"
+   },
+   "chapter": {
+    "id": "BAB XVII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 51\n(1) Segala hak dan kewajiban serta kekayaan dan perlengkapan\nBank negara Indonesia Unit I sebagaimana dimaksud dalam Penetapan\nPresiden\nNomor 17 tahun 1965, beralih menjadi hak dan kewajiban\nserta kekayaan dan perlengkapan dari Bank.\n(2) Segala hak dan kewajiban serta kekayaan dan perlengkapan dari\nBank Negara Indonesia Unit II, III, IV dan V sebagaimana dimaksud\ndalam Penetapan Presiden Nomor 17 tahun 1965, beralih menjadi hak,\nkewajiban serta kekayaan dan perlengkapan dari Bank-bank Negara\nyang masing-masing akan dibentuk dengan Undang-undang\ntersendiri.\n(3) Pada saat Undang-undang ini mulai berlaku Gubernur dan\nDirektur-direktur serta pegawai lainnya pada Bank Negara Indonesia\nUnit\nI tetap melanjutkan pekerjaannya sampai ketentuan lebih\nlanjut."
+   }
+  },
+  {
+   "id": "ID-H298-A52",
+   "no": 52,
+   "noLabel": {
+    "id": "Pasal 52"
+   },
+   "chapter": {
+    "id": "BAB XVII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 52\nUntuk menjamin konstinuitas dalam pimpinan Bank, maka pada\npengangkatan pertama dari Direktur dapat diadakan penyimpangan dari\nketentuan\nmasa jabatan seperti tersebut dalam\nPasal 15 ayat (3) huruf a."
+   }
+  },
+  {
+   "id": "ID-H298-A53",
+   "no": 53,
+   "noLabel": {
+    "id": "Pasal 53"
+   },
+   "chapter": {
+    "id": "BAB XVII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 53\nUntuk pertama kali tahun buku Bank dimulai pada tanggal yang\nakan ditentukan oleh Menteri Keuangan dan berakhir pada tanggal 31\nMaret\n1969."
+   }
+  },
+  {
+   "id": "ID-H298-A54",
+   "no": 54,
+   "noLabel": {
+    "id": "Pasal 54"
+   },
+   "chapter": {
+    "id": "BAB XVII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 54\n(1) Pada saat Undang-undang ini mulai berlaku, maka uang kertas\nBank Indonesia serta uang kertas logam Pemerintah yang dikeluarkan\nsebelum berlakunya Undang-undang ini, tetap sifatnya sebagai alat\npembayaran yang sah.\n(2) Dengan pengeluaran Undang-Undang ini, maka Undang- undang\ntentang Mata Uang Tahun 1951 dengan tambahan dan perubahannya\ndinyatakan\ntidak berlaku.\n(3) Segala peraturan pelaksanaan dari Undang-undang Pokok Bank\nIndonesia tahun 1953 dan Penetapan Presiden Nomor 17 tahun 1965\nsepanjang\ntidak bertentangan dengan ketentuan-ketentuan dalam\nUndang-undang ini tetap berlaku.\nBAB XVIII\nKETENTUAN PENUTUP\nTGPT NAME=\"ps55\">Pasal 55\nHal-hal yang belum cukup diatur dalam Undang-undang ini\nditetapkan dengan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H298-A56",
+   "no": 56,
+   "noLabel": {
+    "id": "Pasal 56"
+   },
+   "chapter": {
+    "id": "BAB XVIII"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 56.\nUndang-undang ini disebut \"Undang-undang Bank Indonesia 1968\",\nSaat mulai berlakunya Undang-undang ini ditetapkan oleh Menteri\nKeuangan.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan\npengundangan Undang-undang ini dengan penempatannya dalam\nLembaran-Negara\nRepublik Indonesia.\nDisahkan di Jakarta\npada tanggal 7 Desember 1968.\nPresiden Republik Indonesia,\nSOEHARTO.\nJenderal T.N.I.\nDiundangkan di Jakarta\npada tanggal 7 Desember 1968.\nSekretaris Negara R.I.\nALAMSJAH.\nMajor Jenderal T.N.I.\nPENJELASAN\nATAS\nUNDANG-UNDANG REPUBLIK INDONESIA\nNOMOR 13 TAHUN 1968\nTENTANG\nBANK SENTRAL.\nA. PENJELASAN UMUM.\nI. Dalam membangun suatu tata-perekonomian nasional yang\nberlandaskan suatu demokrasi ekonominya masyarakat adil dan makmur\nyang diridhoi\nTuhan Yang Maha Esa berdasarkan Pancasila, perlu\ndigali dan diolah segala kekuatan ekonomi potensiil menjadi,\nkekuatan ekonomi riil\ndengan mempergunakan segala potensi dan daya\nrakyat itu sendiri.\nBerhubung dengan itu maka perbankan sebagai salah satu kekuatan\nekonomi potensiil dan suatu aparatur yang berkewajiban turut serta\ndalam menanggulangi kesulitan dibidang ekonomi dan moneter perlu\ndinilai kembali untuk dapat dimanfaatkan sebesar-besarnya bagi\npelaksanaan\nkebijaksanaan ekonomi, keuangan dan pembangunan.\nSebagai langkah kearah usaha penyehatan tata- perbankan pada\numumnya, maka dianggap\nperlu untuk membangun kembali Bank Sentral\nyang dapat menjalankan tugasnya dengan sebaik-baiknya dalam menjaga\ndan memelihara kestabilan\nintern maupun kestabilan ekstern dari\nnilai satuan Rupiah kita guna mendorong kelancaran produksi dan\npembangunan.\nDengan membangun kembali Bank Sentral, maka pengintegrasian\nbank-bank Pemerintah ke dalam bank Negara Indonesia sebagaimana\nditetapkan\ndalam Penetapan Presiden Nomor 17 tahun 1965 perlu\nditinjau kembali dan disesuaikan dengan maksud tersebut diatas.\nSesuai dengan\nbunyi penjelasan Pasal 23 Undang-undang Dasar 1945,\nmaka Bank Sentral tersebut diberi nama \"Bank Indonesia\". Oleh\nkarena itu dengan\nUndang-undang ini segala hak dan kewajiban,\nkekayaan dan perlengkapan Bank Negara Indonesia Unit I sebagaimana\ndimaksud dalam Penetapan\nPresiden Nomor 17 tahun 1965 beralih\nmenjadi hak dan kewajiban, kekayaan dan perlengkapan dari Bank\nIndonesia. Sebagai lanjutan dari\npada pengalihan Bank Negara\nIndonesia Unit I ini maka pada saat yang bersamaan juga Unit-unit\nlainnya yang tergabung dalam Bank Negara\nIndonesia itu perlu\ndialihkan kepada Bank-bank Negara lain yang akan dibentuk dengan\nUndang-undang tersendiri.\nII. Sejalan dengan ketentuan-ketentuan dalam Undang-undang Dasar\n1945 dimana kekuasaan Pemerintah berada ditangan Presiden,\nsedangkan\npara Menteri adalah menjadi pembantunya maka penetapan\nkebijaksanaan di bidang moneter dengan sendirinya berada dalam\ntangan Presiden.\nDalam prakteknya penetapan kebijaksanaan Pemerintah di bidang\nmoneter itu diolah dan dipersiapkan terlebih dahulu oleh para\nPembantu\nPresiden.\nDalam Prakteknya penetapan kebijaksanaan Pemerintah di bidang\nmoneter itu diolah dan dipersiapkan terlebih dahulu oleh para\nPembantu\nPresiden.\nOleh karena penelaahan persoalan moneter itu memerlukan koordinasi\ndan synkhronisasi mengenai pelbagai bidang, maka dianggap perlu\nuntuk membentuk suatu Dewan yang terdiri dari Menteri-menteri yang\nmemimpin bidang keuangan dan perekonomian serta Gubernur Bank\nSentral, yang bertugas membantu Pemerintah dalam pemikiran,\nperencanaan dan penetapan kebijaksanaan di bidang moneter.\nDewan tersebut diberi nama Dewan Moneter.\nJumlah Anggota Dewan Moneter ini besarnya dibatasi dengan maksud\nagar Dewan ini tidak menjadi terlalu besar dan dapat bekerja secara\ncepat dan tepat.\nSungguhpun demikian, oleh karena bidang moneter itu menyangkut\npula bidang-bidang ekonomi dan pembangunan lainnya, maka jika\ndianggap\nperlu, Pemerintah dapat menambahkan beberapa orang Menteri\nsebagai anggota penasehat pada Dewan Moneter.\nDisamping tugas tersebut diatas, maka dalam pelakasanaan\nkebijaksanaan moneter itu perlu juga adanya koordinasi dan\nsynkhronisasi\nserta kesatuan pimpinan yang dapat menjamin\nterlaksananya kebijaksanaan tersebut.\nBerhubung dengan itu maka Dewan Moneter juga bertugas memimpin\ndan mengkoordinasikan pelaksanaaan kebijaksanaan moneter yang telah\nditetapkan oleh Pemerintah.\nDari uraian diatas jelaslah bahwa Dewan Moneter itu tidak lain\ndaripada suatu alat Pemerintah yang terdiri dari beberapa Menteri\nditambah\nGubernur Bank Sentral guna membantu Pemerintah secara\neffisien dalam mempersiapkan serta dalam memimpin pelaksanaan\nkebijaksanaan\nmoneter. Dalam hubungan ini kedudukan Gubernur Bank\nSentral dalam Dewan Moneter mempunyai arti khusus, disebabkan oleh\nkarena Bank\nSentral dalam struktur pemerintahan berkedudukan di\nluar Departemen-departemen, sedangkan Gubernur Bank Sentral tidak\nmempunyai kedudukan\nsebagai Menteri.\nBank Sentral adalah suatu Lembaga Negara yang bertugas membantu\nPresiden dalam melaksanakan kebijaksanaan moneter, sehingga karena\nitu Bank Sentral menjalankan tugasnya berdasarkan garis-garis pokok\nkebijaksanaan yang telah ditetapkan oleh Pemerintah.\nDengan kedudukannya di luar Departemen-departemen, Bank Sentral\nkini dapat menilai kebutuhan dan kemampuan perekonomian Negara\nlebih\nobyektif dan bertindak berdasarkan wewenang yang tercantum\ndalam Undang-undang ini.\nBerhubung dengan itu kedudukan Gubernur Sentral dalam Dewan\nMoneter akan membawa pandangan dan pendapat yang sesuai dengan\nsituasi\nmoneter yarg dihadapinya, dan karena itu kepada Bank\nSentral diberikan wewenang untuk mengajukan\npendapatan-pendapatannya secara\nkhusus kepada Pemerintah apabila\nkeputusan yang diambil oleh Dewan Moneter itu menurut\npertimbangannya tidak atau kurang sesuai dengan\nsituasi moneter\nyang dihadapinya atau prinsip-prinsip ekonomi yang obyektif dan\nrealistis.\nDengan demikian Pemerintah mempunyai bahan-bahan tambahan untuk\ndapat mempertimbangkan kebijaksanaannya dibidang moneter secara\nlebih\nobyektif dan rasionil.\nIII. Sungguhpun Bank Sentral menjalankan tugasnya berdasarkan\ngaris-garis kebijaksanaan Pemerintah di bidang moneter, namun dalam\nUndang-undang ini kepada Bank Sentral diberikan beberapa wewenang\nyang ditujukan ke arah pemeliharaan dan jaminan dari pelaksanaan\nkebijaksanaan moneter itu yang sesuai dengan kebutuhan penjagaan\nkestabilan nilai satuan uang rupiah dan perkembangan produksi dan\npembangunan guna meningkatkan taraf hidup rakyat.\nWewenang-wewenang tersebut adalah antara lain:\na. Dibidang Anggaran Pendapatan dan Belanja Negara.\nPemberian kredit dalam rekening-koran kepada Pemerintah oleh Bank\nSentral hanya dilakukan dalam batas-batas Anggaran yang telah\ndisetujui oleh Dewan Perwakilan Rakyat dengan jaminan kertas\nperbendaharaan. Permintaan kredit yang melebihi batas-batas\ntersebut\ndiatas hanya dapat dilakukan dengan persetujuan Dewan\nPerwakilan Rakyat. Ini berarti bahwa Bank Sentral diberi wewenang\nuntuk menolak\npermintaan kredit dari Pemerintah sebelum Anggaran\ntambahan disetujui oleh Dewan Perwakilan Rakyat.\nMemperhatikan perkembangan ekonomi dan keuangan sekarang ini, maka\ndalam Undang-undang ini batas-batas terhadap pemberian kredit\ndalam\nrekening-koran kepada Pemerintah ditetapkan sesuai dengan kebutuhan\nAnggaran Pendapatan dan Belanja Negara.\nApabila keadaan ekonomi dan keuangan berubah sedemikian rupa\nhingga dapat diusahakan kembali adanya kestabilan moneter maka\nbatas-batas\ndalam pengendalian pembelian kredit kepada Pemerintah\nini perlu ditinjau kembali.\nb. Di bidang perkreditan.\nBank Sentral dan perbankan pada umumnya diwajibkan mengikuti\nbatas-batas yang telah ditetapkan dalam rencana kredit. Rencana\nkredit\ntersebut disusun oleh Bank Sentral untuk diajukan kepada\nPemerintah melalui Dewan Moneter dalam rangka penyusunan rencana\nmoneter.\nSebagai bangkers bank, Bank Sentral dapat memberikan kredit\nlikwiditas kepada bank-bank untuk tujuan peningkatan produksi dan\nlain-lain\nsesuai dengan program Pemerintah, sedangkan sebagai\nlender of last resort Bank Sentral dapat memberikan kredit\nlikwiditas kepada\nbank-bank untuk mengatasi kesulitan-kesulitan\nlikwiditas yang dihadapinya dalam keadaan darurat.\nDalam hal ini pemberian kredit yang diberikan oleh Bank Sentral,\ndilakukan dalam rangka program Pemerintah dan dalam batas-batas\nyang ditetapkan oleh rencana kredit dari tahun yang\nbersangkutan.\nDisamping itu Bank Sentral mempunyai wewenang untuk menetapkan\nbatas-batas kwantitatif dan kwalitatif dibidang perkreditan bagi\nperbankan, satu dan lain dalam rangka pelaksanaan kebijaksanaan\nmoneter yang telah ditetapkan oleh Pemerintah.\nc. Dibidang devisa.\nDalam menjaga dan memelihara kestabilan nilai Rupiah terhadap\nvaluta asing, maka Bank Sentral menyusun rencana devisa dalam\nrangka\npemeliharaan ekonomi nasional dan memperlancar usaha-usaha\npembangunan dengan memperhatikan posisi likwiditas dan solvabilitas\ninternasional.\nRencana devisa tersebut diajukan kepada Pemerintah melalui Dewan\nMoneter dalam rangka penyusunan rencana moneter.\nUntuk keperluan ini Bank Sentral antara lain menetapkan dan\nmemelihara cadangan minimum dibidang devisa dalam pertandingan yang\nlayak terhadap kewajiban internasional. Apabila perkembangan neraca\npembayaran menunjukkan gejala-gejala yang menunjukkan turunnya\ncadangan devisa dan emas milik Negara dibawah cadangan minimum,\nmaka Bank mendahului Keputusan Pemerintah tentang hal ini wajib\nmengambil\ntindakan pengamanan yang dipandangnya perlu untuk\nmengembalikan keseimbangan dalam neraca pembayaran tersebut.\nd. Dibidang pembinaan dan pengawasan Bank.\nBank Sentral berkewajiban pula untuk membina dan mengawasi\nperbankan di Indonesia, baik dari sudut ekonomi perusahaan terutama\ndengan\njalan pengaturan dan penjagaan likwiditas dan solvabilitas\nbank maupun dan sudut moneter dengan jalan pengaturan dan\npengawasan terhadap\npemberian kredit bank.\nKewajiban tersebut diatas dilakukan dalam rangka usaha\nperkembangan yang sehat dari urusan kredit dan urusan\nperbankan.\nIV. Sebagaimana dimaklumi, maka Anggaran Pendapatan dan Belanja\nNegara (termasuk anggaran pembangunan), rencana kredit dan rencana\ndevisa merupakan komponen-komponen dari rencana moneter, yang\npenetapannya dilakukan dengan memperhatikan efek-efek moneter yang\ntelah diperhitungkan oleh Pemerintah berdasarkan suatu program\nekonomi jangka pendek dan jangka panjang, yang telah ditetapkan\nbagi\ntahun yang bersangkutan.\nBersama-sama dengan Anggaran Pendapatan dan Belanja Negara yang\nsetiap tahunnya diajukan oleh Pemerintah kepada Dewan Perwakilan\nRakyat untuk disetujui, maka dalam Nota Keuangan yang diajukan itu\ndicantumkan pula komponen-komponen lainnya yaitu rencana kredit\ndan\nrencana devisa.\nDalam rangka rencana moneter tersebut, maka dalam Nota Keuangan\ndinyatakan pula oleh Pemerintah jumlah maksimum uang yang dapat\ndiedarkan oleh Bank Sentral untuk tahun yang bersangkutan.\nPenetapan jumlah maksimum uang yang dapat diedarkan itu pada\ndasarnya\nmerupakan pembatasan yang pada dewasa ini berdasarkan\nkeadaan ekonomi dan keuangan Negara dapat diletakkan terhadap Bank\nSentral\nsebagai Bank yang mempunyai hak tunggal untuk mengeluarkan\nuang yang merupakan alat pembayaran yang sah.\nApabila keadaan ekonomi keuangan berubah sedemikian rupa, hingga\nmemungkinkan diusahakan kembali adanya suatu kestabilan moneter,\nmaka batas-batas dalam pengendalian pengedaran uang oleh Bak\nSentral itu perlu ditinjau kembali. Dalam hubungan ini dapat\nkiranya\ndiusahakan adanya suatu jaminan berupa emas dan devisa\nmilik Negara dalam perbandingan yang wajar terhadap jumlah uang\nyang beredar,\nsatu dan lain untuk mengembalikan dan mempertinggi\nkepercayaan terhadap Rupiah.\nB. PENJELASAN PASAL DEMI PASAL.\nPasal 1.\n(1) Bank Sentral berdasarkan Undang-undang ini diberi nama \"Bank\nIndonesia\", sesuai dengan bunyi penjelasan Pasal 23 Undang-undang\nDasar 1945.\n(2) Cukup jelas.\n(3) Dengan ketentuan dalam ayat (3) ini, maka selain berdasarkan\nhukum perdata Eropah dan hukum dagang Eropah, Bank dapat melakukan\nperbuatan-perbuatan menurut hukum adat dengan\norang-orang/badan-badan yang takluk pada hukum adat serta\nmenjalankan hak-hak atas\nbenda-benda yang takluk pada hukum\nadat.\nPasal 2.\nCukup jelas.\nPasal 3.\n(1) Cukup jelas.\n(2) Cukup jelas.\nPasal 4.\n(1) Sebagai Badan Hukum berdasarkan Undang-undang maka Bank\nmempunyai modal yang merupakan kekayaan Negara yang dipisahkan.\nDengan\ndemikian, maka untuk selanjutnya Bank dalam menjalankan\nusahanya terlepas dari Anggaran Pendapatan dan Belanja Negara.\n(2) Cukup jelas.\nPasal 5.\n(1) Bank perlu memupuk cadangan umum untuk memperbesar jaminan\nterhadap kewajibannya dalam melakukan tugas dan usahanya seperti\ndalam\nBab IV, X dan XI.\n(2) Cukup jelas.\nPasal 6.\n(1) Cadangan tujuan dimaksud dalam pasal ini ialah bagian laba\nsetelah dikurangi pajak yang disisihkan untuk tujuan tertentu,\nyaitu\nuntuk biaya penggantian/pembaharuan milik tetap dan\nperlengkapan yang diperlukan dalam melaksanakan tugas dan usaha\nBank.\n(2) Tiap-tiap cadangan atau pemupukan dana lain harus dengan\njelas ternyata dalam tata-buku Bank, sehingga dengan demikian\ndiperoleh\nsuatu gambaran mengenai keadaan kegiatan usaha Bank yang\nsebenarnya.\nPasal 7.\nCukup jelas diterangkan dalam Penjelasan Umum.\nPasal 8.\n(1) Cukup jelas diterangkan dalam Penjelasan Umum.\n(2) Cukup jelas diterangkan dalam Penjelasan Umum.\nPasal 9.\n(1) Cukup jelas diterangkan dalam Penjelasan Umum.\n(2) Cukup jelas diterangkan dalam Penjelasan Umum.\nPasal 10.\n(1) Dengan tidak mengurangi jumlah Anggota yang ditetapkan dalam\npasal ini maka komposisi dari pada Anggota Dewan Moneter\ndisesuaikan\ndengan struktur dan organisasi Pemerintah.\nKecuali Gubernur, maka Anggota-anggota Dewan Moneter lainnya\nterdiri dari Menteri-menteri.\n(2) Cukup jelas.\n(3) Cukup jelas.\n(4) Anggota penasehat dapat memberikan nasehat-nasehat kepada\nDewan Moneter baik diminta maupun tidak diminta. Komposisi dari\npada\nAnggota Penasehat disesuaikan dengan kebutuhan dalam bidang\nmoneter.\nJuga Anggota-anggota penasehat ini harus terdiri dari\nMenteri-menteri.\n(5) Demi kelancaran dan kelengkapan penata-usahaan maka\nSekretariat Dewan Moneter diselenggarakan oleh Departemen\nKeuangan.\nPasal 11\n(1) Oleh karena Menteri Keuangan adalah penanggung-jawab dalam\nbidang keuangan dan sebagai sektor yang terpenting dalam\npelaksanaan\nkebijaksanaan moneter, maka jabatan Ketua Dewan Moneter\ndipegang oleh Menteri Keuangan.\n(2) Cukup jelas.\nPasal 12.\n(1) Cukup jelas.\n(2) Cukup jelas.\n(3) Dewan Moneter dapat meminta Komisaris Pemerintah menghadiri\nSidang-sidang Dewan untuk didengar pendapatnya atau apabila Dewan\nmenganggap hal-hal yang akan dibicarakan perlu diketahui oleh\nKomisaris Pemerintah.\nPasal 13.\n(1) Keputusan Dewan Moneter diambil dengan hikmah musyawarah\nuntuk mencapai mufakat, namun apabila mufakat tidak tercapai\nkeputusan\ndapat diambil atas dasar suara terbanyak.\nJika suara sama banyaknya, maka hal yang dimusyawarahkan\ndiserahkan kepada kebijaksanaan Pemerintah untuk diputuskan.\n(2) Cukup jelas diterangkan dalam Penjelasan Umum.\nPasal 14.\nCukup jelas.\nPasal 15.\n(1) Untuk menjamin pelaksanaan tugas Bank yang effisien dan\neffektif perlu ditentukan jumlah minimal dan maksimal dari\nAnggota-anggota\npimpinan Bank.\n(2) Gubernur sebagai Anggota pimpinan Bank dan sebagai anggota\nDewan Moneter, sudah barang tentu tidak dapat senantiasa\nmenjalankan\ntugas pimpinan sehari-hari dari Bank. Oleh karena itu\nuntuk menjamin kelangsungan pimpinan sehari-hari dari Bank di\nantara Direktur-direktur\nditunjuk oleh Pemerintah 2 (dua) orang\nsebagai Pengganti Gubernur untuk mewakili Gubernur apabila Gubernur\nberhalangan.\n(3) Sebelum memangku jabatannya, para Anggota Direksi harus\nmengucapkan sumpah jabatan menurut peraturan yang berlaku.\nUntuk dapat diangkat menjadi Anggota Direksi, harus dipenuhi\nsyarat-syarat tertentu di bawah ini :\na. bertaqwa kepada Tuhan Yang Maha Esa;\nb. setia kepada Panca Sila;\nc. berwibawa;\nd. jujur;\ne. cakap/ahli;\nf. adil;\ng. tidak terlibat, baik langsung maupun tidak langsung dalam\ngerakan kontra revolusi G.30.S/P.K.I. atau organisasi- organisasi\nterlarang\nlainnya.\nDalam mengangkat seseorang menjadi Anggota Direksi harus\ndiperhatikan pula calon-calon yang diajukan oleh dan dari Bank,\nserta jangan\nsampai ia mempunyai kepentingan-kepentingan dan di\nluar Bank yang dapat berlawanan dengan atau merugikan kepentingan\nBank.\nPasal 16.\n(1) Yang dimaksud dengan \"pengurusan\" dalam huruf c ayat ini\nadalah management.\n(2) Cukup jelas.\n(3) Apabila mufakat tak tercapai dapat diambil keputusan atas\ndasar suara terbanyak.\nJika suara sama banyaknya, maka keputusan diserahkan kepada\nkebijaksanaan Gubernur.\n(4) Cukup jelas.\n(5) Cukup jelas.\n(6) Cukup jelas.\nPasal 17.\n(1) Cukup jelas.\n(2) Cukup jelas.\n(3) Cukup jelas.\n(4) Cukup jelas.\n(5) Cukup jelas.\nPasal 18.\n(1) Dalam hal terjadinya hubungan keluarga yang terlarang maka\npenetapan siapa di antara kedua Anggota Direksi tersebut yang boleh\nmelanjutkan jabatannya didasarkan atas pertimbangan obyektif sesuai\ndengan kepentingan Bank.\n(2) Cukup jelas.\n(3) Mengingat kedudukan Bank yang sangat vital dalam bidang\nekonomi, dan keuangan, maka dalam pasal ini perlu ditentukan\nlarangan\njabatan rangkap, kecuali dengan persetujuan Pemerintah.\nDalam hal Direksi merangkap pekerjaan lain yang telah disetujui\noleh Pemerintah,\nmaka harus diusahakan jangan sampai jabatan yang\ndirangkap tersebut adalah incompatible.\nPasal 19.\nDewan Moneter mengusulkan gaji dan penghasilan lainnya bagi\nGubernur dan Direktur.\nPasal 20.\nCukup jelas\nPasal 21.\n(1) Cukup jelas.\n(2) Cukup jelas.\nPasal 22.\n(1) Komisaris Pemerintah adalah seorang wakil Pemerintah di\ndalam Bank yang mengawasi supaya tugas dan kewajiban Direksi\ndilaksanakan\nse-effisien mungkin dan selanjutnya ia memberikan\nlaporan-laporannya kepada Pemerintah. Tata-kerja Komisaris\nPemerintah dalam menjalankan\ntugasnya ditetapkan oleh\nPemerintah.\n(2) Cukup jelas.\n(3) Sebelum memangku jabatannya, Komisaris Pemerintah harus\nmengucapkan sumpah jabatan menurut peraturan yang berlaku.\nUntuk dapat diangkat sebagai Komisaris Pemerintah harus dipenuhi\nsyarat-syarat tertentu dibawah ini:\na. bertaqwa kepada Tuhan Yang Maha Esa;\nb. setia kepada Panca Sila\nc. berwibawa;\nd. jujur;\ne. cakap/ahli,\nf. adil;\ng. tidak terlibat, baik langsung maupun tidak langsung dalam\ngerakan kontra revolusi G. 30 S./P.K.I. atau organisi-organisasi\nterlarang\nlainnya.\n(4) Cukup jelas.\n(5) Cukup jelas.\nPasal 23.\n(1) Cukup jelas.\n(2) Cukup jelas.\n(3) Dalam rapat-rapat Direksi, Komisaris Pemerintah tidak\nmempunyai hak suara, tetapi ia dapat memberikan pandangannya\ntentang hal-hal\nyang dibicarakan.\nPasal 24.\n(1) Cukup jelas.\n(2) Cukup jelas.\n(1) Dengan memuat ketentuan-ketentuan dalam pasal ini, maka\nUndang-undang tentang Mata Uang tahun 1951 dengan tambahan dan\nperubahannya\ntidak diperlukan lagi dan dapat dinyatakan tidak\nberlaku (lihat pasal 54 ayat (2))\n(2) Cukup jelas.\n(3) Cukup jelas.\nPasal 26.\n(1) Mengingat bahwa antara uang kertas yang dikeluarkan oleh\nBank dan uang kertas dan logam yang dikeluarkan oleh Pemerintah\ndipandang\ndari sudut ekonomi tidak ada perbedaan fungsionil, lagi\npula Bank adalah Lembaga Keuangan Negara, maka untuk kepentingan\nkeseragaman\ndan effisiensi, pengeluaran uang baik uang kertas\nmaupun uang logam, cukup dilakukan oleh satu instansi saja, yaitu\nBank.\n(2) Cukup jelas.\n(3) Selama keadaan ekonomi dan keuangan belum memungkinkan\nadanya suatu pembatasan peredaran uang yang dihubungkan/dijamin\ndengan\nsuatu jumlah tertentu cadangan emas dan devisa milik Negara,\nmaka pada taraf sekarang pembatasan itu hanya dilakukan dengan\njalan\nmenentukan jumlah masksimum uang cartal yang akan beredar\ntersebut dalam Nota Keuangan yang setiap tahunnya kepada Dewan\nPerwakilan\nRakyat. Penetapan jumlah maksimum uang cartal tersebut\ndi atas merupakan landasan yang cukup untuk dipakai sebagai\npegangan yang\neffektif guna pengendalian jumlah yang yang beredar\ntermasuk uang giral.\n(4) Yang dimaksud dengan:\n- \"Jenis\" adalah uang logam atau uang kertas;\n- \"Nilai\" adalah nilai nominal;\n- \"Ciri-ciri\" adalah warna, gambar atau tanda-tanda lain dan\nuang.\nAdapun \"macam\" dan \"harga\" uang yang disebut dalam Pasal 23 ayat\n(3) Undang-undang Dasar 1945 diatur dengan Undang-undang\ntersendiri.\n(5) Cukup jelas.\n(6) Yang dimaksud dengan tidak layak adalah lusuh, rusak sebagian\natau seluruhnya karena terbakar, robek ataupun karena sebab-sebab\nlainnya.\n(7) Cukup jelas.\nPasal 27.\n(l) Yang dimaksud dengan penukaran uang dalam ayat ini, ialah\npenukaran uang dengan berbagai kopur lainnya. Jika dianggap perlu\nBank\ndapat menunjuk badan-badan lain untuk melancarkan penukaran\nuang.\n(2) Cukup jelas.\n(3) Cukup jelas.\n(4) Cukup jelas.\nPasal 28.\n(1) Cukup jelas.\n(2) Cukup jelas.\n(3) Cukup jelas.\n(4) Penukaran ini sudah tentu dapat dilakukan dengan perantaraan\ncabang Bank.\n(5) Cukup jelas.\n(6) Cukup jelas.\nPasal 29.\n(1) Tugas tersebut dalam pasal ini disandarkan kepada sifat dan\nkedudukan Bank sebagai pembina dan pengawas perbankan. Dalam rangka\ntugas tersebut Bank memajukan perkembangan yang sehat dari\nperbankan dan perkreditan serta menjaga kepentingan masyarakat yang\nmempercayakan\nuangnya kepada Bank-bank. Bank-bank sebagai\nperusahaan diselenggarakan berdasarkan azas-azas ekonomi perusahaan\nyang sehat dan wajar.\n(2) Cukup jelas.\nPasal 30.\nDalam rangka pembinaan perbankan, maka jika keadaannya telah\nmemungkinkan, untuk lebih menjamin uang fihak ketiga yang\ndipercayakan\nkepada Bank-bank, dapat diadakan suatu asuransi\ndeposito dengan tujuan pembinaan kepercayaan masyarakat terhadap\nperbankan.\nDi samping itu dalam rangka membimbing perbankan Bank\nmengusahakan pendidikan dengan tujuan mempertinggi mutu dan\nkeahlian para pegawai\nperbankan.\nPasal 31.\nCukup jelas.\nPasal 32.\n(1) Bank menyusun rencana kredit untuk suatu jangka waktu\ntertentu.\nDi samping itu Bank dapat menggunakan alat-alat kebijaksanaan\nmoneter antara lain tingkat dan struktur bunga guna menjamin\nterlaksananya\nkebijaksanaan Pemerintah sebaikbaiknya.\n(2) Apabila dianggap perlu, Bank menyediakan kredit likwiditas\nkepada perbankan untuk bidang-bidang yang sesuai dengan\nkebijaksanaan\nkredit yang telah ditetapkan. Pemberian kredit\ntersebut dilakukan dengan cara-cara seperti termaksud dalam ayat\nini.\n(3) Cukup jelas.\n(4) Cukup jelas.\n(5) Penyertaan Bank dalam Lembaga-lembaga keuangan masih\ndimungkinkan dengan alasan guna mendorong berkembangnya\nLembaga-lembaga\ntersebut dengan sebaik-baiknya. Penyertaan yang\ndilakukan oleh Bank hanya bersifat sementara yang berarti bahwa\nBank mencabut kembali\npartisipasinya bilamana lembaga tersebut\ntelah berkembang dengan baik. Yang dimaksud dengan \"Lembaga\nKeuangan\" termasuk pula lembaga\nkeuangan swasta. Adapun yang\ndimaksud dengan cadangan ialah cadangan umum.\nPasal 33.\n(1) Ketentuan dalam pasal ini mengatur wewenang dari Bank\nsebagai Bank Sentral untuk melakukan hal-hal yang dianggap perlu\ndalam melaksanakan\ntugasnya di bidang pengawasan dan pembinaan,\nterutama dalam penggunaan dana-dana dari Lembaga-lembaga Keuangan\n(termasuk badan-badan\nyang menjalankan lalu-lintas cek dan giro)\ndan badan-badan penanaman modal (institutional investors) guna\nmemajukan perkembangan\nyang sehat dari urusan perkreditan.\nPenggunaan dana-dana oleh badan-badan asuransi dikecualikan dari\nketentuan ini karena diatur khusus dalam Undang-undang\ntersendiri.\n(2) Cukup jelas.\nPasal 34.\n(1) Dengan adanya ketentuan dalam pasal ini, maka Bank wajib\nmenyelenggarakan penyimpanan kas umum Negara dan bertindak sebagai\npemegang\nkas Republik Indonesia.\n(2) Bank wajib menyelenggarakan pemindahan uang untuk Pemerintah\ndi antara kantor-kantornya.\n(3) Dalam pengeluaran surat-surat hutang atas beban Negara, bank\nwajib memberikan bantuan sebesar-besarnya. Dengan adanya ketentuan\ntersebut di atas, maka dimungkinkan pemusatan dari penyimpanan\nsemua Keuangan Negara sehingga dapat dicapai penata-usahaan yang\nlebih\neffisien dari penerimaan dan pengeluaran Negara.\n(4) Cukup jelas.\nPasal 35.\n(1) Untuk memenuhi kekurangan likwiditas, Bank dapat memberikan\nkepada Pemerintah kredit dalam rekening-koran atas jaminan penuh\ndalam\nkertas perbendaharaan Negara. Kredit itu dapat diberikan di\nsampigng, untuk membiayai kekurangan pendapatan karena\nketidak-samaan\nwaktu antara pendapatan dan pengeluaran, juga untuk\nmembiayai defisit sebagaimana ditetapkan dalam Anggaran Pendapatan\ndan Belanja\nNegara yang telah disetujui oleh Dewan Perwakilan\nRakyat.\nApabila dalam tahun Anggaran yang sedang berjalan terdapat\ntanda-tanda bahwa kredit yang dibutuhkan itu akan melampaui jumlah\nyang\nditetapkan dalam Anggaran Pendapatan dan Belanja tersebut,\nmaka Pemerintah wajib dengan segera melaporkannya dan mengajukan\ntambahan\nAnggaran Pendapatan dan Belanja Negara tahun yang\nbersangkutan kepada Dewan Perwakilan Rakyat.\nSebelum tambahan tersebut disetujui oleh Dewan Perwakilan\nRakyat, maka Bank tidak diperkenankan untuk memberi kredit kepada\nPemerintah.\n(2) Cukup jelas.\n(3) Cukup jelas.\n(4) Cukup jelas.\n(5) Apabila tahun Anggaran yang bersangkutan berakhir, maka\nselambat-lambatnya dalam waktu 3 (tiga) bulan, Pemerintah wajib\nmemberikan,\nlaporan kepada Dewan Perwakilan Rakyat tentang\nrealisasi penggunaan kredit atas dasar Anggaran Pendapatan dan\nBelanja Negara yang\nbersangkutan disertai usul-usul\npenyelesaiannya.\nDalam hubungan ini selanjutnya Dewan Perwakilan Rakyat menetapkan\ncara penyelesaian kredit dalam rangka usaha mencapai stabilitas\nnilai rupiah.\nMengingat bahwa cara demikian baru untuk pertama kali dilakukan,\nmaka Dewan Perwakilan Rakyat perlu pula menetapkan cara\npenyelesaian\ndari kredit Pemerintah yang ada pada dewasa ini.\nsehingga dengan demikian Pemerintah dapat mulai dengan lembaran\nbaru dalam melaksanakan\nAnggaran Pendapatan dan Belanja Negara.\nPasal 36.\n(1) Apabila penerimaan Negara dari Pajak, laba perusahaan-\nperusahaan Negara dan lain sebagainya tidak cukup untuk membiayai\npengeluaran\nNegara seluruhnya, maka kekurangan tersebut diatas\nharus diusahakan sedapat mungkin ditutup dengan hasil\npinjaman-pinjaman dari masyarakat.\nDalam penempatan pindjaman-pinjaman Negara yang diatur oleh/atau\nberdasarkan Undang-undang sebagai bagian dari Anggaran Pendapatan\ndan Belanja Negara tersebut Bank memberikan bantuannya secara\naktif.\n(2) Cukup jelas.\nPasal 37.\nDalam menjalankan tugasnya Bank wajib berusaha menciptakan suatu\niklim yang sebaik-baiknya untuk dapat mendorong masyarakat\nmenyimpan\ndana-dananya ke dalam perbankan atau menjalankan kegiatan\nusahanya dengan mempergunakan jasa-jasa perbankan.\nPasal 38.\n(1) Cukup jelas.\n(2) Dengan adanya ketentuan dalam ayat ini, maka Bank adalah\nsatu-satunya Lembaga Negara yang menguasai, mengurus dan\nmenyelenggarakan\ntata-usaha cadangan emas dan devisa milik Negara.\nTermasuk pula dalam cadangan emas dan devisa adalah hak atas devisa\nyang dapat\nsetiap waktu ditarik (drawing rights) dari sesuatu badan\nkeuangan internasional. Pemerintah menetapkan syarat-syarat\npembayaran berkenaan\ndengan perjanjian-perjanjian pinjaman yang\nmengakibatkan kewajiban pembayaran atas beban dadangan emas dan\ndevisa milik Negara dengan\nmaksud untuk dapat memelihara\nkeseimbangan yang tepat antara kemapuan dan kewajiban. Oleh karena\nberdasarkan perkembangan keadanan\ndevisa pada dewasa ini sulit\nuntuk menetapkan jumlah cadangan minimum emas dan devisa milik\nNegara yang harus dipelihara, maka untuk\nsementara waktu penetapan\njumlah cadangan minimum tersebut ditetapkan jumlah cadangan minimum\ntersebut ditetapkan oleh Bank. Apabila\nkeadaan telah memungkinkan\nkembali, maka penetapan cadangan minimum emas dan devisa milik\nNegara sewajarnya dilakukan dengan Undang-undang\nberdasarkan\nperbandingan yang lebih tepat antara kemampuan dan kewajiban.\nPasal 39.\n(1) Dengan pasal ini kepada Bank diberikan wewenang untuk\nmengambil tindakan pengamanan yang dipandangnya perlu, apabila\nperkembangan\nneraca pembayaran menunjukkan gejala-gejala yang\nmengakibatkan turunnya cadangan emas dan devisa milik Negara,\ndibawah cadangan minimum\nyang telah ditetapkan.\nDengan sendirinya perkembangan tersebut diatas dilaporkan oleh\nDireksi Bank kepada Pemerintah melalui Dewan Moneter. Dewan Moneter\nmeneruskan persoalan tersebut kepada Pemerintah dengan disertai\npertimbangan-pertimbangannya.\n(2) Dalam waktu selambat-lambatnya 1 (satu) bulan setelah Direksi\nBank menjyampaikan laporan tersebut, Pemerintah wajib menetapkan\ntindakan-tindakan selanjutnya untuk mengatasi keadaan tersebut.\nPasal 40.\nCukup jelas.\nPasal 41.\nBank menyelenggarakan usaha-usaha dalam pasal ini semata-mata\ndalam rangka tugasnya sebagai Bank Sentral.\n(1) Cukup jelas.\n(2) Cukup jelas.\n(3) Ketentuan ini dimaksudkan untuk memberikan kesempatan\nmenguangkan kepada Bank kertas-kertas berharga sebagaimana\ndimaksudkan\ndalam ayat ini.\n(4) Ketentuan ini dimaksudkan untuk memungkinkan Bank secara aktif\nturut serta dalam pasar uang dan modal.\n(5) Cukup jelas.\n(6) Cukup jelas.\n(7) Cukup jelas.\nPasal 42.\nCukup jelas.\nPasal 43.\n(1) Cukup jelas.\n(2) Cukup jelas.\n(3) Cukup jelas.\n(4) Cukup jelas.\n(5) Cukup jelas.\nPasal 44.\n(1) Cukup jelas.\n(2) Cukup jelas.\n(3) Cukup jelas.\nPasal 45.\nCukup jelas.\nPasal 46.\nLaporan tahunan ini diumumkan oleh Bank secara luas kepada\nmasyarakat.\nPasal 47.\n(1) Cukup jelas.\n(2) Cukup jelas.\n(3) Cukup jelas.-\n(4) Pemerintah dalam mengesahkan neraca dan perhitungan laba-rugi\nyang disusun oleh Direksi menggunakan Direktorat Akuntan Negara\nuntuk memeriksa neraca dan perhitungan laba-rugi tersebut.\n(5) Cukup jelas.\n(6) Sisa laba sebagaimana dimaksud dalam huruf e ayat ini pada\ndasarnya masuk dalam Kas Negara.\nDalam penggunaan sisa laba tersebut Pemerintah juga memperhatikan\nkeperluan-keperluan di bidang sosial.\nPasal 48.\nKeterangan dan bahan-bahan yang diminta oleh Bank bukan untuk\nmaksud pemeriksaan melainkan diperlukan antara lain guna penyusunan\nlaporan di bidang ekonomi dan keuangan yang sifatnya sangat\nluas.\nKeterangan-keterangan dan bahan-bahan dari perbankan dapat\ndiminta oleh Bank berdasarkan ketentuan-ketentuan dalam\nUndang-undang Perbankan\n1967.\nPasal 49.\n(1) Cukup jelas.\n(2) Cukup jelas.\n(3) Cukup jelas.\nPasal 50.\nKetentuan ini dimaksudkan untuk menjamin terlaksananya tugas dan\nkewajiban Bank secara effektif.\nPasal 51.\n(1) Dalam peralihan hak dan kewajiban serta kekayaan dan\nperlengkapan maka untuk permodalan Bank, bagi rekening-rekening\ncadangan\ndan bagian sisa laba Bank Negara Indonesia Unit I yang\nbelum dibagikan, dipindahkan ke rekening modal Bank.\nSelama modal Bank belum mencapai jumlah tersebut dalam Pasal 4,\nmaka bagian sisa laba Bank yang menurut Pasal 47 ayat (6) huruf\na\ndiperuntukkan cadangan umum dimasukkan ke rekening modal.\nAgar modal Bank selekas-lekasnya terpenuhi, maka tiap tahun\nPemerintah menetapkan jumlah dari sisa laba termaksud Pasal 47 ayat\n(6) huruf e yang harus dipindahkan ke rekening modal.\n(2) Cukup jelas.\n(3) Selambat-lambatnya dalam waktu satu tahun harus telah\nterbentuk susunan Direksi berdasarkan Undang-undang ini.\nPasal 52.\nCukup jelas.\nPasal 53.\nCukup jelas.\nPasal 54.\n(1) Cukup jelas.\n(1) Cukup jelas.\n(3) Cukup jelas.\nPasal 55.\nCukup jelas.\nPasal 56.\nSaat berlakunya Undang-undang ini perlu ditetapkan oleh Menteri\nKeuangan oleh karena persiapan-persiapan di dalam dan di luar\nNegeri\nyang diperlukan untuk menampung akibat-akibat dari peralihan\nBank Negara Indnesia Unit I ke dalam Bank Indonesia harus selesai\ntepat\npada waktunya sehingga pada saat mulai berlakunya\nUndang-undang ini, Bank Indonesia dapat melakukan tugasnva dengan\nlancar.\n--------------------------------\nCATATAN\nKutipan: LEMBARAN NEGARA DAN TAMBAHAN LEMBARAN NEGARA TAHUN 1968\nYANG TELAH DICETAK ULANG"
+   }
+  }
+ ]
+}

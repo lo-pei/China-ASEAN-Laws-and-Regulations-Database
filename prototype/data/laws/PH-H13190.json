@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13190",
+ "title": {
+  "zh": null,
+  "en": "An Act Appropriating the Sum of Twelve thousand Pesos for the Construction, Maintenance and Repair of the Mount Data-Sabangan Trail, Subrovince of",
+  "orig": "An Act Appropriating the Sum of Twelve thousand Pesos for the Construction, Maintenance and Repair of the Mount Data-Sabangan Trail, Subrovince of"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1915-04-03",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2519",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 438,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1915/act_2519_1915.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02519_1915_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02519_1915_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13190-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The sum of twelve thousand pesos, or so much thereof as may be necessary, is hereby\nappropraited, out of any funds in the Insular treasury not otherwise appropriated, to be expended for the\nconstruction, maintenance, and repair of a trail to be known as Mount Data-Sabangan Trail from\napproximately kilometer ninety-six, Mountain Trail, to Sabangan, suprovince of Lepanto."
+   }
+  },
+  {
+   "id": "PH-H13190-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Acct shall take effect on its passage.\nEnacted, April 3, 1915"
+   }
+  }
+ ]
+}

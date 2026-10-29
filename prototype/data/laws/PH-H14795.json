@@ -1,0 +1,62 @@
+{
+ "id": "PH-H14795",
+ "title": {
+  "zh": null,
+  "en": "An Act to Authorize the United States High Commissioner to the Government of the Commonwealth of the Philippine Islands to Occupy Temporarily the Mansion House, At Baguio, Philippine Islands as His Residence and Office.",
+  "orig": "An Act to Authorize the United States High Commissioner to the Government of the Commonwealth of the Philippine Islands to Occupy Temporarily the Mansion House, At Baguio, Philippine Islands as His Residence and Office."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1935-07-23",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 4204",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 542,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1935/act_4204_1935.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_04204_1935_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_04204_1935_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14795-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Upon the inauguration of the Commonwealth of the Philippine Islands, the United States High\nCommissioner to the Government of the Commonwealth of the Philippine Islands is hereby authorized and\npermitted to occupy temporarily the Mansion House at Baguio as a residence and office until a permanent\nresidence and office shall have been provided and established for his use by the United States Government,\nnotwithstanding the provisions of any existing law to the contrary."
+   }
+  },
+  {
+   "id": "PH-H14795-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, July 23, 1935."
+   }
+  }
+ ]
+}

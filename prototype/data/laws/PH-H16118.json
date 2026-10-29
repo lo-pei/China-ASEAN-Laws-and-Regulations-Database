@@ -1,0 +1,72 @@
+{
+ "id": "PH-H16118",
+ "title": {
+  "zh": null,
+  "en": "An Act to Appropriate Funds for the Establishment of Postgraduate Courses and Fellowships in Medicine in the College of Medicine of the University of the Philippines.",
+  "orig": "An Act to Appropriate Funds for the Establishment of Postgraduate Courses and Fellowships in Medicine in the College of Medicine of the University of the Philippines."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1938-09-12",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 401",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 819,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00401_1938_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00401_1938_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H16118-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The sum of one hundred thousand pesos is appropriated out of any funds in the Philippine\nTreasury not otherwise appropriated, for the establishment of post graduate courses and fellowships in\nmedicine in the college of medicine of the University of the Philippines: Provided, That not more than\ntwenty-five per centum of the amount herein appropriated shall be expended for said fellowships."
+   }
+  },
+  {
+   "id": "PH-H16118-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Graduated fellowships in medicine may be granted by the Board of regents of the University of\nthe Philippines to poor but deserving medical practitioners, including those connected with the Government\nwho have practiced their profession for a period of at least five years in the Philippines. Such fellowships shall\nbe awarded through competitive tests."
+   }
+  },
+  {
+   "id": "PH-H16118-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, September 12, 1938."
+   }
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "id": "PH-H12775",
+ "title": {
+  "zh": null,
+  "en": "An Act to Provide for the Employment of a Prosecuting Attorney for the Moro Province.",
+  "orig": "An Act to Provide for the Employment of a Prosecuting Attorney for the Moro Province."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1911-07-26",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2068",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1192,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1911/act_2068_1911.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02068_1911_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02068_1911_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12775-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "There shall be a prosecuting attorney for the Moro Province, who shall also be ex officio\nassistant attorney for the Moro Province, and who shall discharge his duties under the general supervision of\nthe attorney for the Moro Province. He shall be appointed by the governor of the Moro Province subject to\nconfirmation by the legislative council, be shall be a lawyer admitted to practice in the Supreme Court of the\nPhilippine Islands, or in the supreme court of a State or Territory of the United States, or of the District of\nColumbia. He shall receive such annual salary as may be fixed and provided for such officer in the\nappropriation acts of the legislative council. He shall represent the public in the prosecution of crime in any\ncourts within the Moro Province, when the public interest requires it, and shall render such services as\nassistant attorney for the Moro Province as may be assigned to him by the attorney for the Moro Province.\nBefore assuming office he shall take the oath of office prescribed for provincial officers in Act Numbered\nEighty-three."
+   }
+  },
+  {
+   "id": "PH-H12775-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall be retroactive and take effect as of April twentieth, nineteen hundred and eleven.\nEnacted, July 26, 1911."
+   }
+  }
+ ]
+}

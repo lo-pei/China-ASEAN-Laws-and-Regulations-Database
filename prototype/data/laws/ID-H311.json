@@ -1,0 +1,84 @@
+{
+ "id": "ID-H311",
+ "title": {
+  "zh": "1968年第11号法",
+  "en": "Law No. 11 of 1968 Law",
+  "id": "Undang-Undang Nomor 11 Tahun 1968",
+  "orig": "Undang-Undang Nomor 11 Tahun 1968",
+  "vi": "Luật Luật số 11 năm 1968",
+  "th": "พระราชบัญญัติ พระราชบัญญัติ ฉบับที่ 11 พ.ศ. 2511",
+  "ms": "Akta Akta Bilangan 11 1968"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02a",
+ "language": "id",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "1968",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU11-1968",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 3,
+ "chars": 887,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": null
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\01_宪法与基础法\\印尼_WLD_1968_Undang-Undang Nomor 11 Tahun 1968.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 3 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H311-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {},
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 1.\nMenyetujui dan menerima Charter of the Southeast Asian Ministers\nof Education Organization sebagaimana yang dilampirkan pada\nUndang-undang\nini."
+   }
+  },
+  {
+   "id": "ID-H311-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {},
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 2.\nHal-hal yang belum atau belum cukup diatur dalam Undang- undang\nini akan diatur lebih landjut dengan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H311-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {},
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 3.\nUndang-undang ini mulai berlaku pada hari tanggal diundangkan.\nAgar supaya setiap orang dapat mengetahuinya memerintahkan\npengundangan Undang-undang ini dengan penempatannya kedalam\nLembaran-Negara\nRepublik Indonesia.\nDisahkan di Jakarta.,\npada tanggal, 25 Oktober 1968.\nPresiden Republik Indonesia,\nSOEHARTO.\nJenderal T.N.I.\nDiundangkan di Jakarta,\npada tanggal, 25 Oktober 1968.\nSekretaris Negara R.I.,\nALAMSYAH\nMayor Jenderal TNI.\n--------------------------------\nCATATAN\nDi dalam dokumen ini terdapat lampiran dalam format gambar.\nKutipan: LEMBARAN NEGARA TAHUN 1968 YANG TELAH DICETAK ULANG"
+   }
+  }
+ ]
+}

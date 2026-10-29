@@ -1,0 +1,72 @@
+{
+ "id": "PH-H14830",
+ "title": {
+  "zh": null,
+  "en": "An Act to Prohibit the Award of Contracts for Public Works to Contractors Who Are Not Citizens of the Philippine Islands or of the United States.",
+  "orig": "An Act to Prohibit the Award of Contracts for Public Works to Contractors Who Are Not Citizens of the Philippine Islands or of the United States."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1935-08-22",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 4239",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1001,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1935/act_4239_1935.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_04239_1935_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_04239_1935_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14830-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "No contract for the construction of any public building, excavation, pipe laying, bridges, piers,\ndrainage, roads, water works, irrigation projects, or any other class of public works or improvements which\nshall be undertaken and done at the expense of the government or semi-government entities, shall be awarded\nto any contractor who is not a citizen of the Philippine Islands or of the United States, or of any country the\nlaws of which grant similar right or privilege to citizens of the Philippine Islands or of the United States, nor\nto any association or corporation that is not duly registered or incorporated under the laws of the Philippine\nIslands, and of which at least seventy per centum of the capital stock or of any interest in said capital stock,\nbelongs wholly to citizens of the Philippine Islands or of the United States."
+   }
+  },
+  {
+   "id": "PH-H14830-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "All Acts or parts of Act which are inconsistent with the provisions of this Act are hereby"
+   }
+  },
+  {
+   "id": "PH-H14830-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, August 22, 1935."
+   }
+  }
+ ]
+}

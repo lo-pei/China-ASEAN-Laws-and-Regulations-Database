@@ -1,0 +1,52 @@
+{
+ "id": "PH-H12724",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Act Numbered Eighteen Hundred and Sixty-Five By Increasing to Sixty Per Centum of the Value of the Mortgaged Property the Amount Which May Be Loaned By the Agricultural Bank.",
+  "orig": "An Act to Amend Act Numbered Eighteen Hundred and Sixty-Five By Increasing to Sixty Per Centum of the Value of the Mortgaged Property the Amount Which May Be Loaned By the Agricultural Bank."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1911-01-24",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2016",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 1,
+ "chars": 1205,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1911/act_2016_1911.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02016_1911_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 1 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02016_1911_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12724-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section twelve of Act Numbered Eighteen hundred and sixty-five is hereby amended to read as\n\"Section 12. No loan shall be made except-\n\"(a) Upon the security of a first mortgage on unincumbered, improved urban property or upon unincumbered\nagricultural land, not to exceed sixty per centum of the value thereof. No loan shall be made unless the\nAttorney-General shall have certified and the board of directors shall be satisfied that the real estate offered as\nsecurity for the loan is free from all incumbrances and that the title thereto is in the mortgagor. All mortgages\nshall contain a covenant requiring the mortgagor to insure for the benefit of the mortgagee all buildings of\nstrong materials on the property to the amount of their value as fixed by the board of directors.\n\" (b) Upon the security of a chattel mortgage to the bank on crops already harvested, gathered, and stored:\nProvided, however, That no loan on the security of such crops so harvested, gathered, and stored as aforesaid\nshall exceed sixty per centum of the market value thereof on the date of the loan. The property mortgaged\nshall be insured by the mortgagor for the benefit of the mortgagee to the full amount of the loan.\""
+   }
+  }
+ ]
+}

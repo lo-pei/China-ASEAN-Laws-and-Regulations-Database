@@ -1,0 +1,652 @@
+{
+ "id": "ID-H1176",
+ "title": {
+  "zh": "集成电路布图设计法",
+  "en": "Law on the Layout Designs of Integrated Circuits",
+  "id": "DESAIN TATA LETAK SIRKUIT TERPADU",
+  "orig": "DESAIN TATA LETAK SIRKUIT TERPADU",
+  "vi": "Luật về Thiết kế Bố trí Mạch tích hợp",
+  "th": "พระราชบัญญัติว่าด้วยการออกแบบผังวงจรรวม",
+  "ms": "Akta tentang Reka Bentuk Susun Atur Litar Bersepadu"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02a",
+ "language": "id",
+ "level": "law",
+ "category": "03_涉外投资与贸易",
+ "status": "active",
+ "promulgatedDate": "2000",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU32-2000",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 43,
+ "chars": 27612,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU-32-2000.pdf&fl=P01119"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\03_涉外投资与贸易\\印尼_文本_2000_DESAIN TATA LETAK SIRKUIT TERPADU.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 43 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H1176-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\nDalam Undang-undang ini, yang dimaksud dengan :\n1. Sirkuit Terpadu adalah suatu produk dalam bentuk jadi atau setengah jadi,\nyang di dalamnya terdapat berbagai elemen dan sekurang -kurangnya satu\ndari elemen tersebut adalah elemen aktif, yang sebagian atau seluruhnya\nsaling berkaitan serta dibentuk secara t erpadu di dalam sebuah bahan\nsemikonduktor yang dimaksudkan untuk menghasilkan fungsi elektronik.\n2. Desain Tata Letak adalah kreasi berupa rancangan peletakan tiga dimensi\ndari berbagai elemen, sekurang -kurangnya satu dari elemen tersebut\nadalah elemen ak tif, serta sebagian atau semua interkoneksi dalam suatu\nSirkuit Terpadu dan peletakan tiga dimensi tersebut dimaksudkan untuk\npersiapan pembuatan Sirkuit Terpadu.\n3. Pendesain adalah seorang atau beberapa orang yang menghasilkan Desain\nTata Letak Sirkuit Terpadu.\n4. Permohonan adalah permintaan pendaftaran Desain Tata Letak Sirkuit\nTerpadu yang diajukan kepada Direktorat Jenderal.\n5. Pemohon adalah pihak yang mengajukan Permohonan.\n6. Hak Desain Tata Letak Sirkuit Terpadu adalah hak eksklusif yang\ndiberikan oleh negara Republik Indonesia kepada Pendesain atas hasil\nkreasinya, untuk selama waktu tertentu melaksanakan sendiri, atau\nmemberikan persetujuannya kepada pihak lain untuk melaksanakan hak\ntersebut.\n7. Pemegang Hak adalah Pemegang Hak Desain Tata Letak Sirkuit Terpadu,\nyaitu Pendesain atau penerima hak dari Pendesain yang terdaftar dalam\nDaftar Umum Desain Tata Letak Sirkuit Terpadu.\n8. Menteri adalah Menteri yang membawahkan departemen yang salah satu\nlingkup tugas dan tanggung jawabnya meliputi bidang Hak Kekayaan\nIntelektual termasuk Desain Tata Letak Sirkuit Terpadu.\n9. Direktorat Jenderal adalah Direktorat Jenderal Hak Kekayaan Intelektual\nyang berada di bawah Departemen yang dipimpin oleh Menteri.\nPRESIDEN\nREPUBLIK INDONESIA\n10. Kuasa …\n10. Kuasa adalah Konsultan Hak Kekaya an Intelektual sebagaimana yang\ndiatur dalam Undang-undang ini.\n11. Tanggal Penerimaan adalah tanggal penerimaan Permohonan yang telah\nmemenuhi persyaratan administratif.\n12. Konsultan Hak Kekayaan Intelektual adalah orang yang memiliki keahlian\ndi bidang Hak Kekayaan Intelektual dan secara khusus memberikan jasa di\nbidang pengajuan dan pengurusan permohonan Paten, Merek, Desain Tata\nLetak Sirkuit Terpadu serta bidang -bidang Hak Kekayaan Intelektual\nlainnya dan terdaftar sebagai Konsultan Hak Kekayaan Intel ektual di\nDirektorat Jenderal.\n13. Lisensi adalah izin yang diberikan oleh Pemegang Hak kepada pihak lain\nmelalui suatu perjanjian berdasarkan pada pemberian hak (bukan\npengalihan hak) untuk menikmati manfaat ekonomi dari suatu Desain Tata\nLetak Sirkuit Terpadu yang diberi perlindungan dalam jangka waktu\ntertentu dan syarat tertentu.\n14. Hari adalah hari kerja.\nBAB II\nLINGKUP DESAIN TATA LETAK\nSIRKUIT TERPADU\nBagian Pertama\nDesain Tata Letak Sirkuit Terpadu\nyang Mendapat Perlindungan"
+   }
+  },
+  {
+   "id": "ID-H1176-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\n(1) Hak Desain Tata Letak Sirkuit Terpadu diberikan untuk Desain Tata Letak\nSirkuit Terpadu yang orisinal.\n(2) Desain Tata Letak Sirkuit Terpadu dinyatakan orisinal apabila desain\ntersebut merupakan hasil karya mandiri Pendesain, dan pada saat Desain\nTata Letak Sirkuit Terpadu tersebut dibuat tidak merupakan sesuatu yang\numum bagi para Pendesain.\nBagian Kedua\nDesain Tata Letak Sirkuit Terpadu\nyang Tidak Mendapat Perlindungan"
+   }
+  },
+  {
+   "id": "ID-H1176-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\nHak Desain Tata Letak Sirkuit Terpadu tidak dapat diberikan jika Desain Tata\nLetak Sirkuit Terpadu tersebut bertentangan dengan peraturan\nperundang-undangan yang berlaku, ketertiban umum, agama, atau\nkesusilaan.\nPRESIDEN\nREPUBLIK INDONESIA\nBagian Ketiga …\nBagian Ketiga\nJangka Waktu Perlindungan Desain\nTata Letak Sirkuit Terpadu"
+   }
+  },
+  {
+   "id": "ID-H1176-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\n(1) Perlindungan terhadap Hak Desain Tata Letak Sirkuit Terpadu diberikan\nkepada Pemegang Hak sejak pertama kali desain tersebut dieksploitasi\nsecara komersial di mana pun, atau sejak Tanggal Penerimaan.\n(2) Dalam hal Desain Tata Letak Sirkuit Terpadu telah dieksploitasi secara\nkomersial, Permohonan harus diajukan paling lama 2 (dua) tahun\nterhitung sejak tanggal pertama kali dieksploitasi.\n(3) Perlindungan sebagaimana dimaksud dalam ayat (1) diberi kan selama 10\n(sepuluh) tahun.\n(4) Tanggal mulai berlakunya jangka waktu perlindungan sebagaimana\ndimaksud dalam ayat (1) dicatat dalam Daftar Umum Desain Tata Letak\nSirkuit Terpadu dan diumumkan dalam Berita Resmi Desain Tata Letak\nSirkuit Terpadu.\nBagian Keempat\nSubjek Desain Tata Letak Sirkuit Terpadu"
+   }
+  },
+  {
+   "id": "ID-H1176-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\n(1) Yang berhak memperoleh Hak Desain Tata Letak Sirkuit Terpadu adalah\nPendesain atau yang menerima hak tersebut dari Pendesain.\n(2) Dalam hal Pendesain terdiri atas beberapa orang secara bersama, Hak\nDesain Tata Letak Sirkuit Terpadu diberikan kepada mereka secara\nbersama, kecuali jika diperjanjikan lain."
+   }
+  },
+  {
+   "id": "ID-H1176-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\n(1) Jika suatu Desain Tata Letak Sirkuit Terpadu dibuat dalam hubungan\ndinas dengan pihak lain dalam lingkungan pekerjaannya, Pemegang Hak\nadalah pihak yang untuk dan/atau dalam dinasnya Desain Tata Letak\nSirkuit Terpadu itu dikerjakan, kecuali ada perjanjian lain antara kedua\npihak dengan tidak mengurangi hak Pendesain apabi la penggunaan\nDesain Tata Letak Sirkuit Terpadu itu diperluas sampai keluar hubungan\ndinas.\n(2) Ketentuan sebagaimana dimaksud dalam ayat (1) berlaku pula bagi\nDesain Tata Letak Sirkuit Terpadu yang dibuat orang lain berdasarkan\npesanan yang dilakukan dalam hubungan dinas.\n(3) Jika suatu Desain Tata Letak Sirkuit Terpadu dibuat dalam hubungan\nkerja atau berdasarkan pesanan, orang yang membuat Desain Tata Letak\nPRESIDEN\nREPUBLIK INDONESIA\nSirkuit Terpadu itu dianggap sebagai Pendesain dan Pemegang Hak,\nkecuali jika diperjanjikan lain antara kedua pihak."
+   }
+  },
+  {
+   "id": "ID-H1176-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7 …"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 7\nKetentuan sebagaimana dimaksud dalam Pasal 6 ayat (1) dan ayat (2) tidak\nmenghapus Hak Pendesain untuk tetap dicantumkan namanya dalam\nSertifikat Desain Tata Letak Sirkuit Terpadu, Daftar Umum Desain Tata Letak\nSirkuit Terpadu dan Berita Resmi Desain Tata Letak Sirkuit Terpadu.\nBagian Kelima\nLingkup Hak"
+   }
+  },
+  {
+   "id": "ID-H1176-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n(1) Pemegang Hak memiliki hak eksklusif untuk melaksanakan Hak Desain\nTata Letak Sirkuit Terpadu yang dimilikinya dan untuk melarang orang\nlain yang tanpa persetujuannya membuat, memakai, menjual, mengimpor,\nmengekspor dan/atau mengedarkan barang yang di dalamnya terdapat\nseluruh atau sebagian Desain yang telah diberi Hak Desain Tata Letak\nSirkuit Terpadu.\n(2) Dikecualikan dari ketentuan sebagaimana dimaksud d alam ayat (1)\nadalah pemakaian Desain Tata Letak Sirkuit Terpadu untuk kepentingan\npenelitian dan pendidikan sepanjang tidak merugikan kepentingan yang\nwajar dari pemegang Desain Tata Letak Sirkuit Terpadu.\nBAB III\nPERMOHONAN PENDAFTARAN\nDESAIN TATA LETAK SIRKUIT TERPADU\nBagian Pertama\nUmum"
+   }
+  },
+  {
+   "id": "ID-H1176-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\nHak Desain Tata Letak Sirkuit Terpadu diberikan atas dasar Permohonan."
+   }
+  },
+  {
+   "id": "ID-H1176-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\n(1) Permohonan diajukan secara tertulis dalam bahasa Indonesia ke\nDirektorat Jenderal dengan membayar biaya sebagaimana di atur dalam\nUndang-undang ini.\n(2) Permohonan sebagaimana dimaksud dalam ayat (1) ditandatangani oleh\nPRESIDEN\nREPUBLIK INDONESIA\nPemohon atau Kuasanya.\n(3) Permohonan …\n(3) Permohonan harus memuat:\na. tanggal, bulan, dan tahun surat Permohonan;\nb. nama, alamat lengkap dan kewarganegaraan Pendesain;\nc. nama, alamat lengkap, dan kewarganegaraan Pemohon;\nd. nama dan alamat lengkap Kuasa apabila Permohonan diajukan\nmelalui Kuasa; dan\ne. tanggal pertama kali dieksploitasi secara komersial apabila suda h\npernah dieksploitasi sebelum Permohonan diajukan.\n(4) Permohonan sebagaimana dimaksud dalam ayat (3) dilampiri dengan:\na. salinan gambar atau foto serta uraian dari Desain Tata Letak Sirkuit\nTerpadu yang dimohonkan pendaftarannya;\nb. surat kuasa khusus, dalam hal Permohonan diajukan melalui Kuasa;\nc. surat pernyataan bahwa Desain Tata Letak Sirkuit Terpadu yang\ndimohonkan pendaftarannya adalah miliknya;\nd. surat keterangan yang menjelaskan mengenai tanggal sebagaimana\ndimaksud dalam ayat (3) huruf e.\n(5) Dalam hal Permohonan diajukan secara bersama -sama oleh lebih dari\nsatu Pemohon, Permohonan tersebut ditandatangani oleh salah satu\nPemohon dengan dilampiri persetujuan tertulis dari para Pemohon lain.\n(6) Dalam hal Permohonan diajukan oleh bukan Pendes ain, Permohonan\nharus disertai pernyataan yang dilengkapi dengan bukti yang cukup\nbahwa Pemohon berhak atas Desain Tata Letak Sirkuit Terpadu yang\nbersangkutan.\n(7) Ketentuan tentang tata cara Permohonan diatur lebih lanjut dengan\nPeraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H1176-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\nSetiap Permohonan hanya dapat diajukan untuk satu Desain Tata Letak\nSirkuit Terpadu."
+   }
+  },
+  {
+   "id": "ID-H1176-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n(1) Pemohon yang bertempat tinggal di luar wilayah Negara Republik\nIndonesia, harus mengajukan Permohonan melalui Kuasa.\n(2) Pemohon sebagaimana dima ksud dalam ayat (1) harus menyatakan dan\nmemilih domisili hukumnya di Indonesia."
+   }
+  },
+  {
+   "id": "ID-H1176-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\nKetentuan mengenai syarat -syarat untuk dapat diangkat sebagai Konsultan\nHak Kekayaan Intelektual diatur dengan Peraturan Pemerintah, sedangkan\nPRESIDEN\nREPUBLIK INDONESIA\ntata cara pengangkatannya diatur dengan Keputusan Presiden.\nBagian Kedua …\nBagian Kedua\nWaktu Penerimaan Permohonan"
+   }
+  },
+  {
+   "id": "ID-H1176-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\nTanggal Penerimaan adalah tanggal diterimanya Permohonan, dengan syarat\nPemohon telah:\na. mengisi formulir Permohonan;\nb. melampirkan salinan gambar atau foto dan uraian dari Desain Tata Letak\nSirkuit Terpadu yang dimohonkan; dan\nc. membayar biaya Permohonan sebagaimana dimaksud dalam Pasal 10 ayat\n(1)."
+   }
+  },
+  {
+   "id": "ID-H1176-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\n(1) Apabila ternyata terdapat kekurangan pemenuhan syarat -syarat dan\nkelengkapan sebagaimana dimaksud dalam Pasal 10 dan Pasal 13,\nDirektorat Jenderal memberitahukan kepada Pemohon atau Kuasanya\nagar kekurangan tersebut dipenuhi dalam waktu 3 (tiga) bulan terhitung\nsejak tanggal pengiriman surat pemberitahuan pemenuh an kekurangan\ntersebut.\n(2) Jangka waktu sebagaimana dimaksud dalam ayat (1) dapat diperpanjang\nuntuk paling lama 1 (satu) bulan atas permintaan Pemohon."
+   }
+  },
+  {
+   "id": "ID-H1176-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\n(1) Apabila kekurangan tidak dipenuhi dalam jangka waktu sebagaimana\ndimaksud dalam Pasal 15, Direktorat Jenderal memberitahukan secara\ntertulis kepada Pemohon atau Kuasanya bahwa Permohonannya dianggap\nditarik kembali.\n(2) Dalam hal Permohonan dianggap ditarik kembali sebagaimana dimaksud\ndalam ayat (1), segala biaya yang telah dibayarkan kepa da Direktorat\nJenderal tidak dapat ditarik kembali.\nBagian Ketiga\nPenarikan Kembali Permohonan"
+   }
+  },
+  {
+   "id": "ID-H1176-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\nPRESIDEN\nREPUBLIK INDONESIA\nPermintaan penarikan kembali Permohonan dapat diajukan secara tertulis\nkepada Direktorat Jenderal oleh Pemohon atau Kuasanya selama Permohonan\ntersebut belum mendapat keputusan.\nBagian Keempat …\nBagian Keempat\nKewajiban Menjaga Kerahasiaan"
+   }
+  },
+  {
+   "id": "ID-H1176-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\nSelama masih terikat dinas aktif hingga selama 12 (dua belas) bulan sesudah\npensiun atau berhenti karena sebab apa pun dari Direktorat Jenderal, pegawai\nDirektorat Jenderal atau orang yang karena tugasnya bekerja untuk dan/atau\natas nama Direktorat Jenderal dilarang mengajukan Permohonan,\nmemperoleh, memegang, atau memiliki hak yang berkaitan dengan Desain\nTata Letak Sirkuit Terpadu, kecuali jika pemilikan tersebut diperoleh karena\npewarisan."
+   }
+  },
+  {
+   "id": "ID-H1176-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\nTerhitung sejak Tanggal Penerimaan, seluruh pegawai Direktorat Jenderal atau\norang yang karena tugasnya bekerja untuk dan/atau atas nama Direktorat\nJenderal berkewajiban menjaga kerahasiaan Permohonan sampai dengan\ndiumumkannya Permohonan yang bersangkutan.\nBagian Kelima\nPemberian Hak dan Pengumuman"
+   }
+  },
+  {
+   "id": "ID-H1176-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\n(1) Direktorat Jenderal melakukan pemeriksaan kelengkapan persyaratan\nadministratif sebagaimana dimaksud dalam Pasal 3, Pasal 10, dan Pasal\n11 terhadap Permohonan.\n(2) Terhadap Permohonan yang telah memenuhi persyaratan sebagaimana\ndimaksud dalam Pasal 3, Pasal 10, dan Pasal 11, Direktorat Jenderal\nmemberikan hak atas Permohonan tersebut, dan mencatatnya dalam\nDaftar Umum Desain Tata Letak Sirkuit Terpadu serta mengumumkan nya\ndalam Berita Resmi Desain Tata Letak Sirkuit Terpadu atau sarana lain."
+   }
+  },
+  {
+   "id": "ID-H1176-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\nDalam jangka waktu paling lama 2 (dua) bulan terhitung sejak dipenuhinya\npersyaratan sebagaimana dimaksud dalam Pasal 20 ayat (2), Direktorat\nPRESIDEN\nREPUBLIK INDONESIA\nJenderal mengeluarkan Sertifikat Desain Tata Letak Sirkuit Terpadu."
+   }
+  },
+  {
+   "id": "ID-H1176-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22 …"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kelima"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 22\n(1) Pihak yang memerlukan salinan Sertifikat Desain Tata Letak Sirkuit\nTerpadu dapat memintanya kepada Direktorat Jenderal dengan membayar\nbiaya sebagaimana diatur dalam Undang-undang ini.\n(2) Ketentuan mengenai syarat dan tata cara pemberian salinan Sertifikat\nsebagaimana dimaksud dalam ayat (1) diatur lebih lanjut dengan\nKeputusan Presiden.\nBAB IV\nPENGALIHAN HAK DAN LISENSI\nBagian Pertama\nPengalihan Hak"
+   }
+  },
+  {
+   "id": "ID-H1176-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\n(1) Hak Desain Tata Letak Sirkuit Terpadu dapat beralih atau dialihkan\ndengan:\na. pewarisan;\nb. hibah;\nc. wasiat;\nd. perjanjian tertulis; atau\ne. sebab-sebab lain yang dibenarkan oleh peraturan\nperundang-undangan.\n(2) Pengalihan Hak Desain Tata Letak Sirk uit Terpadu sebagaimana\ndimaksud dalam ayat (1) disertai dengan dokumen tentang pengalihan\nhak.\n(3) Segala bentuk pengalihan Hak Desain Tata Letak Sirkuit Terpadu\nsebagaimana dimaksud dalam ayat (1) wajib dicatat dalam Daftar Umum\nDesain Tata Letak Sirkuit Terpadu pada Direktorat Jenderal dengan\nmembayar biaya sebagaimana diatur dalam Undang-undang ini.\n(4) Pengalihan Hak Desain Tata Letak Sirkuit Terpadu yang tidak dicatatkan\ndalam Daftar Umum Desain Tata Letak Sirkuit Terpadu tidak berakibat\nhukum pada pihak ketiga.\n(5) Pengalihan Hak Desain Tata Letak Sirkuit Terpadu sebagaimana\ndimaksud dalam ayat (3) diumumkan dalam Berita Resmi Desain Tata\nLetak Sirkuit Terpadu."
+   }
+  },
+  {
+   "id": "ID-H1176-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 24\nPRESIDEN\nREPUBLIK INDONESIA\nPengalihan Hak Desain Tata Letak Sirkuit Terpadu tidak menghilangkan hak\nPendesain untuk tetap dicantumkan nama dan identitasnya, baik dalam\nsertifikat Desain Tata Letak Sirkuit Terpadu, Berita Resmi Desain Tata Letak\nSirkuit Terpadu maupun dalam Daftar Umum Desain Tata Letak Sirkuit\nTerpadu.\nBagian Kedua …\nBagian Kedua\nLisensi"
+   }
+  },
+  {
+   "id": "ID-H1176-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\nPemegang Hak berhak memberikan Lisensi kepada pihak lain berdasarkan\nperjanjian Lisensi untuk melaksanakan semua perbuatan sebagaimana\ndimaksud dalam Pasal 8, kecuali jika diperjanjikan lain."
+   }
+  },
+  {
+   "id": "ID-H1176-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\nDengan tidak mengurangi ketentuan sebagaim ana dimaksud dalam Pasal 25,\nPemegang Hak tetap dapat melaksanakan sendiri atau memberi Lisensi kepada\npihak ketiga untuk melaksanakan perbuatan sebagaimana dimaksud dalam\nPasal 8, kecuali jika diperjanjikan lain."
+   }
+  },
+  {
+   "id": "ID-H1176-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\n(1) Perjanjian Lisensi wajib dicatatkan dalam Daftar Umum Desain Tata Letak\nSirkuit Terpadu pada Direktorat Jenderal dengan dikenai biaya\nsebagaimana diatur dalam Undang-undang ini.\n(2) Perjanjian Lisensi yang tidak dicatatkan dalam Daftar Umum Desain Tata\nLetak Sirkuit Terpadu tidak berlaku terhadap pihak ketiga.\n(3) Perjanjian Lisensi sebagaimana dimaksud dalam ayat (1) diumumkan\ndalam Berita Resmi Desain Tata Letak Sirkuit Terpadu."
+   }
+  },
+  {
+   "id": "ID-H1176-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\n(1) Perjanjian Lisensi dilarang memuat ketentuan yang dapat menimbulkan\nakibat yang merugikan bagi perekonomian Indonesia atau memuat\nketentuan yang mengakibatkan persaingan usaha tidak sehat\nsebagaimana diatur dalam peraturan perundang-undangan yang berlaku.\n(2) Direktorat Jenderal wajib menolak pencatatan perjanjian Lisensi yang\nmemuat ketentuan sebagaimana dimaksud dalam ayat (1).\nPRESIDEN\nREPUBLIK INDONESIA\n(3) Ketentuan mengenai pencatatan perjanjian Lisensi diatur dengan\nKeputusan Presiden.\nBAB V …\nBAB V\nPEMBATALAN PENDAFTARAN\nDESAIN TATA LETAK SIRKUIT TERPADU\nBagian Pertama\nPembatalan Pendaftaran\nBerdasarkan Permintaan Pemegang Hak"
+   }
+  },
+  {
+   "id": "ID-H1176-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\n(1) Desain Tata Letak Sirkuit Terpadu terdaftar dapat dibatalkan oleh\nDirektorat Jenderal atas permintaan tertulis yang diajukan oleh Pemegang\nHak.\n(2) Pembatalan Hak Desain Tata Letak Sirkuit Terpadu sebagaimana\ndimaksud dalam ayat (1) tidak dapat dilakukan apabila penerima Lisensi\nHak Desain Tata Letak Sirkuit Terpadu yang terca tat dalam Daftar Umum\nDesain Tata Letak Sirkuit Terpadu tidak memberikan persetujuan secara\ntertulis, yang dilampirkan pada permintaan pembatalan pendaftaran\ntersebut.\n(3) Keputusan pembatalan Hak Desain Tata Letak Sirkuit Terpadu\ndiberitahukan secara tertulis oleh Direktorat Jenderal kepada:\na. Pemegang Hak;\nb. penerima Lisensi jika telah dilisensikan sesuai dengan catatan dalam\nDaftar Umum Desain Tata Letak Sirkuit Terpadu;\nc. pihak yang mengajukan pembatalan dengan menyebutkan bahwa Hak\nDesain Tata Le tak Sirkuit Terpadu yang telah diberikan dinyatakan\ntidak berlaku lagi terhitung sejak tanggal keputusan pembatalan.\n(4) Keputusan pembatalan pendaftaran sebagaimana dimaksud dalam ayat\n(1) dicatatkan dalam Daftar Umum Desain Tata Letak Sirkuit Terpadu dan\ndiumumkan dalam Berita Resmi Desain Tata Letak Sirkuit Terpadu.\nBagian Kedua\nPembatalan Pendaftaran\nBerdasarkan Gugatan"
+   }
+  },
+  {
+   "id": "ID-H1176-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\n(1) Gugatan pembatalan pendaftaran Desain Tata Letak Sirkuit Terpadu\nPRESIDEN\nREPUBLIK INDONESIA\ndapat diajukan oleh pihak yang berkepentingan dengan a lasan\nsebagaimana dimaksud dalam Pasal 2 atau Pasal 3 kepada Pengadilan\nNiaga.\n(2) Putusan Pengadilan Niaga sebagaimana dimaksud dalam ayat (1) tentang\npembatalan pendaftaran Hak Desain Tata Letak Sirkuit Terpadu\ndisampaikan kepada Direktorat Jenderal paling lama 14 (empat belas) hari\nsetelah tanggal putusan diucapkan.\nBagian Ketiga …\nBagian Ketiga\nTata Cara Gugatan"
+   }
+  },
+  {
+   "id": "ID-H1176-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\n(1) Gugatan pembatalan pendaftaran Desain Tata Letak Sirkuit Terpadu\ndiajukan kepada Ketua Pengadilan Niaga dala m wilayah hukum tempat\ntinggal atau domisili tergugat.\n(2) Dalam hal tergugat bertempat tinggal di luar wilayah Indonesia, gugatan\ntersebut diajukan kepada Ketua Pengadilan Niaga Jakarta Pusat.\n(3) Panitera mendaftarkan gugatan pembatalan pada tanggal guga tan yang\nbersangkutan diajukan dan kepada penggugat diberikan tanda terima\ntertulis yang ditandatangani panitera dengan tanggal yang sama dengan\ntanggal pendaftaran gugatan.\n(4) Panitera menyampaikan gugatan pembatalan kepada Ketua Pengadilan\nNiaga dalam j angka waktu paling lama 2 (dua) hari terhitung sejak\ngugatan didaftarkan.\n(5) Dalam jangka waktu paling lama 3 (tiga) hari terhitung sejak tanggal\ngugatan pembatalan didaftarkan, Pengadilan Niaga mempelajari gugatan\ndan menetapkan hari sidang.\n(6) Sidang p emeriksaan atas gugatan pembatalan diselenggarakan dalam\njangka waktu paling lama 60 (enam puluh) hari setelah gugatan\ndidaftarkan.\n(7) Pemanggilan para pihak dilakukan oleh juru sita paling lama 7 (tujuh)\nhari setelah gugatan pembatalan didaftarkan.\n(8) Putusan atas gugatan pembatalan harus diucapkan paling lama 90\n(sembilan puluh) hari setelah gugatan didaftarkan dan dapat diperpanjang\npaling lama 30 (tiga puluh) hari atas persetujuan Ketua Mahkamah\nAgung.\n(9) Putusan atas gugatan pembatalan sebagaimana d imaksud dalam ayat (8)\nyang memuat secara lengkap pertimbangan hukum yang mendasari\nputusan tersebut harus diucapkan dalam sidang terbuka untuk umum\ndan dapat dijalankan terlebih dahulu, meskipun terhadap putusan\ntersebut diajukan suatu upaya hukum.\n(10) Salinan putusan Pengadilan Niaga sebagaimana dimaksud dalam ayat (9)\nwajib disampaikan oleh juru sita kepada para pihak paling lama 14\n(empat belas) hari setelah putusan atas gugatan pembatalan diucapkan.\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H1176-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 32\nTerhadap putusan Pengadilan Niaga sebagaimana dimaksud dalam Pasal 30\nayat (2) hanya dapat dimohonkan kasasi."
+   }
+  },
+  {
+   "id": "ID-H1176-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33 …"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Ketiga"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 33\n(1) Permohonan kasasi sebagaimana dimaksud dalam Pasal 32 diajukan\npaling lama 14 (empat belas) hari setelah tanggal put usan yang\ndimohonkan kasasi diucapkan atau diberitahukan kepada para pihak\ndengan mendaftarkan kepada panitera yang telah memutus gugatan\ntersebut.\n(2) Panitera mendaftar permohonan kasasi pada tanggal permohonan yang\nbersangkutan diajukan dan kepada pemoh on diberikan tanda terima\ntertulis yang ditandatangani oleh panitera dengan tanggal yang sama\ndengan tanggal penerimaan pendaftaran.\n(3) Pemohon kasasi wajib menyampaikan memori kasasi kepada panitera\ndalam waktu 14 (empat belas) hari sejak tanggal permoho nan kasasi\ndidaftarkan sebagaimana dimaksud dalam ayat (1).\n(4) Panitera wajib mengirimkan permohonan kasasi dan memori kasasi\nsebagaimana dimaksud dalam ayat (3) kepada pihak termohon kasasi\npaling lama 2 (dua) hari setelah permohonan kasasi didaftarkan.\n(5) Termohon kasasi dapat mengajukan kontra memori kasasi kepada\npanitera paling lama 7 (tujuh) hari setelah tanggal termohon kasasi\nmenerima memori kasasi sebagaimana dimaksud dalam ayat (4) dan\npanitera wajib menyampaikan kontra memori kasasi kepada pemo hon\nkasasi paling lama 2 (dua) hari setelah kontra memori kasasi diterimanya.\n(6) Panitera wajib menyampaikan permohonan kasasi, memori kasasi\ndan/atau kontra memori kasasi beserta berkas perkara yang\nbersangkutan kepada Mahkamah Agung paling lama 7 (tujuh) hari setelah\nlewatnya jangka waktu sebagaimana dimaksud dalam ayat (5).\n(7) Mahkamah Agung wajib mempelajari berkas permohonan kasasi dan\nmenetapkan hari sidang paling lama 2 (dua) hari setelah tanggal\npermohonan kasasi diterima oleh Mahkamah Agung.\n(8) Sidang pemeriksaan atas permohonan kasasi dilakukan paling lama 60\n(enam puluh) hari setelah tanggal permohonan kasasi diterima oleh\nMahkamah Agung.\n(9) Putusan atas permohonan kas asi harus diucapkan paling lama 90\n(sembilan puluh) hari setelah tanggal per mohonan kasasi diterima oleh\nMahkamah Agung.\n(10) Putusan atas permohonan kasasi sebagaimana dimaksud dalam ayat (9)\nPRESIDEN\nREPUBLIK INDONESIA\nyang memuat secara lengkap pertimbangan hukum yang mendasari\nputusan tersebut harus diucapkan dalam sidang yang terbuka untuk\numum.\n(11) Panitera Mahkamah Agung wajib menyampaikan salinan putusan kasasi\nkepada panitera paling lama 3 (tiga) hari setelah tanggal putusan atas\npermohonan kasasi diucapkan.\n(12) Juru sita wajib menyampaikan salinan putusan kasasi sebagaimana\ndimaksud dalam ayat ( 11) kepada pemohon kasasi dan termohon kasasi\npaling lama 2 (dua) hari setelah putusan kasasi diterima."
+   }
+  },
+  {
+   "id": "ID-H1176-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34 …"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Ketiga"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 34\nDirektorat Jenderal mencatat putusan atas gugatan pembatalan sebagaimana\ndimaksud dalam Pasal 30 ayat (2) yang telah memperoleh kekuatan hukum\ntetap dalam Daftar Umum Desain Tata Letak Sirkuit Terpadu dan\nmengumumkannya dalam Berita Resmi Desain Tata Letak Sirkuit Terpadu.\nBagian Keempat\nAkibat Pembatalan Pendaftaran"
+   }
+  },
+  {
+   "id": "ID-H1176-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 35\nPembatalan pendaftaran Desain Tata Letak Sirkuit Terp adu menghapuskan\nsegala akibat hukum yang berkaitan dengan Hak Desain Tata Letak Sirkuit\nTerpadu dan hak -hak lain yang berasal dari Desain Tata Letak Sirkuit\nTerpadu."
+   }
+  },
+  {
+   "id": "ID-H1176-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 36\n(1) Dalam hal pendaftaran Desain Tata Letak Sirkuit Terpadu dibatalkan\nberdasarkan gugatan sebagaimana dimaksud dalam Pasal 30, penerima\nLisensi tetap berhak melaksanakan Lisensinya sampai dengan\nberakhirnya jangka waktu yang ditetapkan dalam perjanjian Lisensi.\n(2) Penerima Lisensi sebagaimana dimaksud dalam ayat (1) tidak lagi waj ib\nmeneruskan pembayaran royalti yang seharusnya masih wajib\ndilakukannya kepada Pemegang Hak yang haknya dibatalkan, tetapi wajib\nmengalihkan pembayaran royalti untuk sisa jangka waktu Lisensi yang\ndimilikinya kepada Pemegang Hak yang sebenarnya.\nBAB VI\nBIAYA"
+   }
+  },
+  {
+   "id": "ID-H1176-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 37\n(1) Untuk setiap pengajuan Permohonan, permintaan petikan Daftar Umum\nPRESIDEN\nREPUBLIK INDONESIA\nDesain Tata Letak Sirkuit Terpadu, permintaan salinan Sertifikat Desain\nTata Letak Sirkuit Terpadu, pencatatan pengalihan Hak Desain Tata Letak\nSirkuit Terpadu, pencatat an perjanjian Lisensi Desain Tata Letak Sirkuit\nTerpadu, serta permintaan lain yang ditentukan dalam Undang -undang\nini dikenai biaya yang jumlahnya ditetapkan dengan Peraturan\nPemerintah.\n(2) Ketentuan lebih lanjut mengenai persyaratan, jangka waktu, dan tata cara\npembayaran biaya sebagaimana dimaksud dalam ayat (1) diatur dengan\nKeputusan Presiden.\n(3) Direktorat Jenderal dengan persetujuan Menteri Keuangan dapat\nmengelola sendiri biaya sebagaimana dimaksud dalam ayat (1) dan ayat\n(2) berdasarkan peraturan perundang-undangan yang berlaku.\nBAB VII …\nBAB VII\nPENYELESAIAN SENGKETA"
+   }
+  },
+  {
+   "id": "ID-H1176-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 38\n(1) Pemegang Hak atau penerima Lisensi Desain Tata Letak Sirkuit Terpadu\ndapat menggugat siapa pun yang dengan sengaja dan tanpa hak\nmelakukan perbuatan sebagaimana dimaksud dalam Pasal 8, berupa:\na. gugatan ganti rugi; dan/atau\nb. penghentian semua perbuatan sebagaimana dimaksud dalam Pasal 8.\n(2) Gugatan sebagaimana dimaksud dalam ayat (1) diajukan ke Pengadilan\nNiaga."
+   }
+  },
+  {
+   "id": "ID-H1176-A39",
+   "no": 39,
+   "noLabel": {
+    "id": "Pasal 39"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 39\nSelain penyelesaian gugatan sebagaimana dimaksud dalam Pasal 38 para\npihak dapat menyelesaikan perselisihan tersebut melalui arbitrase atau\nalternatif penyelesaian sengketa."
+   }
+  },
+  {
+   "id": "ID-H1176-A40",
+   "no": 40,
+   "noLabel": {
+    "id": "Pasal 40"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 40\nTata cara gugatan sebagaimana diatur dalam Pasal 31 dan Pasal 33 berlak u\nsecara mutatis mutandis terhadap gugatan sebagaimana dimaksud dalam\nPasal 38.\nBAB VIII\nPENYIDIKAN"
+   }
+  },
+  {
+   "id": "ID-H1176-A41",
+   "no": 41,
+   "noLabel": {
+    "id": "Pasal 41"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 41\n(1) Selain Penyidik Pejabat Polisi Negara Republik Indonesia, Penyidik Pejabat\nPegawai Negeri Sipil di lingkungan departemen yang lingkup tugas dan\ntanggung jawabnya meliputi Hak Kekayaan Intelektual diberi wewenang\nPRESIDEN\nREPUBLIK INDONESIA\nkhusus sebagai penyidik sebagaimana dimaksud dalam Undang -Undang\nNomor 8 Tahun 1981 tentang Hukum Acara Pidana untuk melakukan\npenyidikan tindak pidana di bidang Desain Tata Letak Sirkuit Terpadu.\n(2) Penyidik sebagaimana dimaksud dalam ayat (1) berwenang:\na. melakukan pemeriksaan atas kebenaran pengaduan atau keterangan\nberkenaan dengan tindak pidana di bidang Desain Tata Letak Sirkuit\nTerpadu;\nb. melakukan pemeriksaan terhadap pihak yang melakukan tindak\npidana di bidang Desain Tata Letak Sirkuit Terpadu;\nc. meminta keterangan dan bahan bukti dari para pihak sehubungan\ndengan peristiwa tindak pidana di bidang Desain Tata Letak Sirkuit\nTerpadu;\nd. melakukan …\nd. melakukan pemeriksaan atas pembukuan, pencatataan dan dokumen\nlain yang berkenaan dengan tindak pidana di bidang Desain Tata\nLetak Sirkuit Terpadu;\ne. melakukan pemeriksaan di tempat tertentu yang diduga terdapat\nbarang bukti pembukuan, pencatatan dan dokumen lain;\nf. melakukan penyitaan terhadap bahan dan/atau barang hasil\npelanggaran yang dapat dijadikan bukti dalam perkara tindak pidana\ndi bidang Desain Tata Letak Sirkuit Terpadu; dan/atau\ng. meminta bantuan ahli dalam rangka pelaksanaan tugas penyidi kan\ntindak pidana di bidang Desain Tata Letak Sirkuit Terpadu.\n(3) Penyidik Pegawai Negeri Sipil sebagaimana dimaksud dalam ayat (1)\ndalam tugasnya memberitahukan dimulainya penyidikan dan melaporkan\nhasil penyidikannya kepada Penyidik Pejabat Polisi Negar a Republik\nIndonesia.\n(4) Dalam hal penyidikan sudah selesai, Penyidik Pejabat Pegawai Negeri Sipil\nsebagaimana dimaksud dalam ayat (1) menyampaikan hasil\npenyidikannya kepada Penuntut Umum melalui Penyidik Pejabat Polisi\nNegara Republik Indonesia dengan m engingat ketentuan Pasal 107\nUndang-Undang Hukum Acara Pidana.\nBAB IX\nKETENTUAN PIDANA"
+   }
+  },
+  {
+   "id": "ID-H1176-A42",
+   "no": 42,
+   "noLabel": {
+    "id": "Pasal 42"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 42\n(1) Barang siapa dengan sengaja dan tanpa hak melakukan salah satu\nperbuatan sebagaimana dimaksud dalam Pasal 8 dipidana dengan pidana\npenjara paling lama 3 (tiga) tahun dan/atau denda paling banyak Rp\n300.000.000,00 (tiga ratus juta rupiah).\n(2) Barang siapa dengan sengaja melakukan perbuatan sebagaimana\ndimaksud dalam Pasal 7, Pasal 19, atau Pasal 24 dipidana dengan pidana\nPRESIDEN\nREPUBLIK INDONESIA\npenjara paling lama 1 (satu) tahun dan/atau denda paling banyak Rp\n45.000.000,00 (empat puluh lima juta rupiah).\n(3) Tindak pidana sebagaimana dimaksud dalam ayat (1) dan ayat (2)\nmerupakan delik aduan.\nBAB X\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H1176-A43",
+   "no": 43,
+   "noLabel": {
+    "id": "Pasal 43"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 43\nUndang-undang ini mulai berlaku pada tanggal diundangkan.\nAgar …\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nUndang-undang ini dengan penempatannya dalam Lembaran Negara Republik\nIndonesia.\nDisahkan di Jakarta\npada tanggal 20 Desember 2000\nPRESIDEN REPUBLIK INDONESIA,\nttd\nABDURRAHMAN WAHID\nDiundangkan di Jakarta\npada tanggal 20 Desember 2000\nSEKRETARIS NEGARA REPUBLIK INDONESIA,\nttd\nDJOHAN EFFENDI\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2000 NOMOR 244"
+   }
+  }
+ ]
+}

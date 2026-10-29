@@ -1,0 +1,810 @@
+{
+ "id": "ID-H879",
+ "title": {
+  "zh": "地方税法",
+  "en": "tax regional Law",
+  "id": "pajak daerah",
+  "orig": "PAJAK DAERAH",
+  "vi": "Luật thuế địa phương",
+  "th": "พระราชบัญญัติ ภาษี ท้องถิ่น",
+  "ms": "Akta pajak daerah"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02b",
+ "language": "id",
+ "level": "law",
+ "category": "02_民商事与经济法",
+ "status": "active",
+ "promulgatedDate": "1997",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU19-1997",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 54,
+ "chars": 37150,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PP0191997.pdf&fl=P04028"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\02_民商事与经济法\\印尼_文本_1997_PAJAK DAERAH.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 54 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H879-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\nDalam Peraturan Pemerintah ini yang dimaksud dengan:\n1. Pajak adalah Pajak Daerah menurut Undang -undang Nomor 18\nTahun 1997 tentang Pajak Daerah dan Retribusi Daerah;\n2. Kendaraan bermotor adalah semua kendaraan beroda dua dan atau\nlebih beserta gandengannya yang digunakan di jalan umum, d an\ndigerakkan oleh peralatan teknik berupa motor atau peralatan\nlainnya yang berfungsi untuk mengubah suatu sumber daya energi\ntertentu menjadi tenaga gerak kendaraan bermotor yang\nbersangkutan, tidak termasuk alat-alat berat dan alat-alat besar;\n3. Penyerahan kendaraan bermotor adalah penyerahan hak milik\nkendaraan bermotor sebagai perjanjian dua pihak atau perbuatan\nsepihak atau kendaraan yang terjadi karena jual beli, tukar menukar,\nhibah termasuk hibah wasiat dan hadiah, warisan, atau pemasukan\nke dalam badan usaha;\n4. Hotel…\nPRESIDEN\nREPUBLIK INDONESIA\n4. Hotel adalah bangunan yang khusus d isediakan bagi orang untuk\ndapat menginap/istirahat, memperoleh pelayanan, dan atau fasilitas\nlainnya dengan dipungut bayaran, termasuk bangunan lainnya yang\nmenyatu, dikelola dan dimiliki oleh pihak yang sama, kecuali untuk\npertokoan dan perkantoran;\n5. Restoran atau rumah makan adalah tempat menyantap makanan dan\natau minuman yang disediakan dengan dipungut bayaran, tidak\ntermasuk usaha jasa boga atau katering;\n6. Hiburan adalah semua jenis pertunjukan, permainan, dan atau\nkeramaian dengan nama dan bentu k apapun apapun yang ditonton\natau dinikmati oleh setiap orang dengan dipungut bayaran, tidak\ntermasuk penggunaan fasilitas untuk berolah raga;\n7. Pembayaran adalah jumlah yang diterima atau seharusnya diterima\nsebagai imbalan atas penyerahan barang atau j asa sebagai\npembayaran kepada pemilik hotel, rumah makan, atau\npenyelenggara hibusar;\n8. Reklame adalah benda, alat, perbuatan atau media yang menurut\nbentuk susunan dan corak ragamnya untuk tujuan komersial,\ndipergunakan untuk memperkenalkan, menganjurkan atau\nmemujikan suatu barang, jasa atau orang, ataupun untuk menarik\nperhatian umum kepada suatu barang, jasa atau orang yang\nditempatkan atau yang dapat dilihat, dibaca, dan atau didengar dari\nsuatu tempat oleh umum, kecuali yang dilakukan oleh Pemerintah;\n9. Penerangan Jalan adalah penggunaan tenaga listrik untuk menerangi\njalan umum yang rekeningnya dibayar oleh Pemerintah Daerah;\n10. Bahan galian Golongan C adalah bahan galian golongan C\nsebagaimana dimaksud dalam peraturan perundang -undangan yang\nberlaku;\n11. Air bawah tanah adalah air yang berada diperut bumi, termasuk\nmata air yang muncul secara alamiah di atas permukaan tanah;\n12. Air permukaan adalah air yang berada di atas permukaan bumi,\ntidak termasuk air laut.\nBAB II…\nPRESIDEN\nREPUBLIK INDONESIA\nBAB II\nPAJAK KENDARAAN BERMOTOR"
+   }
+  },
+  {
+   "id": "ID-H879-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\n(1) Objek Pajak Kendaraan Bermotor adalah kepemilikan dan atau\npenguasaan kendaraan bermotor, tidak termasuk kepemilikan dan\natau penguasaan kendaraan bermotor alat -alat berat dan alat -alat\nbesar yang tidak dipergunakan sebagai alat angkutan orang dan atau\nbarang di jalan umum.\n(2) Dikecualikan sebagai objek Pajak Kendaraan Bermotor adalah\nkepemilikan dan atau penguasaan kendaraan bermotor oleh:\na. Pemerintah Pusat dan Pemerintah Daerah;\nb. Kedutaan, konsulat, perwakilan negara asing, dan perwakilan\nlembaga-lembaga internasional dengan asas timbal balik\nsebagaimana berlaku untuk pajak negara;\nc. Subjek Pajak lainnya yang diatur dengan Peraturan Daerah."
+   }
+  },
+  {
+   "id": "ID-H879-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\n(1) Subjek Pajak Kendaraan Bermotor adalah orang pribadi atau badan\nyang memiliki dan atau menguasai kendaraan bermotor.\n(2) Wajib Pajak kendaraan Bermotor adalah orang pribadi atau badan\nyang memiliki kendaraan bermotor."
+   }
+  },
+  {
+   "id": "ID-H879-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\n(1) Dasar pengenaan Pajak Kendaraan Bermotor di hitung sebagai\nperkalian dari dua unsur pokok:\na. Nilai Jual Kendaraan Bermotor;\nb. Bobot yang mencerminkan secara relatif kadar kerusakan jalan\ndan pencemaran lingkungan akibat penggunaan kendaraan\nbermotor.\n(2) Nilai Jual Kendaraan Bermotor diperoleh b erdasarkan harga\npasaran umum atas suatu kendaraan bermotor.\n(3) Dalam hal harga pasaran umum atas suatu kendaraan bermotor\ntidak diketahui, Nilai Jual Kendaraan Bermotor ditentukan\nberdasarkan faktor-faktor:\na. isi...\nPRESIDEN\nREPUBLIK INDONESIA\na. isi silinder dan atau satuan daya;\nb. penggunaan kendaraan bermotor;\nc. jenis kendaraan bermotor;\nd. merek kendaraan bermotor;\ne. tahun pembuatan kendaraan bermotor;\nf. berat total kendaraan bermotor dan banyaknya penumpang yang\ndiizinkan;\ng. dokumen impor untuk jenis kendaraan tertentu;\n(4) Bobot sebagaimana dimaksud pada ayat (1) huruf b dihitung\nberdasarkan faktor-faktor:\na. tekanan gandar;\nb. jenis bahan bakar kendaraan bermotor;\nc. jenis, penggunaan, tahun pembuatan, dan ciri -ciri mesin dari\nkendaraan bermotor.\n(5) Bobot berdasarkan penggunaan sebagaimana dimaksud pada ayat\n(4) huruf c untuk kendaraan umum ditetapkan lebih rendah dari\nkendaraan pribadi.\n(6) Penghitungan dasar pengenaan Pajak Kendaraan Bermotor\nsebagaimana dimaksud pada ayat (1), ayat (2), ayat (3), ayat (4) dan\nayat (5), dinyatakan dalam suatu tabel yang ditetapkan oleh Menteri\nDalam Negeri dengan pertimbangan Menteri Keuangan.\n(7) Dalam hal dasar pengenaan Pajak Kendaraan Bermotor belum\ntercantum dalam tabel sebagaimana dimaksu d pada ayat (5),\nGubernur Kepala Daerah Tingkat I menetapkan dasar pengenaan\nPajak Kendaraan Bermotor dimaksud, dan memberitahukan kepada\nMenteri Dalam Negeri.\n(8) Tabel sebagaimana dimaksud pada ayat (6) ditinjau kembali setiap\ntahun."
+   }
+  },
+  {
+   "id": "ID-H879-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\nTarif Pajak Kendaraan Bermotor ditetapkan sebesar 1,5% (satu setengah\npersen)."
+   }
+  },
+  {
+   "id": "ID-H879-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6…"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 6\n(1) Besarnya Pajak Kendaraan Bermotor yang terutang dihitung dengan\ncara mengalikan tarif sebagaimana dimaksud dalam Pasal 5 dengan\ndasar pengenaan pajak sebagaimana dimaksud dalam Pasal 4 ayat\n(5), ayat (6) dan ayat (7).\n(2) Pajak Kendaraan Bermotor yang terutang dipungut di wilayah\nDaerah tempat kendaraan bermotor terdaftar."
+   }
+  },
+  {
+   "id": "ID-H879-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\n(1) Pajak Kendaraan Bermotor dikenakan untuk masa pajak 12 (dua\nbelas) bulan berturut -turut terhitung mulai saat pendaftaran\nkendaraan bermotor.\n(2) Pajak Kendaraan Bermotor dibayar sekaligus di muka.\nBAB III\nBEA BALIK NAMA KENDARAAN BERMOTOR"
+   }
+  },
+  {
+   "id": "ID-H879-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n(1) Objek Pajak Bea Balik Nama Kendaraan Bermotor adalah\npenyerahan kendaraan bermotor.\n(2) Termasuk penyerahan kendaraan bermotor sebagaimana dimaksud\npada ayat (1) adalah pemasukan kendaraan bermotor da ri luar\nnegeri untuk dipakai secara tetap di Indonesia, kecuali:\na.Untuk dipakai sendiri oleh orang yang bersangkutan;\nb. untuk diperdagangkan;\nc. untuk dikeluarkan kembali dari wilayah pabean Indonesia;\nd. digunakan untuk pameran, penelitian, contoh, dan kegiatan oleh\nraga bertaraf internasional\n(3) Dikecualikan sebagai objek pajak Bea Balik Nama Kendaraan\nBermotor sebagaimana dimaksud pada ayat (1) adalah penyerahan\nkendaraan bermotor kepada:\na. Pemerintah Pusat dan Pemerintah Daerah;\nb. Kedutaan, konsulat, perwakilan asing, dan lembaga -lembaga\ninternasional dengan asas timbal balik sebagaimana yang berlaku\nuntuk pajak negara;\nc. Subjek Pajak lainnya yang ditetapkan dengan Peraturan Daerah."
+   }
+  },
+  {
+   "id": "ID-H879-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9…"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 9\n(1) Subjek Pajak Bea Balik N ama Kendaraan Bermotor adalah orang\npribadi atau badan yang dapat menerima penyerahan kendaraan\nbermotor.\n(2) Wajib Pajak Bea Balik Nama Kendaraan Bermotor adalah orang\npribadi atau badan yang dapat menerima penyerahan kendaraan\nbermotor"
+   }
+  },
+  {
+   "id": "ID-H879-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\nDasar pengenaan Bea Balik Nama Kendaraan Bermotor adalah Nilai Jual\nKendaraan Bermotor sebagaimana dimaksud dalam Pasal 4 ayat (1) huruf\na, jo ayat (2), atau ayat (3)."
+   }
+  },
+  {
+   "id": "ID-H879-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\n(1) Tarif Bea Balik Nama Kendaraan Bermotor atas penyerahan\npertama ditetapkan sebesar 10% (sepuluh persen).\n(2) Tarif Bea Balik Nama Kendaraan Bermotor atas penyerahan kedua\ndan selanjutnya ditetapkan sebesar 1% (satu persen).\n(3) Tarif Bea Balik Nama Kendara an Bermotor atas penyerahan karena\nwarisan ditetapkan sebesar 0,1% (satu persepuluh persen)."
+   }
+  },
+  {
+   "id": "ID-H879-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n(1) Pajak Bea Balik Nama Kendaraan Bermotor yang terutang dihitung\ndengan cara mengalikan tarif sebagaimana dimaksud dalam pasal\n11 ayat (1) atau ayat ( 2) dengan dasar pengenaan pajak\nsebagaimana dalam Pasal 10.\n(2) Bea Balik Nama Kendaraan Bermotor yang terutang dipungut di\nwilayah Daerah tempat kendaraan bermotor didaftarkan.\n(3) Pembayaran Bea Balik Nama Kendaraan Bermotor dilakukan pada\nsaat pendaftaran.\n(4) Ketentuan lebih lanjut mengenai pelaksanan pemungutan Bea Balik\nNama Kendaraan Bermotor ditetapkan dalam Keputusan Menteri\nDalam Negeri."
+   }
+  },
+  {
+   "id": "ID-H879-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13…"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 13\nWajib Pajak Bea Balik Nama Kendaraan Bermotor wajib mendaftarkan\npenyerahan kendaraan bermotor dalam jangka waktu paling lambat 30\n(tiga puluh) hari sejak penyerahan."
+   }
+  },
+  {
+   "id": "ID-H879-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\nOrang pribadi atau badan yang menyerahkan kendaraan bermotor\nmelaporkan secara tertulis penyerahan tersebut kepada Kepala Daerah\natau pejabat yang ditunjuk dalam jangka waktu 30 (tiga puluh) hari sejak\nsaat penyerahan.\nBAB IV\nPAJAK HOTEL DAN RESTORAN"
+   }
+  },
+  {
+   "id": "ID-H879-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\n(1) Objek Pajak Hotel dan Restoran adalah pelayanan yang disediakan\ndengan pembayaran di hotel dan atau restoran, termasuk:\na. fasilitas penginapan atau fasilitas tinggal jangka pendek;\nb. Pelayanan penunjang sebagai kelengkapan fasilitas penginapan\natau tin ggal jangka pendek yang sifatnya memberikan\nkemudahan dan kenyamanan;\nc. fasilitas olah raga dan hiburan yang disediakan khusus untuk\ntamu hotel bukan untuk umum;\nd. Jasa persewaan ruangan untuk kegiatan acara atau pertemuan di\nhotel;\ne. penjualan makan an dan atau minuman ditempat yang\ndisertai dengan fasilitas penyantapannya.\n(2) Tidak termasuk objek pajak sebagaimana dimaksud dalam ayat (1)\nadalah:\na. penyewaan rumah atau kamar, apartemen, dan atau fasilitas\ntempat tinggal lainnya yang tidak menyatu dengan hotel;\nb. pelayanan tinggal di asrama, dan pondok pesantren;\nc. fasilitas olah raga dan hiburan yang disediakan di hotel yang\ndipergunakan oleh bukan tamu hotel dengan pembayaran;\nd. pertokoan,...\nPRESIDEN\nREPUBLIK INDONESIA\nd. pertokoan, perkantoran, perbankan, salon yang dipergunakan\noleh umum di hotel;\ne. pelayanan perjalanan wisata yang diselenggarakan oleh hotel dan\ndapat dimanfaatkan oleh umum;\nf. pelayanan usaha jasa boga/katering;\ng. pelayanan yang disediakan oleh restoran atau rumah makan yang\nperedarannya tidak melebihi batas tertentu yang ditetapkan\ndengan Peraturan Daerah."
+   }
+  },
+  {
+   "id": "ID-H879-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\n(1) Subjek Pajak Hotel dan restoran adalah orang pribadi atau badan\nyang melakukan pembayaran atas pelayanan hotel dan atau restoran.\n(2) Wajib Pajak Hotel dan Restoran adalah pengusaha hotel dan atau\nrestoran."
+   }
+  },
+  {
+   "id": "ID-H879-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\nDasar pengenaan Pajak Hotel dan Restoran adalah jumlah pembayaran\nyang dilakukan kepda hotel dan atau restoran."
+   }
+  },
+  {
+   "id": "ID-H879-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\n(1) Tarif Pajak Hotel dan Restoran paling tin ggi sebesar 10% (sepuluh\npersen).\n(2) Tarif Pajak Hotel dan Restoran sebagaimana dimaksud pada ayat\n(1) ditetapkan dengan Peraturan Daerah."
+   }
+  },
+  {
+   "id": "ID-H879-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\n(1) Besarnya Pajak Hotel dan Restoran yang terutang dihitung dengan\ncara mengalika n tarif sebagaimana dimaksud dalam Pasal 18 ayat\n(2) dengan dasar pengenaan pajak sebagaimana dimaksud dalam\nPasal 17.\n(2) Pajak Hotel dan Restoran yang terutang dipungut di Wilayah\nDaerah tempat hotel dan atau restoran berlokasi.\nBAB V…\nPRESIDEN\nREPUBLIK INDONESIA\nBAB V\nPAJAK HIBURAN"
+   }
+  },
+  {
+   "id": "ID-H879-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\nObjek Pajak Hiburan adalah penyelenggaraan hiburan."
+   }
+  },
+  {
+   "id": "ID-H879-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\n(1) Subjek Pajak Hiburan adalah orang pribadi atau badan yang\nmenonton dan atau menikmati hiburan.\n(2) Wajib Pajak Hiburan adalah orang pribadi atau badan yang\nmenyelenggarakan hiburan."
+   }
+  },
+  {
+   "id": "ID-H879-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\nDasar pengenaan Pajak Hiburan adalah jumlah pembayaran atau yang\nseharusnya dibayar untuk menonton dan atau menikmati hiburan."
+   }
+  },
+  {
+   "id": "ID-H879-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\n(1) Tarif Pajak Hiburan paling tinggi sebesar 35% (tiga puluh lima\npersen).\n(2) Tarif Pajak Hiburan sebagaimana dimaksud pada ayat (1)\nditetapkan dengan Peraturan Daerah."
+   }
+  },
+  {
+   "id": "ID-H879-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 24\n(1) Besarnya Pajak Hiburan yang terutang dihitung dengan cara\nmengalikan tarif sebagaimana dimaksud dalam Pasal 23 ayat (2)\ndengan dasar pengenaan pajak s ebagaimana dimaksud dalam Pasal\n22.\n(2) Pajak Hiburan yang terutang dipungut di wilayah daerah tempat\nhiburan diselenggarakan.\nBAB VI…\nPRESIDEN\nREPUBLIK INDONESIA\nBAB VI\nPAJAK REKLAME"
+   }
+  },
+  {
+   "id": "ID-H879-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\n(1) Objek Pajak Reklame adalah semua penyelenggaraan reklame.\n(2) Tidak termasuk sebagai objek pajak Reklame adalah:\na. penyelenggaraan reklame melalui televisi, radio, warta harian,\nwarta mingguan, warta bulanan dan sejenisnya;\nb. penyelenggaraan reklame lainnya yang ditetapkan dengan\nPeraturan Daerah."
+   }
+  },
+  {
+   "id": "ID-H879-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\n(1) Subjek Pajak Reklame adalah orang pribadi atau badan yang\nmenyelenggarakan atau memesan reklame.\n(2) Wajib Pajak Reklame adalah orang pribadi atau badan yang\nmenyelenggaraan reklame."
+   }
+  },
+  {
+   "id": "ID-H879-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\n(1) Dasar pengenaan Pajak Reklame adalah nilai sewa reklame.\n(2) Pedoman lebih lanjut tentang cara penghitungan nilai sewa reklame\nditetapkan Menteri Dalam Negeri dengan pertimbangan\nMenteri Keuangan.\n(3) Cara perhitungan nilai sewa reklame sebagaimana dimaksud pada\nayat (2) ditetapkan dengan Peraturan Daerah.\n(4) Hasil perhitungan nilai sewa reklame sebagaimana dimaksud pada\nayat (3) ditetapkan dengan keputusan Kepala Daerah."
+   }
+  },
+  {
+   "id": "ID-H879-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\n(1) Tarif Pajak Reklame paling tinggi sebesar 25% (dua puluh lima\npersen).\n(2) Tarif Pajak Reklame sebagaimana dimaksud pada ayat (1)\nditetapkan dengan Peraturan Daerah."
+   }
+  },
+  {
+   "id": "ID-H879-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29…"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 29\n(1) Besarnya Pajak Reklame yang terutang dihitung dengan cara\nmengalikan tarif sebagaimana dimaksud dalam Pasal 28 ayat (2)\ndengan dasar pengenaan pajak sebagaimana dimaksud dalam Pasal\n27.\n(2) Pajak Reklame yang terutang dipungut di wilayah Daerah tempat\nreklame tersebut diselenggarakan.\nBAB VII\nPAJAK PENERANGAN JALAN"
+   }
+  },
+  {
+   "id": "ID-H879-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\n(1) Objek Pajak Penerangan Jalan adalah penggunaan tenaga listrik, di\nwilayah daerah yang tersedia penerangan jalan yang rekeningnya\ndibayar oleh Pemerintah Daerah.\n(2) Dikecualikan d ari objek Pajak Penerangan Jalan sebagaimana\ndimaksud pada ayat (1) adalah:\na. penggunaan tenaga listrik oleh instansi Pemerintah Pusat dan\nPemerintah Daerah;\nb. penggunaan tenaga listrik pada tempat -tempat yang digunakan\noleh kedutaan, konsulat, perwakilan asing, dan lembaga -lembaga\ninternasional dengan asas timbal balik sebagaimana berlaku\nuntuk pajak negara;\nc. penggunaan tenaga listrik yang berasal dari bukan PLN dengan\nkapasitas tertentu yang tidak memerlukan izin dari instansi teknis\nterkait;\nd. penggunaan tenaga listrik lainnya yang diatur dengan Peraturan\nDaerah."
+   }
+  },
+  {
+   "id": "ID-H879-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\n(1) Subjek Pajak Penerangan Jalan adalah orang pribadi atau badan\nyang menggunakan tenaga listrik.\n(2) Wajib Pajak Penerangan Jalan adalah orang pribadi atau badan yang\nmenjadi pelanggan listrik dan atau pengguna tenaga listrik."
+   }
+  },
+  {
+   "id": "ID-H879-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32…"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 32\n(1) Dasar pengenaan Pajak Penerangan Jalan adalah Nilai Jual Tenaga\nListrik.\n(2) Nilai Jual Tenaga Listrik sebagaimana dima ksud pada ayat (1)\nditetapkan:\na. dalam hal tenaga listrik berasal dari PLN dan bukan PLN dengan\npembayaran, Nilai Jual Tenaga Listrik adalah besarnya tagihan\nbiaya penggunaan listrik/rekening listrik;\nb. dalam hal tenaga listrik berasal dari bukan PLN d engan tidak\ndipungut bayaran, Nilai Jual Tenaga Listrik dihitung berdasarkan\nkapasitas tersedia, penggunaan listrik atau taksiran penggunaan\nlistrik, dan harga satuan listrik yang berlaku diwilayah daerah\nyang bersangkutan."
+   }
+  },
+  {
+   "id": "ID-H879-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 33\n(1) Tarif Pajak Penerangan Jalan paling tinggi sebesar 10% (sepuluh\npersen).\n(2) Tarif Pajak Penerangan Jalan sebagaimana dimaksud pada ayat (1)\nditetapkan dengan Peraturan Daerah."
+   }
+  },
+  {
+   "id": "ID-H879-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 34\n(1) Besarnya Pajak Penerangan Jalan yang terutang dihitung dengan\ncara mengalikan tarif sebagaimana dimaksud dalam Pasal 33 ayat\n(2) dengan dasar pengenaan pajak sebagaimana dimaksud dalam\nPasal 32.\n(2) Pajak Penerangan Jalan yang terutang dipungut di wilayah daerah\ntempat penggunaan tenaga listrik.\nBAB VIII\nPAJAK PENGAMBILAN DAN PENGOLAHAN BAHAN GALIAN GOLONGAN C"
+   }
+  },
+  {
+   "id": "ID-H879-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 35\n(1) Objek Pajak Pengambilan dan Pengolahan Badan Galian Golongan\nC adalah kegiatan exploitasi bahan galian golongan C.\n(2) Bahan galian golongan C sebagaimana dimaksud pada ayat (1)\nmeliputi:\na. asbes;...\nPRESIDEN\nREPUBLIK INDONESIA\na. asbes;\nb. batu tulis;\nc. batu setengah permata;\nd. batu kapur;\ne. batu apung;\nf. batu permata;\ng. bentonit;\nh. dolomit;\ni. feldspar;\nj. garam batu (halite);\nk. grafit;\nl. granit;\nm. gips;\nn. kalsit;\no. kaolin;\np. leusit;\nq. magnesit;\nr. mika;\ns. marmer;\nt. nitrat;\nu. opsidien;\nv. oker;\nw. pasir dan kerikil;\nx. pasir kuarsa;\ny. perlit;\nz. phosphat;\naa. talk;\nab. tanah serap (fullers earth);\nac. tanah diatome;\nad. tanah liat;\nae. tawas (alum);\naf. tras;...\nPRESIDEN\nREPUBLIK INDONESIA\naf. tras;\nag. yarosif;\nah. zeolit."
+   }
+  },
+  {
+   "id": "ID-H879-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 36\n(1) Subjek Pajak Pengambilan dan Pengolahan Bahan Galian Golongan\nC adalah orang pribadi atau badan yang mengeksploitasi atau\nmengambil bahan galian golongan C.\n(2) Wajib Pajak Pengambilan dan Pengolahan Bah an Galian Golongan\nC adalah orang pribadi atau badan yang menyelenggarakan\neksploitasi bahan galian golongan C."
+   }
+  },
+  {
+   "id": "ID-H879-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 37\n(1) Dasar pengenaan Pajak Pengambilan dan Pengolahan Bahan galian\nGolongan C adalah nilai jual hasil eksploitasi bahan galian\ngolongan C.\n(2) Nilai jual sebagaimana dimaksud pada ayat (1) dihitung dengan\nmengalikan volume/tonase hasil eksploitasi nilai pasar atau harga\nstandar masing-masing jenis bahan galian golongan C."
+   }
+  },
+  {
+   "id": "ID-H879-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 38\n(1) Tarif Pajak Pengembalian dan Pengolahan bahan Galia n Golongan\nC paling tinggi sebesar 20% (dua puluh persen).\n(2) Tarif Pajak Pengambilan dan Pengolah bahan Galian Golongan C\nsebagaimana dimaksud pada ayat (1) ditetapkan dengan Peraturan\nDaerah."
+   }
+  },
+  {
+   "id": "ID-H879-A39",
+   "no": 39,
+   "noLabel": {
+    "id": "Pasal 39"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 39\n(1) Besarnya Pajak Pengambilan dan Pengolahan bahan Galian\nGolongan C yang terutang dihitung dengan cara mengalikan tarif\npajak sebagaimana dimaksud dalam Pasal 38 ayat (2) dengan dasar\npengenaan pajak sebagaimana dimaksud dalam Pasal 37.\n(2) Pajak Pengambilan dan Pengolahan bahan Galian Golongan C yang\nterutang dipungut di wilayah daerah tempat eksploitasi bahan galian\ngolongan C.\nBAB IX\nPRESIDEN\nREPUBLIK INDONESIA\nBAB IX\nPAJAK PEMANFAATAN AIR BAWAH TANAH DAN AIR PERMUKAAN"
+   }
+  },
+  {
+   "id": "ID-H879-A40",
+   "no": 40,
+   "noLabel": {
+    "id": "Pasal 40"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 40\n(1) Objek Pajak Pemanfaatan Air Bawah Tanah dan Ai r Permukaan\nadalah:\na. pengambilan air bawah tanah;\nb. pengambilan air permukaan.\n(2) Dikecualikan dari objek Pajak Pemanfaatan Air Bawah Tanah dan\nAir Permukaan adalah:\na. pengambilan air bawah tanah dan atau air permukaan oleh\nPemerintah Pusat dan Pemerintah Daerah;\nb. pengambilan air permukaan oleh Badan Usaha Milik Negara\nyang khusus didirikan untuk menyelenggarakan usaha eksploitasi\ndan pemeliharaan pengairan serta mengusahakan air dan\nsumber-sumber air;\nc. pengambilan air bawah dan atau air permu kaan untuk\nkepentingan pengairan pertanian rakyat;\nd. pengambilan air bawah tanah dan atau air permukaan untuk\nkeperluan dasar rumah tangga;\ne. pengambilan air bawah dan atau air permukaan lainnya yang\ndiatur dengan Peraturan Daerah."
+   }
+  },
+  {
+   "id": "ID-H879-A41",
+   "no": 41,
+   "noLabel": {
+    "id": "Pasal 41"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 41\n(1) Subjek Pajak Pemanfaatan Air Bawah Tanah dan air Permukaan\nadalah orang pribadi atau badan yang mengambil dan atau\nmemanfaatkan air bawah tanah dan atau air permukaan.\n(2) Wajib Pajak Pemanfaatan Air Bawah Tanah dan Air Permukaan\nadalah orang pribadi atau badan yang mengambil air bawah tanah\ndan air permukaan."
+   }
+  },
+  {
+   "id": "ID-H879-A42",
+   "no": 42,
+   "noLabel": {
+    "id": "Pasal 42"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 42\n(1) Dasar pengenaan Pajak Pemanfaatan Air Bawah Tanah dan Air\nPermukaan adalah nilai perolehan air.\n(2) Nilai perolehan air sebagaimana dimaksud pada ayat (1) dinyatakan\ndalam rupiah yang d ihitung menurut sebagian atau seluruh\nfaktor-faktor:\na. jenis...\nPRESIDEN\nREPUBLIK INDONESIA\na. jenis sumber air;\nb. lokasi sumber air;\nc. volume air yang diambil;\nd. kualitas air;\ne. luas areal tempat pemakaian air;\nf. musim pengambilan air;\ng. tingkat kerusakan lingkungan y ang diakibatkan oleh\npengambilan air atau pemanfaatan air.\n(3) Cara penghitungan nilai perolehan air sebagaimana dimaksud\npada ayat (2) ditetapkan dengan Peraturan Daerah.\n(4) Hasil perhitungan nilai perolehan air sebagaimana dimaksud pada\nayat (2) dan ayat (3) ditetapkan dengan Keputusan Kepala Daerah."
+   }
+  },
+  {
+   "id": "ID-H879-A43",
+   "no": 43,
+   "noLabel": {
+    "id": "Pasal 43"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 43\n(1) Tarif Pajak Pemanfaatan Air Bawah Tanah dan Air Permukaan\nditetapkan paling tinggi sebesar 20% (dua puluh persen).\n(2) Tarif Pajak Pemanfaatan Air Bawah Tanah dan Air Permukaan\nsebagaimana dimaksud pada ayat (1) ditetapkan dengan Peraturan\nDaerah."
+   }
+  },
+  {
+   "id": "ID-H879-A44",
+   "no": 44,
+   "noLabel": {
+    "id": "Pasal 44"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 44\n(1) Besarnya Pajak Pemanfaatan Air Bawah Tanah dan Air Permukaan\nyang terutang dihitung dengan cara mengalikan tarif sebagaimana\ndimaksud dalam Pasal 43 ayat (2) dengan dasar pengenaan pajak\nsebagaimana dimaksud dalam Pasal 42.\n(2) Pajak Pemanfaatan Air Bawah Tanah dan Air Permukaan yang\nterutang dipungut di wilayah Daerah tempat air diambil.\nBAB X\nTATACARA PENGHAPUSAN PIUTANG PAJAK YANG KEDALUWARSA DAN\nTATACARA PELAKSANAAN PEMUNGUTAN PAJAK"
+   }
+  },
+  {
+   "id": "ID-H879-A45",
+   "no": 45,
+   "noLabel": {
+    "id": "Pasal 45"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 45\n(1) Piutang Pajak yang tidak mungkin ditagih lagi karena hak untuk\nmelakukan penagihan sudah kedaluwarsa dapat dihapuskan.\n(2) Gubernur...\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Gubernur Kepala Daerah Ting kat I menetapkan Keputusan\nPenghapusan Piutang Pajak Daerah Tingkat I yang sudah\nkedaluwarsa sebagaimana dimaksud pada ayat (1).\n(3) Bupati atau Walikotamadya Kepala Daerah Tingkat II menetapkan\nKeputusan Penghapusan Piutang Pajak Daerah Tingkat II yang\nsudah kedaluwarsa sebagaimana dimaksud pada ayat (1).\n(4) Tata cara penghapusan piutang pajak yang sudah kedaluwarsa\ndiatur dengan Peraturan Daerah."
+   }
+  },
+  {
+   "id": "ID-H879-A46",
+   "no": 46,
+   "noLabel": {
+    "id": "Pasal 46"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 46\nTatacara pelaksanaan pemungutan pajak ditetapkan oleh Daerah dengan\nberpedoman kepada Keputusan Menteri Dalam Negeri.\nBAB XI\nPERATURAN DAERAH TENTANG PAJAK"
+   }
+  },
+  {
+   "id": "ID-H879-A47",
+   "no": 47,
+   "noLabel": {
+    "id": "Pasal 47"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 47\nPeraturan Daerah Tingkat I dan Tingkat II tentang Pajak disahkan oleh\nMenteri Dalam Nege ri setelah mendapat pertimbangan Menteri\nKeuangan."
+   }
+  },
+  {
+   "id": "ID-H879-A48",
+   "no": 48,
+   "noLabel": {
+    "id": "Pasal 48"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 48\n(1) Peraturan Daerah Tingkat I tentang Pajak disampaikan kepada\nMenteri Dalam Negeri dengan tembusan kepada Menteri Keuangan.\n(2) Peraturan Daerah Tingkat II tentang Pajak disampaikan kepada\nMenteri Dalam Negeri dengan tembusan Menteri Keuangan dan\nkepada Gubernur Kepala Daerah Tingkat I.\n(3) Menteri Keuangan memberikan pertimbangan secepatnya kepada\nMenteri Dalam Negeri atas Peraturan Daerah sebagaimana\ndimaksud pada ayat (1) dan ayat (2).\n(4) Pengesahan, penolakan untuk pengesahan, atau permintaan untuk\npenyempurnaan terlebih dahulu Peraturan Daerah sebagaimana\ndimaksud pada ayat (1) dan ayat (2) dilakukan dalam jangka waktu\npaling lama 3 (tiga) bulan sejak diterimanya Peraturan Daerah\ndimaksud.\n(5) Jangka...\nPRESIDEN\nREPUBLIK INDONESIA\n(5) Jangka waktu 3 (tiga) bulan sebagaimana dimaksud pada ayat (4)\nhanya dapat diperpanjang 3 (tiga) bulan lagi, dengan\nmemberitahukan kepada Pemerintah Daerah yang bersangkutan\nsebelum jangka waktu sebagaimana dimaksud pada ayat (4)\nberakhir.\n(6) Apabila setelah jangka waktu 6 (enam) bulan sejak diterimanya\nPeraturan Daerah sebagaimana dimaksud pada ayat (4) atau jangka\nwaktu perpanjangan sebagaimana dimaksud pada ayat (4) telah\nlewat, Menteri Dalam Negeri tidak mengambil keputusan,\nPeraturan Daerah tersebut dianggap telah disahkan, berlaku, dan\ndapat dilaksankan."
+   }
+  },
+  {
+   "id": "ID-H879-A49",
+   "no": 49,
+   "noLabel": {
+    "id": "Pasal 49"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 49\nPeraturan Daerah yang telah mendapatkan pengesahan diundangkan\ndalam Lembaran Daerah yang bersangkutan."
+   }
+  },
+  {
+   "id": "ID-H879-A50",
+   "no": 50,
+   "noLabel": {
+    "id": "Pasal 50"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 50\n(1) Menteri Dalam Negeri dengan pertimbangan Menteri Keuangan\ndapat membatalkan atau meminta untuk menyempurnakan\nPeraturan Daerah yang telah atau dianggap telah disahkan apabila\nPeraturan Daerah tersebut di kemudian hari ternyata bertentangan\ndengan peraturan perundang-undangan yang lebih tinggi.\n(2) Keputusan sebagaimana dimaksud pada ayat (1) disertai\nalasan-alasanya diberitahukan kepada Kepala Daerah yang\nbersangkutan dalam jangka waktu paling lama 14 (empat belas) hari\nsesudah tanggal keputusan.\n(3) Keputusan sebagaimana dimaksud pada ayat (2) diumumkan dalam\nBerita Negara Republik Indonesia dan dalam Lembaran Daerah."
+   }
+  },
+  {
+   "id": "ID-H879-A51",
+   "no": 51,
+   "noLabel": {
+    "id": "Pasal 51"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 51\nDalam hal tidak tercapai persesuaian pendapat antara Menteri Dalam\nNegeri dengan Menteri Keuangan mengenai pengesahan, penolakan\nuntuk pengesahan, atau permintaan untuk penyempurnaan Peraturan\nDaerah tentang Pajak, Menteri Dalam Negeri dan atau Menteri Keuangan\ndapat menyampaikan hal tersebut kepada Presiden.\nTerhadap ketidaksuaian pendapat sebagaimana dimaksud pada ayat (1)\nPresiden mengambilan keputusan dan dan memerintahkan Menteri\nDalam Negeri untuk mengesahkan atau tidak mengesahkan Peraturan\nPeraturan Daerah tentang Pajak."
+   }
+  },
+  {
+   "id": "ID-H879-A52",
+   "no": 52,
+   "noLabel": {
+    "id": "Pasal 52…"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 52\nKetentuan lebih lanjut yang diperlukan dalam rangka pelaksanaan\npengesahan P eraturan Daerah tentang Pajak diatur oleh Menteri Dalam\nNegeri.\nBAB XII\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H879-A53",
+   "no": 53,
+   "noLabel": {
+    "id": "Pasal 53"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 53\n(1) Peraturan Daerah tentang Pajak yang telah ada yang terkait dengan\npajak daerah sebagaimana diatur dalam Peraturan Pemerintah ini\nmasih tetap berlaku sebelum dilakukan penyesuaian Peraturan\nPemerintah ini.\n(2) Peraturan Daerah sebagaimana dimaksud pada ayat (1) dinyatakan\nberlaku paling lama 3 (tiga) tahun sejak berlakunya Undang-undang\nNomor 18 Tahun 1997 tentang Pajak Daerah dan Retribusi Daerah.\n(3) Peraturan Daerah tentang pajak selain sebagaimana dimaksud pada\nayat (1) dinyatakan tetap berlaku selama 1 (satu) tahun sejak\nberlakunya Undang -undang Nomor 18 Tahun 1997 tentang Pajak\nDaerah dan Retribusi Daerah.\nBAB XIII\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H879-A54",
+   "no": 54,
+   "noLabel": {
+    "id": "Pasal 54"
+   },
+   "chapter": {
+    "id": "BAB XIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 54\nPeraturan Pemerintah ini mulai berlaku pada saat diundangkan.\nAgar...\nPRESIDEN\nREPUBLIK INDONESIA\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran\nNegara Republik Indonesia.\nDitetapkan di Jakarta\npada tanggal 4 Juli 1997\nPRESIDEN REPUBLIK INDONESIA,\nttd.\nSOEHARTO\nDiundangkan di Jakarta\npada tanggal 4 Juli 1997\nMENTERI NEGARA SEKRETARIS NEGARA\nREPUBLIK INDONESIA,\nttd.\nMOERDIONO\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1997 NOMOR 54\nPRESIDEN\nREPUBLIK INDONESIA\nPENJELASAN\nATAS\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nNOMOR 19 TAHUN 1997\nTENTANG\nPAJAK DAERAH\nUMUM\nDalam rangka mendukung perkembangan otonomi daerah yang nyata, dinamis, serasi dan\nbertanggung jawab pembiayaan pemerintah dan pembangunan daerah yang bersumber\ndari pe ndapatan asli daerah, khususnya yang berasal dari pajak daerah, pengaturannya\nperlu lebih ditingkatkan lagi. Sejalan dengan semakin meningkatnya pelaksaan\npembangunan dan pemberian pelayanan kepada masyarakat serta usaha peningkatan\npertumbuhan perekonomia n daerah, diperlukan penyediaan sumber -sumber pendapatan\nasli daerah yang hasilnya semakin meningkat pula.\nUpaya peningkatan penyediaan dana dari sumber -sumber tersebut antara lain dilakukan\ndengan peningkatan kinerja pemungutannya serta penyederhanaan, p enyempurnaan, dan\npenambahan jenis pajak, melalui Undang -undang Nomor 18 Tahun 1997 tentang Pajak\nDaerah dan Retribusi Daerah. Langkah -langkah ini diharap akan meningkatkan\nefektivitas dan efisiensi pemungutan pajak daerah serta meningkatkan mutu dan jenis\npelayanan kepada masyarakat.\nPeraturan Pemerintah ini ditetapkan untuk mengatur lebih beberapa hal yang diperlukan,\ndalam pelaksanaan Undang-undang tentang Pajak Dae rah dan Retribusi Daerah sehingga\nWajib Pajak dapat dengan mudah memahami dan memenuhi kewajiban perpajakannya.\nPASAL DEMI PASAL\nPasal 1\nCukup jelas\nPasal 2\nAyat (1)\nCukup jelas\nAyat (2)…\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (2)\nHuruf a\nKendaraan bermotor milik Badan Usa ha Milik Negara dan Badan\nUsaha Milik Daerah tidak dikecualikan sebagai objek Pajak\nKendaraan Bermotor.\nHuruf b\nKetentuan tentang pengecualian pengenaan Pajak Kendaraan\nBermotor bagi perwakilan lembaga -lembaga internasional\nberpedoman kepada Keputusan Menteri Keuangan.\nHuruf c\nCukup jelas\nPasal 3\nAyat (1)\nCukup jelas\nAyat (2)\nDalam hal Wajib Pajak badan, kewajiban perpajakannya diwakili oleh\npengurus atau badan tersebut.\nPasal 4\nAyat (1)\nHuruf a\nCukup jelas\nHuruf b\nBobot dinyatakan sebagai koefisien tertentu. Koefisien sama dengan 1,\nberarti kerusakan jalan dan pencemaran lingkungan oleh kendaraan\nbermotor tersebut dianggap masih batas toleransi. Koefisien lebih besar dari\n1, berarti kendaraan bermotor tersebut memba wa pengaruh buruk terhadap\nkerusakan jalan dan pencemaran lingkungan.\nContoh:\nNilai Jual Kendaraan Bermotor merek X tahun Y adalah sebesar Rp\n100.000.000,00. Koefisien bobot ditentukan sama dengan 1,2, maka dasar\npengenaan pajak dari kendaraan bermoto r tersebut adalah: Rp\n100.000.000,00 x 1,2 = Rp. 120.000.000,00.\nAyat (2)…\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (2)\nHarga pasaran umum adalah harga yang diperoleh dari sumber data, antara lain,\nAgen Tunggal Pemegang Merek (ATPM), asosiasi penjual kendaraan bermotor.\nNilai Jual Kendaraan Bermotor ditetapkan berdasarkan harga pasaran umum\nminggu pertama bulan Desember tahun pajak sebelumnya.\nAyat (3)\nFaktor-faktor tersebut pada ayat ini tidak harus semuanya dipergunakan dalam\nmenghitung Nilai Jual Kendaraan Bermotor.\nAyat (4)\nHuruf a\nTekanan gandar dibedakan atas jumlah sumbu/as, roda berat kendaraan\nbermotor.\nHuruf b\nJenis bahan bakar kendaraan Bermotor dibedakan, antara lain, solar, bensin,\ngas, listrik atau tenaga surya.\nHuruf c\nJenis, tahun pembuatan, dan ciri mesin kendaraan bermotor dibedakan,\nantara lain, jenis mesin yang 2 tak atau 4 tak, dan ciri -ciri mesin yang 1000\ncc atau 2000 cc.\nAyat (5)\nCukup jelas\nAyat (6)\nCukup jelas\nAyat (7)\nDasar pengenaan Pajak Kendaraan Bermotor yang ditetapkan oleh\nGubernur Kepala Daerah Tingkat I sebagaimana dimaksud pada ayat ini\ndidasarkan ketentuan sebagaimana dimaksud pada ayat (1), ayat (2), ayat\n(3), dan ayat (4), dengan bobot kendaraan bermotor ditentukan sama dengan\n1.\nAyat (8)\nCukup jelas\nPasal 5…\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 5\nCukup jelas\nPasal 6\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 8\nAyat (1)\nPenguasaan kendaraan bermotor melebihi 12 (dua belas) bulan dianggap\nsebagai penyerahan, kecuali penguasaan kendaraan bermotor kare na\nperjanjian sewa termasuk leasing.\nAyat (2)\nCukup jelas\nAyat (3)\nHuruf a\nPenyerahan kendaraan bermotor kepada Badan Milik Negara dan\nBadan Usaha Milik Daerah tidak dikecualikan sebagai objek pajak\nBea Balik Nama Kendaraan Bermotor.\nHuruf b\nKetentuan tentang pengecualian pengenaan Bea Balik Nama\nkendaraan Bermotor bagi perwakilan lembaga -lembaga internasional\nberpedoman kepada Keputusan Menteri Keuangan.\nHuruf c\nCukup jelas\nPasal 9\nCukup jelas\nPasal 10…\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 10\n1 Nilai Jual kenda raan bermotor sebagaimana dimaksud dalam pasal ini adalah\nNilai jual kendaraan bermotor yang tercantum dalam Ketetapan Menteri Dalam\nNegeri atau Gubernur Kepala Daerah Tingkat I sebagaimana dimaksud dalam\nPasal 4 ayat (5) dan ayat (6).\nPasal 11\nCukup jelas\nPasal 12\nCukup jelas\nPasal 13\nCukup jelas\nPasal 14\nLaporan tertulis tersebut berisi:\n- nama dan alamat orang pribadi atau badan yang menerima penyerahan;\n- tangga, bulan dan tahun penyerahan;\n- nomor polisi kendaraan bermotor;\n- lampiran photo copy Surat Tanda Kendaraan Bermotor (STNK).\nPasal 15\nAyat (1)\nHuruf a\nFasilitas penginapan/fasilitas tinggal jangka pendek, antara lain, gubuk\npariwisata (cottage), motel, wisma pariwisata, pesanggrahan (hostel),\nlosmen dan rumah pengin apan. Dalam pengertian rumah penginapan\ntermasuk rumah kos dengan jumlah kamar 15 (lima belas) atau lebih yang\nmenyediakan fasilitas seperti rumah penginapan.\nHuruf b…\nPRESIDEN\nREPUBLIK INDONESIA\nHuruf b\nPelayanan penunjang, antara lain, telepon, faksimil, teleks, fotokopi,\npelayanan cuci, seterika, taksi dan pengangkutan lainnya, yang disediakan\natau dikelola hotel.\nHuruf c\nFasilitas olah raga dan hiburan, antara lain, pusat kebugaran (fitness center),\nkolam renang, tenis, golf, karaoke, pub, diskotik, yang disediakan atau\ndikelola hotel.\nHuruf d\nCukup jelas\nHuruf e\nContoh:\nRumah makan \"X\" menyediakan tempat penyantapan dan memberikan\npelayanan di tempat dan di bawa pulang (takeway).\nAyat (2)\nCukup jelas\nPasal 16\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 17\nCukup jelas\nPasal 18\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 19…\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 19\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 20\nHiburan, antara lain , berupa tontonan film, kesenian, pagelaran musik dan tari,\ndiskotik, karaoke, klab malam, permainan bilyar, permainan ketangkasan, panti\npijat, mandi uap, dan pertandingan olah raga.\nPasal 21\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 22\nYang dimaksud dengan yang seharusnya dibayar adalah termasuk pemberian\npotongan harga dan tiket cuma-cuma.\nPasal 23\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 24\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 25…\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 25\nAyat (1)\nPenyelenggaraan reklame, antara lain:\n- reklame papan/billboard/megatron;\n- reklame kain;\n- reklame melekat (stiker);\n- reklame selebaran;\n- reklame berjalan, termasuk pada kendaraan;\n- reklame udara;\n- reklame suara;\n- reklame film/slide;\n- reklame peragaan.\nAyat (2)\nCukup jelas\nPasal 26\nAyat (1)\nCukup jelas\nAyat (2)\nDalam hal reklame diselenggarakan langsung oleh pribadi atau badan yang\nmemanfaatkan reklame untuk kepentingan sendiri, maka Wajib Pajak\nReklame adalah orang pribadi ata u badan tersebut. Apabila\npenyelenggaraan reklame dilaksanakan melalui pihak ketiga, misalnya\nPerusahaan Jasa Periklanan, maka pihak ketiga tersebut menjadi Wajib\nPajak Reklame.\nPasal 27\nAyat (1)\nDalam hal reklame diselenggarakan oleh orang pribadi atau badan yang\nmemanfaatkan reklame untuk kepentingan sendiri, maka nilai sewa reklame\ndihitung berdasarkan, biaya pemasangan reklame, pemeliharaan reklame,\nlama pemasangan, nilai strategis lokasi, dan jenis reklame.\nDalam…\nPRESIDEN\nREPUBLIK INDONESIA\nDalam hal reklame diselenggarak an oleh pihak ketiga, maka nilai sewa\nreklame ditentukan berdasarkan jumlah pembayaran untuk suatu masa\npajak/masa penyelenggaraan reklame dengan memperhatikan biaya\npemasangan reklame, pemeliharaan reklame, lama pemasangan, nilai\nstrategis reklame.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nPasal 28\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 29\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 30\nAyat (1)\nYang dimaksud dengan penggunaan tenaga listrik ad alah penggunaan\ntenaga listrik baik yang disalurkan dari PLN maupun bukan PLN.\nAyat (2)\nHuruf a\nCukup jelas\nHuruf b…\nPRESIDEN\nREPUBLIK INDONESIA\nHuruf b\nKetentuan tentang pengecualian pengenaan Pajak Penerangan jalan\nbagi perwakilan lembaga -lembaga internasional berpedoman kepada\nKeputusan Menteri Keuangan.\nHuruf c\nCukup jelas\nHuruf d\nCukup jelas\nPasal 31\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 32\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 33\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 34\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 35…\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 35\nAyat (1)\nYang dimaksud dengan kegiatan eksploitasi bahan galian golongan C\nadalah pengambilan bahan galian golongan C dari sumber alam di dalam\ndan atau permukaan bumi untuk dimanfaatkan.\nAyat (2)\nCukup jelas\nPasal 36\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 37\nAyat (1)\nCukup jelas\nAyat (2)\nYang dimaksud dengan nilai pasar adalah harga rata -rata yang berlaku\ndilokasi setempat di wilayah daerah yang bersangkutan. Apabila nilai pasar\ndari hasil produksi bahan galian golongan C sulit diperoleh, maka\ndigunakan standar yang ditetapkan oleh instansi yang berwenang dalam\nbidang penambangan bahan galian golongan C.\nPasal 38\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 39…\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 39\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 40\nAyat (1)\nCukup jelas\nAyat (2)\nHuruf a\nTidak termasuk yang dikecualikan sebagai objek Pajak Pemanfaatan\nAir Bawah Tanah dan Air Permukaan adalah pengambilan air yang\ndilakukan oleh Badan Usaha Milik Negara dan Badan Usaha Milik\nDaerah.\nHuruf b\nContohnya adalah Perusahaan Umum (PERUM) Jasa Ti rta dan\nPerusahaan Umum (PERUM) Otorita Jatiluhur.\nHuruf c\nPengecualian objek pajak atas pengambilan air untuk kepentingan\npengairan pertanian rakyat tetap memperhatikan kelestarisn\nlingkungan dan peraturan perundang-undangan yang berlaku.\nHuruf d\nPengecualian objek pajak atas pengambilan air untuk keperluan\ndasar rumah tangga ditetapkan dengan Peraturan Daerah dengan\nmemperhatikan kelestarian lingkungan dan peraturan\nperundang-undangan yang berlaku.\nHuruf e\nCukup jelas\nPasal 41\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 42…\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 42\nAyat (1)\nCukup jelas\nAyat (2)\nPenggunaan faktor -faktor tersebut disesuaikan dengan kondisi\nmasing-masing Daerah. Yang dimaksud dengan musim pengambilan air\nsebagaimana dimaksud pada ayat (2) hur uf e adalah musim kemarau atau\nmusim hujan.\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nPasal 43\nCukup jelas\nPasal 44\nCukup jelas\nPasal 45\nCukup jelas\nPasal 46\nCukup jelas\nPasal 47\nCukup jelas\nPasal 48\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)…\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nAyat (5)\nCukup jelas\nAyat (6)\nCukup jelas\nPasal 49\nCukup jelas\nPasal 50\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nPasal 51\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 52\nCukup jelas\nPasal 53\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 53\nAyat (1)\nPengertian terkait menurut ayat ini, misalnya yang selama ini dipungut di\ndaerah sebagai Pajak Pembangunan I (PPb I), menurut Peraturan\nPemerintah ini menjadi Pajak Hotel dan Restoran.\nDemikian pula Pajak Rumah Bola, Pajak Tontonan, Pajak Pertunjukan dan\nKeramaian Umum yang selama ini dipungut dibeberapa Daerah, dalam\nPeraturan Pemerintah ini menjadi Pajak Hiburan.\nAyat (2)\nCukup jelas\nAyat (3)\nContoh:\nPeraturan Daerah tentang Pajak Radio, Pajak Bangsa Asing.\nPasal 54\nCukup jelas\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1997 NOMOR 3691"
+   }
+  }
+ ]
+}

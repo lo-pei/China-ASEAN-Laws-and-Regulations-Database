@@ -1,0 +1,80 @@
+{
+ "id": "VN-H315",
+ "title": {
+  "zh": "兵役义务法修正案",
+  "en": "Law No. 45/LCT amending and supplementing a number of articles of the Law on military service",
+  "vi": "Luật sửa đổi, bổ sung một số điều của Luật Nghĩa vụ quân sự số 45/LCT",
+  "orig": "Luật Sửa đổi và bổ sung Luật Nghĩa vụ quân sự số 45/LCT",
+  "th": "พระราชบัญญัติแก้ไขเพิ่มเติมการรับราชการทหาร เลขที่ 45/LCT",
+  "id": "Undang-Undang Perubahan atas Undang-Undang Wajib Militer No. 45/LCT",
+  "ms": "Akta Perkhidmatan Ketenteraan (Pindaan) No. 45/LCT"
+ },
+ "country": "VN",
+ "countryName": "越南",
+ "layer": "intl",
+ "pack": "vn-p06",
+ "language": "vi",
+ "level": "law",
+ "category": "05_其他及未分类",
+ "status": "active",
+ "promulgatedDate": "1965",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "国会",
+ "docNumber": "45/LCT",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 3,
+ "chars": 3920,
+ "source": {
+  "name": "越南法律数据库（vbpl.vn 官方公报文本）",
+  "url": "https://vbpl.vn/van-ban/chi-tiet/luat-sua-doi-va-bo-sung-luat-nghia-vu-quan-su-so-45-lct--1258"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\VN\\05_其他及未分类\\1965_45 LCT_Luật Sửa đổi và bổ sung Luật Nghĩa vụ quân sự số 45 LCT.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 34 条；逐字未改写（源自 VN）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "VN-H315-A1",
+   "no": 1,
+   "noLabel": {
+    "vi": "Điều 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "vi": "Điều 1\n\nNay sửa đổi những điều 8 và 10 của Luật nghĩa vụ quân sự và thay bằng những điều (mới) sau đây:\n\n1. Điều 8 (mới) - Những quân nhân đang phục vụ theo chế độ tình nguyện sẽ dần dần được phục viên và chuyển sang dự bị, hoặc giải ngạch nghĩa vụ quân sự. Tuy nhiên, để đáp ứng những yêu cầu đặc biệt về xây dựng quân đội và tác chiến, Bộ quốc phòng được phép thực hiện chế độ tình nguyện đối với một số hạ sĩ quan và binh sĩ.\n\n2. Điều 10 (mới) - Thời hạn phục vụ tại ngũ của hạ sĩ quan và binh sĩ trong bộ đội lục quân là 4 năm.\n\nThời hạn phục vụ tại ngũ của hạ sĩ quan và binh sĩ trong bộ đội phòng không - không quân, của hạ sĩ quan và binh sĩ trong bộ đội hải quân, của hạ sĩ quan kỹ thuật và binh sĩ kỹ thuật trong bộ đội lục quân là 5 năm.\n\nThời hạn phục vụ tại ngũ của hạ sĩ quan và binh sĩ thuộc các binh chủng kỹ thuật trong Công an nhân dân vũ trang theo như thời hạn phục vụ tại ngũ của các binh chủng, quân chủng trong Quân đội nhân dân.\n\nTrong trường hợp cần thiết, Bộ trưởng Bộ quốc phòng và Bộ trưởng Bộ công an có thể kéo dài thời hạn phục vụ tại ngũ của quân nhân thuộc quyền mình; mỗi lần kéo dài thời hạn phục vụ không được quá 1 năm."
+   }
+  },
+  {
+   "id": "VN-H315-A2",
+   "no": 2,
+   "noLabel": {
+    "vi": "Điều 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "vi": "Điều 2\n\nNay bổ sung tiếp theo điều 34b của Luật nghĩa vụ quân sự, điều 34c như sau:"
+   }
+  },
+  {
+   "id": "VN-H315-A34",
+   "no": 34,
+   "noLabel": {
+    "vi": "Điều 34c - Trong thời bình, khi có tình "
+   },
+   "chapter": {},
+   "heading": {
+    "vi": "c - Trong thời bình, khi có tình hình khẩn trương nhưng chưa cần ra lệnh động viên, để kịp thời tăng cường các lực lượng vũ trang và bảo đảm cho các lực lượng vũ trang sẵn sàng chiến đấu, theo quyết định của Hội đồng Chính phủ, Bộ trưởng Bộ quốc phòng được quyền gọi một số quân nhân đã xuất ngũ, một số cán bộ và nam nữ công nhân, nhân viên kỹ thuật ra phục vụ tại ngũ."
+   },
+   "text": {
+    "vi": "Điều 34c - Trong thời bình, khi có tình hình khẩn trương nhưng chưa cần ra lệnh động viên, để kịp thời tăng cường các lực lượng vũ trang và bảo đảm cho các lực lượng vũ trang sẵn sàng chiến đấu, theo quyết định của Hội đồng Chính phủ, Bộ trưởng Bộ quốc phòng được quyền gọi một số quân nhân đã xuất ngũ, một số cán bộ và nam nữ công nhân, nhân viên kỹ thuật ra phục vụ tại ngũ.\n\nLuật này đã được Quốc hội nước Việt Nam dân chủ cộng hoà khoá III, kỳ họp thứ 2, thông qua ngày 10 tháng 4 năm 1965.\n\n Hoàng Văn Hoan\n\n(Đã ký)\n\n1:{\"id\":\"1258\",\"docType\":{\"id\":\"11025e19-2dd6-4165-85ad-ab6241186a1a\",\"name\":\"Luật\",\"code\":\"Lu\",\"parentCode\":\"VBQPPL\",\"parentName\":null},\"docGroup\":\"VBQPPL\",\"docNum\":\"45/LCT\",\"title\":\"Luật Sửa đổi và bổ sung Luật Nghĩa vụ quân sự số 45/LCT\",\"applicationNote\":\"bị thay thế\",\"issueDate\":\"1965-04-10T01:00:00\",\"effFrom\":\"1965-04-25T01:00:00\",\"effTo\":\"1982-01-01T00:00:00\",\"publicDate\":null,\"effStatus\":{\"id\":\"f55c1469-4341-4274-93ef-32b283db4dbd\",\"name\":\"Hết hiệu lực toàn bộ\",\"code\":\"HHL\",\"parentCode\":null,\"parentName\":null},\"status\":\"Publish\",\"lang\":\"vi\",\"defaultLanguage\":\"VN\",\"updatedBy\":\"dungdvm_II.2\",\"updatedDate\":\"2026-03-25T03:09:37\",\"agencyName\":\"Quốc hội\",\"organization\":{\"id\":\"93724a75-0d15-4e7b-a4df-4282a2bea6a0\",\"code\":\"BQP\",\"name\":\"Bộ Quốc phòng\",\"nameEn\":\"Bộ Quốc phòng\",\"shortName\":\"BQP\",\"orgType\":\"0\"},\"isLw\":true,\"documentContent\":{\"id\":\"1258\",\"title\":null,\"content\":\"$2\"},\"documentContentEn\":null,\"documentContentFileName\":null,\"documentContentFileDocName\":null,\"documentIssues\":[{\"id\":\"282f7e28-3c31-43c6-9bf8-65780ea4c941\",\"agencyId\":\"55\",\"agencyName\":\"Quốc hội\",\"agencyNameEn\":\"National Assembly of Vietnam\",\"agencyCode\":\"QH\",\"personId\":\"311\",\"personName\":\"Hoàng Văn Hoan\",\"jobTitleId\":\"8a68e876-323e-4049-b068-12ba35811169\",\"jobTitleCode\":\"PCT\",\"jobTitleName\":\"Phó Chủ tịch\",\"orderIndex\":1}],\"documentMajors\":[{\"id\":\"nganh_202\",\"name\":\"Quốc phòng, an ninh và trật tự an toàn xã hội\",\"code\":null,\"parentCode\":null,\"parentName\":null}],\"documentFields\":[{\"id\":\"76e2c0d5-e93e-4ee9-8c72-59dae1167432\",\"name\":\"Chưa phân loại\",\"code\":null,\"parentCode\":null,\"parentName\":null}],\"documentRelatedList\":[{\"id\":\"cee68b3b-a3a9-4d99-bf56-42b51f6fc4f3\",\"fileName\":\"1258_body_content.html\",\"relatedType\":\"MARKDOWN\",\"fileTitle\":\"1258_body_content.html\",\"fileOrder\":null}],\"provisionTree\":null,\"references\":null,\"isEffectAllDocument\":false,\"isOld\":true,\"reviewStatus\":\"RV_INPR\",\"reviewed\":false,\"isTranslationDoc\":false,\"isConsolidatedDocument\":false,\"isConstitutionDocument\":false,\"isAdministrativeDocument\":false,\"viewCount\":54,\"showViewCount\":true,\"hasContent\":true,\"hasOriginalPdf\":null,\"hasAIProcessed\":false,\"hasClauseRelation\":null,\"aiResults\":[]}"
+   }
+  }
+ ]
+}

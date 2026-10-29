@@ -1,0 +1,72 @@
+{
+ "id": "PH-H19051",
+ "title": {
+  "zh": null,
+  "en": "MALACAÑAN PALACE BY THE PRESIDENT OF THE PHILIPPINES",
+  "orig": "MALACAÑAN PALACE BY THE PRESIDENT OF THE PHILIPPINES"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p158",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Executive Order No. 279",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 622,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/07_行政命令_EO/EO_00279_2008.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 EO_00279_2008.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H19051-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "SEC 1"
+   },
+   "text": {
+    "en": "Transfer to the Department of Health - The LWUA is hereby attached to\nthe Department of Health. The LWUA Board of Trustees, however, shall be\nappointed by the President of the Philippines."
+   }
+  },
+  {
+   "id": "PH-H19051-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "SEC 2"
+   },
+   "text": {
+    "en": "All orders, executive issuances, rules and regulations, administrative\nresolutions, or parts thereof, inconsistent with the provisions of this order are hereby\nrepealed or modified accordingly."
+   }
+  },
+  {
+   "id": "PH-H19051-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "SEC 3"
+   },
+   "text": {
+    "en": "This order shall take effect immediately.\nDONE in the City of Manila, this IS day of August, in the year of Our Lord, Two\nThousand and Eight.\nflair A. herage\n^7523\nBy the President:\nEDUARDO R. ERMITA\nExecutive Secretary\nPOMA Hologram # 45236"
+   }
+  }
+ ]
+}

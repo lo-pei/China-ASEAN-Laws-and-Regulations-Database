@@ -1,0 +1,78 @@
+{
+ "id": "ID-H611",
+ "title": {
+  "zh": "向伊斯兰开发银行进行国家资本参与法",
+  "en": "Law on State Capital Participation in the Islamic Development Bank",
+  "id": "PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE DALAM MODAL SAHAM ISLAMIC DEVELOPMENT BANK (IDB)",
+  "orig": "PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE DALAM MODAL SAHAM ISLAMIC DEVELOPMENT BANK (IDB)",
+  "vi": "Luật về Việc Góp Vốn Nhà nước vào Ngân hàng Phát triển Hồi giáo",
+  "th": "พระราชบัญญัติว่าด้วยการร่วมทุนของรัฐในธนาคารเพื่อการพัฒนาอิสลาม",
+  "ms": "Akta tentang Penyertaan Modal Negara dalam Bank Pembangunan Islam"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02c",
+ "language": "id",
+ "level": "law",
+ "category": "02_民商事与经济法",
+ "status": "active",
+ "promulgatedDate": "1992",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU74-1992",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 3,
+ "chars": 1210,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PP%20NO%2074%20TH%201992.pdf&fl=P03777"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\02_民商事与经济法\\印尼_文本_1992_PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE DALAM MODAL SAHAM ISLAMIC DEVELOPMENT BANK (IDB).txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 3 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H611-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\n\n(1) Negara Republik Indonesia melakukan penyertaan modal ke\ndalam modal saham Islamic Development Bank (IDB) sebesar ID\n81.448.000 dan seluruhnya merupakan kekayaan Negara yang\ndipisahkan, dengan perincian sebagai berikut:\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n a. penyertaan modal Negara pada Tahun 1975 sebesar ID\n25.000.000.-;\n b. penambahan penyertaan modal Negara pada Tahun 1981-1985\nsebesar ID 38.100.000,-;\n c. penambahan penyertaan modal negara sebesar ID\n18.348.000.-.\n(2) Penambahan penyertaan modal Negara sebagaimana dimaksud\ndalam ayat (1) huruf c dilakukan secara bertahap dimulai pada\nTahun 1992."
+   }
+  },
+  {
+   "id": "ID-H611-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\n\nPelaksanaan penambahan penyertaan modal Negara sebagaimana\ndimaksud dalam Pasal 1 ayat (2) dilakukan oleh Menteri Keuangan."
+   }
+  },
+  {
+   "id": "ID-H611-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\n\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\n\nAgar setiap orang mengetahuinya, memerintahkan. pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran\nNegara Republik Indonesia.\n\nDitetapkan di Jakarta\npada tanggal 9 Nopember 1992\n\nPRESIDEN REPUBLIK INDONESIA\n\n     ttd\n\n           SOEHARTO\n\nDiundangkan di Jakarta\npada tanggal 9 Nopember 1992\n\nMENTERI/SEKRETARIS NEGARA\n   REPUBLIK INDONESIA\n\n     ttd\n\n    MOERDIONO"
+   }
+  }
+ ]
+}

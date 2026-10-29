@@ -1,0 +1,72 @@
+{
+ "id": "PH-H16038",
+ "title": {
+  "zh": null,
+  "en": "An Act to Authorize the President of the Philippines to Declare Any Area or Zone in the Philippines as a National Defense Zone, to Prohibit Entry therein Except to Certain Classes of Persons, and to Prescribe Penalties for the VIolation",
+  "orig": "An Act to Authorize the President of the Philippines to Declare Any Area or Zone in the Philippines as a National Defense Zone, to Prohibit Entry therein Except to Certain Classes of Persons, and to Prescribe Penalties for the VIolation"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1938-06-09",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 321",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 930,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00321_1938_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00321_1938_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H16038-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The President of the Philippines is hereby authorized to declare, by proclamation, any area or\nzone in the Philippines as a national defense zone, and upon the promulgation of such proclamation, it shall be\nunlawful for any person, excepting public officials and employees of the United States and of the Philippines,\nto enter such zone, or to remain therein, except under regulations to be prescribed by the President of the\nPhilippines: Provided, however, That in no case shall any person be deprived of his property without just\ncompensation."
+   }
+  },
+  {
+   "id": "PH-H16038-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Any violation of the provisions of this Act or of the regulations prescribed by the President of\nthe Philippines pursuant to the authority contained in section one hereof, shall be punished by imprisonment\nof not exceeding six months or by a fine of not exceeding one thousand pesos, or by both, in the discretion of"
+   }
+  },
+  {
+   "id": "PH-H16038-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, June 9, 1938."
+   }
+  }
+ ]
+}

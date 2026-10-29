@@ -1,0 +1,72 @@
+{
+ "id": "PH-H11089",
+ "title": {
+  "zh": null,
+  "en": "AN ACT AUTHORIZING THE COLLECTOR OF CUSTOMS FOR THE PHILIPPINE ARCHIPELAGO TO CLEAR VESSELS FOR PORTS NOT OPEN TO VESSELS ENGAGED IN THE COASTWISE",
+  "orig": "AN ACT AUTHORIZING THE COLLECTOR OF CUSTOMS FOR THE PHILIPPINE ARCHIPELAGO TO CLEAR VESSELS FOR PORTS NOT OPEN TO VESSELS ENGAGED IN THE COASTWISE"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 376",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1066,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_00376_1902_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_00376_1902_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H11089-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The Collector of Customs for the Philippine Archipelago is hereby authorized to clear vessels for\nany port, in provinces where civil government is in force, not open to vessels engaged in the coastwise trade,\nand where no inspectors of customs are stationed, whenever in his judgment it is necessary to do so in order\nto promote and advance commerce and business: Provided, That in every case where such permission is\ngranted, the vessel to which it is given shall report to the inspector of customs at the open port nearest the\nport for which it is cleared and shall deposit the ship's papers with him; and, after entering the closed port,\nshall return to the open port and report to the inspector of customs for clearance."
+   }
+  },
+  {
+   "id": "PH-H11089-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The public good requiring the speedy enactment of this bill, the passage of the same is hereby\nexpedited in accordance with section two of \"An Act prescribing the order of procedure by the Commission\nin the enactment of laws,\" passed September twenty-sixth, nineteen hundred."
+   }
+  },
+  {
+   "id": "PH-H11089-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, March 11, 1902."
+   }
+  }
+ ]
+}

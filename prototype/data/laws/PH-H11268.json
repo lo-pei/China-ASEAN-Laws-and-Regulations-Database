@@ -1,0 +1,82 @@
+{
+ "id": "PH-H11268",
+ "title": {
+  "zh": null,
+  "en": "AN ACT TO AUTHORIZE THE CONSTRUCTION BY THE MANILA RAILWAY COMPANY, LIMITED, OWNING AND OPERATING THE MANILA AND DAGUPAN RAILWAY, OF TWO BRANCHES, ONE CONNECTING MABALACAT WITH THE MAIN LINE AND ONE CONNECTING BAYAMBANG WITH THE MAIN LINE.",
+  "orig": "AN ACT TO AUTHORIZE THE CONSTRUCTION BY THE MANILA RAILWAY COMPANY, LIMITED, OWNING AND OPERATING THE MANILA AND DAGUPAN RAILWAY, OF TWO BRANCHES, ONE CONNECTING MABALACAT WITH THE MAIN LINE AND ONE CONNECTING BAYAMBANG WITH THE MAIN LINE."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 555",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 1446,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_00555_1902_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_00555_1902_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H11268-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The Manila Railway Company, Limited, is hereby authorized to construct a railroad in the\nmunicipality of Mabalacat, in the Province of Pampanga, four and one-half miles in length, from the main\nline of the Manila and Dagupan Railway to a point to be occupied by troops of the United States Army as an\nArmy post; and in the municipality of Bayambang, in the Province of Pangasinan, a branch to be one mile in\nlength, and to connect the main line of said railroad with an Army post of the United States Army there to be\nconstructed."
+   }
+  },
+  {
+   "id": "PH-H11268-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The branches hereinbefore provided shall be maintained and operated as a part of the line of the\nManila Railway Company, Limited, with the same restrictions and privileges as contained in the grant to the\nManila Railway Company, Limited, for the construction of a branch line from Guiguinto to Cabanatuan."
+   }
+  },
+  {
+   "id": "PH-H11268-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "The grant of the franchise herein shall not be construed as in any way prejudicing the Insular\nGovernment upon matters in issue between it and the Manila Railway Company, Limited, in respect to the\nclaim of damages by that company for the occupation or injury inflicted by United States forces upon the\nManila and Dagupan Railway, nor shall it prevent the United States or the Insular Government from relying\nupon the defense to such claims that the conduct of said railway company and its agents forfeited any right to\nrecover on such claims."
+   }
+  },
+  {
+   "id": "PH-H11268-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, December 8, 1902"
+   }
+  }
+ ]
+}

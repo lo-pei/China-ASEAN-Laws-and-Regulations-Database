@@ -1,0 +1,72 @@
+{
+ "id": "PH-H21950",
+ "title": {
+  "zh": null,
+  "en": "Outlawing Pinball and Slot Machines and Other Similar Devices and Nullifying All Existing Permits And/Or Licenses to Operate the Same",
+  "orig": "Outlawing Pinball and Slot Machines and Other Similar Devices and Nullifying All Existing Permits And/Or Licenses to Operate the Same"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p159",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1974-07-23",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 519",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1368,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_00519_1974_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_00519_1974_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H21950-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Any provision of existing law to the contrary notwithstanding, the operation, possession, use and\nimportation of pinball and slot machines and other similar devices or paraphernalia used for their operation is\nhereby declared unlawful and any person guilty of the violation of this Decree shall suffer a fine of not less\nthan five thousand pesos or an imprisonment ranging from prision correccional to prision mayor or both such\nfine and imprisonment at the discretion of the Court or military tribunal: Provided, That if the offender is a\ncorporation firm, partnership, or association, the penalty shall be imposed upon the guilty officer or officers,\nas the case may be, and if such guilty officer or officers are aliens, in addition to the penalty prescribed, he or\nthey shall be deported without further proceedings on the part of the Commission on Immigration and\nDeportation."
+   }
+  },
+  {
+   "id": "PH-H21950-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "All existing licenses and/or permits for the operation or use of pinball machines are hereby\nnullified and all operators or possessors of pinball machines are hereby given a period of fifteen days within\nwhich to dismantle or destroy such pinball or slot machines in their possessions or surrender them to the\nPhilippine Constabulary."
+   }
+  },
+  {
+   "id": "PH-H21950-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Decree shall take effect immediately.\nDONE in the City of Manila, this 23rd day of July, in the year of Our Lord, nineteen hundred and\nseventy-four."
+   }
+  }
+ ]
+}

@@ -1,0 +1,92 @@
+{
+ "id": "PH-H12751",
+ "title": {
+  "zh": null,
+  "en": "An Act Appropriating the Sum of Twenty thousand Pesos for the Purchase of Books, Documents, and Periodicals Relative to the Philippine Islands, for the Division of Filipiniana of the Philippines Library.",
+  "orig": "An Act Appropriating the Sum of Twenty thousand Pesos for the Purchase of Books, Documents, and Periodicals Relative to the Philippine Islands, for the Division of Filipiniana of the Philippines Library."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1911-02-03",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2043",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 5,
+ "chars": 935,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1911/act_2043_1911.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02043_1911_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 5 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02043_1911_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12751-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The sum of twenty thousand pesos is hereby appropriated, out of any funds in the Insular\nTreasury not otherwise appropriated, for the purchase of books, documents, and periodicals relative to the\nPhilippine Islands, whether printed or manuscript, or in sets or single copies."
+   }
+  },
+  {
+   "id": "PH-H12751-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The purchases shall be made subject to the conditions established by Act Numbered Nineteen\nhundred and thirty-five."
+   }
+  },
+  {
+   "id": "PH-H12751-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "The works acquired with the funds mentioned in section one shall be incorporated in the division\nof Filipiniana of the Philippines Library."
+   }
+  },
+  {
+   "id": "PH-H12751-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "The librarian of the Philippines Library shall, upon the purchase of such works, have the same\ncatalogued and placed at the service of the public as soon as possible."
+   }
+  },
+  {
+   "id": "PH-H12751-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "text": {
+    "en": "The public good requiring the speedy enactment of this bill, the same shall take effect on its\npassage, in accordance with section one of Act Numbered Nineteen hundred and forty-five of the Philippine\nLegislature.\nEnacted, February 3, 1911."
+   }
+  }
+ ]
+}

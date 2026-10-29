@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13418",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Section Two Hundred and Six of the Administrative Code, Authorizing the Transfer of Justices of the Peace From One Municipality to Another.",
+  "orig": "An Act to Amend Section Two Hundred and Six of the Administrative Code, Authorizing the Transfer of Justices of the Peace From One Municipality to Another."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1918-03-05",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2768",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 561,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1918/act_2768_1918.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02768_1918_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02768_1918_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13418-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section two hundred and six of the Administrative Code is hereby amended to read as follows:\n\"Section 206. Tenure of office-transfer from one municipality to another.-A justice of the peace having the\nrequisite legal qualifications shall hold office during good behavior unless his office be lawfully abolished or\nmerged in the jurisdiction of some other justice: Provided, That in case the pubic interest requires it, a justice\nof the peace of one municipality may be transferred to another.\""
+   }
+  },
+  {
+   "id": "PH-H13418-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, March 5, 1918."
+   }
+  }
+ ]
+}

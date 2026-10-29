@@ -1,0 +1,72 @@
+{
+ "id": "PH-H22529",
+ "title": {
+  "zh": null,
+  "en": "Amending Section Four of Presidential Decree No. 492, as Amended, Entitled \"Creating the Metro Manila Transit Corporation, Appropriating the Funds Therefor and for Other Purposes",
+  "orig": "Amending Section Four of Presidential Decree No. 492, as Amended, Entitled \"Creating the Metro Manila Transit Corporation, Appropriating the Funds Therefor and for Other Purposes"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1977-06-27",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 1168",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 974,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_01168_1977_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_01168_1977_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22529-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section 4 of Presidential Decree No. 942, as amended, is hereby amended to read as follows:\n\"Sec. 4. Authorized Capital Stock, Appropriation. The Corporation shall have a capital stock divided into Six\nMillion voting and no par value shares to be subscribed, paid for and voted as follows:\n(a) Five Million shares of stock shall be subscribed and paid for by the government of the Republic of the\nPhilippines. For this purpose the amount of Twenty Five Million Pesos is hereby set aside from the general\nfunds, not otherwise appropriated, to be applied to the full payment of Five Million shares subscribed by the\ngovernment.\""
+   }
+  },
+  {
+   "id": "PH-H22529-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The unpaid balance of fifteen million pesos (P15,000,000.00) of the increased capitalization\nauthorized pursuant to this Decree shall be released during the second quarter of calendar year 1977."
+   }
+  },
+  {
+   "id": "PH-H22529-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Decree shall take effect immediately.\nDONE in the City of Manila, this 27th day of June, in the year of Our Lord, nineteen hundred and\nseventy-seven."
+   }
+  }
+ ]
+}

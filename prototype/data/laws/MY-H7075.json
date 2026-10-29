@@ -1,0 +1,244 @@
+{
+ "id": "MY-H7075",
+ "title": {
+  "zh": "1957年债务人法",
+  "en": "DEBTORS ACT 1957",
+  "orig": "DEBTORS ACT 1957",
+  "vi": "Luật về Người mắc nợ năm 1957",
+  "th": "พระราชบัญญัติลูกหนี้ ค.ศ. 1957",
+  "id": "Undang-Undang Debitur Tahun 1957",
+  "ms": "Akta Penghutang 1957"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-16",
+ "language": "en",
+ "level": "law",
+ "category": "05_其他及未分类",
+ "status": "active",
+ "promulgatedDate": "1957",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "ACT256",
+ "topics": [],
+ "summary": null,
+ "coverage": "partial",
+ "structureMode": "ARTICLE",
+ "articleCount": 16,
+ "chars": 21436,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-detail.php?act=256&lang=BI"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\05_其他及未分类\\1957_256_DEBTORS ACT 1957.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 24 条；逐字未改写（AI 自行 OCR）；已清除正文中的 11 个控制字符（C0/C1 区，法律文本中无合法用途，系 PDF 抽取/表单域残留）。",
+ "textQuality": "ocr-ai",
+ "articles": [
+  {
+   "id": "MY-H7075-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "1. Short title and commencement."
+   }
+  },
+  {
+   "id": "MY-H7075-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "2. Interpretation.\n\nARREST, EXAMINATION AND IMPRISONMENT OF\nJUDGMENT DEBTORS\nJudgment debtor summons.\nPower of Court to order discharge of debtor.\nArrest of judgment debtor.\nInterim order for protection of debtor's property.\n\nAn order for payment by instalments not to be a bar to\nexecution.\n\nRules of court may be made as to deposit to be furnished\nby judgment creditor."
+   }
+  },
+  {
+   "id": "MY-H7075-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "10. Arrest or commitment to be dependent on deposit of\nexpenses,"
+   }
+  },
+  {
+   "id": "MY-H7075-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "11. Expenses to be added|to judgment debt."
+   }
+  },
+  {
+   "id": "MY-H7075-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "12. Commitment of defaulting trustee, etc."
+   }
+  },
+  {
+   "id": "MY-H7075-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "13. Discharge or suspension of order,"
+   }
+  },
+  {
+   "id": "MY-H7075-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "14. Imprisonment not to gperate as satisfaction.\n\nCn a MS\n\n~\n\nARREST BEFORE JUDGMENT"
+   }
+  },
+  {
+   "id": "MY-H7075-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "15. Where defendant may be required to furnish security for\nappearance."
+   }
+  },
+  {
+   "id": "MY-H7075-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "16. Procedure on application by surety to be discharged."
+   }
+  },
+  {
+   "id": "MY-H7075-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "17. Procedure where defendant fails to furnish security or\nfind fresh security."
+   }
+  },
+  {
+   "id": "MY-H7075-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "18. Application by defendant,\n468 No. 71} oF 1957\n\nPart V\nATTACHMENT OF PROPERTY BEFORE JUDGMENT\nSection\n9, Seizure of property befare judgment."
+   }
+  },
+  {
+   "id": "MY-H7075-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "20. Court may release prop"
+   }
+  },
+  {
+   "id": "MY-H7075-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "21. Order for sale of perishable goods."
+   }
+  },
+  {
+   "id": "MY-H7075-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "22. Property liable to execution.\n\n—\n\nPart VI\nDAMAGES FOR IMPROPER |ARREST OR ATTACHMENT"
+   }
+  },
+  {
+   "id": "MY-H7075-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "23. Compensation for improper arrest or attachment.\n\nPart| VII\nREPEAL"
+   }
+  },
+  {
+   "id": "MY-H7075-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "24. Repeal.\n\nFEDERATION OF MALAYA\nNo. 7L OF 1957\n\nTHE DEBTORS ORDINANCE, 1957\n\nI assent\nPublic Seal ABDUL RAHMAN,\npeat Yang di-Pertuan Agong\n\n12th December, 1957\nEN Ieandeed fo PbAK and Mrmr — See Ml LAJSST/Sr\n\nyi No. 7]\n\nf _ oa. *\nNur fe Ca) 38%\n\n~»\n\nIT IS HEREBY ENACTED by the Yang di-Pertuan\nAgong with the advice and consent of the Legislative\nCouncil as follows:\n\nPA\nPRELIMINARY\n\nShort title 1. This Ordinance may| be cited as the Debtors\n_mepecmint Ordinance, 1957, and-shall-come—into_force—on—sueh—\n\nPLO Facey pase date-asthe-Minister charged_with-responsibility-forthe-\nadministration—of—justice—may;—by—notifieation—in the\n\n\" * \"?  Gazette—appoint—and—su app\n4. 72/2 different-dates-for-different-parts-of the Federation.\n\nInterpreta- 2. In this Ordinance unless the context otherwise\n\nApu: requires—\n\n\"appropriate officer\" means in respect of any Court\n\nthe officer authorised by law to execute any judgment\n\nof such Court;\n\n\"Court\" means the Court in which the original\n\nL[& ve oceedings were commenced; being the High Court,\nYoudest fe ‘a Session Court or a Magis rate's Court;\n\n\"Federal officer\" means any officer employed/by the\nonditions-of employment\n\nerst ied i Federal Government who Seas\nrender-him-Hable-for-servi ‘\n\nha) coh\n\"judgment\" includes any decree, order or decision\nfor the payment of money;\n\nousted hy \"rules of court\" means anly rules of court for the time\nfae being in force whether made before or after the\ncommencement of this Ordinance;\n\n\"State officer\" mean any officer employed by a State\nGovernment whose conditions of employment do not\nntl [te render an, liable for service outside that State.\nte\n\nParr II\nEXECUTION IN RESPECT OF JUDGMENT DEBTS\n\nExecution 3. (1) Subject to and in accordance with any rules of\nndsueat court any sum of money payable under the judgment\ndebts. of a Court may be recovered in case of default or\n\nfailure of payment thereof forthwith or at the time\n\nor times, or in the manner thereby directed by execution\nDEBTORS 47].\n\nwhether legal or equitable|against the property movable\nor immovable of the party against whom the judgment\nwas obtained :\n\nProvided that the following shall not be liable to\nattachment, seizure or sale in such execution, namely—\n\n(a) the wearing apparel, cooking vessels, beds or\nbedding of the judgment debtor, his wife and\nchildren, and the tools and implements of\nhis trade to the value of two hundred dollars\nin all, which to) that extent shall be protected\nfrom execution;\n\n(b) the tools of artisans or, where the judgment\ndebtor is an aghculturaist, his implements of\nhusbandry and such cattle and seed-grain or\nproduce as may in the opinion of the Court\nbe necessary to enable him to earn his liveli-\nhood as such;\n\n(c) houses and other buildings (with the materials\nand the sites|thereof and the land imme-\ndiately appurtenant thereto and necessary\nfor their enjoyment) belonging to an agricul-\nturalist and occupied by him;\n\n(d) books of account;\n\n(e) any pension, gratuity or allowance granted by\nthe Federal Government or the Government\nof any State or by such other public body\nas the Yang di-Pertuan Agong may by\nnotification in the Gazette designate;\n\n(f) wages or salary| of the judgment debtor:\n\nProvided that where such wages or\nsalary exceed two hundred dollars a\nmonth— |\n\n(a) the Court may authorise execution to\nbe levied in such manner as may be\nprescribed by rules of court in\nTespect of such excess or part thereof\nas the Court may think just; and\n\n(b) wages or salary of a Federal officer, or\nan officer or servant employed or\ndeemed to be employed by the Rail-\nway Administration under the provi-\nsions) of the Railway Ordinance,\n1948, or a State officer, shall be\nattached under paragraph (a) of this\nproviso only with the consent in\nwriting of the Minister of Finance\n\nM.U. No.\n8 of 1948.\nJudgment\ndebtor\nsummons,\n\n472 No. 71 oF {1957\n\nin the case of a Federal officer or an\nofficer or sérvant of the Railway\nAdministration or the Chief Minister\nin the case df a State officer.\n\n(g) where the judgment debtor is a person liable\nfor the payment of land revenue, any\nmovable property which under any law\napplicable to him is exempt from sale for the\nrecovery of an arrearj of such revenue; and\n\n(h) any share of a judgment debtor in a partnership\nas to which the judgment debtor is entitled\nto proceed to obtain a charge under the\nprovisions of any written law for the time\nbeing in force relating to partnerships.\n\n(2) Nothing in this section shall be deemed to exempt\nhouses or other buildings or|the materials or sites\nthereof or the land immediately| appurtenant thereto or\nnecessary for their enjoyment from attachment or sale\nin execution of judgments for the payment of rent of\nany such house, building, site or land.\n\nParT III\n\nARREST, EXAMINATION AND IMPRISONMENT OF\nJUDGMENT DEBTORS\n\n4. (1) Where the judgment jof a Court is for the\nrecovery or payment of money|whether by instalments\nor otherwise the party entitled to enforce it (hereinafter\ncalled the judgment creditor) may, subject to and in\naccordance with any rules of court, summon the judg-\nment debtor, or if the judgment debtor is a corporation\nan officer of that corporation,|to be orally examined\nbefore the Court respecting the judgment debtor's\nability to pay or satisfy the judgment debt, and for the\ndiscovery of property applicable to such payment and\nto the disposal that the judgment debtor has made of\nsuch property.\n\n(2) The judgment debtor, or, where the judgment\ndebtor is a corporation, the officer thereof who has been\nsummoned, shall, when called pon, produce all books,\npapers or documents in his possession or power relating\nto such property.\n\n(3) The judgment creditor may swbpana as a witness\nany person whom he considers likely to be able to\nsupply information respecting] the judgment debtor's\nability to pay the judgment |debt or respecting his\nproperty.\n4d\n\nDEBTORS 473\n\n(4) Whether the judgment debtor, or, where the\njudgment debtor is a corp ration, the officer thereof,\nappears or not the judgment creditor and other\nwitnesses may be examined on oath respecting the\nmatters aforesaid.\n\n(5) If the judgment debtor, or, where the judgment\ndebtor is a corporation, the) officer thereof having been\nduly served does not appear, the Court may—\n\n(a) order him to be arrested and brought before\nthe Court to be examined; or\n\n(b) make an order against the judgment debtor\nex-parte.\n\n(6) Upon such examination or non-appearance as\naforesaid the Court may order the judgment debtor to\npay the judgment debt either—\n\n(a) in one sum whether forthwith or within such\nperiod as the Court may. fix; or\n\n(b) by such instalments payable at such times as\nthe Court may fix.\n\n(7) If the judgment debtor makes default in payment\naccording to any such order, a.notice in the form\nprescribed by rules of court may be issued, on the\nrequest of the judgment creditor, calling upon the\njudgment debtor to attend |before the Court at a time\ntherein stated and show cause why he should not be\ncommitted to prison for such default.\n\n(8) Such notice shall be personally served upon the\njudgment debtor; and if, on the day so named, or on\nany subsequent day to which the matter may be\nadjourned, no sufficient cause is shown by the judgment\ndebtor, the Court may commit him to the civil prison\nfor a term which may extend to six weeks or until\nearlier payment of any instalment or instalments or\nother sum due.\n\n(9) A debtor shall not be committed to prison under\nthis section unless it appears that, since the date of the\norder directing payment, whether forthwith, or within a\nspecified period or by instalments, he has had sufficient\nmeans to comply with the i:\n\n5. (1) If at any time it appears to the satisfaction of\na Court that any debtor arrested or confined in prison\nby order of the Court is unable from any cause to pay\nany sum recovered against} him (whether by way of\nsatisfaction of a claim or counterclaim or by way of\ncosts or otherwise), or any instalment thereof, and\n\nPower of\nCourt to\norder\ndischarge\nof debtor.\n\n~\nArrest of\njudgment\ndebtor.\n\n474 No. 71 oF 1957\n\nought to be discharged, the Court may order his dis-\ncharge upon such terms (including liability to re-arrest\n4 the terms are not complied with) as the Court thinks\n\nbe\n\n(2) Where an order of commitment issued by one\nCourt has been sent to another Court for execution,\nthat other Court shall have the same power as the\nCourt in which the order of commitment was made of\nordering the discharge of the debtor under this section,\n\n6. (1) Where a judgment for tthe payment of money\nremains wholly or in part unsatisfied, whether a writ of\nexecution has issued or not, the Court may\n\n' order the debtor to be arrested and brought before the\n\nANC OES e/s\n\nInterim\norder for\nprotection\nof debtor's\nproperty,\n\nAn order for\npayment by\ninstalments\n\nCourt forthwith for examination in accordance with\nthe provisions of sub-section % of section 4 of this\nOrdinance, if it appears to the Court that there\nis probable reason for believing, having regard to his\nconduct, or the state ops affairs, or otherwise, that he\nis likely to leave the with a view of avoiding\npayment of such money or of avoiding examination in\nrespect of his affairs. '\n\n(2) If the examination is adjourned, the Court may\norder the debtor to be committed to prison until the\nadjourned hearing, or until such time as he furnishes\nsecurity in an amount to be named in the order for his\nappearance at the adjourned hearing.\n\n(3) In any proceedings under this section the Court\nmay exercise all or any of the powers conferred upon\nit by section 4 of this Ordinance' subject to the provi-\nsion of sub-section (9) of that ect,\n\n7. The Court may, upon an examination under this\nPart, make any interim order which it may deem -\nexpedient for the protection of any property appearing\nlikely to be available for the discharge of the judgment\ndebt.\n\n8. Subject to any rules of court, an order for the\npayment of instalments of a judgment debt under this\n\nwot to be Part shall not be a bar to proceedings in execution un-\nexecution, less and except to the extent that| the Court shall so\ndirect. a a hear |\nRules of 9. Rules of court may be made for the following\nbemadezs PUTpOSCS— 04\nmeeert (a) for requiring the deposit by the person at whose\nfurnished instance any order for arrest or imprisonment\nby judgment is issued, of a sum of money to provide for—\n(i) the expense of bringing the debtor\nLN.3/6/58 before the Court;\n\nAW. 3u/se\nDEBTORS 475\n\n(ii) the subsistence of the debtor while in\n\nprison; and\n(b) for regulating any matter incidental to such\ndeposit.\n\n10. (1) Where under any rules of court for the time\nbeing in force the judgment creditor is required to\ndeposit money to provide|for the expense of bringing\nthe debtor before the Court, the debtor shall not be\narrested until such deposit has been made; and where\nthe judgment creditor may be required to deposit\nmoney to provide for the subsistence of the debtor while\nin prison, the order for committal shall not be executed\nuntil such deposit has been made.\n\n(2) Where any further deposit may be required dur-\ning any period of imprisonment under this Part, the\nCourt may, if such deposit is not duly made, order that\nthe debtor be discharged |from prison.\n\n11. Unless in any cas¢ the Court otherwise orders\nthe costs and expenses of and incidental to the\nsummoning arrest or imprisonment of any judgment\ndebtor under this Ordinance shall be added to the\njudgment debt and be recoverable accordingly.\n\n12. Where the High Court is satisfied that there has\nbeen default by a trustee or person acting in a\nfiduciary capacity in payment into Court of any sum\nin his possession or under his control, the Court may\ncommit such trustee or [person to prison for a term\nwhich may extend to six months:\n\nProvided that no such committal shall be ordered, if\nit appears to the Court that the trustee or person afore-\nsaid has acted innocently in the matter:\n\nProvided further that upon payment of the amount\ndue the prisoner shall be immediately released.\n\n13. The Court may discharge or vary any order\nmade under this Part, or may suspend its operation.\n\n14. No imprisonment |under this Ordinance shall\noperate to satisfy or extinguish any debt, or deprive any\nperson of any right to |issue execution against the\nproperty of the debtor.\n\nPart IV\nARREST BEFORE JUDGMENT\n\n15. (1) If at any stage lof any action, other than an\naction for the possession of immovable property,\nagainst a defendant who carries on business or\nordinarily resides within |the jurisdiction, the plaintiff\n\nArrest or\ncommitment\nto be\ndependent\non deposit\nof expenses,\n\nExpenses to\nbe added to\njudgment\ndebt.\n\nCommitment\nof defaulting\ntrustee, etc.\n\nDischarge or\nsuspension\nof order.\n\nImprison-\nment not to\noperate as\nsatisfaction.\n\nWhere\ndefendant\nmay be\nrequired to\nurnish\nsecurity for\nappearance,\n476 No. 71 oF 1957\n\nsatisfies the Court by evidence upon oath that he has\na good cause of action against the defendant,\nand that the defendant, with intent to prejudice the\nplaintiff, or to avoid any process of the Court, or to\nobstruct or delay the execution of any judgment that\nmay be made against him— ets\n\n(a) has absconded or left|the Federation; or\n\n; (b) is about to abscond or leave the Fede,\nhach)3945° (c) has disposed of, or removed from the -\n\ntion his property o any part thereof;\n\nthe Court may issue an order to arrest the defendant\nand bring him before the Court to show cause why he\nshould not furnish security for his appearance:\n\nProvided that the defendant shall not be arrested if\nhe pays to the officer entrusted|with the execution of the\norder any sum specified in the order as sufficient to\nsatisfy the plaintiffs claim. Such sum shall be held in\ndeposit by the Court until the action is disposed of or\nuntil further order.\n\n(2) Where the defendant fails to show such cause the\nCourt shall order him either to deposit in Court\nmoney or other property spfficient to answer the\nclaim against him or to furnish security for his appear-\nance at any time when called upon while the action is\npending and until satisfaction of any order that may be\nmade against him in the action, or shall make such order\nas it thinks fit with regard to the sum which may have\nbeen paid by the defendant under the proviso to the\nlast preceding section.\n\n(3) Every surety for the appearance of a defendant\nshall bind himself to pay, in default of such appearance,\nany sum of money which the defendant may be ordered\nto pay in the action.\n\nProcedure 16. (1) A surety for the appearance of a defendant\nonapei may at any time apply to the Court to be discharged\nsurety tobe from his obligation and on such application the Court\ndischarged. ‘\nshall summon the defendant to appear, or may issue\n\nan order for his arrest.\n\n(2) On the appearance of a defendant pursuant to\nany such summons or order, the Court shall discharge\nthe surety from his obligation and call upon the\ndefendant to furnish fresh security.\nDEBTORS 477\n\n17. Where the defendant |fails to comply with any\norder under section 15 or section 16 the Court may\norder that he be detained in prison until the decision\nof the action:\n\nProvided that no person shall be detained in prison\nunder this section in any case for a longer period than\nsix weeks :\n\nProvided further that no person shall be detained in\nprison under this section after he has complied with\nsuch order.\n\n18. A defendant may, at jany time after his arrest,\napply to the Court to rescind or vary the order made\nthereunder, or discharge him from custody, and the\nCourt may make such order as is just.\n\nPART |V\nATTACHMENT OF PROPERTY BEFORE JUDGMENT\n\n19. (1) If it is shown to the satisfaction of the Court,\nat any time after the issue of a writ of summons, by\nevidence on oath, that the plaintiff has a good cause\nof action against the defend nt, and—\n\nShL.\n(a) that the defendant is absent from the Federa-\ntien- and that his |place of abode cannot be\ndiscovered; or\n\n(b) that service of a writ of summons cannot with-\nout great delay or piety be effected; or\n\n(c) that the defendant, with intent to obstruct or\ndelay the execution of any judgment which\nhas been or may be made against him, has\nremoved, or is about to remove, or has con-\ncealed, or is concealing, or making away with,\nor handing over to others, any of his movable\nor immovable property;\n\nthe Court may order that the property of the\ndefendant, or any part thereof, be forthwith seized or\nattached by the appropriate officer as a pledge or surety\nto answer the just demand (of the plaintiff, until the\ntrial of the action and satisfaction of any judgment that\nmay be made against the defendant; but such order\nshall not constitute the plaintiff a secured creditor if the\ndefendant is adjudicated bankrupt:\n\nProvided that any property of the defendant or debts\ndue to the defendant if in the custody or under the\ncontrol of or due from any Government or public officer\n\nProcedure\nwhere\ndefendant\nfails to\nfurnish\nsecurity or\nfind fresh\nsecurity.\n\nApplication\nby\ndefendant.\n\nSeizure of\nproperty\nbefore\njudgment,\n\nJYLLMLT 3768.\nftp) 3ceo\nCourt may\nrelease\nproperty.\n\nOrder for\nsale of\nperishable\ngoods,\n\nProperty\nliable to\nexecution,\n\nCompensa-\n\ntion for\nimproper\narrest or\n\nattachment,\n\nin his official capacity, shall be seized or attached only\nwith the consent in writing of the Minister of Finance\nin the case of the Federal a or a Federal\n\n478 No. 71 ‘ 1957\n\nofficer, or the Chief Minister in the case of a State\nGovernment or State officer.\n\n(2) In the case of immovable property the seizure\nshall be made in the manner provided by rules of court\nfor the seizure of such property in execution of a\njudgment.\n\n(3) In case the immovable |property is subsequently\nseized in execution in satisfaction of judgment in the\naction, any order of Court. which, pursuant to such\nseizure is registered in accordance with such rules of\ncourt as are referred to in sub-section (2) of this section\nshall have priority as though it had been registered\nupon the date on which any jorder under this section\npursuant to the seizure of such property under this\nsection was so registered.\n\n20. The Court may at any time, on reasonable\ncause being shown and upon such terms, if any, as to\nsecurity or otherwise as seem just, release the property\nseized and order any movable|property to be returned.\n\n21. The Court may, at any time pending the trial\nof the action, order the |sale of any property\nseized under this Part which is of a perishable nature,\nor which for any other reasgn it is desirable to sell\nwithout delay, and direct the proceeds of such sale to\nbe retained by the appropriate officer or paid into Court\npending the trial of the action.\n\n22. Any property so seized, or the proceeds of sale\nthereof, shall be liable to execution in satisfaction of\nany judgment in the action against the defendant; but\nit shall be subject to the prior|claims of any judgment\ncreditor, whose judgment was pbtained within one year\nbefore the seizure thereof under this Part: provided that\nsuch judgment creditor has issued execution against\nthe defendant's property before the making of any order\nunder this Part.\n\nPART V\nDAMAGES FOR IMPROPER ARREST OR ATTACHMENT\n\n23. (1) If at any subsequent stage of an action in\nwhich an order for arrest or| attachment of property\nhas been made under this Ordinance it appears to the\nCourt that such arrest or attachment was applied for\nDEBTORS 479\n\non insufficient grounds, or if the plaintiff's claim is\ndismissed and it appears to the Court that there was no\nsufficient ground for instituting the action, the Court\nmay, on the application of |the defendant, award against\nthe plaintiff such amount, not exceeding one thousand\ndollars, as it deems reasonable to compensate the\ndefendant for any injury caused to him by the arrest or\nattachment.\n\n(2) An award under this section shall bar any action\nfor damages, but nothing in this section shall preclude\nthe defendant from maintaining an action for damages\ninstead of applying for an|award under sub-section (1).\n\nPart VII\n\nREPEAL = a pecee) 30\n24. The Debtors Ordinance of the Straits Settle- on ‘\nments is hereby repealed. :\n\ntubevduate Guts Kila, /950 - 0 aba LX 3/58\ndee alo iw. 31S"
+   }
+  }
+ ]
+}

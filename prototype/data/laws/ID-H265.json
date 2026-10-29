@@ -1,0 +1,126 @@
+{
+ "id": "ID-H265",
+ "title": {
+  "zh": "修订法",
+  "en": "amendment Law",
+  "id": "perubahan",
+  "orig": "PERUBAHAN",
+  "vi": "Luật sửa đổi",
+  "th": "พระราชบัญญัติ การแก้ไข",
+  "ms": "Akta perubahan"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02a",
+ "language": "id",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "1965",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU5-1962",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 6,
+ "chars": 7534,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": null
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\01_宪法与基础法\\印尼_WLD_1965_PERUBAHAN.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 6 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H265-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {},
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 1.\nDalam Undang-undang ini yang dimaksud dengan:\na. \"Gudang\", ialah suatu ruangan tidak bergerak yang dapat ditutup\ndengan tujuan tidak untuk dikunjungi oleh umum melainkan untuk\ndipakai khusus sebagai tempat penyimpanan barang- barang\nperniagaan, dan memenuhi syarat-syarat lain yang ditetapkan oleh\nMenteri\nPerdagangan;\nb. \"Barang perniagaan\", ialah barang bergerak yang pemakaiannya\ntidak diperuntukkan pemiliknya sendiri."
+   }
+  },
+  {
+   "id": "ID-H265-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {},
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 2.\nSemua fihak yang menjadi pemilik dan/atau penguasa gudang\ndiwajibkan:\na. mendaftarkan gudangnya menurut peraturan yang ditetapkan oleh\nMenteri Perdagangan;\nb. mengadakan administrasi mengenai barang-barang yang masuk dan\nkeluar gudang, sehingga jelas dapat diketahui asal dan harga\npembelian\nbarang maupun tujuan dan harga penjualannya dengan maksud\nuntuk mudah diikuti lalu-lintas barang-barang tersebut;\nc. memberi segala keterangan mengenai persediaan dan mutasi\nbarang-barang perniagaan yang diminta oleh Menteri Perdagangan\ndan/atau\ninstansi-instansi Pemerintah yang berwenang dalam hal\nini.\nd. membayar uang biaya administrasi tiap tahun yangg jumlahnya dan\ncara pembayarannya ditetapkan oleh Menteri Perdagangan;\ne. kewajiban-kewajiban tersebut pada ayat-ayat a sampai dengan d\ndi atas dikecualikan bagi gudang-gudang yang terletak di pelabuhan\nyang termasuk dalam kekuasaan/pengawasan Penguasa Pelabuhan."
+   }
+  },
+  {
+   "id": "ID-H265-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {},
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 3.\n(1) Siapapun dilarang menyimpan barang-barang penting dalam\ngudang lebih lama dari pada jangka waktu yang ditetapkan oleh\nMenteri\nPerdagangan.\n(2) Jenis-jenis barang-barang penting termaksud pada ayat (1)\npasal ini akan ditetapkan oleh Menteri Perdagangan.\n(3) Jangka waktu termaksud pada ayat (1) pasal ini ditetapkan\ndengan mengingat:\na. barang hasil dari import guna penyalurannya di dalam\nnegeri;\nb. barang hasil dalam negeri dengan tujuan export;\nc. penggolongan gudang menurut letak tempatnya.\n(4) Menteri Perdagangan dapat mengadakan pembatasan- pembatasan\nterhadap pemindah-tanganan barang-barang penting.\n(5) Dalam melaksanakan ayat (1), (2), (3) dan (4) pasal ini\nMenteri Perdagangan mendengar Menteri-menteri yang\nberkepentingan."
+   }
+  },
+  {
+   "id": "ID-H265-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {},
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 4.\n(1) Menteri Perdagangan mengatur lebih lanjut pelaksanaan dari\nketentuan-ketentuan dalam Undang-undang ini.\n(2) Instansi Pemerintah lain dilarang membuat peraturan tanpa\nkuasa Menteri Perdagangan."
+   }
+  },
+  {
+   "id": "ID-H265-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {},
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 5.\nPelanggaran terhadap ketentuan-ketentuan dalam atau berdasarkan\nUndang-undang ini adalah tindak pidana ekonomi."
+   }
+  },
+  {
+   "id": "ID-H265-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {},
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 6.\nUndang-undang ini dinamakan \"Peraturan Pergudangan 1962\", dan\nmulai berlaku pada hari tanggal diundangkannya dengan mempunyai\ndaya\nsurut sampai tanggal 30 Juni 1962.\nAgar supaya setiap orang dapat mengetahuinya memerintahkan\npengundangan Undang-undang ini dengan penempatan dalam\nLembaran-Negara\nRepublik. Indonesia.\nDisahkan di Jakarta\npada tanggal 14 Juni 1965.\nPresiden Republik Indonesia,\nSUKARNO\nDiundangkan di Jakarta\npada tanggal 14 Juni 1965.\nSekretaris Negara,\nMOHD. ICHSAN.\nPENJELASAN\nATAS\nUNDANG-UNDANG No. 11 TAHUN 1965\ntentang\nPENETAPAN PERATURAN PEMERINTAH PENGGANTI\nUNDANG-UNDANG No. 5 TAHUN 1962 TENTANG PERUBAHAN\nUNDANG-UNDANG No. 2 Prp TAHUN 1960 TENTANG\nPERGUDANGAN (LEMBARAN-NEGARA TAHUN 1962 No. 31)\nMENJADI UNDANG-UNDANG\nPENJELASAN UMUM\na. Dengan dijiwai oleh Instruksi Presiden No. Instr.\n2/Ko.-T.O.E. tahun 1962 yang dikeluarkan atas landasan amanat\nPresiden tentang\ngaris-garis besar ekonomi nasional tahun 1962\nmenjelang pembebasan Irian Barat, maka terhadap Peraturan\nPerdagangan 1960 perlu diadakan\nperubahan untuk khusus memperlancar\nlalu-lintas barang perniagaan terutama barang penting dengan\nmembatasi waktu penyimpannya dalam\ngudang-gudang;\nb. Pembatasan waktu penyimpanan itu sangat perlu untuk mempercepat\njalannya arus barang, yaitu :\n- barang dengan tujuan ekspor supaya lancar mengalir dari gudang\ndidaerah pedalaman kegudang daerah tengah dan selekasnya masuk\nke-gudang pelabuhan, siap untuk diekspor.\n- barang asal impor supaya lancar mengalir dari gudang pelabuhan\nkegudang di daerah tengah dan selekasnya diteruskan ke gudang\ndaerah\npedalaman kegudang-gudang didaerah pedalaman.\n- terutama supaya dalam gudang-gudang didaerah tengah tidak penuh\ntertumpuk barang-barang untuk diekspor maupun barang-barang asal\nimpor.\nc. Pemindah-tanganan barang digudang juga perlu dibatasi, sehingga\nyang untuk ekspor lekas diekspor dan yang asal impor lekas\ndialokasikan.\nd. Pembatasan waktu penyimpanan maupun pembatasan\npemindah-tanganan barang digudang, terutama didaerah tengah, adalah\nusaha mendorong\nserta memelihara jalannya arus barang usaha\nmendorong serta memelihara jalannya arus barang secara\nterus-menerus menuju tempat pada\nwaktu yang secepat-cepatnya.\ne. Memiliki/menguasai gudang seperti memikul tugas kepentingan\numum dan diikut-sertakan dalam pemberantasan gangguan-gangguan\nlalu-lintas\nbarang, oleh sebab itu pelanggaran-pelanggaran atas\nketentuan-ketentuan dalam Peraturan Pergudangan ini diancam dengan\nhukuman berat\ndengan jalan menyatakanya sebagai tindak-pidana\nekonomi.\nSudah barang tentu pelaksanaan Peraturan ini harus diamankan\ndengan perbaikan hal-hal dibidang lain sepertinya transport\ndidaerat\ndan dilaut.\nPENJELASAN PASAL DEMI PASAL\nPasal 1\nGudang yang harus didaftarakan itu ialah ruangan yang\ndipergunakan untuk menyimpan barang-barang perniagaan dan yang\ntidak untuk diperuntukkan\npenyimpanan barang-barang untuk keperluan\nsendiri, sehingga sebuah ruangan dalam rumah yang memenuhi\nsyarat-syarat yang ditetapkan\noleh Menteri Perdagangan sebagai\ngudang, tetapi hanya dipergunakan untuk menyimpan barang-barang\nkebutuhan rumah-tangga sendiri bukan\nbarang-barang perusahaan,\nbukanlah gudang menurut undang-undang ini, karena itu tidak perlu\ndidaftarkan.\nPasal 2\nPemilik dan/atau penguasa gudang diwajibkan :\n- mendaftarkan gudangnya menurut peraturan yang ditetapkan oleh\nMenteri Perdagangan.\n- mengadakan administrasi yang teratur dan cukup jelas dari keluar\nmasuknya barang-barang digudangnya sehingga dapat diketahui asal\ndan harga pembelian serta tujuan dan harga penjualan barang-barang,\nagar dapat mudah diikuti jalannya peredaran barang-barang\ntersebut;\n- memberi segala keterangan mengenai persediaan dan mutasi\nbarang-barang perniagaan yang diminta oleh Menteri Perdagangan\ndan/atau\ninstansi-instansi Pemerintah yang berwenang dalam hal\nini.\n- ketentuan-ketentuan tersebut diatas tidak dikenakan/berlaku bagi\nlumbung-lumbung Desa yang biasa digunakan untuk menyimpan padi.\nPasal 3\n(1) Ketentuan ini dimaksudkan agar barang-barang penting itu tidak\nterlalu lama disimpan didalam gudang;\n(2) Dalam peraturan ini tidak disebutkan satu-persatu\nbarang-barang penting itu, tetapi hanya memberikan wewenang kepada\nMenteri\nPerdagangan untuk menetapkan sesuatu barang itu sebagai\nbarang penting.\nKetentuan demikian diperlukan agar dapat dengan mudah\nmenyesuaikannya dengan waktu dan keadaan.\n(3) Cukup jelas.\n(4) Ketetapan ini memberikan wewenang pada Menteri Perdagangan\nuntuk mencegah perdagangan berantai dari barang-barang tersebut\npada\nayat 2.\n(5) Cukup jelas.\nPasal 4\n(1) Ketentuan ini memberikan wewenang pada Menteri Perdagangan\nuntuk menetapkan peraturan pelaksanaan dan peraturan khusus untuk\nmenyempurnakan peraturan ini.\n(2) Untuk mendapatkan koordinasi yang sebaik-baiknya (dan mencegah\nperaturan yang bersimpang-siur, maka instansi Pemerintah lainnya\ndilarang membikin peraturan dibidang pergudangan ini, tanpa\nmendapat kuasa dari Menteri Perdagangan.\nMengetahui\nSekretaris Negara,\nMOHD. ICHSAN.\n--------------------------------\nCATATAN\nKutipan: LEMBARAN NEGARA DAN TAMBAHAN LEMBARAN NEGARA TAHUN 1965\nYANG TELAH DICETAK ULANG"
+   }
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "id": "PH-H14262",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Section Two of Act Numbered three thousand and Fifty, Known as the \"Teachers' Pension Law.",
+  "orig": "An Act to Amend Section Two of Act Numbered three thousand and Fifty, Known as the \"Teachers' Pension Law."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1929-12-06",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3629",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1011,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1929/act_3629_1929.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03629_1929_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03629_1929_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14262-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section two of Act Numbered Three thousand and fifty is hereby amended so as to read as\n\"Section 2. For the purpose of determining the amount of annuity which a retired employee shall receive, the\nfollowing classifications and rates shall be established upon the basis of the annuity consisting of a fractional\npart of the average pay, salary, or compensation, for the three years of service rendered prior to the granting of\nthe pension with maximum average pay, salary, or compensation, in no case exceeding six thousand pesos per\nannum. The annual annuity as computed under this Act shall be four-tenths of the average salary for twenty\nyears of service; five-tenths of the average salary for twenty-three years of service; six-tenths of the average\nsalary for twenty-six years of service; seven-tenths of the average salary for twenty-nine years of service;\neight-tenths of the average salary for thirty-two or more years of service.\""
+   }
+  },
+  {
+   "id": "PH-H14262-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, December 6, 1929."
+   }
+  }
+ ]
+}

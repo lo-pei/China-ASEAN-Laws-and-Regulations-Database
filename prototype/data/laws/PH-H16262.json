@@ -1,0 +1,72 @@
+{
+ "id": "PH-H16262",
+ "title": {
+  "zh": null,
+  "en": "An Act to Liquidate the Municipal Loan Fund, the Private Surveyors' Loan Fund, and the Friar Lands Loan Fund.",
+  "orig": "An Act to Liquidate the Municipal Loan Fund, the Private Surveyors' Loan Fund, and the Friar Lands Loan Fund."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1940-05-26",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 554",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1330,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00554_1940_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00554_1940_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H16262-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The Municipal Loan Fund, created under Act Numbered Thirty-nine hundred and thirty-two, the\nPrivate Surveyors' Loan Fund, created under Act Numbered Thirty-three hundred and twenty-seven, as\namended, and the Friar Lands Loan Fund, created under Act Numbered Seventeen hundred and thirty-six, are\ndeclared under process of liquidation. All amounts existing to the credit of the Municipal Loan Fund,\nremaining uninvested at the time of the approval of this Act shall revert to the bond funds created under Acts\nNumbered Twenty-nine hundred and forty and Three thousand thirteen, and all amounts existing to the credit\nof he Private Surveyors' Loan Fund and the Friar Lands Loan Act, shall revert to the general funds of the\nPhilippine Treasury."
+   }
+  },
+  {
+   "id": "PH-H16262-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "All loans outstanding at the date of the approval of this Act shall be collected in accordance with\nthe terns and conditions under which they were granted until they are paid m full, and any amount or amounts\nso collected on account of the Municipal Loan Fund shall likewise revert to the bond funds mentioned in the\npreceding section, and any amount or amounts collected on account of the Private Surveyors' Loan Fund and\nthe Friar Lands Loan Fund shall likewise revert to the general funds of the Philippine Treasury."
+   }
+  },
+  {
+   "id": "PH-H16262-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, May 26, 1940."
+   }
+  }
+ ]
+}

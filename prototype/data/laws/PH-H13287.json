@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13287",
+ "title": {
+  "zh": null,
+  "en": "An Act Authorizing the Governor-General to Reserve for Public Purposes Land Belonging to the Private Domain of the Government.",
+  "orig": "An Act Authorizing the Governor-General to Reserve for Public Purposes Land Belonging to the Private Domain of the Government."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1916-02-24",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2635",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 550,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1916/act_2635_1916.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02635_1916_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02635_1916_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13287-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The Governor-General is hereby authorized and empowered by executive order to reserve from\nsale or other disposition, and for specific public uses or service, any land belonging to the private domain of\nthe Government of the Philippine Islands, the use of which is not otherwise directed by law; and thereafter\nsuch land shall not be subject to sale or other disposition and shall be used for the specific purposes directed\nby such executive order until otherwise provided by law."
+   }
+  },
+  {
+   "id": "PH-H13287-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, February 24, 1916."
+   }
+  }
+ ]
+}

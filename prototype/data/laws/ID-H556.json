@@ -1,0 +1,350 @@
+{
+ "id": "ID-H556",
+ "title": {
+  "zh": "人民信贷银行法",
+  "en": "Law on the People's Credit Bank",
+  "id": "BANK PERKREDITAN RAKYAT",
+  "orig": "BANK PERKREDITAN RAKYAT",
+  "vi": "Luật về Ngân hàng Tín dụng Nhân dân",
+  "th": "พระราชบัญญัติว่าด้วยธนาคารสินเชื่อประชาชน",
+  "ms": "Akta tentang Bank Kredit Rakyat"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02b",
+ "language": "id",
+ "level": "law",
+ "category": "02_民商事与经济法",
+ "status": "active",
+ "promulgatedDate": "1992",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU71-1992",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 22,
+ "chars": 14102,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PP%20NO%2071%20TH%201992.pdf&fl=P03774"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\02_民商事与经济法\\印尼_文本_1992_BANK PERKREDITAN RAKYAT.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 22 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H556-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\n\nBentuk hukum suatu Bank Perkredita n Rakyat dapat berupa salah satu\ndari:\na. Perusahaan Daerah;\nb. Koperasi;\nc. Perseroan Terbatas."
+   }
+  },
+  {
+   "id": "ID-H556-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\n\n(1) Bank Perkreditan Rakyat hany a dapat didirikan dan menjalankan\nusaha dengan izin Menteri Keuangan setelah mendengar\npertimbangan Bank Indonesia.\n(2) Bank Perkreditan Rakyat hanya dapat didirikan oleh\n a. warga negara Indonesia;\n b. badan hukum Indonesia yang seluruh pemiliknya warga negara\nIndonesia;\n c. pemerintah daerah;\n d. warga negara Indonesia, badan hukum Indonesia dan/atau\npemerintah daerah.\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H556-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\n\nUntuk mendirikan Bank Perkreditan Rakyat ditetapkan modal disetor\nsekurang-kurangnya Rp 50.000.000,00 (lima puluh juta rupiah)."
+   }
+  },
+  {
+   "id": "ID-H556-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\n\n(1) Bank Perkreditan Rakyat dapat didirikan di desa-desa di wilayah\nkocamatan di luar ibukota negara, ibukota propinsi, ibukota\nkabupaten dan kotamadya.\n(2) Dalam hal di dalam ibukota kabupaten atau kotamadya belum\nterdapat Bank Perkreditan Rakyat, pemerintah daerah setempat\ndapat mendirikan Bank Perkreditan Rakyat baik secara sendiri\nmaupun bersama-sama dengan koperasi, Bank Umum milik\nnegara dan/atau Bank Umum milik pemerintah daerah."
+   }
+  },
+  {
+   "id": "ID-H556-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\n\nPemberian izin usaha Bank Perkreditan Rakyat sebagaimana dimaksud\ndalam Pasal 1 dilakukan dalam 2 (dua) tahap:\na. persetujuan prinsip, yaitu persetujuan untuk melakukan persiapan\npendirian Bank Perkreditan Rakyat;\nb. izin usaha, yaitu izin yang diberikan untuk melakukan usaha setelah\npersiapan sebagaimana dimaksud dalam huruf a selesai dilakukan."
+   }
+  },
+  {
+   "id": "ID-H556-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\n\n(1) Permohonan untuk mendapatkan persetujuan prinsip\nsebagaimana dimaksud dalam Pasal 5 huruf a, wajib dilampiri\ndengan:\n a. rancangan anggaran dasar;\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n b. daftar calon pemegang saham, susunan direksi dan dewan\nkomisaris;\n c. rencana susunan organisasi;\n d. rencana kerja;\n e. bukti penyetoran sekurang-kurangnya sebesar 30% (tiga puluh\nperseratus) dari modal disetor sebagaimana dimaksud dalam\nPasal 3.\n(2) Bank Perkreditan Rakyat yang akan melakukan kegiatan usaha\nberdasarkan prinsip bagi hasil, harus secara tegas mencantumkan\nkegiatan usaha bank yang semata-mata berdasarkan prinsip bagi\nhasil dalam rancangan anggaran dasar dan rencana kerjanya."
+   }
+  },
+  {
+   "id": "ID-H556-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\n\nUntuk mendapatkan izin usaha sebagaimana dimaksud dalam Pasal 5\nhuruf b, pemohon wajib menyampaik an laporan kesiapan pendirian\nBank Perkreditan Rakyat dengan melampirkan:\na. anggaran dasar yang telah disahkan oleh instansi yang berwenang;\nb. daftar pemegang saham, susunan direksi dan dewan komisaris;\nc. susunan organisasi, sistem dan prosedur kerja;\nd. bukti pelunasan modal disetor sebagaimana dimaksud dalam Pasal\n3."
+   }
+  },
+  {
+   "id": "ID-H556-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n\nKetentuan lebih lanjut mengenai persyaratan dan tata cara perizinan\npendirian Bank Perkreditan Rakyat ditetapkan oleh Menteri Keuangan\nsetelah mendengar pertimbangan Bank Indonesia.\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H556-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n\nAnggota direksi dan dewan komisaris Bank Perkreditan Rakyat harus:\na. warga negara Indonesia;\nb. tidak pernah melakukan tindakan tercela di bidang perbankan\ndan/atau dihukum karena terbukti melakukan tindak pidana di\nbidang perbankan dan perekonomian;\nc. memiliki akhlak dan moral yang baik."
+   }
+  },
+  {
+   "id": "ID-H556-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\n\n(1) Anggota direksi Bank Perkreditan Rakyat dapat terdiri dari satu\norang atau lebih.\n(2) Dalam hal anggota direksi hanya satu orang, maka direksi yang\nbersangkutan harus berpengalaman operasional di bidang\nperbankan sekurang-kurangnya 1 (satu) tahun.\n(3) Dalam hal anggota direksi lebih dari satu orang, maka\nsekurang-kurangnya 50% (lima puluh perseratus) dari anggota\ndireksi Bank Perkreditan Rakyat harus berpengalaman\noperasional di bidang perbankan sekurang-kurangnya 1 (satu)\ntahun.\n(4) Anggota direksi Bank Perkreditan Rakyat dilarang merangkap\njabatan sebagai anggota direksi atau jabatan eksekutif lainnya\npada perusahaan lain.\n(5) Seseorang hanya dapat menjadi anggota dewan komisaris pada\nsebanyak-banyaknya 5 (lima) Bank Perkreditan Rakyat.\n\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nBAB II\nKEPEMILIKAN"
+   }
+  },
+  {
+   "id": "ID-H556-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\n\nBank Perkreditan Rakyat hanya dapat dimiliki oleh warga negara\nIndonesia, badan hukum Indonesia yang seluruh pemiliknya warga\nnegara Indonesia, pemerintah daerah, atau dapat dimiliki bersama di\nantara ketiganya.\n\nBAB III\nMERGER, KONSOLIDASI DAN AKUISISI"
+   }
+  },
+  {
+   "id": "ID-H556-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n\n(1) Merger atau konsolidasi hanya dapat dilakukan setelah\nmemperoleh izin Menteri Keuangan setelah mendengar\npertimbangan Bank Indonesia.\n(2) Merger atau konsolidasi dapat dilakukan oleh Bank Perkreditan\nRakyat dengan:\n a. Bank Perkreditan Rakyat lainnya; dan/atau\n b. Bank Umum."
+   }
+  },
+  {
+   "id": "ID-H556-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\n\nMerger atau konsolidasi antara Bank  Perkreditan Rakyat dengan Bank\nUmum sebagaimana dimaksud dalam Pasal 12 ayat (2) huruf b, hanya\ndapat dilakukan semata-mata untuk mengatasi masalah kesehatan\nBank Perkreditan Rakyat yang bersangkutan.\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H556-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\n\nMerger atau konsolidasi antar bank hanya dapat dilakukan dengan\nketentuan:\na. salah satu diantaranya memenuhi persyaratan membuka kantor\ncabang;\nb. telah mendapat persetujuan rapat umum pemegang saham dari\nbank yang berbentuk hukum Perseroan Terbatas atau rapat anggota\nbagi bank yang berbentuk hukum Koperasi atau rapat sejenis bagi\nbank yang berbentuk hukum lainnya;\nc. tingkat kesehatan bank hasil merger atau konsolidasi\nsekurang-kurangnya cukup sehat;\nd. segala hak dan kewajiban bank yang melakukan merger atau\nkonsolidasi beralih dan menjadi tanggung jawab bank hasil merger\natau konsolidasi."
+   }
+  },
+  {
+   "id": "ID-H556-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\n\nPermohonan untuk memperoleh izin merger atau konsolidasi diajukan\nkepada Menteri Keuangan dengan tembusan kepada Bank Indonesia\ndengan melampirkan:\na. notulen rapat umum pemegang saham atau rapat anggota koperasi\nbank yang bersangkutan;\nb. rancangan akta jual beli saha m bank yang akan merger atau\nrancangan akta perjanjian merger atau konsep surat perjanjian\nkonsolidasi dan penetapan status dari bank-bank yang akan\ndikonsolidasi;\nc. rancangan anggaran dasar dari bank hasil merger atau konsolidasi;\nd. rencana susunan pengurus dan pemegang saham bank hasil merger\natau konsolidasi.\n\n\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H556-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\n\nAkuisisi Bank Perkreditan Rakyat yang dilakukan oleh bank maupun\npihak lain yang melebihi batas 50% (lima puluh perseratus) dari saham\nBank Perkreditan Rakyat yang di ambil alih, wajib terlebih dahulu\nmendapat izin Menteri Keuangan setelah mendengar pertimbangan\nBank Indonesia."
+   }
+  },
+  {
+   "id": "ID-H556-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\n\nKetentuan lebih lanjut mengenai persyaratan dan tata cara merger,\nkonsolidasi dan akuisisi diatur oleh Menteri Keuangan setelah\nmendengar pertimbangan Bank Indonesia.\n\nBAB IV\nPENGGUNAAN TENAGA ASING"
+   }
+  },
+  {
+   "id": "ID-H556-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\n\n(1) Bank Perkreditan Rakyat dapat menggunakan tenaga asing\nsebagai tenaga ahli, penasehat da n/atau konsultan untuk jangka\nwaktu paling lama 5 (lima) tahun.\n(2) Di samping persyaratan sebagaimana dimaksud dalam Ayat (1),\npenggunaan tenaga kerja asing serta tata cara penggunaannya\nmengikuti peraturan perundang-undangan di bidang\nketenagakerjaan.\n\n\n\n\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nBAB V\nPENGUKUHAN MENJADI BANK PERKREDITAN"
+   }
+  },
+  {
+   "id": "ID-H556-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\n\n(1) Bank Desa, Lumbung Desa, Bank Pasar, Bank Pegawai, Lumbung\nPitih Nagari, Lembaga Perkreditan Desa, Badan Kredit Desa,\nBadan Kredit Kecamatan, Kredit  Usaha Rakyat Kecil, Lembaga\nPerkreditan Kecamatan, Bank Karya Produksi Desa dan/atau\nlembaga-lembaga lainnya yang dipersamakan dengan itu, yang\ntelah memperoleh izin usaha dari Menteri Keuangan, dinyatakan\nmenjadi Bank Perkreditan Rakyat.\n(2) Lembaga atau badan sebagaimana dimaksud dalam ayat (1) yang\ntelah berdiri sebelum berlakunya Undang-undang Nomor 7 Tahun\n1992 tentang Perbankan dan belum mendapatkan izin usaha\nsebagai- Bank Perkreditan Rakyat wajib mengajukan permohonan\nizin usaha sebagai Bank Perkreditan Rakyat kepada Menteri\nKeuangan selambat-lambatnya 5 (lima) tahun sejak berlakunya\nPeraturan Pemerintah ini.\n(3) Untuk dapat memperoleh izin usaha sebagai Bank Perkreditan\nRakyat, lembaga atau badan sebagaimana dimaksud dalam ayat\n(2) dapat memilih salah satu bentuk hukum sebagai berikut:\n a. Perusahaan Daerah;\n b. Koperasi; atau\n c. Perseroan Terbatas.\n(4) Pengurus Bank Perkreditan Rakyat sebagaimana dimaksud dalam\nayat (1) dan ayat (2) wajib memenuhi ketentuan sebagaimana\ndimaksud dalam Pasal 9.\n(5) Ketentuan lebih lanjut mengenai persyaratan dan tatacara\npengukuhan menjadi Bank Perkreditan Rakyat ditetapkan oleh\nMenteri Keuangan setelah mendengar pertimbangan Bank\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nIndonesia.\n\nBAB VI\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H556-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\n\n(1) Persetujuan prinsip atau izin usaha sebagai Bank Perkreditan\nRakyat yang telah diberikan sebelum berlakunya Peraturan\nPemerintah ini dinyatakan tetap berlaku.\n(2) Ketentuan tentang besarnya modal disetor sebagaimana\ndimaksud dalam Pasal 3, tidak berlaku bagi:\n a. Bank Perkreditan Rakyat sebagaimana dimaksud dalam Pasal\n19 ayat (2);\n b. Bank Perkreditan Rakyat yang telah mendapat persetujuan\nprinsip dan/atau izin usaha.\n(3) Bank Perkreditan Rakyat yang telah mendapat izin usaha dari\nMenteri Keuangan dengan bentuk hukum Maskapai Andil\nIndonesia (MAI) dalam melaksanakan kegiatan usahanya tunduk\npada peraturan perundang-undangan di bidang perbankan.\n\nBAB VII\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H556-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\n\nDengan berlakunya Peraturan Pemerintah ini, semua peraturan\nperundang-undangan mengenai Bank Perkreditan Rakyat yang\nbertentangan dengan Peraturan Pemerintah ini dinyatakan tidak\nberlaku lagi.\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H556-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\n\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\n\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran\nNegara Republik Indonesia.\n\nDitetapkan di Jakarta\npada tanggal 30 Oktober 1992\n\nPRESIDEN REPUBLIK INDONESIA\n\n      ttd\n\n            SOEHARTO\n\nDiundangkan di Jakarta\npada tanggal 30 Oktober 1992\n\nMENTERI/SEKRETARIS NEGARA\n   REPUBLIK INDONESIA\n\n     ttd\n\n    MOERDIONO\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nPENJELASAN\nATAS\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nNOMOR 71 TAHUN 1992\nTENTANG\nBANK PERKREDITAN RAKYAT\n\nUMUM\n\nPenyempurnaan sistem perbankan di Indonesia ditempuh antara lain\ndengan cara menyederhanakan jenis bank menjadi Bank Umum dan\nBank Perkreditan Rakyat, serta memperjelas ruang lingkup dan batas\nkegiatan yang dapat diselenggarakan. Melalui upaya penyempurnaan\ntersebut, perbankan diharapkan dapat lebih meningkatkan peranannya\ndalam pelaksanaan pemerataan pembangunan dan hasil-hasilnya,\npertumbuhan ekonomi dan stabilitas nasional ke arah peningkatan\ntaraf hidup rakyat banyak.\n\nGuna lebih menunjang pembangunan dan modernisasi di daerah\npedesaan, keberadaan dan kejelasan status serta perkembangan Bank\nPerkreditan Rakyat perlu dibina dan diarahkan agar dapat memperluas\njangkauan pelayanannya dan memberi kepastian berusaha bagi Bank\nPerkreditan Rakyat di segala pelosok tanah air.\n\nPASAL DEMI PASAL\n\nPasal 1\n Cukup jelas\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nPasal 2\n Ayat (1)\n  C u k u p  j e l a s\n Ayat (2)\n  C u k u p  j e l a s\n\nPasal 3\n Yang dimaksud dengan modal disetor untuk Bank Perkreditan\nRakyat yang berbentuk hukum Koperasi adalah simpanan pokok,\nsimpanan wajib dan modal penyertaan sebagaimana diatur dalam\nUndang-undang Perkoperasian.\n\nPasal 4\n Ayat (1)\n  C u k u p  j e l a s\n Ayat (2)\n  Pendirian Bank Perkreditan Rakyat pada dasarnya hanya dapat\ndilakukan di luar ibukota negara, propinsi, Dati I dan Dati II,\nnamun Ayat (2) merupakan pengecualian.\n\nPasal 5\n Pihak yang mendapat persetujuan prinsip tidak diperkenankan\nmelakukan kegiatan usaha apapun di bidang perbankan sebelum\nmendapat izin usaha.\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nPasal 6\n Ayat (1)\n  C u k u p  j e l a s\n Ayat (2)\n  Yang dimaksud dengan Bank Perkreditan Rakyat yang\nberdasarkan prinsip bagi hasil adalah bank sebagaimana\ndimaksud dalam peraturan perundang-undangan tentang bank\nberdasarkan prinsip bagi hasil.\n\nPasal 7\n Cukup jelas\n\nPasal 8\n Cukup jelas\n\nPasal 9\n Pengertian direksi dan dewan komisaris bagi Bank Perkreditan\nRakyat yang berbentuk hukum Koperasi adalah pejabat pimpinan\nyang setingkat dengan direksi dan dewan komisaris pada Bank\nPerkreditan Rakyat yang berbentuk hukum Perseroan Terbatas.\n Huruf a\n  C u k u p  j e l a s\n Huruf b\n  Penilaian mengenai tindakan tercela di bidang perbankan dapat\ndiperoleh dari berbagai informasi seperti keputusan pengadilan\ntentang tindak pidana dan catatan-catatan Bank Indonesia\nmengenai dilakukannya praktek yang tidak sehat di bidang\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nperbankan.\n Huruf c\n  Penilaian mengenai akhlak dan moral yang baik didasarkan pada\ninformasi yang diketahui secara umum tentang perilaku tertentu,\nseperti penjudi atau penipu yang dapat membahayakan bank.\n\nPasal 10\n Ayat (1)\n  C u k u p  j e l a s\n Ayat (2)\n  C u k u p  j e l a s\n Ayat (3)\n  C u k u p  j e l a s\n Ayat (4)\n  Yang dimaksud dengan jabatan eksekutif pada perusahaan lain\nadalah jabatan yang memerlukan tanggung jawab penuh sebagai\npimpinan atau pelaksana pada perusahaan lain.\n Ayat (5)\n  Ketentuan ini dimaksudkan agar anggota dewan komisaris dapat\nmengkonsentrasikan diri pada bank-bank, tempat yang\nbersangkutan menjadi anggota dewan komisaris sehingga\npengawasan dapat berjalan secara efektif.\n\nPasal 11\n Cukup jelas\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nPasal 12\n Ayat (1)\n  C u k u p  j e l a s\n Ayat (2)\n  C u k u p  j e l a s\n\nPasal 13\n Cukup jelas\n\nPasal 14\n Cukup jelas\n\nPasal 15\n Cukup jelas\n\nPasal 16\n Cukup jelas\n\nPasal 17\n Cukup jelas\n\nPasal 18\n Ayat (1)\n  C u k u p  j e l a s\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n Ayat (2)\n  C u k u p  j e l a s\n\nPasal 19\n Ayat (1)\n  C u k u p  j e l a s\n Ayat (2)\n  C u k u p  j e l a s\n Ayat (3)\n  C u k u p  j e l a s\n Ayat (4)\n  C u k u p  j e l a s\n Ayat (5)\n  C u k u p  j e l a s\n\nPasal 20\n Ayat (1)\n  C u k u p  j e l a s\n Ayat (2)\n  C u k u p  j e l a s\n Ayat (3)\n  Ketentuan ini menegaskan bahwa keberadaan Bank Perkreditan\nRakyat dengan bentuk hukum MAI tetap diakui, namun dalam\nmelaksanakan kegiatan usahanya wajib mengikuti ketentuan\nsebagaimana ditetapkan dalam Undang-undang Nomor 7 Tahun\n1992 dan Peraturan Pemerintah tentang Perbankan dan\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nperaturan-peraturan pelaksanaannya.\n\nPasal 21\n Cukup jelas\n\nPasal 22\n Cukup jelas"
+   }
+  }
+ ]
+}

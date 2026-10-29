@@ -1,0 +1,72 @@
+{
+ "id": "PH-H16384",
+ "title": {
+  "zh": null,
+  "en": "An Act Authorizing the Payment of three Months' Advance Pay of Officials, Employees and Laborers of the Commonwealth Government Who Have Not Received Same At the Outbreak of the War.",
+  "orig": "An Act Authorizing the Payment of three Months' Advance Pay of Officials, Employees and Laborers of the Commonwealth Government Who Have Not Received Same At the Outbreak of the War."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1945-07-28",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 676",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 794,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00676_1945_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00676_1945_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H16384-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Officials, employees annd laborers who may not have received the three months advance pay at\nthe outbreak of the war shall be paid the same from any available funds in the 1945-1946 appropriations for\nthe offices concerned."
+   }
+  },
+  {
+   "id": "PH-H16384-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Provinces, chartered cities, municipalities, municipal districts and government-owned or\ncontrolled corporations may avail themselves of the provisions of this Act if their finances warrant the\nextension of the benefits of said provisions to its officials and employees: Provided, That the provinces, cities,\nmunicipalities or municipal districts which shall receive aid from the National Government shall not utilize\nany portion thereof to pay the three months' advance salary authorized by this Act."
+   }
+  },
+  {
+   "id": "PH-H16384-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, July 28, 1945."
+   }
+  }
+ ]
+}

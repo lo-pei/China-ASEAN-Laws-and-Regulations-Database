@@ -1,0 +1,62 @@
+{
+ "id": "PH-H21976",
+ "title": {
+  "zh": null,
+  "en": "Amending Section Two of Presidential Decree Number Four Hundred Fifty-Eight Creating the Department of Public Highways",
+  "orig": "Amending Section Two of Presidential Decree Number Four Hundred Fifty-Eight Creating the Department of Public Highways"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p159",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1974-09-05",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 548",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 596,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_00548_1974_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_00548_1974_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H21976-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The provision of Section 2 of Presidential Decree No. 458 is hereby amended to read as follows:\n\"Sec. 2. Organization of the Department of Public Highways. The Department of Public Highways,\nhereinafter called the Department, shall be composed of a Department Proper made up of the immediate\nOffice of the Secretary, the Planning Service, the Administrative Service the Financial and Management\nService, and the Project Execution Service;\""
+   }
+  },
+  {
+   "id": "PH-H21976-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Decree shall take effect immediately.\nDONE in the City of Manila, this 5th day of September, in the year of Our Lord, nineteen hundred and\nseventy-four."
+   }
+  }
+ ]
+}

@@ -1,0 +1,476 @@
+{
+ "id": "ID-H427",
+ "title": {
+  "zh": "土地与建筑物税法",
+  "en": "Law on Land and Building Tax",
+  "id": "PAJAK BUMI DAN BANGUNAN.",
+  "orig": "PAJAK BUMI DAN BANGUNAN.",
+  "vi": "Luật về Thuế Đất và Nhà",
+  "th": "พระราชบัญญัติว่าด้วยภาษีที่ดินและสิ่งปลูกสร้าง",
+  "ms": "Akta tentang Cukai Tanah dan Bangunan"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02b",
+ "language": "id",
+ "level": "law",
+ "category": "02_民商事与经济法",
+ "status": "active",
+ "promulgatedDate": "1985",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "-",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 31,
+ "chars": 43355,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": null
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\02_民商事与经济法\\印尼_WLD_1985_PAJAK BUMI DAN BANGUNAN..txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 31 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H427-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\nYang dimaksud dalam Undang-undang ini dengan :\n1. Bumi adalah permukaan bumi dan tubuh bumi yang ada\ndibawahnya;\n2. Bangunan adalah konstruksi teknik yang ditanam atau\ndilekatkan secara tetap pada tanah dan/atau perairan;\n3. Nilai Jual Obyek Pajak adalah harga rata-rata yang diperoleh\ndari transaksi jual beli yang terjadi secara wajar, dan bilamana\ntidak\nterdapat transaksi juai beli, Nilai Jual Obyek Pajak\nditentukan melalui perbandingan harga dengan obyek lain yang\nsejenis, atau nilai\nperolehan baru, atau Nilai Jual Obyek Pajak\npengganti;\n4. Surat Pemberitahuan Obyek Pajak adalah surat yang digunakan\noleh wajib pajak untuk melaporkan data obyek pajak menurut\nketentuan\nundang-undang ini;\n5. Surat Pemberitahuan Pajak Terhutang adalah surat yang\ndigunakan oleh Direktorat Jenderal Pajak untuk memberitahukan\nbesarnya pajak\nterhutang kepada wajib pajak.\nBAB II\nOBYEK PAJAK"
+   }
+  },
+  {
+   "id": "ID-H427-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\n(1) Yang menjadi obyek pajak adalah bumi dan/atau bangunan.\n(2) Klasifikasi obyek pajak sebagaimana dimaksud dalam ayat (1)\ndiatur oleh Menteri Keuangan."
+   }
+  },
+  {
+   "id": "ID-H427-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\n(1) Obyek Pajak yang tidak dikenakan Pajak Bumi dan Bangunan\nadalah obyek pajak yang :\na. digunakan semata-mata untuk melayani kepentingan umum di\nbidang ibadah, sosial, kesehatan, pendidikan dan kebudayaan\nnasional,\nyang tidak dimaksudkan untuk memperoleh keuntungan;\nb. digunakan untuk kuburan, peninggalan purbakala, atau yang\nsejenis dengan itu;\nc. merupakan hutan lindung, hutan suaka alam, hutan wisata,\ntaman nasional, tanah penggembalaan yang dikuasai oleh desa, dan\ntanah\nnegara yang belum dibebani suatu hak;\nd. digunakan oleh perwakilan diplomatik, konsulat berdasarkan\nasas perlakuan timbal balik;\ne. digunakan oleh badan atau perwakilan organisasi internasional\nyang ditentukan oleh Menteri Keuangan.\n(2) Obyek pajak yang digunakan oleh negara untuk penyelenggaraan\npemerintahan, penentuan pengenaan pajaknya diatur lebih lanjut\ndengan\nPeraturan Pemerintah.\n(3) Batas nilai jual Bangunan Tidak Kena Pajak ditetapkan\nsebesar Rp. 2.000.000,- (dua juta rupiah) untuk setiap satuan\nbangunan.\n(4) Batas nilai jual Bangunan Tidak Kena Pajak sebagaimana\ndimaksud dalam ayat (3) akan disesuaikan dengan suatu faktor\npenyesuaian\nyang ditetapkan oleh Menteri Keuangan.\nBAB III\nSUBYEK PAJAK"
+   }
+  },
+  {
+   "id": "ID-H427-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\n(1) Yang menjadi subyek pajak adalah orang atau badan yang\nsecara nyata mempunyai suatu hak atas bumi, dan/atau memperoleh\nmanfaat\natas bumi, dan/atau memiliki, menguasai, dan/atau\nmemperoleh manfaat atas bangunan.\n(2) Subyek pajak sebagaimana dimaksud dalam ayat (1) yang\ndikenakan kewajiban membayar pajak menjadi wajib pajak menurut\nUndang-undang\nini.\n(3) Dalam hal atas suatu obyek pajak belum jelas diketahui wajib\npajaknya, Direktur Jenderal Pajak dapat menetapkan subyek pajak\nsebagaimana\ndimaksud dalam ayat (1) sebagai wajib pajak.\n(4) Subyek pajak yang ditetapkan sebagaimana dimaksud dalam ayat\n(3) dapat memberikan keterangan secara tertulis kepada Direktur\nJenderal\nPajak bahwa ia bukan wajib pajak terhadap obyek pajak\ndimaksud.\n(5) Bila keterangan yang diajukan oleh wajib pajak sebagaimana\ndimaksud dalam ayat (4) disetujui, maka Direktur Jenderal Pajak\nmembatalkan\npenetapan sebagai wajib pajak sebagaimana dimaksud\ndalam ayat (3) dalam jangka waktu satu bulan sejak diterimanya\nsurat keterangan\ndimaksud.\n(6) Bila keterangan yang diajukan itu tidak disetujui, maka\nDirektur Jenderal Pajak mengeluarkan surat keputusan penolakan\ndengan\ndisertai alasan-alasannya.\n(7) Apabila setelah jangka waktu satu bulan sejak tanggal\nditerimanya keterangan sebagaimana dimaksud dalam ayat (4),\nDirektur Jenderal\nPajak tidak memberikan keputusan, maka keterangan\nyang diajukan itu dianggap disetujui.\nBAB IV\nTARIF PAJAK"
+   }
+  },
+  {
+   "id": "ID-H427-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\nTarif pajak yang dikenakan atas obyek pajak adalah sebesar 0,5%\n(lima persepuluh persen).\nBAB V\nDASAR PENGENAAN DAN CARA MENGHITUNG PAJAK"
+   }
+  },
+  {
+   "id": "ID-H427-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\n(1) Dasar pengenaan pajak adalah Nilai Jual Obyek Pajak.\n(2) Besarnya Nilai Jual Obyek Pajak sebagaimana dimaksud dalam\nayat (1) ditetapkan setiap tiga tahun oleh Menteri Keuangan,\nkecuali\nuntuk daerah tertentu ditetapkan setiap tahun sesuai\nperkembangan daerahnya.\n(3) Dasar penghitungan pajak adalah Nilai Jual Kena Pajak yang\nditetapkan serendah-rendahnya 20% (dua puluh persen) dan\nsetinggi-tingginya\n100% (seratus persen) dari Nilai Jual Obyek\nPajak.\nTGPT NAME=\"ps6(4)\">(4) Besarnya persentase Nilai Jual Kena\nPajak sebagaimana dimaksud dalam` ayat (3) ditetapkan dengan\nPeraturan\nPemerintah dengan memperhatikan kondisi ekonomi\nnasional."
+   }
+  },
+  {
+   "id": "ID-H427-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\nBesarnya pajak yang terhutang dihitung dengan cara mengalikan\ntarif pajak dengan Nilai Jual Kena Pajak.\nBAB VI\nTAHUN PAJAK, SAAT, DAN TEMPAT YANG\nMENENTUKAN PAJAK TERHUTANG"
+   }
+  },
+  {
+   "id": "ID-H427-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n(1) Tahun pajak adalah jangka waktu satu tahun takwim.\n(2) Saat yang menentukan pajak yang terhutang adalah menurut\nkeadaan obyek pajak pada tanggal 1 Januari.\n(3) Tempat pajak yang terhutang:\na. untuk daerah Jakarta, di wilayah Daerah Khusus Ibukota\nJakarta;\nb. untuk daerah lainnya, di wilayah Kabupaten Daerah Tingkat II\natau Kotamadya Daerah Tingkat II;\nyang meliputi letak obyek pajak.\nBAB VI\nPENDAFTARAN, SURAT PEMBERITAHUAN OBYEK PAJAK,\nSURAT PEMBERITAHUAN PAJAK TERHUTANG, DAN\nSURAT KETETAPAN PAJAK"
+   }
+  },
+  {
+   "id": "ID-H427-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n(1) Dalam rangka pendataan, subyek pajak wajib mendaftarkan\nobyek pajaknya dengan dengan mengisi Surat Pemberitahuan Obyek\nPajak.\n(2) Surat Pemberitahuan Obyek Pajak sebagaimana dimaksud dalam\nayat (1) harus diisi dengan jelas, benar, dan lengkap serta\nditandatangani\ndan disampaikan kepada Direktorat Jenderal Pajak\nyang wilayah kerjanya meliputi letak obyek pajak,\nselambat-lambatnya 30 (tiga puluh)\nhari setelah tanggal diterimanya\nSurat Pemberitahuan Obyek Pajak oleh subyek pajak.\n(3) Pelaksanaan dan tata cara pendaftaran obyek pajak\nsebagaimana dimaksud dalam ayat (1) dan ayat (2) diatur lebih\nlanjut oleh Menteri\nKeuangan."
+   }
+  },
+  {
+   "id": "ID-H427-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\n(1) Berdasarkan Surat Pemberitahuan Obyek Pajak sebagaimana\ndimaksud dalam Pasal 9 ayat (1), Direktur Jenderal Pajak\nmenerbitkan Surat\nPemberitahuan Pajak Terhutang.\n(2) Direktur Jenderal Pajak dapat mengeluarkan Surat Ketetapan\nPajak dalam hal-hal sebagai berikut :\na. apabila Surat Pemberitahuan Obyek Pajak tidak disampaikan\nsebagaimana dimaksud dalam Pasal 9 ayat (2) dan setelah ditegor\nsecara\ntertulis tidak disampaikan sebagaimana ditentukan dalam\nSurat Tegoran;\nb. apabila berdasarkan hasil pemeriksaan atau keterangan lain\nternyata jumlah pajak yang terhutang lebih besar dari jumlah pajak\nyang\ndihitung berdasarkan Surat Pemberitahuan Obyek Pajak yang\ndisampaikan oleh wajib pajak.\n(3) Jumlah pajak yang terhutang dalam Surat Ketetapan Pajak\nsebagaimana dimaksud dalam ayat (2) huruf a, adalah pokok pajak\nditambah\ndengan denda administrasi sebesar 25% (dua puluh lima\npersen) dihitung dari pokok pajak.\n(4) Jumlah pajak yang terhutang dalam Surat Ketetapan Pajak\nsebagaimana dimaksud dalam ayat (2) huruf b adalah selisih pajak\nyang\nterhutang berdasarkan hasil pemeriksaan atau keterangan lain\ndengan pajak yang terhutang yang dihitung berdasarkan Surat\nPemberitahuan\nObyek Pajak ditambah denda administrasi sebesar 25%\n(dua puluh lima persen) dari selisih pajak yang terhutang.\nBAB VIII\nTATA CARA PEMBAYARAN DAN PENAGIHAN"
+   }
+  },
+  {
+   "id": "ID-H427-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\n(1) Pajak yang terhutang berdasarkan Surat Pemberitahuan Pajak\nTerhutang sebagaimana dimaksud dalam Pasal 10 ayat (1) harus\ndilunasi\nselambat-lambatnya 6 (enam) bulan sejak tanggal\nditerimanya Surat Pemberitahuan Pajak Terhutang oleh wajib\npajak.\n(2) Pajak yang terhutang berdasarkan Surat Ketetapan Pajak\nsebagaimana dimaksud dalam Pasal 10 ayat (3) dan ayat (4) harus\ndilunasi\nselambat-lambatnya 1 (satu) bulan sejak tanggal\nditerimanya Surat Ketetapan Pajak oleh wajib pajak.\n(3) Pajak yang terhutang yang pada saat jatuh tempo pembayaran\ntidak dibayar atau kurang dibayar, dikenakan denda administrasi\nsebesar\n2% (dua persen) sebulan, yang dihitung dari saat jatuh\ntempo sampai dengan hari pembayaran untuk jangka waktu paling lama\n24 (dua\npuluh empat) bulan.\n(4) Denda administrasi sebagaimana dimaksud dalam ayat (3)\nditambah dengan hutang pajak yang belum atau kurang dibayar ditagih\ndengan\nSurat Tagihan Pajak yang harus dilunasi selambat-lambatnya 1\n(satu) bulan sejak tanggal diterimanya Surat Tagihan Pajak oleh\nwajib\npajak.\n(5) Pajak yang terhutang dibayar di Bank, Kantor Pos dan Giro,\ndan tempat lain yang ditunjuk oleh Menteri Keuangan.\n(6) Tata Cara pembayaran dan penagihan sebagaimana dimaksud\ndalam ayat (1),ayat (2), ayat (3), ayat (4), dan ayat (5) diatur\noleh\nMenteri Keuangan."
+   }
+  },
+  {
+   "id": "ID-H427-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\nSurat Pemberitahuan Pajak Terhutang, Surat Ketetapan Pajak, dan\nSurat Tagihan Pajak merupakan dasar penagihan pajak."
+   }
+  },
+  {
+   "id": "ID-H427-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\nJumlah pajak yang terhutang berdasarkan Surat Tagihan Pajak yang\ntidak dibayar pada waktunya dapat ditagih dengan Surat Paksa."
+   }
+  },
+  {
+   "id": "ID-H427-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\nMenteri Keuangan dapat melimpahkan kewenangan penagihan pajak\nkepada Gubernur Kepala Daerah Tingkat I dan/atau\nBupati/Walikotamadya\nKepala Daerah Tingkat II.\nBAB IX\nKEBERATAN DAN BANDING"
+   }
+  },
+  {
+   "id": "ID-H427-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\n(1) Wajib pajak dapat mengajukan keberatan pada Direktur\nJenderal Pajak atas:\na. Surat Pemberitahuan Pajak Terhutang;\nb. Surat Ketetapan Pajak.\n(2) Keberatan diajukan secara tertulis dalam bahasa Indonesia\ndengan menyatakan alasan secara jelas.\n(3) Keberatan harus diajukan dalam jangka waktu 3 (tiga) bulan\nsejak tanggal diterimanya surat sebagaina dimaksud dalam ayat (1)\noleh\nwajib pajak, kecuali apabila wajib pajak dapat menunjukkan\nbahwa jangka waktu itu tidak dapat dipenuhi karena keadaan di luar\nkekuasaannya.\n(4) Tanda penerimaan Surat Keberatan yang diberikan oleh pejabat\nDirek- torat Jenderal Pajak yang ditunjuk untuk itu atau tanda\npengiriman\nSurat Keberatan melalui pos tercatat menjadi tanda bukti\npenerimaan Surat Keberatan tersebut bagi kepentingan wajib\npajak.\n(5) Apabila diminta oleh wajib pajak untuk keperluan pengajuan\nkeberatan, Direktur Jenderal Pajak wajib memberikan secara tertulis\nhal-hal yang menjadi dasar pengenaan pajak.\n(6) Pengajuan keberatan tidak menunda kewajiban membayar\npajak."
+   }
+  },
+  {
+   "id": "ID-H427-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\n(1) Direktur Jenderal Pajak dalam jangka waktu paling lama 12\n(dua belas) bulan sejak tanggal Surat Keberatan diterima, harus\nmemberikan\nkeputusan atas keberatan yang diajukan.\n(2) Sebelum surat keputusan diterbitkan, wajib pajak dapat\nmenyampaikan alasan tambahan atau penjelasan tertulis.\n(3) Keputusan Direktur Jenderal Pajak atas keberatan dapat\nberupa menerima seluruhnya atau sebagian, menolak atau menambah\nbesarnya\njumlah pajak yang terhutang.\n(4) Dalam hal wajib pajak mengajukan keberatan atas ketetapan\nsebagaimana dimaksud dalam Pasal 10 ayat (2) huruf a, wajib pajak\nyang\nbersangkutan harus dapat membuktikan ketidak benaran ketetapan\npajak tersebut.\n(5) Apabila jangka waktu sebagaimana dimaksud dalam ayat (1)\ntelah lewat dan Direktur Jenderal Pajak tidak memberikan suatu\nkeputusan,\nmaka keberatan yang diajukan tersebut dianggap\nditerima."
+   }
+  },
+  {
+   "id": "ID-H427-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\n(1) Wajib pajak dapat mengajukan banding kepada badan peradilan\npajak terhadap keputusan yang ditetapkan oleh Direktur Jenderal\nPajak\nsebagaimana dimaksud dalam Pasal 4 ayat (6) dan Pasal 16 ayat\n(3) dalam jangka waktu 3 (tiga) bulan sejak tanggal diterimanya\nsurat\nkeputusan oleh wajib pajak dengan dilampiri salinan surat\nkeputusan tersebut.\n(2) Permohonan banding diajukan secara tertulis dalam bahasa\nIndonesia.\n(3) Pengajuan permohonan banding tidak menunda kewajiban\nmambayar pajak.\nBAB X\nPEMBAGIAN HASIL PENERIMAAN PAJAK"
+   }
+  },
+  {
+   "id": "ID-H427-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\n(1) Hasil penerimaan pajak merupakan penerimaan negara yang\ndibagi antara Pemerintah Pusat dan Pemerintah Daerah dengan\nimbangan pembagian\nsekurang-kurangnya 90% (sembilan puluh persen)\nuntuk Pemerintah Daerah Tingkat II dan Pemerintah Daerah Tingkat I\nsebagai pendapatan\ndaerah yang bersangkutan.\n(2) Bagian penerimaan Pemerintah Daerah sebagaimana dimaksud\ndalam ayat (1), sebagian besar diberikan kepada Pemerintah Daerah\nTingkat\nII.\nTGPT NAME=\"ps18(3)\">(3) Imbangan pembagian hasil penerimaan\npajak sebagaimana dimaksud dalam ayat (1) dan ayat (2) diatur\ndengan\nPeraturan Pemerintah.\nBAB XI\nKETENTUAN LAIN-LAIN"
+   }
+  },
+  {
+   "id": "ID-H427-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\n(1) Menteri Keuangan dapat memberikan pengurangan pajak yang\nterhutang :\na. karena kondisi tertentu obyek pajak yang ada hubungannya\ndengan subyek pajak dan./atau karena sebab-sebab tertentu\nlainnya;\nb. dalam hal obyek pajak terkena bencana alam atau sebab lain yang\nluar biasa.\n(2) Ketentuan mengenai pemberian pengurangan pajak sebagaimana\ndimaksud dalam ayat (1) diatur oleh Menteri Keuangan."
+   }
+  },
+  {
+   "id": "ID-H427-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\nAtas permintaan wajib pajak Direktur Jenderal Pajak dapat\nmengurangkan denda administrasi karena hal-hal tertentu."
+   }
+  },
+  {
+   "id": "ID-H427-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\n(1) Pejabat yang dalam jabatannya atau tugas pekerjaanya\nberkaitan langsung dengan obyek pajak, wajib :\na. menyampaikan laporan bulanan mengenai semua mutasi dan\nperubahan keadaan obyek pajak secara tertulis kepada Direktorat\nJenderal\nPajak yang wilayah kerjanya meliputi letak obyek\npajak;\nb. memberikan keterangan yang diperlukan atas permintaan\nDirektorat Jenderal Pajak.\n(2) Kewajiban memberikan keterangan sebagaimana dimaksud dalam\nayat (1)huruf b, berlaku pula bagi pejabat lain yang ada\nhubungannya\ndengan obyek pajak.\n(3) Dalam hal pejabat sebagaimana dimaksud dalam ayat (1) dan\nayat (2) terikat oleh kewajiban untuk memegang rahasia jabatan,\nkewajiban\nuntuk merahasiakan itu ditiadakan sepanjang menyangkut\npelaksanaan Undang-undang ini.\n(4) Tata cara penyampaian laporan dan permintaan keterangan\nsebagaimana dimaksud dalam ayat (1) dan ayat (2) diatur oleh\nMenteri Keuangan."
+   }
+  },
+  {
+   "id": "ID-H427-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\nPejabat yang tidak memenuhi kewajiban sebagaimana dimaksud dalam\nPasal 21, dikenakan sanksi menurut peraturan perundang-undangan\nyang\nberlaku."
+   }
+  },
+  {
+   "id": "ID-H427-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\nTerhadap hal-hal yang tidak diatur secara khusus dalam\nUndang-undang ini, berlaku ketentuan dalam Undang-undang Nomor 6\nTahun 1983\ntentang Ketentuan Umum dan Tata Cara Perpajakan serta\nperaturan perundang-undangan lainnya.\nBAB XII\nKETENTUAN PIDANA"
+   }
+  },
+  {
+   "id": "ID-H427-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 24\nBarang siapa karena kealpaannya :\na. tidak mengembalikan/menyampaikan Surat Pemberitahuan Obyek\nPajak kepada Direktorat Jenderal Pajak ;\nb. menyampaikan Surat Pemberitahuan Obyek Pajak, tetapi isinya\ntidak benar atau tidak lengkap dan/atau melampirkan keterangan yang\ntidak benar;\nsehingga menimbulkan kerugian pada Negara, dipidana dengan pidana\nkurungan selama-lamanya 6 (enam bulan) atau denda\nsetinggi-tingginya\nsebesar 2 (dua) kali pajak yang terhutang."
+   }
+  },
+  {
+   "id": "ID-H427-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\n(1) Barang siapa dengan sengaja :\na. tidak mengembalikan/menyampaikan Surat Pemberitahuan Obyek\nPajak kepada Direktorat Jenderal Pajak;\nb. menyampaikan Surat Pemberitahuan Obyek Pajak, tetapi isinya\ntidak benar atau tidak lengkap dan/atau melampirkan keterangan.\nyang\ntidak benar;\nc. memperlihatkan surat palsu atau dipalsukan atau dokumen lain\nyang palsu atau dipalsukan seolah-olah benar;\nd. tidak memperlihatkan atau tidak meminjamkan surat atau dokumen\nlainnya;\ne. tidak menunjukkan data atau tidak menyampaikan keterangan yang\ndiperlukan;\nsehingga menimbulkan kerugian pada Negara, dipidana dengan pidana\npenjara selama-lamanya 2 (dua) tahun atau denda setinggi-tingginya\nsebesar 5 (lima) kali pajak yang terhutang.\n(2) Terhadap bukan wajib pajak yang bersangkutan yang melakukan\ntindakan sebagaimana dimaksud dalam ayat (1) huruf d dan huruf e,\ndipidana dengan pidana kurungan selama-lamanya 1 (satu) tahun atau\ndenda setinggi-tingginya Rp. 2.000.000,- (dua juta rupiah).\n(3) Ancaman pidana sebagaimana dimaksud dalam ayat (1)\ndilipatkan dua apabila seseorang melakukan lagi tindak pidana di\nbidang perpajakan\nsebelum lewat 1 (satu) tahun, terhitung sejak\nselesainya menjalani sebagian atau seluruh pidana penjara yang\ndijatuhkan atau sejak\ndibayarnya denda."
+   }
+  },
+  {
+   "id": "ID-H427-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\nTindak pidana sebagaimana dimaksud dalam Pasal 24 dan Pasal 25\ntidak dapat dituntut setelah lampau waktu 10 (sepuluh) tahun sejak\nberakhirnya tahun pajak yang bersangkutan."
+   }
+  },
+  {
+   "id": "ID-H427-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\n(1) Tindak pidana sebagaimana dimaksud dalam Pasal 24 dan Pasal\n25 ayat (2) adalah pelanggaran.\n(2) Tindak pidana sebagaimana dimaksud dalam Pasal 25 ayat (1)\nadalah kejahatan.\nBAB XIII\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H427-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB XIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\nTerhadap Iuran Pembangunan Daerah (Ipeda), Pajak Kekayaan (PKk),\nPajak Jalan, dan Pajak Rumah Tangga (PRT) yang terhutang untuk\ntahun\npajak 1985 dan sebelumnya berlaku ketentuan peraturan\nperundang-undangan perpajakan yang lama sampai dengan tanggal 31\nDesember 1990."
+   }
+  },
+  {
+   "id": "ID-H427-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB XIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\nDengan berlakunya Undang-undang ini, peraturan pelaksanaan yang\ntelah ada di bidang luran Pembangunan Daerah (ipeda) berdasarkan\nUndang-undang\nNomor 11 Prp Tahun 1959 tentang Pajak Hasil Bumi,\ntetap berlaku sampai dengan tanggal 31 Desember 1990 sepanjang\ntidak bertentangan\ndan belum diatur dengan peraturan pelaksanaan\nyang baru berdasarkan Undang-undang ini."
+   }
+  },
+  {
+   "id": "ID-H427-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB XIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\nTerhadap obyek pajak dalam bidang penambangan minyak dan gas\nbumi serta dalam bidang penambangan lainnya, sehubungan dengan\nKontrak\nKarya dan Kontrak Bagi Hasil yang masih berlaku pada saat\nberlakunya Undang-undang ini, tetap dikenakan Iuran Pembangunan\nDaerah\n(Ipeda) berdasarkan ketentuan-ketentuan dalam perjanjian\nKontrak Karya dan Kontrak Bagi Hasil yang masih berlaku.\nBAB XIV\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H427-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB XIV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\nUndang-undang ini mulai berlaku pada tanggal 1 Januari 1986.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nUndang-undang ini dengan penempatannya dalam Lembaran Negara\nRepublik\nIndonesia.\nDisahkan di Jakarta\npada tangal 27 Desember 1985\nPRESIDEN REPUBLIK INDONESIA\nSOEHARTO\nDiundangkan di Jakarta\npada tanggal 27 Desember 1985\nMENTERI/SEKRETARIS NEGARA\nREPUBLIK INDONESIA\nSUDHARMONO, S.H.\nPENJELASAN\nATAS\nUNDANG-UNDANG REPUBLIK INDONESIA\nNOMOR 12 TAHUN 1985\nTENTANG\nPAJAK BUMI DAN BANGUNAN\nI. UMUM\nDalam Negara Republik Indonesia yang kehidupan rakyat dan\nperekonomiannya sebagian besar bercorak agraris, bumi termasuk\nperairan\ndan kekayaan alam yang terkandung di dalamnya mempunyai\nfungsi penting dalam membangun masyarakat adil dan makmur\nberdasarkan Pancasila\ndan Undang-Undang Dasar 1945.\nOleh karena itu bagi mereka yang memperoleh manfaat dari bumi dan\nkekayaan alam yang terkandung di dalamnya, karena mendapat sesuatu\nhak dari kekuasaan negara, wajar menyerahkan sebagian dari\nkenikmatan yang diperolehnya kepada Negara melalui pembayaran\npajak.\nSebelum berlakunya Undang-undang ini, terhadap tanah yang tunduk\npada hukum adat telah dipungut pajak berdasarkan Undang-undang\nNomor 11 Prp Tahun 1959 dan terhadap tanah yang tunduk pada hukum\nbarat dipungut pajak berdasarkan Ordonansi Verponding Indonesia\n1923, dan Ordonansi Verponding 1928. Di samping itu terdapat pula\npungutan pajak atas tanah dan bangunan yang didasarkan pada\nOrdonansi\nPajak Rumah Tangga 1908 serta lain-lain pungutan daerah\natas tanah dan bangunan.\nSistem perpajakan yang berlaku selama ini, khususnya pajak\nkebendaan dan kekayaan telah menimbulkan tumpang tindih antara satu\npajak\ndengan pajak lainnya sehingga mengakibatkan beban pajak\nberganda bagi masyarakat. Sesuai dengan amanat yang terkandung\ndalam Garis-garis\nBesar Haluan Negara perlu diadakan pembaharuan\nsistem perpajakan yang berlaku dengan sistem yang memberikan\nkepercayaan kepada wajib\npajak dalam melaksanakan kewajiban serta\nmemenuhi haknya di bidang perpajakan sehingga dapat mewujudkan\nperluasan dan peningkatan\nkesadaran kewajiban perpajakan serta\nmeratakan pendapatan masyarakat.\nOleh karena itu Ordonansi Pajak Rumah Tangga 1908, Ordonansi\nVerponding Indonesia 1923, Ordonansi Verponding 1928, Ordonansi\nPajak\nKekayaan 1932, Ordonansi Pajak Jalan 1942, Pasal 14 huruf j,\nhuruf k, dan huruf l Undang-undang Darurat Nomor 11 Tahun 1957\ntentang\nPeraturan Umum Pajak Daerah, Iuran Pembangunan Daerah\n(Ipeda), dan lain-lain peraturan perundang-undangan tentang\npungutan daerah\nsepanjang mengenai tanah dan bangunan perlu\ndicabut.\nPeraturan Perundang-undangan lainnya terutama yang selama ini\nmenjadi dasar bagi penyelenggaraan pungutan oleh Daerah, khususnya\nseperti pemungutan Pajak Kendaraan Bermotor masih berlaku.\nDengan mengadakan pembaharuan sistem perpajakan melalui\npenyederhanaan yang meliputi macam-macam pungutan atas tanah\ndan/atau bangunan,\ntarif pajak dan cara pembayarannya, diharapkan\nkesadaran perpajakan dari masyarakat akan meningkat sehingga\npenerimaan pajak akan\nmeningkat pula. Obyek Pajak dalam\nUndang-undang ini adalah bumi dan/atau bangunan yang berada di\nwilayah Republik Indonesia.\nDalam mencerminkan keikutsertaan dan kegotongroyongan masyarakat\ndi bidang pembiayaan pembangunan, maka semua obyek pajak dikenakan\npajak. Dalam Undang-undang ini, bumi dan/atau bangunan yang\ndimiliki oleh Pemerintah Pusat dan Pemerintah Daerah dikenakan\nPajak.\nPenentuan Pengenaan Pajak Bumi dan Bangunan atas obyek pajak\nyang digunakan oleh Negara untuk penyelenggaraan pemerintahan,\ndiatur\nlebih lanjut dengan Peraturan Pemerintah.\nHasil penerimaan pajak ini diarahkan kepada tujuan untuk\nkepentingan masyarakat di daerah yang bersangkutan, maka sebagian\nbesar\nhasil penerimaan pajak ini diserahkan kepada Pemerintah\nDaerah.\nPenggunaan pajak yang demikian oleh daerah akan merangsang\nmasyarakat untuk memenuhi kewajibannya membayar pajak mereka yang\nsekaligus\nmencerminkan sifat kegotongroyongan rakyat dalam\npembiayaan pembangunan.\nKarena Pajak Bumi dan Bangunan sebagian besar akan diserahkan\nkepada Pemerintah Daerah maka dirasa perlu untuk menetapkan\ntempat-tempat\npembayaran yang lebih mudah dan dekat sehingga\nPemerintah Daerah yang bersangkutan dapat segera memanfaatkan hasil\npenerimaan pajak\nguna membiayai pembangunan dimasing-masing\nwilayahnya.\nTempat yang lebih dekat tersebut adalah seperti Bank, Kantor Pos\ndan Giro serta tempat-tempat lain yang ditunjuk oleh Menteri\nKeuangan.\nBagi wajib pajak dimungkinkan memperoleh pengurangan atas\npembayaran pajaknya, karena sebab-sebab tertentu atau dalam hal\nobyek\npajak ditimpa bencana alam atau sebab lain yang luar biasa,\nsehingga wajib pajak tidak mampu membayar hutang pajaknya.\nII. PASAL DEMI PASAL\nPasal 1\nAngka 1\nPermukaan bumi meliputi tanah dan perairan pedalaman serta laut\nwilayah Indonesia.\nAngka 2\nTermasuk dalam pengertian bangunan adalah\n- jalan lingkungan yang teletak dalam suatu kompleks bangunan\nseperti hotel, pabrik, dan emplasemennya, dan lain-lain yang\nmerupakan\nsatu kesatuan dengan kompleks bangunan tersebut;\n- Jalan TOL;\n- kolam renang;\n- pagar mewah;\n- tempat olah raga;\n- galangan kapal, dermaga;\n- taman mewah;\n- tempat penampungan/kilang minyak, air dan gas, pipa minyak;\n- fasilitas lain yang memberikan manfaat.\nAngka 3\nYang dimaksud dengan:\n- Perbandingan harga dengan obyek lain yang sejenis, adalah suatu\npendekatan/metode penentuan nilai jual suatu obyek pajak dengan\ncara membandingkannya dengan obyek pajak lain yang sejenis yang\nletaknya berdekatan dan fungsinya sama dan telah diketahui harga\njualnya.\n- Nilai perolehan baru, adalah suatu pendekatan/metode penentuan\nnilai jual suatu obyek pajak dengan cara menghitung seluruh biaya\nyang dikeluarkan untuk memperoleh obyek tersebut pada saat\npenilaian dilakukan, yang dikurangi dengan penyusutan berdasarkan\nkondisi\npisik obyek tersebut.\n- Nilai jual pengganti, adalah suatu pendekatan/metode penentuan\nnilai jual suatu obyek pajak yang berdasarkan pada hasil produksi\nobyek pajak tersebut.\nAngka 4\nCukup jelas\nAngka 5\nCukup jelas\nPasal 2\nAyat (1)\nCukup jelas\nAyat (2)\nYang dimaksud dengan klasifikasi bumi dan bangunan adalah\npengelompokan bumi dan bangunan menurut nilai jualnya dan digunakan\nsebagai\npedoman serta untuk memudahkan penghitungan pajak yang\nterhutang.\nDalam menentukan klasifikasi bumi/tanah diperhatikan faktor-faktor\nsebagai berikut :\n1. letak;\n2. peruntukan;\n3. pemanfaatan;\n4. kondisi lingkungan dan lain-lain.\nDalam menentukan klasifikasi bangunan diperhatikan faktor-faktor\nsebagai berikut :\n1. bahan yang digunakan;\n2. rekayasa;\n3. letak;\n4. kondisi lingkungan dan lain-lain.\nPasal 3\nAyat (1)\nYang dimaksud dengan tidak dimaksudkan untuk memperoleh keuntungan\nadalah bahwa obyek pajak itu diusahakan untuk melayani kepentingan\numum, dan nyata-nyata tidak ditujukan untuk mencari keuntungan.\nHal ini dapat diketahui antara lain dari anggaran dasar dan\nanggaran rumah tangga dari yayasan/badan yang bergerak dalam bidang\nibadah, sosial, kesehatan, pendidikan, dan kebudayaan nasional\ntersebut. Termasuk pengertian ini adalah hutan wisata milik Negara\nsesuai pasal 2 Undang-undang Nomor 5 Tahun 1967 tentang\nKetentuan-ketentuan Pokok Kehutanan.\nContoh : - pesantren atau sejenis dengan itu;\n- madrasah;\n- tanah wakaf;\n- rumah sakit umum.\nAyat (2)\nYang dimaksud dengan obyek pajak dalam ayat ini adalah obyek pajak\nyang dimiliki/dikuasai/digunakan oleh Pemerintah Pusat dan\nPemerintah\nDaerah dalam menyelenggarakan pemerintahan.\nPajak Bumi dan Bangunan adalah pajak negara yang sebagian besar\npenerimaannya merupakan pendapatan daerah yang antara lain\ndipergunakan\nuntuk penyediaan fasilitas yang juga dinikmati oleh\nPemerintah Pusat dan Pemerintah Daerah. Oleh sebab itu wajar\nPemerintah Pusat\njuga ikut membiayai penyediaan fasilitas tersebut\nmelalui pembayaran Pajak Bumi dan Bangunan. Mengenai bumi dan/atau\nbangunan milik\nperorangan dan/ atau badan yang digunakan oleh\nnegara, kewajiban perpajakannya tergantung pada perjanjian yang\ndiadakan.\nAyat (3)\nObyek pajak berupa bangunan diberi batas nilai Bangunan Tidak Kena\nPajak sebesar Rp 2.000.000,- (dua juta rupiah) untuk tiap satuan\nbangunan.\nContoh :\n1. Nilai jual bangunan.......... Rp 1.800.000,-\nBatas nilai jual Bangunan Tidak\nKena Pajak................... Rp 2.000.000,-\nNilai jual bangunan kena pajak..Rp Nihil\n2. Nilai jual bangunan ........ Rp 10.000.000,-\nBatas nilai jual bangunan Tidak\nKena Pajak .................. Rp 2.000.000,-\nNilai jual bangunan kena pajak Rp 8.000.000,-\n3. Nilai jual bangunan ........ Rp 500.000.000,-\nBatas nilai jual bangunan Tidak\nKena Pajak .................. Rp 2.000.000,-\nNilai jual bangunan kena pajak Rp 498.000.000,\nAyat (4)\nCukup jelas\nPasal 4\nAyat (1)\nTanda pembayaran/pelunasan pajak bukan merupakan bukti pemilikan\nhak.\nAyat (2)\nCukup jelas\nAyat (3)\nKetentuan ini memberikan kewenangan kepada Direktur Jenderal Pajak\nuntuk menentukan subyek pajak sebagai wajib pajak, apabila suatu\nobyek pajak belum jelas wajib pajaknya.\nContoh :\n1. Subyek pajak bernama A yang memanfaatkan atau menggunakan bumi\ndan/atau bangunan milik orang lain bernama B bukan karena sesuatu\nhak berdasarkan undang-undang atau bukan karena perjanjian maka\ndalam hal demikian A yang memanfaatkan atau menggunakan bumi\ndan/atau\nbangunan tersebut ditetapkan sebagai wajib pajak.\n2. Suatu obyek pajak yang masih dalam sengketa pemilikan di\npengadilan, maka orang atau badan yang memanfaatkan atau\nmenggunakan\nobyek pajak tersebut ditetapkan sebagai wajib\npajak.\n3. Subyek pajak dalam waktu yang lama berada di luar wilayah letak\nobyek pajak, sedang untuk merawat obyek pajak tersebut dikuasakan\nkepada,orang atau badan, maka orang atau badan yang diberi kuasa\ndapat ditunjuk sebagai wajib pajak.\nPenunjukan sebagai wajib pajak oleh Direktur Jenderal Pajak bukan\nmerupakan bukti pemilikan hak.\nAyat (4)\nCukup jelas\nAyat (5)\nCukup jelas\nAyat (6)\nCukup jelas\nAyat (7)\nBerdasarkan ketentuan dalam ayat ini, apabila Direktur Jenderal\nPajak tidak memberikan keputusan dalam waktu 1 (satu) bulan sejak\ntanggal diterimanya keterangan dari wajib pajak, maka ketetapan\nsebagai wajib pajak gugur dengan sendirinya dan berhak mendapatkan\nkeputusan pencabutan penetapan sebagai wajib pajak.\nPasal 5\nCukup jelas\nPasal 6\nAyat (1)\nCukup jelas\nAyat (2)\nPada dasarnya penetapan nilai jual obyek pajak adalah 3 (tiga)\ntahun sekali. Namun demikian untuk daerah tertentu yang karena\nperkembangan\npembangunan mengakibatkan kenaikan nilai jual obyek\npajak cukup besar, maka penetapan nilai jual ditetapkan setahun\nsekali.\nDalam menetapkan nilai jual, Menteri Keuangan mendengar\npertimbangan Gubernur serta memperhatikan asas \"self\nassessment\".\nAyat (3)\nYang dimaksud Nilai Jual Pajak (\"assessment value\") adalah nilai\njual yang dipergunakan sebagai dasar penghitungan pajak, yaitu\nsuatu persentase tertentu dari nilai jual sebenarnya.\nContoh :\n1. Nilai Jual suatu obyek pajak sebesar\nRp 1.000.000,-\nPersentase Nilai Jual Kena Pajak misalnya 20% maka besarnya nilai\njual kena pajak\n2% x Rp 1.000.000,- = Rp 200.000,-\n2. Nilai jual suatu obyek pajak sebesar Rp 1.000.000,-\nPersentase Nilai Jual Kena Pajak misalnya 50% maka besarnya nilai\njual kena pajak\n50% x Rp 1.000.000,- = Rp 500.000,-\nAyat (4)\nCukup jelas\nPasal 7\nNilai jual untuk bangunan sebelum diterapkan tarif pajak dikurangi\nterlebih dahulu dengan batas nilai jual bangunan tidak kena pajak\nsebesar Rp 2.000.000,- (dua juta rupiah).\nContoh :\nWajib pajak A mempunyai obyek pajak berupa :\n- Tanah seluas 800 m2 dengan harga jual Rp 300.000/m2;\n- Bangunan seluas 400 m2 dengan nilai jual Rp 350.000/m2;\n- Taman mewah seluas 200 m2 dengan nilai jual Rp 50.000/m2;\n- Pagar mewah sepanjang 120 m dan tinggi rata-rata pagar 1,5 m\ndengan nilai jual Rp 175.000/m2.\nPersentase nilai jual kena pajak misalnya 20%.\nBesarnya pajak yang terhutang adalah sebagai berikut\n1. Nilai jual tanah: 800 x Rp 300.000 =Rp 240.000.000 nilai jual\nbangunan\na. Rumah dan garasi\n400 x Rp 350.000,- =Rp 140.000.000\nb. Taman mewah\n200 x Rp 50.000,- =Rp 10.000.000\nc. Pagar mewah\n(120 x 1,5) x Rp 175.000,- =Rp 31.500.000\nRp 181.500.000\nBatas nilai jual bangunan tidak kena pajak\nRp 2.000.000\nNilai Jual bangunan =Rp 179.500.000\nNilai jual tanah dan bangunan =Rp 419.500.000\n2. Besarnya Pajak Bumi dan Bangunan yang terhutang :\na. Atas tanah = 0,5% x 20% x Rp 240.000.000,-\nRp 240.000,-\nb. Atas bangunan= 0,5% x 20% x Rp 179.500.000,-\nRp 179.500,-\nJumlah pajak yang terhutang = Rp 419.500,-\nPasal 8\nAyat (1)\nJangka waktu 1 (satu) tahun takwim adalah dari 1 Januari sampai\ndengan 31 Desember.\nAyat (2)\nKarena tahun pajak dimulai pada tanggal 1 Januari, maka keadaan\nobyek pajak pada tanggal tersebut merupakan saat yang menentukan\npajak yang terhutang.\nContoh :\na. Obyek pajak pada tanggal 1 Januari 1986 berupa tanah dan\nbangunan.\nPada tanggal 10 Januari 1986 bangunannya terbakar, maka pajak yang\nterhutang tetap berdasarkan keadaan obyek pajak pada tanggal\n1\nJanuari 1986, yaitu keadaan sebelum bangunan tersebut terbakar;\nb. Obyek pajak pada tanggal 1 Januari 1986 berupa sebidang tanah\ntanpa bangunan di atasnya.\nPada tanggal 10 Agustus 1986 dilakukan pendataan, ternyata di atas\ntanah tersebut telah berdiri suatu bangunan, maka pajak yang\nterhutang untuk tahun 1986 tetap dikenakan pajak berdasarkan\nkeadaan pada tanggal 1 Januari 1986.\nSedangkan bangunannya baru akan dikenakan pada tahun 1987.\nAyat (3)\nTempat pajak yang terhutang untuk Kotamadya Batam, di wilayah\nPropinsi Daerah Tingkat I yang bersangkutan.\nPasal 9\nAyat (1)\nDalam rangka pendataan, wajib pajak akan diberikan surat\nPemberitahuan Obyek Pajak untuk diisi dan dikembalikan kepada\nDirektorat\nJenderal Pajak. Wajib Pajak yang pernah dikenakan IPEDA\ntidak wajib mendaftarkan obyek pajaknya kecuali kalau ia menerima\nSPOP, maka\ndia wajib mengisinya dan mengembalikannya kepada\nDirektorat Jenderal Pajak.\nAyat (2)\nYang dimaksud dengan jelas,benar,dan lengkap adalah :\nJelas, dimaksudkan agar penulisan data yang diminta dalam Surat\nPemberitahuan Obyek Pajak (SPOP) dibuat sedemikian rupa, sehingga\ntidak menimbulkan salah tafsir yang dapat merugikan negara maupun\nwajib pajak sendiri.\nBenar, berarti data yang dilaporkan harus sesuai dengan keadaan\nyang sebenarnya, seperti luas tanah dan/atau bangunan, tahun dan\nharga perolehan dan seterusnya sesuai dengan kolom-kolom/pertanyaan\nyang ada pada Surat Pemberitahuan Obyek Pajak (SPOP).\nAyat (3)\nCukup jelas\nPasal 10\nAyat (1)\nSurat Pemberitahuan Pajak Terhutang (SPPT) diterbitkan atas dasar\nSurat Pemberitahuan Obyek Pajak (SPOP), namun untuk membantu wajib\npajak, Surat Pemberitahuan Pajak Terhutang dapat diterbitkan\nberdasarkan data obyek pajak yang telah ada pada Direktorat\nJenderal\nPajak.\nAyat (2)\nKetentuan ayat ini memberi wewenang kepada Direktur Jenderal Pajak\nuntuk dapat mengeluarkan Surat Ketetapan Pajak (SKP) terhadap\nwajib\npajak yang tidak memenuhi kewajiban perpajakan sebagaimana\nmestinya.\nMenurut ketentuan ayat (2) huruf a, wajib pajak yang tidak\nmenyampaikan Surat Pemberitahuan Obyek Pajak pada waktunya,\nwalaupun\nsudah ditegor secara tertulis juga tidak menyampaikan\ndalam jangka waktu yang ditentukan dalam Surat Tegoran itu,\nDirektur Jenderal\nPajak dapat menerbitkan Surat Pajak secara\njabatan. Terhadap ketetapan ini dikenakan sanksi administrasi\nsebagaimana diatur dalam\nayat (3).\nMenurut ketentuan ayat (2) huruf b, apabila berdasarkan hasil\npemeriksaan atau keterangan lain yang ada pada Direktorat Jenderal\nPajak ternyata jumlah pajak yang terhutang lebih besar dari jumlah\npajak dalam Surat Pemberitahuan Pajak Terhutang yang dihitung\natas\ndasar Surat Pemberitahuan Obyek Pajak yang disampaikan wajib pajak,\nDirektur Jenderal Pajak menerbitkan Surat Ketetapan Pajak\nsecara\njabatan. Terhadap ketetapan ini dikenakan sanksi administrasi\nsebagaimana diatur dalam ayat (3).\nAyat (3)\nAyat ini mengatur sangsi administrasi yang dikenakan terhadap\nwajib pajak yang tidak menyampaikan Surat Pemberitahuan Obyek Pajak\nsebagaimana dimaksud dalam ayat (2) huruf a, sanksi tersebut\ndikenakan sebagai tambahan terhadap pokok pajak yaitu sebesar 25%\n(dua\npuluh lima persen) dari pokok pajak.\nSurat Ketetapan Pajak ini, berdasarkan data yang ada pada\nDirektorat Jenderal Pajak memuat penetapan obyek pajak dan besarnya\npajak\nyang terhutang beserta denda administrasi yang dikenakan\nkepada wajib pajak.\nContoh :\nWajib pajak A tidak menyampaikan SPOP.\nBerdasarkan data yang ada, Direktur Jenderal Pajak mengeluarkan\nSKP yang berisi :\n- obyek pajak dengan luas dan nilai jual.\n- luas obyek pajak menurut SPOP.\n- Pokok pajak = Rp 1.000.000\n- Sanksi administrasi 25% x Rp 1.000.000 = Rp 250.000\nJumlah pajak yang terhutang dalam SKP = Rp 1.250.000\nAyat (4)\nAyat ini mengatur sanksi administrasi yang dikenakan terhadap\nwajib pajak yang mengisi Surat Pemberitahuan Obyek Pajak tidak\nsesuai\ndengan keadaan yang sebenarnya sebagaimana dimaksud dalam\nayat (2) huruf b yaitu sebesar 25% (dua puluh lima persen) dari\nselisih\npajak terhutang berdasarkan hasil pemeriksaan atau\nketerangan lain dengan pajak terhutang dalam Surat Pemberitahuan\nPajak Terhutang\nyang dihitung berdasarkan Surat Pemberitahuan Obyek\nPajak yang disampaikan oleh wajib pajak.\nBerdasarkan SPOP diterbitkan SPPT Rp 1.000.000,-\nBerdasarkan pemeriksaan pajak yang\nseharusnya terhutang dalam SKP = Rp 1.500.000,-\nSelisih = Rp 500.000,-\nDenda administrasi 25% x\nRp 500.000,- = Rp 125.000,-\nJumlah pajak terhutang dalam SKP = Rp 625.000,-\nAdapun jumlah pajak yang\nterhutang sebesar = Rp 1.000.000,-\nYang tercantum dalam Surat Pemberitahuan Pajak Terhutang, apabila\nbelum dilunasi wajib pajak, penagihannya dilakukan berdasarkan\nSurat Pemberitahuan Pajak Terhutang tersebut.\nPasal 11\nAyat (1)\nContoh\nApabila SPPT diterima oleh wajib pajak tanggal 1 Maret 1986, maka\njatuh tempo pembayarannya adalah tanggal 31 Agustus 1986.\nAyat (2)\nContoh\nApabila SKP diterima oleh wajib pajak tanggal 1 Maret 1986, maka\njatuh tempo pembayarannya adalah tanggal 31 Maret 1986.\nAyat (3)\nMenurut ketentuan ini pajak yang terhutang pada saat jatuh tempo\npembayaran tidak atau kurang dibayar, dikenakan denda administrasi\n2% (dua persen) setiap bulan dari jumlah yang tidak atau kurang\ndibayar tersebut untuk jangka waktu paling lama 24 (dua puluh\nempat)\nbulan, dan bagian dari bulan dihitung penuh 1 (satu)\nbulan.\nContoh :\nSPPT tahun pajak 1986 diterima oleh wajib pajak pada tanggal 1\nMaret 1986 dengan pajak yang terhutang sebesar Rp 100.000,-\n(seratus\nribu rupiah). Oleh wajib pajak baru dibayar pada tanggal 1\nSeptember 1986.\nMaka terhadap wajib pajak tersebut dikenakan denda administrasi\nsebesar 2% (dua persen) yakni : 2% x Rp 100.000,- = Rp 2.000,-\nPajak yang terhutang yang harus dibayar pada tanggal 1 September\n1986 adalah :\nPokok pajak + denda administrasi =\nRp 100.000,- + Rp 2.000,- = Rp 102.000,-\nBila wajib pajak tersebut baru membayar hutang pajaknya pada\ntanggal 10 Oktober 1986, maka terhadap wajib pajak tersebut\ndikenakan\ndenda 2 x 2% dari pokok pajak, yakni:\n4% x Rp 100.000,- = Rp 4.000,-\nPajak yang terhutang yang harus dibayar pada tanggal 10 Oktober\n1986 adalah : Pokok pajak + denda administrasi =\nRp 100.000,- + Rp 4.000,- = Rp 104.000,-\nAyat (4)\nMenurut ketentuan ini denda administrasi dan pokok pajak seperti\ntersebut pada contoh penjelasan ayat (3), ditagih dengan\nmenggunakan\nSurat Tagihan Pajak (STP) yang harus dilunasi dalam\nwaktu satu bulan sejak tanggal diterimanya STP tersebut.\nAyat (5)\nCukup jelas\nAyat (6)\nCukup jelas\nPasal 12\nCukup jelas\nPasal 13\nDalam hal tagihan pajak yang terhutang dibayar setelah jatuh tempo\nyang telah ditentukan, penagihannya dilakukan dengan surat paksa\nyang saat ini berdasarkan Undang-undang Nomor 19 Tahun 1959 tentang\nPenagihan Pajak Negara dengan Surat Paksa.\nPasal 14\nPelimpahan kewenangan penagihan pajak kepada Gubernur Kepala\nDaerah Tingkat I dan/atau Bupati/Walikotamadya Kepala Daerah\nTingkat\nII, bukanlah pelimpahan urusan penagihan, tetapi hanya\nsebagai pemungut pajak, sedangkan pendataan obyek pajak dan\npenetapan pajak\nyang terhutang tetap menjadi kewenangan Menteri\nKeuangan.\nDalam hal jumlah pajak yang terhutang sebagaimana tercantum dalam\nSurat Pemberitahuan Pajak Terhutang tidak sesuai dengan obyek-pajak\ndi lapangan, maka pemungut pajak tidak dibenarkan mengubah jumlah\npajak yang terhutang, tetapi harus melaporkan hal tersebut kepada\nMenteri Keuangan dalam hal ini Direktur Jenderal Pajak.\nPasal 15\nAyat (1)\nKeberatan terhadap Surat Pemberitahuan Pajak Terhutang dan Surat\nKetetapan Pajak harus diajukan masing-masing dalam satu surat\nkeberatan\ntersendiri untuk setiap tahun pajak.\nAyat (2)\nCukup jelas\nAyat (3)\nKetentuan ini dimaksudkan untuk memberi waktu yang cukup kepada\nwajib pajak untuk mempersiapkan surat keberatan beserta\nalasan-alasannya.\nApabila ternyata batas waktu 3 (tiga) bulan tersebut tidak dapat\ndipenuhi oleh wajib pajak karena keadaan di luar kekuasaannya\n(\"force\nmayeur\") maka tenggang waktu tersebut masih dapat\ndipertimbangkan untuk diperpanjang oleh Direktur Jenderal\nPajak.\nAyat (4)\nCukup jelas\nAyat (5)\nCukup jelas\nAyat (6)\nCukup jelas\nPasal 16\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nKetentuan ini mengharuskan wajib pajak membuktikan ketidakbenaran\nketetapan pajak, dalam hal wajib pajak mengajukan keberatan\nterhadap\nketetapan secara jabatan.\nApabila wajib pajak tidak dapat membuktikan ketidakbenaran Surat\nKetetapan Pajak secara jabatan itu, maka keberatannya ditolak.\nAyat (5)\nKetentuan ini dimaksudkan untuk memberikan kepastian hukum bagi\nwajib pajak, yaitu apabila dalam jangka waktu 12 (dua belas) bulan\nsejak tanggal diterimanya surat keberatan, Direktur Jenderal Pajak\ntidak memberikan keputusan atas keberatan yang diajukan berarti\nkeberatan tersebut diterima.\nPasal 17\nAyat (1)\nKetentuan ini memberi kesempatan kepada wajib pajak yang kurang\npuas terhadap keputusan Direktur Jenderal Pajak atas keberatan yang\ndilalukan untuk mengajukan banding ke badan peradilan pajak, dalam\nhal ini seperti yang ada sekarang yaitu Majelis Pertimbangan\nPajak.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nPasal 18\nAyat (1)\nCukup jelas\nAyat (2)\nKarena penerimaan pajak ini diarahkan untuk kepentingan masyarakat\ndi Daerah Tingkat II yang bersangkutan, maka sebagian besar\npenerimaan\npajak ini diberikan kepada Daerah Tingkat II\nAyat (3)\nCukup jelas\nPasal 19\nAyat (1)\nHuruf a\nKondisi tertentu obyek pajak yang ada hubungannya dengan subyek\npajak dan sebab-sebab tertentu lainnya, berupa lahan pertanian yang\nsangat terbatas, bangunan yang ditempati sendiri yang dikuasai atau\ndimiliki oleh golongan wajib pajak tertentu, lahan yang nilai\njualnya meningkat sebagai akibat perubahan lingkungan dan dampak\npositif pembangunan serta yang pemanfaatannya belum sesuai dengan\nperuntukan lingkungan.\nHuruf b\n- Yang dimaksud dengan bencana alam adalah gempa bumi, banjir,\ntanah longsor.\n- Yang dimaksud dengan sebab lain yang luar biasa adalah seperti\n:\n- kebakaran;\n- kekeringan;\n- wabah penyakit tanaman;\n- hama tanaman.\nAyat (2)\nCukup jelas\nPasal 20\nKetentuan ini memberi kesempatan kepada wajib pajak untuk meminta\npengurangan denda administrasi sebagaimana dimaksudkan dalam Pasal\n10 ayat (3), Pasal 11 ayat (3), dan ayat (4), kepada Direktur\nJenderal Pajak. Direktur Jenderal Pajak dapat mengurangkan sebagian\natau seluruh denda administrasi dimaksud.\nPasal 21\nAyat (1)\n- Pejabat yang tugas pekerjaannya berkaitan langsung dengan obyek\npajak adalah : Camat sebagai Pejabat Pembuat Akta Tanah, Notaris\nPejabat Pembuat Akta Tanah, dan Pejabat Pembuat Akta Tanah.\n- Laporan tertulis tentang mutasi obyek pajak misalnya antara lain\njual beli, hibah, warisan, harus disampaikan kepada Direktorat\nJenderal Pajak yang wilayah kerjanya meliputi letak obyek\npajak.\nAyat (2)\nPejabat yang dimaksud dalam ayat (1) misalnya antara lain Kepala\nKelurahan atau Kepala Desa, Pejabat Dinas Tata Kota, Pejabat Dinas\nPengawasan Bangunan, Pejabat Agraria, Pejabat Balai Harta\nPeninggalan.\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nPasal 22\nPeraturan perundang-undangan yang berlaku bagi pejabat dalam pasal\nini ialah antara lain :\nPeraturan Pemerintah Nomor 30 Tahun 1980 tentang Peraturan\nDisiplin Pegawai Negeri Sipil, Staatsblad 1860 Nomor 3 tentang\nPeraturan\nJabatan Notaris.\nPasal 23\nYang dimaksud dengan peraturan perundang-undangan lainnya adalah\nantara lain Undang-undang Nomor 19 Tahun 1959 tentang Penagihan\nPajak Negara dengan Surat Paksa.\nPasal 24\nKealpaan sebagaimana dimaksud dalam pasal ini berarti tidak\nsengaja, lalai, dan kurang hati-hati sehingga perbuatan tersebut\nmengakibatkan\nkerugian bagi negara.\nSurat Pemberitahuan Obyek Pajak harus dikembalikan/disampaikan\nkepada Direktorat Jenderal Pajak selambat-lambatnya dalam waktu 30\n(tiga puluh) hari sejak tanggal diterimanya Surat Pemberitahuan\nObyek Pajak sebagaimana dimaksud dalam Pasal 9 ayat (2).\nPasal 25\nAyat (1)\nPerbuatan atau tindakan sebagaimana dimaksud dalam ayat ini yang\ndilakukan dengan sengaja merupakan tindak pidana kejahatan, karena\nitu diancam dengan pidana yang lebih berat.\nAyat (2)\nYang dimaksud dengan bukan wajib pajak dalam ayat ini yaitu\npejabat yang tugas pekerjaannya berkaitan langsung atau ada\nhubungannya\ndengan obyek pajak ataupun pihak lainnya.\nAyat (3)\nUntuk mencegah terjadinya pengulangan tindak pidana perpajakan\nmaka bagi mereka yang melakukan lagi tindak pidana sebagaimana\ndimaksud\ndalam ayat (1) sebelum lewat 1 (satu) tahun sejak selesai\nmenjalani sebagian atau seluruh pidana penjara yang dijatuhkan atau\nsejak\ndibayarnya denda, dikenakan pidana lebih berat ialah 2 (dua)\nkali lipat dari ancaman pidana sebagaimana dimaksud dalam ayat\n(1).\nPasal 26\nPenyimpangan terhadap ketentuan Pasal 78 Kitab Undang-undang Hukum\nPidana dimaksudkan untuk menyesuaikan dengan kewajiban menyimpan\ndokumen perpajakan yang lainnya 10 (sepuluh) tahun.\nPasal 27\nCukup jelas\nPasal 28\nCukup jelas\nPasal 29\nCukup jelas\nPasal 30\nKetentuan Undang-undang ini baru berlaku terhadap obyek pajak yang\ndigunakan dalam rangka Kontrak Karya dan Kontrak Bagi Hasil dalam\nbidang penambangan minyak dan gas bumi serta dalam bidang\npenambangan lainnya yang perjanjiannya ditandatangani sejak\nberlakunya\nUndang-undang ini yaitu tanggal 1 Januari 1986,\nsedangkan untuk Kontrak Karya dan Kontrak Bagi Hasil yang telah ada\ntetap berlaku\nketentuan-ketentuan yang tercantum dalam Kontrak\nKarya dan Kontrak Bagi Hasil tersebut.\nPasal 31\nCukup jelas\n--------------------------------\nCATATAN\nKutipan: LEMBARAN NEGARA DAN TAMBAHAN LEMBARAN NEGARA TAHUN 1985\nYANG TELAH DICETAK ULANG"
+   }
+  }
+ ]
+}

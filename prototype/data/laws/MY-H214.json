@@ -1,0 +1,658 @@
+{
+ "id": "MY-H214",
+ "title": {
+  "zh": "1981年民都鲁港务局法",
+  "en": "BINTULU PORT AUTHORITY ACT 1981",
+  "orig": "BINTULU PORT AUTHORITY ACT 1981",
+  "vi": "Luật về Cục Cảng Bintulu năm 1981",
+  "th": "พระราชบัญญัติการท่าเรือบินตูลู ค.ศ. 1981",
+  "id": "Undang-Undang Otoritas Pelabuhan Bintulu Tahun 1981",
+  "ms": "Akta Lembaga Pelabuhan Bintulu 1981"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-5",
+ "language": "en",
+ "level": "law",
+ "category": "03_涉外投资与贸易",
+ "status": "active",
+ "promulgatedDate": "1981",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "ACT243",
+ "topics": [],
+ "summary": null,
+ "coverage": "partial",
+ "structureMode": "ARTICLE",
+ "articleCount": 44,
+ "chars": 102168,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-detail.php?act=243&lang=BI"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\03_涉外投资与贸易\\1981_243_BINTULU PORT AUTHORITY ACT 1981.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 67 条；逐字未改写（源自厂商 OCR 文本）。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H214-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {
+    "en": "PART I"
+   },
+   "heading": {},
+   "text": {
+    "en": "1. Short title and commencement."
+   }
+  },
+  {
+   "id": "MY-H214-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {
+    "en": "PART I"
+   },
+   "heading": {},
+   "text": {
+    "en": "2. Interpretation.\nPart 11\nBINTULU PORT AUTHORITY"
+   }
+  },
+  {
+   "id": "MY-H214-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "chapter": {
+    "en": "PART I"
+   },
+   "heading": {},
+   "text": {
+    "en": "3. Establishment of Bintulu Port Authority."
+   }
+  },
+  {
+   "id": "MY-H214-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "chapter": {
+    "en": "PART I"
+   },
+   "heading": {},
+   "text": {
+    "en": "4. Constitution of Authority."
+   }
+  },
+  {
+   "id": "MY-H214-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "chapter": {
+    "en": "PART I"
+   },
+   "heading": {},
+   "text": {
+    "en": "5. Functions of Authority."
+   }
+  },
+  {
+   "id": "MY-H214-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "chapter": {
+    "en": "PART I"
+   },
+   "heading": {},
+   "text": {
+    "en": "6. Duties of Authority."
+   }
+  },
+  {
+   "id": "MY-H214-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7"
+   },
+   "chapter": {
+    "en": "PART I"
+   },
+   "heading": {},
+   "text": {
+    "en": "7. Powers of Minister in relation to Authority,"
+   }
+  },
+  {
+   "id": "MY-H214-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8"
+   },
+   "chapter": {
+    "en": "PART I"
+   },
+   "heading": {},
+   "text": {
+    "en": "8. Power of Authority as to property."
+   }
+  },
+  {
+   "id": "MY-H214-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9"
+   },
+   "chapter": {
+    "en": "PART I"
+   },
+   "heading": {},
+   "text": {
+    "en": "9. Acquisition of immovable property by Authority."
+   }
+  },
+  {
+   "id": "MY-H214-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10"
+   },
+   "chapter": {
+    "en": "PART I"
+   },
+   "heading": {},
+   "text": {
+    "en": "10. Power of Authority to lease or grant licences in respect\nof foreshore."
+   }
+  },
+  {
+   "id": "MY-H214-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11"
+   },
+   "chapter": {
+    "en": "PART I"
+   },
+   "heading": {},
+   "text": {
+    "en": "11. Port Consultative Committee."
+   }
+  },
+  {
+   "id": "MY-H214-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12"
+   },
+   "chapter": {
+    "en": "PART I"
+   },
+   "heading": {},
+   "text": {
+    "en": "12. Working capital of Authority."
+   }
+  },
+  {
+   "id": "MY-H214-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13"
+   },
+   "chapter": {
+    "en": "PART I"
+   },
+   "heading": {},
+   "text": {
+    "en": "13. Finances and accounts of Authority."
+   }
+  },
+  {
+   "id": "MY-H214-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14"
+   },
+   "chapter": {
+    "en": "PART I"
+   },
+   "heading": {},
+   "text": {
+    "en": "14. Investment of moneys not immediately required to be\nexpended, and contributions to charity."
+   }
+  },
+  {
+   "id": "MY-H214-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15"
+   },
+   "chapter": {
+    "en": "PART I"
+   },
+   "heading": {},
+   "text": {
+    "en": "15. Inspection and audit of accounts."
+   }
+  },
+  {
+   "id": "MY-H214-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16"
+   },
+   "chapter": {
+    "en": "PART I"
+   },
+   "heading": {},
+   "text": {
+    "en": "16. Books of accounts and records to be kept at head office."
+   }
+  },
+  {
+   "id": "MY-H214-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17"
+   },
+   "chapter": {
+    "en": "PART I"
+   },
+   "heading": {},
+   "text": {
+    "en": "17. Statutory Bodies (Accounts and Annual Reports) Act 1980\nto apply."
+   }
+  },
+  {
+   "id": "MY-H214-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18"
+   },
+   "chapter": {
+    "en": "PART I"
+   },
+   "heading": {},
+   "text": {
+    "en": "18. Authority to furnish Minister with certain returns and\nother reports and information."
+   }
+  },
+  {
+   "id": "MY-H214-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19"
+   },
+   "chapter": {
+    "en": "PART I"
+   },
+   "heading": {},
+   "text": {
+    "en": "19. Estimates of revenue and expenditure."
+   }
+  },
+  {
+   "id": "MY-H214-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20"
+   },
+   "chapter": {
+    "en": "PART I"
+   },
+   "heading": {},
+   "text": {
+    "en": "20. Supplementary estimates.\n\n[Arrangement of Sections]\n\nSection\n25:\n\nzs\n\nBas\n\nchy\n\n38,\n\nAct 243\n\nPART III\nOFFICERS AND SERVANTS\n\nAppointment of officers and servants.\nEstablishment of Port security force.\nDuties of General Manager.\n\nPower to make rules.\n\nPublic servants for purposes of Penal Code.\n\nApplication of Public Authorities Protection Act 1948,\nand protection from personal liability,\n\nPART lV\nCHARGES AND RECOVERY OF CHARGES\nAuthority may levy charges,\n\nCharges to become due and payable where request with-\ndrawn without reasonable notice.\n\nRecovery of charges in arrears.\n\nRecovery of pilotage dues.\n\nPower to sell goods remaining in custody,\n\nPower to compound or compromise claim or demand\n\nPower to distrain for non-payment of charges,\n\nPart V\nLIABILITY OF THE AUTHORITY\nLimitation of Authority's liability.\nLiability in respect of loading or discharging operations,\nGoods deposited for lighterage or shipment.\n\nLoss, destruction of or damage to goods other than tran-\nshipment goods deposited with Authority.\n\nLoss or destruction of or damage to transhipment goods\ndeposited with Authority.\n\nForce majeure, etc.\nLimitation of liability in respect of one occasion.\n\nExemption from liability for failure to run ferry boat as\nadvertised.\n\nPower of High Court to consolidate claims.\n\nLiability for loss under contract.\n\n[Arrangement of Sections]\n\nBINTULU PORT AUTHORITY           5\nPart VI\n:          PORT, WHARVES AND PREMISES\nSection"
+   }
+  },
+  {
+   "id": "MY-H214-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "Section 44"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "44. Control of foreshores."
+   }
+  },
+  {
+   "id": "MY-H214-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "Section 45"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "45. Landing or shipping of cargo over quays, wharves, ete."
+   }
+  },
+  {
+   "id": "MY-H214-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "Section 46"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "46. Construction of quays, wharves, etc."
+   }
+  },
+  {
+   "id": "MY-H214-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "Section 47"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "47. Permit for conveyance of goods."
+   }
+  },
+  {
+   "id": "MY-H214-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "Section 48"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "48. Appeal."
+   }
+  },
+  {
+   "id": "MY-H214-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "Section 49"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "49. Minister may appoint any place for use as customs\ncollecting centre."
+   }
+  },
+  {
+   "id": "MY-H214-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "Section 50"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "50. Licenced warehouse."
+   }
+  },
+  {
+   "id": "MY-H214-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "Section 51"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "51. Power of Authority to order vessels to come alongside."
+   }
+  },
+  {
+   "id": "MY-H214-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "Section 52"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "52. Government vessels.\nPart VII\nPILOTAGE"
+   }
+  },
+  {
+   "id": "MY-H214-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "Section 53"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "53. Declaration of pilotage district."
+   }
+  },
+  {
+   "id": "MY-H214-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "Section 54"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "54. Vessels of certain tonnage to be under pilotage."
+   }
+  },
+  {
+   "id": "MY-H214-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "Section 55"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "55. Authority to employ pilots."
+   }
+  },
+  {
+   "id": "MY-H214-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "Section 56"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "56. Appointment and functions of Pilotage Committee."
+   }
+  },
+  {
+   "id": "MY-H214-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "Section 57"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "57. Constitution of Pilotage Committee."
+   }
+  },
+  {
+   "id": "MY-H214-A58",
+   "no": 58,
+   "noLabel": {
+    "en": "Section 58"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "58. Rules in relation to Pilotage Committee."
+   }
+  },
+  {
+   "id": "MY-H214-A59",
+   "no": 59,
+   "noLabel": {
+    "en": "Section 59"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "59. Examination for and issue of licence to act as pilot."
+   }
+  },
+  {
+   "id": "MY-H214-A60",
+   "no": 60,
+   "noLabel": {
+    "en": "Section 60"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "60. Inquiries by Pilotage Committee."
+   }
+  },
+  {
+   "id": "MY-H214-A61",
+   "no": 61,
+   "noLabel": {
+    "en": "Section 61"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "61. Submission of Pilotage Committee's findings and recom-\nmendations to Authority."
+   }
+  },
+  {
+   "id": "MY-H214-A62",
+   "no": 62,
+   "noLabel": {
+    "en": "Section 62"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "62. Liability of master or owner in case of vessel under\npilotage."
+   }
+  },
+  {
+   "id": "MY-H214-A63",
+   "no": 63,
+   "noLabel": {
+    "en": "Section 63"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "63. Limitation of Authority pilot's liability when bond is\ngiven."
+   }
+  },
+  {
+   "id": "MY-H214-A64",
+   "no": 64,
+   "noLabel": {
+    "en": "Section 64"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "64. Pilotage Committee and Authority not liable for loss or\ndamage occasioned by pilot."
+   }
+  },
+  {
+   "id": "MY-H214-A65",
+   "no": 65,
+   "noLabel": {
+    "en": "Section 65"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "65. Summary proceedings."
+   }
+  },
+  {
+   "id": "MY-H214-A66",
+   "no": 66,
+   "noLabel": {
+    "en": "Section 66"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "66. By-laws regulating pilotage and conduct of pilots.\nPart VIII\nBY-LAWS"
+   }
+  },
+  {
+   "id": "MY-H214-A67",
+   "no": 67,
+   "noLabel": {
+    "en": "Section 67"
+   },
+   "chapter": {
+    "en": "Part VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "67. By-laws.\n\n(Arrangement of Sections)\n\nSection\n\nde,\n\n77,\n\nAct 243\n\nParT IX\nOFFENCES, DAMAGES, PENALTIES AND\nPROCEDURES\nRefusal or neglect to appear before Auditor-General or\nto produce books for inspection.\nPenalty for evading rates or charges.\n\nList of all goods imported or exported to be left at office\nof Authority.\n\nPenalties to extend as well to principals as servants,\nPenalty for disobeying orders of wharf superintendent.\n\nPenalty for not keeping vessel so loaded with ballast or\notherwise as to be safely removed.\n\nPowers of General Manager or authorised person to order\nscuttling or removal of vessel in case of fire.\n\nBoarding of vessel when commission of offence suspected.\n\nPenalties as to employment of pilot other than Authority\npilot.\n\nReceiving or offering improper rates of pilotage.\nOffences by Authority pilot.\nPenalty on pilot endangering ship, life or limb.\n\nFailure to employ Authority pilot under certain circum-\nstances an offence.\n\nPenalty for false information on draught.\nPenalty for giving false statement in return.\nPenalty for throwing ballast, etc., into dock.\nGeneral penalty.\n\nEvasion of rates or charges not waived by subsequent\nacceptance of payment.\n\nRecovery of damages for injury to property of Authority,\nOffence may be tried by Magistrate's Court.\n\nDistress in the event of failure to pay damages or costs.\nLimitation of period of prosecution.\n\nService on company of summons.\n\nConduct of prosecution.\n\nSection\n\n1)\n\noo N naw\n\n[Arrangement of Sections]\n\nBINTULU PORT AUTHORITY                    7\n\nPART X\nTRANSFER, TRANSITIONAL AND GENERAL\n\nTransfer of responsibility etc., from Federal Government\nto Authority.\n\nMinister may appoint persons on temporary basis for\npurposes of this Act.\n\nSCHEDULE\n(Section 4 (6))\n\nPersons disqualified for being appointed members of\nAuthority.\n\nMember to hold office for one year.\n\nChairman and three other members to form quorum of\nAuthority.\n\nChairman to have casting vote.\nAuthority to determine its procedure.\nAuthority may appoint committees.\nDelegation.\n\nCommon seal of Authority.\nAllowances to members.\n\nDeclaration of share or interest and disqualification.\n\nact agst lA\n\nLAWS OF MALAYSIA\nAct 243\n\nBINTULU PORT AUTHORITY ACT 1981\n\nAn Act to provide for the establishment of the Bintulu\nPort Authority, for the transfer to and vesting in the\nAuthority of responsibility for the development,\ncontrol and administration of Bintulu Port and for\nall other matters and things necessary therefor,\nincidental thereto or connected therewith.\n\nSB 8 Leeopl $92  | PUAS\n\nBE IT ENACTED by the Duli Yang Maha Mulia\nSeri Paduka Baginda Yang di-Pertuan Agong with the\nadvice and consent of the Dewan Negara and Dewan\nRakyat in Parliament assembled, and by the authority\nof the same, as follows:\n\nPART I\nPRELIMINARY\n\n1.6) his Act may be cited as the Bintulu Port Authority Short\nAct 1981 and shall come into force on such date as the teand\nMinister may, by notification in the Gazette, appoint ment.\nand he may appoint different dates for the coming into\nforce of different provisions.\n\n2. In this Act, unless the context otherwise requires— Interpre-\n\n7        -   L                 a                     :   tat  5\n\"Authority\" means the Bintulu Port Authority  =\nestablished under section 3;\n\nIns/anast/ag\n\n\"Authority pilot\" means a pilot employed by the\nAuthority under section 55;\n\n\"Chairman\" means the Chairman of the Authority\nappointed under section 4 (1) (a);\n\n\"charges\" includes tolls, dues, rents and other rates\n\nleviable under this Act or any rules or by-laws made\nthereunder;\n\na\n\n(Pt, I, S. 2]\n\n\\A8 S|    \\\n\nAct 235.\n\n10                           Act 243\n\n\"docks\" includes basins, locks, cuts, entrances,\ngraving-docks, keel-blocks, inclined-planes, slipways,\ngridirons, quays, warehouses and other works and things\nappertaining to docks; /\n\n\"General Manager\" means the General Manager of\nthe Port appointed under section 21;\n\n\"goods\" includes livestock, minerals, wares, gases of\nevery form and merchandise of every description;\n\n\"Government\" and \"Federal Government\" mean the\nGovernment of Malaysia;\n\n\"land\" includes the bed of the sea below high-water\n\nmar cod operator  DA\n\n\"licensed warehouse\" means a warehouse or other\nplace licensed for the warehousing of dutiable goods\nunder section 65 of the Customs Act 1967; /\n\n\"master\" includes every person, except a pilot, having\nfor the time being the command or charge of any vessel:\n\n\"Minister\" and \"Minister of Finance\" mean the\nFederal Ministers charged with responsibility respec-\ntively for ports and harbours, and for finance;\n\n\"owner\", when used in relation to goods, includes a\nconsignor, consignee, shipper or an agent for the sale,\ncustody, shipping or landing of those goods; and, when\nused in relation to a vessel, includes a part-owner,\ncharterer, consignee or mortgagee in possession of the\nvessel;\n\n\"pier\" includes a stage, stairs, a landing-place,\nlanding-stage, jetty, floating barge or pontoon and a\nbridge, and other works connected therewith;\n\n\"pilotage district\" means an area in the Port or the\napproaches to the Port declared under section 53 to be\na pilotage district;\n\n\"Port\" means Bintulu Port within the limits of the\narea declared under section 3 of the Act;\n\n\"rates\" includes tolls, dues, rents, and other charges\nleviable under this Act or any rules or by-laws made\nthereunder;\n\n(Pt. I-Il, S, 2-4]\nBINTULU PORT AUTHORITY          11\n\"ship\" includes every description of vessel used in\nnavigation not propelled by oars;\n\n\"the Act\" means the Declaration of an Area in the\nBintulu District to be a Federal Port Act 1979;            Act 217.\n\n\"vehicle\" includes a carriage travelling on its own\nwheels or runners and used or intended to be used for\nthe conveyanice or carriage of persons, animals or goods;\n\n\"vessel\" includes a ship or boat and any other\ndescription of vessel used in navigation;\n\n\"wharf\" includes any wall and building adjoining the\nforeshore, sea-bed or a river-bed;\n\n\"wharf superintendent\" means the officer employed\nby the Authority to be in charge of the management of\nthe wharves and docks of the Authority.\n\nPart II\nBINTULU PORT AUTHORITY\n\n3. (1) There is established in respect of Bintulu Port a Establish-\n\nport authority to be known as the Bintulu Port Beg\ni                          P\nAuthority.                                                                                     Port\n\n(2) The Authority shall—\n\n(a) be a body corperate with perpetual succession\nand a common seal;\n\n(b) subject to sections 8 and 10, be capable of\npurchasing or otherwise acquiring, being vested\nwith by way of gift or otherwise, holding or\ndisposing of, movable and immovable property,\nincluding any interest therein;\n\n(c) be capable of entering into contracts and suing\nand being sued;\n\nand the Authority may do and suffer all such other acts\nand things as bodies corporate may do and suffer.\n\n4. (1) The Authority shall consist of—              Constitution\n(a)a Chairman who shall be appointed by the Authority.\nMinister;\n\n(b) the General Manager; and\n\n(Pt. II, S. 4-5]\n\nFunctions\n\nAuthority.\n\n12                             Act 243\n\n(c) not less than five nor more than nine members\nto be appointed by the Minister:\n\nProvided that it shall be lawful for the Minister to\nappoint the General Manager to be the Chairman.\n\n(2) Where the Chairman is a person other than the\nGeneral Manager, then unless the Minister appoints any\nof the members appointed under subsection (1) (c) to be\nthe Deputy Chairman of the Authority, the General\nManager shall be the Deputy Chairman.  é,\n\n(3) A temporary Chairman or temporary member\nmay be appointed as provided in subsection (1) during\nthe temporary incapacity through illness, or during the\ntemporary absence from the State of Sarawak or from\nMalaysia, of the Chairman or member, and the\nprovisions of this Act which apply in relation to the\nChairman or member (including a person to be so\nappointed) shall mutatis mutandis apply in relation to\na temporary Chairman or temporary member (including\nthe person to be so appointed).\n\n(4) The Authority may act notwithstanding a vacancy\nin its membership, and no act of the Authority shall be\ninvalid by reason only of some defect in the appoint-\nment of any of its members or on the ground that any\nperson acting as a member thereof has ceased to be such\nmember.\n\n(5) Notwithstanding anything to the contrary in this\nAct or any other written law, the Minister may remove\nfrom office the Chairman or any of the members of\nthe Authority without assigning any reason therefor.\n\n(6) The provisions of the Schedule shall have effect\nwith respect to the Authority and its members.\n\n5. (1) The functions of the Authority shall be to\ndevelop, control and administer and otherwise operate\nand maintain the Port, and for the performance of its\nfunctions it shall have the powers and duties provided\nunder this Act.\n\n[Pt. II, S. 5)\nBINTULU PORT AUTHORITY                  13\n\n(2) The Authority shall have power to do all things\nreasonably necesssary for or incidental to the discharge\nof its functions, and in particular—\n\n(a) to undertake all or any work of every descrip-\ntion in connection with the Port as the\nAuthority may think fit, or authorise by way of\nlicence any person to undertake such work,\nsubject to rules or by-laws made by the\nAuthority, and such licence may contain such\nconditions as the Authority may think fit to\nimpose;\n\n(b) to construct, maintain and use wharves, docks,\npiers and bridges within the limits of the area\nvested in the Authority, with all necessary and\nconvenient arches, drains, culverts, fences,\nroads, railways and approaches;\n\n(c) subject to the provisions of this Act, to levy\nsuch port dues and such general charges upon\ngoods or cargo loaded or discharged in the\nPort as the Authority may think necessary for\nthe maintenance, improvement or develop-\nment of the Port;\n\n(d) to control the berthing and movement of all\nvessels, whether in the road or alongside a\nquay, wharf, pier or landing-place vested in\nor under the control of the Authority;\n\n(e) to purchase or otherwise acquire or construct,\nand to maintain and use, engines, firefloats and\nother appliances for the purpose of extinguish-\ning fire on the property of the Authority and\nin the Port;\n\n(f) to purchase or otherwise acquire or construct,\nand to maintain and operate, vessels for the\npurpose of towing or rendering assistance to\nany vessel (whether in the territorial waters of\nMalaysia or on the high seas and whether\nentering or leaving the Port or bound else-\nwhere) and for the purpose of saving life or\nproperty or recovering property lost, sunk or\nstranded;\n\n(g) to supply water to shipping in the Port;\n\n[Pt. II, S. 5]\n14                            Acr 243\n\n(h) to purchase or otherwise acquire or construct,\nand to maintain and operate, ferry vessels to\ncarry passengers, vehicles and goods, and use\nthe same for plying for hire;\n\n(i) to carry on the business of bunkerers and of\nsuppliers of stores and materials to ships;\n\n(j) to purchase or otherwise acquire or construct,\nand to maintain and, within the limits of the\narea vested in the Authority, operate such\nfacilities including railways, warehouses, sheds,\nengines, cranes, scales and other appliances for\nconveying, receiving, handling and storing\ngoods to be landed or shipped or otherwise\ndealt with by the Authority;\n\n(k) to carry on the business of builders and re-\npairers of ships and machinery;\n\n(I) to purchase or otherwise acquire or construct,\nand to lay and maintain, moorings; ya\n\n(m) to purchase or otherwise acquire or construct,\nand to maintain and operate, all means and\nappliances for berthing, loading and discharg-\ning of vessels;\n\n(n) to purchase or otherwise acquire or construct,\nand to maintain and moor, vessels and hulks\nfor the storage and working of cargo and goods;\n\n(0) to reclaim, excavate, enclose or raise any part\nof the area vested in the Authority;\n\n(p) to clean, deepen or improve any part of the\nPort, and for any of such purposes to purchase\nor otherwise acquire or construct, and to main-\ntain and operate, dredgers or other appliances;\n\n(q) to erect or cause to be erected buildings on\nany part of the area vested in the Authority;\n\n(r) to take such action as the Authority may think\nfit in relation to works without the limits of\nthe area vested in it as are necessary for the\nprotection of works belonging to it within the\nlimits of the area vested in it;\n\nAne |        (s) to be an insurer of goods, in its custody;\n\npjans|       (t) with the approval in writing of the Minister of\nFinance and subject to $uch terms and condi-\ntions as he may specify, to borrow money from\nany person or source.\n\nAe > (QA) ....                  X\n\n[Pt. Il, S.\n\nBINTULU PORT AUTHORITY                   15\n\n5-8]\n\n(3) Section 3 (1) of the Insurance Act 1963 shall not Acrag,\n\napply to the Authority in relation to its powers under\nal (2) (s).\n\na                ,             A\n®Th the discharge of its functions, the Authority wenger\n\nshall—\n\n(a) maintain, or provide for the maintenance of,\nadequate and efficient port services and\nfacilities (including ferry services) at reasonable\ncharges for all users of the Port, consistent\nwith public interest;\n\n(b) provide pilotage services within the limits of\nthe Port and the approaches to the Port;\n\n(c) provide such number of public landing-places\nas are in the opinion of the Authority sufficient;\n\n(d) co-ordinate the activities in, and promote the\nimprovement and development of, the Port; and\n\n(e) do such acts and things as may be necessary\ntowards the performance of the duties of the\nAuthority mentioned in this section.\n\n7. (1) The Minister may, after consultation with the\nAuthority, give to the Authority directions of a general\ncharacter and not inconsistent with this Act as to the\nexercise and performance of its functions and duties\nin relation to matters which appear to him to affect\nthe interests of Malaysia and the Authority shall give\neffect to all such directions.\n\n(2) In framing programmes of re-organisation or\ndevelopment involving substantial capital outlay, the\nAuthority shall act on guidelines laid down from time\nto time with the approval of the Minister.\n\n8. (1) No acquisition or disposal of immovable pro-\nperty by the Authority, including an interest in the\nform of a lease of such property for a term exceeding\nthree years or a mortgage of such property, shall be\nvalid unless such acquisition, disposal, lease or mort-\ngage has been made with the approval of the Minister\nin writing.\n\n(2) The Authority shall cause any property pur-\nchased or otherwise acquired, vested by way of gift or\notherwise, or disposed of to be valued at the date of\nits purchase or acquisition, vesting or disposal, and\nshall forthwith cause details of such valuation to be\nshown on its accounts.\n\nAuthority.\n\nPowers of\n\nMinister in\nrelation to\nAuthority.\n\nPower of\nAuthority\nas to\n\nproperty.\n\n(Pt. I, S. 8-11)\n\nAcquisition\nof immov-\nable\nproperty by\nAuthority.\n\nAbg —>\n\nPower of\nAuthority\nto lease\nor grant\nlicences\nin respect\nof fore-\nshore.\n\nPort        .\nConsultative\nCommittee.\n\n16                                 Act 243\n\n(3) For the purposes of this Act, the Minister may,\nwith the concurrence of the Minister of Finance, by\norder in the Gazette transfer to the Authority such\nmovable and immovable property vested in or\nbelonging to the Government as may be specified in\nthe order, and any such property so transferred shall\nvest in the Authority without further assurance.\n\n(4) Any transfer under subsection (3) shall be subject\nto such terms and conditions as the Minister may,\nwith the concurrence of the Minister of Finance,\nspecify and the order may include provision in respect\nof the rights, interests, debts, liabilities and obligations\nappertaining to such property which is to be transferred\nto and deemed to have been acquired or incurred by\nthe Authority, as the case may be.\n\n9, When the Authority is unable to acquire by\nagreement any immovable property required for the\npurposes of this Act, proceedings may be taken by the\nGovernment for acquiring the same on behalf of the\nAuthority in accordance with the provisions of the\nFederal Constitution relating to the acquisition of land\nfor federal purposes.\n\n10. (1) The Authority may, for such rents or other\npayments, and periods, and subject to such convenants,\nconditions and restrictions as it thinks proper, lease or\ngrant licences, under the hand of the Chairman, to\nany person to occupy or use any part of the foreshore\nwhich is vested in the Authority.\n\n(2) Notwithstanding section 8 (1), no lease or licence\ngranted under subsection (1) for a period exceeding\ntwelve months shall be valid unless the same has been\nmade with the approval of the Minister in writing.\n\n(3) The powers under subsections (1) and (2) shall\nnot be exercised so as to cause any obstruction to\nnavigation without first obtaining the approval of the\nMinister in writing.\n\n11. (1) For the purpose of advising the Authority, the\nMinister may appoint a Port Consultative Committee\n(referred to in this section as \"the Committee\") which\nshall consist of—\n\n(a) the Chairman of the Authority as chairman of\nthe Committee;\n\n(Pt. II, S. 11-13]\n\nBINTULU PORT AUTHORITY                    17\n\n(b) the General Manager, where he has not been\nappointed to be the Chairman of the Authority;\nand\n\n(c) such other persons as the Minister may deter-\nmine.\n\n(2) In appointing members under subsection (1) (c),\nthe Minister shall have regard to any representations\nrelating thereto made by users of the Port and by\npersons providing port services.\n\n(3) The Authority may consult the Committee on\nany matter concerning the Port and shall, if the Com-\nmittee has been appointed, consult it upon the following\nmatters—\n\n(a) any substantial alteration in the charges or\nscales of charges levied by the Authority;\n\n(b) any major scheme relating to the expansion or\ndevelopment of the Port; and\n\n(c) any other matter upon which the Authority is\nrequired by the Minister to consult the Com-\nmittee.\n\n(4) The chairman of the Committee shall cause a\ncopy of the minutes of its meetings to be transmitted\nto the Minister. gg\n\n(5) Subsections (3), (4) and (5) of section 4 and the\nSchedule (except paragraphs 6, 7 and 9 thereof) shall\nmutatis mutandis apply to the Committee and its mem-\nbers as they apply to the Authority and its members.\n\n12. The Authority may be provided with such sums\nof money for its working capital as the Dewan Rakyat\nmay determine; and any sums so provided shall be\nsubject to such terms and conditions as the Minister\nof Finance may specify.\n\n13. (1) The Authority shall keep proper and regular\naccounts and other records of moneys received and\npaid by the Authority and the several purposes for\nwhich such moneys have been received or paid, and\nof its assets, credits and liabilities.\n\n(2) The revenues of the Authority for any financial\nyear shall be applied in defraying the following charges\nfor that year—\n\n(a) working and establishment expenses;\n\nWorking\ncapital of\nAuthority.\n\nFinances\nand\naccounts of\nAuthority.\n\n(Pt. 11, S. 13-14]\n\nAAS? |\n—\n\nInvestment\nof moneys\nnot\nimmediately\n\nfits siap or\nAng3|\n\n18                                    Act 243\n\n(b) the maintenance, depreciation and renewal\nof the property, and the discharge of the\nfunctions, of the Authority properly chargeable\nto revenue;\n\n(c) interests on loans and repayments of moneys\nborrowed; and\n\n(d) such capital expenditure as the Authority may\ndetermine to charge to the revenues.\n\n(3) The amount remaining of the revenues of the\nAuthority for any financial year, after defraying the\ncharges referred to in subsection (2), shall be applied\nin making good any deficiencies in the revenue carried\nforward from previous years, and the whole or any\npart of the balance (if any) may as soon as may be\nafter the end of that year be carried to such reserves\napproved by the Authority as the Authority thinks\nfit.\n\n(4) Moneys standing to the credit of reserves may be\nemployed in the undertakings of the Authority.\n\n(5) The Authority may open and maintain a current\naccount with a bank approved by the Minister of\n\nFinance.\n(Sai --\n\n14, (1) Moneys which are not immediately required to\nbe expended in the discharge of any of the functions of\nthe Authority shall, if invested, be invested by the\nAuthority in investments authorised by any written\nlaw for the investment of trust funds, or in such other\ninvestments or securities as may be approved by the\nMinister of Finance, or may be deposited in a bank or\nfinancial institution approved by him:\n\nProvided that the Authority shall not invest moneys\nin securities issued or registered, or other property\nsituated, outside Malaysia except with the approval in\nwriting of the Minister of Finance to the making of\nthat investment.\n\n(2) The Authority may, with the approval of the\n\n,Minister, make financial contributions toy public or\n\ncharitable objects.\n\n(Pt. U, S. 15-20)\n\nBINTULU PORT AUTHORITY          19\n15. The accounts and records of the Authority shall at\nall times be open to the inspection of—\n\n(a) any member of the Authority;\n\n(b) the Auditor-General or an auditor specially\nauthorised by the Auditor-General to inspect\nthe accounts and records;\n\n(c) any other person specially authorised by the\nMinister to inspect the accounts and records.\n\n16. The books of accounts and records of the Authority\nshall be kept at its head office but may be removed there-\nfrom where authorised by any written law.\n\n17. The provisions of the Statutory Bodies (Accounts\nand Annual Reports) Act 1980 shall apply in respect of\nthe Authority.\n\n18. The Authority shall furnish to the Minister. such\nfinancial and statistical returns and such other reports\nand information of its financial position, property,\nactivities, proceedings, policy and proposed under-\ntakings as the Minister may from time to time require.\n\n19. (1) Not later than three months before the com-\nmencement of the financial year to which they relate,\nthe annual estimates of revenue and expenditure (inclu-\nding capital expenditure) shall be submitted by the\nAuthority to the Minister for his approval and the\nMinister may at any time within one month of receipt\nof the same, disallow or amend any item of capital\nexpenditure appearing in such estimates, or any\nportion thereof, and return the same to the Authority\nfor amendment.\n\n(2) The Authority shall forthwith amend any esti-\nmates returned to it under subsection (3) and shall re-\nsubmit such estimates (as amended) to the Minister.\n\n20. (1) The Authority may at any time during the year\nfor which estimates have been approved under section\n19 cause supplementary estimates to be prepared and\nsubmitted to the Minister.  /\n\nInspection\nand audit\nof accounts,\n\nBooks of\naccounts\nand records\nto be kept\nat head\noffice.\n\nStatutory\nBodies\n(Accounts\nand Annual\nReports)\nAct 1980\n\nto apply.\nAct 240.\n\nAuthority\nto furnish\nMinister\nwith certain\nreturns and\nother\nreports and\ninforma-\ntion.\n\nEstimates of\nrevenue and\nexpenditure.\n\nSupple-\nmentary\nestimates.\n\n(Pt. D-II, S. 20-22)\n20                             Act 243\n\n(2) The provisions of section 19 shall mutatis mutan-\ndis apply to supplementary estimates as they apply to\nannual estimates of revenue and expenditure.\n\nParT III\nOFFICERS AND SERVANTS\n\nAppoint- 21. (1) The Authority may from time to time appoint\nmentof 4 and employ, at such remuneration and on such terms\nservants. and conditions as it may think fit, such officers and\nservants (including a General Manager and Deputy\nGeneral Manager) as may be necessary for the purposes\n\nof this Act:\n\nProvided that the Authority shall not appoint any\nperson to be the General Manager or Deputy General\nManager unless and until the approval of the Minister\nhas been obtained.\n\n(2) The expression \"Authority\" in this section, in\nrelation to the appointment of the General Manager,\nmeans the Authority consisting of the Chairman and\nthe members appointed under section 4 (1) (c).\n\nEstablish- 22. (1) The Authority may, with the approval of the\nmani of Minister, establish a security force for keeping order\nsecurity    and security within the area vested or deemed to be\nfone      vested in, or in the possession or under the control of,\n\nthe Authority.\n\n(2) The security force shall consist of such persons\nas may be appointed under section 21 (1).\n\n(3) Notwithstanding any written law to the contrary,\na member of the security force shall have the power\nto arrest without warrant any person found without\nlawful excuse within the area vested in, or in the\npossession or under the control of, the Authority.\n\n(4) Every person arrested pursuant to subsection (3)\nshall be taken to the nearest police station as soon as\npossible.\n\n(5) Any rules made under section 24 shall unless\nexpressly excluded therein apply to members of the\nsecurity force established under this section.\n\n[Pt. III, S. 23-241\n\nBINTULU PORT AUTHORITY                   21\n\n23. The General Manager shall, subject to the\ndirections of the Authority on matters of policy,\nexercise supervision and control over the acts and\nproceedings of all officers and servants of the Authority\nin matters of executive administration and in matters\nconcerning the accounts and records of the Authority,\nand, subject to any rules made under this Act, deal\nwith matters relating to the service of such officers and\nservants and their pay, privileges and allowances.\n\n24. (1) The Authority may with the approval of the\nMinister make rules for or in respect of the salaries,\nallowances and conditions of service of its officers and\nservants generally. ,\n\n(2) Without prejudice to the generality of subsection\n(1), the rules may provide—\n\n(a) for retirement benefits to officers and servants\nof the Authority who retire or otherwise cease\nto hold office as such officers and servants; and\n\n(b) for the making of loans to officers and servants\nof the Authority for such purposes as may be\napproved by the Minister, having regard to the\npurposes for which persons in the employment\nof the Government are granted loans.\n\n(3) The following provisions shall apply to any rules\nmade by virtue of subsections (2) (a) and 2 (b)—\n\n(a) no donation, contribution, gratuity, allowance\nor other payment payable under such rules,\nnor any right or interest acquired by any\nperson to any gratuity, allowance or other\npayment thereunder, shall be assignable, trans-\nferable or liable to be attached, sequestrated\nor levied upon for or in respect of a debt or\nclaim whatsoever, other than a debt due to the\nGovernment of Malaysia or of a State or to\nthe Authority;\n\n(b) any moneys paid under such rules on the death\nof any person shall be deemed to be impressed\nwith a trust in favour of the persons entitled\nthereto under the will or intestacy of such\ndeceased person, but shall not be deemed to\nform part of his estate or be subject to his\n\nebts;\n\nDuties of\nGeneral\nManager\n\nPower to\nmake rules.\n\n(Pt. II, S. 24]\n(c)\n\n(d)\n\n(e)\n\n(f)\n\n(g)\n\nAct 243\n\nany person may by his will or by a memo-\nrandum under his hand appoint a trustee of\nthe moneys payable on his death under such\nrules, and may provide for the appointment of\na new trustee or trustees of such moneys and\nfor the investment thereof;\n\nif at the time of the death of a person or at\nany time afterwards there is no trustee of such\nmoneys or it is expedient to appoint a new\ntrustee or trustees, then and in any such case\na trustee or trustees or a new trustee or trustees\nmay be appointed by the High Court or a Judge\nthereof;\n\nthe receipt of a trustee or trustees duly\nappointed, or in default of any such appoint-\nment the receipt of the legal personal represen-\ntative of the deceased person, shall be a\ndischarge for any moneys payable on his death\nunder such rules;\n\nno donation, contribution or interest paid\nunder such rules shall be subject to the debts\nof the contributor, nor shall such donation,\ncontribution or interest be paid to the Official\nAssignee on the bankruptcy of a contributor,\nbut if such contributor is adjudicated a\nbankrupt or is declared insolvent by judgment\nof the Court, such donation or contribution\nor interest shall, subject to the provisions of\nsuch rules, be deemed to be impressed with a\ntrust in favour of the person entitled thereto\non the death of the contributor;\n\nthe bankruptcy of a contributor shall not affect\nthe making of deductions from the salary of\nthe contributor in accordance with such rules\nand such deduction shall continue to be made\nnotwithstanding the provisions of any written\nlaw to the contrary, and the portion of salary\nso deducted shall be deemed not to form part\nof his after-acquired property;\n\nBINTULU PORT AUTHORITY          23\n\n(h) any officer or servant of the Authority who is\na contributor under such rules shall, if he is\ndismissed from service as such officer or servant\nfor fraud, dishonesty or misconduct which\ninvolves pecuniary loss to the Authority, or\nretires or resigns from his office with intent to\nescape discharge or dismissal in consequence\nof such fraud, dishonesty or misconduct, for-\nfeit, subject to \"such conditions as may be\nprovided by the rules, all or any part of the\ncontributions made by the Authority as it\nthinks fit; an appeal shall lie to the Minister\nagainst any such forfeiture.\n\n(4) Rules made under this section, other than rules\nrelating to pensions and other retiring benefits of\nofficers and servants. shall not be required to be\npublished in the Gazette.\n\n25. All members, officers and servants of the Authority Public\nand all members of the Port Consultative Committee, seryants for\nthe Pilotage Committee and a committee of the Autho- a Penal\nrity shall be deemed to be public servants within the F.m.s.\n\nmeaning of the Penal Code.                    Cap. 45.\n\n26. (1) The Public Authorities Protection Act 1948 shall  Application\napply to any action, suit, prosecution or proceeding ‘Authorities\nagainst the Authority, or against any member, officer, pee oe\n\nservant or agent thereof in respect of any act, neglect or and sion\ndefault done or committed by him in that capacity.        sont\n\npersonal\n(2) No matter or thing done and no contract entered dein\ninto by the Authority and no matter or thing done by\na member, an officer, a servant or an agent of the Autho-\nrity acting under the direction of the Authority shall,\nif the matter or thing was done or the contract entered\ninto bona fide for the purposes of this Act, subject such\nmember, officer, servant or agent personally to any\naction, liability, claim or demand in respect thereof, and\nexpenses incurred by the Authority or such member,\nofficer, servant or agent in connection therewith shall be\npaid out of the funds of the Authority.\n\n(Pt. IV, S. 27]\n24                             Act 243\n\nPART IV\nCHARGES AND RECOVERY OF CHARGES\nAuthority 27, (1) The Authority may levy charges in respect of\n\nhayes' services, works or facilities rendered, performed or\nprovided in the exercise of its functions under this Act\nand for that purpose it shall with the approval of the\nMinister from time to time prescribe charges or scales\nof charges/in respect of all or any of the following\nmatters—\n\nmd impose fooaltieda) the landing, shipping, wharfage, lighterage,\n\nor interests for late Cranage and storage of goods, and the use of\n\npayment of any dues.  the Authority's vessels and vehicles and demur-\nAnes,        rage thereon;\n\n(5) the mooring of vessels and boats;\n\n(c) the carriage of goods by vehicles (whether plying\nfor hire or otherwise);\n\n(d) the embarkation and landing of persons;\n\n(e) the carriage of passengers, vehicles, animals and\ngoods by a ferry service maintained by the\nAuthority;\n\n(f) the use of a quay, wharf, dock, jetty, pier,\nlanding-place, foreshore or other property\nvested in or under the control of the Authority; /\n\n(g) services rendered or material supplied to, or\n(body Corporate or made use of by, a vessel;\n\nan individual - (h) the use of tugs, firefloats and launches belonging\nAGI:          to or maintained by the Authority;\n\n(i) water supplied by the Authority;\n\n(j) the towing of, and rendering of assistance to, a\nvessel (whether entering or leaving the wharves,\ndocks or piers in the possession of the Authority,\nor whether within or without the Port);\n\n(k) the shipping and transhipping of goods or\npersons; and\n\n(D) any other matter in respect of which the Autho-\nrity is empowered to levy charges.\n\n(2) The Authority may with the approval of the\nMinister from time to time alter or vary the charges or\nscales of charges referred to in subsection (1).\n\n(Pt. IV, S. 27-29]\nBINTULU PORT AUTHORITY                  25\n\n(3) The Authority may, instead of levying the charges\nin accordance with the charges or scales of charges\nprescribed, enter into an agreement on any of the\nmatters specified in subsection (1).\n\n(4) In relation to any matter in respect of which no\ncharges or scales of charges have been prescribed\npursuant to subsection (1), the Authority may levy any\ncharges it thinks fit.\n\n(5) The Authority may with the approval of the\nMinister remit the whole or any portion of the charges\nleviable under this section:\n\nProvided that the Authority may in its discretion\nremit the whole or any part of the rates for storage or\ndemurrage.\n\n(6) The Minister may in any case where it appears\nto him expedient, having regard to the liabilities which\nthe Authority has to meet, require the Authority to\nincrease any charges prescribed under subsection (1),\nand the Authority shall accordingly carry out that\nrequirement.\n\n(7) The Authority may cause the scale of charges to\nbe printed and may, for the information of the public,\nexhibit such scales (either in whole or in part) at such\nplaces as the Authority deems fit.\n\n(8) Any charges or scales of charges prescribed shall\n\nbe published in the Gazette.\n\nSFA: ane                                      A\n28. Any charges prescribed under this Act for any Charges to\nservices, works or facilities shall become due and pay- Pecome sie\nable as if such services, works or facilities had been where\nrendered, performed or provided, if the request for the Teast\nservices, works or facilities was withdrawn or cancelled without\nwithout reasonable notice thereof being given to the reasonable\n\n°                                                      notice.\nAuthority.\n\n29. (1) The Authority shall in the case of charges which Resoxeay of\nhave not been paid in respect of any goods have a lien Srrears.\non such goods and shall be entitled to seize and detain\n\nsuch goods until the charges are fully paid.\n\n(2) Such lien shall have priority over all other liens\nand claims, except claims for moneys payable to the\nGovernment.\n\n(Pt,\n\n=>\n\nIV, S, 29-31]\n26                              Acr 243\n\n(3) Charges in respect of goods to be—\n(a) landed;\n(5) shipped; or\n(c) removed from the premises of the Authority,\n\nshall be payable respectively—\n(i) on the landing of the goods;\n(ii) before the goods are shipped; or\n(iti) on demand.\n\nRecovery 30. (1) The Authority may with the approval of the\nof pilotage Minister from time to time by notification in the\nGazette—\n\n(a) prescribe the pilotage dues which shall be paid\nto the Authority by the master or owner of\nevery vessel; and\n\n(b) define the circumstances and conditions under\nwhich pilotage dues are to be recoverable in\nrespect of the services of an Authority pilot.\n\n(2) If a vessel having on board an Authority pilot\nleads another vessel having no Authority pilot on\nboard, the Authority shall be entitled to the full pilotage\ndues as if the Authority pilot had actually been on board\nand had piloted that other vessel.\n\n(3) The Authority may, if it thinks fit, remit the\nwhole or any part of pilotage dues paid.\n\n(4) The Authority may with the approval of the\nMinister exempt, upon such conditions as it may\nimpose, any vessel or classes of vessels from any\npilotage dues payable under this Act.\n\nPowerto 31. (1) Subject to this section and without prejudice\n\nsel' goo' to section 33, the Authority may, where any goods\n\nin custody. which have been placed in its custody are not removed\ntherefrom within a period of twenty-one days from the\ntime when such goods are so placed in custody, at the\nexpiration of such period sell by public auction any\nor all of such goods as are still in its custody:\n\nProvided that—\n\n(a) in the case of goods for which a through bill\nof lading has been issued there shall be sub-\nstituted a period of forty-two days for the\nperiod of twenty-one days referred to in this\nsubsection; and\n\n(Pt. IV, S. 31)\nBINTULU PORT AUTHORITY                  27\n\n(b) if the goods are of a perishable nature the\nAuthority may direct their removal within\nsuch shorter period (not being less than twenty-\nfour hours after the landing) as the Authority\nmay think fit, and the power of sale of the\ngoods may be exercised at the expiration of\nsuch period.\n\n(2) For the purposes of subsection (1), a sale shall\nnot be rendered invalid by reason only that it takes\nplace on premises or in an area to which the public is\nnot admitted except on presentation of a pass.\n\n(3) Before making such sale the Authority shall give\nthree days' notice thereof by advertisement in two\nlocal newspapers circulating in the State of Sarawak,\nunless the goods are of so perishable a nature as, in\nthe opinion of the Authority, to render their immediate\nsale necessary or advisable, in which event such notice\nshall be given as the urgency of the case permits.\n\n(4) If their addresses are ascertainable from the\nmanifest of the cargo or from any of the documents\nwhich have come into the hands of the Authority or\nare otherwise known, notice shall also be given to the\nOwners of the goods and to the agent of the discharging\nvessel.\n\n(5) Notwithstanding subsection (4), the title of a\nbona fide purchaser shall not be invalidated by reason\nof the omission to give such notice, and the purchaser\nshall not be required to inquire whether notice has\nbeen given.\n\n(6) The proceeds of sale shall be applied by the\nAuthority for, and in accordance with the order of,\nthe following payments—\n\n(a) duty payable to the Government;\n(b) expenses of the sale;\n\n(c) payment of the rates, charges and expenses\ndue to the Authority in respect of the goods;\nand\n\n(d) freight and other claims or lien of which notice\nhas been given to the Authority before the day\nof the sale.\n\n(Pt, IV, S. 31-33)\n\n28                                     Act 243\n\n(7) The balance of the proceeds of sale (if any) after\nmaking the payments under subsection (6) shall be\npaid to the person entitled thereto on demand or,\nwhere no such demand is made within one year from\nthe sale of the goods, into the general account of the\nAuthority, and thereupon all rights to the same by\nthat person shall be extinguished.\n\nPower aa.   32. The Authority may compound, or compromise for\ndram     or in respect of, any claim or demand made against it,\npromise   for such sum of money or other compensation as it\n\nclaim of deems sufficient.\n\nPowerto 33. (1) Where the master of a vessel fails to pay any\nfor non-    charges or part thereof payable on demand under this\npayment  Act or any rules or by-laws made thereunder, the\nAuthority may distrain or arrest the vessel and the\ntackle, apparel, furniture or other article belonging to\n\nthe vessel and detain the same until the charges are\n\npaid.\n\n(2) Where any part of the charges or the costs of\nthe distress, arrest or detention of the vessel, tackle,\napparel, furniture or other article remain unpaid for\nthe space of fourteen days next after any such distress,\narrest or detention, the Authority may cause the vessel\nor the other articles so distrained, arrested or detained,\nto be sold, and may apply the proceeds thereof to\nsatisfy such charges and costs (including the costs of\nthe sale) and the Authority shall pay the balance thereof\n(if any) to the master of the vessel on demand.\n\n(3) Where the Authority has given to the officer of\nthe Government whose duty it is to grant the port\nclearance of a vessel, a notice stating that an amount\nspecified therein is due in respect of charges (leviable\nunder this Act or any rules or by-laws made thereunder)\nagainst a vessel, the officer shall not grant any port\nclearance in respect of that vessel until the amount so\nleviable has been paid.\n\n(4) The provisions of this section (relating to the\nrecovery of charges in arrears by the Authority) shall\nbe in addition to and not in derogation of the rights\nof the Authority under any other law.\n\n[Pt. V, S. 34-37]\nBINTULU PORT AUTHORITY                  29\n\nPart V\nLIABILITY OF THE AUTHORITY\n\n34. (1) The Authority shall not where, without its Limitation\nactual fault or privity, any loss or damage, not being evuthority' *s\nloss or damage provided for by this Part, is caused to liability.\n\na vessel, or to a train, vehicle, animals, soods or other\n\nthings whatsoever on board a vessel, be liable to\ndamages beyond an aggregate amount not exceeding\n\nin the currency of Malaysia the equivalent of eight\n\npounds sterling for each ton of the tonnage of the\n\nvessel.\n\n(2) For the purposes of this Part, the tonnage of\nvessels shall be ascertained from the register of such\nvessels which shall be sufficient evidence that the gross\ntonnage and the deduction therefrom and the registered\ntonnage are as therein stated.\n\n35. The Authority shall not, without its actual fault Liability in\nor privity, be liable to damages—                      Toeding oF\n(a) in respect of personal injury or death caused a\n\nto any person;\n\n(b) for loss or damage to any goods, merchandise\nor other things whatsoever, /\n\nwhere such injury, death, loss or damage is caused by\nor arises out of the operation of loading onto or dis-\ncharging from a vessel of goods or any work incidental\nthereto.\n\n36. Any goods, merchandise or other things deposited Goods\nwith or placed in the custody of the Authority for the deposited\npurpose of lighterage or shipment shall remain in the lighterage or\ncustody or control of the Authority at the sole risk and shipment.\nexpense of the owner thereof.\n\n37. (1) The Authority and any person authorised by it Loss,\nshall, in respect of any other than transhipment goods desmeti\"\n\ndeposited with or placed in the custody or control of damage tp\nthe Authority for the purpose of delivery, be deemed Prion\"\nto be the agent of the owner of the vessel discharging shipment\ngoods irrespective. of whosoever pays or is to pay any Geposited\n\nwith\ncharges or duties in respect of the goods.             Mn city\n\n(Pt. V, S. 37-38]\n\nLoss or\ndestruc-\ntion of or\ndamage to\ntranship-\nment\ngoods\ndeposited\nwith\n\nAuthority.\n\n30                                   Act 243\n\n(2) Neither the Authority nor any person authorised\nby it shall, in acting as an agent under subsection (1),\nbe liable—\n\n(a) either in damages or in any other respect for\nloss caused to a person by reason of short\ndelivery of any goods deposited or placed in\nthe custody or control of the Authority or any\nfailure by the Authority to deliver or account\nfor the same; or\n\n(b) for damage to, or destruction of, such goods in\na sum of more than one thousand ringgit per\npackage or unit unless the nature and value of\nthe goods contained therein have prior to\ndelivery to the Authority been declared in\nwriting to the Authority by the person delivering\nor causing the same to be delivered, and the\nAuthority shall not in any event be liable\ntherefor where the value of any such goods has\nbeen misstated or where there prevails any of\nthe circumstances set out in section 39.\n\n(3) For the purposes of this section and of section\n38, the expression \"transhipment goods\" means goods\nlanded from a vessel and placed in the custody of the\nAuthority for the purposes of shipment on another\nvessel on a through bill of lading dated at the port of\nloading of such goods and showing that the destination\nis via the Port, with the ultimate port of destination\nmarked on each package or unit containing such goods\nand declared on a transhipment manifest lodged with\nthe Authority prior to or at the time such goods are\nplaced in its custody.\n\n38. In respect of any transhipment goods delivered by\na person to, or placed by a person in the custody of,\nthe Authority, the Authority shall, from time of\nacknowledgement of the receipt of such goods and until\ndelivery of such goods alongside the on-carrying vessel\nfor loading, be liable, subject to section 39, for the loss\nor destruction of, or damage to, such goods:\n\nProvided that the Authority shall not be liable for\nany such loss, destruction or damage in a sum of\nmore than one thousand ringgit per package or unit\nunless the nature and value of the goods contained\ntherein have, prior to delivery to the Authority, been\n\n(Pt. V, S. 38-40]\n\nBINTULU PORT AUTHORITY                   31\n\ndeclared in writing to the Authority by the person\ndelivering or causing the same to be delivered, and\nthe Authority shall not in any event be liable therefor\nwhere the value of any such goods has been misstated.\n\n39. Sections 37 (2) (b) and 38 shall not impose on the\nAuthority or any person duly authorised by it any\nliability for the loss or destruction of, or damage to,\nany goods arising from—\n\n(a) fire or flood, unless caused by the actual fault\nor privity of the Authority;\n\n(b) an act of God;\n\n(c) an act of war or of public enemies;\n(d) seizure under any legal process;\n\n(e) quarantine restrictions;\n\n(f) any act, omission or default of the owner or\ncarrier of the goods;\n\n(g) strikes, lockouts or stoppages or restraints of\nlabour from whatever cause, whether partial\nor general;\n\n(4) riots and civil commotion;\n(i) saving or attempting to save life or property:\n\n(j) insufficient or improper packing, defective or\ninsufficient marks or leakage from defective\ndrums, containers or packages;\n\n(k) any inherent liability to wastage in bulk or\nwelght, latent or inherent defect or natural\ndeterioration;\n\n(/) any deficiency in the contents of unbroken\npackages; or\n\n(m) the dangerous nature of such goods.\n\n40. The limitation or liability under this Part shall\nrelate to the whole of any losses and damages which\nmay arise upon any one distinct occasion, although\nsuch losses or damages may be sustained by more than\none person, and shall apply whether the liability arises\nat common law or under any written law and notwith-\nstanding anything contained in such written law.\n\n/\n\nForce\nmajeure,\netc.\n\nLimitation\nof liability\nin respect\nof one\noccasion.\n\n(Pt. V, S. 41-43]\n\nExemption\nfrom\nliability\nfor\n\nfailure to\nrun ferry\nboat as\nadvertised.\n\nPower of\nHigh\nCourt to\nconsolidate\nclaims.\n\nLiability\nfor loss\nunder\ncontract.\n\n32                                    Act 243\n\n41. The Authority shall be exempt from all liability\nin respect of any loss or damage whether arising from\nthe variation in the time of departure or arrival of\nany of its ferry boats or by reason of its failure to\nrun any ferry boat as advertised or at all.\n\n42. Where any liability is alleged to have been\nincurred by the Authority in respect of loss of life,\npersonal injury or loss of or damage to vessels, trains,\nvehicles, animals, goods or other things whatsoever,\nand several claims are made or apprehended in respect\nof that liability, then the Authority may apply to the\nHigh Court, and that Court may determine the\namount of the Authority's liability and may distri-\nbute that amount rateably among the several claimants,\nand may stay any proceedings pending in any other\ncourt in relation to the same matter, and may proceed\nin such manner and subject to such rules as to making\npersons interested parties to the proceedings, and as to\nthe exclusion of any/claimants who do not come in\nwithin a certain time, and as to requiring security from\nthe Authority, and as to payment of any costs as the\nCourt thinks just.\n\n43, (1) Notwithstanding this Part, the Authority shall,\non application made to it by the owner of a vessel,\nenter into a contract with that owner whereby the\nAuthority shall accept liability for any loss caused by\nreason of short delivery by the Authority of any goods\ndeposited with or placed in the custody or control of\nthe Authority or any failure by the Authority to deliver\nor account for the same; and for the purposes of this\nsection, the Authority may prescribe the terms and\nconditions of the contract and may, with the approval\nof the Minister, from time to time prescribe the rates\nto be levied:\n\nProvided that the Authority may in its discretion\nrefuse to enter into such contract unless the contract\nis in respect of all of the goods to be loaded into or\ndischarged from a vessel, as the case may be.\n\n(2) Nothing in this Part shall affect the liability of\nthe Authority under any written law relating to com-\npensation to workmen.\n\n(Pt. VI, S. 44-47)\n\nBINTULU PORT AUTHORITY                 33\n\nPART VI\nPORT, WHARVES AND PREMISES\n\n44, The Authority shall have control of the use of Control of\n\nforeshores within the Port and no goods or cargo shall\nbe handled across, over or under such foreshores\nwithout the written permission of the Authority or\notherwise than in accordance with such conditions as\nthe Authority may prescribe.\n\n45. No goods or cargo shall be handled across or over\nany quay, wharf, dock, pier or otber place without the\nwritten permission of the Authority or otherwise than\nin accordance with such conditions as the Authority\nmay prescribe.\n\n46. (1) The Authority shall have jurisdiction over the\nconstruction or alteration of any quay, wharf, dock,\npier or similar work and no such construction or\nalteration shall take place within the Port without the\nwritten permission of the Authority which, before\ngranting such permission, may require the submission\nof plans of the proposed construction or alteration.\n\n(2) Any person who acts in contravention of sub-\nsection (1) shall be guilty of an offence and shall, on\nconviction, be liable to a fine not exceeding two\nthousand ringgit and if ordered so to do shall remove\nthe construction or alteration at his own expense.\n\n47. (1) No vessel shall be used for the conveyance of\ngoods or cargo from one place to another within the\nPort except under and in accordance with a permit\ngranted by the Authority.\n\n(2) A permit may be granted in respect of one\nvessel or more or to one person or more.\n\n(3) Any person to whom a permit is granted under\nthis section shall from time to time supply to the\nAuthority such information as the Authority may\nreasonably require relating to the nature and amount\nof the goods and cargo conveyed in accordance with\nthe permit in any specified period, and for this purpose\nthe person shall keep records thereof.\n\n(4) Any failure to supply the information or to keep\nthe records required under subsection (3) shall be\ndeemed to be a breach of the conditions of the permit.\n\nforeshores.\n\nLanding or\nshipping of\ncargo over\nquays,\nwharves,\netc.\n\nConstruc-\ntion of\nquays,\nwharves,\netc,\n\nPermit for\nconveyance\nof goods,\n\n(Pt, VI, S. 47-50]\n\nAppeal,\n\nMinister\nmay\nappoint\nany place\nfor use as\ncustoms\ncollecting\ncentre,\n\nLicensed\n\nwarehouse,\n\n34                                     Act 243\n\n(5) The Authority may exempt from the require-\nments of this section any vessel or class or vessels of\nless than ten tons gross tonnage and it may also, with-\nout assigning any reason therefor, terminate the\nexemption.\n\n(6) Nothing in this section shall be deemed to affect\nor modify the provisions of any written law relating\nto the licensing of boats for the conveyance of cargo,\nand no permit shall be granted under this section in\nrespect of a vessel required to be licensed under those\nprovisions unless that vessel has been duly licensed\nthereunder.\n\n48. Any person aggrieved by the refusal of the\nAuthority to grant a permit under this Part, or by the\ncancellation or suspension of a permit already granted,\nmay, not later than one month from the date of such\nrefusal, cancellation or suspension appeal to the\nMinister whose decision thereon shall be final.\n\n49, (1) The Minister may, notwithstanding anything\nin this Act, appoint any part of the wharves or premises\nvested in the Authority to be a place for the collection\nof import duty or other revenues payable to the\nGovernment.\n\n(2) Whenever any wharf or part of the premises of\nthe Authority has been so appointed as a place for\nthe collection of import duty or other revenues, the\nAuthority shall set apart and maintain the place in\nsuch manner as the Minister may require for the use\nof the persons entitled to collect such duties or\nrevenues.\n\n(3) All charges payable in respect of any such wharf\nor part of the premises so set apart, or for the landing,\nshipping or storage of goods thereon, therefrom or\nfherein, shall be paid to the Authority.\n\n50. (1) In respect of any of its licensed warehouses\nthe Authority may give general security by bond or\notherwise for—\n\n(a) the payment of the import duty payable in\nrespect of goods stored in such licensed ware-\nhouse; or\n\n(b) the due exportation of such goods.\n\n[Pt. VI-VII, S. 50-53]\nBINTULU PORT AUTHORITY          35\n\n(2) When such security has been given by the\nAuthority no further security shall be required by the\nGovernment from any other person to the same effect.\n\n(3) Any person who is, or has the powers of, a\nrevenue officer under any written law shall at all\ntimes—\n\n(a) be admitted to any part of a licensed ware-\nhouse; and\n\n(b) be permitted to inspect the books kept in\nconnection therewith and the stock contained\ntherein.\n\n51. The Authority may order any sea-going vessel Power of\nwithin the Port to come alongside a suitable quay, Anon\nwharf, jetty, pier or landing-stage which is vested in vessels to\nor under the control of the Authority, for the purpose come\n\nof landing or shipping goods, cargo or passengers:   alongside.\n\nProvided that such order may be made only where—\n\n(a) the vessel has not commenced landing goods,\ncargo or passengers; or\n\n(b) the vessel is about to ship goods, cargo or\npassengers but has not commenced to do so;\n\nand in making such order the Authority shall have\nregard, as far as possible, to the convenience of the\nvessel and of the shippers in respect of a particular\nquay, wharf, jetty, pier or landing-stage.\n\n52. The Minister may at any time require that a vessel Govern-\nbelonging to or in the service of the Government of mer.\nMalaysia or of a State be permitted to come alongside\na quay, wharf, jetty, pier or landing-stage which is\nvested in or is under the control of the Authority in\npreference to all other vessels at the time in port, and\n\nthe Authority shall give effect to such requirement.\n\nPart VII\nPILOTAGE\n\n53. (1) The Authority may from time to time by notifi- Declara-\ncation in the Gazette declare an area in the Port or the tionof\napproaches to the Port to be a pilotage district and Histrict.\n\nshall define therein the limits of the pilotage district.\n\n(2) This Part shall apply to a pilotage district\ndeclared under this section.\n\n(Pt. VII, S. 54-57]\n\nVessels of\ncertain\ntonnage to\nbe under\npilotage.\n\nAuthority\nto employ\npilots.\n\nof Pilotage\nCommittee,\n\n36                                     Act 243\n\n54. (1) The Authority may require such vessel or class\nof vessels as it may from time to time specify to be\nunder pilotage while navigating in a pilotage district\nand the master or owner of every such vessel or every\nvessel of that class shall comply with such requirement.\n\n(2) A vessel while being moved within any area of\nthe Port which is or forms part of a pilotage district\nshall be deemed to be a vessel navigating in a pilotage\ndistrict.\n\n55. (1) Subject to this Act, the Authority may employ\nsuch number of pilots as it deems necessary or\nexpedient for the purpose of providing an adequate\nand efficient pilotage service.\n\n(2) No person shall be employed as an Authority\npilot in a pilotage district unless he is in possession of\na valid licence to act as a pilot in that district issued\nunder section 59.\n\nS5A, 95B. ~-—\n\n56. The Authority shall with the approval of the\nMstar appoint a Pilotage Committee for the purpose\noO —\n\n(a) holding examinations and issuing, on behalf\nof the Authority, licences to act as Authority\n\nAor a8 pilots employed pilots,   my wll          |\nbya icansect (b) holding inquiries concerning the conduct of\n\nOperatoy\n\nKASI\n\nFé or parsons\n\nAuthority pilots/in the discharge of their duties\nas directed by the Authority, and making\n_ recommendations to the Authority;\n\neng investigating and advising on such matters as\n\naa en 254U)-may be referred to the Pilotage Committee by\nAAGAI       the Authority; and\n\nConstitu-\ntion of\nPilotage\nCommittee.\n\n(d) carrying out such other functions as are con-\nferred on the Pilotage Committee by this Act.\n\n57. (1) The Pilotage Committee shall consist of a\nchairman and four other persons who, by reason of\ntheir knowledge of or experience in shipping, nautical\nor port matters are, in the opinion of the Authority,\nfit and proper persons to be members of the Pilotage\nCommittee.\n\n(2) The appointment of a member of the Pilotage\nCommittee may be for any period not exceeding three\nyears but the member shall be eligible for reappoint-\nment on completion of every such period.\n\npt. VU, S. 57-59]\n\nBINTULU PORT AUTHORITY                    37\n\n(3) Three members of the Pilotage Committee shall\nform a quorum at a meeting of that Committee.\n\n(4) The chairman of the Pilotage Committee shall\npreside at all its meetings :\n\nProvided that in the absence of the chairman the\nmembers present shall choose one of their number to\npreside in his place.\n\n(5) If on any question to be determined there is an\nequality of votes, the chairman or member presiding\nshall have the casting vote in addition to his original\nvote.\n\n(6) Members of the Pilotage Committee who are not\nofficers or servants of the Authority may be paid out\nof the funds of the Authority such fees and allowances\nas the Authority may determine.\n\n(7) Paragraphs 1 and 10 of the Schedule shall mutatis\nmutandis apply to the Pilotage Committee and its\nmembers as they apply to the Authority and its\nmembers.\n\n58. Subject to this Act, the Authority may make rules\nfor the purpose of regulating the meetings and pro-\nceedings of the Pilotage Committee.\n\n59. (1) The Pilotage Committee shall examine candi-\ndates for employment by the Authority as pilots and on\nbeing satisfied as to a candidate's general fitness\n(including physical fitness and competency to act as an\nAuthority pilot may, on behalf of the Authority, issue\nto him a licence to act as such and the licence may\ncontain such conditions as the Pilotage Committee may\nimpose.\n\n(2) Subject to this Part, every pilot holding immedi-\nately prior to the coming into force of this Part a\nlicence to act as a pilot issued under any written law\nshall be deemed to be qualified for employment by the\nAuthority as a pilot, and the Pilotage Committee may,\non behalf of the Authority, issue to such pilot when\nemployed by the Authority a licence to act as an\nAuthority pilot in a pilotage district, subject to such\nconditions as the Pilotage Committee may impose.\n\nRules in\nTelation to\nPilotage\nCommittee.\n\nExami-\nnation for\nand issue\nof licence\nto act as\npilot.\n\n(Pt. VU, S. 59-60]\n38                 Act 243\n\n(3) Every Authority pilot shall whenever the Pilotage\nCommittee considers that, owing to changed conditions\nor for any other sufficient reason, the further testing of\nthe general fitness (including physical fitness) and com-\npetency of any such pilot is necessary, present himself\nfor further examination, and shall in every such case\nfirst deposit with the Pilotage Committee the licence\nissued by that Committee on behalf of the Authority to\nbe returned or cancelled by the Committee on behalf\nof the Authority as the result of such test or exami-\nnation.\n\n(4) The Authority shall not continue to employ as a\npilot any person whose licence to act as a pilot is\ncancelled pursuant to subsection (3).\n\n(5) A licence issued under this section shall cease to\nbe valid upon the termination of the pilot's employment\nwith the Authority.\n\nInul    60. (1) The Pilotage Committee may, and when\nPilotage directed by the Authority shall, hold an inquiry into\nCommittee. the conduct of an Authority piloy where it appears that\nhe has been guilty of misconduct affecting his capability,\nkor a person OT has failed in or neglected his duty, or has become\n\"licensed under incompetent to act, as such pilot.\nsecnion      ‘\n\nNe    (2) For the purposes of the inquiry, the Pilotage\nCommittee may summon any person to attend any of\nits meeting to give evidence on oath or produce any\ndocument or other thing in his possession and to\nexamine him as a witness or require him to produce\nany document or other thing in his possession relative\nto the matters which are the subject-matter of such\ninquiry.\n(3) Any person who—\n\n(a) being summoned to attend any such inquiry,\nfails so to do;\n\n(b) offers an act of disrespect or any insult or threat\nto the Pilotage Committee or any member\nthereof during an inquiry; or\n\n(c) being required by the Pilotage Committee to\ngive evidence on oath or affirmation or to\n\nproduce a document or other thing, refuses so\nto do,\n\nshall be guilty of an offence and shall, on conviction, be\n[two Hrousan pliable to a fine not exceeding/five- hundred ringgit.\n\nAASS |\n\n(Pt. VU, S. 61-63]\nBINTULU PORT AUTHORITY                  39\n\n61. (1) Where the Pilotage Committee, after due inquiry submis-\nin accordance with this Part and after hearing any sionot\nstatement that may be offered in defence, finds that an Com-\"\nAuthority pilot(/has been guilty of misconduct affecting miltee's\nhis capability, or has failed in or neglected his duty, or and\nhas become incompetent to act, as a pilot, it shall ai\n\nsubmit to the Authority a copy of the record of the tions to\ninquiry and its findings and recommendations in respect Authority.\n\nof the inquiry.                                     fora person\n.             is        .    \\cens¢e? uncler\n(2) The Authority may, after considering the findings section gsaci)\nand recommendations of the Pilotage Committee,      AAS |\n\nsuspend or cancel the licence of the Authority pilotor\nimpose such other punishment as the Authority may\nthink fit.                                            Kor person\n\\Weensee? under\n(3) Any Authority pilotg who is aggrieved by a eon GuA ay)\ndecision of the Authority made under subsection (2)    ll\nmay, within fourteen days from the date of such\ndecision, appeal to the Minister whose decision thereon Yor any persen\nshall be final.                                            Tien Goa)\nAAS3|\n\n62. The master or owner of a vessel navigating in Liability\ncircumstances in which pilotage is compulsory shall be of master\nanswerable for any loss or damage caused by the vessel in case of\nor by any fault of the navigation of the vessel in the vessel\n\nsame manner as he would be if pilotage were not pilotage.\n\ncompulsory.\n\n63. (1) An Authority pilot who has given a bond in Limita-\naccordance with subsection (2) shall not be liable for Ree\nneglect, want of skill or incapacity in office beyond the pilot's\npenalty of the bond and the amount payable to the Habilly\nAuthority on account of pilotage in respect of the is given.\nvoyage in which he was engaged when he became so\n\nliable.\n\n(2) Every Authority pilot shall undertake to give a\nbond in favour of the Authority in such sum as the\nAuthority considers reasonable for the proper per-\nformance of his duties under this Part and any rules\nor by-laws made under this Act.\n\n(3) Any bond given by an Authority pilot in\naccordance with this section shall not be liable to stamp\nduty.\n\n(Pt, VU, S. 63-66]\n\n40                            Acr 243\n\n(4) Where any proceedings are taken against an\nAuthority pilot for any neglect, want of skill or\nincapacity in office in respect of which his liability is\nlimited as provided by this section, and other claims are\nmade in respect of the same neglect, want of skill or\nincapacity in office, the court in which such proceedings\nare taken may—\n\n(a) determine the amount of the pilot's liability\nand, upon payment by him of the amount to\ncourt, distribute the amount rateably among\nthe several claimants;\n\n(b) stay any proceedings pending in any other\ncourt in relation to the same matter; and\n\n(c) proceed in such manner and subject to such\ndirections as to making persons interested\nparties to the proceedings, and as to the\nexclusion of any claimant who has not sub-\nmitted his claim within a certain time, and as to\nrequiring security from the pilot and as to\npayment of any costs as the court thinks fit.\n\nBiota 64, (1) The issue of a licence to a pilot by the Pilotage\n\nmitteeand Committee on behalf of the Authority under section, 59\n\nAuthority (J1) shall not impose liability on the Pilotage Committee\n\nnot liable        .                     :                Se eee\n\nfor loss     for any loss or damage occasioned by an act, omission\n\nordamage or default of such pilot.            |\n\noccasioned\n\nmn or (2) An Authority pilot whilst engaged in an act of\n\nag 93; Pilotage shall, notwithstanding that he may be employed\n\nng   at a salary by the Authority, be deemed to be the\n\nservant only of the master or owner of the vessel under\npilotage and the Authority shall not be liable for any\nloss or damage occasioned by any act, omission or\ndefault of such pilot.\n\nSummary 65, A court may, if it thinks fit, call upon two members\n\nae.    of the Pilotage Committee to sit with it as assessors\nin any proceedings affecting Authority pilots under this\nAct or any rules or by-laws made thereunder.\n\nBy-laws 66. (1) The Authority may, with the approval of the\n\nKeatas Minister, make by-laws for regulating pilotage in any\n\nan    pilotage district and for the maintenance of good\n\nofpilots, | conduct and discipline of Authority pilots and for\n\nmatters relating to their duties.\n\n(Pi, VII-VUU, 5S. 66-67)\nBINTULU PORT AUTHORITY          41\n(2) The Authority may, in making by-laws under\n\nthis section, provide that the contravention of any by-\nlaw shall be an offence and may prescribe as a penalty\n\nin respect of any one offence a fine not exceeding       ANB21\nthousand ringgit.                                 taslan 924/95\nPART VITA...\nPart VIII\nBY-LAWS\n\n67. (1) The Authority may with the approval of the By-laws.\nMinister make by-laws for—\n\n(a) regulating, declaring and defining the wharves,\ndocks, piers and places which are vested in or\nare under the control of the Authority, on and\nfrom which goods may be landed or shipped\nin vessels;\n\n(b) regulating the manner in which and the condi-\ntions under which the loading and discharging\nof vessels shall be carried out, and for varying\nthe positions of vessels loading and discharging;\n\n(c) regulating the safe and convenient use of the\ndocks, wharves, piers, landing-places, ware-\nhouses, sheds and premises which are vested\nin or are under the control of the Authority,\nand of any ferry service maintained by the\nAuthority;\n\n(d) regulating the reception, storage and removal\nof goods within and from the premises of the\nAuthority, and declaring the procedure to be\nfollowed for taking charge of goods which\nhave been damaged before landing or are\nalleged to have been so damaged; _\n\n(e) settling the mode of payment of rates and\ncharges leviable under this Act, facilitating their\ncollection and preventing their evasion;\n\n(f) keeping clean the basins, works and premises\nof the Authority and the waters adjacent\nthereto, and preventing oil, filth and rubbish\nfrom being thrown or from entering therein or\nthereon;\n\n[Pt, VIL, S. 67]\n42                                      Act 243\n\n(g) limiting the liability of the Authority in respect\nof any loss, damage or injury to any person\noccurring without the actual fault or privity of\nthe Authority (whether in a vessel operated or\nmaintained by the Authority or on any wharf,\nquay or other. part of the Port);\n\n(h) regulating the conveyance, loading and un-\nloading of dangerous goods;\n\n(i) regulating the issue and transfer of licences and\n\n_ prescribing the fees payable in relation thereto;\nAAg3 |            fia) Cik) .---      .                             ;\n\n?    j) prescribing anything that may be prescribed\nunder this Act; and\n\n(k) otherwise carrying out the provisions of this\nAct.\n\n(2) Any by-laws made under subsection (1) (h) may—\n\n(a) prescribe the notice to be given by ships and\nboats conveying, loading or unloading dan-\ngerous goods;\n\n(5) regulate the navigation and place of berthing\nof ships and boats carrying dangerous goods;\n\n(c) prohibit or regulate the conveyance in passenger\nships, boats, trains or vehicles of any kind of\ndangerous goods with any other kind of\ndangerous goods, articles or substances;\n\n(d) regulate the conveyance, loading and unloading\nof dangerous goods and prescribe the mode of\nstowing and keeping such goods on board a\nship or boat or on any premises;\n\n(e) prohibit, in cases where the loading or un-\nloading of dangerous goods appears to be\nespecially dangerous to the public, such loading\nor unloading, and fix the places and times at\nwhich any dangerous goods are to be loaded\nor unloaded and the quantity to be loaded or\nunloaded or conveyed at one time or in one\nship, boat or vehicle;\n\n(f) prescribe the mode of and the precautions to\nbe observed in conveying or keeping dangerous\ngoods, and regulate the loading or unloading\nof a ship. boat or vehicle conveying such goods;\n\n(PIL VIIL-IX, S, 67-68]\n\nBINTULU PORT AUTHORITY                  43\n\n(g) prescribe the times at which lights or fires are\nto be allowed or prohibited on board a ship\nor boat conveying or keeping dangerous goods;\nand\n\n(h) generally provide for the safety of persons and\nproperty from damage.\n\n(3) The Authority may in the by-laws made under\nthis section provide that the contravention of any by-\nlaw shall be an offence and may prescribe as penalties—\n\n(a) a fine not exceeding one thousand ringgit; and\n\n(b) a further fine not exceeding two hundred and\nfifty ringgit for every day during which the\noffence is continued.\n\n(4) The Authority may cause any by-laws made\nunder this section to be printed and may, for the\ninformation of the public, exhibit such by-laws (whether\nin whole or in part) at such places as the Authority\ndeems fit.\n\nParT IX\nOFFENCES, DAMAGES, PENALTIES AND PROCEDURES\n\n68. (1) For the purposes of audit and examination of\naccounts under this Act, the Auditor-General or an\nauditor authorised by the Auditor-General may by\nnotice in writing—\n\n(a) require the production before him of all books,\ndeeds, contracts, vouchers and all other docu-\nments and papers which he deems necessary;\n\n(b) require any person holding or accountable for\nany such books, deeds, contracts, vouchers,\ndocuments or papers to appear before him at\nany such audit and examination or adjourn-\nment thereof, and to make and sign a declara-\ntion with respect to the same.\n\n(2) Any person who fails to comply with any require-\nment made under subsection (1) or fails to produce any\nbook of account to any person entitled to inspect the\nsame shall be guilty of an offence and shall, on convic-\ntion, be liable to a fine not exceeding two hundred\nringgit.\n\nRefusal or\nneglect to\nappear\nbefore\nAuditor-\nGeneral\nor to\nproduce\nbooks for\ninspection.\n\n(Pt. IX, S. 69-70]\n\nPenalty\nfor\n\nevading\nrates or\ncharges.\n\nAnggi\n\nList of all\ngoods\nimported\nor ex-\nported to\nbe left at\noffice of\n\nAuthority.\n\n44                                   Acr 243\n\n69. The master or owner of a vessel, or the owner,\nconsignor or consignee of any goods imported into or\nexported out of the Port, who by any means whatsoever\neludes or evades, or attempts to elude or evade, or\nneglects or omits to pay, any of the rates or charges\nleviable under this Act, shall pay to the Authority by\nway of damages in addition to such rates or charges,\na sum equal to the rates or charges so eluded or evaded,\nor attempted to be eluded or evaded, or neglected or\nomitted to be paid, and he shall also be guilty of an\noffence and shall, on conviction, be liable to a fine not\nexceeding Aye hundred ringgit.\n\n70. (1) The master or owner of every importing vessel\nor his agent shall sign and leave at the office of the\nAuthority, within fourteen days next after the final\ndischarge of all goods imported by the vessel, a full and\naccurate list of the goods, containing all particulars as\nto—\n\n(a) the gross weight or measurement, marks,\nnumbers and contents of each package; and\n\n(b) the names of the consignees according to the\nbills of lading, or the names of the person\nactually paying the freight for the goods.\n\n(2) Any owner, master or agent who omits or fails\nto comply with subsection (1) shall be guilty of an\noffence and shall, on conviction, be liable to a fine not\nexceeding/five-hundred ringgit.\n\n/Awo thousand (3) The owner, charterer, consignor, agent or other\n\nAAQB!\n\nperson acting in the loading and clearing of every\nexporting vessel shall prepare a full and accurate list\nor manifest of all goods exported by the vessel from\nthe bills of lading and freight list thereof, and shall sign\nand leave at the office of the Authority within fourteen\ndays next after the vessel has cleared from the Port a\ncorrect transcript of the list or manifest, distinguishing\ntherein the names of the several shippers of the goods\naccording to the bills of lading.\n\n(4) Any owner, charterer, consignor, agent or other\nperson who fails to comply with subsection (3) shall be\nguilty of an offence and shall, on conviction, be liable\nto a fine not exceeding five-hundred-ringgit.\n\n[Pt. IX, 8. 71-73]\n\nBINTULU PORT AUTHORITY                  45\n\n71. All penalties imposed by section 69 or 70 shall\nextend—\n\n(a) to the principals in any house of business—\n\n(i) by whom or on whose account, or for\nwhose profit or advantage, such payment\nhas been eluded, evaded, neglected or\nomitted to be made; or\n\n(ii) by whom the lists, manifests and trans-\ncripts have been omitted to be made,\nsigned, deposited and left; and\n\n(b) to any clerk and servant of the principals\nemployed or acting in such house of business.\n\n72. (1) If the master of a vessel, without the permission\nof the Authority, brings or causes his vessel to be placed\nalongside any wharf or dock entrance, or acts contrary\nto the directions or neglects to obey the orders of the\nwharf superintendent in relation to the time and manner\nof coming into or going out of any dock, or of coming\nalongside any wharf, or as to the berth allotted for his\nvessel to occupy, or disobeys an order to remove his\nvessel from the berth or to alter the same, the master\nor owner of the vessel shall be guilty of an offence and\nshall, on conviction, be liable to a fine not exceeding\none thousand ringgit.\n\n(2) Where the master of a vessel which has finished\nloading or discharging or is waiting for cargo or ballast\nfails to comply with a notice given to him or to the\nofficer in charge of the vessel by the wharf super-\nintendent directing that the vessel leave the wharf, the\nmaster or the owner of the vessel shall, in addition to\nthe fine, be liable to pay a sum (by way of damages)\nassessed at the rate of one-quarter cent per gross\nregistered ton for every hour that the vessel remains\nat the wharf after the time for departure required by\nEBs natios has expired.\n\n2A.\n73. (1) Every vessel lying alongside a wharf or within\nany dock shall be kept so equipped, provided and\nloaded or ballasted by the master or owner as to enable\nit to be removed with safety whenever it is necessary\nin the judgment of the wharf superintendent that it\nshall be removed.\n\nPenallies\nto exten\n\nas well to\n\nprincipals\nas servants,\n\nPenalty\nfor dis-\nobeying\norders of\nwharf\nsuper-\nintendent\n\n«\n\nPenalty\nor not\nkeeping\nvessel so\noaded\nwith\nballast or\notherwise\nas to be\nsafely\nremoved.\n\nAA\n\n[Pt. IX, S. 73-76]\n46                  Act 243\n\n(2) The master or owner of a vessel who contravenes\nsubsection (1) shall be guilty of an offence and shall, on\nconviction, be liable to a fine not exceeding pone\n\nPa  thousand ringgit.\n\nPowersof 74, (1) In the event of fire breaking out on board any\nGeneral vessel in the Port, the General Manager or any person\n\nManager        .       .\n\norautho- authorised by him may proceed on board the vessel\n‘onto With such assistance and persons as to him seem fit and\norder     may give such orders as seem to him necessary for\n\nscuitling  scuttling the vessel or for removing that vessel or any\nofvessel Other vessel to such place as to him seems proper to\nha of prevent danger to that vessel or any other vessel, and\n\n|      he may take such other measures that appear to him\n\nexpedient for the protection of life or property.\n\n(2) If orders given pursuant to subsection (1) are not\nforthwith carried out by the master of the vessel, the\nGeneral Manager or the person authorised by him may\nhimself proceed to carry the orders into effect.\n\n(3) Any expenses incurred in the exercise of the\npowers conferred by subsections (1) and (2) shall be\nrecoverable from the master or owner of the vessel\nconcerned as if it were a fine and in the manner pro-\n\nFMS.    vided by the Criminal Procedure Code or as a civil\nCap. 6.    debt.\n\nBoarding 75. (1) The General Manager or such person as may\nof vessel —_be authorised by him may board any vessel within the\ncommission Port whenever he suspects that an offence under this\n\nof offence Act or any rules or by-laws made thereunder has been\n\nsuspected.     A                 ;         ;\nor is about to be committed on or in the vessel or\nwhenever he considers it necessary so to do in the\ndischarge of his duties under this Act or any rules or\nAAS     by-laws made thereunder.\n\n(2) The master of such vessel who, without lawful\nexcuse, refuses to allow the boarding of such vessel\npursuant to subsection (1) shall be guilty of an offence\n\nfund shall, on conviction, be liable to a fine not\nsone  exceeding /two-hundred ringgit.\n\nPenalties    76. (1) Any person who, not being an Authority pcg\n\nemployment gages in an act of pilotage or attempts to obtai\nof pilot    employment as a pilot of a vessel entering or being\n\nAuton   within a pilotage district shall be guilty of an offence\npilot.      and shall, 408  conviction, be liable to a fine not\nexceeding    thousand ringgit.\nOY a    190\"\n‘liacnecad nda Bech on\nDGA CI),\n\nAAS3I\n\n(Pt. IX, S. 76-78]\nBINTULU PORT AUTHORITY           47\n\n(2) The master or owner of a vessel entering or being\nwithin a pilotage district who knowingly employs as\npilot a person who is not an Authority plo be\nguilty of an offence and shall, on conviction, be liable Ar @ person\nto a fine not exceeding $48 thousand Tinggit.          liecnace! ynciet\n\n.    .           LI     i   L  4)\n(3) For the purposes of this section, an Authority sear Bea  ?\n\npilot acting beyond the limits of a pilotage district for\nwhich he is licensed or in contravention of any condi-\ntion imposed in his licence shall be deemed not to be\nan Authority pilot.\n\n(4) Any person may, without subjecting himself or\nhis employer to a penalty, act as the pilot of a vessel\nentering or leaving a pilotage district when the vessel\nis in distress or under circumstances making it neces-\nsary for the master to avail himself of the best\nassistance that can be found at the time.\n\n77. (1) An Authority pilot/shall not demand or receive, Receiving\nand a master, owner or agent shall not offer or pay to Promenne\nthe pilot any rate in respect of pilotage services other rates of\n\nthan the prescribed rate.                                                  pilotage.\n\n(2) An Authority pilot, 2 master, an owner or agent  ai ration\n\nwho acts in contravention of this section shall be guilty ccction BS Aci)\nof an offence and shall, on conviction, be liable to a    AAG I\n\nfine not exceeding     hundred ringgit and the licence\n\nof the pilot may be suspended or cancelled by the\n\nAuthority.\n\n78. (1) An Authority pilot,4either—within—or_without- Offences by\nho bile listrict_for_which he js]\n\n.                                            Authority\ned,   who—         pilot.\n\n(a) is in any way directly or indirectly concerned\nin any corrupt practice relating to vessels, their ls eal\ntackle, furniture, cargoes, Crews OF passengers, under secon\nor to persons in distress at sea or by shipwreck gga ci),\n\nor to their moneys, goods or chattels;               Meal .\n(b) lends his licence;\n(c) acts as a pilot while suspended;\n(d) acts as a pilot when in a state of intoxication;\n(\n\ne) refuses or wilfully delays, when not prevented\nby illness or other reasonable cause, to pilot a\nvessel within the limits of the pilotage district\nfor which he is licensed upon being required\nso to do by an officer or servant of the\nAuthority duly authorised in that behalf; or\n\n(Pt. IX, S. 78-80]\n\n48                                     Acr 243\n\n(f) quits the vessel under his pilotage without the\nconsent of the master before the service for\nwhich he was engaged has been performed,\n\nshall be guilty of an offence and shall, on conviction,\nbe liable to a fine not exceeding two thousand ringgit.\n\n(2) A person who procures, aids, abets or connives\nat the commission of an offence under this section\nshall be guilty of an offence and shall, on conviction,\nbe liable to a fine not exceeding two thousand ringgit.\n\n(3) An Authority pilot who commits an offence\nunder this section, or procures, aids, abets or connives\nat the commission of any such offence shall be liable\non conviction to suspension or dismissal by the\n\nMAS    Authority.\nPenalty on  79. An Authority pilot/ who, when engaged in the\nendangering Pilotage of a vessel, by wilful breach of duty or by\nship, tits     neglect or by reason of drunkenness—\nT   .\n(a) does any act tending to the immediate loss,\n/Or @ person       destruction or serious damage of the vessel, or\n\nlicensed undar. tending immediately to endanger the life or\nsection 654C') limb of any person on board the vessel; or\n\nAAgal\n\nAABSI\nBub/ AK |\n\nFailure to\nemploy\nAuthority\npilot\nunder\ncertain\ncircum-\nstances an\noffence.\n\n(b) refuses or omits to do any lawful act proper\nand requisite to be done by him for preserving\nthe vessel from loss, destruction or serious\ndamage, or for preserving the life of any person\nbelonging to or being on board the vessel from\ndanger to life or limb;\n\nshall be guilty of an offence and shall, on conviction,\nbe liable to a fine not exceeding two thousand ringgit\nor to imprisonment for a term not exceeding two years\nor both, and shall also be liable on conviction to\nsuspension or dismissal by the Authority?\n\nProvided that ___ .             .\n\nic\n80. The master or owner of| a vessel navigating in\ncircumstances in which the vessel is required under\nsection 54 to be under pilotage who does not employ\nan Authority pilot for such purpose shall be guilty of\nan offence and shall, on conviction, be liable to a fine\nnot exceeding one thousand ringgit.\n\nZ\n\n(Pt. IX, S. 81-86]\n\nBINTULU PORT AUTHORITY          49\n$1. The master of a vessel—                        Penalty\nfor false\n(a) entering or leaving any dock; or                    aaa\n(b) intending to enter or leave any dock, or to ‘usht\n\ncome alongside or to depart from any wharf,\n\nwho gives false information relating to the draught of\n\nwater of the vessel to an officer of the Authority whose\n\nduty it is to ascertain the same, shall be guilty of an\n\noffence an  shall, on conviction, be liable to a fine not\n\nexceeding one thousand ringgit.                      MAB\nool\n\n82. Any person who knowingly-or-reeklessly makes a gins for\n\nstatement which is false in any material particular in #ivinefalse\n\na return, claim, application, declaration or other docu- return.\n\nment which is required or authorised to be made under\n\nthis Act or any rules or by-laws made thereunder,\n\nshall be guilty of an offence and, shall, on conviction,\n\nbe liable to a fine not exceeding      thousand ringgit. A&83\\\n\n83. Any person who throws or empties into a dock Penalty for\nany ballast, rubbish, dust, ashes, stones or other refuse abit\nor things, or does an act to prejudice any of the works into dock. '\nof the Authority, shall be guilty of an offence and\nshall, on conviction, be liable to a fine not exceeding\ntwo, thousand ringgit.\n\nAASS\\\n\n84. Any person who contravenes any of the provisions General\nof this Act or of any rules or by-laws made thereunder Penalty.\nshall be guilty of an offence and shall, on conviction,\nif no penalty is provided therefor, be liable to a fine\n\nxceeding five hundred ringgit.                      LASSI\n\nnot e\n\n94A,\n\n85. The tender to, or acceptance by or on behalf of, Evasion of\nthe Authority of the payment of any rate or charge, Charves not\nwhich payment has previously been evaded or not waived by\nmade, shall not release or discharge any person from es\nany liability for damages or penalty provided under of payment.\nthis Act, consequent upon such evasion or non-\npayment,\n\n86. (1) Where damage is caused to a gate, bridge, Recovery of\npier, jetty, quay, wharf, warehouse, shed, graving dock, {images for\ngraving block, building or other work belonging to property of\nthe Authority by a vessel or by any of the persons A¥o\"'y:\nbelonging to or employed about a vessel, an amount\nto make good the damage may be recovered from the\n\nmaster or owner of the vessel.\n\n(Pt. IX, S. 86]\n50                                   Act 243\n\n(2) For the purposes of subsection (1), the Authority\nmay detain the vessel until—\n\n(a) the amount to make good the damage has\nbeen paid;\n\n(b) a deposit equal in amount to the claim or\ndemand made by the Authority for the\nestimated amount to make good the damage\nhas been made by the master or owner of the\nvessel; or\n\n(c) security is given for the payment of the entire\namount to make good the damage.\n\n(3) Where a deposit has been made, the Authority\nshall receive and retain the deposit until the extent\nof and the amount to make good such damage has\nbeen ascertained by the Authority and paid to it by\nsuch master or owner.\n\n(4) Every deposit made under subsection (2) shall\nbe considered to have been made as payment of or\ntowards the claim or demand for damage referred to\nin subsection (1), unless notice that the claim is disputed\nis given to the Authority within seven days next after\nthe deposit is made.\n\n(5) After the expiration of seven days next follow-\ning such deposit, the Authority may unless—\n\n(a) in the meantime notice has been given to it\nthat the claim is disputed; or\n\n(b) the amount to make good the damage done bv\nthe vessel has been sooner paid,\n\napply the deposit or a sufficient part thereof in making\n200d the damage and the Authority shall return the\nresidue (if any) to such master or owner.\n\n(6) Every notice declaring that a claim is disputed\nshall be in writing and shall contain the name and\naddress of a person within Malaysia who is authorised\nto act on behalf of such master or owner in reference\nto such claim.\n\n(7) Notwithstanding any written law to the contrary,\nservice of any document or legal process on the person\nauthorised to act under subsection (6) shall be deemed\ngood service on such master or owner for. all purposes.\n\n(Pt. IX, S. 87-91)\nBINTULU PORT AUTHORITY                 51\n\n87. Any offence under this Act or any rules or Offence\nby-laws made thereunder may be tried by a Magistrate's  may be\nCourt of the First Class and, notwithstanding the Magis-\nprovisions of any written law to the contrary, such abled\nMagistrate may impose the full penalty provided in\n\nrespect of such offence.\n\n88. (1) The Authority shall, in the event that any Distress\ndamages or costs awarded to it by a court are not Mine.\nforthwith paid, have power to recover the same by way failure to\n\nof distress under a warrant issued by the court.       canes\n\n(2) The court may order a person against whom a — vost\n\nwarrant of distress has been levied under this section\nto be kept in safe custody until return can be made to\nthe warrant, unless the person gives security by way of\nrecognisance or otherwise for his appearance before\nthe court on the day appointed for the return.\n\n(3) If it appears to the court by the admission of the\nperson concerned or otherwise that no sufficient distress\ncan be had within its jurisdiction for the purpose of\nrecovering the damages or costs awarded to the Autho-\nrity under this section, the court shall commit the\noffender to prison for a term not exceeding six months\nunless the damages or costs are sooner paid and\nsatisfied.\n\n89. No prosecution for an offence under this Act or Limitation\nany rules or by-laws made thereunder shall be instituted ts\nlater than three years from the date of the discovery\n\nof the commission of the offence.\n\nMA: w= =                                       —— 4X83 1\n90. (1) It shall be sufficient in any summons issued by Service on\n\na Magistrate's Court under this Act or any rules or by- company of\n_laws made thereunder, against a firm or company, to\n\ndirect that the summons be served on the firm or\n\ncompany, or an officer or manager thereof.\n\n(2) Service of the summons at the usual place of\nbusiness of the firm or company shall be deemed to be\n| sufficient service thereof. .\n\n91. Without prejudice to the provisions of any other Conduct of\nwritten law, any prosecution in respect of an offence Rose\nunder this Act or any rules or by-laws made there-\n\nunder may be conducted by an officer of the Authority\n\nauthorised in writing by the Chairman in that behalf.\nPart \\AA                i ae\n\n(Pt. X, S, 92-93, Schedule]\n52                 Act 243\n\nPART X\nTRANSFER, TRANSITIONAL AND GENERAL\n\nTransfer of 92, (1) Upon the coming into force of this section, the\nbity ete, responsibility of the Federal Government under the\nfrom    Act and all movable and immovable property and\nsoto   other assets, rights, powers, interests and privileges\nment to   acquired by, accruing to or vested in the Federal\nAuthority: Government as a result of its exercising its powers and\nNot pet nm   discharging its responsibility and duties under the Act\nshall be transferred to and vest in the Authority without\n\npp (B) Ye fl further assurance.\n\n(2) Upon such transfer, such of the debts, liabilities\nand obligations incurred by the Federal Government\nunder the Act as the Minister may, with the concur-\nrence of the Minister of Finance, specify by order in\nthe Gazetie shall be transferred to and be deemed to\nhave been incurred by the Authority.\n\na   93. (1) Notwithstanding anything to the contrary in\nappoint this Act, where the Authority has not been established\nSerena  and its officers and servants not yet appointed and\nbasis for: 4 employed, the Minister may, in the interests of the Port,\npurposesof. appoint on a temporary basis such persons by such\ndesignations as he may determine to carry out such\nfunctions and duties as may be entrusted to them for\nthe purposes of this Act, subject to his direction and\n\ncontrol.\n\n(2) Such persons may be engaged or employed on\nsuch terms and conditions as the Minister may specify\nand they shall cease to be so engaged or employed on\nthe establishment of the Authority but this shall be\nwithout prejudice to their being considered for subse-\nquent appointment and employment as officers and\nservants of the Authority under section 21.\n\nSCHEDULE\n[Section 4 (6)]\n\nPersons diss 1, The following persons shall be disqualified for being appointed\nqualified for or being members of the Authority—\n\nCc\n\ni  d                            LI                .      .         .   ,\nAmbon of         (a) a person who is of unsound mind or is otherwise incapable\nAuthority.          of performing his duties;\n\n(b) a bankrupt;\n(c)a person who has been convicted of an offence and\nsentenced to imprisonment for a term of one year or more.\n\n[Schedule]\n\nBINTULU PORT AUTHORITY                 53\n\n2. (1) A member (other than the Chairman and the General Member to\nManager) of the Authority shall, unless he sooner resigns his pole tor\noffice or his appointment is sooner revoked, hold office for one °° year.\n\nyear and shall be eligible for re-appointment.\n\n(2) A member of the Authority shall be deemed to have vacated\nhis office if he is absent from Malaysia for a period of more than\nthree months without the prior approval in writing of the Minister.\n\n3. (1) The Chairman, or any member presiding in the absence of\nthe Chairman, and three other members shall form a quorum at\na meeting of the Authority.\n\n(2) In the absence of the Chairman the temporary Chairman\nand, in his absence, the Deputy Chairman shall preside at a\nmeeting of the Authority and. in the absence of all three of them,\nthe members present shall choose one of their number to preside\nand such member may exercise all the powers of the Chairman\nin respect of that meeting.\n\n4. (1) If on any question to be determined there is an equality\nof votes, the Chairman shall have the casting vote in addition to\nhis original vote.\n\n(2) Where the Chairman is also the General Manager, he shall\nhave no vote in his capacity as the General Manager.\n\n5. Subject to this Act, the Authority shall determine its procedure.\n\n6. (1)  The Authority may appoint such committees of its members,\nwith or without other persons, as it may determine.\n\n(2) Any committee so appointed shall conform to instructions\nthat may from time to time be given to it by the Authority, and\nthe Authority may at any time discontinue or alter the constitution\nof such committee.\n\n(3) Subject to this Act and to the direction of the Authority,\nthe quorum and procedure of a committee shall be determined by\nthe committee.\n\n7. Subject to its direction and control, the Authority may delegate\nthe exercise of any of its functions and powers under this Act\nto any of its members or officers or to any of its committees\nconsisting of such number of persons as it shall think fit.\n\n8. (1) The common seal of the Authority shall bear such impres-\nsion as the Authority may approve and such seal may from time\nto time be broken, changed, altered or made anew by the Authority\nas it may think fit.\n\n(2) Until a seal is approved by the Authority a stamp bearing\nthe description \"Bintulu Port Authority\" may be used and shali\nbe deemed to be the common seal.\n\nChairman and\nthree other\nmembers to\nform quorum\nof Authority.\n\nChairman to\nhave casting\nvote.\n\nAuthority to\ndetermine its\nProcedure.\n\nAuthority may\nappoint\ncommittees.\n\nDelegation.\n\nCommon seal\nof Authority.\n\n[Schedule]\n\nAllowances\n\nto members.\n\nDeclaration\nof share or\ninterest and\n\ndisqualifica-\n\ntion,\n\n54                                   Act 243\n\n(3) The common seal or the stamp under subparagraph (2)\nshall be kept in the custody of the Chairman and shall be authea-\nticated by him and an officer authorised by the Authority in\nwriting to act in that behalf, and all deeds, documents and other\ninstruments purporting to be sealed with the seal or stamp so\nauthenticated shall until the contrary is proved be deemed to have\nbeen validly executed:\n\nProvided that a document or an instrument which if executed\nby a person not being a body corporate would not be required\nto be under seal may in like manner be executed by the Authority;\nand such document or instrument may be executed on behalf of\nthe Authority by any of its officers or servants generally or\nspecially authorised in wriling to so act.\n\n(4) The seal of the Authority shall be officially and judicially\nnoticed.\n\n9. There may be paid to such members of the Authority out of\nits funds such allowances including travelling and subsistence\nallowances as the Minister may from time to time determine.\n\n10. (1) A member of the Authority or of a committee who has\nor acquires, directly or indirectly by himself, his partner or agent—\n\n(a) any share or interest—\n\n(i) in a contract or an arrangement made with the\nAuthority;\n(ii) in any work done for the Authority; or\n(iii) in a company, firm or an undertaking with which\nthe Authority proposes to enter into a contract or\nan agreement;\nor\n\n(b) any beneficial interest in immovable property proposed\nto be purchased or otherwise acquired, or leased or other-\nwise dealt with, by the Authority,\n\nshall declare the nature and extent of his share or interest to the\nAuthority or committee, as the case may be.\n\n(2) The declaration required to be made by a member under\nsubparagraph (1) shall be made at the meeting of the Authority\nor committee at which any question relating to such contract,\narrangement, work purchase or other acquisition or lease or other\ndealing is first taken into consideration or at the earliest oppor-\ntunity after the acquisition of such share or interest.\n\n(3) For the purposes of this paragraph, a notice given to the\nother members by a member to the effect that he has such share\nor interest as is specified in subparagraph (1) and is to be\nregarded as interested in any such contract, arrangement, work,\npurchase or other acquisition, or lease or other dealing which\nmay, after the date of the notice, be made with, or be required\n\n(Schedule)\nBINTULU PORT AUTHORITY                 55\n\nto be carried out by, the company, firm or undertaking in question\nshall be deemed to be sufficient declaration of interest in relation\nthereto:\n\nProvided that such notice shall be of no effect unless it is\ngiven at a meeting of the Authority or committee or the member\nconcerned takes reasonable steps to ensure that it is brought up\nand read at the next meeting of the Authority or committee after\nit is given.\n\n(4) Every declaration made in pursuance of this paragraph\nshall be recorded in the minutes of the meeting at which it is\nmade or read and shall have no effect until it is so recorded.\n\n(5) A member shall not vote upon any resolution or question\nrelating to any such contract, arrangement, work, purchase or\nother acquisition, or lease or other dealing in which he has any\nshare or interest, whether or not he has declared the same, nor\nshall he take part in any deliberation (except on the invitation\nof the Authority or committee) or decision relating thereto or to\nany matter incidental thereto, and if he shall do so his vote shall\nnot be counted, nor shall he be counted in the quorum present\nat the meeting for the purposes of such resolution or question. —\n\n(6) A member shall not be deemed to have a share or an\ninterest under this paragraph by reason only of his being a share-\nholder in the company with which it is proposed that the\nAuthority should enter into a contract or an arrangement unless\nhe has a controlling interest in that company.\n\n(7) A member who contravenes any of the provisions of this\nparagraph shall be guilty of an offence and shall, on conviction,\nbe liable to a fine not exceeding ten thousand ringgit or to\nimprisonment for a term not exceeding five years or both.\n\nKUALA LUMPUR\nDICETAK OLEH PEMANGKU KETUA PENGARAH PERCETAKAN NEGARA DAN DITERBITKAN DENGAN\nPERINTAH PADA 5HB FEBRUARI 1981\n\nHarga: $2.00"
+   }
+  }
+ ]
+}

@@ -1,0 +1,764 @@
+{
+ "id": "ID-H1259",
+ "title": {
+  "zh": "人权法院法",
+  "en": "Law on the Human Rights Court",
+  "id": "PENGADILAN HAK ASASI MANUSIA",
+  "orig": "PENGADILAN HAK ASASI MANUSIA",
+  "vi": "Luật về Tòa án Nhân quyền",
+  "th": "พระราชบัญญัติว่าด้วยศาลสิทธิมนุษยชน",
+  "ms": "Akta tentang Mahkamah Hak Asasi Manusia"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02b",
+ "language": "id",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "2000",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU26-2000",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 51,
+ "chars": 45630,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU-26-2000.pdf&fl=P01113"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\01_宪法与基础法\\印尼_文本_2000_PENGADILAN HAK ASASI MANUSIA.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 51 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H1259-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\nDalam Undang-undang ini yang dimaksud dengan :\n1. Hak Asasi Manusia adalah seperangkat hak yang melekat pada hakikat\ndan keberadaan manusia sebagai makhluk Tuhan Yang Maha Esa dan\nmerupakan anugrah -Nya yang wajib dihormati, dijunjung tinggi dan\ndilindungi oleh negara, hukum, pemerintah, dan setiap orang demi\nPRESIDEN\nREPUBLIK INDONESIA\nkehormatan serta perlindungan harkat dan martabat manusia.\n2. Pelanggaran …\n2. Pelanggaran Hak Asasi Manusia yang berat adalah pelanggaran hak a sasi\nmanusia sebagaimana dimaksud dalam Undang-undang ini.\n3. Pengadilan Hak Asasi Manusia yang selanjutnya disebut Pengadilan HAM\nadalah pengadilan khusus terhadap pelanggaran hak asasi manusia yang\nberat.\n4. Setiap orang adalah orang perseorangan, kelomp ok orang, baik sipil,\nmiliter, maupun polisi yang bertanggung jawab secara individual.\n5. Penyelidikan adalah serangkaian tindakan penyelidik untuk mencari dan\nmenemukan ada tidaknya suatu peristiwa yang diduga merupakan\npelanggaran hak asasi manusia yang berat guna ditindak lanjuti dengan\npenyidikan sesuai dengan ketentuan yang diatur dalam Undang -undang\nini.\nBAB II\nKEDUDUKAN DAN TEMPAT KEDUDUKAN\nPENGADILAN HAM\nBagian Kesatu\nKedudukan"
+   }
+  },
+  {
+   "id": "ID-H1259-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\nPengadilan HAM merupakan pengadilan khusus yang berada\ndilingkungan Peradilan Umum.\nBagian Kedua\nTempat Kedudukan"
+   }
+  },
+  {
+   "id": "ID-H1259-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\n(1) Pengadilan HAM kedudukan di daerah kabupaten atau daerah kota yang\ndaerah hukumnya meliputi daerah hukum Pengadilan Negeri yan g\nbersangkutan.\n(2) Untuk Daerah Khusus Ibukota Jakarta, Pengadilan HAM berkedudukan di\nsetiap wilayah Pengadilan Negeri yang bersangkutan.\nBAB III\nLINGKUP KEWENANGAN"
+   }
+  },
+  {
+   "id": "ID-H1259-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\nPengadilan HAM bertugas dan berwenang memeriksa dan memutus\nperkara pelanggaran hak asasi manusia yang berat.\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H1259-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5 …"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 5\nPengadilan HAM berwenang juga memeriksa dan memutus perkara\npelanggaran hak asasi manusia yang berat yang di lakukan di luar batas\nteritorial wilayah negara Republik Indonesia oleh warga negara Indonesia."
+   }
+  },
+  {
+   "id": "ID-H1259-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\nPengadilan HAM tidak berwenang memeriksa dan memutuskan perkara\npelanggaran hak asasi manusia yang berat yang dilakukan oleh seseorang yang\nberumur di bawah 18 (delapan belas) tahun pada saat kejahatan dilakukan."
+   }
+  },
+  {
+   "id": "ID-H1259-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\nPelanggaran hak asasi manusia yang berat meliputi :\na. kejahatan genosida;\nb. kejahatan terhadap kemanusiaan."
+   }
+  },
+  {
+   "id": "ID-H1259-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\nKejahatan genosida sebagaimana dimaksud dalam Pasal 7 huruf a\nadalah setiap perbuatan yang dilakukan dengan maksud untuk\nmenghancurkan atau memusnahkan seluruh atau sebagian kelompok bangsa,\nras, kelompok etnis, kelompok agama, dengan cara :\na. membunuh anggota kelompok;\nb. mengakibatkan penderitaan fisik atau mental yang berat terhadap\nanggota-anggota kelompok;\nc. menciptakan kondisi kehidupan kelompok yang akan mengakibatkan\nkemusnahan secara fisik baik seluruh atau sebagiannya;\nd. memaksakan tindakan -tindakan yang bertujua n mencegah kelahiran di\ndalam kelompok; atau\ne. memindahkan secara paksa anak -anak dari kelompok tertentu ke\nkelompok lain."
+   }
+  },
+  {
+   "id": "ID-H1259-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\nKejahatan terhadap kemanusiaan sebagaimana dimaksud dalam Pasal 7\nhuruf b adalah salah satu perbuatan yang dilakukan seba gai bagian dari\nserangan yang meluas atau sistematik yang diketahuinya bahwa serangan\ntersebut ditujukan secara langsung terhadap penduduk sipil berupa :\na. pembunuhan;\nb. pemusnahan;\nc. perbudakan;\nd. pengusiran atau pemindahan penduduk secara paksa;\nPRESIDEN\nREPUBLIK INDONESIA\ne. perampasan …\ne. perampasan kemerdekaan atau perampasan kebebasan fisik lain secara\nsewenang-wenang yang melanggar (asas -asas) ketentuan pokok hukum\ninternasional;\nf. penyiksaan;\ng. perkosaan, perbudakan seksual, pelacuran secara paksa, pemaksaan\nkehamilan, pemandulan atau sterilisasi secara paksa atau bentuk -bentuk\nkekerasan seksual lain yang setara;\nh. penganiayaan terhadap suatu kelompok tertentu atau perkumpulan yang\ndidasari persamaan paham politik, ras, kebangsaan, etnis, budaya, agama,\njenis kelamin atau alasan lain yang telah diakui secara universal sebagai\nhal yang dilarang menurut hukum internasional;\ni. penghilangan orang secara paksa; atau\nj. kejahatan apartheid.\nBAB IV\nHUKUM ACARA\nBagian Kesatu\nUmum"
+   }
+  },
+  {
+   "id": "ID-H1259-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\nDalam hal tidak ditentukan lain dalam Undang -undang ini, hukum\nacara atas perkara pelanggaran hak asasi manusia yang berat dilakukan\nberdasarkan ketentuan hukum acara pidana.\nBagian Kedua\nPenangkapan"
+   }
+  },
+  {
+   "id": "ID-H1259-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\n(1) Jaksa Agung sebagai penyidik berwenang m elakukan penangkapan untuk\nkepentingan penyidikan terhadap seseorang yang diduga keras melakukan\npelanggaran hak asasi manusia yang berat berdasarkan bukti permulaan\nyang cukup.\n(2) Pelaksanaan tugas penangkapan sebagaimana dimaksud dalam ayat (1)\ndilakukan oleh penyidik dengan memperlihatkan surat tugas dan\nmemberikan kepada tersangka surat perintah penangkapan yang\nmencantumkan identitas tersangka dengan menyebutkan alasan\npenangkapan, tempat dilakukan pemeriksaan serta uraian singkat\nperkara pelanggaran hak asasi manusia yang berat yang dipersangkakan.\n(3) Tembusan surat perintah penangkapan sebagaimana dimaksud dalam\nayat (2) harus diberikan kepada keluarganya segera setelah penangkapan\ndilakukan.\n(4) Dalam hal tertangkap tangan penangkapan dilakukan tan pa surat\nPRESIDEN\nREPUBLIK INDONESIA\nperintah dengan ketentuan bahwa penangkapan harus segera\nmenyerahkan tertangkap beserta barang bukti yang ada kepada penyidik.\n(5) Penangkapan …\n(5) Penangkapan sebagaimana di maksud dalam ayat (2) dilakukan untuk\npaling lama 1 (satu) hari.\n(6) Masa penangkapan dikurangkan dari pidana yang dijatuhkan.\nBagian Ketiga\nPenahanan"
+   }
+  },
+  {
+   "id": "ID-H1259-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n(1) Jaksa Agung sebagai penyidik dan penuntut umum berwenang\nmelakukan penahanan atau penahanan lanjutan untuk kepentingan\npenyidikan dan penuntutan.\n(2) Hakim Pe ngadilan HAM dengan penetapannya berwenang melakukan\npenahanan untuk kepentingan pemeriksaan di sidang pengadilan.\n(3) Perintah penahanan atau penahanan lanjutan dilakukan terhadap\ntersangka atau terdakwa yang diduga keras melakukan pelanggaran hak\nasasi m anusia yang berat berdasarkan bukti yang cukup, dalam hal\nterdapat keadaan yang menimbulkan kekhawatiran bahwa tersangka atau\nterdakwa akan melarikan diri, merusak, atau menghilangkan barang\nbukti, dan atau mengulangi pelanggaran hak asasi manusia yang berat."
+   }
+  },
+  {
+   "id": "ID-H1259-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\n(1) Penahanan untuk kepentingan penyidikan dapat dilakukan paling lama\n90 (sembilan puluh) hari.\n(2) Jangka waktu sebagaimana dimaksud dalam ayat (1) dapat diperpanjang\nuntuk waktu paling lama 90 (sembilan puluh) hari oleh Ketua Pengadilan\nHAM sesuai dengan daerah hukumnya.\n(3) Dalam hal jangka waktu sebagaimana dimaksud dalam ayat (2) habis dan\npenyidikan belum dapat diselesaikan, maka penmhanan dapat\ndiperpanjang paling lama 60 (enam puluh) hari oleh Ketua Pengadilan\nHAM sesuai dengan daerah hukumnya."
+   }
+  },
+  {
+   "id": "ID-H1259-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\n(1) Penahanan untuk kepentingan penuntutan dapat dilakukan paling lama 30\n(tiga puluh) hari.\n(2) Jangka waktu sebagaimana dimaksud dalam ayat (1) dapat diperpanjang\nuntuk waktu paling lama 20 (dua puluh) hari oleh Ketua Pengadilan HAM\nsesuai dengan daerah hukumnya.\n(3) Dalam hal jangka waktu sebagaimana dimaksud dalam ayat (2) habis dan\npenuntutan bel um dapat diselesaikan, maka penahanan dapat\nPRESIDEN\nREPUBLIK INDONESIA\ndiperpanjang paling lama 20 (dua puluh) hari oleh Ketua Pengadilan HAM\nsesuai dengan daerah hukumnya."
+   }
+  },
+  {
+   "id": "ID-H1259-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15 …"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 15\n(1) Penahanan untuk kepentingan pemeriksaan di sidang Pengadilan HAM\ndapat dilakukan paling lama 90 (sembilan puluh) hari.\n(2) Jangka waktu sebagaimana dimaksud dalam ayat (1) dapat diperpanjang\nuntuk waktu paling lama 30 (tiga puluh) hari oleh Ketua Pengadilan HAM\nsesuai dengan daerah hukumnya."
+   }
+  },
+  {
+   "id": "ID-H1259-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\n(1) Penahanan untuk kepentingan pem eriksaan banding di Pengadilan tinggi\ndapat dilakukan paling lama 60 (enam puluh) hari.\n(2) Jangka waktu sebagaimana dimaksud dalam ayat (1) dapat diperpanjang\nuntuk waktu paling lama 30 (tiga puluh) hari oleh Ketua Pengadilan HAM\nsesuai dengan daerah hukumnya."
+   }
+  },
+  {
+   "id": "ID-H1259-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\n(1) Penahanan untuk kepentingan pemeriksaan kasasi di Mahkamah Agung\ndapat dilakukan paling lama 60 (enam puluh) hari.\n(2) Jangka waktu sebagaimana dimaksud dalam ayat (1) dapat diperpanjang\nuntuk waktu paling lama 30 (tiga puluh) hari oleh Ketua Mahkamah Agung.\nBagian Keempat\nPenyelidikan"
+   }
+  },
+  {
+   "id": "ID-H1259-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\n(1) Penyelidikan pelanggaran hak asasi manusia yang berat dilakukan oleh\nKomisi Nasional Hak Asasi Manusia.\n(2) Komisi Nasional Hak Asasi Manusia dalam melakukan penyelidikan\nsebagaimana dimaksud dalam ayat (1) dapat membentuk tim ad hoc yang\nterdiri atas Komisi Nasional Hak asasi Manusia dan unsur masyarakat."
+   }
+  },
+  {
+   "id": "ID-H1259-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\n(1) Dalam melaksanakan penyelidikan sebagaima na dimaksud dalam pasal\n18, penyelidik berwenang :\na. melakukan penyelidikan dan pemeriksaan terhadap peristiwa yang\ntimbul dalam masyarakat yang berdasarkan sifat atau lingkupnya\npatut diduga terdapat pelanggaran hak asasi manusia yang berat.\nb. menerima laporan atau pengaduan dari seseorang atau kelompok\norang tentang terjadinya pelanggaran hak asasi manusia yang berat,\nPRESIDEN\nREPUBLIK INDONESIA\nserta mencari keterangan dan barang bukti.\nc. memanggil pihak pengadu, korban, atau pihak yang diadukan untuk\ndiminta dan didengar keterangannya.\nd. memanggil …\nd. memanggil saksi untuk diminta dan didengar kesaksiannya.\ne. meninjau dan mengumpulkan keterangan ditempat kejadian dan\ntempat lainnya yang dianggap perlu.\nf. memanggil pihak terkait untuk memberikan keterangan secara tertulis\natau menyerahkan dokumen yang diperlukan sesuai dengan aslinya.\ng. atas perintah penyidik dapat melakukan tindakan berupa:\n1) pemeriksaan surat;\n2) penggeledahan dan penyitaan;\n3) pemeriksaan setempat terhadap rumah, pekarangan, banguna n,\ndan tempat -tempat lainnya yang diduduki atau dimiliki pihak\ntertentu;\n4) mendatangkan ahli dalam hubungan dengan penyelidikan.\n(2) Dalam hal penyelidik mulai melakukan penyelidikan suatu peristiwa yang\ndiduga merupakan pelanggaran hak asasi manusia yan g berat penyelidik\nmemberitahukan hal itu kepada penyidik."
+   }
+  },
+  {
+   "id": "ID-H1259-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\n(1) Dalam hal Komisi Nasional Hak Asasi Manusia berpendapat bahwa\nterdapat bukti permulaan yang cukup telah terjadi peristiwa pelanggaran\nhak asasi manusia yang berat, maka kesimpulan ha sil penyelidikan\ndisampaikan kepada penyidik.\n(2) Paling lambat 7 (tujuh) hasil kerja setelah kesimpulan hasil penyelidikan\ndisampaikan, Komisi Nasional Hak Asasi Manusia menyerahkan seluruh\nhasil penyelidikan kepada penyidik.\n(3) Dalam hal penyidik berpendapat bahwa hasil penyelidikan sebagaimana\ndimaksud dalam ayat (2) masih kurang lengkap, penyidik segera\nmengembalikan hasil penyelidikan tersebut kepada penyidik disertai\npetunjuk untuk dilengkapi dan dalam waktu 30 (tiga puluh) h ari sejak\ntanggal diterimanya hasil penyelidikan, penyidik wajib melengkapi\nkekurangan tersebut.\nBagian Kelima\nPenyidikan"
+   }
+  },
+  {
+   "id": "ID-H1259-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\n(1) Penyidikan perkara pelanggaran hak asasi manusia yang berat dilakukan\noleh Jaksa Agung.\n(2) Penyidikan sebagaimana dim aksud dalam ayat (1) tidak termasuk\nkewenangan menerima laporan atau pengaduan.\n(3) Dalam pelaksanaan tugas sebagaimana dimaksud dalam ayat (1) Jaksa\nPRESIDEN\nREPUBLIK INDONESIA\nAgung dapat mengangkat penyidik ad hoc yang terdiri atas unsur\npemerintah dan atau masyarakat.\n(4) Sebelum melaksanakan tugasnya, penyidik ad hoc mengucapkan sumpah\natau janji menurut agamanya masing-masing.\n(5) Untuk …\n(5) Untuk dapat diangkat menjadi penyidik ad hoc harus memenuhi syarat :\na. warga negara Republik Indonesia;\nb. berumur sekurang -kurangnya 40 (empat puluh) tahun dan paling\ntinggi 65 (enam puluh lima) tahun;\nc. berpendidikan sarjana hukum atau sarjana lain yang mempunyai\nkeahlian di bidang hukum;\nd. sehat jasmani dan rohani;\ne. berwibawa, jujur, adil, dan berkelakuan tidak tercela;\nf. setia kepada Pancasila dan Undang-Undang Dasar 1945; dan\ng. memiliki pengetahuan dan kepedulian di bidang hak asasi manusia."
+   }
+  },
+  {
+   "id": "ID-H1259-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\n(1) Penyidikan sebagaimana dimaksud dalam Pasal 21 ayat (1) dan (3) wajib\ndiselesaikan paling lambat 90 (sembila n puluh) hari terhitung sejak\ntanggal hasil penyelidikan diterima dan dinyatakan lengkap oleh penyidik.\n(2) Jangka waktu sebagaimana dimaksud dalam ayat (1) dapat diperpanjang\nuntuk waktu paling lama 90 (sembilan puluh) hari oleh Ketua Pengadilan\nHAM sesuai dengan daerah hukumnya.\n(3) Dalam hal jangka waktu sebagaimana dimaksud dalam ayat (2) habis dan\npenyidikan belum dapat diselesaikan, penyidikan dapat diperpanjang\npaling lama 60 (enam puluh) hari oleh Ketua Pengadilan HAM sesuai\ndengan daerah hukumnya.\n(4) Apabila dalam jangka waktu sebagaimana dimaksud dalam ayat (1), ayat\n(2), dan ayat (3) dari hasil penyidikan tidak diperoleh bukti yang cukup,\nmaka wajib dikeluarkan surat perintah penghentian penyidikan oleh\nJaksa Agung.\n(5) Setelah surat perintah pen ghentian penyidikan dikeluarkan, penyidikan\nhanya dapat dibuka kembali dan dilanjutkan apabila terdapat alasan dan\nbukti lain yang melengkapi hasil penyidikan untuk dilakukan penuntutan.\n(6) Dalam hal penghentian penyidikan sebagaimana dimaksud dalam ayat (4)\ntidak dapat diterima oleh korban atau keluarganya, maka korban,\nkeluarga sedarah atau semenda dalam garis lurus ke atas atau ke bawah\nsampai dengan derajat ketiga, berhak mengajukan praperadilan kepada\nKetua Pengadilan HAM sesuai dengan daerah hukumnya dan sesuai\ndengan ketentuan peraturan perundang-undangan yang berlaku.\nBagian Keenam\nPenuntutan"
+   }
+  },
+  {
+   "id": "ID-H1259-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\nPRESIDEN\nREPUBLIK INDONESIA\n(1) Penuntutan perkara pelanggaran hak asasi manusia yang berat dilakukan\noleh Jaksa Agung.\n(2) Dalam pelaksanaan tugas sebagaimana dimaksud dalam ayat (1) Jaksa\nAgung dapat mengangkat penuntut umum ad hoc yang terdiri atas unsur\npemerintah dan atau masyarakat.\n(3) Sebelum …\n(3) Sebelum melaksanakan tugasnya penuntut umum ad hoc mengucapkan\nsumpah atau janji menurut agama masing-masing.\n(4) Untuk dapat diangkat menjadi penuntut umum ad hoc harus memenuhi\nsyarat :\na. warga negara Republik Indonesia;\nb. berumur sekurang -kurangnya 40 (empat puluh) tahun dan paling\ntinggi 65 (enam puluh lima) tahun;\nc. berpendidikan sarjana hukum dan berpengalaman sebagai penuntut\numum;\nd. sehat jasmani dan rohani;\ne. berwibawa, jujur, adil, berkelakuan tidak tercela;\nf. setia kepada Pancasila dan Undang-Undang Dasar 1945; dan\ng. memiliki pengetahuan dan kepedulian di bidang hak asasi manusia."
+   }
+  },
+  {
+   "id": "ID-H1259-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 24\nPenuntut sebagaimana dimaksud dalam Pasal 23 ayat (1) dan ayat (2)\nwajib dilaksanakan paling lambat 70 (tujuh puluh) hari terhitung sejak tanggal\nhasil penyidikan diterima."
+   }
+  },
+  {
+   "id": "ID-H1259-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\nKomisi Nasional Hak Asasi Manusia sewaktu -waktu dapat meminta\nketerangan secara tertulis kepada Jaksa Agung mengenai perkembangan\npenyidikan dan penuntutan perkara pelanggaran hak asasi manusia yang\nberat.\nBagian Ketujuh\nSumpah"
+   }
+  },
+  {
+   "id": "ID-H1259-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\nSumpah penyidik dan Jaksa Penuntut Umum ad hoc sebagaimana\ndimaksud dalam Pasal 21 ayat (4) dan Pasal 23 ayat (3), lafalnya berbunyi\nsebagai berikut :\n\"Saya bersumpah/berjanji dengan sungguh -sungguh bahwa saya untuk\nmelaksanakan tugas ini, langsung atau tidak langsung, dengan menggunakan\nnama atau cara apapun juga, tidak memberikan atau menjanjikan sesuatu\nkepada siapapun juga\".\n\"Saya bersumpah/berjanji bahwa saya, untuk melakukan atau tidak\nPRESIDEN\nREPUBLIK INDONESIA\nmelakukan sesuatu dalam tugas ini, tidak sekali -kali akan menerima langsung\natau tidak langsung dari siapapun juga suatu janji atau pemberian\".\n\"Saya bersumpah/berjanji bahwa saya akan setia kepada dan akan\nmempertahankan serta mengamalkan Pancasila sebagai dasar negara,\nUndang-Undang Dasar 1945 dan peraturan perundang -undangan yang\nberlaku bagi negara Republik Indonesia\".\n\"Saya bersumpah/ …\n\"Saya bersumpah/berjanji bahwa saya senantiasa akan menjalankan\ntugas ini dengan jujur, seksama, dan obyektif dengan tidak membeda -bedakan\norang, dan akan menjunjung tinggi etika profesi dalam melaksanakan\nkewajiban saya ini dengan sebaik -baiknya dan seadil -adilnya seperti layaknya\nbagi seorang petugas yang berbudi baik dan jujur dalam menegakkan hukum\ndan keadilan\".\nBagian Kedelapan\nPemeriksaan di Sidang Pengadilan\nParagraf 1\nUmum"
+   }
+  },
+  {
+   "id": "ID-H1259-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedelapan"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\n(1) Pelanggaran hak asasi manusia yang berat diperiksa dan diputus oleh\nPengadilan HAM sebagaimana dimaksud dalam Pasal 4.\n(2) Pemeriksaan perkara pelanggaran hak asasi manusia yang berat\nsebagaimana dimaksud dalam ayat (1) dila kukan oleh majelis hakim\nPengadilan HAM yang berjumlah 5 (lima) orang, terdiri atas 2 (dua) orang\nhakim pada Pengadilan HAM yang bersangkutan dan 3 (tiga) orang hakim\nad hoc.\n(3) Majelis hakim sebagaimana dimaksud dalam ayat (2) diketuai oleh hakim\ndari Pengadilan HAM yang bersangkutan."
+   }
+  },
+  {
+   "id": "ID-H1259-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedelapan"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\n(1) Hakim ad hoc diangkat dan diberhentikan oleh Presiden selaku Kepala\nNegara atas usul Ketua Mahkamah Agung.\n(2) Jumlah hakim ad hoc sebagaimana dimaksud dalam ayat (1)\nsekurang-kurangnya 12 (dua belas) orang.\n(3) Hakim ad hoc diangkat untuk selama 5 (lima) tahun dan dapat diangkat\nkembali untuk 1 (satu) kali masa jabatan.\nParagraf 2\nSyarat Pengangkatan Hakim Ad Hoc"
+   }
+  },
+  {
+   "id": "ID-H1259-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedelapan"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\nUntuk dapat diangkat menjadi Hakim ad hoc harus memenuhi syarat :\nPRESIDEN\nREPUBLIK INDONESIA\n1. warga negara Republik Indonesia;\n2. bertaqwa kepada Tuhan Yang Maha Esa;\n3. berumur sekurang -kurangnya 45 (empat puluh lima) tahun dan paling\ntinggi 65 (enam puluh lima) tahun;\n4. berpendidikan sarjana hukum atau sarjana lain yang mempunyai keahlian\ndi bidang hukum;\n5. sehat jasmani dan rohani;\n6. berwibawa, …\n6. berwibawa, jujur, adil, dan berkelakuan tidak tercela;\n7. setia kepada Pancasila dan Undang-Undang Dasar 1945; dan\n8. memiliki pengetahuan dan kepedulian di bidang hak asasi manusia."
+   }
+  },
+  {
+   "id": "ID-H1259-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedelapan"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\nHakim ad hoc yang diangkat sebagaimana dimaksud dalam Pasal 28\nayat (1) sebelum melaksanakan tugasnya wajib mengucapkan sumpah sesuai\ndengan agamanya masing-masing yang lafalnya berbunyi sebagai berikut :\n\"Saya bersumpah/berjanji dengan sungguh -sungguh bahwa saya untuk\nmelaksanakan tugas ini, langsung atau tidak langsung, dengan menggunakan\nnama atau cara apapun juga, tidak akan memberikan atau menjanjikan\nsesuatu apapun kepada siapapun juga\".\n\"Saya bersumpah/berjanji bahwa saya, untuk melakukan atau tida k\nmelakukan sesuatu dalam tugas ini, tidak sekali -kali akan menerima langsung\natau tidak langsung dari siapapun juga suatu janji atau pemberian\".\n\"Saya bersumpah/berjanji bahwa saya akan setia kepada dan akan\nmempertahankan serta mengamalkan Pancasila seb agai dasar negara,\nUndang-Undang Dasar 1945, serta peraturan perundang -undangan yang\nberlaku bagi negara Republik Indonesia\".\n\"Saya bersumpah/berjanji bahwa saya senantiasa akan menjalankan\ntugas ini dengan jujur, seksama, dan obyektif dengan tidak membed a-bedakan\norang, dan akan menjunjung tinggi etika profesi dalam melaksanakan\nkewajiban saya ini dengan sebaik -baiknya dan seadil -adilnya seperti layaknya\nbagi seorang petugas yang berbudi baik dan jujur dalam menegakkan hukum\ndan keadilan\".\nParagraf 3\nAcara Pemeriksaan"
+   }
+  },
+  {
+   "id": "ID-H1259-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedelapan"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\nPerkara pelanggaran hak asasi manusia yang berat, diperiksa dan\ndiputus oleh Pengadilan HAM dalam waktu paling lama 180 (seratus delapan\npuluh) hari terhitung sejak perkara dilimpahkan ke Pengadilan HAM."
+   }
+  },
+  {
+   "id": "ID-H1259-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedelapan"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 32\nPRESIDEN\nREPUBLIK INDONESIA\n(1) Dalam hal perkara pelanggaran hak asasi manusia yang berat\ndimohonkan banding ke Pengadilan Tinggi, maka perkara tersebut\ndiperiksa dan diputus dalam waktu paling lama 90 (sembilan puluh) hari\nterhitung sejak perkara dilimpahkan ke Pengadilan Negeri.\n(2) Pemeriksaan perkara sebagaimana dimaksud dalam ayat (1) dilakukan\noleh majelis hakim berjumlah 5 (lima) orang yang terdiri atas 2 (dua)\norang hakim Pengadilan Tinggi yang bersangkutan dan 3 (tiga) orang\nhakim ad hoc.\n(3) Jumlah …\n(3) Jumlah hakim ad hoc di Pengadil an Tinggi sebagaimana dimaksud dalam\nayat (2) sekurang-kurangnya 12 (dua belas) orang.\n(4) Ketentuan sebagaimana dimaksud dalam Pasal 28 ayat (1) dan ayat (3),\nPasal 29, dan Pasal 30 juga berlaku bagi pengangkatan hakim ad hoc\npada Pengadilan Tinggi."
+   }
+  },
+  {
+   "id": "ID-H1259-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedelapan"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 33\n(1) Dalam hal perkara pelanggaran hak asasi manusia yang berat\ndimohonkan kasasi ke Mahkamah Agung, perkara tersebut diperiksa dan\ndiputus dalam waktu paling lama 90 (sembilan puluh) hari terhitung sejak\nperkara dilimpahkan ke Mahkamah Agung.\n(2) Pemeriksaan perkara sebagaimana dimaksud dalam ayat (1) dilakukan\noleh majelis hakim yang berjumlah 5 (lima) orang terdiri atas 2 (dua)\norang Hakim Agung dan 3 (tiga) orang hakim ad hoc.\n(3) Jumlah hakim ad hoc di Mahkamah Agung sebagaimana dimaksud dalam\nayat (2) sekurang-kurangnya 3 (tiga) orang.\n(4) Hakim ad hoc di Mahkamah Agung diangkat oleh Presiden selaku Kepala\nNegara atas usulan Dewan Perwakilan Rakyat Republik Indonesia.\n(5) Hakim ad hoc sebagaimana dimaksud dalam ayat (4) diangkat untuk satu\nkali masa jabatan selama 5 (lima) tahun.\n(6) Untuk dapat diangkat menjadi hakim ad hoc pada Mahkamah Agung\nharus memenuhi syarat :\na. warga negara Republik Indonesia;\nb. bertaqwa kepada Tuhan Yang Maha Esa;\nc. berumur sekurang-kurangnya 50 (lima puluh) tahun;\nd. berpendidikan sarjana hukum atau sarjana lain yang mempunyai\nkeahlian di bidang hukum;\ne. sehat jasmani dan rohani;\nf. berwibawa, jujur, adil, dan berkelakuan tidak tercela;\ng. setia kepada Pancasila dan Undang-Undang Dasar 1945; dan\nh. memiliki pengetahuan dan kepedulian di bidang hak asasi manusia.\nBAB V\nPERLINDUNGAN KORBAN DAN SAKSI"
+   }
+  },
+  {
+   "id": "ID-H1259-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 34\nPRESIDEN\nREPUBLIK INDONESIA\n(1) Setiap korban dan saksi dalam pelanggaran hak asasi manusia yang berat\nberhak atas perlindungan fisik dan mental dari ancaman, gangguan, teror,\ndan kekerasan dari pihak manapun.\n(2) Perlindungan sebagaimana dimaksud dalam ayat (1) wajib dilaksanakan\noleh aparat penegak hukum dan aparat keamanan secara cuma-cuma.\n(3) Ketentuan mengenai tata cara perlindungan terhadap korban dan saksi\ndiatur lebih lanjut dengan Peraturan Pemerintah.\nBAB VI …\nBAB VI\nKOMPENSASI, RESTITUSI, DAN REHABILITASI"
+   }
+  },
+  {
+   "id": "ID-H1259-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 35\n(1) Setiap korban pelanggaran hak asasi manusia yang berat dan atau ahli\nwarisnya dapat memperoleh kompensasi, restitusi, rehabilitasi.\n(2) Kompensasi, restitusi, dan rehabilitasi sebagaimana dimaksud dalam ayat\n(1) dicantumkan dalam amar putusan Pengadilan HAM.\n(3) Ketentuan mengenai kompensasi, restitusi, dan rehabilitasi diatur lebih\nlanjut dengan Peraturan Pemerintah.\nBAB VII\nKETENTUAN PIDANA"
+   }
+  },
+  {
+   "id": "ID-H1259-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 36\nSetiap orang yang melakukan perbuatan sebagaimana dimaksud dalam\nPasal 8 huruf a, b, c, d dan e dipidana dengan pidana mati atau pidana penjara\nseumur hidup atau pidana penjara paling lama 25 (dua puluh lima) tahun dan\npaling singkat 10 (sepuluh) tahun."
+   }
+  },
+  {
+   "id": "ID-H1259-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 37\nSetiap orang yang melakukan perbuatan sebagaimana dimaksud dalam Pasal 9\nhuruf a, b, d, e, atau j dipidana dengan pidana mati atau pidana penjara\nseumur hidup atau pidana penjara paling lama 25 (dua puluh lima) tahun dan\npaling singkat 10 (sepuluh) tahun."
+   }
+  },
+  {
+   "id": "ID-H1259-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 38\nSetiap orang yang melakukan perbuatan sebagaimana dimaksud dalam\nPasal 9 huruf e, dipidana dengan pidana penjara paling lama 15 (lima belas)\ntahun dan paling singkat 5 (lima) tahun.\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H1259-A39",
+   "no": 39,
+   "noLabel": {
+    "id": "Pasal 39"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 39\nSetiap orang yang melakukan perbuatan sebagaimana dimaksud dalam\nPasal 9 huruf f, dipidana dengan pidana penjara paling lama 15 (lima belas)\ntahun dan paling singkat 5 (lima) tahun."
+   }
+  },
+  {
+   "id": "ID-H1259-A40",
+   "no": 40,
+   "noLabel": {
+    "id": "Pasal 40"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 40\nSetiap orang yang melakukan perbuatan sebagaimana dimaksud dal am\nPasal 9 huruf g, h, atau i dipidana dengan pidana penjara paling lama 20 (dua\npuluh) tahun dan paling singkat 10 (sepuluh) tahun."
+   }
+  },
+  {
+   "id": "ID-H1259-A41",
+   "no": 41,
+   "noLabel": {
+    "id": "Pasal 41 …"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 41\nPercobaan, permufakatan jahat, atau pembantuan untuk melakukan\npelanggaran sebagaimana dimaksud dal am Pasal 8 atau Pasal 9 dipidana\ndengan pidana yang sama dengan ketentuan sebagaimana dimaksud dalam\nPasal 36, Pasal 37, Pasal 38, Pasal 39, dan Pasal 40."
+   }
+  },
+  {
+   "id": "ID-H1259-A42",
+   "no": 42,
+   "noLabel": {
+    "id": "Pasal 42"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 42\n(1) Komandan militer atau seseorang yang secara efektif bertindak sebagai\nkomandan militer dapat dipertanggungjawabkan terhadap tindak pidana\nyang berada di dalam yurisdiksi Pengadilan HAM, yang dilakukan oleh\npasukan yang berada di bawah komando dan pengendaliannya yang\nefektif, atau di bawah kekuasaan dan pengendaliannya yang efektif dan\ntindak pidana tersebut merupakan akibat dari tidak dilakukan\npengendalian pasukan secara patut, yaitu :\na. komandan militer atau seseorang tersebut mengetahui atau dasar\nkeadaan saat itu seharusnya mengetahui bahwa pasukan tersebut\nsedang melakukan atau baru saja melakukan pelanggaran hak asasi\nmanusia yang berat; dan\nb. komandan militer atau seseorang tersebut tidak melakukan tindakan\nyang layak dan diperlukan dalam ruang lingkup kekuasaannya untuk\nmencegah atau menghentikan perbuatan tersebut atau menyerahk an\npelakunya kepada pejabat yang berwenang untuk dilakukan\npenyelidikan, penyidikan, dan penuntutan.\n(2) Seorang atasan, baik polisi maupun sipil lain nya, bertanggung jawab\nsecara pidana terhadap pelanggaran hak asasi manusia yang berat yang\ndilakukan oleh bawahannya yang berada dibawah kekuasaan dan\npengendaliannya yang efektif, karena atasan tersebut tidak melakukan\npengendalian terhadap bawahannya secara patut dan benar, yakni :\na. atasan tersebut mengetahui atau secara sadar mengabaikan informasi\nyang secara jelas menunjukkan bahwa bawahan sedang melakukan\natau baru saja melakukan pelanggaran hak asasi manusia yang berat;\ndan\nPRESIDEN\nREPUBLIK INDONESIA\nb. atasan tersebut tid ak mengambil tindakan yang layak dan diperlukan\ndalam ruang lingkup kewenangannya untuk mencegah atau\nmenghentikan perbuatan tersebut atau menyerahkan pelakunya\nkepada pejabat yang berwenang untuk dilakukan penyelidikan,\npenyidikan, dan penuntutan.\n(3) Perbuatan sebagaimana dimaksud dalam ayat (1) dan ayat (2) diancam\ndengan pidana yang sama sebagaimana dimaksud dalam Pasal 36, Pasal\n37, Pasal 38, dan Pasal 40.\nBAB VIII …\nBAB VIII\nPENGADILAN HAM AD HOC"
+   }
+  },
+  {
+   "id": "ID-H1259-A43",
+   "no": 43,
+   "noLabel": {
+    "id": "Pasal 43"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 43\n(1) Pelanggaran hak asasi manusia yang berat yang terjadi sebelum\ndiundangkannya Undang -undang ini, diperiksa dan diputus oleh\nPengadilan HAM ad hoc.\n(2) Pengadilan HAM ad hoc sebagaimana dimaksud dalam ayat (1) dibentuk\natas usul Dewan Perwakilan Rakyat Republik Indonesia berdasarkan\nperistiwa tertentu dengan Keputusan Presiden.\n(3) Pengadilan HAM ad hoc sebagaimana dimaksud dalam ayat (1) berada\ndilingkungan Peradilan Umum."
+   }
+  },
+  {
+   "id": "ID-H1259-A44",
+   "no": 44,
+   "noLabel": {
+    "id": "Pasal 44"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 44\nPemeriksaan di Pengadilan HAM ad hoc dan upaya hukumnya dilakukan\nsesuai dengan ketentuan dalam Undang-undang ini.\nBAB IX\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H1259-A45",
+   "no": 45,
+   "noLabel": {
+    "id": "Pasal 45"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 45\n(1) Untuk pertama kali pada saat Undang -undang ini mulai berlaku\nPengadilan HAM sebagaimana dimaksud dalam Pasal 4 dibentuk di\nJakarta Pusat, Surabaya, Medan, dan Makasar.\n(2) Daerah hukum Pengadilan HAM sebagaimana dimaksud dalam ayat (1)\nberada pada Pengadilan Negeri di :\na. Jakarta Pusat yang meliputi wilayah Daerah Khusus Ibukota Jakarta,\nPropinsi Jawa Barat, Banten, Sumatera Selatan, Lampung, Bengkulu,\nKalimantan Barat, dan Kalimantan Tengah;\nPRESIDEN\nREPUBLIK INDONESIA\nb. Surabaya yang menjadi Propinsi Jawa Timur, Jawa Tengah, Daerah\nIstimewa Yogyakarta, Bali, Kalimantan Selatan, Kalimantan Timur,\nNusa Tenggara Barat, dan Nusa Tenggara Timur;\nc. Makasar yang meliputi Propinsi Sulawesi Selatan, Sulawesi Tenggara,\nSulawesi Teng ah, Sulawesi Utara, Maluku, Maluku Utara, dan Irian\nJaya;\nd. Medan yang meliputi Propinsi Sumatera Utara, Daerah Istimewa Aceh,\nRiau, Jambi, dan Sumatera Barat.\nBAB X …\nBAB X\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H1259-A46",
+   "no": 46,
+   "noLabel": {
+    "id": "Pasal 46"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 46\nUntuk pelanggaran hak asasi manusia yang berat sebagaimana\ndimaksud dalam Undang -undang ini tidak berlaku ketentuan mengenai\nkadaluarsa."
+   }
+  },
+  {
+   "id": "ID-H1259-A47",
+   "no": 47,
+   "noLabel": {
+    "id": "Pasal 47"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 47\n(1) Pelanggaran hak asasi manusia yang berat yang terjadi sebelum\nberlakunya Undang-undang ini tidak menutup kemungkinan penyelesaian\ndilakukan oleh Komisi Kebenaran dan Rekonsiliasi.\n(2) Komisi Kebenaran dan Rekonsiliasi sebagaimana dimaksud dalam ayat (1)\ndibentuk dengan Undang-undang."
+   }
+  },
+  {
+   "id": "ID-H1259-A48",
+   "no": 48,
+   "noLabel": {
+    "id": "Pasal 48"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 48\nPenyelidikan, penyidikan, dan penuntutan pelanggaran hak asasi\nmanusia yang berat yang sudah atau sedang dilaksanakan berdasarkan\nPeraturan Pemerintah Pengganti Undang-undang Nomor 1 Tahun 1999 tentang\nPengadilan Hak Asasi Manusia tetap berlaku sepanjang tidak bertentangan\ndengan Undang-undang ini."
+   }
+  },
+  {
+   "id": "ID-H1259-A49",
+   "no": 49,
+   "noLabel": {
+    "id": "Pasal 49"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 49\nKetentuan mengenai kewenangan Atasan Yang Berhak Menghukum dan\nPerwira Penyerah Perkara sebagaimana dimaksud dalam Pasal 74 dan Pasal\n123 Undang -undang Nomor 31 Tahun 1997 tentang Peradilan Militer\ndinyatakan tidak berlaku dalam pemeriksaan pelanggaran hak asasi manusia\nyang berat menurut Undang-undang ini.\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H1259-A50",
+   "no": 50,
+   "noLabel": {
+    "id": "Pasal 50"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 50\nDengan berlakunya Undang -undang ini, maka Peraturan Pemerintah\nPengganti Undang-undang Nomor 1 Tahun 1999 tentang Pengadilan Hak Asasi\nManusia (Lembaran Negara Republik Indonesia Tahun 1999 N omor 191,\nTambahan Lembaran Negara Nomor 3911) dengan ini dicabut dan dinyatakan\ntidak berlaku lagi."
+   }
+  },
+  {
+   "id": "ID-H1259-A51",
+   "no": 51,
+   "noLabel": {
+    "id": "Pasal 51 …"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 51\nUndang-undang ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nUndang-undang ini dengan penempatannya dalam Lembaran Negara Republik\nIndonesia.\ndisahkan di Jakarta\npada tanggal 23 Nopember 2000\nPRESIDEN REPUBLIK INDONESIA\nttd\nABDURRAHMAN WAHID\nDiundangkan di Jakarta\npada tanggal 23 Nopember 2000\nSEKRETARIS NEGARA REPUBLIK INDONESIA,\nttd\nDJOHAN EFFENDI\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2000 NOMOR 208\nPRESIDEN\nREPUBLIK INDONESIA\nPRESIDEN\nREPUBLIK INDONESIA\nPENJELASAN\nATAS\nUNDANG-UNDANG REPUBLIK INDONESIA\nNOMOR 26 TAHUN 2000\nTENTANG\nPENGADILAN HAK ASASI MANUSIA\nI. UMUM\nBahwa hak asasi manusia yang tercantum dalam Undang -Undang\nDasar 1945, Deklarasi Universal tentang Hak Asasi Manusia, Ketetapan\nMPR-RI Nomor XVII/MPR/1998 tentang Hak Asasi Manusia dan\nUndang-undang Nomor 39 Tahun 1999 tentang Hak Asasi Manusia harus\ndilaksanakan dengan penuh rasa tanggung jawab sesuai dengan falsafah\nyang terkandung dalam Pancasila dan Undang -Undang Dasar 1945 dan\nasas-asas internasional.\nKetetapan MPR -RI Nomor XVII/MPR/1998 tentang Hak Asa si\nManusia menugaskan kepada lembaga-lembaga tinggi negara dan seluruh\naparatur pemerintah untuk menghormati, menegakkan, dan\nmenyebarluaskan pemahaman mengenai hak asasi manusia kepada\nseluruh masyarakat serta segera meratifikasi berbagai instrumen\nPerserikatan Bangsa-Bangsa tentang Hak Asasi Manusia sepanjang tidak\nbertentangan dengan Pancasila dan Undang-Undang Dasar 1945.\nPemberian perlindungan terhadap hak asasi manusia dapat\ndilakukan melalui pembentukan Komisi Nasional Hak Asasi Manusia dan\nPengadilan HAM serta Komisi Kebenaran dan Rekonsiliasi.\nUntuk melaksanakan amanat Ketetapan MPR -RI Nomor\nXVII/MPR/1998 tentang Hak Asasi Manusia tersebut, telah dibentuk\nUndang-Undang Nomor 39 Tahun 1999 tentang Hak Asasi Manusia,\nPembentukan Undang-undang tersebut merupakan perwujudan tanggung\njawab bangsa Indonesia sebagai anggota Perserikatan Bangsa -Bangsa. Di\nsamping hal tersebut, pembentukan Undang -undang tentang Hak Asasi\nManusia juga mengandung suatu misi mengemban tanggungjawab moral\ndan hukum dalam menjunju ng tinggi dan melaksanakan Deklarasi\nUniversal Hak Asasi Manusia yang ditetapkan Perserikatan\nBangsa-Bangsa, serta yang terdapat dalam berbagai instrumen hukum\nlainnya yang mengatur hak asasi manusia yang telah disahkan dan\nditerima oleh negara Republik Indonesia.\nBertitik …\nPRESIDEN\nREPUBLIK INDONESIA\nBertitik tolak dari perkembangan hukum, baik ditinjau dari\nkepentingan nasional maupun dari kepentingan internasional, maka\nuntuk menyelesaikan masalah pelanggaran hak asasi manusia yang berat\ndan mengembalikan keamanan dan perdamaia n di Indonesia perlu\ndibentuk Pengadilan Hak Asasi Manusia yang merupakan pengadilan\nkhusus bagi pelanggaran hak asasi manusia yang berat. Untuk\nmerealisasikan terwujudnya Pengadilan Hak Asasi Manusia tersebut,\nperlu dibentuk Undang-undang tentang Hak Asasi Manusia.\nDasar Pembentukan Undang -undang tentang Pengadilan Hak Asasi\nManusia adalah sebagaimana tercantum dalam ketentuan Pasal 104 ayat\n(1) Undang-undang Nomor 39 Tahun 1999 tentang Hak Asasi Manusia.\nUndang-undang tentang Pengadilan Hak Asasi Manusia diharapkan\ndapat melindungi hak asasi manusia, baik perseorangan maupun\nmasyarakat, dan menjadi dasar dalam penegakan, kepastian hukum,\nkeadilan, dan perasaan aman bagi perseorangan maupun masyarakat,\nterhadap pelanggaran hak asasi manusia yang berat.\nPembentukan Undang -undang tentang Pengadilan Hak Asasi\nManusia didasarkan pada pertimbangan sebagai berikut :\n1. Pelanggaran hak asasi manusia yang berat merupakan \"extra ordinary\ncrimes\" dan berdampak secara luas baik pada tingkat nasional\nmaupun internasiona l dan bukan merupakan tindakan pidana yang\ndiatur di dalam Kitab Undang -undang Hukum Pidana serta\nmenimbulkan kerugian baik materiil maupun immateriil yang\nmengakibatkan perasaan tidak aman baik terhadap perseorangan\nmaupun masyarakat, sehingga perlu seger a dipulihkan dalam\nmewujudkan supremasi hukum untuk mencapai kedamaian,\nketertiban, ketentraman, keadilan, dan kesejahteraan bagi seluruh\nmasyarakat Indonesia.\n2. Terhadap perkara pelanggaran hak asasi manusia yang berat\ndiperlukan langkah -langkah penyelid ikan, penyidikan, penuntutan,\ndan pemeriksaan yang bersifat khusus.\nKekhususan dalam penanganan pelanggaran hak asasi manusia yang\nberat adalah :\na. diperlukan penyidik dengan membentuk tim ad hoc, penyidik ad hoc,\npenuntut umum ad hoc, dan hakim ad hoc;\nb. diperlukan penegasan bahwa penyelidikan hanya dilakukan oleh\nKomisi Nasional Hak Asasi Manusia sedangkan penyidik tidak\nberwenang menerima laporan atau pengaduan sebagaimana diatur\ndalam Kitab Undang-undang Hukum Acara Pidana;\nc. diperlukan ketentuan me ngenai tenggang waktu tertentu untuk\nmelakukan penyidikan, penuntutan, dan pemeriksaan di Pengadilan;\nd. diperlukan ketentuan mengenai perlindungan korban dan saksi;\ne. diperlukan ketentuan yang menegaskan tidak ada kedaluarsa bagi\npelanggaran hak asasi manusia yang berat.\nMengenai …\nPRESIDEN\nREPUBLIK INDONESIA\nMengenai pelanggaran hak asasi manusia yang berat seperti genosida\ndan kejahatan terhadap kemanusiaan yang berdasarkan hukum\ninternasional dapat digunakan asas tetroaktif, diberlakukan pasal\nmengenai kewajiban untuk tunduk kepada pembatasan yang ditetapkan\ndengan undang-undang sebagaimana tercantum dalam Pasal 28 J ayat (2)\nUndang-Undang Dasar 1945 yang berbunyi : \"Dalam menjalankan hak\ndan kebebasannya setiap orang wajib tunduk kepada pembatasan yang\nditetapkan dengan undang-undang dengan semata-mata untuk menjamin\npengakuan serta penghormatan atas maksud hak dan kebebasan orang\nlain dan untuk memenuhi tuntutan yang adil sesuai dengan\npertimbangan moral, nilai -nilai agama, keamanan, dan ketertiban umum\ndalam suatu masyarakat demokratis\". Dengan ungkapan lain asas\nretroaktif dapat diberlakukan dalam rangka melindungi hak asasi\nmanusia itu sendiri berdasarkan Pasal 28 J ayat (2) Undang -Undang\nDasar 1945 tersebut. Oleh karena itu Undang -undang ini mengatur pula\ntentang Pengadilan HAM ad hoc untuk memeriksa dan memutus perkara\npelanggaran hak asasi manusia yang berat yang terjadi sebelum\ndiundangkannya Undang -undang ini. Pengadilan HAM ad hoc di bentuk\natas usul Dewan Perwakilan Rakyat berdasarkan peristiwa tertentu\ndengan Keputusan Presiden dan berada di lingkungan Peradilan Umum.\nDisamping adanya Pengadilan HAM ad hoc, Undang -undang ini\nmenyebutkan juga keberadaan Komisi Kebenaran dan Rekonsilia si\nsebagaimana dimaksud dalam Ketetapan MPR -RI Nomor V/MPR/2000\ntentang Pemantapan Persatuan dan Kesatuan Nasional. Komisi Kebenaran\ndan Rekonsiliasi yang akan dibentuk dengan undang -undang\ndimaksudkan sebagai lembaga ekstra -yudical yang ditetapkan dengan\nundang-undang yang bertugas untuk menegakkan kebenaran dengan\nmengungkapkan penyalahgunaan kekuasaan dan pelanggaran hak asasi\nmanusia pada masa lampau, sesuai dengan ketentuan hukum dan\nperundang-undangan yang berlaku dan melaksanakan rekonsiliasi dalam\nperspektif kepentingan bersama sebagai bangsa.\nII. PASAL DEMI PASAL\nPasal 1\nCukup jelas\nPasal 2\nCukup jelas\nPasal 3\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 4 …\nPasal 4\nYang dimaksud dengan \"memeriksa dan memutus\" dalam ketentuan ini adalah\ntermasuk menyelesaikan perkara yang menyangkut kompensasi, restitusi, dan\nrehabilitasi sesuai dengan peraturan perundang-undangan yang berlaku.\nPasal 5\nKetentuan dalam Pasal ini dimak sudkan untuk melindungi warga negara\nIndonesia yang melakukan pelanggaran hak asasi manusia yang berat yang\ndilakukan di luar batas teritorial, dalam arti tetap dihukum sesuai dengan\nUndang-undang Pengadilan Hak Asasi Manusia ini.\nPasal 6\nSeseorang berumu r di bawah 18 (delapan belas) tahun yang melakukan\npelanggaran hak asasi manusia yang berat, diperiksa dan diputus oleh\nPengadilan Negeri.\nPasal 7\n\"Kejahatan genoside dan kejahatan terhadap kemanusiaan\" dalam ketentuan\nini sesuai dengan \"Rome Statute of I nternational Criminal Court\" (Pasal 6 dan\nPasal 7).\nPasal 8\nHuruf a\nYang dimaksud dengan \"anggota kelompok\" adalah seorang atau\nlebih anggota kelompok.\nHuruf b\nCukup jelas\nHuruf c\nCukup jelas\nHuruf d\nCukup jelas\nHuruf e\nCukup jelas\nPasal 9\nYang dimaksud dengan \"serangan yang ditujukan secara langsung terhadap\npenduduk sipil\" adalah suatu rangkaian perbuatan yang dilakukan terhadap\npenduduk sipil sebagai kelanjutan kebijakan yang berhubungan dengan\norganisasi.\nHuruf a\nPRESIDEN\nREPUBLIK INDONESIA\nYang dimaksu d dengan \"pembunuhan\" adalah sebagaimana\ntercantum dalam Pasal 340 Kitab Undang-undang Hukum Pidana.\nHuruf b …\nHuruf b\nYang dimaksud dengan \"pemusnahan\" meliputi perbuatan yang\nmenimbulkan penderitaan yang dilakukan dengan sengaja, antara lain berupa\nperbuatan menghambat pemasokan barang makanan dan obat -obatan yang\ndapat menimbulkan pemusnahan pada sebagian penduduk.\nHuruf c\nYang dimaksud dengan \"perbudakan\" dalam ketentuan ini\ntermasuk perdagangan manusia, khususnya perdagangan wanita dan\nanak-anak.\nHuruf d\nYang dimaksud dengan \"pengusiran atau pemindahan penduduk\nsecara paksa\" adalah pemindahan orang -orang secara paksa dengan cara\npengusiran atau tindakan pemaksaan yang lain dari daerah dimana mereka\nbertempat tinggal secara sah, tanpa disadari alasan yang diijinkan oleh hukum\ninternasional.\nHuruf e\nCukup jelas\nHuruf f\nYang dimaksud dengan \"penyiksaan\" dalam ketentuan ini adalah\ndengan sengaja dan melawan hukum menimbulkan kesakitan atau\npenderitaan yang berat, baik fisik maupu n mental, terhadap seorang tahanan\natau seseorang yang berada dibawah pengawasan.\nHuruf g\nCukup jelas\nHuruf h\nCukup jelas\nHuruf i\nYang dimaksud dengan \"penghilangan orang secara paksa\" yakni\npenangkapan, penahanan, atau penculikan seseorang oleh atau dengan kuasa,\ndukungan atau persetujuan dari negara atau kebijakan organisasi, diikuti oleh\npenolakan untuk mengakui perampasan kemerdekaan tersebut atau untuk\nmemberikan informasi tentang nasib atau keberadaan orang tersebut, dengan\nmaksud untuk mel epaskan dari perlindungan hukum dalam jangka waktu\nyang panjang.\nHuruf j\nYang dimaksud dengan \"kejahatan apartheid\" adalah perbuatan\ntidak manusia dengan sifat yang sama dengan sifat -sifat yang disebutkan\nPRESIDEN\nREPUBLIK INDONESIA\ndalam Pasal 8 yang dilakukan dalam konteks suatu rezim kelembagaan berupa\npenindasan dan dominasi oleh suatu kelompok rasial atas suatu kelompok\natau kelompok -kelompok ras lain dilakukan dengan maksud untuk\nmempertahankan rezim itu.\nPasal 10 …\nPasal 10\nCukup jelas\nPasal 11\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nAyat (5)\nYang dimaksud dengan \"1 (satu) hari\" adalah dalam waktu 24 (dua\npuluh empat) jam terhitung sejak tersangka ditangkap.\nAyat (6)\nCukup jelas\nPasal 12\nCukup jelas\nPasal 13\nCukup jelas\nPasal 14\nCukup jelas\nPasal 15\nCukup jelas\nPasal 16\nCukup jelas\nPasal 17\nCukup jelas\nPasal 18\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (1)\nKewenangan penyelidikan hanya dilakukan oleh Komisi Nasional\nHak Asasi Manusia dimaksudkan untuk menjaga obyektivitas hasil\npenyelidikan karena lembaga Komisi Nasional Hak Asasi Manusia adalah\nlembaga yang bersifat independen.\nAyat (2) …\nAyat (2)\nYang d imaksud dengan \"unsur masyarakat\" adalah tokoh dan\nanggota masyarakat yang profesional, berdedikasi, berintegrasi tinggi, dan\nmenghayati di bidang hak asasi manusia.\nPasal 19\nPelaksanaan \"penyelidikan\" dalam ketentuan ini dimaksudkan sebagai\nrangkaian tin dakan Komisi Nasional Hak Asasi Manusia dalam lingkup\nprojustisia.\nAyat (1)\nHuruf a\nCukup jelas\nHuruf b\nYang dimaksud dengan \"menerima\" adalah menerima,\nmendaftar, dan mencatat laporan atau pengaduan tentang telah\nterjadinya pelanggaran hak asasi manusia yang berat, dan dapat dilengkapi\ndengan barang bukti.\nHuruf c\nCukup jelas\nHuruf d\nCukup jelas\nHuruf e\nCukup jelas\nHuruf f\nCukup jelas\nHuruf g\nYang dimaksud dengan \"perintah penyidik\" adalah perintah\ntertulis yang dikeluarkan penyelidik dan penyidik segera mengeluarkan surat\nperintah setelah menerima permintaan dari penyelidik.\nAngka 1)\nCukup jelas\nAngka 2)\n\"Penggeledahan\" dalam k etentuan ini meliputi\nPRESIDEN\nREPUBLIK INDONESIA\npenggeledahan badan dan atau rumah.\nAngka 3)\nCukup jelas\nAngka 4) …\nAngka 4)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 20\nAyat (1)\n- Dalam ketentuan ini yang dimaksud dengan \"bukti\npermulaan yang cukup\" adalah bukti permulaan untuk menduga adanya\ntindak pidana bahwa seseorang yang karena perbuatannya atau keadaannya,\nberdasarkan bukti permulaan patut diduga sebagai pelaku pelanggaran ha k\nasasi manusia yang berat.\n- Dalam penyelidikan tetap dihormati asas praduga tak\nbersalah sehingga hasil penyelidikan bersifat tertutup (tidak disebarluaskan)\nsepanjang menyangkut nama-nama yang diduga melanggar hak asasi manusia\nyang berat sesuai denga n ketentuan Pasal 92 Undang -undang Nomor 39\nTahun 1999 tentang Hak Asasi Manusia.\n- Yang dimaksud dengan \"menindaklanjuti\" adalah\ndilakukannya penyidikan.\nAyat (2)\nCukup jelas\nAyat (3)\nDalam ketentuan ini yang dimaksud dengan \"kurang lengkap\"\nadalah belum cukup memenuhi unsur pelanggaran hak asasi manusia yang\nberat untuk dilanjutkan ke tahap penyidikan.\nPasal 21\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nDalam ketentuan ini yang dimaksud \"unsur masyarakat\" adalah\nterdiri dari organisasi politik, organisasi kemasyarakatan, lembaga swadaya\nmasyarakat, atau lembaga kemasyarakatan yang lain seperti perguruan tinggi.\nKata \"dapat\" dalam ketentuan ini dimaksudk an agar Jaksa Agung\nPRESIDEN\nREPUBLIK INDONESIA\ndalam mengangkat penyidik ad hoc dilakukan sesuai dengan kebutuhan.\nAyat (4)\nCukup jelas\nAyat (5)\nCukup jelas\nPasal 22 …\nPasal 22\nCukup jelas\nPasal 23\nAyat (1)\nCukup jelas\nAyat (2)\nPenuntut umum ad hoc dari unsur masya rakat diutamakan\ndiambil dari mantan penuntut umum di Peradilan Umum atau di Peradilan\nMiliter.\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nPasal 24\nCukup jelas\nPasal 25\nCukup jelas\nPasal 26\nPada waktu pengambilan sumpah/janji diucapkan kata -kata tertentu sesuai\ndengan agama masing -masing, misalnya untuk penganut agama Islam \"Demi\nAllah\" sebelum lafal sumpah dan untuk agama Kristen/Katolik kata -kata\n\"Kiranya Tuhan akan menolong saya\" sesudah lafal sumpah.\nPasal 27\nAyat (1)\nLihat penjelasan Pasal 4\nAyat (2)\nKetentuan dalam ayat ini dimaksudkan agar majelis hakim selalu\nberjumlah ganjil.\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (3)\nCukup jelas\nPasal 28 …\nPasal 28\nAyat (1)\n\"Hak ad hoc\" adalah hakim yang diangkat dari luar hakim karier\nyang memenuhi persyaratan profesional, berdedikasi dan berintegrasi tinggi,\nmenghayati cita-cita negara hukum dan negara kesejahteraan yang berintikan\nkeadilan, memahami dan menghormati hak asa si manusia dan kewajiban\ndasar manusia.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nPasal 29\nAngka 1\nCukup jelas\nAngka 2\nCukup jelas\nAngka 3\nCukup jelas\nAngka 4\nYang dimaksud dengan \"keahlian di bidang hukum\" adalah antara\nlain sarjana syariah atau sarjana lulusan Perguruan Tinggi Ilmu Kepolisian.\nAngka 5\nCukup jelas\nAngka 6\nCukup jelas\nAngka 7\nCukup jelas\nAngka 8\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 30\nLihat penjelasan Pasal 26\nPasal 31\nCukup jelas\nPasal 32 …\nPasal 32\nCukup jelas\nPasal 33\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nAyat (5)\nCukup jelas\nAyat (6)\nHuruf a\nCukup jelas\nHuruf b\nCukup jelas\nHuruf c\nCukup jelas\nHuruf d\nLihat penjelasan Pasal 29 Angka 4\nHuruf e\nCukup jelas\nHuruf f\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nHuruf g\nCukup jelas\nHuruf h\nCukup jelas\nPasal 34\nCukup jelas\nPasal 35 …\nPasal 35\n- Yang dimaksud dengan \"kompensasi\" adalah ganti kerugian yang\ndiberikan oleh negara, karena pelaku tidak mampu memberikan ganti kerugian\nsepenuhnya yang menjadi tanggung jawabnya.\n- Yang dimaksud dengan \"restitusi\" adalah ganti kerugian yang\ndiberikan kepa da korban atau keluarganya oleh pelaku atau pihak ketiga.\nRestitusi dapat berupa :\na. pengembalian harta milik;\nb. pembayaran ganti kerugian untuk kehilangan atau\npenderitaan; atau\nc. penggantian biaya untuk tindakan tertentu.\n- Yang dimaksud dengan \"rehabilitasi\" adalah pemulihan pada\nkedudukan semula, misalnya kehormatan, nama baik, jabatan, atau hak -hak\nlain.\nPasal 36\nCukup jelas\nPasal 37\nCukup jelas\nPasal 38\nCukup jelas\nPasal 39\nCukup jelas\nPasal 40\nCukup jelas\nPasal 41\nYang dimaksud dengan \"pemufakatan jahat\" adalah 2 (dua) orang atau lebih\nsepakat akan melakukan pelanggaran hak asasi manusia yang berat.\nPasal 42\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 43\nAyat (1)\nCukup jelas\nAyat (2)\nDalam hal Dewan Perwakilan Rakyat Republik Indon esia\nmengusulkan dibentuknya Pengadilan HAM ad hoc, Dewan Perwakilan Rakyat\nRepublik Indonesia mendasarkan pada dugaan telah terjadinya pelanggaran\nhak asasi manusia yang berat yang dibatasi pada locus dan tempos delicti\ntertentu yang terjadi sebelum diundangkannya Undang-undang ini.\nAyat (3) …\nAyat (3)\nCukup jelas\nPasal 44\nCukup jelas\nPasal 45\nCukup jelas\nPasal 46\nCukup jelas\nPasal 47\nKetentuan dalam Pasal ini dimaksudkan untuk memberikan alternatif\npenyelesaian pelanggaran hak asasi manusia yang berat, dilakukan di luar\nPengadilan HAM.\nPasal 48\nCukup jelas\nPasal 49\nDalam ketentuan ini dimaksudkan hanya berlaku untuk pelanggaran hak\nasasi manusia yang berat dan yurisdiksinya bagi siapa saja baik sipil maupun\nmiliter.\nPasal 50\nCukup jelas\nPasal 51\nCukup jelas\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 4026"
+   }
+  }
+ ]
+}

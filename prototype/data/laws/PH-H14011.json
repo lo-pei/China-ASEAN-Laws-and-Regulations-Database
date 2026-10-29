@@ -1,0 +1,72 @@
+{
+ "id": "PH-H14011",
+ "title": {
+  "zh": null,
+  "en": "An Act to Take the Manila Railroad Company Out of the Supervision and Control of the Public Service Commission.",
+  "orig": "An Act to Take the Manila Railroad Company Out of the Supervision and Control of the Public Service Commission."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1927-12-03",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3376",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 387,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1927/act_3376_1927.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03376_1927_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03376_1927_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14011-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The Public Service Commission shall hereafter not exercise any control or supervision over the\nManila Railroad Company so long as the same shall be con-trolled by the Government of the Philippine\nIslands, except with regard to its rates."
+   }
+  },
+  {
+   "id": "PH-H14011-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "All acts and other provisions of law inconsistent herewith are hereby repealed."
+   }
+  },
+  {
+   "id": "PH-H14011-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, December 3, 1927."
+   }
+  }
+ ]
+}

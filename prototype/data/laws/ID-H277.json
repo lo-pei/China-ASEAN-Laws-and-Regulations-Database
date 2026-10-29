@@ -1,0 +1,266 @@
+{
+ "id": "ID-H277",
+ "title": {
+  "zh": "精神健康法",
+  "en": "Law on Mental Health",
+  "id": "KESEHATAN JIWA.",
+  "orig": "KESEHATAN JIWA.",
+  "vi": "Luật về Sức khỏe Tâm thần",
+  "th": "พระราชบัญญัติว่าด้วยสุขภาพจิต",
+  "ms": "Akta tentang Kesihatan Mental"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02a",
+ "language": "id",
+ "level": "law",
+ "category": "04_劳工与行政法",
+ "status": "active",
+ "promulgatedDate": "1966",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "-",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 14,
+ "chars": 13519,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": null
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\04_劳工与行政法\\印尼_WLD_1966_KESEHATAN JIWA..txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 14 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H277-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 1.\nYang dimaksudkan dalam Undang-undang ini dengan:\n(1) Kesehatan Jiwa adalah keadaan jiwa yang sehat menurut ilmu\nKedokteran sebagai unsur daripada kesehatan yang dimaksudkan dalam\npasal 2 Undang-undang Pokok-pokok Kesehatan (Undang-undang Tahun\n1960 No. 9 Lembaran Negara Tahun 1960 No. 131).\n(2) Penyakit jiwa adalah sesuatu perubahan pada fungsi jiwa,\nyang menyebabkan adanya gangguan pada kesehatan jiwa, seperti yang\ndimaksudkan\ndalam sub (a)."
+   }
+  },
+  {
+   "id": "ID-H277-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 2.\n(1) Usaha-usaha dalam bidang kesehatan jiwa, perawatan,\npengobatan penderita dan penyaluran bekas penderita penyakit jiwa\n(selanjutnya\ndisebut: sipenderita) yang dimaksudkan dalam Bab II\npasal 3, Bab III pasal 4 dan Bab V Pasal 10 dilakukan oleh\nPemerintah dan/atau\nbadan swasta.\n(2) Dalam usaha-usaha seperti dimaksudkan dalam ayat (1)\nPemerintah perlu mengikutsertakan masyarakat.\nBAB II.\nPEMELIHARAAN KESEHATAN JIWA."
+   }
+  },
+  {
+   "id": "ID-H277-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB II."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 3.\nDalam bidang kesehatan jiwa usaha-usaha Pemerintah meliputi:\na. Memelihara kesehatan jiwa dalam pertumbuhan dan perkembangan\nanak-anak.\nb. Menggunakan keseimbangan jiwa dengan menyesuaikan penempatan\ntenaga selaras dengan bakat dan kemampuannya.\nc. Perbaikan tempat kerja dan suasana kerja dalam perusahaan dan\nsebagainya sesuai dengan ilmu kesehatan jiwa.\nd. Mempertinggi taraf kesehatan jiwa seseorang dalam hubungannya\ndengan keluarga dan masyarakat.\ne. Usaha-usaha lain yang dianggap perlu oleh Menteri\nKesehatan.\nBAB III.\nPERAWATAN DAN PENGOBATAN PENDERITA PENYAKIT JIWA."
+   }
+  },
+  {
+   "id": "ID-H277-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB III."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 4.\n(1) Perawatan, pengobatan dan tempat perawatan penderita\npenyakit jiwa (selanjutnya disebut perawatan diatur oleh Menteri\nKesehatan).\n(2) Menteri Kesehatan mengatur, membimbing, membantu dan\nmengawasi usaha-usaha swasta, sesuai dengan Pasal 14 Undang-undang\nPokok\nKesehatan."
+   }
+  },
+  {
+   "id": "ID-H277-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB III."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 5.\n(1) Untuk mendapatkan perawatan dan pengobatan pada suatu tempat\nperawatan harus ada permohonan dan salah seorang yang tersebut di\nbawah ini:\na. Sipenderita, jika ia sudah dewasa.\nb. Suami/isteri atau seorang anggota keluarga yang sudah\ndewasa.\nc. Wali dan/atau yang dapat dianggap sebagai sipenderita.\nd. Kepala Polisi/Kepala Pamongpraja di tempat tinggal atau di\ndaerah dimana sipenderita ada.\ne. Hakim Pengadilan Negeri, bilamana dalam suatu perkara timbul\npersangkaan, bahwa yang bersangkutan adalah penderita penyakit\njiwa.\n(2) Petugas-petugas yang dimaksudkan dalam ayat (1) sub d\nmengajukan permohonan:\na. jika tidak ada orang seperti yang dimaksudkan dalam ayat (1)\nsub b dan c.\nb. jika sipenderita dalam keadaan terlantar.\nc. demi kepentingan ketertiban dan keamanan umum."
+   }
+  },
+  {
+   "id": "ID-H277-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB III."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 6.\n(1) Perawatan dan pengobatan atas permohonan tersebut dalam\npasal 5 ayat (1) sub a, b dan c, diselenggarakan setelah diadakan\npemeriksaan\noleh dokter, yang menetapkan adanya penderita-penderita\npenyakit jiwa dan sipenderita perlu dirawat.\n(2) Dalam waktu selambat-lambatnya 3 x 24 jam, petugas yang\ntersebut dalam pasal 5 ayat (1) sub d wajib mengusahakan keterangan\ndari\ndokter bahwa yang bersangkutan memang menderita penyakit\njiwa."
+   }
+  },
+  {
+   "id": "ID-H277-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB III."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 7.\nJika ada keraguan apakah seseorang menderita penyakit jiwa atau\ntidak, Menteri Kesehatan dapat menunjuk ahli-ahli untuk\nmenetapkannya."
+   }
+  },
+  {
+   "id": "ID-H277-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB III."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 8.\n(1) Seorang dalam perkara pidana, seperti yang dimaksudkan dalam\nPasal 5 ayat (1) sub e, dapat dirawat untuk diobservasi\nselama-lamanya\n3 bulan.\nWaktu itu dapat diperpanjang, jika dokter yang memeriksanya\nmenganggap perlu.\n(2) Jika orang yang dimaksudkan dalam ayat (1) ternyata\nmenderita penyakit jiwa, ia segera mendapat perawatan, jika tidak,\nia diserahkan\nkembali kepada Hakim Pengadilan Negeri yang dimaksud\ndalam ayat (1).\n(3) Dokter tersebut dalam ayat (1) harus memberikan laporan\ntertulis dalam waktu 14 hari terhitung mulai tanggal dimasukkannya\nsipenderita\nke dalam tempat perawatan kepada Hakim Pengadilan\nNegeri yang bersangkutan.\nBAB IV.\nHARTA-BENDA MILIK PENDERITA."
+   }
+  },
+  {
+   "id": "ID-H277-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB IV."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 9.\n(1) Hakim Pengadilan Negeri setempat menetapkan, bahwa\nsipenderita tidak mampu mengelola sendiri harta-benda yang ada\npadanya miliknya\ndan/atau yang diserahkan kepadanya.\n(2) Hakim yang dimaksudkan dalam ayat (1) menetapkan siapa yang\nberhak mengelola dan/atau mengurus harta-benda sipenderita tersebut\ndalam ayat (1).\n(3) Penetapan Hakim yang dimaksudkan dalam ayat (1) dapat\ndikeluarkan atas permohonan mereka yang disebut dalam Pasal 5 ayat\n(1) sub\na, b, c dan d.\nBAB V.\nPENAMPUNGAN BEKAS PENDERITA PENYAKIT JIWA"
+   }
+  },
+  {
+   "id": "ID-H277-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB V."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 10.\nPemerintah melakukan usaha-usaha untuk:\na. Melaksanakan penyaluran dalam masyarakat bagi penderita yang\ntelah selesai mendapat perawatan.\nb. Membangkitkan dan membantu kegiatan-kegiatan dalam masyarakat\nyang mempunyai tujuan untuk merehabilitasikan dan membimbing\npenderita.\nBAB VI.\nPENGAWASAN"
+   }
+  },
+  {
+   "id": "ID-H277-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB VI."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 11.\n(1) Pengawasan pemeliharaan kesehatan jiwa, perawatan dan\npengobatan serta penampungan penderita yang dimaksudkan dalam Bab\nII Pasal\n3 Bab III Pasal 5, 6, 7 dan Bab V Pasal 10 dilakukan oleh\nMenteri Kesehatan.\n(2) Usaha-usaha dalam bidang kesehatan jiwa, berdasarkan lain\ndaripada kesehatan jiwa menurut ilmu kedokteran seperti yang\ndimaksudkan\ndalam pasal 1 sub a, diawasi oleh Menteri\nKesehatan.\nBAB VII.\nKETENTUAN PENUTUP."
+   }
+  },
+  {
+   "id": "ID-H277-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB VII."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 12.\nPelaksanaan Undang-undang ini dan hal-hal lain yang tidak/ belum\nditetapkan dalam Undang-undang ini, dapat diatur dengan Peraturan\nPemerintah dan peraturan Menteri Kesehatan."
+   }
+  },
+  {
+   "id": "ID-H277-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB VII."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 13.\nUndang-undang ini dapat disebut \"Undang-undang tentang Kesehatan\nJiwa 1966.\""
+   }
+  },
+  {
+   "id": "ID-H277-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB VII."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 14.\nUndang-undang ini mulai berlaku pada tanggal diundangkannya.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan\npengundangan Undang-undang ini dengan penempatannya dalam Lembaran\nNegara\nRepublik Indonesia.\nDisahkan di Jakarta\npada tanggal 11 Juni 1966\nPRESIDEN REPUBLIK INDONESIA,\nSUKARNO.\nDiundangkan di Jakarta\npada tanggal 11 Juni 1966.\nSEKRETARIS NEGARA,\nMOHD. ICHSAN\nPENJELASAN\nATAS\nUNDANG-UNDANG No. 3,TAHUN 1966\nTENTANG\nKESEHATAN JIWA.\nPENJELASAN UMUM.\nUndang-undang Kesehatan Jiwa ini adalah pelaksanaan dari pada\nUndang-undang Pokok Kesehatan (Undang-undang Tahun 1960 No. 9\nLembaran\nNegara Tahun 1960 No. 131). Dengan Undang-undang ini\ndiatur kesehatan jiwa sebagaimana ditetapkan dalam Pasal I\nUndang-undang Pokok\nKesehatan; disitu dikatakan, bahwa \"kesehatan\"\nmeliputi kesehatan badan, rohani (mental) dan sosial. Materi\nUndang-undang ini yalah:\nkesehatan jiwa dan penyakit jiwa.\nDalam Undang-undang ini diatur kesehatan jiwa menurut ilmu\nkedokteran: Undang-undang ini tidak melangkah kebidang jiwa menurut\nilmu\npendidikan, dan sebagainya.\nHingga sekarang hanya ada peraturan mengenai penderita penyakit\njiwa yaitu: \"Het Reglement op het Krankzinnigenwezen\" (Stbl. 1897\nNo. 54 dan seterusnya). Dengan Undang- undang ini Reglement\ntersebut dibatalkan. Dan materi perawatan/pengobatan penderita\npenyakit\njiwa, yang ada dalam Reglement tersebut disesuaikan dengan\njiwa Undang-undang Pokok Kesehatan.\nPENJELASAN PASAL DEMI PASAL.\nPasal 1.\na. Kesehatan Jiwa (mental health) menurut faham ilmu kedokteran\npada waktu sekarang adalah satu kondisi yang memungkinkan\nperkembangan\nphysik, intelektuil dan emosionil yang optimal dari\nseseorang dan perkembangan itu berjalan selaras dengan keadaan\norang-orang lain.\nMakna kesehatan jiwa mempunyai sifat-sifat yang\nharmonis (serasi) dan memperhatikan semua segi-segi dalam\npenghidupan manusia dan\ndalam hubungannya dengan manusia lain.\nb. Gangguan dalam perkembangan itu seperti tersebut dalam sub a,\nyang menjelma sebagai perubahan dalam fungsi jiwa seseorang itu,\nmerupakan penyakit jiwa.\nPasal 2.\nPasal ini menegaskan, bahwa usaha-usaha kuratif maupun preventif\ndemi kepentingan penderita penyakit jiwa adalah tugas\npemerintah.\nSekalipun demikian pintu terbuka bagi swasta untuk bekerja\ndilapangan pemeliharaan kesehatan jiwa, perawatan dan pengobatan\npenderita\ndan penampungan bekas penderita penyakit jiwa. Pemerintah\n(i.c. Menteri Kesehatan) menetapkan peraturan-peraturan khusus\nmengenai\nusaha swasta tersebut, serta memberikan bimbingan dan\nbantuan sesuai dengan Pasal 14 ayat (I ) dari Undang-undang tentang\nPokok-pokok\nKesehatan.\nDalam usaha untuk memperoleh derajat kesehatan yang\nsetinggi-tingginya (lihat pasal 1 Undang-undang Pokok Kesehatan\nUndang-undang\nTahun 1960 No. 9), tiap warga negara perlu aktif ikut\nserta dalam usaha-usaha kesehatan. Prinsip ini dinyatakan juga\n(dikonkritisir)\ndalam bidang kesehatan jiwa (umpama masyarakat\ndiikut-sertakan dalam usaha pendidikan mengenai pemeliharaan\nkesehatan jiwa).\nPasal 3.\na. Yang dimaksudkan dengan masa pendidikan adalah masa anak-anak\nsemasa bayi, semasa sekolah dan lain sebagainya.\nb. Cukup jelas.\nc. Cukup jelas.\nd. Ketenteraman hidup baik sprituil maupun materiil dalam\nlingkungan keluarganya maupun dalam hubungan dengan masyarakat,\nmempengaruhi\nkesehatan jiwa seseorang. Se- bagai anggota dari\nkeluarga dan masyarakat, tiap-tiap orang mempunyai peranan dan\npengaruh dalam kesejahteraan\nkeluarga dan masyarakatnya.\ne. Kini sedang dalam taraf penyelidikan sampai dimana usaha demi\nkesehatan jiwa yang dilakukan dengan tambahan\npengetahuan-pengetahuan\nTimur dapat dipergunakan dengan tambahan\npengetahuan menurut ilmu kedokteran.\nPasal 4.\nMenteri Kesehatan menetapkan peraturan-peraturan mengenai\nperawatan/pengobatan dan tempat perawatan penderita penyakit\njiwa.\nUsaha-usaha dari badan-badan swasta untuk mendirikan sebuah\ntempat perawatan harus ada ijin dari Menteri Kesehatan seperti yang\ndimaksud\ndalam pasal 14 ayat (1) dari Undang-undang tentang\nPokok-pokok Kesehatan.\nPasal 5.\nYang dianggap sebagai wali umpamanya komandan suatu pasukan,\npemimpin asrama, dan lain-lain orang yang menurut ketentuan hukum\ndapat\nbertindak sebagai wali.\nPasal 6.\nJika seseorang penderita diharuskan dirawat disebuah tempat\nperawatan, maka dilihat dari sudut hukum hak kemerdekaan\n(kebebasan) bergerak\nsipenderita dibatasi. Perbuatan demikian\nadalah suatu perbuatan pidana, kecuali jika pembatasan kebebasan\nbergerak itu berdasarkan\nsesuatu Undang-undang.\nMaka oleh sebab itu seorang penderita hanya dapat dirawat jika\nada keterangan dokter (laporan Polisi/Kepala Pamong-Praja dan Hakim\nPengadilan Negeri).\nBerdasarkan Undang-undang ini dokter yang menempatkan seorang\npenderita dalam sebuah tempat perawatan, sehingga ia membatasi hak\nkebebasan\nbergerak sipenderita, tidak melakukan suatu perbuatan\npidana.\nSeorang dokter yang, mengharuskan seorang penderita di- rawat\ndisebuah Rumah Sakit Jiwa dengan menyalah gunakan kedudukan atau\nkeahliannya\ndapat dihukum menurut Kitab Undang-undang Hukum Pidana\n(pasal 333 dan seterusnya).\nUntuk menetapkan apakah seorang penderita penyakit jiwa harus\ndirawat dan diobati disebuah tempat perawatan, harus ada surat\nketerangan\ndokter: keterangan dokter itu menerangkan hasil\npemeriksaan dan pendapatnya perihal sipenderita. Menurut pasal 11\nMenteri Kesehatan\nmelakukan pengawasan terhadap penyelenggaraan\npelaksanaan Undang-undang ini. untuk memperlindungi kepentingan\nsipenderita, Menteri\nKesehatan mengawasi juga hasil pemeriksaan dan\npendapat dokter tersebut.\nDemi ketertiban, keamanan dan perikemanusiaan, petugas yang\ntersebut dalam pasal 5 ayat (1) sub d berkewajiban dan bertanggung\njawab\natas terlaksananya perawatan dan pengobatan penderita.\nPasal 7.\nMengingat ketentuan dalam pasal 1, dokter yang dimaksud dalam\npasal 6 menyatakan, bahwa seseorang adalah penderita penyakit jiwa\ndan\noleh karenanya ia perlu dirawat disuatu tempat perawatan.\nUntuk menghindarkan keragu-raguan atas kebenaran pernyataan\ndokter tersebut diatas, Menteri Kesehatan dapat mendengar pendapat\npara\nahli dalam hal itu.\nPasal 8.\n1. Jika disesuatu perkara pidana terdapat seseorang yang\nmemberikan kesan tidak berpikir sehat, sehingga pada hakim timbul\ndugaan\nbahwa ia seorang penderita penyakit jiwa maka Hakim tersebut\ndapat meminta pendapat seorang dokter. Orang itu dikirimkan kepada\nseorang\ndokter,dokter tersebut selekas- lekasnya memberikan\npendapatnya tentang sipenderita. Berhubung dengan sifatnya penyakit\njiwa, ada\nkalanya sipenderita harus diobservasi, dan observasi ini\nmeminta waktu, yang ditetapkan selama-lamanya 3 bulan.\n2 dan 3. Cukup jelas.\nPasal 9.\n1. Jika ternyata bahwa seseorang penderita penyakit jiwa tak\ndapat dipertanggungjawabkan menguasai harta bendanya, karena ia\nmerusak,\nmembahayakan keadaan disekitarnya dan lain-lain, maka\nharta benda penderita dilindungi oleh hukum; dengan pasal ini\nperlindungan\nhak milik sipenderita diserahkan kepada Hakim\nHakim pengadilan Negeri seyogyanya minta pertimbangan kepada\ninstansi-instansi setempat seperti peradilan Agama atau badan-badan\nlain\nyang dianggap perlu oleh Hakim Pengadilan Negeri dalam hal\npengelolaan harta-benda dengan pengetahuan/persetujuan ahli waris\nyang\nbersangkutan.\n2 dan 3. Cukup jelas. -\nPasal 10.\nUsaha-usaha lebih lanjut dari Pemerintah bagi penderita yang\ntelah mendapat perawatan dan pengobatan meliputi penyaluran,\npenempatan,\nrehabilitasi dan bimbingan bekas penderita dalam\nmasyarakat.\nUsaha swasta dalam hal ini memerlukan bantuan dari Pemerintah.\nPenyelenggaraan ketentuan ini memerlukan juga kerjasama antara\npelbagai\ninstansi-instansi Pemerintah.\nPasal 11.\n1. Pelaksanaan pekerjaan-pekerjaan dalam beraneka usaha demi\nkepentingan kesehatan jiwa, perawatan-pengobatan penyakit jiwa dan\npenampungan\nbagi penderita yang termasuk dalam pasal ini diawasi\noleh Menteri Kesehatan.\nPemusatan pengawasan pada Menteri Kesehatan ini melekat pada\npertanggungan jawabnya untuk memelihara dan mempertinggi derajat\nkesehatan\nrakyat dan Negara.\n2. Lihat penjelasan Pasal 3 sub e.\nPasal 12 s/d 14.\nCukup jelas.\n--------------------------------\nCATATAN\nKutipan: LEMBARAN NEGARA DAN TAMBAHAN LEMBARAN NEGARA TAHUN 1966\nYANG TELAH DICETAK ULANG"
+   }
+  }
+ ]
+}

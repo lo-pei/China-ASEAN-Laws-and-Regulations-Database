@@ -1,0 +1,522 @@
+{
+ "id": "ID-H196",
+ "title": {
+  "zh": "高等教育法",
+  "en": "Law on Higher Education",
+  "id": "PERGURUAN TINGGI.",
+  "orig": "PERGURUAN TINGGI.",
+  "vi": "Luật về Giáo dục Đại học",
+  "th": "พระราชบัญญัติว่าด้วยการอุดมศึกษา",
+  "ms": "Akta tentang Pendidikan Tinggi"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02a",
+ "language": "id",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "1961",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "-",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 30,
+ "chars": 30691,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": null
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\01_宪法与基础法\\印尼_WLD_1961_PERGURUAN TINGGI..txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 37 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H196-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 1.\nPerguruan Tinggi adalah lembaga ilmiah yang mempunyai tugas\nmenyelenggarakan pendidikan dan pengajaran di atas perguruan\ntingkat menengah,\ndan yang memberikan pendidikan dan pengajaran\nberdasarkan kebudayaan kebangsaan Indonesia dan dengan cara\nilmiah."
+   }
+  },
+  {
+   "id": "ID-H196-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 2.\nPerguruan Tinggi pada umumnya bertujuan:\n(1) membentuk manusia susila yang berjiwa Pancasila dan\nbertanggung-jawab akan terwujudnya masyarakat sosialis Indonesia\nyang adil\ndan makmur, materiil dan spirituil:\n(2) menyiapkan tenaga yang cakap untuk memangku jabatan yang\nmemerlukan pendidikan tinggi dan yang cakap berdiri sendiri dalam\nmemelihara\ndan memajukan ilmu pengetahuan;\n(3) melakukan penelitian dan usaha kemajuan dalam lapangan ilmu\npengetahuan, kebudayaan dan kehidupan kemasyarakatan."
+   }
+  },
+  {
+   "id": "ID-H196-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 3.\nPenyelenggaraan Perguruan Tinggi dilakukan oleh :\na. Pemerintah\nb. Badan hukum Swasta."
+   }
+  },
+  {
+   "id": "ID-H196-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 4.\nKebebasan ilmiah dan kebebasan mimbar pada Perguruan Tinggi\ndiakui dan dijamin sepanjang. tidak bertentangan dengan serta\nmengindahkan\ndasar dan garis-garis besar haluan Negara."
+   }
+  },
+  {
+   "id": "ID-H196-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 5.\nHak berorganisasi bagi mahasiswa, pegawai dan pengajar dalam\nlingkungan Perguruan Tinggi diakui dan pelaksanaannya dapat diatur\ndengan\nPeraturan Pemerintah.\nBAB II\nBENTUK, SUSUNAN DAN TUGAS."
+   }
+  },
+  {
+   "id": "ID-H196-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 6.\nPerguruan Tinggi dapat berbentuk :\n1. Universitas\n2. Institut\n3. Sekolah Tinggi\n4. Akademi\n5. Bentuk lain yang ditetapkan dengan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H196-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 7.\n(1) Universitas tersusun atas dasar keseluruhan dan kesatuan\nilmu pengetahuan dan terbagi atas sekurang-kurangnya 4 golongan\nfakultas\nyang meliputi ilmu agama/kerokhanian, ilmu kebudayaan,\nilmu sosial, ilmu eksakta dan teknik.\n(2) Golongan fakultas ilmu agama/kerokhanian terdiri atas:\na. fakultas ilmu agama\nb. fakultas ilmu jiwa.\n(3) Golongan ilmu kebudayaan terdiri atas :\na. fakultas sastra\nb. fakultas sejarah\nc. fakultas ilmu pendidikan\nd. fakultas filsafah.\n(4) Golongan fakultas ilmu sosial terdiri atas :\na. fakultas hukum\nb. fakultas ekonomi\nc. fakultas sosial politik\nd. fakultas ketatanegaraan dan ketataniagaan.\n(5) Golongan fakultas ilmu eksakta dan teknik terdiri atas :\na. fakultas ilmu hayat\nb. fakultas kedokteran\nc. fakultas kedokteran gigi\nd. fakultas farmasi\ne. fakultas kedokteran hewan\nf. fakultas pertanian\ng. fakultas ilmu pasti dan ilmu alam\nh. fakultas teknik\ni. fakultas geologi\nj. fakultas oceanografi/oceanologi\nTGPT NAME=\"ps7(6)\">(6) Fakultas-fakultas lain dapat dibentuk\ndengan Peraturan Pemerintah dengan mengingat keperluan masyarakat\ndan perkembangan ilmu pengetahuan.\n(7) Untuk kepentingan pendidikan dan pengajaran maka dua\nfakultas atau lebih dapat dijadikan gabungan fakultas, sedang satu\nfakultas\ndapat dipecah menjadi dua fakultas atau lebih.\n(8) Setiap pendirian universitas setelah berlakunya\nUndang-undang ini, sedikit-dikitnya terdiri dari tiga fakultas\ndimana dua diantaranya\nharus dari ilmu alam/pasti/biologi,\nsedangkan yang lain dapat dari golongan fakultas lainnya.\n(9) Penyelenggaraan fakultas ilmu agama diatur dengan Peraturan\nPemerintah."
+   }
+  },
+  {
+   "id": "ID-H196-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 8.\n(1) Institut memberi pendidikan dan pengajaran tinggi serta\nmelakukan penelitian dalam beberapa cabang ilmu pengetahuan yang\nsejenis.\n(2) Sekolah Tinggi memberi pendidikan dan pengajaran tinggi\nserta melakukan penelitian dalam satu cabang ilmu pengetahuan.\n(3) Akademi memberi pendidikan dan pengajaran tinggi yang\nditujukan kepada keahlian khusus.\nBAB III\nTINGKAT DAN SUSUNAN PELAJARAN, UJIAN DAN GELAR."
+   }
+  },
+  {
+   "id": "ID-H196-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 9.\n(1) Tingkat-tingkat pelajaran pada Perguruan Tinggi diatur\ndengan Peraturan Pemerintah.\n(2) a. Pada Perguruan Tinggi baik negeri maupun swasta diberikan\nPancasila dan Manifesto Politik Republik Indonesia sebagai mata\npelajaran.\nb. Pada Perguruan Tinggi Negeri diberikan pendidikan agama sebagai\nmata pelajaran, dengan pengertian bahwa mahasiswa berhak tidak\nikut-serta, apabila menyatakan keberatannya.\n(3) Pelaksanaan ayat (2) sub a dan b diatur dengan Peraturan\nPemerintah.\n(4) Susunan mata pelajaran, penyelenggaraan studium henerale dan\nujian pada Perguruan Tinggi diatur dengan Peraturan Menteri.\n(5) Perguruan Tinggi mengusahakan terselenggaranya studi\nterpimpin."
+   }
+  },
+  {
+   "id": "ID-H196-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 10.\n(1) Kepada lulusan ujian Perguruan Tinggi diberikan gelar\nperguruan tinggi menurut tingkat kebulatan pelajarannya.\n(2) Gelar ilmiah doktor diberikan kepada lulusan ujian perguruan\ntinggi setelah menempuh promosi dengan membuat karya ilmiah yang\nditerima baik oleh suatu universitas.\n(3) Gelar dokter honoris causa dapat diberikan kepada\norang-orang yang dianggap telah mempunyai jasa yang luar biasa\nterhadap ilmu\npengetahuan dan umat manusia oleh suatu\nuniversitas.\n(4) Sebutan, pemakaian, penyeragaman dan perlindungan\ngelar-gelar yang termaksud dalam pasal ini diatur dengan Peraturan\nPemerintah\ndengan ancaman pidana terhadap pelanggarannya.\nBAB IV\nKELENGKAPAN PERGURUAN TINGGI."
+   }
+  },
+  {
+   "id": "ID-H196-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 11.\n(1) Pengajar pada Perguruan Tinggi terdiri atas pengajar biasa\ndan pengajar luar biasa.\n(2) Pengajar biasa adalah pegawai tetap pada Perguruan Tinggi,\nsedang pengajar luar biasa adalah mereka yang tidak mempunyai\nkedudukan\ntersebut tadi.\n(3) Pengajar biasa digolongkan dalam kedudukan guru Besar,\nLektor Kepala, Lektor, Lektor Muda, sedang pengajar luar biasa\nberkedudukan\nsebagai Guru Besar luar biasa atau pengajar luar\nbiasa.\n(4) Pada Universitas dan institut dapat diangkat Guru Besar\nPenelitian.\n(5) Syarat-syarat untuk menjadi pengajar pada Perguruan Tinggi\nialah keahlian, berjiwa Pancasila dan Manifesto Politik Republik\nIndonesia,\ncakap dan berbudi tinggi dan untuk menjadi Guru Besar\nselain syarat-syarat tersebut harus dipenuhi pula syarat karya\nilmiah atau\nspesialisasi, yang diatur lebih lanjut dengan Peraturan\nPemerintah.\n(6) Pengajar biasa dan luar biasa yang mempunyai kedudukan Guru\nBesar, berhak atas sebutan jabatan universitar Profesor.\n(7) Pemakaian sebutan profesor diatur dengan Peraturan\nPemerintah, dengan ancaman pidana terhadap pelanggarannya."
+   }
+  },
+  {
+   "id": "ID-H196-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 12.\n(1) Universitas/Institut dipimpin oleh Presiden\nUniversitas/Institut yang dalam segala segi kedudukannya, baik yang\nbersifat penyelenggaraan\npendidikan maupun tata-usaha, didampingi\noleh Senat Universitas/Institut atas dasar musyawarah.\n(2) Sekolah Tinggi dipimpin oleh Ketua Sekolah Tinggi yang\ndidampingi oleh Senat Sekolah Tinggi."
+   }
+  },
+  {
+   "id": "ID-H196-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 13.\n(1) Pada Perguruan Tinggi dapat diadakan sebuah Dewan\nPenyantun.\n(2) Dewan Penyantun mempunyai tugas membantu pimpinan Perguruan\nTinggi terutama dalam hal :\na. menjaga dan memelihara hubungan baik antara masyarakat,\ninstansi-instansi Pemerintah dengan Perguruan Tinggi.\nb. membantu Perguruan Tinggi dalam mengatasi\nkesulitan-kesulitan.\n(3) a. Dewan Penyantun dapat meminta laporan/keterangan kepada\nPimpian Perguruan Tinggi dan memberikan pendapat atau\npertimbangannya\natas kehendak sendiri atau atas permintaan Pimpinan\nPerguruan Tinggi.\nb. Ketua, Wakil Ketua dan para Anggauta Dewan Penyantun setiap\nwaktu dapat mengunjungi upacara-upacara, rapat-rapat Badan\nKelengkapan\ndan pelajaran-pelajaran dengan sepengetahuan Pimpinan\nPerguruan Tinggi."
+   }
+  },
+  {
+   "id": "ID-H196-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 14.\nSetiap kali dianggap perlu, Menteri dapat mengadakan pertemuan\ndengan para Pimpinan Perguruan Tinggi."
+   }
+  },
+  {
+   "id": "ID-H196-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 15.\n(1) Dilingkungan Perguruan Tinggi dapat diadakan Badan\nKekeluargaan Perguruan Tinggi yang anggauta-anggautanya terdiri\natas wakil-wakil\npengajar, pegawai dan mahasiswa yang bertugas\nmembantu melancarkan tugas-tugas Perguruan Tinggi dalam bidang\ntata-usaha dan kesejahteraan\nsosial.\n(2) Badan tersebut pada ayat (1) diatur lebih lanjut oleh\nMenteri."
+   }
+  },
+  {
+   "id": "ID-H196-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 16.\n(1) Pada Perguruan Tinggi dapat diadakan lembaga-lembaga\npenelitian ilmiah.\n(2) Tugas lembaga penelitian ilmiah sebagai yang dimaksud pada\nayat (1) adalah usaha serta kegiatan ilmiah untuk memajukan dan\nmengembangkan\nilmu pengetahuan, kebudayaan serta kehidupan\nkemasyarakatan, yang ditujukan untuk kepentingan Negara dan\nBangsa.\n(3) Penelitian dilakukan oleh para pengajar, mahasiswa dan\ntenaga ilmiah lainnya.\n(4) Dana dan hal-hal lain yang bersangkutan dengan usaha\npenelitian pada perguruan Tinggi diatur dengan Peraturan\nPemerintah.\nBAB V.\nKEMAHASISWAAN"
+   }
+  },
+  {
+   "id": "ID-H196-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB V."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 17.\n(1) Pelajar pada Perguruan Tinggi disebut mahasiswa.\n(2) Kedudukan pendengar pada Perguruan Tinggi diatur dengan\nPeraturan Menteri.\n(3) Yang dapat menjadi mahasiswa ialah seseorang yang berijazah\nSekolah Menengah tingkat Atas, dan pelaksanaannya diatur dengan\nPeraturan\nMenteri.\n(4) Syarat-syarat untuk menjadi mahasiswa dengan menempuh\nkoloqium doktum diatur dengan Peraturan Menteri.\n(5) Syarat-syarat pendaftaran dan penerimaan dan segala sesuatu\nyang timbul daripada ini diatur dengan Peraturan Menteri.\n(6) Kepindahan mahasiswa dari satu Perguruan Tinggi ke-Perguruan\nTinggi lain atau kepindahan antar fakultas baik yang sejenis\nataupun\ntidak, diatur dengan Peraturan Menteri.\nBAB VI.\nPERGURUAN TINGGI NEGERI"
+   }
+  },
+  {
+   "id": "ID-H196-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB VI."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 18.\n(1) Perguruan Tinggi Negeri ialah perguruan tinggi yang dimiliki\ndan diselenggarakan oleh Negara.\n(2) Pendirian suatu Perguruan Tinggi Negeri dilakukan oleh\nPresiden Republik Indonesia."
+   }
+  },
+  {
+   "id": "ID-H196-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB VI."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 19.\n(1) Perguruan Tinggi yang diselenggarakan oleh Departemen lain\ndari Departemen Perguruan Tinggi dan Ilmu Pengetahuan bertujuan\npula\nmemberi pendidikan dan melakukan penelitian dalam suatu bidang\nuntuk mencukupi keperluan suatu jawatan tertentu.\n(2) Penyelenggaraan tehnis Perguruan Tinggi yang dimaksud dalam\nayat (1) dilakukan oleh Departemen yang bersangkutan, sedangkan\nmengenai\nsegi-segi pendidikan umum serta kelengkapan dalam\ntenaga-tenaga pengajar Perguruan Tinggi tersebut dipimpin dan\ndiawasi oleh Menteri.\n(3) Pelaksanaan penelitian sebagai dimaksud dalam ayat (1)\ndiselenggarakan sesuai dengan Ketetapan Majelis Permusyawaratan\nRakyat\nSementara Nomor II/MPRS/1960 BAB II, pasal 2 ayat (8)\nLampiran A BAB I angka 32 dan 33."
+   }
+  },
+  {
+   "id": "ID-H196-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB VI."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 20.\n(1) Pengangkatan, pemindahan dan pemberhentian pengajar\nPerguruan Tinggi Negeri diatur dengan Peraturan Pemerintah.\n(2) Presiden Universitas/Institut Negeri diangkat dan\ndiberhentikan oleh Presiden Republik Indonesia atas usul Menteri\nsetelah mendengar\npertimbangan Senat, dan memangku jabatan selama\nmasa empat tahun dan jika perlu dapat diangkat kembali.\n(3) Ketua Sekolah Tinggi Negeri dan Akademi Negeri dalam\nlingkungan suatu Departemen lain dari Departemen Perguruan Tinggi\ndan Ilmu\npengetahuan diangkat dan diberhentikan oleh Menteri\nPerguruan Tinggi dan Ilmu Pengetahuan atas usul Menteri yang\nbersangkutan.\n(4) Sekretaris Senat Universitas/Institut Negeri diangkat dan\ndiberhentikan oleh Menteri atas usul Senat.\n(5) Ketua dan Sekretaris Fakultas diangkat dan diberhentikan\noleh Menteri atas usul Senat untuk masa jabatan sedikit-dikitnya\ndua\ntahun.\n(6) Ketua, Wakil Ketua dan para Anggauta Dewan Penyantun\ndiangkat dan diberhentikan oleh Menteri."
+   }
+  },
+  {
+   "id": "ID-H196-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB VI."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 21.\n(1) Hal-hal lain mengenai Presiden Universitas/Institut, Ketua\nSekolah Tinggi/Akademi dan Senat diatur dengan Peraturan\nPemerintah.\n(2) Hal-hal lain mengenai penyelenggaraan Perguruan Tinggi\nNegeri yang tidak diatur dengan Peraturan Pemerintah, diatur dengan\nPeraturan\nMenteri.\n(3) Hal-hal lain mengenai penyelenggaraan tehnis Perguruan\nTinggi yang tidak diatur dengan Peraturan Pemerintah atau Peraturan\nMenteri\ndapat diatur sendiri oleh Perguruan Tinggi yang\nbersangkutan.\nBAB VII\nPERGURUAN TINGGI SWASTA."
+   }
+  },
+  {
+   "id": "ID-H196-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 22.\nUndang-undang ini mengakui hak warganegara penduduk untuk\nmendirikan Perguruan Tinggi Swasta.\nTGPT NAME=\"ps23\">Pasal 23.\nUntuk menyelenggarakan Perguruan Tinggi Swasta pendiri\nberkewajiban selambat-lambatnya dalam waktu enam bulan terhitung\nmulai Perguruan\nTinggi tersebut didirikan memenuhi syarat-syarat\ndibawah ini :\na. memberitahukan tentang berdirinya Perguruan Tinggi Swasta itu\nkepada Menteri dengan menyampaikan akte notaris pendirian badan\nhukum\nyang menyelenggarakannya, anggaran dasar, harta kekayaan\ndan/atau sumber pendapatan yang diperuntukkan penyelenggaraan\nPerguruan\nTinggi tersebut, rencana pelajaran dan daftar tenaga\npengajar yang memuat riwayat pendidikan dan pekerjaan masing-masing\npengajar\nserta pelajaran yang diberikannya.\nb. dengan sungguh-sungguh menyatakan bahwa Perguruan Tinggi Swasta\ntersebut berdasarkan Pancasila dan Manifesto Politik Republik\nIndonesia."
+   }
+  },
+  {
+   "id": "ID-H196-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 24.\n(1) Untuk memberikan bimbingan kepada dan pengawasan atas\npenyelenggaraan Perguruan Tinggi Swasta, Pemerintah mengadakan\nLembaga Perguruan\nTinggi Swasta (disingkat L.P.T.S.)\n(2) Ketua, Wakil Ketua dan para Anggauta Lembaga Perguruan\nTinggi Swasta diangkat dan diberhentikan oleh Menteri, dan terdiri\nsegolongan\natas pejabat Pemerintah dan segolongan atas pejabat dari\nlingkungan Perguruan Tinggi Swasta.\n(3) Tugas dan tata-tertib kerja Lembaga Perguruan Tinggi Swasta\ndiatur lebih lanjut dengan Peraturan Menteri."
+   }
+  },
+  {
+   "id": "ID-H196-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 25.\nMenurut tingkat kedudukannya, Perguruan Tinggi Swasta terbagi\natas :\na. Perguruan Tinggi Terdaftar\nb. Perguruan Tinggi Diakui\nc. Perguruan Tinggi Disamakan."
+   }
+  },
+  {
+   "id": "ID-H196-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 26.\n(1) Perguruan Tinggi Swasta yang telah memenuhi syarat-syarat\nseperti termaksud dalam pasal 23 tergolong Perguruan Tinggi\nTerdaftar.\n(2) Mahasiswa dari Perguruan Tinggi Terdaftar diperbolehkan\nmenempuh ujian negeri."
+   }
+  },
+  {
+   "id": "ID-H196-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 27.\n(1) Atas usul Lembaga Perguruan Tinggi Swasta, Menteri dapat\nmenunjuk :\na. Suatu Perguruan Tinggi Terdaftar menjadi Perguruan Tinggi\nDiakui.\nb. Suatu Perguruan Tinggi Diakui menjadi Perguruan Tinggi\nDisamakan.\n(2) Syarat-syarat untuk penunjukan seperti termaksud dalam ayat\n(1) diatur dengan Peraturan Pemerintah.\n(3) Perguruan Tinggi Diakui berhak menyelenggarakan ujian\nsendiri dengan pedoman dan pengawasan Menteri, sedang ijazahnya\nmempunyai\nnilai sama dengan ijazah Perguruan Tinggi Negeri.\n(4) Perguruan Tinggi Disamakan berhak menyelenggarakan ujian dan\npromosi sendiri dengan akibat yang sama dengan ujian dan promosi\npada Perguruan Tinggi Negeri.\n(5) Hal penunjukan suatu Perguruan Tinggi Swasta ke-kedudukan\nsemula diatur dengan Peraturan Pemerintah.\nTGPT NAME=\"ps28\">Pasal 28.\nAtas laporan dan usul Lembaga Perguruan Tinggi Swasta, Menteri\ndapat menutup suatu Perguruan tinggi Swasta yang menyalahi Dasar\ndan\nhaluan Negara atau tidak mempunyai kemampuan\nmateriil/personil/spirituil untuk menyelenggarakan pendidikan dan\npengajaran tinggi\nsebagai yang dimaksud dalam Undang-undang\nini.\nTGPT NAME=\"ps29\">Pasal 29.\n(1) Kepada Perguruan Tinggi Swasta diberikan subsidi dan/atau\ntunjangan lain.\n(2) Pemberian subsidi dan/atau tunjangan lain termaksud dalam\nayat (1) diatur dengan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H196-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 30.\nDengan persetujuan pihak-pihak yang bersangkutan dan setelah\nmendengar pendapat/pertimbangan Lembaga Perguruan Tinggi Swasta,\nMenteri\ndapat menggabungkan beberapa Perguruan Tinggi Swasta.\nBAB VIII.\nKETENTUAN LAIN."
+   }
+  },
+  {
+   "id": "ID-H196-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB VIII."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 31.\nYang dimaksud dengan \"Menteri\" dalam Undang-undang ini, ialah\nMenteri Perguruan Tinggi dan Ilmu Pengetahuan.\nTGPT NAME=\"ps32\">Pasal 32.\n(1) Peraturan Pemerintah dapat menetapkan ancaman pidana\nterhadap pelanggaran kewajiban termaktub dalam pasal-pasal 23 dan\n35.\n(2) Menteri dapat menutup Perguruan Tinggi yang\nbersangkutan.\nTGPT NAME=\"ps33\">Pasal 33.\n(1) Peraturan Pemerintah dapat menetapkan ancaman pidana\nterhadap pelanggaran perintah penutupan sebagai yang dimaksud dalam\npasal\n28 dan pasal 32 ayat (2).\n(2) Pimpinan Perguruan Tinggi Swasta yang bersangkutan\nbertanggung-jawab atas pelanggaran yang dimaksud dalam ayat\n(1).\nTGPT NAME=\"ps34\">Pasal 34.\n(1) Tindak pidana yang dimaksud dalam pasal 10 ayat (4), pasal\n11 ayat (7) dan pasal 32 ayat (1) adalah pelanggaran.\n(2) Tindakan pidana yang dimaksud dalam pasal 33 ayat (1) adalah\nkejahatan.\nBAB IX.\nKETENTUAN PERALIHAN.\nTGPT NAME=\"ps35\">Pasal 35.\nPerguruan Tinggi Swasta yang sudah ada pada saat Undang-undang\nini mulai berlaku, dalam waktu satu tahun terhitung mulai saat\ntersebut,\nharus memenuhi/melengkapi syarat-syarat sebagai yang\ndimaksud dalam pasal 23."
+   }
+  },
+  {
+   "id": "ID-H196-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB IX."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 36.\nSemua peraturan dan ketentuan tentang pendidikan dan pengajaran\ntinggi yang sudah ada sebelum saat Undang-undang ini mulai berlaku\ndan kemudian tidak dibatalkan oleh Undang-undang tersebut, terus\nberlaku selama dan sekedar diperlukan bagi penyelenggaraan dan\nkelancaran\nPerguruan Tinggi dan tidak bertentangan dengan\nperaturan-peraturan yang berlaku kemudian.\nBAB X\nPENUTUP"
+   }
+  },
+  {
+   "id": "ID-H196-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 37.\nUndang-undang ini mulai berlaku pada hari diundangkan.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan\npengundangan Undang-undang ini dengan penempatan dalam Lembaran\nNegara\nRepublik Indonesia.\nDisahkan di Jakarta\npada tanggal 4 Desember 1961.\nPresiden Republik Indonesia,\nSOEKARNO.\nDiundangkan di Jakarta\npada tanggal 4 Desember 1961,\nSekretaris Negara,\nMOHD. ICHSAN.\nPENJELASAN\nATAS\nUNDANG-UNDANG NOMOR 22 TAHUN 1961\nTENTANG\nPERGURUAN TINGGI\nUMUM\nSemenjak kita memproklamirkan kemerdekaan, maka khusus\ndilapangan pembangunan pendidikan, terutama pendidikan tinggi, kita\ntelah berusaha\ndengan sekuat tenaga untuk sejauh mungkin\nmendasarkan usaha kita pada suatu dasar yang bersifat nasional.\nTetapi berhubung dengan\nberbagai kesulitan dan dengan timbulnya\nberbagai pendapat mengenai pelaksanaan dan penertiban hal-hal\ntentang Perguruan Tinggi, maka\nterpaksa bagian besar daripada usaha\ndilapangan Perguruan Tinggi dilanjutkan atas dasar\nperaturan-peraturan dari jaman Hindia Belanda\ndan\nperaturan-peraturan Pemerintah yang dibuat secara khusus untuk\nmasing-masing Universitas dan atau Fakultas.\nMaka didalam masa pertumbuhan pendidikan tinggi selama 15 tahun\nterakhir ini, sudah berkali-kali diusahakan perancangan sebuah\nUndang-undang\ntentang Perguruan Tinggi, guna penertiban,\nkeseragaman, kelancaran segala sesuatu dibidang pendidikan dan\npengajaran tinggi khususnya\ndan untuk kepentingan perkembangan\ndilapangan kebudayaan dan ilmu pengetahuan umumnya.\nSejak pertengahan tahun 1959 dimulai perkembangan baru dibidang\npolitik yakni dengan dikeluarkannya Dekrit Presiden tanggal 5 Juli\n1959 tentang Kembali ke Undang-undang Dasar 1945. Kemudian Dekrit\ntersebut disusul dengan Manifesto Politik Republik Indonesia\nsebagai\ngaris-garis besar haluan Negara, yang dikuatkan oleh\nKetetapan-ketetapan Majelis Permusyawaratan Rakyat Sementara Nomor\nI/MPRS/1960\ndan Nomor II/MPRS/1960. Yang tersebut belakangan itu\nmengenai garis-garis besar pola pembangunan nasional semesta\nberencana 1961-1969.\nHal yang diuraikan diatas mendorong Pemerintah untuk mengajukan\nsebuah rancangan undang-undang tentang, ketentuan- ketentuan pokok\nmengenai Perguruan Tinggi yang maksudnya menjadi landasan bagi\npembentukan kader-kader ahli yang akan menjadi pelaksana utama\npembangunan\nsemesta berencana menuju kemasyarakatan sosialis\nIndonesia yang adil dan makmur.\nPerlu diperhatikan bahwa menurut sistematik perundang- undangan\nUndang-undang tentang Perguruan Tinggi adalah kelanjutan dari\nUndang-undang\nyang dimaksudkan sebagai peraturan dasar bagi\nperguruan yang diselenggarakan di Negara kita ini. Berhubung dengan\nitu maka dalam\nbeberapa hal dapat ditunjuk kepada Undang-undang\n(Republik Indonesia dulu) Nomor 4 tahun 1950 tentang Dasar-dasar\npendidikan dan\npengajaran disekolah, misalnya tentang sifat\nnasional dan sifat demokratis dari perguruan pada umumnya dan\nPerguruan Tinggi pada\nkhususnya.\nAkhirnya telah menjadi kenyataan bahwa sejak pertengahan tahun\n1959 telah jelas ideologi Negara Republik Indonesia, yaitu\nberdasarkan\nPancasila dan berpegangan pada Manifesto Politik menuju\nkemasyarakatan sosialis Indonesia yang adil dan makmur.\nBerhubung dengan itu tidak boleh dilupakan bahwa Perguruan Tinggi\nkita adalah alat revolusi yang mempunyai tugas pula: membentuk\nmanusia susila yang berjiwa Pancasila dan bertanggung jawab akan\nterwujudnya masyarakat sosialis Indonesia yang adil dan makmur\n(lihat\npasal 2 ayat 1).\nSelanjutnya adalah hal yang wajar jika pada Perguruan Tinggi\ndiberikan pelajaran dalam mata pelajaran Pancasila dan Manifesto\nPolitik\nRepublik Indonesia (lihat pasal 9 ayat (2).\nSewajarnya pula jika syarat untuk menjadi pengajar pada Perguruan\nTinggi ialah \"berjiwa Pancasila dan Manifesto Politik Republik\nIndonesia\" disamping syarat keahlian, kecakapan dan budi tinggi\n(lihat pasal 11 ayat (5).\nAkhirnya dapat diharapkan bahwa Perguruan Tinggi, negeri maupun\nswasta, \"berdasarkan Pancasila dan Manifesto Politik Republik\nIndonesia\"\n(lihat pasal 23 sub (b), pun tidak dapat dibenarkan\npenyelewenangan dari dasar dan haluan Negara (lihat pasal 28).\nYang dimaksudkan dalam Undang-undang ini dengan perkataan \"berjiwa\nPancasila\" dan \"berdasarkan Pancasila\" ialah bukan saja bahwa\nkegiatan-kegiatan Perguruan Tinggi dan pengajarannya tidak boleh\nbertentangan dengan Pancasila dan Manifesto Politik Republik\nIndonesia,\nakan tetapi lebih dari itu dan lebih dari hal\npenyesuaian saja dengan dasar dan haluan Negara Republik Indonesia\nmelainkan bahwa\ndalam penyelenggaraan pendidikan pengajaran pada\nPerguruan Tinggi yang bersangkutan itu hendaklah ikut\nmemperjuangkan ideologi Negara\nRepublik Indonesia.\nPASAL DEMI PASAL:\nPasal 1\nDidalam sistim pendidikan dan pengajaran Republik Indonesia\ndikenal tiga tingkat; rendah, menengah dan tinggi. Yang tersebut\nterakhir\nini diselenggarakan oleh Perguruan Tinggi atas dasar\nkebudayaan bangsa Indonesia dan \"dengan cara ilmiah\" Yang dimaksud\ndengan \"dengan\ncara ilmiah\" ialah bahwa penyelenggaraan pendidikan\ndan pengajaran tinggi meliputi semua cabang ilmu yang diberikan\nsecara luas dan\nmendalam.\nPasal 2\nPendidikan dan pengajaran tinggi merupakan suatu usaha utama\ndalam melengkapkan pembentukan pribadi manusia susila yang\nbertakwa.\nDengan demikian Perguruan Tinggi adalah satu tempat dimana\ndipusatkan pendidikan manusia Indonesia yang berjiwa Pancasila\nsebagai\npendukung dan pengembang kebudayaan Indonesia. Selain usaha\nkearah penyempurnaan pertumbuhan pribadi, tujuan Perguruan Tinggi\nmendidik\ntenaga yang cakap untuk memangku jabatan yang bersifat\nkepemimpinan dan sanggup mengembangkan swadaya bagi kemajuan ilmu\npengetahuan.\nSebagai suatu lembaga ilmiah, maka Perguruan Tinggi\nmelakukan penelitian dan usaha-usaha ilmiah lain untuk kemajuan\ndalam lapangan\nilmu pengetahuan dan kebudayaan, dengan pengertian\nbahwa segala sesuatu ditujukan untuk pengamalan kepada kehidupan\nmanusia dan masyarakat.\nPasal 3.\nYang dimaksud dengan \"Pemerintah\" ialah : baik Departemen\nPerguruan Tinggi dan Ilmu Pengetahuan, atau Departemen lain dalam\nlingkungan\nPemerintah Pusat maupun instansi Pemerintah\nSwatantra.\nBerdasarkan kebebasan kerokhanian, pihak swasta dapat\nmenyelenggarakan pendidikan dan pengajaran tinggi. Penyelenggaraan\noleh pihak\nswasta ini dalam kenyataannya sudah berlangsung sejak\nproklamasi kemerdekaan. Hal ini tidak mengurangi tugas Pemerintah\nuntuk memberi\npimpinan kepada Perguruan Tinggi Swasta serta\npengawasan atas penyelenggaraannya.\nPasal 4\nUndang-undang ini pada azasnya mengakui dan melindungi kebebasan\nseorang pengajar dan penyelidik ilmiah pada Perguruan Tinggi untuk\nmengajarkan, mengatakan dan mengadakan penelitian supaya dengan\ndemikian usaha dan kegiatannya mencapai taraf dan perkembangan yang\nsetinggi-tingginya dan sesempurna-sempurnanya. Tetapi seorang\npengajar atau penyelidik ilmiah sebagai manusia biasa dapat khilaf\nataupun ingkar, sehingga membahayakan ketertiban masyarakat/Negara,\nmaka perlu diadakan pembatasan atas kebebasan itu sedemikian\nrupa\nsehingga dijuruskan kepada satu-tujuan yang telah digariskan Negara\ndan diberikan dasar Pancasila sebagai dasar Negara. Latar\nbelakang\ndari pokok pikiran ini adalah pendapat serta pengakuan adanya\nkebebasan pribadi tetapi dijalankan dan disesuaikan dengan\nkepentingan dan tujuan dari pada Negara dan masyarakat umumnya,\nterutama terhadap mata pelajaran sosial dan kenegaraan.\nPasal 5\nHak berorganisasi ini didasarkan pada pasal 28 Undang- undang\nDasar.\nPasal 6\nDisini ditetapkan bentuk-bentuk yang memberikan ujud kepada\npendidikan dan pengajaran tinggi.\nPasal 7\nayat (1);\nDalam ayat ini diatur penggolongan dari ilmu pengetahuan. Setiap\ngolongan terdiri dari beberapa cabang ilmu pengetahuan yang\nsejenis.\nSetiap cabang ilmu pengetahuan diberikan kepada fakultas\nyang bersangkutan sedang Universitas adalah satu kesatuan\nfakultas-fakultas.\nAyat (2)\nLihat penjelasan ayat (9).\nAyat (3)\nTidak memerlukan penjelasan.\nAyat (4):\nPenyelenggaraan fakultas ketatanegaraan dan ketataniagaan\ndisesuaikan dengan Ketetapan Majelis Permusyawaratan Rakyat\nSementara\nII/MPRS/1960, lampiran A, pada bidang Pemerintah.\nAyat (5)\nTidak memerlukan penjelasan.\nAyat (6) dan ayat (7):\nKedua ayat ini membuka jalan bagi penampungan perkembangan ilmu\npengetahuan, kebudayaan dan keperluan masyarakat Indonesia dimasa\ndatang serta penampungan keadaan berhubung dengan efisiensi\ndan/atau spesialisasi.\nAyat (8):\nMemuat syarat (sesuai dengan Ketetapan Majlis Permusyawaratan\nRakyat Sementara) yang harus dipenuhi dalam mendirikan suatu\nUniversitas\nsesudah Undang-undang ini mulai berlaku.\nAyat (9):\nPemerintah dalam mengatur penyelenggaraan fakultas ilmu agama,\nberbuat sesuai dengan kehendak golongan agama yang bersangkutan,\ndengan mengindahkan saluran-saluran yang berlaku bagi\nfakultas-fakultas umumnya.\nPasal 8\nAyat (1)\nBerhubung dengan perkembangan ilmu pengetahuan sendiri serta\nkeperluan masyarakat akan efisiensi dan sepesialisasi dapat\ndiadakan\npula lembaga yang memberi pendidikan dan pengajaran tinggi\ndan melakukan penelitian dalam ilmu pengetahuan yang sejenis.\nLembaga\nini disebut Institut. Melihat sifatnya maka Institut itu\npada hakekatnya adalah sebuah Universitas.\nayat (2)\nSekolah Tinggi adalah sebuah lembaga pengajaran dan pendidikan\ntinggi yang berdiri sendiri, lepas dari pada hubungan organisatoris\ndengan sebuah Universitas dan melihat sifatnya Sekolah Tinggi\nadalah sebuah fakultas.\nayat (3)\nAkademi diadakan terutama untuk pendidikan praktis mendapat\ntenaga-tenaga ahli yang diperlukan dalam waktu yang selekas\nmungkin.\nPasal 9:\nayat (1)\nTidak memerlukan penjelasan.\nayat (2)\nTidak memerlukan penjelasan.\nayat (3)\nTidak memerlukan penjelasan;\nayat (4)\nManifesto Politik Republik Indonesia adalah salah satu pokok untuk\nstudium generale.\nayat (5)\nStudi terpimpin dilaksanakan setingkat demi setingkat\n(berangsur-angsur) sejalan dengan perbaikan dan kemajuan dalam\nperlengkapan\ndan kelengkapan bagi Perguruan Tinggi yang\nbersangkutan, berupa tenga pengajaran dan alat perlengkapan\npelajar, jaminan kesejahteraan\nmahasiswa dan lain sebagainya.\nPasal 10.\nayat (1)\nTidak memerlukan penjelasan.\nayat (2)\nTidak memerlukan penjelasan.\nayat (3)\nSeperti halnya dengan gelar-gelar universiter lain, maka umumnya\npemberian gelar doctor honoris causa diselenggarakan oleh\nuniversitas\nyang bersangkutan. Mengingat pasal 15 Undang- undang\nDasar Presiden RI. berhak juga memberi gelar-gelar doctor honoris\ncausa itu.\nayat (4)\nGelar-gelar yang dimaksud disini adalah gelar-gelar yang nasional.\nGelar doctor dan doctor honoris causa dapat dikecualikan, karena\ngelar-gelar tersebut bersifat internasional.\npasal 11 :\nayat (1) :\nTidak memerlukan penjelasan.\nayat (2)\nTidak memerlukan penjelasan.\nayat (3)\nTidak memerlukan penjelasan.\nayat (4)\nTidak memerlukan penjelasan.\nayat (5)\nPengajar pada suatu Perguruan Tinggi mempunyai suatu\ntanggung-jawab yang bertaat, karena ia diserahi pendidikan kader\npembangunan\nnasional. Karena itu seorang pengajar selain keahlian\ndan kecakapan harus memenuhi syarat \"berjiwa Pancasila dan\nManifesto Politik\nRepublik Indonesia dan berbudi tinggi\", sedang\nseorang Guru Besar harus mempunyai syarat karya-ilmiah atau\nspesialisasi yang diatur\nlebih lanjut dengan Peraturan\nPemerintah.\nPasal 12\nayat (1)\nSesuai dengan azas demokrasi terpimpin maka Presiden\nUniversitas/Institut berkedudukan sebagai tokoh pusat dan pemimpin\nutama. Pejabat\ntersebut didampingi oleh Senat, dengan pengertian\nbahwa kerja-sama antara Presiden dan Senat terutama dalam hal-hal\nyang penting,\nberdasarkan musyawarah. Presiden Universitas/Institut\ndalam menyelenggarakan pimpinan berwenang untuk mengadakan hubungan\ndengan\nPerguruan-perguruan Tinggi lain, dengan ketentuan bahwa\nafiliasi dengan luar negeri harus melalui Pemerintah cq Departemen\nLuar Negeri.\nBegitu pula penyelenggaraan tata-usaha dalam bidang keuangan,\nPimpinan Perguruan Tinggi mempunyai otonomi sesuai dengan Ketetapan\nM.P.R.S.\nayat (2)\nLihat pada penjelasan ayat (1).\nPasal 13 :\nTidak memerlukan penjelasan.\nPasal 14 :\nTidak memerlukan penjelasan.\nPasal 15:\nTidak memerlukan penjelasan.\nPasal 16:\nayat (1) :\nLembaga penelitian yang dimaksud disini khusus untuk keperluan\nPerguruan Tinggi dalam usaha-usaha mencapai tujuannya.\nayat (3) :\nYang dimaksud dengan tenaga ilmiah lainnya, tidak hanya mereka\nyang menjabat pegawai negeri atau yang bergelar universiter.\nPasal 17:\nayat (1) :\nTidak memerlukan penjelasan.\nayat (2) :\nTidak memerlukan penjelasan:\nayat (3) :\nYang termasuk Sekoah Menengah Tingkat Atas adalah baik yang\nbersifat umum maupun yang ditujukan kepada suatu kejuruan.\nayat (4) :\nTidak memerlukan penjelasan.\nayat (5) :\nTidak memerlukan penjelasan.\nayat (6) :\nTidak memerlukan penjelasan.\nPasal 18.\nTidak memerlukan penjelasan.\nPasal 19 :\nayat (1) :\nTidak memerlukan penjelasan.\nayat (2) :\nDepartemen lain dari Departemen Perguruan Tinggi dan Ilmu\nPengetahuan otonom dalam penyelenggaraan Perguruan Tinggi yang\ndiselenggarakannya\ndan yang umumnya bersifat kedinasan. Tetapi\ndisamping pendidikan tehnis menurut lapangannya masing-masing, maka\nuntuk membentuk sarjana\nlengkap dalam menuju tujuan Perguruan\nTinggi, maka adalah suatu keharusan mutlak bahwa pada mahasiswa\ndiberikan pula pendidikan ilmiah\numum. Maka sebab itu perlu adanya\npimpinan dan pengawasan dari departemen Perguruan Tinggi dan Ilmu\nPengetahuan dalam tata-pelajarannya\ndan pengangkatannya\ntenaga-tenaga-pengajar.\nayat (3) :\nTidak memerlukan penjelasan.\nPasal 20 :\nTidak memerlukan penjelasan.\nPasal 21 :\nayat (3) :\nDalam hal ini Pimpinan Perguruan Tinggi mempunyai otonomi.\nPasal 22:\nLihat penjelasan pada pasal 3.\nPasal 23 :\nUntuk menjaga supaya pertumbuhan Perguruan Tinggi Swasta\nberlangsung secara teratur dan jangan sampai merugikan masyarakat\nmaka ditetapkan\nkewajiban memenuhi syarat-syarat tersebut.\nPasal 24 :\nTidak memerlukan penjelasan.\nPasal 25 :\nTidak memerlukan penjelasan.\nPasal 26 :\nTidak memerlukan penjelasan.\nPasal 27 :\nayat (5) :\nAyat ini menunjuk kepada kemungkinan suatu Perguruan Tinggi\nDisamakan menjadi Perguruan Tinggi Diakui, atau suatu Perguruan\nTinggi\nDiakui menjadi Perguruan Tinggi Terdaftar.\nPasal 28 :\nTidak memerlukan penjelasan.\nPasal 29 :\nTidak memerlukan penjelasan.\nPasal 30 :\nPenggabungan dilakukan terutama untuk memperoleh efisiensi yang\nlebih besar.\nPasal 31 :\nTidak memerlukan penjelasan\nPasal 32 :\nTidak memerlukan penjelasan\nPasal 33 :\nTidak memerlukan penjelasan.\nPasal 34 :\nTidak memerlukan penjelasan.\nPasal 35.\nTidak memerlukan penjelasan.\nPasal 36.\nTidak memerlukan penjelasan.\nPasal 37.\nTidak memerlukan penjelasan.\n--------------------------------\nCATATAN\nDisetujui D.P.R.G.R. dalam rapat pleno terbuka ke-6 pada tanggal\n14 Nopember 1961, P.147/1961\nKutipan: LEMBARAN NEGARA DAN TAMBAHAN LEMBARAN NEGARA TAHUN 1961\nYANG TELAH DICETAK ULANG"
+   }
+  }
+ ]
+}

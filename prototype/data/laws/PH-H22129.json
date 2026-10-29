@@ -1,0 +1,92 @@
+{
+ "id": "PH-H22129",
+ "title": {
+  "zh": null,
+  "en": "Creating Additional Courts in Certain Cities and Municipalities",
+  "orig": "Creating Additional Courts in Certain Cities and Municipalities"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1975-06-03",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 723",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 5,
+ "chars": 1035,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_00723_1975_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 5 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_00723_1975_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22129-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Additional salas are hereby created in the municipal courts of the following municipalities,\nPresentAdditionalTotal\nValenzuela, Bulacan112\nMakati, Rizal134\nMalabon, Rizal112\nMarikina, Rizal112\nNavotas, Rizal112\nParañaque, Rizal123\nPasig, Rizal134\nLas Piñas, Rizal1 1 2"
+   }
+  },
+  {
+   "id": "PH-H22129-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Additional salas are likewise hereby created in the city of the following cities, namely:\nPresentAdditionalTotal\nBacolod City325\nCaloocan City224\nZamboanga City123\nQuezon City729"
+   }
+  },
+  {
+   "id": "PH-H22129-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "The additional courts herein created shall each be provided with the necessary personnel,\nequipment and facilities to enable them to function as soon as the judges therein are appointed."
+   }
+  },
+  {
+   "id": "PH-H22129-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "The sum of One million Six Hundred Thousand Pesos is hereby appropriated out of the general\nfunds in the National Treasury not otherwise appropriated and the release thereof is hereby ordered."
+   }
+  },
+  {
+   "id": "PH-H22129-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "text": {
+    "en": "All laws or provisions thereof inconsistent herewith are hereby repealed and/or modified\naccordingly.\nDone in the City of Manila, this 3rd day of June, in the year of Our Lord, nineteen hundred and seventy-five."
+   }
+  }
+ ]
+}

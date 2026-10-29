@@ -1,0 +1,62 @@
+{
+ "id": "PH-H16199",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Section Seven of Commonwealth Act Numbered Fifty-Seven as Amended By Commonwealth Act Numbered One Hundred Fifty-Eight.",
+  "orig": "An Act to Amend Section Seven of Commonwealth Act Numbered Fifty-Seven as Amended By Commonwealth Act Numbered One Hundred Fifty-Eight."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1939-06-18",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 489",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 730,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00489_1939_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00489_1939_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H16199-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section-seven of Commonwealth Act Numbered Fifty-seven, as amended by Commonwealth\nAct Numbered One hundred fifty-eight, is further amended to read as follows:\n\"Section 7. Relations between the City of Iloilo and the Provincial Government of Iloilo. - For election\npurposes, the City of Iloilo shall continue as part of the Second Assembly District of the province of iloilo.\nThe voters of said City of Iloilo shall take part in the election of the provincial officers of Iloilo, hut the latter\nshall have no jurisdiction over\" the City of Iloilo and die officers of the same, except as provided in sections\nnineteen and twenty hereof."
+   }
+  },
+  {
+   "id": "PH-H16199-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nEnacted, without Executive approval, June 18, 1939."
+   }
+  }
+ ]
+}

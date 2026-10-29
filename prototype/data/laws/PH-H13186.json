@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13186",
+ "title": {
+  "zh": null,
+  "en": "An Act Supplementary to Act Numbered Twenty-Four Hundred and thirty-One, Appropriating the Sum of Twenty-Five thousand Pesos for the Expenses of the Hospital Treatment, Subsistence, Transportation, and Allowances of VIolators of the Opium Law Sentenced to Imprisonment and Medical Treatment in Bilibid Prison, for the Fiscal Year Ending on December thirty-First, Nineteen Hundred and Fifteen.",
+  "orig": "An Act Supplementary to Act Numbered Twenty-Four Hundred and thirty-One, Appropriating the Sum of Twenty-Five thousand Pesos for the Expenses of the Hospital Treatment, Subsistence, Transportation, and Allowances of VIolators of the Opium Law Sentenced to Imprisonment and Medical Treatment in Bilibid Prison, for the Fiscal Year Ending on December thirty-First, Nineteen Hundred and Fifteen."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1915-02-05",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2488",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 873,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1915/act_2488_1915.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02488_1915_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02488_1915_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13186-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The sum of twenty-five thousand pesos, or so much thereof as may be necessary, is hereby\nappropriated, out of any funds in the Insular Treasury not otherwise appropriated, for the payment of the cost\nof transportation to Manila, treatment in the hospital, subsistence, clothing, bedding, tobacco, mess kits, soap,\nbarber supplies, laundry, shoes, allowance, and transportation to their homes, of prisr oners not charges of the\nInsular Government, convicted and sentenced to imprisonment and medical treatment in Bilibid Prison, for\nviolation of the laws prohibiting the use of opium."
+   }
+  },
+  {
+   "id": "PH-H13186-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect as of January first, nine-teen hundred and fifteen, and the funds hereby\nappropriated shall be available for reimbursement to the Bureau of Prisons of the expenses enumerated or\ndescribed in section one hereof, beginning with said date.\nEnacted, February 5, 1915."
+   }
+  }
+ ]
+}

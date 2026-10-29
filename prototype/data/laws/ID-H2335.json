@@ -1,0 +1,844 @@
+{
+ "id": "ID-H2335",
+ "title": {
+  "zh": "工程法",
+  "en": "Law on Engineering",
+  "id": "KEINSINYURAN",
+  "orig": "KEINSINYURAN",
+  "vi": "Luật về Kỹ thuật",
+  "th": "พระราชบัญญัติว่าด้วยวิศวกรรม",
+  "ms": "Akta tentang Kejuruteraan"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02b",
+ "language": "id",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "2014",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU11-2014",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 56,
+ "chars": 40015,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU%20Nomor%2011%20Tahun%202014.pdf&fl=P14558"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\01_宪法与基础法\\印尼_文本_2014_KEINSINYURAN.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 56 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H2335-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\n\nDalam Undang-Undang ini yang dimaksud dengan:\n1. Keinsinyuran adalah kegiatan teknik dengan\nmenggunakan kepakaran dan keahlian berdasarkan\npenguasaan ilmu pengetahuan dan teknologi untuk\nmeningkatkan nilai tambah dan daya guna secara\nberkelanjutan dengan memperhatikan keselamatan,\nkesehatan, kemaslahatan, serta kesejahteraan\nmasyarakat dan kelestarian lingkungan.\n2. Praktik Keinsinyuran adalah penye lenggaraan\nkegiatan Keinsinyuran.\n3. Insinyur . . .\n\n\n\n\n\n\n3. Insinyur adalah seseorang yang mempunyai gelar\nprofesi di bidang Keinsinyuran.\n4. Insinyur Asing adalah Insinyur yang\nberkewarganegaraan asing.\n5. Program Profesi Insinyur adalah program pendidikan\ntinggi setelah program sarjana  untuk membentuk\nkompetensi Keinsinyuran.\n6. Uji Kompetensi adalah proses penilaian kompetensi\nKeinsinyuran yang secara terukur dan objektif\nmenilai capaian kompetensi dalam bidang\nKeinsinyuran dengan mengacu pada standar\nkompetensi Insinyur.\n7. Sertifikat Kompetensi Insinyur adalah bukti tertulis\nyang diberikan kepada Insinyur yang telah lulus Uji\nKompetensi.\n8. Surat Tanda Registrasi Insinyur adalah bukti tertulis\nyang dikeluarkan oleh Persatuan Insinyur Indonesia\nkepada Insinyur yang telah memiliki Sertifikat\nKompetensi Insinyur dan diakui secara hukum untuk\nmelakukan Praktik Keinsinyuran.\n9. Pengembangan Keprofesian Berkelanjutan  adalah\nupaya   pemeliharaan kompetensi Insinyur untuk\nmenjalankan Praktik Keinsinyuran secara\nberkesinambungan.\n10. Pengguna Keinsinyuran adalah pihak yang\nmenggunakan jasa I nsinyur berdasarkan ikatan\nhubungan kerja.\n11. Pemanfaat Keinsinyuran adalah masyarakat yang\nmemanfaatkan hasil kerja Keinsinyuran.\n12. Dewan Insinyur Indonesia adalah lembaga yang\nberanggotakan pemangku kepentingan dalam\npenyelenggaraan Keinsinyuran yang berwenang\nmembuat kebijakan penyelenggaraan Keinsinyuran\ndan pengawasan pelaksanaannya.\n 13. Persatuan . . .\n\n\n\n\n\n\n13. Persatuan Insinyur Indonesia , yang selanjutnya\ndisingkat PII, adalah organisasi wadah berhimpun\nInsinyur yang melaksanakan penyelenggaraan\nKeinsinyuran di Indonesia.\n14. Menteri adalah menteri yang menyelenggarakan\nurusan pemerintahan di bidang pendidikan.\n\n\nBAB II\nASAS, TUJUAN, DAN LINGKUP"
+   }
+  },
+  {
+   "id": "ID-H2335-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\n\nPengaturan Keinsinyuran berdasarkan Pancasila dan\nberasaskan:\na. profesionalitas;\nb. integritas;\nc. etika;\nd. keadilan;\ne. keselarasan;\nf. kemanfaatan;\ng. keamanan dan keselamatan;\nh. kelestarian lingkungan hidup; dan\ni. keberlanjutan."
+   }
+  },
+  {
+   "id": "ID-H2335-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\n\nPengaturan Keinsinyuran bertujuan:\na. memberikan landasan dan kepastian hukum bagi\npenyelenggaraan Keinsinyuran yang bertanggung\njawab;\n\n b. memberikan . . .\n\n\n\n\n\n\nb. memberikan pelindungan kepada Pengguna\nKeinsinyuran dan Pemanfaat Keinsinyuran dari\nmalapraktik Keinsinyuran melalui penjaminan\nkompetensi dan mutu kerja Insinyur;\nc. memberikan arah pertumbuhan dan peningkatan\nprofesionalisme Insinyur sebagai pelaku prof esi yang\nandal dan  berdaya saing tinggi, dengan hasil\npekerjaan yang bermutu serta terjaminnya\nkemaslahatan masyarakat;\nd. meletakkan Keinsinyuran Indonesia pada peran\ndalam pembangunan nasional melalui peningkatan\nnilai tambah kekayaan tanah air dengan mengu asai\ndan memajukan ilmu pengetahuan dan teknologi\nserta membangun kemandirian Indonesia; dan\ne. menjamin terwujudnya penyelenggaraan\nKeinsinyuran Indonesia dengan tatakelola yang baik,\nberetika, bermartabat, dan memiliki jati diri\nkebangsaan."
+   }
+  },
+  {
+   "id": "ID-H2335-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\n\nLingkup pengaturan Keinsinyuran meliputi:\na. cakupan Keinsinyuran;\nb. standar Keinsinyuran;\nc. Program Profesi Insinyur;\nd. registrasi Insinyur;\ne. Insinyur Asing;\nf. Pengembangan Keprofesian Berkelanjutan;\ng. hak dan kewajiban;\nh. kelembagaan Insinyur;\ni. organisasi profesi Insinyur; dan\nj. pembinaan Keinsinyuran.\n\n BAB III . . .\n\n\n\n\n\n\nBAB III\nCAKUPAN KEINSINYURAN"
+   }
+  },
+  {
+   "id": "ID-H2335-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\n\n(1) Keinsinyuran mencakup disiplin teknik:\na. kebumian dan energi;\nb. rekayasa sipil dan lingkungan terbangun;\nc. industri;\nd. konservasi dan pengelolaan sumber daya alam;\ne. pertanian dan hasil pertanian;\nf. teknologi kelautan dan perkapalan; dan\ng. aeronotika dan astronotika.\n(2) Keinsinyuran mencakup bidang:\na. pendidikan dan pelatihan teknik/teknologi;\nb. penelitian, pengembangan, pengkajian , dan\nkomersialisasi;\nc. konsultansi, rancang bangun, dan konstruksi;\nd. teknik dan man ajemen industri, manufaktur,\npengolahan, dan proses produk;\ne. ekplorasi dan eksploitasi sumber daya mineral;\nf. penggalian, penanaman, peningkatan , dan\npemuliaan sumber daya alami; dan\ng. pembangunan, pembentukan, pengoperasian , dan\npemeliharaan aset.\n(3) Ketentuan le bih lanjut mengenai cakupan disiplin\nteknik Keinsinyuran dan cakupan bidang\nKeinsinyuran sebagaimana dimaksud pada ayat (1)\ndan ayat (2) diatur dalam Peraturan Pemerintah.\n\n\n\n\n\nBAB IV . . .\n\n\n\n\n\n\nBAB IV\nSTANDAR KEINSINYURAN"
+   }
+  },
+  {
+   "id": "ID-H2335-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\n\n(1) Untuk menjamin mutu kompetensi dan\nprofesionalitas layanan profesi Insinyur,\ndikembangkan standar profesi Keinsinyuran yang\nterdiri atas:\na. standar layanan Insinyur;\nb. standar kompetensi Insinyur; dan\nc. standar Program Profesi Insinyur.\n(2) Standar layanan Insinyur ditetapkan oleh menteri\nyang membina bidang Keinsinyuran atas usul PII.\n(3) Standar kompetensi I nsinyur ditetapkan oleh Dewan\nInsinyur Indonesia bersama menteri yang membina\nbidang Keinsinyuran.\n(4) Standar Program Profesi Insinyur ditetapkan oleh\nMenteri yang disusun atas usul perguruan tinggi\npenyelenggara Program Profesi Insinyur bersama\ndengan menteri yang membina bidang Keinsinyuran\ndan Dewan Insinyur Indonesia.\n\n\nBAB V\nPROGRAM PROFESI INSINYUR"
+   }
+  },
+  {
+   "id": "ID-H2335-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\n\n(1) Untuk memperoleh gelar profesi I nsinyur, seseorang\nharus lulus dari Program Profesi Insinyur.\n(2) Syarat untuk dapat mengikuti Program Profesi\nInsinyur sebagaimana dimaksud pada ayat (1)\nmeliputi:\na. sarjana . . .\n\n\n\n\n\n\na. sarjana bidang teknik atau sarjana terapan bidang\nteknik, baik lulusan perguruan tinggi dalam\nnegeri maupun perguruan tinggi luar negeri yang\ntelah disetarakan; atau\nb. sarjana pendidikan bidang teknik atau sarjana\nbidang sains yang disetarakan dengan sarjana\nbidang teknik atau sarjana terapan bidang teknik\nmelalui program penyetaraan.\n(3) Program Profesi Insinyur dapat diselenggarakan\nmelalui mekanisme rekognisi pembelajaran lampau."
+   }
+  },
+  {
+   "id": "ID-H2335-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n\n(1) Program Profesi Insinyur diselenggarakan oleh\nperguruan t inggi bekerja sama dengan kementerian\nterkait, PII, dan kalangan industri dengan mengikuti\nstandar Program Profesi I nsinyur sebagaimana\ndimaksud dalam Pasal 6 ayat (4).\n(2) Seseorang yang telah memenuhi standar Program\nProfesi Insinyur , baik melalui program profesi\nmaupun melalui  mekanisme rekognisi  pembelajaran\nlampau, serta lulus Program Profesi Insinyur berhak\nmendapatkan sertifikat profesi Insinyur  dan dicatat\noleh PII.\n(3) Ketentuan lebih lanjut mengenai Program Profesi\nInsinyur diatur dalam Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H2335-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n\n(1) Gelar profesi Insinyur sebagaimana dimaksud dalam\nPasal 7 ayat (1) disingkat dengan ”Ir.” dan\ndicantumkan di depan nama yang berhak\nmenyandangnya.\n\n (2) Gelar . . .\n\n\n\n\n\n\n(2) Gelar profesi Insinyur  sebagaimana dimaksud pada\nayat (1) diberikan oleh perguruan tinggi\npenyelenggara Program Profesi Insinyur yang bekerja\nsama dengan kementerian terkait dan PII.\n\n\nBAB VI\nREGISTRASI INSINYUR"
+   }
+  },
+  {
+   "id": "ID-H2335-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\n\n(1) Setiap Insinyur yang akan melakukan Praktik\nKeinsinyuran di Indonesia harus memiliki Surat\nTanda Registrasi Insinyur.\n(2) Surat Tanda Registrasi Insinyur sebagaimana\ndimaksud pada ayat (1) dikeluarkan oleh PII."
+   }
+  },
+  {
+   "id": "ID-H2335-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\n\n(1) Untuk memperoleh Surat Tanda Registrasi Insinyur\nsebagaimana dimaksud dalam Pasal 10 , seorang\nInsinyur harus memiliki Sertifikat Kompetensi\nInsinyur.\n(2) Sertifikat Kompetensi Insinyur sebagaimana\ndimaksud pada ayat (1) diperoleh setelah lulus Uji\nKompetensi.\n(3) Uji Kompetensi sebagaimana dimaksud pada ayat ( 2)\ndilakukan oleh lembaga sertifikasi profesi sesuai\ndengan ketentuan peraturan perundang-undangan."
+   }
+  },
+  {
+   "id": "ID-H2335-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n\nSurat Tanda Registrasi  Insinyur paling sedikit\nmencantumkan:\na. jenjang kualifikasi profesi; dan\nb. masa berlaku."
+   }
+  },
+  {
+   "id": "ID-H2335-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13 "
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 13 . . .\n\n\n\n\n\n\nPasal 13\n\nSurat Tanda Registrasi Insinyur berlaku selama 5 (li ma)\ntahun dan diregistrasi ulang setiap 5 (lima) tahun dengan\ntetap memenuhi persyaratan sebagaimana dimaksud\ndalam Pasal 11  dan persyaratan Pengembangan\nKeprofesian Berkelanjutan."
+   }
+  },
+  {
+   "id": "ID-H2335-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\n\nSurat Tanda Registrasi Insinyur tidak berlaku karena:\na. habis masa berlakunya dan yang bersangkutan tidak\nmendaftarkan ulang;\nb. permintaan yang bersangkutan;\nc. meninggalnya yang bersangkutan; atau\nd. pencabutan Surat Tanda Registrasi Insinyur oleh PII\natas malapraktik atau pelanggaran kode etik\nKeinsinyuran yang dilakukan o leh yang\nbersangkutan."
+   }
+  },
+  {
+   "id": "ID-H2335-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\n\n(1) Insinyur yang melakukan kegiatan Keinsinyuran\ntanpa memiliki Surat Tanda Registrasi Insinyur\nsebagaimana dimaksud dalam Pasal 10 dikenai\nsanksi administratif.\n(2) Sanksi administratif sebagaimana dimaksud pada\nayat (1) berupa:\na.  peringatan tertulis; dan/atau\nb.  penghentian sementara kegiatan Keinsinyuran.\n(3) Insinyur sebagaimana dimaksud pada ayat (1) yang\ndalam kegiatanny a menimbulkan kerugian materiil\ndikenai sanksi administratif berupa denda."
+   }
+  },
+  {
+   "id": "ID-H2335-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16 "
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 16 . . .\n\n\n\n\n\n\nPasal 16\n\n(1) Dalam hal Insinyur yang t elah mendapatkan Surat\nTanda Registrasi Insinyur sebagaimana dimaksud\ndalam Pasal 10 melakukan kegiatan Keinsinyuran\nyang menimbulkan kerugian materiil, Insinyur\ndikenai sanksi administratif.\n(2) Sanksi administratif sebagaimana dimaksud pada\nayat (1) berupa:\na.  peringatan tertulis;\nb.  denda;\nc.  penghentian sementara kegiatan Keinsinyuran;\nd.  pembekuan Surat Tanda Registrasi  Insinyur;\ndan/atau\ne.  pencabutan Surat Tanda Registrasi Insinyur."
+   }
+  },
+  {
+   "id": "ID-H2335-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\n\nKetentuan lebih lanjut mengenai registrasi Insinyur\nsebagaimana dimaksud d alam Pasal 10 sampai dengan\nPasal 14 dan tata cara pengenaan sanksi administratif\nsebagaimana dimaksud dalam Pasal 15 dan Pasal 16\ndiatur dalam Peraturan Pemerintah.\n\n\nBAB VII\nINSINYUR ASING"
+   }
+  },
+  {
+   "id": "ID-H2335-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\n\n(1) Insinyur Asing hanya dapat melakukan Praktik\nKeinsinyuran di Indonesia sesuai dengan kebutuhan\nsumber daya manusia ilmu pengetahuan dan\nteknologi pembangunan nasional yang ditetapkan\noleh Pemerintah.\n(2) Insinyur . . .\n\n\n\n\n\n\n(2) Insinyur Asing yang melakukan Praktik Keinsinyuran\ndi Indonesia sebagaimana dimaksud pada ayat (1)\nharus mem iliki surat izin kerja tenaga kerja asing\nsesuai dengan ketentuan peraturan perundang -\nundangan.\n(3) Untuk mendapat surat izin kerja sebagaimana\ndimaksud pada ayat ( 2), Insinyur Asing harus\nmemiliki Surat Tanda Registrasi Insinyur dari PII\nberdasarkan surat tan da registrasi atau sertifikat\nkompetensi Insinyur menurut hukum negaranya.\n(4) Dalam hal Insinyur Asing tidak memiliki surat tanda\nregistrasi atau sertifikat kompetensi Insinyur\nmenurut hukum negaranya sebagaimana dimaksud\npada ayat (3), Insinyur Asing harus m emenuhi syarat\nsebagaimana dimaksud dalam Pasal 11."
+   }
+  },
+  {
+   "id": "ID-H2335-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\n\n(1)  Insinyur Asing wajib melakukan alih ilmu\npengetahuan dan teknologi.\n(2)  Pengawasan terhadap pelaksanaan kegiatan alih ilmu\npengetahuan dan teknologi sebagaimana dimaksud\npada ayat ( 1) dilaksanakan oleh Dewan Insinyur\nIndonesia."
+   }
+  },
+  {
+   "id": "ID-H2335-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\n\nInsinyur Asing yang memberikan jasa Keinsinyuran\ndalam penanganan bencana atau konsultasi yang bersifat\ninsidental tidak memerlukan surat izin kerja, tetapi harus\nmemberitahukan kepada kementerian terkait."
+   }
+  },
+  {
+   "id": "ID-H2335-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21 "
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 21 . . .\n\n\n\n\n\n\nPasal 21\n\n(1) Insinyur Asing yang melakukan kegiatan\nKeinsinyuran di Indonesia tanpa memenuhi\npersyaratan sebagaimana dimaksud dalam Pasal 1 8\ndan Pasal 19 dikenai sanksi administratif.\n(2) Sanksi administratif sebagaimana dimaksud pada\nayat (1) berupa:\na.  peringatan tertulis;\nb.  penghentian sementara kegiatan Keinsinyuran;\nc.  pembekuan izin kerja;\nd.  pencabutan izin kerja; dan/atau\ne.  tindakan administratif lain sesuai dengan\nketentuan peraturan perundang-undangan.\n(3) Insinyur Asing yang dalam kegiatannya menimbulkan\nkerugian materiil dikenai sanksi administratif berupa\ndenda."
+   }
+  },
+  {
+   "id": "ID-H2335-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\n\nKetentuan lebih lanjut mengenai Insinyur Asing\nsebagaimana dimaksud dalam Pasal 1 8, Pasal 1 9, dan\nPasal 20 serta tata cara pengenaan  sanksi administratif\nsebagaimana dimaksud dalam Pasal 21 diatur dal am\nPeraturan Pemerintah.\n\n\nBAB VIII\nPENGEMBANGAN KEPROFESIAN BERKELANJUTAN"
+   }
+  },
+  {
+   "id": "ID-H2335-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\n\n(1) Pengembangan Keprofesian Berkelanjutan bertujuan:\na. memelihara kompetensi dan profesionalitas\nInsinyur; dan\nb. mengembangkan . . .\n\n\n\n\n\n\nb. mengembangkan tanggung jawab sosial Insinyur\npada lingkungan profesinya dan masyarakat di\nsekitarnya.\n(2) Pengembangan Keprofesian Berk elanjutan\ndiselenggarakan oleh PII dan dapat bekerja sama\ndengan lembaga pelatihan dan pengembangan profesi.\n(3) Standar Pengembangan Keprofesian Berkelanjutan\ndisusun dan ditetapkan oleh Dewan Insinyur\nIndonesia sesuai dengan perkembangan kemajuan\nilmu pengetahuan dan teknologi.\n(4) Pengembangan Keprofesian Berkelanjutan merupakan\nsyarat untuk perpanjangan Surat Tanda Registrasi\nInsinyur.\n(5) PII melakukan pemantauan dan penilaian atas\npelaksanaan P engembangan Keprofesian\nBerkelanjutan.\n\n\nBAB IX\nHAK DAN KEWAJIBAN\n\nBagian Kesatu\nHak dan Kewajiban Insinyur"
+   }
+  },
+  {
+   "id": "ID-H2335-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB IX / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 24\n\nInsinyur dan Insinyur Asing berhak:\na. melakukan kegiatan Keinsinyuran sesuai dengan\nstandar Keinsinyuran;\nb. memperoleh jaminan pelindungan hu kum selama\nmelaksanakan tugasnya sesuai dengan kode etik\ninsinyur dan standar Keinsinyuran;\n\n c. memperoleh . . .\n\n\n\n\n\n\nc. memperoleh informasi, data, dan dokumen lain yang\nlengkap dan benar dari Pengguna Keinsinyuran\nsesuai dengan kebutuhan dan ketentuan peraturan\nperundang-undangan;\nd. menerima imbalan hasil kerja sesuai dengan\nperjanjian kerja; dan\ne. mendapatkan pembinaan dan pemeliharaan\nkompetensi profesi Keinsinyuran."
+   }
+  },
+  {
+   "id": "ID-H2335-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB IX / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\n\nInsinyur dan Insinyur Asing berkewajiban:\na. melaksanakan kegiatan Keinsinyuran sesuai dengan\nkeahlian dan kode etik Insinyur;\nb. melaksanakan tugas profesi sesuai dengan keahlian\ndan kualifikasi yang dimiliki;\nc. melaksanakan tugas profesi sesuai dengan standar\nKeinsinyuran;\nd. menyelesaikan pekerjaan sesuai dengan perjanjian\nkerja dengan Pengguna Keinsinyuran;\ne. melaksanakan profesinya tanpa membedakan suku,\nagama, ras, gender, golongan, latar belakang sosial,\npolitik, dan budaya;\nf. memutakhirkan ilmu pengetahuan dan teknologi\nserta mengikuti Pengembangan Keprofesian\nBerkelanjutan;\ng. mengutamakan kaidah keselamatan, kesehatan kerja,\ndan kelestarian lingkungan hidup;\nh. mengupayakan inovasi dan nilai tambah dalam\nkegiatan Keinsinyuran secara berkesinambungan;\ni. menerapkan keberpihakan pada sumber daya\nmanusia Keinsinyuran nasional, lembaga kerja\nKeinsinyuran nasional, dan produk has il\nKeinsinyuran nasional dalam kegiatan Keinsinyuran;\n j. melaksanakan . . .\n\n\n\n\n\n\nj. melaksanakan secara berkala dan teratur kegiatan\nKeinsinyuran terkait dengan darma  bakti masyarakat\nyang bersifat sukarela; dan\nk. melakukan pencatatan rekam kerja Keinsinyuran\ndalam format sesuai dengan standar Keinsinyuran.\n\n\nBagian Kedua\nHak dan Kewajiban Pengguna Keinsinyuran"
+   }
+  },
+  {
+   "id": "ID-H2335-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB IX / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\n\nPengguna Keinsinyuran dalam menerima hasil kerja\nInsinyur berhak:\na. mendapatkan cakupan dan mutu pelaksanaan\nkegiatan Keinsinyuran sesuai dengan perjanjian\nkerja;\nb. mendapatkan informasi secara lengkap dan benar\natas jasa dan hasil kegiatan Keinsinyuran;\nc. memperoleh pelindungan hukum sebagai konsumen\natas jasa dan hasil kegiatan Keinsinyuran;\nd. menyampaikan pendapat dan memperoleh tanggapan\natas pelaksanaan kegiatan Keinsinyuran;\ne. menolak hasil kegiatan Keinsinyuran yang tidak\nsesuai dengan perjanjian kerja; dan\nf. melakukan tindakan hukum atas pelanggaran\nperjanjian kerja sesuai dengan ketentuan peraturan\nperundang-undangan."
+   }
+  },
+  {
+   "id": "ID-H2335-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB IX / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\n\nPengguna Keinsinyuran berkewajiban:\na. memberikan informasi, data, dan dokumen yang\nlengkap dan benar tentang kegiatan Keinsinyuran\nyang akan dilaksanakan  sesuai dengan kebutuhan\ndan ketentuan peraturan perundang-undangan;\n\nb. mengikuti . . .\n\n\n\n\n\n\nb. mengikuti petunjuk Insinyur atas hasil kegiatan\nKeinsinyuran yang akan diterima;\nc. memberikan imbalan yang setara dan adil atas jasa\nyang diterima kepada Insinyur dan Insinyur Asing\nsesuai dengan jenjang kualifikasi; dan\nd. mematuhi ketentuan yang berlaku di tempat\npelaksanaan Praktik Keinsinyuran.\n\n\nBagian Ketiga\nHak dan Kewajiban Pemanfaat Keinsinyuran"
+   }
+  },
+  {
+   "id": "ID-H2335-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB IX / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\n\nPemanfaat Keinsinyuran berhak:\na. mendapatkan informasi atas keselamatan hasil\nkegiatan Keinsinyuran;\nb. memanfaatkan hasil kegiatan Keinsinyuran secara\naman dan nyaman sesuai dengan standar\nKeinsinyuran; dan\nc. mendapatkan pelindungan h ukum dari malapraktik\nKeinsinyuran sesuai dengan ketentuan peraturan\nperundang-undangan."
+   }
+  },
+  {
+   "id": "ID-H2335-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB IX / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  29\n\nPemanfaat Keinsinyuran berkewajiban mengikuti\nketentuan standar penggunaan hasil kegiatan\nKeinsinyuran.\n\n\n\n\n\n\nBAB X . . .\n\n\n\n\n\n\nBAB X\nDEWAN INSINYUR INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H2335-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\n\n(1)  Untuk mencapai tujuan pengaturan Keinsinyuran\nsebagaimana dimaksud dalam Pasal 3 , dibentuk\nDewan Insinyur Indonesia.\n(2)  Dewan Insinyur Indonesia sebagaimana dimaksud\npada ayat (1) bertanggung jawab kepada Presiden.\n(3)  Dewan Insinyur Indonesia berkedudukan di ibu kota\nNegara Republik Indonesia.\n(4)  Dewan Insinyur Indonesia beranggotakan paling\nsedikit 5 (lima) orang yang terdiri atas unsur:\na. Pemerintah;\nb. industri;\nc. perguruan tinggi;\nd. PII; dan\ne. Pemanfaat Keinsinyuran.\n(5)  Keanggotaan Dewan Insinyur Indonesia  ditetapkan\noleh Presiden atas usul Menteri.\n(6)  Keanggotaan Dewan Insinyur Indonesia sebagaimana\ndimaksud pada ayat (5) berlaku selama 5 (lima) tahun\ndan dapat diangkat kembali untuk 1 (satu) kali masa\njabatan berikutnya."
+   }
+  },
+  {
+   "id": "ID-H2335-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\n\nDewan Insinyur Indonesia mempunyai fungsi pe rumusan\nkebijakan penyelenggaraan dan pengawasan pelaksanaan\nPraktik Keinsinyuran."
+   }
+  },
+  {
+   "id": "ID-H2335-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32 "
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 32 . . .\n\n\n\n\n\n\nPasal 32\n\nDewan Insinyur Indonesia mempunyai tugas:\na. menetapkan kebijakan sistem registrasi Insinyur;\nb. mengusulkan standar Program Profesi Insinyur;\nc. menetapkan standar P engembangan Keprofesian\nBerkelanjutan;\nd. melakukan pengawasan pelaksanaan Praktik\nKeinsinyuran oleh PII;\ne. menetapkan kebijakan sistem Uji Kompetensi;\nf. menetapkan standar kompetensi Insinyur;\ng. melakukan perjanjian kerja sama Keinsinyuran\ninternasional sesuai d engan ketentuan peraturan\nperundang-undangan; dan\nh. mengesahkan perjanjian kerja  sama Keinsinyuran\ninternasional yang dilakukan oleh  PII sesuai dengan\nketentuan peraturan perundang-undangan."
+   }
+  },
+  {
+   "id": "ID-H2335-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 33\n\nDalam menjalankan tugas sebagaimana dimaksud dalam\nPasal 32, Dewan Insinyur Indonesia mempunyai\nwewenang:\na. mengesahkan sistem registrasi Insinyur;\nb. mengesahkan sistem Uji Kompetensi;\nc. melakukan pencatatan terhadap Insinyur yang\ndikenai sanksi karena melanggar ketentuan kode etik\nInsinyur; dan\nd. membuat peraturan p elaksanaan mengenai fungsi,\ntugas, dan kewenangan Dewan Insinyur Indonesia."
+   }
+  },
+  {
+   "id": "ID-H2335-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34 "
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 34 . . .\n\n\n\n\n\n\nPasal 34\n\n(1)  Pendanaan Dewan Insinyur Indonesia bersumber dari\nAnggaran  Pendapatan dan Belanja Negara.\n(2)  Pendanaan Dewan Insinyur Indonesia sebagaimana\ndimaksud pada ayat (1) di kelola secara transparan\ndan akuntabel serta diaudit sesuai dengan ketentuan\nperaturan perundang-undangan.\n(3)  Dewan Insinyur Indonesia dapat membiayai tugasnya\nyang dilaksanakan oleh PII."
+   }
+  },
+  {
+   "id": "ID-H2335-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 35\n\nKetentuan lebih lanjut mengenai pembentukan, struktur\norganisasi, rekrutmen dan jumlah  anggota, serta\npendanaan Dewan Insinyur Indonesia diatur dengan\nPeraturan Presiden.\n\n\nBAB XI\nPERSATUAN INSINYUR INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H2335-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 36\n\n(1)  Insinyur Indonesia  berhimpun dalam wadah\norganisasi PII.\n(2)  Kekuasaan tertinggi PII berada pada kongres.\n(3)  Pimpinan PII dipilih oleh kongres.\n(4)  PII berkedudukan di ibu kota Negara Republik\nIndonesia."
+   }
+  },
+  {
+   "id": "ID-H2335-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 37\n\nPII mempunyai fungsi pelaksanaan Praktik Keinsinyuran."
+   }
+  },
+  {
+   "id": "ID-H2335-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38 "
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 38 . . .\n\n\n\n\n\n\nPasal 38\n\nPII mempunyai tugas:\na. melaksanakan pelayanan Keinsinyuran sesuai dengan\nstandar;\nb. melaksanakan Program Profesi Insinyur bersama\ndengan perguruan tinggi sesuai dengan standar;\nc. melaksanakan Pengembangan Keprofesian\nBerkelanjutan;\nd. melakukan pengendalian dan pengawasan bagi\nterpenuhinya kewajiban Insinyur;\ne. melaksanakan registrasi  Insinyur;\nf. menetapkan, menerapkan, dan menegakkan kode etik\nInsinyur;\ng. menjalin perjanjian kerja  sama Keinsinyuran\ninternasional; dan\nh. memberikan advokasi bagi Insinyur."
+   }
+  },
+  {
+   "id": "ID-H2335-A39",
+   "no": 39,
+   "noLabel": {
+    "id": "Pasal 39"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 39\n\nPII mempunyai wewenang:\na. menyatakan terpenuhi atau tidaknya persyaratan\nregistrasi Insin yur sesuai dengan jenjang kualifikasi\nInsinyur;\nb. menerbitkan, memperpan jang, membekukan, dan\nmencabut Surat Tanda Registrasi Insinyur;\nc. menyatakan terpenuhi atau tidaknya persyaratan\nPengembangan Keprofesian Berkelanjutan sesuai\ndengan jenjang kualifikasi Insinyur;\nd. menyatakan terjadi atau tidaknya suatu pelanggaran\nkode etik Insinyur berdasarkan hasil investigasi;\ne. menjatuhkan sanksi terhadap Insinyur yang tidak\nmemenuhi standar Keinsinyuran;\nf. menjatuhkan . . .\n\n\n\n\n\n\nf. menjatuhkan sanksi terhadap Insinyur yang\nmelakukan pelanggaran kode etik Insinyur;\ng. memberikan akreditasi keprofesian pada himpunan\nkeahlian Keinsinyuran; dan\nh. melakukan perjanjian kerja  sama Keinsinyuran\ninternasional."
+   }
+  },
+  {
+   "id": "ID-H2335-A40",
+   "no": 40,
+   "noLabel": {
+    "id": "Pasal 40"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 40\n\n(1) Untuk menegakkan kode etik Insinyur, PII\nmembentuk majelis kehormatan etik.\n(2) Struktur,  fungsi, dan tugas majelis kehormatan etik\ndiatur dalam suatu anggaran dasar dan anggaran\nrumah tangga PII."
+   }
+  },
+  {
+   "id": "ID-H2335-A41",
+   "no": 41,
+   "noLabel": {
+    "id": "Pasal 41"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 41\n\n(1)  Untuk menjamin kelayakan dan kepatutan Insinyur\ndalam melaksanakan Praktik Keinsinyuran,\nditetapkan kode etik Insinyur sebagai pedoman ta ta\nlaku profesi.\n(2)  Kode etik Insinyur sebagaimana dimaksud pada ayat\n(1) disusun oleh PII.\n(3)  Seseorang yang akan menjadi Insinyur wajib\nmenyatakan kesanggupan untuk mematuhi kode etik\nInsinyur."
+   }
+  },
+  {
+   "id": "ID-H2335-A42",
+   "no": 42,
+   "noLabel": {
+    "id": "Pasal 42"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 42\n\nKode etik Insinyur harus dijadikan pedoman dan\nlandasan tingkah laku setiap Insinyur dalam\nmelaksanakan Praktik Keinsinyuran."
+   }
+  },
+  {
+   "id": "ID-H2335-A43",
+   "no": 43,
+   "noLabel": {
+    "id": "Pasal 43 "
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 43 . . .\n\n\n\n\n\n\nPasal 43\n\n(1) Pendanaan PII bersumber dari:\na.  iuran anggota; dan\nb.  sumber pendanaan lain yang sah menurut\nketentuan peraturan perundang-undangan.\n(2) Pendanaan PII sebagaimana dimaksud pada aya t (1)\ndikelola secara transparan dan akuntabel serta\ndiaudit sesuai dengan  ketentuan peraturan\nperundang-undangan."
+   }
+  },
+  {
+   "id": "ID-H2335-A44",
+   "no": 44,
+   "noLabel": {
+    "id": "Pasal 44"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 44\n\nStruktur, tata kerja, rekrutmen pengurus, kode etik, dan\npendanaan PII diatur dalam suatu anggaran dasar dan\nanggaran rumah tangga PII.\n\n\nBAB XII\nPEMBINAAN KEINSINYURAN"
+   }
+  },
+  {
+   "id": "ID-H2335-A45",
+   "no": 45,
+   "noLabel": {
+    "id": "Pasal 45"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 45\n\n(1) Pemerintah bertanggung jawab atas pembinaan\nKeinsinyuran.\n(2) Tanggung jawab pembinaan oleh Pemerintah\nsebagaimana dimaksud pada ayat (1) dilakukan oleh\nMenteri dan menteri yang terkait."
+   }
+  },
+  {
+   "id": "ID-H2335-A46",
+   "no": 46,
+   "noLabel": {
+    "id": "Pasal 46"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 46\n\nPembinaan Keinsinyuran sebagaimana dimaksud dalam\nPasal 45 dilaksanakan dengan:\na. menetapkan . . .\n\n\n\n\n\n\na. menetapkan kebijakan pengembangan kapasitas\nKeinsinyuran berdasarkan rekomendasi Dewan\nInsinyur Indonesia;\nb. melakukan pemberdayaan Keinsinyuran;\nc. meningkatkan kegiatan penelitian, pengemban gan,\ndan kemampuan perekayasaan;\nd. mendorong industri yang berkaitan dengan\nKeinsinyuran untuk melakukan penelitian dan\npengembangan dalam rangka meningkatkan nilai\ntambah produksi;\ne. mendorong Insinyur agar kreatif dan inovatif untuk\nmenciptakan nilai tambah;\nf. melakukan pengawasan atas penyelenggaraan\nKeinsinyuran;\ng. melakukan pembinaan dalam kaitan dengan\nremunerasi tarif jasa Keinsinyuran yang setara dan\nberkeadilan;\nh. mendorong peningkatan produksi dalam negeri yang\nberdaya saing dari jasa Keinsinyuran;\ni. meningkatkan peran  Insinyur dalam pembangunan\nnasional; dan\nj. melakukan sosialisasi dan edukasi guna menarik\nminat generasi muda untuk mengikuti pendidikan di\nbidang ilmu pengetahuan dan teknologi serta\nberprofesi sebagai Insinyur."
+   }
+  },
+  {
+   "id": "ID-H2335-A47",
+   "no": 47,
+   "noLabel": {
+    "id": "Pasal 47"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 47\n\n(1) Pemerintah menetapka n norma, standar, prosedur,\ndan kriteria untuk Praktik Keinsinyuran.\n(2) Norma, standar, prosedur, dan kriteria sebagaimana\ndimaksud pada ayat (1) diarahkan untuk dapat\nmemenuhi syarat pemerolehan asuransi profesi bagi\nInsinyur.\n(3) PII . . .\n\n\n\n\n\n\n(3) PII membina anggotanya untuk m enerapkan norma,\nstandar, prosedur, dan kriteria sebagaimana\ndimaksud pada ayat (1)."
+   }
+  },
+  {
+   "id": "ID-H2335-A48",
+   "no": 48,
+   "noLabel": {
+    "id": "Pasal 48"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 48\n\nDalam rangka pembinaan s ebagaimana dimaksud dalam\nPasal 46, Pemerintah dapat melakukan audit kinerja\nKeinsinyuran."
+   }
+  },
+  {
+   "id": "ID-H2335-A49",
+   "no": 49,
+   "noLabel": {
+    "id": "Pasal 49"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 49\n\nKetentuan lebih lanjut mengenai pe mbinaan\nKeinsinyuran sebagaimana dimaksud dalam Pasal 4 5\nsampai dengan Pasal 4 8 diatur dalam Peraturan\nPemerintah.\n\n\nBAB XIII\nKETENTUAN PIDANA"
+   }
+  },
+  {
+   "id": "ID-H2335-A50",
+   "no": 50,
+   "noLabel": {
+    "id": "Pasal 50"
+   },
+   "chapter": {
+    "id": "BAB XIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 50\n\n(1) Setiap orang bukan Insinyur  yang menjalankan\nPraktik Keinsinyuran dan bertindak sebagai Insinyur\nsebagaimana diatur dalam Undang -Undang ini\ndipidana dengan pidana penjara  paling lama 2 (dua)\ntahun atau pidana denda paling banyak\nRp200.000.000,00 (dua ratus juta rupiah).\n(2) Setiap orang bukan Insinyur  yang menjalankan\nPraktik Keinsinyuran dan bertindak seba gai insinyur\nsebagaimana diatur dalam Undang -Undang ini\nsehingga mengakibatkan kecelakaan, cacat, hilangnya\nnyawa seseorang, kegagalan pekerjaan Keinsinyuran,\ndan/atau hilangnya harta benda dipidana dengan\npidana penjara  paling lama 10 (sepuluh) tahun\ndan/atau pidana denda paling banyak\nRp1.000.000.000,00 (satu miliar rupiah)."
+   }
+  },
+  {
+   "id": "ID-H2335-A51",
+   "no": 51,
+   "noLabel": {
+    "id": "Pasal 51 "
+   },
+   "chapter": {
+    "id": "BAB XIII"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 51 . . .\n\n\n\n\n\n\nPasal 51\n\nSetiap Insinyur atau Insinyur Asing yang melaksanakan\ntugas profesi tidak memenuhi standar Keinsinyuran\nsebagaimana dimaksud dalam Pasal 25 huruf c sehingga\nmengakibatkan kecelakaan, cacat, hilangnya nyawa\nseseorang, kegagalan pekerjaan Keinsinyuran, dan/atau\nhilangnya harta benda dipidana dengan pidana penjara\npaling lama 5 (lima) tahun dan/atau pidana denda paling\nbanyak Rp1.000.000.000,00 (satu miliar rupiah).\n\n\nBAB XIV\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H2335-A52",
+   "no": 52,
+   "noLabel": {
+    "id": "Pasal 52"
+   },
+   "chapter": {
+    "id": "BAB XIV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 52\n\nPada saat Undang-Undang ini mulai berlaku:\na. Setiap orang yang telah mendapatkan gelar Insinyur\nsebelum Undang-Undang ini berlaku tetap berhak\nmenggunakan gelarnya.\nb. Setiap Insinyur, sarjana teknik, sarjana teknik\nterapan yang  telah tersertifikasi  dinyatakan sebagai\nInsinyur teregistrasi dan harus menyesuaikannya\ndengan Undang -Undang ini  paling lambat 3 (tiga)\ntahun terhitung sejak  Undang-Undang ini\ndiundangkan.\nc. Setiap Insinyur yang telah melakukan Praktik\nKeinsinyuran dengan memiliki izin kerja, tetapi belum\ntersertifikasi sebelum Undang -Undang ini\ndiundangkan dinyatakan sebagai Insinyur teregistrasi\ndan harus menyesuaikannya dengan Undang -Undang\nini paling lambat 3 (tiga) tahun terhitung sejak\nUndang-Undang ini diundangkan."
+   }
+  },
+  {
+   "id": "ID-H2335-A53",
+   "no": 53,
+   "noLabel": {
+    "id": "Pasal 53 "
+   },
+   "chapter": {
+    "id": "BAB XIV"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 53 . . .\n\n\n\n\n\n\n\nPasal 53\n\nAnggaran dasar dan anggaran rumah tangga PII harus\ndisesuaikan dengan ketentuan dalam Undang-Undang ini\ndan mendapatkan persetujuan dari Menteri paling lambat\n2 (dua) tahun terhitung sejak Undang -Undang ini\ndiundangkan.\n\n\nBAB XV\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H2335-A54",
+   "no": 54,
+   "noLabel": {
+    "id": "Pasal 54"
+   },
+   "chapter": {
+    "id": "BAB XV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 54\n\nPeraturan pelaksana an dari Undang-Undang ini harus\nditetapkan paling lama 2 (dua) tahun terhitung sejak\nUndang-Undang ini diundangkan."
+   }
+  },
+  {
+   "id": "ID-H2335-A55",
+   "no": 55,
+   "noLabel": {
+    "id": "Pasal 55"
+   },
+   "chapter": {
+    "id": "BAB XV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 55\n\nDewan Insinyur Indonesia sebagaimana dimaksud dalam\nPasal 30 harus dibentuk paling lambat 1 (satu) tahun\nterhitung sejak Undang-Undang ini diundangkan."
+   }
+  },
+  {
+   "id": "ID-H2335-A56",
+   "no": 56,
+   "noLabel": {
+    "id": "Pasal 56"
+   },
+   "chapter": {
+    "id": "BAB XV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 56\n\nUndang-Undang ini mulai berlaku pada tanggal\ndiundangkan.\n\n\n\n\n\n\nAgar . . .\n\n\n\n\n\n\nAgar setiap orang mengetahuinya, memerintahkan\npengundangan Undang -Undang ini dengan\npenempatannya dalam Lem baga Negara Republik\nIndonesia.\n\nDisahkan di Jakarta\npada tanggal 22 Maret 2014\nPRESIDEN REPUBLIK INDONESIA,\n\n              ttd..\n\nDR. H. SUSILO BAMBANG YUDHOYONO\n\nDiundangkan di Jakarta\npada tanggal 24 Maret 2014\nMENTERI HUKUM DAN HAK ASASI MANUSIA\nREPUBLIK INDONESIA,\n\n               ttd.\n\n                 AMIR SYAMSUDIN\n\n\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2014 NOMOR 61\n\n\n\nPENJELASAN\nATAS\nUNDANG-UNDANG REPUBLIK INDONESIA\nNOMOR 11 TAHUN 2014\nTENTANG\nKEINSINYURAN\n\nI.  UMUM\n\nUndang-Undang Dasar Negara Republik Indonesia Tahun 1945\nmengamanatkan bahwa setiap orang dalam mengembangkan dirinya\nmemerlukan pendidikan dan manfaat i lmu pengetahuan dan teknologi,\nseni, dan budaya demi meningkatkan kualitas hidup dan\nkesejahteraan umum. Untuk meningkatkan kualitas hidup dan\nkesejahteraan umum tersebut, salah satunya dapat dicapai dengan\ntersedianya sumber daya manusia yang andal dan pr ofesional yang\nmampu melakukan rekayasa teknik guna meningkatkan nilai tambah,\ndaya saing, daya guna, efisiensi dan efektivitas anggaran, perlindungan\npublik, kemajuan ilmu dan teknologi, serta pencapaian kebudayaan\ndan peradaban bangsa yang tinggi.\nSumber daya manusia yang mampu melakukan rekayasa teknik\nmasih tersebar dalam berbagai profesi dan kelembagaan masing -\nmasing, belum mempunyai sta ndar keahlian, kemampuan, dan\nkompetensi Insinyur. Insinyur sebagai salah satu komponen utama\nyang melakukan layanan  jasa rekayasa teknik harus memiliki\nkompetensi untuk melakuk an pekerjaan secara profesional  sehingga\nkegiatan yang dilakukannya dapat meningkatkan kualitas hidup\nmasyarakat dan dirinya. Hasil karya Insinyur harus dapat\ndipertanggungjawabkan, baik secara m oril-materiil maupun di muka\nhukum sehingga layanan jasa di bidang Keinsinyuran memiliki\nkepastian hukum, memberikan pelindungan bagi Insinyur dan\npengguna, serta dilakukan secara profesional, bertanggung  jawab, dan\nmenjunjung tinggi etika profesi.\nUnsur. . .\n\n\n\n\n\n\nUnsur penting dalam Praktik Keinsinyuran adalah sikap,\npenguasaan ilmu pengetahuan, teknologi, dan keterampilan teknik\nyang dimiliki, yang diperoleh melalui pendidikan dan pelatihan.\nPengetahuan yan g dimiliki Insinyur harus terus -menerus\ndipertahankan dan diting katkan sesuai dengan kemajuan  ilmu\npengetahuan dan teknologi  serta kebutuhan industri. Perangkat\nkeilmuan yang dimiliki seorang Insinyur mempunyai karakteristik yang\nkhas yang terlihat dari kemampuan untuk melakukan upaya rekayasa\nteknik yang sesuai dengan  kebutuhan dan karakteristik lingkungan\nserta menyesuaikan dengan perkembangan teknologi yang ada.\nPengaturan Praktik Keinsinyuran dilakukan untuk memberikan\nlandasan dan kepastian hukum  serta pelindungan kepada Pengguna\nKeinsinyuran dan Pemanfaat Keinsin yuran. Pengaturan Praktik\nKeinsinyuran dimaksudkan juga untuk memberikan  arah\npertumbuhan dan peningkatan profesionalisme Insinyur , meletakkan\nKeinsinyuran Indonesia pada peran dalam pembangunan nasional ,\nserta menjamin terwujudnya penyelenggaraan Keinsiny uran Indonesia\nyang baik . Oleh karena itu, Praktik Keinsinyuran perlu diatur dalam\nsuatu peraturan perundang -undangan guna memberikan kepastian\ndan pelindu ngan hukum kepada Insinyur, Pengguna Keinsinyuran,\ndan Pemanfaat Keinsinyuran . Hal tersebut dilakukan  untuk\nmeningkatkan keselamatan kerja , keberlanjutan lingkungan, dan\nkeunggulan hasil rekayasa, untuk meningkatkan kualitas hidup, serta\nkesejahteraan Insinyur dan masyarakat.\n Lingkup pengaturan Undang -Undang tentang Keinsinyuran\nadalah cakupan Keinsinyuran, standar Keinsinyuran, Program Profesi\nInsinyur, Registrasi Insinyur, Insinyur A sing, Pengembangan\nKeprofesian Berkelanjutan, hak dan kewajiban, kelembagaan Insinyur,\norganisasi profesi Insinyur, dan pembinaan Keinsinyuran. Undang-\nUndang ini mengatur b ahwa Keinsinyuran  mencakup disiplin teknik\nKeinsinyuran dan bidang Keinsinyuran.  Sementara itu, u ntuk\nmenjamin mutu kompetensi dan profesionalitas layanan profesi\nInsinyur, dikembangkan standar profesi Keinsinyuran yang terdiri atas\nstandar layanan Insiny ur, standar kompetensi Insinyur, dan standar\nProgram Profesi Insinyur.\nDalam . . .\n\n\n\n\n\n\nDalam Undang -Undang ini diatur pula bahwa s etiap Insinyur\nyang melakukan P raktik Keinsinyuran harus memiliki Surat Tanda\nRegistrasi Insinyur yang dikeluarkan oleh PII dan berlaku selam a 5\n(lima) tahun serta diregistrasi ulang setiap 5 (lima) tahun . Selain itu,\ndiatur bahwa Insinyur Asing yang melakukan Praktik Keinsinyuran di\nIndonesia harus memiliki surat izin kerja tenaga kerja asing sesuai\ndengan ketentuan peraturan perundang -undangan dan memenuhi\nketentuan dalam Undang-Undang ini.\nDalam rangka meningkatkan profesionalitas profesi Insinyur,\ndiselenggarakan Pengembangan Keprofesian Berkelanjutan yang\nbertujuan untuk memelihara kompetensi dan profesionalitas Insinyur\ndan mengembangkan tanggung jawab sosial  Insinyur pada lingkungan\nprofesinya dan masyarakat di sekitarnya.\nKelembagaan Keinsinyuran  terdiri atas 2 (dua) lembaga , yaitu\nDewan Insinyur Indonesia dan Persatuan Insinyur Indonesia (PII).\nDewan Insinyur Indonesia mempunyai fungs i merumuskan kebijakan\npenyelenggaraan dan pengawasan pelaksanaan Praktik Keinsinyuran ,\nsementara itu, PII merupakan lembaga yang berfungsi melaksanaan\nPraktik Keinsinyuran.  Pembinaan Praktik Keinsinyuran merupakan\ntanggung jawab Pemerintah yang dilakukan  oleh menteri yang\nmenyelenggarakan urusan pemerintahan di bidang pendidikan dan\nmenteri lainnya yang terkait.\nUndang-Undang ini juga mengatur ketentuan peralihan guna\nmemberikan kepastian hukum terkait dengan kenyataan bahwa\nkegiatan Keinsinyuran telah l ama diprakti kkan dal am masyarakat\nsebelum lahirnya Undang -Undang ini, terutama mengenai pengakuan\ndan status Insinyur yang  sudah bekerja secara profes ional di bidang\nKeinsinyuran sebelum lahirnya Undang-Undang ini.\nDengan Undang-Undang ini juga diharapkan Keinsinyuran dapat\nmeningkatkan daya saing bangsa dan negara dalam menggali dan\nmemberikan nilai tambah atas berbagai potensi yang dimiliki tanah air,\nmenjawab kebutuhan mengatasi segala kendala dan masalah dari\nperubahan global yang dihadapi dan selanjut nya dapat menyumbang\nbanyak bagi kemajuan dan kemandirian bangsa.\nII. PASAL . . .\n\n\n\n\n\n\nII.  PASAL DEMI PASAL\n\nPasal 1\nCukup jelas.\n\nPasal 2\nHuruf a\nYang dimaksud dengan “asas profesionalitas” adalah prinsip\npelaksanaan Praktik Keinsinyuran yang didasari pada\nperilaku yang menuju ideal, meningkatkan dan memelihara\ncitra profesi, mengejar kualitas dan cita -cita profesi, serta\nmengembangkan diri secara berkelanjutan.\nHuruf b\nYang dimaksud dengan “asas integritas” adalah prinsip\nmenjunjung tinggi kewajiban moral terhadap masya rakat,\nprofesi, dan rekan seprofesi dalam melaksanakan Praktik\nKeinsinyuran.\nHuruf c\nYang dimaksud dengan “asas etika” adalah prinsip\npelaksanaan Praktik Keinsinyuran yang berdasarkan\nnorma, nilai moral, dan kaidah  profesi Insinyur.\nHuruf d\nYang dimaks ud dengan “asas keadilan” adalah prinsip\npelaksanaan Praktik Keinsinyuran yang menjamin\nterlaksananya hak dan kewajiban, tidak diskriminatif bagi\nInsinyur, Pengguna Keinsinyuran, dan Pemanfaat\nKeinsinyuran.\nHuruf e\nYang dimaksud dengan “asas keselarasan”  adalah prinsip\npelaksanaan Praktik Keinsinyuran harus seimbang dan\nsejalan dengan ke pentingan masyarakat dan negara  serta\nkebudayaan Indonesia dan peradaban.\n\n Huruf f . . .\n\n\n\n\n\n\nHuruf f\nYang dimaksud dengan “asas kemanfaatan” adalah prinsip\npelaksanaan Praktik Keinsinyuran yang menjamin\nterwujudnya nilai tambah dan daya guna secara optimal\nbagi kepentingan nasional.\nHuruf g\nYang dimaksud dengan “asas keamanan dan keselamatan”\nadalah prinsip terpenuhinya tertib Praktik Keinsinyuran,\nkeamanan lingkungan dan keselamatan ke rja, serta\npemanfaatan hasil pekerjaan Keinsinyuran dengan tetap\nmemperhatikan kepentingan umum.\nHuruf h\nYang dimaksud dengan “asas kelestarian lingkungan hidup”\nadalah prinsip pelaksanaan Praktik Keinsinyuran yang\nmemperhatikan dan mengutamakan pelindun gan serta\npemeliharaan lingkungan hidup untuk generasi sekarang\ndan generasi yang akan datang demi kepentingan bangsa\ndan negara.\nHuruf i\nYang dimaksud dengan \"asas keberlanjutan\" adalah prinsip\npelaksanaan Praktik Keinsinyuran yang menjamin\nterjadinya proses pembangunan yang berkelanjutan.\n\nPasal 3\nCukup jelas.\n\nPasal 4\nCukup jelas.\n\nPasal 5\nCukup jelas.\n\n\n\n\n\nPasal 6 . . .\n\n\n\n\n\n\nPasal 6\nAyat (1)\nHuruf a\nYang di maksud dengan “standar layanan I nsinyur”\nadalah tolok ukur yang menjamin ef isiensi,\nefektivitas, dan syarat mu tu yang dipergunakan\nsebagai pedoman dalam pelaksanaan Praktik\nKeinsinyuran.\nHuruf b\nYang dimaksud dengan “standar kompetensi\nInsinyur” adalah  rumusan kemampuan kerja yang\nmencakup sikap kerja, pengetahuan, dan\nketerampilan kerja yang relevan dengan pelaksanaan\nPraktik Keinsinyuran.\nHuruf c\nYang dimaksud d engan “standar Program P rofesi\nInsinyur” adalah tolok ukur yang dipergunakan\nsebagai pedoman pelaksanaan program profesi\nInsinyur yang sesuai dengan peraturan perundang -\nundangan yang berkaitan dengan siste m pendidikan\ntinggi.\nAyat (2)\nCukup jelas.\nAyat (3)\nCukup jelas.\nAyat (4)\nCukup jelas.\n\nPasal 7\nAyat (1)\nCukup jelas.\n\n\n\n\nAyat (2) . . .\n\n\n\n\n\n\nAyat (2)\nHuruf a\nCukup jelas.\nHuruf b\nYang dimaksud dengan “program penyetaraan”\nadalah proses penyandingan dan pengintegrasian\ncapaian pembelajaran yang diperoleh melalui\npendidikan, pelatihan kerja, dan pengalaman kerja\nuntuk sarjana pendidikan bidang teknik atau\nsarjana bidang sains yang diselenggarakan oleh\nperguruan tinggi.\nAyat (3)\nYang dimaksud dengan “ rekognisi pembelajaran lam pau”\nadalah pengakuan atas capaian pembelajaran seseorang\nyang diperoleh dari pendidikan nonformal , pendidikan\ninformal, dan/atau  pengalaman kerja di dalam sektor\npendidikan formal.\n\nPasal 8\nAyat (1)\nYang dimaksud dengan “kementerian terkait” adalah\nkementerian yang tugas, pokok, dan fungsinya memiliki\nketerkaitan dengan bidang Keinsinyuran.\nAyat (2)\nCukup jelas.\nAyat (3)\nCukup jelas.\n\nPasal 9\nCukup jelas.\n\nPasal 10\nCukup jelas.\n\n Pasal 11 . . .\n\n\n\n\n\n\nPasal 11\nCukup jelas.\n\nPasal 12\nCukup jelas.\n\nPasal 13\nCukup jelas.\n\nPasal 14\nCukup jelas.\n\nPasal 15\nCukup jelas.\n\nPasal 16\nCukup jelas.\n\nPasal 17\nCukup jelas.\n\nPasal 18\nCukup jelas.\n\nPasal 19\nCukup jelas.\n\nPasal 20\nCukup jelas.\n\nPasal 21\nCukup jelas.\n\nPasal 22\nCukup jelas.\n\n\nPasal 23 . . .\n\n\n\n\n\n\nPasal 23\nCukup jelas.\n\nPasal 24\nCukup jelas.\n\nPasal 25\nCukup jelas.\n\nPasal 26\nCukup jelas.\n\nPasal 27\nCukup jelas.\n\nPasal 28\nCukup jelas.\n\nPasal 29\nCukup jelas.\n\nPasal 30\nCukup jelas.\n\nPasal 31\nCukup jelas.\n\nPasal 32\nHuruf a\nYang dimaksud dengan “sistem registrasi Insinyu r” adalah\nmekanisme dan prosedur pencatatan resmi dan\npemutakhirannya terhadap Insinyur yang telah memiliki\nsertifikat profesi , sertifikat kompetensi , serta pemberian\nSurat Tanda Registrasi Insinyur.\n\n Huruf b . . .\n\n\n\n\n\n\nHuruf b\nCukup jelas.\nHuruf c\nCukup jelas.\nHuruf d\nCukup jelas.\nHuruf e\nCukup jelas.\nHuruf f\nCukup jelas.\nHuruf g\nYang dimaksud dengan “perjanjian kerja sama\nKeinsinyuran internasional” adalah perjanjian yang\ndilakukan oleh Dewan Insinyur Indonesia mewakili\nPemerintah.\nHuruf h\nYang dimaksud dengan  “perjanjian kerja sama\nKeinsinyuran internasional” adalah perjanjian yang\ndilakukan oleh PII dengan organisasi profesi asing, lembaga\ninternasional, atau negara lain yang berdampak secara\nnasional.\n\nPasal 33\nCukup jelas.\n\nPasal 34\nCukup jelas.\n\nPasal 35\nCukup jelas.\n\nPasal 36\nCukup jelas.\n\n Pasal 37 . . .\n\n\n\n\n\n\nPasal 37\nCukup jelas.\n\nPasal 38\nCukup jelas.\n\nPasal 39\nHuruf a\nCukup jelas.\nHuruf b\nCukup jelas.\nHuruf c\nCukup jelas.\nHuruf d\nCukup jelas.\nHuruf e\nCukup jelas.\nHuruf f\nCukup jelas.\nHuruf g\nYang dimaksud dengan “himpunan keahlian Keinsinyuran”\nadalah organisasi profesi yang mencakup satu disiplin\nteknik Keinsinyuran.\nHuruf h\nCukup jelas.\n\nPasal 40\nCukup jelas.\n\nPasal 41\nCukup jelas.\n\n\n\nPasal 42 . . .\n\n\n\n\n\n\nPasal 42\nCukup jelas.\n\nPasal 43\nCukup jelas.\n\nPasal 44\nCukup jelas.\n\nPasal 45\nAyat (1)\nPembinaan Keinsinyuran meliputi pengaturan, pengesahan,\npenetapan, pemberdayaan, dan pembiayaan.\nAyat (2)\nCukup jelas.\n\nPasal 46\nHuruf a\nYang dimaksud dengan “pengembangan kapasitas\nKeinsinyuran” adalah upaya untuk meningkatkan lingkup,\nskala, kuantitas, dan kualitas Keinsinyuran melalui antara\nlain pendidikan dan pelatihan profesi, pengembangan\nangkatan kerja, dan pemberdayaan usaha.\nHuruf b\nCukup jelas.\nHuruf c\nCukup jelas.\nHuruf d\nPemerintah mendorong industri untuk melakukan\npenelitian dan pengembangan  dalam rangka meningkatkan\nnilai tambah produksi melalui pendekatan strategi insentif\ndan disinsentif.\n\n Huruf e . . .\n\n\n\n\n\n\nHuruf e\nCukup jelas.\nHuruf f\nCukup jelas.\nHuruf g\nCukup jelas.\nHuruf h\nDalam rangka membangun ekonomi nasional berbasis\npengetahuan, teknologi, dan Keinsinyuran, kebijakan yang\nberpihak pada produksi dalam negeri perlu diutamakan\nagar rantai suplai produksi nasional tumbuh secara sehat\ndan kompetitif.\nHuruf i\nCukup jelas.\nHuruf j\nCukup jelas.\n\nPasal 47\nCukup jelas.\n\nPasal 48\nYang dimaksud dengan “audit kinerja Keinsinyuran ” adalah\npemeriksaan dan penilaian terhadap norma, standar, prosedur,\ndan kriteria Praktik Keinsinyuran.\n\nPasal 49\nCukup jelas.\n\nPasal 50\nCukup jelas.\n\nPasal 51\nCukup jelas.\n\n\nPasal 52 . . .\n\n\n\n\n\n\nPasal 52\nCukup jelas.\n\nPasal 53\nCukup jelas.\n\nPasal 54\nCukup jelas.\n\nPasal 55\nCukup jelas.\n\nPasal 56\nCukup jelas.\n\n\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 5520"
+   }
+  }
+ ]
+}

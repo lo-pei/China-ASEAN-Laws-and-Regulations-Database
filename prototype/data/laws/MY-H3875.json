@@ -1,0 +1,66 @@
+{
+ "id": "MY-H3875",
+ "title": {
+  "zh": "1999年港务局（第一附表修正）令",
+  "en": "PORT AUTHORITIES (AMENDMENT OR FIRST SCHEDULE) ORDER 1999",
+  "orig": "PORT AUTHORITIES (AMENDMENT OR FIRST SCHEDULE) ORDER 1999",
+  "ms": "Perintah Lembaga Pelabuhan (Pindaan Jadual Pertama) 1999",
+  "vi": "Lệnh về Các cơ quan cảng vụ (Sửa đổi Phụ lục thứ nhất) năm 1999",
+  "th": "คำสั่งการท่าเรือ (การแก้ไขตารางผนวกที่หนึ่ง) ค.ศ. 1999",
+  "id": "Perintah Otoritas Pelabuhan (Pindaan Lampiran Pertama) Tahun 1999"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-9",
+ "language": "ms",
+ "level": "regulation",
+ "category": "03_涉外投资与贸易",
+ "status": "active",
+ "promulgatedDate": "1999",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "PUA290",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 2,
+ "chars": 750,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-view.php?type=pua&no=P.U. (A) 290/1999&status=PINDAAN"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\03_涉外投资与贸易\\1999_P.U.(A)290-1999_PORT AUTHORITIES (AMENDMENT OR FIRST SCHEDULE) ORDER 1999.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 2 条；逐字未改写（源自厂商 OCR 文本）。原文马来文/英文双语并置，已分别落 text.ms 与 text.en。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H3875-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "1. Perintah ini bolehlah dinamakan Perintah Lembaga Pelabuhan (Pindaan\nJadual Pertama) 1999 dan hendaklah disifatkan telah mula berkuat kuasa pada\n11 November 1995.\n\nPindaan Jadual Pertama"
+   }
+  },
+  {
+   "id": "MY-H3875-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "2. Jadual Pertama Akta Lembaga Pelabuhan 1963 dipinda dengan menggantikan\nperkataan \"Johore Bahru Port\" yang terdapat dalam ruang (1) dengan perkataan\n\"Pasir Gudang Port\".\n\nDibuat 1 Julai 1999.\n[KP/PL/0.73/31; PN(PU?)175]\n\nDengan Titah Perintah,\n\nDato' Seri Dr. Linc Liong Sik\nMenteri Pengangkutan\n\nPORT AUTHORITIES ACT 1963\nPort AUTHORITIES (AMENDMENT OF First Scuedule) Orper 1999\nIn exercise of the powers conferred by subsection 47(1a) of the Port Authorities\nAct 1963 [Act 488], the Yang di-Pertuan Agong makes the following order:\nCitation and commencement"
+   }
+  }
+ ]
+}

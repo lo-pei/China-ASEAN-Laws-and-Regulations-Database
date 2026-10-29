@@ -1,0 +1,72 @@
+{
+ "id": "PH-H21986",
+ "title": {
+  "zh": null,
+  "en": "Amending Section 3 of Presidential Decree No. 436 By Allocating a Share in Highway Special Fund to the Barangays",
+  "orig": "Amending Section 3 of Presidential Decree No. 436 By Allocating a Share in Highway Special Fund to the Barangays"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p159",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1974-09-21",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 558",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1052,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_00558_1974_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_00558_1974_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H21986-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section 3 of Presidential Decree No. 436, is hereby amended to read as follows:\n\"Sec. 3. The shares of provinces, cities and municipalities shall be alloted on the basis of the collection in\nspecific taxes during the second fiscal year immediately preceding the current fiscal year in the following\nproportions:\n20% of total shares to provinces\n30% of total shares to municipalities\n50% of total shares to chartered cities\nProvided, That before the above apportionment is made, one-fourth of the total accruals under this Section\nshall be set aside and apportioned annually by the President among Barangays for the construction,\nimprovement and maintenance of roads and bridges within their respective territorial jurisdictions in\naccordance with the national infrastructure program.\""
+   }
+  },
+  {
+   "id": "PH-H21986-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "All laws or part of laws inconsistent with this Decree are hereby repealed, amended or modified\naccordingly."
+   }
+  },
+  {
+   "id": "PH-H21986-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Decree shall take effect upon approval.\nDONE in the City of Manila, this 21st day of September, in the year of Our Lord, nineteen hundred and\nseventy-four."
+   }
+  }
+ ]
+}

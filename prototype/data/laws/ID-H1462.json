@@ -1,0 +1,1274 @@
+{
+ "id": "ID-H1462",
+ "title": {
+  "zh": "医疗执业法",
+  "en": "Law on Medical Practice",
+  "id": "PRAKTIK KEDOKTERAN",
+  "orig": "PRAKTIK KEDOKTERAN",
+  "vi": "Luật về Hành nghề Y khoa",
+  "th": "พระราชบัญญัติว่าด้วยการประกอบวิชาชีพเวชกรรม",
+  "ms": "Akta tentang Amalan Perubatan"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02a",
+ "language": "id",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "2004",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU29-2004",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 88,
+ "chars": 64313,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": null
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\01_宪法与基础法\\印尼_WLD_2004_PRAKTIK KEDOKTERAN.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 88 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H1462-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\nDalam Undang-Undang ini yang dimaksud dengan:\n1. Praktik kedokteran adalah rangkaian kegiatan\nyang dilakukan oleh dokter dan dokter gigi terhadap pasien dalam\nmelaksanakan upaya\nkesehatan.\n2. Dokter dan dokter gigi adalah dokter, dokter\nspesialis, dokter gigi, dan dokter gigi spesialis lulusan\npendidikan kedokteran atau\nkedokteran gigi baik di dalam maupun di\nluar negeri yang diakui oleh Pemerintah Republik Indonesia sesuai\ndengan peraturan perundang-undangan.\n3. Konsil Kedokteran Indonesia adalah suatu badan\notonom, mandiri, nonstruktural, dan bersifat independen, yang\nterdiri atas Konsil\nKedokteran dan Konsil Kedokteran Gigi.\n4. Sertifikat kompetensi adalah surat tanda\npengakuan terhadap kemampuan seorang dokter atau dokter gigi untuk\nmenjalankan praktik\nkedokteran di seluruh Indonesia setelah lulus\nuji kompetensi.\n5. Registrasi adalah pencatatan resmi terhadap\ndokter dan dokter gigi yang telah memiliki sertifikat kompetensi\ndan telah mempunyai\nkualifikasi tertentu lainnya serta diakui\nsecara hukum untuk melakukan tindakan profesinya.\n6. Registrasi ulang adalah pencatatan ulang\nterhadap dokter dan dokter gigi yang telah diregistrasi setelah\nmemenuhi persyaratan yang\nberlaku.\n7. Surat izin praktik adalah bukti tertulis yang\ndiberikan pemerintah kepada dokter dan dokter gigi yang akan\nmenjalankan praktik\nkedokteran setelah memenuhi persyaratan.\n8. Surat tanda registrasi dokter dan dokter gigi\nadalah bukti tertulis yang diberikan oleh Konsil Kedokteran\nIndonesia kepada dokter\ndan dokter gigi yang telah\ndiregistrasi.\n9. Sarana pelayanan kesehatan adalah tempat\npenyelenggaraan upaya pelayanan kesehatan yang dapat digunakan\nuntuk praktik kedokteran\natau kedokteran gigi.\n10. Pasien adalah setiap orang yang melakukan\nkonsultasi masalah kesehatannya untuk memperoleh pelayanan\nkesehatan yang diperlukan\nbaik secara langsung maupun tidak\nlangsung kepada dokter atau dokter gigi.\n11. Profesi kedokteran atau kedokteran gigi adalah\nsuatu pekerjaan kedokteran atau kedokteran gigi yang dilaksanakan\nberdasarkan suatu\nkeilmuan, kompetensi yang diperoleh melalui\npendidikan yang berjenjang, dan kode etik yang bersifat melayani\nmasyarakat.\n12. Organisasi profesi adalah Ikatan Dokter\nIndonesia untuk dokter dan Persatuan Dokter Gigi Indonesia untuk\ndokter gigi.\n13. Kolegium kedokteran Indonesia dan kolegium\nkedokteran gigi Indonesia adalah badan yang dibentuk oleh\norganisasi profesi untuk\nmasing-masing cabang disiplin ilmu yang\nbertugas mengampu cabang disiplin ilmu tersebut.\n14. Majelis Kehormatan Disiplin Kedokteran\nIndonesia adalah lembaga yang berwenang untuk menentukan ada\ntidaknya kesalahan yang dilakukan\ndokter dan dokter gigi dalam\npenerapan disiplin ilmu kedokteran dan kedokteran gigi, dan\nmenetapkan sanksi.\n15. Menteri adalah menteri yang tugas dan tanggung\njawabnya di bidang kesehatan.\nBAB II\nASAS DAN TUJUAN"
+   }
+  },
+  {
+   "id": "ID-H1462-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\nPraktik kedokteran dilaksanakan berasaskan Pancasila dan didasarkan\npada nilai ilmiah, manfaat, keadilan, kemanusiaan, keseimbangan,\nserta perlindungan dan keselamatan pasien."
+   }
+  },
+  {
+   "id": "ID-H1462-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\nPengaturan praktik kedokteran bertujuan untuk:\na. memberikan perlindungan kepada pasien;\nb. mempertahankan dan meningkatkan mutu pelayanan\nmedis yang diberikan oleh dokter dan dokter gigi; dan\nc. memberikan kepastian hukum kepada masyarakat, dokter dan dokter\ngigi.\nBAB III\nKONSIL KEDOKTERAN INDONESIA\nBagian Kesatu\nNama dan Kedudukan"
+   }
+  },
+  {
+   "id": "ID-H1462-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\n(1) Untuk melindungi masyarakat penerima jasa\npelayanan kesehatan dan meningkatkan mutu pelayanan kesehatan dari\ndokter dan dokter\ngigi dibentuk Konsil Kedokteran Indonesia yang\nterdiri atas Konsil Kedokteran dan Konsil Kedokteran Gigi.\n(2) Konsil Kedokteran Indonesia sebagaimana\ndimaksud pada ayat (1) bertanggung jawab kepada Presiden."
+   }
+  },
+  {
+   "id": "ID-H1462-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\nKonsil Kedokteran Indonesia berkedudukan di ibukota negara Republik\nIndonesia.\nBagian Kedua\nFungsi, Tugas, dan Wewenang"
+   }
+  },
+  {
+   "id": "ID-H1462-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\nKonsil Kedokteran Indonesia mempunyai fungsi pengaturan,\npengesahan, penetapan, serta pembinaan dokter dan dokter gigi yang\nmenjalankan\npraktik kedokteran, dalam rangka meningkatkan mutu\npelayanan medis."
+   }
+  },
+  {
+   "id": "ID-H1462-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\n(1) Konsil Kedokteran Indonesia mempunyai tugas:\na. melakukan registrasi dokter dan dokter\ngigi;\nb. mengesahkan standar pendidikan profesi dokter dan dokter gigi;\ndan\nc. melakukan pembinaan terhadap penyelenggaraan\npraktik kedokteran yang dilaksanakan bersama lembaga terkait sesuai\ndengan fungsi\nmasing-masing.\n(2) Standar pendidikan profesi dokter dan dokter\ngigi yang disahkan Konsil sebagaimana dimaksud pada ayat (1) huruf\nb ditetapkan bersama\noleh Konsil Kedokteran Indonesia dengan\nkolegium kedokteran, kolegium kedokteran gigi, asosiasi institusi\npendidikan kedokteran,\nasosiasi institusi pendidikan kedokteran\ngigi, dan asosiasi rumah sakit pendidikan."
+   }
+  },
+  {
+   "id": "ID-H1462-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\nDalam menjalankan tugas sebagaimana dimaksud dalam Pasal 7 Konsil\nKedokteran Indonesia mempunyai wewenang:\na. menyetujui dan menolak permohonan registrasi dokter dan dokter\ngigi;\nb. menerbitkan dan mencabut surat tanda registrasi dokter dan\ndokter gigi;\nc. mengesahkan standar kompetensi dokter dan dokter gigi;\nd. melakukan pengujian terhadap persyaratan\nregistrasi dokter dan dokter gigi;\ne. mengesahkan penerapan cabang ilmu kedokteran dan kedokteran\ngigi;\nf. melakukan pembinaan bersama terhadap dokter dan\ndokter gigi mengenai pelaksanaan etika profesi yang ditetapkan oleh\norganisasi\nprofesi; dan\ng. melakukan pencatatan terhadap dokter dan dokter\ngigi yang dikenakan sanksi oleh organisasi profesi atau\nperangkatnya karena melanggar\nketentuan etika profesi."
+   }
+  },
+  {
+   "id": "ID-H1462-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\nKetentuan lebih lanjut mengenai fungsi dan tugas Konsil Kedokteran\nIndonesia diatur dengan Peraturan Konsil Kedokteran Indonesia."
+   }
+  },
+  {
+   "id": "ID-H1462-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\nKetentuan lebih lanjut mengenai pelaksanaan fungsi, tugas, dan\nwewenang Konsil Kedokteran dan Konsil Kedokteran Gigi diatur dengan\nPeraturan Konsil Kedokteran dan Konsil Kedokteran Gigi.\nBagian Ketiga\nSusunan Organisasi dan Keanggotaan"
+   }
+  },
+  {
+   "id": "ID-H1462-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\n(1) Susunan organisasi Konsil Kedokteran Indonesia terdiri\natas:\na. Konsil Kedokteran; dan\nb. Konsil Kedokteran Gigi.\n(1) Konsil Kedokteran dan Konsil Kedokteran Gigi\nsebagaimana dimaksud pada ayat (1) masing-masing terdiri atas 3\n(tiga) divisi, yaitu:\na. Divisi Registrasi;\nb. Divisi Standar Pendidikan Profesi; dan\nc. Divisi Pembinaan."
+   }
+  },
+  {
+   "id": "ID-H1462-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n(1) Pimpinan Konsil Kedokteran Indonesia terdiri atas:\na. pimpinan Konsil Kedokteran Indonesia yang\nterdiri atas 3 (tiga) orang merangkap anggota;\nb. pimpinan Konsil Kedokteran dan pimpinan Konsil\nKedokteran Gigi masing-masing 1 (satu) orang merangkap anggota;\ndan\nc. pimpinan divisi pada Konsil Kedokteran dan\nKonsil Kedokteran Gigi masing-masing 1 (satu) orang merangkap\nanggota.\n(1) Pimpinan Konsil Kedokteran Indonesia\nsebagaimana dimaksud pada ayat (1) bekerja secara kolektif.\n(3) Pimpinan Konsil Kedokteran Indonesia\nsebagaimana dimaksud pada ayat (1) huruf a adalah penanggung jawab\ntertinggi."
+   }
+  },
+  {
+   "id": "ID-H1462-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\n(1) Pimpinan Konsil Kedokteran Indonesia terdiri\natas seorang ketua dan 2 (dua) orang wakil ketua.\n(2) Pimpinan Konsil Kedokteran terdiri atas\nseorang ketua dan 3 (tiga) orang ketua divisi.\n(3) Pimpinan Konsil Kedokteran Gigi terdiri atas\nseorang ketua dan 3 (tiga) orang ketua divisi."
+   }
+  },
+  {
+   "id": "ID-H1462-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\n(1) Jumlah anggota Konsil Kedokteran Indonesia 17\n(tujuah belas) orang yang terdiri atas unsur-unsur yang berasal\ndari:\na. organisasi profesi kedokteran 2 (dua)\norang;\nb. organisasi profesi kedokteran gigi 2 (dua) orang;\nc. asosiasi institusi pendidikan kedokteran 1 (satu) orang;\nd. asosiasi institusi pendidikan kedokteran gigi 1 (satu)\norang;\ne. kolegium kedokteran 1 (satu) orang;\nf. kolegium kedokteran gigi 1 (satu) orang;\ng. asosiasi rumah sakit pendidikan 2 (dua) orang;\nh. tokoh masyarakat 3 (tiga) orang;\ni. Departemen Kesehatan 2 (dua) orang; dan\nj. Departemen Pendidikan Nasional 2 (dua) orang.\n(2) Tata cara pemilihan tokoh masyarakat\nsebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Konsil\nKedokteran Indonesia.\n(3) Keanggotaan Konsil Kedokteran Indonesia\nditetapkan oleh Presiden atas usul Menteri.\n(4) Menteri dalam mengusulkan keanggotaan Konsil\nKedokteran Indonesia harus berdasarkan usulan dari organisasi dan\nasosiasi sebagaimana\ndimaksud pada ayat (1).\n(5) Ketentuan mengenai tata cara pengangkatan\nkeanggotaan Konsil Kedokteran Indonesia diatur dengan Peraturan\nPresiden."
+   }
+  },
+  {
+   "id": "ID-H1462-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\nPimpinan Konsil Kedokteran Indonesia, pimpinan Konsil Kedokteran,\npimpinan Konsil Kedokteran Gigi, pimpinan divisi pada Konsil\nKedokteran\ndan Konsil Kedokteran Gigi dipilih oleh anggota dan\nditetapkan oleh rapat pleno anggota."
+   }
+  },
+  {
+   "id": "ID-H1462-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\nMasa bakti keanggotaan Konsil Kedokteran Indonesia adalah 5 (lima)\ntahun dan dapat diangkat kembali untuk 1 (satu) kali masa jabatan\nberikutnya."
+   }
+  },
+  {
+   "id": "ID-H1462-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\n(1) Anggota Konsil Kedokteran Indonesia sebelum\nmemangku jabatan wajib mengucapkan sumpah/janji, menurut agamanya\ndi hadapan Presiden.\n(2) Sumpah/janji sebagaimana dimaksud pada ayat (1) berbunyi\nsebagai berikut:\n²Saya bersumpah/berjanji dengan sungguh-sungguh bahwa saya,\nuntuk melaksanakan tugas ini, langsung atau tidak langsung, dengan\nmenggunakan nama atau cara apapun juga, tidak memberikan atau\nmenjanjikan sesuatu apapun kepada siapapun juga.\nSaya bersumpah/berjanji bahwa saya, untuk melakukan atau tidak\nmelakukan sesuatu dalam tugas ini, tidak sekali-kali akan menerima\nlangsung atau tidak langsung dari siapapun juga suatu janji atau\npemberian.\nSaya bersumpah/berjanji bahwa saya, dalam menjalankan tugas ini,\nsenantiasa menjunjung tinggi ilmu kedokteran atau kedokteran gigi\ndan mempertahankan serta meningkatkan mutu pelayanan dokter atau\ndokter gigi.\nSaya bersumpah/berjanji bahwa saya, akan setia dan taat kepada dan\nakan mempertahankan serta mengamalkan Pancasila sebagai dasar\nnegara, Undang-Undang Dasar Negara Republik Indonesia Tahun 1945,\nserta peraturan perundang-undangan yang berlaku bagi Negara\nRepublik\nIndonesia.\nSaya bersumpah/berjanji bahwa saya, senantiasa akan menjalankan\ntugas dan wewenang saya ini dengan sungguh-sungguh, saksama,\nobyektif,\njujur, berani, adil, tidak membeda-bedakan jabatan, suku,\nagama, ras, jender, dan golongan tertentu dan akan melaksanakan\nkewajiban\nsaya dengan sebaik-baiknya, serta bertanggung jawab\nsepenuhnya kepada Tuhan Yang Maha Esa, masyarakat, bangsa dan\nnegara.\nSaya bersumpah/berjanji bahwa saya, senantiasa akan menolak atau\ntidak menerima atau tidak mau dipengaruhi oleh campur tangan\nsiapapun\njuga dan saya akan tetap teguh melaksanakan tugas dan\nwewenang saya yang diamanatkan Undang-undang kepada saya.''"
+   }
+  },
+  {
+   "id": "ID-H1462-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\nUntuk dapat diangkat sebagai anggota Konsil Kedokteran Indonesia,\nyang bersangkutan harus memenuhi syarat sebagai berikut:\na. warga negara Republik Indonesia;\nb. sehat jasmani dan rohani;\nc. bertakwa kepada Tuhan Yang Maha Esa dan berakhlak mulia;\nd. berkelakuan baik;\ne. berusia sekurang-kurangnya 40 (empat puluh)\ntahundan setinggi-tingginya 65 (enam puluh lima) tahun pada waktu\nmenjadi anggota Konsil\nKedokteran Indonesia;\nf. pernah melakukan praktik kedokteran paling\nsedikit 10 (sepuluh) tahun dan memiliki surat tanda registrasi\ndokter atau surat tanda\nregistrasi dokter gigi, kecuali untuk wakil\ndari masyarakat;\ng. cakap, jujur, memiliki moral, etika dan\nintegritas yang tinggi serta memiliki reputasi yang baik; dan\nh. melepaskan jabatan struktural dan/atau jabatan\nlainnya pada saat diangkat dan selama menjadi anggota Konsil\nKedokteran Indonesia."
+   }
+  },
+  {
+   "id": "ID-H1462-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\n(1) Anggota Konsil Kedokteran Indonesia berhenti atau diberhentikan\nkarena:\na. berakhir masa jabatan sebagai anggota;\nb. mengundurkan diri atas permintaan sendiri;\nc. meninggal dunia;\nd. bertempat tinggal tetap di luar wilayah Republik Indonesia;\ne. tidak mampu lagi melakukan tugas secara\nterus-menerus selama 3 (tiga) bulan; atau\nf. dipidana karena melakukan tindak pidana\nkejahatan berdasarkan putusan pengadilan yang telah memperoleh\nkekuatan hukum tetap.\n(2) Dalam hal anggota Konsil Kedokteran Indonesia\nmenjadi tersangka tindak pidana kejahatan, diberhentikan sementara\ndari jabatannya.\n(2) Pemberhentian sementara sebagaimana dimaksud\npada ayat (2) ditetapkan oleh Ketua Konsil Kedokteran\nIndonesia.\n(3) Pengusulan pemberhentian sebagaimana dimaksud\npada ayat (1) diajukan oleh Menteri kepada Presiden."
+   }
+  },
+  {
+   "id": "ID-H1462-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\n(1) Dalam melaksanakan tugas dan wewenangnya\nKonsil Kedokteran Indonesia dibantu sekretariat yang dipimpin oleh\nseorang sekretaris.\n(2) Sekretaris diangkat dan diberhentikan oleh Menteri.\n(3) Sekretaris sebagaimana dimaksud pada ayat (2)\nbukan anggota Konsil Kedokteran Indonesia.\n(4) Dalam menjalankan tugasnya sekretaris\nbertanggung jawab kepada pimpinan Konsil Kedokteran\nIndonesia.\n(5) Ketentuan fungsi dan tugas sekretaris\nditetapkan oleh Ketua Konsil Kedokteran Indonesia."
+   }
+  },
+  {
+   "id": "ID-H1462-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\n(1) Pelaksanaan tugas sekretariat dilakukan oleh\npegawai Konsil Kedokteran Indonesia.\n(2) Pegawai sebagaimana dimaksud pada ayat (1)\ntunduk pada peraturan perundang-undangan tentang kepegawaian.\nBagian Keempat\nTata Kerja"
+   }
+  },
+  {
+   "id": "ID-H1462-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\n(1) Setiap keputusan Konsil Kedokteran Indonesia\nyang bersifat mengatur diputuskan oleh rapat pleno anggota.\n(2) Rapat pleno Konsil Kedokteran Indonesia\ndianggap sah jika dihadiri oleh paling sedikit setengah dari jumlah\nanggota ditambah satu.\n(3) Keputusan diambil dengan cara musyawarah untuk mufakat.\n(4) Dalam hal tidak terdapat kesepakatan\nsebagaimana dimaksud pada ayat (3), maka dapat dilakukan pemungutan\nsuara."
+   }
+  },
+  {
+   "id": "ID-H1462-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\nPimpinan Konsil Kedokteran Indonesia melakukan pembinaan terhadap\npelaksanaan tugas anggota dan pegawai konsil agar pelaksanaan tugas\ndilakukan sesuai dengan ketentuan peraturan perundang-undangan."
+   }
+  },
+  {
+   "id": "ID-H1462-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 24\nKetentuan lebih lanjut mengenai tata kerja Konsil Kedokteran\nIndonesia diatur dengan Peraturan Konsil Kedokteran Indonesia.\nBagian Kelima\nPembiayaan"
+   }
+  },
+  {
+   "id": "ID-H1462-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\nBiaya untuk pelaksanaan tugas-tugas Konsil Kedokteran Indonesia\ndibebankan kepada Anggaran Pendapatan dan Belanja Negara.\nBAB IV\nSTANDAR PENDIDIKAN PROFESI KEDOKTERAN\nDAN KEDOKTERAN GIGI"
+   }
+  },
+  {
+   "id": "ID-H1462-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\n(1) Standar pendidikan profesi kedokteran dan\nstandar pendidikan profesi kedokteran gigi disahkan oleh Konsil\nKedokteran Indonesia.\n(2) Standar pendidikan profesi kedokteran dan\nstandar pendidikan profesi kedokteran gigi sebagaimana dimaksud\npada ayat (1):\na. untuk pendidikan profesi dokter atau dokter\ngigi disusun oleh asosiasi institusi pendidikan kedokteran atau\nkedokteran gigi; dan\nb. untuk pendidikan profesi dokter spesialis atau\ndokter gigi spesialis disusun oleh kolegium kedokteran atau\nkedokteran gigi.\n(3) Asosiasi institusi pendidikan kedokteran atau\nkedokteran gigi dalam menyusun standar pendidikan profesi\nsebagaimana dimaksud pada\nayat (2) huruf a berkoordinasi dengan\norganisasi profesi, kolegium, asosiasi rumah sakit pendidikan,\nDepartemen Pendidikan Nasional,\ndan Departemen Kesehatan.\n(4) Kolegium kedokteran atau kedokteran gigi dalam\nmenyusun standar pendidikan profesi sebagaimana dimaksud pada ayat\n(2) huruf b\nberkoordinasi dengan organisasi profesi, asosiasi\ninstitusi pendidikan kedokteran atau kedokteran gigi, asosiasi\nrumah sakit pendidikan,\nDepartemen Pendidikan Nasional, dan\nDepartemen Kesehatan.\nBAB V\nPENDIDIKAN DAN PELATIHAN\nKEDOKTERAN DAN KEDOKTERAN GIGI"
+   }
+  },
+  {
+   "id": "ID-H1462-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\nPendidikan dan pelatihan kedokteran atau kedokteran gigi, untuk\nmemberikan kompetensi kepada dokter atau dokter gigi, dilaksanakan\nsesuai dengan standar pendidikan profesi kedokteran atau kedokteran\ngigi."
+   }
+  },
+  {
+   "id": "ID-H1462-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\n(1) Setiap dokter atau dokter gigi yang berpraktik\nwajib mengikuti pendidikan dan pelatihan kedokteran atau kedokteran\ngigi berkelanjutan\nyang diselenggarakan oleh organisasi profesi dan\nlembaga lain yang diakreditasi oleh organisasi profesi dalam rangka\npenyerapan perkembangan\nilmu pengetahuan dan teknologi kedokteran\natau kedokteran gigi.\n(2) Pendidikan dan pelatihan kedokteran atau\nkedokteran gigi berkelanjutan sebagaimana dimaksud pada ayat (1)\ndilaksanakan sesuai\ndengan standar yang ditetapkan oleh organisasi\nprofesi kedokteran atau kedokteran gigi.\nBAB VI\nREGISTRASI DOKTER DAN DOKTER GIGI"
+   }
+  },
+  {
+   "id": "ID-H1462-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\n(1) Setiap dokter dan dokter gigi yang melakukan\npraktik kedokteran di Indonesia wajib memiliki surat tanda\nregistrasi dokter dan\nsurat tanda registrasi dokter gigi.\n(2) Surat tanda registrasi dokter dan surat tanda\nregistrasi dokter gigi sebagaimana dimaksud pada ayat (1)\nditerbitkan oleh Konsil\nKedokteran Indonesia.\n(3) Untuk memperoleh surat tanda registrasi dokter\ndan surat tanda registrasi dokter gigi harus memenuhi\npersyaratan:\na. memiliki ijazah dokter, dokter spesialis,\ndokter gigi, atau dokter gigi spesialis;\nb. mempunyai surat pernyataan telah mengucapkan\nsumpah/janji dokter atau dokter gigi;\nc. memiliki surat keterangan sehat fisik dan mental;\nd. memiliki sertifikat kompetensi; dan\ne. membuat pernyataan akan mematuhi dan melaksanakan ketentuan\netika profesi.\n(4) Surat tanda registrasi dokter dan surat tanda\nregistrasi dokter gigi berlaku selama 5 (lima) tahun dan\ndiregistrasi ulang setiap\n5 (lima) tahun sekali dengan tetap\nmemenuhi persyaratan sebagaimana dimaksud pada ayat (3) huruf c dan\nhuruf d.\n(5) Ketua Konsil Kedokteran dan Ketua Konsil\nKedokteran Gigi dalam melakukan registrasi ulang harus mendengar\npertimbangan ketua divisi\nregistrasi dan ketua divisi\npembinaan.\n(6) Ketua Konsil Kedokteran dan Ketua Konsil\nKedokteran Gigi berkewajiban untuk memelihara dan menjaga\nregistrasi dokter dan dokter\ngigi."
+   }
+  },
+  {
+   "id": "ID-H1462-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\n(1) Dokter dan dokter gigi lulusan luar negeri\nyang akan melaksanakan praktik kedokteran di Indonesia harus\ndilakukan evaluasi.\n(2) Evaluasi sebagaimana dimaksud pada ayat (1) meliputi:\na. kesahan ijazah;\nb. kemampuan untuk melakukan praktik kedokteran\nyang dinyatakan dengan surat keterangan telah mengikuti program\nadaptasi dan sertifikat\nkompetensi;\nc. mempunyai surat pernyataan telah mengucapkan\nsumpah/janji dokter atau dokter gigi;\nd. memiliki surat keterangan sehat fisik dan mental; dan\ne. membuat pernyataan akan mematuhi dan melaksanakan ketentuan\netika profesi.\n(3) Dokter dan dokter gigi warga negara asing\nselain memenuhi ketentuan sebagaimana dimaksud pada ayat (2) juga\nharus melengkapi surat\nizin kerja sesuai dengan ketentuan peraturan\nperundang-undangan dan kemampuan berbahasa Indonesia.\n(4) Dokter dan dokter gigi yang telah memenuhi\nketentuan sebagaimana dimaksud pada ayat (2) dan ayat (3) diberikan\nsurat tanda registrasi\ndokter atau surat tanda registrasi dokter\ngigi oleh Konsil Kedokteran Indonesia."
+   }
+  },
+  {
+   "id": "ID-H1462-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\n(1) Surat tanda registrasi sementara dapat\ndiberikan kepada dokter dan dokter gigi warga negara asing yang\nmelakukan kegiatan dalam\nrangka pendidikan, pelatihan, penelitian,\npelayanan kesehatan di bidang kedokteran atau kedokteran gigi yang\nbersifat sementara di\nIndonesia.\n(2) Surat tanda registrasi sementara berlaku\nselama 1 (satu) tahun dan dapat diperpanjang untuk 1 (satu) tahun\nberikutnya.\n(3) Surat tanda registrasi sementara diberikan\napabila telah memenuhi ketentuan sebagaimana dimaksud dalam Pasal\n30 ayat (2)."
+   }
+  },
+  {
+   "id": "ID-H1462-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 32\n(1) Surat tanda registrasi bersyarat diberikan\nkepada peserta program pendidikan dokter spesialis atau dokter gigi\nspesialis warga\nnegara asing yang mengikuti pendidikan dan\npelatihan di Indonesia.\n(2) Dokter atau dokter gigi warga negara asing\nyang akan memberikan pendidikan dan pelatihan dalam rangka alih\nilmu pengetahuan dan\nteknologi untuk waktu tertentu, tidak\nmemerlukan surat tanda registrasi bersyarat.\n(3) Dokter atau dokter gigi warga negara asing\nsebagaimana dimaksud pada ayat (2) harus mendapat persetujuan dari\nKonsil Kedokteran\nIndonesia.\n(4) Surat tanda registrasi dan persetujuan\nsebagaimana dimaksud pada ayat (1) dan ayat (3) diberikan melalui\npenyelenggara pendidikan\ndan pelatihan."
+   }
+  },
+  {
+   "id": "ID-H1462-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 33\nSurat tanda registrasi tidak berlaku karena:\na. dicabut atas dasar ketentuan peraturan perundang-undangan;\nb. habis masa berlakunya dan yang bersangkutan tidak mendaftar\nulang;\nc. atas permintaan yang bersangkutan;\nd. yang bersangkutan meninggal dunia; atau\ne. dicabut Konsil Kedokteran Indonesia."
+   }
+  },
+  {
+   "id": "ID-H1462-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 34\nKetentuan lebih lanjut mengenai tata cara registrasi, registrasi\nulang, registrasi sementara, dan registrasi bersyarat diatur dengan\nPeraturan Konsil Kedokteran Indonesia."
+   }
+  },
+  {
+   "id": "ID-H1462-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 35\n(1) Dokter atau dokter gigi yang telah memiliki\nsurat tanda registrasi mempunyai wewenang melakukan praktik\nkedokteran sesuai dengan\npendidikan dan kompetensi yang dimiliki,\nyang terdiri atas:\na. mewawancarai pasien;\nb. memeriksa fisik dan mental pasien;\nc. menentukan pemeriksaan penunjang;\nd. menegakkan diagnosis;\ne. menentukan penatalaksanaan dan pengobatan pasien;\nf. melakukan tindakan kedokteran atau kedokteran gigi;\ng. menulis resep obat dan alat kesehatan;\nh. menerbitkan surat keterangan dokter atau dokter gigi;\ni. menyimpan obat dalam jumlah dan jenis yang diizinkan; dan\nj. meracik dan menyerahkan obat kepada pasien,\nbagi yang praktik di daerah terpencil yang tidak ada apotek.\n(2) Selain kewenangan sebagaimana dimaksud pada\nayat (1) kewenangan lainnya diatur dengan Peraturan Konsil\nKedokteran Indonesia.\nBAB VII\nPENYELENGGARAAN PRAKTIK KEDOKTERAN\nBagian Kesatu\nSurat Izin Praktik"
+   }
+  },
+  {
+   "id": "ID-H1462-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 36\nSetiap dokter dan dokter gigi yang melakukan praktik kedokteran di\nIndonesia wajib memiliki surat izin praktik."
+   }
+  },
+  {
+   "id": "ID-H1462-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 37\n(1) Surat izin praktik sebagaimana dimaksud dalam\nPasal 36 dikeluarkan oleh pejabat kesehatan yang berwenang di\nkabupaten/kota tempat\npraktik kedokteran atau kedokteran gigi\ndilaksanakan.\n(2) Surat izin praktik dokter atau dokter gigi\nsebagaimana dimaksud pada ayat (1) hanya diberikan untuk paling\nbanyak 3 (tiga) tempat.\n(3) Satu surat izin praktik hanya berlaku untuk 1 (satu) tempat\npraktik."
+   }
+  },
+  {
+   "id": "ID-H1462-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 38\n(1) Untuk mendapatkan surat izin praktik\nsebagaimana dimaksud dalam Pasal 36, dokter atau dokter gigi\nharus:\na. memiliki surat tanda registrasi dokter atau\nsurat tanda registrasi dokter gigi yang masih berlaku sebagaimana\ndimaksud dalam Pasal\n29, Pasal 31, dan Pasal 32;\nb. mempunyai tempat praktik; dan\nc. memiliki rekomendasi dari organisasi profesi.\n(2) Surat izin praktik masih tetap berlaku sepanjang:\na. surat tanda registrasi dokter atau surat tanda\nregistrasi dokter gigi masih berlaku; dan\nb. tempat praktik masih sesuai dengan yang\ntercantum dalam surat izin praktik.\n(3) Ketentuan lebih lanjut mengenai surat izin\npraktik diatur dengan Peraturan Menteri.\nBagian Kedua\nPelaksanaan Praktik"
+   }
+  },
+  {
+   "id": "ID-H1462-A39",
+   "no": 39,
+   "noLabel": {
+    "id": "Pasal 39"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 39\nPraktik kedokteran diselenggarakan berdasarkan pada kesepakatan\nantara dokter atau dokter gigi dengan pasien dalam upaya untuk\npemeliharaan\nkesehatan, pencegahan penyakit, peningkatan kesehatan,\npengobatan penyakit dan pemulihan kesehatan."
+   }
+  },
+  {
+   "id": "ID-H1462-A40",
+   "no": 40,
+   "noLabel": {
+    "id": "Pasal 40"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 40\n(1) Dokter atau dokter gigi yang berhalangan\nmenyelenggarakan praktik kedokteran harus membuat pemberitahuan\natau menunjuk dokter\natau dokter gigi pengganti.\n(2) Dokter atau dokter gigi pengganti sebagaimana\ndimaksud pada ayat (1) harus dokter atau dokter gigi yang mempunyai\nsurat izin praktik."
+   }
+  },
+  {
+   "id": "ID-H1462-A41",
+   "no": 41,
+   "noLabel": {
+    "id": "Pasal 41"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 41\n(1) Dokter atau dokter gigi yang telah mempunyai\nsurat izin praktik dan menyelenggarakan praktik kedokteran\nsebagaimana dimaksud dalam\nPasal 36 wajib memasang papan nama\npraktik kedokteran.\n(2) Dalam hal dokter atau dokter gigi berpraktik\ndi sarana pelayanan kesehatan, pimpinan sarana pelayanan kesehatan\nwajib membuat\ndaftar dokter atau dokter gigi yang melakukan praktik\nkedokteran."
+   }
+  },
+  {
+   "id": "ID-H1462-A42",
+   "no": 42,
+   "noLabel": {
+    "id": "Pasal 42"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 42\nPimpinan sarana pelayanan kesehatan dilarang mengizinkan dokter\natau dokter gigi yang tidak memiliki surat izin praktik untuk\nmelakukan\npraktik kedokteran di sarana pelayanan kesehatan\ntersebut."
+   }
+  },
+  {
+   "id": "ID-H1462-A43",
+   "no": 43,
+   "noLabel": {
+    "id": "Pasal 43"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 43\nKetentuan lebih lanjut mengenai pelaksanaan praktik kedokteran\ndiatur dengan Peraturan Menteri.\nBagian Ketiga\nPemberian Pelayanan\nParagraf 1\nStandar Pelayanan"
+   }
+  },
+  {
+   "id": "ID-H1462-A44",
+   "no": 44,
+   "noLabel": {
+    "id": "Pasal 44"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 44\n(1) Dokter atau dokter gigi dalam menyelenggarakan\npraktik kedokteran wajib mengikuti standar pelayanan kedokteran\natau kedokteran\ngigi.\n(2) Standar pelayanan sebagaimana dimaksud pada\nayat (1) dibedakan menurut jenis dan strata sarana pelayanan\nkesehatan.\n(3) Standar pelayanan untuk dokter atau dokter\ngigi sebagaimana dimaksud pada ayat (1) dan ayat (2) diatur dengan\nPeraturan Menteri.\nParagraf 2\nPersetujuan Tindakan Kedokteran atau Kedokteran Gigi"
+   }
+  },
+  {
+   "id": "ID-H1462-A45",
+   "no": 45,
+   "noLabel": {
+    "id": "Pasal 45"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 45\n(1) Setiap tindakan kedokteran atau kedokteran\ngigi yang akan dilakukan oleh dokter atau dokter gigi terhadap\npasien harus mendapat\npersetujuan.\n(2) Persetujuan sebagaimana dimaksud pada ayat (1)\ndiberikan setelah pasien mendapat penjelasan secara lengkap.\n(3) Penjelasan sebagaimana dimaksud pada ayat (2)\nsekurang-kurangnya mencakup:\na. diagnosis dan tata cara tindakan medis;\nb. tujuan tindakan medis yang dilakukan;\nc. alternatif tindakan lain dan risikonya;\nd. risiko dan komplikasi yang mungkin terjadi; dan\ne. prognosis terhadap tindakan yang dilakukan.\n(4) Persetujuan sebagaimana dimaksud pada ayat (2)\ndapat diberikan baik secara tertulis maupun lisan.\n(5) Setiap tindakan kedokteran atau kedokteran\ngigi yang mengandung risiko tinggi harus diberikan dengan\npersetujuan tertulis yang\nditandatangani oleh yang berhak\nmemberikan persetujuan.\n(6) Ketentuan mengenai tata cara persetujuan\ntindakan kedokteran atau kedokteran gigi sebagaimana dimaksud pada\nayat (1), ayat (2),\nayat (3), ayat (4), dan ayat (5) diatur dengan\nPeraturan Menteri.\nParagraf 3\nRekam Medis"
+   }
+  },
+  {
+   "id": "ID-H1462-A46",
+   "no": 46,
+   "noLabel": {
+    "id": "Pasal 46"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 46\n(1) Setiap dokter atau dokter gigi dalam\nmenjalankan praktik kedokteran wajib membuat rekam medis.\n(2) Rekam medis sebagaimana dimaksud pada ayat (1)\nharus segera dilengkapi setelah pasien selesai menerima pelayanan\nkesehatan.\n(3) Setiap catatan rekam medis harus dibubuhi\nnama, waktu, dan tanda tangan petugas yang memberikan pelayanan\natau tindakan."
+   }
+  },
+  {
+   "id": "ID-H1462-A47",
+   "no": 47,
+   "noLabel": {
+    "id": "Pasal 47"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 47\n(1) Dokumen rekam medis sebagaimana dimaksud dalam\nPasal 46 merupakan milik dokter, dokter gigi, atau sarana pelayanan\nkesehatan,\nsedangkan isi rekam medis merupakan milik pasien.\n(2) Rekam medis sebagaimana dimaksud pada ayat (1)\nharus disimpan dan dijaga kerahasiaannya oleh dokter atau dokter\ngigi dan pimpinan\nsarana pelayanan kesehatan.\n(3) Ketentuan mengenai rekam medis sebagaimana\ndimaksud pada ayat (1) dan ayat (2) diatur dengan Peraturan\nMenteri.\nParagraf 4\nRahasia Kedokteran"
+   }
+  },
+  {
+   "id": "ID-H1462-A48",
+   "no": 48,
+   "noLabel": {
+    "id": "Pasal 48"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 48\n(1) Setiap dokter atau dokter gigi dalam\nmelaksanakan praktik kedokteran wajib menyimpan rahasia\nkedokteran.\n(2) Rahasia kedokteran dapat dibuka hanya untuk\nkepentingan kesehatan pasien, memenuhi permintaan aparatur penegak\nhukum dalam rangka\npenegakan hukum, permintaan pasien sendiri, atau\nberdasarkan ketentuan perundang-undangan.\n(3) Ketentuan lebih lanjut mengenai rahasia\nkedokteran diatur dengan Peraturan Menteri.\nParagraf 5\nKendali Mutu dan Kendali Biaya"
+   }
+  },
+  {
+   "id": "ID-H1462-A49",
+   "no": 49,
+   "noLabel": {
+    "id": "Pasal 49"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 49\n(1) Setiap dokter atau dokter gigi dalam\nmelaksanakan praktik kedokteran atau kedokteran gigi wajib\nmenyelenggarakan kendali mutu\ndan kendali biaya.\n(2) Dalam rangka pelaksanaan kegiatan sebagaimana\ndimaksud pada ayat (1) dapat diselenggarakan audit medis.\n(3) Pembinaan dan pengawasan ketentuan sebagaimana\ndimaksud pada ayat (1) dan ayat (2) dilaksanakan oleh organisasi\nprofesi.\nParagraf 6\nHak dan Kewajiban Dokter atau Dokter Gigi"
+   }
+  },
+  {
+   "id": "ID-H1462-A50",
+   "no": 50,
+   "noLabel": {
+    "id": "Pasal 50"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 50\nDokter atau dokter gigi dalam melaksanakan praktik kedokteran\nmempunyai hak:\na. memperoleh perlindungan hukum sepanjang\nmelaksanakan tugas sesuai dengan standar profesi dan standar\nprosedur operasional;\nb. memberikan pelayanan medis menurut standar\nprofesi dan standar prosedur operasional;\nc. memperoleh informasi yang lengkap dan jujur\ndari pasien atau keluarganya; dan\nd. menerima imbalan jasa."
+   }
+  },
+  {
+   "id": "ID-H1462-A51",
+   "no": 51,
+   "noLabel": {
+    "id": "Pasal 51"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 51\nDokter atau dokter gigi dalam melaksanakan praktik kedokteran\nmempunyai kewajiban:\na. memberikan pelayanan medis sesuai dengan\nstandar profesi dan standar prosedur operasional serta kebutuhan\nmedis pasien;\nb. merujuk pasien ke dokter atau dokter gigi lain\nyang mempunyai keahlian atau kemampuan yang lebih baik, apabila\ntidak mampu melakukan\nsuatu pemeriksaan atau pengobatan;\nc. merahasiakan segala sesuatu yang diketahuinya\ntentang pasien, bahkan juga setelah pasien itu meninggal\ndunia;\nd. melakukan pertolongan darurat atas dasar\nperikemanusiaan, kecuali bila ia yakin ada orang lain yang bertugas\ndan mampu melakukannya;\ndan\ne. menambah ilmu pengetahuan dan mengikuti\nperkembangan ilmu kedokteran atau kedokteran gigi.\nParagraf 7\nHak dan Kewajiban Pasien"
+   }
+  },
+  {
+   "id": "ID-H1462-A52",
+   "no": 52,
+   "noLabel": {
+    "id": "Pasal 52"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 52\nPasien, dalam menerima pelayanan pada praktik kedokteran, mempunyai\nhak:\na. mendapatkan penjelasan secara lengkap tentang\ntindakan medis sebagaimana dimaksud dalam Pasal 45 ayat (3);\nb. meminta pendapat dokter atau dokter gigi lain;\nc. mendapatkan pelayanan sesuai dengan kebutuhan medis;\nd. menolak tindakan medis; dan\ne. mendapatkan isi rekam medis."
+   }
+  },
+  {
+   "id": "ID-H1462-A53",
+   "no": 53,
+   "noLabel": {
+    "id": "Pasal 53"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 53\nPasien, dalam menerima pelayanan pada praktik kedokteran, mempunyai\nkewajiban:\na. memberikan informasi yang lengkap dan jujur tentang masalah\nkesehatannya;\nb. mematuhi nasihat dan petunjuk dokter atau dokter gigi;\nc. mematuhi ketentuan yang berlaku di sarana pelayanan kesehatan;\ndan\nd. memberikan imbalan jasa atas pelayanan yang diterima.\nParagraf 8\nPembinaan"
+   }
+  },
+  {
+   "id": "ID-H1462-A54",
+   "no": 54,
+   "noLabel": {
+    "id": "Pasal 54"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 54\n(1) Dalam rangka terselenggaranya praktik\nkedokteran yang bermutu dan melindungi masyarakat sesuai dengan\nketentuan sebagaimana dimaksud\ndalam Undang-undang ini, perlu\ndilakukan pembinaan terhadap dokter atau dokter gigi yang melakukan\npraktik kedokteran.\n(2) Pembinaan sebagaimana dimaksud pada ayat (1)\ndilakukan oleh Konsil Kedokteran Indonesia bersama-sama dengan\norganisasi profesi.\nBAB VIII\nDISIPLIN DOKTER DAN DOKTER GIGI\nBagian Kesatu\nMajelis Kehormatan Disiplin Kedokteran Indonesia"
+   }
+  },
+  {
+   "id": "ID-H1462-A55",
+   "no": 55,
+   "noLabel": {
+    "id": "Pasal 55"
+   },
+   "chapter": {
+    "id": "BAB VIII / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 55\n(1) Untuk menegakkan disiplin dokter dan dokter\ngigi dalam penyelenggaraan praktik kedokteran, dibentuk Majelis\nKehormatan Disiplin\nKedokteran Indonesia.\n(2) Majelis Kehormatan Disiplin Kedokteran\nIndonesia merupakan lembaga otonom dari Konsil Kedokteran\nIndonesia.\n(3) Majelis Kehormatan Disiplin Kedokteran\nIndonesia dalam menjalankan tugasnya bersifat independen."
+   }
+  },
+  {
+   "id": "ID-H1462-A56",
+   "no": 56,
+   "noLabel": {
+    "id": "Pasal 56"
+   },
+   "chapter": {
+    "id": "BAB VIII / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 56\nMajelis Kehormatan Disiplin Kedokteran Indonesia bertanggung jawab\nkepada Konsil Kedokteran Indonesia."
+   }
+  },
+  {
+   "id": "ID-H1462-A57",
+   "no": 57,
+   "noLabel": {
+    "id": "Pasal 57"
+   },
+   "chapter": {
+    "id": "BAB VIII / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 57\n(1) Majelis Kehormatan Disiplin Kedokteran\nIndonesia berkedudukan di ibu kota negara Republik Indonesia.\n(2) Majelis Kehormatan Disiplin Kedokteran di\ntingkat provinsi dapat dibentuk oleh Konsil Kedokteran Indonesia\natas usul Majelis Kehormatan\nDisiplin Kedokteran Indonesia."
+   }
+  },
+  {
+   "id": "ID-H1462-A58",
+   "no": 58,
+   "noLabel": {
+    "id": "Pasal 58"
+   },
+   "chapter": {
+    "id": "BAB VIII / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 58\nPimpinan Majelis Kehormatan Disiplin Kedokteran Indonesia terdiri\natas seorang ketua, seorang wakil ketua, dan seorang\nsekretaris."
+   }
+  },
+  {
+   "id": "ID-H1462-A59",
+   "no": 59,
+   "noLabel": {
+    "id": "Pasal 59"
+   },
+   "chapter": {
+    "id": "BAB VIII / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 59\n(1) Keanggotaan Majelis Kehormatan Disiplin\nKedokteran Indonesia terdiri atas 3 (tiga) orang dokter dan 3\n(tiga) orang dokter gigi\ndari organisasi profesi masing-masing,\nseorang dokter dan seorang dokter gigi mewakili asosiasi rumah\nsakit, dan 3 (tiga) orang sarjana\nhukum.\n(2) Untuk dapat diangkat sebagai anggota Majelis\nKehormatan Disiplin Kedokteran Indonesia harus dipenuhi syarat\nsebagai berikut:\na. warga negara Republik Indonesia;\nb. sehat jasmani dan rohani;\nc. bertakwa kepada Tuhan Yang Maha Esa dan berakhlak mulia;\nd. berkelakuan baik;\ne. berusia paling rendah 40 (empat puluh) tahun\ndan paling tinggi 65 (enam puluh lima) tahun pada saat\ndiangkat;\nf. bagi dokter atau dokter gigi, pernah melakukan\npraktik kedokteran paling sedikit 10 (sepuluh) tahun dan memiliki\nsurat tanda registrasi\ndokter atau surat tanda registrasi dokter\ngigi;\ng. bagi sarjana hukum, pernah melakukan praktik di\nbidang hukum paling sedikit 10 (sepuluh) tahun dan memiliki\npengetahuan di bidang\nhukum kesehatan; dan\nh. cakap, jujur, memiliki moral, etika, dan\nintegritas yang tinggi serta memiliki reputasi yang baik."
+   }
+  },
+  {
+   "id": "ID-H1462-A60",
+   "no": 60,
+   "noLabel": {
+    "id": "Pasal 60"
+   },
+   "chapter": {
+    "id": "BAB VIII / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 60\nAnggota Majelis Kehormatan Disiplin Kedokteran Indonesia ditetapkan\noleh Menteri atas usul organisasi profesi."
+   }
+  },
+  {
+   "id": "ID-H1462-A61",
+   "no": 61,
+   "noLabel": {
+    "id": "Pasal 61"
+   },
+   "chapter": {
+    "id": "BAB VIII / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 61\nMasa bakti keanggotaan Majelis Kehormatan Disiplin Kedokteran\nIndonesia sebagaimana dimaksud dalam Pasal 60 adalah 5 (lima) tahun\ndan dapat diangkat kembali untuk 1 (satu) kali masa jabatan."
+   }
+  },
+  {
+   "id": "ID-H1462-A62",
+   "no": 62,
+   "noLabel": {
+    "id": "Pasal 62"
+   },
+   "chapter": {
+    "id": "BAB VIII / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 62\n(1) Anggota Majelis Kehormatan Disiplin Kedokteran\nIndonesia sebelum memangku jabatan wajib mengucapkan sumpah/janji\nsesuai dengan\nagama masing-masing di hadapan Ketua Konsil\nKedokteran Indonesia.\n(2) Sumpah/janji sebagaimana dimaksud pada ayat (1) berbunyi\nsebagai berikut:\n\"Saya bersumpah/berjanji dengan sungguh-sungguh\nbahwa saya, untuk melaksanakan tugas ini, langsung atau tidak\nlangsung, dengan menggunakan\nnama atau cara apapun juga, tidak\nmemberikan atau menjanjikan sesuatu apapun kepada siapapun\njuga.\nSaya bersumpah/berjanji bahwa saya, untuk melakukan atau tidak\nmelakukan sesuatu dalam tugas ini, tidak sekali-kali akan menerima\nlangsung atau tidak langsung dari siapapun juga suatu janji atau\npemberian.\nSaya bersumpah/berjanji bahwa saya, dalam menjalankan tugas ini,\nsenantiasa menjunjung tinggi ilmu kedokteran atau kedokteran gigi\ndan mempertahankan serta meningkatkan mutu pelayanan dokter atau\ndokter gigi.\nSaya bersumpah/berjanji bahwa saya, akan setia dan taat kepada dan\nakan mempertahankan serta mengamalkan Pancasila sebagai dasar\nnegara, Undang-Undang Dasar Negara Republik Indonesia Tahun 1945,\nserta peraturan perundang-undangan yang berlaku bagi Negara\nRepublik\nIndonesia.\nSaya bersumpah/berjanji bahwa saya, senantiasa akan menjalankan\ntugas dan wewenang saya ini dengan sungguh-sungguh, saksama,\nobyektif,\njujur, berani, adil, tidak membeda-bedakan jabatan, suku,\nagama, ras, jender, dan golongan tertentu dan akan melaksanakan\nkewajiban\nsaya dengan sebaik-baiknya, serta bertanggung jawab\nsepenuhnya kepada Tuhan Yang Maha Esa, masyarakat, bangsa dan\nnegara.\nSaya bersumpah/berjanji bahwa saya, senantiasa akan menolak atau\ntidak menerima atau tidak mau dipengaruhi oleh campur tangan\nsiapapun\njuga dan saya akan tetap teguh melaksanakan tugas dan\nwewenang saya yang diamanatkan Undang-undang kepada saya\"."
+   }
+  },
+  {
+   "id": "ID-H1462-A63",
+   "no": 63,
+   "noLabel": {
+    "id": "Pasal 63"
+   },
+   "chapter": {
+    "id": "BAB VIII / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 63\n(1) Pimpinan Majelis Kehormatan Disiplin\nKedokteran Indonesia dipilih dan ditetapkan oleh rapat pleno\nanggota.\n(2) Ketentuan lebih lanjut mengenai tata cara\npemilihan pimpinan Majelis Kehormatan Disiplin Kedokteran Indonesia\ndiatur dengan Peraturan\nKonsil Kedokteran Indonesia."
+   }
+  },
+  {
+   "id": "ID-H1462-A64",
+   "no": 64,
+   "noLabel": {
+    "id": "Pasal 64"
+   },
+   "chapter": {
+    "id": "BAB VIII / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 64\nMajelis Kehormatan Disiplin Kedokteran Indonesia bertugas:\na. menerima pengaduan, memeriksa, dan memutuskan\nkasus pelanggaran disiplin dokter dan dokter gigi yang diajukan;\ndan\nb. menyusun pedoman dan tata cara penanganan kasus\npelanggaran disiplin dokter atau dokter gigi."
+   }
+  },
+  {
+   "id": "ID-H1462-A65",
+   "no": 65,
+   "noLabel": {
+    "id": "Pasal 65"
+   },
+   "chapter": {
+    "id": "BAB VIII / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 65\nSegala pembiayaan kegiatan Majelis Kehormatan Disiplin Kedokteran\nIndonesia dibebankan kepada anggaran Konsil Kedokteran\nIndonesia.\nBagian Kedua\nPengaduan"
+   }
+  },
+  {
+   "id": "ID-H1462-A66",
+   "no": 66,
+   "noLabel": {
+    "id": "Pasal 66"
+   },
+   "chapter": {
+    "id": "BAB VIII / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 66\n(1) Setiap orang yang mengetahui atau\nkepentingannya dirugikan atas tindakan dokter atau dokter gigi\ndalam menjalankan praktik kedokteran\ndapat mengadukan secara\ntertulis kepada Ketua Majelis Kehormatan Disiplin Kedokteran\nIndonesia.\n(2) Pengaduan sekurang-kurangnya harus memuat:\na. identitas pengadu;\nb. nama dan alamat tempat praktik dokter atau\ndokter gigi dan waktu tindakan dilakukan; dan\nc. alasan pengaduan.\n(3) Pengaduan sebagaimana dimaksud pada ayat (1)\ndan ayat (2) tidak menghilangkan hak setiap orang untuk melaporkan\nadanya dugaan\ntindak pidana kepada pihak yang berwenang dan/atau\nmenggugat kerugian perdata ke pengadilan.\nBagian Ketiga\nPemeriksaan"
+   }
+  },
+  {
+   "id": "ID-H1462-A67",
+   "no": 67,
+   "noLabel": {
+    "id": "Pasal 67"
+   },
+   "chapter": {
+    "id": "BAB VIII / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 67\nMajelis Kehormatan Disiplin Kedokteran Indonesia memeriksa dan\nmemberikan keputusan terhadap pengaduan yang berkaitan dengan\ndisiplin\ndokter dan dokter gigi."
+   }
+  },
+  {
+   "id": "ID-H1462-A68",
+   "no": 68,
+   "noLabel": {
+    "id": "Pasal 68"
+   },
+   "chapter": {
+    "id": "BAB VIII / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 68\nApabila dalam pemeriksaan ditemukan pelanggaran etika, Majelis\nKehormatan Disiplin Kedokteran Indonesia meneruskan pengaduan pada\norganisasi profesi.\nBagian Keempat\nKeputusan"
+   }
+  },
+  {
+   "id": "ID-H1462-A69",
+   "no": 69,
+   "noLabel": {
+    "id": "Pasal 69"
+   },
+   "chapter": {
+    "id": "BAB VIII / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 69\n(1) Keputusan Majelis Kehormatan Disiplin\nKedokteran Indonesia mengikat dokter, dokter gigi, dan Konsil\nKedokteran Indonesia.\n(2) Keputusan sebagaimana dimaksud pada ayat (1)\ndapat berupa dinyatakan tidak bersalahatau pemberian sanksi\ndisiplin.\n(3) Sanksi disiplin sebagaimana dimaksud pada ayat (2) dapat\nberupa:\na. pemberian peringatan tertulis;\nb. rekomendasi pencabutan surat tanda registrasi\natau surat izin praktik; dan/atau\nc. kewajiban mengikuti pendidikan atau pelatihan\ndi institusi pendidikan kedokteran atau kedokteran gigi.\nBagian Kelima\nPengaturan Lebih Lanjut"
+   }
+  },
+  {
+   "id": "ID-H1462-A70",
+   "no": 70,
+   "noLabel": {
+    "id": "Pasal 70"
+   },
+   "chapter": {
+    "id": "BAB VIII / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 70\nKetentuan lebih lanjut mengenai pelaksanaan fungsi dan tugas\nMajelis Kehormatan Disiplin Kedokteran Indonesia, tata cara\npenanganan\nkasus, tata cara pengaduan, dan tata cara pemeriksaan\nserta pemberian keputusan diatur dengan Peraturan Konsil Kedokteran\nIndonesia.\nBAB IX\nPEMBINAAN DAN PENGAWASAN"
+   }
+  },
+  {
+   "id": "ID-H1462-A71",
+   "no": 71,
+   "noLabel": {
+    "id": "Pasal 71"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 71\nPemerintah pusat, Konsil Kedokteran Indonesia, pemerintah daerah,\norganisasi profesi membina serta mengawasi praktik kedokteran\nsesuai\ndengan fungsi dan tugas masing-masing."
+   }
+  },
+  {
+   "id": "ID-H1462-A72",
+   "no": 72,
+   "noLabel": {
+    "id": "Pasal 72"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 72\nPembinaan dan pengawasan sebagaimana dimaksud dalam Pasal 71\ndiarahkan untuk:\na. meningkatkan mutu pelayanan kesehatan yang\ndiberikan dokter dan dokter gigi;\nb. melindungi masyarakat atas tindakan yang\ndilakukan dokter dan dokter gigi; dan\nc. memberikan kepastian hukum bagi masyarakat, dokter, dan dokter\ngigi."
+   }
+  },
+  {
+   "id": "ID-H1462-A73",
+   "no": 73,
+   "noLabel": {
+    "id": "Pasal 73"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 73\n(1) Setiap orang dilarang menggunakan identitas\nberupa gelar atau bentuk lain yang menimbulkan kesan bagi\nmasyarakat seolah-olah yang\nbersangkutan adalah dokter atau dokter\ngigi yang telah memiliki surat tanda registrasi dan/atau surat izin\npraktik.\n(2) Setiap orang dilarang menggunakan alat, metode\natau cara lain dalam memberikan pelayanan kepada masyarakat yang\nmenimbulkan kesan\nseolah-olah yang bersangkutan adalah dokter atau\ndokter gigi yang telah memiliki surat tanda registrasi dan/atau\nsurat izin praktik.\n(3) Ketentuan sebagaimana dimaksud pada ayat (1)\ndan ayat (2) tidak berlaku bagi tenaga kesehatan yang diberi\nkewenangan oleh peraturan\nperundang-undangan."
+   }
+  },
+  {
+   "id": "ID-H1462-A74",
+   "no": 74,
+   "noLabel": {
+    "id": "Pasal 74"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 74\nDalam rangka pembinaan dan pengawasan dokter dan dokter gigi yang\nmenyelenggarakan praktik kedokteran dapat dilakukan audit\nmedis.\nBAB X\nKETENTUAN PIDANA"
+   }
+  },
+  {
+   "id": "ID-H1462-A75",
+   "no": 75,
+   "noLabel": {
+    "id": "Pasal 75"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 75\n(1) Setiap dokter atau dokter gigi yang dengan\nsengaja melakukan praktik kedokteran tanpa memiliki surat tanda\nregistrasi sebagaimana\ndimaksud dalam Pasal 29 ayat (1) dipidana\ndengan pidana penjara paling lama 3 (tiga) tahun atau denda paling\nbanyak Rp 100.000.000,\n00 (seratus juta rupiah).\n(2) Setiap dokter atau dokter gigi warga negara\nasing yang dengan sengaja melakukan praktik kedokteran tanpa\nmemiliki surat tanda\nregistrasi sementara sebagaimana dimaksud\ndalam Pasal 31 ayat (1) dipidana dengan pidana penjara paling lama\n3 (tiga) tahun atau\ndenda paling banyak Rp 100.000.000, 00 (seratus\njuta rupiah).\n(3) Setiap dokter atau dokter gigi warga negara\nasing yang dengan sengaja melakukan praktik kedokteran tanpa\nmemiliki surat tanda\nregistrasi bersyarat sebagaimana dimaksud\ndalam Pasal 32 ayat (1) dipidana dengan pidana penjara paling lama\n3 (tiga) tahun atau\ndenda paling banyak Rp 100.000.000, 00 (seratus\njuta rupiah)."
+   }
+  },
+  {
+   "id": "ID-H1462-A76",
+   "no": 76,
+   "noLabel": {
+    "id": "Pasal 76"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 76\nSetiap dokter atau dokter gigi yang dengan sengaja melakukan\npraktik kedokteran tanpa memiliki surat izin praktik sebagaimana\ndimaksud\ndalam Pasal 36 dipidana dengan pidana penjara paling lama\n3 (tiga) tahun atau denda paling banyak Rp 100.000.000, 00 (seratus\njuta\nrupiah)."
+   }
+  },
+  {
+   "id": "ID-H1462-A77",
+   "no": 77,
+   "noLabel": {
+    "id": "Pasal 77"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 77\nSetiap orang yang dengan sengaja menggunakan identitas berupa gelar\natau bentuk lain yang menimbulkan kesan bagi masyarakat seolah-olah\nyang bersangkutan adalah dokter atau dokter gigi yang telah\nmemiliki surat tanda registrasi dokter atau surat tanda registrasi\ndokter\ngigi dan/atau surat izin praktik sebagaimana dimaksud dalam\nPasal 73 ayat (1) dipidana dengan pidana penjara paling lama 5\n(lima)\ntahun atau denda paling banyak Rp 150.000.000, 00 (seratus\nlima puluh juta rupiah)."
+   }
+  },
+  {
+   "id": "ID-H1462-A78",
+   "no": 78,
+   "noLabel": {
+    "id": "Pasal 78"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 78\nSetiap orang yang dengan sengaja menggunakan alat, metode atau cara\nlain dalam memberikan pelayanan kepada masyarakat yang menimbulkan\nkesan seolah-olah yang bersangkutan adalah dokter atau dokter gigi\nyang telah memiliki surat tanda registrasi dokter atau surat tanda\nregistrasi dokter gigi atau surat izin praktik sebagaimana dimaksud\ndalam Pasal 73 ayat (2) dipidana dengan pidana penjara paling\nlama\n5 (lima) tahun atau denda paling banyak Rp 150.000.000, 00 (seratus\nlima puluh juta rupiah)."
+   }
+  },
+  {
+   "id": "ID-H1462-A79",
+   "no": 79,
+   "noLabel": {
+    "id": "Pasal 79"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 79\nDipidana dengan pidana kurungan paling lama 1 (satu) tahun atau\ndenda paling banyak Rp 50.000.000, 00 (lima puluh juta rupiah),\nsetiap\ndokter atau dokter gigi yang:\na. dengan sengaja tidak memasang papan nama\nsebagaimana dimaksud dalam Pasal 41 ayat (1);\nb. dengan sengaja tidak membuat rekam medis\nsebagaimana dimaksud dalam Pasal 46 ayat (1); atau\nc. dengan sengaja tidak memenuhi kewajiban\nsebagaimana dimaksud dalam Pasal 51 huruf a, huruf b, huruf c,\nhuruf d, atau huruf e."
+   }
+  },
+  {
+   "id": "ID-H1462-A80",
+   "no": 80,
+   "noLabel": {
+    "id": "Pasal 80"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 80\n(1) Setiap orang yang dengan sengaja mempekerjakan\ndokter atau dokter gigi sebagaimana dimaksud dalam Pasal 42,\ndipidana dengan pidana\npenjara paling lama 10 (sepuluh) tahun atau\ndenda paling banyak Rp 300.000.000, 00 (tiga ratus juta\nrupiah).\n(2) Dalam hal tindak pidana sebagaimana dimaksud\npada ayat (1) dilakukan oleh korporasi, maka pidana yang dijatuhkan\nadalah pidana\ndenda sebagaimana dimaksud pada ayat (1) ditambah\nsepertiga atau dijatuhi hukuman tambahan berupa pencabutan\nizin.\nBAB XI\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H1462-A81",
+   "no": 81,
+   "noLabel": {
+    "id": "Pasal 81"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 81\nPada saat diundangkannya Undang-undang ini semua peraturan\nperundang-undangan yang merupakan pelaksanaan Undang-undang Nomor\n23 Tahun\n1992 tentang Kesehatan yang berkaitan dengan pelaksanaan\npraktik kedokteran, masih tetap berlaku sepanjang tidak\nbertentangan dan/atau\nbelum diganti berdasarkan Undang-undang\nini."
+   }
+  },
+  {
+   "id": "ID-H1462-A82",
+   "no": 82,
+   "noLabel": {
+    "id": "Pasal 82"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 82\n(1) Dokter dan dokter gigi yang telah memiliki\nsurat penugasan dan/atau surat izin praktik, dinyatakan telah\nmemiliki surat tanda\nregistrasi dan surat izin praktik berdasarkan\nUndang-undang ini.\n(2) Surat penugasan dan surat izin praktik\nsebagaimana dimaksud pada ayat (1) harus disesuaikan dengan surat\ntanda registrasi dokter,\nsurat tanda registrasi dokter gigi, dan\nsurat izin praktik berdasarkan Undang-undang ini paling lama 2\n(dua) tahun setelah Konsil\nKedokteran Indonesia terbentuk."
+   }
+  },
+  {
+   "id": "ID-H1462-A83",
+   "no": 83,
+   "noLabel": {
+    "id": "Pasal 83"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 83\n(1) Pengaduan atas adanya dugaan pelanggaran\ndisiplin pada saat belum terbentuknya Majelis Kehormatan Disiplin\nKedokteran Indonesia\nditangani oleh Kepala Dinas Kesehatan Provinsi\ndi Tingkat Pertama dan Menteri pada Tingkat Banding.\n(2) Kepala Dinas Kesehatan Provinsi dan Menteri\ndalam menangani pengaduan sebagaimana dimaksud pada ayat (1)\nmembentuk Tim yang terdiri\ndari unsur-unsur profesi untuk\nmemberikan pertimbangan.\n(3) Putusan berdasarkan pertimbangan Tim dilakukan\noleh Kepala Dinas Kesehatan Provinsi atau Menteri sesuai dengan\nfungsi dan tugasnya."
+   }
+  },
+  {
+   "id": "ID-H1462-A84",
+   "no": 84,
+   "noLabel": {
+    "id": "Pasal 84"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 84\n(1) Untuk pertama kali anggota Konsil Kedokteran\nIndonesia diusulkan oleh Menteri dan diangkat oleh Presiden.\n(2) Keanggotaan Konsil Kedokteran Indonesia\nsebagaimana dimaksud pada ayat (1) berlaku untuk masa jabatan 3\n(tiga) tahun sejak diangkat.\nBAB XII\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H1462-A85",
+   "no": 85,
+   "noLabel": {
+    "id": "Pasal 85"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 85\nDengan disahkannya Undang-undang ini maka Pasal 54 Undang-undang\nNomor 23 Tahun 1992 tentang Kesehatan yang berkaitan dengan dokter\ndan dokter gigi, dinyatakan tidak berlaku lagi."
+   }
+  },
+  {
+   "id": "ID-H1462-A86",
+   "no": 86,
+   "noLabel": {
+    "id": "Pasal 86"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 86\nKonsil Kedokteran Indonesia sebagaimana dimaksud dalam Pasal 84\nayat (2) harus dibentuk paling lama 6 (enam) bulan sejak\nUndang-undang\nini diundangkan."
+   }
+  },
+  {
+   "id": "ID-H1462-A87",
+   "no": 87,
+   "noLabel": {
+    "id": "Pasal 87"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 87\nKonsil Kedokteran Indonesia sebagaimana dimaksud dalam Pasal 4\nharus dibentuk paling lambat 1 (satu) bulan sebelum masa jabatan\nkeanggotaan\nKonsil Kedokteran Indonesia sebagaimana dimaksud dalam\nPasal 84 ayat (2) berakhir."
+   }
+  },
+  {
+   "id": "ID-H1462-A88",
+   "no": 88,
+   "noLabel": {
+    "id": "Pasal 88"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 88\nUndang-undang ini mulai berlaku 1 (satu) tahun sejak tanggal\ndiundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nUndang-undang ini dengan penempatannya dalam Lembaran Negara\nRepublik\nIndonesia.\nDisahkan di Jakarta\npada tanggal 6 Oktober 2004\nPRESIDEN REPUBLIK INDONESIA,\nMEGAWATI SOEKARNOPUTRI\nDiundangkan di Jakarta\npada tanggal 6 Oktober 2004\nSEKRETARIS NEGARA\nREPUBLIK INDONESIA,\nBAMBANG KESOWO\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2004 NOMOR 116\nP E N J E L A S A N\nA T A S\nUNDANG-UNDANG REPUBLIK INDONESIA\nNOMOR 29 TAHUN 2004\nTENTANG\nPRAKTIK KEDOKTERAN\nI. UMUM\nPembangunan bidang kesehatan pada dasarnya\nditujukan untuk meningkatkan kesadaran, kemauan dan kemampuan hidup\nsehat bagi setiap orang\nuntuk mewujudkan derajat kesehatan yang\noptimal sebagai salah satu unsur kesejahteraan sebagaimana\ndiamanatkan oleh Pembukaan Undang-Undang\nDasar Negara Republik\nIndonesia Tahun 1945.\nDokter dan dokter gigi sebagai salah satu\nkomponen utama pemberi pelayanan kesehatan kepada masyarakat\nmempunyai peranan yang sangat\npenting karena terkait langsung\ndengan pemberian pelayanan kesehatan dan mutu pelayanan yang\ndiberikan.\nLandasan utama bagi dokter dan dokter gigi\nuntuk dapat melakukan tindakan medis terhadap orang lain adalah\nilmu pengetahuan, teknologi,\ndan kompetensi yang dimiliki, yang\ndiperoleh melalui pendidikan dan pelatihan. Pengetahuan yang\ndimilikinya harus terus menerus dipertahankan\ndan ditingkatkan\nsesuai dengan kemajuan ilmu pengetahuan dan teknologi itu\nsendiri.\nDokter dan dokter gigi dengan perangkat\nkeilmuan yang dimilikinya mempunyai karakteristik yang khas.\nKekhasannya ini terlihat dari\npembenaran yang diberikan oleh hukum\nyaitu diperkenankannya melakukan tindakan medis terhadap tubuh\nmanusia dalam upaya memelihara\ndan meningkatkan derajat kesehatan.\nTindakan medis terhadap tubuh manusia yang dilakukan bukan oleh\ndokter atau dokter gigi dapat\ndigolongkan sebagai tindak\npidana.\nBerkurangnya kepercayaan masyarakat terhadap\ndokter dan dokter gigi, maraknya tuntutan hukum yang diajukan\nmasyarakat dewasa ini seringkali\ndiidentikkan dengan kegagalan\nupaya penyembuhan yang dilakukan dokter dan dokter gigi. Sebaliknya\napabila tindakan medis yang dilakukan\ndapat berhasil, dianggap\nberlebihan, padahal dokter dan dokter gigi dengan perangkat ilmu\npengetahuan dan teknologi yang dimilikinya\nhanya berupaya untuk\nmenyembuhkan, dan kegagalan penerapan ilmu kedokteran dan\nkedokteran gigi tidak selalu identik dengan kegagalan\ndalam\ntindakan.\nBerbagai upaya hukum yang dilakukan dalam\nmemberikan perlindungan menyeluruh kepada masyarakat sebagai\npenerima pelayanan, dokter\ndan dokter gigi sebagai pemberi\npelayanan telah banyak dilakukan, akan tetapi kemajuan ilmu\npengetahuan dan teknologi kedokteran\nyang berkembang sangat cepat\ntidak seimbang dengan perkembangan hukum.\nPerangkat hukum yang mengatur penyelenggaraan\npraktik kedokteran dan kedokteran gigi dirasakan belum memadai,\nselama ini masih didominasi\noleh kebutuhan formal dan kepentingan\npemerintah, sedangkan porsi profesi masih sangat kurang.\nOleh karena itu untuk menjembatani kepentingan\nkedua belah pihak serta untuk melakukan penilaian terhadap\nkemampuan obyektif seorang\ndokter dan dokter gigi dalam memberikan\npelayanan kepada masyarakat, diperlukan pembentukan Konsil\nKedokteran Indonesia yang terdiri\natas Konsil Kedokteran dan Konsil\nKedokteran Gigi.\nKonsil Kedokteran Indonesia merupakan suatu\nbadan yang independen yang akan menjalankan fungsi regulator, yang\nterkait dengan peningkatan\nkemampuan dokter dan dokter gigi dalam\npelaksanaan praktik kedokteran. Di samping itu, peran dari berbagai\norganisasi profesi, asosiasi\ninstitusi pendidikan yang ada saat ini\njuga perlu diberdayakan dalam rangka peningkatan mutu pelayanan\nkesehatan yang diberikan oleh\ndokter atau dokter gigi.\nDengan demikian, dokter dan dokter gigi dalam\nmenjalankan praktik kedokteran selain tunduk pada ketentuan hukum\nyang berlaku, juga\nharus menaati ketentuan kode etik yang disusun\noleh organisasi profesi dan didasarkan pada disiplin ilmu\nkedokteran atau kedokteran\ngigi.\nDalam menjalankan fungsinya Konsil Kedokteran\nIndonesia bertugas melakukan registrasi terhadap semua dokter dan\ndokter gigi yang akan\nmenjalankan praktik kedokteran, mengesahkan\nstandar pendidikan profesi dokter dan dokter gigi, dan melakukan\npembinaan bersama lembaga\nterkait lainnya terhadap penyelenggaraan\npraktik kedokteran.\nDalam rangka memberikan kepastian hukum dan\nperlindungan hukum, untuk meningkatkan, mengarahkan dan memberi\nlandasan hukum serta menata\nkembali berbagai perangkat hukum yang\nmengatur penyelenggaraan praktik kedokteran agar dapat berjalan\nsesuai dengan perkembangan\nilmu pengetahuan dan teknologi maka\nperlu diatur praktik kedokteran dalam suatu Undang-undang. Untuk\nitu, perlu dibentuk Undang-undang\ntentang Praktik Kedokteran.\nDalam Undang-undang ini diatur:\n1. Asas dan tujuan penyelenggaraan praktik\nkedokteran yang menjadi landasan yang didasarkan pada nilai ilmiah,\nmanfaat, keadilan,\nkemanusiaan, keseimbangan serta perlindungan dan\nkeselamatan pasien;\n2. Pembentukan Konsil Kedokteran Indonesia yang\nterdiri atas Konsil Kedokteran dan Konsil Kedokteran Gigi disertai\nsusunan organisasi,\nfungsi, tugas, dan kewenangan;\n3. Registrasi dokter dan dokter gigi;\n4. Penyusunan, penetapan, dan pengesahan standar\npendidikan profesi dokter dan dokter gigi;\n5. Penyelenggaraan praktik kedokteran;\n6. Pembentukan Majelis Kehormatan Disiplin Kedokteran\nIndonesia;\n7. Pembinaan dan pengawasan praktik kedokteran; dan\n8. Pengaturan ketentuan pidana.\nII. PASAL DEMI PASAL\nPasal 1\nCukup jelas\nPasal 2\nDalam ketentuan ini yang dimaksud dengan:\na. nilai ilmiah adalah bahwa praktik kedokteran\nharus didasarkan pada ilmu pengetahuan dan teknologi yang diperoleh\nbaik dalam pendidikan\ntermasuk pendidikan berkelanjutan maupun\npengalaman serta etika profesi;\nb. manfaat adalah bahwa penyelenggaraan praktik\nkedokteran harus memberikan manfaat yang sebesar-besarnya bagi\nkemanusiaan dalam rangka\nmempertahankan dan meningkatkan derajat\nkesehatan masyarakat;\nc. keadilan adalah bahwa penyelenggaraan praktik\nkedokteran harus mampu memberikan pelayanan yang adil dan merata\nkepada setiap orang\ndengan biaya yang terjangkau oleh masyarakat\nserta pelayanan yang bermutu;\nd. kemanusiaan adalah bahwa dalam penyelenggaraan\npraktik kedokteran memberikan perlakuan yang sama dengan tidak\nmembedakan suku,\nbangsa, agama, status sosial, dan ras;\ne. keseimbangan adalah bahwa dalam penyelenggaraan\npraktik kedokteran tetap menjaga keserasian serta keselarasan\nantara kepentingan\nindividu dan masyarakat;\nf. perlindungan dan keselamatan pasien adalah\nbahwa penyelenggaraan praktik kedokteran tidak hanya memberikan\npelayanan kesehatan\nsemata, tetapi harus mampu memberikan\npeningkatan derajat kesehatan dengan tetap memperhatikan\nperlindungan dan keselamatan pasien.\nPasal 3\nCukup jelas\nPasal 4\nCukup jelas\nPasal 5\nCukup jelas\nPasal 6\nCukup jelas\nPasal 7\nAyat (1)\nCukup jelas\nAyat (2)\nYang dimaksud dengan \"standar pendidikan profesi\ndokter dan dokter gigi\" adalah pendidikan profesi yang dilakukan\nsesuai dengan peraturan\nperundang-undangan yang berkaitan dengan\nsistem pendidikan nasional.\nPenyusunan standar pendidikan profesi bagi dokter dan dokter gigi\ndilakukan oleh asosiasi institusi pendidikan kedokteran dan\nasosiasi\ninstitusi pendidikan kedokteran gigi dengan\nmengikutsertakan kolegium kedokteran, kolegium kedokteran gigi, dan\nasosiasi rumah sakit\npendidikan.\nPenyusunan standar pendidikan profesi bagi dokter spesialis dan\ndokter gigi spesialis dilakukan oleh kolegium kedokteran dan\nkolegium\nkedokteran gigi dengan mengikutsertakan asosiasi institusi\npendidikan kedokteran, asosiasi institusi pendidikan kedokteran\ngigi dan\nrumah sakit pendidikan.\nKonsil Kedokteran Indonesia mengesahkan standar pendidikan profesi\ndokter, dokter spesialis, dokter gigi dan dokter gigi spesialis\nyang telah ditetapkan tersebut di atas.\nYang dimaksud dengan \"asosiasi institusi pendidikan kedokteran\"\nadalah suatu lembaga yang dibentuk oleh para dekan fakultas\nkedokteran\nyang berfungsi memberikan pertimbangan dalam rangka\nmemberdayakan dan menjamin kualitas pendidikan kedokteran yang\ndiselenggarakan\noleh fakultas kedokteran.\nYang dimaksud dengan \"asosiasi institusi pendidikan kedokteran\ngigi\" adalah suatu lembaga yang dibentuk oleh para dekan fakultas\nkedokteran gigi yang berfungsi memberikan pertimbangan dalam rangka\nmemberdayakan dan menjamin kualitas pendidikan kedokteran gigi\nyang\ndiselenggarakan oleh fakultas kedokteran gigi.\nYang dimaksud dengan \"asosiasi rumah sakit pendidikan\" adalah\nhimpunan rumah sakit pendidikan dokter atau dokter gigi\n(teaching hospital).\nPasal 8\nHuruf a\nCukup jelas\nHuruf b\nCukup jelas\nHuruf c\nStandar kompetensi disusun oleh asosiasi\ninstitusi pendidikan kedokteran dan asosiasi institusi pendidikan\nkedokteran gigi serta kolegium\nkedokteran dan kolegium kedokteran\ngigi.\nHuruf d\nCukup jelas\nHuruf e\nPenerapan cabang ilmu kedokteran dan kedokteran\ngigi yang disahkan, terlebih dahulu ditetapkan bersama kolegium\nterkait.\nHuruf f\nEtika profesi adalah kode etik dokter dan kode\netik dokter gigi yang disusun oleh Ikatan Dokter Indonesia (IDI)\ndan Persatuan Dokter\nGigi Indonesia (PDGI).\nHuruf g\nPencatatan dimaksudkan sebagai bahan pertimbangan\nuntuk pemberian surat tanda registrasi dokter dan surat tanda\nregistrasi dokter\ngigi dalam registrasi ulang.\nPasal 9\nCukup jelas\nPasal 10\nCukup jelas\nPasal 11\nCukup jelas\nPasal 12\nCukup jelas\nPasal 13\nCukup jelas\nPasal 14\nAyat (1)\nUnsur dari asosiasi rumah sakit pendidikan,\nDepartemen Kesehatan dan Departemen Pendidikan Nasional yang\nmasing-masing 2 (dua) orang\nterdiri atas 1 (satu) orang berlatar\nbelakang pendidikan profesi dokter dan 1 (satu) orang dokter\ngigi.\nYang dimaksud dengan \"tokoh masyarakat\" adalah orang yang peduli\ndan mempunyai komitmen tinggi untuk kepentingan pasien. Tokoh\ntersebut\nmempunyai wawasan nasional dan memahami masalah kesehatan\ntetapi bukan dokter atau dokter gigi.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nAyat (5)\nCukup jelas\nPasal 15\nCukup jelas\nPasal 16\nCukup jelas\nPasal 17\nCukup jelas\nPasal 18\nHuruf a\nCukup jelas\nHuruf b\nCukup jelas\nHuruf c\nCukup jelas\nHuruf d\nCukup jelas\nHuruf e\nCukup jelas\nHuruf f\nCukup jelas\nHuruf g\nCukup jelas\nHuruf h\nTidak menutup kemungkinan bagi dokter dan dokter\ngigi untuk tetap dapat menjalankan praktik kedokterannya. Hal ini\ndimaksudkan agar\ntetap dapat meningkatkan kemampuan\nprofesinya.\nPasal 19\nCukup jelas\nPasal 20\nCukup jelas\nPasal 21\nCukup jelas\nPasal 22\nCukup jelas\nPasal 23\nCukup jelas\nPasal 24\nDalam ketentuan ini diatur pula mengenai\npenggantian antar waktu anggota Konsil Kedokteran Indonesia.\nPasal 25\nPendapatan dari Anggaran Pendapatan dan Belanja\nNegara dalam ketentuan ini antara lain biaya registrasi dan sumber\ndana lain yang\nsah yang merupakan penerimaan negara bukan pajak\n.\nPasal 26\nCukup jelas\nPasal 27\nCukup jelas\nPasal 28\nCukup jelas\nPasal 29\nAyat (1)\nCukup jelas\nAyat (2)\nSurat tanda registrasi dokter ditandatangani oleh\nKetua Konsil Kedokteran dan surat tanda registrasi dokter gigi\nditandatangani oleh\nKetua Konsil Kedokteran Gigi. Dengan demikian,\nKetua Konsil Kedokteran dan Ketua Konsil Kedokteran Gigi disebut\njuga registrar.\nAyat (3)\nHuruf a\nCukup jelas\nHuruf b\nCukup jelas\nHuruf c\nSurat keterangan sehat fisik dan mental adalah\nbukti tertulis yang dikeluarkan oleh dokter yang memiliki surat\nizin praktik.\nHuruf d\nSertifikat kompetensi dikeluarkan oleh kolegium\nyang bersangkutan.\nHuruf e\nCukup jelas\nAyat (4)\nCukup jelas\nAyat (5)\nPertimbangan dimaksud dalam ayat ini untuk\nmelihat apakah dokter atau dokter gigi tersebut selama menjalankan\npraktik kedokteran telah\ndikenakan sanksi oleh Majelis Kehormatan\nEtik Kedokteran, Majelis Kehormatan Etik Kedokteran Gigi, Majelis\nKehormatan Disiplin Kedokteran\nIndonesia, atau putusan hakim.\nAyat (6)\nMemelihara dan menjaga registrasi dokter dan\ndokter gigi dilakukan dengan membuat daftar yang memuat nama dokter\natau dokter gigi\nyang memiliki surat tanda registrasi dokter atau\nsurat tanda registrasi dokter gigi dan hal lain yang terkait dengan\nketentuan tentang\nregistrasi dokter atau dokter gigi.\nPasal 30\nAyat (1)\nEvaluasi dilakukan oleh perguruan tinggi di\nIndonesia berdasarkan permintaan tertulis dari Konsil Kedokteran\nIndonesia. Konsil Kedokteran\nIndonesia meminta pengujian setelah\ndilakukan evaluasi terhadap kesahan ijazah sesuai dengan peraturan\nperundang-undangan.\nAyat (2)\nCukup jelas\nAyat (3)\nYang dimaksud dengan \"peraturan\nperundang-undangan\" adalah peraturan perundang-undangan di bidang\nketenagakerjaan dan keimigrasian.\nAyat (4)\nCukup jelas\nPasal 31\nAyat (1)\nYang dimaksud dengan \"surat tanda registrasi\nsementara dokter dan dokter gigi\" adalah bukti tertulis yang\ndiberikan oleh Konsil Kedokteran\ndan Konsil Kedokteran Gigi kepada\ndokter dan dokter gigi warga negara asing yang melakukan kegiatan\ndi bidang kedokteran.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nPasal 32\nAyat (1)\nYang dimaksud dengan \"surat tanda registrasi\nbersyarat dokter dan dokter gigi\" adalah bukti tertulis yang\ndiberikan oleh Konsil Kedokteran\ndan Konsil Kedokteran Gigi kepada\npeserta didik untuk mengikuti pendidikan dan pelatihan kedokteran\natau kedokteran gigi di Indonesia\nbagi dokter atau dokter gigi\nwarga negara asing.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nPasal 33\nCukup jelas\nPasal 34\nCukup jelas\nPasal 35\nAyat (1)\nHuruf a\nCukup jelas\nHuruf b\nCukup jelas\nHuruf c\nCukup jelas\nHuruf d\nCukup jelas\nHuruf e\nCukup jelas\nHuruf f\nCukup jelas\nHuruf g\nCukup jelas\nHuruf h\nCukup jelas\nHuruf i\nKetentuan ini dimaksudkan untuk memberikan\nkewenangan bagi dokter dan dokter gigi untuk menyimpan obat selain\nobat suntik sebagai\nupaya untuk menyelamatkan pasien.\nObat tersebut diperoleh dokter atau dokter gigi dari apoteker yang\nmemiliki izin untuk mengelola apotek. Jumlah obat yang disediakan\nterbatas pada kebutuhan pelayanan.\nHuruf j\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 36\nCukup jelas\nPasal 37\nAyat (1)\nCukup jelas\nAyat (2)\nDokter atau dokter gigi yang diminta untuk\nmemberikan pelayanan medis oleh suatu sarana pelayanan kesehatan,\nbakti sosial, penanganan\nkorban bencana, atau tugas kenegaraan yang\nbersifat insidentil tidak memerlukan surat izin praktik, tetapi\nharus memberitahukan kepada\ndinas kesehatan kabupaten/kota tempat\nkegiatan dilakukan.\nAyat (3)\nCukup jelas\nPasal 38\nCukup jelas\nPasal 39\nCukup jelas\nPasal 40\nAyat (1)\nCukup jelas\nAyat (2)\nDalam hal dokter atau dokter gigi pengganti bukan\ndari keahlian yang sama, dokter atau dokter gigi tersebut harus\nmenginformasikan\nkepada pasien yang bersangkutan.\nPasal 41\nCukup jelas\nPasal 42\nCukup jelas\nPasal 43\nCukup jelas\nPasal 44\nAyat (1)\nYang dimaksud dengan \"standar pelayanan\" adalah\npedoman yang harus diikuti oleh dokter atau dokter gigi dalam\nmenyelenggarakan praktik\nkedokteran.\nAyat (2)\nYang dimaksud dengan \"strata sarana pelayanan\"\nadalah tingkatan pelayanan yang standar tenaga dan peralatannya\nsesuai dengan kemampuan\nyang diberikan.\nAyat (3)\nCukup jelas\nPasal 45\nAyat (1)\nPada prinsipnya yang berhak memberikan\npersetujuan atau penolakan tindakan medis adalah pasien yang\nbersangkutan. Namun, apabila pasien\nyang bersangkutan berada di\nbawah pengampuan (under curatele) persetujuan atau penolakan\ntindakan medis dapat diberikan oleh keluarga terdekat antara lain\nsuami/istri, ayah/ibu kandung, anak-anak\nkandung atau\nsaudara-saudara kandung.\nDalam keadaan gawat darurat, untuk menyelamatkan jiwa pasien tidak\ndiperlukan persetujuan. Namun, setelah pasien sadar atau dalam\nkondisi yang sudah memungkinkan, segera diberikan penjelasan dan\ndibuat persetujuan.\nDalam hal pasien adalah anak-anak atau orang yang tidak sadar, maka\npenjelasan diberikan kepada keluarganya atau yang mengantar.\nApabila tidak ada yang mengantar dan tidak ada keluarganya\nsedangkan tindakan medis harus dilakukan maka penjelasan diberikan\nkepada\nanak yang bersangkutan atau pada kesempatan pertama pasien\nsudah sadar.\nAyat (2)\nCukup jelas\nAyat (3)\nPenjelasan hendaknya diberikan dalam bahasa yang\nmudah dimengerti karena penjelasan merupakan landasan untuk\nmemberikan persetujuan.\nAspek lain yang juga sebaiknya diberikan\npenjelasan yaitu yang berkaitan dengan pembiayaan.\nAyat (4)\nPersetujuan lisan dalam ayat ini adalah\npersetujuan yang diberikan dalam bentuk ucapan setuju atau bentuk\ngerakan menganggukkan kepala\nyang diartikan sebagai ucapan\nsetuju.\nAyat (5)\nYang dimaksud dengan \"tindakan medis berisiko\ntinggi\" adalah seperti tindakan bedah atau tindakan invasif\nlainnya.\nAyat (6)\nCukup jelas\nPasal 46\nAyat (1)\nYang dimaksud dengan \"rekam medis\" adalah berkas\nyang berisikan catatan dan dokumen tentang identitas pasien,\npemeriksaan, pengobatan,\ntindakan, dan pelayanan lain yang telah\ndiberikan kepada pasien.\nAyat (2)\nDalam hal terjadi kesalahan dalam melakukan\npencatatan pada rekam medis, berkas dan catatan tidak boleh\ndihilangkan atau dihapus dengan\ncara apa pun. Perubahan catatan\natau kesalahan dalam rekam medis hanya dapat dilakukan dengan\npencoretan dan dibubuhi paraf petugas\nyang bersangkutan.\nAyat (3)\nYang dimaksud dengan \"petugas\" adalah dokter atau\ndokter gigi atau tenaga kesehatan lain yang memberikan pelayanan\nlangsung kepada\npasien. Apabila dalam pencatatan rekam medis\nmenggunakan teknologi informasi elektronik, kewajiban membubuhi\ntanda tangan dapat diganti\ndengan menggunakan nomor identitas\npribadi (personal identification number).\nPasal 47\nCukup jelas\nPasal 48\nCukup jelas\nPasal 49\nAyat (1)\nYang dimaksud dengan \"kendali mutu\" adalah suatu\nsistem pemberian pelayanan yang efisien, efektif, dan berkualitas\nyang memenuhi kebutuhan\npasien.\nYang dimaksud dengan \"kendali biaya\" adalah pembiayaan pelayanan\nkesehatan yang dibebankan kepada pasien benar-benar sesuai dengan\nkebutuhan medis pasien didasarkan pola tarif yang ditetapkan\nberdasarkan peraturan perundang-undangan.\nAyat (2)\nYang dimaksud dengan \"audit medis\" adalah upaya\nevaluasi secara profesional terhadap mutu pelayanan medis yang\ndiberikan kepada pasien\ndengan menggunakan rekam medisnya yang\ndilaksanakan oleh profesi medis.\nAyat (3)\nCukup jelas\nPasal 50\nYang dimaksud dengan \"standar profesi\" adalah\nbatasan kemampuan (knowledge, skill and professional\nattitude) minimal yang harus dikuasai oleh seorang individu\nuntuk dapat melakukan kegiatan profesionalnya pada masyarakat\nsecara mandiri yang\ndibuat oleh organisasi profesi.\nYang dimaksud dengan \"standar prosedur operasional\" adalah suatu\nperangkat instruksi/langkah-langkah yang dibakukan untuk\nmenyelesaikan\nsuatu proses kerja rutin tertentu. Standar prosedur\noperasional memberikan langkah yang benar dan terbaik berdasarkan\nkonsensus bersama\nuntuk melaksanakan berbagai kegiatan dan fungsi\npelayanan yang dibuat oleh sarana pelayanan kesehatan berdasarkan\nstandar profesi.\nPasal 51\nCukup jelas\nPasal 52\nCukup jelas\nPasal 53\nCukup jelas\nPasal 54\nCukup jelas\nPasal 55\nAyat (1)\nYang dimaksud dengan \"penegakan disiplin\" dalam\nayat ini adalah penegakan aturan-aturan dan/atau ketentuan\npenerapan keilmuan dalam\npelaksanaan pelayanan yang harus diikuti\noleh dokter dan dokter gigi.\nAyat (2)\nCukup jelas\nAyat (3)\nYang dimaksud dengan \"independen\" dalam ayat ini\nadalah Majelis Kehormatan Disiplin Kedokteran Indonesia dalam\nmenjalankan tugasnya\ntidak terpengaruh oleh siapa pun atau lembaga\nlainnya.\nPasal 56\nTanggung jawab dimaksud meliputi tanggung jawab\nadministratif, sedangkan dalam pelaksanaan teknis Majelis\nKehormatan Disiplin Kedokteran\nIndonesia adalah otonom dan\nmandiri.\nPasal 57\nAyat (1)\nCukup jelas\nAyat (2)\nYang dimaksud dengan kata \"dapat\" dalam ayat ini\ndilakukan dengan memperhatikan pengaduan terhadap dokter atau\ndokter gigi yang praktik,\ndan luas wilayah kerja.\nPasal 58\nCukup jelas\nPasal 59\nAyat (1)\nCukup jelas\nAyat (2)\nHuruf a\nCukup jelas\nHuruf b\nCukup jelas\nHuruf c\nCukup jelas\nHuruf d\nCukup jelas\nHuruf e\nCukup jelas\nHuruf f\nCukup jelas\nHuruf g\nPengetahuan di bidang hukum kesehatan diperoleh\nmelalui pendidikan atau pelatihan yang menyangkut aspek hukum dalam\nbidang kesehatan\nbaik yang diselenggarakan oleh institusi\npendidikan maupun lembaga lainnya yang terakreditasi.\nHuruf h\nCukup jelas\nPasal 60\nCukup jelas\nPasal 61\nCukup jelas\nPasal 62\nCukup jelas\nPasal 63\nCukup jelas\nPasal 64\nCukup jelas\nPasal 65\nCukup jelas\nPasal 66\nAyat (1)\nSetiap orang yang mengetahui atau kepentingannya\ndirugikan atas tindakan dokter atau dokter gigi yang menjalankan\npraktik kedokteran,\ntetapi tidak mampu mengadukan secara tertulis,\ndapat mengadukan secara lisan kepada Majelis Kehormatan Disiplin\nKedokteran Indonesia.\nAyat (2)\nCukup jelas\nAyat (3)\nYang dimaksud dengan \"setiap orang\" adalah orang\nyang secara langsung mengetahui atau kepentingannya dirugikan atas\ntindakan dokter\natau dokter gigi yang menjalankan praktik\nkedokteran. Termasuk juga dalam pengertian \"orang\" adalah korporasi\n(badan) yang dirugikan\nkepentingannya.\nPasal 67\nCukup jelas\nPasal 68\nCukup jelas\nPasal 69\nCukup jelas\nPasal 70\nCukup jelas\nPasal 71\nCukup jelas\nPasal 72\nCukup jelas\nPasal 73\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nTenaga kesehatan dimaksud antara lain bidan dan\nperawat yang diberi kewenangan untuk melakukan tindakan medis\nsesuai dengan peraturan\nperundangan-undangan.\nPasal 74\nLihat penjelasan Pasal 49 ayat (2)\nPasal 75\nCukup jelas\nPasal 76\nCukup jelas\nPasal 77\nCukup jelas\nPasal 78\nCukup jelas\nPasal 79\nCukup jelas\nPasal 80\nCukup jelas\nPasal 81\nCukup jelas\nPasal 82\nCukup jelas\nPasal 83\nCukup jelas\nPasal 84\nCukup jelas\nPasal 85\nCukup jelas\nPasal 86\nCukup jelas\nPasal 87\nCukup jelas\nPasal 88\nCukup jelas\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 4431."
+   }
+  }
+ ]
+}

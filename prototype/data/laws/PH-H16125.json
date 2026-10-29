@@ -1,0 +1,1232 @@
+{
+ "id": "PH-H16125",
+ "title": {
+  "zh": null,
+  "en": "An Act for Making Further and More Effectual Provision for the National Defense By Establishing a System of Military Justice for Persons Subject to Military Law.",
+  "orig": "An Act for Making Further and More Effectual Provision for the National Defense By Establishing a System of Military Justice for Persons Subject to Military Law."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1938-09-14",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 408",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 119,
+ "chars": 80062,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00408_1938_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 119 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00408_1938_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H16125-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The following articles shall be know as the Articles of War and shall at all times and in all places\ngovern the Army of the Philippines:\nTITLE I.-Preliminary Provisions\nArticle 1. Definitions.-The following words when used in these articles shall be construed in the sense\nindicated in this article, unless the context shows that a different sense is intended, namely:\na. The word \"officer\" shall be construed to refer to a commissioned officer;\nb. The word \"soldier\" shall be construed as including a non-commissioned officer, a private, or any other\nenlisted man;\nc. The word \"company\" shall be understood as including a troop or battery;\nd. The word \"battalion\" shall be understood as including a squadron."
+   }
+  },
+  {
+   "id": "PH-H16125-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Article 2"
+   },
+   "text": {
+    "en": "Persons subject to Military Law.-The following persons are subject to these articles and shall be\nunderstood as included in the term \"any person subject to military law\" or \"persons subject to military law,\"\nwhenever used in these articles:\na. All officers, members of the Nurse Corps and soldiers belonging to the Regular Force of the Philippine\nArmy; all reservists; from the dates of their call to active duty and while on such active duty; all trainees\nundergoing military instructions; and all other persons lawfully called, drafted, or ordered into, or to duty or\nfor training in, the said service, from the dates-they are required by the terms of the call, draft, or order to obey\nb. Cadets, flying cadets, and probationary third lieutenants;\nc. All retainers/to the camp and all persons accompanying or serving with the Army of the Philippines in the\nfield in time of war or when martial law is declared though not otherwise subject to these articles;\nd. All persons under sentence adjudged by courts-martial.\nTITLE II.-Courts-Martial"
+   }
+  },
+  {
+   "id": "PH-H16125-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Article 3"
+   },
+   "text": {
+    "en": "Courts-martial classified.-Courts-martial shall be of three kinds, namely: First, General\nCourts-Martial; Second, Special Courts-Martial; and Third, Summary Courts-Martial.\nA. COMPOSITION"
+   }
+  },
+  {
+   "id": "PH-H16125-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Article 4"
+   },
+   "text": {
+    "en": "Who may serve on courts-martial.-All officers in active duty in the Army shall be competent to\nserve on courts-martial for the trial of any person who may lawfully be brought before such courts for trial.\nWhen appointing courts-martial, the appointing authority shall detail as members thereof those officers of the\ncommand who, in his opinion, are best qualified for the duty by reason of age., training, experience, and\njudicial temper-ament ; and officers having less than two years' service shall not, if it can be avoided without\n\nmanifest injury to the service, be appointed as members of courts-martial in excess of the minority\nmembership thereof."
+   }
+  },
+  {
+   "id": "PH-H16125-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Article 5"
+   },
+   "text": {
+    "en": "General Courts-Martial.-General courts-martial may consist of any number of officers not less"
+   }
+  },
+  {
+   "id": "PH-H16125-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Article 6"
+   },
+   "text": {
+    "en": "Special Courts-Martial.-Special courts-martial j may consist of any number of officers not less"
+   }
+  },
+  {
+   "id": "PH-H16125-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Article 7"
+   },
+   "text": {
+    "en": "Summary Courts-Martial.-A summary court-martial shall consist of one officer.\nB. BY WHOM APPOINTED"
+   }
+  },
+  {
+   "id": "PH-H16125-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Article 8"
+   },
+   "text": {
+    "en": "General Courts-Martial.-The President of the Philippines, the Chief of Staff of the Philippine\nArmy, and, when empowered by the President, the Provost Marshal General, the Commanding Officer of a\nDivision, the District Commander, the Superintendent of the Military Academy, the Commanding Officer of a\nseparate brigade or body of troops may appoint general courts-martial; but when any such commander is the\naccuser or the prosecutor of the person or persons to be tried, the court shall be appointed by superior\ncompetent authority, and no officer shall be eligible to sit as a member of such court when he is the accuser or\na witness for the prosecution or for the defense.\nThe authority appointing a general court-martial shall detail as one of the members thereof a law member,\nwho shall be an officer of the Judge Advocate Service, except that when an officer of that service is\nnot-available for the purpose the appointing authority, shall detail instead an officer of some other branch of\nthe service selected by the appointing authority as specially qualified to perform the duties of law member.\nThe law member, in addition to his duties as a member, shall perform such other duties as the President may\nby regulations prescribe."
+   }
+  },
+  {
+   "id": "PH-H16125-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Article 9"
+   },
+   "text": {
+    "en": "Special Courts-Martial.-The commanding officer of a district and when empowered by the\nPresident, the commanding officer of a garrison, fort, camp, brigade, regiment, detached battalion, or other\ndetached command may appoint special courts-martial but when any such commanding officer is the accuser\nor the prosecutor of the person or persons to be tried, the court shall be appointed by superior authority, and\nmay in- any case be appointed by superior authority when, by the latter deemed desirable; and no officer\nshall-be eligible to sit as a member of such court when he is the accuser or a witness for the prosecution or\nfor-the defense."
+   }
+  },
+  {
+   "id": "PH-H16125-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Article 10"
+   },
+   "text": {
+    "en": "Summary Courts-Martial.-The commanding officer of a garrison, fort, camp, or other place\nwhere troops are on duty, and the commanding officer of a regiment, detached battalion, detached company,\nor other detachment may appoint summary courts-martial; but such summary courts-martial may in any case\nbe appointed by superior authority when by the latter deemed desirable: Provided, That when but one officer\nis present with a command he shall be the summary court-martial of that command and shall hear and\ndetermine cases brought before him."
+   }
+  },
+  {
+   "id": "PH-H16125-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Article 11"
+   },
+   "text": {
+    "en": "Appointments of trial judge advocates and counsel.-For each general or special courts-martial,\nthe, authority appointing the court shall appoint a trial judge advocate and a defense counsel, and for each\ngeneral courts-martial, one or more assistant trial judge advocates and one or more assistant defense counsel\nwhen necessary: Provided,. however, That no officer who has acted as member, trial judge advocate, assistant\ntrial judge advocate, defense counsel, or assistant defense counsel in any case shall subsequently act as staff\njudge advocate to the reviewing or confirming authority upon the same case.\nC. JURISDICTION"
+   }
+  },
+  {
+   "id": "PH-H16125-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Article 12"
+   },
+   "text": {
+    "en": "General Courts-Martial.-General courts-martial shall have power to try any person subject to\nmilitary law for any crime or offense made punishable by these articles, and any other person who by the law\nof war is subject to trial by military tribunals: Provided, That no officer shall be brought\"\ntrial before a general courts-martial appointed by the Superintendent of the Military Academy: Provided,\nfurther, That the officer competent to appoint a general court-martial for the trial of any particular case may,\n\nwhen in his judgment the interest of the service' shall so require, cause any case to be tried by a special\ncourt-martial notwithstanding the limitations upon the jurisdiction of the special courts-martial as to offenses\nset out in article 13; but the limitations upon jurisdiction as to persons and upon punishing power set out in\nsaid article shall be observed."
+   }
+  },
+  {
+   "id": "PH-H16125-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Article 13"
+   },
+   "text": {
+    "en": "Special Courts-Martial.-Special courts-martial shall have power to try any person subject to\nmilitary-law for any crime or offense not capital made punishable by these articles: Provided, That the\nPresident may, by regulations, except from the jurisdiction of special courts-martial any class or classes of\npersons subject to Military Law. Special courts-martial shall not have power to adjudge' confinement in\nexcess of six months, nor to adjudge forfeiture of more than two-thirds pay per month for a period of not\nexceeding six months."
+   }
+  },
+  {
+   "id": "PH-H16125-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Article 14"
+   },
+   "text": {
+    "en": "Summary Courts-Martial.-Summary courts-martial shall have power to try any person subject to\nmilitary law, except an officer, a member of the Nurse Corps, a cadet, a flying cadet or probationary third\nlieutenant, for any crime or offense not capital made punishable by these articles: Provided, That\nnon-commissioned officers shall not, if they object thereto, be brought to trial before a summary court-martial\nwithout the authority of the officer competent to bring them to trial before a general court-martial Provided,\nfurther, That the President may, by regulations, except from the jurisdiction of summary courts-martial any\nclass or classes of persons subject to military law.\nSummary courts-martial shall not have power to adjudge confinement in excess of one month, restriction to\nlimits for more than three months, or forfeiture or detention of more than two-thirds of one month's pay."
+   }
+  },
+  {
+   "id": "PH-H16125-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Article 15"
+   },
+   "text": {
+    "en": "Jurisdiction not exclusive.-The provisions of these articles conferring jurisdiction upon\ncourts-martial shall not be construed as depriving other military tribunals of concurrent jurisdiction in respect\nof offenders or offenses that by statute or by the law of war may be triable by such military tribunals."
+   }
+  },
+  {
+   "id": "PH-H16125-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Article 16"
+   },
+   "text": {
+    "en": "Officers, how triable.-Officers shall be triable ;only by general and special courts-martial, and in\nno case shall an officer, when it can be avoided, be tried by officers inferior to him in rank.\nD. PROCEDURE"
+   }
+  },
+  {
+   "id": "PH-H16125-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Article 17"
+   },
+   "text": {
+    "en": "Trial judge advocate to prosecute; counsel to defend.-The trial judge advocate of a general or\nspecial .court-martial shall prosecute in the name of the People of the Philippines and shall, under the\ndirection of the court, prepare the record of its proceedings. The accused shall have the right to be represented\nin his defense before the court by counsel of his own selection, civil counsel if he so provides, or military if\nsuch counsel be reasonably available, otherwise by the defense counsel duly appointed for the court pursuant\nto article eleven. Should the accused have counsel of his own selection, the defense counsel and assistant\ndefense counsel, if any, of the court, shall, if the accused so desires, act as his associate counsel."
+   }
+  },
+  {
+   "id": "PH-H16125-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Article 18"
+   },
+   "text": {
+    "en": "Challenges.-Members of a general or special court-martial may be challenged by the accused or\nthe trial judge advocate for cause stated to the court. The court shall determine the relevancy and validity\nthereof, and shall not deceive a challenge to more than on member at a time Challenges by the trial judge\nadvocate N&hall ordinarily be presented an decided before those by the-accused are offered."
+   }
+  },
+  {
+   "id": "PH-H16125-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Article 19"
+   },
+   "text": {
+    "en": "Oaths.-The trial judge advocate of a general\" or special court-martial shall administer to the\nmembers of the court, before they proceed upon any trial, the following oath or affirmation: \"You, A. B. do\nswear (or affirm) that you will well and truly try and determine, according to the evidence, the matter now\nbefore you, between the People, of the Philippines and the person to be tried, and that you will duly administer\njustice, without partiality, favor, or affection according to the provisions of the rules and articles for the\ngovernment of the army of the Philippines, and if any doubt should arise, not explained by said rules and\narticles, then according to your conscience, the best of your understanding, and the custom of war in like cases\nand you do further swear (or affirm) that you will not divulge the findings or sentence of the court until they\nshall be published by the proper authority or duly announced by the court, except to the trial judge advocate\nand assistant trial judge advocate; neither will you disclose or discover the vote or opinion of any particular\n\nmember of the court-martial upon a challenge or upon the findings or sentence, unless required to give\nevidence thereof as a witness by a court of justice in due course of law. So help you God.\"\nWhen the oath of affirmation has been administered to the members of a general or special court-martial, the\npresident of the court shall administer to the trial judge advocate and to each assistant trial judge advocate, if\nany, an oath or affirmation in the following form: \"You, A. B. dc swear (or affirm) that you will faithfully and\nimpartially perform the duties of a trial judge advocate, and will not divulge the findings or sentence of the\ncourt to any but the proper authority until they shall be duly disclosed. So help you God.\"\nAll persons who give evidence before a court-martial shall be examined on oath or affirmation in the\nfollowing form: \"You swear (or affirm) that the evidence you shall give in the case now in hearing shall be the\ntruth, the whole truth and nothing but the truth. So help you God.\"\nEvery reporter of the proceedings of a court-martial shall, before entering upon his duties, take oath or\naffirmation in the following form: \"You swear (or affirm) that you will faithfully perform the duties of\nreporter to this court. So help you God.\"\nEvery interpreter in the trial of any case before a court-martial shall, before entering upon his duties, take oath\nor affirmation in the following form: \"You swear (or affirm) that you will truly interpret in the case now in\nhearing. So help you God.\"\nIn case of affirmation the closing sentence of adjuration will be omitted."
+   }
+  },
+  {
+   "id": "PH-H16125-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Article 20"
+   },
+   "text": {
+    "en": "Continuances.-A court-martial may, for reasonable cause, grant a continuance to either party for\nsuch time and as often as may appear to be just."
+   }
+  },
+  {
+   "id": "PH-H16125-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Article 21"
+   },
+   "text": {
+    "en": "Refusal or failure to plead.-When an accused arraigned before a court-martial fails or refuses to\nplead, or answers foreign to the purpose, or after a plea of guilty makes a statement inconsistent with the plea,\nor when it appears to the court that he entered a plea of guilty improvidently or through lack of understanding\nof its meaning and effect, the court shall proceed to trial and judgment as if he had pleaded not guilty."
+   }
+  },
+  {
+   "id": "PH-H16125-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Article 22"
+   },
+   "text": {
+    "en": "Process to obtain witnesses.-Every trial judge advocate of a general or special court-martial and\nevery summary court-martial shall have power to issue the like process to compel witnesses to appear and\ntestify which courts of the Philippines, having criminal jurisdiction, may lawfully issue."
+   }
+  },
+  {
+   "id": "PH-H16125-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Article 23"
+   },
+   "text": {
+    "en": "Refusal to appear or testify.-Every person not subject to military law who, being duly\nsubpoenaed to appear as a witness before any military court, commission, court of inquiry, or board, or before\nany officer, military or civil, designated to take a deposition to- be read in evidence before such court,\ncommission, court of inquiry, or board, willfully neglects or refuses to appear, or refuses to qualify as a\nwitness, or testify, or produce documentary evidence which such person may have been legally subpoenaed to\nproduce, shall be deemed guilty of contempt, for which such person shall be punished on information in the\nCourt of First Instance of the Province or city where the subpoena is issued, jurisdiction being hereby\nconferred upon such courts for such purpose and it shall be the duty of the city fiscal or city attorney or\nprovincial fiscal, on the certification of the facts to him by the military court, commission, court of inquiry, or\nboard, to file an information against and prosecute the person so offending in the manner provided in sections\ntwo hundred and thirty-three and following of Act Numbered One hundred and ninety, and the punishment of\nsuch person, on conviction, shall be that provided in sections two hundred and thirty-six and two hundred and\nthirty-seven of the aforesaid Act: Prowled, That reasonable traveling expenses be allowed to indigent\nwitnesses, such amounts to be paid out of the appropriation of the Army."
+   }
+  },
+  {
+   "id": "PH-H16125-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Article 24"
+   },
+   "text": {
+    "en": "Compulsory self-incrimination prohibited.-No witness before a military court, commission,\ncourt of inquiry, or board, or before any officer conducting an investigation, or before any officer, military or\ncivil, designated to take a deposition to be read in evidence before a military court, commission, court of\ninquiry or board, or before an officer conducting an investigation, shall be compelled to incriminate himself,\nor to answer any question not material to the issue when such answer might tend to degrade him."
+   }
+  },
+  {
+   "id": "PH-H16125-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Article 25"
+   },
+   "text": {
+    "en": "Depositions-When admissible.-A duly authenticated deposition taken upon reasonable notice to\nthe opposite party may be read in evidence before any military court or commission in any case not capital, or\nin any proceeding before a court of inquiry or a military board, if such deposition be taken when the witness\nresides, is found, or is about to go outside of the Philippines, or beyond the distance of one hundred and fifty\nkilometers from the place of trial or hearing, and will probably continue absent when the testimony is\nrequired, or when it appears to the satisfaction of the court, commission, board, or appointing authority that\nthe witness, by reason of age, sickness, bodily infirmity, imprisonment, or other reasonable cause, is unable to\nappear and testify in person at the place of trial or hearing: Provided, That testimony by deposition may be\nadduced for the defense in capital cases."
+   }
+  },
+  {
+   "id": "PH-H16125-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Article 26"
+   },
+   "text": {
+    "en": "Depositions-Before whom taken.-Depositions -to be read in evidence before military courts,\ncommissions, courts of inquiry, or military boards, or for other use in military administration, may be taken\nbefore and authenticated by any officer, military or civil, authorized by the laws of the Philippines or by the\nlaws of the place where the deposition is taken to administer oaths."
+   }
+  },
+  {
+   "id": "PH-H16125-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Article 27"
+   },
+   "text": {
+    "en": "Courts of inquiry-Records of, when admissible.-The records of the proceedings of a court of\ninquiry -may, with the consent of the accused, be read in evidence before any court-martial or military\ncommission in any case not capital nor extending to the dismissal of an officer, and may also be read in\nevidence in any proceeding before a court of inquiry or a military board: Provided, That such evidence may be\nadduced by the defense in capital cases or cases extending to the dismissal of an officer."
+   }
+  },
+  {
+   "id": "PH-H16125-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Article 28"
+   },
+   "text": {
+    "en": "Court to announce action.-Whenever the court -has acquitted the accused upon all specifications\nand charges, the court shall at once announce such result in open court. Under such regulations as the\nPresident may prescribe, the findings and sentence in other cases may be similarly announced."
+   }
+  },
+  {
+   "id": "PH-H16125-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Article 29"
+   },
+   "text": {
+    "en": "Closed sessions.-Whenever a general or special court-martial shall sit in closed session, the trial\njudge advocate and the assistant trial judge advocate, if any, shall withdraw; and when their assistance in\nreferring to the recorded evidence is required, it shall be obtained in open court, and in the presence of the\naccused and of his counsel, if there be any."
+   }
+  },
+  {
+   "id": "PH-H16125-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Article 30"
+   },
+   "text": {
+    "en": "Method of voting.-Voting by members of a general or special court-martial upon question of\nchallenge, on the findings, and on the sentence shall be -by secret written ballot. The junior member of the\ncourt shall in each case count the votes, which count shall be checked by the president who will forthwith-\nannounce the result of the ballot to the members of the court. The law member of the court, if any, or if there\nbe no law member of the court, then the president may rule in open court upon interlocutory questions,other\nthan challenge, arising during the proceedings: Provided, That unless such ruling be made by the law member\nof the court if any member object thereto the court shall be cleared and closed and the question decided by a\nmajority vote viva voce, beginning with the junior in rank: And provided,, further, That if any such Ruling be\nmade by the law member of the court upon any interlocutory question other than an objection to the\nadmissibility of evidence offered during the trial, and any member object to the ruling, the court shall likewise\nbe cleared and closed and the question decided by a majority vote, viva voce, beginning with the junior in\nrank: Provided further, however, That the phrase, \"objection to the admissibility of evidence offered during\nthe trial,\" as used in the next preceding proviso hereof, shall not be construed to include questions 4s to the\norder of the introduction of witnesses or other evidence, nor of' the recall of witnesses for further\nexamination, nor as to whether the expert witnesses shall be admitted or called upon any question, nor as to\nwhether the court shall view the premises where an offense is alleged to have been committed, nor as to the\ncompetency of witnesses, as, for .instance, of children, witnesses alleged to be mentally incompetent, and the\nlike, nor as to the insanity of accused, or whether the existence of mental disease or mental derangement on\nthe part of the accused has become an issue in the trial, or accused required to submit to physical examination,\nnor whether any argument or statement of counsel for the accused or of the trial judge advocate is improper,\nnor any ruling in a case involving military strategy or tactics or correct military action; but, upon all these\nquestions arising on the trial, if any member object to any ruling of the law member, the court shall be cleared\n\nand closed and the question decided by majority vote of the members in the manner aforesaid."
+   }
+  },
+  {
+   "id": "PH-H16125-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Article 31"
+   },
+   "text": {
+    "en": "Contempts.-A military tribunal may. punish as for contempt any person who disturbs its\nproceedings by any riot or disorder: Provided, That such punishment shall in no case exceed ten days'\nconfinement, or a fine riot exceeding two hundred pesos, or both."
+   }
+  },
+  {
+   "id": "PH-H16125-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Article 32"
+   },
+   "text": {
+    "en": "Records-General Courts-Martial.-Each general court-martial shall keep a separate record of its\nproceedings in the trial of each case brought before it, and such record shall be authenticated by the signature\nof the president and the trial judge advocate; but in case the record cannot be authenticated by the president\nand the trial judge advocate, by reason of the death, disability, or absence of either or both of them, it shall be\nsigned by a member in lieu of the President and by an assistant trial judge advocate, if there be one, in lieu of\nthe trial judge advocate; otherwise by another member of the court."
+   }
+  },
+  {
+   "id": "PH-H16125-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Article 33"
+   },
+   "text": {
+    "en": "Records-Special and Summary Courts-Martial.-Each special court-martial and each summary\ncourt-martial shall keep a record of its proceedings, separate for each case which record shall contain such\nmatter and be authenticated in such manner as may be required by regulations which the President may from\ntime to time prescribe."
+   }
+  },
+  {
+   "id": "PH-H16125-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "Article 34"
+   },
+   "text": {
+    "en": "Disposition of records-General and Special Courts-Martial.-The trial judge advocate of\neach/general or special court-martial shall, with such expedition as circumstances may permit, forward, to the\nappointing authority or to his successor in command the original record of the proceedings of such court in the\nof each case. All records of such proceedings shall; after having been acted upon, be transferred to the Judge\nAdvocate General of the Army."
+   }
+  },
+  {
+   "id": "PH-H16125-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "Article 35"
+   },
+   "text": {
+    "en": "Disposition of records-Summary Courts-Martial- After having been acted upon by the officer\nappointing the court, or by the officer commanding for the time being, a report of each trial by summary\ncourts-martial shall be transmitted to such general headquarters as the President may designate in regulations,\nthere to be filed in the office of the judge advocate. When no longer of use, records of summary courts-martial\nmay be destroyed."
+   }
+  },
+  {
+   "id": "PH-H16125-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "Article 36"
+   },
+   "text": {
+    "en": "Irregularities-Effect of.-The proceedings of a court-martial shall not be held invalid, nor the\nfindings or sentence disapproved in any case on the ground of improper admission or rejection of evidence or\nfor any error as to any matter of pleading or procedure unless in the opinion of the reviewing or confirming\nauthority, after an examination of the entire proceedings, it shall appear that the error complained of has\ninjuriously affected the substantial rights of an accused: Provided, That the act or omission upon which the\naccused has been tried constitutes an offense denounced and made punishable by one or more of these articles:\nProvided further, That the omission of the words \"hard labor\" in any sentence of a court-martial adjudging\nimprisonment or confinement shall not be construed as depriving the authorities executing such sentence of\nimprisonment or confinement of the power to require hard labor as a part of the punishment in any case where\nit is authorized by the Executive Order prescribing maximum punishments."
+   }
+  },
+  {
+   "id": "PH-H16125-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "Article 37"
+   },
+   "text": {
+    "en": "President may prescribe rules.-The President may, by regulations, which he may modify from\ntime to time, prescribe the procedure, including modes of proof, in cases before courts-martial, courts of\ninquiry, military commissions and other military tribunals, which regulations shall, in so far as he shall deem\npracticable, apply the rules of evidence generally recognized in the trial of criminal cases in the courts of\njustice of the Philippines: Provided, That nothing contrary to or inconsistent with these articles shall be so\nprescribed.\nE. LIMITATIONS UPON PROSECUTIONS"
+   }
+  },
+  {
+   "id": "PH-H16125-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "Article 38"
+   },
+   "text": {
+    "en": "As to time.-Except for desertion or murder committed in time of war, or for mutiny, no person\nsubject to military law shall be liable to be tried or punished by a court-martial for any crime or offense\ncommitted more than two years before the arraignment of such person: Provide, That for desertion in time of\npeace or for any crime or offense punishable under articles ninety-four and ninety-five of these articles, the\n\nperiod of limitations upon trial and punishment by courts-martial shall be three years: Provided further, That\nthe period pi any absence of the accused/from the jurisdiction of the Philippines, and also any period during\nwhich by reason of some manifest impediment the\" accused shall not have been amenable to military justice,\nshall be exclude in computing the aforesaid periods of limitation: And provided, further, That this article shall\nnot have the effect to authorize the trial or punishment for any crime or offense barred by .the provisions of\nexisting law."
+   }
+  },
+  {
+   "id": "PH-H16125-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "Article 39"
+   },
+   "text": {
+    "en": "As to number.-No person shall, without his consent, be tried a second time for the same offense;\nbut no proceeding in which an accused has been found guilty by a court-martial upon any charge or\nspecification shall be held to be a trial in the sense of this article until the reviewing and, if there be one, the\nconfirming authority shall have taken final action upon the case.\nNo authority shall return a record of trial to any court-martial for reconsideration of-\na. An acquittal; or\nb. A finding of not guilty of any specification; or\nc. A finding of not guilty of any charge, unless the record shows a finding of guilty under a specification laid\nunder that charge, which sufficiently alleges a violation of some Article of War; or\nd. The sentence originally imposed, with a view to increasing its severity, unless such sentence is less than the\nmandatory sentence fixed by law for the offense or offenses upon which a conviction has been had.\nAnd no court-martial in any proceedings on revision, shall reconsider its findings or sentence in any particular\nin which a return of the record of trial for such reconsideration is herein before prohibited.\nF. PUNISHMENTS"
+   }
+  },
+  {
+   "id": "PH-H16125-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "Article 40"
+   },
+   "text": {
+    "en": "Cruel and unusual 'punishments prohibited.- \" Cruel and unusual punishments of every kind are\nprohibited."
+   }
+  },
+  {
+   "id": "PH-H16125-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "Article 41"
+   },
+   "text": {
+    "en": "Place of confinement -When lawful.-Except for desertion in time of war, repeated desertion in\ntime of peace, and mutiny, no person shall, under the sentence of a court-martial, be punished by confinement\nin a penitentiary unless an act or omission of which he is convicted is recognized as an offense of a civil\nnature and so punishable by penitentiary confinement for more than one year by some statute of the\nPhilippines, or by way of commutation of a death sentence, and unless, also the period of confinement\nauthorized and adjudged by such court-martial is more than one year: Provided, That when a sentence of\nconfinement is adjudged by a court-martial upon conviction of two or more acts or omissions, any one of\nwhich is punishable under these articles by confinement in a penitentiary, the entire sentence of confinement\nmay be executed in a penitentiary: Provided further, That penitentiary confinement hereby authorized may be\nserved in any penitentiary under the jurisdiction of the Philippines: Provided, further, That persons sentenced\nto dishonorable discharge and to confinement, not in a penitentiary shall be confined in disciplinary barracks\nor elsewhere as the President or the reviewing authority may direct, but not in a penitentiary."
+   }
+  },
+  {
+   "id": "PH-H16125-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "Article 42"
+   },
+   "text": {
+    "en": "Death sentence-When lawful-No person shall, by general court-martial, be convicted of any\noffense tor which the death penalty is made mandatory by law, nor sentenced to suffer death, except by the\nconcurrence of all the members of said court-martial present at the time the vote is taken, and for an offense in\nthese articles expressly made punishable by death; nor sentenced to life imprisonment, nor to confinement for\nmore than ten years, except by the concurrence of three-fourths of all of the members present at the time the\nvote is taken. All other convictions and sentences, whether by general or special court-martial, may be\ndetermined by a two-thirds vote of those members present at the time the vote is taken. All other questions\nshall be determined by a majority vote."
+   }
+  },
+  {
+   "id": "PH-H16125-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "Article 43"
+   },
+   "text": {
+    "en": "Cowardice; fraud-Accessory penalty.-When an officer is dismissed from the service for\ncowardice or fraud, the crime, punishment, name, and place of abode of the delinquent shall be published in\nthe newspapers in and about the camp and in the province or city from which the offender came or where he\n\nusually resides; and after such publication it shall be scandalous for an officer to associate with him."
+   }
+  },
+  {
+   "id": "PH-H16125-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "Article 44"
+   },
+   "text": {
+    "en": "Maximum limits. Whenever the punishment for a crime or offense made punishable by these\narticles is left to the discretion of the court-martial, the punishment shall not exceed such limit or limits as the\nPresident may from time to time prescribe: Provided, That in time of peace the period of confinement in a\npenitentiary shall in no case exceed the maximum period prescribed by law which, under article forty-one of\nthese articles, permits confinement in a penitentiary, unless in addition to the offense so punishable under such\nlaw the accused shall have been convicted at the same time of one or more other offenses.\nG. ACTION BY APPOINTING OR SUPERIOR AUTHORITY"
+   }
+  },
+  {
+   "id": "PH-H16125-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "Article 45"
+   },
+   "text": {
+    "en": "Action by convening authority.-Under such regulations as may be prescribed by the President,\nevery record of trial by general or special court-martial or military commission received by a reviewing or\nconfirming authority shall be referred by him, before he acts hereon, to his staff judge advocate or to the Judge\nAdvocate General. No sentence of a court-martial shall be carried into execution until the same shall have\nbeen approved by the officer appointing the court or by the officer commanding for the time being."
+   }
+  },
+  {
+   "id": "PH-H16125-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "Article 46"
+   },
+   "text": {
+    "en": "Powers incident to power to approve.-The power to approve the sentence of a court-martial shall\nbe held to include:\na. The power to approve or disapprove a finding and to approve only so much of a finding of guilty of a\nparticular offense as involves a finding of guilty of a lesser included offense when, in the opinion of the\nauthority having power to approve, the evidence of record requires a finding of only the lesser degree of guilt;\nb. The power to approve or disapprove the whole or any part of the sentence.\nc. The power to remand a case for rehearing, under the provisions of article fifty."
+   }
+  },
+  {
+   "id": "PH-H16125-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "Article 47"
+   },
+   "text": {
+    "en": "Confirmation-When required.-In addition to the approval required lay article forty-five,\nconfirmation by the President is required in the following cases before the sentence of a court-martial is\ncarried into execution, namely:\na. Any sentence respecting a general officer;\nb. Any sentence extending to the dismissal of an officer, except that in time of .war a sentence extending to\nthe dismissal of an officer below the grade of \"brigadier general may be carried into execution upon\nconfirmation by the commanding general of the Army in the field.\nc. Any sentence extending to the suspension or dismissal of a cadet, flying cadet, probationary third\nlieutenant, and\nd. Any sentence of death, except in the cases of person's convicted in time of war, of murder, mutiny,\ndesertion, or as spies, and in such excepted cases a sentence of death may be carried into execution, subject to\nthe provisions of article 50, upon confirmation by the commanding general of the Army in the field.\nWhen the authority competent to confirm the sentence has already acted as the approving authority no\nadditional confirmation by him is necessary."
+   }
+  },
+  {
+   "id": "PH-H16125-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "Article 48"
+   },
+   "text": {
+    "en": "Power incident to power to confirm.-The power to confirm the sentence of a court-martial shall\nbe held to include:\na. The power to confirm or disapprove a finding, and to confirm so much only of a finding of guilty of a\npar-ticular offense as involves a finding of guilty of a lesser included offense when, in the opinion of the\nauthority having power to confirm, the evidence of record requires a finding of only the lesser degree of guilt;\nb. The power to confirm or disapprove the whole or any part of the sentence: and\nc. The power to remand a case for rehearing, under the provisions of article 50."
+   }
+  },
+  {
+   "id": "PH-H16125-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "Article 49"
+   },
+   "text": {
+    "en": "Mitigation or remission of sentence.-The power to order the execution of the sentence adjudged\n\nby a court-martial shall be held to include, inter alia, the power to mitigate or remit the whole or any part of\nthe sentence.\nAny unexecuted portion of a sentence adjudged by a court-martial may be mitigated or remitted by the\nmilitary authority competent to appoint, for the command, exclusive of penitentiaries and Philippine Army\nDisciplinary Barracks, in which the person under sentence is held, a court of the kind that imposed the\nsentence, and the same power may be exercised by superior military authority; but no sentence approved or\nconfirmed by the President shall be remitted or mitigated by any other authority, and no approved sentence of\nloss of files by an officer shall be remitted or mitigated by any authority inferior to the President, except as\nprovided in article 52.\nWhen empowered by the President so to do, the commanding general of the Army in the field or the district\ncommander may approve or confirm and commute (but not approve or confirm without commuting), mitigate,\nor remit and then order executed as commuted, mitigated, or remitted any sentence which under these articles\nrequires the confirmation of the President before the same may be executed."
+   }
+  },
+  {
+   "id": "PH-H16125-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "Article 50"
+   },
+   "text": {
+    "en": "Review-Rehearing.-The Judge Advocate General shall constitute, in his office, a board of\nreview consisting of one or more officers of the Judge Advocate Service.\nBefore any record of trial in which there has been adjudged a sentence requiring approval or confirmation by\nthe President under the provisions of article 45, article 47 or article 51, is submitted to the President, such\nrecord shall be examined by the board of review. The board shall submit its opinion in writing to the Judge\nAdvocate General, who shall, except as herein otherwise provided, transmit the record and the board's\nopinion, with his recommendations, to the Chief of Staff for the action of the President.\nExcept as herein provided, no authority shall order the execution of any other sentence of a general\ncourt-martial involving the penalty of death, dismissal not suspended, dishonorable discharge not suspended,\nor confinement in a penitentiary, unless and until the board of review shall, with the approval of the Judge\nAdvocate General, have held the record of trial upon which such sentence is based legally sufficient to support\nthe sentence; except that the proper reviewing or confirming authority may upon his approval of a sentence\ninvolving dishonorable discharge or confinement in a penitentiary order its execution if it is based solely upon\nfindings of guilty of a charge or charges and a specification or specifications to which the accused has pleaded\nguilty. When the board of review, with the approval of the Judge Advocate General, holds the record in a case\nin which the order of execution has been withheld under the provisions of this paragraph legally sufficient to\nsupport the findings and sentence, the Judge Advocate General shall so advise the reviewing or confirming\nauthority from whom the record was received, who may thereupon order the execution of the sentence. When\nin a case . in which the order of execution has been withheld under the provisions of this paragraph, the board\nof review holds the record of trial legally insufficient to support the finding or sentence, either in/whole or in\npart, or that errors of law have been committed injuriously affecting the substantial rights of the accused, and\nthe Judge Advocate General concurs in such holding of the board of review, such findings and sentence shall\nbe vacated in whole or in part in accord with such holding and the recommendations of the Judge Advocate\nGeneral thereon, and the record shall be transmitted through the proper channels to the convening authority\nfor a rehearing or such other action as may be proper. In the event that the Judge Advocate General shall not\nconcur in the holding of the board of review, the Judge Advocate General shall forward all the papers in the\ncase, including the opinion of the board of review and his own dissent therefrom, directly to the Chief of Staff\nfor the Action of the President, who may confirm the action of the reviewing authority or confirming authority\nbelow, in whole or in part, with or without remission, mitigation, or commutation, or may disapprove, in\nwhole or in part, any finding of guilty, and may disapprove or vacate the sentence, in whole or in particle\nWhen the President or any reviewing or confirming authority disapproves or vacates a sentence the execution\nof which has not heretofore been duly ordered, he may authorize or direct a rehearing. Such rehearing shall\ntake place before a court composed of officers not members of the court which first heard the case. Upon such\nrehearing the accused shall not be tried for any offense of which he was found not guilty by the first court, and\n\nno sentence in excess of or more severe than the original sentence shall be enforced unless the sentence be\nbased upon a finding of guilty of an offense not considered upon the merits in the original proceeding:\nProvided, That such rehearing shall be had in all cases where a finding and sentence have been vacated by\nreason of the action of the board of review approved by the Judge Advocate General holding the record of trial\nlegally insufficient to support the findings or sentence or errors of law have been committed injuriously\naffecting the substantial rights of the accused, unless in accord with such action, and the rec-ommendations of\nthe Judge Advocate General thereon, the findings or sentence are approved in part only, or the record is\nreturned for revision, or unless the case is dismissed' by order of the reviewing or confirming authority. After\nany such rehearing had on the order of the President, the record of trial shall, after examination by the board\nof review, be transmitted by the Judge Advocate General, with the board's opinion and his recommendations,\nto the Chief of Staff for the action of the President.\nEvery record of trial by general court-martial, examination of which by the board of review is not herein\nbefore in this article provided for, shall nevertheless be examined in the Judge Advocate General's Office; and\nif found legally insufficient to support the findings and sentence, in whole or in part, shall be examined by the\nboard of review, and the board, if it also finds that such record is legally insufficient to support the findings\nand sentence, in whole or in part, shall, in writing, submit its opinion to the Judge Advocate General, who\nshall transmit the record and the board's opinion, with his recommendation, to the Chief of Staff for the action\nof the President. In any such case the President may approve, disapprove or vacate in whole or in part, any\nfindings of guilty, or confirm, mitigate, commute, remit, or vacate any sentence, in whole or in part, and direct\nthe execution of the sentence as confirmed or modified, and he may restore, the accused to all rights affected\nby the findings and sentence, or part thereof held to be invalid; and the President's necessary orders to this end\nshall be binding upon all departments and officers of the Government.\nWhenever necessary, the Judge Advocate General may constitute two or more boards of review in his office,\nwith equal powers and duties."
+   }
+  },
+  {
+   "id": "PH-H16125-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "Article 51"
+   },
+   "text": {
+    "en": "Suspension of sentence of dismissal or death.- The authority competent to order the execution of\na sentence of dismissal of an officer or a sentence of death may suspend such sentence until the pleasure of the\nPresident be known, and in case of such suspension a copy of the order of suspension, together with a copy of\nthe record of trial, shall immediately be transmitted to the President."
+   }
+  },
+  {
+   "id": "PH-H16125-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "Article 52"
+   },
+   "text": {
+    "en": "Suspension of sentence.-The authority competent to order the execution of the sentence of a\ncourt-martial may, at the time of the approval of such sentence, suspend the execution, in whole or in part, of\nany such sentence as does not extend to death, and may restore the person under sentence to duty during such\nsuspension; and the Chief of Staff or the commanding officer holding general court-martial jurisdiction over\nany such offender, may at any time thereafter, while the sentence is being served, suspend the execution, in\nwhole or in part, of the balance of such sentence and restore the person under sentence to duty during such\nsuspension. A sentence, or any part thereof, which has been so suspended may be remitted, in whole or in\npart, by the officer who suspended the same except in cases of person confined in the penitentiaries, by his\nsuccessor in office, or by any officer exercising appropriate court-martial jurisdiction over the command in\nwhich the person under sentence may be serving at the time, and subject to the foregoing exceptions, the same\nauthority\" may vacate the order of suspension at any time and offer the execution of the sentence or the\nsuspended pair thereof in so far as the same shall not have been previously remitted, subject to like power of\nsuspension. 5The death or honorable discharge of a person under a suspended sentence shall operate as a\ncomplete remission of any unexecuted or unremitted part of such sentence."
+   }
+  },
+  {
+   "id": "PH-H16125-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "Article 53"
+   },
+   "text": {
+    "en": "Execution or remission-Confinement in penitentiaries.-When a sentence of dishonorable\ndischarge has been suspended until the soldier's release from confinement, the execution or remission of any\npart of his sentence shall, if the soldier be confined in the penitentiaries, or any branch thereof, be directed by\nthe President.\nTITLE III.-Punitive Articles\n\nA. ENLISTMENT; MUSTER; RETURNS"
+   }
+  },
+  {
+   "id": "PH-H16125-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "Article 54"
+   },
+   "text": {
+    "en": "Fraudulent enlistment.-Any person who shall -procure himself to be enlisted in the military\nservice of the Philippines by means of willful misrepresentation or concealment as to his qualifications for\nenlistment, and shall receive pay or allowance under such enlistment, shall be punished as a court-martial may"
+   }
+  },
+  {
+   "id": "PH-H16125-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "Article 55"
+   },
+   "text": {
+    "en": "Officer making unlawful enlistment;--Any officer -who knowingly enlists or musters into the\nmilitary service if any person whose enlistment or muster in is prohibited by law, regulations, or orders shall\nbe dismissed from the service or suffer such other punishment as a court-martial may direct."
+   }
+  },
+  {
+   "id": "PH-H16125-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "Article 56"
+   },
+   "text": {
+    "en": "False muster.-Any officer who knowingly makes a false muster of a man or animal, or who\nsigns or directs or allows the signing of any muster roll knowing the same to contain a false muster or false\nstatement as to the absence or pay of an officer or soldier, or who wrongfully takes money or other\nconsideration on mustering in a regiment, company, or other organization, or on signing muster rolls, or who\nknowingly musters as an officer or soldier a person who is not such officer or soldier, shall be dismissed from\nthe service and suffer such other punishment as a court-martial may direct."
+   }
+  },
+  {
+   "id": "PH-H16125-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "Article 57"
+   },
+   "text": {
+    "en": "False returns-Omission to render returns.-_Every officer whose duty it is to render to Army\nHeadquarters or other superior authority a return of the state of the troops under his command, or of the arms,\nammunition, clothing, funds, or other property thereunto belonging, who knowing makes a false return thereof\nshall be dismissed from the service and suffer such other punishment as a court-martial may direct. And any\nofficer who, through neglect or design, omits to render such return shall be punished as- a court-martial may\nB. DESERTION; ABSENCE WITHOUT LEAVE"
+   }
+  },
+  {
+   "id": "PH-H16125-A58",
+   "no": 58,
+   "noLabel": {
+    "en": "Article 58"
+   },
+   "text": {
+    "en": "Certain acts to constitute desertion.-Any officer, who, having tendered his resignation and prior\nto due notice of the acceptance of the same, quits his post or proper duties without leave and with intent to\nabsent himself permanently therefrom shall be deemed a deserter.\nAny soldier who, without having first received a regular discharge, again enlists in the Army of the\nPhilippines, or in the Army or Navy of the United States, or in any foreign Army, shall be deemed to have\ndeserted the service of the Philippines and where the enlistment is in the Army of the Philippines to have\nfraudulently enlisted therein.\nAny person subject to military law who quits his organization or place of duty with the intent to avoid\nhazardous duty or to shirk important service shall be deemed a deserter."
+   }
+  },
+  {
+   "id": "PH-H16125-A59",
+   "no": 59,
+   "noLabel": {
+    "en": "Article 59"
+   },
+   "text": {
+    "en": "Desertion. Any person subject to military law who deserts or attempts to desert the service of\nthe Philippine Army shall, if the offense be committed in time of war, suffer death or such other punishment\nas a court-martial may direct, and, if the offense be committed at any other time, any punishment, excepting\ndeath, that a court-martial may direct."
+   }
+  },
+  {
+   "id": "PH-H16125-A60",
+   "no": 60,
+   "noLabel": {
+    "en": "Article 60"
+   },
+   "text": {
+    "en": "Advising or aiding another to desert.-Any person subject to military law who advises or\npersuades or knowingly assists another to desert the service of the Philippine Army shall, if the offense be\ncommitted in the time of war, suffer death or such other punishment as a court-martial may direct, and, if the\noffense be committed at any other time, any punishment, excepting death, that a court-martial may direct."
+   }
+  },
+  {
+   "id": "PH-H16125-A61",
+   "no": 61,
+   "noLabel": {
+    "en": "Article 61"
+   },
+   "text": {
+    "en": "Entertaining a deserter.-Any officer who, after having discovered that a soldier in his command\nis a deserter from the military service retains such deserter in his command without informing superior\nauthority or the commander of the organization to which the deserter belongs, shall be punished as a\ncourt-martial may direct."
+   }
+  },
+  {
+   "id": "PH-H16125-A62",
+   "no": 62,
+   "noLabel": {
+    "en": "Article 62"
+   },
+   "text": {
+    "en": "Absence without leave.-Any person subject to military law who fails to repair at the fixed time\nto the properly appointed place of duty, or goes from the same without proper leave, or absents himself from\nhis command, guard, quarters, station, or camp without proper leave, shall be punished as a court-martial may\n\nC. DISRESPECT; INSUBORDINATION; MUTINY"
+   }
+  },
+  {
+   "id": "PH-H16125-A63",
+   "no": 63,
+   "noLabel": {
+    "en": "Article 63"
+   },
+   "text": {
+    "en": "Disrespect toward the President,Vice-President, National Assembly.-Any officer who/uses\ncontemptuous or i disrespectful words against the president, Vice-President' or the National Assembly, shall\nbe dismissed from the service or suffer such other punishment as a court-martial may direct. Any other person\nsubject to military law who so offends shall be punished as a court-martial m£y direct."
+   }
+  },
+  {
+   "id": "PH-H16125-A64",
+   "no": 64,
+   "noLabel": {
+    "en": "Article 64"
+   },
+   "text": {
+    "en": "Disrespect toward superior officer.-Any person subject to military law who behaves himself\nwith disrespect toward his superior officer shall be punished as a court-martial may direct."
+   }
+  },
+  {
+   "id": "PH-H16125-A65",
+   "no": 65,
+   "noLabel": {
+    "en": "Article 65"
+   },
+   "text": {
+    "en": "Assaulting or willfully disobeying superior officer.-Any person subject to military law who, on\nany pretense whatsoever, strikes his superior officer or draws or lifts up any weapon or offers any violence\nagainst him being in the execution of his office, or willfully disobeys any lawful command of his superior\nofficer, shall suffer death or such other punishment as a court-martial may direct."
+   }
+  },
+  {
+   "id": "PH-H16125-A66",
+   "no": 66,
+   "noLabel": {
+    "en": "Article 66"
+   },
+   "text": {
+    "en": "Insubordinate conduct toward non-commissioned officer.-Any soldier who strikes or assaults, or\nwho attempts or threatens to strike or assault or willfully disobeys the lawful order of a non-commissioned\nofficer while in the execution of his office, or uses threatening or insulting language, or behaves in an\ninsubordinate or disrespectful manner toward a non-commissioned officer while in the execution of his office,\nshall be punished as a court-martial may direct."
+   }
+  },
+  {
+   "id": "PH-H16125-A67",
+   "no": 67,
+   "noLabel": {
+    "en": "Article 67"
+   },
+   "text": {
+    "en": "Mutiny or sedition.-Any person subject to military law who attempts to create or who begins,\nexcites, causes, or joins in any mutiny or sedition in any company, party, post, camp, detachment, guard, or\nother command shall suffer death or such other punishment as a court-martial may direct."
+   }
+  },
+  {
+   "id": "PH-H16125-A68",
+   "no": 68,
+   "noLabel": {
+    "en": "Article 68"
+   },
+   "text": {
+    "en": "Failure to suppress mutiny or sedition.-Any officer or soldier, who being present at any mutiny\nor sedition, does not use his utmost endeavor to suppress the same, or, knowing or having reason to believe\nthat a mutiny or sedition is to take place, does not without delay give information thereof to his commanding\nofficer shall suffer death or such other punishment as a court-martial may direct."
+   }
+  },
+  {
+   "id": "PH-H16125-A69",
+   "no": 69,
+   "noLabel": {
+    "en": "Article 69"
+   },
+   "text": {
+    "en": "Quarrels; frays; disorders.-All officers, members of the Nurse Corps and non-commissioned\nofficers have ' power to part and quell all quarrels, frays, and disorders among persons subject to military law\nand to order officers who take part in the same into arrest, and other persons subject to military law who take\npart in the same into arrest or confinement, as circumstances may require, until their proper superior officer is\nacquainted therewith. And whosoever, being so ordered, refuses to obey such officer, member of the Nurse\nCorps or non-commissioned officer, or draws a weapon upon or otherwise threatens or does violence to him,\nshall be punished as a court-martial may direct.\nD. ARREST; CONFINEMENT"
+   }
+  },
+  {
+   "id": "PH-H16125-A70",
+   "no": 70,
+   "noLabel": {
+    "en": "Article 70"
+   },
+   "text": {
+    "en": "Arrest or confinement.-Any person subject to military law charged with crime or with a serious\noffense under these articles shall be placed in confinement or in arrest, as circumstances may require; but\nwhen charged with a minor offense only, such person shall not ordinarily be placed in confinement. Any\nperson placed in arrest under the provisions of this article shall thereby be restricted to his barracks, quarters,\nor tent, unless such limits shall be enlarged by proper authority. Any officer or cadet who breaks his arrest or\nwho escapes from confinement, whether before or after trial or sentence and before he is set at liberty by\nproper authority, shall be dismissed from the service or suffer such other punish-ment as a court-martial may\ndirect, and any other person subject to military law who escapes from confinement or who breaks his arrest,\nwhether before or after trial or sentence and before he is set at liberty by proper authority, shall be punished as\na court-martial may direct."
+   }
+  },
+  {
+   "id": "PH-H16125-A71",
+   "no": 71,
+   "noLabel": {
+    "en": "Article 71"
+   },
+   "text": {
+    "en": "Charges: action upon.-Charges and specifications must be signed by a person subject to military\nlaw, and under oath either that he has personal knowledge of, or has investigated, the matters set forth therein\nand that the same are true in fact, to the best of his knowledge and belief.\n\nNo charge will be referred for trial until after a thorough and impartial investigation thereof shall have been\nmade. This investigation will include inquiries as to the truth of the matter set forth in said charges, form of\ncharges, and what disposition of the case should be made in the interest of justice and discipline. At such\ninvestigation full opportunity shall be given to the accused to cross-examine witnesses against him if they are\navailable and to present anything he may desire in his own behalf, either in defense or mitigation, and the\ninvestigating officer shall examine available witnesses requested by the accused. If the charges are forwarded\nafter such investigation, they shall be accompanied by a statement of the substance of the testimony taken on\nBefore directing the trial of any charge by general court-martial the appointing authority will refer it to his\nstaff judge advocate for consideration and advice.\nWhen any person subject to military law is placed in arrest of confinement immediate steps will be taken to\ntry the person accused or to dismiss the charge and release him. Any officer who is responsible for\nunnecessary delay in investigating or carrying the case to a final conclusion shall be punished as a\ncourt-martial may direct. When a person is field for a trial by general court-martial, the commanding officer,\nwithin eight days after the accused is arrested or confined, if practicable, forward the charges to the officer\nexercising general court-martial jurisdiction and furnish the accused a copy of such charges. If the same be not\npracticable, he will report to superior authority the 'reasons for delay. The trial judge advocate will cause to be\nserved upon the accused a copy of the charges upon which trial is to be had, and a failure so to serve such\ncharges will be ground for a continuance unless the trial be had on the charges furnished the accused as herein\nbefore provided. In time of peace no person shall, against his objection, be brought to trial before a general\ncourt-martial within a period of five days subsequent to the service of charges upon him."
+   }
+  },
+  {
+   "id": "PH-H16125-A72",
+   "no": 72,
+   "noLabel": {
+    "en": "Article 72"
+   },
+   "text": {
+    "en": "Refusal to receive and keep prisoners.-No provost marshal or commander of a guard shall refuse\nto ' receive or keep any prisoner committed to his charge by an officer belonging to the Philippine Army\nprovided the officer committing shall, at the time, deliver an account in writing, signed by himself, of the\ncrime or offense, charged against the prisoner. Any officer or soldier so refusing shall be punished as a\ncourt-martial may direct."
+   }
+  },
+  {
+   "id": "PH-H16125-A73",
+   "no": 73,
+   "noLabel": {
+    "en": "Article 73"
+   },
+   "text": {
+    "en": "Report of prisoners received.-Every commander of a guard to whose charge a prisoner is\ncommitted ' shall, within twenty-four hours after such confinement, or as soon as he is relieved from his\nguard, report in writing to the commanding officer the name of such prisoner, the offense charged against him,\nand the name of the officer committing him; and if he fails to make such report, he shall be punished as a\ncourt-martial may direct."
+   }
+  },
+  {
+   "id": "PH-H16125-A74",
+   "no": 74,
+   "noLabel": {
+    "en": "Article 74"
+   },
+   "text": {
+    "en": "Releasing prisoner without proper authority.- Any person subject to military law, who, without\nproper authority, releases any prisoner duly committed to his charge, or who through neglect or design suffers\nany prisoner so committed to escape, shall be punished as a court-martial may direct."
+   }
+  },
+  {
+   "id": "PH-H16125-A75",
+   "no": 75,
+   "noLabel": {
+    "en": "Article 75"
+   },
+   "text": {
+    "en": "Delivery of offenders to civil authorities.-When any person subject to military law, except one\nwho is held 1 by the military authorities to answer, or who is awaiting trial or result of trial, or who is\nundergoing sentence for a crime or offense punishable under these articles, is accused of a crime or offense\ncommitted and punishable by law or by ordinance the commanding officer is required, except in time of war,\nupon application duly made, to use his utmost endeavor to deliver over such accused person to the civil\nauthorities, or to aid the officers of justice in apprehending and securing him, in order that he may be brought\nto trial. Any commanding officer who upon such application refuses or willfully neglects, except in time of\nwar, to deliver over such accused person to the civil authorities or to aid officer of justice in apprehending and\nsecuring him shall be dismissed from the service or suffer such other punishment as a court-martial may\nWhen, under the provisions of this article, delivery is made to the civil authorities of an offender undergoing\nsentence of a court-martial, such delivery, if followed by conviction, shall be held to interrupt the execution of\nthe sentence of the court-martial, and the offender shall be returned to military custody, after having answered\n\nto the civil authorities for his offense, for the completion of the said court-martial sentence.\nE. WAR OFFENSES"
+   }
+  },
+  {
+   "id": "PH-H16125-A76",
+   "no": 76,
+   "noLabel": {
+    "en": "Article 76"
+   },
+   "text": {
+    "en": "Misbehaviour before the enemy.-Any officer or soldier who, before the enemy, misbehaves\nhimself, rune away, or shamefully abandons or delivers up or by any misconduct, disobedience, or neglect\nendangers the safety of any fort, post, camp, guard, or other command which it is his duty to defend, or speaks\nwords inducing others to do the like, or casts away his arms or ammunition, or quits his post or colors to\nplunder or pillage, or by any means whatsoever occasions false alarms in camp, garrison, or quarters, shall\nsuffer death or such other punishment as a court-martial may direct."
+   }
+  },
+  {
+   "id": "PH-H16125-A77",
+   "no": 77,
+   "noLabel": {
+    "en": "Article 77"
+   },
+   "text": {
+    "en": "Subordinates compelling commander to surrender.-Any person subject to military law who\ncompels or attempts to compel any commander of any garrison, fort, post, camp, guard, or other command, to\ngive it up to the enemy or to abandon it shall be punishable with death or such other punishment as a\ncourt-martial may direct."
+   }
+  },
+  {
+   "id": "PH-H16125-A78",
+   "no": 78,
+   "noLabel": {
+    "en": "Article 78"
+   },
+   "text": {
+    "en": "Improper use of countersign- Any person subject to military law who makes known the parole\nor countersign to any person not entitled to receive it according to the rules and discipline of war, or gives a\nparole or countersign different from that which he received, shall, if the offense be committed in time of war,\nor serious disturbance of the peace, suffer death or such other punishment as a court-martial may direct."
+   }
+  },
+  {
+   "id": "PH-H16125-A79",
+   "no": 79,
+   "noLabel": {
+    "en": "Article 79"
+   },
+   "text": {
+    "en": "Forcing a safeguard.-Any person subject to the military law who, in time of war, or serious\ndisturbance of the peace, forces a safeguard shall suffer death or such other punishment as a court-martial may"
+   }
+  },
+  {
+   "id": "PH-H16125-A80",
+   "no": 80,
+   "noLabel": {
+    "en": "Article 80"
+   },
+   "text": {
+    "en": "Captured property to be secured for public service.-All public property taken from the enemy is\nthe property of the Government of the Commonwealth of the Philippines and shall be secured for the service\nthereof, and any person subject to military law who neglects to secure such property or is guilty of wrongful\nappropriation thereof shall be punished as a court-martial may direct."
+   }
+  },
+  {
+   "id": "PH-H16125-A81",
+   "no": 81,
+   "noLabel": {
+    "en": "Article 81"
+   },
+   "text": {
+    "en": "Dealing in captured or abandoned property.- Any person subject to military law who buys, sells,\ntrades, or in any way deals in or disposes of captured or abandoned property, whereby he shall receive or\nexpect any profit, benefit, or advantage to himself or to any other person directly or indirectly connected with\nhimself or who fails whenever such property comes into his possession or custody or within his control to give\nnotice thereof to the proper authority and to turn over such property to the proper authority without delay,\nshall, on conviction thereof, be punished by fine or imprisonment, or by such other punishment as a\ncourt-martial, military commission, or other military tribunal may adjudge, or by any or all of said penalties."
+   }
+  },
+  {
+   "id": "PH-H16125-A82",
+   "no": 82,
+   "noLabel": {
+    "en": "Article 82"
+   },
+   "text": {
+    "en": "Relieving, corresponding with, or aiding the enemy.-Whosoever relieves or attempts to relieve\nthe enemy with arms, ammunition, supplies, money, or other things, or knowingly harbors or protects or holds\ncorrespondence with or gives intelligence to the enemy, either directly or indirectly, shall suffer death or such\nother punishment as a court-martial or military commission may direct."
+   }
+  },
+  {
+   "id": "PH-H16125-A83",
+   "no": 83,
+   "noLabel": {
+    "en": "Article 83"
+   },
+   "text": {
+    "en": "Spies.-Any person who in time of war shall be found lurking or acting as a spy in or about an of\nthe fortifications, posts, quarters, or encampment of the Army of the Philippines or elsewhere shall be tried by\na general court-martial or by a military commission, and shall, on conviction thereof, suffer death.\nP. MISCELLANEOUS CRIMES AND OFFENSES"
+   }
+  },
+  {
+   "id": "PH-H16125-A84",
+   "no": 84,
+   "noLabel": {
+    "en": "Article 84"
+   },
+   "text": {
+    "en": "Military property-Willful or negligent loss, damage or wrongful disposition.-Any person subject\nto military law who willfully, or through neglect, suffers to be lost, spoiled, damaged, or wrongfully disposed\nof, any military property belonging to the Philippines shall make good the loss or damage and suffer such\npunishment as a court-martial may direct."
+   }
+  },
+  {
+   "id": "PH-H16125-A85",
+   "no": 85,
+   "noLabel": {
+    "en": "Article 85"
+   },
+   "text": {
+    "en": "Waste or unlawful disposition of military property issued to soldiers.-Any soldier who sells or\nwrongfully disposes of or willfully or through neglect injures or loses any horse, arms, ammunition,\naccouterments, equipment, clothing, or other property issued for use in the military service, shall be punished\n\nas a court-martial may direct."
+   }
+  },
+  {
+   "id": "PH-H16125-A86",
+   "no": 86,
+   "noLabel": {
+    "en": "Article 86"
+   },
+   "text": {
+    "en": "Drunk on duty.-Any officer who is found drunk on duty shall, if the offense be committed in\ntime of war, be dismissed from the service and suffer such other punishment as a court-martial may direct; and\nif the offense be committed in time of peace, he shall be punished as a court-martial may direct. Any person\nsubject to military law, except an officer who is found drunk on duty, shall be punished as a court-martial may"
+   }
+  },
+  {
+   "id": "PH-H16125-A87",
+   "no": 87,
+   "noLabel": {
+    "en": "Article 87"
+   },
+   "text": {
+    "en": "Misbeliaviour of sentinel.-Any sentinel who is found drunk or sleeping upon his post, or who\nleaves it before he is regularly relieved, shall, if the offense be committed in time of war, suffer death or such\nother punishment as a court-martial may direct; and if the offense be committed in time of peace, he shall\nsuffer any punishment, except death, that a court-martial may direct."
+   }
+  },
+  {
+   "id": "PH-H16125-A88",
+   "no": 88,
+   "noLabel": {
+    "en": "Article 88"
+   },
+   "text": {
+    "en": "Personal interest in sale of provisions.-Any officer commanding in any garrison, fort, barracks,\ncamp, or other place where troops of the Philippines may be serving who, for his private advantage, lays any\nduty or imposition upon or is interested, directly or indirectly, in the sale of any victuals or other necessaries\nof life brought into such garrison, fort, barracks, camp, or other place for the use of troops, shall be dismissed\nfrom the service and suffer such other punishment as a court-martial may direct."
+   }
+  },
+  {
+   "id": "PH-H16125-A89",
+   "no": 89,
+   "noLabel": {
+    "en": "Article 89"
+   },
+   "text": {
+    "en": "Intimidation of persons bringing provisions.- Any person subject to military law who abuses,\nintimidates, does violence to, or wrongfully interferes with any person bringing provisions, supplies, or other\nnecessaries to the camp, garrison, or quarters of the forces of the Philippines shall suffer such punishment as a\ncourt-martial may direct."
+   }
+  },
+  {
+   "id": "PH-H16125-A90",
+   "no": 90,
+   "noLabel": {
+    "en": "Article 90"
+   },
+   "text": {
+    "en": "Good order to be maintained and wrongs redressed.-All persons subject to military law are to\nbehave themselves orderly in quarters, garrison, camp and on the march; and any person subject to military\nlaw who commits any waste or spoiling, or willfully destroys any property whatsoever (unless by order of his\ncommanding officer) , or commits any kind of depredation or riot, shall be punished as a court-martial may\ndirect. Any commanding officer who, upon complaint made to him, refuses or omits to see reparation made to\nthe party injured, in so far as the offender's pay shall go toward such reparation as provided for in article 106,\nshall be dismissed from the .service, or otherwise punished as a court-martial may direct. es Article 91.\nProvoking speeches or gestures.-No person subject to military law shall use any reproachful or provoking\nspeeches or gestures to another and any person subject to military law who offends against the provisions of\nthis article shall be punished as a court-martial may direct."
+   }
+  },
+  {
+   "id": "PH-H16125-A92",
+   "no": 92,
+   "noLabel": {
+    "en": "Article 92"
+   },
+   "text": {
+    "en": "Dueling.-Any person subject to military law who fights or promotes or is concerned in or\nconnives at fighting a duel, or who, having knowledge of a challenge sent or about to be sent, fails to report\nthe fact promptly to the proper authority, shall, if an officer, be dismissed from the service or suffer such other\npunishment as a court-martial may direct; and if any other person subject to military law, shall suffer such\npunishment as a court-martial may direct."
+   }
+  },
+  {
+   "id": "PH-H16125-A93",
+   "no": 93,
+   "noLabel": {
+    "en": "Article 93"
+   },
+   "text": {
+    "en": "Murder.-Any person subject to military law who commits murder in time of war shall suffer\ndeath or imprisonment for life, as a court-martial may direct."
+   }
+  },
+  {
+   "id": "PH-H16125-A94",
+   "no": 94,
+   "noLabel": {
+    "en": "Article 94"
+   },
+   "text": {
+    "en": "Various crimes.-Any person subject to military law who commits any crime, breach of law or\nviolation of municipal ordinance, which is recognized as an offense of a penal nature and is punishable under\nthe penal laws of the Philippines or under municipal ordinances, on a Philippine Army reservation, shall be\npunished as a court-martial may direct; Provided, That officers and enlisted men of the Philippine\nConstabulary shall not be triable by courts-martial for any crime, breach of law or violation of municipal\nordinance committed under this article. In imposing the penalties for offenses falling within this article, the\npenalties for such offenses provided in the penal laws of the Philippines or in such municipal ordinances shall\nbe taken into consideration."
+   }
+  },
+  {
+   "id": "PH-H16125-A95",
+   "no": 95,
+   "noLabel": {
+    "en": "Article 95"
+   },
+   "text": {
+    "en": "Frauds against the Government affecting matters and equipments.-Any person subject to\nmilitary law who, having charge, possession, custody, or control of any money or other property of the\n\nCommonwealth of the Philippines, furnished or intended, for the military service thereof, knowingly delivers,\nor causes to be delivered, to any person having authority to receive the same, any\" amount thereof less than\nthat for which he receives a certificate or receipt; or\nWho, being authorized to make or deliver any paper . certifying the receipt of any property of the\nCommonwealth of the Philippines furnished or intended for the military service thereof, makes or .delivers to\nany person such writing, without having full knowledge of the truth of the statements therein contained and\nwith intent to defraud the Philippines; or\nWho steals, embezzles, knowingly and willfully misappropriates, applies to his own use or benefit, or\nwrongfully or knowingly sells or disposes of any ordnance, arms, equipments, ammunition, clothing,\nsubsistence stores, money, or , other property of the Commonwealth of the Philippines furnished or intended\nfor the military service thereof; or Who knowingly purchases or receives in pledge for any obligation or\nindebtedness from any soldier, officer or other person who is a part of or employed in said forces , or service,\nany ordnance, arms, equipment, ammunition, clothing subsistence stores, or other property of the\nCommonwealth of the Philippines, such soldier, officer, or other person not having lawful right to sell or\npledge the same; Shall, on conviction thereof, be punished by fine or imprisonment, or by such other\npunishment as a court-martial may adjudge, or by any or all of said penalties. And if any person, being guilty\nof any of the offenses aforesaid while in the military service of the Philippines, received his discharge or is\ndismissed from-the service, he shall continue to be liable to be arrested and held for trial and sentence by a\ncourt-martial in the same manner and to the same extent as if he had not received such discharge nor been\ndismissed. And if any officer, being guilty, while in the military service of the Philippines of embezzlement of\nration savings, post exchange, company, or other like funds, or of embezzlement of money or other property\nintrusted to his charge by an enlisted man or men, receives his discharge, or is dismissed, or is dropped from\nthe rolls, he shall continue to be liable to be arrested and held for trial and sentence' by a court-martial in the\nsame manner and to the same extent as if he had not been so discharged,-' dismissed, or dropped from the"
+   }
+  },
+  {
+   "id": "PH-H16125-A96",
+   "no": 96,
+   "noLabel": {
+    "en": "Article 96"
+   },
+   "text": {
+    "en": "Conduct unbecoming an officer and gentleman.- _ Any officer, member of the Nurse Corps,\ncadet, flying cadet, or probationary third lieutenant, who is convicted of conduct unbecoming an officer and a\ngentleman shall be dismissed from the service."
+   }
+  },
+  {
+   "id": "PH-H16125-A97",
+   "no": 97,
+   "noLabel": {
+    "en": "Article 97"
+   },
+   "text": {
+    "en": "General article.-Though not mentioned in these . articles, all disorders and neglects to the\nprejudice of good order and military discipline and all conduct of a nature to bring discredit upon the military\nservice shall be taken cognizance of by a general or special or summary court-martial according to the nature\nand degree of the offense, and punished at the discretion of such court.\nTITLE IV.-Courts of Inquiry"
+   }
+  },
+  {
+   "id": "PH-H16125-A98",
+   "no": 98,
+   "noLabel": {
+    "en": "Article 98"
+   },
+   "text": {
+    "en": "When and by whom ordered.-A court of inquiry to examine into the nature of any transaction of\nor ° accusation or imputation against any officer or soldier may be ordered by the President, the Chief of Staff\nor by any commanding officer; but a court of inquiry shall not be ordered by any commanding officer except\nupon the request of the officer or soldier whose conduct is to be inquired into."
+   }
+  },
+  {
+   "id": "PH-H16125-A99",
+   "no": 99,
+   "noLabel": {
+    "en": "Article 99"
+   },
+   "text": {
+    "en": "Composition.-A court of inquiry shall consist -of three or more officers. For each court of\ninquiry the authority appointing the court shall appoint a recorder."
+   }
+  },
+  {
+   "id": "PH-H16125-A100",
+   "no": 100,
+   "noLabel": {
+    "en": "Article 100"
+   },
+   "text": {
+    "en": "Challenges.-Members of a court of inquiry -may be challenged by the party whose conduct is\nto be inquired into, but only for cause stated to the court. The court shall determine the relevancy and validity\nof any challenge, and shall not receive a challenge to more than one member at a time. The party whose\nconduct is being inquired into shall have the right to be represented before the court by counsel of his own\nselection, if such counsel be reasonably available."
+   }
+  },
+  {
+   "id": "PH-H16125-A101",
+   "no": 101,
+   "noLabel": {
+    "en": "Article 101"
+   },
+   "text": {
+    "en": "Oath of members of recorders.-The recorder of a court of inquiry shall administer to the\nmembers the following oath: \"You, A. B., do swear (or affirm) that you will well and truly examine and\n\ninquire, according to the evidence, into the matter now before you without partiality, favor, affection,\nprejudice, or hope of reward. So help you God.\" After which the president of the court shall administer to the\nrecorder the following oath: \"You, A. B., do swear (or affirm) that you will according to your best abilities,\naccurately and impartially record the proceedings of the court and the evidence to be given in the case in\nhearing. So help you God.\"\nIn case of affirmation the closing sentence of adjuration will be omitted."
+   }
+  },
+  {
+   "id": "PH-H16125-A102",
+   "no": 102,
+   "noLabel": {
+    "en": "Article 102"
+   },
+   "text": {
+    "en": "Powers; procedure.-A court of inquiry and the recorder thereof shall have the same power to\nsummon and examine witnesses as is given to courts-martial and the trial judge advocate thereof. Such\nwitnesses shall take the same oath or affirmation that is taken by witnesses before courts-martial. A reporter or\nan interpreter for a court of inquiry shall, before entering upon his duties, take the oath or affirmation required\nof a reporter or an interpreter for a court-martial. The party whose conduct is being inquired into or his\ncounsel, if any, shall be permitted to examine and cross-examine witnesses so as fully to investigate the\ncircumstances in question."
+   }
+  },
+  {
+   "id": "PH-H16125-A103",
+   "no": 103,
+   "noLabel": {
+    "en": "Article 103"
+   },
+   "text": {
+    "en": "Opinion of merits of case.-A court of inquiry shall not give an opinion on the merits of the case\ninquired into unless specially ordered to do so."
+   }
+  },
+  {
+   "id": "PH-H16125-A104",
+   "no": 104,
+   "noLabel": {
+    "en": "Article 104"
+   },
+   "text": {
+    "en": "Record of proceedings -How authenticated.- Each court of inquiry shall keep a record of its\nproceedings, which shall be authenticated by the signature of the President and the recorder thereof, and be\nforwarded to the convening authority. In case the record cannot be authenticated by the recorder, by reason of\nhis death, disability, or absence, it shall be signed by the President and by one other member of the court.\nTITLE V.-Miscellaneous Provisions"
+   }
+  },
+  {
+   "id": "PH-H16125-A105",
+   "no": 105,
+   "noLabel": {
+    "en": "Article 105"
+   },
+   "text": {
+    "en": "Disciplinary powers of commanding officers.- Under such regulations as the President may\nprescribe, the commanding office of any detachment, company, or. higher command may, 'for minor offenses,\nimpose disciplinary punishments upon persons of his command without the intervention of a court-martial,\nunless the accused demands trial by court-martial.\nThe disciplinary punishments authorized by this article may include admonition, reprimand, withholding of\nprivileges for not exceeding oneweek, extra fatigue for not exceeding one week, restriction to certain specified\nlimits for not exceeding one week, but shall not include forfeiture of pay or confinement under guard; except\nthat in time of war or grave public emergency a commanding officer of the grade of brigadier .general or of\nhigher grade may, under the provisions of his article, also impose upon an officer of his command be the\ngrade of a major a forfeiture of not more than one half of such officer's monthly pay for one month.\nA person punished under authority of this article who deems his punishment unjust or disproportionate to the\noffense, may, through the proper channel, appeal of the next superior authority, but may in the meantime be\nrequired to undergo the punishment adjudged. The commanding officer who Imposes the punishment, his\nsuccessor in command and superior authority shall have power to mitigate or remit any unexecuted portion of\nthe punishment. The imposition and enforcement of disciplinary punishment under authority of this article for\nany act or omission shall not be a bar to trial by court-martial for a crime or offense growing out of the same\nact or omission; but the fact that a disciplinary punishment has been enforced may be shown by the accused\nupon trials and when so shown shall be considered in determining the measure of punishment to be adjudged\nin the event of a finding of guilty."
+   }
+  },
+  {
+   "id": "PH-H16125-A106",
+   "no": 106,
+   "noLabel": {
+    "en": "Article 106"
+   },
+   "text": {
+    "en": "Injuries to property-Redress of.--Whenever complaint is made to any commanding officer that\ndamage has been done to the property of any person or that his property has been wrongfully taken by persons\nsubject to military law, such complaint shall be investigated by a board consisting of any number of officers\nfrom one to three, which board shall be convened by the commanding officer and shall have, for the purpose\nof such investigation, power to summon witnesses and examine them upon oath or affirmation, to receive\ndepositions or other documentary evidence, and to assess the damages sustained against the responsible\nparties. The assessment of damages made by such board shall be subject to the approval of the commanding\n\nofficer, and in amount approved by him shall be stopped against the pay of the offenders. And the order of\nsuch commanding officer directing stoppages herein authorized shall be conclusive on any disbursing officer\nfor the payment by him to the injured parties of the stoppages so ordered.\nWhen the offenders cannot be ascertained, but the organization or detachment to which they belong is known,\nstoppages to the amount of damages inflicted may be made and assessed in such proportion as may be deemed\njust upon the individual members thereof who are shown to have been present with such organization or\ndetachment at the time the damages complained of were inflicted as determined by the approved findings of"
+   }
+  },
+  {
+   "id": "PH-H16125-A107",
+   "no": 107,
+   "noLabel": {
+    "en": "Article 107"
+   },
+   "text": {
+    "en": "Arrest of deserters by civil officials.-It shall be lawful for any civil officer having. authority\nunder the lawns of the Philippines to arrest, offender summarily to arrest a deserter from the military service\nof the Philippines and deliver him into the custody of the military authorities."
+   }
+  },
+  {
+   "id": "PH-H16125-A108",
+   "no": 108,
+   "noLabel": {
+    "en": "Article 108"
+   },
+   "text": {
+    "en": "Soldiers to make good time lost.-Every soldier or trainee who in an existing or subsequent\nenlistment or training period deserts the service of the Philippines Army or without proper authority absents\nhimself from his organization, station, or duty for more than one day, or who is confined for more than one\nday under sentence! or while awaiting trial and disposition of his case, if the trial results in conviction, or\nthrough the intemperate use of drugs or alcoholic liquor, or through disease or injury the result of his own\nmisconduct, renders himself unable for more than one day to perform duty, shall be liable to serve, after his\nreturn to a full-duty status, for such period as shall, with the time he may have served prior to such desertion,\nunauthorized absence, confinement or inability to perform duty, amount to the full term of that part of his\nenlistment or training period which he is required to serve with his organization before being furloughed to the\nArmy reserve."
+   }
+  },
+  {
+   "id": "PH-H16125-A109",
+   "no": 109,
+   "noLabel": {
+    "en": "Article 109"
+   },
+   "text": {
+    "en": "Soldiers- Separation from the service.-No enlisted man, lawfully inducted into the military\nservice of the Philippines shall be discharged from said service without a certificate of discharge, signed by a\nfield officer of the regiment or other organization to which theenlisted man belongs or by the commanding\nofficer when no such field officer is present; and no enlisted man shall be discharged from said service before\nhis term of service has expired, except by order of the President, the Chief of Staff, or byj sentence of a\ngeneral court-martial."
+   }
+  },
+  {
+   "id": "PH-H16125-A110",
+   "no": 110,
+   "noLabel": {
+    "en": "Article 110"
+   },
+   "text": {
+    "en": "Oath of enlistment.-At the time of his enlistment every soldier shall take the following oath or\naffirmation: \"I........................................................... do solemnly swear (or affirm) that I will bear true faith\nand allegiance to the Commonwealth of the Philippines; that I will serve it honestly and faithfully against all\nits enemies whomsoever; that I will support and defend the Constitution of the Philippines ; that I will obey\nthe orders of the President of the Philippines and the orders of the officers appointed over me, according to the\nrules and articles of war; and I hereby declare that I recognize and accept the supreme authority of the United\nStates of America in the Philippines, and will maintain true faith and allegiance thereto; and that I impose this\nobligation upon myself voluntarily, without mental reservation or purpose of evasion. So HELP ME God.\"\nThis oath or affirmation may be taken before any officer."
+   }
+  },
+  {
+   "id": "PH-H16125-A111",
+   "no": 111,
+   "noLabel": {
+    "en": "Article 111"
+   },
+   "text": {
+    "en": "Certain articles to be read and explained.- Articles 1, 2 and 28, 54 to 97, inclusive, and 105 to\n110, inclusive, shall be read and explained to every soldier at the time of his enlistment or muster in, or within\nsix days thereafter, and shall be read and explained once every six months to the soldiers of every garrison,\nregiment, or company in the service of the Philippines."
+   }
+  },
+  {
+   "id": "PH-H16125-A112",
+   "no": 112,
+   "noLabel": {
+    "en": "Article 112"
+   },
+   "text": {
+    "en": "Copy of record of trial.-Every person tried by a general court-martial shall, on demand\ntherefor, made by himself or by any person in his behalf, be entitled to a copy of the record of the trial."
+   }
+  },
+  {
+   "id": "PH-H16125-A113",
+   "no": 113,
+   "noLabel": {
+    "en": "Article 113"
+   },
+   "text": {
+    "en": "Inquests.-When at any post, fort, camp, or other place garrisoned by the military forces of the\nPhilippines any person shall have been found dead under circumstances which appear to require investigation,\nthe commanding officer will designate and direct a summary court-martial to investigate the circumstances\nattending the death; and, for this purpose, such summary court-martial shall have power to summon witnesses\n\nand examine them upon oath or affirmation. He shall promptly transmit to the post or other commander a\nreport of his investigation and of his findings as to the cause of the death."
+   }
+  },
+  {
+   "id": "PH-H16125-A114",
+   "no": 114,
+   "noLabel": {
+    "en": "Article 114"
+   },
+   "text": {
+    "en": "Authority to administer oaths.-Any judge advocate or acting judge advocate, the president of a\ngeneral or special courts-martial, any summary courts-martial, the trial judge advocate or any assistant trial\njudge advocate of a general or special court-martial, the president or the recorder of a court of inquiry or of a\nmilitary board, any officer designated to take a deposition, any officer detailed to conduct an investigation,\nand the adjutant of any command shall have power to administer oaths for the purposes of the administration\nof military justice and for other purposes of military administration."
+   }
+  },
+  {
+   "id": "PH-H16125-A115",
+   "no": 115,
+   "noLabel": {
+    "en": "Article 115"
+   },
+   "text": {
+    "en": "Appointment of reporters and interpreters.- Under such regulations as the President of the\nPhilippines may from time to time prescribe, the president of a court-martial or military commission or a court\nof inquiry shall have power to appoint a reporter, who shall record the proceedings of and testimony taken\nbefore such court or commission and may set down the same, in the first instance, in shorthand. Under like\nregulations the president of a court-martial or military commission, or court of inquiry, or a summary court,\nmay appoint an interpreter, who shall interpret for the court or commission."
+   }
+  },
+  {
+   "id": "PH-H16125-A116",
+   "no": 116,
+   "noLabel": {
+    "en": "Article 116"
+   },
+   "text": {
+    "en": "Powers of assistant trial judge advocate and of assistant defense counsel.-An assistant trial\njudge advocate of a general court-martial shall be competent to perform any duty devolved by law, regulation,\nor the custom of the service upon the trial judge advocate of the court. An assistant defense counsel shall be\ncompetent likewise to perform any duty devolved by law, regulation, or the custom of the service upon\ncounsel for the accused."
+   }
+  },
+  {
+   "id": "PH-H16125-A117",
+   "no": 117,
+   "noLabel": {
+    "en": "Article 117"
+   },
+   "text": {
+    "en": "Officers, separation from service.-No officer shall be discharged or dismissed from the service\nexcept by order of the President or by sentence of a general court-martial; and in time of peace no officer shall\nbe dismissed except in pursuance of the sentence of a general court-martial or in mitigation thereof; but the\nPresident may at any time drop from the rolls of the Army any officer who has been absent from duty three\nmonths without leave or who has been absent in confinement in a prison or penitentiary for three months after\nfinal conviction by a court of competent jurisdiction."
+   }
+  },
+  {
+   "id": "PH-H16125-A118",
+   "no": 118,
+   "noLabel": {
+    "en": "Article 118"
+   },
+   "text": {
+    "en": "Rank and precedence among regulars and reserves.-In time of war or public danger, when two\nor more officers of the same grade are on duty in the same field, or command, or of organizations thereof, the\nPresident may assign the command of the forces of such field, or command, or of any organization thereof,\nwithout regard to seniority of rank in the same grade."
+   }
+  },
+  {
+   "id": "PH-H16125-A119",
+   "no": 119,
+   "noLabel": {
+    "en": "Article 119"
+   },
+   "text": {
+    "en": "Command when different corps or commands happen to join.-When different corps or\ncommands of the military forces of the Philippines happen to join or do duty together, the officer highest in\nrank of the line of the Regular Army,\" or Reserve Force shall, subject to the provisions of the last preceding\narticle, command the whole and give orders for what is needful in the service, unless otherwise directed by the"
+   }
+  },
+  {
+   "id": "PH-H16125-A120",
+   "no": 120,
+   "noLabel": {
+    "en": "Article 120"
+   },
+   "text": {
+    "en": "Complaints of wrongs.-Any officer or soldier who believes himself wronged by his\ncommanding officer, ;and, upon due application to such commander, is refused redress, may complain to the\nDistrict Commander or general commanding in the locality where the officer against whom the complaint is\nmade is stationed. The general shall examine into said complaint and take proper measures for redressing the\nwrong complained of; and he shall as soon as possible, transmit to Army Headquarters a true statement of said\ncomplaint, with the proceedings had thereof."
+   }
+  }
+ ]
+}

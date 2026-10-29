@@ -1,0 +1,1076 @@
+{
+ "id": "ID-H977",
+ "title": {
+  "zh": "药品与医疗器械安全法",
+  "en": "Law on the Security of Pharmaceutical Preparations and Medical Devices",
+  "id": "PENGAMANAN SEDIAAN FARMASI DAN ALAT KESEHATAN",
+  "orig": "PENGAMANAN SEDIAAN FARMASI DAN ALAT KESEHATAN",
+  "vi": "Luật về An ninh Dược phẩm và Trang thiết bị Y tế",
+  "th": "พระราชบัญญัติว่าด้วยความมั่นคงของยาและเครื่องมือแพทย์",
+  "ms": "Akta tentang Keselamatan Persediaan Farmasi dan Alat Perubatan"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02a",
+ "language": "id",
+ "level": "law",
+ "category": "04_劳工与行政法",
+ "status": "active",
+ "promulgatedDate": "1998",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU72-1998",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 73,
+ "chars": 59103,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=pp0721998.pdf&fl=P04129"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\04_劳工与行政法\\印尼_文本_1998_PENGAMANAN SEDIAAN FARMASI DAN ALAT KESEHATAN.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 83 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H977-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\nDalam Peraturan Pemerintah ini yang dimaksud dengan :\n1. Sediaan farmasi adalah obat, bahan obat, obat tradisional dan\nkosmetika.\n2. Alat kesehatan adalah bahan, instrumen, aparatus, mesin, implan\nyang tidak mengandung obat yang dig unakan untuk mencegah,\nmendiagnosa, menyembuhkan dan meringankan penyakit, merawat\norang sakit serta memulihkan kesehatan pada manusia dan/atau\nmembentuk struktur dan memperbaiki fungsi tubuh.\n3. Produksi adalah kegiatan atau proses menghasilkan, menyiapka n,\nmengolah, membuat, mengemas, dan/atau mengubah bentuk sediaan\nfarmasi dan alat kesehatan.\n4. Peredaran adalah setiap kegiatan atau serangkaian kegiatan\npenyaluran atau penyerahan sediaan farmasi dan alat kesehatan baik\ndalam rangka perdagangan, bukan pe rdagangan, atau\npemindahtanganan;\n5. Pengangkutan adalah setiap kegiatan atau serangkaian kegiatan\ndalam rangka memindahkan sediaan farmasi dan alat kesehatan dari\nsatu tempat ke tempat lain, dengan cara atau moda atau sarana\nangkutan apapun dalam rangka p roduksi, peredaran, dan/atau\nperdagangan sediaan farmasi dan alat kesehatan.\nPRESIDEN\nREPUBLIK INDONESIA\n6. Kemasan …\n6. Kemasan sediaan farmasi dan alat kesehatan adalah bahan yang\ndigunakan untuk mewadahi dan/atau membungkus sediaan farmasi\ndan alat kesehatan baik yang bersentuhan langsung maupun tidak.\n7. Menteri adalah Menteri yang bertanggung jawab di bidang\nkesehatan.\nBAB II\nPERSYARATAN MUTU, KEAMANAN DAN KEMANFAATAN"
+   }
+  },
+  {
+   "id": "ID-H977-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\n(1) Sediaan farmasi dan alat kesehatan yang diproduksi dan/atau\ndiedarkan har us memenuhi persyaratan mutu, keamanan, dan\nkemanfaatan.\n(2) Persyaratan mutu, keamanan, dan kemanfaatan sebagaimana\ndimaksud dalam ayat (1) untuk :\na. sediaan farmasi yang berupa bahan obat dan obat sesuai dengan\npersyaratan dalam buku Farmakope atau bu ku standar lainnya\nyang ditetapkan oleh Menteri;\nb. sediaan farmasi yang berupa obat tradisional sesuai dengan\npersyaratan dalam buku Materia Medika Indonesia yang\nditetapkan oleh Menteri;\nc. sediaan farmasi yang berupa kosmetika sesuai dengan\npersyaratan dalam buku Kodeks Kosmetika Indonesia yang\nditetapkan oleh Menteri;\nd. alat kesehatan sesuai dengan persyaratan yang ditetapkan oleh\nMenteri.\nBAB III …\nPRESIDEN\nREPUBLIK INDONESIA\nBAB III\nPRODUKSI"
+   }
+  },
+  {
+   "id": "ID-H977-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\nSediaan farmasi dan alat kesehatan hanya dapat diproduksi oleh badan\nusaha yang telah memiliki izin usaha industri sesuai dengan ketentuan\nperaturan perundang-undangan yang berlaku."
+   }
+  },
+  {
+   "id": "ID-H977-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\n(1) Ketentuan sebagaimana dimaksud dalam Pasal 3 tidak berlaku b agi\nsediaan farmasi yang berupa obat tradisional yang diproduksi oleh\nperorangan.\n(2) Ketentuan lebih lanjut mengenai produksi sediaan farmasi yang\nberupa obat tradisional oleh perorangan diatur oleh Menteri."
+   }
+  },
+  {
+   "id": "ID-H977-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\n(1) Produksi sediaan farmasi dan alat kesehatan harus dilakukan dengan\ncara produksi yang baik.\n(2) Cara produksi yang baik sebagaimana dimaksud dalam ayat (1)\nditetapkan oleh Menteri.\nBAB IV\nPEREDARAN\nBagian Pertama Umum"
+   }
+  },
+  {
+   "id": "ID-H977-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama Umum"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\nPeredaran sediaan farmasi dan alat kesehatan terdiri dari penyal uran dan\npenyerahan.\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H977-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7 …"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama Umum"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 7\nPeredaran sediaan farmasi dan alat kesehatan dilaksanakan dengan\nmemperhatikan upaya pemeliharaan mutu sediaan farmasi dan alat\nkesehatan."
+   }
+  },
+  {
+   "id": "ID-H977-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama Umum"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n(1) Setiap pengangkutan sediaan farmasi dan alat kesehatan dalam\nrangka peredaran harus disertai dengan dokumen pengangkutan\nsediaan farmasi dan alat kesehatan.\n(2) Setiap pengangkut sediaan farmasi dan alat kesehatan dalam rangka\nperedaran, bertanggung jawab atas ke lengkapan dokumen\npengangkutan sediaan farmasi dan alat kesehatan.\nBagian Kedua\nIzin Edar"
+   }
+  },
+  {
+   "id": "ID-H977-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n(1) Sediaan farmasi dan alat kesehatan hanya dapat diedarkan setelah\nmemperoleh izin edar dari Menteri.\n(2) Dikecualikan dari ketentuan sebagaimana dimaksud d alam ayat (1)\nbagi sediaan farmasi yang berupa obat tradisional yang diproduksi\noleh perorangan."
+   }
+  },
+  {
+   "id": "ID-H977-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\n(1) Izin edar sediaan farmasi dan alat kesehatan diberikan atas dasar\npermohonan secara tertulis kepada Menteri;\n(2) Permohonan ...\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Permohonan secara tertulis sebagaimana dimaksud dalam ayat (1)\ndisertai dengan keterangan dan/atau data mengenai sediaan farmasi\ndan alat kesehatan yang dimohonkan untuk memperoleh izin edar\nserta contoh sediaan farmasi dan alat kesehatan.\n(3) Ketentuan lebih lanjut mengenai tata cara permohonan izin edar\nsebagaimana dimaksud dalam ayat (1) dan ayat (2) diatur oleh\nMenteri."
+   }
+  },
+  {
+   "id": "ID-H977-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\nSediaan farmasi dan alat kesehatan yang dimohonkan untuk memperoleh\nizin edar diuji dari segi mutu, keamanan, dan kemanfaatan.\nBagian Ketiga\nPengujian Sediaan Farmasi dan Alat Kesehatan\npasal 12\n(1) Pengujian sediaan farmasi dan alat kesehatan dilaksanakan melalui :\na. pengujian laboratoris berkenaan dengan mutu sediaan farmasi\ndan alat kesehatan.\nb. penilaian atas keamanan dan kemanfa atan sediaan farmasi dan\nalat kesehatan.\n(2) Tata cara pengujian sediaan farmasi dan alat kesehatan sebagaimana\ndimaksud dalam ayat (1) ditetapkan oleh Menteri."
+   }
+  },
+  {
+   "id": "ID-H977-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\n(1) Sediaan farmasi dan alat kesehatan yang lulus dalam pengujian\ndiberikan izin edar.\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Izin ...\n(2) Izin edar sebagaimana dimaksud dalam ayat (1) diberikan dalam\nbentuk persetujuan pendaftaran.\n(3) Sediaan farmasi dan alat kesehatan yang tidak lulus dalam pengujian\ndiberikan surat keterangan yang menyatakan sediaan dan alat\nkesehatan yang bersangkutan tidak memenuhi persyaratan untuk\ndiedarkan.\n(4) Ketentuan lebih lanjut mengenai izin edar dan surat keterangan\nsebagaimana dimaksud dalam a yat (1), ayat (2), dan ayat (3) diatur\noleh Menteri."
+   }
+  },
+  {
+   "id": "ID-H977-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\n(1) Menteri menjaga kerahasiaan keterangan dan/atau data sediaan\nfarmasi dan alat kesehatan yang disampaikan serta hasil pengujian\nsediaan farmasi dan alat kesehatan.\n(2) Pelaksanaan ketentuan sebagaimana dimaksud dalam ayat (1) diatur\nlebih lanjut oleh Menteri dengan memperhatikan ketentuan peraturan\nperundang-undangan yang berlaku.\nBagian Keempat\nPenyaluran"
+   }
+  },
+  {
+   "id": "ID-H977-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\n(1) Penyaluran sediaan farmasi dan alat kesehatan hanya dapat dilakukan\noleh :\nPRESIDEN\nREPUBLIK INDONESIA\na. badan ...\na. badan usaha yang telah memiliki izin sebagai penyalur sesuai\ndengan ketentuan peraturan perundang -undangan yang berlaku\nuntuk menyalurkan sediaan farmasi yang berupa bahan obat, obat\ndan alat kesehatan.\nb. badan usaha yang telah memiliki izin sebagai penyalur sesuai\ndengan ketentuan peraturan perundang -undangan yang berlaku\nuntuk menyalurkan sediaan farmasi yang berupa obat tradisional\ndan obat kosmetika.\n(2) Ketentuan sebagaiman dimaksud dalam ayat (1) dike cualikan bagi\nperorangan untuk menyalurkan sediaan farmasi yang berupa obat\ntradisional dan kosmetika dengan jumlah komoditi yang terbatas\ndan/atau diperdagangkan secara langsung kepada masyarakat.\n(3) Ketentuan lebih lanjut mengenai tata cara penyaluran sediaan farmasi\ndan alat kesehatan sebagaimana dimaksud dalam ayat (1) dan ayat\n(2) diatur oleh Menteri.\nBagian Kelima\nPenyerahan"
+   }
+  },
+  {
+   "id": "ID-H977-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\n(1) Penyerahan sediaan farmasi dan alat kesehatan dilakukan un tuk\ndigunakan dalam pelayanan kesehatan atau kepentingan ilmu\npengetahuan.\n(2) penyerahan sediaan farmasi dan alat kesehatan untuk digunakan\ndalam pelayanan kesehatan dilakukan berdasarkan:\na. resep dokter;\nb. tanpa resep dokter.\nPRESIDEN\nREPUBLIK INDONESIA\n(3) ketentuan ...\n(3) ketentuan lebih lanjut mengenai penyerahan sediaan farmasi dan alat\nkesehatan sebagaimana dimaksud dalam ayat (1) dan ayat (2) diatur\noleh Menteri.\nBAB V\nPEMASUKAN DAN PENGELUARAN SEDIAAN FARMASI DAN ALAT\nKESEHATAN\nKE DALAM DAN DARI WILAYAH INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H977-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\nSediaan farmasi dan alat kesehatan yang dimasukkan ke dalam dan\ndikeluarkan dari wilayah Indonesia untuk diedarkan harus memenuhi\npersyaratan mutu, keamanan, dan kemanfaatan."
+   }
+  },
+  {
+   "id": "ID-H977-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\n(1) Pemasukan dan pengeluaran sediaan farmasi dan alat kesehatan ke\ndalam dan dari wilayah Indonesia hanya dapat dilakukan oleh badan\nusaha yang telah memiliki izin sebagai importir dan/atau eksportir\nsesuai dengan ketentuan peraturan perundang -undangan yang\nberlaku.\n(2) Selain izin sebagai importir dan/atau eksportir, badan usaha\nsebagaimana dimaksud dalam ayat (1) harus memiliki izin Menteri\nsesuai dengan ketentuan peraturan perundang -undangan yang\nberlaku untuk memasukkan dan mengeluarkan sediaan farmasi yan g\nberupa bahan obat dan obat ke dalam dan dari wilayah Indonesia."
+   }
+  },
+  {
+   "id": "ID-H977-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19 …"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 19\n(1) Selain yang ditentukan dalam ketentuan sebagaimana dimaksud\ndalam Pasal 18, lembaga penelitian dan/atau lembaga pendidikan\ndapat memasukkan sediaan farmasi dan al at kesehatan ke dalam\nwilayah Indonesia untuk kepentingan ilmu pengetahuan.\n(2) Lembaga penelitian dan/atau lembaga pendidikan sebagaimana\ndimaksud dalam ayat (1) dilarang untuk mengedarkan sediaan\nfarmasi dan alat kesehatan yang dimasukkan ke dalam wilaya h\nIndonesia."
+   }
+  },
+  {
+   "id": "ID-H977-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\n(1) Sediaan farmasi dan alat kesehatan yang dimasukkan dan di\nkeluarkan ke dalam dan dari wilayah Indonesia untuk diedarkan\nharus dilengkapi dengan dokumen yang menyatakan sediaan farmasi\ndan alat kesehatan yang bersangkutan telah l ulus dalam pengujian\ndari segi mutu, keamanan, dan kemanfaatan dari Instansi yang\nberwenang di negara asal atau Menteri.\n(2) Kelengkapan dokumen hasil pengujian sebagaimana dimaksud dalam\nayat (1) menjadi tanggung jawab importir dan/atau eksportir sediaan\nfarmasi dan alat kesehatan."
+   }
+  },
+  {
+   "id": "ID-H977-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\nSetiap pengangkutan dalam rangka pemasukan dan pengeluaran sediaan\nfarmasi dan alat kesehatan ke dalam dan dari wilayah Indonesia\ndilaksanakan dengan memperhatikan upaya pemeliharaan mutu sediaan\nfarmasi dan alat kesehatan.\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H977-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22 …"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 22\n(1) Sediaan farmasi dan alat kesehatan yang dimasukkan ke dalam\nwilayah Indonesia untuk diedarkan harus memiliki izin edar dari\nMenteri.\n(2) Tata cara memperoleh izin edar bagi sediaan farmasi dan alat\nkesehatan yang dimasukkan ke dalam wilayah Indonesia,\ndilaksanakan sesuai dengan ketentuan mengenai izin edar sediaan\nfarmasi dan alat kesehatan."
+   }
+  },
+  {
+   "id": "ID-H977-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\n(1) Terhadap sediaan farmasi yang beru pa obat yang sangat dibutuhkan\ndalam pelayanan kesehatan serta belum diproduksi di Indonesia,\ndapat dilakukan pemasukan ke dalam wilayah Indonesia selain oleh\nimportir sebagaimana dimaksud dalam Pasal 18.\n(2) Pemasukan sediaan farmasi yang berupa obat sebagaimana dimaksud\ndalam ayat (1) hanya dapat dilakukan untuk:\na. keadaan darurat;\nb. atas pertimbangan dari tenaga kesehatan yang berwenang dalam\npemberian pelayanan kesehatan;\nc. jumlahnya terbatas sesuai dengan yang dibutuhkan dalam\npemberian pelayanan kesehatan.\n(3) Pemasukan sediaan farmasi yang berupa obat sebagaimana dimaksud\ndalam ayat (1) dan ayat (2) dilaksanakan dengan memperhatikan\npersyaratan mutu, keamanan, dan kemanfaatan.\nPRESIDEN\nREPUBLIK INDONESIA\n(4) Pelaksanaan ...\n(4) Pelaksanaan ketentuan sebagaimana dimaksud dalam ayat (1), ayat\n(2), dan ayat (3) diatur lebih lanjut oleh Menteri.\nBAB VI\nKEMASAN SEDIAAN FARMASI DAN ALAT KESEHATAN"
+   }
+  },
+  {
+   "id": "ID-H977-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 24\n(1) Pengemasan sediaan farmasi dan alat kesehatan dilaksanakan dengan\nmenggunakan bahan kemasan yang tidak membahayakan kesehatan\nmanusia dan/atau dapat mempengaruhi berubahnya persyaratan\nmutu, keamanan, dan kemanfaatan sediaan farmasi dan alat\nkesehatan.\n(2) Ketentuan lebih lanjut mengenai pengemasan sediaan farmasi dan\nalat keseh atan sebagaimana dimaksud dalam ayat (1) diatur oleh\nMenteri."
+   }
+  },
+  {
+   "id": "ID-H977-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\n(1) Sediaan farmasi dan alat kesehatan yang mengalami kerusakan\nkemasan yang langsung bersentuhan dengan produk sediaan farmasi\ndan alat kesehatan, dilarang untuk diedarkan.\n(2) Sediaan farmasi dan alat kesehatan sebagaimana dimaksud dalam\nayat (1) dimusnahkan sesuai dengan ketentuan mengenai\npemusnahan sediaan farmasi dan alat kesehatan.\nPRESIDEN\nREPUBLIK INDONESIA\nBAB VII …\nBAB VII\nPENANDAAN DAN IKLAN\nBagian Pertama\nPenandaan dan Informasi"
+   }
+  },
+  {
+   "id": "ID-H977-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\n(1) penandaan dan informasi sediaan farmasi dan alat kesehatan\ndilaksanakan untuk melindungi masyarakat dari informasi sedian dan\nalat kesehatan yang tidak obyektif, tidak lengkap serta menyesatkan.\n(2) Penandaan dan informasi sediaan farmasi dan alat kesehata n dapat\nberbentuk gambar, warna, tulisan atau kombinasi antara atau\nketiganya atau bentuk lainnya yang disertakan pada kemasan atau\ndimasukkan dalam kemasan, atau merupakan bagian dari wadah\ndan/atau kemasannya."
+   }
+  },
+  {
+   "id": "ID-H977-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\nBadan usaha yang mengedarkan sedi aan farmasi dan alat kesehatan\nharus mencantumkan penandaan dan informasi sediaan farmasi dan alat\nkesehatan."
+   }
+  },
+  {
+   "id": "ID-H977-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\n(1) Penandaan dan informasi sediaan farmasi dan alat kesehatan yang\nharus dicantumkan sebagaimana dimaksud dalam Pasal 27 harus\nmemenuhi persyaratan berbentuk tulisan yang berisi keterangan\nmengenai sediaan farmasi dan alat kesehatan secara obyektif,\nPRESIDEN\nREPUBLIK INDONESIA\nlengkap serta tidak menyesatkan.\n(2) keterangan ...\n(2) keterangan sebagaimana dimaksud dalam ayat (1)\nsekurang-kurangnya berisi:\na. nama produk dan/atau merek dagang;\nb. nama badan usaha yang memproduksi atau memasukkan sediaan\nfarmasi dan alat kesehatan ke dalam wilayah Indonesia;\nc. komponen pokok sediaan farmasi dan alat kesehatan;\nd. tata cara penggunaan;\ne. tanda peringatan atau efek samping;\nf. batas waktu kedaluwarsa untuk sediaan farmasi tertentu.\n(3) Ketentuan lebih lanjut mengenai penandaan dan informasi yang\nharus dicantumkan sebagaimana dimaksud dalam ayat (1) dan ayat\n(2) diatur oleh Menteri."
+   }
+  },
+  {
+   "id": "ID-H977-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\nKeterangan tambahan yang dicantumkan selain yang ditentukan dalam\nketentuan sebagaimana dimaksud dalam Pasal 28, hanya dapat\ndilakukan apabila keterangan tambahan yang dicantumkan sesuai\ndengan keterangan yang ada dalam izin edar sediaan farmasi dan al at\nkesehatan."
+   }
+  },
+  {
+   "id": "ID-H977-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\n(1) Ketentuan mengenai penandaan dan informasi sediaan farmasi dan\nPRESIDEN\nREPUBLIK INDONESIA\nalat kesehatan yang diatur dalam Peraturan Pemerintah ini tidak\nberlaku bagi sediaan farmasi yang berupa obat tradisional yang\ndiproduksi oleh perorangan.\n(2) Menteri ...\n(2) Menteri melakukan pembinaan berkenaan dengan penandaan dan\ninformasi sediaan farmasi yang berupa obat tradisional yang\ndiproduksi oleh perorangan.\nBagian Kedua\nIklan"
+   }
+  },
+  {
+   "id": "ID-H977-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\nIklan sediaan farmasi dan alat kesehatan yang diedarkan harus memuat\nketerangan mengenai sediaan farmasi dan alat kesehatan secara obyektif,\nlengkap, dan tidak menyesatkan."
+   }
+  },
+  {
+   "id": "ID-H977-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 32\nSediaan farmasi yang berupa obat untuk pelayanan kesehatan yang\npenyerahannya dilakukan berdasarkan resep dokter hanya dapat\ndiiklankan pada media cetak ilmiah kedokteran atau media cetak ilmiah\nfarmasi."
+   }
+  },
+  {
+   "id": "ID-H977-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 33\nIklan mengenai sediaan farmasi dan alat kesehatan pada media apapun\nyang dipergunakan untuk menyebarkan iklan dil aksanakan dengan\nmemperlihatkan etika periklanan.\nPRESIDEN\nREPUBLIK INDONESIA\nBAB VIII …\nBAB VIII\nPEMELIHARAAN MUTU"
+   }
+  },
+  {
+   "id": "ID-H977-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 34\n(1) Dalam rangka menjamin sediaan farmasi dan alat kesehatan yang\nmemenuhi persyaratan mutu, keama nan, dan kemanfaatan,\ndiselenggarakan upaya pemeliharaan mutu sediaan farmasi dan alat\nkesehatan.\n(2) Penyelenggaraan upaya pemeliharaan mutu sediaan farmasi dan alat\nkesehatan sebagaimana dimaksud dalam ayat (1) dilakukan sejak\nkegiatan produksi sampai de ngan peredaran sediaan farmasi dan alat\nkesehatan."
+   }
+  },
+  {
+   "id": "ID-H977-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 35\n(1) Dalam rangka pelaksanaan upaya pemeliharaan mutu sediaan\nfarmasi dan alat kesehatan, Menteri melakukan:\na. penetapan persyaratan pemeliharaan mutu sediaan farmasi dan\nalat kesehatan;\nb. pembinaan dan pengawasan pelaksanaan pemeliharaan mutu\nsediaan farmasi dan alat kesehatan.\n(2) Pelaksanaan ketentuan sebagaimana dimaksud dalam ayat (1) diatur\nlebih lanjut oleh Menteri.\nPRESIDEN\nREPUBLIK INDONESIA\nBAB IX …\nBAB IX\nPENGUJIAN DAN PENARIKAN KEMBALI SEDIAAN FARMASI\nDAN ALAT KESEHATAN DARI PEREDARAN\nBagian Pertama\nPengujian Kembali"
+   }
+  },
+  {
+   "id": "ID-H977-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB IX / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 36\nUntuk melindungi masyarakat dari bahaya yang disebabkan oleh\npenggunaan sediaan farmasi dan alat kesehatan yang tidak memenuhi\npersyaratan mutu, keamanan, dan kemanfaatan, dilakukan pengujian\nkembali sediaan farmasi dan alat kesehatan yang diedarkan."
+   }
+  },
+  {
+   "id": "ID-H977-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB IX / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 37\nPengujian kembali sediaan farmasi dan alat kesehatan yang diedarkan\ndilaksanakan oleh Menteri."
+   }
+  },
+  {
+   "id": "ID-H977-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38"
+   },
+   "chapter": {
+    "id": "BAB IX / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 38\nPengujian kembali sediaan farmasi dan alat kesehatan yang diedarkan\ndilaksanakan:\na. secara berkala; atau\nb. karena adanya data atau informasi baru berkenaan dengan efek\nsamping farmasi dan akat kesehatan bagi masyarakat."
+   }
+  },
+  {
+   "id": "ID-H977-A39",
+   "no": 39,
+   "noLabel": {
+    "id": "Pasal 39"
+   },
+   "chapter": {
+    "id": "BAB IX / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 39\nPRESIDEN\nREPUBLIK INDONESIA\n(1) Apabila hasil pengujian kembali sediaan farmasi dan alat kesehatan\nmenunjukkan sediaan farmasi dan alat kesehatan yang bersangkutan\ntidak memenuhi persyaratan mutu, kea manan, dan kemanfaatan atau\ndapat menimbulkan bahaya kesehatan bagi manusia, sediaan farmasi\ndan alat kesehatan yang bersangkutan dicabut izin edarnya.\n(2) ketentuan ...\n(2) ketentuan lebih lanjut mengenai tata cara pencabutan izin edar\nsebagaimana dimaksud dalam ayat (1) diatur oleh Menteri."
+   }
+  },
+  {
+   "id": "ID-H977-A40",
+   "no": 40,
+   "noLabel": {
+    "id": "Pasal 40"
+   },
+   "chapter": {
+    "id": "BAB IX / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 40\n(1) Sediaan farmasi dan alat kesehatan yang dicabut izin edarnya karena\nketentuan sebagaimana dimaksud dalam Pasal 39 ayat (1) dilarang\nuntuk diproduksi atau dimasukkan ke dalam wilayah Indonesia untuk\ndiedarkan.\n(2) Sediaan farmasi dan alat kesehatan yang dic abut izin edarnya\nsebagaimana dimaksud dalam ayat (1) ditarik dari peredaran untuk\ndimusnahkan.\nBagian Kedua\nPenarikan Kembali"
+   }
+  },
+  {
+   "id": "ID-H977-A41",
+   "no": 41,
+   "noLabel": {
+    "id": "Pasal 41"
+   },
+   "chapter": {
+    "id": "BAB IX / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 41\n(1) Penarikan kembali sediaan farmasi dan alat kesehatan dari peredaran\nkarena dicabut izin edarnya dilaksanakan oleh da n menjadi tanggung\njawab badan usaha yang memproduksi dan/atau mengedarkan\nsediaan farmasi dan alat kesehatan.\n(2) Ketentuan lebih lanjut mengenai tata cara penarikan kembali sediaan\nfarmasi dan alat kesehatan dari peredaran sebagaimana dimaksud\ndalam ayat (1) diatur oleh Menteri.\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H977-A42",
+   "no": 42,
+   "noLabel": {
+    "id": "Pasal 42"
+   },
+   "chapter": {
+    "id": "BAB IX / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 42\n(1) Menteri menyebarluaskan informasi kepada masyarakat berkenaan\ndengan sediaan farmasi dan alat kesehatan yang sedang dalam\npenarikan kembali dari peredaran.\n(2) Ketentuan ...\n(2) Ketentuan lebih lanjut mengenai penye barluasan informasi kepada\nmasyarakat sebagaimana dimaksud dalam ayat (1) diatur oleh\nMenteri.\nBagian Ketiga\nGanti Rugi"
+   }
+  },
+  {
+   "id": "ID-H977-A43",
+   "no": 43,
+   "noLabel": {
+    "id": "Pasal 43"
+   },
+   "chapter": {
+    "id": "BAB IX / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 43\n(1) Setiap orang mempunyai hak untuk mendapatkan ganti rugi apabila\nsediaan farmasi dan alat kesehatan yang digunakan mengaki batkan\nterganggunya kesehatan, cacat dan kematian yang terjadi karena\nsediaan farmasi dan alat kesehatan yang tidak memenuhi persyaratan\nmutu, keamanan, dan kemanfaatan.\n(2) Ganti rugi sebagaimana dimaksud dalam ayat (1) dilaksanakan sesuai\ndengan ketentuan peraturan perundang-undangan yang berlaku.\nBAB X\nPEMUSNAHAN"
+   }
+  },
+  {
+   "id": "ID-H977-A44",
+   "no": 44,
+   "noLabel": {
+    "id": "Pasal 44"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 44\nPemusnahan sediaan farmasi dan alat kesehatan dilaksanakan terhadap\nsediaan farmasi dan alat kesehatan yang :\na. diproduksi tanpa memenuhi persyaratan yang berlaku;\nPRESIDEN\nREPUBLIK INDONESIA\nb. telah kadaluwarsa;\nc. tidak memenuhi syarat untuk digunakan dalampelayanan kesehatan\natau kepentingan ilmu pengetahuan;\nd. dicabut ...\nd. dicabut izin edaranya;\ne. berhubungan dengan tindak pidana di bidang sediaan farmasi dan\nalat kesehatan."
+   }
+  },
+  {
+   "id": "ID-H977-A45",
+   "no": 45,
+   "noLabel": {
+    "id": "Pasal 45"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 45\n(1) Pemusnahan sediaan farmasi dan alat kesehatan dilaksanakan oleh\nbadan usaha yang memproduksi dan/atau mengedarkan sediaan\nfarmasi dan alat kesehatan, dan/atau orang yang bertanggung jawab\natas sarana kesehatan dan/atau Pemerintah.\n(2) Pemusnahan sediaa n farmasi dan alat kesehatan yang berhubungan\ndengan tindak pidana di bidang sediaan farmasi dan alat kesehatan\ndilaksanakan oleh Pemerintah sesuai dengan ketentuan peraturan\nperundang-undangan yang berlaku."
+   }
+  },
+  {
+   "id": "ID-H977-A46",
+   "no": 46,
+   "noLabel": {
+    "id": "Pasal 46"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 46\nPemusnahan sediaan farmasi dan alat ke sehatan dilaksanakan dengan\nmemperhatikan dampak terhadap kesehatan manusia serta upaya\npelestarian lingkungan hidup."
+   }
+  },
+  {
+   "id": "ID-H977-A47",
+   "no": 47,
+   "noLabel": {
+    "id": "Pasal 47"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 47\n(1) Pemusnahan sediaan farmasi dan alat kesehatan harus dilaporkan\nkepada Menteri.\n(2) Laporan pemusnahan sediaan farmasi dan alat kesehatan\nPRESIDEN\nREPUBLIK INDONESIA\nsebagaimana dimaksud dalam ayat (1) sekurang -kurangnya memuat\nketerangan:\na. waktu dan tempat pelaksanaan pemusnahan sediaan farmasi dan\nalat kesehatan;\nb. jumlah ...\nb. jumlah dan jenis sediaan farmasi dan alat kesehatan;\nc. nama penanggung jawab pelaksana pemusnahan sediaan farmasi\ndan alat kesehatan;\nd. nama satu orang saksi dalam pelaksanaan pemusnahan sediaan\nfarmasi dan alat kesehatan.\n(3) Laporan pemusnahan sediaan farmasi dan alat kesehatan\nsebagaimana dimaksud dalam ayat (2) ditandatangani oleh\npenanggung jawab dan saksi dalam pelaksanaan pemusnahan\nsediaan farmasi dan alat kesehatan."
+   }
+  },
+  {
+   "id": "ID-H977-A48",
+   "no": 48,
+   "noLabel": {
+    "id": "Pasal 48"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 48\nketentuan lebih lanjut mengenai tata cara pemusnahan dan pelaporan\nsediaan farmasi dan alat kesehat an sebagaimana dimaksud dalam Pasal\n44, Pasal 45, Pasal 46 dan Pasal 47 diatur oleh Menteri.\nBAB XI\nPERAN SERTA MASYARAKAT"
+   }
+  },
+  {
+   "id": "ID-H977-A49",
+   "no": 49,
+   "noLabel": {
+    "id": "Pasal 49"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 49\nMasyarakat memiliki kesempatan berperan serta yang seluas -luasnya\ndalam mewujudkan perlindungan masyarakat dari bahaya yang\ndisebabkan oleh penggunaan sediaan farmasi dan alat kesehatan yang\ntidak tepat dan/atau tidak memenuhi persyaratan mutu, keamanan, dan\nkemanfaatan.\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H977-A59",
+   "no": 59,
+   "noLabel": {
+    "id": "Pasal 59"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 59\nPeran serta masy arakat diarahkan untuk meningkatkan dan\nmendayagunakan kemampuan yang ada pada masyarakat dalam rangka\npengamanan sediaan farmasi dan alat kesehatan.\nPasal 51 …\nPasal 51\nPeran serta masyarakat dilaksanakan melalui:\na. penyelenggaraan produksi dan peredaran sediaan farmasi dan alat\nkesehatan yang memenuhi persyaratan mutu, keamanan, dan\nkemanfaatan;\nb. penyelenggaraan, pemberian bantuan, dan/atau kerjasama dalam\nkegiatan penelitian dan pengembangan di bidang sediaan farmasi dan\nalat kesehatan;\nc. sumbangan pemikiran dan pertimbangan berkenaan dengan\npenentuan kebijaksanaan dan/atau pelaksanaan program pengamanan\nsediaan farmasi dan alat kesehatan;\nd. melaporkan kepada instansi Pemerintah yang berwenang dan/atau\nmelakukan tindakan yang diperlukan atas terjadinya penggunaan\nsediaan farmasi dan alat kesehatan yang tidak rasional dan/atau\nmemenuhi persyaratan mutu, keamanan dan kemanfaatan;\ne. keikutsertaan dalam penyebarluasan informasi kepada masyarakat\nberkenaan dengan peng gunaan sediaan farmasi dan alat kesehatan\nyang tepat serta memenuhi persyaratan mutu, keamanan, dan\nkemanfaatan.\nPasal 52\nPRESIDEN\nREPUBLIK INDONESIA\nPeran serta masyarakat dapat dilakukan oleh perorangan, kelompok, atau\nbadan yang diselenggarakan oleh masyarakat.\nPasal 53 …\nPasal 53\n(1) Dalam rangka meningkatkan peran serta masyarakat, Menteri\nmenyebarluaskan informasi dan pengertian berkenaan dengan peran\nserta masyarakat dalam pengamanan sediaan farmasi dan alat\nkesehatan.\n(2) Pelaksanaan ketentuan sebagaimana dimaksud dal am ayat (1) diatur\nlebih lanjut oleh Menteri.\nBAB XII\nPEMBINAAN\nPasal 54\nMenteri melakukan pembinaan terhadap segala kegiatan yang\nberhubungan dengan pengamanan sediaan farmasi dan alat kesehatan.\nPasal 55\n(1) Pembinaan oleh Menteri sebagaimana dimaksu d dalam Pasal 54\ndiarahkan untuk:\na. memenuhi kebutuhan masyarakat akan sediaan farmasi dan alat\nkesehatan yang memenuhi persyaratan mutu, keamanan, dan\nkemanfaatan;\nPRESIDEN\nREPUBLIK INDONESIA\nb. melindungi masyarakat dari bahaya penggunaan sediaan farmasi\ndan alat kesehatan yang tidak tepat dan/atau tidak memenuhi\npersyaratan mutu, keamanan, dan kemanfaatan;\nc. menjamin ...\nc. menjamin terpenuhinya atau terpeliharanya persyaratan mutu,\nkeamanan, dan kemanfaatan sediaan farmasi dan alat kesehatan\nyang diedarkan.\n(2) Pembinaan sebagaimana dimaksud dalam ayat (1) dilaksanakan\ndalam bidang:\na. informasi;\nb. produksi;\nc. peredaran;\nd. sumber daya manusia;\ne. pelayanan kesehatan.\nPasal 56\n(1) Pembinaan dalam bidang informasi sebagaimana dimaksud dalam\nPasal 55 huruf a dilakukan dengan:\na. penyebarluasan informasi kepada masyarakat berkenaan dengan\npenggunaan sediaan farmasi dan alat kesehatan;\nb. melindungi masyarakat dari iklan sediaan farmasi dan alat\nkesehatan yang tidak obyektif, tidak lengkap dan menyesatkan.\n(2) Untuk melindungi masyarakat sebagaimana dimaksud dalam ayat (1)\nhuruf b, Menteri menetapkan pedoman materi muatan iklan sediaan\nPRESIDEN\nREPUBLIK INDONESIA\nfarmasi dan alat kesehatan.\n(3) Penetapan pedoman materi muatan iklan sebagaimana dimaksud\ndalam ayat (2) dilaksanakan denga n memperhatikan pertimbangan\nMenteri yang bertanggung jawab di bidang penerangan.\nPasal 57 …\nPasal 57\nPembinaan dalam bidang produksi sebagaimana dimaksud dalam Pasal\n55 huruf b dilakukan dengan:\na. meningkatkan kemampuan teknik dan penerapan cara produksi\nsediaan farmasi dan alat kesehatan yang baik;\nb. meningkatkan penggunaan potensi nasional yang tersedia\nsebesar-besarnya dalam produksi sediaan farmasi dan alat kesehatan;\nc. melaksanakan penelitian dan pengembangan produksi sediaan\nfarmasi yang berupa obat tradisional dalam rangka perluasan dan\npemerataan pelayanan kesehatan.\nPasal 58\nPembinaan dalam bidang peredaran sebagaimana dimaksud dalam Pasal\n55 huruf c dilakukan dengan:\na. menjaga terpenuh inya persyaratan mutu, keamanan, dan\nkemanfaatan sediaan farmasi dan alat kesehatan yang diedarkan;\nb. mengembangkan jaringan peredaran sediaan farmasi dan alat\nkesehatan yang merata.\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 59\nPembinaan dalam bidang sumber daya manusia sebagaimana dimaksud\ndalam Pasal 55 huruf d dilakukan dengan:\na. meningkatkan keterampilan teknis tenaga kesehatan dalam rangka\npemberian pelayanan kesehatan;\nb. membentuk ...\nb. membentuk dan mengembangkan lembaga pendidikan dan/atau\nlembaga pelatihan di bidang sediaan farmasi dan alat kesehatan;\nc. menyediakan tenaga penyuluh atau ahli di bidang sediaan farmasi\ndan alat kesehatan."
+   }
+  },
+  {
+   "id": "ID-H977-A60",
+   "no": 60,
+   "noLabel": {
+    "id": "Pasal 60"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 60\nPembinaan dalam bidang pelayanan kesehatan sebagaimana dimaksud\ndalam Pasal 55 huruf e dilakukan dengan:\na. meningkatkan penggunaan sediaan farmasi berupa obat generik\ndalam pelayanan kesehatan;\nb. meningkatkan pemanfaatan sediaan farmasi yang berupa obat\ntradisional sebagai upaya kesehatan mandiri;\nc. menjamin tersedianya sediaan farmasi dan alat kesehatan yang\nmemenuhi persyaratan mutu, keamanan, dan kemanfaatan dalam\nrangka pelayanan kesehatan."
+   }
+  },
+  {
+   "id": "ID-H977-A61",
+   "no": 61,
+   "noLabel": {
+    "id": "Pasal 61"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 61\n(1) Dalam rangka pembinaan, Menteri melakukan upaya peningkatan\npenggunaan sediaan farmasi yang berupa obat generik dalam\nPRESIDEN\nREPUBLIK INDONESIA\npelayanan kesehatan.\n(2) Upaya sebagaimana dimaksud dalam ayat (1) dilakukan dengan:\na. pemberian informasi kepada masyarakat berkenaan dengan\nmanfaat penggunaan sediaan farmasi yang berupa obat generik\ndalam pelayanan kesehatan;\nb. menumbuhkembangkan ..\nb. menumbuhkembangkan penggunaan sediaan farmasi yang berupa\nobat generik oleh tenaga kesehatan dalam pemberian pelayanan\nkesehatan untuk melindungi masyarakat dari bahaya penggunaan\nsediaan farmasi yang berupa obat yang tidak tepat;\nc. menjamin ketersediaan sediaan farmasi yang berupa obat generik\nsarana kesehatan dalam rangka pelayanan kesehatan.\n(3) Dalam rangka pelayanan kesehatan, penggantian penyerahan sediaan\nfarmasi yang berupa obat berdasarkan resep dokter dengan\npedanannya berupa obat generik, dapat dilakukan dengan\npersetujuan dokter yang mengeluarkan resep dan dilaksanakan\ndengan memperhatikan kemampuan ekonomi penerima pelayanan\nkesehatan.\n(4) Pelaksanaan ketentuan sebagaimana dimaksud dalam ayat (1), ayat\n(2) dan ayat (3) diatur lebih lanjut oleh Menteri."
+   }
+  },
+  {
+   "id": "ID-H977-A62",
+   "no": 62,
+   "noLabel": {
+    "id": "Pasal 62"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 62\nDalam rangka pembinaan, Menteri dapat melakukan kerjasama\ninternasional di bidang pengamanan sediaan farmasi dan alat kesehatan\nsesuai dengan kepentingan nasional."
+   }
+  },
+  {
+   "id": "ID-H977-A63",
+   "no": 63,
+   "noLabel": {
+    "id": "Pasal 63"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 63\nPRESIDEN\nREPUBLIK INDONESIA\nDalam rangka pembinaan, Menteri dapat memberikan penghargaan\nkepada orang atau Badan yang telah berjasa dalam membantu\npelaksanaan pengamanan sediaan farmasi dan alat kesehatan.\nBAB XIII …\nBAB XIII\nPENGAWASAN\nBagian Pertama\nTanggung Jawab pengawasan"
+   }
+  },
+  {
+   "id": "ID-H977-A64",
+   "no": 64,
+   "noLabel": {
+    "id": "Pasal 64"
+   },
+   "chapter": {
+    "id": "BAB XIII / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 64\nPengawasan terhadap segala kegiatan yang berhubungan dengan\npengamanan sediaan farmasi dan alat kesehatan dilaksanakan oleh\nMenteri."
+   }
+  },
+  {
+   "id": "ID-H977-A65",
+   "no": 65,
+   "noLabel": {
+    "id": "Pasal 65"
+   },
+   "chapter": {
+    "id": "BAB XIII / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 65\nMenteri dalam melaksanakan pengawasan, mengangkat tenaga\npengawas yang bertugas melakukan pemeriksaan di bidang pengamanan\nsediaan farmasi dan alat kesehatan."
+   }
+  },
+  {
+   "id": "ID-H977-A66",
+   "no": 66,
+   "noLabel": {
+    "id": "Pasal 66"
+   },
+   "chapter": {
+    "id": "BAB XIII / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 66\nDalam melaksanakan tugas sebagaimana dimaksud dalam Pasal 65,\ntenaga pengawas melakukan fungsi:\na. memasuki setiap tempat yang diduga digunakan dalam kegiatan\nproduksi, penyimpanan, pengangkutan, dan perdagangan sediaan\nPRESIDEN\nREPUBLIK INDONESIA\nfarmasi dan alat kesehatan untuk memeriksa, meneliti, dan\nmengambil contoh dan segala sesuatu yang digunakan dalam\nkegiatan produksi, penyimpanan, pengangkutan, dan perdagangan\nsediaan farmasi dan alat kesehatan;\nb. membuka dan meneliti kemasan sediaan farmasi dan alat kesehatan;\nc. memeriksa ...\nc. memeriksa dokumen atau catatan lain yang diduga memuat\nketerangan mengenai kegiatan produksi, penyimpanan,\npengangkutan, dan perdagangan sediaan farm asi dan alat kesehatan,\ntermasuk menggandakan atau mengutip keterangan tersebut;\nd. memerintahkan untuk memperlihatkan izin usaha tau dokumen lain."
+   }
+  },
+  {
+   "id": "ID-H977-A67",
+   "no": 67,
+   "noLabel": {
+    "id": "Pasal 67"
+   },
+   "chapter": {
+    "id": "BAB XIII / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 67\nTenaga pengawas dalam melakukan tugas dan fungsinya dilengkapi\ndengan:\na. tanda pengenal;\nb. surat perintah pemeriksaan."
+   }
+  },
+  {
+   "id": "ID-H977-A68",
+   "no": 68,
+   "noLabel": {
+    "id": "Pasal 68"
+   },
+   "chapter": {
+    "id": "BAB XIII / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 68\n(1) Tanda pengenal sebagaimana dimaksud dalam Pasal 67 huruf a,\nterdiri dari:\na. nama tenaga pengawas yang bersangkutan yang dikenakan pada\nseragam;\nb. surat keterangan yang menyatakan data diri tenaga pengawas\nyang bersangkutan.\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Surat keterangan sebagaimana dimaksud dalam ayat (1) huruf b\ndilengkapi dengan foto diri tenaga pengawas yang bersangkutan\nserta ditandatangani oleh pejabat berwenang yang ditunjuk oleh\nMenteri."
+   }
+  },
+  {
+   "id": "ID-H977-A69",
+   "no": 69,
+   "noLabel": {
+    "id": "Pasal 69 "
+   },
+   "chapter": {
+    "id": "BAB XIII / Bagian Pertama"
+   },
+   "heading": {
+    "id": "..."
+   },
+   "text": {
+    "id": "Pasal 69\n(1) Surat Perintah pemeriksaan dalam Pasal 67 huruf b\nsekurang-kurangnya berisi:\na. nama tenaga pengawas yang akan melakukan pemeriksaan;\nb. nama dan alamat yang kegiatan yang akan dilakukan\npemeriksaan;\nc. alasan dilakukan pemeriksaan;\nd. hak yang akan diperiksa atau kegiatan pemeriksaan yang\ndilakukan oleh tenaga pengawas;\ne. tanggal, bulan, dan tahun pelaksanaan pemeriksaan;\nf. keterangan lain yang dianggap perlu.\n(2) Surat perintah pemeriksaan sebagaimana dimaksud dalam ayat (1)\nditandatangani oleh pejabat berwenang yang ditunjuk oleh Menteri."
+   }
+  },
+  {
+   "id": "ID-H977-A70",
+   "no": 70,
+   "noLabel": {
+    "id": "Pasal 70"
+   },
+   "chapter": {
+    "id": "BAB XIII / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 70\nSetiap orang yang bertanggung jawab atas tempat dilakukannya\npemeriksaan oleh tenaga pengawas mempunyai hak untuk menolak\npemeriksaan apabila tenaga pengawas yang bersangkutan tidak\nPRESIDEN\nREPUBLIK INDONESIA\ndilengkapi dengan tanda pengenal dan surat perintah pemeriksaan."
+   }
+  },
+  {
+   "id": "ID-H977-A71",
+   "no": 71,
+   "noLabel": {
+    "id": "Pasal 71"
+   },
+   "chapter": {
+    "id": "BAB XIII / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 71\nApabila hasil pemeriksaan oleh tenaga pengawas menunjukkan adanya\ndugaan atau patut di duga adanya pelanggaran hukum dibidang sediaan\nfarmasi dan alat kesehatan segera dilakukan penyidikan oleh penyidik\nyang berwenang sesuai dengan ketentuan peraturan\nperundang-undangan yang berlaku.\nBagian Kedua …\nBagian Kedua\nTindakan Administratif"
+   }
+  },
+  {
+   "id": "ID-H977-A72",
+   "no": 72,
+   "noLabel": {
+    "id": "Pasal 72"
+   },
+   "chapter": {
+    "id": "BAB XIII / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 72\n(1) Menteri dapat mengambil tindakan administratif terhadap sarana\nkesehatan dan tenaga kesehatan yang melanggar hukum di bidang\nsediaan farmasi dan alat kesehatan.\n(2) Tindakan administratif sebagaimana dimaksud dalam ayat (1) dapat\nberupa:\na. peringatan secara tertulis;\nb. larangan mengedarkan untuk sementara waktu dan/atau perintah\nuntuk menarik produk sediaan farmasi dan alat kesehatan dari\nperedaran yang tidak memenuhi persyaratan mutu, keamanan,\ndan kemanfaatan;\nc. perintah pemusnahan sediaan farmasi dan alat kesehatan, jika\nterbukti tidak memenuhi persyaratan mutu, keamanan, dan\nkemanfaatan.\nd. pencabutan sementara atau pencabutan tetap izin usaha industri,\nizin edar sediaan farmasi dan alat kesehatan serta izin lain yang\nPRESIDEN\nREPUBLIK INDONESIA\ndiberikan.\n(3) Tindakan adminidtratif berupa pencabutan sementara atau\npencabutan tetap izin sebagaimana dimaksud dalam ayat (2)\ndilaksanakan oleh Menteri atau Menteri lain yang berwenang.\n(4) Ketentuan lebih lanjut mengenai tata cara pengambilan tindakan\nadministratif sebag aimana dimaksud dalam ayat (1), ayat (2), dan\nayat (3) diatur oleh Menteri dan/atau Menteri lain baik secara\nbersama-sama atau sendiri -sendiri sesuai dengan bidang tugasnya\nmasing-masing."
+   }
+  },
+  {
+   "id": "ID-H977-A73",
+   "no": 73,
+   "noLabel": {
+    "id": "Pasal 73 "
+   },
+   "chapter": {
+    "id": "BAB XIII / Bagian Kedua"
+   },
+   "heading": {
+    "id": "..."
+   },
+   "text": {
+    "id": "Pasal 73\n(1) Jika pelanggaran hukum dilakukan oleh tenaga kesehatan, tindakan\nadministratif dikenakan oleh Menteri berupa:\na. teguran;\nb. pencabutan izin untuk melakukan upaya kesehatan.\n(2) Pengambilan tindakan administratif terhadap tenaga kesehatan\nsebagaiamana di maksud dalam ayat (1) dilaksanakan dengan\nmemperhatikan ketentuan peraturan perundang -undangan yang\nberlaku.\nBAB XIV\nKETENTUAN PIDANA"
+   }
+  },
+  {
+   "id": "ID-H977-A74",
+   "no": 74,
+   "noLabel": {
+    "id": "Pasal 74"
+   },
+   "chapter": {
+    "id": "BAB XIV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 74\nBarangsiapa dengan sengaja memproduksi dan/atau mengedarkan\nsediaan farmasi berupa obat atau bahan obat yang tid ak memenuhi\npersyaratan sebagaimana dimaksud dalam Pasal 2 ayat (1) dan ayat (2)\nhuruf a, dipidana dengan pidana penjara paling lama 15 (lima belas)\nPRESIDEN\nREPUBLIK INDONESIA\ntahun dan pidana denda paling banyak Rp 300.000.000,00 (tiga ratus\njuta rupiah) sesuai dengan ketentuan dal am Pasal 80 ayat (4)\nUndang-undang Nomor 23 Tahun 1992 tentang Kesehatan."
+   }
+  },
+  {
+   "id": "ID-H977-A75",
+   "no": 75,
+   "noLabel": {
+    "id": "Pasal 75"
+   },
+   "chapter": {
+    "id": "BAB XIV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 75\nBarangsiapa dengan sengaja:\na. memproduksi dan/atau mengedarkan alat kesehatan yang tidak\nmemenuhi persyaratan sebagaimana dimaksud dalam Pasal 2 ayat (1)\ndan ayat (2) huruf d;\nb. mengedarkan …\nb. mengedarkan sediaan farmasi dan alat kesehatan tanpa izin edar\nsebagaimana dimaksud dalam Pasal 9; dipidana dengan pidana\npenjara paling lama 7 (tujuh) tahun dan/ata u pidana denda paling\nbanyak Rp 140.000.000,00 (seratus empat puluh juta rupiah) sesuai\ndengan ketentuan Pasal 81 ayat (2) Undang-undang Nomor 23 Tahun\n1992 tentang Kesehatan."
+   }
+  },
+  {
+   "id": "ID-H977-A76",
+   "no": 76,
+   "noLabel": {
+    "id": "Pasal 76"
+   },
+   "chapter": {
+    "id": "BAB XIV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 76\nBarangsiapa dengan sengaja:\na. memproduksi dan/atau mengedarkan sediaa n farmasi berupa obat\ntradisional yang tidak memenuhi persyaratan sebagaimana dimaksud\ndalam Pasal 2 ayat (1) dan ayat (2) huruf b;\nb. memproduksi dan/atau mengedarkan sediaan farmasi berupa\nkosmetika yang tidak memenuhi persyaratan sebagaimana dimaksud\ndalam Pasal 2 ayat (1) dan ayat (2) huruf c;\nc. dipidana dengan pidana penjara paling lama 5 (lima) tahun dan/atau\npidana denda paling banyak Rp 100.000.000,00 (seratus juta rupiah)\nsesuai dengan ketentuan Pasal 82 ayat (2) Undang-undang Nomor 23\nTahun 1992 tentang Kesehatan.\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H977-A77",
+   "no": 77,
+   "noLabel": {
+    "id": "Pasal 77"
+   },
+   "chapter": {
+    "id": "BAB XIV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 77\nBarangsiapa yang dengan sengaja mengedarkan sediaan farmasi dan alat\nkesehatan yang tidak mencantumkan penandaan dan informasi\nsebagaimana dimaksud dalam Pasal 27 dan Pasal 28 dipidana dengan\npidana penjara paling lama 5 (lima) tahun dan/atau pidana denda paling\nbanyak Rp. 100.000.000,00 (seratus juta rupiah) sesuai dengan\nketentuan Pasal 82 ayat (2) Undang -undang Nomor 23 Tahun 1992\ntentang Kesehatan."
+   }
+  },
+  {
+   "id": "ID-H977-A78",
+   "no": 78,
+   "noLabel": {
+    "id": "Pasal 78 …"
+   },
+   "chapter": {
+    "id": "BAB XIV"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 78\nBerdasarkan ketentuan Pasal 83 Undang -undang Nomor 23 Tahun 1992\ntentang Kesehatan, ancaman pidana sebagaimana dimaksud dalam Pasal\n74, Pasal 75, Pasal 76 dan Pasal 77, ditambah seperempat apabila\nmenimbulkan luka berat atau sepertiga apabila menimbulkan kematian."
+   }
+  },
+  {
+   "id": "ID-H977-A79",
+   "no": 79,
+   "noLabel": {
+    "id": "Pasal 79"
+   },
+   "chapter": {
+    "id": "BAB XIV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 79\nBerdasarkan ketentuan Pasal 86 Undang -undang Nomor 23 Tahun 1992\ntentang kesehatan, barangsiapa dengan sengaja:\na. memproduksi sediaan farmasi dan alat kesehatan tanpa menerapkan\ncara produksi yang baik sebagaimana dimaksud dalam Pasal 5;\nb. melakukan pengangkutan sediaan fa rmasi dan alat kesehatan dalam\nrangka peredaran tanpa disertai dengan dokumen pengangkutan\nsebagaimana dimaksud dalam Pasal 8 ayat (1);\nc. memasukkan sediaan farmasi ke dalam wilayah Indonesia tanpa\ndilengkapi dengan dokumen yang menyatakan bahwa sediaan\nfarmasi dan alat kesehatan yang bersangkutan telah lulus dalam\npengujian laboratoris sebagaimana dimaksud dalam Pasal 20 ayat\nPRESIDEN\nREPUBLIK INDONESIA\n(1);\nd. mengedarkan sediaan farmasi dan alat kesehatan yang mengalami\nkerusakan kemasan yanglangsung bersentuhan dengan produk\nsediaan farmasi dan alat kesehatan sebagaimana dimaksud dalam\nPasal 25 ayat (1);\ne. mengiklankan sediaan farmasi dan alat kesehatan yang\npenyerahannya dilakukan berdasarkan resep dokter pada media cetak\nselain yang ditentukan dalam Pasal 32;\nf. dipidana dengan pidana denda sebesar Rp 10.000.000,00 (sepuluh\njuta rupiah).\nBAB XV …\nBAB XV\nKETENTUAN LAIN"
+   }
+  },
+  {
+   "id": "ID-H977-A80",
+   "no": 80,
+   "noLabel": {
+    "id": "Pasal 80"
+   },
+   "chapter": {
+    "id": "BAB XV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 80\nUpaya pengamanan sediaan farmasi yang berupa obat keras, sepanjang\nbelum diatur dalam peraturan pelaksanaan Ordonansi Obat Keras,\ndilakukan berdasarkan p engamanan sediaan farmasi dan alat kesehatan\nsebagaimana dimaksud dalam Peraturan Pemerintah ini.\nBAB XVI\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H977-A81",
+   "no": 81,
+   "noLabel": {
+    "id": "Pasal 81"
+   },
+   "chapter": {
+    "id": "BAB XVI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 81\nDengan berlakunya Peraturan Pemerintah ini, maka semua ketentuan\nperaturan perundang -undangan yang berhubungan dengan sediaan\nfarmasi dan alat kesehatan yang telah ada, tetap berlaku sepanjang tidak\nbertentangan dan/atau belum diganti berdasarkan Peraturan Pemerintah\nini."
+   }
+  },
+  {
+   "id": "ID-H977-A82",
+   "no": 82,
+   "noLabel": {
+    "id": "Pasal 82"
+   },
+   "chapter": {
+    "id": "BAB XVI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 82\nPRESIDEN\nREPUBLIK INDONESIA\nDengan berlakunya Peraturan Pemerintah ini, maka :\n1. Pharmaceutissche Stoffen Keurings Vero rdening (Staatsblad Tahun\n1938 Nomor 172);\n2. Verpakkings Verordening Pharmaceutissche Stoffen Nomor 1\n(Staatsblad Tahun 1938 Nomor 173);\n3. Verpakkings Verordening Kinine (Staatsblad Tahun 1939 Nomor\n210); dinyatakan tidak berlaku lagi."
+   }
+  },
+  {
+   "id": "ID-H977-A83",
+   "no": 83,
+   "noLabel": {
+    "id": "Pasal 83"
+   },
+   "chapter": {
+    "id": "BAB XVI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 83\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar …\nPRESIDEN\nREPUBLIK INDONESIA\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran\nNegara Republik Indonesia.\nDitetapkan di Jakarta\npada tanggal 16 September 1998\nPRESIDEN REPUBLIK INDONESIA,\nttd.\nBACHARUDDIN JUSUF HABIBIE\nDiundangkan di Jakarta\npada tanggal 16 September 1998\nMENTERI NEGARA SEKRETARIS NEGARA\nREPUBLIK INDONESIA,\nttd.\nAKBAR TANJUNG\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1998 NOMOR 138\nPRESIDEN\nREPUBLIK INDONESIA\nPENJELASAN\nATAS\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nNOMOR 72 TAHUN 1998\nTENTANG\nPENGAMANAN SEDIAAN FARMASI DAN ALAT KESEHATAN\nUMUM\nUndang-undang Nomor 23 Tahun 1992 tentang Kesehatan sebagai landasan hukum\ndalam pembangunan kesehatan telah memberikan arah pengaturan guna tercapainya\nkesadaran, keamanan, dan kemampuan untuk hidup sehat bagi setiap orang agar dapat\nmewujudkan derajat kesehatan yang optimal, yang dilakukan melalui upaya -upaya\nkesehatan yang didukung sumber daya kesehatan. Salah satu bentuk upaya kesehatan\ndalam rangka mewujudkan derajat kesehatan yang optimal adalah pengamanan sediaan\nfarmasi dan alat kesehatan.\nSebagai peratur an pelaksanaan dari Undang -undang Nomor 23 Tahun 1992 tentang\nKesehatan, Peraturan Pemerintah ini disusun untuk memberi kejelasan, penjabaran, dan\npedoman serta kepastian dan perlindungan hukum bagi penyelenggaraan upaya kesehatan\nmengenai pengamanan sediaan farmasi dan alat kesehatan.\nPengamanan sediaan farmasi dan alat kesehatan dilakukan untuk melindungi\nmasyarakat dari bahaya yang disebabkan oleh penggunaan sediaan farmasi dan alat\nkesehatan yang tidak tepat dan/atau yang tidak memenuhi persyaratan mut u, keamanan,\ndan kemanfaatan. Selain hal tersebut, sediaan farmasi dan alat kesehatan perlu dijamin\nketersediaannya yang tersebar secara merata dan terjangkau sesuai dengan kebutuhan\ndalam rangka pemeliharaan dan peningkatan derajat kesehatan masyarakat.\nKetentuan-ketentuan yang diatur dalam Peraturan Pemerintah ini dapat diberlakukan\nsebagai peraturan pelaksanaan Ordonansi Obat Keras sepanjang ketentuan -ketentuan\nyang diatur tersebut belum diatur dalam peraturan pelaksanaan Ordonansi Obat Keras.\nHal ini d isebabkan karena pengaturan, pembinaan dan pengawasan dalam kaitannya\ndengan pengamanan sediaan farmasi dan alat kesehatan secara keseluruhan.\nDi dalam …\nPRESIDEN\nREPUBLIK INDONESIA\nDi dalam Peraturan Pemerintah ini diatur mengenai produksi dan peredaran sediaan\nfarmasi dan alat ke sehatan, dimana setiap produksi sediaan farmasi dan alat kesehatan\nyang akan diedarkan harus memenuhi persyaratan mutu, keamanan, dan kemanfaatan.\nSehubungan dengan hal tersebut diatas, sediaan farmasi dan alat kesehatan yang\ndiedarkan terlebih dahulu tel ah dilakukan dan lulus dalam pengujian dari segi mutu,\nkeamanan, dan kemanfaatan. Bagi sediaan farmasi dan alat kesehatan yang lulus dalam\npengujian diberikan izin edar. Mengingat sediaan farmasi dan alat kesehatan merupakan\nhasil yang diperoleh melalui pe nelitian dan pengembangan sebagai karya intelektual,\nmaka hasil tersebut dapat diupayakan perlindungan hukum sesuai dengan ketentuan\nperaturan perundang-undangan dan alat kesehatan.\nSelain hal tersebut, untuk menjamin terpenuhinya persyaratan mutu, keaman an, dan\nkemanfaatan sediaan farmasi dan alat kesehatan, diatur persyaratan jaminan pemeliharaan\nmutu sediaan farmasi dan alat kesehatan.\nSejalan dengan pengaturan persyaratan mutu, keamanan, dan kemanfaatan, maka\nsediaan farmasi dan alat kesehatan yang te lah diberikan izin edar yang kemudian ternyata\nterbukti tidak memenuhi persyaratan mutu, keamanan, dan kemanfaatan oleh Menteri\ndicabut izin edarnya dan ditarik dari peredaran.\nTerhadap sediaan farmasi dan alat kesehatan tersebut disita dan dimusnahkan se suai\ndengan ketentuan peraturan perundang-undangan yang berlaku.\nUntuk melindungi masyarakat dari informasi yang tidak obyektif, tidak lengkap\ndan/atau menyesatkan karena dapat mengakibatkan penggunaan sediaan farmasi dan alat\nkesehatan yang tidak tepat, Peraturan Pemerintah ini mengatur mengenai penandaan dan\ninformasi sediaan farmasi dan alat kesehatan. Penandaan dan informasi tersebut harus\nmemenuhi persyaratan obyektivitas dan kelengkapan serta tidak menyesatkan.\nDalam rangka pengamanan sediaan farmasi dan alat kesehatan serta sesuai dengan dan\nberdasarkan Undang -undang Nomor 23 Tahun 1992 tentang Kesehatan, diberlakukan\nsanksi bagi siapa yang melanggar ketentuan -ketentuan yang diatur dalam Peraturan\nPemerintah tentang Pengamanan Sediaan Farmasi Dan Alat Kesehatan.\nPASAL …\nPRESIDEN\nREPUBLIK INDONESIA\nPASAL DEMI PASAL\nPasal 1\nAngka 1\nYang dimaksud dengan obat adalah bahan baku atau paduan bahan yang\ndigunakan untuk mempengaruhi atau menyelidiki sistem fisiologi atau keadaan\npatologi dalam rangka penetapan diagnosa, pencegahan penyakit, penyembuhan\npenyakit, pemulihan, dan peningkatan kesehatan termasuk kontrasepsi dan sediaan\nbilogis.\nYang dimaksud dengan obat tradisional adalah bahan atau ramuan bahan yang\nberupa bahan tumbuhan, bahan hewan, bahan mineral, sediaan sar ian (galenik)\natau campuran dari bahan tersebut yang secara turun temurun telah digunakan\nuntuk pengobatan berdasarkan pengalaman.\nYang dimaksud dengan kosmetik adalah paduan bahan yang siap digunakan pada\nbagian luar badan (kulit, rambut, kuku, bibir, d an organ kelamin bagian luar), gigi\ndan rongga mulut untuk membersihkan, menambah daya tarik, mengubah\npenampakan, melindungi supaya tetap dalam keadaan baik, memperbaiki bau\nbadan, tetapi tidak dimaksudkan untuk mengobati atau menyembuhkan suatu\npenyakit.\nAngka 2\nCukup jelas\nAngka 3\nPengertian produksi disini tidak termasuk penyiapan atau peracikan yang\ndilakukan oleh tenaga kefarmasian di sarana kesehatan, antara lain di apotik.\nAngka 4\nYang dimaksud dengan perdagangan dalam peredaran sediaan far masi dan alat\nkesehatan adalah setiap kegiatan atau serangkaian kegiatan dalam rangka\npenjualan\nPRESIDEN\nREPUBLIK INDONESIA\ndan/atau …\ndan/atau pembelian sediaan farmasi dan alat kesehatan dan kegiatan lain\nberkenaan dengan pemindahtanganan sediaan farmasi dan alat kesehatan d engan\nmemperoleh imbalan.\nAngka 5\nCukup jelas\nAngka 6\nCukup jelas\nAngka 7\nCukup jelas\nPasal 2\nAyat (1)\nKetentuan dalam ayat ini dimaksudkan agar masyarakat dapat melindungi dari\nbahaya yang disebabkan oleh penggunaan sediaan farmasi dan alat kesehatan yang\ntidak memnuhi persyaratan mutu, keamanan, dan kemanfaatan.\nAyat (2)\nCukup jelas\nPasal 3\nYang dimaksud dengan badan usaha adalah badan hukum yang bergerak di bidang\nusaha tertentu sesuai dengan ketentuan peraturan perundang -undangan yang\nberlaku.\nPasal 4\nAyat (1)\nPada dasarnya produksi sediaan farmasi dan alat kesehatan hanya dapat dilakukan\noleh badan usaha yang telah memiliki izin usaha industri, Namun demikian, untuk\nsediaan farmasi yang berupa obat tradisional tertentu yang diproduksi oleh\nperorangan dikecualikan untuk memiliki izin usaha industri tersebut.\nPengeculian …\nPRESIDEN\nREPUBLIK INDONESIA\nPengeculian tersebut dimaksudkan untuk menumbuh kembangkan produksi\nsediaan farmasi yang berupa obat tradisional tertentu yang dilakukan oleh\nperorangan sebagai upaya peningkatan kesehatan dan pengobatan yang secara\nturun termurun digunakan berdasarkan pengalaman.\nSekalipun tidak memerlukan izin, Menteri melakukan pembinaan yang terarah dan\nterpadu terhadap produksi sediaan farmasi yang berupa obat tradisional tertentu\nyang dilakukan oleh perorangan guna menghasilkan hasil yang bermanfaat bagi\nkesehatan m asyarakat. Pengertian perorangan disini termasuk industri rumah\ntangga.\nYang dimaksud dengan sediaan farmasi obat tradisional tertentu antara lain usaha\njamu gendong dan usaha jamu rumah tangga.\nAyat (2)\nCukup jelas\nPasal 5\nAyat (1)\nYang dimaksud d engan cara produksi yang baik adalah cara produksi yang\ndistrandardisasikan yang meliputi sarana, tenaga, proses dan prosedur produksi\nserta proses dan prosedur pengendalian mutu.\nCara produksi yang baik dimaksudkan untuk mencegah terjadinya kesalahan da n\nkekeliruan dalam proses produksi serta menjamin produksi yang secara konsisten\nmenghasilkan produk yang memenuhi persyaratan yang ditetapkan.\nAyat (2)\nCukup jelas\nPasal 6\nCukup jelas\nPasal 7\nCukup jelas\nPasal 8 …\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 8\nAyat (1)\nYang dimaksud dengan dokumen pengangkutan adalah surat jalan dan faktur\npengiriman sediaan farmasi dan alat kesehatan yang dikeluarkan antara lain oleh\npabrik obat, pedagang besar farmasi atau badan usaha penyalur sediaan farmasi\ndan alat kesehatan lainnya.\nAyat (2)\nCukup jelas\nPasal 9\nAyat (1)\nSediaan farmasi dan alat kesehatan yang dapat diberi izin edar harus memenuhi\npersyaratan mutu, keamanan, dan kemanfaatan.\nAyat (2)\nSediaan farmasi yang berupa obat tradisional tertentu yang diproduksi oleh\nperorangan tidak diharuskan memiliki izin edar.\nLihat penjelasan ketentuan Pasal 4 ayat (1) Peraturan Pemerintah ini.\nPasal 10\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nPasal 11\nCukup jelas\nPasal 12\nAyat (1)\nCukup jelas\nAyat (2) …\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (2)\nCukup jelas\nPasal 13\nAyat (1)\nYang dimaksud dengan lulus dalam pengujian adalah sediaan farmasi dan alat\nkesehatan tersebut hasil pengujiannya menunjukkan memenuhi persyaratan mutu,\nkeamanan, dan kemanfaatan yang telah ditetapkan.\nAyat (2)\nPersetujuan pendaftaran merupakan izin edar sediaan farmasi dan alat kesehatan\nyang berisi antara lain nomor pendaftaran sediaan farmasi dan alat kesehatan,\nnama sediaan farmasi dan alat kesehatan, dan keterangan lain yang berkenaan\ndengan sediaan farmasi dan alat kesehatan tersebut.\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nPasal 14\nAyat (1)\nketerangan dan/atau data yang disampaikan serta hasil pengujian sediaan farmasi\ndan alat kesehatan sifatnya rahasia dan merupakan hak sepenuhnya dari pemohon\nizin edar. Oleh karena itu, Menteri merahasiakan semua keterangan dan/atau data\nsediaan farmasi da n alat kesehatan yang disampaikan termasuk hasil pengujian\nsediaan farmasi dan alat kesehatan dari pihak -pihak lain yang tidak\nberkepentingan.\nselain itu, mengingat sediaan farmasi dan alat kesehatan merupakan hasil karya\nintelektual, maka dapat diupayak an perlindungan hukum sesuai dengan ketentuan\nperaturan perundang-undangan yang berlaku.\nAyat (2)\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 15 …\nPasal 15\nAyat (1)\nYang dimaksud dengan badan usaha adalah badan hukum yang bergerak di bidang\nusaha tertentu sesuai dengan ketentuan peraturan perundang -undangan yang\nberlaku.\nBadan usaha yang telah memiliki izin sebagai penyalur dalam ayat ini termasuk\npula badan usaha y ang memproduksi sediaan farmasi dan alat kesehatan. Bagi\nbadan usaha yang memproduksi sediaan farmasi dan alat kesehatan hanya dapat\nmenyalurkan sediaan farmasi dan alat kesehatan yang diproduksinya. Dapat\ndisalurkan secara cepat kepada masyarakat.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nPasal 16\nAyat (1)\nPenggunaan sediaan farmasi dan alat kesehatan dalam pelayana n kesehatan adalah\ndalam rangka pemeliharaan dan peningkatan derajat kesehatan masyarakat,\nsedangkan penggunaan sediaan farmasi dan alat kesehatan untuk kepentingan ilmu\npengetahuan adalah dalam rangka penelitian dan pengembangan sediaan farmasi\ndan alat kesehatan itu sendiri, yang pada akhirnya hasilnya dapat digunakan dalam\npelayanan kesehatan.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nPasal 17\npersyaratan mutu, keamanan, dan pemanfaatan dalam Pasal ini adalah\nsebagaimana persyaratan yang ditetapkan dalam Pasal 2 Peraturan Pemerintah ini.\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 18 …\nPasal 18\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 19\nAyat (1)\nCukup jelas\nAyat (2)\nPemasukan sediaan farmasi dan alat kesehatan oleh lembaga pene litian dan/atau\nlembaga pendidikan hanya untuk kepentingan ilmu pengetahuan. Oleh karenanya,\nlembaga penelitian dan/atau lembaga pendidikan tidak dapat mengedarkan sediaan\nfarmasi dan alat kesehatan yang dimasukkannya ke dalam wilayah Indonesia.\nPasal 20\nAyat (1)\nKetentuan dalam ayat ini dimaksudkan untuk agar sediaan farmasi dan alat\nkesehatan yang dimasukkan ke dalam dan dikeluarkan dari wilayah Indonesia\nbenar-benar memenuhi persyaratan mutu, keamanan, dan kemanfaatan. Oleh\nkarena itu, sediaan farmasi dan alat kesehatan harus dilengkapi dengan dokumen\nyang menyatakan telah lulus dalam pengujian dari segi mutu, keamanan, dan\nkemanfaatan.\nBagi sediaan farmasi dan alat kesehatan yang dikeluarkan dari wilayah Indonesia,\ndokumen yang dimaksud adalah izin edar sediaan farmasi dan alat kesehatan yang\nbersangkutan.\nAyat (2)\nCukup jelas\nPasal 21 …\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 21\nKetentuan ini dimaksudkan agar sediaan farmasi dan alat kesehatan tetap terjaga\npersyaratan mutu, keamanan, dan pemanfaatan dalam pengangkutan dal am rangka\npemasukan dan pengeluaran sediaan farmasi dan alat kesehatan ke dalam dan\nwilayah Indonesia.\nPasal 22\nAyat (1)\nSekalipun sediaan farmasi dan alat kesehatan yang dimasukkan ke dalam wilayah\nIndonesia telah dilengkapi dengan dokumen hasil pengujian, namun demikian,\nsediaan farmasi dan alat kesehatan tersebut tetap harus memiliki izin edar untuk\ndapat diedarkan di wilayah Indonesia.\nHal ini dimaksudkan agar sediaan farmasi dan alat kesehatan yang akan diedarkan\ntersebut banar -benar telah memenuhi persyaratan mutu, keamanan, dan\nkemanfaatan.\nAyat (2)\nYang dimaksud dengan sesuai dengan ketentuan mengenai izin edar s ediaan\nfarmasi dan alat kesehatan adalah ketentuan mengenai tata cara memperoleh izin\nedar yang diatur dalam Peraturan Pemerintah ini.\nPasal 23\nAyat (1)\nYang dimaksud dengan sangat dibutuhkan dalam pemberian pelayanan kesehatan\nadalah keadaan dimana pen erima pelayanan kesehatan atas pertimbangan tenaga\nkesehatan yang berwenang sangat memerlukan sediaan farmasi yang berupa obat\ntertentu dalam pelayanan kesehatannya, sedangkan sediaan farmasi yang berupa\nobat tersebut belum dapat diproduksi di Indonesia at au ketersediaannya sangat\nterbatas atau sulit didapatkan dalam waktu yang segera.\npemasukan sediaan farmasi yang berupa obat yang sangat dibutuhkan dilakukan\nantara lain oleh rumah sakit, Palang Merah Indonesia, apotik, dan instansi farmasi\nrumah sakit.\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (2) …\nAyat (2)\nHuruf a\nkeadaan darurat adalah keadaan dimana penerima pelayanan kesehatan sangat\nmembutuhkan sediaan farmasi yang berupa obat tertentu dalam pelayanan\nkesehatan yang tidak dapat ditunda penggunaannya dalam jangka waktu tertentu\nkarena dapat membahayakan jiwa penerina pelayanan kesehatan yang\nbersangkutan.\nHuruf b\nCukup jelas\nHuruf c\nYang dimaksud dengan jumlahnya terbatas adalah sediaan farmasi yang berupa\nobat dalam jumlah yang cukup sesuai yang dibutuhkan untuk keperluan\npenerimaan pelayanan kesehatan guna kepentingan pelayanan kesehatannya pada\nsaat ini.\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nPasal 24\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 25\nAyat (1)\nYang dimaksud kerusakan kemasan yang langsung bersentuhan dengan produk\nsediaan farmasi dan alat kesehatan apabila kerusakan kemasan dimaksud\nmengakibatkan sediaan farmasi dan alat kesehatan yang berada dalam kemasan\ndimaksud tidak lagi memenuhi persyaratan mutu, keamanan, dan kemanfaatan.\nPRESIDEN\nREPUBLIK INDONESIA\nUntuk …\nUntuk itu, maka sediaan farmasi dan alat kesehatan yang tidak memenuhi\npersyaratan mutu, keamanan, dan kemanfaatan tersebut dilarang untuk diedarkan\nagar tidak menimbulkan dampak negatif kepada masyarakat seba gai pemakai\nsediaan farmasi dan alat kesehatan.\nAyat (2)\nCukup jelas\nPasal 26\nAyat (1)\nPenandaan dan informasi sediaan farmasi dan alat kesehatan yang tidak obyektif,\ntidak lengkap serta menyesatkan dapat men gakibatkan penggunaan sediaan\nfarmasi dan alat kesehatan yang salah, tidak tepat atau tidak rasional yang dapat\nmembahayakan kesehatan atau jiwa pengguna sediaan farmasi dan alat kesehatan.\nAyat (2)\nCukup jelas\nPasal 27\nCukup jelas\nPasal 28\nAyat (1)\nPersyaratan penandaan dan informasi dalam ayat ini disebut dengan persyaratan\nobyektivitas, kelengkapan dan tidak menyesatkan.\nAyat (2)\nHuruf a\nCukup jelas\nHuruf b\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nHuruf c …\nHuruf c\nCukup jelas\nHuruf d\nCukup jelas\nHuruf e\nCukup jelas\nHuruf f\nTidak semua sediaan farmasi dan alat kesehatan dipersyaratkan untuk\nmencantumkan batas kadaluwarsa, karena tidak semua memiliki batas kadaluwarsa\nsepanjang tetap memperhatikan upaya pemeliharaan mutu sediaan farmasi dan alat\nkesehatan.\nYang dipersyaratkan untuk mencantumkan batas kadaluwarsa hanya untuk sediaan\nfarmasi tertentu.\nAyat (3)\nCukup jelas\nPasal 29\nCukup jelas\nPasal 30\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 31\nCukup jelas\nPasal 32 …\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 32\nCukup jelas\nPasal 34\nAyat (1)\nYang dimaksud dengan upaya pemeliharaan mutu sediaan farmasi dan alat\nkesehatan adalah suatu kegiatan yang dilakukan dengan cara tertentu sesuai\ndengan persyaratan yang ditentukan untuk menjaga terpenuhinya persyaratan\nmutu, keamanan, dan kemanfaatan sediaan farmasi dan alat kesehatan.\nAyat (2)\nCukup jelas\nPasal 35\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 36\nCukup jelas\nPasal 37\nCukup jelas\nPasal 38\nCukup jelas\nPasal 39 …\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 39\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 40\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 41\nAyat (1)\nPengertian penarikan kembali sediaan farmasi dan alat kesehatan dari peredaran\nkarena dicabut izin edarnya termasuk pelarangan untuk memperdagangkan atau\nmenyerahkan sediaan farmasi dan alat kesehatan kepada pengguna.\nAyat (2)\nCukup jelas\nPasal 42\nAyat (1)\nPenyebarluasan informasi kepada masyarakat berkenaan dengan sediaan farmasi\ndan alat kesehatan yang sedang dalam penarikan kembali dari peredaran\ndimaksudkan agar masyarakat mengetahui secara benar produk sediaan farmasi\ndan alat kesehatan yang sedang dalam penarikan kembali dari peredaran serta tidak\nmenggunakannya dalam pelayanan kesehatan.\nAyat (2)\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 43 …\nPasal 43\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 44\nCukup jelas\nPasal 45\nAyat (1)\nYang dimaksud dengan setiap orang yang bertanggung jawab atas sarana\nkesehatan misalnya pimpinan rumah sakit.\nAyat (2)\nCukup jelas\nPasal 46\nKetentuan Pasal ini dimaksudkan agar setiap pelaksanaan pemusnahan sediaan\nfarmasi dan alat kesehatan dilakuka n dengan tidak mengakibatkan kerugian atau\nberdampak kesehatan masyarakat serta merusak lingkungan.\nPasal 47\nAyat (1)\nPemusnahan sediaan farmasi dan alat kesehatan yang harus dilaporkan adalah\npemusnahan sediaan farmasi dan alat kesehatan yang dilakuka n oleh orang yang\nmemproduksi, mengedarkan dan/atau bertanggung jawab atas kesehatan.\nAyat (2)\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (3) …\nAyat (3)\nCukup jelas\nPasal 48\nCukup jelas\nPasal 49\nCukup jelas\nPasal 50\nCukup jelas\nPasal 51\nHuruf a\nCukup jelas\nHuruf b\nCukup jelas\nHuruf c\nCukup jelas\nHuruf d\nCukup jelas\nHuruf e\nCukup jelas\nPasal 52\nYang dimaksud dengan badan yang diselenggarakan oleh masyarakat misalnya\nbadan usaha yang memproduksi dan mengedarkan sediaan farmasi dan alat\nkesehatan yang bukan diselenggarakan oleh Pemerintah.\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 53 …\nPasal 53\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 54\nCukup jelas\nPasal 55\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 56\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nPasal 57\nCukup jelas\nPasal 58\nCukup jelas\nPasal 59 …\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 59\nCukup jelas\nPasal 60\nCukup jelas\nPasal 61\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nPada dasarnya sediaan farmasi yang berupa obat berdasarkan resep dokter tidak\ndapat diganti dengan padanannya.\nNamun demikian dengan mempertimbangkan faktor keadaan ekonomi penerima\npelayanan kesehatan/pengguna, serta untuk melind ungi yang bersangkutan dari\npenggunaan sediaan farmasi dan alat kesehatan yang berupa obat yang tidak tepat\nsehingga dapat membahayakan kesehatan atau kesehatan jiwa, maka dapat\ndimungkinkan penggantian sediaan farmasi yang berupa obat generik, sepanjang\nhal tersebut disetujui oleh Dokter yang mengeluarkan resep. Penggunaan sediaan\nfarmasi yang berupa obat yang tidak tepat dalam hal ini adalah berkaitan dengan\njumlah sediaan farmasi yang berupa obat yang harus digunakan dalam pelayanan\nkesehatan yang bersangkutan.\nAyat (4)\nCukup jelas\nPasal 62\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 63 …\nPasal 63\nCukup jelas\nPasal 64\nCukup jelas\nPasal 65\nPengawasan atas segala kegiatan yang berhubungan dengan pengamanan sediaan\nfarmasi dan alat kesehatan dilaksanakan serta menjadi tanggung jawab dari Menteri.\nSekalipun demikian, dalam pelaksanaannya Menteri dibantu oleh tenaga pengawasan\ndalam hal terdapa t dugaan terjadinya pelanggaran hukum di bidang pengamanan\nsediaan farmasi dan alat kesehatan melalui pemeriksaan.\nPasal 66\nCukup jelas\nPasal 67\nCukup jelas\nPasal 68\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 69\nAyat (1)\nHuruf a …\nPRESIDEN\nREPUBLIK INDONESIA\nHuruf a\nNama tenaga pengawas pada surat perintah pemeriksaan adalah nama atau\nnama-nama tenaga pengawas yang akan melakukan atau diberi tugas untuk\nmelakukan pemeriksaan.\nDalam surat perintah pemeriksaan dapat disebutkan lebih dari 1 (satu) nama tenaga\npengawas apabila pemeriksaan dilakukan oleh lebih dari 1 (satu) orang tenaga\npengawas.\nHuruf b\nCukup jelas\nHuruf c\nSetiap pemeriksaan yang dilakukan oleh tenaga pengawas harus dilakukan atas\ndasar alasan mengapa dilakukan pemeriksaan dimaksud.\nHuruf d\nCukup jelas\nHuruf e\nCukup jelas\nHuruf f\nYang dimaksud dengan keterangan lain yang dianggap perlu adalah\nketerangan-keterangan yang berkaitan dengan pelaksanaan pemeriksaan oleh\ntenaga pengawas.\nAyat (2)\nCukup jelas\nPasal 70\nHak untuk m enolak dilakukannya pemeriksaan dalam ketentuan ini termasuk pula\napabila keterangan yang ada dalam tanda pengenal dan surat perintah pemeriksaan\ntidak sesuai dengan kenyataan yang ada dan ketidaklengkapan keterangan sesuai\ndengan ketentuan yang telah ditetapkan. Misalnya, nama tenaga pengawas pada surat\nPRESIDEN\nREPUBLIK INDONESIA\nperintah …\nperintah pemeriksaan tidak sama dengan nama tenaga pengawas pada tanda pengenal\natau surat perintah pemeriksaan tidak ditandatangani oleh Pejabat berwenang yang\nditunjuk oleh Menteri.\nPasal 71\nCukup jelas\nPasal 72\nAyat (1)\nTindakan administrasi terhadap sarana kesehatan misalnya tindakan administrasi\nyang dilakukan terhadap apotek, pedagang besar farmasi, pabrik obat dan bahan\nobat, laboratorium, dan sarana kesehatan lainnya.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nPasal 73\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 74\nCukup jelas\nPasal 75 …\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 75\nCukup jelas\nPasal 76\nCukup jelas\nPasal 77\nCukup jelas\nPasal 78\nCukup jelas\nPasal 79\nCukup jelas\nPasal 80\nCukup jelas\nPasal 81\nCukup jelas\nPasal 82\nCukup jelas\nPasal 83\nCukup jelas\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 3781\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  }
+ ]
+}

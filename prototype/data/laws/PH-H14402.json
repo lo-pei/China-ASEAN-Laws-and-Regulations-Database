@@ -1,0 +1,62 @@
+{
+ "id": "PH-H14402",
+ "title": {
+  "zh": null,
+  "en": "An Act Granting to \"Jolo Power Company, Incorporated,\" a Franchise to Install, Operate, and Maintain An Electric Light, Heat and Power Plant in the Municipality of Jolo, Province of Sulu, Philippine Islands.",
+  "orig": "An Act Granting to \"Jolo Power Company, Incorporated,\" a Franchise to Install, Operate, and Maintain An Electric Light, Heat and Power Plant in the Municipality of Jolo, Province of Sulu, Philippine Islands."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1930-11-28",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3770",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 576,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1930/act_3770_1930.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03770_1930_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03770_1930_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14402-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Subject to the rules and conditions established in Act Numbered Thirty-six hundred and\nthirty-six, there is hereby granted to \"Jolo Power Company, Incorporated,\" for a period of fifty years from the\napproval of this Act, the right, privilege and authority to construct, maintain and operate an electric light, heat\nand power system for the purpose of generating and distributing electric light, heat and power, for sale within\nthe limits of the municipality of Jolo, Province of Sulu, Philippine Islands."
+   }
+  },
+  {
+   "id": "PH-H14402-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, November 28, 1930."
+   }
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "id": "PH-H23029",
+ "title": {
+  "zh": null,
+  "en": "Imposing Additional Penalties for Rebellion, Insurrection, Sedition and Subversion Committed Within or Outside Philippine Territory",
+  "orig": "Imposing Additional Penalties for Rebellion, Insurrection, Sedition and Subversion Committed Within or Outside Philippine Territory"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1980-09-12",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 1735",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 990,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_01735_1980_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_01735_1980_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H23029-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Any person found guilty of subversion, rebellion or insurrection, or sedition, or conspiracy to\ncommit rebellion, or insurrection, or sedition whether Committed within or outside the territorial jurisdiction\nof the Philippines, shall suffer the penalty of forfeiture of his rights as a citizen of the Philippines, if he is a\nPhilippine citizen, and confiscation of his property, real or personal, in favor of the State, in addition to the\npenalties prescribed for the offense under existing law."
+   }
+  },
+  {
+   "id": "PH-H23029-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "After the arraignment of an accused who is charged with any of the offenses mentioned in\nSection 1, the trial may proceed notwithstanding the absence of the accused, provided that he has been duly\nnotified and his failure to appear is unjustified. Judgment may be promulgated in absentia and the penalty of\nconfiscation of his properties in the Philippines may be immediately executed.\nDone in the City of Manila, this 12th day of September, in the year of Our Lord, nineteen hundred and eighty."
+   }
+  }
+ ]
+}

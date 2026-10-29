@@ -1,0 +1,72 @@
+{
+ "id": "PH-H14496",
+ "title": {
+  "zh": null,
+  "en": "An Act Amending Section Two of Act Numbered Twenty-Nine Hundred and Eighty-Four.",
+  "orig": "An Act Amending Section Two of Act Numbered Twenty-Nine Hundred and Eighty-Four."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1931-11-13",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3865",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 886,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1931/act_3865_1931.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03865_1931_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03865_1931_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14496-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section two of Act Numbered Twenty-nine hundred and eighty-four is hereby amended to read\n\"Section 2. Every person, club, corporation or organization engaged in promoting sparring or boxing\nexhibitions shall pay an annual privilege tax as follows: in the City of Manila six hundred pesos; in the City of\nBaguio and in the capitals of the Provinces of Cebu, Iloilo, Zamboanga, and Davao four hundred pesos; in the\nmunicipalities of the first and second class two hundred eighty pesos; in the municipalities of third; fourth,\nand fifth class two hundred pesos, payable quarterly in advance, to the Collector of Internal Revenue or his\ndeputy, as the case may be, in addition to such tax as each municipality may fix by ordinance.\""
+   }
+  },
+  {
+   "id": "PH-H14496-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "All acts or parts of acts which may be inconsistent with this Act are hereby repealed."
+   }
+  },
+  {
+   "id": "PH-H14496-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, November 13, 1931."
+   }
+  }
+ ]
+}

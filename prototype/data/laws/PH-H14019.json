@@ -1,0 +1,62 @@
+{
+ "id": "PH-H14019",
+ "title": {
+  "zh": null,
+  "en": "An Act Authorizing the Remission of the Obligations of the Provinces of Abra, Bataan, Isabela, Palawan, Romblon, and Surigao to the Philippine Health Service.",
+  "orig": "An Act Authorizing the Remission of the Obligations of the Provinces of Abra, Bataan, Isabela, Palawan, Romblon, and Surigao to the Philippine Health Service."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1927-12-03",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3384",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 663,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1927/act_3384_1927.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03384_1927_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03384_1927_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14019-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The remission of the obligations of the Provinces of Abra, Bataan, Isabela, Palawan, Romblon,\nand Surigao to the Philippine Health Service amounting to ten thousand nine hundred thirty-one pesos and\ntwenty-four centavos, three thousand one hundred forty-four pesos and thirty-five centavos, seven thousand\nnine hundred thirtythree pesos and fifty-eight centavos, four thousand three hundred twenty pesos and three\ncentavos, six thousand eighty-one pesos and twenty-five centavos, and seven thou- sand seven hundred\nseventy-three pesos and forty centavos, respectively, is hereby authorized."
+   }
+  },
+  {
+   "id": "PH-H14019-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, December 3, 1927."
+   }
+  }
+ ]
+}

@@ -1,0 +1,898 @@
+{
+ "id": "ID-H2780",
+ "title": {
+  "zh": "助产法",
+  "en": "Law on Midwifery",
+  "id": "KEBIDANAN",
+  "orig": "KEBIDANAN",
+  "vi": "Luật về Hộ sinh",
+  "th": "พระราชบัญญัติว่าด้วยการผดุงครรภ์",
+  "ms": "Akta tentang Perbidanan"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02a",
+ "language": "id",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "2019",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU4-2019",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 61,
+ "chars": 51456,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Salinan%20UU%20Nomor%204%20Tahun%202019.pdf&fl=P18462"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\01_宪法与基础法\\印尼_文本_2019_KEBIDANAN.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 80 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H2780-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H2780-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20, Pasal 21, Pasal 28C, dan Pasal"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {
+    "id": ", Pasal 21, Pasal 28C, dan Pasal2SH ayat"
+   },
+   "text": {
+    "id": "Pasal 20, Pasal 21, Pasal 28C, dan Pasal2SH ayat\n(1) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945;\nDalam Undang-Undang ini yang dimaksud dengan:\n1. Kebidanan adalah segala sesuatu yang berhubungan\ndengan bidan dalam memberikan pelayanan\nkebidanan kepada perempuan selama masa sebelum\nhamil, masa kehamilan, persalinan, pascapersalinan,\nmasa nifas, bayi baru lahir, bayi, balita, dan anak\nprasekolah, termasuk kesehatan reproduksi\nperempuan dan keluarga berencana sesuai dengan\ntugas dan wewenangnya.\n2. Pelayanan Kebidanan adalah suatu bentuk pelayanan\nprofesional yang merupakan bagian integral dari\nsistem pelayanan kesehatan yang diberikan oleh\nbidan secara mandiri, kolaborasi, dan/atau rujukan.\nSK No 004079 A\n3. Bidan\nPRESIDEN\nREPUBLIK INDONESIA\n3. Bidan adalah seorang perempuan yang telah\nmenyelesaikan program pendidikan Kebidanan baik\ndi dalam negeri maupun di luar negeri yang diakui\nsecara sah oleh Pemerintah Pusat dan telah\nmemenuhi persyaratan untuk melakukan praktik\nKebidanan.\n4. Praktik Kebidanan adalah kegiatan pemberian\npelayanan yang dilakukan oleh Bidan dalam bentuk\nasuhan kebidanan.\n5. Asuhan Kebidanan adalah rangkaian kegiatan yang\ndidasarkan pada proses pengambilan keputusan dan\ntindakan yang dilakukan oleh Bidan sesuai dengan\nwewenang dan ruang lingkup praktiknya\nberdasarkan ilmu dan kiat Kebidanan.\n6. Kompetensi Bidan adalah kemampuan yang dimiliki\noleh Bidan yang meliputi pengetahuan, keterampilan,\ndan sikap untuk memberikan Pelayanan Kebidanan.\n7. Uji Kompetensi adalah proses pengukuran\npengetahuan, keterampilan, dan perilaku peserta\ndidik pada perguruan tinggi yang menyelenggarakan\nprogram studi Kebidanan.\n8. Sertifikat Kompetensi adalah surat tanda pengakuan\nterhadap Kompetensi Bidan yang telah lulus Uji\nKompetensi untuk melakukan Praktik Kebidanan.\n9. Sertifikat Profesi adalah surat tanda pengakuan\nuntuk melakukan Praktik Kebidanan yang diperoleh\nlulusan pendidikan profesi.\n10. Registrasi adalah pencatatan resmi terhadap Bidan\nyang telah memiliki Sertifikat Kompetensi atau\nSertifikat Profesi dan telah mempunyai kualifikasi\ntertentu lain serta mempunyai pengakuan secara\nhukum untuk menjalankan praktik Kebidanan.\nI 1. Surat Tanda Registrasi yang selanjutnya disingkat\nSTR adalah bukti tertulis yang diberikan oleh konsil\nKebidanan kepada Bidan yang telah diregistrasi.\nSK No 004080 A\n12. Surat\nPRESIDEN\nREPUBLIK INDONESIA\n12. Surat lzin Praktik Bidan yang selanjutnya disingkat\nSIPB adalah bukti tertulis yang diberikan oleh\nPemerintah Daerah kabupaten/kota kepada Bidan\nsebagai pemberian kewenangan untuk menjalankan\nPraktik Kebidanan.\n13. Fasilitas Pelayanan Kesehatan adalah suatu alat\ndan/atau tempat yang digunakan untuk\nmenyelenggarakan upaya pelayanan kesehatan baik\npromotif, preventif, kuratif, dan rehabilitatif yang\npelayanannya dilakukan oleh pemerintah dan/atau\nmasyarakat.\n15. Bidan Warga Negara Asing adalah Bidan yang\nberstatus bukan Warga Negara Indonesia.\n16. Klien adalah perseorangan, keluarga, atau kelompok\nyang melakukan konsultasi kesehatan untuk\nmemperoleh pelayanan kesehatan yang diperlukan\nsecara langsung maupun tidak langsung oleh Bidan.\n17. Organisasi Profesi Bidan adalah wadah yang\nmenghimpun Bidan secara nasional dan berbadan\nhukum sesuai dengan ketentuan peraturan\nperundang-undangan.\n18. Konsil Kebidanan yang selanjutnya disebut Konsil\nadalah bagian dari Konsil Tenaga Kesehatan\nIndonesia yang tugas, fungsi, wewenang, dan\nkeanggotaannya sesuai dengan ketentuan peraturan\nperundang-undangan.\n19. Wahana Pendidikan Kebidanan adalah Fasilitas\nPelayanan Kesehatan yang digunakan sebagai tempat\npenyelenggaraan pendidikan Kebidanan.\nSK No 004081 A\n20.Pernerintah...\n14. Tempat Praktik Mandiri Bidan adalah Fasilitas\nPelayanan Kesehatan yang diselenggarakan oleh\nBidan lulusan pendidikan profesi untuk memberikan\npelayanan langsung kepada klien.\nPRESIDEN\nREPUBLIK INDONESIA\n20. Pemerintah Pusat adalah Presiden Republik\nIndonesia yang memegang kekuasaan pemerintahan\nnegara Republik Indonesia yang dibantu oleh Wakil\nPresiden dan menteri sebagaimana dimaksud dalam\nUndang-Undang Dasar Negara Republik Indonesia\nTahun 1945.\n21. Pemerintah Daerah adalah kepala daerah sebagai\nunsur penyelenggara pemerintahan daerah yang\nmemimpin pelaksanaan urusan pemerintahan yang\nmenjadi kewenangan daerah otonom.\n22.Menterr adalah menteri yang menyelenggarakan\nurusan pemerintahan di bidang kesehatan.\nPasal 2\nPenyelenggaraan Kebidanan berasaskan\na. perikemanusiaan;\nb. nilai ilmiah;\nc. etika dan profesionalitas;\nd. manfaat;\ne. keadilan;\nf. pelindungan; dan\ng. keselamatan Klien.\nPasal 3\nPengaturan penyelenggaraan Kebidanan bertujuan:\na. meningkatkan mutu pendidikan Bidan;\nb. meningkatkan mutu Pelayanan Kebidanan;\nc. memberikan pelindungan dan kepastian hukum\nkepada Bidan dan Klien; dan\nd. meningkatkan derajat kesehatan masyarakat,\nterutama kesehatan ibu, bayi baru lahir, bayi, balita,\ndan anak prasekolah.\nSK No 004145 A BAB II\nPRESIDEN\nREPUBLIK INDONESIA\nBAB II\nPENDIDIKAN KEBIDANAN\nPasal 4\nPendidikan Kebidanan terdiri atas:\na. pendidikan akademik;\nb. pendidikan vokasi; dan\nc. pendidikan profesi.\nPasal 5\n(1) Pendidikan akademik sebagaimana dimaksud dalam\nPasal 4 huruf a terdiri atas:\na. program sarJana;\nb. program magister; dan\nc. program doktor.\n(2) Lulusan pendidikan akademik sebagaimana\ndimaksud pada ayat (1) huruf a dapat melanjutkan\nprogram pendidikan profesi.\nPasal 6\n(1) Pendidikan vokasi sebagaimana dimaksud dalam\nPasal 4 huruf b merupakan program diploma tiga\nkebidanan.\n(21 Lulusan pendidikan vokasi sebagaimana dimaksud\npada ayat (1) yang akan menjadi Bidan lulusan\npendidikan profesi harus melanjutkan program\npendidikan setara sarjana ditambah pendidikan\nprofesi.\nPasal 7\nPendidikan profesr sebagaimana dimaksud dalam Pasal 4\nhuruf c merupakan program lanjutan dari program\npendidikan setara sarjana atau program sarjana.\nSK No 004083 A\nPasal 8\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 8\nLulusan pendidikan akademik, vokasi, dan profesi\nsebagaimana dimaksud dalam Pasal 4 mendapatkan gelar\nsesuai dengan ketentuan peraturan perundang-\nundangan.\nPasal 9\n(1) Pendidikan Kebidanan sebagaimana dimaksud dalam\nPasal 4 diselenggarakan oleh perguruan tinggi sesuai\ndengan ketentuan peraturan perundang-undangan.\n(2) Perguruan tinggi dalam menyelenggarakan\npendidikan Kebidanan sebagaimana dimaksud pada\nayat (1) harus menyediakan Fasilitas Pelayanan\nKesehatan sebagai Wahana Pendidikan Kebidanan.\n(3) Penyediaan Fasilitas Pelayanan Kesehatan sebagai\nWahana Pendidikan Kebidanan sebagaimana\ndimaksud pada ayat (21dapat dilakukan melalui:\na. kepemilikan; atau\nb. kerja sama.\n(4) Fasilitas Pelayanan Kesehatan sebagai Wahana\nPendidikan Kebidanan sebagaimana dimaksud pada\nayat (21 merupakan Fasilitas Pelayanan Kesehatan\nyang memenuhi persyaratan.\n(5) Ketentuan lebih lanjut mengenai Fasilitas Pelayanan\nKesehatan sebagai Wahana Pendidikan Kebidanan\nsebagaimana dimaksud pada ayat (21sampai dengan\nayat (4) diatur dengan Peraturan Menteri.\nPasal 1O\nPerguruan tinggi yang menyelenggarakan pendidikan\nKebidanan diselenggarakan oleh Pemerintah Pusat atau\nmasl'arakat sesuai dengan ketentuan peraturan\nperundang-undangan.\nSK No 004084A\nPasal 11...\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 1 1\n(1) Penyelenggaraan pendidikan Kebidanan harus\nmemenuhi Standar Nasional Pendidikan Kebidanan.\n(21 Standar Nasional Pendidikan Kebidanan\nsebagaimana dimaksud pada ayat (1) mengacu pada\nStandar Nasional Pendidikan Tinggi.\n(3) Standar Nasional Pendidikan Kebidanan\nsebagaimana dimaksud pada ayat (1) disusun secara\nbersama oleh kementerian yang menyelenggarakan\nurusan pemerintahan di bidang kesehatan,\nkementerian yang menyelenggarakan tugas\npemerintahan di bidang pendidikan tinggi, asosiasi\ninstitusi pendidikan, dan Organisasi Profesi Bidan.\n(4) Ketentuan mengenai Standar Nasional Pendidikan\nKebidanan sebagaimana dimaksud pada ayat (l)\ndiatur dengan Peraturan Menteri yang\nmenyelenggarakan tugas pemerintahan di bidang\npendidikan tinggi.\nPasal 12\n( 1) Dalam rangka menjamin mutu lulusan,\npenyelenggara pendidikan Kebidanan hanya dapat\nmenerima mahasiswa sesuai dengan kuota nasional.\n(2) Kuota nasional sebagaimana dimaksud pada ayat (1)\ndidasarkan pada kebutuhan Bidan di daerah masing-\nmasing.\n(3) Ketentuan mengenai kuota nasional penerimaan\nmahasiswa sebagaimana dimaksud pada ayat (1)\ndiatur dengan Peraturan Menteri yang\nmenyelenggarakan tugas pemerintahan di bidang\npendidikan tinggi setelah berkoordinasi dengan\nMenteri.\nSK No 004085 A\nPasal 13\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 13\n(1) Perguruan tinggi yang menyelenggarakan pendidikan\nKebidarran harus memiliki dosen dan tenaga\nkependidikan sesuai dengan ketentuan peraturan\npemndang-undangan.\n(2) Dosen sebagaimana dimaksud pada ayat (1) berasal\ndari:\na. perguruan tinggi; dan/atau\nb. Wahana Pendidikan Kebidanan.\n(3) Dosen sebagaimana dimaksud pada ayat (1)\nmempunyai hak dan kewajiban sesuai dengan\nketentuan peraturan perundang-undangan.\nPasal 14\n(1) Dosen yang berasal dari Wahana Pendidikan\nKebidanan sebagaimana dimaksud dalam Pasal 13\nayat (2) huruf b melakukan pendidikan, penelitian,\npengabdian kepada masyarakat, dan pelayanan\nkesehatan.\n(2) Dosen yang berasal dari Wahana Pendidikan\nKebidanan sebagaimana dimaksud dalam Pasal 13\nayat (21huruf b memiliki kesetaraan, pengakuan, dan\nangka kredit yang memperhitungkan kegiatan\npelayanan kesehatan.\n(3) Ketentuan lebih lanjut mengenai kesetaraan,\npengakuan, dan angka kredit dosen yang berasal dari\nWahana Pendidikan Kebidanan sebagaimana\ndimaksud pada ayat (2) diatur dalam Peraturan\nPemerintah.\nPasal 15\nTenaga kependidikan sebagaimana dimaksud dalam pasal\n13 ayat (1) dapat bcrasal dari pegawai negeri sipil atau\nnonpegar,vai negeri sipil sesuai dengan ketentuan\nperaturan perundang-und angan.\nSK No 004086 A\nPasal 16\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 16\n(1) Mahasiswa Kebidanan pada akhir masa pendidikan\nvokasi atau pendidikan profesi harus mengikuti Uji\nKompetensi yang bersifat nasional.\n(21 Uji Kompetensi sebagaimana dimaksud pada ayat (1)\nmerupakan syarat kelulusan pendidikan vokasi atau\npendidikan profesi.\nPasal 17\n(1) Uji Kompetensi sebagaimana dimaksud dalam Pasal\n16 diselenggarakan oleh perguruan tinggi bekerja\nsama dengan Organisasi Profesi Bidan, lembaga\npelatihan tenaga kesehatan, atau lembaga sertifikasi\nprofesi tenaga kesehatan yang terakreditasi.\n(21 Uji Kompetensi sebagaimana dimaksud pada ayat (1)\nditujukan untuk mencapai standar kompetensi\nBidan.\nPasal 18\n(1) Standar kompetensi Bidan sebagaimana dimaksud\ndalam Pasal 17 ayat (2) disusun oleh Organisasi\nProfesi Bidan dan Konsil berkoordinasi dengan Konsil\nTenaga Kesehatan Indonesia.\n(21 Standar kompetensi Bidan sebagaimana dimaksud\npada ayat (1) merupakan bagian dari standar profesi\nBidan yang disahkan oleh Menteri.\nPasal 19\n(1) Mahasiswa pendidikan vokasi Kebidanan yang lulus\nUji Kompetensi memperoleh Sertilikat Kompetensi\nyang diterbitkan oleh perguruan tinggi.\n(2) Mahasiswa pendidikan profesi Kebidanan yang lulus\nUji Kompetensi memperoleh Sertifikat profesi yang\nditerbitkan oleh perguruan tinggi.\nSK No 004087 A\nPasal20...\nPRESIDEN\nREPUBLIK INDONESIA\n- 1 1-\nPasal 20\nTata cara Uji Kompetensi dilaksanakan sesuai dengan\nketentuan peraturan perundang-undangan.\nBAB III\nREGISTRASI DAN IZIN PRAKTIK\nBagian Kesatu\nRegistrasi"
+   }
+  },
+  {
+   "id": "ID-H2780-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\n(1) Setiap Bidan yang akan menjalankan Praktik\nKebidanan wajib memiliki STR.\n(2) STR sebagaimana dimaksud pada ayat (1) diberikan\noleh Konsil kepada Bidan yang memenuhi\npersyaratan.\n(3) Persyaratan sebagaimana dimaksud pada ayat (2)\nmeliputi:\na. memiliki rjazah dari perguruan tinggi yang\nmenyelenggarakan pendidikan Kebidanan sesuai\ndengan ketentuan peraturan perundang-\nundangan;\nb. memiliki Sertifikat Kompetensi atau Sertifikat\nProfesi;\nc. memiliki surat keterangan sehat fisik dan mental;\nd. memiliki surat pernyataan telah mengucapkan\nsumpah/janji profesi; dan\ne. membuat pernyataan tertulis untuk mematuhi\ndan melaksanakan ketentuan etika profesi.\nSK No 004088 A\nPasal22...\nPRESIDEN\nREPUBLIK INDONESIA\n-t2-"
+   }
+  },
+  {
+   "id": "ID-H2780-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\n(1) STR berlaku selama 5 (lima) tahun dan dapat\ndiregistrasi ulang setelah memenuhi persyaratan.\n(2) Persyaratan untuk Registrasi ulang sebagaimana\ndimaksud pada ayat (1) meliputi:\na. memiliki STR lama;\nb. memiliki Sertifikat Kompetensi atau Sertifikat\nProfesi;\nc. memiliki surat keterangan sehat fisik dan mental;\nd. membuat pernyataan tertulis mematuhi dan\nmelaksanakan ketentuan etika profesi;\ne. telah mengabdikan diri sebagai tenaga profesi\natau vokasi; dan\nf. memenuhi kecukupan dalam kegiatan pelayanan,\npendidikan, pelatihan, danlatau kegiatan ilmiah\nlainnya."
+   }
+  },
+  {
+   "id": "ID-H2780-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\nKonsil harus menerbitkan STR paling lama 3O (tiga puluh)\nhari kerja terhitung sejak pengajuan STR diterima."
+   }
+  },
+  {
+   "id": "ID-H2780-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 24\nKetentuan lebih lanjut mengenai tata cara Registrasi dan\nRegistrasi ulang sebagaimana dimaksud dalam Pasal 2l\nsampai dengan Pasal 23 diatur dalam Peraturan Konsil.\nBagian Kedua\nIzin Praktik"
+   }
+  },
+  {
+   "id": "ID-H2780-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\n(1) Bidan yang akan menjalankan Praktik Kebidanan\nwajib memiliki izin praktik.\n(2) rzin. .\nSK No 004146 A\nPRESIDEN\nREPUBLIK INDONESIA\n_ 13_\n(21 lzin praktik sebagaimana dimaksud pada ayat (1)\ndiberikan dalam bentuk SIPB.\n(3) SIPB sebagaimana dimaksud pada ayat (21diberikan\noleh Pemerintah Daerah kabupaten/kota atas\nrekomendasi pejabat kesehatan yang berwenang di\nkabupaten/kota tempat Bidan menjalankan\npraktiknya.\n(41 Pemerintah Daerah kabupaten/kota sebagaimana\ndimaksud pada ayat (3) harus menerbitkan SIPB\npaling lama 15 (lima belas) hari kerja sejak pengajuan\nSIPB diterima.\n(5) Untuk mendapatkan SIPB sebagaimana dimaksud\npada ayat (3), Bidan harus memiliki:\na. STR yang masih berlaku; dan\nb. tempat praktik.\n(6) SIPB berlaku apabila:\na. STR masih berlaku; dan\nb. Bidan berpraktik di tempat sebagaimana\ntercantum dalam SIPB.\n(1)\n(21"
+   }
+  },
+  {
+   "id": "ID-H2780-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\nBidan paling banyak mendapatkan 2 (dua) SIPB.\nSIPB sebagaimana dimaksud pada ayat (1) berlaku\nuntuk:\na. 1 (satu) di Tempat Praktik Mandiri Bidan dan 1\n(satu) di Fasilitas Pelayanan Kesehatan selain dr\nTempat Praktik Mandiri Bidan; atau\nb. 2 (dua) Praktik Kebidanan di Fasilitas pelayanan\nKesehatan selain di Tempat Praktik Mandiri\nBidan.\nSK No 004090 A"
+   }
+  },
+  {
+   "id": "ID-H2780-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\nSIPB tidak berlaku apabila:\na. Bidan meninggal dunia;\nb. habis masa berlakunya;\nc. dicabut berdasarkan ketentuan\nperundang-undangan ; atau\nd. atas permintaan sendiri.\nperaturan"
+   }
+  },
+  {
+   "id": "ID-H2780-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\n(1) Setiap Bidan harus menjalankan Praktik Kebidanan\ndi tempat praktik yang sesuai dengan SIPB.\n(21 Bidan yang menjalankan Praktik Kebidanan di\ntempat praktik yang tidak sesuai dengan SIPB\nsebagaimana dimaksud pada ayat (1) dikenai sanksi\nadministratif berupa:\na. teguran tertulis;\nb. penghentian sementara kegiatan; atau\nc. pencabutan tzin."
+   }
+  },
+  {
+   "id": "ID-H2780-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\nKetentuan lebih lanjut mengenai izin praktik Bidan\nsebagaimana dimaksud dalam Pasal 25 sampai dengan\nPasal 28 diatur dengan Peraturan Menteri."
+   }
+  },
+  {
+   "id": "ID-H2780-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\n(1) Penyelenggara Fasilitas Pelayanan Kesehatan harus\nmendayagunakan Bidan yang memiliki STR dan SIPB.\n(21 Penyelenggara Fasilitas Pelayanan Kesehatan yang\nmendayagunakan Bidan yang tidak memiliki STR dan\nSIPB sebagaimana dimaksud pada ayat (1) dikenai\nsanksi administratif berupa:\na.teguran...SK No 004091 A\nPRESIDEN\nREPUBLIK INDONESIA\n1E- r rJ-\na. teguran tertulis;\nb. penghentian sementara kegiatan; atau\nc. pencabutan izin.\n(3) Ketentuan lebih laniut mengenai tata cara pengenaan\nsanksi administratif sebagaimana dimaksud pada\nayat (2) diatur dengan Peraturan Menteri.\nBAB IV\nBIDAN WARGA NEGARA INDONESIA\nLULUSAN LUAR NEGERI"
+   }
+  },
+  {
+   "id": "ID-H2780-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\n(1) Bidan warga negara Indonesia lulusan luar negeri\nyang akan menjalankan Praktik Kebidanan di\nIndonesia wajib memiliki STR dan SIPB.\n(2) STR dan SIPB sebagaimana dimaksud pada ayat (1),\ndiperoleh setelah Bidan warga negara Indonesia\nlulusan luar negeri mengikuti evaluasi kompetensi."
+   }
+  },
+  {
+   "id": "ID-H2780-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 32\n(1) Evaluasi kompetensi sebagaimana dimaksud dalam\nPasal 31 ayat (2) dilakukan melalui:\na. penilaian kelengkapan administratif; dan\nb. penilaian kemampuan melakukan praktik\nKebidanan.\n(21 Penilaian kelengkapan administratif sebagaimana\ndimaksud pada ayat (1) huruf a meliputi:\na. penilaian keabsahan dan penyetaraan ijazah oleh\nmenteri yang menyelenggarakan tugas\npemerintahan di bidang pendidikan tinggi;\nb. surat keterangan sehat fisik dan rnental; dan\nSK No 004092 A\nc.surat...\nPRESIDEN\nREPUBLIK INDONESIA\nc. surat pernyataan tertulis untuk mematuhi dan\nmelaksanakan ketentuan etika profesi.\n(3) Penilaian kemampuan melakukan Praktik Kebidanan\nsebagaimana dimaksud pada ayat (1) huruf b\ndrlakukan melalui Uji Kompetensi sesuai dengan\nketentuan peraturan perundang-undangan.\n(4) Bidan warga negara Indonesia lulusan luar negeri\nyang telah memenuhi penilaian kelengkapan\nadministratif dan lulus penilaian kemampuan\nmelakukan Praktik Kebidanan memperoleh surat\nketerangan lulus evaluasi kompetensi.\n(5) Bidan warga negara Indonesia lulusan luar negeri\nyang telah memperoleh surat keterangan\nsebagaimana dimaksud pada ayat (41 dapat\nrnemperoleh STR.\n(6) STR sebagaimana dimaksud pada ayat (5) diberikan\noleh Konsil setelah memenuhi persyaratan.\n(7) Ketentuan lebih lanjut mengenai evaluasi kompetensi\nsebagaimana dimaksud pada ayat (1) sampai dengan\nayat (41diatur dengan Peraturan Menteri."
+   }
+  },
+  {
+   "id": "ID-H2780-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 33\n(1) Ketentuan mengenai tata cara Registrasi, masa\nberlaku STR, dan Registrasi ulang STR bagi Bidan\nwarga negara Indonesia lulusan luar negeri berlaku\nsecara mutatis mutandis sesuai Pasal 2I sampai\ndengan Pasal 23.\n(21 Ketentuan mengenai izin Praktik Kebidanan bagi\nBidan warga negara Indonesia lulusan luar negeri\nberlaku secara mutatis mutandis sesuai Pasal 25\nsampai dengan Pasal 30.\nSK No 004093 A\nBAB V\nPRESIDEN\nREPUBLIK INDONESIA\n-t7-\nBAB V\nBIDAN WARGA NEGARA ASING"
+   }
+  },
+  {
+   "id": "ID-H2780-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 34\n(1) Bidan Warga Negara Asing dapat menjalankan\nPraktik Kebidanan di Indonesia berdasarkan\npermintaan pengguna Bidan Warga Negara Asing.\n(21 Penggunaan Bidan Warga Negara Asing harus\nmendapatkan rzin Pemerintah Pusat dengan\nmempertimbangkan ketersediaan Bidan yang ada di\nIndonesia.\n(3) Izin sebagaimana dimaksud pada ayat (21\ndilaksanakan sesuai dengan ketentuan peraturan\nperundang-undangan di bidang ketenagakerjaan.\n(4) Bidan Warga Negara Asing yang menyelenggarakan\nPraktik Kebidanan di Indonesia sebagaimana\ndimaksud pada ayat (1) hanya dilakukan untuk alih\nteknologi dan/atau ilmu pengetahuan."
+   }
+  },
+  {
+   "id": "ID-H2780-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 35\n(1) Bidan Warga Negara Asing yang akan menjalankan\nPraktik Kebidanan di Indonesia wajib memiliki STR\nsementara dan SIPB.\n(21 STR sementara dan SIPB sebagaimana dimaksud\npada ayat (1), diperoleh setelah Bidan Warga Negara\nAsing mengikuti evaluasi kompetensi."
+   }
+  },
+  {
+   "id": "ID-H2780-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 36\n(1) Evaluasi kompetensi sebagaimana dimaksud dalam\nPasal 35 ayat (2) dilakukan melalui:\na. penilaian kelengkapan administratif; dan\nb. penilaian kemampuan melakukan praktik\nKebidanan.\n(2) Penilaian. . .\nSK No 004147 ASK No 004079 A\nPRESIDEN\nREPUBLIK INDONESTA\n_ 18_\n(2) Penilaian kelengkapan administratif sebagaimana\ndimaksud pada ayat (1) huruf a meliputi:\na. penilaian keabsahan dan kesetaraan ijazah oleh\nmenteri yang menyelenggarakan tugas\npemerintahan di bidang pendidikan tinggi;\nb. surat keterangan sehat fisik dan mental; dan\nc. surat pernyataan tertulis untuk mematuhi dan\nmelaksanakan ketentuan etika profesi.\n(3) Penilaian kemampuan melakukan Praktik Kebidanan\nsebagaimana dimaksud pada ayat (1) huruf b\ndilakukan melalui Uji Kompetensi.\n(4) Bidan Warga Negara Asing yang telah memenuhi\npenilaian kelengkapan administratif dan lulus\npenilaian kemampuan melakukan Praktik Kebidanan\nmemperoleh surat keterangan lulus evaluasi\nkompetensi.\n(5) Selain mengikuti evaluasi kompetensi, Bidan Warga\nNegara Asing harus memenuhi persyaratan lain\nsesuai dengan ketentuan peraturan perundang-\nundangan.\n(6) Ketentuan lebih lanjut mengenai evaluasi kompetensi\nsebagaimana dimaksud pada ayat (1) sampai dengan\nayat (4) diatur dengan Peraturan Menteri."
+   }
+  },
+  {
+   "id": "ID-H2780-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 37\n(1) Bidan yang telah memperoleh surat keterangan lulus\nevaluasi kompetensi sebagaimana dimaksud dalam\nPasal 36 ayat (4) dapat mengajukan permohonan STR\nsementara.\n(2) STR sementara sebagaimana dimaksud pada ayat (1)\ndiberikan oleh Konsil setelah memenuhi persyaratan.\n(3) STR sementara sebagaimana dimaksud pada ayat (21\nmerupakan persyaratan untuk memperoleh SIPB.\nSK No 004095 A Pasal 38. . .\nPRESIDEN\nREPUBLIK INDONESIA\n_19_"
+   }
+  },
+  {
+   "id": "ID-H2780-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 38\n(1) STR sementara bagi Bidan Warga Negara Asing\nberlaku paling lama 1 (satu) tahun dan dapat\ndiperpanjang hanya untuk 1 (satu) tahun berikutnya.\n(21 SIPB bagi Bidan Warga Negara Asing berlaku paling\nlama 1 (satu) tahun dan dapat diperpanjang hanya\nuntuk 1 (satu) tahun berikutnya."
+   }
+  },
+  {
+   "id": "ID-H2780-A39",
+   "no": 39,
+   "noLabel": {
+    "id": "Pasal 39"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 39\n(1) Ketentuan lebih lanjut mengenai tata cara Registrasi\nSTR sementara dan Registrasi ulang STR sementara\nbagi Bidan Warga Negara Asing diatur dalam\nPeraturan Konsil.\n(21 Ketentuan lebih lanjut mengenai SIPB bagi Bidan\nWarga Negara Asing diatur dalam Peraturan Menteri."
+   }
+  },
+  {
+   "id": "ID-H2780-A40",
+   "no": 40,
+   "noLabel": {
+    "id": "Pasal 40"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 40\n(1) Penyelenggara Fasilitas Pelayanan Kesehatan dapat\nrnendayagunakan Bidan Warga Negara Asing yang\ntelah memiliki:\na. STR sementara;\nb. SIPB; dan\nc. tzin sesuai dengan ketentuan peraturan\nperundang-undangan di bidang ketenagakerjaan.\n(21 Penvelenggara Fasilitas Pelayanan Kesehatan yang\nmendayagunakan Bidan Warga Negara Asing yang\ntidak sesuai dengan ketentuan sebagaimana\ndimaksud pada ayat (i) dikenai sanksi administratif\nberupa:\na. teguran tertulis;\nb. penghentian sementara kegiatan; atau\nc. pencabutan izin.\nSK No 004096A\n(3) Ketentuan\nPRESIDEN\nREPUBLIK INDONESIA\n_20_\n(3) Ketentuan lebih lanjut mengenai tata cara pengenaan\nsanksi administratif sebagaimana dimaksud pada\nayat (21diatur dalam Peraturan Menteri.\nBAB VI\nPRAKTIK KEBIDANAN\nBagian Kesatu\nUmum\nPasal 4 1\n(1) Praktik Kebidanan dilakukan di:\na. Tempat Praktik Mandiri Bidan; dan\nb. Fasilitas Pelayanan Kesehatan lainnya.\n(2) Praktik Kebidanan sebagaimana dimaksud pada ayat\n(1) harus dilakukan sesuai dengan kompetensi dan\nkewenangan serta mematuhi kode etik, standar\nprofesi, standar pelayanan profesi, dan standar\nprosedur operasional."
+   }
+  },
+  {
+   "id": "ID-H2780-A42",
+   "no": 42,
+   "noLabel": {
+    "id": "Pasal 42"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 42\n(1) Pengaturan, penetapan dan pembinaan Praktik\nKebidanan dilaksanakan oleh Konsil.\n(21 Konsil sebagaimana dimaksud pada ayat (1)\nmerupakan bagian dari Konsil Tenaga Kesehatan\nIndonesia yang diatur dengan Peraturan Presiden."
+   }
+  },
+  {
+   "id": "ID-H2780-A43",
+   "no": 43,
+   "noLabel": {
+    "id": "Pasal 43"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 43\n(1) Bidan lulusan pendidikan diploma tiga hanya dapat\nmelakukan Praktik Kebidanan di Fasilitas pelayanan\nKesehatan.\nSK No 004097 A\n(2) Bidan\nPRESIDEN\nREPUBLIK INDONESIA\n(21 Bidan lulusau pendidikan profesi dapat melakukan\nPraktik Kebidanan di Tempat Praktik Mandiri Bidan\ndan di Fasilitas Pelayanan Kesehatan lainnya.\n(3) Praktik Mandiri Bidan sebagaimana dimaksud pada\nayat (2) dilakukan hanya pada 1 (satu) Tempat\nPraktik Mandiri Bidan."
+   }
+  },
+  {
+   "id": "ID-H2780-A44",
+   "no": 44,
+   "noLabel": {
+    "id": "Pasal 44"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 44\n(1) Bidan lulusan pendidikan profesi yang menjalankan\nPraktik Kcbidanan di Tempat Praktik Mandiri Bidan\nwajib memasang papan nama praktik.\n(21 Ketcntuan mengenai papan nama praktik\nsebagaimana dimaksud pada ayat (1) dilaksanakan\nsesuai dengan ketentuan peraturan perundang-\nundangan.\n(3) Bidan yang tidak memasang papan nama praktik\nsebagaimana dimaksud pada ayat (1) dikenai sanksi\nadministratif berupa:\na. tcguran lisan;\nb. perir.rgatan tertulis;\nc. denda administratif; dan/atau\nd. pencabutan izin.\n(4\\ Ketentuan lebih lanjut mengenai tata cara pengenaan\nsanksi administratif sebagaimana dimaksud pada\nayat (3) diatur dengan Peraturan Menteri."
+   }
+  },
+  {
+   "id": "ID-H2780-A45",
+   "no": 45,
+   "noLabel": {
+    "id": "Pasal 45"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 45\n(1) Bidan yang menjalankan Praktik Kebidanan di\nTempat Praktik Mandiri Bidan wajib melengkapi\nsarana dan prasarana pelayanan sesuai dengan\nstandar pelayanan dan ketentuan peraturan\nperundang-undangan.\n(2) Bidan...SK No 004148 A\nPRESIDEN\nREPUBLIK INDONESIA\n(21 Bidan yang tidak melengkapi sarana dan prasarana\npelayanan sebagaimana dimaksud pada ayat (1)\ndikenai sanksi administratif berupa:\na. teguran lisan;\nb. peringatan tertulis;\nc. denda administratif; dan/atau\nd. pencabutan izin.\n(3) Ketentuan mengenai tata cara pengenaan sanksi\nadministratif sebagaimana dimaksud pada ayat (21\ndiatur dengan Peraturan Menteri.\nBagian Kedua\nT\\rgas dan Wewenang"
+   }
+  },
+  {
+   "id": "ID-H2780-A46",
+   "no": 46,
+   "noLabel": {
+    "id": "Pasal 46"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 46\n(1) Dalam menyelenggarakan Praktik Kebidanan, Bidan\nbertugas memberikan pelayanan yang meliputi:\na. pelayanan kesehatan ibu;\nb. pelayanan kesehatan anak;\nc. pelayanan kesehatan reproduksi perempuan dan\nkeluarga berencana;\nd. pelaksanaan tugas berdasarkan pelimpahan\nwewenang; dan/atau\ne. pelaksanaan tugas dalam keadaan keterbatasan\ntertentu.\n(21 Tugas Bidan sebagaimana dimaksud pada ayat (1)\ndapar dilaksanakan secara bersama atau sendiri.\n(3) Pelaksanaan tugas sebagaimana dimaksud pada ayat\n(1) dilaksanakan secara bertanggung jawab dan\nakuntabel.\nSK No 004099 A Pasal 47 .\nPRESIDEN\nREPUBLIK INDONESIA\n-23"
+   }
+  },
+  {
+   "id": "ID-H2780-A47",
+   "no": 47,
+   "noLabel": {
+    "id": "Pasal 47"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 47\n(1) Dalam menyelenggarakan Praktik Kebidanan, Bidan\ndapat berperan sebagai:\na. pemberi Pelayanan Kebidanan;\nb. pengelola Pelayanan Kebidanan;\nc. penyuluh dan konselor;\nd. pendidik, pembimbing, dan fasilitator klinik;\ne. penggerak peran serta masyarakat dan\npemberdayaan perempuan; dan/atau\nf. peneliti.\n(21 Peran Bidan sebagaimana dimaksud pada ayat (1)\ndilaksanakan sesuai dengan ketentuan peraturan\nperundang-undangan."
+   }
+  },
+  {
+   "id": "ID-H2780-A48",
+   "no": 48,
+   "noLabel": {
+    "id": "Pasal 48"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 48\nBidan dalam penyelenggaraan Praktik Kebidanan\nsebagaimana dimaksud dalam Pasal 46 dan Pasal 47,\nharus sesuai dengan kompetensi dan kewenangannya.\nParagraf 1\nPelayanan Kesehatan Ibu"
+   }
+  },
+  {
+   "id": "ID-H2780-A49",
+   "no": 49,
+   "noLabel": {
+    "id": "Pasal 49"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 49\nDalam menjalankan tugas memberikan pelayanan\nkesehatan ibu sebagaimana dimaksud dalam pasal 46 ayat\n(1) huruf a, Bidan berwenang:\na. memberikan Asuhan Kebidanan pada masa sebelum\nhamil;\nSK No 004149 A\nb. memberikan\nPRESIDEN\nREPUBLIK INDONESIA\nb. memberikan Asuhan Kebidanan pada masa kehamilan\nnormal;\nc. memberikan Asuhan Kebidanan pada masa persalinan\ndan menolong persalinan normal;\nd. memberikan Asuhan Kebidanan pada masa nifas;\ne. melakukan pertolongan pertama kegawatdaruratan\nibu hamil, bersalin, nifas, dan rujukan; dan\nf. melakukan deteksi dini kasus risiko dan komplikasi\npada masa kehamilan, masa persalinan,\npascapersalinan, masa nifas, serta asuhan\npascakeguguran dan dilanjutkan dengan rujukan.\nParagraf 2\nPelayanan Kesehatan Anak"
+   }
+  },
+  {
+   "id": "ID-H2780-A50",
+   "no": 50,
+   "noLabel": {
+    "id": "Pasal 50"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 50\nDalam menjalankan tugas memberikan pelayanan\nkesehatan anak sebagaimana dimaksud dalam Pasal 46\nayat (1) huruf b, Bidan berwenang:\na. memberikan Asuhan Kebidanan pada bayi baru lahir,\nbayi, balita, dan anak prasekolah;\nb. memberikan imunisasi sesuai program Pemerintah\nPusat;\nc. melakukan pemantauan tumbuh kembang pada bayi,\nbalita, dan anak prasekolah serta deteksi dini kasus\npenyulit, gangguan tumbuh kembang, dan rujukan;\ndan\nd. memberikan pertolongan pertama kegawatdaruratan\npada bayi baru lahir dilanjutkan dengan rujukan.\nSK No 004150 A\nParagraf 3\nPRESIDEN\nREPUBLIK INDONESIA\nParagraf 3\nPelayanan Kesehatan Reproduksi Perempuan dan\nKeluarga Berencana"
+   }
+  },
+  {
+   "id": "ID-H2780-A51",
+   "no": 51,
+   "noLabel": {
+    "id": "Pasal 51"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 51\nDalam menjalankan tugas memberikan pelayanan\nkesehatan reproduksi perempuan dan keluarga berencana\nsebagaimana dimaksud dalam Pasal 46 ayat (1) huruf c,\nBidan berwenang melakukan komunikasi, informasi,\nedukasi, konseling, dan memberikan pelayanan\nkontrasepsi sesuai dengan ketentuan peraturan\nperundang-undangan."
+   }
+  },
+  {
+   "id": "ID-H2780-A52",
+   "no": 52,
+   "noLabel": {
+    "id": "Pasal 52"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 52\nKetentuan lebih lanjut mengenai pelayanan kesehatan ibu,\npelayanan kesehatan anak, dan pelayanan kesehatan\nreproduksi perempuan dan keluarga berencana\nsebagaimana dimaksud dalam Pasal 49 sampai dengan\nPasal 51 diatur dengan Peraturan Menteri.\nParagraf 4\nPelimpahan Wewenang"
+   }
+  },
+  {
+   "id": "ID-H2780-A53",
+   "no": 53,
+   "noLabel": {
+    "id": "Pasal 53"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 53\nPelimpahan wewenang sebagaimana dimaksud dalam\nPasal 46 ayat (1) huruf d terdiri atas:\na. pelimpahan secara mandat; dan\nb. pelimpahan secara delegatif."
+   }
+  },
+  {
+   "id": "ID-H2780-A54",
+   "no": 54,
+   "noLabel": {
+    "id": "Pasal 54"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 54\n(1) Pelimpahan wewenang secara mandat sebagaimana\ndimaksud dalam Pasal 53 huruf a diberikan oleh\ndokter kepada Bidan sesuai kompetensinya.\n(2) Pelimpahan wewenang secara mandat sebagaimana\ndimaksud pada ayat (1) harus dilakukan secara\ntertulis.\n(3) Pelimpahan...SK No 004102 A\nPRESIDEN\nREPUBLIK INDONESIA\n_26_\n(3) Pelimpahan wewenang secara mandat sebagaimana\ndimaksud pada ayat (1) dengan tanggung jawab\nberada pada pemberi pelimpahan wewenang.\n(4) Dokter yang memberikan pelimpahan wewenang\nsebagaimana dimaksud pada ayat (1) harus\nmelakukan pengawasan dan evaluasi secara berkala."
+   }
+  },
+  {
+   "id": "ID-H2780-A55",
+   "no": 55,
+   "noLabel": {
+    "id": "Pasal 55"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 55\n(1) Pelimpahan wewenang secara delegatif sebagaimana\ndimaksud dalam Pasal 53 huruf b diberikan oleh\nPemerintah Pusat atau Pemerintah Daerah kepada\nBidan.\n(2) Pelimpahan wewenang secara delegatif sebagaimana\ndimaksud pada ayat (1) yang diberikan oleh\nPemerintah Pusat atau Pemerintah Daerah dalam\nrangka:\na. pelaksanaan tugas dalam keadaan keterbatasan\ntertentu; atau\nb. program pemerintah.\n(3) Pelirnpahan wewenang sebagaimana dimaksud pada\nayat (1) diberikan dengan disertai pelimpahan\ntanggung jawab."
+   }
+  },
+  {
+   "id": "ID-H2780-A56",
+   "no": 56,
+   "noLabel": {
+    "id": "Pasal 56"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 56\n(1) Pelaksanaan tugas dalam keadaan keterbatasan\ntertentu sebagaimana dimaksud dalam Pasal 46 ayat\n(1) huruf e merupakan penugasan pemerintah yang\ndilaksanakan pada keadaan tidak adanya tenaga\nmedis dan/atau tenaga kesehatan lain di suatu\nwilayah tempat Bidan bertugas.\n(2) Keadaan tidak adanya tenaga medis dan/atau tenaga\nkesehatan lain sebagaimana dimaksud pada ayat (1)\nditetapkan oleh Pemerintah Daerah.\nSK No 004103 A (3) Pelaksanaan .\nPRESIDEN\nREPUELIK INDONESIA\n(3) Pelaksanaan tugas dalam keadaan keterbatasan\ntertentu sebagaimana dimaksud pada ayat (1)\ndilaksanakan oleh Bidan yang telah mengikuti\npelatihan dengan memperhatikan Kompetensi Bidan.\n(41 Pelatihan sebagaimana dimaksud pada ayat (3)\ndilakukan oleh Pemerintah Pusat dan/atau\nPemerintah Daerah.\n(5) Dalam rrrenyelenggarakan pelatihan sebagaimana\ndimaksud pada ayat (4), Pemerintah Pusat dan/atau\nPemerintah Daerah dapat melibatkan Organisasi\nProfesi Bidan dan/atau organisasi profesi terkait yang\ndiselenggarakan oleh lembaga yang telah\nterakreditasi."
+   }
+  },
+  {
+   "id": "ID-H2780-A57",
+   "no": 57,
+   "noLabel": {
+    "id": "Pasal 57"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 57\n(1) Program pemerintah sebagaimana dimaksud dalam\nPasal 55 ayat (21 huruf b merupakan penugasan\nPemerintah Pusat atau Pemerintah Daerah untuk\nmelaksanakan program pemerintah.\n(2) Program pemerintah sebagaimana dimaksud pada\nayat (1) dilaksanakan sesuai dengan ketentuan\nperaturan perundang-undangan .\n(3) Pelaksanaan program pemerintah sebagaimana\ndimaksud pada ayat (1) dilaksanakan oleh Bidan yang\ntelah mengikuti pelatihan dengan memperhatikan\nKompetensi Bidan.\n(4) Pelatihan sebagaimana dimaksud pada ayat (3)\ndilakukan oleh Pemerintah Pusat dan/atau\nPemerintah Daerah.\n(5) Dalam menyelenggarakan pelatihan sebagaimana\ndimaksud pada ayat (4), Pemerintah Pusat dan/atau\nPemerintah Daerah dapat melibatkan Organisasi\nProfesi Bidan dan/atau organisasi profesi terkait yang\ndiselenggarakan oleh lembaga yang telah\nterakreditasi.\nSK No 004151 A\nPasal58...\nPRESIDEN\nREPUBLIK INDONESTA"
+   }
+  },
+  {
+   "id": "ID-H2780-A58",
+   "no": 58,
+   "noLabel": {
+    "id": "Pasal 58"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 58\nKetentuan lebih lanjut mengenai pelimpahan wewenang\nsebagaimana dimaksud dalam Pasal 53 sampai dengan\nPasal 57 diatur dengan Peraturan Menteri.\nParagraf 5\nKeadaan Gawat Darurat"
+   }
+  },
+  {
+   "id": "ID-H2780-A59",
+   "no": 59,
+   "noLabel": {
+    "id": "Pasal 59"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 59\n(1) Dalam keadaan gawat darurat untuk pemberian\npertolongan pertama, Bidan dapat melakukan\npelayanan kesehatan di luar kewenangan sesuai\ndengan kompetensinya.\n(21 Pertolongan pertama sebagaimana dimaksud pada\nayat (1) bertujuan untuk menyelamatkan nyawa\nKlien.\n(3) Keadaan gawat darurat sebagaimana dimaksud pada\nayat (1) merupakan keadaan yang mengancam nyawa\nKlien.\n(41 Keadaan gawat darurat sebagaimana dimaksud pada\nayat (1) ditetapkan oleh Bidan sesuai dengan hasil\nevaluasi berdasarkan keilmuannya.\n(5) Penanganan keadaan gawat darurat sebagaimana\ndimaksud pada ayat (1) sampai dengan ayat l4l\ndilaksanakan sesuai dengan ketentuan peraturan\nperundang-undangan.\nBAB VII\nHAK DAN KEWAJIBAN\nBagian Kesatu\nHak dan Kewajiban Bidan\nSK No 004105 A Pasal 60 .\na.\nPRESIDEN\nREPUBLIK INDONESTA"
+   }
+  },
+  {
+   "id": "ID-H2780-A60",
+   "no": 60,
+   "noLabel": {
+    "id": "Pasal 60"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 60\nBidan dalam melaksanakan Praktik Kebidanan berhak:\nmemperoleh pelindungan hukum sepanjang\nmelaksanakan tugas sesuai dengan kompetensi,\nkewenangan, dan mematuhi kode etik, standar\nprofesi, standar pelayanan profesi, dan standar\nprosedur operasional;\nmemperoleh informasi yang benar, jelas, jujur, dan\nlengkap dari Klien dan/atau keluarganya;\nmenolak keinginan Klien atau pihak lain yang\nbertentangan dengan kode etik, standar profesi,\nstandar pelayanan, standar prosedur operasional,\ndan ketentuan peraturan perundang-undangan;\nmenerima imbalan jasa atas Pelayanan Kebidanan\nyang telah diberikan;\nmemperoleh fasilitas kerja sesuai dengan standar;\ndan\nmendapatkan kesempatan untuk mengembangkan\nprofesi."
+   }
+  },
+  {
+   "id": "ID-H2780-A61",
+   "no": 61,
+   "noLabel": {
+    "id": "Pasal 61"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 61\nBidan dalam melaksanakan Praktik Kebidanan\nberkewajiban:\na. memberikan Pelayanan Kebidanan sesuai dengan\nkompetensi, kewenangan, dan mematuhi kode etik,\nstandar profesi, standar pelayanan profesi, standar\nprosedur operasional;\nb. memberikan informasi yang benar, jelas, dan lengkap\nmengenai tindakan Kebidanan kepada Klien\ndan/atau keluarganya sesuai kewenangannya;\nc. memperoleh persetujuan dari Klien atau keluarganya\natas tindakan yang akan diberikan;\nb\nc\nd\ne\nf\nSK No 004106 A\nd. merujuk. . .\nPRESIDEN\nREPUBLIK INDONESIA\n_30_\nd. merujuk Klien yang tidak dapat ditangani ke dokter\natau Fasilitas Pelayanan Kesehatan;\ne. mendokumentasikan Asuhan Kebidanan sesuai\ndengan standar;\nf. menjaga kerahasiaan kesehatan Klien;\ng. menghormati hak Klien;\nh. melaksanakan tindakan pelimpahan wewenang dari\ndokter sesuai dengan Kompetensi Bidan;\ni. melaksanakan penugasan khusus yang ditetapkan\noleh Pemerintah Pusat;\nj. meningkatkan mutu Pelayanan Kebidanan;\nk. mempertahankan dan meningkatkan pengetahuan\ndan/atau keterampilannya melalui pendidikan\ndan/atau pelatihan; dan/ atau\n1. melakukan pertolongan gawat darurat.\nBagian Kedua\nHak dan Kewajiban Klien"
+   }
+  },
+  {
+   "id": "ID-H2780-A62",
+   "no": 62,
+   "noLabel": {
+    "id": "Pasal 62"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 62\nDalam Praktik Kebidanan, Klien berhak:\na. memperoleh Pelayanan Kebidanan sesuai dengan\nkompetensi, kode etik, standar profesi, standar\npelayanan, dan standar operasional prosedur;\nb. memperoleh inforrnasi secara benar dan jelas\nmengenai kesehatan Klien, termasuk resume isi\nrekam medis jika diperlukan;\nc. meminta pendapat Bidan lain;\nd. memberi persetujuan atau penolakan tindakan\nKebidanan yang akan dilakukan; dan\ne. memperoleh jaminan kerahasiaan kesehatan Klien.\nSK No 004107 A Pasal 63\nPRESIDEN\nREPUBLIK INDONESIA\n-3 1-"
+   }
+  },
+  {
+   "id": "ID-H2780-A63",
+   "no": 63,
+   "noLabel": {
+    "id": "Pasal 63"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 63\n(1) Pengungkapan rahasia kesehatan Klien hanya\ndilakukan atas dasar:\na. kepentingan kesehatan Klien;\nb. permintaan aparatur penegak hukum dalam\nrangka penegakan hukum;\nc. persetujuan Klien sendiri; dan/atau\nd. ketentuan peraturan perLlndang-undangan.\n(2) Pengungkapan rahasia kesehatan Klien sebagaimana\ndimaksud pada ayat (1) terbatas pada tindakan yang\ndilakukan oleh Bidan.\n(3) Ketentuan lebih lanjut mengenai pengungkapan\nrahasia kesehatan Klien diatur dalam Peraturan\nMenteri."
+   }
+  },
+  {
+   "id": "ID-H2780-A64",
+   "no": 64,
+   "noLabel": {
+    "id": "Pasal 64"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 64\nDalam Praktik Kebidanan, Klien berkewajiban:\na. memberikan informasi yang benar, jelas, dan jujur\nmengenai kondisi kesehatannya;\nb. mematuhi nasihat dan petunjuk Bidan;\nc. mematuhi ketentuan yang berlaku di Fasilitas\nPelayanan Kesehatan; dan\nd. memberi imbalan jasa atas Pelayanan Kebidanan\nyang diterima.\nBAB VIII\nORGANISASI PROFESI BIDAN"
+   }
+  },
+  {
+   "id": "ID-H2780-A65",
+   "no": 65,
+   "noLabel": {
+    "id": "Pasal 65"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 65\n(1) Bidan berhimpun dalam satu wadah Organisasi\nProfesi Bidan.\nSK No 004108 A (2) Organisasi...\nPRESIDEN\nREPUBLIK INDONESIA\n(21 Organisasi Profesi Bidan berfungsi untuk\nmeningkatkan dan/atau mengembangkan\npengetahuan dan keterampilan, martabat, dan etika\nprofesi Kebidanan."
+   }
+  },
+  {
+   "id": "ID-H2780-A66",
+   "no": 66,
+   "noLabel": {
+    "id": "Pasal 66"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 66\nOrganisasi Profesi Bidan bertujuan untuk\nmempersatukan, membina, dan memberdayakan Bidan\ndalam rangka menunjang pembangunan kesehatan."
+   }
+  },
+  {
+   "id": "ID-H2780-A67",
+   "no": 67,
+   "noLabel": {
+    "id": "Pasal 67"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 67\n(1) Untuk mengembangkan cabang ilmu dan standar\npendidikan Kebidanan, Organisasi Profesi Bidan\ndapat membentuk kolegium Kebidanan.\n(21 Kolegium Kebidanan sebagaimana dimaksud pada\nayat (1) merupakan badan otonom di dalam\nOrganisasi Profesi Bidan.\n(3) Ketentuan lebih lanjut mengenai kolegium Kebidanan\nsebagaimana dimaksud pada ayat (21 diatur oleh\nOrganisasi Profesi Bidan.\nBAB IX\nPENDAYAGUNAAN BIDAN"
+   }
+  },
+  {
+   "id": "ID-H2780-A68",
+   "no": 68,
+   "noLabel": {
+    "id": "Pasal 68"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 68\n(1) Dalam rangka pemerataan dan pemenuhan\nkebutuhan Pelayanan Kebidanan, Pemerintah Pusat,\nPemerintah Daerah, dan/atau masyarakat\nmelakukan pendayagunaan Bidan sesuai dengan\ntugas dan fungsi masing-masing.\n(21 Pendayagunaan Bidan sebagaimana dimaksud pada\nayat (1) memperhatikan aspek pemerataan,\npemanfaatan, dan pengembangan.\nSK No 004109 A\n(3) Pendayagunaan\nPRESIDEN\nREPUBLIK INDONESIA\n-cJ-\n(3) Pendayagunaan Bidan sebagaimana dimaksud pada\nayat (1) dan ayat(2) terdiri atas pendayagunaan Bidan\ndi dalam dan luar negeri.\n(41 Pendayagunaan Bidan sebagaimana dimaksud pada\nayat (1) sampai dengan ayat (3) dilaksanakan melalui\npenempatan sesuai dengan ketentuan peraturan\nperundang-undangan.\nBAB X\nPEMBINAAN DAN PENGAWASAN"
+   }
+  },
+  {
+   "id": "ID-H2780-A69",
+   "no": 69,
+   "noLabel": {
+    "id": "Pasal 69"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 69\n(1) Pemerintah Pusat dan Pemerintah Daerah melakukan\npembinaan dan pengawasan Bidan dengan\nmelibatkan Konsil dan Organisasi Profesi Bidan\nsesuai dengan kewenangan masing-masing.\n(2) Pernbinaan dan pengawasan sebagaimana dimaksud\npada ayat (1) diarahkan untuk:\na. meningkatkan mutu Pelayanan Kebidanan;\nb. melindungi masyarakat dari tindakan Bidan yang\ntidak sesuai standar; dan\nc. memberikan kepastian hukum bagi Bidan dan\nmasyarakat."
+   }
+  },
+  {
+   "id": "ID-H2780-A70",
+   "no": 70,
+   "noLabel": {
+    "id": "Pasal 70"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 70\nPembinaan dan pengawasan sebagaimana dimaksud\ndalam Pasal 69 dilaksanakan sesuai dengan ketentuan\nperatura n perundang-undangan.\nBAB XI\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H2780-A71",
+   "no": 71,
+   "noLabel": {
+    "id": "Pasal 71"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 71\nPada saat Undang-Undang ini mulai berlaku, setiap orang\nyang sedang mengikuti pendidikan Kebidanan diploma\nempat dapat berpraktik sebagai Bidan lulusan diploma\nempat di Fasilitas Pelayanan Kesehatan setelah lulus\npendidikan kecuali praktik mandiri Bidan.\nPasal72...SK No 004115 A\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H2780-A72",
+   "no": 72,
+   "noLabel": {
+    "id": "Pasal 72"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 72\nBidan lulusan pendidikan diploma empat sebelum\nUndang-Undang ini mulai berlaku dapat berpraktik di\nFasilitas Pelayanan Kesehatan kecuali praktik mandiri\nBidan."
+   }
+  },
+  {
+   "id": "ID-H2780-A73",
+   "no": 73,
+   "noLabel": {
+    "id": "Pasal 73"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 73\nSTR dan SIPB yang telah dimiliki oleh Bidan sebelum\nUndang-Undang ini diundangkan, dinyatakan tetap\nberlaku sampai jangka waktu STR dan SIPB berakhir."
+   }
+  },
+  {
+   "id": "ID-H2780-A74",
+   "no": 74,
+   "noLabel": {
+    "id": "Pasal 74"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 74\nPada saat Undang-Undang ini mulai berlaku, penerbitan\nSTR yang masih dalam proses, diselesaikan berdasarkan\nprosedur sebelum Undang-Undang ini diundangkan."
+   }
+  },
+  {
+   "id": "ID-H2780-A75",
+   "no": 75,
+   "noLabel": {
+    "id": "Pasal 75"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 75\nBidan lulusan pendidikan Kebidanan di bawah diploma\ntiga Kebidanan yang telah melakukan Praktik Kebidanan\nsebelum Undang-Undang ini diundangkan masih tetap\ndapat melakukan Praktik Kebidanan untuk jangka waktu\npaling lama Bulan Oktober Tahun 2O2O."
+   }
+  },
+  {
+   "id": "ID-H2780-A76",
+   "no": 76,
+   "noLabel": {
+    "id": "Pasal 76"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 76\n(I) Bidan lulusan pendidikan diploma tiga dan Bidan\nlulusan pendidikan diploma empat yang telah\nmelaksanakan Praktik Kebidanan secara mandiri di\nTempat Praktik Mandiri Bidan sebelum Undang-\nUndang ini diundangkan, dapat melaksanakan\nPraktik Kebidanan secara mandiri di Tempat praktik\nMandiri Bi,lan untuk jangka waktu paling lama T\n(tujuh) tahun setelah Undang-Undang ini\ndiundangkan.\nSK No 00411I A\n(21 Dalam...\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Dalam jangka waktu sebagaimana dimaksud pada\nayat (1), Bidan lulusan pendidikan diploma tiga yang\nmelaksanakan praktik mandiri Bidan dapat\nmengikuti penyetaraan Bidan lulusan pendidikan\nprofesi melalui rekognisi pembelajaran lampau.\n(3) Rekognisi pembelajaran lampau sebagaimana\ndimaksud pada ayat (21 dilaksanakan sesuai dengan\nketentuan peraturan perllndang-undangan."
+   }
+  },
+  {
+   "id": "ID-H2780-A77",
+   "no": 77,
+   "noLabel": {
+    "id": "Pasal 77"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 77\nPelaksanaan Registrasi ulang untuk Bidan yang lulus\npendidikan sebelum Tahun 2Ol3 melampirkan ljazah\nsebagai pengganti Sertifikat Kompetensi atau Sertifikat\nProfesi.\nBAB XII\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H2780-A78",
+   "no": 78,
+   "noLabel": {
+    "id": "Pasal 78"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 78\nPeraturan pelaksanaan dari Undang-Undang ini harus\nditetapkan paling lama 2 (dua) tahun terhitung sejak\nUndang-Undang ini diundangkan."
+   }
+  },
+  {
+   "id": "ID-H2780-A79",
+   "no": 79,
+   "noLabel": {
+    "id": "Pasal 79"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 79\nPada saat Undang-Undang ini mulai berlaku, semua\nperaturan perundang-undangan yang mengatur mengenai\nKebidanan, dinyatakan masih tetap berlaku sepanjang\ntidak bertentangan berdasarkan Undang-Undang ini.\nUndang-Undang\ndiundangkan."
+   }
+  },
+  {
+   "id": "ID-H2780-A80",
+   "no": 80,
+   "noLabel": {
+    "id": "Pasal 80"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 80\nini mulai berlaku pada tanggal\nSK No 004112 A\nAgar\nPRESIDEN\nREPUBLIK INDONESIA\n-36\nAgar setiap orang mengetahuinya, memerintahkan\npengundangan Undang-Undang ini dengan\npenempatannya dalam Lembaran Negara Republik\nIndonesia.\nDisahkan di Jakarta\npada tanggal 13 Maret 2019\nPRESI DEN REPUBLIK INDONESIA,\nttd.\nJOKO WIDODO\nDiundangkan di Jakarta\npada tanggal l5 Maret 2Ol9\nMENTERI HUKUM DAN HAK ASASI MANUSIA\nREPUBLIK INDONESIA,\nttd.\nYASONNA H. LAOLY\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 20I9 NOMOR 56\nSalinan sesuai clengan aslinya\nKEMENTERIAN SEKRETARIAT NEGARA\nREPUBLIK INDONESIA\nAsisten Deputi Bidang Pcmbangunan Manusia\ndan Kebudayaan,\nBidang I{ukum dan\n-undangan,\nSK No 004073 A\nung Cahyono\nPRESIDEN\nREPUBLIK INDONESTA\nPENJELASAN\nATAS\nUNDANG-UNDANG REPUBLIK INDONESIA\nNOMOR 4 TAHUN 2OI9\nTENTANG\nKEBIDANAN\nI. UMUM\nPemenuhan pelayanan kesehatan merupakan hak setiap orang yang\ndijamin secara konstitusional dalam Undang-Undang Dasar Negara\nRepublik Indonesia Tahun 1945. Hal ini merupakan tujuan nasional bangsa\nIndonesia yaitu untuk melindungi segenap bangsa Indonesia dan seluruh\ntumpah darah Indonesia, memajukan kesej ahteraan rlmllm, mencerdaskan\nkehidupan bangsa, dan ikut melaksanakan ketertiban dunia yang\nberdasarkan kemerdekaan, perdamaian abadi, serta keadilan sosial.\nUntuk mencapai tujuan nasional tersebut diselenggarakanlah upaya\npembangunan yang berkesinambungan yang merupakan suatu rangkaian\npembangunan yang menyeluruh, terarah, dan terpadu, termasuk\npembangunan kesehatan. Pembangunan kesehatan pada dasarnya\nditujukan untuk meningkatkan kesadaran, kemauan, dan kemampuan\nhidup sehat sehingga dapat teru,ujud derajat kesehatan masyarakat yang\nsetinggi-tingginya.\nDalam rangka mencapai tujuan pembangunan kesehatan dilakukan\nberbagai upaya kesehatan, salah satunya dalam bentuk pelayanan\nkesehatan. Pelayanan kesehatan bertujuan untuk memelihara dan\nmeningkatkan kesehatan, mencegah dan menyembuhkan penyakit, serta\nmemulihkan kesehatan perorangan, kelompok dan masyarakat. Pelayanan\nKebidanan, yang merupakan salah satu bentuk pelayanan kesehatan\nditujukan khusus kepada perempuan, bayi baru lahir, bayi, balita, dan\nanak prasekolah termasuk kesehatan reproduksi perempuan dan keluarga\nSK No 004163 A\nberencana\nPRESIDEN\nREPUBLIK INDONESIA\nberencana. Pelayanan Kebidanan harus diberikan secara bertanggung\njawab, akuntabel, bermutu, dan aman.\nProfesi Bidan di Indonesia masih dihadapkan oleh berbagai macam\nkendala seperti persebaran Bidan yang belum merata dan menjangkau\nseluruh wilayah terpencil di Indonesia, serta pendidikan Kebidanan yang\nsampai saat ini sebagian besar masih pada jenis pendidikan vokasi yang\nmenyebabkan pengembangan profesi Bidan berjalan sangat lambat. Dalam\nhal praktik Kebidanan, masih terdapat ketidaksesuaian antara kewenangan\ndan kompetensi yang dimiliki oleh Bidan. Selain itu, Bidan sebagai pemberi\nPelayanan Kebidanan perlu dipersiapkan kemampuannya untuk mengatasi\nperkembangan permasalahan kesehatan dalam masyarakat.\nBidan dalam melaksanakan pelayanan kesehatan berperan sebagai\npemberi Pelayanan Kebidanan, pengelola Pelayanan Kebidanan, penyuluh\ndan konselor bagi K1ien, pendidik, pembimbing, dan fasilitator klinik,\npenggerak peran serta masyarakat dan pemberdayaan perempuan, serta\npeneliti. Pelayanan Kebidanan yang diberikan oleh Bidan didasarkan pada\npengetahuan dan kompetensi di bidang ilmu Kebidanan yang\ndikembangkan sesuai dengan kebutuhan Klien.\nKetentuan mengenai profesi Bidan masih tersebar dalam berbagai\nperaturan perundang-undangan dan belum menampung kebutuhan\nhukum dari profesi Bidan maupun masyarakat. Hal ini mengakibatkan\nbelum adanya kepastian hukum bagi Bidan dalam menjalankan praktik\nprofesinya, sehingga belum memberikan pemerataan pelayanan,\npelindungan, dan kepastian hukum bagi Bidan sebagai pemberi Pelayanan\nKebidanan dan masyarakat sebagai penerima Pelayanan Kebidanan.\nPengaturan Kebidanan bertujuan untuk meningkatkan mutu Bidan, mutu\npendidikan dan Pelayanan Kebidanan, memberikan pelindungan dan\nkepastian hukum kepada Bidan dan Klien, serta meningkatkan derajat\nkesehatan masyarakat.\nUndang-Undang ini mcngatur mengenai pendidikan Kebidanan,\nRegistrasi dan izin praktik, Bidan warga negara Indonesia lulusan luar\nnegeri, Bidan Warga Negara Asing, Praktik Kebidanan, hak dan kewajiban,\nSK No 004164 A\nOrganisasi .\nPRESIDEN\nREPUBLIK INDONESIA\nOrganisasi Profesi Bidan, pendayagunaan Bidan, serta pembinaan dan\npengawasan.\nPASAL DEMI PASAL\nPasal 1\nCukup jelas.\nPasal 2\nHuruf a\nYang dimaksud dengan asas \"perikemanusiaan\" adalah bahwa\npenyelenggaraan Kebidanan harus dilandasi atas\nperikemanusiaan yang berdasarkan pada Ketuhanan Yang Maha\nEsa yang mencerminkan pelindungan dan penghormatan hak\nasasi manusia serta harkat dan martabat setiap warga negara dan\npenduduk tanpa membedakan suku, bangsa, agama, status\nsosial, dan ras.\nHuruf b\nYang dimaksud dengan asas \"nilai ilmiah\" adalah bahwa\npenyelenggaraan Kebidanan harus dilakukan berdasarkan pada\nilmu pengetahuan dan teknologi yang diperoleh baik melalui\npenelitian, pendidikan, maupun pengalaman praktik.\nHuruf c\nYang dimaksud dengan asas \"etika dan profesionalitas\" adalah\nbahwa pengaturan Praktik Kebidanan harus dapat mencapai dan\nmeningkatkan profesionalitas Bidan dalam menjalankan Praktik\nKebidanan serta memiliki etika profesi dan sikap profesional.\nHuruf d\nYang dimaksud dengan asas \"manfaat\" adalah bahwa\npenyelenggaraan Kebidanan harus memberikan manfaat yang\nsebesar-besarnya bagi kemanusiaan dalam rangka\nSK No 004165 A\nmempertahankan\nPRESIDEN\nREPUBLIK INDONESTA\nmempertahankan\nmasyarakat.\nHuruf e\ndan meningkatkan derajat kesehatan\nYang dimaksud dengan asas \"keadilan\" adalah bahwa\npenyelenggaraan Kebidanan harus mampu memberikan\npelayanan yang adil dan merata kepada semua lapisan\nmasyarakat dengan pembiayaan yang terjangkau.\nHuruf f\nYang dimaksud dengan asas \"pelindungan\" adalah bahwa Bidan\ndalam menjalankan Asuhan Kebidanan harus memberikan\npelindungan bagi Bidan dan masyarakat.\nHuruf g\nYang dimaksud dengan asas \"keselamatan Klien\" adalah bahwa\nBidan dalam melakukan Asuhan Kebidanan harus\nmengutamakan keselamatan Klien.\nPasal 3\nCukup jelas\nPasal 4\nCukup jelas\nPasal 5\nCukup jelas.\nPasal 6\nCukup jelas\nSK No 004166 A\nPasal7...\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 7\nCukup jelas\nPasal 8\nCukup jelas\nPasal 9\nCukup jelas\nPasal 10\nCukup jelas\nPasal 1 1\nCukup jelas.\nPasal 12\nCukup jelas\nPasal 13\nCukup jelas\nPasal 14\nCukup jelas\nPasal 15\nCukup jelas\nSK No 004167 A\nPasal 16\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 16\nCukup jelas\nPasal 17\nCukup jelas.\nPasal 18\nCukup jelas.\nPasal 19\nCukup jelas\nPasal 20\nCukup jelas.\nPasal 2 1\nCukup jelas.\nPasal 22\nAyat (1)\nCukup jelas\nAyat (2)\nHuruf a\nCukup jelas.\nHuruf b\nCukup jelas.\nSK No 004168 A\nHuruf c\nPRESIDEN\nREPUBLIK TNDONESIA\nHuruf c\nCukup jelas.\nHuruf d\nCukup jelas.\nHuruf e\nCukup jelas.\nHuruf f\nYang dimaksud dengan \"kecukupan\" adalah memenuhi\njumlah satuan angka kredit profesi.\nPasal 23\nCukup jelas\nPasal 24\nCukup jelas\nPasal 25\nCukup jelas\nPasal 26\nCukup jelas\nPasal 27\nCukup jelas\nSK No 004169 A\nPasal 28\nPRESIDEN\nREPUBLIK INDONESIA\n-8\nPasal 28\nCukup jelas.\nPasal 29\nCukup jelas\nPasal 30\nCukup jelas.\nPasal 3 1\nCukup jelas\nPasal 32\nCukup jelas\nPasal 33\nCukup jelas\nPasal 34\nAyat (1)\nYang dimaksud dengan \"pengguna\" adalah penyelenggara\nFasilitas Pelayanan Kesehatan yang mendayagunakan Bidan\nWarga Negara Asing.\nAyat (2)\nCukup jelas\nSK No 004170 A\nAyat (3)\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (3)\nCukup jelas\nAyat (a)\nCukup jelas\nPasal 35\nCukup jelas\nPasal 36\nCukup jelas\nPasal 37\nCukup jelas\nPasal 38\nCukup jelas\nPasal 39\nCukup jelas.\nPasal 40\nCukup jelas.\nPasal 41\nAyat (1)\nSK No 004171 A\nHuruf a\nPRESIDEN\nREPUBLIK INDONESIA\nHuruf a\nCukup jelas.\nHuruf b\nYang dimaksud dengan \"Fasilitas Pelayanan Kesehatan\nlainnya\" antara lain klinik, puskesmas, dan rumah sakit.\nAyat (2)\nCukup jelas.\nPasal 42\nAyat (1)\nYang dimaksud dengan \"pengaturan\" adalah pengaturan di\nbidang teknis keprofesian sesuai dengan ketentuan peraturan\nperundang-undangan.\nAyat (2)\nYang dimaksud dengan \"Konsil\" adalah Konsil Kebidanan.\nPasal 43\nAyat (1)\nYang dimaksud dengan \"Fasilitas Pelayanan Kesehatan\" antara\nlain Tempat Praktik Mandiri Bidan yang diselenggarakan oleh\nBidan lulusan pendidikan profesi, klinik, puskesmas, dan rumah\nsakit.\nAyat (2)\nCukup jelas.\nAyat (3)\nCukup jelas.\nSK No 004172 A\nPasal44...\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 44\nCukup jelas.\nPasal 45\nCukup jelas.\nPasal 46\nCukup jelas\nPasaI 47\nCukup jelas\nPasal 48\nKompetensi dan kewenangan Bidan diperoleh berdasarkan pendidikan\nkebidanan lulusan program diploma tiga dan pendidikan kebidanan\nlulusan program profesi yang ditempuh.\nPasal 49\nHuruf a\n\"Asuhan Kebidanan pada masa sebelum hamil\" antara lain\nmemberikan komunikasi, informasi, dan edukasi kesehatan pada\nperempuan sejak saat remaja hingga saat sebelum hamil dalam\nrangka perencanaan kehamilan, perencanaan persalinan, dan\npersiapan menjadi orang tua.\nHuruf b\n\"Asuhan Kebidanan pada masa kehamilan normal\" antara lain\nmemberikan asuhan pada masa kehamilan untuk\nmengoptimalkan kesehatan ibu dan janin, mempromosikan air\nSK No 004173 A\nSl-lSt.l\nPRESIDEN\nREPUBLIK INDONESIA\n-t2-\nsusu ibu eksklusif, dan deteksi dini kasus risiko dan komplikasi\npada masa kehamilan.\nYang dimaksud dengan \"masa kehamilan normal\" adalah\nkehamilan tanpa komplikasi dan/atau penyakit penyerta.\nHuruf c\nCukup jelas.\nHuruf d\nCukup jelas.\nHuruf e\nYang dimaksud dengan \"pertolongan pertama\" adalah\npertolongan awal kegawatdaruratan untuk resusitasi dan/atau\nstabilisasi sebelum dilakukan rujukan misalnya penanganan\nperdarahan postpartum dengan atonia uteri, dilakukan\npertolongan kegawatdaruratan untuk stabilisasi ibu sebelum\nmelakukan rujukan (seperti: pasang infus, pemberian\nuterotonika, oksigen).\nHuruf f\nYang dimaksud dengan \"Asuhan pascakeguguran\" adalah Asuhan\nKebidanan untuk melakukan penatalaksanaan terhadap\nperempuan yang mengalami keguguran, baik keguguran spontan\nataupun keguguran diinduksi. Contohnya: memberikan konseling\npra dan pasca tindakan medis, memberikan layanan kontrasepsi\npascakeguguran.\nPasal 50\nCukup jelas.\nPasal 51\nCukup jelas\nSK No 004174 A\nPasal 52 .\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 52\nCukup jelas.\nPasal 53\nCukup jelas\nPasal 54\nCukup jelas.\nPasal 55\nAyat (1)\nCukup jelas.\nAyat (2\\\nCukup jelas.\nAyat (3)\nYang dimaksud dengan \"disertai pelimpahan tanggung jawab\"\ndalam ketentuan ini adalah tanggung jawab dalam pelayanan\nKebidanan diberikan kepada Bidan sebagai penerima pelimpahan\nwewenang.\nPasal 56\nCukup jelas\nPasal 57\nCukup jelas.\nSK No 004175 A\nPasal 58\nPRESIDEN\nREPUBLIK INDONESIA\n-t4-\nPasal 58\nCukup jelas.\nPasal 59\nCukup jelas.\nPasal 60\nHuruf a\nCukup jelas.\nHuruf b\nCukup jelas.\nHuruf c\nCukup jelas.\nHuruf d\nYang dimaksud dengan \"imbalan jasa\" dalam ketentuan ini\nmisalnya pembayaran dalam bentuk natura dan innatura.\nHuruf e\nCukup jelas.\nHuruf f\nCukup jelas.\nPasal 61\nHuruf a\nCukup jelas\nHuruf b\nCukup jelas\nSK No 004176 A\nHuruf c .\nPRESIDEN\nREPUBLIK INDONESIA.\n_15_\nHuruf c\nCukup jelas.\nHuruf d\nCukup jelas.\nHuruf e\nCukup jelas.\nHuruf f\nCukup jelas.\nHuruf g\nCukup jelas.\nHuruf h\nCukup jelas.\nHuruf i\nYang dimaksud dengan \"penugasan khusus\" adalah\npendayagunaan secara khusus Bidan dalam kurun waktu\ntertentu guna meningkatkan akses dan mutu pelayanan\nkesehatan pada Fasilitas Pelayanan Kesehatan di daerah yang\nmembutuhkan pelayanan kesehatan.\nHuruf j\nCukup jelas.\nHuruf k\nCukup jelas.\nHuruf I\nCukup jelas.\nSK No 004177 A\nPasal 62\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 62\nHuruf a\nCukup jelas.\nHuruf b\nYang dimaksud dengan \"resume isi rekam medis\" adalah\nringkasan informasi yang berisi catatan Asuhan Kebidanan dan\nPelayanan Kebidanan yang telah diberikan oleh Bidan kepada\nKlien.\nHuruf c\nCukup jelas.\nHuruf d\nCukup jelas.\nHuruf e\nCukup jelas.\nPasal 63\nCukup jelas\nPasal 64\nCukup jelas\nPasal 65\nAyat (1)\nYang dimaksud dengan \"Organisasi Profesi Bidan\" adalah Ikatan\nBidan Indonesia (lBI).\nAyat (2)\nCukup jelas.\nSK No 004178 A\nPasal66...\nPRESIDEN\nREPUBLIK INDONESIA\n-t7-\nPasal 66\nCukup jelas.\nPasal 67\nCukup jelas\nPasal 68\nCukup jelas\nPasal 69\nCukup jelas\nPasal 70\nCukup jelas\nPasal 71\nCukup jelas\nPasal72\nCukup jelas.\nPasal 73\nCukup jelas\nPasal 74\nCukup jelas.\nSK No 004179 A\nPasal75...\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 75\nCukup jelas\nPasal 76\nCukup jelas\nPasal 77\nCukup jelas.\nPasal 78\nCukup jelas\nPasal 79\nCukup jelas\nPasal 80\nCukup jelas.\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 6325\nSK No 004180 A"
+   }
+  }
+ ]
+}

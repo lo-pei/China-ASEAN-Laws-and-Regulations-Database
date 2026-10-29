@@ -1,0 +1,72 @@
+{
+ "id": "PH-H12616",
+ "title": {
+  "zh": null,
+  "en": "An Act Providing- for the Appropration of the Sum of Two thousand Pesos, Out of Insular Funds, to Assist the Municipality of Imus, Province of Cavite, in the Construction of a Building for An Intermediate School.",
+  "orig": "An Act Providing- for the Appropration of the Sum of Two thousand Pesos, Out of Insular Funds, to Assist the Municipality of Imus, Province of Cavite, in the Construction of a Building for An Intermediate School."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1909-05-19",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 1907",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 762,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1909/act_1907_1909.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_01907_1909_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_01907_1909_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12616-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "the sum of two thousand pesos, Philippine currency, is hereby appropriated, out of any funds in\nthe Insular Treasury not otherwise appropriated, to be expended, together with another 0 thousand pesos to be\ncollected by voluntary subscription from the residents of Imus, in the construction of a building to be devoted\nto the purposes of an intermediate school in the municipality of Imus, Province of Cavite."
+   }
+  },
+  {
+   "id": "PH-H12616-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Said sum of two thousand pesos shall be paid by the Insular Treasurer to the provincial treasurer\nor the Province of Cavite. and shall be expended for the purpose specified in the preceding section, by the\nmunicipal council of Imus, under the supervision of the provincial board of Cavite."
+   }
+  },
+  {
+   "id": "PH-H12616-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted. May 19, 1909."
+   }
+  }
+ ]
+}

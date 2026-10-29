@@ -1,0 +1,90 @@
+{
+ "id": "ID-H571",
+ "title": {
+  "zh": "中央统计局组织法",
+  "en": "Law on the Organisation of the Central Bureau of Statistics",
+  "id": "ORGANISASI BIRO PUSAT STATISTIK",
+  "orig": "ORGANISASI BIRO PUSAT STATISTIK",
+  "vi": "Luật về Tổ chức của Cục Thống kê Trung ương",
+  "th": "พระราชบัญญัติว่าด้วยองค์กรของสำนักงานสถิติกลาง",
+  "ms": "Akta tentang Organisasi Biro Pusat Statistik"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02b",
+ "language": "id",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "1992",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU2-1992",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 4,
+ "chars": 1211,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PP%20NO%202%20TH%201992.pdf&fl=P03705"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\01_宪法与基础法\\印尼_文本_1992_ORGANISASI BIRO PUSAT STATISTIK.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 4 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H571-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\n\nDengan berlakunya Peraturan Pemerintah ini, maka ketentuan\norganisasi Biro Pusat Statistik sebagaimana diatur dalam Peraturan\nPemerintah Nomor 6 Tahun 1980, dinyatakan tidak berlaku."
+   }
+  },
+  {
+   "id": "ID-H571-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\n\nKedudukan, tugas, fungsi, susunan organisasi, dan tata kerja Biro\nPusat Statistik sebagaimana dimaksud dalam Peraturan Pemerintah\nini, selanjutnya diatur dengan Keputusan Presiden."
+   }
+  },
+  {
+   "id": "ID-H571-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\n\nSebelum Keputusan Presiden sebagaimana dimaksud dalam Pasal 2 dan\nperaturan pelaksanaannya ditetapkan, semua ketentuan Peraturan\nPemerintah Nomor 6 Tahun 1980 tentang Organisasi Biro Pusat\nStatistik dan peraturan pelaksanaan yang ada pada saat diundangkan\nPeraturan Pemerintah ini masih tetap berlaku."
+   }
+  },
+  {
+   "id": "ID-H571-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\n\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\n\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran\nNegara Republik Indonesia.\n\n\n\n\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nDitetapkan di Jakarta\npada tanggal 9 Januari 1992\n\nPRESIDEN REPUBLIK INDONESIA\n\n       ttd\n\n              SOEHARTO\n\nDiundangkan di Jakarta\npada tanggal 9 Januari 1992\n\nMENTERI/SEKRETARIS NEGARA\n   REPUBLIK INDONESIA\n\n                 ttd\n\n          MOERDIONO"
+   }
+  }
+ ]
+}

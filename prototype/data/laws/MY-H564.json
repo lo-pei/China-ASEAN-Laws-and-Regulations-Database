@@ -1,0 +1,78 @@
+{
+ "id": "MY-H564",
+ "title": {
+  "zh": "2011年限制居留（废止）法",
+  "en": "RESTRICTED RESIDENCE (REPEAL) ACT 2011",
+  "orig": "RESTRICTED RESIDENCE (REPEAL) ACT 2011",
+  "vi": "Luật về Cư trú hạn chế (Bãi bỏ) năm 2011",
+  "th": "พระราชบัญญัติการพำนักแบบจำกัด (การยกเลิก) ค.ศ. 2011",
+  "id": "Undang-Undang Tempat Tinggal Terbatas (Pencabutan) Tahun 2011",
+  "ms": "Akta Kediaman Terhad (Pemansuhan) 2011"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-12",
+ "language": "en",
+ "level": "law",
+ "category": "05_其他及未分类",
+ "status": "active",
+ "promulgatedDate": "2011",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "ACT734",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 3,
+ "chars": 846,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-detail.php?act=734&lang=BI"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\05_其他及未分类\\2011_734_RESTRICTED RESIDENCE (REPEAL) ACT 2011.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 3 条；逐字未改写（源自厂商 OCR 文本）。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H564-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "1. This Act may be cited as the Restricted Residence (Repeal)\n\nAct 2011.\n\nRepeal of Act and saving"
+   }
+  },
+  {
+   "id": "MY-H564-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "2. (1) The Restricted Residence Act 1933 [Act 377] is\n\nrepealed.\n\n(2) The repeal of the Restricted Residence Act 1933 shall not\n\naffect any order issued or made, or action or proceedings taken,\n\nunder the repealed Act prior to the date of coming into operation\n\nof this Act.\n\nOrder to cease to have effect, etc."
+   }
+  },
+  {
+   "id": "MY-H564-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "3. Notwithstanding subsection 2(2), on the date of coming into\n\noperation of this Act, any order issued or made under the repealed\n\nAct which is still in force on the date of coming into operation\n\nof this Act shall cease to have effect and any pending action or\n\nproceedings under the repealed Act shall be discontinued.\n\nDICETAK OLEH\n\nPERCETAKAN NASIONAL MALAYSIA BERHAD,\n\nKUALA LUMPUR\n\nBAGI PIHAK DAN DENGAN PERINTAH KERAJAAN MALAYSIA"
+   }
+  }
+ ]
+}

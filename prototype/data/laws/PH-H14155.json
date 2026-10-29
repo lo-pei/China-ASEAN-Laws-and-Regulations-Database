@@ -1,0 +1,72 @@
+{
+ "id": "PH-H14155",
+ "title": {
+  "zh": null,
+  "en": "An Act Authorizing the Establishment of Branches and Agencies Abroad of Banks Incorporated Under the Laws of the Philippine Islands.",
+  "orig": "An Act Authorizing the Establishment of Branches and Agencies Abroad of Banks Incorporated Under the Laws of the Philippine Islands."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1929-02-20",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3522",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1382,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1929/act_3522_1929.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03522_1929_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03522_1929_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14155-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "It shall be lawful for any commercial bank organized under the laws of the Philippine Islands\nhaving a paid-up capital of not less than one million pesos to establish branches and agencies outside the\nPhilippine Islands with the approval of the Secretary of Finance upon recommendation of the Bank\nCommissioner, provided that such foreign branches and agencies shall be subject to inspection at any time by\nthe Bank Commissioner. In lieu of inspections made personally by the Bank Commissioner or by his\nrepresentatives, the Commissioner may, with the approval of the Secretary of Finance in the case of any\nforeign branch or agency, designate a responsible firm of public accountants to make a thorough audit and\ncredit investigation of such branch or agency. All costs and expenses incurred in connection with the\nexamination, inspection, investigation, or audit of such branch or agency shall be a special charge to be paid\nby its central office."
+   }
+  },
+  {
+   "id": "PH-H14155-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "With the approval of the Secretary of Finance and the Governor-General the Bank\nCommissioner may compel the central office to liquidate the business of any foreign branch or agency if the\nbusiness of such branch or agency is being conducted unlawfully or in a manner likely to prejudice the\ninterests of the creditors of such branch, agency or central office."
+   }
+  },
+  {
+   "id": "PH-H14155-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, February 20, 1929."
+   }
+  }
+ ]
+}

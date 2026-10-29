@@ -1,0 +1,62 @@
+{
+ "id": "PH-H12909",
+ "title": {
+  "zh": null,
+  "en": "An Act Exempting Certain Personal Property From Attachment and Execution for Delinquency in the Payment of the Land Tax.",
+  "orig": "An Act Exempting Certain Personal Property From Attachment and Execution for Delinquency in the Payment of the Land Tax."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1913-01-15",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2204",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1056,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1913/act_2204_1913.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02204_1913_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02204_1913_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12909-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The following property shall be exempt from attachment and execution for delinquency in the\npayment of the land tax:\n1. Tools and implements necessarily used by the debtor in his trade or employment;\n2. One horse or cow, or carabao, or other beast of burden, such as the debtor may select, and necessarily used\nby him in his ordinary occupation;\n3. His necessary clothing, and that of all his family;\n4. Household furniture and utensils necessary for housekeeping, and used for that purpose by the debtor, such\nas the debtor may select, of a value not exceeding seventy-five pesos;\n5. Provisions actually provided for individual or family use sufficient for three months;\n6. The professional libraries of lawyers, judges, clergymen, doctors, school-teachers, and music teachers, not\nexceeding five hundred pesos in value;\n7. One fishing boat and net, not exceeding the total value and of twenty-five pesos, the property of any\nfisherman, by the lawful use of which he earns a livelihood."
+   }
+  },
+  {
+   "id": "PH-H12909-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, January 15, 1913."
+   }
+  }
+ ]
+}

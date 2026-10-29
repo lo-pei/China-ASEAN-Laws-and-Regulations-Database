@@ -1,0 +1,654 @@
+{
+ "id": "MY-H2099",
+ "title": {
+  "zh": "2017年医疗条例",
+  "en": "MEDICAL REGULATIONS 2017",
+  "orig": "MEDICAL REGULATIONS 2017",
+  "ms": "Peraturan Perubatan 2017",
+  "vi": "Quy định về Y tế năm 2017",
+  "th": "ข้อบังคับการแพทย์ ค.ศ. 2017",
+  "id": "Peraturan Kedokteran Tahun 2017"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-4",
+ "language": "ms",
+ "level": "regulation",
+ "category": "04_劳工与行政法",
+ "status": "active",
+ "promulgatedDate": "2017",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "PUA188",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 51,
+ "chars": 91462,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-view.php?type=pua&no=P.U. (A) 188/2017&status=PRINCIPAL"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\04_劳工与行政法\\2017_P.U.(A)188-2017_MEDICAL REGULATIONS 2017.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 51 条；逐字未改写（源自厂商 OCR 文本）。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H2099-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "1. Nama dan permulaan kuat kuasa\n\nBAHAGIAN II\n\nPEMILIHAN ANGGOTA TERPILIH MAJLIS"
+   }
+  },
+  {
+   "id": "MY-H2099-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "2. Tafsiran \"anggota terpilih\""
+   }
+  },
+  {
+   "id": "MY-H2099-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "3. Pegawai Pengurus"
+   }
+  },
+  {
+   "id": "MY-H2099-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "4. Notis dan permintaan bagi penamaan"
+   }
+  },
+  {
+   "id": "MY-H2099-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "5. Penamaan"
+   }
+  },
+  {
+   "id": "MY-H2099-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "6. Penarikan balik pencalonan"
+   }
+  },
+  {
+   "id": "MY-H2099-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "7. Kelayakan penamaan"
+   }
+  },
+  {
+   "id": "MY-H2099-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "8. Penyiaran nama calon, dsb."
+   }
+  },
+  {
+   "id": "MY-H2099-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "9. Bantahan"
+   }
+  },
+  {
+   "id": "MY-H2099-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "10. Pemilihan yang tidak dipertandingkan"
+   }
+  },
+  {
+   "id": "MY-H2099-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "11. Penamaan melebihi kekosongan"
+   }
+  },
+  {
+   "id": "MY-H2099-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "12. Bentuk pengundian"
+   }
+  },
+  {
+   "id": "MY-H2099-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "13. Kertas undi"
+   }
+  },
+  {
+   "id": "MY-H2099-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "14. Cara mengundi"
+   }
+  },
+  {
+   "id": "MY-H2099-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "15. Pembukaan kertas undi"
+   }
+  },
+  {
+   "id": "MY-H2099-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "16. Pengiraan undi"
+   }
+  },
+  {
+   "id": "MY-H2099-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "17. Perisytiharan keputusan"
+   }
+  },
+  {
+   "id": "MY-H2099-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "18. Alasan bagi menolak kertas undi"
+   }
+  },
+  {
+   "id": "MY-H2099-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "19. Pemeteraian kertas undi dan Sampul Surat A"
+   }
+  },
+  {
+   "id": "MY-H2099-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "20. Penyimpanan kertas undi"
+   }
+  },
+  {
+   "id": "MY-H2099-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "21. Aduan\n\nBAHAGIAN III\n\nPENDAFTARAN PENGAMAL PERUBATAN"
+   }
+  },
+  {
+   "id": "MY-H2099-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "22. Jawatankuasa Pendidikan Perubatan"
+   }
+  },
+  {
+   "id": "MY-H2099-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "23. Jawatankuasa Penilaian"
+   }
+  },
+  {
+   "id": "MY-H2099-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "24. Daftar Perubatan Malaysia"
+   }
+  },
+  {
+   "id": "MY-H2099-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "25. Pendaftaran sementara"
+   }
+  },
+  {
+   "id": "MY-H2099-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "26. Pendaftaran penuh"
+   }
+  },
+  {
+   "id": "MY-H2099-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 27"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "27. Pendaftaran pakar"
+   }
+  },
+  {
+   "id": "MY-H2099-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 28"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "28. Perakuan pengamalan tahunan"
+   }
+  },
+  {
+   "id": "MY-H2099-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Section 29"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "29. Pembaharuan perakuan pengamalan tahunan"
+   }
+  },
+  {
+   "id": "MY-H2099-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Section 30"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "30. Pembaharuan perakuan pengamalan sementara"
+   }
+  },
+  {
+   "id": "MY-H2099-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Section 31"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "31. Memasukkan semula nama"
+   }
+  },
+  {
+   "id": "MY-H2099-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Section 32"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "32. Kemasukan semula nama"
+   }
+  },
+  {
+   "id": "MY-H2099-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Section 33"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "33. Bukti pendaftaran\n\nBAHAGIAN IV\n\nPROSIDING TATATERTIB"
+   }
+  },
+  {
+   "id": "MY-H2099-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "Section 34"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "34. Panel Tatatertib"
+   }
+  },
+  {
+   "id": "MY-H2099-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "Section 35"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "35. Jawatankuasa Penyiasatan Permulaan"
+   }
+  },
+  {
+   "id": "MY-H2099-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "Section 36"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "36. Lembaga Tatatertib"
+   }
+  },
+  {
+   "id": "MY-H2099-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "Section 37"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "37. Peruntukan yang berhubungan dengan Jawatankuasa Penyiasatan Permulaan atau\n\nLembaga Tatatertib"
+   }
+  },
+  {
+   "id": "MY-H2099-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "Section 38"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "38. Aduan terhadap pengamal perubatan berdaftar"
+   }
+  },
+  {
+   "id": "MY-H2099-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "Section 39"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "39. Membuang terus aduan"
+   }
+  },
+  {
+   "id": "MY-H2099-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "Section 40"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "40. Tatacara penyiasatan"
+   }
+  },
+  {
+   "id": "MY-H2099-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "Section 41"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "41. Syor dan rekod siasatan"
+   }
+  },
+  {
+   "id": "MY-H2099-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "Section 42"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "42. Siasatan oleh Lembaga Tatatertib"
+   }
+  },
+  {
+   "id": "MY-H2099-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "Section 43"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "43. Jawatankuasa Kelayakan Mengamal"
+   }
+  },
+  {
+   "id": "MY-H2099-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "Section 44"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "44. Syor Lembaga Tatatertib"
+   }
+  },
+  {
+   "id": "MY-H2099-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "Section 45"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "45. Keputusan Majlis\n\nBAHAGIAN V\n\nAM"
+   }
+  },
+  {
+   "id": "MY-H2099-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "Section 46"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "46. Borang"
+   }
+  },
+  {
+   "id": "MY-H2099-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "Section 47"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "47. Fi yang ditetapkan"
+   }
+  },
+  {
+   "id": "MY-H2099-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "Section 48"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "48. Pelantikan penasihat undang-undang"
+   }
+  },
+  {
+   "id": "MY-H2099-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "Section 49"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "49. Pendedahan maklumat"
+   }
+  },
+  {
+   "id": "MY-H2099-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "Section 50"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "50. Larangan menghadiri prosiding tatatertib"
+   }
+  },
+  {
+   "id": "MY-H2099-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "Section 51"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "51. Pembatalan\n\nJADUAL PERTAMA\n\nJADUAL KEDUA\n\nAKTA PERUBATAN 1971\n\nPERATURAN-PERATURAN PERUBATAN 2017\n\nPADA menjalankan kuasa yang diberikan oleh seksyen 36 Akta Perubatan 1971 [Akta 50],\n\nMajlis, dengan kelulusan Menteri, membuat peraturan-peraturan yang berikut:\n\nBAHAGIAN I\n\nPERMULAAN\n\nNama dan permulaan kuat kuasa\n\n1. (1) Peraturan-peraturan ini bolehlah dinamakan Peraturan-Peraturan\n\nPerubatan 2017.\n\n(2) Peraturan-Peraturan ini mula berkuat kuasa pada 1 Julai 2017 kecuali\n\nperenggan 28(2)(a) dan (b).\n\n(3) Perenggan 28(2)(a) dan (b) mula berkuat kuasa pada 1 Januari 2019.\n\nBAHAGIAN II\n\nPEMILIHAN ANGGOTA TERPILIH MAJLIS\n\nTafsiran \"anggota terpilih\"\n\n2. Bagi maksud Bahagian ini, \"anggota terpilih\" ertinya anggota Majlis yang disebut\n\ndalam perenggan 3A(1)(e), (f) dan (g) Akta.\n\nPegawai Pengurus\n\n3. (1) Presiden Majlis hendaklah menjadi Pegawai Pengurus bagi maksud\n\npemilihan anggota terpilih Majlis.\n\n(2) Pegawai Pengurus boleh melantik penolongnya yang hendaklah bertindak\n\nmengikut arahannya.\n\nNotis dan permintaan bagi penamaan\n\n4. (1) Dalam hal pemilihan anggota terpilih Majlis atau jika suatu kekosongan\n\ndalam mana-mana jawatan anggota terpilih Majlis berbangkit kerana luput masa,\n\nPegawai Pengurus hendaklah, sekurang-kurangnya tiga bulan sebelum tarikh yang\n\ndicadangkan untuk mengadakan pemilihan atau berlakunya kekosongan itu, mengikut\n\nmana-mana yang berkenaan, menyebabkan suatu notis disiarkan dalam laman web\n\nrasmi Majlis atau dalam apa-apa bentuk penyiaran lain yang difikirkan sesuai oleh\n\nMajlis.\n\n(2) Notis yang disebut dalam subperaturan (1) hendaklah—\n\n(a) menyatakan jawatan yang kosong atau akan kosong itu;\n\n(b) memohon penamaan calon bagi jawatan itu; dan\n\n(c) menyatakan masa dan tarikh yang selepas darinya penamaan calon\n\nbagi jawatan itu tidak diterima.\n\n(3) Jika apa-apa kekosongan dalam mana-mana jawatan anggota terpilih Majlis\n\nberlaku disebabkan kematian, peletakan jawatan atau pemberhentian keanggotaan\n\nMajlis, Pegawai Pengurus hendaklah, dalam tempoh satu bulan dari berlakunya\n\nkekosongan itu, menyebabkan suatu notis disiarkan dalam laman web rasmi Majlis atau\n\ndalam apa-apa bentuk penyiaran lain yang difikirkan sesuai oleh Majlis.\n\n(4) Notis yang disebut dalam subperaturan (3) hendaklah—\n\n(a) menyatakan jawatan yang dikosongkan itu;\n\n(b) memohon penamaan calon bagi jawatan itu; dan\n\n(c) menyatakan masa dan tarikh yang selepas darinya penamaan calon\n\nbagi jawatan itu tidak diterima.\n\nPenamaan\n\n5. (1) Penamaan calon hendaklah dalam Borang 1 dan hendaklah ditandatangani\n\noleh dua orang pengamal perubatan berdaftar penuh, masing-masing sebagai\n\npencadang dan penyokong dan diendors dengan persetujuan bertulis calon itu.\n\n(2) Tiada seorang pun boleh mencadang atau menyokong penamaan\n\nmana-mana calon kecuali dia merupakan seorang yang layak untuk memilih anggota\n\ndi bawah perenggan 3A(1)(e), (f) atau (g) Akta.\n\n(3) Tiap-tiap orang yang layak untuk memilih anggota di bawah\n\nperenggan 3A(1)(e), (f) atau (g) Akta dan yang berhasrat untuk menamakan mana-mana\n\ncalon bagi pemilihan sebagai anggota Majlis hendaklah—\n\n(a) memasukkan namanya sendiri sebagai pencadang atau penyokong dan\n\nmenandatangani borang penamaan yang disebut dalam\n\nsubperaturan (1);\n\n(b) memasukkan pada borang penamaan nama setiap calon yang\n\ndihasratkannya untuk dinamakan dan mendapatkan kebenaran setiap\n\ncalon yang namanya diendors pada borang itu; dan\n\n(c) mengemukakan borang penamaan bersama dengan maklumat yang\n\ndikehendaki kepada Pegawai Pengurus.\n\n(4) Bilangan calon yang dinamakan oleh mana-mana pencadang tidak boleh\n\nmelebihi bilangan kekosongan anggota terpilih Majlis yang akan diisi dalam\n\npemilihan itu.\n\n(5) Setelah menerima suatu borang penamaan, Pegawai Pengurus atau\n\npenolongnya hendaklah mengendors tarikh dan masa menerima borang\n\npenamaan itu.\n\n(6) Tiada penamaan boleh diterima oleh Pegawai Pengurus atau penolongnya\n\nselepas penutupan penamaan calon.\n\nPenarikan balik pencalonan\n\n6. (1) Mana-mana calon boleh menarik balik pencalonannya dalam tempoh tujuh\n\nhari dari tarikh penghantaran borang penamaan melalui notis secara bertulis dan\n\ndiserahkan kepada Pegawai Pengurus.\n\n(2) Seseorang calon yang telah menarik balik pencalonannya tidak dibenarkan\n\nuntuk membatalkan penarikan balik pencalonannya atau untuk dicalonkan semula\n\nsebagai seorang calon dalam pemilihan yang sama.\n\n(3) Setelah menerima suatu notis penarikan balik, Pegawai Pengurus hendaklah\n\nmenyiarkan fakta tentang penarikan balik itu dalam laman web rasmi Majlis atau dalam\n\napa-apa bentuk penyiaran lain yang difikirkan sesuai olehnya.\n\nKelayakan penamaan\n\n7. Pegawai Pengurus hendaklah menentukan kelayakan pengamal perubatan untuk\n\ndinamakan sebagai calon bagi jawatan terpilih.\n\nPenyiaran nama calon, dsb.\n\n8. (1) Pegawai Pengurus hendaklah, dalam tempoh empat belas hari selepas\n\npenutupan penamaan calon, menyebabkan suatu notis disiarkan dalam laman web\n\nrasmi Majlis atau dalam apa-apa bentuk penyiaran lain yang difikirkan sesuai oleh\n\nMajlis.\n\n(2) Notis yang disebut dalam subperaturan (1) hendaklah menyatakan—\n\n(a) jawatan yang kosong atau yang akan kosong dan yang berkenaannya\n\npemilihan diadakan;\n\n(b) nama calon yang dinamakan dan nama pengamal perubatan berdaftar\n\npenuh yang mencadang dan menyokong calon itu; dan\n\n(c) masa dan tarikh yang selepas darinya tiada bantahan boleh dibuat\n\nterhadap mana-mana calon itu.\n\nBantahan\n\n9. (1) Bantahan hendaklah hanya dibuat atas alasan yang berikut:\n\n(a) calon itu bukan seorang warganegara Malaysia;\n\n(b) calon itu bukan pemegang perakuan pengamalan semasa;\n\n(c) calon itu telah menjadi anggota Majlis dan akan, jika dipilih,\n\nberkhidmat sebagai anggota Majlis lebih daripada satu jawatan;\n\n(d) orang yang menamakan calon itu bukan pemegang perakuan\n\npengamalan semasa;\n\n(e) calon itu didapati bersalah oleh mahkamah atas apa-apa kesalahan\n\nyang melibatkan rasuah, fraud, kecurangan atau keburukan akhlak,\n\natau apa-apa kesalahan lain yang boleh dihukum dengan pemenjaraan,\n\nsama ada hukuman penjara sahaja atau sebagai tambahan kepada atau\n\nsebagai ganti denda, lebih daripada dua tahun;\n\n(f) calon itu adalah seorang bankrap yang belum dilepaskan;\n\n(g) calon itu tidak layak atas alasan kemastautinan; atau\n\n(h) pengamal perubatan berdaftar penuh yang menamakan calon itu tidak\n\nlayak atas alasan kemastautinan.\n\n(2) Apa-apa bantahan terhadap mana-mana calon hanya boleh dibuat oleh\n\npengamal perubatan berdaftar penuh dan hendaklah—\n\n(a) menyatakan alasan yang hendak diasaskan;\n\n(b) menyatakan fakta yang menyokong alasan itu;\n\n(c) menyatakan sumber pengetahuan, iaitu sama ada daripada\n\npengetahuan sendiri atau melalui pihak ketiga;\n\n(d) jika sumber pengetahuannya ialah pihak ketiga, menyatakan nama,\n\nalamat dan pekerjaan orang itu; dan\n\n(e) menyediakan apa-apa dokumen yang menyokong bantahan itu.\n\n(3) Jika Pegawai Pengurus mempunyai sebab yang munasabah untuk\n\nmempercayai bahawa bantahan itu benar prima facie, Pegawai Pengurus hendaklah,\n\ndalam tempoh tujuh hari selepas menerima bantahan itu, menghantar suatu salinan\n\nbantahan dan apa-apa dokumen sokongan kepada calon bersama dengan notis yang\n\nmenghendaki calon untuk menunjukkan sebab namanya tidak patut dipotong daripada\n\nsenarai calon dalam tempoh tujuh hari selepas notis itu disampaikan.\n\n(4) Jika Pegawai Pengurus berpuas hati bahawa bantahan itu benar berdasarkan\n\nsebab yang dikemukakan oleh calon dalam subperaturan (3), Pegawai Pengurus\n\nhendaklah memotong nama calon itu daripada senarai calon.\n\nPemilihan yang tidak dipertandingkan\n\n10. Selepas Pegawai Pengurus membuat keputusan terhadap apa-apa bantahan yang\n\ndisebut dalam peraturan 9, Pegawai Pengurus hendaklah mengisytiharkan calon yang\n\ndinamakan sebagai dipilih jika bilangan calon yang dinamakan adalah sama banyak\n\ndengan atau kurang daripada bilangan jawatan yang kosong.\n\nPenamaan melebihi kekosongan\n\n11. Jika Pegawai Pengurus menerima penamaan lebih daripada kekosongan untuk\n\ndiisi, Pegawai Pengurus hendaklah menyebabkan suatu notis disiarkan dalam laman\n\nweb rasmi Majlis atau dalam apa-apa bentuk penyiaran lain yang difikirkan sesuai\n\nolehnya yang menyatakan—\n\n(a) tarikh, masa dan tempat yang ditetapkan untuk mengundi;\n\n(b) tatacara bagi mengundi; dan\n\n(c) nama calon dan maklumat lain yang relevan.\n\nBentuk pengundian\n\n12. Pengundian boleh dijalankan secara manual, atau dengan apa-apa cara lain,\n\nsebagaimana yang ditentukan oleh Pegawai Pengurus.\n\nKertas undi\n\n13. (1) Pegawai Pengurus hendaklah, tidak kurang daripada empat minggu sebelum\n\ntarikh tutup pemilihan, menghantar kepada orang yang layak untuk mengundi dalam\n\npemilihan itu—\n\n(a) suatu kertas undi dalam Borang 2, yang hendaklah mengandungi nama\n\ndan kelulusan akademik calon dan menyatakan tarikh dan masa\n\npemilihan itu akan ditutup;\n\n(b) suatu sampul surat yang ditandakan sebagai Sampul Surat A, dalam\n\nBorang 3, yang hendaklah mengandungi suatu ruangan bagi nama dan\n\ntandatangan saksi; dan\n\n(c) suatu sampul surat yang ditandakan sebagai Sampul Surat B, dalam\n\nBorang 4, yang hendaklah mengandungi nama Pegawai Pengurus dan\n\nalamat kertas undi itu akan diterima olehnya.\n\n(2) Seseorang pengamal perubatan berdaftar penuh boleh menyerahkan suatu\n\nakuan berkanun yang ditandatangani olehnya dan memohon Pegawai Pengurus untuk\n\nmenghantar kepadanya kertas undi baharu dan sampul surat jika—\n\n(a) dia tidak menerima kertas undi dan sampul surat;\n\n(b) dia telah menghilangkan kertas undi dan sampul surat; atau\n\n(c) kertas undi dan sampul suratnya dengan telah tidak sengaja rosak.\n\n(3) Dalam hal kertas undi baharu dihantar, suatu rekod hendaklah dibuat\n\ndi bawah nama pengamal perubatan berdaftar penuh itu.\n\n(4) Tiada pemilihan menjadi tidak sah jika kertas undi tidak diterima oleh\n\npengamal perubatan berdaftar penuh.\n\n(5) Apabila menerima sampul surat, Pegawai Pengurus atau penolongnya\n\nhendaklah mengendors pada luar sampul surat tarikh dan masa menerimanya.\n\n(6) Semua sampul surat yang diterima selepas tarikh dan masa yang dinyatakan\n\nyang disebut dalam perenggan (1)(a) hendaklah ditolak.\n\nCara mengundi\n\n14. (1) Seorang pengamal perubatan berdaftar penuh hendaklah meletakkan suatu\n\ntanda sebagaimana yang diarahkan pada kertas undi itu terhadap nama calon yang\n\nhendak diundinya itu.\n\n(2) Tiap-tiap pengundi hendaklah memasukkan kertas undi itu ke dalam Sampul\n\nSurat A dan hendaklah menandatangani pada Sampul Surat A di hadapan seorang\n\npengamal perubatan berdaftar penuh yang lain, Jaksa Pendamai, seorang pegawai\n\nkumpulan pengurusan dan profesional dalam perkhidmatan awam atau seorang\n\npeguam bela dan peguam cara, yang kemudiannya hendaklah menurunkan tandatangan\n\nbalas.\n\n(3) Pengamal perubatan berdaftar penuh itu hendaklah memasukkan Sampul\n\nSurat A ke dalam Sampul Surat B dan hendaklah kemudiannya menghantar Sampul\n\nSurat B yang telah dimeterai itu kepada Pegawai Pengurus atau penolongnya supaya\n\nsampai kepadanya tidak lewat daripada masa yang dinyatakan pada tarikh tutup\n\npemilihan.\n\n(4) Bilangan calon untuk diundi oleh seorang pengamal perubatan berdaftar\n\npenuh tidak boleh melebihi bilangan kekosongan yang hendak diisi dalam suatu\n\npemilihan.\n\nPembukaan kertas undi\n\n15. (1) Pegawai Pengurus hendaklah, sekurang-kurangnya sepuluh hari sebelum\n\ntarikh pembukaan Sampul Surat B, memaklumkan tiap-tiap calon mengenai masa,\n\ntarikh dan tempat yang dia bercadang untuk membuka Sampul Surat B.\n\n(2) Calon itu atau penamanya yang telah diberi kuasa secara bertulis olehnya\n\nberhak hadir semasa pembukaan sampul surat itu.\n\n(3) Pegawai Pengurus hendaklah menyebabkan Sampul Surat B dibuka dan\n\nhendaklah, sama ada dengan inisiatifnya sendiri atau atas kehendak calon itu atau\n\npenamanya, jika dia berpuas hati bahawa mana-mana Sampul Surat A tidak mengikut\n\nPeraturan-Peraturan ini, menolak sampul surat itu tanpa membukanya.\n\n(4) Sampul Surat A yang ditolak hendaklah dimeterai dalam suatu bungkusan\n\nyang berasingan.\n\nPengiraan undi\n\n16. (1) Sampul surat yang tidak ditolak hendaklah kemudiannya dibuka dan kertas\n\nundi yang terkandung dalam sampul surat itu hendaklah diletakkan dalam suatu bekas\n\nyang berasingan.\n\n(2) Kertas undi itu hendaklah kemudiannya dibuka, dan Pegawai Pengurus\n\nhendaklah meneruskan dengan pengiraan dan dia hendaklah, sama ada dengan\n\ninisiatifnya sendiri atau atas kehendak calon itu atau penamanya, jika dia berpuas hati\n\nbahawa mana-mana kertas undi itu tidak mengikut Peraturan-Peraturan ini, menolak\n\nkertas undi itu.\n\n(3) Kertas undi yang ditolak itu hendaklah dimeterai dalam suatu bungkusan\n\nyang berasingan.\n\nPerisytiharan keputusan\n\n17. (1) Apabila pengiraan undi telah selesai, Pegawai Pengurus hendaklah\n\nmengisytiharkan calon yang mendapat bilangan undi terbanyak sebagai terpilih dan\n\nhendaklah menyebabkan suatu notis perisytiharan disiarkan dalam laman web rasmi\n\nMajlis atau dalam apa-apa bentuk penyiaran lain yang difikirkan sesuai oleh Majlis.\n\n(2) Apabila bilangan undi antara mana-mana calon didapati sama banyak dan\n\ntambahan satu undi akan memberi hak kepada mana-mana calon untuk diisytiharkan\n\nsebagai terpilih, Presiden boleh memberi undi pemutus yang akan menentukan calon\n\nterpilih.\n\n(3) Jika Presiden tidak bersetuju untuk memberi undi pemutusnya, penentuan\n\ncalon terpilih hendaklah dibuat melalui cabutan undi di hadapan Presiden dan calon itu\n\natau penamanya, jika ada.\n\nAlasan bagi menolak kertas undi\n\n18. (1) Pegawai Pengurus hendaklah menolak kertas undi bagi alasan yang berikut:\n\n(a) kertas undi tidak diisi dengan lengkap;\n\n(b) kertas undi diterima selepas tarikh dan masa pemilihan ditutup;\n\n(c) kertas undi itu bukan kertas undi yang dikeluarkan oleh Pegawai\n\nPengurus;\n\n(d) undi yang diberi lebih daripada bilangan calon yang dipilih;\n\n(e) kertas undi tidak menunjukkan dengan jelas niat pengundi itu; atau\n\n(f) kertas undi itu diisi oleh seorang pengamal perubatan berdaftar penuh\n\nyang hilang kelayakan daripada mengundi.\n\n(2) Jika apa-apa bantahan dibuat kepada mana-mana kertas undi atas alasan\n\nkertas undi itu tidak mematuhi syarat, bantahan hendaklah diputuskan serta-merta\n\noleh Pegawai Pengurus.\n\n(3) Keputusan Pegawai Pengurus adalah muktamad.\n\nPemeteraian kertas undi dan Sampul Surat A\n\n19. Sampul Surat A yang telah dibuka dan kertas undi hendaklah dimeterai dalam\n\nbungkusan yang berasingan.\n\nPenyimpanan kertas undi\n\n20. Tertakluk kepada apa-apa arahan oleh Pegawai Pengurus, bungkusan yang\n\ndimeteri yang mengandungi Sampul Surat A, kertas undi, kertas undi yang ditolak dan\n\nSampul Surat A yang ditolak hendaklah disimpan oleh Majlis selama satu tahun dan\n\nhendaklah kemudiannya dibinasakan tanpa memecahkan meterainya.\n\nAduan\n\n21. Majlis boleh dengan inisiatifnya sendiri atau atas permintaan seseorang pengamal\n\nperubatan berdaftar penuh menyiasat apa-apa aduan yang berhubungan dengan\n\npenjalanan dan keputusan pemilihan dan boleh mengambil apa-apa tindakan termasuk\n\nmengisytiharkan pemilihan sebagai tidak sah sama ada keseluruhannya atau\n\nsebahagiannya, jika difikirkannya sesuai, dengan syarat aduan itu dibuat dalam tempoh\n\nempat belas hari selepas keputusan itu disiarkan.\n\nBAHAGIAN III\n\nPENDAFTARAN PENGAMAL PERUBATAN\n\nJawatankuasa Pendidikan Perubatan\n\n22. (1) Maka hendaklah ada suatu Jawatankuasa Pendidikan Perubatan yang\n\nkeanggotaan, kaedah-kaedah dan tatacaranya hendaklah ditentukan oleh Majlis.\n\n(2) Fungsi Jawatankuasa Pendidikan Perubatan ialah untuk mengiktiraf institusi\n\nlatihan dan kelulusan yang dianugerahkan oleh institusi latihan yang diiktiraf bagi\n\nmaksud pendaftaran pengamal perubatan.\n\n(3) Jawatankuasa Pendidikan Perubatan hendaklah membuat syor yang berikut\n\nkepada Majlis:\n\n(a) standard dan kelayakan institusi latihan yang dikehendaki bagi\n\npenyenaraian dalam Jadual Kedua kepada Akta dan penyenggaraan\n\nstandard itu;\n\n(b) standard kemahiran yang dikehendaki daripada calon dalam\n\npeperiksaan kelayakan;\n\n(c) program latihan yang relevan bagi pengamal perubatan berdaftar\n\nsementara; dan\n\n(d) standard dan kelayakan bagi kemasukan ke dalam daftar pakar.\n\n(4) Berhubung dengan seseorang yang memegang kelayakan daripada institusi\n\nyang tidak disenaraikan dalam Jadual Kedua kepada Akta, Jawatankuasa Pendidikan\n\nPerubatan hendaklah membuat syor yang berikut kepada Majlis:\n\n(a) kelayakan yang dikehendaki dalam bidang perubatan dan pembedahan\n\nbagi maksud subperenggan 12(1)(a)(ii) Akta; dan\n\n(b) peperiksaan yang dijalankan oleh suatu badan yang diluluskan oleh\n\nMenteri di bawah perenggan 12(1)(aa) Akta.\n\nJawatankuasa Penilaian\n\n23. (1) Maka hendaklah ada suatu Jawatankuasa Penilaian bagi Kelayakan\n\nPerubatan Utama dan Jawatankuasa Penilaian bagi Kelayakan Pakar Perubatan yang\n\nkeanggotaan, kaedah-kaedah dan tatacaranya hendaklah ditentukan oleh Majlis.\n\n(2) Jawatankuasa Penilaian bagi Kelayakan Perubatan Utama hendaklah\n\nmembuat syor kepada Majlis, termasuk sekatan dan syarat yang difikirkannya perlu,\n\nbagi permohonan yang berikut:\n\n(a) suatu pendaftaran sementara di bawah seksyen 12 Akta;\n\n(b) suatu pendaftaran penuh di bawah seksyen 14 Akta; atau\n\n(c) suatu perakuan pengamalan sementara di bawah subseksyen 16(1)\n\nAkta.\n\n(3) Jawatankuasa Penilaian bagi Kelayakan Pakar Perubatan hendaklah\n\nmembuat syor kepada Majlis, termasuk syarat dan sekatan yang difikirkannya perlu,\n\nbagi pendaftaran sebagai seorang pakar di bawah seksyen 14C Akta.\n\n(4) Majlis boleh menerima atau menolak syor yang dibuat oleh Jawatankuasa\n\nPenilaian bagi Kelayakan Perubatan Utama atau Jawatankuasa Penilaian bagi Kelayakan\n\nPakar Perubatan dengan syarat Majlis hendaklah memberikan sebab untuk direkodkan\n\nbagi penolakan itu.\n\nDaftar Perubatan Malaysia\n\n24. (1) Pendaftar hendaklah menyenggara suatu Daftar dalam kedua-dua bentuk\n\nfizikal dan elektronik.\n\n(2) Setelah menerima suatu permohonan bagi pendaftaran daripada seorang\n\npengamal perubatan, Pendaftar hendaklah memasukkan ke dalam Daftar berdasarkan\n\nbahagian yang berikut:\n\n(a) Bahagian Pendaftaran Sementara, yang hendaklah mengandungi nama\n\ndan butiran pengamal perubatan yang berdaftar di bawah seksyen 12\n\nAkta;\n\n(b) Bahagian Pendaftaran Penuh, yang hendaklah mengandungi nama dan\n\nbutiran pengamal perubatan yang berdaftar di bawah seksyen 14 Akta;\n\ndan\n\n(b) Bahagian Pendaftaran Pakar, yang hendaklah mengandungi nama dan\n\nbutiran pengamal perubatan yang berdaftar di bawah seksyen 14C\n\nAkta.\n\n(4) Pendaftar hendaklah menyebabkan Daftar disiarkan dalam laman web rasmi\n\nMajlis atau dalam apa-apa bentuk penyiaran lain yang difikirkan sesuai oleh Majlis.\n\nPendaftaran sementara\n\n25. (1) Mana-mana orang yang berhak untuk didaftarkan sementara hendaklah\n\nmemohon kepada Pendaftar dalam Borang 5 dan membayar fi yang ditetapkan dalam\n\nJadual Kedua.\n\n(2) Sebelum mendaftarkan orang itu, Pendaftar hendaklah menghendaki\n\npemohon—\n\n(a) untuk mengemukakan ijazah asal yang diberikan kepada pemohon atau\n\njika ijazah itu tidak tersedia, meminta suatu transkrip rasmi ijazah itu\n\nuntuk dihantar terus oleh institusi yang berkenaan kepada Pendaftar;\n\n(b) untuk mengemukakan suatu pernyataan oleh seorang pengamal\n\nperubatan berdaftar, seorang peguam bela dan peguam cara atau\n\nseorang pegawai dalam kumpulan pengurusan dan profesional dalam\n\nperkhidmatan awam yang mengenali sendiri pemohon itu dan bahawa\n\nsepanjang pengetahuannya pemohon itu adalah orang yang telah\n\ndianugerahkan ijazah itu;\n\n(c) jika kelayakan yang dirujuk dalam permohonan itu bukan salah satu\n\ndaripada kelayakan yang dinyatakan dalam Jadual Kedua kepada\n\nAkta—\n\n(i) untuk mengemukakan suatu perakuan oleh Menteri bahawa\n\nkelayakan yang dipegang oleh pemohon telah disifatkan sebagai\n\nsesuai bagi pendaftaran di bawah subperenggan 12(1)(a)(ii)\n\nAkta; dan\n\n(ii) untuk mengemukakan perakuan bahawa pemohon telah lulus\n\npeperiksaan sebagaimana yang dinyatakan dalam perenggan\n\n12(1)(aa) Akta;\n\n(d) untuk mengemukakan apa-apa dokumen rasmi daripada institusi\n\npenerima bahawa pemohon telah dipilih bagi pekerjaan di bawah\n\nsubseksyen 13(2) Akta, atau pemohon layak untuk dikecualikan\n\ndaripada pekerjaan itu di bawah subseksyen 13(6) Akta;\n\n(e) untuk mengemukakan bukti bahawa pemohon telah mendapat suatu\n\nkelulusan dalam peperiksaan sebagaimana yang ditentukan oleh\n\nMajlis; dan\n\n(f) untuk memenuhi apa-apa syarat dan kehendak lain sebagaimana yang\n\nditentukan oleh Majlis.\n\n(3) Perakuan pendaftaran sementara hendaklah dalam Borang 6.\n\n(4) Tempoh perakuan hendaklah sebagaimana yang ditentukan oleh Majlis.\n\nPendaftaran penuh\n\n26. (1) Mana-mana orang yang berhak untuk didaftarkan sebagai seorang pengamal\n\nperubatan penuh hendaklah memohon dalam Borang 7 dan membayar fi yang\n\nditetapkan dalam Jadual Kedua.\n\n(2) Sebelum mendaftarkan orang itu, Pendaftar hendaklah menghendakinya—\n\n(a) untuk mengemukakan—\n\n(i) suatu perakuan perkhidmatan yang memuaskan dalam jawatan\n\nperubatan dalam Borang 8;\n\n(ii) suatu perakuan pengecualian daripada pekerjaan dalam jawatan\n\nperubatan dalam Borang 9;\n\n(iii) dokumen yang berhubungan dengan subseksyen 14(2A) Akta;\n\natau\n\n(iv) suatu perakuan yang dikeluarkan oleh Menteri di bawah\n\nsubseksyen 14(3) Akta yang memperakui bahawa Menteri\n\nberpuas hati dengan kecukupan kelayakan orang dalam Borang\n\n10; dan\n\n(b) untuk memuaskan apa-apa syarat dan kehendak lain sebagaimana\n\nyang ditentukan oleh Majlis.\n\n(3) Perakuan pendaftaran penuh hendaklah dalam Borang 11.\n\nPendaftaran pakar\n\n27. (1) Seseorang pengamal perubatan berdaftar penuh yang berhak untuk\n\ndidaftarkan sebagai pakar hendaklah memohon kepada Majlis dalam Borang 12 dan\n\nmembayar fi yang ditetapkan dalam Jadual Kedua.\n\n(2) Sebelum mendaftarkan orang itu, Pendaftar hendaklah menghendakinya—\n\n(a) untuk mengemukakan bukti pematuhan kepada seksyen 14B Akta; dan\n\n(b) untuk memuaskan apa-apa syarat dan kehendak lain sebagaimana\n\nyang ditentukan oleh Majlis.\n\n(3) Perakuan pendaftaran pakar hendaklah dalam Borang 13.\n\nPerakuan pengamalan tahunan\n\n28. (1) Seseorang pengamal perubatan berdaftar penuh yang berhasrat untuk\n\nmenjalankan amalan sebagai seorang pengamal perubatan hendaklah memohon kepada\n\nMajlis bagi suatu perakuan pengamalan tahunan dalam Borang 14 dan membayar fi\n\nyang ditetapkan dalam Jadual Kedua.\n\n(2) Suatu permohonan di bawah subperaturan (1) hendaklah disertai dengan—\n\n(a) Perlindungan Tanggung Rugi Profesional;\n\n(b) keterangan mengenai mata pembangunan profesional berterusan yang\n\nmencukupi yang diperoleh sebagaimana yang ditentukan oleh Majlis;\n\ndan\n\n(c) apa-apa dokumen atau perakuan lain sebagaimana yang ditentukan\n\noleh Majlis.\n\n(3) Kecuali dalam kes permohonan pertama bagi perakuan pengamalan\n\nperubatan, jika mana-mana pengamal perubatan berdaftar penuh berhasrat untuk\n\nmenjalankan amalan selepas tiga puluh satu haribulan Disember dalam sesuatu tahun\n\ntetapi tidak memohon perakuan pengamalan tahunan dalam tempoh sebagaimana yang\n\ndinyatakan dalam subseksyen 20(1) Akta hendaklah membayar, sebagai tambahan\n\nkepada fi yang kena dibayar berkenaan dengan suatu perakuan pengamalan tahunan, fi\n\ntambahan bagi permohonan lewat sebagaimana yang ditetapkan dalam Jadual Kedua.\n\n(4) Perakuan pengamalan tahunan hendaklah dalam Borang 15.\n\nPembaharuan perakuan pengamalan tahunan\n\n29. (1) Seorang pengamal perubatan berdaftar penuh boleh memohon untuk\n\nmembaharui perakuan pengamalan tahunannya.\n\n(2) Peruntukan mengenai permohonan perakuan pengamalan tahunan di bawah\n\nperaturan 28 hendaklah terpakai bagi permohonan pembaharuan perakuan\n\npengamalan tahunan.\n\nPembaharuan perakuan pengamalan sementara\n\n30. (1) Mana-mana orang yang telah dikeluarkan dengan perakuan pengamalan\n\nsementara boleh memohon untuk membaharui perakuan pengamalan sementaranya.\n\n(2) Permohonan pembaharuan perakuan pengamalan sementara hendaklah\n\ndibuat kepada Majlis dalam Borang 16 dan membayar fi yang ditetapkan dalam Jadual\n\nKedua.\n\n(3) Perakuan pengamalan sementara tidak boleh digunakan bagi maksud\n\npekerjaan.\n\n(4) Perakuan pengamalan sementara hendaklah dalam Borang 17.\n\nMemasukkan semula nama\n\n31. (1) Mana-mana pengamal perubatan berdaftar yang namanya telah disingkirkan\n\ndaripada Daftar di bawah seksyen 24 Akta boleh memohon kepada Majlis bagi\n\nmemasukkan semula namanya ke dalam Daftar dalam Borang 18 dan membayar fi yang\n\nditetapkan dalam Jadual Kedua.\n\n(2) Suatu permohonan di bawah subperaturan (1) hendaklah disertai dengan—\n\n(a) apa-apa maklumat, gambar dan dokumen sebagaimana yang\n\ndikehendaki oleh Majlis; dan\n\n(b) apa-apa bukti pemohon memiliki kemahiran klinikal yang mencukupi\n\nuntuk menjalankan amalan sebagai seorang pengamal perubatan\n\nsehingga Majlis berpuas hati.\n\n(3) Permohonan bagi memasukkan semula nama ke dalam Daftar hendaklah\n\ndisokong dengan laporan perubatan yang disediakan oleh dua orang pengamal\n\nperubatan berdaftar penuh yang memperakui bahawa pemohon layak untuk mengamal.\n\nKemasukan semula nama\n\n32. (1) Mana-mana pengamal perubatan berdaftar yang namanya telah dipotong\n\ndaripada Daftar di bawah seksyen 30 Akta boleh memohon kepada Majlis bagi\n\nmemasukkan semula namanya ke dalam Daftar dalam Borang 18 dan membayar fi yang\n\nditetapkan dalam Jadual Kedua.\n\n(2) Suatu permohonan di bawah subperaturan (1) hendaklah disertai dengan—\n\n(a) apa-apa maklumat, gambar dan dokumen sebagaimana yang\n\ndikehendaki oleh Majlis;\n\n(b) apa-apa bukti pemohon memiliki kemahiran klinikal yang mencukupi\n\nuntuk menjalankan amalan sebagai seorang pengamal perubatan\n\nsehingga Majlis berpuas hati; dan\n\n(c) sekurang-kurangnya dua testimoni yang disediakan oleh dua orang\n\npengamal perubatan berdaftar penuh yang mempunyai taraf\n\nsekurang-kurangnya sepuluh tahun yang memperakui identiti dan\n\nkelakuan baik pemohon.\n\nBukti pendaftaran\n\n33. (1) Tiap-tiap pengamal perubatan berdaftar hendaklah—\n\n(a) menyebabkan nombor pendaftaran pengamal dinyatakan pada semua\n\npreskripsi perubatan dan semua dokumen dan rekod lain yang\n\nberhubungan dengan amalan perubatan pengamal; atau\n\n(b) menyebabkan nombor pendaftaran pakar dinyatakan pada semua\n\npreskripsi perubatan dan semua dokumen dan rekod lain yang\n\nberhubungan dengan amalan perubatan pakar.\n\n(2) Mana-mana orang yang melanggar peraturan ini hendaklah tertakluk kepada\n\nbidang kuasa tatatertib Majlis.\n\nBAHAGIAN IV\n\nPROSIDING TATATERTIB\n\nPanel Tatatertib\n\n34. (1) Suatu Panel Tatatertib hendaklah ditubuhkan yang daripadanya anggota\n\nJawatankuasa Penyiasatan Permulaan dan Lembaga Tatatertib hendaklah dipilih.\n\n(2) Panel Tatatertib hendaklah terdiri daripada anggota yang berikut yang\n\nhendaklah dilantik oleh Majlis:\n\n(a) anggota Majlis;\n\n(b) pengamal perubatan berdaftar penuh yang mempunyai taraf baik\n\nsekurang-kurangnya sepuluh tahun dengan perakuan pengamalan\n\ntahunan semasa; dan\n\n(c) mana-mana orang selain dalam perenggan (a) atau (b).\n\n(3) Anggota Panel Tatatertib hendaklah memegang jawatan selama suatu\n\ntempoh yang tidak melebihi tiga tahun dan layak untuk dilantik semula.\n\n(4) Majlis boleh, pada bila-bila masa, membatalkan pelantikan mana-mana\n\nanggota Panel Tatatertib.\n\nJawatankuasa Penyiasatan Permulaan\n\n35. (1) Jawatankuasa Penyiasatan Permulaan hendaklah terdiri daripada tidak lebih\n\ndaripada lima orang anggota yang dipilih daripada Panel Tatatertib.\n\n(2) Fungsi Jawatankuasa Penyiasatan Permulaan adalah untuk menjalankan\n\nsuatu siasatan permulaan aduan atau maklumat yang menyentuh apa-apa perkara\n\ntatatertib untuk menentukan sama ada perlu atau tidak kepada suatu siasatan.\n\n(3) Kuorum Jawatankuasa Penyiasatan Permulaan ialah tiga orang.\n\nLembaga Tatatertib\n\n36. (1) Lembaga Tatatertib hendaklah terdiri daripada anggota yang berikut yang\n\nhendaklah dipilih daripada Panel Tatatertib:\n\n(a) sekurang-kurangnya tiga orang anggota Majlis;\n\n(b) tiga orang pengamal perubatan berdaftar penuh yang mempunyai taraf\n\nbaik sekurang-kurangnya sepuluh tahun dengan perakuan pengamalan\n\ntahunan semasa; dan\n\n(c) mana-mana orang selain dalam perenggan (a) atau (b).\n\n(2) Fungsi Lembaga Tatatertib adalah untuk menjalankan suatu siasatan atas\n\nmana-mana aduan atau maklumat yang menyentuh apa-apa perkara tatatertib yang\n\nditerima terhadap mana-mana pengamal perubatan.\n\n(3) Kuorum mesyuarat Lembaga Tatatertib ialah lima orang.\n\nPeruntukan yang berhubungan dengan Jawatankuasa Penyiasatan Permulaan\n\natau Lembaga Tatatertib\n\n37. (1) Majlis hendaklah melantik seorang pengamal perubatan berdaftar penuh\n\ndalam kalangan anggota Jawatankuasa Penyiasatan Permulaan atau Lembaga\n\nTatatertib, mengikut mana-mana yang berkenaan, untuk menjadi pengerusi\n\njawatankuasa masing-masing.\n\n(2) Pengerusi hendaklah mempengerusikan semua mesyuarat Jawatankuasa\n\nPenyiasatan Permulaan atau Lembaga Tatatertib, mengikut mana-mana yang\n\nberkenaan.\n\n(3) Pada masa ketiadaan pengerusi, pengamal perubatan berdaftar penuh yang\n\npaling kanan yang hadir ke mesyuarat Jawatankuasa Penyiasatan Permulaan atau\n\nLembaga Tatatertib, mengikut mana-mana yang berkenaan, hendaklah\n\nmempengerusikan mesyuarat itu.\n\n(4) Keputusan Jawatankuasa Penyiasatan Permulaan atau Lembaga Tatatertib,\n\nmengikut mana-mana yang berkenaan, hendaklah dibuat secara undi majoriti.\n\n(5) Dalam hal keadaan bilangan undi yang sama banyak, pengerusi, atau pada\n\nmasa ketiadaannya, orang yang mempengerusikan mesyuarat hendaklah mempunyai\n\nundi pemutus sebagai tambahan kepada undi biasanya.\n\n(6) Jawatankuasa Penyiasatan Permulaan atau Lembaga Tatatertib hendaklah\n\nmenentukan tatacaranya sendiri.\n\n(7) Tiada apa-apa tindakan atau prosiding yang diambil oleh Jawatankuaasa\n\nPenyiasatan Permulaan atau Lembaga Tatatertib, mengikut mana-mana yang\n\nberkenaan, menjadi tidak sah dengan alasan—\n\n(a) apa-apa kekosongan dalam keanggotaannya, atau apa-apa kecacatan\n\ndalam penubuhan Jawatankuasa Penyiasatan Permulaan atau Lembaga\n\nTatatertib; atau\n\n(b) apa-apa peninggalan, kecacatan atau ketidakteraturan yang tidak\n\nmenjejaskan merit kes.\n\n(8) Anggota Jawatankuasa Penyiasatan Permulaan atau Lembaga Tatatertib\n\nhendaklah, tertakluk kepada syarat yang dinyatakan dalam surat pelantikannya,\n\nmelainkan jika dia terlebih dahulu meletakkan jawatan, memegang jawatan bagi suatu\n\ntempoh tidak melebihi tiga tahun dan layak untuk dilantik semula.\n\n(9) Majlis boleh, pada bila-bila masa, membatalkan keanggotaan mana-mana\n\nanggota Jawatankuasa Penyiasatan Permulaan jika Majlis mendapati orang itu bukan\n\nlagi seseorang yang layak dan sesuai untuk menjalankan fungsinya di bawah\n\nsubperaturan (1).\n\n(10) Anggota Jawatankuasa Penyiasatan Permulaan boleh pada bila-bila masa\n\nmeletakkan jawatannnya dengan memberi notis secara bertulis kepada Majlis dan\n\nsalinan notis itu kepada jawatankuasa itu.\n\n(11) Majlis boleh melantik mana-mana orang yang difikirkannya layak untuk\n\nmengisi kekosongan bagi baki tempoh kekosongan anggota itu.\n\nAduan terhadap pengamal perubatan berdaftar\n\n38. (1) Apa-apa aduan atau maklumat mengenai mana-mana pengamal perubatan\n\nberdaftar hendaklah dibuat secara bertulis dan dialamatkan kepada Majlis.\n\n(2) Majlis hendaklah mengemukakan aduan atau maklumat yang diterima\n\nkepada Jawatankuasa Penyiasatan Permulaan.\n\nMembuang terus aduan\n\n39. (1) Jawatankuasa Penyiasatan Permulaan boleh mengesyorkan kepada Majlis\n\nuntuk membuang terus apa-apa aduan atau maklumat jika ia berpuas hati—\n\n(a) nama dan alamat pengadu tidak diketahui atau tidak dapat dikesan;\n\n(b) walaupun fakta itu benar, fakta itu tidak menjadi suatu perkara\n\ntatatertib; atau\n\n(c) terdapat sebab untuk meragui kebenaran aduan atau maklumat.\n\n(2) Jawatankuasa Penyiasatan Permulaan boleh, sebelum mengesyorkan\n\napa-apa pembuangan terus, menghendaki pengadu membuat akuan berkanun tentang\n\nfakta yang didakwa olehnya.\n\n(3) Jawatankuasa Penyiasatan Permulaan hendaklah memberikan sebab bagi\n\nsyor dalam subperaturan (1).\n\nTatacara penyiasatan\n\n40. (1) Jika Jawatankuasa Penyiasatan Permulaan mempunyai sebab untuk\n\nmempercayai bahawa aduan atau maklumat itu berkemungkinan benar, Jawatankuasa\n\nPenyiasatan Permulaan hendaklah—\n\n(a) memberitahu pengamal perubatan berdaftar yang berkenaan tentang\n\npenerimaan aduan atau maklumat yang berkaitan dengannya;\n\n(b) menghantar salinan aduan atau maklumat dan apa-apa akuan\n\nberkanun dan dokumen sokongan yang diterima kepada pengamal\n\nperubatan berdaftar yang berkenaan;\n\n(c) menghendaki pengamal perubatan berdaftar yang berkenaan untuk\n\nmengemukakan jawapan kepada aduan atau maklumat dalam masa\n\ntiga puluh hari dari tarikh penerimaan pemberitahuan; dan\n\n(d) meminta pengamal perubatan berdaftar yang berkenaan penjelasan\n\natau dokumen lanjutan untuk diberikan dalam tempoh empat belas\n\nhari dari tarikh permintaan dibuat.\n\n(2) Setelah menimbangkan jawapan dan penjelasan, jika ada, oleh pengamal\n\nperubatan berdaftar yang berkenaan, Jawatankuasa Penyiasatan Permulaan boleh\n\nmengesyorkan kepada Majlis—\n\n(a) tiada tindakan lanjut akan diambil terhadap aduan atau maklumat yang\n\nditerima; atau\n\n(b) aduan atau maklumat yang diterima hendaklah dikemukakan kepada\n\nLembaga Disiplin bagi suatu siasatan diadakan.\n\n(3) Jika pada akhir siasatan, Jawatankuasa Penyiasatan Permulaan mendapati\n\nada alasan serius yang menyokong dakwaan terhadap pengamal perubatan berdaftar\n\nyang berkenaan, Jawatankuasa Penyiasatan Permulaan boleh mengesyorkan kepada\n\nMajlis untuk melantik seorang anggota Panel Tatatertib yang tidak terlibat dalam\n\nsiasatan itu sebagai pengadu jika—\n\n(a) pengadu sebenar menarik balik aduan atau maklumat itu; atau\n\n(b) pengadu sebenar tidak dapat dihubungi oleh Jawatankuasa\n\nPenyiasatan Permulaan.\n\nSyor dan rekod siasatan\n\n41. (1) Syor dan rekod siasatan oleh Jawatankuasa Penyiasatan Permulaan\n\nhendaklah disediakan dan dikemukakan kepada Majlis dalam masa tiga puluh hari dari\n\ntarikh siasatan ditutup.\n\n(2) Majlis boleh, setelah menimbangkan syor Jawatankuasa Penyiasatan\n\nPermulaan, dengan sebab untuk direkodkan—\n\n(a) membuang terus aduan atau maklumat itu; atau\n\n(b) mengemukakan aduan atau maklumat itu bersama dengan syor\n\nJawatankuasa Penyiasatan Permulaan kepada Lembaga Tatatertib bagi\n\nsuatu siasatan.\n\nSiasatan oleh Lembaga Tatatertib\n\n42. (1) Setelah menerima aduan atau maklumat bersama dengan syor Jawatankuasa\n\nPenyiasatan Permulaan, Lembaga Tatatertib—\n\n(a) boleh mengeluarkan suatu perintah interim kepada pengamal\n\nperubatan berdaftar yang berkenaan mengikut seksyen 29A Akta;\n\n(b) hendaklah, melalui suatu perintah bertulis, menghendaki kehadiran\n\npengadu dan mana-mana orang yang didapati mengetahui hal keadaan\n\naduan atau maklumat itu, di hadapan Lembaga Tatatertib pada tarikh,\n\nmasa dan tempat yang dinyatakan dalam perintah; dan\n\n(c) hendaklah memberitahu pengamal perubatan berdaftar yang\n\nberkenaan—\n\n(i) tarikh, masa dan tempat siasatan aduan atau maklumat itu akan\n\ndiadakan; dan\n\n(ii) haknya untuk hadir dengan atau tanpa peguam dalam siasatan\n\nitu.\n\n(2) Lembaga Tatatertib hendaklah mengadakan siasatan pada tarikh, masa dan\n\ntempat yang dinyatakan dalam perintah itu dan hendaklah meneruskan untuk\n\nmenyiasat dakwaan yang dibuat terhadap pengamal perubatan berdaftar yang\n\nberkenaan walaupun dia tidak hadir.\n\n(3) Lembaga Tatatertib hendaklah memeriksa pengadu dan mana-mana orang\n\nyang menyokong dakwaan itu.\n\n(4) Pengadu dan mana-mana orang yang disebut dalam subperaturan (3) boleh\n\ndiperiksa balas oleh pengamal perubatan berdaftar yang berkenaan dan selanjutnya\n\ndiperiksa semula oleh Lembaga Tatatertib jika perlu.\n\n(5) Lembaga Tatatertib hendaklah merekodkan semua penyataan yang dibuat\n\noleh pengadu dan orang yang diperiksa.\n\n(6) Bagi tujuan siasatan, Lembaga Tatatertib boleh menghendaki pengadu atau\n\npengamal perubatan berdaftar yang berkenaan—\n\n(a) untuk mengemukakan apa-apa bahan yang berkaitan dengan siasatan\n\noleh Lembaga Tatatertib dan membuat salinan bahan itu; atau\n\n(b) untuk hadir pada masa dan tempat yang dinyatakan untuk memberi\n\nketerangan dan untuk mengemukakan apa-apa buku, dokumen, kertas,\n\natau rekod lain.\n\n(7) Selepas mengambil kenyataan pengadu dan mana-mana orang yang disebut\n\ndalam subperaturan (3), Lembaga Tatatertib hendaklah—\n\n(a) jika Lembaga Tatatertib mendapati bahawa tiada alasan yang\n\nmencukupi untuk menyokong dakwaan itu, mengesyorkan kepada\n\nMajlis supaya tiada apa-apa tindakan lanjut diambil terhadap pengamal\n\nperubatan berdaftar yang berkenaan; atau\n\n(b) jika Lembaga Tatatertib mendapati terdapat alasan yang mencukupi\n\nuntuk menyokong dakwaan itu, membuat suatu pertuduhan terhadap\n\npengamal perubatan berdaftar yang berkenaan dan menjelaskan\n\nkepadanya bahawa dia bebas untuk menyatakan pembelaannya atas\n\npertuduhan yang dibuat terhadapnya dan memanggil saksi untuk\n\nmenyokong pembelaannya.\n\n(8) Jika pengamal perubatan berdaftar yang berkenaan selepas dimaklumkan\n\nmengenai haknya memilih untuk tidak membuat pembelaan atau memanggil\n\nmana-mana saksi untuk menyokong pembelaannya, Lembaga Tatatertib boleh\n\nmengesyorkan kepada Majlis bahawa pengamal perubatan berdaftar yang berkenaan\n\nbersalah atas kesalahan yang dipertuduhkan terhadapnya.\n\n(9) Jika pengamal perubatan berdaftar yang berkenaan memilih untuk membuat\n\npembelaan di hadapan Lembaga Tatatertib, kenyataannya dan kenyataan oleh saksinya,\n\njika ada, hendaklah direkodkan dan Lembaga Tatatertib boleh memeriksa balas\n\nkenyataan pengamal perubatan berdaftar dan saksinya.\n\nJawatankuasa Kelayakan Mengamal\n\n43. (1) Dalam masa siasatan, jika Lembaga Tatatertib mendapati bahawa pengamal\n\nperubatan berdaftar yang berkenaan tidak kompeten secara profesional atau\n\nkelayakannya untuk menjalankan amalan terjejas disebabkan hilang upaya fizikal atau\n\nmental, Lembaga Tatatertib boleh merujuk pengamal perubatan berdaftar yang\n\nberkenaan kepada Jawatankuasa Kelayakan Mengamal bagi suatu penilaian.\n\n(2) Jawatankuasa Kelayakan Mengamal hendaklah menilai mana-mana\n\npengamal perubatan berdaftar yang disebut dalam subperaturan (1).\n\n(3) Bagi maksud menilai kekompetenan secara profesional atau kelayakan\n\nuntuk menjalankan amalan seseorang pengamal perubatan berdaftar, Jawatankuasa\n\nKelayakan Mengamal boleh, melalui perintah secara bertulis, menghendaki kehadiran\n\npengamal perubatan berdaftar yang berkenaan di hadapan Jawatankuasa pada tarikh,\n\nmasa dan tempat yang dinyatakan dalam perintah itu untuk menjawab apa-apa soalan\n\ndan mengemukakan apa-apa dokumen yang dikehendaki.\n\n(4) Jawatankuasa Kelayakan Mengamal boleh, selepas menerima aduan atau\n\nmaklumat yang mendakwa pengamal perubatan berdaftar tidak kompeten secara\n\nprofesional atau kelayakannya untuk menjalankan amalan terjejas kerana hilang upaya\n\nfizikal atau mentalnya, menilai pengamal perubatan berdaftar yang berkenaan.\n\nSyor Lembaga Tatatertib\n\n44. (1) Selepas menimbangkan kenyataan pengamal perubatan berdaftar yang\n\nberkenaan dan saksinya, jika ada, bersama dengan laporan penilaian oleh Jawatankuasa\n\nKelayakan Mengamal, jika ada, Lembaga Tatatertib hendaklah—\n\n(a) jika Lembaga Tatatertib mendapati tidak ada alasan yang mencukupi\n\nuntuk menyokong pertuduhan itu, mengesyorkan kepada Majlis supaya\n\ntiada tindakan lanjut diambil terhadap pengamal perubatan berdaftar\n\nyang berkenaan; atau\n\n(b) jika Lembaga Tatatertib mendapati pengamal perubatan berdaftar\n\nyang berkenaan bersalah atas pertuduhan, Lembaga Tatatertib\n\nhendaklah memaklumkan kepada pengamal perubatan berdaftar yang\n\nberkenaan akan dapatannya dan sebab bagi keputusannya.\n\n(2) Lembaga Tatatertib hendaklah meminta pengamal perubatan berdaftar yang\n\nberkenaan untuk membuat apa-apa rayuan meringankan hukuman dan selepas\n\nmendengar rayuan itu, jika ada, mengesyorkan kepada Majlis apa-apa hukuman di\n\nbawah seksyen 30 Akta.\n\nKeputusan Majlis\n\n45. (1) Majlis boleh, setelah menimbangkan rekod siasatan dan syor Lembaga\n\nTatatertib, dengan sebab untuk direkodkan—\n\n(a) menerima syor Lembaga Tatatertib dan mengenakan hukuman;\n\n(b) mengarahkan Lembaga Tatatertib untuk mengadakan mesyuarat\n\nsemula dan menyiasat dengan lebih lanjut aduan atau maklumat itu;\n\n(c) mengarahkan Lembaga Tatatertib yang baharu ditubuhkan dan\n\nmenjalankan suatu siasatan mengenai aduan atau maklumat itu;\n\n(d) mengarahkan pertuduhan itu dibuang jika Majlis mendapati tiada kes\n\ntelah dibuktikan terhadap pengamal perubatan berdaftar yang\n\nberkenaan;\n\n(e) menolak syor Lembaga Tatatertib dan membuat keputusannya; atau\n\n(f) memberi apa-apa arahan lain sebagaimana yang difikirkan patut oleh\n\nMajlis.\n\n(2) Majlis hendaklah memaklumkan pengamal perubatan berdaftar yang\n\nberkenaan akan keputusannya di bawah subperaturan (2).\n\n(3) Majlis hendaklah berhak untuk menyiarkan dalam media apa-apa\n\nkesimpulan kepada siasatan yang dibuat.\n\nBAHAGIAN V\n\nAM\n\nBorang\n\n46. Borang yang dinyatakan dalam Peraturan-Peraturan ini adalah sebagaimana yang\n\nditetapkan dalam Jadual Pertama.\n\nFi yang ditetapkan\n\n47. Fi yang perlu dibayar di bawah Peraturan-Peraturan ini hendaklah sebagaimana\n\nyang ditetapkan dalam Jadual Kedua.\n\nPelantikan penasihat undang-undang\n\n48. (1) Majlis boleh melantik seorang penasihat undang-undang untuk membantu\n\nMajlis, Lembaga Tatatertib atau Jawatankuasa Penyiasatan Permulaan semasa apa-apa\n\nprosiding tatatertib.\n\n(2) Majlis boleh melantik mana-mana orang yang sedang atau telah menjadi\n\nseorang peguam bela dan peguam cara bagi tempoh tidak kurang daripada lima tahun\n\nuntuk menasihati Majlis, Lembaga Tatatertib atau Jawatankuasa Penyiasatan Permulaan\n\nmengenai—\n\n(a) semua persoalan undang-undang yang berbangkit dalam apa-apa\n\nprosiding tatatertib; dan\n\n(b) erti dan pentafsiran semua dokumen yang dikemukakan semasa\n\nprosiding tatatertib.\n\nPendedahan maklumat\n\n49. Majlis tidak boleh menjadikan tersedia bagi pemeriksaan atau penyiaran nombor\n\nkad pengenalan, nombor pasport, alamat kediaman, nombor telefon atau alamat e-mel\n\npengamal perubatan berdaftar atau butir-butir lain yang pada pendapat Majlis perlu\n\ndilindungi daripada pendedahan demi kepentingan keselamatan pengamal perubatan\n\nberdaftar.\n\nLarangan menghadiri prosiding tatatertib\n\n50. (1) Tiada seorang pun anggota Majlis, Lembaga Tatatertib atau Jawatankuasa\n\nPenyiasatan Permulaan boleh hadir atau mengambil bahagian dalam mana-mana\n\nmesyuarat Majlis, Lembaga Tatatertib atau Jawatankuasa Penyiasatan Permulaan,\n\nmengikut mana-mana yang berkenaan, yang berhubungan dengan suatu prosiding\n\ntatatertib jika—\n\n(a) orang itu ialah pengadu;\n\n(b) orang itu secara peribadi mengetahui apa-apa fakta yang relevan;\n\n(c) orang itu telah hadir atau berkemungkinan untuk hadir di hadapan\n\nLembaga Tatatertib bagi maksud membuat apa-apa penyataan; atau\n\n(d) pengadu, orang yang hadir di hadapan Lembaga Tatatertib bagi\n\nmaksud membuat apa-apa penyataan atau pengamal perubatan\n\nberdaftar itu ialah anggota keluarganya atau sekutunya.\n\n(2) Bagi maksud peraturan ini—\n\n\"anggota keluarganya\", berhubung dengan seseorang anggota Majlis,\n\nLembaga Tatatertib atau Jawatankuasa Penyiasatan Permulaan, termasuklah—\n\n(a) suami atau isterinya;\n\n(b) ibu atau bapanya (termasuk ibu atau bapa suami atau isterinya);\n\n(c) anaknya (termasuk anak angkat atau anak tiri);\n\n(d) adik-beradiknya (termasuk adik-beradik suami atau isterinya); atau\n\n(e) suami atau isteri anaknya atau adik-beradiknya; dan\n\n\"sekutu\", berhubung dengan seseorang anggota Majlis, Lembaga Tatatertib\n\natau Jawatankuasa Penyiasatan Permulaan, ertinya—\n\n(a) amalan atau syarikat yang anggota atau mana-mana penamanya\n\nmerupakan pekongsi atau pekerja; atau\n\n(b) pekongsi atau pekerja anggota itu.\n\nPembatalan\n\n51. Peraturan-Peraturan Perubatan 1974 [P.U. (A) 68/1974] dibatalkan.\n\nJADUAL PERTAMA\n\n[Peraturan 46]\n\nBORANG\n\nTAJUK BORANG BORANG\n\nBorang Penamaan 1\n\nKertas Undi 2\n\nSampul Surat A 3\n\nSampul Surat B 4\n\nPermohonan bagi pendaftaran sementara 5\n\nPerakuan pendaftaran sementara 6\n\nPermohonan bagi pendaftaran penuh 7\n\nPerakuan perkhidmatan yang memuaskan dalam jawatan perubatan 8\n\nPerakuan pengecualian daripada pekerjaan dalam jawatan perubatan 9\n\nPerakuan yang dikeluarkan oleh Menteri di bawah subseksyen 14(3) Akta 10\n\nPerakuan pendaftaran penuh 11\n\nPermohonan bagi pendaftaran pakar 12\n\nPerakuan pendaftaran pakar 13\n\nPermohonan bagi perakuan pengamalan tahunan atau pembaharuan\n\nperakuan pengamalan tahunan\n\nPerakuan pengamalan tahunan 15\n\nPermohonan bagi pembaharuan perakuan pengamalan sementara 16\n\nPerakuan pengamalan sementara 17\n\nPermohonan bagi memasukkan semula atau kemasukan semula nama dalam\n\nDaftar\n\nJADUAL KEDUA\n\n[Peraturan 47]\n\nFI\n\n JENIS PERMOHONAN FI\n\n(RM)\n\nPermohonan bagi pendaftaran sementara 100\n\nPermohonan bagi pendaftaran penuh 150\n\nPermohonan bagi pendaftaran pakar (bagi lima tahun) 1500\n\nPermohonan bagi perakuan pengamalan tahunan 100\n\nFi tambahan bagi permohonan lewat bagi perakuan pengamalan tahunan 100\n\nPermohonan bagi pembaharuan perakuan pengamalan sementara 500\n\nPermohonan bagi memasukkan semula atau kemasukan semula nama ke\n\ndalam Daftar\n\nDibuat 21 Jun 2017\n\n[KKM.R.600-1/1/45; PN(PU2)97/X]\n\nDATUK DR NOOR HISHAM BIN ABDULLAH\n\nPresiden\n\nMajlis Perubatan Malaysia\n\nDiluluskan\n\nDATUK SERI DR. S. SUBRAMANIAM\n\nMenteri Kesihatan\n\nMEDICAL ACT 1971\n\nMEDICAL REGULATIONS 2017\n\nARRANGEMENT OF REGULATIONS\n\nPART I\n\nPRELIMINARY\n\nRegulation\n\n1. Citation and commencement\n\nPART II\n\nELECTION OF ELECTED MEMBERS OF THE COUNCIL\n\n2. Interpretation of \"elected members\"\n\n3. Returning Officer\n\n4. Notice of and request for nomination\n\n5. Nomination\n\n6. Withdrawal of candidature\n\n7. Eligibility of nomination\n\n8. Publication of name of candidate, etc.\n\n9. Objection\n\n10. Uncontested election\n\n11. Nominations exceed vacancies\n\n12. Form of voting\n\n13. Ballot paper\n\n14. Method of voting\n\n15. Opening of ballot paper\n\n16. Counting of vote\n\n17. Declaration of result\n\n18. Grounds for rejection of ballot paper\n\n19. Sealing of ballot paper and Envelope A\n\n20. Retention of ballot paper\n\n21. Complaints\n\nPART III\n\nREGISTRATION OF MEDICAL PRACTITIONERS\n\n22. Medical Education Committee\n\n23. Evaluation Committee\n\n24. Malaysian Medical Register\n\n25. Provisional registration\n\n26. Full registration\n\n27. Specialist registration\n\n28. Annual practising certificate\n\n29. Renewal of annual practising certificate\n\n30. Renewal of temporary practising certificate\n\n31. Reinstatement of name\n\n32. Restoration of name\n\n33. Proof of registration\n\nPART IV\n\nDISCIPLINARY PROCEEDINGS\n\n34. Disciplinary Panel\n\n35. Preliminary Investigation Committee\n\n36. Disciplinary Board\n\n37. Provisions relating to the Preliminary Investigation Committee or the Disciplinary\n\nBoard\n\n38. Complaint against registered medical practitioner\n\n39. Summary dismissal of complaint\n\n40. Procedure of investigation\n\n41. Recommendation and record of investigation\n\n42. Inquiry by the Disciplinary Board\n\n43. Fitness to Practise Committee\n\n44. Recommendation by Disciplinary Board\n\n45. Decision of Council\n\nPART V\n\nGENERAL\n\n46. Forms\n\n47. Prescribed fees\n\n48. Appointment of legal advisor\n\n49. Disclosure of information\n\n50. Prohibition from attending disciplinary proceedings\n\n51. Revocation\n\nFIRST SCHEDULE\n\nSECOND SCHEDULE\n\nMEDICAL ACT 1971\n\nMEDICAL REGULATIONS 2017\n\nIN exercise of the powers conferred by section 36 of the Medical Act 1971 [Act 50],\n\nthe Council, with the approval of the Minister, makes the following regulations:\n\nPART I\n\nPRELIMINARY\n\nCitation and commencement\n\n1. (1) These regulations may be cited as the Medical Regulations 2017.\n\n(2) These Regulations come into operation on 1 July 2017 except\n\nparagraphs 28(2)(a) and (b).\n\n(3) Paragraphs 28(2)(a) and (b) come into operation on 1 January 2019.\n\nPART II\n\nELECTION OF ELECTED MEMBERS OF THE COUNCIL\n\nInterpretation of \"elected members\"\n\n2. For the purpose of this Part, \"elected members\" means the members of the Council\n\nreferred to in paragraphs 3A(1)(e), (f) and (g) of the Act.\n\nReturning Officer\n\n3. (1) The President of the Council shall be the Returning Officer for the purpose of\n\nthe election of elected members of the Council.\n\n(2) The Returning Officer may appoint his assistants who shall act on his\n\ndirection.\n\nNotice of and request for nomination\n\n4. (1) In the case of election of elected members of the Council or if a vacancy in\n\nany of the office of the elected members of the Council arises by effluxion of time, the\n\nReturning Officer shall, at least three months before the proposed date to hold elections\n\nor the occurrence of such vacancy, as the case may be, cause a notice to be published on\n\nthe official website of the Council or in any other form of publication which the Council\n\ndeems fit.\n\n(2) The notice referred to in subregulation (1) shall—\n\n(a) specify the office that is vacant or will fall vacant;\n\n(b) request for the nomination of candidates for such office; and\n\n(c) specify the time and date after which the nomination of candidates for\n\nsuch office shall not be accepted.\n\n(3) If any vacancy in any of the office of the elected members of the Council\n\noccurs by reason of death, resignation or cessation of membership in the Council, the\n\nReturning Officer shall, within the period of one month from the occurrence of such\n\nvacancy, cause a notice to be published on the official website of the Council or in any\n\nother form of publication which the Council deems fit.\n\n(4) The notice referred to in subregulation (3) shall—\n\n(a) specify the office that has been vacated;\n\n(b) request for the nomination of candidates for such office; and\n\n(c) specify the time and date after which the nomination of candidates for\n\nsuch office shall not be accepted.\n\nNomination\n\n5. (1) The nomination of a candidate shall be in Form 1 and shall be signed by two\n\nfully registered medical practitioners, as proposer and seconder, respectively, and\n\nendorsed by the written consent of the candidate.\n\n(2) No person shall propose or second the nomination of any candidate unless\n\nhe is a person who is eligible to elect a member under paragraph 3A(1)(e), (f) or (g) of\n\nthe Act.\n\n(3) Every person who is eligible to elect a member under paragraph 3A(1)(e), (f)\n\nor (g) of the Act and who desires to nominate each candidate for election as a member\n\nof the Council shall—\n\n(a) enter his own name as proposer or seconder and sign the nomination\n\nform referred to in subregulation (1);\n\n(b) enter on the nomination form the name of each candidate he desires to\n\nnominate and obtain the consent of each candidate whose name has\n\nbeen endorsed on the form; and\n\n(c) submit the nomination form together with the required information to\n\nthe Returning Officer.\n\n(4) The number of candidates nominated by any proposer shall not exceed the\n\nnumber of vacancies of elected members of the Council to be filled in that election.\n\n(5) Upon receipt of the nomination form, the Returning Officer or his assistants\n\nshall endorse the date and time of receipt of such nomination form.\n\n(6) No nomination shall be accepted by the Returning Officer or his assistants\n\nafter the closing of nomination of candidate.\n\nWithdrawal of candidature\n\n6. (1) Any candidate may withdraw his candidature within the period of seven\n\ndays from the date of submission of nomination form by notice in writing and delivered\n\nto the Returning Officer.\n\n(2) A candidate who has withdrawn his candidature shall not be allowed to\n\ncancel the withdrawal of his candidature or to be re-nominated as a candidate in the\n\nsame election.\n\n(3) Upon receipt of the notice of withdrawal, the Returning Officer shall publish\n\nthe fact of the withdrawal on the official website of the Council or in any other form of\n\npublication which he deems fit.\n\nEligibility of nomination\n\n7. The Returning Officer shall determine the eligibility of the medical practitioner to\n\nbe nominated as a candidate for the elected office.\n\nPublication of name of candidate, etc.\n\n8. (1) The Returning Officer shall, within the period of fourteen days after the\n\nclosing of nomination of candidate, cause a notice to be published on the official website\n\nof the Council or in any other form of publication which the Council deems fit.\n\n(2) The notice referred to in subregulation (1) shall specify—\n\n(a) the offices which are vacant or shall be vacant and in respect of which\n\nelections are to be held;\n\n(b) the names of the candidates nominated and the names of the fully\n\nregistered medical practitioners proposing and seconding such\n\ncandidates; and\n\n(c) the time and date after which no objection may be made against any of\n\nthe candidates.\n\nObjection\n\n9. (1) An objection shall only be made on the following grounds:\n\n(a) the candidate is not a citizen of Malaysia;\n\n(b) the candidate is not a holder of a current practising certificate;\n\n(c) the candidate is already a member of the Council and will, if elected,\n\nserve as a member of the Council in more than one capacity;\n\n(d) the person nominating the candidate is not a holder of a current\n\npractising certificate;\n\n(e) the candidate has been found guilty by a court of any offence involving\n\ncorruption, fraud, dishonesty or moral turpitude, or any other offence\n\npunishable with imprisonment, whether in itself only or in addition to\n\nor in lieu of a fine, for more than two years;\n\n(f) the candidate is an undischarged bankrupt;\n\n(g) the candidate is not qualified on the grounds of residence; or\n\n(h) the fully registered medical practitioner who nominates the candidate\n\nis not qualified on the grounds of residence.\n\n(2) Any objection against any candidate may only be made by a fully registered\n\nmedical practitioner and shall—\n\n(a) specify the grounds relied upon;\n\n(b) specify the facts in support of the grounds;\n\n(c) specify the source of knowledge, that is whether of his own knowledge\n\nor through a third person;\n\n(d) if the source of his knowledge is a third person, specify the person's\n\nname, address and occupation; and\n\n(e) prepare any document in support of the objection.\n\n(3) If the Returning Officer has reasonable cause to believe that the objection is\n\nprima facie true, the Returning Officer shall, within the period of seven days after the\n\nreceipt of the objection, send a copy of the objection and any supporting documents to\n\nthe candidate together with a notice requiring the candidate to show the reason his\n\nname should not be deleted from the list of candidate within the period of seven days of\n\nservice of the notice.\n\n(4) If the Returning Officer is satisfied that the objection is true based on the\n\nreason submitted by the candidate in subregulation (3), the Returning Officer shall\n\ndelete the name of the candidate from the list of candidate.\n\nUncontested election\n\n10. After the Returning Officer has made a decision on any objection referred to in\n\nregulation 9, the Returning Officer shall declare the nominated candidates as elected if\n\nthe number of nominated candidates equals to or is less than the number of vacant\n\noffices.\n\nNominations exceed vacancies\n\n11. If the Returning Officer receives more nominations than there are vacancies to be\n\nfilled, the Returning Officer shall cause a notice to be published on the official website of\n\nthe Council or in any other form of publication he deems fit stating—\n\n(a) the date, time and place designated for voting;\n\n(b) the procedure for voting; and\n\n(c) the names of the candidates and other relevant information.\n\nForm of voting\n\n12. Voting may be exercised manually, or by any other means, as the Returning Officer\n\nmay determine.\n\nBallot paper\n\n13. (1) The Returning Officer shall, not less than four weeks before the closing date\n\nof the election, send to the person entitled to vote in the election—\n\n(a) a ballot paper in Form 2, that shall contain the names and academic\n\nqualifications of the candidates and specify the date and time on which\n\nthe election will be closed;\n\n(b) an envelope marked as Envelope A, in Form 3, that shall contain a\n\nspace for name and signature of the witness; and\n\n(c) an envelope marked as Envelope B, in Form 4, that shall bear the name\n\nof the Returning Officer and his address at which the ballot paper will\n\nbe received by him.\n\n(2) A fully registered medical practitioner may deliver a statutory declaration\n\nsigned by him and request the Returning Officer to send him new ballot paper and\n\nenvelopes if—\n\n(a) he has not received the ballot paper and envelopes;\n\n(b) he has lost the ballot paper and envelopes; or\n\n(c) his ballot paper and envelopes have been inadvertently damaged.\n\n(3) In the case of a new ballot paper is sent, a record shall be made under the\n\nfully registered medical practitioner's name.\n\n(4) No election shall be invalid if the ballot paper is not received by a fully\n\nregistered medical practitioner.\n\n(5) On receipt of the envelopes, the Returning Officer or his assistants shall\n\nendorse on the outer envelope the date and time of receipt.\n\n(6) All envelopes received after the specified date and time referred to in\n\nparagraph (1)(a) shall be rejected.\n\nMethod of voting\n\n14. (1) A fully registered medical practitioner shall place a mark as directed on the\n\nballot paper against the names of the candidates for whom he wishes to vote.\n\n(2) Every voter shall enclose the ballot paper into Envelope A and shall sign on\n\nEnvelope A in the presence of another fully registered medical practitioner, Justice of\n\nthe Peace, an officer in the managerial and professional group of the public service or an\n\nadvocate and solicitor, who shall then countersign.\n\n(3) The fully registered medical practitioner shall enclose Envelope A in\n\nEnvelope B and shall then forward the sealed Envelope B to the Returning Officer or his\n\nassistants so as to reach him not later than the specified time on the closing date of the\n\nelection.\n\n(4) The number of candidates to be voted by a fully registered medical\n\npractitioner shall not exceed the number of vacancies required to be filled in an election.\n\nOpening of ballot paper\n\n15. (1) The Returning Officer shall, at least ten days before the date of opening of\n\nEnvelope B, notify every candidate of the time, date and place at which he intends to\n\nopen Envelope B.\n\n(2) The candidate or his nominee who has been so authorized in writing by him\n\nshall be entitled to be present at the opening of the envelopes.\n\n(3) The Returning Officer shall cause Envelope B to be opened and shall, either\n\non his own initiative or at the instance of the candidate or his nominee, if he is so\n\nsatisfied that any of the Envelope A is not in accordance with these Regulations, reject\n\nthe envelope without opening it.\n\n(4) The rejected Envelope A shall be sealed in a separate parcel.\n\nCounting of vote\n\n16. (1) The envelopes which are not rejected shall then be opened and the ballot\n\npaper contained in the envelopes shall be placed in a separate receptacle.\n\n(2) The ballot paper shall then be opened, and the Returning Officer shall\n\nproceed with the counting and he shall, either on his own initiative or at the instance of\n\nthe candidate or his nominee, if he is so satisfied that any of the ballot paper is not in\n\naccordance with these Regulations, reject the ballot paper.\n\n(3) The rejected ballot paper shall be sealed in a separate parcel.\n\nDeclaration of result\n\n17. (1) When the counting of votes has been completed, the Returning Officer shall\n\ndeclare the candidate with the highest number of votes to be elected and shall cause a\n\nnotice of declaration to be published on the official website of the Council or in any\n\nother form of publication which the Council deems fit.\n\n(2) When an equality of votes is found to exist between any candidate and the\n\naddition of one vote would entitle any of the candidate to be declared as elected, the\n\nPresident may cast a casting vote that shall determine the elected candidate.\n\n(3) If the President is unwilling to give his casting vote, the determination of the\n\nelected candidate shall be made by lot in the presence of the President and the\n\ncandidates or their nominees, if any.\n\nGrounds for rejection of ballot paper\n\n18. (1) The Returning Officer shall reject the ballot paper for the following grounds:\n\n(a) the ballot paper is incompletely filled;\n\n(b) the ballot paper is received after the closing date and time of election;\n\n(c) the ballot paper is not the ballot paper issued by the Returning Officer;\n\n(d) more votes are given than there are candidates to be returned;\n\n(e) the ballot paper does not clearly indicate the intention of the voters; or\n\n(f) the ballot paper is filled in by a fully registered medical practitioner\n\nwho is disqualified from voting.\n\n(2) If any objection is made to any ballot paper on the ground that the ballot\n\npaper does not comply with the conditions, the objection shall be decided at once by the\n\nReturning Officer.\n\n(3) The decision of the Returning Officer shall be final.\n\nSealing of ballot paper and Envelope A\n\n19. The opened Envelope A and the ballot paper shall be sealed in separate parcels.\n\nRetention of ballot paper\n\n20. Subject to any direction by the Returning Officer, the sealed parcels containing\n\nEnvelope A, ballot paper, rejected ballot paper and rejected Envelope A shall be retained\n\nby the Council for one year and shall then be destroyed with the seals unbroken.\n\nComplaints\n\n21. The Council may on its own initiative or at the instance of any fully registered\n\nmedical practitioner investigate into any complaint relating to the conduct and result of\n\nthe election and may take any action including declaring the election void in whole or in\n\npart, as it thinks fit, provided that the complaint is made within the period of fourteen\n\ndays after the publication of the result.\n\nPART III\n\nREGISTRATION OF MEDICAL PRACTITIONERS\n\nMedical Education Committee\n\n22. (1) There shall be a Medical Education Committee whose membership, rules and\n\nprocedure shall be determined by the Council.\n\n(2) The function of the Medical Education Committee is to recognise the training\n\ninstitution and the qualification awarded by the recognised training institution for the\n\npurposes of registration of medical practitioners.\n\n(3) The Medical Education Committee shall make the following\n\nrecommendations to the Council:\n\n(a) the required standard and qualifications of the training institutions for\n\nlisting in the Second Schedule to the Act and the maintenance of such\n\nstandard;\n\n(b) the standard of proficiency which is required from candidates in the\n\nqualifying examinations;\n\n(c) the relevant training programmes for provisionally registered medical\n\npractitioners; and\n\n(d) the standard and qualifications for entry into the specialist register.\n\n(4) In relation to a person who holds qualification from an institution not listed\n\nin the Second Schedule to the Act, the Medical Education Committee shall make the\n\nfollowing recommendations to the Council:\n\n(a) the required qualifications in the field of medicine and surgery for the\n\npurposes of subparagraph 12(1)(a)(ii) of the Act; and\n\n(b) the examination conducted by a body approved by the Minister under\n\nparagraph 12(1)(aa) of the Act.\n\nEvaluation Committee\n\n23. (1) There shall be an Evaluation Committee for Primary Medical Qualifications\n\nand Evaluation Committee for Specialist Medical Qualifications whose membership,\n\nrules and procedure shall be determined by the Council.\n\n(2) The Evaluation Committee for Primary Medical Qualifications shall make\n\nrecommendation to the Council, including such restriction and condition as it deems\n\nnecessary, for the following application:\n\n(a) a provisional registration under section 12 of the Act;\n\n(b) a full registration under section 14 of the Act; or\n\n(c) a temporary practising certificate under subsection 16(1) of the Act.\n\n(3) The Evaluation Committee for Specialist Medical Qualifications shall make\n\nrecommendation to the Council, including such conditions and restrictions as it deems\n\nnecessary, for the registration as a specialist under section 14C of the Act.\n\n(4) The Council may accept or refuse the recommendation made by the\n\nEvaluation Committee for Primary Medical Qualifications or the Evaluation Committee\n\nfor Specialist Medical Qualifications provided that the Council shall provide reasons to\n\nbe recorded for such refusal.\n\nMalaysian Medical Register\n\n24. (1) The Registrar shall maintain a Register in both physical and electronic forms.\n\n(2) Upon receiving an application for registration from a medical practitioner,\n\nthe Registrar shall make an entry in the Register based on the following division:\n\n(a) Provisional Registration Division, which shall contain the names and\n\nparticulars of medical practitioners registered under section 12 of the\n\nAct;\n\n(b) Full Registration Division, which shall contain the names and\n\nparticulars of medical practitioners registered under section 14 of the\n\nAct; and\n\n(c) Specialist Registration Division, which shall contain the names and\n\nparticulars of medical practitioners registered under section 14C of the\n\nAct.\n\n(3) The Registrar shall cause the Register to be published on the official website\n\nof the Council or in any other form of publication as the Council deems fit.\n\nProvisional registration\n\n25. (1) Any person who is entitled to be provisionally registered shall apply to the\n\nRegistrar in Form 5 and pay the fee as prescribed in the Second Schedule.\n\n(2) Before registering such person, the Registrar shall require the applicant—\n\n(a) to produce the original degree conferred upon the applicant or if such\n\ndegree is not available, request for an official transcript of such degree\n\nto be sent by the institution concerned directly to the Registrar;\n\n(b) to produce a statement by a registered medical practitioner, an\n\nadvocate and solicitor or an officer in the managerial and professional\n\ngroup of the public service to the effect that the applicant is personally\n\nknown to him and that to the best of his knowledge the applicant is the\n\nperson who has been conferred such degree;\n\n(c) if the qualification referred to in his application is not one of the\n\nqualifications specified in the Second Schedule to the Act—\n\n(i) to produce a certificate by the Minister to the effect that the\n\nqualification held by the applicant has been deemed suitable for\n\nregistration under subparagraph 12(1)(a)(ii) of the Act; and\n\n(ii) to produce a certificate to the effect that the applicant has passed\n\nsuch examination as specified in paragraph 12(1)(aa) of the Act;\n\n(d) to produce any official document from the receiving institution to the\n\neffect that the applicant has been selected for employment under\n\nsubsection 13(2) of the Act, or that the applicant is eligible to be\n\nexempted from such employment under subsection 13(6) of the Act;\n\n(e) to provide proof that the applicant has obtained a pass in an\n\nexamination as determined by the Council; and\n\n(f) to satisfy any other conditions and requirements as determined by the\n\nCouncil.\n\n(3) The certificate of provisional registration shall be in Form 6.\n\n(4) The duration of the certificate shall be as determined by the Council.\n\nFull registration\n\n26. (1) Any person who is entitled to be fully registered as a medical practitioner\n\nshall apply in Form 7 and pay the fee as prescribed in the Second Schedule.\n\n(2) Before registering such person, the Registrar shall require him—\n\n(a) to produce—\n\n(i) a certificate of satisfactory service in resident medical capacity in\n\nForm 8;\n\n(ii) a certificate of exemption from employment in a resident medical\n\ncapacity in Form 9;\n\n(iii) documents relating to subsection 14(2A) of the Act; or\n\n(iv) a certificate issued by the Minister under subsection 14(3) of the\n\nAct certifying that the Minister is satisfied with the adequacy of\n\nthe person's qualification in Form 10; and\n\n(b) to satisfy any other conditions and requirements as determined by the\n\nCouncil.\n\n(3) The certificate of full registration shall be in Form 11.\n\nSpecialist registration\n\n27. (1) A fully registered medical practitioner who is entitled to be registered as a\n\nspecialist shall apply to the Council in Form 12 and pay the fee as prescribed in the\n\nSecond Schedule.\n\n(2) Before registering such person, the Registrar shall require him—\n\n(a) to produce proof of compliance with section 14B of the Act; and\n\n(b) to satisfy any other conditions and requirements as determined by the\n\nCouncil.\n\n(3) The certificate of specialist registration shall be in Form 13.\n\nAnnual practising certificate\n\n28. (1) A fully registered medical practitioner who desires to practice as a medical\n\npractitioner shall apply to the Council for an annual practising certificate in Form 14\n\nand pay the fee as prescribed in the Second Schedule.\n\n(2) An application under subregulation (1) shall be accompanied by—\n\n(a) a Professional Indemnity Cover;\n\n(b) the evidence of sufficient continuing professional development points\n\nobtained as determined by the Council; and\n\n(c) any other documents or certificates as determined by the Council.\n\n(3) Except in the case of a first application for an annual practising certificate,\n\nwhere any fully registered medical practitioner desires to practise after the thirty-first\n\nday of December of any year but fails to apply for an annual practising certificate within\n\nthe period as specified in subsection 20(1) of the Act shall pay, in addition to the fee\n\npayable in respect of an annual practising certificate, an additional fee for late\n\napplication as prescribed in the Second Schedule.\n\n(4) The annual practising certificate shall be in Form 15.\n\nRenewal of annual practising certificate\n\n29. (1) A fully registered medical practitioner may apply to renew his annual\n\npractising certificate.\n\n(2) The provision on the application for an annual practising certificate under\n\nregulation 28 shall apply to an application for renewal of the annual practising\n\ncertificate.\n\nRenewal of temporary practising certificate\n\n30. (1) Any person who has been issued with a temporary practising certificate may\n\napply to renew his temporary practising certificate.\n\n(2) The application for renewal of the temporary practising certificate shall be\n\nmade to the Council in Form 16 and pay the fee as prescribed in the Second Schedule.\n\n(3) The temporary practising certificate shall not be used for employment\n\npurposes.\n\n(4) The temporary practising certificate shall be in Form 17.\n\nReinstatement of name\n\n31. (1) Any registered medical practitioner whose name has been removed from the\n\nRegister under section 24 of the Act may apply to the Council for his name to be\n\nreinstated into the Register in Form 18 and pay the fee as prescribed in the Second\n\nSchedule.\n\n(2) An application under subregulation (1) shall be accompanied by—\n\n(a) any information, photographs and documents as required by the\n\nCouncil; and\n\n(b) any proof that the applicant has adequate clinical skills to practise as a\n\nmedical practitioner to the satisfaction of the Council.\n\n(3) The application for reinstatement of name into the Register shall be\n\nsupported by medical reports provided by two fully registered medical practitioners\n\ncertifying that the applicant is fit to practice.\n\nRestoration of name\n\n32. (1) Any registered medical practitioner whose name has been struck off from\n\nthe Register under section 30 of the Act may apply to the Council for his name to be\n\nrestored into the Register in Form 18 and pay the fee as prescribed in the Second\n\nSchedule.\n\n(2) An application under subregulation (1) shall be accompanied by—\n\n(a) any information, photographs and documents as required by the\n\nCouncil;\n\n(b) any proof that the applicant has adequate clinical skills to practise as a\n\nmedical practitioner to the satisfaction of the Council; and\n\n(c) at least two testimonies provided by two fully registered medical\n\npractitioners of at least ten years standing certifying the applicant's\n\nidentity and good character.\n\nProof of registration\n\n33. (1) Every registered medical practitioner shall—\n\n(a) cause the practitioner's registration number to be stated on all medical\n\nprescriptions and all other documentation and records relating to the\n\npractitioner's medical practice; or\n\n(b) cause the specialist's registration number to be stated on all medical\n\nprescriptions and all other documentation and records relating to the\n\nspecialist's medical practice.\n\n(2) Any person who contravenes this regulation shall be subjected to the\n\ndisciplinary jurisdiction of the Council.\n\nPART IV\n\nDISCIPLINARY PROCEEDINGS\n\nDisciplinary Panel\n\n34. (1) A Disciplinary Panel shall be established from which members of the\n\nPreliminary Investigation Committee and Disciplinary Board shall be drawn.\n\n(2) The Disciplinary Panel shall consist of the following members who shall be\n\nappointed by the Council:\n\n(a) Council members;\n\n(b) fully registered medical practitioners of at least ten years of good\n\nstanding with current annual practising certificates; and\n\n(c) any person other than in paragraph (a) or (b).\n\n(3) The members of the Disciplinary Panel shall hold office for a term not\n\nexceeding three years and may be eligible for reappointment.\n\n(4) The Council may, at any time, revoke the appointment of any member of the\n\nDisciplinary Panel.\n\nPreliminary Investigation Committee\n\n35. (1) The Preliminary Investigation Committee shall consist of not more than five\n\nmembers selected from the Disciplinary Panel.\n\n(2) The function of the Preliminary Investigation Committee is to conduct a\n\npreliminary investigation into complaints or information touching on any disciplinary\n\nmatter to determine whether or not there shall be an inquiry.\n\n(3) The quorum of the Preliminary Investigation Committee shall be three.\n\nDisciplinary Board\n\n36. (1) The Disciplinary Board shall consist of the following members who shall be\n\nselected from the Disciplinary Panel:\n\n(a) at least three members of the Council;\n\n(b) three fully registered medical practitioners of at least ten years of good\n\nstanding with current annual practising certificates; and\n\n(c) any person other than in paragraph (a) or (b).\n\n(2) The function of the Disciplinary Board is to conduct an inquiry on any\n\ncomplaint or information touching on any disciplinary matter received against any\n\nmedical practitioner.\n\n(3) The quorum of the Disciplinary Board shall be five.\n\nProvisions relating to the Preliminary Investigation Committee or the\n\nDisciplinary Board\n\n37. (1) The Council shall appoint a fully registered medical practitioner from among\n\nmembers of the Preliminary Investigation Committee or the Disciplinary Board, as the\n\ncase may be, to be the chairman of the respective committees.\n\n(2) The chairman shall preside at all meetings of the Preliminary Investigation\n\nCommittee or the Disciplinary Board, as the case may be.\n\n(3) In the absence of the chairman, the most senior fully registered medical\n\npractitioner present at the meeting of such Preliminary Investigation Committee or the\n\nDisciplinary Board, as the case may be, shall preside the meeting.\n\n(4) The decision of the Preliminary Investigation Committee or the Disciplinary\n\nBoard, as the case may be, shall be made by a majority of votes.\n\n(5) In the event of equality of votes, the chairman, or in his absence, the person\n\nchairing the meeting shall have a casting vote in addition to his deliberative vote.\n\n(6) The Preliminary Investigation Committee or the Disciplinary Board shall\n\ndetermine its own procedure.\n\n(7) No act done or proceedings taken by the Preliminary Investigation\n\nCommittee or the Disciplinary Board, as the case may be, shall be invalid on the ground\n\nof—\n\n(a) any vacancy in the membership of, or any defect in the constitution of\n\nthe Preliminary Investigation Committee or the Disciplinary Board; or\n\n(b) any omission, defect or irregularity not affecting the merits of the case.\n\n(8) A member of the Preliminary Investigation Committee or the Disciplinary\n\nBoard shall, subject to such conditions as may be specified in his instrument of\n\nappointment, unless he sooner resigns, hold office for a term not exceeding three years\n\nand is eligible for reappointment.\n\n(9) The Council may, at any time, revoke the appointment of any member of\n\nthe Preliminary Investigation Committee if such person is found by the Council to be no\n\nlonger a fit and proper person to carry out the functions under subregulation (1).\n\n(10) A member of the Preliminary Investigation Committee may at any time\n\nresign his office by giving a notice in writing to the Council and a copy of the notice to\n\nthe committee.\n\n(11) The Council may appoint any person it thinks fit to fill the vacancy for the\n\nremainder of the term vacated by a member.\n\nComplaint against registered medical practitioner\n\n38. (1) Any complaint or information pertaining to any registered medical\n\npractitioner shall be made in writing and addressed to the Council.\n\n(2) The Council shall submit the complaint or information received to the\n\nPreliminary Investigation Committee.\n\nSummary dismissal of complaint\n\n39. (1) The Preliminary Investigation Committee may recommend to the Council to\n\nsummarily dismiss any complaint or information if it is satisfied—\n\n(a) the name and address of the complainant is unknown or untraceable;\n\n(b) even if the facts were true, the facts do not constitute a disciplinary\n\nmatter; or\n\n(c) there is reason to doubt the truth of the complaint or information.\n\n(2) The Preliminary Investigation Committee may, before recommending any\n\nsummary dismissal, require the complainant to make a statutory declaration of the facts\n\nalleged by him.\n\n(3) The Preliminary Investigation Committee shall provide reasons for such\n\nrecommendation in subregulation (1).\n\nProcedure of investigation\n\n40. (1) Where the Preliminary Investigation Committee has reason to believe that\n\nthe complaint or information is probably true, the Preliminary Investigation Committee\n\nshall—\n\n(a) notify the registered medical practitioner concerned of the receipt of a\n\ncomplaint or information with regard to him;\n\n(b) forward a copy of the complaint or information and any supporting\n\nstatutory declaration and document received to the registered medical\n\npractitioner concerned;\n\n(c) require the registered medical practitioner concerned to submit a reply\n\nto the complaint or information within thirty days from the receipt of\n\nthe notification; and\n\n(d) request from the registered medical practitioner concerned for\n\nclarification or further documents to be provided within the period of\n\nfourteen days from the receipt of the request.\n\n(2) Upon considering the reply and clarification, if any, by the registered medical\n\npractitioner concerned, the Preliminary Investigation Committee may recommend to\n\nthe Council—\n\n(a) no further action shall be taken on the complaint or information\n\nreceived; or\n\n(b) the complaint or information received shall be forwarded to the\n\nDisciplinary Board for an inquiry to be held.\n\n(3) If at the close of the investigation, the Preliminary Investigation Committee\n\nfinds that there are serious grounds to support the allegation against the registered\n\nmedical practitioner concerned, the Preliminary Investigation Committee may\n\nrecommend to the Council to appoint a member of the Disciplinary Panel who was not\n\ninvolved with the investigation as the complainant if—\n\n(a) the actual complainant withdraws the complaint or information; or\n\n(b) the actual complainant is not contactable by the Preliminary\n\nInvestigation Committee.\n\nRecommendation and record of investigation\n\n41. (1) The recommendation and record of investigation by the Preliminary\n\nInvestigation Committee shall be prepared and forwarded to the Council within thirty\n\ndays from the close of investigation.\n\n(2) The Council may, upon considering the recommendation of the Preliminary\n\nInvestigation Committee, for reasons to be recorded—\n\n(a) summarily dismiss the complaint or information; or\n\n(b) forward the complaint or information together with the\n\nrecommendation of the Preliminary Investigation Committee to the\n\nDisciplinary Board for an inquiry.\n\nInquiry by the Disciplinary Board\n\n42. (1) Upon receipt of the complaint or information together with the\n\nrecommendation of the Preliminary Inquiry Committee, the Disciplinary Board—\n\n(a) may issue an interim order to the registered medical practitioner\n\nconcerned in accordance with section 29A of the Act;\n\n(b) shall, by a written order, require the attendance of the complainant and\n\nany person appears to be acquainted with the circumstances of the\n\ncomplaint or information, before the Disciplinary Board on a date, time\n\nand place to be specified in the order; and\n\n(c) shall notify the registered medical practitioner concerned—\n\n(i) the date, time and place at which the inquiry into the complaint or\n\ninformation shall be held; and\n\n(ii) his rights to be present with or without counsel at the inquiry.\n\n(2) The Disciplinary Board shall convene the inquiry on the date, time and place\n\nspecified in the order and shall proceed to inquire into the allegation made against the\n\nregistered medical practitioner concerned even if he is not present.\n\n(3) The Disciplinary Board shall examine the complainant and any person in\n\nsupport of the allegation.\n\n(4) The complainant and any person referred to in subregulation (3) may be\n\ncross-examined by the registered medical practitioner concerned and further be\n\nre-examined by the Disciplinary Board if necessary.\n\n(5) The Disciplinary Board shall record all statements made by the complainant\n\nand person examined.\n\n(6) For the purposes of the inquiry, the Disciplinary Board may require the\n\ncomplainant or the registered medical practitioner concerned—\n\n(a) to produce any material with regard to the inquiry by the Disciplinary\n\nBoard and to make copies of such material; or\n\n(b) to attend at a specified time and place to give evidence and to produce\n\nany book, document, paper or other record.\n\n(7) After taking the statements of the complainant and the persons referred to in\n\nsubregulation (3), the Disciplinary Board shall—\n\n(a) if the Disciplinary Board finds that there are not sufficient grounds to\n\nsupport the allegation, recommend to the Council that no further action\n\nshall be taken on the registered medical practitioner concerned; or\n\n(b) if the Disciplinary Board finds that there are sufficient grounds to\n\nsupport the allegation, frame a charge against the registered medical\n\npractitioner concerned and explain to him that he is at liberty to state\n\nhis defence on the charge framed against him and call witnesses in\n\nsupport of his defence.\n\n(8) If the registered medical practitioner concerned after being informed of his\n\nrights elects not to make a statement or call any witnesses in support of his defence, the\n\nDisciplinary Board may recommend to the Council to find such registered medical\n\npractitioner concerned guilty of the offence charged against him.\n\n(9) If the registered medical practitioner concerned elects to make his defence\n\nbefore the Disciplinary Board, his statement and the statements of his witnesses, if any,\n\nshall be recorded and the Disciplinary Board may cross examine him and his witnesses\n\non their statements.\n\nFitness to Practise Committee\n\n43. (1) During the course of the inquiry, if the Disciplinary Board found that the\n\nregistered medical practitioner concerned is professionally incompetent or his fitness to\n\npractise is impaired by physical or mental disability, the Disciplinary Board may refer\n\nthe registered medical practitioner concerned to the Fitness to Practise Committee for\n\nan evaluation.\n\n(2) The Fitness to Practice Committee shall evaluate any registered medical\n\npractitioner referred to in subregulation (1).\n\n(3) For the purpose of evaluating the professional competency or fitness to\n\npractise of a registered medical practitioner, the Fitness to Practise Committee may, by\n\norder in writing, require the attendance of the registered medical practitioner\n\nconcerned before the Committee on a date, time and place to be specified in the order to\n\nanswer any question and to produce any required document.\n\n(4) The Fitness to Practice Committee may, upon receipt of the complaint or\n\ninformation alleging that any registered medical practitioner is professionally\n\nincompetent or his fitness to practise is impaired by physical or mental disability,\n\nevaluate such registered medical practitioner concerned.\n\nRecommendation by Disciplinary Board\n\n44. (1) After considering the statement of the registered medical practitioner\n\nconcerned and his witnesses, if any, together with the evaluation report of the Fitness to\n\nPractise Committee, if any, the Disciplinary Board shall—\n\n(a) if the Disciplinary Board finds that there are no sufficient grounds to\n\nsupport the charge, recommend to the Council that no further action\n\nshall be taken on the registered medical practitioner concerned; or\n\n(b) if the Disciplinary Board finds the registered medical practitioner\n\nconcerned guilty of the charge, the Disciplinary Board shall inform the\n\nregistered medical practitioner concerned of its finding and the\n\nreasons for its decision.\n\n(2) The Disciplinary Board shall request such registered medical practitioner\n\nconcerned to make any plea in mitigation and after hearing such plea, if any,\n\nrecommend to the Council any of the punishments under section 30 of the Act.\n\nDecision of Council\n\n45. (1) The Council may, upon considering the records of the inquiry and\n\nrecommendation of the Disciplinary Board, for reasons to be recorded—\n\n(a) accept the recommendation of the Disciplinary Board and impose the\n\npunishment;\n\n(b) direct the Disciplinary Board to reconvene the meeting and inquire\n\nfurther into the complaint or information;\n\n(c) direct that a new Disciplinary Board be constituted and conduct an\n\ninquiry into the complaint or information;\n\n(d) direct that the charge be dismissed if the Council finds that no case has\n\nbeen made out against the registered medical practitioner concerned;\n\n(e) reject the recommendation of the Disciplinary Board and makes its\n\ndecision; or\n\n(f) give such other direction as the Council thinks fit.\n\n(2) The Council shall inform the registered medical practitioner concerned of the\n\ndecision made under subregulation (2).\n\n(3) The Council shall have the right to publish in the media the conclusion of any\n\ninquiry done.\n\nPART V\n\n GENERAL\n\nForms\n\n46. The forms specified in these Regulations are as prescribed in the First Schedule.\n\nPrescribed fees\n\n47. The fees payable under these Regulations shall be as prescribed in the Second\n\nSchedule.\n\nAppointment of legal advisor\n\n48. (1) The Council may appoint a legal advisor to assist the Council, Disciplinary\n\nBoard or Preliminary Investigation Committee during any disciplinary proceedings.\n\n(2) The Council may appoint any person who is and has been an advocate and\n\nsolicitor for a period of not less than five years to advise the Council, Disciplinary Board\n\nor Preliminary Investigation Committee on—\n\n(a) all questions of law arise in the course of any disciplinary proceedings;\n\nand\n\n(b) the meaning and construction of all documents produced during the\n\ndisciplinary proceedings.\n\nDisclosure of information\n\n49. The Council shall not make available for inspection or publication of the identity\n\ncard number, passport number, residential address, telephone number or e-mail\n\naddress of registered medical practitioner or other particulars that in the opinion of the\n\nCouncil should be protected from disclosure in the interests of the security of the\n\nregistered medical practitioners.\n\nProhibition from attending disciplinary proceedings\n\n50. (1) No member of the Council, Disciplinary Board or Preliminary Investigation\n\nCommittee shall attend or participate in any meeting of the Council, Disciplinary Board\n\nor Preliminary Investigation Committee, as the case may be, relating to a disciplinary\n\nproceedings if—\n\n(a) he was the complainant;\n\n(b) he is personally acquainted with any relevant fact;\n\n(c) he has appeared or likely to appear before the Disciplinary Board for\n\nthe purpose of making any statement; or\n\n(d) the complainant, the persons appearing before the Disciplinary Board\n\nfor the purpose of making any statement or the registered medical\n\npractitioner is a member of his family or his associate.\n\n(2) For the purposes of this regulation—\n\n\"a member of his family\", in relation to a member of the Council, Disciplinary\n\nBoard or Preliminary Investigation Committee, includes—\n\n(a) his spouse;\n\n(b) his parent (including a parent of his spouse);\n\n(c) his child (including an adopted child or stepchild);\n\n(d) his brother or sister (including a brother or sister of his spouse); or\n\n(e) a spouse of his child, brother or sister; and\n\n\"associate\", in relation to a member of the Council, Disciplinary Board or\n\nPreliminary Investigation Committee, means—\n\n(a) a practice or company of which the member or any nominee of his is a\n\npartner or employee; or\n\n(b) a partner or employee of the member.\n\nRevocation\n\n51. The Medical Regulations 1974 [P. U. (A) 68/1974] are revoked.\n\nFIRST SCHEDULE\n\n[Regulation 46]\n\nFORMS\n\nTITLE OF FORM FORM\n\nNomination form 1\n\nBallot Paper 2\n\nEnvelope A 3\n\nEnvelope B 4\n\nApplication for provisional registration 5\n\nCertificate of provisional registration 6\n\nApplication for full registration 7\n\nCertificate of satisfactory service in resident medical capacity 8\n\nCertificate of exemption from employment in a resident medical capacity 9\n\nCertificate issued by the Minister under subsection 14(3) of the Act 10\n\nCertificate of full registration 11\n\nApplication for specialist registration 12\n\nCertificate of specialist registration 13\n\nApplication for an annual practising certificate or renewal of the annual\n\npractising certificate\n\nAnnual practising certificate 15\n\nApplication for renewal of temporary practising certificate 16\n\nTemporary practising certificate 17\n\nApplication for reinstatement or restoration of name into Register 18\n\nSECOND SCHEDULE\n\n[Regulation 47]\n\nFEES\n\nTYPE OF APPLICATION FEE\n\n(RM)\n\nApplication for provisional registration 100\n\nApplication for full registration 150\n\nApplication for specialist registration (for five years) 1500\n\nApplication for annual practising certificate 100\n\nAdditional fee for late application for annual practising certificate 100\n\nApplication for renewal of temporary practising certificate 500\n\nApplication for reinstatement and restoration of name into Register 100\n\nMade 21 June 2017\n\n[KKM.R.600-1/1/45; PN(PU2)97/X]\n\nDATUK DR NOOR HISHAM BIN ABDULLAH\n\nPresident\n\nMalaysian Medical Council\n\nApproved\n\nDATUK SERI DR. S. SUBRAMANIAM\n\nMinister of Health"
+   }
+  }
+ ]
+}

@@ -1,0 +1,480 @@
+{
+ "id": "ID-H913",
+ "title": {
+  "zh": "残疾人法",
+  "en": "Law on Persons with Disabilities",
+  "id": "PENYANDANG CACAT",
+  "orig": "PENYANDANG CACAT",
+  "vi": "Luật về Người Khuyết tật",
+  "th": "พระราชบัญญัติว่าด้วยคนพิการ",
+  "ms": "Akta tentang Orang Kurang Upaya"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02c",
+ "language": "id",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "1997",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU4-1997",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 31,
+ "chars": 22143,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU0041997.pdf&fl=P00990"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\01_宪法与基础法\\印尼_文本_1997_PENYANDANG CACAT.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 31 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H913-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\nDalam Undang-undang ini yang dimaksud dengan:\n1. Penyandang cacat adalah setiap orang yang mempunyai kelainan\nfisik dan/atau mental, yang dapat mengganggu atau merupakan\nrintangan dan hambatan baginya untuk melakukan secara\nselayaknya, yang terdiri dari:\na. penyandang cacat fisik;\nb. penyandang cacat mental;\nc. penyandang cacat fisik dan mental.\n2. Derajat kecacatan adalah tingkat berat ringannya keadaan cacat\nyang disandang seseorang.\n3. Kesamaan kesempatan adalah keadaan yang memberikan peluang\nkepada penyandang cacat untuk mendapatkan kesempatan yang\nsama dalam segala aspek kehidupan dan penghidupan.\n4. Aksebilitas adalah kemudahan yang disediakan bagi penyandang\ncacat guna mewujudkan kesamaan kesempatan dalam se gala aspek\nkehidupan dan penghidupan.\n5. Rehabilitasi adalah proses refungsionalisasi dan pengembangan\nuntuk memungkinkan penyandang cacat mempu melaksanakan\nfungsi sosialnya secara wajar dalam kehidupan masyarakat.\n6. Bantuan sosial adalah upaya pemberian bantuan kepada penyandang\ncacat yang tidak mampu yang bersifat tidak tetap, agar mereka\ndapat meningkatkan taraf kesejahteraan sosialnya.\n7. Pemeliharaan taraf kesejahteraan sosial adalah upaya perlindungan\ndan pelayanan yang bersifat terus menerus, agar penyandang cacat\ndapat mewujudkan taraf hidup yang wajar.\nBAB II\nLANDASAN, ASAS, DAN TUJUAN"
+   }
+  },
+  {
+   "id": "ID-H913-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\nUpaya peningkatan kesejahteraan sosial penyandang cacat berlandaskan\nPancasila dan Undang-Undang Dasar 1945;"
+   }
+  },
+  {
+   "id": "ID-H913-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3…"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 3\nUpaya sebagaimana dimaksud dalam Pasal 2 berasaskan keimanan dan\nketaqwaan terhadap Tuhan Yang Maha Esa,manfaat, kekeluargaan, adil\ndan merata, keseimbangan, keserasian, dan keselarasan dalam\nperikehidupan, hukum, kemandirian, dan ilmu pengetahuan dan\nteknologi."
+   }
+  },
+  {
+   "id": "ID-H913-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\nUpaya sebagaimana dimaksud dalam Pasal 2 yang diselenggarakan\nmelalui pemberdayaan penyandang cacat bertujuan terwujudnya\nkemandirian dan kesejahteraan.\nBAB III\nHAK DAN KEWAJIBAN"
+   }
+  },
+  {
+   "id": "ID-H913-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\nSetiap penyang cacat mempunyai hak dan kesempatan yang sama dalam\nsegala aspek kehidupan dan penghidupan."
+   }
+  },
+  {
+   "id": "ID-H913-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\nSetiap penyandang cacat berhak memperoleh:\n1. pendidikan pada semua satuan, jalur, jenis, dan jenjang pendidikan;\n2. pekerjaan dan penghidup an yang layak sesuai dengan jenis dan\nderajat kecacatan, pendidikan, dan kemampuannya;\n3. perlakuan yang sama untuk berperan dalam pembangunan dan\nmenikmati hasil-hasilnya;\n4. aksebilitas dalam rangka kemandiriannya;\n5. rehabilitasi, bantuan sosial, dan pemeliharaan taraf\nkesejahteraan sosial; dan\n6. hak yang sama untuk menumbuhkembangkan bakat, kemampuan,\ndan kehidupan sosialnya, terutama bagi penyandang cacat anak\ndalam lingkungan keluarga dan masyarakat."
+   }
+  },
+  {
+   "id": "ID-H913-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\n(1) Setiap penyandang cacat mempunyai kewajiban yang sama dalam\nkehidupan bermasyarakat, berbangsa, dan bernegara.\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Kewajiban...\n(2) Kewajiban sebagaimana dimaksud pada ayat (1) pelaksanaannya\ndisesuaikan dengan jenis dan derajat kecacatan, pendidikan, dan\nkemampuannya."
+   }
+  },
+  {
+   "id": "ID-H913-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\nPemerintah dan/atau masyarakat berkewajiban mengupayakan\nterwujudnya hak-hak penyandang cacat.\nBAB IV\nKESAMAAN KESEMPATAN"
+   }
+  },
+  {
+   "id": "ID-H913-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\nSetiap penyandang cacat mempunyai kesamaan kesempatan dalam segala\naspek kehidupan dan penghidupan."
+   }
+  },
+  {
+   "id": "ID-H913-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\n(1) Kesamaan kesempatan bagi penyandang cacat dalam segala aspek\nkehidupan dan penghidupan dilaksanakan melalui penyediaan\naksebilitas.\n(2) Penyediaan aksebilitas dimaksudkan untuk menciptakan keadaan\ndan lingkungan yang lebih menunjang penyandang cacat dapat\nsepenuhnya hidup bermasyarakat.\n(3) Penyediaan aksebilitas sebagaimana dimaksud pada ayat (1) dan\nayat (2) diselenggarakan oleh Pemerintah dan/atau masyarakat dan\ndilakukan secara menyeluruh, terpadu, dan berkesinambungan."
+   }
+  },
+  {
+   "id": "ID-H913-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\nSetiap penyandang cacat mempun yai kesamaan kesempatan untuk\nmendapatkan pendidikan pada satuan, jalur, jenis, dan jenjang pendidikan\nsesuai dengan jenis dan derajat kecacatannya."
+   }
+  },
+  {
+   "id": "ID-H913-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\nSetiap lembaga pendidikan memberikan kesempatan dan perlakuan yang\nsama kepada penyandang cacat sebagai peserta didik pada satuan, jalur,\njenis, dan jenjang pendidikan sesuai dengan jenis dan derajat kecacatan\nserta kemampuannya.\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H913-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13…"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 13\nSetiap penyandang cacat mempunyai kesamaan kesempatan untuk\nmendapatkan pekerjaan sesuai dengan jenis dan derajat kecacatannya."
+   }
+  },
+  {
+   "id": "ID-H913-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\nPerusahaan negara dan swasta memberikan kesempatan dan perlakuan\nyang sama kepada penyandang cacat dengan mempekerjakan penyandang\ncacat di perusahaannya sesuai dengan jenis dan derajat kecacatan,\npendidikan, dan kemampuannya, yang jumlahnya disesuaikan dengan\njumlah karyawan dan/atau kua;ifikasi perusahaan."
+   }
+  },
+  {
+   "id": "ID-H913-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\nKetentuan sebagaimana dimaksud dalam Pasal 10, Pasal 12, dan Pasal 14\ndiatur lebih lanjut dengan Peraturan Pemerintah.\nBAB V\nUPAYA"
+   }
+  },
+  {
+   "id": "ID-H913-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\nPemerintah dan/atau masyarakat menyelenggarakan upaya:\n1. rehabilitasi;\n2. bantuan sosial;\n3. pemeliharaan taraf kesejahteraan sosial."
+   }
+  },
+  {
+   "id": "ID-H913-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\nRehabilitasi diarahkan untuk memfungsikan kembali dan\nmengembangkan kemampuan fisik, mental, dan sosial penyandang cacat\nagar dapat melaksanakan fungsi sosialnya secara wajar sesuai dengan\nbakat, kemampuan, pendidikan, dan pengalaman."
+   }
+  },
+  {
+   "id": "ID-H913-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\n(1) Rehabilitasi dilaksanakan pada fasilitas yang diselenggarakan\noleh Pemerintah dan/atau masyarakat.\n(2) Rehabilitasi sebagaimana dimaksud pada ayat (1) meliputi\nrehabilitasi medik, pendidikan, pelatihan, dan sosial.\nPRESIDEN\nREPUBLIK INDONESIA\n(3) Ketentuan...\n(3) Ketentuan mengenai penyelenggaraan rehabilitasi sebagaimana\ndimaksud pada ayat (1) dan ayat (2) diatur lebih lanjut dengan\nPeraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H913-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\nBantuan sosial diarahkan untuk membantu penyandang cacat agar dapat\nberusaha meningkatkan taraf kesejahteraan sosialnya."
+   }
+  },
+  {
+   "id": "ID-H913-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\n(1) Bantuan sosial sebagaimana dimaksud dalam Pasal 19 diberikan\nkepada:\na. penyandang cacat yang tidak mampu, sudah direhabilitasi,\ndan belum bekerja;\nb. penyandang cacat yang tidak mampu, belum direhabilitasi,\nmemiliki keterampilan, dan belum bekerja.\n(2) Ketentuan mengenai bentuk, jumlah, tata cara, dan pelaksanaan\npemberian bantuan sosial sebagaimana dimaksud pada ayat (1)\ndiatur lebih lanjut dengan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H913-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\nPemeliharaan taraf kesejahteraan sosial diarahkan pada pemberian\nperlindungan dan pelayanan agar penyandang cacat dapat memelihara\ntaraf hidup yang wajar."
+   }
+  },
+  {
+   "id": "ID-H913-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\n(1) Pemeliharaan taraf kesejahteraan sosial sebagaimana dimaksud\ndalam Pasal 21 diberikan kepada penyandang cacat yang derajat\nkecacatannya tidak dapat direhabilitasi dan kehidupannya\nbergantung pada bantuan orang lain.\n(2) Ketentuan mengenai bentuk, tata car a, dan syarat -syarat\npemeliharaan taraf kesejahteraan sosial sebagaimana dimaksud\npada ayat (1) diatur lebih lanjut dengan Peraturan Pemerintah.\nPRESIDEN\nREPUBLIK INDONESIA\nBAB VI…\nBAB VI\nPEMBINAAN DAN PERAN MASYARAKAT"
+   }
+  },
+  {
+   "id": "ID-H913-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\n(1) Pemerintah dan masyarakat melakukan pembinaan terhadap\nupaya peningkatan kesejahteraan sosial penyandang cacat.\n(2) Pembinaan sebagaimana dimaksud pada ayat (1) mencakup\nsegala aspek kehidupan dan penghidupan."
+   }
+  },
+  {
+   "id": "ID-H913-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 24\nPemerintah melakukan pembinaan te rhadap upaya peningkatan\nkesejahteraan sosial penyandang cacat melalui penetapan kebijakan,\nkoordinasi, penyuluhan, bimbingan, bantuan, perijinan, dan pengawasan."
+   }
+  },
+  {
+   "id": "ID-H913-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\n(1) Masyarakat melakukan pembinaan melalui berba gai kegiatan\ndalam upaya peningkatan kesejahteraan sosial penyandang cacat.\n(2) Masyarakat mempunyai kesempatan yang seluas -luasnya untuk\nberperan dalam upaya peningkatan kesejahteraan sosial\npenyandang cacat."
+   }
+  },
+  {
+   "id": "ID-H913-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\nKetentuan mengenai pembinaan dan peran masyarakat sebagaimana\ndimaksud dalam Pasal 24 dan Pasal 25 diatur lebih lanjut dengan\nPeraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H913-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\n(1) Pemerintah memberikan penghargaan kepada perusahaan yang\nmempekerjakan penyandang cacat.\n(2) Penghargaan diberian juga kepa da lembaga, masyarakat,\ndan/atau perseorangan yang berjasa dalam upaya peningkatan\nkesejahteraan sosial penyandang cacat.\n(3) Ketentuan mengenai pemberian penghargaan sebagaimana\ndimaksud pada ayat (1) dan ayat (2) diatur lebih lanjut dengan\nPeraturan Pemerintah.\nPRESIDEN\nREPUBLIK INDONESIA\nBAB VII…\nBAB VII\nKETENTUAN PIDANA"
+   }
+  },
+  {
+   "id": "ID-H913-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\n(1) Barangsiapa dengan sengaja melakukan pelanggaran terhadap\nketentuan Pasal 14 diancam dengan pidana kurungan\nselama-lamanya 6 (enam) bulan dan/atau pidana denda\nsetinggi-tingginya Rp.200.000.000,00 (dua ratus juta rupiah).\n(2) Tindak pidana sebagaimana dimaksud pada ayat (1) adalah\npelanggaran.\nBAB VIII\nSANKSI ADMINISTRASI"
+   }
+  },
+  {
+   "id": "ID-H913-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\n(1) Barangsiapa tidak menyediakan aksebilitas se bagaimana\ndimaksud pada Pasal 10 atau tidak memberikan kesempatan dan\nperlakuan yang sama bagi penyandang cacat sebagai peserta\ndidik pada satuan, jalur, jenis, dan jenjang pendidikan\nsebagaimana dimaksud dalam Pasal 12 dikenakan sanksi\nadministrasi.\n(2) Bentuk, jenis, dan tata cara pengenaan sanksi administrasi\nsebagaimana dimaksud pada ayat (1) diatur lebih lanjut dengan\nPeraturan Pemerintah.\nBAB IX\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H913-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\nDengan berlakunya Undang -undang ini, semua peraturan\nperundang-undangan yang berhubungan dengan penyandang cacat yang\ntelah ada, masih tetap berlaku sepanjang tidak bertentangan dan/atau\nbelum diganti atau diubah berdasarkan Undang-undang ini.\nBAB X\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H913-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\nPRESIDEN\nREPUBLIK INDONESIA\nUndang-undang ini mulai berlaku pada tanggal diundangkan.\nAgar…\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nUndang-undang ini dengan penempatannya dalam Lembaran Negara\nRepublik Indonesia.\nDisahkan di Jakarta\npada tanggal 28 Februari 1997\nPRESIDEN REPUBLIK INDONESIA\nttd.\nSOEHARTO\nDiundangkan di Jakarta\npada tanggal 28 Februari 1997\nMENTERI NEGARA SEKRETARIS NEGARA\nREPUBLIK INDONESIA,\nttd.\nMOERDIONO\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1997 NOMOR 9\nPRESIDEN\nREPUBLIK INDONESIA\nPENJELASAN\nATAS\nUNDANG-UNDANG REPUBLIK INDONESIA\nNOMOR 4 TAHUN 1997\nTENTANG\nPENYANDANG CACAT\nUMUM\nPembangunan nasional bertujuan untuk mewujudkan masyarakat adil dan makmur yang\nmerata material dan spiritual berda sarkan Pancasila dan Undang -Undang Dasar 1945\ndalam wadah Negara Kesetuan Republik Indonesia yang merdeka, berdaulat, bersatu, dan\nberkedaulatan rakyat dalam suasana perikehidupan bangsa yang aman, tenteram, tertib,\ndan dinamis dalam lingkungan pergaulan d unia yang merdeka, bersahabat, tertib, dan\ndamai.\nPembangunan nasional sebagai pengamalan Pancasila yang mencakup seluruh aspek\nkehidupan bangsa diselenggarakan bersama oleh masyarakat dan Pemerintah. Masyarakat\nadalah pelaku utama pembangunan dan Pemerintah berkewajiban mengarahkan,\nmembimbing, melindungi serta menumbuhkan suasana yang menunjang. Kegiatan\nmasyarakat dan kegiatan Pemerintah sa ling menunjang, saling mengisi, dan saling\nmelengkapi dalam satu kesatuan langkah menuju tercapainya tujuan pembangunan\nnasional.\nSebagai warga negara Indonesia, kedudukan, hak, kewajiban, dan peran serta\npenyandang cacat adalah sama dengan warga negara lainnya. Oleh karena itu,\npeningkatan peran para penyandang cacat dalam pembangunan dalam pembangunan\nnasional sangat penting untuk mendapat perhatian dan didayagunakan sebagaimana\nmestinya.\nHingga saat ini sarana dan upaya untuk memberikan perlindungan h ukum terhadap\nkedudukan, hak, kewajiban, dan peran penyandang cacat telah dilakukan melalui berbagai\nperaturan perundang -undangan, yaitu yang mengatur masalah ketenagakerjaan,\npendidikan nasional, kesehatan, kesejahteraan sosial, lalu lintas dan angkutan j alan,\nperkeretaapian, pelayaran, penerbangan, dan kepabeanan.\nPRESIDEN\nREPUBLIK INDONESIA\nNamun…\nNamun demikian, upaya perlindungan saja belumlah memadai; dengan pertimbangan\nbahwa jumlah penyandang cacat akan meningkat pada masa yang akan datang, masih\ndiperlukan lagi sarana dan upaya lain terutama dengan penyediaan sarana untuk\nmemperoleh kesamaan kesempatan bagi penyandang cacat dalam segala aspek kehidupan\ndan penghidupan, khususnya dalam memperoleh pendidikan dan pekerjaan dalam rangka\nmewujudkan kesejahteraan sosial. Yang dimaksud dengan kesejahteraan sosial dalam\nUndang-undang ini adalah suatu tata kehidupan dan penghidupan sosial material maupun\nspiritual yang diliputi oleh rasa keselamatan, kesusilaan, dan ketenteraman lahir batin\nyang memungkinkan bagi setiap warga neg ara untuk mengadakan usaha pemenuhan\nkebutuhan-kebutuhan jasmaniah, rohaniah, dan sosial yang sebaik -baiknya bagi diri,\nkeluarga, serta masyarakat dengan menjunjung tinggi hak dan kewajiban warga negara\nsesuai dengan Pancasila. Oleh karena itu, sesuai deng an ketentuan mengenai kedudukan,\nhak, dan kewajiban warga negara sebagaimana dimaksud dalam Undang -Undang Dasar\n1945, perlu dilakukan upaya -upaya yang lebih memadai, terpadu, dan berkesinambungan\nguna mewujudkan kemandirian dan kesejahteraan penyandang cacat.\nKesempatan untuk mendapatkan kesamaan kedudukan, hak, dan kewajiban bagi\npenyandang cacat hanya dapat diwujudkan jika tersedia aksebilitas, yaitu suatu\nkemudahan bagi penyandang cacat untuk mencapai kesamaan kesempatan dalam\nmemperoleh kesamaan kedudu kan, hak, dan kewajiban sehingga perlu diadakan upaya\npenyediaan aksebilitas bagi penyandang cacat. Dengan upaya dimaksud, diharapkan\npenyandang cacat dapat berintegrasi secara total dalam mewujudkan tujuan pembangunan\nnasional pada umumnya serta meningkat kan kesejahteraan sosial penyandang cacat pada\nkhususnya.\nPenyelenggaraan upaya peningkatan kesejahteraan sosial yang antara lain dilaksanakan\nmelalui kesamaan kesempatan bagi penyandang cacat pada hakikatnya menjadi tanggung\njawab bersama Pemerintah, mas yarakat, keluarga, dan penyandang cacat sendiri. Oleh\nkarena itu diharapkan semua unsur tersebut berperan aktif untuk mewujudkannya.\nDengan kesamaan kesempatan tersebut diharapkan para penyandang cacat dapat\nmelaksanakan fungsi sosialnya dalam arti mampu b erintegrasi melalui komunikasi dan\ninteraksi secara wajar dalam hidup bermasyarakat.\nKesamaan kesempatan dilaksanakan melalui penyediaan aksebilitas baik oleh Pemerintah\nmaupun masyarakat, yang dalam pelaksanaannya disertai dengan upaya peningkatan\nkesadaran dan tanggung jawab masyarakat terhadap keberadaan penyandang cacat, yang\nmerupakan unsur penting dalam rangka pemberdayaan penyandang cacat.\nBerdasarkan hal tersebut, Undang -undang ini disusun dengan meletakkan masalah\npenyelenggaraan upaya peningkata n kesejahteraan sosial dan kesamaan kesempatan\nsebagai materi pokok.\nPRESIDEN\nREPUBLIK INDONESIA\nPASAL…\nPASAL DEMI PASAL\nPasal 1\nAngka 1\nCukup jelas\nAngka 2\nCukup jelas\nAngka 3\nCukup jelas\nAngka 4\nCukup jelas\nAngka 5\nCukup jelas\nAngka 6\nCukup jelas\nAngka 7\nCukup jelas\nPasal 2\nCukup jelas\nPasal 3\nCukup jelas\nPasal 4\nCukup jelas\nPasal 5\nYang dimaksud dengan penyandang cacat adalah sebagaimana dimaksud dalam Pasal\n1 angka 1 yang terdiri dari:\na. cacat fisik adalah kecacatan yang mengakibatkan gangguan pada fungsi tubuh,\nantara lain gerak tubuh, penglihatan, pendengaran, dan kemampuan bicara;\nb. cacat mental adalah kelainan mental dan/atau tingkah laku, baik cacat bawaan\nmaupun akibat dari penyakit;\nc. cacat fisik mental adalah keadaan seseorang yang menyandang dua jenis kecacatan\nsekaligus.\nPRESIDEN\nREPUBLIK INDONESIA\nYang…\nYang dimaksud dengan aspek kehidupan dan penghidupan d alam Pasal ini meliputi\nantara lain aspek agama kesehatan, pendidikan, sosial, ketenagakerjaan, ekonomi,\npelayanan umum, hukum, budaya, politik, pertahanan keamanan, olah raga, rekreasi,\ndan informasi.\nPasal 6\nAngka 1\nCukup jelas\nAngka 2\nCukup jelas\nAngka 3\nCukup jelas\nAngka 4\nCukup jelas\nAngka 5\nCukup jelas\nAngka 6\nKetentuan ini dimaksudkan agar penyandang cacat anak memperoleh:\na. hak untuk hidup dan menjalani sepenuhnya kehidupan kanak -kanak,\ndalam suatu keadaan yang memungkinkan dirinya meningkatkan\nmartabat dan kepercayaan diri, serta mampu berperan aktif dalam\nmasyarakat;\nb. hak untuk mendapatkan perlakuan dan pelayanan secara wajar, baik\ndalam lingkungan keluarga maupun masyarakat;\nc. hak untuk sedini mungkin mendapatkan akses pendidikan, latihan,\nketerampilan, perawatan kesehatan, rehabilitasi, dan rekreasi, sehingga\nmampu mandiri dan menyatu dalam masyarakat.\nPasal 7\nAyat 1\nCukup jelas\nAyat 2\nCukup jelas\nPasal 8\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 9…\nPasal 9\nCukup jelas\nPasal 10\nAyat (1)\nPenyediaan aksebilitas bagi penyandang cacat diupayakan berdasarkan\nkebutuhan penyandang cacat sesuai dengan jenis dan derajat kecacatan serta\nstandar yang ditentukan.\nStandardisasi yang berkenaan dengan aksebilitas ditetapkan oleh instansi\nyang berwenang.\nPenyediaan aksebilitas dapat berupa fisik dan non fisik, antara lain sarana\ndan prasarana umum serta informasi yang diperlukan bagi penyandang cacat\nuntuk memperoleh kesamaan kesempatan.\nAyat (2)\nKetentuan ini dimaksudkan agar penyandang cacat dapat memperoleh dan\nmemanfaatkan kesamaan kesempatan seperti anggota masyarakat lainnya\ndalam berbagai aspek kehidupan dan penghidupan sehingga dapat menunjang\nmobilitas dan kemandirian penyandang cacat.\nAyat (3)\nCukup jelas\nPasal 11\nKetentuan ini mempertegas hak dan kesempatan yang sama bagi penyandang cacat\nsebagaimana dimaksud dalam Pasal 5 dan Pasal 6 Undang -undang ini yang berkaitan\ndengan bidang pendidikan.\nPasal 12\nPerlakuan yang sama dimaksudkan agar penyandang cacat sebagai peserta didik\nmendapatkan kesamaan perlakuan sebagaimana peserta didik lainnya, termasuk di\ndalamnya kesamaan perlakuan untuk mendapatkan sarana dan prasarana pendidikan.\nSedangkan yang dimaksud satuan, jalur, jenis, dan jenjang pendidikan adalah\nsebagaimana diatur dalam Undang -undang Nomor 2 Tahun 1989 tentan Sistem\nPendidikan Nasional.\nPasal 13\nKetentuan ini mempertegas hak dan kesempatan yang sama bagi penyandang cacat\nsebagaimana dimaksud dalam Pasal 6 dan Pasal 6 Undang -undang ini yang berkaitan\ndengan bidang ketenagakerjaan.\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 14…\nPasal 14\nPerusahaan negara meliputi badan usaha milik negara (BUMN) dan badan usaha\nmilik daerah (BUMD), sedangkan perusahaan swasta termasuk di dalamnya koperasi.\nPerusahaan harus mempekerjakan sekurang -kurangnya 1 (satu) orang penyandang\ncacat yang memenuhi persyaratan dan kualifikasi pekerjaan yang bersangkutan, untuk\nsetiap 100 (seratus) orang karyawan.\nPerusahaan yang menggunakan teknologi tinggi harus mempekerjakan\nsekurang-kurangnya 1 (satu) orang penyandang cacat yang memenuhi persyaratan dan\nkualifikasi pekerjaan yang bersangkutan walaupun jumlah karyawannya kurang dari\n100 (seratus) orang.\nPerlakuan yang sama diartikan sebagai perlakuan yang tidak diskriminatif termasuk\ndi dalamnya kesamaan pengupahan untuk pekerjaan dan jabatan yang sama.\nPasal 15\nPeraturan Pemerintah yang dimaksud dalam Pasal ini diupayakan dalam waktu tidak\nterlalu lama sudah dapat diundangkan.\nMengenai penyediaan aksebilitas khususnya sarana dan prasarana umum yang\nsebelum diundangkannya Undang -undang ini dan peraturan pelaksan aannya\nselambat-lambatnya 5 (lima) tahun sejak Peraturan Pemerintah diundangkan.\nPasal 16\nCukup jelas\nPasal 17\nYang dimaksud dengan fungsi sosial adalah kemampuan dan peran seseorang untuk\nberintegrasi melalui komunikasi dan interaksi dalam hidup bermasyarakat.\nPasal 18\nAyat (1)\nYang dimaksud dengan fasilitas dalam ayat ini adalah sarana dan prasarana\npelayanan rehabilitasi, misalnya panti sosial, balai latihan kerja, rumah sakit,\ndan unit rehabilitasi sosial keliling.\nAyat (2)\nRehabilitasi medik adalah kegiatan pelayanan kese hatan secara utuh dan\nterpadu, melalui tindakan medik agar dapat mencapai kemampuan fungsional\nsemaksimal mungkin.\nPRESIDEN\nREPUBLIK INDONESIA\nRehabilitasi…\nRehabilitasi pendidikan adalah kegiatan pelayanan pendidikan secara utuh\ndan terpadu melalui proses belajar mengajar agar dapat mengikuti pendidikan\nsecara optimal sesuai dengan bakat, minat dan kemampuannya.\nRehabilitasi pelatihan adalah kegiatan pelayanan pelatihan secara utuh dan\nterpadu agar penyandang cacat dapat memiliki keterampilan kerja sesuai\ndengan bakat dan kemampuannya.\nRehabilitasi sosial adalah kegiatan pelayanan sosial secara utuh dan terpadu\nmelalui pendekatan fisik, mental, dan sosial agar dapat melaksanakan fungsi\nsosialnya secara optimal dalam hidup bermasyarakat.\nAyat (3)\nCukup jelas\nPasal 19\nBantuan sosial dapat berbentuk material, finansial, fasilitas pelayanan, dan informasi\nyang bersifat mendidik dan mendorong tumbuhnya kesadaran dan tanggung jawab\nsosial penyandang cacat. Bantuan sosial ini diberikan sewaktu -waktu sesuai dengan\nmaksud dan tujuannya.\nPasal 20\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 21\nPerlindungan dan pelayanan sosial dalam Pasal ini dapat dilaksanakan melalui\nkeluarganya, keluarga pengganti, panti sosial dan organisasi sosial yang merawat\npenyandang cacat tersebut.\nPasal 22\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 23\nAyat (1)\nPRESIDEN\nREPUBLIK INDONESIA\nPembinaan adalah kegiatan untuk mengarahkan agar supaya peningkatan\nkesejahteraan sosial penyandang cacat dapat dilaksanakan sesuai dengan\nperaturan perundang-undangan dan kebijakan Pemerintah.\nAyat (2)…\nAyat (2)\nPembinaan pada segala aspek kehidupan dan penghidupan dilaksanakan agar\npenyandang cacat dapat hidup mandiri dan sejahtera. Khusus pada aspek\nagama diarahkan pada peningkatan penghayatan dan pengamalan nilai-nilai\nspiritual.\nPasal 24\nPembinaan melalui perijinan dan pengawasan dalam Pasal ini mencakup pula\nevaluasi dan pengendalian terhadap kegiatan yang dilaksanakan oleh organisasi sosial\nyang menerima bantuan, baik dari dalam maupun luar negeri, sesuai dengan peraturan\nperundang-undangan.\nPasal 25\nAyat (1)\nPembinaan oleh masyarakat dilaksanakan sesuai dengan lingkup kegiatan yang\ndilakukan berdasarkan peraturan perundang -undangan dan kebijakan\nPemerintah.\nAyat (2)\nPeran masyarakat dapat berbentuk sumbangan pemikiran, tenaga, sarana dan\nprasarana, dana, dan lain-lain.\nPasal 26\nCukup jelas\nPasal 27\nAyat (1)\nCukup jelas\nAyat (2)\nYang dimaksud dengan lembaga pada ayat ini adalah lembaga Pemerintah\ndan lembaga masyarakat.\nAyat (3)\nCukup jelas\nPasal 28\nAyat (1)\nCukup jelas\nAyat (2)\nPRESIDEN\nREPUBLIK INDONESIA\nCukup jelas\nPasal 29…\nPasal 29\nAyat (1)\nCukup jelas\nAyat (2)\nBentuk sanksi administrasi dapat berupa teguran, baik lisan maupun tertulis,\ndan denda administrasi, yang pelaksanaannya dilakukan oleh instansi yang\nberwenang.\nPasal 30\nCukup jelas\nPasal 31\nCukup jelas\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 3670"
+   }
+  }
+ ]
+}

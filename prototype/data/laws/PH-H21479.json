@@ -1,0 +1,682 @@
+{
+ "id": "PH-H21479",
+ "title": {
+  "zh": null,
+  "en": "Implementing Rules and Regulations of the E-Governance Act (Republic Act No. 12254) Pursuant to Section 38 of Republic Act (R.A.) No. 12254, otherwise known as \"An Act Institutionalizing the Transition of the Government to E-Governance, Strengthening the ICT Academy, and Appropriating Funds Therefor\" (Act), the following Implementing Rules and Regulations, hereinafter referred to as the IRR, are hereby promulgated: GENERAL PROVISIONS",
+  "orig": "Implementing Rules and Regulations of the E-Governance Act (Republic Act No. 12254) Pursuant to Section 38 of Republic Act (R.A.) No. 12254, otherwise known as \"An Act Institutionalizing the Transition of the Government to E-Governance, Strengthening the ICT Academy, and Appropriating Funds Therefor\" (Act), the following Implementing Rules and Regulations, hereinafter referred to as the IRR, are hereby promulgated: GENERAL PROVISIONS"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p159",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Implementing agency",
+ "docNumber": "Implementing Rules and Regulations 12254",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 64,
+ "chars": 123350,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/02_共和国法令_RA/IRR_12254_2026.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 64 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 IRR_12254_2026.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H21479-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "SECTION 1"
+   },
+   "text": {
+    "en": "Title. - This IRR shall be known as the \"2026 Implementing Rules and\nRegulations of the E-Governance Act\"."
+   }
+  },
+  {
+   "id": "PH-H21479-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "SECTION 2"
+   },
+   "text": {
+    "en": "Declaration of Policy. - The State recognizes the vital role of information and\ncommunication in nation-building and the necessity of leveraging the power of information and\ncommunications technology (ICT) to drive national development and progress.\nThe State hereby adopts a policy to establish, foster, and sustain a digitally empowered\nand integrated government through the implementation of a regulated, secure, and robust\ninformation and communication system aimed at facilitating responsive and transparent online\ncitizen-centered services, thereby optimizing the potential of open data for promoting economic\ngrowth while balancing the rights to freedom of information and data privacy of every Filipino."
+   }
+  },
+  {
+   "id": "PH-H21479-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "SECTION 3"
+   },
+   "text": {
+    "en": "Purposes and Objectives. - The purposes and objectives of this IRR are to:\n(a) define the roles and responsibilities of various agencies in the entire digital\ntransformation process and provide effective leadership in developing and promoting electronic\ngovernment services and processes;\n(b) promote interoperability of government systems and processes through a\nconsolidated process architecture, while allowing government agencies, offices, and\ninstrumentalities to implement the proper controls and safeguards deemed appropriate on ICT\nand information assets;\n(c) provide citizen-centered government information and services, and improve public\ntrust and citizen participation in the government;\n(d) enable access to government information and services, in accordance with the\nConstitution and relevant laws, while leveraging ICT and emerging technologies to enhance\nprocess efficiency, data security, and overall effectiveness;\n(e) strengthen transparency and accountability efforts of the national and local\ngovernments;\n(f) foster an informed and data-driven decision-making process for policymakers by\nutilizing data analytics results, among other pertinent factors;\n(g) strengthen resilience against information technology disruptions, including, but not\nlimited to, cybersecurity attacks, by incorporating best practices both from public and private\nsectors, locally and internationally;\n\n(h) promote electronic transactions, particularly where mobility of citizens is restricted\nduring disasters or pandemics;\n(i) foster job creation, promote sustainability, and ensure up-to-date qualification and\ncompetency standards of ICT positions within the government;\n() encourage sustainability and fortify manpower capabilities by continuously\nupskilling ICT professionals through the Academy; and\n(k) reduce costs and burdens for businesses and other government entities."
+   }
+  },
+  {
+   "id": "PH-H21479-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "SECTION 4"
+   },
+   "text": {
+    "en": "Coverage. - Subject to limitations under existing laws, this IRR shall apply to all\nexecutive, legislative, judicial, and constitutional offices, including local government units\n(LGUs), state universities and colleges (SUCs), government-owned or -controlled corporations\n(GOCCs), and other instrumentalities, whether located in the Philippines or abroad\n(collectively, \"Covered Entities\"), and their services that relate to business- and\nnon-business-related transactions as defined in Republic Act (R.A.) No. 9485, as amended by\nR.A. No. 11032 or the \"Ease of Doing Business and Efficient Government Service Delivery Act of\nThis IRR shall also apply to:\n(a) back-end government operations within, between, and across agencies;\n(b) government-to-government transactions, particularly those involving sharing and\nprocessing of data and information between and among government agencies for policy,\nplanning, and decision-making purposes; and\n(c) other similar government operations.\nNothing in this IRR shall be construed to derogate from the fiscal and administrative\nautonomy and independence of government entities under the Constitution and other pertinent"
+   }
+  },
+  {
+   "id": "PH-H21479-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "SECTION 5"
+   },
+   "text": {
+    "en": "Definition of Terms. - The following definition of terms shall apply for purposes\n(a) Application Programming Interface (API) refers to an intermediary that allows\ninteraction between applications, programs, software components, systems, hardware, and\nmicro-services of different individuals or organizations;\n(b) Blockchain is a shared, immutable ledger that facilitates the process of recording\ntransactions and tracking tangible or intangible assets in a business network, where virtually\nanything of value can be tracked and traded, reducing risk and cutting costs for all involved;\n(c) Change management refers to the deliberate and structured approach to transitioning\nindividuals, teams, and organizations from a current state to a desired future state of\norganizational success;\n(d) Chief Information Officer (CIO) refers to a senior government official responsible for\nthe development, planning, and implementation of the government entity's Information System\n\nStrategic Plan (ISSP) or ICT plan, and management of the agency's ICT systems, platforms, and\napplications;\n(e) Chief Information Security Officer (CISO) refers to the individual or entity responsible\nfor carrying out functions and responsibilities relevant to cybersecurity in a government agency\nand who serves as the primary liaison of the agency to the Sectoral Computer Emergency\nResponse Team and the National CERT. The CISO ensures that information resources and\ntechnologies are effectively protected; oversees the development, implementation, and\nenforcement of cybersecurity policies; and works alongside the CIO in procuring cybersecurity\nproducts and services, and managing disaster recovery and business continuity plans;\n(f) Computer Emergency Response Team (CERT) or Computer Security Incident Response Team\n(CSIRT) refers to a specialized group responsible for preventing, detecting, analyzing,\nresponding to, and assisting in recovering from cybersecurity incidents and threats that affect\ninformation and communication systems at the organizational, sectoral or national level,\nproviding advisory services, vulnerability analysis, threat intelligence dissemination, and\ncoordinated incident response across multiple stakeholders;\nAgency CERT refers to a CERT of a government agency while Sectoral CERT refers to a\nCERT at the sectoral level and which coordinates with Agency CERTs.\nNational CERT (NCERT) refers to the CERT organized and managed by the DICT as the\ncentral coordinating body for all Agency and Sectoral CERTs;\n(g) Common Data Sets refers to standardized collections of data elements that are\nuniformly defined, structured, and shared across multiple systems, organizations, or sectors to\nensure interoperability, consistency, and data quality;\n(h) Critical Information Infrastructure (CII) refers to the computer systems and/or\nnetworks, whether physical or virtual, and/or the computer programs, computer data, and/or\ntraffic data that are vital to this country that the incapacity, destruction, or interference with\nsuch system and assets would have a debilitating impact on security, national or economic\nsecurity, national health and safety, or any combination of those matters. Government sectors\ninitially classified as CIls are the following: transportation (land, sea, air), energy, water, health,\nemergency services, public finance, banking and finance, business process outsourcing,\ntelecommunications, space, and media;\n(i) Digitalization refers to the process of using digital technologies to enhance the\noperations of the government, and provide new revenue and value-producing opportunities;\n(i) Digital Transformation refers to the process of optimizing, reconstructing, and\nintegrating digital technology into all areas of government to maximize resource configuration,\nimprove operational efficiency and innovation capability, and enhance value delivery of\nstakeholders;\n(k)E-Governance refers to the use of ICT by the government to provide public services in\na more friendly, convenient, affordable, efficient, and transparent manner. Further, it is the\napplication of ICT for delivering government services through integration of various\nstand-alone systems, platforms, and applications between Government-to-Citizens (G2C),\nGovernment-to-Businesses (G2B), and Government-to-Government (G2G) services. It is often\nlinked to back-office processes and interactions within the entire government framework;\n\n(1) E-Government refers to the use of ICT by the government to enhance access to and\ndelivery of government services for an efficient, responsive, ethical, accountable, and\ntransparent government;\n(m) Emerging technologies refers to rapidly developing technologies that are generally\nnew, or current technologies finding new applications, whose development, practical\napplications, and impact are still uncertain. They are often perceived as disrupting the status\nquo and allowing for innovative solutions, such as in government service delivery. Emerging\ntechnologies shall include, but shall not be limited to, artificial intelligence, quantum\ncomputing, blockchain, autonomous systems, and similar innovations with similar\ncharacteristics;\n(n) Enterprise Architecture refers to the structured framework that defines the principles,\nstandards, and integrated design of government business processes, information flows, data\nassets, applications, and technology infrastructure. It provides a coherent blueprint that guides\nagencies in planning, implementing, and governing digital systems to ensure interoperability,\nsecurity, efficiency, and alignment with national digital government objectives;\n(o) Government ICT workers refers to government personnel performing ICI-related\nfunctions such as but not limited to systems and infrastructure development, implementation\nand maintenance, cybersecurity, data governance, data privacy, ICT Policy and Planning, and\nother ICT matters. Personnel of the EGov Unified Project Management Office (EGov UPMO),\nand government personnel designated as CIOs, CISOs, and working at CERTs/ CSIRTs shall\nalso be considered as government ICT workers;\n(p) Government Internet Protocol Exchange (G/IPX) refers to a secure, managed, and\ninteroperable IP-based network infrastructure established to connect, integrate, and facilitate\ndata exchange among government agencies;\n(g) ICT Assets refer to any data, device, equipment, infrastructure, system, or component\nthereof, utilized to ensure or support the proper efficient operation and implementation of\nICT-related programs and delivery of ICT services;\n(r) ICT Plan refers to the sum of set of goals, measures, strategies, agenda, budget, and\ntimeline for the implementation of ICT programs and projects and the use of ICT, including\ndigital platforms, to deliver public services or otherwise perform government functions;\n(s) Information and Communications Technology (ICT) refers to the totality of electronic\nmeans to access, create, collect, store, process, receive, transmit, present, regulate, and\ndisseminate information;\n(t) Information Security refers to the preservation of confidentiality, integrity and\navailability of information. This may also involve other properties, such as authenticity,\naccountability, non-repudiation, and reliability of information. For the purposes of this IRR,\n\"cybersecurity\" refers to the protection of ICT systems, networks, applications, and data in\ncyberspace, and is a subset of \"information security\"\n(u) Information Security Standards (ISS) refer to generally accepted cybersecurity\nstandards which aim to protect and secure the confidentiality, integrity, availability,\nauthenticity, and non-repudiation of information;\n(v) Information Systems Strategic Plan (ISSP) refers to the three (3)-year plan that serves as\nthe government entity's roadmap for using ICT as a strategic resource to support the attainment\n\nof its goals, mission, and vision. It is also a written expression that aims to coordinate national\nICT plans, efforts, knowledge, information, resource-sharing, and database-building, and to link\na government entity's ISSPs with national ICT goals;\n(w) Interoperability refers to the ability of different operating and software systems,\napplications, and services to communicate and exchange data in an accurate, effective, and\nconsistent manner with different platforms and agencies;\n(x) Major or material information security incident refers to a single event or a series of\nunwanted or unexpected events whose nature and scope are determined to have or likely to\nhave a significant impact on a government agency's network, such as causing the stoppage,\ndisruption, or degradation of operations or compromising the integrity, confidentiality, or\navailability of the information transmitted within its network;\n(y) Master data refers to the original, authoritative dataset validated and maintained by\nthe government agency, also known as the \"parent agency,\" that has the statutory mandate to\ncollect, generate, and safeguard such data. Master data shall include, but is not limited to, civil\nregistry records, national identification data, business registration data, taxpayer records, land\nrecords, and social security data;\n(z) Nonbusiness-related transaction refers to all other government transactions not falling\nunder Section 4(c) of R.A. No. 11032 or the \"Ease of Doing Business and Efficient Government\nService Delivery Act of 2018\";\n(a) Once-Only principle refers to the approach ensuring that citizens and business\nentities only need to submit certain information and documents once when applying for\ngovernment and public services. This entails government agencies re-using and sharing data\nwith each other;\n(bb) Open Data refers to data that can be freely used, reused and redistributed by\nanyone, subject to proper attribution and sharing;\n(cc) Personal data refers to all types of information pertaining to an individual including\npersonal information, sensitive personal information, and privileged information, as defined\nunder R.A. No. 10173 or the Data Privacy Act (DPA) and its IRR;\n(dd) Personal information refers to any information whether recorded in a material form\nor not, from which the identity of an individual is apparent or can be reasonably and directly\nascertained by the entity holding the information, or when put together with other information\nwould directly and certainly identify an individual;\n(ee) Personal Information Controller (PIC) refers to any natural or juridical person who\ncontrols the collection, holding, processing or use of personal data, including a person or\norganization who instructs another person or organization to collect, hold, process, use, transfer\nor disclose personal data on his or her behalf. The term excludes:\n(1) A person or organization who performs such functions as instructed by another\nperson or organization; and\n(2) An individual who collects, holds, processes or uses personal data in connection with\nthe individual's personal, family or household affairs.\n\n(ff) Personal information processor (PIP) refers to any natural or juridical person qualified\nto act as such under the DPA to whom a PIC may outsource the processing of personal data;\n(gg) Public Key Infrastructure (PI) refers to the framework of policies, technologies, and\nprocedures used to create, manage, distribute, use, store, and revoke digital certificates and\npublic-key encryption. PKI enables secure electronic transactions, authentication,\nconfidentiality, integrity, and non-repudiation of data and communications across digital\n(hh) Privacy-by-Default refers to the principle according to which the PIC and PIP ensures\nthat only data necessary for each specific purpose of processing is processed by default, without\nthe intervention of the data subiect;\n(ii) Privacy-by-Design refers to an approach to the development and implementation of\nprojects, programs, and processes that integrate into the design or structure safeguards that are\nnecessary to protect and promote privacy into the design or structure of a processing activity or\na data processing system;\n(ji) Privacy Engineering refers to the integration of privacy concerns into engineering\npractices for systems and software engineering life cycle processes;\n(kk) Privacy Impact Assessment (PIA) refers to the process undertaken and used to\nevaluate and manage impacts on privacy of a particular program, project, process, measure,\nsystem or technology product of a PIC or PIP. It takes into account the nature of the personal\ndata to be protected, the personal data flow, the risks to privacy and cybersecurity posed by the\nprocessing, current data privacy best practices, the cost of cybersecurity implementation, and,\nwhere applicable, the size of the organization, its resources, and the complexity of its\noperations;\n(Il) Underserved areas refer to areas that have unreliable and inadequate ICT services, as\nmay be defined by the Department of Information and Communications Technology (DICT);\n(mm) Unserved areas refer to areas that do not have data transmission industry\nparticipants and ICT services, as may be defined by the DICT;\n(nn) Vulnerability Assessment and Penetration Testing (VAPT) refers to a comprehensive\ncybersecurity evaluation process used to identify, analyze, and address weaknesses or\nvulnerabilities in an organization's information systems, networks, applications, and\ninfrastructure.\nIMPLEMENTING AGENCY"
+   }
+  },
+  {
+   "id": "PH-H21479-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "SECTION 6"
+   },
+   "text": {
+    "en": "Role of the Department of Information and Communications Technology (DICT).\n- The DICT shall be the lead implementing agency and administrator of the Act and this IRR,\nand shall exercise overall policy leadership, technical oversight, standards harmonization, and\ninstitutional coordination to ensure a coherent and interoperable national E-Governance\nSubject to the Constitution and applicable laws, the DICT shall ensure that all national\nand local ICT projects in the Philippines are aligned and harmonized with the National ICT\n\nDevelopment Agenda and E-Government Master Plan (EGMP), and compliant with the\nmeasures, policies, and standards under the Act, this IRR, and relevant DICT issuances.\nAccordingly, the DICT shall exercise the following powers and functions:\n(a) Policy Formulation, Strategic Governance and Implementation.\n(1) adopt national policies and processes that promote innovation, support\nstart-ups, and facilitate the entry and adoption of technologies consistent\nwith the objectives of the Act and this IRR;\n(2) mandate and guide the adoption of policies and processes necessary for the\nimplementation of the Act and this IRR, including the formulation of a\nstrategic and phased whole-of-government -Government roadmap with\nclearly defined milestones, roles, and responsibilities;\n(3) pursuant to Section 10 of the Act, conduct a mandatory PIA, in accordance\nwith relevant issuance of the National Privacy Commission (NFC), on the\nproposed systems for processing personal data included in the EGMP before\nits publication;\n(4) ensure that all E-Government Programs comply with data privacy laws, and,\nwhen necessary, formally seek and incorporate guidance and assistance from\nthe NPC on matters concerning the security and protection of personal data;\n(5) on its own, or through other public or private entities, conduct research,\nsurveys, and related studies to inform the formulation of E-Governance\npolicies and plans, and the design of programs and projects, ensuring these\nare impartial, objective, and evidence-based; and\n(6) prescribe the necessary measures, obligations, and standards to ensure the\ncybersecurity and resilience of CII that are essential for the operation and\nmaintenance of critical government institutions.\n(b) ICT Infrastructure, Systems, and Standards Oversight\n(1) establish the EGov UPMO in accordance with Section 7 of the Act;\n(2) oversee and guide the operation of ICT infrastructure, systems, and facilities\nin accordance with applicable laws and rules, including on cybersecurity;\n(3) guide, monitor, and support government agencies in ensuring the quality,\ncybersecurity, reliability, and interoperability of ICT infrastructure and\nservices in accordance with applicable standards and best practices, and\nprovide necessary training, certification, and advisory support; and\n(4) engage technical and standards organizations and consult industry experts\non matters requiring specialized engineering, enterprise architecture, and\ncybersecurity other technical expertise.\n(c) Inter-Agency Coordination and Public-Private Collaboration\n\n(1) coordinate and collaborate with government agencies and the private sector,\nincluding through partnerships and joint ventures, to promote innovation\nand technology transfer and in furtherance of the objectives of the Act and\nthis IRR; and\n(2) receive grants and donations for the implementation of the Act subiect to\npertinent provisions of R.A. No. 3019 or the \"Anti-Graft and Corrupt\nPractices Act\", R.A. No. 6713 or the \"Code of Conduct and Ethical Standards\nfor Public Officials and Employees\" and other relevant laws.\n(d) ICT Human Resource Development and Competency Standards\n(1) in coordination with the Civil Service Commission (CSC), mandate\ncompliance by Covered Entities with minimum qualification and competency\nstandards for all government ICT positions and require regular reporting on\nthe status of compliance; and\n(2) through the Academy, develop, in accordance with applicable civil service\nlaws and rules, consistent with the compensation and position classification\nsystem of the government, the competency and qualification standards for all\ngovernment ICT positions.\n(e) Inclusive and Accessible E-Government\n(1) ensure, as far as practicable, that E-Government Programs and platforms are\ninclusive and accessible to persons with disabilities.\n(f) Monitoring, Compliance and Performance Assessment\n(1) develop Performance Score Cards on the compliance of Covered Entities; and\n(2) monitor implementation of -Government programs and ISSPs to ensure\nalignment with the EGMP and its integrated framework.\nIn the implementation and enforcement of the foregoing, the DICT shall recognize the\nfiscal and administrative autonomy provided by the Constitution and other laws to\nindependent government agencies, offices, and instrumentalities which shall independently\nundertake, supervise, and regulate their own ICT projects and shall only be required to\ncoordinate and report to the DICT for alignment of policy objectives."
+   }
+  },
+  {
+   "id": "PH-H21479-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "SECTION 7"
+   },
+   "text": {
+    "en": "Establishment of the E-Governance Unified Project Management Office (EGo\nUPMO). - Within one (1) year from the effectivity of the Act, EGov UPMO shall be established\nas a bureau-level organizational unit within the DICT. It shall be under the direct supervision\nand control of the Undersecretary for E-Government, or its equivalent. The EGov UPMO shall\nbe responsible for addressing the portfolio, program, and project management needs of\nCovered Entities to ensure that all government ICT projects across the government are managed\nwith operational efficiency and technical agility, consistent with international best practices and\nThe DICT, in coordination with the SC and the Department of Budget and Management\n(DBM), shall issue guidelines on the operation of the EGov UPMO within ninety (90) days from\nthe effectivity of this IRR. The guidelines shall cover, among others, the organizational\nstructure, staffing pattern, functions, operational procedures, performance management system,\n\nand other administrative and technical matters necessary for the effective and efficient operation\nof the EGov UPMO."
+   }
+  },
+  {
+   "id": "PH-H21479-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "SECTION 8"
+   },
+   "text": {
+    "en": "Functions of the EGo UPMO. - The EGov UPMO shall perform the following\nfunctions, among others:\n(a) oversee, monitor, and provide technical guidance on the planning, execution,\ntimeliness, performance and resource utilization of all government ICT projects and programs;\n(b) ensure that the entire portfolio of E-Government Programs is aligned with the\nEGMI, the Philippine Government Interoperability Framework (GIF), and other relevant\nnational ICT plans, policies, and frameworks;\n(c) prescribe and require compliance with internationally recognized best practices and\nstandards in project, program, and portfolio management including but not limited to risk\nmanagement, quality assurance, benefits realization, and change management; and\n(d) coordinate with the Academy to ensure the systematic development and regular\ndelivery of courses, including multimodal training and certification programs, and to\nimplement capacity-building initiatives that enhance the skills, knowledge, and technical\nexpertise of EGov UPMO and other DICT units responsible for the development and\nimplementation of the Act."
+   }
+  },
+  {
+   "id": "PH-H21479-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "SECTION 9"
+   },
+   "text": {
+    "en": "Qualifications of EGo UPMO Personnel. - Personnel appointed or assigned to\nthe EGov UPMO shall be required to secure and maintain internationally recognized\ncertifications and competency standards on Project Management, Program Management,\nTechnology Management, IT Service Management, Enterprise Architecture, Information\nSecurity, Data Privacy, and Risk Management, Data Analytics, and ICT financial planning and\nbudgeting, among others.\nThe Academy Act shall provide guidelines on the minimum qualifications for such\ncertifications and competency standards for Gov UPMO personnel in accordance with Section"
+   }
+  },
+  {
+   "id": "PH-H21479-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "SECTION 10"
+   },
+   "text": {
+    "en": "Transition of Existing DICT Offices to the EGo UPMO. - During the transition\nperiod, the DICT shall designate qualified existing personnel and an existing office with\nsubstantially similar or related functions to perform, on an interim basis, the functions of the\nEGov UPMO. Such qualified existing personnel may be designated based on competencies\ndespite lacking the required certifications, provided they secure the necessary certifications\nwithin one (1) year from the date of assumption to the position. The DICT Secretary, may, for\njustifiable reasons and subject to existing laws, rules, and regulations, extend the period for\ncompliance. This arrangement shall be without prejudice to any subsequent reorganization,\nreconstitution, or reappointment in accordance with the final guidelines to be issued. The DICT\nshall allocate to the EGov UPMO the funds necessary to carry out this purpose."
+   }
+  },
+  {
+   "id": "PH-H21479-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "SECTION 11"
+   },
+   "text": {
+    "en": "Interagency Agreements for Implementation of E-Government Programs. - The\nDICT may enter into service agreements, memoranda of agreement, or other similar\ninter-agency arrangements with Covered Entities. Such arrangements may be undertaken\nthrough agency-to-agency procurement, inter-agency cooperation, or similar mechanisms,\nwhere the DICT is mandated by law or possesses the requisite technical capability,\ninfrastructure, or institutional competence to deliver the required ICT systems, platforms, or\nservices, consistent with the R.A. No. 12009 or the \"New Government Procurement Act\"\n(NGPA), and applicable issuances of the DBM and the Commission on Audit (COA)."
+   }
+  },
+  {
+   "id": "PH-H21479-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "SECTION 12"
+   },
+   "text": {
+    "en": "Collection of Fees. - In accordance with Section 33 of the Act, the DICT may\ncollect reasonable fees from authorized sources for services directly related to the\nimplementation, operation, and sustainability of the E-Government Programs, such as issuance\nof certifications or technical clearances expressly permitted by law, access to shared or common\ndigital platforms, interoperability and data-exchange services, API access, hosting and cloud\ncomputing services, and cybersecurity services related to E-Government Programs and\ngovernment CII. All fees collected shall accrue to the -Government Interoperability Fund and\nshall be subject to existing budgeting, accounting, and auditing rules and regulations.\nFees, reimbursements, cost-sharing amounts, or fund transfers arising from services\nrendered or service agreements entered into under Section 11 shall be reasonable and sufficient\nto defray the minimum costs of providing the service and shall consider, among others, the\navailable budget of the Covered Entity, operational and maintenance costs, cost recovery,\ncybersecurity requirements, system enhancements, cloud subscriptions, software licenses, and\nsuch other expenses necessary for the effective implementation of the E-Government Programs.\nThe DICT shall issue and publish guidelines for determining the fees, including any\nsubsequent revisions thereto, through appropriate issuances and posting on its official website,\nand shall, where applicable, coordinate with the DBM, DOF, COA, and other concerned\nagencies prior to implementation, in accordance with existing laws, rules, and regulations. The\nSchedule of Fees shall be reviewed periodically and adjusted as necessary."
+   }
+  },
+  {
+   "id": "PH-H21479-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "SECTION 13"
+   },
+   "text": {
+    "en": "Performance Scorecards, Compliance Certification, and Public Disclosure.\n(a) Performance Scorecards. The DICT shall develop, maintain, and periodically update\na standardized E-Governance Performance Scorecard to assess the level of compliance of\nCovered Entities with the requirements of the Act, this IRR, and related DICT issuances. The\nPerformance Scorecard shall be aligned with the EGMP, -Government Development Index\n(EGDI), and applicable standards, and may include, among others, indicators on:\n(1) compliance with prescribed ICT, interoperability, cybersecurity, and data\nprivacy standards;\n(2) implementation status of required E-Government Programs;\n(3) quality, accessibility, and availability of digital public services;\n(4) institutional readiness, including governance, human capital, and ICT\nplanning; and\n(5) timeliness and accuracy of required reports and submissions to the DICT.\nThe Performance Scorecards shall only be advisory in nature.\n(b) Certification of Compliance. Based on validated submissions from Covered Entities,\nand audits, assessments or monitoring activities, the DICT may issue the following\ncertifications:\n(1) Certificate of Compliance, indicating that a Covered Entity has substantially\ncomplied with applicable requirements, standards, and timelines under the\nAct, this IRR, and relevant DICT issuances; or,\n\n(2) Certificate of Non-Compliance, indicating material gaps, deficiencies, or\nfailures to comply with required standards, obligations, and corrective\nactions and compliance timelines, when necessary. Prior to issuance of such\nCertificate of Non-Compliance, DICT shall provide the Covered Entity a\nwritten notice of findings and a period of not less than fifteen (15) working\ndays upon receipt of notice to respond with corrective actions or\nclarifications.\n(c) Publication and Transparency. Subject to applicable laws on data privacy,\nconfidentiality, and national security, the DICT may publish Performance Scorecards and any\ncertifications issued to Covered Entities under this Section through official government\nwebsites, dashboards, or reports, for purposes of transparency, benchmarking, and public\naccountability.\nTHE E-GOVERNMENT MASTER PLAN, PROGRAMS AND SYSTEMS"
+   }
+  },
+  {
+   "id": "PH-H21479-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "SECTION 14"
+   },
+   "text": {
+    "en": "E-Government Master Plan (EGMP). - The DICT shall formulate and promote\nan EGMP or its equivalent that will serve as a blueprint for the development and enhancement\nof all electronic government service processes and workforce to achieve digital transformation\nin the bureaucracy, taking into consideration the Philippine Development Plan. The EGMP shall\nserve as the sole and overarching national roadmap for the development, harmonization, and\nenhancement of all electronic government programs, systems, platforms, and digital services.\nAn Integrated Framework shall also be developed to provide the government enterprise\narchitecture and operationalize the blueprint through programs and projects relating to\nE-Government, to fully realize the vision, goals, and objectives of the EGMP. The Integrated\nFramework shall also set forth the guidelines for the government Enterprise Architecture, and\nimplementation roadmap to ensure coherence, efficiency, and alignment of all government ICT\nsystems and platforms.\nThe EGMP and its integrated framework shall include core governance principles for the\nresponsible deployment of emerging technologies, by mandating adherence to principles of\ntransparency, accountability, and robustness in all E-Government programs. To ensure effective\nimplementation of E-Governance, a whole-of-government approach shall be adopted in the\nformulation and promotion of the EGMP. This approach shall facilitate engagement primarily\nwith government agencies, instrumentalities, GOCCs, LGUs, Regional Development Councils,\nICT Councils, technical and standards organizations, and other relevant stakeholders to ensure\nthe full and effective implementation of the country's E-Governance Agenda.\nThe DICT shall formulate, adopt, and publish the EGMP and its Integrated Framework\nwithin ninety (90) days from the effectivity of this IRR, and shall review and update the same\nevery three (3) years or earlier as the need arises, in anticipation of disruptions, emergencies,\ncrises, and new and emerging technologies."
+   }
+  },
+  {
+   "id": "PH-H21479-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "SECTION 15"
+   },
+   "text": {
+    "en": "E-Government Programs. - The DICT, in coordination with relevant\ngovernment agencies, shall develop the following programs and systems that will be regularly\nupdated in consultation with stakeholders and ensure that such programs and systems are\ncompliant with standards imposed by relevant laws, rules, and regulations relating to data\nprivacy and cybersecurity. All -Government Programs, platforms, and digital systems shall be\ndesigned, enhanced, and implemented strictly in accordance with the EGMP and shall comply\nwith the GIF. No E-Government Program shall introduce an independent framework,\n\narchitecture, roadmap, or standards regime inconsistent with, or supplementary to, the EGMP\nTo carry out the objectives of the Act, the DICT may develop or adopt additional\n-Government Programs, platforms, or digital systems as may be necessary, subject to the same\nrequirements on alignment with the EGMP, compliance with the PGIF, and adherence to\napplicable data privacy, cybersecurity, and information security standards.\nThe President of the Philippines may require Covered Entities to utilize the platforms\nestablished by the DICT; Provided, That nothing in this section shall be construed to derogate\nfrom the fiscal and administrative autonomy of government agencies, offices, and\ninstrumentalities granted by law.\nSECTION 15.1. Citizen Frontline Delivery Services Platform (CFDSP). - Within ninety (90)\ndays from the effectivity of this IRR, the DICT shall issue and publish the minimum standards\nfor integration into the CFDSP, currently known as the eGovPH Application (eGovPH\nSuperApp). These standards shall define the technical, operational, and interoperability\nrequirements necessary for government systems to securely and efficiently connect to the\nCovered Entities, with frontline services, shall be required to establish and maintain an\ninformation system dedicated to the delivery of their respective frontline services. Such systems\nshall enable citizens to access, request, and track frontline transactions electronically and shall\nconform to the minimum standards set by the DICT.\nCovered Entities that already operate existing information systems or digital platforms\nfor frontline services shall, within one hundred eighty (180) days from the effectivity of the rule\nprescribing minimum standards, file an application for integration with the DICT to connect to\nthe eGovPH SuperApp.\nCovered Entities that do not yet have an operational information system for frontline\ndelivery shall, within the same one hundred eighty (180) day period, include the development\nand deployment of such a system as a priority project in their respective ISSPs, to be submitted\nto and approved by the DICT and DBM. The ISSP shall outline the implementation timeline,\nfunding requirements, and institutional arrangements necessary for integration into the\neGovPH SuperApp.\nPending the development of a full information system, Covered Entities shall at least\nmaintain an official website capable of publishing public information, downloadable forms, and\nclear instructions for accessing frontline services. This website shall comply with DICT's web,\naccessibility, and cybersecurity standards, and shall serve as the initial entry point for future\nintegration into the eGovPH SuperApp.\nThe DICT shall monitor and evaluate agency compliance with these requirements and\nmay issue technical advisories, compliance directives, or non-compliance notices as necessary.\nThe DICT shall periodically review and update the minimum standards to reflect emerging\ntechnologies, evolving interoperability needs, and international best practices.\nSECTION 15.2. Electronic Local Government Unit (eLGU) System. - Within one (1) year from\nthe effectivity of this IRR, the DICT and Department of the Interior and Local Government\n(DILG) shall develop, adopt, and publish a Local Government Digital Service Standard (LGDSS)\nthat shall define the minimum set of digital public services which all LGU systems or portals\nmust provide. The LGDSS shall serve as a uniform benchmark to ensure consistency,\n\naccessibility, interoperability, and efficiency in the delivery of local digital services across all\nlevels of local governance. At a minimum, the LGDSS shall cover business and\ninvestment-related services, such as the processing of business permits, clearances, and licenses;\nrevenue and taxation services, including assessment and payment of real property tax, business\ntax, and other local fees; civil registry services, including applications and issuances related to\nbirth, marriage, and death certificates; citizen request and feedback mechanisms; and other\nfrontline services as may be determined by the DICT, the DILG - Bureau of Local Government\nDevelopment, and the Department of Finance (DOF) - Bureau of Local Government Finance\n(BLGF), consistent with the [GU's Citizen's Charter, the EODBA, and other applicable laws,\nrules and regulations.\nLGUs that opt to develop, maintain or utilize their own eLGU systems or portals must\ndemonstrate full compliance with the LGDSS as a prerequisite for certification and recognition\nby the DICT. Such LGU-utilized systems shall undergo technical validation by the DICT to\nensure full interoperability and API-based integration with the national CFDSP, compliance\nwith applicable data privacy, cybersecurity, and interoperability standards prescribed under the\nEGMP, and adherence to user-centered design and accessibility standards consistent with\ninternational best practices. For systems involving revenue generation, the validation shall be\nconducted in coordination with the BLGF to ensure compliance with fiscal policies.\nOnly those LGUs certified as fully compliant with the LGDSS and integrated with the\neGovPH SuperApp shall be deemed compliant with the requirements of the Act and this IRR.\nLGUs that fail to establish or integrate compliant systems within the prescribed period shall be\nrequired to fully adopt the DICT-provided eLGU system, for which the DICT shall provide the\nnecessary software, infrastructure, and technical assistance to ensure continuity of digital\nservices to the unserved or underserved municipalities.\nThe DICT shall periodically review and update the LGDSS at least once every two (2)\nyears from the effectivity of this IRR, or as necessary to reflect technological advancements, user\nfeedback, and evolving digital governance priorities.\nSECTION 15.3. Government Digital Payment System for Collection and Disbursement. - An\nelectronic payment facility and gateway that will enable citizens and businesses to remit and\nreceive payments electronically to or from government agencies shall be created. It shall render\nservices through various delivery channels, which include debit instructions (ATM accounts),\ncredit instructions (credit cards), and mobile wallets (mobile applications/SMS). For this\npurpose, the government may, in accordance with applicable laws and rules, engage the\nservices of, and interconnect with, public and private payment systems and facilities, among\nothers, consistent with the National Retail Payment System Framework of the Bangko Sentral\nng Pilipinas (BSP).\nThese systems should interface smoothly with the current monitoring and accounting\nsystems of the National Treasury.\nCovered Entities are hereby encouraged to adopt and utilize the Government Digital\nPayment System currently known as \"GovPay\" as established by the DICT for the electronic\ncollection and disbursement of government payments. Covered Entities that have previously\nimplemented or currently maintain their own digital or electronic payment platforms may\ncontinue to operate such systems; Provided, That they shall ensure full technical\ninteroperability and secure interconnection with E-Government Programs, platforms, and\nservices, including those under the EGMP. For purposes of alignment and integration, all\nCovered Entities shall coordinate with the DICT to facilitate system interconnection, integration,\nand compliance with standards.\n\nThe technical standards, implementation protocols, and operational guidelines\ngoverning the Government Digital Payment System shall be jointly formulated and issued by\nthe DICT, the Bureau of the Treasury (BTr), the DOF-BLGF and the COA, consistent with their\nrespective mandates, and shall be promulgated within one hundred twenty (120) days from the\neffectivity of this IRR to ensure uniform adoption, transactional integrity, audit compliance,\ntransparent monitoring, real-time reconciliation, and seamless interconnectivity with\ngovernment treasury systems, accounting platforms, and the whole-of-government digital\npayment ecosystem.\nSECTION 15.4. Government Public Key Infrastructure (PKI) Program. - The DICT shall\nencourage and promote the use of Government PKI digital certificates that allow paperless\ntransactions and remote approval by signatories in the government to reduce red tape and\nenforce ease of doing business. The adoption of PKI aims to strengthen E-Government\ncybersecurity through its implementation in all government offices and supply of digital\ncertificates to the citizens. The Government PKI Program known as the Philippine National PKI\n(PNPKI) shall serve as the official Government PKI system that issues PKI digital certificates to\nensure the security of digital data and transactions by providing:\n(a) Authentication- to verify the identity of users and prevent unauthorized access to\ninformation and systems;\n(b) Confidentiality- to ensure that electronic data and communications are accessible\nonly to authorized parties;\n(c) Integrity- to ensure that electronic data and messages remain complete, accurate and\nunaltered during transmission and storage; and\n(d) Non-repudiation- ensure that parties to an electronic transaction cannot deny their\nparticipation or actions.\nWithin ninety (90) days from the effectivity of this IRR, the DICT shall issue the\nguidelines on the use of PNPKI Systems and accreditation of Registration Authority and\nGovernment Certificate Authority, establishing the policies, technical standards, and\naccreditation framework necessary for the secure implementation of PKI across the government.\nAll Covered Entities shall, as far as practicable, ensure that their employees, especially\nthose authorized to approve, certify, or endorse documents or transactions, are enrolled in or\nhave access to the Government FKI system.\nSECTION 15.5. Human Capital Management Information System (HCMIS). - An HCMIS\nshall be developed to eliminate paper-based and manual human resource (HR)-related\nprocesses. Consistent with applicable civil service laws and rules, the HCMIS shall automate the\nfollowing HR-related functions in government: recruitment and selection, appointment\npreparation and submission, personnel records keeping, salary, benefits, and payroll\nadministration, leave management, learning and development, rewards, recognition, and\nperformance management, among others. This system shall utilize analytics to provide insights\nnecessary for strategic HR functions such as performance management, forecasting, promotion,\nsuccession planning, among others; Provided, That government agencies, offices, and\ninstrumentalities granted by law and their respective charters with fiscal and administrative\nauthority in the performance of their constitutional and statutory mandates, including those\nthat have been exempted from the Salary Standardization Law and have been granted authority\nto formulate their own classification systems, shall be allowed to independently develop,\n\nmaintain, undertake, supervise, and regulate their own HCMIS and shall be required to\ncoordinate and report to the DICT for alignment of policy objectives.\nCovered Entities are encouraged to adopt and utilize the national HCMIS established\npursuant to this IRR, subject to system readiness and capacity of the concerned agency. The\nDICT and CSC may utilize, co-develop, and enhance the existing HCMIS of the CSC provided it\ncomplies with the minimum standards defined under the Act and this IRR. The SC and the\nDICT shall jointly issue and promulgate the minimum technical, data governance,\ncybersecurity, and operational standards for system implementation and integration within\nninety (90) days from the effectivity of this IRR. Compliance with these standards shall be\nmandatory for all HCMIS implementations across government, without prejudice to enhanced\nsystem features adopted by agencies consistent with their mandates.\nSECTION 15.6. Integrated Financial Management Information System (IFMIS). - To ensure\nfiscal discipline, fund allocation efficiency, and operational efficiency in the delivery of public\nservices, an IFMIS shall be jointly developed by the DBM, DOF, COA, and DICT. This shall\nharmonize all existing financial systems in government to enable real-time, online accounting\nmonitoring, and control of obligations and disbursements and directly link these to cash\nmanagement for a more effective financial control and accountability. This shall facilitate the\ngeneration and monitoring of vital information on all aspects of government financial\ntransactions to support timely and informed decisions across the bureaucracy.\nCovered Entities are encouraged to adopt and utilize the IFMIS established pursuant to\nthe law and this IRR, subject to system readiness and capacity of the concerned agency. The\nDICT and CSC may utilize, co-develop, and enhance the existing IFMIS of the DBM provided it\ncomplies with the minimum standards defined under the law and this IRR. The DBM, DOF,\nCOA, and DICT shall jointly develop and promulgate the minimum technical, cybersecurity,\ndata governance, and operational standards for IFMIS implementation within ninety (90) days\nfrom the effectivity of this IRR.\nSECTION 15.7. Integrated Government Network (IGN). - Covered Entities that maintain\nexisting internal or legacy networks, or those operating networks pursuant to their respective\ncharters with fiscal and administrative authority, may continue to independently develop,\noperate, and maintain such networks; Provided, That they ensure continuing interoperability\nwith the IGN, comply with national cybersecurity and information security standards, and\nsubmit network interoperability compliance reports to the DICT for policy and Enterprise\nArchitecture alignment.\nCovered Entities are encouraged to adopt and utilize the IGN once operational.\nThe DICT shall issue the guidelines for the operation, use, management, resiliency,\nincident response, and administration of the IGN, including the governance of the Government\nInternet Protocol Exchange (G/IPX) Facility, within one hundred twenty (120) days from the\neffectivity of this IRR.\nFor purposes of this IRR, the IGN will cover the following:\n(a) the orderly turnover, integration, and transition of the existing Government Internet\nProtocol Exchange (G/IPX) facilities into the IGN architecture, including the mandatory\nconnection, interconnection, or peering of all relevant government agencies and government\nnetworks to the designated G/IX, consistent with the interoperability and unified traffic\nexchange framework for government networks;\n\n(b) the establishment and operationalization of a Network Information Center (NIC)\nwithin the DICT to administer, manage, allocate, secure, and maintain all government IF\n(c) the acquisition, administration, and management of IP address blocks, internet\nnumber resources, and related allocations from APNIC and other authorized global numbering\nregistries;\n(d) the mandatory adoption and phased migration to the latest Internet Protocol\nversions, secure DNS and domain name administration standards for the gov.ph domain, and\nthe deployment of modern cryptographic protocols, including but not limited to TLS and SSL,\nto strengthen network resiliency and cybersecurity posture across all government entities; and\n(e) formal and sustained coordination, engagement, and collaboration with internet\ngovernance bodies such as The Internet Corporation for Assigned Names and Numbers,\nInternet Assigned Numbers Authority, Asia Pacific Network Information Centre, and other\ninternational organizations to ensure alignment with internationally recognized norms,\nprotocols, and best practices in resource management and interoperability.\nThe DICT, in coordination with the DBM, shall jointly issue guidelines, policies, and\nbudgeting frameworks to optimize, rationalize, and harmonize government ICT expenditures.\nSuch issuance shall provide direction on cost-efficient procurement, consolidation of duplicative\nICT investments, prioritization of whole-of-government shared services, and alignment with the\nThe DICT shall promulgate supplemental technical guidelines, certification\nrequirements, implementation schedules, interoperability specifications, compliance\nmechanisms, and other necessary regulatory issuances to fully operationalize the IGN and to\nensure secure, efficient, scalable, future-proof, and standards-aligned interconnection across all\ngovernment networks and platforms, consistent with evolving global internet governance\nprinciples and emerging technologies. The operation of the IGN and the NIC shall be subiect to\nperiodic independent technical, cybersecurity, and information security audits, in accordance\nwith standards prescribed by the DICT.\nSECTION 15.8. Online Public Service Portal. - Complementing the CDS, an Online Public\nService Portal shall be made accessible through digital platforms such as the internet and other\nICTs to citizens of the Philippines; foreign nationals who have been lawfully admitted to the\ncountry; and businesses organized and existing or operating under the laws and rules of the\nPhilippines for purposes consistent with efficient delivery of public services. The Online Public\nService Portal shall serve as a help desk where citizens can request for information and\nassistance on government frontline services, service procedures, and report commendations,\nappreciation, complaints, and feedback.\nFor purposes of interoperability, interconnection, and harmonization, all existing\nsystems or mechanisms, such as the 8888 Citizens' Complaint Center and government social\nmedia channels, established and/or maintained by government agencies, offices, and\ninstrumentalities, and LGUs shall be integrated to the Online Public Service Portal. Likewise,\nthe Online Public Service Portal shall be fully integrated with the IGN and Records and\nKnowledge Management Information System for real-time updating of data and information.\nTo ensure that the public is served efficiently and expeditiously in accordance with the\nobiectives of the Act, all Covered Entities are hereby mandated to cooperate and coordinate\nwith each other and with the Presidential Management Staff (PMS) to ensure prompt action on\n\nthe concerns received through the Online Public Service Portal and associated communication\nNotwithstanding the provisions of the Act and this IRR, access and use of resources,\ninformation, and data through the portal shall be in accordance with the DA, EODBA and all\nrelevant laws, rules, and regulations on data and information privacy and pertinent rules on\nconfidentiality of government information.\nWithin one hundred twenty (120) days from the effectivity of this IRR, the DICT, in\ncoordination with the Anti-Red Tape Authority (ARTA), PMS, and other concerned agencies,\nshall issue the guidelines on the integration, operation, and case referral mechanisms of the\nOnline Public Service Portal to ensure timely action, accountability, and seamless workflow\norchestration of lodged public concerns.\nSECTION 15.9 Philippine Digital Health System. -\nA comprehensive, integrated,\ninteroperable, progressive, secure, and sustainable ICT system and framework shall be\nestablished to provide wide access to quality health information and services that promotes and\nensures streamlined and safety-regulated delivery of digital health services to reduce\ninequalities and achieve universal healthcare and better health outcomes for every Filipino.\nThe DICT may utilize, enhance, or improve the existing digital health systems of the\nDepartment of Health (DOH) as foundational components of the Philippine Digital Health\nSystem; Provided, That any enhancement, modification, or integration undertaken by the DICT\nshall strictly comply with the minimum standards on interoperability, data privacy,\ncybersecurity, patient safety, and all other applicable regulatory requirements promulgated\nunder this IRR.\nWithin one hundred twenty (120) days from the effectivity of this IRR, the DICT and the\nDOH shall jointly develop, issue, and promulgate the implementing guidelines, technical\nprotocols, system enhancement standards, access conditions, and operational procedures for the\nutilization and improvement of DOH digital health systems.\nSECTION 15.10. Philippine Government Interonerability Framework. -\nThe Philippine\nGovernment Interoperability Framework (PGIF) establishes technical, and data and\ninformational interoperability of government ICT systems necessary for an effective and\nefficient delivery of government services by ensuring a seamless operations and shared services\nof the Philippine government, between and among its various agencies, and their constituents.\nThe PGIF shall consist of the following components:\n(a) Domain 1 - establishes the overall principles and key standards that would enable\nsystems to communicate with one another through the linkage of ICT systems and services\namong government agencies. It shall include the Technical Standards Catalogue, which shall\nconstitute a structured collection of standards, specifications, and guidelines for interoperability\nrequirements.\n(b) Domain 2 - establishes the common methodology, definition, and structure for data\nand information, along with shared services for its management throughout its lifecycle.\n(c) Additional Domains - additional domain(s) that form part of the government\ninteroperability may be developed or issued in the future for government wide application to\nensure proper consolidation, coherence, and continuous updating of the framework and its\ntechnical standards.\n\nAll Covered Entities shall adopt and implement the PGIF in their ICT systems, projects,\nprograms, and processes. The GIF shall likewise apply to private entities that will participate\nas ICT solutions or service providers to the Philippine government, this includes, but not\nlimited to, entities involved in the design, development, supply, operation, maintenance,\nmanagement, or support of government ICT systems, applications, platforms, infrastructure, or\ndata-related services. The DICT shall be the lead implementing and governing authority for the\nFor this purpose, the DICT shall establish a PGIF Management Team, supported by a\nTechnical and Sectoral Working Group, which shall be responsible for the overall policy\ndirection, coordination, and oversight of government wide interoperability initiatives. The\nDICT shall issue the necessary and relevant technical advisories and guidelines to\noperationalize the adoption of the GIF. The GIF shall be reviewed and updated regularly at\nleast every two (2) years or earlier as necessary to ensure responsiveness to the current needs of\nthe government and alignment with newly adopted standards and technological trends.\nCovered Entities are required to submit annual implementation reports to the DICT for\nevaluation. These reports will serve as the basis for the continuous updating of interoperability\nguides, policies, and standards. All E-Government Program interoperability requirements and\napplicable ICT-related procurement, development, and modernization projects of all covered\ngovernment agencies shall conform with the standards and requirements of GIF, and the\nguidelines and standards for ISSP as determined by the DICT.\nThe DICT shall develop, promulgate, and formally issue the GIF within one hundred\ntwenty (120) days from the effectivity of this IRR.\nSECTION 15.11. Procurement System. - A modernized Philippine Government Procurement\nSystem shall be developed and implemented to provide an auditable online system that\nencompasses all procurement and supply chain management processes involving bidding,\ncontract management, delivery, acceptance, and payment for services or supplies: Provided,\nthat government agencies, offices, and instrumentalities granted by law and their respective\ncharters with fiscal and administrative autonomy in the performance of their constitutional and\nstatutory mandates shall independently develop, maintain, undertake, supervise, and regulate\ntheir own procurement systems and shall only be required to coordinate and report to the DICT\nfor alignment of policy objectives: Provided, further, That such system shall comply with the\nThe DICT and DBM may utilize, co-develop, and enhance the existing PhilGEPS of the\nDBM provided it complies with the minimum standards defined under this IRR. The DICT,\nDOF, COA and DBM, shall jointly develop and issue the implementation guidelines within\nninety (90) days from the effectivity of this IRR to ensure alignment, transparency, audit\nintegrity, and whole-of-government readiness.\nSECTION 15.12. Records and Knowledge Management Information System. - A Records and\nKnowledge Management Information System shall be designed to systematically and efficiently\nmanage government documents, records, and knowledge products and services. This includes\nthe digitalization of paper-based documents, records, and knowledge products and services, as\nwell as the re-engineering and digitalization of paper-based workflows, from creation,\ndissemination, processing, analysis, tracking, storing, verification and authentication, and\narchiving or disposal, while adhering to existing policies, laws, and internationally recognized\nstandards and best practices.\n\nA repository and corresponding secure API shall be created for the common data sets,\nwhich include pricing, demographic, and geospatial data to improve publication, sharing, and\nutilization of data across the government. The DICT shall ensure that such repository shall be\ncompliant with the DPA, its IRR, and relevant issuances of the NC and information security\nstandards. The DICT shall also establish a platform or its equivalent for government data\nstorage and interoperability.\nDICT, together with the National Archives of the Philippines, Philippine Statistics\nAuthority (PSA), and other concerned agencies shall jointly develop and issue the\nimplementation guidelines within ninety (90) days from the effectivity of this IRR to ensure\nalignment, transparency, audit integrity, and whole-of-government readiness.\nThe DICT, in collaboration with the relevant agencies, shall issue the necessary\nguidelines to accelerate the adoption of Open Data."
+   }
+  },
+  {
+   "id": "PH-H21479-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "SECTION 16"
+   },
+   "text": {
+    "en": "National E-Government Development Index (EGDI). - The DICT, in\ncoordination with other government agencies, shall establish a national EGDI to serve as the\nunified metric for assessing and monitoring the progress of -Government development in the\ncountry. The EGDI shall provide a framework for internal assessment and external\nbenchmarking against global standards.\nThe EGDI shall be the composite measure, consistent with international best practices, of\nthe three important dimensions of E-Government, namely: online service index,\ntelecommunication infrastructure index, and human capital index, and shall adopt globally\ncompetitive indicators, definitions, and statistical standards.\nThe EGDI shall be published every two (2) years from the effectivity of this IRR."
+   }
+  },
+  {
+   "id": "PH-H21479-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "SECTION 17"
+   },
+   "text": {
+    "en": "Measurement Manual. - The DICT shall develop and publish an official\n-Government Measurement Manual detailing the framework, indicators, computation\nmethods and data collection procedures. The Manual shall adhere to internationally recognized\nstandards such as the United Nations EGDI, Organisation for Economic Co-operation and\nDevelopment Digital Government Index, International Telecommunication Union, and other\nglobal E-governance standards, and shall undergo consultation and validation by the member\nagencies of the Inter-Agency Committee on ICT Statistics, created by PA Memorandum Order\nNo. 12, series of 2015, and other stakeholders.\nThe Manual shall be reviewed and updated at least once every three (3) years from the\neffectivity of this IRR or as necessary to respond to the emerging technologies, global\nbenchmarking practices, and policy priorities."
+   }
+  },
+  {
+   "id": "PH-H21479-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "SECTION 18"
+   },
+   "text": {
+    "en": "Annual E-Government Maturity Survey. - The DICT shall conduct an annual\n-Government Maturity Survey to assess the ICT readiness and digital maturity of Covered\nEntities based on the framework established by the National EGDI, with focus on the following:\ndigital service delivery or the extent of services migrated online; efficiency of ICT management;\nhuman resource capacity; adherence to information security standards; citizen engagement and\naccessibility; and, compliance to the principles and standards of the PGIF.\nParticipation in the annual E-Government Maturity Survey shall be mandatory for all\nCovered Entities.\n\nThe results of the annual E-Government Maturity Survey shall be the primary basis for\nthe mandatory three (3) year review and update of the EGMP, ensuring the national strategy is\nresponsive to performance data\nThe survey results, including individual agency scores and rankings, shall be published\non a public dashboard. Agency performance in this survey shall be a mandatory criterion in the\nannual performance evaluation of the head of the Covered Entity and the CIO."
+   }
+  },
+  {
+   "id": "PH-H21479-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "SECTION 19"
+   },
+   "text": {
+    "en": "Free Access to the Internet for the Public. - Subject to compliance with existing\nlaws, rules and regulations, the Free Public Internet Access Program shall utilize the Free Public\nInternet Access Fund (FPIAF) to finance capital outlay, maintenance and operations of the\nprogram, and to provide necessary computer systems, programs, databases, management and\ninformation systems, and core transmission and distribution networks to facilitate\nknowledge-building among citizens and empower them to participate in the evolving digital\nThe provisions of R.A. No. 10929 or the \"Free Internet Access in Public Places Act\" and\nits implementing rules and regulations shall be suppletory to the Act and this IRR.\nGOVERNMENT WEBSITE AND INFORMATION PORTALS"
+   }
+  },
+  {
+   "id": "PH-H21479-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "SECTION 20"
+   },
+   "text": {
+    "en": "Government Website and Electronic Bulletin (E-Bulletin) Board. - Covered\nEntities are mandated to set up, maintain, and consistently enhance their websites and to\nestablish an -Bulletin Board for efficient information dissemination. This mandatory\nenhancement shall be aligned with the strategic objective of consolidating the government's\ndigital presence through the eGovWeb platform. The website and e-Bulletin board should be\ninteractive, well-designed, functional, and mobile-friendly, operating on a secure foundation\nprioritizing cybersecurity and accessibility. Government websites shall be updated regularly.\nTo guarantee platform resiliency and secure interoperability, the DICT, in coordination\nwith relevant agencies, shall promulgate supplemental technical standards and implementation\nguidelines for website modernization and -Bulletin Board establishment within ninety (90)\ndays from the effectivity of this IRR. These guidelines shall mandatorily include detailed cyber\nhygiene requirements for all government digital assets to be integrated with the eGovWeb"
+   }
+  },
+  {
+   "id": "PH-H21479-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "SECTION 21"
+   },
+   "text": {
+    "en": "Minimum Standards for Government Websites. - The following minimum\nstandards shall apply to government websites and information portals:\n(a) must contain direct and easilv identifiable links to: (i) description of the mission,\nstatutory authority, and the organizational structure of the agency; and (i) frequently asked\nquestions (FAQs) with the corresponding answers, and other common matters of public\nconcern; and (ill) portals of relevant and applicable E-Government Programs for public service\n(b) must provide access to public information via an API;\n(c) subject to compliance with the DPA, must include up-to-date government directory\ncontaining the contact information, such as emails and telephone numbers, of the offices and\nofficials of the Covered Entity;\n\n(d) must comply with the Philippine Web Accessibility policy, or any relevant issuance\nfrom the DICT;\n(e) must provide a real-time citizen feedback mechanism integrated into all\nE-Government platforms to allow users to rate services, provide comments, and report issues\ndirectly. Data from this mechanism shall be publicly aggregated and published quarterly to\nensure transparency and guide service improvements;\n(f) must include procurement-related notices and monitoring platforms, in compliance\nwith NGPA, and\n(g) must provide information on website owner contact, hosting provider, and agency\nCISO/CSIRT contact to the NCERT for coordination in case of a cybersecurity incident."
+   }
+  },
+  {
+   "id": "PH-H21479-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "SECTION 22"
+   },
+   "text": {
+    "en": "Information Dissemination through Website and E-Bulletin Board. - Covered\nEntities shall publish public notices, documents, or information on their websites, -Bulletin\nboards, and verified official government social media accounts, in addition to traditional\npublication methods.\nExcept when a different manner of publication for effectivity is required by other laws,\npublication on the official government website and E-Bulletin Board shall be deemed sufficient\nlegal notice, and the date and time of posting thereof' shall serve as the official reference point\nfor reckoning publication.\nROLE OF COVERED ENTITIES AND THEIR RESPECTIVE HEADS"
+   }
+  },
+  {
+   "id": "PH-H21479-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "SECTION 23"
+   },
+   "text": {
+    "en": "Responsibilities of Heads of Covered Entities. - The head of each Covered\nEntity, in consultation with the DICT, shall:\n(a) ensure adherence to requirements of the Act, this IRR and all other laws including\nrelevant DICT issuances on standards for all ICT infrastructure, systems, equipment, designs,\nand technologies;\n(b) ensure compliance with the standards and protocols for cybersecurity, resiliency,\ndata privacy and confidentiality, as prescribed in relevant laws, rules, and regulations;\n(c) ensure prompt and effective communication of IC standards promulgated by the\nDICT to all concerned agency officials;\n(d) support national and local government efforts and, where appropriate, collaborate to\ndevelop, maintain, and promote an integrated system for delivering government information\nand services to the public;\n(e) ensure the establishment and implementation of policies and standards on\ncybersecurity, freedom of information, and open data within their organization following its\nmandate and technological needs or risks;\n(f) comply with the re-engineering and streamlining requirements of the ARTA as\nprovided under the EODBA; and\n\n(g) ensure continued availability of government information and services to all\nindividuals and entities, including those without internet access, through accessible alternative\ndelivery channels, whether electronic or manual."
+   }
+  },
+  {
+   "id": "PH-H21479-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "SECTION 24"
+   },
+   "text": {
+    "en": "Responsibilities of Covered Entities. - To achieve the objectives of the Act and\nthis IRR, Covered Entities shall:\n(a) adopt policies, procedures, standards, and guidelines that are in accordance with law\nand as directed by the President of the Philippines;\n(b) develop performance measures that demonstrate how ICT advances agency\nobjectives, statutory mandates, and strategic goals aligned with key stakeholders, including\ncitizens, businesses, and other governments;\n(c) guide policies and programs, collect and analyze relevant data including on customer\nservice, productivity, and the adoption of innovative information technology in accordance with\nindustry best practices;\n(d) as appropriate, work collectively in linking their performance goals to key groups\nand use information technology in delivering government information and services to those\n(e) take necessary measures to prevent algorithmic bias or discrimination, particularly in\nthe use and deployment of emerging technologies, that could compromise the inclusivity and\nequity of access to government services;\n(f maintain and update their websites and -bulletin boards in accordance with the\nstandards set by the DICT;\n(g) submit EA, ISSPs and ICT plans, and such other mandatory plans and reports within\nthe timelines prescribed in this IRR and other relevant issuances;\n(h) update ISSPs and ICT plans annually, integrate them into budget planning, and be\naccountable for their implementation;\n(i) regularly undertake cost compliance analysis, time and motion studies, undergo\nevaluation and improvement of their transaction systems and procedures and re-engineer the\nsame if deemed necessary to reduce bureaucratic red tape and process time; and,\n(i) support the development of a digital competency framework to undertake a\ncompetency assessment of personnel and provide them with appropriate learning and\ndevelopment programs to strengthen their digital competency."
+   }
+  },
+  {
+   "id": "PH-H21479-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "SECTION 25"
+   },
+   "text": {
+    "en": "Responsibilities as regards Data Security and Privacy. - Covered Entities shall\ncomply with the standards and protocols for cybersecurity, resiliency, data privacy and\nconfidentiality, as prescribed in relevant laws, rules, and regulations. To this end, Covered\nEntities shall:\n(a) establish and implement policies and standards on information security, freedom of\ninformation, and open data within their organization following its mandate and commensurate\nwith its risk profile and the magnitude of the potential harm resulting from unauthorized\naccess, use, disclosure, disruption, modification, or destruction of information collected, stored,\n\nprocessed or maintained by or on behalf of the agency; and information systems used or\noperated by an agency, its contractor, or by other organizations on its behalf;\n(b) ensure that all E-Government Programs comply with the data subject rights, security\nand data protection requirements of the DA, and shall formally seek and incorporate guidance\nand assistance from the NPC on matters concerning information security and protection of\npersonal data;\n(c) comply with the Minimum Information Security Standards (MISS) set by the DICT,\nand submit proof of compliance thereof in accordance with Section 38 of this IRR;\n(d) periodically test and evaluate information security controls and techniques to ensure\nthat they are effectively implemented;\n(e) integrate information security management processes with agency strategic and\noperational planning processes;\n(f) adopt the Privacy-by Design, Privacy Engineering, and Privacy-by Default principles\nby implementing the measures in developing, implementing, and deploying systems, processes,\nsoftware applications, and services throughout the personal data processing lifecycle, in\naccordance with the relevant guidelines issued by the NFC; and,\n(g) allocate resources necessary to implement cybersecurity and data protection\nmeasures set in this Act, IRR, and other relevant issuances of the DICT.\nAll Covered Entities shall be responsible for the security, integrity, and lawful\nprocessing of information within their information systems, whether such systems are operated\nby the Covered Entity itself, or by a contractor or third-party on its behalf. In the event of a\nbreach of personal data, the failure to uphold these responsibilities may be construed as\nevidence of negligence under the DPA."
+   }
+  },
+  {
+   "id": "PH-H21479-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "SECTION 26"
+   },
+   "text": {
+    "en": "Liability of Heads of Covered Entities. - The heads of Covered Entities shall be\nprimarily responsible for ensuring compliance by their respective agencies with the Act and this\nIRR, and non-compliance thereto may subject them and other responsible officers to sanctions\nand penalties under the Administrative Code of 1987, as amended, the Revised Rules on\nAdministrative Cases in the Civil Service, EODB, and other applicable laws, rules, and\nregulations."
+   }
+  },
+  {
+   "id": "PH-H21479-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "SECTION 27"
+   },
+   "text": {
+    "en": "Review of Existing Policies, Programs and Standards. - With the assistance of\nDICT, all Covered Entities shall review all their policies, programs, standards, and relevant\ncontracts and agreements, including on the operation of related ICT infrastructure, systems,\nequipment, or services, to ensure compliance and alignment with the Act and this IRR.\nWhen necessary, Covered Entities shall upgrade, enhance, reconfigure or replace their\nexisting systems, standards, protocols, mechanisms, equipment, programs, or infrastructure,\nand negotiate with their respective counterparties to amend, modify or supplement relevant\nagreements, to ensure compliance with the provisions of the Act, this IRR and other issuances\non MISS, cybersecurity protocols, and data privacy requirements. These must be completed\nwithin the period prescribed by the DICI, taking into consideration the system's nature,\ncriticality, and operational impact, and procedures under prevailing laws.\nFor purposes of efficiency and avoidance of redundancy, Covered Entities with existing:\n(i) standards for all ICT infrastructures, systems, equipment, designs, and all other technology;\n\n(ii) protocols for cybersecurity, resiliency, and data privacy and confidentiality; (iii) mechanisms\nfor communicating promptly and effectively all information technology standards within their\nagency; and (iv) equipment, systems, programs, and infrastructure that substantially comply\nwith the minimum requirements, as determined by the DICT, shall be deemed compliant with\nthe provision of the Act and this IRR, and shall be allowed to maintain those existing standards,\nprotocols, mechanisms, equipment, systems, programs, infrastructure, and positions. Contracts\nfor such existing projects and programs deemed compliant shall remain valid until expiration or\ntermination thereof."
+   }
+  },
+  {
+   "id": "PH-H21479-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "SECTION 28"
+   },
+   "text": {
+    "en": "Guidelines on Privacy Engineering in Systems Life Cycle Processes. - Covered\nEntities shall observe the following guidelines throughout all phases of the system lifecycle.\n(a) Planning and requirements gathering\n(1) Determine the lawful basis for processing personal data, and ensure that the\npurpose, scope, and manner of processing are compatible with the declared and\nspecified purpose;\n(2) Apply the general data privacy principles of transparency, legitimate purpose,\nand proportionality in collecting personal data. Agencies should only collect data\nthat is adequate, relevant, suitable, necessary, and not excessive in relation to a\ndeclared and specified purpose, and retain it only for a specified period to fulfill\nthat purpose or as required by law; and\n(3) Conduct a (PIA) to identify and evaluate the potential risks and effects that the\nproposed data processing system may have on the data subjects, and to identify\nways in which any adverse effects can be mitigated.\n(b) Designing and development\n(1) Minimize the processing of personal data by implementing architectures,\npractices, and techniques that reduce the use, collection, and retention of\npersonal data to what is necessary in relation to the specified purpose;\n(2) Implement appropriate information security measures to maintain the\nconfidentiality, integrity, and availability of personal data;\n(3) Implement measures within the system for data subjects to exercise their rights\nunder the DPA, such as but not limited to: data access and download tools to\nrequest access to their personal data within the system; correction and\nrectification interfaces that allow users to rectify incorrect personal data; deletion\nor erasure options, to allow users to delete data within the system; and provide\nopt-in and opt-out mechanisms for specific processing of personal data;\n(4) Maintain traceability in the data processing system involving access or changes\nmade to personal data;\n(5) Adopt secure software development practices that integrate privacy\nconsiderations throughout the systems life cycle processes;\n(6) Establish data retention policies that define how long personal data can be\nstored, (e.g., use of temporal data), where collected data is regularly deleted after\n\n(7) Implement secure disposal procedures and practices to ensure personal data is\npermanently deleted when it is no longer needed.\n(c) Testing and evaluation\n(1) Perform data privacy and information security testing to verify the effectiveness\nof the security and privacy controls and settings of the data processing system\nbefore deployment;\n(2) Test the usability of the privacy interfaces, such as the accessibility of privacy\nnotices that are clear and understandable and testing the mechanism on how\ndata subjects can easily exercise their privacy rights through the system;\n(3) Conduct code reviews and vulnerability scans to identify and address any\ninformation security flaws and weaknesses that can lead to unauthorized access\nand data breaches; and\n(4) Conduct a privacy architecture review to ensure that technologies, architectures,\nand protocols used in the data processing system support data privacy objectives\nand requirements of the DPA, and issuances of the NPC.\n(d) Deployment and integration\n(1) Provide data subjects with clear and concise privacy notices regarding the\ncollection and processing of their personal data, including their rights and how\nto exercise them. For example, users should be informed about the data that an\napplication or a data processing system will be processing. Avoid deceptive\ndesign patterns to ensure transparency and trust. This approach not only delivers\nclear privacy notices but also enhances the overall trustworthiness of data\nprocessing systems;\n(2) Obtain the proper consent of data subjects, when consent is the lawful basis for\nprocessing, before collecting and processing their personal data; and\n(3) Ensure that the default settings of the data processing system provide the\nmaximum privacy protection without manual intervention from data subjects.\nSome examples include, but are not limited to the following: the security settings\nof a system should be enabled by default; online forms only require essential\ninformation by default and leaving optional fields unrequired; opt-in consent\nmechanism by default with unchecked consent boxes; default user profiles\nshould be private rather than public; location tracking should be disabled by\ndefault; and payment details should not be saved by default.\n(e) Operation and maintenance\n(1) Regularly monitor the data processing system for any information security\nincidents and data breaches, and implement policies and procedures for incident\nresponse and breach notification;\n(2) Conduct periodic audits and PIAs at least once a year to assess the continued\neffectiveness of the privacy controls and address any gaps or new risks; a new\nPIA must be conducted in case of the following: (i) a major update or\n\nenhancement to an existing system is made; (i) a new vendor or third party\nprocessor is engaged; and (i) changes in the nature, scope, extent, or purpose of\nprocessing;\n(3) Promptly address any vulnerabilities and update the privacy controls of the data\nprocessing system based on the latest risks and information security standards;\n(4) Uphold the requests of data subjects in exercising their rights (e.g., right to\naccess, rectify, object, etc.) in accordance with the DA, and the NC's issuance\non Data Subiects' Rights; and\n(5) Train personnel on the secure processing in the application or data processing\nsystem, as well as managing information security incidents as stipulated in the\nDPA, and the NC's issuance on managing information security incidents.\nThese measures shall apply regardless of the system's phase or status, whether newly\ndeveloped, currently operational, or undergoing updates."
+   }
+  },
+  {
+   "id": "PH-H21479-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "SECTION 29"
+   },
+   "text": {
+    "en": "Appointment and Institutionalization of the Chief Information Officer (CIO). -\nIn accordance with the mandate of this Act to professionalize and elevate the government's\ndigital leadership, all Covered Entities shall establish the CIO position, and for this purpose,\ncoordinate with the DBM to cause the creation, classification, and funding of a plantilla position.\nThe CIO shall occupy a senior, executive, strategic-level rank situated not lower than two (2)\nlevels from the Head of the Covered Entity to ensure authority in driving institutional ICT\nmodernization and digital transformation. The CIO shall report directly to the Head of the\nCovered Entity or to the second highest official specifically designated to oversee the entity's\ndigital transformation and ICT Portfolio. In accordance with DBM rules and regulations, the\nsalary grade (SG) of the CIO shall be commensurate to the size of the ICT organizational unit\nthat he/she will head and contingent upon the complexity and scale of the covered entity's\napproved Information Systems Strategic Plan (ISSP).\nThe DICT, the SC, and the DBM shall jointly issue the guidelines for the creation of a plantilla\nCIO position in all Covered Entities within 120 days of the effectivity of the IRR to conform with\nexisting standards, rules, and regulations. Such guidelines shall include, but not be limited to:\n(i) the criteria for tier classification and SG assignment for all Covered Entities, including local\ngovernment units (LGUs); (i) minimum educational and professional qualifications; (ili)\nmandatory competency and domain proficiency standards; (iv) ISSP alignment, approval, and\nreporting mechanisms; and (v) cybersecurity, data privacy, and information security\ncompliance obligations of the CIO.\nTo ensure fiscal sustainability, the creation of the CIO position shall be facilitated through the\nabolition of the existing vacant or redundant positions within the current staffing pattern of the\nCovered Entities. Covered Entities with no vacant plantilla positions shall submit their requests\nfor the creation of said position to the DBM for review and approval. The DBM shall evaluate\nthe requests to ensure consistency with the Covered Entities' existing established organization,\nstaffing, position classification, and compensation rules and regulations.\nPending creation of the plantilla position for the CIO and appointment of a qualified person\nthereto, Covered Entities may designate senior officials or ICT technical managerial personnel\nwith relevant educational and professional background, and certifications in Project\nManagement, Program Management, Technology Management, IT Service Management,\nEnterprise Architecture, Information Security, Data Privacy, and Risk Management, Data\n\nAnalytics, and ICT financial planning and budgeting, among others, or their respective\nrepresentatives to the CIO Council, as their interim CIO.\nThe creation of organizational units and CIO positions in the LGUs shall be subject to the Local\nGovernment Code of 1991 and the pertinent SC and DBM policies, rules, and regulations for\nthis purpose."
+   }
+  },
+  {
+   "id": "PH-H21479-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "SECTION 30"
+   },
+   "text": {
+    "en": "Functions of the Chief Information Officer (CIO). - The CIO shall be responsible\nfor managing and implementing the ICT systems of the Covered Entity and shall ensure\ndevelopment and implementation of the agency's ICT plan, its security and compliance with\nDICT-prescribed standards, relevant laws, rules, and regulations, including the DPA. The CIO\nshall perform the following functions:\n(a) serve as the primary accountable official for institutional digital transformation,\nmanaging operational ICT risks, system integrity, data governance, interoperability compliance,\nand alignment of ICT procurements with national standards and audit requirements, within the\nCovered Entity;\n(b) advise agencies on how to leverage ICTs to optimize the delivery of secured public\nservices and achieve efficient and cost-effective operations;\n(c) securely develop, maintain, and manage the agency's information systems;\n(d) manage and supervise the implementation of ICT-related projects, systems, and\n(e) ensure that the ICT systems and business processes are interoperable by design,\nenabling seamless integration and data exchange across the whole government digital\necosystem in accordance with national E-Governance standards;\n(f) formulate and implement processes in relation to the adoption of ICT-based\nsolutions, including emerging technologies as provided in the EGMP;\n(g) facilitate the secure, automated, and proactive exchange of authorized datasets\namong government agencies in accordance with E-Governance standards;\n(h) manage operational risks related to ICT, in coordination with the agency's\nmanagement, CERT, and stakeholders, and a government ClI's CISO, and integrate risk\nmanagement into the planning process;\n(i) ensure that the ICT programs and operations are consistent with national policies and\nprevailing industry standards;\n() accelerate the adoption of open data, blockchain, and emerging technologies, while\nbenchmarking against ICT industry best practices in ICT programs and operations;\n(k) oversee the development, implementation, and maintenance of all organizational,\nphysical, and technical security measures for government information systems to ensure full\ncompliance with the DPA and relevant issuances of the NFC;\n(I) ensure the rigorous operational implementation of the Privacy-by-Design,\nPrivacy-by-Default principles, and Privacy Engineering throughout the entire systems life cycle\nprocesses, in coordination with the agency's designated Data Protection Officer (DPO);\n\n(m) ensure that E-Government Programs are accessible and inclusive to persons with\ndisabilities, as far as practicable, in adherence to digital inclusion principles and relevant\naccessibility laws; and\n(n) Coordinate with the EGov UPMO the status of implementation of their ICT\nprograms and projects.\nTo ensure objectivity and auditability of the ICT systems and processes that the CIO\noversees and manages, the CIO shall not be designated as the CISO and shall not exercise\nfunctional authority over CERT operations and information security assurances."
+   }
+  },
+  {
+   "id": "PH-H21479-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "SECTION 31"
+   },
+   "text": {
+    "en": "Role of the Chief Information Officer (CIO) Council. - The CIO Council created\npursuant to Section 13 of the DICT Charter shall support the individual CIOs in fulfilling their\nfunctions by providing the following:\n(a) strategic and policy support in the implementation of ICT strategies, enforcement of\ntechnical standards and policies, and policy advocacy on issues related to ICT;\n(b) operational and technical support in managing ICT systems and resources through\nshared knowledge and services; and\n(c) human capital and professional support in managing the ICT workforce."
+   }
+  },
+  {
+   "id": "PH-H21479-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "SECTION 32"
+   },
+   "text": {
+    "en": "Inclusivity. - In implementing policies and programs under the Act, heads of\nCovered Entities shall, to the extent practicable, ensure government information and services\nare accessible to all, including those without internet access.\nSECURITY AND PRIVACY"
+   }
+  },
+  {
+   "id": "PH-H21479-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "SECTION 33"
+   },
+   "text": {
+    "en": "Data and Information Security. - All resources, information, or data stored in or\ntransmitted through the government information systems and all networks interconnected to\nand interoperable with it, the portals, and websites shall be kept secure and free from\ninterference or unauthorized access that can hamper or otherwise compromise the\nconfidentiality, integrity, and availability of the ICT assets.\nAccess to and use of the resources, information, and data in the government information\nsystems shall be limited to the government and its duly authorized officers and agents, in\naccordance with all relevant laws, rules, and regulations on data and information privacy and\nthe pertinent rules on confidentiality of government information; Provided, That the data used\nby all concerned government agencies, offices, and instrumentalities with access to information\nsystems and used data stored therein shall be destroyed or disposed of in accordance with\nacceptable standards and guidelines existing under the law for disposal of data upon fulfillment\nof its purpose.\nAny person who shall knowingly commit an act which results in the compromise of the\ninformation security and integrity of the government information systems and all networks\ninterconnected to and interoperable with it, to the detriment of the government and the public,\nshall incur criminal liability in accordance with the provisions of applicable and relevant penal"
+   }
+  },
+  {
+   "id": "PH-H21479-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "SECTION 34"
+   },
+   "text": {
+    "en": "Master Data Management. -Within one hundred eighty (180) days from the\neffectivity of this IRR, the DICT, in alignment with the PGIF, and through a technical working\ngroup, shall establish a Master Data Governance Framework, which shall define the process for\nthe governance, maintenance, and creation of master data sets that shall serve as the\nauthoritative \"single source of truth\" for master data to be used in all government transactions\nand services, taking into consideration data accuracy, consistency, and reliability across various\nsystems and platforms of different government agencies.\nThe DICT, in coordination with the PA and other relevant government agencies, shall\ndevelop, concurrently with the Master Data Governance Framework, a comprehensive data\ndictionary to define and standardize all master data elements across government agencies to\nensure uniform interpretation and use.\nThe parent agency shall act as the data steward, with the mandate to own, maintain,\nupdate, share, and protect the master data under its jurisdiction, while providing controlled\naccess to other agencies through secure, standards-based mechanisms in alignment with the\nInter-agency access to master data shall not diminish the parent agency's obligation to\nown, protect, secure, maintain and share its data.\nIn line with the \"Once-Only principle,\" Covered Entities shall endeavor to achieve\ninteroperability and facilitate seamless data sharing within two (2) years from the effectivity of\nthis IRR, such that citizens and business entities shall not be required to resubmit information\nthat already exists or whose data have already been collected and recorded by the parent\nagency of a certain master dataset; Provided, That this shall not apply when a covered entity\nmust collect data necessary to verify the identity or legal personality of a citizen or business\nentity accessing the services of a government agency.\nEach master dataset shall be governed by a unique reference or identifier, such as, but\nnot limited to, the National ID number, Business Identification Number (BIN), or Land Parcel\nID, to enable interoperability and prevent duplication. Data exchange shall be conducted\nthrough secure APIs aligned with the PGIF.\nCovered Entities shall adopt a risk-based methodology and guidelines for data\nclassification, as prescribed by the DICT. For this purpose, each agency shall conduct an annual\ninventory of all data under its custody and control and determine the potential harm that could\nresult from a breach of its confidentiality, integrity, and availability.\nVerified master data collected by a parent agency shall be exchanged and reused\nthrough a data exchange platform, such as eGovDX and its equivalent platform, developed by\nthe DICI, taking into consideration the data classification and security level of the master data.\nThe data exchange platform shall be periodically reviewed and updated to incorporate the most\nappropriate emerging technologies.\nAll activities pertaining to the governance, processing, maintenance, and sharing of\nmaster data shall comply with the DA, EODBA and other applicable laws, rules and\nregulations."
+   }
+  },
+  {
+   "id": "PH-H21479-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "SECTION 35"
+   },
+   "text": {
+    "en": "Privacy Impact Assessment (PIA). - The DICT and the concerned agency shall\nconduct a mandatory PIA, according to relevant NPC guidelines, on the existing as well as\nproposed systems for processing personal data included in the EGMP, to identify privacy risks\n\nand establish the appropriate control framework in line with existing data privacy and\ncybersecurity standards.\nThe PIA should take into account the nature of the personal data to be protected, the\npersonal data flow, the risks to privacy and information security posed by the processing,\ncurrent data privacy best practices, the cost of security implementation, and the size of the\norganization, its resources, and the complexity of its operations.\nThe conduct of a PIA is intended to:\n(a) identify, assess, evaluate, and manage the risks represented by the processing of\npersonal data;\n(b) assist the DICT in preparing the records of its processing activities, and in\nmaintaining its privacy management program;\n(c) facilitate compliance by the DICT with the DPA, and other applicable issuances of the\nNPC, by determining:\n(1) its adherence to the principles of transparency, legitimate purpose and\nproportionality;\n(2) its existing organizational, physical and technical security measures relative\nto its data processing systems; and\n(3) the extent by which it upholds the rights of data subjects.\n(d) aid the DICT in addressing privacy risks by allowing it to establish a control\nThe PIA shall include the following:\n(a) data inventory identifying:\n(1) the amount and type of personal data held;\n(2) list of all information repositories holding personal data, including location;\n(3) type of media used for storing the personal data;\n(4) risks associated with the processing of personal data; and\n(5) processing operations for the entire personal data life cycle, from collection\nto disposal or destruction;\n(b) a systematic description of the personal data being processed or to be processed,\nincluding the purposes for such processing, anticipated purposes, and their corresponding\nlawful bases;\n(c) an assessment of the general data privacy principles in relation to the processing;\n(d) a holistic assessment of the risks to the rights and freedoms of a data subject; and\n(e) an assessment of risks to the confidentiality, integrity, and availability of personal\ndata against any accidental or unlawful destruction, alteration, and disclosure, as well as against\nany other unlawful processing.\nIn conducting a PIA, it is important that its results are properly supplemented by a\nreport that includes information on stakeholder involvement, proposed measures for privacy\n\nrisk management, and the process through which the results of the PIA will be communicated\nto internal and external stakeholders. Where appropriate, representatives of civil society\norganizations should be involved as stakeholders.\nThe risks identified in the PIA must be addressed by the responsible agency through a\nControl Framework. The contents of a Control Framework shall take into account, among\nothers, the following:\n(a) Nature of the personal data to be protected;\n(b) Risks represented by the processing, the size of the organization, and the volume of\npersonal data being processed;\n(c) Current data privacy best practices in a specific industry;\n(d) Cost of information security implementation; and\n(e) Purpose and extent of data sharing or outsourcing agreements and their attendant\nDICT shall consult the NC prior to commencement of processing where the PIA\nindicates that the processing would result in a high risk in the absence of measures taken to\nmitigate the risk.\nThe PIA and its Control Framework shall be reviewed annually by the responsible\nagencies, or at the soonest practicable opportunity in the event of any of the following\noccurrences, such as (i) a major update or enhancement to an existing system is made; (ii) a new\nvendor or third party processor is engaged; or (iii) changes in the nature, scope, extent, or\npurpose of processing. The PIA need not be submitted to the NPC, but it shall be made available\nby the DICT or the responsible agency upon the NC's request arising from investigations or\ncompliance checks."
+   }
+  },
+  {
+   "id": "PH-H21479-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "SECTION 36"
+   },
+   "text": {
+    "en": "Controls for Joint Personal Information Controllers (PICs) and Data Sharing, -\nIn scenarios where an E-Government system involves multiple government agencies acting as\nJoint Personal Information Controllers (Joint PICs), particularly when implementing\nE-Government Programs requiring Government-to-Government (G2G) data sharing, the PIA\nshall be conducted jointly by all participating PICs. The PIA should be jointly signed off by the\nrespective Heads of Agency and their designated DPOs, certifying their adherence to the\nrequirements mentioned in the DPA and the NC's issuances."
+   }
+  },
+  {
+   "id": "PH-H21479-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "SECTION 37"
+   },
+   "text": {
+    "en": "Inter-Agency Data Sharing. - For purposes of implementing E-Government\nPrograms, projects, systems, and services, Covered Entities may share government data among\nthemselves in the performance of their lawful mandates to support interoperability, integrated\npublic services, and efficient delivery of government programs.\nThe sharing of personal data among Covered Entities should be necessary, relevant, and\nproportionate to a legitimate government purpose duly documented in a PIA, subject to\napplicable data privacy, information security, access control, audit, and accountability\nrequirements under existing laws, rules, and standards, and to the latest guidelines of the NFC.\nThe sharing of non-personal and common data sets among Covered Entities for official\ngovernment purposes shall not require the execution of a Data Sharing Agreement (DSA),\nprovided that such sharing complies with applicable government policies on data classification\n\nand access restrictions appropriate to the nature and sensitivity of the data being shared.\nThe absence of a DA shall not diminish or excuse Covered Entities from their obligation\nas responsible PICs for the protection, integrity, and proper use of the personal data being\nshared with them, including means through which the data subjects can exercise their rights.\nFurthermore, inter-agency data sharing may be subject to review by the NPC on its own\ninitiative or upon a verified complaint by an affected data subject."
+   }
+  },
+  {
+   "id": "PH-H21479-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "SECTION 38"
+   },
+   "text": {
+    "en": "Minimum Information Security Standards MISS Compliance. - All government\nagencies and their instrumentalities shall adopt the necessary policies, rules, and regulations to\ncomply with MISS prescribed by the DICT, which shall be aligned with internationally accepted\nstandards and relevant laws, rules, and regulations. Government agencies may adopt additional\ninformation security standards higher or more stringent than the prescribed, such as\nsector-specific standards, provided that such adoption remains consistent with the minimum\nstandards set by the DICT.\nThe DICT shall publish a list of its prescribed MISS, including but not limited to the\nPhilippine National Standards (PNS) /International Organization for Standardization\n(ISO)/International Electrotechnical Commission (IC) 27001\nInformation Security\nManagement System (ISMS), National Institute of Standards and Technology (NIST)\nCybersecurity Framework (CSF) 2.0 and its accompanying Security Publications (SPs), Center\nfor Internet Security (CIS) Controls, European Union Network and Information Systems\nDirective 2 (EU NIS2), European Network and Information Security Agency (ENISA)\nRegulatory Framework, United Kingdom Cyber Essentials, or other future iterations and\nevolving approaches, ninety (90) days after the effectivity of this IRR\nThe DICT shall have the authority to update the list of MISS, as it deems it necessary and\nappropriate.\nAll government agencies shall submit proof of their MISS compliance, such as a copy of\ntheir third-party cybersecurity certification or self-attestation form, to the DICT within one (1)\nyear from the issuance of the MISS list.\nThe DICT Cybersecurity Bureau shall:\n(a) provide standardized risk assessment and information security documentation\ntemplates necessary for the compliance of Covered Entities;\n(b) issue a certificate of compliance to government agencies based on the requirements\nas defined in this Section and other future related issuances;\n(c) in collaboration with the NC, Cybercrime Investigation and Coordinating Center\n(CICC), other relevant government agencies, the academe, private sector, and civil society,\nprovide the proper guidance, assistance, and training on cybersecurity standards and/or\nrequirements to all Covered Entities.\nIn accordance with applicable MISS, where a system utilizes automated processing or\nAl-enabled tools, security controls shall extend to model and data risks, supply chain risks,\naccess controls, monitoring, and incident response, commensurate with the system's role,\ncriticality, and operational context."
+   }
+  },
+  {
+   "id": "PH-H21479-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "SECTION 39"
+   },
+   "text": {
+    "en": "Protection of Government Critical Information Infrastructure (CII). -\nConsistent with the prevailing National Cybersecurity Plan, the DICT shall issue, within one\n\nhundred twenty (120) days upon the effectivity of this IRR, policy, rules, and regulations on the\n(a) Definition of government CII;\n(b) Criteria for classifying government CII;\n(c) Process for designating government CII,\n(d) MISS for compliance by government CII;\n(e) Mandatory establishment of a dedicated in house Agency CERT/ CSIRT or\nengagement of a private Agency CERT| CSIRT, to be headed by a CISO, for all\ngovernment ClIs;\n(f) Mandatory notification and reporting of major (or material) information security\nincidents affecting their institutions by government ClIs to their Sectoral CERT or their\ngovernment regulator, if a Sectoral CERT is not available, within 24 hours from discovery; and\nescalation of the incident report to NCERT, if the Sectoral CERT or government regulator\nrequires assistance in incident response;\n(g) Implementation of VAPT and annual Risk and Security Assessment by all\ngovernment ClIs; Provided, That, VAPT engagements for Government CIl shall be performed\nby DICT-accredited providers that meet the DICT Trusted Assessment Provider (D-TAP)\ncriteria and that VAPT reports shall be submitted to the NCERT and to the D-TAP registry, or\nD-TAP's equivalent; and\n(h) Other cybersecurity standards, measures, protocols, and guidelines for the protection\nof government CII.\nThe CISO shall lead the agency's information security governance, risk management\nplanning and implementation, compliance with information security standards, CERT/CSIRT\noperations, coordination with government agency's DO on data protection issues, and\nmaterial incident notification, reporting, and response. A CISO may be responsible for a single\nagency or a cluster of government ClIs.\nA government CII may designate a Chief Operations Technology Officer, instead of or in\naddition to a CISO, as applicable and as required by its charter and other pertinent laws.\nThe DICT shall have the authority to update the definition, criteria for classifying, and\nprocess for the designation of government CII, including the shift to risk-based classification of\nCII, based on the prevailing National Cybersecurity Plan.\nThe DICT shall provide the proper guidance, training, and assistance necessary to\nenable Government CII to comply with the minimum cybersecurity standards and measures, as\nprovided by the Act, this IRR, and other relevant issuances pertaining to information security\nand data protection.\nGovernment CII shall be subject to periodic cybersecurity audits conducted by the DICT\nor DICT-accredited Cybersecurity Assessment Providers and Cybersecurity Posture Assessment\nLaboratory(ies), for the purpose of verifying compliance with the cybersecurity requirements\nprescribed in the IR and by DICT issuances.\n\nNothing in this IRR prevents a government CII from implementing additional standards,\nor other standards higher or more stringent than the minimum set by the DICT, as it deems"
+   }
+  },
+  {
+   "id": "PH-H21479-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "SECTION 40"
+   },
+   "text": {
+    "en": "Public Service Continuity Plan (PSCP). - Consistent with the existing issuances\nof the National Disaster Risk Reduction and Management Council (NDRRMC) and the CSC, all\nICT systems and infrastructure covered in the priority programs of the EGMP and ISSPs shall\nbe included as part of the Public Service Continuity Plan (PSCP) of all government agencies and\ninstrumentalities, to ensure the continuous delivery of essential agency functions,\nnotwithstanding any emergency or disruption.\nThe plan must consider the following:\n(a) Personal data backup, restoration, and remedial time;\n(b) Periodic review and testing of the business continuity plan which takes into account\ndisaster recovery, privacy, business impact assessment, crisis communications plan, and\ntelecommuting policy, among others; and\n(c) Contact information and other business-critical matters (e.g., electrical supply,\nbuilding facilities, ICT assets).\nThe NDRRMC, CSC, Office of Civil Defense (OCD), and the DICT shall jointly develop,\nissue, and promulgate the policies, technical standards, implementation protocols, minimum\nrequirements, and operational guidelines governing the inclusion of ICT priority programs\nunder the EGMP, and agency-level ISSPs into the PCP of all Covered Entities. Said guidelines\nshall provide a resilience framework to ensure uninterrupted public service delivery before,\nduring, and after emergencies, institutional disruptions, cybersecurity incidents, critical\ninformation infrastructure failures, or force majeure events. The implementing guidelines shall\nbe issued within ninety (90) days from the effectivity of this IRR, and shall thereafter be adopted\nand operationalized by all Covered Entities in accordance with their respective mandates and in\ncompliance with all applicable laws, rules, and regulations.\nPARTICIPATION OF THE PRIVATE SECTOR"
+   }
+  },
+  {
+   "id": "PH-H21479-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "SECTION 41"
+   },
+   "text": {
+    "en": "Government Cooperation with the Private Sector. - Nothing in this Act shall\nprevent the Covered Entities from entering into contracts, agreements, or partnerships with the\nprivate sector for the latter to provide various resources, assets, and services to the government\nwhich would aid or enhance compliance with the provisions of the Act and this IRR. Subject to\naccreditation requirements, when applicable, Covered Entities may engage private contractors\nto carry out ICT-related functions, including CERT and CISO responsibilities; Provided, That\nthe Covered Entity remains primarily accountable for ensuring these tasks are performed in\naccordance with all applicable laws, rules, and standards.\nTo ensure inclusivity and accelerate access to -Government Programs, Covered Entities\nmay also enter into contracts with public telecommunications entities and data transmission\nindustry participants to build and operate networks, and provide internet connection giving\npriority to underserved and unserved areas.\nAll contracts or agreements with the private sector pursuant to the Act and this IRR shall\nbe subject to the laws and rules on public accountability, transparency and good governance,\n\nand shall be executed in full compliance with applicable laws including, among others, the\nNGPA, and R.A. No. 11966 or the \"Public-Private Partnership Code of the Philippines\" (PPP\nTHE ICT ACADEMY"
+   }
+  },
+  {
+   "id": "PH-H21479-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "SECTION 42"
+   },
+   "text": {
+    "en": "Reorganization of the ICT Literacy and Competency Development Bureau and\nStrengthening the ICT Academy for E-Governance. - The DICT shall reorganize and\nrestructure its ICT Literacy and Competency Development Bureau (ILCDB) into the ICT\nAcademy, hereinafter referred to as the \"Academy.\""
+   }
+  },
+  {
+   "id": "PH-H21479-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "SECTION 43"
+   },
+   "text": {
+    "en": "Functions of the Academy. The Academy shall be the government's central\ninstitution for ICT Education, workforce upskilling, and E-Governance competency\ndevelopment.\nThe Academy shall have the following purposes and functions:\n(a) serve as the National Center of Excellence for ICT Education;\n(b) conduct trainings on E-Governance in furtherance of the Act and this IRR;\n(c) promote ICT education to enhance the nation's workforce capacity, guided by\nup-to-date data on domestic and global skills supply and demand;\n(d) promote and conduct quality ICT education for the capacity development of all\n(e) support the strategic goals of the National ICT Development Agenda through data\ncollection and globally competitive ICT skills development programs;\n(f) implement programs and activities that will equip citizens with globally competitive\nskills and foster inclusive economic growth;\n(g) establish partnerships with persons, entities, and institutions for the development\nand updating of resources, curriculum, modules, and pedagogical approaches;\n(h) promote gender parity through technology education;\n(i) ensure continuous learning and professional development for educators in current\n(i) promote internships, immersion, apprenticeships, and other enterprise-based\ntrainings for learners with industry partners, both private and public;\n(k) establish and implement a scholarship system for qualified individuals in training\nand programs under the Academy or other activities approved by the DICT Secretary;\n(1) facilitate the screening, admission, and monitoring of scholars within the scholarship\nsystem under Section 43(k);\n(m) undertake academic research and development related to ICT;\n\n(n) regularly assess the state of the country in terms of comparative ICT skills and\nperformance and propose responsive policies to address concerns;\n(o) develop curricula and courses for learners and students to upskill ICT proficiency\nand competency, and to ensure that such curricula and courses are aligned with its relevant\ncompetency frameworks through consultations and collaborations with the Commission on\nHigher Education (CHED), Department of Education (DepEd), Technical Education and Skills\nDevelopment Authority (TESDA), State Universities and Colleges (SUCs), and Local\nUniversities and Colleges (LUCs);\n(p) exercise such powers as may be necessary or incidental to the effective and efficient\nperformance of its functions."
+   }
+  },
+  {
+   "id": "PH-H21479-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "SECTION 44"
+   },
+   "text": {
+    "en": "Competency and Qualification Standards. - In coordination with the SC and\nDBM, the Academy shall develop, in accordance with applicable civil service laws and rules, the\ncompetency and qualification standards of all ICT positions in the government consistent with\nthe compensation and position classification system of the government. The Academy shall\nsubmit to the DBM its recommendation for the creation and updating of current positions for\ngovernment ICT personnel; the appropriate job levels and corresponding compensation rates\naligned with the personnel needs of digitally transformed government and comparable with the\nprevailing industry rates; and the minimum educational and professional qualification\nstandards, duties, and functions essential to the effective operation of government ICT\ninfrastructure and systems.\nThe Academy shall also define the required internationally recognized certifications and\ncompetency standards for personnel assigned or appointed to the EGov UPMO. Further, the\nAcademy shall conduct regular trainings or coordinate and develop the required courses,\nmultimodal training, and certifications in Project Management, Program Management,\nTechnology Management, IT Service Management, Enterprise Architecture, Information\nSecurity, Data Privacy, and Risk Management, Data Analytics, and ICT financial planning and\nbudgeting, among others, in support of ensuring that there are qualified individuals to fill the\npositions in the EGov UPMO."
+   }
+  },
+  {
+   "id": "PH-H21479-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "SECTION 45"
+   },
+   "text": {
+    "en": "Satellite Units. - The Academy may establish satellite units in particular\nregions, provinces, or municipalities, which shall be known as Digital Transformation Centers\n(DTC). The Academy shall directly manage and administer the DTCs.\nTo ensure broader access to quality ICT training and skills development and further\nenhance the capability of the Academy to attain its purposes, the Academy may establish\nadditional satellite units upon determination of the DICT."
+   }
+  },
+  {
+   "id": "PH-H21479-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "SECTION 46"
+   },
+   "text": {
+    "en": "Establishment of Partner Satellite Units. - The Academy, in coordination and\npartnership with CHED, and TESDA, shall promulgate guidelines for the recognition and\naccreditation of course offerings provided by institutions under their respective purviews.\nEducational institutions with recognized and accredited courses shall be considered Partner\nSatellite Units.\nThe Academy and CHED shall issue guidelines on the alignment and quality of course\nofferings accredited by the Academy including, but not limited to, micro-credentials, short\ncourses, ladderized pathways, credit recognition where applicable. Further, the Academy and\nCHED shall jointly develop an education-sector competency framework. In line with this, the\nAcademy, in coordination with the DBM and CHED shall also issue guidelines on a fee-sharing\n\nstructure to ensure sustainability of program delivery, support capacity-building, and maintain\ncompliance with government budgeting, accounting, and auditing rules. Fees shall be applied\nto courses delivered online, on site or through hybrid modalities.\nThe Academy shall coordinate with TESDA on the issuance of digital skills competency\nstandards, the development of digital skills curriculum, and developing training programs for\ntrainers and assessors in priority ICT areas."
+   }
+  },
+  {
+   "id": "PH-H21479-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "SECTION 47"
+   },
+   "text": {
+    "en": "Accessibility. - The Academy shall make its services and facilities accessible to\nall citizens regardless of skill, age, gender, religious belief, economic status, ethnicity, physical\ndisability, political opinion, or affiliation.\nThe DICT, through the Academy, shall promulgate an equitable and inclusive admission\nprocess to ensure that citizens have equal access to ICT education and that the broader base of\nthe citizenry shall benefit from ICT education."
+   }
+  },
+  {
+   "id": "PH-H21479-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "SECTION 48"
+   },
+   "text": {
+    "en": "Sources of Funding. - The Academy's operations, programs, and scholarships\nshall be funded from the following:\n(a) allocation from DICT's budget under the annual General Appropriations Act;\n(b) fees and dues collected by the Academy; and\n(c) grants and donations made specifically to the Academy for its operations, in\naccordance with applicable laws and rules."
+   }
+  },
+  {
+   "id": "PH-H21479-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "SECTION 49"
+   },
+   "text": {
+    "en": "Collection of Fees. - Based on the recommendations of the Academy, the DICT\nshall determine and approve the reasonable fees and necessary charges which may be collected\nby the Academy.\nThe DICT shall coordinate with the DBM and CHED for the issuance of supplemental\nguidelines on SUC incomes, cost-recovery schemes and training partnerships. The DICT may\nreview and adjust the fee-sharing structure periodically based on program performance, cost\nrequirements, and recommendations from CHED and other stakeholders."
+   }
+  },
+  {
+   "id": "PH-H21479-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "SECTION 50"
+   },
+   "text": {
+    "en": "Donations. - The Academy is authorized to receive grants or donations in\nmoney, or in kind, from any source. These funds shall constitute a special trust fund\nadministered by the DICT and shall in no case be impaired."
+   }
+  },
+  {
+   "id": "PH-H21479-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "SECTION 51"
+   },
+   "text": {
+    "en": "Use of Funds and Donations. - Funds shall be retained and disbursed for the\nbenefit of the students, faculty, trainers, consultants, and advisers, to serve the acquisition,\nconstruction, and maintenance needs of the Academy, and the proper administration of its\nDonations received shall be used only for the specific purposes for which they were"
+   }
+  },
+  {
+   "id": "PH-H21479-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "SECTION 52"
+   },
+   "text": {
+    "en": "Audit and Accountabilit. -The Academy's finances shall be administered,\nobligated, discharged, audited and accounted for in accordance with the procedures prescribed\nin relevant laws, rules, and regulations."
+   }
+  },
+  {
+   "id": "PH-H21479-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "SECTION 53"
+   },
+   "text": {
+    "en": "Partnerships. - The Academy may form partnerships, collaborations, and other\nsimilar arrangements with private and public educational institutions, technical and standards\norganizations, and other private entities for purposes of achieving its goals and performing its\n\nSuch partnerships and arrangements may include:\n(a) research collaborations;\n(b) resource sharing;\n(c) module and training development;\n(d) faculty exchange and standards development;\n(e) training collaborations;\n(f) internships and apprenticeships;\n(g) recognition or accreditation of partner establishments and institutions and courses\noffered that comply with the competency standards and guidelines for government ICT\nworkers; and\n(h) other similar or relevant matters.\nAll partnerships entered into by the Academy shall be in accordance with the provisions\nof this Act and approved by the DICT Secretary. No disbursement of government funds shall be\nmade for the purpose of establishing these partnerships."
+   }
+  },
+  {
+   "id": "PH-H21479-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "SECTION 54"
+   },
+   "text": {
+    "en": "Course Accreditation. - The DICT, in coordination with TESDA and CHED,\nmay develop guidelines for the accreditation of ICT courses offered by public and private\neducational institutions based on competency standards of the Academy.\nMISCELLANEOUS PROVISIONS"
+   }
+  },
+  {
+   "id": "PH-H21479-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "SECTION 55"
+   },
+   "text": {
+    "en": "Transitory Provision. - The DICT, in coordination with DBM, CSC, DILG, and\nother relevant government agencies and instrumentalities, and in consultation with private\nstakeholders and civic organizations, shall study, formulate, and implement a transition master\nplan for the implementation of the Act and this IRR. The transition master plan shall provide for\nthe phased adoption of the -Government Programs, taking into account institutional readiness,\nexisting systems, resource availability, manpower requirements, and other relevant factors,\nwhile ensuring alignment with national ICT standards and minimizing operational disruption.\nThe DICT shall issue the transition master plan and other guidelines for phased\ncompliance of the Act and this IRR within ninety (90) days from effectivity of this IRR, and shall\ncomplete the transition within one (1) year from effectivity of the Act.\nThe creation of new positions created under the Act and this IRR shall be prioritized,\nsubject to the review and approval of the DBM consistent with civil service laws, rules, and\nregulations."
+   }
+  },
+  {
+   "id": "PH-H21479-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "SECTION 56"
+   },
+   "text": {
+    "en": "E-Government Interonerability Fund (EIF). - An EIF is hereb created as a\nspecial account in the general fund managed by the DICT for the implementation of\nE-Government Programs. The EIF may also be used for capital outlay and the maintenance and\noperation of ICT infrastructure, and the subscription to cloud services and other ICT systems\nnecessary for the development, operation, maintenance, and sustainability of E-Government\nsystems and government websites, without prejudice to the use of such funds for other\npurposes authorized under the Act and this IRR.\nThe EIF shall be sourced from donations and fees. It may also be funded through grants\nand loans from development and foreign partners, or through applicable Public-Private\nPartnership mechanisms. A portion of the Spectrum Users Fees (SUF collected by the National\nTelecommunications Commission shall also accrue to the EIF.\n\nThe DICT, in coordination with the DBM, shall issue, within one hundred twenty (120)\ndays from the effectivity of this IRR, the necessary guidelines for (i) the allocation of the SUF\nbetween the EIF and FPIAF, and (ii) collection, management, disbursement and utilization of\nthe EIF, subject to applicable laws and existing budgeting, accounting, and auditing rules and\nregulations."
+   }
+  },
+  {
+   "id": "PH-H21479-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "SECTION 57"
+   },
+   "text": {
+    "en": "Appropriations. - The amount necessary for the initial implementation of this\nAct at the national government level shall be charged against the current year's appropriations\nof the DICT, NTC, NC, and other national government agencies, offices, or instrumentalities\nconcerned. Thereafter, such sums needed for its continued implementation shall be included in\nthe annual General Appropriations Act.\nThe amounts necessary to implement the Act at the local government level shall be\ncharged against the funds of the LGU concerned.\nAll appropriations of the national and local government under the Act shall be subject to\nthe existing budgeting, accounting, auditing, and other pertinent laws, rules, regulations, and\nguidelines."
+   }
+  },
+  {
+   "id": "PH-H21479-A58",
+   "no": 58,
+   "noLabel": {
+    "en": "SECTION 58"
+   },
+   "text": {
+    "en": "Applicability of Republic Act No. 8439, as Amended by Republic Act No. 11312.\n- All qualified government ICT workers involved in the planning, development,\nimplementation and maintenance of E-Government Programs, including all DICT personnel\ninvolved in the implementation of -Government, shall be covered by R.A. 8439, as amended by\nR.A. No. 11312 or the \"Magna Carta for Scientists, Engineers, Researchers, and Other Science\nand Technology Personnel in the Government\"\nThe DICT, in coordination with the DBM and DOST, shall issue guidelines for the\nimplementation of this Section, including an accreditation process for eligible government\nworkers under this Act, within ninety (90) days from effectivity of this IRR."
+   }
+  },
+  {
+   "id": "PH-H21479-A59",
+   "no": 59,
+   "noLabel": {
+    "en": "SECTION 59"
+   },
+   "text": {
+    "en": "Annual Reports. -\nAll Covered Entities shall prepare an annual report which\nshall include the following:\n(a) Status of the implementation of their respective -Government initiatives based on\ntheir approved ICT Plan;\n(b) Compliance by the Covered Entity with the Act and this IRR; and\n(c) Performance in delivering programs and services through the E-Government to their\nconstituencies.\nCovered Entities shall submit their annual reports to the Office of the President, Senate\nCommittee on Science and Technology or its equivalent, House of the Representatives\nCommittee on Information and Communications Technology or its equivalent, and the DICT,\nand shall publish them in their respective websites and other official information portals."
+   }
+  },
+  {
+   "id": "PH-H21479-A60",
+   "no": 60,
+   "noLabel": {
+    "en": "SECTION 60"
+   },
+   "text": {
+    "en": "Joint Congressional Oversight Committee on E-Governance. - A Joint\nCongressional Oversight Committee on E-Governance (JCOCEG) shall be constituted to\nmonitor and ensure the effective implementation of the Act, identify the deficiencies,\nlimitations, and challenges in the current legal framework, and propose necessary amendments\nor supplementary legislation to address them.\nThe ICOCEG shall be composed of the following:\n\n(a) Chairperson of the Senate Committee on Science and Technology;\n(b) Chairperson of the House of Representatives Committee on Information and\nCommunications Technology or its equivalent; and\nthree (3) members each from the Senate and the House of Representatives. The\nminority in the Senate and the House of Representatives shall each have at least one (1) seat in\nThe Chairperson of the Senate Committee on Science and Technology and Chairperson\nof the House of Representatives Committee on Information and Communications Technology\nshall serve as co-chairpersons of the JCOCEG.\nThe Chairperson of the Senate Committee on Science and Technology and Chairperson\nof the House of Representatives Committee on Information and Communications Technology\nshall serve as co-chairpersons of the JCOCEG.\nThe JCOCEG Secretariat shall come from the existing Secretariat personnel of the Senate\nCommittee on Science and Technology and the House of Representatives Committee on\nInformation and Communications Technology.\nThe JCOCEG shall conduct a hearing at least once every quarter.\nThe JCOCEG shall cease to exist after five (5) years from the effectivity of the Act."
+   }
+  },
+  {
+   "id": "PH-H21479-A61",
+   "no": 61,
+   "noLabel": {
+    "en": "SECTION 61"
+   },
+   "text": {
+    "en": "Interpretation and Construction. - This IRR shall be construed and applied in\naccordance with, and in furtherance of, the policies and objectives of the Act.\nExcept as may be covered by the mandate of other departments or agencies under\nexisting laws, any conflict or ambiguity which may arise in the implementation of this IRR shall\nbe resolved by the DICT and any requests for interpretation or opinion pertaining to this IRR\nshould be submitted in writing to the Office of the DICT Secretary."
+   }
+  },
+  {
+   "id": "PH-H21479-A62",
+   "no": 62,
+   "noLabel": {
+    "en": "SECTION 62"
+   },
+   "text": {
+    "en": "Separability Clause. - If any provision of this IRR is held or declared\nunconstitutional the remainder thereof not otherwise affected shall remain in full force and"
+   }
+  },
+  {
+   "id": "PH-H21479-A63",
+   "no": 63,
+   "noLabel": {
+    "en": "SECTION 63"
+   },
+   "text": {
+    "en": "Repealing Clause. -\nAll laws, presidential decrees, executive orders, letters of\ninstruction, proclamations, or administrative regulations that are inconsistent with the\nprovisions of the Act or this IRR are hereby repealed, amended, or modified accordingly."
+   }
+  },
+  {
+   "id": "PH-H21479-A64",
+   "no": 64,
+   "noLabel": {
+    "en": "SECTION 64"
+   },
+   "text": {
+    "en": "Effectivity. - This IRR shall take effect fifteen (15) days after its publication in\nthe Official Gazette or in a newspaper of general circulation and upon filing of three (3) certified\ntrue copies with the Office of the National Administrative Register, University of the\nPhilippines Law Center."
+   }
+  }
+ ]
+}

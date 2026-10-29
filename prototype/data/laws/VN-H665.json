@@ -1,0 +1,522 @@
+{
+ "id": "VN-H665",
+ "title": {
+  "zh": "户籍法",
+  "en": "Law No. 03/2026/QH16 on civil status",
+  "vi": "Luật Hộ tịch số 03/2026/QH16",
+  "orig": "Luật Hộ tịch số 03/2026/QH16",
+  "th": "พระราชบัญญัติทะเบียนราษฎร เลขที่ 03/2026/QH16",
+  "id": "Undang-Undang Catatan Sipil No. 03/2026/QH16",
+  "ms": "Akta Daftar Sivil No. 03/2026/QH16"
+ },
+ "country": "VN",
+ "countryName": "越南",
+ "layer": "intl",
+ "pack": "vn-p06",
+ "language": "vi",
+ "level": "law",
+ "category": "05_其他及未分类",
+ "status": "active",
+ "promulgatedDate": "2026",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "国会",
+ "docNumber": "03/2026/QH16",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 30,
+ "chars": 33241,
+ "source": {
+  "name": "越南法律数据库（vbpl.vn 官方公报文本）",
+  "url": "https://vbpl.vn/van-ban/chi-tiet/luat-ho-tich-so-03-2026-qh16--ec5cde10-54bc-11f1-abb8-a5ee305e759c"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\VN\\05_其他及未分类\\2026_03 2026 QH16_Luật Hộ tịch số 03 2026 QH16.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 30 条；逐字未改写（源自 VN）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "VN-H665-A1",
+   "no": 1,
+   "noLabel": {
+    "vi": "Điều 1"
+   },
+   "chapter": {
+    "vi": "Chương I NHỮNG QUY ĐỊNH CHUNG"
+   },
+   "heading": {
+    "vi": "Phạm vi điều chỉnh"
+   },
+   "text": {
+    "vi": "Điều 1. Phạm vi điều chỉnh\n\nLuật này quy định về hộ tịch, đăng ký hộ tịch, Cơ sở dữ liệu hộ tịch và quản lý nhà nước về hộ tịch."
+   }
+  },
+  {
+   "id": "VN-H665-A2",
+   "no": 2,
+   "noLabel": {
+    "vi": "Điều 2"
+   },
+   "chapter": {
+    "vi": "Chương I NHỮNG QUY ĐỊNH CHUNG"
+   },
+   "heading": {
+    "vi": "Giải thích từ ngữ"
+   },
+   "text": {
+    "vi": "Điều 2. Giải thích từ ngữ\n\nTrong Luật này, các từ ngữ dưới đây được hiểu như sau:\n\n1. Hộ tịch là những sự kiện, thông tin xác định tình trạng nhân thân của cá nhân từ khi sinh ra đến khi chết được quy định tại Điều 4 của Luật này.\n\n2. Đăng ký hộ tịch là việc cơ quan nhà nước có thẩm quyền xác nhận, ghi, cập nhật các sự kiện, thông tin hộ tịch của cá nhân vào sổ hộ tịch, Cơ sở dữ liệu hộ tịch.\n\n3. Cơ quan đăng ký hộ tịch là Ủy ban nhân dân cấp xã; Cơ quan đại diện ngoại giao, Cơ quan đại diện lãnh sự của nước Cộng hòa xã hội chủ nghĩa Việt Nam ở nước ngoài (sau đây gọi là Cơ quan đại diện).\n\n4. Cơ quan quản lý hộ tịch gồm cơ quan quản lý nhà nước về hộ tịch ở trung ương và cơ quan quản lý nhà nước về hộ tịch ở địa phương.\n\n5. Cơ sở dữ liệu hộ tịch là tập hợp các dữ liệu hộ tịch điện tử của cá nhân được sắp xếp, tổ chức để truy cập, khai thác, chia sẻ, quản lý và cập nhật thông qua phương tiện điện tử, có tính liên tục.\n\n6. Sổ hộ tịch gồm sổ hộ tịch giấy và sổ hộ tịch điện tử được lưu trữ vĩnh viễn để xác nhận, ghi hoặc cập nhật sự kiện, thông tin hộ tịch quy định tại Điều 4 của Luật này.\n\n7. Giấy tờ hộ tịch là văn bản pháp lý do cơ quan nhà nước có thẩm quyền cấp khi giải quyết các thủ tục hành chính trong lĩnh vực hộ tịch, gồm Giấy khai sinh, Giấy chứng nhận kết hôn, Giấy chứng tử, văn bản xác nhận hộ tịch.\n\n8. Giấy khai sinh là giấy tờ hộ tịch đầu tiên, do cơ quan đăng ký hộ tịch cấp khi đăng ký khai sinh cho cá nhân; nội dung Giấy khai sinh gồm các thông tin cơ bản quy định tại khoản 4 Điều 15 của Luật này.\n\n9. Giấy chứng nhận kết hôn là giấy tờ hộ tịch do cơ quan đăng ký hộ tịch cấp cho bên nam và bên nữ khi đăng ký kết hôn; nội dung Giấy chứng nhận kết hôn gồm các thông tin cơ bản quy định tại khoản 2 Điều 16 của Luật này.\n\n10. Giấy chứng tử là giấy tờ hộ tịch do cơ quan đăng ký hộ tịch cấp khi đăng ký khai tử cho cá nhân; nội dung Giấy chứng tử gồm các thông tin cơ bản quy định tại khoản 4 Điều 20 của Luật này.\n\n11. Văn bản xác nhận hộ tịch là giấy tờ hộ tịch do cơ quan nhà nước có thẩm quyền cấp để xác nhận sự kiện, thông tin hộ tịch của cá nhân đã được đăng ký, trừ trường hợp quy định tại các khoản 8, 9 và 10 Điều này.\n\n12. Người làm công tác hộ tịch gồm người thực hiện công tác hộ tịch tại Ủy ban nhân dân cấp xã; người được giao thực hiện công tác hộ tịch tại cơ quan quản lý nhà nước về hộ tịch ở cấp tỉnh; viên chức ngoại giao, viên chức lãnh sự được giao thực hiện công tác hộ tịch tại Cơ quan đại diện."
+   }
+  },
+  {
+   "id": "VN-H665-A3",
+   "no": 3,
+   "noLabel": {
+    "vi": "Điều 3"
+   },
+   "chapter": {
+    "vi": "Chương I NHỮNG QUY ĐỊNH CHUNG"
+   },
+   "heading": {
+    "vi": "Nguyên tắc đăng ký hộ tịch, khai thác, chia sẻ dữ liệu hộ tịch"
+   },
+   "text": {
+    "vi": "Điều 3. Nguyên tắc đăng ký hộ tịch, khai thác, chia sẻ dữ liệu hộ tịch\n\n1. Tôn trọng và bảo đảm quyền nhân thân của cá nhân.\n\n2. Mọi sự kiện hộ tịch của cá nhân phải được đăng ký đầy đủ, kịp thời, trung thực, khách quan và chính xác; trường hợp không đủ điều kiện đăng ký hộ tịch theo quy định của pháp luật thì người đứng đầu cơ quan đăng ký hộ tịch từ chối bằng văn bản và nêu rõ lý do.\n\n3. Đối với việc đăng ký hộ tịch mà pháp luật về hộ tịch không quy định thời hạn giải quyết thì phải được giải quyết trong 24 giờ kể từ thời điểm nhận đủ hồ sơ hợp lệ.\n\n4. Một sự kiện, thông tin hộ tịch của cá nhân được cơ quan đăng ký hộ tịch có thẩm quyền của Việt Nam đăng ký một lần, trừ trường hợp đăng ký lại kết hôn. Cơ quan đăng ký hộ tịch có trách nhiệm bảo đảm sự kiện, thông tin hộ tịch của cá nhân được đăng ký không trùng lặp.\n\n5. Bảo đảm công khai, minh bạch thủ tục đăng ký hộ tịch.\n\n6. Tăng cường đăng ký hộ tịch chủ động, liên thông thủ tục đăng ký hộ tịch với các thủ tục liên quan, bảo đảm người dân chỉ cung cấp thông tin một lần.\n\n7. Cơ quan đăng ký hộ tịch có trách nhiệm chủ động khai thác dữ liệu điện tử, tra cứu thông tin trong cơ sở dữ liệu liên quan, phù hợp với mức độ đáp ứng của cơ sở dữ liệu; không yêu cầu nộp, xuất trình hoặc tải lên giấy tờ là thành phần hồ sơ, trừ trường hợp không khai thác được thông tin hoặc thông tin khai thác được không đầy đủ, không chính xác.\n\n8. Việc thu thập, xử lý, lưu trữ, chia sẻ, khai thác dữ liệu hộ tịch phải bảo đảm an toàn, bí mật, đúng mục đích, phù hợp với quy định của pháp luật về dữ liệu, pháp luật về bảo vệ dữ liệu cá nhân."
+   }
+  },
+  {
+   "id": "VN-H665-A4",
+   "no": 4,
+   "noLabel": {
+    "vi": "Điều 4"
+   },
+   "chapter": {
+    "vi": "Chương I NHỮNG QUY ĐỊNH CHUNG"
+   },
+   "heading": {
+    "vi": "Nội dung đăng ký hộ tịch"
+   },
+   "text": {
+    "vi": "Điều 4. Nội dung đăng ký hộ tịch\n\n1. Xác nhận các sự kiện, thông tin sau đây:\n\na) Khai sinh;\n\nb) Kết hôn;\n\nc) Giám hộ; giám sát việc giám hộ;\n\nd) Nhận cha, mẹ, con;\n\nđ) Thay đổi thông tin hộ tịch;\n\ne) Tình trạng hôn nhân;\n\ng) Khai tử.\n\n2. Cập nhật vào sổ hộ tịch, Cơ sở dữ liệu hộ tịch theo bản án, quyết định đã có hiệu lực pháp luật của Tòa án, quyết định, giấy tờ hộ tịch do cơ quan nhà nước có thẩm quyền cấp, xác nhận đối với các thay đổi thông tin sau đây của cá nhân:\n\na) Thông tin hộ tịch, quốc tịch;\n\nb) Xác định cha, mẹ, con;\n\nc) Xác định lại giới tính;\n\nd) Nuôi con nuôi, chấm dứt việc nuôi con nuôi;\n\nđ) Ly hôn, hủy việc kết hôn trái pháp luật, công nhận việc kết hôn;\n\ne) Công nhận giám hộ;\n\ng) Tuyên bố hoặc hủy bỏ quyết định tuyên bố một người mất tích, đã chết, mất năng lực hành vi dân sự, hạn chế năng lực hành vi dân sự, có khó khăn trong nhận thức, làm chủ hành vi.\n\n3. Ghi vào sổ hộ tịch sự kiện, thông tin hộ tịch của công dân Việt Nam đã được giải quyết tại cơ quan có thẩm quyền của nước ngoài.\n\n4. Xác nhận hoặc ghi vào sổ hộ tịch các sự kiện, thông tin hộ tịch khác theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H665-A5",
+   "no": 5,
+   "noLabel": {
+    "vi": "Điều 5"
+   },
+   "chapter": {
+    "vi": "Chương I NHỮNG QUY ĐỊNH CHUNG"
+   },
+   "heading": {
+    "vi": "Quyền, nghĩa vụ đăng ký hộ tịch của cá nhân"
+   },
+   "text": {
+    "vi": "Điều 5. Quyền, nghĩa vụ đăng ký hộ tịch của cá nhân\n\n1. Công dân Việt Nam, người gốc Việt Nam chưa xác định được quốc tịch đang sinh sống tại Việt Nam, người không quốc tịch, người nước ngoài có quyền, nghĩa vụ đăng ký hộ tịch theo quy định của Luật này, trừ trường hợp điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên có quy định khác.\n\n2. Công dân Việt Nam có trách nhiệm thực hiện thủ tục ghi vào sổ hộ tịch sự kiện, thông tin hộ tịch đã được giải quyết tại cơ quan có thẩm quyền của nước ngoài.\n\n3. Người chưa thành niên, người thành niên mất năng lực hành vi dân sự, người có khó khăn trong nhận thức, làm chủ hành vi thực hiện đăng ký hộ tịch thông qua người đại diện theo pháp luật."
+   }
+  },
+  {
+   "id": "VN-H665-A6",
+   "no": 6,
+   "noLabel": {
+    "vi": "Điều 6"
+   },
+   "chapter": {
+    "vi": "Chương I NHỮNG QUY ĐỊNH CHUNG"
+   },
+   "heading": {
+    "vi": "Chính sách của Nhà nước về đăng ký, quản lý hộ tịch"
+   },
+   "text": {
+    "vi": "Điều 6. Chính sách của Nhà nước về đăng ký, quản lý hộ tịch\n\n1. Nhà nước có chính sách, biện pháp đồng bộ, tạo điều kiện thuận lợi để cá nhân thực hiện quyền, nghĩa vụ đăng ký hộ tịch.\n\n2. Nhà nước bảo đảm ngân sách, cơ sở vật chất, đầu tư chuyển đổi số, phát triển công nghệ thông tin cho hoạt động đăng ký, quản lý hộ tịch.\n\n3. Nhà nước ưu tiên phát triển nguồn nhân lực, bảo đảm ổn định vị trí việc làm, đào tạo, bồi dưỡng, nâng cao năng lực, có chế độ đãi ngộ phù hợp đối với người làm công tác hộ tịch để nâng cao tính chuyên nghiệp, ổn định và chất lượng của công tác đăng ký, quản lý hộ tịch."
+   }
+  },
+  {
+   "id": "VN-H665-A7",
+   "no": 7,
+   "noLabel": {
+    "vi": "Điều 7"
+   },
+   "chapter": {
+    "vi": "Chương I NHỮNG QUY ĐỊNH CHUNG"
+   },
+   "heading": {
+    "vi": "Trách nhiệm của cơ quan nhà nước về hộ tịch"
+   },
+   "text": {
+    "vi": "Điều 7. Trách nhiệm của cơ quan nhà nước về hộ tịch\n\n1. Chính phủ thống nhất quản lý nhà nước về hộ tịch trong phạm vi toàn quốc.\n\n2. Bộ Tư pháp là cơ quan đầu mối, giúp Chính phủ thống nhất quản lý nhà nước về hộ tịch.\n\n3. Bộ Ngoại giao có trách nhiệm thực hiện quản lý nhà nước về hộ tịch tại Cơ quan đại diện.\n\n4. Tòa án nhân dân tối cao có trách nhiệm cập nhật, chia sẻ thông tin thay đổi hộ tịch của cá nhân với Cơ sở dữ liệu hộ tịch; phối hợp thực hiện các nhiệm vụ khác liên quan đến công tác hộ tịch.\n\n5. Các Bộ, ngành liên quan có trách nhiệm bảo đảm kết nối, chia sẻ dữ liệu thuộc thẩm quyền quản lý với Cơ sở dữ liệu hộ tịch theo quy định của pháp luật; bảo đảm an ninh, an toàn thông tin trong Cơ sở dữ liệu hộ tịch; phối hợp thực hiện các nhiệm vụ khác liên quan đến công tác hộ tịch.\n\n6. Ủy ban nhân dân các cấp có trách nhiệm quản lý nhà nước về hộ tịch tại địa phương theo quy định."
+   }
+  },
+  {
+   "id": "VN-H665-A8",
+   "no": 8,
+   "noLabel": {
+    "vi": "Điều 8"
+   },
+   "chapter": {
+    "vi": "Chương I NHỮNG QUY ĐỊNH CHUNG"
+   },
+   "heading": {
+    "vi": "Thẩm quyền đăng ký hộ tịch"
+   },
+   "text": {
+    "vi": "Điều 8. Thẩm quyền đăng ký hộ tịch\n\n1. Ủy ban nhân dân cấp xã không phụ thuộc vào nơi cư trú của cá nhân đăng ký các sự kiện, thông tin hộ tịch quy định tại Điều 4 của Luật này.\n\n2. Chủ tịch Ủy ban nhân dân cấp xã có thẩm quyền ký giấy tờ hộ tịch. Căn cứ tình hình thực tế tại địa phương, Chủ tịch Ủy ban nhân dân cấp xã được ủy quyền ký giấy tờ hộ tịch theo quy định, trừ các loại giấy tờ hộ tịch sau đây:\n\na) Giấy khai sinh;\n\nb) Giấy chứng nhận kết hôn;\n\nc) Giấy tờ hộ tịch trong trường hợp đăng ký hộ tịch có yếu tố nước ngoài.\n\n3. Cơ quan đại diện đăng ký các sự kiện, thông tin hộ tịch quy định tại Điều 4 của Luật này cho công dân Việt Nam cư trú ở nước ngoài.\n\n4. Cơ quan đăng ký hộ tịch, cơ quan quản lý hộ tịch đang lưu giữ sổ hộ tịch giấy có trách nhiệm cập nhật vào sổ hộ tịch giấy các thay đổi thông tin của cá nhân quy định tại khoản 2 Điều 4 của Luật này."
+   }
+  },
+  {
+   "id": "VN-H665-A9",
+   "no": 9,
+   "noLabel": {
+    "vi": "Điều 9"
+   },
+   "chapter": {
+    "vi": "Chương I NHỮNG QUY ĐỊNH CHUNG"
+   },
+   "heading": {
+    "vi": "Giá trị pháp lý của giấy tờ hộ tịch, thông tin hộ tịch, dữ liệu hộ tịch điện tử"
+   },
+   "text": {
+    "vi": "Điều 9. Giá trị pháp lý của giấy tờ hộ tịch, thông tin hộ tịch, dữ liệu hộ tịch điện tử\n\n1. Giấy tờ hộ tịch, thông tin hộ tịch trong sổ hộ tịch, Cơ sở dữ liệu hộ tịch là căn cứ để điều chỉnh thông tin trong giấy tờ, hồ sơ, cơ sở dữ liệu khác của cá nhân.\n\n2. Thông tin khai sinh là thông tin hộ tịch gốc của cá nhân. Mọi thông tin trong hồ sơ, giấy tờ, cơ sở dữ liệu khác của cá nhân về họ, chữ đệm, tên; ngày, tháng, năm sinh; nơi sinh; giới tính; dân tộc; quốc tịch; số định danh cá nhân; quê quán; quan hệ cha, mẹ, con phải phù hợp với thông tin khai sinh của người đó. Trường hợp thông tin trong hồ sơ, giấy tờ, cơ sở dữ liệu khác của cá nhân không trùng khớp với thông tin khai sinh thì Thủ trưởng cơ quan, tổ chức quản lý hồ sơ, cơ sở dữ liệu, cấp giấy tờ có trách nhiệm chủ động phối hợp với cơ quan đăng ký hộ tịch, cơ quan quản lý hộ tịch để kiểm tra, điều chỉnh, bảo đảm thông tin chính xác.\n\n3. Dữ liệu hộ tịch điện tử gồm bản điện tử giấy tờ hộ tịch, dữ liệu trong Cơ sở dữ liệu hộ tịch đáp ứng các quy định của pháp luật về giao dịch điện tử, có giá trị như giấy tờ hộ tịch bản giấy khi thực hiện thủ tục hành chính và các giao dịch khác."
+   }
+  },
+  {
+   "id": "VN-H665-A10",
+   "no": 10,
+   "noLabel": {
+    "vi": "Điều 10"
+   },
+   "chapter": {
+    "vi": "Chương I NHỮNG QUY ĐỊNH CHUNG"
+   },
+   "heading": {
+    "vi": "Phương thức yêu cầu, trả kết quả đăng ký hộ tịch"
+   },
+   "text": {
+    "vi": "Điều 10. Phương thức yêu cầu, trả kết quả đăng ký hộ tịch\n\n1. Người yêu cầu đăng ký hộ tịch có quyền lựa chọn nộp hồ sơ trực tuyến hoặc gửi hồ sơ qua dịch vụ bưu chính hoặc nộp hồ sơ trực tiếp tại cơ quan đăng ký hộ tịch, cơ quan quản lý hộ tịch có thẩm quyền.\n\n2. Thủ tục đăng ký khai sinh, đăng ký kết hôn, đăng ký khai tử được trả kết quả là bản giấy và bản điện tử. Thủ tục đăng ký hộ tịch khác được trả kết quả là bản điện tử; kết quả là bản giấy chỉ trả khi người đăng ký hộ tịch có yêu cầu.\n\n3. Người đăng ký hộ tịch lựa chọn nhận kết quả là bản giấy qua dịch vụ bưu chính hoặc trực tiếp tại cơ quan đăng ký hộ tịch, cơ quan quản lý hộ tịch, trừ trường hợp đăng ký kết hôn thì nhận trực tiếp Giấy chứng nhận kết hôn tại cơ quan đăng ký hộ tịch."
+   }
+  },
+  {
+   "id": "VN-H665-A11",
+   "no": 11,
+   "noLabel": {
+    "vi": "Điều 11"
+   },
+   "chapter": {
+    "vi": "Chương I NHỮNG QUY ĐỊNH CHUNG"
+   },
+   "heading": {
+    "vi": "Hợp pháp hóa lãnh sự, dịch ra tiếng Việt đối với giấy tờ do cơ quan có thẩm quyền của nước ngoài cấp, công chứng hoặc xác nhận"
+   },
+   "text": {
+    "vi": "Điều 11. Hợp pháp hóa lãnh sự, dịch ra tiếng Việt đối với giấy tờ do cơ quan có thẩm quyền của nước ngoài cấp, công chứng hoặc xác nhận\n\n1. Giấy tờ do cơ quan có thẩm quyền của nước ngoài cấp, công chứng hoặc xác nhận sử dụng để đăng ký hộ tịch tại Việt Nam phải được hợp pháp hóa lãnh sự, trừ trường hợp được miễn hợp pháp hóa lãnh sự theo điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên hoặc theo quy định của pháp luật.\n\n2. Giấy tờ bằng tiếng nước ngoài sử dụng để đăng ký hộ tịch tại Việt Nam phải được dịch ra tiếng Việt và chứng thực chữ ký người dịch theo quy định của pháp luật.\n\n3. Giấy tờ do cơ quan có thẩm quyền của nước láng giềng tại khu vực biên giới cấp, công chứng hoặc xác nhận được miễn hợp pháp hóa lãnh sự khi sử dụng để đăng ký hộ tịch tại khu vực biên giới."
+   }
+  },
+  {
+   "id": "VN-H665-A12",
+   "no": 12,
+   "noLabel": {
+    "vi": "Điều 12"
+   },
+   "chapter": {
+    "vi": "Chương I NHỮNG QUY ĐỊNH CHUNG"
+   },
+   "heading": {
+    "vi": "Phí, lệ phí hộ tịch"
+   },
+   "text": {
+    "vi": "Điều 12. Phí, lệ phí hộ tịch\n\n1. Người yêu cầu đăng ký hộ tịch phải nộp lệ phí hộ tịch theo quy định của pháp luật về phí và lệ phí.\n\n2. Cơ quan, tổ chức, cá nhân khi khai thác, sử dụng Cơ sở dữ liệu hộ tịch phải nộp phí theo quy định của pháp luật về phí và lệ phí."
+   }
+  },
+  {
+   "id": "VN-H665-A13",
+   "no": 13,
+   "noLabel": {
+    "vi": "Điều 13"
+   },
+   "chapter": {
+    "vi": "Chương I NHỮNG QUY ĐỊNH CHUNG"
+   },
+   "heading": {
+    "vi": "Các hành vi bị nghiêm cấm"
+   },
+   "text": {
+    "vi": "Điều 13. Các hành vi bị nghiêm cấm\n\n1. Cung cấp thông tin, tài liệu sai sự thật; làm hoặc sử dụng giấy tờ giả, sử dụng giấy tờ của người khác để đăng ký hộ tịch.\n\n2. Đe dọa, cưỡng ép, cản trở việc thực hiện quyền, nghĩa vụ đăng ký hộ tịch.\n\n3. Lợi dụng chức vụ, quyền hạn để gây phiền hà, trì hoãn đăng ký hộ tịch; từ chối đăng ký hộ tịch mà không có lý do chính đáng; can thiệp trái pháp luật vào hoạt động đăng ký hộ tịch.\n\n4. Cam đoan, làm chứng sai sự thật để đăng ký hộ tịch.\n\n5. Làm giả, sửa chữa trái pháp luật, làm sai lệch nội dung giấy tờ hộ tịch.\n\n6. Đưa hối lộ, mua chuộc, hứa hẹn lợi ích vật chất hoặc phi vật chất để được đăng ký hộ tịch.\n\n7. Lợi dụng việc đăng ký hộ tịch hoặc trốn tránh nghĩa vụ đăng ký hộ tịch nhằm động cơ vụ lợi, hưởng chính sách ưu đãi của Nhà nước hoặc trục lợi dưới bất kỳ hình thức nào.\n\n8. Người có thẩm quyền quyết định đăng ký hộ tịch thực hiện việc đăng ký hộ tịch cho bản thân.\n\n9. Truy cập, làm thay đổi, xóa, hủy, phát tán hoặc thực hiện các hoạt động khác trái pháp luật liên quan đến xử lý dữ liệu trong sổ hộ tịch, Cơ sở dữ liệu hộ tịch; lợi dụng việc xử lý dữ liệu, quản trị dữ liệu để khai thác, chia sẻ, mua, bán, trao đổi, chiếm đoạt, cố ý làm lộ, làm mất dữ liệu cá nhân trong sổ hộ tịch, Cơ sở dữ liệu hộ tịch; sử dụng dữ liệu cá nhân của người khác, cho người khác sử dụng dữ liệu cá nhân của mình để thực hiện hành vi trái quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H665-A14",
+   "no": 14,
+   "noLabel": {
+    "vi": "Điều 14"
+   },
+   "chapter": {
+    "vi": "Chương I NHỮNG QUY ĐỊNH CHUNG"
+   },
+   "heading": {
+    "vi": "Xử lý vi phạm trong hoạt động đăng ký, quản lý hộ tịch"
+   },
+   "text": {
+    "vi": "Điều 14. Xử lý vi phạm trong hoạt động đăng ký, quản lý hộ tịch\n\nCơ quan, tổ chức, cá nhân có hành vi vi phạm quy định của pháp luật về hộ tịch thì tuỳ theo tính chất, mức độ vi phạm có thể bị xử lý vi phạm hành chính, xử lý kỷ luật hoặc truy cứu trách nhiệm hình sự theo quy định của pháp luật.\n\n Giấy tờ hộ tịch, nội dung đăng ký hộ tịch được cấp, đăng ký, xác nhận do hành vi vi phạm quy định của pháp luật về hộ tịch phải được sửa chữa, khắc phục hoặc thu hồi, hủy bỏ.\n\nChương II ĐĂNG KÝ HỘ TỊCH\n\nMục 1 ĐĂNG KÝ HỘ TỊCH TẠI ỦY BAN NHÂN DÂN CẤP XÃ"
+   }
+  },
+  {
+   "id": "VN-H665-A15",
+   "no": 15,
+   "noLabel": {
+    "vi": "Điều 15"
+   },
+   "chapter": {
+    "vi": "Chương II ĐĂNG KÝ HỘ TỊCH"
+   },
+   "heading": {
+    "vi": "Đăng ký khai sinh"
+   },
+   "text": {
+    "vi": "Điều 15. Đăng ký khai sinh\n\n1. Ủy ban nhân dân cấp xã thực hiện đăng ký khai sinh cho các trường hợp sau đây:\n\na) Trẻ em được sinh ra tại Việt Nam;\n\nb) Trẻ em được sinh ra ở nước ngoài chưa được đăng ký khai sinh, về cư trú tại Việt Nam và có ít nhất một bên cha hoặc mẹ là công dân Việt Nam;\n\nc) Công dân Việt Nam, người Việt Nam định cư ở nước ngoài, người gốc Việt Nam chưa xác định được quốc tịch đang sinh sống tại Việt Nam, được sinh ra tại Việt Nam mà chưa được đăng ký khai sinh, đã có hồ sơ, giấy tờ do cơ quan có thẩm quyền của Việt Nam cấp, xác nhận.\n\n2. Ủy ban nhân dân cấp xã, theo lựa chọn của người yêu cầu đăng ký khai sinh, có trách nhiệm chủ động thực hiện đăng ký khai sinh cho trẻ em khi dữ liệu của cơ sở khám bệnh, chữa bệnh được kết nối, chia sẻ tự động tới hệ thống đăng ký, quản lý hộ tịch điện tử và đáp ứng đủ các điều kiện sau đây:\n\na) Trẻ em được sinh ra tại cơ sở khám bệnh, chữa bệnh;\n\nb) Người yêu cầu đăng ký khai sinh đã cung cấp đủ nội dung đăng ký khai sinh theo quy định.\n\n3. Trường hợp trẻ em sinh ra tại Việt Nam không được đăng ký khai sinh theo quy định tại khoản 2 Điều này thì trong thời hạn 60 ngày kể từ ngày trẻ em được sinh ra, cha hoặc mẹ có trách nhiệm đăng ký khai sinh cho con; trường hợp cha, mẹ không thể đăng ký khai sinh cho con thì ông nội, bà nội, ông ngoại, bà ngoại, anh ruột, chị ruột, bác ruột, chú ruột, cậu ruột, cô ruột, dì ruột hoặc cá nhân, tổ chức đang nuôi dưỡng trẻ em có trách nhiệm đăng ký khai sinh cho trẻ em.\n\n4. Nội dung đăng ký khai sinh gồm:\n\na) Thông tin của người được khai sinh: Họ, chữ đệm (nếu có), tên; giới tính; ngày, tháng, năm sinh; số định danh cá nhân; nơi sinh; quê quán; dân tộc; quốc tịch. Việc xác định họ, chữ đệm (nếu có), tên, dân tộc, quốc tịch của người được khai sinh thực hiện theo quy định của pháp luật về dân sự, pháp luật về quốc tịch Việt Nam. Quê quán của cá nhân được xác định theo quê quán của cha hoặc quê quán của mẹ theo thỏa thuận của cha, mẹ khi đăng ký khai sinh, trường hợp cha, mẹ không thỏa thuận được thì xác định theo tập quán;\n\nb) Thông tin cha, mẹ của người được khai sinh: Họ, chữ đệm (nếu có), tên; ngày, tháng, năm sinh; số định danh cá nhân (nếu có); dân tộc; quốc tịch; nơi cư trú. Trường hợp chưa xác định được cha, mẹ của người được khai sinh thì thông tin cha, mẹ được bỏ trống."
+   }
+  },
+  {
+   "id": "VN-H665-A16",
+   "no": 16,
+   "noLabel": {
+    "vi": "Điều 16"
+   },
+   "chapter": {
+    "vi": "Chương II ĐĂNG KÝ HỘ TỊCH"
+   },
+   "heading": {
+    "vi": "Đăng ký kết hôn"
+   },
+   "text": {
+    "vi": "Điều 16. Đăng ký kết hôn\n\n1. Ủy ban nhân dân cấp xã thực hiện đăng ký kết hôn cho các trường hợp sau đây:\n\na) Đăng ký kết hôn giữa công dân Việt Nam cư trú ở trong nước với nhau;\n\nb) Đăng ký kết hôn giữa công dân Việt Nam cư trú ở trong nước với người nước ngoài, với công dân Việt Nam cư trú ở nước ngoài, với người gốc Việt Nam chưa xác định được quốc tịch đang sinh sống tại Việt Nam;\n\nc) Đăng ký kết hôn cho người gốc Việt Nam chưa xác định được quốc tịch đang sinh sống tại Việt Nam, người nước ngoài thường trú tại Việt Nam.\n\n2. Nội dung đăng ký kết hôn gồm:\n\na) Họ, chữ đệm (nếu có), tên; ngày, tháng, năm sinh; dân tộc; quốc tịch; nơi cư trú; số định danh cá nhân; thông tin giấy tờ chứng minh về nhân thân của bên nam và bên nữ;\n\nb) Ngày, tháng, năm đăng ký kết hôn; ngày, tháng, năm xác lập quan hệ hôn nhân.\n\n3. Bên nam và bên nữ phải có mặt tại cơ quan đăng ký hộ tịch để ký vào Sổ đăng ký kết hôn, Giấy chứng nhận kết hôn."
+   }
+  },
+  {
+   "id": "VN-H665-A17",
+   "no": 17,
+   "noLabel": {
+    "vi": "Điều 17"
+   },
+   "chapter": {
+    "vi": "Chương II ĐĂNG KÝ HỘ TỊCH"
+   },
+   "heading": {
+    "vi": "Đăng ký giám hộ, chấm dứt giám hộ, thay đổi giám hộ, giám sát việc giám hộ, chấm dứt giám sát việc giám hộ"
+   },
+   "text": {
+    "vi": "Điều 17. Đăng ký giám hộ, chấm dứt giám hộ, thay đổi giám hộ, giám sát việc giám hộ, chấm dứt giám sát việc giám hộ\n\n1. Ủy ban nhân dân cấp xã thực hiện đăng ký giám hộ, chấm dứt giám hộ, thay đổi giám hộ cho các trường hợp sau đây:\n\na) Giữa công dân Việt Nam cư trú ở trong nước với nhau;\n\nb) Giữa công dân Việt Nam cư trú ở trong nước và người nước ngoài cư trú tại Việt Nam với nhau;\n\nc) Giữa công dân Việt Nam cư trú ở trong nước và người gốc Việt Nam chưa xác định được quốc tịch đang sinh sống tại Việt Nam với nhau;\n\nd) Giữa người gốc Việt Nam chưa xác định được quốc tịch đang sinh sống tại Việt Nam với nhau;\n\nđ) Giữa pháp nhân với công dân Việt Nam cư trú ở trong nước, người nước ngoài cư trú tại Việt Nam, người gốc Việt Nam chưa xác định được quốc tịch đang sinh sống tại Việt Nam.\n\n2. Ủy ban nhân dân cấp xã thực hiện đăng ký giám sát việc giám hộ, chấm dứt giám sát việc giám hộ liên quan đến quản lý tài sản của người được giám hộ.\n\n3. Nội dung đăng ký giám hộ, giám sát việc giám hộ gồm:\n\na) Thông tin của người được giám hộ: Họ, chữ đệm (nếu có), tên; ngày, tháng, năm sinh; giới tính; dân tộc; quốc tịch; nơi cư trú; số định danh cá nhân (nếu có);\n\nb) Thông tin của người giám hộ, người giám sát việc giám hộ: Họ, chữ đệm (nếu có), tên; ngày, tháng, năm sinh; giới tính; dân tộc; quốc tịch; nơi cư trú; thông tin giấy tờ chứng minh về nhân thân.\n\n4. Người giám hộ phải có mặt tại cơ quan đăng ký hộ tịch để ký vào Sổ đăng ký giám hộ."
+   }
+  },
+  {
+   "id": "VN-H665-A18",
+   "no": 18,
+   "noLabel": {
+    "vi": "Điều 18"
+   },
+   "chapter": {
+    "vi": "Chương II ĐĂNG KÝ HỘ TỊCH"
+   },
+   "heading": {
+    "vi": "Đăng ký nhận cha, mẹ, con"
+   },
+   "text": {
+    "vi": "Điều 18. Đăng ký nhận cha, mẹ, con\n\nỦy ban nhân dân cấp xã thực hiện đăng ký nhận cha, mẹ, con cho các trường hợp sau đây:\n\n1. Giữa công dân Việt Nam với nhau mà ít nhất một bên cư trú ở trong nước;\n\n2. Giữa công dân Việt Nam và người nước ngoài với nhau mà ít nhất một bên cư trú tại Việt Nam;\n\n3. Giữa công dân Việt Nam và người gốc Việt Nam chưa xác định được quốc tịch đang sinh sống tại Việt Nam với nhau;\n\n4. Giữa người gốc Việt Nam chưa xác định được quốc tịch đang sinh sống tại Việt Nam với nhau;\n\n5. Giữa người gốc Việt Nam chưa xác định được quốc tịch đang sinh sống tại Việt Nam và người nước ngoài với nhau;\n\n6. Giữa người nước ngoài với nhau mà ít nhất một bên thường trú tại Việt Nam."
+   }
+  },
+  {
+   "id": "VN-H665-A19",
+   "no": 19,
+   "noLabel": {
+    "vi": "Điều 19"
+   },
+   "chapter": {
+    "vi": "Chương II ĐĂNG KÝ HỘ TỊCH"
+   },
+   "heading": {
+    "vi": "Thay đổi thông tin hộ tịch"
+   },
+   "text": {
+    "vi": "Điều 19. Thay đổi thông tin hộ tịch\n\n1. Thay đổi thông tin hộ tịch là việc cơ quan đăng ký hộ tịch có thẩm quyền ghi nhận biến động thông tin nhân thân của cá nhân khi có lý do chính đáng, đủ điều kiện theo quy định của Luật này, quy định của pháp luật về dân sự và quy định khác của pháp luật có liên quan.\n\n2. Phạm vi thay đổi thông tin hộ tịch gồm:\n\na) Thay đổi họ, chữ đệm, tên của cá nhân trong nội dung khai sinh khi có đủ căn cứ, điều kiện theo quy định của pháp luật về dân sự;\n\nb) Thay đổi thông tin về quê quán trong nội dung đăng ký khai sinh của người thành niên theo yêu cầu của người đó hoặc trong nội dung đăng ký khai sinh của con chưa thành niên theo yêu cầu của cha đẻ, mẹ đẻ;\n\nc) Thay đổi thông tin về cha, mẹ, dân tộc, quê quán trong nội dung khai sinh của cá nhân khi được nhận làm con nuôi hoặc sau khi chấm dứt việc nuôi con nuôi;\n\nd) Xác định lại dân tộc theo quy định của pháp luật về dân sự; xác định lại dân tộc của trẻ em bị bỏ rơi sau khi xác định được cha đẻ, mẹ đẻ;\n\nđ) Cải chính thông tin hộ tịch đã đăng ký do có sai sót hoặc thông tin không đúng thực tế;\n\ne) Bổ sung thông tin hộ tịch còn thiếu trên bản chính giấy tờ hộ tịch, trong sổ hộ tịch giấy, Cơ sở dữ liệu hộ tịch;\n\ng) Điều chỉnh thông tin hộ tịch của cá nhân đã đăng ký do chính cá nhân hoặc cha, mẹ hoặc vợ, chồng của cá nhân đó được thay đổi thông tin hộ tịch;\n\nh) Các trường hợp khác theo quy định của pháp luật.\n\n3. Ủy ban nhân dân cấp xã thực hiện thay đổi thông tin hộ tịch cho các trường hợp sau đây:\n\na) Đăng ký thay đổi thông tin hộ tịch cho công dân Việt Nam đã đăng ký hộ tịch tại Việt Nam, công dân Việt Nam cư trú ở nước ngoài đã đăng ký hộ tịch tại Việt Nam, còn bản chính giấy tờ hộ tịch hoặc có thông tin trong sổ hộ tịch giấy hoặc Cơ sở dữ liệu hộ tịch;\n\nb) Đăng ký thay đổi thông tin hộ tịch quy định tại các điểm b, c, đ, e và g khoản 2 Điều này cho người nước ngoài, người gốc Việt Nam chưa xác định được quốc tịch đang sinh sống tại Việt Nam đã đăng ký hộ tịch tại cơ quan có thẩm quyền của Việt Nam, còn bản chính giấy tờ hộ tịch hoặc có thông tin trong sổ hộ tịch giấy hoặc Cơ sở dữ liệu hộ tịch."
+   }
+  },
+  {
+   "id": "VN-H665-A20",
+   "no": 20,
+   "noLabel": {
+    "vi": "Điều 20"
+   },
+   "chapter": {
+    "vi": "Chương II ĐĂNG KÝ HỘ TỊCH"
+   },
+   "heading": {
+    "vi": "Đăng ký khai tử"
+   },
+   "text": {
+    "vi": "Điều 20. Đăng ký khai tử\n\n1. Ủy ban nhân dân cấp xã thực hiện việc đăng ký khai tử cho các trường hợp sau đây:\n\na) Cá nhân chết ở trong nước;\n\nb) Công dân Việt Nam chết ở nước ngoài, đã đưa thi thể, hài cốt, tro cốt về Việt Nam nhưng chưa được đăng ký khai tử tại Cơ quan đại diện, cơ quan có thẩm quyền của nước ngoài.\n\n2. Ủy ban nhân dân cấp xã nơi cư trú cuối cùng của người chết có trách nhiệm chủ động thực hiện đăng ký khai tử khi dữ liệu của cơ sở khám bệnh, chữa bệnh được kết nối, chia sẻ tự động tới hệ thống đăng ký, quản lý hộ tịch điện tử và đáp ứng đủ các điều kiện sau đây:\n\na) Cá nhân chết tại cơ sở khám bệnh, chữa bệnh;\n\nb) Người yêu cầu đăng ký đã cung cấp đủ nội dung đăng ký khai tử theo quy định.\n\n3. Trường hợp cá nhân chết ở trong nước không được đăng ký khai tử theo quy định tại khoản 2 Điều này thì trong thời hạn 15 ngày kể từ ngày có người chết, vợ, chồng hoặc con, cha, mẹ hoặc người thân thích khác của người chết theo quy định của pháp luật về hôn nhân và gia đình có trách nhiệm đăng ký khai tử; trường hợp người chết không có người thân thích thì đại diện của cơ quan, tổ chức, cá nhân liên quan có trách nhiệm đăng ký khai tử.\n\n4. Nội dung đăng ký khai tử gồm:\n\na) Thông tin của người được khai tử: Họ, chữ đệm (nếu có), tên; ngày, tháng, năm sinh; giới tính; số định danh cá nhân hoặc thông tin giấy tờ chứng minh về nhân thân; dân tộc; quốc tịch; nơi cư trú cuối cùng (nếu có);\n\nb) Thông tin về sự kiện chết: Thời gian chết; nơi chết; nguyên nhân chết; giấy tờ chứng minh sự kiện chết (nếu có)."
+   }
+  },
+  {
+   "id": "VN-H665-A21",
+   "no": 21,
+   "noLabel": {
+    "vi": "Điều 21"
+   },
+   "chapter": {
+    "vi": "Chương II ĐĂNG KÝ HỘ TỊCH"
+   },
+   "heading": {
+    "vi": "Ghi vào sổ hộ tịch sự kiện, thông tin hộ tịch của công dân Việt Nam đã được giải quyết tại cơ quan có thẩm quyền của nước ngoài"
+   },
+   "text": {
+    "vi": "Điều 21. Ghi vào sổ hộ tịch sự kiện, thông tin hộ tịch của công dân Việt Nam đã được giải quyết tại cơ quan có thẩm quyền của nước ngoài\n\n1. Các sự kiện, thông tin hộ tịch của công dân Việt Nam đã đăng ký, xác nhận tại cơ quan có thẩm quyền của nước ngoài không trái quy định của pháp luật Việt Nam được ghi vào sổ hộ tịch gồm:\n\na) Việc khai sinh của công dân Việt Nam;\n\nb) Việc khai sinh của trẻ em có cha hoặc mẹ là công dân Việt Nam còn người kia là công dân nước ngoài, cha và mẹ thỏa thuận lựa chọn quốc tịch Việt Nam tại thời điểm ghi vào sổ hộ tịch việc khai sinh theo quy định của pháp luật về quốc tịch Việt Nam;\n\nc) Việc kết hôn; khai tử; giám hộ; xác định cha, mẹ, con; nuôi con nuôi; thay đổi thông tin hộ tịch;\n\nd) Việc ly hôn; hủy việc kết hôn trái pháp luật; hủy nội dung đăng ký, xác nhận tại các điểm a, b và c khoản này.\n\n2. Ủy ban nhân dân cấp xã thực hiện ghi vào sổ hộ tịch sự kiện, thông tin hộ tịch quy định tại khoản 1 Điều này khi nhận được giấy tờ, văn bản hợp lệ do cơ quan có thẩm quyền của nước ngoài cấp, xác nhận.\n\nMục 2 ĐĂNG KÝ HỘ TỊCH TẠI CƠ QUAN ĐẠI DIỆN"
+   }
+  },
+  {
+   "id": "VN-H665-A22",
+   "no": 22,
+   "noLabel": {
+    "vi": "Điều 22"
+   },
+   "chapter": {
+    "vi": "Chương II ĐĂNG KÝ HỘ TỊCH"
+   },
+   "heading": {
+    "vi": "Đăng ký hộ tịch cho công dân Việt Nam cư trú ở nước ngoài"
+   },
+   "text": {
+    "vi": "Điều 22. Đăng ký hộ tịch cho công dân Việt Nam cư trú ở nước ngoài\n\n1. Cơ quan đại diện có thẩm quyền đăng ký sự kiện, thông tin hộ tịch quy định tại Điều 4 của Luật này cho công dân Việt Nam cư trú ở nước ngoài, nếu việc đăng ký không trái pháp luật của nước sở tại và điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.\n\n2. Bộ trưởng Bộ Ngoại giao hướng dẫn việc đăng ký, quản lý hộ tịch tại Cơ quan đại diện."
+   }
+  },
+  {
+   "id": "VN-H665-A23",
+   "no": 23,
+   "noLabel": {
+    "vi": "Điều 23"
+   },
+   "chapter": {
+    "vi": "Chương II ĐĂNG KÝ HỘ TỊCH"
+   },
+   "heading": {
+    "vi": "Người làm công tác hộ tịch tại Cơ quan đại diện"
+   },
+   "text": {
+    "vi": "Điều 23. Người làm công tác hộ tịch tại Cơ quan đại diện\n\n1. Cơ quan đại diện cử viên chức ngoại giao, viên chức lãnh sự thực hiện đăng ký hộ tịch cho công dân Việt Nam cư trú ở nước ngoài.\n\n2. Viên chức ngoại giao, viên chức lãnh sự phải được bồi dưỡng nghiệp vụ hộ tịch trước khi thực hiện nhiệm vụ đăng ký hộ tịch.\n\nChương III CƠ SỞ DỮ LIỆU HỘ TỊCH"
+   }
+  },
+  {
+   "id": "VN-H665-A24",
+   "no": 24,
+   "noLabel": {
+    "vi": "Điều 24"
+   },
+   "chapter": {
+    "vi": "Chương III CƠ SỞ DỮ LIỆU HỘ TỊCH"
+   },
+   "heading": {
+    "vi": "Xây dựng, quản lý Cơ sở dữ liệu hộ tịch"
+   },
+   "text": {
+    "vi": "Điều 24. Xây dựng, quản lý Cơ sở dữ liệu hộ tịch\n\n1. Cơ sở dữ liệu hộ tịch là cơ sở dữ liệu quốc gia, được xây dựng tập trung, thống nhất từ trung ương đến địa phương, do Bộ Tư pháp quản lý.\n\n2. Việc xây dựng Cơ sở dữ liệu hộ tịch phải bảo đảm mở rộng, nâng cấp, phát triển, kết nối, chia sẻ với các cơ sở dữ liệu khác; bảo đảm quyền khai thác thông tin của cơ quan, tổ chức, cá nhân theo quy định của pháp luật; bảo đảm lưu trữ đầy đủ thông tin hộ tịch của cá nhân trong các lần thu thập, cập nhật, điều chỉnh trong cơ sở dữ liệu.\n\n3. Cơ sở dữ liệu hộ tịch được bảo đảm an ninh, an toàn thông tin, bảo vệ dữ liệu cá nhân; chỉ những cơ quan, tổ chức, cá nhân có thẩm quyền mới được tiếp cận và khai thác theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H665-A25",
+   "no": 25,
+   "noLabel": {
+    "vi": "Điều 25"
+   },
+   "chapter": {
+    "vi": "Chương III CƠ SỞ DỮ LIỆU HỘ TỊCH"
+   },
+   "heading": {
+    "vi": "Thông tin trong Cơ sở dữ liệu hộ tịch"
+   },
+   "text": {
+    "vi": "Điều 25. Thông tin trong Cơ sở dữ liệu hộ tịch\n\n1. Thông tin trong Cơ sở dữ liệu hộ tịch gồm bản quét hoặc bản chụp trang sổ hộ tịch giấy, giấy tờ hộ tịch tương ứng đối với thông tin hộ tịch được số hóa, chuẩn hóa, thu thập theo quy định và các thông tin hộ tịch của cá nhân được xác lập, cập nhật khi đăng ký hộ tịch, gồm các trường thông tin sau đây:\n\na) Họ, chữ đệm, tên;\n\nb) Ngày, tháng, năm sinh;\n\nc) Nơi sinh;\n\nd) Giới tính;\n\nđ) Số định danh cá nhân;\n\ne) Dân tộc;\n\ng) Quốc tịch;\n\nh) Quê quán;\n\ni) Nơi cư trú;\n\nk) Thông tin giấy tờ chứng minh về nhân thân (tên loại, số, cơ quan cấp, ngày cấp);\n\nl) Thời gian chết, nơi chết, nguyên nhân chết đối với đăng ký khai tử;\n\nm) Thông tin thay đổi về tình trạng nhân thân (mất tích, đã chết, bị mất hoặc hạn chế năng lực hành vi dân sự, có khó khăn trong nhận thức, làm chủ hành vi);\n\nn) Họ, chữ đệm, tên, ngày, tháng, năm sinh, số định danh cá nhân, dân tộc, quốc tịch, nơi cư trú, thông tin giấy tờ chứng minh về nhân thân (tên loại, số, cơ quan cấp, ngày cấp) của cha, mẹ, vợ, chồng, người giám hộ, người được giám hộ, người giám sát việc giám hộ, người yêu cầu đăng ký hộ tịch;\n\no) Thông tin về cơ quan đăng ký, thời gian đăng ký, số đăng ký, họ, chữ đệm, tên, chức vụ người thực hiện đăng ký, người ký giấy tờ hộ tịch.\n\n2. Thông tin trong Cơ sở dữ liệu hộ tịch quy định tại khoản 1 Điều này được xác lập từ các nguồn sau đây:\n\na) Thông tin hộ tịch của cá nhân được đăng ký, bản điện tử giấy tờ hộ tịch;\n\nb) Thông tin hộ tịch được số hóa, chuẩn hóa từ sổ hộ tịch giấy;\n\nc) Thông tin hộ tịch thu thập từ giấy tờ hộ tịch được cấp hợp lệ;\n\nd) Thông tin được kết nối, chia sẻ từ cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành khác;\n\nđ) Thông tin hộ tịch được chia sẻ, chuyển đổi, chuẩn hóa từ các phần mềm hộ tịch được thiết lập trước đây.\n\n3. Thông tin trong Cơ sở dữ liệu hộ tịch, sổ hộ tịch giấy, giấy tờ hộ tịch phải thống nhất với nhau. Cá nhân có quyền yêu cầu cơ quan có thẩm quyền điều chỉnh thông tin hộ tịch khi phát hiện có sai sót trong nội dung đã được đăng ký. Trường hợp thông tin trong Cơ sở dữ liệu hộ tịch khác với thông tin trong sổ hộ tịch giấy thì phải điều chỉnh cho phù hợp với sổ hộ tịch giấy. Trường hợp thông tin trong giấy tờ hộ tịch không thống nhất với thông tin trong Cơ sở dữ liệu hộ tịch, sổ hộ tịch giấy thì phải điều chỉnh cho phù hợp với Cơ sở dữ liệu hộ tịch, sổ hộ tịch giấy, trừ trường hợp xác định dữ liệu có sai sót, chưa được cập nhật."
+   }
+  },
+  {
+   "id": "VN-H665-A26",
+   "no": 26,
+   "noLabel": {
+    "vi": "Điều 26"
+   },
+   "chapter": {
+    "vi": "Chương III CƠ SỞ DỮ LIỆU HỘ TỊCH"
+   },
+   "heading": {
+    "vi": "Khai thác thông tin trong Cơ sở dữ liệu hộ tịch"
+   },
+   "text": {
+    "vi": "Điều 26. Khai thác thông tin trong Cơ sở dữ liệu hộ tịch\n\n1. Cá nhân được khai thác thông tin của mình trong Cơ sở dữ liệu hộ tịch.\n\n2. Cơ quan nhà nước có thẩm quyền được khai thác thông tin trong Cơ sở dữ liệu hộ tịch phù hợp với chức năng, nhiệm vụ của cơ quan đó.\n\n3. Cơ quan, tổ chức, cá nhân không thuộc trường hợp quy định tại khoản 1, khoản 2 Điều này khi khai thác thông tin trong Cơ sở dữ liệu hộ tịch phải được sự đồng ý của cá nhân là chủ thể của thông tin được khai thác, trừ trường hợp pháp luật có quy định khác. Trường hợp khai thác thông tin của người chưa thành niên, người bị mất năng lực hành vi dân sự, người có khó khăn trong nhận thức, làm chủ hành vi phải được sự đồng ý của người đại diện theo pháp luật. Trường hợp khai thác thông tin của người bị tuyên bố mất tích, người đã chết phải được sự đồng ý của vợ, chồng hoặc con thành niên của người đó; trường hợp không có những người này thì việc khai thác thông tin phải được sự đồng ý của cha, mẹ của người bị tuyên bố mất tích, người đã chết.\n\n4. Người bị mất năng lực hành vi dân sự, người có khó khăn trong nhận thức, làm chủ hành vi, người chưa đủ 15 tuổi khai thác thông tin của mình thông qua người đại diện theo pháp luật.\n\n5. Việc khai thác thông tin trong Cơ sở dữ liệu hộ tịch phải bảo đảm bảo vệ dữ liệu cá nhân theo quy định của pháp luật về bảo vệ dữ liệu cá nhân."
+   }
+  },
+  {
+   "id": "VN-H665-A27",
+   "no": 27,
+   "noLabel": {
+    "vi": "Điều 27"
+   },
+   "chapter": {
+    "vi": "Chương III CƠ SỞ DỮ LIỆU HỘ TỊCH"
+   },
+   "heading": {
+    "vi": "Bảo vệ Cơ sở dữ liệu hộ tịch"
+   },
+   "text": {
+    "vi": "Điều 27. Bảo vệ Cơ sở dữ liệu hộ tịch\n\nCơ quan quản lý Cơ sở dữ liệu hộ tịch, cơ quan đăng ký hộ tịch, cơ quan quản lý hộ tịch, trong phạm vi chức năng, nhiệm vụ của mình, có trách nhiệm sau đây:\n\n1. Bảo đảm an toàn các thiết bị thu thập, lưu trữ, truyền đưa, xử lý, trao đổi thông tin hộ tịch;\n\n2. Bảo vệ dữ liệu cá nhân, an ninh thông tin hộ tịch trên mạng máy tính; bảo đảm an toàn thông tin lưu trữ trong cơ sở dữ liệu; phòng, chống hành vi truy cập, sử dụng trái phép, làm hư hỏng Cơ sở dữ liệu hộ tịch.\n\nChương IV ĐIỀU KHOẢN THI HÀNH"
+   }
+  },
+  {
+   "id": "VN-H665-A28",
+   "no": 28,
+   "noLabel": {
+    "vi": "Điều 28"
+   },
+   "chapter": {
+    "vi": "Chương IV ĐIỀU KHOẢN THI HÀNH"
+   },
+   "heading": {
+    "vi": "Giá trị của sổ hộ tịch giấy được lập, giấy tờ hộ tịch được cấp trước ngày Luật này có hiệu lực thi hành"
+   },
+   "text": {
+    "vi": "Điều 28. Giá trị của sổ hộ tịch giấy được lập, giấy tờ hộ tịch được cấp trước ngày Luật này có hiệu lực thi hành\n\n1. Sổ hộ tịch giấy được lập trước ngày Luật này có hiệu lực thi hành có giá trị làm căn cứ chứng minh các sự kiện, thông tin hộ tịch của cá nhân, sử dụng để tra cứu, cấp giấy tờ hộ tịch và được cập nhật theo quy định tại khoản 4 Điều 8 của Luật này.\n\n2. Giấy tờ hộ tịch được cấp cho cá nhân theo quy định của pháp luật về hộ tịch trước ngày Luật này có hiệu lực thi hành có giá trị sử dụng."
+   }
+  },
+  {
+   "id": "VN-H665-A29",
+   "no": 29,
+   "noLabel": {
+    "vi": "Điều 29"
+   },
+   "chapter": {
+    "vi": "Chương IV ĐIỀU KHOẢN THI HÀNH"
+   },
+   "heading": {
+    "vi": "Hiệu lực thi hành"
+   },
+   "text": {
+    "vi": "Điều 29. Hiệu lực thi hành\n\n1. Luật này có hiệu lực thi hành từ ngày 01 tháng 3 năm 2027. Việc đăng ký khai sinh, khai tử chủ động thực hiện theo lộ trình của Chính phủ, bảo đảm thực hiện thống nhất trên toàn quốc chậm nhất từ ngày 01 tháng 01 năm 2031.\n\n2. Luật Hộ tịch số 60/2014/QH13 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành.\n\n3. Trường hợp luật, nghị quyết khác của Quốc hội có quy định về hộ tịch, đăng ký hộ tịch khác với quy định của Luật này thì áp dụng quy định của Luật này.\n\n4. Chính phủ quy định chi tiết và biện pháp thi hành các nội dung sau đây:\n\na) Rà soát, kiện toàn người làm công tác hộ tịch; quy định điều kiện, tiêu chuẩn của người làm công tác hộ tịch bảo đảm thực hiện nhiệm vụ, quyền hạn được giao tại Luật này;\n\nb) Quy định chi tiết Điều 7, Điều 8, Điều 9, Điều 10, khoản 3 Điều 11, Điều 14 và các điều từ Điều 15 đến Điều 27 của Luật này;\n\nc) Cập nhật, thu thập, làm sạch dữ liệu hộ tịch lịch sử, dữ liệu hộ tịch đã được số hóa trước đây; phương thức, trình tự, thủ tục khai thác, sử dụng thông tin trong Cơ sở dữ liệu hộ tịch để cấp bản sao giấy tờ hộ tịch, xác nhận thông tin hộ tịch; xác nhận tình trạng hôn nhân; đăng ký lại kết hôn;\n\nd) Biện pháp cụ thể để tổ chức, hướng dẫn thi hành Luật này."
+   }
+  },
+  {
+   "id": "VN-H665-A30",
+   "no": 30,
+   "noLabel": {
+    "vi": "Điều 30"
+   },
+   "chapter": {
+    "vi": "Chương IV ĐIỀU KHOẢN THI HÀNH"
+   },
+   "heading": {
+    "vi": "Điều khoản chuyển tiếp"
+   },
+   "text": {
+    "vi": "Điều 30. Điều khoản chuyển tiếp\n\nHồ sơ đăng ký hộ tịch được tiếp nhận trước ngày Luật này có hiệu lực thi hành mà chưa giải quyết xong thì tiếp tục được giải quyết theo quy định của pháp luật về hộ tịch tại thời điểm tiếp nhận.\n\nCHỦ TỊCH QUỐC HỘI\n\nTrần Thanh Mẫn\n\n1:{\"id\":\"ec5cde10-54bc-11f1-abb8-a5ee305e759c\",\"docType\":{\"id\":\"11025e19-2dd6-4165-85ad-ab6241186a1a\",\"name\":\"Luật\",\"code\":\"Lu\",\"parentCode\":\"VBQPPL\",\"parentName\":null},\"docGroup\":\"VBQPPL\",\"docNum\":\"03/2026/QH16\",\"title\":\"Luật Hộ tịch số 03/2026/QH16\",\"applicationNote\":null,\"issueDate\":\"2026-04-23T00:00:00\",\"effFrom\":\"2027-03-01T00:00:00\",\"effTo\":null,\"publicDate\":null,\"effStatus\":{\"id\":\"dc434caf-9223-40de-a759-d4f2e3f7b06f\",\"name\":\"Chưa có hiệu lực\",\"code\":\"CCHL\",\"parentCode\":null,\"parentName\":null},\"status\":\"Publish\",\"lang\":null,\"defaultLanguage\":\"VN\",\"updatedBy\":\"btp_bientap\",\"updatedDate\":\"2026-07-04T22:11:21\",\"agencyName\":\"Quốc hội\",\"organization\":{\"id\":\"506a0f37-34ee-454c-b40f-1313f572f54f\",\"code\":\"BTP\",\"name\":\"Bộ Tư pháp\",\"nameEn\":\"Bộ Tư pháp\",\"shortName\":\"BTP\",\"orgType\":\"0\"},\"isLw\":true,\"documentContent\":{\"id\":\"ec5cde10-54bc-11f1-abb8-a5ee305e759c\",\"title\":null,\"content\":\"$2\"},\"documentContentEn\":null,\"documentContentFileName\":\"Luat Ho tich.pdf\",\"documentContentFileDocName\":\"Luat_Ho_tich_PH_bản công bố.docx\",\"documentIssues\":[{\"id\":\"bcd355d0-77a2-11f1-a6b9-79e7addb9d34\",\"agencyId\":\"55\",\"agencyName\":\"Quốc hội\",\"agencyNameEn\":\"National Assembly of Vietnam\",\"agencyCode\":\"QH\",\"personId\":\"1734\",\"personName\":\"Trần Thanh Mẫn\",\"jobTitleId\":\"28da0087-8afd-420c-875c-b2369e212c3e\",\"jobTitleCode\":\"CTQH\",\"jobTitleName\":\"Chủ tịch Quốc hội\",\"orderIndex\":1}],\"documentMajors\":[{\"id\":\"nganh_65\",\"name\":\"Tư pháp\",\"code\":null,\"parentCode\":null,\"parentName\":null}],\"documentFields\":[{\"id\":\"7007\",\"name\":\"Hộ tịch\",\"code\":null,\"parentCode\":null,\"parentName\":null}],\"documentRelatedList\":[],\"provisionTree\":null,\"references\":null,\"isEffectAllDocument\":false,\"isOld\":false,\"reviewStatus\":null,\"reviewed\":true,\"isTranslationDoc\":false,\"isConsolidatedDocument\":false,\"isConstitutionDocument\":false,\"isAdministrativeDocument\":false,\"viewCount\":2262,\"showViewCount\":true,\"hasContent\":true,\"hasOriginalPdf\":null,\"hasAIProcessed\":false,\"hasClauseRelation\":true,\"aiResults\":[]}"
+   }
+  }
+ ]
+}

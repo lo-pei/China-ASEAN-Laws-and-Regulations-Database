@@ -1,0 +1,78 @@
+{
+ "id": "MY-H512",
+ "title": {
+  "zh": "1947年政府贷款（信托通知）法",
+  "en": "GOVERNMENT LOANS (NOTICE OF TRUSTS) ACT 1947",
+  "orig": "GOVERNMENT LOANS (NOTICE OF TRUSTS) ACT 1947",
+  "vi": "Luật về Các khoản vay của chính phủ (Thông báo về tín thác) năm 1947",
+  "th": "พระราชบัญญัติเงินกู้ของรัฐบาล (หนังสือแจ้งเกี่ยวกับทรัสต์) ค.ศ. 1947",
+  "id": "Undang-Undang Pinjaman Pemerintah (Pemberitahuan Perwalian) Tahun 1947",
+  "ms": "Akta Pinjaman Kerajaan (Notis Amanah) 1947"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-10",
+ "language": "en",
+ "level": "law",
+ "category": "02_民商事与经济法",
+ "status": "active",
+ "promulgatedDate": "1947",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "ACT649",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 3,
+ "chars": 1116,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-detail.php?act=649&lang=BI"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\02_民商事与经济法\\1947_649_GOVERNMENT LOANS (NOTICE OF TRUSTS) ACT 1947.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 3 条；逐字未改写（源自厂商 OCR 文本）。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H512-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "1. This Ordinance may be cited as the Government\nLoans (Notice of Trusts) Ordinance, 1947, and shall\nbe deemed to have come into force on the 1st day of\nJuly, 1941."
+   }
+  },
+  {
+   "id": "MY-H512-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "2. In this Ordinance, unless the subject or context\notherwise requires—\n\n\"the Bank'' means the Bank servicing or managing\nany Government loan;\n\n‘Government loan'' means any loan at any time\nraised, or which may hereafter be raised, by the\nGovernment of the Union, or any loan raised before\nthe 1st day of April, 1946, by the Government of any\nterritory, now comprised in the Union, in accordance\nwith the provisions of any written law for the time\nbeing in force, and which is serviced or managed by\na Bank on behalf of the Government of the Union;\n\n‘stock'? means any stock or debenture stock issued\nin accordance with the terms of any Government\nloan;\n\n‘\"Union'' means the Malayan Union."
+   }
+  },
+  {
+   "id": "MY-H512-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "3. No notice of any trust, expressed, implied or\n\nconstructive, shall be entered on any register of stock\nor be receivable by the Bank in respect of any stock.\n\nShort title\nand com-\nmenoement.\n\nIntorpre-\ntation.\n\nExclusion\nof notice of\ntrusts in\nrespect of\nstock,"
+   }
+  }
+ ]
+}

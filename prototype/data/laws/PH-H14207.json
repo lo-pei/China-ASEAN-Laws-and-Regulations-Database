@@ -1,0 +1,62 @@
+{
+ "id": "PH-H14207",
+ "title": {
+  "zh": null,
+  "en": "An Act Amending Section One thousand and Fifty-Six of Act Numbered Twenty-Seven Hundred and Eleven, Commonly Known as the Administrative Code.",
+  "orig": "An Act Amending Section One thousand and Fifty-Six of Act Numbered Twenty-Seven Hundred and Eleven, Commonly Known as the Administrative Code."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1929-11-26",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3574",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 658,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1929/act_3574_1929.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03574_1929_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03574_1929_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14207-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section one thousand and fifty-six of Act Numbered Twenty-seven hundred and eleven is hereby\namended so as to read as follows:\n\"Section 1056. Duty of parents and guardians to have children forthcoming for vaccination.-Every parent,\nguardian, or person having charge of one or more children of one month of age or over shall see that they are\npresented for examination and vaccination at such place and time as may be specified by proper authority, and\nthat they are returned on the eighth day after such presentation to said place so that the result of the\nvaccination may be verified.\""
+   }
+  },
+  {
+   "id": "PH-H14207-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, November 26, 1929."
+   }
+  }
+ ]
+}

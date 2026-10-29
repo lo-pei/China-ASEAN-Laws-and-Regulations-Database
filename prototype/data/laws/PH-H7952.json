@@ -3,7 +3,11 @@
  "title": {
   "zh": "将Naga镇改制为市",
   "en": "An Act Converting the Municipality of Naga in the Province of Cebu into a Component City to be known as the City of Naga",
-  "orig": "An Act Converting the Municipality of Naga in the Province of Cebu into a Component City to be known as the City of Naga"
+  "orig": "An Act Converting the Municipality of Naga in the Province of Cebu into a Component City to be known as the City of Naga",
+  "vi": "Đạo luật chuyển đổi Thị trấn Naga tại Tỉnh Cebu thành Thành phố thành phần được biết đến với tên gọi Thành phố Naga",
+  "th": "พระราชบัญญัติแปลงสภาพเทศบาล Naga ในจังหวัด Cebu เป็นเมืององค์ประกอบให้เป็นที่รู้จักในชื่อเมือง Naga",
+  "id": "Undang-Undang mengubah status Kotamadya Naga di Provinsi Cebu menjadi Kota Komponen yang dikenali sebagai Kota Naga",
+  "ms": "Akta mengubah status Perbandaran Naga di Wilayah Cebu menjadi Bandaraya Komponen yang dikenali sebagai Bandaraya Naga"
  },
  "country": "PH",
  "countryName": "菲律宾",
@@ -27,14 +31,14 @@
  "structureMode": "ARTICLE",
  "structure": null,
  "articleCount": 66,
- "chars": 108963,
+ "chars": 108962,
  "source": {
   "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
   "url": "https://lawphil.net/statutes/repacts/ra2007/ra_9491_2007.html"
  },
  "sourceFile": null,
  "fetchedAt": "2026-10-06",
- "completenessNote": "全文，共 66 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra2007/ra_9491_2007.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "completenessNote": "全文，共 66 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra2007/ra_9491_2007.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原；已清除正文中的 1 个控制字符（C0/C1 区，法律文本中无合法用途，系 PDF 抽取/表单域残留）。",
  "textQuality": null,
  "ocrNoisySections": null,
  "pdfs": null,
@@ -201,7 +205,7 @@
     "en": "ARTICLE V"
    },
    "text": {
-    "en": "Sessions. -\n(a) On the first day of the session immediately following the election of its members, the sangguniang panlungsod shall, by resolution, fix the day, time and place of its sessions. The minimum number of regular sessions shall be once a week for the sangguniang panlungsod arid twice a month for the sangguniang barangay.\n(b) When the public interest so demands, special sessions may be called by the city mayor or by a majority of the members of the sanggunian.\n(c) All sanggunian sessions shall be open to the public unless a closed-door session is ordered by an affirmative vote of a majority of the members present, there being a quorum, in the public interest or for reasons of security, decency or morality. No two sessions, regular or special, may be held in a single day&acirc;€\n(d) In the case of special sessions of the sanggunian, a written notice to the members shall be served personally at the members&acirc;€™ usual place of residence at least twenty-four (24) hours before the special session is held.\nUnless concurred in by two-thirds (2/3) vote of the sanggunian members present, there being a quorum, no other matters may be considered at a special session except those. stated in the notice.\n(e) The sangguniang panlungsod shall keep a journal and a record of its proceedings which may be published upon resolution of the majority of its members."
+    "en": "Sessions. -\n(a) On the first day of the session immediately following the election of its members, the sangguniang panlungsod shall, by resolution, fix the day, time and place of its sessions. The minimum number of regular sessions shall be once a week for the sangguniang panlungsod arid twice a month for the sangguniang barangay.\n(b) When the public interest so demands, special sessions may be called by the city mayor or by a majority of the members of the sanggunian.\n(c) All sanggunian sessions shall be open to the public unless a closed-door session is ordered by an affirmative vote of a majority of the members present, there being a quorum, in the public interest or for reasons of security, decency or morality. No two sessions, regular or special, may be held in a single day&acirc;€\n(d) In the case of special sessions of the sanggunian, a written notice to the members shall be served personally at the members&acirc;€™ usual place of residence at least twenty-four (24) hours before the special session is held.\nUnless concurred in by two-thirds (2/3) vote of the sanggunian members present, there being a quorum, no other matters may be considered at a special session except those. stated in the notice.\n(e) The sangguniang panlungsod shall keep a journal and a record of its proceedings which may be published upon resolution of the majority of its members."
    }
   },
   {

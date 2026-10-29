@@ -1,0 +1,62 @@
+{
+ "id": "PH-H20882",
+ "title": {
+  "zh": null,
+  "en": "Modifying the Rates of Import Duty on Certain Imported Articles as Provided Under Presidential Decree No. 1464, Otherwise Known as the Tariff and Customs Code of 1978, as Amended",
+  "orig": "Modifying the Rates of Import Duty on Certain Imported Articles as Provided Under Presidential Decree No. 1464, Otherwise Known as the Tariff and Customs Code of 1978, as Amended"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p159",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1981-07-16",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Executive Order No. 706",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 828,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/07_行政命令_EO/EO_00706_1981_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 EO_00706_1981_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H20882-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Sec 1"
+   },
+   "text": {
+    "en": "The articles specifically listed in Annex \"A\" hereof as classified under Section 104 of Presidential\nDecree No. 1464, as amended, shall pay the rates of import duty to be applied by stages in accordance with\nthe schedule indicated opposite each article as listed in the aforementioned Annex \"A\": Provided, That the\nrates of duty indicated for 1985 shall continue to be levied, imposed and collected in the succeeding years\nuntil otherwise modified."
+   }
+  },
+  {
+   "id": "PH-H20882-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Sec 2"
+   },
+   "text": {
+    "en": "After the expiration of thirty (30) days from the issuance of this Order, all the above-described articles\nlisted in Annex \"A\", hereof entered or withdrawn from warehouse, in the Philippines, for consumption shall\nbe subject to the rates of import duty herein prescribed.\nDone in the City of Manila, this 16th day of July, in the year of Our Lord, nineteen hundred and eighty-one."
+   }
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "id": "PH-H15991",
+ "title": {
+  "zh": null,
+  "en": "An Act Penalizing the Sale or Disposition of Imported Eggs the Shells of Which Are Not Plainly Marked Imported as Herein Provided.",
+  "orig": "An Act Penalizing the Sale or Disposition of Imported Eggs the Shells of Which Are Not Plainly Marked Imported as Herein Provided."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1938-06-03",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 274",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 662,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00274_1938_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00274_1938_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H15991-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Any person, either for himself or on behalf of another person or persons, or on behalf of a\ncorporation or association who sells, offers for sale or in any manner disposes of, for a valuable consideration,\nimported eggs, fresh or preserved, in natural form, the shells of which are not plainly marked \"Imported from\n(name of country of origin)\" with cancelling ink or if such mark has been erased, blotted, wiped out, or in any\nway obliterated shall be punished by a fine of not more than two hundred pesos or an imprisonment of not\nmore than sixty days, or both, in the discretion of the court."
+   }
+  },
+  {
+   "id": "PH-H15991-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, June 3, 1938."
+   }
+  }
+ ]
+}

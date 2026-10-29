@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13193",
+ "title": {
+  "zh": null,
+  "en": "An Act Making Applicable to the Department of Mindanao and Sulu Act Numbered Twenty-Four Hundred and Seventy-Two.",
+  "orig": "An Act Making Applicable to the Department of Mindanao and Sulu Act Numbered Twenty-Four Hundred and Seventy-Two."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1915-07-19",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2522",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 516,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1915/act_2522_1915.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02522_1915_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02522_1915_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13193-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Act Numbered Twenty-four hundred and seventy-two of the Philippine Legislature, entitled \"An\nAct repealing Acts Numbered Eight hundred and seventeen, Eight hundred and thirty-four, and Twenty-one\nhundred and twenty-one by changing the method of appointment of locust boards, and.by denning the relation\nof the Bureau of Agriculture to locust boards, to be known as the 'Locust Act,' \" is hereby made applicable to\nthe Department of Mindanao and Sulu."
+   }
+  },
+  {
+   "id": "PH-H13193-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, July 19, 1915."
+   }
+  }
+ ]
+}

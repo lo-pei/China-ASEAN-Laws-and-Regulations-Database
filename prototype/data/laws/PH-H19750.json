@@ -1,0 +1,72 @@
+{
+ "id": "PH-H19750",
+ "title": {
+  "zh": null,
+  "en": "MALACAÑANG PMS LIBRARY BY THE PRESIDENT OF THE PHILIPPINES",
+  "orig": "MALACAÑANG PMS LIBRARY BY THE PRESIDENT OF THE PHILIPPINES"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p158",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Executive Order No. 388",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 415,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/07_行政命令_EO/EO_00388_2004.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 EO_00388_2004.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H19750-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "SECTION 1"
+   },
+   "text": {
+    "en": "Executive Order No. 256 dated December 8, 2003 is hereby"
+   }
+  },
+  {
+   "id": "PH-H19750-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "SECTION 2"
+   },
+   "text": {
+    "en": "All orders, issuances, rules and regulations or parts thereof\ninconsistent with this Executive Order are hereby repealed or modified\naccordingly."
+   }
+  },
+  {
+   "id": "PH-H19750-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "SECTION 3"
+   },
+   "text": {
+    "en": "This Executive Order shall take effect immediately.\nDONE in the City of Manila, this 2ur day of ikvarker in the year of our\nLord, two thousand and four.\nBy the Fresident:\nEDUARDO R. ERMITA\nExecutive Secretary\n28565"
+   }
+  }
+ ]
+}

@@ -1,0 +1,858 @@
+{
+ "id": "MY-H7035",
+ "title": {
+  "zh": "2016年民用航空（机场运营）条例",
+  "en": "CIVIL AVIATION (AERODROME OPERATIONS) REGULATIONS 2016",
+  "orig": "CIVIL AVIATION (AERODROME OPERATIONS) REGULATIONS 2016",
+  "ms": "Peraturan Penerbangan Awam (Operasi Aerodrom) 2016",
+  "vi": "Quy định về Hàng không dân dụng (Hoạt động sân bay) năm 2016",
+  "th": "ข้อบังคับการบินพลเรือน (การดำเนินงานสนามบิน) ค.ศ. 2016",
+  "id": "Peraturan Penerbangan Sipil (Operasi Bandar Udara) Tahun 2016"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-16",
+ "language": "ms",
+ "level": "regulation",
+ "category": "03_涉外投资与贸易",
+ "status": "active",
+ "promulgatedDate": "2016",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "PUA98",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 68,
+ "chars": 118817,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-view.php?type=pua&no=P.U. (A) 98/2016&status=PRINCIPAL"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\03_涉外投资与贸易\\2016_P.U.(A)98-2016_CIVIL AVIATION (AERODROME OPERATIONS) REGULATIONS 2016.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 68 条；逐字未改写（源自厂商 OCR 文本）。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H7035-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "1. Nama dan permulaan kuat kuasa"
+   }
+  },
+  {
+   "id": "MY-H7035-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "2. Pemakaian"
+   }
+  },
+  {
+   "id": "MY-H7035-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "3. Tafsiran\n\nBAHAGIAN II\nKATEGORI AERODROM"
+   }
+  },
+  {
+   "id": "MY-H7035-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "4. Kategori aerodrom\n\nBAHAGIAN III\nPENUBUHAN, PENYENGGARAAN DAN PENGENDALIAN AERODROM"
+   }
+  },
+  {
+   "id": "MY-H7035-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "5. Penubuhan aerodrom"
+   }
+  },
+  {
+   "id": "MY-H7035-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "6. Perakuan aerodrom"
+   }
+  },
+  {
+   "id": "MY-H7035-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "7. Perubahan manual aerodrom"
+   }
+  },
+  {
+   "id": "MY-H7035-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "8. Penyenggaraan dan pengendalian aerodrom"
+   }
+  },
+  {
+   "id": "MY-H7035-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "9. Perubahan kepada butiran dalam kebenaran, perakuan atau lesen"
+   }
+  },
+  {
+   "id": "MY-H7035-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "10. Pindah milik kebenaran, perakuan atau lesen"
+   }
+  },
+  {
+   "id": "MY-H7035-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "11. Penyerahan balik kebenaran, perakuan atau lesen\n\nBAHAGIAN IV\nOBLIGASI PENGENDALI AERODROM\nPeraturan"
+   }
+  },
+  {
+   "id": "MY-H7035-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "12. Obligasi pengendali aerodrom dalam menyenggara atau mengendalikan aerodrom"
+   }
+  },
+  {
+   "id": "MY-H7035-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "13. Pemberitahuan tentang masa pengendalian aerodrom"
+   }
+  },
+  {
+   "id": "MY-H7035-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "14. Kekompetenan kakitangan"
+   }
+  },
+  {
+   "id": "MY-H7035-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "15. Sistem pengurusan keselamatan"
+   }
+  },
+  {
+   "id": "MY-H7035-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "16. Penyimpanan barangan mudah terbakar dan barangan berbahaya"
+   }
+  },
+  {
+   "id": "MY-H7035-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "17. Pengalihan halangan dari aerodrom"
+   }
+  },
+  {
+   "id": "MY-H7035-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "18. Program pengurusan alam sekitar"
+   }
+  },
+  {
+   "id": "MY-H7035-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "19. Perlindungan alat bantu penerbangan"
+   }
+  },
+  {
+   "id": "MY-H7035-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "20. Obligasi am"
+   }
+  },
+  {
+   "id": "MY-H7035-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "21. Pemeriksaan khas"
+   }
+  },
+  {
+   "id": "MY-H7035-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "22. Notis amaran\n\nBAHAGIAN V\nALAT BANTU VISUAL AERONAUTIK"
+   }
+  },
+  {
+   "id": "MY-H7035-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "23. Alat bantu visual aeronautik\n\nBAHAGIAN VI\nLAMPU DARAT AERONAUTIK"
+   }
+  },
+  {
+   "id": "MY-H7035-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "24. Lampu darat aeronautik"
+   }
+  },
+  {
+   "id": "MY-H7035-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "25. Bekalan kuasa sekunder"
+   }
+  },
+  {
+   "id": "MY-H7035-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "26. Bikon aerodrom\n\nBAHAGIAN VII\nHAD HALANGAN DAN PENGALIHAN"
+   }
+  },
+  {
+   "id": "MY-H7035-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 27"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "27. Had halangan"
+   }
+  },
+  {
+   "id": "MY-H7035-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 28"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "28. Kebenaran untuk membina di sekitar aerodrom"
+   }
+  },
+  {
+   "id": "MY-H7035-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Section 29"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "29. Pemasangan kelengkapan di tapak udara\n\nPeraturan"
+   }
+  },
+  {
+   "id": "MY-H7035-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Section 30"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "30. Penandaan dan penyalaan halangan\n\nBAHAGIAN VIII\nPELAN KECEMASAN AERODROM"
+   }
+  },
+  {
+   "id": "MY-H7035-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Section 31"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "31. Pelan kecemasan aerodrom\n\nBAHAGIAN IX\nPELAN PENGURUSAN BAHAYA HIDUPAN LIAR"
+   }
+  },
+  {
+   "id": "MY-H7035-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Section 32"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "32. Pelan pengurusan bahaya hidupan liar\n\nBAHAGIAN X\nPERKHIDMATAN PENGENDALIAN AERODROM"
+   }
+  },
+  {
+   "id": "MY-H7035-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Section 33"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "33. Perkhidmatan menyelamat dan memadamkan api"
+   }
+  },
+  {
+   "id": "MY-H7035-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "Section 34"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "34. Bekalan bahan api penerbangan"
+   }
+  },
+  {
+   "id": "MY-H7035-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "Section 35"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "35. Pengalihan kapal udara yang tidak dapat digunakan"
+   }
+  },
+  {
+   "id": "MY-H7035-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "Section 36"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "36. Perkhidmatan pengurusan apron"
+   }
+  },
+  {
+   "id": "MY-H7035-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "Section 37"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "37. Program pemeriksaan keselamatan\n\nBAHAGIAN XI\nPERATURAN-PERATURAN YANG BERHUBUNGAN DENGAN KAWASAN PERGERAKAN"
+   }
+  },
+  {
+   "id": "MY-H7035-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "Section 38"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "38. Akses kenderaan ke kawasan pergerakan dan kawasan olah gerak"
+   }
+  },
+  {
+   "id": "MY-H7035-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "Section 39"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "39. Pas lapangan terbang dan pas lapangan terbang sementara"
+   }
+  },
+  {
+   "id": "MY-H7035-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "Section 40"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "40. Pengendalian kenderaan di kawasan pergerakan"
+   }
+  },
+  {
+   "id": "MY-H7035-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "Section 41"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "41. Permit kenderaan tapak udara"
+   }
+  },
+  {
+   "id": "MY-H7035-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "Section 42"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "42. Permit masuk sementara"
+   }
+  },
+  {
+   "id": "MY-H7035-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "Section 43"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "43. Masuk kerana kecemasan"
+   }
+  },
+  {
+   "id": "MY-H7035-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "Section 44"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "44. Permit memandu tapak udara\n\nPeraturan"
+   }
+  },
+  {
+   "id": "MY-H7035-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "Section 45"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "45. Pagaran aerodrom dan pepasangan"
+   }
+  },
+  {
+   "id": "MY-H7035-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "Section 46"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "46. Ketua Pengarah boleh mengeluarkan arahan\n\nBAHAGIAN XII\nPENYENGGARAAN AERODROM"
+   }
+  },
+  {
+   "id": "MY-H7035-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "Section 47"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "47. Program penyenggaraan"
+   }
+  },
+  {
+   "id": "MY-H7035-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "Section 48"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "48. Penyenggaraan laluan jalan kaki"
+   }
+  },
+  {
+   "id": "MY-H7035-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "Section 49"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "49. Penyenggaraan alat bantu visual aeronautik"
+   }
+  },
+  {
+   "id": "MY-H7035-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "Section 50"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "50. Kerja semasa pengendalian jarak penglihatan rendah"
+   }
+  },
+  {
+   "id": "MY-H7035-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "Section 51"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "51. Kerja di aerodrom\n\nBAHAGIAN XIII\nSISTEM ELEKTRIK AERODROM"
+   }
+  },
+  {
+   "id": "MY-H7035-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "Section 52"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "52. Sistem elektrik aerodrom\n\nBAHAGIAN XIV\nPELAPORAN MAKLUMAT"
+   }
+  },
+  {
+   "id": "MY-H7035-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "Section 53"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "53. Maklumat kepada pengguna aerodrom"
+   }
+  },
+  {
+   "id": "MY-H7035-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "Section 54"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "54. Pemberitahuan dan pelaporan\n\nBAHAGIAN XV\nPENEMPATAN, PARKIR DAN KEMUDAHAN PENERBANGAN UDARA"
+   }
+  },
+  {
+   "id": "MY-H7035-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "Section 55"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "55. Penempatan kapal udara"
+   }
+  },
+  {
+   "id": "MY-H7035-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "Section 56"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "56. Parkir kapal udara"
+   }
+  },
+  {
+   "id": "MY-H7035-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "Section 57"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "57. Caj kemudahan penerbangan udara"
+   }
+  },
+  {
+   "id": "MY-H7035-A58",
+   "no": 58,
+   "noLabel": {
+    "en": "Section 58"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "58. Perkiraan bagi pembayaran caj penempatan dan kemudahan penerbangan udara\n\nBAHAGIAN XVI\nPELBAGAI\nPeraturan"
+   }
+  },
+  {
+   "id": "MY-H7035-A59",
+   "no": 59,
+   "noLabel": {
+    "en": "Section 59"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "59. Lapangan terbang kastam"
+   }
+  },
+  {
+   "id": "MY-H7035-A60",
+   "no": 60,
+   "noLabel": {
+    "en": "Section 60"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "60. Langkah keselamatan terhadap kebakaran"
+   }
+  },
+  {
+   "id": "MY-H7035-A61",
+   "no": 61,
+   "noLabel": {
+    "en": "Section 61"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "61. Penjalanan ujian enjin kapal udara"
+   }
+  },
+  {
+   "id": "MY-H7035-A62",
+   "no": 62,
+   "noLabel": {
+    "en": "Section 62"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "62. Tindakan tertentu yang dilarang di aerodrom"
+   }
+  },
+  {
+   "id": "MY-H7035-A63",
+   "no": 63,
+   "noLabel": {
+    "en": "Section 63"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "63. Cahaya berbahaya"
+   }
+  },
+  {
+   "id": "MY-H7035-A64",
+   "no": 64,
+   "noLabel": {
+    "en": "Section 64"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "64. Penggantungan, perubahan dan pembatalan kebenaran, perakuan atau lesen"
+   }
+  },
+  {
+   "id": "MY-H7035-A65",
+   "no": 65,
+   "noLabel": {
+    "en": "Section 65"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "65. Pengawasan pengawalseliaan keselamatan"
+   }
+  },
+  {
+   "id": "MY-H7035-A66",
+   "no": 66,
+   "noLabel": {
+    "en": "Section 66"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "66. Notis, surat pekeliling, arahan dan maklumat"
+   }
+  },
+  {
+   "id": "MY-H7035-A67",
+   "no": 67,
+   "noLabel": {
+    "en": "Section 67"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "67. Kesalahan yang berhubungan dengan dokumen dan rekod"
+   }
+  },
+  {
+   "id": "MY-H7035-A68",
+   "no": 68,
+   "noLabel": {
+    "en": "Section 68"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "68. Penalti\n\nJADUAL\n\nAKTA PENERBANGAN AWAM 1969\n\nPERATURAN-PERATURAN PENERBANGAN AWAM (PENGENDALIAN AERODROM) 2016\n\nPADA menjalankan kuasa yang diberikan oleh subseksyen 3(1) dan\nperenggan 3(2)(dd), (e) dan (f) Akta Penerbangan Awam 1969 [ Akta 3 ],\nMenteri membuat peraturan-peraturan yang berikut:\n\nBAHAGIAN I\nPERMULAAN\n\nNama dan permulaan kuat kuasa\n1. (1)  Peraturan-peraturan ini bolehlah dinamakan Peraturan-Peraturan\nPenerbangan Awam (Pengendalian Aerodrom) 2016.\n\n(2) Peraturan-Peraturan ini mula berkuat kuasa pada 15 April 2016.\n\nPemakaian\n2. (1) Peraturan-Peraturan ini terpakai bagi aerodrom Kategori 1, 2, 3 dan 4.\n\n(2) Peraturan-Peraturan ini tidak terpakai bagi aerodrom angkatan tentera.\n\nTafsiran\n3. Dalam Peraturan-Peraturan ini—\n\n\"apron\" mempunyai erti yang diberikan kepadanya dalam Peraturan -Peraturan\nPenerbangan Awam 2016 [P.U. (A) 97 /2016];\n\n\"bahaya hidupan liar\" ertinya suatu potensi bagi suatu perlanggaran kapal udara\ndengan hidupan liar di atau berhampiran dengan suatu aerodrom;\n\n\"halangan\" ertinya suatu benda tetap, sama ada sementara atau kekal, atau benda\nbergerak, atau mana-mana bahagian benda itu—\n\n(a) yang terletak di suatu kawasan yang dima ksudkan untuk pergerakan\npermukaan suatu kapal udara;\n\n(b) yang melebihi suatu permukaan yang ditentukan yang dimaksudkan untuk\nmelindungi kapal udara dalam penerbangan; atau\n\n(c) yang terletak di luar permukaan yang ditentukan itu dan telah dinilai sebagai\nsuatu bahaya kepada penerbangan udara;\n\n\"halangan yang dibenarkan\" ertinya apa -apa halangan yang dibenarkan oleh\nKetua Pengarah di atas jalur landasan, kawasan keselamatan hujung landasan,\njalur jalan teksi atau dalam jarak lega landasan jalan teksi atau di atas laluan lega;\n\n\"hidupan liar\" termasuklah burung liar dan binatang jinakan;\n\n\"jalan te ksi\" ertinya suatu laluan yang ditentukan di atas suatu ae rodrom yang\ndiadakan untuk pente ksian kapal udara dan dimaksudkan untuk menyediakan suatu\nsambungan di antara satu bahagian aerodrom dengan bahagian yang lain,\ntermasuklah—\n\n(a) suatu lorong teksi tempat letak kapal udara, yang merupakan suatu bahagian\napron yang ditentukan sebagai jalan te ksi dan dimaksudkan untuk\nmenyediakan akses kepada tempat letak kapal udara sahaja;\n\n(b) suatu jalan te ksi apron, yang merupakan suatu bahagian sistem jalan te ksi\nyang terletak di atas suatu apron dan dimaksu dkan untuk menyediakan\nlaluan teksi merentasi apron itu; atau\n\n(c) suatu jalan te ksi keluar pesat, yang merupakan suatu jalan te ksi yang\nbersambung dengan landasan pada suatu sudut akut dan direka bentuk\nuntuk membenarkan kapal udara yang mendarat untuk dimatikan pada\nkelajuan yang lebih tinggi berb anding yang dicapai di  atas jalan te ksi keluar\nyang lain dan dengan itu meminimumkan masa duduk di atas landasan;\n\n \"jalur jalan te ksi\" ertinya suatu kawasan di aerodrom termasuklah suatu jalan\nteksi  yang dimaksudkan untuk melindungi kapal udara yang dikendalikan di atas jalan\nteksi dan untuk mengurangkan risiko kerosakan kepada suatu kapal udara yang dengan\ntidak sengaja terbabas dari jalan teksi;\n\n\"jalur landasan\" ertinya suatu kawasan yang dite ntukan di suatu aerodrom,\ntermasuklah landasan dan laluan hentian, jika disediakan, yang dimaksudkan—\n\n(a) untuk mengurangkan risiko kerosakan kepada kapal udara yang terbabas\ndari landasan; dan\n\n(b) untuk melindungi kapal udara yang terbang melintasinya semasa\npengendalian pelepasan atau pendaratan;\n\n\"kapal udara\" mempunyai erti yang diberikan kepadanya dalam\nPeraturan-Peraturan Penerbangan Awam 2016;\n\n\"kawasan olah gerak\" mempunyai erti yang diberikan kepadanya dalam\nPeraturan-Peraturan Penerbangan Awam 2016;\n\n\"kawasan pergerakan\" ertinya bahagian suatu aerodrom yang digunakan bagi\npelepasan, pendaratan dan pente ksian suatu kapal udara, yang terdiri daripada\nkawasan olah gerak dan apron;\n\n\"kemudahan\" termasuklah—\n\n(a) jalan berturap;\n\n(b) alat bantu pandang;\n\n(c) pagaran;\n\n(d) kelengkapan komunikasi, penerbangan dan pengawasan;\n\n(e) sistem perparitan; dan\n\n(f) bangunan;\n\n\"lampu aeronautik darat\" ertinya apa -apa lampu yang disediakan khusus sebagai\nalat bantu kepada penerbangan udara  selain lampu yang ditunjukkan pada suatu kapal\nudara;\n\n\"landasan\" ertinya suatu kawasan segi empat yang ditentukan di atas suatu\naerodrom darat yang dimaksudkan untuk pelepasan dan pendaratan kapal udara;\n\n\"malam\" mempunyai erti yang diberikan kepadanya d alam Peraturan -Peraturan\nPenerbangan Awam 2016;\n\n\"penandaan\" ertinya su atu simbol atau kumpulan simbol  di atas suatu aerodrom\nyang ditunjukkan pada permukaan kawasan pergerakan bagi menyampaikan maklumat\naeronautik;\n\n\"pengangkutan udara komersial\" mempunya i erti yang diberikan kepadanya\ndalam Peraturan-Peraturan Penerbangan Awam 2016;\n\n\"pengendali aerodrom\" ertinya—\n\n(a) mana-mana orang yang dilesenkan di bawah p eraturan 6 untuk\nmenyenggara atau mengendalikan aerodrom Kategori 2 atau 4; atau\n\n(b) mana-mana orang yang dilesenkan di bawah seksyen 38 Akta Suruhanjaya\nPenerbangan Malaysia  2015 [Akta 771 ] untuk mengendalikan aerodrom\nKategori 1 atau 3;\n\n\"perkhidmatan penerbangan udara\" mempunyai erti yang diberikan kepadanya\ndalam Peraturan-Peraturan Penerbangan Awam 2016;\n\n\"permukaan had halangan\" ertinya suatu siri permukaan yang menentukan isi\npadu ruang udara di dan di sekeliling suatu aerodrom untuk dikekalkan bebas halangan\nbagi membolehkan pengendalian kapal udara yang dimaksudkan dijalankan de ngan\nselamat dan untuk mencegah aerodrom itu daripada menjadi tidak boleh digunakan\nakibat pertumbuhan halangan di sekeliling aerodrom itu;\n\n\"rekod\" mempunyai erti yang diberikan kepadanya dalam Peraturan -Peraturan\nPenerbangan Awam 2016;\n\n\"sekitar\" ertinya suatu ruang udara yang ditentukan di sekeliling suatu aerodrom\nbagi mengawal halangan yang boleh melanggar permukaan had halangan  di sekeliling\naerodrom itu, yang terletak dalam lingkungan radius 15, 000 meter dari aerodrom itu;\n\n\"tanda\" termasuk lah suatu isyarat, tanda amar an, tiang, tiang penunjuk arah ,\ngarisan, lampu dan peranti lain bagi panduan atau arahan seseorang yang mengunakan\nsuatu kawasan olah gerak;\n\n\"tapak udara\" ertinya kawasan pergerakan suatu aerodrom, muka bumi\nbersebelahan dan apa -apa bangunan atau  mana-mana bahagian bangunan itu, yang\nakses kepadanya dikawal;\n\n\"unit perkhidmatan penerbangan udara\"  termasuklah unit kawalan lalu  lintas\nudara, pusat maklumat penerbangan dan pejabat pelapo ran perkhidmatan\npenerbangan udara.\n\nBAHAGIAN II\nKATEGORI AERODROM\n\nKategori aerodrom\n4. Bagi maksud Peraturan -Peraturan ini, aerodrom hendaklah dikategorikan seperti\nyang berikut:\n\n(a) Kategori 1: aerodrom Kerajaan yang boleh digunakan oleh kapal udara\npengangkutan udara komersial;\n\n(b) Kategori 2: aerodrom Kerajaan yang tidak boleh digunakan oleh kapal udara\npengangkutan udara komersial;\n\n(c) Kategori 3: aerodrom persendirian yang boleh digunakan oleh kapal udara\npengangkutan udara komersial; dan\n\n(d) Kategori 4: aerodrom persendirian yang tidak boleh digunakan oleh kapal\nudara pengangkutan udara komersial.\n\nBAHAGIAN III\nPENUBUHAN, PENYENGGARAAN DAN PENGENDALIAN AERODROM\n\nPenubuhan aerodrom\n5. (1) Tiada seorang pun boleh menubuhkan suatu aerodrom melainkan jika orang\nitu dibenarkan oleh Menteri.\n\n(2) Suatu permohonan bagi kebenaran hendaklah―\n\n(a) dibuat kepada Menteri dalam bentuk dan cara disertakan dengan\ndokumen dan maklumat, sebagaimana yang ditentukan oleh Menteri;\n\n(b) disertakan dengan fi yang ditetapkan; dan\n\n(c) mengikut apa -apa kehendak sebagaimana y ang ditentukan oleh\nMenteri.\n\n(3) Jika Menteri berpuas hati bahawa  pemohon telah memenuhi kehendak\ndalam subperaturan (2), Menteri boleh membenarkan pemohon itu untuk menubuhkan\n\nsuatu aerodrom tertakluk kepada terma dan syarat sebagaimana yang dikenakan oleh\nMenteri.\n\n(4) Kebenaran untuk menubuhkan suatu aerodrom di bawah subperaturan (3)\nhendaklah sah bagi suatu tempoh sebagaimana yang ditentukan oleh Menteri  dan\nkebenaran itu boleh diubah atau dilanjutkan.\n\n(5) Suatu permohonan untuk mengubah atau melanjutkan kebenaran hendaklah\ndibuat menurut subperaturan (2).\n\n(6) Suatu permohonan untuk melanjutkan kebenaran hendaklah dibuat tidak\nkurang daripada enam puluh hari sebelum tarikh tamat tempoh kebenaran.\n\nPerakuan aerodrom\n6. (1) Tiada seorang pun boleh menyenggara atau mengendalikan suatu aerodrom\nmelainkan jika orang itu mempunyai suatu perakuan aerodrom yang dikeluarkan oleh\nKetua Pengarah.\n\n(2) Suatu permohonan bagi suatu perakuan aerodrom hendaklah—\n\n(a) dibuat kepada Ketua Pengarah dalam bentuk dan cara sebagaimana\nyang ditentukan oleh Ketua Pengarah;\n\n(b) disertakan dengan suatu manual aerodrom dan apa -apa dokumen dan\nmaklumat sebagaimana yang ditentukan oleh Menteri;\n\n(c) disertakan dengan fi yang ditetapkan; dan\n\n(d) mengikut apa -apa kehendak sebagaimana yang ditentukan oleh\nKetua Pengarah.\n\n(3) Ketua Pengarah boleh mengeluarkan suatu perakuan aerodrom jika dia\nberpuas hati bahawa pemohon itu telah memenuhi kehendak dalam subperaturan (2).\n\n(4) Perakuan aerodrom itu hendaklah sah bagi suatu tempoh sebagaimana yang\nditentukan oleh Ketua Pengarah dan perakuan itu boleh diubah atau dibaharui.\n\n(5) Suatu permohonan untuk mengubah atau membaharui suatu perakuan\naerodrom hendaklah—\n\n(a) dibuat secara bertulis kepada Ketua Pengarah dan dalam hal\npembaharuan, permohonan, hendaklah dibuat tidak kurang daripa da\nenam puluh hari sebelum tarikh tamat perakuan aerodrom itu;\n\n(b) disertakan dengan fi yang ditetapkan; dan\n\n(c) mengikut apa -apa kehendak sebagaimana yang ditentukan oleh\nKetua Pengarah.\n\n(6) Ketua Pengarah boleh mengenakan terma dan syarat atas pengeluaran ,\nperubahan atau pembaharuan suatu perakuan aerodrom di bawah peraturan ini.\n\nPerubahan manual aerodrom\n7. (1) Suatu permohonan untuk mengubah suatu manual aerodrom yang menjadi\nsebahagian daripada per mohonan bagi suatu perakuan aerodrom  di bawah\nsubperaturan 6(2) hendaklah—\n\n(a) dibuat kepada Ketua Pengarah dalam bentuk dan disertakan dengan\ndokumen dan maklumat , sebagaimana yang ditentukan oleh Ketua\nPengarah; dan\n\n(b) disertakan dengan fi yang ditetapkan.\n\n(2) Ketua Pengarah boleh mengubah suatu manual aerodrom jika dia berpuas\nhati bahawa pemohon itu telah memenuhi kehendak di bawah subperaturan (1).\n\n(3) Ketua Pengarah boleh mengenakan terma dan syarat atas perubahan manual\naerodrom di bawah peraturan ini.\n\nPenyenggaraan dan pengendalian aerodrom\n8. (1) Tiada seorang pun boleh menyenggara atau mengendali kan suatu aerodrom\nKategori 2 atau 4 melainkan jika orang itu mempunyai suatu lesen yang dikeluarkan\noleh Menteri.\n\n(2) Suatu permohonan bagi pengeluaran suatu lesen di bawah subperaturan (1)\nhendaklah—\n\n(a) dibuat kepada Menteri dalam bentuk dan cara dan disertakan dengan\ndokumen dan maklumat, sebagaimana yang ditentukan oleh Menteri;\n\n(b) disertakan dengan fi yang ditetapkan; dan\n\n(c) mengikut apa -apa kehendak sebagaimana yang ditentukan oleh\nMenteri.\n\n(3)  Menteri boleh mengeluarkan suatu lesen kepada pemohon jika dia berpuas\nhati bahawa pemohon itu—\n\n(a) mempunyai suatu perakuan aerodrom di bawah peraturan 6; dan\n\n(b)  telah memenuhi kehendak dalam subperaturan (2).\n\n(4) Lesen untuk menyenggara  atau mengendali kan suatu aerodrom  Kategori 2\natau 4 hendaklah sah bagi suatu tempoh sebagaimana yang ditentukan oleh Menteri dan\nlesen itu boleh diubah atau dibaharui.\n\n(5) Suatu permohonan untuk mengubah atau membaharui lesen hendaklah—\n\n(a) dibuat secara bertulis kepada Menteri dan dalam hal pembaharuan,\npermohonan hendaklah dibuat tidak kurang daripada enam puluh hari\nsebelum tarikh tamat lesen itu;\n\n(b) disertakan dengan fi yang ditetapkan; dan\n\n(c) mengikut apa -apa kehendak sebagaimana  yang ditentukan oleh\nMenteri.\n\n(6) Menteri boleh mengenakan apa-apa terma dan syarat atas pengeluaran ,\nperubahan atau pembaharuan lesen di bawah peraturan ini.\n\nPerubahan kepada butiran dalam kebenaran, perakuan atau lesen\n9. Mana-mana orang yang  mempunyai kebenaran , perakuan atau lesen di bawah\nPeraturan-Peraturan ini hendaklah memaklumkan Menteri atau Ketua Pengarah,\nmengikut mana -mana yang berkenaan, secara bertulis mengenai apa-apa perubahan\ntentang—\n\n(a) alamat perniagaan yang tertera pada  kebenaran, perakuan atau lesen  itu,\ndalam tempoh empat belas hari sebelum tarikh pertukaran alamat\nperniagaan itu; atau\n\n(b) alamat surat -menyurat yang tertera pada  kebenaran, perakuan atau lesen\napabila alamat surat-menyurat itu berubah.\n\nPindah milik kebenaran, perakuan atau lesen\n10. Suatu kebenaran , perakuan atau lesen yang dikeluarkan di bawah\nPeraturan-Peraturan ini khas untuk orang yang kepadanya  kebenaran, perakuan atau\nlesen itu dikeluarkan dan tidak boleh dipindah  milik atau diserah  hak kepada\nmana-mana orang lain.\n\nPenyerahan balik kebenaran, perakuan atau lesen\n11. (1)  Seseorang yang mempunyai kebenaran, perakuan atau lesen ya ng\ndikeluarkan di bawah Peraturan -Peraturan ini boleh menyerahkan balik  kebenaran,\nperakuan atau lesen  itu dengan memberikan notis secara bertulis kepada Menteri atau\nKetua Pengarah, mengikut mana -mana yang berkenaan, tidak kurang daripada\nsembilan puluh hari sebelum tarikh penyerahan balik yang dicadangkan.\n\n(2) Jika Menteri  atau Ketua Pengarah, mengikut mana -mana yang berkenaan,\nmembenarkan penyerahan balik  kebenaran, perakuan atau lesen oleh orang itu,\npenyerahan balik  itu hendaklah berkuat kuasa enam bulan dari tarikh Menteri atau\nKetua Pengarah menerima notis bertulis di bawah subperaturan (1) atau pada tarikh\nlain sebagaimana yang ditentukan oleh Menteri atau Ketua Pengarah, dan orang itu\nhendaklah—\n\n(a) mengambil langkah dan  memberikan bantuan sebagaimana\ndikehendaki oleh Menteri atau Ketua Pengarah; dan\n\n(b) menyerahkan balik kebenaran, perakuan atau lesen itu kepada Menteri\natau Ketua Pengarah pada atau sebelum tarikh kuat kuasa penyerahan\nbalik itu.\n\n(3) Penyerahan balik kebenaran, perakuan atau lesen di bawah subperaturan\n(1) tidak boleh ditarik balik melainkan  jika Menteri atau Ketua Pengarah , mengikut\nmana-mana yang berkenaan, membenarkan penyerahan balik itu ditarik balik.\n\nBAHAGIAN IV\nOBLIGASI PENGENDALI AERODROM\n\nObligasi pengendali aerodrom dalam menyenggara atau mengendalikan\naerodrom\n12. Pengendali aerodrom yang menyenggara atau mengendalikan suatu aerodrom\nhendaklah—\n\n(a) memastikan kemudahan dan spesifikasi aerodrom itu memenuhi keperluan\nkapal udara yang baginya aerodrom itu dimaksudkan;\n\n(b) memastikan kemudahan berada dalam keadaan yang dapat digunakan dan\nsemua radas yang dipasang di aerodrom itu berfungsi;\n\n(c) memastikan spesifikasi aerodrom itu mematuhi standard sebagaimana yang\nditentukan oleh Ketua Pengarah;\n\n(d) memastikan pengendalian aerodrom itu dilaksanakan mengikut manual\naerodrom;\n\n(e) memastikan perkhidmatan yang disediakan di aerodrom itu dalam keadaan\nyang dapat digunakan;\n\n(f) memastikan penyenggaraan kemudahan aerodrom mematuhi standard\nsebagaimana yang ditentukan oleh Ketua Pengarah;\n\n(g) jika perkhidmatan penerbangan udara disediakan di aerodrom itu ,\nmenyelaraskan dengan orang yang menyediakan perkhidmatan\npenerbangan udara untuk memastikan keselamatan mana-mana kapal udara\nyang dikendalikan di aerodrom itu; dan\n\n(h) memastikan semua orang yang melaksanakan aktiviti di aerodrom itu\nmematuhi apa -apa kehendak sebagaimana yang ditentukan oleh\nKetua Pengarah.\n\nPemberitahuan tentang masa pengendalian aerodrom\n13. Pengendali aerodrom hendaklah memberitahu atau menyebabkan supaya\ndiberitahu kepada pengendali kapal udara tentang masa aerodrom boleh digunakan\nbagi pelepasan dan pendaratan kapal udara itu.\n\nKekompetenan kakitangan\n14. (1) Pengendali aerodrom hendaklah—\n\n(a) memastikan terdapat jumlah kakitangan yang berkelayakan dan\nberkemahiran yang mencukupi untuk melaksanakan tugas yang\nberkaitan bagi penyenggaraan dan pengendalian aerodrom; dan\n\n(b) melaksanakan apa -apa program yang boleh meningkatkan\nkekompetenan kakitangan pengendali aerodrom itu.\n\n(2) Ketua Pengarah boleh, pada bila -bila masa, mengarahkan pengendali\naerodrom untuk mengemukakan keterangan bahawa pengendali aerodrom itu\nmematuhi kehendak di bawah perenggan (1)(a) dan (b) dan pengendali aerodrom itu\nhendaklah mematuhi arahan itu.\n\nSistem pengurusan keselamatan\n15. Pengendali aerodrom yang menyenggara atau mengendalikan aerodrom\nKategori 1 atau 3 hendaklah  mengadakan suatu sistem pengurusan keselamatan  dan\nhendaklah memastikan sistem penguru san keselamatan itu disenggara,\ndilaksanakan dan dipatuhi.\n\nPenyimpanan barangan mudah terbakar dan barangan berbahaya\n16. (1) Tiada pengendali aerodrom boleh menyimpan atau menyebabkan supaya\ndisimpan apa -apa barang an mudah terbakar atau barang an berbahaya di suatu\naerodrom kecuali dengan kebenaran Ketua Pengarah.\n\n (2) Bagi maksud peraturan ini, \"barangan berbahaya\" ertinya artikel atau bahan\nyang—\n\n(a) boleh mendatangkan apa-apa risiko kepada kesihatan, keselamatan,\nharta benda atau alam sekitar; dan\n\n(b) disenaraikan atau dikelaskan sebagai barang an berbahaya dalam\nArahan-Arahan Teknikal bagi Pengangkutan Barangan Berbahaya\nMelalui Udara  (Dok 9284), diluluskan dan dikeluarkan mengikut\ntatacara yang diadakan oleh Pertubuhan Penerbangan Awam\nAntarabangsa (ICAO).\n\nPengalihan halangan dari aerodrom\n17. Pengendali aerodrom hendaklah mengalihkan dari suatu aerodrom apa -apa\nhalangan, selain halangan yang dibenarkan, yang boleh membahayakan pengendalian\nkapal udara.\n\nProgram pengurusan alam sekitar\n18. Pengendali aerodrom yang menyenggara atau mengendalikan aerodrom\nKategori 1 atau 3 hendaklah mengadakan suatu program pengurusan alam sekitar  dan\nhendaklah memastikan program pengurusan alam sekitar itu disenggara dan dipatuhi.\n\nPerlindungan alat bantu penerbangan\n19. Pengendali aerodrom tidak boleh—\n\n(a) membangunkan atau menyebabkan supaya dibangunkan, apa -apa\nkemudahan di atas suatu aerodrom , yang boleh menjejaskan pengendalian\napa-apa kemudahan elektronik, visual penerbangan atau perkhidmatan\npenerbangan udara di aerodrom itu; dan\n\n(b) menjalankan atau menyebabkan supaya apa-apa aktiviti dijalankan yang\nboleh menyebabkan gangguan kepada apa-apa kemudahan elektronik, visual\npenerbangan atau perkhidmatan penerbangan udara di aerodrom itu.\n\nObligasi am\n20. (1) Pengendali aerodrom hendaklah—\n\n(a) memastikan aerodrom bebas daripada  mana-mana orang yang tidak\ndibenarkan, kenderaan, atau haiwan yang tidak berada di bawah\nkawalan yang sewajarnya;\n\n(b) memastikan aerodrom bebas daripada apa -apa halangan, selain\nhalangan yang dibenarkan , yang boleh mendatangkan bahaya kepada\npengendalian kapal udara;\n\n(c) menanda apa -apa halangan yang dibenarkan mengikut apa -apa\nkehendak sebagaimana yang ditentukan oleh Ketua Pengarah;\n\n(d) memaklumkan Ketua Pengarah berkenaan dengan apa-apa\npengubahsuaian kepada halangan yang dibenarkan atau kerja -kerja di\ntapak udara suatu aerodrom;\n\n(e) memasang penunjuk arah ang in untuk menunjukkan arah angin  di\npermukaan dan memastikan penunjuk arah angin itu berfungsi;\n\n(f) menyenggara tanda dalam keadaan yang mudah dilihat dan\nmemastikan penandaan itu tersedia boleh dilihat oleh kapal udara di\nudara atau yang bergerak di darat mengikut apa -apa kehendak\nsebagaimana yang ditentukan oleh Ketua Pengarah;\n\n(g) menanda kawasan di atas kawasan pendaratan yang tidak dapat\ndigunakan mengikut apa -apa kehendak sebagaimana yan g ditentukan\noleh Ketua Pengarah;\n\n(h) memaklumkan Ketua Pengarah, jika suatu aerodrom tidak dapat\ndigunakan atau jika mana -mana bahagian di permukaan kawasan\n\npendaratan merosot kepada suatu tahap yang boleh menjejaskan\npengendalian kapal udara yang selamat; dan\n\n(i) mengemukakan kepada Ketua Pengarah laporan tentang keadaan\nsuatu aerodrom mengikut apa -apa kehendak sebagaimana yang\nditentukan oleh Ketua Pengarah.\n\n (2) Bagi maksud peraturan ini, \"kawasan pendaratan\" ertinya su atu bahagian\nkawasan pergerakan di aero drom yang dimaksudkan bagi pelepasan dan pendaratan\nkapal udara.\n\nPemeriksaan khas\n21. (1) Pengendali aerodrom hendaklah memeriksa sesuatu aerodrom—\n\n(a) secepat yang dapat dilaksanakan  selepas apa -apa kemalangan atau\ninsiden;\n\n(b) pada mana-mana tempoh pembinaan atau pembaikan kemudahan atau\nkelengkapan aerodrom yang penting kepada keselamatan\npengendalian kapal udara; dan\n\n(c) pada mana-mana masa lain apabila terdapat keadaan di aerodrom itu\nyang boleh menjejaskan keselamatan penerbangan.\n\n(2)  Pengendali aerodrom hen daklah melaporkan kepada Ketua P engarah\nberkenaan dengan apa-apa pemeriksaan yang dijalankan di bawah subperaturan (1),\ndalam had masa yang dinyatakan dalam bentuk dan cara sebagaimana yang ditentukan\noleh Ketua Pengarah.\n\nNotis amaran\n22. Apabila suatu kapal udara terbang rendah, di atau berhampiran dengan suatu\naerodrom, atau apabila suatu kapal udara yang sedang menteksi berkemungkinan\n\nmendatangkan bahaya kepada orang atau kenderaan, pengendali aerodrom\nhendaklah—\n\n(a) jika suatu laluan  awam adalah da lam kawalan pengendali aerodrom  itu,\nmenampalkan notis amaran bahaya pada mana -mana laluan awam yang\nbersebelahan dengan kawasan olah gerak itu; atau\n\n(b) jika suatu laluan awam tidak dikawal oleh pengendali aerodrom,\nmemaklumkan bahaya itu kepada pihak berkuasa yang berkaitan.\n\nBAHAGIAN V\nALAT BANTU VISUAL AERONAUTIK\n\nAlat bantu visual aeronautik\n23. Pengendali aerodrom hendaklah menyediakan alat bantu visual aeronautik\ndi aerodrom sebagaimana yang ditentukan oleh Ketua Pengarah.\n\nBAHAGIAN VI\nLAMPU DARAT AERONAUTIK\n\nLampu darat aeronautik\n24. (1) Peraturan ini terpakai bagi aerodrom yang digunakan pada waktu malam\ndan semasa jarak penglihatan yang tidak baik.\n\n(2) Pengendali aerodrom hendaklah mengadakan dan menyenggara lampu darat\naeronautik dan apa-apa lampu lain sebagaimana yang diperlukan bagi pengendalian\nkapal udara yang selamat dan bagi kawasan pergerakan aerodrom mengikut apa -apa\nkehendak sebagaimana yang ditentukan oleh Ketua Pengarah.\n\n(3)  Pengendali aerodrom hendaklah memastikan lampu darat aeronautik dan\napa-apa lampu lain di bawah subperaturan (2) yang dipasang di aerodrom dinyalakan.\n\n(4)  Pengendali aerodrom henda klah memadamkan, menyaring atau\nmengubah suai unt uk menghilangkan lampu di darat yang bukan suatu lampu darat\naeronoutik yang oleh sebab keamatan , konfigurasi atau warna nya, boleh menghalang\natau menyebabkan kekeliruan dalam pentafsiran lampu darat aeronautik.\n\n(5)  Tiada seorang pun boleh mengadakan, menyenggara atau mengubah\nspesifikasi mana-mana lampu darat aeronautik, selain bikon aeronautik, kecuali dengan\nkebenaran Ketua Pengarah.\n\n(6) Bagi maksud peraturan ini, \"bikon aeronautik\" ertinya suatu lampu darat\naeronautik yang boleh dilihat dari semua azimuth, secara berterusan atau\nsekejap-sekejap, untuk menandakan suatu titik tertentu  di permukaan suatu\naerodrome.\n\nBekalan kuasa sekunder\n25. Pengendali aerodrom  yang menyenggara atau mengendalikan suatu aerodrom\nyang dilengkapi dengan lampu darat aeronautik hendaklah memasang bekalan kuasa\nsekunder sebagaimana yang ditentukan oleh Ketua Pengarah.\n\nBikon aerodrom\n26. Pengendali aerodrom hendaklah menempatkan bikon aerodrom di suatu\naerodrom jika—\n\n(a) penerbangan kapal udara lebih banyak menggunakan cara visual;\n\n(b) jarak penglihatan yang tidak baik yang kerap; atau\n\n(c) sukar untuk mengesan aerodrom itu dari udara disebabkan lampu atau\npermukaan bumi di sekeliling.\n\nBAHAGIAN VII\nHAD HALANGAN DAN PENGALIHAN\n\nHad halangan\n27. (1) Tiada seorang pun, kecuali  dengan kelulusan Ketua Pengarah, boleh\nmenyebabkan atau membenarkan—\n\n(a) pembinaan atau pembesaran  suatu halangan di atau sekitar suatu\naerodrom; atau\n\n(b) apa-apa benda untuk memasuki permukaan had halangan jika  benda\nitu boleh menyeba bkan peningkatan dalam altitud  pelepasan halangan\natau ketinggian bagi tatacara sua alatan atau apa-apa tatacara berlegar\nvisual yang berkaitan.\n\n(2)  Benda yang disebut dalam perenggan (1) (b) termasuk benda baharu atau\npenambahan kepada benda sedia ada yang melebihi permukaan had halangan.\n\nKebenaran untuk membina di sekitar aerodrom\n28. (1) Seseorang tidak boleh membina suatu bangunan atau struktur di sekitar\nsuatu aerodrom melainkan jika dibenarkan oleh Ketua Pengarah.\n\n(2) Suatu permohonan bagi kebenaran di bawah subperaturan (1) hendaklah—\n\n(a) dibuat kepada Ketua Pengarah dalam bentuk dan cara dan disertakan\ndengan apa -apa dokumen dan maklumat , sebagaimana yang\nditentukan oleh Ketua Pengarah;\n\n(b) disertakan dengan fi yang ditetapkan; dan\n\n(c) dibuat mengikut apa -apa kehendak sebagaimana yang dit entukan oleh\nKetua Pengarah.\n\n(3) Jika Ketua Pengarah berpuas hati bahawa  pemohon telah memenuhi\nkehendak di bawah subperaturan (2) dan pemohon telah menjalankan kajian\naeronautik berhubung kes an pe mbinaan itu terhadap pengendalian kapal udara ,\nKetua Pengarah boleh memberikan kebenaran kepada pemohon.\n\n(4) Ketua P engarah boleh mengenakan apa -apa terma dan syarat atas\nkebenaran yang diberikan di bawah peraturan ini.\n\nPepasangan kelengkapan di tapak udara\n29. (1) Seseorang tidak boleh, kecuali bagi maksud  penerbangan udara , membina\natau memasang kelengkapan atau apa -apa pepasangan di jalur landasan, kawasan\nkeselamatan hujung landasan,  jalur lalua n teksi, laluan lega atau dalam mana-mana\njarak yang ditentukan oleh Ketua Pengarah, jika pembinaan atau kelengkapan itu boleh\nmembahayakan keselamatan sesuatu kapal udara.\n\n(2)  Bagi maksud subperaturan (1), pepasangan atau pembinaan itu hendaklah\nmengikut apa-apa kehendak sebagaimana yang ditentukan oleh Ketua Pengarah.\n\n(3) Bagi maksud peraturan ini, \"laluan lega\" ertinya suatu kawasan segi  empat\nyang ditentukan di atas darat atau air di bawah kawalan pihak berkuasa y ang berkaitan,\ndipilih atau disediakan sebagai kawasan yang sesuai yang di atasnya suatu kapal udara\nboleh membuat sebahagian daripada pemanjatan awal nya kepada suatu ketinggian\nyang ditetapkan.\n\nPenandaan dan penyalaan halangan\n30. (1) Pemunya suatu halangan hendaklah menanda apa -apa halangan di dalam\naerodrom atau di sekitar aerodrom atau sepanjang laluan ke suatu aerodrom.\n\n(2) Jika halangan di bawah subperaturan (1) dikaitkan dengan suatu aerodrom\nyang digunakan pada waktu malam, pem unya halangan hendaklah menyebabkan\nsupaya halangan itu dinyalakan.\n\n(3)  Penandaan dan penyalaan halangan di bawah subperaturan (1) dan (2)\nhendaklah mengikut apa -apa kehendak sebagaimana yang ditentukan oleh\nKetua Pengarah.\n\nBAHAGIAN VIII\nPELAN KECEMASAN AERODROM\n\nPelan kecemasan aerodrom\n31. (1) Pengendali aerodrom hendaklah mengadakan pelan kecemasan aerodrom di\naerodrom mengikut apa-apa kehendak sebagaimana yang ditentukan oleh\nKetua Pengarah.\n\n(2)  Pelan kecemasan aerodrom hendaklah termasuk peruntukan tentang—\n\n(a) latihan kecemasan aerodrom;\n\n(b) pusat pengendalian kecemasan; dan\n\n(c) pos kawalan bergerak.\n\nBAHAGIAN IX\nPELAN PENGURUSAN BAHAYA HIDUPAN LIAR\n\nPelan pengurusan bahaya hidupan liar\n32. Pengendali aerodrom hendaklah mengadakan pelan pengurusan hidupan liar\nmengikut apa-apa kehendak sebagaimana yang ditentukan oleh Ketua Pengarah.\n\nBAHAGIAN X\nPERKHIDMATAN PENGENDALIAN AERODROM\n\nPerkhidmatan menyelamat dan memadamkan api\n33. (1) Pengendali aerodrom hendaklah mengadakan dan menyediakan kemudahan\nmenyelamat dan memadamkan api di aerodrom mengikut apa -apa kehendak\nsebagaimana yang ditentukan oleh Ketua Pengarah.\n\n(2) Semua kakitangan menyelamat dan memadamkan api hendaklah dilatih\ndengan sewajarnya dan memenuhi semua kehendak sebagaimana yang ditentukan oleh\nKetua Pengarah.\n\nBekalan bahan api penerbangan\n34. (1) Pengendali aerodrom hendaklah menyebabkan atau membenarkan bahan\napi penerbangan dihantar ke atau dari  suatu p epasangan bahan api penerbangan  ke\nsuatu kapal udara mengikut apa -apa kehendak sebagaimana yang ditentukan oleh\nKetua Pengarah.\n\n(2) Pengendali bahan api tidak boleh—\n\n(a) menyebabkan atau membenarkan bahan api penerbangan dikeluarkan\nuntuk digunakan dalam suatu kapal udara jika pengendali bahan api itu\nmengetahui atau mempunyai sebab untuk mempercayai bahawa\nbahan api penerbangan itu tidak sesuai untuk kegunaan dalam\nkapal udara itu; atau\n\n(b) membekalkan bahan api kepada suatu kapal udara kecuali di tempat\ndan dengan cara yang diluluskan oleh pengendali aerodrom.\n\n (3) Pengendali aerodrom boleh mengenakan apa -apa syarat atas kelulusan yang\ndiberikan di bawah perenggan (2)(b) untuk melindungi orang atau harta di darat.\n\n  (4)  Pengendali bahan api hendaklah menyimpan rekod bertulis bagi suatu\npepasangan bahan api penerbangan yang termasuklah—\n\n(a) butiran gred dan kuantiti bahan api penerbangan yang dihantar dan\ntarikh penghantaran;\n\n(b) butiran semua sampel yang diambil daripada bahan api penerbangan\ndan keputusan ujian sampel itu;\n\n(c) butiran penyenggaraan dan pembersihan pepasangan itu; dan\n\n(d) butiran bahan api yang digunakan dan tarikh penggunaan.\n\n(5) Pengendali bahan api hendaklah—\n\n(a) menyimpan rekod di bawah subperaturan (4) bagi tempoh\ndua belas bulan atau tempoh yang lebih panjang sebagaimana yang\nKetua Pengarah boleh dalam suatu hal tertentu arahkan; dan\n\n(b) mengemukakan rekod itu dalam tempoh yang munasabah selepas\ndiminta untuk berbuat demikian  oleh pegawai yang diberi kuasa.\n\n(6) Jika Ketua Pengarah mendapati mana -mana bahan api penerbangan\ndimaksudkan atau berkemungkinan untuk dihantar berlanggaran dengan peraturan ini,\nKetua Pengarah boleh mengarahkan p engendali bahan api untuk tidak membenarkan\nmana-mana bahan api penerbangan dikeluarkan untuk digunakan daripada pepasangan\nbahan api penerbangan bagi suatu tempoh masa yang tertentu.\n\n(7)  Bagi maksud peraturan ini—\n\n(a) \"pepasangan bahan api penerbangan\" ertinya apa -apa radas atau\nbekas, termasuk suatu kenderaan yang direka bentuk, dibuat atau\n\ndisesuaikan untuk menyimpan bahan api penerbangan atau\nmenghantar bahan api ke suatu kapal udara; dan\n\n(b) \"pengendali bahan api\" erti nya se sesorang yang menguruskan\npenghantaran bahan api penerbangan dalam suatu aerodrom.\n\nPengalihan kapal udara yang tidak dapat digunakan\n35. Pengendali aerodrom hendaklah  mengadakan suatu pelan bagi pengalihan\nkapal udara yang tidak dapa t digunakan dari kawasan pergerakan atau dari kawasan\nyang bersebelahan  dengan kawasan pergerakan itu me ngikut apa -apa kehendak\nsebagaimana yang ditentukan oleh Ketua Pengarah.\n\nPerkhidmatan pengurusan apron\n36. (1) Pengendali aerodrom hendaklah menyediakan pe rkhidmatan pengurusan\napron di suatu aerodrom jika perkhidmatan penerbangan udara disediakan mengikut\napa-apa kehendak sebagaimana yang ditentukan oleh Ketua Pengarah.\n\n(2) Bagi maksud peraturan ini, \"perkhidmatan pengurusan apron\" ertinya\nperkhidmatan yang disediakan bagi mengawal selia aktiviti dan pergerakan kapal udara\ndan kenderaan di suatu apron.\n\nProgram pemeriksaan keselamatan\n37. Pengendali aerodrom hendaklah mengadakan dan menyenggara program\npemeriksaan keselamatan bagi suatu aerodrom mengikut apa-apa kehendak\nsebagaimana yang ditentukan oleh Ketua Pengarah.\n\nBAHAGIAN XI\nPERATURAN-PERATURAN YANG BERHUBUNGAN DENGAN KAWASAN PERGERAKAN\n\nAkses kenderaan ke kawasan pergerakan dan kawasan olah gerak\n38. (1) Pengendali aerodrom hendaklah—\n\n(a) mengehadkan akses suatu kenderaan yang digunakan bagi\npengendalian aerodrom dan peng endalian kapal udara ke kawasan\nolah gerak;\n\n(b) menyediakan tatacara yang mencukupi bagi akses yang selamat dan\nteratur ke aerodrom, dan pengendalian  di kawasan oleh gerak ,\njika suatu unit perkhidmatan penerbangan udara sedang beroperasi\ndi aerodrom itu , bagi memastikan setiap kenderaan yang sedang\ndikendalikan di kawasan olah gerak itu dikawal oleh—\n\n(i) komunikasi radio dua hala antara ke nderaan itu dengan unit\nperkhidmatan penerbangan udara; atau\n\n(ii) suatu komunikasi radio yang disertakan atau kenderaan\npengiring dengan langkah -langkah yang mencukupi termasuk\nisyarat atau pengawal untuk mengawal kenderaan itu, jika\nkenderaan itu tidak mempunyai radio;\n\n(c) menyediakan langkah -langkah yang mencukupi untuk memastikan\nkenderaan yang sedang dikendalikan dalam suatu kawasan pergerakan\ndikawal oleh tanda atau isyarat sebagaimana yang diluluskan oleh\nKetua Pengarah, jika unit perkhidmatan penerbangan udara tidak\nberoperasi di aerodrom itu; dan\n\n(d) memastikan mana -mana orang yang mengendalikan suatu kenderaan\ndi suatu kawasan pergerakan mematuhi apa-apa kehendak\nsebagaimana yang ditentukan oleh Ketua Pengarah.\n\n(2)  Pengendali aerodrom hendaklah memastikan seseorang yang mempunyai\nakses ke suatu kawasan pergerakan memakai kelengkapan yang memantulkan warna\nyang hendaklah ditunjukkan dengan jelas semasa di kawasan pergerakan.\n\n(3)  Bagi maksud peraturan ini, \" kelengkapan\" termasuklah anak baju, jalur,\nkot luar, topi keledar dan stoking.\n\nPas lapangan terbang dan pas lapangan terbang sementara\n39. (1)  Peraturan ini tidak terpakai bagi—\n\n(a) aerodrom yang diisytiharkan sebagai suatu kawasan larangan di bawah\nAkta Kawasan Larangan dan Tempat Larangan 1959 [Akta 298]; dan\n\n(b) aerodrom Kategori 2 dan 4.\n\n(2)  Pengendali aerodrom hendaklah mengambil langkah yang perlu bagi\nmemastikan kaw asan larangan sesuatu aerodrom yang dikendalikan oleh pengendali\naerodrom itu disempadankan dengan jelas dan dibawa kepada pengetahuan umum.\n\n(3)  Seseorang tidak boleh memasuki atau berada di dalam kawasan larangan\nsuatu aerodrom melainkan jika dia mempunyai pas lapangan terbang atau pas lapangan\nterbang sementara yang dikeluarkan oleh Ketua Keselamatan.\n\n(4)  Ketua Keselamatan boleh mengenakan apa -apa syarat sebagaimana yang\ndifikirkannya patut bagi mana-mana pas lapangan terbang dan pas lapangan terbang\nsementara yang dikeluarkan olehnya.\n\n(5)  Pemegang suatu pas lapangan terbang atau pas lapangan terbang sementara\nhendaklah mematuhi semua syarat yang dikenakan atas pas itu.\n\n(6) Pas lapangan terbang yang dikeluarkan di bawah subperaturan (3) sah bagi\nsuatu tempoh yang tidak melebihi dua tahun.\n\n(7)  Bagi maksud peraturan ini—\n\n(a) \"kawasan larangan\" ertinya kawasan dalam suatu aerodrom yang\ndikendalikan oleh pengendali aerodrom yang tiada sesiapa pun\n\ndibenarkan masuk atau berada di dalamnya melainkan jika dia\nmemiliki suatu pas lapangan terbang; dan\n\n(b) \"Ketua Keselamatan\" ertinya pegawai yang dilantik oleh pengendali\naerodrom sebagai ketua pegawai keselamatan yang bertanggungjawab\nbagi keselamatan aerod rom dan termasuklah mana -mana orang yang\ndiberi kuasa oleh Ketua Keselamatan untuk bertindak bagi pihaknya.\n\nPengendalian kenderaan di kawasan pergerakan\n40. (1)  Seseorang tidak boleh mengendalikan kenderaan di kawasan pergerakan\nmelainkan jika—\n\n(a) orang itu dibenarkan oleh—\n\n(i) pengawal trafik udara jika kenderaan itu hendak dikendalikan\ndi kawasan olah gerak yang perkhidmatan penerbangan udara\ndisediakan; atau\n\n(ii) pengendali aerodrom jika kenderaan itu hendak dikendalikan\ndi apron;\n\n(b) orang itu telah dilatih untuk mengendalikan kenderaan itu;\n\n(c) orang itu telah dikeluarkan suatu permit memandu tapak udara\ndi bawah peraturan 44; dan\n\n(d) kenderaan itu—\n\n(i) telah dikeluarkan permit kenderaan tapak udara di bawah\nperaturan 41; dan\n\n(ii) dilengkapi dengan suatu bikon berputar mengikut warna dan\nciri-ciri sebagaimana yang ditentukan oleh Ketua Pengarah.\n\n(2) Seseorang yang mengendalikan suatu kenderaan di suatu kawasan olah\ngerak—\n\n(a) hendaklah mematuhi semua penandaan, tanda dan lampu sebagaimana\nyang ditentukan oleh Ketua Pengarah; dan\n\n(b) hendaklah tidak melebihi kelajuan dua puluh lima kilometer atau\nlima belas batu sejam.\n\n (3) Seseorang yang mengendalikan suatu kenderaan yang dilengkapi radio\ndi suatu kawasan pergerakan hendaklah—\n\n(a) mengadakan komunikasi radio dua hala—\n\n(i) sebelum memasuki kawasan olah gerak  itu, dengan pengawal\ntrafik udara; atau\n\n(ii) sebelum memasuki suatu apron, dengan pengendali aerodrom;\ndan\n\n(b) mengekalkan pendengaran yang berterusan pada frekuensi yang\ndiperuntukkan di kawasan pergerakan itu.\n\n (4) Bagi maksud peraturan ini, seseorang yang mengendalikan suatu kenderaan\ntermasuklah—\n\n(a) berhubung dengan suatu treler, pemandu sesuatu kenderaan yang\ndengannya treler itu ditunda;\n\n(b) jika orang yang berlainan bertindak sebagai jurumudi suatu kenderaan,\norang itu dan juga orang lain yang terlibat dalam pemanduan\nkenderaan itu; dan\n\n(c) penunggang suatu basikal dan mana -mana orang yang menggerakkan\nsuatu basikal beroda tiga atau menola k atau menarik suatu\npengangkut.\n\nPermit kenderaan tapak udara\n41. (1) Seseorang tidak boleh menggunakan, menyebabkan, mengendalikan, atau\nmembenarkan untuk digunakan, suatu kenderaan di kawasan olah gerak melainkan jika\nkenderaan itu telah dikeluarkan suatu permit kenderaan tapak udara oleh pengendali\naerodrom.\n\n(2)  Permit kenderaan tapak udara sah bagi tempoh satu tahun melainkan jika\npermit itu digantung atau dibatalkan oleh pengendali aerodrom.\n\nPermit masuk sementara\n42. (1) Seseorang tidak boleh menggunakan, menyebabkan, mengendalikan, atau\nmembenarkan untuk dig unakan, suatu kenderaan di apron di suatu aerodrom\nmelainkan jika kenderaan itu telah dikeluarkan permit masuk sementara oleh\npengendali aerodrom.\n\n(2) Kenderaan yang telah dikeluarkan permit masuk sementara hendaklah—\n\n(a) diiringi oleh pemegang permit memand u tapak udara yang hendaklah\nbertindak sebagai jurumudi kenderaan itu;\n\n(b) mempamerkan bendera pelepas jenis yang diperuntukkan pada titik\npaling tinggi kenderaan itu;\n\n(c) tidak boleh diparkir atau dipandu dalam lingkungan lima belas meter\ndari suatu kapal udara;\n\n(d) tidak memasuki kawasan olah gerak atau hangar suatu kapal udara;\ndan\n\n(e) mematuhi apa-apa syarat lain yang dikenakan oleh pengendali\naerodrom.\n\nMasuk kerana kecemasan\n43. Peraturan 4 1 dan 4 2 tidak terpakai bagi mana -mana kenderaan yang memasuki\nkawasan pergerakan bagi maksud kecemasan.\n\nPermit memandu tapak udara\n44. (1) Seseorang tidak boleh—\n\n(a) memandu kenderaan di suatu kawasan pergerakan;\n\n(b) mengambil orang lain be kerja untuk memandu suatu kenderaan\ndi suatu kawasan pergerakan; atau\n\n(c) membenarkan orang lain untuk memandu suatu kenderaan di suatu\nkawasan pergerakan,\n\nmelainkan jika dia, orang yang diambil kerja atau orang yang dibenarkan  itu, mengikut\nmana-mana yang berkenaan, mempunyai suatu permit memandu tapak udara yang sah\nyang dikeluarkan oleh pengendali aerodrom.\n\n (2) Permit memandu tapak udara sah bagi tempoh satu tahun melainkan jika\npermit itu digantung atau dibatalkan oleh pengendali aerodrom.\n\nPagaran aerodrom dan pepasangan\n45. Pengendali aerodrom hendaklah mendirikan suatu pagar atau pengadang yang\nsesuai di sekeliling sesuatu aerodrom mengikut  apa-apa kehendak sebagaimana yang\nditentukan oleh Ketua Pengarah—\n\n(a) untuk mencegah apa-apa binatang daripada memasuki suatu kawasan\npergerakan; dan\n\n(b) untuk menghalang akses oleh orang yang tidak dibenarkan ke tapak udara.\n\nKetua Pengarah boleh mengeluarkan arahan\n46. Ketua Pengarah boleh, dari semasa ke semasa, mengeluarkan arahan kepada\nKetua Keselamatan berhubung an dengan apa -apa perkara di bawah\nperaturan 39, 4 1, 4 2 dan 4 4, khususnya, arahan yang berkenaan dengan syarat untuk\ndikenakan pada pas lapangan terbang, pas lapangan terbang  sementara,\npermit kenderaan tapak  udara, permit masuk sementara dan permit memandu tapak\nudara yang dikeluarkan di bawah peraturan itu.\n\nBAHAGIAN XII\nPENYENGGARAAN AERODROM\n\nProgram penyenggaraan\n47. Pengendali aerodrom hendaklah mengadakan suatu program penyenggaraan\nmengikut apa-apa kehendak sebagaimana yang ditentukan oleh Ketua Pengarah.\n\nPenyenggaraan laluan jalan kaki\n48. Pengendali aerodrom hendaklah mengadakan penyenggaraan laluan jalan kaki\nmengikut apa-apa kehendak sebagaimana yang ditentukan oleh Ketua Pengarah.\n\nPenyenggaraan alat bantu visual aeronautik\n49. Pengendali aerodrom hendaklah melaksanakan suatu sistem penyenggaraan\npencegahan bagi alat bantu visual aeronautik mengikut apa-apa kehendak sebagaimana\nyang ditentukan oleh Ketua Pengarah.\n\nKerja semasa pengendalian jarak penglihatan rendah\n50. Pengendali aerodrom hendaklah memastikan apa-apa aktiviti pembinaan atau\npenyenggaraan tidak dijalankan berhampiran dengan sistem elektrik aerodrom pada\nbila-bila masa semasa pengendalian jarak penglihatan rendah  sebagaimana yang\nditentukan oleh Ketua Pengarah.\n\nKerja di aerodrom\n51. Pengendali aerodrom hendaklah mengadakan tatacara dan langkah berjaga-jaga\nmengikut apa-apa kehendak sebagaimana yang ditentukan oleh Ketua Pengarah untuk\nmemastikan apa -apa kerja atau aktiviti yang dijalankan di suatu aerodrom tidak\nmembahayakan keselamatan pengendalian kapal udara.\n\nBAHAGIAN XIII\nSISTEM ELEKTRIK AERODROM\n\nSistem elektrik aerodrom\n52. (1) Bahagian ini terpakai bagi semua kategori aerodrom apabila sistem ele ktrik\naerodrom telah dipasang di aerodrom itu.\n\n(2)  Pengendali aerodrom hendaklah memastikan sistem elektrik aerodrom yang\nmencukupi disediakan untuk fungsi perkhidmatan dan kemudahan penerbangan udara\nyang selamat mengikut apa-apa kehendak sebagaimana yang ditentukan oleh\nKetua Pengarah.\n\nBAHAGIAN XIV\nPELAPORAN MAKLUMAT\n\nMaklumat kepada pengguna aerodrom\n53. Pengendali aerodrom hendaklah memastikan semua maklumat yang berhubungan\ndengan aerodro m dan kemudahannya  yang penting bagi perjalanan penerbangan\nke dan dari aerodrom tersedia kepada pengguna aerodrom itu.\n\nPemberitahuan dan pelaporan\n54. (1) Pengendali aerodrom hendaklah melapor kepada Ketua Pengarah secara\nbertulis, dan juruterbang yang boleh terjejas, dalam tempoh masa yang ditentukan oleh\nKetua Pengarah, berhubung dengan—\n\n(a) apa-apa perbezaan dalam maklumat yang disediakan oleh pengendali\naerodrom dalam Penerbitan Maklumat Aeronautik,\nSurat Pekeliling Maklumat Aeronautik atau pemberitahuan kepada\npetugas udara;\n\n(b) apa-apa p erubahan kepada kemudahan aerodrom, kelengkapan da n\nperingkat perkhidmatan yang telah dirancang, terlebih dahulu; dan\n\n(c) apa-apa isu yang memerlukan pemberitahuan segera termasuklah\nhalangan dan bahaya hidupan liar, peringkat perkhidmatan,\nkawasan pergerakan dan  apa-apa keadaan yang menjejaskan\nkeselamatan penerbangan di aerodrom dan apa -apa langkah\nberjaga-jaga yang perlu diambil.\n\n(2) Bagi maksud peraturan ini―\n\n(a) \"Penerbitan Maklumat Aeronautik \" ertinya penyiaran maklumat\naeronautik yang dikeluarkan oleh Ketua Pengarah;\n\n(b) \"Pekeliling Maklumat Aeronautik \" ertinya surat pekeliling maklumat\naeronautik yang dikeluarkan oleh Ketua Pengarah;\n\n(c) \"pemberitahuan kepada petugas udara\" ertinya notis yang\nmengandungi maklumat berkenaan dengan penubuhan, syarat atau\nperubahan dalam mana-mana kemudahan, servis, tatacara atau bahaya,\nyang terlibat pengetahuan pada masanya  penting kepada kakitangan\nyang terlibat dengan pengendalian penerbangan.\n\nBAHAGIAN XV\nPENEMPATAN, PARKIR DAN KEMUDAHAN PENERBANGAN UDARA\n\nPenempatan kapal udara\n55. (1) Suatu kapal udara boleh ditempatkan di aerodrom yang dimiliki oleh\nKerajaan yang diurus dan dikendalikan oleh Ketua Pengarah, tertakluk kepada\ncaj penempatan yang hendaklah kena dibayar kepada Jabatan Penerbangan Awam pada\nkadar yang ditetapkan dalam Peraturan -Peraturan Penerbangan Awam\n(Fi dan Caj) 2016 [P.U. (A) 99/2016].\n\n (2) Suatu kapal udara hendaklah diterima untuk penempatan tertakluk kepada\nsyarat yang berikut:\n\n(a) semua caj yang kena dibayar berkenaan dengan kapal udara itu\nhendaklah kena dibayar oleh pengendali, pemunya atau\nketua juruterbang kapal udara itu sebelum berlepas;\n\n(b) jika berlaku kemungkiran dalam pembayaran caj, Ketua Pengarah, bagi\npihak Kerajaan berhak dengan serta -merta untuk memindahkan\nkapal udara itu dari mana -mana hangar atau bangsal yang di dalamnya\nia ditempatkan atau disimpan dan untuk meletakkannya di tempat\nterbuka dan Ketua Pengarah berhak selanjutnya, sama ada sebagai\ntambahan atau sebagai alternatif kepada pemindahan itu,\nselepas memberikan notis bertulis empat belas hari mengenai niatnya\nuntuk berbuat demikian, untuk menjual kapal udara itu atau\nmana-mana bahagian atau komponen atau aksesorinya  melalui\nlelongan awam atau kontrak persendirian tanpa dia sendiri atau\npegawainya bertanggungjawab bagi apa -apa kerugian berhubung\ndengan jualan itu dan untuk membayar balik kepada dirinya daripada\nhasil jualan itu  jumlah caj yang kena di bayar kepadanya serta kos,\ncaj dan perbelanjaan yang ditanggung berkaitan dengan penjualan itu;\n\n(c) sebagai tambahan kepada mana -mana lien atau  hak atau remedi lain\nyang Kerajaan mungkin ada berkenaan dengan kapal udara itu,\nsama ada di bawah s yarat ini atau selain nya, Kerajaan berhak untuk\nmenyimpan pemunyaan kapal udara itu sehingga semua caj yang kena\ndibayar berkenaan dengan kapal udara itu telah dibayar tanpa\nmengambil kira sama ada caj itu atau mana -mana bahagiannya telah\ndituntut sebelum itu ataupun tidak; dan\n\n(d) Kerajaan tidak bertanggungjawab bagi apa -apa kerugian, kehilangan\natau kerosakan kepada kapal udara atau mana -mana bahagian,\nkomponen atau  aksesorinya yang berpunca daripada apa  jua sebab\nsekalipun sama ada ketika dalam jagaan atau simpanan atau selainnya.\n\nParkir kapal udara\n56. (1) Ketua Pengarah atau pengendali aerodrom, mengikut mana -mana yang\nberkenaan, boleh menghendaki sesuat u kapal udara dialihkan dari  satu tempat parkir\nyang diperuntukkan ke tempat parkir yang lain selepas tempoh berada di tempat parkir\nitu selama satu jam setengah telah berlalu.\n\n (2)  Ketua Pengarah atau pengendali aerodrom, mengikut mana -mana yang\nberkenaan, boleh atas sebab keselamatan atau apa -apa sebab  lain, memerintahkan\nsuatu kapal udara yang diparkir dialihkan ke suatu hangar yang sesuai  yang dalam hal\nitu  caj penempatan hendaklah dikenakan dari masa perintah itu dilaksanakan.\n\n (3) Bagi maksud peraturan ini, \"parkir \" atau \"dipa rkir\" ertinya parkir atau\ndiparkir di sesuatu aerodrom di tempat terbuka.\n\nCaj kemudahan penerbangan udara\n57. (1) Tiap-tiap penerbangan melalui ruang dalam lingkungan\nWilayah Maklumat Penerbangan Kuala Lumpur dan Kota Kinabalu hendaklah tertakluk\nkepada caj kemudahan penerbangan udara yang hendaklah kena dibayar kepada\nJabatan Penerbangan Awam  pada kadar yang ditetapkan dalam\nPeraturan-Peraturan Penerbangan Awam (Fi dan Caj) 2016.\n\n (2) Subperaturan (1) tidak terpakai bagi—\n\n(a) mana-mana kapal udara rasmi Kerajaan Persekutuan atau Kerajaan\nmana-mana negeri di Malaysia, termasuk kapal udara tentera;\n\n(b) mana-mana kapal udara rasmi Ketua Negara, Menteri dan pembesar\nlain yang m elawat Malaysia sebagai tetamu n egara atas dasar\npersalingan;\n\n(c) mana-mana kapal udara yang dinyatakan yang dikendalikan oleh\nmana-mana kelab penerbangan yang telah, dalam hal sesuatu\naerodrom yang diuruskan dan dikendalikan oleh Ketua Pengarah,\ndiluluskan bagi mak sud peraturan ini oleh Ketua Pengarah jika\npenerbangan sebelum pendaratan atau  berikutan dengan perlepasan ,\nmengikut mana -mana yang berkenaan, bukan untuk sewa atau upah\natau bagi apa-apa maksud lain selain daripada terbang untuk kelab;\n\n(d) mana-mana kapal ud ara yang digunakan dalam operasi mencari dan\nmenyelamat;\n\n(e) mana-mana kapal udara yang dikehendaki untuk kembali ke lapangan\nterbang berlepas atau lapangan terbang alternatif disebabkan oleh alat\nkelengkapan kapal udara itu  tidak berfungsi atau penutupan lap angan\nterbang destinasi selepas kapal udara itu berlepas  atau hal keadaan\nlain yang di luar kawalan pengendali;\n\n(f) penerbangan di antara dua tempat pendaratan yang tidak dijaga;\n\n(g) penerbangan yang sentiasa di dalam zon kawalan aerodrom atau dalam\nlingkungan radius lima batu dari aerodrom atau di dalam kawasan\nlatihan bersebelahan yang ditetapkan; atau\n\n(h) mana-mana kapal udara lain atau kelas kapal udara sebagaimana yang\nditentukan oleh Ketua Pengarah.\n\nPerkiraan bagi pembayaran caj penempatan dan caj kemudahan penerbangan\nudara\n58. Melainkan jika perkiraan telah dibuat terlebih dahulu dengan Ketua Pengarah—\n\n(a) caj penempatan hendaklah dibayar sebelum kapal udara itu berlepas dari\nlapangan terbang mendarat;\n\n(b) semua caj kemudahan penerbangan udara bagi suatu p enerbangan yang\nhendak dilakukan hendaklah dibayar terlebih dahulu sebelum penerbangan\nitu;\n\n(c) Ketua Pengarah boleh enggan untuk membenarkan kapal udara berlepas\ndari lapangan terbang sehingga semua caj yang kena dibayar di bawah\nBahagian ini telah dibayar; dan\n\n(d) semua caj kemudahan penerbangan udara bagi suatu penerbangan yang\ntidak mendarat di lapangan terbang di Malaysia hendaklah menjadi hutang\nyang kena dibayar kepada Kerajaan oleh pengendali, pemunya atau\nketua juruterbang kapal udara itu.\n\nBAHAGIAN XVI\nPELBAGAI\n\nLapangan terbang kastam\n59. Mana-mana aerodrom yang telah diberi kebenaran di bawah peraturan 5 boleh\nditetapkan sebagai lapangan terbang kastam bagi maksud Akta Kastam 1967 [Akta 235].\n\nLangkah keselamatan terhadap kebakaran\n60. (1) Tiada seorang pun boleh, di dalam suatu aerodrom—\n\n(a) merokok atau  menyalakan api di dalam mana -mana kawasan, yang\nperbuatan itu dilarang oleh suatu notis yang dipamerkan;\n\n(b) jika tidak terdapat notis yang melarang merokok atau menyalakan api di\nsuatu tempat, mero kok di tempat itu  atau menyalakan api di tempat itu\ndalam jarak sebagaimana yang ditentukan oleh Ketua Pengarah dari mana-\nmana―\n\n(i) kapal udara;\n\n(ii) kenderaan yang digunakan bagi membekalkan bahan api kepada\nsuatu kapal udara;\n\n(iii) stor bahan api;\n\n(iv) tempat pembuangan sampah;\n\n(v) tempat penyimpanan cecair bahan api; atau\n\n(vi) tempat penyimpanan bahan letupan;\n\n(c) dengan sengaja memberikan penggera kebakaran palsu;\n\n(d) mengusik atau mengganggu apa-apa hos bomba, pili bomba atau apa -apa\nkelengkapan yang disediakan bagi maksud memadam kebakaran;\n\n(e) menyimpan, menstor, membuang atau melepaskan apa -apa cecair mudah\nbakar, gas, nyalaan isyarat atau bahan seumpamanya dalam suatu\nkapal udara, kecuali di dalam bekas yang bersesuaian bagi maksud itu atau\ndi suatu di aerodrom itu tempat yang diluluskan khas oleh pengendali\naerodrom bagi maksud itu; dan\n\n(f) menstor atau menyusun apa -apa material atau keleng kapan dengan cara\nyang boleh atau mungkin menyebabkan bahaya api; atau\n\n(g) melakukan apa-apa tindakan atau menyebabkan apa -apa keadaan yang pada\npendapat Ketua Pengarah boleh menyebabkan bahaya api dalam suatu\naerodrom.\n\n(2) Pengendali aerodrom hendaklah mempamerkan di tempat yang mudah\ndilihat dalam aerodrom, perbuatan yang dilarang di bawah subperaturan (1).\n\nPenjalanan ujian enjin kapal udara\n61. Seseorang tidak boleh menjalankan jalanan ujian suatu enjin kapal  udara kecuali\ndi suatu tempat yang ditetapkan oleh pengendali aerodrom.\n\nTindakan tertentu yang dilarang dalam aerodrom\n62. (1) Tiada seorang pun boleh, dalam suatu aerodrom—\n\n(a) menghalang atau mengganggu kegunaan yang sepatutnya aerodrom;\n\n(b) menghalang mana-mana orang daripada melaksanakan tugas nya di\naerodrom;\n\n(c) mengalihkan atau mencacatkan apa-apa notis, tulisan, dokumen atau\ntandaan yang didirikan atau dipamerkan di aerodrom;\n\n(d) membuang, meninggal kan atau menjatuhkan apa -apa yang boleh\nmenyebabkan kecederaan kepada mana-mana orang atau kerosakan\nkepada harta benda;\n\n(e) melonggokkan apa-apa sisa buangan kecual i di suatu tempat yang\ndiluluskan bagi maksud itu oleh pengendali aerodrom;\n\n(f) melonggokkan atau menumpahkan apa -apa bahan yang boleh\nmenyebabkan penc emaran air, sam a ada pep ejal, cecai r, berwap atau\ngas atau kombinasi semuanya, kecuali di tempat yang diluluskan bagi\nmaksud itu oleh pengendali aerodrom; atau\n\n(g) menyebabkan kacau ganggu kepada mana-mana orang dalam\naerodrom.\n\n(2) Kecuali dengan kebenaran pengendali aerodrom, tiada seorang pun boleh—\n\n(a) mengusik atau mengganggu mana-mana bahagian aerodrom atau\napa-apa kelengkapan yang berkaitan dengan pengendalian aerodrom;\n\n(b) memanjat mana-mana dinding, pagar, peng adang, siling, pintu atau\ntiang dalam suatu aerodrom;\n\n(c) memegang apa-apa bagasi atau membawa bagasi untuk penumpang di\nsuatu aerodrom;\n\n(d) membawa suatu kenderaan masuk atau memandu masuk ke dalam\nsuatu aerodrom; dan\n\n(e) menghalang kemasukan ke atau laluan di ae rodrom dengan cara yang\nmendatangkan kesusahan kepada  pengguna pintu masuk atau laluan\nitu.\n\nCahaya berbahaya\n63.  (1) Tiada seorang pun boleh mengunjurkan cahaya berhampiran dengan suatu\naerodrom yang dengan silauannya boleh membahayakan keselamatan kapal udara yang\ntiba atau berlepas dari aerodrom itu.\n\n(2)  Jika pada pendapat Ketua Pengarah, suatu cahaya boleh membahayakan\nkeselamatan suatu kapal  udara, Ketua P engarah boleh mengarahkan orang yang\nmengendalikan atau mengawal cahaya itu untuk memadamkan cah aya itu dan\nmenghalang pengunjuran cahaya itu bagi suatu tempoh sebagaimana yang ditentukan\noleh Ketua Pengarah.\n\nPenggantungan, perubahan dan pembatalan kebenaran, perakuan atau lesen\n64. (1) Menteri atau Ketua Pengarah, mengikut mana -mana yang berkenaan,  boleh,\nmenggantung, mengubah atau membatalkan sesuatu kebenaran, perakuan atau lesen\nyang dikeluarkan di bawah Peraturan -Peraturan ini  kepada mana -mana orang dalam\nmana-mana yang keadaan seperti yang berikut:\n\n(a) jika orang itu melanggar mana -mana terma atau syarat  kebenaran,\nperakuan atau lesen itu;\n\n(b) jika orang itu melanggar mana -mana peruntukan Akta atau\nPeraturan-Peraturan ini;\n\n(c) jika kebenaran, perakuan atau lesen  itu diperoleh  secara fraud atau\nsalah nyataan; atau\n\n(d) dalam hal kematian, ketidakupayaan, kebankrapan orang it u atau\ndalam hal suatu syarikat, sekiranya syarikat itu digulung atau penerima\natau pengurus dilantik.\n\n(2) Menteri atau Ketua Pengarah , mengikut mana -mana yang berkenaan,  tidak\nboleh menggantung, mengubah atau membatalkan kebenaran, perakuan, lesen atau\nkelulusan melainkan jika orang itu telah diberi peluang untuk membuat representasi.\n\n(3) Sementara menanti apa -apa keputusan untuk menggantung, mengubah atau\nmembatalkan apa -apa kebenaran, perakuan atau lesen di bawah  subperaturan (1),\nMenteri atau Ketua Pengarah, mengikut mana -mana yang berkenaan, boleh, jika\n\ndifikirkannya patut, menggantung atau mengubah buat sementara waktu, dengan atau\ntanpa syarat, kebenaran, perakuan atau lesen.\n\n(4) Jika apa-apa kebenaran, perakuan atau  lesen yang dikeluarkan d i bawah\nPeraturan-Peraturan ini—\n\n(a) dibatalkan, pemegang kebenaran, perakuan, lesen atau kelulusan itu\nhendaklah dalam tempoh empat be las hari dari tarikh pembatalan itu\nmemulangkan kebenaran, perakuan, lesen atau kelulusan itu kepada\nMenteri atau Ketua Pengarah , mengikut mana -mana yang berkenaan ;\natau\n\n(b) digantung atau digantung sementara, kebenaran, perakuan, lesen atau\nkelulusan itu tidak mempunyai kuat kuasa semasa tempoh\npenggantungan itu.\n\nPengawasan pengawalseliaan keselamatan\n65. (1) Ketua Penga rah boleh, pada-bila-bila masa, menjalankan pengawasan\npengawalseliaan keselamatan un tuk menentukan pematuhan kepada\nPeraturan-Peraturan ini.\n\n (2) Apa-apa perbelanjaan yang ditanggung oleh sebab apa -apa perkara yang\ndibuat semasa  atau bersampingan dengan pengawasan pengawalseliaan keselamatan\ndi bawah peraturan ini hendaklah dibayar dan boleh didapatkan daripada orang yang\ntelah diberikan kebenaran atau pemegang perakuan atau lesen itu.\n\n(3) Mana-mana orang yang enggan mematuhi apa-apa permintaan, tuntutan\natau arahan yang dibuat oleh Ketua Pengarah atau pegawai yang diberi  kuasa yang\nbertindak atau berupa sebagai bertindak di bawah Peraturan -Peraturan ini melakukan\nsuatu kesalahan.\n\nNotis, surat pekeliling, arahan dan maklumat\n66. Ketua Pengarah boleh mengeluarkan apa-apa notis, surat pekeliling, arahan dan\nmaklumat, sebagaimana yang difikirkannya perlu atau suai manfaat untuk memberi\nkesan kepada peruntukan Peraturan-Peraturan ini.\n\nKesalahan yang berhubungan dengan dokumen dan rekod\n67. (1) Seseorang tidak boleh dengan niat hendak memperdaya—\n\n(a) menggunakan apa-apa kebenaran, perakuan, lesen atau kelulusan yang\ntelah dipalsukan, diubah, dibatalkan atau digantung , atau yang dia\ntidak berhak kepadanya;\n\n(b) meminjamkan apa-apa kebenaran, perakuan, lesen atau kelulusan yang\ndikeluarkan di bawah Peraturan -Peraturan ini  kepada, atau\nmembenarkan kebenaran, perakuan, lesen atau kelulusan itu\ndigunakan oleh, mana-mana orang lain; atau\n\n(c) membuat apa -apa representasi palsu bagi maksud mendapatkan bagi\ndirinya atau mana -mana orang lain apa-apa kebenaran, perakuan\natau lesen di bawah Peraturan-Peraturan ini.\n\n(2) Bagi maksud peraturan ini, sebutan tentang kebenaran , perak uan atau lesen\ntermasuklah suatu salinan atau sesuatu yang berupa salinan  kebenaran, perakuan atau\nlesen itu.\n\nPenalti\n68. (1)  Mana-mana orang yang melanggar mana-mana peruntukan yang dinyatakan\ndalam Bahagian A  Jadual melakukan kesalahan dan apabila disabitkan boleh—\n\n(a) jika orang itu seorang individu , didenda tidak melebihi dua puluh lima\nribu ringgit atau dipenjarakan selama tempoh tidak melebihi\nsatu tahun atau kedua-duanya; atau\n\n(b) jika orang itu suatu pertubuhan perbadanan, didenda tidak melebihi\nlapan puluh ribu ringgit.\n\n   (2)  Mana-mana orang yang melanggar mana -mana peruntukan yang\ndinyatakan dalam Bahagian B Jadual melakukan suatu kesalahan dan apabila\ndisabitkan boleh—\n\n(c) jika orang itu seora ng individu, didenda tidak melebihi lima puluh ribu\nringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun\natau kedua-duanya; atau\n\n(d) jika orang itu suatu pertubuhan perbadanan , didenda tidak melebihi\nseratus ribu ringgit.\n\nJADUAL\n[Peraturan 68]\n\nKESALAHAN\n\nMana-mana orang yang melanggar peruntukan yang disenaraikan dalam Bahagian A\ndan Bahagian B Jadual ini adalah melakukan suatu kesalahan:\n\nBAHAGIAN A\n\nPeraturan Hal perkara\n\n10 Pindah milik kebenaran, perakuan atau lesen\n11 Penyerahan balik kebenaran, perakuan atau lesen\n\n BAHAGIAN B\n\nPeraturan Hal perkara\n6 Perakuan aerodrom\n7 Perubahan manual aerodrom\n9 Perubahan kepada butiran dalam kebenaran perakuan atau\nlesen\n12 Obligasi pengendali aerodrom dalam menyenggara atau\nmengendalikan aerodrom\n13 Pemberitahuan tentang masa pengendalian aerodrom\n14 Kekompetenan kakitangan\n16 Penyimpanan barang an mudah terbakar dan barang an\nberbahaya\n17 Pengalihan halangan dari aerodrom\n18 Program pengurusan alam sekitar\n19 Pelindungan alat bantu penerbangan\n20 Obligasi am\n21 Pemeriksaan khas\n22 Notis amaran\n23 Alat bantu visual aeronautik\n24 Lampu darat aeronautik\n25 Bekalan kuasa sekunder\n26 Bikon aerodrom\n27 Had halangan\n28 Kebenaran untuk membina di sekitar aerodrom\n29 Pemasangan kelengkapan di tapak udara\n30 Penandaan dan penyalaan halangan\n31 Pelan kecemasan aerodrom\n32 Pelan pengurusan bahaya hidupan liar\n33 Perkhidmatan menyelamat dan memadamkan api\n34 Bekalan bahan api penerbangan\n35 Peengalihan kapal udara yang tidak dapat digunakan\n\n36 Perkhidmatan pengurusan apron\n37 Program pemeriksaan keselamatan\n38 Akses kenderaan ke kawasan pergerakan dan kawasan olah\ngerak\n39 Pas lapangan terbang dan pas lapangan terbang sementara\n40 Pengendalian kenderaan di kawasan pergerakan\n41 Permit kenderaan tapak udara\n42 Permit masuk sementara\n44 Permit memandu tapak udara\n45 Pagaran aerodrom dan pepasangan\n47 Program penyenggaraan\n48 Penyenggaraan laluan jalan kaki\n49 Penyenggaraan alat bantu visual aeronautik\n50 Kerja semasa pengendalian jarak penglihatan rendah\n51 Kerja di aerodrom\n52 Sistem elektrik aerodrom\n53 Maklumat kepada pengguna aerodrom\n54 Pemberitahuan dan pelaporan\n56 Parkir kapal udara\n60 Langkah keselamatan terhadap kebakaran\n61 Penjalanan ujian enjin kapal udara\n62 Tindakan tertentu yang dilarang di aerodrom\n63 Cahaya berbahaya\n65 Pengawasan pengawalseliaan keselamatan\n67 Kesalahan yang berhubungan dengan dokumen dan rekod\n\nDibuat 28 Mac 2016\n[DCA/PU/11/31 Vol. 6; PN(PU2)38/VIII]\n\n         DATO' SERI LIOW TIONG LAI\n          Menteri Pengangkutan\n\nCIVIL AVIATION ACT 1969\n\nCIVIL AVIATION (AERODROME OPERATIONS) REGULATIONS 2016\n\n____________________________\nARRANGEMENT OF REGULATIONS\n_____________________________\n\nPART I\nPRELIMINARY\nRegulation\n1. Citation and commencement\n2. Application\n3. Interpretation\n\nPART II\nCATEGORIES OF AERODROMES\n\n4. Categories of aerodromes\n\nPART III\nESTABLISHMENT, MAINTENANCE AND OPERATION OF AERODROMES\n\n5. Establishment of aerodrome\n6. Certificate of aerodrome\n7. Variation of aerodrome manual\n8. Maintenance and operation of aerodrome\n9. Changes to particulars in authorization, certificate or licence\n10. Transfer of authorization, certificate or licence\n11. Surrender of authorization, certificate or licence\n\nPART IV\nOBLIGATIONS OF AN AERODROME OPERATOR\nRegulation\n12. Aerodrome operator's obligations in maintaining or operating aerodrome\n13. Information on aerodrome operation hours\n14. Competence of personnel\n15. Safety management system\n16. Storage of inflammable goods and dangerous goods\n17. Removal of obstacle from aerodrome\n18. Environment management programme\n19. Protection of navigation aids\n20. General obligations\n21. Special inspections\n22. Warning notices\n\nPART V\nAERONAUTICAL VISUAL AIDS\n\n23. Aeronautical visual aids\n\nPART VI\nAERONAUTICAL GROUND LIGHTS\n\n24. Aeronautical ground lights\n25. Secondary power supply\n26. Aerodrome beacon\n\nPART VII\nOBSTACLE LIMITATION AND REMOVAL\n\n27. Obstacle limitation\n28. Authorization to construct in the vicinity of an aerodrome\n29. Installation of equipment on airside\n\nRegulation\n30. Marking and lighting of obstacle\n\nPART VIII\nAERODROME EMERGENCY PLAN\n\n31. Aerodrome emergency plan\n\nPART IX\nWILDLIFE HAZARD MANAGEMENT PLAN\n\n32. Wildlife hazard management plan\n\nPART X\nAERODROME OPERATIONAL SERVICES\n\n33. Rescue and fire fighting services\n34. Supply of aviation fuel\n35. Removal of disabled aircraft\n36. Apron management services\n37. Safety inspection programme\n\nPART XI\nREGULATIONS RELATING TO MOVEMENT AREAS\n\n38. Access of vehicles to movement area and manoeuvring area\n39. Airport pass and temporary airport pass\n40. Vehicle operation in movement area\n41. Airside vehicle permit\n42. Temporary entry permit\n43. Entry due to emergency\n44. Airside driving permit\n45. Fencing of aerodromes and installation\n\nRegulation\n46. Director General may issue directions\nPART XII\nAERODROME MAINTENANCE\n\n47. Maintenance programme\n48. Maintenance of pavements\n49. Maintenance of aeronautical visual aids\n50. Works during low visibility operations\n51. Works on aerodrome\n\nPART XIII\nAERODROME ELECTRICAL SYSTEM\n\n52. Aerodrome electrical system\n\nPART XIV\nREPORTING OF INFORMATION\n\n53. Information for aerodrome users\n54. Notifying and reporting\n\nPART XV\nHOUSING, PARKING AND AIR NAVIGATION FACILITY\n\n55. Housing of aircraft\n56. Parking of aircraft\n57. Air navigation facility charges\n58. Arrangement for payment of housing charges and air navigation facility charges\n\nPART XVI\nMISCELLANEOUS\nRegulation\n59. Customs airport\n60. Safety measures against fire\n61. Test running of aircraft engine\n62. Certain acts prohibited on aerodrome\n63. Dangerous light\n64. Suspension, variation and revocation of authorization, certificate , licence or\napproval\n65. Safety regulatory oversight\n66. Notices, circulars, directives and information\n67. Offences relating to documents and records\n68. Penalties\n\nSCHEDULE\n\nCIVIL AVIATION ACT 1969\n\nCIVIL AVIATION (AERODROME OPERATIONS) REGULATIONS 2016\n\nIN exercise of the powers conferred by subsection 3(1)  and paragraphs 3(2)(dd), (e)\nand (f) of the Civil Aviation Act 1969 [ Act 3 ], the Minister makes the following\nregulations:\n\nPART I\nPRELIMINARY\n\nCitation and commencement\n1. (1)   These r egulations may be cited as the Civil Aviation\n(Aerodrome Operations) Regulations 2016.\n\n(2)  These Regulations come into operation on 31 March 2016.\n\nApplication\n2. (1) These Regulations shall apply to Category 1, 2, 3 and 4 aerodromes.\n\n(2)  These Regulations shall not apply to an aerodrome of the armed forces.\n\nInterpretation\n3. In these Regulations—\n\n\"apron\" has the meaning assigned to it in the Civil Aviation\nRegulations 2016 [P.U. (A) 97/2016];\n\n\"wildlife hazard\" means a potential for an aircraft collision with wildlife on or near\nan aerodrome;\n\n\"obstacle\" means a fixed object, whether temporary or permanent, or a mobile\nobject, or any part of the object―\n\n(a) that is located on an area intended for the surface movement of an aircraft;\n\n(b) that extends above a defined surface intended to protect aircraft in flight; or\n\n(c) that stands outside those defined surfaces , and has been assessed as being a\nhazard to air navigation;\n\n\"allowable obstacle\" means any obstacle allowed by the Director General on a\nrunway strip, runway end safety area, taxiway strip or within a taxiway clearance\ndistance or on a clearway;\n\n\"wildlife\" includes feral birds and domesticated animals;\n\n\"taxiway\" means a defined path on an aerodrome established for the taxiing of\naircraft and intended to provide a link between one part of the aerodrome and another,\nincluding—\n\n(a) an aircraft stand taxilane, which is a portion of an apron designated as a\ntaxiway and intended to provide access to aircraft stands only;\n\n(b) an apron taxiway, which is a portion of a taxiway system located on an apron\nand intended to provide a through taxi route across the apron; or\n\n(c) a rapid exit taxiway, which is a taxiway connect ed to a runway at an acute\nangle and designed to allow landing aircrafts to turn off at higher speeds\nthan are achieved on other exit taxiways thereby minimising runway\noccupancy times;\n\n\"taxiway strip\" means an area on an aerodrome which includes a taxiway intended\nto protect an aircraft operating on a taxiway and to reduce the risk of damage to an\naircraft accidentally running off the taxiway;\n\n\"runway strip\" means a defined area  on an aerodrome , including the runway and\nstopway, if provided, intended—\n\n(a) to reduce the risk of damage to aircraft running off a runway; and\n\n(b) to protect aircraft flying over it during take-off or landing operations;\n\n\"aircraft\" has the meaning assigned to it in the Civil Aviation Regulations 2016;\n\n\"manoeuvring area\" has the meaning assigned to it in the\nCivil Aviation Regulations 2016;\n\n\"movement area\" means the part of an aerodrome  used for take -off, landing and\ntaxiing of an aircraft, consisting of the manoeuvring area and apron;\n\n\"facility\" includes—\n\n(a) a pavement;\n\n(b) a visual aid;\n\n(c) a fencing;\n\n(d) a communication, navigation or surveillance equipment;\n\n(e) a drainage system; and\n\n(f) a building;\n\n\"aeronautical ground light\" means any light specially provi ded as an aid to air\nnavigation other than a light displayed on an aircraft;\n\n\"runway\" means a defined rectangular area on a land aerodrome prepared for the\nlanding and take-off of aircraft;\n\n \"night\" has the meaning assigned to it in the Civil Aviation Regulations 2016;\n\n\"marking\" means a symbol or group of symbols on an aerodrome  displayed on the\nsurface of a movement area in order to convey aeronautical information;\n\n\"commercial air transport\" has the meaning assigned to it in the\nCivil Aviation Regulations 2016;\n\n\"aerodrome operator\" means—\n\n(a) any person  who is licensed under regulation 6  to maintain or operate a\nCategory 2 or 4 aerodrome; or\n\n(b) any person who is licensed under section 38 of the Malaysian Aviation\nCommission Act 2015 [Act 771] to operate a Category 1 or 3 aerodrome;\n\n\"air navigation services\" has the meaning assigned to it in the\nCivil Aviation Regulations 2016;\n\n\"obstacle limitation surface \" means a series of surfaces that define the volume of\nairspace at and around an aerodrome to be kept free of obstacles in order to permit the\nintended aircraft operations to be conducted safely and to prevent the aerodrome from\nbecoming unusable by the growth of obstacles around the aerodrome;\n\n\"record\" has the meaning assigned to it in the Civil Aviation Regulations 2016;\n\n\"vicinity\" means a defined airspace around an aerodrome for control of obstacles\nthat may infringe the obstacle l imitation surfaces around the aerodrome, contained\nwithin a radius of 15 000 metres from the aerodrome;\n\n\"sign\" includes a signal , warn ing sign, post, direction post , line, lamp and other\ndevice for the guidance or direction of a person using a manoeuvring area;\n\n\"airside\" means the movement area of an aerodrome, adjacent terrain and any\nbuilding or any part of the building, access to which is controlled;\n\n\"air navigation service s unit\" includes air traffic control unit, flight information\ncentre and air navigation services reporting office.\n\nPART II\nCATEGORIES OF AERODROMES\n\nCategories of aerodromes\n4. For the purposes of these Regulations, aerodromes shall be categorised as follows:\n\n(a) Category 1: Government aerodrome available for use by commercial air\ntransport aircraft;\n\n(b) Category 2: Government aerodrome not available for use by commercial air\ntransport aircraft;\n\n(c) Category 3 : private aerodrome available for use by commercial air\ntransport aircraft; and\n\n(d) Category 4 : private aerodrome not available for use by commercial air\ntransport aircraft.\n\nPART III\nESTABLISHMENT , MAINTENANCE AND OPERATION OF AERODROME\n\nEstablishment of aerodrome\n5.  (1) No person shall establish an aerodrome unless he is authorized by the\nMinister.\n\n(2) An application for the authorization shall be―\n\n(a) made to the Minister in the form and manner and accompanied by the\ndocuments and information, as may be determined by the Minister;\n\n(b) accompanied by the prescribed fee; and\n\n(c) in accordance with any requirement s as may be determined by the\nMinister.\n\n(3) If the Minister is satisfied that the applicant ha s fulfilled the requirements in\nsubregulation (2), the Minister may authorize the app licant to establish an aerodrome\nsubject to the terms and conditions as the Minister may impose.\n\n(4) The authorization to establish an aerodrome under subregulation (3) shall\nbe valid for a period as may be determined by the Minister  and it may be varied or\nextended.\n\n(5) An applicatio n to vary or extend the authorization shall be made in\naccordance with subregulation (2).\n\n(6) An application to extend an authorization shall be made not less than\nsixty days before the date of expiration of the authorization.\n\nCertificate of aerodrome\n6. (1) No person shall maintain or operate an aerodrome unless the person holds a\ncertificate of aerodrome issued by the Director General.\n\n(2) An application for a certificate of aerodrome shall be―\n\n(a) made to the Director General in the form and manner as may be\ndetermined by the Director General;\n\n(b) accompanied by an aerodrome manual and the documents and\ninformation as may be determined by the Director General;\n\n(c) accompanied by the prescribed fee; and\n\n(d) in accordance with any requirement s as may be determi ned by the\nDirector General.\n\n(3) The Director General may issue a certificate of aerodrome if he is satisfied\nthat the applicant has fulfilled the requirements in subregulation (2).\n\n(4) The certificate of aerodrome shall be valid for a period as may be determined\nby the Director General and it may be varied or renewed.\n\n(5) An application to vary or renew a certificate of aerodrome shall be—\n\n(a) made in writing to the Director General and in the case of renewal the\napplication shall be made not less than sixty days before the date of\nexpiration of the certificate of aerodrome;\n\n(b) accompanied by the prescribed fee; and\n\n(c) in accordance with any requirement s as may be determined by the\nDirector General.\n\n(6) The Director General may impose such terms and conditions on the issuance,\nvariation or renewal of a certificate of aerodrome under this regulation.\n\nVariation of aerodrome manual\n7. (1) An application to vary an aerodrome manual which forms part of the\napplication for a certificate of aerodrome under subregulation 6(2) shall be―\n\n(a) made to the Director General in the form and manner and accompanied\nby the  documents and information, as may be determined by the\nDirector General; and\n\n(b) accompanied by the prescribed fee.\n\n(2) The Director General  may vary an aerodrome manual if he is satisfied that\nthe applicant has fulfilled the requirements in subregulation (1).\n\n(3) The Director General may impose such terms and conditions on the variation\nof the aerodrome manual under this regulation.\n\nMaintenance and operation of aerodrome\n8. (1) No person shall maintain or operate a Category 2 or 4  aerodrome unless the\nperson holds a licence issued by the Minister.\n\n(2) An application for a licence under subregulation (1) shall be―\n\n(a) made to the Minister in the form and manner and accompanied by the\ndocuments and information, as may be determined by the Minister;\n\n(b) accompanied by the prescribed fee;\n\n(c) in accordance with any requirement as may be determined by the\nMinister.\n\n(3) The Minister may issue a licence to an applicant if he is satisfied that the\napplicant―\n\n(a) holds a certificate of aerodrome under regulation 6; and\n\n(b) has fulfilled the requirements in subregulation (2).\n\n(4)  The licence to maintain or operate a Category 2 or 4 aerodrome shall be valid\nfor a period as may be determined by the Minister and it may be varied or renewed.\n\n(5) An application to vary or renew the licence shall be—\n\n(a) made in writing to the Minister and in the case of renewal the\napplication shall be made not less than sixty days before the date of\nexpiration of the licence;\n\n(b) accompanied by the prescribed fee; and\n\n(c) in accordance with any requirement as may be determined  by\nthe Minister.\n\n(6) The Minister may impose such terms and conditions on the issuance ,\nvariation or renewal of licence under this regulation.\n\nChanges to particulars in authorization, certificate or licence\n9. Any person who holds an authorization, a certificate or licence under these\nRegulations shall inform the Minister or the Director General, as the case may be, in\nwriting of any changes in—\n\n(a) the business  address appearing on the authorization, certificate or licence,\nwithin fourteen days before the date of change of the business address; or\n\n(b) the mailing address appearing on the authorization, certificate or licence\nupon the change of the mailing address.\n\nTransfer of authorization, certificate or licence\n10. An authorization, a certificate or licence issued under these Regulations shall be\npersonal to whom the authorization, certificate or licence  is issued and shall not be\ntransferred or assigned to any other person.\n\nSurrender of authorization, certificate or licence\n11. (1)  A person who hold s an authorization, a certificate or licence issued under\nthese Regulations may surrender the authorization, certificate or licence  by giving a\nwritten notice to the Minister or the Director General, as the case may be,  not less than\nninety days before the proposed date of surrender.\n\n(2) If the Minister or the Director General , as the case may be, allows the\nsurrender of the authorization, certificate or licence by the person, the surrender shall\ntake effect six months from the date the Minister or the Director General receives the\nwritten notice under subregulation (1) or on such other date as may be determined by\nthe Minister or the Director General, and the person shall—\n\n(a) take the measures and provide the assistance as may be required by\nthe Minister or the Director General; and\n\n(b) surrender the authorization, certificate or licence to the Minister or the\nDirector General on or before the effective date of the surrender.\n\n (3) The surrender of the authorization, certificate or licence under\nsubregulation (1) shall be irrevocable unless the Minister or the Director General, as the\ncase may be, allows the surrender to be withdrawn.\n\nPART IV\nOBLIGATIONS OF AERODROME OPERATOR\n\nAerodrome operator's obligations in maintaining or operating aerodrome\n12. An aerodrome operator who maintains or operates an aerodrome shall—\n\n(a) ensure that the facilities and specification of the aerodrome fulfil the needs\nof the aircraft for which the aerodrome is intended;\n\n(b) ensure that the facilities are in a serviceable condition s and the apparatus\ninstalled at the aerodrome are functioning;\n\n(c) ensure that the specification of the aerodrome comply with the standards as\nmay be determined by the Director General;\n\n(d) ensure that the operation of the aerodrome is co nducted in accordance with\nthe aerodrome manual;\n\n(e) ensure that the services provided in the aerodr ome are in serviceable\nconditions;\n\n(f) ensure that the maintenance of the facilities of the aerodrome comply with\nthe standards as may be determined by the Director General;\n\n(g) if air navigation services are provided at the aerodrome, coordinate with the\nperson who provides the air navigation services to ensure the safety of any\naircraft operating on the aerodrome; and\n\n(h) ensure that all persons carrying out activities at the aerodrome comply with\nany directions as may be determined by the Director General.\n\nInformation on aerodrome operation hours\n13. An aerodrome operator shall notify or cause to be notified to an operator of an\naircraft the times that the aerodrome is available for take-off and landing of the aircraft.\n\nCompetence of personnel\n14. (1) An aerodrome operator shall—\n\n(a) ensure that there is an  adequate number of qualified and skilled\npersonnel to perform the duties relevant for aerodrome maintenance\nand operation; and\n\n(b) implement any programmes so as to upgrade the competency of the\naerodrome operator's personnel.\n\n (2) The Director General may, at any time, direct an aerodrome operator to\nfurnish evidence that the ae rodrome operator complies with the requirements under\nparagraphs (1)(a) and (b) and the aerodrome operator shall comply with the direction.\n\nSafety management system\n15. An aerodrome operator who maintains or operates  a Category 1 or 3 aerodrome\nshall establish a safety management system  and shall ensure that the safety\nmanagement system is maintained, implemented and complied with.\n\nStorage of inflammable goods and dangerous goods\n16. (1) No aerodrome operator  shall store or cause to be stored any inflammable\ngoods or dangerous goods at an aerodrome except with the permission of the\nDirector General.\n\n (2) For the purpose of this regulation, \"dangerous goods\" means articles or\nsubstances which are—\n\n(a) capable of  posing any risk to health, safety, property or the\nenvironment; and\n\n(b) listed or classified as dangerous goods in  the Technical Instructions for\nthe Safe Transport of Dangerous Goods by Air (Doc 9284), approved\nand issued in accordance with the procedure established by\nthe Council of the International Civil Aviation Organisation (ICAO).\n\nRemoval of obstacle from aerodrome\n17. An aerodrome operator shall remove from an aerodrome any obstacle, other than\nallowable obstacle, that is likely to be hazardous to an aircraft operation.\n\nEnvironment management programme\n18. An aerodrome operator who maintains or operates a Category 1 or 3 aerodrome\nshall establish an environment  management programme  and shall ensure that the\nenvironment management programme is maintained and complied with.\n\nProtection of navigation aids\n19. An aerodrome operator shall not—\n\n(a) construct or cause to be constructed, any facilities on an aerodrome, which\nmay adversely affect the operation of any electronic, visual navigation or air\nnavigation services facility on the aerodrome; and\n\n(b) carry out or cause to be carried out any a ctivities which may cause\ninterruption to any electronic, visual navigation or air navigation service s\nfacility on the aerodrome.\n\nGeneral obligations\n20. (1) An aerodrome operator shall—\n\n(a) ensure that an aerodrome is free from any unauthorized person ,\nvehicle, or animal which is not under proper control;\n\n(b) ensure that an aerodrome is free from any obstacle, other than\nallowable obstacle, that is likely to be hazardous to aircraft operations;\n\n(c) mark any allowable obstacle in accordance with any requirement s as\nmay be determined by the Director General;\n\n(d) inform the Director General of any alterations to an allowable obstacle\nor  works on the airside of an aerodrome;\n\n(e) install wind direction indicators to show the surface direction of the\nwind and ensure that the wind direction indicators are functioning;\n\n(f) maintain markings in a conspicuous condition and ensure that the\nmarkings are readily visible to aircraft in the air or manoeuvring on the\nground in accordance with any requirement s as may be determined by\nthe Director General;\n\n(g) mark the areas on the landing area which are unserviceable in\naccordance with any requirement s as may be determined by the\nDirector General;\n\n(h) notify the Director General, if an aerodrome becomes unserviceabl e or\nif any part of the surface of the landing area deteriorates to such an\nextent that the safe operation of an aircraft may be affected; and\n\n(i) submit to the Director General the reports on the condition s of an\naerodrome in accordance with any requirements as may be determined\nby the Director General.\n\n (2) For the purpose of this regulation,  \"landing area\" means the part of a\nmovement area on an aerodrome intended for the take-off or landing of aircraft.\n\nSpecial inspections\n21. (1) An aerodrome operator shall inspect an aerodrome—\n\n(a) as soon as practicable after any accident or incident;\n\n(b) during any period of construction or repair of the aerodrome facilities\nor equipment that is critical to the safety of aircraft operations; and\n\n(c) at any other time when there are conditions at the aerodrome that may\naffect aviation safety.\n\n(2)  An aerodrome operator shall report to the Director General of any inspection\ncarried out under subregulation (1) within the specified time limits in the form  and\nmanner as may be determined by the Director General.\n\nWarning notices\n22. Where a low flying aircraft, at or near an aerodrome, or where a taxiing aircraft is\nlikely to be hazardous to people or vehicles, an aerodrome operator shall—\n\n(a) if a public way is in the control of the aerodrome operator, post hazard\nwarning notices on the public way adjacent to the manoeuvring area; or\n\n(b) if a public way is not controlled by the aerodrome operator, inform the\nhazard to the relevant authority.\n\nPART V\nAERONAUTICAL VISUAL AIDS\n\nAeronautical visual aids\n23. An aerodrome operator shall provide aeronautical visual aids at an aerodrome as\nmay be determined by the Director General.\n\nPART VI\nAERONAUTICAL GROUND LIGHTS\n\nAeronautical ground lights\n24. (1) This regulation shall apply to an aerodrome used at night and during poor\nvisibility.\n\n(2) An aerodrome operator shall establish and maintain aeronautical ground\nlights and any other lights as may be necessary for the safe operations of aircraft and for\nthe movement areas of the aerodrome in accordance with any requirement s as may be\ndetermined by the Director General.\n\n(3) An aerodrome operator shall ensure that aeronautical ground lights and any\nother lights under subregulation (2) installed on the aerodrome are lighted.\n\n(4) An aerodrome operator shall extinguish, screen or modify to eliminate a light\non the ground which is not an aeronautical ground light which by reason of its intensity,\nconfiguration or colour, may prevent or cause confusion in the interpretation of\naeronautical ground lights.\n\n(5) No person shall establish, maintain or alter the  specification of any\naeronautical ground light, other than an aeronautical beacon , except with the\npermission of the Director General.\n\n(6) For the purpose of this regulation, \"aeronautical beacon\" means an\naeronautical ground light visible at all azimuths, continuously or intermittently, to\ndesignate a particular point on the surface of an aerodrome.\n\nSecondary power supply\n25. An aerodrome operator who maintains or operates an aerodrome equipped with\naeronautical ground lights shall install a secondary power supply as may be determined\nby the Director General.\n\nAerodrome beacon\n26. An aerodrome operator shall place an aerodrome beacon at an aerodrome if—\n\n(a) the aircraft navigation is predominantly by visual means;\n\n(b) poor visibility is frequent; or\n\n(c) it is difficult to locate the aerodrome from the air due to surrounding lights\nor terrain.\n\nPART VII\nOBSTACLE LIMITATION AND REMOVAL\n\nObstacle limitation\n27. (1) No person, except with the approval of the Director General, shall cause or\npermit—\n\n(a) the erection or growth of an obstacle at or in the vicinity of an\naerodrome; or\n\n(b) any object to penetrate the obstacle limitation surface  if the object may\ncause an increase in an obstacle clearance altitude or in the height for\nan instrument approach procedure or of any associated visual circling\nprocedure.\n\n(2)  The object referred to in paragraph (1) (b) includes a new object or an\nextension of an existing object above the obstacle limitation surface.\n\nAuthorization to construct in the vicinity of an aerodrome\n28. (1) A person shall not construct a building or structure in the vicinity  of an\naerodrome unless authorized by the Director General.\n\n(2)  An application for the authorization under subregulation (1) shall be—\n\n(a) made to the Director General in the form and manner and accompanied\nby the  documents and information , as may be determined by the\nDirector General;\n\n(b) accompanied by the prescribed fee; and\n\n(c) made in accordance with any requirement s as may be determi ned by\nthe Director General.\n\n (3) If the Director General is satisfied that the applicant has fulfilled the\nrequirements under subregulation (2) and the applicant has conducted an aeronautical\nstudy on the effect of the construction on operation s of aircraft , the Direct or General\nmay give an authorization to the applicant.\n\n(4) The Director General may impose such term s and conditions on the\nauthorization issued under this regulation.\n\nInstallation of equipment on airside\n29. (1) A person shall not, except for air navigation purposes, construct or install\nequipment or any installation on a runway strip, runway end safety area, taxiway strip,\nclearway or within any distances determined by the Director General, if the\nconstruction or the equipment may endanger the safety of an aircraft.\n\n(2) For the purpose of subregulation (1), the installation or construction shall be\nin accordance with any requirements as may be determined by the Director General.\n\n(3) For the purposes of this regulation, \"clearway\" means a defined rectangular\narea on the ground or water under the control of the relevant authority, selected or\nprepared as a suitable area over which an aircraft may make a portion of its initial climb\nto a specified height.\n\nMarking and lighting of obstacle\n30. (1) The owner of an obstacle shall mark an  obstacle within an aerodrome or in\nthe vicinity of an aerodrome or en route to an aerodrome.\n\n(2) If the obstacle under subregulation (1) is associated with an aerodrome used\nat night, the owner of the obstacle shall cause the obstacle to be lighted.\n\n (3) The marking and lighting of an obstacle under subregulations (1) and (2)\nshall be in in accordance w ith any requirement s as may be determined by the Director\nGeneral.\n\nPART VIII\nAERODROME EMERGENCY PLAN\n\nAerodrome emergency plan\n31. (1) An aerodrome operator shall establish an aerodrome emergency plan at an\naerodrome in accordance with any requirement s as may be determined by the\nDirector General.\n\n (2) An aerodrome emergency plan shall include provisions on—\n\n(a) aerodrome emergency exercise;\n\n(b) emergency operation centre; and\n\n(c) mobile command post.\n\nPART IX\nWILDLIFE HAZARD MANAGEMENT PLAN\n\nWildlife hazard management plan\n32. An aerodrome operator shall establish a wildlife hazard management plan in\naccordance with any requirements as may be determined by the Director General.\n\nPART X\nAERODROME OPERATIONAL SERVICES\n\nRescue and fire fighting services\n33. (1) An aerodrome operator shall establish and provide rescue and fire fighting\nfacilities in the aerodrome in accordance with any requirements as may be determined\nby the Director General.\n\n(2) All rescue and fire  fighting personnel shall  be properly trained and fulfil all\nthe requirements as may be determined by the Director General.\n\nSupply of aviation fuel\n34. (1) An aerodrome operator shall cause or permit aviation fuel to be delivered to\nor from an aviation fuel installation  to an aircraft in accordance with any requirement s\nas may be determined by the Director General.\n\n (2) A fuel operator shall not—\n\n(a) cause or permit aviation fuel to be dispensed for use in an aircraft if the\nfuel operator knows or has reason to believe t hat the aviation fuel is\nnot fit for use in the aircraft; or\n\n(b) supply fuel to an aircraft except at a place and in a manner approved by\nthe aerodrome operator.\n\n(3)  An aerodrome operator may impose any conditions on the approval granted\nunder paragraph (2)(b) to safeguard persons or property on the ground.\n\n(4)  A fuel operator shall keep a record in writing of an aviation fuel installation\nwhich includes—\n\n(a) particulars of the grade and quantity of aviation fuel delivered and the\ndate of delivery;\n\n(b) particulars of all samples taken of the aviation fuel and of the results of\nthe tests of those samples;\n\n(c) particulars of the maintenance and cleaning of the installation; and\n\n(d) particulars of fuel dispensed and the date of dispensation.\n\n(5)  A fuel operator shall—\n\n(a) keep the record under subregulation (4) for a period of twelve months\nor such longer period as the Director General may in a particular case\ndirect; and\n\n(b) produce the record within a reasonable time after being requested to\ndo so by an authorized officer.\n\n(6)  If it appears to the Director General that any aviation fuel is intended or\nlikely to be delivered in contravention of this regulation, the Director General may\ndirect a fuel operator not to permit any aviation fuel to be dispensed from an aviation\nfuel installation for a particular period of time.\n\n(7) For the purposes of this regulation—\n\n(a) \"aviation fuel installation\" means any apparatus or container, including\na vehicle designed, manufactured or adapted for the storage of aviation\nfuel or for the delivery of fuel to an aircraft; and\n\n(b) \"fuel operator\" means a person who manages the delivery of aviation\nfuel in an aerodrome.\n\nRemoval of disabled aircraft\n35. An aerodrome operator shall establish a plan for the remova l of disabled aircraft\nfrom a movement area or from an area adjacent to the  movement area in accordance\nwith the requirements as may be determined by the Director General.\n\nApron management services\n36. (1) An aerodrome operator shall provide apron management service s at an\naerodrome where air navigation services are provided in accordance with any\nrequirements as may be determined by the Director General.\n\n(2) For the purpose of this regulation, \"apron management service s\" means the\nservices provided to regulate the activities and the movement of aircraft and vehicles on\nan apron.\n\nSafety inspection programme\n37. An aerodrome operator shall establish and maintain a safety inspection\nprogramme for an aerodrome in accordance with any requirements as may be\ndetermined by the Director General.\n\nPART XI\nREGULATIONS RELATING TO MOVEMENT AREAS\n\nAccess of vehicles to movement area and manoeuvring area\n38. (1) An aerodrome operator shall—\n\n(a) limit the access of a vehicle used for aerodrome ope rations and aircraft\noperations to a manoeuvring area;\n\n(b) provide adequate procedures for the safe and orderly access to an\naerodrome, and operation  in a manoeuvring area , where an air\nnavigation service s unit is in operation at the aerodrome, in order to\nensure that each vehicle operating in the manoeuvring area is\ncontrolled by—\n\n(i) two-way radio communication between the vehicle and the air\nnavigation services unit; or\n\n(ii) an accompanying radio communication or escort vehicle with\nadequate measures including signals or guards to control the\nvehicle, where the vehicle does not have a radio;\n\n(c) provide adequate measures to ensur e that vehicles operating in a\nmovement area are controlled by signs or signals as approved by the\nDirector General, where an air navigation service s unit is not in\noperation at the aerodrome; and\n\n(d) ensure that any person who operates a vehicle on a movement area\ncomplies with any requirements as may be determined by\nthe Director General.\n\n(2)  An aerodrome operator shall ensure that a perso n who has access to a\nmovement area wears coloured reflective gear which shall be conspicuously displayed\nwhile on the movement area.\n\n(3)  For the purpose of this regulation, \"gear\" includes a vest, band, overcoat,\nhelmet and socks.\nAirport pass and temporary airport pass\n39. (1)  This regulation shall not apply to—\n\n(a) an aerodrome declared as a protected place under the Protected Areas\nand Protected Places Act 1959 [Act 298]; and\n\n(b) Category 2 and 4 aerodromes.\n\n(2)  An aerodrome operator shall take the necessary steps to ensure that the\nprohibited area of an aerodrome operated by the aerodrome operator is clearly\ndemarcated and brought to the general notice of the public.\n\n(3)  A person shall not enter or remain in th e protected area of an aerodrome\nunless he holds an airport pass or a temporary airport pass issued by the\nChief of Security.\n\n(4)  The Chief of Security may impose any conditions as he thinks fit on the\nairport pass or temporary airport pass issued by him.\n\n(5)  The holder of an airport pass or temporary airport pass shall comply with all\nthe conditions imposed on the pass.\n\n(6)  An airport pass issued under subregulation (3) shall be valid for a period not\nexceeding two years.\n\n(7)  For the purposes of this regulation—\n\n(a) \"prohibited area\" means the area of an aerodrome operated by an\naerodrome operator where no person is permitted to enter or to\nremain in it unless he is in possession of an airport pass; and\n\n(b) \"Chief of Security\" means the person appointed by an aerodrome\noperator as chief officer-in-charge of the security of the aerodrome and\nincludes any person authoriz ed by the Chief of Security to act on his\nbehalf.\n\nVehicle operation in movement area\n40. (1)  A person shall not operate a vehicle in a movement area unless—\n\n(a) the person is authorized by—\n\n(i) an air traffic controller if the vehicle  is to be operated in a\nmanoeuvring area where air navigation services are provided; or\n\n(ii) an aerodrome operator if the vehicle is to be operated in an\napron;\n\n(b) the person is trained to operate the vehicle;\n\n(c) the person has been issued with  an airside driving permit under\nregulation 44; and\n\n(d) the vehicle—\n\n(i) has been issued with an airside vehicle p ermit under\nregulation 41; and\n\n(ii) is equipped with a rotating beacon in accordance with the colour\nand characteristics as may be determined by the Director General.\n\n (2) A person who operates a vehicle in a manoeuvring area—\n\n(a) shall comply with all markings, signs and lights as may be determined\nby the Director General; and\n\n(b) shall not exceed the speed of twenty five kilometres or fifteen miles per\nhour.\n\n(3)  A person who operates a radio-equipped vehicle in a movement area shall—\n\n(a) establish a two-way radio communication—\n\n(i) before entering a manoeuvring area, with the air traffic\ncontroller; or\n\n(ii) before entering an apron, with the aerodrome operator; and\n\n(b) maintain a continuous listening watch on the assigned frequency while\non the movement area.\n\n(4) For the purpose of this regulation, a person who operates a vehicle\nincludes—\n\n(a) in relation to a trailer, the driver of a vehicle by which the trailer is\ndrawn;\n\n(b) if a separate person acts as a steersman of a vehicle, that person as well\nas any other person engaged in the driving of that vehicle; and\n\n(c) the rider of a bicycle and any person propelling a tricycle or pushing or\npulling a cart.\n\nAirside vehicle permit\n41. (1) A person shall not use, cause, opera te, or permit to be used, a vehicle in a\nmanoeuvring area unless the vehicle has been issued an airside vehicle permit by the\naerodrome operator.\n\n(2)  The airside vehicle permit shall be valid for one year unless the permit is\nsuspended or revoked by the aerodrome operator.\n\nTemporary entry permit\n42. (1) A person shall not  use, cause, operate, or permit to be used, a vehicle in an\napron at an aerodrome unless the vehicle has been issued a temporary entry permit by\nthe aerodrome operator.\n\n(2) The vehicle issued with the temporary entry permit shall—\n\n(a) be accompanied by a holder of an airside driving permit who shall act\nas steersman of the vehicle;\n\n(b) display a chequered flag as provided at the highest point of the vehicle;\n\n(c) not be parked or driven within fifteen metres of an aircraft;\n\n(d) not enter a manoeuvring area or an aircraft hangar; and\n\n(e) comply with any other conditions imposed by the aerodrome operator.\n\nEntry due to emergency\n43. Regulations 41 and 42 shall not apply to any vehicle entering a movement area for\nemergency purposes.\n\nAirside driving permit\n44. (1) A person shall not—\n\n(a) drive a vehicle on a movement area;\n\n(b) employ another person to drive a vehicle on a movement area; or\n\n(c) permit another person to drive a vehicle on a movement area,\n\nunless he, the person employed or the person permitted, as the case may be, holds a\nvalid airside driving permit issued by the aerodrome operator.\n\n(2)  The airside driving permit shall be valid for a period of one year unless the\npermit is suspended or revoked by the aerodrome operator.\n\nFencing of aerodromes and installation\n45. An aerodrome operator shall erect a fence or a suitable barrier around an\naerodrome in accordance with any requirements as may be determined by\nthe Director General—\n\n(a) to prevent any animals from entering into a movement area; and\n\n(b) to deter access by an unauthorized person onto an airside.\n\nDirector General may issue directions\n46. The Director General may, from time to time, issue directions to the\nChief of Security in relation to any matter under regulations 39, 4 1, 4 2 and 44 , in\nparticular, directions in respect of the conditions to be imposed on an airport pass, a\ntemporary airport pass, an airside vehicle pe rmit, a temporary entry permit and an\nairside driving permit issued under the regulations.\n\nPART XII\nAERODROME MAINTENANCE\n\nMaintenance programme\n\n47. An aerodrome operator shall establish a maintenance programme in accordance\nwith any requirements as may be determined by the Director General.\n\nMaintenance of pavements\n48. An aerodrome operator shall provide maintenance of pavements in accordance\nwith any requirements as may be determined by the Director General.\n\nMaintenance of aeronautical visual aids\n49. An aerodr ome operator shall implement a preventive maintenance system for\naeronautical visual aids at an aerodrome in accordance with any requirements as may\nbe determined by the Director General.\n\nWorks during low visibility operations\n50. An aerodrome operator shall ensure that any construction or maintenance activity\nis not undertaken in the proximity of aerodrome electrical systems at any time during\nthe periods of low visibility operations as may be determined by the Director General.\n\nWorks on aerodrome\n51. An aerodrome operator shall establish procedures and precautions in accordance\nwith any requirements as may be determined by the Director General to ensure that any\nwork or activity carried out on an aerodrome does not endanger the safety of any\naircraft operations.\n\nPART XIII\nAERODROME ELECTRICAL SYSTEM\n\nAerodrome electrical system\n52. (1) This Part shall apply to all categories of aerodromes where aerodrome\nelectrical systems have been installed at the aerodrome.\n\n(2)  An aerodrome operator shall ensure that adequate aerodrome electrical\nsystem is made available for the safe functioning of air navigation services and facilities\nin accordance with any requirements as may be determined by the Director General.\n\nPART XIV\nREPORTING OF INFORMATION\n\nInformation for aerodrome users\n53. An aerodrome operator shall ensure th at all information relating to an aerodrome\nand its facilities which is significant for the conduct of flights to and from the aerodrome\nis available to the users of the aerodrome.\n\nNotifying and reporting\n54. (1) An aerodrome operator shall report to the Director General in writing, and\npilots who may be affected, within the specified time limits determined by the\nDirector General, in relation to—\n\n(a) any difference  in information provided by the aerodrome operator in\nthe Aeronautical Information Publication , Aeronautical Information\nCircular or notice to airmen;\n\n(b) any changes to the aerodrome facilities, equipment and level of\nservices planned, in advance; and\n\n(c) any issue that may require immediate notification including obstacles\nand wildlife hazards, levels of service s, movement areas, and any other\ncondition that affects aviation safety at the aerodrome and requires\nprecautions to be taken.\n\n(3)     For the purpose of this regulation—\n\n(a) \"Aeronautical Information Publication\" means the Aeronautical\nInformation Publication issued by the Director General;\n\n(b) \"Aeronautical Information Circular\" means the Aeronautical\nInformation Circular issued by the Director General;\n(c)  \"notice to a irmen\" means the notices containing information\nconcerning the establishment, condition or change in any aeronautical\nfacility, services, procedure or hazard, the timely knowledge of which is\nessential to personnel concerned with flight operations.\n\nPART XV\nHOUSING, PARKING AND AIR NAVIGATION FACILITY\n\nHousing of aircraft\n55. (1) An aircraft may be housed at an aerodrome owned by the Government which\nis managed and operated by the Director General, subject to a housing charge which\nshall be payable to the  Department of Civil Aviation  at the rates specified in the Civil\nAviation (Fees and Charges) Regulations 2016 [P.U.(A) 99/2016].\n\n (2) An aircraft shall be accepted for housing subject to the following conditions:\n\n(a) all charges  payable in respect of the aircraft shall be payable by the\noperator, owner or pilot-in-command of the aircraft before departure;\n\n(b) in default of payment of the charges, the Director General on behalf of\nthe Government shall be at liberty forthwith to remov e the aircraft\nfrom any hangar or shed in which it may be housed or stored and to\nplace it in the open and the Director General shall further be at liberty,\neither in addition to or alternatively to such removal, after giving\n\nfourteen days' notice in writi ng to the owner of his intention so to do,\nto sell the aircraft or any part, component or accessory thereof by\npublic auction or private contract without himself or his servants being\nresponsible for any loss in connection with the sale and to reimburse\nhimself out of the proceeds of the sale an amount of the charges due to\nhim together with all costs, charges and expenses incurred in\nconnection with the sale;\n\n(c) in addition to any lien upon or any other right s or remedy which the\nGovernment may have in respect of the aircraft under or apart from\nthese conditions, the Government shall be entitled to retain possession\nof the aircraft until all charges due in respect of the aircraft shall have\nbeen paid irrespective of whether the charges or any of them shall have\nbeen previously demanded or not; and\n\n(d) the Government is not responsible  for any damages, loss or\ndeterioration to the aircraft or any part, component or accessory\nthereof howsoever caused whether during c ustody or storage or\notherwise.\n\nParking of aircraft\n56. (1) The Director General or an aerodrome operator, as the case may be, may\nrequire an aircraft to be moved from one assigned parking space to another after a\nperiod of one and a half hours standing time has elapsed.\n\n (2)  The Director General or an aerodrome operator, as the case may be, may for\nreason of safety or any other reason, order an aircraft parked to be removed to a\nsuitable hangar, in which case housing charges shall be applied from the time the order\nhas been executed.\n\n (3) For the purpose of this regulation, \"parking\" or \"parked\" means parking or\nparked at an aerodrome in the open.\n\nAir navigation facility charges\n57. (1) Every flight through the airspace within the boundaries of Kuala Lumpur and\nKota Kinabalu Flight Information Regions shall be subject to an air navigation facility\ncharge which shall be payable to the Department on Civil Aviation at the rates specified\nin the Civil Aviation (Fees and Charges) Regulations 2016.\n\n (2) Subregulation (1) shall not apply to—\n\n(a) any official aircraft of the Federal Government or Government of any\nstate in Malaysia, including a military aircraft;\n\n(b) any official aircraft of Heads of State, Ministers and other dignitaries\nvisiting Malaysia as state guests on the basis of reciprocity;\n\n(c) any specified aircraft operated by a flying club which has, in the case of\nan aerodrome managed and operated by the Director General, been\napproved for the purpose of this regulation by the Director General if\nthe flight prece ding the landing or following the take -off, as the case\nmay be, has not been for hire or reward or for any purpose other than\nflying for the club;\n\n(d) any aircraft engaged in search and rescue operations;\n\n(e) any aircraft which is required to return to the airport of departure or to\nan alternate airport due to malfunctioning of the aircraft equipment ,\nclosure of the destination airport after the departure of the  aircraft or\nother circumstances beyond the control of the operator;\n\n(f) flights between two unattended landing grounds;\n\n(g) flights remaining within the aerodrome control zone or within a radius\nof five miles from the aerodrome or within a designated adjacent\ntraining area; or\n\n(h) any other aircraft or classes of aircrafts as may be determined by the\nDirector General.\n\nArrangement for payment of housing charges and air navigation facility charges\n58. Unless prior arrangements have been made with the Director General—\n\n(a) housing charges shall be paid prior to the departure of the aircraft from the\nairport of landing;\n\n(b) all air navigation facility charges for a flight to be undertaken shall be paid in\nadvance of such flight;\n\n(c) the Director General may refuse to permit an aircraft to depart from the\nairport until the charges due under this Part have been paid; and\n\n(d) all air navigation facility charges for a flight which does not land at an airport\nin Malaysia shall be a debt due to the Government by the operator, owner or\nthe pilot-in-command of the aircraft.\n\nPART XVI\nMISCELLANEOUS\n\nCustoms airport\n59. Any aerodrome which has been authorized under regulation 5 may be prescribed\nas a customs airport for the purpose of the Customs Act 1967 [Act 235].\n\nSafety measures against fire\n60. (1) No person shall, in an aerodrome—\n\n(a) smoke or bring an open flame into any place, where that act is\nprohibited by a displayed notice;\n\n(b) if there is no notice prohibiting smoking in or bringing an open flame\ninto a place, smoke within the place or bring an open flame into the\nplace within a distance as may be determined by the Director General\nof any—\n\n(i) aircraft;\n(ii) vehicle used for the supply of fuel to an aircraft;\n\n(iii) fuel store;\n\n(iv) refuse dump;\n\n(v) storage of liquid fuel; or\n\n(vi) storage of explosives;\n\n(c) wilfully give a false fire alarm;\n\n(d) tamper or interfere with any fire hose, fire hydrant or any equipment\nprovided for fire fighting purposes;\n\n(e) keep, store, discard or discharge any flammable liquid, gas, signal flares or\nsimilar material in an aircraft, except in the receptacle appropriate for the\npurpose or in a place on the aerodrome specifically approved b y the\naerodrome operator for the purpose;\n\n(f) store or stack any material or equipment in a manner which constitutes or is\nlikely to constitute a fire hazard; or\n\n(g) do any act or cause any circumstances which in the opinion of the Director\nGeneral would cause fire hazard in an aerodrome.\n\n(2)  An aerod rome operator shall display at the  conspicuous places within the\naerodrome, the acts prohibited under subregulation (1).\n\nTest running of aircraft engine\n61. A person shall not carry out a test run of an aircraft engine except at a place\ndesignated by the aerodrome operator.\n\nCertain acts prohibited on aerodrome\n62. (1) No person shall, in an aerodrome—\n\n(a) obstruct or interfere with the proper use of the aerodrome;\n\n(b) obstruct any person from executing his duties at the aerodrome;\n\n(c) remove or deface any notice, writing, document or marking erected or\ndisplayed at the aerodrome;\n\n(d) discard, leave or drop anything capable of causing injury to any person\nor damage to any property;\n\n(e) dump any waste except at a place approved for the purpose by the\naerodrome operator;\n\n(f) dump or spill any substance capable of causing water pollution,\nwhether solid, liquid, vapour or gas or a combination of these, except at\nthe place approved for that purpose by the aerodrome operator; or\n\n(g) cause nuisance to any person in the aerodrome.\n\n(2)  Except with the permission of an aerodrome operator, no person shall—\n\n(a) tamper or interfere with any part of an aerodrome or any equipment\nassociated with the operation of the aerodrome;\n\n(b) climb any wall, fence, barrier, ceiling, gate or post on an aerodrome;\n\n(c) handle any baggage or carry baggage for a passenger at an aerodrome;\n\n(d) bring a vehicle into or drive into an aerodrome; or\n\n(e) obstruct entrance to or a passage at an aerodro me in a manner that\ncauses inconvenience to users of the entrance or passage.\n\nDangerous light\n63. (1) No person shall project a light in the vicinity of an aerodrome which by its\nglare endangers the safety of an aircraft arriving or departing from the aerodrome.\n\n(2)  If in the opinion of the Director General , a light appears to be capable of\nendangering the safety of an aircraft, the Director General may direct the person who\noperates or controls of the light to extin guish the light and to prevent  the projection of\nthe light for a period as may be determined by the Director General.\n\nSuspension, variation and revocation of authori zation, certificate, licence or\napproval\n64. (1) The Minister or the Director General, as the case may be,  may suspend, vary\nor revoke a n authorization, certificate, licence or approval  issued under these\nRegulations to any person under any of the following circumstances:\n\n(a) if the person contravenes any terms and conditions of the\nauthorization, certificate, licence or approval;\n\n(b) if the person contravenes any  provisions of the Act or these\nRegulations;\n\n(c) if the authorization, certificate, licence or approval was obtained by\nfraud or misrepresentation; or\n\n(d) in the event of the death, incapacity, ban kruptcy of the person or, in the\ncase of a company, in the event of its liquidation or on the appointment\nof a receiver or manager.\n\n(2) The Minister or the Director General, as the case may be,  shall not suspend ,\nvary or revoke any authorization, certificate, licence or approval unless the person has\nbeen given an opportunity to make a representation.\n\n(3) Pending any decision to suspend, vary or revoke  any authorization,\ncertificate, licence or approval under subregulation (1), the Minister or the\nDirector General , as the case may be,  may, if he considers necessary, temporarily\nsuspend or vary, with or without condition, the authorization, certificate, licence or\napproval.\n\n(4) If any authorization, certificate, licence or approval issued under these\nRegulations—\n\n(a) is revoked, the holder of the authorization, certificate, licence or\napproval shall within fourteen days from the date of revocation return\nthe authorization, certificate or licence to the Minister o r Director\nGeneral, as the case may be; or\n\n(b) is suspended or temporarily suspended, the authorization, certificate,\nlicence or approval  shall have no effect during the period of\nsuspension.\n\nSafety regulatory oversight\n65. (1) The Director General may, at any time, conduct safety regulatory oversight to\ndetermine the compliance with these Regulations.\n\n(2) Any expense incurred by reason of anything done during or incidental to any\nsafety regulatory oversight under this regulation shall be paid by and re coverable from\nthe person who has been given authorization or the holder of the license or certificate.\n\n(3) Any person who refuse s to comply with any request, demand or order made\nby the Director General or any authorized officer acting or purporting to act under these\nRegulations commits an offence.\n\nNotices, circulars, directives and information\n66. The Director General may issue any notice, circular, directive or information as he\nthinks necessary or expedient to give effect to the provisions of these Regulations.\n\nOffences relating to documents and records\n67. (1) A person shall not with intent to deceive—\n\n(a) use any authorization, certificate, licence or approval which has been\nforged, altered, revoked or suspended, or to which the person is not\nentitled;\n\n(b) lend any authorization, certificate, licence or approval issued under\nthese Regulations to, or allow the authorization, certificate, licence or\napproval to be used by, any other person; or\n\n(c) make any false representation for the purpose of procuring for him self\nor any other person any authorization, certificate, licence or approval\nunder these Regulations.\n\n(2) For the purpose of this regulation, a reference to authorization, certificate,\nlicence or approval includes a copy or purported copy of it.\n\nPenalties\n68. (1) Any person who contravenes any provisions specified in Part A of the\nSchedule commits an offence and shall on conviction be liable—\n\n(a) if the person is an individual, to a fine not exceeding twenty-five\nthousand ringgit or to imprisonment for a term not exceeding one year\nor to both; or\n\n(b) if the person is a body corporate, to a fine not exceeding eighty\nthousand ringgit.\n\n(2) Any person who contravenes any provisions specified in Part B of the\nSchedule commits an offence and shall on conviction be liable—\n\n(a) if the person is an individual, to a fine not exceeding fifty thousand\nringgit or to imprisonment for a term not exceeding three years or to\nboth; or\n\n(b) if the person is a body corporate, to a fine not exceeding one hundred\nthousand ringgit.\n\nSCHEDULE\n[Regulation 68]\n\nOFFENCES\n\nAny person who contravenes the provisions listed in Part A and Part B of this Schedule\ncommits an offence:\n\nPART A\n\nRegulation Subject matter\n10 Transfer of authorization, certificate or licence\n11 Surrender of authorization, certificate or licence\n\nPART B\n\nRegulation Subject matter\n6 Certificate of aerodrome\n7 Variation of aerodrome manual\n9 Changes to particulars in authorization, certificate or licence\n12 Aerodrome operator's obligation s in maintaining or operating\naerodrome\n13 Information on aerodrome operation hours\n14 Competence of personnel\n16 Storage of inflammable goods and dangerous goods\n17 Removal of obstacle from aerodrome\n18 Environment management programme\n19 Protection of navigation aids\n20 General obligations\n21 Special inspections\n22 Warning notices\n23 Aeronautical visual aids\n24 Aeronautical ground lights\n25 Secondary power supply\n26 Aerodrome beacon\n27 Obstacle limitation\n28 Authorization to construct in the vicinity of an aerodrome\n29 Installation of equipment on airside\n30 Marking and lighting of obstacle\n31 Aerodrome emergency plan\n\n32 Wildlife hazard management plan\n33 Rescue and fire fighting services\n34 Supply of aviation fuel\n35 Removal of disabled aircraft\n36 Apron management services\n37 Safety inspection programme\n38 Access of vehicles to movement area and manoeuvring area\n39 Airport pass and temporary airport pass\n40 Vehicle operation in movement area\n41 Airside vehicle permit\n42 Temporary entry permit\n44 Airside driving permit\n45 Fencing of aerodromes and installation\n47 Maintenance programme\n48 Maintenance of pavements\n49 Maintenance of aeronautical visual aids\n50 Works during low visibility operations\n51 Works on aerodrome\n52 Aerodrome electrical system\n53 Information for aerodrome users\n54 Notifying and reporting\n56 Parking of aircraft\n60 Safety measures against fire\n61 Test running of aircraft engine\n62 Certain acts prohibited on aerodrome\n63 Dangerous light\n65 Safety regulatory oversight\n67 Offences relating to documents and records\n\nMade 28 March 2016\n[DCA/PU/11/31 Vol. 6; PN(PU2)38/VIII]\n\n    DATO' SERI LIOW TIONG LAI\n Minister of Transport"
+   }
+  }
+ ]
+}

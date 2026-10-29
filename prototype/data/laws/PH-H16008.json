@@ -1,0 +1,62 @@
+{
+ "id": "PH-H16008",
+ "title": {
+  "zh": null,
+  "en": "An Act to Grant An Extension of thirty Days to the Ocmis Electric Service Company to Comply With the Requirements of Acts Numbered thirty-Six Hundred and Forty-Five and thirty-Nine Hundred and Fifty-One in Connection With a Franchise for Electric Light, Heat and Power Service, in Oroquieta, Province of Occidental",
+  "orig": "An Act to Grant An Extension of thirty Days to the Ocmis Electric Service Company to Comply With the Requirements of Acts Numbered thirty-Six Hundred and Forty-Five and thirty-Nine Hundred and Fifty-One in Connection With a Franchise for Electric Light, Heat and Power Service, in Oroquieta, Province of Occidental"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1938-06-09",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 291",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 716,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00291_1938_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00291_1938_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H16008-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The Ocmis Electric Service Company is granted an extension of thirty days, from the date of the\napproval of this Act, to comply with the terms and conditions set forth in Acts Numbered Thirty-six hundred\nand forty-five and Thirty-nine hundred and fifty-one relative to the acceptance of the franchise, the deposit\nand other requirements under the said Acts granting the Ocmis Electric Service Company a franchise to install\nand operate an electric plant in the municipality of Oroquieta, Province of Occidental Misamis: Provided,\nhowever, That the said franchise shall be subject to the limitations provided in the Constitution of the\nPhilippines."
+   }
+  },
+  {
+   "id": "PH-H16008-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, June 9, 1938."
+   }
+  }
+ ]
+}

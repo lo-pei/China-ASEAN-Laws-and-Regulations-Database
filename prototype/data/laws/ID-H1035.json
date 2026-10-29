@@ -1,0 +1,616 @@
+{
+ "id": "ID-H1035",
+ "title": {
+  "zh": "实施关于大选的1999年第3号法",
+  "en": "Implementation Law No. 3 of 1999 on general election Law",
+  "id": "Pelaksanaan Undang-Undang Nomor 3 Tahun 1999 tentang pemilihan umum",
+  "orig": "PELAKSANAAN UNDANG-UNDANG NOMOR 3 TAHUN 1999 TENTANG PEMILIHAN UMUM",
+  "vi": "Luật Thực hiện Luật số 3 năm 1999 về tổng tuyển cử",
+  "th": "พระราชบัญญัติ ดำเนินการ พระราชบัญญัติ ฉบับที่ 3 พ.ศ. 2542 เกี่ยวกับ การเลือกตั้งทั่วไป",
+  "ms": "Akta Pelaksanaan Akta Bilangan 3 1999 tentang pemilihan umum"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02c",
+ "language": "id",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "1999",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU3-1999",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 41,
+ "chars": 25593,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PP0331999.pdf&fl=P04174"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\01_宪法与基础法\\印尼_文本_1999_PELAKSANAAN UNDANG-UNDANG NOMOR 3 TAHUN 1999 TENTANG PEMILIHAN UMUM.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 41 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H1035-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  1\n\nDalam Peraturan Pemerintah ini yang dimaksud dengan :\n1. Pemilihan Umum yang selanjutnya disebut Pemilu adalah Pemilihan\nUmum sebagaimana dimaksud dalam Undang-undang Nomor 3\nTahun 1999 tentang Pemilihan Umum.\n2. Partai Politik adalah Partai Politik Peserta Pemilu Tahun 1999.\n3. Komisi Pemilihan Umum yang selanjutnya disebut KPU adalah\nKomisi Pemilihan Umum sebaga imana dimaksud dalam Pasal 8\nUndang-undang Nomor 3 Tahun 1999 tentang Pemilihan Umum.\n4. Sekretariat Umum adalah Sekr etariat Umum Komisi Pemilihan\nUmum sebagaimana dimaksud dalam Pasal 9 ayat (8)\nUndang-undang Nomor 3 Tahun 1999 tentang Pemilihan Umum.\n5. Panitia Pemilihan Indonesia yang selanjutnya disebut PPI adalah\nPanitia Pemilihan Umum sebaga imana dimaksud dalam Pasal 10\nhuruf c Undang-undang Nomor 3 Tahun 1999 tentang Pemilihan\nUmum.\n6. Panitia Pemilihan Daerah Tingka t I yang selanjutnya disebut PPD I\nadalah Panitia Pemilihan Daerah  Tingkat I sebagaimana dimaksud\ndalam Pasal 13 Undang-undang 3 Tahun 1999 tentang Pemilihan\nUmum.\n7. Panitia Pemilihan Daerah Tingka t II yang selanjutnya disebut PPD II\nadalah Panitia Pemilihan Daerah  Tingkat II sebagaimana dimaksud\ndalam Pasal 15 Undang-undang Nomor 3 Tahun 1999 tentang\nPemilihan Umum.\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\n8. Panitia Pemilihan Kecamatan ya ng selanjutnya disebut PPK adalah\nsebagaimana dimaksud dalam Pasal 17 Undang-undang Nomor 3\nTahun 1999 tentang Pemilihan Umum.\n9. Panitia Pemungutan Suara yang selanjutnya disebut PPS adalah\nsebagaimana dimaksud dalam Pasal 19 Undang-undang Nomor 3\nTahun 1999 tentang Pemilihan Umum.\n10. Kelompok Pelaksana Pemungutan Suara yang selanjutnya disebut\nKPPS adalah sebagaimana dimaksud dalam Pasal 22\nUndang-undang Nomor 3 Tahun 1999 tentang Pemilihan Umum.\n11. Panitia Pengawas yang selanj utnya disebut PANWAS adalah\nsebagaimana dimaksud dalam Pasal 24 Undang-undang Nomor 3\nTahun 1999 tentang Pemilihan Umum.\n12. Kepala Sekretariat adalah Kepa la Sekretariat Panitia Pemilihan\nIndonesia, PPD I, PPD II, dan PPK.\n13. Undang-undang adalah U ndang-undang Nomor 3 Tahun 1999\ntentang Pemilihan Umum."
+   }
+  },
+  {
+   "id": "ID-H1035-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  2\nDalam penyelenggaraan Pemilu, semua pihak berpegang teguh pada\nprinsip kedaulatan rakyat berdas arkan Pancasila, Undang-undang Dasar\n1945, dan ketentuan pe raturan perundang-undang yang berlaku, serta\ntetap menjaga dan memelihara persatuan dan kesatuan bangsa."
+   }
+  },
+  {
+   "id": "ID-H1035-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  3\nPemilu yang dilaksanakan pada tahun 1999 diikuti oleh 48 (empat puluh\ndelapan) Partai Politik sebagaimana ditetapkan oleh Lembaga Pemilihan\nUmum (LPU) sebagaimana dimaksud dalam Pasal 79 Undang-undang.\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\nBAB II\nPERTANGGUNGJAWABAN\nPENYELENGGARA DAN PELAKSANA PEMILU,\nSEKRETARIS UMUM KPU, DAN KEPALA SEKRETARIAT PPI"
+   }
+  },
+  {
+   "id": "ID-H1035-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  4\n\n(1) Dalam pelaksanaan tugas dan wewenangnya, KPU bertanggung\njawab kepada Presiden.\n(2) Pertanggungjawaban sebagaim ana dimaksud dalam ayat (1)\ndilakukan oleh KPU melalui konsu ltasi secara berkala dengan\nPresiden.\n(3) Jadwal konsultasi sebagaimana dimaksud dalam ayat (2) ditetapkan\nbersama antara Presiden dengan Pimpinan KPU.\n(4) Pertanggungjawab pelaksanaan tugas dan wewenang sebagaimana\ndimaksud dalam ayat (1) disampai kan oleh KPU pada akhir masa\njabatannya kepada Presiden."
+   }
+  },
+  {
+   "id": "ID-H1035-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  5\nKPU wajib menyampaikan laporan te rtulis mengenai penyelenggaraan\nPemilu tahun 1999 kepada Presiden selambat-lambatnya 30 (tiga puluh)\nhari sebelum pelaksanaan Sidang Umum MPR tahun 1999."
+   }
+  },
+  {
+   "id": "ID-H1035-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  6\n(1) Sekretaris Umum KPU secara  berkala menyampaikan laporan\ntertulis pertanggungjawaban mengenai pelaksanaan tugasnya dengan\nketentuan sebagai berikut :\n  a. secara teknis operasional kepada KPU; dan\n  b. secara teknis administratif kepada Presiden.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\n(2) Ketentuan mengenai tata cara  penyusunan laporan sebagaimana\ndimaksud dalam ayat (1) huruf a, diatur dengan Keputusan KPU.\n(3) Ketentuan mengenai tata car a penyusunan laporan sebagaimana\ndimaksud dalam ayat (1) huruf b, diatur dengan Keputusan Presiden."
+   }
+  },
+  {
+   "id": "ID-H1035-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  7\n(1) KPU wajib melakukan evaluasi pe laksanaan sistem Pemilu dalam\nwaktu paling lambat 3 (tiga) tahun setelah Pemilu.\n(2) Hasil evaluasi dilaporan kepada Presiden dan DPR-RI\nselambat-lambatnya 30 (tiga puluh) hari sebelum berakhirnya masa\n3 (tiga) tahun sebagaimana dimaksud dalam ayat (1)."
+   }
+  },
+  {
+   "id": "ID-H1035-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  8\nPPI menyampaikan laporan tertulis mengenai pelaksanaan Pemilu\nkepada KPU dalam waktu selambat-l ambatnya 15 (lima belas) hari\nsebelum KPU menyampaikan laporan  hasil Pemilu sebagaimana\ndimaksud dalam Pasal 5"
+   }
+  },
+  {
+   "id": "ID-H1035-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  9\n(1) Kepala Sekretariat PPI secara berkala menyampaikan laporan tertulis\npertanggungjawab mengenai pela ksanaan tugasnya dengan\nketentuan sebagai berikut :\n  a. secara teknis operasional kepada Ketua PPI; dan\n  b. secara teknis administratif kepada Menteri Dalam Negeri.\n(2) Ketentuan mengenai tata cara penyampaian laporan pelaksanaan\ntugas sebagaimana dimaksud dalam ayat (1) huruf a diatur dengan\nKeputusan PPI.\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H1035-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  10\n(1) PPD I, PPD II, PPK, PPS dan KPPS menyampaikan laporan tertulis\nmengenai pelaksanaan tugasnya secara berjenjang yakni :\n  a. KPPS kepada PPS;\n  b. PPS kepada PPK\n  c. PPK kepada PPD II;\n  d. PPD II kepada PPD I; dan\n  e. PPD I kepada PPI.\n(2) Ketentuan mengenai tata cara penyampaian laporan sebagaimana\ndimaksud dalam ayat (1) diatur dengan Keputusan PPI.\n\nBAB III\nDAFTAR PEMILIH"
+   }
+  },
+  {
+   "id": "ID-H1035-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  11\n(1) PPS dengan sepengetahuan PPK dapat mengadakan perubahan\nterhadap Daftar Nama Pemilih Te tap atau Daftar Nama Pemilih\nTambahan, dalam hal orang yang na manya terdaftar sebagai pemilih\npindah tempat tinggal atau meninggal dunia yang dibuktikan dengan\nsurat keterangan dari Kepala Desa atau Lurah setempat.\n(2) Perubahan daftar nama pemilih  sebagaimana dimaksud dalam ayat\n(1) dilaksanakan dalam waktu sela mbat-lambatnya 7 (tujuh) hari\nsebelum tanggal pemungutan suara.\n(3) Apabila jangka waktu sebaga imana dimaksud dalam ayat (2)\nberakhir, maka tidak dapat lagi di adakan perubahan daftar nama\npemilih, kecuali untuk menghapus nama pemilih yang meninggal\ndunia atau yang dinyatakan kehila ngan hak pilihnya berdasarkan\nputusan pengadilan yang telah memperoleh kekuatan hukum tetap.\n\n\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H1035-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  12\n(1) Bagi pemilih yang namanya tela h terdaftar dalam Daftar Pemilih\nTetap atau Daftar Pemilih Tambah an, tetapi sebelum pelaksanaan\npemungutan suara tidak lagi meme nuhi persyaratan sebagai pemilih\nsebagaimana dimaksud dalam Pa sal 29 ayat (2) Undang-undang,\ntidak dapat menggunakan hak memilih.\n(2) Bagi pemilih sebagaimana di maksud dalam ayat (1), diperlukan\nketerangan secara tertulis dari peja bat yang berwenang, kecuali bagi\npemilih yang sedang terganggu jiwa /ingatannya dapat didasarkan\npada kenyataan keadaan yang bersangkutan pada waktu pemungutan\nsuara dilakukan."
+   }
+  },
+  {
+   "id": "ID-H1035-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  13\nDalam hal di suatu wilayah terj adi bencana alam atau gangguan\nkeamanan sehingga tidak mungkin bagi pemilih setempat untuk\nmelaksanakan pendaftaran pemilih  sebagaimana seharusnya, maka\npendaftarannya dilakukan secara aktif oleh PPS di tempat para calon\npemilih tersebut berada dengan bekerja sama dengan instansi terkait."
+   }
+  },
+  {
+   "id": "ID-H1035-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  14\n(1) Dalam waktu selambat-lambatnya 7 (tujuh) hari sebelum diresmikan\nDaftar Pemilih Tetap, Menteri Kehakiman menyampaikan daftar\nnama kepada KPU mengenai warga negara yang sedang dicabut hak\npilihnya berdasarkan putusan pe ngadilan yang telah memperoleh\nkekuatan hukum tetap dan tembus annya disampaikan kepada\nPANWAS.\n(2) Apabila ternyata dalam Daftar Pemilih tetap terdaftar nama warga\nnegara sebagaimana dimaksud dalam ayat (1), maka  Panitia\nPemungutan Suara setempat harus me ngeluarkan nama tersebut dari\nDaftar Pemilih Tetap.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n(3) Dalam hal diperlukan, KPU dapat meminta kepada Ketua\nPengadilan Negeri setempat daftar  nama warga negara yang sedang\nmenjalani pidana penjara atau pi dana kurungan berdasarkan putusan\nPengadilan yang telah memperoleh  kekuatan hukum tetap, karena\ntindak pidana yang dian cam dengan pidana pe njara 5 (lima) tahun\natau lebih.\n\nBAB IV\nKAMPANYE PEMILU"
+   }
+  },
+  {
+   "id": "ID-H1035-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  15\n(1) Setiap Partai Politikk pesert a Pemilu mempunyai kedudukan hak,\ndan kewajiban yang sama untuk melaksanakan kampanye pemilu.\n(2) Kampanye Pemilu sebagaiman a dimaksud dalam ayat (1) tidak\ndiselenggarakan di luar negeri."
+   }
+  },
+  {
+   "id": "ID-H1035-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  16\n(1) Kampanye Pemilu merupakan kegiatan Partai Politik peserta Pemilu\nyang diselenggarakan oleh pengurus atau anggota Partai Politik yang\nbersangkutan.\n(2) Pengurus atau anggota Partai Politik sebagaimana dimaksud dalam\nayat (1) bertanggung jawab atas pelanggaran ketent uan kampanye\nsebagaimana dimaksud dalam Pasal 47 ayat (1) Undang-undang."
+   }
+  },
+  {
+   "id": "ID-H1035-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  17\n(1) PANWAS yang sedang bertugas me ngawasi pelaksanaan kampanye\nPemilu berwenang memerinta hkan untuk menghentikan atau\nmembubarkan pelaksanaan kampa nye yang tidak sesuai dengan\nketentuan peraturan perundang-undangan yang berlaku.\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\n(2) Perintah menghentikan atau me mbubarkan pelaksanaan kampanye\nkepada Panitia Pelaksana Pem ilihan Umum da n penegak hukum\nharus dibuatkan Berita Acara.\n(3) Sebelum perintah sebagaimana dimaksud dalam ayat (2) dilakukan,\nterlebih dahulu mendengar dan me mpertimbangkan keterangan dari\nPengurus Partai Politik yang be rsangkutan dan dari Panitia\nPelaksana Pemilihan Umum setempat.\n(4) Ketentuan mengenai tata car a penghentian atau pembubaran\npelaksanaan kampanye diatur le bih lanjut oleh PANWAS dan\ninstansi penegak hukum terkait."
+   }
+  },
+  {
+   "id": "ID-H1035-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  18\nSetiap Pegawai Negeri Sipil yang telah menjadi anggota dan atau\npengurus Partai Politik sesuai denga n Peraturan Pemerintah Nomor 5\nTahun 1999 tentang Pegawai Negeri Sipil yang menjadi anggota Partai\nPolitik sebagaimana telah diubah de ngan Peraturan Pemerintah Nomor\n12 Tahun 1999, dapat mengikuti kampanye."
+   }
+  },
+  {
+   "id": "ID-H1035-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  19\nBagi Pegawai Negeri Sipil yang tidak menjadi anggota dan atau\npengurus partai politik dilarang secara aktif mengikuti kampanye."
+   }
+  },
+  {
+   "id": "ID-H1035-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  20\nAnggota ABRI dilarang mengikuti ka mpanye atau menjadi juru\nkampanye.\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H1035-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  21\nBagi Pegawai Negeri Sipil atau anggota ABRI sebagaimana dimaksud\ndalam Pasal 19 dan Pasal 20 yang melanggar ketentuan Peraturan\nPemerintah ini, dikenakan sanksi sesuai dengan ketentuan peraturan\nperundang-undangan yang berlaku."
+   }
+  },
+  {
+   "id": "ID-H1035-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  22\n\nBagi setiap orang yang tidak mempunyai hak memilih dan atau dipilih\ndan seseorang yang hak pilihnya dicabut berdasarkan putusan\npengadilan yang telah memperoleh  kekuatan hukum tetap, dilarang\nmenjadi juru kampanye Pemilu."
+   }
+  },
+  {
+   "id": "ID-H1035-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  23\n\nPANWAS sesuai dengan tingkatannya  berwenang untuk menghentikan\natau membubarkan kampanye Pemilu yang dilakukan oleh Partai Politik\ndi luar jadwal waktu yang dite ntukan oleh KPU atau melanggar\nketentuan peraturan perundang-undangan yang berlaku."
+   }
+  },
+  {
+   "id": "ID-H1035-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  24\n\nSetiap orang dilarang memasang tanda gambar atau atribut Partai Politik\ndi tempat umum yang dapat me ngganggu ketertiban dan keamanan\numum atau lalu lintas umum, di kantor  milik pemerintah, atau di tempat\nyang dilarang berdasar kan ketentuan peratu ran perundang-undangan\nyang berlaku.\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\nBAB  V\nPEMUNGUTAN SUARA ULANGAN DAN SUSULAN"
+   }
+  },
+  {
+   "id": "ID-H1035-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB  V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  25\n\n(1) Jika terjadi gangguan ketertiban dan keamanan umum sehingga\npelaksanaan pemungutan suara te rganggu, dan apabila pemungutan\nsuara diteruskan tidak  akan terjamin sahnya pemungutan suara,\nKetua KPPS segera menghentikan pemungutan suara dan menyegel\ncelah kotak suara dan lubang kunci kotak suara.\n(2) Surat suara yang belum terpakai  atau yang dikembalikan salinan\nDaftar Pemilih Tetap, Daftar Pemilih Tambahan untuk TPS, dan\nanak kunci kotak suara, masing- masing dibungkus te rsendiri dan\ndisegel, setelah diberi keterangan mengenai isinya pada bagian luar\nbungkusan.\n(3) Semua bungkusan sebagaiman a dimaksud dalam ayat (2)\ndimasukkan dalam satu bungkusan da n juga disegel serta diberi\nketerangan mengenai isinya.\n(4) Kotak suara sebagaimana dimaks ud dalam ayat (1) disimpan di\nkantor PPS atau Kantor Kepa la Desa/Lurah atau Kepala\nUPT/Pembantu PPS, atau dikantor instansi keamanan terdekat.\n(5) Kegiatan yang telah dilakukan sebagaimana dimaksud dala mayat\n(1), ayat (2), ayat (3), dan ayat (4) dibuatkan Berita Acara yang\nditandatangani oleh Ketua dan Wakil Ketua KPPS dan\nsekurang-kurangnya 2 ( dua) orang saksi dari Partai Politik yang\nberbeda yang hadir.\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H1035-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB  V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  26\n\n(1) Dalam hal pemungutan suara yang telah dimulai dan terhenti\nsebagaimana dimaksud dalam Pasal 25 ayat (1), yang oleh PPD II\ndapat dipertanggungjawabkan, pem ungutan suara yang dihentikan\ntersebut dilanjutkan pada hari itu juga atau sehari kemudian, atau\njika tidak mungkin, dilanjutka n pada hari dan tanggal yang\nditetapkan dan diumumkan oleh PPI.\n(2) Pemungutan suara yang dihentik an sebagaimana dimaksud dalam\nPasal 25 ayat (1), apabila dilanj utkan sebagaimana dimaksud dalam\nayat (1) tidak dapat diperta nggungjawabkan PPI menetapkan serta\nmengumumkan hari dan tanggal pemungutan suara ulangan tersebut."
+   }
+  },
+  {
+   "id": "ID-H1035-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB  V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  27\n\nDalam hal terjadi gangguan keter tiban dan keamanan umum yang\nmengakibatkan pemungutan suara di suatu TPS sama sekali tidak dapat\ndilaksanakan pada hari dan tangga l yang telah ditetapkan oleh KPU,\nmaka PPI menetapkan dan mengumumkan hari dan tanggal pemungutan\nsuara susulan."
+   }
+  },
+  {
+   "id": "ID-H1035-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB  V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  28\n\nDalam menetapkan hari dan tanggal pemungutan suara ulangan atau\nsusulan sebagaimana dimaksud dala m Pasal 26 dan Pasal 27, PPD II\ndan PPI memperhatikan jadwal waktu pengiriman Berita Acara\nPenghitungan Suara kepada Panitia Pemilihan yang bersangkutan.\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H1035-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB  V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  29\n\n(1) Ketentuan tentang penyelenggaraan pemungutan suara sebagaimana\ndimaksud dalam Keputusan KPU, berlaku juga untuk pemungutan\nsuara ulangan atau susulan.\n(2) Dalam hal dilakukan pemungutan  suara ulangan sebagaimana\ndimaksud dalam Pasal 26 ayat (2) :\n  a. Ketua KPPS terlebih dahulu membuka segel celah kotak suara\ndan segel lubang kunci kotak su ara tanpa mebuka kotak suara\nersebut dihadapan para pemilih dan saksi yang hadir;\n  b. Tiap surat suara yang tela h dimasukkan ke dalam kotak suara\ndikeluarkan dan KPPS membubuhkan tanda bahwa  surat suara\ntersebut tidak dipakai lagi.\n(3) Pemungutan suara ulangan dilaks anakan sesuai dengan ketentuan\nsebagaimana dimaksud dalam Pasal 25."
+   }
+  },
+  {
+   "id": "ID-H1035-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB  V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  30\n\n(1) Pemungutan suara susulan seba gaimana dimaksud dalam Pasal 27,\njuga dilaksanakan bagi pemungut an suara yang dinyatakan batal\napabila ada laporan kecurangan dalam pemungutan suara.\n(2) Ada atau tidak adanya kecu rangan sebagaimana dimaksud dalam\nayat (1) harus sudah diperiks a dan diputuskan oleh PANWAS\nselambat-lambatnya 10 (sepuluh) hari setelah tanggal pemungutan\nsuara.\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H1035-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB  V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  31\n\n(1) Dalam hal terjadi pemekaran wila yah, apabila dianggap perlu oleh\nPemerintah dan KPU untuk pengi sian keanggotaan DPRD I, di\nwilayah tersebut dapat dilaksanakan pemungutan suara susulan.\n(2) Ketentuan mengenai tata cara  pelaksanaan pemungutan suara\nsusulan sebagaimana dimaksud dala m ayat (1) berlaku ketentuan\ndalam Peraturan Pemerintah.\n\nBAB  VI\nPENETAPAN HASIL PEMILU"
+   }
+  },
+  {
+   "id": "ID-H1035-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB  VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  32\n\n(1) Penetapan hasil penghitunga n suara untuk anggota DPRD II\ndilakukan oleh PPD II, dan untuk anggota DPR dilakukan oleh PPI,\nsesuai dengan tata cara penetapan yang diatur oleh KPU.\n(2) Dalam hal PPD II, PPD I, dan PP I tidak dapat menetapkan hasil\npenghitungan suara, maka masala h tersebut diserahkan kepada\nPanitia Pemilihan setingkat lebih atas dan Ketua KPU untuk diambil\nkeputusan."
+   }
+  },
+  {
+   "id": "ID-H1035-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB  VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  33\n(1) Dalam hal terdapat anggota KPU, PPI, PPD I atau PPD II yang tidak\nbersedia membubuhkan ta nda tangannya pada Berita Acara Hasil\nPenghitungan Suara, maka yang be rsangkutan harus memberikan\nalasannya secara tertulis kepa da KPU, PPI, PPD I, PPD II dengan\ntembusan disampaikan kepa da PANWAS sesuai dengan\ntingkatannya.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\n(2) PANWAS sebagaimana dimaksud dalam ayat (1) berwenang dan\nwajib melakukan pemeriksaan terhadap keabsahan alasan tersebut.\n(3) Pemeriksaan sebagaimana dima ksud dalam ayat (2) harus sudah\nselesai melaksanakan dan diputus kan oleh PANWAS sesuai dengan\ntingkatannya dalam waktu selambat -lambatnya 7 (tujuh) hari\nterhitung sejak tanggal penerimaan alasan penolakan.\n(4) Keputusan PANWAS sebagaimana dimaksud dalam ayat (3) bersifat\nfinal dan mengikat."
+   }
+  },
+  {
+   "id": "ID-H1035-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB  VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  34\n\nKeseluruhan hasil penghitungan suar a untuk DPR, DPRD I, dan DPRD\nII yang telah ditetapkan KPU adalah  sah dan mengikat semua Partai\nPolitik peserta Pemilu."
+   }
+  },
+  {
+   "id": "ID-H1035-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB  VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  35\n\n(1) Dalam hal Berita Acara Pengh itungan Suara Daerah Tingkat I yang\nditerima oleh PPI menyebutkan bahwa hasil penghitungan suara\ntidak termasuk hasil pemungutan  suara susulan sebagaimana\ndimaksud dalam Pasal 27, maka  PPI tetap mengadakan rapat\npenetapan Hasil Pemilu Anggota DPR.\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\n(2) Bagi daerah pemilihan yang hasil penghitungan suaranya masih\nbelum diselaikan karena hasil pemungutan suara dari pemungutan\nsuara susulan belum diterimanya, maka penetapan hasil Pemilu\nditangguhkan sampai Berita Acar a Penghitungan Suara Daerah\nTingkat I untuk Pemilihan Anggota DPR dari PPD I yang\nbersangkutan diterima.\n(3) Dalam hal Berita Acara Pengh itungan Suara Daerah Pemungutan\nSuara Daerah Tingkat II yang diteri ma oleh PPD I atau PPD II yang\nhasil penghitungan suaranya masih be lum diselesaikan karena hasil\npemungutan suara dari pemungutan suara susulan belum diterima,\nmaka penetapan hasil Pemilu  Anggota DPRD I dan DPRD II\nditangguhkan sampai Berita Acar a Penghitungan Suara Daerah\nTingkat II atau Daerah Pemungutan  Suara dari PPD II atau PPS\nyang bersangkutan diterima.\n\n\nBAB  VII\nPENGGABUNGAN SUARA"
+   }
+  },
+  {
+   "id": "ID-H1035-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB  VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  36\n\n(1) Dua atau lebih Partai Politik Pese rta Pemilu dapat mengikatkan diri\ndalam kesepakatan tentang penggabungan suara di Daerah Tingkat I\ndan Tingkat II untuk pene ntuan calon terpilih anggota DPR, DPRD\nI, dan DPR II.\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\n(2) Kewenangan melakukan kesepaka tan sebagaimana dimaksud dalam\nayat (1) berada pada Dewan Pimp inan Pusat Partai Politik Peserta\nPemilu dan kewenangan tersebut dapat didelegasikan kepada Dewan\nPimpinan Daerah Partai Politik yang bersangkutan.\n(3) Kesepakatan sebagaimana dima ksud dalam ayat (1) sudah harus\ndiumumkan selambat-lambatnya 7 (tujuh) hari sebelum hari\npemungutan suara dan tembusannya  disampaikan kepada PPI, PPD\nI, PPD II, dan PANWAS sesuai dengan tingkatannya.\n\nBAB  VIII\nPENETAPAN CALON TERPILIH"
+   }
+  },
+  {
+   "id": "ID-H1035-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB  VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  37\nPenetapan calon terpilih Anggota DP R, DPRD I, dan DPRD II dari\nmasing-masing Partai Politik peserta Pemilu dilakukan oleh PPI, PPD I,\ndan PPD II sesuai dengan tingkata nnya berdasarkan tata cara yang\ndiatur oleh KPU."
+   }
+  },
+  {
+   "id": "ID-H1035-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38"
+   },
+   "chapter": {
+    "id": "BAB  VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  38\n(1) Dalam hal jumlah wakil yang dipe roleh suatu Partai Politik peserta\nPemilu sama dengan jumlah cal on yang tercantum dalam Daftar\nCalon Tetap, maka semua cal on dinyatakan terpilih menjadi\nAnggota DPR, DPR I, dan DPRD II.\n(2) dalam hal jumlah wakil yang diperoleh suatu Partai Politik peserta\nPemilu kurang dari jumlah calon Pa rtai Politik peserta Pemilu yang\nbersangkutan dalam Daftar Calon Tetap, yang dinyatakan terpilih\nialah calon sebanyak jumlah wakil yang diperoleh organisasi ini\ndengan mengacu pada ketentuan Pasal 68 Undang-undang.\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\n\nBAB IX\nKETENTUAN LAIN-LAIN"
+   }
+  },
+  {
+   "id": "ID-H1035-A39",
+   "no": 39,
+   "noLabel": {
+    "id": "Pasal 39"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  39\nUntuk kelancaran pelaksanaan t ugas dan wewenang PANWAS sebagai\nlembaga yang bebas dan mandiri, PANWAS mengelola sendiri biaya\nyang diperlukan bagi pelaksanaan  tugas dan wewenangnya setelah\nberkoordinasi dengan KPU.\n\n\nBAB  X\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H1035-A40",
+   "no": 40,
+   "noLabel": {
+    "id": "Pasal 40"
+   },
+   "chapter": {
+    "id": "BAB  X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  40\n\nPada saat Peraturan Pemerintah in i mulai berlaku, maka Peraturan\nPemerintah Nomor 35 Tahun 1985 tentang Pelaksanaan\nUndang-undang Nomor 15 Tahun 1969 tentang Pemilihan Umum\nAnggota Badan Permusyawaratan/ Perwakilan Rakyat sebagaimana\ntelah diubah dengan Peraturan Pemerintah Nomor 43 Tahun 1985,\nPeraturan Pemerintah Nomor 37 Tahun 1990, dan Peraturan Pemerintah\nNomor 10 Tahun 1995, dinyatakan tidak berlaku lagi."
+   }
+  },
+  {
+   "id": "ID-H1035-A41",
+   "no": 41,
+   "noLabel": {
+    "id": "Pasal 41"
+   },
+   "chapter": {
+    "id": "BAB  X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  41\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\nAgar setiap orang mengetahui, memerintahkan pengundangan Peraturan\nPemerintah ini dengan penempat annya dalam Lembaran Republik\nIndonesia.\n\n      Ditetapkan di Jakarta\n      pada tanggal 19 Mei 1999\n      PRESIDEN REPUBLIK INDONESIA\n\n        t t d .\n\n      BACHARUDDIN JUSUF HABIBIE\nDiundangkan di Jakarta\npada tanggal 19 Mei 1999\nMENTERI NEGARA SEKRETARIS NEGARA\nREPUBLIK INDONESIA\n        ttd.\nPROF. DR. H. MULADI, S.H.\n\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1999 NOMOR 71\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\nPENJELASAN\nATAS\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nNOMOR 33 TAHUN 1999\nTENTANG\nPELAKSANAAN UNDANG-UNDANG NOMOR 3 TAHUN 1999\nTENTANG PEMILIHAN UMUM\n\nUMUM\nDalam Negara Republik Indonesia yang berked aulatan rakyat berdasarkan Pancasila dan\nUUD 1945, dibentuk Badan Pe rmusyawaratan/Perwakilan Rakyat yang anggotanya\ndipilih melalui Pemilihan Umum yang dilaks anakan secara jujur dan adil, langsung,\numum, bebas dan rahasia.\nPemilihan Umum untuk pengi sian keanggotaan Badan Pe rmusyawaratan/Pewakilan\nRakyat dalam era reformasi diatur de ngan Undang-undang Nomor 3 Tahun 1999 tentang\nPemilihan Umum. Pemilihan Umum merupakan sarana demokrasi untuk mewujudkan\npemerintahan yang berkedaulatan rakyat. Pe merintahan negara yang dibentuk melalui\nPemilihan Umum yang jujur dan adil, langsung, umum, bebas dan rahasia akan\nmenciptakan suatu pemerintahan ne gara yang kokoh dan berwibawa karena\nmencerminkan kehendak rakyat dan akan memiliki legitimasi yang kuat.\nSesuai dengan ketentuan Pasal 84 Undang-undang Nomor 3 Tahun 1999 tentang\nPemilihan Umum, maka hal-hal yang belum diatur dalam Undang-udnang tersebut akan\ndiatur lebih lanjut dengan Peraturan Pemerintah.\n\nPASAL DEMI PASAL\n\nPasal 1\n Cukup jelas\nPasal 2\n Cukup jelas\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\nPasal 3\nJumlah 48 (empat puluh dela pan) partai politik peserta pemilu adalah sesuai\ndengan jumlah partai politik yang meme nuhi persyaratan ya ng ditetapkan oleh\nLembaga Pemilihan Umum (LPU) se bagaimana dimaksud dalam Pasal 79\nUndang-undang.\nPasal 4\n Ayat (1)\n  Sesuai dengan status KP U yang bebas dan mandiri, ma ka Presiden yang dimaksud\ndalam ayat ini adalah Presiden dalam kedudukannya sebagai Mandataris MPR.\n Ayat (2)\n  Cukup jelas\nPasal 5\n Yang dimaksud dengan \"hari\"  adalah hari kerja.\nPasal 6\n Ayat (1)\n  Yang dimaksud dengan \"secara berkala\" adalah laporan untuk setiap tahapan tugas\npenyelenggaraan dan pelaksanaan Pemilu.\n Ayat (2)\n  Cukup jelas\n Ayat (3)\n  Cukup jelas\nPasal 7\n Ayat (1)\n  Yang dimaksud dengan \"evalu asi pelaksanaan sistem Pemilu\" antara lain mengenai\nevaluasi atas keuntungan, kerugian, at au kendala dari sistem Pemilu yang\nditetapkan untuk Pemilu tahun 1999.\n Ayat (2)\n  Cukup jelas\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\nPasal 8\n Cukup jelas.\nPasal 9\n Ayat (1)\n  huruf a\n   Yang dimaksud dengan \"teknis opera sional\" adalah segala sesuatu yang\nberkaitan dengan pelaksanaa n penyelenggaraan Pemilu antara lain pemungutan\nsuara dan penghitungan suara.\n  huruf b\n   Yang dimaksud dengan \"teknis administra tif\" antara lain pendaftaran pemilih dan\npembuatan berita acara.\n Ayat (2)\n  Cukup jelas\nPasal 10\n Cukup jelas.\nPasal 11\n Ayat (1)\n  Perubahan Daftar Nama Pemilih Teta p atau Daftar Nama Pemilih Tambahan\ndimaksudkan untuk akurasi data.\n  Yang dimaksud dengan \"s epengetahuan\" adalah de ngan memberikan laporan\nkepada PPK.\n Ayat (2)\n  Cukup jelas.\n Ayat (3)\n  Pengecualian masih mungkin untuk me nghapus nama pem ilih yang meninggal\ndunia atau yang dinyatakan kehilangan hak pilihnya adalah untuk akurasi data.\nPasal 12\n Cukup jelas\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\nPasal 13\n Cukup jelas\nPasal 14\n Ayat (1)\n  Cukup jelas\n Ayat (2)\n  Cukup jelas\n Ayat (3)\n  Yang dimaksud dengan \"diper lukan\" misalnya adanya laporan dari masyarakat\nyang meragukan apakah waga negara tersebut mempunyai hak pilih atau tidak.\nPasal 15\n Cukupjelas\nPasal 16\n Cukup jelas\nPasal 17\n Cukup jelas\nPasal 18\n Cukup jelas\nPasal 19\nYang dimaksud \"secara aktif mengikuti ka mpanye\" adalah ikut langsung sebagai\njuru kampanye, panitia atau pelaksan a kampanye, menggunakan atau mengenakan\natribut Partai Politik.\nPasal 20\n Lihat penjelasan Pasal 19.\nPasal 21\n Cukup jelas\nPasal 22\n Cukup jelas\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\nPasal 23\n Cukup jelas\nPasal 24\nYang dimaksud dengan \"atribut\" termasuk pula bangunan-bangunan posko.\nPasal 25\n Ayat (1)\n  Yang dimaksud dengan \"celah kotak\" adal ah lubang yang memasukan surat suara.\n Ayat (2)\n  Cukup jelas\n Ayat (3)\n  Cukup jelas\n Ayat (4)\n  Cukup jelas\n Ayat (5)\n  Cukup jelas\nPasal 26\n Cukup jelas\nPasal 27\n Cukup jelas\nPasal 28\n Cukup jelas\nPasal 29\n Cukup jelas\nPasal 30\n Cukup jelas\nPasal 31\n Cukup jelas\nPasal 32\n Cukup jelas\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\nPasal 33\n Ayat (1)\n  Yang dimaksud dengan \"membe rikan alasan tertulis\" dalam pengertian memberikan\nalasan yang jelas dan dapat dipertanggungjawabkan keabsahannya.\n Ayat (2)\n  Cukup jelas\n Ayat (3)\n  Cukup jelas\nAyat (4)\n  Yang dimaksud dengan \"bersifat final da n mengikat\" adalah keputusan tersebut\ntidak dapat dibantah.\nPasal 34\n Cukup jelas\nPasal 35\n Cukup jelas\nPasal 36\n Ayat (1)\n  Yang dimaksud dengan \"kesepakatan tentang penggabungan suara\" adalah yang\ndikenal dengan istilah stambush accord.\n  Kesepakatan tersebut be rlaku di setiap Daerah Tingkat I dan Tingkat II sekalipun di\ndaerah yang bersangkutan di  antara Partai Politik yang mengikatkan diri dalam\nkesepakatan ada yang tidak mempunyai calon.\n Ayat (2)\n  Cukup jelas\n Ayat (3)\n  Cukup jelas\nPasal 37\n Ayat (2)\n  Cukup jelas\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\nPasal 38\n Cukup jelas\nPasal 39\n Cukup jelas\nPasal 40\n Cukup jelas\nPasal 41\n Cukup jelas\n\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 3847"
+   }
+  }
+ ]
+}

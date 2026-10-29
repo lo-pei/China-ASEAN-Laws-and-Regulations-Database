@@ -1,0 +1,686 @@
+{
+ "id": "ID-H1018",
+ "title": {
+  "zh": "建筑服务法",
+  "en": "construction services Law",
+  "id": "jasa konstruksi",
+  "orig": "JASA KONSTRUKSI",
+  "vi": "Luật dịch vụ xây dựng",
+  "th": "พระราชบัญญัติ บริการก่อสร้าง",
+  "ms": "Akta jasa konstruksi"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02c",
+ "language": "id",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "1999",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU18-1999",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 46,
+ "chars": 77321,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU181999.pdf&fl=P01049"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\01_宪法与基础法\\印尼_文本_1999_JASA KONSTRUKSI.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 46 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H1018-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\n\nDalam Undang-undang ini yang dimaksud dengan :\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n1. Jasa konstruksi adalah layanan jasa konsultasi perencanaan\npekerjaan konstruksi, layanan jasa pelaksanaan pekerjaan konstruksi,\ndan layanan jasa konsultansi pengawasan pekerjaan konstruksi;\n2. Pekerjaan konstruksi adalah kese luruhan atau sebagian rangkaian\nkegiatan perencanaan dan/atau pelaksanaan beserta pengawasan\nyang mencakup pekerjaan arsitektural , sipil, mekanikal, elektrikal,\ndan tata lingkungan masing-masi ng beserta kele ngkapannya, untuk\nmewujudkan suatu bangunan atau  bentuk fisik lain;\n3. Pengguna jasa adalah orang pe rseorangan atau badan sebagai\npemberi tugas atau pemilik pe kerjaan/proyek yang memerlukan\nlayanan jasa konstruksi;\n4. Penyedia jasa adalah orang pers eorangan atau badan yang kegiatan\nusahanya menyediakan layanan jasa konstruksi;\n5. Kontrak kerja konstruksi ad alah keseluruhan dokumen yang\nmengatur hubungan hukum antara pengguna  jasa dan penyedia jasa\ndalam penyelenggaraan pekerjaan konstruksi;\n6. Kegagalan bangunan adalah keadaan bangunan, yang setelah\ndiserahterimakan oleh penyedia ja sa kepada pengguna jasa, menjadi\ntidak berfungsi baik secara keseluruhan maupun sebagian dan/atau\ntidak sesuai dengan ketentuan ya ng tercantum dalam kontrak kerja\nkonstruksi atau pemanfaatannya ya ng menyimpang sebagai akibat\nkesalahan penyedia jasa dan/atau pengguna jasa;\n7. Forum jasa konstruksi adalah sarana komunikasi dan konsultasi\nantara masyarakat jasa konstruksi dan Pemerintah mengenai hal-hal\nyang berkaitan dengan masalah jasa konstruksi nasional yang\nbersifat nasional, independen, dan mandiri;\n8. Registrasi adalah suatu ke giatan untuk menentukan kompetensi\nprofesi keahlian dan keterampilan tertentu, orang perseorangan dan\nbadan usaha untuk menentukan izin usaha sesuai klasifikasi dan\nkualifikasi yang diwujudkan dalam sertifikat;\n9. Perencana konstruksi adalah penye dia jasa orang perseorangan atau\nbadan usaha yang dinyatakan ahli yang profesi onal di bidang\nperencanaan jasa konstruksi ya ng mampu mewujudkan pekerjaan\ndalam bentuk dokumen perencanaan  bangunan atau bentuk fisik\nlain;\n10. Pelaksana konstruksi adalah penye dia jasa orang perorangan atau\nbadan usaha yang dinyatakan ahli yang profesi onal di bidang\npelaksanaan jasa konstruksi yang mampu menyelenggarakan\nkegiatannya untuk mewujudkan suat u hasil perencanaan menjadi\nbentuk bangunan atau bentuk fisik lain;\n11. Pengawas konstruksi adalah penyedia jasa orang perorangan atau\nbadan usaha yang dinyatakan ahli yang profesi onal di bidang\npengawasan jasa konstr uksi yang mampu melaksanakan pekerjaan\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\npengawasan sejak awal pelaksan aan pekerjaan konstruksi sampai\nselesai dan diserahterimakan.\n\nBAB II\nASAS DAN TUJUAN"
+   }
+  },
+  {
+   "id": "ID-H1018-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\n\nPengaturan jasa konstruksi berlanda skan pada asas kejujuran dan\nkeadilan, manfaat, keserasian , keseimbangan, kemandirian,\nketerbukaan, kemitraan dan keselama tan demi kepentingan masyarakat,\nbangsa, dan negara."
+   }
+  },
+  {
+   "id": "ID-H1018-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\n\nPengaturan jasa konstruksi bertujuan untuk :\na. memberikan arah pertumbuhan dan perkembangan jasa konstruksi\nuntuk mewujudkan struktur usaha yang kokoh, andal, berdaya saing\ntinggi, dan hasil pekerjaan konstruksi yang berkualitas;\nb. mewujudkan tertib penyelengga raan pekerjaan konstruksi yang\nmenjamin kesetaraan kedudukan antara pengguna jasa dan penyedia\njasa dalam hak dan kewajiban, se rta meningkatkan kepatuhan pada\nketentuan peraturan perundang-undangan yang berlaku;\nc. mewujudkan peningkatan peran masyarakat di bidang jasa\nkonstruksi.\n\nBAB III\nUSAHA JASA KONSTRUKSI\n\nBagian Pertama\nJenis, Bentuk, dan Bidang Usaha"
+   }
+  },
+  {
+   "id": "ID-H1018-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\n\n(1) Jenis usaha jasa konstruksi te rdiri dari usaha perencanaan\nkonstruksi, usaha pelaksanaan kons truksi, dan usaha pengawasan\nkonstruksi yang masing-masing dila ksanakan oleh perencana\nkonstruksi, pelaksana konstruksi, dan pengawas konstruksi.\n(2) Usaha perencanaan konstruks i memberikan layanan jasa\nperencanaan dalam pekerjaan konstruksi yang meliputi rangkaian\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nkegiatan atau bagian-bagian da ri kegiatan mulai dari studi\npengembangan sampai dengan penyusunan dokumen kontrak kerja\nkonstruksi.\n(3) Usaha pelaksanaan konstruksi memberikan layanan jasa pelaksanaan\ndalam pekerjaan konstruksi yang me liputi rangkaian kegiatan atau\nbagian-bagian dari kegiatan mula i dari penyiapan lapangan sampai\ndengan penyerahan akhir hasil pekerjaan konstruksi.\n(4) Usaha pengawasan konstruksi memberikan layanan jasa pengawasan\nbaik keseluruhan maupun sebagi an pekerjaan pelaksanaan\nkonstruksi mulai dari penyiap an lapangan sampai dengan\npenyerahan akhir hasil konstruksi."
+   }
+  },
+  {
+   "id": "ID-H1018-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\n\n(1) Usaha jasa konstruksi dapat be rbentuk orang perseorangan atau\nbadan usaha.\n(2) Bentuk usaha yang dilakukan oleh  orang perseorangan sebagaimana\ndimaksud pada ayat (1) selaku pelaksana konstruksi hanya dapat\nmelaksanakan pekerjaan konstr uksi yang berisiko kecil, yang\nberteknologi sederhana, dan yang berbiaya kecil.\n(3) Bentuk usaha yang dilakukan oleh  orang perseorangan sebagaimana\ndimaksud pada ayat (1) selaku pe rencana konstruksi atau pengawas\nkonstruksi hanya dapat melaksanakan  pekerjaan yang sesuai dengan\nbidang keahliannya.\n(4) Pekerjaan konstruksi yang berisiko besar dan/atau yang berteknologi\ntinggi dan/atau yang berbiaya be sar hanya dapat dilakukan oleh\nBadan usaha yang berbentuk perser oan terbatas atau badan usaha\nasing yang dipersamakan."
+   }
+  },
+  {
+   "id": "ID-H1018-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\n\nBidang usaha jasa konstruks i mencakup pekerjaan arsitektural dan/atau\nsipil dan/atau mekanikal dan/atau elektrikal dan/atau tata lingkungan,\nmasing-masing beserta kelengkapannya."
+   }
+  },
+  {
+   "id": "ID-H1018-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\n\nKetentuan tentang jenis usaha se bagaimana dimaksud dalam Pasal 4\nayat (1), bentuk usaha sebagaimana dimaksud dalam Pasal 5 dan bidang\nusaha sebagaimana dimaksud dalam Pa sal 6 diatur lebih lanjut dengan\nPeraturan Pemerintah.\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nBagian Kedua\nPersyaratan Usaha, Keahlian, dan Keterampilan"
+   }
+  },
+  {
+   "id": "ID-H1018-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n\nPerencana konstruksi, pelaksana konstruksi, dan pe ngawas konstruksi\nyang berbentuk badan usaha harus :\na. memenuhi ketentuan tentang pe rizinan usaha di bidang jasa\nkonstruksi;\nb. memiliki sertifikat, klasifikasi,  dan kualifikasi perusahaan jasa\nkonstruksi."
+   }
+  },
+  {
+   "id": "ID-H1018-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n\n(1) Perencana konstruksi dan penga was konstruksi orang perseorangan\nharus memiliki sertifikat keahlian.\n(2) Pelaksana konstruksi orang perseo rangan harus memiliki sertifikat\nketerampilan kerja dan sertifikat keahlian kerja.\n(3) Orang perseorangan yang dipekerj akan oleh Badan ussaha sebagai\nperencana konstruksi atau pengawas konstruksi atau tenaga tertentu\ndalam badan Usaha pelaksana konstr uksi harus memiliki sertifikat\nkeahlian.\n(4) Tenaga kerja yang melaksanakan pekerjaan keteknikan yang bekerja\npada pelaksana konstruksi harus me miliki sertifikat keterampilan\ndan keahlian kerja."
+   }
+  },
+  {
+   "id": "ID-H1018-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\n\nKetentuan mengenai penyelenggaraan perizinan usaha, klasifikasi\nusaha, kualifikasi usaha, sertifik asi keterampilan, dan sertifikasi\nkeahlian kerja sebagaimana dimaksud dalam Pasal 8 dan Pasal 9 diatur\nlebih lanjut dengan Peraturan Pemerintah.\n\nBagian Ketiga\nTanggung Jawab Profesional"
+   }
+  },
+  {
+   "id": "ID-H1018-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\n\n(1) Badan usaha sebagiamana di maksud dalam Pasa l 8 dan orang\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nperseorangan sebagaimana di maksud dalam Pasal 9 harus\nbertanggung jawab terhadap hasil pekerjaannya.\n(2) Tanggung jawab sebagaimana dima ksud pada ayat (1) dilandasi\nprinsip-prinsip keahlian sesuai de ngan kaidah keilmuan, kepatutan,\ndan kejujuran intelektual dalam menjalankan prof esinya dengan\ntetap mengutamakan kepentingan umum.\n(3) Untuk mewujudkan terpenuhi nya tanggung jawab sebagaimana\ndimaksud pada ayat (1) dan ay at (2) dapat ditempuh melalui\nmekanisme pertanggungan sesuai dengan ketentuan peraturan\nperundang-undangan yang berlaku.\n\nBagian Keempat\nPengembangan Usaha"
+   }
+  },
+  {
+   "id": "ID-H1018-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n\n(1) Usaha jasa konstruksi dikemb angkan untuk mewuj udkan struktur\nusaha yang kokoh dan efisien melalui kemitraan yang sinergis antara\nusaha yang besar, menengah, dan kecil serta antara usaha yang\nbersifat umum, spesialis, dan keterampilan tertentu.\n(2) Usaha perencanaan konstr uksi dan pengawa san konstruksi\ndikembangkan ke arah usaha yang bersifat umum dan spesialis.\n(3) Usaha pelaksanaan konstruksi dikembangkan ke arah :\n a. usaha yang bersifat umum dan spesialis;\n b. usaha orang perseorangan yang berketerampilan kerja."
+   }
+  },
+  {
+   "id": "ID-H1018-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\n\nUntuk mengembangkan usaha jasa konstruksi diperlukan dukungan dari\nmitra usaha melalui :\na. perluasan dan peningka tan akses terhadap sumber pendanaan, serta\nkemudahan persyaratan dalam pendanaan,\nb. pengembangan jenis usaha pe rtanggungan untuk me ngatasi risiko\nyang timbul dan tanggung jawab hukum kepada pihak lain dalam\npelaksanaan pekerjaan konstruksi atau akibat dari kegagalan\nbangunan.\n\nBAB IV\nPENGIKATAN PEKERJAAN KONSTRUKSI\nBagian Pertama\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nPara Pihak"
+   }
+  },
+  {
+   "id": "ID-H1018-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\n\nPara pihak dalam pekerjaan konstruksi terdiri dari :\na. pengguna jasa;\nb. penyedia jasa."
+   }
+  },
+  {
+   "id": "ID-H1018-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\n\n(1) Pengguna jasa sebagaimana dimaksud dalam Pasal 14 huruf a, dapat\nmenunjuk wakil untuk melaksanak an kepentingannya dalam\npekerjaan konstruksi.\n(2) Pengguna jasa harus memilik i kemampuan membayar biaya\npekerjaan konstruksi yang di dukung dengan dokumen pembuktian\ndari lembaga perbankan dan/atau lembaga keuangan bukan bank.\n(3) Bukti kemampuan membayar seba gaimana dimaksud pada ayat (2)\ndapat diwujudkan dalam bentuk lain yang disepakati dengan\nmempertimbangkan lokasi, tingkat kom pleksitas, besaran biaya,\ndan/atau fungsi bangunan yang ditua ngkan dalam perjanjian tertulis\nantara pengguna jasa dan penyedia jasa.\n(4) Jika pengguna jasa adalah Pe merintah, pembuktian kemampuan\nuntuk membayar diwujudkan dalam dokumen tentang ketersediaan\nanggaran.\n(5) Pengguna jasa harus memenuhi kelengkapan yang di persyaratkan\nuntuk melaksanakan pekerjaan konstruksi."
+   }
+  },
+  {
+   "id": "ID-H1018-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\n\n(1) Penyedia jasa sebagaimana dimaksud dalam Pasal 14 huruf b terdiri\ndari :\n a. perencana konstruksi;\n b. pelaksana konstruksi;\n c. pengawas konstruksi.\n(2) Pelayanan jasa yang dilakukan oleh penyedia jasa sebagaimana\ndimaksud pada ayat (1) dilakukan oleh tiap-tiap penyedia jasa secara\nterpisah dalam pekerjaan konstruksi.\n(3) Layanan jasa perencanaan, pe laksanaan, dan pengawasan dapat\ndilakukan secara terintegrasi dengan memperhatikan besaran\npekerjaan atau biaya, penggunaan teknologi canggih, serta risiko\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nbesar bagi para pi hak ataupun kepentinga n umum dalam satu\npekerjaan konstruksi.\n\nBagian Kedua\nPengikatan Para Pihak"
+   }
+  },
+  {
+   "id": "ID-H1018-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\n\n(1) Pengikatan dalam hubungan ke rja jasa konstruksi dilakukan\nberdasarkan prinsip persaingan yang sehat melalui pemilihan\npenyedia jasa dengan cara pelelangan umum atau terbatas.\n(2) Pelelangan terbatas hanya boleh  diikuti oleh penyedia jasa yang\ndinyatakan telah lulus prakualifikasi.\n(3) Dalam keadaan tertentu, peneta pan penyedia jasa  dapat dilakukan\ndengan cara pemilihan langsung atau penunjukan langsung.\n(4) Pemilihan penyedia jasa ha rus mempertimbangkan kesesuaian\nbidang, keseimbangan antara kema mpuan dan beban kerja, serta\nkinerja penyedia jasa.\n(5) Pemilihan penyedia jasa hanya boleh diikuti oleh penyedia jasa yang\nmemnuhi persyaratan sebagaiman a dimaksud dalam Pasal 8 dan\nPasal 9.\n(6) Badan-badan usaha yang dimiliki oleh satu atau kelompok orang\nyang sama atau berada pada kepengurusan yang sama  tidak boleh\nmengikuti pelelangan untuk satu pekerjaan konstruksi secara\nbersamaan."
+   }
+  },
+  {
+   "id": "ID-H1018-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\n\n(1) Kewajiban pengguna jasa dalam pengikatan mencakup :\n a. menerbitkan dokumen tenta ng pemilihan penyedia jasa yang\nmemuat ketentuan-ketentuan se cara lengkap, jelas dan benar\nserta dapat dipahami;\n b. menetapkan penyedia jasa s ecara tertulis sebagai hasil\npelaksanaan pemilihan.\n(2) dalam pengikatan, penyedi a jasa wajib menyusun dokumen\npenawaran berdasarkan prinsip ke ahlian untuk disampaikan kepada\npengguna jasa.\n(3) Dokumen sebagaimana dimaksud pada ayat (1) dan ayat (2) bersifat\nmengikat bagi kedua pihak dan salah satu pihak tidak dapat\nmengubah dokumen tersebut secar a sepihak sampai dengan\npenandatanganan kontrak kerja konstruksi.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n(4) Pengguna jasa dan penyedia jasa  harus menindaklanjuti penetapan\ntertulis sebagaimana dimaksud pada  ayat (1) huruf b dengan suatu\nkontrak kerja konstruksi untuk menj amin terpenuhinya hak dan\nkewajiban para pihak yang secara adil dan seimbang serta dilandasi\ndengan itikad baik dalam penyelenggaraan pekerjaan konstruksi."
+   }
+  },
+  {
+   "id": "ID-H1018-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\n\nJika pengguna jasa mengubah atau membatalkan penetapan tertulis, atau\npenyedia jasa mengundurkan diri se telah diterbitkannya penetapan\ntertulis sebagaimana dimaksud dalam Pasal 18 ayat (1) huruf b, dan hal\ntersebut terbukti menimbulkan kerugi an bagi salah satu pihak, maka\npihak yang mengubah atau memb atalkan penetapan, atau\nmengundurkan diri wajib dikenai ganti r ugi atau bisa dituntut secara\nhukum."
+   }
+  },
+  {
+   "id": "ID-H1018-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\n\nPengguna jasa dilarang memberikan pekerjaan kepada penyedia jasa\nyang terafiliasi untuk mengerjakan satu pekerjaan konstruksi pada\nlokasi dan dalam kurun waktu yang sama tanpa melalui pelelangan\numum ataupun pelelangan terbatas."
+   }
+  },
+  {
+   "id": "ID-H1018-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\n\n(1) Ketentuan mengenai pemilihan sebagaimana dimaksud dalam Pasal\n17, Kewajiban sebagaimana di maksud dalam Pasal 18, dan\npembatalan sebagaimana dimaks ud dalam Pasal 19 berlaku juga\ndalam pengikatan antara penyedia jasa dan subpenyedia jasa.\n(2) Ketentuan mengenai tata cara pe milihan penyedia jasa sebagaimana\ndimaksud dalam Pasal 17, pene rbitan dokumen dan penetapan\npenyedia jasa sebagaimana dimaks ud dalam Pasal 18 diatur lebih\nlanjut dengan Peraturan Pemerintah.\n\n\nBagian Ketiga\nKontrak Kerja Konstruksi"
+   }
+  },
+  {
+   "id": "ID-H1018-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\n\n(1) Pengaturan hubungan kerja be rdasarkan hukum sebagaimana\ndimaksud dalam Pasal 18 ayat (3 ) harus dituangkan dalam kontrak\nkerja konstruksi.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n(2) Kontrak kerja konstruksi sekurang-kurangnya harus mencakup\nuraian mengenai :\n a. para pihak, yang memuat secara jelas identitas para pihak;\n b. rumusan pekerjaan, yang memu at uraian yang jelas dan rinci\ntentang lingkup kerja, nilai pe kerjaan, dan batasan waktu\npelaksanaan;\n c. masa pertanggungan dan/atau  pemeliharaan, yang memuat\ntentang jangka waktu pertanggungan dan/atau pemeliharaan yang\nmenjadi tanggung jawab penyedia jasa;\n d. tenaga ahli, yang memuat kete ntuan tentang jumlah, klasifikasi\ndan kualifikasi tenaga ahli untuk melaksankan pekerjaan\nkonstruksi;\n e. hak dan kewajiban, yang memuat hak pengguna jasa untuk\nmemperoleh hasil pekerjaan konstruksi serta kewajibannya untuk\nmemenuhi ketentuan yang diperjan jikan serta hak penyedia jasa\nuntuk memperoleh informasi dan imbalan jasa serta\nkewajibannya melaksanakan pekerjaan konstruksi.\n f. cara pembayaran, yang memuat  ketentuan tentang kewajiban\npengguna jasa dalam melakukan pe mbayaran hasil pekerjaan\nkonstruksi;\n g. cidera janji, yang memuat  ketentuan tent ang tanggung jawab\ndalam hal salah satu pihak tid ak melaksanakan kewajiban\nsebagaimana diperjanjikan;\n h. penyelesaian perselisihan, ya ng memuat ketentuan tentang tata\ncara penyelesaian perselisihan akibat ketidaksepakatan;\n i. pemutusan kontrak kerja kons truksi, yang memuat ketentuan\ntentang pemutusan kontrak kerj a konstruksi yang timbul akibat\ntidak dapat dipenuhinya kewajiban salah satu pihak;\n j. keadaan memaksa (force ma jeure), yang memuat ketentuan\ntentang kejadian yang timbul di  luar kemauan dan kemampuan\npara pihak, yang menimbulkan kerugian bagi salah satu pihak.\n k. kegagalan bangunan,  yang memuat ketentua n tentang kewajiban\npenyedia jasa dan/atau pengguna jasa atas kegagalan bangunan;\n l. perlindungan pekerja, yang memu at ketentuan tentang kewajiban\npara pihak dalam pela ksanaan keselamatan dan kesehatan kerja\nserta jaminan sosial;\n m. aspek lingkungan, yang memuat  kewajiban para pihak dalam\npemenuhan ketentuan tentang lingkungan.\n(3) Kontrak kerja konstruksi untuk pekerjaan perencanaan harus\nmemuat ketentuan tentang hak atas kekayaan intelektual.\n(4) Kontrak kerja konstruksi dapat memuat kesepakatan para pihak\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\ntentang pemberian insentif.\n(5) Kontrak kerja konstruksi untuk kegiatan pelaksanaan dalam\npekerjaan konstruksi, dapat memuat  ketentuan tentang sub penyedia\njasa serta pemasok bahan dan atau komponen bangunan dan atau\nperalatan yang harus memenuhi standar yang berlaku.\n(6) Kontrak kerja konstruksi dibuat dalam bahasa Indonesia dan dalam\nhal kontrak kerja konstruksi dengan pi hak asing, maka dapat dibuat\ndalam bahasa Indonesia dan bahasa Inggris.\n(7) Ketentuan mengenai kontrak kerja konstruksi sebagaimana\ndimaksud pada ayat (2) berlaku juga dalam kontrak kerja konstruksi\nantara penyedia jasa dengan subpenyedia jasa.\n(8) Ketentuan mengenai kontrak kerja konstruksi sebagaimana\ndimaksud pada ayat (2), hak atas kekayaan intelektual sebagaimana\ndimaksud pada ayat (3), pemberia n insentif sebagaimana dimaksud\npada ayat (4), dan mengenai pe masok dan/atau komponen bahan\nbangunan dan/atau perala tan sebagaimana dimaksud pada ayat (5)\ndiatur lebih lanjut dengan Peraturan Pemerintah.\n\nBAB V\nPENYELENGGARAAN\nPEKERJAAN KONSTRUKSI"
+   }
+  },
+  {
+   "id": "ID-H1018-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\n\n(1) Penyelenggaraan pekerjaan konstr uksi meliputi tahap perencanaan\ndan tahap pelaksanaan beserta pengawasannya yang masing-masing\ntahap dilaksanakan melalui kegi atan penyiapan, pengerjaan, dan\npengakhiran.\n(2) Penyelenggaraan pekerjaan kons truksi wajib memenuhi ketentuan\ntentang keteknikan, keamanan, ke selamatan dan kesehatan kerja,\nperlindungan tenaga kerja, sert a tata lingkungan setempat untuk\nmenjamin terwujudnya tertib penyelenggaraan pekerjaan konstruksi.\n(3) Para pihak dalam melaksanka n ketentuan sebagaimana dimaksud\npada ayat (1) harus memenuhi ke wajiban yang dipersyaratkan untuk\nmenjamin berlangsungnya tertib  penyelenggaraan pekerjaan\nkonstruksi sebagaimana dimaksud pada ayat (2).\n(4) Penyelenggaraan pekerjaan konstr uksi sebagaimana dimaksud pada\nayat (1) dan ayat (2) diatur lebih lanjut de ngan Peraturan\nPemerintah."
+   }
+  },
+  {
+   "id": "ID-H1018-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 24\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\n(1) Penyedia jasa dalam penyelengga raan pekerjaan konstruksi dapat\nmenggunakan subpenyedia jasa ya ng mempunyai keahlian khusus\nsesuai dengan masing-masing tahapan pekerjaan konstruksi.\n(2) Subpenyedia jasa sebagaimana dimaksud pada ayat (1) harus\nmemenuhi persyaratan sebagaiman a dimaksud dalam Pasal 8 dan\nPasal 9.\n(3) Penyedia jasa sebagaimana dimaksud pada ayat (1) wajib memenuhi\nhak-hak subpenyedia jasa sebaga imana tercantum dalam kontrak\nkerja konstruksi antara penyedia jasa dan  subpenyedia jasa.\n(4) Subpenyedia jasa sebagaimana dimaksud pada ayat (3) wajib\nmemenuhi kewajiban-kewajibannya sebagaimana tercantum dalam\nkontrak kerja konstruksi antara penyedia jasa dan subpenyedia jasa.\n\nBAB VI\nKEGAGALAN BANGUNAN"
+   }
+  },
+  {
+   "id": "ID-H1018-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\n\n(1) Pengguna jasa dan penyedia jasa wajib bertanggung jawab atas\nkegagalan bangunan.\n(2) Kegagalan bangunan yang menj adi tanggung jawab penyedia jasa\nsebagaimana dimaksud pada ayat (1) ditentukan terhitung sejak\npenyerahan akhir pekerjaan konstruksi dan paling lama 10 (sepuluh)\ntahun.\n(3) Kegagalan bangunan sebagaim ana dimaksud pada ayat (2)\nditetapkan oleh pihak ketiga selaku penilai ahli."
+   }
+  },
+  {
+   "id": "ID-H1018-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\n\n(1) Jika terjadi kegagalan bangunan yang disebabkan ka rena kesalahan\nperencana atau pengawas konstruks i, dan hal tersebut terbukti\nmenimbulkan kerugian bagi piha k lain, maka perencana atau\npengawas konstruksi wajib bertanggung jawab sesuai dengan bidang\nprofesi dan dikenakan ganti rugi.\n(2) Jika terjadi kegagalan bangunan yang disebabkan ka rena kesalahan\npelaksana konstruksi dan hal tersebut terbukti menimbulkan\nkerugian bagi pihak lain, ma ka pelaksana konstruksi wajib\nbertanggung jawab sesuai dengan bi dang usaha dan di kenakan ganti\nrugi."
+   }
+  },
+  {
+   "id": "ID-H1018-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\nJika terjadi kegagalan bangunan ya ng disebabkan kare na kesalahan\npengguna jasa dalam pengelolaan  bangunan dan hal tersebut\nmenimbulkan kerugian bagi pihak lain, maka pengguna jasa wajib\nbertanggung jawab dan dikenai ganti rugi."
+   }
+  },
+  {
+   "id": "ID-H1018-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\n\nKetentuan mengenai ja ngka waktu dan penilai ahli sebagaimana\ndimaksud dalam Pasa l 25, tanggung jawab pe rencana konstruksi,\npelaksana konstruksi, dan pengawa s konstruksi sebagaimana dimaksud\ndalam Pasal 26 serta tanggung jawa b pengguna jasa sebagaimana\ndimaksud dalam Pasal 27 diatur lebih lanjut de ngan Peraturan\nPemerintah.\n\nBAB VII\nPERAN MASYARAKAT\n\nBagian Pertama\nHak dan Kewajiban"
+   }
+  },
+  {
+   "id": "ID-H1018-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\n\nMasyarakat berhak untuk :\na. melakukan pengawasan untuk mewuj udkan tertib pelaksanaan jasa\nkonstruksi;\nb. memperoleh penggantian yang la yak atas kerugian yang dialami\nsecara langsung sebagai akibat penyelenggaraan pekerjaan\nkonstruksi."
+   }
+  },
+  {
+   "id": "ID-H1018-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\n\nMasyarakat berkewajiban :\na. menjaga ketertiban dan memenuhi  ketentuan yang berlaku di bidang\npelaksanaan jasa konstruksi;\nb. turut mencegah terjadi nya pekerjaan konstruksi yang\nmembahayakan kepentingan umum.\n\nBagian Kedua\nMasyarakat Jasa Konstruksi\n\n\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H1018-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\n\n(1) Masyarakat jasa konstruksi merupakan bagian dari masyarakat yang\nmempunyai kepentingan dan/at au kegiatan yang berhubungan\ndengan usaha dan pekerjaan jasa konstruksi.\n(2) Penyelenggaraan peran masyarak at jasa konstruksi sebagaimana\ndimaksud pada ayat (1) dilaksanakan melalui suatu forum jasa\nkonstruksi.\n(3) Penyelenggaraan peran masyarak at jasa konstruksi sebagaimana\ndimaksud pada ayat (1) dalam me laksanakan pengembangan jasa\nkonstruksi dilakukan oleh suatu lembaga yang independen dan\nmandiri."
+   }
+  },
+  {
+   "id": "ID-H1018-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 32\n\n(1) Forum sebagaiamana dimaksud dala m Pasal 31 ayat (2) terdiri atas\nunsur-unsur :\n a. asosiasi perusahaan jasa konstruksi;\n b. asosiasi profesi jasa konstruksi;\n c. asosiasi perusahaan barang da n jasa mitra usaha jasa konstruksi;\n d. masyarakat intelektual;\n e. organisasi kemasyarakatan ya ng berkaitan dan berkepentingan di\nbidang jasa konstruksi dan/atau  yang mewakili konsumen jasa\nkonstruksi;\n f. instansi Pemerintah; dan\n g. unsur-unsur lain  yang dianggap perlu.\n(2) Forum sebagaimana dimaksud pada ayat (1) mempunyai kesempatan\nyang seluas-luasnya untuk berperan dalam upaya\nmenumbuhkembangkan usaha jasa  konstruksi nasional yang\nberfungsi untuk :\n a. menampung dan menyalurkan aspirasi masyarakat;\n b. membahas dan merumuskan pemikiran arah pengembangan jasa\nkonstruksi nasional;\n c. tumbuh dan berkembangnya peran pengawasan masyarakat;\n d. memberi masukan kepada Pemerintah dalam merumuskan\npengaturan, pemberdayaan, dan pengawasan."
+   }
+  },
+  {
+   "id": "ID-H1018-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 33\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n(1) Lembaga sebagaimana dimaksud pada Pasal 31 ayat (3)\nberanggotakan wakil-wakil dari :\n a. asosiasi perusahaan jasa konstruksi;\n b. asosiasi profesi jasa konstruksi;\n c. pakar dan pergur uan tinggi yang berkaita n dengan bidang jasa\nkonstruksi; dan\n d. instansi Pemerintah yang terkait.\n(2) Tugas lembaga sebagaimana dimaksud dalam ayat (1) adalah :\n a. melakukan atau mendorong pe nelitian dan pengembangan jasa\nkonstruksi;\n b. menyelenggarakan pendidikan dan pelatihan jasa konstruksi;\n c. melakukan registrasi tenaga  kerja konstruksi, yang meliputi\nklasifikasi, kualifikasi dan ser tifikasi keterampilan dan keahlian\nkerja;\n d. melakukan registrasi badan usaha jasa konstruksi;\n e. mendorong dan meningkatkan pe ran arbitrase, mediasi, dan\npenilai ahli di bidang jasa konstruksi.\n(3) Untuk mendukung kegiatannya, lembaga sebagaimana dimaksud\npada ayat (1) dapat mengusahakan perolehan dana dari masyarakat\njasa konstruksi yang berkepentingan."
+   }
+  },
+  {
+   "id": "ID-H1018-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 34\n\nKetentuan mengenai forum sebagaim ana dimaksud dalam Pasal 32 dan\nlembaga sebagaimana dimaksud dala m Pasal 33 diatur lebih lanjut\ndengan Peraturan Pemerintah.\n\nBAB VIII\nPEMBINAAN"
+   }
+  },
+  {
+   "id": "ID-H1018-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 35\n\n(1) Pemerintah melakukan pembin aan jasa konstruksi dalam bentuk\npengaturan, pemberdayaan, dan pengawasan.\n(2) Pengaturan sebagaimana dimaks ud pada ayat (1 ) dilakukan dengan\npenerbitan peraturan perunda ng-undangan dan st andar-standar\nteknis.\n(3) Pemberdayaan sebagaimana di maksud pada ayat (1) dilakukan\nterhadap usaha jasa konstruksi dan masyarakat untuk\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nmenumbuhkembangkan kesadaran ak an hak, kewajiban, dan\nperannya dalam pelaksanaan jasa konstruksi.\n(4) Pengawasan sebagaimana dima ksud pada ayat (1) dilakukan\nterhadap penyelenggaraan peke rjaan konstruksi untuk menjamin\nterwujudnya ketertiban jasa kons truksi sesuai dengan ketentuan\nperaturan perundang-undangan yang berlaku.\n(5) Pelaksanaan pembinaan sebagaim ana dimaksud pada ayat (1) dapat\ndilakukan bersama-sama dengan masyarakat jasa konstruksi.\n(6) Sebagian tugas pembinaan seba gaimana dimaksud pada ayat (1)\ndapat dilimpahkan kepada Pemerint ah Daerah yang diatur lebih\nlanjut dengan Peraturan Pemerintah.\n\nBAB IX\nPENYELESAIAN SENGKETA\n\nBagian Pertama\nUmum"
+   }
+  },
+  {
+   "id": "ID-H1018-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB IX / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 36\n\n(1) Penyelesaian sengketa jasa konstruksi dapat ditempuh melalui\npengadilan atau di luar pengad ilan berdasarkan pilihan secara\nsukarela para pihak yang bersengketa.\n(2) Penyelesaian sengketa di luar  pengadilan sebagaimana dimaksud\npada ayat (1) tidak berlaku terhadap tindak pidana dalam\npenyelenggaraan pekerjaan konstruks i sebagaimana diatur dalam\nKitab Undang-Undang Hukum Pidana.\n(3) Jika dipilih upaya penyelesaian sengketa di luar pengadilan, gugatan\nmelalui pengadilan hanya dapat d itempuh apabila upaya tersebut\ndinyatakan tidak berhasil oleh sa lah satu atau para pihak yang\nbersengketa.\n\nBagian Kedua\nPenyelesaian sengketa di Luar Pengadilan"
+   }
+  },
+  {
+   "id": "ID-H1018-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB IX / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 37\n\n(1) Penyelesaian sengketa jasa kons truksi di luar pengadilan dapat\nditempuh untuk masalah-masalah yang timbul dalam kegiatan\npeningkatan dan penyele nggaraan pekerjaan konstruksi, serta dalam\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nhal terjadi kegagalan bangunan.\n(2) Penyelesaian sengketa jasa kons truksi sebagaimana dimaksud pada\nayat (1) dapat menggunakan jasa pi hak ketiga, yang disepakati oleh\npara pihak.\n(3) Pihak ketiga sebagaimana dimaks ud pada ayat (2 ) dapat dibentuk\noleh Pemerintah dan/atau masyarakat jasa konstruksi.\n\nBagian Ketiga\nGugatan masyarakat"
+   }
+  },
+  {
+   "id": "ID-H1018-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38"
+   },
+   "chapter": {
+    "id": "BAB IX / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 38\n\n(1) Masyarakat yang dirugikan akibat penyelenggaraan pekerjaan\nkonstruksi berhak mengajukan gugatan ke pengadilan secara :\n a. orang perseorangan;\n b. kelompok orang de ngan pemberian kuasa;\n c. kelompok orang tidak dengan kuasa melalui gugatan perwakilan.\n(2) Jika diketahui bahwa masyar akat menderita sebagai akibat\npenyelenggaraan pekerj aan konstruksi sedemikian rupa sehingga\nmempengaruhi peri kehidupan pokok masyarakat, Pemerintah wajib\nberpihak pada dan dapat bertindak untuk kepentingan masyarakat."
+   }
+  },
+  {
+   "id": "ID-H1018-A39",
+   "no": 39,
+   "noLabel": {
+    "id": "Pasal 39"
+   },
+   "chapter": {
+    "id": "BAB IX / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 39\n\nGugatan sebagaimana dimaksud dalam Pasal 38 ayat (1) adalah tuntutan\nuntuk melakukan tindakan tertentu dan/at au tuntutan berupa biaya atau\npengeluaran nyata, dengan tidak me nutup kemungkinan tuntutan lain\nsesuai dengan ketentuan peraturan perundang-undangan yang berlaku."
+   }
+  },
+  {
+   "id": "ID-H1018-A40",
+   "no": 40,
+   "noLabel": {
+    "id": "Pasal 40"
+   },
+   "chapter": {
+    "id": "BAB IX / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 40\n\nTata cara pengajuan gugatan masyar akat sebagaimana dimaksud dalam\npasal 38 ayat (1) diajukan oleh or ang perseorangan, kelompok orang,\natau lembaga kemasyarakatan de ngan mengacu kepada Hukum Acara\nPerdata.\n\nBAB X\nSANKSI\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H1018-A41",
+   "no": 41,
+   "noLabel": {
+    "id": "Pasal 41"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 41\n\nPenyelenggara pekerjaan konstruksi dapat dikenai sanksi administratif\ndan/atau pidana atas pelanggaran Undang-undang ini."
+   }
+  },
+  {
+   "id": "ID-H1018-A42",
+   "no": 42,
+   "noLabel": {
+    "id": "Pasal 42"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 42\n\n(1) Sanksi administratif sebagaim ana dimaksud dalam Pasal 41 yang\ndapat dikenakan kepada penyedia jasa berupa :\n a. peringatan tertulis;\n b. penghentian sementara pekerjaan konstruksi;\n c. pembatasan kegiatan usaha dan/atau profesi;\n d. pembekuan izin usaha dan/atau profesi;\n e. pencabutan izin usaha dan/atau profesi.\n(2) Sanksi administratif sebagaim ana dimaksud dalam Pasal 41 yang\ndapat dikenakan kepada pengguna jasa berupa :\n a. peringatan tertulis;\n b. penghentian sementara pekerjaan konstruksi;\n c. pembatasan kegiatan usaha dan/atau profesi;\n d. larangan sementara pengguna an hasil pekerjaan konstruksi;\n e. pembekuan izin pela ksanaan pekerjaan konstruksi;\n f. pencabutan izin pelaks anaan pekerjaan konstruksi.\n(3) Ketentuan mengenai tata laksana dan penerapan sanksi administratif\nsebagaimana dimaksud pada ayat (1) dan ayat (2) diatur lebih lanjut\ndengan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H1018-A43",
+   "no": 43,
+   "noLabel": {
+    "id": "Pasal 43"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 43\n\n(1) Barang siapa yang melakukan pe rencanaan pekerjaan konstruksi\nyang tidak memenuhi ketentuan keteknikan dan mengakibatkan\nkegagalan pekerjaan konstruksi atau kegagalan bangunan\ndikenai pidana paling lama 5 (lim a) tahun penjara atau dikenakan\ndenda paling banyak 10% (sepuluh per seratus) dari nilai kontrak.\n(2) Barang siapa yang melakukan pe laksanaan pekerjaan konstruksi\nyang bertentangan atau tidak sesu ai dengan ketent uan keteknikan\nyang telah ditetapkan dan mengakibatkan ke gagalan pekerjaan\nkonstruksi atau kegagalan bangunan dikenakan pidana paling lama 5\n(lima) tahun penjara atau dikena kan denda paling banyak 5% (lima\nper seratus) dari nilai kontrak.\n(3) Barang siapa yang melakukan pe ngawasan pelaksanaan pekerjaan\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nkonstruksi dengan sengaja memberi kesempatan kepada orang lain\nyang melaksanakan pekerjaan konstruksi melakukan penyimpangan\nterhadap ketentuan ketekni kan dan menyebabkan timbulnya\nkegagalan pekerjaan konstruksi at au kegagalan kegunaan dikenai\npidana paling lama 5 (lima) ta hun penjara atau dikenakan denda\npaling banyak 10% (sepuluh per seratus) dari nilai kontrak.\n\nBAB XI\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H1018-A44",
+   "no": 44,
+   "noLabel": {
+    "id": "Pasal 44"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 44\n\n(1) Ketentuan peraturan perunda ng-undangan yang mengatur kegiatan\njasa konstruksi yang telah ada sepa njang tidak bertentangan dengan\nUndang-undang ini, dinyatakan teta p berlaku sampai diadakan\nperaturan pelaksanaan yang baru berdasarkan Undang-undang ini.\n(2) Penyedia jasa yang telah memp eroleh perizinan sesuai dengan\nbidang usahanya dala m waktu 1 (satu) ta hun menyesuaikan dengan\nketentuan dalam Undang-Undang ini, terhitung sejak\ndiundangkannya.\n\nBAB XII\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H1018-A45",
+   "no": 45,
+   "noLabel": {
+    "id": "Pasal 45"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 45\n\nPada saat berlakunya Undang-undang ini, maka ketentuan peraturan\nperundang-undangan yang mengatur ha l yang sama dan bertentangan\ndengan ketentuan Undang-undang ini, dinyatakan tidak berlaku."
+   }
+  },
+  {
+   "id": "ID-H1018-A46",
+   "no": 46,
+   "noLabel": {
+    "id": "Pasal 46"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 46\n\nUndang-undang ini mulai berlaku 1 (satu) tahun terhitung sejak\ndiundangkan.\n\nAgar setiap orang mengetahui nya, memerintahkan pengundangan\nUndang-undang ini, dengan penempat annya dalam Lembaran Negara\nRepublik Indonesia.\n\n          Disahkan di jakarta\n          pada tanggal 7 Mei 1999\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n          PRESIDEN REPUBLIK INDONESIA\n             t t d .\n           BACHARUDDIN JUSUF HABIBIE\nDiundangkan di Jakarta\npada tanggal 7 Mei 1999\nMENTERI NEGARA SEKRETARIS NEGARA\nREPUBLIK INDONESIA\nttd.\nAKBAR TANJUNG\n\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1999 NOMOR 54\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\nPENJELASAN\nATAS\nUNDANG-UNDANG REPUBLIK INDONESIA\nNOMOR 18 TAHUN 1999\nTENTANG\nJASA KONSTRUKSI\n\nI. UMUM\n\n1. Dalam pembangunan nasi onal, jasa konstruksi mem punyai peranan penting dan\nstrategis mengingat jasa konstruksi menghas ilkan produk akhir berupa bangunan atau\nbentuk fisik lainnya, baik yang berupa prasarana maupun sarana yang berfungsi\nmendukung pertumbuhan dan perkembangan be rbagai bidang, terutama bidang\nekonomi, sosial, dan budaya untuk mewuj udkan masyarakat adil dan makmur yang\nmerata materiil dan spiritual berdasarka n Pancasila dan Unda ng-Undang Dasar 1945.\nSelain berperan mendukung berbagai bidang pembangunan, jasa konstruksi berperan\npula untuk mendukung tumbuh dan berkembangnya berbagai industri barang dan jasa\nyang diperlukan dalam penyelenggaraan pekerjaan konstruksi.\n2. Jasa konstruksi nasional diharapkan semakin mampu mengembangkan perannya\ndalam pembangunan nasional melalui pe ningkatan keandala n yang didukung oleh\nstruktur usaha yang kokoh dan mampu mewu judkan hasil pekerj aan konstruksi yang\nberkualitas.\n  Keandalan tersebut tercermin dalam daya sai ng dan kemampuan\nmenyelenggarakan pekerjaan kons truksi secara lebih efis ien dan efektif, sedangkan\nstruktur usaha yang kokoh te rcermin dengan terwujudnya kemitraan yang sinergis\nantar penyedia jasa, baik yang berskala besar, menengah, dan kecil, maupun yang\nberkualifikasi umum, spesialis, dan terampil,  serta perlu diwujudkan pula ketertiban\npenyelenggaraan jasa konstr uksi untuk menjamin kesetaraan kedudukan antara\npengguna jasa dengan penyedia jasa dalam hak dan kewajiban.\n3. Dewasa ini, jasa kons truksi merupakan bidang usah a yang banyak diminati oleh\nanggota masyarakat di berbagai tingkatan se bagaimana terlihat dari makin besarnya\njumlah perusahaan yang bergerak di bidang usaha jasa konstruksi.\n  Peningkatan jumlah perusahaan ini te rnyata belum diiku ti dengan peningkatan\nkualifikasi dan kinerjanya, yang tercermi n pada kenyataan bahwa mutu produk,\nketepatan waktu pelaksanaan , dan efisiensi pemanfaatan sumber daya manusia,\nmodal, dan teknologi dala m penyelenggaraan jasa kons truksi belum sebagaimana\nyang diharapkan.\n  Hal ini disebabkan oleh karena persya ratan usaha serta persyaratan keahlian dan\nketerampilan belum diarahkan untuk mewujudkan keandalan usaha yang profesional.\n  Dengan tingkat kualifikasi dan kinerja tersebut, pada umumnya pangsa pasar\npekerjaan konstruksi yang bert eknologi tinggi belum sepe nuhnya dapat dikuasai oleh\nusaha jasa konstruksi nasional.\n  Kesadaran hukum dalam penyelengga raan pekerjaan konstruksi perlu\nditingkatkan, termasuk kepatuhan para piha k, yakni pengguna jasa dan penyedia jasa,\ndalam pemenuhan kewajibannya serta peme nuhan terhadap ketentuan yang terkait\ndengan aspek keamanan, keselamatan, kesehatan, dan li ngkungan, agar dapat\nmewujudkan bangunan yang be rkualitas dan mampu berf ungsi sebagaimana yang\ndirencanakan.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\n  Di sisi lain, kesadaran masyarakat ak an manfaat dan arti penting jasa konstruksi\nmasih perlu ditumbuhkembangkan agar mampu mendukung terwujudnya ketertiban\ndalam penyelenggaraan pekerjaan konstruksi secara optimal.\n  Kondisi jasa konstruksi nasional dewasa ini sebagaimana tercermin dalam uraian\ntersebut di atas disebabkan oleh dua faktor :\n a. faktor internal, yakni :\n  1) pada umumnya jasa  konstruksi nasional masih mempunyai kelemahan dalam\nmanajemen, penguasaan teknologi, dan perm odalan, serta keterbatasan tenaga\nahli dan tenaga terampil;\n  2) struktur usaha jasa konstruksi na sional belum tertata secara utuh dan kokoh\nyang tercermin dalam kenyataan belum terwujudnya kemitraan yang sinergis\nantar penyedia jasa dalam berbagai klasifikasi dan/atau kualifikasi;\n b. faktor eksternal, yakni :\n  1) kekurangsetaraan hubungan kerja an tara pengguna jasa dan penyedia jasa;\n  2) belum mantapnya dukungan berbag ai sektor secara langsung maupun tidak\nlangsung yang mempengaruhi kinerja dan keandalan ja sa konstruksi nasional,\nantara lain akses kepada permodalan, pengembangan pr ofesi keahlian dan\nprofesi keterampilan, ke tersediaan bahan dan  komponen bangunan yang\nstandar;\n  3) belum tertatanya pembinaan jasa konstruksi secara nasional, masih bersifat\nparsial dan sektoral.\n  Dengan segala keterbatasan dan kele mahan yang dimilikinya , dalam dua dasa\nwarsa terakhir, jasa konstruksi nasional telah menjadi salah satu potensi\nPembangunan Nasional dalam mendukung perluasan lapangan usaha dan kesempatan\nkerja serta peningkatan penerimaan negara . Dengan demikian potensi jasa konstruksi\nnasional ini perlu ditumbuhkembangkan agar lebih mampu berperan dalam\npembangunan nasional.\n4. Sejalan dengan meningkatnya  tuntutan masyarakat akan  perluasan cakupan, kualitas\nhasil maupun tertib pembangunan, tela h membawa konsekuensi meningkatnya\nkompleksitas pekerjaan konstruks i, tuntutan efisiensi, tertib penyelenggaraan, dan\nkualitas hasil pekerjaan konstruksi. Se lain itu, tata ekonomi dunia telah\nmengamanatkan hubungan kerja sama ekonomi internasional yang semakin terbuka\ndan memberikan peluang yang semakin luas bagi jasa konstruksi nasional.\n Kedua fenomena tersebut merupakan tantangan bagi jasa konstruksi nasional untuk\nmeningkatkan kinerjanya agar mampu bersaing secara profesional dan mampu\nmenghadapi dinamika perkembangan pasar dalam dan luar negeri.\n5. Peningkatan kemampuan us aha jasa konstruksi nasional memerlukan iklim usaha\nyang kondusif, yakni :\n a. terbentuknya kepranataan usaha, meliputi :\n  1) persyaratan usaha yang mengatur klas ifikasi dan kualifikasi perusahaan jasa\nkonstruksi;\n  2) standard klasifikasi dan kualifikasi keahlian dan keterampilan yang mengatur\nbidang dan tingkat kemam puan orang perseoranga n yang bekerja pada\nperusahaan jasa konstruksi at aupun yang melakukan usaha orang\nperseorangan;\n  3) tanggung jawab profes ional yakni penegasan at as tanggung jawab terhadap\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nhasil pekerjaannya;\n  4) terwujudnya perlindunga n bagi pekerja konstruksi yang meliputi : kesehatan\ndan keselamatan kerja, serta jaminan sosial;\n  5) terselenggaranya pros es pengikatan yang terbuka da n adil, yang dilandasi oleh\npersaingan yang sehat;\n  6) pemenuhan kontrak ke rja konstruksi yang dilandasi  prinsip kesetaraan\nkedudukan antar pihak dalam hak da n kewajiban dalam suasana hubungan\nkerja yang bersifat terbuka, timbal balik, dan sinergis yang memungkinkan\npara pihak untuk mendudukka n diri pada fungsi masing-masing secara\nkonsisten;\n b. dukungan pengembangan usaha, meliputi :\n  1) tersedianya permodalan term asuk pertanggungan ya ng sesuai dengan\nkarakteristik usaha jasa konstruksi;\n  2) terpenuhinya ketent uan tentang jaminan mutu;\n  3) berfungsinya asosiasi perusahaan  dan asosiasi profesi dalam memenuhi\nkepentingan anggotanya termasuk memperjuangkan ketentuan imbal jasa yang\nadil;\n c. berkembangnya partisipasi masyarakat, yakni :\n  timbulnya kesadaran masyarakat ak an mendorong terwujudnya tertib jasa\nkonstruksi serta mampu untuk mengaktualisasikan hak dan kewajibannya;\n d. terselenggaranya pengaturan, pemb erdayaan, dan penga wasan yang dilakukan\noleh Pemerintah dan/atau Masyarakat Jasa Konstruksi bagi para pihak dalam\npenyelenggaraan pekerjaan konstruksi agar  mampu memenuhi berbagai ketentuan\nyang dipersyaratkan ataupun kewajiban-kewajiban yang diperjanjikan;\n e. perlunya Masyarakat Jasa Konstruks i dengan unsur asosia si perusahaan dan\nasosiasi profesi membentuk lembaga untuk pengembangan jasa konstruksi.\n6. Untuk meningkatkan pemberdayaan pot ensi nasional secara optimal dalam\npenyelenggaraan pekerjaan konstruksi, pengguna jasa da n penyedia jasa perlu\nmengutamakan penggunaan jasa dan ba rang produksi nasional/dalam negeri\nsebagaimana diamanatkan oleh Undang-undang mengenai usaha kecil.\n7. Untuk mengembangkan jasa konstruksi se bagaimana telah diuraikan di atas\nmemerlukan pengaturan jasa konstruksi yang terencana, terarah, terpadu, dan\nmenyeluruh dalam bentuk Undang-undang sebagai landasan hukum.\n8. Undang-undang tentang Jasa  Konstruksi mengatur tenta ng ketentuan umum, usaha\njasa konstruksi, pengikatan pekerjaan konstruksi, pe nyelenggaraan pekerjaan\nkonstruksi, kegagala n bangunan, peran masyarakat , pembinaan, penyelesaian\nsengketa, sanksi, ketentuan peralihan, dan ketentuan penutup.\n Pengaturan tersebut dilandasi  oleh asas kejujuran dan ke adilan, manfaat, keserasian,\nkeseimbangan, kemandirian, keterbukaan , kemitraan, serta keamanan dan\nkeselamatan demi kepentingan masyarakat, bangsa, dan negara.\n9. Dengan Undang-undang tenta ng Jasa Konstruksi ini, ma ka semua penyelenggaraan\njasa konstruksi yang dilakukan di Indonesia oleh pengguna jasa dan penyedia jasa,\nbaik nasional maupun asing, wajib mematuhi seluruh ketentuan yang tercantum dalam\nUndang-undang tentang Jasa Konstruksi.\n10. Dengan Undang-undang tent ang Jasa Konstruksi ini menjadi landasan untuk\nmenyesuaikan ketentuan yang tercantu m dalam peratura n perundang-undangan\nlainnya yang terkait yang tidak se suai. Undang-undang ini mempunyai hubungan\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nkomplementaritas dengan peraturan perundang-undangan lainnya, antara lain :\n a. Undang-undang yang mengatur tentang keselamatan kerja;\n b. Undang-undang yang mengatur tent ang wajib daftar perusahaan;\n c. Undang-undang yang mengatur tentang perindustrian;\n d. Undang-undang yang mengatur tentang ketenagalistrikan;\n e. Undang-undang yang mengatur te ntang kamar dagang dan industri;\n f. Undang-undang yang mengatur tentang kesehatan kerja;\n g. Undang-undang yang mengatur te ntang usaha perasuransian;\n h. Undang-undang yang mengatur tenta ng jaminan sosial tenaga kerja;\n i. Undang-undang yang mengatur tentang perseroan terbatas;\n j. Undang-undang yang menga tur tentang usaha kecil;\n k. Undang-undang yang menga tur tentang hak cipta;\n l. Undang-undang yang me ngatur tentang paten;\n m. Undang-undang yang me ngatur tentang merek;\n n. Undang-undang yang mengatur te ntang pengelolaan lingkungan hidup;\n o. Undang-undang yang mengatur tentang ketenagakerjaan;\n p. Undang-undang yang menga tur tentang perbankan;\n q. Undang-undang yang mengatur tentang perlindungan konsumen;\n r. Undang-undang yang mengatur tent ang larangan praktek monopoli dan\npersaingan usaha tidak sehat;\n s. Undang-undang yang menga tur tentang arbitrase da n alternatif pilihan\npenyelesaian sengketa;\n t. Undang-undang yang mengatur tentang penataan ruang.\n\nII. PASAL DEMI PASAL\n\n Pasal 1\n  Angka 1\n   Dalam jasa konstruksi terdapat  2 (dua) pihak ya ng mengadakan hubungan\nkerja berdasarkan hukum yakni pengguna jasa dan penyedia jasa.\n  Angka 2\n   Pekerjaan arsitektural mencakup an tara lain : pengolahan bentuk dan masa\nbangunan berdasarkan fungs i serta persyaratan yang diperlukan setiap\npekerjaan konstruksi.\n   Pekerjaan sipil mencakup antara la in : pembangunan pela buhan, bandar udara,\njalan kereta api, pengamanan pant ai, saluran irigasi/kanal, bendungan,\nterowongan, gedung, jalan dan jemb atan, reklamasi rawa, pekerjaan\npemasangan perpipaan, pekerjaan pemboran, dan pembukaan lahan.\n   Pekerjaan mekanikal dan elektr ikal merupakan pekerjaan pemasangan\nproduk-produk rekayasa industri.\n   Pekerjaan mekanikal mencakup antara lain : pemasangan turbin, pendirian dan\npemasangan instalasi pabrik, kelengka pan instalasi bangunan, pekerjaan\npemasangan perpipaan air, minyak, dan gas.\n   Pekerjaan elektrikal mencakup anta ra lain : pembangunan jaringan transmisi\ndan distribusi kelistrikan, pemasangan instalasi kelistrikan, telekomunikasi\nbeserta kelengkapannya.\n   Pekerjaan tata lingkungan mencakup antara lain :  pekerjaan pengolahan dan\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\npenataan akhir bangunan maupun lingkungannya.\n   Bangunan adalah wujud fisik hasil pekerjaan konstruksi yang menyatu dengan\ntempat kedudukan baik yang ada di atas, di bawah tanah dan/atau air.\n   Dalam pengertian menyatu de ngan tempat kedudukan terkandung makna\nbahwa proses penyatua nnya dilakukan melalui pe nyelenggaraan pekerjaan\nkonstruksi.\n   Pengertian menyatu dengan tempat kedudukan tersebut dalam pelaksanaannya\nperlu memperhatikan adanya asas pemi sahan horisontal dalam pemilikan hak\natas tanah terhadap bangunan yang ada di atasnya, sebagaimana asas hukum\nyang dianut dalam Undang-undang mengenai agraria.\n   Hasil pekerjaan konstruksi ini dapat juga  dalam bentuk fisik lain, antara lain :\ndokumen, gambar rencana, gambar teknis, tata ruang dalam (interior), dan tata\nruang luar (exterior), atau penghancuran bangunan (demolition).\n  Angka 3\n   Pengertian orang perseorangan adal ah warga negara, baik Indonesia maupun\nasing. Pengertian badan adalah bada n usaha dan bukan ba dan usaha, baik\nIndonesia maupun asing.\n   Badan usaha dapat berbentuk badan hukum, antara lain, Perseroan terbatas\n(PT), Koperasi, atau bukan badan hukum, antara lain : CV, Firma.\n   Badan yang bukan badan usaha berben tuk badan hukum, antara lain instansi\ndan lembaga-lembaga Pemerintah.\n   Pemilik pekerjaan/proyek adalah  orang perseoranga n atau badan yang\nmemiliki pekerjaan/proyek yang menyediakan dana dan bertanggung jawab di\nbidang dana.\n  Angka 4\n   Pengertian orang pers eorangan dan badan usaha, penjelasannya sama dengan\npenjelasan pada angka 3.\n   Dalam pelaksanaan pekerjaan konstruks i penyedia jasa dapat berfungsi sebagai\nsubpenyedia jasa dari pe nyedia jasa lainnya yang berfungsi sebagai penyedia\njasa utama.\n  Angka 5\n   Cukup jelas\n  Angka 6\n   Kesalahan penyedia jasa adalah pe rbuatan yang dilakukan secara sadar dan\ndirencanakan atau akibat  ketidaktahuan atau kealpa an yang menyimpang dari\nkontrak kerja konstruksi sehingga menimbulkan kerugian.\n   Kesalahan pengguna jasa adalah  perbuatan yang di sebabkan karena\npengelolaan bangunan yang tidak sesuai dengan fungsinya.\n  Angka 7\n\n   Cukup jelas\n\n  Angka 8\n\n   Cukup jelas\n\n  Angka 9\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n   Cukup jelas\n\n  Angka 10\n   Cukup jelas\n  Angka 11\n   Cukup jelas\n\n Pasal 2\n  Asas Kejujuran dan Keadilan\n  Asas Kejujuran dan Ke adilan mengandung pengertian ke sadaran akan fungsinya\ndalam penyelenggaraan tertib jasa kons truksi serta bertanggung jawab memenuhi\nberbagai kewajiban guna memperoleh haknya.\n\n  Atas Manfaat\n  Atas Manfaat mengandung pe ngertian bahwa segala kegiatan jasa konstruksi harus\ndilaksanakan berlandaskan pada prinsip-prinsip profesionalitas dalam kemampuan\ndan tanggung jawab, efisiensi dan efek titas yang dapat menjamin terwujudnya\nnilai tambah yang optimal bagi para pi hak dalam penyelenggaraan jasa konstruksi\ndan bagi kepentingan nasional.\n\n  Asas Keserasian\n  Asas Keserasian mengandung pengertia n harmoni dalam interaksi antara\npengguna jasa dan penyedia jasa dalam penyelenggar aan pekerjaan konstruksi\nyang berwawasan lingkungan untuk mengha silkan produk yang berkualitas dan\nbermanfaat tinggi.\n\n  Asas Keseimbangan\n  Asas Keseimbangan mengandung penger tian bahwa penyelenggaraan pekerjaan\nkonstruksi harus berlandaskan pada prinsip yang menjamin terwujudnya\nkeseimbangan antara kemampuan penyedi a jasa dan beban kerjanya. Pengguna\njasa dalam menetapkan penyedia jasa wajib  mematuhi asas ini, untuk menjamin\nterpilihnya penyedia jasa yang paling sesuai , dan di sisi lain dapat memberikan\npeluang pemerataan yang proporsional da lam kesempatan kerja pada penyedia\njasa.\n\n  Asas Kemandirian\n  Asas Kemandirian mengandung penger tian tumbuh dan berkembangnya daya\nsaing jasa konstruksi nasional.\n\n  Asas Keterbukaan\n  Asas Keterbukaan mengandung pengertia n ketersediaan informasi yang dapat\ndiakses sehingga memberikan peluang bagi para pihak,  terwujudnya transparansi\ndalam penyelenggaraan pe kerjaan konstruksi yang me mungkinkan para pihak\ndapat melaksanakan kewajiban secara optimal  dan kepastian akan hak dan untuk\nmemperolehnya serta memungkinkan adanya  koreksi sehingga dapat dihindari\nadanya berbagai kekurangan dan penyimpangan.\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n  Asas Kemitraan\n  Asas Kemitraan mengandung penger tian hubungan kerja pa ra pihak yang\nharmonis, terbuka, bersifat timbal balik, dan sinergis.\n\n  Asas Keamanan dan Keselamatan\n  Asas Keamanan dan Keselamatan mengandung pengertian te rpenuhinya tertib\npenyelenggaraan jasa konstruksi, keaman an lingkungan dan kese lamatan kerja,\nserta pemanfaatan hasil pekerjaan konstruksi dengan tetap memperhatikan\nkepentingan umum.\n\n Pasal 3\n  Huruf a\n   Jasa konstruksi mempunyai peranan penting dan strategis dalam sistem\npembangunan nasional,  untuk mendukung berbagai  bidang kehidupan\nmasyarakat dan menumbuhkembangkan berbagai industri barang dan jasa yang\ndiperlukan dalam penyelenggaraan pekerjaan konstruksi.\n  Huruf b\n   Cukup jelas\n  Huruf c\n   Peran masyarakat meliputi baik pe ran yang bersifat langsung sebagai penyedia\njasa, pengguna jasa, dan pemanfaat ha sil pekerjaan konstr uksi, maupun peran\nsebagai warganegara yang berkewajib an turut melaksanakan pengawasan\nuntuk menegakkan ketertiban penyele nggaraan pembanguna n jasa konstruksi\ndan melindungi kepentingan umum.\n\n Pasal 4\n  Ayat (1)\n   Cukup jelas\n  Ayat (2)\n   Pekerjaan perencanaan konstruksi dapa t dilakukan dalam satu paket kegiatan\nmulai dari studi pengembangan sa mpai dengan penyus unan dokumen kontrak\nkerja konstruksi atau perbagian dari kegiatan.\n   Studi pengembangan me ncakup studi insepsion, st udi fisibilitas, penyusunan\nkerangka usulan.\n  Ayat (3)\n   Pekerjaan pelaksanaan konstruksi dapa t diadakan dalam satu paket kegiatan\nmulai dari penyiapan lapangan sampai dengan hasil akhir pe kerjaan atau per\nbagian kegiatan.\n  Ayat (4)\n   Cukup jelas\n\n Pasal 5\n  Ayat (1)\n   Cukup jelas\n  Ayat (2)\n   Pembatasan pekerjaan yang boleh  dilakukan oleh orang perseorangan\ndimaksudkan untuk memberikan perli ndungan terhadap para pihak maupun\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nmasyarakat atas risiko pekerjaan konstruksi.\n  Ayat (3)\n   Cukup jelas\n  Ayat (4)\n   Cukup jelas\n\n Pasal 6\n  Cukup jelas\n\n Pasal 7\n  Cukup jelas\n\n Pasal 8\n a. Fungsi perizinan yang mempunyai fungsi publik, dimaks udkan untuk melindungi\nmasyarakat dalam usaha dan/atau pekerjaan jasa konstruksi.\n b. Standar klasifikasi dan kualifikas i keahlian kerja adalah pengakuan tingkat\nkeahlian kerja setiap badan usaha baik  nasional maupun asi ng yang bekerja di\nbidang usaha jasa konstruksi.  Pengakuan tersebut dipe roleh melalui ujian yang\ndilakukan oleh badan/lembaga yang dit ugasi untuk melaksanakan tugas-tugas\ntersebut. Proses untuk me ndapatkan pengakuan ters ebut dilakukan melalui\nkegiatan registrasi, yang meliputi : klasifik asi, kualifikasi, dan sertifikasi. Dengan\ndemikian hanya badan usaha yang memilik i sertifikasi tersebut yang diizinkan\nuntuk bekerja di bidang usaha jasa konstruksi.\n  Penyelenggaraan jasa kons truksi berskala kecil pa da dasarnya melibatkan\npengguna jasa dan penyedia jasa orang perseorangan atau usaha kecil.\n  Untuk tertib penyelenggaraan ja sa konstruksi ketent uan yang menyangkut\nketeknikan misalnya sertifikasi tenaga ah li harus tetap dipenuhi secara bertahap\ntergantung kondisi setempat.\n  Namun penerapan ketent uan perikatan dapat disederhanakan dan pemilihan\npenyedia jasa dapat dilakukan dengan cara pemilihan langs ung atau penunjukkan\nlangsung sesuai ketentuan Pasal 17 ayat (3).\n\n Pasal 9\n  (ayat 1, ayat 2, ayat 3 dan ayat 4)\n  a. Standar klasifikasi dan kualifikasi ke terampilan kerja dan keahlian kerja adalah\npengakuan tingkat keterampilan kerja da n keahlian kerja setiap orang yang\nbekerja di bidang us aha jasa konstruksi  ataupun yang bekerja orang\nperseorangan.\n   Pengakuan tersebut diperoleh melalui ujian yang dilakukan oleh\nbadan/lembaga yang ditugasi untuk melaks anakan tugas-tugas tersebut. Proses\nuntuk mendapatkan pengakuan tersebut dilakukan melalui kegiatan registrasi\nyang meliputi : klasifikasi, kualifikasi da n sertifikasi. Dengan demikian hanya\norang perseorangan yang memiliki sertifikat tersebut ya ng diizinkan untuk\nbekerja di bidang usaha jasa konstruksi.\n  b. Standardisasi klasifikasi dan kua lifikasi keterampilan dan keahlian kerja\nbertujuan untuk terwujudnya standar produktivitas kerja dan mutu hasil kerja\ndengan memperhatikan standard imbal jasa, serta kode etik profesi untuk\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nmendorong tumbuh dan berkembangnya tanggung jawab profesional.\n  c. Pelaksanaan ketentuan sertifikasi khususnya ayat (4) dilaksanakan secara\nbertahap sesuai dengan kondisi tenaga kerja konstr uksi nasional dan tingkat\nkemampuan upaya pemberdayaannya.\n\n Pasal 10\n  Cukup jelas\n\n Pasal 11\n  Ayat (1)\n   Cukup jelas\n Pasal 10\n  Cukup jelas\n\n Pasal 11\n  Ayat (1)\n   Cukup jelas\n  Ayat (2)\n   Cukup jelas\n  Ayat (3)\n   Mekanisme pertanggungan dimaksud da pat dilakukan melalui antara lain\nsistem asuransi. Di samping itu unt uk memenuhi pertanggungj awaban kepada\npengguna jasa, dikenakan sanksi administratif yang menyangkut profesi.\n\n Pasal 12\n  Ayat (1)\n   Dengan pendekatan ini diharapkan terwujud restrukt urisasi bidang usaha jasa\nkonstruksi yang menunjang efis iensi usaha, karena ke mampuan penyedia jasa\nbaik dalam skala usaha maupun kualifikas i usaha akan saling mengisi dalam\nkemitraan yang sinergis dan komplemen ter, karena saling memerlukan, yang\ndalam hubungan transaksional nya dilandasi oleh kesetaraan dalam hak dan\nkewajiban.\n  Ayat (2)\n   Dalam pengembangan usaha terse but, dimungkinkan tumbuhnya jasa antara\nlain dalam bentuk manajemen proyek, manajemen konstruksi, serta bentuk jasa\nlain sesuai dengan tuntutan dan pertumbuhan dunia jasa konstruksi.\n  Ayat (3)\n   Sama dengan penjelasan ayat (2).\n\n Pasal 13\n  Pendanaan berupa modal untuk investasi dan modal kerja dapat diperoleh melalui\nlembaga keuangan yang terdiri dari bank atau bukan bank sebagai mitra usaha.\n  Untuk mengatasi risiko yang timbul da n tanggung jawab hukum kepada pihak lain\ndapat ditempuh melalui pert anggungan dengan mitra usaha antara lain : Jaminan\npenawaran, jaminan pelaksanaan, jaminan uang muka, jami nan sosial tenaga kerja,\nConstruction All Risk Insurance, Profe ssional Liability Insurance, Professional\nIndemnity Insurance.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n  Di samping itu jasa konstruksi j uga memerlukan dukungan sumber informasi\nmengenai ketersediaan peralatan, bahan dan komponen bangunan.\n\n Pasal 14\n  Cukup jelas\n\n Pasal 15\n  Ayat (1)\n   Yang dimaksud dengan \"wakil\" adalah  orang perseoranga n atau badan yang\ndiberi kuasa secara hukum unt uk bertindak mewakili kepen tingan pengguna jasa secara\npenuh atau terbatas dalam hubungannya dengan penyedia jasa.\n   Penunjukan wakil tersebut tidak melepaskan tanggungjawab pengguna jasa\natas semua kewajiban dalam pekerjaan kons truksi yang harus dipe nuhi kepada penyedia\njasa.\n  Ayat (2)\n   Cukup jelas\n  Ayat (3)\n   Yang dimaksud dengan \"bukti kema mpuan membayar dalam bentuk lain\"\nantara lain jaminan dalam bentuk barang bergerak dan/atau tidak bergerak.\n  Ayat (4)\n   Cukup jelas\n  Ayat (5)\n   Yang dimaksud dengan \"k elengkapan yang dipersyara tkan\" adalah berbagai\nsurat keterangan dan izin yang harus dim iliki oleh pengguna jasa  yang diperlukan untuk\nmelaksanakan pekerjaan konstruksi.\n\n Pasal 16\n  Ayat (1)\n   Cukup jelas\n  Ayat (2)\n   Cukup jelas\n  Ayat (3)\n   Penggabungan ketiga fungsi tersebut dikenal antara lain dalam model\npenggabungan perencanaan, pengadaan, dan pe nggabungan (engineering,  procurement,\nand constuction) serta m odel penggabungan perencanaan da n pembangunan (design and\nbuild) dengan tetap menjamin terwujudnya efisiensi.\n   Pekerjaan konstruksi yang dilaksanak an pada umumnya bersifat kompleks,\nmemerlukan teknologi canggih serta berisiko besar seperti : pembangunan kilang minyak,\npembangkit tenaga listrik, dan reaktor nuklir.\n   Dalam pemilihan penyedia jasa unt uk pekerjaan tersebut  di atas, tetap\ndiwajibkan mengikuti ketentuan pengikatan sebagaimana diatur dalam Pasal 17.\n\n Pasal 17\n  Ayat (1)\n   Pengikatan merupakan suatu proses  yang ditempuh oleh pengguna jasa dan\npenyedia jasa pada kedudukan yang sejajar dalam mencapai  suatu kesepakatan untuk\nmelaksanakan pekerjaan konstruksi. Dalam setiap tahapan proses  ditetapkan hak dan\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nkewajiban masing-masing pihak yang adil dan serasi yang disertai dengan sanksi.\n   Prinsip persaingan yang sehat mengandung pengertian, antara lain:\n  a. diakuinya kedudukan yang sejajar an tara pengguna jada dan penyedia jasa;\n  b. terpenuhinya ketent uan asas keterbukaan dala m proses pemilihan dan\npenetapan;\n  c. adanya peluang keikutsertaan dala m setiap tahapan persaingan yang sehat bagi\npenyedia jasa sesuai dengan kemampuan dan ketentuan yang dipersyaratkan;\n  d. keseluruhan pengertia n tentang prinsip persaingan yang sehat tersebut dalam\nhuruf a, b, dan c dituangka n dalam dokumen yang jelas, le ngkap, dan dike tahui dengan\nbaik oleh semua pihak serta bersifat mengikat.\n   Dengan pemilihan atas dasar prin sip persaingan yang se hat, pengguna jasa\nmendapatkan penyedia jasa yang andal dan mempunyai kemampuan untuk menghasilkan\nrencana konstruksi ataupun ba ngunan yang berkualitas sesuai  dengan jangka waktu dan\nbiaya yang ditetapkan. Di sisi lain merupakan upaya untuk menciptakan iklim usaha yang\nmendukung tumbuh dan berkembangnya penyedia jasa yang  semakin berkualitas dan\nmampu bersaing.\n   Pemilihan yang didasarkan atas pe rsaingan yang sehat dilakukan secara umum,\nterbatas, ataupun langsung. Dalam pelela ngan umum setiap pe nyedia jasa yang\nmemenuhi kualifikasi yang diminta dapat mengikutinya.\n  Ayat (2)\n   Cukup jelas\n  Ayat (3)\n   Keadaan tertentu antara lain meliputi :\n   1. penanganan darurat untuk keam anan dan keselamatan masyarakat;\n   2. pekerjaan yang kompleks yang ha nya dapat dilaksanakan oleh penyedia\njasa yang sangat terbatas atau hanya dapat dilakukan oleh pemegang hak;\n   3. pekerjaan yang perlu diraha siakan, yang menyangkut keamanan dan\nkeselamatan negara;\n   4. pekerjaan yang berskala kecil.\n  Ayat (4)\n   Pertimbangan antar kesesuaian bida ng serta keseimbangan antara kemampuan\ndan beban kerja serta kinerja jasa dima ksudkan agar penyedia jasa yang terpilih\nbetul-betul memiliki kualifikasi dan klasifikasi sebagaimana yang diminta serta memiliki\nkemampuan nyata untuk melaksanakan pekerjaan.\n  Ayat (5)\n   Cukup jelas\n  Ayat (6)\n   Cukup jelas\n\n Pasal 18\n  Ayat (1)\n   Huruf a\n    Cukup jelas\n   Huruf b\n    Cukup jelas\n  Ayat (2)\n   Yang dimaksud dengan \"prins ip keahlian dalam menyusun dokumen\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\npenawaran\" adalah dengan mengindahkan prinsip profesi onalisme, kesesuaian, dan\npemenuhan ketentuan sebagaimana terse but dalam dokumen pe milihan dan dokumen\ntersebut dapat dipertanggung jawabkan.\n  Ayat (3)\n   Yang dimaksud dengan \"mengikat\", adalah bahwa materi yang tercantum\ndalam dokumen penawaran yang disampaikan penyedia jasa , atau dokumen pemilihan\nyang diterbitkan oleh pengguna jasa tidak di perkenankan diubah s ecara sepihak sejak\npenyampaian dokumen penawaran sampai dengan penetapan secara tertulis.\n  Ayat (4)\n   Cukup jelas\n\n Pasal 19\n  Cukup jelas\n\n Pasal 20\n  Yang dimaksud dengan \"per usahaan terafiliasi\" adalah perusahaan yang saham\nmayoritasnya dimiliki oleh satu perusahaan induk. Pemberian pekerjaan kepada penyedia\njasa yang terafiliasi denga n pengguna jasa tersebut da pat dibenarkan apabila\npemilihannya didasarkan pada proses pelelangan sebagaimana dimaksud Pasal 17.\n\n Pasal 21\n  Ayat (1)\n   Pada dasarnya subpenyedia jasa ad alah penyedia jasa. Oleh karena itu\nsebagaimana perlakuan terhadap penyedia yang berfungsi sebagai penyedia jasa umum,\nsubpenyedia jasa mempunyai kewajiban yang sama dalam ke ikutsertaan untuk\nmelaksanakan pekerjaan konstruksi melalui persaingan yang sehat sesuai kemampuan\ndan ketentuan yang dipersyaratkan.\n  Ayar (2)\n   Cukup jelas\n\n Pasal 22\n  Ayat (1)\n   Cukup jelas\n  Ayat (2)\n   Huruf a\n    Yang dimaksud dengan \"identitas para pihak\" adalah nama, alamat,\nkewarganegaraan, wewenang penandatanganan, dan domisili.\n   Huruf b\n    Lingkup kerja meliputi hal-hal berikut :\n    1) Volume pekerjaan, yakni besaran pekerjaan yang harus dilaksanakan\ntermasuk volume pekerjaan tambah atau kur ang. Dalam mengadaka n perubahan volume\npekerjaan, perlu ditetapka n besaran peruba han volume yang tidak memerlukan\npersetujuan para pihak terlebih dahulu.\n     Bagi pekerjaan perencanaan dan pengawasan, li ngkup pekerjaan dapat\nberupa laporan hasil pe kerjaan konstruksi yang wajib  dipertanggungjawabkan yang\nmerupakan hasil kemajuan pekerjaan yang dituangkan dalam bentuk dokumen tertulis.\n    2) Persyaratan administrasi, yakni  prosedur yang harus dipenuhi oleh para\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\npihak dalam mengadakan interaksi.\n    3) Persyaratan teknik, yakni ketentuan keteknikan yang wajib dipenuhi\noleh penyedia jasa.\n    4) Pertanggungan atau jamina n yang merupakan bentuk perlindungan\nantara lain untuk pelaksanaan pekerjaan, penerimaan uang m uka, kecelakaan bagi tenaga\nkerja dan masyarakat. Perlindunga n tersebut dapat berupa an tara lain asuransi atau\njaminan yang diterbitkan oleh bank atau lembaga bukan bank.\n    5) Laporan hasil pekerjaan konstr uksi, yakni hasil kemajuan pekerjaan\nyang dituangkan dalam bentuk dokumen tertulis.\n     Nilai pekerjaan, yakni jumlah besaran biaya yang akan diterima oleh\npenyedia jasa untuk pelaksanaan keseluruhan lingkup pekerjaan.\n     Batasan waktu pelaksanaan ad alah jangka waktu untuk menyelesaikan\nkeseluruhan lingkup pekerjaan termasuk masa pemeliharaan.\n   Huruf c dan d\n    Cukup jelas\n   Huruf e\n    Yang dimaksud dengan \"informa si\" adalah dokumen yang lengkap dan\nbenar yang harus disediakan pengguna jasa bagi penyedia jasa agar dapat melakukan\npekerjaan sesuai dengan tugas dan kewajibannya.\n    Dokumen tersebut, antara lain, meliputi izin mendirikan bangunan dan\ndokumen penyerahan penggunaan lapangan untuk bangunan beserta fasilitasnya.\n   Huruf f\n    Pembayaran dapat dilaksanakan secara berkala, atau atas dasar persentase\ntingkat kemajuan pelaksanaan pekerjaan, atau cara pembayaran ya ng dilakukan sekaligus\nsetelah proyek selesai.\n   Huruf g\n    Cidera janji adalah suatu keadaa n apabila salah satu  pihak dalam kontrak\nkerja konstruksi :\n    1) tidak melakukan apa yang diperjanjikan; dan/atau\n    2) melaksanakan apa yang diperj anjikan, tetapi tidak sesuai dengan yang\ndiperjanjikan; dan/atau\n    3) melakukan apa yang diperjanjikan, tetapi terlambat; dan/atau\n    4) melakukan sesuatu yang menurut  perjanjian tidak boleh\ndilakukannya.\n     Yang dimaksud dengan tanggung jawa b, antara lain, berupa pemberian\nkompensasi, penggantian biaya dan atau perpanjangan waktu,  perbaikan atau\npelaksanaan ulang hasil pekerj aan yang tidak sesuai dengan apa yang diperjanjikan, atau\npemberian ganti rugi.\n   Huruf h\n    Penyelesaian perselisihan memuat  ketentuan tentang tatacara penyelesaian\nperselisihan yang diakibatkan antara lain oleh ketidaksepakatan dalam hal pengertian,\npenafsiran, atau pelaksanaan berbagai ke tentuan dalam kontrak kerja konstruksi serta\nketentuan tentang tempat dan cara penyelesaian.\n    Penyelesaian perselisihan dite mpuh melalui antara lain musyawarah,\nmediasi, arbitrase, ataupun pengadilan.\n   Huruf i\n    Cukup jelas\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n   Huruf j\n    Keadaan memaksa mencakup :\n    1) keadaan memaksa yang bersif at mutlak (absolut) yakni bahwa para\npihak tidak, mungkin melaksanakan hak dan kewajibannya;\n    2) keadaan memaksa yang bersifat tidak mutlak (relatif), yakni bahwa para\npihak masih dimungkinkan untuk melaksanakan hak dan kewajibannya;\n     Risiko yang diakibatkan oleh keadaan memaksa dapat diperjanjikan\noleh para pihak, antara lain, melalui lembaga pertanggungan (asuransi).\n   Huruf l\n    Perlindungan pekerja disesu aikan dengan kete ntuan undang-undang\nmengenai keselamatan dan kesehatan ke rja, serta undang-undang mengenai jaminan\nsosial tenaga kerja.\n   Huruf m\n    Aspek lingkungan meliputi ketentuan undang-undang mengenai\npengelolaan lingkungan hidup.\n  Ayat (3)\n   Kekayaan intelektual adalah has il inovasi perencana konstruksi dalam suatu\npelaksanaan kontrak kerja konstruksi baik be ntuk hasil akhir perencanaan dan/atau\nbagian-bagiannya yang kepemilikannya dapat diperjanjikan.\n   Penggunaan hak atas kekayaan intelektual yang suda h dipatenkan harus\ndilindungi sesuai dengan peraturan perundang-undangan yang berlaku.\n  Ayat (4)\n   Yang dimaksud dengan \"insentif\" adal ah penghargaan yang diberikan kepada\npenyedia jasa atas prestasinya, antara lain , kemampuan menyelesaik an pekerjaan lebih\nawal daripada yang diperjanjikan dengan tetap menjaga mutu sesuai dengan yang\ndipersyaratkan.\n   Insentif dapat berupa  uang ataupun bentuk lainnya.\n  Ayat (5)\n   Cukup jelas\n  Ayat (6)\n   Cukup jelas\n  Ayat (7)\n   Cukup jelas\n  Ayat (8)\n   Cukup jelas\n\n Pasal 23\n  Ayat (1)\n   Tahapan dalam penyelenggaraan pe kerjaan konstruksi adalah perencanaan\nyang meliputi : prastudi kekayaan, studi kelayakan, perencanaan umum, dan perencanaan\nteknik; serta pelaksanaan beserta pengawa sannya yang meliputi : pelaksanaan fisik,\npengawasan, uji coba, dan penyerahan bangunan.\n   Kegiatan dalam setiap tahap penye lenggaraan pekerjaan konstruksi meliputi :\n   a. penyiapan, yaitu kegiatan aw al penyelenggaraan pekerjaan konstruksi\nuntuk memenuhi berbagai pe rsyaratan yang diperlukan dalam memulai pekerjaan\nperencanaan atau pelaksanaan fisik dan pengawasan;\n   b. pengerjaan, yaitu :\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n    1) dalam tahap perencanaan,  merupakan serangka ian kegiatan yang\nmenghasilkan berbagai laporan tentang ti ngkat kelayakan, renc ana umum/induk, dan\nrencana teknis;\n    2) dalam tahap pelaksanaan, me rupakan serangkaian kegiatan pelaksanaan\nfisik beserta pengawasannya yang menghasilkan bangunan;\n   c. pengakhiran, yaitu kegiatan  untuk menyelesaikan penyelenggaraan\npekerjaan konstruksi.\n    1) dalam tahap perencanaan, de ngan disetujuinya laporan akhir dan\ndilaksanakannya pembayaran akhir;\n    2) dalam tahap pelaksanaa n dan pengawasan, dengan dilakukannya\npenyerahan akhir bangunan dan dilaksanakannya pembayaran akhir.\n  Ayat (2)\n   Ketentuan tentang ke teknikan meliputi : standar konstruksi bangunan, standar\nmutu hasil pekerjaan, standar mutu baha n dan atau komponen ba ngunan, dan standar\nmutu peralatan.\n   Ketentuan tentang kete nagakerjaan meliputi : persyaratan standar keahlian dan\nketerampilan yang meliputi bidang dan tingkat keahlian serta keterampilan yang\ndiperlukan dalam pelaksanaan pekerjaan konstruksi.\n  Ayat (3)\n   Kewajiban para pihak dalam penyelenggaraan pekerjaan konstruksi :\n   a. Dalam kegiatan penyiapan :\n    1. pengguna jasa, antara lain :\n     a) menyerahkan dokumen lapa ngan untuk pelaksanaan  konstruksi, dan\nfasilitas sebagaimana ditentukan dalam kontrak kerja konstruksi;\n     b) membayar uang muka atas  penyerahan jamina n uang muka dari\npenyedia jasa apabila diperjanjikan.\n    2. penyedia jasa, antara lain :\n     a) menyampaikan usul ren cana kerja dan pena nggung jawab pekerjaan\nuntuk mendapatkan persetujuan pengguna jasa;\n     b) memberikan jaminan ua ng muka kepada pengguna jasa apabila\ndiperjanjikan;\n     c) mengusulkan calon s ubpenyedia jasa dan pemasok untuk\nmendapatkan persetujuan pengguna jasa apabila diperjanjikan.\n   b. Dalam kegiatan pengerjaan :\n    1. pengguna jasa, antara lain :\n     memenuhi tanggung jawabnya sesuai dengan kontrak kerja dan\nmenanggung semua risiko atas ketidakbe naran permintaan, ketetapan yang\ndimintanya/ditetapkannya yang tertuang dalam kontrak kerja;\n    2. penyedia jasa, antara lain :\n     mempelajari, meneliti kontrak kerja, dan melaksanakan sepenuhnya\nsemua materi kontrak kerja ba ik teknik dan administrasi , dan menanggung segala risiko\nakibat/kelalaiannya.\n   c. Dalam kegiatan pengakhiran :\n    1. pengguna jasa, antara lain :\n     memenuhi tanggung jawabnya sesu ai kontrak kerja kepada penyedia\njasa yang telah berhasil mengakhiri dan mela ksanakan serah terima akhir secara teknis\ndan administratif kepada pengguna jasa sesuai kontrak kerja.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n    2. penyedia jasa, antara lain :\n     meneliti secara seksama keselu ruhan pekerjaan ya ng dilaksanakannya\nserta menyelesaikannya dengan baik sebelu m mengajukan serah te rima akhir kepada\npengguna jasa.\n  Ayat (4)\n   Cukup jelas\n\n Pasal 24\n  Ayat (1)\n   Pengikutsertaan subpenyedia jasa dibatasi oleh adanya tunt utan pekerjaan yang\nmemerlukan keahlian khusus dan ditempuh melalui mekanisme subkontrak, dengan tidak\nmengurangi tanggung jawab penyedia jasa terhadap seluruh hasil pekerjaannya.\n   Bagian pekerjaan yang akan dilaks anakan subpenyedia jasa harus mendapat\npersetujuan pengguna jasa.\n   Pengikutsertaan subpenyedia jasa bertujuan memberikan peluang bagi\nsubpenyedia jasa yang mempunyai keahlian sp esifik melalui mekanisme keterkaitan\ndengan penyedia jasa.\n  Ayat (2)\n   Cukup jelas\n  Ayat (3)\n   hak-hak subpenyedia jasa, antara lain  adalah hak untuk menerima pembayaran\nsecara tepat waktu dan tepat jumlah yang harus dijamin oleh penyedia jasa. dalam hal ini\npengguna jasa mempunyai kewajiban untuk memantau pelaksanaan pemenuhan hak\nsubpenyedia jasa oleh penyedia jasa.\n  Ayat (4)\n   Cukup jelas\n\n Pasal 25\n  Ayat (1)\n   Cukup jelas\n  Ayat (2)\n   Cukup jelas\n  Ayat (3)\n   Penetapan kegagalan hasil pekerj aan konstruksi oleh pihak ketiga selaku\npenilai ahli dimaksudkan untuk menjaga objek tivitas dalam penilaian dan penetapan\nsuatu kegagalan hasil pekerjaan konstruksi.\n   Penilai ahli terdiri dari orang perseo rangan, atau kelompok orang atau lembaga\nyang disepakati para pihak, yang bersifat independen dan mampu memberikan penilaian\nsecara obyektif dan profesional.\n\n Pasal 26\n  Ayat (1)\n   Pelaksanaan ganti rugi dapat dilakukan melalui mekanisme pertanggungan\nyang pemberlakuannya disesuaikan dengan tingkat pengembangan sistem pertanggungan\nbagi perencana dan pengawas konstruksi.\n  Ayat (2)\n   Pertanggungjawaban pelaksana konstruks i di bidang usaha dikenakan kepada\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\npelaksana konstruksi maupun sub pelaksana konstruksi dalam bentuk sanksi administrasi\nsesuai tingkat kesalahan.\n   Besaran ganti rugi yang menjad i tanggung jawab pelaks ana konstruksi dalam\nhal terjadi kegagalan hasil peke rjaan konstruksi di perhitungkan dengan\nmempertimbangkan antara lain tingkat kegagalannya.\n   Pelaksanaan ganti rugi dapat dilakukan melalui mekanisme pertanggungan\nyang pemberlakuannya disesuaikan dengan tingkat pengembangan sistem pertanggungan\nbagi pelaksana konstruksi.\n\n Pasal 27\n  Lihat penjelasan Pasal 25 ayat (3).\n\n Pasal 28\n  Cukup jelas\n\n Pasal 29\n  Hak masyarakat dalam melakukan pengawa san, baik dalam tahap perencanaan,\npelaksanaan dan pengawasan pekerjaan, maupun pemanfaatan hasil-hasilnya.\n  Penggantian yang layak diberikan kepada  yang dirugikan sepanjang dapat\nmembuktikan bahwa secara langsung dirugikan sebagai akibat perencanaan, pelaksanaan,\ndan pengawasan kegiatan peke rjaan konstruksi didasarkan atas ketentuan peraturan\nperundang-undangan yang berlaku.\n\n Pasal 30\n  Kewajiban dimaksud mengandung makna bahw a setiap orang turut berperan serta\ndalam menjaga ketertiban dan memenuhi ketentuan yang berla ku di bidang jasa\nkonstruksi.\n\n Pasal 31\n  Cukup jelas\n\n Pasal 32\n  Ayat (1)\n   Asosiasi perusahaan jasa konstruks i, merupakan satu atau lebih wadah\norganisasi dan atau himpuna n para pengusaha yang bergerak di bidang jasa konstruksi\nuntuk memperjuangkan kepentingan dan aspirasi para anggotanya.\n   Asosiasi profesi jasa konstruksi, merupakan satu atau lebih wadah organisasi\natau himpunan perorangan, atas dasar kesamaan disiplin keilmuan  di bidang\nkonstruksi atau kesamaan profesi di bidang jasa konstruksi, dalam usaha\nmengembangkan keahlian dan memperjuangkan aspirasi anggota.\n   Asosiasi bersifat independen, ma ndiri dan memiliki serta menjunjung tinggi\nkode etik profesi.\n   Mitra usaha asosiasi perusahaan ba rang dan jasa adalah  orang perseorangan\natau badan usaha yang kegiatan usahanya di bidang penyedi aan barang atau jasa baik\nlangsung maupun tidak langsung mendukung usaha jasa konstruksi.\n   Wakil-wakil instansi Pemerint ah yang duduk dalam fo rum jasa konstruksi\nadalah pejabat yang ditunjuk oleh instansi  Pemerintah yang mempunyai tugas dan fungsi\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\npembinaan dalam bentuk pemberdayaan dan pengawasan di bidang jasa konstruksi.\n   Peran Pemerintah dalam pembinaa n jasa konstruksi masih dominan, dengan\nUndang-Undang ini, pengembangan usaha jasa konstruksi diserahkan sepenuhnya kepada\nmasyarakat jasa konstruksi.\n   Dalam tahap awal pelaksanaan U ndang-Undang ini peran Pemerintah masih\ndiperlukan untuk :\n   a. mengambil inisiatif/prakarsa dalam mewujudkan peran ferum;\n   b. memberikan dukungan fasilitas termasuk pendanaan untuk memungkinkan\nterwujud dan berfungsi nya peran masyarakat jasa konstruksi (wadah organisasi\npengembangan jasa konstruksi) berikut lembaga-lembaga pelaksanaannya.\n  Ayat (2)\n   Cukup jelas\n\n Pasal 33\n  Ayat (1)\n   Wakil instansi Pemerintah yang duduk dalam lembaga adalah yang ditunjuk\noleh instansi yang mempunyai tugas dan fungsi pembinaan di bidang jasa konstruksi.\n   Dalam mewujudkan peran lembaga, pada tahap awal Pemerintah dapat\nmengambil inisiatif dalam menetapkan pemb entukan lembaga, serta memberikan\ndukungan fasilitas termasuk pendanaan operasionalnya.\n  Ayat (2)\n   Huruf a\n    Pengembangan jasa konstruksi ya ng dilakukan oleh lembaga dimaksudkan,\nantara lain :\n    1) agar penyedia jasa mam pu memenuhi standar-standar nasional,\nregional, dan internasional;\n    2) mendorong penyedia jasa unt uk mampu bersaing di pasar nasional\nmaupun internasional;\n    3) mengembangkan sistem informasi jasa konstruksi.\n   Huruf b\n    Cukup jelas\n   Huruf c\n    Cukup jelas\n   Huruf d\n    Cukup jelas\n   Huruf e\n    Cukup jelas\n  Ayat (3)\n   Cukup jelas\n\n Pasal 34\n  Cukup jelas\n\n Pasal 35\n  (ayat 1, ayat 2, ayat 3, ayat 4, ayat 5, dan ayat 6)\n  a. Mengingat peran jasa konstruksi dalam pembangunan nasional, maupun dalam\nmendukung perluasan kesempatan usaha dan lapangan kerja, serta mengingat kewajiban\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nPemerintah untuk melindungi ke pentingan masyarakat dan kepentingan nasional pada\numumnya, maka Pemerintah berkewajiban untuk melakukan pembinaan terhadap jasa\nkonstruksi.\n  b. Pembinaan yang meliputi pengatu ran, pemberdayaan, dan pengawasan,\ndilakukan oleh Pemerintah terhadap :\n   1 jasa konstruksi, dengan tujuan :\n    a) menumbuhkan pemahaman dan ke sadaran akan peran strategisnya\ndalam pelaksanaan pembangunan nasional yang membawa konsekuensi timbulnya hak\ndan kewajiban yang harus dipenuhinya;\n    b) mendorong terwujudnya pe nyedia jasa untuk meningkatkan\nkemampuannya, baik secara langsung maupun melalui asosiasi, agar mampu memenuhi\nhak dan kewajibannya;\n    c) menjamin terpenuhinya kewajib an berdasarkan kete ntuan yang berlaku\nsehingga mendorong terwujudnya tertib usaha jasa konstruksi maupun tertib\npenyelenggaraan pekerjaan konstruksi.\n    2) pengguna jasa, dengan tujuan :\n     a. menumbuhkan pemahaman dan kesadaran akan tugas dan fungsinya\nserta hak dan kewajibannya dalam pengikatan dan penyelenggaraan pekerjaan\nkonstruksi;\n     b. menjamin terpenuhinya ha k dan kewajiban berd asarkan ketentuan\nyang berlaku sehingga mendor ong terwujudnya tertib pe nyelenggaraan pekerjaan\nkonstruksi.\n    3) masyarakat, dengan tujuan :\n     a. menumbuhkan pemahaman ak an peran strategis jasa konstruksi\ndalam pelaksanaan pembangunan nasional;\n     b. menumbuhkan kesadaran akan hak dan kewajibannya dalam\nmewujudkan tertib usaha jasa konstruksi, te rtib penyelenggaraan pekerjaan konstruksi,\ndan dalam memanfaatkan hasil pekerjaan konstruksi;\n     c. dalam pelaksanaannya, pemb inaan dapat dilakukan oleh Pemerintah\nmelalui suatu kegiatan dalam bentuk forum dan lembaga.\n  Forum merupakan fasilitas dan/at au sarana untuk mendorong terciptanya\npemanfaatan dan pengawasan secara optimal  terhadap penyelenggaraan jasa konstruksi\nnasional bagi masyarakat pada umumnya da n atau masyarakat jasa konstruksi pada\nkhususnya.\n  Lembaga merupakan wadah pembin aan pelaksanaan pengembangan jasa\nkonstruksi.\n  Sebagian pembinaan yang dilakukan oleh  Pemerintah dapat dilimpahkan kepada\nPemerintah Daerah.\n\n Pasal 36\n  Ayat (1)\n   Ketentuan pada ayat ini dimaks udkan untuk melindungi hak keperdataan para\npihak yang bersengketa.\n  Ayat (2)\n   Cukup jelas\n  Ayat (3)\n   Ketentuan pada ayat ini dimaksudka n untuk mencegah terjadinya putusan yang\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nberbeda mengenai suatu sengketa jasa konstruksi untuk menjamin kepastian hukum.\n\n Pasal 37\n  Ayat (1)\n   Ketentuan pada ayat ini untuk me mpertegas bahwa sengketa jasa konstruksi\ndapat terjadi pada kegiatan para pihak dalam penyelenggaraan pekerjaan konstruksi.\n  Ayat (2)\n   Sejalan dengan ketent uan tentang kontrak kerja kons truksi para pihak telah\nmenyetujui bahwa sengketa diantara mereka dapat diselesaik an dengan menggunakan\njasa pihak ketiga sesuai denga n ketentuan yang berl aku tentang arbitrase dan alternatif\npilihan penyelesaian sengketa.\n   Penunjukan pihak ketiga tersebut da pat dilakukan sebelum sesuatu sengketa\nterjadi, yaitu dengan menye pakatinya dan mencantumk annya dalam kontrak kerja\nkonstruksi.\n   dalam hal penunjukan pihak ketiga d ilakukan setelah sengketa terjadi, maka\nhal itu harus disepakati dalam suatu akta tert ulis yang ditandatangani  para pihak sesuai\nketentuan peraturan perundang-undangan yang berlaku.\n   Jasa pihak ketiga yang dimaksud di atas  antara lain : arbitrase baik berupa\nlembaga atau ad-hoc yang bersifat nasiona l maupun internasional, mediasi, konsiliasi\natau penilai ahli.\n  Ayat (3)\n   Cukup jelas\n\n Pasal 38\n  Ayat (1)\n   Yang dimaksud dengan \"hak mengajuka n gugatan perwakilan\" pada ayat ini\nadalah hak kelompok kecil masyarakat unt uk bertindak mewakili masyarakat dalam\njumlah besar yang dirugikan atas dasar kesamaan permasalahan, faktor hukum dan\nketentuan yang ditimbulkan kare na kerugian atau gangguan sebagai akibat kegiatan\npenyelenggaraan pekerjaan konstruksi.\n  Ayat (2)\n   Cukup jelas\n\n Pasal 39\n  Khusus gugatan perwakila n yang diajukan oleh masyar akat tidak dapat berupa\ntuntutan membayar ganti rugi, melainkan hanya terbatas gugatan lain, yaitu :\n  a. memohon kepada pengadilan agar salah satu pihak da lam penyelenggaraan\npekerjaan konstruksi untuk me lakukan tindakan hukum terten tu yang berkaitan dengan\nkewajibannya atau tujuan dari kontrak kerja konstruksi;\n  b. menyatakan seseorang (salah satu pihak) telah melakukan perbuatan melanggar\nhukum karena melanggar kesepakatan yang telah ditetapkan bersama dalam kontrak kerja\nkonstruksi;\n  c. memerintahkan seseorang (salah sa tu pihak) yang mela kukan usaha/kegiatan\njasa konstruksi untuk membuat atau memperba iki atau mengadakan penyelamatan bagi\npara pekerja jasa konstruksi.\n   Yang dimaksud dengan \"biaya atau pengeluaran riil\" adalah biaya yang\nnyata-nyata dapat dibuktikan sudah dikeluarkan oleh masy arakat dalam kaitan dengan\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nakibat kegiatan penyelenggaraan pekerjaan konstruksi.\n\n Pasal 40\n  Cukup jelas\n\n Pasal 41\n  Cukup jelas\n\n Pasal 42\n  Ayat (1)\n   Cukup jelas\n  Ayat (2)\n   Cukup jelas\n  Ayat (3)\n   Cukup jelas\n\n Pasal 43\n  Cukup jelas\n\n Pasal 44\n  Ayat (1)\n   Cukup jelas\n  Ayat (2)\n   Cukup jelas\n\n Pasal 45\n  Cukup jelas\n\n Pasal 46\n  Cukup jelas\n\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 3833"
+   }
+  }
+ ]
+}

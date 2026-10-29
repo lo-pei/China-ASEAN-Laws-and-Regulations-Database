@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13680",
+ "title": {
+  "zh": null,
+  "en": "An Act to Readjust the third, Fourth, and Fifth Election Districts of the Province of Iloilo",
+  "orig": "An Act to Readjust the third, Fourth, and Fifth Election Districts of the Province of Iloilo"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1922-03-09",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3036",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 823,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1922/act_3036_1922.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03036_1922_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03036_1922_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13680-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The twelfth paragraph of section one hundred and twenty-three of Act Numbered Twenty-seven\nhundred and eleven, known as the Administrative Code of nineteen hundred and seventeen, is hereby\namended to read as follows:\n\"Iloilo: First district.-Composed of the municipalities of Guimbal, Miagao, Oton, San Joaquin, and Tigbauan.\nSecond district.-Composed of the municipalities of Arevalo, Buenavista, Iloilo, and Jaro. Third\ndistrict.-Composed of the municipalities of Cabatuan, Leon, Maasin, San Miguel, Santa Barbara, and Janiuay.\nFourth district.- Composed of the municipalities of Barotac, Dingle, Dumangas, Lambunao, Pototan, and\nCalinog. Fifth district.- Composed of the municipalities of Ajuy, Balasan, Banate, Barotac Viejo, Dueñas,\nPassi, and Sara.\""
+   }
+  },
+  {
+   "id": "PH-H13680-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, March 9, 1922."
+   }
+  }
+ ]
+}

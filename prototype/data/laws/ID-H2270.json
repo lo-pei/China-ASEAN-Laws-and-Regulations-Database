@@ -1,0 +1,980 @@
+{
+ "id": "ID-H2270",
+ "title": {
+  "zh": "就业社会保障资产管理法",
+  "en": "Law on the Management of Employment Social Security Assets",
+  "id": "PENGELOLAAN ASET JAMINAN SOSIAL KETENAGAKERJAAN",
+  "orig": "PENGELOLAAN ASET JAMINAN SOSIAL KETENAGAKERJAAN",
+  "vi": "Luật về Quản lý Tài sản Bảo hiểm Xã hội Việc làm",
+  "th": "พระราชบัญญัติว่าด้วยการบริหารสินทรัพย์ประกันสังคมการจ้างงาน",
+  "ms": "Akta tentang Pengurusan Aset Jaminan Sosial Pekerjaan"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02c",
+ "language": "id",
+ "level": "law",
+ "category": "04_劳工与行政法",
+ "status": "active",
+ "promulgatedDate": "2013",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU99-2013",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 66,
+ "chars": 71123,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PP%20Nomor%2099%20Tahun%202013.pdf&fl=P17889"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\04_劳工与行政法\\印尼_文本_2013_PENGELOLAAN ASET JAMINAN SOSIAL KETENAGAKERJAAN.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 66 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H2270-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\n\nDalam Peraturan Pemerintah ini yang dimaksud dengan:\n1. Badan Penyelenggara Jamina n Sosial Ketenagakerjaan\nyang selanjutnya disingkat BPJS Ketenagakerjaan adalah\nbadan hukum yang dibentuk untuk menyelenggarakan\nprogram jaminan kecelakaan kerja, jaminan hari tua ,\njaminan pensiun, dan jaminan kematian.\n2. Dana Jaminan Sosial Ketenagakerjaan  adalah Dana\nJaminan Sosial Kecelakaan Kerja, Dana Jaminan Sosial\nKematian, Dana Jaminan Sosial Hari Tua , dan Dana\nJaminan Sosial Pensiun.\n3. Dana Jaminan Sosial Kecelakaan Kerja adalah dana\namanat milik peserta jaminan kecelakaan kerja yang\nmerupakan himpunan iuran jaminan kecelakaan kerja\nbeserta hasil pengembangannya yang dikelola oleh BPJS\nKetenagakerjaan untuk pembayaran manfaat kepada\npeserta dan pembiayaan operasional penyelenggaraan\nprogram jaminan kecelakaan kerja.\n4. Dana Jaminan Sosial Kematian adalah d ana amanat milik\npeserta jaminan kematian yang merupakan himpunan\njaminan kematian  beserta hasil pengembangannya yang\ndikelola oleh BPJS Ketenagakerjaan untuk pembayaran\nmanfaat kepada peserta dan pembiayaan operasional\npenyelenggaraan program jaminan kematian.\n5. Dana Jaminan Sosial Hari Tua adalah dana amanat milik\npeserta jaminan hari tua yang merupakan himpunan\niuran jaminan hari tua beserta hasil pengembangannya\nyang dikelola oleh BPJS Ketenagakerjaan untuk\npembayaran manfaat kepada peserta dan pembiaya an\noperasional penyelenggaraan program jaminan hari tua.\n6. Cadangan Teknis adalah cadangan teknis sesuai dengan\npraktik aktuaria yang lazim dan berlaku umum.\n\n\n                7. Dana . . .\n\n\n\n7. Dana Operasional  adalah bagian dari akumulasi iuran\njaminan kecelakaan kerja, jaminan hari tua , jaminan\npensiun, dan  jaminan kematian serta  hasil\npengembangannya yang dapat digunakan BPJS\nKetenagakerjaan untuk membiayai kegiatan operasional\npenyelenggaraan program jaminan kecelakaan kerja,\njaminan hari tua , jaminan pensiun , dan jaminan\nkematian.\n8. Iuran Jaminan Sosial yang selanjutnya disebut I uran\nadalah sejumlah uang yang dibayar secara teratur  oleh\npekerja, pemberi kerja, dan/atau Pemerintah dalam\nrangka program jaminan sosial.\n9. Liabilitas adalah kewajiban sebagaimana dimaksud dalam\nperaturan perundang-undangan di bidang sistem jaminan\nsosial nasional.\n10. Aset Bersih  adalah selisih total aset atas total Liabilitas\npada waktu tertentu yang dicatat sesuai dengan standar\nakuntansi keuangan yang berlaku di Indonesia.\n11. Investasi BPJS Ketenagakerjaan yang selanjutnya disebut\nInvestasi adalah investasi yang dilakukan oleh BPJS\nKetenagakerjaan terhadap aset BPJS Ketenagakerjaan dan\naset Dana Jaminan Sosial Ketenagakerjaan  dalam\ninstrumen investasi sesuai peraturan perundang -\nundangan.\n12. Dewan Pengawas BPJS Ketenagakerjaan yang selanjutnya\ndisebut Dewan Pengawas  adalah organ BPJS\nKetenagakerjaan yang bertugas melakukan pengawasan\natas pelaksanaan pengurusan BPJS Ketenagakerjaan oleh\ndireksi dan memberikan arahan dan/atau nasihat kepada\ndireksi dalam penyelenggaraan pro gram jaminan\nkecelakaan kerja, jaminan hari tua , jaminan pensiun, dan\njaminan kematian.\n13. Direksi BPJS Ketenagakerjaan yang selanjutnya disebut\nDireksi adalah organ BPJS Ketenagakerjaan yang\nberwenang dan bertanggung jawab penuh atas\npengurusan BPJS Ketenaga kerjaan untuk kepentingan\nBPJS Ketenagakerjaan, sesuai dengan asas, tujuan, dan\nprinsip BPJS Ketenagakerjaan, serta mewakili BPJS\nKetenagakerjaan, baik di dalam maupun di luar\npengadilan.\n\n              14. Bank . . .\n\n\n\n14. Bank Kustodian yang selanjutnya disebut Bank  adalah\nBank Badan Usaha Milik Negara yang telah mendapat iz in\ndari pihak yang berwenang untuk memberikan jasa\npenitipan efek dan harta lain yang berkaitan dengan efek\nserta jasa lain, termasu k menerima dividen, bunga, dan\nhak-hak lain, menyelesaikan transaksi e fek, dan mewakili\npemegang rekening yang menjadi nasabahnya.\n15. Bursa Efek  adalah Bursa Efek  sebagaimana dimaksud\ndalam Undang-undang tentang Pasar Modal.\n16. Menteri adalah m enteri yang meny elenggarakan urusan\npemerintahan di bidang keuangan."
+   }
+  },
+  {
+   "id": "ID-H2270-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\n\nPengelolaan aset Jaminan Sosial Keten agakerjaan dilakukan\nsecara optimal dengan mempertimbangkan aspek likuiditas,\nsolvabilitas, kehati -hatian, keamanan dana, dan hasil yang\nmemadai."
+   }
+  },
+  {
+   "id": "ID-H2270-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\n\n(1) BPJS Ketenagakerjaan mengelola aset Jaminan Sosial\nKetenagakerjaan yang terdiri atas:\na. aset BPJS Ketenagakerjaan; dan\nb. aset Dana Jaminan Sosial Ketenagakerjaan.\n(2) Aset Dana Jaminan Sosial Ketenagakerjaan  sebagaimana\ndimaksud ayat (1) huruf b terdiri atas aset dana:\na. jaminan kecelakaan kerja;\nb. jaminan kematian;\nc. jaminan hari tua; dan\nd. jaminan pensiun.\n(3) BPJS Ketenagakerjaan dalam melaksanakan pengelolaan\naset Dana Jaminan Sosial Ketenagakerjaan  sebagaimana\ndimaksud pada ayat (1) dilakukan melalui:\na. perencanaan;\nb. pelaksanaan; dan\nc. pengawasan dan evaluasi.\n                  BAB II . . .\n\n\n\nBAB II\nPERENCANAAN PENGELOLAAN\nASET JAMINAN SOSIAL KETENAGAKERJAAN\n\nBagian Kesatu\nUmum"
+   }
+  },
+  {
+   "id": "ID-H2270-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\n\nPerencanaan pengelolaan aset Jaminan Sosial\nKetenagakerjaan sebagaimana dimaksud dalam Pasal 3 ayat\n(3) huruf a disusun sesuai dengan tahapan yang ditetapkan\ndalam standar perencanaan yang berlaku secara nasional\nyang mencakup:\na. inventarisasi data dan informasi aset Jaminan Sosial\nKetenagakerjaan; dan\nb. penyusunan dan penetapan rencana pengelolaan aset\nJaminan Sosial Ketenagakerjaan.\n\n\nBagian Kedua\nInventarisasi Data dan Informasi\nAset Jaminan Sosial Ketenagakerjaan"
+   }
+  },
+  {
+   "id": "ID-H2270-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\n\n(1) Inventarisasi aset Jaminan Sosial Ketenagakerjaan\nsebagaimana dimaksud dalam Pasal 4  huruf a ditujukan\nuntuk mengumpulkan data dan informasi aset termas uk\nLiabilitas Jaminan Sosial Ketenagakerjaan.\n(2) Pengumpulan data dan informasi sebagaimana dimaksud\npada ayat (1) meliputi:\na. sumber aset;\nb. Liabilitas;\nc. penggunaan; dan\nd. pengembangan.\n\n\n\n\n\n\n                  Bagian . . .\n\n\n\nBagian Ketiga\nPenyusunan dan Penetapan Rencana Pengelolaan\nAset Jaminan Sosial Ketenagakerjaan\n\nParagraf 1\nUmum"
+   }
+  },
+  {
+   "id": "ID-H2270-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\n\nRancangan rencana pengelolaan aset Jaminan Sosial\nKetenagakerjaan sebagaimana dimaksud dalam Pasal 4 huruf\nb memuat rencana pengelolaan:\na. aset dan Liabilitas BPJS Ketenagakerjaan.\nb. aset dan Liabilitas Dana Jaminan Sosial Ketenagakerjaan."
+   }
+  },
+  {
+   "id": "ID-H2270-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\n\nRancangan r encana pengelolaan aset Jaminan Sosial\nKetenagakerjaan sebagaimana dimaksud dalam Pasal 6 terdiri\natas:\na. rancangan rencana strategis; dan\nb. rancangan rencana kerja anggaran tahunan.\n\n\nParagraf 2\nRancangan Rencana Strategis"
+   }
+  },
+  {
+   "id": "ID-H2270-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n\n(1) Rancangan r encana strategis sebagaimana dimaksud\ndalam Pasal 7 huruf a disusun oleh Direksi.\n(2) Rancangan rencana strategis sebagaimana dimaksud pada\nayat (1) memuat arah kebijakan pengelolaan aset Jaminan\nSosial Ketenagakerjaan termasuk rancangan rencana\nstrategis Investasi.\n(3) Kebijakan dan rancangan rencana strategis Investasi\nsebagaimana dimaksud pada ayat ( 2) paling sedikit\nmemuat:\na. profil aset dan Liabilitas Jaminan Sosial\nKetenagakerjaan; dan\nb. kesesuaian antara durasi aset dan durasi Liabilitas.\n\n     (4) Rancangan . . .\n\n\n\n(4) Rancangan rencana strategis sebagaimana dimaksud pada\nayat (1) ditetapkan oleh Dewan Pengawas menjadi rencana\nstrategis program Jaminan Sosial Ketenagakerjaan.\n(5) Rencana strategis program Jaminan Sosial\nKetenagakerjaan sebagaimana dimaksud pada ayat ( 4)\nditetapkan untuk jangka waktu 5 (lima) tahun.\n(6) Ketentuan lebih lanjut mengenai penyusunan rencana\nstrategis diatur dengan peraturan Direksi.\n\nParagraf 3\nRancangan Rencana Kerja Anggaran Tahunan"
+   }
+  },
+  {
+   "id": "ID-H2270-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n\n(1) Rancangan rencana kerja anggaran tahun an sebagaimana\ndimaksud dalam Pasal 7 huruf b disusun oleh Direksi.\n(2) Rancangan rencana kerja anggaran tahunan sebagaimana\ndimaksud pada ayat (1)  disusun dengan mengacu pada\nrencana strategis  program Jaminan Sosial\nKetenagakerjaan.\n(3) Rancangan rencana kerja anggaran tahunan sebagaimana\ndimaksud pada ayat ( 2) ditetapkan oleh Dewan Pengawas\nmenjadi rencana kerja anggaran tahunan  Jaminan Sosial\nKetenagakerjaan.\n(4) Rencana kerja anggaran tahunan sebagaimana dimaksud\npada ayat ( 3) menjadi pedoman dalam pelaksanaan\npengelolaan aset  dan Liabilitas Jaminan S osial\nKetenagakerjaan.\n\nBAB III\nPELAKSANAAN PENGELOLAAN\nASET JAMINAN SOSIAL KETENAGAKERJAAN\n\nBagian Kesatu\nUmum"
+   }
+  },
+  {
+   "id": "ID-H2270-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\n\nPelaksanaan se bagaimana dimaksud dalam Pasal 3  ayat (3 )\nhuruf b meliputi:\na. sumber aset;\n           b. Liabilitas . . .\n\n\n\nb. Liabilitas;\nc. penggunaan;\nd. pengembangan;\ne. kesehatan keuangan; dan\nf. pertanggungjawaban.\n\n\nBagian Kedua\nSumber Aset\n\nParagraf 1\nUmum"
+   }
+  },
+  {
+   "id": "ID-H2270-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\n\nSumber aset sebagaimana dimaksud dalam Pasal 1 0 huruf a\nterdiri atas:\na. aset BPJS Ketenagakerjaan; dan\nb. aset Dana Jaminan Sosi al Ketenagakerjaan  yang terdiri\natas:\n1. jaminan kecelakaan kerja;\n2.  jaminan hari tua;\n3.  jaminan pensiun; dan\n4.  jaminan kematian.\n\n\nParagraf 2\nSumber Aset BPJS Ketenagakerjaan"
+   }
+  },
+  {
+   "id": "ID-H2270-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n\n(1) Sumber aset BPJS Ketenagakerjaan seb agaimana\ndimaksud dalam Pasal 11  huruf a terdiri atas:\na. modal awal dari Pemerintah yang merupakan\nkekayaan negara yang dipisahkan dan tidak terbagi\natas saham;\nb. hasil pengalihan aset PT. Jamsostek (Persero)  yang\nmenyelenggarakan program jaminan sosial;\nc. hasil pengembangan aset BPJS Ketenagakerjaan;\nd. Dana Operasional  yang diambil dari Dana Jaminan\nSosial Ketenagakerjaan; dan/atau\n            e. sumber . . .\n\n\n\ne. sumber lain yang sah sesuai dengan  ketentuan\nperaturan perundang-undangan.\n(2) Aset BPJS Ketenagakerjaan yang bersumber dari modal\nawal sebagaimana dimaksud pada ayat (1) hur uf a,\nmerupakan kekayaan negara yang dipisahkan dan tidak\nterbagi atas saham.\n(3) Aset BPJS Ketenagakerjaan yang bersumber dari hasil\npengalihan aset PT . Jamsostek ( Persero) yang\nmenyelenggarakan p rogram Jaminan Sosial\nKetenagakerjaan sebagaimana dimaksud pada  ayat (1)\nhuruf b, merupakan hasil pengalihan aset lembaga dari\nPT.  Jamsostek (Persero).\n(4) Aset BPJS Ketenagakerjaan yang bersumber dari hasil\npengembangan sebagaimana dimaksud pada ayat (1) huruf\nc, berasal dari semua penambahan aset BPJS\nKetenagakerjaan y ang m erupakan hasil dari penempatan\nInvestasi maupun bukan investasi.\n(5) Aset BPJS Keten agakerjaan yang bersumber dari Dana\nOperasional yang diambil dari Dana Jaminan Sosial\nKetenagakerjaan sebagaimana dimaksud pada ayat (1)\nhuruf d, merupakan dana yang dised iakan untuk\nmembiayai kegiatan operasional penyelenggaraan p rogram\nJaminan Sosial Ketenagakerjaan.\n(6) Aset BPJS Ketenagakerjaan yang bersumber dari sumber\nlain yang sah sesuai dengan ketentuan peraturan\nperundang-undangan sebagaimana dimaksud pada ayat\n(1) huruf e, merupakan dana yang berasal dari:\na. Surplus kegiatan BPJS Ketenagakerjaan; dan\nb. hibah dan/atau bantuan lain yang sah dan  tidak\nmengikat sesuai dengan ketentuan peraturan\nperundang-undangan.\n(7) Aset BPJS Ketenagakerjaan yang bersumber dari hibah\ndan/atau bantuan lain yang sah dan  tidak mengikat\nsebagaimana dimaksud pada ayat (6)  huruf b  dapat\nberupa uang, barang, dan/atau jasa.\n(8) Aset BPJS Ketenagakerjaan sebagaimana dimaksud dalam\nPasal 11 huruf a  wajib dinilai sesuai dengan standar\nakuntansi keuangan yang berlaku."
+   }
+  },
+  {
+   "id": "ID-H2270-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13 "
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 13 . . .\n\n\n\nPasal 13\n\n(1) Dana Operasional yang dapat diambil dari Dana Jaminan\nSosial Ketenagakerjaan  sebagaimana dimaksud dalam\nPasal 12 ayat (5)  ditetapkan paling tinggi:\na. 10% (sepuluh persen) dari Iuran jaminan kecelakaan\nkerja dan jaminan kematian; dan\nb. 2% (dua persen) dari akumulasi Iuran dan dana hasil\npengembangan jaminan hari tua.\n(2) Besaran persentase Dana Operasional  sebagaimana\ndimaksud pada ayat (1) ditetapkan setiap tahun oleh\nMenteri setelah  berkoordinasi dengan menteri yang\nmenyelenggarakan urusan pemerintahan di bidang\nketenagakerjaan dan DJSN."
+   }
+  },
+  {
+   "id": "ID-H2270-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\n\n(1) Dalam penentuan persentase Dana Operasional\nsebagaimana dimaksud dalam Pasal 1 3 ayat ( 2), BPJS\nKetenagakerjaan mengajukan usulan besaran persentase\nDana Operasional  kepada Menteri paling lambat 3 (tiga)\nbulan sebelum tahun anggaran yang bersangkutan dengan\nmelampirkan rencana kerja anggaran  tahunan BPJS\nKetenagakerjaan.\n(2) Menteri menetapkan besaran persentase Dana Operasional\nsebagaimana dimaksud pada ayat (1) paling lambat 1\n(satu) bulan sebelum tahun anggaran yang bersangkutan\nberjalan.\n(3) Besaran persentase Dana Operasional  sebagaimana\ndimaksud pada ayat (2) untuk tahun 2014 ditetapkan oleh\nMenteri paling lambat 31 Desember 2013.\n\nParagraf 3\nSumber Aset Dana Jaminan Sosial Ketenagakerjaan"
+   }
+  },
+  {
+   "id": "ID-H2270-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  15\n\n(1) Sumber aset Dana Jaminan Sosial Ketenagakerjaan\nsebagaimana dimaksud dalam Pasal 11 huruf b terdiri\natas:\na. Iuran jaminan sosial ketenagakerjaan termasuk\nbantuan iuran;\n                   b. hasil . . .\n\n\n\nb. hasil pengembangan  Dana Jaminan Sosial\nKetenagakerjaan;\nc. aset program jaminan sosial ketenagakerjaan yang\nmenjadi hak peserta PT. Jamsostek (Persero); dan\nd. sumber lain yang sah sesuai dengan  ketentuan\nperaturan perundang-undangan.\n(2) Aset Dana Jaminan Sosial Ketenagakerjaan  yang\nbersumber dari I uran jaminan sosial termasuk bantuan\niuran sebagaim ana dimaksud pada ayat (1) huruf a,\nberasal dari I uran p rogram Jaminan Sosial\nKetenagakerjaan termasuk bantuan iuran  sesuai dengan\nketentuan peraturan perundang-undangan.\n(3) Aset Dana Jaminan Sosial Ketenagakerjaan  yang\nbersumber dari hasil  pengembangan seba gaimana\ndimaksud pada ayat (1) huruf b, berasal dari semua\npenambahan aset Dana Jaminan Sosial Ketenagakerjaan\nyang merupakan hasil dari penempatan Investasi maupun\nbukan investasi.\n(4) Aset Dana Jaminan Sosial Ketenagakerjaan  yang\nbersumber dari hasil pengali han a set program jaminan\nsosial ketenagakerjaan sebagaimana dimaksud pada ayat\n(1) huruf c terdiri atas:\na. aset program jaminan kecelakaan kerja yang dialihkan\nmenjadi aset Dana Jaminan Sosial kecelakaan kerja;\nb. aset program jaminan hari tua yang dialihkan menjadi\naset Dana Jaminan Sosial hari tua; dan\nc. aset program jaminan kematian yang dialihkan\nmenjadi aset Dana Jaminan Sosial kematian.\n(5) Jumlah aset program Jaminan Sosial Ketenagakerjaan\nsebagaimana dimaksud pada ayat (4) paling sedikit\nsebesar jumlah Liabilitas kepada peserta pada saat\npengalihan aset PT . Jamsostek (Persero) menjadi aset\nDana Jaminan Sosial Ketenagakerjaan.\n(6) Aset Dana Jaminan Sosial Ketenagakerjaan  yang\nbersumber dari sumber lain yang sah sesuai dengan\nketentuan peraturan perundang -undangan s ebagaimana\ndimaksud pada ayat (1) huruf d, merupakan dana yang\nberasal dari:\na. Surplus aset Dana Jaminan Sosial Ketenagakerjaan\nsesuai dengan program;\n           b. Surplus . . .\n\n\n\nb. Surplus aset BPJS Ketenagakerjaan;\nc. dana talangan dari BPJS Ketenagakerjaan untuk\npembayaran manfaat; dan/atau\nd. hibah dan/atau bantuan lain yang sah dan tidak\nmengikat sesuai dengan ketentuan peraturan\nperundang-undangan.\n(7) Aset Dana Jaminan Sosial Ketenagakerjaan  yang\nbersumber dari hibah dan/atau bantuan lain yang sah\ndan tidak mengikat sebagaimana dimaksud pa da ayat ( 6)\nhuruf d dapat berupa uang, barang, dan/atau jasa.\n\n\nBagian Ketiga\nLiabilitas\n\nParagraf 1\nUmum"
+   }
+  },
+  {
+   "id": "ID-H2270-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\n\nLiabilitas sebagaimana dimaksud dalam Pasal 10 huruf b\nterdiri atas:\na. Liabilitas BPJS Ketenagakerjaan; dan\nb. Liabilitas Dana Jaminan Sosial Ketenagakerjaan.\n\n\nParagraf 2\nLiabilitas BPJS Ketenagakerjaan"
+   }
+  },
+  {
+   "id": "ID-H2270-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\n\n(1) Liabilitas BPJS Ketenagakerjaan sebagaimana dimaksud\ndalam Pasal 16 huruf a meliputi seluruh Liabilitas BPJS\nKetenagakerjaan selaku penyelenggara program Jaminan\nSosial Ketenagakerjaan.\n(2) Liabilitas BPJS Ketenagakerjaan sebagaimana dimaksud\npada ayat (1) wajib dinilai sesuai dengan standar\nakuntansi keuangan yang berlaku.\n\n\n\n\n                Paragraf 3 . . .\n\n\n\nParagraf 3\nLiabilitas Dana Jaminan Sosial Ketenagakerjaan"
+   }
+  },
+  {
+   "id": "ID-H2270-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\n\n(1) Liabilitas Dana Jaminan Sosial Ketenagake rjaan terdiri\natas:\na. Liabilitas jaminan kecelakaan kerja;\nb. Liabilitas jaminan kematian;\nc. Liabilitas jaminan hari tua; dan\nd. Liabilitas jaminan pensiun.\n(2) Liabilitas jaminan kecelakaan kerja dan jaminan kematian\nsebagaimana dimaksud pada ayat (1) huruf a dan huruf b\nterdiri atas:\na. cadangan teknis;\nb. utang klaim;\nc. utang Investasi; dan\nd. utang lainnya.\n(3) Cadangan teknis sebagaimana dimaksud pada ayat (2)\nhuruf a terdiri atas:\na. cadangan Iuran yang belum merupakan pendapatan;\nb. cadangan atas klaim yang masih dalam proses\npenyelesaian; dan\nc. cadangan atas klaim yang sudah terjadi namun belum\ndilaporkan (incurred but not reported).\n(4) Liabilitas jaminan hari tua sebagaimana dimaksud pada\nayat (1) huruf c terdiri atas:\na. utang jaminan hari tua;\nb. utang Investasi; dan\nc. utang lainnya.\n(5) Liabilitas Dana Jaminan Sosial Ketenagakerjaan\nsebagaimana dimaksud pada ayat (1) wajib dinilai sesuai\ndengan standar akuntansi keuangan yang berlaku."
+   }
+  },
+  {
+   "id": "ID-H2270-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19 "
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 19 . . .\n\n\n\nPasal 19\n\nPengelolaan aset dan  Liabilitas Dana Jaminan Sosial\nKetenagakerjaan sebagaimana dimaksud dalam Pasal 15 dan\nPasal 18 dipisahkan untuk masing -masing program Jaminan\nSosial Ketenagakerjaan."
+   }
+  },
+  {
+   "id": "ID-H2270-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\n\n(1) BPJS Ketenagakerjaan wajib membentuk cadangan teknis\nsebagaimana dimaksud dalam Pasal 18 ayat (2) huruf a\ndengan metode dan asumsi perhitungan sesuai deng an\nstandar praktik aktuaria yang berlaku umum.\n(2) Perhitungan dan valuasi terhadap cadangan teknis\nsebagaimana dimaksud pada ayat (1), dilakukan oleh\naktuaris yang ditunjuk oleh Direksi.\n(3) Setiap 3 (tiga) tahun sekali Direksi menunjuk aktuaris\nindependen yang m emiliki kompetensi aktuaria di bidang\njaminan sosial dengan persetujuan Dewan Pengawas\nuntuk mereview perhitungan dan valuasi yang dilakukan\noleh aktuaris sebagaimana dimaksud pada ayat (2)."
+   }
+  },
+  {
+   "id": "ID-H2270-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\n\n(1) Dewan Pengawas, d alam hal ditemukan ketidakwajaran\nperhitungan dan valuasi  terhadap cadangan teknis atau\nbagian dari cadangan teknis sebagaimana dimaksud\ndalam Pasal 20 ayat (2), dapat meminta Direksi untuk:\na. memerintahkan aktuaris melakukan valuasi ulang atas\njumlah cadangan teknis atau atas sebagian dari\ncadangan teknis yang dianggap tidak wajar; atau\nb. menunjuk aktuaris independen untuk melakukan\nvaluasi ulang atas cadangan teknis atau atas bagian\ndari cadangan teknis yang dianggap tidak wajar.\n(2) Direksi wajib menunjuk aktuaris independen sebagaimana\ndimaksud pada ayat (1) huruf b paling lama 1 (satu) bulan\nsetelah permintaan Dewan Pengawas.\n\n\n\n\n                  Bagian . . .\n\n\n\nBagian Keempat\nPenggunaan\n\nParagraf 1\nUmum"
+   }
+  },
+  {
+   "id": "ID-H2270-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\n\nPenggunaan aset sebagaimana dimaksud dalam Pasal 1 0\nhuruf c terdiri atas:\na. penggunaan aset BPJS Ketenagakerjaan; dan\nb. penggunaaan aset Dana Jaminan Sosial Ketenagakerjaan.\n\nParagraf 2\nPenggunaan Aset BPJS Ketenagakerjaan"
+   }
+  },
+  {
+   "id": "ID-H2270-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\n\n(1) Penggunaan a set BPJS Ketenagakerjaan sebagaimana\ndimaksud dalam Pasal 22 huruf a dapat dilakukan untuk:\na. biaya operasional penyelenggaraan program Jaminan\nSosial Ketenagakerjaan;\nb. biaya pengadaan barang dan jasa yang digunakan\nuntuk mendukung operasional penyelenggaraan\njaminan sosial ketenagakerjaan;\nc. biaya untuk meningkatkan kapasitas pelayanan; dan\nd. Investasi dalam instrumen investasi sesuai dengan\nketentuan peraturan perundang-undangan.\n(2) Aset BPJS Ketenagakerjaan yang digunakan untuk biaya\noperasional penyelenggaraan program Jaminan Sosial\nKetenagakerjaan sebagaimana dimaksud pada ayat (1)\nhuruf a terdiri atas biaya  personel dan biaya non personel\nyang jenis dan besarannya ditetapkan oleh Direksi.\n(3) Aset BPJS Ketenagakerjaan yang digunakan untuk biaya\npengadaan barang dan jasa yang digunakan untuk\nmendukung operasional penyelenggaraan Jaminan Sosial\nKetenagakerjaan sebagaimana dimaksud pada ayat  (1)\nhuruf b ditetapkan oleh Direksi sesuai standar aku ntansi\nkeuangan yang berlaku.\n                 (4) Aset  . . .\n\n\n\n(4) Aset BPJS Ketenagakerjaan yang digunakan untuk biaya\npeningkatan kapasitas pelayanan sebagaimana dimaksud\npada ayat (1)  huruf c ditetapkan oleh Direksi sesuai\nstandar akuntansi keuangan yang berlaku.\n(5) Aset BPJS Ketenagakerjaan yang digunakan untuk\nInvestasi dalam instrumen investasi sebagaimana\ndimaksud pada ayat (1)  huruf d, dilakukan melalui\nInvestasi pada instrumen investasi pasar uang, pasar\nmodal, dan investasi langsung.\n\n\nParagraf 3\nPenggunaan Aset Dana Jaminan Sosial Ketenagakerjaan"
+   }
+  },
+  {
+   "id": "ID-H2270-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 24\n(1) Penggunaan a set Dana Jaminan Sosial Ketenagakerjaan\nsebagaimana dimaksud dalam Pasal 2 2 huruf b dapat\ndilakukan untuk:\na. pembayaran manfaat atau pembiayaan layanan\nJaminan Sosial Ketenagakerjaan;\nb. Dana Operasional  penyelenggaraan program Jaminan\nSosial Ketenagakerjaan; dan\nc. Investasi dalam instrumen investasi sesuai dengan\nketentuan peraturan perundang-undangan.\n(2) Aset Dana Jaminan Sosial Ketenagakerjaan  yang\ndigunakan untuk pembayaran manfaat atau pembiayaan\nlayanan Jaminan  Sosial Ketenagakerjaan sebagaimana\ndimaksud pada ayat (1) huruf a berupa pembayaran  uang\ntunai dan/atau  pelayanan program Jaminan Sosial\nKetenagakerjaan.\n(3) Aset Dana Jaminan Sosial Ketenagakerjaan  yang\ndigunakan untuk  Dana Operasional  penyelenggaraan\nprogram Jaminan  Sosial Ketenagakerjaan sebagaimana\ndimaksud pada ayat (1) huruf b digunakan untuk\noperasionalisasi penyelenggaraan Jaminan Sosial\nKetenagakerjaan oleh BPJS Ketenagakerjaan.\n(4) Aset Dana Jaminan Sosial Ketenag akerjaan yang\ndigunakan untuk I nvestasi dalam instrumen investasi\nsebagaimana dimaksud pada ayat  (1) huruf c dilakukan\nmelalui Investasi pada instrumen sesuai dengan ketentuan\ndalam Peraturan Pemerintah ini.\n                  Bagian . . .\n\n\n\nBagian Kelima\nPengembangan\n\nParagraf 1\nUmum"
+   }
+  },
+  {
+   "id": "ID-H2270-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\n\nPengembangan aset sebagaimana dimaksud dalam Pasal 1 0\nhuruf d terdiri atas:\na. pengembangan aset BPJS Ketenagakerjaan; dan\nb. pengembangan aset Dana Jaminan Sosial\nKetenagakerjaan.\n\nParagraf 2\nPengembangan Aset BPJS Ketenagakerjaan"
+   }
+  },
+  {
+   "id": "ID-H2270-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\n\n(1) Pengembangan aset BPJS  Ketenagakerjaan sebagaimana\ndimaksud dalam Pasal 25 huruf a dilakukan dalam bentuk\nInvestasi yang dikembangkan melalui penempatan pada\ninstrumen investasi dalam negeri.\n(2) Instrumen investasi dalam negeri sebagaimana dimaksud\npada ayat (1) meliputi:\na. deposito berjangka termasuk deposit on call  dan\ndeposito yang berjangka waktu kurang dari atau sama\ndengan 1 (satu) bulan serta sertifikat deposito yang\ntidak dapat diperdagangkan ( non negotiable certificate\ndeposit) pada Bank;\nb. surat berharga yang dit erbitkan N egara Republik\nIndonesia;\nc. surat berharga yang diterbitkan Bank Indonesia;\nd. surat utang korporasi yang tercatat dan\ndiperjualbelikan secara luas dalam Bursa Efek;\ne. saham yang tercatat dalam Bursa Efek;\nf. reksadana;\ng. efek beragun aset yang diterbitkan  berdasarkan\nkontrak investasi kolektif efek beragun aset;\n\n               h. dana . . .\n\n\n\nh. dana investasi real estate;\ni. repurchase agreement;\nj. penyertaan langsung; dan/atau\nk. tanah, bangunan,  atau tanah dengan bangunan."
+   }
+  },
+  {
+   "id": "ID-H2270-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  27\n\nDalam hal jumlah I nvestasi melebihi batasan karena terjadi\nkenaikan dan/atau penurunan nilai Surat Berharga\nsebagaimana dimaksud dalam Pasal 26 ayat (2) huruf b, BPJS\nKetenagakerjaan wajib menyesuaikan kembali  jumlah\nInvestasi tersebut dalam jangka waktu 1 (satu) tahun  sejak\nterjadinya kelebihan batasan tersebut."
+   }
+  },
+  {
+   "id": "ID-H2270-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\n\n(1) Pengembangan aset BPJS Ketenagakerjaan  dalam bentuk\nInvestasi berupa surat utang korporasi yang tercatat dan\ndiperjualbelikan secara luas dalam Bursa Efek\nsebagaimana dimaksud dalam Pasal 26 ayat (2) huruf d\npaling sedikit harus memiliki peringk at A - atau yang\nsetara dari perusahaan pemeringkat efek yang telah\nmemperoleh izin dari lembaga pengawas di bidang pasar\nmodal.\n(2) Pengembangan aset BPJS Ketenagakerjaan dala m bentuk\nInvestasi berupa reksadana sebagaimana dimaksud dalam\nPasal 26 ayat (2) huru f f merupakan produk reksadana\nyang telah memenuhi ketentuan peraturan perundang -\nundangan di bidang pasar modal.\n(3) Pengembangan aset BPJ S Ketenagakerjaan dalam bentuk\nInvestasi berupa efek beragun aset yang diterbitkan\nberdasarkan kontrak investasi kolektif efek beragun aset\ndan dana investasi real estat e sebagaimana dimaksud\ndalam Pasal 26 ayat (2) huruf g dan huruf  h harus\nmemenuhi ketentuan:\na. telah mendapat pernyataan efektif dari lembaga\npengawas di bidang pasar modal;\nb. paling sedikit memiliki peringkat A - atau yang setara\ndari perusahaan pemeringkat efek yang telah\nmemperoleh izin dari lembaga pengawas di bidang\npasar modal; dan\n         c. dilakukan . . .\n\n\n\nc. dilakukan melalui penawaran umum sebagaimana\ndiatur dalam peraturan perundang -undangan di\nbidang pasar modal.\n(4) Pengembangan aset BPJS Ketenagakerjaan dalam bentuk\nInvestasi berupa  repurchase agreement  sebagaimana\ndimaksud dalam Pasal 26 ayat (2) huruf i harus memenuhi\nketentuan:\na. menggunakan kontrak perjanjian dengan standar\nGlobal Master Repurchase Agreement (GMRA);\nb. jenis jaminan ter batas pada surat berharga yang\nditerbitkan Negara Republik Indonesia dan/atau Bank\nIndonesia;\nc. jangka waktu tidak me lebihi 90 (sembilan puluh) hari;\ndan\nd. nilai r epurchase agreement tidak lebih da ri 80%\n(delapan puluh persen ) dari nilai pasar surat berharga\nyang dijaminkan.\n(5) Pengembangan aset BPJS Ketenagakerjaan dalam bentuk\nInvestasi berupa penyertaan langsung sebagaimana\ndimaksud dalam Pasal 26 ayat (2) huruf j hanya dapat\ndilakukan dengan kriteria:\na. badan usaha yang bergerak di bidang yang\nmendukung pelaksanaan tugas BPJS Ketenagakerjaan\ndalam menyelenggarakan program Jaminan Sosial\nKetenagakerjaan;\nb. badan usaha yang tidak bergerak di bidang usaha jasa\nkeuangan yang diatur permodalannya secara ketat\nsehingga berpotensi menimbulkan kewajiban\nmemenuhi permodalan secara berkelanjutan; dan\nc. tidak berpotensi menimbulkan benturan kepentingan\ndi dalam melakukan kerjasama  sesuai dengan\nketentuan peraturan perundang-undangan.\n(6) Pengembangan aset BPJ S Ketenagakerjaan dalam bentuk\nInvestasi berupa tanah, bangunan , atau tanah  dengan\nbangunan sebagaimana dimaksud dalam Pasal 26 ayat 2\nhuruf k harus memenuhi ketentuan:\na. dilengkapi dengan bukti kepemilikan atas nama BPJS\nKetenagakerjaan;\nb. memberikan penghasilan ke pada BPJS\nKetenagakerjaan; dan\n                   c. tidak . . .\n\n\n\nc. tidak ditempatkan pada tanah, bangun an, atau tanah\ndengan bangunan yang sedang diagunkan, dalam\nsengketa, atau diblokir pihak lain."
+   }
+  },
+  {
+   "id": "ID-H2270-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\n\n(1) Instrumen investasi sebagaimana dimaksud dalam Pasal\n26 ayat (2) dibatasi dengan ketentuan:\na. Investasi berupa deposito berjangka termasuk deposit\non call dan deposito yang berjangka waktu kurang dari\natau sama dengan 1 (satu) bulan serta sertifikat\ndeposito yang tidak dapat diperdagangkan ( non\nnegotiable certificate deposit ) pada Bank, pal ing tinggi\n15% (lima belas per sen) dari jumlah Investasi untuk\nsetiap Bank;\nb. Investasi berupa surat utang korporasi yang tercatat\ndan diperjualbelikan secara luas  dalam Bursa Efek\nuntuk setiap emiten paling tinggi 5% (lima persen) dari\njumlah Investasi dan seluruhnya paling tinggi 50%\n(lima puluh persen) dari jumlah Investasi;\nc. Investasi berupa saham yang tercatat dalam Bursa\nEfek, untuk setiap emiten paling tinggi 5% (lima\npersen) dari jumlah Investasi dan seluruhnya paling\ntinggi 50% (lima puluh persen) dari jumlah Investasi;\nd. Investasi berupa reksadana, untuk setiap manajer\ninvestasi paling tinggi 15% (lima belas persen) d ari\njumlah Investasi dan seluruhnya paling tinggi 50%\n(lima puluh persen) dari jumlah Investasi;\ne. Investasi berupa efek beragun aset yang diterbitkan\nberdasarkan kontrak investasi kolektif efek beragun\naset untuk setiap manajer investasi paling tinggi 10%\n(sepuluh persen) dari jumlah Investasi dan seluruhnya\npaling tinggi 20% (dua puluh persen) dari jumlah\nInvestasi.\nf. Investasi berupa dana investasi real estat e, untuk\nsetiap manajer investasi paling tingg i 10% (sepuluh\npersen) dari jumlah Investasi dan seluruhnya paling\ntinggi 20% (dua puluh persen) dari jumlah Investasi;\n\n\n           g. Investasi . . .\n\n\n\ng. Investasi berupa repurchase agreement , untuk setiap\ncounterpart paling tinggi 2% (dua persen) dari jumlah\nInvestasi dan seluruhnya pa ling tinggi 5% (lima\npersen);\nh. Investasi berupa penyertaan langsung, untuk setiap\npihak tidak melebihi 1% (satu persen) dari jumlah\nInvestasi dan seluruhnya paling tinggi 5% (lima persen)\ndari jumlah Investasi; dan\ni. Investasi berupa tanah, bangunan, atau tanah dengan\nbangunan, seluruhnya paling tinggi 5% (lima persen)\ndari jumlah Investasi.\n(2) Pengembangan aset BPJS Ketenagakerjaan berupa\nInvestasi sebagaimana dimaksud da lam Pasal 26 ayat ( 2)\nhuruf b dan huruf c tidak dik enakan pembatasan jumlah\ndan persentase."
+   }
+  },
+  {
+   "id": "ID-H2270-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\n\nSelain harus memenuhi ketentuan sebagaimana dimaksud\ndalam Pasal 26 ayat (2) , BPJS Ketenagakerjaan dalam\nmelakukan Investasi aset BPJS Ketenagakerjaan dilarang\nmenempatkan dana pada perusahaan yang sahamnya dimiliki\nanggota Direksi, anggota Dew an Pengawas,  pegawai BPJS,\npegawai lembaga pengawas BPJS, anggota DJSN , atau pihak\nyang mempunyai hubungan keluarga karena perkawinan dan\nketurunan sampai derajat ketiga dengan anggota Direksi,\nanggota Dewan Pengawas, anggota DJSN, pegawai BPJS, dan\npegawai lembaga pengawas BPJS."
+   }
+  },
+  {
+   "id": "ID-H2270-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\n\nBPJS Ketenagakerjaan dilarang melakukan transaksi derivatif\natau memiliki instrumen derivatif  untuk aset BPJS\nKetenagakerjaan, kecuali efek beragun aset dan turunan surat\nberharga yang diperoleh sebagai bagian yang melek at pada\nsuatu surat berharga yang tercatat di Bursa Efek."
+   }
+  },
+  {
+   "id": "ID-H2270-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32 "
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kelima"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 32 . . .\n\n\n\nPasal 32\n\nBPJS Ketenagakerjaa n dilarang melakukan pengembang an\naset BPJS Ketenagakerjaan dan aset Dana Jaminan Sosial\nKetenagakerjaan dalam bentuk Investasi berupa surat utang\nkorporasi dan saham sebagaimana dimaksud dalam Pasal 26\nayat ( 2) huruf d dan huruf e yang emitennya merupakan\nbadan hukum asing."
+   }
+  },
+  {
+   "id": "ID-H2270-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 33\n\n(1) Dalam melakukan Investasi, BPJS Ketenagakerjaan wajib\nmenerapkan manajemen risiko.\n(2) Ketentuan mengenai manajemen risiko sebagaimana\ndimaksud pada ayat (1) diatur dengan peraturan Direksi\nBPJS Ketenagakerjaan.\n\n\nParagraf 3\nPengembangan Aset Dana Jaminan Sosial Ketenagakerjaan"
+   }
+  },
+  {
+   "id": "ID-H2270-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 34\n\n(1) Pengembangan aset Dana Jaminan Sosial Ketenagakerjaan\nsebagaimana dimaksud dalam Pasal 25 huruf b  wajib\nmemperhatikan karakter kewajiban dari program jaminan\nsosial yang dikelola.\n(2) Pengembangan aset Dana Jaminan Sosial Ketenagakerjaan\nsebagaimana dimaksud pada ayat (1) dilakukan dalam\nbentuk Investasi yang dikembangkan melalui\npenempatannya pada instrumen investasi dalam negeri."
+   }
+  },
+  {
+   "id": "ID-H2270-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 35\n\nInstrumen I nvestasi dalam negeri  sebagaimana dimaksud\ndalam Pasal 34 ayat (2) untuk Dana Jaminan Sosial Hari Tua\nmeliputi:\na. deposito berjangka termasuk deposit on call  dan deposito\nyang berjangka waktu kurang dari atau sama  dengan 1\n(satu) bulan serta sertifikat deposito yang tidak dapat\ndiperdagangkan ( non negotiable certificate deposit ) pada\nBank;\n               b. surat . . .\n\n\n\nb. surat berharga yang diterbitkan Negara Republik\nIndonesia;\nc. surat berharga yang diterbitkan Bank Indonesia;\nd. surat utang korporas i yang tercatat dan diperjualbelikan\nsecara luas dalam Bursa Efek;\ne. saham yang tercatat dalam Bursa Efek;\nf. reksadana;\ng. efek beragun aset yang diterbitkan berdasarkan kontrak\ninvestasi kolektif efek beragun aset;\nh. dana investasi real estate;\ni. repurchase agreement;\nj. penyertaan langsung; dan/atau\nk. tanah, bangunan, atau tanah dengan bangunan."
+   }
+  },
+  {
+   "id": "ID-H2270-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 36\n\n(1) Pengembangan aset Dana Jaminan Sosial hari tua dalam\nbentuk Investasi berupa surat utang korporasi yang\ntercatat dan diperjualbelikan secara luas dalam Bursa\nEfek sebagaimana dimaksud dalam Pasal 3 5 huruf d\npaling sedikit memiliki peringkat A - atau yang setara dari\nperusahaan pemeringkat efek yang telah memperoleh izin\ndari lembaga pengawas di bidang pasar modal.\n(2) Pengembangan aset Dana Jaminan Sosial hari tua dalam\nbentuk Investasi berupa reksa dana sebagaimana\ndimaksud dalam Pasal 35 huruf f merupakan produk\nreksadana yang sesuai dengan ketentuan peraturan\nperundang-undangan di bidang pasar modal.\n(3) Pengembangan aset Dana Jaminan Sosial hari tua dalam\nbentuk Investasi berupa efek beragun aset yang\nditerbitkan berdasarkan kontrak investasi kolektif efek\nberagun aset dan dana investasi real estate sebagaimana\ndimaksud dalam Pasal 35 huruf g dan huruf h harus\nmemenuhi ketentuan sebagai berikut:\na. telah mendapat pernyataan ef ektif dari lembaga\npengawas di bidang pasar modal;\n\n                 b. paling . . .\n\n\n\nb. paling sedikit memiliki peringkat A - atau yang setara\ndari perusahaan pemeringkat efek yang telah\nmemperoleh izin dari lembaga pengawas di bidang\npasar modal; dan\nc. dilakukan melalui penawaran umum sebaga imana\ndiatur dalam peraturan perundang -undangan di\nbidang pasar modal.\n(4) Pengembangan aset Dana Jaminan Sosial hari tua dalam\nbentuk Investasi berupa repurchase agreement\nsebagaimana dimaksud dalam Pasal 35 huruf i harus\nmemenuhi ketentuan:\na. menggunakan kontr ak perjanjian dengan standar\nGlobal Master Repurchase Agreement (GMRA);\nb. jenis jaminan terbatas pada surat berharga yang\nditerbitkan Negara Republik Indonesia dan/atau Bank\nIndonesia;\nc. jangka waktu tidak melebihi 90 (sembilan puluh) hari;\ndan\nd. nilai r epurchase agreement tidak lebih dari 80%\n(delapan puluh perse n) dari nilai pasar surat berharga\nyang dijaminkan.\n(5) Pengembangan aset Dana Jaminan Sosial hari tua dalam\nbentuk Investasi berupa penyertaan langsung\nsebagaimana dimaksud dalam Pasal 35 huruf j hanya\ndapat dilakukan dengan kriteria:\na. badan usaha yang bergerak di bidang yang\nmendukung pelaksanaan tugas BPJS  Ketenagakerjaan\ndalam menyelenggarakan program Jaminan Sosial\nKetenagakerjaan;\nb. tidak berpotensi menimbulkan benturan kepentingan\ndi dalam melakukan kerja sama sesuai dengan\nketentuan peraturan perundang-undangan; dan\nc. badan usaha yang bergerak di bidang usaha jasa\nkeuangan paling tinggi 20% (dua puluh persen) dari\ntotal kepemilikan di perusahaan tersebut.\n(6) Pengembangan aset Dana Jaminan Sosial hari tua dalam\nbentuk Investasi berupa tanah, bangunan , atau tanah\ndengan bangunan sebagaimana dimaksud dalam Pasal 35\nhuruf k harus memenuhi ketentuan sebagai berikut:\na. dilengkapi dengan bukti kepemilikan atas nama BPJS\nKetenagakerjaan;\n     b. memberikan . . .\n\n\n\nb. memberikan penghasilan ke Dana Jaminan Sosial hari\ntua; dan\nc. tidak ditempatkan pada tanah, bangunan , atau tanah\ndengan bangunan yang sedang diagunkan, dalam\nsengketa, atau diblokir pihak lain."
+   }
+  },
+  {
+   "id": "ID-H2270-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 37\n\n(1) Instrumen investasi sebagaimana dimaksud da lam Pasal\n35  dibatasi dengan ketentuan:\na. Investasi berupa deposito berjangka termasuk deposit\non call dan deposito yang berjangka waktu kurang dari\natau sama dengan 1 (satu) bulan serta sertifikat\ndeposito yang tidak dapat diperdagangkan ( non\nnegotiable certificate deposit ) pada Bank, paling tingg i\n15% (lima belas per sen) d ari jumlah Investasi untuk\nsetiap Bank;\nb. Investasi berupa surat utang korporasi yang tercatat\ndan diperjualbelikan secara luas  dalam Bursa Efek\nuntuk setiap emiten paling tinggi 5% (lima persen) dari\njumlah Investasi dan seluruhny a paling tinggi 50%\n(lima puluh persen) dari jumlah Investasi;\nc. Investasi berupa saham yang tercatat dalam Bursa\nEfek, untuk setiap emiten paling tinggi 5% (lima\npersen) dari jumlah Investasi dan seluruhnya paling\ntinggi 50% (lima puluh persen) dari jumlah Investasi;\nd. Investasi berupa reksadana, untuk setiap manajer\ninvestasi paling tinggi 15% (lima belas persen) dari\njumlah Investasi dan seluruhnya paling tinggi 50%\n(lima puluh persen) dari jumlah Investasi;\ne. Investasi berupa efek beragun aset yang diterbitk an\nberdasarkan kontrak investasi kolektif efek beragun\naset untuk setiap manajer investasi paling tinggi 10%\n(sepuluh persen) dari jumlah Investasi dan seluruhnya\npaling tinggi 20% (dua puluh persen) dari jumlah\nInvestasi.\nf. Investasi berupa dana investasi real estat e, untuk\nsetiap manajer investasi paling tinggi 10% (sepuluh\npersen) dari jumlah Investasi dan seluruhnya paling\ntinggi 20% (dua puluh persen) dari jumlah Investasi;\n          g. Investasi . . .\n\n\n\ng. Investasi berupa repurchase agreement  untuk setiap\ncounterpart paling tinggi 2% (dua persen) dari jumlah\nInvestasi dan seluruhnya paling tinggi 5% (lima persen)\ndari jumlah Investasi;\nh. Investasi berupa penyertaan langsung, untuk setiap\npihak tidak melebihi 1% (satu persen) dari jumlah\nInvestasi dan seluruhnya paling tinggi 5% (lima persen)\ndari jumlah Investasi; dan\ni. Investasi berupa tanah, bangunan, atau tanah dengan\nbangunan, seluruhnya paling tinggi 5% (lima  persen)\ndari jumlah Investasi.\n(2) Jumlah I nvestasi sebagaimana dimaksud pada ayat (1)\nmerupakan jumlah investasi masing -masing Dana\nJaminan Sosial hari tua.\n(3) Pengembangan aset Dana Jamina n Sosial hari tua dalam\nbentuk I nvestasi sebagaimana dimaksud dalam Pasal 35\nhuruf b dan huruf c  tidak dikenakan pembatasan jumlah\ndan persentase."
+   }
+  },
+  {
+   "id": "ID-H2270-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 38\n\n(1) Instrumen investasi dalam negeri sebagaiman a dimaksud\ndalam Pasal 34 ayat (2)  untuk Dana Jaminan Sosial\nkecelakaan kerja dan Dana  Jaminan Sosial kematian\nmeliputi:\na. deposito berjangka termasuk deposit on call  dan\ndeposito yang berjangka waktu kurang dari atau sama\ndengan 1 (satu) bulan serta sertifikat deposito yang\ntidak dapat diperdagangkan ( non negotiable certificate\ndeposit) pada Bank;\nb. surat berharga yang diterbitkan Negara Republik\nIndonesia;\nc. surat berharga yang diterbitkan Bank Indonesia;\nd. surat utang korporasi yang tercatat dan\ndiperjualbelikan secara luas dalam Bursa Efek;\ne. saham yang tercatat dalam Bursa Efek;\nf. reksadana;\ng. repurchase agreement; dan/atau\n\n                    h. efek . . .\n\n\n\nh. efek beragun aset yang diterbitkan berdasarkan\nkontrak investasi kolektif efek beragun aset.\n(2) Pengembangan aset Dana Jaminan Sosial kecelakaan\nkerja berupa Investasi sebagaimana dimaksud p ada ayat\n(1) huruf d sampai dengan huruf h hanya dapat dilakukan\napabila jumlah Aset Bersih  Dana Jaminan Sosial\nKecelakaan Kerja paling sedikit harus mencukupi estimasi\npembayaran klaim program Jaminan Sosial Ke celakaan\nKerja untuk 1 (satu) bulan ke depan.\n(3) Pengembangan aset Dana Jaminan Sosial k ematian\nberupa I nvestasi sebagaimana  dimaksud pada ayat (1)\nhuruf d  sampai dengan  huruf h hanya dapat dilakukan\napabila jumlah Aset Bersih Dana Jaminan Sosial kematian\npaling sedikit harus mencukupi estimasi pembayaran\nklaim program Jaminan Sosial Kematian untuk 1 (satu)\nbulan ke depan."
+   }
+  },
+  {
+   "id": "ID-H2270-A39",
+   "no": 39,
+   "noLabel": {
+    "id": "Pasal 39"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 39\n\n(1) Pengembangan aset Dana Jaminan Sosial Kecelakaan\nKerja dan Dana Jamina n Sosial Kematian dalam bentuk\nInvestasi berupa surat utang  korporasi yang tercatat dan\ndiperjualbelikan secara luas dalam Bursa Efek\nsebagaimana dimaksud dalam Pasal 3 8 ayat (1 ) huruf d\npaling sedikit memiliki peringkat A - atau yang setara dari\nperusahaan pemeringkat efek yang telah memperoleh izin\ndari lembaga pengawas di bidang pasar modal.\n(2) Pengembangan aset Dana Jaminan Sosial kecelakaan\nkerja dan Dana Jamina n Sosial k ematian dalam bentuk\nInvestasi berupa reksadana sebagaimana dimaksud dalam\nPasal 38 ayat (1 ) huruf f merupakan produk reksadana\nyang sesuai deng an ketentuan peraturan perundang -\nundangan di bidang pasar modal.\n(3) Pengembangan aset Dana Jaminan Sosial kecelakaan\nkerja dan Dana Jaminan Sosial kematian dalam bentuk\nInvestasi berupa repurchase agreement  sebagaimana\ndimaksud pada Pasal 38 ayat (1) huruf g harus memenuhi\nketentuan:\na. menggunakan kontrak perjanjian dengan standar\nGlobal Master Repurchase Agreement (GMRA);\n                  b. jenis . . .\n\n\n\nb. jenis jaminan terbatas pada surat berharga yang\nditerbitkan Negara Republik Indonesia dan/atau Bank\nIndonesia;\nc. jangka waktu tidak melebihi 9 0 (sembilan puluh) hari;\ndan\nd. nilai r epurchase agreement tidak lebih dari 80%\n(delapan puluh persen) dari nilai pasar surat berharga\nyang dijaminkan.\n(4) Pengembangan aset Dana Jaminan Sosial kecelakaan\nkerja dan Dana Jamina n Sosial k ematian dalam bentuk\nInvestasi berupa efek beragun aset yang diterbitkan\nberdasarkan kontrak investasi kolektif efek beragun aset\nsebagaimana dimaksud  dalam Pasal 38 ayat (1 ) huruf h\nharus memenuhi ketentuan sebagai berikut:\na. telah mendapat pernyataan efektif dari lembaga\npengawas di bidang pasar modal.\nb. paling kurang memiliki peringkat A - atau yang setara\ndari perusahaan pemeringkat efek yang telah\nmemperoleh izin dari lembaga pengawas di bidang\npasar modal; dan\nc. dilakukan melalui penawaran umum sebagaimana\ndiatur dalam peraturan perun dang-undangan di\nbidang pasar modal."
+   }
+  },
+  {
+   "id": "ID-H2270-A40",
+   "no": 40,
+   "noLabel": {
+    "id": "Pasal 40"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 40\n\n(1) Instrumen investasi se bagaimana dimaksud dalam Pasal\n38 ayat (1) dibatasi dengan ketentuan:\na. Investasi berupa deposito berjangka termasuk deposit\non call dan deposito yang berjangka waktu kurang dari\natau sama  dengan 1 (satu) bulan serta sertifikat\ndeposito yang tidak dapat diperdagangkan ( non\nnegotiable certificate deposit ) pada Bank, paling tinggi\n15% (lima belas persen) dari jumlah Investasi untuk\nsetiap Bank;\nb. Investasi berupa surat utang korporasi yang ter catat\ndan diperjualbelikan secara luas  dalam Bursa Efek ,\nsaham yang tercatat dalam Bursa Efek , reksadana,\nrepurchase agreement , dan efek beragun aset yang\nditerbitkan berdasarkan kontrak investasi kolektif efek\nberagun aset seluruhnya paling tinggi 50% (lima puluh\npersen) dari Aset Bersih;\n          c. Investasi . . .\n\n\n\nc. Investasi berupa surat utang korporasi yang tercatat\ndan diperjualbelikan secara luas  dalam Bursa Efek\nuntuk setiap emiten paling tinggi 5% (lima per sen) dari\njumlah Investasi;\nd. Investasi berupa saham yang tercatat dalam Bursa\nEfek, untuk setiap emiten paling tinggi 5% (lima\npersen) dari jumlah Investasi;\ne. Investasi berupa reksadana, untuk setiap manajer\ninvestasi paling tinggi 15% (lima belas persen) dari\njumlah Investasi;\nf. Investasi berupa repurchase agreement , untuk setia p\ncounterpart paling tinggi 2% (dua persen) dari jumlah\nInvestasi; dan\ng. Investasi berupa efek beragun aset yang diterbitkan\nberdasarkan kontrak investasi kolektif efek beragun\naset untuk setiap manajer investasi paling tinggi 10%\n(sepuluh persen) dari jumlah Investasi.\n(2) Jumlah Investasi sebagaimana dimaksud pada ayat (1)\nmerupakan jumlah Investasi masing -masing Dana\nJaminan Sosial kecelakaan kerja dan Dana Jaminan\nSosial kematian.\n(3) Pengembangan aset Dana Jaminan Sosial kecelakaan\nkerja dan Dana Jaminan Sosial  kematian dalam bentuk\nInvestasi sebagaimana dimaksud dalam Pasal 38  ayat (1)\nhuruf b dan huruf c tidak  dikenakan pembatasan jumlah\ndan persentase."
+   }
+  },
+  {
+   "id": "ID-H2270-A41",
+   "no": 41,
+   "noLabel": {
+    "id": "Pasal 41"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 41\n\n(1) Penempatan Investasi pada sat u pihak tidak dapat\nmelebihi 25% (dua puluh lima persen ) dari jumlah\ninvestasi.\n(2) Pihak sebagaimana dimaksud pada ayat (1) adalah satu\nperusahaan atau sekelompok perusahaan yang memiliki\nhubungan kepemilikan langsung yang bersifat mayoritas.\n\n\n\n\n\n                  Bagian . . .\n\n\n\nBagian Keenam\nKesehatan Keuangan\n\nParagraf 1\nUmum"
+   }
+  },
+  {
+   "id": "ID-H2270-A42",
+   "no": 42,
+   "noLabel": {
+    "id": "Pasal 42"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 42\n\nKesehatan keuangan sebagaimana dimaksud dalam Pasal 10\nhuruf e terdiri atas kesehatan keuangan:\na. aset BPJS Ketenagakerjaan; dan\nb. aset Dana Jaminan Sosial Ketenagakerjaan."
+   }
+  },
+  {
+   "id": "ID-H2270-A43",
+   "no": 43,
+   "noLabel": {
+    "id": "Pasal 43"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 43\n\nKesehatan keuangan sebagaimana dimaksud dalam Pasal 42\nterdiri atas:\na. Surplus;\nb. nilai negatif; dan\nc. likuiditas.\n\nParagraf 2\nKesehatan Keuangaan BPJS Ketenagakerjaan"
+   }
+  },
+  {
+   "id": "ID-H2270-A44",
+   "no": 44,
+   "noLabel": {
+    "id": "Pasal 44"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 44\n\n(1) Kesehatan keuangan aset BPJS Ketenagakerjaan\nsebagaimana dimaksud dalam Pasal 42 huruf a yang\nmengalami S urplus  pada suatu tahun  sebagaimana\ndimaksud dalam Pasal 43 huruf a  digunakan untuk:\na. menambah Aset Bersih  BPJS Ketenagakerjaan;\ndan/atau\nb. memperkuat aset Dana Jaminan Sosial\nKetenagakerjaan.\n(2) Penentuan besaran alokasi S urplus aset  BPJS\nKetenagakerjaan sebagaimana dimaksud pada ayat (1)\nharus mendapatkan persetujuan dari Dewan Pengawas."
+   }
+  },
+  {
+   "id": "ID-H2270-A45",
+   "no": 45,
+   "noLabel": {
+    "id": "Pasal 45 "
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keenam"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 45 . . .\n\n\n\n Pasal 45\n\nKetentuan mengenai standar kesehatan keuangan BPJS\nKetenagakerjaan diatur dalam peraturan Menteri.\n\nParagraf 3\nKesehatan Keuangan Dana Jaminan Sosial Ketenagakerjaan"
+   }
+  },
+  {
+   "id": "ID-H2270-A46",
+   "no": 46,
+   "noLabel": {
+    "id": "Pasal 46"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 46\n\nKesehatan keuangan aset Dana Jaminan Sosial\nKetenagakerjaan sebagaimana dimaksud dalam Pasal 42\nhuruf b yang mengalami S urplus pada suatu tahun\nsebagaimana dimaksud dalam Pasal 4 3 huruf a digunakan\nuntuk menambah Aset Bersih  Dana Jaminan Sosial\nKetenagakerjaan."
+   }
+  },
+  {
+   "id": "ID-H2270-A47",
+   "no": 47,
+   "noLabel": {
+    "id": "Pasal 47"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 47\n\n(1) Kesehatan keuangan sebagaimana dimaksud dalam Pasal\nPasal 46, untuk Dana Jaminan Sosial Jaminan kecelakaan\nkerja dan Dana Jaminan Sosial Jaminan kematian,\nmasing-masing diukur dengan jumlah Aset Bersih sebagai\nberikut:\na. paling sedikit harus mencukup estimasi pembayaran\nklaim untuk satu bulan kedepan; dan\nb. paling banyak sebesar estimasi pembayaran klaim\nuntuk 12 (dua belas) bulan kedepan.\n(2) Estimasi pembayaran klaim sebagaimana dimaksud pada\nayat (1) dihitung berdasarkan rata -rata klaim bulanan\nselama 12 (dua belas) bulan terakhir sejak t anggal\npelaporan.\n(3) Dalam hal pelaporan disusun per tanggal 31 Desember\ntahun berjalan, estimasi klaim bulanan dihitung\nberdasarkan total klaim dari 1 Januari sampai dengan 31\nDesember tahun berjalan dan kemudian dibagi 12 (dua\nbelas).\n(4) Dalam hal Aset Bersih  Dana Jaminan Sosial kecelakaan\nkerja dan Dana Jaminan Sosial k ematian per akhir tahun\ntidak memenuhi ketentuan sebagaimana dimaksud pada\nayat (1), paling sedikit dapat dilakukan tindakan:\na. penyesuaian Dana Operasional;\n     b. penyesuaian . . .\n\n\n\nb. penyesuaian besaran Iuran; dan/atau\nc. penyesuaian manfaat.\n(5) Ketentuan kesehatan keuangan sebagaimana dimaksud\ndalam Pasal 46  untuk Dana Jaminan Sosial hari tua\ndiukur berdasarkan  kemampuan aset Dana Jaminan\nSosial hari tua untuk membayar seluruh kewajiban\nprogram jaminan hari tua kepada peserta."
+   }
+  },
+  {
+   "id": "ID-H2270-A48",
+   "no": 48,
+   "noLabel": {
+    "id": "Pasal 48"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 48\n\n(1) Dalam hal Aset Bersih  Dana Jaminan Sosial kecelakaan\nkerja dan  Dana Jaminan Sosial k ematian bernilai negatif\nsebagaimana dimaksud dalam Pasal 4 3 huruf b,\nPemerintah dapat melakukan tindakan khusus.\n(2) Tindakan khusus sebagaimana dimaksud pada ay at (1)\npaling sedikit dilakukan melalui:\na. penyesuaian besaran Iuran sesuai dengan ketentuan\nperaturan perundang-undangan;\nb. pemberian dana tambahan untuk kecukupan Dana\nJaminan Sosial Ketenagakerjaan  sesuai dengan\nketentuan peraturan perundang-undangan; dan/atau\nc. penyesuaian manfaat sesuai dengan ketentuan\nperaturan perundang-undangan."
+   }
+  },
+  {
+   "id": "ID-H2270-A49",
+   "no": 49,
+   "noLabel": {
+    "id": "Pasal 49"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 49\n\n(1) Dalam hal terjadi kesulitan likuiditas Dana Jaminan Sosial\nKetenagakerjaan sebagaimana dimaksud dalam Pasal 4 3\nhuruf c , BPJS Ketenagakerjaan dapat memberikan dana\ntalangan kepada Dana Jaminan Sosial Ketenagakerjaan.\n(2) Dana talangan sebagaimana dimaksud pada ayat (1) paling\nbanyak 10% (sepuluh persen) dari aset BPJS\nKetenagakerjaan.\n(3) Penggantian pinjaman dilakukan setelah Aset Bersih Dana\nJaminan Sosial Ketenagakerjaan  bernilai positif dan\npenggantian tersebut tidak mengakibatkan Aset Bersih\nDana Jaminan Sosial Ketenagakerjaan  kembali bernilai\nnegatif.\n(4) Penggantian pinjaman sebagaimana dimaksud pada ayat\n(3) dapat dilakukan secara bertahap.\n                  Bagian . . .\n\n\n\nBagian Ketujuh\nPertanggungjawaban"
+   }
+  },
+  {
+   "id": "ID-H2270-A50",
+   "no": 50,
+   "noLabel": {
+    "id": "Pasal 50"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 50\n\n(1) BPJS Ketenagakerjaan wajib menyusun:\na. laporan pengelolaan program dan laporan keuangan\ntahunan BPJS Ketenagakerjaan dan laporan keuangan\ntahunan Dana Jaminan Sosial Ketenagakerjaan  untuk\nperiode 1 Januari sampai dengan 31 Desember; dan\nb. laporan pengelolaan program dan laporan keuangan\nsemesteran BPJS Ketenagakerjaan dan laporan\nkeuangan semesteran Dana Jaminan Sosial\nKetenagakerjaan yang berakhir pada 30 Juni.\n(2) Ketentuan mengenai bentuk dan isi laporan pengelolaan\nprogram sebagaimana dimaksud p ada ayat (1)\ndilaksanakan sesuai dengan ketentuan peraturan\nperundang-undangan.\n(3) Laporan keuangan tahunan sebagaimana dimaksud pada\nayat (1) termasuk laporan aktuaris yang wajib disusun\nsesuai dengan standar akuntansi keuangan yang berlaku."
+   }
+  },
+  {
+   "id": "ID-H2270-A51",
+   "no": 51,
+   "noLabel": {
+    "id": "Pasal 51"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 51\n\n(1) BPJS Ketenagakerjaan wajib menyampaikan laporan\nsebagaimana dimaksud dalam Pasal 50 ayat (1) huruf a\nyang telah diaudit  oleh akuntan publik  kepada Presiden\nsetelah mendapatkan persetujuan Dewan Pengawas  paling\nlambat tanggal  30 Juni tahun berikutnya.\n(2) Laporan s ebagaimana dimaksud pada ayat (1)\nditembuskan kepada Menteri, menteri yang\nmenyelenggarakan urusan pemerintahan di bidang\nketenagakerjaan, Otoritas Jasa Keuangan, Badan\nPemeriksa Keuangan, dan DJSN."
+   }
+  },
+  {
+   "id": "ID-H2270-A52",
+   "no": 52,
+   "noLabel": {
+    "id": "Pasal 52 "
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketujuh"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 52 . . .\n\n\n\nPasal 52\n\n(1) Presiden sewaktu-waktu dapat meminta laporan keuangan\ndan laporan kinerja BPJS Ke tenagakerjaan sebagai bahan\npertimbangan dalam pengambilan kebijakan Pemerintah\nyang berkaitan dengan penyelenggaraan Jaminan Sosial\nKetenagakerjaan.\n(2) BPJS Ketenagakerjaan dalam waktu paling lama 15 (lima\nbelas) hari kerja sejak permintaan Presiden diterima harus\nmenyampaikan laporan sebagaimana dimaksud pada ayat\n(1)."
+   }
+  },
+  {
+   "id": "ID-H2270-A53",
+   "no": 53,
+   "noLabel": {
+    "id": "Pasal 53"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 53\n\n(1) BPJS Ketenagakerjaan wajib mengumumkan laporan\npengelolaan program dan laporan keuangan tahunan yang\ntelah diaudit sebagaimana dimaksud dal am Pasal 51 ayat\n(1) dalam bentuk ringkasan pada situs ( website) BPJS dan\nmelalui paling sedikit 2 (dua) media massa cetak\nberbahasa Indonesia yang memiliki peredaran luas secara\nnasional, paling lambat tanggal 31 Juli tahun berikutnya.\n(2) Jangka waktu pengum uman pada situs ( website)\nsebagaimana dimaksud pada ayat (1), dilakukan paling\ncepat sampai dengan terbitnya laporan pengelolaan\nprogram dan laporan keuangan tahunan berikutnya.\n(3) Ketentuan mengenai bentuk dan isi ringkasan atas\nlaporan keuangan tahunan seba gaimana dimaksud pada\nayat (1), ditetapkan oleh Direksi setelah mendapat\npersetujuan Dewan Pengawas."
+   }
+  },
+  {
+   "id": "ID-H2270-A54",
+   "no": 54,
+   "noLabel": {
+    "id": "Pasal 54"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 54\n\n(1) Laporan k euangan BPJS  Ketenagakerjaan disusun dan\ndisajikan sesuai dengan standar akuntansi keuangan yang\nberlaku.\n(2) Pelaporan keuangan sebagaimana dimaksud ayat (1) wajib\ndisajikan secara terpisah pada masing -masing program\nJaminan Sosial Ketenagakerjaan  dan BPJS\nKetenagakerjaan.\n\n                   BAB IV . . .\n\n\n\nBAB IV\nPENGAWASAN PENGELOLAAN\nASET JAMINAN SOSIAL KETENAGAKERJAAN"
+   }
+  },
+  {
+   "id": "ID-H2270-A55",
+   "no": 55,
+   "noLabel": {
+    "id": "Pasal 55"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 55\n\nPengawasan pengelolaan aset Jaminan Sos ial\nKetenagakerjaan sebagaimana dimaksud dalam Pasal 3 ayat\n(3) huruf c dilakukan melalui pengawasan:\na. internal; dan\nb. eksternal."
+   }
+  },
+  {
+   "id": "ID-H2270-A56",
+   "no": 56,
+   "noLabel": {
+    "id": "Pasal 56"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 56\n\nPengawasan internal terhadap penyelenggaraan program\nJaminan Sosial Ketenagakerjaan sebagaimana dimaksud\ndalam Pasal 55 huruf a dilakukan oleh Dewan Pengawas dan\nsatuan pengawas internal."
+   }
+  },
+  {
+   "id": "ID-H2270-A57",
+   "no": 57,
+   "noLabel": {
+    "id": "Pasal 57"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 57\n\n(1) Pengawasan Eksternal penyelenggaraan program Jaminan\nSosial Ketenagakerjaan sebagaimana dimaksud dalam\nPasal 55 huruf b  dilakukan oleh DJSN dan lembaga\npengawas independen.\n(2) Pengawasan independen sebagaimana dimaksud pada ayat\n(1) dilakukan oleh Otoritas Jasa Keuangan.\n(3) Dalam hal tertentu sesuai dengan kewenangannya, Badan\nPemeriksa Keuangan dapat melakukan pemeriksaan.\n(4) Pengawasan eksternal oleh DJSN, dilakukan terhadap\nkinerja BPJS Ke tenagakerjaan dalam penyelenggaraan\nprogram Jaminan Sosial Ketenagakerjaan.\n(5) Pengawasan eksternal oleh Otoritas Jasa Keuangan dan\npemeriksaan oleh Badan Pemeriksa Keuangan\nsebagaimana dimaksud pada ayat (2) dan ayat (3)\ndilakukan sesuai dengan ketent uan peraturan perundang-\nundangan."
+   }
+  },
+  {
+   "id": "ID-H2270-A58",
+   "no": 58,
+   "noLabel": {
+    "id": "Pasal 58 "
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 58 . . .\n\n\n\nPasal 58\n\n(1) Dalam rangka pengendalian intern, Direksi membentuk\nSatuan Pengawasan Internal atau disingkat SPI.\n(2) Satuan Pengawas Internal terdiri atas beberapa tenaga\npengawas internal yang dipimpin oleh Kepala Satuan\nPengawas Internal.\n(3) Ruang lingkup pengawasan internal mencakup\npengawasan internal terhadap dana Investasi BPJS\nKetenagakerjaan, aset BPJS Ketenagakerjaan, pembinaan\nsumber daya manusia , belanja modal untuk operasional\nBPJS Ketenagakerjaan, dan kegiatan operas ional BPJS\nKetenagakerjaan, baik di pusat maupun di daerah.\n(4) Pengawas internal menjalankan tugas pemeriksaan secara\nbebas dan mandiri sesuai kode etik pemeriksaan.\n(5) Pengawas i nternal memiliki akses terhadap seluruh\ndokumen, pencatatan, personal , dan fisik ke kayaan di\nseluruh unit kerja BPJS Ketenagakerjaan untuk\nmendapatkan data dan informasi yang berkaitan dengan\npelaksanaan tugas pemeriksanan.\n(6) Pengawas i nternal dilarang mempunyai hubungan\npertalian ke atas dan ke bawah sampai derajat kedua\ndengan jajaran pimpinan obyek pemeriksaan.\n(7) Pengawas i nternal melakukan penilaian risiko dalam\npengelolaan dan pengembangan dana BPJS\nKetenagakerjaan dan Aset BPJS Ketenagakerjaan yang\nmeliputi proses -proses identifikasi, analisis , dan\npengukuran risiko yang relevan sesuai tujuan BPJS\nKetenagakerjaan dalam penyelenggaraan program-program\nBPJS Ketenagakerjaan."
+   }
+  },
+  {
+   "id": "ID-H2270-A59",
+   "no": 59,
+   "noLabel": {
+    "id": "Pasal 59"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 59\n\nKetentuan lebih lanjut mengenai kode etik pemeriksaan,\nruang lingkup, prinsip -prinsip, dan prosedur pengawasan\ninternal diatur dengan peraturan Direksi."
+   }
+  },
+  {
+   "id": "ID-H2270-A60",
+   "no": 60,
+   "noLabel": {
+    "id": "Pasal 60 "
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 60 . . .\n\n\n\nPasal  60\n\n(1) Laporan pengelolaan program dan laporan keuangan\ntahunan diaudit oleh akuntan publik paling lambat\ntanggal 30 Juni tahun berikutnya.\n(2) Akuntan publik sebagaimana dimaksud pada ayat (1)\nditunjuk oleh Dewan Pengawas.\n(3) Otoritas Jasa Keuangan berwena ng memeriksa dan\nmengawasi kinerja BPJS Ketenagakerjaan, mengenai:\na. kepatuhan BPJS Ketenagakerjaan terhadap peraturan\nmengenai kesehatan keuangan badan hukum milik\nnegara;\nb. persediaan cadangan teknis program Jaminan Sosial\nKetenagakerjaan.\n(4) DJSN melakukan pen gawasan, pemantauan, dan evaluasi\npelaksanaan program 4 (empat) kali dalam 1 (satu) tahun.\n(5) Dalam hal tertentu sesuai dengan kewenangannya Badan\nPemeriksa Keuangan dapat melakukan pemeriksaan.\n\n BAB V\nMONITORING DAN EVALUASI"
+   }
+  },
+  {
+   "id": "ID-H2270-A61",
+   "no": 61,
+   "noLabel": {
+    "id": "Pasal 61"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 61\n\n(1) DJSN melakukan monit oring dan evaluasi kondisi\nkesehatan keuangan BPJS Ketenagakerjaan dan Dana\nJaminan Sosial Ketenagakerjaan.\n(2) DJSN wajib menyampaikan hasil monitoring dan evaluasi\nkondisi kesehatan keuangan sebagaimana dimaksud pada\nayat (1) kepada Presiden.\n(3) DJSN menyelengg arakan rapat koordinasi untuk\nmenyampaikan hasil monitoring dan evaluasi kondisi\nkesehatan keuangan sebagaimana dimaksud pada ayat (1)\ndengan menteri terkait paling sedikit  6 (enam) bulan\nsekali.\n(4) Dalam hal hasil monitoring dan evaluasi kondisi\nkesehatan keuangan sebagaimana dimaksud pada ayat (2)\ndinilai berpotensi menimbulkan risiko fiskal dalam\npenyelenggaraan program Jaminan Sosial\nKetenagakerjaan, Menteri berkoordinasi dengan DJSN dan\npihak terkait untuk melakukan tindak lanjut atas hasil\nmonitoring dan evaluasi.\n                   BAB V . . .\n\n\n\nBAB V\nKETENTUAN LAIN-LAIN"
+   }
+  },
+  {
+   "id": "ID-H2270-A62",
+   "no": 62,
+   "noLabel": {
+    "id": "Pasal 62"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 62\n\n(1) Dana peningkatan kesejahteraan peserta yang\ndiselenggarakan oleh PT . Jamsostek (P ersero) yang\ndialihkan menjadi aset BPJS Ketenagakerjaan sebelum\nberlakunya Peraturan Pemerintah ini tetap\ndiselenggarakan dalam bentuk layanan manfaat tambahan\nsampai dengan 30 Juni 2015.\n(2) Layanan manfaat tambahan sebagaimana dimaksud pada\nayat (1) setelah 30 Juni 2015 diselenggarakan sesuai\ndengan ketentuan peraturan perundang-undangan.\n(3) Ketentuan  lebih lanjut mengenai pelaksana an manfaat\nlayanan tambahan sebagaimana dimaksud pada ayat (1)\ndiatur dengan Peraturan BPJS Ketenagakerjaan.\n\nBAB VI\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H2270-A63",
+   "no": 63,
+   "noLabel": {
+    "id": "Pasal 63"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 63\n\nPada saat Peraturan Pemerintah ini mulai berlaku , BPJS\nKetenagakerjaan wajib menyesuaikan jenis investasi ya ng\nberasal dari pengalihan aset PT . Jamsostek (Persero)\nsebagaimana diatur dalam Peraturan Pemerintah ini paling\nlama 1 (satu) tahun sejak Peraturan Pemerintah ini mulai\nberlaku, kecuali obligasi korporasi dapat dimiliki sampai\ndengan jatuh tempo.\n\n\nBAB VII\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H2270-A64",
+   "no": 64,
+   "noLabel": {
+    "id": "Pasal 64"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 64\n\nPada saat Peraturan Pemerintah ini mulai berlaku:\na. aset dan Liabilitas dana peningkatan kesejahteraan\npeserta yang bersumber dari alokasi laba PT . Jamsostek\n(Persero) beralih menjadi aset dan Liabilitas BPJS\nKetenagakerjaan;\n             b. kegiatan . . .\n\n\n\nb. kegiatan yang berkaitan dengan aset dan Liabilitas BPJS\nKetenagakerjaan sebagaimana dimaksud pada huruf a\ntetap diselenggarakan oleh BPJS Ketenagakerjaan sesuai\ndengan ketentuan peraturan perundang -undangan dalam\nbentuk pemberian manfaat layanan tambahan b agi\npeserta dan dalam bentuk tanggung jawab sosial dan\nlingkungan paling lambat sampai dengan tanggal 30 Juni\n2015 yang pendanaannya dialokasikan sepenuhnya dari\nbagian Surplus BPJS Ketenagakerjaan;\nc. pemberian manfaat layanan tambahan bagi peserta\nsebagaimana dimaksud pada huruf b diintegrasikan ke\ndalam manfaat program jaminan kecelakaan kerja,\njaminan kematian, atau jaminan hari tua paling lambat\ntanggal 1 Juli 2015, sebagaimana diatur dalam peraturan\npemerintah mengenai program jaminan sosial\nketenagakerjaan; dan\nd. kegiatan tanggung jawab sosial dan lingkungan\nsebagaimana dimaksud pada huruf b diselaraskan dengan\nfungsi BPJS Ketenagakerjaan paling lambat tanggal 1 Juli\n2015 yang pendanaannya sepenuhnya dari bagian Surplus\nBPJS Ketenagakerjaan."
+   }
+  },
+  {
+   "id": "ID-H2270-A65",
+   "no": 65,
+   "noLabel": {
+    "id": "Pasal 65"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 65\n\nDengan berl akunya Peraturan Pemerintah ini , Peraturan\nPemerintah Nomor 22 Tahun 2004 tentang Pengelolaan dan\nInvestasi Dana Program Jaminan Sosial Tenaga Kerja\n(Lembaran Negara Republik Indonesia Nomor 76 Tahun 2004,\nTambahan Lembaran Negara Republik Indone sia Nomor\n4407), dicabut dan dinyatakan tidak berlaku."
+   }
+  },
+  {
+   "id": "ID-H2270-A66",
+   "no": 66,
+   "noLabel": {
+    "id": "Pasal 66"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 66\n\nPeraturan Pemerintah ini mulai berlaku pada tanggal 1\nJanuari 2014.\n\n\n\n\n\n\n                       Agar . . .\n\n\n\nAgar setiap orang mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan\npenempatannya dalam Lembaran Negara Republik Indonesia.\n\n\nDitetapkan di Jakarta\npada tanggal 27 Desember 2013\n\nPRESIDEN REPUBLIK INDONESIA,\n\n\n                                                                                  ttd\n\n\n                                                           DR. H. SUSILO BAMBANG YUDHOYONO\n\nDiundangkan di\npada tanggal 27 Desember 2013\n\nMENTERI HUKUM DAN HAK ASASI MANUSIA\n                 REPUBLIK INDONESIA,\n\n                                ttd\n\n AMIR SYAMSUDIN\n\n\n\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2013 NOMOR 256\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPENJELASAN\n\nATAS\n\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\n\nNOMOR 99 TAHUN 2013\n\nTENTANG\n\nPENGELOLAAN ASET JAMINAN SOSIAL KETENAGAKERJAAN\n\n\nI. UMUM\n\nPembukaan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945\ntelah mengamanatkan bahwa tujuan negara adalah untuk meningkatkan\nkesejahteraan rakyat. Dalam Perubahan Keempat Undang -Undang Dasar\nNegara Republik Indonesia Tahun 1945, tujuan tersebut semakin dipertegas\nyaitu dengan mengembangkan sistem jaminan sosial bagi kes ejahteraan\nseluruh rakyat.\n\nUndang-Undang Nomor 24 Tahun 2011 tentang Badan Penyelenggara\nJaminan Sosial (BPJS) menetapkan 2 (dua) Badan Penyelenggara Jaminan\nSosial yaitu BPJS Kesehatan dan BPJS Ketenagakerjaan untuk\nmelaksanakan program jaminan sosial na sional. BPJS Kesehatan\nmelaksanakan program jaminan kesehatan sedangkan BPJS\nKetenagakerjaan melaksanakan program jaminan kecelakaan kerja, jaminan\nkematian, jaminan hari tua, dan jaminan pensiun bagi pemberi kerja dan\npekerja penerima upah.\n\nBPJS Ketenaga kerjaan melaksanakan program -program te rsebut melalui\nkontribusi dari Iuran pemberi kerja dan pekerja. Penggunaan\nmetode tersebut memberikan implikasi bahwa kewajiban kepada pes erta\nharus dapat dipenuhi dari Iuran tersebut. Untuk itu, badan penyelenggara\nharus dapat mengelola dan mengembangkan secara terarah dana yan g\nberasal dari Iuran tersebut sehingga pemenuhan jaminan, perlindungan,\ndan peningkatan kesejahteraan tenaga kerja beserta keluarganya dapat\ndilakukan secar a optimal. Dengan  demikian, salah  satu prasyarat\nkeberhasilan pencapaian tujuan penyelenggaraan  program Jaminan Sosial\nadalah adanya keberhasilan dalam pengelolaan dana yang berasal dari Iuran\npara peserta tersebut.\n\n\n                   Sebagai . . .\n\n\n\nSebagai salah satu usaha pencapaian tujuan penyelenggaraan program\njaminan sosial ini, BPJS Ketenagakerjaan sebagai pihak pengelola program\ntersebut perlu untuk melakukan pengelolaan dan pengembangan dana\ndengan memperhatikan aspek likuiditas, solvabilitas, kehati -hatian,\nkeamanan dana, dan hasil yang memadai. Selain penera pan aspek tersebut\ndiatas, penerapan tata kelola badan penyelenggara yang baik merupakan\nfaktor yang turut mendorong tercapainya tujuan dimaksud.\nDalam rangka memberikan arahan agar BPJS Ketenagakerjaan senantiasa\ndapat melakukan pen gelolaan dan pengembang an dana program Jaminan\nSosial Ketenagakerjaan dengan baik, diperlukan adanya ketentuan\nperaturan perundang -undangan yang khusus mengatur mengenai hal\ntersebut.\nSejalan dengan perkembangan perekonomian   nasional   dan   terbukanya\nkesempatan yang lebih l uas untuk melakukan penempatan investasi pada\njenis-jenis investasi yang baru, serta untuk mengatasi permasalahan -\npermasalahan yang timbu l berkaitan dengan pengelolaan Investasi dana\nprogram Jaminan Sosial Ketenagakerjaan tersebut kiranya ketentuan -\nketentuan mengenai pengelolaan dana dan Investasi program Jaminan\nSosial Ketenagakerjaan perlu untuk disesuaikan dengan kondisi yang\nberlaku saat ini.\nII. PASAL DEMI PASAL\n\nPasal 1\n Cukup jelas.\n\nPasal 2\nYang dimaksud dengan “aspek likuiditas ” adalah kemampuan untuk\nmemenuhi kewajiban yang harus segera dipenuhi.\nYang dimaksud dengan  “aspek solvabilitas ” adalah kemampuan\nmemenuhi seluruh kewajiban kepada peserta.\nYang dimaksud dengan “aspek kehati-hatian” adalah kemampuan untuk\nbertindak secara hati -hati dalam menge lola dana peserta dengan\nmemperhatikan batasan yang diatur dalam peraturan perundang-\nundangan.\nYang dimaksud dengan  “aspek keamanan” adalah kemungkinan dana\nyang dikelola dan hasil pengembangannya akan mampu memenuhi\nkewajiban kepada peserta.\nYang dimaksu d dengan “hasil yang memadai ” adalah perbandingan\nantara   hasil   Investasi   dan   modal   Investasinya.\n\nPasal 3\n Cukup jelas.\n               Pasal 4 . . .\n\n\n\nPasal 4\n Cukup jelas.\n\nPasal 5\n Cukup jelas.\n\nPasal 6\n Cukup jelas.\n\nPasal 7\n Cukup jelas.\n\nPasal 8\n Cukup jelas.\n\nPasal 9\n Cukup jelas.\n\nPasal 10\n Cukup jelas.\n\nPasal 11\n Cukup jelas.\n\nPasal 12\n Cukup jelas.\n\nPasal 13\n Cukup jelas.\n\nPasal 14\n Cukup jelas.\n\nPasal 15\nAyat (1)\n  Cukup jelas.\n\nAyat (2)\n  Cukup jelas.\n\n                   Ayat (3) . . .\n\n\n\nAyat (3)\n  Cukup jelas.\n\nAyat (4)\n  Cukup jelas.\n\nAyat (5)\nYang dimaksud dengan “ Liabilitas kepada peserta” adalah seluruh\nkewajiban yang menjadi hak peserta program Jaminan Sosial\nKetenagakerjaaan yang tercantum dalam laporan keuangan PT.\nJamsostek (Persero) yang menyelenggarakan program jaminan\nsosial, yang terdir i atas kewajiban program jaminan hari tua,\nprogram jaminan kecelakaan kerja, program jaminan kematian ,\ndan program jaminan pensiun.\n\nAyat (6)\nHuruf a\nCukup jelas.\n\nHuruf b\nCukup jelas.\n\nHuruf c\nDana talangan dari BPJS Ketenagakerjaan digunakan untuk\nmengatasi kesulitan likuiditas yang bersifat jangka pendek\ndan hal-hal yang insidentil.\n\nHuruf d\nCukup jelas.\n\nAyat (7)\nCukup jelas.\n\nPasal 16\nCukup jelas.\n\nPasal 17\nAyat (1)\nYang dimaksud dengan “seluruh Liabilitas” antara lain adalah:\na. utang pembelian aset tetap;\nb. utang Investasi;\nc. utang pajak;\nd. biaya yang masih harus dibayar;\n        e. pendapatan . . .\n\n\n\ne. pendapatan diterima di muka; dan/atau\nf. utang imbalan pasti pasca kerja sesuai ketentuan peraturan\nperundang-undangan.\n\nAyat (2)\nCukup jelas.\n\nPasal 18\nAyat (1)\n Cukup jelas.\n\nAyat (2)\nHuruf a\nCukup jelas.\n\nHuruf b\nYang dimaksud dengan “utang klaim ” adalah klaim yang\nsudah dilaporkan dan disetujui untuk dibayar, namun\nbelum dibayar.\n\nHuruf c\nCukup jelas.\n\nHuruf d\nYang dimaksud dengan “utang lainnya ” adalah utang  yang\nsesuai dengan standar a kuntansi keuangan yang berlaku\ndan terkait dengan penggunaan aset Dana J aminan Sosial\nkecelakaan kerja d an jaminan kematian , contohnya antara\nlain utang pajak dan utang kepada BPJS.\n\nAyat (3)\n Cukup jelas.\n\nAyat (4)\nHuruf a\nCukup jelas.\n\nHuruf b\nCukup jelas.\n\n\n\n\n\n                      Huruf c . . .\n\n\n\nHuruf c\nYang dimaksud dengan “utang lainnya ” adalah utang  yang\n sesuai dengan standar aku ntansi keuangan yang berlaku\ndan terkait dengan penggunaan aset Dana J aminan Sosial\nkecelakaan kerja d an jaminan kematian , contohnya antara\nlain utang pajak dan utang kepada BPJS.\n\nAyat (5)\n Cukup jelas.\n\nPasal 19\nPemisahan  pengelolaan  aset  juga diperlukan  agar  pend anaan\nuntuk setiap kewajiban  program jaminan  tidak digunakan untuk\npemenuhan kewajiban program jaminan yang lain.\n\nPasal 20\nAyat (1)\n Cukup jelas.\n\nAyat (2)\n Yang dimaksud dengan “aktuaris” adalah aktuaris yang\nbersertifikat FSAI dan terdaftar di lembaga yang berwenang di\nbidang otorisasi jasa keuangan.\n\nAyat (3)\n Cukup jelas.\n\nPasal 21\n Cukup jelas.\n\nPasal 22\n Cukup jelas.\n\nPasal 23\n Cukup jelas.\n\nPasal 24\n Cukup jelas.\n\nPasal 25\n Cukup jelas.\n\n                  Pasal 26 . . .\n\n\n\nPasal 26\nAyat (1)\nCukup jelas.\n\nAyat (2)\nHuruf a\nCukup jelas.\n\nHuruf b\nCukup jelas.\n\nHuruf c\nCukup jelas.\n\nHuruf d\nYang dimaksud dengan “surat utang korporasi” adalah\nsemua jenis investasi dalam bentuk surat utang yang dijual\nsecara  luas kepada  publik  sesuai  dengan  ketentuan\nperaturan perundang-undangan  yang  berlaku  di  bidang\npasar  modal.  Jenis surat utang tersebut antara lain\nobligasi, obligasi konversi, Medium Term Notes  (MTN),\nPromissory Notes  dan Floating Rate Notes  (FRN). Dengan\ndemikian badan penyelenggara  tidak diperkenankan\nmenempatkan kekayaan dalam bentuk surat utang yang\nditerbitkan dan diperjualbelikan s ecara   terbatas, misalnya\nPromissory Notes yang diterbitkan dan ditransaksikan\nsecara bilateral antara penerbit dan investor.\n\nHuruf e\nYang dimaksud dengan “saham yang tercatat dalam Bursa\nEfek” adalah seluruh penempatan Investasi dalam bentuk\nsaham yang t ercatat di Bursa Efek  baik yang  ditujukan\nuntuk diperjualbelikan, tersedia  untuk dijual, maupun\nyang ditujukan  untuk  dimiliki  dalam  jangka  panjang\ndengan maksud antara lain untuk mengendalikan investee.\n\nHuruf f\nCukup jelas.\n\nHuruf g\nCukup jelas.\n\nHuruf h\nCukup jelas.\n\n                  Huruf i . . .\n\n\n\nHuruf i\nYang dimaksud  dengan “repurchase agreement ” adalah\njenis transaksi surat berharga yang disertai perjanjian\nuntuk menjual atau membeli kembali surat b erharga\ntersebut pada jangka  waktu dan harga  yang telah\nditentukan.\n\nHuruf j\nYang dimaksud dengan “penyertaan langsung ” adalah\npenempatan investasi pada saham yang tidak tercatat di\nBursa Efek.\n\nHuruf k\nCukup jelas.\n\nPasal 27\nCukup jelas.\n\n\nPasal 28\nAyat (1)\nCukup jelas.\n\nAyat (2)\nCukup jelas.\n\nAyat (3)\nCukup jelas.\n\nAyat (4)\nCukup jelas.\n\nAyat (5)\nHuruf a\nCukup jelas.\n\nHuruf b\nYang dimaksud dengan “bidang usaha jasa keuangan ”\nadalah perusahaan jasa keuangan dengan peraturan\nperundang-undangan yang mengharuskan pemilik modal\nuntuk menambah modal dalam rangka  memenuhi ukuran\nrasio kecukupan modal minimal, sebagaimana ditetapkan\noleh lembaga yang mengawasin ya. Contoh perusahaan jasa\nkeuangan tersebut adalah lembaga perbankan dan asuransi.\n\n            Huruf c . . .\n\n\n\nHuruf c\nCukup jelas.\n\nAyat (6)\nCukup jelas.\n\nPasal 29\nCukup jelas.\n\nPasal 30\nYang dimaksud dengan “perusahaan” dalam ketentuan ini adalah\nperusahaan yang tidak terdaftar dalam Bursa Efek.\n\nPasal 31\n Cukup jelas.\n\nPasal 32\n Cukup jelas.\n\nPasal 33\n Cukup jelas.\n\nPasal 34\n Cukup jelas.\n\nPasal 35\nHuruf a\nCukup jelas.\n\nHuruf b\nCukup jelas.\n\nHuruf c\n Cukup jelas.\n\n\n\n\n                Huruf d . . .\n\n\n\nHuruf d\n Yang dimaksud dengan surat utang korporasi dalam ketentuan ini\nadalah semua jenis investasi dalam bentuk surat utang yang\ndijual  secara  luas kepada  publik  sesuai  dengan  ketentuan\nperaturan perundang-undangan  yang  berlaku  di  bidang\npasar  modal.  Jenis surat utang tersebut antara lain obligasi,\nobligasi konversi, Medium Term Notes  (MTN), Promissory Notes\ndan Floating Rate Notes  (FRN). Dengan demikian badan\npenyelenggara   tidak   diperkenankan   menempatkan kekayaan\ndalam bentuk surat utang yang diterbitkan dan diperjualbelikan\nsecara terbatas, m isalnya Promissory Notes  yang diterbitkan dan\nditransaksikan secara bilateral antara penerbit dan investor.\n\nHuruf e\n Yang dimaksud dengan saham yang tercatat dalam Bursa Efek\ndalam ketentuan  ini adalah seluruh penempatan Investasi dalam\nbentuk saham yang tercatat di Bursa Efek  baik yang ditujukan\nuntuk diperjualbelikan, tersedia untuk dijual, maupun yang\nditujukan  untuk  dimiliki  dalam  jangka  panjang dengan\nmaksud antara lain untuk mengendalikan investee.\n\nHuruf f\n Cukup jelas.\n\nHuruf g\n Cukup jelas.\n\nHuruf h\n Cukup jelas.\n\nHuruf i\n Yang dimaksud repurchase agreement  dalam ketentuan ini\nadalah jenis transaksi surat berharga yang disertai perjanjian\nuntuk menjual atau membeli kembali surat berharga tersebut\npada  jangka  waktu dan harga  yang  telah ditentukan.\n\nHuruf j\n Yang dimaksud dengan penyertaan langsung dalam ketentuan ini\nadalah penempatan investasi pada saham yang tidak tercatat di\nBursa Efek.\n\nHuruf k\n Cukup jelas.\n\n\n                 Pasal 36 . . .\n\n\n\nPasal 36\nCukup jelas.\n\nPasal 37\nCukup jelas.\n\nPasal 38\nAyat (1)\nHuruf a\nCukup jelas.\n\nHuruf b\n Cukup jelas.\n\nHuruf c\n Cukup jelas.\n\nHuruf d\n Yang dimaksud dengan surat utang korporasi dalam\nketentuan ini adalah semua jenis investasi dalam bentuk\nsurat utang yang dijual  secara  luas kepada  publik  sesuai\ndengan  ketentuan  perat uran perundang-undangan  yang\nberlaku  di  bidang  pasar  modal.  Jenis surat utang\ntersebut antara lain obligasi, obligasi konversi, Medium\nTerm Notes (MTN), Promissory Notes dan Floating Rate Notes\n(FRN). Dengan demikian badan  penyelenggara  tidak\ndiperkenankan menempatkan kekayaan dalam bentuk\nsurat utang yang diterbitkan dan diperjualbelikan secara\nterbatas, misalnya Promissory Notes  yang diterbitkan  dan\nditransaksikan secara bilateral antara penerbit dan investor.\n\nHuruf e\n Yang dimaksud dengan saham yang tercatat dalam Bursa\nEfek dalam ketentuan ini adalah seluruh penempatan\ninvestasi dalam bentuk saham yang tercatat di Bursa Efek\nbaik yang ditujukan untuk diperjualbelikan, tersedia untuk\ndijual, maupun yang ditujukan  untuk  dimiliki  dalam\njangka panjang dengan maksud antara lain untuk\nmengendalikan investee.\n\nHuruf f\n Cukup jelas.\n\n\n                 Huruf g . . .\n\n\n\nHuruf g\n Yang dimaksud repurchase agreement dalam ketentuan ini\nadalah jenis transaksi surat berharga yang disertai\nperjanjian untuk menjual atau membeli kembali surat\nberharga tersebut  pada  jangka  waktu dan harga  yang\ntelah ditentukan.\n\nHuruf h\n Cukup jelas.\n\nAyat (2)\n Cukup jelas.\n\nAyat (3)\n Cukup jelas.\n\nPasal 39\n Cukup jelas.\n\nPasal 40\n Cukup jelas.\n\nPasal 41\n  Cukup jelas.\n\nPasal 42\n  Cukup jelas.\n\nPasal 43\n  Cukup jelas.\n\nPasal 44\n Cukup jelas.\n\nPasal 45\n  Cukup jelas.\n\nPasal 46\n Cukup jelas.\n\n\n                Pasal 47 . . .\n\n\n\nPasal 47\n Cukup jelas.\n\nPasal 48\n Cukup jelas.\n\nPasal 49\nAyat (1)\nPemberian dana talangan BPJS Ketenagakerjaan kepada Dana\nJaminan Sosial Ketenagakerjaan  dalam ketent uan ini\ndimaksudkan sebagai penjabaran dari “tindakan-tindakan khusus”\nsebagaimana diatur dalam Pasal 48 Undang -Undang Nomor 40\nTahun 2004 tentang Sistem Jaminan Sosial Nasional.\n\nAyat (2)\n Cukup jelas.\n\nAyat (3)\n Cukup jelas.\n\nAyat (4)\n Cukup jelas.\n\nPasal 50\nCukup jelas.\n\nPasal 51\n  Cukup jelas.\n\nPasal 52\n  Cukup jelas.\n\nPasal 53\n Cukup jelas.\n\nPasal 54\n Cukup jelas.\n\nPasal 55\n Cukup jelas.\n                Pasal 56 . . .\n\n\n\nPasal 56\n Cukup jelas.\n\nPasal 57\n  Cukup jelas.\n\nPasal 58\n  Cukup jelas.\n\nPasal 59\n  Cukup jelas.\n\nPasal 60\n Cukup jelas.\n\nPasal 61\n Cukup jelas.\n\nPasal 62\n Ayat (1)\n Cukup jelas.\n\nAyat (2)\nYang dimaksud dengan ketentuan peraturan perundang -undangan\nadalah peraturan perundang-undangan di bidang penyelenggaraan\nprogram jaminan kecelakaan kerja dan jaminan kematian.\n\nAyat (3)\n Cukup jelas.\n\nPasal 63\nCukup jelas.\n\nPasal 64\nHuruf a\nCukup jelas.\n\n\n\n\n\n                  Huruf b . . .\n\n\n\nHuruf b\nYang dimaksud dengan “ tanggung jawab sosial dan lingkungan ”\nadalah komitmen BPJS Ketenagakerjaan untuk berperan serta\ndalam pembangunan ekonomi berkelanjutan guna menin gkatkan\nkualitas kehidupan dan lingkungan yang bermanfaat, baik bagi\nBPJS Ketenagakerjaan sendiri, komunitas setempat, maupun\nmasyarakat pada umumnya.\nHuruf c\nCukup jelas.\n\nHuruf d\nCukup jelas.\n\nPasal 65\nCukup jelas.\n\nPasal 66\nCukup jelas.\n\n\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 5486"
+   }
+  }
+ ]
+}

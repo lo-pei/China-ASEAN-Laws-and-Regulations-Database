@@ -1,0 +1,62 @@
+{
+ "id": "PH-H15048",
+ "title": {
+  "zh": null,
+  "en": "Batas Pambansa Blg. 183  An Act Creating the Municipality of Roseller Lim in the Province of Zamboanga Del Sur.",
+  "orig": "Batas Pambansa Blg. 183  An Act Creating the Municipality of Roseller Lim in the Province of Zamboanga Del Sur."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1982-03-16",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Batasang Pambansa",
+ "docNumber": "Batas Pambansa Blg. 183",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1400,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/08_国民议会法令_BP/BP_00183_1982_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 BP_00183_1982_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H15048-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Barangays Calula, Casacon, Gango, Katipunan, Kulambugan, Mabini, Magsaysay, New\nAntique, New Sagay, Siawang, Silingan, Surabay, Tilasan, and Tupilac are separated from the Municipality of\nIpil, Province of Zamboanga del Sur, and constituted into an independent and distinct municipality of the\nprovince which shall be known as the Municipality of Roseller Lim, with the seat of government in the\npresent site of Barangay Surabay."
+   }
+  },
+  {
+   "id": "PH-H15048-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The boundaries of the New Municipality of Roseller Lim shall be:\n\"Beginning from point marked ‘1’ at the center of the mouth of Gango creek; thence following the shore line\nsouthwesterly to Busan Bay to point ‘2’ at the mouth of Tupilac River; thence following Tupilac River going\nupstream until it reaches the provincial boundary of Zamboanga del Sur and Zamboanga del Norte known as\npoint ‘3’; thence following the provincial boundary of Zamboanga del Sur and Zamboanga del Norte with an\napproximate distance of 21,000 meters to point ‘4’; thence S 81 degrees 00 minutes E with a distance of\n2,350 meters to point ‘5’; thence N 15 degrees 00 minutes E with a distance of 6,500 meters to point ‘6’ at\nthe bank of Gango creek; thence south-westerly following Gango creek downstream with a distance of 1,200\nmeters to point ‘7’; thence south easterly following Gango creek downstream with approximate distance of\n9,800 meters to point ‘1’ which is the point of beginning.\""
+   }
+  }
+ ]
+}

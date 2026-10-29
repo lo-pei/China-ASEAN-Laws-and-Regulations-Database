@@ -1,0 +1,72 @@
+{
+ "id": "PH-H11114",
+ "title": {
+  "zh": null,
+  "en": "AN ACT SO AMENDING ACT NUMBERED ONE HUNDRED AND FORTY, ENTITLED \"AN ACT DEFINING THE JUDICIAL DISTRICTS OF THE PHILIPPINE ISLANDS, PRESCRIBING THE SALARIES OF THE JUDGES THEREOF, AND THE TIMES WHEN AND THE PLACES WHERE TERMS OF COURTS OF FIRST INSTANCE SHALL BE HELD IN THE SEVERAL DISTRICTS\" AS TO AUTHORIZE ACTIONS PENDING IN CERTAIN PROVINCES TO BE TRIED AT ANOTHER PLACE IN THE PROVINCE THAN THE ONE REQUIRED BY SAID ACT.",
+  "orig": "AN ACT SO AMENDING ACT NUMBERED ONE HUNDRED AND FORTY, ENTITLED \"AN ACT DEFINING THE JUDICIAL DISTRICTS OF THE PHILIPPINE ISLANDS, PRESCRIBING THE SALARIES OF THE JUDGES THEREOF, AND THE TIMES WHEN AND THE PLACES WHERE TERMS OF COURTS OF FIRST INSTANCE SHALL BE HELD IN THE SEVERAL DISTRICTS\" AS TO AUTHORIZE ACTIONS PENDING IN CERTAIN PROVINCES TO BE TRIED AT ANOTHER PLACE IN THE PROVINCE THAN THE ONE REQUIRED BY SAID ACT."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 401",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1415,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_00401_1902_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_00401_1902_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H11114-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section five of Act Numbered One hundred and forty, entitled \"An Act defining the judicial\ndistricts of the Philippine Islands, prescribing the salaries of the judges thereof, and the times when and the\nplaces where terms of Court of First Instance shall be held in the several districts,\" is hereby amended by\nadding at the end thereof the following words:\n\" Any action, civil or criminal, now or hereafter pending in any province where two or more places are fixed\nby law for holding sessions of the Court of First Instance within the province may be heard and tried at either\nplace provided by law for holding regular terms of court: within the province, whenever the judge of the\ndistrict within which the province is situated shall, because the public good, in his judgment, so requires, so\norder; but this provision shall not authorize a judge to discontinue the regular terms at places provided by\nlaw, nor to make such transfer of the place of trial of any particular action or proceeding except in special\ninstances when the public good in his judgment so requires. \""
+   }
+  },
+  {
+   "id": "PH-H11114-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The public good requiring the speedy enactment of this bill, the passage of the same is hereby\nexpedited in accordance with section two of \"An Act prescribing the order of procedure by the Commision in\nthe enactment of laws,\" passed September twenty-sixth, nineteen hundred."
+   }
+  },
+  {
+   "id": "PH-H11114-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted. May 16, 1902."
+   }
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "id": "PH-H21900",
+ "title": {
+  "zh": null,
+  "en": "Amending Presidential Decree No. 1 DatedSeptember 24, 1922, Relative to Part XX of the Integrated Reorganization Plan",
+  "orig": "Amending Presidential Decree No. 1 DatedSeptember 24, 1922, Relative to Part XX of the Integrated Reorganization Plan"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p159",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1974-05-23",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 466",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 2072,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_00466_1974_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_00466_1974_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H21900-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Presidential Decree No. 1, dated September 24, 1872, relative to Article II, Part XX of the\nIntegrated Reorganization Plan is hereby amended to read as follows:\n\"Article II National Police Commission\n\"1. The present Police Commission is converted into a National Police Commission, hereinafter referred to as\nthe Commission.\n\"2. The governing body of the Commission shall be composed of a Chairman and six members. The Chairman\nand members of the Commission shall serve full time in the Commission, provided that the President of the\nPhilippines may, in his discretion, appoint the Chief of Constabulary and the director of the National Bureau\nof Investigation as members of the Commission in a concurrent capacity, for which purpose separate\nappointments may be extended to them as such members.\n\"No person shall be appointed Chairman or member of the Commission unless he is a member of the\nPhilippine Bar or a holder of at least a Bachelor's degree in Police Administration or Criminology. The\nChairman and at least two of the members shall have had experience in law enforcement work for at least ten\n\"3. The Chairman and members of the Commission shall be appointed by the President of the Philippines for a\nterm of six years. Of those first appointed, the Chairman shall hold office for six years, two members for four\nyears, the other two members for three years, and the last two for two years; provided that the incumbent\nChairman and members of the present Police Commission shall continue to serve in the new Commission in\naccordance with Paragraph 14, Article I, Chapter I of Part XXIII of this Plan.\n\"The Chairman and members of the Commission shall be removed from Office only for cause. All vacancies\nin the Commission except through expiration of term, shall be filed for the unexpired term only.\""
+   }
+  },
+  {
+   "id": "PH-H21900-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "All laws, decrees, rules and regulations inconsistent herewith are hereby repealed or modified\naccordingly."
+   }
+  },
+  {
+   "id": "PH-H21900-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This decree shall take effect immediately.\nDONE in the City of Manila, this 23rd day of May, in the year of Our Lord, nineteen hundred and\nseventy-four."
+   }
+  }
+ ]
+}

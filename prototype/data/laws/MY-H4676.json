@@ -1,0 +1,234 @@
+{
+ "id": "MY-H4676",
+ "title": {
+  "zh": "2021年传染病预防与控制（疫区地方措施）（行动管制）（第2号）（修正）条例",
+  "en": "PREVENTION AND CONTROL OF INFECTIOUS DISEASES (MEASURES WITHIN INFECTED LOCAL AREAS) (MOVEMENT CONTROL) (NO. 2) (AMENDMENT) REGULATIONS 2021",
+  "orig": "PREVENTION AND CONTROL OF INFECTIOUS DISEASES (MEASURES WITHIN INFECTED LOCAL AREAS) (MOVEMENT CONTROL) (NO. 2) (AMENDMENT) REGULATIONS 2021",
+  "vi": "Quy định về Phòng chống bệnh truyền nhiễm (Các biện pháp trong khu vực bị nhiễm bệnh) (Kiểm soát di chuyển) (số 2) (Sửa đổi) năm 2021",
+  "th": "ข้อบังคับการป้องกันและควบคุมโรคติดต่อ (มาตรการในท้องที่ที่ติดเชื้อ) (การควบคุมการเคลื่อนย้าย) (ฉบับที่ 2) (การแก้ไข) ค.ศ. 2021",
+  "id": "Peraturan Pencegahan dan Pengendalian Penyakit Menular (Tindakan di Wilayah Lokal Terinfeksi) (Pengendalian Mobilitas) (Nomor 2) (Perubahan) Tahun 2021",
+  "ms": "Peraturan Pencegahan dan Kawalan Penyakit Berjangkit (Langkah dalam Kawasan Tempatan Berjangkit) (Kawalan Pergerakan) (Bilangan 2) (Pindaan) 2021"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-10",
+ "language": "en",
+ "level": "regulation",
+ "category": "05_其他及未分类",
+ "status": "active",
+ "promulgatedDate": "2021",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "PUA33",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 16,
+ "chars": 2807,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-view.php?type=pua&no=P.U. (A) 33/2021&status=AMENDMENT"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\05_其他及未分类\\2021_P.U.(A)33-2021_PREVENTION AND CONTROL OF INFECTIOUS DISEASES (MEASURES WITHIN INFECTED LOCAL AREAS) (MOVEMENT.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 16 条；逐字未改写（源自厂商 OCR 文本）。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H4676-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "1. Negeri Johor 22.1.2021 – 4.2.2021"
+   }
+  },
+  {
+   "id": "MY-H4676-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "2. Negeri Kedah 22.1.2021 – 4.2.2021"
+   }
+  },
+  {
+   "id": "MY-H4676-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "3. Negeri Kelantan 22.1.2021 – 4.2.2021"
+   }
+  },
+  {
+   "id": "MY-H4676-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "4. Negeri Melaka 22.1.2021 – 4.2.2021\n\n(1)\n\nKawasan Tempatan Jangkitan/Bahagian/Daerah\n\n(2)\n\nTempoh"
+   }
+  },
+  {
+   "id": "MY-H4676-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "5. Negeri Sembilan 22.1.2021 – 4.2.2021"
+   }
+  },
+  {
+   "id": "MY-H4676-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "6. Negeri Pahang 22.1.2021 – 4.2.2021"
+   }
+  },
+  {
+   "id": "MY-H4676-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "7. Negeri Pulau Pinang 22.1.2021 – 4.2.2021"
+   }
+  },
+  {
+   "id": "MY-H4676-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "8. Negeri Perak 22.1.2021 – 4.2.2021"
+   }
+  },
+  {
+   "id": "MY-H4676-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "9. Negeri Perlis 22.1.2021 – 4.2.2021"
+   }
+  },
+  {
+   "id": "MY-H4676-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "10. Negeri Sabah 22.1.2021 – 4.2.2021"
+   }
+  },
+  {
+   "id": "MY-H4676-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "11. Negeri Selangor 22.1.2021 – 4.2.2021"
+   }
+  },
+  {
+   "id": "MY-H4676-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "12. Negeri Terengganu 22.1.2021 – 4.2.2021"
+   }
+  },
+  {
+   "id": "MY-H4676-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "13. Wilayah Persekutuan Kuala Lumpur 22.1.2021 – 4.2.2021"
+   }
+  },
+  {
+   "id": "MY-H4676-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "14. Wilayah Persekutuan Putrajaya 22.1.2021 – 4.2.2021"
+   }
+  },
+  {
+   "id": "MY-H4676-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "15. Wilayah Persekutuan Labuan 22.1.2021 – 4.2.2021"
+   }
+  },
+  {
+   "id": "MY-H4676-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "16. Bahagian Sibu, Negeri Sarawak 30.1.2021 – 14.2.2021\".\n\nDibuat 29 Januari 2021\n\n[KKM.600-29/4/146 Jld.2 (30); PN(PU2)470/VI]\n\n DATO' SRI DR. ADHAM BIN BABA\n\n Menteri Kesihatan\n\nPREVENTION AND CONTROL OF INFECTIOUS DISEASES ACT 1988\n\nPREVENTION AND CONTROL OF INFECTIOUS DISEASES\n\n(MEASURES WITHIN INFECTED LOCAL AREAS) (MOVEMENT CONTROL) (NO. 2)\n\n(AMENDMENT) REGULATIONS 2021\n\nIN exercise of the powers conferred by subsection 11(2) of the\n\nPrevention and Control of Infectious Diseases Act 1988 [Act 342], the Minister makes\n\nthe following regulations:\n\nCitation and commencement\n\n1. (1) These regulations may be cited as the Prevention and Control of\n\nInfectious Diseases (Measures within Infected Local Areas) (Movement Control)\n\n(No. 2) (Amendment) Regulations 2021.\n\n(2) These Regulations come into operation on 30 January 2021.\n\nSubstitution of First Schedule\n\n2. The Prevention and Control of Infectious Diseases (Measures within\n\nInfected Local Areas) (Movement Control) (No. 2) Regulations 2021 [P.U. (A) 21/2021]\n\nare amended by substituting for the First Schedule the following schedule:\n\n\"FIRST SCHEDULE\n\nAPPLICATION\n\n[Regulation 2]\n\n(1)\n\nInfected Local Area/Division/District\n\n(2)\n\nPeriod\n\n1. State of Johore 22.1.2021 – 4.2.2021\n\n2. State of Kedah 22.1.2021 – 4.2.2021\n\n3. State of Kelantan 22.1.2021 – 4.2.2021\n\n4. State of Malacca 22.1.2021 – 4.2.2021\n\n5. State of Negeri Sembilan 22.1.2021 – 4.2.2021\n\n(1)\n\nInfected Local Area/Division/District\n\n(2)\n\nPeriod\n\n6. State of Pahang 22.1.2021 – 4.2.2021\n\n7. State of Penang 22.1.2021 – 4.2.2021\n\n8. State of Perak 22.1.2021 – 4.2.2021\n\n9. State of Perlis 22.1.2021 – 4.2.2021\n\n10. State of Sabah 22.1.2021 – 4.2.2021\n\n11. State of Selangor 22.1.2021 – 4.2.2021\n\n12. State of Terengganu 22.1.2021 – 4.2.2021\n\n13. Federal Territory of Kuala Lumpur 22.1.2021 – 4.2.2021\n\n14. Federal Territory of Putrajaya 22.1.2021 – 4.2.2021\n\n15. Federal Territory of Labuan 22.1.2021 – 4.2.2021\n\n16. Division of Sibu, State of Sarawak 30.1.2021 – 14.2.2021\".\n\nMade 29 January 2021\n\n[KKM.600-29/4/146 Jld.2 (30); PN(PU2)470/VI]\n\nDATO' SRI DR. ADHAM BIN BABA\n\nMinister of Health"
+   }
+  }
+ ]
+}

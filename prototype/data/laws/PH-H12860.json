@@ -1,0 +1,72 @@
+{
+ "id": "PH-H12860",
+ "title": {
+  "zh": null,
+  "en": "An Act Appropriating Funds for Expenses of Special Investigations and Examinations By the Insular Auditor During the Fiscal Year Nineteen Hundred and thirteen.",
+  "orig": "An Act Appropriating Funds for Expenses of Special Investigations and Examinations By the Insular Auditor During the Fiscal Year Nineteen Hundred and thirteen."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1912-02-06",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2154",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 785,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1912/act_2154_1912.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02154_1912_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02154_1912_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12860-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The sum of thirty thousand pesos, or such part thereof as may be necessary, is hereby\nappropriated, out of any funds in the Insular Treasury not otherwise appropriated, to enable the Auditor to\ncarry on such special investigations and make such special examinations of financial affairs and accounts of\nsuch Bureaus, Offices, provinces, and municipalities of the Government of the Philippine Islands, as in his\njudgment may require such action."
+   }
+  },
+  {
+   "id": "PH-H12860-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The Auditor shall make a report of the result of his investigations to the head of the Department\nunder whose executive control the Bureau or Office affected may be, who shall transmit the same to the\nPhilippine Legislature at its next session."
+   }
+  },
+  {
+   "id": "PH-H12860-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on July first, nineteen hundred and twelve.\nEnacted, February 6, 1912."
+   }
+  }
+ ]
+}

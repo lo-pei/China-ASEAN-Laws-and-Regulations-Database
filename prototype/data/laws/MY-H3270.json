@@ -1,0 +1,66 @@
+{
+ "id": "MY-H3270",
+ "title": {
+  "zh": "2012年药剂师注册（附表二修正）令",
+  "en": "REGISTRATION OF PHARMACISTS (AMENDMENT OF SECOND SCHEDULE) ORDER 2012",
+  "orig": "REGISTRATION OF PHARMACISTS (AMENDMENT OF SECOND SCHEDULE) ORDER 2012",
+  "ms": "Perintah Pendaftaran Ahli Farmasi (Pindaan Jadual Kedua) 2012",
+  "vi": "Lệnh về Đăng ký dược sĩ (Sửa đổi Phụ lục thứ hai) năm 2012",
+  "th": "คำสั่งการขึ้นทะเบียนเภสัชกร (การแก้ไขภาคผนวกที่สอง) ค.ศ. 2012",
+  "id": "Perintah Registrasi Apoteker (Perubahan Lampiran Kedua) Tahun 2012"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-7",
+ "language": "ms",
+ "level": "regulation",
+ "category": "04_劳工与行政法",
+ "status": "active",
+ "promulgatedDate": "2012",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "PUA255",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 2,
+ "chars": 289,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-view.php?type=pua&no=P.U. (A) 255/2012&status=PINDAAN"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\04_劳工与行政法\\2012_P.U.(A)255-2012_REGISTRATION OF PHARMACISTS (AMENDMENT OF SECOND SCHEDULE) ORDER 2012.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 2 条；逐字未改写（源自厂商 OCR 文本）。原文马来文/英文双语并置，已分别落 text.ms 与 text.en。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H3270-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "1. Perintah ini bolehlah dinamakan Perintah Pendaftaran Ahli Farmasi\n\n(Pindaan Jadual Kedua) 2012.\n\nPindaan Jadual Kedua"
+   }
+  },
+  {
+   "id": "MY-H3270-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "2. Akta Pendaftaran Ahli Farmasi 1951 [Akta 371] dipinda dengan menggantikan\n\nJadual Kedua dengan jadual yang berikut:\n\n\"JADUAL KEDUA\n\n[Subseksyen 6A(2)]\n\nSENARAI PREMIS"
+   }
+  }
+ ]
+}

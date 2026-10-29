@@ -1,0 +1,72 @@
+{
+ "id": "PH-H21679",
+ "title": {
+  "zh": null,
+  "en": "Prohibiting the Exportation of Abaca Seedlings",
+  "orig": "Prohibiting the Exportation of Abaca Seedlings"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p159",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1973-06-16",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 216",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 689,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_00216_1973_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_00216_1973_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H21679-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "It shall be unlawful for any person, corporation, firm or association to export to any foreign\ncountry seedlings of the plant known as \"abaca.\""
+   }
+  },
+  {
+   "id": "PH-H21679-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Any person who violates this Decree shall, upon conviction, be punished by fine of not less than\nfive thousand pesos nor more than twenty thousand pesos or by imprisonment ranging from prision\ncorreccional to prision mayor, or both fine and imprisonment in the discretion of the court/tribunal."
+   }
+  },
+  {
+   "id": "PH-H21679-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Decree shall take effect immediately after publication in the Official Gazette or in a\nnewspaper of general circulation in the country.\nDone in the City of Manila, this 16th day of June, in the year of Our Lord, nineteen hundred and\nseventy-three."
+   }
+  }
+ ]
+}

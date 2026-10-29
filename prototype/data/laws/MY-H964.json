@@ -1,0 +1,786 @@
+{
+ "id": "MY-H964",
+ "title": {
+  "zh": "2014年马来西亚橡胶局（发牌与许可证）条例",
+  "en": "MALAYSIAN RUBBER BOARD (LICENSING AND PERMIT) REGULATIONS 2014",
+  "orig": "MALAYSIAN RUBBER BOARD (LICENSING AND PERMIT) REGULATIONS 2014",
+  "ms": "Peraturan Lembaga Getah Malaysia (Pelesenan dan Permit) 2014",
+  "vi": "Quy định về Ủy ban Cao su Malaysia (Cấp phép và giấy phép) năm 2014",
+  "th": "ข้อบังคับคณะกรรมการยางมาเลเซีย (การออกใบอนุญาต) ค.ศ. 2014",
+  "id": "Peraturan Dewan Karet Malaysia (Perizinan dan Izin) Tahun 2014"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-17",
+ "language": "ms",
+ "level": "regulation",
+ "category": "04_劳工与行政法",
+ "status": "active",
+ "promulgatedDate": "2014",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "PUA119",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 62,
+ "chars": 131664,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-view.php?type=pua&no=P.U. (A) 119/2014&status=PRINCIPAL"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\04_劳工与行政法\\2014_P.U.(A)119-2014_MALAYSIAN RUBBER BOARD (LICENSING AND PERMIT) REGULATIONS 2014.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 62 条；逐字未改写（源自厂商 OCR 文本）；已清除正文中的 1 个控制字符（C0/C1 区，法律文本中无合法用途，系 PDF 抽取/表单域残留）。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H964-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "1. Nama dan permulaan kuat kuasa"
+   }
+  },
+  {
+   "id": "MY-H964-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "2. Tafsiran\n\nBAHAGIAN II\n\nLESEN"
+   }
+  },
+  {
+   "id": "MY-H964-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "3. Aktiviti untuk dilesenkan"
+   }
+  },
+  {
+   "id": "MY-H964-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "4. Permohonan bagi lesen"
+   }
+  },
+  {
+   "id": "MY-H964-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "5. Pengeluaran lesen"
+   }
+  },
+  {
+   "id": "MY-H964-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "6. Pematuhan syarat yang dikenakan ke atas lesen"
+   }
+  },
+  {
+   "id": "MY-H964-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "7. Aktiviti yang dilarang oleh lesen"
+   }
+  },
+  {
+   "id": "MY-H964-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "8. Pembaharuan lesen"
+   }
+  },
+  {
+   "id": "MY-H964-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "9. Kesahan lesen"
+   }
+  },
+  {
+   "id": "MY-H964-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "10. Penggantungan dan pembatalan lesen"
+   }
+  },
+  {
+   "id": "MY-H964-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "11. Pembatalan lesen"
+   }
+  },
+  {
+   "id": "MY-H964-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "12. Pemindahan atau penyerahhakan lesen"
+   }
+  },
+  {
+   "id": "MY-H964-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "13. Penyerahan balik lesen"
+   }
+  },
+  {
+   "id": "MY-H964-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "14. Perkongsian dalam lesen"
+   }
+  },
+  {
+   "id": "MY-H964-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "15. Pindaan lesen atas permintaan"
+   }
+  },
+  {
+   "id": "MY-H964-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "16. Salinan terperaku lesen"
+   }
+  },
+  {
+   "id": "MY-H964-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "17. Mempamerkan lesen, papan tanda perniagaan, dsb."
+   }
+  },
+  {
+   "id": "MY-H964-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "18. Pemberitahuan perubahan dalam maklumat yang diberikan"
+   }
+  },
+  {
+   "id": "MY-H964-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "19. Penerusan syarat lesen dalam hal perubahan penghunian\n\nPeraturan"
+   }
+  },
+  {
+   "id": "MY-H964-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "20. Penyenggaraan rekod dan dokumen"
+   }
+  },
+  {
+   "id": "MY-H964-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "21. Daftar Lesen\n\nBAHAGIAN III\n\nPERMIT"
+   }
+  },
+  {
+   "id": "MY-H964-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "22. Aktiviti yang menghendakkan permit"
+   }
+  },
+  {
+   "id": "MY-H964-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "23. Permohonan bagi permit"
+   }
+  },
+  {
+   "id": "MY-H964-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "24. Pengeluaran permit"
+   }
+  },
+  {
+   "id": "MY-H964-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "25. Syarat khas bagi Permit Autoriti Transaksi Getah"
+   }
+  },
+  {
+   "id": "MY-H964-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "26. Aktiviti yang dilarang di bawah Permit Autoriti Transaksi Getah"
+   }
+  },
+  {
+   "id": "MY-H964-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 27"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "27. Syarat khas bagi Permit PST-G"
+   }
+  },
+  {
+   "id": "MY-H964-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 28"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "28. Syarat khas bagi Permit Eksport"
+   }
+  },
+  {
+   "id": "MY-H964-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Section 29"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "29. Pematuhan syarat yang dikenakan ke atas permit"
+   }
+  },
+  {
+   "id": "MY-H964-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Section 30"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "30. Pembaharuan permit"
+   }
+  },
+  {
+   "id": "MY-H964-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Section 31"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "31. Penggantungan dan pembatalan Permit PST-G"
+   }
+  },
+  {
+   "id": "MY-H964-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Section 32"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "32. Pembatalan Permit Autoriti Transaksi Getah dan Permit PST-G"
+   }
+  },
+  {
+   "id": "MY-H964-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Section 33"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "33. Penyerahan balik permit"
+   }
+  },
+  {
+   "id": "MY-H964-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "Section 34"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "34. Perkongsian dalam permit"
+   }
+  },
+  {
+   "id": "MY-H964-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "Section 35"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "35. Pindaan permit atas permintaan"
+   }
+  },
+  {
+   "id": "MY-H964-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "Section 36"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "36. Salinan terperaku permit"
+   }
+  },
+  {
+   "id": "MY-H964-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "Section 37"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "37. Pemberitahuan perubahan dalam maklumat yang diberikan"
+   }
+  },
+  {
+   "id": "MY-H964-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "Section 38"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "38. Penyenggaraan rekod dan dokumen"
+   }
+  },
+  {
+   "id": "MY-H964-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "Section 39"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "39. Daftar Permit\n\nBAHAGIAN IV\n\nPENGHANTARAN, PENGANGKUTAN DAN PENERIMAAN GETAH ATAU BAHAN\n\nTANAMAN GETAH"
+   }
+  },
+  {
+   "id": "MY-H964-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "Section 40"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "40. Penghantaran, pengangkutan dan penerimaan getah atau bahan tanaman getah\n\nPeraturan"
+   }
+  },
+  {
+   "id": "MY-H964-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "Section 41"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "41. Kebenaran bertulis untuk menghantar, mengangkut dan menerima getah atau\n\nbahan tanaman getah"
+   }
+  },
+  {
+   "id": "MY-H964-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "Section 42"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "42. Resit rasmi\n\nBAHAGIAN V\n\nPEMBUNGKUSAN DAN PENGEKSPORTAN GETAH, SARUNG TANGAN GETAH,\n\nTUMBUH-TUMBUHAN GETAH DAN BAHAN TANAMAN GETAH"
+   }
+  },
+  {
+   "id": "MY-H964-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "Section 43"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "43. Larangan terhadap pengeksportan tumbuh-tumbuhan getah atau bahan tanaman\n\ngetah tanpa kelulusan bertulis"
+   }
+  },
+  {
+   "id": "MY-H964-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "Section 44"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "44. Kehendak bagi perakuan tempat asal"
+   }
+  },
+  {
+   "id": "MY-H964-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "Section 45"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "45. Salinan terperaku perakuan tempat asal"
+   }
+  },
+  {
+   "id": "MY-H964-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "Section 46"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "46. Larangan terhadap penggunaan simbol rumah yang tidak didaftarkan"
+   }
+  },
+  {
+   "id": "MY-H964-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "Section 47"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "47. Pendaftaran simbol rumah"
+   }
+  },
+  {
+   "id": "MY-H964-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "Section 48"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "48. Pemindahan simbol rumah"
+   }
+  },
+  {
+   "id": "MY-H964-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "Section 49"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "49. Tanda bungkusan"
+   }
+  },
+  {
+   "id": "MY-H964-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "Section 50"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "50. Salah nyataan atau tanda bungkusan palsu\n\nBAHAGIAN VI\n\nRAYUAN"
+   }
+  },
+  {
+   "id": "MY-H964-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "Section 51"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "51. Prosedur rayuan"
+   }
+  },
+  {
+   "id": "MY-H964-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "Section 52"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "52. Kesahan lesen dilanjutkan dalam rayuan yang berjaya"
+   }
+  },
+  {
+   "id": "MY-H964-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "Section 53"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "53. Larangan permohonan yang serupa apabila permohonan terdahulu sedang\n\ndirayu\n\nBAHAGIAN VII\n\nAM\n\nPeraturan"
+   }
+  },
+  {
+   "id": "MY-H964-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "Section 54"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "54. Penentuan tarikh permohonan"
+   }
+  },
+  {
+   "id": "MY-H964-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "Section 55"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "55. Kehendak untuk memberikan maklumat dan dokumen"
+   }
+  },
+  {
+   "id": "MY-H964-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "Section 56"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "56. Keterangan"
+   }
+  },
+  {
+   "id": "MY-H964-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "Section 57"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "57. Fi"
+   }
+  },
+  {
+   "id": "MY-H964-A58",
+   "no": 58,
+   "noLabel": {
+    "en": "Section 58"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "58. Maklumat palsu atau mengelirukan\n\nBAHAGIAN VIII\n\nPEMBATALAN, KECUALIAN DAN PERALIHAN"
+   }
+  },
+  {
+   "id": "MY-H964-A59",
+   "no": 59,
+   "noLabel": {
+    "en": "Section 59"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "59. Pembatalan"
+   }
+  },
+  {
+   "id": "MY-H964-A60",
+   "no": 60,
+   "noLabel": {
+    "en": "Section 60"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "60. Lesen, perakuan dan permit sedia ada"
+   }
+  },
+  {
+   "id": "MY-H964-A61",
+   "no": 61,
+   "noLabel": {
+    "en": "Section 61"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "61. Pemindahan kuasa, dsb."
+   }
+  },
+  {
+   "id": "MY-H964-A62",
+   "no": 62,
+   "noLabel": {
+    "en": "Section 62"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "62. Penerusan permohonan yang belum selesai\n\nJADUAL PERTAMA\n\nJADUAL KEDUA\n\nAKTA LEMBAGA GETAH MALAYSIA (PERBADANAN) 1996\n\nPERATURAN-PERATURAN LEMBAGA GETAH MALAYSIA\n\n(PELESENAN DAN PERMIT) 2014\n\nPADA menjalankan kuasa yang diberikan oleh seksyen 62 Akta Lembaga Getah Malaysia\n\n(Perbadanan) 1996 [Akta 551], Menteri membuat peraturan-peraturan yang berikut:\n\nBAHAGIAN I\n\nPERMULAAN\n\nNama dan permulaan kuat kuasa\n\n1. (1) Peraturan-peraturan ini bolehlah dinamakan Peraturan-Peraturan\n\nLembaga Getah Malaysia (Pelesenan dan Permit) 2014.\n\n(2) Peraturan-Peraturan ini mula berkuat kuasa pada 30 April 2014.\n\nTafsiran\n\n2. Dalam Peraturan-Peraturan ini―\n\n\"bahan tanaman getah\" termasuklah biji benih getah, anak benih, keratan, kayu\n\nmata tunas (hijau dan perang), tumbuh-tumbuhan bertunas (termasuk tunggul\n\nbertunas akar terdedah, tumbuh-tumbuhan bertunas dalam polibeg dan tunggul teras),\n\ndan apa-apa tisu atau bahagian tumbuh-tumbuhan yang boleh dibiakkan atau\n\ndigandakan dengan apa-apa cara, termasuklah melalui teknik konvensional atau teknik\n\nbioteknologi;\n\n\"getah mentah tercemar\" ertinya getah mentah yang dicemari oleh bendasing\n\nyang mungkin bersifat organik seperti daun atau kulit kayu, atau bersifat bukan organik\n\nseperti pasir, tanah, plastik, bahan kimia, logam, atau getah tervulkan atau bukan\n\ntervulkan, sehingga menyebabkan pengurangan kualiti yang tidak dapat dipulihkan\n\nsemula atau yang menjejaskan aliran operasi pemprosesan getah;\n\n\"lesen\" ertinya suatu lesen yang dikeluarkan oleh Lembaga di bawah\n\nsubperaturan 5(1);\n\n\"pekebun kecil getah\" ertinya seseorang yang memiliki dan mengendalikan satu\n\nladang getah atau lebih dalam suatu Negeri yang jumlah keseluruhannya tidak\n\nmelebihi 40.46 hektar;\n\n\"pemegang lesen\" ertinya seseorang yang dikeluarkan lesen di bawah\n\nsubperaturan 5(1);\n\n\"pemegang permit\" ertinya pemegang Permit Autoriti Transaksi Getah, Permit\n\nPST-G atau Permit Eksport, yang mana-mana berkenaan;\n\n\"pengendali ladang getah\" ertinya seseorang yang memperoleh pendapatan\n\ndaripada hasil getah sesuatu ladang getah yang dimiliki oleh pekebun kecil getah secara\n\npajakan atau perkongsian dengan persetujuan pekebun kecil getah itu;\n\n\"permit\" ertinya Permit Autoriti Transaksi Getah, Permit PST-G atau Permit\n\nEksport yang dikeluarkan oleh Lembaga di bawah subperaturan 24(1);\n\n\"Permit Autoriti Transaksi Getah\" ertinya suatu permit untuk menjual getah yang\n\ndikeluarkan di bawah subperaturan 24(1);\n\n\"Permit Eksport\" ertinya suatu permit untuk mengeksport konsainan getah yang\n\ndikeluarkan di bawah subperaturan 24(1);\n\n\"Permit PST-G\" ertinya suatu permit untuk membeli, menyimpan dan menjual\n\nsarung tangan getah ditolak dan sarung tangan getah sekerap yang dikeluarkan di\n\nbawah subperaturan 24(1);\n\n\"tumbuh-tumbuhan getah\" ertinya—\n\n(a) apa-apa tumbuh-tumbuhan daripada spesies Hevea dalam famili\n\nEuphorbiaceaese sebagaimana yang dinyatakan dalam Jadual Pertama\n\ndan kacukan antara spesiesnya; dan\n\n(b) apa-apa tumbuh-tumbuhan selain spesies Hevea termasuklah apa-apa\n\ntumbuh-tumbuhan yang diubah secara genetik yang berasal daripada\n\nspesies Hevea dan kacukannya sebagaimana yang dinyatakan dalam\n\nJadual Pertama;\n\n\"premis\" termasuklah mana-mana bangunan atau khemah atau apa-apa struktur\n\nlain, kekal atau sebaliknya bersama dengan tanah yang di atasnya bangunan, khemah\n\natau struktur lain itu terletak dan mana-mana tanah bersebelahan yang digunakan\n\nberkaitan dengannya, dan apa-apa kenderaan, pengangkut, vesel atau pesawat udara;\n\n\"proses\", berhubung dengan getah, ertinya apa-apa aktiviti yang mengubah sifat\n\nkimia dan fizikal getah itu;\n\n\"sarung tangan getah\" ertinya sarung tangan yang dibuat secara keseluruhan\n\natau sebahagiannya daripada getah asli atau getah tiruan;\n\n\"simbol rumah\" ertinya apa-apa tanda atau pengenalan yang ditunjukkan atas\n\nbungkusan sebagaimana yang didaftarkan di bawah subperaturan 47(4).\n\nBAHAGIAN II\n\nLESEN\n\nAktiviti untuk dilesenkan\n\n3. (1) Tiada seorang pun boleh—\n\n(a) membeli, menyimpan, menjual, memproses atau membungkus,\n\natau mengeksport getah;\n\n(b) membeli dan menyimpan getah bagi pembuatan produk getah;\n\n(c) mengeksport sarung tangan getah; atau\n\n(d) membeli, menyimpan atau menjual, atau mencambahkan,\n\nmenumbuhkan, menanam atau memindah tanam bahan tanaman\n\ngetah bagi tujuan komersial,\n\nmelainkan jika dia memegang lesen.\n\n(2) Seseorang yang melanggar subperaturan (1) melakukan suatu kesalahan\n\ndan boleh, apabila disabitkan, didenda tidak melebihi satu ratus ribu ringgit atau\n\ndipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya.\n\nPermohonan bagi lesen\n\n4. (1) Suatu permohonan bagi lesen untuk menjalankan mana-mana aktiviti\n\nyang disebut dalam subperaturan 3(1) hendaklah dibuat kepada Lembaga dalam\n\napa-apa bentuk dan dengan cara sebagaimana yang ditentukan oleh Lembaga berserta\n\ndengan fi pentadbiran sebagaimana yang dinyatakan dalam Jadual Kedua.\n\n(2) Melainkan jika diarahkan selainnya oleh Lembaga, suatu permohonan\n\nberasingan hendaklah dibuat berkenaan dengan―\n\n(a) setiap aktiviti yang disebut dalam subperaturan 3(1); dan\n\n(b) setiap premis yang digunakan berkaitan dengan aktiviti yang\n\ndisebut dalam subperaturan 3(1) tanpa mengira sama ada premis\n\nitu bersambung secara pentadbiran atau organisasi dengan premis\n\nyang lain.\n\n(3) Apabila suatu permohonan di bawah subperaturan (1) diterima, Lembaga\n\nboleh menghendaki pemohon untuk memberikan butir-butir, maklumat atau dokumen\n\nlanjut.\n\n(4) Jika apa-apa butir-butir, maklumat atau dokumen yang dikehendaki di\n\nbawah subperaturan (3) tidak diberikan oleh pemohon dalam masa yang dinyatakan\n\noleh Lembaga, permohonan itu hendaklah disifatkan telah ditarik balik tanpa\n\nmenjejaskan permohonan baharu yang dibuat oleh pemohon.\n\n(5) Suatu permohonan di bawah subperaturan (1) boleh ditarik balik pada\n\nbila-bila masa sebelum pengeluaran atau penolakan untuk mengeluarkan suatu lesen,\n\nyang jika itu berlaku fi pentadbiran yang dibayar di bawah subperaturan (1) tidak akan\n\ndikembalikan.\n\nPengeluaran lesen\n\n5. (1) Selepas mempertimbangkan permohonan di bawah subperaturan 4(1)\n\ndan butir-butir, maklumat atau dokumen di bawah subperaturan 4(3), Lembaga boleh\n\nmengeluarkan atau menolak untuk mengeluarkan lesen.\n\n(2) Jika Lembaga memutuskan untuk mengeluarkan lesen di bawah\n\nsubperaturan (1), pemohon itu hendaklah membayar fi sebagaimana yang dinyatakan\n\ndalam Jadual Kedua sebelum lesen itu dikeluarkan.\n\n(3) Jika Lembaga menolak untuk mengeluarkan lesen di bawah\n\nsubperaturan (1), Lembaga hendaklah memberikan suatu notis bertulis tentang\n\nkeputusannya kepada pemohon itu dalam masa tiga puluh hari dari tarikh keputusan\n\nitu.\n\nPematuhan syarat yang dikenakan ke atas lesen\n\n6. (1) Lembaga boleh mengenakan apa-apa syarat apabila mengeluarkan suatu\n\nlesen di bawah peraturan 5 dan boleh, pada bila-bila masa, meminda syarat yang\n\ndikenakan.\n\n(2) Pemegang lesen hendaklah mematuhi syarat yang dikenakan ke atas\n\nsesuatu lesen.\n\n(3) Pemegang lesen yang melanggar subperaturan (2) melakukan suatu\n\nkesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima puluh ribu ringgit\n\natau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya.\n\nAktiviti yang dilarang oleh lesen\n\n7. (1) Pemegang lesen tidak boleh—\n\n(a) menjalankan apa-apa aktiviti selain aktiviti yang baginya lesen itu\n\ndikeluarkan;\n\n(b) menjalankan apa-apa aktiviti yang dilesenkan di dalam premis\n\nselain premis yang dinyatakan dalam lesen;\n\n(c) menyimpan getah melebihi amaun yang dibenarkan oleh Lembaga;\n\n(d) membeli getah daripada pekebun kecil getah yang bukan seorang\n\npemegang Permit Autoriti Transaksi Getah;\n\n(e) menggunakan dalam perdagangan getahnya—\n\n(i) apa-apa peralatan untuk menimbang atau mengukur yang\n\ntidak ditentusahkan dan dicap mengikut\n\nAkta Timbang dan Sukat 1972 [Akta 71]; atau\n\n(ii) apa-apa peralatan untuk menimbang atau mengukur yang\n\nbacaannya dia ketahui adalah palsu;\n\n(f) membeli, menjual atau menyimpan getah yang diperoleh daripada\n\nsumber yang diragui atau yang menyalahi undang-undang, atau\n\naktiviti yang menyalahi undang-undang; atau\n\n(g) membeli atau menjual getah mentah yang tercemar.\n\n(2) Pemegang lesen yang melanggar subperaturan (1) melakukan suatu\n\nkesalahan dan boleh, apabila disabitkan, didenda tidak melebihi satu ratus ribu ringgit\n\natau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya.\n\nPembaharuan lesen\n\n8. (1) Seseorang pemegang lesen boleh, dalam masa enam puluh hari sebelum\n\nhabis tempoh sesuatu lesen, memohon bagi membaharui lesen itu kepada Lembaga\n\ndalam bentuk dan mengikut cara sebagaimana yang ditentukan oleh Lembaga berserta\n\ndengan pembayaran fi sebagaimana yang dinyatakan dalam Jadual Kedua.\n\n(2) Tanpa menjejaskan hak pemegang lesen untuk memohon suatu lesen\n\nbaharu jika permohonan bagi pembaharuan lesen dibuat selepas habis tempoh lesen\n\nitu, Lembaga boleh menolak untuk membaharui lesen itu.\n\n(3) Lembaga boleh, selepas mempertimbangkan permohonan di bawah\n\nsubperaturan (1) atau (2), membaharui, dengan atau tanpa syarat, atau menolak untuk\n\nmembaharui lesen itu.\n\n(4) Jika Lembaga memutuskan untuk membaharui lesen di bawah\n\nsubperaturan (1) atau (2), pemohon hendaklah membayar fi sebagaimana yang\n\ndinyatakan dalam Jadual Kedua kepada Lembaga sebelum sesuatu lesen dibaharui.\n\n(5) Lembaga boleh menolak untuk membaharui sesuatu lesen jika Lembaga\n\nberpuas hati bahawa—\n\n(a) pemegang lesen telah tidak mematuhi mana-mana peruntukan\n\nAkta atau mana-mana peraturan yang dibuat di bawah Akta;\n\n(b) pemegang lesen telah tidak mematuhi mana-mana syarat lesen itu;\n\n(c) pemohon telah mengemukakan apa-apa pernyataan, maklumat\n\natau dokumen yang didapati palsu, tanpa mengira sama ada\n\npemohon itu mengetahui atau mempercayai bahawa pernyataan,\n\nmaklumat atau dokumen itu adalah palsu atau sebaliknya; atau\n\n(d) pembaharuan lesen itu akan memudaratkan industri getah\n\nMalaysia.\n\n(6) Jika pembaharuan lesen ditolak oleh Lembaga di bawah subperaturan (5),\n\nLembaga hendaklah memberikan suatu notis bertulis tentang keputusannya kepada\n\npemohon itu dalam masa tiga puluh hari dari tarikh keputusan itu.\n\n(7) Suatu permohonan di bawah subperaturan (1) atau (2) boleh ditarik balik\n\npada bila-bila masa sebelum permohonan diluluskan atau ditolak, yang jika itu berlaku\n\nfi yang dibayar di bawah subperaturan (1) tidak akan dikembalikan.\n\nKesahan lesen\n\n9. Tiap-tiap lesen yang dikeluarkan di bawah peraturan 5 atau dibaharui di bawah\n\nperaturan 8 hendaklah sah bagi tempoh satu tahun atau bagi tempoh lebih lama yang\n\ntidak melebihi tiga tahun sebagaimana yang ditentukan oleh Lembaga dari tarikh\n\npengeluaran atau pembaharuan lesen itu.\n\nPenggantungan dan pembatalan lesen\n\n10. (1) Lembaga boleh menghendaki seseorang pemegang lesen untuk\n\nmemberikan penjelasan kenapa lesennya tidak sepatutnya digantung atau dibatalkan\n\njika Lembaga berpuas hati bahawa—\n\n(a) apa-apa syarat yang dikenakan ke atas sesuatu lesen telah tidak\n\ndipatuhi atau telah dilanggar;\n\n(b) pemberian lesen itu adalah disebabkan oleh representasi fakta\n\nyang palsu oleh atau bagi pihak pemegang lesen itu;\n\n(c) lesen itu telah digunakan atau diniatkan untuk digunakan bagi\n\nmaksud yang menyalahi undang-undang;\n\n(d) tujuan asal yang baginya lesen itu dikeluarkan tidak lagi wujud;\n\n(e) pemegang lesen itu telah melanggar atau telah tidak mematuhi\n\nmana-mana peruntukan Akta, mana-mana peraturan yang dibuat\n\ndi bawah Akta atau mana-mana undang-undang bertulis yang lain;\n\n(f) pemegang lesen itu telah berhenti menjalankan aktiviti yang\n\nbaginya lesen itu dikeluarkan;\n\n(g) pemegang lesen itu telah mencemarkan imej baik industri getah;\n\n(h) keputusan atau penentuan Menteri, Lembaga atau mana-mana\n\npegawai yang diberi kuasa telah tidak dipatuhi; atau\n\n(i) terdapat apa-apa hal keadaan lain yang memerlukan tindakan\n\nsedemikian.\n\n(2) Lembaga boleh menggantung atau membatalkan sesuatu lesen jika\n\npemegang lesen tidak memberikan penjelasan sebagaimana yang dikehendaki di bawah\n\nsubperaturan (1).\n\n(3) Jika Lembaga tidak berpuas hati dengan penjelasan yang diberikan\n\ndi bawah subperaturan (1), Lembaga boleh menggantung lesen itu bagi suatu tempoh\n\nyang tidak melebihi enam bulan dan boleh melanjutkan penggantungan itu bagi tempoh\n\nyang lain yang tidak melebihi enam bulan bagi pemegang lesen itu mengambil tindakan\n\npembetulan.\n\n(4) Jika pemegang lesen tidak mengambil tindakan pembetulan di bawah\n\nsubperaturan (3), Lembaga boleh membatalkan lesen itu selepas habis tempoh\n\npenggantungan.\n\nPembatalan lesen\n\n11. Lembaga hendaklah membatalkan sesuatu lesen jika—\n\n(a) pemegang lesen itu mati;\n\n(b) pemegang lesen itu menjadi bankrap;\n\n(c) pemegang lesen itu tidak sempurna akal atau selainnya tidak berupaya\n\nuntuk menunaikan kewajipan pemegang lesen itu;\n\n(d) pemegang lesen itu, dalam hal suatu syarikat, digulungkan;\n\n(e) pemegang lesen itu, dalam hal suatu perkongsian, dibubarkan; atau\n\n(f) pemegang lesen itu adalah dorman, tanpa mengusahakan apa-apa aktiviti\n\natau transaksi sepanjang tempoh kesahan lesen itu.\n\nPemindahan atau penyerahhakan lesen\n\n12. (1) Suatu lesen yang dikeluarkan di bawah Peraturan-Peraturan ini tidak\n\nboleh dipindahkan atau diserahhakkan kepada mana-mana orang lain melainkan jika\n\ndengan kelulusan bertulis Lembaga.\n\n(2) Suatu permohonan bagi pemindahan atau penyerahhakan suatu lesen\n\nhendaklah dibuat kepada Lembaga dalam apa-apa bentuk dan mengikut cara\n\nsebagaimana yang ditentukan oleh Lembaga berserta dengan fi sebagaimana yang\n\ndinyatakan dalam Jadual Kedua.\n\n(3) Jika pemegang lesen—\n\n(a) mati;\n\n(b) menjadi bankrap;\n\n(c) tidak sempurna akal atau selainnya tidak berupaya untuk\n\nmenjalankan kewajipan pemegang lesen;\n\n(d) dalam hal suatu syarikat, digulungkan; atau\n\n(e) dalam hal suatu perkongsian, dibubarkan,\n\nLembaga boleh, atas permohonan bertulis dan dengan pembayaran fi sebagaimana yang\n\ndinyatakan dalam Jadual Kedua, dengan pengendorsan ke atas lesen dan tertakluk\n\nkepada apa-apa syarat sebagaimana yang difikirkannya patut, memindahkan atau\n\nmenyerahhakkan lesen itu kepada orang yang layak dan sesuai bagi manfaat pemegang\n\nlesen itu atau estet pemegang lesen itu sehingga habis tempoh lesen itu atau apa-apa\n\ntarikh terdahulu sebagaimana yang difikirkan patut oleh Lembaga dan orang itu\n\nhendaklah disifatkan sebagai pemegang lesen bagi maksud Peraturan-Peraturan ini.\n\n(4) Seseorang yang melanggar subperaturan (1) melakukan suatu kesalahan\n\ndan boleh, apabila disabitkan, didenda tidak melebihi lima puluh ribu ringgit atau\n\ndipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya.\n\nPenyerahan balik lesen\n\n13. (1) Seseorang pemegang lesen boleh menyerahkan balik lesen dengan\n\nmenghantarkan lesen itu kepada Lembaga bersama dengan suatu notis bertulis\n\nmengenai penyerahan balik itu.\n\n(2) Penyerahan balik itu hendaklah berkuat kuasa pada tarikh Lembaga\n\nmenerima lesen dan notis yang disebut dalam subperaturan (1), atau jika suatu tarikh\n\nke hadapan bagi penyerahan balik dinyatakan dalam notis itu, pada tarikh ke hadapan\n\nitu.\n\n(3) Penyerahan balik lesen tidak boleh dibatalkan melainkan jika penyerahan\n\nbalik itu dinyatakan untuk mula berkuat kuasa pada tarikh ke hadapan dan Lembaga,\n\nsebelum tarikh itu, melalui notis bertulis kepada pemegang lesen membenarkan\n\npenyerahan balik itu ditarik balik.\n\nPerkongsian dalam lesen\n\n14. (1) Jika lesen dikeluarkan kepada suatu perkongsian, semua pekongsi\n\nhendaklah dinamakan dalam lesen itu sebagai pemegang lesen.\n\n(2) Jika apa-apa perubahan berlaku dalam perkongsian itu, pekongsi yang\n\ntinggal atau mana-mana pekongsi hendaklah, dalam masa satu bulan dari perubahan\n\nitu, memaklumkan perubahan itu kepada Lembaga secara bertulis.\n\n(3) Jika Lembaga berpuas hati bahawa perkongsian itu tidak dibubarkan dan,\n\ndalam hal penambahan pekongsi dalam perkongsian itu, bahawa pekongsi baharu itu\n\nialah orang yang layak dan sesuai, Lembaga boleh meminda lesen dengan sewajarnya\n\ndan membenarkan lesen itu terus berkuat kuasa, sebagaimana yang dipinda, sehingga\n\nlesen itu habis tempoh.\n\n(4) Setiap pekongsi hendaklah disifatkan menanggung liabiliti secara\n\nbersesama dan berasingan bagi apa-apa perbuatan atau peninggalan pekongsi yang lain\n\nmelainkan jika pekongsi itu membuktikan sehingga mahkamah berpuas hati bahawa―\n\n(a) perbuatan atau peninggalan itu telah dilakukan tanpa\n\npengetahuan, persetujuan atau pembiaran pekongsi itu; dan\n\n(b) pekongsi itu telah mengambil segala langkah yang munasabah dan\n\ntelah menjalankan usaha yang wajar untuk mencegah perbuatan\n\natau peninggalan itu.\n\nPindaan lesen atas permintaan\n\n15. (1) Seseorang pemegang lesen boleh memohon kepada Lembaga untuk\n\nmeminda—\n\n(a) butir-butir lesen;\n\n(b) syarat yang disertakan bersama lesen; atau\n\n(c) aktiviti yang dinyatakan dalam lesen.\n\n(2) Suatu permohonan di bawah subperaturan (1) hendaklah dibuat secara\n\nbertulis dan hendaklah dikemukakan kepada Lembaga bersama dengan fi sebagaimana\n\nyang dinyatakan dalam Jadual Kedua.\n\n(3) Jika Lembaga meluluskan permohonan di bawah subperaturan (1),\n\nLembaga hendaklah meminda lesen itu dengan sewajarnya dan membenarkan lesen itu\n\nterus berkuat kuasa, sebagaimana yang dipinda, sehingga lesen itu habis tempoh.\n\n(4) Jika Lembaga menolak permohonan di bawah subperaturan (1), Lembaga\n\nhendaklah memaklumkan keputusan itu kepada pemohon secara bertulis dalam masa\n\ntiga puluh hari dari tarikh keputusan itu.\n\nSalinan terperaku lesen\n\n16. (1) Jika suatu lesen itu hilang, musnah atau rosak, pemegang lesen boleh\n\nmembuat permohonan secara bertulis kepada Lembaga bagi suatu salinan terperaku\n\nlesen itu.\n\n(2) Suatu permohonan di bawah subperaturan (1) hendaklah disertakan\n\ndengan―\n\n(a) suatu akuan berkanun atau laporan polis oleh pemegang lesen itu\n\nyang menyatakan bahawa lesen yang dikeluarkan kepada\n\npemegang lesen itu telah hilang, musnah atau rosak; dan\n\n(b) fi sebagaimana yang dinyatakan dalam Jadual Kedua.\n\n(3) Lembaga boleh mengeluarkan suatu salinan terperaku lesen jika Lembaga\n\nberpuas hati bahawa lesen yang asal telah hilang, musnah atau rosak.\n\nMempamerkan lesen, papan tanda perniagaan, dsb.\n\n17. (1) Pemegang lesen hendaklah mempamerkan lesen, papan tanda perniagaan\n\ndan apa-apa maklumat lain yang berkaitan sebagaimana yang ditentukan oleh Lembaga\n\ndi tempat yang mudah dilihat di premis sebagaimana yang dinyatakan dalam lesen.\n\n(2) Pemegang lesen yang melanggar subperaturan (1) melakukan suatu\n\nkesalahan dan boleh, apabila disabitkan, didenda tidak melebihi tiga ribu ringgit atau\n\ndipenjarakan selama tempoh tidak melebihi tiga bulan atau kedua-duanya.\n\nPemberitahuan perubahan dalam maklumat yang diberikan\n\n18. (1) Tiap-tiap pemohon bagi lesen, pemohon bagi pembaharuan lesen atau\n\npemohon bagi pindaan lesen hendaklah, dalam masa satu bulan dari berlakunya apaapa perubahan material dalam apa-apa maklumat yang diberikan kepada Lembaga\n\ndalam mana-mana permohonan atau apa-apa perubahan material dalam apa-apa\n\nmaklumat yang diberikan menurut suatu permintaan daripada Lembaga,\n\nmemaklumkan perubahan itu kepada Lembaga secara bertulis.\n\n(2) Tiap-tiap pemegang lesen hendaklah, dalam masa satu bulan dari\n\nberlakunya apa-apa perubahan mengenai butir-butir dalam lesen, memaklumkan\n\nperubahan itu kepada Lembaga secara bertulis.\n\n(3) Seseorang yang melanggar subperaturan (1) atau (2) melakukan suatu\n\nkesalahan dan boleh, apabila disabitkan, didenda tidak melebihi tiga ribu ringgit atau\n\ndipenjarakan selama tempoh tidak melebihi tiga bulan atau kedua-duanya.\n\nPenerusan syarat lesen dalam hal perubahan penghunian\n\n19. (1) Jika seseorang menjadi penghuni mana-mana premis yang digunakan\n\nberkaitan dengan aktiviti yang dilesenkan di bawah Peraturan-Peraturan ini secara\n\npenggantian kepada orang lain yang memegang suatu lesen yang belum habis tempoh\n\nberkenaan dengan premis itu, penghuni baharu itu hendaklah, dalam masa empat belas\n\nhari dari perubahan dalam penghunian itu, membuat suatu permohonan kepada\n\nLembaga di bawah peraturan 12 bagi pemindahan lesen yang belum habis tempoh itu\n\nkepada penghuni yang baharu itu.\n\n(2) Sementara menunggu penentuan permohonan yang dibuat di bawah\n\nsubperaturan (1), syarat lesen hendaklah mengikat penghuni baharu itu bagi tempoh\n\ndari perubahan dalam penghunian itu sehingga penentuan muktamad permohonan itu.\n\n(3) Walaupun penghuni baharu itu tidak membuat permohonan bagi\n\npemindahan lesen di bawah subperaturan (1), syarat bagi lesen yang belum habis\n\ntempoh itu hendaklah mengikat penghuni baharu itu bagi tempoh dari perubahan\n\ndalam penghunian itu sehingga penghuni baharu itu dikeluarkan dengan suatu lesen\n\nberkenaan dengan aktiviti yang dijalankan di premis itu atau sehingga lesen yang\n\ndisebut dalam subperaturan (1) habis tempoh, mengikut mana-mana yang terdahulu.\n\nPenyenggaraan rekod dan dokumen\n\n20. (1) Pemegang lesen hendaklah menyenggarakan suatu rekod yang terkini dan\n\nbenar mengenai semua transaksi dan dokumen berkaitan berhubung dengan lesen itu\n\ndalam bentuk dan mengikut cara sebagaimana yang ditentukan oleh Lembaga.\n\n(2) Rekod dan dokumen yang disebut dalam subperaturan (1) hendaklah\n\ndalam bahasa kebangsaan atau bahasa Inggeris.\n\n(3) Tiap-tiap pemegang lesen hendaklah memastikan bahawa semua rekod\n\ndan dokumen yang disebut dalam subperaturan (1) disimpan bagi suatu tempoh yang\n\ntidak kurang daripada tiga tahun dari tarikh kemasukan akhir atau penyempurnaan\n\nrekod dan dokumen itu.\n\n(4) Rekod dan dokumen yang disimpan hendaklah dijadikan tersedia bagi\n\npemeriksaan oleh pegawai yang diberi kuasa di premis yang dinyatakan dalam lesen itu.\n\n(5) Seseorang yang melanggar subperaturan (1) melakukan suatu kesalahan\n\ndan boleh, apabila disabitkan, didenda tidak melebihi lima ribu ringgit atau\n\ndipenjarakan selama tempoh tidak melebihi enam bulan atau kedua-duanya.\n\nDaftar Lesen\n\n21. Lembaga hendaklah menyimpan dan menyenggarakan suatu Daftar Lesen.\n\nBAHAGIAN III\n\nPERMIT\n\nAktiviti yang menghendakkan permit\n\n22. (1) Tiada seorang pun boleh—\n\n(a) dalam hal seorang pekebun kecil getah atau pengendali ladang\n\ngetah, menjual getah melainkan jika dia memegang suatu Permit\n\nAutoriti Transaksi Getah;\n\n(b) membeli, menyimpan dan menjual sarung tangan getah yang\n\nditolak dan sarung tangan getah sekerap melainkan jika orang itu\n\nmemegang suatu Permit PST-G; dan\n\n(c) mengeksport konsainan getah melainkan jika orang itu memegang\n\nsuatu Permit Eksport.\n\n(2) Mana-mana orang yang melanggar perenggan (1)(a) melakukan suatu\n\nkesalahan dan boleh, apabila disabitkan, didenda tidak melebihi satu ribu ringgit.\n\n(3) Mana-mana orang yang melanggar perenggan (1)(b) atau (c) melakukan\n\nsuatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima puluh ribu\n\nringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya.\n\nPermohonan bagi permit\n\n23. (1) Tertakluk kepada subperaturan 27(1) dan 28(1), suatu permohonan bagi\n\nsuatu permit untuk menjalankan aktiviti di bawah peraturan 22 hendaklah dibuat\n\nkepada Lembaga dalam apa-apa bentuk dan mengikut cara sebagaimana yang\n\nditentukan oleh Lembaga berserta dengan fi pentadbiran sebagaimana yang dinyatakan\n\ndalam Jadual Kedua.\n\n(2) Apabila permohonan di bawah subperaturan (1) diterima, Lembaga boleh\n\nmenghendaki pemohon untuk memberikan butir-butir, maklumat atau dokumen lanjut.\n\n(3) Jika mana-mana butir-butir, maklumat atau dokumen yang dikehendaki\n\ndi bawah subperaturan (2), tidak diberikan oleh pemohon dalam masa yang dinyatakan\n\noleh Lembaga, permohonan itu hendaklah disifatkan telah ditarik balik tanpa\n\nmenjejaskan permohonan baharu dibuat oleh pemohon.\n\n(4) Permohonan di bawah subperaturan (1) boleh ditarik balik pada bila-bila\n\nmasa sebelum pengeluaran atau penolakan untuk mengeluarkan permit, yang jika itu\n\nberlaku fi pentadbiran yang telah dibayar di bawah subperaturan (1) tidak akan\n\ndikembalikan.\n\nPengeluaran permit\n\n24. (1) Selepas mempertimbangkan permohonan di bawah subperaturan 23(1)\n\ndan butir-butir, maklumat dan dokumen di bawah subperaturan 23(2), Lembaga boleh\n\nmengeluarkan atau menolak untuk mengeluarkan permit.\n\n(2) Jika Lembaga memutuskan untuk mengeluarkan permit, pemohon\n\nhendaklah membayar fi sebagaimana yang dinyatakan dalam Jadual Kedua kepada\n\nLembaga sebelum permit itu dikeluarkan.\n\n(3) Lembaga boleh mengenakan apa-apa syarat apabila permit dikeluarkan\n\ndan boleh, dari semasa ke semasa, meminda syarat yang dikenakan.\n\n(4) Jika Lembaga menolak untuk mengeluarkan permit di bawah\n\nsubperaturan (1), Lembaga hendaklah memberikan suatu notis bertulis mengenai\n\nkeputusannya kepada pemohon dalam masa tiga puluh hari dari tarikh keputusan itu.\n\n(5) Permit PST-G yang dikeluarkan di bawah peraturan ini tidak boleh\n\ndipindahkan melainkan jika dengan kebenaran bertulis Lembaga.\n\n(6) Permit Autoriti Transaksi Getah dan Permit Eksport yang dikeluarkan\n\ndi bawah peraturan ini tidak boleh dipindahkan.\n\nSyarat khas bagi Permit Autoriti Transaksi Getah\n\n25. (1) Seseorang pemohon bagi Permit Autoriti Transaksi Getah hanya boleh\n\ndikeluarkan dengan satu permit berkenaan dengan satu ladang getah atau lebih yang\n\ndimiliki atau dikendalikan oleh pemohon di suatu Negeri yang jumlah keseluruhannya\n\ntidak melebihi 40.46 hektar.\n\n(2) Lembaga hendaklah mengeluarkan Permit Autoriti Transaksi Getah dalam\n\nbentuk suatu kad sebagaimana yang ditentukan oleh Lembaga.\n\n(3) Jika kad yang disebut dalam subperaturan (2) hilang, musnah atau rosak,\n\npemegang Permit Autoriti Transaksi Getah boleh memohon kepada Lembaga bagi\n\npenggantian kad itu.\n\n(4) Apa-apa permohonan bagi penggantian kad yang dikeluarkan di bawah\n\nsubperaturan (3) hendaklah disertakan dengan—\n\n(a) suatu akuan berkanun atau laporan polis oleh pemegang permit\n\nyang menyatakan bahawa kad itu telah hilang, musnah atau rosak;\n\ndan\n\n(b) fi sebagaimana yang dinyatakan dalam Jadual Kedua.\n\n(5) Permit yang dikeluarkan di bawah subperaturan (2) hendaklah,\n\nmelainkan jika ditarik balik terdahulu, sah bagi tempoh tidak melebihi tiga tahun.\n\nAktiviti yang dilarang di bawah Permit Autoriti Transaksi Getah\n\n26. (1) Pemegang Permit Autoriti Transaksi Getah tidak boleh—\n\n(a) menjual getah yang tidak dimiliki olehnya melainkan jika\n\npemegang permit itu ialah seorang pengendali ladang getah yang\n\ndiberi kuasa oleh pemilik getah itu;\n\n(b) menjual getah daripada ladang yang tidak diisytiharkan kepada\n\nLembaga;\n\n(c) menjual getah kepada atau berurusan dengan seseorang yang\n\ntidak dilesenkan di bawah Peraturan-Peraturan ini;\n\n(d) menjual atau mempunyai dalam milikannya apa-apa getah yang\n\ndipercayai daripada sumber yang menyalahi undang-undang atau\n\naktiviti yang menyalahi undang-undang; atau\n\n(e) menjual getah mentah tercemar.\n\n(2) Pemegang Permit Autoriti Transaksi Getah yang melanggar\n\nperenggan (1)(a), (b) atau (c) melakukan suatu kesalahan dan boleh, apabila disabitkan,\n\ndidenda tidak melebihi sepuluh ribu ringgit atau dipenjarakan selama tempoh tidak\n\nmelebihi satu tahun atau kedua-duanya.\n\n(3) Pemegang Permit Autoriti Transaksi Getah yang melanggar\n\nperenggan (1)(d) atau (e) melakukan suatu kesalahan dan boleh, apabila disabitkan,\n\ndidenda tidak melebihi lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak\n\nmelebihi dua tahun atau kedua-duanya.\n\nSyarat khas bagi Permit PST-G\n\n27. (1) Suatu permohonan yang berasingan bagi suatu Permit PST-G hendaklah\n\ndibuat berkenaan dengan setiap premis yang digunakan yang berkaitan dengan aktiviti\n\nyang dinyatakan dalam permit tanpa mengira sama ada premis itu bersambung secara\n\npentadbiran atau organisasi dengan premis yang lain.\n\n(2) Pemegang Permit PST-G hendaklah mempamerkan permit itu di tempat\n\nyang mudah dilihat di premis itu dan hendaklah membenarkan pemeriksaan permit itu\n\noleh pegawai yang diberi kuasa.\n\n(3) Suatu Permit PST-G yang dikeluarkan oleh Lembaga hendaklah,\n\nmelainkan jika ditarik balik terdahulu, sah bagi tempoh tidak melebihi satu tahun.\n\n(4) Pemegang Permit PST-G yang melanggar subperaturan (2) melakukan\n\nsuatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi tiga ribu ringgit\n\natau dipenjarakan selama tempoh tidak melebihi satu bulan atau kedua-duanya.\n\nSyarat khas bagi Permit Eksport\n\n28. (1) Seseorang tidak layak untuk memohon suatu Permit Eksport melainkan\n\njika orang itu memegang suatu lesen untuk mengeksport getah yang dikeluarkan di\n\nbawah subperaturan 5(1).\n\n(2) Suatu Permit Eksport hendaklah, melainkan jika ditarik balik terdahulu,\n\nsah bagi tempoh enam bulan dari tarikh pengeluaran permit itu.\n\n(3) Pemegang permit hendaklah mengemukakan kepada Lembaga keratan\n\nPermit Eksport dalam masa empat belas hari dari tarikh pengeksportan setelah\n\ndiendorskan oleh Jabatan Kastam Diraja Malaysia.\n\n(4) Pemegang permit yang melanggar subperaturan (3) melakukan suatu\n\nkesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima puluh ribu ringgit\n\natau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya.\n\nPematuhan syarat yang dikenakan ke atas permit\n\n29. (1) Lembaga boleh mengenakan apa-apa syarat apabila permit dikeluarkan di\n\nbawah peraturan 24 dan boleh, dari semasa ke semasa, meminda syarat yang\n\ndikenakan.\n\n(2) Pemegang permit hendaklah mematuhi syarat yang dikenakan ke atas\n\npermit itu.\n\n(3) Pemegang permit yang melanggar subperaturan (2) melakukan suatu\n\nkesalahan dan boleh, apabila disabitkan, didenda tidak melebihi sepuluh puluh ribu\n\nringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya.\n\nPembaharuan permit\n\n30. (1) Pemegang Permit PST-G dan pemegang Permit Autoriti Transaksi Getah\n\nboleh, dalam masa tiga puluh hari sebelum habis tempoh permit itu, memohon bagi\n\npembaharuan permit itu kepada Lembaga dalam bentuk dan mengikut cara yang\n\nditentukan oleh Lembaga berserta dengan pembayaran fi sebagaimana yang dinyatakan\n\ndalam Jadual Kedua.\n\n(2) Tanpa menjejaskan hak pemegang permit untuk memohon suatu Permit\n\nPST-G atau Permit Autoriti Transaksi Getah yang baharu jika permohonan bagi\n\npembaharuan dibuat selepas habis tempoh permit itu, Lembaga boleh menolak untuk\n\nmembaharui permit itu.\n\n(3) Lembaga boleh, selepas mempertimbangkan permohonan di bawah\n\nsubperaturan (1) atau (2), membaharui, dengan atau tanpa syarat, atau menolak untuk\n\nmembaharui permit itu.\n\n(4) Jika Lembaga memutuskan untuk membaharui Permit PST-G atau Permit\n\nAutoriti Transaksi Getah di bawah subperaturan (3), pemohon hendaklah membayar fi\n\nsebagaimana yang dinyatakan dalam Jadual Kedua kepada Lembaga sebelum permit itu\n\ndibaharui.\n\n(5) Lembaga boleh menolak untuk membaharui Permit PST-G atau Permit\n\nAutoriti Transaksi Getah jika Lembaga berpuas hati bahawa—\n\n(a) pemegang permit telah tidak mematuhi mana-mana peruntukan\n\nAkta atau mana-mana peraturan yang dibuat di bawah Akta;\n\n(b) pemegang permit telah tidak mematuhi mana-mana syarat permit;\n\n(c) pemegang permit telah mengemukakan apa-apa pernyataan,\n\nmaklumat atau dokumen yang didapati palsu, tanpa mengira sama\n\nada pemegang permit itu mengetahui atau mempercayai\n\npernyataan, maklumat atau dokumen itu adalah palsu atau\n\nsebaliknya; atau\n\n(d) pembaharuan permit itu akan memudaratkan industri getah\n\nMalaysia.\n\n(6) Jika pembaharuan permit itu ditolak oleh Lembaga di bawah\n\nsubperaturan (5), Lembaga hendaklah memberikan suatu notis bertulis kepada\n\npemohon mengenai keputusannya dalam masa tiga puluh hari dari tarikh keputusan itu.\n\n(7) Permohonan di bawah subperaturan (1) atau (2) boleh ditarik balik pada\n\nbila-bila masa sebelum permohonan itu diluluskan atau ditolak, yang jika itu berlaku fi\n\nyang telah dibayar di bawah subperaturan (1) tidak akan dikembalikan.\n\nPenggantungan dan pembatalan Permit PST-G\n\n31. (1) Lembaga boleh menghendaki pemegang Permit PST-G untuk memberikan\n\npenjelasan kenapa permitnya tidak sepatutnya digantung atau dibatalkan jika Lembaga\n\nberpuas hati bahawa—\n\n(a) apa-apa syarat yang dikenakan ke atas permit itu telah tidak\n\ndipatuhi atau telah dilanggar;\n\n(b) pemberian permit itu adalah disebabkan oleh suatu representasi\n\nfakta yang palsu oleh atau bagi pihak pemegang permit;\n\n(c) permit itu telah digunakan atau diniatkan untuk digunakan bagi\n\nmaksud yang menyalahi undang-undang;\n\n(d) maksud asal yang baginya permit itu dikeluarkan tidak lagi wujud;\n\n(e) pemegang permit itu telah melanggar atau telah tidak mematuhi\n\nmana-mana peruntukan Akta, mana-mana peraturan yang dibuat\n\ndi bawah Akta atau mana-mana undang-undang bertulis yang lain;\n\n(f) pemegang permit itu telah berhenti menjalankan aktiviti yang\n\nbaginya permit itu dikeluarkan;\n\n(g) pemegang permit itu telah mencemarkan imej baik industri getah;\n\n(h) keputusan atau penentuan oleh Menteri, Lembaga atau\n\nmana-mana pegawai yang diberi kuasa telah tidak dipatuhi; atau\n\n(i) terdapat apa-apa hal keadaan lain yang mewajarkan tindakan\n\nsedemikian.\n\n(2) Lembaga boleh menggantung atau membatalkan Permit PST-G jika\n\npemegang permit tidak memberikan penjelasan sebagaimana yang dikehendaki\n\ndi bawah subperaturan (1).\n\n(3) Jika Lembaga tidak berpuas hati dengan penjelasan yang diberikan\n\ndi bawah subperaturan (1), Lembaga boleh menggantung Permit PST-G bagi suatu\n\ntempoh tidak melebihi enam bulan dan boleh melanjutkan penggantungan itu bagi\n\nsuatu tempoh lain yang tidak melebihi enam bulan bagi pemegang permit itu\n\nmengambil tindakan pembetulan.\n\n(4) Jika pemegang permit itu tidak mengambil tindakan pembetulan di bawah\n\nsubperaturan (3), Lembaga boleh membatalkan Permit PST-G selepas habis tempoh\n\npenggantungan itu.\n\nPembatalan Permit Autoriti Transaksi Getah dan Permit PST-G\n\n32. Lembaga hendaklah membatalkan Permit Autoriti Transaksi Getah dan Permit\n\nPST-G jika—\n\n(a) pemegang permit itu mati;\n\n(b) pemegang permit itu menjadi bankrap;\n\n(c) pemegang permit itu tidak sempurna akal atau selainnya tidak berupaya\n\nuntuk menunaikan kewajipan pemegang permit itu;\n\n(d) pemegang permit itu, dalam hal suatu syarikat, digulungkan;\n\n(e) pemegang permit itu, dalam hal suatu perkongsian, dibubarkan; atau\n\n(f) pemegang permit itu adalah dorman, tanpa mengusahakan apa-apa\n\naktiviti atau transaksi sepanjang kesahan tempoh permit itu.\n\nPenyerahan balik permit\n\n33. (1) Pemegang permit boleh menyerahkan balik sesuatu permit dengan\n\nmenghantarkan permit itu kepada Lembaga bersama dengan suatu notis bertulis\n\nmengenai penyerahan balik itu.\n\n(2) Penyerahan balik itu hendaklah berkuat kuasa pada tarikh Lembaga\n\nmenerima permit dan notis yang disebut dalam subperaturan (1), atau jika suatu tarikh\n\nke hadapan bagi penyerahan balik dinyatakan dalam notis itu, pada tarikh ke hadapan\n\nitu.\n\n(3) Penyerahan balik permit tidak boleh dibatalkan melainkan jika\n\npenyerahan balik itu dinyatakan untuk berkuat kuasa pada tarikh ke hadapan dan\n\nLembaga, sebelum tarikh itu, melalui notis bertulis kepada pemegang permit itu,\n\nmembenarkan penyerahan balik itu ditarik balik.\n\nPerkongsian dalam permit\n\n34. (1) Jika permit dikeluarkan kepada suatu perkongsian, semua pekongsi\n\nhendaklah dinamakan dalam permit itu sebagai pemegang permit.\n\n(2) Jika apa-apa perubahan berlaku dalam perkongsian itu, pekongsi yang\n\ntinggal atau mana-mana pekongsi hendaklah, dalam masa satu bulan dari perubahan\n\nitu, memaklumkan perubahan itu kepada Lembaga secara bertulis.\n\n(3) Jika Lembaga berpuas hati bahawa perkongsian itu tidak dibubarkan dan,\n\ndalam hal penambahan pekongsi kepada perkongsian itu, bahawa pekongsi baharu itu\n\nialah orang yang layak dan sesuai, Lembaga boleh meminda permit itu dengan\n\nsewajarnya dan membenarkan permit itu untuk terus berkuat kuasa, sebagaimana\n\ndipinda, sehingga habis tempoh permit itu.\n\n(4) Setiap pekongsi hendaklah disifatkan bertanggungan secara bersesama\n\ndan berasingan bagi apa-apa tindakan atau peninggalan pekongsi yang lain melainkan\n\njika pekongsi itu membuktikan sehingga mahkamah berpuas hati bahawa—\n\n(a) tindakan atau peninggalan itu berlaku tanpa pengetahuan,\n\npersetujuan atau pembiaran pekongsi itu; dan\n\n(b) pekongsi itu telah mengambil segala langkah yang munasabah dan\n\ntelah menjalankan usaha yang wajar untuk mencegah tindakan\n\natau peninggalan itu.\n\nPindaan permit atas permintaan\n\n35. (1) Pemegang Permit PST-G boleh memohon kepada Lembaga untuk\n\nmeminda—\n\n(a) butir-butir permit; atau\n\n(b) syarat yang dikenakan ke atas permit.\n\n(2) Permohonan di bawah subperaturan (1) hendaklah dibuat secara bertulis\n\ndan hendaklah dikemukakan kepada Lembaga berserta dengan fi sebagaimana yang\n\ndinyatakan dalam Jadual Kedua.\n\n(3) Jika Lembaga meluluskan permohonan di bawah subperaturan (1),\n\nLembaga hendaklah meminda permit itu dengan sewajarnya dan membenarkan permit\n\nitu terus berkuat kuasa, sebagaimana dipinda, sehingga habis tempoh permit itu.\n\n(4) Jika Lembaga menolak permohonan di bawah subperaturan (1), Lembaga\n\nhendaklah memaklumkan keputusan itu kepada pemohon secara bertulis dalam masa\n\ntiga puluh hari dari keputusan itu.\n\nSalinan terperaku permit\n\n36. (1) Jika suatu permit hilang, musnah atau rosak, pemegang permit boleh\n\nmembuat permohonan secara bertulis kepada Lembaga bagi salinan terperaku permit\n\nitu.\n\n(2) Permohonan di bawah subperaturan (1) hendaklah disertakan dengan—\n\n(a) suatu akuan berkanun atau laporan polis oleh pemegang permit\n\nyang menyatakan bahawa permit yang dikeluarkan kepada\n\npemegang permit itu telah hilang, musnah atau rosak; dan\n\n(b) fi sebagaimana yang dinyatakan dalam Jadual Kedua.\n\n(3) Lembaga boleh mengeluarkan salinan terperaku permit jika Lembaga\n\nberpuas hati bahawa permit yang asal telah hilang, musnah atau rosak.\n\nPemberitahuan perubahan dalam maklumat yang diberikan\n\n37. (1) Tiap-tiap pemohon bagi permit atau pemohon bagi pembaharuan permit\n\nhendaklah, dalam masa satu bulan dari berlakunya apa-apa perubahan material dalam\n\napa-apa maklumat yang diberikan kepada Lembaga dalam mana-mana permohonan\n\natau apa-apa perubahan material dalam apa-apa maklumat yang diberikan menurut\n\npermintaan Lembaga, memaklumkan perubahan itu kepada Lembaga secara bertulis.\n\n(2) Tiap-tiap pemegang permit hendaklah, dalam masa satu bulan dari\n\nberlakunya apa-apa perubahan dalam butir-butir permit, memaklumkan perubahan itu\n\nkepada Lembaga secara bertulis.\n\n(3) Seseorang yang melanggar subperaturan (1) atau (2) melakukan suatu\n\nkesalahan dan boleh, apabila disabitkan, didenda tidak melebihi satu ribu ringgit atau\n\ndipenjarakan selama tempoh tidak melebihi satu bulan atau kedua-duanya.\n\nPenyenggaraan rekod dan dokumen\n\n38. (1) Pemegang permit, kecuali pemegang Permit Autoriti Transaksi Getah,\n\nhendaklah menyenggarakan suatu rekod yang terkini dan benar mengenai semua\n\ntransaksi dan dokumen berkaitan berhubung dengan permit itu dalam bentuk dan\n\nmengikut cara sebagaimana yang ditentukan oleh Lembaga.\n\n(2) Rekod dan dokumen yang disebut dalam subperaturan (1) hendaklah\n\ndalam bahasa kebangsaan atau bahasa Inggeris.\n\n(3) Pemegang permit yang disebut dalam subperaturan (1) hendaklah\n\nmemastikan semua rekod dan dokumen disimpan bagi tempoh tiga tahun dari tarikh\n\nkemasukan terakhir atau penyempurnaan rekod dan dokumen itu.\n\n(4) Rekod dan dokumen yang disimpan hendaklah dijadikan tersedia bagi\n\npemeriksaan oleh pegawai yang diberi kuasa di premis yang dinyatakan dalam permit.\n\n(5) Seseorang yang melanggar subperaturan (1) melakukan suatu kesalahan\n\ndan boleh, apabila disabitkan, didenda tidak melebihi lima ribu ringgit atau\n\ndipenjarakan selama tempoh tidak melebihi enam bulan atau kedua-duanya.\n\nDaftar Permit\n\n39. Lembaga hendaklah menyimpan dan menyenggarakan suatu Daftar Permit.\n\nBAHAGIAN IV\n\nPENGHANTARAN, PENGANGKUTAN DAN PENERIMAAN GETAH ATAU\n\nBAHAN TANAMAN GETAH\n\nPenghantaran, pengangkutan dan penerimaan getah atau bahan tanaman getah\n\n40. (1) Tiada seorang pun boleh menghantar, mengangkut atau menerima getah\n\natau bahan tanaman getah kecuali dengan kebenaran bertulis yang dikeluarkan\n\ndi bawah peraturan 41.\n\n (2) Mana-mana orang yang melanggar subperaturan (1) melakukan suatu\n\nkesalahan dan boleh, apabila disabitkan, didenda tidak melebihi tiga puluh ribu ringgit\n\natau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya.\n\nKebenaran bertulis untuk menghantar, mengangkut dan menerima getah atau\n\nbahan tanaman getah\n\n41. (1) Pemilik getah atau bahan tanaman getah hendaklah mengeluarkan\n\nkebenaran bertulis dalam bentuk dan mengikut cara sebagaimana yang ditentukan oleh\n\nLembaga untuk mengiringi tiap-tiap penghantaran atau pengangkutan getah atau\n\nbahan tanaman getah kepada pemegang lesen atau ejen penghantar.\n\n(2) Kebenaran bertulis di bawah subperaturan (1) hendaklah dibuat dalam\n\ntiga salinan dan hendaklah ditandatangani balas oleh pemegang lesen atau ejen\n\npenghantar atau mana-mana orang lain yang diberi kuasa dengan sewajarnya oleh\n\npemegang lesen atau ejen penghantar itu untuk menerima getah atau bahan tanaman\n\ngetah itu.\n\n (3) Salinan asal kebenaran bertulis hendaklah disimpan oleh pemegang lesen\n\natau ejen penghantar yang menerima penyerahan getah atau bahan tanaman getah itu,\n\ndan salinan pendua dan salinan peniga hendaklah disimpan oleh pemilik getah atau\n\nbahan tanaman getah itu di premis yang dinyatakan dalam lesen bagi maksud\n\npemeriksaan oleh pegawai yang diberi kuasa.\n\n(4) Pemilik, pemegang lesen atau ejen penghantar, mengikut mana-mana\n\nyang berkenaan, hendaklah apabila diminta oleh pegawai yang diberi kuasa\n\nmengemukakan salinan kebenaran bertulisnya bagi maksud pemeriksaan.\n\n (5) Pemilik, pemegang lesen atau ejen penghantar tidak boleh\n\nmenyerahhakkan kebenaran bertulis kepada mana-mana orang lain.\n\n(6) Mana-mana orang yang melanggar peraturan ini melakukan suatu\n\nkesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima puluh ribu ringgit\n\natau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya.\n\nResit rasmi\n\n42. (1) Pemegang lesen hendaklah, apabila mana-mana penjualan dan pembelian\n\ngetah atau bahan tanaman getah diselesaikan, mengeluarkan kepada pembeli atau\n\npenjual, mengikut mana-mana yang berkenaan, suatu resit rasmi dalam bentuk yang\n\nditentukan oleh Lembaga.\n\n(2) Resit rasmi yang dikeluarkan di bawah subperaturan (1) hendaklah\n\nditandatangani dengan sewajarnya oleh pemegang lesen atau oleh mana-mana orang\n\nyang diberi kuasa oleh pemegang lesen.\n\n(3) Resit rasmi yang dikeluarkan di bawah subperaturan (1) hendaklah\n\ndibuat dalam dua salinan dan hendaklah ditandatangani balas oleh pembeli atau penjual\n\nyang disebut dalam subperaturan (1) atau oleh orang yang menghantarkan getah atau\n\nbahan tanaman getah bagi pihak penjual.\n\n(4) Salinan asal resit rasmi hendaklah dkeluarkan kepada penjual atau\n\npembeli dan salinan penduanya hendaklah disimpan oleh pemegang lesen.\n\n(5) Pemegang lesen, penjual atau pembeli hendaklah menyimpan resit\n\nrasminya masing-masing di premisnya sebagaimana yang dinyatakan dalam lesen dan\n\nhendaklah mengemukakan resit rasmi itu apabila diminta oleh pegawai yang diberi\n\nkuasa bagi maksud pemeriksaan.\n\n(6) Mana-mana orang yang melanggar peraturan ini melakukan suatu\n\nkesalahan dan boleh, apabila disabitkan, didenda tidak melebihi tiga puluh ribu ringgit\n\natau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya.\n\nBAHAGIAN V\n\nPEMBUNGKUSAN DAN PENGEKSPORTAN GETAH, SARUNG TANGAN GETAH,\n\nTUMBUH-TUMBUHAN GETAH DAN BAHAN TANAMAN GETAH\n\nLarangan terhadap pengeksportan tumbuh-tumbuhan getah atau bahan tanaman\n\ngetah tanpa kelulusan bertulis\n\n43. (1) Tiada seorang pun boleh mengeksport apa-apa tumbuh-tumbuhan getah\n\natau bahan tanaman getah atau apa-apa bahagian daripada apa-apa tumbuh-tumbuhan\n\ngetah atau bahan tanaman getah yang boleh digunakan bagi pembiakan atau\n\npengeluaran semula tumbuh-tumbuhan getah dan bahan tanaman getah melainkan jika\n\norang itu telah memperoleh kelulusan bertulis Menteri atau pegawai yang diberi kuasa\n\nsecara bertulis oleh Menteri.\n\n(2) Suatu permohonan bagi kelulusan yang disebut dalam subperaturan (1)\n\nhendaklah dibuat secara bertulis kepada Menteri oleh orang yang bercadang untuk\n\nmengeksport tumbuh-tumbuhan getah atau bahan tanaman getah dalam bentuk dan\n\nmengikut cara sebagaimana yang ditentukan oleh Menteri.\n\n (3) Mana-mana orang yang melanggar subperaturan (1) melakukan suatu\n\nkesalahan dan boleh, apabila disabitkan, didenda tidak melebihi satu ratus ribu ringgit\n\natau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya.\n\n (4) Bagi maksud peraturan ini, \"eksport\" termasuklah pengeksportan dari\n\nmana-mana bahagian Semenanjung Malaysia ke Sabah atau Sarawak, dari Sabah ke\n\nmana-mana bahagian di Semenanjung Malaysia atau Sarawak, atau dari Sarawak ke\n\nmana-mana bahagian Semenanjung Malaysia atau Sabah.\n\nKehendak bagi perakuan tempat asal\n\n44. (1) Jika perakuan tempat asal dikehendaki bagi apa-apa getah yang\n\ndikeluarkan di dalam dan dieksport dari Malaysia, pemegang lesen hendaklah\n\nmengemukakan kepada Lembaga suatu salinan perakuan tempat asal dalam bentuk\n\nsebagaimana yang ditentukan oleh Lembaga bagi pengendorsan dan Lembaga boleh\n\nmengendorskan perakuan tempat asal itu.\n\n(2) Pengemukaan bagi pengendorsan di bawah subperaturan (1) hendaklah\n\ndisertakan dengan fi sebagaimana yang dinyatakan dalam Jadual Kedua dan apa-apa\n\nmaklumat atau dokumen sebagaimana yang dikehendaki oleh Lembaga.\n\nSalinan terperaku perakuan tempat asal\n\n45. (1) Jika suatu perakuan tempat asal hilang, musnah atau rosak, atau\n\ndikehendaki bagi apa-apa maksud yang sah di sisi undang-undang, suatu permohonan\n\nboleh dibuat secara bertulis kepada Lembaga atau pegawai yang diberi kuasa oleh\n\nLembaga bagi suatu salinan terperaku perakuan tempat asal itu berserta dengan fi\n\nsebagaimana yang dinyatakan dalam Jadual Kedua.\n\n(2) Jika suatu perakuan tempat asal hilang, musnah atau rosak, permohonan\n\ndi bawah subperaturan (1) hendaklah disertakan dengan suatu akuan berkanun atau\n\nlaporan polis yang dibuat oleh pemegang perakuan itu yang menyatakan bahawa\n\nperakuan tempat asal yang dikeluarkan kepada pemegang perakuan itu telah hilang,\n\nmusnah atau rosak.\n\n(3) Jika suatu salinan terperaku perakuan tempat asal dikehendaki bagi\n\nmaksud yang sah di sisi undang-undang, pemohon hendaklah menyatakan dalam\n\npermohonan di bawah subperaturan (1) sebab yang baginya salinan terperaku\n\nperakuan tempat asal itu dikehendaki.\n\n(4) Bagi maksud subperaturan (3), pemohon hendaklah memberikan apa-apa\n\ndokumen sebagaimana yang dikehendaki oleh Lembaga atau pegawai yang diberi kuasa\n\noleh Lembaga.\n\n(5) Lembaga atau pegawai yang diberi kuasa oleh Lembaga boleh\n\nmengeluarkan salinan terperaku perakuan tempat asal kepada pemohon jika Lembaga\n\natau pegawai yang diberi kuasa itu berpuas hati bahawa perakuan tempat asal itu telah\n\nhilang, musnah atau rosak, atau bahawa salinan terperaku perakuan tempat asal itu\n\ndikehendaki bagi maksud yang sah di sisi undang-undang.\n\nLarangan terhadap penggunaan simbol rumah yang tidak didaftarkan\n\n46. (1) Tiada seorang pun boleh menggunakan apa-apa simbol rumah melainkan\n\njika ia telah didaftarkan dengan Lembaga.\n\n(2) Mana-mana orang yang melanggar subperaturan (1) melakukan suatu\n\nkesalahan dan boleh, apabila disabitkan, didenda tidak melebihi sepuluh ribu ringgit\n\natau dipenjarakan selama tempoh tidak melebihi enam bulan atau kedua-duanya.\n\nPendaftaran simbol rumah\n\n47. (1) Pemegang lesen hendaklah, sebelum menggunakan apa-apa simbol\n\nrumah, membuat permohonan kepada Lembaga untuk mendaftarkan simbol rumah itu\n\nberserta dengan fi sebagaimana yang dinyatakan dalam Jadual Kedua.\n\n (2) Permohonan di bawah subperaturan (1) hendaklah—\n\n(a) menyatakan simbol rumah yang hendak digunakan oleh pemegang\n\nlesen berserta dengan suatu perihalan mengenai gred getah yang\n\nhendak dihantar di bawah simbol rumah itu;\n\n(b) menyatakan apa-apa simbol rumah lain yang hendak digunakan\n\noleh pemegang lesen untuk menunjukkan suatu gred getah\n\ntertentu yang boleh diterima oleh perdagangan getah; dan\n\n(c) memberikan apa-apa maklumat atau dokumen sebagaimana yang\n\ndikehendaki oleh Lembaga.\n\n(3) Bagi maksud perenggan (2)(a) dan (b), suatu nombor boleh digunakan\n\nsebagai simbol rumah.\n\n(4) Apabila permohonon di bawah subperaturan (1) diterima dan apabila\n\nberpuas hati bahawa pendaftaran simbol rumah itu tidak melanggar subperaturan (6),\n\nLembaga hendaklah mendaftarkan simbol rumah itu dengan sewajarnya.\n\n(5) Lembaga boleh, sebelum dan sebagai suatu syarat pendaftaran,\n\nmengenakan apa-apa syarat, pindaan, ubah suaian atau sekatan sebagaimana yang\n\ndifikirkannya perlu.\n\n(6) Lembaga tidak boleh mendaftarkan sesuatu simbol rumah jika—\n\n(a) simbol rumah itu—\n\n(i) serupa dengan suatu simbol rumah yang telah didaftarkan\n\nkepada pemegang lesen yang lain dan telah dimasukkan ke\n\ndalam Daftar Simbol Rumah yang disebut dalam\n\nsubperaturan (8); atau\n\n(ii) sebegitu hampir menyerupai suatu simbol rumah yang\n\ntelah didaftarkan kepada pemegang lesen yang lain dan\n\ntelah dimasukkan ke dalam Daftar Simbol Rumah yang\n\ndisebut dalam subperaturan (8) yang simbol rumah itu\n\nberkemungkinan akan memperdayakan atau menyebabkan\n\nkekeliruan kepada orang awam;\n\n(b) simbol rumah itu mengandungi apa-apa perkara yang mengaibkan\n\natau mengganggu; atau\n\n(c) penggunaan simbol rumah itu bertentangan dengan\n\nundang-undang.\n\n(7) Jika permohonan berasingan untuk mendaftarkan simbol rumah di bawah\n\nsubperaturan (1) dibuat oleh orang yang berlainan dan simbol rumah yang hendak\n\ndidaftarkan adalah serupa atau sebegitu menyerupai satu sama lain berkenaan dengan\n\ngred getah yang hendak dihantar di bawah simbol rumah itu, Lembaga boleh—\n\n(a) menolak untuk mendaftarkan mana-mana simbol rumah itu\n\nsehingga hak pemohon ditentukan oleh Lembaga atau telah\n\ndiselesaikan melalui persetujuan mengikut cara yang diluluskan\n\noleh Lembaga; atau\n\n(b) meluluskan pendaftaran simbol rumah itu tertakluk kepada\n\napa-apa syarat, pindaan, ubah suaian atau sekatan sebagaimana\n\nyang difikirkannya perlu.\n\n(8) Lembaga hendaklah menyimpan dan menyenggarakan suatu\n\nDaftar Simbol Rumah.\n\nPemindahan simbol rumah\n\n48. (1) Suatu simbol rumah yang didaftarkan di bawah peraturan 47 tidak boleh\n\ndipindahkan melainkan jika dengan kelulusan bertulis Lembaga.\n\n(2) Pemegang lesen yang kepadanya simbol rumah didaftarkan boleh\n\nmemohon secara bertulis kepada Lembaga bagi pemindahan simbol rumah yang\n\ndisertakan dengan fi sebagaimana yang dinyatakan dalam Jadual Kedua.\n\n(3) Jika Lembaga meluluskan pemindahan suatu simbol rumah yang\n\ndidaftarkan, Lembaga hendaklah meminda Daftar Simbol Rumah yang disebut dalam\n\nsubperaturan 47(8) dengan sewajarnya.\n\n(4) Mana-mana orang yang melanggar subperaturan (1) melakukan suatu\n\nkesalahan dan boleh, apabila disabitkan, didenda tidak melebihi sepuluh ribu ringgit\n\natau dipenjarakan selama tempoh tidak melebihi enam bulan atau kedua-duanya.\n\nTanda bungkusan\n\n49. (1) Tiap-tiap bungkusan getah untuk dieksport hendaklah mempunyai tanda\n\nyang berikut:\n\n(a) nombor lesen dan simbol rumah pembungkus;\n\n(b) nombor lesen dan simbol rumah pengeksport;\n\n(c) gred getah yang terkandung dalam bungkusan itu; dan\n\n(d) suatu label yang dibaca \"Buatan Malaysia\".\n\n(2) Tiap-tiap bungkusan sarung tangan getah yang dibuat di Malaysia untuk\n\ndieksport hendaklah mempunyai tanda yang berikut:\n\n(a) jenis sarung tangan getah yang dibungkus;\n\n(b) nombor lesen pengeksport; dan\n\n(c) suatu label yang dibaca \"Buatan Malaysia\".\n\n(3) Label yang disebut dalam perenggan (2)(c) tidak boleh digunakan bagi\n\nsarung tangan getah yang tidak dibuat di Malaysia.\n\n(4) Semua tanda bungkusan hendaklah jelas, tersendiri dan tidak boleh\n\ndipadam.\n\n(5) Jika suatu bungkusan ditanda dengan atau menggunakan nombor,\n\nnombor itu hendaklah dalam angka Arab.\n\n(6) Mana-mana orang yang melanggar peraturan ini melakukan suatu\n\nkesalahan dan boleh, apabila disabitkan, didenda tidak melebihi sepuluh ribu ringgit\n\natau dipenjarakan selama tempoh tidak melebihi enam bulan atau kedua-duanya.\n\nSalah nyataan atau tanda bungkusan palsu\n\n50. (1) Tiada seorang pun boleh membungkus getah yang mengandungi getah\n\nyang grednya selain gred yang dinyatakan dalam tanda bungkusan.\n\n(2) Tiada seorang pun boleh membungkus semula apa-apa blok getah\n\ndaripada mana-mana negara lain dan menandakan bungkusan itu dengan logo Standard\n\nGetah Malaysia yang ditentukan oleh Lembaga atau label yang disebut dalam\n\nperenggan 49(2)(c) tanpa terlebih dahulu melalui apa-apa pemprosesan getah secara\n\nkimia atau fizikal di Malaysia.\n\n(3) Mana-mana orang yang melanggar subperaturan (1) atau (2) melakukan\n\nsuatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima puluh ribu\n\nringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya.\n\nBAHAGIAN VI\n\nRAYUAN\n\nProsedur rayuan\n\n51. (1) Mana-mana orang yang terkilan dengan keputusan Lembaga—\n\n(a) yang menolak untuk mengeluarkan lesen di bawah\n\nsubperaturan 5(3) atau membaharui lesen di bawah\n\nsubperaturan 8(2) atau (5), atau yang membatalkan lesen\n\ndi bawah subperaturan 10(2) atau (4), atau peraturan 11; atau\n\n(b) yang menolak untuk mengeluarkan Permit PST-G di bawah\n\nsubperaturan 24(4) atau membaharui Permit PST-G di bawah\n\nsubperaturan 30(2) atau (5), atau yang menggantung Permit\n\nPST-G di bawah subperaturan 31(2) atau (3), atau membatalkan\n\nPermit PST-G di bawah subperaturan 31(4) atau peraturan 32,\n\nboleh, dalam masa tiga puluh hari dari tarikh keputusan itu dihantar ke alamat terakhir\n\npemegang lesen yang diketahui, membuat rayuan kepada Menteri secara bertulis dalam\n\nbentuk dan mengikut cara yang ditentukan oleh Lembaga.\n\n(2) Rayuan di bawah subperaturan (1) hendaklah disertakan dengan fi\n\nsebagaimana yang dinyatakan dalam Jadual Kedua.\n\n(3) Rayuan di bawah subperaturan (1) tidak boleh dijadikan sebagai\n\npenggantungan keputusan yang dibuat di bawah Peraturan-Peraturan ini melainkan\n\njika selainnya dibenarkan oleh Lembaga.\n\n(4) Menteri boleh menubuhkan suatu jawatankuasa bagi maksud\n\nmenasihatinya dalam mana-mana rayuan tetapi Menteri tidak terikat untuk menerima\n\nnasihat daripada jawatankuasa itu.\n\n(5) Tiada anggota Lembaga boleh dilantik untuk menjadi anggota\n\njawatankuasa yang disebut dalam subperaturan (4).\n\n(6) Anggota jawatankuasa boleh dibayar apa-apa elaun sebagaimana yang\n\nditentukan oleh Menteri.\n\n(7) Menteri boleh, setelah menimbangkan rayuan di bawah subperaturan (1)\n\ndan nasihat jawatankuasa yang ditubuhkan di bawah subperaturan (4), jika ada—\n\n(a) mengesahkan keputusan Lembaga;\n\n(b) membatalkan keputusan Lembaga; atau\n\n(c) menggantikan keputusan Lembaga dengan apa-apa keputusan\n\nyang difikirkan patut oleh Menteri.\n\nKesahan lesen dilanjutkan dalam rayuan yang berjaya\n\n52. Jika Menteri membenarkan rayuan terhadap keputusan untuk membatalkan\n\nlesen yang diberikan di bawah Peraturan-Peraturan ini oleh Lembaga, kesahan lesen itu\n\nhendaklah dilanjutkan bagi tempoh yang bersamaan dengan tempoh yang bermula dari\n\ntarikh pembatalan sehingga tarikh keputusan Menteri yang membenarkan rayuan itu\n\ndibuat dan tempoh lanjutan itu hendaklah direkodkan dengan sewajarnya dalam lesen\n\nitu.\n\nLarangan permohonan yang serupa apabila permohonan terdahulu sedang\n\ndirayu\n\n53. (1) Jika permohonan dibuat di bawah Peraturan-Peraturan ini dan\n\npermohonan itu ditolak atau hanya dibenarkan sebahagiannya dan pemohon membuat\n\nrayuan terhadap keputusan itu di bawah peraturan 51, pemohon itu tidak boleh,\n\nmelainkan jika ditentukan selainnya oleh Menteri, kemudiannya membuat suatu\n\npermohonan yang serupa di bawah Peraturan-Peraturan ini sehingga rayuan itu\n\nditentukan oleh Menteri.\n\n(2) Jika apa-apa lesen diberikan disebabkan oleh keputusan bagi permohonan\n\nyang serupa yang disebut dalam subperaturan (1), melainkan jika ditentukan selainnya\n\noleh Menteri, lesen yang diberikan sedemikian hendaklah disifatkan sebagai terbatal.\n\nBAHAGIAN VII\n\nAM\n\nPenentuan tarikh permohonan\n\n54. Bagi maksud menentukan tarikh sesuatu permohonan yang dibuat di bawah\n\nPeraturan-Peraturan ini—\n\n(a) apabila permohonan dibuat melalui pos, tarikh tanda pos pada\n\nsampul surat itu hendaklah disifatkan sebagai tarikh permohonan\n\nitu dibuat, dan jika Lembaga tidak dapat menentukan tarikh pada\n\ntanda pos itu, permohonan itu hendaklah disifatkan sebagai telah\n\ndibuat tiga hari sebelum tarikh permohonan itu diterima oleh\n\nLembaga; atau\n\n(b) jika permohonan itu dibuat melalui penghantaran elektronik,\n\ntarikh pada cap waktu yang tertera pada permohonan itu\n\nhendaklah disifatkan sebagai tarikh permohonan itu dibuat dan\n\njika tiada cap waktu tertera atau Lembaga tidak dapat menentukan\n\ntarikh pada cap waktu itu, permohonan itu hendaklah disifatkan\n\ntelah dihantar pada tarikh permohonan itu diterima oleh Lembaga.\n\nKehendak untuk memberikan maklumat dan dokumen\n\n55. (1) Pada menjalankan fungsi dan kuasanya, Lembaga boleh, melalui notis\n\nsecara bertulis menghendaki mana-mana orang untuk memberikan apa-apa maklumat\n\natau dokumen yang difikirkan perlu oleh Lembaga mengikut apa-apa cara yang\n\nditentukan oleh Lembaga.\n\n(2) Seseorang yang—\n\n(a) enggan atau mengabaikan tindakan untuk memberikan maklumat\n\natau dokumen yang dikehendaki; atau\n\n(b) dengan sengaja memberikan apa-apa maklumat atau dokumen\n\nyang dikehendaki di bawah subperaturan (1) melalui apa-apa\n\nnotis yang tidak lengkap, palsu atau tidak tepat,\n\nmelakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi tiga\n\npuluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau\n\nkedua-duanya.\n\nKeterangan\n\n56. (1) Kandungan apa-apa dokumen yang diberikan, dikeluarkan atau\n\ndiserahkan oleh Lembaga di bawah atau bagi maksud Peraturan-Peraturan ini,\n\nmelainkan jika dibuktikan selainnya, adalah benar dan pengemukaan apa-apa rekod\n\nyang berupa sebagai menunjukkan bahawa suatu lesen atau permit telah dikeluarkan di\n\nbawah Peraturan-Peraturan ini hendaklah menjadi keterangan prima facie mengenai\n\npengeluaran, bukan-pengeluaran atau tarikh habis tempoh lesen atau permit itu.\n\n(2) Dalam apa-apa prosiding berkenaan dengan kesalahan-kesalahan\n\ndi bawah Peraturan-Peraturan ini jika keterangan dikehendaki untuk membuktikan\n\nbahawa—\n\n(a) seseorang telah dikeluarkan atau tidak dikeluarkan lesen atau\n\npermit pada apa-apa tarikh bagi apa-apa tempoh;\n\n(b) lesen atau permit tertakluk kepada syarat yang dikenakan; atau\n\n(c) lesen atau permit telah digantung selama apa-apa tempoh atau\n\ndibatalkan,\n\nsuatu perakuan bertulis yang berupa sebagai yang ditandatangani oleh Ketua Pengarah\n\natau mana-mana pegawai yang diberi kuasa yang menyatakan bahawa seseorang itu\n\ntelah dikeluarkan atau tidak dikeluarkan dengan suatu lesen atau permit pada apa-apa\n\ntarikh atau dengan apa-apa syarat, had atau sekatan yang dikenakan atau lesen atau\n\npermit itu telah digantung atau dibatalkan hendaklah menjadi keterangan prima facie\n\nmengenai fakta yang dinyatakan dalam perakuan itu.\n\nFi\n\n57. (1) Fi yang kena dibayar di bawah Peraturan-Peraturan ini hendaklah dibayar\n\nkepada Lembaga melalui apa-apa kaedah dan mengikut apa-apa cara yang ditentukan\n\noleh Lembaga.\n\n(2) Fi yang dipungut oleh Lembaga di bawah Peraturan-Peraturan ini\n\nhendaklah dibayar ke dalam Kumpulan Wang.\n\nMaklumat palsu atau mengelirukan\n\n58. Mana-mana orang yang memberikan apa-apa maklumat yang dikehendaki di\n\nbawah Peraturan-Peraturan ini yang diketahuinya adalah palsu atau dalam apa-apa hal\n\nmaterial mengelirukan melakukan suatu kesalahan dan boleh, apabila disabitkan,\n\ndidenda tidak melebihi tiga puluh ribu ringgit atau dipenjarakan selama tempoh tidak\n\nmelebihi satu tahun atau kedua-duanya.\n\nBAHAGIAN VIII\n\nPEMBATALAN, KECUALIAN DAN PERALIHAN\n\nPembatalan\n\n59. (1) Peraturan-Peraturan Lembaga Getah Malaysia (Pelesenan) 1997\n\n[P.U. (A) 516/1997] (selepas ini disebut sebagai \"Peraturan-Peraturan yang dibatalkan\")\n\ndibatalkan.\n\n(2) Bagi maksud Bahagian ini, \"tarikh permulaan kuat kuasa\n\nPeraturan-Peraturan ini\" ertinya tarikh Peraturan-Peraturan ini mula berkuat kuasa\n\ndi bawah subperaturan 1(2).\n\nLesen, perakuan dan permit sedia ada\n\n60. (1) Mana-mana lesen, perakuan atau permit yang dikeluarkan di bawah\n\nPeraturan-Peraturan yang dibatalkan yang masih sah pada tarikh permulaan kuat kuasa\n\nPeraturan-Peraturan ini hendaklah terus sah sehingga tarikh habis tempohnya atau\n\nbagi tempoh enam bulan, mengikut mana-mana yang terdahulu.\n\n(2) Semasa tempoh kesahan yang dinyatakan dalam subperaturan (2),\n\nmana-mana pemegang lesen, pemegang perakuan atau pemegang permit hendaklah,\n\ndengan seberapa segera yang praktik, membuat permohonan bagi lesen atau permit\n\nmengikut Peraturan-Peraturan ini.\n\nPemindahan kuasa, dsb.\n\n61. (1) Semua kuasa, hak, keistimewaan, liabiliti, obligasi dan kewajipan yang\n\nsebelum tarikh permulaan kuat kuasa Peraturan-Peraturan ini adalah terletak hak pada\n\nPanel Pemerakuan dan Panel Pelesenan yang ditubuhkan di bawah\n\nPeraturan-Peraturan yang dibatalkan hendaklah, mulai tarikh permulaan kuat kuasa\n\nPeraturan-Peraturan ini, diturunkan kepada Lembaga.\n\n(2) Semua kuasa, hak, keistimewaan, liabiliti, obligasi dan kewajipan yang\n\nsebelum tarikh permulaan kuat kuasa Peraturan-Peraturan ini adalah terletak hak pada\n\nPanel Rayuan Pelesenan dan Panel Rayuan Pemerakuan yang ditubuhkan di bawah\n\nPeraturan-Peraturan yang dibatalkan hendaklah, mulai tarikh permulaan kuat kuasa\n\nPeraturan-Peraturan ini, diturunkan kepada Menteri.\n\nPenerusan permohonan yang belum selesai\n\n62. (1) Semua permohonan yang belum selesai di hadapan Panel Pelesenan dan\n\nPanel Pemerakuan di bawah Peraturan-Peraturan yang dibatalkan hendaklah, pada\n\ntarikh permulaan kuat kuasa Peraturan-Peraturan ini, diuruskan oleh Lembaga\n\nmengikut Peraturan-Peraturan ini.\n\n (2) Semua rayuan yang belum selesai di hadapan Panel Rayuan Pelesenan\n\ndan Panel Rayuan Pemerakuan di bawah Peraturan-Peraturan yang dibatalkan\n\nhendaklah, pada tarikh permulaan kuat kuasa Peraturan-Peraturan ini, diuruskan oleh\n\nMenteri mengikut Peraturan-Peraturan ini.\n\n (3) Semua kelulusan atau rayuan yang belum selesai di hadapan Menteri\n\ndi bawah Peraturan-Peraturan yang dibatalkan hendaklah, pada tarikh permulaan kuat\n\nkuasa Peraturan-Peraturan ini, diuruskan oleh Menteri mengikut Peraturan-Peraturan\n\nini.\n\n(4) Pemegang lesen atau pemegang perakuan yang telah membuat rayuan\n\nbagi pembaharuan lesen dan perakuan di bawah Peraturan-Peraturan yang dibatalkan\n\nboleh terus menjalankan aktivitinya bagi tempoh enam bulan dari tarikh permulaan\n\nkuat kuasa Peraturan-Peraturan ini atau sehingga Menteri membuat keputusan atas\n\nrayuan itu mengikut Peraturan-Peraturan ini, mengikut mana-mana yang terdahulu.\n\nJADUAL PERTAMA\n\n[Peraturan 2]\n\nTUMBUH-TUMBUHAN GETAH\n\nTumbuh-tumbuhan spesies Hevea Tumbuh-tumbuhan selain spesies Hevea\n\n(a) Hevea brasiliensis\n\n(b) Hevea benthamiana\n\n(c) Hevea guianensis\n\n(d) Hevea pauciflora\n\n(e) Hevea nitida\n\n(f) Hevea spruceana\n\n(g) Hevea microphylia\n\n(h) Hevea rigidifolia\n\n(i) Hevea camporum\n\n(j) Hevea camargoana\n\n(a) Spesies Castilla\n\n(b) Spesies Manihot\n\n(c) Funtumia elastica\n\n(d) Spesies Londolphia\n\n(e) Ficus elastica\n\n(f) Parthenium argentatum (guayule)\n\n(g) Spesies Taraxacum\n\n(h) Spesies Solidago\n\nJADUAL KEDUA\n\n[Peraturan 4, 5, 8, 12, 15, 16, 23, 24, 25, 30, 35, 36, 44, 45, 47, 48 dan 51]\n\nBil. Perkara Peraturan Tujuan/Aktiviti Fi\n\n1. Lesen Subperaturan\n\n4(1)\n\nFi pentadbiran bagi permohonan\n\nlesen\n\nRM100 setiap\n\npermohonan\n\nSubperaturan\n\n5(2)\n\nPengeluaran\n\nlesen untuk\n\nperdagangan/\n\nmemproses\n\ngetah\n\nuntuk membeli\n\ngetah\n\nRM100 setiap\n\ntahun\n\nuntuk\n\nmenyimpan\n\ngetah\n\nRM100 setiap\n\ntahun\n\nuntuk\n\nmemproses\n\ngetah\n\nRM500 setiap\n\ntahun\n\nuntuk\n\nmembungkus\n\ngetah\n\nRM300 setiap\n\ntahun\n\nuntuk menjual\n\ngetah\n\nRM200 setiap\n\ntahun\n\nuntuk\n\nmengeksport\n\ngetah\n\nRM500 setiap\n\ntahun\n\nPengeluaran\n\nlesen untuk\n\npembuatan\n\nproduk getah\n\nuntuk membeli\n\ndan menyimpan\n\ngetah bagi\n\npembuatan\n\nproduk getah\n\nRM500 setiap\n\ntahun\n\nPengeluaran\n\nlesen untuk\n\nmengeksport\n\nsarung tangan\n\ngetah\n\nuntuk\n\nmengeksport\n\nsarung tangan\n\ngetah\n\nRM500 setiap\n\ntahun\n\nPengeluaran\n\nlesen untuk\n\ntapak semaian\n\ngetah\n\nuntuk membeli,\n\nmenyimpan atau\n\nmenjual bahan\n\ntanaman getah,\n\natau untuk\n\nmencambahkan,\n\nmenumbuhkan,\n\nmenanam atau\n\nmemindah\n\nRM500 setiap\n\ntahun\n\ntanam bahan\n\ntanaman getah\n\nbagi tujuan\n\nkomersial\n\nSubperaturan\n\n8(1)\n\nPembaharuan\n\nlesen untuk\n\nperdagangan/\n\nmemproses\n\ngetah\n\nuntuk membeli\n\ngetah\n\nRM100 setiap\n\ntahun\n\nuntuk\n\nmenyimpan\n\ngetah\n\nRM100 setiap\n\ntahun\n\nuntuk\n\nmemproses\n\ngetah\n\nRM500 setiap\n\ntahun\n\nuntuk\n\nmembungkus\n\ngetah\n\nRM300 setiap\n\ntahun\n\nuntuk menjual\n\ngetah\n\nRM200 setiap\n\ntahun\n\nuntuk\n\nmengeksport\n\ngetah\n\nRM500 setiap\n\ntahun\n\nPembaharuan\n\nlesen untuk\n\npembuatan\n\nproduk getah\n\nuntuk membeli\n\ndan menyimpan\n\ngetah bagi\n\npembuatan\n\nproduk getah\n\nRM500 setiap\n\ntahun\n\nPembaharuan\n\nlesen untuk\n\nmengeksport\n\nsarung tangan\n\ngetah\n\nuntuk\n\nmengeksport\n\nsarung tangan\n\ngetah\n\nRM500 setiap\n\ntahun\n\nPembaharuan\n\nlesen untuk\n\ntapak semaian\n\ngetah\n\nuntuk membeli,\n\nmenyimpan atau\n\nmenjual bahan\n\ntanaman getah,\n\natau untuk\n\nmencambahkan,\n\nmenumbuhkan,\n\nmenanam atau\n\nmemindah\n\ntanam bahan\n\ntanaman getah\n\nbagi tujuan\n\nkomersial\n\nRM500 setiap\n\ntahun\n\nSubperaturan\n\n12(2)\n\nPermohonan untuk memindahkan\n\nlesen\n\nRM100 setiap\n\npermohonan\n\nPermohonan untuk\n\nmenyerahhakkan lesen\n\nRM100 setiap\n\npermohonan\n\nSubperaturan\n\n15(2)\n\nPermohonan untuk meminda\n\nlesen\n\nRM100 setiap\n\npermohonan\n\nPerenggan\n\n16(2)(b)\n\nPermohonan untuk salinan\n\nterperaku lesen\n\nRM50 setiap\n\nsalinan\n\n2. Permit Subperaturan\n\n23(1)\n\nFi pentadbiran bagi permohonan\n\nPermit Autoriti Transaksi Getah\n\n- Tiada -\n\nFi pentadbiran bagi permohonan\n\nPermit PST-G\n\nRM100 setiap\n\npermohonan\n\nFi pentadbiran bagi permohonan\n\nPermit Eksport\n\n- Tiada -\n\nSubperaturan\n\n24(2)\n\nPengeluaran Permit Autoriti\n\nTransaksi Getah\n\n- Tiada -\n\nPengeluaran Permit PST-G RM100 setiap\n\ntahun\n\nPengeluaran Permit Eksport RM3 setiap tan\n\nmetrik\n\nPerenggan\n\n25(4)(b)\n\nPenggantian kad Permit Autoriti\n\nTransaksi Getah\n\nRM10 setiap kad\n\nSubperaturan\n\n30(1)\n\nPembaharuan Permit Autoriti\n\nTransaksi Getah\n\n- Tiada -\n\nPembaharuan Permit PST-G RM100 setiap\n\ntahun\n\nPembaharuan Permit Eksport - Tiada -\n\nSubperaturan\n\n35(2)\n\nPermohonan untuk meminda\n\nPermit PST-G\n\nRM50 setiap\n\npermohonan\n\nPerenggan\n\n36(2)(b)\n\nPermohonan bagi salinan\n\nterperaku permit\n\nRM10 setiap\n\nsalinan\n\n3. Perakuan\n\ntempat\n\nasal\n\nSubperaturan\n\n44(2)\n\nPengendorsan perakuan tempat\n\nasal\n\nRM10 setiap\n\nsalinan\n\nSubperaturan\n\n45(1)\n\nPermohonan bagi salinan\n\nterperaku perakuan tempat asal\n\nRM5 setiap\n\nsalinan\n\n4. Simbol\n\nrumah\n\nSubperaturan\n\n47(1)\n\nPermohonan untuk pendaftaran\n\nsimbol rumah\n\nRM100 setiap\n\npermohonan\n\nSubperaturan\n\n48(2)\n\nPermohonan untuk pemindahan\n\nsimbol rumah\n\nRM100 setiap\n\npermohonan\n\n5. Rayuan Subperaturan\n\n51(2)\n\nRayuan kepada Menteri RM1,500\n\nDibuat 14 April 2014\n\n[KPPK(S)423(12)825/1Klt. 1; PN(PU2)560/VIII]\n\nDATUK AMAR DOUGLAS UGGAH EMBAS\n\nMenteri Perusahaan Perladangan dan Komoditi\n\nMALAYSIAN RUBBER BOARD (INCORPORATION) ACT 1996\n\nMALAYSIAN RUBBER BOARD (LICENSING AND PERMIT) REGULATIONS 2014\n\nARRANGEMENT OF REGULATIONS\n\nPART I\n\nPRELIMINARY\n\nRegulation\n\n1. Citation and commencement\n\n2. Interpretation\n\nPART II\n\nLICENCES\n\n3. Activities to be licenced\n\n4. Application for licence\n\n5. Issuance of licence\n\n6. Compliance with conditions imposed on licence\n\n7. Activities prohibited by licence\n\n8. Renewal of licence\n\n9. Validity of licence\n\n10. Suspension and revocation of licence\n\n11. Revocation of licence\n\n12. Transfer or assignment of licence\n\n13. Surrender of licence\n\n14. Partnership in licence\n\n15. Amendment of licence by request\n\n16. Certified copy of licence\n\n17. Display of licence, business signage, etc.\n\n18. Notification of change in information furnished\n\n19. Continuance of conditions of licence in case of change of occupancy\n\nRegulation\n\n20. Maintenance of records and documents\n\n21. Register of Licences\n\nPART III\n\nPERMITS\n\n22. Activities requiring permit\n\n23. Application for permit\n\n24. Issuance of permit\n\n25. Special conditions for Rubber Transaction Authority Permit\n\n26. Prohibited activities under Rubber Transaction Authority Permit\n\n27. Special conditions for PST-G Permit\n\n28. Special conditions for Export Permit\n\n29. Compliance with conditions imposed on permit\n\n30. Renewal of permit\n\n31. Suspension and revocation of PST-G Permit\n\n32. Revocation of Rubber Transaction Authority Permit and PST-G Permit\n\n33. Surrender of permit\n\n34. Partnership in permit\n\n35. Amendment of permit by request\n\n36. Certified copy of permit\n\n37. Notification of change in information furnished\n\n38. Maintenance of records and documents\n\n39. Register of Permits\n\nPART IV\n\nCONVEYANCE, TRANSPORTATION AND RECEIPT OF RUBBER OR\n\nRUBBER PLANTING MATERIALS\n\n40. Conveying, transporting and receiving rubber or rubber planting materials\n\nRegulation\n\n41. Written authority for conveying, transporting and receiving rubber or rubber\n\nplanting materials\n\n42. Official receipts\n\nPART V\n\nPACKAGING AND EXPORT OF RUBBER, RUBBER GLOVES, RUBBER PLANTS\n\nAND RUBBER PLANTING MATERIALS\n\n43. Prohibition against export of rubber plant or rubber planting materials without\n\nwritten approval\n\n44. Requirement for certificate of origin\n\n45. Certified copy of certificate of origin\n\n46. Prohibition against use of unregistered house symbol\n\n47. Registration of house symbol\n\n48. Transfer of house symbol\n\n49. Package markings\n\n50. Misstatement or false package markings\n\nPART VI\n\nAPPEAL\n\n51. Appeal procedure\n\n52. Validity of licence extended in successful appeal\n\n53. Prohibition of similar application when earlier application pending appeal\n\nPART VII\n\nGENERAL\n\n54. Determination of date of application\n\n55. Requirement to furnish information and document\n\n56. Evidence\n\nRegulation\n\n57. Fees\n\n58. False or misleading information\n\nPART VIII\n\nREVOCATION, SAVINGS AND TRANSITIONAL\n\n59. Revocation\n\n60. Existing licences, certificates and permits\n\n61. Transfer of authority, etc.\n\n62. Continuance of pending applications\n\nFIRST SCHEDULE\n\nSECOND SCHEDULE\n\nMALAYSIAN RUBBER BOARD (INCORPORATION) ACT 1996\n\nMALAYSIAN RUBBER BOARD (LICENSING AND PERMIT) REGULATIONS 2014\n\nIN exercise of the powers conferred by section 62 of the Malaysian Rubber Board\n\n(Incorporation) Act 1996 [Act 551], the Minister makes the following regulations:\n\nPART I\n\nPRELIMINARY\n\nCitation and commencement\n\n1. (1) These regulations may be cited as the Malaysian Rubber Board\n\n(Licensing and Permit) Regulations 2014.\n\n(2) These Regulations come into operation on 30 April 2014.\n\nInterpretation\n\n2. In these Regulations—\n\n\"rubber planting material\" includes rubber seeds, seedlings, cuttings, budwood\n\n(green and brown), budded plants (including bare root budded stumps, polybag budded\n\nplants and core stumps), and any tissues or plant parts that can be propagated or\n\nmultiplied by any means, including by conventional or biotechnological techniques;\n\n\"contaminated raw rubber\" means raw rubber contaminated by impurities that\n\nmay be organic in nature such as leaf or bark, or non-organic in nature such as sand,\n\nsoil, plastic, chemical, metal, or vulcanised or non-vulcanised rubber, resulting in\n\nirreversible quality deterioration or affecting the flow of rubber processing operations;\n\n\"licence\" means a licence issued by the Board under subregulation 5(1);\n\n\"smallholder\" means a person who owns and operates one or more rubber\n\nplantations in a State the total of which is not more than 40.46 hectares;\n\n\"licensee\" means a person issued with a licence under subregulation 5(1);\n\n\"permit holder\" means a holder of the Rubber Transaction Authority Permit,\n\nPST-G Permit or Export Permit, whichever is applicable;\n\n\"rubber plantation operator\" means a person who derives income from rubber\n\nproceeds of a rubber plantation owned by a smallholder by way of leasing or sharing\n\nwith the consent of the smallholder;\n\n\"permit\" means the Rubber Transaction Authority Permit, PST-G Permit or\n\nExport Permit issued by the Board under subregulation 24(1);\n\n\"Rubber Transaction Authority Permit\" means a permit to sell rubber issued\n\nunder subregulation 24(1);\n\n\"Export Permit\" means a permit to export rubber consignments issued under\n\nsubregulation 24(1);\n\n\"PST-G Permit\" means a permit to buy, store and sell rejected rubber gloves and\n\nscrap rubber gloves issued under subregulation 24(1);\n\n\"rubber plant\" means—\n\n(a) any plant from the Hevea species within the Euphorbiaceaese family as\n\nspecified in the First Schedule and their interspecific hybrids; and\n\n(b) any plant other than the Hevea species including any genetically modified\n\nplant derived from the Hevea species and their hybrids as specified in the\n\nFirst Schedule;\n\n\"premises\" includes any building or tent or any other structure, permanent or\n\notherwise together with the land on which the building, tent or other structure is\n\nsituated and any adjoining land used in connection therewith, and any vehicle,\n\nconveyance, vessel or aircraft;\n\n\"process\", in relation to rubber, means any activity which changes the chemical\n\nand physical properties of rubber;\n\n\"rubber gloves\" means gloves made wholly or partly from natural or synthetic\n\nrubber;\n\n\"house symbol\" means any mark or identification indicated on a packaging as\n\nregistered under subregulation 47(4).\n\nPART II\n\nLICENCES\n\nActivities to be licenced\n\n3. (1) No person shall—\n\n(a) buy, store, sell, process or pack, or export rubber;\n\n(b) buy and store rubber for the manufacture of rubber products;\n\n(c) export rubber gloves; or\n\n(d) buy, store or sell, or germinate, grow, plant or transplant rubber\n\nplanting materials for commercial purposes,\n\nunless he holds a licence.\n\n(2) A person who contravenes subregulation (1) commits an offence and\n\nshall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to\n\nimprisonment for a term not exceeding three years or to both.\n\nApplication for licence\n\n4. (1) An application for a licence to carry out any of the activities referred to in\n\nsubregulation 3(1) shall be made to the Board in such form and manner as determined\n\nby the Board together with the administrative fee as specified in the Second Schedule.\n\n(2) Unless otherwise directed by the Board, a separate application shall be\n\nmade in respect of—\n\n(a) each activity referred to in subregulation 3(1); and\n\n(b) each premises used in connection with the activities referred to in\n\nsubregulation 3(1) irrespective of whether the premises is\n\nadministratively or organizationally linked with another premises.\n\n(3) Upon receiving an application under subregulation (1), the Board may\n\nrequire the applicant to provide further particulars, information or documents.\n\n(4) If any particulars, information or documents required under\n\nsubregulation (3) is not provided by the applicant within the time specified by the\n\nBoard, the application shall be deemed to have been withdrawn without prejudice to a\n\nfresh application being made by the applicant.\n\n(5) An application under subregulation (1) may be withdrawn at any time\n\nbefore the issuance of or refusal to issue a licence, in which event the administrative fee\n\npaid under subregulation (1) shall not be refunded.\n\nIssuance of licence\n\n5. (1) After considering the application under subregulation 4(1) and particulars,\n\ninformation or documents under subregulation 4(3), the Board may issue or refuse to\n\nissue a licence.\n\n(2) Where the Board decides to issue the licence under subregulation (1), the\n\napplicant shall pay the fee as specified in the Second Schedule before the issuance of the\n\nlicence.\n\n(3) Where the Board refuses to issue a licence under subregulation (1), the\n\nBoard shall give the applicant a written notice of its decision within thirty days from the\n\ndate of the decision.\n\nCompliance with conditions imposed on licence\n\n6. (1) The Board may impose any condition upon issuance of a licence under\n\nregulation 5 and may, at any time, amend the conditions imposed.\n\n(2) A licensee shall comply with the conditions imposed on a licence.\n\n(3) A licensee who contravenes subregulation (2) commits an offence and\n\nshall, on conviction, be liable to a fine not exceeding fifty thousand ringgit or to\n\nimprisonment for a term not exceeding two years or to both.\n\nActivities prohibited by licence\n\n7. (1) A licensee shall not—\n\n(a) carry on any activity other than the activity for which the licence\n\nis issued;\n\n(b) carry on any licenced activity in premises other than the premises\n\nspecified in the licence;\n\n(c) store rubber that exceeds the amount allowed by the Board;\n\n(d) purchase rubber from a smallholder who is not a holder of a\n\nRubber Transaction Authority Permit;\n\n(e) use, in his rubber trade—\n\n(i) any instrument for weighing or measuring which is not\n\nverified and stamped in accordance with the\n\nWeights and Measures Act 1972 [Act 71]; or\n\n(ii) any instrument for weighing or measuring which readings\n\nhe knows to be false;\n\n(f) purchase, sell or store rubber obtained from dubious or illegal\n\nsources, or illegal activities; or\n\n(g) buy or sell contaminated raw rubber.\n\n(2) A licensee who contravenes subregulation (1) commits an offence and\n\nshall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to\n\nimprisonment for a term not exceeding three years or to both.\n\nRenewal of licence\n\n8. (1) A licensee may, within sixty days before the expiry of a licence, apply for\n\nrenewal of the licence to the Board in the form and manner as determined by the Board\n\ntogether with the payment of the fee as specified in the Second Schedule.\n\n(2) Without prejudice to the licensee's right to apply for a new licence where\n\nan application for renewal is made after the expiry of the licence, the Board may refuse\n\nto renew the licence.\n\n(3) The Board may, after considering the application under subregulation (1)\n\nor (2), renew, with or without conditions, or refuse to renew the licence.\n\n(4) Where the Board decides to renew the licence under subregulation (1)\n\nor (2), the applicant shall pay the fee as specified in the Second Schedule to the Board\n\nbefore a licence is renewed.\n\n(5) The Board may refuse to renew a licence if the Board is satisfied that—\n\n(a) the licensee has failed to comply with any of the provisions of the\n\nAct or any regulations made under the Act;\n\n(b) the licensee has failed to comply with any of the conditions of the\n\nlicence;\n\n(c) the applicant has submitted any statement, information or\n\ndocument found to be false, irrespective of whether the applicant\n\nknows or believes such statement, information or document is\n\nfalse or otherwise; or\n\n(d) renewal of the licence would be detrimental to the rubber industry\n\nof Malaysia.\n\n(6) Where the renewal of licence is refused by the Board under\n\nsubregulation (5), the Board shall give the applicant a written notice of its decision\n\nwithin thirty days from the date of the decision.\n\n(7) An application under subregulation (1) or (2) may be withdrawn at any\n\ntime before the application is approved or refused, in which event the fee paid under\n\nsubregulation (1) shall not be refunded.\n\nValidity of licence\n\n9. Every licence issued under regulation 5 or renewed under regulation 8 shall be\n\nvalid for a period of one year or for such longer period not exceeding three years as the\n\nBoard may determine from the date of issuance or renewal of the licence.\n\nSuspension and revocation of licence\n\n10. (1) The Board may require a licensee to provide explanation as to why his or\n\nits licence should not be suspended or revoked if the Board is satisfied that—\n\n(a) any conditions imposed on a licence has not been complied with or\n\nhas been contravened;\n\n(b) the grant of the licence was induced by a false representation of\n\nfact by or on behalf of the licensee;\n\n(c) the licence has been used or is intended to be used for an unlawful\n\npurpose;\n\n(d) the original purpose for which the licence was issued no longer\n\nexists;\n\n(e) the licensee has contravened or has failed to comply with any\n\nprovision of the Act, any regulations made under the Act or any\n\nother written law;\n\n(f) the licensee has ceased to carry on the activity for which the\n\nlicence was issued;\n\n(g) the licensee has tarnished the good image of the rubber industry;\n\n(h) the decision or determination of the Minister, the Board or any\n\nauthorized officer has not been complied with; or\n\n(i) there exists any other circumstances to warrant such action.\n\n(2) The Board may suspend or revoke a licence if the licensee fails to provide\n\nthe explanation as required under subregulation (1).\n\n(3) If the Board is not satisfied with the explanation given under\n\nsubregulation (1), the Board may suspend the licence for a period of not exceeding six\n\nmonths and may extend such suspension for another period of not exceeding six\n\nmonths for the licensee to take corrective action.\n\n(4) If the licensee fails to take the corrective action under subregulation (3),\n\nthe Board may revoke the licence after the suspension period has expired.\n\nRevocation of licence\n\n11. The Board shall revoke a licence if—\n\n(a) the licensee dies;\n\n(b) the licensee becomes a bankrupt;\n\n(c) the licensee is of unsound mind or is otherwise incapable of discharging\n\nthe licensee's duties;\n\n(d) the licensee, in the case of a company, is wound up;\n\n(e) the licensee, in the case of a partnership, is dissolved; or\n\n(f) the licensee is dormant, without undertaking any activity or transaction\n\nthroughout the validity period of such licence.\n\nTransfer or assignment of licence\n\n12. (1) A licence issued under these Regulations shall not be transferred or\n\nassigned to any other person unless with the written approval of the Board.\n\n(2) An application for the transfer or assignment of a licence shall be made to\n\nthe Board in such form and manner as determined by the Board together with the fee as\n\nspecified in the Second Schedule.\n\n(3) Where the licensee—\n\n(a) dies;\n\n(b) becomes a bankrupt;\n\n(c) is of unsound mind or is otherwise incapable of discharging the\n\nlicensee's duties;\n\n(d) in the case of a company, is wound up; or\n\n(e) in the case of a partnership, is dissolved,\n\nthe Board may, on application in writing and on payment of the fee as specified in the\n\nSecond Schedule, by endorsement on the licence and subject to such condition as it\n\ndeems fit, transfer or assign the licence to a fit and proper person for the benefit of the\n\nlicensee or the licensees' estate until the expiration of the licence or such earlier date as\n\nthe Board may deem fit and such person shall be deemed to be the licensee for the\n\npurposes of these Regulations.\n\n(4) A person who contravenes subregulation (1) commits an offence and\n\nshall, on conviction, be liable to a fine not exceeding fifty thousand ringgit or to\n\nimprisonment for a term not exceeding two years or to both.\n\nSurrender of licence\n\n13. (1) A licensee may surrender a licence by forwarding the licence to the Board\n\ntogether with a written notice to that effect.\n\n(2) The surrender shall take effect on the date the Board receives the licence\n\nand the notice referred to in subregulation (1), or if a prospective date of surrender is\n\nspecified in the notice, on the prospective date.\n\n(3) The surrender of a licence shall be irrevocable unless it is expressed to\n\ntake effect on a prospective date and the Board, before that date, by notice in writing to\n\nthe licensee allows the surrender to be withdrawn.\n\nPartnership in licence\n\n14. (1) Where a licence is issued to a partnership, all the partners shall be named\n\nin the licence as licensees.\n\n(2) Where any change occurs in the partnership, the remaining partners or\n\nany of the partners shall, within one month of such change, notify such changes to the\n\nBoard in writing.\n\n(3) Where the Board is satisfied that the partnership has not been dissolved\n\nand, in the case of an addition of a partner to the partnership, that the new partner is a\n\nfit and proper person, the Board may amend the licence accordingly and allow the\n\nlicence to continue to have effect, as amended, until its expiry.\n\n(4) Each partner shall be deemed to be jointly and severally liable for any act\n\nor omission of the other partners unless the partner proves to the satisfaction of the\n\ncourt that—\n\n(a) the act or omission occurred without the partner's knowledge,\n\nconsent or connivance; and\n\n(b) the partner took all reasonable precautions and exercised due\n\ndiligence to prevent the act or omission.\n\nAmendment of licence by request\n\n15. (1) A licensee may apply to the Board to amend—\n\n(a) the particulars of the licence;\n\n(b) the conditions attached to the licence; or\n\n(c) the activities stated in the licence.\n\n(2) An application under subregulation (1) shall be made in writing and shall\n\nbe submitted to the Board together with the fee as specified in the Second Schedule.\n\n (3) Where the Board approves the application under subregulation (1), the\n\nBoard shall amend the licence accordingly and allow the licence to continue to have\n\neffect, as amended, until its expiry.\n\n(4) Where the Board rejects the application under subregulation (1), the\n\nBoard shall notify the decision to the applicant in writing within thirty days from the\n\ndate of the decision.\n\nCertified copy of licence\n\n16. (1) Where a licence is lost, destroyed or damaged, a licensee may make an\n\napplication in writing to the Board for a certified copy of the licence.\n\n (2) An application under subregulation (1) shall be accompanied by—\n\n(a) a statutory declaration or a police report by the licensee stating\n\nthat the licence issued to the licensee has been lost, destroyed or\n\ndamaged; and\n\n(b) the fee as specified in the Second Schedule.\n\n(3) The Board may issue a certified copy of the licence if the Board is satisfied\n\nthat the original licence is lost, destroyed or damaged.\n\nDisplay of licence, business signage, etc.\n\n17. (1) A licensee shall display the licence, business signage and any other\n\nrelevant information as determined by the Board at a conspicuous place at the premises\n\nas specified in the licence.\n\n(2) A licensee who contravenes subregulation (1) commits an offence and\n\nshall, on conviction, be liable to a fine not exceeding three thousand ringgit or to\n\nimprisonment for a term not exceeding three months or to both.\n\nNotification of change in information furnished\n\n18. (1) Every applicant for a licence, applicant for renewal of a licence or\n\napplicant for amendment of a licence shall, within one month of the occurrence of any\n\nmaterial change in any information furnished to the Board in any of the applications or\n\nany material change in any information furnished pursuant to a request by the Board,\n\nnotify the Board of such change in writing.\n\n(2) Every licensee shall, within one month of the occurrence of any change of\n\nparticulars in the licence, notify the Board of such change in writing.\n\n(3) A person who contravenes subregulation (1) or (2) commits an offence\n\nand shall, on conviction, be liable to a fine not exceeding three thousand ringgit or to\n\nimprisonment for a term not exceeding three months or to both.\n\nContinuance of conditions of licence in case of change of occupancy\n\n19. (1) Where a person becomes an occupier of any premises used in connection\n\nwith the activities licensed under these Regulations in succession to another person\n\nwho holds an unexpired licence in respect of such premises, the new occupier shall,\n\nwithin fourteen days from the change in occupancy, make an application to the Board\n\nunder regulation 12 for the transfer of the unexpired licence to the new occupier.\n\n(2) Pending the determination of the application made under\n\nsubregulation (1), the conditions of the licence shall be binding on the new occupier for\n\nthe period from the change in occupancy until the final determination of the application.\n\n(3) Notwithstanding that the new occupier fails to make an application for the\n\ntransfer of the licence under subregulation (1), the conditions of the unexpired licence\n\nshall be binding on the new occupier for the period from the change in occupancy until\n\nthe new occupier is issued with a licence in respect of the activities conducted in the\n\npremises or until the licence referred to in subsection (1) expires, whichever is earlier.\n\nMaintenance of records and documents\n\n20. (1) A licensee shall maintain an updated and true records of all transactions\n\nand related documents in relation to the licence in the form and manner as determined\n\nby the Board.\n\n(2) The records and documents referred to in subregulation (1) shall be in the\n\nnational language or the English language.\n\n(3) Every licensee shall ensure that all records and documents referred to in\n\nsubregulation (1) are kept for a period of not less than three years from the date of the\n\nlast entry or execution of the records and documents.\n\n(4) The records and documents kept shall be made available for inspection by\n\nan authorized officer at the premises specified in the licence.\n\n(5) A person who contravenes subregulation (1) commits an offence and\n\nshall, on conviction, be liable to a fine not exceeding five thousand ringgit or to\n\nimprisonment for a term not exceeding six months or to both.\n\nRegister of Licences\n\n21. The Board shall keep and maintain a Register of Licences.\n\nPART III\n\nPERMITS\n\nActivities requiring permit\n\n22. (1) No person shall—\n\n(a) in the case of a smallholder or rubber plantation operator, sell\n\nrubber unless he or it holds a Rubber Transaction Authority\n\nPermit;\n\n(b) buy, store and sell rejected rubber gloves and scrap rubber gloves\n\nunless the person holds a PST-G Permit; and\n\n(c) export rubber consignments unless the person holds an Export\n\nPermit.\n\n(2) Any person who contravenes paragraph (1)(a) commits an offence and\n\nshall, on conviction, be liable to a fine not exceeding one thousand ringgit.\n\n(3) Any person who contravenes paragraph (1)(b) or (c) commits an offence\n\nand shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit or to\n\nimprisonment for a term not exceeding two years or to both.\n\nApplication for permit\n\n23. (1) Subject to subregulations 27(1) and 28(1), an application for a permit to\n\ncarry out the activities under regulation 22 shall be made to the Board in such form and\n\nmanner as determined by the Board together with the administrative fee as specified in\n\nthe Second Schedule.\n\n(2) Upon receiving an application under subregulation (1), the Board may\n\nrequire the applicant to provide further particulars, information or documents.\n\n(3) If any particulars, information or documents required under\n\nsubregulation (2) is not provided by the applicant within the time specified by the\n\nBoard, the application shall be deemed to have been withdrawn without prejudice to a\n\nfresh application being made by the applicant.\n\n(4) An application under subregulation (1) may be withdrawn at any time\n\nbefore the issuance of or refusal to issue a permit, in which event the administrative fee\n\npaid under subregulation (1) shall not be refunded.\n\nIssuance of permit\n\n24. (1) After considering the application under subregulation 23(1) and the\n\nparticulars, information and documents under subregulation 23(2), the Board may\n\nissue or refuse to issue a permit.\n\n(2) Where the Board decides to issue the permit, the applicant shall pay the\n\nfee as specified in the Second Schedule to the Board before the issuance of the permit.\n\n(3) The Board may impose any condition upon issuance of the permit and\n\nmay, from time to time, amend the conditions imposed.\n\n(4) Where the Board refuses to issue a permit under subregulation (1), the\n\nBoard shall give the applicant a written notice of its decision within thirty days from the\n\ndate of the decision.\n\n(5) A PST-G Permit issued under this regulation shall not be transferred\n\nunless with the written approval of the Board.\n\n(6) A Rubber Transaction Authority Permit and Export Permit issued under\n\nthis regulation are not transferable.\n\nSpecial conditions for Rubber Transaction Authority Permit\n\n25. (1) An applicant for a Rubber Transaction Authority Permit may only be\n\nissued with one permit in respect of one or more rubber plantations owned or operated\n\nby the applicant in a State the total of which is not more than 40.46 hectares.\n\n(2) The Board shall issue a Rubber Transaction Authority Permit in the form\n\nof a card as may be determined by the Board.\n\n(3) Where the card referred to in subregulation (2) is lost, destroyed or\n\ndamaged, a Rubber Transaction Authority Permit holder may apply to the Board for the\n\nreplacement of the card.\n\n(4) Any application for the replacement of the card issued under\n\nsubregulation (3) shall be accompanied by—\n\n(a) a statutory declaration or a police report by the permit holder\n\nstating that the card has been lost, destroyed or damaged; and\n\n(b) the fee as specified in the Second Schedule.\n\n(5) The permit issued under subregulation (2) shall, unless withdrawn\n\nearlier, be valid for a period not exceeding three years.\n\nProhibited activities under Rubber Transaction Authority Permit\n\n26. (1) A Rubber Transaction Authority Permit holder shall not—\n\n(a) sell rubber not owned by him or it unless the permit holder is a\n\nrubber plantation operator who is authorized by the owner of the\n\nrubber;\n\n(b) sell rubber from a plantation not declared to the Board;\n\n(c) sell rubber to or deal with a person who is not licenced under\n\nthese Regulations;\n\n(d) sell or be in possession of any rubber believed to be from illegal\n\nsources or illegal activities; or\n\n(e) sell contaminated raw rubber.\n\n(2) A Rubber Transaction Authority Permit holder who contravenes\n\nparagraph (1)(a), (b) or (c) commits an offence and shall, on conviction, be liable to a\n\nfine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding\n\none year or to both.\n\n(3) A Rubber Transaction Authority Permit holder who contravenes\n\nparagraph (1)(d) or (e) commits an offence and shall, on conviction, be liable to a fine\n\nnot exceeding fifty thousand ringgit or to imprisonment for a term not exceeding two\n\nyears or to both.\n\nSpecial conditions for PST-G Permit\n\n27. (1) A separate application for a PST-G Permit shall be made in respect of each\n\npremises used in connection with the activities specified in the permit irrespective of\n\nwhether the premises is administratively or organizationally linked with another\n\npremises.\n\n(2) A PST-G Permit holder shall display the permit at a conspicuous place in\n\nthe premises and shall allow the inspection of such permit by an authorized officer.\n\n(3) A PST-G Permit issued by the Board shall, unless withdrawn earlier, be\n\nvalid for a period not exceeding one year.\n\n(4) A PST-G Permit holder who contravenes subregulation (2) commits an\n\noffence and shall, on conviction, be liable to a fine not exceeding three thousand ringgit\n\nor to imprisonment for a term not exceeding one month or to both.\n\nSpecial conditions for Export Permit\n\n28. (1) A person shall not be eligible to apply for an Export Permit unless the\n\nperson holds a licence to export rubber issued under subregulation 5(1).\n\n(2) An Export Permit shall, unless withdrawn earlier, be valid for a period of\n\nsix months from the date of issuance of the permit.\n\n(3) A permit holder shall submit to the Board the counterfoil of the Export\n\nPermit within fourteen days from the date of the exportation after being endorsed by\n\nthe Royal Malaysian Customs Department.\n\n (4) A permit holder who contravenes subregulation (3) commits an offence\n\nand shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit or to\n\nimprisonment for a term not exceeding two years or to both.\n\nCompliance with conditions imposed on permit\n\n29. (1) The Board may impose any condition upon issuance of a permit under\n\nregulation 24 and may, from time to time, amend the conditions imposed.\n\n(2) A permit holder shall comply with the conditions imposed on the permit.\n\n(3) A permit holder who contravenes subregulation (2) commits an offence\n\nand shall, on conviction, be liable to a fine not exceeding ten thousand ringgit or to\n\nimprisonment for a term not exceeding one year or to both.\n\nRenewal of permit\n\n30. (1) A PST-G Permit holder and Rubber Transaction Authority Permit holder\n\nmay, within thirty days before the expiry of the permit, apply for renewal of the permit\n\nto the Board in the form and manner as determined by the Board together with\n\npayment of the fee as specified in the Second Schedule.\n\n(2) Without prejudice to the permit holder's right to apply for a new PST-G\n\nPermit or Rubber Transaction Authority Permit where an application for renewal is\n\nmade after the expiry of the permit, the Board may refuse to renew the permit.\n\n(3) The Board may, after considering the application under subregulation (1)\n\nor (2), renew, with or without condition, or refuse to renew the permit.\n\n(4) Where the Board decides to renew the PST-G Permit or Rubber\n\nTransaction Authority Permit under subregulation (3), the applicant shall pay the fee as\n\nspecified in the Second Schedule to the Board before the permit is renewed.\n\n(5) The Board may refuse to renew the PST-G Permit or Rubber Transaction\n\nAuthority Permit if the Board is satisfied that—\n\n(a) the permit holder has failed to comply with any of the provisions\n\nof the Act or any regulations made under the Act;\n\n(b) the permit holder has failed to comply with any of the conditions\n\nof the permit;\n\n(c) the permit holder has submitted any statement, information or\n\ndocument found to be false, irrespective of whether the permit\n\nholder knows or believes such statement, information or\n\ndocument is false or otherwise; or\n\n(d) the renewal of the permit would be detrimental to the rubber\n\nindustry of Malaysia.\n\n(6) Where renewal of the permit is refused by the Board under\n\nsubregulation (5), the Board shall give the applicant a written notice of its decision\n\nwithin thirty days from the date of the decision.\n\n(7) An application under subregulation (1) or (2) may be withdrawn at any\n\ntime before the application is approved or refused, in which event the fee paid under\n\nsubregulation (1) shall not be refunded.\n\nSuspension and revocation of PST-G Permit\n\n31. (1) The Board may require a PST-G Permit holder to provide explanation as\n\nto why his or its permit should not be suspended or revoked if the Board is satisfied\n\nthat—\n\n(a) any conditions imposed on the permit has not been complied with\n\nor has been contravened;\n\n(b) the grant of the permit was induced by a false representation of\n\nfact by or on behalf of the permit holder;\n\n(c) the permit has been used or is intended to be used for an unlawful\n\npurpose;\n\n(d) the original purpose for which the permit was issued no longer\n\nexists;\n\n(e) the permit holder has contravened or has failed to comply with any\n\nprovisions of the Act, any regulations made under the Act or any\n\nother written law;\n\n(f) the permit holder has ceased to carry on the activity for which the\n\npermit was issued;\n\n(g) the permit holder has tarnished the good image of the rubber\n\nindustry;\n\n(h) the decision or determination of the Minister, the Board or any\n\nauthorized officer has not been complied with; or\n\n(i) there exists any other circumstances to warrant such action.\n\n(2) The Board may suspend or revoke the PST-G Permit if the permit holder\n\nfails to provide the explanation as required under subregulation (1).\n\n(3) If the Board is not satisfied with the explanation given under\n\nsubregulation (1), the Board may suspend the PST-G Permit for a period of not\n\nexceeding six months and may extend such suspension for another period of not\n\nexceeding six months for the permit holder to take corrective action.\n\n(4) If the permit holder fails to take the corrective action under\n\nsubregulation (3), the Board may revoke the PST-G Permit after the suspension period\n\nexpires.\n\nRevocation of Rubber Transaction Authority Permit and PST-G Permit\n\n32. The Board shall revoke a Rubber Transaction Authority Permit and PST-G Permit\n\nif—\n\n(a) the permit holder dies;\n\n(b) the permit holder becomes a bankrupt;\n\n(c) the permit holder is of unsound mind or is otherwise incapable of\n\ndischarging the permit holder's duties;\n\n(d) the permit holder, in the case of a company, is wound up;\n\n(e) the permit holder, in the case of a partnership, is dissolved; or\n\n(f) the permit holder is dormant, without undertaking any activity or\n\ntransaction throughout the validity period of such permit.\n\nSurrender of permit\n\n33. (1) A permit holder may surrender a permit by forwarding the permit to the\n\nBoard together with a written notice to that effect.\n\n(2) The surrender shall take effect on the date the Board receives the permit\n\nand the notice referred to in subregulation (1), or if a prospective date of surrender is\n\nspecified in the notice, on the prospective date.\n\n(3) The surrender of a permit shall be irrevocable unless it is expressed to\n\ntake effect on a prospective date and the Board, before that date, by notice in writing to\n\nthe permit holder, allows the surrender to be withdrawn.\n\nPartnership in permit\n\n34. (1) Where a permit is issued to a partnership, all the partners shall be named\n\nin the permit as permit holders.\n\n(2) Where any change occurs in the partnership, the remaining partners or\n\nany of the partners shall, within one month of such change, notify such changes to the\n\nBoard in writing.\n\n(3) Where the Board is satisfied that the partnership has not been dissolved\n\nand, in the case of an addition of a partner to the partnership, that the new partner is a\n\nfit and proper person, the Board may amend the permit accordingly and allow the\n\npermit to continue to have effect, as amended, until its expiry.\n\n(4) Each partner shall be deemed to be jointly and severally liable for any act\n\nor omission of the other partners unless the partner proves to the satisfaction of the\n\ncourt that—\n\n(a) the act or omission occurred without the partner's knowledge,\n\nconsent or connivance; and\n\n(b) the partner took all reasonable precautions and exercised due\n\ndiligence to prevent the act or omission.\n\nAmendment of permit by request\n\n35. (1) A PST-G Permit holder may apply to the Board to amend—\n\n(a) the particulars of the permit; or\n\n(b) the conditions attached to the permit.\n\n(2) An application under subregulation (1) shall be made in writing and shall\n\nbe submitted to the Board together with the fee as specified in the Second Schedule.\n\n(3) Where the Board approves the application under subregulation (1), the\n\nBoard shall amend the permit accordingly and allow the permit to continue to have\n\neffect, as amended, until its expiry.\n\n(4) Where the Board rejects the application under subregulation (1), the\n\nBoard shall notify the decision to the applicant in writing within thirty days from the\n\ndecision.\n\nCertified copy of permit\n\n36. (1) Where a permit is lost, destroyed or damaged, a permit holder may make\n\nan application in writing to the Board for a certified copy of the permit.\n\n(2) An application under subregulation (1) shall be accompanied by—\n\n(a) a statutory declaration or a police report by the permit holder\n\nstating that the permit issued to the permit holder has been lost,\n\ndestroyed or damaged; and\n\n(b) the fee as specified in the Second Schedule.\n\n(3) The Board may issue a certified copy of the permit if the Board is satisfied\n\nthat the original permit is lost, destroyed or damaged.\n\nNotification of change in information furnished\n\n37. (1) Every applicant for a permit or applicant for renewal of a permit shall,\n\nwithin one month of the occurrence of any material change in any information\n\nfurnished to the Board in any of the applications or any material change in any\n\ninformation furnished pursuant to a request by the Board, notify the Board of such\n\nchange in writing.\n\n(2) Every permit holder shall, within one month of the occurrence of any\n\nchange of particulars in the permit, notify the Board of such change in writing.\n\n(3) A person who contravenes subregulation (1) or (2) commits an offence\n\nand shall, on conviction, be liable to a fine not exceeding one thousand ringgit or to\n\nimprisonment for a term not exceeding one month or to both.\n\nMaintenance of records and documents\n\n38. (1) A permit holder, except a Rubber Transaction Authority Permit holder,\n\nshall maintain an updated and true records of all transactions and related documents in\n\nrelation to the permit in the form and manner as determined by the Board.\n\n(2) The records and documents referred to in subregulation (1) shall be in\n\nthe national language or the English language.\n\n(3) The permit holder referred to in subregulation (1) shall ensure that all\n\nrecords and documents are kept for a period of three years from the date of the last\n\nentry or execution of the records and documents.\n\n(4) The records and documents kept shall be made available for inspection by\n\nan authorized officer at the premises specified in the permit.\n\n(5) A person who contravenes subregulation (1) commits an offence and\n\nshall, on conviction, be liable to a fine not exceeding five thousand ringgit or to\n\nimprisonment for a term not exceeding six months or to both.\n\nRegister of Permits\n\n39. The Board shall keep and maintain a Register of Permits.\n\nPART IV\n\nCONVEYANCE, TRANSPORTATION AND RECEIPT OF RUBBER OR\n\nRUBBER PLANTING MATERIALS\n\nConveying, transporting and receiving rubber or rubber planting materials\n\n40. (1) No person shall convey, transport or receive rubber or rubber planting\n\nmaterials except with a written authority issued under regulation 41.\n\n(2) Any person who contravenes subregulation (1) commits an offence and\n\nshall, on conviction, be liable to a fine not exceeding thirty thousand ringgit or to\n\nimprisonment for a term not exceeding one year or to both.\n\nWritten authority for conveying, transporting and receiving rubber or rubber\n\nplanting materials\n\n41. (1) An owner of rubber or rubber planting materials shall issue a written\n\nauthority in the form and manner as determined by the Board to accompany every\n\nconveyance or transportation of rubber or rubber planting materials to a licensee or\n\nforwarding agent.\n\n(2) The written authority under subregulation (1) shall be made in three\n\ncopies and shall be countersigned by the licensee or forwarding agent or any other\n\nperson duly authorized by the licensee or forwarding agent to receive the rubber or\n\nrubber planting materials.\n\n(3) The original copy of the written authority shall be kept by the licensee or\n\nforwarding agent taking delivery of the rubber or rubber planting materials, and the\n\nduplicate and triplicate copies shall be kept by the owner of the rubber or rubber\n\nplanting materials at the premises specified in the licence for the purposes of inspection\n\nby authorized officers.\n\n(4) The owner, licensee or forwarding agent, as the case may be, shall on\n\ndemand by an authorized officer produce his or its copy of such written authority for\n\nthe purposes of inspection.\n\n(5) The owner, licensee or forwarding agent shall not assign the written\n\nauthority to any other person.\n\n(6) Any person who contravenes this regulation commits an offence and shall,\n\non conviction, be liable to a fine not exceeding fifty thousand ringgit or to imprisonment\n\nfor a term not exceeding two years or to both.\n\nOfficial receipts\n\n42. (1) A licensee shall, upon completion of any sale and purchase of rubber or\n\nrubber planting materials, issue to the buyer or seller, as the case may be, an official\n\nreceipt in the form as determined by the Board.\n\n(2) The official receipt issued under subregulation (1) shall be duly signed by\n\nthe licensee or by any person authorized by the licensee.\n\n(3) The official receipt issued under subregulation (1) shall be made in two\n\ncopies and shall be countersigned by the buyer or seller referred to in subregulation (1)\n\nor by the person delivering the rubber or rubber planting materials on behalf of the\n\nseller.\n\n(4) The original copy of the official receipt shall be issued to the buyer or\n\nseller and its duplicate copy shall be kept by the licensee.\n\n(5) The licensee, seller or buyer shall keep his or its respective official\n\nreceipts at his or its premises as specified in the licence and shall produce the official\n\nreceipt when requested by an authorized officer for the purposes of inspection.\n\n(6) Any person who contravenes this regulation commits an offence and shall,\n\non conviction, be liable to a fine not exceeding thirty thousand ringgit or to\n\nimprisonment for a term not exceeding one year or to both.\n\nPART V\n\nPACKAGING AND EXPORT OF RUBBER, RUBBER GLOVES, RUBBER PLANTS AND\n\nRUBBER PLANTING MATERIALS\n\nProhibition against export of rubber plant or rubber planting materials without\n\nwritten approval\n\n43. (1) No person shall export any rubber plant or rubber planting materials or\n\nany part of any rubber plant or rubber planting materials which is capable of being used\n\nfor the propagation or reproduction of rubber plants or rubber planting materials\n\nunless the person has obtained a written approval of the Minister or the officer\n\nauthorized in writing by the Minister.\n\n(2) An application for approval referred to in subregulation (1) shall be made\n\nin writing to the Minister by the person intending to export the rubber plant or rubber\n\nplanting materials in the form and manner as determined by the Minister.\n\n(3) Any person who contravenes subregulation (1) commits an offence and\n\nshall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to\n\nimprisonment for a term not exceeding three years or to both.\n\n(4) For the purpose of this regulation, \"export\" includes the exportation from\n\nany part of Peninsular Malaysia to Sabah or Sarawak, from Sabah to any part of\n\nPeninsular Malaysia or Sarawak, or from Sarawak to any part of Peninsular Malaysia or\n\nSabah.\n\nRequirement for certificate of origin\n\n44. (1) Where a certificate of origin is required for any rubber produced in and\n\nexported from Malaysia, the licensee shall submit to the Board a copy of certificate of\n\norigin in the form as determined by the Board for endorsement and the Board may\n\nendorse the certificate of origin.\n\n(2) A submission for endorsement under subregulation (1) shall be\n\naccompanied by the fee as specified in the Second Schedule and such information or\n\ndocuments as the Board may require.\n\nCertified copy of certificate of origin\n\n45. (1) Where a certificate of origin is lost, destroyed or damaged, or required for\n\nany lawful purpose, an application may be made in writing to the Board or the officer\n\nauthorized by the Board for a certified copy of the certificate of origin together with the\n\nfee as specified in the Second Schedule.\n\n(2) If a certificate of origin is lost, destroyed or damaged, an application under\n\nsubregulation (1) shall be accompanied by a statutory declaration or police report made\n\nby the certificate holder stating that the certificate of origin issued to the certificate\n\nholder has been lost, destroyed or damaged.\n\n(3) If a certified copy of a certificate of origin is required for a lawful purpose,\n\nthe applicant shall state in the application under subregulation (1) the reason for which\n\nthe certified copy of the certificate of origin is required.\n\n(4) For the purposes of subregulation (3), the applicant shall provide any\n\ndocument as may be required by the Board or the officer authorized by the Board.\n\n(5) The Board or the officer authorized by the Board may issue a certified\n\ncopy of the certificate of origin to the applicant if the Board or the authorized officer is\n\nsatisfied that the certificate of origin has been lost, destroyed or damaged, or that a\n\ncertified copy of the certificate of origin is required for a lawful purpose.\n\nProhibition against use of unregistered house symbol\n\n46. (1) No person shall use any house symbol unless it has been registered with\n\nthe Board.\n\n(2) Any person who contravenes subregulation (1) commits an offence and\n\nshall, on conviction, be liable to a fine not exceeding ten thousand ringgit or to\n\nimprisonment for a term not exceeding six months or to both.\n\nRegistration of house symbol\n\n47. (1) A licensee shall, before using any house symbol, make an application to\n\nthe Board to register the house symbol together with the fee as specified in the Second\n\nSchedule.\n\n(2) An application under subregulation (1) shall—\n\n(a) specify the house symbol to be used by the licensee together with a\n\ndescription of the grades of rubber to be shipped under the house\n\nsymbol;\n\n(b) specify any other house symbol to be used by the licensee to\n\nindicate a particular grade of rubber acceptable by the rubber\n\ntrade; and\n\n(c) provide such information or documents as the Board may require.\n\n(3) For the purposes of paragraphs (2)(a) and (b), a number may be used as a\n\nhouse symbol.\n\n(4) Upon receipt of the application under subregulation (1) and on being\n\nsatisfied that the registration of the house symbol is not in contravention of\n\nsubregulation (6), the Board shall register the house symbol accordingly.\n\n(5) The Board may, before and as a condition of registration, impose such\n\nconditions, amendments, modifications or limitations as it thinks necessary.\n\n(6) The Board shall not register a house symbol if—\n\n(a) the house symbol—\n\n(i) is identical with a house symbol already registered to a\n\ndifferent licensee and entered in the Register of House\n\nSymbols referred to in subregulation (8); or\n\n(ii) so nearly resembles a house symbol already registered to a\n\ndifferent licensee and entered in the Register of House\n\nSymbols referred to in subregulation (8) that the house\n\nsymbol is likely to deceive or cause confusion to the public;\n\n(b) the house symbol contains any scandalous or offensive matter; or\n\n(c) the use of the house symbol would be contrary to law.\n\n(7) Where separate applications to register the house symbols under\n\nsubregulation (1) are made by different persons and the house symbols to be registered\n\nare identical or so nearly resembling each other in respect of the grade of rubber to be\n\nshipped under the house symbol, the Board may—\n\n(a) refuse to register any of the house symbols until the applicants'\n\nrights are determined by the Board or are settled by an agreement\n\nin the manner approved by the Board; or\n\n(b) approve the registration of the house symbols subject to such\n\nconditions, amendments, modifications or limitations as it thinks\n\nnecessary.\n\n(8) The Board shall keep and maintain a Register of House Symbols.\n\nTransfer of house symbol\n\n48. (1) A house symbol registered under regulation 47 is not transferable unless\n\nwith the written approval of the Board.\n\n(2) A licensee to whom the house symbol is registered may apply in writing\n\nto the Board for the transfer of the house symbol together with the fee as specified in\n\nthe Second Schedule.\n\n(3) Where the Board approves the transfer of a registered house symbol, the\n\nBoard shall amend the Register of House Symbols referred to in subregulation 47(8)\n\naccordingly.\n\n(4) Any person who contravenes subregulation (1) commits an offence and\n\nshall, on conviction, be liable to a fine not exceeding ten thousand ringgit or to\n\nimprisonment for a term not exceeding six months or to both.\n\nPackage markings\n\n49. (1) Every package of rubber for export shall bear the following markings:\n\n(a) the packer's licence number and house symbol;\n\n(b) the exporter's licence number and house symbol;\n\n(c) the grade of the rubber contained in the package; and\n\n(d) a label which reads \"Made in Malaysia\".\n\n(2) Every package of rubber gloves manufactured in Malaysia for export shall\n\nbear the following markings:\n\n(a) the type of rubber gloves packed;\n\n(b) the exporter's licence number; and\n\n(c) a label which reads \"Made in Malaysia\".\n\n(3) The label referred to in paragraph (2)(c) shall not be used for rubber\n\ngloves which are not manufactured in Malaysia.\n\n(4) All package markings shall be clear, distinct and non-erasable.\n\n(5) If a package is marked with or using numbers, the numbers shall be in\n\nArabic numerals.\n\n(6) Any person who contravenes this regulation commits an offence and shall,\n\non conviction, be liable to a fine not exceeding ten thousand ringgit or to imprisonment\n\nfor a term not exceeding six months or to both.\n\nMisstatement or false package markings\n\n50. (1) No person shall pack rubber which contains rubber of grades other than\n\nthe grades specified in the package markings.\n\n(2) No person shall repack any block rubber from any other country and\n\nmark the package with the Standard Malaysian Rubber logo determined by the Board or\n\nthe label referred to in paragraph 49(2)(c) without first going through any chemical or\n\nphysical processing of rubber in Malaysia.\n\n(3) Any person who contravenes subregulation (1) or (2) commits an offence\n\nand shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit or to\n\nimprisonment for a term not exceeding two years or to both.\n\nPART VI\n\nAPPEAL\n\nAppeal procedure\n\n51. (1) Any person aggrieved by the decision of the Board—\n\n(a) in refusing to issue a licence under subregulation 5(3) or renew a\n\nlicence under subregulation 8(2) or (5), or in revoking a licence\n\nunder subregulation 10(2) or (4), or regulation 11; or\n\n(b) in refusing to issue a PST-G Permit under subregulation 24(4) or\n\nrenew a PST-G Permit under subregulation 30(2) or (5), or in\n\nsuspending PST-G Permit under subregulation 31(2) or (3), or\n\nrevoking PST-G Permit under subregulation 31(4) or\n\nregulation 32,\n\nmay, within thirty days from the date the decision is sent to the last known address of\n\nthe licensee, appeal to the Minister in writing in the form and manner as determined by\n\nthe Board.\n\n(2) An appeal under subregulation (1) shall be accompanied by the fee as\n\nspecified in the Second Schedule.\n\n(3) An appeal under subregulation (1) shall not operate as a stay of the\n\ndecision made under these Regulations unless otherwise allowed by the Board.\n\n(4) The Minister may establish a committee for the purpose of advising him in\n\nany appeal but the Minister shall not be bound to accept the advice of the committee.\n\n(5) No member of the Board shall be appointed to the committee referred to\n\nin subregulation (4).\n\n(6) Members of the committee may be paid such allowance as the Minister\n\nmay determine.\n\n(7) The Minister may, after considering an appeal under subregulation (1)\n\nand the advice of the committee established under subregulation (4), if any—\n\n(a) affirm the decision of the Board;\n\n(c) quash the decision of the Board; or\n\n(d) substitute for the decision of the Board such decision as the\n\nMinister thinks fit.\n\nValidity of licence extended in successful appeal\n\n52. Where the Minister allows an appeal against a decision to revoke a licence\n\ngranted under these Regulations by the Board, the validity of the licence shall be\n\nextended for a period corresponding to the period commencing from the date of\n\nrevocation until the date of the decision of the Minister allowing the appeal is made and\n\nsuch extended period shall be recorded accordingly in the licence.\n\nProhibition of similar application when earlier application pending appeal\n\n53. (1) Where an application is made under these Regulations and such\n\napplication is refused or only granted in part and the applicant appeals against such\n\ndecision under regulation 51, the applicant shall not, unless otherwise determined by\n\nthe Minister, subsequently make a similar application under these Regulations until\n\nsuch appeal is determined by the Minister.\n\n(2) In the event that any licence is granted as a result of a similar application\n\nreferred to in subregulation (1), unless otherwise determined by the Minister, the\n\nlicence so granted shall be deemed to be void.\n\nPART VII\n\nGENERAL\n\nDetermination of date of application\n\n54. For the purpose of determining the date of an application made under these\n\nRegulations—\n\n(a) when the application is made by post, the date of the postmark on\n\nthe envelope shall be deemed to be the date on which the\n\napplication was made, and where the Board is unable to determine\n\nthe date on the postmark, the application shall be deemed to have\n\nbeen made three days before the date on which such application\n\nwas received by the Board; or\n\n(b) where the application is made by way of electronic transmission,\n\nthe date on the time stamp attached to the application shall be\n\ndeemed to be the date on which the application was made and\n\nwhere there is no time stamp attached or the Board is unable to\n\ndetermine the date on the time stamp, the application shall be\n\ndeemed to have been made on the date the application was\n\nreceived by the Board.\n\nRequirement to furnish information and document\n\n55. (1) In exercise of its functions and powers, the Board may, by notice in\n\nwriting require any person to furnish any information or document the Board deems\n\nnecessary in such manner as determined by the Board.\n\n(2) A person who—\n\n(a) refuses or neglects to furnish the information or document\n\nrequired; or\n\n(b) knowingly gives any information or document required under\n\nsubregulation (1) by such notice which is incomplete, false or\n\ninaccurate,\n\ncommits an offence and shall, on conviction, be liable to a fine not exceeding thirty\n\nthousand ringgit or to imprisonment for a term not exceeding two years or to both.\n\nEvidence\n\n56. (1) The contents of any document provided, issued or delivered by the Board\n\nunder or for the purpose of these Regulations, unless proven otherwise, shall be true\n\nand the production of any record purporting to show that a licence or a permit was\n\nissued under these Regulations shall be prima facie evidence of the issuance,\n\nnon-issuance or the date of expiry of such licence or permit.\n\n(2) In any proceedings in respect of offences under these Regulations where\n\nevidence is required to prove that—\n\n(a) a person was issued or was not issued with a licence or permit on\n\nany date for any period;\n\n(b) a licence or permit was subject to conditions imposed; or\n\n(c) a licence or permit was suspended for any period or revoked,\n\na written certificate purporting to be signed by the Director General or any authorized\n\nofficer stating that a person was issued or not issued with a licence or permit on any\n\ndate or with any conditions, limitations or restrictions imposed or the licence or permit\n\nwas suspended or revoked shall constitute a prima facie evidence of the facts stated in\n\nthe certificate.\n\nFees\n\n57. (1) The fees payable under these Regulations shall be paid to the Board by\n\nsuch means and in such manner as the Board may determine.\n\n(2) The fees collected by the Board under these Regulations shall be paid into\n\nthe Fund.\n\nFalse or misleading information\n\n58. Any person who provides any information required under these Regulations\n\nwhich he knows to be false or in any material respect misleading commits an offence\n\nand shall, on conviction, be liable to a fine not exceeding thirty thousand ringgit or to\n\nimprisonment for a term not exceeding one year or to both.\n\nPART VIII\n\nREVOCATION, SAVINGS AND TRANSITIONAL\n\nRevocation\n\n59. (1) The Malaysian Rubber Board (Licensing) Regulations 1997\n\n[P.U. (A) 516/1997] (hereinafter referred to as \"the revoked Regulations\") are revoked.\n\n(2) For the purposes of this Part, \"the date of coming into operation of these\n\nRegulations\" means the date these Regulations come into operation under\n\nsubregulation 1(2).\n\nExisting licences, certificates and permits\n\n60. (1) Any licence, certificate or permit issued under the revoked Regulations\n\nwhich is still valid on the date of coming into operation of these Regulations shall\n\ncontinue to be valid until the date of its expiry or for a period of six months, whichever\n\nis earlier.\n\n(2) During the period of validity specified in subregulation (2), any licensee,\n\ncertificate holder or permit holder shall, as soon as practicable, make an application for\n\na licence or permit in accordance with these Regulations.\n\nTransfer of authority, etc.\n\n61. (1) All authority, rights, privileges, liabilities, obligations and duties that\n\nbefore the date of coming into operation of these Regulations were vested in the\n\nCertification Panel and Licensing Panel established under the revoked Regulations shall,\n\nwith effect from the date of coming into operation of these Regulations, devolve to the\n\nBoard.\n\n(2) All authority, rights, privileges, liabilities, obligations and duties that\n\nbefore the date of coming into operation of these Regulations were vested in the\n\nLicensing Appeal Panel and Certification Appeal Panel established under the revoked\n\nRegulations shall, with effect from the date of coming into operation of these\n\nRegulations, devolve to the Minister.\n\nContinuance of pending applications\n\n62. (1) All pending applications before the Licensing Panel and Certification Panel\n\nunder the revoked Regulations shall, on the date of coming into operation of these\n\nRegulations, be dealt with by the Board in accordance with these Regulations.\n\n(2) All pending appeals before the Licensing Appeal Panel and Certification\n\nAppeal Panel under the revoked Regulations shall, on the date of coming into operation\n\nof these Regulations, be dealt with by the Minister in accordance with these Regulations.\n\n(3) All pending approvals or appeals before the Minister under the revoked\n\nRegulations shall, on the date of coming into operation of these Regulations, be dealt\n\nwith by the Minister in accordance with these Regulations.\n\n(4) A licensee or a certificate holder who has appealed for the renewal of\n\nlicence or certificate under the revoked Regulations may continue with his or its\n\nactivities for a period of six months from the date of coming into operation of these\n\nRegulations or until the Minister makes the decision on the appeal in accordance with\n\nthis Regulations, whichever is earlier.\n\nFIRST SCHEDULE\n\n[Regulation 2]\n\nRUBBER PLANTS\n\nPlants of the Hevea species Plants other than the Hevea species\n\n(a) Hevea brasiliensis\n\n(b) Hevea benthamiana\n\n(c) Hevea guianensis\n\n(d) Hevea pauciflora\n\n(e) Hevea nitida\n\n(f) Hevea spruceana\n\n(g) Hevea microphylia\n\n(h) Hevea rigidifolia\n\n(i) Hevea camporum\n\n(j) Hevea camargoana\n\n(a) Castilla species\n\n(b) Manihot species\n\n(c) Funtumia elastic\n\n(d) Londolphia species\n\n(e) Ficus elastic\n\n(f) Parthenium argentatum (guayule)\n\n(g) Taraxacum species\n\n(h) Solidago species\n\nSECOND SCHEDULE\n\n[Regulations 4, 5, 8, 12, 15, 16, 23, 24, 25, 30, 35, 36, 44, 45, 47, 48 and 51]\n\nNo. Subject Regulation Purpose/Activity Fee\n\n1. Licence Subregulation\n\n4(1)\n\nAdministrative fee for application\n\nfor licence\n\nRM100 per\n\napplication\n\nSubregulation\n\n5(2)\n\nIssuance of\n\nlicence to\n\ntrade/process\n\nrubber\n\nto buy rubber RM100 per year\n\nto store rubber RM100 per year\n\nto process\n\nrubber\n\nRM500 per year\n\nto pack rubber RM300 per year\n\nto sell rubber RM200 per year\n\nto export rubber RM500 per year\n\nIssuance of\n\nlicence to\n\nmanufacture\n\nrubber product\n\nto buy and store\n\nrubber for\n\nmanufacture of\n\nrubber products\n\nRM500 per year\n\nIssuance of\n\nlicence to\n\nexport rubber\n\ngloves\n\nto export rubber\n\ngloves\n\nRM500 per year\n\nIssuance of\n\nlicence for\n\nrubber nursery\n\nto buy, store or\n\nsell rubber\n\nplanting\n\nmaterials, or to\n\ngerminate, grow,\n\nplant or\n\ntransplant\n\nrubber planting\n\nmaterials for\n\ncommercial\n\npurposes\n\nRM500 per year\n\nSubregulation\n\n8(1)\n\nRenewal of\n\nlicence to\n\ntrade/process\n\nrubber\n\nto buy rubber RM100 per year\n\nto store rubber RM100 per year\n\nto process\n\nrubber\n\nRM500 per year\n\nto pack rubber RM300 per year\n\nto sell rubber RM200 per year\n\nto export rubber RM500 per year\n\nRenewal of to buy and store\n\nrubber for\n\nRM500 per year\n\nlicence to\n\nmanufacture\n\nrubber product\n\nmanufacture of\n\nrubber products\n\nRenewal of\n\nlicence to\n\nexport rubber\n\ngloves\n\nto export rubber\n\ngloves\n\nRM500 per year\n\nRenewal of\n\nlicence for\n\nrubber nursery\n\nto buy, store or\n\nsell rubber\n\nplanting\n\nmaterials, or to\n\ngerminate, grow,\n\nplant or\n\ntransplant\n\nrubber planting\n\nmaterials for\n\ncommercial\n\npurposes\n\nRM500 per year\n\nSubregulation\n\n12(2)\n\nApplication to transfer licence RM100 per\n\napplication\n\nApplication to assign licence RM100 per\n\napplication\n\nSubregulation\n\n15(2)\n\nApplication to amend licence RM100 per\n\napplication\n\nParagraph\n\n16(2)(b)\n\nApplication for certified copy of\n\nlicence\n\nRM50 per copy\n\n2. Permit Subregulation\n\n23(1)\n\nAdministrative fee for application\n\nfor Rubber Transaction Authority\n\nPermit\n\n- Nil -\n\nAdministrative fee for application\n\nfor PST-G Permit\n\nRM100 per\n\napplication\n\nAdministrative fee for application\n\nfor Export Permit\n\n- Nil -\n\nSubregulation\n\n24(2)\n\nIssuance of Rubber Transaction\n\nAuthority Permit\n\n- Nil -\n\nIssuance of PST-G Permit RM100 per year\n\nIssuance of Export Permit RM3 per metric\n\ntonne\n\nParagraph\n\n25(4)(b)\n\nReplacement of Rubber\n\nTransaction Authority Permit card\n\nRM10 per card\n\nSubregulation\n\n30(1)\n\nRenewal of Rubber Transaction\n\nAuthority Permit\n\n- Nil -\n\nRenewal of PST-G Permit RM100 per year\n\nRenewal of Export Permit - Nil -\n\nSubregulation\n\n35(2)\n\nApplication to amend PST-G\n\nPermit\n\nRM50 per\n\napplication\n\nParagraph\n\n36(2)(b)\n\nApplication for certified copy of\n\npermit\n\nRM10 per copy\n\n3. Cetificate\n\nof origin\n\nSubregulation\n\n44(2)\n\nEndorsement of certificate of\n\norigin\n\nRM10 per copy\n\nSubregulation\n\n45(1)\n\nApplication for certified copy of\n\ncertificate of origin\n\nRM5 per copy\n\n4. House\n\nsymbol\n\nSubregulation\n\n47(1)\n\nApplication for registration of\n\nhouse symbol\n\nRM100 per\n\napplication\n\nSubregulation\n\n48(2)\n\nApplication for transfer of house\n\nsymbol\n\nRM100 per\n\napplication\n\n5. Appeal Subregulation\n\n51(2)\n\nAppeal to the Minister RM1,500\n\nMade 14 April 2014\n\n[KPPK(S)423(12)825/1Klt. 1; PN(PU2)560/VIII]\n\nDATUK AMAR DOUGLAS UGGAH EMBAS\n\nMinister of Plantation Industries and Commodities"
+   }
+  }
+ ]
+}

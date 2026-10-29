@@ -1,0 +1,62 @@
+{
+ "id": "PH-H15251",
+ "title": {
+  "zh": null,
+  "en": "Batas Pambansa Blg. 386  An Act Creating the Municipality of Marcos in the Province of",
+  "orig": "Batas Pambansa Blg. 386  An Act Creating the Municipality of Marcos in the Province of"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1983-04-14",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Batasang Pambansa",
+ "docNumber": "Batas Pambansa Blg. 386",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1664,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/08_国民议会法令_BP/BP_00386_1983_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 BP_00386_1983_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H15251-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The barangays of Bunog, Iraan, Punta Baja, Capung Ulay, Ramsang, Candawag, Culasian,\nPanalingaan, Tabuin, Latud, and Canipaan are hereby separated from the Municipality of Quezon, Province of\nPalawan, and constituted into a distinct and independent municipality to be known as the Municipality of\nMarcos. The seat of government of the new municipality will be in Barangay Punta Baja."
+   }
+  },
+  {
+   "id": "PH-H15251-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The Municipality of Marcos shall be bounded as follows:\n\"A parcel of land known as the proposed Municipality of Marcos, in the Province of Palawan, Luzon Island,\nbounded in the north along lines 11 and 1 in the Plan by the municipal boundary of Quezon, on the south\nalong lines 2 and 3 by Sulu Sea, on the east along lines 1 and 2 by the municipal boundary of Brooke’s Point,\non the west along lines 3 to 11 by the shoreline of the South China Sea. Beginning at the point marked 1 in the\nplan at latitude 8° 59’ 10\" T north, longitude 117° 50’ 32\"; thence S 62-00W 80,750 meters to point 2;\nthence N 85-00W 5,800 meters to point 3; thence N 31-29E 20,670.35 meters to point 4; thence N 46-13E\n8,298.46 meters to point 5; thence N 52-21E 6,137.67 meters to point 6; thence N 39-14E 9,594.37 meters to\npoint 7; thence N 37-45E 11,017.16 meters to point 8; thence N 53-08E 10,364.93 meters to point 9; thence N\n41-12E 14,556.17 meters to point 10; thence N 76-02E 6,509.60 meters to point 11; thence S 48-10E\n14,442.69 meters to point 12, containing an area of nine hundred seventy-seven million, two hundred\nsixty-one thousand two hundred square meters (977,261,200 square meters) or ninety-seven thousand seven\nhundred twenty-six and twelve hundredth hectares (97,726.12 hectares).\""
+   }
+  }
+ ]
+}

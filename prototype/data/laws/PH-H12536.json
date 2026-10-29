@@ -1,0 +1,62 @@
+{
+ "id": "PH-H12536",
+ "title": {
+  "zh": null,
+  "en": "Acts No. 1827  An Act Appropriating the Sum of One Hundred thousand Pesos, Philippine Currency, to Be Expended in the Discretion of the Bureau of Agriculture Under the Supervision of the Secretary of the Interior, for the Purpose of Combating and Exterminating Cattle Diseases in the Islands.",
+  "orig": "Acts No. 1827  An Act Appropriating the Sum of One Hundred thousand Pesos, Philippine Currency, to Be Expended in the Discretion of the Bureau of Agriculture Under the Supervision of the Secretary of the Interior, for the Purpose of Combating and Exterminating Cattle Diseases in the Islands."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1908-05-21",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 1827",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 445,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (HTML full text only)  |  https://lawphil.net/statutes/acts/act1908/act_1827_1908.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_01827_1908_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_01827_1908_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12536-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "There is hereby appropriated, out of any funds in the insular Treasury not otherwise\nappropriated, the sum of one hundred thousand pesos, Philippine currency, or such part thereof as, may he\nnecessary, to he expended in the discretion of the Director of Agriculture, under the supervision of the\nSecretary of the Interior, to combat and exterminate cattle diseases in the Islands."
+   }
+  },
+  {
+   "id": "PH-H12536-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, May 21, 1908."
+   }
+  }
+ ]
+}

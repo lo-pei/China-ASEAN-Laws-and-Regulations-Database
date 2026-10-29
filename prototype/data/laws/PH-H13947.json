@@ -1,0 +1,72 @@
+{
+ "id": "PH-H13947",
+ "title": {
+  "zh": null,
+  "en": "An Act Authorizing the Sale of the Communal Lands in the Municipality of Bacoor, Province of Cavite, and for Other Purposes.",
+  "orig": "An Act Authorizing the Sale of the Communal Lands in the Municipality of Bacoor, Province of Cavite, and for Other Purposes."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1926-12-02",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3312",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1001,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1926/act_3312_1926.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03312_1926_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03312_1926_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13947-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The sale to private parties of the communal lands situated in the municipality of Bacoor,\nProvince of Cavite, Philippine Islands, and held in trust by the municipal council thereof for the benefit of the\ninhabitants of said municipality, is hereby authorized: Provided, That the present tenants and lessees of the\ndifferent parcels composing said lands shall have the right to buy their respective leaseholds subject to such\nrules and regulations which shall be adopted by the municipal council of Bacoor subject to the approval of the\nProvincial Board of Cavite and the Secretary of Agriculture and Natural Resources: Provided, further, That if\nany parcel of land is the subject of litigation in court the sale thereof shall be suspended until after the\nlitigation is finally terminated."
+   }
+  },
+  {
+   "id": "PH-H13947-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The net proceeds of the sale shall accrue to the general fund of the municipality of Bacoor and\nmay be expended for general public purposes."
+   }
+  },
+  {
+   "id": "PH-H13947-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, December 2, 1926."
+   }
+  }
+ ]
+}

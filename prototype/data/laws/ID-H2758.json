@@ -1,0 +1,802 @@
+{
+ "id": "ID-H2758",
+ "title": {
+  "zh": "遥感活动实施程序法",
+  "en": "Law on Procedures for the Conduct of Remote Sensing Activities",
+  "id": "TATA CARA PENYELENGGARAAN KEGIATAN PENGINDERAAN JAUH",
+  "orig": "TATA CARA PENYELENGGARAAN KEGIATAN PENGINDERAAN JAUH",
+  "vi": "Luật về Thủ tục Tiến hành Hoạt động Viễn thám",
+  "th": "พระราชบัญญัติว่าด้วยขั้นตอนการดำเนินกิจกรรมการสำรวจระยะไกล",
+  "ms": "Akta tentang Tatacara Pelaksanaan Aktiviti Penderiaan Jauh"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02c",
+ "language": "id",
+ "level": "law",
+ "category": "04_劳工与行政法",
+ "status": "active",
+ "promulgatedDate": "2018",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU11-2018",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 54,
+ "chars": 46618,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PP%20Nomor%2011%20Tahun%202018.pdf&fl=P18129"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\04_劳工与行政法\\印尼_文本_2018_TATA CARA PENYELENGGARAAN KEGIATAN PENGINDERAAN JAUH.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 58 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H2758-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\nDalam Peraturan Pemerintah ini yang dimaksud\ndengan:\n1. Penginderaan Jauh adalah penginderaan permukaan\nbumi dari dirgantara dengan memanfaatkan sifat\ngelombang elektromagnetik yang dipancarkan,\ndipantulkan, atau dihamburkan oleh objek yang\ndiindera.\n2. Penyelenggaraan Kegiatan Penginderaan Jauh\nadalah rangkaian pengelolaan dan pelaksanaan\nPenginderaan Jauh.\n3. Perolehan Data adalah salah satu bentuk kegiatan\nPenginderaan Jauh yang berupa pengumpulan data\ntentang obyek di permukaan bumi yang berada pada\ndaerah tertentu di dalam wilayah kedaulatan\nRepublik Indonesia.\n4. Pengolahan Data adalah salah satu bentuk kegiatan\nPenginderaan Jauh yang berupa usaha untuk\nmemperoleh informasi mengenai kualitas, kuantitas,\ndan sebaran sumber daya alam, sumber daya\nbuatan, sarana dan prasarana nasional tentang\nwilayah kedaulatan Republik Indonesia.\n5. Penyimpanan Data adalah salah satu bentuk\nkegiatan Penginderaan yang bempa upaya\nadministrasi terpadu dan terpusat untuk\nkemanfaatan maksimal atas data penginderaan jauh\ntentang wilayah kedaulatan Republik Indonesia.\n6. Pendistribusian Data adalah salah satu bentuk\nkegiatan Penginderaan Jauh yang berupa\npenyebaran data primer dan data proses kepada\nPengguna agar dapat menghasilkan analisis\ninformasi.\n7. Pemanfaatan\n7.\n8.\n9.\n10.\n11.\nL2.\n13.\n14.\nPRES IDEN\nREPUBLIK INDONESIA\nPemanfaatan Data adalah salah satu bentuk\nkegiatan Penginderan Jauh yang menggunakan\nanalisis informasi Penginderaan Jauh dalam\nberbagai keperluan guna mendukung pembangunan\nnasional.\nDiseminasi Informasi adalah salah satu bentuk\nkegiatan Penginderaan Jauh yang berupa\npenyebaran hasil analisis informasi Penginderaan\nJauh kepada Pengguna agar dapat memanfaatkan\ninformasi tersebut.\nSatelit adalah wahana antariksa yang beredar\nmengelilingi bumi berfungsi sebagai sarana\nperolehan data primer dalam kegiatan penginderaan\njauh.\nWahana Lain adalah sarana yang dilengkapi dengan\nperalatan tertentu untuk keperluan validasi dan\nkalibrasi, peningkatan kualitas data, dan kebutuhan\nkhusus lainnya selain dari menggunakan Satelit\nPenginderaan Jauh.\nSensor adalah bagian dari sistem Penginderaan\nJauh bumi berbasis antariksa, yang merekam\ngelombang elektromagnetik dari semua rentang\nspektral atau bidang gravimetrik, dan terdiri atas\nsensor pasif dan sensor aktif.\nAtmosfer adalah lapisan udara yang terdiri atas\ncampuran berbagai gas dan partikel yang\nmenyelimuti bumi.\nStasiun Bumi adalah fasilitas di permukaan bumi\nuntuk menerima dan merekam data Satelit\nPenginderaan Jauh resolusi menengah dan tinggi.\nPerangkat Penerima Teknis adalah fasilitas di\npermukaan bumi untuk pengumpulan data Satelit\npengamatan bumi resolusi rendah.\n15.Data...\nPRES IDEN\nREPUBLIK INDONESIA\n15. Data Penginderaan Jauh adalah informasi tentang\nobjek, daerah, atau gejala di darat, laut, dan\natmosfer serta antariksa yang diindera melalui\nSatelit dan/atau wahana lain.\n16. Citra Satelit adalah gambar yang dihasilkan dari\nkegiatan penginderaan permukaan bumi\nmenggunakan sensor yang dipasang pada Satelit.\n17. Data Resolusi Rendah adalah Citra Satelit yang\nmenggambarkan kondisi spasial secara global,\nseperti pada Citra Satelit lingkungan dan cuaca.\n18. Data Resolusi Menengah adalah Citra Satelit yang\nmenggambarkan kondisi spasial teliti, seperti pada\nSatelit sumber daya alam.\n19. Data Resolusi Tinggi adalah Citra Satelit yang\nmenggambarkan kondisi spasial sangat teliti dengan\nketelitian spasial kurang dari 4 (empat) meter.\n20. Metadata adalah informasi terstruktur yang\nmendeskripsikan, menjelaskan, atau setidaknya\nmenjadikan suatu informasi mudah untuk\nditemukan kembali, digunakan, atau dikelola.\n21. Permukaan Bumi adalah seluruh permukaan darat,\npermukaan laut, dan atmosfer yang dapat dijangkau\noleh teknologi Penginderaan Jauh.\n22. Koreksi Geometrik adalah proses untuk\nmemperbaiki posisi/koordinat data sehingga sesuai\ndengan posisi di permukaan bumi.\n23. Koreksi Radiometrik adalah proses untuk\nmemperbaiki nilai intensitas pada data yang\ndiakibatkan oleh efek sudut dan posisi matahari saat\npencitraan, topografi permukaan bumi, kondisi\natmosfer, danf atau sensor.\n24. Klasifikasi\n24.\n25.\n26.\nPRESIDEN\nREPUELIK INDONESIA\nKlasilikasi adalah proses pengolahan data lanjutan\nuntuk mengelompokkan objek di permukaan bumi\nberdasarkan karakteristik ketampakan dan/atau\nnilai digital dari data tersebut.\nDeteksi Parameter Geobiofisik adalah proses\nidentifikasi parameter ketampakan yang menjadi ciridari objek permukaan bumi seperti koefisien\npantulan, suhu permukaan, kandungan klorofil,\nkandungan air, dan kekasaran permukaan lsurfoceroughness) objek.\nStandar adalah persyaratan teknis atau sesuatu\nyang dibakukan, termasuk tata cara dan metode\nyang disusun berdasarkan konsensus semua\npihak/Pemerintah/keputusan internasional yang\nterkait, dengan memp;rhatikan syarat keselamatan,\nkeamanan, kesehatan, lingkungan hidup,\nperkembangan ilmu pengetahuan dan teknologi,\npengalaman, serta perkembangan masa kini dan\nmasa depan untuk memperoleh manfaat yang\nsebesar-besarnya.\n27. Pemeintah Pusat adalah Presiden Republik\nIndonesia yang memegang kekuasaan pemerintahan\nNegara Republik Indonesia yang dibantu oleh Wakil\nPresiden dan Menteri sebagaimana dimaksud dalam\nUndang-Undang Dasar Negara Republik Indonesia\nTahun 1945.\n28. Pemerintah Daerah adalah kepala daerah sebagai\nunsur penyelenggara Pemerintahan Daerah yang\nmemimpin pelaksanaan urusan pemerintahan yang\nmenjadi kewenangan daerah otonom.\n29. Instansi\nR E p u JrT,? t,'roSf; * . r, o\n29, Instansi Pemerintah adalah kementerian dan/atau\nlembaga pemerintah nonkementerian (termasuk TNI\ndan Polri).\n30. Lembaga adalah Instansi pemerintah yang\nmelaksanakan urusan pemerintahan di bidang\npenelitian dan pengembangan kedirgantaraan dan\npemanfaatannya\nKeantariksaan.\nserta Penyelenggaraan\n31. Masyarakat adalah orang perseorangan, kelompok\norang, termasuk masyarakat hukum adat, korporasi,\ndan/atau pemangku kepentingan nonpemerintah\nlain.\n32. Penyedia Data adalah badan usaha di dalam\nmaupun di luar negeri yang mampu menyediakan\ndata penginderaan jauh.\n33. Pengguna adalah para pihak yang menggunakan\ndata dan/atau informasi Penginderaan Jauh baik\ninstansi pemerintah, pemerintah daerah dan/atau\nmasyarakat.\n34. Asing adalah perseorangan warga negara asing,\nbadan usaha asing, dan/atau pemerintah asing.\nperaturarr r\"*.1iL1'r,'ini mengatur mengenai rata cara\nPenyelenggaraan Kegiatan Penginderaan Jauh yang\nmeliputi:\na. perolehan data;\nb. pengolahan data;\nc. penyimpanan dan pendistribusian data; dan\nd. pemanfaatan data dan diseminasi informasi.\nBAB II\nPRES I DEN\nREPUBLIK INDONESIA\nBAB II\nPEROLEHAN DATA\nBagian Kesatu\nUmum"
+   }
+  },
+  {
+   "id": "ID-H2758-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\nPerolehan data penginderaan jauh sebagaimana\ndimaksud dalam Pasal 2 huruf a dilaksanakan untuk\nmenjamin kontinuitas ketersediaan data.\nPerolehan data penginderaan jauh sebagaimana\ndimaksud pada ayat (1) dilaksanakan dengan\nmenggunakan sarana:\na. Satelit;\nb. Wahana lain;\nc. Stasiun Bumi;\nPerangkat Penerima Teknis; dan/atau\nPerangkat pengolahan data."
+   }
+  },
+  {
+   "id": "ID-H2758-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\nPerolehan data penginderaan jauh sebagaimana\ndimaksud dalam Pasal 3 dilaksanakan melalui:\na. pengoperasianSatelit;\nb. pengoperasian Stasiun Bumi; dan/atau\nc. Citra Satelit.\nPerolehan data penginderaan jauh melalui\npengoperasian Satelit sebagaimana dimaksud pada\nayat (1) huruf a hanya dapat dilaksanakan dengan\ndukungan pengoperasian Stasiun Bumi.\n(3) Perolehan data penginderaan jauh melalui\npengoperasian Stasiun Bumi sebagaimana dimaksud\npada ayat (1) huruf b dapat dilaksanakan tanpa\npengoperasian Satelit.\n7-\n(1)\n(2)\n(1)\n(2)\nd.\ne.\n(4) Selain\n(1)\n(2t\nPRES IDEN\nREPUBLIK INDONESIA\n(4) Selain pengoperasian Stasiun Bumi sebagaimana\ndimaksud pada ayat (1) huruf b, pengumpulan data\nSatelit pengamatan bumi resolusi rendah dilaksanakan\ndengan menggunakan Perangkat Penerima Teknis."
+   }
+  },
+  {
+   "id": "ID-H2758-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\nHasii perolehan data penginderaan jauh dapat berupa:\na. data primer; dan\nb. data proses.\nData sebagaimana dimaksud pada ayat (1) dapat\ndiklasifikasikan ke dalam :\na. resolusi rendah;\nb. resolusi menengah; dan\nc. resolusi tinggi.\nBagian Kedua\nPengoperasian Satelit"
+   }
+  },
+  {
+   "id": "ID-H2758-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\nPengoperasian Satelit sebagaimana dimaksud dalam Pasal 4\nayat (l) huruf a dilaksanakan untuk mengindera permukaan\nbumi dan mengirimkan data yang diperoleh dari Satelit ke\nStasiun Bumi."
+   }
+  },
+  {
+   "id": "ID-H2758-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\nPengoperasian Satelit sebagaimana dimaksud dalam\nPasal 6 dilaksanakan oleh Lembaga.\nPengoperasian Satelit oleh lembaga sebagaimana\ndimaksud pada ayat (1) dilaksanakan melalui kegiatan:\n(1)\n(21\na. membuat .\nPRES IDEN\nREPUBLIK INDONESIA\nmembuat perencanaan Satelit;\nmembangun Satelit; dan\nmengoperasikan Satelit."
+   }
+  },
+  {
+   "id": "ID-H2758-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\nDalam membuat perencanaan dan membangun Satelit\nsebagaimana dimaksud dalam Pasal 7 ayat (2) huruf a\ndan huruf b, Lembaga mempertimbangkan:\na. kepentingan misi Satelit; dan\nb. peta jalan (road.mapl pembangunan Satelit.\nDalam membuat perencanaan dan membangun Satelit\nsebagaimana dimaksud pada ayat (1), Lembaga dapat\nmengikutsertakan Instansi Pemerintah, Pemerintah\nDaerah, dan/ atau Masyarakat.\nKetentuan lebih lanjut mengenai tata cara keikutsertaan\nInstansi Pemerintah, Pemerintah Daerah, dan/atau\nMasyarakat dalam perencanaan dan pembangunan\nSatelit diatur dalam Peraturan Lembaga."
+   }
+  },
+  {
+   "id": "ID-H2758-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\nPelaksanaan perencanaan sebagaimana dimaksud dalam\nPasal 7 ayat (21 huruf a ditetapkan oleh Lembaga dalam\nrencana strategis lima tahunan yang didasarkan pada\nRencana Induk Keantariksaan."
+   }
+  },
+  {
+   "id": "ID-H2758-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\nDalam mengoperasikan Satelit sebagaimana dimaksud dalam\nPasal 7 ayal (21 huruf c, Lembaga harus memenuhi\npersyaratan:\na. ketentuan internasional; dan\nb. memiliki izin penggunaan spektrum frekuensi radio\nsesuai dengan peraturan perundang-undangan.\nb.\nc.\n(1)\n(21\n(3)"
+   }
+  },
+  {
+   "id": "ID-H2758-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\nHasil Pengoperasian Satelit sebagaimana dimaksud\ndalam Pasal 6 berupa data primer yang akan dikirimkan\nsecara langsung ke Stasiun Bumi.\nBagian Ketiga\nPengoperasian Stasiun Bumi"
+   }
+  },
+  {
+   "id": "ID-H2758-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n(1) Pengoperasian Stasiun Bumi sebagaimana dimaksud\ndalam Pasal 4 ayat (1) huruf b dilaksanakan untuk\nmenerima dan merekam data primer sebagaimana\ndimaksud dalam Pasal 5 ayat (1) huruf a.\n(21 Data primer sebagaimana dimaksud pada ayat (1) terdiri\natas resolusi menengah dan/atau resolusi tinggi."
+   }
+  },
+  {
+   "id": "ID-H2758-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\nPengoperasian Stasiun Bumi sebagaimana dimaksud\ndalam Pasal 12 dilaksanakan melalui kegiatan:\na. membangun Stasiun Bumi; dan\nb. mengoperasikan Stasiun Bumi.\nStasiun Bumi sebagaimana dimaksud pada ayat (1)\nhanya dapat dibangun dan dioperasikan oleh Lembaga."
+   }
+  },
+  {
+   "id": "ID-H2758-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\n(1) Pelaksanaan pengoperasian Stasiun Bumi sebagaimana\ndimaksud dalam Pasal 13 didahului dengan membuat\nrencana teknis oleh Lembaga.\n(1)\n(21\n(2) Rencana. . .\n(2)\n(3)\nPRES IDEN\nREPUBLIK INOONESIA\nRencana teknis sebagaimana dimaksud pada ayat (1)\ndidasarkan pada Rencana Induk Keantariksaan.\nRencana teknis sebagaimana dimaksud pada ayat (2),\npaling sedikit memuat:\na. penentuan data Satelit yang akan diterima oleh\nStasiun Bumi;\nb. penentuan spesifikasi teknis sistem Stasiun Bumi;\ndan\nc. pen5rusunan peta jalan pembangunan Stasiun Bumi.\n(4) Rencana teknis sebagaimana dimaksud pada ayat (1)\nditetapkan oleh Kepala Lembaga."
+   }
+  },
+  {
+   "id": "ID-H2758-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\n(1) Dalam membangun Stasiun Bumi sebagaimana\ndimaksud dalam Pasal 13 ayat (1) huruf a, Lembaga\nmelakukan:\na. penentuan lokasi Stasiun Bumi;\nb. pengajuan permohonan izin penggunaan spektrum\nfrekuensi radio;\nc. pembangunan sarana dan prasarana; dan\nd. pemasangan instalasi sistem Stasiun Bumi.\n(2) Dalam mengoperasikan Stasiun Bumi sebagaimana\ndimaksud dalam Pasal 13 ayat (1) huruf b, Lembaga\nmelakukan:\na. perencanaan akuisisi data Satelit;\nb. penerimaan dan perekaman data Satelit;\nc. pengolahan data primer; dan\nd. pemeliharaan Stasiun Bumi."
+   }
+  },
+  {
+   "id": "ID-H2758-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\n(1)\n(21\nPRES I DEN\nREPUBLIK INDONESIA\nPasal 16\nHasil Pengoperasian Stasiun Bumi\ndimaksud dalam Pasal 12 bempa:\na. data primer; dan\nb. data proses.\nsebagaimana"
+   }
+  },
+  {
+   "id": "ID-H2758-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\nLembaga mengajukan permohonan izin penggunaan\nspektrum frekuensi radio sebagaimana dimaksud dalam\nPasal 15 ayat (1) huruf b kepada kementerian yang\nmenyelenggarakan urusan pemerintahan di bidang\nkomunikasi dan informatika.\nIzin penggunaan spektrum frekuensi radio sebagaimana\ndimaksud pada ayat (1) diterbitkan sesuai dengan\nketentuan peraturan perundang-undangan."
+   }
+  },
+  {
+   "id": "ID-H2758-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\n(1) Dalam hal Lembaga belum dapat melakukan\npengoperasian Satelit, Lembaga dapat melakukan kerja\nsama operasional dengan operator Asing guna\nmemperoleh data untuk pengoperasian Stasiun Bumi.\n(21 Dalam hal melakukan kerja sama operasional\nsebagaimana dimaksud pada ayat (1), Lembaga dapat\ndikenakan biaya sewa Satelit oleh operator Asing.\n(3) Dalam hal menentukan operator asing sebagaimana\ndimaksud pada ayat (1) Lembaga mempertimbangkan\nkeberlanjutan ketersediaan data guna memenuhi\nkebutuhan program prioritas nasional."
+   }
+  },
+  {
+   "id": "ID-H2758-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 19\nPengoperasian Perangkat Penerima Teknis sebagaimana\ndimaksud dalam Pasal 3 ayat (2) huruf d dilaksanakan\nuntuk mengumpulkan data primer sebagaimana dimaksud\ndalam Pasal 5 ayat (1) huruf a dari Satelit pengamatan bumi\nresolusi rendah."
+   }
+  },
+  {
+   "id": "ID-H2758-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\nPengoperasian Perangkat Penerima Teknis sebagaimana\ndimaksud dalam Pasal 19 dilaksanakan melalui\nkegiatan:\na. membangun Perangkat Penerima Teknis; dan\nb. mengoperasikan Perangkat Penerima Teknis.\nPerangkat Penerima Teknis sebagaimana dimaksud\npada ayat (1) dapat dibangun dan dioperasikan oleh\nLembaga, Instansi Pemerintah, Pemerintah Daerah,\ndan/atau Masyarakat.\nBagian Keempat\nCitra Satelit\nPasal 2 1\nPerolehan data penginderaan jauh melalui Citra Satelit\nsebagaimana dimaksud dalam Pasal 4 ayat (1) huruf c\ndilaksanakan untuk melengkapi ketersediaan data yang\ntidak dipenuhi melalui pengoperasian Satelit dan\npengoperasian Stasiun Bumi.\nUntuk melengkapi ketersediaan data sebagaimana\ndimaksud pada ayat (1) dilakukan melalui pengadaan\nCitra Satelit.\n(1)\n(21\n(1)\n(2)"
+   }
+  },
+  {
+   "id": "ID-H2758-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\n(1)\nt2)\nPRESIDEN\nREPIJ ELIK INDONESIA\n-L4-\nPasal22\nPengadaan Citra Satelit sebagaimana dimaksud dalam\nPasal 2l dapat diperoleh dari:\na. pembelian dari penyedia data;\nb. kerja sama dengan Asing; dan\nc. akses data yang tersedia secara bebas.\nPengadaan Citra Satelit sebagaimana dimaksud pada\nayat (l) dapat berupa:\na. data resolusi rendah;\nb. data resolusi menengah; atau\nc. data resolusi tinggi."
+   }
+  },
+  {
+   "id": "ID-H2758-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\nPengadaan Citra Satelit sebagaimana dimaksud dalam\nPasal 22 berupa:\na. data primer; dan\nb. data proses.\nData primer sebagaimana dimaksud pada ayat (1) huruf\na merupakan data mentah dari Satelit yang belum\ndiolah yang diterima langsung oleh Stasiun Bumi milik\nasing.\nData proses sebagaimana dimaksud pada ayat (1)\nhuruf b merupakan data siap pakai hasil pengolahan\ndata primer.\n(1)\n(2t\n(s)"
+   }
+  },
+  {
+   "id": "ID-H2758-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 24\nPRES I DEN\nREPUBLIK INDONESIA\n(1)\n(2)\nPasal 24\nDalam hal Instansi Pemerintah dan/atau Pemerintah\nDaerah memerlukan data resolusi tinggi sebagaimana\ndimaksud dalam Pasal 22 ayat (2) huruf c, pengadaan\nCitra Satelit hanya dapat dilaksanakan oleh Lembaga.\nInstansi Pemerintah dan/atau Pemerintah Daerah dapat\nmelakukan pengadaan Citra Satelit resolusi rendah\ndan/atau resolusi menengah melalui pembelian dari\npenyedia data sebagaimana dimaksud dalam Pasal 22\nayat (1) huruf a danlatau kerja sama dengan Asing\nsebagaimana dimaksud dalam Pasal 22 ayat (1) huruf b\nyang bersifat komersial setelah berkoordinasi dengan\nLembaga.\nPengadaan Citra Satelit yang dilakukan oleh Instansi\nPemerintah dan/atau Pemerintah Daerah melalui\npembelian dari penyedia data dan kerja sama dengan\nAsing yang bersifat komersial sebagaimana dimaksud\npada ayat (21harus memenuhi persyaratan:\na. sesuai dengan kebutuhan pengguna;\nb. dilaksanakan secara selektif; dan\nc. data bersifat multi lisensi."
+   }
+  },
+  {
+   "id": "ID-H2758-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\nDalam pengadaan Citra Satelit sebagaimana dimaksud\ndalam Pasal 24 ayat (1), Instansi Pemerintah dan/atau\nPemerintah Daerah wajib mengajukan perencanaan\nkebutuhan Citra Satelit kepada Lembaga.\nPengajuan perencanaan kebutuhan Citra Satelit\nsebagaimana dimaksud pada ayat (1) dilengkapi dengan\npersyaratan:\na. melampirkan kerangka acuan kerja mengenai\nrencana penggunaan data;\n(3)\n(1)\n(2)\nb. menyertakan\nd.\ne.\nPRESIDEN\nREPIJ BLIK INDONESIA\nb. menyertakan informasi area spesifik yang diminta\natau koordinat area yang dibutuhkan;\nc. menyertakan surat pernyataan tidak mengajukan\nanggaran pengadazrn Citra Satelit dalam\nAPBN/APBD;\nmenyertakan kontak person; dan\nrencana kebutuhan Citra Satelit untuk tahun\nberikutnya.\nPasaJ26\nPerencanaan kebutuhan sebagaimana dimaksud dalam\nPasal 25 dibahas dalam Rapat Koordinasi Nasional Citra\nSatelit yang diselenggarakan oleh Lembaga.\nRapat Koordinasi Nasional Citra Satelit diselenggarakan\ndengan melibatkan Instansi Pemerintah, Pemerintah\nDaerah, kementerian yang menyelenggarakan urusan\npemerintahan di bidang keuangan dan badan yang\nmenyelenggarakan urusan pemerintahan di bidang\nperencanaan pembangunan nasional.\nRapat Koordinasi Nasional Citra Satelit sebagaimana\ndimaksud pada ayat (1) untuk pengadaan Citra Satelit\ntahun berikutnya, dilaksanakan paling sedikit 1 (satu)\nkali dalam setahun dengan memperhatikan siklus\npenyusunan Anggaran Pendapatan dan Belanja Negara\nsesuai dengan ketentuan peraturan perundang-\nundangan."
+   }
+  },
+  {
+   "id": "ID-H2758-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\nDalam keadaan tertentu, Instansi Pemerintah dan/atau\nPemerintah Daerah dapat melakukan pengadaan Citra\nSatelit di luar ketentuan sebagaimana dimaksud dalam\nPasal 24 dan Pasal 25.\n(1)\n(2\\\n(3)\n(1)\n(2) Keadaan\nPRESIDEN\nREPUBLIK INDONESIA\n(21 Keadaan tertentu sebagaimana dimaksud pada ayat (1)\nmencakup:\na. kepentingan pertahanan dan keamanan negara\n(stabilitas nasional) ;\nb. kepentingan darurat kebencanaan; atau\nc. kepentingan strategis lainnya."
+   }
+  },
+  {
+   "id": "ID-H2758-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\nPengadaan Citra Satelit yang dikenai tarif komersial\ndan/ atau resolusi tinggi untuk wilayah strategis oleh\nMasyarakat wajib memperoleh izin dari kementerian yang\nmenyelenggarakan urusan pemerintahan di bidang\npertahanan dan keamanan.\nBagian Kelima\nValidasi dan Kalibrasi Data Penginderaan Jauh"
+   }
+  },
+  {
+   "id": "ID-H2758-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\nDalam rangka keperluan validasi dan kalibrasi data\npenginderaan jauh, peningkatan kualitas data\npenginderaan jauh serta kebutuhan khusus lainnya,\nLembaga dapat meiakukan pengoperasian wahana lain.\nPengoperasian wahana lain sebagaimana dimaksud\npada ayat (1) dapat dilaksanakan dengan menggunakan:\na. wahana udara;\nb. wahana darat; atau\nc. wahana laut.\nPenggunaan wahana lain sebagaimana dimaksud pada\nayat l2l dilengkapi dengan:\na. sensor aktif;\n(1)\n(2)\n(3)\nb. sensor .\n(4t\n(s)\nPRES IDEN\nREPUBLIK INDONESIA\n_ 18_\nb. sensor pasif; dan/ atau\nc. alat ukur terestrial.\nPengoperasian wahana lain sebagaimana dimaksud\npada ayat (2) dilaksanakan oleh Lembaga, Instansi\nPemerintah, Pemerintah Daerah, dan/ atau Masyarakat\nsesuai dengan peraturan perundang-undangan.\nPengoperasian Wahana lain untuk keperluan validasi\ndan kalibrasi data penginderaan jauh sebagaimana\ndimaksud pada ayat (a) wajib berkoordinasi dengan\nLembaga.\nBAB III\nPENGOLAHAN DATA\nBagian Kesatu\nUmum"
+   }
+  },
+  {
+   "id": "ID-H2758-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\nPengolahan Data Penginderaan Jauh sebagaimana\ndimaksud dalam Pasal 2 huruf b dilaksanakan untuk\nmengolah:\na. data primer menjadi data proses; dan/ atau\nb. data proses menjadi analisis informasi.\nPasal 3 1\nPengolahan Data sebagaimana dimaksud dalam\nPasal 30 dapat dilaksanakan oleh Lembaga, Instansi\nPemerintah, Pemerintah Daerah, dan/ atau Masyarakat."
+   }
+  },
+  {
+   "id": "ID-H2758-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 32\n(1)\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 32\nPengolahan Data penginderaan jauh untuk mengolah\ndata primer menjadi data proses sebagaimana dimaksud\ndalam Pasal 30 huruf a meliputi:\na. koreksi geometrik; dan\nb. koreksi radiometrik;\nDalam melakukan koreksi geometrik sebagaimana\ndimaksud pada ayat (1) huruf a, wajib mengacu pada\ninformasi geospasial dasar sesuai dengan ketentuan\nperaturan perundang-undangan.\nKoreksi geometrik sebagaimana dimaksud pada ayat (1)\nhuruf a, digunakan sebagai dasar pembuataa informasi\ngeospasial tematik.\nKoreksi geometrik 5slagaimana dimaksud pada ayat (1)\nhuruf a, hanya dilaksanakan oleh Lembaga dan/atau\nbadan yang menyelenggarakan urusan pemerintahan di\nbidang informasi geospasial."
+   }
+  },
+  {
+   "id": "ID-H2758-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 33\nPengolahan Data Penginderaan Jauh untuk mengolah\ndata proses menjadi analisis informasi 5glagaimana\ndimaksud dalam Pasal 3O huruf b meliputi:\na. klasifikasi; dan\nb. deteksi parameter geobiofisik.\nDeteksi parameter geobiofisik sebagaimana dimaksud\npada ayat (1) huruf b, digunakan untuk identifikasi\nparameter ketampakan ciri objek permukaan bumi\ntermasuk atmosfer.\n(2t\n(3)\n(4)\n(1)\n(2)\nBegial Kedua .\nPRES I DEN\nREPUBLIK INDONESIA\nBagian Kedua\nMetode dan Kualitas Pengolahan Data Penginderaan Jauh"
+   }
+  },
+  {
+   "id": "ID-H2758-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 34\n(1) Pengolahan Data Penginderaan Jauh sebagaimana\ndimaksud dalam Pasal 31 wajib mengacu pada metode\ndan kualitas Pengolahan Data Penginderaan Jauh.\n(21 Metode dan kualitas Pengolahan Data Penginderaan\nJauh sebagaimana dimaksud pada ayat (1) dapat\ndisempurnakan secara terencana, terarah, dan\nberkelanjutan sesuai dengan perkembangan ilmu\npengetahuan dan teknologi.\n(3) Ketentuan mengenai metode dan kualitas Pengolahan\nData Penginderaan Jauh diatur dalam Peraturan\nLembaga."
+   }
+  },
+  {
+   "id": "ID-H2758-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 35\nDalam rangka validasi dan kalibrasi data penginderaan jauh,\nLembaga harus diprioritaskan dalam memperoleh data\nsekunder yang tersedia di Instansi Pemerintah dan/atau\nPemerintah Daerah sesuai dengan peraturan perundang-\nundangan.\nBAB IV\nPENYIMPANAN DAN PENDISTRIBUSIAN\nDATA PENGINDERAAN JAUH"
+   }
+  },
+  {
+   "id": "ID-H2758-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 36\nPenyimpanan dan pendistribusian data penginderaan jauh\nsebagaimana dimaksud dalam Pasal 2 huruf c, dilakukan\nuntuk menjamin ketersediaan, kemudahan akses,\nperlindungan dan kelestarian data penginderaan jauh dalam\nrangka mendukung pembangunan nasional.\n20"
+   }
+  },
+  {
+   "id": "ID-H2758-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 37\n(1)\n(2)\n(l)\nPRESIDEN\nREPUBLIK INDONESIA\n'2t -\nPasal 37\nPenyimpanan dan pendistribusian data penginderaan\njauh sebagaimana dimaksud dalam Pasal 36, dapat\ndilaksanakan oleh Lembaga, Instansi Pemerintah,\nPemerintah Daerah, dan/ atau Masyarakat sesuai\ndengan ketentuan yang diatur dalam perjanjian lisensi.\nInstansi Pemerintah Penyelenggara Penginderaan Jauh\nwajib menyerahkan metadata dan duplikat data\npenginderaan jauh kepada Lembaga, kecuali ditentukan\nlain berdasarkan perjanjian lisensi."
+   }
+  },
+  {
+   "id": "ID-H2758-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 38\nLembaga dalam menyelenggarakan penyimpanan dan\npendistribusian Data Penginderaan Jauh sebasaimana\ndimaksud dalam Pasal 37 wajib:\na. mengumpulkan, menyimpan, mendistribusikan\nmetadata dan data penginderaan jauh wilayah\nIndonesia;\nb. menyediakan data penginderaan dengan tutupan\nawan minimal dan bebas awan setiap tahun untuk\nseluruh wilayah Indonesia;\nc. menyediakan informasi mengenai kualitas data\npenginderaan jauh;\nd. memberikan supervisi terkait pemanfaatan data\npenginderaan jauh;\ne. memberikan masukan kepada pemerintah mengenai\nkebijakan pengadaaan pemanfaatan, penguasaan\nteknologi, dan data penginderaan jauh Satelit;\nf. menjadi simpul data penginderaan jauh Satelit\ndalam sistem jaringan informasi geospasial nasional;\ndan\ng. menyediakan fasilitas pengolahan data penginderaan\njauh bagi para Pengguna di luar Lembaga.\n(2) Penyimpanan\n12)\n(3)\nPRESIDEN\nREPU BLIK INDONESIA\nPenyimpanan dan Pendistribusian Data Penginderaan\nJauh sebagaimana dimaksud pada ayat (1),\ndilaksanakan melalui Bank Data Penginderaan Jauh\nNasional.\nKetentuan mengenai Penyimpanan dan Pendistribusian\nData Penginderaan Jauh sebagaimana dimaksud pada\nayat (2), diatur dalam Peraturan Lembaga."
+   }
+  },
+  {
+   "id": "ID-H2758-A39",
+   "no": 39,
+   "noLabel": {
+    "id": "Pasal 39"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 39\nSetiap penyelenggara Penginderaan Jauh selain\nLembaga dan Instansi Pemerintah dalam jangka waktu\n6 (enam) bulan setelah menghasilkan/mendapatkan\nmetadata wajib menyerahkan metadata Penginderaan\nJauh kepada Lembaga, kecuali ditentukan lain\nberdasarkan perjanjian lisensi.\nDalam hal penyelenggara Penginderaan Jauh selain\nLembaga dan Instansi Pemerintah sebagaimana\ndimaksud pada ayat (1) tidak menyerahkan metadata\nPenginderaan Jauh kepada Lembaga maka dapat\ndikenai sanksi administratif.\nSanksi administratif sebagaimana dimaksud pada ayat\n(2) berupa:\na. peringatan tertulis; dan/ atau\nb. denda administratif;"
+   }
+  },
+  {
+   "id": "ID-H2758-A40",
+   "no": 40,
+   "noLabel": {
+    "id": "Pasal 40"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 40\nPelaksanaan sanksi administratif sebagaimana\ndimaksud dalam Pasal 39 dikenakan secara berjenjang\ndari yang ringan sampai berat.\nSanksi peringatan tertulis sebagaimana dimaksud\ndalam Pasal 39 ayal (3) huruf a diberikan secara tertulis\npaling banyak 3 (tiga) kali berturut-turut dengan\ntenggang waktu masing-masing 1 (satu) bulan.\n(1)\n(21\n(3)\n(1)\n(21\n(3) Apabila\n(3)\n(41\n(5)\n(6)\nPRESIOEN\nREPU BLIK INDONESIA\nApabila dalam waktu 1 (satu) bulan setelah peringatan\nketiga diberikan sebagaimana dimaksud pada ayat (2)\nsetiap or€rng yang tidak menyerahkan metadata\ndikenakan sanksi denda administratif.\nDenda administratif sebagaimana dimaksud pada\nayat (3) dikenakan sebesar Rp100.000.000,00 (seratus\njuta rupiah).\nApabila denda administratif tidak dibayar maka\npenyelenggara dikenakan bunga atas denda sebesar 27o\n(dua persen) per bulan beserta peringatan pelunasan\ndalam jangka waktu paling lama 2 (dua) bulan.\nApabila datam jangka waktu sebagaimana dimaksud\npada ayat (a) tidak dipenuhi maka:\na. piutang tersebut dikategorikan sebagai piutang\nmacet yang pengurusannya diserahkan kepada\ninstansi yang berwenang mengurus Piutang Negara\nuntuk diproses lebih lanjut penyelesaiannya; dan\nb. Kepala Lembaga menyampaikan rekomendasi\nkepada instansi pemerintah yang memberikan izsn\nyang terkait dengan kegiatan penginderaan jauh\nuntuk memberikan sanksi administrasi berupa\npenghentian sementara sebagian atau seluruh\nkegiatan, atau mencabut izin sebagaimana\ndimaksud dalam Pasal 94 ayat (2) huruf b dan\nhuruf e Undang-Undang Nomor 21 Tahun 2013\ntentang Keantariksaan."
+   }
+  },
+  {
+   "id": "ID-H2758-A41",
+   "no": 41,
+   "noLabel": {
+    "id": "Pasal 41"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 41\nDenda administratif ssfngaimana dimaksud dalam pasal 40\nmerupakan penerimaan negara bukan pajak yang\npelaksanaannya sesuai dengan ketentuan peraturan\nperundang-undangan."
+   }
+  },
+  {
+   "id": "ID-H2758-A42",
+   "no": 42,
+   "noLabel": {
+    "id": "Pasal 42"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {
+    "id": ".."
+   },
+   "text": {
+    "id": "Pasal 42..\n(1)\n(21\nPRES I DEN\nREPUBLIK INDONESIA\nPasal 42\nSanksi administratif sebagaimana dimaksud dalam Pasal 39\ndan Pasal 40 dikenakan oleh Kepala Lembaga."
+   }
+  },
+  {
+   "id": "ID-H2758-A43",
+   "no": 43,
+   "noLabel": {
+    "id": "Pasal 43"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 43\nLembaga menjamin keselamatan dan keamanan data\nPenginderaan Jauh pada Bank Data Penginderaan Jauh\nNasional."
+   }
+  },
+  {
+   "id": "ID-H2758-A44",
+   "no": 44,
+   "noLabel": {
+    "id": "Pasal 44"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 44\nDalam mendapatkan Data Penginderaan Jauh,\nPengguna berhak menolak jika data penginderaan jauh\nyang diterima tidak berkualitas.\nKetentuan mengenai kualitas data penginderaan jauh\nsebagaimana dimaksud pada ayat (1) mengacu pada\nmetode dan kualitas Pengolahan Data Penginderaan\nJauh yang diatur dalam Peraturan Lembaga\nsebagaimana dimaksud dalam Pasal 3a ayat (3)."
+   }
+  },
+  {
+   "id": "ID-H2758-A45",
+   "no": 45,
+   "noLabel": {
+    "id": "Pasal 45"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 45\nDalam rangka melestarikan Data Penginderaan Jauh,\nInstansi Pemerintah dan/atau Pemerintah Daerah yang\nmemiliki arsip Data Penginderaan Jauh resolusi rendah,\nmenengah dan tinggi wajib menyimpan data tersebut.\nDalam hal Instansi Pemerintah dan/atau Pemerintah\nDaerah sebagaimana dimaksud pada ayat (1) tidak\ndapat melakukan penyimpanan dan/atau tidak memiliki\nfasilitas untuk melaksanakannya, penyimpanan data\nwajib diserahkan kepada Lembaga kecuali ditentukan\nlain berdasarkan perjanjian lisensi.\n(1)\n(2)\n(3) Dalam\nPRESIOEN\nREPUBLIK INDONESIA\nDalam hal pelaksanaan ketentuan sebagaimana\ndimaksud pada ayat (1), Instansi Pemerintah dan/atau\nPemerintah Daerah wajib menyerahkan kepada\nLembaga berupa:\na. metadata Penginderaan Jauh; dan\nb. duplikat data Penginderaan Jauh,\nkecuali ditentukan lain berdasarkan perjanjian lisensi.\nDalam hal Instansi Pemerintah dan/ atau Pemerintah\nDaerah tidak dapat menyerahkan metadata dan\nduplikat data dikarenakan adanya perjanjian lisensi\nsebagaimana dimaksud pada ayat (3), maka wajib\nmenyerahkan cuplikan citra satelit secara menyeluruh\ndisertai informasi yang meliputi:\na. nama satelit dan sensor;\nb. tanggal dan waktu perolehan data; dan\nc. koordinat cakupan wilayah."
+   }
+  },
+  {
+   "id": "ID-H2758-A46",
+   "no": 46,
+   "noLabel": {
+    "id": "Pasal 46"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 46\nDalam hal Penyimpanan dan Pendistribusian Data\nPenginderaan Jauh, kmbaga melakukan pelayanan,\npembimbingan, dan pembinaan kepada Instansi Pemerintah,\nPemerintah Daerah, dan/ atau Masyarakat.\nBAB V\nPEMANFAATAN DATA DAN DISEMINASI INFORMASI"
+   }
+  },
+  {
+   "id": "ID-H2758-A47",
+   "no": 47,
+   "noLabel": {
+    "id": "Pasal 47"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 47\n(1) Pemanfaatan Data Penginderaan Jauh yang merupakan\nhasil analisis informasi digunakan untuk berbagai\nkepentingan dalam mendukung pembangunan nasional.\n(3)\n(4)\n(2) Diseminasi\n(1)\n(2)\nPRESIDEN\nREPUBLIK INDONESIA\nl2l Diseminasi informasi Penginderaan Jauh dilaksanakan\nuntuk menyebarluaskan informasi penginderaan jauh\nkepada pengguna."
+   }
+  },
+  {
+   "id": "ID-H2758-A48",
+   "no": 48,
+   "noLabel": {
+    "id": "Pasal 48"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 48\nPemanfaatan Data dan Diseminasi Informasi\nPenginderaan Jauh dapat dilaksanakan oleh Lembaga,\nInstansi Pemerintah, Pemerintah Daerah, dan/ atau\nMasyarakat.\nPemanfaatan Data dan Diseminasi Informasi\nPenginderaan Jauh oleh Instansi Pemerintah dan/ atau\nPemerintah Daerah, sebagaimana dimaksud pada\nayat (1) wajib mengacu pada pedoman yang ditetapkan\noleh Lembaga."
+   }
+  },
+  {
+   "id": "ID-H2758-A49",
+   "no": 49,
+   "noLabel": {
+    "id": "Pasal 49"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 49\nDalam hal Pemanfaatan Data dan Diseminasi Informasi\nPenginderaan Jauh, Lembaga melakukan pembimbingan,\npembinaan, dan pelayanan kepada Instansi Pemerintah,\nPemerintah Daerah, dan/ atau Masyarakat."
+   }
+  },
+  {
+   "id": "ID-H2758-A50",
+   "no": 50,
+   "noLabel": {
+    "id": "Pasal 50"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 50\n(1) Pemanfaatan data Penginderaan Jauh dapat\ndikelompokkan guna kepentingan informasi mengenai:\nwilayah darat;\nwilayah laut;\nwilayah pesisir dan pulau-pulau kecil;\nlingkungan dan mitigasi bencana; dan\natmosfer.\n(2) Pemanfaatan Data Penginderaan Jauh guna\nkepentingan informasi sebagaimana dimaksud pada\nayat (1) huruf a, huruf b, dan huruf c, meliputi\npemanfaatan data penginderaan jauh untuk identifikasi\nsumber daya alam.\na.\nb.\nc.\nd.\ne.\n(3) Pemanfaatan .\nPRES I DEN\nREPUBLIK INDONESIA\n(3) Pemanfaatan Data Penginderaan Jauh guna\nkepentingan informasi sebagaimana dimaksud pada\nayat (1) huruf d, meliputi pemanfaatan data\npenginderaan jauh untuk:\na. identifikasi permasalahan lingkungan; dan\nb. analisis mitigasi bencana.\n(41 Pemanfaatan Data Penginderaan Jauh guna\nkepentingan informasi sebagaimana dimaksud pada\nayat (1) huruf e meliputi pemanfaatan data\npenginderaan jauh untuk analisis:\na. dinamika atmosfer;\nb. fisika atmosfer; dan\nc. kimia atmosfer."
+   }
+  },
+  {
+   "id": "ID-H2758-A51",
+   "no": 51,
+   "noLabel": {
+    "id": "Pasal 51"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 51\nDalam rangka Diseminasi Informasi Penginderaan Jauh,\nLembaga melaksanakan pengelolaan sistem diseminasi\ninformasi.\nPengelolaan sistem Diseminasi Informasi sebagaimana\ndimaksud pada ayat (1) dilakukan melalui Sistem\nPemantauan Bumi Nasional.\nDalam pengelolaan Sistem Pemantauan Bumi Nasional\nsebagaimana dimaksud pada ayat (21, Lembaga dapat\nmelalmkan kerja sama dengan Instansi Pemerintah\ndan/ atau Pemerintah Daerah.\nKetentuan lebih lanjut mengenai kerja sama antara\nLembaga dengan Instansi Pemerintah dan/atau\nPemerintah Daerah sebagaimana dimaksud pada\nayat (3) diatur dalam Peraturan Lembaga.\nPasal52...\n(1)\n(2t\n(3)\n(41\n(1)\n(2t\nPRES I DEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H2758-A52",
+   "no": 52,
+   "noLabel": {
+    "id": "Pasal 52"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 52\nDalam hal Diseminasi Informasi Penginderaan Jauh,\nLembaga menetapkan kriteria informasi Penginderaan\nJauh yang bersifat rahasia.\nPenetapan informasi Penginderaan Jauh yang bersifat\nrahasia sebagaimana dimaksud pada ayat (1) dilakukan\nsesuai dengan ketentuan Peraturan Pemndang-\nundangan."
+   }
+  },
+  {
+   "id": "ID-H2758-A53",
+   "no": 53,
+   "noLabel": {
+    "id": "Pasal 53"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 53\nMasyarakat yang menggunakan pelayanan Diseminasi\nInformasi Penginderaan Jauh sebagaimana dimaksud dalam\nPasal 49 dapat dikenakan tarif pelayanan sesuai dengan\nperaturan Perundang-undangan.\nBAB VI\nPENDANAAN"
+   }
+  },
+  {
+   "id": "ID-H2758-A54",
+   "no": 54,
+   "noLabel": {
+    "id": "Pasal 54"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 54\nPendanaan dalam rangka Penyelenggaraan Kegiatan\nPenginderaan Jauh oleh Pemerintah, Pemerintah Daerah,\ndan/atau Masyarakat dibebankan pada anggaran masing-\nmasing sesuai dengan tanggung jawabnya.\nBAB VII\nPERAN SERTA MASYARAKAT"
+   }
+  },
+  {
+   "id": "ID-H2758-A55",
+   "no": 55,
+   "noLabel": {
+    "id": "Pasal 55"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 55\n(1) Dalam rangka meningkatkan penyelenggaraan\nKeantariksaan secara optimal, masyarakat memiliki\nkesempatan yang sama dan seluas-luasnya untuk\nberperan serta dalam kegiatan penginderaan Jauh.\n(2) Peran\n(2)\nPRES I DEN\nREPUBLIK INDONESIA\nPeran serta masyarakat sebagaimana dimaksud pada\nayat (1) adalah:\na. memantau dan menjaga ketertiban Penyelenggaraan\nPenginderaan Jauh;\nb. memberikan masukan kepada Pemerintah dalam\npenyempurnaan peraturan, pedoman, dan standar\nteknis di bidang Penginderaan Jauh;\nc. memberikan masukan kepada Pemerintah dan\nPemerintah Daerah dalam rangka pembinaan,\npenyelenggaraan, dan pengawasan kegiatan\nPenginderaan Jauh;\nd. menyampaikan pendapat dan pertimbangan kepada\npejabat yang berwenang terhadap kegiatan\nPenginderaan Jauh yang mengakibatkan dampak\npenting terhadap lingkungan;\ne. melaporkan apabila mengetahui terjadinya\nketidaksesuaian prosedur Penginderaan Jauh atau\nketidakberfungsian peralatan dan fasilitas\nPenginderaan Jauh;\nf. mengutamakan dan mempromosikan budaya\nKeselamatan Penginderaan Jauh; dan/ atau\ng. melaksanakan gugatan perwakilan terhadap\nkegiatan Penginderaan Jauh yang mengganggu,\nmerugikan, dan/atau membahayakan kepentingan\numum.\nPemerintah, Pemerintah Daerah, dan Penyelenggara\nPenginderaan Jauh menindaklanjuti masukan,\npendapat, dan laporan yang disampaikan oleh\nmasyarakat sebagaimana dimaksud pada ayat (2)\nhurufb, hurufc, hurufd, dan hurufe.\nDalam melaksanakan peran serta sebagaimana\ndimaksud pada ayat (2), masyarakat ikut bertanggung\njawab menjaga ketertiban serta Keselamatan dan\nKeamanan kegiatan Penginderaan Jauh.\n(3)\n(41\nBAB VIII\nPRESIDEN\nREPUBLIK INDONESIA\nBAB VIII\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H2758-A56",
+   "no": 56,
+   "noLabel": {
+    "id": "Pasal 56"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 56\nPada saat Peraturan Pemerintah ini berlaku, Instansi\nPemerintah, Pemerintah Daerah, dan/atau Masyarakat\ntetap dapat menggunakan metode dan kualitas\nPengolahan Data penginderaan jauh serta pedoman\nPemanfaatan Data dan Diseminasi Informasi yang ada\nsampai dengan dikeluarkannya metode dan pedoman\nberdasarkan Peraturan Pemerintah ini.\nBAB IX\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H2758-A57",
+   "no": 57,
+   "noLabel": {
+    "id": "Pasal 57"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 57\nPada saat Peraturan Pemerintah ini berlaku, Instansi\nPemerintah yang telah mengoperasikan Stasiun Bumi,\nwajib melaporkan dan menyerahkan duplikat data\nkepada Lembaga paling lambat I (satu) tahun sejak\nPeraturan Pemerintah ini berlaku.\nLembaga wajib melakukan pendataan terhadap Stasiun\nBumi Penginderaan Jauh yang telah beroperasi di\nwilayah Indonesia."
+   }
+  },
+  {
+   "id": "ID-H2758-A58",
+   "no": 58,
+   "noLabel": {
+    "id": "Pasal 58"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 58\nPeraturan Pemerintah ini mulai berlaku pada tanggal\ndiundangkan.\n(1)\n(2\\\nAgar\nq\"D\nPRESIDEN\nREPUBLIK INDONESIA\nAgar setiap orang mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan\npenempatannya dalam Lembaran Negara Republik Indonesia.\nDitetapkan di Jakarta\npada tanggal 10 April 2018\nPRESIDEN REPUBLIK INDONESIA,\nttd.\nJOKO WIDODO\nDiundangkan di Jakarta\npada tanggal 11 April 2018\nMENTERI HUKUM DAN HAK ASASI MANUSIA\nREPUBLIK INDONESIA,\nttd.\nYASONNA H. LAOLY\nLEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 56 TAHUN 2018\nSalinan sesuai dengan aslinya\nKEMENTERIAN SEKRETARI,AT NEGARA\nREPUBLIK INDONESIA\ndan Perundang-undarrgan,\nlvanna Djaman\nPRES IDEN\nREPUBLIK INDONESIA\nPENJELASAN\nATAS\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nNOMOR 11 TAHUN 2018\nTENTANG\nTATA CARA PET{YELENGGARAAN KEGIATAN PENGINDERAAN JAUH\nI. UMUM\nPenginderaan Jauh adalah penginderaan permukaan bumi dari dirgantara\ndengan memanfaatkan sifat gelombang elektromagnetik yang\ndipancarkan, dipantulkan, atau dihamburkan oleh objek yang diindera.\nPenginderaan Jauh merupakan salah satu kegiatan keantariksaan yang\ndiatur dalam Pasal 7 ayat (1) huruf b Undang-Undang Nomor 2L\nTahun 2Ol3 tentang Keantariksaan.\nTeknologi Satelit Penginderaan Jauh mulai berkembang pesat di Indonesia\nsejak tahun l97o-an, yaitu dengan digunakannya Satelit untuk\nmelakukan kegiatan penginderaan/pemotretan dari jauh (remote sensing).\nPada saat ini teknologi Penginderaan Jauh sudah sangat berkembang.\nRatusan Satelit Penginderaan Jauh berbagai jenis beredar di antariksa,\nmulai dari resolusi spasial rendah, menengah, dan tinggi. perkembangan\nresolusi Satelit Penginderaan Jauh menyebabkan pemanfaatan data serta\nproduk turunannya semakin luas, seperti yang digunakan untuk\ninventarisasi sumber daya alam (kehutanan, pertanian, perkebunan,\nsumber daya air, energi dan mineral); pemantauan lingkungan (kebakaran\nlahan/hutan, longsor, banjir); prediksi cuaca dan iklim, prediksi waktu\ntanam padi, serta pembuatan informasi tematik untuk perencanaan\npembangunan.\nIndonesia, dalam hal ini Lembaga Penerbangan dan Antariksa Nasional\n(LAPAN), mulai mengoperasikan Stasiun Bumi Satelit lingkungan dan\ncuaca untuk menerima data Satelit lingkungan dan cuaca NOAA pada\ntahun 1978. Pengembangan selanjutnya adalah mengoperasikan Stasiun\nBumi Satelit sumber daya alam pada tahun lg84 untuk menerima data\nSatelit Landsat. Pada tahun 2OL3, LAPAN telah meningkatkan kapasitas\nStasiun Bumi dan menerima (akuisisi) data resolusi spasial rlndah,\nmenengah\nPRESIOEN\nREPUBLIK INOONESIA\nmenengah dan tinggi untuk seluruh Indonesia seperti MTSAT, NOAA,\n1911140\"., NPP, Feng Yun, Metop, Landsat-7, Landsat-8, SpOi-S, dansPor-6 melalui stasiun Bumi penginderaan Jauh di parepare (Sulawesi\n9:t:-fl), fekayon (Jakarta), dan Rumpin (Bogor). pengataman' panjang\nI,APAN dalam pengoperasiaa stasiun Bumi, telah' memderikan t<apasitaskemampuan penguasaan pengembangan Stasiun Bumi danpengoperasiannya secara mandiri. Ha1 itu menjadi bekal dalampengembangan sistem Stasiun Bumi untuk terus menerus menjamin\nketersediaan data Satelit Penginderaan Jauh dari berbagai satelit geierasiyang terbaru yang diperlukan berbagai sektor pembangunan.\nUntuk menjamin kontinuitas ketersediaan data dan informasi yang\ndibutuhkan berbagai pengguna, LAPAN telah mengembangkan Bank bata\nPenginderaan Jauh Nasional (BDpJN) serta sistem pemantauan Bumi\nNasional (PPBN).\nPeraturan Pemerintah ini bertujuan untuk mewujudkan efisiensi dalampembangunan dan pengembangan sistem penyelengaraan kegiatan\nPenginderaan Jauh; mendorong terwujudnya kemampuan nasional ialampenyelenggaraan kegiatan Penginderaan Jauh; mendorong terwujudnyaindustri Penginderaan Jauh untuk menghasilkan produk data aan\ninformasi standar yang dapat memenuhi kebuiuhan pengguna;\nmewujudkan kerja sama nasional dan internasional a\"U-penyelenggaraan kegiatan penginderaan Jauh; serta memberikan\nlandasan dan kepastian hukum dalam penyelenggaraan kegiatanPenginderaan Jauh.\nSecara umum Peraturan Pemerintah ini mengatur mengenai tata carapenyelenggaran kegiatan Penginderaan Jauh yang meliputi perolehan\ndata, pengolahan data, penyimpanan dan pendiltribusian data, danpemanfaatan data dan diseminasi Informasi.\nII. PASAL DEMI PASAL\nPasal 1\nCukup jelas.\nPasal 2\nCukup jelas.\nPasal 3 .\nPRES I DEN\nREPUBLIK INDONESIA\nPasal 3\nCukup jelas.\nPasal 4\nCukup jelas.\nPasal 5\nAyat (1)\nHuruf a\nYang dimaksud dengan \"data primer' adalah data mentah\ndari Satelit yang belum diolah.\nHuruf b\nCukup jelas.\nAyat (2)\nHuruf a\nYang dimaksud dengan \"resolusi rendah\" adalah memiliki\nketelitian spasial lebih tinggi dari atau sama dengan 250\n(dua ratus lima puluh) meter.\nHuruf b\nCukup jelas.\nHuruf c\nCukup jelas.\nPasal 6\nYang dimaksud dengan nmengindera\" adalah mengukur berbagai fisik\nbenda dengan cara tidak menyentuh bendanya.\nPasal 7\nAyat (1)\nYang dimaksud dengan pengoperasian Satelit yang dilaksanakan\noleh Lembaga adalah Satelit yang dimiliki oleh Pemerintah\nIndonesia.\nAyat (2)\nCukup jelas.\nPasal 8\nPRES I DEN\nREPUBLIK INDONESIA\nPasal 8\nAyat (1)\nHuruf a\nYang dimaksud dengan \"misi Satelit\" adalah kemampuan\nteknis yang dimiliki oleh Satelit untuk tujuan pemantauan\npermukaan bumi yang sesuai dengan kebutuhan Pengguna.\nHuruf b\nYang dimaksud dengan \"peta jalan (roadmapl pembangunan\nSatelit\" adalah rencana pembangunan Satelit Penginderaan\nJauh untuk memenuhi kebutuhan nasional minimal untuk\nlima tahun ke depan.\n(21\nCukup jelas.\nAyat\nAyat (3)\nCukup jelas.\nPasal 9\nCukup jelas.\nPasal 10\nHuruf a\nYang dimaksud dengan \"ketentuan internasional\" adalah\nketentuan internasional yang mengatur tentang penginderaan\njauh (remote sensing).\nHuruf b\nYang dimaksud dengan uizin penssunaan spektrum frekuensi\nradio\" adalah pengurusan izin penggunaan spektrum frekuensi\nradio berdasarkan peraturan perundang-undangan di bidang\ntelekomunikasi.\nPasal 1 1\nCukup jelas.\nPasal 12\nCukup jelas.\nPasal13...\nPRES IDEN\nREPUBLIK INDONESIA\nPasal 13\nCukup jelas.\nPasal 14\nAyat (1)\nCukup jelas.\nAyat (2)\nCukup jelas.\nAyat (3)\nHunrf a\nCukup jelas.\nHuruf b\nCukup jelas.\nHuruf c\nYang dimaksud dengan npen5rusunan peta jalan\npembangunan Stasiun Bumi\" adalah penJrusunan rencana\npembangunan Stasiun Bumi Penginderaan Jauh untuk\nmemenuhi kebutuhan nasional minimal untuk lima tahun\nke depan.\nAyat (a)\nCukup jelas.\nPasal 15\nAyat (1)\nHuruf a\nCukup jelas.\nHuruf b\nCukup jelas.\nHuruf c\nCukup jelas.\nHunrf d\nPRES I DEN\nREPUBLIK INDONESIA\nHuruf d\nYang dimaksud dengan \"instalasi sistem Stasiun Bumi\"\nadalah pemasangan dan uji coba sistem peralatan Stasiun\nBumi untuk menerima dan merekam data Satelit\nPenginderaan Jauh hingga dinyatakan siap operasional.\nAyat (2)\nHuruf a\nYang dimaksud dengan \"perencanaan akuisisi data Satelit\"\nadalah mekanisme penentuan wilayah dan waktu\npengambilan data yang harus dilaksanakan Stasiun Bumi\ndengan mengikuti prosedur pemrograman Satelit dari\noperator Satelit.\nHuruf b\nYang dimaksud dengan \"penerimaan dan perekaman data\nSatelit\" adalah proses penerimaan dan demodulasi sinyal\ndari Satelit serta ekstraksi data sampai menghasilkan data\nmentah (raut data) sesuai dengan standar yang telah\nditentukan oleh operator Satelit.\nHuruf c\nCukup jelas.\nHuruf d\nYang dimaksud dengan \"pemeliharaatt Stasiun Bumi\"\nadalah perawatan sistem peralatan Stasiun Bumi yang\ndilaksanakan secara rutin untuk menjaga kontinuitas\noperasional perolehan data.\nPasal 16\nHuruf a\nCukup jelas.\nHuruf b\nYang dimaksud dengan odata proses\" adalah adalah data siap\npakai hasil pengolahan data primer.\n-6\nPasal 17\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 17\nCukup jelas.\nPasal 18\nAyat (l)\nCukup jelas.\nAyat (2)\nYang dimaksud dengan \"biaya sewa Satelit\" adalah pembayaran\nsewa Satelit dengan ketentuan dan tata cara pembayaran serta\npenyesuaian harga yang dapat dipertanggungjawabkan.\nAyat (3)\nCukup jelas.\nPasal 19\nCukup jelas.\nPasal 20\nCukup jelas.\nPasal 21\nCukup jelas.\nPasd22\nCukup jelas.\nPasal 23\nCukup jelas.\nPasal 24\nAyat (l)\nPengadaan data penginderaan jauh resolusi tinggi oleh Lembaga\ndilakukan dengan lisensi Pemerintah Indonesia yang dapat\ndipakai untuk seluruh Kementerianll*mbaga, TNI, Polri, dan\nPemerintah Daerah.\nAyat (2)\nPRES I DEN\nREPUBLIK INDONESIA\nAyat (2)\nCukup jelas.\nAyat (3)\nHuruf a\nCukup jelas.\nHuruf b\nYang dimaksud dengan 'selektif\" adalah setelah melalui\nevaluasi oleh Lembaga terkait urgensi dan dana yang\ntersedia.\nHuruf c\nCukup jelas.\nPasal 25\nCukup jelas.\nPasal 26\nCukup jelas.\nPasal27\nAyat (1)\nCukup jelas.\nAyat (2)\nHuruf a\nCukup jelas.\nHuruf b\nCukup jelas.\nHuruf c\nfang dimaksud dengan \"kepentingan strategis lainnya\"\nadalah kepentingan pengadaan citra satelit yang\nditetapkan oleh Presiden.\nPasal28...\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 28\nCukup jelas.\nPasal 29\nAyat (1)\nYang dimaksud dengan \"kebutuhan khusus lainnya\" adalah\nkebutuhan perolehan data untuk validasi dan kalibrasi\ninformasi antara lain penelitian tentang sumber daya alam dan\nkebencanaan.\nAyar (21\nCukup Jelas.\nAyat (3)\nHuruf a\nYang dimaksud dengan usensor aktil\" adalah alat yang\nmenghasilkan sendiri energi (pancaran gelombang\nelektromagnetik) untuk mengiluminasi obyek atau daerah\nyang diamati.\nHuruf b\nYang dimaksud dengan osensor pasil\" adalah alat yang\nmendeteksi energi alamiah yang dipantulkan atau di\nemisikan obyek yang diamati (hanya mengindera emisi\nradiasi obyek yang diamati atau pantuian oleh obyek atas\nsumber yang berasal dari instrumen).\nHuruf c\nYang dimaksud dengan \"alat ukur terestrial\" adalah alat\nukur dengan sensor Penginderaan Jauh yang dioperasikan\ndi permukaan tanah.\nAyat (4)\nYang dimaksud dengan \"peraturan perundang-undangan\" adalah\nperaturan perundang-undangan bidang pertahanan/keamanan,\nbidang perhubungan udara, dan bidang lain yang terkait dengan\npengoperasian wahana lainnya.\nAyat (5)\nPRESIDEN\nREPUBLIK INOONESIA\n_ 10_\nAyat (5)\nCukup jelas.\nPasal 30\nCukup jelas.\nPasal 3l\nCukup jelas.\nPasal 32\nCukup jelas.\nPasa.l 33\nAyat (1)\nCukup jelas.\nAyat (2)\nParameter ketampakan ciri objek permukaan bumi termasuk\natmosfer antara lain elevasi, tingkat kehijauan vegetasi, suhu\npermukaan darat, suhu permukaan laut, klorofil, batimetri, titik\npanas fhot spof/, asap, deformasi gunung api, penurunan muka\ntanah (and subsidence), awan, presipitasi, suhu udara, tekanan,\nkelembaban, radiasi matahari, ozon, gas rumah kaca, aerosol,\npolusi udara, dan deposisi asam.\nPasal 34\nAyat (1)\nCukup jelas.\nAyat (2)\nLembaga dalam menetapkan metode dan kualitas pengolahan\nData setelah melalui pembahasan antar Kementerian/ Lembaga,\npergunjran tinggi, organisasi profesi dan lembaga penelitian dan\npengembangan terkait.\nAyat (3)\nCukup jelas.\nPasal 35 .\nPRES I DEN\nREPUBLIK INDONESIA\nPasal 35\nYang dimaksud dengan odata sekunder' adalah data pendukung\nselain data penginderaan jauh antara lain hasil pengukuran\nlapangan, data insitu, hasil sensus, data titik ikat (ground control\npointl, dan/atau data meteo.\nPasal 36\nCukup jelas.\nPasal 37\nCukup jelas.\nPasal 38\nAyat (1)\nHuruf a\nCukup jelas.\nHuruf b\nCukup jelas.\nHuruf c\nYang dimaksud dengan \"informasi mengenai kualitas data\"\nadalah informasi yang menyajikan keakuratan geometrik\ndan radiometriknya.\nHuruf d\nCukup jelas.\nHuruf e\nCukup jelas.\nHuruf f\nYang dimaksud dengan \"jaringan data spasial nasional\"\nadalah jaringan informasi geospasial nasional sesuai\nPeraturan Presiden Nomor 27 tah:un 2Ol4 tentang jaringan\ninformasi geospasial nasional.\nHuruf g\nYang dimaksud dengan \"fasilitas pengolahan data\" adalah\nfasilitas pengolahan data yang disediakan oleh Lembaga\nyang dapat digunakan atau diakses secara jarak jauh oleh\npengguna.\n11\nAyat (2)\nPRESIDEN\nREPUBLIK INDONESIA\n-t2-\nAyat (2)\nCukup jelas.\nAyat (3)\nCukup jelas.\nPasal 39\nCukup jelas.\nPasal 40\nCukup jelas.\nPasal 41\nCukup jelas.\nPasal 41\nCukup jelas.\nPasal 42\nCukup jelas.\nPasal 43\nYang dimaksud dengan \"menjamin keselamatan dan keamanan data\"\nadalah bahwa data penginderaan jauh harus dijaga sehingga tidak\nmengalami kerusakan atau hilang.\nPasal 44\nCukup jelas.\nPasal 45\nCukup jelas.\nPasal 46\nCukup jelas.\nPasal 47\nCukup jelas.\nPasal 48\nPRESIOEN\nREPU BLIK INDONESIA\nPasal 48\nCukup jelas.\nPasal 49\nCukup je1as.\nPasal 50\nAyat (i)\nHuruf a\nPemanfaatan Data Penginderaan Jauh guna kepentingan\ninformasi wilayah darat meliputi antara lain pertanian,\nkehutanan, perkebunan, sumber daya air, energi dan\nsumber daya mineral.\nHuruf b\nPemanfaatan Data Penginderaan Jauh guna kepentingan\ninformasi wilayah laut antara lain, identifikasi zona\npotensi penangkapan ikan.\nHuruf c\nPemanfaatan Data Penginderaan Jauh gu.na kepentingan\ninformasi wilayah pesisir dan pulau-pulau kecil antara lain\nmangrove, terumbu karang, lamun.\nHuruf d\nPemanfaatan Data Penginderaan Jauh guna kepentingan\ninformasi lingkungan dan mitigasi bencana antara lain, (i)\nidentifikasi sumber permasalahan lingkungan, seperti\ndegradasi lahan, pencemaran, dan perubahan wilayah\nperkotaan; (ii) analisis untuk mitigasi bencana, seperti\ninformasi sumber bencana, daerah risiko bencana,\nperingatan dini bencana, daerah berpotensi terancam dan\ndeteksi daerah terkena bencana.\nHuruf e\nPemanfaatan Data Penginderaan Jauh guna kepentingan\ninformasi atmosfer antara lain (i) kondisi dinamika\natmosfer, (ii) kondisi fisika atmosfer, serta (iii) kondisi\nkimia atmosfer.\nAyat l2l\nPRESIDEN\nREPUBLIK INDONESIA\n-t4-\nAyat (2)\nCukup jelas.\nAyat (3)\nCukup jelas.\nAyat (4)\nCukup jelas.\nPasal 51\nCukup jelas.\nPasal 52\nCukup jelas.\nPasal 53\nCukup jelas.\nPasal 54\nCukup jelas.\nPasal 55\nCukup jelas.\nPasal 56\nCukup jelas.\nPasai 57\nAyat (1)\nYang dimaksud dengan 'menyerahkan duplikat data\" adalah\nmenyerahkan duplikat Data Penginderaan Jauh dalam bentuk\napapun selama tidak bertentangan dengan perjanjian lisensi.\nAyat (21\nCukup jelas.\nPasal 58\nCukup jelas.\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 6196"
+   }
+  }
+ ]
+}

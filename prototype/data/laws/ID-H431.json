@@ -1,0 +1,420 @@
+{
+ "id": "ID-H431",
+ "title": {
+  "zh": "公投法",
+  "en": "Law on Referendum",
+  "id": "REFERENDUM.",
+  "orig": "REFERENDUM.",
+  "vi": "Luật về Trưng cầu Dân ý",
+  "th": "พระราชบัญญัติว่าด้วยประชามติ",
+  "ms": "Akta tentang Referendum"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02c",
+ "language": "id",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "1985",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "-",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 27,
+ "chars": 21992,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": null
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\01_宪法与基础法\\印尼_WLD_1985_REFERENDUM..txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 27 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H431-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\nYang dimaksud dalam Undang-undang ini dengan :\na. Referendum adalah kegiatan untuk meminta pendapat rakyat secara\nlangsung mengenai setuju atau tidak setuju terhadap kehendak\nMajelis Permusyawaratan Rakyat untuk mengubah Undang-Undang Dasar\n1945;\nb. Pendapat rakyat adalah pernyataan oleh Pemberi Pendapat\nRakyat;\nc. Pemberi Pendapat Rakyat adalah Warga Negara Republik Indonesia\nyang memenuhi persyaratan yang ditetapkan dalam Undang-undang\nini."
+   }
+  },
+  {
+   "id": "ID-H431-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\nReferendum diadakan apabila Majelis Permusyawaratan Rakyat\nberkehendak untuk mengubah Undang-Undang Dasar 1945 sebagaimana\ndimaksud\ndalam Ketetapan Majelis Permusyawaratan, Rakyat Republik\nIndonesia Nomor IV/ MPR/1983."
+   }
+  },
+  {
+   "id": "ID-H431-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\n(1) Referendum diselenggarakan dengan mengadakan pemungutan\npendapat rakyat secara langsung, umum, bebas, dan rahasia.\n(2) Pemungutan pendapat rakyat dilakukan dengan menggunakan surat\npendapat rakyat."
+   }
+  },
+  {
+   "id": "ID-H431-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\nSemua Warga Negara Republik Indonesia yang memenuhi persyaratan,\nsebagaimana ditetapkan dalam Undang-undang ini, mempunyai hak\nmemberikan\npendapat rakyat.\nBAB II\nDAERAH REFERENDUM, PENYELENGGARAAN/\nPELAKSANAAN, DAN ORGANISASI\nPENYELENGGARA/PELAKSANA REFERENDUM"
+   }
+  },
+  {
+   "id": "ID-H431-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\n(1) Daerah referendum adalah wilayah Negara Republik\nIndonesia.\n(2) Tempat/gedung Perwakilan Republik Indonesia di luar negeri\ntermasuk daerah referendum."
+   }
+  },
+  {
+   "id": "ID-H431-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\nReferendum diselenggarakan dalam waktu selama-lamanya 1 (satu)\ntahun terhitung sejak dimulainya pendaftaran Pemberi Pendapat\nRakyat\nsampai dengan penyampaian hasil referendum kepada Presiden\nsebagaimana diatur dalam Undang-undang ini."
+   }
+  },
+  {
+   "id": "ID-H431-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\nPemungutan pendapat rakyat dilaksanakan dalam 1 (satu) hari dan\nserentak di seluruh wilayah Negara Repubhk Indonesia."
+   }
+  },
+  {
+   "id": "ID-H431-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n(1) Pelaksanan referendum dipimpin oleh Presiden.\n(2) Presiden menunjuk atau membentuk suatu badan atau lembaga\nuntuk melaksanakan referendum, yang dipimpin oleh Menteri Dalam\nNegeri."
+   }
+  },
+  {
+   "id": "ID-H431-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n(1) Untuk melaksanakan referendum dibentuk Panitia Pelaksana\nReferendum di tingkat Propinsi, Kabupaten/Kotamadya, Kecamatan,\nKelurahan/\nDesa, dan di Perwakilan Republik Indonesia di luar\nnegeri.\n(2) Gubernur, Bupati/Walikotamadya, Camat, Lurah/Kepala Desa,\ndan Kepala Perwakilan Republik Indonesia di luar negeri karena\njabatannya\nmasing-masing menjadi Ketua Panitia Pelaksana Referendum\nsebagaimana dimaksud dalam ayat (1).\n(3) Panitia Pelaksana Referendum terdiri dari unsur\nPemerintah.\n(4) Pada Panitia Pelaksana Referendum dibentuk Panitia Pengawas\nReferendum.\n(5) Susunan, tugas, fungsi, tata kerja, dan hal-hal lain\nmengenai Panitia Pelaksana Referendum dan Panitia Pengawas\nReferendum diatur\nlebih lanjut dengan Peraturan Pemerintah.\nBAB III\nHAK MEMBERIKAN PENDAPAT RAKYAT\nDAN PENDAFTARAN PEMBERI PENDAPAT RAKYAT"
+   }
+  },
+  {
+   "id": "ID-H431-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\nSemua Warga Negara Republik Indonesia yang pada waktu\npendaftaran Pemberi Pendapat Rakyat sudah genap berumur 17 (tujuh\nbelas) tahun\natau sudah/pernah kawin adalah Pemberi Pendapat\nRakyat, yang mempunyai hak memberikan pendapat rakyat."
+   }
+  },
+  {
+   "id": "ID-H431-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\n(1) Untuk dapat menggunakan hak memberikan pendapat rakyat,\nseorang Pemberi Pendapat Rakyat harus terdaftar dalam Daftar\nPemberi Pendapat\nRakyat.\n(2) Untuk dapat didaftar dalam Daftar Pemberi Pendapat Rakyat,\nharus dipenuhi syarat-syarat sebagai berikut :\na. bukan bekas anggota organisasi terlarang Partai Komunis\nIndonesia, termasuk organisasi massanya atau bukan seseorang yang\nterlibat\nlangsung ataupun tidak langsung dalam \"G 30 S/PKI\" atau\norganisasi terlarang lainnya;\nb. nyata-nyata tidak sedang terganggu jiwa atau ingatannya;\nc. tidak sedang dicabut hak pilihnya berdasarkan putusan\npengadilan yang telah memperoleh kekuatan hukum tetap.\n(3) Seorang Pemberi Pendapat Rakyat yang setelah terdaftar dalam\nDaftar Pemberi Pendapat Rakyat ternyata tidak lagi memenuhi syarat\nsebagaimana dimaksud dalam ayat (2), tidak dapat menggunakan hak\nmemberikan pendapat rakyat.\n(4) Warga Negara Republik Indonesia bekas anggota organisasi\nterlarang Partai Komunis Indonesia, termasuk organisasi massanya\natau\nseseorang yang terlibat langsung ataupun tidak langsung dalam\n\"G 30 S/PKI\" atau organisasi terlarang lainnya, tidak didaftar\ndalam\nDaftar Pemberi Pendapat Rakyat, kecuali apabila Pemerintah\nmempertimbangkan penggunaan haknya memberikan pendapat rakyat, yang\ndiatur\ndengan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H431-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n(1) Pemberi Pendapat Rakyat didaftar oleh Panitia Pelaksana\nReferendum di tingkat Kelurahan/Desa.\n(2) Daftar Pemberi Pendapat Rakyat disusun untuk tiap\nKelurahan/Desa dan memuat nama-nama Pemberi Pendapat Rakyat yang\nbertempat tinggal\ndi Kelurahan/Desa yang bersangkutan.\n(3) Pemberi Pendapat Rakyat yang bertempat tinggal di luar\nnegeri didaftar dalam Daftar Pemberi Pendapat Rakyat di tempat\nkedudukan\nPerwakilan Republik Indonesia.\n(4) Seorang Pemberi Pendapat Rakyat hanya dapat didaftar dalam\nsatu Daftar Pemberi Pendapat Rakyat untuk Kelurahan/Desa dimana ia\nbertempat tinggal, dan jika seorang Pemberi Pendapat Rakyat\nmempunyai lebih dari satu tempat tinggal, maka yang bersangkutan\nharus\nmemilih satu di antaranya untuk ditetapkan sebagai tempat\ntinggal yang pasti untuk didaftar sebagai Pemberi Pendapat\nRakyat.\n(5) Tata cara pelaksanaan pendaftaran dan penyusunan Daftar\nPemberi Pendapat Rakyat diatur dengan Peraturan Pemerintah.\nBAB IV\nPENERANGAN REFERENDUM"
+   }
+  },
+  {
+   "id": "ID-H431-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\n(1) Sebelum dilakukan pemungutan pendapat rakyat, kepada seluruh\nrakyat diberikan penerangan seluas-luasnya mengenai penyelenggaraan\nreferendum.\n(2) Segala sesuatu mengenai penyelenggaraan penerangan\nreferendum diatur dengan Peraturan Pemerintah.\nBAB V\nPEMUNGUTAN DAN\nPENGHITUNGAN PENDAPAT RAKYAT"
+   }
+  },
+  {
+   "id": "ID-H431-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\n(1) Tiap wilayah Kecamatan yang menjadi wilayah kerja Panitia\nPelaksana Referendum di tingkat Kecamatan, merupakan daerah\npemungutan\npendapat rakyat.\n(2) Pemungutan pendapat rakyat dalam daerah pemungutan pendapat\nrakyat dilakukan di tempat pemungutan pendapat rakyat yang jumlah\ndan letaknya ditentukan oleh Panitia Pelaksana Referendum di\ntingkat Kecamatan dengan memperhatikan tempat tinggal Pemberi\nPendapat\nRakyat yang telah terdaftar dalam Daftar Pemberi Pendapat\nRakyat sehingga pemungutan pendapat rakyat dapat dilaksanakan\nsecara mudah\ndan lancar.\n(3) Pemungutan pendapat rakyat di luar negeri diadakan di\ntempat/gedung Perwakilan Republik Indonesia dan dilakukan pada\ntanggal yang\nsama sesuai dengan pemungutan pendapat rakyat di dalam\nnegeri.\n(4) Tempat pemungutan pendapat rakyat diatur sedemikian rupa\nsehingga bagi Pemberi Pendapat Rakyat ada jaminan untuk dapat\nmenggunakan\nhak memberikan pendapat rakyat secara bebas dan\nrahasia.\n(5) Untuk pemungutan pendapat rakyat digunakan surat pendapat\nrakyat sebagaimana dimaksud dalam Pasal 3 ayat (2), yang bentuk,\nisi,\ndan hal-hal lain mengenai surat pendapat rakyat diatur dengan\nPeraturan Pemerintah.\n(6) Dalam pemungutan pendapat rakyat, Pemberi Pendapat Rakyat\nmembubuhkan tanda pada surat pendapat rakyat untuk menyatakan\nsetuju\natau tidak setuju terhadap kehendak Majelis Pennusyawaratan\nRakyat untuk mengubah Undang-Undang Dasar 1945."
+   }
+  },
+  {
+   "id": "ID-H431-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\nPelaksanaan pemungutan pendapat rakyat di tempat pemungutan\npendapat rakyat diawasi oleh saksi-saksi."
+   }
+  },
+  {
+   "id": "ID-H431-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\n(1) Segera setelah pemungutan pendapat rakyat berakhir, di\ntempat pemungutan pendapat rakyat diadakan penghitungan pendapat\nrakyat.\n(2) Pemberi Pendapat Rakyat boleh hadir untuk mengikuti\npelaksanaan penghitungan pendapat rakyat.\n(3) Hasil penghitungan pendapat rakyat sebagaimana dimaksud\ndalam ayat (1) disampaikan kepada badan atau lembaga sebagaimana\ndimaksud\ndalam Pasal 8 ayat (2) melalui jenjang Panitia Pelaksana\nReferendum, setelah diadakan penjumlahan hasil penghitungan\npendapat rakyat\noleh Panitia Pelaksana Referendum di tiap tingkat\nwilayah kerjanya masing-masing.\n(4) Hasil penghitungan pendapat rakyat sebagaimana dimaksud\ndalam ayat (3) dijumlah untuk seluruh daerah referendum, terperinci\nmenurut\nwilayah kerja Panitia Pelaksana Referendum di tingkat\nPropinsi, Kabupaten/Kotamadya, dan di Perwakilan Republik Indonesia\ndi luar\nnegeri.\n(5) Tata cara serta hal-hal lain mengenai pemungutan dan\npenghitungan pendapat rakyat diatur dengan Peraturan\nPemerintah.\nBAB VI\nPENETAPAN HASIL REFERENDUM DAN LAPORAN\nKEPADA MAJELIS PERMUSYAWARATAN RAKYAT"
+   }
+  },
+  {
+   "id": "ID-H431-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\n(1) Hasil penghitungan pendapat rakyat sebagaimana dimaksud\ndalam Pasal 16, ayat (4) ditetapkan sebagai hasil referendum.\n(2) Hasil referendum sebagaimana dimaksud dalam ayat (1) oleh\nMenteri Dalam Negeri selaku pimpinan badan atau lembaga sebagaimana\ndimaksud dalam Pasal 8 ayat (2) disampaikan kepada Presiden selaku\npimpinan pelaksanaan referendum.\n(3) Tata cara penetapan hasil referendum diatur dengan Peraturan\nPemerintah."
+   }
+  },
+  {
+   "id": "ID-H431-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\nRakyat dinyatakan menyetujui kehendak Majelis Permusyawaratan\nRakyat untuk mengubah Undang-Undang Dasar 1945, apabila hasil\nreferendum\nsebagaimana dimaksud dalam Pasal 17 menunjukkan bahwa\n:\na. sekurang-kurangnya 90% (sembilan puluh persen) dari jumlah\nPemberi Pendapat Rakyat yang terdaftar telah menggunakan haknya\nmemberikan\npendapat rakyat, dan\nb. sekurang-kurangnya 90% (sembilan puluh persen) dari Pemberi\nPendapat Rakyat yang menggunakan haknya tersebut menyatakan setuju\nterhadap kehendak Majelis Permusyawaratan Rakyat untuk mengubah\nUndang-Undang Dasar 1945."
+   }
+  },
+  {
+   "id": "ID-H431-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\nPresiden melaporkan hasil referendum sebagaimana dimaksud dalam\nPasal 17 dan Pasal 18 kepada Majelis Permusyawaratan Rakyat.\nBAB VII\nKETENTUAN PIDANA"
+   }
+  },
+  {
+   "id": "ID-H431-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\n(1) Barang siapa dengan sengaja memberikan keterangan yang tidak\nbenar mengenai diri sendiri atau diri orang lain tentang suatu hal\nyang diperlukan untuk pengisian Daftar Pemberi Pendapat Rakyat,\ndipidana dengan pidana penjara selama-lamanya satu tahun.\n(2) Barang siapa meniru atau memalsu suatu surat, yang menurut\nsuatu aturan dalam Undang-undang ini diperlukan untuk menjalankan\nsuatu\nperbuatan dalam penyelenggaraan referendum, dengan maksud\nuntuk dipergunakan sendiri atau oleh orang lain sebagai surat sah\ndan tidak\ndipalsukan, dipidana dengan pidana penjara selama-lamanya\nlima tahun.\n(3) Barang siapa dengan sengaja dengan mengetahui bahwa suatu\nsurat sebagaimana dimaksud dalam ayat (2) adalah tidak sah atau\ndipalsukan,\nmempergunakannya atau menyuruh orang lain\nmempergunakannya sebagai surat yang sah dan tidak dipalsukan,\ndipidana dengan pidana penjara\nselama-lamanya lima tahun.\n(4) Barang siapa pada waktu diselenggarakan referendum menurut\nUndang-undang ini dengan pemberian atau janji menyuap seseorang,\nbaik\nsupaya orang itu tidak menjalankan haknya untuk memberikan\npendapat rakyat maupun supaya ia menjalankan haknya dengan cara\ntertentu,\ndipidana dengan pidana penjara selama-lamanya tiga tahun.\nPidana itu dikenakan juga kepada Pemberi Pendapat Rakyat yang\nkarena menerima\nsuap berupa pemberian atau janji berbuat\nsesuatu.\n(5) Barang siapa pada waktu diselenggarakan referendum menurut\nUndang-undang ini melakukan suatu perbuatan tipu muslimat yang\nmenyebabkan\npendapat rakyat seorang Pemberi Pendapat Rakyat menjadi\ntidak berharga, dipidana dengan pidana penjara selama-lamanya tiga\ntahun.\n(6) Barang siapa dengan sengaja menggunakan hak memberikan\npendapat rakyat menurut Undang-undang ini dengan mengaku dirinya\nsebagai\norang lain, dipidana dengan pidana penjara selama-lamanya\nlima tahun.\n(7) Barang siapa menggunakan hak memberikan pendapat rakyat\nlebih dari pada yang ditetapkan menurut Undang-undang ini, dipidana\ndengan\npidana penjara selama-lamanya lima tahun.\n(8) Barang siapa dengan sengaja mengacaukan, menghalang-halangi,\natau mengganggu penyelenggaraan referendum menurut Undang-undang\nini, dipidana dengan pidana penjara selama-lamanya lima tahun.\n(9) Barang siapa pada waktu dilaksanakan pemungutan pendapat\nrakyat menurut Undang-undang ini dengan sengaja dan dengan\nkekerasan\natau dengan ancaman kekerasan, menghalang-halangi\nseseorang akan menggunakan haknya dengan bebas dan rahasia serta\ntidak terganggu,\ndipidana dengan pidana penjara selama-lamanya lima\ntahun.\n(10) Barang siapa pada waktu diselenggarakan referendum menurut\nUndang-undang ini dengan sengaja menggagalkan pemungutan pendapat\nrakyat yang telah dilakukan, atau melakukan suatu perbuatan tipu\nmuslihat, yang menyebabkan hasil pemungutan pendapat rakyat itu\nmenjadi lain daripada yang harus dinyatakan sah, dipidana dengan\npidana penjara selama-lamanya lima tahun.\n(11) Dalam menjatuhkan pidana atas perbuatan-perbuatan\nsebagaimana dimaksud dalam ayat (2) dan ayat (3), surat-surat yang\ndipergunakan\ndalam tindak pidana itu, beserta benda-benda dan\nbarang-barang yang menurut sifatnya diperuntukkan guna meniru atau\nmemalsu surat-surat\nitu, dirampas dan dimusnahkan, juga kalau\nsurat-surat, benda-benda atau barang-barang itu bukan kepunyaan\nterpidana."
+   }
+  },
+  {
+   "id": "ID-H431-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\n(1) Seorang majikan yang tidak memberikan kesempatan kepada\nseorang pekerjanya untuk menggunakan hak memberikan pendapat rakyat\ntanpa\nalasan bahwa pekerjaan daripada pekerja itu tidak\nmemungkinkan, dipidana dengan pidana kurungan selama-lamanya tiga\nbulan.\n(2) Seorang penyelenggara referendum yang melalaikan\nkewajibannya, dipidana dengan pidana kurungan selama-lamanya tiga\nbulan atau\npidana denda setinggi-tingginya lima belas ribu\nrupiah."
+   }
+  },
+  {
+   "id": "ID-H431-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\n(1) Tindak pidana sebagaimana dimaksud dalam Pasal 20 adalah\nkejahatan.\n(2) Tindak pidana sebagaimana dimaksud dalam pasal 21 adalah\npelanggaran.\nBAB VIII\nKETENTUAN LAIN-LAIN"
+   }
+  },
+  {
+   "id": "ID-H431-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\nApabila di suatu tempat di dalam daerah referendum, sesudah\ndiadakan penelitian dan pemeriksaan ternyata terdapat kekeliruan,\nkesalahan,\natau hal-hal lain dalam pemungutan pendapat rakyat yang\nmengakibatkan tidak dapat dilakukan penghitungan pendapat rakyat,\nmaka Panitia\nPelaksana Referendum di tingkat Propinsi,\nKabupaten/Kotamadya yang bersangkutan dengan dikuatkan oleh\ninstansi Pemerintah setempat,\ndan di Perwakilan Republik Indonesia\ndi luar negeri, dapat mengadakan pemungutan pendapat rakyat ulangan\ndi tempat yang bersangkutan\ndengan mengingat ketentuan batas waktu\nsebagaimana dimaksud dalam Pasal 6."
+   }
+  },
+  {
+   "id": "ID-H431-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 24\nApabila di suatu tempat di dalam daerah referendum tidak dapat\ndiselenggarakan referendum atau penyelenggaraannya terhenti\ndisebabkan\noleh keadaan yang memaksa, maka sesudah keadaan\nmemungkinkan, segera diadakan referendum ulangan atau referendum\nsusulan di tempat\nyang bersangkutan dengan mengingat ketentuan\nbatas waktu sebagaimana dimaksud dalam Pasal 6.\nBAB IX\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H431-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\nPelaksanaan Undang-undang ini diatur dengan Peraturan\nPemerintah."
+   }
+  },
+  {
+   "id": "ID-H431-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\nUndang-undang ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nUndang-undang ini dengan penempatannya dalam Lembaran Negara\nRepublik\nIndonesia.\nDisahkan di Jakarta\npada tanggal 18 Maret 1985\nPRESIDEN REPUBLIK INDONESIA\nSOEHARTO\nDiundangkan di Jakarta\npada tanggal 18 Maret 1985\nMENTERI/SEKRETARIS NEGARA\nREPUBLIK INDONESIA\nSUDHARMONO, S.H.\nPENJELASAN\nATAS\nUNDANG-UNDANG REPUBLIK INDONESIA\nNOMOR 5 TAHUN 1985\nTENTANG\nREFERENDUM\nUMUM\nUndang-Undang Dasar 1945, yang dalam Pembukaan memuat Pancasila\nsebagai Pandangan Hidup Bangsa, Dasar Negara, dan Ideologi\nNasional,\nharus dipertahankan dan dilaksanakan secara murni dan\nkonsekuen.\nKenyataan sejarah telah membuktikan bahwa Undang-Undang Dasar\n1945, yang memiliki dan memberikan landasan idiil yang luhur,\nlandasan\nstruktural yang kokoh yang menjamin stabilitas\npemerintahan, serta memiliki dan memberikan landasan operasional\nyang memberikan pengarahan\nyang dinamis dalam berbagai bidang\nkehidupan, mampu menghadapi tantangan dan memenuhi kebutuhan bangsa\nIndonesia.\nSehubungan dengan itu bangsa Indonesia telah menetapkan sikap dan\ntekad mempertahankan dan melestarikan Pancasila dan Undang-Undang\nDasar 1945.\nUndang-Undang Dasar 1945 sendiri memungkinkan diadakan perubahan\nsebagaimana dimaksud dalam Pasal 37. Mengubah Undang-Undang Dasar\n1945 merupakan masalah yang mendasar dan menyangkut kehidupan\nnegara dan bangsa Indonesia. Walaupun Majelis Permusyawaratan\nRakyat\nmempunyai hak melaksanakan sepenuhnya kedaulatan rakyat,\nnamun perlu dicarikan sarana yang konstitusional agar Pasal 37\nUndang-Undang\nDasar 1945 tidak mudah digunakan dan rakyat harus\ndijamin haknya untuk menyatakan pendapat mengenai soal kenegaraan\nyang sifatnya\nmendasar tersebut, yaitu melalui referendum.\nBerhubung dengan hal-hal tersebut di atas apabila Majelis\nPermusyawaratan Rakyat berkehendak untuk mengubah Undang-Undang\nDasar\n1945 dengan memenuhi ketentuan sebagaimana yang dimaksud\ndalam Ketetapan Majelis Permusyawaratan Rakyat Republik Indonesia\nNomor\nI/MPR/1983 dan Nomor IV/MPR/ 1983, maka hal itu harus\nditanyakan terlebih dahulu kepada rakyat melalui referendum yang\ndiatur dalam\nUndang-undang ini.\nReferendum bertujuan untuk menanyakan kepada rakyat secara\nlangsung mengenai setuju atau tidak setuju terhadap kehendak\nMajelis\nPermusyawaratan Rakyat untuk mengubah Undang-Undang Dasar\n1945. Referendum diselenggarakan secara langsung, umum, bebas, dan\nrahasia,\ndidahului dengan penerangan yang seluas-luasnya menyangkut\nmaksud dan tujuan diadakan referendum serta hal-hal teknis\npelaksanaannya.\nYang dimaksud dengan :\na Langsung :\nWarga Negara Republik Indonesia yang mempunyai hak memberikan\npendapat rakyat dapat menggunakan haknya secara langsung tanpa\nmelalui\npihak lain dan tanpa perantara maupun tingkatan.\nb. Umum:\nWarga Negara Republik Indonesia yang pada waktu diadakan\nreferendum telah berusia 17 (tujuh belas) tahun atau sudah/pernah\nkawin\nberhak memberikan pendapat rakyat.\nc. Bebas :\nWarga Negara Republik Indonesia dalam menggunakan hak memberikan\npendapat rakyat dijamin keamanannya untuk tidak mendapat tekanan,\npaksaan, gangguan, atau pengaruh dari siapapun dan dengan cara\napapun juga.\nd. Rahasia:\nUntuk dapat menggunakan hak memberikan pendapat rakyat secara\nbebas, setiap Warga Negara Republik Indonesia dijamin menggunakan\nhaknya secara rahasia dalam arti tidak akan diketahui oleh siapapun\ndan dengan cara bagaimanapun mengenai isi pendapat rakyat yang\ndiberikannya sesuai dengan hati nuraninya.\nAnggota Angkatan Bersenjata Republik Indonesia (ABRI) sebagai\nwarga negara, dalam referendum mempunyai hak memberikan pendapat\nrakyat.\nHak memberikan pendapat rakyat bagi Pemberi Pendapat Rakyat\nanggota ABRI digunakan sebagaimana mestinya seperti halnya dengan\nWarga\nnegara Republik Indonesia yang mempunyai hak memberikan\npendapat rakyat. Dengan demikian anggota ABRI didaftar dalam Daftar\nPemberi\nPendapat Rakyat yang diperlukan dalam penyelenggaraan\npemungutan pendapat rakyat.\nWarga Negara Republik Indonesia bekas anggota organisasi terlarang\nPartai Komunis Indonesia, termasuk organisasi massanya, atau\nyang\nterlibat langsung ataupun tidak langsung dalam \"G 30 S/PKI\" atau\norganisasi terlarang lainnya tidak dapat menggunakan haknya\nmemberikan pendapat rakyat dalam referendum, dan mereka tidak\ndidaftar dalam Daftar Pemberi Pendapat Rakyat, kecuali apabila\nPemerintah\nmelalui penelitian dan penilaian secara perorangan,\nselektif, dan cermat telah mempertimbangkan penggunaan haknya\nmemberikan pendapat\nrakyat dalam referendum, yang tata caranya\ndiatur lebih lanjut dengan Peraturan Pemerintah.\nYang dimaksud dengan \"terlibat langsung\" dalam \"G 30 S/PKI\"\nialah:\na. mereka yang merencanakan, turut merencanakan atau mengetahui\nadanya perencanaan \"G 30 S/PKI\", tetapi tidak melaporkan kepada\nyang berwajib;\nb. mereka yang dengan kesadaran akan tujuannya, melakukan\nkegiatan-kegiatan dalam melaksanakan \"G 30 S/PKI\".\nYang dimaksud dengan \"terlibat tidak langsung\" dalam \"G 30 S/PKI\"\nialah :\na. mereka yang menunjukkan sikap, baik dalam perbuatan ataupun\ndalam ucapan yang bersifat menyetujui \"G 30 S/PKI\";\nb. mereka yang secara sadar menunjukkan sikap, baik dalam\nperbuatan ataupun ucapan, yang menentang usaha penumpasan \"G 30\nS/PKI\".\nYang dimaksud dengan \"organisasi terlarang\" ialah organisasi yang\ntegas-tegas dinyatakan terlarang dengan peraturan\nperundang-undangan.\nKetentuan-ketentuan tersebut di atas tidak\nberlaku bagi mereka yang telah mendapat amnesti, abolisi atau grasi\nberdasarkan peraturan\nperundang-undangan yang berlaku.\nPASAL DEMI PASAL\nPasal 1\nCukup jelas.\nPasal 2\nCukup jelas.\nPasal 3\nCukup jelas.\nPasal 4\nPengertian Warga Negara Republik Indonesia meliputi pula anggota\nAngkatan Bersenjata Republik Indonesia (ABRI).\nPasal 5\nCukup jelas.\nPasal 6\nCukup jelas.\nPasal 7\nCukup jelas.\nPasal 8\nCukup jelas.\nPasal 9\nDalam penyelenggaraan referendum, untuk tiap tingkat daerah,\nditetapkan nama dan susunan organisasi Panitia Pelaksana Referendum\ndan Panitia Pengawas Referendum masing-masing, yang disesuaikan\ndengan fungsi dan tugas panitia untuk tiap tingkat daerah yang\nbersangkutan.\nDalam penyelenggaraan referendum fungsi dan tugas\npokok Panitia Pelaksana Referendum adalah menyelenggarakan\npemungutan pendapat\nrakyat dan penghitungan pendapat rakyat di\ntempat pemungutan pendapat rakyat, yang sesuai dengan ketentuan\nPasal 14 menjadi tugas\nPanitia Pelaksana Referendum di tingkat\nKecamatan dan di Perwakilan Republik Indonesia di luar negeri.\nFungsi dan tugas pokok Panitia Pelaksana Referendum di tingkat\nPropinsi dan Kabupaten/Kotamadya adalah memimpin dan mengawasi,\nsedangkan\nPanitia Pelaksana Referendum di tingkat Kelurahan/Desa\nadalah membantu Panitia Pelaksana Referendum di tingkat Kecamatan,\nkhususnya\ndalam penyusunan Daftar Pemberi Pendapat Rakyat. Sesuai\ndengan fungsi dan tugas Panitia Pelaksana Referendum tersebut, maka\nPanitia\nPengawas Referendum secara fungsional dan organik termasuk\ndalam Panitia Pelaksana Referendum, dan hanya ada di tingkat\nPropinsi,\nKabupaten/Kotamadya, dan Kecamatan.\nPasal 10\nCukup jelas.\nPasal 11\nCukup jelas.\nPasal 12\nCukup jelas.\nPasal 13\nCukup jelas.\nPasal 14\nCukup jelas.\nPasal 15\nCukup jelas.\nPasal 16\nCukup jelas.\nPasal 17\nCukup jelas.\nPasal 18\nCukup jelas.\nPasal 19\nLaporan Presiden sebagaimana dimaksud dalam pasal ini disampaikan\nkepada Majelis Permusyawaratan Rakyat dalam Sidang Istimewa yang\nkhusus diadakan untuk itu.\nPasal 20\nCukup jelas.\nPasal 21\nCukup jelas.\nPasal 22\nCukup jelas.\nPasal 23\nCukup jelas.\nPasal 24\nCukup jelas.\nPasal 25\nCukup jelas.\nPasal 26\nCukup jelas."
+   }
+  },
+  {
+   "id": "ID-H431-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\n--------------------------------\nCATATAN\nKutipan: LEMBARAN NEGARA DAN TAMBAHAN LEMBARAN NEGARA TAHUN 1985\nYANG TELAH DICETAK ULANG"
+   }
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "id": "PH-H20653",
+ "title": {
+  "zh": null,
+  "en": "MALAGAÑAN PALACE BY THE PRESIDENT OF THE PHILIPPINES",
+  "orig": "MALAGAÑAN PALACE BY THE PRESIDENT OF THE PHILIPPINES"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p158",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Executive Order No. 614",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 486,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/07_行政命令_EO/EO_00614_1953.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 EO_00614_1953.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H20653-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Sec 2"
+   },
+   "text": {
+    "en": "The ceiling prices fixed in this Order include\nthe 17 per cent special excise tax on foreign exchange,\nthe 7 per cent sales tax and 1 per cent municipal tax."
+   }
+  },
+  {
+   "id": "PH-H20653-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Sec 3"
+   },
+   "text": {
+    "en": "This Order shall take effect three days after\nthe date hereof..\nDone in the City of Manila, this 12th day of Sep-\ntember, in the year of Our Lord, nineteen hundred and\nfifty-three, and of the Independence of the Philippines,\nELPIDIO QUIrINO\nPresident of the Philippines\nBy the President:\nMARCIANO ROQUE\nActing Executive Secretary"
+   }
+  }
+ ]
+}

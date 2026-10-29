@@ -1,0 +1,84 @@
+{
+ "id": "ID-H182",
+ "title": {
+  "zh": "1960年第8号法",
+  "en": "Law No. 8 of 1960 Law",
+  "id": "Undang-Undang Nomor 8 Tahun 1960",
+  "orig": "Undang-Undang Nomor 8 Tahun 1960",
+  "vi": "Luật Luật số 8 năm 1960",
+  "th": "พระราชบัญญัติ พระราชบัญญัติ ฉบับที่ 8 พ.ศ. 2503",
+  "ms": "Akta Akta Bilangan 8 1960"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02c",
+ "language": "id",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "1960",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU8-1960",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 3,
+ "chars": 838,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": null
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\01_宪法与基础法\\印尼_WLD_1960_Undang-Undang Nomor 8 Tahun 1960.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 3 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H182-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {},
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 1.\nAntara Republik Indonesia dan Kerajaan Kamboja dibuat Perjanjian\nPersahabatan yang telah ditanda-tangani pada tanggal 13 Pebruari\n1959 yang berbunyi sebagai terlampir dan yang pengesahannya\ndilakukan oleh Presiden.\nDisetujui D.P.R.G.R. dalam rapat pleno terbuka ke-10 pada hari\nKamis tanggal 29 September 1960/P. 10/1960."
+   }
+  },
+  {
+   "id": "ID-H182-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {},
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 2.\nPerjanjian tersebut diatas mulai berlaku pada tanggal pertukaran\npiagam pengesahan di Phnon-Penh."
+   }
+  },
+  {
+   "id": "ID-H182-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {},
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 3.\nUndang-undang ini mulai berlaku pada tanggal diundangkan.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan\npengundangan Undang-undang ini dengan penempatan dalam\nLembaran-Negara\nRepublik Indonesia.\nDisahkan di Jakarta\npada tanggal 15 Oktober 1960.\nPejabat Presiden Republik Indonesia,\nDJUANDA.\nDiundangkan di Jakarta\npada tanggal 15 Oktober 1960.\nPejabat Sekretaris Negara,\nSANTOSO."
+   }
+  }
+ ]
+}

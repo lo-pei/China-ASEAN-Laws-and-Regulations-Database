@@ -1,0 +1,72 @@
+{
+ "id": "PH-H20355",
+ "title": {
+  "zh": null,
+  "en": "Imposing an Additional 10% Sales Tax on Imported Airconditioning Units, Components and Parts",
+  "orig": "Imposing an Additional 10% Sales Tax on Imported Airconditioning Units, Components and Parts"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p158",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1978-07-14",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Executive Order No. 507",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1105,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/07_行政命令_EO/EO_00507_1978_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 EO_00507_1978_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H20355-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Sec 1"
+   },
+   "text": {
+    "en": "There shall be levied, assessed and collected an additional ten (10%) per cent sales tax on imported\nairconditioning units, components and parts, which shall be in addition to the twenty-five (25%) per cent sales\ntax imposed under Section 196 and Section 193(b) of the National Internal Revenue Code, as amended, and\nshall be collected at the same time and in the same manner."
+   }
+  },
+  {
+   "id": "PH-H20355-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Sec 2"
+   },
+   "text": {
+    "en": "For purposes of the additional ten (10%) per cent sales tax herein imposed, all airconditioning units\nwhich have not been certified by the Board of Investments as \"locally manufactured\" shall be deemed to be\nimported. All imported airconditioning components and parts other than those which are of common and\ngeneral use and those which are specifically authorized to be imported under the local content or\nrationalization program of the Board of Investments for the airconditioning industry, shall likewise be subject\nto the additional ten (10%) per cent sales tax."
+   }
+  },
+  {
+   "id": "PH-H20355-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Sec 3"
+   },
+   "text": {
+    "en": "This Executive Order shall take effect immediately.\nDone in the City of Manila, this 14th day of July, in the year of Our Lord, Nineteen Hundred and\nSeventy-Eight."
+   }
+  }
+ ]
+}

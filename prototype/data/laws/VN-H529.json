@@ -1,0 +1,823 @@
+{
+ "id": "VN-H529",
+ "title": {
+  "zh": null,
+  "en": null,
+  "vi": "Luật Tần số vô tuyến điện số 42/2009/QH12",
+  "orig": "Luật Tần số vô tuyến điện số 42/2009/QH12"
+ },
+ "country": "VN",
+ "countryName": "越南",
+ "layer": "intl",
+ "pack": "vn-p06",
+ "language": "vi",
+ "level": "law",
+ "category": "05_其他及未分类",
+ "status": "active",
+ "promulgatedDate": "2009",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "国会",
+ "docNumber": "42/2009/QH12",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 49,
+ "chars": 54691,
+ "source": {
+  "name": "越南法律数据库（vbpl.vn 官方公报文本）",
+  "url": "https://vbpl.vn/van-ban/chi-tiet/luat-tan-so-vo-tuyen-dien-so-42-2009-qh12--23856"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\VN\\05_其他及未分类\\2009_42 2009 QH12_Luật Tần số vô tuyến điện số 42 2009 QH12.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 49 条；逐字未改写（源自 VN）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "VN-H529-A1",
+   "no": 1,
+   "noLabel": {
+    "vi": "Điều 1"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Phạm vi điều chỉnh"
+   },
+   "text": {
+    "vi": "Điều 1. Phạm vi điều chỉnh\n\nLuật này quy định về quản lý, sử dụng tần số vô tuyến điện, thiết bị vô tuyến điện, quỹ đạo vệ tinh và quản lý an toàn bức xạ vô tuyến điện, tương thích điện từ (sau đây gọi chung là quản lý, sử dụng tần số vô tuyến điện), quyền và nghĩa vụ của tổ chức, cá nhân tham gia quản lý, sử dụng tần số vô tuyến điện."
+   }
+  },
+  {
+   "id": "VN-H529-A2",
+   "no": 2,
+   "noLabel": {
+    "vi": "Điều 2"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Đối tượng áp dụng"
+   },
+   "text": {
+    "vi": "Điều 2. Đối tượng áp dụng\n\nLuật này áp dụng đối với tổ chức, cá nhân tham gia quản lý, sử dụng tần số vô tuyến điện tại Việt Nam."
+   }
+  },
+  {
+   "id": "VN-H529-A3",
+   "no": 3,
+   "noLabel": {
+    "vi": "Điều 3"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Giải thích từ ngữ"
+   },
+   "text": {
+    "vi": "Điều 3. Giải thích từ ngữ\n\nTrong Luật này, các từ ngữ dưới đây được hiểu như sau:\n\n1. Tần số vô tuyến điện là tần số của sóng vô tuyến điện. Sóng vô tuyến điện là sóng điện từ có tần số thấp hơn 3000 gigahéc (GHz) truyền lan tự do trong không gian, không có dẫn sóng nhân tạo.\n\n2. Phổ tần số vô tuyến điện là toàn bộ dải tần số vô tuyến điện.\n\n3. Băng tần số vô tuyến điện (sau đây gọi là băng tần) là một dải tần số vô tuyến điện được giới hạn bằng hai tần số xác định.\n\n4. Kênh tần số vô tuyến điện (sau đây gọi là kênh tần số) là một dải tần số vô tuyến điện được xác định bằng độ rộng và tần số trung tâm của kênh hoặc các thông số đặc trưng khác.\n\n5. Thông tin vô tuyến điện là sự truyền dẫn, phát hoặc thu ký hiệu, tín hiệu, số liệu, chữ viết, hình ảnh, âm thanh hoặc dạng thông tin khác bằng sóng vô tuyến điện.\n\n6. Nghiệp vụ vô tuyến điện là việc truyền dẫn, phát hoặc thu sóng vô tuyến điện cho một mục đích thông tin vô tuyến điện cụ thể, bao gồm nghiệp vụ vô tuyến điện cố định, di động, phát thanh, truyền hình, hàng không, hàng hải, dẫn đường định vị, vệ tinh, phát chuẩn, nghiệp dư và nghiệp vụ vô tuyến điện khác. Nghiệp vụ vô tuyến điện được phân loại thành nghiệp vụ chính và nghiệp vụ phụ. Nghiệp vụ chính là nghiệp vụ vô tuyến điện được quy định ưu tiên sử dụng trong Quy hoạch phổ tần số vô tuyến điện quốc gia. Nghiệp vụ phụ là nghiệp vụ vô tuyến điện không được quy định ưu tiên sử dụng trong Quy hoạch phổ tần số vô tuyến điện quốc gia.\n\n7. Đài vô tuyến điện là một hoặc tổ hợp thiết bị vô tuyến điện, bao gồm cả thiết bị phụ trợ kèm theo được triển khai để thực hiện nghiệp vụ vô tuyến điện. Đài vô tuyến điện được phân loại theo nghiệp vụ mà đài vô tuyến điện đó hoạt động thường xuyên hoặc tạm thời.\n\n8. Bức xạ vô tuyến điện là năng lượng sinh ra ở dạng sóng vô tuyến điện từ một nguồn bất kỳ.\n\n9. Phát xạ vô tuyến điện là bức xạ của một đài phát vô tuyến điện.\n\n10. Thiết bị vô tuyến điện là thiết bị thu, phát hoặc thu - phát các ký hiệu, tín hiệu, số liệu, chữ viết, hình ảnh, âm thanh hoặc dạng thông tin khác bằng sóng vô tuyến điện.\n\n11. Thiết bị ứng dụng sóng vô tuyến điện là thiết bị tạo ra và sử dụng năng lượng sóng vô tuyến điện cục bộ phục vụ các ứng dụng trong công nghiệp, khoa học, y tế, gia dụng hoặc mục đích tương tự, trừ thiết bị vô tuyến điện.\n\n12. Quỹ đạo vệ tinh là đường chuyển động của vệ tinh trong không gian.\n\n13. Nhiễu có hại là ảnh hưởng có hại của năng lượng điện từ do việc phát xạ bức xạ hoặc cảm ứng gây mất an toàn hoặc cản trở, làm gián đoạn hoạt động của thiết bị, hệ thống thiết bị vô tuyến điện đang khai thác hợp pháp.\n\n14. Tương thích điện từ là khả năng thiết bị, hệ thống thiết bị vô tuyến điện, điện, điện tử hoạt động bình thường trong môi trường điện từ và không gây nhiễu đến thiết bị, hệ thống thiết bị khác.\n\n15. Phân bổ tần số vô tuyến điện là việc dành băng tần, kênh tần số xác định cho một hoặc nhiều tổ chức, cá nhân sử dụng theo những điều kiện cụ thể đối với một loại nghiệp vụ vô tuyến điện.\n\n16. Ấn định tần số vô tuyến điện là việc xác định để cho phép tổ chức, cá nhân sử dụng tần số vô tuyến điện hoặc kênh tần số theo những điều kiện cụ thể đối với một đài vô tuyến điện.\n\n17. Kiểm tra tần số vô tuyến điện là việc xem xét thực tế tình hình sử dụng tần số vô tuyến điện, thiết bị vô tuyến điện, giấy phép sử dụng tần số vô tuyến điện, Chứng chỉ vô tuyến điện viên, đo tham số kỹ thuật của đài vô tuyến điện, xác định nguyên nhân gây nhiễu có hại để đánh giá, nhận xét việc chấp hành quy định của pháp luật về tần số vô tuyến điện.\n\n18. Kiểm soát tần số vô tuyến điện là việc theo dõi và giám sát bằng phương tiện kỹ thuật hoạt động phát sóng vô tuyến điện."
+   }
+  },
+  {
+   "id": "VN-H529-A4",
+   "no": 4,
+   "noLabel": {
+    "vi": "Điều 4"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Chính sách của Nhà nước về tần số vô tuyến điện"
+   },
+   "text": {
+    "vi": "Điều 4. Chính sách của Nhà nước về tần số vô tuyến điện\n\n1. Ưu tiên phát triển nguồn nhân lực, cơ sơ vật chất - kỹ thuật để bảo đảm quản lý sử dụng hiệu quả tần số vô tuyến điện.\n\n2. Tăng cường hợp tác quốc tế về tần số vô tuyến điện để bảo vệ lợi ích của Nhà nước, chủ quyền quốc gia về tần số vô tuyến điện và quỹ đạo vệ tinh.\n\n3. Ưu tiên sử dụng tần số vô tuyến điện ở vùng sâu, vùng xa, biên giới, hải đảo, vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn và phục vụ quốc phòng, an ninh, phòng chống thiên tai, dịch bệnh.\n\n4. Ưu tiên, khuyến khích việc nghiên cứu, phát triển và ứng dụng công nghệ sử dụng hiệu quả phổ tần số vô tuyến điện.\n\n5. Khuyến khích, hỗ trợ các tổ chức tham gia đăng ký vị trí quỹ đạo vệ tinh."
+   }
+  },
+  {
+   "id": "VN-H529-A5",
+   "no": 5,
+   "noLabel": {
+    "vi": "Điều 5"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Trách nhiệm quản lý nhà nước về tần số vô tuyến điện"
+   },
+   "text": {
+    "vi": "Điều 5. Trách nhiệm quản lý nhà nước về tần số vô tuyến điện\n\n1. Chính phủ thống nhất quản lý nhà nước về tần số vô tuyến điện.\n\n2. Bộ Thông tin và Truyền thông chịu trách nhiệm trước Chính phủ thực hiện thống nhất quản lý nhà nước về tần số vô tuyến điện, có các nhiệm vụ, quyền hạn sau đây:\n\na) Ban hành hoặc trình cơ quan nhà nước có thẩm quyền ban hành và tổ chức thực hiện văn bản quy phạm pháp luật về tần số vô tuyến điện; ban hành quy chuẩn kỹ thuật quốc gia về thiết bị vô tuyến điện, phát xạ vô tuyến điện, tương thích điện từ, an toàn bức xạ vô tuyến điện;\n\nb) Phê duyệt hoặc trình cơ quan nhà nước có thẩm quyền phê duyệt và tổ chức thực hiện quy hoạch tần số vô tuyến điện; phân bổ băng tần phục vụ mục đích quốc phòng, an ninh; quy định điều kiện phân bổ, ấn định và sử dụng tần số vô tuyến điện;\n\nc) Cấp, sửa đổi, bổ sung, gia hạn, thu hồi giấy phép sử dụng tần số vô tuyến điện; quản lý lệ phí cấp giấy phép sử dụng tần số vô tuyến điện, phí sử dụng tần số vô tuyến điện theo quy định của phập luật về phí và lệ phí;\n\nd) Tổ chức việc phối hợp tần số vô tuyến điện và quỹ đạo vệ tinh với các quốc gia, vùng lãnh thổ và tổ chức quốc tế; đăng ký tần số vô tuyến điện và quỹ đạo vệ tinh với tổ chức quốc tế;\n\nđ) Kiểm tra, kiểm soát tần số vô tuyến điện, xử lý nhiễu có hại;\n\ne) Thanh tra, kiểm tra, giải quyết khiếu nại, tố cáo và xử lý vi phạm pháp luật về tần số vô tuyến điện;\n\ng) Hợp tác quốc tế về tần số vô tuyến điện;\n\nh) Đào tạo, bồi dưỡng, hướng dẫn nghiệp vụ vô tuyến điện, cấp Chứng chỉ vô tuyến điện viên;\n\ni) Tuyên truyền, phổ biến pháp luật về tần số vô tuyến điện.\n\n3. Bộ, cơ quan ngang bộ trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm phối hợp với Bộ Thông tin và Truyền thông thực hiện quản lý nhà nước về tần số vô tuyến điện.\n\n4. Uỷ ban nhân dân các cấp trong phạm vi nhiệm vụ, quyền hạn của mình thực hiện quản lý nhà nước về tần số vô tuyến điện tại địa phương."
+   }
+  },
+  {
+   "id": "VN-H529-A6",
+   "no": 6,
+   "noLabel": {
+    "vi": "Điều 6"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Cơ quan quản lý chuyên ngành tần số vô tuyến điện"
+   },
+   "text": {
+    "vi": "Điều 6. Cơ quan quản lý chuyên ngành tần số vô tuyến điện\n\nCơ quan quản lý chuyên ngành tần số vô tuyến điện là cơ quan thuộc Bộ Thông tin và Truyền thông, có trách nhiệm giúp Bộ trưởng Bộ Thông tin và Truyền thông thực hiện một số nhiệm vụ quản lý nhà nước về tần số vô tuyến điện theo sự phân công, phân cấp của cơ quan nhà nước có thẩm quyền."
+   }
+  },
+  {
+   "id": "VN-H529-A7",
+   "no": 7,
+   "noLabel": {
+    "vi": "Điều 7"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Thanh tra chuyên ngành về tần số vô tuyến điện"
+   },
+   "text": {
+    "vi": "Điều 7. Thanh tra chuyên ngành về tần số vô tuyến điện\n\nThanh tra chuyên ngành về tần số vô tuyến điện và tổ chức bộ máy thanh tra chuyên ngành do Bộ Thông tin và Truyền thông thực hiện theo quy định của pháp luật về thanh tra."
+   }
+  },
+  {
+   "id": "VN-H529-A8",
+   "no": 8,
+   "noLabel": {
+    "vi": "Điều 8"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Hợp tác quốc tế về tần số vô tuyến điện"
+   },
+   "text": {
+    "vi": "Điều 8. Hợp tác quốc tế về tần số vô tuyến điện\n\n1. Hợp tác quốc tế về tần số vô tuyến điện được thực hiện theo nguyên tắc tôn trọng độc lập, chủ quyền, bình đẳng, các bên cùng có lợi.\n\n2. Nội dung hợp tác quốc tế về tần số vô tuyến điện bao gồm:\n\na) Ký kết điều ước quốc tế và thoả thuận quốc tế về tần số vô tuyến điện;\n\nb) Đăng ký, phối hợp quốc tế về tần số vô tuyến điện và quỹ đạo vệ tinh;\n\nc) Trao đổi thông tin, kinh nghiệm về tần số vô tuyến điện nhằm nâng cao hiệu quả quản lý, sử dụng tần số vô tuyến điện của Việt Nam, phù hợp với xu hướng phát triển của thế giới;\n\nd) Thiết lập, phát triển quan hệ hợp tác về quản lý, sử dụng tần số vô tuyến điện với các quốc gia, vùng lãnh thổ; đào tạo, phát triển nguồn nhân lực; xây dựng và thực hiện chương trình, dự án quốc tế về tần số vô tuyến điện.\n\n3. Bộ Ngoại giao chủ trì phối hợp với Bộ Thông tin và Truyền thông hướng dẫn cụ thể trình tự, thủ tục ký kết các thoả thuận quốc tế về tần số vô tuyến điện."
+   }
+  },
+  {
+   "id": "VN-H529-A9",
+   "no": 9,
+   "noLabel": {
+    "vi": "Điều 9"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Những hành vi bị cấm"
+   },
+   "text": {
+    "vi": "Điều 9. Những hành vi bị cấm\n\n1. Sử dụng tần số và thiết bị vô tuyến điện nhằm chống lại Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam; làm phương hại đến quốc phòng, an ninh, trật tự, an toàn xã hội; gây thiệt hại đến lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân.\n\n2. Sử dụng tần số vô tuyến điện dành riêng cho mục đích cấp cứu, an toàn, tìm kiếm, cứu hộ, cứu nạn, quốc phòng, an ninh vào mục đích khác.\n\n3. Cản trở cơ quan, tổ chức, người thi hành công vụ thực hiện nhiệm vụ thanh tra, kiểm tra, kiểm soát tần số vô tuyến điện và quỹ đạo vệ tinh.\n\n4. Cố ý gây nhiễu có hại, cản trở trái pháp luật hoạt động của hệ thống thông tin vô tuyến điện.\n\n5. Phá hoại cơ sở hạ tầng kỹ thuật vô tuyến điện; cản trở trái pháp luật việc xây dựng cơ sở hạ tầng kỹ thuật vô tuyến điện hợp pháp.\n\n6. Lợi dụng chức vụ, quyền hạn để vi phạm pháp luật về tần số vô tuyến điện.\n\nChương II\n\nQUY HOẠCH TẦN SỐ VÔ TUYẾN ĐIỆN"
+   }
+  },
+  {
+   "id": "VN-H529-A10",
+   "no": 10,
+   "noLabel": {
+    "vi": "Điều 10"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Nguyên tắc xây dựng, phê duyệt quy hoạch tần số vô tuyến điện"
+   },
+   "text": {
+    "vi": "Điều 10. Nguyên tắc xây dựng, phê duyệt quy hoạch tần số vô tuyến điện\n\n1. Tuân thủ quy định của pháp luật Việt Nam, điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên, phù hợp với pháp luật và thông lệ quốc tế.\n\n2. Phù hợp với chiến lược, quy hoạch, kế hoạch phát triển kinh tế - xã hội của đất nước từng thời kỳ; bảo đảm hài hoà nhu cầu sử dụng tần số vô tuyến điện phục vụ phát triển kinh tế - xã hội, quốc phòng, an ninh.\n\n3. Phù hợp với xu hướng phát triển các nghiệp vụ vô tuyến điện trên thế giới, đồng thời tính đến hiện trạng sử dụng tần số vô tuyến điện tại Việt Nam.\n\n4. Bảo đảm quản lý, sử dụng tần số vô tuyến điện hợp lý, hiệu quả, tiết kiệm, đúng mục đích.\n\n5. ứng dụng công nghệ mới, công nghệ tiên tiến sử dụng hiệu quả phổ tần số vô tuyến điện.\n\n6. Phù hợp với xu hướng hội tụ công nghệ và dịch vụ vô tuyến điện.\n\n7. Phù hợp với quy hoạch phát triển viễn thông quốc gia đối với băng tần sử dụng trong hoạt động viễn thông."
+   }
+  },
+  {
+   "id": "VN-H529-A11",
+   "no": 11,
+   "noLabel": {
+    "vi": "Điều 11"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Các loại quy hoạch tần số vô tuyến điện; thẩm quyền phê duyệt và thực hiện quy hoạch tần số vô tuyến điện"
+   },
+   "text": {
+    "vi": "Điều 11. Các loại quy hoạch tần số vô tuyến điện; thẩm quyền phê duyệt và thực hiện quy hoạch tần số vô tuyến điện\n\n1. Quy hoạch tần số vô tuyến điện bao gồm:\n\na) Quy hoạch phổ tần số vô tuyến điện quốc gia là quy hoạch phân chia phổ tần số vô tuyến điện thành các băng tần dành cho các nghiệp vụ vô tuyến điện và quy định mục đích, điều kiện sử dụng đối với từng băng tần;\n\nb) Quy hoạch băng tần là quy hoạch phân bổ một hoặc một số băng tần cho một loại nghiệp vụ vô tuyến điện hoặc hệ thống thông tin vô tuyến điện và quy định nguyên tắc, điều kiện sử dụng cụ thể đối với băng tần đó;\n\nc) Quy hoạch phân kênh tần số là quy hoạch băng tần thành các kênh tần số cho một loại nghiệp vụ vô tuyến điện cụ thể theo một tiêu chuẩn nhất định và quy định điều kiện sử dụng các kênh tần số đó;\n\nd) Quy hoạch sử dụng kênh tần số là quy hoạch bố trí và quy định điều kiện sử dụng các kênh tần số đối với một hệ thống cho một loại nghiệp vụ vô tuyến điện cụ thể.\n\n2. Thẩm quyền phê duyệt và thực hiện quy hoạch tần số vô tuyến điện được quy định như sau:\n\na) Bộ trưởng Bộ Thông tin và Truyền thông xây dựng, trình\n\nb) Bộ trưởng Bộ Thông tin và Truyền thông phê duyệt quy hoạch băng tần, quy hoạch phân kênh tần số, quy hoạch sử dụng kênh tần số trên cơ sở Quy hoạch phổ tần số vô tuyến điện quốc gia;\n\nc) Bộ trưởng Bộ Thông tin và Truyền thông tổ chức thực hiện quy hoạch tần số vô tuyến điện;\n\nd) Bộ trưởng Bộ Thông tin và Truyền thông chủ trì phối hợp với cơ quan có thẩm quyền thẩm định về sự phù hợp của quy hoạch, kế hoạch phát triển của các ngành có sử dụng tần số vô tuyến điện với các quy hoạch tần số vô tuyến điện.\n\n3. Việc sản xuất, nhập khẩu thiết bị vô tuyến điện, thiết bị ứng dụng sóng vô tuyến điện để sử dụng tại Việt Nam và việc quản lý, sử dụng tần số vô tuyến điện phải phù hợp với các quy hoạch tần số vô tuyến điện theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H529-A12",
+   "no": 12,
+   "noLabel": {
+    "vi": "Điều 12"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Thu hồi quyền sử dụng tần số vô tuyến điện để thực hiện quy hoạch"
+   },
+   "text": {
+    "vi": "Điều 12. Thu hồi quyền sử dụng tần số vô tuyến điện để thực hiện quy hoạch\n\n1. Thu hồi quyền sử dụng tần số vô tuyến điện để thực hiện quy hoạch là việc cơ quan nhà nước có thẩm quyền quyết định thu một phần hoặc toàn bộ quyền sử dụng băng tần, kênh tần số đã cấp cho tổ chức, cá nhân khi giấy phép sử dụng tần số vô tuyến điện đang còn hiệu lực để chuyển đổi mục đích hoặc đối tượng sử dụng.\n\n2. Việc thu hồi quyền sử dụng tần số vô tuyến điện được thực hiện trong các trường hợp sau đây:\n\na) Thu hồi để sử dụng tần số vô tuyến điện vào mục đích quốc phòng, an ninh, lợi ích quốc gia;\n\nb) Mục đích, đối tượng sử dụng tần số vô tuyến điện không còn phù hợp với quy hoạch tần số vô tuyến điện.\n\n3. Bộ Thông tin và Truyền thông công bố công khai quy hoạch tần số vô tuyến điện, thời gian, kế hoạch chuyển đổi tần số, thiết bị vô tuyến điện để thực hiện quy hoạch và thông báo cho tổ chức, cá nhân bị thu hồi quyền sử dụng tần số vô tuyến điện.\n\n4. Tổ chức, cá nhân bị thu hồi quyền sử dụng tần số vô tuyến điện phải ngừng sử dụng tần số vô tuyến điện theo quyết định thu hồi của cơ quan quản lý chuyên ngành tần số vô tuyến điện.\n\n5. Tổ chức, cá nhân bị thu hồi quyền sử dụng tần số vô tuyến điện quy định tại khoản 2 Điều này được bồi thường theo quy định của pháp luật.\n\nChương III\n\nQUẢN LÝ CHẤT LƯỢNG PHÁT XẠ VÔ TUYẾN ĐIỆN, AN TOÀN BỨC XẠ VÔ TUYẾN ĐIỆN VÀ TƯƠNG THÍCH ĐIỆN TỪ"
+   }
+  },
+  {
+   "id": "VN-H529-A13",
+   "no": 13,
+   "noLabel": {
+    "vi": "Điều 13"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Quản lý chất lượng phát xạ vô tuyến điện"
+   },
+   "text": {
+    "vi": "Điều 13. Quản lý chất lượng phát xạ vô tuyến điện\n\n1. Tổ chức, cá nhân sản xuất, nhập khẩu thiết bị vô tuyến điện thuộc Danh mục thiết bị vô tuyến điện có khả năng gây nhiễu có hại trước khi đưa vào lưu thông trên thị trường hoặc sử dụng phải thực hiện việc chứng nhận hợp quy, công bố hợp quy và sử dụng dấu hợp quy.\n\n2. Bộ trưởng Bộ Thông tin và Truyền thông ban hành Danh mục thiết bị vô tuyến điện có khả năng gây nhiễu có hại phải chứng nhận hợp quy, công bố hợp quy và sử dụng dấu hợp quy.\n\n3. Bộ Khoa học và Công nghệ thẩm định và công bố tiêu chuẩn quốc gia về phát xạ vô tuyến điện sau khi thống nhất với Bộ Thông tin và Truyền thông.\n\n4. Việc thừa nhận lẫn nhau về kết quả đánh giá sự phù hợp tiêu chuẩn, quy chuẩn kỹ thuật về phát xạ vô tuyên điện giữa Việt Nam và các quốc gia, vùng lãnh thổ được thực hiện theo điều ước quốc tế mà Cộng hoà xã hội chủ nghĩa Việt Nam là thành viên; giữa tổ chức đánh giá sự phù hợp của Việt Nam và tổ chức đánh giá sự phù hợp của quốc gia, vùng lãnh thổ được thực hiện theo thỏa thuận giữa các bên."
+   }
+  },
+  {
+   "id": "VN-H529-A14",
+   "no": 14,
+   "noLabel": {
+    "vi": "Điều 14"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Quản lý an toàn bức xạ vô tuyến điện"
+   },
+   "text": {
+    "vi": "Điều 14. Quản lý an toàn bức xạ vô tuyến điện\n\n1. Bảo đảm an toàn bức xạ vô tuyến điện là các biện pháp nhằm ngăn ngừa, chống lại hoặc giảm thiểu tác hại của bức xạ vô tuyến điện của đài vô tuyến điện, thiết bị vô tuyến điện, thiết bị ứng dụng sóng vô tuyến điện đối với con người, môi trường.\n\n2. Tổ chức, cá nhân sử dụng đài vô tuyến điện, thiết bị vô tuyến điện, thiết bị ứng dụng sóng vô tuyến điện phải tuân thủ các quy định của pháp luật về bảo đảm an toàn bức xạ vô tuyến điện.\n\n3. Tổ chức, cá nhân sản xuất, nhập khẩu thiết bị vô tuyến điện, thiết bị ứng dụng sóng vô tuyến điện thuộc Danh mục thiết bị vô tuyến điện, thiết bị ứng dụng sóng vô tuyến điện có khả năng gây mất an toàn bức xạ vô tuyến điện trước khi đưa vào lưu thông trên thị trường hoặc sử dụng phải thực hiện việc chứng nhận hợp quy, công bố hợp quy và sử dụng dấu hợp quy.\n\n4. Tổ chức, cá nhân trước khi đưa đài vô tuyến điện thuộc Danh mục đài vô tuyến điện bắt buộc kiểm định về an toàn bức xạ vô tuyến điện vào sử dụng phải thực hiện việc kiểm định.\n\n5. Bộ trưởng Bộ Thông tin và Truyền thông ban hành Danh mục thiết bị vô tuyến điện, thiết bị ứng dụng sóng vô tuyến điện có khả năng gây mất an toàn bức xạ vô tuyến điện phải chứng nhận hợp quy, công bố hợp quy và sử dụng dấu hợp quy; Danh mục đài vô tuyến điện bắt buộc kiểm định về an toàn bức xạ vô tuyến điện; quy định thủ tục kiểm định và công bố danh sách tổ chức đủ điều kiện kiểm định về an toàn bức xạ vô tuyến điện đối với đài vô tuyến điện."
+   }
+  },
+  {
+   "id": "VN-H529-A15",
+   "no": 15,
+   "noLabel": {
+    "vi": "Điều 15"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Quản lý tương thích điện từ"
+   },
+   "text": {
+    "vi": "Điều 15. Quản lý tương thích điện từ\n\n1. Tổ chức, cá nhân đưa thiết bị điện, điện tử có bức xạ vô tuyến điện vào sử dụng phải thực hiện các quy định của pháp luật về quản lý tương thích điện từ.\n\n2. Tổ chức, cá nhân sản xuất, nhập khẩu thiết bị điện, điện tử có bức xạ vô tuyến điện thuộc Danh mục thiết bị có khả năng gây mất an toàn do không tương thích điện từ quy định tại khoản 3 và khoản 4 Điều này, trước khi đưa vào lưu thông trên thị trường hoặc sử dụng phải thực hiện việc chứng nhận hợp quy, công bố hợp quy và sử dụng dấu hợp quy.\n\n3. Bộ trưởng Bộ Thông tin và Truyền thông ban hành Danh mục thiết bị vô tuyến điện, thiết bị viễn thông và thiết bị công nghệ thông tin, thiết bị ứng dụng sóng vô tuyến điện có khả năng gây mất an toàn do không tương thích điện từ.\n\n4. Bộ trưởng Bộ Khoa học và Công nghệ ban hành Danh mục thiết bị điện, điện tử có bức xạ vô tuyến điện có khả năng gây mất an toàn do không tương thích điện từ, trừ thiết bị thuộc Danh mục quy định tại khoản 3 Điều này; công bố Tiêu chuẩn quốc gia về tương thích điện từ đối với thiết bị điện, điện tử có bức xạ vô tuyến điện sau khi thống nhất với Bộ Thông tin và Truyền thông.\n\n5. Việc thừa nhận lẫn nhau về kết quả đánh giá sự phù hợp tiêu chuẩn, quy chuẩn kỹ thuật về tương thích điện từ giữa Việt Nam với các quốc gia, vùng lãnh thổ được thực hiện theo điều ước quốc tế mà Cộng hoà xã hội chủ nghĩa Việt Nam là thành viên; giữa tổ chức đánh giá sự phù hợp của Việt Nam và tổ chức đánh giá sự phù hợp của quốc gia, vùng lãnh thổ được thực hiện theo thỏa thuận giữa các bên.\n\nChương IV\n\nCẤP GIẤY PHÉP VÀ SỬ DỤNG TẦN SỐ VÔ TUYẾN ĐIỆN"
+   }
+  },
+  {
+   "id": "VN-H529-A16",
+   "no": 16,
+   "noLabel": {
+    "vi": "Điều 16"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Giấy phép sử dụng tần số vô tuyến điện"
+   },
+   "text": {
+    "vi": "Điều 16. Giấy phép sử dụng tần số vô tuyến điện\n\n1. Tổ chức, cá nhân sử dụng tần số vô tuyến điện, thiết bị vô tuyến điện phải có giấy phép sử dụng tần số vô tuyến điện tương ứng, trừ trường hợp quy định tại Điều 27 của Luật này. Giấy phép sử dụng tần số vô tuyến điện bao gồm: Giấy phép sử dụng tần số và thiết bị vô tuyến điện, Giấy phép sử dụng băng tần, Giấy phép sử dụng tần số và quỹ đạo vệ tinh.\n\n2. Thời hạn của giấy phép sử dụng tần số vô tuyến điện được quy định như sau:\n\na) Giấy phép sử dụng tần số và thiết bị vô tuyến điện có thời hạn tối đa là 10 năm, được cấp cho tổ chức, cá nhân để sử dụng tần số vô tuyến điện, thiết bị vô tuyến điện kèm theo các điều kiện cụ thể;\n\nb) Giấy phép sử dụng băng tần có thời hạn tối đa là 15 năm, được cấp cho tổ chức để sử dụng băng tần hoặc kênh tần số xác định kèm theo các điều kiện cụ thể;\n\nc) Giấy phép sử dụng tần số và quỹ đạo vệ tinh có thời hạn tối đa là 20 năm, được cấp cho tổ chức để khai thác đài vô tuyến điện đặt trên vệ tinh, tại vị trí quỹ đạo vệ tinh xác định sử dụng băng tần xác định kèm theo các điều kiện cụ thể.\n\n3. Thời hạn cụ thể của giấy phép sử dụng tần số vô tuyến điện được cấp theo đề nghị của tổ chức, cá nhân, nhưng không vượt quá thời hạn tối đa của từng loại giấy phép quy định tại khoản 2 Điều này và bảo đảm phù hợp với các quy hoạch tần số vô tuyến điện.\n\n4. Bộ trưởng Bộ Thông tin và Truyền thông quy định chi tiết thủ tục cấp, sửa đổi, bổ sung, gia hạn, thu hồi giấy phép sử dụng tần số vô tuyến điện."
+   }
+  },
+  {
+   "id": "VN-H529-A17",
+   "no": 17,
+   "noLabel": {
+    "vi": "Điều 17"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Nguyên tắc cấp giấy phép sử dụng tần số vô tuyến điện"
+   },
+   "text": {
+    "vi": "Điều 17. Nguyên tắc cấp giấy phép sử dụng tần số vô tuyến điện\n\n1. Công khai, minh bạch, đúng pháp luật.\n\n2. Phù hợp với quy hoạch tần số vô tuyến điện.\n\n3. Đáp ứng yêu cầu hội tụ công nghệ và dịch vụ vô tuyến điện.\n\n4. Bảo đảm khả thi, hợp lý, hiệu quả, tiết kiệm, đúng mục đích; bảo vệ quyền và lợi ích hợp pháp của người sử dụng dịch vụ vô tuyến điện.\n\n5. Nghiệp vụ chính được ưu tiên hơn nghiệp vụ phụ.\n\n6. Đáp ứng nhu cầu sử dụng tần số vô tuyến điện phục vụ lợi ích công cộng và thực hiện nhiệm vụ công ích của Nhà nước.\n\n7. Việc cấp giấy phép sử dụng tần số vô tuyến điện cho cơ quan đại diện ngoại giao, cơ quan lãnh sự nước ngoài, cơ quan đại diện của tổ chức quốc tế tại Việt Nam, đoàn đại biểu cấp cao nước ngoài đến thăm Việt Nam được hưởng quyền ưu đãi, miễn trừ ngoại giao phải theo các quy định của Luật này, điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên, phù hợp với pháp luật và thông lệ quốc tế."
+   }
+  },
+  {
+   "id": "VN-H529-A18",
+   "no": 18,
+   "noLabel": {
+    "vi": "Điều 18"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Phương thức cấp giấy phép sử dụng tần số vô tuyến điện"
+   },
+   "text": {
+    "vi": "Điều 18. Phương thức cấp giấy phép sử dụng tần số vô tuyến điện\n\n1. Phương thức cấp giấy phép sử dụng tần số vô tuyến điện được quy định như sau:\n\na) Cấp giấy phép trực tiếp được thực hiện trên cơ sở xem xét hồ sơ xin cấp giấy phép;\n\nb) Cấp giấy phép thông qua thi tuyển quyền sử dụng tần số vô tuyến điện được thực hiện trên cơ sở đánh giá hồ sơ thi tuyển, theo những tiêu chí cơ bản về năng lực tài chính và đầu tư, năng lực kỹ thuật nghiệp vụ, năng lực kinh doanh, nguồn nhân lực;\n\nc) Cấp giấy phép thông qua đấu giá quyền sử dụng tần số vô tuyến điện được thực hiện trên cơ sở đánh giá hồ sơ đấu giá theo những tiêu chí nhất định và mức trả giá của doanh nghiệp.\n\n2. Phương thức cấp giấy phép trực tiếp được áp dụng đối với tần số vô tuyến điện phục vụ nhiệm vụ công ích của Nhà nước hoặc không có giá trị thương mại cao hoặc nhu cầu sử dụng không vượt quá khả năng phân bổ tần số vô tuyến điện được xác định trong quy hoạch tần số vô tuyến điện, theo nguyên tắc tổ chức, cá nhân đăng ký trước được xét cấp trước.\n\n3. Phương thức cấp giấy phép thông qua đấu giá, thi tuyển quyền sử dụng tần số vô tuyến điện được quy định như sau:\n\na) áp dụng đối với băng tần, kênh tần số có giá trị thương mại cao, có nhu cầu sử dụng vượt quá khả năng phân bổ xác định trong quy hoạch tần số vô tuyến điện;\n\nb) Tổ chức tham gia đấu giá, thi tuyển quyền sử dụng băng tần, kênh tần số là tổ chức có đủ điều kiện được xem xét cấp giấy phép thiết lập mạng viễn thông theo quy định của pháp luật về viễn thông;\n\nc) Thủ tướng Chính phủ quy định chi tiết về đấu giá quyền sử dụng tần số vô tuyến điện; quyết định băng tần, kênh tần số được đấu giá, thi tuyển chuyển sử dụng tần số vô tuyến điện trong từng thời kỳ, phù hợp với quy hoạch tần số vô tuyến điện. Bộ trưởng Bộ Thông tin và Truyền thông quy định chi tiết về thi tuyển quyền sử dụng tần số vô tuyến điện."
+   }
+  },
+  {
+   "id": "VN-H529-A19",
+   "no": 19,
+   "noLabel": {
+    "vi": "Điều 19"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Cấp Giấy phép sử dụng tần số và thiết bị vô tuyến điện"
+   },
+   "text": {
+    "vi": "Điều 19. Cấp Giấy phép sử dụng tần số và thiết bị vô tuyến điện\n\n1. Đối tượng được cấp giấy phép bao gồm:\n\na) Tổ chức, công dân Việt Nam, tổ chức nước ngoài hoạt động hợp pháp tại Việt Nam;\n\nb) Người nước ngoài sử dụng đài vô tuyến điện nghiệp dư hoặc tần số vô tuyến điện cho mục đích khác theo quy định của Bộ trưởng Bộ Thông tin và Truyền thông.\n\n2. Điều kiện để được cấp giấy phép bao gồm:\n\na) Sử dụng tần số và thiết bị vô tuyến điện vào mục đích và nghiệp vụ vô tuyến điện mà pháp luật không cấm;\n\nb) Có giấy phép viễn thông theo quy định của pháp luật về viễn thông đối với tổ chức xin cấp giấy phép sử dụng tần số vô tuyến điện để thiết lập mạng viễn thông, mạng truyền dẫn phát sóng phát thanh, truyền hình;\n\nc) Có giấy phép hoạt động báo chí hoặc được quyền phát lại chương trình phát thanh, truyền hình theo quy định của pháp luật;\n\nd) Có phương án sử dụng tần số vô tuyến điện khả thi, phù hợp quy hoạch tần số vô tuyến điện;\n\nđ) Có thiết bị vô tuyến điện phù hợp quy chuẩn kỹ thuật về phát xạ vô tuyến điện, an toàn bức xạ vô tuyến điện và tương thích điện từ;\n\ne) Cam kết thực hiện quy định của pháp luật về bảo đảm an toàn, an ninh thông tin; kiểm tra, giải quyết nhiễu có hại và an toàn bức xạ vô tuyến điện;\n\ng) Có Chứng chỉ vô tuyến điện viên đối với các trường hợp quy định tại khoản 1 Điều 32 của Luật này.\n\n3. Bộ Thông tin và Truyền thông chủ trì phối hợp với các bộ, cơ quan ngang bộ có liên quan hướng dẫn cụ thể việc cấp giấy phép sử dụng tần số và thiết bị vô tuyến điện cho cơ quan đại diện ngoại giao, cơ quan lãnh sự nước ngoài, cơ quan đại diện của tổ chức quốc tế tại Việt Nam, đoàn đại biểu cấp cao nước ngoài đến thăm Việt Nam được hưởng quyền ưu đãi, miễn trừ ngoại giao."
+   }
+  },
+  {
+   "id": "VN-H529-A20",
+   "no": 20,
+   "noLabel": {
+    "vi": "Điều 20"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Cấp Giấy phép sử dụng băng tần"
+   },
+   "text": {
+    "vi": "Điều 20. Cấp Giấy phép sử dụng băng tần\n\n1. Đối tượng được cấp giấy phép là tổ chức hoạt động hợp pháp tại Việt Nam.\n\n2. Điều kiện để được cấp giấy phép quy định như sau:\n\na) Có đủ các điều kiện để được cấp giấy phép quy định tại các điểm a, b, d, đ và e khoản 2 Điều 19 của Luật này trong trường hợp cấp phép bằng phương thức cấp phép trực tiếp;\n\nb) Thắng trong đấu giá hoặc trúng tuyển trong thi tuyển quyền sử dụng tần số vô tuyến điện."
+   }
+  },
+  {
+   "id": "VN-H529-A21",
+   "no": 21,
+   "noLabel": {
+    "vi": "Điều 21"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Cấp giấy phép sử dụng tần số và quỹ đạo vệ tinh"
+   },
+   "text": {
+    "vi": "Điều 21. Cấp giấy phép sử dụng tần số và quỹ đạo vệ tinh\n\n1. Đối tượng được cấp giấy phép là tổ chức hoạt động hợp pháp tại Việt Nam.\n\n2. Điều kiện để được cấp giấy phép bao gồm:\n\na) Có năng lực về tài chính, kỹ thuật và nguồn nhân lực để quản lý, khai thác vệ tinh;\n\nb) Có phương án sử dụng quỹ đạo vệ tinh hiệu quả, khả thi vào mục đích và nghiệp vụ vô tuyến điện mà pháp luật không cấm;\n\nc) Cam kết thực hiện quy định của pháp luật Việt Nam và điều ước quốc tế mà Cộng hoà xã hội chủ nghĩa Việt Nam là thành viên về sử dụng tần số vô tuyến điện, quỹ đạo vệ tinh và khoảng không vũ trụ."
+   }
+  },
+  {
+   "id": "VN-H529-A22",
+   "no": 22,
+   "noLabel": {
+    "vi": "Điều 22"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Gia hạn, sửa đổi, bổ sung giấy phép sử dụng tần số vô tuyến điện"
+   },
+   "text": {
+    "vi": "Điều 22. Gia hạn, sửa đổi, bổ sung giấy phép sử dụng tần số vô tuyến điện\n\n1. Việc gia hạn giấy phép phải căn cứ vào các nguyên tắc cấp giấy phép sử dụng tần số vô tuyến điện quy định tại Điều 17 của Luật này và các quy định sau đây:\n\na) Tổ chức, cá nhân được cấp giấy phép thực hiện đầy đủ nghĩa vụ được quy định cho từng loại giấy phép sử dụng tần số vô tuyến điện tương ứng;\n\nb) Thời hạn hiệu lực của giấy phép còn lại ít nhất là 30 ngày đối với giấy phép sử dụng tần số và thiết bị vô tuyến điện 60 ngày đối với giấy phép sử dụng băng tần; 90 ngày đối với giấy phép sử dụng tần số và quỹ đạo vệ tinh;\n\nc) Tổng thời hạn cấp lần đầu và các lần gia hạn giấy phép không vượt quá thời hạn tối đa quy định cho từng loại giấy phép sử dụng tần số vô tuyến điện tương ứng; trường hợp cấp lần đầu bằng thời hạn tối đa quy định cho loại giấy phép tương ứng thì chỉ được xem xét gia hạn tối đa là một năm.\n\n2. Việc sửa đổi, bổ sung giấy phép sử dụng tần số vô tuyến điện phải căn cứ vào nguyên tắc cấp giấy phép sử dụng tần số vô tuyến điện quy định tại Điều 17 của Luật này và các quy định sau đây:\n\na) Giấy phép sử dụng tần số vô tuyến điện còn hiệu lực;\n\nb) Tổ chức, cá nhân được cấp giấy phép thực hiện đầy đủ nghĩa vụ quy định cho từng loại giấy phép sử dụng tần số vô tuyến điện tương ứng;\n\nc) Việc sửa đổi, bổ sung phải phù hợp với quy định tại các điều 19, 20 và 21 của Luật này."
+   }
+  },
+  {
+   "id": "VN-H529-A23",
+   "no": 23,
+   "noLabel": {
+    "vi": "Điều 23"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Thu hồi giấy phép sử dụng tần số vô tuyến điện"
+   },
+   "text": {
+    "vi": "Điều 23. Thu hồi giấy phép sử dụng tần số vô tuyến điện\n\n1. Tổ chức, cá nhân bị thu hồi giấy phép sử dụng tần số vô tuyến điện trong các trường hợp sau đây:\n\na) Sử dụng tần số vô tuyến điện nhằm chống lại Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam, làm phương hại đến quốc phòng, an ninh, trật tự, an toàn xã hội;\n\nb) Sử dụng tần số vô tuyến điện không đúng với quy định của giấy phép, gây thiệt hại nghiêm trọng đến lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân;\n\nc) Cố ý gây nhiễu có hại trái phép cho thiết bị, hệ thống thiết bị vô tuyến điện khác hoặc sử dụng tần số vô tuyến điện dành riêng cho mục đích quốc phòng, an ninh, cấp cứu, an toàn, tìm kiếm, cứu hộ, cứu nạn vào mục đích khác gây hậu quả nghiêm trọng;\n\nd) Cố ý gian dối hoặc cung cấp thông tin giả mạo để được cấp giấy phép;\n\nđ) Không nộp phí sử dụng tần số vô tuyến điện và thực hiện các nghĩa vụ tài chính khác theo quy định của pháp luật;\n\ne) Không triển khai trên thực tế các nội dung quyết định của giấy phép sau thời hạn hai năm, kể từ ngày được cấp giấy phép;\n\ng) Khi giấy phép viễn thông, giấy phép hoạt động báo chí hoặc quyền phát lại chương trình phát thanh, truyền hình tương ứng bị thu hồi.\n\n2. Sau thời hạn một năm, kể từ ngày bị thu hồi giấy phép sử dụng tần số vô tuyến điện theo quy định tại các điểm b, c, d và đ khoản 1 Điều này nhưng chưa đến mức bị xử lý về hình sự, nếu đã khắc phục được hậu quả và có đủ điều kiện để được cấp giấy phép theo quy định của Luật này thì tổ chức, cá nhân được xét cấp lại giấy phép sử dụng tần số vô tuyến điện."
+   }
+  },
+  {
+   "id": "VN-H529-A24",
+   "no": 24,
+   "noLabel": {
+    "vi": "Điều 24"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Chuyển nhượng quyền sử dụng tần số vô tuyến điện"
+   },
+   "text": {
+    "vi": "Điều 24. Chuyển nhượng quyền sử dụng tần số vô tuyến điện\n\n1. Việc chuyển nhượng quyền sử dụng tần số vô tuyến điện được quy định như sau:\n\na) Tổ chức được cấp giấy phép sử dụng băng tần, kênh tần số thông qua đấu giá được phép chuyển nhượng quyền sử dụng tần số vô tuyến điện cho tổ chức khác;\n\nb) Tổ chức chuyển nhượng quyền sử dụng tần số vô tuyến điện phải có giấy phép sử dụng tần số vô tuyến điện đang còn hiệu lực;\n\nc) Tổ chức nhận quyền sử dụng tần số vô tuyến điện phải đáp ứng quy định về đối tượng tham gia đấu giá, thi tuyển quyền sử dụng tần số vô tuyến điện quy định tại điểm b khoản 3 Điều 18 và điều kiện cấp giấy phép quy định tại các điểm a, b, d, đ và e khoản 2 Điều 19 của Luật này;\n\nd) Được sự đồng ý bằng văn bản của Bộ Thông tin và Truyền thông;\n\nđ) Các bên tham gia chuyển nhượng quyền sử dụng tần số vô tuyến điện có trách nhiệm thực hiện nghĩa vụ thuế theo quy định của pháp luật vê thuế;\n\ne) Bảo đảm quyền và lợi ích hợp pháp của tổ chức, cá nhân có liên quan.\n\n2. Thủ tướng Chính phủ quy định chi tiết việc chuyển nhượng quyền sử dụng tần số vô tuyến điện."
+   }
+  },
+  {
+   "id": "VN-H529-A25",
+   "no": 25,
+   "noLabel": {
+    "vi": "Điều 25"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Cho thuê, cho mượn thiết bị vô tuyến điện"
+   },
+   "text": {
+    "vi": "Điều 25. Cho thuê, cho mượn thiết bị vô tuyến điện\n\n1. Tổ chức, cá nhân là chủ sở hữu phương tiện giao thông có trang bị thiết bị vô tuyến điện, chủ sở hữu đài vô tuyến điện nghiệp dư có thể thoả thuận bằng văn bản cho tổ chức, cá nhân khác thuê, mượn thiết bị vô tuyến điện đã được cấp giấy phép để khai thác và phải thông báo cho cơ quan quản lý chuyên ngành tần số vô tuyến điện.\n\n2. Bên thuê, bên mượn thiết bị vô tuyến điện phải đáp ứng quy định về đối tượng được cấp giấy phép tại khoản 1 Điều 19 của Luật này. Bên cho thuê, cho mượn và bên thuê, bên mượn thiết bị vô tuyến điện phải tuân thủ quy định của pháp luật về tần số vô tuyến điện và các quy định khác của pháp luật có liên quan.\n\n3. Bộ trưởng Bộ Thông tin và Truyền thông quy định chi tiết việc cho thuê cho mượn thiết bị vô tuyến điện."
+   }
+  },
+  {
+   "id": "VN-H529-A26",
+   "no": 26,
+   "noLabel": {
+    "vi": "Điều 26"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Sử dụng chung tần số vô tuyến điện"
+   },
+   "text": {
+    "vi": "Điều 26. Sử dụng chung tần số vô tuyến điện\n\n1. Tổ chức, cá nhân sử dụng tần số vô tuyến điện với lưu lượng sử dụng thấp hoặc di chuyển trên phạm vi rộng phải sử dụng chung tần số vô tuyến điện với tổ chức, cá nhân khác và chấp nhận ảnh hưởng do việc sử dụng chung tần số vô tuyến điện.\n\n2. Tổ chức, cá nhân được cấp giấy phép để sử dụng cung tần số vô tuyến điện phải sử dụng đúng tần số vô tuyến điện quy định của giấy phép và được khuyến khích sử dụng mã hoá hoặc các biện pháp kỹ thuật khác để bảo đảm giữ bí mật thông tin.\n\n3. Bộ trưởng Bộ Thông tin và Truyền thông quy định chi tiết việc sử dụng chung tần số vô tuyến điện."
+   }
+  },
+  {
+   "id": "VN-H529-A27",
+   "no": 27,
+   "noLabel": {
+    "vi": "Điều 27"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Miễn giấy phép sử dụng tần số vô tuyến điện"
+   },
+   "text": {
+    "vi": "Điều 27. Miễn giấy phép sử dụng tần số vô tuyến điện\n\n1. Các loại thiết bị vô tuyến điện được miễn giấy phép sử dụng tần số vô tuyến điện bao gồm:\n\na) Thiết bị vô tuyến điện hoạt động ở cự ly ngắn, có công suất hạn chế, ít khả năng gây nhiễu có hại thuộc Danh mục quy định tại khoản 2 Điều này;\n\nb) Thiết bị vô tuyến điện đặt trên tàu biển, tàu bay nước ngoài đi qua lãnh thổ Việt Nam được miễn giấy phép theo thỏa thuận quốc tế, điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.\n\n2. Bộ trưởng Bộ Thông tin và Truyền thông công bố Danh mục thiết bị vô tuyến điện được miễn giấy phép sử dụng tần số vô tuyến điện, điều kiện kỹ thuật và khai thác kèm theo.\n\n3. Tổ chức, cá nhân sản xuất, nhập khẩu thiết bị vô tuyến điện thuộc Danh mục quy định tại khoản 2 Điều này có trách nhiệm công bố, bảo đảm thiết bị phù hợp với điều kiện kỹ thuật và khai thác đối với thiết bị vô tuyến điện được miễn giấy phép sử dụng tần số vô tuyến điện trước khi đưa thiết bị vào lưu thông trên thị trường.\n\n4. Tổ chức, cá nhân sử dụng thiết bị vô tuyến điện được miễn giấy phép sử dụng tần số vô tuyến điện phải tuân thủ điều kiện kỹ thuật và khai thác đối với thiết bị vô tuyến điện được miễn giấy phép sử dụng tần số vô tuyến điện."
+   }
+  },
+  {
+   "id": "VN-H529-A28",
+   "no": 28,
+   "noLabel": {
+    "vi": "Điều 28"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Quyền và nghĩa vụ của tổ chức, cá nhân được cấp giấy phép sử dụng tần số và thiết bị vô tuyến điện"
+   },
+   "text": {
+    "vi": "Điều 28. Quyền và nghĩa vụ của tổ chức, cá nhân được cấp giấy phép sử dụng tần số và thiết bị vô tuyến điện\n\n1. Sử dụng tần số và thiết bị vô tuyến điện đúng quy định của giấy phép.\n\n2. Đề nghị cơ quan có thẩm quyền giải quyết nhiễu có hại.\n\n3. Khiếu nại, tố cáo hành vi vi phạm pháp luật về tần số vô tuyến điện.\n\n4. Tuân thủ quy định của pháp luật trong lắp đặt, sử dụng tần số và thiết bị vô tuyến điện.\n\n5. Thiết kế, lắp đặt đài vô tuyến điện, cột ăng-ten phù hợp với quy định về tương thích điện từ, an toàn bức xạ vô tuyến điện, an toàn xây dựng, an toàn hàng không và các quy định khác của pháp luật có liên quan.\n\n6. Chịu sự thanh tra, kiểm tra, kiểm soát về tần số vô tuyến điện của cơ quan nhà nước có thẩm quyền.\n\n7. Thực hiện nghĩa vụ tài chính liên quan đến việc sử dụng tần số vô tuyến điện theo quy định của pháp luật.\n\n8. Tham gia đăng ký, phối hợp quốc tế về tần số vô tuyến điện đối với các trường hợp quy định tại Điều 41 của Luật này.\n\n9. Tuân thủ thỏa thuận phối hợp quốc tế về tần số vô tuyến điện, điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên."
+   }
+  },
+  {
+   "id": "VN-H529-A29",
+   "no": 29,
+   "noLabel": {
+    "vi": "Điều 29"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Quyền và nghĩa vụ của tổ chức được cấp giấy phép sử dụng băng tần"
+   },
+   "text": {
+    "vi": "Điều 29. Quyền và nghĩa vụ của tổ chức được cấp giấy phép sử dụng băng tần\n\n1. Quyết định số lượng, chủng loại thiết bị vô tuyến điện hoạt động trong mạng thông tin vô tuyến điện.\n\n2. Không phải xin giấy phép sử dụng tần số vô thiết bị vô tuyến điện cho từng thiết bị vô tuyến điện sử dụng trong mạng thông tin vô tuyến điện.\n\n3. Khiếu nại hành vi vi phạm pháp luật về tần số vô tuyến điện.\n\n4. Thực hiện đúng các quy định của giấy phép; báo cáo, bổ sung kịp thời các thay đổi về kỹ thuật, danh mục thiết bị phát sóng vô tuyến điện trong mạng thông tin vô tuyến điện.\n\n5. Tuân thủ quy định của pháp luật về tần số vô tuyến điện.\n\n6. Thiết kế, lắp đặt đài vô tuyến điện, cột ăng-ten phù hợp với quy định về an toàn bức xạ vô tuyến điện, tương thích điện từ, an toàn xây dựng, an toàn hàng không và các quy định khác của pháp luật có liên quan.\n\n7. Xử lý nhiễu có hại giữa các thiết bị vô tuyến điện trong nội bộ mạng thông tin vô tuyến điện của mình.\n\n8. Phối hợp với tổ chức được cấp giấy phép ở băng tần liền kề trong việc sử dụng tần số vô tuyến điện và phòng tránh nhiễu có hại.\n\n9. Chịu sự thanh tra, kiểm tra, kiểm soát về tần số vô tuyến điện của cơ quan nhà nước có thẩm quyền.\n\n10. Thực hiện nghĩa vụ tài chính liên quan đến việc sử dụng tần số vô tuyến điện theo quy định của pháp luật.\n\n11. Tham gia đăng ký, phối hợp quốc tế về tần số vô tuyến điện đối với các trường hợp quy định tại Điều 41 của Luật này.\n\n12. Tuân thủ thỏa thuận phối hợp quốc tế về tần số vô tuyến điện, điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên."
+   }
+  },
+  {
+   "id": "VN-H529-A30",
+   "no": 30,
+   "noLabel": {
+    "vi": "Điều 30"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Quyền và nghĩa vụ của tổ chức được cấp giấy phép sử dụng tần số vô tuyến điện và quỹ đạo vệ tinh"
+   },
+   "text": {
+    "vi": "Điều 30. Quyền và nghĩa vụ của tổ chức được cấp giấy phép sử dụng tần số vô tuyến điện và quỹ đạo vệ tinh\n\n1. Quyết định số lượng, chủng loại thiết bị vô tuyến điện hoạt động trong mạng thông tin vô tuyến điện.\n\n2. Liên doanh, liên kết với tổ chức khác trong việc quản lý, khai thác vệ tinh.\n\n3. Khiếu nại hành vi vi phạm pháp luật về tần số vô tuyến điện.\n\n4. Thực hiện đúng các quy định của giấy phép sử dụng tần số vô tuyến điện và quỹ đạo vệ tinh.\n\n5. Thực hiện quy định của pháp luật Việt Nam và điều ước quốc tế về khoảng không vũ trụ mà Cộng hoà xã hội chủ nghĩa Việt Nam là thành viên.\n\n6. Chịu sự thanh tra, kiểm tra, kiểm soát về tần số vô tuyến điện của cơ quan nhà nước có thẩm quyền.\n\n7. Thực hiện nghĩa vụ tài chính liên quan đến việc sử dụng tần số vô tuyến điện và quỹ đạo vệ tinh theo quy định của pháp luật.\n\n8. Tham gia đăng ký, phối hợp quốc tế về tần số vô tuyến điện và quỹ đạo vệ tinh đối với các trường hợp quy định tại Điều 41 của Luật này.\n\n9. Tuân thủ thỏa thuận phối hợp quốc tế về tần số vô tuyến điện, quỹ đạo vệ tinh, điều ước quốc tế mà Cộng hoà xã hội chủ nghĩa Việt Nam là thành viên."
+   }
+  },
+  {
+   "id": "VN-H529-A31",
+   "no": 31,
+   "noLabel": {
+    "vi": "Điều 31"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Phí, sử dụng tần số vô tuyến điện, lệ phí cấp giấy phép sử dụng tần số vô tuyến điện"
+   },
+   "text": {
+    "vi": "Điều 31. Phí, sử dụng tần số vô tuyến điện, lệ phí cấp giấy phép sử dụng tần số vô tuyến điện\n\n1. Tổ chức, cá nhân sử dụng tần số vô tuyến điện phải nộp phí sử dụng tần số vô tuyến điện, lệ phí cấp giấy phép sử dụng tần số vô tuyến điện.\n\n2. Phí sử dụng tần số vô tuyến điện được quy định trên cơ sở giá trị kinh tế của phổ tần số vô tuyến điện sử dụng; mục đích sử dụng; mức độ chiếm dụng phổ tần số vô tuyến điện; phạm vi phủ sóng; nhu cầu, mức độ sử dụng kênh tần số trong băng tần và địa bàn sử dụng tần số vô tuyến điện; bảo đảm bù đắp chi phí cho công tác quản lý tần số vô tuyến điện và để thi hành các chính sách của Nhà nước trong từng thời kỳ.\n\n3. Phí sử dụng tần số vô tuyến điện quy định tại khoản 2 Điều này không bao gồm khoản tiền thu được do đấu giá quyền sử dụng tần số vô tuyến điện.\n\n4. Bộ Tài chính chủ trì phối hợp với Bộ Thông tin và Truyền thông quy định hoặc trình cơ quan nhà nước có thẩm quyền quy định chi tiết mức thu, chế độ thu, nộp, quản lý và sử dụng phí sử dụng tần số vô tuyến điện, lệ phí cấp giấy phép sử dụng tần số vô tuyến điện."
+   }
+  },
+  {
+   "id": "VN-H529-A32",
+   "no": 32,
+   "noLabel": {
+    "vi": "Điều 32"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Chứng chỉ vô tuyến điện viên"
+   },
+   "text": {
+    "vi": "Điều 32. Chứng chỉ vô tuyến điện viên\n\n1. Người trực tiếp khai thác thiết bị vô tuyến điện thuộc nghiệp vụ di động hàng hải, di động hàng không, vô tuyến điện nghiệp dư phải có Chứng chỉ vô tuyến điện viên.\n\n2. Bộ trưởng Bộ Thông tin và Truyền thông quy định chi tiết các loại chứng chỉ vô tuyến điện viên; đối tượng, điều kiện, thủ tục cấp, thu hồi Chứng chỉ vô tuyến điện viên, công nhận Chứng chỉ vô tuyến điện viên nước ngoài; đào tạo vô tuyến điện viên.\n\n3. Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an quy định chi tiết điều kiện, thủ tục cấp, thu hồi Chứng chỉ vô tuyến điện viên trong lĩnh vực quốc phòng, an ninh sau khi có ý kiến thống nhất của Bộ trưởng Bộ Thông tin và Truyền thông; đào tạo vô tuyến điện viên trong lĩnh vực quốc phòng, an ninh."
+   }
+  },
+  {
+   "id": "VN-H529-A33",
+   "no": 33,
+   "noLabel": {
+    "vi": "Điều 33"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Sử dụng tần số và thiết bị vô tuyến điện trong trường hợp khẩn cấp"
+   },
+   "text": {
+    "vi": "Điều 33. Sử dụng tần số và thiết bị vô tuyến điện trong trường hợp khẩn cấp\n\n1. Trong trường hợp khẩn cấp gây nguy hiểm đến tính mạng con người và tài sản tổ chức, cá nhân có thể sử dụng tạm thời tần số và thiết bị vô tuyến điện chưa được cấp giấy phép để phục vụ cho việc gọi cấp cứu và phải thông báo cho cơ quan quản lý chuyên ngành tần số vô tuyến điện.\n\n2. Tổ chức, cá nhân sử dụng đài vô tuyến điện gửi thông tin, tín hiệu cấp cứu được phát sóng để thu hút sự chú ý ở cả tần số vô tuyến điện không dành riêng cho gọi cứu nạn.\n\n3. Tổ chức, cá nhân sử dụng đài vô tuyến điện nhận được thông tin, tín hiệu cấp cứu phải lắng nghe trên tần số vô tuyến điện phát gọi cấp cứu, trả lời và thực hiện ngay mọi hỗ trợ cần thiết, đồng thời thông báo cho cơ quan tìm kiếm, cứu nạn.\n\nChương V\n\nKIỂM TRA, KIỂM SOÁT TẦN SỐ VÔ TUYẾN ĐIỆN VÀ XỬ LÝ NHIỄU CÓ HẠI"
+   }
+  },
+  {
+   "id": "VN-H529-A34",
+   "no": 34,
+   "noLabel": {
+    "vi": "Điều 34"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Đối tượng chịu sự kiểm tra, kiểm soát tần số vô tuyến điện"
+   },
+   "text": {
+    "vi": "Điều 34. Đối tượng chịu sự kiểm tra, kiểm soát tần số vô tuyến điện\n\n1. Tổ chức, cá nhân sử dụng tần số và thiết bị vô tuyến điện trên lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam phải chịu sự kiểm tra, kiểm soát tần số vô tuyến điện của cơ quan nhà nước có thẩm quyền.\n\n2. Người trực tiếp khai thác thiết bị vô tuyến điện, thiết bị vô tuyến điện lắp đặt trên tàu biển, tàu bay của Việt Nam và của nước ngoài khi vào lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam phải tuân theo quy định của pháp luật Việt Nam, thỏa thuận quốc tế, điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên và phải chịu sự kiểm tra, kiểm soát tần số vô tuyến điện của cơ quan nhà nước có thẩm quyền."
+   }
+  },
+  {
+   "id": "VN-H529-A35",
+   "no": 35,
+   "noLabel": {
+    "vi": "Điều 35"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Trách nhiệm về kiểm tra, kiểm soát tần số vô tuyến điện"
+   },
+   "text": {
+    "vi": "Điều 35. Trách nhiệm về kiểm tra, kiểm soát tần số vô tuyến điện\n\n1. Bộ Thông tin và Truyền thông tổ chức kiểm tra, kiểm soát tần số vô tuyến điện trong phạm vi cả nước; quy định việc thành lập đoàn kiểm tra, nội dung kiểm tra, thủ tục kiểm tra, trách nhiệm của đối tượng chịu sự kiểm tra.\n\n2. Bộ Quốc phòng, Bộ Công an tổ chức kiểm tra, kiểm soát tần số vô tuyến điện dành riêng cho mục đích quốc phòng, an ninh.\n\n3. Kết quảm tra, kiểm soát tần số vô tuyến điện, thu, đo tham số kỹ thuật thiết bị vô tuyến điện của cơ quan nhà kiểnước có thẩm quyền kiểm tra, kiểm soát tần số vô tuyến điện là bằng chứng để xác định và xử lý hành vi vi phạm pháp luật về tần số vô tuyến điện và xử lý nhiễu có hại."
+   }
+  },
+  {
+   "id": "VN-H529-A36",
+   "no": 36,
+   "noLabel": {
+    "vi": "Điều 36"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Các hình thức kiểm tra"
+   },
+   "text": {
+    "vi": "Điều 36. Các hình thức kiểm tra\n\n1. Kiểm tra định kỳ được thực hiện theo chương trình, kế hoạch kiểm tra đã được cơ quan nhà nước có thẩm quyền quy định tại khoản 1 và khoản 2 Điều 35 của Luật này phê duyệt.\n\n2. Kiểm tra đột xuất được thực hiện khi giải quyết nhiễu có hại hoặc khi có dấu hiệu vi phạm pháp luật về tần số vô tuyến điện."
+   }
+  },
+  {
+   "id": "VN-H529-A37",
+   "no": 37,
+   "noLabel": {
+    "vi": "Điều 37"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Biện pháp hạn chế nhiễu có hại"
+   },
+   "text": {
+    "vi": "Điều 37. Biện pháp hạn chế nhiễu có hại\n\nTổ chức, cá nhân được cấp giấy phép sử dụng tần số vô tuyến điện phải thực hiện đúng quy định của giấy phép và thực hiện các biện pháp sau đây để hạn chế nhiễu có hại:\n\n1. Duy trì tần số vô tuyến điện phát trong phạm vi sai lệch tần số vô tuyến điện cho phép theo quy định của Bộ Thông tin và Truyền thông;\n\n2. Giảm mục phát xạ vô tuyến điện không mong muốn xuống trị số thấp nhất;\n\n3. Sử dụng phương thức phát có độ rộng băng tần chiếm dụng nhỏ nhất tương ứng với công nghệ sử dụng;\n\n4. Hạn chế thu, phát sóng vô tuyến điện ở những hướng không cần thiết;\n\n5. Sử dụng mức công suất nhỏ nhất đủ để bảo đảm chất lượng thông tin."
+   }
+  },
+  {
+   "id": "VN-H529-A38",
+   "no": 38,
+   "noLabel": {
+    "vi": "Điều 38"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Nguyên tắc xử lý nhiễu có hại"
+   },
+   "text": {
+    "vi": "Điều 38. Nguyên tắc xử lý nhiễu có hại\n\n1. Cơ quan quản lý chuyên ngành tần số vô tuyến điện xử lý nhiễu có hại theo nguyên tắc sau đây:\n\na) Ưu tiên phát xạ vô tuyến điện trong độ rộng băng tần cần thiết đối với đài vô tuyến điện, hạn chế ở mức thấp nhất phát xạ vô tuyến điện không mong muốn;\n\nb) Ưu tiên nghiệp vụ chính hơn nghiệp vụ phụ trong việc thay đổi tần số vô tuyến điện hoặc các tham số kỹ thuật phát sóng để xử lý nhiễu có hại;\n\nc) Yêu cầu tổ chức, cá nhân sử dụng đài vô tuyến điện gây nhiễu có hại áp dụng biện pháp thay đổi tần số vô tuyến điện, hạn chế công suất phát, thay đổi chiều cao, phân cực, đặc tính hướng của ăng-ten phát, phân chia lại thời gian làm việc và các biện pháp cần thiết khác đối với đài vô tuyến điện gây nhiễu để khắc phục nhiễu;\n\nd) Yêu cầu tổ chức, cá nhân sử dụng thiết bị điện, điện tử, thiết bị ứng dụng sóng vô tuyến điện gây nhiễu có hại thực hiện các biện pháp để loại bỏ nhiễu;\n\nđ) Yêu cầu tổ chức, cá nhân sử dụng thiết bị điện, điện tử, thiết bị ứng dụng sóng vô tuyến điện ngừng sử dụng các thiết bị này nếu gây nhiễu có hại cho thông tin vô tuyến dẫn đường, an toàn, tìm kiếm, cứu hộ, cứu nạn, quốc phòng, an ninh cho đến khi đã khắc phục được nhiễu có hại;\n\ne) Tổ chức, cá nhân gây nhiễu do không thực hiện đúng quy định của giấy phép phải chịu chi phí cho việc chuyển đổi tần số vô tuyến điện, chuyển đổi thiết bị vô tuyến điện, xử lý nhiễu có hại; nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật;\n\ng) Tổ chức, cá nhân sử dụng thiết bị vô tuyến điện gây nhiễu có hại vi phạm pháp luật về tần số vô tuyến điện phải khắc phục nhiễu có hại và bị xử lý theo quy định của pháp luật.\n\n2. Tổ chức, cá nhân đề nghị cơ quan quản lý chuyên ngành tần số vô tuyến điện giải quyết nhiễu có hại phải cung cấp đầy đủ thông tin về nhiễu có hại; nếu cung cấp thông tin, chứng cứ giả thì bị xử lý theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H529-A39",
+   "no": 39,
+   "noLabel": {
+    "vi": "Điều 39"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Thủ tục xử lý nhiễu có hại"
+   },
+   "text": {
+    "vi": "Điều 39. Thủ tục xử lý nhiễu có hại\n\n1. Tổ chức, cá nhân được cấp giấy phép sử dụng tần số vô tuyến điện khi bị nhiễu có hại phải thực hiện các thủ tục sau đây để xử lý:\n\na) Thông báo về nhiễu có hại cho cơ quan quản lý chuyên ngành tần số vô tuyến điện;\n\nb) Thực hiện theo hướng dẫn của cơ quan quản lý chuyên ngành tần số vô tuyến điện để xác định nguồn gây nhiễu, nguyên nhân gây nhiễu và thực hiện các biện pháp để xử lý nhiễu có hại.\n\n2. Trong khi tìm nguyên nhân gây nhiễu có hại, cơ quan quản lý chuyên ngành tần số vô tuyến điện có quyền và trách nhiệm:\n\na) Đo trực tiếp thông số kỹ thuật của thiết bị vô tuyến điện hoặc thiết bị điện, điện tử, thiết bị ứng dụng sóng vô tuyến điện có thể là nguyên nhân gây nhiễu có hại;\n\nb) Yêu cầu tạm dừng việc khai thác thiết bị vô tuyến điện hoặc thiết bị điện, điện tử, thiết bị ứng dụng sóng vô tuyến điện để xác định chính xác nguồn gây nhiễu có hại trong trường hợp cần thiết;\n\nc) Hạn chế ảnh hưởng tới sự vận hành bình thường của thiết bị vô tuyến điện trong quá trình đo trực tiếp hoặc tạm dừng việc khai thác thiết bị để tìm nguyên nhân gây nhiễu có hại.\n\n3. Tổ chức, cá nhân sử dụng tần số và thiết bị vô tuyến điện trong khu vực nhiễu có hại có trách nhiệm phối hợp với cơ quan quản lý chuyên ngành tần số vô tuyến điện và tạo điều kiện thuận lợi cho việc phát hiện nguồn nhiễu nhanh chóng, chính xác và xử lý nhiễu có hiệu quả.\n\n4. Tổ chức, cá nhân sở hữu thiết bị gây nhiễu có hại phải tiến hành sửa chữa, cải thiện tính năng, dừng hoạt động của thiết bị gây nhiễu có hại và các biện pháp khác theo yêu cầu của cơ quan quản lý chuyên ngành tần số vô tuyến điện để bảo đảm chấm dứt việc gây nhiễu có hại."
+   }
+  },
+  {
+   "id": "VN-H529-A40",
+   "no": 40,
+   "noLabel": {
+    "vi": "Điều 40"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Hành lang an toàn kỹ thuật của đài vô tuyến điện"
+   },
+   "text": {
+    "vi": "Điều 40. Hành lang an toàn kỹ thuật của đài vô tuyến điện\n\n1. Hành lang an toàn kỹ thuật của đài vô tuyến điện là khoảng không gian cần thiết theo hướng thu, phát để bảo đảm tính năng hoạt động bình thường của đài vô tuyến điện.\n\n2. Bộ trưởng Bộ Thông tin và Truyền thông chủ trì phối hợp với Bộ trưởng Bộ Xây dựng, Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an ban hành quy định về hành lang an toàn kỹ thuật của đài vô tuyến điện; ban hành Danh sách đài vô tuyến điện có hành lang an toàn kỹ thuật được bảo đảm kèm theo địa chỉ, địa điểm lắp đặt.\n\nChương VI\n\nĐĂNG KÝ, PHỐI HỢP QUỐC TẾ VỀ TẦN SỐ VÔ TUYẾN ĐIỆN, QUỸ ĐẠO VỆ TINH"
+   }
+  },
+  {
+   "id": "VN-H529-A41",
+   "no": 41,
+   "noLabel": {
+    "vi": "Điều 41"
+   },
+   "chapter": {
+    "vi": "Chương VI"
+   },
+   "heading": {
+    "vi": "Các trường hợp đăng ký, phối hợp quốc tế về tần số vô tuyến điện, quỹ đạo vệ tinh"
+   },
+   "text": {
+    "vi": "Điều 41. Các trường hợp đăng ký, phối hợp quốc tế về tần số vô tuyến điện, quỹ đạo vệ tinh\n\nTổ chức sử dụng tần số vô tuyến điện phải tham gia thực hiện việc đăng ký, phối hợp quốc tế về tần số vô tuyến điện, quỹ đạo vệ tinh trong các trường hợp sau đây:\n\n1. Sử dụng tần số và thiết bị vô tuyến điện có khả năng gây nhiễu có hại cho nghiệp vụ vô tuyến điện của quốc gia khác;\n\n2. Sử dụng tần số vô tuyến điện cho hệ thống thông tin vô tuyến điện quốc tế;\n\n3. Sử dụng tần số vô tuyến điện đã được tổ chức quốc tế phân bổ cho các quốc gia;\n\n4. Sử dụng tần số vô tuyến điện thuộc các trường hợp phải thực hiện việc phối hợp quốc tế về tần số vô tuyến điện theo thoả thuận quốc tế, điều ước quốc tế mà Cộng hoà xã hội chủ nghĩa Việt Nam là thành viên;\n\n5. Có nhu cầu được bảo vệ để không bị nhiễu có hại từ hệ thống thông tin vô tuyến điện từ các quốc gia khác."
+   }
+  },
+  {
+   "id": "VN-H529-A42",
+   "no": 42,
+   "noLabel": {
+    "vi": "Điều 42"
+   },
+   "chapter": {
+    "vi": "Chương VI"
+   },
+   "heading": {
+    "vi": "Đăng ký, phối hợp quốc tế về tần số vô tuyến điện và quỹ đạo vệ tinh cho hệ thống vệ tinh"
+   },
+   "text": {
+    "vi": "Điều 42. Đăng ký, phối hợp quốc tế về tần số vô tuyến điện và quỹ đạo vệ tinh cho hệ thống vệ tinh\n\n1. Việc đăng ký, phối hợp quốc tế về tần số vô tuyến điện và quỹ đạo vệ tinh cho hệ thống vệ tinh được thực hiện theo quy định của Liên minh Viễn thông quốc tế.\n\n2. Bộ Thông tin và Truyền thông có trách nhiệm:\n\na) Kiểm tra tính hợp lệ của hồ sơ đăng ký tần số vô tuyến điện và quỹ đạo vệ tinh thực hiện đăng ký với Liên minh Viễn thông quốc tế;\n\nb) Tổ chức việc phối hợp tần số vô tuyến điện và quỹ đạo vệ tinh với cơ quan quản lý tần số vô tuyến điện của các quốc gia theo quy định của Liên minh Viễn thông quốc tế;\n\nc) Phê duyệt kết quả phối hợp tần số vô tuyến điện và quỹ đạo vệ tinh theo quy định tại Điều 44 của Luật này.\n\n3. Tổ chức sử dụng tần số vô tuyến điện và quỹ đạo vệ tinh có trách nhiệm:\n\na) Thực hiện các quy định về đăng ký, phối hợp quốc tế về tần số vô tuyến điện và quỹ đạo vệ tinh của Luật này và điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên;\n\nb) Trực tiếp phối hợp tần số vô tuyến điện với tổ chức nước ngoài theo quy định tại Điều 44 của Luật này;\n\nc) Tham gia phối hợp tần số vô tuyến điện và quỹ đạo vệ tinh với cơ quan quản lý tần số vô tuyến điện của các quốc gia do Bộ Thông tin và Truyền thông chủ trì;\n\nd) Nộp phí đăng ký tần số vô tuyến điện và quỹ đạo vệ tinh theo quy định của Liên minh Viễn thông quốc tế;\n\nđ) Thực hiện các biện pháp cần thiết để xử lý nhiễu có hại với hệ thống vệ tinh khác theo quy định của Liên minh Viễn thông quốc tế."
+   }
+  },
+  {
+   "id": "VN-H529-A43",
+   "no": 43,
+   "noLabel": {
+    "vi": "Điều 43"
+   },
+   "chapter": {
+    "vi": "Chương VI"
+   },
+   "heading": {
+    "vi": "Đăng ký, phối hợp quốc tế về tần số vô tuyến điện cho hệ thống thông tin vô tuyến điện mặt đất"
+   },
+   "text": {
+    "vi": "Điều 43. Đăng ký, phối hợp quốc tế về tần số vô tuyến điện cho hệ thống thông tin vô tuyến điện mặt đất\n\n1. Bộ Thông tin và Truyền thông có trách nhiệm:\n\na) Tổ chức việc phối hợp quốc tế về tần số vô tuyến điện với các quốc gia có chung đường biên giới với Việt Nam;\n\nb) Tổ chức việc phối hợp quốc tế về tần số vô tuyến điện với các quốc gia theo quy định của Liên minh Viễn thông quốc tế;\n\nc) Kiểm tra tính hợp lệ của hồ sơ đăng ký tần số vô tuyến điện, thực hiện đăng ký với Liên minh Viễn thông quốc tế;\n\nd) Phê duyệt kết quả phối hợp quốc tế về tần số vô tuyến điện theo quy định tại Điều 44 của Luật này.\n\n2. Tổ chức sử dụng tần số vô tuyến điện có trách nhiệm:\n\na) Thực hiện quy định của pháp luật về đăng ký, phối hợp quốc tế về tần số vô tuyến điện;\n\nb) Trực tiếp phối hợp tần số vô tuyến điện với tổ chức nước ngoài theo quy định tại Điều 44 của Luật này;\n\nc) Tham gia phối hợp tần số vô tuyến điện với cơ quan quản lý tần số vô tuyến điện của các quốc gia do Bộ Thông tin và Truyền thông chủ trì;\n\nd) Nộp phí đăng ký tần số vô tuyến điện theo quy định của Liên minh Viễn thông quốc tế;\n\nđ) Thực hiện các biện pháp cần thiết để xử lý nhiễu có hại với hệ thống thông tin vô tuyến điện của các quốc gia theo quy định của Liên minh Viễn thông quốc tế."
+   }
+  },
+  {
+   "id": "VN-H529-A44",
+   "no": 44,
+   "noLabel": {
+    "vi": "Điều 44"
+   },
+   "chapter": {
+    "vi": "Chương VI"
+   },
+   "heading": {
+    "vi": "Phối hợp tần số vô tuyến điện, quỹ đạo vệ tinh trực tiếp với tổ chức sử dụng tần số vô tuyến điện, quỹ đạo vệ tinh của nước ngoài"
+   },
+   "text": {
+    "vi": "Điều 44. Phối hợp tần số vô tuyến điện, quỹ đạo vệ tinh trực tiếp với tổ chức sử dụng tần số vô tuyến điện, quỹ đạo vệ tinh của nước ngoài\n\n1. Tổ chức sử dụng tần số vô tuyến điện, quỹ đạo vệ tinh quy định tại Điều 41 của Luật này trực tiếp phối hợp với tổ chức sử dụng tần số vô tuyến điện, quỹ đạo vệ tinh của nước ngoài khi được phép của Bộ Thông tin và Truyền thông.\n\n2. Việc phối hợp tần số vô tuyến điện, quỹ đạo vệ tinh với tổ chức sử dụng tần số vô tuyến điện, quỹ đạo vệ tinh của nước ngoài phải bảo đảm lợi ích quốc gia và phù hợp với quy định của Liên minh Viễn thông quốc tế.\n\n3. Kết quả phối hợp tần số vô tuyến điện, quỹ đạo vệ tinh có hiệu lực khi được Bộ Thông tin và Truyền thông phê duyệt.\n\nChương VII\n\nQUẢN LÝ VÀ SỬ DỤNG TẦN SỐ VÔ TUYẾN ĐIỆN PHỤC VỤ MỤC ĐÍCH QUỐC PHÒNG, AN NINH"
+   }
+  },
+  {
+   "id": "VN-H529-A45",
+   "no": 45,
+   "noLabel": {
+    "vi": "Điều 45"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {
+    "vi": "Phân bổ tần số vô tuyến điện phục vụ mục đích quốc phòng, an ninh"
+   },
+   "text": {
+    "vi": "Điều 45. Phân bổ tần số vô tuyến điện phục vụ mục đích quốc phòng, an ninh\n\n1. Bộ Thông tin và Truyền thông chủ trì phối hợp với Bộ Quốc phòng, Bộ Công an đề xuất việc phân bổ tần số vô tuyên điện phục vụ mục đích quốc phòng, an ninh trong từng thời kỳ trên cơ sở Quy hoạch phổ tần số vô tuyến điện quốc gia trình\n\n2. Trường hợp Bộ Quốc phòng, Bộ Công an có nhu cầu sử dụng tần số vô tuyến điện cho mục đích quốc phòng, an ninh ngoài các tần số vô tuyến điện đã được phân bổ riêng thì phải có sự đồng ý của Bộ Thông tin và Truyền thông.\n\n3. Trường hợp có tình huống ảnh hưởng trực tiếp đến chủ quyền, an ninh quốc gia, Bộ Quốc phòng, Bộ Công an được phép sử dụng tần số vô tuyến điện ngoài các tần số vô tuyến điện đã được phân bổ cho mục đích quốc phòng, an ninh và thông báo cho Bộ Thông tin và Truyền thông."
+   }
+  },
+  {
+   "id": "VN-H529-A46",
+   "no": 46,
+   "noLabel": {
+    "vi": "Điều 46"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {
+    "vi": "Quản lý, sử dụng tần số vô tuyến điện phục vụ mục đích quốc phòng, an ninh"
+   },
+   "text": {
+    "vi": "Điều 46. Quản lý, sử dụng tần số vô tuyến điện phục vụ mục đích quốc phòng, an ninh\n\n1. Bộ Quốc phòng, Bộ Công an có trách nhiệm:\n\na) Quy định việc quản lý, sử dụng tần số vô tuyến điện được phân bổ phục vụ mục đích quốc phòng, an ninh, bảo đảm sử dụng hiệu quả, tiết kiệm, đúng mục đích tần số vô tuyến điện được phân bổ, phù hợp với Quy hoạch phổ tần số vô tuyến điện quốc gia;\n\nb) Xây dựng và áp dụng tiêu chuẩn về thiết bị vô tuyến điện, phát xạ vô tuyến điện và tương thích điện từ trong hoạt động sử dụng tần số vô tuyến điện phục vụ mục đích quốc phòng, an ninh, bảo đảm phù hợp với quy chuẩn kỹ thuật quốc gia tương ứng;\n\nc) Cấp, sửa đổi, bổ sung, gia hạn, thu hồi giấy phép sử dụng tần số vô tuyến điện, Chứng chỉ vô tuyến điện viên trong lĩnh vực quốc phòng, an ninh;\n\nd) Kiểm tra, kiểm soát tần số vô tuyến điện, xử lý nhiễu có hại; thanh tra, giải quyết khiếu nại, tố cáo và xử lý vi phạm pháp luật về tần số vô tuyến điện trong lĩnh vực quốc phòng, an ninh;\n\nđ) Chỉ định cơ quan chuyên trách quản lý tần số vô tuyến điện chịu trách nhiệm tham mưu giúp Bộ trưởng tổ chức quản lý, kiểm tra, kiểm soát tần số vô tuyến điện được phân bổ phục vụ mục đích quốc phòng, an ninh.\n\n2. Bộ Thông tin và Truyền thông chủ trì phối hợp với Bộ Quốc phòng, Bộ Công an xây dựng cơ chế phối hợp sau đây:\n\na) Quản lý, sử dụng các băng tần dùng chung cho mục đích quốc phòng, an ninh, kinh tế - xã hội;\n\nb) Xử lý nhiễu có hại giữa đài vô tuyến điện phục vụ kinh tế - xã hội với đài vô tuyến điện phục vụ mục đích quốc phòng, an ninh;\n\nc) Sử dụng tần số vô tuyến điện ngoài các tần số vô tuyến điện được phân bổ trong trường hợp khẩn cấp về quốc phòng, an ninh."
+   }
+  },
+  {
+   "id": "VN-H529-A47",
+   "no": 47,
+   "noLabel": {
+    "vi": "Điều 47"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {
+    "vi": "Quản lý và sử dụng thiết bị gây nhiễu"
+   },
+   "text": {
+    "vi": "Điều 47. Quản lý và sử dụng thiết bị gây nhiễu\n\n1. Bộ Quốc phòng, Bộ Công an được sử dụng thiết bị gây nhiễu để thực hiện nhiệm vụ bảo vệ Tổ quốc, phòng ngừa, ngăn chặn, đấu tranh làm thất bại hoạt động xâm phạm an ninh quốc gia, trật tự, an toàn xã hội. Cơ quan, tổ chức không thuộc Bộ Quốc phòng, Bộ Công an, trong trường hợp đặc biệt cần thiết sử dụng thiết bị gây nhiễu phải được\n\n2. Cơ quan, tổ chức quy định tại khoản 1 Điều này khi sử dụng thiết bị gây nhiễu phải thực hiện các quy định về quản lý và sử dụng thiết bị gây nhiễu.\n\n3. Thủ tướng Chính phủ quy định chi tiết việc quản lý và sử dụng thiết bị gây nhiễu.\n\nChương VIII\n\nĐIỀU KHOẢN THI HÀNH"
+   }
+  },
+  {
+   "id": "VN-H529-A48",
+   "no": 48,
+   "noLabel": {
+    "vi": "Điều 48"
+   },
+   "chapter": {
+    "vi": "Chương VIII"
+   },
+   "heading": {
+    "vi": "Hiệu lực thi hành"
+   },
+   "text": {
+    "vi": "Điều 48. Hiệu lực thi hành\n\n1. Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2010.\n\n2. Các quy định về tần số vô tuyến điện của Pháp lệnh bưu chính, viễn thông số 43/2002/PL-UBTVQH10 hết hiệu lực kể từ ngày Luật này có hiệu lực."
+   }
+  },
+  {
+   "id": "VN-H529-A49",
+   "no": 49,
+   "noLabel": {
+    "vi": "Điều 49"
+   },
+   "chapter": {
+    "vi": "Chương VIII"
+   },
+   "heading": {
+    "vi": "Quy định chi tiết và hướng dẫn thi hành"
+   },
+   "text": {
+    "vi": "Điều 49. Quy định chi tiết và hướng dẫn thi hành\n\nChính phủ và các cơ quan có thẩm quyền quy định chi tiết và hướng dẫn thi hành các điều, khoản được giao trong Luật; hướng dẫn những nội dung cần thiết khác của Luật này để đáp ứng yêu cầu quản lý nhà nước.\n\nLuật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá XII, kỳ họp thứ 6 thông qua ngày 23 tháng 11 năm 2009./.\n\n CHỦ TỊCH QUỐC HỘI\n\n (Đã ký)\n\n Nguyễn Phú Trọng\n\n1:{\"id\":\"23856\",\"docType\":{\"id\":\"11025e19-2dd6-4165-85ad-ab6241186a1a\",\"name\":\"Luật\",\"code\":\"Lu\",\"parentCode\":\"VBQPPL\",\"parentName\":null},\"docGroup\":\"VBQPPL\",\"docNum\":\"42/2009/QH12\",\"title\":\"Luật Tần số vô tuyến điện số 42/2009/QH12\",\"applicationNote\":null,\"issueDate\":\"2009-11-23T00:00:00\",\"effFrom\":\"2010-07-01T00:00:00\",\"effTo\":null,\"publicDate\":null,\"effStatus\":{\"id\":\"9c20e89d-e048-4f3a-b6c2-df87fe0b1ada\",\"name\":\"Hết hiệu lực một phần\",\"code\":\"HHL1P\",\"parentCode\":null,\"parentName\":null},\"status\":\"Publish\",\"lang\":\"vi\",\"defaultLanguage\":\"VN\",\"updatedBy\":\"System Account\",\"updatedDate\":\"2026-05-08T19:09:26\",\"agencyName\":\"Quốc hội\",\"organization\":{\"id\":\"94e7dd4f-5655-4249-b6d2-f58d1a0d6cb4\",\"code\":\"BKHVCN\",\"name\":\"Bộ Khoa học và Công nghệ\",\"nameEn\":\"Minister of Science and Technology\",\"shortName\":\"BKHVCN\",\"orgType\":\"0\"},\"isLw\":true,\"documentContent\":{\"id\":\"23856\",\"title\":null,\"content\":\"$2\"},\"documentContentEn\":null,\"documentContentFileName\":null,\"documentContentFileDocName\":null,\"documentIssues\":[{\"id\":\"211f59fb-3cfd-4c38-948f-c281b9bd2484\",\"agencyId\":\"55\",\"agencyName\":\"Quốc hội\",\"agencyNameEn\":\"National Assembly of Vietnam\",\"agencyCode\":\"QH\",\"personId\":\"119\",\"personName\":\"Nguyễn Phú Trọng\",\"jobTitleId\":\"28da0087-8afd-420c-875c-b2369e212c3e\",\"jobTitleCode\":\"CTQH\",\"jobTitleName\":\"Chủ tịch Quốc hội\",\"orderIndex\":1}],\"documentMajors\":[{\"id\":\"58\",\"name\":\"Thông tin và Truyền thông\",\"code\":null,\"parentCode\":null,\"parentName\":null}],\"documentFields\":[{\"id\":\"76e2c0d5-e93e-4ee9-8c72-59dae1167432\",\"name\":\"Chưa phân loại\",\"code\":null,\"parentCode\":null,\"parentName\":null}],\"documentRelatedList\":[{\"id\":\"e5d8d5c2-9785-4f19-afd0-e88d4e37c1fd\",\"fileName\":\"23856_body_content.html\",\"relatedType\":\"MARKDOWN\",\"fileTitle\":\"23856_body_content.html\",\"fileOrder\":null},{\"id\":\"fb643fa5-4242-4a23-9d82-660a677f623f\",\"fileName\":\"L42QH.zip\",\"relatedType\":\"MARKDOWN\",\"fileTitle\":\"L42QH.zip\",\"fileOrder\":null}],\"provisionTree\":null,\"references\":null,\"isEffectAllDocument\":false,\"isOld\":true,\"reviewStatus\":\"RV_DONE\",\"reviewed\":true,\"isTranslationDoc\":false,\"isConsolidatedDocument\":false,\"isConstitutionDocument\":false,\"isAdministrativeDocument\":false,\"viewCount\":104,\"showViewCount\":true,\"hasContent\":true,\"hasOriginalPdf\":null,\"hasAIProcessed\":false,\"hasClauseRelation\":true,\"aiResults\":[]}"
+   }
+  }
+ ]
+}

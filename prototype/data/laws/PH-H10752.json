@@ -1,0 +1,82 @@
+{
+ "id": "PH-H10752",
+ "title": {
+  "zh": null,
+  "en": "AN ACT AUTHORIZING AND DIRECTING THE CONSTRUCTION OF A WAREHOUSE ON THE CUSTOM-HOUSE GROUNDS, MANILA, AND THE GRADING AND PAVING OF A CERTAIN PART OF THOSE GROUNDS.",
+  "orig": "AN ACT AUTHORIZING AND DIRECTING THE CONSTRUCTION OF A WAREHOUSE ON THE CUSTOM-HOUSE GROUNDS, MANILA, AND THE GRADING AND PAVING OF A CERTAIN PART OF THOSE GROUNDS."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 39",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 1151,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_00039_1900_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_00039_1900_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H10752-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The Military Governor is authorized and directed to construct a warehouse on the grounds of the\ncustom-house, Manila, extending along Calle Numancia, Calle de Urbiztondo and Custom-House Road, in\naccordance with the plans entitled, \"New bodega for the custom-house at Manila, P. I.,\" with the\naccompanying specifications, issued from the office of the assistant chief quartermaster, Manila, October\ntwenty-second, nineteen hundred."
+   }
+  },
+  {
+   "id": "PH-H10752-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The Military Governor is authorized and directed to grade and pave that part of the custom-house\ngrounds lying between the outer line of the proposed warehouse and the streets along which it extends."
+   }
+  },
+  {
+   "id": "PH-H10752-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "The work hereinbefore authorized and directed shall be done by contract to be awarded to the\nlowest responsible bidder, after bids have been invited by public advertisement. Authority is hereby given to\nthe Military Governor to reject and and all bids; Provided, however, That should no satisfactory bid be\nreceived in public competition, he is authorized to let the work by private contract, or to do the work by\ngovernment employees without contract."
+   }
+  },
+  {
+   "id": "PH-H10752-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, October 31, 1900."
+   }
+  }
+ ]
+}

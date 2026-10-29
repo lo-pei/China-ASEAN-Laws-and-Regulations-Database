@@ -1,0 +1,72 @@
+{
+ "id": "PH-H22115",
+ "title": {
+  "zh": null,
+  "en": "Appropriating Funds for the Reclamation of the Dagat-Dagatan Lagoon in the Province of Rizal",
+  "orig": "Appropriating Funds for the Reclamation of the Dagat-Dagatan Lagoon in the Province of Rizal"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1975-05-19",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 706",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 676,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_00706_1975_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_00706_1975_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22115-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The amount of One Hundred Twenty Million Pesos (P120,000,000.00), or so much thereof as\nmay be necessary, is hereby appropriated out of the general fund in the National Treasury not otherwise\nappropriated for the reclamation of the Dagat-Dagatan project in the Province of Rizal in connection with the\nestablishment of a harmonious, comprehensive, integrated and healthy living community in the area."
+   }
+  },
+  {
+   "id": "PH-H22115-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The appropriation herein authorized shall be understood to cover the cost of acquisition\nequipment including motor vehicles."
+   }
+  },
+  {
+   "id": "PH-H22115-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Decree shall take effect immediately.\nDone in the City of Manila, this 19th day of May, in the year of Our Lord, nineteen hundred and seventy-five."
+   }
+  }
+ ]
+}

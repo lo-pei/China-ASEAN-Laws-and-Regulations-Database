@@ -1,0 +1,142 @@
+{
+ "id": "PH-H21080",
+ "title": {
+  "zh": null,
+  "en": "MALACAÑANG BY THE PRESIDENT OF THE PHILIPPINES INSTITUTIONALIZING THE CERTIFICATION SCHEME FOR DIGITAL SIGNATURES AND DIRECTING THE APPLICATION OF DIGITAL SIGNATURES IN E-GOVERNMENT SERVICES",
+  "orig": "MALACAÑANG BY THE PRESIDENT OF THE PHILIPPINES INSTITUTIONALIZING THE CERTIFICATION SCHEME FOR DIGITAL SIGNATURES AND DIRECTING THE APPLICATION OF DIGITAL SIGNATURES IN E-GOVERNMENT SERVICES"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p159",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Executive Order No. 810",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 10,
+ "chars": 13402,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/07_行政命令_EO/EO_00810_2009.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 10 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 EO_00810_2009.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H21080-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Adopting a Framework for National Certification Scheme for\nDigital Signatures. A National Certification Scheme for Digital Signatures in the\nPhilippines, as it appears in Annex A, is hereby adopted."
+   }
+  },
+  {
+   "id": "PH-H21080-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Guidelines to Implement the National Certification Scheme\nfor Digital Signatures in the Philippines. The Department of Trade and Industry\n(DTI) shall, by virtue of its mandate under the Electronic Commerce Act, issue the\nnecessary guidelines to implement the National Certification Scheme for Digital\nSignatures in the Philippines.\nDesignation of Government Agencies and Functions. The\nfollowing agencies are hereby designated to perform the necessary services under the\ncertification scheme:\na) Root Certification Authority (CA). The National Computer Center (NCC)\nunder the Commission on Information and Communications Technology (CICT) is\nhereby designated to operate the Root CA. As such, it shall perform the\nfollowing functions:\n1. operate the Root CA system;\n2. issue and manage certificates to accredited government and private CAs;\n3. develop and prescribe technical standards for digital signatures in collaboration\nwith the Bureau of Product Standards of the Department of Trade and Industry\n4. develop certification technology;\n5. ensure interoperability of digital certification technology;\n6. provide technical expertise in the conduct of assessment of CAs when necessary;\n7. support international cooperation on certification services including mutual\nrecognition and cross-certification;\n8. resolve disputes involving the issuance and use of digital certificates between\nconcerned parties.\nb) Government Certification Authority (CA). The CC is likewise designated to\noperate the Government CA. As such, it shall perform the following functions:\n1. issue certificates for all government transactions to government\nemployees/entities and specific purpose certificates to private individuals/entities;\n2. publish certificates and Certificate Revocation List (CRL);\n3. handle revocation requests from the owners of the certificates it has issued.\nc) Registration Authority (RA).\nGovernment agencies and instrumentalities\nproviding -government services to its clients shall perform the following\nfunctions as RA:\n1. identify the user and register the user information;\n2. transmit certificate request to government CA;\n3. validate certificates from the CA directory server and CRL;\n4. request revocation of certificates.\nPGA Hologram # 49220\n49220\n2\n\nd) Accreditation and Assessment Body. The Department of Trade and Industry\n(DTI), through its Philippine Accreditation Office (PAO), is hereby designated as\nthe accreditation and assessment body for CAs pursuant to its mandate and in\naccordance with the provisions of the E-Commerce Act. As such, DTI shall\nperform the following functions:\n1. Issue the necessary criteria and guidelines for accreditation of CAs to ensure\nsecurity and interoperability of systems and certificates, as well as compliance\nwith the prescribed standards for digital signatures;\n2. Accredit CAs, whether government or private, according to the prescribed criteria\nand guidelines for accreditation;\n3. Conduct regular assessment of CAs to ensure compliance to existing criteria,\nguidelines and standards;\n4. Revoke or suspend the license of a CA for failure to comply with prescribed\nguidelines and standards;\n5. Create an Advisory Committee which shall provide direction and advice on the\nformulation of policies pertaining to the scheme for accreditation and assessment\n6. Create other committees to perform such other functions as may be determined\nindispensable and necessary to efficiently, effectively and expediently pursue the\nduties defined under this sub-section."
+   }
+  },
+  {
+   "id": "PH-H21080-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "Application of Digital Signatures in E-Government Services. All\ngovernment agencies and instrumentalities providing electronic services to its clients\nshall require the use of digital signatures in their respective -government services to\nensure confidentiality, authenticity, integrity and non-repudiation of electronic\ntransactions in government. Such projects shall be included in the Information Systems\nStrateqic Plan (ISSP) which government agencies are required to submit to NCC-CICT for\napproval and endorsement to the Department of Budget and Management (DBM) .\nThe NCC-CICT shall plan, direct and monitor the implementation of this provision\nin government. Accordingly, it shall assist concerned agencies designated as RA to\nensure the smooth implementation of the system.\nWithin three (3) months from the issuance of this Order, NCC-CICT shall submit\nto the Office of the President the implementation plan including timetable and required\nresources to implement this Order. The plan shall identify priority government agencies\nand instrumentalities and the respective e-government services that will be required to\ncomply within two (2) years from the issuance of this Order. Other government\nagencies and instrumentalities shall be given three (3) years to comply with this Order."
+   }
+  },
+  {
+   "id": "PH-H21080-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "text": {
+    "en": "Funding and Manpower. To fast-track the implementation of this\nOrder, CICT is hereby directed to prioritize projects of government agencies which are\napplying for funding under the E-government Fund for projects that will immediately\napply the use of digital signatures in their respective e-government services. Such\n3\n4922\nPGMA Hologram # 49221\n\nproiects remain subiect to the requirements of the E-government Fund and must be\nidentified in the agencies' NCC-approved ISSP.\nAll government agencies and instrumentalities concerned shall submit its\nmanpower and budgetary requirements to the Department of Budget and Management\n(DBM) to implement this Order. The DBM is hereby directed to ensure that resources\nwill be appropriated in the regular budget of government agencies to implement this\nOrder in consultation with DTI and CICT."
+   }
+  },
+  {
+   "id": "PH-H21080-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "text": {
+    "en": "Application of Digital Signatures in ICT Systems in the\nPrivate Sector. In line with its mandate to promote electronic commerce in the\ncountry, the DTI shall promote the application of digital signatures in ICT systems in the\nprivate sector to ensure confidentiality, authenticity, integrity and non-repudiation of\nelectronic transactions with the private sector,\nGovernment agencies or entities exercising supervisory and regulatory functions\nover private services are hereby directed to study and identify critical services that use\nelectronic systems which require high levels of security for using and storing personal\ninformation and transactions, with the view of strictly requiring the use of digital\nsignatures in such services."
+   }
+  },
+  {
+   "id": "PH-H21080-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7"
+   },
+   "text": {
+    "en": "Fees. NCC, as Root CA and Government CA, is hereby authorized to\ncharge fees for the issuance of digital certificates guided by the universal concept of user\ncharges, which is to recover at least the full cost of services rendered. Similarly,\ngovernment agencies and instrumentalities performing the functions of A are\nauthorized to charge fees for services rendered. In exceptional cases, however,\ngovernment RAs may assume the cost of the digital certificates issued to subscribers\nsubject to its contractual arrangement with the Government CA. The imposition of new\nfees or increases thereafter shall be subiect to the provision of Memorandum Circular\nNo. 137, Series of 2007, and National Economic and Development Authority (NEDA)\nCircular No. 01-2007.\nThe costs of digital certificates issued directly by private Accredited CAs (ACAs) or\nthrough their respective RAs shall be market-determined, just and reasonable. Private\nRAs have the option to assume the costs of the certificates issued to subscribers\ndepending on its contractual arrangements with the ACA."
+   }
+  },
+  {
+   "id": "PH-H21080-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8"
+   },
+   "text": {
+    "en": "Dispute Resolution. Cases arising from (1) the accreditation of\nCAs; (2) the use and issuance of digital certificates; (3) issues necessarily included\ntherein; or (4) issues which include the same, shall be heard and resolved by the\nrespective agencies designated to perform the necessary services in accordance with the\nrules and regulations to be formulated for such purpose."
+   }
+  },
+  {
+   "id": "PH-H21080-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9"
+   },
+   "text": {
+    "en": "Transitory Provision. During the initial transitory period after the\nissuance of the Rules and Regulations to implement this Order, there shall be an interim\npersonnel complement to manage and operate the Root CA and Government CA and\nperform the functions of the respective RAs. Such personnel can either be on detail,\nreassignment or secondment subject to existing rules of the Civil Service Commission on\npersonnel movements.\n49222\n4\nPOMA Hologram # 49222\n\nDTI and CICT shall determine and recommend to DBM the most appropriate\nmode of complementing the manpower requirements for the implementation of this\nIn the interim, or until such time that a private ACA becomes operational, NCC\nshall assume the role of private ACA."
+   }
+  },
+  {
+   "id": "PH-H21080-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10"
+   },
+   "text": {
+    "en": "Repealing Clause. All issuances, orders, rules and regulations, or\nparts thereof, which are inconsistent with the provisions of this Executive Order, are\nhereby repealed, amended or modified accordingly."
+   }
+  },
+  {
+   "id": "PH-H21080-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11"
+   },
+   "text": {
+    "en": "Effectivity. This Order shall take effect immediately.\nDone in the City of Manila this 15th day of June\nLord, Two Thousand and Nine.\n,in the year of Our\nBy authority of the President:\nfiner th hung\nEDUARDO R. ERMITA\nExecutive Secretary\nPOMA Hologram # 49223\n5\n\nCERTIFICATION SCHEME FOR DIGITAL SIGNATURES\nAccreditation/\nAssessment Body\nPUBLIC SECTOR\nPRIVATE SECTOR\nGovernment CA\nRA Management\nRA Management\nSUBSCRIBERS*\nCertificates for Government Transactions\nSUBSCRIBERS**\nGeneral/Specific Purpose Certificates\n* Government employees/entities - certificates for all government transactions\nNon-government individuals/entities - certificates specific to a government transaction\n(specific purpose certificate)\n**Private individuals/entities and government employees\n6\n\nDEFINITION OF TERMS:\nAsymmetric or public cryptosystem - a system capable of generating a secure key\npair, consisting of a private key for creating a digital signature, and a public key for\nverifying the digital signature.\nAccreditation and Assessment Body - refers to the body that accredits the CAs and\nconducts regular assessment of such CAs to ensure compliance to prescribed criteria,\nguidelines and standards.\nCertificate - an electronic document issued to support a digital signature which\npurports to confirm the identity or other significant characteristics of the person who\nholds a particular key pair. Certificates issued may be for general use or for specific\nCertification Authority (CA) - issues digitally-signed public key certificates and attests\nthat the public key embedded in the certificate belongs to the particular subscriber as\nstated in the certificate. A CA may be involved in a number of administrative tasks such\nas end-user registration, although these tasks are often delegated to the Registration\nAuthority (RA). The CA may either be a government body or private entity.\nDigital Signature - refers to an electronic signature consisting of a transformation of an\nelectronic document or an electronic data message using an asymmetric or public\ncryptosystem, such that a person having the initial untransformed document and the\nsigner's public key can accurately determine: (i) whether the transformation was\ncreated using the private key that corresponds to the signer's public key; and (i)\nwhether the initial electronic document had been altered after the transformation was\nElectronic key - refers to a secret code which secures and defends sensitive\ninformation that crosses over public channels into a form decipherable only with a\nmatching electronic key.\nGeneral Purpose Certificate - a certificate which can be used for all government and\nprivate transactions.\nRegistration Authority (RA) - refers to a third-party used by the CA to perform\nadministrative tasks such as end-user registration. The RA may either be a government\nagency or private entity performing frontline services.\nRoot CA - issues and manages certificates to government and private CAs.\nSpecific Purpose Certificate - a certificate which can only be used for a specific\ntransaction.\nSubscriber - an individual or entity applying for and using digital certificates issued by\n\nThe DTI, which is the Accreditation/Assessment Body under this scheme, shall issue the\nimplementing guidelines and the criteria for the accreditation of the Root CA (NCC), the\nGovernment CA (NCC), and the private CA. The role of the Root CA is critical to ensure\nthe interoperability of systems among accredited CAs and cross-recognition of\ncertificates within and outside the country.\nThe Government CA will issue certificates to government employees and entities which\ncan be used for all government transactions. The Government CA can also issue\nspecific purpose certificates for a specific government transaction to private individuals\nand entities (e.g. private individual and corporate taxpayers) if they do not have a\ngeneral purpose certificate issued by a private ACA. In both cases, the Government CA\nwill issue the certificates through a government agency which shall function as RA.\nGovernment employees have to apply for general or specific purpose certificates from a\nprivate ACA for personal transactions with private entities.\nGeneral purpose certificates issued by a private ACA to private individuals and entities\ncan also be used for transactions with government. The private ACA may issue the\ncertificates directly to the subscriber or through a private entity which shall function as\n8"
+   }
+  }
+ ]
+}

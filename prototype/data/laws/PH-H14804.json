@@ -1,0 +1,72 @@
+{
+ "id": "PH-H14804",
+ "title": {
+  "zh": null,
+  "en": "An Act Authorizing An Additional Appropriation of One Hundred Thousand Pesos as Aid for the Establishment of New Elementary Classes.",
+  "orig": "An Act Authorizing An Additional Appropriation of One Hundred Thousand Pesos as Aid for the Establishment of New Elementary Classes."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1935-08-03",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 4213",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1019,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1935/act_4213_1935.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_04213_1935_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_04213_1935_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14804-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The sum of one hundred thousand pesos is hereby appropriated, out of any funds in the Insular\nTreasury not otherwise appropriated, for the salaries of teachers of new elementary classes in the barrio or\ncentral schools of the Philippine Islands."
+   }
+  },
+  {
+   "id": "PH-H14804-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The amount herein appropriated shall be distributed by the Director of Education with the\napproval of the Secretary of Public Instruction: Provided, That, any provision of the existing law to the\ncontrary notwithstanding, no unexpended balance of the amount appropriated herein for salaries of teachers\nshall be transferred to the credit of the Teachers' Pension and Disability Fund: And provided, further, That no\nmunicipality or city shall receive aid from this fund unless the barrio or poblacion where the new class is to be\nestablished meets the ordinary requirements of attendance and has on the date of the approval of this Act an\nadequate school site and a suitable building for holding classes."
+   }
+  },
+  {
+   "id": "PH-H14804-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, August 3, 1935."
+   }
+  }
+ ]
+}

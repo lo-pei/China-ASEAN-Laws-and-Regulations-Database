@@ -1,0 +1,72 @@
+{
+ "id": "PH-H12641",
+ "title": {
+  "zh": null,
+  "en": "An Act Providing for the Expenditure Within the Municipality Where Collected of At Least thirty Per Centum of the Additional Amount of the Cedula Tax in Provinces Whose Provincial Boards Shall Have Provided By that the Cedula Tax Be Increased in Accordance With Act Numbered Sixteen Hundred and Fifty-Two.",
+  "orig": "An Act Providing for the Expenditure Within the Municipality Where Collected of At Least thirty Per Centum of the Additional Amount of the Cedula Tax in Provinces Whose Provincial Boards Shall Have Provided By that the Cedula Tax Be Increased in Accordance With Act Numbered Sixteen Hundred and Fifty-Two."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1909-05-20",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 1932",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 560,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1909/act_1932_1909.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_01932_1909_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_01932_1909_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12641-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": ". Whenever, under the provisions of Act Numbered tie! en hundred and lifty-two the provincial\nboard of any province bby resolution for the increase of the cedula tax, it shall be the duty of the provincial\nboard to expend for the purposes mentioned in said Act Numbered Sixteen hundred and fifty-two within each\nmunicipality at least thirty per centum of the additional amount of cedula tax collected in that municipality."
+   }
+  },
+  {
+   "id": "PH-H12641-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "All Acts or parts of Acts inconsistent with this Act are hereby repealed."
+   }
+  },
+  {
+   "id": "PH-H12641-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, May 20, 1909."
+   }
+  }
+ ]
+}

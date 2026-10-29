@@ -1,9 +1,13 @@
 {
  "id": "KH-H2988",
  "title": {
-  "zh": "Law on the Patents，Utility Model Certificates and Industrial Design",
-  "en": "Law on the Patents, Utility Model Certificates and Industrial Design",
-  "orig": "Law on the Patents, Utility Model Certificates and Industrial Design"
+  "zh": "专利、实用新型证书与工业设计法",
+  "en": "Law on Patents, Utility Model Certificates and Industrial Designs",
+  "orig": "Law on the Patents, Utility Model Certificates and Industrial Design",
+  "vi": "Luật về Bằng độc quyền sáng chế, Chứng nhận giải pháp hữu ích và Kiểu dáng công nghiệp",
+  "th": "พระราชบัญญัติว่าด้วยสิทธิบัตร ใบรับรองแบบมีประโยชน์ และการออกแบบอุตสาหกรรม",
+  "id": "Undang-Undang tentang Paten, Sertifikat Model Kegunaan, dan Desain Industri",
+  "ms": "Akta mengenai Paten, Sijil Model Utiliti dan Reka Bentuk Industri"
  },
  "country": "KH",
  "countryName": "柬埔寨",
@@ -21,7 +25,7 @@
  "docNumber": null,
  "officialCode": null,
  "topics": [],
- "coverage": "full",
+ "coverage": "fragment",
  "structureMode": "WHOLE",
  "structure": null,
  "articleCount": 1,
@@ -32,8 +36,8 @@
  },
  "sourceFile": null,
  "fetchedAt": "2026-10-08",
- "completenessNote": "全文，共 1 条；经《东盟法律分类》归档原件重新校核切分，逐字未改写。",
- "textQuality": null,
+ "completenessNote": "全文，共 1 条；经《东盟法律分类》归档原件重新校核切分，逐字未改写；原件 PDF 无文本层，逐页仅有「无可提取文本层」说明，实际无正文；coverage 由 full 改为 fragment，待 OCR 补录。",
+ "textQuality": "no-text-layer",
  "ocrNoisySections": null,
  "pdfs": null,
  "duplicateOf": null,

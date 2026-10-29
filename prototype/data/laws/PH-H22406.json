@@ -1,0 +1,62 @@
+{
+ "id": "PH-H22406",
+ "title": {
+  "zh": null,
+  "en": "Amending Section Two of Presidential Decree Numbered Seven Hundred Seventy-Six",
+  "orig": "Amending Section Two of Presidential Decree Numbered Seven Hundred Seventy-Six"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1976-09-22",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 1024",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1420,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_01024_1976_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_01024_1976_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22406-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section Two of the Presidential Decree No. 776 is hereby amended to read as follows:\n\"SECTION 2. A Fiscal Incentives Review Board is hereby created for the purpose of determining what\nsubsidies and tax exemptions should be modified, withdrawn, revoked or suspended, which shall be composed\nof the following officials:\n\"Chairman- Secretary of Finance\nMembers- Secretary of Industry\n- Director General of the National Economic and Development Authority\n- Commissioner of Internal Revenue\n- Commissioner of Customs\n\"The Board may recommend to the President of the Philippines, for reasons of compatibility with the declared\neconomic policy, the withdrawal, modification, revocation or suspension of the enforceability of any of the\nabove-cited statutory subsidies or tax exemption grants, except those granted as expressly enumerated in\nSection 1 hereof. If approved by the President, such withdrawal, modification, revocation or suspension as\nrecommended by the Board shall be effected through the promulgation or issuance of appropriate decrees or\nexecutive orders. To attain its objectives, the Board may require the assistance of any appropriate government\nagency or entity. The Board shall meet once a month, or oftener, at the call of the Secretary of Finance.\""
+   }
+  },
+  {
+   "id": "PH-H22406-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Decree shall take effect immediately.\nDone in the City of Manila, this 22nd day of September in the year of Our Lord, nineteen hundred and\nseventy-six."
+   }
+  }
+ ]
+}

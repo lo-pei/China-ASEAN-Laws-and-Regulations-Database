@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13155",
+ "title": {
+  "zh": null,
+  "en": "An Act Authorizing E. Merrit to Bring Suit Against the Government of the Philippine Isands and Authorizing the Attorney-General of Said Islands to Appear in Said",
+  "orig": "An Act Authorizing E. Merrit to Bring Suit Against the Government of the Philippine Isands and Authorizing the Attorney-General of Said Islands to Appear in Said"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1915-02-03",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2457",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 647,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1915/act_2457_1915.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02457_1915_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02457_1915_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13155-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "E. Merrit is hereby authorized to bring suit in the Court of First Instance of the city of Manila\nagainst the Government of the Philippine Islands in order to fix the responsibility for the collision between his\nmotorcycle and the ambulance of the General Hospital, and to determine the amount of the damages, if any, to\nwhich Mr. E. Merrit is entitled on account of said collision, and the Attorney-General of the Philippine Islands\nis hereby authorized and directed to appear at the trial on the behalf of the Government of said Islands, to\ndefend said Government at the same."
+   }
+  },
+  {
+   "id": "PH-H13155-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, February 3, 1915."
+   }
+  }
+ ]
+}

@@ -1,0 +1,746 @@
+{
+ "id": "ID-H205",
+ "title": {
+  "zh": "海洋检疫法",
+  "en": "quarantine sea Law",
+  "id": "karantina laut",
+  "orig": "KARANTINA LAUT",
+  "vi": "Luật kiểm dịch biển",
+  "th": "พระราชบัญญัติ การกักกัน ทะเล",
+  "ms": "Akta karantina laut"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02c",
+ "language": "id",
+ "level": "law",
+ "category": "04_劳工与行政法",
+ "status": "active",
+ "promulgatedDate": "1962",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU9-1960",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 44,
+ "chars": 27539,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": null
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\04_劳工与行政法\\印尼_WLD_1962_KARANTINA LAUT.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 44 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H205-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 1.\na. Penyakit karantina ialah:\n(1) Pes (Plague);\n(2) Kolera (Cholera);\n(3) Demam kuning (Yellow fever);\n(4) Cacar (Smallpox);\n(5) Tifus bercak wabahi - Typhus exanthematicus infectiosa (Louse\nborne Typhus);\n(6) Demam balik-balik (Louse borne Relapsing fever);\nb. Masa tunas penyakit karantina ialah untuk:\n(1) Pes : enam hari;\n(2) Kolera : lima hari;\n(3) Demam kuning : enam hari;\n(4) Cacar : empat belas hari;\n(5) Tifus bercak wabahi : empat belas hari;\n(6) Demam balik-balik : delapan hari.\nc. Tindakan karantina : ialah tindakan-tindakan terhadap kapal\nbeserta isinya dan daerah pelabuhan untuk mencegah penjangkitan dan\npenjalaran penyakit karantina.\nd. Dalam karantina : ialah suatu keadaan kapal yang berada di\nsuatu tempat yang tertentu untuk dapat menyelenggarakan tindakan\nkarantina.\ne. Isyarat karantina : ialah isyarat menurut buku \"Peraturan\nIsyarat Internasional\".\nf. Pemeriksaan kesehatan : ialah pengunjungan dan pemeriksaan\nkesehatan oleh dokter pelabuhan dan/atau stafnya terhadap keadaan\nkapal\ndengan isinya.\ng. Wabah : ialah penjalaran atau penambahan banyaknya peristiwa\npenyakit karantina.\nh. Seorang terjangkit : ialah seorang yang menderita atau yang\ndianggap oleh dokter pelabuhan menderita penyakit karantina.\ni. Seorang tersangka : ialah seorang yang dianggap oleh dokter\npelabuhan telah mengalami kemungkinan ketularan suatu penyakit\nkarantina.\nj. Pelabuhan : ialah suatu daerah yang ditetapkan oleh\npemerintah sebagai tempat kapal berlabuh.\nk. Kapal : ialah semua alat pengangkut, juga termasuk kepunyaan\nAngkatan Bersenjata, yang dapat berlayar.\nl. Awak kapal : ialah para pegawai suatu kapal yang dipekerjakan\nuntuk bertugas di atasnya.\nm. Dokter pelabuhan : ialah dokter yang berwenang untuk\nmenjalankan Undang-undang ini.\nn. Isolasi : ialah pengasingan seseorang atau beberapa orang\ndari yang lain dalam suatu stasion karantina, rumah sakit atau\ntempat\nlain oleh dokter pelabuhan untuk mencegah penularan\npenyakit.\no. Pengawasan : ialah suatu tindakan karantina yang mewajibkan\nseseorang memenuhi syarat-syarat tertentu sehingga ia dapat\nmelanjutkan\nperjalanannya.\np. Surat keterangan kesehatan : ialah keterangan kesehatan yang\nharus diberikan kepada dokter pelabuhan oleh nakhoda mengenai\nkeadaan\nkesehatan di kapal yang memenuhi syarat- syarat\ninternasional."
+   }
+  },
+  {
+   "id": "ID-H205-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 2.\nUndang-undang ini bermaksud menolak dan mencegah masuk dan\nkeluarnya penyakit karantina dengan kapal.\nBAB II.\nPENETAPAN DAN PENCABUTAN PENETAPAN\nTERJANGKITNYA PELABUHAN."
+   }
+  },
+  {
+   "id": "ID-H205-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB II."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 3.\n(1) Menteri Kesehatan menetapkan dan mencabut penetapan suatu\npelabuhan dan/atau daerah wilayah Indonesia dan luar negeri\nterjangkit\nsuatu penyakit karantina.\n(2) Penetapan dan pencabutan yang dimaksudkan pada ayat (1)\ndiumumkan dalam Berita-Negara."
+   }
+  },
+  {
+   "id": "ID-H205-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB II."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 4.\n(1) Suatu pelabuhan dan/atau daerah wilayah Indonesia ditetapkan\nterjangkit penyakit karantina, bila di pelabuhan dan/atau daerah\nwilayah itu terdapat :\na. seorang penderita penyakit karantina yang bukan berasal dari\nluar pelabuhan atau daerah wilayah itu;\nb. tikus berpenyakit pes di daratan atau di kapal yang termasuk\nperlengkapan pelabuhan;\nc. binatang-binatang yang bertulang punggung yang mengandung virus\npenyakit demam kuning yang aktip;\nd. wabah tifus bercak wabahi atau demam balik-balik.\n(2) Suatu pelabuhan dan/atau daerah wilayah luar negeri ditetapkan\nterjangkit suatu penyakit karantina, bila terdapat :\na. keadaan seperti tersebut dalam ayat (1) a sampai dengan d,\nb. penetapan terjangkit oleh pemerintah yang bersangkutan."
+   }
+  },
+  {
+   "id": "ID-H205-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB II."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 5.\nPencabutan penetapan yang dimaksud didalam pasal 4 ayat (1)\ndilakukan :\na. setelah mereka yang menderita kolera, cacar, pes, tifus bercak\nwabahi, demam balik-balik sembuh kembali, meninggal dunia atau\ndiisolasikan selama waktu sekurang-kurangnya dua kali masa tunas\npenyakit-penyakit tersebut dan penyakit-penyakit itu tidak timbul\nkembali; dalam pada itu dijalankan segala tindakan yang memberikan\njaminan penyakit itu tidak menjalar kelain daerah;\nb. sebulan sesudah lenyap epizooti, dalam hal pes tikus;\nc. tiga bulan sesudah tidak timbul keaktipan penyakit demam kuning\nyang disebarkan oleh nyamuk yang bukan nyamuk aedes aegypti;\nd. tiga bulan sesudah lenyap penyakit demam kuning pada manusia\nyang disebarkan oleh nyamuk aedes aegypti atau sebulan sesudah\npenderita\nterakhir penyakit demam kuning, sedang dalam waktu itu\nangkat index aedes aegypti tetap kurang dari 1%."
+   }
+  },
+  {
+   "id": "ID-H205-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB II."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 6.\nDipelabuhan Indonesia, yang ditetapkan terjangkit penyakit\nkarantina, ditempatkan untuk kapal tanda-tanda karantina sebagai\nberikut\n:\na. pada siang hari; bendera Q (kuning);\nb. pada malam hari; dua lampu putih, yang satu ditempatkan diatas\nyang lain, dengan jarak dua meter yang tampak dari jarak dua\nmil.\nBAB III\nPENGGOLONGAN KAPAL."
+   }
+  },
+  {
+   "id": "ID-H205-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 7.\nTerhadap penyakit karantina kapal digolongkan dalam:\na. kapal sehat;\nb. kapal terjangkit;\nc. kapal tersangka."
+   }
+  },
+  {
+   "id": "ID-H205-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 8.\nPes.\n(1) Kapal ditetapkan terjangkit pes, jika :\na. pada waktu tiba dipelabuhan terdapat penderita pes atau\nterdapat tikus pes dikapal;\nb. lebih dari enam hari sesudah embarkasi terjadi peristiwa\npes.\n(2) Kapal ditetapkan tersangka pes, jika :\na. dalam enam hari sesudah embarkasi terjadi peristiwa pes,\nwalaupun pada waktu tiba tidak ada lagi seorang penderita dikapal\nitu;\nb. terdapat banyak kematian tikus didalamnya, yang\nmencurigakan.\n(3) Kapal yang tidak termasuk ayat (1) dan (2), ditetapkan sehat\nsetelah diperiksa, walaupun kapal itu datang atau dalam kapal itu\nterdapat orang yang datang dari suatu pelabuhan yang terjangkit\npes."
+   }
+  },
+  {
+   "id": "ID-H205-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 9.\nKolera.\n(1) Kapal ditetapkan terjangkit kolera, jika :\na. pada waktu tiba dipelabuhan terdapat penderita kolera\ndidalamnya;\nb. dalam lima hari sebelum tiba dipelabuhan terdapat penderita\nkolera didalamnya.\n(2) Kapal ditetapkan tersangka kolera, jika : selama perjalanan\nterdapat penderita kolera dikapal tetapi didalam lima hari sebelum\ntiba dipelabuhan tidak lagi terdapat penderita kolera\ndidalamnya.\n(3) Kapal yang tidak termasuk ayat (1) dan (2) ditetapkan sehat\nsetelah diperiksa, walaupun kapal itu datang atau dalam kapal itu\nterdapat orang yang datang dari suatu pelabuhan yang terjangkit\nkolera."
+   }
+  },
+  {
+   "id": "ID-H205-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 10.\nCacar.\n(1) Kapal ditetapkan terjangkit cacar, jika :\na. pada waktu tiba dipelabuhan terdapat penderita cacar\ndidalamnya;\nb. dalam perjalanan terdapat penderita cacar didalamnya.\n(2) Kapal yang tidak termasuk ayat (1) ditetapkan sehat setelah\ndiperiksa."
+   }
+  },
+  {
+   "id": "ID-H205-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 11.\nDemam kuning.\n(1) Kapal ditetapkan terjangkit demam kuning, jika :\na. pada waktu tiba dipelabuhan terdapat penderita demam kuning di\ndalamnya;\nb. didalam perjalanan terdapat peristiwa demam kuning\ndidalamnya;\n(2) Kapal ditetapkan tersangka demam kuning, jika :\na. kapal itu datang dari daerah terjangkit demam kuning dan\ndidalam waktu enam hari tiba dipelabuhan;\nb. kapal itu datang dari daerah terjangkit demam kuning dan\ndidalam waktu kurang dari tiga puluh hari tiba dipelabuhan terdapat\nnyamuk aedes aegypti didalamnya.\n(3) Kapal yang tidak termasuk ayat (1) dan (2) ditetapkan sehat\nsetelah diperiksa."
+   }
+  },
+  {
+   "id": "ID-H205-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 12.\nTifus bercak wabahi.\nKapal ditetapkan sehat walaupun dikapal itu terdapat seorang\npenderita tifus bercak wabahi."
+   }
+  },
+  {
+   "id": "ID-H205-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 13.\nDemam balik-balik.\nkapal ditetapkan sehat walaupun didalam kapal itu terdapat\npenderita demam balik-balik.\nBAB IV\nPENGGOLONGAN PELABUHAN KARANTINA."
+   }
+  },
+  {
+   "id": "ID-H205-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 14.\nUntuk pemeriksaan kesehatan dan pelaksanaan tindakan karantina\nMenteri Kesehatan menggolongkan pelabuhan-pelabuhan Indonesia\ndalam:\n1. Pelabuhan karantina kelas I, dimana dokter pelabuhan dapat\nmenyelenggarakan tindakan karantina sepenuhnya.\n2. Pelabuhan karantina kelas II, dimana dokter pelabuhan dapat\nmenyelenggarakan sebagian dari tindakan karantina.\n3. Pelabuan bukan pelabuhan karantina, dimana sama sekali tidak\ndapat diselenggarakan tindakan karantina.\nBAB V.\nDOKUMEN KESEHATAN."
+   }
+  },
+  {
+   "id": "ID-H205-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB V."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 15.\nUntuk kapal yang dikenakan pemeriksaan kesehatan diisi suatu\nketerangan kesehatan maritim yang harus diberikan kepada dokter\npelabuhan\noleh nakhoda mengenai keadaan kesehatan di kapal."
+   }
+  },
+  {
+   "id": "ID-H205-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB V."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 16.\nTiap penumpang dan awak kapal dari suatu kapal yang ada di dalam\nperjalanan internasional diharuskan memiliki keterangan vaksinasi\ncacar yang berlaku; Menteri Kesehatan menetapkan bentuk dan isi\nketerangan vaksinasi tersebut."
+   }
+  },
+  {
+   "id": "ID-H205-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB V."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 17.\nTiap kapal harus memiliki surat keterangan hapus-tikus/atau\nsurat keterangan bebas hapus-tikus; bentuk dan isi surat keterangan\ntersebut\nditetapkan oleh Menteri Kesehatan."
+   }
+  },
+  {
+   "id": "ID-H205-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB V."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 18.\nDokumen-dokumen tersebut dalam pasal 15, 16 dan 17 tentang\nbentuk dan isinya disesuaikan dengan bentuk-bentuk yang dilampirkan\npada\n\"International Sanitary Regulations 1951\"."
+   }
+  },
+  {
+   "id": "ID-H205-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB V."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 19.\nKapal yang berbendera Indonesia dan kapal yang melakukan\npelayaran pantai di dalam wilayah Indonesia, harus mempunyai suatu\nbuku kesehatan,\nyang bentuk dan isinya ditetapkan oleh Menteri\nKesehatan.\nBAB VI.\nTATA-CARA DAN TINDAKAN KARANTINA.\na. Tata-cara pada kedatangan kapal."
+   }
+  },
+  {
+   "id": "ID-H205-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB VI."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 20.\n(1) Tiap kapal yang datang dari luar negeri berada dalam\nkarantina.\n(2) Tiap kapal yang datang dari suatu pelabuhan dan/atau daerah\nwilayah Indonesia yang ditetapkan terjangkit suatu penyakit\nkarantina\nberada dalam karantina.\n(3) Tiap kapal yang mengambil penumpang dan/atau muatan dari kapal\nyang disebut dalam ayat (1) dan (2) berada dalam karantina.\n(4) Kapal yang disebut pada ayat (1), (2) dan (3) baru bebas dari\nkarantina, bila telah mendapat surat izin karantina."
+   }
+  },
+  {
+   "id": "ID-H205-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB VI."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 21.\nNakhoda kapal yang dalam karantina dilarang menurunkan atau\nmenaikkan orang barang, tanaman dan hewan, sebelum memperoleh surat\nizin\nkarantina."
+   }
+  },
+  {
+   "id": "ID-H205-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB VI."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 22.\nNakhoda kapal menyampaikan permohonan untuk memperoleh suatu\nizin atau memberitahukan suatu keadaan dikapal dengan memakai\nisyarat\nsebagai berikut :\nSiang hari.\nBendera Q : kapal saya sehat/saya minta izin karantina.\nBendera Q diatas panji pengganti kesatu : kapal saya\ntersangka.\nBendera Q diatas bendera L : kapal saya terjangkit.\nMalam hari.\nLampu merah diatas lampu putih dengan jarak maximum 1,80 meter :\nsaya belum mendapat izin karantina."
+   }
+  },
+  {
+   "id": "ID-H205-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB VI."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 23.\n(1) Izin lepas karantina diberikan oleh dokter pelabuhan setelah\ndilakukan pemeriksaan-pemeriksaan dan terdapat bahwa kapal itu\nsehat\natau kalau segala tindakan yang dianggap perlu oleh dokter\npelabuhan telah selesai dilakukan.\n(2) Jika kepada suatu kapal tidak dapat diberikan izin lepas\nkarantina, tetapi dokter pelabuhan berpendapat bahwa bahaya\nkemasukan\nserangga suatu penyakit karantina tidak seberapa\nmembahayakan, maka dokter pelabuhan dapat memberikan izin terbatas\nkarantina kepada\nkapal yang bersangkutan untuk jangka waktu yang\ntertentu.\n(3) Jika dalam waktu berlakunya izin lepas dan/atau izin lepas\nterbatas karantina timbul suatu kematian atau penyakit karena suatu\npenyakit karantina, izin yang dimaksud pada ayat (1)dan ayat (2)\ntidak berlaku lagi. Dalam hal itu kapal menuju kesuatu pelabuhan\nkarantina untuk mendapat tindakan-tindakan karantina yang\ndiperlukan."
+   }
+  },
+  {
+   "id": "ID-H205-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB VI."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 24.\n(1) Untuk kapal yang datang dari luar negeri dan akan singgah di\nsuatu pelabuhan bukan pelabuhan karantina dan untuk kapal yang\nmempunyai\npelayaran tertentu antar luar negeri dan\npelabuhan-pelabuhan Indonesia bukan pelabuhan karantina oleh\nMenteri Kesehatan dapat diberikan\nsurat izin sementara karantina\ntanpa dibebaskan dari tindakan karantina.\n(2) Surat izin yang dimaksudkan pada ayat (1) dapat diberikan atas\npermintaan perusahaan pelayaran kapal tersebut yang bertempat\nkedudukan di Indonesia atau mempunyai hubungan lalu-lintas\npelayaran tetap dengan tempat-tempat tertentu."
+   }
+  },
+  {
+   "id": "ID-H205-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB VI."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 25.\n(1) Kepada kapal yang tidak mau tunduk pada peraturan karantina\ntidak diberikan \"izin karantina\"; kepadanya diperintahkan supaya\nberangkat\nlagi atas tanggungan sendiri dan tidak diizinkan memasuki\npelabuhan lain di Indonesia.\n(2) Kapal tersebut pada ayat (1) diizinkan mengambil bahan bakar,\nair dan bahan makanan di bawah pengawasan dokter pelabuhan.\n(3) Kapal yang tersebut pada ayat (1) yang terjangkit demam kuning\nterhadapnya dilakukan tindakan karantina."
+   }
+  },
+  {
+   "id": "ID-H205-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB VI."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 26.\n(1) Pemeriksaan kesehatan atas suatu kapal oleh dokter pelabuhan\ndilakukan secepat mungkin kecuali kalau keadaan cuaca tidak\nmengizinkan.\n(2) Urutan pemeriksaan yang dimaksudkan pada ayat (1) ditetapkan\ndokter pelabuhan.\n(3) Nakhoda kapal menyampaikan segala keterangan kepada dokter\npelabuhan dan memberi segala bantuan yang diminta oleh penjabat\ntersebut.\nJika di kapal bekerja seorang dokter kapal, maka dokter\ntersebut ikut serta melakukan pemeriksaan kesehatan yang\ndimaksudkan pada\nayat (1).\n(4) Keterangan mengenai keadaan kesehatan kapal diberikan oleh\nnakhoda (dan jika ada dokter kapal, juga oleh dokter tersebut) atau\ndokter kapal di bawah sumpah kepada dokter pelabuhan.\n(5) Pada waktu kapal tiba di pelabuhan orang yang terjangkit dapat\nditurunkan dari kapal dan diasingkan; jika diminta oleh nakhoda,\nhal ini adalah suatu keharusan.\n(6) Dokter pelabuhan dapat melakukan pengawasan karantina terhadap\nseorang tersangka.\n(7) Pengawasan karantina ini tidak boleh diganti dengan isolasi,\nkecuali bila dokter pelabuhan berpendapat, bahwa kemungkinan\npenularan\noleh sitersangka besar sekali.\n(8) Terhadap kapal Angkatan Bersenjata pemeriksaan kesehatan dapat\ndiganti dengan keterangan-keterangan tertulis atas\npertanyaan-pertanyaan\nyang diajukan oleh dokter pelabuhan;\nketerangan-keterangan tertulis itu dibuat oleh komandan kapal\ntersebut.\n(9) Jika keterangan-keterangan yang dimaksudkan pada ayat (8)\nberdasarkan pendapat/pertimbangan dokter pelabuhan tidak mencukupi,\nmaka dilakukan pemeriksaan kesehatan."
+   }
+  },
+  {
+   "id": "ID-H205-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB VI."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 27.\n(1) Pada waktu tiba dipelabuhan nakhoda kapal menyediakan\ndokumen-dokumen sebagai berikut :\na. keterangan kesehatan maritim;\nb. keterangan hapus-tikus, atau bebas hapus-tikus yang\nberlaku;\nc. sertipikat-sertipikat vaksinasi;\nd. buku kesehatan sekedar mengenai kapal-kapal yang dimaksud dalam\npasal 19.\n(2) Dokter pelabuhan dapat memeriksa daftar penumpang, awak kapal\ndan muatan.\nb.Tata-cara pada pemberangkatan kapal."
+   }
+  },
+  {
+   "id": "ID-H205-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB VI."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 28.\n(1) Dokter pelabuhan mengambil tindakan untuk :\na. Mencegah pemberangkatan orang yang terjangkit atau tersangka\nberpenyakit karantina;\nb. mencegah dimasukkannya barang-barang, tanamanan atau hewan, dan\nlain-lain benda yang dapat diduga akan menyebarkan infeksi penyakit\nkarantina di dalam kapal yang akan berangkat.\n(2) Untuk mempercepat pemberangkatan kapal, maka pemeriksaan\nkesehatan terhadap penumpang dilakukan pada waktu yang sama dengan\npemeriksaan Jawatan Bea dan Cukai dan lain-lain jawatan.\n(3) Seorang dalam perjalanan antar negara yang pada waktu tiba\ndipelabuhan berada dalam pengawasan karantina, diperkenankan untuk\nmeneruskan perjalanannya.\n(4) Nakhoda kapal menyiapkan pada waktunya segala dokumen\nkesehatan yang dimaksud pada pasal 16, 17 dan 19.\n(5) Dokter pelabuhan memeriksa segala dokumen kesehatan dan\nmencegah pemberangkatan sesuatu kapal yang tidak mempunyai dokumen\nyang\ndimaksud pada pasal 17 yang berlaku.\n(6) Jika diminta, diberikan surat keterangan perihal\ntindakan-tindakan yang dilakukan terhadap kapal serta alasannya dan\ncara melakukannya\ntanpa pembayaran keterangan dapat juga diberikan\nmengenai penumpang dan muatan.\nc.Tindakan-tindakan lain."
+   }
+  },
+  {
+   "id": "ID-H205-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB VI."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 29.\n(1) Tindakan karantina mencakup pemeriksaan kesehatan dan segala\nusaha penyehatan terhadap kapal, bagasi, muatan barang, muatan\nhewan\ndan muatan tanaman.\n(2) tindakan penyehatan terhadap bagasi dan muatan barang\ndilakukan, bila hama penyakit karantina dan barang-barang tersebut\nakan\nditurunkan dipelabuhan.\n(3) Terhadap hewan, diturunkan atau tidak, atau dipindahkan\nkekapal lain dilakukan usaha-usaha penyehatan, kalau dokter\npelabuhan\nmenganggap perlu.\n(4) Pelaksanaan tindakan penyehatan harus dilakukan secepat\nmungkin dengan sedapat-dapatnya tidak menyebabkan kerusakan pada\nalat\npengangkutan dan muatan.\n(5) Surat pos, buku-buku dan barang-barang cetakan lainnya\ndibebaskan dari segala usaha penyehatan dimaksudkan pada ayat\n(1)dan\nayat (2), terkecuali paket yang dicurigakan.\nBAB VII\nTINDAKAN KHUSUS TERHADAP PENYAKIT KARANTINA."
+   }
+  },
+  {
+   "id": "ID-H205-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 30.\n(1) Tindakan khusus terhadap penyakit karantina dilakukan oleh\ndokter pelabuhan.\n(2) Baik instansi pemerintah maupun swasta memberi bantuannya jika\ndiminta dokter pelabuhan yang diperlukan untuk melaksanakan\ntindakan\nyang dimaksudkan pada ayat (1)."
+   }
+  },
+  {
+   "id": "ID-H205-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 31.\nPes.\nTindakan terhadap kapal terjangkit atau tersangka pes adalah\nsebagai berikut :\na. pemeriksaan awak kapal dan penumpang;\nb. para penderita diturunkan, diisolasikan dan dirawat;\nc. para tersangka dihapus-seranggakan dan diawasi selama-lamanya\nenam hari terhitung dari hari tibanya kapal di pelabuhan;\nd. bagasi seorang terjangkit atau seorang tersangka serta\nbarang-barang milik atau yang dipakai oleh si penderita dan bagian\nkapal\nyang dicurigakan, dihapus-seranggakan dan jika perlu\ndihapus-hamakan;\ne. seluruh kapal dihapus-tikus, jika perlu."
+   }
+  },
+  {
+   "id": "ID-H205-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 32.\nPada kapal yang sehat yang datang dari pelabuhan atau daerah\nterjangkit pes, dilakukan tindakan-tindakan sebagai berikut:\na. seorang yang tersangka yang turun diawasi selama-lamanya enam\nhari, terhitung dari tanggal ia meninggalkan pelabuhan atau daerah\nyang terjangkit;\nb. jika perlu dinas kesehatan pelabuhan dapat melakukan\nhapus-tikus terhadap muatan dan atau kapal."
+   }
+  },
+  {
+   "id": "ID-H205-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 33.\nMuatan kapal yang datang dari pelabuhan atau daerah terjangkit\npes, hanya diturunkan:\na. jika dokter pelabuhan berpendapat, bahwa tidak terdapat tikus\npes di dalam muatan itu;\nb. jika nakhoda memiliki surat keterangan dari dinas kesehatan\npelabuhan atau daerah terjangkit pes, yang menerangkan bahwa\ntikus-tikus\ndan serangga-serangga dalam muatan telah dibasmi."
+   }
+  },
+  {
+   "id": "ID-H205-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 34.\nKolera.\nTindakan terhadap kapal terjangkit atau tersangka kolera adalah\nsebagai berikut :\na. pemeriksaan kesehatan awak kapal dan penumpang;\nb. penderita diturunkan, diisolasikan dan dirawat;\nc. penderita dengan tanda-tanda klinis kholera diperlakukan\nsebagai penderita kholera;\nd. pengandung hama diturunkan, diisolasikan, dirawat dan baru\ndibebaskan sesudah hasil pemeriksaan bakteriologis selama tiga hari\nberturut-turut terdapat negatip;\ne. penumpang dan awak kapal yang mempunyai surat keterangan\nvaksinasi kolera yang berlaku, diawasi selama lima hari sejak kapal\ntiba dipelabuhan;\nf. penumpang dan awak kapal yang tidak mempunyai keterangan\nvaksinasi kolera yang berlaku, diisolasikan;\ng. barang-barang seseorang yang terjangkit atau tersangka atau\nbarang lain yang disangka mengandung hama, dihapus hamakan;\nh. air dan tempatnya dalam kapal yang dianggap mengandung hama,\ndihapus-hamakan. Tindakan ini juga dilakukan terhadap makanan dan\nminuman terbuka, sayur-sayuran, ikan-ikan (kering), buah-buahan dan\nlain-lain yang dimakan mentah dan tidak disimpan dalam tempat\ntertutup rapat;\ni. tinja, air kemih, muntah, air kotor dan segala sesuatu yang\ndianggap mengandung hama tidak boleh dibuang atau dikeluarkan\nsebelum\ndihapus-hamakan;\nj. pembongkaran dilakukan dibawah pengawasan dinas kesehatan\npelabuhan yang melakukan segala sesuatu untuk mencegah kemungkinan\npenularan;\nk. orang-orang yang telah melakukan pembongkaran tersebut, diawasi\nselama lima hari."
+   }
+  },
+  {
+   "id": "ID-H205-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 35.\n(1) Orang yang datang dari daerah terjangkit kolera harus\nmemiliki surat keterangan vaksinasi kolera yang berlaku yang\nditetapkan\nuntuk perjalanan antar negara.\n(2) Tindakan terhadap orang yang datang dari daerah terjangkit\nkolera adalah antara lain sebagai berikut :\na. jika ia memiliki surat keterangan vaksinasi kolera yang masih\nberlaku ia diawasi selama lima hari terhitung dari hari tanggal\nberangkatnya kapal dari daerah terjangkit kolera;\nb. jika ia tidak memiliki surat keterangan vaksinasi kolera, ia\ndapat diisolasikan selama waktu tersebut dalam huruf a."
+   }
+  },
+  {
+   "id": "ID-H205-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 36.\n(1) Bahan makanan dimuat dari daerah terjangkit kolera, yang\ndapat dimakan mentah dan tidak disimpan dalam tempat tertutup\nrapat,\noleh dokter pelabuhan dapat dilarang diturunkan atau dapat\nditurunkan untuk dimusnahkan.\n(2) Jika bahan makanan atau minuman termaksud pada ayat (1)\nmerupakan sebagian dari pada muatan yang harus diturunkan maka\npenurunan\nitu dilakukan dibawah pengawasan dinas kesehatan\npelabuhan."
+   }
+  },
+  {
+   "id": "ID-H205-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 37.\nDemam kuning.\nTindakan terhadap kapal yang terjangkit atau tersangka adalah\nsebagai berikut :\na. pemeriksaan yang teliti terhadap semua penumpang dan awak\nkapal;\nb. pengukuran suhu badan semua penumpang dan awak kapal;\nc. penderita demam kuning diturunkan, diisolasikan dan dilindungi\nterhadap gigitan nyamuk;\nd. penumpang dan awak kapal lainnya yang memiliki surat vaksinasi\ndemam kuning yang belum berlaku, diisolasikan sampai surat\nketerangannya\nberlaku dan dilindungi terhadap gigitan nyamuk,\nselama-lamanya enam hari, mereka yang tidak mempunyai surat\nketerangan vaksinasi\ndemam kuning, diisolasikan dan dilindungi\nterhadap gigitan nyamuk selama-lamanya enam hari.\ne. kapal harus masuk dalam karantina sampai dinyatakan bebas dari\nnyamuk aedes aegypti."
+   }
+  },
+  {
+   "id": "ID-H205-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 38.\nCacar.\nTindakan terhadap kapal yang terjangkit adalah sebagai berikut\n:\na. pemeriksaan kesehatan awak kapal dan penumpang;\nb. penderita diturunkan, diisolasikan dan dirawat;\nc. mereka yang dianggap tidak cukup mempunyai kekebalan, dicacar,\ndan dokter pelabuhan mengisolasikan atau mengawasi penumpang yang\nturun selama-lamanya empat belas hari;\nd. bagasi atau barang-barang lain serta bagian kapal yang dianggap\nmengandung hama, dihapus-hamakan."
+   }
+  },
+  {
+   "id": "ID-H205-A39",
+   "no": 39,
+   "noLabel": {
+    "id": "Pasal 39"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 39.\n(1) Seorang yang dalam perjalanan antar negara atau datang dari\ndaerah terjangkit cacar diluar maupun didalam wilayah Indonesia dan\nyang belum pernah menderita cacar, harus memperlihatkan keterangan\nvaksinasi cacar yang berlaku.\n(2) Seseorang yang tidak mempunyai surat keterangan vaksinasi\ncacar tersebut diatas dan tidak mau dicacar, diawasi selama-lamanya\nempat belas hari terhitung sejak hari tanggal kapal meninggalkan\ndaerah terjangkit."
+   }
+  },
+  {
+   "id": "ID-H205-A40",
+   "no": 40,
+   "noLabel": {
+    "id": "Pasal 40"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 40.\nTifus bercak wabahi.\nTindakan terhadap kapal yang sehat, tetapi yang menyangkut\nseorang yang terjangkit atau tersangka terjangkit tifus bercak\nwabahi dapat\ndilakukan sebagai berikut :\na. pemeriksaan kesehatan semua penumpang dan awak kapal;\nb. penderita diturunkan, diisolasikan, dihapus-seranggakan dan\ndirawat;\nc. mereka yang tersangka dihapus-seranggakan dan diawasi\nselama-lamanya empat belas hari;\nd. bagasi, barang-barang lain dan bagian kapal, yang dianggap\nmengandung hama, dihapus-seranggakan dan dihapus-hamakan."
+   }
+  },
+  {
+   "id": "ID-H205-A41",
+   "no": 41,
+   "noLabel": {
+    "id": "Pasal 41"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 41.\nDemam balik-balik.\nTindakan terhadap kapal mengenai demam balik-balik adalah sama\nseperti untuk tifus bercak wabahi, hanya waktu pengawasan adalah\ndelapan\nhari.\nBAB VIII\nPERATURAN PIDANA."
+   }
+  },
+  {
+   "id": "ID-H205-A42",
+   "no": 42,
+   "noLabel": {
+    "id": "Pasal 42"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 42.\n(1) Barangsiapa dengan sengaja melakukan perbuatan-perbuatan\nyang mengakibatkan tidak dapat dilaksanakannya ketentuan-ketentuan\ndalam\npasal 15, 16, 17, 19, 20, 21, 22, 25, 26 ayat (3) dan ayat\n(4), pasal 27, pasal 28 ayat (1), ayat (2) dan ayat (4), pasal 30\nayat\n(2), pasal 31, 33, 34, 35, 36, 37, 38, 39, dan pasal 40 atau\nperaturan pelaksanaan berdasarkan ketentuan-ketentuan tersebut,\ndipidana\ndengan pidana kurungan selama-lamanya satu tahun dan/atau\npidana denda sebanyak- banyaknya tujuh puluh lima ribu rupiah.\n(2) Perbuatan pidana tersebut dalam ayat (1) adalah\npelanggaran.\nBAB IX\nPERATURAN TAMBAHAN."
+   }
+  },
+  {
+   "id": "ID-H205-A43",
+   "no": 43,
+   "noLabel": {
+    "id": "Pasal 43"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 43.\nHal-hal yang tidak, belum atau belum cukup diatur dalam\nUndang-undang ini, diatur dengan Peraturan Pemerintah atau\nPeraturan Menteri\nKesehatan.\nBAB X\nPERATURAN PENUTUP."
+   }
+  },
+  {
+   "id": "ID-H205-A44",
+   "no": 44,
+   "noLabel": {
+    "id": "Pasal 44"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 44.\n(1) Undang-undang ini dapat disebut Undang-undang : \"Karantina\nLaut 1962\".\n(2) Undang-undang ini mulai berlaku pada hari diundangkan.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan\npengundangan Undang-undang ini dengan penempatan dalam\nLembaran-Negara\nRepublik Indonesia.\nDisahkan di Jakarta\npada tanggal 18 Januari 1962,\nPresiden Republik Indonesia,\nSUKARNO.\nDiundangkan di Jakarta.\npada tanggal 18 Januari 1962,\nSekretaris Negara,\nMOHD. ICHSAN.\nPENJELASAN\nATAS\nUNDANG-UNDANG No. 1 TAHUN 1962\nTENTANG\nKARANTINA LAUT\nPENJELASAN UMUM\nSoal karantina laut sehingga sekarang diatur oleh \"Quarantaine\nOrdonnantie\" (Staasblad No. 277 tahun 1911), yang perlu diganti\ndengan\nPeraturan perundang-undangan baru, sesuai dengan jiwa\nUndang-undang Pokok Kesehatan, yang menghendaki supaya\nperaturan-peraturan\nperundangan lama segera dapat dicabut.\nBerhubung dengan perkembangan lalu lintas, laut yang makin ramai\ndan adanya wabah-wabah dinegara-negara sekeliling Indonesia atau\nadanya wabah disalah satu pulau, perlu karantina ini segera diatur\nsebaik-baiknya.\nSebagai pedoman tehnis dipergunakan \"International Sanitary\nRegulations\" (I.S.R.) dari Organisasi Kesehatan Sedunia karena\nundang-undang\nkita harus pula sesuai dengan ukuran-ukuran\ninternasional.\nPENJELASAN PASAL DEMI PASAL\nPasal 1.\na. Masa tunas dalam undang-undang ini tidak mengurangi sifat\nrelatip daripada masa tunas menurut ilmu kedokteran; maksud\npenetapan\nmasa tunas dalam undang-undang ini ialah untuk memberikan\ndasar-hukum untuk menetapkan lamanya waktu melakukan tindakan\nkarantina.\nb. \"Tempat yang tertentu untuk kapal-kapal \"dalam karantina\"\nditentukan oleh dokter pelabuhan. Dengan melakukan tindakan\nkarantina\nmaka hubungan dengan sekitarnya hanya dapat dilakukan\ndengan persetujuan dokter pelabuhan.\nc. Pemeriksaan kesehatan berkala (routine) untuk keperluan hapus\ntikus sebuah kapal tidak termasuk dalam faham pemeriksaan kesehatan\ndalam Undang-undang ini.\nd. Daerah pelabuhan meliputi daerah didarat dan dilaut yang\nditetapkan oleh dokter pelabuhan, gedung-gedung,\ninstalasi-instalasi,\nperalatan dan hal-hal yang lain yang ada\ndidaerah.\nPasal 2.\nSesuai dengan International Sanitary Regulation.\nPasal 3.\nWewenang penetapan dan pencabutan penetapan sesuatu daerah\nterjangkit dipusatkan pada Menteri Kesehatan; hal ini berhubungan\ndengan\nadanya semua bahan-bahan di Departemen Kesehatan. Lagi pula\ndapat dengan mudah diusahakan supaya keterangan-keterangan dengan\ncepat\ndisebarkan keseluruh wilayah Indonesia dan Organisasi\nKesehatan Sedunia (W.H.O.) sesuai dengan ketentuan-ketentuan dalam\nInternational\nSanitary Regulations.\nMenteri Kesehatan dapat mendelegeer wewenang tersebut diatas\nkepada pejabat tertinggi disuatu daerah yang terpencil.\nPasal 4.\nCukup jelas.\nPasal 5.\nEpizooti pes adalah epidemi penyakit pes pada tikus.\nPasal 6.\nCukup jelas\nPasal 7.\nPenggolongan ini perlu supaya tindakan karantina yang tertentu\ndapat dijalankan. Ini sesuai dengan ketentuan-ketentuan dalam\nInternational\nSanitary Regulations.\nPasal 8 s/d 11.\nCukup jelas.\nPasal 12 dan 13.\nPernyataan sehat ini bertalian dengan sifat serangga yang\nsedikit sekali memungkinkan ketularan. Risikonya akan kemungkinan\nini dapat\ndiabaikan, apabila dibandingkan dengan kerugian-kerugian\nyang besar yang disebabkan, jika perjalanan kapal tersebut\nterhambat karena\ntindakan-tindakan karantina.\nPasal 14.\nPenggolongan pelabuhan perlu juga, oleh sebab belum atau tidak\nsemua pelabuhan dapat diperlengkapi dengan personalia beserta\nalat-alat\nyang diperlukan.\nPasal 15 s/d 19.\nDokumen-dokumen kesehatan ini perlu untuk memudahkan dan\nmempercepat pemeriksaan karantina.\nPasal 20 s/d 25.\nCukup jelas\nPasal 26.\nDengan \"sumpah\" dalam ayat (4) dimaksud juga keterangan yang\nnilai hukumnya sama dengan sumpah.\nPasal 27 s/d 29.\nCukup jelas.\nBab VI dan Bab VII.\nTindakan karantina dilakukan dengan memperhatikan norma-norma\nkeagamaan dan kesusilaan menurut pasal 10 Undang-undang Pokok\nKesehatan.\nPasal 42.\nCukup jelas.\nPasal 43.\nPerongkosan yang dikeluarkan dalam rangka pelaksanaan\nUndang-undang Karantina Laut ini diatur dengan peraturan-peraturan\npelaksanaan\nberdasarkan pasal ini.\nTermasuk Lembaran-Negara tahun 1962 No. 2\nDiketahui:\nSekretaris Negara,\nMOHD. ICHSAN.\n--------------------------------\nCATATAN\nDisetujui D.P.R.G.R. dalam rapat pleno terbuka ke-7 pada hari\nRabu tanggal 13 Desember 1961, P.201/1961\nKutipan: LEMBARAN NEGARA DAN TAMBAHAN LEMBARAN NEGARA TAHUN 1962\nYANG TELAH DICETAK ULANG"
+   }
+  }
+ ]
+}

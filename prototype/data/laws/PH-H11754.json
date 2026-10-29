@@ -1,0 +1,82 @@
+{
+ "id": "PH-H11754",
+ "title": {
+  "zh": null,
+  "en": "AN ACT FOR THE PURPOSE OF MAINTAINING THE PARITY OF THE PHILIPPINE CURRENCY IN ACCORDANCE WITH THE PROVISIONS OF SECTIONS ONE AND SIX OF THE ACT OF CONGRESS APPROVED MARCH SECOND, NINETEEN HUNDRED AND THREE, BY PROHIBITING THE IMPORTATION INTO THE PHILIPPINE ISLANDS OF CERTAIN KINDS OF COINS.",
+  "orig": "AN ACT FOR THE PURPOSE OF MAINTAINING THE PARITY OF THE PHILIPPINE CURRENCY IN ACCORDANCE WITH THE PROVISIONS OF SECTIONS ONE AND SIX OF THE ACT OF CONGRESS APPROVED MARCH SECOND, NINETEEN HUNDRED AND THREE, BY PROHIBITING THE IMPORTATION INTO THE PHILIPPINE ISLANDS OF CERTAIN KINDS OF COINS."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 1042",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 2270,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_01042_1904_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_01042_1904_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H11754-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The importation into the Philippine Islands of Mexican currency. Spanish-Filipino currency, or\nany other metallic currency which is not upon a gold basis, is hereby prohibited, and any of the\naforementioned currencies which are imported, or of which the importation is attempted, contrary to the\nprovisions of this Act, shall be liable to forfeiture under  due  process of law, the bullion value, in terms of\nPhilippine currency, of one-third of the sum so forfeited to be payable to  the person upon  whose\ninformation, given to the proper authorities, the seizure of the money so forfeited is made, and the other two-\nthirds to be payable to the Philippine Government, and to accrue to the gold standard fund: Provided, That\nmoney actually on shipboard in transit to the Philippine Islands, and for which bills of lading have been\nmade out on or prior to the date of the passage of this Act, shall be permitted to enter: And provided\nfurther, That each first-class passenger shall be permitted to bring into the Philippine Islands a sum of the\naforementioned currencies not exceeding in value fifty Philippine pesos; each second-class passenger a sum\nnot exceeding twenty Philippine pesos; and each third-class passenger a sum not exceeding ten Philippine"
+   }
+  },
+  {
+   "id": "PH-H11754-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The importation or the attempt to import any of the. said currencies contrary to law is hereby\ndeclared a criminal offense, punishable, in addition to the forfeiture of said currency as above provided, by a\nline of not more than ten thousand pesos or imprisonment for a period not exceeding one year, or both, in the\ndiscretion of the court."
+   }
+  },
+  {
+   "id": "PH-H11754-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "The provisions of section one of this Act shall be enforced by the Collector of Customs for the\nPhilippine Islands in accordance with the provisions of Act Numbered Three hundred and fifty-five, as\namended by Act Numbered Eight hundred and sixty-four, except that currency seized and forfeited under the\nprovisions of this Act shall not be sold at auction, but shall, as provided in section one of this Act, be paid\ninto the Treasury of the Philippine Islands to the credit of the gold-standard fund, and the sum clue to the\ninformer shall be paid in Philippine currency by the Treasurer from that fund."
+   }
+  },
+  {
+   "id": "PH-H11754-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, January 14, 1904."
+   }
+  }
+ ]
+}

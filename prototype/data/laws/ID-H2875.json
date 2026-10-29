@@ -1,0 +1,378 @@
+{
+ "id": "ID-H2875",
+ "title": {
+  "zh": "公司年度财务报告法",
+  "en": "Law on Annual Company Financial Statements",
+  "id": "Laporan Keuangan Tahunan Perusahaan",
+  "orig": "Laporan Keuangan Tahunan Perusahaan",
+  "vi": "Luật về Báo cáo Tài chính Thường niên của Doanh nghiệp",
+  "th": "พระราชบัญญัติว่าด้วยรายงานการเงินประจำปีของบริษัท",
+  "ms": "Akta tentang Laporan Kewangan Tahunan Syarikat"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02a",
+ "language": "id",
+ "level": "law",
+ "category": "02_民商事与经济法",
+ "status": "active",
+ "promulgatedDate": "2020",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU25-2020",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 24,
+ "chars": 11969,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": null
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\02_民商事与经济法\\印尼_文本_2020_Laporan Keuangan Tahunan Perusahaan.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 24 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H2875-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\nDalam Peraturan Menteri ini yang dimaksud dengan:\n1. Perusahaan adalah setiap bentuk usaha yang\nmelakukan kegiatan secara tetap dan terus menerus\ndengan tujuan memperoleh keuntungan dan atau\nlaba, baik yang diselenggarakan oleh orang perorangan\nmaupun badan usaha yang berbentuk badan hukum\natau bukan badan hukum, yang didirikan dan\nberkedudukan dalam wilayah Negara Republik\nIndonesia.\n2. Perseroan Terbuka adalah perseroan publik atau\nperseroan yang melakukan penawaran umum saham,\nsesuai dengan ketentuan peraturan perundang-\nundangan di bidang pasar modal.\n3. Laporan Keuangan Tahunan Perusahaan yang\nselanjutnya disingkat LKTP adalah laporan keuangan\nperusahaan yang telah diaudit oleh Akuntan Publik\natau lembaga tinggi negara sesuai ketentuan\nperaturan perundang-undangan.\n4. Sistem Informasi Perizinan Terpadu yang selanjutnya\ndisingkat SIPT adalah sistem pelayanan perizinan\nperdagangan dalam negeri pada Kementerian\nPerdagangan yang dilakukan secara daring melalui\nportal http:// sipt.kemendag.go.id .\n5. Lembaga Pengelola dan Penyelenggara Online Single\nSubmission yang selanjutnya disebut Lembaga OSS\nadalah lembaga pemerintah non kementerian yang\nmenyelenggarakan urusan pemerintahan di bidang\nkoordinasi penanaman modal.\n6. Nomor Induk Berusaha yang selanjutnya disingkat\nNIB adalah identitas Pelaku Usaha yang diterbitkan\noleh Lembaga OSS setelah Pelaku Usaha melakukan\nPendaftaran.\n7. Akuntan Publik adalah seseorang yang telah\nmemperoleh izin untuk memberikan jasa sebagaimana\ndimaksud dalam peraturan perundang-undangan\nmengenai Akuntan Publik.\n8. Surat Tanda Penyampaian Laporan Keuangan\nTahunan Perusahaan yang selanjutnya disingkat STP-\nLKTP adalah tanda bukti bahwa Perusahaan yang\nbersangkutan telah menyampaikan LKTP secara\nlengkap dan benar.\n9. Menteri adalah menteri yang menyelenggarakan\nurusan pemerintahan di bidang perdagangan.\n10. Direktur Jenderal adalah Direktur Jenderal\nPerdagangan Dalam Negeri, Kementerian Perdagangan.\nBAB II\nKEWAJIBAN, KEWENANGAN\nDAN WAKTU PENYAMPAIAN LKTP"
+   }
+  },
+  {
+   "id": "ID-H2875-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\n(1) Setiap Perusahaan wajib menyampaikan LKTP kepada\nMenteri melalui Direktur Jenderal.\n(2) LKTP sebagaimana dimaksud pada ayat (1) wajib\ndisampaikan secara lengkap dan benar."
+   }
+  },
+  {
+   "id": "ID-H2875-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\nKewajiban sebagaimana dimaksud dalam Pasal 2 ayat (1)\nberlaku bagi perusahaan yang berbentuk:\na. Perseroan Terbatas yang telah memenuhi salah satu\nkriteria:\n1) merupakan Perseroan Terbuka;\n2) bidang usaha yang berkaitan dengan pengerahan\ndana masyarakat;\n3) mengeluarkan surat pengakuan utang;\n4) memiliki jumlah aktiva atau kekayaan paling\nsedikit Rp25.000.000.000,00 (dua puluh lima\nmiliar rupiah); atau\n5) merupakan debitur yang laporan keuangan\ntahunannya diwajibkan oleh bank untuk diaudit.\nb. Perusahaan asing yang berkedudukan dan menjalankan\nusahanya di wilayah Negara Republik Indonesia\nmenurut ketentuan peraturan perundang-undangan,\ntermasuk di dalamnya kantor cabang, kantor pembantu,\nanak perusahaan serta agen dan perwakilan dani\nperusahaan itu yang mempunyai wewenang untuk\nmengadakan perjanjian; atau\nc. Perusahaan Perseroan (PERSERO), Perusahaan Umum\n(PERUM), dan Perusahaan Daerah."
+   }
+  },
+  {
+   "id": "ID-H2875-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\n(1) \t LKTP yang disampaikan oleh Perusahaan sebagaimana\ndimaksud dalam Pasal 2 meliputi:\na. neraca atau laporan dengan nama lain yang\nmenggambarkan posisi keuangan;\nb. laporan laba-rugi atau laporan dengan nama lain\nyang menggambarkan kinerja keuangan;\nc. laporan perubahan ekuitas;\nd. laporan arus kas; dan\ne. catatan atas laporan keuangan yang paling\nsedikit mengungkapkan utang piutang termasuk\nkredit bank dan daftar penyertaan modal.\n(2) Neraca atau laporan dengan nama lain yang\nmenggambarkan posisi keuangan sebagaimana\ndimaksud pada ayat (1) huruf a dan laporan laba-rugi\natau laporan dengan nama lain yang menggambarkan\nkineija keuangan sebagaimana dimaksud pada ayat (1)\nhuruf b hams ditandatangani oleh pimpinan Perusahaan\natau pejabat yang ditunjuk di lingkungan Perusahaan.\n(3) Bentuk dan susunan LKTP sebagaimana dimaksud\npada ayat (1) dibuat sesuai dengan standar akuntansi\nkeuangan yang ditetapkan oleh organisasi profesi\nakuntan Indonesia yang diakui oleh Pemerintah\nRepublik Indonesia atau sesuai dengan ketentuan\nperaturan perundang-undangan."
+   }
+  },
+  {
+   "id": "ID-H2875-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\nLKTP yang disampaikan oleh Perusahaan sebagaimana\ndimaksud dalam Pasal 2 hams:\na. telah diaudit oleh Akuntan Publik; dan\nb. telah mendapat pengesahan dan i rapat umum\npemegang saham atau organ yang berwenang untuk\nmengesahkan LKTP berdasarkan ketentuan peraturan\npemndang-undangan."
+   }
+  },
+  {
+   "id": "ID-H2875-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\nPenyampaian LKTP oleh Perusahaan sebagaimana\ndimaksud dalam Pasal 2 wajib dilakukan paling\nlambat 6 (enam) bulan setelah tahun buku berakhir.\nBAB III\nTATA CARA PELAKSANAAN PENYAMPAIAN LKTP"
+   }
+  },
+  {
+   "id": "ID-H2875-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\nPerusahaan menyampaikan LKTP kepada Direktur\nJenderal secara daring melalui portal SIPT.\nDalam penyampaian LKTP Perusahaan hams\nmemiliki NIB.\nPerusahaan menggunakan nama pengguna (username)\ndan kata sandi (password) yang telah diperoleh pada\nsaat aktivasi akun OSS untuk masuk portal SIPT.\n(4) Penyampaian LKTP dilakukan dengan mengunggah\nLKTP dalam bentuk Portable Document Format (PDF)\nse suai aslinya dan mengisi format isian profil\nperusahaan pada portal SIPT."
+   }
+  },
+  {
+   "id": "ID-H2875-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n(1) Dalam hal SIPT mengalami kerusakan karena keadaan\nkahar (force majeure) dan tidak berfungsinya sarana\ndan prasarana pendukung SIPT selama lebih dan i 24\n(dua puluh empat) jam, penyampaian LKTP dilakukan\nsecara manual atau melalui surat elektronik.\n(2) LKTP disarnpaikan secara manual atau melalui surat\nelektronik sebagaimana dimaksud pada ayat (1)\nkepada Direktorat Bina Usaha dan Pelaku Distribusi."
+   }
+  },
+  {
+   "id": "ID-H2875-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n(1) Berdasarkan penyampaian LKTP oleh Perusahaan,\nDirektur Jenderal menerbitkan STP-LKTP dalam\nbentuk dokumen elektronik yang tercantum Quick\nResponse Code, paling lambat 5 (lima) hari kerja\nsetelah LKTP disampaikan secara lengkap dan benar.\n(2) STP-LKTP sebagaimana dimaksud pada ayat (1)\nmerupakan STP-LKTP untuk tahun buku yang\ndilaporkan.\n(3) STP-LKTP dapat dilampirkan sebagai dokumen\npendukung bagi Kantor Akuntan Publik dalam\nmenyampaikan laporan kegiatan usaha kepada\nmenteri yang menyelenggarakan urusan pemerintahan\ndi bidang keuangan."
+   }
+  },
+  {
+   "id": "ID-H2875-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\nDalam hal Perusahaan telah menyampaikan LKTP\nkepada:\na. regulator;\nb. otoritas yang mengatur mengenai penyampaian\nlaporan keuangan;\nc. Menteri Badan Usaha Milik Negara; dan/atau\nd. Menteri Keuangan,\nkewajiban penyampaian LKTP dianggap telah\ndilakukan\n(2) Perusahaan sebagaimana dimaksud pada ayat (1)\nmenyampaikan bukti penyampaian LKTP kepada\nDirektur Jenderal melalui portal SIPT untuk\nditerbitkan STP-LKTP."
+   }
+  },
+  {
+   "id": "ID-H2875-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\nKebenaran formal maupun materiil atas LKTP yang telah\ndisampaikan oleh Perusahaan kepada Direktur Jenderal\ntetap menjadi tanggung jawab Perusahaan.\nBAB IV\nINFORMASI KEUANGAN PERUSAHAAN"
+   }
+  },
+  {
+   "id": "ID-H2875-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n(1) Informasi keuangan perusahaan yang bersumber dari\nLKTP yang disampaikan oleh Perusahaan kepada\nDirektur Jenderal bersifat terbuka bagi masyarakat\nsesuai dengan ketentuan peraturan perundang-\nundangan.\n(2) Informasi sebagaimana dimaksud pada ayat (1)\ndiperoleh atas dasar permintaan tertulis kepada\nDirektur Jenderal dan dikenakan tarif sesuai dengan\nketentuan peraturan perundang-undangan yang\nmengatur mengenai penerimaan negara bukan pajak."
+   }
+  },
+  {
+   "id": "ID-H2875-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\n(1) Kerne nte rian dan / atau lembaga negara yang\nberkepentingan dapat memperoleh informasi\nkeuangan Perusahaan dengan menyampaikan\npermohonan kepada Menteri.\n(2) Menteri dapat mendelegasikan kewenangan pemberian\ninformasi keuangan perusahaan sebagaimana\ndimaksud pada ayat (1) kepada Direktur Jenderal.\n(3) Informasi keuangan perusahaan sebagaimana dimaksud\npada ayat (1) diperoleh dengan tanpa dikenakan biaya.\n(4) Informasi keuangan perusahaan sebagaimana dimaksud\npada ayat (1) tidak dapat dipindahtangankan kepada\npihak lain tanpa persetujuan Menteri.\nBAB V\nSANKSI"
+   }
+  },
+  {
+   "id": "ID-H2875-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\n(1) Setiap perusahaan yang tidak menyampaikan LKTP\nsebagaimana dimaksud dalam Pasal 2 ayat (1), atau\ntidak menyampaikan LKTP sampai dengan batas\nwaktu sebagaimana dimaksud dalam Pasal 6 dikenai\nsanksi administratif.\n(2) Sanksi administratif sebagaimana dimaksud pada ayat\n(1) berupa:\na. peringatan tertulis;\nb. pencabutan izin usaha dan/atau izin\noperasional/komersial terhadap Perusahaan yang\nmelaksanakan kegiatan usaha di bidang\nperdagangan sesuai dengan ketentuan peraturan\nperundang-undangan; dan/atau\nc. rekomendasi pencabutan izin usaha dan/atau\nizin operasional/komersial terhadap Perusahaan\nyang melaksanakan kegiatan usaha selain bidang\nperdagangan sesuai dengan ketentuan peraturan\nperundang-undangan;"
+   }
+  },
+  {
+   "id": "ID-H2875-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\nPeringatan tertulis sebagaimana dimaksud dalam Pasal 14\nayat (2) huruf a diberikan paling banyak 3 (tiga) kali dengan\njangka waktu masing-masing paling lama 14 (empat belas)\nhari."
+   }
+  },
+  {
+   "id": "ID-H2875-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\nPerusahaan yang telah diberikan sanksi adminsitratif\nberupa peringatan tertulis sebagaimana dimaksud dalam\nPasal 15 dan tidak melakukan perbaikan dalam jangka\nwaktu 14 (empat belas) hari dikenai sanksi adminsitratif\nberupa pencabutan dan/atau rekomendasi pencabutan izin\nusaha dan/atau izin operasional/komersial sesuai dengan\nketentuan peraturan perundang-undangan."
+   }
+  },
+  {
+   "id": "ID-H2875-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\n(1) Setiap perusahaan yang tidak menyampaikan LKTP\nsecara lengkap dan benar sebagaimana dimaksud\ndalam Pasal 2 ayat (2) dikenai sanksi administratif.\n(2) Sanksi admisnstratif sebagaimana dimaksud pada\nayat (1) berupa:\na. Peringatan tertulis;\nb. pencabutan STP-LKTP;\nC. pencabutan izin usaha dan/atau izin\noperasional/komersial terhadap Perusahaan yang\nmelaksanakan kegiatan usaha di bidang\nperdagangan sesuai dengan ketentuan peraturan\nperundang-undangan; dan/atau\nd. rekomendasi pencabutan izin usaha dan/atau\nizin operasional/komersial terhadap Perusahaan\nyang melaksanakan kegiatan usaha selain bidang\nperdagangan sesuai dengan ketentuan peraturan\nperundang-undangan."
+   }
+  },
+  {
+   "id": "ID-H2875-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\nPeringatan tertulis sebagaimana dimaksud dalam Pasal\n17 ayat (2) huruf a diberikan paling banyak 3 (tiga) kali\ndengan jangka waktu masing-masing paling lama 14\n(empat belas) hari."
+   }
+  },
+  {
+   "id": "ID-H2875-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\nPerusahaan yang telah dikenai sanksi adminsitratif berupa\nperingatan tertulis ketiga dan tidak melakukan perbaikan\ndalam jangka waktu sebagaimana dimaksud dalam Pasal\n18 dikenai sanksi adminsitratif berupa pencabutan STP-\nLKTP."
+   }
+  },
+  {
+   "id": "ID-H2875-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\nPerusahaan yang telah diberikan sanksi adminsitratif\nberupa pencabutan STP-LKTP sebagaimana dimaksud\ndalam Pasal 18 dan tidak melakukan perbaikan dalam\njangka waktu 14 (empat belas) hari dikenai sanksi\nadminsitratif berupa pencabutan dan/atau rekomendasi\npencabutan izin usaha dan/atau izin operasional/\nkomersial sesuai dengan ketentuan peraturan perundang-\nundangan."
+   }
+  },
+  {
+   "id": "ID-H2875-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\nDalam mengenakan sanksi sebagaimana dimaksud dalam\nPasal 14 dan Pasal 17, Menteri berkoordinasi dengan\nregulator, dan/atau otoritas, Menteri Badan Usaha Milik\nNegara, dan/atau Menteri Keuangan dalam rangka\npembinaan Perusahaan yang bersangkutan.\nBAB VI\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H2875-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\nPada saat Peraturan Menteri ini berlaku, Perusahaan tetap\ndapat menyampaikan LKTP secara manual kepada\nDirektorat Bina Usaha dan Pelaku Distribusi untuk jangka\nwaktu paling lama 6 (enam) bulan terhitung sejak\nPeraturan Menteri ini berlaku.\nBAB VII\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H2875-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\nPada saat Peraturan Menteri ini berlaku, Keputusan\nMenteri Perindustrian dan Perdagangan Nomor\n121 / MPP/ KEP/ 2 / 2002 tentang Ketentuan Penyampaian\nLaporan Keuangan Tahunan Perusahaan, dicabut dan\ndinyatakan tidak berlaku."
+   }
+  },
+  {
+   "id": "ID-H2875-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 24\nPeraturan Menteri ini mulai berlaku pada tanggal\ndiundangkan.\nAgar setiap orang mengetahuinya, memerintahkan\npengundangan Peraturan Menteri ini dengan\npenempatannya dalam Berita Negara Republik Indonesia.\nDitetapkan di Jakarta\npada tanggal 16 Maret 2020\nMENTERI PERDAGANGAN REPUBLIK INDONESIA,\nttd\nAGUS SUPARMANTO\nDiundangkan di Jakarta\npada tanggal 19 Maret 2020\nDIREKTUR JENDERAL\nPERATURAN PERUNDANG-UNDANGAN\nKEMENTERIAN HUKUM DAN HAK ASASI MANUSIA\nREPUBLIK INDONESIA,\nttd.\nWIDODO EKATJAHJANA\nBERITA NEGARA REPUBLIK INDONESIA TAHUN 2020 NOMOR 266\nSalinan sesuai dengan aslinya\nSekretariat Jenderal\nKI. 4 1:041V\n1?\"\nVoti tv,t.\n'41./K\nPerdagangan\no Hukum,\nARIYATI"
+   }
+  }
+ ]
+}

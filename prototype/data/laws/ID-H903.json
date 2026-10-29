@@ -1,0 +1,992 @@
+{
+ "id": "ID-H903",
+ "title": {
+  "zh": "少年法庭法",
+  "en": "Law on Juvenile Courts",
+  "id": "PENGADILAN ANAK",
+  "orig": "PENGADILAN ANAK",
+  "vi": "Luật về Tòa án Người chưa thành niên",
+  "th": "พระราชบัญญัติว่าด้วยศาลเด็กและเยาวชน",
+  "ms": "Akta tentang Mahkamah Juvana"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02b",
+ "language": "id",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "1997",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU3-1997",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 67,
+ "chars": 52578,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU0031997.pdf&fl=P00989"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\01_宪法与基础法\\印尼_文本_1997_PENGADILAN ANAK.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 68 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H903-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\nDalam Undang-undang ini yang dimaksud dengan:\n1. Anak adalah orang yang dalam perkara Anak Nakal telah mencapai\numum 8 (delapan) tahun tetapi belum mencapai umur 18 (delapan\nbelas) tahun dan belum pernah kawin.\n2. Anak Nakal adalah:\na. anak yang melakukan tindak pidana; atau\nb. anak yang melakukan perbuatan yang dinyatakan terlarang bagi\nanak, baik menurut peraturan perundang -undangan maupun\nmenurut peraturan hukum lain yang hidup dan belaku dalam\nmasyarakat yang bersangkutan.\n3. Anak Didik Pemasyarakatan, Balai P emasyarakatan, Tim Pengamat\nPemasyarakatan, dan Klien Pemasyarakatan adalah Anak Didik\nPemasyarakatan, Balai Pemasyarakatan, Tim Pengamat\nPemasyarakatan dan Klien Pemasyarakatan sebagaimana dimaksud\ndalam Undang -undang Nomor 12 tahun 1995 tentang\nPemasyarakatan.\n4. Penahanan adalah penempatan tersangka atau terdakwa di Rumah\nTahanan Negara, Cabang Rumah Tahanan Negara atau ditempat\ntertentu.\n5. Penyidik adalah penyidik anak.\n6. Penuntut Umum adalah penuntut umum anak.\n7. Hakim adalah Hakim anak.\n8. Hakim Banding adalah hakim banding anak.\n9. Hakim Kasasi adalah hakim kasasi anak.\nPRESIDEN\nREPUBLIK INDONESIA\n10. Orang...\n10. Orang tua asuh adalah orang yang secara nyata mengasuh anak,\nselaku orang tua terhadap anak.\n11. Pembimbing Kemasyarakatan adalah petugas pemasyarakat an pada\nBalai Pemasyarakatan yang melakukan Bimbingan Warga Binaan\nPemasyarakatan.\n12. Organisasi Sosial Kemasyarakatan adalah organisasi masyarakat\nyang mempunyai perhatian khusus kepada masalah Anak Nakal.\n13. Penasihat Hukum adalah penasihat hukum sebagaimana dimaksud\ndalam Undang-undang Nomor 8 Tahun 1981 tentang Hukum Acara\nPidana."
+   }
+  },
+  {
+   "id": "ID-H903-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\nPengadilan Anak adalah pelaksana kekuasaan kehakiman yang berada di\nlingkungan Peradilan Umum."
+   }
+  },
+  {
+   "id": "ID-H903-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\nSidang Pengadilan Anak yang selanjutnya disebut Sidang Anak, bertugas\ndan berwenang memeriksa, memutus, dan menyelesaikan perkara anak\nsebagaimana ditentukan dalam Undang-undang ini."
+   }
+  },
+  {
+   "id": "ID-H903-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\n(1) Batas umur Anak Nakal yang dapat diajukan ke Sidang Anak\nadalah sekurang -kurangnya 8 (delapan) tahun tetapi belum\nmencapai umur 18 (delapan belas) tahun dan belum pernah kawin.\n(2) Dalam hal anak melakukan tindak pidana pada batas umur\nsebagaimana dimaksud dalam ayat (1) dan diajukan ke sidang\npengadilan setelah anak yang bersangkutan melampaui batas umur\ntersebut, tetapi belum mencapai umur 21 (dua puluh satu) tahun,\ntetap diajukan ke Sidang Anak."
+   }
+  },
+  {
+   "id": "ID-H903-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\n(1) Dalam hal anak belum mencapai umur 8 (delapan) tahun melakukan\natau diduga melakukan tindak pidana, ma ka terhadap anak tersebut\ndapat dilakukan pemeriksaan oleh Penyidik.\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Apabila...\n(2) Apabila menurut hasil pemeriksaan, Penyidik berpendapat bahwa\nanak sebagaimana dimaksud dalam ayat (1) masih dapat dibina oleh\norang tua, atau oang tua asuhnya, Pe nyidik menyerahkan kembali\nanak tersebut kepada orang tua, wali atau orang tua asuhnya.\n(3) Apabila menurut hasil pemeriksaan, Penyidik berpendapat bahwa\nanak sebagaimana dimaksud dalam ayat (1) tidak dapat dibina lagi\noleh orang tua, wali atau orang tua asuhnya, Penyidik menyerahkan\nanak tersebut kepada Departemen Sosial setelah mendengar\npertimbangan dari Pembimbing Kemasyarakatan."
+   }
+  },
+  {
+   "id": "ID-H903-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\nHakim, Penuntut Umum, Penyidik, dan Penasihat Hukum, serta petugas\nlainnya dalam Sidang Anak tidak memakai toga atau pakaian dinas."
+   }
+  },
+  {
+   "id": "ID-H903-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\n(1) Anak yang melakukan pidana bersama -sama dengan orang dewasa\ndiajukan ke Sidang Anak, sedangkan orang dewasa diajukan ke\nsidang bagi orang dewasa.\n(2) Anak yang melakukan tindak pidana bersama -sama dengan\nAnggota Angkatan Bersenjata Republik Indonesia diajukan ke\nSidang Anak, sedangkan Anggota Angkatan Bersenjata Republik\nIndonesia diajukan ke Mahkamah Militer."
+   }
+  },
+  {
+   "id": "ID-H903-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n(1) Hakim memeriksa perkara anak dalam sidang tertutup.\n(2) Dalam hal tertentu dan dipandang perlu pemeriksaan, perkara anak\nsebagaimana dimaksud dalam ayat (1) dapat dilakukan dalam\nsidang terbuka.\n(3) Dalam sidang yang dilakukan secara tertutup hanya da pat dihadiri\noleh anak yang bersangkutan beserta orang tua, wali, atau orang tua\nasuh, Penasihat Hukum, dan Pembimbing Kemasyarakatan.\n(4) Selain mereka yang disebut dalam ayat (3), orang -orang tertentu\natas izin hakim atau majelis hakim dapat menghadiri persidangan\nsebagaimana dimaksud dalam ayat (1)\nPRESIDEN\nREPUBLIK INDONESIA\n(5) Pemberitaan...\n(5) Pemberitaan mengenai perkara anak mulai sejak penyidikan sampai\nsaat sebelum pengucapan putusan pengadilan menggunakan\nsingkatan dari nama anak, orang tua, wali, atau orang tua asuhnya.\n(6) Putusan pengadilan dalam memeriksa perkara anak sebagaimana\ndimaksud dalam ayat (1) diucapkan dalam sidang terbuka untuk\numum\nBAB II\nHAKIM DAN WEWENANG SIDANG ANAK\nBagian Pertama\nHakim"
+   }
+  },
+  {
+   "id": "ID-H903-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\nHakim ditetapkan berdasarkan Surat Keputusan Ketua Mahkamah Agung\natas usul Ketua Pengadilan Negeri yang bersangkutan melalu i Ketua\nPengadilan Tinggi."
+   }
+  },
+  {
+   "id": "ID-H903-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\nSyarat-syarat untuk dapat ditetapkan sebagai Hakim sebagaimana\ndimaksud dalam pasal 9 adalah:\na. telah berpengalaman sebagai hakim di pengadilan dalam\nlingkungan Peradilan Umum;\nb. mempunyai minat, perhatian, dedikasi , dan memahami masalah\nanak."
+   }
+  },
+  {
+   "id": "ID-H903-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\n(1) Hakim memeriksa dan memutus perkara anak dalam tingkat\npertama sebagai hakim tunggal.\n(2) Dalam hal tertentu dan dipandang perlu, Ketua Pengadilan Negeri\ndapat menetapkan pemeriksaa n perkara anak dilakukan dengan\nhakim majelis.\n(3) Hakim dalam menjalankan tugasnya dibantu oleh seorang Panitera\natau seorang Panitera Pengganti.\nPRESIDEN\nREPUBLIK INDONESIA\nBagian…\nBagian Kedua\nHakim Banding"
+   }
+  },
+  {
+   "id": "ID-H903-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\nHakim Banding ditetapkan berdasarkan Surat Keputusan Ket ua\nMahkamah Agung atas usul Ketua Pengadilan Tinggi yang bersangkutan."
+   }
+  },
+  {
+   "id": "ID-H903-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\nSyarat-syarat yag berlaku untuk Hakim sebagaimana dimaksud dalam\nPasal 10, berlaku pula untuk Hakim Banding."
+   }
+  },
+  {
+   "id": "ID-H903-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\n(1) Hakim Banding memeriksa dan memutus perkara anak dalam\ntingkat banding sebagai hakim tunggal.\n(2) Dalam hal tertentu dan dipandang perlu, Ketua Pengadilan Tinggi\ndapat menetapkan pemeriksaan perkara anak dilakukan dengan\nhakim majelis.\n(3) Hakim Banding dalam menjalankan tugasnya dibantu oleh seorang\nPanitera atau seorang Panitera Pengganti."
+   }
+  },
+  {
+   "id": "ID-H903-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\nKetua Pengadilan Tinggi memberikan bimbingan dan pengawasan\nterhadap jalannya peradilan di dalam daerah hukumnya agar Sidang Anak\ndiselenggarakan sesuai dengan Undang-undang ini.\nBagian Ketiga\nHakim Kasasi"
+   }
+  },
+  {
+   "id": "ID-H903-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\nHakim Kasasi ditetapkan berdasarkan Surat Keputusan Ketua Mahkamah\nAgung."
+   }
+  },
+  {
+   "id": "ID-H903-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\nSyarat-syarat yang berlaku untuk Hakim sebagaimana dimaksud dalam\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 10, berlaku pula untuk Hakim Kasasi."
+   }
+  },
+  {
+   "id": "ID-H903-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18…"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 18\n(1) Hakim Kasasi memeriksa dan memutus perkara anak dalam tingkat\nkasasi sebagai hakim tunggal.\n(2) Dalam hal tertentu dan dipandang perlu, Ketua Mahakamah Agung\ndapat menetapkan pemeriksaan perkara anak dilakukan dengan\nhakim majelis.\n(3) Hakim kasasi dalam menjalankan tugasnya, dibantu oleh seorang\nPanitera atau seorang Panitera Pengganti."
+   }
+  },
+  {
+   "id": "ID-H903-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\nPengawas tertinggi atas Sidang Anak dilakukan oleh Mahkamah Agung.\nBagian Keempat\nPeninjauan Kembali"
+   }
+  },
+  {
+   "id": "ID-H903-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\nTerhadap putusan pengadilan mengenai perkara Anak Nakal yang telah\nmemperoleh kekuatan hukum tetap dapat dimohonkan peninjauan\nkembali oleh anak dan atau orang tua, wali, orang tua asuh, atau Pensihat\nhukumnya kepada Mahakamh Agung sesuai dengan ketentuan\nUndang-undang yang berlaku.\nBagian Kelima\nWewenang Sidang Anak"
+   }
+  },
+  {
+   "id": "ID-H903-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\nSidang Anak berwenang untuk memeriksa, memutus, dan menyelesaikan\nperkara pidana dalam hal perkara Anak nakal.\nBAB III\nPIDANA DAN TINDAKAN"
+   }
+  },
+  {
+   "id": "ID-H903-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\nTerhadap Anak Nakal hanya dapat dijatuhkan pidana atau tindakan yang\nPRESIDEN\nREPUBLIK INDONESIA\nditentukan dalam Undang-undang ini."
+   }
+  },
+  {
+   "id": "ID-H903-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23…"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 23\n(1) Pidana yang dapat dijatuhkan kepada Anak Nakal ialah pidana\npokok dan pidana tambahan.\n(2) Pidana pokok yang dapat dijatuhkan kepada Anak Nakal ialah:\na. pidana penjara;\nb. pidana kurungan;\nc. pidana denda; atau\nd. pidana pengawasan.\n(3) Selain pidana pokok sebagaimana dimaksud dalam ayat (2)\nterhadap Anak Nakal dapat juga dijatuhkan pidana tambahan,\nberupa perampasan barang -barang tertentu dan atau pembayaran\nganti rugi.\n(4) Ketentuan mengenai bentuk dan tata cara pembayaran ganti rugi\ndiatur lebih lanjut dengan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H903-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 24\n(1) Tindakan yang dapat dijatuhkan kepada Anak Nakal ialah:\na. mengembalikan kepada orang tua, wali, orangtua asuh;\nb. Menyerahkan kepada negara untuk mengikuti\npendidikan,pembinaan, dan latihan kerja; atau\nc. menyerahkan kepada Departemen Sosial, atau Organisasi Sosial\nkemasyarakatan yang bergerak di bidang pendidikan, pembinaan,\ndan latihan kerja.\n(2) Tindakan sebagaimana dimaksud dalam ayat (1) dapat disertai\ndengan teguran dan syarat tambahan yang ditetapkan oleh Hakim."
+   }
+  },
+  {
+   "id": "ID-H903-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\n(1) Terhadap Anak Nakal sebagaimana dimaksud dalam Pasal 1 angka\n2 huruf a, Hakim menjatuhkan pidana sebagaimana dimaksud\ndalam pasal 23 atau tindakan sebagaimana dimaksud dalam pasal\n24.\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Terhadap...\n(2) Terhadap Anak Nakal sebagaimana dimaksud dalam Pasal 1 angka\n2 huruf b, Hakim menjatuhkan tindakan sebagaimana dimaksud\ndalam Pasal 24."
+   }
+  },
+  {
+   "id": "ID-H903-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\n(1) Pidana penjara yang dapat dijatuhkan kepada Anak nakal\nsebagaimana dimaksud dalam Pasal 1 angka 2 huruf a, paling lama\n1/2 (satu per dua) dari maksimum ancaman pidana penjara bagi\norang dewasa.\n(2) Apabila Anak Nakal sebagaimana dimaksud dalam Pasal 1 angka 2\nhuruf a, melakukan tindak pidana yang diancam dengan pidana mati\natau pidana penjara seumur hidup, maka pidana penjara yang dapat\ndijatuhkan kepada anak tersebut paling lama 10 (sepuluh) tahun.\n(3) Apabila Anak Nakal sebagaimana dimaksud dalam Pasal 1 angka 2\nhuruf a, belum mencapai umur 12 (dua belas) tahun melakukan\ntindak pidana yang diancam pidana mati atau pidana penjara seumur\nhidup maka terhadap Anak nakal tersebut hanya dapat dijatuhkan\ntindakan sebagaimana dimaksud dalam Pasal 24 ayat (1) huruf b.\n(4) Apabila Anak Nakal sebagaimana dimaksud dalam Pasal 1 angka 2\nhuruf a, belum mencapai umur 12 (dua belas) tahun melakukan\ntindak pidana yang tidak diancam pidana mati atau tidak diancam\npidana penjara seumur hidup, maka terhadap Anak Nakal tersebut\ndijatuhkan salah satu tindakan sebagaimana dimaksud dalam Pasal\n24."
+   }
+  },
+  {
+   "id": "ID-H903-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\nPidana kurungan yang dapat dijatuhkan kepada Anak Nakal sebagaimana\ndimaksud dalam Pasal 1 angka 2 huruf a, paling lama 1/2 (satu per dua)\ndari maksimum ancaman pidana kurungan bagi orang dewasa."
+   }
+  },
+  {
+   "id": "ID-H903-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\n(1) Pidana denda yang dapat dijatuhkan kepada A nak Nakal paling\nbanyak 1/2 (satu per dua) dari maksimum ancaman pidana denda\nbagi orang dewasa.\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Apabila pidana denda sebagaimana dimaksud dalam ayat (1)\nternyata tidak dapat dibayar maka diganti dengan wajib latihan\nkerja.\n(3) Wajib...\n(3) Wajib latihan kerja sebagai pengganti denda dilakukan paling lama\n90 (sembilan puluh) hari kerja dan lama latihan kerja tidak lebih\ndari 4 (empat) jam sehari serta tidak dilakukan pada malam hari."
+   }
+  },
+  {
+   "id": "ID-H903-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\n(1) Pidana bersyarat dapat dijatuhkan oleh Hakim, apabila pidana\npenjara yang dijatuhkan paling lama 2 (dua) tahun.\n(2) Dalam putusan pengadilan mengenai pidana bersyarat sebagaimana\ndimaksud dalam ayat (1) ditentukan syarat umum dan syarat khusus.\n(3) Syarat umum ialah bahwa Anak Nakal tidak akan melakukan tindak\npidana lagi selama menjalani masa pidana bersyarat.\n(4) Syarat khusus ialah untuk melakukan atau tidak melakukan hal\ntertentu yang ditetapkan dalam putusa hakim dengan tetap\nmemperhatikan kebebasan anak.\n(5) Masa pidana bersyarat bagi syarat khusus lebih pendek daripada\nmasa pidana bersyarat bagi syarat umum.\n(6) Jangka waktu masa pidana bersyarat sebagaimana dimaksud dalam\nayat (1) paling lama 3 (tiga) tahun.\n(7) Selama menjalankan masa pidana bersyarat, Jaksa melakukan\npengawasan dan Pembimbing Kemasyarakatan melakukan\nbimbingan agar Anak Nakal menepati persyaratan yang telah\nditentukan.\n(8) Anak Nakal yang menjalani pidana bersyarat dibimbing oleh Balai\nPemasyarakatan dan berstatus sebagai Klien Pemasyarakatan.\n(9) Selama Anak Nakal berstatus sebagai Klien Pemasyarakatan dapat\nmengikuti pendidikan sekolah."
+   }
+  },
+  {
+   "id": "ID-H903-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\n(1) Pidana pengawasan yang dapat dijatuhkan kepada Anak Nakal\nsebagaimana dimaksud dalam Pasal 1 angka 2 huruf a, paling\nsingkat 3 (tiga) bulan dan paling lama 2 (dua) tahun.\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Apabila...\n(2) Apabila terhadap Anak Nakal sebagaimana dimaksud dalam Pasal 1\nangka 2 huruf a, dijatuhkan pidana pengawasan sebagaimana\ndimaksud dalam ayat (1), maka anak tersebut ditempatkan di bawah\npengawasan Jaksa dan bimbingan Pembimbing kemasyarakatan.\n(3) Ketentuan mengenai bentuk dan tata cara pelaksanaan pidana\npengawasan diatur lebih lanjut dengan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H903-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\n(1) Anak Nakal yang oleh Hak im diputus untuk diserahkan kepada\nnegara, ditempatkan di Lembaga Pemasyarakatan Anak sebagai\nAnak Negara.\n(2) Demi kepnetingan anak, Kepala Lembaga Pemasyarakatan Anak\ndapat mengajukan izin kepada Menteri Kehakiman agar Anak\nNegara sebagaimana dimaksud d alam ayat (1) ditempatkan di\nlembaga pendidikan anak yang diselenggarakan oleh Pemerintah\natau Swasta."
+   }
+  },
+  {
+   "id": "ID-H903-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 32\nApabila Hakim memutuskan bahwa Anak Nakal wajib mengikuti\npendidikan, pembinaan, dan latihan kerja sebagaimana dimaksud dalam\nPasal 24 ayat (1 ) huruf c, Hakim dalam keputusannya sekaligus\nmenentukan lembaga tempat pendidikan, pembinaan dan latihan kerja\ntersebut dilaksanakan.\nBAB IV\nPETUGAS KEMASYARAKATAN"
+   }
+  },
+  {
+   "id": "ID-H903-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 33\nPetugas kemasyarakatan terdiri dari:\na. Pembimbing Kemasyarakatan dari Departemen Kehakiman;\nb. Pekerja Sosial dari Departemen Sosial; dan\nc. Pekerja Sosial Sukarela dari Organisasi Sosial Kemasyarakatan."
+   }
+  },
+  {
+   "id": "ID-H903-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 34\nPRESIDEN\nREPUBLIK INDONESIA\n(1) Pembimbing Kemasyarakatan sebagaimana dimaksud dalam Pasal\n33 huruf a bertugas:\na. membantu...\na. membantu memperlancar tugas Penyidik, Penuntut Umum, dan\nHakim dalam perkara Anak Nakal, baik di dalam maupun di luar\nSidang Anak dengan membuat laporan hasil penelitian\nkemasyarakatan;\nb. membimbing, membantu, dan mengawasi Anak nakal yang\nberdasarkan putusan pengadilan dijatuhi pidana bersyarat, pidana\npengawasan, pidana denda, diserahkan kepada negara dan harus\nmengikuti latihan kerja, atau anak yang memperoleh pembebasan\nbersyarat dari Lembaga Pemasyarakatan.\n(2) Pekerja Sosial sebagaimana dimaksud dalam pasal 33 huruf b,\nbertugas membimbing, membantu, dan mengawasi Anak nakal yang\nberdasarkan putusan pengadilan diserahkan kepada Departemen\nSosial untuk mengikuti pendidikan, pembinaan, dan latihan kerja.\n(3) Dalam melaksanakan tugas sebagaimana dimaksud dalam ayat (2)\nPekerja Sosial mengadakan koordinasi dengan Pembimbing\nKemasyrakatan."
+   }
+  },
+  {
+   "id": "ID-H903-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 35\nPembimbing Kemasyarakatan dan Pekerja Sosial dalam melaksanakan\ntugas sebagaimana dimaksud dalam Pasal 34 ayat (1) dan ayat (2) dapat\ndibantu oleh Pekerja Sosial Sukarela sebagaimana dimaksud dalam Pasal\n33 huruf c."
+   }
+  },
+  {
+   "id": "ID-H903-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 36\nKetentuan mengenai tugas, kewajiban, d an syarat -syarat bagi\nPembimbing Kemasyrakatan diatur lebih dengan Keputusan Menteri\nkehakiman."
+   }
+  },
+  {
+   "id": "ID-H903-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 37\nKetentuan mengenai tugas, kewajiban, dan syarat -syarat bagi Pekerja\nSosial diatur lebih lanjut dengan Keputusan Menteri Sosial."
+   }
+  },
+  {
+   "id": "ID-H903-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 38\nPembimbing Kemasyarakatan dan Pekerja Sosial harus mempunyai\nPRESIDEN\nREPUBLIK INDONESIA\nkeahlian khusus sesuai dengan tugas dan kewajibannya atau mempunyai\nketerampilan teknis dan jiwa pengabdian di bidang usaha kesejahteraan\nsosial."
+   }
+  },
+  {
+   "id": "ID-H903-A39",
+   "no": 39,
+   "noLabel": {
+    "id": "Pasal 39…"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 39\n(1) Pekerja Sosial Sukarela harus m empunyai keahlian atau\nketerampilan khusus dan minat untuk membina, membimbing, dan\nmembantu anak demi kelangsungan hidup, perkembangan fisik,\nmental, sosial, dan perlindungan terhadap anak.\n(2) Pekerja Sosial Sukarela memberikan laporan kepada Pembimbing\nKemasyarakatan mengenai hasil bimbingan, bantuan, dan\npembinaan terhadap anak yang berdasarkan putusan pengadilan\ndijatuhi pidana atau tindakan.\nBAB V\nACARA PENGADILAN ANAK\nBagian Pertama\nUmum"
+   }
+  },
+  {
+   "id": "ID-H903-A40",
+   "no": 40,
+   "noLabel": {
+    "id": "Pasal 40"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 40\nHukum Acara yang berlaku diterapkan pula dalam pengadilan anak,\nkecuali lain dalam Undang-undang ini.\nBagian Kedua\nPerkara Anak Nakal\nParagraf 1\nPenyidikan"
+   }
+  },
+  {
+   "id": "ID-H903-A41",
+   "no": 41,
+   "noLabel": {
+    "id": "Pasal 41"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 41\n(1) Penyidikan terhadap Anak Nakal, dilakukan oleh Penyidik yang\nditetapkan berdasarkan Surat Keputusan Kepala Kepolisian\nRepublik Indonesia atau pejabat lain yang ditunjuk oleh Kepala\nKepolisian Republik Indonesia.\n(2) Ssyarat-syarat untuk dapat ditetapkan sebagai Penyidik\nsebagaimana dimaksud dalam ayat (1) adalah:\na. telah ber pengalaman sebagai penyidik tindak pidana yang\nPRESIDEN\nREPUBLIK INDONESIA\ndilakukan oleh orang dewasa;\nb. mempunyai minat, perhatian, dedikasi, dan memahami masalah\nanak.\n(3) Dalam hal tertentu dan dipandang perlu, tugas penyidikan\nsebagaimana dimaksud dalam ayat (1) dapat dibebankan kepada:\na. penyidik...\na. penyidik yang melakukan tugas penyidikan bagi tindak pidana\nyang dilakukan oleh orang dewasa; atau\nb. penyidik lain ya ng ditetapkan berdasarkan ketentuan\nUndang-undang yang berlaku."
+   }
+  },
+  {
+   "id": "ID-H903-A42",
+   "no": 42,
+   "noLabel": {
+    "id": "Pasal 42"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 42\n(1) Penyidik wajib memeriksa tersangka dalam suasana kekeluargaan.\n(2) Dalam melakukan penyidikan terhadap Anak Nakal, Penyidik wajib\nmeminta pertimbangan atau saran dari Pembimbing\nKemasyarakatan, dan apabila perlu juga dapat meminta\npertimbangan atau saran dari ahli pendidikan, ahli kesehatan jiwa,\nahli agama, atau petugas kemasyarakatan lainnya.\n(3) Proses penyidikan terhadap perkara Anak nakal wajib dirahasiakan.\nParagraf 2\nPenangkapan dan Penahanan"
+   }
+  },
+  {
+   "id": "ID-H903-A43",
+   "no": 43,
+   "noLabel": {
+    "id": "Pasal 43"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 43\n(1) Penangkapan Anak Nakal dilakukan sesuai dengan ketentuan Kitab\nUndang-undang Hukum Acara Pidana.\n(2) Penangkapan sebagaimana dimaksud dalam ayat (1) dilakukan guna\nkepentingan pemeriksaan untuk paling lama 1 (satu) hari."
+   }
+  },
+  {
+   "id": "ID-H903-A44",
+   "no": 44,
+   "noLabel": {
+    "id": "Pasal 44"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 44\n(1) Untuk kepentingan penyidikan, Penyidik sebagaimana dimaksud\ndalam pasal 41 ayat (1) dan ayat (3) huruf a, berwenang melakukan\npenahanan terhadap anak yang diduga keras melakukan tindak\npidana berdasarkan bukti permulaan yang cukup.\n(2) Penahanan sebagaimana dimaksud dalamm ayat (1) hanya berlaku\nuntuk paling lama 20 (dua puluh) hari.\n(3) Jangka waktu sebagaimana dimaksud dalam ayat (2) apabila\ndiperlukan guna kepentingan pemeriksaan yang belum selesai, atas\nPRESIDEN\nREPUBLIK INDONESIA\npermintaan Penyidik dapat diperpanjang oleh Penuntut Umum yang\nberwenang, untuk paling lama 10 (sepuluh) hari.\n(4) Dalam...\n(4) Dalam jangka waktu 30 (tiga puluh) hari Penyidik sebagaimana\ndimaksud dalam ayat (1) sudah harus menyerahkan berkas perkara\nyang bersangkutan kepada Penuntut Umum.\n(5) Apabila jangka waktu sebagaimana dimaksud dalam ayat (4)\ndilampaui dan berkas perkara belum diserahkan, maka tersangka\nharus dikeluarkan dari tahanan demi hukum.\n(6) Penahanan terhadap anak dilaksanakan di tempat khusus untuk\nanak di li ngkungan Rumah Tahanan Negara, Cabang Rumah\nTahanan Negara, atau di tempat tertentu."
+   }
+  },
+  {
+   "id": "ID-H903-A45",
+   "no": 45,
+   "noLabel": {
+    "id": "Pasal 45"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 45\n(1) Penahanan dilakukan setelah dengan sungguh -sungguh\nmempertimbangkan kepentingan anak dan atau kepentingan\nmasyarakat.\n(2) Alasan penahanan sebagaimana dima ksud dalam ayat (1) harus\ndinyatakan secara tegas dalam surat perintah penahanan.\n(3) Tempat tahanan anak harus dipisahkan dari tempat tahanan orang\ndewasa.\n(4) Selama anak ditahan kebutuhan jasmani, rohani, dan sosial anak\nharus tetap dipenuhi."
+   }
+  },
+  {
+   "id": "ID-H903-A46",
+   "no": 46,
+   "noLabel": {
+    "id": "Pasal 46"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 46\n(1) Untuk kepentingan penuntutan, Penuntut Umum berwenang\nmelakukan penahanan atau penahanan lanjutan.\n(2) Penahanan sebagaimana dimaksud dalam ayat (1) untuk paling lama\n10 (sepuluh) hari.\n(3) Jangka waktu sebagaimana dimaksud dalam ayat (2) a pabila\ndiperlukan guna kepentingan pemeriksaan yang belum selesai, atas\npermintaan Penuntut Umum dapat diperpanjang oleh Ketua\nPengadilan Negeri yang berwenang untuk paling lama 15 (lima\nPRESIDEN\nREPUBLIK INDONESIA\nbelas) hari.\n(4) Dalam jangka waktu 25 (dua puluh lima) hari, Penunt ut Umum\nharus melimpahkan berkas perkara anak kepada pengadilan negeri.\n(5) Apabila...\n(5) Apabila jangka waktu sebagaimana dimaksud dalam ayat (4)\ndilampaui dan berkas perkara belum dilimpahkan ke pengadilan\nnegeri, maka tersangka harus dikeluarkan dari tahanan demi hukum."
+   }
+  },
+  {
+   "id": "ID-H903-A47",
+   "no": 47,
+   "noLabel": {
+    "id": "Pasal 47"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 47\n(1) Untuk kepentingan pemeriksaan, Hakim di sidang pengadilan\nberwenang mengeluarkan surat perintah penahanan anak yang\nsedang diperiksa.\n(2) Penahanan sebagaimana dimaksud dalam ayat (1) untuk paling lama\n15 (lima belas) hari.\n(3) jangka waktu sebagaimana dimaksud dalam ayat (2) apabila\ndiperlukan guna kepentingan pemeriksaan yang belum selesai,\ndapat diperpanjang oleh Ketua Pengadilan Negeri yang\nbersangkutan untuk paling lama 30 (tiga puluh) hari.\n(4) Apabila jangka waktu sebagaimana dimaksud dalam ayat (3)\ndilampaui dan Hakim Banding belum memberkan putusannya,\nmaka anak yang bersangkutan harus dikeluarkan dari tahanan demi\nhukum."
+   }
+  },
+  {
+   "id": "ID-H903-A48",
+   "no": 48,
+   "noLabel": {
+    "id": "Pasal 48"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 48\n(1) Untuk kepentingan pemeriksaan, Hakim Banding di sidang\npengadilan berwenang mengeluarkan surat perintah penahanan anak\nyang sedang diperiksa.\n(2) Penahanan sebagaimana dimaksud dalam ayat (1) untuk paling lama\n15 (lima belas) hari.\n(3) Jangka waktu sebagaimana dimaksud dalam ayat (2) apabila\ndiperlukan guna kepentingan pemeriksaan yang belum selesai,\ndapat diperpanjang oleh Ketua Pengadilan Tinggi yang\nbersangkutan untuk paling lama 30 (tiga puluh) hari.\n(4) Apabila jangka waktu sebagaimana dimaksud dalam ayat (3)\nPRESIDEN\nREPUBLIK INDONESIA\ndilampaui dan Hakim belum memberikan putusannya, maka anak\nyang bersangkutan harus dikeluarkan dari tahanan demi hukum."
+   }
+  },
+  {
+   "id": "ID-H903-A49",
+   "no": 49,
+   "noLabel": {
+    "id": "Pasal 49…"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 49\n(1) Untuk kepentingan pemeriksaan, Hakim Kasasi berwenang\nmengeluarkan surat perintah penahanan anak yang sedang\ndiperiksa.\n(2) Penahanan sebagaimana dimaksud dalam ayat (1) untuk paling lama\n25 (dua puluh lima) hari.\n(3) Jangka waktu sebagaimana dimaksud dalam ayat (2) apabila\ndiperlukan guna kepentingan pemeriksaan yang belum selesai,\ndapat diperpanjang oleh Ketua Mahkamah Agung untuk paling\nlama 30 (tiga puluh) hari.\n(4) Apabila jangka waktu sebagaimana dimaksud dalam ayat (3)\ndilampaui dan Hakim Kasasi belum memberikan putusannya maka\nanak yang bersangkutan harus dikeluarkan dari tahanan demi\nhukum."
+   }
+  },
+  {
+   "id": "ID-H903-A50",
+   "no": 50,
+   "noLabel": {
+    "id": "Pasal 50"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 50\n(1) Dikecualikan dari jangka waktu penahanan sebagaimana dimaksud\ndalam Pasal 44, Pasal 46, Pasal 47, Pasal 48, dan pasal 49, guna\nkepentingan pemeriksaan, penahanan terhadap tersangka atau\nterdakwa dapat diperpanjang berdasarkan alasan yang patut dan\ntidak dapat dihindar kan karena tersangka atau terdakwa menderita\ngangguan fisik atau mental yang berat, yang dibuktikan dengan\nsurat keterangan dokter.\n(2) Perpanjangan penahanan sebagaimana dimaksud dalam ayat (1)\ndiberikan untuk paling lama 15 (lima belas) hari, dan dalam hal\npenahanan tersebut masih diperlukan, dapat diperpanjang lagi untuk\npaling lama 15 (lima belas) hari.\n(3) Perpanjangan penahanan sebagaimana dimaksud dalam ayat (2)\ndiberikan oleh:\na. Ketua Pengadilan Negeri dalam tingkat penyidikan dan\nPRESIDEN\nREPUBLIK INDONESIA\npenuntutan;\nb. Ketua Pengadilan Tinggi dalam tingkat pemeriksaan di\npengadilan negeri;\nc. Ketua Mahkamah Agung dalam tingkat pemeriksaan banding dan\nkasasi.\n(4) Penggunaan...\n(4) Penggunaan kewenangan perpanjangan penahanan oleh pejabat\nsebagaimana dimaksud dalam ayat (3) dilakukan secara bertahap\ndan dengan penuh tanggung jawab.\n(5) Setelah waktu 30 (tiga puluh) hari, walaupun perkara tersebut\nbelum selesai diperiksa atau belum diputus, tersangka atau terdakwa\nharus sudah dikeluarkan dari tahanan demi hukum.\n(6) Terhadap perpanjangan penahanan sebagaimana dimaksud dalam\nayat (2) tersangka atau terdakwa dapat mengajukan keberatan\nkepada:\na. Ketua Pengadilan Tinggi dalam tingkat p enyidikan dan\npenuntutan;\nb. Ketua Mahkamah Agung dalam tingkat pemeriksaan pengadilan\nnegeri dan pemeriksaan banding."
+   }
+  },
+  {
+   "id": "ID-H903-A51",
+   "no": 51,
+   "noLabel": {
+    "id": "Pasal 51"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 51\n(1) Setiap Anak Nakal sejak saat ditangkap atau ditahan berhak\nmendapatkan bantuan hukum dari seorang atau lebih Penasihat\nHukum selama dalam waktu dan pada setiap tingkat pemeriksaan\nmenurut tata cara yang ditentukan dalam Undang-undang ini.\n(2) Pejabat yang melakukan penangkapan atau penahanan wajib\nmemberitahukan kepada tersangka dan orang tua, wali, atau orang\ntua asuh, men genai hak memperoleh bantuan hukum sebagaimana\ndimaksud dalam ayat (1).\n(3) Setiap Anak Nakal yang ditangkap atau ditahan berhak\nberhubungan langsung dengan Penasihat Hukum dengan diawasi\ntanpa didengar oleh pejabat yang berwenang."
+   }
+  },
+  {
+   "id": "ID-H903-A52",
+   "no": 52,
+   "noLabel": {
+    "id": "Pasal 52"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 52\nDalam memberikan bantuan hukum kepada anak sebagaimana dimaksud\ndalam Pasal 51 ayat (1), Penasihat Hukum berkewajiban memperhatikan\nkepentingan anak dan kepentingan umum serta berusaha agar suasana\nPRESIDEN\nREPUBLIK INDONESIA\nkekeluargaan tetap terpelihara dan peradilan berjalan lancar.\nParagraf 3…\nParagraf 3\nPenuntutan"
+   }
+  },
+  {
+   "id": "ID-H903-A53",
+   "no": 53,
+   "noLabel": {
+    "id": "Pasal 53"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 53\n(1) Penuntutan terhadap Anak Nakal dilakukan oleh Penuntut Umum,\nyang ditetapkan berdasarkan Surat Keputusan Jaksa Agung atau\npejabat lain yang ditunjuk oleh Jaksa Agung.\n(2) Syarat-syarat untuk dapat ditetapk an sebagai Penuntut Umum\nsebagaimana dimaksud dalam ayat (1) adalah:\na. telah berpengalaman sebagai Penuntut Umum tindak pidana yang\ndilakukan oleh orang dewasa;\nb. mempunyai minat, perhatian, dedikasi, dan memahami masalah\nanak.\n(3) Dalam hal tertentu dan dipandang perlu, tugas penuntutan\nsebagaimana dimaksud dalam ayat (1) dapat dibebankan kepada\nPenuntut Umum yang melakukan tugas penuntutan bagi tindak\npidana yang dilakukan oleh orang dewasa."
+   }
+  },
+  {
+   "id": "ID-H903-A54",
+   "no": 54,
+   "noLabel": {
+    "id": "Pasal 54"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 54\nDalam hal Penuntut Umum berpendapat bahwa dari hasil penyidikan\ndapat dilakukan penuntutan, maka ia wajib dalam waktu secepatnya\nmembuat surat dakwaan sesuai dengan ketentuan dalam Kitab\nUndang-undang Hukum Acara Pidana.\nParagraf 4\nPemeriksaan di Sidang pengadilan"
+   }
+  },
+  {
+   "id": "ID-H903-A55",
+   "no": 55,
+   "noLabel": {
+    "id": "Pasal 55"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 55\nDalam perkara Anak Nakal sebagaimana dimaksud dalam Pasal 1 angka\n2, Penuntut Umum, Pensihat Hukum, Pembimbing Kemasyarakatan,\nPRESIDEN\nREPUBLIK INDONESIA\norang tua, wali, atau orang tua asuh dan saksi, wajib hadir dalam Sidang\nAnak."
+   }
+  },
+  {
+   "id": "ID-H903-A56",
+   "no": 56,
+   "noLabel": {
+    "id": "Pasal 56"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 56\n(1) Sebelum sidang dibuka, Hakim memerintahkan agar Pembimbing\nKemasyarakatan menyampaikan laporan hasil penelitian\nkemasyarakatan mengenai anak yang bersangkutan.\n(2) Laporan...\n(2) Laporan sebagaimana dimaksud dalam ayat (2) berisi:\na. data individu anak, keluarga, pendidikan, dan kehidupan sosial\nanak; dan\nb. kesimpulan atau pendapat dari Pembimbing Kemasyarakatan."
+   }
+  },
+  {
+   "id": "ID-H903-A57",
+   "no": 57,
+   "noLabel": {
+    "id": "Pasal 57"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 57\n(1) Setelah Hakim membuka persidangan dan menyatakan sidang\ntertutup untuk umum, terdakwa dipanggil masuk beserta orang tua,\nwali, atau orang tua asuh, Penasihat Hukum dan Pembimbing\nKemasyarakatan.\n(2) Selama dalam persidangan, terdakwa didampingi orang tua, wali,\natau orang tua asuh, Penasihat Hukum dan Pembimbing\nKemasyarakatan."
+   }
+  },
+  {
+   "id": "ID-H903-A58",
+   "no": 58,
+   "noLabel": {
+    "id": "Pasal 58"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 58\n(1) Pada waktu memeriksa saksi, Hakim dapat memerintahkan agar\nterdakwa dibawa keluar ruang sidang.\n(2) Pada waktu pemeriksaan saksi sebagaimana dimaksud dalam ayat\n(1), orang tua, wali, orang tua asuh, Penasihat Hukum, dan\nPembimbing Kemasyarakatan tetap hadir."
+   }
+  },
+  {
+   "id": "ID-H903-A59",
+   "no": 59,
+   "noLabel": {
+    "id": "Pasal 59"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 59\n(1) Sebelum mengucapkan putusannya, Hakim memberikan\nkesempatan kerja kepada orang tua, wali, orang tua asuh untuk\nmengemukakan segala hal ikhwal yang bermanfaat bagi anak.\n(2) Putusan sebagaimana dimaksud dalam ayat (1) wajib\nmempertimbangkan laporan penelitian keamsyarakatan dari\nPembimbing Kemasyarakatan\nPRESIDEN\nREPUBLIK INDONESIA\n(3) Putusan Pengadilan wajib diucapkan dalam sidang terbuka untuk\numum.\nBAB VI…\nBAB VI\nLEMBAGA KEMASYARAKATAN ANAK"
+   }
+  },
+  {
+   "id": "ID-H903-A60",
+   "no": 60,
+   "noLabel": {
+    "id": "Pasal 60"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 60\n(1) Anak Didik Pemasyarakatan ditempatkan di Lembaga\nPemasyarakatan Anak yang harus terpisah dari orang dewasa.\n(2) Anak yang ditempatkan di lembaga sebagaimana dimaksud dalam\nayat (1) berhak memperoleh pendidikan dan latihan sesuai dengan\nbakat dan kemampuannya serta hak lain berdasarkan peraturan\nperundang-undangan yang berlaku."
+   }
+  },
+  {
+   "id": "ID-H903-A61",
+   "no": 61,
+   "noLabel": {
+    "id": "Pasal 61"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 61\n(1) Anak Pidana yang belum s elesai menjalani pidananya di Lembaga\nPemasyarakatan Anak dan telah mencapai umur 18 (delapan belas)\ntahun dipindahkan ke Lembaga Pemasyarakatan.\n(2) Anak Pidana sebagaimana dimaksud dalam ayat (1) yang telah\nmencapai umur 18 (delapan belas) tahun, tetapi ditempatkan di\nLembaga Pemasyarakatan secara terpisah dari yang telah mencapai\numur 21 (dua puluh satu) tahun atau lebih."
+   }
+  },
+  {
+   "id": "ID-H903-A62",
+   "no": 62,
+   "noLabel": {
+    "id": "Pasal 62"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 62\n(1) Anak Pidana yang telah menjalani pidana penjara 2/3 (dua per tiga)\ndari pidana yang dijatuhkan yang sekurang -kurangnya 9 (sembilan)\nbulan dan berkelakuan baik, dapat diberikan pembebasan bersyarat.\n(2) Anak Pidana sebagaimana dimaksud dalam ayat (1) berada di\nbawah pengawasan Jaksa dan Pembimbing Kemasyarakatan yang\ndilaksanakan oleh Balai Pemasyarakatan.\nPRESIDEN\nREPUBLIK INDONESIA\n(3) Pembebasan bersyarat sebagaimana dimaksud dalam ayat (1)\ndisertai dengan masa percobaan yang lamanya sama dengan sisa\npidana yang harus dijalankannya.\n(4) Dalam pembebasan beryarat ditentukan syarat umum dan syarat\nkhusus sebagaimana dimaksud dalam Pasal 29 ayat (3) dan ayat (4).\n(5) Pengamatan terhadap pelaksanaan bimbingan sebagaimana\ndimaksud dalam ayat (2) dilakukan oleh Tim Pengamat\nPemasyarakat."
+   }
+  },
+  {
+   "id": "ID-H903-A63",
+   "no": 63,
+   "noLabel": {
+    "id": "Pasal 63…"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 63\nApabila Kepala Lembaga Pemasyarakatan Anak berpendapat bahwa\nAnak Negara setelah m enjalani masa pendidikannya dalam lembaga\npaling sedikit 1 (satu) tahun dan berkelakuan baik sehingga tidak\nmemerlukan pembinaan lagi, Kepala Lembaga Pemasyarakatan dapat\nmengajukan permohonan izin kepada Menteri Kehakiman agar anak\ntersebut dapat dikeluar kan dari lembaga dengan atau tanpa syarat\nsebagaimana dimaksud dalam Pasal 29 ayat (3) dan ayat (4).\nBAB VII\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H903-A65",
+   "no": 65,
+   "noLabel": {
+    "id": "Pasal 65"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 65\nPerkara Anak nakal yang pada saat berlakunya Undang-undang ini:\na. sudah diperiksa tetapi belum diputus, penyeles aian selanjutnya\ndilaksanakan berdasarkan hukum acara yang berlaku sebelum\nberlakunya Undang-undang ini;\nb. sudah dilimpahkan ke pengadilan negeri tetapi belum diperiksa,\npenyelesaian selanjutnya dilaksanakan berdasarkan hukum acara\nPengadilan Anak yang diatur dalam Undang-undang ini."
+   }
+  },
+  {
+   "id": "ID-H903-A66",
+   "no": 66,
+   "noLabel": {
+    "id": "Pasal 66"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 66\nPutusan hakim mengenai perkara Anak Nakal yang belum memperoleh\nkekuatan hukum tetap, atau yang telah memperoleh kekuatan hukum\ntetap tetapi belum dilaksanakan pada saat Undang -undang ini mulai\nberlaku, penyelesaian selanjutnya dilaksanakan berdasarkan\nUndang-undang ini.\nPRESIDEN\nREPUBLIK INDONESIA\nBAB VIII\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H903-A67",
+   "no": 67,
+   "noLabel": {
+    "id": "Pasal 67"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 67\nPada saat mulai berlakunya Undang-undang ini, maka Pasal 45, Pasal 46,\ndan Pasal 47 Kitab Undang -undang Hukum Pidana dinyatakan tidak\nberlaku lagi."
+   }
+  },
+  {
+   "id": "ID-H903-A68",
+   "no": 68,
+   "noLabel": {
+    "id": "Pasal 68…"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 68\nUndang-undang ini mulai berlaku 1 (satu) tahun terhitung sejak tanggal\ndiundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nUndang-undang ini dengan penempatannya dalam Lembaran Negara\nRepublik Indonesia.\nDisahkan di Jakarta\npada tanggal 3 Januari 1997\nPRESIDEN REPUBLIK INDONESIA\nttd.\nSOEHARTO\nDiundangkan di Jakarta\npada tanggal 3 Januari 1997\nMENTERI NEGARA SEKRETARIS NEGARA\nREPUBLIK INDONESIA,\nttd.\nMOERDIONO\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1997 NOMOR 3\nPRESIDEN\nREPUBLIK INDONESIA\nPENJELASAN\nATAS\nUNDANG-UNDANG REPUBLIK INDONESIA\nNOMOR 3 TAHUN 1997\nTENTANG\nPENGADILAN ANAK\nUMUM\nAnak sebagai bagian dari generasi muda merupakan penerus cita -cita perjuangan bangsa\ndan sumber daya manusia bagi pembangunan nasional. Dalam rangka mewujudkan\nsumber daya manusia Indonesia yang berkualitas dan mampu memimpin serta\nmemelihara kesatuan dan persatuan bangsa dalam wadah Negara Kesatuan Republik\nIndonesia yang berdasarkan Pancasila dan Undang -Undang Dasar 1945, diperlukan\npembinaan secara terus menerus demi kelangsungan hidup, pertumbuhan dan\nperkembangan fisik, mental, dan sosial serta perlindungan dari segala kemungkinan yang\nakan membahayakan mereka da n bangsa di masa depan. Dalam berbagai hal upaya\npembinaan dan tantangan dalam masyarakat dan kadang -kadang dijumpai penyimpangan\nperilaku di kalangan anak, bahkan lebih dari itu terdapat anak yang melakukan perbuatan\nmelanggar hukum tanpa mengenal status sosial dan ekonomi.\nDisamping itu, terdapat pula anak, yang karena satu dan lain hal tidak mempunyai\nkesempatan memperoleh perhatian baik secara fisik, mental, maupun sosial. Karena\nkeadaan diri yang tidak memadai tersebut, maka baik sengaja maupun tidak sengaja\nsering juga anak melakukan tindakan atau perilaku yang dapat merugikan dirinya dan atau\nmasyarakat. Penyimpangan tingkah laku atau perbuatan melanggar hukum yang dilakukan\noleh anak, disebabkan oleh berbagai faktor, antara lain adanya dampak negati f dari\nperkembangan pembangunan yang cepat, arus globalisasi di bidang komunikasi dan\ninformasi, kemajuan ilmu pengetahuan dan teknologi serta perubahan gaya dan cara hidup\nsebagian orang tua, telah membawa perubahan sosial yang mendasar dalam kehidupan\nmasyarakat yang sangat berpengaruh terhadap nilai dan perilaku anak. Selain itu, anak\nyang kurang atau tidak memperoleh kasih sayang, asuhan, bimbingan, dan pembinaan\ndalam pengembangan sikap, perilaku, penyesuaian diri, serta pengawasan dari orang tua,\nwali, atau orang tua asuh akan mudah terseret dalam arus pergaulan masyarakat dan\nlingkungannya yang kurang sehat dan merugikan perkembangan pribadinya.\nDalam menghadapi dan menanggulangi berbagai perbuatan dan tingkah laku Anak Nakal,\nperlu dipertimbangkan k edudukan anak dengan segala ciri dan sifatnya yang khas.\nWalaupun anak telah dapat menentukan sendiri langkah perbuatannya berdasar pikiran,\nperasaan, dan kehendaknya, tetapi keadaan sekitarnya dapat mempengaruhi perilakunya.\nOleh karena itu, dalam menghad api masalah Anak Nakal, orang tua dan masyarakat\nsekelilingnya seharusnya lebih bertanggungjawab terhadap pembinaan, pendidikan, dan\npengembangan perilaku anak tersebut.\nHubungan…\nPRESIDEN\nREPUBLIK INDONESIA\nHubungan antara orang tua dengan anaknya merupakan suatu hubungan yang hakiki, baik\nhubungan psikologis, maupun mental spritualnya. Mengingat ciri dan sifat anak yang\nkhas tersebut, maka dalam menjatuhkan pidana atau tindakan terhadap Anak Nakal\ndiusahakan agar anak dimaksud jangan dipisahkan dari orang tuanya. Apabila karena\nhubungan antara orang tua dan anak kurang baik, atau karena sifat perbuatannya sangat\nmerugikan masyarakat, sehingga perlu memisahkan anak dari orang tuanya, hendaklah\ntetap dipertimbangkan bahwa pemisahan tersebut semata -mata demi pertumbuhan dan\nperkembangan anak secara sehat dan wajar.\nDi samping pertimbangan tersebut di atas, demi pertumbuhan dan perkembangan mental\nanak, perlu ditentkan pembedaan perlakuan di dalam hukum acara dan ancaman\npidananya. Dalam hubungan ini pengaturan pengecualian dari ketentua n yang diatur\ndalam Undang -undang Nomor 8 Tahun 1981 tentang Hukum Acara Pidana, yang lama\npelaksanaan penahannya ditentukan sesuai dengan kepentingan anak dan pembedaan\nancaman pidana bagi anak yang ditentukan oleh Kitab Undang -undang Hukum Pidana\nyang penjatuhan pidananya ditentukan 1/2 (satu per dua) dari maksimum ancaman pidana\nyang dilakukan oleh orang dewasa, sedangkan penjatuhan pidana mati dan pidana penjara\nseumur hidup tidak diberlakukan terhadap anak.\nPembedaan perlakuan dan ancaman yang diatur dalam Undang-undang ini dimaksudkan\nuntuk lebih melindungi dan mengayomi anak tersebut agar dapat menyongsong masa\ndepannya yang masih panjang. Selain itu pembedaan tersebut dimaksudkan untuk\nmemberi kesempatan kepada anak agar melalui pembinaan akan diper oleh jati dirinya\nuntuk menjadi manusia yang mandiri, bertanggungjawab, dan berguna bagi diri, keluarga,\nmasyarakat, bangsa dan negara.\nKhusus mengenai sanksi terhadap anak dalam Undang-undang ini ditentukan berdasarkan\nperbedaan umur anak, yaitu bagi ana k yangmasih berumur 8 (delapan) tahun sampai 12\n(dua belas) tahun hanya dikenakan tindakan, sepeti dikembalikan kepada orang tuanya,\nditempatkan pada organisasi sosial, atau diserahkan kepada Negara, sedangkan terhadap\nanak yang telah mencapai umur di atas 12 (dua belas) tahun dijatuhkan pidana.\nPembedaan perlakuan tersebut didasarkan atas pertumbuhan dan perkembangan fisik,\nmental, dan sosial anak.\nMengingat ciri dan sifat yang khas pada anak dan demi perlindungan terhadap anak, maka\nperkara Anak Nakal, wajib disidangkan pada Pengadilan Anak yang berada di lingkungan\nPeradilan Umum. Dengan demikian proses peradilan perkara Anak Nakal dari sejak\nditangkap, ditahan, diadili dan pembinaan selanjutnya, wajib dilakukan oleh pejabat\nkhusus yang benar-benar memahami masalah anak.\nDalam penyelesaian perkara Anak Nakal, Hakim wajib mempertimbangkan laporan hasil\npenelitian ke masyarakat yang dihimpun oleh Pembimbing Kemasyarakatan mengenai\ndata pribadi maupun keluarga dari anak yang bersangkutan.\nDengan adanya hasil laporan tersebut, diharapkan Hakim dapat memperoleh gambaran\nyang tepat untuk memberikan putusan yang seadil-adilnya bagi anak yang bersangkutan.\nPRESIDEN\nREPUBLIK INDONESIA\nPutusan…\nPutusan hakim akan mempengaruhi kehidupan selanjutnya dari anak yang bersangkut an,\noleh sebab itu Hakim harus yakin benar, bahwa putusan yang diambil akan dapat menjadi\nsalah satu dasar yang kuat untuk mengembalikan dan mengantar anak menuju masa depan\nyang baik untuk mengembangkan dirinya sebagai warga yang bertanggungjawab bagi\nkehidupan keluarga, bangsa dan negara.\nUntuk lebih memantapkan upaya pembinaan dan pemberian bimbingan bagi Anak Nakal\nyang telah diputus oleh Hakim, maka anak tersebut ditampung di Lembaga\nPemasyarakatan Anak. Berbagai pertimbangan tersebut di atas serta da lam rangka\nmewujudkan peradilan yang memperhatikan perlindungan dan kepentingan anak, maka\nperlu diatur ketentuan-ketentuan mengenai penyelenggaraan pengadilan yang khusus bagi\nanak dalam lingkungan Peradilan Umum.\nDengan demikian Pengadilan Anak diharapka n memberikan arah yang tepat dalam\npembinaan dan perlindungan terhadap anak.\nPASAL DEMI PASAL\nPasal 1\nCukup jelas\nPasal 2\nCukup jelas\nPasal 3\nCukup jelas\nPasal 4\nAyat (1)\nSesuai dengan asas praduga tak bersalah, maka seorang Anak nakal yang\nsedang dalam proses peradilan tetap dianggap sebagai tidak bermasalah\nsampai adanya putusan pengadilan yang mempunyai kekuatan hukum tetap.\nBatas umur 8 (delapan) tahun bagi Anak Nakal untuk dapat diajukan ke\nSidang Anak didasarkan pada pertimbangan sosialogis, psikologis dan\npedagogis, bahwa anak yang belum mencapai 8 (delapan) tahun dianggap\nbelum dapat mempertanggungjawabkan perbuatannya.\nAyat (2)\nCukup jelas\nPasal 5\nAyat (1)\nDalam proses pemeriksaan yang dilakukan oleh Penyidik terhadap anak\nyang melakukan tindak pidana sebelum mencapai umur 8 (delapan) tahun\ntetap diterapkan asas praduga tak bersalah.\nPRESIDEN\nREPUBLIK INDONESIA\nPenyidikan…\nPenyidikan terhadap anak dilakukan untuk apakah anak melaku kan tindak\npidana seorang diri atau ada unsur pengikutsertaan (delneming) dengan\nanak yang berumur di atas 8 (delapan) tahun atau dengan orang dewasa.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nPasal 6\nKetentuan dalam Pasal ini dimaksudkan untuk me nciptakan suasana kekeluargaan\npada Sidang Anak.\nPasal 7\nKetentuan dalam Pasal ini dimaksudkan untuk menunjukan bahwa Undang-undang\nini memberikan perlakuan khusus terhadap anak, dalam arti harus ada pemisahan\nperlakuan terhadap anak dan perlakuan terhadap orang dewasa, atau terhadap\nAnggota Angkatan Bersenjata Republik Indonesia dalam perkara koneksitas.\nYang dimaksud dengan \"Mahkamah Militer\" adalah pengadi lan di lingkungan\nPeradilan Militer.\nPasal 8\nAyat (1)\nPemeriksaan perkara anak dilakukan dalam sidang tertutup untuk\nmelindungi kepentingan anak.\nAyat (2)\nPada prinsipnya pemeriksaan perkara anak harus dilakukan secara tertutup.\nWalaupun demikian dalam hal tertentu dan dipandang perlu, Hakim dapat\nmenetapkan pemeriksaan perkara dilakukan secara terbuka, tanpa\nmengurangi hak anak. Hal tertentu dan dipandang perlu tersebut antara lain\nkarena sifat dan keadaan perkara harus dilakukan secara terbuka. Suatu sifat\nperkara akan diperiksa secara terbuka misalnya perkara pelanggaran lalu\nlintas, sedangkan dilihat dari keadaan perkara misalnya pemeriksaan\nperkara di tempat kejadian perkara.\nAyat (3)\nCukup jelas\nAyat (4)\nYang dimaksud dengan \"orang -orang tertentu\" antara lain psikolog, tenaga\npendidik, ahli agama, tenaga peneliti, dan mahasiswa yang mengadakan\nriset.\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (5)…\nAyat (5)\nTanpa mengurangi hak yang dijamin dalam peraturan perundang -undangan\natau kode etik penyiaran berita, pemberian mengenai hal yang terkait\ndengan perkara anak perlu dibatasi. Oleh karena itu, sejak penyidikan\nsampai sebelum putusan pengadilan dijatuhkan, nama pihak -pihak yang\nterkait dengan perkara anak digunakan singkatan.\nAyat (6)\nMeskipun pemeriksaan perkara Anak Nakal dilakukan dalam sidang\ntertutup, namun putusan Hakim sesuai dengan ketentuan yang berlaku wajib\ndiucapkan dalam sidang terbuka untuk umum.\nPasal 9\nCukup jelas\nPasal 10\nHuruf a\nCukup jelas\nHuruf b\nYang dimaksud dengan \"mempunyai minat, perhatian, dedikasi, dan\nmemahami masalah anak\" adalah memahami:\n1) pembinaan anak yang meliputi pola asuh keluarga, pola pembinaan\nsopan santun, disiplin anak, serta melaksanakan pendekatan secara\nefektif, afektif dan simpatik;\n2) pertumbuhan dan perkembangan anak; dan\n3) berbagai tata nilai yang hidup di masyarakat yang mempengaruhi\nkehidupan anak.\nPasal 11\nAyat (1)\nCukup jelas\nAyat (2)\nYang dimaksud dengan \"hal tertentu\" adalah apabila ancaman pidana atas\ntindak pidana yang dilakukan anak yang bersangkutan lebih dari 5 (lima)\ntahun dan sulit pembuktiannya.\nAyat (3)\nCukup jelas\nPasal 12\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (1)…\nAyat (1)\nCukup jelas\nPasal 13\nCukup jelas\nPasal 14\nAyat (1)\nCukup jelas\nAyat (2)\nLihat penjelasan Pasal 11 ayat (2)\nAyat (3)\nCukup jelas\nPasal 15\nYang dimaksud dengan \"bimbingan\" adalah pengarahan dan petunjuk, tanpa\nmengurangi kebebasan Hakim dari Ketua Pengadilan Tinggi kepada Hakim di\ndaerah hukumnya, apabila Hakim tidak melaksanakan tugas sesuai dengan\nprosedur yang ditentukan dalam Undang-undang ini.\nPasal 16\nCukup jelas\nPasal 17\nCukup jelas\nPasal 18\nAyat (1)\nCukup jelas\nAyat (2)\nLihat penjelasan Pasal 11 ayat (2)\nAyat (3)\nCukup jelas\nPasal 19\nCukup jelas\nPasal 20\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 21…\nPasal 21\nCukup jelas\nPasal 22\nCukup jelas\nPasal 23\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nPembayaran ganti rugi yan dijatuhkan sebagai pidana tambahan merupakan\ntanggungjawab dari orang tua atau orang lain yang menjalankan kekuasaan\norang tua.\nAyat (4)\nCukup jelas\nPasal 24\nAyat (1)\nHuruf a\nMeskipun anak dikembalikan kepada orang tua, wali, atau orang tua\nasuh, anak tersebut tetap di bawah pengawasan dan bimbingan\nPembimbing Kemasyarakatan antara lain mengikuti kegiatan\nkepramukaan dan lain-lain.\nHuruf b\nApabila Hakim berpendapat bahwa ora ng tua, wali atau orang tua\nasuh tidak memberikan pendidikan dan pembinaan yang lebih baik,\nmaka Hakim dapat menetapkan anak tersebut ditempatkan di\nLembaga Pemasyarakatan Anak untuk mengikuti pendidikan,\npembinaan, dan latihan kerja.\nLatihan kerja dimaks udkan untuk memberkan bekal keterampilan\nkepada anak, misalnya dengan memberikan keterampilan mengenai\npertukangan, pertanian, perbengkelan, tata rias dan sebagainya\nsehingga setelah selesai menjalani tindakan dapat hidup mandiri.\nPRESIDEN\nREPUBLIK INDONESIA\nHuruf c…\nHuruf c\nPada prinsipnya pendidikan, pembinaan dan latihan kerja\ndiselenggarakan oleh Pemerintah di Lembaga Pemasyarakatan Anak\natau Departemen Sosial, tetapi dalam kepentingan anak\nmenghendaki Hakim dapat menetapkan anak yang bersangkutan\ndiserahkan kepada Organ isasi Sosial Kemasyarakatan, seperti\npesantren, panti sosial dan lembaga sosial lainnya dengan\nmemperhatikan agama anak yang bersangkutan.\nAyat (2)\nYang dimaksud dengan \"teguran\" adalah peringatan dari Hakim baik secara\nlangsung terhadap anak yang dijat uhi tindakan maupun secara tidak\nlangsung melalui orang tua, wali, atau orang tua asuhnya, agar anak tersebut\ntidak mengulangi perbuatan yang mengakibatkan ia dijatuhi tindakan.\nYang dimaksud dengan \"syarat tambahan\" misalnya kewajiban untuk\nmelapor secara periodik kepada Pembimbing Kemasyarakatan.\nPasal 25\nDalam menentukan pidana atau tindakan yang dapat dijatuhkan kepada anak,\nHakim memperhatikan berat ringannya tindak pidana atau kenakalan yang\ndilakukan oleh anak yang bersangkutan. Di samping itu Hak im juga wajib\nmemperhatikan keadaan anak, keadaan rumah tangga orang tua, wali. atau orang\ntua asuh, hubungan antara anggota keluarga dan keadaan lingkungannya.\nDemikian pula, Hakim wajib memperhatikan laporan Pembimbing\nKemasyarakatan\nPasal 26\nAyat (1)\nYang dimaksud dengan \"maksimum ancaman pidana penjara bagi orang\ndewasa\" adalah maksimum ancaman pidana penjara terhadap tindak pidana\nyang dilakukan sesuai dengan yang ditentukan dalam Kitab Undang-undang\nPidana atau Undang-undang lainnya.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 27…\nPasal 27\nYang dimaksud dengan \"maksimum ancaman pidana denda bagi orang dewasa\"\nadalah maksimum ancaman pidana kurungan terhadap tindak pidana yang\ndilakukan sesuai dengan yang ditentukan dalam Kitab Undang -undang Hukum\nPidana atau Undang-undang lainnya.\nPasal 28\nAyat (1)\nYang dimaksud dengan \"maksimum ancaman pidana denda bagi orang\ndewasa adalah maksimum ancaman pidana denda terhadap tindak pidana\nyang dilakukan sesuai dengan yang ditentukan dalam Kitab Undang-undang\nHukum Pidana atau Undang-undang lainnya.\nAyat (2)\nWajib latihan kerja dimaksudkan sebagai pengganti pidana denda yang\nsekaligus untuk mendidik anak yang bersangkutan agar memiliki\nketerampilan yang bermanfaat bagi dirinya.\nAyat (3)\nCukup jelas\nPasal 29\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nYang dimaksud dengan \"syarat khusus\" antara lain tidak boleh\nmengemudikan kendaraan bermotor atau diwajibkan mengikuti kegiatan\nyang di programkan Balai Pemasyarakatan.\nAyat (5)\nCukup jelas\nAyat (6)\nCukup jelas\nAyat (7)\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (8)…\nAyat (8)\nCukup jelas\nAyat (9)\nYang dimaksud dengan \"pendidikan sekolah\" adalah pendidikan yang\ndilaksanakan di sekolah sebagaimana dimaksud dalam Undang-undang\nNomor 2 Tahun 1989 tentang Sistem Pendidikan Nasional.\nPasal 30\nYang dimaksud dengan \"pidana pengawasan\" adalah pidana yang khusus\ndikenakan untuk anak, yakni pengawasan yang dilakukan oleh Jaksa terhadap\nperilaku anak dalam kehidupan sehari-hari di rumah anak tersebut, dan pemberian\nbimbingan yang dilakukan oleh Pembimbing Kemasyarakatan.\nPasal 31\nAyat (1)\nCukup jelas\nAyat (2)\nDemi kepentingan anak, Kepala Lembaga Pemasyarakatan diberikan\nkewenangan untuk memindahkan Anak Negara dari Lembaga\nPemasyarakatan Anak ke lembaga pendidikan anak yang diselenggarakan\nPemerintah atau swasta dengan memperhatikan agama anak yang\nbersangkutan. Pemberian kewenangan ini didasarkan pada pertimbangan\nkarena Kepala Lembaga Pemasyarakatan Anak mengetahui dengan baik\nmengenai perkembangan anak selama mengalami pembinaan di dalam\nLembaga Pemasyarakatan Anak, serta pembinaan Anak Negara selanjutnya.\nNamun, kewenangan untuk memindahkan Anak Negara ini harus mendapat\nizin terlebih dahulu dari Menteri Kehakiman.\nYang dimaksud dengan \"lembaga pendidikan anak\" adalah setiap lembaga\nyang menyelenggarakan kegiatan dalam rangka memberikan pendidikan\nkepada anak, baik jasmani, rohani, maupun sosial anak.\nPasal 32\nKeharusan mengikuti pendidikan, pembinaan, dan latihan kerja, khusus dikenakan\nkepada Anak Nakal yang tidak atau kurang mengenal disiplin dan ketertiban dalam\nkehidupan sehari-hari.\nPasal 33\nCukup jelas\nPasal 34\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 35…\nPasal 35\nCukup jelas\nPasal 36\nCukup jelas\nPasal 37\nCukup jelas\nPasal 38\nCukup jelas\nPasal 39\nCukup jelas\nPasal 40\nCukup jelas\nPasal 41\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nHuruf a\nCukup jelas\nHuruf b\nLihat penjelasan Pasal 10 huruf b\nAyat (3)\nYang dimaksud dengan \"hal tertentu\" adalah dalam hal belum terdapat\npenyidik anak yang persyaratan pengangkatannya sebagaimana ditentukan\ndalam Undang-udang ini.\nKetentuan dalam ayat ini dimaksudkan agar penyidikan tetap dapat\ndilaksanakan, walaupun di da erah tersebut belum ada penunjukan penyidik\nanak, sedangkan penyidik lain dalam huruf b adalah Penyidik Pegawai\nNegeri Sipil yang ditetapkan berdasarkan Undang-undang yang berlaku.\nPasal 42\nAyat (1)\nYang dimaksud dengan \"dalam suasana kekeluargaan\" anta ra lain pada\nwaktu memeriksa tersangka, Penyidik tidak memakai pakaian dinas dan\nPRESIDEN\nREPUBLIK INDONESIA\nmelakukan pendekatan secara efektif, afektif, dan simpatik.\nAyat (2)…\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nPasal 43\nAyat (1)\nCukup jelas\nAyat (2)\nYang dimaksud dengan \"1 (satu) hari\" adalah satu kali 24 (dua puluh\nempat) jam.\nPasal 44\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nAyat (5)\nCukup jelas\nAyat (6)\nYang dimaksud dengan \"tempat khusus \" adalah tempat penahanan yang\nsecara khusus diperuntukkan bagi anak, yang terpisah dari tahanan orang\ndewasa. Apabila di dalam suatu daerah belum terdapat Rumah tahanan\nnegara atau cabang Rumah Tahanan Negara, atau apabila di kedua tempat\ntahanan di atas sudah penuh, maka penahanan terhadap anak dapat\ndilaksanakan di tempat tertentu lainnya dengan tetap memperhatikan\nkepentingan pemeriksaan perkara dan kepentingan anak.\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 45…\nPasal 45\nAyat (1)\nPada dasarnya penahanan dilakukan untuk kepentingan pemeriksaan,\nnamun penahanan terhadap anak harus pula memperhatikan kepentingan\nanak yang menyangkut pertumbuhan dan perkembangan anak, baik fisik,\nmental, maupun sosial anak dan kepentingan masyarakat.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nKebutuhan rohani anak termasuk kebutuhan intelektual anak.\nPasal 46\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nYang dimaksud dengan \"kepentingan pemeriksaan\" adalah kepentingan\npemeriksaan dalam rangka penuntutan.\nAyat (4)\nCukup jelas\nAyat (5)\nCukup jelas\nPasal 47\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 48\nCukup jelas\nPasal 49…\nPasal 49\nCukup jelas\nPasal 50\nCukup jelas\nPasal 51\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nKetentuan ini tidak mengurangi hak orang tua , wali, orang tua asuh, atau\npetugas kemasyarakatan untuk berhubungan langsung dengan anak yang\nditangkap atau ditahan.\nPasal 52\nDalam melaksa nakan kewajiban ini, Penasihat Hukum memperhatikan pula\npendapat petugas kemasyarakatan sebagaimana dimaksud dalam Pasal 33.\nPasal 53\nAyat (1)\nCukup jelas\nAyat (2)\nHuruf a\nCukup jelas\nHuruf b\nLihat penjelasan Pasal 10 huruf b.\nAyat (3)\nYang dimaksud dengan \"hal tertentu\" adalah dalam hal belum terdapat\npenuntut umum anak yang persyaratan pengangkatannya sebagaimana\nditentukan dalam Undang -undang ini. Ketentuan dalam ayat ini\ndimaksudkan agar penuntutan tetap dapat dilaksanakan, walaupun di daerah\ntersebut belum ada penunjukan penuntut umum anak.\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 54\nCukup jelas\nPasal 55…\nPasal 55\nMeskipun pada prinsipnya tindak Pidana merupakan tanggung jawab terdakwa\nsendiri, tetapi karena dalam hal ini terdakwanya adalah anak, maka tidak dapa t\ndipisahkan dengan kehadiran orang tua, wali, atau orang tua asuh.\nPasal 56\nAyat (1)\nYang dimaksud dengan \"sebelum sidang dibuka\" adalah sebelum sidang\nsecara resmi dibuka. Ketentuan ini dimaksudkan untuk memberi cukup\nwaktu bagi Hakim untuk mempelajar i laporan penelitian kemasyarakatan,\nkarena itu laporan tersebut tidak diberikan pada saat menjelang sidang\nmelainkan beberapa waktu sebelumnya.\nHakim wajib meminta penjelasan kepada pembimbing Kemasyarakatan atas\nhal tertentu yang berhubungan dengan per kara anak untuk mendapatkan\ndata yang lebih lengkap.\nAyat (2)\nCukup jelas\nPasal 57\nCukup jelas\nPasal 58\nAyat (1)\nTerdakwa dibawa ke luar sidang dimaksudkan untuk menghindari adanya\nhal yang mempengaruhi jiwa anak.\nAyat (2)\nCukup jelas\nPasal 59\nAyat (1)\nCukup jelas\nAyat (2)\nYang dimaksud dengan \"wajib\" dalam ayat ini adalah apabila ketentuan ini\ntidak dipenuhi, mengakibatkan putusan batal demi hukum.\nAyat (3)\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 60…\nPasal 60\nAyat (1)\nApabila di dalam suatu daerah belum terdapat Lembaga pemasyarakatan\nAnak sebagaimana dimaksud dalam Undang-undang Nomor 12 Tahun 1995\ntentang Pemasyarakatan, maka Anak Didik Pemasyarakatan dapat\nditempatkan di Lembaga Pemasyarakatan yang penempatnnya terpi sah dari\norang dewasa.\nAyat (2)\nHal yang diperoleh Anak Didik Pemasyarakatan selama ditempatkan di\nLembaga Pemasyarakatan Anak sesuai dengan ketentuan Undang -undang\nNomor 12 Tahun 1995 tentang Pemasyarakatan. Dalam pemberian hak\ntersebut tetap perlu dipe rhatikan pembinaan bagi nak yang bersangkutan\nantara lain mengenai pertumbuhan dan perkembangan baik fisik, mental,\nmaupun sosial anak.\nPasal 61\nAyat (1)\nCukup jelas\nAyat (2)\nPenempatan Anak Pidana di lembaga Pemasyarakatan dilakukan dengan\nmenyediakan blok tertentu bagi mereka yang telah mencapai umur 18\n(delapan belas) tahun sampai 21 (dua puluh satu) tahun.\nPasal 62\nCukup jelas\nPasal 63\nUntuk mengeluarkan anak dari Lembaga Pemasyarakatan Anak diperlukan izin\ndari Menteri Kehakiman, agar mengenai masalah tersebut dapat dilaksanakan\ndengan tertib.\nPasal 64\nCukup jelas\nPasal 65\nCukup jelas\nPasal 66\nPRESIDEN\nREPUBLIK INDONESIA\nCukup jelas\nPasal 67\nCukup jelas\nPasal 68…\nPasal 68\nCukup jelas\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 3668"
+   }
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "id": "PH-H15787",
+ "title": {
+  "zh": null,
+  "en": "An Act Repealing Section Sixty and Amending Sections Sixty-Nine and Seventy-Six of Commonwealth Act Numbered One, Known as the National Defense Act.",
+  "orig": "An Act Repealing Section Sixty and Amending Sections Sixty-Nine and Seventy-Six of Commonwealth Act Numbered One, Known as the National Defense Act."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1936-10-23",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 70",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 1613,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00070_1936_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00070_1936_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H15787-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section sixty of Commonwealth Act Numbered One, known as the National Defense Act, is\nhereby repealed."
+   }
+  },
+  {
+   "id": "PH-H15787-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Section sixty-nine of Commonwealth Act Numbered One, known as the National Defense Act, is\nhereby amended to read as follows:\n\"Section 69. Where dependency was the cause for deferment and that condition continues after the termination\nof the period of deferment, the young man shall be liable to trainee instruction, and shall enter upon such\ninstruction. During the period of his absence undergoing instruction, an allowance for the partial support of\nhis dependent or dependents, who have no other means of support, shall be made by the Philippine\nGovernment. The corresponding acceptance board shall determine the dependent or dependents entitled to this\nallowance, which shall be fixed by Executive Order.\""
+   }
+  },
+  {
+   "id": "PH-H15787-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "Section seventy-six of Commonwealth Act Numbered One, known as the National Defense Act,\nis hereby amended by inserting a new section after it, which shall be known as section seventy-six-A, and\nshall read as follows:\n\"Section 76-A. Any person failing to register for military service herein provided, or who shall fail to report to\nthe corresponding acceptance board or to a designated training station after having been duly notified to do so\nshall, upon conviction, be sentenced to serve not more than one year in prison or to pay a fine of not to exceed\ntwo thousand pesos, or both, at the discretion of the court. Conviction for this offense shall not exempt the\nperson convicted from the military service herein required.\""
+   }
+  },
+  {
+   "id": "PH-H15787-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, October 23, 1936."
+   }
+  }
+ ]
+}

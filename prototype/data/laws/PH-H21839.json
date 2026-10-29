@@ -1,0 +1,72 @@
+{
+ "id": "PH-H21839",
+ "title": {
+  "zh": null,
+  "en": "Construction of a Convention Center in Baguio City",
+  "orig": "Construction of a Convention Center in Baguio City"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p159",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1974-02-27",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 396",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 873,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_00396_1974_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_00396_1974_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H21839-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The above-described parcels of land located in Baguio City valued at Seven Million One\nhundred forty-seven thousand four hundred forty pesos (P7,147,440.00) are hereby conveyed, transferred and\nceded to the Government Service Insurance System as additional contribution of the National Government to\naugment the actuarial solvency of the System's Retirement Insurance Fund, on the condition that the GSIS\nshall for its own account construct a convention center equipped with the essential facilities and amenities\nnecessary to service local, regional, and international conferences."
+   }
+  },
+  {
+   "id": "PH-H21839-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Any provision of law, executive order, rules and regulations inconsistent with this Decree is\nhereby repealed or modified accordingly."
+   }
+  },
+  {
+   "id": "PH-H21839-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Decree shall take effect immediately.\nDone in the City of Manila, this 27th day of February, in the year of Our Lord, nineteen hundred and\nseventy-four."
+   }
+  }
+ ]
+}

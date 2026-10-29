@@ -1,0 +1,62 @@
+{
+ "id": "PH-H14240",
+ "title": {
+  "zh": null,
+  "en": "An Act Appropriating the Sum of Seventy-Five thousand Pesos for Additional Public Land Inspectors to Expedite the Inspection Work of the Bureau of Lands, and for Other Purposes.",
+  "orig": "An Act Appropriating the Sum of Seventy-Five thousand Pesos for Additional Public Land Inspectors to Expedite the Inspection Work of the Bureau of Lands, and for Other Purposes."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1929-12-02",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3607",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 489,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1929/act_3607_1929.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03607_1929_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03607_1929_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14240-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "There is hereby appropriated out of any funds in the Insular Treasury, not otherwise\nappropriated, the sum of seventy-five thousand pesos for the salaries and traveling expenses of the following\nadditional personnel for the Bureau of Lands:\n30 public land inspectors at P1,200\n50 assistant public land inspectors at P600\nTraveling expenses and per diems\n9,000.00\n---------------\n75,000.00"
+   }
+  },
+  {
+   "id": "PH-H14240-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on January first, nineteen hundred and thirty.\nApproved, December 2, 1929."
+   }
+  }
+ ]
+}

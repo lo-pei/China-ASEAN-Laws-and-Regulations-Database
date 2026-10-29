@@ -1,0 +1,532 @@
+{
+ "id": "ID-H546",
+ "title": {
+  "zh": "河流法",
+  "en": "Law on Rivers",
+  "id": "SUNGAI",
+  "orig": "SUNGAI",
+  "vi": "Luật về Sông ngòi",
+  "th": "พระราชบัญญัติว่าด้วยแม่น้ำ",
+  "ms": "Akta tentang Sungai"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02a",
+ "language": "id",
+ "level": "law",
+ "category": "04_劳工与行政法",
+ "status": "active",
+ "promulgatedDate": "1991",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU35-1991",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 35,
+ "chars": 34994,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PP%20NO%2035%20TH%201991.pdf&fl=P03661"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\04_劳工与行政法\\印尼_文本_1991_SUNGAI.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 35 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H546-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\n\nDalam Peraturan Pemerintah ini yang dimaksud dengan:\n\n1. Sungai adalah tempat-tempat dan wadah-wadah serta jaringan\npengaliran air mulai dari mata air sampai muara dengan dibatasi\nkanan dan kirinya serta sepanjang pengalirannya oleh garis\nsempadan.\n\n2. Danau adalah bagian dari sungai yang lebar dan kedalamannya\nsecara alamiah jauh melebihi ruas-ruas lain dari sungai yang\nbersangkutan.\n\n3. Waduk adalah wadah air yang terbentuk sebagai akibat dibangunnya\nbangunan sungai dalam hal ini bangunan bendungan, dan berbentuk\npelebaran alur/badan/palung sungai.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\n4. Wilayah sungai adalah kesatuan wilayah tata pengairan sebagai\nhasil pengembangan satu atau lebih daerah pengaliran sungai.\n\n5. Bantaran sungai adalah lahan pada kedua sisi sepanjang palung\nsungai dihitung dari tepi sampai dengan kaki tanggul sebelah dalam.\n\n6. Bangunan sungai adalah bangunan yang berfungsi untuk\nperundungan, pengembangan, penggunaan dan pengendalian\nsungai.\n\n7. Garis sempadan sungai adalah garis batas luar pengamanan sungai.\n\n8. Pemerintah Daerah adalah Pemerintah Daerah Tingkat I.\n\n9. Badan usaha milik Negara adalah badan usaha milik Negara yang\ndibentuk untuk melakukan pembinaan, pengusahaan,  eksploitasi\ndan pemeliharaan sungai sesuai dengan peraturan\nperundang-undangan yang berlaku.\n\n10.Pejabat yang berwenang adalah Menteri atau pejabat yang\nditunjuk.\n\n11.Menteri adalah Menteri yang bertanggung jawab dalam bidang\nPengairan.\n\nBagian Kedua\n\nLingkup Pengaturan"
+   }
+  },
+  {
+   "id": "ID-H546-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB I / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\n\nLingkup pengaturan sungai berdasarkan Peraturan Pemerintah ini\nmencakup perlindungan, pengembangan, penggunaan, dan\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\npengendalian sungai termasuk danau dan waduk.\n\nBAB II\n\nPENGUASAAN SUNGAI"
+   }
+  },
+  {
+   "id": "ID-H546-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\n\n(1) Sungai dikuasai oleh Negara, yang pelaksanaannya dilakukan oleh\nPemerintah.\n\n(2) Pelaksanaan wewenang dan tanggung jawab penguasaan sungai\nsebagaimana dimaksud dalam ayat (1) dilakukan Menteri."
+   }
+  },
+  {
+   "id": "ID-H546-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\n\nDalam rangka pelaksanaan wewenang dan tanggung jawab penguasaan\nsungai sebagaimana dimaksud dalam Pasal 3, Menteri menetapkan :\n\n a. garis sempadan sungai.\n b. pengaturan daerah diantara dua garis sempadan sungai yang\nditetapkan sebagai daerah manfaat  sungai dan daerah penguasaan\nsungai.\n c. pengaturan bekas sungai."
+   }
+  },
+  {
+   "id": "ID-H546-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\n\n(1) Garis sempadan sungai bertanggul ditetapkan dengan batas lebar\nsekurang-kurangnya 5 (lima) meter di sebelah luar sepanjang kaki\ntanggul.\n\n(2) Garis sempadan sungai tidak bertanggul ditetapkan berdasarkan\npertimbangan teknis dan sosial ekonomis oleh Pejabat yang\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nberwenang.\n\n(3) Garis sempadan sungai yang bertanggul dan tidak bertanggul\nyang berada di wilayah perkotaan dan sepanjang jalan\nditetapkan tersendiri oleh Pejabat yang berwenang."
+   }
+  },
+  {
+   "id": "ID-H546-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\n\n(1) Pengelolaan lahan pada daerah manfaat sungai dilakukan\nMenteri.\n\n(2) Pemanfaatan lahan pada daer ah manfaat sungai dan daerah\npenguasaan sungai dilakukan berdasarkan ketentuan yang\nditetapkan Menteri.\n\n(3) Pemanfaatan lahan pada bekas s ungai diatur lebih lanjut oleh\nMenteri.\n\nBAB III\n\nFUNGSI SUNGAI"
+   }
+  },
+  {
+   "id": "ID-H546-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\n\n(1) Sungai sebagai sumber air merupakan salah satu sumber daya\nalam yang mempunyai fungsi serbaguna bagi kehidupan dan\npenghidupan manusia.\n\n(2) Sungai sebagaimana dimaksud dalam ayat (1) harus dilindungi\ndan dijaga kelestariannya, ditingkatkan fungsi dan\nkemanfaatannya, dan dikendalikan daya rusaknya terhadap\nlingkungan.\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nBAB IV\n\nWEWENANG DAN TANGGUNG JAWAB PEMBINAAN"
+   }
+  },
+  {
+   "id": "ID-H546-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n\nWewenang dan tanggung jawab pembinaan sungai ada pada\nPemerintah yang pelaksanaannya dilakukan oleh Menteri,"
+   }
+  },
+  {
+   "id": "ID-H546-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n\n(1) Wewenang dan tanggung jawab pembinaan sungai sebagaimana\ndimaksud dalam Pasal 8 dapat dilimpahkan kepada badan usaha\nmilik Negara.\n\n(2) Pelimpahan wewenang dan tanggungjawab sebagaimana\ndimaksud dalam ayat (1) tidak melepaskan tanggung jawab\nMenteri dalam pembinaan sungai."
+   }
+  },
+  {
+   "id": "ID-H546-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\n\nWewenang dan tanggung jawab pembinaan sungai sebagaimana\ndimaksud dalam Pasal 8 sepanjang belum dilimpahkan kepada badan\nusaha milik Negara sebagaimana dimaksud dalam Pasal 9 dapat\ndilimpahkan kepada Pemerintah Daerah dalam rangka tugas\npembantuan sesuai dengan peraturan perundang-undangan yang\nberlaku.\n\n\n\n\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nBAB V\n\nPERENCANAAN SUNGAI"
+   }
+  },
+  {
+   "id": "ID-H546-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\n\n(1) Perencanaan dalam rangka pelaksanaan pembinaan sungai\ndiselenggarakan oleh Menteri berdasarkan kesatuan wilayah\nsungai.\n\n(2) Perencanaan sebagaimana dimaksud dalam ayat (1), meliputi\nkegiatan :\n\n a. inventarisasi dan registrasi sungai, bangunan-bangunan sungai\ndan bangunan lain yang berada di sungai;\n b. inventarisasi potensi dan sifat-sifat sungai;\n c. pengamatan dan evaluasi terhadap banjir, neraca air dan mutu\nair;\n d. penetapan rencana pembinaan sungai dan penetapan pedoman\npelaksanaan pembinaan sungai;\n e. koordinasi atas rencana yang dibuat oleh pihak yang\nberkepentingan dalam rangka pengembangan dan penggunaan\nsungai.\n\n(3) Perencanaan sebagaimana dimaksud dalam ayat (1) dan (2) dapat\ndiselenggarakan oleh Pemerintah Daerah atau badan usaha milik\nNegara berdasarkan kesatuan wilayah sungai yang berada di\nbawah wewenang dan tanggungjawabnya masing-masing.\n\n\n\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nBAB VI\n\nPEMBANGUNAN BANGUNAN SUNGAI"
+   }
+  },
+  {
+   "id": "ID-H546-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n\n(1) Pembangunan bangunan sungai yang ditujukan untuk\nkesejahteraan dan keselamatan umum diselenggarakan oleh\nPemerintah atau badan usaha milik Negara.\n\n(2) Pembangunan bangunan sungai selain untuk tujuan sebagaimana\ndimaksud dalam ayat (1), dapa t dilakukan oleh badan hukum,\nbadan sosial atau perorangan setelah memperoleh ijin dari\nPejabat yang berwenang.\n\n(3) Pembangunan bangunan sungai dilakukan berdasarkan standar\nkonstruksi bangunan yang ditetapkan oleh Menteri.\n\nBAB VII\n\nEKSPLOITASI DAN PEMELIHARAAN SUNGAI\nDAN BANGUNAN SUNGAI"
+   }
+  },
+  {
+   "id": "ID-H546-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\n\n(1) Eksploitasi dan pemeliharaan  sungai dan bangunan sungai\nmeliputi perencanaan, pelaksanaan, pengamatan dan evaluasi.\n\n(2) Pelaksanaan eksploitasi dan pemeliharaan sebagaimana dimaksud\ndalam ayat (1) yang dituju kan untuk kesejahteraan dan\nkeselamatan umum dalam rangka pembinaan sungai dilakukan\noleh Pemerintah atau badan usaha milik Negara.\n\n(3) Pelaksanaan eksploitasi dan pemeliharaan sebagaimana dimaksud\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\ndalam ayat (1) yang pembangunannya dilakukan oleh badan\nhukum, badan sosial atau perorangan sebagaimana dimaksud\ndalam Pasal 12 ayat (2), dilakukan oleh yang bersangkutan.\n\nBAB VIII\n\nPENGUSAHAAN SUNGAI DAN BANGUNAN SUNGAI"
+   }
+  },
+  {
+   "id": "ID-H546-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\n\n(1) Pengusahaan sungai dan/atau bangunan sungai yang ditujukan\nuntuk kesejahteraan masyarakat dilaksanakan oleh Pemerintah.\n\n(2) Pelaksanaan pengusahaan sungai dan/atau bangunan sungai\nsebagaimana dimaksud dalam ayat (1) dilakukan oleh badan\nusaha milik Negara.\n\n(3) Selain diusahakan oleh badan usaha milik Negara sebagaimana\ndimaksud dalam ayat (2) pengus ahaan sungai dan/atau bangunan\nsungai dapat dilakukan oleh badan hukum, badan sosial dan\nperorangan setelah memperoleh ijin dari pejabat yang\nberwenang.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nBAB IX\n\nPEMBANGUNAN, PENGELOLAAN DAN PENGAMANAN WADUK\n\nBagian Pertama\n\nPembangunan"
+   }
+  },
+  {
+   "id": "ID-H546-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB IX / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\n\n(1) Pembangunan waduk dilakukan sesuai dengan rencana\npembinaan sungai sebagaimana dimaksud dalam Pasal 11.\n\n(2) Pembangunan waduk yang ditujukan untuk kesejahteraan dan\nkeselamatan umum diselenggarakan oleh Pemerintah atau badan\nusaha milik Negara.\n\n(3) Pembangunan waduk yang dilakukan oleh badan hukum, badan\nsosial, atau perorangan harus terlebih dahulu mendapat ijin\npenggunaan air dan/atau sumber air dari Pejabat yang\nberwenang dan dilaksanakan berdasar pada rencana teknis yang\ntelah disahkan oleh Menteri.\n\n(4) Penggunaan lahan yang diperlukan untuk membangun waduk\nharus diselesaikan menurut tata cara yang ditetapkan peraturan\nperundang-undangan yang berlaku.\n\n(5) Dampak sosial yang mungkin timbul sebagai akibat pembangunan\nwaduk, harus ditangani secara tuntas dengan melibatkan\nberbagai pihak yang terkait dan dikoordinasikan oleh Menteri.\n\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nBagian Kedua\n\nPengelolaan"
+   }
+  },
+  {
+   "id": "ID-H546-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB IX / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\n\n(1) Pengelolaan waduk merupakan kegiatan yang terdiri dari\neksploitasi dan pemeliharaan waduk.\n\n(2) Eksploitasi dan pemeliharaan waduk merupakan kegiatan yang\ndilakukan untuk menjaga kelangsungan fungsi waduk sesuai\ndengan tujuan pembangunannya.\n\n(3) Eksploitasi dan pemeliharaan waduk meliputi kegiatan-kegiatan :\n\n a. pemantauan muka air waduk,\n b. pengaturan penggunaan waduk untuk masing-masing\nkebutuhan;\n c. pengaturan pemeliharaan bendungan;\n d. pengaturan sistem pelaporan, evaluasi dan gawar banjir.\n\n(4) Pengelolaan waduk sebagaimana dimaksud dalam ayat (1)\ndilakukan oleh masing-masing pihak yang membangun waduk\nyang bersangkutan sesuai dengan pedoman pengoperasian waduk\nyang ditetapkan oleh Menteri dan ketentuan peraturan\nperundang-undangan lain yang berlaku.\n\n\n\n\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nBagian Ketiga\n\nPengamanan"
+   }
+  },
+  {
+   "id": "ID-H546-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB IX / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\n\n(1) Pengamanan waduk merupakan tindakan-tindakan yang dilakukan\nuntuk mencegah terjadinya hal-hal yang membahayakan waduk\ndan lingkungannya.\n\n(2) Pengamanan waduk meliputi kegiatan-kegiatan :\n\n a. pengamanan daerah sabuk hijau;\n b. pemeriksaan secara berkala atas bendungan, waduk dan\nlingkungannya,\n c. pengamanan dalam kaitannya dengan pemanfaatan waduk.\n\n(3) Pengamanan waduk sebagaimana dimaksud dalam ayat (2)\ndilakukan oleh masing-masing pihak yang membangun waduk\nyang bersangkutan.\n\n(4) Tata cara pengamanan waduk sebagaimana dimaksud dalam ayat\n(1), ayat (2) dan ayat (3) ditetapkan oleh Menteri.\n\nBAB X\n\nPENANGGULANGAN BAHAYA BANJIR"
+   }
+  },
+  {
+   "id": "ID-H546-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\n\nDalam rangka penanggulangan bahaya banjir Pemerintah menetapkan :\n\na. tata cara penanggulangan bahaya banjir;\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nb. pengelolaan dataran banjir termasuk penetapan daerah retensi;\nc. pedoman tentang langkah-langkah penanggulangan bahaya banjir baik\nsebelum, selama maupun sesudah banjir."
+   }
+  },
+  {
+   "id": "ID-H546-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\n\nGubernur Kepala Daerah mengkoor dinasikan usaha penanggulangan\nbahaya banjir di daerahnya dengan mengikutsertakan Instansi\nPemerintah dan masyarakat yang bersangkutan."
+   }
+  },
+  {
+   "id": "ID-H546-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\n\nDalam keadaan yang membahayakan, Gubernur Kepala Daerah\nberwenang mengambil tindakan darurat guna keperluan pengamanan\nbahaya banjir."
+   }
+  },
+  {
+   "id": "ID-H546-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\n\nBantaran sungai, daerah retensi, dataran banjir dan waduk banjir\nselain berfungsi untuk pengendalian banjir dapat pula dimanfaatkan\nuntuk kepentingan lain yang berguna bagi masyarakat di sekitarnya\ndengan syarat-syarat dan tata cara yang ditetapkan Menteri.\n\n\n\n\n\n\n\n\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nBAB XI\n\nPENGAMANAN SUNGAI DAN BANGUNAN SUNGAI\n\nBagian Pertama\n\nPengamanan Sungai"
+   }
+  },
+  {
+   "id": "ID-H546-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB XI / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\n\n(1) Pejabat yang berwenang bersama-sama dengan pihak lain yang\nbersangkutan, masing-masing sesuai dengan wewenang dan\ntanggung jawabnya, menyelenggarakan upaya pengamanan\nsungai dan daerah sekitarnya yang meliputi :\n\n a. pengelolaan daerah pengaliran sungai;\n b. pengendalian daya rusak air;\n c. pengendalian pengaliran sungai.\n\n(2) Tata cara pelaksanaan ketentuan pengelolaan daerah pengaliran\nsungai sebagaimana dimaksud da lam ayat (1) huruf a, diatur\nlebih lanjut dengan Keputusan Presiden.\n\n(3) Tata cara pelaksanaan ketentuan pengendalian pengaliran sungai\nsebagaimana dimaksud dalam ayat (1) huruf b dan c diatur lebih\nlanjut oleh Menteri, dengan memperhatikan kepentingan\nDepartemen dan/atau Lembaga lain yang bersangkutan.\n\n\n\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nBagian Kedua\n\nPengamanan Bangunan Sungai"
+   }
+  },
+  {
+   "id": "ID-H546-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB XI / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\n\nPejabat yang berwenang dan pihak lain yang membangun bangunan\nsungai menyelenggarakan upaya peng amanan bangunan sungai sesuai\ndengan ketentuan-ketentuan yang ditetapkan Menteri.\n\nBAB XII\n\nKEWAJIBAN DAN LARANGAN"
+   }
+  },
+  {
+   "id": "ID-H546-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 24\n\nMasyarakat wajib ikut serta menjaga kelestarian rambu-rambu dan\ntanda-tanda pekerjaan dalam rangka pembinaan sungai."
+   }
+  },
+  {
+   "id": "ID-H546-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\n\nDilarang mengubah aliran sungai kecuali dengan ijin Pejabat yang\nberwenang."
+   }
+  },
+  {
+   "id": "ID-H546-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\n\nMendirikan, mengubah atau membongkar bangunan-bangunan di dalam\natau melintas sungai hanya dapat dilakukan setelah memperoleh ijin\ndari Pejabat yang berwenang.\n\n\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H546-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\n\nDilarang membuang benda-benda/bahan-bahan padat dan/atau cair\nataupun yang berupa limbah ke da lam maupun di sekitar sungai yang\ndiperkirakan atau patut diduga ak an menimbulkan pencemaran atau\nmenurunkan kualitas air, sehingga membahayakan dan/atau\nmerugikan penggunaan air yang lain dan lingkungan."
+   }
+  },
+  {
+   "id": "ID-H546-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\n\nMengambil dan menggunakan air sungai selain untuk keperluan pokok\nsehari-hari hanya dapat dilakukan setelah memperoleh ijin teriebih\ndahulu dari pejabat yang berwenang."
+   }
+  },
+  {
+   "id": "ID-H546-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\n\n(1) Melakukan pengerukan atau penggalian serta pengambilan\nbahan-bahan galian pada sungai hanya dapat dilakukan ditempat\nyang telah ditentukan oleh Pejabat yang berwenang.\n\n(2) Pelaksanaan ketentuan sebagaimana dimaksud dalam ayat (1)\ndiatur lebih lanjut oleh Pejabat yang berwenang.\n\nBAB XIII\n\nPEMBIAYAAN"
+   }
+  },
+  {
+   "id": "ID-H546-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB XIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\n\n(1) Pembiayaan pembangunan bangunan sungai yang ditujukan untuk\nkesejahteraan dan keselamatan umum ditanggung oleh\nPemerintah atau badan usaha milik Negara.\n\n(2) Pembiayaan pembangunan bangunan sungai untuk usaha-usaha\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\ntertentu yang diselenggarakan oleh badan hukum, badan sosial\natau perorangan ditanggung oleh yang bersangkutan.\n\n(3) Masyarakat yang secara langsung memperoleh manfaat dari\npembangunan bangunan sungai sebagaimana dimaksud dalam\nayat  (1), dapat diikut sertakan dalam pembiayaan untuk\npembangunan bangunan tersebut sesuai dengan kepentingan dan\nkemampuannya."
+   }
+  },
+  {
+   "id": "ID-H546-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB XIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\n\n(1) Pembiayaan eksploitasi dan pemeliharaan sungai dan bangunan\nsungai yang ditujukan untuk kesejahteraan dan/atau\nkeselamatan umum ditanggung oleh Pemerintah atau badan\nusaha milik Negara sesuai dengan wewenang dan tanggungjawab\nmasing-masing.\n\n(2) Pembiayaan eksploitasi dan pemeliharaan sungai dan/atau\nbangunan sungai sebagaimana dimaksud dalam Pasal 13 ayat (3)\nditanggung oleh badan hukum, badan sosial atau perorangan yang\nbersangkutan.\n\n(3) Masyarakat yang secara langsung memperoleh manfaat dari\nadanya bangunan sungai sebagaim ana dimaksud dalam ayat (1),\ndapat diikutsertakan dalam pembiayaan eksploitasi dan\npemeliharaan tersebut sesuai dengan kepentingan dan\nkemampuannya.\n\n\n\n\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nBAB XIV\n\nPENGAWASAN"
+   }
+  },
+  {
+   "id": "ID-H546-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB XIV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 32\n\n(1) Pengawasan atas penyelenggaraan pembinaan sungai dilakukan\noleh Pejabat yang berwenang.\n\n(2) Pengawasan atas penyelenggaraan pembinaan sungai yang telah\ndilimpahkan kepada Pemerintah Daerah dalam rangka tugas\npembantuan, dilakukan oleh Gubernur Kepala Daerah.\n\n(3) Tata cara pengawasan sebagaim ana dimaksud dalam ayat (1) dan\nayat (2) diatur lebih lanjut oleh Menteri.\n\nBAB XV\n\nKETENTUAN PIDANA"
+   }
+  },
+  {
+   "id": "ID-H546-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB XV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 33\n\nDipidana berdasarkan ketentuan Pasal 15 Undang-undang Nomor 11\nTahun 1974 dan peraturan perundang-undangan lainnya:\n\n a. barangsiapa untuk keperluan usahanya hanya melakukan\npembangunan bangunan sungai tanpa ijin sebagaimana diatur\ndalam Pasal 12 ayat (2) dan Pasal 15 ayat (3);\n\n b. barangsiapa melakukan pengusahaan sungai dan bangunan sungai\ntanpa ijin sebagaimana dimaksud dalam Pasal 14 ayat (3);\n\n c. barangsiapa mengubah aliran sungai, mendirikan,mengubah atau\nmembongkar bangunan-bangunan di dalam atau melintas sungai,\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nmengambil dan menggunakan air sungai untuk keperluan\nusahanya yang bersifat komersil tanpa ijin sebagaimana dimaksud\ndalam Pasal 25, Pasal 26 dan Pasal 27;\n\n d. barangsiapa membuang benda-benda/bahan-bahan padat\ndan/atau cair ataupun berupa limbah ke dalam maupun di sekitar\nsungai sebagaimana dimaksud dalam Pasal 27.\n\nBAB XVI\n\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H546-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB XVI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 34\n\nDengan berlakunya Peraturan Pemerintah ini, peraturan\nperundang-undangan mengenai sungai yang telah ada sepanjang tidak\nbertentangan ataupun belum diganti dengan yang baru berdasarkan\nPeraturan Pemerintah ini dinyatakan tetap berlaku.\n\nBAB XVII\n\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H546-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB XVII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 35\n\nPeraturan Pemerintah ini mulai berlaku pada tanggal 3 Desember\n1991.\n\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran\nNegara Republik Indonesia.\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nDitetapkan di Jakarta\npada tanggal 14 Juni 1991\n\nPRESIDEN REPUBLIK INDONESIA\n\n     ttd\n\n          SOEHARTO\n\nDiundangkan di Jakarta\npada tanggal 14 Juni 1991\n\nMENTERI/SEKRETARIS NEGARA\n   REPUBLIK INDONESIA\n\n     ttd\n\n    MOERDIONO\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nPENJELASAN\nATAS\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nNOMOR 35 TAHUN 1991\nTENTANG\nSUNGAI\n\nUMUM\n\n1. Undang-undang Nomor 11 Tahun 1974 tentang Pengairan telah\nmengatur landasan pokok dalam menyelenggarakan pengaturan\nmengenai air dan sumber air.\n\n Beberapa peraturan pelaksanaan dari undang-undang tersebut telah\nditetapkan yaitu Peraturan Pemerintah Nomor 22 Tahun 1982\ntentang Tata Pengaturan Air, Peraturan Pemerintah Nomor 23\nTahun 1982 tentang Irigasi dan Pe raturan Pemerintah Nomor 27\nTahun 1991 tentang Rawa. Selain itu masih diperlukan adanya\nperaturan-peraturan perundang-undangan lainnya agar dapat\nmencakup seluruh permasalahan mengenai air antara lain mengenai\nsungai. Pengaturan masalah sungai sebagai sumber air, diperlukan\nagar sungai dapat dikelola dengan mantap serta dapat digunakan\nsecara optimal bagi kepentingan masyarakat secara tertib dan\nteratur.\n\n Hal ini didasarkan pada pertimbangan bahwa air semakin langka\nsedangkan permintaan akan pelayanan air semakin meningkat\nsebagai akibat adanya perkembangan penduduk dan teknologi,\nditambah dengan menurunnya mutu air beserta sumber-sumbernya.\nOleh karena itu, perlu ada pengaturan yang mendukung usaha-usaha\npelestarian fungsi sungai sebagai sumber air.\n\n Dalam Pasal 10 Undang-undang Nomor 11 Tahun 19'74 dinyatakan\nbahwa Pemerintah menetapkan tata cara pembinaan dalam rangka\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nkegiatan pengairan menurut bidangnya masing-masing sesuai\ndengan fungsi dan peranannya.\n\n Selanjutnya di dalam Penjelasan Pasal 10 tersebut di atas\nditegaskan bahwa yang dimaksud dengan bidangnya masing-masing\nsesuai dengan fungsi dan peranannya ialah seperti pembinaan\nsungai, irigasi, air untuk indust ri, air untuk usaha perkotaan, air\nbersih untuk minum dan keperluan rumah tangga lainnya dan\nsebagainya. Hal ini berarti perlu ada pengaturan yang bersifat\nmenyeluruh dalam pembinaan sungai, yang mencakup perlindungan,\npengembangan, penggunaan dan pengendaliannya.\n\n2. Untuk menjaga kelestarian dan kelangsungan fungsi sungai sebagai\nsumber air, maka dalam rangka melaksanakan penguasaan sungai,\nperlu ditetapkan adanya garis sempadan di sepanjang sungai.\n\n Pada lahan yang dibatasi garis sempadan tersebut dilakukan\npembatasan-pembatasan atas penggunaan lahan baik pada daerah\nmanfaat maupun daerah penguasaan sungai.\n\n3. Dalam rangka pelaksanaan penguasaan sungai, Menteri diberi\nwewenang dan tanggungjawab pembinaan sungai.\n\n Selanjutnya sesuai dengan Peraturan Pemerintah Nomor 22 Tahun\n1982 tentang Tata Pengaturan Air yang merupakan landasan\nkebijaksanaan untuk mengatur lebih lanjut tata cara pembinaan\ndalam kegiatan pengairan, maka dalam Peraturan Pemerintah ini\nditegaskan bahwa pola pembinaan sungai ditetapkan berdasarkan\npada kesatuan wilayah sungai. Berdasarkan pola pembinaan\ntersebut, maka wilayah Indonesia dibagi dalam beberapa wilayah\nsungai yang akan ditetapkan oleh Menteri. Dengan demikian\nsungai-sungai di wilayah Indonesia akan terbagi ke dalam\nwilayah-wilayah sungai dimaksud.\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n Wewenang dan tanggung jawab pembinaan sungai tersebut dapat\ndilimpahkan kepada Pemerintah Daerah dalam rangka tugas\npembantuan atau badan usaha milik Negara yang dibentuk untuk\nmelakukan pembinaan dan pengusahaan sungai sesuai peraturan\nperundang-undangan yang berlaku.\n\n4. Untuk mencapai keterpaduan yang menyeluruh dalam perlindungan,\npengembangan, penggunaan dan pengendalian sungai, bagi tiap\nkesatuan wilayah sungai disusun perencana pembinaan sungai yang\nditetapkan oleh Menteri.\n\n5. Pembangunan di bidang sungai dapat dilaksanakan dengan cara\nsebagai berikut :\n a. Pembangunan sungai, termasuk pendirian bangunan-bangunan\nsungai sebagai pelengkapnya, dibedakan dalam 2 (dua) jenis,\nyaitu yang ditujukan untuk kesejahteraan dan keselamatan\numum dan yang ditujukan untuk memberikan manfaat untuk\nsesuatu kepentingan.\n b. Pelaksanaan dan pembiayaan pembangunan sungai yang\nditujukan untuk kesejahteraan dan keselamatan umum\ndiselenggarakan sendiri oleh Pemerintah atau badan usaha milik\nNegara, sedangkan yang ditujukan untuk memberikan manfaat\nuntuk sesuatu kepentingan diselenggarakan oleh pihak-pihak,\nyang berkepentingan berupa badan hukum, badan sosial atau\nperorangan berdasarkan ijin serta syarat-syarat tertentu.\n c. Bagi kedua jenis kegiatan tersebut, masyarakat dapat diikut\nsertakan, baik dalam bentuk pembiayaan maupun dalam bentuk\nlain.\n Yang dimaksud untuk kesejahteraan dan keselamatan umum ialah\npada dasarnya tidak memberikan keuntungan nilai ekonomi secara\nlangsung. Sedangkan yang dimaksud dengan yang ditujukan untuk\nmemberikan manfaat untuk suatu kepentingan, ialah yang\nmemberikan keuntungan nilai ekonomi secara langsung.\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n6. Selain sungai merupakan salah satu sumberdaya air, juga memiliki\npotensi yang lain yaitu sebagai sumber bahan galian khususnya\nbahan galian berupa pasir dan batu. Untuk mendayagunakan dan\nmenjaga kelangsungan fungsi sungai dan bangunan sungai, maka\nkegiatan-kegiatan eksploitasi dan pemeliharaan dilakukan dengan\ntetap menjaga fungsi sungai dan bangunan sungai.\n\n7. Dalam rangka menumbuhkan peran serta masyarakat dalam\npembangunan nasional, maka masyarakat diikut sertakan dalam\nkegiatan pembangunan, eksploitasi dan pemeliharaan sungai,\npenanggulangan bahaya banjir, maupun pengamanan sungai,\nsehingga dapat merasa ikut memiliki dan dengan demikian ikut\nmerasa bertanggung jawab, misalnya dengan memikul sebagian\ntanggung jawab pembiayaan pembangunan, eksploitasi dan\npemeliharaan.\n\nPASAL DEMI PASAL\n\nPasal 1\nIstilah-istilah yang dirumuskan dalam pasal ini dimaksudkan agar\nsupaya terdapat keseragaman pengertian atas isi Peraturan\nPemerintah ini, sehingga dapat menghindarkan kesalahpahaman\ndalam penafsirannya.\nAngka 1\n  C u k u p  j e l a s\nAngka 2\n  C u k u p  j e l a s\nAngka 3\n  C u k u p  j e l a s\nAngka 4\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nTata pengairan adalah susunan dan letak sumber-sumber air\ndan/atau bangunan-bangunan pengairan menurut\nketentuan-ketentuan teknik pembinaan di suatu wilayah pengairan\ntertentu. Daerah pengaliran sungai adalah suatu kesatuan wilayah\ntata air yang terbentuk secara alamiah dimana air meresap\ndan/atau mengalir melalui sungai dan anak-anak sungai yang\nbersangkutan.\nAngka 5\nYang dimaksud dengan palung sungai adalah cekungan yang\nterbentuk oleh aliran air secara alamiah, atau galian untuk\nmengalirkan sejumlah air tertentu.\nAngka 6\nBangunan sungai dimaksud adalah misalnya bendungan, bendung,\ntanggul, pintu air, bangunan pembagi banjir, krib, bangunan\npelindung tebing dan sebagainya.\nAngka 7\n  C u k u p  j e l a s\nAngka 8\n  C u k u p  j e l a s\nAngka 9\n  C u k u p  j e l a s\nAngka 1 0\n  C u k u p  j e l a s\nAngka 11\n  C u k u p  j e l a s\nPasal 2\nYang dimaksud dengan perlindungan sungai adalah upaya\npengamanan sungai terhadap kerusakan-kerusakan yang disebabkan\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\noleh tindakan manusia dan alam. Pengembangan sungai adalah\nupaya yang dilakukan untuk meningkatkan  kemanfaatan\nfungsi sungai sebesar-besarnya tanpa merusak keseimbangan sungai\ndan lingkungannya.\n Penggunaan sungai adalah upaya memanfaatkan sungai.\nPengendalian sungai adalah upaya untuk lebih memantapkan aliran\nsungai sepanjang tahun, guna memperoleh kemanfaatan sungai\nsebesar-besarnya, dan mengurangi/meniadakan daya rusak air\nterhadap sungai dan lingkungannya.\nPasal 3\n Ayat (1)\n  C u k u p  j e l a s\n Ayat (2)\n  C u k u p  j e l a s\nPasal 4\nYang termasuk dalam daerah manfaat sungai adalah mata air,\npalung sungai, dan daerah sempadan yang telah dibebaskan.\nYang termasuk dalam daerah penguasaan sungai adalah dataran\nbanjir, daerah retensi, bantaran atau daerah sempadan yang tidak\ndibebaskan.\nPasal 5\n Ayat (1)\n  C u k u p  j e l a s\n Ayat (2)\n  C u k u p  j e l a s\n Ayat (3)\nMengingat tingkat kepadatan penggunaan lahan di daerah\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nperkotaan terutama yang terletak di sepanjang jalan sangat\ntinggi, maka penetapan garis sempadan sungai yang berada pada\nlokasi tersebut perlu ditetapkan lain dengan ketentuan yang\nberlaku bagi garis sempadan sungai pada umumnya.\nPasal 6\n Ayat (1)\nKetentuan ini dimaksudkan untuk mendukung pelaksanaan\nwewenang dan tanggung jawab penguasaan sungai yang dilakukan\noleh Menteri.\n Ayat (2)\n  C u k u p  j e l a s\n Ayat (3)\nPrioritas pemanfaatan lahan ditujukan untuk mengganti lahan\nyang terkena alur sungai baru.\nPasal 7\n Ayat (1)\nSungai mempunyai fungsi yang luas antara lain yaitu sebagai\npenyedia air, prasarana transpor tasi, penyedia tenaga, penyedia\nmaterial, sarana penyaliran (drainase), dan sarana rekreasi.\n Ayat (2)\n  C u k u p  j e l a s\n\n\nPasal 8\nWewenang dan tanggung jawab pembinaan tersebut mencakup\nsegala kegiatan pembinaan dalam rangka perlindungan,\npengembangan, penggunaan, dan pengendalian sungai, antara lain\nmeliputi perencanaan, perencanaan teknis, pembangunan,\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\neksploitasi dan pemeliharaan, pengusahaan, penanggulangan\nbahaya banjir, pengamanan dan pengawasan.\nUntuk melaksanakan ketentuan ini, Menteri menetapkan antara lain\npola pembinaan sungai yang didasarkan pada kesatuan wilayah\nsungai.\nPasal 9\n Ayat (1)\nBadan usaha milik Negara tesebut mempunyai tugas pokok\nmengembangkan dan mengusahakan air dan/atau sumber air\nuntuk digunakan bagi kesejahteraan masyarakat dengan menjaga\nkelestarian kemampuan lingkungan hidup. Badan usaha milik\nNegara tersebut berada di bawah pembinaan Menteri.\n Ayat (2)\n  C u k u p  j e l a s\nPasal 10\n Cukup jlas\nPasal 11\n Ayat (1)\nRencana sebagai hasil perencanaan yang diatur dalam Pasal ini\nmenjadi bahan bagi penyusunan Rencana Pembinaan Sungai\nNasional yang ditetapkan oleh Menteri. Selanjutnya Rencana\nPembinaan Sungai Nasional tersebut merupakan bagian dari\nRencana Pengembangan Sumber-sumber Air Nasional sebagaimana\ndimaksud dalam pasal 7 ayat (2) Peraturan Pemerintah Nomor 22\nTahun 1982.\n Ayat (2)\nYang dimaksud dengan neraca air adalah keseimbangan antara\njumlah air yang tersedia di sungai dengan penggunaannya.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n Ayat (3)\n  C u k u p  j e l a s\nPasal 12\n Ayat (1)\nYang dimaksud untuk kesejahteraan dan keselamatan umum ialah\npada dasarnya tidak memberikan keuntungan nilai ekonomi secara\nlangsung.\n Ayat (2)\nPembangunan bangunan sungai dalam ketentuan ini ditujukan\nuntuk memberikan manfaat untuk suatu kepentingan, yaitu yang\nmemberikan keuntungan nilai ekonomi secara langsung.\n Ayat (3)\n  C u k u p  j e l a s\nPasal 13\n Ayat (1)\nYang dimaksud dengan eksploitasi sungai adalah usaha pengaturan\ndan pengalokasian sumber daya ai r dan sumber daya alam lainnya\nyang berada di sungai untuk tujuan pendayagunaan secara\noptimum. Pemeliharaan sungai, adalah usaha-usaha yang\nditujukan untuk menjamin kelestarian fungsi sungai sebagai\nsumber daya, serta untuk menjamin kelestarian fungsi bangunan\nsungai.\nPerencanaan eksploitasi dan pemeliharaan sungai antara lain\nmeliputi kegiatan-kegiatan:\n  1. inventarisasi kondisi sungai dan bangunan sungai.\n  2. penyusunan urutan prioritas sungai dan bangunan sungai yang\nmemerlukan pemeliharaan.\n  3. penyusunan pedoman eksploitasi dan pemeliharaan bangunan\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nsungai.\nPelaksanaan eksploitasi dan pemeliharaan sungai meliputi\nkegiatan-kegiatan:\n  1. eksploitasi bangunan sungai termasuk semua instrumen yang\nmerupakan bagian dari sistem pengendalian banjir.\n  2. pemeliharaan fisik sungai dan bangunan sungai.\n  3. pemeliharaan peralatan gawar banjir.\n  4. pemeliharaan kendaraan dan peralatan operasionil.\n  5. pemeliharaan bangunan kantor dan fasilitas kerja yang\nbersangkutan dengan pelaksanaan kegiatan eksploitasi dan\npemeliharaan sungai.\n  6. pemeliharaan alat-alat pemantau sungai dan keamanan bangunan\nsungai.\n  7. pemasangan tanda batas garis sempadan sungai.\nPengamatan dan evaluasi dalam kegiatan eksploitasi dan pemeliharaan\nsungai antara lain meliputi kegiatan-kegiatan:\n  1. pemantauan kuantitas dan kualitas air sungai.\n  2. pemantauan kapasitas palung sungai dan bangunan sungai.\n  3. peninjauan secara periodik terhadap pedoman eksploitasi dan\npemeliharaan sungai.\n  4. pemantauan keamanan sungai dan bangunan sungai.\n Ayat (2)\n  C u k u p  j e l a s\n Ayat (3)\n  C u k u p  j e l a s\nPasal 14\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n Ayat (1)\n  C u k u p  j e l a s\n Ayat (2)\n  C u k u p  j e l a s\n Ayat (3)\n  C u k u p  j e l a s\nPasal 15\n Ayat (1)\nKetentuan ini dimaksudkan untuk menjaga keseimbangan tata air.\nPembangunan sebuah waduk dapat ditujukan untuk memenuhi\nberbagai macam kebutuhan (waduk serbaguna) atau hanya untuk\ntujuan-tujuan tertentu misalnya pengendalian banjir, pembangkit\ntenaga listrik, irigasi, penyediaan air minum atau air industri.\n Ayat (2)\n  C u k u p  j e l a s\n Ayat (3)\n  C u k u p  j e l a s\n Ayat (4)\n  C u k u p  j e l a s\n Ayat (5)\n  C u k u p  j e l a s\nPasal 16\n Ayat (1)\n  C u k u p  j e l a s\n Ayat (2)\n  C u k u p  j e l a s\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n Ayat (3)\nYang dimaksud dengan gawar banjir (flood warning) adalah\nperingatan dini akan adanya banjir.\n Ayat (4)\nPelaksanaan pengelolaan waduk sebagaimana dimaksud dalam\nayat ini dapat diserahkan kepada pihak lain.\nPasal 17\n Ayat (1)\n  C u k u p  j e l a s\n Ayat (2)\n  a. Penetapan sabuk hijau dilakukan oleh Pejabat yang berwenang\nberdasarkan pertimbangan sosial, ekonomis, teknis dan\nlingkungan.\n  b. Pemeriksaan dilakukan antara lain terhadap longsoran,\nruntuhan, rembesan, dan bocoran serta masalah lain yang\nmengidentifikasikan adanya ketidakstabilan waduk atau\nbendungan,\n  c. Pengawasan dalam kaitannya dengan pemanfaatan waduk\nmisalnya pemasangan rambu-rambu peringatan tentang\ntempat yang berbahaya.\n Ayat (3)\n  C u k u p  j e l a s\n Ayat (4)\nPengaturan oleh Menteri dimaksudkan untuk menjaga hal-hal yang\nmembahayakan waduk dan lingkungannya antara lain dengan\nmenetapkan pedoman pengamanan waduk.\nPasal 18\nPasal ini memberikan landasan kepada Pemerintah untuk melakukan\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\npengaturan secara khusus dalam hal terjadi bencana banjir yang\nmembawa akibat kerugian harta benda maupun jiwa, mengingat\npenanggulangannya akan melibatkan beberapa instansi Pemerintah.\n\nPasal 19\n Ketentuan ini sesuai dengan kedudukan Gubernur Kepala Daerah\ndalam Badan Koordinasi Penanggulangan Bencana.Nasional.\n\nPasal 20\nYang dimaksud dengan tindakan darurat dalam ketentuan ini\nmisalnya, pengosongan daerah permukiman, penghentian lalu\nlintas, pengerahan masyarakat untuk ikut menanggulangi bahaya\nbanjir dan sebagainya.\n\nPasal 21\nDalam keadaan aman, bantaran sungai, daerah retensi, dataran\nbanjir dan waduk banjir, merupakan lahan yang dapat\ndimanfaatkan untuk keperluan tertentu, akan tetapi penggunaannya\nperlu diatur dengan maksud agar dicapai kemanfaatan yang\nsetinggi-tingginya tanpa merusak fungsi sungai dan bangunan\nsungai.\nHal-hal yang perlu diatur misalnya mengenai jenis tanaman yang\nboleh ditanam dipilih yang tidak akan mengganggu fungsi bantaran\ndan/atau daerah sempadan yang bersangkutan dan larangan\nmenanam tanaman keras dan sebagainya.\n\nPasal 22\n Ayat (1)\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nDalam pengendalian pengaliran sungai sebagaimana tercantum\npada huruf c ayat ini termasuk pula kegiatan eksploitasi dan\npemeliharaan bangunan sungai.\n Ayat (2)\nPengaturan dengan Keputusan Presiden diperlukan mengingat\nmasalah yang berkaitan dengan pengelolaan daerah pengaliran\nsungai merupakan masalah lintas sektoral.\nAyat  (3)\n  C u k u p  j e l a s\n\nPasal 23\n Cukup jelas\n\nPasal 24\nYang dimaksud dengan masyarakat dalam ketentuan ini adalah\nmasyarakat dalam arti luas, tidak hanya terbatas kepada yang\nmemanfaatkan sungai dan/atau bangunan sungai saja.\nYang dimaksud dengan rambu-rambu dan tanda-tanda pekerjaan\ndalam ketentuan ini, antara lain adalah:\n - Papan nama sungai.\n - Papan nama pelaksanaan pekerjaan persungaian.\n - Tanda atau papan pemberitahuan tentang anjuran dan/atau\nlarangan.\n - Rambu-rambu penunjuk arah navigasi.\n - Patok-patok batas sempadan sungai.\n - Tanda duga muka air.\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nPasal 25\nYang dimaksud dengan mengubah aliran sungai antara lain\nmemindahkan, memperlebar, mempersempit, menutup aliran.\n\nPasal 26\nBangunan-bangunan yang dimaksud dalam ketentuan ini antara lain\npipa gas, pipa minyak, talang air, jembatan, kabel layang listrik\natau telepon, jalan kereta api.\n\nPasal 27\nYang dimaksud diperkirakan atau  patut diduga akan menimbulkan\npencemaran atau menurunkan kualitas air sebagaimana tercantum\npada pasal ini, adalah apabila  kuantitas atau kualitas limbah\nyang bersangkutan melewati ambang batas tertentu.\nBatas tersebut ditetapkan oleh Pejabat yang berwenang atas dasar\npertimbangan-pertimbangan khusus tentang sifat hidrologis\nmasing-masing sungai yang bersangkutan serta situasi penggunaan\nairnya.\n\n\nPasal 28\nSemua pengambilan dan penggunaan air sungai untuk keperluan\nseperti tersebut pada Pasal 19 ayat (2) Peraturan Pemerintah\nNomor 22 Tahun 1982 harus memperoleh izin Menteri.\nIzin penggunaan air sungai untuk pembangkit tenaga listrik sesuai\ndengan ketentuan pada Pasal 23 ayat (2) Peraturan Pemerintah\nNomor 22 Tahun 1982 tetap diberikan oleh Menteri. Di samping itu\nmengingat penggunaan air sungai diperlukan untuk melayani\nberbagai kepentingan/kebutuhan, maka untuk tercapainya\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\npemanfaatan yang sebesar-besarnya dan merata, dalam rangka\npemberian izin, Pejabat yang berwenang harus selalu\nmemperhatikan urutan prioritas pemanfaatan air sebagaimana\ntercantum pada penjelasan Pasal 8 Undang-undang Nomor 11 Tahun\n1974.\n\nPasal 29\n Ayat (1)\n  C u k u p  j e l a s\n Ayat (2)\n  C u k u p  j e l a s\n\nPasal 30\n Ayat (1)\nDalam hal wewenang dan tanggung jawab pembinaan sungai yang\nditugas pembantuankan kepada Pemerintah Daerah, maka\nketentuan dalam ayat ini diarti kan bahwa sumber biaya tetap\nberasal dari Pemerintah Pusat yang disalurkan kepada Pemerintah\nDaerah.\nNamun dalam hal ini tidak berarti melarang Pemerintah Daerah\nuntuk menyediakan dana bagi  biaya pembangunan bangunan\nsungai yang dianggap perlu.\n Ayat (2)\nUsaha-usaha yang tertentu yang dimaksud dalam ayat ini ialah\nusaha yang manfaatnya terbatas bagi kelompok masyarakat yang\nberkepentingan.\n Ayat (3)\nKetentuan ini berpedoman pada Pasal 14 ayat (2) Undang-undang\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nNomor 11 Tahun 1974 tentang Pengairan.\n\nPasal 31\n Ayat (1)\n  C u k u p  j e l a s\n Ayat (2)\n  C u k u p  j e l a s\n Ayat (3)\n  C u k u p  j e l a s\n\nPasal 32\n Ayat (1)\n  C u k u p  j e l a s\n Ayat (2)\n  C u k u p  j e l a s\n Ayat (3)\n  C u k u p  j e l a s\n\nPasal 33\n Cukup jelas\n\nPasal 34\n Cukup jelas\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nPasal 35\nDiberlakukannya Peraturan Pemerintah ini mulai tanggal 3\nDesember 1991, dimaksudkan untuk memberikan. kesempatan\nkepada aparat Pemerintah memberikan penyuluhan kepada\nmasyarakat untuk mengetahuinya."
+   }
+  }
+ ]
+}

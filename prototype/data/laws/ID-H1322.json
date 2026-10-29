@@ -1,0 +1,590 @@
+{
+ "id": "ID-H1322",
+ "title": {
+  "zh": "建筑服务业民间经营与参与法",
+  "en": "Law on the Business and Role of the Community in Construction Services",
+  "id": "USAHA DAN PERAN MASYARAKAT JASA KONSTRUKSI",
+  "orig": "USAHA DAN PERAN MASYARAKAT JASA KONSTRUKSI",
+  "vi": "Luật về Kinh doanh và Vai trò của Cộng đồng trong Dịch vụ Xây dựng",
+  "th": "พระราชบัญญัติว่าด้วยการประกอบธุรกิจและบทบาทของประชาชนในบริการก่อสร้าง",
+  "ms": "Akta tentang Perniagaan dan Peranan Masyarakat dalam Perkhidmatan Pembinaan"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02c",
+ "language": "id",
+ "level": "law",
+ "category": "04_劳工与行政法",
+ "status": "active",
+ "promulgatedDate": "2000",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU28-2000",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 39,
+ "chars": 29905,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PP%20NO%2028%20TH%202000.pdf&fl=P04268"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\04_劳工与行政法\\印尼_文本_2000_USAHA DAN PERAN MASYARAKAT JASA KONSTRUKSI.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 40 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H1322-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\nDalam Peraturan Pemerintah ini yang dimaksud dengan:\n1. Lembaga adalah organisasi sebagaimana dimaksud dalam\nUndang-undang Nomor 18 Tahun 1999 tentang Jasa Konstruksi, yang\nbertujuan untuk mengembangkan kegiatan jasa konstruksi nasional.\n2. Klasifikasi adalah bagian kegiatan registrasi untuk menetapkan\npenggolongan usaha di bidang jasa konstruksi menurut bidang dan sub\nbidang pekerjaan atau penggolongan profesi keterampilan dan keahlian\nkerja orang perseorangan di bidang jasa konstruksi menurut disiplin\nkeilmuan dan atau keterampilan tertentu dan atau kefungsian dan atau\nkeahlian masing-masing.\n3. Kualifikasi adalah bagian kegiatan registrasi untuk menetapkan\npenggolongan usaha di bidang jasa konstruksi menurut tingkat/\nkedalaman kompetensi dan kemampuan usaha, atau penggolongan\nprofesi keterampilan dan keahlian kerja orang perseorangan di bidang\njasa konstruksi menurut tingkat/kedalaman kompetensi dan\nkemampuan profesi dan keahlian.\n4. Sertifikasi adalah:\na. proses penilaian untuk mendapatkan pengakuan terhadap klasifikasi\ndan kualifikasi atas kompetensi dan kem ampuan usaha di bidang\njasa konstruksi yang berbentuk usaha orang perseorangan atau\nbadan usaha; atau\nb. proses penilaian kompetensi dan kemampuan profesi keterampilan\nkerja dan keahlian kerja seseorang di bidang jasa konstruksi\nmenurut disiplin keilmuan d an atau keterampilan tertentu dan atau\nkefungsian dan atau keahlian tertentu.\n5. Sertifikat adalah:\na. tanda bukti pengakuan dalam penetapan klasifikasi dan kualifikasi\natas kompetensi dan kemampuan usaha di bidang jasa konstruksi\nbaik yang berbentuk orang perseorangan atau badan usaha; atau\nb. tanda bukti pengakuan atas kompetensi dan kemampuan profesi\nketerampilan kerja dan keahlian kerja orang perseorangan di bidang\njasa konstruksi menurut disiplin keilmuan dan atau keterampilan\ntertentu dan atau kefungsian dan atau keahlian tertentu.\n6. Akreditasi adalah suatu proses penilaian yang dilakukan oleh Lembaga\nterhadap:\na. asosiasi perusahaan jasa konstruksi dan asosiasi profesi jasa\nkonstruksi atas kompetensi dan kinerja asosiasi untuk dapat\nmelakukan sertifikasi anggota asosiasi; atau\nb. institusi pendidikan dan pelatihan jasa konstruksi atas kompetensi\ndan kinerja institusi tersebut untuk dapat menerbitkan sertifikat\nPRESIDEN\nREPUBLIK INDONESIA\nketerampilan kerja dan atau sertifikat keahlian kerja.\n7. Badan …\n7. Badan usaha adalah badan usaha di bidang jasa konstruksi.\n8. Menteri adalah Menteri yang bertanggung jawab dalam bidang\nkonstruksi."
+   }
+  },
+  {
+   "id": "ID-H1322-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\nLingkup pengaturan usaha dan peran masyarakat jasa konstruksi meliputi\nusaha jasa konstruksi, tenaga kerja konstruksi, peran masyarakat jasa\nkonstruksi, dan penerapan sanksi.\nBAB II\nUSAHA JASA KONSTRUKSI\nBagian Pertama\nJenis, Bentuk, dan Bidang Usaha"
+   }
+  },
+  {
+   "id": "ID-H1322-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\nUsaha jasa konstruksi mencakup jenis usaha, bentuk usaha, dan bidang\nusaha jasa konstruksi."
+   }
+  },
+  {
+   "id": "ID-H1322-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\n(1) Jenis usaha jasa konstruksi sebagaimana dimaksud dalam Pasal 3\nmeliputi jasa perencanaan, jasa pelaksanaan, dan jasa pengawasan\nkonstruksi.\n(2) Usaha jasa perencanaan pekerjaan konstruksi memberikan layanan jasa\nkonsultansi perencanaan yang meliputi bidang pekerjaan arsitektural,\nsipil, mekanikal, elektrikal, dan atau tata lingkungan.\n(3) Usaha jasa pelaksanaan pekerjaan konstruksi memberikan layanan jasa\npelaksanaan yang meliputi bidang pekerjaan arsitektural, sipil,\nmekanikal, elektrikal, dan atau tata lingkungan.\n(4) Usaha jasa pengawasan pekerjaan konstruksi membe rikan layanan jasa\nkonsultasi pengawasan yang meliputi bidang pekerjaan arsitektural,\nsipil, mekanikal, elektrikal, dan atau tata lingkungan."
+   }
+  },
+  {
+   "id": "ID-H1322-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\n(1) Lingkup layanan jasa perencanaan pekerjaan konstruksi sebagaimana\ndimaksud dalam Pasal 4 ayat (2) dapat terdiri dari:\na. survei;\nb. perencanaan umum, studi makro, dan studi mikro;\nc. studi kelayakan proyek, industri, dan produksi;\nPRESIDEN\nREPUBLIK INDONESIA\nd. perencanaan teknik, operasi, dan pemeliharaan;\ne. penelitian.\n(2) Lingkup …\n(2) Lingkup layanan jasa pengawasan pekerjaan konstruksi sebagaimana\ndimaksud dalam Pasal 4 ayat (4) dapat terdiri dari jasa:\na. pengawasan pelaksanaan pekerjaan konstruksi;\nb. pengawasan keyakinan mutu dan ketepatan waktu dalam proses\npekerjaan dan hasil pekerjaan konstruksi.\n(3) Lingkup layanan jasa perencanaan, pelaksanaan, dan pengawasan\nsecara terintegrasi dapat terdiri dari jasa:\na. rancang bangun;\nb. perencanaan, pengadaan, dan pelaksanaan terima jadi;\nc. penyelenggaraan pekerjaan terima jadi.\n(4) Pengembangan layanan jasa perencanaan dan atau pengawasan lainnya\ndapat mencakup antara lain jasa:\na. manajemen proyek;\nb. manajemen konstruksi;\nc. penilaian kualitas, kuantitas, dan biaya pekerjaan."
+   }
+  },
+  {
+   "id": "ID-H1322-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\n(1) Bentuk usaha dalam kegiatan jasa k onstruksi sebagaimana dimaksud\ndalam Pasal 3 meliputi usaha orang perseorangan dan badan usaha baik\nnasional maupun asing.\n(2) Badan usaha nasional dapat berbentuk badan hukum maupun bukan\nbadan hukum."
+   }
+  },
+  {
+   "id": "ID-H1322-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\n(1) Bidang usaha sebagaimana dimaksud dalam Pasal 3 terdiri dari:\na. bidang pekerjaan arsitektural yang meliputi antara lain arsitektur\nbangunan berteknologi sederhana, arsitektur bangunan berteknologi\nmenengah, arsitektur bangunan berteknologi tinggi, arsitektur ruang\ndalam bangunan (interior), arsi tektur lansekap, termasuk\nperawatannya;\nb. bidang pekerjaan sipil yang meliputi antara lain jalan dan jembatan,\njalan kereta api, landasan, terowongan, jalan bawah tanah, saluran\ndrainase dan pengendalian banjir, pelabuhan, bendung/bendungan,\nbangunan dan jaringan pengairan atau prasarana sumber daya air,\nstruktur bangunan gedung, geoteknik, konstruksi tambang dan\npabrik, termasuk perawatannya, dan pekerjaan penghancuran\nbangunan (demolition);\nc. bidang pekerjaan mekanikal yang meliputi antara lain instalas i tata\nudara/AC, instalasi minyak/gas/geotermal, instalasi industri, isolasi\ntermal dan suara, konstruksi lift dan eskalator, perpipaan, termasuk\nperawatannya;\nPRESIDEN\nREPUBLIK INDONESIA\nd. bidang …\nd. bidang pekerjaan elektrikal yang meliputi antara lain instalasi\npembangkit, jaringan transmisi dan distribusi, instalasi listrik, sinyal\ndan telekomunikasi kereta api, bangunan pemancar radio,\ntelekomunikasi dan sarana bantu navigasi udara dan laut, jaringan\ntelekomunikasi, sentral telekomunikasi, instrumentasi, penangkal\npetir, termasuk perawatannya;\ne. bidang pekerjaan tata lingkungan yang meliputi antara lain penataan\nperkotaan/planologi, analisa dampak lingkungan, teknik lingkungan,\ntata lingkungan lainnya, pengembangan wilayah, bangunan\npengolahan air bersih dan pengolahan li mbah, perpipaan air bersih\ndan perpipaan limbah, termasuk perawatannya.\n(2) Pembagian bidang pekerjaan sebagaimana dimaksud dalam ayat (1)\nmenjadi sub bidang pekerjaan dan bagian sub bidang pekerjaan\nditetapkan lebih lanjut oleh Lembaga.\nBagian Kedua\nKlasifikasi dan Kualifikasi Usaha"
+   }
+  },
+  {
+   "id": "ID-H1322-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n(1) Usaha orang perseorangan dan badan usaha jasa konstruksi harus\nmendapatkan klasifikasi dan kualifikasi dari Lembaga yang dinyatakan\ndengan sertifikat.\n(2) Klasifikasi usaha jasa konstruksi terdiri dari:\na. klasifikasi usaha bersifat umum diberlakukan kepada badan\nusaha yang mempunyai kemampuan untuk melaksanakan satu\natau lebih bidang pekerjaan sebagaimana dimaksud dalam Pasal 7;\nb. klasifikasi usaha bersifat spesialis diberlakukan kepada usaha\norang perseor angan dan atau badan usaha yang mempunyai\nkemampuan hanya melaksanakan satu sub bidang atau satu\nbagian sub bidang sebagaimana dimaksud dalam Pasal 7;\nc. klasifikasi usaha orang perorangan yang berketerampilan kerja\ntertentu diberlakukan kepada usaha oran g perseorangan yang\nmempunyai kemampuan hanya melaksanakan suatu keterampilan\nkerja tertentu.\n(3) Kualifikasi usaha jasa konstruksi didasarkan pada tingkat/ kedalaman\nkompetensi dan potensi kemampuan usaha, dan dapat digolongkan\ndalam:\na. kualifikasi usaha besar;\nb. kualifikasi usaha menengah;\nc. kualifikasi usaha kecil termasuk usaha orang perseorangan.\n(4) Sertifikat klasifikasi dan sertifikat kualifikasi usaha orang perseorangan\nPRESIDEN\nREPUBLIK INDONESIA\ndan badan usaha sebagaimana dimaksud dalam ayat (1), secara berkala\nditeliti/dinilai kembali oleh Lembaga.\n(5) Pelaksanaan …\n(5) Pelaksanaan klasifikasi dan kualifikasi usaha ora ng perseorangan dan\nbadan usaha sebagaimana dimaksud dalam ayat (1) dapat dilakukan\noleh asosiasi perusahaan yang telah mendapat akreditasi dari Lembaga.\n(6) Ketentuan lebih lanjut sebagaimana dimaksud dalam ayat (1), ayat (2),\nayat (3), ayat (4), dan ayat (5) ditetapkan oleh Lembaga."
+   }
+  },
+  {
+   "id": "ID-H1322-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n(1) Usaha orang perseorangan dan atau badan usaha jasa konsultasi\nperencanaan dan atau jasa konsultasi pengawasan konstruksi hanya\ndapat melakukan layanan jasa perencanaan dan layanan jasa\npengawasan pekerjaan konstr uksi sesuai dengan klasifikasi dan\nkualifikasi yang ditetapkan oleh Lembaga.\n(2) Usaha orang perseorangan selaku pelaksana konstruksi hanya dapat\nmelaksanakan pekerjaan konstruksi sesuai dengan klasifikasi dan\nkualifikasi yang ditetapkan oleh Lembaga untuk pekerjaan yang berisiko\nkecil, berteknologi sederhana, dan berbiaya kecil.\n(3) Badan usaha jasa pelaksana konstruksi yang berbentuk bukan badan\nhukum hanya dapat mengerjakan pekerjaan konstruksi sesuai dengan\nklasifikasi dan kualifikasi yang ditetapkan ol eh Lembaga untuk\npekerjaan yang berisiko kecil sampai sedang, berteknologi sederhana\nsampai madya, serta berbiaya kecil sampai sedang.\n(4) Badan usaha jasa pelaksana konstruksi yang berbentuk badan hukum\ndapat mengerjakan pekerjaan konstruksi sesuai dengan klasifikasi dan\nkualifikasi yang ditetapkan oleh Lembaga.\n(5) Untuk pekerjaan konstruksi yang berisiko tinggi dan atau yang\nberteknologi tinggi dan atau yang berbiaya besar hanya dapat dilakukan\noleh badan usaha yang berbentuk Perseroan Terbatas (PT) atau badan\nusaha asing yang dipersamakan."
+   }
+  },
+  {
+   "id": "ID-H1322-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\n(1) Kriteria risiko pada pekerjaan konstruksi sebagaimana dimaksud dalam\nPasal 9 terdiri dari:\na. kriteria risiko kecil mencakup pekerjaan konstruksi yang\npelaksanaannya tidak membahayakan keselamatan umum d an harta\nbenda;\nb. kriteria risiko sedang mencakup pekerjaan konstruksi yang\npelaksanaannya dapat berisiko membahayakan keselamatan umum,\nharta benda, dan jiwa manusia;\nc. kriteria risiko tinggi mencakup pekerjaan konstruksi yang\npelaksanaannya berisiko sangat membahayakan keselamatan umum,\nPRESIDEN\nREPUBLIK INDONESIA\nharta benda, jiwa manusia, dan lingkungan.\n(2) Kriteria …\n(2) Kriteria penggunaan teknologi pada pekerjaan konstruksi sebagaimana\ndimaksud dalam Pasal 9 terdiri dari:\na. kriteria teknologi sederhana mencakup pekerjaan konstruksi yang\nmenggunakan alat kerja sederhana dan tidak memerlukan tenaga ahli;\nb. kriteria teknologi madya mencakup pekerjaan konstruksi yang\nmenggunakan sedikit pe ralatan berat dan memerlukan sedikit tenaga\nahli;\nc. kriteria teknologi tinggi mencakup pekerjaan konstruksi yang\nmenggunakan banyak peralatan berat dan banyak memerlukan tenaga\nahli dan tenaga terampil.\n(3) Kriteria biaya pelaksanaan pada pekerjaan konstr uksi sebagaimana\ndimaksud dalam Pasal 9 terdiri atas kriteria biaya kecil dan atau biaya\nsedang dan atau biaya besar yang ditentukan berdasarkan besaran biaya\ndan volume pekerjaan.\n(4) Ketentuan lebih lanjut mengenai kriteria risiko, teknologi, dan biaya\nsebagaimana dimaksud dalam ayat (1), ayat (2), dan ayat (3) ditetapkan\noleh Lembaga."
+   }
+  },
+  {
+   "id": "ID-H1322-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\n(1) Penanggung jawab teknik b adan usaha jasa perencanaan, jasa\npelaksanaan dan jasa pengawasan harus memiliki sertifikat\nketerampilan dan atau keahlian sesuai dengan klasifikasi dan kualifikasi\ntenaga kerja konstruksi.\n(2) Tenaga teknik dan atau tenaga ahli yang berstatus tenaga tetap pada\nsuatu badan usaha, dilarang merangkap sebagai tenaga tetap pada\nusaha orang perseorangan atau badan usaha lainnya di bidang jasa\nkonstruksi yang sama.\nBagian Ketiga\nRegistrasi Badan Usaha Jasa Konstruksi"
+   }
+  },
+  {
+   "id": "ID-H1322-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n(1) Badan usaha baik nasional maupun asing sebagaimana dimaksud dalam\nPasal 6, yang telah mendapat sertifikat klasifikasi dan sertifikat\nkualifikasi, wajib mengikuti registrasi yang dilakukan oleh Lembaga.\n(2) Pemberian tanda registrasi badan usaha sebagaimana dimaksud dalam\nayat (1) dilakukan dengan cara meneliti/menilai sertifikat klasifikasi dan\nPRESIDEN\nREPUBLIK INDONESIA\nsertifikat kualifikasi yang dimiliki oleh badan usaha.\n(3) Ketentuan lebih lanjut mengenai persyaratan registrasi sebagaimana\ndimaksud dalam ayat (1), ditetapkan oleh Lembaga.\nBagian Keempat …\nBagian Keempat\nAkreditasi Asosiasi Perusahaan Jasa Konstruksi"
+   }
+  },
+  {
+   "id": "ID-H1322-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\n(1) Lembaga melaksanakan akreditasi terhadap asosiasi perusahaan yang\ntelah memenuhi persyaratan untuk menyelenggarakan klasifikasi dan\nkualifikasi sebagaimana dimaksud dalam Pasal 8.\n(2) Asosiasi perusahaan sebagaimana dimaksud dalam ayat (1) wajib\nmelaporkan has il klasifikasi dan kualifikasi yang dilakukannya kepada\nLembaga.\n(3) Ketentuan lebih lanjut mengenai persyaratan akreditasi ditetapkan oleh\nLembaga.\nBagian Kelima\nPerizinan Usaha Jasa Konstruksi"
+   }
+  },
+  {
+   "id": "ID-H1322-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\n(1) Badan usaha nasional yang menyelenggarakan us aha jasa konstruksi\nwajib memiliki izin usaha yang dikeluarkan oleh Pemerintah Daerah di\ntempat domisilinya.\n(2) Izin usaha sebagaimana dimaksud dalam ayat (1) berlaku untuk\nmelaksanakan kegiatan usaha jasa konstruksi di seluruh wilayah\nRepublik Indonesia.\n(3) Izin usaha sebagaimana dimaksud dalam ayat (1) diberikan pada badan\nusaha nasional yang telah memenuhi persyaratan:\na. memiliki tanda registrasi badan usaha yang dikeluarkan oleh\nLembaga;\nb. melengkapi ketentuan yang dipersyaratkan oleh peraturan\nperundang-undangan lainnya yang terkait dengan kegiatan usaha.\n(4) Badan usaha asing yang menyelenggarakan usaha jasa konstruksi wajib\nmemiliki izin usaha yang diberikan oleh Pemerintah dengan persyaratan\nsebagai berikut:\na. memiliki tanda registrasi badan us aha yang dikeluarkan oleh\nLembaga;\nb. memiliki kantor perwakilan di Indonesia;\nc. memberikan laporan kegiatan tahunan bagi perpanjangan;\nd. memenuhi ketentuan yang dipersyaratkan oleh peraturan\nPRESIDEN\nREPUBLIK INDONESIA\nperundang-undangan.\n(5) Ketentuan lebih lanjut mengenai pedoman persyaratan pemberian izin\nsebagaimana dimaksud dalam ayat (1), ayat (2), ayat (3) dan ayat (4)\nakan ditetapkan oleh Menteri.\nBAB III …\nBAB III\nTENAGA KERJA KONSTRUKSI\nBagian Pertama\nSertifikasi Keterampilan Kerja dan Sertifikasi Keahlian Kerja"
+   }
+  },
+  {
+   "id": "ID-H1322-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\n(1) Tenaga kerja konstruksi harus mengikuti sertifikasi keterampilan kerja\natau sertifikasi keahlian kerja yang dilakukan oleh Lembaga, yang\ndinyatakan dengan sertifikat.\n(2) Sertifikat keterampilan kerja diber ikan kepada tenaga kerja terampil\nyang telah memenuhi persyaratan berdasarkan disiplin keilmuan dan\natau keterampilan tertentu.\n(3) Sertifikat keahlian kerja diberikan kepada tenaga kerja ahli yang telah\nmemenuhi persyaratan berdasarkan disiplin keilmuan d an atau\nkefungsian dan atau keahlian tertentu.\n(4) Sertifikat keterampilan kerja dan sertifikat keahlian kerja sebagaimana\ndimaksud dalam ayat (1), secara berkala diteliti/ dinilai kembali oleh\nLembaga.\n(5) Pelaksanaan sertifikasi sebagaimana dimaksud dala m ayat (1) dapat\ndilakukan oleh asosiasi profesi atau institusi pendidikan dan pelatihan\nyang telah mendapat akreditasi dari Lembaga.\nBagian Kedua\nKlasifikasi, Kualifikasi, dan RegistrasiTenaga Kerja Konstruksi"
+   }
+  },
+  {
+   "id": "ID-H1322-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\n(1) Sertifikasi keterampilan kerja dan sertifikasi keahlian kerja sebagaimana\ndimaksud dalam Pasal 15 dilakukan melalui klasifikasi dan kualifikasi\ntenaga kerja konstruksi.\n(2) Jenis-jenis klasifikasi dan kualifikasi tenaga kerja konstruksi\nsebagaimana dimaksud dalam ayat (1) ditetapkan oleh Lembaga."
+   }
+  },
+  {
+   "id": "ID-H1322-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\n(1) Tenaga kerja konstruksi yang telah mendapat sertifikat keterampilan\nPRESIDEN\nREPUBLIK INDONESIA\nkerja atau sertifikat keahlian kerja wajib mengikuti registrasi yang\ndilakukan oleh Lembaga.\n(2) Pemberian tanda registrasi tenaga kerja konstruksi sebagaimana\ndimaksud dalam ayat (1) dilakukan dengan cara meneliti/menilai\nsertifikat keterampilan kerja atau sertifikat keahlian kerja yang dimiliki\noleh tenaga kerja konstruksi."
+   }
+  },
+  {
+   "id": "ID-H1322-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18 …"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 18\nKetentuan lebih lanjut mengenai ta ta cara sertifikasi, klasifikasi, kualifikasi,\ndan registrasi tenaga kerja konstruksi sebagaimana dimaksud dalam Pasal 15,\nPasal 16, dan Pasal 17 ditetapkan oleh Lembaga.\nBagian Ketiga\nAkreditasi Asosiasi Profesi dan Institusi\nPendidikan dan Pelatihan"
+   }
+  },
+  {
+   "id": "ID-H1322-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\n(1) Lembaga melaksanakan akreditasi terhadap asosiasi profesi dan institusi\npendidikan dan pelatihan yang telah memenuhi persyaratan untuk\nmenyelenggarakan sertifikasi sebagaimana dimaksud dalam Pasal 15.\n(2) Asosiasi profesi dan institusi pendid ikan dan pelatihan sebagaimana\ndimaksud dalam ayat (1), wajib melaporkan hasil sertifikasi yang telah\ndilaksanakannya kepada Lembaga.\n(3) Ketentuan lebih lanjut mengenai persyaratan akreditasi ditetapkan oleh\nLembaga.\nBAB IV\nPERAN MASYARAKAT JASA KONSTRUKSI\nBagian Pertama\nForum Jasa Konstruksi"
+   }
+  },
+  {
+   "id": "ID-H1322-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\n(1) Forum jasa konstruksi merupakan sarana komunikasi, konsultasi, dan\ninformasi antara masyarakat jasa konstruksi dan Pemerintah dalam\nbentuk pertemuan tetap yang sifatnya independen dan mandiri untuk\nmembahas secara transparan berbagai hal yang berhubungan dengan\njasa konstruksi.\n(2) Masyarakat umum, masyarakat jasa konstruksi, dan dunia usaha yang\nberkepentingan dengan jasa konstruksi dapat menyampaikan\naspirasinya kepada Forum.\nPRESIDEN\nREPUBLIK INDONESIA\n(3) Hasil Forum disampa ikan kepada Pemerintah, Lembaga, dan asosiasi\nyang terkait sebagai bahan pertimbangan untuk pengembangan jasa\nkonstruksi nasional."
+   }
+  },
+  {
+   "id": "ID-H1322-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\n(1) Forum terdiri dari unsur-unsur:\na. asosiasi perusahaan jasa konstruksi;\nb. asosiasi profesi jasa konstruksi;\nc. asosiasi perusahaan barang dan jasa mitra usaha jasa konstruksi;\nd. masyarakat …\nd. masyarakat intelektual;\ne. organisasi kemasyarakatan yang berkaitan dan berkepentingan di\nbidang jasa konstruksi dan atau yang mewakili konsumen jasa\nkonstruksi;\nf. instansi Pemerintah; dan\ng. unsur-unsur lain yang dianggap perlu.\n(2) Forum mempunyai fungsi untuk:\na. menampung dan menyalurkan aspirasi masyarakat;\nb. membahas dan memutuskan pemikiran arah pengembangan jasa\nkonstruksi nasional;\nc. menumbuhkan dan mengembangkan peran pengawasan masyarakat;\nd. memberi masukan kepada Pemerintah dalam merumuskan\npengaturan, pemberdayaan, dan pengawasan.\n(3) Untuk kelancaran dan ketertiban jalannya Forum, setiap kali kegiatan\nForum dipimpin oleh seorang ketua sidang, yang dipili h oleh dan dari\npeserta."
+   }
+  },
+  {
+   "id": "ID-H1322-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\n(1) Untuk mendukung terselenggaranya Forum sebagaimana dimaksud\ndalam Pasal 20 ayat (1), Pemerintah baik di pusat maupun di daerah\nmemfasilitasi penyelenggaraan Forum.\n(2) Ketentuan lebih lanjut mengenai fasilitasi penyelenggaraan Forum diatur\noleh Menteri."
+   }
+  },
+  {
+   "id": "ID-H1322-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\nPendanaan kegiatan Forum dapat diperoleh dari:\na. Lembaga;\nb. sumbangan dan atau bantuan peserta Forum;\nc. sumbangan dan atau bantuan pihak lain yang tidak mengikat.\nBagian Kedua\nLembaga Jasa Konstruksi"
+   }
+  },
+  {
+   "id": "ID-H1322-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 24\nPRESIDEN\nREPUBLIK INDONESIA\n(1) Lembaga jasa konstruksi didirikan di tingkat nasional dan di tingkat\ndaerah untuk melaksanakan kegiatan pengembangan jasa konstruksi.\n(2) Lembaga tingkat nasional berkedudukan di ibukota Negara dan Lembaga\ntingkat daerah berkedudukan di ibukota daerah yang bersangkutan.\n(3) Lembaga beranggotakan wakil-wakil dari:\na. asosiasi perusahaan jasa konstruksi;\nb. asosiasi profesi jasa konstruksi;\nc. pakar dan perguruan tinggi yang berkaitan dengan bida ng jasa\nkonstruksi; dan\nd. instansi Pemerintah yang terkait.\n(4) Asosiasi …\n(4) Asosiasi perusahaan sebagaimana dimaksud dalam ayat (3) huruf a\nmerupakan satu atau lebih w adah organisasi dan atau himpunan\npengusaha orang perseorangan dan atau perusahaan baik yang\nberbadan hukum maupun tidak berbadan hukum yang bergerak di\nbidang jasa konstruksi yang bersifat umum atau spesialis serta memiliki\nketerampilan dan atau keahlian sesuai dengan kriteria:\na. bersifat nasional dalam arti:\n1) berbentuk organisasi yang tidak memiliki cabang, tetapi ruang\nlingkup usaha anggotanya bersifat nasional; atau\n2) berbentuk organisasi yang memiliki cabang -cabang atau\nperwakilan sekurang-kurangnya di 5 (lima) daerah propinsi di\nIndonesia.\nb. mempunyai tujuan memperjuangkan kepentingan dan aspirasi\nanggotanya;\nc. memiliki dan menjunjung tinggi kode etik asosiasi; dan\nd. melakukan pembinaan untuk meningkatkan kemampuan\nmanajemen usaha bagi anggota-anggotanya.\n(5) Asosiasi profesi sebagaimana dimaksud dalam ayat (3) huruf b\nmerupakan satu atau lebih wadah organisasi dan atau himpunan orang\nperseorangan terampil dan atau ahli atas dasar kesamaan disiplin\nkeilmuan dan atau profesi di bidang konstruk si atau yang berkaitan\ndengan jasa konstruksi yang memenuhi kriteria:\na. bersifat nasional dalam arti:\n1 berbentuk organisasi yang tidak memiliki cabang, tetapi\nkeanggotaannya bersifat nasional; atau\n2 berbentuk organisasi yang memiliki cabang -cabang atau\nperwakilan sekurang-kurangnya di 5 (lima) daerah propinsi di\nIndonesia.\nb. mempunyai tujuan memperjuangkan kepentingan dan aspirasi\nanggotanya;\nc. memiliki dan menjunjung tinggi kode etik profesi; dan\nd. melakukan pembinaan untuk meningkatkan kemampuan,\nketerampilan, dan keahlian bagi anggota-anggotanya.\n(6) Pakar sebagaimana dimaksud dalam ayat (3) huruf c merupakan satu\norang atau lebih yang memenuhi kriteria sebagai ahli di bidang jasa\nkonstruksi berdas arkan disiplin keilmuan dan atau pengalaman, serta\nPRESIDEN\nREPUBLIK INDONESIA\nmempunyai minat untuk berperan dalam pengembangan jasa konstruksi\ndan bukan pengusaha jasa konstruksi.\n(7) Wakil perguruan tinggi sebagaimana dimaksud dalam ayat (3) huruf c\nmerupakan satu orang atau lebih yang berasal dari institusi pendidikan\nyang memenuhi kriteria:\na. mempunyai jurusan disiplin ilmu yang berkaitan dengan bidang\njasa konstruksi;\nb. telah memenuhi persyaratan akreditasi perguruan tinggi dan telah\nmendapat rekomendasi dari pimpinan pergur uan tinggi untuk\nberpartisipasi dalam Lembaga.\n(8) Wakil …\n(8) Wakil instansi Pemerintah sebagaimana dimaksud dalam ayat (3) huruf\nd, merupakan pejabat dari satu atau lebih instansi yang melakukan\npembinaan dan atau bidang tugasnya berkaitan dengan jasa konstruksi\nyang direkomendasi oleh Menteri."
+   }
+  },
+  {
+   "id": "ID-H1322-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\n(1) Lembaga sebagaimana dimaksud dalam Pasal 24 mempunyai sifat\nnasional, independen, mandiri, dan terbuka yang dalam kegiatannya\nbersifat nirlaba.\n(2) Pembentukan Lembaga sebagaimana dimaksud dalam ayat (1)\ndinyatakan sah secara hukum dan organisatoris apabila telah memenuhi\nketentuan dalam Pasal 24.\n(3) Masa bakti, rincian tugas pokok dan fungsi, serta mekanisme kerja\nLembaga sebagaimana dimaksud dalam ayat (1), ditetapkan dalam\nanggaran dasar dan anggaran rumah tangga Lembaga."
+   }
+  },
+  {
+   "id": "ID-H1322-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\n(1) Lembaga tingkat nasional menetapkan norma dan aturan yang bersifat\nnasional.\n(2) Lembaga tingkat daerah dalam melaksanakan fungsinya berpedoman\npada norma dan atura n yang telah ditetapkan oleh Lembaga tingkat\nnasional sebagaimana dimaksud dalam ayat (1)"
+   }
+  },
+  {
+   "id": "ID-H1322-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\n(1) Untuk melaksanakan tugas dan fungsinya Lembaga dapat memperoleh\ndana yang antara lain berasal dari:\na. pendapatan imbalan atas layanan jasa Lembaga;\nb. kontribusi dari anggota Lembaga;\nc. bantuan dari pihak lain yang sah dan tidak mengikat.\n(2) Ketentuan lebih lanjut tentang sumber biaya dan besarnya biaya\nsebagaimana dimaksud dalam ayat (1) serta tata cara\npertanggungjawaban penggunaannya ditetapkan dalam musyawarah\nPRESIDEN\nREPUBLIK INDONESIA\nLembaga."
+   }
+  },
+  {
+   "id": "ID-H1322-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\n(1) Lembaga mempunyai tugas untuk:\na. melakukan dan mendorong penelitian dan pengembangan jasa\nkonstruksi;\nb. menyelenggarakan pendidikan dan pelatihan jasa konstruksi;\nc. melakukan registrasi tenaga kerja konstruksi yang meliputi\nklasifikasi, kualifikasi, dan sertifikasi keterampilan dan keahlian\nkerja;\nd. melakukan registrasi badan usaha jasa konstruksi;\ne. mendorong dan meningkatkan peran arbitrase, mediasi, dan\npenilai ahli di bidang jasa konstruksi.\n(2) Dalam …\n(2) Dalam rangka pelaksanaan tugas Lembaga sebagaimana dimaksud\ndalam ayat (1), Lembaga dapat:\na. mengembangkan sistem informasi jasa konstruksi;\nb. menyusun model dokumen lelang, model kontrak kerja konstruks i\ndan pedoman tata cara pengikatan;\nc. melakukan sosialisasi penerapan standar nasional, regional, dan\ninternasional;\nd. mendorong penyedia jasa untuk mampu bersaing di pasar nasional\nmaupun internasional."
+   }
+  },
+  {
+   "id": "ID-H1322-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\nLembaga mempunyai kewenangan dan tanggung jawab dalam:\na. memberikan akreditasi kepada:\n1) asosiasi perusahaan untuk membantu Lembaga dalam rangka\nmenyelenggarakan klasifikasi dan kualifikasi badan usaha;\n2) asosiasi profesi, institusi pendidikan dan pelatihan untuk\nmembantu Lembaga dalam rangka penyelenggaraan sertifikasi\nketerampilan kerja dan keahlian kerja.\nb. memberikan status kesetaraan sertifikat keahlian tenaga kerja asing dan\nregistrasi badan usaha asing.\nc. menyusun dan merumuskan ketentuan -ketentuan mengenai tanggung\njawab profesi berlandaskan prinsip -prinsip keahlian sesuai dengan\nkaidah keilmuan, kepatutan dan kejujuran intelektual dalam\nmenjalankan profesinya dengan tetap mengutamakan kepentingan\numum.\nd. memberikan sanksi kepada asosiasi perusahaan, asosiasi profesi, dan\ninstitusi pendidikan dan pelatihan yang mendapat akreditasi dari\nLembaga atas pelanggaran yang dilakukan.\ne. memberikan sanksi kepada penyedia jasa konstruksi atas pelanggaran\nketentuan Lembaga.\nBAB V\nSANKSI ADMINISTRATIF\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H1322-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\nPelanggaran terhadap Peraturan Pemerintah ini dikenakan sanksi administratif\nyang ditetapkan oleh:\na. Pemerintah kepada Lembaga dan pengguna jasa, berupa peringatan\ntertulis;\nb. Pemerintah kepada penyedia jasa, berupa:\n1) peringatan tertulis;\n2) pembekuan izin usaha;\n3) pencabutan izin usaha; dan atau\n4) larangan melakukan pekerjaan.\nc. Lembaga …\nc. Lembaga kepada penyedia jasa dan asosiasi, berupa:\n1) peringatan tertulis;\n2) memasukkan dalam daftar pembatasan/larangan kegiatan usaha;\n3) pencabutan akreditasi;\n4) pembatasan bidang usaha;\n5) pencabutan tanda registrasi badan usaha; dan atau\n6) pencabutan sertifikat keterampilan atau keahlian kerja.\nd. Asosiasi kepada anggota asosiasi, berupa:\n1) peringatan tertulis;\n2) pencabutan keanggotaan asosiasi;\n3) pencabutan sertifikat keterampilan atau keahlian kerja."
+   }
+  },
+  {
+   "id": "ID-H1322-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\nPelanggaran terhadap ketentuan Pasal 8 ayat (1), Pasal 9, dan Pasal 10 yang\ndilakukan oleh usaha orang p erseorangan dan badan usaha jasa konstruksi\ndikenakan sanksi berupa:\na. peringatan tertulis;\nb. memasukkan dalam daftar pembatasan/larangan kegiatan usaha;\nc. pembatasan bidang usaha;\nd. pencabutan sertifikat keterampilan atau keahlian kerja;\ne. pencabutan registrasi; dan atau\nf. pembatalan keanggotaan asosiasi."
+   }
+  },
+  {
+   "id": "ID-H1322-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 32\n(1) Pelanggaran terhadap ketentuan Pasal 11 ayat (1) yang dilakukan oleh\npenanggung jawab teknik dikenakan sanksi administratif berupa:\na. peringatan tertulis;\nb. memasukkan dalam daftar pembatasan/larangan kegiatan usaha;\natau\nc. pencabutan sertifikat keterampilan atau keahlian kerja.\n(2) Pelanggaran terhadap ketentuan Pasal 11 ayat (2) yang dilakukan oleh\nPRESIDEN\nREPUBLIK INDONESIA\ntenaga teknik dan tenaga ahli pada badan usaha dikenakan sanksi\nberupa:\na. peringatan tertulis;\nb. memasukkan dalam daftar pembatasan/larangan kegiatan usaha;\natau\nc. pencabutan sertifikat keterampilan atau keahlian kerja."
+   }
+  },
+  {
+   "id": "ID-H1322-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 33\n(1) Pelanggaran terhadap ketentuan Pasal 13 ayat (2), Pasal 19 ayat (2)\nyang dilakukan o leh asosiasi perusahaan, asosiasi profesi dan atau\ninstitusi pendidikan dan pelatihan dikenakan sanksi berupa:\na. peringatan …\na. peringatan tertulis;\nb. memasukkan dalam daftar pembatasan/larangan kegiatan usaha;\ndan atau\nc. pencabutan akreditasi.\n(2) Pelanggaran terhadap ketentuan Pasal 26 ayat (1) dan ayat (2) yang\ndilakukan oleh Lembaga dikenakan sanksi berupa peringatan tertulis\ndari Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H1322-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 34\nPelanggaran terhadap ketentuan Pasal 12 ayat (1) yang dilakukan oleh badan\nusaha nasional maupun asing dikenakan sanksi berupa:\na. peringatan tertulis; atau\nb. larangan melakukan pekerjaan di bidangnya."
+   }
+  },
+  {
+   "id": "ID-H1322-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 35\n(1) Pelanggaran terhadap ketentuan Pasal 14 ayat (1), ayat (2), dan ayat (3)\nyang dilakukan oleh badan usaha dikenakan sanksi berupa:\na. peringatan tertulis;\nb. pembekuan izin usaha; atau\nc. pencabutan izin usaha.\n(2) Pelanggaran terhadap ketentuan Pasal 14 ayat (4) yang dilakukan oleh\nbadan usaha asing dikenakan sanksi administratif berupa:\na. peringatan tertulis; atau\nb. larangan melakukan pekerjaan di bidangnya.\nBAB VI\nKETENTUAN LAIN-LAIN"
+   }
+  },
+  {
+   "id": "ID-H1322-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 36\nPRESIDEN\nREPUBLIK INDONESIA\nSanksi administrasi sebagaimana dimaksud dalam Pasal 31, 32, 33, 34 dan 35\ndikenakan sesuai dengan tingkat pelanggaran yang dilakukan."
+   }
+  },
+  {
+   "id": "ID-H1322-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 37\n(1) Ketentuan yang dikeluarkan oleh Lembaga yang menyangkut masyarakat\njasa konstruksi wajib dilaporkan kepada Menteri paling lambat 15 (lima\nbelas) hari setelah dikeluarkan.\n(2) Pemerintah dapat membatalkan ketentuan yang diterbitkan oleh\nLembaga yang merugikan kepentingan umum dan atau bertentangan\ndengan peraturan perundang- undangan.\nBAB VII …\nBAB VII\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H1322-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 38\n(1) Dengan berlakunya Peraturan Pemerintah ini, peraturan\nperundang-undangan yang mengatur mengenai usaha dan peran\nmasyarakat jasa konstruksi yang telah ada, sepanjang tidak\nbertentangan ataupun belum diubah atau diatur kembali berdasarkan\nPeraturan Pemerintah ini, dinyatakan tetap berlaku.\n(2) Sertifikat keterampilan ker ja dan sertifikat keahlian kerja yang telah\nditerbitkan sebelum dikeluarkannya Peraturan Pemerintah ini, tetap\nberlaku sampai masa berlakunya sertifikat berakhir atau paling lama 1\ntahun sejak dikeluarkannya Peraturan Pemerintah ini.\nBAB VIII\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H1322-A40",
+   "no": 40,
+   "noLabel": {
+    "id": "Pasal 40"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 40\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan\nPemerintah ini dengan penempatannya dalam Lembaran Negara Republik\nIndonesia.\nDitetapkan di Jakarta\npada tanggal 30 Mei 2000\nPRESIDEN REPUBLIK INDONESIA,\nttd.\nPRESIDEN\nREPUBLIK INDONESIA\nABDURRAHMAN WAHID\nDiundangkan di Jakarta\npada tanggal 30 Mei 2000\nSEKRETARIS NEGARA REPUBLIK INDONESIA,\nttd.\nBONDAN GUNAWAN\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2000 NOMOR 63"
+   }
+  }
+ ]
+}

@@ -1,0 +1,714 @@
+{
+ "id": "VN-H659",
+ "title": {
+  "zh": "刑事司法协助法",
+  "en": "Law No. 103/2025/QH15 on judicial assistance in criminal matters",
+  "vi": "Luật Tương trợ tư pháp về hình sự số 103/2025/QH15",
+  "orig": "Luật Tương trợ tư pháp về hình sự số 103/2025/QH15",
+  "th": "พระราชบัญญัติการช่วยเหลือทางตุลาการในเรื่องอาญา เลขที่ 103/2025/QH15",
+  "id": "Undang-Undang Bantuan Timbal Balik di Bidang Hukum Pidana No. 103/2025/QH15",
+  "ms": "Akta Bantuan Kehakiman Jenayah No. 103/2025/QH15"
+ },
+ "country": "VN",
+ "countryName": "越南",
+ "layer": "intl",
+ "pack": "vn-p06",
+ "language": "vi",
+ "level": "law",
+ "category": "05_其他及未分类",
+ "status": "active",
+ "promulgatedDate": "2025",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "国会",
+ "docNumber": "103/2025/QH15",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 42,
+ "chars": 44568,
+ "source": {
+  "name": "越南法律数据库（vbpl.vn 官方公报文本）",
+  "url": "https://vbpl.vn/van-ban/chi-tiet/luat-tuong-tro-tu-phap-ve-hinh-su-so-103-2025-qh15--186624"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\VN\\05_其他及未分类\\2025_103 2025 QH15_Luật Tương trợ tư pháp về hình sự số 103 2025 QH15.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 42 条；逐字未改写（源自 VN）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "VN-H659-A1",
+   "no": 1,
+   "noLabel": {
+    "vi": "Điều 1"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Phạm vi điều chỉnh"
+   },
+   "text": {
+    "vi": "Điều 1. Phạm vi điều chỉnh\n\nLuật này quy định nguyên tắc, thẩm quyền, trình tự, thủ tục thực hiện tương trợ tư pháp về hình sự giữa Việt Nam với nước ngoài; trách nhiệm của các cơ quan nhà nước Việt Nam trong tương trợ tư pháp về hình sự."
+   }
+  },
+  {
+   "id": "VN-H659-A2",
+   "no": 2,
+   "noLabel": {
+    "vi": "Điều 2"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Đối tượng áp dụng"
+   },
+   "text": {
+    "vi": "Điều 2. Đối tượng áp dụng\n\nLuật này áp dụng đối với cơ quan, tổ chức, cá nhân Việt Nam, cơ quan, tổ chức, cá nhân nước ngoài có liên quan đến tương trợ tư pháp về hình sự giữa Việt Nam với nước ngoài."
+   }
+  },
+  {
+   "id": "VN-H659-A3",
+   "no": 3,
+   "noLabel": {
+    "vi": "Điều 3"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Giải thích từ ngữ"
+   },
+   "text": {
+    "vi": "Điều 3. Giải thích từ ngữ\n\nTrong Luật này, các từ ngữ dưới đây được hiểu như sau:\n\n1. Tương trợ tư pháp về hình sự là việc Việt Nam và nước ngoài, thông qua các cơ quan nhà nước có thẩm quyền, hỗ trợ nhau trong việc thực hiện các hoạt động xác minh, điều tra, thu thập chứng cứ hoặc thực hiện các hoạt động khác nhằm phục vụ giải quyết vụ việc, vụ án hình sự, thi hành án.\n\n2. Nước yêu cầu là nước gửi yêu cầu tương trợ tư pháp về hình sự để nước được yêu cầu xem xét hỗ trợ thực hiện.\n\n3. Nước được yêu cầu là nước được đề nghị thực hiện tương trợ tư pháp về hình sự.\n\n4. Cơ quan lập yêu cầu là cơ quan có thẩm quyền theo quy định của pháp luật đề nghị nước ngoài thực hiện tương trợ tư pháp về hình sự để giải quyết vụ việc, vụ án hình sự, thi hành án.\n\n5. Cơ quan thực hiện yêu cầu là cơ quan có thẩm quyền theo quy định của pháp luật được giao thực hiện tương trợ tư pháp về hình sự ở Việt Nam và nước ngoài."
+   }
+  },
+  {
+   "id": "VN-H659-A4",
+   "no": 4,
+   "noLabel": {
+    "vi": "Điều 4"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Áp dụng pháp luật"
+   },
+   "text": {
+    "vi": "Điều 4. Áp dụng pháp luật\n\n1. Tương trợ tư pháp về hình sự được thực hiện theo quy định của Luật này; trường hợp Luật này không quy định thì áp dụng quy định của pháp luật về tố tụng hình sự và quy định khác của pháp luật Việt Nam có liên quan.\n\n2. Việc áp dụng pháp luật nước ngoài chỉ được thực hiện theo quy định của điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên."
+   }
+  },
+  {
+   "id": "VN-H659-A5",
+   "no": 5,
+   "noLabel": {
+    "vi": "Điều 5"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Nguyên tắc tương trợ tư pháp về hình sự"
+   },
+   "text": {
+    "vi": "Điều 5. Nguyên tắc tương trợ tư pháp về hình sự\n\n1. Tương trợ tư pháp về hình sự được thực hiện trên nguyên tắc tôn trọng độc lập, chủ quyền, toàn vẹn lãnh thổ, không can thiệp vào công việc nội bộ của nhau, bình đẳng và các bên cùng có lợi, phù hợp với Hiến pháp, pháp luật Việt Nam, điều ước quốc tế có liên quan mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.\n\n2. Trường hợp Việt Nam và nước ngoài không cùng là thành viên của điều ước quốc tế về tương trợ tư pháp về hình sự thì việc tương trợ tư pháp về hình sự được thực hiện theo nguyên tắc có đi có lại nhưng không trái pháp luật Việt Nam, phù hợp với pháp luật quốc tế và tập quán quốc tế."
+   }
+  },
+  {
+   "id": "VN-H659-A6",
+   "no": 6,
+   "noLabel": {
+    "vi": "Điều 6"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Cơ quan trung ương của nước Cộng hòa xã hội chủ nghĩa Việt Nam trong tương trợ tư pháp về hình sự"
+   },
+   "text": {
+    "vi": "Điều 6. Cơ quan trung ương của nước Cộng hòa xã hội chủ nghĩa Việt Nam trong tương trợ tư pháp về hình sự\n\n1. Viện kiểm sát nhân dân tối cao là Cơ quan trung ương của nước Cộng hòa xã hội chủ nghĩa Việt Nam trong tương trợ tư pháp về hình sự.\n\n2. Cơ quan trung ương của nước Cộng hòa xã hội chủ nghĩa Việt Nam trong tương trợ tư pháp về hình sự có trách nhiệm làm đầu mối trao đổi thông tin, tiếp nhận, chuyển giao, theo dõi, đôn đốc việc thực hiện tương trợ tư pháp về hình sự; từ chối hoặc hoãn thực hiện yêu cầu tương trợ tư pháp về hình sự theo thẩm quyền; phối hợp với các cơ quan có liên quan xem xét, giải quyết yêu cầu tương trợ tư pháp về hình sự; đề xuất việc ký kết, gia nhập, thực hiện điều ước quốc tế về tương trợ tư pháp về hình sự và thực hiện nhiệm vụ, quyền hạn khác theo quy định của pháp luật tương trợ tư pháp về hình sự và điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên."
+   }
+  },
+  {
+   "id": "VN-H659-A7",
+   "no": 7,
+   "noLabel": {
+    "vi": "Điều 7"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Áp dụng nguyên tắc có đi có lại trong tương trợ tư pháp về hình sự"
+   },
+   "text": {
+    "vi": "Điều 7. Áp dụng nguyên tắc có đi có lại trong tương trợ tư pháp về hình sự\n\n1. Viện kiểm sát nhân dân tối cao quyết định việc tiếp nhận, xử lý yêu cầu tương trợ tư pháp về hình sự của nước ngoài và việc gửi yêu cầu tương trợ tư pháp về hình sự của Việt Nam theo nguyên tắc có đi có lại.\n\n2. Trường hợp cần thiết, Viện kiểm sát nhân dân tối cao lấy ý kiến của Bộ Ngoại giao và các cơ quan có liên quan trước khi quyết định."
+   }
+  },
+  {
+   "id": "VN-H659-A8",
+   "no": 8,
+   "noLabel": {
+    "vi": "Điều 8"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Ngôn ngữ trong hồ sơ yêu cầu tương trợ tư pháp về hình sự"
+   },
+   "text": {
+    "vi": "Điều 8. Ngôn ngữ trong hồ sơ yêu cầu tương trợ tư pháp về hình sự\n\n1. Trường hợp Việt Nam và nước ngoài cùng là thành viên của điều ước quốc tế về tương trợ tư pháp về hình sự thì ngôn ngữ trong hồ sơ yêu cầu tương trợ tư pháp về hình sự là ngôn ngữ được quy định trong điều ước quốc tế.\n\n2. Trường hợp Việt Nam và nước ngoài không cùng là thành viên của điều ước quốc tế về tương trợ tư pháp về hình sự thì hồ sơ yêu cầu tương trợ tư pháp về hình sự phải kèm theo bản dịch ra ngôn ngữ của nước được yêu cầu hoặc ngôn ngữ khác mà nước được yêu cầu chấp nhận.\n\n3. Cơ quan lập yêu cầu của Việt Nam phải dịch các văn bản, tài liệu quy định tại khoản 1 Điều 19 của Luật này ra ngôn ngữ theo quy định tại khoản 1 và khoản 2 Điều này."
+   }
+  },
+  {
+   "id": "VN-H659-A9",
+   "no": 9,
+   "noLabel": {
+    "vi": "Điều 9"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Phạm vi tương trợ tư pháp về hình sự"
+   },
+   "text": {
+    "vi": "Điều 9. Phạm vi tương trợ tư pháp về hình sự\n\nPhạm vi tương trợ tư pháp về hình sự bao gồm:\n\n1. Tống đạt, giao, gửi văn bản tố tụng;\n\n2. Khám xét, thu giữ;\n\n3. Tịch thu, trả lại, xử lý vật chứng, tài sản;\n\n4. Tổ chức cho người ở nước được yêu cầu sang nước yêu cầu để hỗ trợ điều tra, cung cấp chứng cứ;\n\n5. Tổ chức cho người có thẩm quyền ở nước yêu cầu sang nước được yêu cầu để có mặt trong quá trình thực hiện tương trợ tư pháp về hình sự;\n\n6. Chuyển giao tạm thời người đang bị tạm giam hoặc đang chấp hành án phạt tù ở nước được yêu cầu sang nước yêu cầu để hỗ trợ điều tra, cung cấp chứng cứ;\n\n7. Lấy lời khai trực tiếp, trực tuyến và các hình thức thu thập, cung cấp chứng cứ khác;\n\n8. Chuyển giao truy cứu trách nhiệm hình sự;\n\n9. Trao đổi thông tin;\n\n10. Các hình thức tương trợ khác."
+   }
+  },
+  {
+   "id": "VN-H659-A10",
+   "no": 10,
+   "noLabel": {
+    "vi": "Điều 10"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Miễn hợp pháp hóa lãnh sự"
+   },
+   "text": {
+    "vi": "Điều 10. Miễn hợp pháp hóa lãnh sự\n\nHồ sơ yêu cầu và kết quả thực hiện yêu cầu tương trợ tư pháp về hình sự được miễn hợp pháp hóa lãnh sự nếu được ký, đóng dấu bởi người, cơ quan có thẩm quyền của nước ngoài, trừ trường hợp điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên có quy định khác."
+   }
+  },
+  {
+   "id": "VN-H659-A11",
+   "no": 11,
+   "noLabel": {
+    "vi": "Điều 11"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Bảo đảm an toàn"
+   },
+   "text": {
+    "vi": "Điều 11. Bảo đảm an toàn\n\n1. Khi yêu cầu một người có mặt trên lãnh thổ của nước yêu cầu để hỗ trợ điều tra, cung cấp chứng cứ thì nước yêu cầu phải cam kết bằng văn bản các nội dung sau đây:\n\na) Người đó sẽ không bị truy cứu trách nhiệm hình sự trên lãnh thổ của nước yêu cầu về hành vi đã thực hiện trước khi rời khỏi nước được yêu cầu;\n\nb) Người đó sẽ không bị bắt giữ hoặc bị áp dụng bất kỳ biện pháp hạn chế tự do nào khác trên lãnh thổ của nước yêu cầu về hành vi đã thực hiện trước khi rời khỏi nước được yêu cầu, trừ trường hợp quy định tại khoản 1 Điều 35 và khoản 1 Điều 37 của Luật này;\n\nc) Người đó không phải cung cấp chứng cứ hoặc hỗ trợ bất kỳ hoạt động điều tra hình sự nào ngoài phạm vi đã được nêu trong yêu cầu tương trợ tư pháp, nếu người đó không đồng ý.\n\n2. Người không đồng ý sang nước yêu cầu để hỗ trợ điều tra, cung cấp chứng cứ thì không phải chịu bất kỳ hình phạt hoặc biện pháp cưỡng chế nào.\n\n3. Người đồng ý sang nước yêu cầu để hỗ trợ điều tra, cung cấp chứng cứ thì không bị truy cứu trách nhiệm hình sự về lời khai của họ, trừ việc họ khai báo gian dối.\n\n4. Quyền không bị truy cứu trách nhiệm hình sự, bị bắt giữ, bị hạn chế tự do quy định tại điểm a và điểm b khoản 1 Điều này chấm dứt nếu người đó không rời khỏi nước yêu cầu sau thời hạn 15 ngày kể từ ngày nhận được thông báo bằng văn bản của cơ quan có thẩm quyền của nước yêu cầu về việc không cần người đó có mặt tại lãnh thổ nước này. Thời hạn này không tính thời gian mà người đó không thể rời khỏi nước yêu cầu vì lý do bất khả kháng."
+   }
+  },
+  {
+   "id": "VN-H659-A12",
+   "no": 12,
+   "noLabel": {
+    "vi": "Điều 12"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Bảo mật thông tin và giới hạn sử dụng"
+   },
+   "text": {
+    "vi": "Điều 12. Bảo mật thông tin và giới hạn sử dụng\n\n1. Thông tin, tài liệu, chứng cứ do cơ quan có thẩm quyền cung cấp chỉ được sử dụng phù hợp với mục đích đã nêu trong yêu cầu tương trợ tư pháp về hình sự, không được tiết lộ hoặc chuyển giao cho bên thứ ba. Trường hợp sử dụng thông tin, tài liệu, chứng cứ ngoài mục đích đã nêu trong yêu cầu thì phải có sự đồng ý trước bằng văn bản của cơ quan có thẩm quyền của nước kia.\n\n2. Thông tin, tài liệu, chứng cứ do cơ quan có thẩm quyền của nước được yêu cầu cung cấp phải bảo đảm không bị sai lệch, thay đổi, tiết lộ trái phép. Theo đề nghị của nước yêu cầu hoặc trong trường hợp cần thiết, cơ quan có thẩm quyền của nước được yêu cầu quyết định việc áp dụng biện pháp phù hợp để bảo mật thông tin.\n\n3. Trường hợp không thể thực hiện được yêu cầu về bảo mật thông tin thì cơ quan có thẩm quyền của nước được yêu cầu phải thông báo và nêu rõ lý do, trao đổi với cơ quan có thẩm quyền của nước yêu cầu về biện pháp thay thế (nếu có)."
+   }
+  },
+  {
+   "id": "VN-H659-A13",
+   "no": 13,
+   "noLabel": {
+    "vi": "Điều 13"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Giao nhận tài liệu, vật chứng, tài sản liên quan đến tương trợ tư pháp về hình sự"
+   },
+   "text": {
+    "vi": "Điều 13. Giao nhận tài liệu, vật chứng, tài sản liên quan đến tương trợ tư pháp về hình sự\n\n1. Việc giao nhận tài liệu, vật chứng, tài sản liên quan đến tương trợ tư pháp về hình sự giữa Viện kiểm sát nhân dân tối cao với cơ quan lập yêu cầu hoặc cơ quan thực hiện yêu cầu ở Việt Nam được thực hiện theo quy định của pháp luật Việt Nam.\n\n2. Việc giao nhận tài liệu, vật chứng, tài sản liên quan đến tương trợ tư pháp về hình sự giữa Viện kiểm sát nhân dân tối cao với cơ quan có thẩm quyền của nước ngoài do hai bên thỏa thuận, phù hợp với điều ước quốc tế mà hai nước là thành viên, pháp luật Việt Nam và pháp luật nước ngoài có liên quan."
+   }
+  },
+  {
+   "id": "VN-H659-A14",
+   "no": 14,
+   "noLabel": {
+    "vi": "Điều 14"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Xem xét yêu cầu liên quan đến hình phạt tử hình"
+   },
+   "text": {
+    "vi": "Điều 14. Xem xét yêu cầu liên quan đến hình phạt tử hình\n\n1. Trường hợp nước ngoài yêu cầu Việt Nam không áp dụng hình phạt tử hình hoặc không thi hành án tử hình để thực hiện yêu cầu tương trợ tư pháp về hình sự, Viện kiểm sát nhân dân tối cao chủ trì, phối hợp với các cơ quan có liên quan đưa ra một trong các thông báo sau đây:\n\na) Thông báo không áp dụng hình phạt tử hình hoặc không thi hành án tử hình đối với người có liên quan đến yêu cầu tương trợ tư pháp về hình sự nếu người đó thuộc trường hợp không áp dụng hình phạt tử hình hoặc không thi hành án tử hình theo quy định của Bộ luật Hình sự;\n\nb) Thông báo không thi hành án tử hình đối với người có liên quan đến yêu cầu tương trợ tư pháp về hình sự không thuộc trường hợp được quy định tại điểm a khoản 1 Điều này sau khi có ý kiến của Chủ tịch nước Cộng hòa xã hội chủ nghĩa Việt Nam.\n\n2. Trường hợp Việt Nam yêu cầu nước ngoài không áp dụng hình phạt tử hình hoặc không thi hành án tử hình để thực hiện yêu cầu tương trợ tư pháp về hình sự, Viện kiểm sát nhân dân tối cao đề nghị nước ngoài đưa ra cam kết bằng văn bản về nội dung này.\n\n3. Viện trưởng Viện kiểm sát nhân dân tối cao chủ trì, phối hợp với Chánh án Tòa án nhân dân tối cao, Bộ trưởng Bộ Công an, Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Tư pháp và Bộ trưởng Bộ Ngoại giao quy định chi tiết Điều này."
+   }
+  },
+  {
+   "id": "VN-H659-A15",
+   "no": 15,
+   "noLabel": {
+    "vi": "Điều 15"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Chi phí thực hiện yêu cầu tương trợ tư pháp về hình sự"
+   },
+   "text": {
+    "vi": "Điều 15. Chi phí thực hiện yêu cầu tương trợ tư pháp về hình sự\n\n1. Trường hợp Việt Nam và nước ngoài cùng là thành viên của điều ước quốc tế về tương trợ tư pháp về hình sự thì chi phí trong tương trợ tư pháp về hình sự được thực hiện theo điều ước quốc tế.\n\n2. Trường hợp Việt Nam và nước ngoài không cùng là thành viên của điều ước quốc tế về tương trợ tư pháp về hình sự, nếu không có thỏa thuận khác thì chi phí trong tương trợ tư pháp về hình sự do nước được yêu cầu chi trả, trừ những trường hợp sau đây do nước yêu cầu chi trả:\n\na) Chi phí cho việc đưa người đến hoặc đưa người đi và chi phí mà người đó có thể được hưởng trong thời gian thực hiện yêu cầu tương trợ tư pháp về hình sự quy định tại các khoản 4, 5 và 6 Điều 9 của Luật này;\n\nb) Chi phí cho người làm nhiệm vụ áp giải, dẫn giải hoặc hộ tống;\n\nc) Chi phí giám định;\n\nd) Chi phí phiên dịch, biên dịch, sao chép tài liệu;\n\nđ) Chi phí thu thập chứng cứ qua cầu truyền hình hoặc các phương tiện kỹ thuật khác;\n\ne) Các chi phí khác phát sinh mà nước được yêu cầu đề nghị nước yêu cầu chi trả.\n\n3. Chính phủ quy định chi tiết Điều này."
+   }
+  },
+  {
+   "id": "VN-H659-A16",
+   "no": 16,
+   "noLabel": {
+    "vi": "Điều 16"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Kinh phí bảo đảm công tác tương trợ tư pháp về hình sự"
+   },
+   "text": {
+    "vi": "Điều 16. Kinh phí bảo đảm công tác tương trợ tư pháp về hình sự\n\nKinh phí cho công tác tương trợ tư pháp về hình sự do ngân sách nhà nước bảo đảm theo quy định của pháp luật về ngân sách nhà nước và quy định khác của pháp luật có liên quan."
+   }
+  },
+  {
+   "id": "VN-H659-A17",
+   "no": 17,
+   "noLabel": {
+    "vi": "Điều 17"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Thực hiện tương trợ tư pháp về hình sự giữa Việt Nam với các nước có chung đường biên giới"
+   },
+   "text": {
+    "vi": "Điều 17. Thực hiện tương trợ tư pháp về hình sự giữa Việt Nam với các nước có chung đường biên giới\n\n1. Cơ quan lập yêu cầu và cơ quan thực hiện yêu cầu của các tỉnh, thành phố có chung đường biên giới giữa Việt Nam với nước ngoài có thể trực tiếp thực hiện tương trợ tư pháp về hình sự trong trường hợp được quy định tại điều ước quốc tế giữa Việt Nam và nước ngoài.\n\nViện kiểm sát nhân dân cấp tỉnh của các tỉnh, thành phố có chung đường biên giới giữa Việt Nam với nước ngoài có trách nhiệm gửi và nhận yêu cầu tương trợ tư pháp về hình sự do cơ quan lập yêu cầu của các tỉnh, thành phố có chung đường biên giới gửi đến; đồng thời báo cáo Viện kiểm sát nhân dân tối cao để theo dõi, phối hợp liên hệ, đôn đốc và thực hiện quản lý hoạt động tương trợ tư pháp về hình sự.\n\n2. Trình tự, thủ tục thực hiện tương trợ tư pháp về hình sự giữa Việt Nam với các nước có chung đường biên giới quy định tại Điều này được thực hiện tương tự theo quy định tại Chương II và Chương III của Luật này."
+   }
+  },
+  {
+   "id": "VN-H659-A18",
+   "no": 18,
+   "noLabel": {
+    "vi": "Điều 18"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Trách nhiệm của các cơ quan nhà nước trong tương trợ tư pháp về hình sự"
+   },
+   "text": {
+    "vi": "Điều 18. Trách nhiệm của các cơ quan nhà nước trong tương trợ tư pháp về hình sự\n\n1. Viện kiểm sát nhân dân tối cao thống nhất quản lý hoạt động tương trợ tư pháp về hình sự trong phạm vi cả nước; báo cáo Quốc hội về công tác tương trợ tư pháp về hình sự trong báo cáo công tác hằng năm; hướng dẫn cơ quan có thẩm quyền thực hiện tương trợ tư pháp về hình sự và thực hiện nhiệm vụ, quyền hạn khác của Cơ quan trung ương của nước Cộng hòa xã hội chủ nghĩa Việt Nam trong tương trợ tư pháp về hình sự.\n\n2. Chính phủ phối hợp với Viện kiểm sát nhân dân tối cao trong việc thực hiện quản lý hoạt động tương trợ tư pháp về hình sự; chỉ đạo các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ trong hoạt động tương trợ tư pháp về hình sự.\n\n3. Viện kiểm sát thực hành quyền công tố, kiểm sát hoạt động tương trợ tư pháp về hình sự; các cơ quan có thẩm quyền tiến hành tố tụng khác, cơ quan thi hành án và cơ quan khác có liên quan, trong phạm vi nhiệm vụ, quyền hạn của mình, thực hiện tương trợ tư pháp về hình sự theo quy định của Luật này và quy định khác của pháp luật có liên quan.\n\nViện trưởng Viện kiểm sát nhân dân tối cao chủ trì, phối hợp với Chánh án Tòa án nhân dân tối cao, Bộ trưởng Bộ Công an, Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Tư pháp và Bộ trưởng Bộ Ngoại giao quy định việc phối hợp thực hiện nhiệm vụ, quyền hạn và trách nhiệm của Viện kiểm sát và các cơ quan đối với hoạt động thực hành quyền công tố, kiểm sát hoạt động tương trợ tư pháp về hình sự.\n\n4. Tòa án nhân dân tối cao, các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm phối hợp với Viện kiểm sát nhân dân tối cao trong việc thực hiện quản lý hoạt động tương trợ tư pháp về hình sự.\n\nChương II\n\nYÊU CẦU TƯƠNG TRỢ TƯ PHÁP VỀ HÌNH SỰ CỦA VIỆT NAM"
+   }
+  },
+  {
+   "id": "VN-H659-A19",
+   "no": 19,
+   "noLabel": {
+    "vi": "Điều 19"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Hồ sơ yêu cầu tương trợ tư pháp về hình sự của Việt Nam"
+   },
+   "text": {
+    "vi": "Điều 19. Hồ sơ yêu cầu tương trợ tư pháp về hình sự của Việt Nam\n\n1. Hồ sơ yêu cầu tương trợ tư pháp về hình sự của Việt Nam gửi nước ngoài bao gồm các tài liệu sau đây:\n\na) Văn bản yêu cầu tương trợ tư pháp về hình sự của Việt Nam quy định tại khoản 1 Điều 20 của Luật này;\n\nb) Tài liệu khác (nếu có).\n\n2. Hồ sơ yêu cầu tương trợ tư pháp về hình sự của Việt Nam được lập thành 03 bộ, trừ trường hợp có thỏa thuận khác. Ngôn ngữ được sử dụng để lập hồ sơ theo quy định tại Điều 8 của Luật này."
+   }
+  },
+  {
+   "id": "VN-H659-A20",
+   "no": 20,
+   "noLabel": {
+    "vi": "Điều 20"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Văn bản yêu cầu tương trợ tư pháp về hình sự của Việt Nam"
+   },
+   "text": {
+    "vi": "Điều 20. Văn bản yêu cầu tương trợ tư pháp về hình sự của Việt Nam\n\n1. Văn bản yêu cầu tương trợ tư pháp về hình sự của Việt Nam gửi nước ngoài phải có các nội dung chính sau đây:\n\na) Tên cơ quan lập yêu cầu;\n\nb) Căn cứ lập yêu cầu;\n\nc) Tên cơ quan trung ương của nước được yêu cầu;\n\nd) Tên, địa chỉ của cá nhân, tổ chức có liên quan đến yêu cầu;\n\nđ) Mục đích của yêu cầu;\n\ne) Thông tin về vụ việc, vụ án hình sự, thi hành án;\n\ng) Quy định của pháp luật Việt Nam về tội danh và hình phạt có thể áp dụng;\n\nh) Các nội dung yêu cầu nước ngoài tương trợ;\n\ni) Thời hạn thông báo kết quả thực hiện yêu cầu (nếu có);\n\nk) Yêu cầu bảo mật thông tin (nếu có).\n\n2. Viện trưởng Viện kiểm sát nhân dân tối cao quy định chi tiết Điều này."
+   }
+  },
+  {
+   "id": "VN-H659-A21",
+   "no": 21,
+   "noLabel": {
+    "vi": "Điều 21"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Lập, gửi yêu cầu tương trợ tư pháp về hình sự"
+   },
+   "text": {
+    "vi": "Điều 21. Lập, gửi yêu cầu tương trợ tư pháp về hình sự\n\n1. Cơ quan lập yêu cầu của Việt Nam bao gồm:\n\na) Cơ quan trung ương của nước Cộng hòa xã hội chủ nghĩa Việt Nam trong tương trợ tư pháp về hình sự;\n\nb) Cơ quan điều tra;\n\nc) Viện kiểm sát;\n\nd) Tòa án;\n\nđ) Cơ quan thi hành án hình sự, cơ quan thi hành án dân sự;\n\ne) Cơ quan khác theo quy định của pháp luật.\n\n2. Khi phát sinh nhu cầu đề nghị nước ngoài thực hiện tương trợ tư pháp về hình sự, cơ quan lập yêu cầu lập hồ sơ yêu cầu tương trợ tư pháp về hình sự theo quy định tại Điều 19 của Luật này và gửi Viện kiểm sát nhân dân tối cao.\n\n3. Trong thời hạn 10 ngày kể từ ngày nhận được hồ sơ yêu cầu, Viện kiểm sát nhân dân tối cao vào sổ thụ lý, kiểm tra tính hợp lệ của hồ sơ. Trường hợp hồ sơ hợp lệ, Viện kiểm sát nhân dân tối cao gửi hồ sơ cho cơ quan có thẩm quyền của nước ngoài theo quy định của điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên hoặc chuyển cho Bộ Ngoại giao trong trường hợp Việt Nam và nước ngoài không cùng là thành viên của điều ước quốc tế hoặc điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên quy định chuyển hồ sơ qua kênh ngoại giao, đồng thời thông báo cho cơ quan lập yêu cầu biết. Trường hợp hồ sơ không hợp lệ, Viện kiểm sát nhân dân tối cao trả lại hồ sơ cho cơ quan lập yêu cầu, nêu rõ lý do, đề nghị bổ sung thông tin hoặc hướng dẫn lập lại yêu cầu.\n\n4. Trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ yêu cầu, Bộ Ngoại giao có trách nhiệm chuyển hồ sơ qua kênh ngoại giao để gửi cho cơ quan có thẩm quyền của nước ngoài hỗ trợ thực hiện.\n\n5. Trường hợp theo quy định của điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên hoặc theo quy định của pháp luật nước ngoài, Viện kiểm sát nhân dân tối cao phải trực tiếp lập yêu cầu tương trợ tư pháp về hình sự thì cơ quan lập yêu cầu có trách nhiệm cung cấp thông tin, tài liệu cho Viện kiểm sát nhân dân tối cao.\n\n6. Trường hợp sau khi đã gửi hồ sơ yêu cầu cho cơ quan có thẩm quyền của nước ngoài, nếu cơ quan lập yêu cầu nhận thấy việc đề nghị nước ngoài thực hiện tương trợ tư pháp về hình sự không còn cần thiết thì phải thông báo ngay bằng văn bản cho Viện kiểm sát nhân dân tối cao để thông báo cho cơ quan có thẩm quyền của nước ngoài về việc kết thúc yêu cầu tương trợ tư pháp về hình sự.\n\n7. Việc tiếp nhận, chuyển giao văn bản, tài liệu, hồ sơ có thể được tiến hành trên môi trường điện tử theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H659-A22",
+   "no": 22,
+   "noLabel": {
+    "vi": "Điều 22"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Bổ sung thông tin"
+   },
+   "text": {
+    "vi": "Điều 22. Bổ sung thông tin\n\n1. Khi nhận được đề nghị của cơ quan có thẩm quyền của nước ngoài về việc bổ sung, làm rõ thông tin liên quan đến vụ việc, vụ án hình sự, thi hành án hoặc nội dung khác trong yêu cầu tương trợ tư pháp về hình sự, Viện kiểm sát nhân dân tối cao thông báo bằng văn bản cho cơ quan lập yêu cầu để thực hiện và nêu rõ thời hạn. Cơ quan lập yêu cầu có văn bản bổ sung, làm rõ thông tin gửi Viện kiểm sát nhân dân tối cao.\n\n2. Trường hợp cơ quan có thẩm quyền của nước ngoài đề nghị bổ sung, làm rõ thông tin liên quan đến quy định của pháp luật Việt Nam, Viện kiểm sát nhân dân tối cao cung cấp thông tin gửi cho cơ quan có thẩm quyền của nước ngoài.\n\n3. Trường hợp cần thiết, Viện kiểm sát nhân dân tối cao chủ trì, phối hợp với cơ quan lập yêu cầu và các cơ quan khác có liên quan thống nhất nội dung thông tin cần bổ sung, làm rõ."
+   }
+  },
+  {
+   "id": "VN-H659-A23",
+   "no": 23,
+   "noLabel": {
+    "vi": "Điều 23"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Thông báo kết quả thực hiện yêu cầu tương trợ tư pháp về hình sự"
+   },
+   "text": {
+    "vi": "Điều 23. Thông báo kết quả thực hiện yêu cầu tương trợ tư pháp về hình sự\n\n1. Trong thời hạn 05 ngày làm việc kể từ ngày nhận được kết quả thực hiện yêu cầu tương trợ tư pháp về hình sự của nước ngoài, Viện kiểm sát nhân dân tối cao gửi kết quả cho cơ quan lập yêu cầu.\n\n2. Sau khi tiếp nhận kết quả thực hiện yêu cầu tương trợ tư pháp về hình sự, nếu thấy kết quả chưa rõ hoặc chưa đầy đủ, cơ quan lập yêu cầu có thể đề nghị Viện kiểm sát nhân dân tối cao yêu cầu cơ quan có thẩm quyền của nước ngoài bổ sung, làm rõ.\n\n3. Khi nhận được đề nghị quy định tại khoản 2 Điều này, Viện kiểm sát nhân dân tối cao đề nghị cơ quan có thẩm quyền của nước ngoài bổ sung, làm rõ kết quả thực hiện yêu cầu tương trợ tư pháp về hình sự."
+   }
+  },
+  {
+   "id": "VN-H659-A24",
+   "no": 24,
+   "noLabel": {
+    "vi": "Điều 24"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Giá trị pháp lý của kết quả thực hiện yêu cầu tương trợ tư pháp về hình sự"
+   },
+   "text": {
+    "vi": "Điều 24. Giá trị pháp lý của kết quả thực hiện yêu cầu tương trợ tư pháp về hình sự\n\nKết quả thực hiện yêu cầu tương trợ tư pháp về hình sự được thực hiện theo quy định của Luật này, do cơ quan có thẩm quyền của nước ngoài cung cấp, có giá trị pháp lý và được xem xét, sử dụng trong quá trình giải quyết vụ việc, vụ án hình sự, thi hành án theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H659-A25",
+   "no": 25,
+   "noLabel": {
+    "vi": "Điều 25"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Kết thúc việc yêu cầu tương trợ tư pháp về hình sự"
+   },
+   "text": {
+    "vi": "Điều 25. Kết thúc việc yêu cầu tương trợ tư pháp về hình sự\n\n1. Việc yêu cầu tương trợ tư pháp về hình sự kết thúc trong các trường hợp sau đây:\n\na) Cơ quan lập yêu cầu đã nhận được đầy đủ kết quả thực hiện yêu cầu tương trợ tư pháp về hình sự;\n\nb) Cơ quan có thẩm quyền của nước ngoài có văn bản thông báo không thực hiện được yêu cầu tương trợ tư pháp về hình sự;\n\nc) Cơ quan lập yêu cầu có văn bản thông báo việc yêu cầu tương trợ tư pháp về hình sự không còn cần thiết;\n\nd) Viện kiểm sát nhân dân tối cao, cơ quan lập yêu cầu và các cơ quan có liên quan thống nhất kết thúc việc yêu cầu tương trợ tư pháp về hình sự trong trường hợp không nhận được phản hồi của nước ngoài.\n\n2. Viện trưởng Viện kiểm sát nhân dân tối cao chủ trì, phối hợp với Chánh án Tòa án nhân dân tối cao, Bộ trưởng Bộ Công an, Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Tư pháp và Bộ trưởng Bộ Ngoại giao quy định chi tiết Điều này."
+   }
+  },
+  {
+   "id": "VN-H659-A26",
+   "no": 26,
+   "noLabel": {
+    "vi": "Điều 26"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Yêu cầu nước ngoài truy cứu trách nhiệm hình sự"
+   },
+   "text": {
+    "vi": "Điều 26. Yêu cầu nước ngoài truy cứu trách nhiệm hình sự\n\n1. Đối với vụ án có người nước ngoài phạm tội trên lãnh thổ Việt Nam mà người đó đã trốn ra nước ngoài nhưng không dẫn độ được thì cơ quan đang thụ lý vụ án chuyển hồ sơ vụ án đến Viện kiểm sát nhân dân tối cao để yêu cầu nước nơi người phạm tội đang có mặt hoặc nước người phạm tội mang quốc tịch tiếp tục truy cứu trách nhiệm hình sự. Khi quyết định chuyển giao hồ sơ vụ án, Viện kiểm sát nhân dân tối cao có thể chuyển giao cả vật chứng của vụ án.\n\n2. Viện trưởng Viện kiểm sát nhân dân tối cao chủ trì, phối hợp với Chánh án Tòa án nhân dân tối cao, Bộ trưởng Bộ Công an, Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Tư pháp và Bộ trưởng Bộ Ngoại giao quy định chi tiết Điều này.\n\nChương III\n\nYÊU CẦU TƯƠNG TRỢ TƯ PHÁP VỀ HÌNH SỰ CỦA NƯỚC NGOÀI"
+   }
+  },
+  {
+   "id": "VN-H659-A27",
+   "no": 27,
+   "noLabel": {
+    "vi": "Điều 27"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Hồ sơ yêu cầu tương trợ tư pháp về hình sự của nước ngoài"
+   },
+   "text": {
+    "vi": "Điều 27. Hồ sơ yêu cầu tương trợ tư pháp về hình sự của nước ngoài\n\n1. Hồ sơ yêu cầu tương trợ tư pháp về hình sự của nước ngoài gửi Việt Nam bao gồm các tài liệu sau đây:\n\na) Văn bản yêu cầu tương trợ tư pháp về hình sự của nước ngoài quy định tại Điều 28 của Luật này;\n\nb) Tài liệu khác (nếu có).\n\n2. Hồ sơ yêu cầu tương trợ tư pháp về hình sự của nước ngoài được lập thành 03 bộ, trừ trường hợp có thỏa thuận khác. Ngôn ngữ được sử dụng để lập hồ sơ theo quy định tại Điều 8 của Luật này."
+   }
+  },
+  {
+   "id": "VN-H659-A28",
+   "no": 28,
+   "noLabel": {
+    "vi": "Điều 28"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Văn bản yêu cầu tương trợ tư pháp về hình sự của nước ngoài"
+   },
+   "text": {
+    "vi": "Điều 28. Văn bản yêu cầu tương trợ tư pháp về hình sự của nước ngoài\n\nVăn bản yêu cầu tương trợ tư pháp về hình sự của nước ngoài gửi Việt Nam phải có các nội dung chính sau đây:\n\n1. Tên cơ quan lập yêu cầu;\n\n2. Căn cứ lập yêu cầu;\n\n3. Tên, địa chỉ của cá nhân, tổ chức có liên quan đến yêu cầu;\n\n4. Mục đích của yêu cầu;\n\n5. Thông tin về vụ việc, vụ án hình sự, thi hành án; các tình tiết của vụ việc, vụ án hình sự, thi hành án liên quan đến Việt Nam; mối liên hệ giữa cá nhân, tổ chức có liên quan đến yêu cầu với nội dung vụ việc, vụ án hình sự, thi hành án; tiến độ giải quyết vụ việc, vụ án hình sự, thi hành án;\n\n6. Quy định pháp luật của nước yêu cầu về tội danh và hình phạt có thể áp dụng;\n\n7. Các nội dung yêu cầu Việt Nam tương trợ;\n\n8. Thời hạn thông báo kết quả thực hiện yêu cầu (nếu có);\n\n9. Yêu cầu bảo mật thông tin (nếu có)."
+   }
+  },
+  {
+   "id": "VN-H659-A29",
+   "no": 29,
+   "noLabel": {
+    "vi": "Điều 29"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Tiếp nhận hồ sơ yêu cầu tương trợ tư pháp về hình sự của nước ngoài"
+   },
+   "text": {
+    "vi": "Điều 29. Tiếp nhận hồ sơ yêu cầu tương trợ tư pháp về hình sự của nước ngoài\n\n1. Trong thời hạn 10 ngày kể từ ngày nhận được hồ sơ yêu cầu của cơ quan có thẩm quyền của nước ngoài, Viện kiểm sát nhân dân tối cao vào sổ thụ lý, kiểm tra tính hợp lệ của hồ sơ yêu cầu. Trường hợp hồ sơ hợp lệ, Viện kiểm sát nhân dân tối cao chuyển hồ sơ cho cơ quan thực hiện yêu cầu để thực hiện. Trường hợp hồ sơ không hợp lệ, Viện kiểm sát nhân dân tối cao trả lại hồ sơ cho cơ quan có thẩm quyền của nước ngoài hoặc đề nghị bổ sung thông tin và nêu rõ lý do.\n\n2. Trường hợp điều ước quốc tế giữa Việt Nam và nước ngoài quy định yêu cầu tương trợ tư pháp về hình sự có thể được lập bằng ngôn ngữ khác, nếu hồ sơ chưa được dịch ra tiếng Việt, Viện kiểm sát nhân dân tối cao tổ chức dịch hồ sơ ra tiếng Việt theo quy định của pháp luật. Trong thời hạn 10 ngày kể từ ngày nhận được bản dịch, Viện kiểm sát nhân dân tối cao xử lý hồ sơ theo quy định tại khoản 1 Điều này.\n\n3. Trường hợp hồ sơ yêu cầu tương trợ tư pháp về hình sự được gửi qua các cơ quan khác thì trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ yêu cầu, cơ quan nhận được hồ sơ có trách nhiệm chuyển hồ sơ cho Viện kiểm sát nhân dân tối cao.\n\n4. Việc tiếp nhận, chuyển giao văn bản, tài liệu, hồ sơ có thể được tiến hành trên môi trường điện tử theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H659-A30",
+   "no": 30,
+   "noLabel": {
+    "vi": "Điều 30"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Từ chối, hoãn thực hiện yêu cầu tương trợ tư pháp về hình sự của nước ngoài"
+   },
+   "text": {
+    "vi": "Điều 30. Từ chối, hoãn thực hiện yêu cầu tương trợ tư pháp về hình sự của nước ngoài\n\n1. Yêu cầu tương trợ tư pháp về hình sự của nước ngoài bị từ chối thực hiện khi thuộc một trong các trường hợp sau đây:\n\na) Theo quy định của điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên;\n\nb) Vi phạm nguyên tắc quy định tại khoản 1 Điều 5 của Luật này;\n\nc) Gây phương hại đến chủ quyền, an ninh quốc gia, lợi ích quốc gia, trật tự công cộng của Việt Nam;\n\nd) Liên quan đến việc truy cứu trách nhiệm hình sự một người về hành vi phạm tội mà người đó đã bị kết án, được tuyên không có tội hoặc được đại xá, đặc xá tại Việt Nam;\n\nđ) Liên quan đến hành vi phạm tội đã hết thời hiệu truy cứu trách nhiệm hình sự theo quy định của pháp luật hình sự Việt Nam;\n\ne) Có căn cứ cho rằng yêu cầu tương trợ tư pháp về hình sự nhằm truy cứu trách nhiệm hình sự một người vì lý do chủng tộc, tôn giáo, quốc tịch, nguồn gốc dân tộc, quan điểm chính trị của người đó hoặc vì những lý do này mà người đó có thể bị đối xử không công bằng trong quá trình truy cứu trách nhiệm hình sự.\n\n2. Yêu cầu tương trợ tư pháp về hình sự của nước ngoài có thể bị từ chối thực hiện khi thuộc một trong các trường hợp sau đây:\n\na) Có hành vi vi phạm pháp luật nhưng không cấu thành tội phạm theo quy định của pháp luật hình sự Việt Nam;\n\nb) Việc thực hiện yêu cầu vượt quá khả năng, điều kiện của các cơ quan thực hiện yêu cầu ở Việt Nam;\n\nc) Yêu cầu đối với tội phạm có liên quan đến chính trị hoặc lĩnh vực quân sự theo quy định của điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.\n\n3. Yêu cầu tương trợ tư pháp về hình sự của nước ngoài có thể bị hoãn thực hiện tại Việt Nam nếu việc thực hiện cản trở quá trình khởi tố, điều tra, truy tố, xét xử, thi hành án tại Việt Nam.\n\n4. Khi quyết định từ chối hoặc hoãn thực hiện yêu cầu tương trợ tư pháp về hình sự theo quy định tại các khoản 1, 2 và 3 Điều này, Viện kiểm sát nhân dân tối cao thông báo cho cơ quan có thẩm quyền của nước ngoài và nêu rõ lý do."
+   }
+  },
+  {
+   "id": "VN-H659-A31",
+   "no": 31,
+   "noLabel": {
+    "vi": "Điều 31"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Thực hiện yêu cầu tương trợ tư pháp về hình sự của nước ngoài"
+   },
+   "text": {
+    "vi": "Điều 31. Thực hiện yêu cầu tương trợ tư pháp về hình sự của nước ngoài\n\n1. Cơ quan thực hiện yêu cầu ở Việt Nam bao gồm:\n\na) Cơ quan trung ương của nước Cộng hòa xã hội chủ nghĩa Việt Nam trong tương trợ tư pháp về hình sự,\n\nb) Cơ quan điều tra;\n\nc) Viện kiểm sát;\n\nd) Tòa án;\n\nđ) Cơ quan thi hành án hình sự, cơ quan thi hành án dân sự;\n\ne) Cơ quan khác theo quy định của pháp luật.\n\n2. Sau khi thực hiện yêu cầu, cơ quan thực hiện yêu cầu quy định tại các điểm b, c, d, đ và e khoản 1 Điều này gửi kết quả thực hiện yêu cầu tương trợ tư pháp về hình sự cho Viện kiểm sát nhân dân tối cao. Trong thời hạn 05 ngày làm việc kể từ ngày nhận được kết quả, Viện kiểm sát nhân dân tối cao gửi kết quả cho cơ quan có thẩm quyền của nước ngoài theo quy định của điều ước quốc tế mà Việt Nam và nước ngoài là thành viên hoặc thông qua kênh ngoại giao.\n\n3. Trường hợp không thực hiện được yêu cầu tương trợ tư pháp về hình sự hoặc cần bổ sung thông tin, tài liệu, cơ quan thực hiện yêu cầu thông báo bằng văn bản cho Viện kiểm sát nhân dân tối cao và nêu rõ lý do để Viện kiểm sát nhân dân tối cao thông báo cho cơ quan có thẩm quyền của nước ngoài.\n\n4. Viện trưởng Viện kiểm sát nhân dân tối cao chủ trì, phối hợp với Chánh án Tòa án nhân dân tối cao, Bộ trưởng Bộ Công an, Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Tư pháp và Bộ trưởng Bộ Ngoại giao quy định chi tiết khoản 1 Điều này."
+   }
+  },
+  {
+   "id": "VN-H659-A32",
+   "no": 32,
+   "noLabel": {
+    "vi": "Điều 32"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Thực hiện yêu cầu về tống đạt, giao, gửi giấy triệu tập"
+   },
+   "text": {
+    "vi": "Điều 32. Thực hiện yêu cầu về tống đạt, giao, gửi giấy triệu tập\n\n1. Trường hợp triệu tập người làm chứng, người giám định hoặc những người có liên quan khác đang có mặt tại Việt Nam sang nước yêu cầu, cơ quan có thẩm quyền của nước yêu cầu gửi văn bản yêu cầu kèm theo giấy triệu tập (nếu có) cho Viện kiểm sát nhân dân tối cao chậm nhất là 90 ngày trước ngày người đó phải có mặt tại nước yêu cầu. Trong trường hợp khẩn cấp, Viện kiểm sát nhân dân tối cao có thể không áp dụng thời hạn này.\n\n2. Viện kiểm sát nhân dân tối cao chuyển yêu cầu cho cơ quan thực hiện yêu cầu khi có đủ các điều kiện sau đây:\n\na) Yêu cầu có liên quan đến vụ việc, vụ án hình sự, thi hành án ở nước yêu cầu;\n\nb) Có căn cứ cho rằng người cần triệu tập đang có mặt tại Việt Nam.\n\n3. Cơ quan thực hiện yêu cầu phải kịp thời thực hiện việc tống đạt, giao, gửi giấy triệu tập theo trình tự, thủ tục quy định của pháp luật về tố tụng hình sự hoặc theo đề nghị trong yêu cầu tương trợ tư pháp về hình sự. Sau khi tống đạt, giao, gửi giấy triệu tập, cơ quan thực hiện yêu cầu phải gửi ngay cho Viện kiểm sát nhân dân tối cao văn bản xác nhận đã tống đạt, giao, gửi hoặc nếu không tống đạt, giao, gửi được thì phải nêu rõ lý do để thông báo cho nước yêu cầu."
+   }
+  },
+  {
+   "id": "VN-H659-A33",
+   "no": 33,
+   "noLabel": {
+    "vi": "Điều 33"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Thực hiện yêu cầu về lấy lời khai trực tuyến"
+   },
+   "text": {
+    "vi": "Điều 33. Thực hiện yêu cầu về lấy lời khai trực tuyến\n\n1. Sau khi tiếp nhận yêu cầu về lấy lời khai trực tuyến, cơ quan thực hiện yêu cầu tiến hành xác minh thông tin và địa chỉ của người được đề nghị lấy lời khai trực tuyến; lấy ý kiến của người đó về việc đồng ý hoặc không đồng ý tham gia hoạt động lấy lời khai trực tuyến và thông báo các vấn đề khác có liên quan.\n\n2. Cơ quan thực hiện yêu cầu thông báo ý kiến của người được đề nghị lấy lời khai trực tuyến cho Viện kiểm sát nhân dân tối cao để thông báo cho nước yêu cầu.\n\n3. Trường hợp người được đề nghị lấy lời khai trực tuyến đồng ý và yêu cầu tương trợ tư pháp về hình sự đáp ứng các điều kiện của Việt Nam, thì Viện kiểm sát nhân dân tối cao thông báo cho nước yêu cầu và đề nghị nước yêu cầu cung cấp thông tin về thời gian, địa điểm tiến hành lấy lời khai; các khoản chi phí cho người được lấy lời khai; thành phần tham gia lấy lời khai tại điểm cầu của nước yêu cầu và các thông tin cần thiết khác.\n\nTrường hợp người được đề nghị lấy lời khai trực tuyến không đồng ý hoặc đồng ý nhưng kèm theo điều kiện thì Viện kiểm sát nhân dân tối cao thông báo cho nước yêu cầu biết.\n\n4. Trường hợp nước yêu cầu đáp ứng quy định tại khoản 3 Điều này, Viện kiểm sát nhân dân tối cao thông báo cho cơ quan thực hiện yêu cầu để triển khai thực hiện.\n\n5. Viện trưởng Viện kiểm sát nhân dân tối cao chủ trì, phối hợp với Chánh án Tòa án nhân dân tối cao, Bộ trưởng Bộ Công an, Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Tư pháp và Bộ trưởng Bộ Ngoại giao quy định chi tiết Điều này."
+   }
+  },
+  {
+   "id": "VN-H659-A34",
+   "no": 34,
+   "noLabel": {
+    "vi": "Điều 34"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Thực hiện yêu cầu về tịch thu, trả lại, xử lý vật chứng, tài sản"
+   },
+   "text": {
+    "vi": "Điều 34. Thực hiện yêu cầu về tịch thu, trả lại, xử lý vật chứng, tài sản\n\n1. Cơ quan có thẩm quyền của Việt Nam áp dụng các biện pháp tố tụng nhằm bảo đảm việc tịch thu, trả lại, xử lý vật chứng, tài sản liên quan đến hành vi phạm tội theo quy định của pháp luật về tố tụng hình sự và quy định khác của pháp luật có liên quan.\n\n2. Trường hợp Việt Nam và nước ngoài cùng là thành viên của điều ước quốc tế về tương trợ tư pháp về hình sự, việc trả lại tài sản bị tịch thu được thực hiện theo quy định của điều ước quốc tế. Trường hợp Việt Nam và nước ngoài không cùng là thành viên của điều ước quốc tế về tương trợ tư pháp về hình sự hoặc điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên không quy định, việc trả lại tài sản bị tịch thu được thực hiện theo thỏa thuận về chia sẻ tài sản giữa Việt Nam và nước ngoài.\n\n3. Các chi phí phát sinh trong quá trình thực hiện yêu cầu tương trợ tư pháp về hình sự được khấu trừ trước khi tiến hành thỏa thuận về chia sẻ tài sản giữa Việt Nam và nước ngoài.\n\n4. Khi áp dụng Điều này, các quyền và lợi ích hợp pháp của người có quyền lợi, nghĩa vụ liên quan được tôn trọng và bảo vệ.\n\n5. Viện kiểm sát nhân dân tối cao chủ trì, phối hợp với các cơ quan có liên quan xác định chi phí phát sinh và thỏa thuận về chia sẻ tài sản giữa Việt Nam và nước ngoài."
+   }
+  },
+  {
+   "id": "VN-H659-A35",
+   "no": 35,
+   "noLabel": {
+    "vi": "Điều 35"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Tổ chức cho người ở Việt Nam sang nước ngoài để hỗ trợ điều tra, cung cấp chứng cứ"
+   },
+   "text": {
+    "vi": "Điều 35. Tổ chức cho người ở Việt Nam sang nước ngoài để hỗ trợ điều tra, cung cấp chứng cứ\n\n1. Theo đề nghị của cơ quan có thẩm quyền của nước ngoài, Viện kiểm sát nhân dân tối cao có thể tổ chức cho người không thuộc trường hợp quy định tại Điều 37 của Luật này sang nước ngoài để hỗ trợ điều tra, cung cấp chứng cứ. Khi xét thấy cần thiết, Viện kiểm sát nhân dân tối cao thông báo cho cơ quan có thẩm quyền của nước ngoài để tiếp tục áp dụng biện pháp hạn chế tự do đối với người đó.\n\n2. Sau khi xem xét các điều kiện mà cơ quan có thẩm quyền của nước ngoài cam kết bằng văn bản theo quy định tại Điều 11 của Luật này, cam kết bảo đảm an toàn về tính mạng, sức khỏe, điều kiện ăn ở, đi lại và các điều kiện cần thiết khác, Viện kiểm sát nhân dân tối cao phối hợp với cơ quan thực hiện yêu cầu đề nghị người quy định tại khoản 1 Điều này hỗ trợ điều tra hoặc cung cấp chứng cứ trên lãnh thổ của nước ngoài; thông báo cho người đó việc bảo đảm an toàn, điều kiện ăn ở, đi lại tại nước ngoài, số tiền trợ cấp hoặc chi phí có thể được hưởng và các thông tin liên quan khác.\n\n3. Viện kiểm sát nhân dân tối cao thông báo ngay ý kiến của người đó cho cơ quan có thẩm quyền của nước ngoài. Nếu người đó có ý kiến đồng ý thì tiến hành các thủ tục cần thiết để tổ chức cho người đó sang nước ngoài hỗ trợ điều tra, cung cấp chứng cứ."
+   }
+  },
+  {
+   "id": "VN-H659-A36",
+   "no": 36,
+   "noLabel": {
+    "vi": "Điều 36"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Tổ chức cho người có thẩm quyền của nước ngoài đến Việt Nam để có mặt trong quá trình thực hiện yêu cầu tương trợ tư pháp về hình sự"
+   },
+   "text": {
+    "vi": "Điều 36. Tổ chức cho người có thẩm quyền của nước ngoài đến Việt Nam để có mặt trong quá trình thực hiện yêu cầu tương trợ tư pháp về hình sự\n\nTrường hợp cơ quan có thẩm quyền của nước ngoài đề nghị Việt Nam cho phép người có thẩm quyền nêu trong yêu cầu tương trợ tư pháp về hình sự có mặt trong quá trình thực hiện yêu cầu ở Việt Nam, Viện kiểm sát nhân dân tối cao lấy ý kiến của cơ quan thực hiện yêu cầu; nếu đồng ý, Viện kiểm sát nhân dân tối cao thông báo cho cơ quan có thẩm quyền của nước ngoài về thời gian và địa điểm thực hiện yêu cầu tương trợ tư pháp về hình sự; nếu không đồng ý hoặc phát sinh tình huống có thể hoãn việc thực hiện yêu cầu tương trợ tư pháp về hình sự, Viện kiểm sát nhân dân tối cao thông báo cho cơ quan có thẩm quyền của nước ngoài và nêu rõ lý do."
+   }
+  },
+  {
+   "id": "VN-H659-A37",
+   "no": 37,
+   "noLabel": {
+    "vi": "Điều 37"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Chuyển giao tạm thời người đang bị tạm giam hoặc đang chấp hành án phạt tù tại Việt Nam sang nước ngoài để hỗ trợ điều tra, cung cấp chứng cứ"
+   },
+   "text": {
+    "vi": "Điều 37. Chuyển giao tạm thời người đang bị tạm giam hoặc đang chấp hành án phạt tù tại Việt Nam sang nước ngoài để hỗ trợ điều tra, cung cấp chứng cứ\n\n1. Người đang bị tạm giam hoặc đang chấp hành án phạt tù tại Việt Nam có thể được chuyển giao tạm thời cho cơ quan có thẩm quyền của nước ngoài để hỗ trợ điều tra, cung cấp chứng cứ tại nước ngoài. Trong trường hợp này, Viện kiểm sát nhân dân tối cao thông báo cho cơ quan có thẩm quyền của nước ngoài để tiếp tục giam giữ người bị chuyển giao tạm thời.\n\n2. Cơ quan có thẩm quyền của Việt Nam chỉ chuyển giao tạm thời người đang bị tạm giam, người đang chấp hành án phạt tù theo quy định tại khoản 1 Điều này khi đáp ứng đủ các điều kiện sau đây:\n\na) Người đó đồng ý với việc chuyển giao tạm thời để hỗ trợ điều tra, cung cấp chứng cứ tại nước ngoài;\n\nb) Có cam kết bằng văn bản của cơ quan có thẩm quyền của nước ngoài về việc bảo đảm an toàn theo quy định tại Điều 11 của Luật này, bảo đảm an toàn về tính mạng, sức khỏe, điều kiện ăn ở, đi lại, thời hạn, phương thức tiếp nhận, trao trả và các điều kiện khác liên quan đến việc chuyển giao tạm thời. Việc trao trả lại người bị chuyển giao tạm thời cho cơ quan có thẩm quyền của Việt Nam phải được thực hiện theo đúng thời hạn đã cam kết\n\n3. Thời gian mà người bị chuyển giao tạm thời bị áp giải, lưu lại ở nước ngoài được tính vào thời hạn tạm giam hoặc thời hạn chấp hành án phạt tù của người đó.\n\n4. Khi thời hạn tạm giam hoặc thời hạn chấp hành án phạt tù đã hết hoặc khi xét thấy không cần phải tiếp tục giam giữ người bị chuyển giao tạm thời, Viện kiểm sát nhân dân tối cao thông báo cho cơ quan có thẩm quyền của nước ngoài để trả tự do và bảo đảm các điều kiện quy định tại khoản 2 Điều 35 của Luật này đối với người đó.\n\nTrường hợp xét thấy cần thiết, Viện kiểm sát nhân dân tối cao thông báo cho cơ quan có thẩm quyền của nước ngoài để áp dụng biện pháp hạn chế tự do khác đối với người bị tạm giam đã được trả tự do quy định tại khoản này.\n\n5. Khi thực hiện quy định tại khoản 1 Điều này, trình tự, thủ tục, thẩm quyền; quyết định, thi hành việc chuyển giao tạm thời được thực hiện tương tự quy định về trích xuất, áp giải người đang bị tạm giam, người đang chấp hành án phạt tù theo quy định của pháp luật về tố tụng hình sự, thi hành tạm giữ, tạm giam, thi hành án hình sự và quy định khác của pháp luật có liên quan.\n\n6. Viện trưởng Viện kiểm sát nhân dân tối cao chủ trì, phối hợp với Chánh án Tòa án nhân dân tối cao, Bộ trưởng Bộ Công an, Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Tư pháp và Bộ trưởng Bộ Ngoại giao quy định chi tiết Điều này."
+   }
+  },
+  {
+   "id": "VN-H659-A38",
+   "no": 38,
+   "noLabel": {
+    "vi": "Điều 38"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Xử lý yêu cầu của nước ngoài về truy cứu trách nhiệm hình sự"
+   },
+   "text": {
+    "vi": "Điều 38. Xử lý yêu cầu của nước ngoài về truy cứu trách nhiệm hình sự\n\n1. Khi nhận được hồ sơ yêu cầu của nước ngoài về việc tiếp tục truy cứu trách nhiệm hình sự đối với công dân Việt Nam phạm tội ở nước ngoài đang có mặt tại Việt Nam, Viện kiểm sát nhân dân tối cao kiểm tra tính hợp lệ của hồ sơ và xử lý như sau:\n\na) Chuyển cho Cơ quan điều tra Bộ Công an hoặc Cơ quan điều tra Bộ Quốc phòng để tiến hành điều tra theo thẩm quyền;\n\nb) Chuyển cho Viện kiểm sát nhân dân cấp tỉnh nơi người bị đề nghị tiếp tục truy cứu trách nhiệm hình sự cư trú cuối cùng trước khi ra nước ngoài hoặc Viện kiểm sát quân sự cấp quân khu có thẩm quyền để tiếp tục truy cứu trách nhiệm hình sự hoặc để chuyển cho Cơ quan điều tra cùng cấp tiến hành điều tra theo thẩm quyền.\n\n2. Việc điều tra, truy tố, xét xử đối với vụ án quy định tại khoản 1 Điều này được thực hiện theo quy định của pháp luật Việt Nam.\n\n3. Trong quá trình xử lý yêu cầu của nước ngoài về việc tiếp tục truy cứu trách nhiệm hình sự, nếu cần có thêm thông tin, tài liệu từ nước ngoài, cơ quan thực hiện yêu cầu có văn bản gửi Viện kiểm sát nhân dân tối cao để đề nghị cơ quan có thẩm quyền của nước ngoài cung cấp bổ sung thông tin, tài liệu."
+   }
+  },
+  {
+   "id": "VN-H659-A39",
+   "no": 39,
+   "noLabel": {
+    "vi": "Điều 39"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Kết thúc việc thực hiện yêu cầu tương trợ tư pháp về hình sự"
+   },
+   "text": {
+    "vi": "Điều 39. Kết thúc việc thực hiện yêu cầu tương trợ tư pháp về hình sự\n\n1. Việc thực hiện yêu cầu tương trợ tư pháp về hình sự kết thúc trong các trường hợp sau đây:\n\na) Viện kiểm sát nhân dân tối cao thông báo kết quả thực hiện cho nước yêu cầu;\n\nb) Viện kiểm sát nhân dân tối cao thông báo cho nước yêu cầu việc không thực hiện được yêu cầu tương trợ tư pháp về hình sự;\n\nc) Nước yêu cầu thông báo kết thúc việc yêu cầu tương trợ tư pháp về hình sự.\n\n2. Trường hợp quy định tại điểm c khoản 1 Điều này, Viện kiểm sát nhân dân tối cao thông báo cho cơ quan thực hiện yêu cầu để kết thúc việc thực hiện yêu cầu tương trợ tư pháp về hình sự.\n\nChương IV\n\nĐIỀU KHOẢN THI HÀNH"
+   }
+  },
+  {
+   "id": "VN-H659-A40",
+   "no": 40,
+   "noLabel": {
+    "vi": "Điều 40"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Sửa đổi, bổ sung một số điều của các luật có liên quan"
+   },
+   "text": {
+    "vi": "Điều 40. Sửa đổi, bổ sung một số điều của các luật có liên quan\n\n1. Sửa đổi, bổ sung một số điều của Bộ luật Tố tụng hình sự số 101/2015/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 02/2021/QH15, Luật số 34/2024/QH15, Luật số 59/2024/QH15 và Luật số 99/2025/QH15 như sau:\n\na) Sửa đổi, bổ sung điểm a khoản 1 Điều 148 như sau:\n\n“a) Đã trưng cầu giám định, yêu cầu định giá tài sản nhưng chưa có kết quả; đã yêu cầu nước ngoài tương trợ tư pháp nhưng chưa kết thúc theo quy định của Luật Tương trợ tư pháp về hình sự;”;\n\nb) Sửa đổi, bổ sung khoản 3 Điều 148 như sau:\n\n“3. Trường hợp tạm đình chỉ việc giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố thì việc giám định, định giá tài sản tiếp tục được tiến hành cho đến khi có kết quả; việc tương trợ tư pháp tiếp tục được tiến hành cho đến khi kết thúc theo quy định của Luật Tương trợ tư pháp về hình sự.”;\n\nc) Sửa đổi, bổ sung điểm c khoản 1 Điều 229 như sau:\n\n“c) Khi đã trưng cầu giám định, yêu cầu định giá tài sản nhưng chưa có kết quả hoặc đã yêu cầu nước ngoài tương trợ tư pháp nhưng chưa kết thúc theo quy định của Luật Tương trợ tư pháp về hình sự mà đã hết thời hạn điều tra. Trong trường hợp này, việc giám định, định giá tài sản tiếp tục được tiến hành cho đến khi có kết quả; việc tương trợ tư pháp tiếp tục được tiến hành cho đến khi kết thúc theo quy định của Luật Tương trợ tư pháp về hình sự;”;\n\nd) Sửa đổi, bổ sung điểm c khoản 1 Điều 247 như sau:\n\n“c) Khi đã trưng cầu giám định, yêu cầu định giá tài sản nhưng chưa có kết quả hoặc đã yêu cầu nước ngoài tương trợ tư pháp nhưng chưa kết thúc theo quy định của Luật Tương trợ tư pháp về hình sự mà đã hết thời hạn quyết định việc truy tố. Trong trường hợp này, việc giám định, định giá tài sản tiếp tục được tiến hành cho đến khi có kết quả; việc tương trợ tư pháp tiếp tục được tiến hành cho đến khi kết thúc theo quy định của Luật Tương trợ tư pháp về hình sự;”;\n\nđ) Sửa đổi, bổ sung khoản 1 Điều 443 như sau:\n\n“1. Cơ quan điều tra, cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra ra quyết định tạm đình chỉ điều tra khi đã trưng cầu giám định, yêu cầu định giá tài sản nhưng chưa có kết quả hoặc đã yêu cầu nước ngoài tương trợ tư pháp nhưng chưa kết thúc theo quy định của Luật Tương trợ tư pháp về hình sự mà đã hết thời hạn điều tra. Trong trường hợp này, việc giám định, định giá tài sản tiếp tục được tiến hành cho đến khi có kết quả; việc tương trợ tư pháp tiếp tục được tiến hành cho đến khi kết thúc theo quy định của Luật Tương trợ tư pháp về hình sự.”;\n\ne) Thay thế cụm từ “Luật Tương trợ tư pháp” bằng cụm từ “Luật Tương trợ tư pháp về hình sự” tại điểm c khoản 3 Điều 185;\n\ng) Bổ sung cụm từ “người đang bị tạm giam,” vào sau cụm từ “người giám định,” tại Điều 496.\n\n2. Thay thế cụm từ “Luật Tương trợ tư pháp” bằng cụm từ “Luật Tương trợ tư pháp về hình sự” tại khoản 4 Điều 32 của Luật Tổ chức Viện kiểm sát nhân dân số 63/2014/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 82/2025/QH15.\n\n3. Sửa đổi, bổ sung khoản 2 Điều 28 của Luật Nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam số 47/2014/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 51/2019/QH14 và Luật số 23/2023/QH15 như sau:\n\n“2. Các trường hợp quy định tại khoản 1 Điều này không áp dụng đối với những người quy định tại khoản 1 Điều 35 và khoản 1 Điều 37 của Luật Tương trợ tư pháp về hình sự.”."
+   }
+  },
+  {
+   "id": "VN-H659-A41",
+   "no": 41,
+   "noLabel": {
+    "vi": "Điều 41"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Hiệu lực thi hành"
+   },
+   "text": {
+    "vi": "Điều 41. Hiệu lực thi hành\n\n1. Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2026.\n\n2. Luật Tương trợ tư pháp số 08/2007/QH12 đã được sửa đổi, bổ sung một số điều theo Luật số 81/2025/QH15 hết hiệu lực từ ngày Luật này có hiệu lực thi hành, trừ trường hợp chuyển tiếp quy định tại khoản 1 Điều 42 của Luật này, Điều 45 của Luật Dẫn độ, Điều 48 của Luật Chuyển giao người đang chấp hành án phạt tù và khoản 1 Điều 38 của Luật Tương trợ tư pháp về dân sự."
+   }
+  },
+  {
+   "id": "VN-H659-A42",
+   "no": 42,
+   "noLabel": {
+    "vi": "Điều 42"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Điều khoản chuyển tiếp"
+   },
+   "text": {
+    "vi": "Điều 42. Điều khoản chuyển tiếp\n\n1. Các yêu cầu tương trợ tư pháp về hình sự mà Viện kiểm sát nhân dân tối cao lập hoặc tiếp nhận trước ngày Luật này có hiệu lực thi hành thì tiếp tục được xem xét, giải quyết theo quy định của Luật Tương trợ tư pháp số 08/2007/QH12 đã được sửa đổi, bổ sung một số điều theo Luật số 81/2025/QH15.\n\n2. Quy định “ủy thác tư pháp” trong lĩnh vực hình sự theo khoản 1 Điều 6 của Luật Tương trợ tư pháp số 08/2007/QH12 đã được sửa đổi, bổ sung một số điều theo Luật số 81/2025/QH15 tại các văn bản quy phạm pháp luật hiện hành được sử dụng tương đương quy định “yêu cầu tương trợ tư pháp về hình sự” quy định tại Luật này.\n\nLuật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XV, Kỳ họp thứ 10 thông qua ngày 26 tháng 11 năm 2025./.\n\nCHỦ TỊCH QUỐC HỘI\n\nTrần Thanh Mẫn\n\n1:{\"id\":\"186624\",\"docType\":{\"id\":\"11025e19-2dd6-4165-85ad-ab6241186a1a\",\"name\":\"Luật\",\"code\":\"Lu\",\"parentCode\":\"VBQPPL\",\"parentName\":null},\"docGroup\":\"VBQPPL\",\"docNum\":\"103/2025/QH15\",\"title\":\"Luật Tương trợ tư pháp về hình sự số 103/2025/QH15\",\"applicationNote\":null,\"issueDate\":\"2025-11-26T00:00:00\",\"effFrom\":\"2026-07-01T00:00:00\",\"effTo\":null,\"publicDate\":null,\"effStatus\":{\"id\":\"1419f6be-4a15-44a7-97ac-ea042770a514\",\"name\":\"Còn hiệu lực\",\"code\":\"CHL\",\"parentCode\":null,\"parentName\":null},\"status\":\"Publish\",\"lang\":\"vi\",\"defaultLanguage\":\"VN\",\"updatedBy\":\"System Scheduler\",\"updatedDate\":\"2026-07-01T00:00:07\",\"agencyName\":\"Quốc hội\",\"organization\":{\"id\":\"a2fadf72-4beb-413c-a4a2-2cae4ff2298d\",\"code\":\"VKSNDTC\",\"name\":\"Viện Kiểm sát nhân dân tối cao\",\"nameEn\":\"Viện Kiểm sát nhân dân tối cao\",\"shortName\":\"VKSNDTC\",\"orgType\":\"0\"},\"isLw\":true,\"documentContent\":{\"id\":\"186624\",\"title\":null,\"content\":\"$2\"},\"documentContentEn\":null,\"documentContentFileName\":null,\"documentContentFileDocName\":null,\"documentIssues\":[{\"id\":\"2c101d5a-5ada-47be-bf66-68d207e8a05a\",\"agencyId\":\"55\",\"agencyName\":\"Quốc hội\",\"agencyNameEn\":\"National Assembly of Vietnam\",\"agencyCode\":\"QH\",\"personId\":\"1734\",\"personName\":\"Trần Thanh Mẫn\",\"jobTitleId\":\"28da0087-8afd-420c-875c-b2369e212c3e\",\"jobTitleCode\":\"CTQH\",\"jobTitleName\":\"Chủ tịch Quốc hội\",\"orderIndex\":1}],\"documentMajors\":[],\"documentFields\":[],\"documentRelatedList\":[],\"provisionTree\":null,\"references\":null,\"isEffectAllDocument\":false,\"isOld\":true,\"reviewStatus\":\"RV_DONE\",\"reviewed\":true,\"isTranslationDoc\":false,\"isConsolidatedDocument\":false,\"isConstitutionDocument\":false,\"isAdministrativeDocument\":false,\"viewCount\":224,\"showViewCount\":true,\"hasContent\":true,\"hasOriginalPdf\":null,\"hasAIProcessed\":false,\"hasClauseRelation\":true,\"aiResults\":[]}"
+   }
+  }
+ ]
+}

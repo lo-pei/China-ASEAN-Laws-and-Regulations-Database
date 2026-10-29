@@ -1,0 +1,638 @@
+{
+ "id": "ID-H931",
+ "title": {
+  "zh": "统计法",
+  "en": "statistics Law",
+  "id": "statistik",
+  "orig": "STATISTIK",
+  "vi": "Luật thống kê",
+  "th": "พระราชบัญญัติ สถิติ",
+  "ms": "Akta statistik"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02c",
+ "language": "id",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "1997",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU16-1997",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 42,
+ "chars": 31995,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU0161997.pdf&fl=P01002"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\01_宪法与基础法\\印尼_文本_1997_STATISTIK.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 43 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H931-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\nDalam Undang-undang ini yang dimaksud dengan :\n1. Statistik adalah data yang diperoleh dengan cara pengumpulan,\npengolahan, penyajian, dan analisis serta sebagai sistem yang\nmengatur keterkaitan antar unsur dalam penyelenggaraan statistik.\n2. Data adalah informasi yang berupa angka tentang karakteristik\n(ciri-ciri khusus) suatu populasi.\n3. Sistem Statistik Nasional adalah suatu tatanan yang terdiri atas\nunsur-unsur yang secara teratur saling berkaitan, sehingga\nmembentuk totalitas dalam penyelenggaraan statistik.\n4. Kegiatan statistik adalah tindakan yang meliputi upaya penyediaan\ndan penyebarluasan data, upaya pengembangan ilmu statistik, dan\nupaya yang mengarah pada berkembangnya Sistem Statistik\nNasional.\n5. Statistik…\nPRESIDEN\nREPUBLIK INDONESIA\n5. Statistik dasar adalah statistik yang pemanfaatannya ditujukan untuk\nkeperluan y ang bersifat luas, baik bagi pemerintah maupun\nmasyarakat, yang memiliki ciri -ciri lintas sektoral, berskala\nnasional, makro dan yang penyelenggaraannya menjadi tanggung\njawab Badan.\n6. Statistik sektoral adalah statistik yang pemanfaatannya ditujukan\nuntuk memenuhi kebutuhan instansi tertentu dalam rangka\npenyelenggaraan tugas-tugas pemerintahan dan pembangunan yang\nmerupakan tugas pokok intansi yang bersangkutan.\n7. Statistik khusus adalah statistik yang pemanfaatannya ditujukan\nuntuk memenuhi kebutuhan spesifik dunia usaha, pendidikan, sosial\nbudaya, dan kepentingan lain dalam kehidupan masyarakat, yang\npenyelanggaraannya dilakukan oleh Lembaga, organisasi,\nperorangan, dan atau unsur masyarakat lainnya.\n8. Sensus adalah pengumpulan data yang dilakukan mel alui\npencacahan semua unit populasi di seluruh wilayah Republik\nIndonesia untuk memperoleh karakteristik suatu populasi pada saat\ntertentu.\n9. Survei adalah cara pengumpulan data dilakukan melalui pencacahan\nsampel untuk memperkirakan karakteristik suatu p opulasi pada saat\ntertentu.\n10. Kompilasi produk administrasi adalah cara pengumpulan,\npengolahan, penyajian, dan analisis data didasarkan pada catatan\nadministrasi yang ada pada pemerintah dan atau masyarakat.\n11. Badan adalah Badan Pusat Statistik.\n12. Populasi adalah keseluruhan unit yang menjadi objek kegiatan\nstatistik baik berupa instansi pemerintah, lembaga, organisasi,\norang, benda maupun objek lainnya.\n13. Sampel…\nPRESIDEN\nREPUBLIK INDONESIA\n13. Sampel adalah sebagian unit yang menjadi penelitian untuk\nmemperkirakan karakteristik suatu populasi.\n14. Sinopsis adalah ikhtisar penyelenggaraan statistik.\n15. Penyelenggara kegiatan statistik adalah instansi pemerintah.\nLembaga, organisasi, perorangan dan unsur masyarakat lainnya.\n16. Petugas statistik adalah orang yang diberi tugas penyelenggara\nkegiatan statistik untuk melaksanakan pengumpulan data, baik\nmelalui wawancara, pengukuran, maupun cara lain terhadap objek\nkegiatan statistik.\n17. Responden ad alah instansi pemerintah, lembaga, organisasi,\norganisasi, orang dan atau unsur masyarakat lainnya, yang\nditentukan sebagai objek kegiatan statistik.\nBAB II\nASAS, ARAH DAN TUJUAN"
+   }
+  },
+  {
+   "id": "ID-H931-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\nSelain berlandaskan asas -asas pembangunan nasional, Undang -undang\nini juga berdasarkan :\na. keterpaduan;\nb. keakuratan; dan\nc. kemutkhiran."
+   }
+  },
+  {
+   "id": "ID-H931-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\nKegiatan statistik diarahkan untuk :\na. mendukung pembangunan nasional;\nb. mengembangkan…\nPRESIDEN\nREPUBLIK INDONESIA\nb. mengembangkan Sistem Statistik Nasional yang andal, efektif dan\nefisien;\nc. meningkatkan kesadaran masyarakat akan arti dan kegunaan\nstatistik; dan\nd. mendukung pengembangan ilmu pengetahuan dan teknologi."
+   }
+  },
+  {
+   "id": "ID-H931-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\nKegiatan statistik bertujuan untuk menyediakan data statistik yang\nlengkap, akurat, dan mutakhir dalam rangka mewujudkan Sistem Statistik\nNasional yang andal, efektif dan efisien guna mendukung pembangunan\nnasional.\nBAB III\nJENIS STATISTIK DAN CARA PENGUMPULAN DATA\nBagian Pertama\nJenis Statistik"
+   }
+  },
+  {
+   "id": "ID-H931-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\nBerdasarkan tujuan pemanfaatannya, jenis statistik terdiri atas :\na. statistik dasar;\nb. statistik sektoral; dan\nc. statistik khusus."
+   }
+  },
+  {
+   "id": "ID-H931-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6…"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 6\n(1) Statistik dasar dan statistik sektoral terbuka pemanfataannya untuk\numum, kecuali ditentukan lain oleh peraturan perundang -undangan\nyang berlaku.\n(2) Setiap orang memiliki kesempatan yang sama untuk mengetahui\ndan menfaatkan statistik khusus dengan tetap memperhatikan hak\nseseorang atau lembaga yang dilindungi undang-undang.\nBagian Kedua\nCara Pengumpulan Data"
+   }
+  },
+  {
+   "id": "ID-H931-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\nStatistik diselenggarakan melalui pengumpulan data yang dilakukan\ndengan cara :\na. sensus;\nb. survei;\nc. kompilasi produk administrasi; dan\nd. cara lain sesuai dengan perkembangan ilmu pengetahuan dan\nteknologi."
+   }
+  },
+  {
+   "id": "ID-H931-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n(1) Sensus sebagaimana dimaksud dalam Pasal 7 huruf a\ndiselenggarakan sekurang -kurangnya sekali dalam 10 (sepuluh)\ntahun oleh Badan, yang meliputi :\na. sensus...\nPRESIDEN\nREPUBLIK INDONESIA\na. sensus penduduk;\nb. sensus pertanian; dan\nc. sensus ekonomi.\n(2) Penetapan tahun penyelengg araan dan perubahan jenis sensus\nsebagaimana dimaksud dalam ayat (1), diatur lebih lanjut dengan\nPeraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H931-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n(1) Survei sebagaimana dimaksud dalam Pasal 7 huruf b\ndiselenggarakan secara berkala dan sewaktu -waktu untuk\nmemperoleh data yang rinci.\n(2) Survei antar sensus dilakukan pada pertengahan 2 (dua) sensus\nsejenis untuk menjembatani 2 (dua) sensus tersebut."
+   }
+  },
+  {
+   "id": "ID-H931-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\n(1) Kompilasi produk administrasi sebagaimana dimaksud dalam Pasal\n7 huruf c dilaksanakan dengan memanfaatkan berbagai dokumen\nproduk administrasi.\n(2) Hasil kompilasi produk administrasi milik instansi pemerintah\nterbuka pemanfaatannya untuk umum, kecuali ditentukan lain oleh\nperaturan perundang-undangan yang berlaku.\n(3) Setiap orang mempunyai kesempatan y ang sama untuk mengetahui\ndan memanfaatkan hasil kompilasi produk administrasi milik\nlembaga, organisasi, perorangan dan atau unsur masyarakat lainnya\ndengan tetap memperhatikan hak seseorang atau lembaga yang\ndilindungi undang-undang.\nBAB IV...\nPRESIDEN\nREPUBLIK INDONESIA\nBAB IV\nPENYELENGGARAAN STATISTIK\nBagian Pertama\nStatistik Dasar"
+   }
+  },
+  {
+   "id": "ID-H931-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\n(1) Statistik dasar diselenggarakan oleh Badan.\n(2) Dalam menyelenggarakan statistik dasar sebagaimana dimaksud\ndalam ayat (1), Badan memperoleh data dengan cara :\na. sensus;\nb. survei;\nc. kompilasi produk administrasi; dan\nd. cara lain sesuai dengan perkembangan ilmu pengetahuan dan\nteknologi.\nBagian Kedua\nStatistik Sektoral"
+   }
+  },
+  {
+   "id": "ID-H931-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n(1) Statistik sektoral diselenggarakan oleh instansi pemerintah sesuai\nlingkup tugas dan fungsinya, secara mandiri atau bersama dengan\nBadan.\n(2) Dalam menyelenggarakan statistik, sektoral instansi pemerintah\nmemperoleh data dengan cara :\na. sensus;\nb. kompilasi...\nPRESIDEN\nREPUBLIK INDONESIA\nb. kompilasi produk administrasi; dan\nc. cara lain sesuai dengan perkembangan ilmu pengetahuan dan\nteknologi.\n(3) Statistik sektoral harus diselenggarakan bersama dengan Badan\napabila statistik tersebut hanya dapat diperoleh dengan cara se nsus\ndan dengan jangkauan bersekala nasional.\n(4) Hasil statistik sektoral yang diselenggarakan sendiri oleh instansi\npemerintah wajib diserahkan kepada Badan.\nBagian Ketiga\nStatistik Khusus"
+   }
+  },
+  {
+   "id": "ID-H931-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\n(1) Statistik khusus diselenggarakan oleh masyarakat baik lembaga,\norganisasi, perorangan maupun unsur masyarakat lainnya secara\nmandiri atau bersama dengan Badan.\n(2) dalam menyelenggarakan statistik khusus sebagaimana dimaksud\ndalam ayat (1), masyarakat memperoleh data dengan cara :\na. sensus;\nb. kompilasi produk administrasi; dan\nc. cara lain sesuai dengan perkembangan ilmu pengetahuan dan\nteknologi.\n(2) Sinopsis sebagaimana dimaksud dalam ayat (1) memuat :\na. judul;\nb. wilayah kegiatan statistik;\nc. objek populasi;\nd. jumlah...\nPRESIDEN\nREPUBLIK INDONESIA\nd. jumlah responden;\ne. waktu pelaksanaan;\nf. metode statistik;\ng. nama dan alamat penyelenggara; dan\nh. abstrak.\n(3) Penyampaian pemberitahuan sinopsis dapat dilakukan melalui pos\nkomunikasi data, atau cara penyampaian lainnya yang dianggap\nmudah bagi penyelenggara kegiatan statistik.\n(4) Kewajiban memberitahukan sinopsis sebagaimana dimaksud dalam\nayat (1), tidak berlaku bagi statistik yang digunakan untuk\nmemenuhi kebutuhan intern.\nBAB V\nPENGUMUMAN DAN PENYEBARLUASAN"
+   }
+  },
+  {
+   "id": "ID-H931-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\n(1) Badan berwenang mengumumkan hasil statistik yang\ndiselenggarakannya.\n(2) Pengumuman hasil statistik dimuat dalam Berita Resmi Statistik."
+   }
+  },
+  {
+   "id": "ID-H931-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\nBadan menyebarluaskan hasil statistik yang diselenggarakannya.\nBAB VI…\nPRESIDEN\nREPUBLIK INDONESIA\nBAB VI\nKOORDINASI DAN KERJA SAMA"
+   }
+  },
+  {
+   "id": "ID-H931-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\n(1) Koordinasi dan kerja sama penyelenggaraan statistik dilakukan oleh\nBadan dengan instansi pemerintah dan masyarakat, di tingkat pusat\ndan daerah.\n(2) Dalam rangka mewujudkan dan mengembangkan Sistem Statistik\nNasional, Badan bekerja sama den gan instansi pemerintah dan\nmasyarakat untuk membangun pembakuan konsep, defenisi,\nklasifikasi dan ukuran-ukuran.\n(3) Koordinasi dan kerja sama sebagaimana dimaksud dalam ayat (1)\ndilaksanakan atas dasar kemitraan dan dengan tetap mengantisipasi\nserta menerapkan perkembangan ilmu pengetahuan dan tehnologi.\n(4) Ketentuan mengenai tata cara dan lingkup koordinasi dan kerja\nsama penyelenggaraan statistik antara Badan, instansi pemerintah,\ndan masyarakat diatur lebih lanjut dengan Keputusan Presiden."
+   }
+  },
+  {
+   "id": "ID-H931-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\n(1) Kerja sama penyelenggaraan statistik dapat juga dilakukan oleh\nBadan, instansi pemerintah, dan atau masyarakat dengan lembaga\ninternasional, negara asing, atau lembaga swasta asing sesuai\ndengan peraturan perundang-undangan yang berlaku.\n(2) Kerja...\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Kerja sama penyelenggara statistik sebagaimana dimaksud dalam\nayat (1) didasarkan pada prinsip bahwa penyelenggara utama adalah\nBadan, instansi pemerintah atau masyarakat Indonesia.\nBAB VII\nHAK DAN KEWAJIBAN\nBagian Pertama\nPenyelenggara Kegiatan Statistik"
+   }
+  },
+  {
+   "id": "ID-H931-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\nPenyelenggaraan kegiatan statistik wajib berhak memperoleh keterangan\ndari responden mengenai karakteristik setiap unit populasi yang menjadi\nobjek."
+   }
+  },
+  {
+   "id": "ID-H931-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\nPenyelenggara kegiatan statistik memberikan kesempatan yang sama\nkepada masyarakat untuk mengetahui dan memperoleh manfaat dari\nstatistik yang tersedia, sesuai dengan ketentuan peraturan\nperundang-undangan yang berlaku."
+   }
+  },
+  {
+   "id": "ID-H931-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\nPenyelenggara kegiatan statistik wajib menjamin kerahasiaan keterangan\nyang diperoleh dari responden.\nBagian…\nPRESIDEN\nREPUBLIK INDONESIA\nBagian Kedua\nPetugas Statistik"
+   }
+  },
+  {
+   "id": "ID-H931-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\nSetiap petugas statistik Badan berhak memasuki wilayah kerja yang telah\nditentukan untuk memperoleh keterangan yang diperlukan."
+   }
+  },
+  {
+   "id": "ID-H931-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\nSetiap petugas statistik wajib menyampaikan hasil pelaksanaan statistik\nsebagaimana adanya."
+   }
+  },
+  {
+   "id": "ID-H931-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 24\nKetentuan mengenai jaminan kerahasiaan keterangan sebagaimana\ndimaksud dalam Pasal 21 berlaku juga bagi petugas statistik."
+   }
+  },
+  {
+   "id": "ID-H931-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\nSetiap petugas statistik harus memperlihatkan surat tugas dan atau tanda\npengenal, serta wajib memperhatikan nilai -nilai agama, adat istiadat\nsetempat, tata krama dan ketertiban umum.\nBagian…\nPRESIDEN\nREPUBLIK INDONESIA\nBagian Ketiga\nResponden"
+   }
+  },
+  {
+   "id": "ID-H931-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\n(1) Setiap orang berh ak menolak untuk dijadikan responden, kecuali\ndalam penyelenggaraan statistik dasar oleh Badan.\n(2) Setiap reponden berhak menolak petugas statistik yang tidak dapat\nmemenuhi ketentuan sebagaimana dimaksud dalam Pasal 25."
+   }
+  },
+  {
+   "id": "ID-H931-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\nSetiap responden wajib memberikan keterangan yang diperlukan dalam\npenyelenggaraan statistik dasar oleh Badan.\nBAB VIII\nKELEMBAGAAN"
+   }
+  },
+  {
+   "id": "ID-H931-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\n(1) Pemerintah membentuk Badan yang berada di bawah dan\nbertanggung jawab langsung kepada Presiden.\n(2) Badan mempunyai perwakilan wilayah di Daerah yang merupakan\ninstansi vertikal.\n(3) Ketentuan mengenai tugas, fungsi, susunan organisasi dan tata kerja\nBadan sebagaimana dimaksud dalam ayat (1) dan ayat (2), diatur\nlebih lanjut dengan Keputusan Presiden."
+   }
+  },
+  {
+   "id": "ID-H931-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29…"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 29\n(1) Pemerintah membentuk Forum Masyarakat Statistik yang bertugas\nmemberikan sarana dan pertimbangan di bidang statistik kepada\nBadan.\n(2) Forum sebagaimana dimaksud dalam ayat (1) bersifat nonstruktural\ndan independen, yang anggotanya terdiri atas unsur pemerintah,\npakar, praktis dan tokoh masyarakat."
+   }
+  },
+  {
+   "id": "ID-H931-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\n(1) Instansi pemerintah dapat membentuk satuan organisasi di\nlingkungannya untuk melaksanakan statistik sektoral.\n(2) Ketentuan mengenai tugas, fungsi, susunan organisasi dan tata kerja\nsatuan organisasi sebagaimana dimaksud dalam ayat (1) diatur oleh\ninstansi yang bersangkutan berdasarkan peraturan\nperundang-undangan yang berlaku.\n(3) Dalam menyelenggarakan statistik sek toral, satuan organisasi\nsebagaimana dimaksud dalam ayat (1) harus mengadakan\nkoordinasi dengan Badan untuk menerapkan penggunaan konsep,\ndefinisi, klasifikasi dan ukuran -ukuran yang telah dibakukan dalam\nrangka pengembangan Sistem Statistik Nasional.\nBAB IX…\nPRESIDEN\nREPUBLIK INDONESIA\nBAB IX\nPEMBINAAN"
+   }
+  },
+  {
+   "id": "ID-H931-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\nBadan bekerja sama dengan instansi pemerintah dan unsur masyarakat\nmelakukan pembinaan terhadap penyelenggara kegiatan statistik dan\nmasyarakat, agar lebih meningkatkan kontribusi dan apresiasi masyarakat\nterhadap sta tistik, mengembangkan Sistem Statistik Nasional, dan\nmendukung pembangunan nasional."
+   }
+  },
+  {
+   "id": "ID-H931-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 32\nDalam rangka pembinaan sebagaimana dimaksud dalam Pasal 31, Badan\nmelakukan upaya-upaya sebagai berikut :\na. meningkatkan kemampuan sumber daya manusia dalam\npenyelenggaraan statistik;\nb. mengembangkann statistik sebagai ilmu;\nc. meningkatkan penguasaan ilmu pengetahuan dan teknologi yang\ndapat mendukung penyelenggaraan statistik;\nd. mewujudkan kondisi yang mendu kung terbentuknya pembakuan\ndan pengembangan konsep, definisi, klasifikasi dan ukuran -ukuran\ndalam kerangka semangat kerja sama dengan para penyelenggara\nkegiatan statistik lainnya;\ne. mengembangkan sistem informasi statistik;\nf. meningkatkan penyebarluasan informasi statistik;\ng. meningkatkan…\nPRESIDEN\nREPUBLIK INDONESIA\ng. meningkatkan kemampuan penggunaan dan pemanfaatan hasil\nstatistik untuk mendukung pembangunan nasional; dan\nh. meningkatkan kesadaran masyarakat akan arti dan kegunaan\nstatistik."
+   }
+  },
+  {
+   "id": "ID-H931-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 33\nPelaksanaan pembinaan sebagaimana dimaksud dalam Pasal 31 diatur\nlebih lanjut dengan Peraturan Pemerintah.\nBAB X\nKETENTUAN PIDANA"
+   }
+  },
+  {
+   "id": "ID-H931-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 34\nSetiap orang yang tanpa hak menyelenggarakan sensus sebagaimana\ndimaksud dalam Pasal 11 ayat (2) huruf a, dipidana dengan penjara\npaling lama 2 (dua) tahun dan denda paling banyak Rp. 50.000.000,00\n(lima puluh juta rupiah)."
+   }
+  },
+  {
+   "id": "ID-H931-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 35\nSetiap orang yang den gan sengaja melanggar ketentuan sebagaimana\ndimaksud dalam Pasal 14 ayat (1), dipidana dengan pidana kurungan\npaling lama 1 (satu) tahun atau denda paling banyak Rp. 25.000.000,00\n(dua puluh lima juta rupiah)."
+   }
+  },
+  {
+   "id": "ID-H931-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36…"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 36\n(1) Penyelenggara keg iatan statistik dengan sengaja dan tanpa alasan\nyang sah tidak memenuhi kewajiban sebagaimana dimaksud dalam\nPasal 20, dipidana dengan pidana kurungan paling lama 1 (satu)\ntahun atau denda paling banyak Rp. 25.000.000,00 (dua puluh lima\njuta rupiah).\n(2) Penyelenggara kegiatan statistik yang dengan sengaja melanggar\nketentuan sebagaimana dimaksud dalam Pasal 21 dipidana dengan\npidana penjara paling lama 5 (lima) tahun dan denda paling banyak\nRp. 100.000.000,00 (seratus juta rupiah)."
+   }
+  },
+  {
+   "id": "ID-H931-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 37\nPetugas statistik yang dengan sengaja melanggar ketentuan sebagaimana\ndimaksud dalam Pasal 24, dipidana dengan pidana penjara paling lama 1\n(satu) tahun 6 (enam) bulan penjara dan denda paling banyak Rp.\n15.000.000,00 (lima belas juta rupiah)."
+   }
+  },
+  {
+   "id": "ID-H931-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 38\nResponden yang dengan sengaja melanggar ketentuan sebagaimana\ndimaksud dalam Pasal 27, dipidana dengan pidana penjara paling lama 1\n(satu) tahun 6 (enam) bulan dan denda paling banyak Rp. 25.000.000,00\n(dua puluh lima juta rupiah)."
+   }
+  },
+  {
+   "id": "ID-H931-A39",
+   "no": 39,
+   "noLabel": {
+    "id": "Pasal 39…"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 39\nSetiap orang yang dengan sengaja dan tanpa alasan yang sah mencegah,\nmenghalangi-halangi, atau menggagalkan jalannya penyelenggaraan\nstatistik yang dilakukan oleh penyelenggara kegiatan statistik dasar dan\natau statistik sektoral, dipidana dengan pidana penjara paling lama 5\n(lima) tahun dan denda paling banyak Rp. 100.000.000,00 (seratus juta\nrupiah)."
+   }
+  },
+  {
+   "id": "ID-H931-A40",
+   "no": 40,
+   "noLabel": {
+    "id": "Pasal 40"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 40\n(1) Tindak pidana sebagaimana dimaksud dalam Pasal 34, Pasal 36 ayat\n(2), Pasal 37, Pasal 38, dan Pasal 39 adalah kejahatan.\n(2) Tindak pidana sebagaimana dimaksud dalam Pasal 35 dan Pasal 36\nayat (1) adalah pelanggaran.\nBAB XI\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H931-A41",
+   "no": 41,
+   "noLabel": {
+    "id": "Pasal 41"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 41\nSemua peraturan pelaksanaan Undang -undang Nomor 6 Tahun 1960\ntentang Sensus dan Undang -undang Nomor 7 Tahun 1960 tentang\nStatistik dinyata kan tetap berlaku sepanjang tidak bertentangan atau\nbelum diganti dengan yang baru berdasarkan Undang-undang ini.\nBAB XII…\nPRESIDEN\nREPUBLIK INDONESIA\nBAB XII\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H931-A42",
+   "no": 42,
+   "noLabel": {
+    "id": "Pasal 42"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 42\nPada saat mulai berlakunya Undang -undang ini, maka Undang -undang\nNomor 6 Tahun 1960 tentang Sensus dan Undang -undang Nomor 7\nTahun 1960 tentang Statistik dinyatakan tidak berlaku."
+   }
+  },
+  {
+   "id": "ID-H931-A43",
+   "no": 43,
+   "noLabel": {
+    "id": "Pasal 43"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 43\nUndang-undang ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang dapat mengetahuinya, memerintahkan pengundangan\nUndang-undang ini dengan penempata nnya dalam Lembaran Negara\nRepublik Indonesia.\nDisahkan di Jakarta\npada tanggal 19 Mei 1997\nPRESIDEN REPUBLIK INDONESIA\nttd\nSOEHARTO\nDiundangkan di Jakarta\npada tanggal 19 Mei 1997\nMENTERI NEGARA SEKRETARIS NEGARA\nREPUBLIK INDONESIA\nttd.\nMOERDIONO\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1997 NOMOR 39\nPRESIDEN\nREPUBLIK INDONESIA\nPENJELASAN\nATAS\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nNOMOR 16 TAHUN 1997\nTENTANG\nSTATISTIK\nUMUM\nUndang-undang Nomor 6 Tahun 1960 tentang Sensus dan Undang -undang Nomor 7\nTahun 1960 tentang Statistik sudah tidak sesuai lagi dan tidak dapat menampung berbagai\nperkembangan keadaan, tuntutan masyarakat, dan kebutuhan pembangunan nasional.\nKondisi kehidupan bangsa dan tingkat perkembangan ilmu pengetahuan dan teknologi,\nsaat kedua Undang -undang tersebut diundangkan sangat berbeda dengan keadaan\nsekarang.\nSelama lebih dari tiga puluh tahun ini telah terjadi perubahan mendasar yang\nmempengaruhi penyelenggaraan statistik. Pertama meningkatnya kesejahteraan\nmasyarakat sebagai ha sil dari pembangunan nasional menyebabkan data statistik yang\ndibutuhkan masyarakat semakin beragam. Kedua, ragam data yang pada awal tahun enam\npuluhan cukup dikumpulkan oleh Biro Pusat Statistik (BPS), sekarang memerlukan\nketerlibatan penyelenggara kegia tan statistik lainnya di luar Badan. Ketiga, kemajuan\nilmu pengetahuan dan teknologi yang berdampak terhadap perkembangan kegiatan\nstatistik. Keempat, adanya perubahan lingkungan strategis, seperti era globalisasi yang\nantara lain ditandai oleh keterbukaan , meningkatnya persaingan, pesatnya arus informasi\nstatistik, dan semakin besarnya peranan informasi statistik baik pemerintah maupun\nmasyarakat. Keempat perubahan tersebut mengakibatkan penyelenggraan statistik\nmemerlukan pengaturan yang lebih memadai unt uk dapat menjamin terhindarnya\nduplikasi, kemudahan akses oleh pengguna data, kepastian hukum bagi penyelenggraan\nkegiatan statistik, dan perlindungan kepada responden.\nPrinsip…\nPRESIDEN\nREPUBLIK INDONESIA\nPrinsip pokok yang harus ditetapkan dan dipegang teguh dalam penyelenggaraan statistik\nadalah asas -asas pembangunan nasional yang meliputi asas keimanan dan ketaqwaan\nterhadap Tuhan Yang Maha Esa, asas manfaat, asas Demokrasi Pancasila, asas adil dan\nmerata, asas hukum, asas kemandirian, asas kejuangan, serta asas ilmu pengetahuan dan\nteknologi dalam pelaksanaannya, Undang -undang ini juga berasaskan keterpaduan\nkeakuratan, dan kemutakhiran agar dapat menyediakan data statistik yang andal dan\nterpercaya.\nPengertian statistik dalam Undang-undang ini adalah luas, baik statistik sebagai data atau\ninformasi yang berupa angka, sebagai sistem yang memadukan penyelenggaraan statistik,\nmaupun sebagai ilmu yang mempelajari cara pengumpulan, pengolahan, penyajian, dan\nanalisis data. Ketiga pengertia n tentang statistik tersebut menjadi landasan\npenyelenggaraan statistik dalam mendukung pembangunan nasional.\nUndang-undang ini mentapkan jenis statistik berdasarkan tujuan pemanfaatannya serta\nmengatur lingkup tugas dan fungsi para penyelenggara kegiatan statistik. Berdasarkan\ntujuan pemanfaatannya, jenis statistik terdiri atas statistik dasar, statistik sektoral, dan\nstatistik khusus. Pengaturan lingkup tugas dan fungsi para penyelenggara kegiatan\nstatistik bertujuan untuk : pertama, menjamin kepastian h ukum bagi para penyelenggara\nkegiatan statistik baik pemerintah maupun bagi masyarakat; kedua menjamin kepentingan\nmasyarakat pengguna statistik atas nilai informasi yang diperolehnya; ketiga\nmengupayakan koordinasi dan kerja sama agar kegiatan statistik y ang dilakukan oleh\nberbagai pihak berjalan secara efektif dan efisien, tidak/terjadi duplikasi, serta mengisi\ndan saling memperkuat; dan keempat, mengantisipasi perkembangan kemajuan ilmu\npengetahuan dan teknologi yang berdampak pada penyelenggaraan statistik.\nBadan sebagai instansi pemerintah yang mandiri berwenang mengumumkan hasil statistik\nyang diselenggarakannya secara teratur dan transparan melalui Berita Resmi Statistik.\nKesahihan seluruh hasil statistik yang diumumkan tersebut sepenuhnya menjadi ta nggung\njawab Badan.\nKoordinasi…\nPRESIDEN\nREPUBLIK INDONESIA\nKoordinasi dan kerja sama yang diatur dalam Undang -undang ini menjadi sangat penting\nuntuk dapat dikembangkan antara Badan dengan instansi pemerintah, lembaga,\norganisasi, perorangan, dan unsur masyarakat lainnya, serta ker ja sama dengan lembaga\nasing yang bergerak dalam kegiatan statistik. Makin beranekaragam informasi statistik\nyang berkembang seiring dengan kebutuhan dan kemajuan kehidupan bangsa serta ilmu\npengetahuan dan teknologi, maka pembakuan konsep, definisi, klasi fikasi, dan\nukuran-ukuran perlu memperoleh perhatian secara saksama.\nHak dan kewajiban penyelenggara kegiatan statistik, petugas statistik, responden, dan\npengguna data statistik diatur secara seimbang. Sejalan dengan hal tersebut, sanksi\nterhadap pelanggaran norma dalam penyelenggaraan statistik ditetapkan dengan maksud\nmemberikan perlindungan bagi pihak yang dirugikan.\nBadan mempunyai perwakilan wilayah di Daerah yang merupakan instansi vertikal.\nSatuan organisasi di lingkungan instansi pemerintah yang melaksanakan statistik sektoral\nharus mengadakan koordinasi dengan Badan dalam rangka menerapkan keseragaman\nkonsep, definisi, klasifikasi dan ukuran-ukuran yang telah dibakukan.\nUntuk mengoptimalkan penyelenggaraan statistik, Badan memperoleh saran dan\npertimbangan dari Forum Masyarakat Statistik yang keanggotaannya terdiri atas unsur\npemerintah, pakar, praktisi, dan tokoh masyarakat.\nBadan melakukan pembinaan terhadap penyelenggara kegiatan statistik dan masyarakat\npada umumnya untuk meningkatan kontrib usi dalam mendukung pembangunan nasional,\nmengembangkan Sistem Statistik Nasional, dan meningkatkan kesadaran masyarakat baik\nsebagai responden maupun pengguna data statistik akan arti kegunaan statistik. Dalam\npelaksanaannya, Badan bekerja sama dengan instansi pemerintah dan unsur masyarakat.\nMateri yang merupakan muatan baru dalam Undang -undang tentang Statistik ini, antara\nlain :\n1. Jenis…\nPRESIDEN\nREPUBLIK INDONESIA\n1. Jenis statistik berdasarkan tujuan pemanfaatannya terdiri atas statistik dasar yang\nsepenuhnya diselenggarakan oleh Badan, statistik sektoral yang dilaksanakan oleh\ninstansi pemerintah secara mandiri atau bersama dengan Badan, serta statistik\nkhusus yang diselenggarakan oleh lembaga, organisasi, perorangan, dan atau unsur\nmasyarakat lainnya secara mandiri atau bersama dengan Badan.\n2. Hasil statistik yang diselenggarakan oleh Badan diumumkan dalam Berita Resmi\nStatistik secara teratur dan transparan agar masyarakat dengan mudah mengetahui\ndan atau mendapatkan data yang diperlukan.\n3. Sistem Statistik Nasional yang andal, efektif, dan efisien.\n4. Dibentuknya Forum Masyarakat Statistik sebagai wadah untuk menampung\naspirasi masyarakat statistik, yang bertugas memberikan saran dan pertimbangan\nkepada Badan.\nKetentuan-ketentuan yang diatur dalam Undang-undang ini perlu dimasyarakatkan secara\nintensif.\nUndang-undang ini hanya mengatur hal-hal yang pokok, karena itu ketentuan lebih lanjut\nakan diatur dalam pelaksanaannya.\nPASAL DEMI PASAL\nPasal 1\nCukup jelas\nPasal 2\nDengan berlandaskan asas-asas pembangunan nasional, secara operasional\nUndang-undang ini juga berasaskan keterpaduan, keakuratan dan kemutakhiran.\nHuruf a…\nPRESIDEN\nREPUBLIK INDONESIA\nHuruf a\nYang dimaksud dengan \"asas keterpaduan\" ialah bahwa penyelenggaraan\nstatistik yang dilakukan bersama -sama oleh pemerintah dan masyarakat\nharus saling mengisi dan saling memperkuat dalam memenuhi kebutuhan\nstatistik, serta menghindari terjadinya duplikasi kegiatan.\nHuruf b\nYang dimaksud dengan \"asas keakuratan\" ialah bahwa semua kegiatan\nstatistik harus diupayakan untuk menghasilkan data statistik yang saksama,\ncermat, tepat dan benar.\nHuruf c\nYang dimaksud dengan \"asas kemuktakhiran\" ialah bahwa data statistik\nyang disajikan dan atau tersedia harus dapat menggambarkan fenomena dan\natau perubahannya me nurut keadaan yang terbaru. Oleh karena itu,\npengumpulan, pengolahan, penyajian, dan analisis data statistik harus\nsenantiasa diupayakan secara terus menerus, berkesinambungan dan runtun\nwaktu.\nPasal 3\nHuruf a\nCukup jelas\nHuruf b\nCukup jelas\nHuruf c\nYang dimaksud dengan \"kesadaran masyarakat\" adalah tumbuh dan\nberkembang sadar statistik, sehingga meningkatkan kepedulian masyarakat\nterhadap pentingnya arti dan kegunaan statistik.\nHuruf d\nCukup jelas\nPasal 4…\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 4\nUnsur-unsur yang saling berkaitan dan sangat perlu diperhatikan dalam Sistem\nStatistik Nasional adalah unsur kelembagaan penyelenggaraan kegiatan statistik,\ncara yang digunakan, kualitas sumber daya manusia yang tersedia, perangkat keras\ndan perangkat lunak term asuk penunjangnya, serta jaminan hukum agar sistem itu\nmampu menyajikan data statistik yang lengkap, akurat dan mutakhir.\nPasal 5\nJenis statistik berdasarkan tujuan pemanfaatannya, yang terdiri dari atas statistik\ndasar, statistik sektoral dan statistik k husus tersebut, mencakup statistik bidang\nekonomi, bidang kesejahteraan dan bidang -bidang lainnya. Statistik bidang\nekonomi meliputi antara lain statistik pertanian, statistik industri, statistik\nperdagangan dan statistik bidang ekonomi lainnya; sedangkan statistik bidang\nkesejahteraan rakyat meliputi antara lain statistik kependudukan dan statistik\nlingkungan hidup.\nHasil kompilasi produk administrasi dan atau pengolahan statistik dasar, statistik\nsektoral, atau statistik khusus tersebut dapat disajikan b aik dalam bentuk statistik\nlintas sektoral maupun statistik regional, seperti angka produk domestik bruto,\nangka produk domestik regional bruto, angka pendapatan nasional, indikator\nekonomi, indikator sosial serta statistik lintas sektoral dan statistik re gional\nlainnya.\nUntuk memenuhi kebutuhan data di tingkat wilayah dapat disajikan statistik\nregional.\nPasal 6\nAyat (1)\nCukup jelas\nAyat (2)…\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (2)\nHak yang dilindungi oleh Undang -undang tersebut meliputi antara lain hak\ncipta.\nPasal 7\nHuruf a\nCukup jelas\nHuruf b\nCukup jelas\nHuruf c\nCukup jelas\nHuruf d\nPerkembangan ilmu pengetahuan teknologi, khususnya teknologi informasi,\nteknologi komunikasi memungkinkan dilakukannya cara lain dalam\npengumpulan data yang sifatnya khas dan karena itu penyelenggara\nkegiatan statistik harus mengantisipasinya.\nPasal 8\nAyat (1)\nMengingat sensus akan menyentuh seluruh lapisan, masyarakat, maka\nsebelum sensus diselenggarakan, Badan wajib mengumumkannya kepada\nmasyarakat.\nAyat (2)\nPenetapan tahun penyele nggaraan sensus selain memperhatikan kebutuhan\njuga mengacu kepada berbagai konvensi internasional agar mempunyai\naspek keterbandingan antarnegara. Berbagai sensus yang telah dilaksanakan\nadalah Sensus Penduduk 1930, 1961, 1971, 1980 dan 1990; Sensus\nPertanian tahun 1963, 1973, 1983 dan 1993; sedangkan Sensus Ekonomi\ntahun 1986 dan 1996.\nPasal 9…\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 9\nAyat (1)\nCukup jelas\nAyat (2)\nSurveri antar sensus dilaksanakan dalam rangka pemutakhiran data,\nmisalnya Survei Penduduk Antar sensus (Supas).\nPasal 10\nCukup jelas\nPasal 11\nAyat (1)\nMengingat pemanfaatan statistik dasar sangat luas, maka\npenyelenggaraannya menjadi tanggung jawab Badan.\nAyat (2)\nHuruf a\nCukup jelas\nHuruf b\nCukup jelas\nHuruf c\nDalam rangka penyelenggaraan statistik dasar dengan cara kompilasi\nproduk administrasi, Badan dapat memperoleh produk administrasi\nyang ada pada instansi pemerintah dan atau unsur masyarakat dengan\ntetap memperhatikan hak seseorang atau lembaga yang dilind ungi\nperaturan perundang-undangan yang berlaku.\nHuruf d\nCukup jelas\nPasal 12…\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 12\nAyat (1)\nYang dimaksud dengan \"instansi pemerintah\" adalah instansi pemerintah di\nluar Badan.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nPasal 13\nCukup jelas\nPasal 14\nAyat (1)\nPenyampaian sinopsis dimaksudkan untuk mewujudkan Badan sebagai\npusat informasi statistik.\nAyat(2)\nHuruf a\nCukup jelas\nHuruf b\nCukup jelas\nHuruf c\nCukup jelas\nHuruf d\nCukup jelas\nHuruf e\nCukup jelas\nHuruf f…\nPRESIDEN\nREPUBLIK INDONESIA\nHuruf f\nCukup jelas\nHuruf g\nCukup jelas\nHuruf h\nYang dimaksud dengan \"abstrak\" adalah ikhtisar singkat\npenyelenggaraan statistik secara kualitatif.\nAyat (3)\nUntuk menyampaikan sinop sis kegiatan statistik dimaksud, penyelenggara\ntidak harus datang sendiri, tetapi penyelanggara dapat memilih cara yang\nmudah atau yang tidak memberatkan baginya.\nAyat (4)\nYang dimaksud dengan \"kebutuhan intern\" adalah kebutuhan akan statistik\nyang sifa tnya untuk memenuhi kepentingan sendiri serta tidak untuk\ndipublikasikan.\nPasal 15\nAyat (1)\nCukup jelas\nAyat (2)\nBerita Resmi Statistik sepenuhnya dikelola oleh Badan untuk menjamin\nkelancaran penerbitan, keontentikan, dan kesinambungannya.\nPasal 16\nPenyebarluasan hasil statistik wajib dilakukan oleh Badan melalui berbagai media\nseperti media cetak, media elektronik, dan media informasi lainnya.\nPasal 17\nAyat (1)\nCukup jelas\nAyat (2)…\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nDalam Keputusan Presiden diatur juga hal-hal pokok sebagai berikut :\na. kewajiban instansi pemerintah untuk memberitahukan kepada Badan\nsebelum penyelenggaraan statistik;\nb. kewajiban instansi pemerintah yang menyelenggarakan statistik\nuntuk mengikuti rekomendasi Badan; dan\nc. kewajiban instansi pemerintah untuk menyerahkan hasil\npenyelenggaraan statistik kepada Badan.\nPasal 18\nCukup jelas\nPasal 19\nCukup jelas\nPasal 20\nCukup jelas\nPasal 21\nKeterangan individu yang disampaikan oleh responden dijamin kerahasiaannya,\nkarena semua penyelenggara kegiatan statistik hanya menyajikan hasil\npenyelenggaraan statistik yang dilakukan dalam bentuk data statistik yang berupa\nagregat.\nPasal 22…\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 22\nYang dimaksud dengan \"wilayah kerja\" adalah domisili responden dalam bentuk\nwilayah administratif, wilayah pencacahan, atau bagian terkecil termasuk halaman\natau bangunan fisik yang ada di dalamnya.\nPasal 23\nYang dimaksud dengan \"sebagaimana adanya\" ial ah bahwa hasil pelaksanaan\npengumpulan data statistik yang menugasinya, tanpa ada unsur rekayasa.\nPasal 24\nCukup jelas\nPasal 25\nSurat tugas dan atau tanda pengenal mutlak diperlukan oleh setiap petugas\nstatistik, baik dalam rangka menjamin keabsahan pet ugas statistik yang\nbersangkutan maupun untuk menyakinkan responden.\nPasal 26\nCukup jelas\nPasal 27\nYang dimaksud dengan \"keterangan yang diperlukan\" adalah keterangan yang\ndiminta melalui kuesioner yang harus dijawab secara lengkap dan benar.\nPasal 28\nCukup jelas\nPasal 29\nCukup jelas\nPasal 30…\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 30\nAyat (1)\nDalam rangka mendukung terwujudnya Sistem Statistik Nasional dan untuk\nmengembangkannya lebih lanjut, instansi pemerintah dapat membentuk\nsatuan organisasi untuk menyelenggarakan statistik sektoral, sedangkan\nlembaga swasta dapat pula mengupayakan terbentuknya satuan organisasi\ndalam penyelenggaraan statistik khusus.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nPasal 31\nCukup jelas\nPasal 32\nCukup jelas\nPasal 33\nCukup jelas\nPasal 34\nCukup jelas\nPasal 35\nCukup jelas\nPasal 36\nCukup jelas\nPasal 37…\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 37\nCukup jelas\nPasal 38\nCukup jelas\nPasal 39\nCukup jelas\nPasal 40\nCukup jelas\nPasal 41\nCukup jelas\nPasal 42\nCukup jelas\nPasal 43\nCukup jelas\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 3683"
+   }
+  }
+ ]
+}

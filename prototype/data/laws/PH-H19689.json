@@ -1,0 +1,72 @@
+{
+ "id": "PH-H19689",
+ "title": {
+  "zh": null,
+  "en": "MALACAÑAN PALACE BY THE PRESIDENT OF THE PHILIPPINES AMENDING SECTION ONE OF EXECUTIVE ORDER NUMBERED THREE HUNDRED AND THIRTY- ONE AND FOR OTHER PURPOSES.",
+  "orig": "MALACAÑAN PALACE BY THE PRESIDENT OF THE PHILIPPINES AMENDING SECTION ONE OF EXECUTIVE ORDER NUMBERED THREE HUNDRED AND THIRTY- ONE AND FOR OTHER PURPOSES."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p158",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Executive Order No. 379",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 684,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/07_行政命令_EO/EO_00379_1950.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 EO_00379_1950.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H19689-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "SECTION 1"
+   },
+   "text": {
+    "en": "Section one of Executive Order No. 331,\ndated July 7, 1950, is hereby amended by setting up a\nnew ceiling price for Pan de Sal, as follows:\nFOODSTUFF (LOCAL)\nceiling price\n3 pieces (23 grams each) or 2\npieces (35 grams each) ......."
+   }
+  },
+  {
+   "id": "PH-H19689-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Sec 2"
+   },
+   "text": {
+    "en": "The ceiling price fixed in this Order includes\nthe seven per cent sales tax and is applicable throughout\nthe Phiiippines."
+   }
+  },
+  {
+   "id": "PH-H19689-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "SEC 3"
+   },
+   "text": {
+    "en": "This Order shall take effect five days after the\ndate hereof.\nDone in the City of Manila, this 5th day of December,\nin the year of Our Lord, nineteen hundred and fifty, and\nof the Independence of the Philippines, the fifth.\nELPIDIO QUIRINO\nPresident of the Philippines\n5891\nBy the President:\nTEODORO EVANGELISTA\nExecutive Secretary"
+   }
+  }
+ ]
+}

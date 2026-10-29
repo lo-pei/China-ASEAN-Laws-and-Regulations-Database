@@ -1,0 +1,82 @@
+{
+ "id": "PH-H21382",
+ "title": {
+  "zh": null,
+  "en": "Adding a New Specific Tax Bracket",
+  "orig": "Adding a New Specific Tax Bracket"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p159",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1985-04-11",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Executive Order No. 1018",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 2612,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/07_行政命令_EO/EO_01018_1985_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 EO_01018_1985_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H21382-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Sec 1"
+   },
+   "text": {
+    "en": "Sub-paragraph (b), Section 149 of the National Internal Revenue Code, as amended, is hereby further\namended to read as follows:\n\"(b) Cigarettes\n\"(1) On the cigarettes packed in thirties, the retail price of which per pack does not exceed two pesos, on each\nthousand, three pesos and fifty centavos;\n\"(2) On cigarettes packed in thirties, the retail price of which per pack exceeds two pesos but does not exceed\ntwo pesos and forty centavos, on each thousand, six pesos;\n\"(3) On cigarettes packed in thirties, the retail price of which per pack exceeds two pesos and forty centavos,\non each thousand, line pesos;\n\"(4) On cigarettes packed in twenties, the retail price of which per pack does not exceed three pesos and fifty\ncentavos, on each thousand, twelve pesos;\n\"(5) On cigarettes packed in twenties, the retail price of which per pack exceeds three pesos and fifty\ncentavos, but does not exceed four pesos and fifty centavos, on each thousand, twenty-five pesos;\n\"(6) On cigarettes packed in twenties, the retail price of which exceeds four pesos and fifty centavos, but does\nnot exceed five pesos and sixty centavos, on each thousand, thirty five pesos;\n\"(7) On cigarettes packed in twenties, the retail price of which exceeds five pesos and sixty centavos, but does\nnot exceed six pesos and eighty centavos, on each thousand, forty pesos;\n\"(8) On cigarettes packed in twenties, the retail price of which exceeds six pesos and eighty centavos, but does\nnot exceed seven pesos and fifty centavos, on each thousand, fifty seven pesos and fifty centavos;\n\"(9) On cigarettes packed in twenties, the retail price of which exceeds seven pesos and fifty centavos, but\ndoes not exceed eight pesos, on each thousand, eighty pesos;\n\"(10) On cigarettes packed in twenties, the retail price of which exceeds eight pesos, but does not exceed nine\npesos on each thousand, one hundred fourteen pesos;\n\"(11) On cigarettes packed in twenties, the retail price of which exceeds nine pesos, on each thousand, one\nhundred fifty-one pesos;\n\"(12) If the cigarettes are of foreign manufacture regardless of the retail price or contents per pack, on each\nthousand, one hundred fifty-one pesos;"
+   }
+  },
+  {
+   "id": "PH-H21382-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Sec 2"
+   },
+   "text": {
+    "en": "The Minister of Finance, upon recommendation of the Commissioner of Internal Revenue, shall\npromulgate necessary rules and regulations to effectively implement the provisions of this order."
+   }
+  },
+  {
+   "id": "PH-H21382-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Sec 3"
+   },
+   "text": {
+    "en": "All laws, rules and regulations inconsistent herewith are hereby repealed or amended accordingly."
+   }
+  },
+  {
+   "id": "PH-H21382-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Sec 4"
+   },
+   "text": {
+    "en": "This Order shall take effect immediately.\nDONE in the City of Manila, this 11th day of April, in the Year of Our Lord Nineteen Hundred and\nEighty-Five."
+   }
+  }
+ ]
+}

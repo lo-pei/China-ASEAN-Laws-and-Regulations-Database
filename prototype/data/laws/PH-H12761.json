@@ -1,0 +1,72 @@
+{
+ "id": "PH-H12761",
+ "title": {
+  "zh": null,
+  "en": "An Act Permitting Municipalities to Change the Dates of their Local Fiestas Under Certain Conditions.",
+  "orig": "An Act Permitting Municipalities to Change the Dates of their Local Fiestas Under Certain Conditions."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1911-02-03",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2054",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1328,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1911/act_2054_1911.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02054_1911_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02054_1911_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12761-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Municipalities of the Philippine Islands organized under Act Numbered Eighty-two, known as\n\"The Municipal Code,\" are hereby authorized to change the dates of their local fiestas, as fixed under the\nprovisions of section one of Act Numbered Nineteen hundred and nine."
+   }
+  },
+  {
+   "id": "PH-H12761-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The change of date authorized in the next preceding section must be made on or before the\nthirty-first of December, nineteen hundred and eleven, and not later, in the manner and under the terms\nprescribed in section one of said Act Numbered Nineteen hundred and nine for selecting such dates. If the\nlocal fiesta shall have been held in any part of the year nineteen hundred and eleven before the change of date\nauthorized under this Act, then the new date shall be effective beginning with the year nineteen hundred and\ntwelve: Provided, That once the new date for the celebration of the local fiesta shall have been adopted, it\nshall not be changed except by an Act of the Legislature."
+   }
+  },
+  {
+   "id": "PH-H12761-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "In the event that for weighty reasons, such as typhoons, earthquakes, epidemics, or other public\ncalamities, the fiesta can not be held on the date fixed in accordance with section two, then it may he changed\nto another date in the same year, which date the municipal council shall fix for that year only, with the\napproval of the provincial board.\nEnacted, February 3, 1911."
+   }
+  }
+ ]
+}

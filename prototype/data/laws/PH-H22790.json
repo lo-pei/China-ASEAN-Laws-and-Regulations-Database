@@ -1,0 +1,62 @@
+{
+ "id": "PH-H22790",
+ "title": {
+  "zh": null,
+  "en": "Further Amending Republic Act Numbered 6426, as Amended, Otherwise Known as the Foreign Currency Deposit Act of the Philippines",
+  "orig": "Further Amending Republic Act Numbered 6426, as Amended, Otherwise Known as the Foreign Currency Deposit Act of the Philippines"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1978-06-11",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 1453",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1361,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_01453_1978_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_01453_1978_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22790-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The first paragraph of Section 4 of Republic Act No. 6426, as amended, is hereby amended to\nread as follows:\n\"Sec. 4. Foreign currency cover requirements. Except as the Monetary Board may otherwise prescribe or\nallow, the depository banks shall maintain at all times a one hundred percent foreign currency cover for their\nliabilities, of which cover at least fifteen percent shall be in the form of foreign currency deposit with the\nCentral Bank, and the balance in the form of foreign currency loans or securities, which loan or securities\nshall be of short term maturities and readily marketable. Such foreign currency loans may include loans to\ndomestic enterprises which are export-oriented or registered with the Board of Investments, subject to the\nlimitations to be prescribed by the Monetary Board on such loans. Except as the Monetary Board may\notherwise prescribe or allow, the foreign currency cover shall be in the same currency as that of the\ncorresponding foreign currency deposit liability. The Central Bank may pay interest on the foreign currency\ndeposit, and if requested shall exchange the foreign currency notes and coins into foreign currency\ninstruments drawn on its depository banks.\""
+   }
+  },
+  {
+   "id": "PH-H22790-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Decree shall take effect immediately.\nDone in the City of Manila, this 11th day of June, in the year of Our Lord, nineteen hundred and\nseventy-eight."
+   }
+  }
+ ]
+}

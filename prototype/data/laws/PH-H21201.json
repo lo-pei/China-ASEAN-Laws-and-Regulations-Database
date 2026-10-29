@@ -1,0 +1,82 @@
+{
+ "id": "PH-H21201",
+ "title": {
+  "zh": null,
+  "en": "Limiting the Tax Credit to Taxes Actually Paid in Computing Sales Tax on Manufactured Articles",
+  "orig": "Limiting the Tax Credit to Taxes Actually Paid in Computing Sales Tax on Manufactured Articles"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p159",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1983-04-01",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Executive Order No. 872",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 1238,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/07_行政命令_EO/EO_00872_1983_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 EO_00872_1983_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H21201-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Sec 1"
+   },
+   "text": {
+    "en": "The pertinent provisions in Sections 194, 195, 196, 197, 199 and 201 of the National Internal Revenue\nCode, as amended, to the effect that the tax otherwise due on any raw material, part or accessory or other\narticle which is exempt from tax shall be deemed to have been paid for the purpose of computing the sales tax\ndue, are hereby repealed."
+   }
+  },
+  {
+   "id": "PH-H21201-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Sec 2"
+   },
+   "text": {
+    "en": "Section 200 of the National Internal Revenue Code, as amended, is hereby further amended to read as\n\"Sec. 200. Tax on tax-exempt products of pioneer enterprises registered with the Board of Investments\ndeemed paid. Whenever a tax-exempt product of a pioneer enterprise registered with the Board of Investments\nis used in the manufacture or production of any article sold domestically, the sales or specific taxes otherwise\ndue on such tax-exempt product shall be credited against the sales tax due on the manufactured article.\""
+   }
+  },
+  {
+   "id": "PH-H21201-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Sec 3"
+   },
+   "text": {
+    "en": "The Minister of Finance, upon recommendation of the Commissioner of the Bureau of Internal\nRevenue, shall promulgate the necessary rules and regulations for the implementation of this Executive Order."
+   }
+  },
+  {
+   "id": "PH-H21201-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Sec 4"
+   },
+   "text": {
+    "en": "This Executive Order shall take effect April 1, 1983.\nDone in the City of Manila, this 16th day of February in the year of Our Lord, Nineteen Hundred and\nEighty-Three."
+   }
+  }
+ ]
+}

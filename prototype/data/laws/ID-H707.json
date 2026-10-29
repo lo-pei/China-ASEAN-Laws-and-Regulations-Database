@@ -1,0 +1,640 @@
+{
+ "id": "ID-H707",
+ "title": {
+  "zh": "危险和有毒废物管理法",
+  "en": "Law on the Management of Hazardous and Toxic Waste",
+  "id": "PENGELOLAAN LIMBAH BERBAHAYA DAN BERACUN",
+  "orig": "PENGELOLAAN LIMBAH BERBAHAYA DAN BERACUN",
+  "vi": "Luật về Quản lý Chất thải Nguy hại và Độc hại",
+  "th": "พระราชบัญญัติว่าด้วยการจัดการของเสียอันตรายและมีพิษ",
+  "ms": "Akta tentang Pengurusan Sisa Berbahaya dan Beracun"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02c",
+ "language": "id",
+ "level": "law",
+ "category": "04_劳工与行政法",
+ "status": "active",
+ "promulgatedDate": "1994",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU19-1994",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 42,
+ "chars": 52819,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PP0191994.pdf&fl=P03857"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\04_劳工与行政法\\印尼_文本_1994_PENGELOLAAN LIMBAH BERBAHAYA DAN BERACUN.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 42 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H707-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\nDalam Peraturan Pemerintah ini yang dimaksud dengan:\n1. Limbah adalah bahan sisa pada suatu kegiatan dan/atau proses\nproduksi;\n2. Limbah bahan berbahaya dan beracun, disingkat limbah B3, adalah\nsetiap limbah yang mengandung bahan berbahaya dan/atau beracun\nyang karena sifat dan/atau konsentrasinya dan/atau juml ahnya, baik\nsecara langsung maupun tidak langsung dapat merusak dan/atau\nmencemarkan lingkungan hidup dan/atau dapat membahayakan\nkesehatan manusia;\n3. Pengelolaan limbah B3 adalah rangkaian kegiatan yang mencakup\npenyimpanan, pengumpulan, pengangkutan, pengelolaan limbah B3\nserta penimbunan hasil pengolahan tersebut;\n4. Penghasil limbah B3 adalah setiap orang atau badan usaha yang\nmenghasilkan limbah B3 dan menyimpan sementara limbah tersebut\ndi dalam lokasi kegiatannya sebelum limbah B3 tersebut diserahka n\nkepada pengumpul atau pengolah limbah B3;\n5. Pengumpul limbah B3 adalah badan usaha yang melakukan\nkegiatan pengumpulan limbah B3 dari penghasil limbah B3 dengan\nmaksud menyimpan untuk diserahkan kepada pengolah limbah B3;\n6. Pengolah…\nPRESIDEN\nREPUBLIK INDONESIA\n6. Pengolah limba h B3 adalah badan usaha yang mengoperasikan\nsarana pengolahan limbah B3 termasuk penimbunan akhir hasil\npengolahannya;\n7. Pengolahan limbah B3 adalah proses untuk mengubah karakteristik\ndan komposisi limbah B3 menjadi tidak berbahaya dan/atau tidak\nberacun, atau memungkinkan agar limbah B3 dimurnikan dan/atau\ndidaur ulang;\n8. Pengangkut limbah B3 adalah badan usaha yang melakukan\nkegiatan pengangkutan limbah B3;\n9. Pengangkutan limbah B3 adalah proses pemindahan limbah B3 dari\npenghasil ke pengumpul dan/ata u ke pengolah termasuk ke tempat\npenimbunan akhir dengan menggunakan alat angkut."
+   }
+  },
+  {
+   "id": "ID-H707-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\nPengelolaan limbah B3 bertujuan untuk menghilangkan atau mengurangi\nsifat bahaya dan beracun limbah B3 agar tidak membahayakan kesehatan\nmanusia dan untuk mencegah terjadinya pencemaran dan kerusakan\nlingkungan."
+   }
+  },
+  {
+   "id": "ID-H707-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\nLimbah yang termasuk limbah B3 adalah limbah yang memenuhi salah\nsatu atau lebih karakteristik:\na. mudah meledak;\nb. mudah terbakar;\nc. bersifat reaktif;\nd. beracun;\ne. menyebabkan…\nPRESIDEN\nREPUBLIK INDONESIA\ne. menyebabkan infeksi;\nf. bersifat korosif, dan\ng. limbah lain yang apabila diuji dengan metode toksikologi dapat\ndiketahui termasuk dalam jenis limbah B3."
+   }
+  },
+  {
+   "id": "ID-H707-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\n(1) Jenis limbah B3 meliputi:\na. Limbah B3 dari sumber tidak spesifik;\nb. Limbah B3 dari sumber spesifik;\nc. Limbah B3 dari bahan kimia kadaluwarsa, tumpahan, sisa\nkemasan, dan buangan produk yang tidak memenuhi spesifikasi.\n(2) Perincian dari masing -masing jenis sebagaimana dimaksud dalam\nayat (1) seperti terlampir dalam Peraturan Pemerintah ini."
+   }
+  },
+  {
+   "id": "ID-H707-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\nSetiap orang atau badan usaha dilarang membuang limbah B3 secara\nlangsung ke dalam air, tanah atau udara."
+   }
+  },
+  {
+   "id": "ID-H707-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\n(1) Penghasil limbah B3 wajib melakukan pengolahan limbah B3.\n(2) Penghasil limbah B3 yang tidak mampu melaku kan pengolahan\nlimbah B3 yang dihasilkan, wajib menyerahkan limbah B3 kepada\npengolah limbah B3.\n(3) Apabila...\nPRESIDEN\nREPUBLIK INDONESIA\n(3) Apabila pengolah limbah B3 sebagaimana dimaksud dalam ayat (2)\nbelum tersedia atau tidak memadai untuk mengolah limbah B3,\npengolahan limbah B3 tetap menjadi kewajiban dan tanggung jawab\npenghasilan limbah B3 yang bersangkutan.\n(4) Penyerahan limbah B3 oleh penghasil sebagaimana dimaksud dalam\nayat (2) dapat dilakukan secara langsung kepada pengolah limbah\nB3 atau melalui pengumpul limbah B3.\n(5) Pengumpul limbah B3 wajib menyerahkan limbah B3 yang diterima\ndari penghasil kepada pengolah limbah B3.\n(6) Pengumpul dilarang melakukan kegiatan pengumpulan apabila\npengolah limbah B3 belum tersedia."
+   }
+  },
+  {
+   "id": "ID-H707-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\nPengelolaan limba h radio aktif dilakukan oleh instansi yang\nbertanggungjawab atas pengelolaan radio aktif sesuai dengan peraturan\nperundang-undangan yang berlaku.\nBAB II\nPENYIMPANAN, PENGUMPULAN\nDAN PENGANGKUTAN"
+   }
+  },
+  {
+   "id": "ID-H707-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n(1) Penghasil limbah B3 dapat menyimpan limbah B3 yang\ndihasilkannya paling lama sembilan puluh hari sebelum\nmenyerahkannya kepada pengumpul atau pengolah limbah B3.\n(2) Penyimpanan limbah B3 sebagaimana dimaksud dalam ayat (1),\ndilakukan di tempat penyimpanan yang khusus dibuat untuk itu.\n(3) Tempat...\nPRESIDEN\nREPUBLIK INDONESIA\n(3) Tempat penyimpanan limbah B3 sebagaimana dimaksud dalam ayat\n(2) wajib dibuat dengan kapasitas yang sesuai dengan jumlah\nlimbah B3 yang akan disimpan sementara dan memenuhi syarat\nsebagai berikut:\na. lokasi tempat penyimpanan yang bebas banjir, secara geologi\ndinyatakan stabil;\nb. perancangan bangunan disesuaikan dengan karekteristik limbah\ndan upaya pengendalian pencemaran.\n(4) Ketentuan lebih lanjut mengenai tata cara dan persyaratan teknis\npenyimpanan limbah B3 ditetapkan oleh Badan Pengendalian\nDampak Lingkungan."
+   }
+  },
+  {
+   "id": "ID-H707-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n(1) Penghasil limbah B3 wajib membuat dan menyimpan catatan\ntentang:\na. jenis, karakteristik, jumlah dan waktu dihasilkannya limbah B3;\nb. jenis, karakteristik, jumlah, dan waktu penyerahan limbah B3;\nc. nama pengangkut limbah B3 yang melaksanakan pengiriman\nkepada pengumpul atau pengolah limbah B3.\n(2) Penghasil limbah B3 wajib menyampaikan catatan sebagaimana\ndimaksud dalam ayat (1) sekurang -kurangnya sekali dalam enam\nbulan kepada Badan Pengendalian Dampak Lingkungan.\n(3) Catatan sebagaimana dimaksud dalam ayat (1) dipergunakan untuk:\na. Inventarisasi jumlah limbah B3 yang dihasilkan;\nb. Sebagai bahan evaluasi di dalam rangka penetapan kebijakan\npengelolaan limbah B3."
+   }
+  },
+  {
+   "id": "ID-H707-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10…"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 10\n(1) Pengumpul limbah B3 dapat dilakukan oleh badan usaha yang\nmelakukan kegiatan pengumpulan limbah B3.\n(2) Penghasil limbah B3 dapat bertindak sebagai pengumpul limbah\nB3.\n(3) Apabila penghasil limbah B3 bertindak sebagai pengumpul limbah\nB3, maka wajib memenuhi segal a ketentuan yang berlaku bagi\npengumpul limbah B3."
+   }
+  },
+  {
+   "id": "ID-H707-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\n(1) Pengumpul limbah B3 wajib memenuhi persyaratan:\na. memperhatikan karekateristik limbah B3;\nb. mempunyai laboratorium yang dapat mendeteksi karakteristik\nlimbah B3;\nc. mempunyai lokasi minimum satu hektar;\nd. memiliki fasilitas untuk penanggulangan terjadinya kecelakaan;\ne. konstruksi dan bahan bangunan disesuaikan dengan karakteristik\nlimbah B3;\nf. lokasi tempat pengumpulan yang bebas banjir, secara geologi\ndinyatakan stabil, jauh dari sumber air, tidak merupakan daerah\ntangkapan air dan jauh dari pemukiman atau fasilitas umum\nlainnya.\n(2) Ketentuan lebih lanjut mengenai persyaratan sebagaimana\ndimaksud dalam ayat (1) ditetapkan oleh Badan Pengendalian\nDampak Lingkungan."
+   }
+  },
+  {
+   "id": "ID-H707-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12…"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 12\n(1) Pengumpul limbah B3 wajib membuat catatan tentang:\na. jenis, karakteristik, jumlah limbah B3 dan waktu diterimanya\nlimbah B3 dari penghasil limbah B3;\nb. jenis, karakteristik, jumlah, dan waktu penyerahan limbah B3\nkepada pengolah limbah B3;\nc. nama pengangkut limbah B3 yang melaksanakan pengiriman\nkepada pengumpul dan kepada pengolah limbah B3.\n(2) Pengumpul limbah B3 wajib menyampaikan catatan sebagaimana\ndimaksud dalam ayat (1) sekurang -kurangnya sekali dalam enam\nbulan kepada Badan Pengendalian Dampak Lingkungan."
+   }
+  },
+  {
+   "id": "ID-H707-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\n(1) Pengumpul limbah B3 dapat menyimpan limbah B3 yang\ndikumpulkannya selama sembilan puluh hari sebelum diserahkan\nkepada pengolah limbah B3.\n(2) Pengumpul limbah B3, bertanggungjawab terhadap limbah B3 yang\ndikumpulkan dan disimpannya."
+   }
+  },
+  {
+   "id": "ID-H707-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\n(1) Pengangkutan limbah B3 dapat dilakukan badan usaha yang\nmelakukan kegiatan pengangkutan limbah B3.\n(2) Penghasil limbah B3 dapat bertindak sebagai pen gangkut limbah\nB3.\n(3) Apabila...\nPRESIDEN\nREPUBLIK INDONESIA\n(3) Apabila penghasil limbah B3 bertindak sebagai pengangkut limbah\nB3, maka wajib memenuhi ketentuan yang berlaku bagi pengangkut\nlimbah B3."
+   }
+  },
+  {
+   "id": "ID-H707-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\n(1) Penyerahan limbah B3 oleh penghasil atau pengumpul kepada\npengangkut wajib disertai dokumen limbah B3.\n(2) Pengangkut limbah B3 wajib memiliki dokumen limbah B3 untuk\nsetiap kali mengangkut limbah B3.\n(3) Bentuk dokumen limbah B3 sebagaimana dimaksud dalam ayat (1)\nditetapkan oleh Badan Pengendalian Dampak Lingkungan dengan\nmemperhatikan pertimbangan Menteri Perhubungan."
+   }
+  },
+  {
+   "id": "ID-H707-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\nPengangkut limbah B3 wajib menyerahkan limbah B3 dan dokumen\nlimbah B3 sebagaimana dimaksud dalam Pasal 15 ayat (1) kepada\npengumpul atau pengolah limbah B3 yang ditunjuk oleh penghasil\nlimbah B3."
+   }
+  },
+  {
+   "id": "ID-H707-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\nPengangkutan limbah B3 dilakukan dengan alat ang kut khusus yang\nmemenuhi persyaratan dan tata cara pengangkutan yang ditetapkan\nberdasarkan peraturan perundang-undangan yang berlaku.\nBAB III…\nPRESIDEN\nREPUBLIK INDONESIA\nBAB III\nPENGOLAHAN"
+   }
+  },
+  {
+   "id": "ID-H707-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\n(1) Pengolah limbah B3 wajib membuat analisis dampak lingkungan,\nrencana pengelolaan lingkungan dan rencana pemantauan\nlingkungan untuk menyelenggarakan kegiatannya baik secara\nsendiri maupun secara terintegrasi dengan kegiatan utamanya.\n(2) Pengolah limbah B3 yang mengoperasikan insinerator wajib\nmempunyai:\na) insnerator dengan spesifikasi sesuai dengan karakteristik dan\njumlah limbah yang diolah;\nb) alat pencegahan pencemaran udara untuk memenuhi standar\nemisi cerobong, efisiensi pembakaran yaitu 99,99% dan\nefisiensi penghancuran dan penghilangan sebagai berikut:\n1) efisiensi penghancuran dan penghilangan untuk Polyorganic\nhudrocarbons (POHCs) 99,99%;\n2) efisiensi penghancuran dan penghilangan untuk\nPolychlorinated biphenyl (PCBs) 99,9999%;\n3) efisiensi penghancuran dan penghilangan untuk\nPolychlorinated dibenzofurans 99,9999%;\n4) efisiensi penghancuran dan penghilangan untuk\nPolychlornated dibenzo-pdioxins 99,9999%.\nc) Residu dari proses pembakaran pada abu insinerator harus\nditimbun dengan mengikuti ketentuan tentang stabilisasi dan\nsolidifikasi atau penimbunan (landfill).\n(3) pengolah...\nPRESIDEN\nREPUBLIK INDONESIA\n(3) pengolah limbah B3 yang melakukan pengolahan stabilisasi dan\nsolidifikasi wajib memenuhi ketentuan:\na. bahan pencampur harus dapat mengikat bahan be rbahaya dan\nberacun sehingga menurunkan sifat racun dan/atau sifat\nbahayanya sampai nilai ambang batas yang telah ditetapkan;\nb. hasil stabilisasi dan solidifikasi harus dianalisa dengan prosedur\nekstraksi untuk menentukan mobilitas senyawa organik dan\nanorganik (Toxicity Characteristic Leaching Procedure).\n(4) Pengolah limbah B3 yang melakukan pengolahan secara fisika dan\nkimia yang menghasilkan:\na. limbah cair, maka limbah cair tersebut wajib memenuhi\nPeraturan Pemerintah Nomor 20 Tahun 1990 tentang\nPengendalian Pencemaran Air;\nb. limbah gas dan debu, maka limbah gas dan debu tersebut wajib\nmemenuhi peraturan perundang -undangan yang berlaku tentang\npengendalian pencemaran udara dan keselamatan kerja;\nc. limbah padat, harus mengikuti ketentuan tentang s tabilisasi dan\nsolidifikasi, dan/atau penimbunan, dan/atau insinerator;\n(5) Pengolah limbah B3 yang melakukan pengolahan dengan cara\nmenimbun wajib memenuhi ketentuan:\na. pemilihan lokasi untuk penimbunan harus memenuhi syarat:\n1) bebas dari banjir;\n2) permeabilitas tanah maksimum 10 pangkat negatip 7 cm per\ndetik;\nPRESIDEN\nREPUBLIK INDONESIA\n3) merupakan...\n3) merupakan lokasi yang ditetapkan sebagai lokasi pembuangan\nlimbah atau lokasi industri berdasarkan rencana penataan\nruang;\n4) merupakan daerah yang secara geologi dinyatakan stabil;\n5) tidak merupakan daerah resapan air tanah yang khususnya\ndigunakan untuk air minum;\nb. penimbunan harus dibangun dengan menggunakan sistem\npelapisan rangkap dua yang dilengkapi dengan saluran unt uk\npengaturan aliran air permukaan, pengumpulan air lindi dan\npengolahannya, sumur pantau dan lapisan penutup akhir yang\ntelah disetujui Badan Pengendalian Dampak Lingkungan.\nc. penimbunan yang sudah penuh harus ditutup dengan tanah, dan\nselanjutnya perun tukan tempat tersebut tidak dapat dijadikan\npermukiman atau fasilitas lainnya.\n(6) Ketentuan lebih lanjut mengenai persyaratan teknis pengolahan\nlimbah B3 ditetapkan oleh Badan Pengendalian Dampak\nLingkungan."
+   }
+  },
+  {
+   "id": "ID-H707-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\n(1) Lokasi penimbunan hasil pengolah an limbah B3 wajib memenuhi\npersyaratan sebagai berikut:\na. bebas dari banjir;\nb. permeabilitas tanah maksimum 10 pangkat negatip 7 cm per\ndetik;\nc. merupakan lokasi yang ditetapkan sebagai lokasi penimbunan\nlimbah berdasarkan rencana penataan ruang;\nPRESIDEN\nREPUBLIK INDONESIA\nd. merupakan...\nd. merupakan daerah yang secara geologi dinyatakan stabil;\ne. tidak merupakan daerah resapan air tanah khususnya digunakan\nuntuk air minum;\n(2) Ketentuan lebih lanjut mengenai tata cara dan persyaratan\npenimbunan hasil pengolahan limbah B3 ditetapkan oleh Badan\nPengendalian Dampak Lingkungan."
+   }
+  },
+  {
+   "id": "ID-H707-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\n(1) Terhadap lokasi bekas pengolahan dan bekas penimbunan limbah\nB3, pengolah termasuk penimbun wajib melaksanakan hal -hal\nsebagai berikut:\na. lokasi tersebut dilapisi pada bagian paling atas dengan cara\nmenutup dengan tanah yang mempunyai ketebalan minimum\n0,60 mm;\nb. dipagar dan diberi tanda tempat penimbunan limbah B3;\nc. melakukan pemantauan air bawah tanah dan menanggulangi\ndampak lainnya yang mungkin timbul akibat keluarnya limbah\nB3 ke lingkungan, selama minimum tiga puluh tahun terhitung\nsejak ditutupnya seluruh fasilitas pengolahan dan penimbunan\nlimbah B3.\n(2) Ketentuan lebih lanjut mengenai pelaksanaan kewajiban\nsebagaimana dimaksud dalam ayat (1) ditetapkan oleh Badan\nPengendalian Dampak Lingkungan.\nPRESIDEN\nREPUBLIK INDONESIA\nBAB IV…\nBAB IV\nPERIZINAN"
+   }
+  },
+  {
+   "id": "ID-H707-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\n(1) Setiap badan usaha yang melakukan kegiatan pengumpulan,\npengangkutan, pengolahan termasuk penimbunan akhir limbah B3\nwajib memiliki izin sebagai berikut:\na. Dari Badan Pengendalian Dampak Lingkungan untuk kegiatan\npengumpulan atau pengolahan termasuk penimbunan akhir;\nb. Dari Menteri Perhubungan untuk kegiatan pengangkutaan setelah\nmendapat pertimbangan Badan Pengendalian Dampak\nLingkungan.\n(2) Kegiatan pengolahan limbah B3 yang terintegrasi dengan kegiatan\npokok wajib memperoleh izin operasi alat pengolahan dan\npenyimpanan limbah B3 yang dikeluarkan oleh Badan Pengendalian\nDampak Lingkungan dan dilakukan sesuai dengan ketentuan\nPeraturan Pemerintah ini.\n(3) Persyarakatan untuk memperoleh izin sebagaimana dimaksud dalam\nayat (1) huruf a dan ayat (2) adalah sebagai berikut:\na. memiliki akte pendirian sebagai badan usaha yang berbentuk\nbadan hukum, yang telah disahkan oleh instansi yang berwenang;\nb. nama dan alamat badan usaha yang memohon izin;\nc. kegiatan yang dilakukan;\nd. lokasi tempat kegiatan;\ne. nama dan alamat penanggung jawab kegiatan;\nf. bahan baku dan proses kegiatan yang digunakan;\nPRESIDEN\nREPUBLIK INDONESIA\ng. spesifikasi...\ng. spesifikasi alat pengolah limbah B3;\nh. jumlah dan karakteristik limbah B3 yang dikumpulkan, diangkut\natau diolah;\ni. tata letak saluran limbah, pengolahan limbah dan tempat\npenampungan sementara limbah B3 sebelum diolah dan tempat\npenimbunan setelah diolah;\nj. alat pencegahan pencemaran un tuk limbah cair, emisi, dan\npengolahan limbah B3.\n(4) Ketentuan lebih lanjut mengenai tata cara memperoleh izin\nsebagaimana dimaksud dalam ayat (1) huruf a dan ayat (2),\nditetapkan oleh Badan Pengendalian Dampak Lingkungan, dan ayat\n(1) huruf b ditetapkan oleh Menteri Perhubungan."
+   }
+  },
+  {
+   "id": "ID-H707-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\n(1) Izin lokasi pengolahan limbah B3 diberikan oleh Kepala Kantor\nPertanahan Kabupaten/Kotamadya sesuai rencana tata ruang setelah\nmendapat rekomendasi dari Badan Pengendalian Dampak\nLingkungan.\n(2) Rekomendasi sebagaim ana dimaksud dalam ayat (1) didasarkan\npada hasil penelitian tentang dampak lingkungan dan kelayakan\nteknis seperti geohidrologi dari lokasi yang diusulkan."
+   }
+  },
+  {
+   "id": "ID-H707-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\n(1) Untuk kegiatan pengolahan limbah B3 wajib dibuatkan analisis\ndampak lingkungan, renc ana pengelolaan lingkungan, dan rencana\nPRESIDEN\nREPUBLIK INDONESIA\npemantauan lingkungan.\n(2) Dokumen...\n(2) Dokumen analisis dampak lingkungan, rencana pengelolaan\nlingkungan dan rencana pemantauan lingkungan d iajukan bersama\ndengan permohonan izin operasi sebagaimana dimaksud dalam\nPasal 21 kepada Badan Pengendalian Dampak Lingkungan.\n(3) Keputusan persetujuan atas analisis dampak lingkungan, rencana\npengelolaan dampak lingkungan, dan rencana pemamtauan\nlingkungan diberikan oleh Badan Pengendalian Dampak\nLingkungan."
+   }
+  },
+  {
+   "id": "ID-H707-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 24\n(1) Keputusan mengenai permohonan izin sebagaimana dimaksud\ndalam Pasal 21 ayat (2) diberikan selambat -lambatnya tiga puluh\nhari kerja terhitung sejak disetujuinya rencana pengelolaan\nlingkungan dan rencana pemantauan lingkungan oleh instansi yang\nbertanggung jawab.\n(2) Syarat dan kewajiban tersebut dalam rencana pengelolaan\nlingkungan dan rencana pemantauan lingkungan yang telah\ndisetujui oleh instansi yang bertanggung jawab merupakan bag ian\nyang tidak dapat dipisahkan dari izin sebagaimana dimaksud dalam\nPasal 21."
+   }
+  },
+  {
+   "id": "ID-H707-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\n(1) Apabila penghasil limbah B3 juga bertindak sebagai pengolah\nlimbah B3 dan lokasi pengolahannya sama dengan lokasi kegiatan\nutamanya, maka analisis dampak lingkung an untuk kegiatan\npengolahan limbah B3 dibuat secara terintegrasi dengan analisis\nPRESIDEN\nREPUBLIK INDONESIA\ndampak lingkungan untuk kegiatan utamanya.\n(2) Apabila...\n(2) Apabila pengolahan limbah B3 dilakukan oleh penghasil limbah B3\ndi lokasi kegiatan utamanya, maka hanya rencana pengelolaan\nlingkungan dan rencana pemantauan lingkungan yang telah\ndisetujui oleh instansi yang bertanggungjawab yang diajukan\nkepada Badan Pengendalian Dampak Lingkungan bersama dengan\npermohonan izin sebagaimana dimaksud dalam Pasal 21 ayat (2).\n(3) Keputusan mengenai permohonan izin sebagimana dimaksud dalam\nayat (2) diberikan oleh Badan Pengendalian Dampak Lingkungan\nselambat-lambatnya tiga puluh hari kerja terhitung sejak\nditerimanya rencana pengelolaan lingkungan dan rencana\npemantauan lingkungan ya ng telah disetujui oleh instansi yang\nbertanggungjawab di bidangnya.\n(4) Syarat dan kewajiban tersebut dalam rencana pengelolaan\nlingkungan dan rencana pemantauan lingkungan sebagaimana\ndimaksud dalam ayat (2) merupakan bagian yang tidak terpisahkan\ndari izin sebagaimana dimaksud dalam Pasal 21 ayat (2)."
+   }
+  },
+  {
+   "id": "ID-H707-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\nApabila penghasil limbah B3 juga bertindak sebagai pengolah limbah B3\ndan lokasi pengolahannya berbeda dengan lokasi kegiatan usahanya,\nmaka terhadap kegiatan pengolahan limbah B3 tersebut berlaku\nketentuan mengenai pengolahan limbah B3 dalam Peraturan Pemerintah\nini.\nPRESIDEN\nREPUBLIK INDONESIA\nBAB V…\nBAB V\nPENGAWASAN"
+   }
+  },
+  {
+   "id": "ID-H707-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\n(1) Setiap orang atau badan usaha dilarang memasukkan limbah B3\ndari luar negeri ke dalam wilayah Negara Republik Indonesia.\n(2) Pengangkatan limbah B3 dari luar negeri melalui wilayah Negara\nRepublik Indonesia, wajib dilakukan dengan memberitahukan\nterlebih dahulu secara tertulis kepada Pemerintah Republik\nIndonesia.\n(3) Pengiriman limbah B3 ke luar negeri dapat dilakukan setelah\nmendapat persetujuan tertulis dari pemerintah negara penerima dan\nmendapatkan izin tertulis dari Pemerintah Republik Indonesia.\n(4) Ketentuan lebih lanjut mengenai tata cara pengiriman limbah B3 ke\nluar negeri ditetapkan oleh Menteri Perhubungan setelah men dapat\npertimbangan Badan Pengendalian Dampak Lingkungan."
+   }
+  },
+  {
+   "id": "ID-H707-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\nSetiap badan usaha yang melakukan penyimpanan pengumpulan,\npengangkutan, pengolahan termasuk penimbunan limbah B3 dilarang\nmelakukan pengenceran untuk maksud menurunkan daya racun limbah\nB3."
+   }
+  },
+  {
+   "id": "ID-H707-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\nPRESIDEN\nREPUBLIK INDONESIA\n(1) Setiap kemasan limbah B3 wajib diberi simbol dan label yang\nmenunjukkan karakteristik dan jenis limbah B3.\n(2) Badan...\n(2) Badan Pengendalian Dampak Lingkungan menetapkan simbol dan\nlabel sebagaimana dimaksud dalam ayat (1) untuk setiap jenis\nlimbah B3."
+   }
+  },
+  {
+   "id": "ID-H707-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\n(1) Pengawasan pengelolaan limbah B3 dilakukan oleh Badan\nPengendalian Dampak Lingkungan dengan memperhatikan\nketentuan Pasal 7.\n(2) Pengawasan sebagaimana dimaksud dalam ayat (1) meliputi\npemantauan penataan persyaratan serta ketentuan teknis dan\nadministratif oleh penghasil, pengumpul, pengangkut, pengolah\ntermasuk penimbun limbah B3."
+   }
+  },
+  {
+   "id": "ID-H707-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\n(1) Pengawas dalam melaksanakan pengawasan pengelolaan limbah B3\ndilengkapi tanda pengenal dan surat tugas yang dikeluarkan oleh\nBadan Pengendalian Dampak Lingkungan.\n(2) Pengawas sebagaimana dimaksud dalam ayat (1) berwenang:\na. memasuki areal lokasi penghasil, pengumpulan, pengolahan\ntermasuk penimbunan akhir limbah B3;\nb. mengambil contoh limbah B3 untuk diperiksa di laboratorium;\nc. meminta keterangan yang berhubungan dengan pelaksanaan\npengelolaan limbah B3;\nPRESIDEN\nREPUBLIK INDONESIA\nd. melakukan pemotretan sebagai kelengkapan laporan\npengawasan."
+   }
+  },
+  {
+   "id": "ID-H707-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32…"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 32\nPenghasil, pengumpul, pengangkut, pengolah termasuk penimbun limbah\nB3 wajib memabantu petugas pengawas dalam melakukan tugas\nsebagaimana dimaksud dalam pasal 31."
+   }
+  },
+  {
+   "id": "ID-H707-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 33\n(1) Badan Pengendalian Dampak Lingkungan menyampaikan laporan\npelaksanaan pengelolaan limbah B3 secara berkala\nsekurang-kurangnya satu kali dalam satu tahun kepada Presiden\ndengan tembusan kepada Menteri yang bertanggungjawab di bidang\npengelolaan lingkungan hidup.\n(2) Menteri yang bertanggung jawab di bidang pengelolaan lingkungan\nhidup mengevaluasi laporan tersebut guna menyusun kebijakan\npengelolaan limbah B3."
+   }
+  },
+  {
+   "id": "ID-H707-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 34\n(1) Untuk menjaga kesehatan kerja dan pengawas yang bekerja di\nbidang pengelolaan limbah B3, dilakukan uji kesehatan secara\nberkala.\n(2) Uji kesehatan pekerja sebagaimana dimaksud dalam ayat (1)\ndiselenggarakan oleh pengelola limbah B3.\n(3) Uji kesehatan bagi pengawas pengelolaan limbah B3 sebagaimana\nPRESIDEN\nREPUBLIK INDONESIA\ndimaksud dalam ayat (1) diselenggarakan oleh instansi yang\nbertanggungjawab di bidang kesehatan tenaga kerja."
+   }
+  },
+  {
+   "id": "ID-H707-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35…"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 35\n(1) Penghasil, pengumpul, pengangkut, dan pengolah limbah B3\nbertanggungjawab atas penanggulangan kecelakaan dan\npencemaran lingkungan akibat lepas atau tumpahnya limbah B3\nyang menjadi tanggungjawabnya.\n(2) Ketentuan lebih lanjut mengenai penanggulangan kecelakaan dan\npencemaran sebagaimana dimaksud dalam ayat (1) ditetapkan\ndengan Badan Pengendalian Dampak Lingkungan."
+   }
+  },
+  {
+   "id": "ID-H707-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 36\n(1) Penghasil, pengumpul, pengangkut, dan pengolah limbah B3 wajib\nsegera menanggulangi pencemaran atau kerusakan lingkungan\nakibat kegiatannya.\n(2) Apabila penghasil, pengumpul, pengangkut , dan pengolah limbah\nB3 tidak melakukan penanggulangan sebagaimana dimaksud dalam\nayat (1), atau menanggulangi tetapi tidak sebagaimana mestinya,\nmaka Badan Pengendalian Dampak Lingkungan atau pihak ketiga\ndengan permintaan Badan Pengendalian Dampak Lingkungan dapat\nmelakukan penanggulangan dengan biaya yang dibebankan kepada\npenghasil, pengumpul, pengangkut, dan/atau pengolah limbah B3\nyang bersangkutan.\nPRESIDEN\nREPUBLIK INDONESIA\nBAB VI…\nBAB VI\nSANKSI"
+   }
+  },
+  {
+   "id": "ID-H707-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 37\n(1) Badan Pengendalian Dampak Lingkungan memberi peringatan\ntertulis kepada penghasil, pengumpul, pengangkut, dan pengolah\nyang melanggar ketentuan Pasal 5, Pasal 6, Pasal 8, Pasal 9 dan\nPasal 11 ayat (1), Pasal 12, Pasal 13, Pasal 15, Pasal 16, Pasal 18,\nPasal 19, Pasal 20 ayat (1), Pasal 21, Pasal 28 dan Pasal 29 ayat (1).\n(2) Apabila dalam jangka waktu lima belas hari sejak dikeluarkannya\nperingatan tertulis sebagaimana dimaksud dalam ayat (1) pihak\nyang diberi peringatan tidak mengindahkan peringatan atau tetap\ntidak mematuhi keten tuan pasal yang dilanggarnya, maka Badan\nPengendalian Lingkungan dapat menghentikan sementara operasi\nalat penyimpanan, dan pengumpulan, pengolahan termasuk\npenimbunan limbah B3 sampai pihak yang diberi peringatan\nmematuhi ketentuan yang dilanggarnya.\n(3) Badan Pengendalian Dampak Lingkungan wajib dengan segera\nmencabut keputusan penghentian kegiatan sebagaimana dimaksud\ndalam ayat (2) apabila pihak yang diberi peringatan telah mematuhi\nketentuan yang dilanggarnya."
+   }
+  },
+  {
+   "id": "ID-H707-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 38\nPRESIDEN\nREPUBLIK INDONESIA\nPengangkut limbah B3 yang melan ggar ketentuan Pasal 17 dikenakan\nsanksi menurut ketentuan dalam peraturan perundang -undangan yang di\nbidang perhubungan."
+   }
+  },
+  {
+   "id": "ID-H707-A39",
+   "no": 39,
+   "noLabel": {
+    "id": "Pasal 39…"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 39\nBadan usaha yang melanggar ketentuan Pasal 5, Pasal 6, Pasal 8, Pasal\n10, Pasal 13, Pasal 14, Pasal 17, Pasal 18 ayat (2), Pasal 19, Pasal 20,\nPasal 21, Pasal 28 dan Pasal 35 ayat (1) yang mengakibatkan terjadinya\npencemaran dan/atau kerusakan lingkungan diancam dengan pidana\nsebagaimana dimaksud dalam ketentuan Pasal 22 Undang-undang Nomor\n4 Tahun 1982 tentang Ke tentuan-ketentuan Pokok Pengelolaan\nLingkungan Hidup.\nBAB VII\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H707-A40",
+   "no": 40,
+   "noLabel": {
+    "id": "Pasal 40"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 40\n(1) Apabila pada saat berlakunya Peraturan Pemerintah ini telah\ndilakukan pembuangan dan/atau penimbunan limbah B3 yang tidak\nmemenuhi persyaratan sebagaimana dimaksud dalam Peraturan\nPemerintah ini, maka setiap orang atau badan usaha yang\nmenghasilkan, mengumpulkan, mengangkut atau mengolah limbah\nB3 baik masing -masing maupun bersama -sama secara proposional\nwajib melakukan pembersihan dan/atau pemu lihan lingkungan\nPRESIDEN\nREPUBLIK INDONESIA\ndalam jangka waktu selambat-lambatnya lima tahun.\n(2) Apabila...\n(2) Apabila orang atau badan usaha yang menghasilkan,\nmengumpulkan, mengangkut atau mengolah limbah B3\nsebagaimana dimaksud dalam ayat (1), tidak melakukan\npembersihan dan pemulihan lingkungan, maka Badan Pengendalian\nDampak Lingkungan dapat melakukan atau meminta pihak ketiga\nmelakukan pembersihan atau pemulihan lingkungan dengan biaya\nyang dibebankan kepada orang atau badan usaha yang\nmenghasilkan, mengumpulkan, mengangk ut dan mengolah limbah\nB3, baik secara sendiri maupun bersama-sama secara proposional."
+   }
+  },
+  {
+   "id": "ID-H707-A41",
+   "no": 41,
+   "noLabel": {
+    "id": "Pasal 41"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 41\nSetiap orang atau badan usaha yang sudah melakukan kegiatan\npengumpulan, ataupun pengolahan pada saat berlakunya Peraturan\nPemerintah ini, wajib meminta izin sebagaimana dimaksud dalam Pasal\n21 selambat -lambatnya dalam waktu satu tahun terhitung sejak saat\nberlakunya Peraturan Pemerintah ini.\nBAB VIII\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H707-A42",
+   "no": 42,
+   "noLabel": {
+    "id": "Pasal 42"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 42\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nPRESIDEN\nREPUBLIK INDONESIA\nAgar…\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran\nNegara Republik Indonesia.\nDitetapkan di Jakarta\npada tanggal 30 April 1994\nPRESIDEN REPUBLIK INDONESIA,\nttd.\nSOEHARTO\nDiundangkan di Jakarta\npada tanggal 30 April 1994.\nMENTERI NEGARA SEKRETARIS NEGARA\nREPUBLIK INDONESIA,\nttd.\nMOERDIONO\nLEMBARAN NEGARA REP[UBLIK INDONESIA TAHUN 1994 NOMOR 26\nPRESIDEN\nREPUBLIK INDONESIA\nPENJELASAN\nATAS\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nNOMOR 19 TAHUN 1994\nTENTANG\nPENGELOLAAN LIMBAH BAHAN BERBAHAYA DAN BERACUN\nUMUM\nkegiatan pembangunan bertujuan meningkatkan kesejahteraan hidup rakyat dan\ndilaksanakan melalui rencana pembangunan jangka panjang yang bertumpu pada\npembangunan di bidang industri.\nPembangunan di bidang industri tersebut di satu pihak akan menghasilkan ba rang yang\nbermanfaat bagi kesejahteraan hidup rakyat, dan di lain pihak industri itu juga akan\nmenghasilkan limbah.\nDi antara limbah yang dihasilkan oleh kegiatan industri tersebut terdapat limbah bahan\nberbahaya dan beracun (B3). Limbah B3 yang dibuang la ngsung ke dalam lingkungan\ndapat menimbulkan bahaya terhadap lingkungan dan kesehatan manusia serta makhluk\nhidup lainnya. Mengingat resiko tersebut, perlu diupayakan agar setiap kegiatan industri\ndapat menghasilkan limbah B3 seminimal mungkin. Minimalisas i limbah B3\ndimaksudkan agar limbah B3 yang dihasilkan masing -masing unit produksi sesedikit\nmungkin dan bahkan diusahakan sampai nol, dengan cara antara lain, reduksi pada\nsumber dengan pengolahan bahan, subsitusi bahan, pengaturan operasi kegiatan, dan\nteknologi bersih. Untuk menghilangkan atau mengurangi sifat bahaya dan beracunnya,\nlimbah B3 yang telah dihasilkan perlu dikelola secara khusus.\nPengelolaan limbah B3 merupakan suatu rangkaian kegiatan yang mencakup\npenyimpanan, pengumpulan, pengangkutan, dan pengolahan limbah B3 termasuk\npenimbunan hasil pengolahan tersebut. Dalam rangkaian kegiatan tersebut terkait\nbeberapa pihak yang masing -masing merupakan mata rantai dalam pengelolaan limbah\nB3, yaitu :\na. Penghasil limbah B3;\nb. Pengumpul limbah B3;\nc. Pengangkut limbah B3;\nd. Pengolah limbah B3.\nDengan…\nPRESIDEN\nREPUBLIK INDONESIA\nDengan pengelolaan limbah sebagaimana tersebut d i atas, maka mata rantai siklus\nperjalanan limbah B3 sejak dihasilkan oleh penghasil limbah B3 sampai penimbunan\nakhir oleh pengolah limbah B3 dapat diawasi. Setiap mata rantai perlu diatur, sedangkan\nperjalanan limbah B3 dikendalikan dengan sistem manifes t berupa dokumen limbah B3.\nDengan sistem manifest dapat diketahui berapa jumlah limbah B3 yang dihasilkan dan\nberapa yang telah dimasukkan ke dalam proses pengolahan dan penimbunan tahap akhir.\nPASAL DEMI PASAL\nPasal 1\nAngka 1\nYang dimaksud dengan bahan sisa suatu kegiatan antara lain adalah bahan sisa yang\ndihasilkan dari kegiatan rumah tangga, industri, pertambangan dan kegiatan lain\nyang limbahnya merupakan limbah B.\nAngka 2\nLimbah berbahaya dan beracun ini antara lain ada lah bahan baku yang bersifat\nberbahaya dan beracun yang tidak digunakan karena rusak, sisa pada kemasan,\ntumpahan, sisa proses, sisa oli bekas dari kapal yang memerlukan penanganan dan\npengolahan khusus.\nAngka 3\nCukup jelas\nAngka 4\nCukup jelas\nAngka 5\nCukup jelas\nAngka 6…\nPRESIDEN\nREPUBLIK INDONESIA\nAngka 6\nCukup jelas\nAngka 7\nProses mengubah karakteristik dan komposisi limbah B3 dilakukan agar limbah\ntersebut menjadi tidak berbahaya dan atau beracun. Proses tersebut dapat dilakukan\ndengan menggunakan teknologi yang sesuai, seperti stabilisasi dan solidifikasi,\ninsinerasi, penimbunan (landfill) netralisasi. Apabila teknologi tersebut tidak dapat\nditerapkan, maka harus digunakan teknologi terbaik yang tersedia yang dapat\nmengolah limbah tersebut, seperti pertukara n ion dan \"sel membrane\". Dalam\npengertian daur ulang (recycling) meliputi proses pengolahan dengan cara perolehan\nkembali (recovery) dan penggunaan kembali (reuse).\nAngka 8\nCukup jelas\nAngka 9\nCukup jelas\nPasal 2\nYang dimaksud dengan melindungi kesehatan manusia dan lingkungan hidup adalah\nupaya yang dilakukan agar tidak terjadi antara lain sakit, cacat dan/atau kematian\nserta terjadinya pencemaran dan/atau kerusakan lingkungan akibat limbah B3.\nPasal 3\nLangkah pertama yang dilakukan dalam pengelol aan limbah B3 adalah\nmengklasifikasikan limbah dari penghasil tersebut apakah termasuk limbah B3 atau\ntidak.\nPengklasifikasian ini akan memudahkan pihak penghasil, pengangkut, atau pengolah\ndalam mengenali limbah B3 tersebut sedini mungkin.\nDalam mengklasifikasikan limbah, penghasil harus mengindentifikasikan\nkarakteristik limbah yang dihasilkan. Namun demikian karakteristik dan prosedur\nanalitik merupakan hal yang penting dalam identifikasi limbah B3 pada suatu jenis\nindustri atau kegiatan lain yang menghasilkan limbah B3.\nMengidentifikasi…\nPRESIDEN\nREPUBLIK INDONESIA\nMengindentifikasi limbah sebagai limbah B3 dilakukan melalui tahapan sebagai\nbeerikut :\na. identifikasi jenis limbah yang dihasilkan;\nb. mencocokkan jenis limbah dengan daftar jenis limbah B3, dan apabi la cocok\ndengan daftar jenis limbah B3, maka limbah tersebut termasuk limbah B3;\nc. apabila tidak cocok dengan daftar jenis limbah B3, maka periksa apakah\nlimbah tersebut memiliki karakteristik : mudah meledak atau mudah terbakar\natau beracun atau bersifa t reaktif atau menyebabkan infeksi atau bersifat\nkorosif.\nApabila tidak memiliki karakteristik sebagaimana tersebut huruf c, maka dilakukan\nuji toksikologi.\nDalam ketentuan ini yang dimaksud dengan:\na. Limbah mudah meledak adalah limbah yang melalui reaksi kimia dapat\nmenghasilkan gas dengan suhu dan tekanan tinggi yang dengan cepat dapat\nmerusak lingkungan sekitarnya.\nb. Limbah mudah terbakar adalah limbah yang apabila berdekatan dengan api,\npercikan api, gesekan atau sumber nyala lain akan mudah me nyala atau\nterbakar dan apabila telah nyala akan terus terbakar hebat dalam waktu lama.\nc. Limbah yang bersifat reaktif adalah limbah yang menyebabkan kebakaran\nkarena melepaskan atau menerima oksigen atau limbah organik peroksida yang\ntidak stabil dalam suhu tinggi.\nd. Limbah beracun adalah limbah yang mengandung racun yang berbahaya bagi\nmanusia dan lingkungan. Limbah B3 dapat menyebabkan kematian dan sakit\nyang serius. Apabila masuk ke dalam tubuh melalui pernafasan, kulit, atau\nmulut. Prosedur ekstrak si untuk menentukan senyawa organik dan anorganik\n(Toxicity Characteristic Leaching Procedure) dapat digunakan untuk\nidentifikasi limbah. Nilai ambang batasnya ditetapkan oleh Badan\nPengendalian Dampak Lingkungan.\ne. Limbah yang menyebabkan infeksi.\nBagian tubuh manusia yang diamputasi dan cairan dari tubuh manusia yang\nterkena infeksi, limbah dari laboratorium atau limbah lainnya yang terinfeksi\nkuman penyakit yang dapat menular. Limbah ini berbahaya karena\nmengandung kuman penyakit seperti hepatitis d an kolera yang ditularkan pada\npekerja, pembersih jalan, dan masyarakat di sekitar lokasi pembuangan limbah.\nf. Limbah…\nPRESIDEN\nREPUBLIK INDONESIA\nf. Limbah bersifat korosif.\nLimbah yang menyebabkan iritasi (terbakar) pada kulit atau mengkorosikan\nbaja. Limbah ini mempunyai pH sama atau kurang dari 2,0 untuk limbah\nbersifat asam dan sama atau lebih besar dari 12,5 untuk yang bersifat basa.\ng. Yang dimaksud dengan LD -50 (Lethal Dose Fifty) adalah perhitungan dosis)\ngram pencemar per kilogram berat badan) yang dapat menyebabkan kematian\n50% populasi makhluk hidup yang dijadikan percobaan. Apabila LD -50 lebih\nbesar dari 15 gram per kilogram maka limbah tersebut bukan limbah B3.\nPasal 4\nAyat (1)\nLimbah B3 dari sumber tidak spesifik adalah limbah B3 yang berasal bukan\ndari proses utamanya, tetapi berasal dari kegiatan pemeliharaan alat,\npencucian, inhibitor korosi, pelarutan kerak, pengemasan, dan lain-lain.\nLimbah B3 dari su mber spesifik adalah limbah B3 sisa proses suatu industri\natau kegiatan tertentu.\nDisebut limbah B3 dari bahan kimia kadaluwarsa, tumpahan, sisa kemasan,\natau buangan produk yang tidak memenuhi spesifikasi, karena tidak memenuhi\nspesifikasi yang ditentukan atau tidak dapat dimanfaatkan kembali, maka suatu\nproduk menjadi limbah B3 yang memerlukan pengelolaan seperti limbah B3\nyang memerlukan pengelolaan seperti limbah B3 lainnya. Hal yang sama juga\nberlaku untuk sisa kemasan limbah B3 dan bahan -bahan kimia yang\nkadaluwarsa.\nAyat (2)\nCukup jelas\nPasal 5\nYang dimaksud dengan membuang limbah B3 langsung ke dalam tanah, air atau\nudara adalah pembuangan limbah B3 tanpa pengolahan terlebih dahulu.\nPembuangan limbah B3 ke dalam tanah, air atau udara setelah pengolahan harus\nmemenuhi persyaratan pengolahan dan penimbunan limbah B3.\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 6…\nPasal 6\nAyat (1)\nKetentuan ini dimaksudkan agar limbah B3 yang dihasilkan dap at dikelola\ndengan baik sehingga tidak berbahaya dan/atau beracun lagi, terhadap\nkesehatan manusia dan/atau lingkungan.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nPenyerahan limbah B3 dari penghasil limbah B3 kepada pengolah limbah B3\ndapat dilakukan langsung tanpa melalui pengumpulan limbah B3, apabila\ndengan cara tersebut lebih menguntungkan baginya, baik karena alasan teknis\nmaupun biaya.\nAyat (5)\nPengumpul limbah B3 hanya menampung limbah B3 yang sifatnya sementara\ndan selanjutnya limbah B3 tersebut harus diserahkan kepada limbah B3.\nAyat (6)\nCukup jelas\nPasal 7\nPengelolaan limbah radio aktif dilakukan oleh Badan Tenaga Atom Nasional yang\nmerupakan insta nsi yang bertanggung jawab di bidang pengelolaan limbah radio\naktif sesuai Undang -undang Nomor 31 Tahun 1964 tentang Ketentuan -ketentuan\nPokok tenaga Atom.\nPasal 8\nAyat (1)\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (2)…\nAyat (2)\nYang dimaksud dengan tempat penyimpanan khusus adalah suatu tempat\ntersendiri yang dirancang sesuai dengan karakteristik limbah B3 yang\ndisimpan.\nMisalnya limbah B3 yang reaktif (reduktor kuat) tidak dapat dicampur dengan\nasam mineral pengoksidasi karena dapat menimbulkan panas, gas beracun, dan\napi.\nAyat (3)\nTempat penyimpanan sementara harus dapat menampung jumlah limbah B3\nyang akan disimpan untuk sementara. Misalnya suatu kegiatan industri yang\nmenghasilkan limbah B3, harus menyimpan limbah B3 di tempat penyimpanan\nsementara yang mempunyai kapasitas sesuai dengan kapasitas limbah B3 yang\nakan disimpan dan memenuhi persyaratan teknis, persyaratan kesehatan, dan\nperlindungan lingkungan. Penetapan persyaratan kesehatan dilakukan sesuai\ndengan pertimbangan instansi teknis yang bersangkutan.\nYang dimaksud dengan perancangan bangunan yang disesuaikan dengan\nkarakteristik limbah B3 dan upaya pengendalian pencemaran untuk tempat\npenyimpanan limbah B3 yaitu:\na. bahan konstruksi bangunan harus sesuai de ngan jenis dan karakteristik\nlimbah yang akan disimpan;\nb. lantai harus kuat, tidak bergelombang, kedap air, tidak retak, dan harus\ndibuat melandai turun kearah bak penampung;\nc. harus dibuat tanggul yang mengelilingi setiap bagian ruang penyimpanan;\nd. setiap bagian penyimpanan harus mempunyai bak penampung tersendiri;\ne. sistem dan ukuran saluran pembuangan harus dibuat sedemikian rupa\nsehingga cairan hasil pemadam kebakaran (bila terjadi kebakaran) dapat\nmengalir dengan baik ke kolam darurat;\nf. saluran air/selokan dan lantai di sekeliling bangunan harus dibuat\nsedemikian rupa sehingga air hujan dapat mengalir menurut arah yang\nmenjauhi bangunan penyimpanan limbah B3 dan menuju bak\npenampung;\ng. bangunan harus dirancang terlindung dari masukny a air hujan secara\nlangsung maupun tidak langsung;\nh. bangunan harus dilengkapi dengan penangkal petir;\ni. ventilasi bangunan harus dirancang sedemikian rupa sehingga akumulasi\ngas beracun/berbahaya di dalam ruangan dapat dicegah;\nPRESIDEN\nREPUBLIK INDONESIA\nj. lubang-…\nj. lubang-lubang angin harus dilengkapi dengan kasa atau bahan lainnya\nagar burung atau binatang kecil lainnya tidak memasuki ruangan;\nk. bangunan harus dirancang tanpa plafon untuk mencegah terjadinya\nakumulasi gas pada daerah tersebut;\nl. harus disedi akan ruangan minimal selebar satu meter antara dinding\nbangunan dengan blok penyimpanan yang mengelilingi bagian\npenyimpanan;\nm. penerangan (lampu/cahaya matahari) yang tersedia harus cukup dan\nmemungkinkan pelaksanaan pengoperasian gudang dan inspeksi rutin;\nn. lampu penerangan harus dipasang pada jalan -jalan perlintasan dan\ndipasang minimal satu meter di atas kemasan;\no. semua sakelar (\"stop contact\") untuk gudang yang menyimpan limbah B3\nmudah terbakar harus diusahakan agar terpasang di sisi luar bangunan.\nPertimbangan lain yang perlu diperhatikan, terutama untuk gudang\npenyimpanan yang berlokasi diluar lokasi pabrik atau yang diperuntukkan\nmenerima limbah B3 dari industri/kegiatan pihak lain, adalah:\na. Tempat bongkar-muat kemasan dari dan ke kendaraan pengangkut.\nTempat tersebut harus dilapisi dengan bahan berupa beton atau aspal.\nDianjurkan untuk menggunakan beton karena aspal melunak dalam cuaca\nyang panas dan/atau bila terkena cairan pelarut tertentu. Tempat tersebut\nharus memiliki saluran pembuangan yang menuju ke bak penampung\nagar bila terjadi tumpahan, tidak masuk ke lingkungan.\nb. Bak penampung air.\nharus dibuat bak penampung air (air hujan atau air dari kegiatan\npemadam kebakaran). Air yang tertampung harus di analisa terlebih\ndahulu sebelum dialirkan ke lingkungan. Jika air terkontaminasi limbah\nB3 maka harus diperlakukan sebagai limbah B3. Bak penampun g air\ntersebut harus kedap air.\nPRESIDEN\nREPUBLIK INDONESIA\nc. Fasilitas…\nc. Fasilitas pencucian.\nSetiap pencucian peralatan dan perlengkapan yang digunakan dalam\npengelolaan limbah B3 harus dilakukan di dalam fasilitas pencucian.\nFasilitas pencucian tersebut harus dilengkapi dengan bak penampung\ncairan hasil cucian. Cairan di dalam bak penampung tersebut harus di\nanalisis untuk memperoleh kepastian dapat dialirkan ke lingkungan atau\ntidak.\nSetiap kendaraan yang akan meninggalkan lokasi penyimpanan\nsementara limbah B3 harus dicuci/dibersihkan, minimal pada\nroda-rodanya dan pada bagian luar kendaraan yang terkontaminasi\nlimbah B3.\nd. Fasilitas tambahan.\nFasilitas tambahan yang harus dibuat untuk suatu lokasi penyimpanan\nlimbah B3.\n- rumah jaga dan pintu masuk;\n- sistem pemadam kebakaran;\n- pagar pengaman;\n- pembangkit listrik cadangan;\n- fasilitas pertolongan pertama;\n- peralatan komunikasi;\n- pompa penyedot air/tumpahan limbah;\n- gudang tempat penyimpanan peralatan dan perlengkapan.\nSelain harus memenuhi syarat-syarat umum di atas maka fasilitas penyimpanan\nlimbah B3 harus memenuhi syarat khusus tambahan sebagai berikut:\n1. Rancang bangun untuk bangunan penyimpan limbah B3 yang mudah\nterbakar:\na. konstruksi dinding dibuat dalam kondisi mudah didobrak, kecuali\ndinding/tembok pemisah yang tahan api, sehingga bila terjadi\nkebakaran dapat diterobos untuk memudahkan pekerjaan pemadam\nkebakaran;\nb. jika bangunan berdampingan dengan gudang lain maka harus dibuat\ntembok pemisah yang tahan api. Contoh bangunan tembok yang\ntahan api :\nPRESIDEN\nREPUBLIK INDONESIA\n- jika tembok beton bertulang, tebal minimal 15 cm;\n- jika tembok bata tebal minimal 23 cm;\n- blok-…\n- blok-blok tak bertulang, tebal minimal 30 cm (blok rongga\ntidak direkomendasikan);\nc. untuk stabilisasi struktur yang baik pada tembok penahan api\ndigunakan tiang -tiang beton bertulang dan tidak boleh ditembus\nkabel listrik;\nd. struktur pendukung atap harus terdiri dari bahan yang tidak mudah\nmenyala, konstruksi atap sebaiknya dibuat ringan, rapuh dan mudah\nhancur bila ada kebakaran, sehingga asap dan panas akan mudah\nkeluar;\ne. faktor-faktor lain yang harus diperhatikan:\n- sistem pemadam dan pendeteksi kebakaran;\n- ventilasi bangunan;\n- ukuran tinggi tumpukan penyimpanan;\n- jarak terhadap bangunan lain;\n- jumlah limbah maksimum yang diizinkan disimpan;\n- persediaan air untuk pemadam api;\n- jalan perlintasan;\n- hidran pemadam api;\n- perlindungan terhadap hidran.\n2. Rancang bangun limbah B3 untuk penyimpanan limbah yang mudah\nmeledak:\na. seluruh konstruksi bangunan baik lantai, dinding maupun atap harus\ndibuat dari beton bertulang yang tahan ledakan serta kedap air;\nb. suhu dalam ruangan harus dapat dikontrol dan cahaya matahari tidak\nlangsung masuk ke ruangan gudang;\nPRESIDEN\nREPUBLIK INDONESIA\n3. Rancang bangun untuk penyimpanan limbah B3 yang reaktif, korosif dan\nberacun;\na. konstruksi…\na. konstruksi dinding harus dibuat dengan konstruksi mudah dilepas,\nguna memudahkan pengaman an limbah menjangkau dalam keadaan\ndarurat;\nb. konstruksi atap, dinding dan lantai harus tahan terhadap korosi dan\napi.\nAyat (4)\nCukup jelas\nPasal 9\nAyat (1)\nKonsekuensi dari prinsip bahwa jejak limbah B3 harus diikuti sejak dihasilkan\nsampai penimbunan akhir, maka penghasil limbah B3 wajib membuat dan\nmenyimpan catatan tentang jumlah dan jenis limbah B3 yang dihasilkan dan\ndikirimkan kepada pengumpul atau peng olah limbah B3, serta pengangkut\nyang melaksanakan pengangkutannya.\nApabila pengangkutan dilakukan oleh penghasil sendiri, maka ketentuan\nmengenai catatan pengangkut tidak berlaku.\nAyat (2)\nPenyampaian catatan ini dimaksudkan agar jumlah limbah B3 ya ng dihasilkan\noleh penghasil dapat dipantau oleh Badan Pengendalian Dampak Lingkungan.\nAyat (3)\nDengan diketahuinya jumlah limbah B3 yang dihasilkan, maka akan diketahui\npeta sumber limbah B3 yang menjadi dasar pengembangan kebijakan\npengelolaan limbah B3.\nPasal 10\nAyat (1)\nCukup jelas\nAyat (2)\nKetentuan ini dimaksudkan agar penghasil limbah B3 tidak setiap saat harus\nmenyerahkan limbah B3 yang dihasilkannya kepada pengolah limbah B3.\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (3)…\nAyat (3)\nDengan ketentuan ini, maka penghasil dalam melakukan pengumpulan harus\nmemperhatikan dan mentaati persyaratan yang berlaku bagi pengumpul.\nPasal 11\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 12\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 13\nAyat (1)\nWaktu sembilan puluh hari telah dianggap cukup bagi pengumpul untuk\npenyimpanan sementara limbah B3 tersebut.\nAyat (2)\nDengan ketentuan ini maka segala akibat yang terjadi dari pengumpulan dan\npenyimpanan limbah B3 tersebut adalah tanggung jawab dari pengumpul.\nPasal 14\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (3)\nCukup jelas\nPasal 15…\nPasal 15\nAyat (1)\nYang dimaksud penyerahan limbah B3 dalam ketentuan ini adalah dari\npenghasil atau pengumpul kepada pangangkut untuk diangkut kepada\npengumpul atau pengolah termasuk penimbunan akhir. Dalam dokumen\nlimbah B3 tersebut meliputi juga dokumen muatan sebagaima na dimaksud\ndalam peraturan perundang-undangan di bidang perhubungan.\nAyat (2)\nDokumen limbah B3 adalah surat yang diberikan pada waktu penyerahan\nlimbah B3 oleh penghasil limbah B3 atau pengumpul limbah B3 kepada\npengangkut limbah B3. Dokumen limbah B3 tersebut berisi ketentuan sebagai\nberikut :\na. nama dan alamat penghasil atau pengumpul limbah B3 yang\nmenyerahkan limbah B3;\nb. tanggal penyerahan limbah B3;\nc. nama dan alamat pengangkut limbah B3;\nd. tujuan pengangkutan limbah B3;\ne. jenis, jumlah, komposisi, dan karakteristik limbah B3 yang diserahkan.\nDokumen limbah B3 dibuat dalam rangkap 6 (enam):\na. lembar asli disimpan oleh pengangk ut limbah B3 setelah ditandatangani\noleh penghasil, pengumpul pengolah;\nb. lembar kedua yang sudah ditandatangani pengangkut limbah B3, oleh\npenghasil limbah B3 atau pengumpul dikirimkan kepada Badan\nPengendalian Dampak Lingkungan;\nc. lembar ketiga yang sudah ditandatangani oleh pengangkut disimpan oleh\npenghasil atau pengumpul limbah B3 yang menyerahkan limbah B3\nuntuk diangkut oleh pengangkut limbah B3;\nd. lembar keempat diserahkan kepada pengumpul limbah B3 atau pengolah\nlimbah B3 yang menerima limbah B3 dari pengangkut limbah B3;\nPRESIDEN\nREPUBLIK INDONESIA\ne. lembar kelima dikirimkan kepada Badan Pengendalian Dampak\nLingkungan setelah ditandatangani oleh pengumpul limbah B3 atau\npengolah limbah B3;\nf. lembar…\nf. lembar keenam dikirimkan k epada Gubernur Kepala Daerah Tingkat I\nyang bersangkutan, setelah ditandatangani oleh pengumpul limbah B3\natau pengolah limbah B3.\nAyat (3)\nCukup jelas\nPasal 16\nCukup jelas\nPasal 17\nAlat angkut khusus adalah alat angkut yang dipergunakan khusus untuk mengangkut\nlimbah B3. Yang dimaksud dengan peraturan perundang -undangan di bidang\nperhubungan yaitu Undang -undang Nomor 13 Tahun 1992 tentang Perkeretapian,\nUndang-undang Nomor 14 Tahun 1992 tentang Lalu Lintas dan Angkutan Jalan,\nUndang-undang Nomor 1 5 Tahun 1992 tentang Penerbangan, dan Undang -undang\nNomor 21 Tahun 1992 tentang pelayaran dan peraturan pelaksanaannya.\nPasal 18\nAyat (1)\nCukup jelas\nAyat (2)\nYang dimaksud dengan efisiensi penghancuran dan penghilangan limbah B3\nadalah \"Destructio n Removal Efficiency (DRE)\". Penentuan standar emisi\nudara didasarkan pada standar emisi peraturan perundang -undangan yang\nberlaku bagi parameter konvensional (CO, NO, SO2, Hidrokarbon, TSP,\nAmonia), sedangkan penentuan standar emisi lainnya didasarkan kar akteristik\nlimbah B3, jenis insinerator, kualitas udara setempat dan lainnya sesuai dengan\nperkembangan ilmu pengetahuan dan teknologi.\nAyat (3)\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (4)\nCukup jelas\nAyat (5)…\nAyat (5)\nCukup jelas\nAyat (6)\nCukup jelas\nPasal 19\nAyat (1)\nPenimbunan dalam ketentuan ini merupakan rangkaian kegiatan pengolahan.\nPenimbunan hasil pengolahan limbah B3 adalah tindakan membuang dengan\ncara penimbunan, dimana penimbunan tersebut dirancang sebagai tahap akhir\ndari pengolahan limbah B3 sesuai dengan karakteristik limbah B3 tersebut.\nAyat (2)\nCukup jelas\nPasal 20\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 21\nAyat (1)\nIzin pengumpulan dan/atau izin pengolahan termasuk penimbunan akhir\nlimbah B3 diberikan oleh Badan Pengendalian Dampak Lingkungan,\nsedangkan izin pengangkutan dikeluarkan oleh Menteri yang bertanggung\njawab di bidang perhubungan setelah mendapat pertimbang an dari Badan\nPengendalian Dampak Lingkungan.\nAyat (2)\nPRESIDEN\nREPUBLIK INDONESIA\nYang dimaksud dengan terintegrasi adalah badan usaha pengolahan limbah B3\nmenjadi satu atau dilakukan pada satu tempat yang sama dengan kegiatan\nusaha pokoknya.\nYang…\nYang dimaksud dengan izin operasi alat pengolah limbah B3 adalah izin\nmengenai kelayakan pengoperasian peralatan pengolah limbah B3, misalnya\nkelayakan dari insinerator antara lain effisiensi pembakaran 99,99 %\nmenggunakan alat pengendalian pencemaran udar a. Yang dimaksud dengan\nizin operasi tempat penyimpanan limbah B3 adalah izin kelayakan tempat\npenyimpanan yang khusus untuk itu.\nAyat (3)\nPersyaratan dalam ketentuan ini disesuaikan dengan kegiatan usaha yang akan\ndilakukan yaitu pengumpulan atau pengolahan.\nAyat (4)\nCukup jelas\nPasal 22\nAyat (1)\nPenentuan lokasi pengolahan limbah B3 harus mengikuti rencana tata ruang\ndaerah dan persyaratan teknis.\nAyat (2)\nRekomendasi ini diperlukan dalam rangka pengecekan akhir untuk\nmenentukan apakah lokasi memenuhi syarat sebagai lokasi pengolahan limbah\nB3.\nPasal 23\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 24\nAyat (1)\nCukup jelas\nAyat (2)…\nAyat (2)\nCukup jelas\nPasal 25\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nPasal 26\nCukup jelas\nPasal 27\nAyat (1)\nLarangan ini diperlukan untuk mencegah dijadikannya wi layah yang berada di\nbawah yurisdiksi Negara Republik Indonesia dijadikan sebagai tempat\npembuangan limbah B3.\nAyat (2)\nPemberitahuan yang dimaksud dalam ayat ini pelaksanaannya disampaikan\npada Badan Pengendalian Dampak Lingkungan.\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (3)\nYang d imaksudkan dengan persetujuan tertulis dari pemerintah negara\npenerima adalah persetujuan tertulis dari instansi atau pejabat yang berwenang\ndalam urusan limbah B3 di negara penerima.\nAyat (4)…\nAyat (4)\nCukup jelas\nPasal 28\nYang dimaksud dengan pengenceran adalah menambahkan cairan pada limbah B3\nsehingga konsentrasi zat racun dan/atau tingkat bahayanya turun, tetapi beban\npencemarannya masih tetap sama dengan sebelum dilakukan pengenceran. Hal ini\ndilarang karena pengenceran tidak akan menghilangkan sifat berbahaya dan\nberacunnya limbah B3.\nPasal 29\nAyat (1)\nYang dimaksud dengan kemasan adalah tempat/wadah untuk menyimpan,\nmengangkut, dan mengumpul limbah B3. Simbol adalah gambar yang\nmenyatakan karakteristik limbah B3. L abel adalah tulisan yang menunjukkan\nantara lain karakteristik, dan jenis limbah B.\nAyat (2)\nCukup jelas\nPasal 30\nAyat (1)\nKetentuan ini dimaksudkan dalam rangka mengawasi pelaksanaan ketentuan\npengelolaan limbah B3 sebagaimana diatur dalam Peratur an Pemerintah ini\nbeserta peraturan pelaksanaannya. Selain hal tersebut, pengawasan juga\ndimaksudkan agar pengelolaan limbah B3 tetap aman bagi lingkungan dan\nbagi mahluk hidup.\nAyat (2)\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 31\nAyat (1)\nTanda pengenal dan surat tugas ini penting untuk menghindari adanya\npetugas-petugas pengawas palsu, atau untuk menghindari agar tidak setiap\npegawai di lingkungan Badan Pengendalian Dampak Lingkungan melakukan\npengawasan yang semestinya bukan menjadi wewenangnya.\nTanda…\nTanda pengenal memuat nama, nomor induk pegawai dan foto.\nSurat tugas harus dengan jelas menyatakan nama pengawas yang ditugasi\nmelakukan pengawasan dan ditandatangani oleh Kepala Badan Pengendalian\nDampak Lingkungan atau pejabat yan g ditunjuk olehnya sekurang -kurangnya\npejabat eselon 1.\nAyat (2)\nCukup jelas\nPasal 32\nCukup jelas\nPasal 33\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 34\nAyat (1)\nUji kesehatan dimaksud dilaksanakan sekurang -kurangnya satu kali setahun,\ndengan maksud untuk mengetahui sedini mungkin terjadinya kontaminasi oleh\nzat/senyawa kimia limbah B3 terhadap pekerja.\nAyat (2)\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (3)\nCukup jelas\nPasal 35…\nPasal 35\nAyat (1)\nYang dimaksud ddengan kecelakaan dalam ayat ini adalah lepas/tumpahnya\nbahan berbahaya dan beracun atau limbah B3 ke dalam lingkungan yang perlu\nditanggulangi secara cepat dan tepat untuk mencegah meluasnya dampak\nakibat tumpahan limbah B3 tersebut, sehing ga dapat dicegah meluasnya\npencemaran dan/atau kerusakan lingkungan serta terganggunya kesehatan\nmanusia.\nAyat (2)\nUntuk mengatasi kecelakaan pengelolaan limbah B3 diperlukan upaya\npencegahan dan penanggulangan baik selama maupun setelah terjadinya\nkecelakaan. Upaya ini harus dilakukan secara tepat, cepat, terkoordinasi dan\nterpadu di antara instansi lintas sektor yang terkait.\nPasal 36\nAyat (1)\nTercemarnya dan rusaknya lingkungan tersebut harus ditanggulangi dengan\ncepat dan tepat.\nAyat (2)\nCukup jelas\nPasal 37\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (3)\nCukup jelas\nPasal 38…\nPasal 38\nPeraturan Perundang-undangan yang dimaksud dalam ketentuan ini antara lain Pasal\n33 Undang -undang Nomor 13 Tahun 1993 tentang Perkeretapian, Pasal 87\nUndang-undang Nomor 21 Tahun 1992 tentang Pelayaran, Pasal 14 dan Pasal 15\nPeraturan Pemerintah Nomor 41 Tahun 1993 tentang Angkutan Jalan dan peraturan\nperundang-undangan pelaksanaannya.\nPasal 39\nCukup jelas\nPasal 40\nAyat (1)\nCukup jelas\nAyat (2)\nYang dimaksud dengan secara proporsional bersama -sama bertanggung jawab\nadalah bahwa masing -masing memikul tanggung jawab sesuai dengan\nkontribusinya dalam menimbulkan pencemaran atau kerusakan l ingkungan.\nPembersihan dan pemulihan lingkungan dalam pasal ini mencakup antara lain\nstudi untuk mengetahui luas dampak, jenis, jumlah, konsentrasi limbah yang\nada sebagai dasar untuk melakukan pembersihan dan pemulihan lingkungan,\nserta pengolahan limbah B3 yang telah dibuang ke dalam lingkungan itu.\nPasal 41\nCukup jelas\nPasal 42\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 3551"
+   }
+  }
+ ]
+}

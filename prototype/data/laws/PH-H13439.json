@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13439",
+ "title": {
+  "zh": null,
+  "en": "An Act to Provide Funds for the Extension of the Lines of the Manila Railroad Company.",
+  "orig": "An Act to Provide Funds for the Extension of the Lines of the Manila Railroad Company."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1919-02-17",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2790",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 948,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1919/act_2790_1919.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02790_1919_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02790_1919_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13439-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The Insular Treasurer is hereby authorized, upon the order of the Secretary of Finance and with\nthe approval of the Governor-General, to lend to the Manila Railroad Company out of the unappropriated\ngeneral funds of the Insular Treasury for a period not exceeding ten years, the sum of two million pesos to be\nsecured by bonds of the Manila Railroad Company with interest at three and one half per centum per annum\nfor the extension of the present line from Calauag, south to Guinayangan, or other suitable terminal; for the\nextension of the Legaspi lines from Iriga, north; for the extension of the Northern lines into the Cagayan\nValley, and for the purchase of such additional equipment and rolling stock as may be necessary. Said loan\nshall constitute a lien on the property of the Manila Railroad Company subject only to prior liens thereon at\nthe time such loan is made."
+   }
+  },
+  {
+   "id": "PH-H13439-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, February 17, 1919."
+   }
+  }
+ ]
+}

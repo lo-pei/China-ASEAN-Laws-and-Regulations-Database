@@ -1,0 +1,72 @@
+{
+ "id": "PH-H14733",
+ "title": {
+  "zh": null,
+  "en": "An Act to Empower Chartered Cities, Municipalities, and Municipal Districts to Establish or Authorize the Establishment of Slaughterhouses, and for Other Purposes.",
+  "orig": "An Act to Empower Chartered Cities, Municipalities, and Municipal Districts to Establish or Authorize the Establishment of Slaughterhouses, and for Other Purposes."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1934-11-24",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 4142",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 733,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1934/act_4142_1934.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_04142_1934_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_04142_1934_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14733-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Chartered cities, municipalities, and municipal districts are hereby empowered to establish or\nauthorize the establishment of slaughterhouses, to provide for their veterinary or sanitary inspection and to\ninspect and regulate the use of the same: Provided, That the slaughter fees to be charged on large cattle and\nother domestic animals slaughtered for sale or consumption, including corral fees, shall in no case exceed two\ncentavos per kilo on dressed meat, including livers, hearts, and tongues: And provided, further, That no fee\nshall be charged on condemned meat."
+   }
+  },
+  {
+   "id": "PH-H14733-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "All acts or parts thereof inconsistent with the provisions of this Act are hereby repealed."
+   }
+  },
+  {
+   "id": "PH-H14733-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, November 24, 1934."
+   }
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "id": "PH-H15870",
+ "title": {
+  "zh": null,
+  "en": "An Act to Impose Punishment Upon Any Public Official Who Shall, Without the Consent of the National Assembly, Accept Any Present, Emolument, Office or Title From a Foreign state, Excepting Honors or Titles of a Religious, Academic or Scientific Nature.",
+  "orig": "An Act to Impose Punishment Upon Any Public Official Who Shall, Without the Consent of the National Assembly, Accept Any Present, Emolument, Office or Title From a Foreign state, Excepting Honors or Titles of a Religious, Academic or Scientific Nature."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1936-11-09",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 153",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 577,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00153_1936_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00153_1936_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H15870-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Any person holding an office of profit or trust in the Government of the Philippines who shall,\nwithout the consent of the National Assembly, accept any present, emolument, office or title from a foreign\nstate, except, however, honors or titles of a religious, academic or scientific nature, shall upon conviction he\npunished with imprisonment not to exceed one year, and disqualified to hold any public office for a period of\nnot less than three years nor more than ten years."
+   }
+  },
+  {
+   "id": "PH-H15870-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nEnacted, without Executive approval, November 9, 1936."
+   }
+  }
+ ]
+}

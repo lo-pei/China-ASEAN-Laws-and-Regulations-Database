@@ -1,0 +1,82 @@
+{
+ "id": "PH-H22013",
+ "title": {
+  "zh": null,
+  "en": "Amending Republic Act No. 6372 Entitled: \"An Act Creating the Municipality of Dupax Del Sur From the Municipality of Dupax in the Province of Nueva Vizcaya,\" Inserting New Sections Therein, Providing for Implementation Thereof",
+  "orig": "Amending Republic Act No. 6372 Entitled: \"An Act Creating the Municipality of Dupax Del Sur From the Municipality of Dupax in the Province of Nueva Vizcaya,\" Inserting New Sections Therein, Providing for Implementation Thereof"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p159",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1974-11-20",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 586",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 1358,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_00586_1974_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_00586_1974_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22013-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section Four of Republic Act Sixty Three Seventy Two is hereby amended to read as follows:\n\"Sec. 4. The seat of the municipal government of Dupax del Sur shall be in the old poblacion of Dupax.\nMalasin shall be the seat of the municipal government of Dupax del Norte.\""
+   }
+  },
+  {
+   "id": "PH-H22013-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Section Six of the same Republic Act is hereby amended to read as follows:\n\"Sec. 6. Within thirty days from the issuance of this decree, any incumbent elective official of the present\nMunicipality of Dupax shall choose the municipality where he wants to serve his unexpired term of office,\nsubject to appropriate presidential proclamations, decrees, or letters of instructions. The elective positions left\nvacant after the officials concerned shall have indicated their preference shall be filled by appointment by the\nPresident of the Philippines. The officials appointed by virtue hereof shall serve the unexpired term of the\noffice to which they were appointed, subject to appropriate presidential proclamations, decrees, and letters of\ninstructions.\""
+   }
+  },
+  {
+   "id": "PH-H22013-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "All laws, executive orders, decrees, rules and regulations, or parts thereof, inconsistent with the\nprovisions of this Decree are hereby repealed, amended or modified accordingly."
+   }
+  },
+  {
+   "id": "PH-H22013-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "This Decree shall take effect immediately.\nDone in the City of Manila, this 20th day of November, in the year of Our Lord, nineteen hundred and\nseventy-four."
+   }
+  }
+ ]
+}

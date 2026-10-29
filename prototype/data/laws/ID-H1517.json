@@ -1,0 +1,680 @@
+{
+ "id": "ID-H1517",
+ "title": {
+  "zh": "地方借款法",
+  "en": "regional loan Law",
+  "id": "pinjaman daerah",
+  "orig": "PINJAMAN DAERAH",
+  "vi": "Luật khoản vay địa phương",
+  "th": "พระราชบัญญัติ เงินกู้ท้องถิ่น",
+  "ms": "Akta pinjaman daerah"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02a",
+ "language": "id",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "2005",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU54-2005",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 45,
+ "chars": 41140,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PP_No_54_th_2005.pdf&fl=P17480"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\01_宪法与基础法\\印尼_文本_2005_PINJAMAN DAERAH.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 45 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H1517-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\n\nDalam Peraturan Pemerintah ini yang dimaksud dengan:\n\n1. Pemerintah . . .\n\n\n\n1. Pemerintah Pusat, yang selanjutnya disebut Pemerintah,\nadalah Presiden Republik Indonesia yang memegang\nkekuasaan pemerintahan Negara Republik Indonesia\nsebagaimana dimaksud dalam Undang-Undang Dasar\nNegara Republik Indonesia Tahun 1945;\n2. Pemerintah Daerah adalah gubernur, bupati, atau\nwalikota, dan perangkat Daerah sebagai unsur\npenyelenggara Pemerintahan Daerah;\n3. Daerah otonom, selanjutnya disebut Daerah, adalah\nkesatuan masyarakat hukum yang mempunyai batas-batas\nwilayah  berwenang mengatur dan mengurus urusan\npemerintahan dan kepentingan masyarakat setempat\nmenurut prakarsa sendiri berdasarkan aspirasi\nmasyarakat dalam sistem Negara Kesatuan Republik\nIndonesia;\n4. Kepala Daerah adalah gubernur bagi daerah provinsi atau\nbupati bagi daerah kabupaten atau walikota bagi daerah\nkota;\n5. Dewan Perwakilan Rakyat Daerah yang selanjutnya disebut\nDPRD adalah lembaga perwakilan rakyat daerah sebagai\nunsur penyelenggara Pemerintahan Daerah;\n6. Anggaran Pendapatan dan Belanja Negara, selanjutnya\ndisebut APBN adalah rencana keuangan tahunan\npemerintahan Negara yang disetujui oleh Dewan\nPerwakilan Rakyat;\n7. Anggaran Pendapatan dan Belanja Daerah, selanjutnya\ndisebut APBD adalah rencana keuangan tahunan\nPemerintahan Daerah yang dibahas dan disetujui bersama\noleh Pemerintah Daerah dan Dewan Perwakilan Rakyat\nDaerah, dan ditetapkan dengan Peraturan Daerah;\n8. Dana Perimbangan adalah dana yang bersumber dari\npendapatan APBN yang dialokasikan kepada Daerah untuk\nmendanai kebutuhan Daerah dalam rangka pelaksanaan\nDesentralisasi;\n9. Pinjaman Daerah adalah semua transaksi yang\nmengakibatkan Daerah menerima sejumlah uang atau\nmenerima manfaat yang bernilai uang dari pihak lain\nsehingga Daerah tersebut dibebani kewajiban untuk\nmembayar kembali;\n10. Obligasi  . . .\n\n\n\n10. Obligasi Daerah adalah Pinjaman Daerah yang ditawarkan\nkepada publik melalui penawaran umum di pasar modal;\n11. Dana Alokasi Umum, selanjutnya disebut DAU, adalah\ndana yang bersumber dari pendapatan APBN yang\ndialokasikan dengan tujuan pemerataan kemampuan\nkeuangan antar Daerah untuk mendanai kebutuhan\nDaerah dalam rangka pelaksanaan Desentralisasi;\n12. Dana Bagi Hasil adalah dana yang bersumber dari\npendapatan APBN yang dialokasikan kepada Daerah\nberdasarkan angka persentase untuk mendanai kebutuhan\nDaerah dalam rangka pelaksanaan Desentralisasi;\n13. Proyek adalah kegiatan yang merupakan bagian dari\nprogram yang terdiri dari sekumpulan tindakan\npengerahan sumber daya baik yang berupa personal\n(sumber daya manusia), barang modal termasuk peralatan\ndan teknologi, dana, atau kombinasi dari beberapa atau\nkesemua jenis sumber daya tersebut sebagai masukan\n(input) untuk menghasilkan keluaran (output) dalam bentuk\nbarang/jasa.\n\n\nBAB II\n\nPRINSIP UMUM PINJAMAN DAERAH"
+   }
+  },
+  {
+   "id": "ID-H1517-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\n\n(1) Pinjaman Daerah merupakan alternatif sumber\npembiayaan APBD dan/atau untuk menutup kekurangan\nkas.\n(2) Pinjaman Daerah digunakan untuk membiayai kegiatan\nyang merupakan inisiatif dan kewenangan Daerah\nberdasarkan peraturan perundang-undangan."
+   }
+  },
+  {
+   "id": "ID-H1517-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\n\n(1) Pemerintah Daerah dilarang melakukan pinjaman langsung\nkepada pihak  luar negeri.\n(2) Ketentuan sebagaimana dimaksud pada ayat (1) tidak\nberlaku dalam hal pinjaman langsung kepada pihak luar\nnegeri yang terjadi karena kegiatan transaksi Obligasi\nDaerah sesuai peraturan perundang-undangan di bidang\npasar modal."
+   }
+  },
+  {
+   "id": "ID-H1517-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4 "
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 4 . . .\n\n\n\nPasal 4\n\n(1) Pemerintah Daerah dilarang memberikan jaminan atas\npinjaman pihak lain.\n(2) Pendapatan Daerah dan/atau barang milik Daerah tidak\nboleh dijadikan jaminan Pinjaman Daerah.\n(3) Proyek yang dibiayai dari Obligasi Daerah beserta barang\nmilik Daerah yang melekat dalam Proyek tersebut dapat\ndijadikan jaminan Obligasi Daerah."
+   }
+  },
+  {
+   "id": "ID-H1517-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\n\n(1) Jenis Pinjaman Daerah terdiri atas:\na. Pinjaman Jangka Pendek;\nb. Pinjaman Jangka Menengah; dan\nc. Pinjaman Jangka Panjang.\n(2) Pinjaman Jangka Pendek sebagaimana dimaksud pada\nayat (1) huruf a merupakan Pinjaman Daerah dalam jangka\nwaktu kurang atau sama dengan satu tahun anggaran dan\nkewajiban pembayaran kembali pinjaman yang meliputi\npokok pinjaman, bunga, dan biaya lain seluruhnya harus\ndilunasi dalam tahun anggaran yang bersangkutan.\n(3) Pinjaman Jangka Menengah sebagaimana dimaksud pada\nayat (1) huruf b merupakan Pinjaman Daerah dalam jangka\nwaktu lebih dari satu tahun anggaran dan kewajiban\npembayaran kembali pinjaman yang meliputi pokok\npinjaman, bunga, dan biaya lain harus dilunasi dalam\nkurun waktu yang tidak melebihi sisa masa jabatan Kepala\nDaerah yang bersangkutan.\n(4) Pinjaman Jangka Panjang sebagaimana dimaksud pada\nayat (1) huruf c merupakan Pinjaman Daerah dalam jangka\nwaktu lebih dari satu tahun anggaran dan kewajiban\npembayaran kembali pinjaman yang meliputi pokok\npinjaman, bunga, dan biaya lain harus dilunasi pada\ntahun-tahun anggaran berikutnya sesuai dengan\npersyaratan perjanjian pinjaman yang bersangkutan."
+   }
+  },
+  {
+   "id": "ID-H1517-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\n\nDalam hal Kepala Daerah dan Wakil Kepala Daerah yang telah\nmelakukan perjanjian pinjaman jangka menengah berhenti\nsebelum masa jabatannya berakhir, maka perjanjian pinjaman\njangka menengah tersebut tetap berlaku."
+   }
+  },
+  {
+   "id": "ID-H1517-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7 "
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 7 . . .\n\n\n\nPasal 7\n\n(1) Pinjaman Jangka Pendek hanya dipergunakan untuk\nmenutup kekurangan arus kas pada tahun anggaran yang\nbersangkutan.\n(2) Pinjaman Jangka Menengah dipergunakan untuk\nmembiayai penyediaan layanan umum yang tidak\nmenghasilkan penerimaan.\n(3) Pinjaman Jangka Panjang dipergunakan untuk membiayai\nProyek investasi yang menghasilkan penerimaan."
+   }
+  },
+  {
+   "id": "ID-H1517-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n\n(1) Pemerintah Daerah dapat melakukan Pinjaman Jangka\nPendek yang bersumber dari:\na. Pemerintah Daerah lain;\nb. lembaga keuangan bank yang berbadan hukum\nIndonesia dan mempunyai tempat kedudukan dalam\nwilayah Negara Republik Indonesia; dan/atau\nc. lembaga keuangan bukan bank yang berbadan hukum\nIndonesia dan mempunyai tempat kedudukan dalam\nwilayah Negara Republik Indonesia.\n(2) Pemerintah Daerah dapat melakukan Pinjaman Jangka\nMenengah dan Jangka Panjang yang bersumber dari:\na. Pemerintah yang dananya berasal dari pendapatan\nAPBN dan/atau pengadaan pinjaman Pemerintah dari\ndalam negeri ataupun luar negeri;\nb. Pemerintah Daerah lain;\nc. lembaga keuangan bank yang berbadan hukum\nIndonesia dan mempunyai tempat kedudukan dalam\nwilayah Negara Republik Indonesia;\nd. lembaga keuangan bukan bank yang berbadan hukum\nIndonesia dan mempunyai tempat kedudukan dalam\nwilayah Negara Republik Indonesia; dan/atau\ne. masyarakat.\n(3) Pinjaman Daerah yang bersumber dari masyarakat\nsebagaimana dimaksud pada ayat (2) huruf e berupa\nObligasi Daerah yang diterbitkan melalui penawaran\numum kepada masyarakat di pasar modal dalam negeri."
+   }
+  },
+  {
+   "id": "ID-H1517-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n\nMenteri Keuangan mengelola Pinjaman Daerah yang bersumber\ndari Pemerintah.\nBAB  III  . . .\n\n\n\nBAB III\n\nBATAS PINJAMAN DAERAH"
+   }
+  },
+  {
+   "id": "ID-H1517-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\n\n(1) Batas maksimal kumulatif pinjaman Pemerintah dan\nPemerintah Daerah tidak melebihi 60% (enam puluh\npersen) dari Produk Domestik Bruto tahun yang\nbersangkutan.\n(2) Menteri Keuangan menetapkan batas maksimal kumulatif\nPinjaman Daerah secara keseluruhan paling lambat bulan\nAgustus untuk tahun anggaran berikutnya dengan\nmemperhatikan keadaan dan prakiraan perkembangan\nperekonomian nasional.\n(3) Menteri Keuangan menetapkan pedoman pelaksanaan dan\nmekanisme pemantauan serta pengendalian batas\nmaksimal kumulatif Pinjaman Daerah.\n\n\nBAB IV\n\nPERSYARATAN UMUM PINJAMAN DAERAH"
+   }
+  },
+  {
+   "id": "ID-H1517-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\n\nPersyaratan yang harus dipenuhi dalam melakukan pinjaman\njangka pendek adalah sebagai berikut:\na. kegiatan yang akan dibiayai dari pinjaman jangka pendek\ntelah dianggarkan dalam APBD tahun bersangkutan.\nb. kegiatan sebagaimana dimaksud pada huruf a merupakan\nkegiatan yang bersifat mendesak dan tidak dapat ditunda.\nc. Persyaratan lainnya yang dipersyaratkan oleh calon\npemberi pinjaman."
+   }
+  },
+  {
+   "id": "ID-H1517-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n\nDalam hal Pemerintah Daerah akan melakukan pinjaman\njangka menengah atau jangka panjang, Pemerintah Daerah\nwajib memenuhi persyaratan sebagai berikut:\na. jumlah sisa Pinjaman Daerah ditambah jumlah pinjaman\nyang akan ditarik tidak melebihi 75% (tujuh puluh lima\npersen) dari jumlah penerimaan umum APBD tahun\nsebelumnya.\nb. rasio  . . .\n\n\n\nb. rasio proyeksi kemampuan keuangan Daerah untuk\nmengembalikan pinjaman paling sedikit 2,5 (dua koma\nlima).\nc. tidak mempunyai tunggakan atas pengembalian pinjaman\nyang berasal dari Pemerintah.\nd. mendapatkan persetujuan DPRD.\n\n\nBAB V\n\nPROSEDUR PINJAMAN DAERAH YANG\nBERSUMBER DARI PEMERINTAH\n\nBagian Pertama\nProsedur Pinjaman Daerah dari Pemerintah\nyang Dananya Bersumber dari Pinjaman\nLuar Negeri"
+   }
+  },
+  {
+   "id": "ID-H1517-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\n\n(1) Usulan kegiatan yang akan dibiayai dengan Pinjaman\nDaerah dari Pemerintah yang dananya bersumber dari\npinjaman luar negeri harus tercantum dalam Daftar\nRencana Prioritas Pinjaman dan/atau Hibah Luar Negeri\nyang dikeluarkan oleh Menteri Negara Perencanaan\nPembangunan Nasional/Kepala Badan Perencanaan\nPembangunan Nasional.\n(2) Pemerintah Daerah menyampaikan rencana Pinjaman\nDaerah untuk membiayai usulan kegiatan sebagaimana\ndimaksud pada ayat (1) kepada Menteri Keuangan dengan\nsekurang-kurangnya melampirkan:\na. realisasi APBD selama 3 tahun terakhir berturut-turut;\nb. APBD tahun bersangkutan;\nc. perhitungan tentang kemampuan Daerah dalam\nmemenuhi kewajiban pembayaran kembali pinjaman\n(proyeksi DSCR);\nd. rencana keuangan (financing plan) pinjaman yang akan\ndiusulkan; dan\ne. surat persetujuan DPRD.\n(3) Menteri Keuangan setelah mendapatkan pertimbangan dari\nMenteri Dalam Negeri menetapkan Pinjaman Daerah\nsebagaimana dimaksud pada ayat (2).\n\n\n(4) Penetapan . . .\n\n\n\n(4) Penetapan Menteri Keuangan sebagaimana dimaksud pada\nayat (3) dilaksanakan sebelum pelaksanaan negosiasi\ndengan calon pemberi pinjaman luar negeri, dengan\nberdasarkan:\na.  Daftar Rencana Prioritas Pinjaman dan/atau Hibah\nLuar Negeri;\nb.  alokasi pinjaman pemerintah menurut sumber dan\npersyaratannya;\nc.  kemampuan membayar kembali; dan\nd.  kapasitas fiskal daerah.\n(5) Pinjaman Daerah dari Pemerintah yang dananya berasal\ndari luar negeri dilakukan melalui perjanjian penerusan\npinjaman.\n(6) Perjanjian penerusan pinjaman dilakukan antara Menteri\nKeuangan dan Kepala Daerah."
+   }
+  },
+  {
+   "id": "ID-H1517-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\n\n(1) Menteri Keuangan menetapkan persyaratan penerusan\npinjaman.\n(2) Mata uang yang digunakan dalam perjanjian penerusan\npinjaman dapat dalam mata uang Rupiah atau mata uang\nasing.\n\n\nBagian Kedua\nProsedur Pinjaman Daerah dari Pemerintah\nyang Dananya Bersumber Selain dari\nPinjaman Luar Negeri"
+   }
+  },
+  {
+   "id": "ID-H1517-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\n\n(1) Daerah mengajukan usulan pinjaman kepada Menteri\nKeuangan dengan melampirkan dokumen sekurang-\nkurangnya sebagai berikut:\na. persetujuan DPRD;\nb. studi kelayakan proyek; dan\nc. dokumen lain yang diperlukan.\n(2) Menteri Keuangan melakukan penilaian atas usulan\npinjaman sebagaimana dimaksud pada ayat (1).\n(3) Menteri Keuangan dapat memberikan persetujuan atau\npenolakan atas usulan pinjaman.\n(4) Pinjaman  . . .\n\n\n\n(4) Pinjaman Daerah dari Pemerintah yang dananya berasal\nselain dari pinjaman luar negeri dilakukan melalui\nperjanjian pinjaman yang ditandatangani oleh Menteri\nKeuangan dan kepala daerah."
+   }
+  },
+  {
+   "id": "ID-H1517-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\n\nKetentuan lebih lanjut mengenai tata cara pemberian Pinjaman\nDaerah dari Pemerintah yang Dananya Bersumber dari\nPinjaman Luar Negeri sebagaimana dimaksud dalam Pasal 14,\ndan Pinjaman Daerah dari Pemerintah yang Dananya\nBersumber Selain dari Pinjaman Luar Negeri sebagaimana\ndimaksud dalam Pasal 16 diatur dalam Peraturan Menteri\nKeuangan.\n\n\nBAB VI\n\nPROSEDUR PINJAMAN DAERAH YANG\n BERSUMBER DARI SELAIN PEMERINTAH"
+   }
+  },
+  {
+   "id": "ID-H1517-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\n\nPemerintah Daerah dapat melakukan Pinjaman Daerah yang\nbersumber selain dari Pemerintah dan Pemerintah Daerah\nlainnya sepanjang tidak melampaui batas kumulatif Pinjaman\nPemerintah dan Pemerintah Daerah.\n\n\nBagian Pertama\nProsedur Pinjaman Jangka Pendek"
+   }
+  },
+  {
+   "id": "ID-H1517-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\n\n(1) Pemerintah Daerah mengajukan usulan pinjaman kepada\ncalon pemberi pinjaman.\n(2) Calon pemberi pinjaman melakukan penilaian atas usulan\npinjaman daerah sebagaimana dimaksud pada ayat (1).\n(3) Pinjaman daerah jangka pendek dilakukan dengan\nperjanjian pinjaman yang ditandatangani oleh Kepala\nDaerah/pejabat yang diberi kuasa dan pemberi pinjaman,\ndengan memperhatikan persyaratan yang paling\nmenguntungkan Pemerintah Daerah penerima pinjaman.\n\n\nBagian Kedua . . .\n\n\n\nBagian Kedua\nProsedur Pinjaman Jangka Menengah\natau Jangka Panjang"
+   }
+  },
+  {
+   "id": "ID-H1517-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\n\n(1) Pemerintah Daerah wajib melaporkan rencana pinjaman\nyang bersumber selain dari Pemerintah kepada Menteri\nDalam Negeri untuk mendapatkan pertimbangan, dengan\nmenyampaikan sekurang-kurangnya dokumen sebagai\nberikut:\na. kerangka acuan Proyek;\nb. APBD tahun bersangkutan;\nc. perhitungan tentang kemampuan Daerah dalam\nmemenuhi kewajiban pembayaran kembali pinjaman\n(proyeksi DSCR);\nd. rencana keuangan (financing plan) pinjaman yang akan\ndiusulkan;\ne. surat persetujuan DPRD.\n(2) Menteri Dalam Negeri memberikan pertimbangan\nsebagaimana dimaksud pada ayat (1) dalam rangka\npemantauan defisit APBD dan batas kumulatif pinjaman\nPemerintah Daerah.\n(3) Dalam hal Menteri Dalam Negeri telah memberikan\npertimbangan, Pemerintah Daerah mengajukan usulan\nPinjaman Daerah kepada calon pemberi pinjaman sesuai\ndengan pertimbangan Menteri Dalam Negeri tersebut.\n(4) Pemerintah daerah mengajukan usulan pinjaman daerah\nkepada calon pemberi pinjaman sesuai dengan peraturan\nperundang-undangan.\n(5) Calon pemberi Pinjaman Daerah melakukan penilaian atas\nusulan Pinjaman Daerah sebagaimana dimaksud pada ayat\n(1).\n(6) Pinjaman Daerah yang bersumber selain dari Pemerintah\ndituangkan dalam perjanjian pinjaman yang\nditandatangani oleh Kepala Daerah dan pemberi pinjaman.\n(7) Perjanjian pinjaman sebagaimana dimaksud pada ayat (6)\nwajib dilaporkan kepada Menteri Keuangan dan Menteri\nDalam Negeri."
+   }
+  },
+  {
+   "id": "ID-H1517-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20 "
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kedua"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 20  . . .\n\n\n\nPasal 20\n\nMenteri Keuangan dapat menetapkan lebih lanjut pelaksanaan\npinjaman jangka menengah dan jangka panjang yang\nbersumber selain dari Pemerintah dalam rangka pengendalian\ndan kehati-hatian fiskal dengan memperhatikan keadaan\nperekonomian nasional dan batas kumulatif Pinjaman\nPemerintah dan Pemerintah Daerah.\n\n\nBAB VII\n\nOBLIGASI DAERAH\n\nBagian Pertama\nUmum"
+   }
+  },
+  {
+   "id": "ID-H1517-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\n\nPenerbitan Obligasi Daerah wajib memenuhi ketentuan dalam\nPeraturan Pemerintah ini beserta peraturan pelaksanaannya\nserta mengikuti peraturan perundang-undangan di bidang\npasar modal."
+   }
+  },
+  {
+   "id": "ID-H1517-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\n\nPenerbitan Obligasi Daerah hanya dapat dilakukan di pasar\ndomestik dan dalam mata uang Rupiah."
+   }
+  },
+  {
+   "id": "ID-H1517-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\n\nObligasi Daerah merupakan efek yang diterbitkan oleh\nPemerintah Daerah dan tidak dijamin oleh Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H1517-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 24\n\nNilai Obligasi Daerah pada saat jatuh tempo sama dengan nilai\nnominal Obligasi Daerah pada saat diterbitkan."
+   }
+  },
+  {
+   "id": "ID-H1517-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\n\nPenerbitan Obligasi Daerah hanya dapat dilakukan untuk\nmembiayai investasi sektor publik yang menghasilkan\npenerimaan dan memberikan manfaat bagi masyarakat."
+   }
+  },
+  {
+   "id": "ID-H1517-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26 "
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Pertama"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 26 . . .\n\n\n\nPasal 26\n\nPenerimaan dari investasi sektor publik sebagaimana dimaksud\ndalam Pasal 25, penggunaannya diprioritaskan untuk\nmembayar pokok, bunga, dan denda Obligasi Daerah terkait."
+   }
+  },
+  {
+   "id": "ID-H1517-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\n\nPembayaran pokok, bunga, dan denda atas Obligasi Daerah\ndianggarkan dalam APBD sampai dengan Obligasi Daerah\ndinyatakan lunas."
+   }
+  },
+  {
+   "id": "ID-H1517-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\n\nSetiap perjanjian pinjaman Obligasi Daerah sekurang-\nkurangnya mencantumkan:\na. nilai nominal;\nb. tanggal jatuh tempo;\nc. tanggal pembayaran bunga;\nd. tingkat bunga (kupon);\ne. frekuensi pembayaran bunga;\nf. cara perhitungan pembayaran bunga;\ng. ketentuan tentang hak untuk membeli kembali Obligasi\nDaerah sebelum jatuh tempo; dan\nh. ketentuan tentang pengalihan kepemilikan.\n\n\nBagian Kedua\nProsedur Penerbitan Obligasi Daerah"
+   }
+  },
+  {
+   "id": "ID-H1517-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\n\n(1) Rencana penerbitan Obligasi Daerah disampaikan kepada\nMenteri Keuangan dengan terlebih dahulu mendapatkan\npersetujuan DPRD dengan memperhatikan ketentuan\ndalam Pasal 20.\n(2) Persetujuan DPRD mengenai rencana penerbitan Obligasi\nDaerah sebagaimana dimaksud pada ayat (1) meliputi\npembayaran pokok dan bunga yang timbul sebagai akibat\npenerbitan Obligasi Daerah dimaksud.\n(3) Penerbitan Obligasi Daerah ditetapkan dengan Peraturan\nDaerah.\n\n(4) Persetujuan . . .\n\n\n\n(4) Persetujuan sebagaimana dimaksud pada ayat (2)\ndiberikan atas nilai bersih maksimal Obligasi Daerah yang\nakan diterbitkan pada saat penetapan APBD.\n(5) Selain memberikan persetujuan atas hal-hal sebagaimana\ndimaksud pada ayat (2) dan ayat (4), DPRD memberikan\npersetujuan atas segala biaya yang timbul dari penerbitan\nObligasi Daerah.\n(6) Ketentuan mengenai tatacara penerbitan,\npelaksanaan/penatausahaan, dan pemantauan Obligasi\nDaerah dilaksanakan berdasarkan peraturan perundang-\nundangan di bidang Pasar Modal."
+   }
+  },
+  {
+   "id": "ID-H1517-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\n\n(1) Pemerintah Daerah dapat membeli kembali Obligasi\nDaerah yang diterbitkannya.\n(2) Obligasi Daerah yang dibeli kembali dapat diperlakukan\nsebagai pelunasan atas Obligasi Daerah tersebut, atau\ndisimpan untuk dapat dijual kembali (treasury bonds).\n(3) Dalam hal Obligasi Daerah yang dibeli kembali\ndiperhitungkan sebagai treasury bonds, maka hak-hak\nyang melekat pada Obligasi Daerah batal demi hukum.\n\n\nBagian Ketiga\nKewajiban"
+   }
+  },
+  {
+   "id": "ID-H1517-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\n\n(1) Pemerintah Daerah wajib membayar pokok dan bunga\nsetiap Obligasi Daerah pada saat jatuh tempo serta denda\natas Obligasi Daerah.\n(2) Pembayaran sebagaimana dimaksud ayat (1) dianggarkan\ndalam APBD yang dananya dari pendapatan daerah yang\nberasal dari penerimaan proyek yang didanai dengan\nObligasi Daerah maupun pendapatan Daerah lainnya.\n(3) Dana untuk membayar pokok dan bunga sebagaimana\ndimaksud pada ayat (1) dianggarkan dalam APBD setiap\ntahun sampai dengan berakhirnya kewajiban tersebut.\n\n\n(4) Dalam . . .\n\n\n\n(4) Dalam hal pembayaran bunga sebagaimana dimaksud\npada ayat (1) melebihi perkiraan, Kepala Daerah\nmelakukan pembayaran dan menyampaikan realisasi\npembayaran tersebut kepada DPRD dalam pembahasan\nPerubahan APBD.\n(5) Dalam hal proyek belum menghasilkan dana yang cukup\nuntuk membayar pokok, bunga dan denda Obligasi Daerah\nterkait, maka pembayaran tersebut dibayarkan dari APBD.\n\n\nBagian Keempat\nPengelolaan Obligasi Daerah"
+   }
+  },
+  {
+   "id": "ID-H1517-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 32\n\n(1) Pengelolaan Obligasi Daerah diselenggarakan oleh Kepala\nDaerah.\n(2) Kepala Daerah dapat membentuk satuan kerja untuk\nmengelola Obligasi Daerah."
+   }
+  },
+  {
+   "id": "ID-H1517-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 33\n\nPengelolaan Obligasi Daerah sebagaimana dimaksud dalam\nPasal 32 ayat (1) sekurang-kurangnya meliputi:\na. penetapan strategi dan kebijakan pengelolaan Obligasi\nDaerah termasuk kebijakan pengendalian risiko;\nb. perencanaan dan penetapan struktur portofolio Pinjaman\nDaerah;\nc. penerbitan Obligasi Daerah;\nd. penjualan Obligasi Daerah melalui lelang;\ne. pembelian kembali Obligasi Daerah sebelum jatuh tempo;\nf. pelunasan pada saat jatuh tempo; dan\ng. pertanggungjawaban.\n\n\nBagian Kelima\nAkuntabilitas dan Transparansi"
+   }
+  },
+  {
+   "id": "ID-H1517-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 34\n\n(1) Kepala Daerah wajib menyelenggarakan dan membuat\npertanggungjawaban atas pengelolaan Obligasi Daerah\nserta dana hasil penerbitan Obligasi Daerah.\n\n(2) Pertanggungjawaban . . .\n\n\n\n(2) Pertanggungjawaban sebagaimana dimaksud pada ayat (1)\ndisampaikan kepada DPRD sebagai bagian dari\npertanggungjawaban pelaksanaan APBD."
+   }
+  },
+  {
+   "id": "ID-H1517-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 35\n\nKepala Daerah wajib mempublikasikan secara berkala informasi\ntentang:\na. kebijakan pengelolaan Pinjaman Daerah dan rencana\npenerbitan Obligasi Daerah yang meliputi perkiraan jumlah\ndan jadwal waktu penerbitan;\nb. jumlah Obligasi Daerah yang beredar beserta\nkomposisinya, struktur jatuh tempo dan tingkat bunga;\nc. laporan keuangan Pemerintah Daerah;\nd. laporan penggunaan dana yang diperoleh melalui\npenerbitan Obligasi Daerah, alokasi dana cadangan, serta\nlaporan-laporan lain yang bersifat material; dan\ne. kewajiban publikasi data dan/atau informasi lainnya yang\ndiwajibkan berdasarkan peraturan perundang-undangan di\nbidang Pasar Modal."
+   }
+  },
+  {
+   "id": "ID-H1517-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 36\n\nTata cara penerbitan, pertanggungjawaban, serta publikasi\ninformasi sebagaimana dimaksud dalam Pasal 30, Pasal 35 dan\nPasal 36 diatur lebih lanjut dalam Peraturan Menteri Keuangan\ndan dilaksanakan berdasarkan peraturan perundang-undangan\ndi bidang pasar modal.\n\n\nBAB VIII\n\nPEMBAYARAN KEMBALI PINJAMAN DAERAH"
+   }
+  },
+  {
+   "id": "ID-H1517-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 37\n\nDalam hal pembayaran kembali pinjaman jangka pendek\nmenimbulkan biaya antara lain bunga dan denda, maka biaya\ntersebut dibebankan pada belanja APBD."
+   }
+  },
+  {
+   "id": "ID-H1517-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 38\n\n(1) Kewajiban pembayaran kembali Pinjaman Daerah yang\njatuh tempo wajib dianggarkan dalam APBD dan\ndirealisasikan/dibayarkan pada tahun anggaran yang\nbersangkutan.\n\n(2) Pembayaran . . .\n\n\n\n(2) Pembayaran kembali  Pinjaman Daerah dari Pemerintah,\ndilakukan dalam mata uang sesuai yang ditetapkan dalam\nPerjanjian Pinjaman antara Menteri Keuangan dan Kepala\nDaerah.\n\nBAB IX\n\nPELAPORAN DAN SANKSI PINJAMAN DAERAH"
+   }
+  },
+  {
+   "id": "ID-H1517-A39",
+   "no": 39,
+   "noLabel": {
+    "id": "Pasal 39"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 39\n\n(1) Semua penerimaan dan kewajiban dalam rangka Pinjaman\nDaerah dicantumkan dalam APBD dan dibukukan sesuai\ndengan Standar Akuntansi Pemerintah.\n(2) Keterangan yang memuat semua pinjaman jangka\nmenengah dan jangka panjang wajib dituangkan dalam\nlampiran dari dokumen APBD.\n(3) Setiap perjanjian pinjaman yang dilakukan oleh Daerah\nmerupakan dokumen publik dan diumumkan dalam\nLembaran Daerah."
+   }
+  },
+  {
+   "id": "ID-H1517-A40",
+   "no": 40,
+   "noLabel": {
+    "id": "Pasal 40"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 40\n\n(1) Pemerintah Daerah wajib melaporkan posisi kumulatif\npinjaman dan kewajiban pinjaman kepada Menteri\nKeuangan dan Menteri Dalam Negeri setiap semester dalam\ntahun anggaran berjalan.\n(2) Dalam hal Daerah tidak menyampaikan laporan\nsebagaimana dimaksud pada ayat (1), Menteri Keuangan\ndapat menunda penyaluran Dana Perimbangan.\n(3) Ketentuan lebih lanjut mengenai tata cara pelaporan posisi\nkumulatif pinjaman dan kewajiban pinjaman sebagaimana\ndimaksud pada ayat (1) diatur dengan Peraturan Menteri\nKeuangan."
+   }
+  },
+  {
+   "id": "ID-H1517-A41",
+   "no": 41,
+   "noLabel": {
+    "id": "Pasal 41"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 41\n\n(1) Dalam hal Daerah tidak memenuhi kewajiban membayar\npinjamannya kepada Pemerintah sebagaimana dimaksud\ndalam Pasal 38, kewajiban membayar pinjaman tersebut\ndiperhitungkan dengan DAU dan/atau Dana Bagi Hasil\ndari Penerimaan Negara yang menjadi hak Daerah\ntersebut.\n(2) Dalam hal Daerah melakukan pinjaman langsung dari\nsumber luar negeri sebagaimana dimaksud dalam Pasal 3,\nMenteri Keuangan akan melakukan pemotongan DAU\ndan/atau . . .\n\n\n\ndan/atau Dana Bagi Hasil dari Penerimaan Negara yang\nmenjadi hak Daerah tersebut.\n(3) Ketentuan lebih lanjut mengenai tata cara pemotongan\nDAU dan/atau Dana Bagi Hasil diatur dengan Peraturan\nMenteri Keuangan."
+   }
+  },
+  {
+   "id": "ID-H1517-A42",
+   "no": 42,
+   "noLabel": {
+    "id": "Pasal 42"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 42\n\nDalam hal Pemerintah Daerah tidak menyampaikan perjanjian\npinjaman yang telah dilakukan sebagaimana dimaksud dalam\nPasal 19 ayat (7) dan/atau Pemerintah Daerah membuat\nperjanjian pinjaman yang tidak sesuai dengan pertimbangan\nMenteri Dalam Negeri sebagaimana dimaksud dalam Pasal 19\nayat (2), maka Pemerintah Daerah yang bersangkutan dilarang\nmelakukan Pinjaman Daerah selama 3 (tiga) tahun berturut-\nturut.\n\nBAB X\n\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H1517-A43",
+   "no": 43,
+   "noLabel": {
+    "id": "Pasal 43"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 43\n\n(1) Perjanjian Pinjaman Daerah yang telah dilakukan sebelum\nberlakunya Peraturan Pemerintah ini, dapat tetap tunduk\npada ketentuan peraturan perundang-undangan yang lama\nsampai berakhirnya pelunasan pembayaran  pinjaman.\n(2) Perjanjian Pinjaman Daerah yang telah dilakukan sebelum\nberlakunya Peraturan Pemerintah ini, atas kesepakatan\nbersama antara pemberi pinjaman dan penerima pinjaman\ndapat mendasarkan dan menyesuaikan pengaturannya\npada Peraturan Pemerintah ini.\n\nBAB XI\n\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H1517-A44",
+   "no": 44,
+   "noLabel": {
+    "id": "Pasal 44"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 44\n\nPada saat Peraturan Pemerintah ini mulai berlaku, maka\nPeraturan Pemerintah Nomor 107 Tahun 2000 tentang\nPinjaman Daerah dinyatakan tidak berlaku."
+   }
+  },
+  {
+   "id": "ID-H1517-A45",
+   "no": 45,
+   "noLabel": {
+    "id": "Pasal 45"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 45\n\nPeraturan Pemerintah ini mulai berlaku pada tanggal\ndiundangkan.\n\nAgar  . . .\n\n\n\n\nAgar setiap orang mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan\npenempatannya dalam Lembaran Negara Republik Indonesia.\n\n\nDitetapkan di Jakarta\npada tanggal  9 Desember 2005\n\nPRESIDEN REPUBLIK INDONESIA\n\n                         ttd\n\nDR. H. SUSILO BAMBANG YUDHOYONO\n\nDiundangkan di Jakarta\nPada tanggal  9 Desember  2005\nMENTERI HUKUM DAN HAK ASASI MANUSIA\n                  REPUBLIK INDONESIA\n                        AD INTERIM,\n       ttd\n             YUSRIL IHZA MAHENDRA\n\n\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2005 NOMOR 136\n\nSalinan sesuai dengan aslinya\nDEPUTI MENTERI SEKRETARIS NEGARA\nBIDANG PERUNDANG-UNDANGAN,\n\n\n\nAbdul Wahid\n\n\nPENJELASAN\nATAS\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nNOMOR  54  TAHUN 2005\nTENTANG\nPINJAMAN DAERAH\n\nI. UMUM\n\nUndang-Undang Nomor 33 Tahun 2004 tentang Perimbangan Keuangan\nantara Pemerintah Pusat dan Pemerintahan Daerah menetapkan bahwa\nPinjaman Daerah merupakan salah satu sumber Penerimaan Daerah dalam\nrangka pelaksanaan Desentralisasi, yang dicatat dan dikelola dalam\nAnggaran Pendapatan dan Belanja Daerah.\n\nPinjaman Daerah merupakan alternatif sumber pembiayaan Anggaran\nPendapatan dan Belanja Daerah dan/atau untuk menutup kekurangan kas\nyang digunakan untuk membiayai kegiatan yang merupakan inisiatif dan\nkewenangan Daerah berdasarkan peraturan perundang-undangan.\n\nDana Pinjaman merupakan pelengkap dari sumber-sumber penerimaan\nDaerah yang ada dan ditujukan untuk membiayai pengadaan prasarana\nDaerah atau harta tetap lain yang berkaitan dengan kegiatan yang bersifat\nmeningkatkan penerimaan yang dapat digunakan untuk mengembalikan\npinjaman, serta memberikan manfaat bagi pelayanan masyarakat. Selain\nitu, Daerah dimungkinkan pula melakukan pinjaman dengan tujuan lain,\nseperti mengatasi masalah jangka pendek yang berkaitan dengan arus kas\nDaerah.\n\nDalam pelaksanaannya, besaran Pinjaman Daerah perlu disesuaikan\ndengan kemampuan Daerah karena dapat menimbulkan beban Anggaran\nPendapatan dan Belanja Daerah tahun-tahun berikutnya, sehingga perlu\ndidukung dengan ketrampilan perangkat Daerah dalam mengelola Pinjaman\nDaerah.\n\nUntuk meningkatkan kemampuan obyektif dan disiplin Pemerintah Daerah\ndalam melaksanakan pengembalian pinjaman, maka diperlukan\nkecermatan dan kehati-hatian dalam pengelolaan Pinjaman Daerah.\nPeraturan Pemerintah ini bertujuan untuk mengatur lebih lanjut hal-hal\nyang menyangkut Pinjaman Daerah, dengan mengantisipasi kebutuhan\nmasa depan serta dengan mempertimbangkan perlunya mempertahankan\nkondisi kesehatan dan kesinambungan perekonomian nasional.\nII. PASAL DEMI PASAL . . .\n\n\n\nII. PASAL DEMI PASAL\n\n Pasal 1\n   Cukup jelas.\n\n Pasal 2\n   Ayat (1)\nYang dimaksud dengan “kekurangan kas” adalah bentuk\npembayaran kegiatan operasional yang dianggarkan dalam\nAnggaran Pendapatan dan Belanja Daerah.\n   Ayat (2)\n  Cukup Jelas.\n\nPasal 3\nAyat (1)\nCukup jelas.\nAyat (2)\nYang dimaksud dengan “kegiatan transaksi” adalah kegiatan yang\nmeliputi kegiatan transaksi dalam rangka penawaran umum,\ntransaksi di bursa efek, transaksi di luar bursa efek, hibah, hadiah\ndan kegiatan transaksi lainnya yang menimbulkan pengalihan\nkepemilikan obligasi daerah.\n\nPasal 4\nCukup jelas.\n\nPasal 5\nAyat (1)\nCukup jelas.\nAyat (2)\nPinjaman jangka pendek tidak termasuk kredit jangka pendek\nyang lazim terjadi dalam perdagangan, misalnya pelunasan\nkewajiban atas pengadaan/pembelian barang dan/atau jasa tidak\ndilakukan pada saat barang dan atau jasa dimaksud diterima.\nYang termasuk biaya lain misalnya biaya administrasi, komitmen,\nprovisi, asuransi, dan denda.\nAyat (3)\nCukup jelas.\nAyat (4)\nCukup jelas.\n\nPasal 6 . . .\n\n\n\nPasal 6\nCukup jelas.\n\nPasal 7\nAyat (1)\nYang dimaksud dengan “tahun anggaran yang bersangkutan”\nadalah tahun anggaran pada saat Pemerintah Daerah melakukan\nPinjaman Jangka Pendek.\nKetentuan ayat ini juga mengandung arti bahwa Pinjaman Jangka\nPendek tidak diperkenankan dilakukan untuk membiayai defisit\nkas pada akhir tahun anggaran.\nAyat (2)\nYang dimaksud dengan “layanan umum yang tidak menghasilkan\npenerimaan” adalah layanan kepada masyarakat yang menjadi\ntanggung jawab Pemerintah Daerah yang tidak menghasilkan\npendapatan bagi APBD.\n    Ayat (3)\nYang dimaksud dengan “proyek investasi yang menghasilkan\npenerimaan” adalah proyek prasarana dan atau sarana yang\nmenghasilkan pendapatan bagi APBD yang diperoleh dari\npungutan atas penggunaan prasarana dan atau sarana tersebut.\n\nPasal 8\n  Ayat (1)\nCukup jelas.\n  Ayat (2)\nYang dimaksud dengan “masyarakat” adalah orang pribadi\ndan/atau badan yang melakukan investasi di pasar modal dalam\nnegeri.\n  Ayat (3)\nCukup jelas.\n\nPasal 9\nPinjaman Daerah yang bersumber dari Pemerintah dapat berasal dari\npinjaman luar negeri maupun selain pinjaman luar negeri.\n\nPasal 10\n  Ayat (1)\nCukup jelas.\n\n\nAyat (2) . . .\n\n\n\nAyat (2)\nPenetapan batas maksimal kumulatif pinjaman Pemerintah Daerah\nsecara keseluruhan selambat-lambatnya bulan Agustus agar\nDaerah dapat menetapkan jumlah pinjaman dalam APBD.\nYang dimaksud dengan “jumlah kumulatif pinjaman Pemerintah\nPusat dan Pemerintah Daerah” adalah total pinjaman Pemerintah\nPusat setelah dikurangi pinjaman yang diberikan kepada\nPemerintah Daerah, ditambah total pinjaman seluruh Pemerintah\nDaerah setelah dikurangi pinjaman yang diberikan kepada\nPemerintah Pusat dan/atau Pemerintah Daerah lain.\nJumlah kumulatif Pinjaman Pemerintah dan Pemerintah Daerah\ndihitung dengan rumus sebagai berikut = Net Pinjaman\nPemerintah Pusat ditambah Net Pinjaman Pemerintah Daerah\nNet Pinjaman Pemerintah = Total Pinjaman Pemerintah\nPusat dikurangi Piutang\nkepada Pemerintah Daerah.\nNet Pinjaman Pemerintah Daerah  = Total Pinjaman Pemerintah\nDaerah dikurangi Piutang\nkepada Pemerintah Pusat\ndan/atau Piutang kepada\nPemerintah Daerah lainnya.\n  Ayat (3)\nCukup Jelas.\n\nPasal 11\n    Huruf a\nKetentuan ini dimaksudkan untuk membatasi penggunaan\npinjaman jangka pendek hanya untuk menutup pembiayaan\nkegiatan yang telah dianggarkan dalam APBD yang mengalami\nkekurangan arus kas.\n  Huruf b\nKegiatan yang bersifat mendesak dan tidak dapat ditunda antara\nlain gaji pegawai.\n  Huruf c\nCukup jelas.\n\nPasal 12\n    Huruf a\nYang dimaksud dengan “jumlah sisa Pinjaman Daerah” adalah\njumlah pinjaman lama yang belum dibayar.\n\nYang . . .\n\n\n\nYang dimaksud dengan “jumlah pinjaman yang akan ditarik”\nadalah rencana pencairan dana pinjaman tahun yang\nbersangkutan.\nYang dimaksud dengan “penerimaan umum APBD tahun\nsebelumnya” adalah seluruh penerimaan APBD tidak termasuk\nDana Alokasi Khusus, Dana Darurat, dana pinjaman lama, dan\npenerimaan lain yang kegunaannya dibatasi untuk membiayai\npengeluaran tertentu.\n    Huruf b\nRasio kemampuan Keuangan Daerah dihitung berdasarkan\nperbandingan antara proyeksi tahunan jumlah Pendapatan Asli\nDaerah, Dana Bagi Hasil tidak termasuk Dana Bagi Hasil Dana\nReboisasi, dan Dana Alokasi Umum setelah dikurangi belanja\nwajib dibagi dengan proyeksi penjumlahan angsuran pokok,\nbunga, dan biaya lain yang jatuh tempo setiap tahunnya selama\njangka waktu pinjaman yang akan ditarik.\nYang dimaksud dengan “belanja wajib” adalah belanja pegawai dan\nbelanja anggota DPRD.\nYang dimaksud dengan “biaya lain” yaitu antara lain biaya\nadministrasi, biaya provisi, biaya komitmen, asuransi dan denda.\n\n  DSCR =  {PAD + (DBH – DBHDR) + DAU} – Belanja Wajib   ‡ 2,5\n Angsuran pokok pinjaman + Bunga + Biaya Lain\n\n DSCR  = Debt Service Coverage Ratio atau Rasio Kemampuan\nMembayar Kembali Pinjaman;\n PAD = Pendapatan Asli Daerah;\n DAU = Dana Alokasi Umum;\n DBH = Dana Bagi Hasil; dan\n DBHDR = Dana Bagi Hasil Dana Reboisasi.\n    Huruf c\nCukup jelas.\n    Huruf d\nPersetujuan DPRD dimaksud termasuk dalam hal pinjaman\ntersebut diteruspinjamkan dan/atau diteruskan sebagai\npenyertaan modal kepada BUMD.\n\nPasal 13\n  Cukup jelas.\n\n\n\nPasal 14 . . .\n\n\n\n\nPasal 14\n  Ayat (1)\nPersyaratan penerusan pinjaman yang dimaksud adalah tingkat\nsuku bunga, masa tenggang, tanggal jatuh tempo dan persyaratan\nlainnya.\n  Ayat (2)\nCukup jelas.\n\nPasal 15\n  Cukup jelas.\n\nPasal 16\n     Cukup jelas.\n\nPasal 17\n  Cukup jelas.\n\nPasal 18\n    Cukup jelas.\n\nPasal 19\n  Cukup jelas.\n\nPasal 20\n    Cukup jelas.\n\nPasal 21.\n    Cukup jelas.\n\nPasal 22\n    Cukup jelas.\n\nPasal 23\nKetentuan ini menegaskan bahwa segala risiko yang timbul sebagai\nakibat dari penerbitan Obligasi Daerah tidak dijamin dan/atau\nditanggung oleh Pemerintah.\nMengingat Obligasi Daerah merupakan Efek yang diterbitkan oleh\nPemerintah Daerah dan tidak dijamin oleh Pemerintah, maka Obligasi\nDaerah bukanlah tergolong dalam Surat Utang Negara.\nYang dimaksud dengan “Efek” adalah Efek sebagaimana dimaksud\ndalam peraturan perundang-undangan di bidang Pasar Modal.\n\nPasal 24 . . .\n\n\n\nPasal 24\nKetentuan ini mengatur bahwa Pemerintah Daerah dilarang\nmenerbitkan Obligasi Daerah yang menggunakan indeks tertentu\nsehingga nilai Obligasi Daerah pada saat jatuh tempo tidak sama\ndengan nilai nominalnya pada saat diterbitkan (index bonds).\n\nPasal 25\nKetentuan ini mengatur bahwa Obligasi Daerah yang diterbitkan hanya\njenis obligasi pendapatan (revenue bonds).\n\nPasal 26\n    Cukup jelas.\n\nPasal 27\n    Cukup jelas.\n\nPasal 28\nPerjanjian pinjaman Obligasi Daerah dituangkan dalam perjanjian\nperwaliamanatan dan ditandatangani oleh Kepala Daerah dan Wali\nAmanat sebagai wakil pemegang obligasi/pemberi pinjaman.\n\n    Huruf a\nYang dimaksud dengan “nilai nominal” adalah nilai pokok Obligasi\nDaerah, yaitu nilai yang dapat ditagih oleh pemegang Obligasi\nDaerah kepada penerbit obligasi pada saat jatuh tempo, atau\nbesarnya kewajiban pokok Obligasi  Daerah yang wajib dibayar\noleh Pemerintah Daerah kepada pemegang Obligasi Daerah.\n    Huruf b\nYang dimaksud dengan “tanggal jatuh tempo” adalah jangka waktu\nyang telah ditentukan dalam perjanjian penerbitan obligasi daerah\n(biasanya tercantum dalam perjanjian perwaliamanatan) dimana\npemegang obligasi berhak menuntut pelunasan hak yang terkait\ndengan obligasi daerah. Tanggal jatuh tempo tersebut dapat\nmeliputi tanggal jatuh tempo pembayaran pokok maupun\npembayaran bunga.\n    Huruf c\nCukup jelas.\n    Huruf d\nYang dimaksud dengan “tingkat bunga (kupon)” adalah manfaat\nyang dijanjikan kepada pemegang Obligasi Daerah sebesar\npersentase tertentu dari nilai nominal. Penetapan tingkat bunga\ndapat ditetapkan secara pasti (fixed rate) atau mengambang\n(floating rate).\nHuruf e . . .\n\n\n\n    Huruf e\nCukup jelas.\n    Huruf f\nCukup jelas.\n    Huruf g\nDalam penerbitan Obligasi Daerah dapat diperjanjikan bahwa\npenerbit (daerah) dapat membeli kembali Obligasi Daerah yang\nditerbitkannya sebelum jatuh tempo.\n    Huruf h\nCukup jelas.\n\nPasal 29\n    Ayat (1)\nYang dimaksud dengan “persetujuan DPRD” adalah persetujuan\nprinsip yang diberikan oleh komisi DPRD yang menangani bidang\nkeuangan. Persetujuan Komisi DPRD dimaksud dipergunakan\ndalam penyampaian rencana penerbitan obligasi kepada Menteri\nKeuangan.\nPersetujuan DPRD atas semua Obligasi Daerah yang diterbitkan\nsecara otomatis merupakan persetujuan atas pembayaran dan\npelunasan segala kewajiban keuangan di masa mendatang yang\ntimbul dari penerbitan Obligasi Daerah.\n    Ayat (2)\nDalam hal bunga Obligasi Daerah ditetapkan mengacu pada\ntingkat suku bunga mengambang, maka persetujuan DPRD\ndimaksud adalah menetapkan formula tingkat suku bunga.\n    Ayat (3)\nKetentuan ini dimaksudkan agar terdapat keterbukaan dan\npertanggungjawaban yang jelas kepada masyarakat tentang segala\nkewajiban dari obligasi tersebut.\nPeraturan Daerah dimaksud ditetapkan dengan persetujuan pleno\nDPRD. Persetujuan Pleno DPRD dimaksud dipergunakan sebagai\nsyarat penandatanganan perjanjian pinjaman.\n    Ayat (4)\nYang dimaksud dengan “nilai bersih” adalah total keseluruhan\nnilai nominal Obligasi Daerah yang beredar (outstanding) yang\nditerbitkan oleh Daerah di luar nilai nominal Obligasi Daerah yang\nditarik kembali sebagai pelunasan sebelum jatuh tempo dan atau\nObligasi Daerah yang telah dilunasi pada saat jatuh tempo selama\nsatu tahun anggaran.\n Ayat (5) . . .\n\n\n\n     Ayat (5)\nBiaya yang timbul dari penerbitan Obligasi Daerah antara lain\nbiaya emisi, denda, jasa pemeringkat efek, dan jasa profesi dan\nlembaga penunjang pasar modal.\n    Ayat (6)\nCukup jelas.\n\nPasal 30\n    Ayat (1)\nCukup jelas.\n    Ayat (2)\nDalam hal Obligasi Daerah yang dibeli kembali sebagai pelunasan,\nmaka Obligasi Daerah dimaksud tidak dapat dijual kembali.\n    Ayat (3)\nHak suara dalam rapat umum pemegang obligasi (RUPO), hak atas\npembayaran bunga, serta hak lain yang melekat pada Obligasi\nDaerah yang dibeli kembali tidak dapat digunakan atau diterima\noleh Daerah.\n\nPasal 31\n    Ayat (1)\nCukup jelas.\n    Ayat (2)\nDenda atas Obligasi Daerah dianggarkan dalam perubahan APBD\ntahun anggaran bersangkutan. Dalam hal denda tersebut tidak\nmemungkinkan dianggarkan dalam perubahan APBD tahun\nanggaran bersangkutan, maka dianggarkan dalam APBD tahun\nberikutnya.\n  Ayat (3)\nSemua kewajiban pokok yang timbul akibat penerbitan Obligasi\nDaerah dialokasikan dalam APBD setiap tahun sebagai dana\ncadangan (sinking fund) yang tidak dapat dipergunakan untuk\nkeperluan lainnya, sampai dengan berakhirnya kewajiban\ntersebut. Perkiraan dana yang perlu dialokasikan untuk\npembayaran kewajiban untuk satu tahun anggaran disampaikan\nkepada DPRD untuk diperhitungkan dalam APBD tahun yang\nbersangkutan.\n    Ayat (4)\nRealisasi pembayaran bunga dapat melebihi proyeksi pembayaran\nbunga dalam satu tahun anggaran, apabila tingkat bunga yang\nberlaku dari Obligasi Daerah dengan tingkat bunga mengambang\nlebih . . .\n\n\n\nlebih besar daripada asumsi tingkat bunga yang ditetapkan dalam\nAPBD.\n    Ayat (5)\nCukup jelas.\n\nPasal 32\n  Ayat (1)\nPengelolaan dan pertanggungjawaban Obligasi Daerah dilakukan\noleh unit yang ditunjuk oleh Kepala Daerah.\n     Ayat (2)\nCukup jelas.\n\nPasal 33\n    Huruf a\nDalam rangka mencapai biaya Obligasi Daerah yang paling rendah\npada tingkat risiko yang dapat diterima dan dikendalikan,\nPemerintah Daerah wajib melaksanakan dan melaporkan kegiatan\nyang sekurang-kurangnya seperti disebutkan dalam Pasal ini.\n  Huruf b\nCukup jelas.\n  Huruf c\nCukup jelas.\n  Huruf d\nDaerah melakukan penjualan Obligasi Daerah pada pasar perdana\nmelalui penawaran umum sebagaimana dimaksud dalam\nperaturan perundang-undangan di bidang pasar modal.\nSelanjutnya, dalam hal Daerah bermaksud untuk membeli kembali\n(buy back) Obligasi Daerah yang diterbitkannya atau menjual\nkembali atas Obligasi Daerah yang dibeli kembali dimaksud, maka\nDaerah dapat melakukan pembelian kembali atau penjualan\nkembali Obligasi Daerah tersebut melalui lelang.\n  Huruf e\nCukup jelas.\n  Huruf f\nCukup jelas.\n  Huruf g\nCukup jelas.\n\n Pasal 34\n  Cukup jelas.\nPasal 35 . . .\n\n\n\nPasal 35\nAktivitas pasar Obligasi Daerah dapat ditingkatkan bilamana informasi\ntentang rencana dan realisasi penerbitan yang meliputi, antara lain,\ninformasi tentang jadwal penerbitan, jatuh tempo, dan volume Obligasi\nDaerah, diumumkan secara luas dengan jadwal yang teratur. Program\ntersebut khususnya dilakukan dalam rangka penerbitan Obligasi\nDaerah yang dimaksudkan untuk pembentukan tolok ukur harga aset\nkeuangan. Adanya hal tersebut akan memberikan kesempatan kepada\npara pemodal untuk menyusun strategi penawaran (bidding),\nmenentukan jumlah persediaan Obligasi Daerah dalam portofolio, dan\nmerencanakan penjualan/pelepasan Obligasi Daerah yang saat ini\nberada dalam portofolio mereka. Bilamana pelaku pasar sudah\nmengetahui jadwal penerbitan dimaksud, gangguan potensial yang\nterjadi di pasar dapat dihindari.\n\nPasal 36\n    Cukup jelas.\n\nPasal 37\n    Cukup jelas.\n\nPasal 38\n    Ayat (1)\nKewajiban atas pinjaman yang jatuh tempo meliputi seluruh\nangsuran pokok pinjaman ditambah dengan biaya pinjaman\nseperti bunga pinjaman, biaya bank, dan biaya komitmen.\nDengan menempatkan kewajiban Daerah atas Pinjaman Daerah\nsebagai prioritas dan dianggarkan dalam pengeluaran APBD, maka\npemenuhan kewajiban tersebut dimaksudkan mempunyai\nkedudukan yang sejajar dengan pengeluaran lain yang harus\ndiprioritaskan Daerah, misalnya pengeluaran yang apabila tidak\ndilakukan dapat menimbulkan kerawanan sosial.\nDengan demikian pemenuhan kewajiban atas Pinjaman Daerah\ntidak dapat dikesampingkan apabila target penerimaan APBD tidak\ntercapai.\n  Ayat (2)\nYang dimaksud dengan “Perjanjian Pinjaman” adalah perjanjian\nantara Pemerintah Daerah dengan Pemerintah untuk pinjaman\nyang bersumber dari pinjaman luar negeri dan selain pinjaman\nluar negeri.\n\n\n\nPasal 39 . . .\n\n\n\n\nPasal 39\n    Ayat (1)\nDalam hal belum ada Standar Akuntasi Pemerintah, maka\nPemerintah Daerah melakukan pembukuan dalam rangka\nPinjaman Daerah sesuai dengan peraturan perundang-undangan.\n    Ayat (2)\nLampiran tersebut merupakan bagian dari dokumen APBD\nsehingga menjadi dokumen yang dapat diperoleh masyarakat.\n    Ayat (3)\nKetentuan ini dimaksudkan agar terdapat keterbukaan dan\npertanggungjawaban yang jelas kepada masyarakat tentang\nkewajiban pinjaman tersebut.\nYang dimaksud dengan “dokumen publik” adalah dokumen yang\ndapat diketahui oleh seluruh masyarakat.\n\nPasal 40\n    Ayat (1)\nTembusan laporan posisi kumulatif dimaksud disampaikan kepada\nDPRD sebagai pemberitahuan.\n    Ayat (2)\nCukup jelas.\n    Ayat (3)\nCukup jelas.\n\nPasal 41\n    Ayat (1)\nYang dimaksud dengan “tidak memenuhi kewajiban membayar\npinjamannya” adalah tidak dipenuhinya kewajiban pembayaran\nangsuran pokok dan/atau biaya pinjaman seperti bunga pinjaman,\nbiaya bank, dan biaya komitmen sesuai dengan jadwal waktu dan\njumlah yang telah ditetapkan dalam perjanjian pinjaman.\nSesuai dengan ketentuan pada ayat (1), semua kewajiban\npembayaran kembali Pinjaman Daerah menjadi tanggung jawab\nDaerah. Pemerintah Pusat tidak menanggung pembayaran kembali\npinjaman yang menjadi kewajiban dan tanggung jawab Daerah.\n    Ayat (2)\nCukup jelas.\n  Ayat (3)\nKetentuan lebih lanjut mengenai tatacara pemotongan DAU\ndan/atau Dana Bagi Hasil termasuk ketentuan mengenai\npenghitungan besaran potongan serta mekanisme pemotongan.\nPasal  42 . . .\n\n\n\nPasal 42\nKetentuan ini tidak termasuk Obligasi Daerah\n\nPasal 43\n  Cukup jelas.\n\nPasal 44\n    Cukup jelas.\n\nPasal 45\n  Cukup jelas.\n\n\n\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 4574"
+   }
+  }
+ ]
+}

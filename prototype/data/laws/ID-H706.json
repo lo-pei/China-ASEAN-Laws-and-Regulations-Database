@@ -1,0 +1,542 @@
+{
+ "id": "ID-H706",
+ "title": {
+  "zh": "外国人监管与移民措施法",
+  "en": "Law on the Supervision of Foreigners and Immigration Measures",
+  "id": "PENGAWASAN ORANG ASING DAN TINDAKAN KEIMIGRASIAN",
+  "orig": "PENGAWASAN ORANG ASING DAN TINDAKAN KEIMIGRASIAN",
+  "vi": "Luật về Giám sát Người Nước ngoài và Biện pháp Xuất nhập cảnh",
+  "th": "พระราชบัญญัติว่าด้วยการกำกับดูแลคนต่างด้าวและมาตรการคนเข้าเมือง",
+  "ms": "Akta tentang Pengawasan Orang Asing dan Tindakan Imigresen"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02b",
+ "language": "id",
+ "level": "law",
+ "category": "04_劳工与行政法",
+ "status": "active",
+ "promulgatedDate": "1994",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU31-1994",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 35,
+ "chars": 23830,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PP0311994.pdf&fl=P03869"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\04_劳工与行政法\\印尼_文本_1994_PENGAWASAN ORANG ASING DAN TINDAKAN KEIMIGRASIAN.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 35 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H706-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\nDalam Peraturan Pemerintah ini yang dimaksud dengan:\n1. Menteri adalah Menteri yang lingkup tugas dan tanggung jawabnya\nmeliputi bidang keimigrasian.\n2. Kantor Wilayah adalah instansi vertikal departemen yang lingkup\ntugas dan tanggung jawabnya meliputi bidang keimigrasian pada\nsuatu Propinsi Daerah Tingkat I.\n3. Pejabat Imigrasi adalah pejabat teknis keimigrasian atau pejabat lain\nyang karena status atau kedudukannya mempunyai wewenang,\ntugas, dan tanggung jawab di bidang keimigrasian.\n4. Dokumen Keimigrasian adalah izin keimigrasian yang dikeluarkan\noleh pejabat yang berwenang di bidang keimigrasian.\nBAB II …\nPRESIDEN\nREPUBLIK INDONESIA\nBAB II\nPENGAWASAN ORANG ASING\nBagian Pertama\nPelaksanaan Pengawasan"
+   }
+  },
+  {
+   "id": "ID-H706-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\nMenteri mempunyai wewenang dan tanggung jawab:\na. melakukan pengawasan terhadap orang asing yang masuk dan ke\nluar, keberadaan serta kegiatannya di wilayah Negara Republik\nIndonesia;\nb. mengkoordinasikan pelaksanaan tugas Badan atau Instansi\nPemerintah yang terkait dalam pengawasan orang asing."
+   }
+  },
+  {
+   "id": "ID-H706-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\nPelaksanaan pengawasan dan koordinasi sebagaimana dimaksud dalam\nPasal 2 dilakukan oleh Direktur Jenderal Imigrasi."
+   }
+  },
+  {
+   "id": "ID-H706-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\nPelaksanaan pengawasan dan koordinasi sebagaimana dimaksud dalam\nPasal 3, di Propinsi Daerah Tingkat I dilakukan oleh Kepala Kan tor\nWilayah, dan di Kabupaten/Kotamadya Daerah Tingkat II oleh Kepala\nKantor Imigrasi.\nBagian…\nPRESIDEN\nREPUBLIK INDONESIA\nBagian Kedua\nPengumpulan Data"
+   }
+  },
+  {
+   "id": "ID-H706-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\nPengumpulan data orang asing dilakukan dengan cara menghimpun data\ndan informasi setiap orang asing yang :\na. masuk atau ke luar wilayah Negara Republik Indonesia;\nb. berada di wilayah Negara Republik Indonesia; dan\nc. melakukan kegiatan di wilayah Negara Republik Indonesia."
+   }
+  },
+  {
+   "id": "ID-H706-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\nDalam rangka menghimpun data dan informasi mengenai masuk dan ke\nluar, keberadaan serta kegiatan orang asing di wilayah Negara Republik\nIndonesia, Pejabat Imigrasi melakukan pemantauan keimigrasian."
+   }
+  },
+  {
+   "id": "ID-H706-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\nDalam rangka pemantauan keimigrasian Pejabat migrasi berwenang:\na. mendapatkan keterangan dari masyarakat atau Instansi Pemerintah;\nb. mendatangi tempat -tempat atau hubungan yang diduga dapat\nditemukan bahan keterangan mengenai keberadaan dan kegiatan\norang asing; dan atau\nc. memeriksa Surat Perjalanan atau Dokumen Keimigrasian orang\nasing.\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H706-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8 …"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 8\nSetiap orang asing yang masuk atau ke luar wilayah Negara Republik\nIndonesia wajib memberikan keterangan identitas, keterangan\nkedatangan atau keberangkatan, dan keterangan lain yang diperlukan\nkepada Pejabat Imigrasi di Tempat Pemeriksaan Imigrasi."
+   }
+  },
+  {
+   "id": "ID-H706-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n(1) Penanggung jawab penginapan wajib menyediakan buku tamu dan\ndaftar isian orang asing yang memuat data :\na. nama;\nb. jenis kelamin;\nc. status sipil;\nd. status kewarganegaraan;\ne. tempat dan tanggal lahir;\nf. pekerjaan;\ng. alamat di negaranya;\nh. nomor dan tanggal berlakunya paspor;\ni. jenis visa;\nj. Tempat Pemeriksaan Imigrasi dan tanggal masuk wilayah\nIndonesia;\nk. tujuan; dan\nl. tanda tangan.\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Penanggung...\n(2) Penanggung jawab penginapan sebagaimana dimaksud dalam ayat\n(1) wajib menyampaikan daftar tamu orang asing kepada Kantor\nKepolisian Negara Republik Indonesia setempat,\nselambat-lambatnya 24 (dua puluh empat) jam sejak tanggal\nkedatangan orang asing yang bersangkutan.\n(3) Penanggung jawab penginapan wajib memperlihatkan buku tamu\ndan daftar isian orang asing serta memberikan keterangan tentang\ntamu orang asing, apabila diminta oleh Pejabat Imigrasi, Polisi dan\naparat keamanan lainnya yang sedang bertugas.\n(4) Salinan daftar isian orang asing sebagaimana dimaksud dalam ayat\n(2) wajib disimpan oleh penanggung jawab penginapan dalam\njangka waktu 1 (satu) tahun."
+   }
+  },
+  {
+   "id": "ID-H706-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\nSetiap orang yang memberikan kesempatan orang asing menginap di\ntempat kediamannya wajib m elaporkan kepada Kantor Kepolisian\nRepublik Indonesia atau Pejabat Pemerintah Daerah setempat dalam\njangka waktu 24 (dua puluh empat) jam sejak tanggal kedatangan orang\nasing tersebut."
+   }
+  },
+  {
+   "id": "ID-H706-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\nSetiap orang asing yang berada di wilayah Negara Republik I ndonesia\nwajib memperlihatkan Surat Perjalanan, atau Dokumen Keimigrasian dan\nsurat-surat keimigrasian lain yang dimilikinya, apabila diminta oleh\nPejabat Imigrasi yang sedang bertugas.\nPRESIDEN\nREPUBLIK INDONESIA\nBagian…\nBagian Ketiga\nPendaftaran"
+   }
+  },
+  {
+   "id": "ID-H706-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n(1) Orang asing yang berada di wilayah Negara Republik Indonesia\nlebih dari 90 (sembilan puluh) hari, wajib mendaftarkan diri pada\nKantor Imigrasi setempat.\n(2) Pendaftaran pada Kantor Imigrasi dilakukan paling lambat 14\n(empat belas) hari sejak hari ke 91 (sembilan puluh satu).\n(3) Pelaksanaan pendaftaran sebagaimana dimaksud dalam ayat (2)\ndapat dilakukan bersamaan pada saat yang bersangkutan\nmemperoleh perpanjangan Izin Kunjungan atau pemberian Izin\nTinggal Terbatas.\n(4) Kewajiban mendaftar sebagaimana dimak sud dalam ayat (1), bagi\nanak yang berumur sampai dengan 16 (enam belas) tahun dan\nbelum kawin dilakukan oleh orang tua atau walinya."
+   }
+  },
+  {
+   "id": "ID-H706-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\nKewajiban mendaftar sebagaimana dimaksud dalam Pasal 12 ayat (1)\ntidak berlaku bagi orang asing dan keluargany a yang berada di wilayah\nNegara Republik Indonesia dalam rangka tugas diplomatik dan konsuler."
+   }
+  },
+  {
+   "id": "ID-H706-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\n(1) Pendaftaran orang asing dilakukan dengan cara mengisi daftar isian\nyang memuat :\na. nama;\nPRESIDEN\nREPUBLIK INDONESIA\nb.jenis kelamin;\nc. status...\nc. status sipil;\nd. status kewarganegaraan;\ne. tempat dan tanggal lahir;\nf. pekerjaan;\ng. alamat;\nh. nomor dan tanggal berlakunya paspor;\ni. tempat Pemeriksaan Imigrasi dan tanggal masuk wilayah Negara\nRepublik Indonesia; dan\nj. masa berlakunya izin pendaftaran.\n(2) Orang asi ng yang telah melakukan pendaftaran, diberikan tanda\nbukti pendaftaran."
+   }
+  },
+  {
+   "id": "ID-H706-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\n(1) Direktur Jenderal Imigrasi bertanggung jawab atas pemeliharaan\ndaftar orang asing untuk seluruh wilayah Negara Republik\nIndonesia.\n(2) Daftar orang asing sebagaimana di maksud dalam ayat (1) dapat\ndiberikan kepada Badan atau Instansi Pemerintah yang bidang\ntugasnya menyangkut pengawasan orang asing."
+   }
+  },
+  {
+   "id": "ID-H706-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\nPemeliharaan daftar orang asing sebagaimana dimaksud dalam Pasal 15,\ndi Propinsi Daerah Tingkat I dilakukan oleh Kepala Kantor wilayah, dan\ndi Kabupaten/Kotamadya Daerah Tingkat II oleh Kepala Kantor Imigrasi.\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H706-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17 …"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 17\n(1) Orang asing yang telah melakukan pendaftaran sebagaimana\ndimaksud dalam Pasal 12 ayat (1) wajib melaporkan setiap\nperubahan keluarga, status sipil, status kewarganegaraan, alamat\natau pekerjaan kepada Kantor Imigrasi setempat.\n(2) Kewajiban sebagaimana dimaksud dalam ayat (1) dilakukan dalam\njangka waktu 14 (empat belas) hari sejak adanya perubahan\ntersebut.\n(3) Apabila perubahan sebagaimana dimaksud dalam ayat (1) terjadi di\nluar wilayah Negara Republik Indonesia, kewajiban mendaftar\ndilakukan dalam jangka waktu 14 (empat belas) hari sejak\nkedatangannya di Indonesia."
+   }
+  },
+  {
+   "id": "ID-H706-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\n(1) Dalam hal di dae rah tempat tinggal orang asing tidak terdapat\nKantor Imigrasi, kewajiban melapor sebagaimana dimaksud dalam\nPasal 17, dilakukan melalui Pejabat Pemerintah Daerah setempat.\n(2) Pejabat Pemerintah Daerah setempat meneruskan laporan\nsebagaimana dimaksud dalam ayat (1) kepada Kepala Kantor\nImigrasi yang wilayah kerjanya meliputi daerah tempat tinggal\norang asing tersebut.\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H706-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19 …"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 19\n(1) Setiap orang asing yang memperoleh Izin Tinggal Terbatas atau Izin\nTinggal Tetap, wajib melapor kepada Kantor Kepolisian Republik\nIndonesia ditempat tinggal atau kediamannya dalam jangka waktu\n30 (tiga puluh) hari terhitung sejak memperoleh izin tinggal\ntersebut.\n(2) Setiap orang asing sebagaimana dimaksud dalam ayat (1), apabila\npindah alamat wajib melapor kepada Kantor Kepolisian Republik\nIndonesia ditempat tinggal atau kediamannya yang lama dan yang\nbaru, dalam jangka waktu tujuh hari sejak tanggal kepindahannya.\n(3) Setiap orang asing sebagaimana dimaksud dalam ayat (1) yang telah\nmelapor kepada Kantor Kepolisian Republik Indonesia setempat\ndiberi surat keterangan lapor diri.\nBagian Keempat\nPengolahan Data dan Informasi"
+   }
+  },
+  {
+   "id": "ID-H706-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\n(1) Setiap Kantor Wilayah dan Kantor Imigrasi melakukan pengolahan\ndan informasi mengenai masuk atau ke luar, keberadaan dan\nkegiatan orang asing di wilayahnya masing-masing.\n(2) Hasil pengolahan data dan informasi sebagaimana dimaksud dalam\nayat (1) dilaporkan kepada Direktur Jenderal Imigrasi.\n(3) Ketentuan lebih lanjut mengenai tata cara pengolahan data dan\ninformasi serta pelaporan, sebagaimana dimaksud dalam ayat (1)\nPRESIDEN\nREPUBLIK INDONESIA\ndan ayat (2) diatur dengan Keputusan Menteri.\nBagian…\nBagian Kelima\nKoordinasi Pengawasan"
+   }
+  },
+  {
+   "id": "ID-H706-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\n(1) Dalam rangka pengawasan orang asing, Menteri membentuk Tim\nKoordinasi Pengawasan Orang Asing.\n(2) Tim Koordinasi Pengawasan Orang Asing sebagaimana dimaksud\ndalam ayat (1) dibentuk di :\na. Tingkat Pusat;\nb. Tingkat Propinsi Daerah Tingkat I, dan\nc. Wilayah/Daerah lain yang terdapat Kantor Imigrasi.\n(3) Anggota Tim Koordinasi Pengawasan Orang Asing sebagaimana\ndimaksud dalam ayat (1) terdiri atas wakil dari Badan atau Instansi\nPemerintah yang bidang tugasnya menyangkut pengawasan orang\nasing."
+   }
+  },
+  {
+   "id": "ID-H706-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\n(1) Tim Koordinasi Pengawasan Orang Asing di Tingkat Pusat\ndipimpin oleh Direktur Jenderal Imigrasi atau Pejabat Imigrasi yang\nditunjuk.\n(2) Tim Koordinasi Pengawasan Orang Asing di Tingkat Propinsi\nDaerah Tingkat I dipimpin oleh Kepala Kantor Wilayah\nDepartemen Kehakiman yang bersangkutan atau Pejabat Imigrasi\nyang ditunjuk.\n(3) Tim Koordinasi Pengawasan Orang Asing di Daerah/Wilayah lain\nPRESIDEN\nREPUBLIK INDONESIA\nyang terdapat Kantor Imigrasi dipimpin oleh Kepala Kantor\nImigrasi yang bersangkutan."
+   }
+  },
+  {
+   "id": "ID-H706-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23…"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kelima"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 23\n(1) Tim Koor dinasi Pengawasan Orang Asing bertugas memberikan\nsaran dan pertimbangan kepada Badan atau Instansi Pemerintah\nyang bidang tugasnya menyangkut pengawasan orang asing,\nmengenai hal-hal yang berkaitan dengan pengawasan orang asing.\n(2) Saran dan pertimbanga n sebagaimana dimaksud dalam ayat (1)\ndisampaikan kepada Pimpinan Badan atau Instansi Pemerintah\nsesuai dengan tingkat koordinasi masing-masing.\n(3) Ketentuan lebih lanjut mengenai pembentukan, tata kerja serta\nhal-hal lain yang berkaitan dengan Tim Koordi nasi Pengawasan\nOrang Asing diatur oleh Menteri.\nBAB III\nTINDAKAN KEIMIGRASIAN\nBagian Pertama\nTata Cara Penindakan"
+   }
+  },
+  {
+   "id": "ID-H706-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 24\n(1) Tindakan Keimigrasian ditetapkan dengan keputusan tertulis oleh\nPejabat Imigrasi yang berwenang.\n(2) Keputusan sebagaimana dimaksud dalam ayat (1) disampaikan\nkepada orang asing yang dikenakan tindakan keimigrasian\nselambat-lambatnya tujuh hari terhitung sejak tanggal penetapan.\n(3) Dalam hal tindakan keimigrasian berupa penolakan masuk ke\nwilayah Negara Republik Indonesia, keputusan tindakan\nPRESIDEN\nREPUBLIK INDONESIA\nkeimigrasian oleh Pejabat Imigrasi di Tempat Pemeriksaan Imigrasi\ndilakukan dengan menerakan tanda penolakan di paspornya."
+   }
+  },
+  {
+   "id": "ID-H706-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25…"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 25\n(1) Setiap orang asing yang dikenakan tindakan keimigrasian dapat\nmengajukan keberatan kepada Menteri dalam jangka waktu tiga hari\nsejak tanggal diterimanya Keputusan Tindakan Keimigrasian.\n(2) Permohonan keberatan sebagaimana dimaksud dalam ayat (1) tidak\nmenunda atau menghalangi pelaksanaan keputusan tindakan\nkeimigrasian."
+   }
+  },
+  {
+   "id": "ID-H706-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\n(1) Pengajuan keberatan sebagaimana dimaksud dalam Pasal 25\ndilakukan oleh orang asing yang bersangkutan atau wakilnya yang\nsah.\n(2) Wakil yang sah sebagaimana dimaksud dalam ayat (1) adalah :\na. orang tua atau walinya yang bertanggung jawab ata s orang asing\ntersebut;\nb. pengusaha atau sponsor yang bertanggung jawab atas kedatangan\norang asing tersebut di Indonesia; atau\nc. orang lain yang memperoleh kuasa khusus."
+   }
+  },
+  {
+   "id": "ID-H706-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\n(1) Pengajuan keberatan sebagaimana dimaksud dalam Pasal 25\ndilakukan secara tertulis melalui Direktur Jenderal Imigrasi dengan\nmelampirkan bukti -bukti yang dapat dipakai sebagai alasan\nkeberatannya.\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Direktur...\n(2) Direktur Jenderal Imigrasi selambat -lambatnya 21 (dua puluh satu)\nhari terhitung sejak menerima pengajuan keberatan sebagaimana\ndimaksud dalam ayat (1), menyampaikan keberatan tersebut disertai\npertimbangan-pertimbangannya kepada Menteri."
+   }
+  },
+  {
+   "id": "ID-H706-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\nMenteri memberikan keputusan selambat -lambatnya 30 (tiga puluh) hari\nterhitung sejak tanggal diterimanya pengajuan keberatan dari Direktur\nJenderal Imigrasi."
+   }
+  },
+  {
+   "id": "ID-H706-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\n(1) Menteri dalam memberikan keputusan dapat menolak atau\nmenerima pengajuan keberatan.\n(2) Keputusan Menteri sebagaimana dimaksud dalam ayat (1) bersifat\nfinal."
+   }
+  },
+  {
+   "id": "ID-H706-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\nKetentuan mengenai Pejabat Imigrasi yang berwenang melakukan\ntindakan keimigrasian, tata cara penindakan keimigrasian, pengajuan dan\npemeriksaan keberatan diatur lebih lanjut dengan Keputusan Menteri.\nPRESIDEN\nREPUBLIK INDONESIA\nBagian…\nBagian Kedua\nKarantina Imigrasi"
+   }
+  },
+  {
+   "id": "ID-H706-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\nOrang asing dapat ditempatkan di dalam Karantina Imigrasi dengan\nalasan-alasan :\na. berada di wilayah Negara Republik Indonesia tanpa memiliki izin\nkeimigrasian yang sah;\nb. dalam rangka menunggu proses pengusiran atau deportasi; atau\nc. dalam rangka menunggu Keputusan Menteri mengenai pengajuan\nkeberatan yang dilakukan."
+   }
+  },
+  {
+   "id": "ID-H706-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 32\n(1) Pada setiap Kantor Imigrasi dan atau tempat -tempat lain dapat\ndibentuk Karantina Imigrasi.\n(2) Ketentuan mengenai tugas, wewenang, klasifikasi Karantina\nImigrasi diatur lebih lanjut dengan Keputusan Menteri.\nBAB IV\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H706-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 33\nDengan berlakunya Peraturan Pemerintah ini, semua peraturan\npelaksanaan yang berkaitan dengan pendaftaran dan pengawasan orang\nPRESIDEN\nREPUBLIK INDONESIA\nasing tetap berlaku sepanjang belum diganti dengan yang baru\nberdasarkan Peraturan Pemerintah ini.\nBAB V …\nBAB V\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H706-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 34\nPada saat mulai berlakunya Peraturan Pemerintah ini :\n1. Peraturan Pemerintah Nomor 32 Tahun 1954 tentang Pendaftaran\nOrang Asing (Lembaran Negara Tahun 1954 Nomor 52)\nsebagaimana telah diubah dengan Peraturan Pemerintah Nomor 54\nTahun 1954 (Lembaran Negara Tahun 1954 Nomor 95);\n2. Peraturan Pemerintah Nomor 45 Tahun 1954 tentang Pelaksanaan\nPengawasan Terhadap Orang Asing (Lembaran Negara Tahun 1954\nNomor 83);\n3. Peraturan Pemerintah Nomor 26 Tahun 1970 tentang Koordinasi\nPengawasan Orang asing Yang Berkunjung Di Indonesia Dengan\nFasilitas Bebas Visa Tujuh Hari (Lembaran Negara Tahun 1970\nNomor 36),\ndinyatakan tidak berlaku lagi."
+   }
+  },
+  {
+   "id": "ID-H706-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 35\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nPRESIDEN\nREPUBLIK INDONESIA\nAgar...\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran\nNegara Republik Indonesia.\nDitetapkan di Jakarta\npada tanggal 14 Oktober 1994\nPRESIDEN REPUBLIK INDONESIA\nttd\nSOEHARTO\nDiundangkan di Jakarta\npada tanggal 14 Oktober 1994\nMENTERI NEGARA SEKRETARIS NEGARA\nREPUBLIK INDONESIA\nttd\nMOERDIONO\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1994 NOMOR 54\nPRESIDEN\nREPUBLIK INDONESIA\nPENJELASAN\nATAS\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nNOMOR 31 TAHUN 1994\nTENTANG\nPENGAWASAN ORANG ASING\nDAN TINDAKAN KEIMIGRASIAN\nUMUM\nDalam Penjelasan Umum Undang -undang tentang Keimigrasian ditegaskan bahwa\nterhadap orang asing, pelayanan dan pengawasan di bidang keimigrasian dilaksanakan\nberdasarkan prinsip yang bersifat \"selektif\" (selective policy).\nBerdasarkan prinsip ini, hanya orang asing yang dapat memberika n manfaat bagi\nkesejahteraan rakyat, bangsa dan Negara Republik Indonesia serta tidak membahayakan\nkeamanan dan ketertiban juga tidak bermusuhan baik terhadap rakyat, maupun Negara\nKesatuan Republik Indonesia yang berdasarkan Pancasila dan Undang -Undang Da sar\n1945 yang diizinkan masuk wilayah Indonesia.\nDengan demikian orang asing yang ingin masuk atau menetap di wilayah Negara\nRepublik Indonesia harus dipertimbangkan dari berbagai segi, baik dari segi politik,\nekonomi maupun sosial budaya bagi bangsa dan Negara Indonesia.\nSikap dan cara pandang seperti itu merupakan hal yang wajar, terutama apabila dikaitkan\ndengan pembangunan Nasional, kemajuan ilmu, dan teknologi serta berkembangnya kerja\nsama regional maupun internasional yang mendorong meningkatnya aru s orang asing\nyang masuk dan ke luar wilayah Negara Republik Indonesia.\nUntuk menjamin kemanfaatan orang asing tersebut dan dalam rangka menunjang tetap\nterpeliharanya stabilitas dan kepentingan nasional, kedaulatan negara, keamanan dan\nketertiban umum ser ta kewaspadaan terhadap dampak negatif yang timbul akibat\nperlintasan orang antar negara, keberadaan, dan kegiatan orang asing di wilayah Negara\nRepublik Indonesia, dipandang perlu melakukan pengawasan bagi orang asing dan\ntindakan keimigrasian secara tepa t, cepat, teliti, dan terkoordinasi, tanpa mengabaikan\nketerbukaan dalam memberikan pelayanan bagi orang asing.\nPengawasan orang asing ini, menjadi tanggung jawab dan wewenang Menteri yang\ndilaksanakan dalam bentuk dan cara :\n- pengumpulan…\nPRESIDEN\nREPUBLIK INDONESIA\n- pengumpulan data, keterangan, dan informasi mengenai keberadaan dan kegiatan\norang asing yang masuk dan ke luar wilayah Negara Republik Indonesia;\n- pendaftaran orang asing yang berada di wilayah Negara Republik Indonesia;\n- pemantauan keberadaan dan keg iatan orang asing di wilayah Negara Republik\nIndonesia;\n- pengolahan data dan informasi kegiatan orang asing;\n- koordinasi dengan Badan atau Instansi Pemerintah yang bidang tugasnya\nmenyangkut orang asing.\nDalam pelaksanaan pengawasan orang asing, Mente ri berkoordinasi dengan Badan atau\ninstansi Pemerintah yang bidang tugasnya menyangkut orang asing. Dalam rangka\nmemantapkan mekanisme koordinasi dan mekanisme operasi antara instansi terkait dalam\nrangka pengawasan orang asing, instansi -instansi tersebut akan tetap melakukan tugas\ndan wewenangnya masing -masing sesuai dengan peraturan perundang -undangan yang\nberlaku. Koordinasi dimaksudkan untuk memaksimalkan daya guna dan hasil guna\npengawasan terhadap orang asing.\nHasil pengawasan berupa masukan baik den gan tindakan non yustisial maupun yustisial\ndisampaikan kepada Menteri c.q. Direktorat Jenderal Imigrasi sebagai koordinator\npengawasan orang asing, untuk ditindak lanjuti sesuai dengan proporsi permasalahannya.\nHal-hal yang bersifat non yustisial akan di tindak lanjuti secara keimigrasian, sedangkan\nbagi yang terkena tindakan yustisial setelah yang bersangkutan menjalani hukuman, maka\ninstansi yang terkait harus memberitahukan kepada Menteri c.q. Direktorat Jenderal\nImigrasi untuk dikenakan tindakan keimigrasian.\nTindakan keimigrasian sebagaimana ditegaskan dalam Undang -undang tentang\nKeimigrasian adalah tindakan administratif dalam bidang keimigrasian di luar proses\nperadilan. Dalam pelaksanaan tindakan keimigrasian, untuk menjamin kepastian hukum\ndan kea dilan bagi orang asing yang terkena tindakan keimigrasian keputusannya\nditetapkan secara tertulis, yang memuat sekurang -kurangnya identitas orang yang terkena\ntindakan keimigrasian, alasan penindakan dan jenis tindakan serta dapat mengajukan\npermohonan keberatan atas tindakan keimigrasian tersebut.\nMaksud…\nPRESIDEN\nREPUBLIK INDONESIA\nMaksud tindakan keimigrasian ini untuk melaksanakan kebijaksanaan pengawasan di\nbidang keimigrasian dan membantu terlaksananya penegakan hukum di wilayah Negara\nRepublik Indonesia baik preventif maupun represif.\nPASAL DEMI PASAL\nPasal 1\nCukup jelas\nPasal 2\nCukup jelas\nPasal 3\nCukup jelas\nPasal 4\nCukup jelas\nPasal 5\nCukup jelas\nPasal 6\nCukup jelas\nPasal 7\nHuruf a\nDalam rangka menunjang pengumpulan data orang asing, masyarakat atau\nInstansi Pemerintah sedapat mungkin memberikan keterangan, apabila diminta\noleh Pejabat Imigrasi.\nHuruf b\nCukup jelas\nHuruf c…\nPRESIDEN\nREPUBLIK INDONESIA\nHuruf c\nPemeriksaan terhadap orang asing bersifat non yustisial, yang dilakukan sesuai\ndengan kebutuhan dan Pejabat Imigrasi dapat melakukan penahanan terhadap\nSurat Perjalanan atau Dokumen Keimigrasian orang asing, apabila dipandang\nperlu.\nPasal 8\nCukup jelas\nPasal 9\nYang dimaksud dengan \"penginapan\" antara lain hotel, losmen, motel dan guest\nhouse.\nPasal 10\nWajib lapor kepada Pejabat Pemerintah Daerah setempat dilakukan, apabila tempat\ntinggal orang yang memberi kesempatan menginap terhadap o rang asing jauh dari\natau tidak ada Kantor Kepolisian Republik Indonesia dan ketentuan Pasal ini tidak\nberlaku bagi diplomat.\nSedangkan yang dimaksud dengan \"Pejabat Pemerintah Daerah Setempat\" adalah\nKepala Desa atau Lurah.\nPasal 11\nYang dimaksud dengan surat-surat keimigrasian antara lain :\na. tanda bukti pendaftaran dari Direktorat Jenderal Imigrasi;\nb. surat keterangan lapor diri dari Kepolisian Republik Indonesia.\nPasal 12\nCukup jelas\nPasal 13\nCukup jelas\nPasal 14\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 1 5…\nPasal 15\nAyat (1)\nYang dimaksud dengan daftar orang asing adalah daftar orang asing\nsebagaimana dimaksud dalam Pasal 12 ayat (1).\nAyat (2)\nCukup jelas\nPasal 16\nCukup jelas\nPasal 17\nCukup jelas\nPasal 18\nLihat penjelasan Pasal 10\nPasal 19\nCukup jelas\nPasal 20\nPelaksanaan pengolahan data dan informasi orang asing dapat dilakukan baik secara\nelektronik maupun manual.\nSelanjutnya hasil pengolahan data dan informasi orang asing digunakan antara lain\nsebagai bahan pengawasan terhadap orang asing yang bersangkutan.\nPasal 21\nAyat (1)\nCukup jelas\nAyat (2)\nHuruf a\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nHuruf b…\nHuruf b\nCukup jelas\nHuruf c\nYang dimaksud dengan \"Wilayah/Daerah lain yang terdapat Kantor\nImigrasi\" adalah wilayah/Daerah di bawah Propinsi Daerah Tingkat I.\nAyat (3)\nYang dimaksud dengan Badan atau Insta nsi Pemerintah yang bidang tugasnya\nmenyangkut pengawasan orang asing :\na. Tingkat Pusat antara lain : Departemen Luar Negeri, Departemen Dalam\nNegeri, Departemen Pertahanan Keamanan, Departemen Tenaga Kerja,\nDepartemen Pendidikan dan Kebudayaan, Depart emen Agama,\nKejaksaan Agung, Badan Koordinasi Intelijen Negara, Markas Besar\nAngkatan Bersenjata Republik Indonesia, Badan Koordinasi Penanaman\nModal dan Kepolisian Republik Indonesia.\nb. Tingkat Propinsi Daerah Tingkat I antara lain :\nPemerintah Daerah Tingkat I, Kantor Wilayah Departemen Tenaga Kerja,\nKantor Wilayah Departemen Pendidikan dan Kebudayaan, Kantor\nWilayah Departemen Agama, Kejaksaan Tinggi, Komando Daerah\nMiliter (KODAM) dan Kepolisian Daerah (POLDA).\nc. Daerah lain yang terdapat Kantor Imigrasi antara lain :\nPemerintah Daerah Tingkat II, Kantor Tenaga Kerja, Kantor Pendidikan\ndan Kebudayaan, Kantor Agama, Kejaksaan Negeri, Komando Distrik\nMiliter dan Kepolisian Resort.\nPasal 22\nCukup jelas\nPasal 23\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 24 …\nPasal 24\nAyat (1)\nYang dimaksud dengan tindakan keimigrasian adalah tindakan keimigrasian\nsebagaimana dimaksud dalam Pasal 42 ayat (2) Undang -undang Nomor 9\nTahun 1992 tentang Keimigrasian.\nAyat (2)\nCukup jelas\nAyat (3)\nTindakan penolakan oleh Pe jabat Imigrasi di Tempat Pemeriksaan Keimigrasian,\napabila orang asing yang akan masuk ke wilayah Indonesia, antara lain :\na.tidak mempunyai Surat Perjalanan yang sah;\nb.tidak mempunyai izin visa; dan\nc.termasuk dalam daftar penangkalan.\nPasal 25\nCukup jelas\nPasal 26\nCukup jelas\nPasal 27\nCukup jelas\nPasal 28\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 29 …\nPasal 29\nAyat (1)\nCukup jelas\nAyat (2)\nYang dimaksud \"Keputusan Menteri bersifat final\" adalah bahwa keputusan\ntersebut merupakan keputusan tingkat terakhir dalam lingkungan badan tata\nusaha negara yang berwenang dan bertanggung jawab atas pengawasan orang\nasing. Dengan demikian secara administ ratif dan substantif tidak ada badan\ntata usaha negara atau pejabat tata usaha negara lain yang dapat meninjau\nkembali keputusan tersebut. Apabila orang asing yang bersangkutan merasa\nkepentingannya dirugikan oleh Keputusan Menteri, maka yang bersangkutan\natau wakilnya yang sah dapat mengajukan gugatan kepada Pengadilan Tinggi\nTata Usaha Negara sesuai dengan Undang -undang Nomor 5 Tahun 1986\ntentang Peradilan Tata Usaha Negara.\nPasal 30\nCukup jelas\nPasal 31\nCukup jelas\nPasal 32\nCukup jelas\nPasal 3 3\nCukup jelas\nPasal 34\nCukup jelas\nPasal 35\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 3562"
+   }
+  }
+ ]
+}

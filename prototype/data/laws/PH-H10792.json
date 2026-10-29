@@ -1,0 +1,62 @@
+{
+ "id": "PH-H10792",
+ "title": {
+  "zh": null,
+  "en": "AN ACT AMENDING SECTION TWENTY-TWO OF THE PROVISIONAL CUSTOMS TARIFF AND REGULATIONS IN THE PHILIPPINE ISLANDS.",
+  "orig": "AN ACT AMENDING SECTION TWENTY-TWO OF THE PROVISIONAL CUSTOMS TARIFF AND REGULATIONS IN THE PHILIPPINE ISLANDS."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 79",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 549,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_00079_1901_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_00079_1901_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H10792-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The provisions of the customs tariff and regulations promulgated by the United States Military\nGovernor by General Order Number Forty-nine, October twenty-third, eighteen hundred and ninety-nine, be\namended to read as follows:\n\"Section 22. All supplies and materials for the use of the Army and Navy of the United States, or for the use\nof the Insular Government, shall, under suitable restrictions, to be prescribed by the Military Governor, be\nadmitted without payment of duty.\""
+   }
+  },
+  {
+   "id": "PH-H10792-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, January 26, 1901."
+   }
+  }
+ ]
+}

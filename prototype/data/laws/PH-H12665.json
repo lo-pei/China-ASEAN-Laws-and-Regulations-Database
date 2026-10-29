@@ -1,0 +1,872 @@
+{
+ "id": "PH-H12665",
+ "title": {
+  "zh": null,
+  "en": "An Act Providing for the Suspension of Payments, the Relief of Insolvent Debtors, the Protection of Creditors, and the Punishment of Fraudulent Debtors.",
+  "orig": "An Act Providing for the Suspension of Payments, the Relief of Insolvent Debtors, the Protection of Creditors, and the Punishment of Fraudulent Debtors."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1909-05-20",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 1956",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 83,
+ "chars": 90765,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1909/act_1956_1909.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_01956_1909_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 83 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_01956_1909_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12665-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "This Act shall be known and may be cited as The Insolvency Law, and in accordance with its\nprovisions every insolvent debtor may be permitted to suspend payments or be discharged from his debts and\nliabilities.\nSUSPENSION OF PAYMENTS."
+   }
+  },
+  {
+   "id": "PH-H12665-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The debtor who, possessing sufficient property to cover all his debts, be it an individual person,\nbe it a sociedad or corporation, foresees the impossibility of meeting them when they respectively fall due,\nmay petition that he be declared in the state of suspension of payments by the court, or the judge thereof in\nvacation, of the province or of the city in which he has resided for six months next preceding the filing of his\nHe shall necessarily annex to his petition a schedule and inventory in the form provided in sections fifteen,\nsixteen, and seventeen of this Act, in addition to the statement of his assets and liabilities and the proposed\nagreement he requests of his creditors."
+   }
+  },
+  {
+   "id": "PH-H12665-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "Upon receiving and filing the petition with the schedule and documents mentioned in the next\npreceding section, the court, or the judge thereof in vacation, shall make an order calling a meeting of\ncreditors to take place in not less than two weeks nor more than eight weeks from the date of such order. Said\norder shall designate the day, hour, and place of meeting of said creditors as well as a newspaper of general\ncirculation published in the province or city in which the petition is filed, if there be one, and if there be none,\nin a newspaper which, in the judgment of the judge, will best give notice to the creditors of the said debtor,\nand in the newspaper so designated said order shall be published as often as may be prescribed by the court or\nthe judge thereof.\nSaid order shall further contain an absolute injunction forbidding the petitioning debtor from disposing in any\nmanner of his property, except in so far as concerns the ordinary operations of commerce or of industry in\nwhich the petitioner is engaged, and, furthermore, from making any payments outside of the necessary or\nlegitimate expenses of his business or industry, so long as the proceedings relative to the suspension of\npayments are pending, and said proceedings for the purposes of this Act shall be considered to have been\ninstituted from the dale of the filing of the petition."
+   }
+  },
+  {
+   "id": "PH-H12665-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "A copy of said order shall immediately be published by the clerk of said court, in the newspaper\ndesignated therein, for the number of times and in the form prescribed by the court or Copy to creditors, the\njudge thereof, and the clerk of said court shall cause a copy of said order to be delivered personally or to be\nsent forthwith by registered mail, postage prepaid, to all creditors named in the schedule. There shall be\ndeposited in addition to the sum of twenty-four Philippine pesos, which shall be paid to the clerk for the filing\nand registration of the petition, including all proceedings until the expediente is completed, an amount\nsufficient to defray all expense of publication ordered by the court, necessary postage, and ten centavos for\n\neach copy, to be delivered personally or mailed to the creditors, which last-named sum is hereby constituted\nthe legal fee of the clerk for the personal delivery or mailing required by this section."
+   }
+  },
+  {
+   "id": "PH-H12665-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "text": {
+    "en": "Only creditors included in the schedule filed by the debtor shall be cited to appear and take part\nin the meeting mentioned in section three, and they shall be notified upon delivery or transmission to them of\na copy of the order calling the meeting to appear at same with the written evidences of their respective claims,\nwithout which they shall not be admitted.\nPending execution."
+   }
+  },
+  {
+   "id": "PH-H12665-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "text": {
+    "en": "If any execution be pending against the debtor it shall not be consolidated with this proceeding,\nbut the course thereof shall be suspended before sale of property is made thereunder, provided the debtor\nmakes a request therefor to the court before which the proceeding for suspension of payments is pending,\nunless the execution be against property especially mortgaged which is hereby exempted from the provisions\nof this section. The suspension ordered by virtue of this section shall lapse when three months shall have\npassed without the proposed agreement being accepted by the creditors or as soon as it is denied. No creditor\nother than those mentioned in section nine shall sue or institute proceedings to collect his claim from the\ndebtor from the moment that suspension of payments is applied for and while the proceedings are pending."
+   }
+  },
+  {
+   "id": "PH-H12665-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7"
+   },
+   "text": {
+    "en": "Creditors may be represented at the meeting by one or more lawyers or by any person duly\nauthorized by power of attorney, which document shall be presented and be attached to the record.\nPersons appearing for more than one creditor shall have only one personal vote, but the claims presented by\nthem shall be taken into consideration for the purpose of arriving at the majority of the amount represented."
+   }
+  },
+  {
+   "id": "PH-H12665-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8"
+   },
+   "text": {
+    "en": "The presence of the creditors representing at least three-fifths of the liabilities shall be necessary\nfor holding a meeting. The meeting shall be held on the day and at the hour and place designated, the judge, or\ncommissioner deputized by him when he is absent from the province where the meeting is held, acting as\npresident and the clerk as secretary thereof, subject to the following rules:\n(a) The clerk shall prepare for insertion in the minutes of the meeting a statement of the persons present and\ntheir claims; the judge, or in default thereof, the commissioner, shall examine the written evidences of the\nclaims and the powers of attorney, if any. If the persons present who have complied with the foregoing rules\nrepresent at least three-fifths of the liabilities, the judge or commissioner shall declare the meeting open for\n(b) The petition of the debtor, the schedule of debts and of property, the statement of assets and liabilities, and\nthe proposed agreement filed therewith shall be read forthwith by the clerk, and the discussion shall be\n(c) The debtor may modify his proposition or propositions in proposition view of the result of the debate, or\ninsist upon the ones already made, and the judge or commissioner, without further discussion. shall clearly\nand succinctly place these several propositions before the meeting for a vote thereupon.\n(d) The vole shall be taken by a call of names and shall be inserted in the minutes: a majority vote shall rule.\n(e) To form a majority it is necessary-\n1. That two-thirds of creditors voting unite the same proposition.\n2. That the claims represented by said majority vote amount to at least three-fifths of the total liabilities of the\ndebtor mentioned in the petition.\n(f)After the result of the voting has been announced, all protests made against the majority vote shall be\nadmitted and stated in the record, and the meeting shall be closed.\n(g) The minutes of the meeting, containing a succinct statement of all the proceedings had therein, shall be\ndrawn up, and there shall be inserted therein the proposition or propositions voted upon, which after having\nbeen read and approved, shall be signed by the judge or commissioner together with all persons taking part in\n\nthe voting; if any such persons shall be unable to write, any person present shall sign, at their request, and the\nclerk shall certify to all the above."
+   }
+  },
+  {
+   "id": "PH-H12665-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9"
+   },
+   "text": {
+    "en": "Persons having claims for personal labor, maintenance, expenses of last illness and funeral of the\nwife or children of the debtor, incurred in sixty days immediately preceding the filing of the petition, and\npersons having legal or contractual mortgages, may refrain from attending the meeting and from voting\ntherein. Such persons shall not be bound by any agreement determined upon at such meeting, but if they\nshould join in the voting they shall be bound in the same manner as are the other creditors."
+   }
+  },
+  {
+   "id": "PH-H12665-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10"
+   },
+   "text": {
+    "en": "The proposed agreement shall be deemed rejected if the number of creditors required for\nholding a meeting do not attend thereat, or if the two majorities mentioned in rule (e) of section eight are not\nin favor thereof, even if the negative vote itself does not receive such majorities."
+   }
+  },
+  {
+   "id": "PH-H12665-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11"
+   },
+   "text": {
+    "en": "If the decision of the meeting he negative as regards the proposed agreement or if no decision is\nhad in default of such number or of such majorities, the proceeding shall be terminated recourse without\nrecourse and the parties concerned shall be at liberty to enforce the rights which may correspond to them. If\nthe decision is favorable to the debtor it may he objected to within ten days following the date of the meeting\nby any creditor who attended the meeting and who dissented from and protested against the vote of the\nmajority. The opposition or objection to the decision of the majority favorable to the debtor shall be proceeded\nwith as in any other incidental motion, the debtor and the creditors who shall appear declaring their purpose to\nsustain the decision of the meeting being the defendants. The court shall hear and pass upon such objection as\nsoon as possible and in a summary manner, and in its order, which shall be final, it shall declare whether or\nnot the decision of the meeting invalid. In ease that the decision of the meeting is held to he null, the court\nshall declare the proceeding terminated and the parties concerned at liberty to exercise the rights which may\ncorrespond to them ; and in case the decision of the meeting is declared valid, or when no opposition or\nobjection to said decision has been presented, the court shall order that the agreement be carried out and the\npersons concerned shall by the decision of the meeting. The court may also issue all orders which may be\nproper to enforce the agreement on motion of any of the parties litigant. The order directing the agreement to\nbe made effective shall be binding upon all creditors included in the schedule of the debtor who may have\nbeen properly, but not upon creditors mentioned in section nine who failed to attend the meeting or refrained\nfrom voting therein, and their rights shall not be affected by the agreement unless they may have expressly or\nimpliedly consented thereto."
+   }
+  },
+  {
+   "id": "PH-H12665-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12"
+   },
+   "text": {
+    "en": "The causes for which objection may be made to the decision of the meeting shall be-\n(a) Defects in the call for the meeting, in the holding thereof, and in the deliberations had thereat which\nprejudice the rights of the creditors;\n(b) Fraudulent connivance between one or more creditors and the debtor to vote in favor of the proposed\n(c) Fraudulent conveyance of claims for the purpose of obtaining a majority."
+   }
+  },
+  {
+   "id": "PH-H12665-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13"
+   },
+   "text": {
+    "en": "If the debtor fails wholly or in part to perform the agreement decided upon at the meeting of the\ncreditors, all the rights which the creditors had against the debtor before the agreement shall request in them.\nIn such case the debtor maybe made subject to the bankruptcy and insolvency proceedings in the manner\nestablished by the following chapters of this Act:\nCHAPTER III\nVOLUNTARY INSOLVENCY."
+   }
+  },
+  {
+   "id": "PH-H12665-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14"
+   },
+   "text": {
+    "en": "An insolvent debtor, owing debts exceeding in amount the sum of one thousand pesos, may\napply to be discharged from his debts and liabilities by petition to the Court of First Instance of the province\nor city in which he has resided for six months next Contents of preceding the filing of such petition. In his\npetition he shall set forth his place of residence, the period of his residence therein immediately prior to tiling\nsaid petition, his inability to pay all his debts by full, his willingness to surrender all his property, estate, and\n\neffects not exempt from execution for the benefit of his creditors, and an implication to be adjudged an\ninsolvent. He shall annex to his petition n schedule and inventory in the form hereinafter provided. The filing\nof such petition shall be an at of insolvency."
+   }
+  },
+  {
+   "id": "PH-H12665-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15"
+   },
+   "text": {
+    "en": "Said schedule must contain a full and true statement of all his debts and liabilities, together with\na list of all those to whom, to the best of his knowledge and belief, said debt or liabilities are due, the place of\nresidence of his creditors and the sum due each, the nature of indebtedness or liability and whether founded on\nwritten security, obligation, contract or otherwise, the true cause and consideration thereof, the time and place\nwhen and where such indebtedness or liability accrued, a declaration of any existing pledge, lien, mortgage,\njudgment, or other security for the payment of the debt or liability, and an outline of the facts giving rise or\nwhich might give rise to a cause of action against such insolvent debtor."
+   }
+  },
+  {
+   "id": "PH-H12665-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16"
+   },
+   "text": {
+    "en": "Said inventory must contain, besides the creditors, an accurate description of all the real and\npersonal property, estate, and effects of the petitioner, including his homestead, if any, together with a\nstatement of the value of each item of said property, estate and effects and its location, and a statement of the\nincumbrances thereon. All property exempt by law from execution shall be set out in said inventory with a\nstatement of its valuation, location, and the incumbrances thereon, if any. The inventory shall contain an\noutline of the facts giving rises, or which might give rise, to a right of action in favor of the insolvent debtor."
+   }
+  },
+  {
+   "id": "PH-H12665-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17"
+   },
+   "text": {
+    "en": "The petition, schedule and inventory must be verified by the affidavit of the petitioner, annexed\nthereto, and shall be in form substantially as follows: \"I, ............................, do solemnly swear that the\nschedule and inventory now delivered by me contain a full, correct and true discovery of all my debts and\nliabilities and of all goods, effects, estate and property of whatever kind or class to me in any way belonging.\nThe inventory also contains a full true and correct statement of all debts owing or due to me, or to nay person\nor persons in trust for or and of all securities and contracts whereby any money may hereafter become due or\npayable to me or by or through which any benefit or advantage whatever may accrue to me or to may use, or\nto nay other person or persons in trust for me. The schedule contain a clear outline of the facts facts giving\nrise, or which might give rise, to a cause of action against me, and the inventory contains an outline of the\nfacts giving rise, or which might give rise, to any cause of action my favor. I have no lands, money, stock, or\nestate, reversion or expectancy, or property of any kind, except that set forth in said inventory. I have in no\ninstance created or knowledge a debt for a greater sum than I honestly and truly owe. I have not directly or\nindirectly, concealed, fraudulently sold, or otherwise fraudulently disposed of, any part of my real or personal\nproperty , estate. effects or rights of action, and I have not in any way compounded with any of my creditors\nin order to secure such creditors, or to receive or to accept any profit or advantage therefrom, or to defraud or\ndeceived in any manner any creditor to whom I am indebted. So help me God.\""
+   }
+  },
+  {
+   "id": "PH-H12665-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18"
+   },
+   "text": {
+    "en": "Upon receiving and filing said petition, schedule, and inventory, the court, or the judge thereof\nin vacation, shall make an order declaring the petitioner insolvent, and directing the sheriff of the province or\ncity in which the petition is filed to take possession of, and safely keep, until the appointment of a receiver or\nassignee, all the deeds, vouchers, books of account, papers, notes, bonds, bills, and securities of the debtor,\nand all his real and personal property, estate, and effects, except such as may be by law exempt from\nexecution. Said order shall further forbid the payment to the debtor of any debts due to him and the delivery to\nthe debtor, or to any person for him, of any property belonging to him, and the transfer of any property by\nhim, and shall further appoint a time and place for a meeting of the creditors to choose an assignee of the\nestate. Said order shall designate a newspaper of general circulation published in the province or city in which\nthe petition is filed, if there be one and if there be none, in a newspaper which, in the opinion of the judge, will\nbest give notice to the creditors of the said insolvent, and in the newspaper so designated said order shall be\npublished as often as may be prescribed by the court or the judge thereof. The time appointed for the election\nof an assignee shall not be less than two, nor more Civil proceedings, than eight, weeks from the date of the\norder of adjudication. Upon the granting of said order all civil proceedings pending against the said insolvent\nshall be staved. \"When a receiver is appointed, or an assignee chosen, as provided in this Act, the sheriff shall\nthere upon deliver to such receiver or assignee, as the case may be, all the property, assets, and belongings of\n\nthe insolvent which have come into his possession, and he shall be allowed and paid as compensation for his\nservices the same expenses and fees as would by law be collectible if the property had been levied upon and\nsafely kept under attachment."
+   }
+  },
+  {
+   "id": "PH-H12665-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19"
+   },
+   "text": {
+    "en": "A copy of said order shall immediately be published by the clerk of said court, in the\nnewspaper designated therein, for the number of times and as prescribed by the court or the judge thereof, and\na copy of said order shall be delivered personally or sent by the clerk forthwith by registered mail, postage\nprepaid, to all creditors named in the schedule. There shall be deposited, in addition to twenty-four pesos,\nwhich shall be received by the clerk on commencing such proceedings, a sum of money sufficient to defray\nthe expense of the publication ordered by the court, necessary postage, and ten centavos for each copy to be\ndelivered personally or mailed to the creditors, which last-named sum is hereby constituted the legal fee of the\nclerk for the personal delivery or mailing required by this section.\nINVOLUNTARY INSOLVENCY."
+   }
+  },
+  {
+   "id": "PH-H12665-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20"
+   },
+   "text": {
+    "en": "An adjudication of insolvency may be made on the petition of three or more creditors, residents\nof the Philippine Islands, whose credits or demands accrued in the Philippine Islands, and the amount of\nwhich credits or demands are in the aggregate not less than one thousand pesos: Provided, That none of said\ncreditors has become a creditor by assignment, however made, within thirty days prior to the filing of said\npetition. Such petition must be filed in the Court of First Instance of the province or city in which the debtor\nresides or has his principal mace of business, and must be verified by at least three of the petitioners. The\nfollowing shall be considered acts of insolvency, and the petition for insolvency shall set forth one or more of\nsuch acts: (1) That such person is about to depart or has departed from the Philippine Islands, with intent to\ndefraud his creditors; (2) that being absent from the Philippine Islands, with intent to defraud his creditors, he\nremains absent; (3) that he conceals himself to avoid the service of legal process for the purpose of hindering\nor delaying or defrauding his creditors; (4) that he conceals, or is removing, any of his property to avoid its\nbeing attached or taken on legal process; (5) that he has suffered his property to remain under attachment or\nlegal process for three days for the purpose of hindering or delaying or defrauding his creditors; (6) that he has\nconfessed or offered to allow judgment in favor of any creditor or claimant for the purpose of hindering or\ndelaying or defrauding any creditor or claimant; (7) that lie has will fully suffered-judgment to be taken\nagainst him by default for the purpose of hindering or delaying or defrauding his creditors; (8) that he has\nsuffered or procured his property to be taken on legal process with intent to give a preference to one or more\nof his creditors and thereby hinder, delay, or defraud any one of his creditors; (9) that he has made any\nassignment, gift, sale, conveyance, or transfer of his estate, property, rights, or credits with intent lo delay,\ndefraud, or hinder his creditors; (10) that he has, in contemplation of insolvency, made any payment, gift,\ngrant, sale, conveyance, or transfer of his estate, property, rights, or credits; (11) that being a merchant or\ntradesman he has generally defaulted in the payment of his current obligations for a period of thirty days; (12)\nthat: for a period of thirty days he has failed, after demand, to pay any moneys deposited with him or received\nby him in a fiduciary capacity; and (13) that an execution having been issued against: him on final judgment\nfor money, he shall have been found to lie without sufficient property subject to execution to satisfy the\njudgment. The petitioners may, from time to time, by leave of the court, amend and correct the petition, so\nthat the same shall conform to the facts, such amendment or amendments to relate back lo and be received as\nembraced in the original petition. The said petition shall be accompanied by a bond, approved by the court,\nwith at least two sureties, in such penal sum as the court shall direct, conditioned that if the petition in\ninsolvency be dismissed by the court, or withdrawn by the petitioner, or if the debtor shall not be declared an\ninsolvent, the petitioners will pay to the debtor alleged in the petition to be insolvent all costs, expenses, and\ndamages occasioned by the proceedings in insolvency, together with a reasonable counsel ice to be fixed by\nthe court. The court may, upon motion, direct the filing of an additional bond, with different sureties when\ndeemed necessary."
+   }
+  },
+  {
+   "id": "PH-H12665-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21"
+   },
+   "text": {
+    "en": "Upon the filing of such creditors petition, the court or a judge thereof shall issue an order\n\nrequiring such debtor to show cause, at a time and place to be fixed by said court or judge, why lie should not\nbe adjudged an insolvent debtor; and at the same time. or thereafter, upon good cause shown therefor, said\ncourt or judge may make an order forbidding the payment of any debts, and the delivery of any property\nbelonging to such debtor to him or to my other person for his use or benefit or the transfer of any properly by"
+   }
+  },
+  {
+   "id": "PH-H12665-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22"
+   },
+   "text": {
+    "en": "A copy of said petition, with a copy of the order to show cause, shall be served on the debtor, in\nthe same manner as is provided by law for the service of summons in civil actions, but such service shall be\nmade at least five days before the time fixed for the hearing: Provided, That if, for any reason, the service is\nnot made, the order may be renewed, and the time and place of hearing changed by supplemental order of the\ncourt. Whenever the debtor on whom service is to be made resides out of the Philippine Islands; or has\ndeparted from the Philippine Islands; or can not, after due diligence, be found within the Philippine Islands; or\nconceals himself to avoid the service of the order to the cause, or any other process or orders in the made; or is\na foreign corporation having no managing or business agent, cashier for secretary within the Philippine\nIslands upon whom service can be made, and such facts arc shown to the court or a judge thereof, by affidavit,\nsuch court or judge thereof shall make an order that the service of such order, or other process, be made by\npublication, in the same manner, and with the same effect, as service of summons by publication in ordinary\ncivil actions."
+   }
+  },
+  {
+   "id": "PH-H12665-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23"
+   },
+   "text": {
+    "en": "At the time fixed for the hearing of said order to show cause, or at another time to which such\nhearing may be adjourned, the debtor must answer the petition, or may demur for the same causes as are\nprovided for demurrer in other cases by the Code of Civil Procedure. If he demur and the demurrer be\noverruled, the debtor shall immediately answer the petition. Such answer shall contain a specific denial of the\nmaterial allegations of the petition controverted by him, and shall he sworn to: and the issues raised Dismissal\nof proposed thereon shall be promptly tried and disposed of. If, upon such trial, the issues are found in favor\nof the respondent, the proceedings shall be dismissed, and the respondent shall be allowed all costs, counsel\nfees, expenses, and damages sustained by reason of the counsel lees, costs proceedings therein. Counsel fees,\ncosts, expenses, and damages shall be fixed and allowed by this court."
+   }
+  },
+  {
+   "id": "PH-H12665-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24"
+   },
+   "text": {
+    "en": "If the respondent shall make default, or if, after trial, the issues are found in favor of the\npetitioners, the court shall make an order adjudging that said respondent is and was, at the time of filing the\npetition, an insolvent debtor and that the debtor was guilty of the acts and tilings charged in the petition, or\nsuch of them as the court may find to be true; and shall require said debtor, within such time as the court may\ndesignate, not to exceed three days, to file in court the schedule and inventory provided for in sections fifteen\nand sixteen of this Act, duly verified as required of a petitioning debtor: Provided, That in the affidavit of the\ninsolvent, touching his property and its disposition, he shall not be required to swear that he has not made any\nfraudulent preference or committed any other act in conflict with the provisions of this Act; but he may do so\nif he desires. Said order shall farther direct the sheriff of the province or city where the insolvency petition is\nfiled, or the receiver, if one has been theretofore appointed, to take possession of and safely keep, until the\nappointment of an assignee, all the deeds, vouchers, hooks of account, papers, notes, bills, bonds and\nsecurities of the debtor, and all his real and personal property, estate and effects, except such as may be by law\nto exempt from execution. Said order shall further forbid the payment to the debtor of any debts due to him\nand the delivery to the debtor, or to any person for him of any property belonging to him, and the transfer of\nany property by him, and shall further appoint a time and place for a meeting of the creditors to choose an\nassignee of the estate. Said order shall designate a newspaper of general circulation published in the province\nor city in which the petition is filed, if there be one, and if there be none, in a newspaper which, in the opinion\nof the judge, will best give notice to the creditors of the said insolvent and in the newspaper so designated said\norder shall be published as often as may be prescribed by the court or the judge thereof. The time appointed\nfor the election of an assignee shall not he less than two nor more than eight weeks from the date of the order\nof adjudication.\nUpon the granting of said order, all civil proceedings pending against the said insolvent shall be stayed. When\n\nan assignee is to as chosen as provided in this Act, the sheriff or receiver, if there be assignee one, shall\nthereupon deliver to such assignee all the property, estate, and belongings of the insolvent, which have come\ninto his possession, and he shall be allowed and paid as compensation for his services the same expenses and\nfees as would by law be collectible expenses if the properly had been levied upon and safely kept under\nattachment."
+   }
+  },
+  {
+   "id": "PH-H12665-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25"
+   },
+   "text": {
+    "en": "A copy of the order provided for in the last preceding section of this Act shall immediately be\npublished by the clerk service of order of said court in the newspaper designated therein for the number of\ntime and as prescribed by the court or the judge thereof, and upon the filing at any time before the date set for\nsuch meeting of the schedule required by said last preceding section, a copy of ' ill be delivered personally or\nsent by the clerk for there mail, postage prepaid, to all creditors named in said schedule. If said schedule is not\nfiled prior to the day fixed for the election of an assignee, publication of said order as herein required shall be\nof itself sufficient notice to the creditors of the place appointed for the election of an assignee. No order of\nadjudication upon creditors petition shall be entered unless ie first deposited, in addition to the cost of\ncommencing said proceedings, a sum of money sufficient to defray the expense of the publication ordered by\nthe court, necessary postage, and ten centavos for each copy to be delivered personally or mailed to the\ncreditors, which last-named sum is hereby constituted the legal fee of the clerk for the personal delivery or\nmailing required by this section."
+   }
+  },
+  {
+   "id": "PH-H12665-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26"
+   },
+   "text": {
+    "en": "In all cases where the debtor resides out of the Philippine Islands: or has departed from the\nPhilippine Islands; or can not, after due diligence, be found within the Philippine Islands; or conceals himself\nto avoid service of the order to show cause, or any other preliminary process or orders in the matter; or is a\nforeign corporation having no managing or business agent, cashier, and within the Philippine Islands upon\nwhom service or nil process can he made, and it therefore becomes necessary in service of process and order\nto show cause, as provided in twenty-two of this Act, then the petitioning creditors, upon submitting affidavits\nrequisite to procure an order of publication, and presenting a bond in double the amount of the if their claims\nagainst the debtor, shall be entitled the court directing the sheriff of the province or the matter is pending to\ntake into his custody a sufficient amount of property of the debtor to satisfy the demands g creditors and the\ncosts of the proceedings. Upon receiving such order of the court to take into custody property of the debtor, it\nshall he the duty of the sheriff to take possession of the property and effects of the debtor, not exempt from\nexecution, to an extent sufficient to cover the amount provided for, and to prepare, within three days from the\ntime of taking such possession, a complete inventory of all the property so taken, and to return it to the court\nas soon as completed. The time for taking the inventory and making return thereof may be extended for good\ncauses shown to the court: or a judge thereof. The sheriff shall also prepare a schedule of the names and\nresidences of the creditors, and the amount due each, from the books of the debtor, or from s«ch other papers\nor data, of the debtor available as may come to his possession, and shall file such such inventory with the\nclerk of the court."
+   }
+  },
+  {
+   "id": "PH-H12665-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 27"
+   },
+   "text": {
+    "en": "In all cases where property is the sheriff, as provided in the preceding embrace all the property\nand effects of the execution, any other creditor or creditors of the debtor, upon giving bond to be approved by\nthe. court in double the amount of their claims, singly or jointly, shall be entitled to similar orders, and to like\naction, by the sheriff, until all claims be provided for, if be sufficient property or effects. All property taken\ninto custody by the sheriff by virtue of the giving of any such bonds shall be held by him for the benefit of all\ncreditors of the debtor whose claims shall be duly proved, and as provided in this Act. The bonds provided for\nin ibis and the preceding section to procure the order for custody of the property, and effects of the debtor,\nshall be conditioned that if. upon final hearing of the petition in insolvency, the court shall and in favor of the\npetitioners, such bonds and all of them shall be void; if the decision the in favor of the debtor, the proceedings\nshall be dismissed, and the debtor, his heirs, administrators, executors, or assigns, shall be entitled to recover\nsuch sum of money as shall be sufficient to cover the damages sustained by him, not to exceed the amount of\nthe respective bonds. Such damages shall be fixed and allowed by the court. If either the petitioners or the\ndebtor shall appeal from the decision of the court, upon final hearing of the petition the appellant shall be\n\nrequired to give bond to the successful party in a sum double the amount of the value of the property in\ncontroversy, and for the costs of the proceedings. Such bond shall be approved by the court, to Any person\ninterested in the estate may except to the sufficiency of the sureties on such bond or bonds. When excepted to,\nthe petitioner's sureties, upon notice to the person excepting of not less than two nor more than five days,\nmust justify as to their sufficiency; and upon failure to justify, or if others in their place fail to justify at the\ntime and place appointed, the judge shall issue an order vacating the order to take the property of the debtor\ninto the custody of the sheriff, or denying the appeal, as the case may be."
+   }
+  },
+  {
+   "id": "PH-H12665-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 28"
+   },
+   "text": {
+    "en": "If, in any case, proper affidavits and bonds are presented to the court or a judge thereof, asking\nfor and obtaining an order of publication and an order for the custody of the property of the debtor, as\nprovided in sections twenty-six and twenty-seven of this Act, and thereafter the petitioners shall make it\nappear satisfactorily to the court or a judge thereof that the interest of the parties to the proceedings will be\nsubserved by a sale1 thereof, the court may order such property to be sold in the same manner as property is\nsold under execution, the proceed- to be deposited in the court to abide the result of the proceedings."
+   }
+  },
+  {
+   "id": "PH-H12665-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Section 29"
+   },
+   "text": {
+    "en": "No creditor shall be entitled to vote for the election of an assignee unless he shall have filed his\nclaim in the office of the clerk of the court in which the proceedings are pending at least two days prior to the\ntime appointed for Mich election. All claims shall contain a statement showing the amount and nature of the\nclaim and security, if any. The claim shall be verified by the claimant, or his duly authorized agent or attorney.\nNo claim barred by the statute of limitations shall be proved or allowed against the estate of an insolvent\ndebtor for any purpose. Any person interested Exceptions to in the estate of the insolvent may file exceptions\nto the legality or good faith of any claim, by setting forth specifically in writing his interest in the estate, and\nthe grounds of his objection to such claim. Such exceptions shall be verified by the affidavit of the party\nobjecting, or his duly authorized agent or attorney, and the affidavit shall sit out that such exceptions are not\nmade for the purpose of delay and are made in good faith in the best interests of said estate. Exception to any\nclaim must be filed with the clerk of the court day before the time appointed for the election of and such\nexceptions shall be heard and disposed of by in affidavit or other evidence, in a summary manner, the action\nof an assignee. No creditor or claimant who holds any montage, pledge, or lien of any kind whatever as\nsecurity for the payment of his claim or attachment or execution on property of the debtor duly recorded and\nnot dissolved under this Act shall be permitted to vote at the election of the assignee any part of his secured\nclaim unless he shall first have the value of such security taxed as provided in section fifty-nine of this Act, or\nshall surrender in the sheriff or receiver of the estate of the insolvent, if there be a receiver, all such property,\nor assign such lien to such sheriff or receiver. The surrender or assignment of such security or lien shall be for\nthe benefit of all creditors of the estate of the insolvent. The value of such security, if fixed by the court, shall\nbe so fixed at least one day before the day appointed for the election of an assignee, in which event the\nclaimant may prove his demand as provided in this section for any unsecured balance, subject to the filing of\nexceptions as in all other claims."
+   }
+  },
+  {
+   "id": "PH-H12665-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Section 30"
+   },
+   "text": {
+    "en": "At a meeting of the creditors in open court or, if the court is not in session, in the presence of\nthe judge or the clerk of the court, those being entitled to vote, as provided by section twenty-nine, shall\nproceed to the election of an assignee. The majority of the creditors who have proven their claims, such\nmajority being both in number and amount, must concur for the election of an assignee. The clerk of the court\nshall keep a minute of the deliberations of said creditors, and of the election and appointment of the assignee,\nand enter the same upon the records of the and in the absence of the judge, shall send a copy of such record to\nhim at the place where lie may be found. The assignee shall file, within five days, unless the time be extended\nby the court, with the clerk, a bond, in an amount to be fixed by the court, to the Government of the Philippine\nIslands, with two or more sufficient sureties, approved by the court, and conditioned upon the faithful\nperformance of the duties devolving upon him. The bond shall not be void upon the first recovery, but may be\nsued upon from the time by any person aggrieved, in his own name. ole penalty be exhausted. The sureties on\n\nsuch bond may be required to justify as to their sufficiency upon the application of any party interested."
+   }
+  },
+  {
+   "id": "PH-H12665-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Section 31"
+   },
+   "text": {
+    "en": "If on the day appointed for the meeting, creditors do not attend, or fail or refuse to elect an\nassignee, of it, after election, the assignee shall fail to qualify within the proper time, or if a vacancy occurs by\ndeath or otherwise, the court shall appoint an nee and fix the amount of his bond."
+   }
+  },
+  {
+   "id": "PH-H12665-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Section 32"
+   },
+   "text": {
+    "en": "As soon as an assignee is elected or appointed and qualified, the clerk of the court shall, by an\ninstrument under his and seal of the court, assign and convey to the assignee all the real and personal property,\nestate, and effects of the debtor with all his deeds, \"books, and papers relating thereto, and such assignment\nshall relate back to the commencement of the proceedings in insolvency, and shall relate back to the acts upon\nwhich the adjudication was founded, and by operation of law shall vest the title to all such property, estate,\nand effects in the assignee, although the same is then attached on measure process, as the property of the\ndebtor. Such assignment shall operate to vest in the assignee all of the estate of the insolvent debtor not\nexempt by law from execution. It shall also dissolve any attachment levied within one month next preceding\nthe commencement of the insolvency proceedings and vacate and set aside any judgment entered in any action\ncommenced within thirty days immediately prior to the commencement of insolvency proceedings and shall\nvacate and set aside any execution issued thereon and shall vacate and set aside any judgment entered by\ndefault or consent of the debtor within thirty days immediately prior lo the commencement of the insolvency\nproceedings."
+   }
+  },
+  {
+   "id": "PH-H12665-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Section 33"
+   },
+   "text": {
+    "en": "The assignee shall have the right to recover all the estate, debts, and effects of said insolvent. If,\nat the time of the commencement of proceedings in insolvency, an action is pending in the name of the debtor,\nfor the recovery of a debt or other thing which might or ought to pass to the assignee by the assignment, the\nassignee shall be allowed and admitted to prosecute the action, in like manner and with like effect as if it had\nbeen originally commenced by him. If there are any rights of action in favor of the insolvent for damages, on\nany account, for which an action is not pending, the assignee shall have the right to prosecute the same with\nthe same effect as the insolvent might have done himself if no proceedings in insolvency had been instituted.\nIf any action or proceeding in which the insolvent is defendant is pending at the time of the adjudication, the\nassignee may defend the same in the same manner and with like effect as it might have been defended by the\ninsolvent. In a suit prosecuted or defended by the assignee, a certified copy of the assignment made to him\nshall be conclusive evidence of his authority to sue or defend."
+   }
+  },
+  {
+   "id": "PH-H12665-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "Section 34"
+   },
+   "text": {
+    "en": "The assignee shall, within one month after the making of the assignment to him, cause the same\nto be recorded in every province or city within the Philippine Islands where any real estate owned by the\ndebtor is situated, and the record of such assignment, or a duly certified copy thereof, shall be conclusive\nevidence thereof in all courts. If the schedule and inventory required by this Act have not been filed by the\ndebtor the assignee shall, within one month after his election, prepare and file such schedule and inventory\nfrom the best information he can obtain, and shall thereupon personally deliver notice or send same by\nregistered mail, postage prepaid, to all creditors named in such schedule, whose claims have not been filed, to\nforthwith prove their demands."
+   }
+  },
+  {
+   "id": "PH-H12665-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "Section 35"
+   },
+   "text": {
+    "en": "Any assignee may at any time, by writing filed in court, resign his appointment, having first\nsettled his accounts and delivered up all the deeds, vouchers, hooks of account, notes, bills, bonds, and\nsecurities of the debtor and all his real and personal property, estate, and effects to such successor as the court\nshall appoint: Provided, That if in the discretion of the court, the circumstances of the case require it, upon\ngood cause being shown, the court may, at any time before such settlement of account and delivery of the\nestate shall have been completed, revoke the appointment of such assignee and appoint another in his stead.\nThe liability of the outgoing assignee, or of the sureties on his bond, shall not be in any manner discharged,\nreleased, or affected, by such appointment of another in his stead."
+   }
+  },
+  {
+   "id": "PH-H12665-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "Section 36"
+   },
+   "text": {
+    "en": "The said assignee shall have power:\n1. To sue and recover all the estate, assets, debts, and claims, belonging to or clue to such debtor; and no\nset-off or counterclaim shall he allowed in any such suit for debts contracted by the insolvent within thirty\n\ndays immediately preceding the filing of of insolvency except in case of creditors specified in this Act.\n2. To take into his possession all the estate of such debtor exempt by law from execution, whether attached or\ndelivered in him, or afterwards discovered, and all books, vouchers, evidence of indebtedness, and securities\nbelonging to the same.\n3. In case of a nonresident or absconding or concealed debtor to demand and receive of every sheriff who\nshall have attached any of the properly of such debtor, or who shall have in his possession any moneys arising\nfrom the sale of such property, all such property and moneys, on paying him his lawful costs and charges for\nattaching and keeping the same.\n4. From time to time to sell at public auctions after advertisement in the manner provided by subsections (1),\n(2), and (3) of section four hundred and fifty-four of the Code of Civil Procedure, upon order of the court, any\nof the estate, real and personal, which has come into his possession, and which is vested in him as such\nassignee, and on such sales to execute the necessary conveyances and bills of sale.\n5. To redeem all valid mortgages and conditional contracts, and all valid pledges of personal property, and to\nsatisfy any judgments which may be an incumbrance on any property sold by him; or to sell such property,\nsubject to such mortgage, contracts, pledges, judgments, or liens.\n6. To settle all matters and accounts between such debtor and debtors, subject to the approval of the court.\n7. Under the order of the court or judge appointing him, to compound with any person indebted to such\ndebtor, and thereupon discharge all demands against such person.\n8. To recover from any person receiving a conveyance, gift, transfer, payment, or assignment, made contrary\nto any provision of ibis Act. the property thereby transferred or assigned; or in case a redelivery of the\nproperty can not be had, to recover the value thereof, with damages for the detention."
+   }
+  },
+  {
+   "id": "PH-H12665-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "Section 37"
+   },
+   "text": {
+    "en": "If any person, before the assignment is made, having notice of the commencement of the\nproceedings in insolvency, or having reason to believe that insolvency proceedings are about to he\ncommenced, embezzles or disposes of any of the moneys, goods, or effects of the insolvent, he is chargeable\nthere with, and liable to an action by the assignee for double the value of the property so embezzled or\ndisposed of, to be recovered for the benefit of the insolvent's estate."
+   }
+  },
+  {
+   "id": "PH-H12665-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "Section 38"
+   },
+   "text": {
+    "en": "The same penalties, forfeitures, and proceedings by citation, examination, and commitment\nshall apply on behalf of mi assignee against persons suspected of having concealed, embezzled, conveyed\naway, or disposed of any property of the debtor or of having possession or knowledge of any deeds,\nconveyances, bonds, contracts, or other writings which relate to any interest of the debtor in any real or\npersonal estate as provided in the case of estates of deceased persons in sections seven hundred and nine to\nseven hundred and thirteen, inclusive, of the Code of Civil Procedure."
+   }
+  },
+  {
+   "id": "PH-H12665-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "Section 39"
+   },
+   "text": {
+    "en": "The assignee shall as speedily as possible convert the estate, real and personal, into money, lie\nshall keep a regular account of all moneys received by him as assignee, to which every creditor or other\nperson interested therein may at all reasonable Private sales, times, have access. No private sale of any\nproperty of the estate of an insolvent debtor shall be valid unless made under the order of the court, upon a\npetition in writing, which shall set forth the facts showing the sale to be necessary. Upon filing; the petition,\nnotice of the hearing thereof of at least ten days shall be given by publication and mailing, in the same manner\nas is provided in section nineteen of this Act. If it appears that a private sale is for the best interests of the\nestate, the court shall order it to be made."
+   }
+  },
+  {
+   "id": "PH-H12665-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "Section 40"
+   },
+   "text": {
+    "en": "In all cases when it appears to the satisfaction of the court that the estate of the debtor, or any\npart thereof, is of a perishable nature, or is liable to deteriorate in value, or is disproportionately expensive to\nkeep, and that the insolvent's estate will suffer if sufficient time elapses, for the giving of notice, the court\nmay order the same to be sold in such manner and at such time as may be deemed most expedient, under the\ndirection of the sheriff, receiver, or assignee, as the case may be. who shall hold the funds received in place of\n\nthe property sold until further order of the court."
+   }
+  },
+  {
+   "id": "PH-H12665-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "Section 41"
+   },
+   "text": {
+    "en": "Outstanding debts, or other property due or belonging to the estate, which can not be collected\nand received by the assignee without unreasonable or inconvenient: delay or expense, may be sold and\nassigned in like manner as the remainder of the estate, if Compromises. there are any rights of action for\ndamages in favor of the insolvent prior to the commencement of the insolvency proceedings, the same may,\nwith the approval of the court, he compromised."
+   }
+  },
+  {
+   "id": "PH-H12665-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "Section 42"
+   },
+   "text": {
+    "en": "Assignees shall be allowed all necessary expenses in the care, management, and settlement of\nthe estate, and shall be entitled to charge and receive for their services commissions upon all sums of money\ncoming to their hands and accounted for by them, as follows: For the first thousand pesos, at the rate of seven\nper centum; for all above that sum and not exceeding ten thousand pesos, at the rate of live per centum ; and\nfor all above that sum, at the rate of four per centum : Provided, however, That if the person acting as assignee\nwas receiver of the property of the estate pending the election of an assignee, any compensation, allowed him\nas such receiver shall be deducted from the compensation to which otherwise would be entitled as such\nassignee: And provided further, That if there should be two or more assignees the court shall order an\nequitable division of the compensation herein provided, and if for any reason an assignee's term is completed\nbefore the final settlement of the estate and a successor is appointed the court shall not allow to any such\nassignee prior to the settlement of the estate an amount exceeding four per centum of the sums of money\ncoming into his hands. Upon the final settlement of the estate an equitable distribution of the compensation of\nthe assignee shall be made."
+   }
+  },
+  {
+   "id": "PH-H12665-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "Section 43"
+   },
+   "text": {
+    "en": "At the expiration of three months from the appointment of the assignee in any case, or as much\ncurlier as the court may direct, a time and place shall be fixed by the court at which the assignee shall file just\nand true account's of all his receipts and payments with proper vouchers, verified by his oath, and a statement\nof the property outstanding, specifying the causes of its outstanding, also what debts or claims are yet\nundetermined, and stating what sum remains in his possession, and shall accompany the same with an\naffidavit that notice by registered mail has been given to all creditors named in the schedule filed by the debtor\nor the assignee that said accounts will be heard at a time specified in such notice, Hearings. which time shall\nnot be less than two nor more than eight weeks from the filing of such accounts. At the hearing the court shall\naudit the accounts of the assignee, and any person interested may appear and the exceptions thereto and\ncontest the same. The court shall thereupon confirm said accounts if they shall be found to be correct, or order\nthe same corrected if errors shall be found come shall also, in such hearing, determine the claims be deducted\nfrom the estate as another, under of section forty-eight of this Act, and the right of participate in the dividend,\nand may order a use creditors whose claims have been proven and of the court theretofore rendered as to\nclaimant was entitled to vote for an assignee shall give upon the right of the claimant to share in such tall\nclaimants who were so allowed to vote shall such dividend unless objections were filed to the same hearing. If\nany such objections have been filed against any claim, or if any claimant was refused the right to vote, the\ncourt shall determine said objections and the rights of all such claimants in such hearing and refuse or allow\nthe same before the declaration of a dividend. Thereafter, further accounts, statement, and dividends shall be\nmade in like manner as often as occasion require: Provided, however, That it shall be the duty of the assignee\nto file his final account within one year from the date of the order of adjudication, unless the court, after notice\nto creditors, shall grant further time, upon a satisfactory showing that great loss and waste would result to the\nestate by reason of the convulsion of the property into money within said time, or that it has been impossible\nto do so by reason of litigation."
+   }
+  },
+  {
+   "id": "PH-H12665-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "Section 44"
+   },
+   "text": {
+    "en": "The court may at any time, upon the motion of any Motion to require two or more creditors,\nrequire the assignee to file his account in the manner and upon giving the notice specified in the preceding\nsection, and if he has funds subject to distribution he may be required to distribute them without delay."
+   }
+  },
+  {
+   "id": "PH-H12665-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "Section 45"
+   },
+   "text": {
+    "en": "Whenever any dividend has been duly declared, the distribution of it shall not be stayed or\naffected by reason of debts being subsequently proved, but any creditor proving such a debt shall be entitled to\n\na dividend equal to those already received by the other creditors before any further dividend is made to the\nlatter, if the failure to prove such claim shall not have resulted from his own neglect."
+   }
+  },
+  {
+   "id": "PH-H12665-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "Section 46"
+   },
+   "text": {
+    "en": "Should the assignee refuse or neglect to render his accounts as required by sections forty-three\nand forty-four of this Act, or refuse or neglect to pay over a dividend when he shall have, in the opinion of the\ncourt, sufficient funds for that purpose, or shall neglect or mismanage the estate in any manner whatever or\nviolate any of the provisions of this Act, the court shall immediately discharge such assignee from his trust,\nand shall appoint another in his place. The assignee so discharged shall forthwith deliver over to the assignee\nappointed by the court all the funds, property, books, vouchers, or securities belonging to the insolvent, and he\nshall not be entitled for his services to the compensation Provided in section forty-two."
+   }
+  },
+  {
+   "id": "PH-H12665-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "Section 47"
+   },
+   "text": {
+    "en": "Preparatory to the settlement of the estate, the assignee shall file his final account in the court,\naccompanying the same with an affidavit that a notice by registered mail has been given to all creditors who\nhave proved their claim, that he will apply for a settlement of his account and for a discharge from all liability\nas assignee at a time specified in such notice which time shall not less than two or more than eight weeks from\nsuch filing. At the hearing the court shall audit the account, and any person interested may appear and life\nexceptions in writing and contest the same. The court thereupon shall settle the account, and order a dividend\nof any portion of the estate, if any, remaining undistributed, and shall discharge the assignee, subject to\ncompliance with the order of the court, from all liability as assignee to any creditor of the insolvent.\nCLASSIFICATION AND PREFERENCE OF CREDITORS."
+   }
+  },
+  {
+   "id": "PH-H12665-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "Section 48"
+   },
+   "text": {
+    "en": "Merchandise, effects, and any other kind of property longing to insolvent among the property\nof which insolvent, the ownership of which has not been conveyed to him by a legal and irrevocable title, shall\nbe considered to be the properly of other persons and shall be placed at the disposal of its lawful owners on\norder of the court made at the hearing mentioned in suction forty-three or at any ordinary hearing, if the\nassignee or any creditor whose right in the estate of the insolvent has been established shall petition in writing\nfor such hearing and the court in its discretion shall so order, the creditors, however, retaining such lights in\nsaid property as belong to the insolvent, and subrogating him whenever they shall have complied with all\nobligations concerning said property.\nThe following shall he included in this section:\n1. Dowry property inestimado and such property estimado which may remain in the possession of the husband\nwhere the receipt thereof is a matter of record in a public instrument registered under the provisions of\nsections twenty-one and twenty-seven of the Code of Commerce in force.\n2. Paraphernal properly which the wife may have acquired by inheritance, legacy, or donation whether\nremaining in the form in which it was received or subrogatod or invested in other property, provided that such\ninvestment or subrogation has been registered in the registro mercantil in accordance with the provisions,-of\nthe sections of the Code of Commerce mentioned in the next preceding paragraph.\n3. Property and effects deposited with the bankrupt, or administered, leased, rented, or held in usufruct by\n4. Merchandise in the possession of the bankrupt, on commission, for purchase, sale, forwarding, or delivery.\n5. Bills of exchange or promissory notes without indorsement or other expression transferring ownership\nremitted to the insolvent, for collection and all others acquired by him for the account of another person,\ndrawn or indorsed to the remitter direct.\n6. Money remitted to the insolvent, otherwise than on current account, and which is in his possession for\ndelivery to a definite person in the name and for the account of the remitter or for the settlement of claims\nwhich are to be met at the insolvent's domicile.\n7. Amounts due the insolvent for sales of merchandise on commission, and bills of exchange and promissory\n\nnotes derived therefrom in his possession, even when the same are not made payable to the owner of the\nmerchandise sold, provided it is proven that the obligation to the insolvent is derived therefrom and that said\nbills of exchange and promissory notes were in the possession of the insolvent for account of the owner of the\nmerchandise to be cashed and remitted, in due time, to the said owner; all of which shall be a legal\npresumption when the amount involved in any such sale shall not have been credited on the books of both the\nowner of the merchandise and of the insolvent.\n8. Merchandise bought on credit by the insolvent so long as Goods bought on the actual delivery thereof has\nnot been made to him at his store or at any other place stipulated for such delivery, and merchandise the bills\nof lading or shipping receipts of which have been sent him after the same has been loaded by order of the\npurchaser and for his account and risk.\nIn all cases arising under this paragraph assignees may retain the merchandise so purchased or claim it tor the\ncreditors by paying the price thereof to the vendor.\n9. Goods or chattels wrongfully taken, converted, or withheld take by the insolvent if si ill existing in his\npossession or the amount of the value thereof."
+   }
+  },
+  {
+   "id": "PH-H12665-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "Section 49"
+   },
+   "text": {
+    "en": "All creditors, except those whose claims are mentioned sharing in the next following section,\nwhose debts are duly proved and allowed shall he entitled to share in the property and estate pro rata after the\nproperty belonging to other persons referred to in the last preceding section has been deducted therefrom,\nwithout priority or preference whatever: Provided, That any debt proved by any person liable as bail, surety,\nguarantor, or otherwise, for the debtor, shall not be paid to the person so proving the same until satisfactory\nevidence shall be produced of the payment of such debt by such person so liable, and the share to which such\ndebt would be entitled may be paid into court, or otherwise held, for the benefit of the party entitled thereto, as\nthe court may direct."
+   }
+  },
+  {
+   "id": "PH-H12665-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "Section 50"
+   },
+   "text": {
+    "en": "The following shall be preferred claims which shall be paid in the order named :\n(a) Legal expenses, and expenses incurred in the administration of the insolvent's estate for the common\ninterest of the creditors, when properly authorized and approved by the court;\n(b) Necessary funeral expenses of the debtor, or of his wife, or children who are under their parental authority\nand have no property of their own, when approved by the court;\n(c) Debts, taxes, and assessments due the Insular Government;\n(d) Debts, taxes, and assessments due to any province or provinces of the Philippine Islands;\n(e) Debts, taxes, and assessments due to any municipality or municipalities of the Philippine Islands;\n(f) Debts for personal services rendered the insolvent by clerks, laborers, or domestic servants during the sixty\ndays immediately preceding the commencement of proceedings in insolvency, not to exceed two hundred\npesos for each claimant.\nAll other creditors shall be paid pro rata.\nCHAPTER VII.\nPARTNERSHIPS AND CORPORATIONS."
+   }
+  },
+  {
+   "id": "PH-H12665-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "Section 51"
+   },
+   "text": {
+    "en": "A partnership, during the continuation of the partnerships business or after its dissolution and\nbefore the final settlement thereof, may be adjudged insolvent, either on the petition of the Partners, or any\none of them, or on the petition of three or more creditors of the partnership, qualified as provided in section\ntwenty, of this Act, in either of which cases the court shall issue an order in the manner provided by this Act,\nupon which all the property of the partnership, and also all the separate property of each of the partners, if\nthey are liable, shall be taken, excepting such parts thereof as may be exempt by law; and all creditors of the\npartnership, and the separate creditors of each parinei1, shall be allowed to prove their respective claims: and\nthe assignee shall be chosen by the creditors of the partnership, and shall also keep separate accounts of the\n\nproperty of the partnership, and of the separate estate of each member thereof. The expenses of the\nproceedings shall be paid from the partnership property and the individual property of the partners in such\nproportions as the court shall determine. The net proceeds of the partnership property shall be appropriated to\nthe payment of the partnership debts and the net proceeds of the individual estate of each partner to the\npayment of his individual debts. Should any surplus remain of the property of any partner after paying his\nindividual debts, such surplus shall be added to the partnership assets and be applied to the payment of the\npartnership debts. Should any surplus of the partnership property remain after paying the partnership debts,\nsuch surplus shall be added to the assets of the individual partners in the proportion of their respective\ninterests in the partnership. Certificate of discharge shall be granted or refused to each partner as the same\nwould or ought to be if the proceedings had been by or against him alone under this Act; and in all other\nrespects the proceedings as to the partners shall he conducted in like manner as if they had been commenced\nand prosecuted by or against one person alone. If such partners reside in different provinces, the court in\nwhich the petition is first filed shall retain exclusive jurisdiction over the case. If the petition be filed by less\nthan all the partners of a partnership, those partners who do not join in the petition shall be ordered to show\ncause why they, as individuals, and said partnership, should not be adjudged to be insolvent, in the same\nmanner as other debtors are required to show cause upon a creditor's petition, as in this Act provided; and no\norder of adjudication shall be made in said proceedings until after the hearing of said order to show cause."
+   }
+  },
+  {
+   "id": "PH-H12665-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "Section 52"
+   },
+   "text": {
+    "en": "The provisions of this Act shall apply to corporations and sociedades anomimos and upon the\npetition of any officer of any corporation, or sociedad anonima, duly authorized by the vote of the board of\ndirectors or trustees, at a meeting specially called for that purpose, or by the assent in writing of a majority of\nthe directors or trustees as the case may be, or upon a creditor's petition made and presented in the manner\nprovided in respect to debtors, like proceedings shall be had and taken as are provided in the case of debtors:\nProvided, That in case the articles of association or by-laws of any corporation or sociedad anonimos provide\na method for such proceedings, such method shall be followed. All the provisions of this Act which apply to\nthe debtor, or set forth his duties, examination, and liabilities, or prescribe penalties, or relate to fraudulent\nconveyances, payments, and assignments, apply to each and every officer of any corporation or sociedad\nanonima in relation to the same matters concerning the corporation. Whenever any corporation is declared\ninsolvent, its property and assets shall be distributed to the creditors; but no discharge shall be granted to any\ncorporation. The provisions of this Act shall not apply to corporations engaged principally in the banking\nbusiness, or to any other corporation as to which there is any special provision of law for its liquidation in case\nof insolvency.\nCHAPTER VIII\nPROOF OF DEBTS."
+   }
+  },
+  {
+   "id": "PH-H12665-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "Section 53"
+   },
+   "text": {
+    "en": "All debts due and payable from the debtor at the time of the adjudication of insolvency, and all\ndebts then existing but not payable until a future time, a discount being made if no interest is payable by the\nterms of the contract, may be proved against the opiate of the debtor."
+   }
+  },
+  {
+   "id": "PH-H12665-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "Section 54"
+   },
+   "text": {
+    "en": "If the debtor is bound as endorser, surety, bail, or commercial paper, guarantor, upon any bill,\nbond, note, or other specialty or contract, or for any debt of any person, and his liability shall not have become\nabsolute until after the adjudication of insolvency, the creditor may prove the same after such liability shall\nhave become fixed, and before i lie final dividend shall have been declared."
+   }
+  },
+  {
+   "id": "PH-H12665-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "Section 55"
+   },
+   "text": {
+    "en": "In all cases of contingent debts and contingent liabilities, enumerated by the debtor, and not\nherein otherwise provided for the creditor may make claim therefor and have his claim allowed, with the right\nto share in the dividends, if the contingency shall happen before the order of the final dividend; or he may, at\nany time, apply to the court to have the present value of the debt or liability ascertained and liquidated, which\nshall be clone in such manner as the court shall order, and it shall be allowed for the amount so ascertained."
+   }
+  },
+  {
+   "id": "PH-H12665-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "Section 56"
+   },
+   "text": {
+    "en": "Any person liable as bail, surety, or guarantor, or otherwise, for the debtor, who shall have paid\nthe debt, or any part thereof, in discharge of the whole, shall be entitled to prove such debt, or to stand in the\n\nplace of the creditor, if he shall have proved the same, although such payments shall have been made after the\nproceedings; in insolvency were commenced; and any person so liable for the debtor, and who has not paid\nthe whole of said debt, but is still liable for the same, or any part thereof, may, if the creditor shall fail or omit\nto prove such debt, prove the same in the name of the creditor."
+   }
+  },
+  {
+   "id": "PH-H12665-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "Section 57"
+   },
+   "text": {
+    "en": "Where the debtor is liable to pay rent, or other debt due at fixed and stated periods, the creditor\nmay prove for a proportionate part thereof up to the time of the insolvency, as if the same became due from\nday to day, and not at such fixed and stated periods."
+   }
+  },
+  {
+   "id": "PH-H12665-A58",
+   "no": 58,
+   "noLabel": {
+    "en": "Section 58"
+   },
+   "text": {
+    "en": "In all cases of mutual debts and mutual credits between the parties, the account between them\nshall be stated, and one debt set off against the other, and the balance-only shall be allowed and paid. But no\nset-off or counterclaim shall be allowed of a claim its nature not provable against the estate: Provided, That no\nset-off or counterclaim shall be allowed in favor of any debtor to the insolvent of a claim purchased by or\ntransferred to such debtor within thirty days immediately preceding the filing, or after the filing of after the\nfiling of the petition by or against the insolvent."
+   }
+  },
+  {
+   "id": "PH-H12665-A59",
+   "no": 59,
+   "noLabel": {
+    "en": "Section 59"
+   },
+   "text": {
+    "en": "When a creditor has a mortgage, or pledge of real or personal property of the debtor, or a lien\nthereon, for securing the payment of a debt owing to him from the debtor, or an attachment or execution on\nproperty of the debtor duly recorded and not dissolved under this Act, he shall be admitted as a creditor for the\nbalance of debt balance of the debt only, after deducting the value of such property, on such value to be\nascertained by agreement between him and the receiver, if any and if no receiver, then upon such sum as the\ncourt or a judge thereof may decide to be fair and reasonable, before the election of an assignee, or by a sale\nthereof, to be made in such manner as the court or judge thereof shall direct; or the Release to creditor may\nrelease or convey his claim to the receiver, if any, or if no receiver then to the sheriff, before the election of an\nassignee, or to the assignee if an assignee has been elected, upon such property, and be admitted to prove his\nwhole debt. Release or sale by if the value of the property exceeds the sum for which it is assignee, security,\nthe assignee may release to the creditor the debtor's right of redemption thereon on receiving such excess; or\nhe may sell the property, subject to the claim of the creditor thereon, and in either ease the assignee and\ncreditor, respectively, shall execute all deeds and writings necessary or proper property not sold to\nconsummate the transaction. If the property is not sold or or released released, and delivered up or its value\nfixed, the creditor shall not he allowed to prove any part of his debt, but the assignee shall deliver to the\ncreditor all such property upon which the creditor holds a mortgage, pledge, or lien, or upon which he has an\nattachment or execution."
+   }
+  },
+  {
+   "id": "PH-H12665-A60",
+   "no": 60,
+   "noLabel": {
+    "en": "Section 60"
+   },
+   "text": {
+    "en": "No creditor, proving his debt or claim, shall be allowed to maintain any suit therefor against the\ndebtor, hut shall be deemed to have waived all right of action and suit against him, and all proceedings already\ncommenced, or any unsatisfied judgment already obtained thereon, shall be deemed Io be discharged and\nsurrendered thereby; and after the debtor's discharge, upon proper application and proof to the court having\njurisdiction, all such proceedings shall be dismissed, and such unsatisfied judgments satisfied of record:\nProvided, That no valid lien existing in good faith shall he thereby affected. A creditor proving his debt, or\nclaim shall not be held Io have waived his right of action or suit against the debtor when a discharge has been\nrefused or stay of action. the proceedings have been determined without a discharge. No creditor whose debt\nis provable under this Act shall he allowed, after the commencement of proceedings in insolvency, to\nprosecute to final judgment any action therefor against the debtor until the question of the debtor's discharge\nshall have been determined, and any such suit or proceeding shall, upon the application of the debtor or of any\ncreditor, or the assignee, be stayed to await the determination of the court on the question of discharge:\nProvided, That the amount due to creditor is in dispute, the suit, by leave of the court in insolvency, may\nproceed to judgment for the purpose of ascertaining the amount due which amount, when adjudged, may be\nallowed in the insolvency proceedings, but execution shall be stayed as aforesaid."
+   }
+  },
+  {
+   "id": "PH-H12665-A61",
+   "no": 61,
+   "noLabel": {
+    "en": "Section 61"
+   },
+   "text": {
+    "en": "any person who shall accepted any preference, having reasonable cause to believe that the same\nwas made or given by the debtor contrary Io any provision of ibis Act, shall not be allowed to prove the debt\n\nor claim on account of which the preference was made or given, nor shall he receive any dividend thereon,\nuntil he shall have surrendered to the assignee all property, money, benefit, or advantage received by him\nunder such preference."
+   }
+  },
+  {
+   "id": "PH-H12665-A62",
+   "no": 62,
+   "noLabel": {
+    "en": "Section 62"
+   },
+   "text": {
+    "en": "The court may, upon the application of the assignee, or of any creditor, or without any\napplication, before or after adjudication in insolvency, examine upon oath the debtor in relation to his property\nand his estate and may examine any other person tendering or making proof of claims, and may subpoena\nwitnesses to give evidence relating to such matters. All examinations of witnesses shall be had and depositions\nshall be taken in accordance with and in the same manner as is provided by the Code of Civil Procedure.\nCOMPOSITIONS."
+   }
+  },
+  {
+   "id": "PH-H12665-A63",
+   "no": 63,
+   "noLabel": {
+    "en": "Section 63"
+   },
+   "text": {
+    "en": "An insolvent may offer terms of composition to his creditors after, but not before, he has filed\nin court a schedule of his property and list of his creditors as provided in this Act. An application for the\nconfirmation of a composition may be filed in the insolvency court after, but not before, it has been accepted\nin writing by a majority in number of all creditors whose claims have been allowed, which number must\nrepresent a majority in amount of such claims and after the consideration to be paid by the insolvent to his\ncreditors and the money necessary to pay all debts which have priority and the costs of proceedings have been\ndeposited in such place as shall he designated by and subject to the order of the court. A time shall be fixed by\nthe court for the hearing upon an application for the confirmation of a composition, and for the hearing of\nsuch objections as may be made to its confirmation. The court shall confirm a composition if satisfied that (1)\nit is for the best interest of the creditors : (2) that the insolvent has not been guilty of any of the acts, or of a\nfailure to perform any of the duties, which would create a bar to his discharge; and (3) that the offer and its\nacceptance are in good faith, and have not been made or procured except as herein provided, or by any means,\npromises, pr acts heroin forbidden. Upon the confirmation of a composition the consideration shall be\ndistributed as the judge shall direct, and the ease dismissed, and the title to the insolvent's property shall\nreinvest in him. Whenever a composition is not confirmed, the estate in insolvency shall be administered as\nherein provided. The court may. upon application of a party in interest, filed at any time within six months\nafter the composition has been confirmed, set the same aside, and reinstate the case if it shall be made to\nappear upon a trial that fraud was practiced in the procuring of such composition, and that the knowledge\nthereof has come to the petitioner since the confirmation of such composition."
+   }
+  },
+  {
+   "id": "PH-H12665-A64",
+   "no": 64,
+   "noLabel": {
+    "en": "Section 64"
+   },
+   "text": {
+    "en": "At any time after the expiration of three months from a After the adjudication of insolvency,\nbut not later than one year from such adjudication, unless the property of the insolvent has not been converted\ninto money, the debtor may apply to the court for a discharge from his debts, and the court shall thereupon\norder notice to he given to all creditors who have proved their debts to appear on a day appointed for that\npurpose and show cause why a discharge should not be granted to the debtor; said notice shall be given by\nregistered mail and by publication at least once a week, tor six weeks, in a newspaper published in the\nprovince or city, or, if the be none, in a newspaper which, in the opinion of the judge, should not be granted to\nthe debtor; said notice given by registered mail and by publication at least once a week, or six weeks in a\nnewspaper published in the province or city, or, if he, in a newspaper which, in the opinion of the judge, give\nnotice to the creditors of the said insolvent: Provided, That if no debts have been prevail such notice shall not\nbe required."
+   }
+  },
+  {
+   "id": "PH-H12665-A65",
+   "no": 65,
+   "noLabel": {
+    "en": "Section 65"
+   },
+   "text": {
+    "en": "No discharge shall be granted, or if granted shall be valid if the debtor shall have sworn falsely\nin his affidavit annexed to his petition, schedule, or inventory, or upon any examination in the course of the\nproceedings in insolvency, in relation to\nany material fact concerning his estate or his debts or to any other material fact; or (2) if he has concealed any\n\npart of his estate or effects, or any books or writing relating thereto; or (3) if he has been guilty of fraud or\nwillful neglect in the care or custody of his property or in the delivery to the assignee of the property\nbelonging to him at the time of the presentation of his petition and inventory, excepting such property as he is\npermitted to retain under the provisions of this Act; or (4) if, within one month before the commencement of\nsuch proceedings, he has procured his real estate, goods, moneys, or chattels, to be attached or seized on\nexecution; or (5) if he has destroyed, mutilated, altered, or falsified any of his books, documents, papers,\nwritings, or securities, or has made, or been privy to the making of, any false or fraudulent entry in any book\nof account or oilier document with intent to defraud his creditors; or (6) if he has given any fraudulent\npreference, contrary to the provisions of this Act, or has made any fraudulent payment, gift, transfer,\nconveyance, or assignment of any part of his property, or has admitted a false or fictitious debt against his\nestate; or (7) if, having knowledge that any person has proven such false or fictitious debt, lie has not\ndisclosed the same to his assignee within one month after such knowledge; or (8) if, being a merchant or\ntradesman, he has not kept proper books of account in Arabic numerals and in accordance with the provisions\nof the Code of Commerce; or (9) if he, or any other person on his account, or in his behalf, has influenced the\naction of any creditor, at any stage of the proceedings, by any pecuniary consideration or obligation; or (10) if\nhe has, in contemplation of becoming insolvent, made any pledge, payment, transfer, assignment, or\nconveyance of any part of his property, directly or indirectly, absolutely or conditionally, for the purpose of\npreferring any creditor or person having a claim against him, or who is or may be under liability for him, or\nfor the purpose of preventing the property from coming into the hands of the assignee, or of being distributed\nunder this Act in satisfaction of his debts; or (11) if he has been convicted of any misdemeanor under this Act,\nor has been guilty of fraud contrary to the true intent of this Act: or (12) in case of voluntary insolvency, has\nreceived the benefit of this or any other Act of insolvency or bankruptcy within six years next preceding his\napplication for discharge: or (13) if insolvency proceedings in which he could have applied for a discharge are\npending by or against him in the Court of First Instance of any other province or city in the Philippine Islands.\nBefore any discharge is granted, the debtor shall take and subscribe an oath to the effect that he has not done,\nsuffered, or been privy to any act, matter, or thing specified in this Act as grounds for withholding such\ndischarge or as invalidating such discharge, if granted."
+   }
+  },
+  {
+   "id": "PH-H12665-A66",
+   "no": 66,
+   "noLabel": {
+    "en": "Section 66"
+   },
+   "text": {
+    "en": "Any creditor opposing the discharge of a debtor shall file his objections thereto, specifying the\ngrounds of his opposition, and after the debtor has filed and served his answer thereto; which pleadings shall\nhe verified, the court shall try the issue or issues raised, according to the practice provided by law in civil"
+   }
+  },
+  {
+   "id": "PH-H12665-A67",
+   "no": 67,
+   "noLabel": {
+    "en": "Section 67"
+   },
+   "text": {
+    "en": "If it shall appear to the court that the debtor has in all things conformed to his duty under this\nAct, and that he is entitled under the provisions thereof to receive a discharge, the court shall grant him a\ndischarge from all his debts, except as hereinafter provided, and shall give him a certificate thereof, under the\nseal of the court, in substance as follows: \"In the Court of First Instance of the..............................., Philippine\nIslands. Whereas, ................ .........................., has been duly adjudged an insolvent under the Insolvency Law\nof the Philippine Islands, and appears to have conformed to all the requirements of law in that behalf, it is\ntherefore ordered by the court that said ................................ be forever discharged from nil debts and claims,\nwhich by said Insolvency Law are made provable against his estate, and which existed on the ........................\n.....day of................................, on which the petition of adjudication was filed by (or against) him, excepting\nsuch debts, if any. us are by said Insolvency Law excepted from the operation of a discharge in insolvency.\nGiven under my hand, and the seal of the court, this ........................ day of ........................, anno Domini\n..................................Attest: ...................................., clerk."
+   }
+  },
+  {
+   "id": "PH-H12665-A68",
+   "no": 68,
+   "noLabel": {
+    "en": "Section 68"
+   },
+   "text": {
+    "en": "No debt created by the fraud or embezzlement of the debtor, or by Ins delineation as a public\nofficer or while acting in this Act, a fiduciary capacity, shall be discharged under this Act, but the debt may lie\nproved, and the dividend thereon shall be a payment on account of said debt. No discharge granted under this\nAct shall release, discharge, or affect any person liable for the same debt, for or with the debtor, either as\n\npartner, joint contractor, endorser, surety, or otherwise."
+   }
+  },
+  {
+   "id": "PH-H12665-A69",
+   "no": 69,
+   "noLabel": {
+    "en": "Section 69"
+   },
+   "text": {
+    "en": "A discharge, duly granted under this Act, shall, with the exceptions aforesaid, release the debtor\nfrom all claims, debts, liabilities, and demands set forth in his schedule, or which were or might have been\nproved against his estate in insolvency, and may be pleaded by a simple averment that on the day of its date\nsuch discharge was granted to him, setting forth the same in full, and the same shall be a complete bar to all\nsuits brought on any such debts, claims, liabilities, or demands, and the certificate shall be prima facie\nevidence in favor of such fact and of the regularity of such discharge; Provided, however, That any creditor\nwhose debt charge was proved or provable against the estate in insolvency who shallot fraud, see fit to\ncontest, the validity of such discharge on the ground that it was fraudulently obtained and who has discovered\nthe facts constituting the subsequent to the discharge, may, at any time within one year after the date thereof,\napply to the court which granted it to set it aside and annul the same.\nFRAUDULENT PREFERENCES AND TRANSFERS."
+   }
+  },
+  {
+   "id": "PH-H12665-A70",
+   "no": 70,
+   "noLabel": {
+    "en": "Section 70"
+   },
+   "text": {
+    "en": "If any debtor, being insolvent, or in contemplation of insolvency, within thirty days before the\nfiling of a petition by or against him, with a view to giving a preference to any creditor or person having a\nclaim against him or who is under any liability by him, procures any part of his property to be attached,\nsequestered, or seized on execution, or makes any payment, pledge, mortgage, argument, transfer, sale, or\nconveyance of any part of his property, either directly or indirectly, absolutely or conditionally, to anyone, me\nperson receiving such payment, pledge, mortgage, assignment, transfer, sale, or conveyance,'or to be\nbenefited thereby, or by such attachment or seizure, having reasonable cause to believe that such debtor is\ninsolvent, and that such attachment, sequestration, seizure, payment, pledge, mortgage, conveyance, transfer,\nsale, or assignments made with a view to prevent his property from coming to his assignee in insolvency, or to\nprevent the same from being distributed notably among his creditors, or to defeat the object of, or in any way\nhinder, impede, or delay the operation of or to evade any of the provisions of this Act, such attachment,\nsequestration, seizure, payment, pledge, mortgage, transfer, sale, assignment, or conveyance is void, and the\nassignee, or the receiver, may recover the property or the value thereof, as assets of such insolvent debtor. If\nsuch payment, pledge, mortgage, conveyance, sale, assignment, or transfer is not made in the usual and\nordinary course of business of the debtor, or if such seizure is made under a judgment which, the debtor has\nconfessed or offered to allow, that fact shall be prima facie evidence of fraud. Any payment, pledge,\nmortgage, conveyance, sale, assignment, or transfer of property of whatever character made by the insolvent\nwithin one month before the filing of a petition in insolvency by or against him, except for a valuable\npecuniary consideration made in good faith, shall be void. All assignments, transfers, conveyances,\nmortgages, or incumbrances of real estate shall be deemed, under this section, to have been made at the time\nthe instrument conveying or affecting such realty was filed for record in the office of the register of deeds of\nthe province or city where the same is situated.\nCHAPTER XII.\nPENAL PROVISIONS."
+   }
+  },
+  {
+   "id": "PH-H12665-A71",
+   "no": 71,
+   "noLabel": {
+    "en": "Section 71"
+   },
+   "text": {
+    "en": "From and after the taking effect of this Act, a debtor who commits any one of the following\nacts shall, upon conviction thereof, be punished by imprisonment for not less than three months nor more than\nlive years for each offense:\n1. If he shall, after the commencement of proceedings in insolvency, secrete or conceal any property\nbelonging to his estate or part with, conceal, destroy, alter, mutilate, or falsify or cause to be concealed,\ndestroyed, altered, mutilated, or falsified, any book, deed, document, or writing relating thereto, or remove, or\ncause to be removed, the same or any part thereof, with the intent to prevent it from coming into the\npossession of the assignee in insolvency, or to hinder, impede, or delay his assignee in recovering or receiving\nthe same, or if he shall make any payment, gift, sale, assignment, transfer, or conveyance of any property\nbelonging to his estate, with like intent, or shall spend any part thereof in gaming; or if he shall, with intent to\n\ndefraud, willfully and fraudulently conceal from his assignee, or fraudulently or designedly omit from his\nschedule any property or effects whatsoever; or if, in case of any person having, to his knowledge or belief,\nproved a false or fictitious debt against his estate lie shall fail to disclose the same to his assignee within one\nmonth after coining to the knowledge or belief thereof; or if he shall attempt to account for any of his property\nby fictitious losses or expenses;\n2. If he shall, within three months before commencement of proceedings of insolvency, under the false\npretense of carrying on business and dealing in the ordinary course of trade, obtain on credit from any person\nany goods or chattels with intent to defraud, or shall, with intent to defraud his creditors, pawn, pledge, or\ndispose of, otherwise than by bona fide transactions in the ordinary way of his trade, any of his goods and\nchattels which have been obtained on credit and remain unpaid for, or shall have suffered loss in any kind of\ngaming when such loss is one of the causes determining the commencement of proceedings in insolvency, or\nshall have sold at a loss or for less than the current price any goods bought on credit and still unpaid for, or\nshall have advanced payments to the prejudice of his creditors;\n3. If he shall, from and after the taking effect of this Act, during the proceedings for the suspension of\npayments, secrete or conceal, or destroy, or cause to be destroyed or secreted any property belonging to his\nestate; or if he shall secrete, destroy, alter, mutilate, or falsify, or cause to be secreted, destroyed, altered,\nmutilated, or falsified, any book, deed, document, or writing relating thereto, or it he shall, with intent to\ndefraud his creditors, make any payment, sale, assignment, transfer, or conveyance of any properly belonging\nto his estate; or if lie shall spend any part thereof in gaming; or if he shall falsely swear to the schedule and\ninventory exacted by paragraph two of section two as required by sections fifteen, sixteen, and seventeen of\nthis Act, with intent to defraud bis creditors; or if he shall violate or break in any manner whatsoever the\ninjunction issued by the court under section three of this Act.\nCHAPTER XIII.\nMISCELLANEOUS."
+   }
+  },
+  {
+   "id": "PH-H12665-A72",
+   "no": 72,
+   "noLabel": {
+    "en": "Section 72"
+   },
+   "text": {
+    "en": "If any debtor shall die after the order of adjudication, Death of debtor the proceedings shall be\ncontinued and concluded in like manner and with like validity and effect as if he had lived."
+   }
+  },
+  {
+   "id": "PH-H12665-A73",
+   "no": 73,
+   "noLabel": {
+    "en": "Section 73"
+   },
+   "text": {
+    "en": "Pending insolvency proceedings by or against any person partnership, corporation, or sociedad\nanonima, no statute of limitations shall run upon a claim of or against the estate of the debtor."
+   }
+  },
+  {
+   "id": "PH-H12665-A74",
+   "no": 74,
+   "noLabel": {
+    "en": "Section 74"
+   },
+   "text": {
+    "en": "Any creditor, at any stage of the proceedings, may be represented by his attorney or duly\nauthorized agent, and the attorney or agent, properly authorized, shall be entitled to vote at any creditors\nmeeting as and for his principal."
+   }
+  },
+  {
+   "id": "PH-H12665-A75",
+   "no": 75,
+   "noLabel": {
+    "en": "Section 75"
+   },
+   "text": {
+    "en": "If shall be the duty of the court having jurisdiction of the proceedings, upon petition and after\nhearing, to exempt and set apart, for the use and benefit of said insolvent, such real and personal property as is\nby law exempt from execution, and also a homestead, as provided in section four hundred and fifty-two of the\nCode of Civil Procedure; but no such petition shall be heard us aforesaid until it is first proved that notice of\nthe hearing of the application therefor has been duly given by the clerk, by causing such notice to be posted in\nat least three public places in the province or city at least ten days prior to the time of such hearing, which\nnotice shall set forth the name of said insolvent debtor, and the time and place appointed for the hearing of\nsuch application, and shall briefly indicate the homestead sought to be exempted or the property sought to be\nset aside; and the decree must show that; such proof was made to the satisfaction of the court, and shall be\nconclusive evidence of that fact."
+   }
+  },
+  {
+   "id": "PH-H12665-A76",
+   "no": 76,
+   "noLabel": {
+    "en": "Section 76"
+   },
+   "text": {
+    "en": "The filing of a petition by or against a debtor upon commence which, or upon an amendment of\nwhich, an order of adjudication in insolvency may be made, shall be deemed to be the commencement of\nproceedings in insolvency under this Act."
+   }
+  },
+  {
+   "id": "PH-H12665-A77",
+   "no": 77,
+   "noLabel": {
+    "en": "Section 77"
+   },
+   "text": {
+    "en": "Words used in this Act in the singular include the used in the plural, and in the plural, the\nsingular, and the word \"debtor\" includes partnerships, corporations, and sociedades anonimas."
+   }
+  },
+  {
+   "id": "PH-H12665-A78",
+   "no": 78,
+   "noLabel": {
+    "en": "Section 78"
+   },
+   "text": {
+    "en": "Upon the filing of either a voluntary or involuntary petition in insolvency, a receiver may be\nappointed by the court in which the proceeding is pending, or by a judge thereof, at any time before the\nelection of an assignee, when it appears by the verified petition of a creditor that the assets of the insolvent, or\na considerable portion thereof, have been pledged, mortgaged, transferred, assigned, conveyed, or seized, on\nlegal process, in contravention or violation of the provisions of section seventy of this Act, and that it is\nnecessary to commence an action to recover the same. The appointment, oath, undertaking, and powers of\nsuch receiver shall in all respects be regulated by the general laws of the Philippine Islands applicable to\nreceivers. When an assignee is chosen, and has qualified, the receiver shall forthwith return to court an\naccount of the assets and property which have come into his possession, and of his disbursements, and a report\nof all actions or proceedings commenced by him for the recovery of any property to receiver's belonging to\nthe estate, and the court shall thereupon summarily account hear and settle the receiver's account, and shall\nallow him a just compensation.for his services and his expenses, including a reason, able attorney's fee,\nwhereupon the receiver shall deliver all property, assets, or effects remaining in his hands, to the assignee who\nshall be substituted for the receiver in all pending actions or proceedings."
+   }
+  },
+  {
+   "id": "PH-H12665-A79",
+   "no": 79,
+   "noLabel": {
+    "en": "Section 79"
+   },
+   "text": {
+    "en": "When an attachment has been made and is not dissolved before the commencement of\nproceedings in insolvency, or is dissolved by an undertaking given by the defendant, if the claim upon which\nthe attachment suit was commenced is proved against the estate of the debtor, the plaintiff may prove the legal\ncosts and disbursements of the suit, and off the keeping of the property, and the amount thereof shall he a\npreferred debt."
+   }
+  },
+  {
+   "id": "PH-H12665-A80",
+   "no": 80,
+   "noLabel": {
+    "en": "Section 80"
+   },
+   "text": {
+    "en": "In all contested matters in insolvency the court may, in its discretion, award costs to either party\nto be paid by the other, or to either or both parties to be paid out of the estate, as justice and equity may\nrequire in awarding costs, the court may issue execution therefor. In all involuntary cases under this Act, the\ncourt shall allow the petitioning creditors out of the estate of the debtor, if any adjudication of insolvency be\nmade, as a preferred claim, all legal costs and disbursements incurred by them in that behalf."
+   }
+  },
+  {
+   "id": "PH-H12665-A81",
+   "no": 81,
+   "noLabel": {
+    "en": "Section 81"
+   },
+   "text": {
+    "en": "If no creditor files written objections, the court may, upon the application of the debtor, if it he\na voluntary petition, or of the petitioning creditors, if a creditor's petition, dismiss the, petition and\ndiscontinue the proceedings at any time before the appointment of an assignee, upon giving not less than two\nnor more than eight weeks notice to the creditors, in the same manner that notice of the time and place of\nelection of an assignee is given: Provided, however, That by written consent of all creditors filed in the court\nthe proceedings may be dismissed at any time. After the appointment of an assignee, no dismissal shall be\nmade without, the consent of all parties interested in or affected thereby."
+   }
+  },
+  {
+   "id": "PH-H12665-A82",
+   "no": 82,
+   "noLabel": {
+    "en": "Section 82"
+   },
+   "text": {
+    "en": "An appeal may be taken to the Supreme Court in the following eases:\n1. Prom an order granting or refusing an adjudication of insolvency and, in the latter ease, from the order\nfixing the amount of costs, expenses, damages, and attorney's fees allowed the debtor.\n2. Prom an order made at the hearing of any account of an assignee, allowing or rejecting a creditor's claim, in\nwhole or in part, when the amount in dispute exceeds three hundred pesos.\n3. From an order allowing or denying a claim for property not belonging to the insolvent, presented under\nsection forty-eight of this Act.\n4. From an order settling an account of an assignee.\n5 From an order against or in favor of setting apart homestead or other property claimed as exempt from\n6. From an order granting or refusing a discharge to the debtor.\nChapter forty-two of the Code of Civil Procedure, so far as an assignee has given an official undertaking and\nappeals from a judgment or order in insolvency, his official undertaking stands in the place of undertaking on\nappeal, and the sureties thereon are liable on such undertaking: Provided, however, That a interlocutory appeal\nshall not stay proceedings unless a written undertaking be entered into on the part of the appellant, with at\n\nleast two sureties, in such an amount as the court, or a judge thereof, may direct, but not less than double the\nvalue of the property involved, to the effect that if the order appealed from be affirmed, or the appeal\ndismissed, appellant will pay all costs and damages which the adverse party may sustain by reason of the\nappeal and the stay of proceedings."
+   }
+  },
+  {
+   "id": "PH-H12665-A84",
+   "no": 84,
+   "noLabel": {
+    "en": "Section 84"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, May 20, 1909."
+   }
+  }
+ ]
+}

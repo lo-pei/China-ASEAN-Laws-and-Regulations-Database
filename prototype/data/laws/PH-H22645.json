@@ -1,0 +1,62 @@
+{
+ "id": "PH-H22645",
+ "title": {
+  "zh": null,
+  "en": "A  Amending Section 74 of the 1978 Election Code for the Purpose of Authorizing Government Officials and Employees, Including Members of the Armed Forces, to Vote in Their Place of Assignment",
+  "orig": "A  Amending Section 74 of the 1978 Election Code for the Purpose of Authorizing Government Officials and Employees, Including Members of the Armed Forces, to Vote in Their Place of Assignment"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1978-03-14",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 1296",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1689,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_01296_1978_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_01296_1978_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22645-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section 74 of the 1978 Election Code is hereby amended to read as follows:\n\"Sec. 74. Qualifications of a voter. Every citizen of the Philippines, not otherwise disqualified by law,\neighteen years of age or over, who shall have resided in the Philippines for one year and in the city,\nmunicipality or municipal district wherein he proposes to vote for at least six months immediately preceding\nthe election, may register as a voter.\n\"Any person who transfers to another city, municipality or municipal district solely by reason of his\noccupation; profession, employment in private or public service; educational activities; work in military or\nnaval reservations; service in the army, navy or air force, the constabulary or national police force; or\nconfinement or detention in government institutions in accordance with law shall be deemed not to have lost\nhis original residence: Provided, That he may register of the city, municipality or municipal district where he\nis residing for the foregoing reasons if on the date of the election he has already resided therein for at least six\nmonths; Provided, further, That any official or employee of the government or any member of the armed\nforces who on election day is on official duty, assignment or mission in a place other than where he is\nregistered as a voter, shall be allowed to cast his vote in the voting center nearest his place of assignment,\ncamp, barracks or detachment upon proof that he is on official mission and is duly registered as a voter in his\nplace of residence."
+   }
+  },
+  {
+   "id": "PH-H22645-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Decree shall take effect immediately.\nDone in the City of Manila, this 14th day of March, in the year of Our Lord, nineteen hundred and\nseventy-eight."
+   }
+  }
+ ]
+}

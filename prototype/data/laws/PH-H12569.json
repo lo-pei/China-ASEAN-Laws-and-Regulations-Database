@@ -1,0 +1,72 @@
+{
+ "id": "PH-H12569",
+ "title": {
+  "zh": null,
+  "en": "Acts No. 1860  An Act Appropriating the Sum of Seventy-Five thousand Pesos From the Insular Treasury for the Entertainment of the Officers and Men of the American Fleet on the Occasion of Its Proposed VIsit to the Philippine Islands, and Authorizing the City of Manila to Appropriate the Sum of Twenty-Five thousand Pesos for the Same Purpose.",
+  "orig": "Acts No. 1860  An Act Appropriating the Sum of Seventy-Five thousand Pesos From the Insular Treasury for the Entertainment of the Officers and Men of the American Fleet on the Occasion of Its Proposed VIsit to the Philippine Islands, and Authorizing the City of Manila to Appropriate the Sum of Twenty-Five thousand Pesos for the Same Purpose."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1908-06-15",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 1860",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1014,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (HTML full text only)  |  https://lawphil.net/statutes/acts/act1908/act_1860_1908.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_01860_1908_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_01860_1908_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12569-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "There is hereby appropriated, out of any funds in the Insular Treasury not otherwise\nappropriated, the sum of seventy-five thousand pesos, or so much thereof as may be necessary, for the\nentertainment and reception of the officers and men of the American Battleship Fleet on the occasion of its\nvisit to the Philippine Islands, during the autumn of the year nineteen hundred and eight.\nThe moneys hereby appropriated shall be withdrawn from the Insular Treasury by warrant and disbursed for\nall such expenses incurred in the entertainment and reception of the officers and men of said fleet as shall have\nbeen approved by a committee of three appointed by the Governor-General."
+   }
+  },
+  {
+   "id": "PH-H12569-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The city of Manila is hereby authorized to appropriate, from any funds in its treasury not\notherwise appropriated, the sum of twenty-five thousand pesos, to he expended for the same purpose and by\nthe same committee and in the same manner as provided in section one hereof."
+   }
+  },
+  {
+   "id": "PH-H12569-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted June 15, 1908"
+   }
+  }
+ ]
+}

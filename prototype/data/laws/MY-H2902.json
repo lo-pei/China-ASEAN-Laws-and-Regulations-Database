@@ -1,0 +1,306 @@
+{
+ "id": "MY-H2902",
+ "title": {
+  "zh": "2021年传染病预防与控制（疫区地方措施）（修正）条例",
+  "en": "PREVENTION AND CONTROL OF INFECTIOUS DISEASES (MEASURES WITHIN INFECTED LOCAL AREAS) (AMENDMENT) REGULATIONS 2021",
+  "orig": "PREVENTION AND CONTROL OF INFECTIOUS DISEASES (MEASURES WITHIN INFECTED LOCAL AREAS) (AMENDMENT) REGULATIONS 2021",
+  "ms": "Peraturan Pencegahan dan Kawalan Penyakit Berjangkit (Langkah dalam Kawasan Tempatan Berjangkit) (Pindaan) 2021",
+  "vi": "Quy định về Phòng chống bệnh truyền nhiễm (Các biện pháp trong khu vực bị nhiễm bệnh) (Sửa đổi) năm 2021",
+  "th": "ข้อบังคับการป้องกันและควบคุมโรคติดต่อ (มาตรการในท้องที่ที่ติดเชื้อ) (การแก้ไข) ค.ศ. 2021",
+  "id": "Peraturan Pencegahan dan Pengendalian Penyakit Menular (Tindakan di Wilayah Lokal Terinfeksi) (Perubahan) Tahun 2021"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-6",
+ "language": "ms",
+ "level": "regulation",
+ "category": "05_其他及未分类",
+ "status": "active",
+ "promulgatedDate": "2021",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "PUA234",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 22,
+ "chars": 3359,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-view.php?type=pua&no=P.U. (A) 234/2021&status=AMENDMENT"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\05_其他及未分类\\2021_P.U.(A)234-2021_PREVENTION AND CONTROL OF INFECTIOUS DISEASES (MEASURES WITHIN INFECTED LOCAL AREAS) (AMENDMENT.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 22 条；逐字未改写（源自厂商 OCR 文本）。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H2902-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "1. Zon Kuching: Daerah Kuching dan Bahagian Samarahan"
+   }
+  },
+  {
+   "id": "MY-H2902-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "2. Zon Lundu: Daerah Lundu"
+   }
+  },
+  {
+   "id": "MY-H2902-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "3. Zon Bau: Daerah Bau"
+   }
+  },
+  {
+   "id": "MY-H2902-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "4. Zon Serian: Bahagian Serian"
+   }
+  },
+  {
+   "id": "MY-H2902-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "5. Zon Sri Aman: Bahagian Sri Aman"
+   }
+  },
+  {
+   "id": "MY-H2902-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "6. Zon Sarikei: Bahagian Sarikei"
+   }
+  },
+  {
+   "id": "MY-H2902-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "7. Zon Betong: Bahagian Betong"
+   }
+  },
+  {
+   "id": "MY-H2902-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "8. Zon Mukah: Bahagian Mukah"
+   }
+  },
+  {
+   "id": "MY-H2902-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "9. Zon Bintulu: Bahagian Bintulu"
+   }
+  },
+  {
+   "id": "MY-H2902-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "10. Zon Miri: Daerah Miri"
+   }
+  },
+  {
+   "id": "MY-H2902-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "11. Zon Beluru: Daerah Beluru"
+   }
+  },
+  {
+   "id": "MY-H2902-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "12. Zon Subis: Daerah Subis"
+   }
+  },
+  {
+   "id": "MY-H2902-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "13. Zon Telang Usan: Daerah Telang Usan"
+   }
+  },
+  {
+   "id": "MY-H2902-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "14. Zon Marudi: Daerah Marudi"
+   }
+  },
+  {
+   "id": "MY-H2902-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "15. Zon Limbang: Bahagian Limbang"
+   }
+  },
+  {
+   "id": "MY-H2902-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "16. Zon Sibu: Daerah Sibu"
+   }
+  },
+  {
+   "id": "MY-H2902-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "17. Zon Kanowit: Daerah Kanowit"
+   }
+  },
+  {
+   "id": "MY-H2902-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "18. Zon Selangau: Daerah Selangau"
+   }
+  },
+  {
+   "id": "MY-H2902-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "19. Zon Kapit: Daerah Kapit"
+   }
+  },
+  {
+   "id": "MY-H2902-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "20. Zon Song: Daerah Song"
+   }
+  },
+  {
+   "id": "MY-H2902-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "21. Zon Belaga: Daerah Belaga"
+   }
+  },
+  {
+   "id": "MY-H2902-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "22. Zon Bukit Mabong: Daerah Bukit Mabong\".\n\nPindaan Jadual Kedua\n\n3. Jadual Kedua kepada Peraturan-Peraturan ibu dipinda dengan menggantikan\n\nperenggan 4 dengan perenggan yang berikut:\n\n\"4. Aktiviti hiburan di pusat karaoke, pusat hiburan keluarga, ruang istirahat\n\nhotel, panggung wayang tidak termasuk panggung wayang pandu masuk,\n\ndan tempat permainan kanak-kanak di pusat membeli belah\".\n\nDibuat 24 Mei 2021\n\n[KKM.600-29/4/146 Jld.2 (30); PN(PU2)470/Jld. 6]\n\nDATO' SRI DR. ADHAM BIN BABA\n\nMenteri Kesihatan\n\nPREVENTION AND CONTROL OF INFECTIOUS DISEASES ACT 1988\n\nPREVENTION AND CONTROL OF INFECTIOUS DISEASES\n\n(MEASURES WITHIN INFECTED LOCAL AREAS) (AMENDMENT) REGULATIONS 2021\n\nIN exercise of the powers conferred by subsection 11(2) of the\n\nPrevention and Control of Infectious Diseases Act 1988 [Act 342], the Minister makes\n\nthe following regulations:\n\nCitation and commencement\n\n1. (1) These regulations may be cited as the Prevention and Control\n\nof Infectious Diseases (Measures within Infected Local Areas) (Amendment)\n\nRegulations 2021.\n\n(2) These Regulations come into operation on 25 May 2021.\n\nSubstitution of First Schedule\n\n2. The Prevention and Control of Infectious Diseases (Measures within\n\nInfected Local Areas) Regulations 2021 [P.U. (A) 225/2021], which are referred to as the\n\n\"principal Regulations\" in these Regulations, are amended by substituting for the\n\nFirst Schedule the following schedule:\n\n\"FIRST SCHEDULE\n\n[Regulation 3]\n\nZONE IN THE STATE OF SARAWAK\n\n1. Kuching Zone: Kuching District and Samarahan Division\n\n2. Lundu Zone: Lundu District\n\n3. Bau Zone: Bau District\n\n4. Serian Zone: Serian Division\n\n5. Sri Aman Zone: Sri Aman Division\n\n6. Sarikei Zone: Sarikei Division\n\n7. Betong Zone: Betong Division\n\n8. Mukah Zone: Mukah Division\n\n9. Bintulu Zone: Bintulu Division\n\n10. Miri Zone: Miri District\n\n11. Beluru Zone: Beluru District\n\n12. Subis Zone: Subis District\n\n13. Telang Usan Zone: Telang Usan District\n\n14. Marudi Zone: Marudi District\n\n15. Limbang Zone: Limbang Division\n\n16. Sibu Zone: Sibu District\n\n17. Kanowit Zone: Kanowit District\n\n18. Selangau Zone: Selangau District\n\n19. Kapit Zone: Kapit District\n\n20. Song Zone: Song District\n\n21. Belaga Zone: Belaga District\n\n22. Bukit Mabong Zone: Bukit Mabong District\".\n\nAmendment of Second Schedule\n\n3. The Second Schedule to the principal Regulations is amended by substituting for\n\nparagraph 4 the following paragraph:\n\n\"4. Entertainment activities at karaoke centers, family entertainment centers,\n\nhotel lounges, cinemas not including drive-in cinemas, and children's\n\nplayground in shopping malls\".\n\nMade 24 May 2021\n\n[KKM.600-29/4/146 Jld.2 (30); PN(PU2)470/Jld. 6]\n\nDATO' SRI DR. ADHAM BIN BABA\n\nMinister of Health"
+   }
+  }
+ ]
+}

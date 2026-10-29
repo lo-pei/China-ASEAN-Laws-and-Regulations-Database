@@ -1,0 +1,62 @@
+{
+ "id": "PH-H16364",
+ "title": {
+  "zh": null,
+  "en": "An Act Amending Paragraph three of Section Seven of Commonwealth Act Numbered Five Hundred Eighty-Six, Known as the Educational Act of Nineteen Hundred Forty.",
+  "orig": "An Act Amending Paragraph three of Section Seven of Commonwealth Act Numbered Five Hundred Eighty-Six, Known as the Educational Act of Nineteen Hundred Forty."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1941-06-21",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 656",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 904,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00656_1941_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00656_1941_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H16364-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Paragraph three,section seven of Commonwealth Act Numbered Five hundred eighty-six, is\nammended to read as follows:\n**************\n\"Matriculation fees in an amount to be determined by the President, but not exceeding two pesos for each\npupil enrolled in the intermediate grades, may be collected in municipalities and municipal districts, the\nproceeds thereof to constitute a special pupils' fund to be deposited with the municipal or provincial treasurer\nconcerned and to be expended by the local school officials for the purchase of supplementary readers and\nother library books which had been previously approved by the Board on Text Books or by the Director of\nEducation, and for financing athletic activities in the intermediate classes: Provided, That books which are a\ncontribution to Philippine literature shall be preferred.\""
+   }
+  },
+  {
+   "id": "PH-H16364-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, June 21, 1941."
+   }
+  }
+ ]
+}

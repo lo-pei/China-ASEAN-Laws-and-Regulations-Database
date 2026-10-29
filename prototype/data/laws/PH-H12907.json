@@ -1,0 +1,62 @@
+{
+ "id": "PH-H12907",
+ "title": {
+  "zh": null,
+  "en": "An Act Appropriating Seven thousand and Ninety-Two Pesos for the Improvement of Buildings and Grounds At Baguio, Benguet.",
+  "orig": "An Act Appropriating Seven thousand and Ninety-Two Pesos for the Improvement of Buildings and Grounds At Baguio, Benguet."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1912-12-21",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2201",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 567,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1912/act_2201_1912.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02201_1912_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02201_1912_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12907-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "There is hereby appropriated, out of any Appropriation, funds in the Insular Treasury not\notherwise appropriated, for improving the sanitary condition of small cottages inhabited by Filipino\nemployees at Baguio; for installing open drains in connection therewith; for providing baths and sinks in such\ncottages; and for the construction of gravel walks and the provision of adequate lighting at night, seven\nthousand and ninety-two pesos, which sum shall be expended by the Bureau of Public Works."
+   }
+  },
+  {
+   "id": "PH-H12907-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, December 21, 1912."
+   }
+  }
+ ]
+}

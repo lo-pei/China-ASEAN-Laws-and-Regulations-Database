@@ -1,0 +1,1246 @@
+{
+ "id": "ID-H2123",
+ "title": {
+  "zh": "河流法",
+  "en": "Law on Rivers",
+  "id": "SUNGAI",
+  "orig": "SUNGAI",
+  "vi": "Luật về Sông ngòi",
+  "th": "พระราชบัญญัติว่าด้วยแม่น้ำ",
+  "ms": "Akta tentang Sungai"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02c",
+ "language": "id",
+ "level": "law",
+ "category": "04_劳工与行政法",
+ "status": "active",
+ "promulgatedDate": "2011",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU38-2011",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 84,
+ "chars": 75770,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PP%2038%20Tahun%202011.pdf&fl=P17287"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\04_劳工与行政法\\印尼_文本_2011_SUNGAI.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 84 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H2123-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\n\nDalam Peraturan Pemerintah ini yang dimaksud dengan:\n\n 1.  Sungai  . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n1.  Sungai adalah alur atau wadah air alami dan/atau\nbuatan berupa jaringan pengaliran air beserta air d i\ndalamnya, mulai dari hulu sampai muara, dengan\ndibatasi kanan dan kiri oleh garis sempadan.\n2.  Danau paparan banjir adalah tampungan air alami yan g\nmerupakan bagian dari sungai yang muka airnya\nterpengaruh langsung oleh muka air sungai.\n3.  Dataran banjir adalah dataran di sepanjang kiri\ndan/atau kanan sungai yang tergenang air pada saat\nbanjir.\n4.  Pengelolaan sumber daya air adalah upaya\nmerencanakan, melaksanakan, memantau, dan\nmengevaluasi penyelenggaraan konservasi sumber daya\nair, pendayagunaan sumber daya air, dan pengendalia n\ndaya rusak air.\n5.  Daerah aliran sungai adalah suatu wilayah daratan y ang\nmerupakan satu kesatuan dengan sungai dan anak-anak\nsungainya, yang berfungsi menampung, menyimpan, dan\nmengalirkan air yang berasal dari curah hujan ke la ut\nsecara alami, yang batas di darat merupakan pemisah\ntopografis dan batas di laut sampai dengan daerah\nperairan yang masih terpengaruh aktivitas daratan.\n6.  Wilayah sungai adalah kesatuan wilayah pengelolaan\nsumber daya air dalam satu atau lebih daerah aliran\nsungai dan/atau pulau-pulau kecil yang luasnya kura ng\ndari atau sama dengan 2.000 Km 2 (dua ribu kilo meter\npersegi).\n7.  Banjir adalah peristiwa meluapnya air sungai melebi hi\npalung sungai.\n8.  Bantaran sungai adalah ruang antara tepi palung sun gai\ndan kaki tanggul sebelah dalam yang terletak di kir i\ndan/atau kanan palung sungai.\n9.  Garis sempadan adalah garis maya di kiri dan kanan\npalung sungai yang ditetapkan sebagai batas\nperlindungan sungai.\n\n\n\n10. Masyarakat  .  . .\n.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n10.  Masyarakat adalah seluruh rakyat Indonesia, baik\nsebagai orang perseorangan, kelompok orang,\nmasyarakat adat, badan usaha, maupun yang\nberhimpun dalam suatu lembaga atau organisasi\nkemasyarakatan.\n11.  Pemerintah pusat, selanjutnya disebut Pemerintah,\nadalah Presiden Republik Indonesia yang memegang\nkekuasaan pemerintahan negara Republik Indonesia\nberdasarkan Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945.\n12.  Pemerintah daerah adalah gubernur, bupati/walikota,\ndan perangkat daerah sebagai unsur penyelenggara\npemerintahan daerah.\n13.  Menteri adalah menteri yang menyelenggarakan urusan\npemerintahan di bidang sumber daya air."
+   }
+  },
+  {
+   "id": "ID-H2123-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\n\nPeraturan pemerintah ini mengatur mengenai ruang su ngai,\npengelolaan sungai, perizinan, sistem informasi, da n\npemberdayaan masyarakat."
+   }
+  },
+  {
+   "id": "ID-H2123-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\n\n(1)  Sungai dikuasai oleh negara dan merupakan kekayaan\nnegara.\n(2)  Pengelolaan sungai dilakukan secara menyeluruh,\nterpadu, dan berwawasan lingkungan dengan tujuan\nuntuk mewujudkan kemanfaatan fungsi sungai yang\nberkelanjutan."
+   }
+  },
+  {
+   "id": "ID-H2123-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\n\nPengelolaan sungai sebagaimana dimaksud dalam Pasal  3\nayat (2) dilakukan oleh Pemerintah, pemerintah prov insi,\natau pemerintah kabupaten/kota sesuai dengan\nkewenangannya.\n\n BAB II . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBAB II\nRUANG SUNGAI"
+   }
+  },
+  {
+   "id": "ID-H2123-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\n\n(1)  Sungai terdiri atas:\na.  palung sungai; dan\nb.  sempadan sungai.\n\n(2)  Palung sungai dan sempadan sungai sebagaimana\ndimaksud pada ayat (1) membentuk ruang sungai.\n\n(3)  Dalam hal kondisi topografi tertentu dan/atau banji r,\nruang sungai dapat terhubung dengan danau paparan\nbanjir dan/atau dataran banjir.\n\n(4)  Palung sungai sebagaimana dimaksud pada ayat (1)\nhuruf a berfungsi sebagai ruang wadah air mengalir dan\nsebagai tempat berlangsungnya kehidupan ekosistem\nsungai.\n\n(5)  Sempadan sungai sebagaimana dimaksud pada ayat (1)\nhuruf b berfungsi sebagai ruang penyangga antara\nekosistem sungai dan daratan, agar fungsi sungai da n\nkegiatan manusia tidak saling terganggu."
+   }
+  },
+  {
+   "id": "ID-H2123-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\n\n(1)  Palung sungai sebagaimana dimaksud dalam Pasal 5\nayat (1) huruf a membentuk jaringan pengaliran air,\nbaik yang mengalir secara menerus maupun berkala.\n\n(2)  Palung sungai sebagaimana dimaksud pada ayat (1)\nditentukan berdasarkan topografi terendah alur sungai."
+   }
+  },
+  {
+   "id": "ID-H2123-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\n\nDalam hal di dalam sempadan sungai terdapat tanggul\nuntuk mengendalikan banjir, ruang antara tepi palun g\nsungai dan tepi dalam kaki tanggul merupakan bantar an\nsungai."
+   }
+  },
+  {
+   "id": "ID-H2123-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8 "
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 8 . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPasal 8\n\n(1)  Sempadan sungai sebagaimana dimaksud dalam Pasal\n5 ayat (1) huruf b meliputi ruang di kiri dan kanan\npalung sungai di antara garis sempadan dan tepi\npalung sungai untuk sungai tidak bertanggul, atau d i\nantara garis sempadan dan tepi luar kaki tanggul un tuk\nsungai bertanggul.\n(2)  Garis sempadan sebagaimana dimaksud pada ayat (1)\nditentukan pada:\na.  sungai tidak bertanggul di dalam kawasan\nperkotaan;\nb.  sungai tidak bertanggul di luar kawasan perkotaan;\nc.  sungai bertanggul di dalam kawasan perkotaan;\nd.  sungai bertanggul di luar kawasan perkotaan;\ne.  sungai yang terpengaruh pasang air laut;\nf.  danau paparan banjir; dan\ng.  mata air."
+   }
+  },
+  {
+   "id": "ID-H2123-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n\nGaris sempadan pada sungai tidak bertanggul di dala m\nkawasan perkotaan sebagaimana dimaksud dalam Pasal 8\nayat (2) huruf a ditentukan:\na.  paling sedikit berjarak 10 m (sepuluh meter) dari t epi kiri\ndan kanan palung sungai sepanjang alur sungai, dala m\nhal kedalaman sungai kurang dari atau sama dengan 3 m\n(tiga meter);\nb.  paling sedikit berjarak 15 m (lima belas meter) dar i tepi\nkiri dan kanan palung sungai sepanjang alur sungai,\ndalam hal kedalaman sungai lebih dari 3 m (tiga met er)\nsampai dengan 20 m (dua puluh meter); dan\nc.  paling sedikit berjarak 30 m (tiga puluh meter) dar i tepi\nkiri dan kanan palung sungai sepanjang alur sungai,\ndalam hal kedalaman sungai lebih dari 20 m (dua pul uh\nmeter)."
+   }
+  },
+  {
+   "id": "ID-H2123-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10 "
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 10 . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPasal 10\n\n(1)  Sungai tidak bertanggul di luar kawasan perkotaan\nsebagaimana dimaksud dalam Pasal 8 ayat (2) huruf b\nterdiri atas:\na.  sungai besar dengan luas DAS lebih besar dari 500\nKm 2 (lima ratus kilometer persegi); dan\nb.  sungai kecil dengan luas DAS kurang dari atau\nsama dengan 500 Km 2 (lima ratus kilometer\npersegi).\n\n(2)  Garis sempadan sungai besar tidak bertanggul di lua r\nkawasan perkotaan sebagaimana dimaksud pada ayat\n(1) huruf a ditentukan paling sedikit berjarak 100 m\n(seratus meter) dari tepi kiri dan kanan palung sun gai\nsepanjang alur sungai.\n(3)  Garis sempadan sungai kecil tidak bertanggul di lua r\nkawasan perkotaan sebagaimana dimaksud pada ayat\n(1) huruf b ditentukan paling sedikit 50 m (lima pu luh\nmeter) dari tepi kiri dan kanan palung sungai sepan jang\nalur sungai."
+   }
+  },
+  {
+   "id": "ID-H2123-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\n\nGaris sempadan sungai bertanggul di dalam kawasan\nperkotaan sebagaimana dimaksud dalam Pasal 8 ayat ( 2)\nhuruf c ditentukan paling sedikit berjarak 3 m (tig a meter)\ndari tepi luar kaki tanggul sepanjang alur sungai."
+   }
+  },
+  {
+   "id": "ID-H2123-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n\nGaris sempadan sungai bertanggul di luar kawasan\nperkotaan sebagaimana dimaksud dalam Pasal 8 ayat ( 2)\nhuruf d ditentukan paling sedikit berjarak 5 m (lim a meter)\ndari tepi luar kaki tanggul sepanjang alur sungai."
+   }
+  },
+  {
+   "id": "ID-H2123-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\n\nPenentuan garis sempadan yang terpengaruh pasang ai r laut\nsebagaimana dimaksud dalam Pasal 8 ayat (2) huruf e ,\ndilakukan dengan cara yang sama dengan penentuan ga ris\nsempadan sesuai Pasal 9, Pasal 10, Pasal 11, dan Pa sal 12\nyang diukur dari tepi muka air pasang rata-rata."
+   }
+  },
+  {
+   "id": "ID-H2123-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14 "
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 14 . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPasal 14\n\nGaris sempadan danau paparan banjir sebagaimana\ndimaksud dalam Pasal 8 ayat (2) huruf f ditentukan\nmengelilingi danau paparan banjir paling sedikit be rjarak\n50 m (lima puluh meter) dari tepi muka air tertingg i yang\npernah terjadi."
+   }
+  },
+  {
+   "id": "ID-H2123-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\n\nGaris sempadan mata air sebagaimana dimaksud dalam\nPasal 8 ayat (2) huruf g ditentukan mengelilingi ma ta air\npaling sedikit berjarak 200 m (dua ratus meter) dar i pusat\nmata air."
+   }
+  },
+  {
+   "id": "ID-H2123-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\n\n(1)  Garis sempadan sebagaimana dimaksud dalam Pasal 8\nditetapkan oleh Menteri, gubernur, atau\nbupati/walikota sesuai dengan ketentuan peraturan\nperundang-undangan.\n(2)  Penetapan garis sempadan sebagaimana dimaksud\npada ayat (1) dilakukan berdasarkan kajian penetapa n\ngaris sempadan.\n(3)  Dalam penetapan garis sempadan harus\nmempertimbangkan karakteristik geomorfologi sungai,\nkondisi sosial budaya masyarakat setempat, serta\nmemperhatikan jalan akses bagi peralatan, bahan, da n\nsumber daya manusia untuk melakukan kegiatan\noperasi dan pemeliharaan sungai.\n(4)  Kajian penetapan garis sempadan sebagaimana\ndimaksud pada ayat (2) memuat paling sedikit\nmengenai batas ruas sungai yang ditetapkan, letak garis\nsempadan, serta rincian jumlah dan jenis bangunan\nyang terdapat di dalam sempadan.\n(5)  Kajian penetapan garis sempadan sebagaimana\ndimaksud pada ayat (4) dilakukan oleh tim yang\ndibentuk oleh Menteri, gubernur, atau bupati/waliko ta\nsesuai kewenangannya.\n(6) Tim  . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(6)  Tim kajian  penetapan garis sempadan sebagaimana\ndimaksud pada ayat (5) beranggotakan wakil dari\ninstansi teknis dan unsur masyarakat."
+   }
+  },
+  {
+   "id": "ID-H2123-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\n\n(1)  Dalam hal hasil kajian sebagaimana dimaksud dalam\nPasal 16 ayat (2) menunjukkan terdapat bangunan\ndalam sempadan sungai maka bangunan tersebut\ndinyatakan dalam status quo  dan secara bertahap\nharus ditertibkan untuk mengembalikan fungsi\nsempadan sungai.\n(2)  Ketentuan sebagaimana dimaksud pada ayat (1) tidak\nberlaku bagi bangunan yang terdapat dalam sempadan\nsungai untuk fasilitas kepentingan tertentu yang\nmeliputi:\na. bangunan prasarana sumber daya air;\nb. fasilitas jembatan dan dermaga;\nc. jalur pipa gas dan air minum; dan\nd. rentangan kabel listrik dan telekomunikasi.\n\n\nBAB III\nPENGELOLAAN SUNGAI\n\nBagian Kesatu\nUmum"
+   }
+  },
+  {
+   "id": "ID-H2123-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\n\n(1)  Pengelolaan sungai meliputi:\na.  konservasi sungai;\nb.  pengembangan sungai; dan\nc.  pengendalian daya rusak air sungai.\n\n(2)  Pengelolaan sungai sebagaimana dimaksud pada ayat\n(1) dilakukan melalui tahap:\na.  penyusunan program dan kegiatan;\nb.  pelaksanaan kegiatan; dan\nc.  pemantauan dan evaluasi."
+   }
+  },
+  {
+   "id": "ID-H2123-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19 "
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 19 . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPasal 19\n\n(1)  Pengelolaan sungai sebagaimana dimaksud dalam Pasal\n18 dilakukan oleh:\na.  Menteri, untuk sungai pada wilayah sungai lintas\nprovinsi, wilayah sungai lintas negara, dan wilayah\nsungai strategis nasional;\nb.  gubernur, untuk sungai pada wilayah sungai lintas\nkabupaten/kota; dan\nc.  bupati/walikota, untuk sungai pada wilayah sungai\ndalam satu kabupaten/kota.\n\n(2)  Pengelolaan sungai sebagaimana dimaksud pada ayat\n(1) dilakukan dengan melibatkan instansi teknis dan\nunsur masyarakat terkait.\n\n(3)  Pengelolaan sungai dilaksanakan berdasarkan norma,\nstandar, pedoman, dan kriteria yang ditetapkan oleh\nMenteri.\n\nBagian Kedua\nKonservasi Sungai"
+   }
+  },
+  {
+   "id": "ID-H2123-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  20\n\n(1)  Konservasi sungai sebagaimana dimaksud dalam Pasal\n18 ayat (1) huruf a dilakukan melalui kegiatan:\na.  perlindungan sungai; dan\nb.  pencegahan pencemaran air sungai.\n\n(2)  Perlindungan sungai sebagaimana dimaksud pada ayat\n(1) huruf a dilakukan melalui perlindungan terhadap:\na.  palung sungai;\nb.  sempadan sungai;\nc.  danau paparan banjir; dan\nd.  dataran banjir.\n\n(3)  Perlindungan sebagaimana dimaksud pada ayat (2)\ndilakukan pula terhadap:\na.  aliran pemeliharaan sungai; dan\nb.  ruas restorasi sungai."
+   }
+  },
+  {
+   "id": "ID-H2123-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21 "
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 21 . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPasal 21\n\n(1)  Perlindungan palung sungai sebagaimana dimaksud\ndalam Pasal 20 ayat (2) huruf a dilakukan dengan\nmenjaga dimensi palung sungai.\n\n(2)  Menjaga dimensi palung sungai sebagaimana dimaksud\npada ayat (1) dilakukan melalui pengaturan\npengambilan komoditas tambang di sungai.\n\n(3)  Pengambilan komoditas tambang di sungai\nsebagaimana dimaksud pada ayat (2) hanya dapat\ndilakukan pada sungai yang mengalami kenaikan dasar\nsungai."
+   }
+  },
+  {
+   "id": "ID-H2123-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\n\n(1)  Perlindungan sempadan sungai sebagaimana dimaksud\ndalam Pasal 20 ayat (2) huruf b dilakukan melalui\npembatasan pemanfaatan sempadan sungai.\n(2)   Dalam hal di dalam sempadan sungai terdapat tanggu l\nuntuk kepentingan pengendali banjir, perlindungan\nbadan tanggul dilakukan dengan larangan:\na.  menanam tanaman selain rumput;\nb.  mendirikan bangunan; dan\nc.  mengurangi dimensi tanggul.\n(3)  Pemanfaatan sempadan sungai sebagaimana dimaksud\npada ayat (1) hanya dapat dilakukan untuk keperluan\ntertentu."
+   }
+  },
+  {
+   "id": "ID-H2123-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  23\n\n(1)  Perlindungan danau paparan banjir sebagaimana\ndimaksud dalam Pasal 20 ayat (2) huruf c dilakukan\ndengan mengendalikan sedimen dan pencemaran air\npada danau.\n(2)  Pengendalian sedimen sebagaimana dimaksud pada\nayat (1) dilakukan dengan pencegahan erosi pada\ndaerah tangkapan air."
+   }
+  },
+  {
+   "id": "ID-H2123-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24 "
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 24 . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPasal  24\n\n(1)  Perlindungan dataran banjir sebagaimana dimaksud\ndalam Pasal 20 ayat (2) huruf d dilakukan pada data ran\nbanjir yang berpotensi menampung banjir.\n\n(2)  Perlindungan dataran banjir sebagaimana dimaksud\npada ayat (1) dilakukan dengan membebaskan dataran\nbanjir dari peruntukan yang mengganggu fungsi\npenampung banjir."
+   }
+  },
+  {
+   "id": "ID-H2123-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\n\n(1)  Perlindungan aliran pemeliharaan sungai sebagaimana\ndimaksud dalam Pasal 20 ayat (3) huruf a ditujukan\nuntuk menjaga ekosistem sungai.\n\n(2)  Menjaga ekosistem sungai sebagaimana dimaksud pada\nayat (1) dilakukan mulai dari hulu sampai muara\nsungai.\n\n(3)  Perlindungan aliran pemeliharaan sungai dilakukan\ndengan mengendalikan ketersediaan debit andalan 95%\n(sembilan puluh lima persen).\n\n(4)  Dalam hal debit andalan 95% (sembilan puluh lima\npersen) tidak tercapai, pengelola sumber daya air h arus\nmengendalikan pemakaian air di hulu."
+   }
+  },
+  {
+   "id": "ID-H2123-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\n\n(1)  Perlindungan ruas restorasi sungai sebagaimana\ndimaksud dalam Pasal 20 ayat (3) huruf b ditujukan\nuntuk mengembalikan sungai ke kondisi alami.\n\n(2)  Perlindungan ruas restorasi sungai sebagaimana\ndimaksud pada ayat (1) dilakukan melalui:\na.  kegiatan fisik; dan\nb.  rekayasa secara vegetasi.\n\n(3)  Kegiatan fisik sebagaimana dimaksud pada ayat (2)\nhuruf a meliputi penataan palung sungai, penataan\nsempadan sungai dan sempadan danau paparan banjir,\nserta rehabilitasi alur sungai."
+   }
+  },
+  {
+   "id": "ID-H2123-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27 "
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 27 . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPasal 27\n\n(1)  Pencegahan pencemaran air sungai sebagaimana\ndimaksud dalam Pasal 20 ayat (1) huruf b dilakukan\nmelalui:\na.  penetapan daya tampung beban pencemaran;\nb.  identifikasi dan inventarisasi sumber air limbah\nyang masuk ke sungai;\nc.  penetapan persyaratan dan tata cara pembuangan\nair limbah;\nd.  pelarangan pembuangan sampah ke sungai;\ne.  pemantauan kualitas air pada sungai; dan\nf.  pengawasan air limbah yang masuk ke sungai.\n\n(2) Pencegahan pencemaran air sungai dilaksanakan\nsesuai dengan dengan ketentuan peraturan perundang-\nundangan."
+   }
+  },
+  {
+   "id": "ID-H2123-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\n\nKetentuan lebih lanjut mengenai tata cara perlindun gan\nsungai diatur dengan peraturan Menteri.\n\nBagian Ketiga\nPengembangan Sungai"
+   }
+  },
+  {
+   "id": "ID-H2123-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\n\nPengembangan sungai sebagaimana dimaksud dalam Pasa l\n18 ayat (1) huruf b merupakan bagian dari pengemban gan\nsumber daya air."
+   }
+  },
+  {
+   "id": "ID-H2123-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\n\n(1)  Pengembangan sungai sebagaimana dimaksud dalam\nPasal 29 dilakukan melalui pemanfaatan sungai.\n(2)  Pemanfaatan sungai sebagaimana dimaksud pada ayat\n(1) meliputi pemanfaatan untuk:\na.  rumah tangga;\nb. pertanian . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nb.  pertanian;\nc.  sanitasi lingkungan;\nd.  industri;\ne.  pariwisata;\nf.  olahraga;\ng.  pertahanan;\nh.  perikanan;\ni.  pembangkit tenaga listrik; dan\nj.  transportasi.\n\n(3)  Pengembangan  sungai sebagaimana dimaksud pada\nayat (1) dilakukan dengan tidak merusak ekosistem\nsungai, mempertimbangkan karakteristik sungai,\nkelestarian keanekaragaman hayati, serta kekhasan\ndan aspirasi daerah/masyarakat setempat."
+   }
+  },
+  {
+   "id": "ID-H2123-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\n\n(1) Pemanfaatan sungai sebagaimana dimaksud dalam\nPasal 30 ayat (1) dilakukan dengan ketentuan:\na.  mengutamakan pemenuhan kebutuhan pokok\nsehari-hari dan pertanian rakyat dalam sistem\nirigasi yang sudah ada; dan\nb.  mengalokasikan kebutuhan air untuk aliran\npemeliharaan sungai.\n(2) Dalam melakukan pemanfaatan sungai sebagaimana\ndimaksud pada ayat (1) dilarang:\na.  mengakibatkan terjadinya pencemaran; dan\nb.  mengakibatkan terganggunya aliran sungai\ndan/atau keruntuhan tebing sungai."
+   }
+  },
+  {
+   "id": "ID-H2123-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 32\n\nDalam melakukan pemanfaatan sungai untuk perikanan\nsebagaimana dimaksud dalam Pasal 30 ayat (2) huruf h,\nselain harus mengikuti ketentuan sebagaimana dimaks ud\ndalam Pasal 31, harus pula mempertimbangkan daya\ntampung dan daya dukung lingkungan sungai."
+   }
+  },
+  {
+   "id": "ID-H2123-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33 "
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 33 . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPasal 33\n\nDalam melakukan pemanfaatan sungai untuk pembangkit\ntenaga listrik sebagaimana dimaksud dalam Pasal 30 ayat (2)\nhuruf i, selain harus mengikuti ketentuan sebagaima na\ndimaksud dalam Pasal 31, dilarang menimbulkan banji r dan\nkekeringan pada daerah hilir.\n\nBagian Keempat\nPengendalian Daya Rusak Air Sungai"
+   }
+  },
+  {
+   "id": "ID-H2123-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 34\n\n(1)  Pengendalian daya rusak air sungai sebagaimana\ndimaksud dalam Pasal 18 ayat (1) huruf c dilakukan\nmelalui pengelolaan resiko banjir.\n(2)  Pengelolaan resiko banjir sebagaimana dimaksud pada\nayat (1) dilakukan secara terpadu bersama pemilik\nkepentingan."
+   }
+  },
+  {
+   "id": "ID-H2123-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 35\n\n(1)  Pengelolaan resiko banjir sebagaimana dimaksud dala m\nPasal 34 ditujukan untuk mengurangi kerugian banjir.\n(2)  Pengelolaan resiko banjir sebagaimana dimaksud pada\nayat (1) dilakukan melalui:\na. pengurangan resiko besaran banjir; dan\nb. pengurangan resiko kerentanan banjir.\n\n(3)  Kegiatan pengurangan resiko banjir sebagaimana\ndimaksud pada ayat (2) dilakukan berdasarkan rencan a\npengelolaan sumber daya air sesuai dengan ketentuan\nperaturan perundang-undangan."
+   }
+  },
+  {
+   "id": "ID-H2123-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 36\n\n (1) Pengurangan resiko besaran banjir sebagaimana\ndimaksud dalam Pasal 35 ayat (2) huruf a dilakukan\ndengan membangun:\n a. prasarana pengendali banjir; dan\n b. prasarana pengendali aliran permukaan.\n\n(2) Pembangunan . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(2) Pembangunan prasarana pengendali banjir\nsebagaimana dimaksud pada ayat (1) huruf a dilakuka n\ndengan membuat:\na.  peningkatan kapasitas sungai;\nb.  tanggul;\nc.  pelimpah banjir dan/atau pompa;\nd.  bendungan; dan\ne.  perbaikan drainase perkotaan.\n\n(3) Pembangunan prasarana pengendali aliran permuka an\nsebagaimana dimaksud pada ayat (1) huruf b dilakuka n\ndengan membuat:\n a. resapan air; dan\n b. penampung banjir."
+   }
+  },
+  {
+   "id": "ID-H2123-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 37\n\n(1)  Resapan air sebagaimana dimaksud dalam Pasal 36\nayat (3) huruf a dapat berupa saluran, pipa berluba ng,\nsumur, kolam resapan, dan bidang resapan sesuai\ndengan kondisi tanah dan kedalaman muka air tanah.\n(2)  Dalam hal bidang resapan sebagaimana dimaksud pada\nayat (1) dimanfaatkan untuk keperluan lain, wajib\nmenggunakan lapis penutup atau perkerasan lulus air."
+   }
+  },
+  {
+   "id": "ID-H2123-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 38\n\n(1)  Pembangunan penampung banjir sebagaimana\ndimaksud dalam Pasal 36 ayat (3) huruf b harus\nterhubung dengan sungai.\n(2)  Dalam hal penampung banjir sebagaimana dimaksud\npada ayat (1) dibangun di atas hak atas tanah\nperorangan atau badan hukum, pelaksanaannya wajib\ndilakukan sesuai dengan ketentuan peraturan\nperundang-undangan di bidang pertanahan."
+   }
+  },
+  {
+   "id": "ID-H2123-A39",
+   "no": 39,
+   "noLabel": {
+    "id": "Pasal 39 "
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 39 . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPasal 39\n\n(1)  Pembangunan prasarana yang berfungsi sebagai\npengendali banjir sebagaimana dimaksud dalam Pasal\n36 ayat (2) huruf a sampai dengan huruf d\ndilaksanakan oleh Menteri, gubernur, dan/atau\nbupati/walikota sesuai kewenangannya.\n(2)  Pembangunan prasarana yang berfungsi sebagai\ndrainase kota sebagaimana dimaksud dalam Pasal 36\nayat (2) huruf e dilaksanakan oleh bupati/walikota."
+   }
+  },
+  {
+   "id": "ID-H2123-A40",
+   "no": 40,
+   "noLabel": {
+    "id": "Pasal 40"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 40\n(1)  Pembangunan prasarana pengendali aliran permukaan\nsebagaimana dimaksud dalam Pasal 36 ayat (3)\ndilaksanakan oleh Menteri, gubernur, dan/atau\nbupati/walikota apabila pengendali aliran permukaan\nberfungsi sebagai pengendali banjir.\n(2)  Pembangunan prasarana pengendali aliran permukaan\nsebagaimana dimaksud dalam Pasal 36 ayat (3)\ndilaksanakan oleh bupati/walikota apabila pengendal i\naliran permukaan berfungsi sebagai drainase kota."
+   }
+  },
+  {
+   "id": "ID-H2123-A41",
+   "no": 41,
+   "noLabel": {
+    "id": "Pasal 41"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 41\n\n(1) Pengurangan resiko kerentanan banjir sebagaiman a\ndimaksud dalam Pasal 35 ayat (2) huruf b dilakukan\nmelalui pengelolaan dataran banjir.\n(2) Pengelolaan dataran banjir sebagaimana dimaksud\npada ayat (1) meliputi:\na.  penetapan batas dataran banjir:\nb.  penetapan zona peruntukan lahan sesuai resiko\nbanjir;\nc.  pengawasan peruntukan lahan di dataran banjir;\nd.  persiapan menghadapi banjir;\ne.  penanggulangan banjir; dan\nf.  pemulihan setelah banjir."
+   }
+  },
+  {
+   "id": "ID-H2123-A42",
+   "no": 42,
+   "noLabel": {
+    "id": "Pasal 42 "
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 42 . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPasal 42\n\n(1)  Penetapan batas dataran banjir sebagaimana dimaksud\ndalam Pasal 41 ayat (2) huruf a dilakukan dengan\nidentifikasi genangan banjir yang terjadi sebelumny a\ndan/atau pemodelan genangan dengan debit rencana\n50 (lima puluh) tahunan.\n\n(2)  Penetapan batas dataran banjir dilakukan oleh Mente ri,\ngubernur, dan/atau bupati/walikota sesuai\nkewenangannya."
+   }
+  },
+  {
+   "id": "ID-H2123-A43",
+   "no": 43,
+   "noLabel": {
+    "id": "Pasal 43"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 43\n\n(1)  Dalam dataran banjir sebagaimana dimaksud dalam\nPasal 42 ayat (2) ditetapkan zona peruntukan lahan\nsesuai resiko banjir sebagaimana dimaksud dalam Pasal\n41 ayat (2) huruf b.\n\n(2)  Penetapan zona sebagaimana dimaksud pada ayat (1)\ndituangkan dalam peta zonasi peruntukan lahan\ndataran banjir.\n\n(3)  Penetapan zona peruntukan lahan sesuai resiko banji r\ndilakukan oleh bupati/walikota."
+   }
+  },
+  {
+   "id": "ID-H2123-A44",
+   "no": 44,
+   "noLabel": {
+    "id": "Pasal 44"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 44\n\nBupati/walikota melakukan pengawasan atas zona\nperuntukan lahan sesuai resiko banjir yang telah di tetapkan\nsebagaimana dimaksud dalam Pasal 43 ayat (3)."
+   }
+  },
+  {
+   "id": "ID-H2123-A45",
+   "no": 45,
+   "noLabel": {
+    "id": "Pasal 45"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 45\n\n(1)  Persiapan menghadapi banjir sebagaimana dimaks ud\ndalam Pasal 41 ayat (2) huruf d dilakukan melalui\nkegiatan:\n\na.  penyediaan dan pengujian sistem prakiraan banjir\nserta peringatan dini;\nb.  pemetaan kawasan beresiko banjir;\nc.  inspeksi berkala kondisi prasarana pengendali\nbanjir;\n  d. peningkatan . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nd.  peningkatan kesadaran masyarakat;\ne.  penyediaan dan sosialisasi jalur evakuasi dan\ntempat pengungsian; dan\nf.  penyusunan dan penetapan prosedur operasi\nlapangan penanggulangan banjir.\n\n(2)  Kegiatan sebagaimana dimaksud pada ayat (1)\ndilakukan oleh Menteri, gubernur, bupati dan/atau\nwalikota sesuai kewenangannya."
+   }
+  },
+  {
+   "id": "ID-H2123-A46",
+   "no": 46,
+   "noLabel": {
+    "id": "Pasal 46"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 46\n\nPenanggulangan banjir sebagaimana dimaksud dalam Pa sal\n41 ayat (2) huruf e dikoordinasikan oleh badan\npenanggulangan bencana nasional, provinsi, atau\nkabupaten/kota sesuai dengan ketentuan peraturan\nperundang-undangan."
+   }
+  },
+  {
+   "id": "ID-H2123-A47",
+   "no": 47,
+   "noLabel": {
+    "id": "Pasal 47"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  47\n\n(1)  Pemulihan setelah banjir sebagaimana dimaksud dalam\nPasal 41 ayat (2) huruf f dilakukan oleh Pemerintah ,\npemerintah provinsi, dan/atau pemerintah\nkabupaten/kota sesuai dengan kewenangannya melalui\nkegiatan rehabilitasi dan rekonstruksi.\n\n(2)  Kegiatan rehabilitasi dan rekonstruksi sebagaimana\ndimaksud pada ayat (1) dilakukan untuk memulihkan\nkondisi lingkungan, fasillitas umum, fasilitas sosi al,\nserta prasarana sungai."
+   }
+  },
+  {
+   "id": "ID-H2123-A48",
+   "no": 48,
+   "noLabel": {
+    "id": "Pasal 48"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 48\n\nKetentuan lebih lanjut mengenai pedoman pengelolaan\ndataran banjir diatur dengan peraturan Menteri.\n\n\nBagian Kelima\nPenyusunan Program dan Kegiatan"
+   }
+  },
+  {
+   "id": "ID-H2123-A49",
+   "no": 49,
+   "noLabel": {
+    "id": "Pasal 49"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 49\n\nPenyusunan program dan kegiatan sebagaimana dimaksu d\ndalam Pasal 18 ayat (2) huruf a meliputi program ko nservasi\nsungai, pengembangan sungai, dan pengendalian daya rusak\nair sungai.\nPasal 5 0 . . ."
+   }
+  },
+  {
+   "id": "ID-H2123-A50",
+   "no": 50,
+   "noLabel": {
+    "id": "Pasal 50"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 50\n\n(1)  Program konservasi sungai, pengembangan sungai, dan\npengendalian daya rusak air sungai sebagaimana\ndimaksud dalam Pasal 49 disusun berdasarkan rencana\npengelolaan sumber daya air pada wilayah sungai yan g\ntelah ditetapkan sesuai dengan ketentuan peraturan\nperundang-undangan di bidang pengelolaan sumber\ndaya air.\n\n(2)  Dalam hal rencana pengelolaan sumber daya air pada\nwilayah sungai sebagaimana dimaksud pada ayat (1)\nbelum ditetapkan, program konservasi sungai,\npengembangan sungai, dan pengendalian daya rusak\nair sungai disusun berdasarkan kebutuhan.\n\n(3)  Program sebagaimana dimaksud pada ayat (2) harus\ndisesuaikan dengan rencana pengelolaan sumber daya\nair pada wilayah sungai yang akan ditetapkan."
+   }
+  },
+  {
+   "id": "ID-H2123-A51",
+   "no": 51,
+   "noLabel": {
+    "id": "Pasal 51"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 51\n\n(1)  Program konservasi sungai, pengembangan sungai, dan\npengendalian daya rusak air sungai sebagaimana\ndimaksud dalam Pasal 50 ayat (1) disusun untuk\njangka waktu 5 (lima) tahun.\n\n(2)  Program konservasi sungai, pengembangan sungai, dan\npengendalian daya rusak air sungai sebagaimana\ndimaksud pada ayat (1) dijabarkan lebih lanjut dala m\nrencana kegiatan tahunan.\n\n(3)  Rencana kegiatan tahunan sebagaimana dimaksud\npada ayat (2) memuat rencana rinci pelaksanaan\nkegiatan serta pemantauan dan evaluasi kegiatan\nkonservasi sungai, pengembangan sungai, dan\npengendalian daya rusak air sungai."
+   }
+  },
+  {
+   "id": "ID-H2123-A52",
+   "no": 52,
+   "noLabel": {
+    "id": "Pasal 52"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 52\n\n(1)  Penyusunan program dan rencana kegiatan tahunan\nharus memperhitungkan:\na.  manfaat dan dampak jangka panjang;\nb. penggunaan . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nb.  penggunaan teknologi yang ramah lingkungan;\nc.  biaya  pengoperasian dan pemeliharaan  yang\nminimum; dan\nd.  ketahanan terhadap perubahan kondisi alam\nsetempat.\n\n(2)  Penyusunan program dan rencana kegiatan\nsebagaimana dimaksud pada ayat (1) dilakukan sesuai\ndengan ketentuan peraturan perundang-undangan.\n\n\nBagian Keenam\nPelaksanaan Kegiatan"
+   }
+  },
+  {
+   "id": "ID-H2123-A53",
+   "no": 53,
+   "noLabel": {
+    "id": "Pasal 53"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 53\n\nPelaksanaan kegiatan sebagaimana dimaksud dalam Pas al\n18 ayat (2) huruf b meliputi kegiatan:\na.  fisik dan nonfisik konservasi sungai, pengembangan\nsungai, dan pengendalian daya rusak air sungai; dan\nb.  operasi dan pemeliharaan prasarana sungai serta\npemeliharaan sungai."
+   }
+  },
+  {
+   "id": "ID-H2123-A54",
+   "no": 54,
+   "noLabel": {
+    "id": "Pasal 54"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 54\n\n(1)  Pelaksanaan kegiatan fisik dan nonfisik sebagaimana\ndimaksud dalam Pasal 53 huruf a dapat dilakukan ole h\nmasyarakat untuk kepentingan sendiri berdasarkan\nizin.\n\n(2)  Pemegang izin sebagaimana dimaksud pada ayat (1)\nbertanggung jawab atas operasi dan pemeliharaan\nkegiatan fisik.\n\n(3)  Dalam hal tertentu pelaksanaan kegiatan fisik dan\nnonfisik dapat dilakukan tanpa izin.\n\n(4)  Ketentuan lebih lanjut mengenai tata cara pemberian\nizin kepada masyarakat diatur dengan peraturan\nMenteri."
+   }
+  },
+  {
+   "id": "ID-H2123-A55",
+   "no": 55,
+   "noLabel": {
+    "id": "Pasal 55 "
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keenam"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 55  . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPasal 55\n\n(1)  Pelaksanaan kegiatan operasi dan pemeliharaan\nprasarana sungai sebagaimana dimaksud dalam Pasal\n53 huruf b dilakukan melalui kegiatan:\n\na.  pengaturan dan pengalokasian air sungai;\nb.  pemeliharaan untuk pencegahan kerusakan\ndan/atau penurunan fungsi prasarana sungai; dan\nc.  perbaikan terhadap kerusakan prasarana sungai.\n\n(2)  Pelaksanaan kegiatan pemeliharaan sungai\nsebagaimana dimaksud dalam Pasal 53 huruf b\ndilakukan melalui penyelenggaraan kegiatan konserva si\nsungai sebagaimana dimaksud dalam Pasal 20 sampai\ndengan Pasal 28, dan pengembangan sungai\nsebagaimana dimaksud dalam Pasal 29 sampai dengan\nPasal 33.\n\n(3)  Ketentuan lebih lanjut mengenai tata cara operasi d an\npemeliharaan prasarana sungai serta pemeliharaan\nsungai diatur dengan peraturan Menteri.\n\n\nBagian Ketujuh\nPemantauan dan Evaluasi"
+   }
+  },
+  {
+   "id": "ID-H2123-A56",
+   "no": 56,
+   "noLabel": {
+    "id": "Pasal 56"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 56\n\n(1)  Pemantauan dan evaluasi sebagaimana dimaksud\ndalam Pasal 18 ayat (2) huruf c dilakukan secara\nberkala dan sewaktu-waktu sesuai kebutuhan.\n\n(2)  Pemantauan dan evaluasi sebagaimana dimaksud pada\nayat (1) dilakukan melalui kegiatan pengamatan,\npencatatan, dan evaluasi hasil pemantauan.\n\n(3)  Hasil evaluasi pemantauan sebagaimana dimaksud\npada ayat (2) digunakan sebagai masukan dalam\npeningkatan kinerja dan/atau peninjauan ulang\nrencana pengelolaan sungai.\n\n\nBAB IV . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBAB IV\n\nPERIZINAN"
+   }
+  },
+  {
+   "id": "ID-H2123-A57",
+   "no": 57,
+   "noLabel": {
+    "id": "Pasal 57"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 57\n\n(1)  Setiap orang yang akan melakukan kegiatan pada ruang\nsungai wajib memperoleh izin.\n\n(2)  Kegiatan sebagaimana dimaksud pada ayat (1) meliputi:\na.  pelaksanaan konstruksi pada ruang sungai;\nb.  pelaksanaan konstruksi yang mengubah aliran\ndan/atau alur sungai;\nc.  pemanfaatan bantaran dan sempadan sungai;\nd.  pemanfaatan bekas sungai;\ne.  pemanfaatan air sungai selain untuk kebutuhan\npokok sehari-hari dan pertanian rakyat dalam\nsistem irigasi yang sudah ada;\nf.  pemanfaatan sungai sebagai penyedia tenaga air;\ng.  pemanfaatan sungai sebagai prasarana\ntransportasi;\nh.  pemanfaatan sungai di kawasan hutan;\ni.  pembuangan air limbah ke sungai;\nj.  pengambilan komoditas tambang di sungai; dan\nk.  pemanfaatan sungai untuk perikanan\nmenggunakan karamba atau jaring apung."
+   }
+  },
+  {
+   "id": "ID-H2123-A58",
+   "no": 58,
+   "noLabel": {
+    "id": "Pasal 58"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 58\n\n(1)  Izin sebagaimana dimaksud dalam Pasal 57 ayat (2)\nhuruf a sampai dengan huruf f diberikan oleh Menter i,\ngubernur, atau bupati/walikota sesuai dengan\nkewenangannya.\n\n(2)  Izin sebagaimana dimaksud dalam Pasal 57 ayat (2)\nhuruf g diberikan oleh instansi yang menyelenggarak an\nurusan pemerintahan di bidang transportasi sesuai\ndengan ketentuan peraturan perundang-undangan,\nsetelah mendapat rekomendasi teknis dari pengelola\nsumber daya air.\n\n(3) Izin . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(3)  Izin sebagaimana dimaksud dalam Pasal 57 ayat (2)\nhuruf h diberikan oleh Menteri, gubernur, atau\nbupati/walikota sesuai kewenangannya dalam bentuk\nIzin Usaha Pemanfaatan Jasa Lingkungan pemanfaatan\naliran air dan pemanfataan air setelah mendapat\nrekomendasi teknis dari instansi yang\nmenyelenggarakan urusan pemerintahan di bidang\nkehutanan kecuali untuk kawasan hutan yang\npengelolaannya telah dilimpahkan kepada badan usaha\nmilik negara di bidang kehutanan.\n(4)  Izin sebagaimana dimaksud dalam Pasal 57 ayat (2)\nhuruf i dan huruf j diberikan oleh bupati/walikota\nsesuai dengan ketentuan peraturan perundang-\nundangan, setelah mendapat rekomendasi teknis dari\npengelola sumber daya air.\n(5)  Izin sebagaimana dimaksud dalam Pasal 57 ayat (2)\nhuruf k diberikan oleh instansi yang menyelenggarak an\nurusan pemerintahan di bidang perikanan sesuai\ndengan ketentuan peraturan perundang-undangan,\nsetelah mendapat rekomendasi teknis dari pengelola\nsumber daya air."
+   }
+  },
+  {
+   "id": "ID-H2123-A59",
+   "no": 59,
+   "noLabel": {
+    "id": "Pasal 59"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 59\n\nPemegang izin kegiatan pada ruang sungai sebagaiman a\ndimaksud dalam Pasal 57 wajib:\na.  melindungi dan memelihara kelangsungan fungsi sungai;\nb.  melindungi dan mengamankan prasarana sungai;\nc.  mencegah terjadinya pencemaran air sungai;\nd.  menanggulangi dan memulihkan fungsi sungai dari\npencemaran air sungai;\ne.  mencegah gejolak sosial yang timbul berkaitan denga n\nkegiatan pada ruang sungai; dan\nf.  memberikan akses terhadap pelaksanaan pemantauan,\nevaluasi, pengawasan, dan pemeriksaan."
+   }
+  },
+  {
+   "id": "ID-H2123-A60",
+   "no": 60,
+   "noLabel": {
+    "id": "Pasal 60"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 60\n\n(1)  Setiap pemegang izin yang tidak melaksanakan\nkewajiban sebagaimana dimaksud dalam Pasal 59\ndikenai sanksi administratif oleh pemberi izin sesu ai\ndengan ketentuan perundang-undangan.\n(2) Selain . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(2)  Selain dikenai sanksi administratif sebagaimana\ndimaksud pada ayat (1), apabila pelaksanaan kegiata n\npada ruang sungai yang dilakukan oleh pemegang izin\nmenimbulkan:\na.  kerusakan pada ruang sungai dan/atau lingkungan\nsekitarnya, wajib melakukan pemulihan dan/atau\nperbaikan atas kerusakan yang ditimbulkannya;\ndan/atau\nb.  kerugian pada masyarakat, wajib mengganti biaya\nkerugian yang dialami masyarakat.\n\n\nBAB V\nSISTEM INFORMASI SUNGAI"
+   }
+  },
+  {
+   "id": "ID-H2123-A61",
+   "no": 61,
+   "noLabel": {
+    "id": "Pasal 61"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 61\n\n(1)  Pemerintah, pemerintah provinsi, atau pemerintah\nkabupaten/kota sesuai kewenangannya\nmenyelenggarakan sistem informasi sungai.\n(2)  Sistem informasi sungai sebagaimana dimaksud pada\nayat (1) merupakan bagian dari sistem informasi\nsumber daya air.\n(3)  Sistem informasi sungai sebagaimana dimaksud pada\nayat (1) harus diperbarui sesuai kebutuhan.\n(4)  Sistem informasi sungai bersifat terbuka dan dapat\ndiakses oleh setiap orang."
+   }
+  },
+  {
+   "id": "ID-H2123-A62",
+   "no": 62,
+   "noLabel": {
+    "id": "Pasal 62"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 62\n\nPenyelenggaraan sistem informasi sungai sebagaimana\ndimaksud dalam Pasal 61 ayat (1) dilaksanakan oleh unit\npelaksana teknis yang membidangi pengelolaan sumber  daya\nair."
+   }
+  },
+  {
+   "id": "ID-H2123-A63",
+   "no": 63,
+   "noLabel": {
+    "id": "Pasal 63"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 63\n\n(1)  Masyarakat dapat menyelenggarakan sistem informasi\nyang terkait dengan sungai untuk kepentingan sendiri.\n\n(2) Informasi . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(2)  Informasi yang dihasilkan dari sistem informasi\nsebagaimana dimaksud pada ayat (1) wajib disampaikan\nkepada dan/atau dapat diakses oleh Pemerintah,\npemerintah provinsi, atau pemerintah kabupaten/kota\nsesuai kewenangannya."
+   }
+  },
+  {
+   "id": "ID-H2123-A64",
+   "no": 64,
+   "noLabel": {
+    "id": "Pasal 64"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 64\n\nSistem informasi sungai meliputi:\na.  data variabel dan parameter sungai;\nb.  operasi peralatan; dan\nc.  pelaksana sistem informasi."
+   }
+  },
+  {
+   "id": "ID-H2123-A65",
+   "no": 65,
+   "noLabel": {
+    "id": "Pasal 65"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 65\n\n(1)  Data variabel sungai sebagaimana dimaksud dalam\nPasal 64 huruf a merupakan informasi mengenai data\nketersediaan air dan kejadian banjir.\n\n(2)  Data ketersediaan air dan kejadian banjir sebagaima na\ndimaksud pada ayat (1) paling sedikit meliputi data:\na.  curah hujan;\nb.  elevasi muka air sungai;\nc.  kandungan sedimen air sungai;\nd.  pengambilan air;\ne.  data fisik banjir; dan\nf.  penyebab, jenis, dan jumlah kerugian akibat banjir.\n\n(3)  Data mengenai ketersediaan air dan kejadian banjir\nsebagaimana dimaksud pada ayat (2) diinventarisasi\noleh instansi yang membidangi sumber daya air."
+   }
+  },
+  {
+   "id": "ID-H2123-A66",
+   "no": 66,
+   "noLabel": {
+    "id": "Pasal 66"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 66\n\n(1) Sistem informasi mengenai parameter sungai\nsebagaimana dimaksud dalam Pasal 64 huruf a meliputi\ndata fisik sungai dan data fisik daerah aliran sung ai\nserta data sosial ekonomi masyarakat di daerah alir an\nsungai.\n(2) Data . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(2) Data sebagaimana dimaksud pada ayat (1) paling\nsedikit mengenai:\n\na.  topografi alur sungai;\nb.  prasarana sungai;\nc.  kondisi fisik daerah aliran sungai;\nd.  hidrometeorologi\ne.  hidrogeologi;\nf.  kondisi penutup lahan;\ng.  rencana tata ruang;\nh.  kelembagaan yang terkait dengan sungai;\ni.  kependudukan;\nj.  mata pencaharian penduduk; dan\nk.  kearifan lokal.\n\n(3)  Data sebagaimana dimaksud pada ayat (2) diperoleh\ndari instansi yang mengelola data sesuai dengan\nketentuan peraturan perundang-undangan."
+   }
+  },
+  {
+   "id": "ID-H2123-A67",
+   "no": 67,
+   "noLabel": {
+    "id": "Pasal 67"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  67\n\n(1)  Operasi peralatan sistem informasi sungai sebagaima na\ndimaksud dalam Pasal 64 huruf b diperlukan untuk\npenyelenggaraan kegiatan pengumpulan data,\npengolahan data, dan pengiriman data.\n\n(2)  Peralatan sistem informasi sungai terdiri atas pera ngkat\nkeras dan perangkat lunak.\n\n(3)  Perangkat keras dan perangkat lunak sebagaimana\ndimaksud pada ayat (2) harus memenuhi kriteria\nmudah dioperasikan, akurat, dan tidak mudah rusak.\n\n(4)  Pengadaan peralatan sistem informasi sungai harus\nmengutamakan produksi dalam negeri."
+   }
+  },
+  {
+   "id": "ID-H2123-A68",
+   "no": 68,
+   "noLabel": {
+    "id": "Pasal 68"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 68\n\n(1)  Pelaksana sistem informasi sungai sebagaimana\ndimaksud dalam Pasal 64 huruf c harus dilakukan ole h\nsumber daya manusia yang memiliki keahlian di bidan g\nsistem informasi sungai.\n(2) Keahlian . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(2)  Keahlian di bidang sistem informasi sungai\nsebagaimana dimaksud pada ayat (1) terdiri atas\nkeahlian pengumpulan data sungai, pengolahan data\nsungai, dan pengiriman data sungai.\n\n(3)  Pemerintah, pemerintah provinsi, dan pemerintah\nkabupaten/kota sesuai kewenangannya\nmenyelenggarakan pendidikan dan pelatihan untuk\nmeningkatkan kemampuan sumber daya manusia yang\nditugaskan menangani sistem informasi sungai.\n\n\nBAB VI\nPEMBERDAYAAN MASYARAKAT"
+   }
+  },
+  {
+   "id": "ID-H2123-A69",
+   "no": 69,
+   "noLabel": {
+    "id": "Pasal 69"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 69\n\n(1)  Pemerintah, pemerintah provinsi, dan pemerintah\nkabupaten/kota sesuai kewenangannya melakukan\npemberdayaan masyarakat secara terencana dan\nsistematis dalam pengelolaan sungai.\n\n(2)  Pemberdayaan masyarakat sebagaimana dimaksud\npada ayat (1) meliputi kegiatan:\na. sosialisasi;\nb. konsultasi publik; dan\nc. partisipasi masyarakat.\n\n(3)  Sosialisasi, konsultasi publik, dan partisipasi\nmasyarakat sebagaimana dimaksud pada ayat (2)\ndilakukan dalam kegiatan konservasi sungai,\npengembangan sungai, dan pengendalian daya rusak\nair sungai.\n\n(4)  Dalam melakukan pemberdayaan masyarakat,\nPemerintah, pemerintah provinsi, dan pemerintah\nkabupaten/kota sesuai kewenangannya harus\nmenyediakan pusat informasi."
+   }
+  },
+  {
+   "id": "ID-H2123-A70",
+   "no": 70,
+   "noLabel": {
+    "id": "Pasal 70 "
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 70 . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPasal 70\n\n(1)  Kegiatan sosialisasi sebagaimana dimaksud dalam Pasal\n69 ayat (2) huruf a ditujukan untuk menumbuhkan\nkepedulian masyarakat terhadap masalah yang terkait\ndengan perlindungan sungai, pencegahan pencemaran\nair sungai, serta pengurangan resiko kerentanan banjir.\n\n(2)  Kegiatan sosialisasi dilakukan melalui pengenalan\nlingkungan sungai, kunjungan lapangan, identifikasi\nmasalah, pendampingan, dan pelatihan."
+   }
+  },
+  {
+   "id": "ID-H2123-A71",
+   "no": 71,
+   "noLabel": {
+    "id": "Pasal 71"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 71\n\n(1) Kegiatan konsultasi publik sebagaimana dimaksud\ndalam Pasal 69 ayat (2) huruf b ditujukan untuk\nmemperoleh masukan dalam rangka meningkatkan\nefektifitas kegiatan pengelolaan sungai.\n\n(2) Kegiatan konsultasi publik dilakukan melalui su rvei\npendapat umum, diskusi, dengar pendapat, dan\nlokakarya mengenai pengelolaan sungai."
+   }
+  },
+  {
+   "id": "ID-H2123-A72",
+   "no": 72,
+   "noLabel": {
+    "id": "Pasal 72"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 72\n\n(1)  Kegiatan partisipasi masyarakat sebagaimana dimaksud\ndalam Pasal 69 ayat (2) huruf c ditujukan untuk\nmeningkatkan kinerja pengelolaan sungai.\n(2)  Kegiatan partisipasi masyarakat dilakukan melalui\npembentukan kelompok kerja dan kerja sama\npengelolaan sungai."
+   }
+  },
+  {
+   "id": "ID-H2123-A73",
+   "no": 73,
+   "noLabel": {
+    "id": "Pasal 73"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 73\n\nKetentuan lebih lanjut mengenai pemberdayaan masyar akat\ndalam pengelolaan sungai diatur dengan peraturan Menteri."
+   }
+  },
+  {
+   "id": "ID-H2123-A74",
+   "no": 74,
+   "noLabel": {
+    "id": "Pasal 74"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 74\nDalam rangka memberikan motivasi kepada masyarakat agar\npeduli terhadap sungai, tanggal ditetapkannya Perat uran\nPemerintah ini ditetapkan sebagai Hari Sungai Nasional.\nBAB VII . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBAB VII\nKETENTUAN LAIN-LAIN"
+   }
+  },
+  {
+   "id": "ID-H2123-A75",
+   "no": 75,
+   "noLabel": {
+    "id": "Pasal 75"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 75\n\n(1)  Bekas sungai dikuasai negara.\n(2)  Lokasi bekas sungai dapat digunakan untuk\nmembangun prasarana sumber daya air, sebagai lahan\npengganti bagi pemilik tanah yang tanahnya terkena\nalur sungai baru, kawasan budidaya dan/atau kawasan\nlindung sesuai dengan ketentuan peraturan perundang -\nundangan.\n(3)  Dalam hal sungai sebagaimana dimaksud pada ayat (2)\ntercatat sebagai barang milik negara/daerah,\npenggunaan bekas sungai dilakukan sesuai dengan\nketentuan peraturan perundang-undangan di bidang\npengelolaan barang milik negara/daerah.\n(4)  Ketentuan lebih lanjut mengenai pengaturan bekas\nsungai sebagaimana dimaksud pada ayat (1) diatur\ndengan peraturan Menteri."
+   }
+  },
+  {
+   "id": "ID-H2123-A76",
+   "no": 76,
+   "noLabel": {
+    "id": "Pasal 76"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 76\n\n(1)  Dalam hal terjadi pengalihan alur pada sungai sehin gga\nterbentuk alur sungai baru yang pelaksanaannya\ndibiayai Anggaran Pendapatan dan Belanja Negara\ndan/atau perolehan lainnya sesuai dengan ketentuan\nperaturan perundang-undangan, maka alur sungai\nbaru dicatat sebagai barang milik negara sesuai den gan\nketentuan peraturan perundang-undangan.\n(2)  Dalam hal terjadi pengalihan alur pada sungai sehin gga\nterbentuk alur sungai baru yang pelaksanaannya\ndibiayai Anggaran Pendapatan dan Belanja Daerah\ndan/atau perolehan lainnya sesuai dengan ketentuan\nperaturan perundang-undangan, maka alur sungai\nbaru dicatat sebagai barang milik daerah sesuai den gan\nketentuan peraturan perundang-undangan."
+   }
+  },
+  {
+   "id": "ID-H2123-A77",
+   "no": 77,
+   "noLabel": {
+    "id": "Pasal 77 "
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 77 . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPasal 77\n\n(1)  Sungai dan/atau anak sungai yang seluruh daerah\ntangkapan airnya terletak dalam satu wilayah\nperkotaan, dapat berfungsi sebagai drainase perkotaan.\n(2)  Sungai dan/atau anak sungai yang berfungsi sebagai\ndrainase perkotaan, pengelolaannya diselenggarakan\noleh pemerintah kabupaten/kota dengan pembinaan\nteknis dari Menteri.\n(3)  Penentuan sungai dan/atau anak sungai yang berfungsi\nsebagai drainase perkotaan dilakukan berdasarkan\nkesepakatan antara pemerintah kabupaten/kota\ndengan Menteri atau gubernur sesuai kewenangannya."
+   }
+  },
+  {
+   "id": "ID-H2123-A78",
+   "no": 78,
+   "noLabel": {
+    "id": "Pasal 78"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 78\nPengelolaan sungai yang dilakukan oleh Menteri\nsebagaimana dimaksud dalam Pasal 19 ayat (1) huruf a\ndapat dilimpahkan sebagian pengelolaannya kepada\ngubernur dan/atau bupati/walikota berdasarkan asas\ndekonsentrasi atau tugas pembantuan sesuai dengan\nketentuan peraturan perundang-undangan."
+   }
+  },
+  {
+   "id": "ID-H2123-A79",
+   "no": 79,
+   "noLabel": {
+    "id": "Pasal 79"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 79\nPengelolaan sungai dapat dilakukan melalui kerja sa ma\nantara Pemerintah, pemerintah provinsi, dan/atau\npemerintah kabupaten/kota sesuai dengan ketentuan\nperaturan perundang-undangan.\n\nBAB VIII\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H2123-A80",
+   "no": 80,
+   "noLabel": {
+    "id": "Pasal 80"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 80\n\nDalam waktu paling lama 5 (lima) tahun terhitung se jak\nPeraturan Pemerintah ini berlaku, Menteri, gubernur ,\nbupati/walikota wajib menetapkan garis sempadan pad a\nsemua sungai yang berada dalam kewenangannya."
+   }
+  },
+  {
+   "id": "ID-H2123-A81",
+   "no": 81,
+   "noLabel": {
+    "id": "Pasal 81 "
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 81 . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPasal 81\n\n(1)  Pada saat Peraturan Pemerintah ini mulai berlaku,\nsetiap izin pemanfaatan sungai tetap berlaku sampai\ndengan berakhirnya izin.\n(2)  Permohonan izin pemanfaatan sungai yang sedang\ndalam proses wajib disesuaikan dengan ketentuan\ndalam Peraturan Pemerintah ini."
+   }
+  },
+  {
+   "id": "ID-H2123-A82",
+   "no": 82,
+   "noLabel": {
+    "id": "Pasal 82"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 82\n\nPada saat Peraturan Pemerintah ini mulai berlaku, s emua\nperaturan pelaksanaan dari Peraturan Pemerintah Nom or 35\nTahun 1991 tentang Sungai dinyatakan tetap berlaku\nsepanjang tidak bertentangan dengan Peraturan Pemer intah\nini."
+   }
+  },
+  {
+   "id": "ID-H2123-A83",
+   "no": 83,
+   "noLabel": {
+    "id": "Pasal 83"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 83\n\nPada saat Peraturan Pemerintah ini mulai berlaku, Peraturan\nPemerintah Nomor 35 Tahun 1991 tentang Sungai\n(Lembaran Negara Republik Indonesia Tahun 1991 Nomo r\n44, Tambahan Lembaran Negara Republik Indonesia Nom or\n3445) dicabut dan dinyatakan tidak berlaku."
+   }
+  },
+  {
+   "id": "ID-H2123-A84",
+   "no": 84,
+   "noLabel": {
+    "id": "Pasal 84"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 84\n\nPeraturan pemerintah ini mulai berlaku pada tanggal\ndiundangkan.\n\n\n\n\n\n\n\n\n\n\n\n\nAgar . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAgar setiap orang mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan\npenempatannya dalam Lembaran Negara Republik Indonesia.\n\n\nDitetapkan di  Jakarta\npada tanggal 27 Juli 2011\n\nPRESIDEN REPUBLIK INDONESIA,\n\nttd.\n\n         DR. H. SUSILO BAMBANG YUDHOYONO\n\n\nDiundangkan di Jakarta\npada tanggal 27 Juli 2011\n\nMENTERI HUKUM DAN HAK ASASI MANUSIA\n                 REPUBLIK INDONESIA,\n\nttd.\n\n                    PATRIALIS  AKBAR\n\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2011 NOMOR  74\n\n     Salinan sesuai dengan aslinya\n      KEMENTERIAN SEKRETARIAT NEGARA RI\n          Asisten Deputi Perundang-undangan\n                     Bidang Perekonomian,\n\n\n\n\n\n                       Setio Sapto Nugroho\nPENJELASAN\nATAS\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nNOMOR 38 TAHUN 2011\nTENTANG\nSUNGAI\n\nI. UMUM\n\nNegara Republik Indonesia dikaruniai Tuhan Yang Mah a Esa sumber\ndaya air yang melimpah antara lain ditandai dari ju mlah sungai yang\nsangat banyak.\n\nMengingat distribusi hujan berpola musiman dan kond isi geologi yang\nberbeda-beda menjadikan aliran sungai di Indonesia sangat bervariasi.\nSelain itu, karena kondisi geologi yang relatif mud a dan iklim tropis\ndengan matahari bersinar sepanjang tahun, mengakiba tkan tingkat\npelapukan terhadap batuan sangat tinggi, demikian p ula aktifitas erosi\ndan sedimentasi di sungai. Selanjutnya karena topog rafinya yang\nberbentuk kepulauan dengan pegunungan di bagian ten gahnya,\nsungai di Indonesia umumnya pendek dengan kemiringa n yang curam\nkecuali beberapa sungai di Kalimantan dan Papua. Ko ndisi tersebut\nmenjadikan sungai di Indonesia sangat spesifik dan rentan terhadap\nberbagai masalah.\n\nDi sisi lain jumlah penduduk Indonesia yang tumbuh dengan pesat\ndan kecenderungan lahan di sekitar sungai yang dima nfaatkan untuk\nkegiatan manusia, telah mengakibatkan penurunan fun gsi, yang\nditandai dengan adanya penyempitan, pendangkalan, d an pencemaran\nsungai.\n\nUntuk kepentingan masa depan kecenderungan tersebut  perlu\ndikendalikan agar dapat dicapai keadaan yang harmon is dan\nberkelanjutan antara fungsi sungai dan kehidupan manusia.\n\nSelain bersifat spesifik, sungai juga bersifat dina mis karena\ndipengaruhi oleh perubahan debit air dan karakter s ungai setempat.\nDebit air sungai selalu berubah dipengaruhi curah h ujan, kondisi\nlahan, dan perubahan yang terjadi di alur sungai. K arakter setiap\nsungai ditentukan oleh kondisi geohidrobiologi wila yah dan sosial\nbudaya masyarakat setempat.\n\n\n Melihat . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMelihat kecenderungan di atas, ruang sungai perlu d ilindungi agar\ntidak digunakan untuk kepentingan peruntukan lain. Sungai sebagai\nsumber air, perlu dilindungi agar tidak tercemar. P enyebab\npencemaran air sungai yang utama adalah air limbah dan sampah.\nKecenderungan perilaku masyarakat memanfaatkan sung ai sebagai\ntempat buangan air limbah dan sampah harus dihentik an. Hal ini\nmengingat air sungai yang tercemar akan menimbulkan  kerugian\ndengan pengaruh ikutan yang panjang. Salah satunya yang terpenting\nadalah mati atau hilangnya kehidupan flora dan faun a di sungai yang\ndapat mengancam keseimbangan ekosistem.\n\n Pemberian sempadan yang cukup terhadap sungai dan pencegahan\npencemaran sungai merupakan upaya utama untuk perli ndungan dan\npelestarian fungsi sungai.\n\nSejarah telah mencatat bahwa sungai adalah tempat b erawalnya\nperadaban manusia. Sejak dahulu sungai telah dimanf aatkan untuk\nberbagai kepentingan manusia, misalnya pemanfaatan sungai untuk\nmemenuhi kebutuhan rumah tangga, sanitasi lingkunga n, pertanian,\nindustri,  pariwisata, olahraga, pertahanan, perika nan,  pembangkit\ntenaga listrik, dan transportasi. Demikian pula fun gsinya bagi alam\nsebagai pendukung utama kehidupan flora dan fauna s angat\nmenentukan. Kondisi ini perlu dijaga jangan sampai menurun. Oleh\nkarena itu, sungai perlu dipelihara agar dapat berf ungsi secara baik\ndan berkelanjutan.\nKekurangpahaman manusia terhadap hubungan timbal ba lik antara\nair dan lahan ditandai dengan pemanfaatan lahan dat aran banjir yang\ntanpa pengaturan dan antisipasi terhadap resiko ban jir, telah\nmengakibatkan kerugian yang timbul akibat daya rusa k air. Secara\nalami dataran banjir merupakan ruang untuk air sung ai pada saat\nbanjir.\n\nPerubahan penutup lahan dari penutup alami menjadi atap bangunan\ndan lapisan kedap air yang tanpa upaya antisipasi t elah\nmengakibatkan semakin berkurangnya infiltrasi air h ujan ke dalam\ntanah sehingga mengakibatkan membesarnya aliran air  di permukaan\ntanah yang menimbulkan banjir.\n\nDua kondisi di atas, yang jika ditambah dengan menurunnya kapasitas\npalung sungai karena pendangkalan dan/atau penyempi tan oleh\nsedimentasi, sampah dan gangguan aliran lain akibat  aktivitas\nmanusia di dekat sungai khususnya di wilayah perkot aan akan\nmengakibatkan kerugian banjir yang lebih besar. Upa ya pengendalian\nbanjir yang telah dilakukan selama ini seolah-olah menjadi kurang\nberarti dibanding dengan peningkatan kerugian banji r yang terus\nmembesar karena ketiga kondisi di atas.\nUntuk . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Untuk mengatasi kecenderungan meningkatnya kerugia n akibat banjir\npihak yang terkait dengan kondisi di atas perlu dii dentifikasi dan\nkemudian saling bekerja sama untuk melakukan peruba han cara\npengendalian banjir. Upaya pengendalian banjir haru s menggunakan\npendekatan manajemen resiko dalam rangka pengelolaa n banjir\nterpadu.\nPengelolaan banjir terpadu mempunyai ciri utama iku t sertanya\nseluruh unsur di dalam daerah aliran sungai. Banjir  merupakan\nproduk daerah aliran sungai, oleh karenanya setiap kegiatan di daerah\naliran sungai sesuai lokasi dan potensinya harus ik ut berperan\nmengurangi dan memperlambat aliran air dengan cara mempermudah\ninfiltrasi air hujan meresap ke dalam tanah dan mem perbanyak\ntampungan. Pengendalian banjir tidak lagi bertumpu hanya kepada\nupaya di sungai dengan kegiatan secara fisik melain kan juga pada\nkegiatan non fisik yaitu pengelolaan resiko seluruh  kegiatan di daerah\naliran sungai yang bersangkutan.\nUpaya pengendalian banjir secara fisik adalah kegia tan pengendalian\nbanjir yang bertumpu pada pembangunan prasarana fis ik seperti:\nbendungan, tanggul, peningkatan kapasitas alur atau pun pengalihan\ndebit banjir. Upaya secara fisik pada prinsipnya ha nya mengurangi\nfrekuensi kejadian banjir sesuai debit banjir renca na. Upaya ini\nmemiliki keterbatasan yaitu selalu ada kemungkinan debit rencana\ntersebut terlampaui. Pengertian ini jika tidak dipa hami secara benar\njuga mempunyai sifat menjebak dan menjerumuskan mas yarakat\ndengan memberi perasaan aman yang sebenarnya semu. Ketika terjadi\nbanjir melebihi debit rencana dan kawasan yang dili ndungi telah\nberkembang pesat, karena merasa aman dari bahaya ba njir, maka\nkerugian yang timbul jauh lebih besar daripada sebe lum ada upaya\npengendalian secara fisik. Upaya secara fisik penti ng dan perlu tapi\ntidak cukup untuk menyelesaikan masalah banjir kare na upaya secara\nfisik memiliki keterbatasan.\n\n\nUpaya secara fisik perlu dilengkapi dengan upaya no n fisik. Upaya non\nfisik adalah upaya mengantisipasi kejadian banjir d an menangani\nkorban.\n\n\nUntuk keperluan kegiatan pengelolaan sungai diperlu kan dukungan\ndata dan informasi yang cukup. Masing-masing kegiat an memerlukan\njenis dan ketelitian data yang berbeda. Data dan in formasi tentang\nsumber daya air dikelola tersebar di beberapa insta nsi, sehingga perlu\nada mekanisme akses dan konversi format data antara  instansi\ntersebut.\nDiantara . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDiantara data dan informasi tersebut yang secara kh usus perlu\nmendapat perhatian dalam rangka pengelolaan sungai adalah data\naliran sungai, curah hujan dan perubahan peruntukan  lahan. Data ini\npenting untuk menganalisis kecenderungan yang sedan g dan akan\nterjadi di daerah aliran sungai dan di alur sungai.  Jika terjadi\nkecenderungan ke arah negatif maka perlu dilakukan upaya\npengendalian ataupun merestorasi sungai.\nSungai berinteraksi dengan daerah aliran sungai mel alui dua\nhubungan yaitu secara geohidrobiologi dengan alam d an secara sosial\nbudaya dengan masyarakat setempat. Semakin disadari  bahwa\nkeberhasilan pengelolaan sungai sangat tergantung p ada partisipasi\nmasyarakat.\n\nMasyarakat sebagai pemanfaat sungai perlu diajak me ngenali\npermasalahan, keterbatasan, dan manfaat pengelolaan  sungai secara\nlengkap dan benar sehinggga dapat tumbuh kesadaran untuk ikut\nberpartisipasi mengelola sungai. Keterlibatan parti sipasi masyarakat\nyang paling nyata adalah gerakan peduli sungai deng an program\nperlindungan alur sungai dan pencegahan pencemaran sungai yang\ndilakukan oleh masyarakat.\n\nSungai sebagai wadah air mengalir selalu berada di posisi paling\nrendah dalam lanskap bumi, sehingga kondisi sungai tidak dapat\ndipisahkan dari kondisi daerah aliran sungai. Dalam  upaya\nmemperbaiki dan menjaga keberlanjutan fungsi sungai  banyak aspek\nyang terkait mencakup kegiatan yang amat luas di da erah aliran\nsungai. Lingkup peraturan pemerintah ini hanya meng atur substansi\nyang terkait dengan sungai dan danau paparan banjir yang merupakan\nbagian tak terpisahkan dari sungai.\n\n\nII. PASAL DEMI PASAL\n\n Pasal  1\n Cukup jelas.\n\n Pasal  2\n  Cukup jelas.\n\n Pasal  3\n  Ayat (1)\n   Cukup jelas.\n\nAyat (2) . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAyat (2)\nYang dimaksud dengan “fungsi sungai” adalah manfaat\nkeberadaan sungai bagi:\n\na.  Kehidupan manusia, berupa manfaat keberadaan sungai\nsebagai penyedia air dan wadah air untuk memenuhi\nkebutuhan rumah tangga, sanitasi lingkungan, pertan ian,\nindustri, pariwisata, olah raga, pertahanan, perika nan,\npembangkit tenaga listrik, transportasi, dan kebutu han\nlainnya;\nb.  Kehidupan alam, berupa manfaat keberadaan sungai\nsebagai pemulih kualitas air, penyalur banjir, dan\npembangkit utama ekosistem flora dan fauna.\n Fungsi sungai sebagai pemulih kualitas air perlu d ijaga\ndengan tidak membebani zat pencemar yang melebihi\nkemampuan pemulihan alami air sungai.\n Fungsi sungai sebagai penyalur banjir perlu dianti sipasi\nagar tidak menimbulkan kerugian bagi aktifitas masy arakat\ndi sekitar sungai.\n Fungsi sungai sebagai pembangkit utama ekosistem f lora\ndan fauna perlu dijaga agar tidak menurun. Ekosiste m flora\ndan fauna meliputi berbagai jenis tumbuh-tumbuhan t epian\nsungai dan berbagai jenis spesies binatang. Spesies binatang\ndi sungai meliputi antara lain: cacing ( invertebrata ), siput\n(mollusca ), kepiting ( crustacea ), katak ( amphibia ), kadal\n(reptilia ), serangga ( insect ), ikan ( fish ), dan burung ( avian ).\n\nPasal  4\n Cukup jelas.\n\nPasal  5\n Ayat (1)\n Cukup jelas.\n\nAyat (2)\n Cukup jelas.\n\nAyat (3)\n Cukup jelas.\n\nAyat (4) . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAyat (4)\n Cukup jelas.\n\nAyat (5)\n Sempadan sungai mempunyai beberapa fungsi penyangga\nantara ekosistem sungai dan daratan, antara lain:\na.  Karena dekat dengan air, kawasan ini sangat kaya de ngan\nkeaneka-ragaman hayati flora dan fauna. Keaneka-\nragaman hayati adalah asset lingkungan yang sangat\nberharga bagi kehidupan manusia dan alam.\nb.  Semak dan rerumputan yang tumbuh di sempadan sungai\nberfungsi sebagai filter yang sangat efektif terhad ap\npolutan seperti pupuk, obat anti hama, pathogen dan\nlogam berat sehingga kualitas air sungai terjaga da ri\npencemaran.\nc.  Tumbuh-tumbuhan juga dapat menahan erosi karena\nsistem perakarannya yang masuk ke dalam memperkuat\nstruktur tanah sehingga tidak mudah tererosi dan te rgerus\naliran air.\nd.  Rimbunnya dedaunan dan sisa tumbuh-tumbuhan yang\nmati menyediakan tempat berlindung, berteduh dan\nsumber makanan bagi berbagai jenis spesies binatang\nakuatik dan satwa liar lainnya.\ne.  Kawasan tepi sungai yang sempadannya tertata asri\nmenjadikan properti bernilai tinggi karena terjalin nya\nkehidupan yang harmonis antara manusia dan alam.\nLingkungan yang teduh dengan tumbuh-tumbuhan, ada\nburung berkicau di dekat air jernih yang mengalir\nmenciptakan rasa nyaman dan tenteram tersendiri.\nPasal  6\nAyat (1)\nCukup jelas.\n\nAyat (2)\nPenentuan palung sungai dapat dilakukan secara visu al di\nlapangan. Dalam hal sungai alluvial, palung sungai ditentukan\ndengan debit rencana antara debit 2 tahunan (Q 2) sampai\ndengan 5 tahunan (Q 5).\n\n\nPasal 7 . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPasal  7\nYang dimaksud dengan “tanggul” adalah bangunan pena han banjir\nyang terbuat dari timbunan tanah.\nBantaran sungai berfungsi sebagai ruang penyalur banjir.\n\nPasal  8\nCukup jelas.\n\nPasal  9\nYang dimaksud dengan “tepi kiri dan kanan palung su ngai” adalah\ntepi palung sungai yang ditentukan pada saat peneta pan garis\nsempadan.\nDalam hal sungai sangat landai, sehingga penentuan tepi palung\nsungai sulit dilakukan, penentuan tepi palung sunga i dilakukan\ndengan membuat perkiraan elevasi muka air pada debi t dominan\n(Q 2-Q5) dan elevasi muka air banjir yang pernah terjadi. Tepi palung\nsungai terletak di antara dua elevasi tersebut.\n\nPasal  10\nCukup jelas.\n\nPasal  11\nUntuk peningkatan fungsinya, tanggul dapat diperkua t, ditinggikan,\ndan diperlebar, yang dapat berakibat bergesernya le tak garis\nsempadan, sehingga penentuan garis sempadan perlu\nmemperhatikan kemungkinan perubahan dimensi tanggul  tersebut\ndengan mengambil jarak sempadan yang lebih lebar.\n\nPasal  12\nCukup jelas .\n\nPasal  13\nYang dimaksud dengan “sungai terpengaruh pasang air  laut” adalah\njika muka air pada saat pasang melebihi tepi palung sungai.\nContoh penentuan garis sempadan yang terpengaruh pa sang air\nlaut:\nGaris sempadan untuk sungai terpengaruh pasang air laut tidak\nbertanggul di luar kawasan perkotaan ditentukan mem anjang\nsungai paling sedikit berjarak 100 m (seratus meter ) dari tepi muka\nair pasang rata-rata. Demikian pula untuk kondisi sungai lainnya.\n\nSempadan . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSempadan sungai yang terpengaruh pasang air laut di tentukan\nhanya untuk bagian ruas sungai yang terpengaruh pas ang air laut\nsaja.\n\n Pasal  14\nSempadan danau paparan banjir juga disebut sebagai sabuk hijau\nyang mengelilingi danau paparan banjir. Danau ini b erbeda dengan\ndataran banjir, dalam hal keberadaan genangan. Dana u paparan\nbanjir di musim kemarau tetap berupa danau (ada gen angan) dan\nbertambah luas di musim penghujan. Sedangkan datara n banjir di\nmusim kemarau berupa daratan (tidak ada genangan), baru pada\nmusim penghujan dataran tersebut tergenang air luapan sungai.\n\nPasal  15\nCukup jelas.\n\nPasal  16\nAyat (1)\nCukup jelas.\n\nAyat (2)\nCukup jelas.\n\nAyat (3)\n Yang dimaksud dengan “karakteristik geomorfologi s ungai”\nadalah keseluruhan sifat geohidrologi daerah aliran  sungai\nyang membentuk ciri spesifik sungai tertentu, misalnya:\na.  fluktuasi aliran sungai;\nb.  perubahan kandungan sedimen di sungai; dan\nc. kecenderungan perubahan geometri sungai yang mel iputi:\nlebar dasar, tinggi tebing, kemiringan memanjang su ngai,\npembentukan kelokan ( meander ) dan jalinan ( braided )\nsungai.\n Beberapa sungai memiliki karakter yang spesifik mi salnya\nberkelok-kelok ( meandering ), berjalin ( braided ), membawa pasir,\ndan/atau aliran lahar. Sungai jenis ini, palung sun gainya\nberubah sangat dinamis. Penentuan garis sempadan un tuk\nsungai seperti ini perlu dilakukan secara lebih hat i-hati dan\nagar ditentukan lebih lebar mengikuti batas terluar  alur\ndinamisnya.\n  Yang . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Yang dimaksud dengan “kondisi sosial budaya masyar akat\nsetempat” adalah perilaku, adat kebiasaan, dan norm a-norma\nyang hidup dalam masyarakat setempat khususnya yang\nterkait dengan sungai.\n\n Yang dimaksud dengan “kegiatan operasi dan pemelih araan\nsungai” adalah kegiatan yang berkaitan dengan berfu ngsinya\nsungai dan beroperasinya bangunan sungai meliputi a ntara\nlain pengawasan, pemeliharaan, operasi, dan perbaikan.\n\nAyat (4)\nHasil kajian disampaikan kepada masyarakat sebagai\ninformasi, lengkap dengan rencana penetapan sempada n dan\njadwal pelaksanaannya.\n\nAyat (5)\nCukup jelas.\n\nAyat (6)\nCukup jelas.\n\nPasal  17\nAyat (1)\n  Yang dimaksud dengan “status quo ” adalah kondisi tidak boleh\nmengubah, menambah, ataupun memperbaiki bangunan.\n\n  Yang dimaksud dengan “bertahap” adalah sesuai pri oritas dan\nkemampuan serta dengan partisipasi masyarakat.\n\nAyat (2)\nCukup jelas.\n\nPasal  18\n Ayat (1)\n Cukup jelas.\n\nAyat (2)\nHuruf a\nCukup jelas.\n\nHuruf b . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHuruf b\nCukup jelas.\n\nHuruf c\nPemantauan dan evaluasi ditujukan untuk meningkatka n\nkinerja pengelolaan sungai.\n\nPasal  19\nCukup jelas.\n\nPasal  20\nAyat (1)\nYang dimaksud dengan “perlindungan sungai” adalah u paya\nuntuk menjaga dan mempertahankan fungsi sungai.\nYang dimaksud dengan “pencegahan pencemaran air sun gai”\nadalah upaya untuk menjaga dan melindungi kualitas air\nsungai.\n\nAyat (2)\nCukup jelas.\n\nAyat (3)\nCukup jelas.\n\nPasal  21\nAyat (1)\nPerlindungan palung sungai dimaksudkan agar dimensi  palung\nsungai tetap terjaga dari gangguan aliran dan kerus akan palung\nsungai.\n\nAyat (2)\n Yang dimaksud dengan “komoditas tambang” adalah ba han\ngalian di sungai berupa sedimen, pasir, kerikil, da n batu yang\ndapat terbawa aliran sungai. Bahan galian ini bersi fat dinamis,\ndatang dan pergi, bergerak ke hilir sesuai dengan k emampuan\nangkut aliran air.\n Untuk sungai alluvial, bahan galian dinamis ini ad alah bahan\npenyusun sungai itu sendiri yang berfungsi sebagai wadah air\nmengalir. Oleh karenanya pengambilannya perlu diatu r jangan\nsampai merusak palung sungai.\n\nMengingat . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Mengingat pengaruh negatifnya yang sangat luas dan merugikan,\nperizinan tentang pengambilan komoditas tambang di sungai\nperlu diatur secara cermat dan dipantau secara mene rus. Dalam\nperizinan perlu ditentukan secara jelas kapan kegia tan\npengambilan komoditas tambang di sungai tersebut ha rus\ndihentikan dan/atau diakhiri.\n\n\n  Ayat (3)\n   Yang dimaksud dengan “sungai yang mengalami kena ikan dasar\nsungai” adalah sungai atau ruas sungai yang membawa  sedimen\nmelebihi kapasitas angkutnya sehingga sebagian kele bihan\nsedimen akan diendapkan dan mengakibatkan kenaikan dasar\nsungai. Hal ini terjadi jika terdapat penambahan be ban sedimen\natau pengurangan debit air di bagian hulu ruas sung ai yang\nberlangsung lama dan menerus.\n\nPasal  22\nAyat (1)\nCukup jelas.\n\nAyat (2)\nCukup jelas.\n\nAyat (3)\nYang dimaksud dengan “keperluan tertentu” dalam pem anfaatan\nbantaran dan sempadan sungai meliputi:\na.  bangunan prasarana sumber daya air;\nb.  fasilitas jembatan dan dermaga;\nc.  jalur pipa gas dan air minum;\nd.  rentangan kabel listrik dan telekomunikasi; dan\ne.  kegiatan lain sepanjang tidak mengganggu fungsi sun gai,\nmisalnya tanaman sayur-mayur.\n\nPasal  23\nAyat (1)\nCukup jelas.\n\nAyat (2)\nYang dimaksud dengan “daerah tangkapan air” adalah kawasan\ndi hulu danau yang memasok air ke danau.\nPasal 24 . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPasal  24\nAyat (1)\n Yang dimaksud dengan “dataran banjir yang berpoten si\nmenampung banjir” adalah dataran banjir yang dicada ngkan\nsebagai tempat penampung air selama musim banjir un tuk\nmenghindari banjir yang lebih besar di bagian hilir.\n\nAyat (2)\n Yang dimaksud dengan “membebaskan dataran banjir d ari\nperuntukan yang mengganggu fungsi penampung banjir”  adalah\nmenghindari berkembangnya dataran banjir menjadi ka wasan\npengembangan yang mengakibatkan kerugian besar jika  terjadi\nbanjir.\n\nPasal  25\nAyat (1)\nYang dimaksud dengan “aliran pemeliharaan sungai” a dalah\naliran air minimum yang harus tersedia di sungai un tuk menjaga\nkehidupan ekosistem sungai.\n\nAyat (2)\nCukup jelas.\n\nAyat (3)\nYang dimaksud dengan debit andalan 95% (sembilan pu luh lima\npersen) adalah aliran air (m 3/detik) yang selalu tersedia dalam\n95% (sembilan puluh lima persen) waktu pengamatan, atau\nhanya paling banyak 5% (lima persen) kemungkinannya  aliran\ntersebut tidak tercapai.\n\nAyat (4)\nCukup jelas.\n\nPasal  26\nAyat (1)\nYang dimaksud dengan “kondisi sungai alami” adalah keadaan\nlingkungan sungai alami yang direncanakan sebagai kondisi yang\ningin dicapai.\n\n\nAyat (2) . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAyat (2)\nPrioritas utama restorasi sungai adalah mencegah ke rusakan\nberlanjut pada ruas sungai tertentu dan direncanaka n agar\nmenjadi ruas sungai yang sehat kembali. Sungai yang  sehat\ntercermin dari berkembangnya kehidupan berbagai jen is flora\ndan fauna di sungai tersebut.\n\nAyat (3)\nCukup jelas.\n\nPasal  27\nAyat (1)\nYang dimaksud dengan “air limbah” adalah adalah sis a dari\nsuatu hasil usaha dan/atau kegiatan yang berwujud cair.\n\n  Ayat (2)\n  Yang dimaksud dengan peraturan perundang-undangan  adalah\nperaturan perundang-undangan di bidang perlindungan  dan\npengelolaan lingkungan hidup dan peraturan perundan g-\nundangan di bidang pengelolaan sampah.\n\nPasal  28\nPeraturan Menteri mengenai tata cara perlindungan s ungai paling\nsedikit meliputi: pengaturan mengenai pengambilan k omoditas\ntambang di sungai, aliran pemeliharaan sungai, dan restorasi\nsungai.\n\nPasal  29\nCukup jelas.\n\nPasal  30\n  Ayat (1)\nCukup jelas.\n\nAyat (2)\nCukup jelas.\n\n\nAyat (3) . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAyat (3)\nYang dimaksud dengan “tidak merusak ekosistem sunga i” adalah\ntidak menimbulkan kerusakan terhadap komponen-kompo nen\nekosistem sungai, yaitu komponen abiotik (fisik, ki mia) dan\nkomponen biotik (tumbuh-tumbuhan, binatang, dan mik ro\norganisme).\n\nEkosistem sungai dapat berubah menuju ke kondisi le bih buruk\noleh aktivitas manusia misalnya tidak tersedia alir an\npemeliharaan sungai, sungai tercemar oleh air limba h dan\nsampah, serta terjadi pengambilan bahan komoditas t ambang\nyang tak terkendali.\nYang dimaksud dengan “karakteristik sungai” adalah\nkeseluruhan sifat geohidrobiologi daerah aliran sun gai yang\nmembentuk ciri spesifik sungai tertentu, misalnya:\na.  fluktuasi aliran;\nb.  parameter fisik alur sungai;\nc.  kandungan sedimen; dan\nd.  flora dan fauna pembentuk ekosistem sungai.\n\nYang dimaksud dengan “kelestarian keanekaragaman ha yati”\nadalah keberlanjutan fungsi ekosistem sungai melipu ti aneka\nkehidupan flora dan fauna sebagai pendukung utama k ehidupan\nmanusia dan alam dari generasi ke generasi.\n\nYang dimaksud dengan “kekhasan dan aspirasi daerah”  adalah\nciri kehidupan masyarakat baik yang teraktualisasi maupun yang\npotensial yang membentuk keinginan dan kebutuhan masyarakat\nsetempat terkait dengan keberadaan sungai.\n\nPasal  31\n  Ayat (1)\n   Cukup jelas.\n\nAyat (2)\n Huruf a\n Cukup jelas.\n\n\n\nHuruf b . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHuruf b\nYang dimaksud dengan “tergangggunya aliran dan/atau\nkeruntuhan tebing sungai” adalah terjadinya ganggua n\nberupa pengurangan/penyempitan penampang palung\nsungai dan/atau berupa berkurangnya kestabilan tebi ng\nsungai.\n\nPenyempitan palung sungai mengakibatkan kenaikan el evasi\nmuka air sungai yang dapat mengakibatkan banjir,\nsedangkan berkurangnya kestabilan tebing sungai\nmengakibatkan runtuhnya tebing yang mengancam\nbangunan atau kepentingan manusia yang ada di dekat\nsungai.\n\nPasal  32\n Cukup jelas.\n\nPasal  33\nCukup jelas.\n\nPasal  34\n Ayat (1)\nYang dimaksud dengan “pengelolaan resiko banjir” ad alah\nkegiatan antisipasi menghadapi resiko banjir yang d ilakukan\nsebelum kejadian banjir dengan langkah-langkah peng urangan\nresiko.\n\nAyat (2)\n Yang dimaksud dengan “pemilik kepentingan” adalah semua\nindividu perorangan, grup, perusahaan,  organisasi, asosiasi, dan\ninstansi pemerintah yang terkait dalam pengelolaan resiko\nbanjir.\n\nPasal  35\nAyat (1)\n Cukup jelas.\n\nAyat (2)\nYang dimaksud dengan “pengurangan resiko besaran ba njir”\nadalah upaya mengurangi resiko kerugian banjir deng an cara\nmemperkecil kemungkinan terjadinya banjir, yaitu de ngan\nmembangun prasarana fisik yang mampu mengalirkan de bit\nbanjir yang lebih besar dan mengurangi puncak aliran banjir.\nYang . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nYang dimaksud dengan “pengurangan resiko kerentanan  banjir”\nadalah upaya mengurangi kerugian banjir dengan cara\nmemperkecil jumlah kerugian jika terjadi banjir, ya itu dengan\npengelolaan dataran banjir dan perencanaan antisipa tif terhadap\nkorban banjir.\n\nAyat (3)\n Yang dimaksud dengan “peraturan perundang-undangan” adalah\nPeraturan Pemerintah mengenai Pengelolaan Sumber Daya Air.\n\nPasal  36\n  Ayat (1)\n   Huruf a\nYang dimaksud dengan “prasarana pengendali banjir”\nadalah prasarana fisik  yang berfungsi sebagai peny alur dan\npengatur air banjir. Konstruksi pengendali banjir p ada\nhakekatnya berfungsi mengurangi/memperkecil  tingka t\nkemungkinan kejadian ( probability of occurence ) banjir\nsesuai dengan tingkat layanan konstruksi tersebut. Misalnya\nsemula hanya mampu mengalirkan debit rencana 5 tahu nan\n(Q 5) ditingkatkan menjadi 20 tahunan (Q 20 ).\n\nHuruf b\nYang dimaksud dengan prasarana “pengendali aliran\npermukaan” adalah prasarana fisik yang berfungsi\nmengurangi terbentuknya dan terdistribusinya aliran\npermukaan dalam jumlah besar secara bersamaan menga lir\nke sungai.\n\nAyat (2)\n Huruf a\n  Cukup jelas.\n\n Huruf b\n  Cukup jelas.\n\n Huruf c\n  Cukup jelas.\n\n Huruf d\n  Cukup jelas.\n\nHuruf e . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHuruf e\nYang dimaksud dengan “perbaikan drainase perkotaan”\nadalah pembuatan sistem pematusan air hujan di perk otaan\nyang peka terhadap lingkungan hidup yaitu tidak han ya\nmengalirkan air namun memberi prioritas pada pembangunan\nsarana resapan/infiltrasi dan kolam penampung/pered am\nbanjir.\n\nAyat (3)\nCukup jelas.\n\nPasal  37\nAyat (1)\nYang dimaksud dengan “saluran” adalah saluran berve getasi\n(berupa rumput) yang berfungsi untuk meresapkan air hujan.\nYang dimaksud dengan “pipa berlubang” adalah pipa yang bagian\nbawahnya berlubang dan ditanam di dalam tanah denga n posisi\nmendatar yang berfungsi mengalirkan dan meresapkan air hujan.\nYang dimaksud dengan “sumur resapan” adalah lubang vertikal\nyang diisi dengan batu dan kerikil yang berfungsi m eresapkan air\nhujan.\nYang dimaksud dengan “kolam resapan” adalah kolam y ang\ndasarnya tanpa perkerasan.\nYang dimaksud dengan “bidang resapan” adalah luasan  yang\ndapat berfungsi meresapkan air hujan.\nAyat (2)\n Yang dimaksud dengan ”keperluan lain” misalnya unt uk\npedestrian, halaman gedung, atau lapangan parkir.\nYang dimaksud dengan “perkerasan lulus air” adalah perkerasan\nyang menggunakan bahan berongga sehingga air hujan tetap\ndapat meresap ke dalam tanah.\n\nPasal  38\nAyat (1)\nPenampung banjir yang tidak terhubung dengan sungai  atau\ntidak dapat dikosongkan, tidak dapat berfungsi seba gai\npengendali aliran permukaan karena penampung banjir  ini pada\nawal musim hujan umumnya sudah penuh sehingga tidak  dapat\nmenampung air lagi.\nAyat (2) . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAyat (2)\n Cukup jelas.\n\nPasal  39\nCukup jelas.\n\nPasal  40\nCukup jelas.\n\nPasal  41\n Ayat (1)\n Pengelolaan dataran banjir bertujuan untuk mengura ngi\nkerugian akibat banjir.\n Kegiatan ini mencakup pengurangan resiko keterpapa ran\n(exposure ) dan resiko kerentanan terhadap banjir, antara lai n\ndengan melakukan peringatan dini banjir, penetapan dan\npengawasan peruntukan lahan, penetapan jalur evakua si dan\npengungsian, penyusunan prosedur operasi lapangan,\npeningkatan kesadaran masyarakat, dan lain-lain.\n\n Ayat (2)\n Cukup jelas.\n\nPasal  42\nAyat (1)\nDebit rencana 50 (lima puluh) tahunan merupakan deb it banjir\nrencana yang rata-rata terjadi 1 (satu) kali dalam 50 (lima puluh)\ntahun atau debit dengan tingkat kemungkinan terjadi  ( probability\nof occurence ) 1/50 (satu perlimapuluh) atau 2% (dua persen) tia p\ntahun.\n\nDebit banjir 50 (lima puluh) tahunan dapat pula ter jadi 2 (dua)\nkali dalam jangka waktu 100 (seratus) tahun atau 3 (tiga) kali\ndalam jangka waktu 150 (seratus lima puluh) tahun t anpa\ndiketahui kapan terjadinya.\n\nAyat (2)\nCukup jelas.\n\nPasal  43\nCukup jelas.\nPasal 44 . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPasal  44\nCukup jelas.\n\nPasal  45\n  Ayat (1)\n   Huruf a\n   Sistem prakiraan banjir digunakan untuk mengetah ui besaran\nbanjir dalam beberapa waktu ke depan, misalnya akan  terjadi\ndebit 400 m 3/det (empat ratus meter kubik perdetik) pada 6\n(enam) jam kemudian di bagian hilir sungai.\n\n   Huruf b\n   Kegiatan pemetaan kawasan beresiko banjir diperl ukan agar\nmasyarakat dapat memahami kerentanan suatu kawasan\nterhadap banjir.\n\n   Huruf c\n   Kegiatan inspeksi berkala kondisi prasarana peng endali banjir\ndilakukan dengan pengamatan, pencatatan, dan pelapo ran\nmengenai kondisi prasarana pengendali banjir.\n  Huruf d\n   Peningkatan kesadaran masyarakat dimaksudkan aga r\nmasyarakat memahami penyebab banjir di daerahnya\nsehingga dapat ikut melakukan antisipasi untuk meng urangi\nkerentanan kawasan terhadap banjir.\n\n  Huruf e\n   Cukup jelas.\n\n   Huruf f\n   Prosedur operasi lapangan penanggulangan banjir memuat\nantara lain kewenangan, tanggung jawab, tingkat bah aya\nbanjir, prosedur komunikasi dan penyampaian informa si,\npengerahan sumber daya manusia, bahan dan peralatan ,\npelayanan kesehatan, serta bantuan darurat kemanusi aan\nlainnya.\n\n  Ayat (2)\n   Cukup jelas.\n\nPasal 46 . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPasal  46\n  Cukup jelas.\n\n Pasal  47\n  Ayat (1)\n    Yang dimaksud dengan “rehabilitasi” adalah perb aikan prasarana\nsungai agar dapat berfungsi kembali.\n   Yang dimaksud dengan “rekonstruksi” adalah pemba ngunan\nkembali termasuk pembangunan baru prasarana sungai.\n\n  Ayat (2)\n          Cukup jelas.\n\nPasal  48\nCukup jelas.\n\nPasal  49\nCukup jelas.\n\nPasal  50\nAyat (1)\nCukup jelas.\n\nAyat (2)\n Yang dimaksud dengan “berdasarkan kebutuhan” adala h suatu\nkeadaan tertentu yang mengharuskan pelaksanaan kegi atan\nkonservasi sungai, pengembangan sungai, dan pengend alian\ndaya rusak air sungai.\n\nAyat (3)\nCukup jelas.\n\nPasal  51\nCukup jelas.\n\nPasal  52\nCukup jelas.\n\n\nPasal 53 . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPasal  53\nHuruf  a\nYang dimaksud dengan “kegiatan fisik” adalah kegiat an\npelaksanaan konstruksi prasarana konservasi, pengem bangan,\ndan pengendalian daya rusak air sungai.\nYang dimaksud dengan “kegiatan non fisik” adalah ke giatan yang\nbersifat perangkat lunak antara lain pengaturan, pe mbinaan,\npengawasan, dan pengendalian.\n\n Huruf  b\nYang dimaksud dengan “prasarana sungai” adalah pras arana\nfisik yang dibangun untuk keperluan pengelolaan sun gai\ntermasuk fasilitas pendukungnya, antara lain berupa:\n\n1.  bangunan pengambilan air;\n2.  bangunan pengendali banjir;\n3.  bangunan pengendali sedimen;\n4.  bangunan pelindung dan perkuatan tebing sungai;\n5.  bangunan pengarah alur sungai; dan\n6.  bangunan dan peralatan pemantau data hidroklimatologi.\n\nPasal  54\nAyat (1)\n Cukup jelas.\n\n Ayat (2)\n  Cukup jelas.\n\n Ayat (3)\nYang dimaksud dengan “hal tertentu” misalnya kegiat an\nkonservasi dengan skala kecil dan dilakukan secara sukarela.\n\n Ayat (4)\n  Cukup jelas.\n\nPasal  55\nCukup jelas.\n\nPasal  56\nAyat (1)\nCukup jelas.\nAyat (2) . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAyat (2)\nKegiatan pengamatan dan pencatatan perlu dilakukan dengan\npenelusuran lapangan ( walkthrough ).\n\nAyat (3)\n   Cukup jelas.\n\n Pasal  57\n  Ayat (1)\nSetiap orang dalam ketentuan ini meliputi orang per seorangan,\nkelompok orang, atau badan usaha.\n\n  Ayat (2)\n   Huruf a\nPelaksanaan konstruksi pada ruang sungai misalnya\nkonstruksi jembatan, bendungan, tanggul, rentangan pipa\ndan kabel.\n   Huruf b\nPelaksanaan konstruksi yang mengubah aliran dan/ata u alur\nsungai misalnya bendung, sudetan, pintu air, pompa banjir,\nkrib.\n\n   Huruf c\nPemanfaatan bantaran dan sempadan sungai misalnya\ndermaga, jalur pipa gas, pipa air minum, rentangan kabel\nlistrik, rentangan kabel telekomunikasi, dan bangun an\nprasarana sumber daya air.\n   Huruf d\nPemanfaatan bekas sungai misalnya budidaya perikana n\natau untuk peruntukan lain berupa permukiman.\n   Huruf e\nPemanfaatan air sungai selain untuk kebutuhan pokok\nsehari-hari dan pertanian rakyat dalam sistem iriga si yang\nsudah ada misalnya pengambilan air untuk air irigas i yang\nakan dibangun, air minum, dan sanitasi lingkungan\nperkotaan.\n\n   Huruf  f\nPemanfaatan sungai sebagai penyedia tenaga air misa lnya\npembangkit listrik tenaga air.\n\nHuruf g . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n   Huruf  g\n   Cukup jelas.\n\n   Huruf h\nKawasan hutan dalam ketentuan ini tidak termasuk kawasan\nsuaka alam dan kawasan pelestarian alam sesuai deng an\nketentuan peraturan perundang-undangan di bidang\nkehutanan.\n   Huruf  i\nPembuangan air limbah ke sungai misalnya pembuangan  air\nlimbah dari pabrik.\n   Huruf  j\nPengambilan bahan komoditas tambang di sungai misal nya\npengambilan pasir, kerikil, dan batu dari sungai at au tepi\nsungai.\n\n   Huruf  k\n   Cukup jelas.\n\n Pasal  58\n  Cukup jelas.\n\n Pasal  59\n  Cukup jelas.\n\n Pasal  60\n  Cukup jelas.\n\n Pasal  61\n  Ayat (1)\n Cukup jelas.\n\nAyat (2)\nSistem informasi sungai ditujukan untuk memperoleh data\ndan informasi yang diperlukan untuk pengelolaan sungai.\n\n  Ayat (3)\n  Cukup jelas.\n\nAyat (4) . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  Ayat (4)\n  Cukup jelas.\n\n Pasal  62\n  Cukup jelas.\n\n Pasal  63\n  Ayat (1)\n          Yang dimaksud dengan “untuk kepentingan s endiri” misalnya\nuntuk keperluan peringatan dini bahaya banjir oleh\nmasyarakat yang tinggal di wilayah tertentu, untuk keperluan\npenyediaan air di wilayah perkebunan milik badan usaha.\n\n  Ayat (2)\n          Cukup jelas.\n\n Pasal  64\n  Cukup jelas.\n\n Pasal  65\nAyat (1)\n        Cukup jelas.\n\n Ayat (2)\n         Huruf a\nCukup jelas.\n\n  Huruf b\nCukup jelas.\n\n  Huruf c\nCukup jelas.\n\n  Huruf d\nCukup jelas.\n\n  Huruf e\nData fisik banjir  yaitu luas, kedalaman, durasi, frekuensi, dan\njenis banjir (banjir luapan sungai, pasang air laut , banjir\nbandang).\n\n\nHuruf f . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Huruf f\nYang dimaksud dengan “kerugian akibat banjir” adala h segala\nkerugian yang timbul sebagai akibat banjir, baik di  daerah\nyang dilanda banjir maupun daerah lain yang kegiata n\nmasyarakatnya mempunyai kaitan dengan kejadian banj ir\ntersebut.\n\n Ayat (3)\n         Cukup jelas.\n\n Pasal  66\n Ayat (1)\n                  Cukup jelas.\n\n Ayat (2)\n  Huruf a\nCukup jelas.\n\n  Huruf b\nCukup jelas.\n\n  Huruf c\nCukup jelas.\n\n  Huruf d\nCukup jelas.\n\n  Huruf e\nCukup jelas.\n\n   Huruf f\nKondisi penutup lahan antara lain berupa pertanian,\nperkotaan, hutan, pertambangan, industri, dan jalan raya.\n\n  Huruf g\nCukup jelas.\n\n  Huruf h\nCukup jelas.\n\n  Huruf i\nCukup jelas.\n\nHuruf j . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  Huruf j\nCukup jelas.\n\n  Huruf k\nCukup jelas.\n\nAyat (3)\n  Cukup jelas.\n\n Pasal  67\n  Cukup jelas.\n\n Pasal  68\n  Cukup jelas.\n\nPasal  69\nAyat (1)\nCukup jelas.\n\nAyat (2)\nCukup jelas.\n\nAyat (3)\nKegiatan sosialisasi, konsultasi publik, dan partis ipasi\nmasyarakat dilakukan secara berurutan untuk mencapa i\npemberdayaan masyarakat yang efektif.\n\nAyat (4)\nCukup jelas.\n\n  Pasal  70\nCukup jelas.\n\nPasal  71\nAyat (1)\nKonsultasi publik dilakukan melalui kegiatan dialog  dan\nmemberikan masukan dalam penyusunan rencana perlind ungan\nsungai, pengendalian pencemaran air sungai, serta p engurangan\nresiko kerentanan banjir.\n\nAyat (2)\n Cukup jelas.\nPasal 72 . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPasal  72\nAyat (1)\nYang dimaksud dengan kegiatan “partisipasi masyarak at” adalah\nkegiatan dengan mengikutsertakan masyarakat secara sukarela\nsesuai minat dan kemampuannya untuk meningkatkan ki nerja\npengelolaan sungai.\n\nPartisipasi masyarakat dapat berupa antara lain keg iatan\npelaporan oleh masyarakat bila terjadi kerusakan ru ang sungai\nberdasarkan hasil inspeksi sukarela saat menjelang musim\npenghujan.\n\nAyat (2)\nCukup jelas.\n\n Pasal  73\n  Cukup jelas.\n\n Pasal  74\nPada Hari Sungai Nasional, pemerintah, pihak swasta , dan\nmasyarakat bersama-sama melakukan pemantauan langsu ng\nkondisi sungai. Kegiatan ini dimaksudkan agar masya rakat\nmemahami pengaruh kegiatan yang dilakukannya terhad ap sungai,\nbaik pengaruh negatif/merugikan maupun pengaruh\npositif/menguntungkan bagi fungsi sungai. Kegiatan yang\ndilakukan misalnya:\na.  pembersihan sampah dan gangguan aliran di sungai;\nb.  mengidentifikasi sumber pencemaran sungai;\nc.  penanaman tumbuh-tumbuhan yang sesuai di sempadan s ungai\n(riparian zone );\nd.  sosialisasi langsung di lapangan;\ne.  penyelenggaraan workshop peduli sungai; atau\nf.  kesepakatan tindak lanjut bersama.\n\n Pasal  75\nAyat (1)\nYang dimaksud “bekas sungai” adalah bagian/ruas sun gai atau\nsungai yang tidak berfungsi lagi sebagai alur alira n sungai\nkarena aliran berpindah atau dipindah ke alur yang lain.\n                          Ayat (2) . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  Ayat (2)\nCukup jelas.\n  Ayat (3)\nCukup jelas.\n  Ayat (4)\nCukup jelas.\n\n Pasal  76\n  Cukup jelas.\n\nPasal  77\n  Cukup jelas.\n\n Pasal  78\n  Cukup jelas.\n\n Pasal  79\nKerja sama pengelolaan sungai misalnya terdapat ora ng\nperseorangan atau badan usaha yang memiliki banguna n di\nsempadan sungai yang menjadi kewenangan dan tanggun g jawab\nPemerintah, untuk pelaksanaan pembongkarannya dapat  dilakukan\nsecara kerja sama dengan satuan kerja perangkat dae rah yang\nmembidangi penegakan hukum.\n\n Pasal  80\nCukup jelas.\n\n Pasal  81\n  Cukup jelas.\n\n Pasal  82\n  Cukup jelas.\n\n Pasal  83\n Cukup jelas.\n\n Pasal  84\n Cukup jelas.\n\n\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 5230"
+   }
+  }
+ ]
+}

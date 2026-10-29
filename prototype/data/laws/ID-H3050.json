@@ -1,0 +1,580 @@
+{
+ "id": "ID-H3050",
+ "title": {
+  "zh": "国家首都法",
+  "en": "capital state Law",
+  "id": "ibu kota negara",
+  "orig": "IBU KOTA NEGARA",
+  "vi": "Luật thủ đô nhà nước",
+  "th": "พระราชบัญญัติ เมืองหลวง รัฐ",
+  "ms": "Akta ibu kota negara"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02b",
+ "language": "id",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "2022",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU3-2022",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 38,
+ "chars": 65053,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=1.%20Salinan%20UU%20Nomor%203%20Tahun%202022.pdf&fl=P19344"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\01_宪法与基础法\\印尼_文本_2022_IBU KOTA NEGARA.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 44 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H3050-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4 ayat (1), Pasal 5 ayat (1), Pasa"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {
+    "id": "ayat (1), Pasal 5 ayat (1), Pasal 18 ayat (l), Pasal 18B"
+   },
+   "text": {
+    "id": "Pasal 4 ayat (1), Pasal 5 ayat (1), Pasal 18 ayat (l), Pasal 18B\nayat (1), Pasal 20, dan Pasal 22D ayat (2) Undang-Undang\nDasar Negara Republik Indonesia Tahun 1945;\nPasal 1\nDalam Undang-Undang ini yang dimaksud dengan:\n1. Ibu Kota Negara adalah Ibu Kota Negara Kesatuan\nRepublik Indonesia.\nSK No 116239 A\n2. Ibu Kota . . .\nPRESIDEN\nUELIK INDONESIA\n2\n3\n4\n5\n8\n9\n6\nIbu Kota Negara bernama Nusantara dan selanjutnya\ndisebut sebagai Ibu Kota Nusantara adalah satuan\npemerintahan daerah yang bersifat khusus setingkat\nprovinsi yang wilayahnya menjadi tempat kedudukan Ibu\nKota Negara sebagaimana ditetapkan dan diatur dengan\nUndang-Undang ini.\nLembaga Negara adalah lembaga yang menjalankan fungsi\neksekutif, legislatif, dan yudikatif di tingkat pusat, serta\nlembaga lain sebagaimana ditentukan dalam Undang-\nUndang Dasar Negara Republik Indonesia Tahun 1945 dan\nundang-undang.\nPemerintah Pusat adalah Presiden Republik Indonesia\nyang memegang kekuasaan pemerintahan Negara\nRepublik Indonesia yang dibantu oleh Wakil Presiden dan\nmenteri sebagaimana dimaksud dalam Undang-Undang\nDasar Negara Republik Indonesia Tahun 1945.\nPresiden adalah Presiden Republik Indonesia sebagaimana\ndimaksud dalam Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945.\nDewan Perwakilan Rakyat Republik Indonesia yang\nselanjutnya disingkat DPR adalah Dewan Perwakilan\nRalryat sebagaimana dimaksud dalam Undang-Undang\nDasar Negara Republik Indonesia Tahun 1945.\nDewan Perwakilan Daerah Republik Indonesia yang\nselanjutnya disingkat DPD adalah Dewan Perwakilan\nDaerah sebagaimana dimaksud dalam Undang-Undang\nDasar Negara Republik Indonesia Tahun 1945.\nPemerintahan Daerah Khusus Ibu Kota Nusantara adalah\npemerintahan daerah yang bersifat khusus yang\nmenyelenggarakan urusan pemerintahan di Ibu Kota\nNusantara.\nPemerintah Daerah Khusus Ibu Kota Nusantara yang\nselanjutnya disebut sebagai Otorita Ibu Kota Nusantara\nadalah pelaksana kegiatan persiapan, pembangunan, dan\npemindahan Ibu Kota Negara, serta penyelenggara\nPemerintahan Daerah Khusus Ibu Kota Nusantara.\n7\n10. Kepala. . .\nSK No 116240 A\nPRESIDEN\nREPI.JBLIK INOONESIA\n10. Kepala Otorita Ibu Kota Nusantara adalah kepala\nPemerintah Daerah Khusus Ibu Kota Nusantara.\n11. Wakil Kepala Otorita Ibu Kota Nusantara adalah wakil\nkepala Pemerintah Daerah Khusus Ibu Kota Nusantara\nyang bertugas membantu pelaksanaan tugas dan fungsi\nKepala Otorita Ibu Kota Nusantara.\n12. Kawasan Strategis Nasional Ibu Kota Nusantara yang\nselanjutnya disingkat KSN Ibu Kota Nusantara adalah\nkawasan khusus yang cakupan wilayah dan fungsinya\nditetapkan dan diatur dengan Undang-Undang ini.\n13. Rencana Induk Ibu Kota Nusantara adalah dokumen\nperencanaan terpadu dalam melaksanakan persiapan,\npembangunan, dan pemindahan Ibu Kota Negara, serta\npenyelenggaraan Pemerintahan Daerah Khusus Ibu Kota\nNusantara.\n14. Barang Milik Negara adalah semua barang yang dibeli atau\ndiperoleh atas beban Anggaran Pendapatan dan Belanja\nNegara atau berasal dari perolehan lainnya yang sah.\n15. Barang Milik Daerah adalah semua barang yang dibeli\natau diperoleh atas beban Anggaran Pendapatan dan\nBelanja Daerah atau berasal dari perolehan lainnya yang\nsah.\n16. Tanah adalah permukaan bumi, baik berupa daratan\nmaupun yang tertutup air, termasuk ruang di atas dan di\ndalam tubuh bumi, dalam batas tertentu yang\npenggunaan dan pemanfaatannya terkait langsung\nmaupun tidak langsung dengan penggunaan dan\npemanfaatan permukaan bumi.\n17. Hak Atas Tanah yang selanjutnya disingkat HAT adalah\nhak yang diperoleh dari hubungan hukum antara pihak\nyang berhak dengan Tanah, termasuk ruang di atas\nTanah, dan/atau ruang di bawah Tanah untuk\nmenguasai, memiliki, menggunakan, dan memanfaatkan,\nserta memelihara Tanah, ruang di atas Tanah, dan/ atau\nruang di bawah Tanah.\nPasal 2. . .\nSK No 116667 A\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 2\nIbu Kota Nusantara memiliki visi sebagai kota dunia untuk\nsemua yang dibangun dan dikelola dengan tujuan untuk:\na. menjadi kota berkelanjutan di dunia;\nb. sebagai penggerak ekonomi Indonesia di masa depan; dan\nc. menjadi simbol identitas nasional yang merepresentasikan\nkeberagaman bangsa Indonesia, berdasarkan Pancasila\ndan Undang-Undang Dasar Negara Republik Indonesia\nTahun 1945.\nPasal 3\n(1) Undang-Undang ini dibentuk dan dilaksanakan\nberdasarkan asas:\na. ketuhanan;\nb. pengayoman;\nc. kemanusiaan;\nd. kebangsaan;\ne. kenusantaraan;\nf. kebinekatunggalikaan;\ng. keadilan;\nh. kesamaan kedudukan dalam hukum dan\npemerintahan;\ni. ketertiban dan kepastian hukum;\nj. keseimbangan, keserasian, dan keselarasan; dan\nk. efektivitas dan efisiensi pemerintahan.\n(21 Pembangunan dan pengembangan Ibu Kota Nusantara\ndilaksanakan berdasarkan prinsip:\na. kesetaraan;\nSK No l16242A\nb.keseimbangan...\nPRESIDEN\nREPUELIK INDONESIA\nb. keseimbanganekologi;\nc. ketahanan;\nd. keberlanjutan pembangunan;\ne. kelayakan hidup;\nf. konektivitas; dan\ng. kota cerdas.\nBAB II\nPEMBENTUKAN, KEKHUSUSAN, KEDUDUKAN,\nCAKUPAN WILAYAH, DAN RENCANA INDUK\nBagian Kesatu\nPembentukan\nPasal 4\n(1) Dengan Undang-Undang ini dibentuk:\na. Ibu Kota Nusantara sebagai Ibu Kota Negara; dan\nb. Otorita Ibu Kota Nusantara sebagai lembaga setingkat\nkementerian yang menyelenggarakan Pemerintahan\nDaerah Khusus Ibu Kota Nusantara.\n(21 Pengalihan kedudukan, fungsi, dan peran Ibu Kota Negara\ndari Provinsi Daerah Khusus Ibu Kota Jakarta ke Ibu Kota\nNusantara ditetapkan dengan Keputusan Presiden.\n(3) Otorita Ibu Kota Nusantara sebagaimana dimaksud pada\nayat (1) huruf b bertanggung jawab pada kegiatan\npersiapan, pembangunan, dan pemindahan Ibu Kota\nNegara, serta penyelenggara Pemerintahan Daerah\nKhusus lbu Kota Nusantara.\nSK No 116243 A\nBagian . . .\nPRESIDEN\nREPUBLIK INDONESIA\n7-\nBagian Kedua\nKedudukan dan Kekhususan"
+   }
+  },
+  {
+   "id": "ID-H3050-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\n(1) Ibu Kota Nusantara berfungsi sebagai Ibu Kota Negara\nKesatuan Republik Indonesia yang menjadi tempat\npenyelenggaraan kegiatan pemerintahan pusat, serta\ntempat kedudukan perwakilan negara asing dan\nperwakilan organisasi/lembaga internasional.\n(21 Sebagai satuan pemerintahan daerah yang bersifat\nkhusus, Pemerintahan Daerah Khusus Ibu Kota\nNusantara mengatur dan mengurus sendiri urusan\npemerintahan sebagaimana ditetapkan dan diatur dengan\nUndang-Undang ini.\n(3) Dikecualikan dari satuan pemerintahan daerah lainnya, di\nIbu Kota Nusantara hanya diselenggarakan pemilihan\numum tingkat nasional.\n(4) Kepala Otorita Ibu Kota Nusantara merupakan kepala\nPemerintah Daerah Khusus Ibu Kota Nusantara yang\nberkedudukan setingkat menteri, ditunjuk, diangkat, dan\ndiberhentikan oleh Presiden setelah berkonsultasi dengan\nDPR.\n(5) Pemerintahan Daerah Khusus Ibu Kota Nusantara\nmenjalankan fungsi dan peran pemerintahan daerah\nkhusus yang diatur dalam Undang-Undang ini, kecuali\nyang oleh peraturan perundang-undangan ditentukan\nsebagai urusan pemerintahan pusat.\n(6) Otorita Ibu Kota Nusantara berhak menetapkan peraturan\nuntuk menyelenggarakan Pemerintahan Daerah Khusus\nIbu Kota Nusantara dan/atau melaksanakan kegiatan\npersiapan, pembangunan, dan pemindahan Ibu Kota\nNegara.\nSK No 116244 A\n(7) Ketentuan. . .\nPRES IOEN\nREPUBLIK INDONESIA\n(7) Ketentuan lebih lanjut mengenai susunan dan tata cara\npenyelenggaraan Pemerintahan Daerah Khusus Ibu Kota\nNusantara, pembentukan peraturan Ibu Kota Negara\nselain mengenai pajak dan pungutan lain, serta\npelaksanaan kegiatan persiapan, pembangunan, dan\npemindahan Ibu Kota Negara oleh Otorita Ibu Kota\nNusantara diatur dengan Peraturan Presiden.\nBagian Ketiga\nCakupan Wilayah"
+   }
+  },
+  {
+   "id": "ID-H3050-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\n(1) Posisi Ibu Kota Nusantara secara geografis terletak pada:\na. Bagian Utara pada 117\" O' 3L.292\" Bujur Timur dan\nO' 38'44.912\" Lintang Selatan;\nb. Bagian Selatan pada 1L7\" lL' 51.903\" Bujur Timur\ndan 1\" 15'25.260\" Lintang Selatan;\nc. Bagian Barat pada 116' 31' 37.728\" Bujur Timur dan\nO' 59'22.51O\" Lintang Selatan; dan\nd. Bagian Timur pada ll7\" L8'2a.O84\" Bujur Timur dan\nl' 6' 42.398' Lintang Selatan.\n(21 Ibu Kota Nusantara meliputi wilayah daratan seluas\nkurang lebih 256.142 ha (dua ratus lima puluh enam ribu\nseratus empat puluh dua hektare) dan wilayah perairan\nlaut seluas kurang lebih 68.189 ha (enam puluh delapan\nribu seratus delapan puluh sembilan hektare), dengan\nbatas wilayah:\na. sebelah selatan berbatasan dengan Kecamatan\nPenajam Kabupaten Penajam Paser Utara, Teluk\nBalikpapan, Kecamatan Balikpapan Barat,\nKecamatan Balikpapan Utara, dan Kecamatan\nBalikpapan Timur Kota Balikpapan;\nb. sebelah barat berbatasan dengan Kecamatan Loa\nKulu Kabupaten Kutai Kartanegara dan Kecamatan\nSepaku Kabupaten Penajam Paser Utara;\nSK No I16001 A\nc. sebelah . . .\nPRESIDEN\nREPUELIK INDONESIA\n-9\nc. sebelah utara berbatasan dengan Kecamatan Loa\nKulu, Kecamatan Loa Janan, dan Kecamatan Sanga-\nSanga Kabupaten Kutai Kartanegara; dan\nd. sebelah timur berbatasan dengan Selat Makassar.\n(3) Luas wilayah darat Ibu Kota Nusantara sebagaimana\ndimaksud pada ayat (2) meliputi:\na. kawasan Ibu Kota Nusantara seluas kurang lebih\n56.180 ha (lima puluh enam ribu seratus delapan\npuluh hektare); dan\nb. kawasan pengembangan Ibu Kota Nusantara seluas\nkurang lebih 199.962 ha (seratus sembilan puluh\nsembilan ribu sembilan ratus enam puluh dua\nhektare).\n(41 Kawasan Ibu Kota Nusantara sebagaimana dimaksud\npada ayat (3) huruf a termasuk kawasan inti pusat\n. pemerintahan dengan luas wilayah yang mengacu pada\nRencana Induk lbu Kota Nusantara dan Rencana Tata\nRuang KSN Ibu Kota Nusantara.\n(5) Cakupan dan batas wilayah sebagaimana dimaksud pada\nayat (21 tercantum dalam Lampiran I Peta Delineasi dan\nKoordinat Ibu Kota Nusantara yang merupakan bagian\ntidak terpisahkan dari Undang-Undang ini dan ditetapkan\nsebagai KSN Ibu Kota Nusantara.\nBagian Keempat\nRencana Induk Ibu Kota Nusantara"
+   }
+  },
+  {
+   "id": "ID-H3050-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\n(1) Rencana Induk Ibu Kota Nusantara merupakan dokumen\nperencanaan terpadu yang menjadi pedoman bagi\nOtorita Ibu Kota Nusantara dan/atau Pemerintah Pusat\ndalam melaksanakan persiapan, pembangunan, dan\npemindahan Ibu Kota Negara, serta penyelenggaraan\nPemerintahan Daerah Khusus Ibu Kota Nusantara.\nSK No 116265 A\n(2) Pelaksanaan...\nPRESIOEN\nREPUBLIK INDONESIA\n(2) Pelaksanaan pembangunan dan pemindahan Ibu Kota\nNegara dalam Rencana Induk Ibu Kota Nusantara\nsebagaimana dimaksud pada ayat (l) dilaksanakan secara\nbertahap.\n(3) Rencana Induk Ibu Kota Nusantara sebagaimana\ndimaksud pada ayat (1) pating sedikit memuat pokok-\npokok:\na. pendahuluan;\nb. visi, tujuan, prinsip dasar, dan indikator kinerja\nutama;\nc. prinsip dasar pembangunan; dan\nd. penahapan pembangunan dan skema pendanaan,\nyang tercantum dalam Lampiran II yang merupakan\nbagian tidak terpisahkan dari Undang-Undang ini.\n(41 Perincian Rencana Induk Ibu Kota Nusantara\nsebagaimana dimaksud pada ayat (1), ayat (2), dan ayat (3)\ndiatur dengan Peraturan Presiden.\n(5) Otorita Ibu Kota Nusantara dapat melakukan perubahan\nterhadap Rencana Induk Ibu Kota Nusantara, dengan\nketentuan:\na. dalam hal perubahan dilakukan terhadap materi\nmuatan Rencana Induk Ibu Kota Nusantara\nsebagaimana dimaksud pada ayat (3), dilakukan\nsetelah mendapatkan persetujuan dari Presiden dan' dikonsultasikan dengan DPR;\nb. dalam hal perubahan dilakukan terhadap perincian\nRencana Induk Ibu Kota Nusantara sebagaimana\ndimaksud pada ayat (41, dilakukan setelah\nmendapatkan persetujuan dari Presiden.\n(6) Perubahan Rencana Induk Ibu Kota Nusantara\nsebagaimana dimaksud pada ayat (5) diatur dengan\nPeraturan Presiden.\nBABIII ...\nSK No 116567 A\nPRESIDEN\nREPUBLIK INOONESIA\nBAB III\nBENTUK, SUSUNAN, KEWENANGAN, DAN\nURUSAN PEMERINTAHAN\nBagian Kesatu\nBentuk dan Susunan Pemerintahan"
+   }
+  },
+  {
+   "id": "ID-H3050-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\nPenyelenggara Pemerintahan Daerah Khusus Ibu Kota\nNusantara adalah Otorita Ibu Kota Nusantara."
+   }
+  },
+  {
+   "id": "ID-H3050-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n(l) Otorita Ibu Kota Nusantara dipimpin oleh Kepala Otorita\nIbu Kota Nusantara dan dibantu oleh seorang Wakil\nKepala Otorita Ibu Kota Nusantara yang ditunjuk,\ndiangkat, dan diberhentikan langsung oleh Presiden\nsetelah berkonsultasi dengan DPR.\n(21 Pelantikan Kepala Otorita Ibu Kota Nusantara dan Wakil\nKepala Otorita Ibu Kota Nusantara sebagaimana dimaksud\npada ayat (1) dilaksanakan oleh Presiden."
+   }
+  },
+  {
+   "id": "ID-H3050-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\n(1) Kepala Otorita Ibu Kota Nusantara dan Wakil Kepala\nOtorita Ibu Kota Nusantara sebagaimana dimaksud dalam\nPasal 9 memegang jabatan selama 5 (lima) tahun terhitung\nsejak tanggal pelantikan dan sesudahnya dapat ditunjuk\ndan diangkat kembali dalam masa jabatan yang sama.\n(21 Kepala Otorita Ibu Kota Nusantara dan/atau Wakil Kepala\nOtorita Ibu Kota Nusantara sebagaimana dimaksud dalam\nPasal 9 dapat diberhentikan sewaktu-waktu oleh Presiden\nsebelum masa jabatan sebagaimana dimaksud pada\nayat (1) berakhir.\n(3) Untuk. . .\nSK No 116267 A\nPRESIDEN\nREPUBLIK INDONESIA\n-t2-\n(3) Untuk pertama kalinya Kepala Otorita Ibu Kota Nusantara\ndan Wakil Kepala Otorita Ibu Kota Nusantara ditunjuk dan\ndiangkat oleh Presiden paling lambat 2 (dua) bulan setelah\nUndang-Undang ini diundangkan."
+   }
+  },
+  {
+   "id": "ID-H3050-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\n(1) Ketentuan mengenai struktur organisasi, tugas,\nwewenang, dan tata kerja Otorita Ibu Kota Nusantara\ndiatur dengan Peraturan Presiden.\n(21 Struktur organisasi dan pengisian jabatan Otorita Ibu Kota\nNusantara disesuaikan dengan tahapan persiapan,\npembangunan, dan pemindahan Ibu Kota Negara\nserta kebutuhan penyelenggaraan Pemerintahan Daerah\nKhusus Ibu Kota Nusantara.\nBagian Kedua\nKewenangan dan Urusan Pemerintahan"
+   }
+  },
+  {
+   "id": "ID-H3050-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n(1) Otorita Ibu Kota Nusantara sebagai penyelenggara\nPemerintahan Daerah Khusus Ibu Kota Nusantara diberi\nkewenangan khusus berdasarkan Undang-Undang ini.\n(21 Kekhususan sebagaimana dimaksud pada ayat (1)\ntermasuk antara lain kewenangan pemberian perizinan\ninvestasi, kemudahan berusaha, serta pemberian fasilitas\nkhusus kepada pihak yang mendukung pembiayaan\ndalam rangka kegiatan persiapan, pembangunan, dan\npemindahan Ibu Kota Negara, serta pengembangan Ibu\nKota Nusantara dan daerah mitra.\nSK No I16268 A\n(3) Ketentuan. . .\nPRESIDEN\nREPLIBLIK INDONESIA\n(3) Ketentuan lebih lanjut mengenai kewenangan khusus\nsebagaimana dimaksud pada ayat (1) dan ayat (2) diatur\ndalam Peraturan Pemerintah setelah berkonsultasi dengan\nDPR."
+   }
+  },
+  {
+   "id": "ID-H3050-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\n(l) Dikecualikan dari ketentuan peraturan perundang-\nundangan yang mengatur daerah pemilihan dalam rangka\npemilihan umum, Ibu Kota Nusantara hanya\nmelaksanakan Pemilihan Umum Presiden dan Wakil\nPresiden, pemilihan umum untuk memilih anggota DPR,\ndan pemilihan umum untuk memilih anggota DPD.\n(21 Dalam hal ketentuan sebagaimana dimaksud pada ayat (1)\nmengakibatkan perubahan perhitungan dalam penentuan\nkursi anggota Dewan Perwakilan Rakyat Daerah pada\ndaerah yang berbatasan langsung dengan Ibu Kota\nNusantara, penentuan jumlah kursi anggota Dewan\nPerwakilan Rakyat Daerah pada daerah tersebut mengacu\npada ketentuan peraturan perundang-undangan.\n(3) Penyusunan dan penetapan daerah pemilihan anggota\nDPR dan anggota DPD di Ibu Kota Nusantara dilakukan\noleh Komisi Pemilihan Umum Republik Indonesia dengan\nkonsultasi bersama Otorita Ibu Kota Nusantara.\nBAB IV\nPEMBAGIAN WILAYAH"
+   }
+  },
+  {
+   "id": "ID-H3050-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\n(1) Wilayah Pemerintahan Daerah Khusus Ibu Kota\nNusantara dibagi atas beberapa wilayah yang bentuk,\njumlah, dan strukturnya disesuaikan dengan kebutuhan.\n(21 Ketentuan mengenai pembagian wilayah Ibu Kota\nNusantara sebagaimana dimaksud pada ayat (1) diatur\ndalam Peraturan Presiden.\nBABV...\nSK No 116269 A\nPRESIDEN\nREPUBLIK INOONESIA\nBAB V\nPENATAAN RUANG, PERTANAHAN DAN PENGALIHAN\nHAK ATAS TANAH, LINGKUNGAN HIDUP,\nPENANGGULANGAN BENCANA, DAN\nPERTAHANAN DAN KEAMANAN\nBagian Kesatu\nPenataan Ruang"
+   }
+  },
+  {
+   "id": "ID-H3050-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\n(1) Penataan ruang Ibu Kota Nusantara mengacu pada:\na. Rencana Tata Ruang Wilayah Nasional;\nb. Rencana Zonasi Kawasan Antarwilayah Selat\nMakassar;\nc. Rencana Tata Ruang Pulau Kalimantan;\nd. Rencana Tata Ruang KSN Ibu Kota Nusantara; dan\ne. Rencana Detail Tata Ruang Ibu Kota Nusantara.\n(21 Ketentuan mengenai Rencana Tata Ruang KSN Ibu Kota\nNusantara sebagaimana dimaksud pada ayat (1) huruf d\ndiatur dengan Peraturan Presiden.\n(3) Rencana Tata Ruang KSN Ibu Kota Nusantara\nsebagaimana dimaksud pada ayat (1) huruf d disusun\nsesuai kedalaman muatan Rencana Tata Ruang Wilayah\nKota dengan skala 1:25.000.\n(41 Ketentuan mengenai Rencana Detail Tata Ruang Ibu Kota\nNusantara sebagaimana dimaksud pada ayat (1) huruf e\ndiatur dengan Peraturan Kepala Otorita Ibu Kota\nNusantara.\nSK No 116270 A\nBagian . . .\nPRESIDEN\nREPTJBLIK INDONESIA\nBagian Kedua\nPertanahan dan Pengalihan Hak Atas Tanah"
+   }
+  },
+  {
+   "id": "ID-H3050-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\n(l) Perolehan Tanah oleh Otorita Ibu Kota Nusantara\ndan/atau kementerian/lembaga di Ibu Kota Nusantara\ndilakukan melalui mekanisme pelepasan kawasan hutan\ndan mekanisme pengadaan Tanah sesuai dengan\nketentuan peraturan perundang-undangan.\n(2) Pengadaan Tanah sebagaimana dimaksud pada ayat (1)\ndilakukan dengan mekanisme pengadaan Tanah\nsebagaimana diatur dalam peraturan perundang-\nundangan di bidang pengadaan tanah bagi pembangunan\nuntuk kepentingan umum atau pengadaan tanah secara\nlangsung.\n(3) Tanah untuk pembangunan kepentingan umum di Ibu\nKota Nusantara merupakan salah satu jenis dalam\npengadaan tanah bagi pembangunan untuk kepentingan\numum.\n(41 Dalam hal pengadaan tanah dilakukan dengan mekanisme\npengadaan tanah bagi pembangunan untuk kepentingan\numum, tahapan persiapan dilaksanakan oleh Otorita Ibu\nKota Nusantara.\n(5) Penetapan lokasi pengadaan Tanah di Ibu Kota Nusantara\nditerbitkan oleh Kepala Otorita Ibu Kota Nusantara.\n(6) Otorita Ibu Kota Nusantara diberi hak pakai dan/atau hak\npengelolaan atas Tanah sesuai dengan ketentuan\nperaturan perundang-undangan.\n(71 Otorita Ibu Kota Nusantara berwenang mengikatkan diri\ndengan setiap individu atau badan hukum atas perjanjian\nHAT di Ibu Kota Nusantara.\nSK No l16271A\n(8) Otorita...\nPRESIOEN\nREPUELIK INDONESIA\n(8) Otorita Ibu Kota Nusantara dapat memberikan jaminan\nperpanjangan dan pembaruan HAT di atas hak\npengelolaan sesuai dengan persyaratan yang termuat\ndalam perj anjian.\n(9) Dalam hal tertentu, jangka waktu perjanjian sebagaimana\ndimaksud pada ayat (7) disesuaikan dengan kebutuhan.\n(10) HAT yang berada di Ibu Kota Nusantara wajib\ndimanfaatkan sesuai dengan tqjuan pemberian haknya.\n(11) HAT yang diberikan yang tidak dimanfaatkan sesuai\ndengan tujuan peruntukannya dapat dibatalkan.\n(12) Pengalihan HAT di Ibu Kota Nusantara wajib mendapatkan\npersetujuan Kepala Otorita Ibu Kota Nusantara."
+   }
+  },
+  {
+   "id": "ID-H3050-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\nOtorita Ibu Kota Nusantara memiliki hak untuk diutamakan\ndalam pembelian Tanah di Ibu Kota Nusantara.\nBagian Ketiga\nPelindungan dan Pengelolaan Lingkungan Hidup"
+   }
+  },
+  {
+   "id": "ID-H3050-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\n(1) Pelindungan dan pengelolaan lingkungan hidup di Ibu\nKota Nusantara dilaksanakan berdasarkan Rencana\nInduk Ibu Kota Nusantara dan Rencana Tata Ruang KSN\nIbu Kota Nusantara dengan mempertimbangkan aspek\ndaya dukung dan daya tampung lingkungan hidup sesuai\ndengan ketentuan peraturan perundang-undangan.\n(21 Pelindungan dan pengelolaan lingkungan hidup\nsebagaimana dimaksud pada ayat (1) dilakukan oleh\nOtorita Ibu Kota Nusantara, termasuk pelaksanaan\npemantauan, pengendalian, dan evaluasi terhadap\nkualitas lingkungan hidup di Ibu Kota Nusantara sesuai\ndengan ketentuan peraturan perundang-undangan.\nSK No 116272 A\n(3) Pelindungan . . .\nPRESIDEN\nREPUBLIK INDONESIA\n-t7-\n(3) Pelindungan dan pengelolaan lingkungan hidup\nsebagaimana dimaksud pada ayat (1) termasuk tetapi\ntidak terbatas pada:\na. penetapan kawasan hijau yang mendukung\nkeseimbangan lingkungan hidup dan\nkeanekaragaman hayati;\nb. penerapan energi terbarukan dan efisiensi energi;\nc. pengelolaan wilayah fungsional perkotaan yang\nberorientasi pada lingkungan hidup; dan\nd. penerapan pengolahan sampah dan limbah dengan\nprinsip ekonomi sirkuler.\nBagian Keempat\nPenanggulangan Bencana"
+   }
+  },
+  {
+   "id": "ID-H3050-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\nPenyelenggaraan penanggulangan bencana di lbu Kota\nNusantara dilaksanakan oleh Otorita Ibu Kota Nusantara\ndengan mengacu pada Rencana Induk Ibu Kota Nusantara dan\nRencana Tata Ruang KSN Ibu Kota Nusantara.\nBagian Kelima\nPertahanan dan Keamanan"
+   }
+  },
+  {
+   "id": "ID-H3050-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\nPenyelenggaraan pertahanan dan keamanan di Ibu Kota\nNusantara dilaksanakan berdasarkan sistem dan strategi\npertahanan dan keamanan yang terintegrasi dengan Rencana\nInduk Ibu Kota Nusantara dan Rencana Tata Ruang KSN Ibu\nKota Nusantara."
+   }
+  },
+  {
+   "id": "ID-H3050-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21 "
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kelima"
+   },
+   "heading": {
+    "id": "..."
+   },
+   "text": {
+    "id": "Pasal 21 ...\nSK No 116273 A\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 2 1\nPenataan ruang, pertanahan dan pengalihan hak atas\ntanah, lingkungan hidup, penanggulangan bencana, serta\npertahanan dan keamanan sebagaimana dimaksud dalam\nPasal 15 sampai dengan Pasal 20 dilaksanakan dengan\nmemperhatikan dan memberikan perlindungan terhadap hak-\nhak individu atau hak-hak komunal masyarakat adat dan nilai-\nnilai budaya yang mencerminkan kearifan lokal.\nBAB VI\nPEMINDAHAN KEDUDUKAN LEMBAGA NEGARA,\nAPARATUR SIPIL NEGARA, PERWAKILAN NEGARA ASING,\nDAN PERWAKILAN ORGANISASI/LEMBAGA INTERNASIONAL"
+   }
+  },
+  {
+   "id": "ID-H3050-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\n(1) lembaga Negara berpindah kedudukan serta menjalankan\ntugas, fungsi, dan peran secara bertahap di Ibu Kota\nNusantara.\n(2) Pemindahan kedudukan l,embaga Negara secara bertahap\nsebagaimana dimaksud pada ayat (1) dilakukan\nberdasarkan Rencana Induk Ibu Kota Nusantara.\n(3) Pemerintah Pusat menentukan Lembaga Pemerintah Non\nkementerian, Lembaga Non struktural, lembaga\npemerintah lainnya, dan aparatur sipil negara yang tidak\ndipindahkan kedudukannya ke Ibu Kota Nusantara.\n(41 Perwakilan negara asing dan perwakilan\norganisasi/lembaga internasional akan berkedudukan di\nIbu Kota Nusantara berdasarkan kesanggupan dari\nmasing-masing perwakilan negara asing dan perwakilan\norganisasi/lembaga internasional tersebut.\n(5) Ketentuan lebih lanjut mengenai pemindahan Lembaga\nNegara, aparatur sipil negara, perwakilan negara asing,\ndan perwakilan organisasi/lembaga internasional\nsebagaimana dimaksud pada ayat (1), ayat (2), ayat (3),\ndan ayat (4) diatur dalam Peraturan Presiden.\nSK No l16274A\nBABVII ...\nPFIES IDEN\nREPUBLIK INDONESIA\nBAB VII\nPENDANAAN DAN PENGELOLAAN\nANGGARAN PENDAPATAN DAN BEI,ANJA\nBagian Kesatu\nPendanaan"
+   }
+  },
+  {
+   "id": "ID-H3050-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\n(1) Dalam rangka persiapan, pembangunan, dan pemindahan\nIbu Kota Negara, serta penyelenggaraan Pemerintahan\nDaerah Khusus lbu Kota Nusantara, kekuasaan Presiden\nsebagai pengelola keuangan negara dikuasakan kepada\nKepala Otorita Ibu Kota Nusantara.\n(21 Kepala Otorita Ibu Kota Nusantara sebagaimana dimaksud\npada ayat (1) berkedudukan sebagai pengguna\nanggaran/pengguna barang untuk Ibu Kota Nusantara.\nPasal24\n(1) Pendanaan untuk persiapan, pembangunan, dan\npemindahan Ibu Kota Negara, serta penyelenggaraan\nPemerintahan Daerah Khusus Ibu Kota Nusantara\nbersumber dari:\na. Anggaran Pendapatan dan Belanja Negara; dan/atau\nb. sumber lain yang sah sesuai dengan ketentuan\nperaturan perundang-undangan.\n(21 Alokasi pendanaan sebagaimana dimaksud pada ayat (1)\ndilakukan dengan:\na. berpedoman pada Rencana Induk Ibu Kota Nusantara\ndan/ atau Rencana Pembangunan Jangka Menengah;\ndan\nb. berdasarkan peraturan perundang-undangan yarrg\nmengatur mengenai Anggaran Pendapatan dan\nBelanja Negara dan/atau sumber lain yang sah.\nSK No 116275 A\n(3) Persiapan . . .\nPRESIDEN\nREPUELIK INDONESIA\n(3) Persiapan, pembangunan, dan pemindahan Ibu Kota\n. Nusantara sebagaimana dimaksud pada ayat (l)ditetapkan sebagai program prioritas nasional paling\nsingkat 10 (sepuluh) tahun dalam rencana kerja\npemerintah sejak berlakunya Undang-Undang ini atau\npaling singkat sampai dengan selesainya tahap 3 (tiga)\npenahapan pembangunan Ibu Kota Nusantara\nsebagaimana ditetapkan dalam Rencana Induk Ibu Kota\nNusantara.\n(4) Dalam rangka pendanaan untuk penyelenggaraan\nPemerintahan Daerah Khusus Ibu Kota Nusantara\nsebagaimana dimaksud pada ayat (1), Otorita Ibu Kota\nNusantara dapat melakukan pemungutan pajak khusus\ndan/atau pungutan khusus di Ibu Kota Nusantara.\n(5) Pajak daerah dan retribusi daerah sebagaimana diatur\ndalam peraturan perundang-undangan berlaku secara\nmutatis mutandis sebagai pajak khusus dan pungutan\nkhusus sebagaimana dimaksud pada ayat (4).\n(6) Dasar pelaksanaan pemungutan pajak khusus dan/atau\npungutan khusus di Ibu Kota Nusantara sebagaimana\ndimaksud pada ayat (5) diatur dengan peraturan yang\nditetapkan oleh Otorita Ibu Kota Nusantara setelah\nmendapat persetujuan DPR.\n(7) Ketentuan lebih lanjut mengenai pendanaan sebagaimana\ndimaksud pada ayat (1), ayat (4), ayat (5), dan ayat (6)\ndiatur dalam Peraturan Pemerintah.\nBagian Kedua\nPenyusunan Rencana Kerja, Pelaksanaan, dan\nPertanggungjawaban Anggaran Pendapatan dan Belanja\nIbu Kota Nusantara"
+   }
+  },
+  {
+   "id": "ID-H3050-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\n(1) Kepala Otorita Ibu Kota Nusantara selaku pengguna\nanggaran/pengguna barang sebagaimana dimaksud\ndalam Pasal 23 ayat (2) menyusun rencana kerja dan\nanggaran Ibu Kota Nusantara.\nSK No 116276 A\n(2) Dalam . . .\nPRESIDEN\nREPUBLIK INDONESIA\n-2t-\n(21 Dalam hal Otorita Ibu Kota Nusantara memperoleh\npendapatan dari sumber lain yang sah sebagaimana\ndimaksud dalam Pasal 24 ayat (1) huruf b dan/atau\npendapatan yang berasal dari pajak khusus dan/atau\npungutan khusus sebagaimana dimaksud dalam Pasal 24\nayat (4), Kepala Otorita Ibu Kota Nusantara menlrusun\nrencana pendapatan Ibu Kota Nusantara.\n(3) Ketentuan lebih lanjut mengenai pen5rusunan rencana\nkerja dan anggaran Ibu Kota Nusantara diatur dalam\nPeraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H3050-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\n(1) Pelaksanaan dan pertanggungjawaban anggaran Ibu Kota\nNusantara sebagaimana dimaksud dalam Pasal 25\ndilakukan sesuai tata kelola anggaran Ibu Kota Nusantara.\n(21 Tata cara pelaksanaan dan pertanggungjawaban anggaran\nIbu Kota Nusantara sebagaimana dimaksud pada ayat (l)\ndiatur dalam Peraturan Pemerintah.\nBagian Ketiga\nTata Kelola Barang Milik Negara"
+   }
+  },
+  {
+   "id": "ID-H3050-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\nDalam rangka pemindahan Ibu Kota Negara, Barang Milik\nNegara yang sebelumnya digunakan oleh\nKementerian/ Lembaga di Provinsi Daerah Khusus Ibukota\nJakarta dan/atau provinsi lainnya wajib dialihkan\npengelolaannya kepada menteri yang menyelenggarakan\nurusan pemerintahan di bidang keuangan."
+   }
+  },
+  {
+   "id": "ID-H3050-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\n(1) Dalam rangka pembangunan di Ibu Kota Nusantara dan\npenyelenggaraan Pemerintahan Daerah Khusus Ibu Kota\nNusantara, pengelolaan Barang Milik Negara dilakukan\noleh menteri yang menyelenggarakan urusan\npemerintahan di bidang keuangan.\n(2) Pengelolaan . . .\nSK No 116277 A\nPRESIDEN\nREPUBLIK INDONESIA\n(21 Pengelolaan Barang Milik Negara sebagaimana dimaksud\ndalam Pasal 27 dan pada ayat (1) dapat dilakukan dengan:\na. pemindahtanganan;dan/atau\nb. pemanfaatan.\n(3) Pemindahtanganan Barang Milik Negara yang dilakukan\ndengan cara sebagaimana dimaksud pada ayat (2) huruf a,\ntidak boleh dilakukan terhadap barang yang memiliki\nkriteria:\na. cagar budaya;\nb. memiliki arti khusus bagi sejarah, ilmu pengetahuan,\npendidikan, agama, dan/atau kebudayaan; dan\nc. memiliki nilai budaya bagi penguatan kepribadian\nbangsa."
+   }
+  },
+  {
+   "id": "ID-H3050-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\n(1) Dalam rangka pemindahtanganan sebagaimana dimaksud\ndalam Pasal 28 ayat (2) huruf a, pemilihan badan usaha\ndapat dilakukan dengan cara:\na. penunjukan badan usaha yang seluruh atau sebagian\nmodalnya dimiliki oleh negara; dan/atau\nb. tender.\n(21 Pemindahtanganan Barang Milik Negara sebagaimana\ndimaksud dalam Pasal 28 ayat (2) huruf a dengan nilai\nsampai dengan Rp 100.000.000.000,00 (seratus miliar\nrupiah) dilakukan dengan persetujuan menteri yang\nmenyelenggarakan urusan pemerintahan di bidang\nkeuangan.\n(3) Pemindahtanganan Barang Milik Negara sebagaimana\ndimaksud dalam Pasal 28 ayat (2) huruf a dengan nilai\ndi atas Rp100.000.000.000,00 (seratus miliar rupiah)\ndilakukan dengan persetujuan Presiden.\nSK No 116278 A\n(4) Pemindahtanganan . . .\nFRESIDEN\nREPI.JBLIK INDONESIA\n(41 Pemindahtanganan Barang Milik Negara sebagaimana\ndimaksud dalam Pasal 28 ayat (2) huruf a dilaporkan\nkepada DPR sesuai mekanisme pertanggungiawaban\nkeuangan negara.\n(5) Dalam rangka pemanfaatan sebagaimana dimaksud dalam\nPasal 28 ayat (21 huruf b, pemilihan badan usaha dapat\ndilakukan dengan cara:\na. penunjukan badan usaha yang seluruh atau sebagian\nmodalnya dimiliki oleh negara; dan/atau\nb. tender."
+   }
+  },
+  {
+   "id": "ID-H3050-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\n(1) Tanah di Ibu Kota Nusantara ditetapkan sebagai:\na. Barang Milik Negara; dan/atau\nb. aset dalam penguasaan Otorita Ibu Kota Nusantara.\n(21 Tanah yang ditetapkan sebagai Barang Milik Negara\nsebagaimana dimaksud pada ayat (1) huruf a merupakan\nTanah yang terkait dengan penyelenggaraan pemerintahan\ndan diberikan hak pakai.\n(3) Tanah yang ditetapkan sebagai aset dalam penguasaan\nsebagaimana dimaksud pada ayat (1) huruf b merupakan\nTanah yang tidak terkait dengan penyelenggaraan\npemerintahan."
+   }
+  },
+  {
+   "id": "ID-H3050-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\nBarang Milik Negara yang dibutuhkan oleh Otorita Ibu Kota\nNusantara dalam rangka mendukung penyelenggaraan\nPemerintahan Daerah Khusus Ibu Kota Nusantara disediakan\nmelalui:\na. Anggaran Pendapatan dan Belanja Negara; dan/atau\nb. perolehan lainnya yang sah sesuai peraturan perundang-\nundangan."
+   }
+  },
+  {
+   "id": "ID-H3050-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Ketiga"
+   },
+   "heading": {
+    "id": "..."
+   },
+   "text": {
+    "id": "Pasal 32...\nSK No 116279 A\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 32\nBarang Milik Daerah yang berada di Ibu Kota Nusantara\ndialihkan kepada Pemerintah Pusat dan ditetapkan sebagai:\na. Barang Milik Negara; dan/atau\nb. aset dalam penguasaan Otorita Ibu Kota Nusantara."
+   }
+  },
+  {
+   "id": "ID-H3050-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 33\nKepala Otorita Ibu Kota Nusantara merupakan pengguna\nbarang atas Barang Milik Negara dan aset dalam penguasaan\nyang berada dalam pengelolaannya."
+   }
+  },
+  {
+   "id": "ID-H3050-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 34\nMenteri yang menyelenggarakan urusan pemerintahan di\nbidang keuangan menlrusun rencana pemanfaatan Barang\nMilik Negara sebagaimana dimaksud dalam Pasal 28 ayat (21\nhuruf b."
+   }
+  },
+  {
+   "id": "ID-H3050-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 35\nKetentuan lebih lanjut mengenai pengelolaan Barang Milik\nNegara dan aset dalam penguasaan sebagaimana dimaksud\ndalam Pasal 27 sampai dengan Pasal 34 diatur dalam Peraturan\nPemerintah."
+   }
+  },
+  {
+   "id": "ID-H3050-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 36\n(1) Otorita Ibu Kota Nusantara mulai beroperasi paling lambat\npada akhir tahun 2022.\n(21 Kementerian/Iembaga melaksanakan kegiatan persiapan\ndan/atau pembangunan Ibu Kota Nusantara sesuai tugas\ndan fungsinya masing-masing dengan berpedoman pada\nRencana Induk Ibu Kota Nusantara, sampai dengan\ndimulainya operasional Otorita Ibu Kota Nusantara\nsebagaimana dimaksud pada ayat (1).\n(3) Pada...\nSK No 116280A\nPRESIDEN\nREPUBLIK INDONESIA\n(3) Pada saat Otorita Ibu Kota Nusantara telah beroperasi\nsebagaimana dimaksud pada ayat (1), pelaksanaan\nkegiatan persiapan dan/atau pembangunan yang\ndilaksanakan oleh kementerian/lembaga sebagaimana\ndimaksud pada ayat (2) dikoordinasikan oleh Otorita Ibu\nKota Nusantara.\n(4) Dimulai pada tahun 2023, kegiatan persiapan dan/atau\npembangunan Ibu Kota Negara yang sebelumnya\ndilaksanakan oleh kementerian/lembaga dapat dialihkan\nkepada Otorita Ibu Kota Nusantara atau tetap dilanjutkan\noleh kementerian/ lembaga tersebut.\n(5) Barang Milik Negara yang dihasilkan oleh\nkementerian/lembaga dalam rangka kegiatan\npembangunan di Ibu Kota Nusantara sebagaimana\ndimaksud pada ayat (3) dan ayat (4) dialihkan kepada\nOtorita Ibu Kota Nusantara dimulai pada tahun 2023,\nkecuali ditentukan lain oleh menteri yang\nmenyelenggarakan urusan pemerintahan di bidang\nkeuangan.\n(6) Pengelolaan Barang Milik Negara yang dialihkan kepada\nOtorita Ibu Kota Nusantara sebagaimana dimaksud pada\nayat (5), menjadi hak dan kewajiban Otorita Ibu Kota\nNusantara sebagai pengguna barang terhitung sejak\ndialihkan.\n(71 Ketentuan lebih lanjut mengenai pengalihan sebagaimana\ndimaksud pada ayat (4) sampai dengan ayat (6) diatur\ndalam Peraturan Pemerintah.\nBAB VIII\nPARTISIPASI MASYARAKAT"
+   }
+  },
+  {
+   "id": "ID-H3050-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 37\n(1) Masyarakat dapat berpartisipasi dalam proses persiapan,\npembangunan, pemindahan, dan pengelolaan Ibu Kota\nNegara.\nSK No l16281A\n(2) Partisipasi . . .\nPRESIOEN\nREPUBLIK INDONESIA\n(21 Partisipasi masyarakat sebagaimana dimaksud pada\nayat (1), dapat dilakukan dalam bentuk:\na. konsultasi publik;\nb. musyawarah;\nc. kemitraan;\nd. . penyampaian aspirasi; dan/atau\ne. keterlibatan lain sesuai dengan ketentuan peraturan\nperundang-undangan.\nBAB IX\nPEMANTAUAN DAN PENINJAUAN"
+   }
+  },
+  {
+   "id": "ID-H3050-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 38\nDPR melalui alat kelengkapan yang menangani bidang legislasi\ndapat melakukan pemantauan dan peninjauan terhadap\npelaksanaan Undang-Undang ini berdasarkan mekanisme\ndalam undang-undang mengenai pembentukan peraturan\nperundang-undangan.\nBAB X\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H3050-A39",
+   "no": 39,
+   "noLabel": {
+    "id": "Pasal 39"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 39\n(1) Kedudukan, fungsi, dan peran Ibu Kota Negara tetap\nberada di Provinsi Daerah Khusus Ibukota Jakarta sampai\ndengan tanggal ditetapkannya pemindahan Ibu Kota\nNegara dari Provinsi Daerah Khusus Ibukota Jakarta ke\nIbu Kota Nusantara dengan Keputusan Presiden.\nSK No 116282 A\n(2) Otorita...\nPRES IDEN\nREPUBLIK INOONESIA\n'(21 Otorita Ibu Kota Nusantara mulai menyelenggarakan\nPemerintahan Daerah Khusus Ibu Kota Nusantara sejak\ntanggal penetapan pemindahan Ibu Kota Negara\nsebagaimana dimaksud pada ayat (1).\n(3) Pemerintah Daerah Provinsi Kalimantan Timur,\nPemerintah Daerah Kabupaten Kutai Kartanegara, dan\nPemerintah Daerah Kabupaten Penajam Paser Utara tetap\nmelaksanakan urusan pemerintahan daerah di wilayah\nsesuai dengan ketentuan peraturan perundang-\nundangan, kecuali kewenangan dan perizinan terkait\nkegiatan persiapan, pembangunan, dan pemindahan Ibu\nKota Negara, sampai dengan penetapan pemindahan Ibu\nKota Negara sebagaimana dimaksud pada ayat (1).\n(4) Pemerintah Daerah Provinsi Kalimantan Timur,\nPemerintah Daerah Kabupaten Kutai Kartanegara, dan\nPemerintah Daerah Kabupaten Penajam Paser Utara tetap\nmelakukan pemungutan pajak dan retribusi daerah sesuai\ndengan ketentuan peraturan perundang-undangan\nsampai dengan penetapan pemindahan Ibu Kota Negara\nsebagaimana dimaksud pada ayat (1).\nBAB XI\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H3050-A40",
+   "no": 40,
+   "noLabel": {
+    "id": "Pasal 40"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 40\n(1) Pada saat Undang-Undang ini mulai berlaku, ketentuan:\na Pasal 1 angka 3 Undang-Undang Nomor 25\nTahun 1956 tentang Pembentukan Daerah-Daerah\nOtonom Propinsi Kalimantan Barat, Kalimantan\nSelatan, dan Kalimantan Timur (Lembaran Negara\nRepublik Indonesia Tahun 1956 Nomor 65,\nTambahan Lembaran Negara Republik Indonesia\nNomor 1106);\nb.Pasal 5...\nSK No 116283 A\nPRESIDEN\nREPUBLIK INDONESIA\nb. Pasal 5 dan Pasal 6 Undang-Undang Nomor 47\nTahun 1999 tentang Pembentukan Kabupaten\nNunukan, Kabupaten Malinau, Kabupaten Kutai\nBarat, Kabupaten Kutai Timur, dan Kota Bontang\n(Lembaran Negara Republik Indonesia Tahun 1999\nNomor 175, Tambahan Lembaran Negara Republik\nIndonesia Nomor 3896); dan\nc. Pasal 3 dan Pasal 5 Undang-Undang Nomor 7\nTahun 2OO2 tentang Pembentukan Kabupaten\nPenajam Paser Utara di Provinsi Kalimantan Timur\n(Lembaran Negara Republik Indonesia Tahun 2002\nNomor 20 Tambahan Lembaran Negara Republik\nIndonesia Nomor 4 182),\ndiubah sesuai dengan ketentuan dalam Undang-\nUndang ini.\n(21 Ketentuan sebagaimana dimaksud pada ayat (1)\nditetapkan paling lama 2 (dua) tahun sejak Undang-\nUndang ini diundangkan.\nPasal 4 1\n(1) Sejak ditetapkannya Keputusan Presiden sebagaimana\ndimaksud dalam Pasal 39 ayat (1), ketentuan Pasal 3,\nPasal 4 kecuali fungsi sebagai daerah otonom, dan Pasal 5\nUndang-Undang Nomor 29 Tahun 2OO7 tentang\nPemerintahan Provinsi Daerah Khusus Ibukota Jakarta\nsebagai Ibukota Negara Kesatuan Republik Indonesia\ndicabut dan dinyatakan tidak berlaku.\n(21 Paling lama 2 (dua) tahun sejak Undang-Undang ini\ndiundangkan, Undang-Undang Nomor 29 Tat,ur, 2OO7\ntentang Pemerintahan Provinsi Daerah Khusus Ibukota\nJakarta sebagai Ibukota Negara Kesatuan Republik\nIndonesia diubah sesuai dengan ketentuan dalam\nUndang-Undang ini.\nSK No 116284A\n(3) Perubahan. . .\nPRESIDEN\nREPUBLIK INDONESIA\n(3) Perubahan undang-undang sebagaimana dimaksud pada\nayat (21 berlaku pada saat Keputusan Presiden mengenai\npemindahan Ibu Kota Negara dari Provinsi Daerah Khusus\nIbukota Jakarta ke Ibu Kota Nusantara sebagaimana\ndimaksud dalam Pasal 39 ayat (1) ditetapkan.\n(41 Perubahan undang-undang sebagaimana dimaksud pada\nayal (21 mengatur kekhususan Jakarta.\nPasaL 42\nPada saat Undang-Undang ini mulai berlaku:\na. seluruh ketentuan peraturan perundang-undangan yang\nbertentangan dengan ketentuan yang diatur khusus\ndalam Undang-Undang ini; dan\nb. peraturan perundang-undangan yang mengatur tentang\npemerintahan daerah,\ndinyatatan tidak berlaku dalam hal kegiatan persiapan,\npembangunan, dan pemindahan Ibu Kota Negara, serta\npenyelenggaraan Pemerintahan Daerah Khusus Ibu Kota\nNusantara."
+   }
+  },
+  {
+   "id": "ID-H3050-A43",
+   "no": 43,
+   "noLabel": {
+    "id": "Pasal 43"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 43\nPeraturan pelaksanaan sebagaimana dimaksud dalam Pasal 5\nayat (7) khususnya terkait dengan kegiatan persiapan,\npembangunan, dan pemindahan Ibu Kota Negara oleh Otorita\nIbu Kota Nusantara, Pasal 7 ayat (4), Pasal 11 ayat (1)\nkhususnya terkait dengan struktur organisasi dan pengisian\njabatan Otorita Ibu Kota Nusantara dalam pelaksanaan\nkegiatan persiapan, pembangunan, dan pemindahan Ibu Kota\nNegara, Pasal 15 ayat (21, Pasal 24 ayal (71, Pasal 25 ayat (3),\nPasal 26 ayat (21, dan Pasal 35, wajib ditetapkan dalam waktu\npaling lama 2 (dua) bulan sejak Undang-Undang ini\ndiundangkan."
+   }
+  },
+  {
+   "id": "ID-H3050-A44",
+   "no": 44,
+   "noLabel": {
+    "id": "Pasal 44"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 44\nUndang-Undang ini mulai berlaku pada tanggal diundangkan.\nAgar\nSK No 116285 A\nPRESIOEN\nUBLIK INOONESIA\nAgar setiap orang mengetahuinya, memerintahkan\npengundangan Undang-Undang ini dengan penempatannya\ndalam Lembaran Negara Republik Indonesia.\nDisahkan di Jakarta\npada tanggal 15 Februari 2022\nPRESIDEN REPUBLIK INDONESIA,\nttd\nJOKO WIDODO\nDiundangkan di Jakarta\npada tanggal 15 Februari 2022\nMENTERI HUKUM DAN HAK ASASI MANUSIA\nREPUBLIK INDONESIA,\nYASONNA H, LAOLY\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2022 NOMOR 41\nSalinan sesuai dengan aslinya\nKEMENTERIAN SEKRETARIAT NEGARA\nREPUBLIK INDONESIA\nPerundang-undangan dan\ntrasi Hukum,\nttd\nSK No 116357 A\n1a ilvanna Djaman\nI\nPRESIOEN\nREPUBLIK INDONESIA\nPENJEI,ASAN\nATAS\nUNDANG-UNDANG REPUBLIK INDONESIA\nNOMOR 3 TAHUN 2022\nTENTANG\nIBU KOTA NEGARA\nUMUM\nPenyusunan Undang-Undang ini dilatarbelakangi oleh ketiadaan\nUndang-Undang yang secara khusus mengatur tentang Ibu Kota Negara di\nIndonesia. Undang-Undang yang pernah ditetapkan selama ini adalah\nUndang-Undang yang mengatur fungsi ganda Jakarta, sebagai Daerah\nOtonom Provinsi sekaligus sebagai Ibu Kota Negara. Jakarta ditetapkan\nsebagai Ibu Kota Negara Republik Indonesia berdasarkan Penetapan\nPresiden Republik Indonesia Nomor 2 Tahun 1961 tentang Pemerintahan\nDaerah Khusus Ibu-Kota Jakarta Raya sebagaimana diubah dengan\nPenetapan Presiden Republik Indonesia Nomor 15 Tahun 1963. Setelah itu,\nberturut-turut, berbagai Undang-Undang kembali menetapkan Jakarta\nsebagai Daerah Khusus Ibu Kota (DKI), mulai dari Undang-Undang\nNomor 10 Tahun 1964 tentang Pernyataan Daerah Khusus lbukota Jakarta\nRaya tetap sebagai Ibukota Negara Republik Indonesia dengan nama\nJakarta, Undang-Undang Nomor 11 Tahun 1990 tentang Susunan\nPemerintahan Daerah Khusus Ibukota Negara Republik Indonesia Jakarta,\nUndang-Undang Nomor 34 Tahun 1999 tentang Pemerintahan Propinsi\nDaerah Khusus Ibukota Negara Republik Indonesia Jakarta, hingga terakhir\nyang kini masih berlaku hingga saat ini, yakni Undang-Undang Nomor 29\nTahun 2OO7 tentang Pemerintahan Provinsi Daerah Khusus Ibukota\nJakarta sebagai Ibukota Negara Kesatuan Republik Indonesia.\nSK No 116666 A\nDi samping . . .\nPRESIDEN\nREPUBLIK INOONESIA\nDi samping itu, penyusunan Undang-Undang ini juga didasari oleh\nurgensi pemindahan Ibu Kota Negara yang sebelumnya telah disampaikan\noleh Presiden Republik Indonesia pada Sidang Tahunan Majelis\nPermusyawaratan Rakyat Republik Indonesia pada tanggal\n16 Agustus 2019. Pemindahan tersebut didasari oleh terpusatnya kegiatan\nperekonomian di Jakarta dan Jawa yang mengakibatkan kesenjangan\nekonomi Jawa dan luar Jawa. Selain itu, terdapat hasil kajian yang\nmenyimpulkan bahwa Jakarta sudah tidak lagi dapat mengemban peran\nsebagai Ibu Kota Negara. Hal itu diakibatkan oleh pesatnya pertambahan\npenduduk yang tidak terkendali, penurunan kondisi dan fungsi lingkungan,\ndan tingkat kenyamanan hidup yang semakin menurun. Oleh karena itu,\npemindahan Ibu Kota Negara ke luar Jawa diharapkan dapat mendorong\npercepatan pengurangan kesenjangan dan peningkatan pertumbuhan\nperekonomian daerah di luar Jawa terutama Kawasan Timur Indonesia.\nPenyusunan Undang-Undang ini menjadi dasar pengaturan yang dapat\nmemenuhi harapan atas suatu bentuk Ibu Kota Negara yang ideal dan\nsebagai acuan bagi pembangunan dan penataan kawasan perkotaan\nlainnya di Indonesia.\nKata \"Nusantara\" telah dikenal luas tidak hanya di Indonesia. Secara\nsemantik historis pemaknaan Nusantara beragam, namun pada umumnya\ndiartikan sebagai lautan di antara pulau dan pulau. Dalam berbagai versi\nsejarah, Nusantara masuk dalam lingua franca dan menjadi bahasa ikonik\nyang dikenal dunia sebagai kata ganti kepulauan Indonesia.\nNusantara di dalam Undang-Undang ini dideskripsikan sebagai\nkonseptualisasi atas wilayah geograh lndonesia dengan konstituenta pulau-\npulau yang disatukan oleh lautan. Terbesit di dalamnya pengakuan\nkemajemukan geografis yang disertai kemajemukan budaya.\nMaka, Nusantara adalah sebuah konsep kesatuan yang\nmengakomodasi kekayaan kemajemukan Indonesia. Dengan nama\nNusantara, Ibu Kota Negara Kesatuan Republik Indonesia\nmerepresentasikan realitas tersebut. Realitas kekayaan kemajemukan\nIndonesia itu menjadi modal sosial untuk memajukan kesejahteraan rakyat\nyang berkeadilan, menuju masa depan Indonesia maju, tangguh, dan\nberkelanjutan.\nPembangunan dan pengelolaan Ibu Kota Nusantara memiliki\nvisi Ibu Kota Negara sebagai kota dunia untuk semua yang bertujuan utama\nmewujudkan kota ideal yang dapat menjadi acuan (role model) bagi\npembangunan dan pengelolaan kota di Indonesia dan dunia.\nVisi besar tersebut bertujuan untuk mewujudkan Ibu Kota Nusantara\nsebagai:\na. kota . . .\nSK No l16289A\nPRESIDEN\nREPUBLIK INDONESIA\n-3\na. kota berkelanjutan di dunia, yang menciptakan kenyamanan,\nkeselarasan dengan alam, ketangguhan melalui efisiensi penggunaan\nsumber daya dan rendah karbon;\nb. penggerak ekonomi Indonesia di masa depan, yang memberi peluang\nekonomi untuk semua melalui pengembangan potensi, inovasi, dan\nteknologi; serta\nc. simbol identitas nasional, merepresentasikan keharmonisan dalam\nkeragaman sesuai dengan Bhinneka Tunggal Ika.\nMengingat pentingnya peran dan fungsi Ibu Kota Negara bagi\nIndonesia, pengaturan mengenai perencanaan, pembangunan, dan\npemindahan Ibu Kota Negara, serta penyelenggaraan Pemerintahan Daerah\nKhusus Ibu Kota Nusantara yang dituangkan dalam Undang-Undang ini\nmerupakan bagian dari upaya Pemerintah Pusat untuk merealisasikan\nempat tujuan bernegara yang diamanatkan oleh Undang-Undang Dasar\nNegara Republik Indonesia Tahun 1945, yakni melindungi segenap bangsa\nIndonesia dan seluruh tumpah darah Indonesia, memajukan kesejahteraan\numum, mencerdaskan kehidupan bangsa, dan ikut melaksanakan\nketertiban dunia yang berdasarkan kemerdekaan, perdamaian abadi, dan\nkeadilan sosial.\nDalam Undang-Undang ini, penyelenggaraan pemerintahan daerah di\nIbu Kota Nusantara dilakukan dengan memberikan pengaturan atas\nberbagai kekhususan yang berbeda dengan penyelenggaraan pemerintahan\ndaerah yang ada selama ini. Penyelenggaraan pemerintahan yang khusus\ndi Ibu Kota Nusantara tersebut dimungkinkan dengan mengacu pada\nPasal 18B ayat (1) Undang-Undang Dasar Negara Republik Indonesia\nTahun 1945. Dengan berbagai kekhususan yang ada di Ibu Kota Nusantara,\nbaik yang terkait dengan penyelenggaraan Pemerintahan Daerah Khusus\nIbu Kota Nusantara maupun penyelenggaraan kegiatan persiapan,\npembangunan, dan pemindahan Ibu Kota Negara, diharapkan berbagai\npermasalahan, antara lain, ketidakjelasan pembagian urusan, tarik\nmenarik, dan tumpang tindih kewenangan antara Pemerintah Pusat dan\npemerintah daerah penyelenggara Ibu Kota Negara dalam berbagai hal dan\nurusan pemerintahan tidak lagi terjadi dalam pelaksanaannya.\nII. PASAL. . .\nSK No 116290A\nPRESIDEN\nREPUBLIK INDONESIA\nII. PASAL DEMI PASAL\nPasal 1\nCukup jelas.\nPasal 2\nHuruf a\nHuruf b\nHuruf c\nYang dimaksud dengan \"kota berkelanjutan di dunia\" adalah\nkota yang mengelola sumber daya secara tepat guna dan\nmemberikan pelayanan secara efektif dalam pemanfaatan\nsumber daya air dan energi yang efisien, pengelolaan sampah\nberkelanjutan, moda transportasi terpadu, lingkungan layak\nhuni dan sehat, dan lingkungan alam dan binaan yang sinergis,\nyang di dalamnya juga menetapkan Ibu Kota Nusantara sebagai\nkota di dalam hutan (forest citgl untuk memastikan kelestarian\nlingkungan dengan minimal 75% (tujuh puluh lima persen)\nkawasan hijau, serta rencana Ibu Kota Nusantara dijalin\ndengan konsep masterplan yang berkelanjutan untuk\nmenyeimbangkan ekologi alam, kawasan terbangun, dan\nsistem sosial yang ada secara harmonis.\nYang dimaksud dengan \"penggerak ekonomi Indonesia di masa\ndepan\" adalah sebagai kota yang progresif, inovatif, dan\nkompetitif dalam aspek teknologi, arsitektur, tata kota, dan\nsosial. Ibu Kota Nusantara menetapkan strategi ekonomi\nsuperlub yang terkait dengan strategi tata ruang untuk\nmelampaui potensi saat ini, memastikan sinergi yang produktif\nantara tenaga kerja, infrastruktur, sumber daya, dan jaringan,\nserta memaksimalkan peluang kerja bagi seluruh penduduk\nkota.\nYang dimaksud dengan usimbol identitas nasional\" adalah kota\nyang mewujudkan jati diri, karakter sosial, persatuan, dan\nkebesaran bangsa yang mencerminkan kekhasan Indonesia.\nPasal 3...\nSK No 116291 A\nPRESIOEN\nFIEPI.JBLIK INDONESIA\n5-\nPasal 3\nAyat (1)\nHuruf a\nHuruf b\nHuruf c\nYang dimaksud dengan \"asas ketuhanan\" adalah bahwa\nsetiap materi muatan Undang-Undang ini berfungsi\nmemberikan pelindungan dan penghormatan atas\nkebebasan beragama dan menjalankan ibadah bagi\nmasyarakat pada khususnya di lbu Kota Nusantara dan\nwilayah sekitarnya. Ibu Kota Nusantara dirancang sebagai\ntempat yang mengedepankan toleransi beragama dan\nmenjamin keselarasan dalam pelaksanaan nilai-nilai\nketuhanan.\nYang dimaksud dengan \"asas pengayoman\" adalah bahwa\nsetiap materi muatan Undang-Undang ini berfungsi\nmemberikan pelindungan untuk menciptakan\nketenteraman masyarakat pada khususnya di Ibu Kota\nNusantara dan wilayah sekitarnya dan pada umumnya di\nseluruh wilayah Negara Kesatuan Republik Indonesia. Ibu\nKota Nusantara dirancang sebagai tempat yang\nmengedepankan kelayakan hidup yang aman dan\nterjangkau, yang berfokus pada masyarakat dengan\nkonsep pembangunan dan perumahan yang memastikan\nlingkungan yang aman, sehat, dan adil bagi penduduk di\nsaat ini dan yang akan datang.\nYang dimaksud dengan 'asas kemanusiaan\" adalah\nbahwa setiap materi muatan Undang-Undang ini\nmencerminkan pelindungan dan penghormatan hak asasi\nmanusia serta harkat dan martabat setiap warga negara\ndan penduduk Indonesia secara proporsional dalam\npenyelenggaraan Pemerintahan Daerah Khusus Ibu Kota\nNusantara maupun dalam pelaksanaan kegiatan\npersiapan, pembangunan, dan pemindahan Ibu Kota\nNegara.\nHuruf d. . .\nSK No 116292 A\nPRESIDEN\nREPUBLIK INDONESIA\nHuruf d\nHuruf e\nHuruf f\nHuruf g\nYang dimaksud dengan \"asas kebangsaan\" adalah bahwa\nsetiap materi muatan Undang-Undang ini mencerminkan\nsifat dan watak bangsa Indonesia yang majemuk dengan\ntetap menjaga prinsip Negara Kesatuan Republik\nIndonesia.\nYang dimaksud dengan \"asas kenusantaraan\" adalah\nbahwa setiap materi muatan Undang-Undang ini\nsenantiasa memperhatikan kepentingan seluruh wilayah\nIndonesia yang berdasarkan Pancasila dan Undang-\nUndang Dasar Negara Republik Indonesia Tahun 1945.\nYang dimaksud dengan \"asas kebinekatunggalikaan\"\nadalah bahwa setiap materi muatan Undang-Undang ini\ndan penyelenggaraan Pemerintahan Daerah Khusus lbu\nKota Nusantara maupun pelaksanaan kegiatan\npersiapan, pembangunan, dan pemindahan Ibu Kota\nNegara, memperhatikan keragaman penduduk, agama,\nsuku dan golongan, kondisi khusus daerah serta budaya\ndalam kehidupan bermasyarakat, berbangsa, dan\nbernegara baik di Ibu Kota Nusantara maupun wilayah\nlainnya di Indonesia. Juga untuk merepresentasikan Ibu\nKota Nusantara yang memelihara kekayaan budaya,\nmemperkuat inklusi sosial, dan memberikan rasa gotong\nroyong di tengah masyarakat yang beragam.\nYang dimaksud dengan \"asas keadilan\" adalah bahwa\nsetiap materi muatan Undang-Undang ini mencerminkan\nkeadilan secara proporsional bagi setiap warga\nnegara, baik dalam kaitannya dengan penyelenggaraan\nPemerintahan Daerah Khusus Ibu Kota Nusantara\nmaupun dalam pelaksanaan kegiatan persiapan,\npembangunan, dan pemindahan Ibu Kota Negara. Asas\nkeadilan merupakan landasan dari kesetaraan yang akan\ndiwujudkan di Ibu Kota Nusantara dengan strategi\nekonomi yang berorientasi pada masa depan dan akses\nyang adil ke pendidikan, layanan kesehatan, serta\npeluang kerja.\nHuruf h . . .\nSK No 116293 A\nPRESIDEN\nREPUELIK INDONESIA\nHuruf h\nHuruf i\nHurufj\nYang dimaksud dengan \"asas kesamaan kedudukan\ndalam hukum dan pemerintahan\" adalah bahwa dalam\nsetiap materi muatan Undang-Undang ini sebagai\njaminan kepastian hukum untuk mewujudkan ketertiban\nmasyarakat, terutama masyarakat di Ibu Kota Nusantara\ndan daerah sekitarnya.\nYang dimaksud dengan \"asas ketertiban dan kepastian\nhukum\" adalah bahwa setiap materi muatan Undang-\nUndang ini ditujukan untuk mewujudkan ketertiban\ndalam masyarakat melalui jaminan kepastian hukum\nbaik dalam kaitannya dengan penyelenggaraan\nPemerintahan Daerah Khusus Ibu Kota Nusantara\nmaupun dalam pelaksanaan kegiatan persiapan,\npembangunan, dan pemindahan Ibu Kota Negara.\nYang dimaksud dengan \"asas keseimbangan, keserasian,\ndan keselarasan\" adalah bahwa setiap materi muatan\nUndang-Undang ini mencerminkan keseimbangan,\nkeserasian, dan keselarasan, antara kepentingan\nindividu, masyarakat, dan kepentingan bangsa dan\nnegara, termasuk di dalamnya keseimbangan ekologis\nyang menghormati dan merangkul alam melalui integrasi\ndan pelestarian bentang alam yang ada, dan mendesain\nsesuai kondisi alam termasuk memprioritaskan kawasan\nlindung dan ruang hijau. Keserasian dan keselarasan di\nIbu Kota Nusantara juga diwujudkan melalui\nketerhubungan, keaktifan, dan kemudahan akses\nmasyarakat di Ibu Kota Nusantara, dengan strategi\nmobilitas terintegrasi yang menempatkan warga di garis\ndepan dengan menekankan kemudahan berjalan kaki dan\ntransportasi umum.\nHurufk. . .\nSK No l16294A\nPRES IDEN\nREPUBLIK INDONESIA\nHuruf k\nYang dimaksud dengan \"asas efektivitas dan efisiensi\npemerintahan\" adalah bahwa setiap materi muatan\nUndang-Undang ini bertujuan untuk mewujudkan Ibu\nKota Nusantara sebagai kota yang nyaman dan efisien\nuntuk tata kelola pemerintahan, bisnis, dan penduduk\nmelalui informasi, komunikasi, dan teknologi, melalui\npenerapan kota cerdas.\nAyat (2)\nHuruf a\nYang dimaksud dengan \"kesetaraan\" adalah prinsip\nuntuk menciptakan kota dengan peluang ekonomi untuk\nsemua, sehingga terwujud pendapatan per kapita yang\ntinggi, rendahnya kesenjangan ekonomi, serta\nmenciptakan keharmonisan dan keunikan dalam bingkai\nBhinneka T\\rnggal Ika.\nHuruf b\nYang dimaksud dengan ukeseimbangan ekologi\" adalah\nprinsip dalam mendesain kota sesuai kondisi alam\ntermasuk memprioritaskan kawasan lindung dan ryang\nhijau.\n' Huruf c\nYang dimaksud dengan \"ketahanan\" adalah prinsip dalam\nrangka mewujudkan infrastruktur perkotaan dengan\nsistem sirkuler dan tangguh.\nHuruf d\nYang dimaksud dengan \"keberlanjutan pembangunan\"\nadalah prinsip untuk mewujudkan kota hemat energi,\npemanfaatan energi terbarukan, dan rendah emisi\nkarbon.\nHuruf e\nYang dimaksud dengan \"kelayakan hidup\" adalah prinsip\nuntuk menciptakan kota yang aman, nyaman, dan\nterjangkau.\nHuruff. . .\nSK No 105716 A\nPRESIDEN\nBLIK INDONESIA\n-9\nHuruf f\nYang dimaksud dengan \"konektivitas\" adalah prinsip\ndalam rangka mewujudkan kemudahan akses dan\nkecepatan, serta memprioritaskan mobilitas aktif\npenduduk.\nHuruf g\nYang dimaksud dengan ukota cerdas\" adalah prinsip yang\nbertujuan menciptakan kota yang nyaman dan efisien\nuntuk tata kelola pemerintahan, bisnis, dan penduduk\nmelalui informasi, komunikasi, dan teknologi.\nPasal 4\nAyat (1)\nHuruf a\nHuruf b\nPembentukan Ibu Kota Nusantara dalam Pasal ini tidak\nserta merta mengalihkan kedudukan, fungsi, dan peran\nIbu Kota Negara ke Ibu Kota Nusantara. Kedudukan,\nfungsi, dan peran Ibu Kota Negara tetap berada di Provinsi\nDaerah Khusus Ibukota Jakarta sampai dengan\ndikeluarkannya Keputusan Presiden tentang penetapan\npemindahan Ibu Kota Negara ke Ibu Kota Nusantara.\nSejak Undang-Undang ini diundangkan, Otorita Ibu Kota\nNusantara yang dibentuk berdasarkan ketentuan Pasal ini\nbaru akan menyelenggarakan dan bertanggung jawab\nterhadap kegiatan pelaksanaan kegiatan persiapan,\npembangunan, dan pemindahan Ibu Kota Negara.\nOtorita Ibu Kota Nusantara mulai menyelenggarakan\nPemerintahan Daerah Khusus lbu Kota Nusantara setelah\ndikeluarkannya Keputusan Presiden tentang penetapan\npemindahan Ibu Kota Negara ke Ibu Kota Nusantara.\nAyat(2) ...\nSK No 116296 A\nPRESIOEN\nREPUBLIK INDONESIA\nAyat (2)\nCukup jelas.\nAyat (3)\nCukup jelas.\nPasal 5\nAyat (1)\nCukup jelas.\nAyat (2)\nSebagai salah satu bentuk kekhususan, Pemerintahan Daerah\nKhusus Ibu Kota Nusantara hanya diselenggarakan oleh Otorita\nIbu Kota Nusantara tanpa keberadaan Dewan Perwakilan Rakyat\nDaerah sebagaimana berlaku pada bentuk pemerintahan daerah\nsecara umum.\nAyat (3)\nCukup jelas.\nAyat (4)\nSebagai salah satu bentuk kekhususan, kepala daerah di Ibu\nKota Nusantara tidak dipilih melalui pemilihan umum namun\nditunjuk, diangkat, dan diberhentikan oleh Presiden dengan\nsebelumnya berkonsultasi dengan DPR.\nYang dimaksud dengan \"berkonsultasi dengan DPR' adalah\nberkonsultasi dengan alat kelengkapan DPR yang ditunjuk\ndan/atau diberi kewenangan untuk hal tersebut.\nAyat (5)\nYang dimaksud dengan \"urusan pemerintahan pusat\" adalah\nkewenangan absolut yang sepenuhnya menjadi kewenangan\nPemerintah Pusat yang mencakup urusan pemerintahan di\nbidang politik luar negeri, pertahanan dan keamanan, yustisi,\nmoneter dan fiskal nasional, dan agama.\nTermasuk lingkup fiskal nasional yang dikecualikan dari urusan\nPemerintahan Daerah Khusus Ibu Kota Nusantara adalah\nkebijakan perpajakan yang dipungut oleh Pemerintah Pusat.\nSK No 116297A\nAyat(6) ...\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (6)\nAyat (7)\nCukup jelas.\nSebagai salah satu bentuk kekhususan, Otorita lbu Kota\nNusantara memiliki kewenangan menetapkan sendiri peraturan\ndalam rangka penyelenggaraan Pemerintahan Daerah Khusus\nIbu Kota Nusantara, kecuali peraturan yang harus mendapatkan\npersetujuan DPR sebagaimana diatur dalam Undang-Undang\nini.\nPasal 6\nCukup jelas.\nPasal 7\nCukup jelas.\nPasal 8\nPasal 9\nCukup jelas.\nPasal l0\nDengan mengesampingkan peraturan perundang-undangan yang\nmengatur tentang pemerintahan daerah, di Ibu Kota Nusantara\ndibentuk Otorita Ibu Kota Nusantara yang diberi kewenangan untuk\nmengatur dan melaksanakan fungsi pemerintahan daerah dengan\nketentuan yang diatur dengan Undang-Undang ini, termasuk tetapi\ntidak terbatas pada pelaksanaan persiapan, pembangunan,\npemindahan, dan pengelolaan Ibu Kota Negara.\nAyat (1)\nMekanisme pemilihan Kepala Otorita Ibu Kota Nusantara dan\nWakil Kepala Otorita Ibu Kota Nusantara dilakukan berbeda\ndengan mekanisme pemilihan kepala daerah lainnya.\nAyat(2) ...\nSK No 116298 A\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (2)\nCukup jelas.\nAyat (3)\nKepala Otorita Ibu Kota Nusantara dan Wakil Kepala Otorita Ibu\nKota Nusantara yang pertama kali diangkat oleh Presiden setelah\ndiundangkannya Undang-Undang ini ditunjuk dan diangkat oleh\nPresiden tanpa melalui mekanisme konsultasi dengan DPR\nsebagaimana dimaksud dalam ketentuan Pasal 5 ayat (4).\nPasal 11\nAyat (1)\nAyat (2)\nPengaturan mengenai struktur organisasi, tugas, wewenang,\ndan tata kerja termasuk mengatur mengenai penyelenggaraan\nurusan pemerintahan yang menjadi kewenangan Otorita\nIbu Kota Nusantara, dan pelaksanaan kegiatan persiapan,\npembangunan, dan pemindahan Ibu Kota Negara.\nStruktur organisasi dan pengisian jabatan Otorita Ibu Kota\nNusantara dilakukan dengan memperhatikan tahapan\npelaksanaan tugas dan fungsi yang dilaksanakan oleh Otorita\nIbu Kota Nusantara. Setelah Undang-Undang ini diundangkan\nsampai dengan tanggal penetapan pemindahan Ibu Kota Negara\nke Ibu Kota Nusantara, Otorita Ibu Kota Nusantara hanya\nbertanggung jawab pada tugas dan fungsi sebagai pelaksana\nkegiatan persiapan, pembangunan, dan pemindahan Ibu Kota\nNegara. Hal ini berarti bahwa tugas dan fungsi dalam\npenyelenggaraan Pemerintahan Daerah Khusus Ibu Kota\nNusantara baru mulai dilaksanakan oleh Otorita Ibu Kota\nNusantara setelah tanggal penetapan pemindahan Ibu Kota\nNegara ke Ibu Kota Nusantara. Oleh karenanya, struktur\norganisasi dan pengisian jabatan Otorita Ibu Kota Nusantara\nmenyesuaikan dengan penahapan pelaksanaan tugas dan\nfungsinya tersebut.\nSK No 116299 A\nPasal 12. . .\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 12\nAyat (l)\nKewenangan yang dimiliki Otorita Ibu Kota Nusantara\nmerupakan kewenangannya sebagai penyelenggara\npemerintahan daerah dengan kekhususan yang membuatnya\nberbeda dengan pemerintahan daerah pada umumnya, namun\ndengan tetap tunduk dan sesuai dengan ketentuan Undang-\nUndang Dasar Negara Republik Indonesia Tahun 1945.\nAyat (21\nTermasuk di dalam ketentuan ini adalah pemberian insentif\nfiskal dan/atau non-fiskal yang dapat diusulkan oleh Otorita Ibu\nKota Nusantara kepada Pemerintah Pusat.\nAyat (3)\nCukup jelas.\nPasal 13\nCukup jelas.\nPasal 14\nCukup jelas.\nPasal 15\nAyat (1)\nCukup jelas.\nAyat (2)\nRencana Induk Ibu Kota Nusantara menjadi acuan bagi\npen]'usunan pengaturan penataan ruang Rencana Tata Ruang\nKSN Ibu Kota Nusantara.\nAyat (3)\nCukup jelas.\nAyat(4) ...\nSK No l16300A\nPRESIDEN\nREPUBLIK INDONESIA\n-t4-\nAyat (a)\nCukup jelas.\nPasal 16\nAyat (1)\nMekanisme pengadaan Tanah dilakukan dengan memperhatikan\nHAT masyarakat dan HAT masyarakat adat.\nAyat (2)\nCukup jelas.\nAyat (3)\nPemberian hak pengelolaan kepada Otorita Ibu Kota Nusantara\ndilakukan dengan memperhatikan HAT masyarakat dan HAT\nmasyarakat adat.\nAyat (4)\nCukup jelas.\nAyat (5)\nCukup jelas.\nAyat (6)\nCukup jelas.\nAyat (71\nCukup jelas.\nAyat (8)\nPerpanjangan dan pembaruan HAT dapat diberikan secara\nsekaligus setelah 5 (lima) tahun melaksanakan HAT di atas hak\npengelolaan.\nAyat (9)\nCukup jelas.\nAyat (10)\nCukup jelas.\nAyat(11) ...\nSK No l1630l A\nPRESIDEN\nREPI,JBLIK INDONESIA\nAyat (11)\nCukup jelas.\nAyat (12)\nYang dimaksud dengan \"pengalihan HA? adalah pengalihan\nHAT dengan mekanisme jual beli.\nPersetujuan Kepala Otorita Ibu Kota Nusantara tidak\ndimaksudkan untuk menghilangkan hak keperdataan terhadap\nkepemilikan Tanah. Pemilik yang ingin menjual Tanahnya tetap\ndapat melakukan transaksi jual beli Tanah, namun dengan\nketentuan bahwa harus berdasarkan persetqjuan Kepala Otorita\nIbu Kota Nusantara dan pihak sebagai pembeli Tanahnya\nterbatas pada Pemerintah Pusat, termasuk di dalamnya Otorita\nIbu Kota Nusantara. Ketentuan ini ditujukan untuk menjamin\nkepastian hukum dalam rangka persiapan, pembangunan, dan\npemindahan Ibu Kota Negara, serta penyelenggaraan\nPemerintahan Daerah Khusus Ibu Kota Nusantara.\nPasal 17\nCukup jelas.\nPasal 18\nAyat (1)\nPelindungan dan pengelolaan lingkungan hidup pada seluruh\nkegiatan pembangunan di Ibu Kota Nusantara termasuk tetapi\ntidak terbatas pada analisis mengenai dampak lingkungan.\nAyat (2)\nCukup jelas.\nAyat (3)\nPelindungan dan pengelolaan lingkungan hidup yang diatur\ndalam ketentuan ini tidak hanya terbatas pada Ibu Kota\nNusantara, namun juga mengantisipasi pengelolaan aglomerasi\nperkotaan di mana Ibu Kota Nusantara menjadi bagian di\ndalamnya.\nSK No 116302A\nPasal 19. . .\nPRESIDEN\nREPI,JBLIK INDONESIA\nPasal 19\nCukup jelas.\nPasal 2O\nCukup jelas.\nPasal 2 1\nCukup jelas.\nPasal 22\nAyat (l)\nCukup jelas.\nAyat (2)\nCukup jelas.\nAyat (3)\nCukup jelas.\nAyat (a)\nPemerintah menyiapkan lahan untuk perwakilan negara asing\ndan perwakilan organisasi/lembaga internasional. Lahan untuk\nperwakilan negara asing diberikan berdasarkan asas reprositas,\ntermasuk memberikan insentif yang bersifat non-material untuk\nproses pemindahannya ke Ibu Kota Nusantara. Diharapkan\ndalam jangka waktu 10 (sepuluh) tahun sejak pemindahan Ibu\nKota Negara, perwakilan negara asing dan perwakilan\norganisasi/ lembaga internasional sudah dapat berkedudukan di\nIbu Kota Nusantara.\nAyat (s)\nCukup jelas.\nSK No 116303 A\nPasal 23...\nPRESIDEN\nREPUELIK INOONESIA\n-t7-\nPasal 23\nCukup jelas.\nPasal 24\nAyat (1)\nHuruf a\nCukup jelas.\nHuruf b\nUntuk menjaga kesinambungan liskal dilakukan upaya-\nupaya untuk mendapatkan sumber-sumber pendapatan\nlain yang sah sesuai ketentuan peraturan perundang-\nundangan antara lain berasal dari:\nI . pemanfaatan Barang Milik Negara dan/ atau\npemanfaatan aset dalam penguasaan;\n2. penggunaan skema kerja sama pemerintah dan badan\nusaha; dan\n3. keikutsertaan pihak lain termasuk:\na) penugasan badan usaha milik negara;\nb) penguatan peran badan hukum milik negara; dan\nc) kontribusi swasta.\nAyat (2)\nCukup jelas.\nAyat (3)\nRencana kerja pemerintah sebagaimana dimaksud pada ayat ini,\ndijadikan pedoman dalam penyusunan Anggaran Pendapatan\ndan Belanja Negara setiap tahunnya.\nPenetapan jangka waktu untuk alokasi pendanaan program\nprioritas nasional dilakukan dalam rangka menjaga\nkesinambungan fiskal dan pembangunan IKN.\nAyat(4) ...\nSK No 116305 A\nPRES IDEN\nREPUBLIK INDONESIA\nAyat (4)\nYang dimaksud dengan \"pajak khusus\" adalah pajak yang\nberlaku khusus di Ibu Kota Nusantara.\nYang dimaksud dengan \"pungutan khusus\" adalah pungutan\nyang berlaku khusus di Ibu Kota Nusantara termasuk pungutan\nterhadap layanan yang diberikan oleh Otorita Ibu Kota\nNusantara.\nPungutan khusus di Ibu Kota Nusantara dapat menjadi\npenerimaan negara bukan pajak sesuai dengan ketentuan\nperaturan perundang-undangan.\nAyat (5)\nPajak dan retribusi daerah sebagaimana diatur dalam peraturan\nperundang-undangan berlaku secara mutatis mutandis sebagai\npajak khusus dan pungutan khusus di Ibu Kota Nusantara,\ntermasuk tetapi tidak terbatas pada ketentuan mengenai objek,\nsubjek, wajib paj ak/ retribusi, dasar pengenaan, dan tarif pajak\ndaerah dan retribusi daerah.\nAyat (6)\nYang dimaksud dengan \"mendapat persetujuan DPR' adalah\nmendapat persetujuan dari alat kelengkapan DPR yang ditunjuk\ndan/atau diberi kewenangan untuk itu.\nAyat (7)\nCukup jelas.\nPasal 25\nAyat (1)\nKepala Otorita Ibu Kota Nusantara selaku pengguna\nanggaran/ pengguna barang men5rusun rencana kerja dan\nanggaran Ibu Kota Nusantara dengan memperhatikan antara\nlain Rencana Induk Ibu Kota Nusantara, RPJMN dan/atau\nrencana anggaran tahunan, serta sejalan dengan mekanisme\nAnggaran Pendapatan dan Belanja Negara.\nSK No 116306A\nDalam\nPRES IOEN\nREPUBLIK INDONESIA\nDalam hal terdapat perubahan terhadap Rencana Induk Ibu\nKota Nusantara yang berdampak terhadap penyesuaian\nanggaran/pendanaan, maka penyesuaian anggaran/pendanaan\ndilaksanakan dengan mekanisme penganggaran sesuai\nperaturan perundang-undangan, antara lain peraturan\nperundang-undangan yang mengatur mengenai penyusunan\nrencana kerja dan anggaran pada kementerian/lembaga.\nRencana kerja dan anggaran Ibu Kota Nusantara mencakup\nrencana pendapatan dan belanja lbu Kota Nusantara.\nAyat (2)\nCukup jelas.\nAyat (3)\nCukup jelas.\nPasal 26\nAyat (1)\nPelaksanaan dan pertanggungiawaban anggaran Ibu Kota\nNusantara dilakukan dengan mengikuti mekanisme Anggaran\nPendapatan dan Belanja Negara.\nAyat (2)\nCukup jelas.\nPasal 27\nPengalihan pengelolaan Barang Milik Negara kepada menteri yang\nmenyelenggarakan urusan pemerintahan di bidang keuangan\nditujukan dalam rangka optimalisasi pengelolaan Barang Milik\nNegara.\nPasal 28\nAyat (1)\nCukup jelas.\nSK No 116307A\nAyat(2) ...\nPRES IDEN\nREPUBLIK INDONESIA\nAyat (21\nPengelolaan Barang Milik Negara antara lain meliputi kegiatan\nperencanaan kebutuhan, penggunaan, pemanfaatan,\npemeliharaan, penatausahaan, penilaian, pemindahtanganan,\ndan penghapusan.\nHuruf a\nYang dimaksud dengan \"pemindahtanganan\" adalah\npengalihan kepemilikan Barang Milik Negara.\nHuruf b\nYang dimaksud dengan \"pemanfaatan\" adalah\npendayagunaan Barang Milik Negara yang tidak\ndigunakan untuk penyelenggaraan tugas dan fungsi\nkementerian/lembaga dan/atau optimalisasi Barang Milik\nNegara dengan tidak mengubah status kepemilikan.\nAyat (3)\nCukup jelas.\nPasal 29\nAyat (1)\nHuruf a\nCukup jelas.\nHuruf b\nYang dimaksud dengan \"tender\" adalah termasuk beautg\ncontest sesuai dengan ketentuan peraturan perundang-\nundangan.\nAyat (2)\nCukup jelas.\nAyat (3)\nCukup jelas.\nAyat (4)\nCukup jelas.\nSK No 116308 A\nAyat(5) ...\nPRESIDEN\nREPUBLIK INDONESIA\n-2t -\nAyat (5)\nHuruf a\nCukup jelas.\nHuruf b\nYang dimaksud dengan \"tender'' adalah termasuk beautg\ncontest sesuai dengan ketentuan peraturan perundang-\nundangan.\nPasal 30\nAyat (1)\nPenetapan dilakukan dengan memperhatikan HAT masyarakat\ndan HAT masyarakat adat.\nHuruf a\nBarang Milik Negara digunakan oleh Otorita Ibu Kota\nNusantara dan/ atau kementerian/ lembaga.\nHuruf b\nCukup jelas.\nAyat (21\nTermasuk dalam Barang Milik Negara adalah Tanah yang\nsebelumnya ditetapkan sebagai aset dalam penguasaan Otorita\nIbu Kota Nusantara yang kemudian dialihkan penetapannya\nmenjadi Barang Milik Negara karena akan digunakan untuk\npenyelenggaraan pemerintahan.\nAyat (3)\nCukup jelas.\nPasal 31\nCukup jelas.\nSK No 116309 A\nPasal 32...\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 32\nHuruf a\nBarang Milik Negara digunakan oleh Otorita Ibu Kota\nNusantara dan/ atau kementerian / lembaga.\nHuruf b\nCukup jelas.\nPasal 33\nCukup jelas.\nPasal 34\nCukup jelas.\nPasal 35\nCukup jelas.\nPasal 36\nAyat (1)\nCukup jelas.\nAyat (2)\nCukup jelas.\nAyat (3)\nCukup jelas.\nAyat (a)\nYang dimaksud dengan ukegiatan persiapan dan/atau\npembang,unan Ibu Kota Negara yang sebelumnya dilaksanakan\noleh kementerian/ lembaga\" adalah kegiatan persiapan dan/atau\npembangunan Ibu Kota Negara yang sebelum tahun 2023 telah\ndilaksanakan oleh kementerian/lembaga dengan bekerja sama\ndengan pihak lain berdasarkan perjanjian tahun jamak.\nSK No l163l0A\nApabila. . .\nPRES IDEN\nREPUELIK INOONESIA\nApabila pada tahun 2023 masa perjanjian tahun jamak tersebut\nmasih berlangsung, maka pelaksanaannya dapat tetap dilakukan\noleh kementerian/lembaga sampai dengan berakhimya masa\npe{anjian tahun jamak, atau dialihkan kepada Otorita Ibu Kota\nNusantara. Pelaksanaan kegiatan yang tetap dilakukan oleh\nkementerian/lembaga dikoordinasikan oleh Otorita Ibu Kota\nNusantara.\nAyat (5)\nCukup jelas.\nAyat (6)\nCukup jelas.\nAyat (7)\nCukup jelas.\nPasal 37\nCukup jelas.\nPasal 38\nCukup jelas.\nPasal 39\nCukup jelas.\nPasal 40\nCukup jelas.\nPasal 41\nCukup jelas.\nSK No l16311A\nPasal 42. . .\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 42\nCukup jelas.\nPasal 43\nCukup jelas.\nPasal 44\nCukup jelas.\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 6766\nSK No 116359 A"
+   }
+  }
+ ]
+}

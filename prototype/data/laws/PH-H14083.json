@@ -1,0 +1,62 @@
+{
+ "id": "PH-H14083",
+ "title": {
+  "zh": null,
+  "en": "An Act Amending Section Two thousand Two Hundred of Act Numbered Two thousand Seven Hundred and Eleven, Otherwise Known as the Administrative Code of the Philippine Islands.",
+  "orig": "An Act Amending Section Two thousand Two Hundred of Act Numbered Two thousand Seven Hundred and Eleven, Otherwise Known as the Administrative Code of the Philippine Islands."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1928-12-01",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3450",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1389,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1928/act_3450_1928.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03450_1928_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03450_1928_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14083-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section two thousand two hundred of Act Numbered Two thousand seven hundred eleven,\notherwise known as the Administrative Code of the Philippine Islands, is hereby amended to read as follows:\n\"Section 2200. Nominations to be made by president.-Nominations to all places that may be filled by\nappointment of the president shall be by him submitted to the council at its first meeting after his assumption\nof office; and if a vacancy occurs in any such place during the term of office of the president he shall submit a\nnomination therefor at the next regular meeting of the council. If a nomination should be rejected, the\npresident shall submit the name of another nominee for the place at the next regular meeting of the council,\nand in case the second nomination is also rejected by the said council, the president may appeal to the\nprovincial board within ten days and said provincial board shall have the power and duty to decide the\ncontroversy over said appointment within fifteen days after receiving such appeal, and in case the municipal\npresident does not agree with the decision of the provincial board, he may also appeal against the resolution of\nthe same to the Chief of the Executive Bureau who shall decide said appeal within twenty days from the\nreceipt of the same and whose decision shall be final.\""
+   }
+  },
+  {
+   "id": "PH-H14083-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, December 1, 1928."
+   }
+  }
+ ]
+}

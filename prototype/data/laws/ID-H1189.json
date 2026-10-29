@@ -1,0 +1,726 @@
+{
+ "id": "ID-H1189",
+ "title": {
+  "zh": "海事法",
+  "en": "Law on Maritime Affairs",
+  "id": "KEPELAUTAN",
+  "orig": "KEPELAUTAN",
+  "vi": "Luật về Hàng hải",
+  "th": "พระราชบัญญัติว่าด้วยกิจการทางทะเล",
+  "ms": "Akta tentang Hal Ehwal Maritim"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02c",
+ "language": "id",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "2000",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU7-2000",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 48,
+ "chars": 44370,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PP%20NO%207%20TH%202000.pdf&fl=P04247"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\01_宪法与基础法\\印尼_文本_2000_KEPELAUTAN.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 48 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H1189-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\nDalam Peraturan Pemerintah ini yang dimaksud dengan:\n1. Kepelautan adalah segala sesuatu yang berkaitan dengan pengawakan,\npendidikan, persertifikatan, kewenangan serta hak dan kewajiban pelaut;\n2. Awak kapal adalah orang yang bekerja atau dipekerjakan di atas kapal\noleh pemilik atau operator kapal untuk melakukan tugas di atas kapal\nsesuai dengan jabatannya yang tercantum dalam buku sijil;\n3. Pelaut adalah setiap orang yang mempunyai kualifikasi keahlian atau\nketerampilan sebagai awak kapal;\n4. Sertifikat kepelautan adalah dok umen kepelautan yang sah dengan\nnama apapun yang diterbitkan oleh Menteri atau yang diberi\nkewenangan oleh Menteri;\nPRESIDEN\nREPUBLIK INDONESIA\n5. Perjanjian …\n5. Perjanjian Kerja Laut adalah perjanjian kerja perorangan yang\nditandatangani oleh pelaut Indonesia dengan pengusaha angk utan di\nperairan;\n6. Tonase Kotor yang selanjutnya disebut GT adalah satuan volume kapal;\n7. Kilowatt yang selanjutnya disebut KW adalah satuan kekuatan mesin\nkapal;\n8. Menteri adalah Menteri yang bertanggung jawab di bidang pelayaran.\nBAB II\nPELAUT"
+   }
+  },
+  {
+   "id": "ID-H1189-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\n(1) Setiap pelaut yang bekerja pada kapal niaga, kapal penangkap ikan,\nkapal sungai dan danau harus mempunyai kualifikasi keahlian atau\nketerampilan sebagaimana diatur dalam Peraturan Pemerintah ini.\n(2) Kualifikasi keahlian dan keterampilan sebagaim ana dimaksud dalam\nayat (1) tidak berlaku terhadap pelaut yang bekerja pada:\na. kapal layar motor;\nb. kapal layar;\nc. kapal motor dengan ukuran kurang dari GT 35;\nd. kapal pesiar pribadi yang dipergunakan tidak untuk berniaga;\ne. kapal-kapal khusus.\n(3) Ketentuan mengenai kualifikasi keahlian dan keterampilan bagi setiap\npelaut yang bekerja di kapal sebagaimana dimaksud dalam ayat (2)\ndiatur lebih lanjut dengan Keputusan Menteri.\nBAB III\nPENGAWAKAN KAPAL NIAGA DAN\nKEWENANGAN JABATAN\nBagian Pertama\nPengawakan Kapal Niaga"
+   }
+  },
+  {
+   "id": "ID-H1189-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\n(1) Setiap awak kapal harus memiliki sertifikat kepelautan.\n(2) Jenis sertifikat kepelautan yang dimaksud dalam ayat (1) terdiri dari:\na. Sertifikat Keahlian Pelaut;\nb. Sertifikat Keterampilan Pelaut."
+   }
+  },
+  {
+   "id": "ID-H1189-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4 …"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 4\n(1) Jenis Sertifikat Keahlian Pelaut sebagaimana dimaksud dalam Pasal 3\nayat (2) huruf a terdiri dari :\na. Sertifikat Keahlian Pelaut Nautika;\nb. Sertifikat Keahlian Pelaut Teknik Permesinan;\nc. Sertifikat Keahlian Pelaut Radio Elektronika.\n(2) Jenis Sertifikat Keterampilan Pelaut sebagaimana dimaksud dalam Pasal\n3 ayat (2) huruf b terdiri dari:\na. Sertifikat Keterampilan Dasar Pelaut;\nb. Sertifikat Keterampilan Khusus."
+   }
+  },
+  {
+   "id": "ID-H1189-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\n(1) Sertifikat Keahlian Pelaut Nautika sebagaimana dimaksud dalam Pasal 4\nayat (1) huruf a, terdiri dari:\na. Sertifikat Ahli Nautika Tingkat I;\nb. Sertifikat Ahli Nautika Tingkat II;\nc. Sertifikat Ahli Nautika Tingkat III;\nd. Sertifikat Ahli Nautika Tingkat IV;\ne. Sertifikat Ahli Nautika Tingkat V;\nf. Sertifikat Ahli Nautika Tingkat Dasar.\n(2) Sertifikat Keahlian Pelaut Teknik Permesinan sebagaimana dimaksud\ndalam Pasal 4 ayat (1) huruf b, terdiri dari :\na. Sertifikat Ahli Teknika Tingkat I;\nb. Sertifikat Ahli Teknika Tingkat II;\nc. Sertifikat Ahli Teknika Tingkat III;\nd. Sertifikat Ahli Teknika Tingkat IV;\ne. Sertifikat Ahli Teknika Tingkat V;\nf. Sertifikat Ahli Teknika Tingkat Dasar.\n(3) Sertifikat Keahlian Pelaut Radio Elektronika sebagaimana dima ksud\ndalam Pasal 4 ayat (1) huruf c, terdiri dari:\na. Sertifikat Radio Elektronika Kelas I;\nb. Sertifikat Radio Elektronika Kelas II;\nc. Sertifikat Operator Umum;\nd. Sertifikat Operator Terbatas."
+   }
+  },
+  {
+   "id": "ID-H1189-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\n(1) Sertifikat Keterampilan Dasar Pelaut sebagaimana dimaksud dalam\nPasal 4 ayat (2) huruf a adalah Sertifikat Keterampilan Dasar\nKeselamatan (Basic Safety Training).\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Jenis …\n(2) Jenis Sertifikat Keterampilan Khusus sebagaimana dimaksud dalam\nPasal 4 ayat (2) huruf b, terdiri dari:\na. Sertifikat Keselamatan Kapal Tanki (Tanker Safety);\nb. Sertifikat Keselamatan Kapal Penumpang Roro;\nc. Sertifikat Keterampilan Penggunaan Pesawat Luput Maut dan Sekoci\nPenyelamat (Survival Craft dan Rescue Boats);\nd. Sertifikat Keterampilan Sekoci Penyelamat Cepat (Fast Rescue Boats);\ne. Sertifikat Keterampilan Pemadaman Kebakaran Tingkat Lanjut\n(Advance Fire Fighting);\nf. Sertifikat Keterampilan Pertolongan Pertama (Medical Emergency\nFirst Aid);\ng. Sertifikat Keterampilan Perawatan Medis di atas Kapal (Medical Care\non Boats);\nh. Sertifikat Radar Simulator;\ni. Sertifikat ARPA Simulator;"
+   }
+  },
+  {
+   "id": "ID-H1189-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\n(1) Pada setiap kapal yang berlayar, harus berdinas:\na. seorang nakho da dan beberapa perwira kapal yang memiliki\nsertifikat keahlian pelaut dan sertifikat keterampilan pelaut sesuai\ndengan daerah pelayaran, ukuran kapal, jenis kapal dan daya\npenggerak kapal;\nb. sejumlah rating yang memiliki Sertifikat Keahlian Pelaut dan/a tau\nsertifikat keterampilan pelaut sesuai dengan jenis tugas, ukuran\ndan tata susunan kapal.\n(2) Ketentuan lebih lanjut mengenai jumlah perwira kapal dan rating\nsebagaimana dimaksud dalam ayat (1), diatur dengan Keputusan\nMenteri.\nBagian Kedua\nKewenangan Jabatan"
+   }
+  },
+  {
+   "id": "ID-H1189-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n(1) Kewenangan jabatan di atas kapal diberikan kepada pemegang sertifikat\nkeahlian pelaut sebagaimana dimaksud dalam Pasal 5, sesuai dengan\njenis dan tingkat sertifikat yang dimiliki.\n(2) Kewenangan jabatan di atas kapal sebagaimana dimaksud dalam ayat (1)\ndiatur lebih lanjut dengan Keputusan Menteri.\nBAB IV …\nPRESIDEN\nREPUBLIK INDONESIA\nBAB IV\nPENDIDIKAN, PENGUJIAN DAN SERTIFIKASI\nKEPELAUTAN KAPAL NIAGA\nBagian Pertama\nPendidikan"
+   }
+  },
+  {
+   "id": "ID-H1189-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n(1) Pendidikan kepelautan dapat diselenggarakan oleh Pemerintah dan/atau\nunit pendidikan kepelautan yang dikelola oleh masyarakat sesuai dengan\nperaturan perundang-undangan yang berlaku.\n(2) Penyelenggaraan pendidikan kepelautan sebagaimana dimaksud dalam\nayat (1) wajib mendapat izin dari Menteri yan g bertanggung jawab di\nbidang pendidikan nasional setelah mendengar pendapat dari Menteri.\n(3) Untuk memperoleh izin penyelenggaraan pendidikan kepelautan\nsebagaimana dimaksud dalam ayat (2) harus memenuhi persyaratan:\na. memiliki sarana dan prasarana;\nb. memiliki tenaga pendidik tetap dan tidak tetap yang bersertifikat\nkepelautan sebagaimana dimaksud dalam Pasal 5 dan memiliki\nsertifikat kewenangan mengajar sesuai dengan ketentuan yang\nberlaku;\nc. memiliki Sistem Manajemen Mutu sesuai dengan ketentuan nasional\nmaupun internasional.\n(4) Izin penyelenggaraan pendidikan kepelautan sebagaimana dimaksud\ndalam ayat (2) dapat dicabut oleh Menteri yang bertanggung jawab di\nbidang pendidikan nasional apabila pemegang izin tidak memenuhi\nkewajibannya setelah mendengar pendapat dari Menteri."
+   }
+  },
+  {
+   "id": "ID-H1189-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\n(1) Kurikulum pendidikan kepelautan disusun dengan memperhatikan:\na. aspek keselamatan pelayaran;\nb. tingkat kemampuan dan kecakapan pelaut, sesuai standar\nkompetensi yang ditetapkan;\nc. perkembangan ilmu pengetahuan dan teknologi serta manajemen di\nbidang pelayaran;\n(2) Ketentuan lebih lanjut mengenai kurikulum pendidikan kepelautan\nsebagaimana dimaksud dalam ayat (1) diatur dengan Keputusan Menteri\nyang bertang gung jawab di bidang pendidikan nasional setelah\nmendengar pendapat dari Menteri.\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H1189-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11 …"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 11\n(1) Pendidikan kepelautan sebagaimana dimaksud dalam Pasal 9,\ndilaksanakan melalui jalur sekolah, yang terdiri dari :\na. pendidikan profesional kepelautan;\nb. pendidikan teknis fungsional kepelautan.\n(2) Jenjang pendidikan profesional kepelautan sebagaimana dimaksud\ndalam ayat (1) huruf a terdiri dari:\na. pendidikan pelaut tingkat dasar;\nb. pendidikan pelaut tingkat menengah;\nc. pendidikan pelaut tingkat tinggi.\n(3) Pendidikan teknis fungsional kepelautan sebagaimana dimaksud dalam\nayat (1) huruf b, terdiri dari :\na. DIKLAT teknis profesi kepelautan;\nb. DIKLAT keterampilan pelaut.\n(4) Ketentuan lebih lanjut mengenai pelaksanaan p endidikan profesional\nkepelautan dan pendidikan teknis fungsional kepelautan sebagaimana\ndimaksud dalam ayat (1) diatur dengan Keputusan Menteri.\nBagian Kedua\nPengujian"
+   }
+  },
+  {
+   "id": "ID-H1189-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n(1) Ujian untuk mendapatkan sertifikat keahlian pelaut sebagaimana\ndimaksud dalam Pasal 5 dilaksanakan oleh Dewan Penguji yang mandiri\nsesuai dengan peraturan perundang-undangan yang berlaku.\n(2) Ketentuan lebih lanjut mengenai tata cara ujian sebagaimana dima ksud\ndalam ayat (1) diatur dengan Keputusan Menteri."
+   }
+  },
+  {
+   "id": "ID-H1189-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\nUntuk mengikuti pendidikan dan ujian sebagaimana dimaksud dalam Pasal 11\ndan Pasal 12, dipungut biaya yang besarnya ditetapkan dengan Peraturan\nPemerintah tersendiri.\nBagian Ketiga\nSertifikat Kepelautan"
+   }
+  },
+  {
+   "id": "ID-H1189-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\nPRESIDEN\nREPUBLIK INDONESIA\n(1) Bagi peserta pendidikan kepelautan yang lulus ujian sebagaimana\ndimaksud dalam Pasal 12, diberikan sertifikat keahlian pelaut sesuai\ndengan jenis dan jenjang pendidikan kepelautan yang ditempuh.\n(2) Bagi …\n(2) Bagi peserta yan g telah mengikuti pendidikan kepelautan sebagaimana\ndimaksud dalam Pasal 11 ayat (3) huruf b diberikan sertifikat\nketerampilan pelaut sesuai dengan jenis pendidikan kepelautan yang\nditempuh.\n(3) Ketentuan lebih lanjut mengenai tata cara penerbitan Sertifikat Keahlian\nPelaut dan Sertifikat Keterampilan Pelaut sebagaimana dimaksud\ndalam ayat (1) dan ayat (2) diatur dengan Keputusan Menteri;\nBAB V\nPERLINDUNGAN KERJA PELAUT\nBagian Pertama\nBuku Pelaut"
+   }
+  },
+  {
+   "id": "ID-H1189-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\n(1) Setiap pelaut yang bekerja di kapal dengan ukuran kurang dari GT.35\nuntuk kapal jenis tertentu, ukuran GT. 35 atau lebih untuk kapal\ndengan tenaga penggerak mesin, dan ukuran GT.105 atau lebih untuk\nkapal tanpa tenaga penggerak m esin, harus disijil oleh pejabat\nPemerintah yang ditunjuk oleh Menteri.\n(2) Bagi pelaut yang telah disijil diberikan Buku Pelaut.\n(3) Buku pelaut sebagaimana dimaksud dalam ayat (2) merupakan identitas\nbagi pelaut dan berlaku sebagai dokumen perjalanan bag i pelaut yang\nakan naik kapal di luar negeri atau menuju Indonesia setelah turun\nkapal di luar negeri.\n(4) Ketentuan lebih lanjut mengenai tata cara penyijilan dan buku pelaut,\nsebagaimana dimaksud dalam ayat (1), ayat (2) dan ayat (3), diatur\ndengan Keputusan Menteri."
+   }
+  },
+  {
+   "id": "ID-H1189-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\n(1) Untuk mendapatkan Buku Pelaut sebagaimana dimaksud dalam Pasal\n15 ayat (3) dikenakan biaya.\n(2) Penetapan biaya sebagaimana dimaksud dalam ayat (1) diatur dengan\nPeraturan Pemerintah tersendiri.\nBagian Kedua\nPersyaratan Kerja di Kapal"
+   }
+  },
+  {
+   "id": "ID-H1189-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\nPRESIDEN\nREPUBLIK INDONESIA\nUntuk dapat bekerja sebagai awak kapal, wajib memenuhi persyaratan:\na. memiliki Sertifikat Keahlian Pelaut dan/atau Sertifikat Keterampilan\nPelaut;\nb. berumur …\nb. berumur sekurang-kurangnya 18 tahun;\nc. sehat jasmani dan rohani berdasarkan hasil pemeriksaan kesehatan\nyang khusus dilakukan untuk itu;\nd. disijil."
+   }
+  },
+  {
+   "id": "ID-H1189-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\n(1) Setiap pelaut yang akan disijil harus memiliki Perjanjian Kerja Laut yang\nmasih berlaku.\n(2) Perjanjian Kerja Laut sebagaimana dima ksud dalam ayat (1), harus\nmemuat hak -hak dan kewajiban dari masing -masing pihak dan\nmemenuhi ketentuan peraturan perundang-undangan yang berlaku.\n(3) Hak-hak dan kewajiban dari masing-masing pihak sebagaimana\ndimaksud dalam ayat (2) sekurang-kurangnya adalah :\na. hak pelaut :\nmenerima gaji, upah lembur, uang pengganti hari -hari libur, uang\ndelegasi, biaya pengangkutan dan upah saat diakhirinya pengerjaan,\npertanggungan untuk barang -barang milik pribadi yang dibawa dan\nkecelakaan pribadi serta perlengkapan untuk musim dingin untuk\nyang bekerja di daerah yang iklimnya dingin dan di musim dingin di\nwilayah yang suhunya 15 derajat celcius atau kurang yang berupa\npakaian dan peralatan musim dingin.\nb. kewajiban pelaut :\nmelaksanakan tugas sesuai dengan jam kerja yang ditetapkan sesuai\ndengan perjanjian, menanggung biaya yang timbul karena kelebihan\nbarang bawaan di atas batas ketentuan yang ditetapkan oleh\nperusahaan, menaati perintah perusahaan dan bekerja sesuai\ndengan jangka waktu perjanjian.\nc. hak pemilik/operator:\nmempekerjakan pelaut.\nd. kewajiban pemilik/operator:\nmemenuhi semua kewajiban yang merupakan hak -hak pelaut\nsebagaimana dimaksud dalam huruf a.\n(4) Perjanjian Kerja Laut harus diketahui oleh pejabat Pemerintah yan g\nditunjuk oleh Menteri.\n(5) Ketentuan lebih lanjut mengenai Perjanjian Kerja Laut sebagaimana\ndimaksud dalam ayat (1), ayat (2), ayat (3), dan ayat (4) diatur dengan\nKeputusan Menteri.\nBagian Ketiga\nPRESIDEN\nREPUBLIK INDONESIA\nPenempatan Pelaut"
+   }
+  },
+  {
+   "id": "ID-H1189-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\n(1) Pelaut Indonesia dapa t bekerja di kapal Indonesia dan/atau kapal asing\nsesuai dengan Sertifikat Keahlian Pelaut atau Sertifikat Keterampilan\nPelaut yang dimilikinya.\n(2) Untuk …\n(2) Untuk membuka kesempatan kerja pelaut Indonesia pada kapal -kapal\nasing di luar negeri, penempatan tenaga kerja pelaut dapat dilakukan\noleh perusahaan pelayaran nasional atau perusahaan jasa penempatan\ntenaga kerja pelaut yang memenuhi persyaratan.\n(3) Persyaratan yang harus dipenuhi oleh perusahaan jasa penempatan\ntenaga kerja pelaut sebagaimana dimaksud dalam ayat (2) meliputi:\na) berbentuk badan hukum Indonesia yang memiliki izin usaha\npenempatan tenaga kerja pelaut;\nb) memiliki tenaga ahli pelaut.\n(4) Bagi pelaut yang bekerja pada kapal -kapal asing di luar neger i tanpa\nmelalui penempatan tenaga kerja pelaut sebagaimana dimaksud dalam\nayat (2) berkewajiban:\na. membuat perjanjian kerja laut sesuai dengan ketentuan yang berlaku;\nb. perjanjian kerja laut sebagaimana dimaksud dalam huruf a harus\nmemuat hukum mana yang berlaku apabila terjadi perselisihan yang\nmenyangkut pelaksanaan perjanjian kerja laut;\nc. melapor kepada perwakilan Republik Indonesia dimana pelaut\ntersebut bekerja.\n(5) Bagi pelaut yang tidak melaksanakan kewajiban sebagaimana dimaksud\ndalam ayat (4), menanggung sendiri akibat yang timbul apabila terjadi\nperselisihan yang menyangkut pelaksanaan perjanjian kerja laut.\n(6) Ketentuan lebih lanjut mengenai tata cara penempatan tenaga kerja\npelaut sebagaimana dimaksud dalam ayat (1) dan ayat (2), diatur deng an\nKeputusan Menteri yang bertanggung jawab di bidang ketenagakerjaan\nsetelah mendengar pendapat dari Menteri."
+   }
+  },
+  {
+   "id": "ID-H1189-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\nUsaha penempatan tenaga kerja pelaut sebagaimana dimaksud dalam Pasal 19\ndilakukan dengan memperhatikan :\na. penciptaan perluasan kese mpatan kerja pelaut khususnya yang bekerja\ndi kapal-kapal berbendera asing;\nb. pengembangan fasilitas pendidikan kepelautan yang memenuhi\npersyaratan sesuai ketentuan internasional;\nc. peningkatan kemampuan dan keterampilan pelaut sesuai dengan\nperkembangan ilmu pengetahuan dan teknologi di bidang pelayaran.\nBagian Keempat\nKesejahteraan Awak Kapal\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H1189-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\n(1) Jam kerja bagi awak kapal ditetapkan 8 (delapan) jam setiap hari dengan\n1 (satu) hari libur setiap minggu dan hari-hari libur resmi.\n(2) Perhitungan gaji jam kerja bagi awak kapal ditetapkan 44 (empat puluh\nempat) jam setiap minggu.\n(3) Jam kerja …\n(3) Jam kerja melebihi dari ketentuan sebagaimana dimaksud dalam ayat (2)\ndan di pekerjakan pada hari -hari libur sebagaimana dimaksud dalam\nayat (1) dihitung lembur.\n(4) Setiap awak kapal harus diberikan waktu istirahat paling sedikit 10\n(sepuluh) jam dalam jangka waktu 24 (dua puluh empat) jam yang dapat\ndibagi 2, yang salah satu di a ntaranya tidak kurang dari 6 (enam) jam\nkecuali dalam keadaan darurat.\n(5) Pelaksanaan tugas -tugas darurat demi keselamatan berlayar dan\nmuatan termasuk latihan -latihan di kapal atau untuk memberikan\npertolongan dalam bahaya sesuai peraturan keselamatan pe layaran,\ntidak dihitung lembur.\n(6) Pelaut muda atau pelaut yang berumur antara 16 tahun sampai dengan\n18 tahun dan dipekerjakan sebagai apapun di atas kapal, tidak\ndiperbolehkan untuk :\na. dipekerjakan melebihi 8 jam sehari dan 40 jam seminggu;\nb. dipekerjakan pada waktu istirahat, kecuali dalam hal -hal\nsebagaimana dimaksud dalam ayat (5)."
+   }
+  },
+  {
+   "id": "ID-H1189-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\n(1) Upah minimum bagi awa k kapal dengan jabatan terendah ditetapkan\noleh Menteri yang bertanggung jawab di bidang ketenagakerjaan,\nberdasarkan ketentuan upah minimum tenaga kerja sesuai peraturan\nperundang-undangan yang berlaku.\n(2) Upah lembur per jam dihitung dengan\nupah minimum\nrumus = ______________ X 1,25.\n190"
+   }
+  },
+  {
+   "id": "ID-H1189-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\nHari libur yang dibayar dihitung untuk setiap bulan 4 (empat) hari kerja, yang\nbesarnya setiap hari 1/30 (sepertigapuluh) dari gaji minimum bulanan."
+   }
+  },
+  {
+   "id": "ID-H1189-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 24\nPRESIDEN\nREPUBLIK INDONESIA\n(1) Setiap awak kapal berhak mendapatkan cuti tahunan yang lamanya\npaling sedikit 20 (dua puluh) hari kalender untuk setiap jangka waktu 1\n(satu) tahun bekerja.\n(2) Atas permintaan pengusaha angkutan di perairan, awak kapal yang\nmendapatkan hak cuti tahunan dapat mengganti hak cutinya dengan\nimbalan upah sejumlah hari cuti yang tidak dinikmatinya."
+   }
+  },
+  {
+   "id": "ID-H1189-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25 …"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Keempat"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 25\n(1) Pengusaha angkutan di perairan wajib menyediakan makanan dan\nalat-alat pelayanan dalam jumlah yang cukup dan layak untuk setiap\npelayaran bagi setiap awak kapal di atas kapal.\n(2) Makanan harus memenuhi jumlah, ragam serta nilai gizi dengan jumlah\nminimum 3.600 kalori per hari yang diperlukan awak kapal untuk tetap\nsehat dalam melakukan tugas-tugasnya di kapal.\n(3) Air tawar harus tetap tersedia di kapal dengan jumlah yang cukup dan\nmemenuhi standar kesehatan.\n(4) Alat-alat pelayanan seperti peralatan dapur dan atau peralatan\nmemasak, serta perlengkapan ruang makan, haru s tersedia dalam\njumlah yang cukup dan baik."
+   }
+  },
+  {
+   "id": "ID-H1189-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\n(1) Awak kapal yang habis masa kontrak kerjanya harus dikembalikan ke\ntempat domisilinya atau ke pelabuhan di tempat perjanjian kerja laut\nditandatangani.\n(2) Jika awak kapal memutuskan hubungan kerja atas kehendak sendiri,\npengusaha angkutan di perairan dibebaskan dari kewajiban pembiayaan\nuntuk pemulangan yang bersangkutan.\n(3) Apabila masa kontrak dari awak kapal habis masa berlakunya pada saat\nkapal dalam pelayaran, awak kapal yang bersangkutan diw ajibkan\nmeneruskan pelayaran sampai di pelabuhan pertama yang disinggahi\ndengan mendapat imbalan upah dan kesejahteraan sejumlah hari\nkelebihan dari masa kontrak.\n(4) Biaya-biaya sebagaimana dimaksud dalam ayat (1) dan ayat (3),\nmerupakan tanggungan pengu saha angkutan di perairan, yang meliputi\nbiaya-biaya pemulangan, penginapan dan makanan sejak diturunkan\ndari kapal sampai tiba di tempat domisilinya."
+   }
+  },
+  {
+   "id": "ID-H1189-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\n(1) Apabila terjadi pemutusan hubungan kerja oleh pengusaha angkutan di\nperairan karena kapal musnah atau tenggelam, pengusaha angkutan di\nperairan wajib membayar pesangon kepada awak kapal yang\nPRESIDEN\nREPUBLIK INDONESIA\nbersangkutan sebesar 2 (dua) kali penghasilan bulan terakhir dan hak\nlainnya sesuai dengan ketentuan yang berlaku.\n(2) Apabila terjadi pemutusan hubungan k erja oleh pengusaha angkutan di\nperairan karena kapal dianggurkan, atau dijual, pengusaha angkutan di\nperairan wajib membayar pesangon kepada awak kapal sesuai peraturan\nperundang- undangan yang berlaku."
+   }
+  },
+  {
+   "id": "ID-H1189-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28 …"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Keempat"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 28\n(1) Pengusaha angkutan di perairan wajib menanggung biaya perawatan dan\npengobatan bagi awak kapal yang sakit atau cidera selama berada di\natas kapal.\n(2) Awak kapal yang sakit atau cedera akibat kecelakaan sehingga tidak\ndapat bekerja atau harus dirawat, peng usaha angkutan di perairan\nselain wajib membiayai perawatan dan pengobatan juga wajib membayar\ngaji penuh jika awak kapal tetap berada atau dirawat di kapal.\n(3) Jika awak kapal sebagaimana dimaksud dalam ayat (2) harus\nditurunkan dari kapal untuk perawatan di darat, pengusaha angkutan di\nperairan selain wajib membiayai perawatan dan pengobatan, juga wajib\nmembayar sebesar 100 % dari gaji minimumnya setiap bulan pada bulan\npertama dan sebesar 80 % dari gaji minimumnya setiap bulan pada\nbulan berikutnya, sam pai yang bersangkutan sembuh sesuai surat\nketerangan petugas medis, dengan ketentuan tidak lebih dari 6 (enam)\nbulan untuk yang sakit dan tidak lebih dari 12 (dua belas) bulan untuk\nyang cedera akibat kecelakaan.\n(4) Bila awak kapal diturunkan dan dirawat di luar negeri, selain biaya\nperawatan dan pengobatan, pengusaha angkutan di perairan juga\nmenanggung biaya pemulangan kembali ke tempat domisilinya."
+   }
+  },
+  {
+   "id": "ID-H1189-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\nBesarnya ganti rugi atas kehilangan barang -barang milik awak kapal akibat\ntenggelam atau terbak arnya kapal, sesuai dengan nilai barang -barang yang\nwajar dimilikinya yang hilang atau terbakar."
+   }
+  },
+  {
+   "id": "ID-H1189-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\n(1) Jika awak kapal setelah dirawat akibat kecelakaan kerja, menderita\ncacat tetap yang mempengaruhi kemampuan kerja, besarnya santunan\nditentukan :\na. cacat tetap yang mengakibatkan kemampuan kerja hilang 100 %,\nbesarnya santunan minimal Rp. 150.000.000,00 (seratus lima puluh\njuta rupiah);\nb. cacat tetap yang mengakibatkan kemampuan kerja berkurang,\nPRESIDEN\nREPUBLIK INDONESIA\nbesarnya s antunan ditetapkan sebesar persentase dari jumlah\nsebagaimana ditetapkan dalam huruf a, sebagai berikut:\n1) kehilangan satu lengan: 40 %\n2) kehilangan kedua lengan: 100 %\n3) kehilangan satu telapak tangan: 30 %\n4) kehilangan kedua telapak tangan: 80 %\n5) kehilangan satu kaki dari paha: 40 %\n6) kehilangan kedua kaki dari paha: 100 %\n7) kehilangan satu telapak kaki: 30 %\n8) kehilangan kedua telapak kaki: 80 %\n9) kehilangan …\n9) kehilangan satu mata: 30 %\n10) kehilangan kedua mata: 100 %\n11) kehilangan pendengaran satu telinga: 15 %\n12) kehilangan pendengaran kedua telinga: 40 %\n13) kehilangan satu jari tangan: 10 %\n14) kehilangan satu jari kaki: 5 %\n(2) Jika awak kapal kehilangan beberapa anggota badan sekali gus\nsebagaimana dimaksud dalam ayat (1) huruf b, besarnya santunan\nditentukan dengan menjumlahkan besarnya persentase, dengan\nketentuan tidak melebihi jumlah sebagaimana ditetapkan dalam ayat (1)\nhuruf a."
+   }
+  },
+  {
+   "id": "ID-H1189-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\n(1) Jika awak kapal meninggal dunia di atas kapal, pengusaha angkutan di\nperairan wajib menanggung biaya pemulangan dan penguburan\njenasahnya ke tempat yang dikehendaki oleh keluarga yang\nbersangkutan sepanjang keadaan memungkinkan.\n(2) Jika awak kapal meninggal dunia, pengusaha angkutan di perairan wajib\nmembayar santunan:\na. untuk meninggal karena sakit besarnya santunan minimal\nRp.100.000.000,- (seratus juta rupiah);\nb. untuk meninggal akibat kecelakaan kerja besarnya santunan\nminimal 150.000.000,- (seratus lima puluh juta rupiah).\n(3) Santunan sebagaimana dimaksud dalam ayat (2), diberikan kepada ahli\nwarisnya sesuai dengan ketentuan yang berlaku.\nBagian Kelima\nAkomodasi Awak Kapal"
+   }
+  },
+  {
+   "id": "ID-H1189-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 32\n(1) Akomodasi awak kapal di atas kapal harus memenuhi persyaratan\nkeamanan dan kesejahteraan awak kapal.\n(2) Penempatan, tata susunan dan pengaturan serta hubungan dengan\nruangan lain dari akomodasi awak kapal harus sedemikian rupa\nsehingga menjamin keselamatan awak kapal yang cukup, perlindungan\nPRESIDEN\nREPUBLIK INDONESIA\nterhadap cuaca dan air laut, dan disekat dari panas dan dingin serta\nkebisingan dari ruangan -ruangan mesin dan ruangan -ruangan lainnya,\nserta tidak ada pintu -pintu langsung ke kamar tidur dari ruangan\nmuatan, ruangan mesin atau dari ruangan dapur dan ruangan -ruangan\npenyimpanan.\n(3) Bagian dari sekat, harus memisahkan ruangan -ruangan sebagaimana\ndimaksud dalam ayat (2) dari kamar tidur dan sekat luar harus dibuat\ndari baja atau bahan sejenis yang diakui dan harus kedap air dan kedap\ngas.\n(4) Semua kamar tidur harus terletak lebih tinggi dari garis muat di\nlambung kapal.\n(5) Ketentuan …\n(5) Ketentuan sebagaimana dimaksud dalam ayat (4) dapat dikecualikan\nbagi kapal-kapal tertentu atau kapal-kapal penumpang tertentu.\n(6) Semua ruangan tempat tinggal awak kapal harus dilengkapi dengan\npencegah masuknya serangga melalui pintu -pintu, jendela -jendela dan\nlubang-lubang ke dalam ruangan.\n(7) Semua ruangan tempat tinggal awak kapal harus tetap dirawat dan\ndijaga dalam keadaan ber sih dan baik dan tidak boleh diisi dan\ndigunakan untuk menyimpan barang-barang lainnya."
+   }
+  },
+  {
+   "id": "ID-H1189-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 33\n(1) Ketentuan luas lantai ruang tidur untuk setiap awak kapal adalah:\na. paling sedikit 2.00 M2 untuk kapal-kapal lebih kecil dari GT.500;\nb. paling sedikit 2.35 M2 untuk kapal -kapal dengan ukuran GT.500 ke\natas;\nc. paling sedikit 2.78 M2 untuk kapal -kapal dengan ukuran GT.3.000\nke atas.\n(2) Setiap perwira harus mempunyai satu kamar tidur untuk sendiri,\nsedangkan untuk rating satu kamar tidur untuk 2 (dua) orang, kecuali di\nkapal-kapal penumpang.\n(3) Untuk kamar tidur rating di kapal -kapal penumpang yang satu kamar\ntidur terdapat 4 (empat) tempat tidur, maka luas lantai per orang\nminimal 2,22 M2.\n(4) Luas lantai sebagaimana dimaksud dalam ayat (3), termasuk luas lantai\nuntuk menempatkan tempat tidur, meja, lemari, laci tempat menyimpan\ndan kursi.\n(5) Bagi setiap awak kapal harus disediakan sebuah tempat tidur yang layak\nyang tidak boleh diletakkan rapat satu sama lain.\n(6) Ukuran setiap tempat tidur minimal 1 80 x 68 cm dan bahan tempat\ntidur harus menggunakan bahan standar yang diakui.\n(7) Tinggi langit-langit kamar tidur minimal 190 cm dari lantai.\n(8) Jika suatu kamar tidur dilengkapi dengan tempat tidur bertingkat,\ntempat tidur terbawah tingginya minimal 30 cm dari lantai, dan tempat\ntidur atas, di pertengahan tinggi antara tempat tidur bawah dan sisi\nbawah langit-langit.\nPRESIDEN\nREPUBLIK INDONESIA\n(9) Semua kamar tidur yang telah dilengkapi dengan tempat tidur, lemari,\nlaci tempat menyimpan, meja dan kursi, harus mempunyai kenyamana n\nyang layak."
+   }
+  },
+  {
+   "id": "ID-H1189-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 34\nSetiap kapal harus dilengkapi dengan ruang makan baik untuk perwira\nmaupun rating yang dilengkapi dengan pantri, meja dan kursi makan yang\nlayak."
+   }
+  },
+  {
+   "id": "ID-H1189-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35 …"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kelima"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 35\n(1) Setiap kapal harus dilengkapi ruangan atau ruangan -ruangan untuk\nbersantai bagi awak kapal jika tidak sedang bertugas, yang cukup luas\ndisesuaikan dengan ukuran kapal dan jumlah awak kapal.\n(2) Setiap kapal dengan ukuran lebih besar dari GT. 3000 harus mempunyai\nruangan rekreasi yang terpisah dari ruang makan untuk perwira dan\nrating, yang baik letaknya dan dilengkapi dengan peralatan dan\nperabotan yang cukup untuk fasilitas rekreasi.\n(3) Ruangan untuk bersantai dan rekreasi sebagaimana dimaksud dalam\nayat (1) dan ayat (2) di tempat yang terbuka, harus dilengka pi dengan\natap tenda tetap pencegah sinar matahari."
+   }
+  },
+  {
+   "id": "ID-H1189-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 36\n(1) Setiap kapal harus dilengkapi dengan fasilitas sanitasi yang cukup dan\nlayak untuk seluruh awak kapal.\n(2) Fasilitas sanitasi berupa jamban untuk setiap kapal, selain kapal\npenumpang adalah:\na. kapal lebih kecil dari GT. 800 minimum sebanyak 3 (tiga) buah;\nb. kapal dengan ukuran GT. 800 ke atas minimum sebanyak 4 (empat)\nbuah;\nc. kapal dengan ukuran GT. 3.000 ke atas minimum sebanyak 6 (enam)\nbuah.\n(3) Fasilitas sanitasi berupa kama r mandi dan tempat cuci untuk setiap\nkapal selain kapal penumpang di luar fasilitas kamar mandi yang ada di\nkamar ditentukan:\na. minimum 1 (satu) kamar mandi untuk setiap 8 (delapan) orang awak\nkapal;\nb. minimum 1 (satu) tempat cuci untuk setiap 8 (delap an) orang awak\nkapal.\n(4) Untuk kapal-kapal penumpang dengan jumlah awak kapal lebih dari 100\n(seratus) orang, jumlah fasilitas sanitasi ditentukan sesuai keperluan.\n(5) Setiap kapal harus dilengkapi dengan fasilitas air tawar yang cukup,\nPRESIDEN\nREPUBLIK INDONESIA\nyang bersuhu ding in maupun panas yang disesuaikan dengan daerah\npelayaran kapal.\n(6) Semua ruangan sanitasi harus dilengkapi dengan ventilasi ke udara luar."
+   }
+  },
+  {
+   "id": "ID-H1189-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 37\n(1) Setiap kapal dengan jumlah awak kapal 15 (lima belas) orang atau lebih\nharus dilengkapi dengan ruang perawatan kesehatan yang layak dan\nmemiliki kamar mandi dan jamban tersendiri.\n(2) Fasilitas ruang perawatan kesehatan tidak boleh dipergunakan untuk\nkeperluan-keperluan lain selain untuk perawatan orang sakit.\n(3) Pada setiap kapal harus tersedia obat -obatan dan bahan -bahan\npembalut dalam jumlah yang cukup.\n(4) Untuk …\n(4) Untuk pemberian pelayanan kesehatan di kapal, Nakhoda dalam\nkeadaan tertentu dapat meminta bantuan nasehat dari tenaga medis di\ndarat.\n(5) Ketentuan lebih lanjut mengenai jenis obat -obatan dan tata cara\npermintaan bantuan nasehat sebagaimana dimaksud dalam ayat (3) dan\nayat (4) diatur dengan Keputusan Menteri."
+   }
+  },
+  {
+   "id": "ID-H1189-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 38\n(1) Kamar tidur, ruang makan, ruang istirahat dan ruang -ruang lain yang\ndianggap perlu harus mempunyai ventilasi yang cukup termasuk sistem\npemanas atau sistem pendingin yang disesuaikan dengan daerah\npelayaran kapal.\n(2) Semua kamar tidur dan ruang makan awak kapal harus cukup terang\npada siang hari dan dileng kapi dengan penerangan listrik yang cukup di\nwaktu malam hari atau cuaca gelap.\n(3) Setiap kamar tidur harus dilengkapi dengan lampu baca di setiap kepala\ntempat tidur."
+   }
+  },
+  {
+   "id": "ID-H1189-A39",
+   "no": 39,
+   "noLabel": {
+    "id": "Pasal 39"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 39\nBagi kapal -kapal dengan ukuran GT.500 atau lebih, harus menyediakan\nakomodasi sebagaimana dimaksud pada Pasal 32 dan Pasal 33, untuk para\ntaruna/calon perwira sebagai awak kapal yang melakukan praktek berlayar."
+   }
+  },
+  {
+   "id": "ID-H1189-A40",
+   "no": 40,
+   "noLabel": {
+    "id": "Pasal 40"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 40\n(1) Ketentuan Pasal 32 sampai dengan Pasal 38 tidak berlaku untuk kapal\npenangkap ikan, kapal sungai dan danau.\n(2) Akomodasi awak kapal untuk kapal penangkap ikan, kapal sungai dan\ndanau diatur tersendiri dengan Keputusan Menteri.\nBAB VI\nPRESIDEN\nREPUBLIK INDONESIA\nPENGAWAKAN KAPAL PENANGKAP IKAN"
+   }
+  },
+  {
+   "id": "ID-H1189-A41",
+   "no": 41,
+   "noLabel": {
+    "id": "Pasal 41"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 41\n(1) Pada setiap kapal penangkap ikan yang berlayar harus berdinas:\na. Seorang nakhoda dan beberapa perwira kapal yang memiliki sertifikat\nkeahlian pelaut kapal penangkap ikan dan sertifikat keterampilan\ndasar pelaut sebagaimana dimaksud dalam Pasal 4 ayat (2) huruf a\nsesuai dengan daerah pelayaran, ukuran kapal, dan daya penggerak\nkapal;\nb. Sejumlah rating yang memiliki sertifikat keterampilan dasar pelaut\nsebagaimana dimaksud dalam Pasal 4 ayat (2) huruf a.\n(2) Jenis …\n(2) Jenis sertifikat keahlian pelaut kapal penangkap ikan sebagaimana\ndimaksud dalam ayat (1) huruf a terdiri dari:\na. Sertifikat keahlian pelaut nautika kapal penangkap ikan;\nb. Sertifikat keahlian pelaut teknik permesinan kapal penangkap ikan."
+   }
+  },
+  {
+   "id": "ID-H1189-A42",
+   "no": 42,
+   "noLabel": {
+    "id": "Pasal 42"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 42\n(1) Sertifikat keahlian pelaut nautika kapal penangkap ikan sebagaimana\ndimaksud dalam Pasal 41 ayat (2) huruf a terdiri dari:\na. Sertifikat ahli nautika kapal penangkap ikan tingkat I;\nb. Sertifikat ahli nautika kapal penangkap ikan tingkat II;\nc. Sertifikat ahli nautika kapal penangkap ikan tingkat III.\n(2) Sertifikat keahlian pelaut teknik permesinan kapal penangkap ikan\nsebagaimana dimaksud dalam Pasal 41 ayat (2) huruf b, terdiri dari:\na. Sertifikat ahli teknika kapal penangkap ikan tingkat I;\nb. Sertifikat ahli teknika kapal penangkap ikan tingkat II;\nc. Sertifikat ahli teknika kapal penangkap ikan tingkat III.\n(3) Ketentuan lebih lanjut mengenai sertifikat keahlian pelaut kapal\npenangkap ikan sebagaimana dimaksud dalam ayat (1) dan ayat (2)\ndiatur dengan Keputusan Menteri setelah mendengar pendapat Men teri\nyang bertanggung jawab di bidang perikanan."
+   }
+  },
+  {
+   "id": "ID-H1189-A43",
+   "no": 43,
+   "noLabel": {
+    "id": "Pasal 43"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 43\n(1) Untuk mendapatkan sertifikat keahlian pelaut kapal penangkap ikan\nsebagaimana dimaksud dalam Pasal 41 ayat (2) harus lulus ujian yang\ndilaksanakan oleh Dewan Penguji yang mandiri (independen) sesuai\ndengan peraturan perundang-undangan yang berlaku.\n(2) Ketentuan lebih lanjut mengenai ujian sebagaimana dimaksud dalam\nayat (1) diatur dengan Keputusan Menteri setelah mendengar pendapat\nPRESIDEN\nREPUBLIK INDONESIA\ndari Menteri yang bertanggung jawab di bidang perikanan."
+   }
+  },
+  {
+   "id": "ID-H1189-A44",
+   "no": 44,
+   "noLabel": {
+    "id": "Pasal 44"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 44\n(1) Pengawakan kapal penangkap ikan harus disesuaikan dengan :\na. daerah pelayaran;\nb. ukuran kapal;\nc. daya penggerak kapal (kilowatt/KW).\n(2) Ketentuan lebih lanjut mengenai ujian sebagaimana dimaksud dalam\nayat (1) diatur oleh Menteri setelah mendengar pendapat Menteri yang\nbertanggung jawab di bidang perikanan."
+   }
+  },
+  {
+   "id": "ID-H1189-A45",
+   "no": 45,
+   "noLabel": {
+    "id": "Pasal 45 …"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 45\n(1) Pelaut perwira kapal penangkap ikan dapat beralih profesi sebagai pelaut\nkapal niaga, melalui penyetaraan Sertifikat Keahlian Pelaut.\n(2) Ketentuan lebih lanjut mengenai penyetaraan Sertifikat Keahlian Pelaut\nsebagaimana dimaksud dalam ayat (1), diatur dengan Keputusan Menteri\nsetelah mendengar pendapat Menteri yang bertanggung jawab di bidang\nperikanan.\nBAB VII\nPENGAWAKAN KAPAL SUNGAI DAN DANAU"
+   }
+  },
+  {
+   "id": "ID-H1189-A46",
+   "no": 46,
+   "noLabel": {
+    "id": "Pasal 46"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 46\n(1) Setiap kapal motor sungai dan danau dengan ukuran di atas GT. 7\nsampai dengan GT. 35 harus diawaki dengan awak kapal yang\nmempunyai surat keterangan kecakapan sesuai dengan jenis dan\nukuran kapal.\n(2) Surat keterangan kecakapan sebaga imana dimaksud dalam ayat (1)\nterdiri dari :\na. surat keterangan kecakapan nautika;\nb. surat keterangan kecakapan teknika.\n(3) Setiap kapal sungai dan danau yang tidak bermotor dengan ukuran GT.\n35 sampai dengan GT. 105 harus diawaki oleh awak kapal yang\nmempunyai surat keterangan kecakapan bidang nautika.\n(4) Ketentuan lebih lanjut mengenai pengawakan kapal sungai dan danau\nserta tata cara untuk memperoleh surat keterangan kecakapan\nsebagaimana dimaksud dalam ayat (1), ayat (2) dan ayat (3) diatur\ndengan Keputusan Menteri.\nBAB VIII\nPRESIDEN\nREPUBLIK INDONESIA\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H1189-A47",
+   "no": 47,
+   "noLabel": {
+    "id": "Pasal 47"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 47\nPada tanggal mulai berlakunya Peraturan Pemerintah ini, semua peraturan\nperundang-undangan yang lebih rendah dari Peraturan Pemerintah, yang\nmengatur ketentuan mengenai kepelautan dinyatakan tetap berlaku sepanjang\ntidak bertentangan atau belum diganti dengan yang baru berdasarkan\nPeraturan Pemerintah ini.\nBAB IX …\nBAB IX\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H1189-A48",
+   "no": 48,
+   "noLabel": {
+    "id": "Pasal 48"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 48\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan\nPemerintah ini dengan penempatannya dalam Lembaran Negara Republik\nIndonesia.\nDitetapkan di Jakarta\npada tanggal 21 Pebruari 2000\nPRESIDEN REPUBLIK INDONESIA,\nttd.\nABDURRAHMAN WAHID\nDiundangkan di Jakarta\npada tanggal 21 Pebruari 2000\nPj. SEKRETARIS NEGARA REPUBLIK INDONESIA,\nttd.\nBONDAN GUNAWAN\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2000 NOMOR 13\nPRESIDEN\nREPUBLIK INDONESIA\nPRESIDEN\nREPUBLIK INDONESIA\nPENJELASAN\nATAS\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nNOMOR 7 TAHUN 2000\nTENTANG\nKEPELAUTAN\nUMUM\nPembinaan dan pengembangan sumber daya manusia pelaut dimaksudkan\nuntuk menciptakan pelaut yang profesional yaitu cakap dan terampil,\nberwatak serta mem iliki sikap mandiri dan diarahkan untuk dapat memenuhi\nkebutuhan pelayaran nasional atau asing, yang penyelenggaraannya harus\nmemperhatikan aspek -aspek teknis kepelautan, ketenagakerjaan dan aspek\npendidikan umum sesuai dengan peraturan perundang -undangan yang\nberlaku.\nPerencanaan pembinaan sumber daya manusia pelaut didasarkan atas prinsip\npenempatan pada tugas yang disesuaikan dengan kualifikasi atau keahlian\natau keterampilan yang bersangkutan, yang dari waktu ke waktu perlu dibina\nkeseimbangannya antara jumlah ketersediaan dengan jumlah kebutuhan\npelaut.\nBahwa untuk menjamin keselamatan pelayaran sebagai penunjang kelancaran\nlalu lintas kapal di laut, diperlukan adanya awak kapal yang berkeahlian,\nberkemampuan dan terampil, dengan demikian setiap kapal y ang akan\nberlayar harus diawaki dengan awak kapal yang cukup dan cakap untuk\nmelakukan tugas di atas kapal sesuai dengan jabatannya dengan\nmempertimbangkan besaran kapal, tata susunan kapal dan daerah pelayaran.\nMengingat tugas sebagai awak kapal memiliki ciri khusus yang antara lain\nmeninggalkan keluarga dalam waktu relatif lama, saat terjadi kerusakan kapal\nharus menangani sendiri tanpa batas waktu/jam kerja, dan bekerja pada\nsegala cuaca, maka diperlukan adanya pengaturan perlindungan kerja\ntersendiri.\nAtas dasar hal -hal tersebut di atas, maka disusunlah Peraturan Pemerintah\nyang mengatur segala sesuatu yang berkaitan dengan pendidikan, pelatihan,\nperijazahan, kewenangan serta hak dan kewajiban pelaut.\nPASAL …\nPRESIDEN\nREPUBLIK INDONESIA\nPASAL DEMI PASAL\nPasal 1\nAngka 1\nCukup jelas\nAngka 2\nCukup jelas\nAngka 3\nCukup jelas\nAngka 4\nCukup jelas\nAngka 5\nPengusaha angkutan di perairan adalah pengusaha yang telah\nmemiliki izin usaha angkutan di perairan yang menjadi pihak\ndalam perjanjian kerja laut.\nAngka 6\nGT.1 setara dengan 2,83 m3.\nAngka 7\n1 KW setara dengan 1,341 Tenaga Kuda (Horse Power/HP).\nAngka 8\nCukup jelas\nPasal 2\nAyat (1)\nYang dimaksud dengan kapal niaga dalam ketentuan ini adalah\nkapal yang digunakan untuk mengangkut barang, penumpang dan\nhewan untuk kepentingan niaga.\nYang dimaksud dengan kapal penangkap ikan dalam ketentuan ini\nadalah kapal yang digunakan sebagai kapal penangkapan ikan,\nikan paus, anjing laut, ikan duyun g atau hewan yang hidup di\nlaut.\nPenangkapan ikan adalah kegiatan yang bertujuan untuk\nmemperoleh ikan di perairan yang tidak dalam keadaan\ndibudidayakan.\nAyat (2)\nHuruf a\nKapal layar motor adalah kapal yang menggunakan layar sebagai\nPRESIDEN\nREPUBLIK INDONESIA\nsumber tenaga p enggerak utama dan motor digunakan sebagai\ntenaga penggerak bantu.\nHuruf b …\nHuruf b\nCukup jelas\nHuruf c\nCukup jelas\nHuruf d\nKapal pesiar pribadi (Pleasure Yacht) adalah kapal pribadi yang\ndipakai untuk keperluan olah raga dan tidak untuk berniaga.\nHuruf e\nYang dimaksud dengan kapal khusus adalah kapal-kapal dari jenis\nkendaraan yang berdaya dukung dinamis, bangunan terapung\nyang tidak berpindah-pindah dan kapal tunda.\nAyat (3)\nCukup jelas\nPasal 3\nCukup jelas\nPasal 4\nAyat (1)\nJenis sertifikat keahlian pelaut didasarkan atas pembagian tugas\nyang diperlukan di kapal.\nAyat (2)\nCukup jelas\nPasal 5\nAyat (1)\nHuruf a\nAhli Nautika Tingkat I dengan predikat \"Master Mariner\" adalah\nseorang yang telah memiliki kualifikasi sebagai nakhoda kapal\nniaga untuk semua jenis dan ukuran untuk daerah pelayaran\nsemua lautan.\nJenjang sertifikat di bawah Ahli Nautika Tingkat I dibatasi dalam\njabatan tertentu di kapal menurut ukuran kapal dan daerah\npelayarannya.\nHuruf b\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nHuruf c\nCukup jelas\nHuruf d …\nHuruf d\nCukup jelas\nHuruf e\nCukup jelas\nHuruf f\nCukup jelas\nAyat (2)\nHuruf a\nAhli Teknika Tingkat I dengan predikat \"Master Marine Engineer\"\nadalah seorang yang berkualifikasi selaku Kepala Kamar Mesin\nkapal niaga untuk semua jenis alat penggerak kapal dengan\nukuran tenaga penggerak tak terbatas dan untuk daerah pelayaran\nsemua lautan.\nJenjang sertifikat di bawah Sertifikat Ahli Tehnika Tingkat I\ndibatasi dalam jabatan tertentu di kapal menurut ukuran tenaga\npenggerak dan daerah pelayaran.\nHuruf b\nCukup jelas\nHuruf c\nCukup jelas\nHuruf d\nCukup jelas\nHuruf e\nCukup jelas\nHuruf f\nCukup jelas\nAyat (3)\nCukup jelas\nPasal 6\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 7 …\nPasal 7\nAyat (1)\nYang dimaksud dengan perwira -perwira kapal adalah Mualim,\nMasinis dan Operator Radio.\nYang dimaksud dengan rating adalah awak kapal selain\nNakhoda, para Mualim, Masinis dan Operator Radio.\nAyat (2)\nCukup jelas\nPasal 8\nAyat (1)\nYang dimaksud dengan kewenangan jabatan adalah suatu\nkewenangan yang diberikan kepada pemegang sertifikat keahlian\npelaut tertentu untuk menduduki salah satu j abatan di atas kapal\nsesuai dengan ukuran kapal dan daerah pelayaran.\nAyat (2)\nCukup jelas\nPasal 9\nCukup jelas\nPasal 10\nAyat (1)\nHuruf a\nCukup jelas\nHuruf b\nPengertian kecakapan pelaut termasuk pengetahuan pencegahan\npencemaran di laut.\nYang dimaksud dengan standar kompetensi adalah standar yang\nditetapkan berdasarkan peraturan perundang -undangan yang\nberlaku misalnya Keputusan Presiden Nomor 60 Tahun 1986 yang\nmeratifikasi Konvensi Internasional Standard of Training\nCertification and Watchkeeping for Seafarer (STCW).\nHuruf c\nCukup jelas\nAyat (2)\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 11\nCukup jelas\nPasal 12 …\nPasal 12\nAyat (1)\nYang dimaksud dengan mandiri (independen) adalah pelaksana\nujian tidak terlibat sebagai pengajar.\nAyat (2)\nCukup jelas\nPasal 13\nCukup jelas\nPasal 14\nCukup jelas\nPasal 15\nAyat (1)\nYang dimaksud dengan kapal jenis tertentu adalah kapal yang\ndigunakan untuk membantu menambatkan tali dan/atau\npekerjaan-pekerjaan yang menunjang kegiatan eksplorasi lepas\npantai (mooring boat).\nYang dimaksud dengan disijil adalah memasukkan kedalam Buku\nSijil yang merupakan buku yang berisi daftar awak kapal yang\nbekerja di atas kapal sesuai dengan jabatannya setelah memenuhi\npersyaratan tertentu.\nAyat (2)\nBuku Pelaut adalah dokumen resmi negara yang dikeluarkan oleh\nPemerintah Republik Indonesia yang mencantumkan keterangan\nlengkap yang sah tentang pribadi dan hubungan kerja dari\npemegang buku pelaut dengan pengusaha kapal.\nAyat (3)\nBuku Pelaut dimaksud dapat berlaku sebagai dokumen perjalanan\nnaik kapal di luar negeri dengan persyaratan pemegang buku\npelaut yang bersangkutan mempunyai perjanjian kerja laut yang\nmasih berlaku.\nAyat (4)\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 16\nCukup jelas\nPasal 17 …\nPasal 17\nCukup jelas\nPasal 18\nAyat (1)\nCukup jelas\nAyat (2)\nPerjanjian Kerja Laut memuat sekurang-kurangnya:\na. nama lengkap pelaut serta tempat dan tanggal lahir;\nb. tempat dan tanggal perjanjian dibuat;\nc. nama kapal atau kapal -kapal di mana pelaut akan\ndiperkerjakan;\nd. daerah pelayaran kapal di mana pelaut akan diperkerjakan;\ne. gaji, upah, lembur dan tunjangan lainnya;\nf. jangka waktu pelaut dipekerjakan;\ng. pemutusan hubungan kerja;\nh. asuransi dan pemulangan, cuti, jaminan kerja serta\npesangon;\ni. penyelesaian perselisihan.\nAyat (3)\nCukup jelas\nAyat (4)\nPerjanjian Kerja Laut harus diketahui oleh pejabat Pemerintah\ndimaksudkan untuk mengawasi ditaatinya ketentuan mengenai\nPerjanjian Kerja Laut.\nAyat (5)\nCukup jelas\nPasal 19\nCukup jelas\nPasal 20\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 21\nAyat (1)\nCukup jelas\nAyat (2) …\nAyat (2)\n44 (empat puluh empat) jam terdiri dari 8 (delapan) jam setiap hari\ndari hari Senin sampai dengan Jumat dan 4 (empat) jam pada hari\nSabtu.\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nAyat (5)\nCukup jelas\nAyat (6)\nYang dimaksud dengan pelaut muda adalah pelaut yang magang.\nPasal 22\nAyat (1)\nCukup jelas\nAyat (2)\nPenetapan angka 190 adalah jumlah jam kerja dalam 1 (satu)\nbulan.\nPenetapan angka 1,25 adalah sesuai ketentuan ILO.\nPasal 23\nCukup jelas\nPasal 24\nAyat (1)\nSelama menjalankan cuti, gaji dan hak -hak lainnya tidak\ndikurangi.\nAyat (2)\nCukup jelas\nPasal 25\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (1)\nYang dimaksud dengan jumlah makanan yang cukup dan layak\nadalah jumlah makanan yang disesuaikan dengan tempat tujuan\npelayaran.\nAyat (2)\nCukup jelas\nAyat (3) …\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nPasal 26\nAyat (1)\nCukup jelas\nAyat (2)\nYang dimaksud dengan memutuskan hubungan kerja dalam ayat\nini adalah pemutusan hubungan kerja yang dilaksanakan sesuai\ndengan peraturan perundang-undangan yang berlaku.\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nPasal 27\nAyat (1)\nPembayaran pesangon bagi pelaut yang bekerja di kapal asing\nberlaku ketentuan internasional.\nAyat (2)\nYang dimaksud dengan kapal dianggurkan adalah kapal yang siap\noperasi tetapi tidak dioperasikan.\nPasal 28\nAyat (1)\nCukup jelas\nAyat (2)\nAwak kapal yang sakit lebih dari 6 (enam) bulan dan yang sakit\nPRESIDEN\nREPUBLIK INDONESIA\nakibat cidera tidak lebih dari 12 (bulan), dapat dipekerjakan\nkembali setelah sembuh dari sakitnya sampai dengan berakhirnya\nPerjanjian Kerja Laut.\nAyat (3)\nCukup jelas.\nAyat (4)\nCukup jelas\nPasal 29 …\nPasal 29\nCukup jelas\nPasal 30\nCukup jelas\nPasal 31\nCukup jelas\nPasal 32\nAyat (1)\nYang dimaksud dengan akomodasi awak kapal adalah kamar tidur\ndan ruangan-ruangan tempat tinggal awak kapal.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nAyat (5)\nYang dimaksud dengan kapal -kapal tertentu adalah kapal -kapal\nyang mempunyai geladak di bawah garis muat di lambung kapal,\npenempatan kamar tidur diperbolehkan berada di bawah garis\nmuat.\nAyat (6)\nCukup jelas\nAyat (7)\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 33\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3) …\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nAyat (5)\nYang dimaksud dengan tempat tidur yang layak adalah tempat\ntidur yang dilengkapi dengan kasur dan bantal serta tersedia\nminimum 2 (dua) sprei, 2 (dua) sarung bantal dan 1 (satu) selimut.\nAyat (6)\nYang dimaksud dengan bahan standar adalah bahan yang\nditetapkan sesuai ketentuan konvensi.\nAyat (7)\nCukup jelas\nAyat (8)\nCukup jelas\nAyat (9)\nCukup jelas\nPasal 34\nCukup jelas\nPasal 35\nCukup jelas\nPasal 36\nAyat (1)\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nAyat (5) …\nAyat (5)\nKeharusan untuk melengkapi fasilitas air tawar yang bersuhu\npanas hanya berlaku bagi kapal yang berlayar di daerah pelayaran\nsemua lautan dan kawasan Indonesia.\nAyat (6)\nCukup jelas\nPasal 37\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nYang dimaksud dengan obat -obatan adalah jenis obat untuk\ndiminum atau dimakan dan obat-obat luar.\nAyat (4)\nCukup jelas\nAyat (5)\nCukup jelas\nPasal 38\nCukup jelas\nPasal 39\nCukup jelas\nPasal 40\nPRESIDEN\nREPUBLIK INDONESIA\nCukup jelas\nPasal 41\nAyat (1)\nCukup jelas\nAyat (2)\nPenggolongan jenis Sertifikat Keahlian Pelaut kapal perikanan\ndidasarkan atas pembagian tugas yang diperlukan di kapal yang\ndigunakan sebagai kapal penangkap ikan.\nPasal 42 …\nPasal 42\nCukup jelas\nPasal 43\nCukup jelas\nPasal 44\nCukup jelas\nPasal 45\nCukup jelas\nPasal 46\nAyat (1)\nAwak kapal motor sungai dan danau yang berukuran GT. 7 ke\nbawah tidak diharuskan untuk memiliki surat keterangan\nkecakapan.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nPasal 47\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 48\nCukup jelas\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 3929"
+   }
+  }
+ ]
+}

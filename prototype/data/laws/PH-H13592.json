@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13592",
+ "title": {
+  "zh": null,
+  "en": "An Act to Authorize the Disbursement of Such Sum as May Be Necessary of the Unexpended Balance of the Funds of the Magellan Centennial Commission Created By Act Numbered Twenty-Eight Hundred and Ten, for the Construction of a Schoolhouse on the Island of Mactan, Province of Cebu.",
+  "orig": "An Act to Authorize the Disbursement of Such Sum as May Be Necessary of the Unexpended Balance of the Funds of the Magellan Centennial Commission Created By Act Numbered Twenty-Eight Hundred and Ten, for the Construction of a Schoolhouse on the Island of Mactan, Province of Cebu."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1921-02-16",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2948",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 521,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1921/act_2948_1921.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02948_1921_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02948_1921_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13592-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The sum of ten thousand pesos, or so much thereof as may be necessary, is hereby appropriated\nout of the unexpended balance of the funds of the Magellan Centennial Commission created by Act Numbered\nTwenty-eight hundred and ten, to be disbursed for the construction of a schoolhouse on the Island of Mactan,\nProvince of Cebu, the plan and cost whereof shall be designated by the Bureau of Education, upon agreement\nwith the Provincial Board of Cebu."
+   }
+  },
+  {
+   "id": "PH-H13592-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, February 16, 1921."
+   }
+  }
+ ]
+}

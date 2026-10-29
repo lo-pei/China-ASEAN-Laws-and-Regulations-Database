@@ -1,0 +1,66 @@
+{
+ "id": "MY-H643",
+ "title": {
+  "zh": "2026年人头补助金法",
+  "en": "CAPITATION GRANT ACT 2026",
+  "orig": "CAPITATION GRANT ACT 2026",
+  "vi": "Luật về Trợ cấp theo đầu người năm 2026",
+  "th": "พระราชบัญญัติเงินอุดหนุนรายหัว ค.ศ. 2026",
+  "id": "Undang-Undang Hibah Per Kapita Tahun 2026",
+  "ms": "Akta Geran Per Kapita 2026"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-14",
+ "language": "en",
+ "level": "law",
+ "category": "04_劳工与行政法",
+ "status": "active",
+ "promulgatedDate": "2026",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "ACT880",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 2,
+ "chars": 629,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-detail.php?act=880&lang=BI"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\04_劳工与行政法\\2026_880_CAPITATION GRANT ACT 2026.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 2 条；逐字未改写（源自厂商 OCR 文本）。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H643-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "1. (1) This Act may be cited as the Capitation Grant Act 2026.\n\n(2) This Act comes into operation on 1 April 2026.\n\nAmendment of Part I of the Tenth Schedule to the Federal\n\nConstitution"
+   }
+  },
+  {
+   "id": "MY-H643-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "2. Subsection 1(1) of Part I of the Tenth Schedule to the Federal\n\nConstitution is amended by substituting for paragraphs (a), (b), (c)\n\nand (d) the following paragraphs:\n\n\"(a) for the first 100,000 persons at the rate of RM102.00\n\nper person;\n\n(b) for the next 500,000 persons at the rate of RM14.00\n\nper person;\n\n(c) for the next 500,000 persons at the rate of RM13.50\n\nper person;\n\n(d) for the remainder at the rate of RM13.00 per person,\"."
+   }
+  }
+ ]
+}

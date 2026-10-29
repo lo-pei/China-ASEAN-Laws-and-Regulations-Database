@@ -1,0 +1,62 @@
+{
+ "id": "PH-H10764",
+ "title": {
+  "zh": null,
+  "en": "AN ACT APPROPRIATING SEVEN HUNDRED AND FIFTY DOLLARS IN MONEY OF THE UNITED STATES, TO BE PAID TO THE WIDOW OF EDUARDO KINTERO, CHIEF OF POLICE OF TACLOBAN, LEYTE, OR TO THE COMMANDING OFFICER OF THE DISTRICT FOR HER BENEFIT.",
+  "orig": "AN ACT APPROPRIATING SEVEN HUNDRED AND FIFTY DOLLARS IN MONEY OF THE UNITED STATES, TO BE PAID TO THE WIDOW OF EDUARDO KINTERO, CHIEF OF POLICE OF TACLOBAN, LEYTE, OR TO THE COMMANDING OFFICER OF THE DISTRICT FOR HER BENEFIT."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 51",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 767,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_00051_1900_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_00051_1900_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H10764-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Whereas, Eduardo Kintero, chief of police of Tacloban, Leyte, was murdered while in the\ndischarge of his official duties on April twenty-first, nineteen hundred, because of the efficient administration\nof his office and his loyalty to the United States; and his untimely death leaves his wife and seven young\nchildren in needy circumstances;\nThe sum of seven hundred and fifty dollars, in money of the United States, is hereby appropriated out of any\nmoney in the Insular Treasury, not otherwise appropriated, to be paid, in the discretion of the Military\nGovernor, either to the widow of Eduardo Kintero or to the commanding officer of the district to be held and\nexpended by him for her benefit."
+   }
+  },
+  {
+   "id": "PH-H10764-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, November 23, 1900."
+   }
+  }
+ ]
+}

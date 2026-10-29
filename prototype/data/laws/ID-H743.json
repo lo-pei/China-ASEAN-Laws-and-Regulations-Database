@@ -1,0 +1,376 @@
+{
+ "id": "ID-H743",
+ "title": {
+  "zh": "商标上诉委员会法",
+  "en": "Law on the Trademark Appeal Commission",
+  "id": "KOMISI BANDING MEREK",
+  "orig": "KOMISI BANDING MEREK",
+  "vi": "Luật về Ủy ban Kháng nghị Nhãn hiệu",
+  "th": "พระราชบัญญัติว่าด้วยคณะกรรมการอุทธรณ์เครื่องหมายการค้า",
+  "ms": "Akta tentang Suruhanjaya Rayuan Cap Dagangan"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02c",
+ "language": "id",
+ "level": "law",
+ "category": "05_刑事与知识产权",
+ "status": "active",
+ "promulgatedDate": "1995",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU32-1995",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 23,
+ "chars": 26426,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PP0321995.pdf&fl=P03921"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\05_刑事与知识产权\\印尼_文本_1995_KOMISI BANDING MEREK.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 29 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H743-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\nDalam Peraturan Pemerintah ini yang dimaksud dengan :\n1. Komisi Banding Merek, yang selanjutnya disebut Komisi\nBanding adalah badan yang secara khusus dibentuk di lingkungan\ndepartemen yang lingkup tugas dan tanggungjawabnya meliputi\nbidang merek.\n2. Undang-undang Merek adalah Undang -undang Nomor 19 Tahun\n1992 tentang Merek.\n3. Menteri adalah Menteri yang lingkup tugas dan\ntanggungjawabnya meliputi pembinaan merek.\n4. Kantor Merek adalah unit organisasi di lingkungan departemen\npemerintahan yang melaksanakan tugas dan kewenangan di\nbidang merek.\nPRESIDEN\nREPUBLIK INDONESIA\nBAB II…\nBAB II\nTUGAS, WEWENANG, DAN\nSUSUNAN ORGANISASI\nBagian Pertama\nTugas dan Wewenang"
+   }
+  },
+  {
+   "id": "ID-H743-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\n(1) Komisi Banding mempunyai tugas dan wewenang memeriksa\ndan memutus permintaan banding terhadap penolakan permintaan\npendaftaran merek berdasarkan alasan sebagai mana dimaksud\ndalam Pasal 5 dan Pasal 6 Undang-undang Merek.\n(2) Komisi Banding bersifat mandiri dan bekerja berdasarkan\nkeahlian.\nBagian Kedua\nSusunan Organisasi"
+   }
+  },
+  {
+   "id": "ID-H743-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\n(1) Komisi Banding diketuai secara tetap oleh seorang Ketua yang\nmerangkap sebagai Anggota.\n(2) Anggota Komisi Banding berjumlah ganjil sekurang-kurangnya 3\n(tiga) orang.\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H743-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4…"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 4\n(1) Ketua dan Anggota Komisi Banding, diangkat dan diberhentikan\noleh Menteri, atas usul pimpinan Kantor Merek.\n(2) Ketua Komisi Banding sebagaimana dimaksud dalam ayat (1)\ndipilih dari tenaga yang mempunyai pengetahuan, pemahaman,\ndan keahlian di bidang merek.\n(3) Masa jabatan Ketua Komisi Banding 5 (lima) tahun dan dapa t\ndiangkat kembali untuk 1 (satu) kali masa jabatan."
+   }
+  },
+  {
+   "id": "ID-H743-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\n(1) Anggota Komisi Banding, kecuali yang merangkap sebagai\nKetua, diangkat setiap kali ada permintaan banding.\n(2) Anggota Komisi Banding sebagaimana dimaksud dalam ayat (1)\ndiangkat dari:\na. tenaga ahli yang mempunyai pengetahuan, pemahaman, dan\nkeahlian di bidang merek atau tenaga ahli di bidang lain yang\nkeahliannya diperlukan dalam pemeriksaan banding; dan\nb. Pemeriksa Merek Senior yang tidak melakukan pemeriksaan\nsubstantif terhadap permi ntaan pendaftaran merek yang\nditolak.\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H743-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6…"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 6\n(1) Pemeriksa Merek senior sebagaimana dimaksud dalam Pasal 5\nayat (2) huruf b adalah Pemeriksa Merek pada Kantor Merek\nyang mempunyai jabatan paling rendah Pemeriksa Merek\nPratama Madya.\n(2) Apabila pada saat berlakunya Peraturan Pemerintah ini\nPemeriksa Merek pada Kantor Merek belum memenuhi syarat\nsebagaimana dimaksud dalam ayat (1), maka untuk keanggotaan\nKomisi Banding dapat diangkat dari Pemeriksa Merek yang\nmempunyai jabatan paling renda h Pemeriksa Merek Pratama\nPertama dengan pengalaman melakukan pemeriksaan substantif\nsedikitnya selama 3 (tiga) tahun."
+   }
+  },
+  {
+   "id": "ID-H743-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\n(1) Dalam hal Ketua Komisi Banding mengundurkan diri atau\nmeninggal dunia atau karena sesuatu hal tidak mampu\nmenjalankan tugas sebagai Ketua atau diberhentikan sebelum\nmasa jabatannya berakhir, pimpinan Kantor Merek mengusulkan\ncalon penggantinya kepada Menteri.\n(2) Menteri menetapkan pengganti Ketua Komisi Banding\nsebagaimana dimaksud dalam ayat (1).\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H743-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8…"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 8\n(1) Dalam hal Anggota Komisi Banding mengundurkan diri atau\nmeninggal dunia atau karena sesuatu hal tidak mampu\nmenjalankan tugas sebagai anggota atau diberhentikan pada saat\npemeriksaan banding masih berlangsung, pimpinan Kantor\nMerek mengusulkan calon penggantinya kepada Menteri.\n(2) Menteri menetapkan pengganti Anggota Komisi Banding\nsebagaimana dimaksud dalam ayat (1)."
+   }
+  },
+  {
+   "id": "ID-H743-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n(1) Dalam melaksanakan tugasnya Komisi Banding dibantu oleh\nSekretariat yang dipimpin oleh seorang Sekretaris.\n(2) Sekretaris seba gaimana dimaksud dalam ayat (1) diangkat dan\ndiberhentikan oleh Menteri.\n(3) Sekretariat sebagaimana dimaksud dalam ayat (1) bertugas\nmemberikan pelayanan administrasi kepada Komisi Banding dan\nsecara fungsional dilaksanakan oleh Kantor Merek.\n(4) Tata ker ja dan tugas Sekretariat Komisi Banding diatur lebih\nlanjut dengan Keputusan Menteri.\nPRESIDEN\nREPUBLIK INDONESIA\nBAB III…\nBAB III\nPERMINTAAN BANDING\nBagian Pertama\nTata Cara Pengajuan Permintaan Banding"
+   }
+  },
+  {
+   "id": "ID-H743-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\n(1) Permintaan banding hanya dapat diajukan oleh orang atau\nbeberapa orang secara bersama -sama atau badan hukum yang\npermintaan pendaftaran mereknya ditolak Kantor Merek\nberdasarkan alasan sebagaimana dimaksud dalam Pasal 5 dan\nPasal 6 Undang-undang Merek.\n(2) Dalam hal permintaan banding diajukan melalui kuasa, maka\npermintaan banding tersebut wajib dilengkapi dengan surat kuasa\nkhusus."
+   }
+  },
+  {
+   "id": "ID-H743-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\n(1) Permintaan banding diajukan secara tertulis dalam bahasa\nIndonesia kepada Ketua Komisi Banding, dengan tembusa n\nkepada pimpinan Kantor Merek.\n(2) Permintaan banding sebagaimana dimaksud dalam ayat (1) harus\ndiajukan paling lambat 3 (tiga) bulan terhitung sejak tanggal\npenerimaan surat pemberitahuan penolakan permintaan\npendaftaran merek.\nPRESIDEN\nREPUBLIK INDONESIA\n(3) Permintaan...\n(3) Permintaan banding sebagaimana dimaksud dalam ayat (1) dapat\ndisampaikan secara langsung ke Kantor Merek atau dikirim\nmelalui jasa pos."
+   }
+  },
+  {
+   "id": "ID-H743-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n(1) Pengajuan permintaan banding dikenakan biaya.\n(2) Besarnya biaya sebagaimana dimaksud dalam ayat (1) dite tapkan\ndengan Keputusan Menteri setelah mendapat persetujuan Menteri\nKeuangan.\nBagian Kedua\nPersyaratan Permintaan Banding"
+   }
+  },
+  {
+   "id": "ID-H743-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\n(1) Surat permintaan banding harus memuat sekurang-kurangnya:\na. tanggal, bulan dan tahun surat permintaan banding;\nb. nama dan alamat lengkap orang atau badan hukum yang\nmengajukan permintaan banding;\nc. nama, alamat lengkap dan kewarganegaraan pemilik merek;\nd. nama dan alamat lengkap kuasa, apabila permintaan banding\ndiajukan melalui kuasanya;\ne. merek yang dimintakan banding;\nPRESIDEN\nREPUBLIK INDONESIA\nf. etiket...\nf. etiket merek yang bersangkutan;\ng. nomor dan tanggal keputusan penolakan permintaan\npendaftaran merek;\nh. alasan pengajuan permintaan banding yang memuat uraian\nsecara lengkap mengenai keberatan terhadap keputusan\npenolakan permintaan pendaftaran merek.\n(2) Alasan sebagaimana dimaksud dalam ayat (1) huruf h harus tidak\nmerupakan perbaikan atau penyempurnaan pe rmintaan\npendaftaran merek yang ditolak.\n(3) Surat permintaan banding sebagaimana yang dimaksud dalam\nayat (1) harus dilampiri dengan salinan keputusan penolakan\npermintaan pendaftaran merek.\n(4) Apabila dipandang perlu Komisi Banding dapat minta agar sura t\npermintaan banding sebagaimana dimaksud dalam ayat (1)\ndilengkapi dengan:\na. salinan bukti penerimaan permintaan pendaftaran merek yang\npertama kali yang menimbulkan hak prioritas, dengan disertai\nterjemahannya dalam bahasa Indonesia, apabila permintaan\npendaftaran merek diajukan dengan menggunakan hak\nprioritas;\nb. salinan peraturan penggunaan merek kolektif, apabila\npermintaan pendaftaran merek yang ditolak tersebut sedianya\nakan digunakan sebagai merek kolektif.\nPRESIDEN\nREPUBLIK INDONESIA\n(5). Salinan...\n(5). Salinan peraturan penggunaan merek kolektif sebagaimana yang\ndimaksud dalam ayat (4) huruf b, yang tidak menggunakan\nbahasa Indonesia harus disertai terjemahannya dalam bahasa\nIndonesia.\nBagian Ketiga\npengadministrasian"
+   }
+  },
+  {
+   "id": "ID-H743-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\n(1) Sekretariat Komisi Banding memberikan tanda penerimaan\nberkas permintaan banding yang telah lengkap dan\npengadministrasikan permintaan banding tersebut dalam buku\nkhusus.\n(2) Apabila tanggal penerimaan berkas permintaan banding\nmelampaui batas waktu 3 (tig a) bulan sejak tanggal penerimaan\nsurat pemberitahuan penolakan permintaan pendaftaran merek,\nSekretariat Komisi Banding segera memberitahukan secara\ntertulis penolakan permintaan banding atas dasar alasan tidak\ndipenuhinya batas waktu pengajuan banding se bagaimana\ndimaksud dalam Pasal 11 ayat (2).\n(3) Buku khusus sebagaimana dimaksud dalam ayat (1) memuat\nantara lain :\na. nomor urut permintaan banding;\nb. tanggal, bulan dan tahun surat permintaan banding;\nc. tanggal, bulan dan tahun penerimaan be rkas permintaan\nPRESIDEN\nREPUBLIK INDONESIA\nbanding;\nd. nama...\nd. nama dan alamat lengkap orang atau badan hukum yang\nmengajukan permintaan banding;\ne. nama, alamat lengkap dan kewarganegaraan pemilik merek;\nf. merek yang dimintakan banding; dan\ng. nama dan alamat kuasa, apa bila permintaan banding diajukan\nmelalui kuasa.\n(4) Ketentuan lebih lanjut mengenai tata cara pengajuan permintaan\nbanding diatur oleh Menteri."
+   }
+  },
+  {
+   "id": "ID-H743-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\n(1) Permintaan banding yang telah diajukan dan belum memperoleh\nkeputusan dapat ditarik kembali denga n mengajukan permintaan\nsecara tertulis kepada Ketua Komisi Banding dengan tembusan\nkepada pimpinan Kantor Merek.\n(2) Permintaan banding yang telah ditarik kembali tidak dapat\ndiajukan lagi.\n(3) Dalam hal permintaan banding ditarik kembali, segala biaya yang\ntelah dibayarkan tidak dapat ditarik kembali.\nPRESIDEN\nREPUBLIK INDONESIA\nBAB IV…\nBAB IV\nTATA CARA PEMERIKSAAN DAN\nPENYELESAIAN PERMINTAAN BANDING\nBagian Pertama\nTata Cara Pemeriksaan"
+   }
+  },
+  {
+   "id": "ID-H743-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\nPemeriksaan adm inistrasi dilakukan oleh Sekretaris dengan cara\nmemeriksa kelengkapan persyaratan administratif sebagaimana\ndimaksud dalam Pasal 10, Pasal 11, Pasal 12 ayat (1), dan Pasal 13."
+   }
+  },
+  {
+   "id": "ID-H743-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\n(1) Ketua Komisi Banding mengatur persidangan pemeriksaan\nbanding sesuai dengan nomor urut permintaan banding\nsebagaimana dimaksud dalam Pasal 14 ayat (3) huruf a.\n(2) Persidangan pemeriksaan banding bersifat terbuka untuk umum."
+   }
+  },
+  {
+   "id": "ID-H743-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\nKomisi Banding memer iksa dan memutus permintaan banding secara\nmajelis.\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H743-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19…"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 19\n(1) Pemeriksaan banding dilakukan terhadap berkas permintaan\nbanding yang telah diajukan kepada Sekretariat Komisi Banding.\n(2) Apabila dianggap perlu untuk kepentingan pemeriks aan banding,\nKomisi Banding dapat memanggil dan mendengar keterangan\ndari:\na. orang atau badan hukum atau kuasanya yang mengajukan\npermintaan banding;\nb. Pemeriksa Merek yang melakukan pemeriksaan substantif\nterhadap permintaan pendaftaran merek yang ditolak; atau\nc. para ahli yang dianggap perlu.\n(3) Apabila dianggap perlu Komisi Banding dapat melakukan\npenelitian di lapangan.\nBagian Kedua\nPenyelesaian Permintaan Banding"
+   }
+  },
+  {
+   "id": "ID-H743-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\n(1) Keputusan Komisi Banding diberikan dalam waktu paling lambat\n6 (enam) bulan terhitung sejak tanggal penerimaan berkas\npermintaan banding.\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Keputusan Komisi Banding bersifat final baik secara\nadministratif maupun secara substantif."
+   }
+  },
+  {
+   "id": "ID-H743-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21…"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 21\n(1) Keputusan Komisi Banding dibuat secara tertulis dan ditanda\ntangani oleh Ketua Komisi Banding dan para Anggota yang\nmemeriksa dan memutus permintaan banding.\n(2) Keputusan Komisi Banding sebagaimana dimaksud dalam ayat\n(1) sekurang-kurangnya memuat:\na. hari, tanggal, bulan dan tahun keputusan;\nb. nama dan tanda tangan Ketua dan Anggota Komisi Banding;\nc. nama dan alamat lengkap orang atau badan hukum atau\nkuasanya yang mengajukan permintaan banding;\nd. nama, alamat lengkap, dan kewarganegaraan pemilik merek;\ne. merek yang dimintakan banding;\nf. pokok-pokok alasan dalam pengajuan permintaan banding;\ng. pertimbangan dan penilaian Komisi Banding terhadap alasan\npermintaan banding;\nh. dasar hukum yang menjadi dasar keputusan; dan\ni. amar keputusan;"
+   }
+  },
+  {
+   "id": "ID-H743-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\n(1) Dalam hal Komisi Banding memutuskan untuk mengabulkan\npermintaan banding, maka amar keputusan sebagaimana\nPRESIDEN\nREPUBLIK INDONESIA\ndimaksud dalam Pasal 21 ayat (2) huruf i, harus memuat perintah\nkepada Kantor Merek untu k melaksanakan pendaftaran merek\ndan memberikan sertifikat merek sebagaimana dimaksud dalam"
+   }
+  },
+  {
+   "id": "ID-H743-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29 Undang-undang Merek"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {
+    "id": "Undang-undang Merek."
+   },
+   "text": {
+    "id": "Pasal 29 Undang-undang Merek.\n(2) Pendaftaran...\n(2) Pendaftaran merek sebagaimana dimaksud dalam ayat (1)\ndilaksanakan paling lambat 30 (tiga puluh) hari terhitun g sejak\ntanggal diterimanya keputusan Komisi Banding.\nPasal 23\n(1) Dalam hal Komisi Banding memutuskan untuk menolak\npermintaan banding, maka amar keputusan sebagaimana\ndimaksud dalam Pasal 21 ayat (2) Huruf i harus memuat perintah\nkepada Kantor Merek, u ntuk segera memberitahukan secara\ntertulis penolakan tersebut kepada orang atau badan hukum yang\nmengajukan permintaan banding.\n(2) Dalam hal permintaan banding diajukan oleh kuasanya, maka\npemberitahuan sebagaimana dimaksud dalam ayat (1)\ndisampaikan kepa da kuasa yang bersangkutan dan salinannya\ndiberikan kepada pemilik merek atau orang yang berhak atas\nmerek tersebut.\n(3) Pemberitahuan penolakan se bagaimana dimaksud dalam ayat (1)\ndan ayat (2) dilaksanakan paling lambat 30 (tiga puluh) hari\nterhitung sejak tanggal diterimanya keputusan Komisi Banding.\nPasal 24\nPRESIDEN\nREPUBLIK INDONESIA\nSekretaris Komisi Banding membuat berita acara persidangan Komisi\nBanding yang memuat se gala sesuatu yang terjadi dalam persidangan\npemeriksaan permintaan banding.\nPasal 25…\nPasal 25\n(1) Sekretaris Komisi Banding menyampaikan keputusan Komisi\nBanding dengan surat resmi kepada Kantor Merek paling lambat\n14 (empat belas) hari terhitung sejak tanggal keputusan.\n(2) Kantor Merek mengumumkan hasil keputusan Komisi Banding\ndalam Berita Resmi Merek.\nBAB V\nKETENTUAN PERALIHAN\nPasal 26\n(1) Semua permintaan pendaftaran merek yang ditolak oleh Kantor\nMerek berdasarkan Undang -undang Nomor 19 Tahun 1992\nsebelum berlakunya Peraturan Pemerintah ini, dapat dimintakan\nbanding kepada Komisi Banding menurut ketentuan sebagaimana\ndiatur dalam Peraturan Pemerintah ini.\n(2) Permintaan banding sebagaimana dimaksud dalam ayat (1)\ndiajukan paling lambat 3 (tiga) bulan terhitung sejak\ndiundangkannya Peraturan Pemerintah ini.\nBAB VI\nPRESIDEN\nREPUBLIK INDONESIA\nKETENTUAN PENUTUP\nPasal 27\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar...\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran\nNegara Republik Indonesia.\nDitetapkan di Jakarta\npada tanggal 29 Agustus 1995\nPRESIDEN REPUBLIK INDONESIA,\nttd.\nSOEHARTO\nDiundangkan di Jakarta\npada tanggal 29 Agustus 1995\nMENTERI SEKRETARIS NEGARA\nREPUBLIK INDONESIA,\nttd.\nMOERDIONO\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1995 NOMOR 55\nPRESIDEN\nREPUBLIK INDONESIA\nPENJELASAN\nATAS\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nNOMOR 32 TAHUN 1995\nTENTANG\nKOMISI BANDING MEREK\nUMUM\nPeraturan Pemerintah ini disusun sebagai pelaksanaan Pasal 35, serta merupakan\npenjabaran lebih lanjut ketentuan Pasal 31, Pasal 32, Pasal 33 dan Pasal 34\nUndang-undang Nomor 19 Tahun 1992 tentang Merek. Inti dari pasal -pasal tersebut\nadalah pengaturan mengenai pembentukan suatu lembaga khusus yang bertugas\nmemeriksa dan memutus permintaan banding terhadap penolakan permintaan\npendaftaran merek oleh Kantor Merek yang didasarkan pada hal -hal yang bersifat\nsubstantif. Lembaga ini disebut Komisi Banding Merek.\nPembentukan Komisi Banding Merek pada dasarnya dimaksudkan untuk lebih\nmemberikan jaminan kepastian hukum dan keadilan dalam sistem hukum perlindungan\nmerek. Apabila orang atau badan hukum merasa keberatan terhadap put usan penolakan\npermintaan pendaftaran mereknya, maka orang atau badan hukum tersebut dapat\nmengajukan permintaan banding kepada Komisi Banding Merek. Artinya, tidak\nmengajukan keberatannya kepada Kantor Merek ataupun ke Pengadilan. Permintaan\nbanding serup a itu hanya dapat diajukan kepada Komisi Banding Merek terhadap\nkeputusan penolakan yang didasarkan pada alasan -alasan yang bersifat substantif\nsebagaimana dimaksud dalam Pasal 5 dan Pasal 6 Undang -undang Nomor 19 Tahun\n1992 tentang Merek. Ini berarti, kep utusan penolakan permintaan pendaftaran merek\noleh Kantor Merek yang didasarkan kepada alasan selain yang ditentukan dalam Pasal\n5 dan Pasal 6 undang-undang tersebut tidak dapat dimintakan banding. Para pihak yang\nmerasa keberatan atau tidak puas terhadap keputusan penolakan pendaftaran merek\nkarena alasan -alasan diluar Pasal 5 dan Pasal 6 dapat mengajukan gugatan ke\nPengadilan Tata Usaha Negara atau pengadilan di lingkungan Peradilan Umum sesuai\ndengan sifat perkaranya ataupun berdasarkan peraturan perunda ng-undangan yang\nberlaku.\nPRESIDEN\nREPUBLIK INDONESIA\nKomisi…\nKomisi Banding Merek terdiri atas seorang ketua merangkap anggota dan\nbeberapa anggota. Ketua Komisi Bidang diangkat secara tetap untuk masa jabatan 5\n(lima) tahun. Keanggotaan Komisi Banding Merek berjumlah ganjil\nsekurang-kurangnya 3 (tiga) orang dan diangkat dari tenaga ahli yang memiliki\npengetahuan di bidang merek dan atau pemeriksa merek senior setiap kali ada\npermintaan banding. Untuk menunjang kelancaran pelaksanaan tugasnya, terutama\nuntuk hal -hal yang bersif at administratif, Komisi Banding dibantu oleh Sekretariat\nyang dipimpin seorang Sekretaris. Komisi Banding Merek melakukan pemeriksaan\nberkas lengkap. Namun apabila dipandang perlu, untuk kejelasan duduk\npermasalahannya Komisi Banding dapat memanggil kedua belah pihak yaitu Pemeriksa\nMerek yang melakukan pemeriksaan terhadap permintaan pendaftaran merek yang\nditolak dan pihak yang mengajukan permintaan pendaftaran merek untuk didengar\nketerangannya.\nPASAL DEMI PASAL\nPasal 1\nCukup jelas\nPasal 2\nAyat (1)\nTugas Komisi Banding pada dasarnya memeriksa ulang permintaan\npendaftaran merek yang ditolak oleh Kantor Merek berdasarkan ketentuan\nPasal 5 dan Pasal 6 Undang-undang Nomor 19 Tahun 1992 tentang Merek.\nKedua pasal ini mengatur persyaratan substantif yang dijadikan dasar dan\npertimbangan bagi pemeriksa merek untuk memutuskan dapat atau tidak\ndapatnya merek tersebut didaftar.\nMengingat penolakan tersebut diputuskan setelah Pemeriksa Merek\nmelakukan peme riksaan yang bersifat substantif, maka pemeriksaan ulang\noleh Komisi Banding pada dasarnya juga merupakan pemeriksaan yang\nbersifat substantif.\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (2)…\nAyat (2)\nYang dimaksud dengan mandiri adalah tidak tunduk kepada perintah atau\nkemauan siapapun yang memimpin departemen atau Kantor Merek. Untuk\ndapat memeriksa dan memutuskan permintaan banding yang diajukan,\nanggota Komisi Banding harus memiliki pengetahuan, pemahaman dan\nkeahlian di bidang merek.\nDalam hal demikian, Komisi Banding bekerja berdasarkan keahlian.\nPasal 3\nAyat (1)\nCukup jelas\nAyat (2)\nKeanggotaan Komisi Banding yang berjumlah ganjil dan\nsekurang-kurangnya 3 (tiga) orang adalah sudah termasuk Ketua Komisi\nBanding yang merangkap sebagai anggota.\nPasal 4\nAyat (1)\nCukup jelas\nAyat (2)\nTenaga yang mempunyai pengetahuan, pemahaman dan keahlian di bidang\nmerek dapat berasal dari lingkungan departemen yang lingkup tugas dan\ntanggungjawabnya meliputi bidang merek maupun dari instansi lain.\nYang dijadikan kriteria pada dasarnya adalah keahlian seseorang dan bukan\nkarena jabatan dari suatu organisasi yang berkaitan dengan bidang merek.\nAtas dasar pertimbangan ini pula maka pengangkatan anggota Komisi\nBanding dapat dilakukan dengan menunjuk para ahli di luar lingkunga n\npemerintahan.\nAyat (3)\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 5…\nPasal 5\nAyat (1)\nBerbeda dengan Ketua Komisi Banding yang diangkat secara tetap, Anggota\nKomisi Banding hanya diangkat bila ada permintaan banding saja.\nAdapun masa jabatannya ditentukan hanya selama melakukan suatu\npemeriksaan banding.\nAyat (2)\nHuruf a\nTenaga ahli yang dapat diangkat sebagai Anggota Komisi Banding dapat\nberasal dari kalangan pemerintah maupun dari kalangan swasta.\nHuruf b\nCukup jelas\nPasal 6\nAyat (1)\nSyarat jabatan yang dimaksud dalam pasal ini disesuaikan dengan peraturan\nmengenai jabatan fungsional Pemeriksa Merek.\nAyat (2)\nCukup jelas\nPasal 7\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 8…\nPasal 8\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 9\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nYang dimaksud dengan fungsional dalam ayat ini menunjukkan fungsi\nSekretariat Komisi Banding yang secara struktural berada pada Kantor\nMerek.\nAyat (4)\nCukup jelas\nPasal 10\nAyat (1)\nDalam hal permintaan banding diajukan oleh beberapa orang secara\nbersama-sama atau badan hukum, maka permintaan banding tersebut\nditandatangani oleh salah seorang atau wakil dari badan hukum yang\nbersangkutan.\nAyat (2)\nSurat kuasa untuk mengajukan permintaan banding merupakan surat kuasa\nkhusus. Artinya, hanya digunakan untuk keperluan pengajuan banding.\nPRESIDEN\nREPUBLIK INDONESIA\nDengan…\nDengan demikian harus disebutkan secara jelas mengenai hal -hal yang\ndikuasakan termasuk penjelasan mengenai permintaan pendaftaran\nmereknya yang ditolak oleh Kantor Merek.\nPasal 11\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nMengingat bahwa pengajuan permintaan banding dapat dilakukan secara\nlangsung maupun melalui pos maka kemungkinan dapat saja terjadi\npermintaan banding diterima oleh Sekretariat Komisi Banding setelah\nlewatnya jangka wak tu 3 (tiga) bulan sejak tanggal penerimaan surat\npemberitahuan penolakan permintaan pendaftaran merek. Dalam hal\ndemikian, Peraturan Pemerintah ini menetapkan bahwa Sekretariat Komisi\nBanding Merek harus menolak dengan memberitahukannya secara tertulis\nkepada yang mengajukan permintaan banding.\nResiko seperti ini akan selalu ada terutama apabila penyampaian permintaan\nbanding dikirim melalui jasa pos. Oleh karena itu harus ada pertimbangan\nyang hati-hati dalam menentukan cara pengajuan permintaan banding.\nPasal 12\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 13…\nPasal 13\nAyat (1)\nHuruf a\nCukup jelas\nHuruf b\nDalam hal permintaan banding diajukan oleh beberapa orang secara\nbersama-sama atau oleh badan hukum, permintaan banding tersebut\nditandatangani oleh salah seorang atau wakil dari badan hukum yang\nberhak.\nHuruf c\nCukup jelas\nHuruf d\nCukup jelas\nHuruf e\nCukup jelas\nHuruf f\nCukup jelas\nHuruf g\nCukup jelas\nHuruf h\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (2)…\nAyat (2)\nAlasan bagi pengajuan permintaan banding hanya boleh menguraikan\nhal-hal yang menjadi keberatan terhadap dasar dan pertimbangan Kantor\nMerek menolak permintaan pendaftaran mereknya. Alasan serupa itu tidak\nboleh mengubah ataupun memperbaiki hal -hal yang berkenaan dengan\npermintaan pendaftaran merek yang dahulu diajukan.\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nAyat (5)\nCukup jelas\nPasal 14\nAyat (1)\nApabila pada berkas permintaan banding diketemukan adanya satu atau\nbeberapa kekurangan dalam memenuhi persyaratan banding, maka\nsekretariat komisi banding minta kepada pihak yang mengajukan banding\nguna melengkapi kekurangan -kekurangan tersebut sebelum ja ngka waktu\nbagi pengajuan permintaan banding berakhir.\nAyat (2)\nCukup jelas\nAyat (3)\nHuruf a\nCukup jelas\nHuruf b\nPRESIDEN\nREPUBLIK INDONESIA\nCukup jelas\nHuruf c…\nHuruf c\nTanggal tersebut adalah tanggal diterimanya berkas permintaan banding\nyang telah lengkap.\nIni berarti tanggal penerimaan dokumen yang belum lengkap yang dicatat\noleh Sekretariat, tidak dianggap sebagai tanggal penerimaan berkas\npermintaan banding.\nHuruf d\nCukup jelas\nHuruf e\nCukup jelas\nHuruf f\nCukup jelas\nHuruf g\nCukup jelas\nAyat (4)\nCukup jelas\nPasal 15\nAyat (1)\nSelama permintaan banding belum memperoleh keputusan tetap dari Komisi\nBanding, permintaan banding dapat ditarik kembali oleh orang atau badan\nhukum atau kuasanya yang mengajukan banding.\nAyat (2)\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (3)\nCukup jelas\nPasal 16…\nPasal 16\nCukup jelas\nPasal 17\nAyat (1)\nKetua Komisi Banding membagikan berkas permintaan banding kepada\npara Anggota untuk diperiksa berdasarkan nomor urut permintaan banding\nAyat (2)\nCukup jelas\nPasal 18\nYang dimaksud dengan secara majelis adalah cara persidangan dengan komposisi\nanggota Komisi Banding yang berjumlah ganjil.\nPasal 19\nAyat (1)\nBerkas yang diterima Komisi Banding terdiri dari berkas permintaan\npendaftaran merek yang ditolak, ke putusan Kantor Merek, berkas\npermintaan banding, dan surat-surat lain yang berkaitan.\nAyat (2)\nHuruf a\nKehadiran orang atau badan hukum atau kuasanya yang mengajukan\npermintaan banding dalam pemeriksaan Komisi Banding diperlukan untuk\nkepentingannya sendiri. Apabila orang atau badan hukum atau kuasanya\nyang mengajukan permintaan banding tidak hadir, maka tidak akan\nmempengaruhi jalannya pemeriksaan dan keputusan Komisi Banding.\nHuruf b\nPRESIDEN\nREPUBLIK INDONESIA\nCukup jelas\nHuruf c…\nHuruf c\nPara ahli dapat berasal dari tenaga ahli di bidang merek dan atau tenaga ahli\ndi bidang lain yang keahliannya di perlukan dalam pemeriksaan banding.\nAyat (3)\nPenelitian lapangan dapat dilakukan antara lain dengan melakukan survei\npasar, misalnya untuk mengetahui apakah merek tersebut telah menjadi\nmilik umum. Survei dapat dilakukan melalui angket untuk mengumpulkan\npendapat masyarakat mengenai masalah yang dipertimbangkan dalam\nKomisi Banding.\nPasal 20\nAyat (1)\nCukup jelas\nAyat (2)\nSecara administratif bersifat final berarti tidak ada jenjang yang lebih tinggi\nyang diberi kewenangan untuk memeriksa ulang keputusan Komisi\nBanding.\nSedangkan secara subtantif berarti tidak ada ukuran lain yang dapat\ndigunakan untuk menilai atau memeriksa putusan Komisi Banding.\nSingkatnya keputusan Komisi Banding bersifat tuntas baik dari segi\npenerapan hukum maupun dari segi penilaian teknisnya.\nPasal 21\nAyat (1)\nDalam hal salah satu dari Anggota Komisi Banding tidak dapat\nmenandatangani keputusan, maka Ket ua Komisi Banding memberi catatan\nyang menjelaskan alasan anggota Komisi Banding tidak dapat\nmenandatangani keputusan tersebut.\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (2)\nHuruf a\nCukup jelas\nHuruf b…\nHuruf b\nCukup jelas\nHuruf c\nCukup jelas\nHuruf d\nCukup jelas\nHuruf e\nCukup jelas\nHuruf f\nCukup jelas\nHuruf g\nCukup jelas\nHuruf h\nCukup jelas\nHuruf i\nDalam hal Komisi Banding memutuskan mengabulkan permintaan ban ding,\nmaka amar keputusan dapat berisi pengabulan untuk keseluruhan atau\nsebagian permintaan banding.\nPasal 22\nAyat (1)\nPRESIDEN\nREPUBLIK INDONESIA\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 23…\nPasal 23\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nPasal 24\nCukup jelas\nPasal 25\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 26\nAyat (1) dan Ayat (2)\nKetentuan ini dianggap perlu terutama untuk memberikan kesempatan bagi\npemilik merek yang permintaan pendaftaran mereknya ditolak tetapi tidak\ndapat mengajukan banding karena lembaga khusus untuk itu belum\ndibentuk.\nPRESIDEN\nREPUBLIK INDONESIA\nMenurut ketentuan Pasal 33 Undang -undang Merek setiap penolakan\npermintaan pendaftaran merek dapat dimintakan banding paling lambat 3\n(tiga) bulan terhitung sejak tanggal penerimaan surat pemberitahuan\npenolakan permintaan pendaftaran merek.\nBatas…\nBatas waktu pengajuan banding tersebut dianggap tetap berlaku terhitung\nsejak Peraturan Pemerintah ini diundangkan. Adapun bagi penolakan yang\ndilakukan oleh Kantor Merek pada saat dan sesudah diundangkannya\nperaturan Pemerintah ini, diberlakukan jangka waktu sebagaimana yang\nditetapkan dalam Pasal 33 Undang-undang Merek.\nPasal 27\nCukup jelas\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 3607"
+   }
+  }
+ ]
+}

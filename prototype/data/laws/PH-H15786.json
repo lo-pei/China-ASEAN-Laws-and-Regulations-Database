@@ -1,0 +1,62 @@
+{
+ "id": "PH-H15786",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Sections thirty-Nine and Forty of the National Defense Act.",
+  "orig": "An Act to Amend Sections thirty-Nine and Forty of the National Defense Act."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1936-10-23",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 69",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 909,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00069_1936_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00069_1936_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H15786-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Sections thirty-nine and forty of the National Defense Act are hereby amended to read as\n\"Section 39. The President shall appoint and commission, upon the recommendation of the Chief of Staff,\nsuch reserve officers as shall in his opinion be needed. If deemed necessary, candidates may be required to\nundergo training as probationary third lieutenants, before being appointed and commissioned in the reserves.\n\"Section 40. In so far as may be practicable, original appointments by the President in grades above third\nlieutenant shall be made from among those holding Reserve Commissions in the United States Army, from\namong former officers of the Philippine Scouts and Constabulary, from among former officers of the National\nGuard and from among those probationary third lieutenants who possess exceptional ability or special training"
+   }
+  },
+  {
+   "id": "PH-H15786-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, October 23, 1936."
+   }
+  }
+ ]
+}

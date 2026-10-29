@@ -1,0 +1,627 @@
+{
+ "id": "ID-H1190",
+ "title": {
+  "zh": null,
+  "en": null,
+  "id": "KESELAMATAN DAN KESEHATAN TERHADAP PEMANFAATAN RADIASI PENGION",
+  "orig": "KESELAMATAN DAN KESEHATAN TERHADAP PEMANFAATAN RADIASI PENGION"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02b",
+ "language": "id",
+ "level": "law",
+ "category": "04_劳工与行政法",
+ "status": "active",
+ "promulgatedDate": "2000",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU63-2000",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 41,
+ "chars": 18719,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PP%20NO%2063%20TH%202000.pdf&fl=P04303"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\04_劳工与行政法\\印尼_文本_2000_KESELAMATAN DAN KESEHATAN TERHADAP PEMANFAATAN RADIASI PENGION.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 41 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H1190-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\nDalam Peraturan Pemerintah ini yang dimaksud dengan :\n1. Keselamatan dan kesehatan terhadap pemanfaatan radi asi pengion yang\nselanjutnya disebut keselamatan radiasi adalah upaya yang dilakukan\nuntuk menciptakan kondisi yang sedemikian agar efek radiasi pengion\nterhadap manusia dan lingkungan hidup tidak melampaui nilai batas\nyang ditentukan.\n2. Tenaga nuklir adalah tenaga dalam bentuk apapun yang dibebaskan\ndalam proses transformasi inti, termasuk tenaga yang berasal dari\nsumber radiasi pengion.\n3. Instalasi adalah instalasi zat radioaktif dan atau instalasi sumber radiasi\npengion.\n4. Radiasi pengion adalah gelombang elektromagnetik dan partikel yang\nkarena energi yang dimilikinya mampu mengionisasi media yang\ndilaluinya.\n5. Nilai batas dosis adalah dosis terbesar yang diizinkan oleh Badan\nPengawas yang dapat diterima oleh pekerja radia si dan anggota\nmasyarakat dalam jangka waktu tertentu tanpa menimbulkan efek\ngenetik dan somatik yang berarti akibat pemanfaatan tenaga nuklir.\n6. Dosis radiasi adalah jumlah radiasi yang terdapat dalam medan radiasi\natau jumlah energi radiasi yang diserap atau diterima oleh materi yang\ndilaluinya.\n7. Catatan dosis adalah catatan tentang nilai dosis yang diterima oleh\npekerja radiasi selama bekerja di medan radiasi.\n8. Pengusaha instalasi adalah pimpinan instalasi atau orang lain yang\nditunjuk untuk mewakilinya dan bertanggung jawab pada instalasinya.\n9. Petugas proteksi radiasi adalah petugas yang ditunjuk oleh pengusaha\ninstalasi dan oleh Badan Pengawas dinyatakan mampu melaksanakan\npekerjaan yang berhubungan dengan proteksi radiasi.\n10. Pekerja radiasi ad alah setiap orang yang bekerja di instalasi nuklir atau\ninstalasi radiasi pengion yang diperkirakan menerima dosis radiasi\ntahunan melebihi dosis untuk masyarakat umum.\n11. Kecelakaan radiasi adalah kejadian yang tidak direncanakan termasuk\nkesalahan opera si, kerusakan ataupun kegagalan fungsi alat atau\nkejadian lain yang menjurus timbulnya dampak radiasi, kondisi paparan\nradiasi dan atau kontaminasi yang melampaui batas keselamatan.\n12. Badan Pelaksana adalah badan yang bertugas melaksanakan\npemanfaatan tenaga nuklir.\n13. Badan Pengawas adalah badan yang bertugas melaksanakan\npengawasan terhadap segala kegiatan pemanfaatan tenaga nuklir.\nPRESIDEN\nREPUBLIK INDONESIA\nBAB II …\nBAB II\nRUANG LINGKUP DAN TUJUAN"
+   }
+  },
+  {
+   "id": "ID-H1190-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\n(1) Peraturan Pemerintah ini mengatur tentang persyaratan sistem\npembatasan dosis, sistem manajemen keselamatan radiasi, kalibrasi,\nkesiapsiagaan dan penanggulangan kecelakaan radiasi.\n(2) Peraturan Pemerintah ini bertujuan untuk menjamin keselamatan,\nkeamanan, dan ketentraman, kesehatan pekerja dan anggota\nmasyarakat, serta perlindungan terhadap lingkungan hidup.\nBAB III\nSISTEM PEMBATASAN DOSIS"
+   }
+  },
+  {
+   "id": "ID-H1190-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\nUntuk menjamin keselamatan dan kesehatan pekerja, masyarakat dan\nlingkungan hidup, pengusaha instalasi yang melaksanakan setiap kegiatan\npemanfaatan tenaga nuklir yang dapat mengakibatkan penerimaan dosis\nradiasi harus memenuhi prinsip -prinsip keselamatan dan kesehatan sebagai\nberikut :\na. setiap pemanfaatan tenaga nuklir harus mempunyai manfaat lebih besar\ndibanding dengan risiko yang ditimbulkan;\nb. penerimaan dosis radiasi terhadap pekerja atau masyarakat tidak\nmelebihi nilai batas dosis yang ditetapkan oleh Badan Pengawas;\nc. kegiatan pemanfaatan tenaga nuklir harus direncanakan dan s umber\nradiasi harus dirancang dan dioperasikan untuk menjamin agar paparan\nradiasi yang terjadi ditekan serendah-rendahnya."
+   }
+  },
+  {
+   "id": "ID-H1190-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\n(1) Pengusaha instalasi yang merancang, membuat, mengoperasikan dan\natau merawat sistem dan komponen sumber radiasi yang m empunyai\npotensi bahaya radiasi harus mencegah terjadinya penerimaan dosis yang\nberlebih.\n(2) Sistem dan komponen sumber radiasi sebagaimana dimaksud dalam ayat\n(1) harus dirancang dan dibuat sesuai dengan standar.\n(3) Standar sebagaimana dimaksud dalam ay at (2) diatur lebih lanjut dengan\nKeputusan Kepala Badan Pengawas.\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H1190-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5 …"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 5\n(1) Apabila dalam satu lokasi terdapat beberapa fasilitas pemanfaatan tenaga\nnuklir, pengusaha instalasi menetapkan tingkat dosis yang lebih rendah\nuntuk masing-masing instalasi, agar dosis kumulatif tidak melampaui nilai\nbatas dosis.\n(2) Pelepasan zat radioaktif ke lingkungan hidup dari semua fasilitas\nsebagaimana dimaksud dalam ayat (1) tidak boleh mengakibatkan nilai\nbatas dosis untuk masyarakat dilampaui."
+   }
+  },
+  {
+   "id": "ID-H1190-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\n(1) Dalam menerapkan dosis untuk keperluan medik dengan tujuan diagnostik\ndan terapi, pengusaha instalasi harus memperhatikan perlindungan pasien\nterhadap radiasi sebagaimana dimaksud dalam Pasal 3 huruf a dan c.\n(2) Tingkat acuan untuk dosis, laj u dosis dan aktivitas yang diberikan untuk\nkeperluan diagnostik dan terapi diatur lebih lanjut dengan Keputusan\nKepala Badan Pengawas\nBAB IV\nSISTEM MANAJEMEN KESELAMATAN RADIASI\nBagian Pertama\nUmum"
+   }
+  },
+  {
+   "id": "ID-H1190-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\nPengusaha instalasi harus menerapkan sistem manajemen keselamatan\nradiasi, yang meliputi organisasi proteksi radiasi, pemantauan dosis radiasi\ndan radioaktivitas, peralatan proteksi radiasi, pemeriksaan kesehatan,\npenyimpanan dokumen, dan jaminan kualitas, serta pendidikan dan pelatihan.\nBagian Kedua\nOrganisasi Proteksi Radiasi"
+   }
+  },
+  {
+   "id": "ID-H1190-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\nPengusaha instalasi harus memiliki organisasi proteksi radiasi yang\nsekurang-kurangnya terdiri atas unsur pengusaha instalasi, petugas proteksi\nradiasi dan pekerja radiasi.\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H1190-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9 …"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 9\n(1) Setiap pengusaha instalasi yang memanfaatkan tenaga nuklir harus\nmempunyai sekurang-kurangnya 1 (satu) orang petugas proteksi radiasi.\n(2) Pengusaha instalasi wajib menunjuk orang lain atau dirinya sendiri\nsebagai petugas proteksi radiasi.\n(3) Persyaratan petugas proteksi radiasi sebagaimana dimaksud dalam ayat\n(1) dan ayat (2) diatur lebih lanjut dengan Keputusan Kepala Badan\nPengawas.\nBagian Ketiga\nPemantauan Dosis Radiasi dan Radioaktivitas"
+   }
+  },
+  {
+   "id": "ID-H1190-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\n(1) Pengusaha instalasi harus mewajibkan setiap pekerja radiasi untuk\nmemakai peralatan pemantau dosis perorangan, sesuai dengan jenis\ninstalasi dan sumber radiasi yang digunakan.\n(2) Peralatan pemantau dosis perorangan sebagaimana dimaksud dalam ayat\n(1) haru s diolah dan dibaca oleh instansi atau badan yang telah\nterakreditasi dan ditunjuk oleh Badan Pengawas.\n(3) Persyaratan untuk dapat ditunjuk sebagaimana dimaksud dalam ayat (2)\ndiatur lebih lanjut dengan Keputusan Kepala Badan Pengawas."
+   }
+  },
+  {
+   "id": "ID-H1190-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\n(1) Hasil pengolahan dan pembacaan peralatan pemantau dosis perorangan\nsebagaimana dimaksud dalam Pasal 10 ayat (2) harus disampaikan\nkepada pengusaha instalasi dan Badan Pengawas.\n(2) Pengusaha instalasi harus mengevaluasi hasil pemantauan dosis\nperorangan sebagaimana dimaksud dalam ayat (1).\n(3) Apabila dari hasil evaluasi sebagaimana dimaksud dalam ayat (2) terdapat\ndosis berlebih, pengusaha instalasi harus melaksanakan tindak lanjut.\n(4) Badan Pengawas dapat melakukan pemeriksaan apabila dari hasil\nevaluasi terdapat dosis berlebih ."
+   }
+  },
+  {
+   "id": "ID-H1190-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n(1) Pengusaha instalasi bertanggung jawab atas pelaksanaan pencatatan dosis\nradiasi yang diterima oleh setiap pekerja radiasi.\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Pencatatan dosis sebagaimana dimaksud dalam ayat (1) dilakukan oleh\npetugas proteksi radiasi.\n(3) Setiap pekerja radiasi berhak mengetahui catatan dosis selama bekerja.\n(4) Catatan dosis radiasi harus dapat ditunjukkan sewaktu -waktu apabila\ndiminta oleh Badan Pengawas."
+   }
+  },
+  {
+   "id": "ID-H1190-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13 …"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 13\n(1) Pengusaha instalasi harus memberikan salinan catatan dosis kepada\npekerja radiasi yang akan memutuskan hubungan kerja.\n(2) Apabila pekerja radiasi sebagaimana dimaksud dalam ayat (1) pindah\nbekerja ke instalasi lain yang memanfaatkan tenaga nuklir harus\nmenyerahkan salinan catatan dosis sebagaimana dimaksud dalam ayat (1)\nkepada pengusaha instalasi yang baru."
+   }
+  },
+  {
+   "id": "ID-H1190-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\n(1) Pengusaha instalasi harus melakukan pemantauan daerah kerja secara\nterus menerus, berkala dan atau sewaktu -waktu berdasarkan jenis\ninstalasi dan sumber radiasi yang digunakan.\n(2) Pengusaha instalasi harus mencatat dan mendokumentasikan hasil\npemantauan daerah kerja.\n(3) Pemantauan daerah kerja sebagaimana dimaksud dalam ayat (1) diatur\nlebih lanjut dengan Keputusan Kepala Badan Pengawas."
+   }
+  },
+  {
+   "id": "ID-H1190-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\n(1) Pengusaha instalasi harus melakukan pemantauan tingkat radioaktivitas\nbuangan zat radioaktif ke lingkunga n hidup, secara terus menerus,\nberkala, dan atau sewaktu-waktu.\n(2) Buangan zat radioaktif ke lingkungan hidup sebagaimana dimaksud dalam\nayat (1) tidak boleh melebihi nilai batas radioaktivitas yang diatur lebih\nlanjut dengan Keputusan Kepala Badan Pengawas.\n(3) Pengusaha instalasi harus mencatat dan mendokumentasikan hasil\npemantauan sebagaimana dimaksud dalam ayat (1)."
+   }
+  },
+  {
+   "id": "ID-H1190-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\n(1) Apabila pengusaha instalasi tidak mempunyai kemampuan melakukan\npemantauan sebagaimana dimaksud dalam Pasal 15 ayat (1), pengusaha\ninstalasi dapat menunjuk instansi atau badan lain yang telah\nterakreditasi dan ditunjuk oleh Badan Pengawas.\n(2) Persyaratan untuk dapat ditunjuk sebagaimana dimaksud dalam ayat (1)\ndiatur lebih lanjut dengan Keputusan Kepala Badan Pengawas.\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H1190-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17 …"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 17\nPengusaha instalasi harus dapat menunjukkan catatan dan dokumentasi\nsebagaimana dimaksud dalam Pasal 15 ayat (3) sewaktu -waktu apabila\ndiminta oleh Badan Pengawas.\nBagian Keempat\nPeralatan Proteksi Radiasi"
+   }
+  },
+  {
+   "id": "ID-H1190-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\nPengusaha instalasi harus menyediakan dan mengusahakan peralatan proteksi\nradiasi, pemantau dosis perorangan, pemantau daerah kerja dan pemantau\nlingkungan hidup, yang dapat berfungsi dengan baik sesuai dengan jenis\nsumber radiasi yang digunakan.\nBagian Kelima\nPemeriksaan Kesehatan"
+   }
+  },
+  {
+   "id": "ID-H1190-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\n(1) Setiap orang yang akan bekerja sebagai pekerja radiasi harus sehat\njasmani dan rohani serta serendah -rendahnya berusia 18 (delapan belas)\ntahun.\n(2) Pengusaha instalasi harus menyelenggarakan pemeriksaan kesehatan\nawal secara teliti dan menyeluruh, untuk setiap orang yang akan bekerja\nsebagai pekerja radiasi sebagaimana dimaksud dalam ayat (1).\n(3) Pemeriksaan kesehatan sebagaimana dimaksud dalam ayat (2) dilakukan\noleh dokter yang ditunjuk pengusaha instalasi dan disetu jui oleh instansi\nyang berwenang di bidang ketenagakerjaan, rumah sakit umum, atau\nBadan Pelaksana.\n(4) Jenis pemeriksaan kesehatan sebagaimana dimaksud dalam ayat (2)\ndiatur lebih lanjut dengan Keputusan Kepala Badan Pengawas setelah\nberkonsultasi dengan instansi yang berwenang dalam bidang kesehatan."
+   }
+  },
+  {
+   "id": "ID-H1190-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\n(1) Pengusaha instalasi harus menyelenggarakan pemeriksaan kesehatan\nPRESIDEN\nREPUBLIK INDONESIA\nbagi setiap pekerja radiasi secara berkala selama bekerja\nsekurang-kurangnya sekali dalam 1 (satu) tahun.\n(2) Apabila dipandang perlu pengusaha instalasi dapat melakukan\npemeriksaan khusus."
+   }
+  },
+  {
+   "id": "ID-H1190-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21 "
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kelima"
+   },
+   "heading": {
+    "id": ".."
+   },
+   "text": {
+    "id": "Pasal 21\n(1) Pengusaha instalasi harus memeriksakan kesehatan pekerja radiasi yang\nakan memutuskan hubungan kerja secara teliti dan menyeluruh kepada\ndokter yang ditunjuk oleh pengusaha instalasi dan disetujui oleh instansi\nyang berwenang di bidang ketenagakerjaan, rum ah sakit umum, atau\nBadan Pelaksana.\n(2) Hasil pemeriksaan kesehatan pekerja sebagaimana dimaksud dalam ayat\n(1) harus diberikan kepada pekerja radiasi yang bersangkutan."
+   }
+  },
+  {
+   "id": "ID-H1190-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\nPengusaha instalasi harus melaksanakan pencatatan hasil pemeriksaan\nkesehatan setiap pekerja radiasi dalam kartu kesehatan dan menyimpan kartu\ntersebut di bawah pengawasan dokter atau petugas lain yang ditunjuk oleh\npengusaha instalasi."
+   }
+  },
+  {
+   "id": "ID-H1190-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\nDalam hal terjadi kecelakaan radiasi, pengusaha instalasi harus\nmenyelenggarakan pemeriksaan kesehatan bagi pekerja radiasi yang diduga\nmenerima paparan radiasi berlebih."
+   }
+  },
+  {
+   "id": "ID-H1190-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 24\nBiaya pemeriksaan kesehatan sebagaimana dimaksud dalam Pasal 19 ayat (2),\nPasal 20, Pasal 21, dan Pasal 23 adalah tanggung jawab pengusaha instalasi\nyang bersangkutan.\nBagian Keenam\nPenyimpanan Dokumentasi"
+   }
+  },
+  {
+   "id": "ID-H1190-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\nPengusaha instalasi harus tetap menyimpan dokumentasi yang memuat\ncatatan dosis, hasil pemantauan daerah kerja, hasil pemantauan lingkungan\nPRESIDEN\nREPUBLIK INDONESIA\ndan kartu kesehatan pekerja sebagaimana dimaksud dalam Pasal 12, Pasal 14,\nPasal 15 dan Pasal 22 selama 30 (tiga puluh) tahun terhitung sejak pekerja\nradiasi berhenti bekerja.\nBagian Ketujuh …\nBagian Ketujuh\nJaminan Kualitas"
+   }
+  },
+  {
+   "id": "ID-H1190-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\n(1) Pengusaha instalasi harus membuat program jaminan kualitas bagi\ninstalasi yang mempunyai potensi dampak radiologi tinggi untuk kegiatan\nperencanaan, pembangunan, pengoperasian dan perawatan instalasi,\nserta pengelolaan limbah radioaktif.\n(2) Program jaminan kualitas yang telah dibu at oleh pengusaha instalasi\nsebagaimana dimaksud dalam ayat (1) selanjutnya disampaikan kepada\nBadan Pengawas untuk disetujui.\n(3) Program jaminan kualitas yang telah disetujui sebagaimana dimaksud\ndalam ayat (2) harus dilaksanakan oleh pengusaha instalasi."
+   }
+  },
+  {
+   "id": "ID-H1190-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\nBadan Pengawas melakukan inspeksi dan audit selama pelaksanaan program\njaminan kualitas untuk menjamin efektivitas pelaksanaannya."
+   }
+  },
+  {
+   "id": "ID-H1190-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\nKetentuan dan pedoman pembuatan program jaminan kualitas seb agaimana\ndimaksud dalam Pasal 26 ayat (1) dan Pasal 27 diatur lebih lanjut dengan\nKeputusan Kepala Badan Pengawas.\nBagian Kedelapan\nPendidikan dan Pelatihan"
+   }
+  },
+  {
+   "id": "ID-H1190-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedelapan"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\n(1) Setiap pekerja radiasi harus memperoleh pendidikan dan pelatihan\ntentang keselamatan dan kesehatan kerja terhadap radiasi.\n(2) Pengusaha instalasi bertanggung jawab atas pelaksanaan pendidikan dan\npelatihan sebagaimana dimaksud dalam ayat (1).\n(3) Pedoman pendidikan dan pelatihan bagi pekerja radiasi sebagaimana\nPRESIDEN\nREPUBLIK INDONESIA\ndimaksud dalam ayat (1) diatur lebih lanjut dengan Keputusan Kepala\nBadan Pengawas.\nBAB V …\nBAB V\nKALIBRASI"
+   }
+  },
+  {
+   "id": "ID-H1190-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\n(1) Pengusaha instalasi wajib mengkalibrasikan alat ukur radiasi secara\nberkala sekurang-kurangnya 1 (satu) tahun sekali.\n(2) Pengusaha instalasi wajib mengkalibrasi keluaran radiasi (output)\nperalatan radioterapi secara berkala sekurang -kurangnya 2 (dua) tahun\nsekali.\n(3) Kalibrasi alat ukur radiasi dan atau peralatan radioterapi sebagaimana\ndimaksud dalam ayat (1) dan ayat (2) hanya dapat dilakukan oleh instansi\nyang telah terakreditasi dan ditunjuk oleh Badan Pengawas."
+   }
+  },
+  {
+   "id": "ID-H1190-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\nKetentuan tentang Kalibrasi sebagaimana dimaksud dalam Pasal 30 diatur\nlebih lanjut dengan Keputusan Kepala Badan Pengawas.\nBAB VI\nPENANGGULANGAN KECELAKAAN RADIASI"
+   }
+  },
+  {
+   "id": "ID-H1190-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 32\nPengusaha instalasi harus melakukan upaya pencegahan terjadinya\nkecelakaan radiasi."
+   }
+  },
+  {
+   "id": "ID-H1190-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 33\n(1) Dalam hal terjadi kecelakaan radiasi, pengusaha instalasi harus\nmelakukan upaya penanggulangan.\n(2) Dalam upaya penanggulangan kecelakaan radiasi sebagaimana dimaksud\ndalam ayat (1) keselamatan manusia harus diutamakan.\n(3) Dalam hal terjadi kecelakaan radiasi, pengusaha instalasi harus segera\nmelaporkan terjadinya kecelakaan radiasi dan upaya penanggulangannya\nPRESIDEN\nREPUBLIK INDONESIA\nkepada Badan Pengawas dan instansi terkait lainnya."
+   }
+  },
+  {
+   "id": "ID-H1190-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 34\n(1) Pengusaha instalasi yang mempunyai instalasi dengan potensi dampak\nradiologi tinggi harus memiliki Rencana Penanggulangan Keadaan Darurat\nuntuk mengatasi potensi bahaya dari kecelakaan radias i yang mungkin\nterjadi selama pengoperasian instalasi tersebut.\n(2) Rencana …\n(2) Rencana Penanggulangan Keadaan Darurat sebagaimana dimaksud dalam\nayat (1) dibuat oleh pengusaha instalasi, sekurang -kurangnya harus\nmemuat :\na. Jenis/klasifikasi kecelakaan yang mungkin terjadi pada instalasi;\nb. Upaya penanggulangan terhadap jenis/klasifikasi kecelakaan\ntersebut;\nc. Organisasi penanggulangan keadaan darurat;\nd. Prosedur penanggulangan keadaan darurat;\ne. Peralatan penanggulangan yang harus disediakan dan perawatannya;\nf. Personil penanggulangan keadaan darurat;\ng. Latihan penanggulangan keadaan darurat;\nh. Sistem komunikasi dengan pihak lain yang terkait dalam\npenanggulangan keadaan darurat."
+   }
+  },
+  {
+   "id": "ID-H1190-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 35\nKetentuan sebagaiman a dimaksud dalam Pasal 33 dan Pasal 34 diatur lebih\nlanjut dengan Keputusan Kepala Badan Pengawas.\nBAB VII\nSANKSI ADMINISTRATIF"
+   }
+  },
+  {
+   "id": "ID-H1190-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 36\n(1) Badan Pengawas dapat memberikan peringatan tertulis kepada pengusaha\ninstalasi yang melanggar ketentuan Pasal 4, Pasal 5 ayat (1), Pasal 6 ayat\n(1), Pasal 9 ayat (1), Pasal 10 ayat (1) dan ayat (2), Pasal 11 ayat (1), ayat\n(2) dan ayat (3), Pasal 12, Pasal 13, Pasal 14 ayat (1) dan ayat (2), Pasal\n15, Pasal 17, Pasal 18, Pasal 19 ayat (1) dan ayat (2), Pasal 20, Pasal 21,\nPasal 22, Pasal 23, Pasal 24, Pasal 25, Pasal 26, Pasal 29 ayat (2), Pasal\n30, Pasal 32, Pasal 33, dan Pasal 34 dalam Peraturan Pemerintah ini.\n(2) Jangka waktu peringatan tertulis sebagaimana dimaksud dalam ayat (1)\nadalah 14 (empat belas) hari sejak dikeluarkan peringatan, dan dapat\ndiperpanjang selama 2 (dua) kali apabila dianggap perlu.\n(3) Apabila peringatan tertulis sebagaimana dimaksud dalam ayat (2) tetap\nPRESIDEN\nREPUBLIK INDONESIA\ntidak diindahkan, Badan Pengawas dapat menghentikan sementara\npengoperasian instalasi selama 30 (tiga puluh) hari sejak perintah\npenghentian sementara dikeluarkan.\n(4) Apabila Pengusaha instalasi yang dihentikan sementara pengoperasian\ninstalasinya s ebagaimana dimaksud dalam ayat (3) tetap tidak\nmengindahkan peringatan, izin pemanfaatan tenaga nuklir dapat dicabut\noleh Badan Pengawas."
+   }
+  },
+  {
+   "id": "ID-H1190-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37 …"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 37\n(1) Pengusaha instalasi yang melanggar ketentuan sebagaimana dimaksud\ndalam Pasal 36 ayat (1) yang dapat menimbulkan bahaya bagi pekerja,\nmasyarakat, dan lingkungan dapat langsung diberikan peringatan tertulis\ndisertai penghentian sementara pengoperasian instalasinya oleh Badan\nPengawas.\n(2) Apabila pengusaha instalasi dalam jangka waktu paling lam a 30 (tiga\npuluh) hari tidak mengindahkan peringatan, izin pemanfaatan tenaga\nnuklir dapat dicabut oleh Badan Pengawas."
+   }
+  },
+  {
+   "id": "ID-H1190-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 38\nBadan Pengawas dapat langsung mencabut izin pemanfaatan tenaga nuklir\napabila Pengusaha Instalasi yang karena kelalaiannya m enimbulkan\nkecelakaan radiasi setelah diadakan penilaian oleh Badan Pengawas.\nBAB VIII\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H1190-A39",
+   "no": 39,
+   "noLabel": {
+    "id": "Pasal 39"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 39\nPada saat mulai berlakunya Peraturan Pemerintah ini semua peraturan\npelaksanaan dari Peraturan P emerintah Nomor 11 Tahun 1975 tentang\nKeselamatan Kerja Terhadap Radiasi yang berhubungan dengan keselamatan\nkerja terhadap radiasi tetap berlaku sepanjang tidak bertentangan dengan\nketentuan dalam Peraturan Pemerintah ini.\nBAB IX\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H1190-A40",
+   "no": 40,
+   "noLabel": {
+    "id": "Pasal 40"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 40\nPada saat mulai berlakunya Peraturan Pemerintah ini, Peraturan Pemerintah\nPRESIDEN\nREPUBLIK INDONESIA\nNomor 11 Tahun 1975 tentang Keselamatan Kerja Terhadap Radiasi\ndinyatakan tidak berlaku."
+   }
+  },
+  {
+   "id": "ID-H1190-A41",
+   "no": 41,
+   "noLabel": {
+    "id": "Pasal 41 …"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 41\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan\nPemerintah ini dengan penempatannya dalam Lembaran Negara Republik\nIndonesia.\nDitetapkan di Jakarta\npada tanggal 21 Agustus 2000\nPRESIDEN REPUBLIK INDONESIA,\nttd\nABDURRAHMAN WAHID\nDiundangkan di Jakarta\npada tanggal 21 Agustus 2000\nSEKRETARIS NEGARA REPUBLIK INDONESIA,\nttd\nDJOHAN EFFENDI\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2000 NOMOR 136"
+   }
+  }
+ ]
+}

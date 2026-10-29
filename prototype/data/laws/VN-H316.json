@@ -1,0 +1,1092 @@
+{
+ "id": "VN-H316",
+ "title": {
+  "zh": "国会代表选举法",
+  "en": "Law on election of deputies to the National Assembly",
+  "vi": "Luật Bầu cử Đại biểu Quốc hội",
+  "orig": "Luật Bầu cử Đại biểu Quốc hội số Không số",
+  "th": "พระราชบัญญัติการเลือกตั้งสมาชิกสภาแห่งชาติ",
+  "id": "Undang-Undang Pemilihan Anggota Majelis Nasional",
+  "ms": "Akta Pilihan Raya Anggota Parlimen"
+ },
+ "country": "VN",
+ "countryName": "越南",
+ "layer": "intl",
+ "pack": "vn-p06",
+ "language": "vi",
+ "level": "law",
+ "category": "05_其他及未分类",
+ "status": "active",
+ "promulgatedDate": "1980",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "国会",
+ "docNumber": "Không số",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 75,
+ "chars": 25217,
+ "source": {
+  "name": "越南法律数据库（vbpl.vn 官方公报文本）",
+  "url": "https://vbpl.vn/van-ban/chi-tiet/luat-bau-cu-dai-bieu-quoc-hoi-so-khong-so--1533"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\VN\\05_其他及未分类\\1980_Không số_Luật Bầu cử Đại biểu Quốc hội số Không số.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 76 条；逐字未改写（源自 VN）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "VN-H316-A1",
+   "no": 1,
+   "noLabel": {
+    "vi": "Điều 1"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 1\n\nViệc bầu cử đại biểu Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam tiến hành theo nguyên tắc phổ thông, bình đẳng, trực tiếp và bỏ phiếu kín."
+   }
+  },
+  {
+   "id": "VN-H316-A2",
+   "no": 2,
+   "noLabel": {
+    "vi": "Điều 2"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 2\n\nCông dân nước Cộng hoà xã hội chủ nghĩa Việt Nam không phân biệt dân tộc, nam nữ, thành phần xã hội, tín ngưỡng tôn giáo, trình độ văn hoá, nghề nghiệp, thời hạn cư trú, từ mười tám tuổi trở lên đều có quyền bầu cử và từ hai mươi mốt tuổi trở lên đều có thể được bầu vào Quốc hội, trừ những người mất trí và những người bị pháp luật hoặc Toà án nhân dân tước các quyền đó."
+   }
+  },
+  {
+   "id": "VN-H316-A3",
+   "no": 3,
+   "noLabel": {
+    "vi": "Điều 3"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 3\n\nCông dân đang ở trong quân đội nhân dân có quyền bầu cử và có thể được bầu vào Quốc hội theo Điều 2."
+   }
+  },
+  {
+   "id": "VN-H316-A4",
+   "no": 4,
+   "noLabel": {
+    "vi": "Điều 4"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 4\n\nCử tri có quyền bãi miễn đại biểu Quốc hội, nếu đại biểu đó không xứng đáng với sự tín nhiệm của nhân dân."
+   }
+  },
+  {
+   "id": "VN-H316-A5",
+   "no": 5,
+   "noLabel": {
+    "vi": "Điều 5"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 5\n\nHội đồng Nhà nước tuyền bố và chủ trì việc bầu cử đại biểu Quốc hội."
+   }
+  },
+  {
+   "id": "VN-H316-A6",
+   "no": 6,
+   "noLabel": {
+    "vi": "Điều 6"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 6\n\nMặt trận Tổ quốc Việt Nam có trách nhiệm cùng với các cơ quan chính quyền tổ chức việc bầu cử đại biểu Quốc hội."
+   }
+  },
+  {
+   "id": "VN-H316-A7",
+   "no": 7,
+   "noLabel": {
+    "vi": "Điều 7"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 7\n\nKinh phí về tổ chức bầu cử đại biểu Quốc hội do ngân sách Nhà nước đài thọ.\n\nCHƯƠNG II\n\nSỐ ĐẠI BIỂU QUỐC HỘI, ĐƠN VỊ BẦU CỬ\n\nVÀ KHU VỰC BỎ PHIẾU"
+   }
+  },
+  {
+   "id": "VN-H316-A8",
+   "no": 8,
+   "noLabel": {
+    "vi": "Điều 8"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 8\n\nTổng số đại biểu Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam không quá năm trăm người."
+   }
+  },
+  {
+   "id": "VN-H316-A9",
+   "no": 9,
+   "noLabel": {
+    "vi": "Điều 9"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 9\n\nĐại biểu Quốc hội do từng đơn vị bầu cử bầu ra. Tỉnh, thành phố trực thuộc trung ương hoặc đơn vị hành chính cấp tương đương có thể là một đơn vị bầu cử hoặc chia thành nhiều đơn vị bầu cử.\n\nSố đại biểu của mỗi đơn vị bầu cử do Hội đồng Nhà nước ấn định cho mỗi khoá Quốc hội. Hội đồng Nhà nước dành cho thủ đô Hà Nội số đại biểu thích đáng. Các tỉnh, thành phố trực thuộc trung ương hoặc đơn vị hành chính cấp tương đương được bầu ít nhất hai đại biểu."
+   }
+  },
+  {
+   "id": "VN-H316-A10",
+   "no": 10,
+   "noLabel": {
+    "vi": "Điều 10"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 10\n\nSố đại biểu Quốc hội người dân tộc thiểu số trong mỗi khoá Quốc hội do Hội đồng Nhà nước ấn định, bảo đảm cho thành phần dân tộc thiểu số có số đại biểu thích đáng trong Quốc hội."
+   }
+  },
+  {
+   "id": "VN-H316-A11",
+   "no": 11,
+   "noLabel": {
+    "vi": "Điều 11"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 11\n\nSố đơn vị bầu cử, danh sách các đơn vị và số đại biểu của mỗi đơn vị do Hội đồng Nhà nước ấn định và được công bố chậm nhất là sáu mươi ngày trước ngày bầu cử."
+   }
+  },
+  {
+   "id": "VN-H316-A12",
+   "no": 12,
+   "noLabel": {
+    "vi": "Điều 12"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 12\n\nMỗi đơn vị bầu cử chia thành nhiều khu vực bỏ phiếu. Mỗi khu vực bỏ phiếu gồm từ năm trăm đến bốn nghìn người.\n\nở miền núi, hải đảo và những nơi dân cư không tập trung, dù chưa tới năm trăm người cũng có thể thành lập một khu vực bỏ phiếu.\n\nCác bệnh viện, nhà hộ sinh, nhà an dưỡng, nhà nuôi người tàn tật có từ năm mươi cử tri trở lên thì có thể lập thành khu vực bỏ phiếu riêng."
+   }
+  },
+  {
+   "id": "VN-H316-A13",
+   "no": 13,
+   "noLabel": {
+    "vi": "Điều 13"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 13\n\nViệc chia khu vực bỏ phiếu do Uỷ ban nhân dân xã, phường hoặc cấp tương đương định và do Uỷ ban nhân dân cấp trên trực tiếp chuẩn y.\n\nCác đơn vị quân đội nhân dân thành lập những khu vực bỏ phiếu riêng.\n\nCHƯƠNG III\n\nHỘI ĐỒNG BẦU CỬ, CÁC BAN BẦU CỬ,\n\nCÁC TỔ BẦU CỬ"
+   }
+  },
+  {
+   "id": "VN-H316-A14",
+   "no": 14,
+   "noLabel": {
+    "vi": "Điều 14"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 14\n\nPhụ trách tổ chức việc bầu cử đại biểu Quốc hội có:\n\nHội đồng bầu cử ở trung ương,\n\nBan bầu cử ở đơn vị bầu cử,\n\nTổ bầu cử ở khu vực bỏ phiếu."
+   }
+  },
+  {
+   "id": "VN-H316-A15",
+   "no": 15,
+   "noLabel": {
+    "vi": "Điều 15"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 15\n\nChậm nhất là năm mươi lăm ngày trước ngày bầu cử, Hội đồng Nhà nước thành lập Hội đồng bầu cử từ hai mươi lăm đến ba mươi người, gồm đại diện Mặt trận Tổ quốc Việt Nam, các chính đảng, các đoàn thể nhân dân trong cả nước.\n\nHội đồng bầu cử bầu ra Chủ tịch, một hoặc nhiều Phó Chủ tịch, Tổng thư ký và một hoặc nhiều thư ký.\n\nHội đồng bầu cử có những nhiệm vụ và quyền hạn sau đây:\n\n1- Kiểm tra, đôn đốc việc thi hành luật lệ bầu cử đại biểu Quốc hội trong cả nước;\n\n2- Xét và giải quyết những khiếu nại về công tác của các ban bầu cử, tổ bầu cử;\n\n3- Tiếp nhận và kiểm tra biên bản bầu cử do các ban bầu cử gửi đến, làm biên bản tổng kết cuộc bầu cử trong cả nước;\n\n4- Tuyên bố kết quả cuộc bầu cử trong cả nước;\n\n5- Cấp giấy chứng nhận cho đại biểu trúng cử;\n\n6- Trình Quốc hội biên bản tổng kết bầu cử và những hồ sơ, tài liệu về bầu cử."
+   }
+  },
+  {
+   "id": "VN-H316-A16",
+   "no": 16,
+   "noLabel": {
+    "vi": "Điều 16"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 16\n\nChậm nhất là bốn mươi ngày trước ngày bầu cử, Uỷ ban nhân dân tỉnh, thành phố trực thuộc trung ương và đơn vị hành chính cấp tương đương thành lập ở mỗi đơn vị bầu cử một ban bầu cử, từ chín đến mười lăm người gồm, đại diện Mặt trận Tổ quốc Việt Nam, các chính đảng, các đoàn thể nhân dân ở địa phương.\n\nBan bầu cử bầu ra một Trưởng ban, một hoặc hai Phó trưởng ban và một hoặc nhiều thư ký.\n\nBan bầu cử có những nhiệm vụ và quyền hạn sau đây:\n\n1- Kiểm tra, đôn đốc việc thi hành luật lệ bầu cử đại biểu Quốc hội của các tổ bầu cử;\n\n2- Kiểm tra, đôn đốc việc bố trí các phòng bỏ phiếu;\n\n3- Xét và giải quyết những khiếu nại về công tác của các tổ bầu cử;\n\n4- Phân phối phiếu bầu cử cho các tổ bầu cử, chậm nhất là năm ngày trước ngày bầu cử;\n\n5- Kiểm tra việc lập và niêm yết danh sách cử tri;\n\n6- Tiếp nhận đơn ứng cử của những người được giới thiệu ra ứng cử, lập và niêm yết danh sách những người ra ứng cử, xét và giải quyết những khiếu nại về việc lập danh sách người ra ứng cử;\n\n7- Kiểm tra công việc bầu cử tại các phòng bỏ phiếu;\n\n8- Tiếp nhận, kiểm tra biên bản kiểm phiếu do các tổ bầu cử gửi đến, làm biên bản xác định kết quả bầu cử trong đơn vị để gửi Hội đồng bầu cử và tuyên bố kết quả đó;\n\n9- Giao hồ sơ, tài liệu về bầu cử cho Uỷ ban nhân dân tỉnh, thành phố trực thuộc trung ương hoặc đơn vị hành chính cấp tương đương."
+   }
+  },
+  {
+   "id": "VN-H316-A17",
+   "no": 17,
+   "noLabel": {
+    "vi": "Điều 17"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 17\n\nChậm nhất là hai mươi ngày trước ngày bầu cử, Uỷ ban nhân dân xã, phường hoặc cấp tương đương thành lập ở mỗi khu vực bỏ phiếu một tổ bầu cử, từ năm đến mười một người, gồm đại diện Mặt trận Tổ quốc Việt Nam, các đoàn thể và tầng lớp nhân dân ở xã, phường hoặc cấp tương đương.\n\nCác đơn vị quân đội nhân dân thành lập ở mỗi khu vực bỏ phiếu của mình một tổ bầu cử gồm từ năm đến chín người đại diện cho quân nhân trong đơn vị.\n\nTổ bầu cử bầu ra một tổ trưởng, một phó tổ trưởng và một hoặc nhiều thứ ký.\n\nTổ bầu cử có những nhiệm vụ và quyền hạn sau đây:\n\n1- Phụ trách công tác bầu cử trong khu vực bỏ phiếu;\n\n2- Bố trí phòng bỏ phiếu và chuẩn bị hòm phiếu;\n\n3- Phát phiếu bầu cử có đóng dấu của tổ bầu cử cho các cử tri;\n\n4- Bảo đảm trật tự trong phòng bỏ phiếu;\n\n5- Kiểm phiếu và làm biên bản kiểm phiếu để gửi lên ban bầu cử;\n\n6- Giao biên bản kiểm phiếu và tất cả những phiếu bầu cho Uỷ ban nhân dân xã, phường hoặc cấp tương đương."
+   }
+  },
+  {
+   "id": "VN-H316-A18",
+   "no": 18,
+   "noLabel": {
+    "vi": "Điều 18"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 18\n\nHội đồng bầu cử, ban bầu cử, tổ bầu cử không được vận động bầu cử cho những người ra ứng cử."
+   }
+  },
+  {
+   "id": "VN-H316-A19",
+   "no": 19,
+   "noLabel": {
+    "vi": "Điều 19"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 19\n\nCác cơ quan và nhân viên Nhà nước, các đoàn thể nhân dân, các tổ chức xã hội tạo điều kiện thuận lợi giúp Hội đồng bầu cử, các ban bầu cử và tổ bầu cử thực hiện nhiệm vụ và quyền hạn của mình."
+   }
+  },
+  {
+   "id": "VN-H316-A20",
+   "no": 20,
+   "noLabel": {
+    "vi": "Điều 20"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 20\n\nHội đồng bầu cử hết nhiệm vụ sau khi đã trình Quốc hội biên bản tổng kết bầu cử và những hồ sơ, tài liệu về bầu cử. Các ban bầu cử, các tổ bầu cử hết nhiệm vụ sau khi Hội đồng bầu cử tuyên bố kết quả bầu cử trong cả nước.\n\nCHƯƠNG IV\n\nDANH SÁCH CỬ TRI"
+   }
+  },
+  {
+   "id": "VN-H316-A21",
+   "no": 21,
+   "noLabel": {
+    "vi": "Điều 21"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 21\n\nTrong thời gian lập danh sách cử tri, những công dân có quyền bầu cử đại biểu Quốc hội cư trú thường xuyên hay tạm thời ở đâu đều được ghi tên vào danh sách cử tri ở nơi đó.\n\nMỗi cử tri chỉ được ghi tên vào danh sách ở một nơi cư trú."
+   }
+  },
+  {
+   "id": "VN-H316-A22",
+   "no": 22,
+   "noLabel": {
+    "vi": "Điều 22"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 22\n\nDanh sách cử tri do Uỷ ban nhân dân xã, phường hoặc cấp tương đương lập theo khu vực bỏ phiếu.\n\nDanh sách cử tri trong các đơn vị quân đội nhân dân do ban chỉ huy đơn vị lập theo mỗi khu vực bỏ phiếu."
+   }
+  },
+  {
+   "id": "VN-H316-A23",
+   "no": 23,
+   "noLabel": {
+    "vi": "Điều 23"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 23\n\nChậm nhất là ba mươi ngày trước ngày bầu cử, cơ quan lập danh sách cử tri phải niêm yết danh sách đó tại trụ sở Uỷ ban nhân dân xã, phường hoặc cấp tương đương, hoặc tại những nơi công cộng của khu vực bỏ phiếu, đồng thời phải thông báo rộng rãi việc niêm yết để nhân dân kiểm tra danh sách cử tri."
+   }
+  },
+  {
+   "id": "VN-H316-A24",
+   "no": 24,
+   "noLabel": {
+    "vi": "Điều 24"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 24\n\nKhi kiểm tra danh sách cử tri, nếu thấy có sai lầm hoặc thiếu sót, thì trong thời hạn hai mươi ngày kể từ ngày niêm yết, mọi người có quyền khiếu nại, báo cáo bằng miệng hoặc bằng giấy với cơ quan lập danh sách cử tri. Cơ quan lập danh sách cử tri phải ghi vào sổ những khiếu nại hoặc báo cáo đó. Trong thời hạn ba ngày kể từ ngày nhận được khiếu nại hoặc báo cáo, cơ quan lập danh sách cử tri phải giải quyết và thông báo cho người khiếu nại hoặc người báo cáo biết kết quả giải quyết.\n\nNếu người khiếu nại hoặc báo cáo không đồng ý về cách giải quyết đó, thì có quyền khiếu nại lên Toà án nhân dân quận, huyện, thị xã, thành phố thuộc tỉnh. Trong thời hạn ba ngày, kể từ ngày nhận được khiếu nại, Toà án nhân dân phải giải quyết xong. Quyết định của Toà án nhân dân là quyết định cuối cùng."
+   }
+  },
+  {
+   "id": "VN-H316-A25",
+   "no": 25,
+   "noLabel": {
+    "vi": "Điều 25"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 25\n\nTừ khi công bố danh sách cử tri cho đến ngày bầu cử, nếu cử tri nào vì đi nơi khác, không thể tham gia bỏ phiếu ở nơi đã được ghi tên vào danh sách cử tri, thì có quyền xin giấy chứng nhận của Uỷ ban nhân dân nơi đó để được ghi tên vào danh sách cử tri và tham gia bỏ phiếu ở nơi mới đến. Khi cấp giấy chứng nhận, Uỷ ban nhân dân phải ghi ngay vào danh sách, bên cạnh tên cử tri: \"Đi bỏ phiếu nơi khác\".\n\nCHƯƠNG V\n\nDANH SÁCH NHỮNG NGƯỜI ĐƯỢC\n\nGIỚI THIỆU RA ỨNG CỬ"
+   }
+  },
+  {
+   "id": "VN-H316-A26",
+   "no": 26,
+   "noLabel": {
+    "vi": "Điều 26"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 26\n\nở mỗi đơn vị bầu cử, Uỷ ban Mặt trận Tổ quốc Việt Nam kết hợp việc tham khảo ý kiến của tập thể nhân dân lao động ở cơ sở với việc hiệp thương với các chính đảng, các đoàn thể nhân dân để giới thiệu danh sách những người ứng cử."
+   }
+  },
+  {
+   "id": "VN-H316-A27",
+   "no": 27,
+   "noLabel": {
+    "vi": "Điều 27"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 27\n\nNgười được giới thiệu ra ứng cử chỉ được ghi tên ứng cử ở một đơn vị bầu cử."
+   }
+  },
+  {
+   "id": "VN-H316-A28",
+   "no": 28,
+   "noLabel": {
+    "vi": "Điều 28"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 28\n\nNgười ứng cử không được tham gia ban bầu cử hoặc tổ bầu cử thuộc đơn vị mình ra ứng cử."
+   }
+  },
+  {
+   "id": "VN-H316-A29",
+   "no": 29,
+   "noLabel": {
+    "vi": "Điều 29"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 29\n\nChậm nhất là ba mươi ngày trước ngày bầu cử, Uỷ ban trung ương Mặt trận Tổ quốc Việt Nam, Uỷ ban Mặt trận Tổ quốc tỉnh, thành phố trực thuộc trung ương hoặc đơn vị hành chính cấp tương đương phải nộp tại ban bầu cử:\n\n1- Giấy giới thiệu người ứng cử;\n\n2- Đơn ứng cử của những người được giới thiệu có ghi tên, tuổi, nghề nghiệp, nguyên quán, địa chỉ, nơi ra ứng cử;\n\n3- Giấy chứng nhận người ứng cử có đủ điều kiện ứng cử ở Điều 2.\n\nKhi nhận các giấy tờ nói trên, ban bầu cử phải cấp giấy biên nhận."
+   }
+  },
+  {
+   "id": "VN-H316-A30",
+   "no": 30,
+   "noLabel": {
+    "vi": "Điều 30"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 30\n\nKhi hết thời hạn ứng cử, ban bầu cử phải lập danh sách những người được giới thiệu ra ứng cử và công bố danh sách đó chậm nhất là hai mươi ngày trước ngày bầu cử."
+   }
+  },
+  {
+   "id": "VN-H316-A31",
+   "no": 31,
+   "noLabel": {
+    "vi": "Điều 31"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 31\n\nKể từ ngày danh sách những người ứng cử được công bố, ai thấy trong danh sách có sai lầm hoặc thiếu sót thì có quyền khiếu nại, báo cáo bằng miệng hoặc bằng giấy với ban bầu cử. Ban bầu cử phải ghi vào sổ các khiếu nại hoặc báo cáo đó. Trong thời hạn ba ngày kể từ ngày nhận được khiếu nại hoặc báo cáo, ban bầu cử phải giải quyết xong. Nếu không đồng ý, thì người khiếu nại hoặc báo cáo có quyền khiếu nại hoặc báo cáo với Hội đồng bầu cử. Hội đồng phải giải quyết xong trong thời hạn năm ngày, kể từ ngày nhận được khiếu nại hoặc báo cáo. Quyết định của Hội đồng bầu cử là quyết định cuối cùng."
+   }
+  },
+  {
+   "id": "VN-H316-A32",
+   "no": 32,
+   "noLabel": {
+    "vi": "Điều 32"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 32\n\nMặt trận Tổ quốc Việt Nam, các chính đảng, các đoàn thể nhân dân, cũng như công dân Việt Nam, theo quy định của pháp luật, có quyền cổ động bằng mọi hình thức để giới thiệu người ứng cử.\n\nNgười ứng cử có quyền cổ động cho bản thân mình, theo quy định của pháp luật.\n\nCHƯƠNG VI\n\nTRÌNH TỰ BẦU CỬ\n\nMỤC 1\n\nNGÀY BẦU CỬ"
+   }
+  },
+  {
+   "id": "VN-H316-A33",
+   "no": 33,
+   "noLabel": {
+    "vi": "Điều 33"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 33\n\nViệc bầu cử đại biểu Quốc hội tiến hành thống nhất một ngày trong cả nước.\n\nNgày bầu cử phải là ngày chủ nhật, do Hội đồng Nhà nước ấn định và công bố chậm nhất là sáu mươi ngày trước ngày bầu cử."
+   }
+  },
+  {
+   "id": "VN-H316-A34",
+   "no": 34,
+   "noLabel": {
+    "vi": "Điều 34"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 34\n\nTrong thời hạn mười ngày trước ngày bầu cử, tổ bầu cử phải thường xuyên thông báo cho cử tri biết ngày bầu cử, nơi bỏ phiếu và thời gian bỏ phiếu, bằng niêm yết, phát thanh và mọi phương tiện thông tin khác của địa phương.\n\nMỤC 2\n\nTHỂ THỨC BỎ PHIẾU"
+   }
+  },
+  {
+   "id": "VN-H316-A35",
+   "no": 35,
+   "noLabel": {
+    "vi": "Điều 35"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 35\n\nCuộc bỏ phiếu bắt đầu từ bảy giờ sáng đến bảy giờ tối. Tuỳ tình hình địa phương, tổ bầu cử có thể quyết định cho khai mạc sớm hay là bế mạc muộn hơn giờ quy định, nhưng không được trước năm giờ sáng hoặc quá mười giờ đêm."
+   }
+  },
+  {
+   "id": "VN-H316-A36",
+   "no": 36,
+   "noLabel": {
+    "vi": "Điều 36"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 36\n\nMỗi cử tri chỉ có quyền bỏ một phiếu bầu.\n\nCử tri phải tự mình đi bầu, không được nhờ người khác bầu thay, không được bầu bằng cách gửi thư, trừ những trường hợp nói ở Điều 37."
+   }
+  },
+  {
+   "id": "VN-H316-A37",
+   "no": 37,
+   "noLabel": {
+    "vi": "Điều 37"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 37\n\nCử tri không thể tự viết được phiếu bầu thì có thể nhờ người khác viết hộ, nhưng phải tự tay mình bỏ phiếu. Nếu vì tàn tật không tự bỏ phiếu được, thì cử tri có thể nhờ người khác bỏ phiếu vào hòm phiếu.\n\nCử tri ốm đau, già yếu, tàn tật, không thể đến phòng bỏ phiếu được, có thể đề nghị tổ bầu cử mang hòm phiếu và phiếu bầu đến nơi ở để bỏ phiếu. Trong trường hợp này, tổ bầu cử có thể tổ chức hòm phiếu phụ mang đến nơi ở của cử tri để tiếp nhận phiếu bầu."
+   }
+  },
+  {
+   "id": "VN-H316-A38",
+   "no": 38,
+   "noLabel": {
+    "vi": "Điều 38"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 38\n\nLúc cử tri viết phiếu, không ai được đến xem, kể cả nhân viên tổ bầu cử. Nếu viết hỏng, cử tri có quyền đề nghị tổ bầu cử đổi cho một phiếu khác."
+   }
+  },
+  {
+   "id": "VN-H316-A39",
+   "no": 39,
+   "noLabel": {
+    "vi": "Điều 39"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 39\n\nCấm tuyên truyền cổ động cho người ứng cử tại phòng bỏ phiếu."
+   }
+  },
+  {
+   "id": "VN-H316-A40",
+   "no": 40,
+   "noLabel": {
+    "vi": "Điều 40"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 40\n\nMọi người đều phải tuân theo nội quy của phòng bỏ phiếu."
+   }
+  },
+  {
+   "id": "VN-H316-A41",
+   "no": 41,
+   "noLabel": {
+    "vi": "Điều 41"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 41\n\nKhi đã hết giờ bỏ phiếu, nếu còn cử tri có mặt tại phòng bỏ phiếu mà chưa kịp bỏ phiếu, thì chỉ sau khi số cử tri này bỏ phiếu xong, tổ bầu cử mới được tuyên bố kết thúc cuộc bỏ phiếu."
+   }
+  },
+  {
+   "id": "VN-H316-A42",
+   "no": 42,
+   "noLabel": {
+    "vi": "Điều 42"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 42\n\nTrong ngày bầu cử, cuộc bỏ phiếu phải tiến hành liên tục. Nếu có trường hợp bất ngờ làm gián đoạn việc bỏ phiếu thì tổ bầu cử phải lập tức niêm phong giấy tờ và hòm phiếu lại, báo cáo cho ban bầu cử biết, đồng thời phải có những biện pháp cần thiết để cuộc bỏ phiếu được tiếp tục."
+   }
+  },
+  {
+   "id": "VN-H316-A43",
+   "no": 43,
+   "noLabel": {
+    "vi": "Điều 43"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 43\n\nNếu vì lý do đặc biệt cần hoãn ngày bỏ phiếu, thì tổ bầu cử phải kịp thời báo cho ban bầu cử biết để đề nghị Hội đồng bầu cử xét định.\n\nCHƯƠNG VII\n\nKẾT QUẢ BẦU CỬ\n\nMỤC 1\n\nVIỆC KIỂM PHIẾU"
+   }
+  },
+  {
+   "id": "VN-H316-A44",
+   "no": 44,
+   "noLabel": {
+    "vi": "Điều 44"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 44\n\nViệc kiểm phiếu phải được tiến hành tại phòng bỏ phiếu ngay sau khi cuộc bỏ phiếu kết thúc. Tổ bầu cử phải mời hai cử tri không phải là người ứng cử có mặt tại đó chứng kiến việc kiểm phiếu.\n\nNgười ứng cử hoặc người được người ứng cử chính thức uỷ nhiệm, các phóng viên báo chí, điện ảnh, nhiếp ảnh, truyền hình, phát thanh được chứng kiến việc kiểm phiếu."
+   }
+  },
+  {
+   "id": "VN-H316-A45",
+   "no": 45,
+   "noLabel": {
+    "vi": "Điều 45"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 45\n\nNhững phiếu sau đây là không hợp lệ:\n\n1- Không phải là phiếu theo mẫu quy định do tổ bầu cử phát;\n\n2- Không có dấu của tổ bầu cử;\n\n3- Ghi tên người ứng cử quá số đại biểu được bầu."
+   }
+  },
+  {
+   "id": "VN-H316-A46",
+   "no": 46,
+   "noLabel": {
+    "vi": "Điều 46"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 46\n\nNhững phiếu bầu cử có ghi tên một hay nhiều người không ứng cử vẫn được coi là hợp lệ, nhưng khi kiểm phiếu chỉ tính những người có tên trong danh sách ứng cử.\n\nTổ bầu cử không được xoá hoặc chữa các tên ghi trên phiếu bầu."
+   }
+  },
+  {
+   "id": "VN-H316-A47",
+   "no": 47,
+   "noLabel": {
+    "vi": "Điều 47"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 47\n\nNếu có phiếu nào nghi là không hợp lệ thì tổ trưởng tổ bầu cử đưa vấn đề này ra toàn tổ giải quyết."
+   }
+  },
+  {
+   "id": "VN-H316-A48",
+   "no": 48,
+   "noLabel": {
+    "vi": "Điều 48"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 48\n\nPhiếu trắng là phiếu mà tất cả tên những người ứng cử đều bị gạch xoá, nếu là phiếu in tên sẵn, hoặc là phiếu không ghi tên người ứng cử nào, nếu là phiếu để trắng cho cử tri tự viết lấy."
+   }
+  },
+  {
+   "id": "VN-H316-A49",
+   "no": 49,
+   "noLabel": {
+    "vi": "Điều 49"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 49\n\nNhững khiếu nại tại chỗ về việc kiểm phiếu do tổ bầu cử tiếp nhận, giải quyết và ghi cách giải quyết vào biên bản. Nếu tổ bầu cử không giải quyết được, thì phải chuyển đến ban bầu cử để giải quyết."
+   }
+  },
+  {
+   "id": "VN-H316-A50",
+   "no": 50,
+   "noLabel": {
+    "vi": "Điều 50"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 50\n\nTổ bầu cử phải ghi vào biên bản kết quả kiểm phiếu:\n\n- Tổng số cử tri của khu vực bỏ phiếu;\n\n- Số cử tri đã đi bầu;\n\n- Số phiếu hợp lệ;\n\n- Số phiếu không hợp lệ;\n\n- Số phiếu trắng;\n\n- Số phiếu bầu cho mỗi người ra ứng cử;\n\n- Những khiếu nại nhận được, những khiếu nại đã giải quyết và cách giải quyết, những khiếu nại chưa giải quyết được.\n\nBiên bản làm thành hai bản, có chữ ký của tổ trưởng, thư ký và hai cử tri được mời chứng kiến việc kiểm phiếu: một bản gửi đến ban bầu cử, một bản gửi đến Uỷ ban nhân dân xã, phường hoặc cấp tương đương.\n\nMỤC 2\n\nKẾT QUẢ BẦU CỬ Ở ĐƠN VỊ BẦU CỬ"
+   }
+  },
+  {
+   "id": "VN-H316-A51",
+   "no": 51,
+   "noLabel": {
+    "vi": "Điều 51"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 51\n\nKhi nhận được biên bản của các tổ bầu cử, ban bầu cử kiểm tra các biên bản đó và lập biên bản xác định kết quả bầu cử ở đơn vị bầu cử của mình.\n\nBiên bản phải ghi rõ:\n\n- Số đại biểu Quốc hội ấn định cho đơn vị bầu cử;\n\n- Số người ra ứng cử;\n\n- Tổng số cử tri trong đơn vị bầu cử;\n\n- Số cử tri đã đi bầu, tỷ lệ so với tổng số cử tri;\n\n- Số phiếu hợp lệ;\n\n- Số phiếu không hợp lệ;\n\n- Số phiếu trắng;\n\n- Số phiếu bầu cho mỗi người ra ứng cử;\n\n- Danh sách những người trúng cử;\n\n- Những khiếu nại do các tổ bầu cử đã giải quyết, những khiếu nại do ban bầu cử giải quyết, những khiếu nại chuyển đến Hội đồng bầu cử giải quyết.\n\nBiên bản làm thành hai bản, có chữ ký của trưởng ban, phó trưởng ban và các thư ký: một bản gửi Hội đồng bầu cử, một bản gửi Uỷ ban nhân dân tỉnh, thành phố trực thuộc trung ương hoặc đơn vị hành chính cấp tương đương."
+   }
+  },
+  {
+   "id": "VN-H316-A52",
+   "no": 52,
+   "noLabel": {
+    "vi": "Điều 52"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 52\n\nTrong số đại biểu mà đơn vị bầu cử được bầu, những người ra ứng cử được quá nửa số phiếu hợp lệ và được nhiều phiếu hơn cả là trúng cử. Trong trường hợp nhiều người được số phiếu bằng nhau thì dựa vào thứ tự tuổi mà sắp xếp, người nhiều tuổi hơn được trúng cử.\n\nMỤC 3\n\nVIỆC BẦU THÊM HOẶC BẦU LẠI"
+   }
+  },
+  {
+   "id": "VN-H316-A53",
+   "no": 53,
+   "noLabel": {
+    "vi": "Điều 53"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 53\n\nNếu trong cuộc bầu cử đầu tiên, số người trúng cử chưa đủ số đại biểu do Hội đồng Nhà nước quy định cho đơn vị bầu cử, thì ban bầu cử phải ghi rõ điểm đó vào biên bản và báo cáo lên Hội đồng bầu cử, đồng thời định ngày bầu thêm số đại biểu còn thiếu. Việc bầu thêm phải được tiến hành chậm nhất là mười lăm ngày sau cuộc bầu cử đầu tiên. Trong cuộc bầu thêm, cử tri chỉ chọn bầu trong danh sách những người đã ra ứng cử kỳ đầu nhưng không trúng cử."
+   }
+  },
+  {
+   "id": "VN-H316-A54",
+   "no": 54,
+   "noLabel": {
+    "vi": "Điều 54"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 54\n\nở mỗi đơn vị bầu cử, nếu số cử tri đi bầu chưa được quá nửa số cử tri ghi trong danh sách, thì ban bầu cử ghi rõ điểm đó vào biên bản và báo cáo ngay cho Hội đồng bầu cử. Hội đồng bầu cử phải quyết định ngày bầu lại chậm nhất là mười lăm ngày sau cuộc bầu cử đầu tiên. Trong cuộc bầu lại, chỉ chọn bầu trong danh sách những người đã ra ứng cử kỳ đầu."
+   }
+  },
+  {
+   "id": "VN-H316-A55",
+   "no": 55,
+   "noLabel": {
+    "vi": "Điều 55"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 55\n\nViệc bầu thêm hoặc bầu lại vẫn theo danh sách cử tri đã lập trong cuộc bầu cử đầu tiên và phải được tiến hành theo những quy định của luật này, trừ điều kiện phải được quá nửa số phiếu hợp lệ quy định ở Điều 52 và phải có quá nửa số cử tri đi bầu quy định ở Điều 54.\n\nMỤC 4\n\nVIỆC TỔNG KẾT CUỘC BẦU CỬ"
+   }
+  },
+  {
+   "id": "VN-H316-A56",
+   "no": 56,
+   "noLabel": {
+    "vi": "Điều 56"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 56\n\nSau khi nhận và kiểm tra biên bản của tất cả các ban bầu cử và giải quyết những khiếu nại nếu có, Hội đồng bầu cử lập biên bản tổng kết cuộc bầu cử trong cả nước.\n\nBiên bản tổng kết phải ghi rõ:\n\n- Tổng số đại biểu Quốc hội được bầu;\n\n- Tổng số người ứng cử;\n\n- Tổng số cử tri;\n\n- Số cử tri đã đi bầu, tỷ lệ so với tổng số cử tri;\n\n- Số phiếu hợp lệ;\n\n- Số phiếu không hợp lệ;\n\n- Số phiếu trắng;\n\n- Danh sách những người trúng cử và số phiếu bầu cho mỗi người;\n\n- Những việc quan trọng đã xảy ra và cách giải quyết.\n\nBiên bản làm thành hai bản có chữ ký của chủ tịch, các phó chủ tịch, tổng thư ký và các thư ký Hội đồng bầu cử: một bản gửi đến Hội đồng Nhà nước, một bản gửi đến Hội đồng bộ trưởng.\n\nCHƯƠNG VIII\n\nVIỆC BẦU CỬ BỔ SUNG ĐẠI BIỂU QUỐC HỘI"
+   }
+  },
+  {
+   "id": "VN-H316-A57",
+   "no": 57,
+   "noLabel": {
+    "vi": "Điều 57"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VIII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 57\n\nTrong nhiệm kỳ, nếu đơn vị bầu cử nào khuyết đại biểu Quốc hội thì Hội đồng Nhà nước có thể quyết định việc bầu cử bổ sung đại biểu cho đơn vị đó. Hội đồng Nhà nước lập một uỷ ban bầu cử bổ sung, từ ba đến năm người, gồm đại diện Mặt trận Tổ quốc Việt Nam và một số đoàn thể nhân dân, do Tổng thư ký Hội đồng Nhà nước làm chủ tịch."
+   }
+  },
+  {
+   "id": "VN-H316-A58",
+   "no": 58,
+   "noLabel": {
+    "vi": "Điều 58"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VIII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 58\n\nQuyết định bầu cử bổ sung của Hội đồng Nhà nước được công bố chậm nhất là ba mươi ngày trước ngày bầu cử."
+   }
+  },
+  {
+   "id": "VN-H316-A59",
+   "no": 59,
+   "noLabel": {
+    "vi": "Điều 59"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VIII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 59\n\nDanh sách cử tri do Uỷ ban nhân dân xã, phương hoặc cấp tương đương lập phải được công bố chậm nhất là mười lăm ngày trước ngày bầu cử bổ sung."
+   }
+  },
+  {
+   "id": "VN-H316-A60",
+   "no": 60,
+   "noLabel": {
+    "vi": "Điều 60"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VIII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 60\n\nChậm nhất là hai mươi ngày, trước ngày bầu cử bổ sung, Uỷ ban nhân dân tỉnh, thành phố trực thuộc trung ương hoặc đơn vị hành chính cấp tương đương thành lập ở đơn vị bầu cử một ban bầu cử bổ sung, từ ba đến năm người, gồm đại diện Mặt trận Tổ quốc Việt Nam và một số đoàn thể nhân dân địa phương.\n\nBan bầu cử bổ sung bầu ra một trưởng ban, một phó trưởng ban và một thư ký."
+   }
+  },
+  {
+   "id": "VN-H316-A61",
+   "no": 61,
+   "noLabel": {
+    "vi": "Điều 61"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VIII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 61\n\nChậm nhất là mười lăm ngày trước ngày bầu cử bổ sung, Uỷ ban nhân dân xã, phường hoặc cấp tương đương thành lập ở mỗi khu vực bỏ phiếu một tổ bầu cử bổ sung từ năm đến bảy người, gồm đại diện Mặt trận Tổ quốc Việt Nam và một số đoàn thể nhân dân ở cơ sở.\n\nTổ bầu cử bổ sung bầu ra một tổ trưởng, một phó tổ trưởng và một thư ký."
+   }
+  },
+  {
+   "id": "VN-H316-A62",
+   "no": 62,
+   "noLabel": {
+    "vi": "Điều 62"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VIII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 62\n\nQuyền hạn và nhiệm vụ của uỷ ban bầu cử bổ sung, ban bầu cử bổ sung, tổ bầu cử bổ sung và thể thức bỏ phiếu bầu cử bổ sung cũng theo những quy định về Hội đồng bầu cử, ban bầu cử, tổ bầu cử và về trình tự bầu cử, kết quả bầu cử nói ở luật này."
+   }
+  },
+  {
+   "id": "VN-H316-A63",
+   "no": 63,
+   "noLabel": {
+    "vi": "Điều 63"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VIII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 63\n\nDanh sách những người do Mặt trận Tổ quốc ở địa phương khuyết đại biểu giới thiệu ra ứng cử được công bố chậm nhất là mười ngày trước ngày bầu cử."
+   }
+  },
+  {
+   "id": "VN-H316-A64",
+   "no": 64,
+   "noLabel": {
+    "vi": "Điều 64"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VIII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 64\n\nNhững khiếu nại về công tác của tổ bầu cử bổ sung do ban bầu cử bổ sung giải quyết. Những khiếu nại về công tác của ban bầu cử bổ sung do uỷ ban bầu cử bổ sung giải quyết.\n\nCHƯƠNG IX\n\nVIỆC BÃI MIỄN ĐẠI BIỂU QUỐC HỘI"
+   }
+  },
+  {
+   "id": "VN-H316-A65",
+   "no": 65,
+   "noLabel": {
+    "vi": "Điều 65"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG IX"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 65\n\nĐại biểu Quốc hội có thể bị cử tri của đơn vị bầu ra mình bãi miễn trước khi hết nhiệm kỳ, nếu không được nhân dân tín nhiệm nữa."
+   }
+  },
+  {
+   "id": "VN-H316-A66",
+   "no": 66,
+   "noLabel": {
+    "vi": "Điều 66"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG IX"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 66\n\nHội đồng Nhà nước quyết định tổ chức việc để cử tri bỏ phiếu bãi miễn đại biểu Quốc hội theo kiến nghị của Uỷ ban trung ương Mặt trận Tổ quốc Việt Nam, hoặc Uỷ ban Mặt trận Tổ quốc tỉnh, thành phố trực thuộc trung ương hoặc đơn vị hành chính cấp tương đương."
+   }
+  },
+  {
+   "id": "VN-H316-A67",
+   "no": 67,
+   "noLabel": {
+    "vi": "Điều 67"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG IX"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 67\n\nChậm nhất là mười ngày sau khi có quyết định của Hội đồng Nhà nước, Uỷ ban nhân dân tỉnh, thành phố trực thuộc trung ương hoặc đơn vị hành chính cấp tương đương thành lập ban tổ chức bãi miễn từ ba đến năm người, gồm đại diện Mặt trận Tổ quốc Việt Nam và một số đoàn thể nhân dân ở địa phương, để phụ trách việc tổ chức bãi miễn đại biểu Quốc hội.\n\nBan tổ chức bãi miễn bầu ra một trưởng ban, một phó trưởng ban và một thư ký."
+   }
+  },
+  {
+   "id": "VN-H316-A68",
+   "no": 68,
+   "noLabel": {
+    "vi": "Điều 68"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG IX"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 68\n\nChậm nhất là mười lăm ngày sau khi có quyết định của Hội đồng Nhà nước, Uỷ ban nhân dân xã, phường hoặc cấp tương đương thành lập tại mỗi khu vực bỏ phiếu một tổ công tác bãi miễn, từ ba đến năm người, gồm đại diện Mặt trận Tổ quốc Việt Nam và một số đoàn thể nhân dân ở cơ sở, để tổ chức việc bỏ phiếu bãi miễn và lập biên bản kiểm phiếu.\n\nTổ công tác bãi miễn bầu ra một tổ trưởng, một phó tổ trưởng và một thư ký.\n\nBiên bản của tổ công tác bãi miễn làm thành hai bản, có chữ ký của tổ trưởng, phó tổ trưởng và thư ký: một bản gửi đến ban tổ chức bãi miễn, một bản gửi đến Uỷ ban nhân dân xã, phường hoặc cấp tương đương.dd\n\nCăn cứ vào biên bản kiểm phiếu của các tổ công tác bãi miễn, ban tổ chức bãi miễn làm biên bản xác định kết quả bỏ phiếu và tuyên bố kết quả bãi miễn.\n\nBiên bản làm thành hai bản, có chữ ký của trưởng ban, phó trưởng ban và thư ký: một bản gửi đến Hội đồng Nhà nước, một bản gửi đến Hội đồng bộ trưởng kèm theo những khiếu nại nếu có."
+   }
+  },
+  {
+   "id": "VN-H316-A70",
+   "no": 70,
+   "noLabel": {
+    "vi": "Điều 70"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG IX"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 70\n\nPhải có quá nửa tổng số cử tri trong đơn vị bầu cử bỏ phiếu bãi miễn, thì việc bãi miễn đại biểu Quốc hội mới có giá trị.\n\nCHƯƠNG X\n\nVIỆC XỬ LÝ NHỮNG HÀNH ĐỘNG VI PHẠM\n\nLUẬT BẦU CỬ"
+   }
+  },
+  {
+   "id": "VN-H316-A71",
+   "no": 71,
+   "noLabel": {
+    "vi": "Điều 71"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG X"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 71\n\nNgười nào dùng các thủ đoạn lừa gạt, mua chuộc hoặc cưỡng ép làm trở ngại việc bầu cử, ứng cử và bãi miễn đại biểu Quốc hội của công dân, thì có thể bị phạt tù đến hai năm."
+   }
+  },
+  {
+   "id": "VN-H316-A72",
+   "no": 72,
+   "noLabel": {
+    "vi": "Điều 72"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG X"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 72\n\nThành viên Hội đồng bầu cử, ban bầu cử, tổ bầu cử, uỷ ban bầu cử bổ sung, ban bầu cử bổ sung, tổ bầu cử bổ sung, ban tổ chức bãi miễn, tổ công tác bãi miễn và nhân viên các cơ quan Nhà nước, các đoàn thể nhân dân, các tổ chức xã hội, các đơn vị bộ đội và mọi công dân có trách nhiệm trong công tác bầu cử, bầu cử bổ sung, bãi miễn phạm tội giả mạo giấy tờ, gian lận phiếu hoặc dùng mọi thủ đoạn khác để làm sai lạc kết quả bầu cử hoặc bãi miễn đại biểu Quốc hội, thì có thể bị phạt tù đến ba năm."
+   }
+  },
+  {
+   "id": "VN-H316-A73",
+   "no": 73,
+   "noLabel": {
+    "vi": "Điều 73"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG X"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 73\n\nTrong những trường hợp vi phạm luật bầu cử vì mục đích phản cách mạng, thì người phạm tội bị trứng trị theo pháp luật hiện hành về tội phản cách mạng."
+   }
+  },
+  {
+   "id": "VN-H316-A74",
+   "no": 74,
+   "noLabel": {
+    "vi": "Điều 74"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG X"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 74\n\nMọi người có quyền tố cáo những việc làm trái phép trong lúc bầu cử hoặc bãi miễn đại biểu Quốc hội. Ai cản trở hoặc trả thù người tố cáo thì có thể bị phạt tù đến ba năm.\n\nCHƯƠNG XI\n\nĐIỀU KHOẢN THI HÀNH"
+   }
+  },
+  {
+   "id": "VN-H316-A75",
+   "no": 75,
+   "noLabel": {
+    "vi": "Điều 75"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG XI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 75\n\nLuật này thay thế luật bầu cử đại biểu Quốc hội ngày 31 tháng 12 năm 1959."
+   }
+  },
+  {
+   "id": "VN-H316-A76",
+   "no": 76,
+   "noLabel": {
+    "vi": "Điều 76"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG XI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 76\n\nHội đồng bộ trưởng quy định chi tiết thi hành luật này.\n\nLuật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá VI, kỳ họp thứ 7, thông qua trong phiên họp ngày 18 tháng 12 năm 1980.\n\n1:{\"id\":\"1533\",\"docType\":{\"id\":\"11025e19-2dd6-4165-85ad-ab6241186a1a\",\"name\":\"Luật\",\"code\":\"Lu\",\"parentCode\":\"VBQPPL\",\"parentName\":null},\"docGroup\":\"VBQPPL\",\"docNum\":\"Không số\",\"title\":\"Luật Bầu cử Đại biểu Quốc hội số Không số\",\"applicationNote\":\"Bị thay thế bởi Luật 67-LCT/HĐNN8 Bầu cử Đại biểu Quốc hội\",\"issueDate\":\"1980-12-18T00:00:00\",\"effFrom\":\"1980-12-18T00:00:00\",\"effTo\":\"1992-04-18T00:00:00\",\"publicDate\":null,\"effStatus\":{\"id\":\"f55c1469-4341-4274-93ef-32b283db4dbd\",\"name\":\"Hết hiệu lực toàn bộ\",\"code\":\"HHL\",\"parentCode\":null,\"parentName\":null},\"status\":\"Publish\",\"lang\":\"vi\",\"defaultLanguage\":\"VN\",\"updatedBy\":\"dungdvm_II.2\",\"updatedDate\":\"2026-01-16T17:33:21\",\"agencyName\":\"Quốc hội\",\"organization\":{\"id\":\"9a14b417-f32f-4be0-88a1-6314324075f8\",\"code\":\"01\",\"name\":\"Quốc hội\",\"nameEn\":\"The National Assembly\",\"shortName\":null,\"orgType\":\"1\"},\"isLw\":true,\"documentContent\":{\"id\":\"1533\",\"title\":null,\"content\":\"$2\"},\"documentContentEn\":null,\"documentContentFileName\":null,\"documentContentFileDocName\":\"luatkhongso.doc\",\"documentIssues\":[{\"id\":\"b77397d3-f494-414b-8885-ddb9a6d97a1b\",\"agencyId\":\"55\",\"agencyName\":\"Quốc hội\",\"agencyNameEn\":\"National Assembly of Vietnam\",\"agencyCode\":\"QH\",\"personId\":\"496\",\"personName\":\"Trường Chinh\",\"jobTitleId\":\"28da0087-8afd-420c-875c-b2369e212c3e\",\"jobTitleCode\":\"CTQH\",\"jobTitleName\":\"Chủ tịch Quốc hội\",\"orderIndex\":1}],\"documentMajors\":[],\"documentFields\":[{\"id\":\"76e2c0d5-e93e-4ee9-8c72-59dae1167432\",\"name\":\"Chưa phân loại\",\"code\":null,\"parentCode\":null,\"parentName\":null}],\"documentRelatedList\":[{\"id\":\"daa25295-b186-4405-b4f6-b86f8ab70ec8\",\"fileName\":\"1533_body_content.html\",\"relatedType\":\"MARKDOWN\",\"fileTitle\":\"1533_body_content.html\",\"fileOrder\":null}],\"provisionTree\":null,\"references\":null,\"isEffectAllDocument\":false,\"isOld\":true,\"reviewStatus\":\"INITIAL\",\"reviewed\":false,\"isTranslationDoc\":false,\"isConsolidatedDocument\":false,\"isConstitutionDocument\":false,\"isAdministrativeDocument\":false,\"viewCount\":49,\"showViewCount\":true,\"hasContent\":true,\"hasOriginalPdf\":null,\"hasAIProcessed\":false,\"hasClauseRelation\":null,\"aiResults\":[]}"
+   }
+  }
+ ]
+}

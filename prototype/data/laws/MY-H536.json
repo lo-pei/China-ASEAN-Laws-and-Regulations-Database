@@ -1,0 +1,270 @@
+{
+ "id": "MY-H536",
+ "title": {
+  "zh": "2007年国家计量体系法",
+  "en": "NATIONAL MEASUREMENT SYSTEM ACT 2007",
+  "orig": "NATIONAL MEASUREMENT SYSTEM ACT 2007",
+  "vi": "Luật về Hệ thống Đo lường Quốc gia năm 2007",
+  "th": "พระราชบัญญัติระบบการวัดแห่งชาติ ค.ศ. 2007",
+  "id": "Undang-Undang Sistem Pengukuran Nasional Tahun 2007",
+  "ms": "Akta Sistem Pengukuran Kebangsaan 2007"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-11",
+ "language": "en",
+ "level": "law",
+ "category": "05_其他及未分类",
+ "status": "active",
+ "promulgatedDate": "2007",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "ACT675",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 19,
+ "chars": 13247,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-detail.php?act=675&lang=BI"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\05_其他及未分类\\2007_675_NATIONAL MEASUREMENT SYSTEM ACT 2007.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 19 条；逐字未改写（源自厂商 OCR 文本）；已清除正文中的 27 个控制字符（C0/C1 区，法律文本中无合法用途，系 PDF 抽取/表单域残留）。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H536-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "1. The mole is the amount of substance\n\nof a system which contains as many\n\nelementary entities as there are atoms\n\nin 0.012 kilogram of carbon 12."
+   }
+  },
+  {
+   "id": "MY-H536-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "2. When the mole is used, the\n\nHOHPHQWDU\\HQWLWLHVPXVWEHVSHFLÀHG\n\nand may be atoms, molecules, ions,\n\nHOHFWURQVRWKHUSDUWLFOHVRUVSHFLÀHG\n\ngroups of such particles.\n\nPART 2\n\nDERIVED SI UNITS\n\n1. Derived SI units, Names and Symbols:\n\nQuantity Name Symbol Expressed in\n\nterms of SI\n\nbase units\n\nExpressed\n\nin terms\n\nof other SI\n\nunits\n\n1.1 Space and Time\n\nplane angle radian rad m . m-1=1\n\nsolid angle steradian sr m2 . m-2=1\nNational Measurement System 17\n\nQuantity Name Symbol Expressed in\n\nterms of SI\n\nbase units\n\nExpressed\n\nin terms\n\nof other SI\n\nunits\n\nArea square metre m2 m2\n\nVolume cubic metre m3 m3\n\nspeed, velocity metre per\n\nsecond\n\nm/s m . s-1\n\nacceleration metre per\n\nsecond\n\nsquared\n\nm/s2 m . s-2\n\nwave number reciprocal\n\nmetre\n\nm-1 m-1\n\nspecific volume cubic metre\n\nper kilogram\n\nm3/kg m3 . kg-1\n\nFrequency hertz Hz s-1\n\nangular velocity radian per\n\nsecond\n\nrad/s m . m-1 . s-1= s-1\n\nangular acceleration radian per\n\nsecond\n\nsquared\n\nrad/s2 m . m-1 . s-2= s-2\n\n1.2 Mechanics\n\nlineic mass, linear\n\ndensity\n\nkilogram per\n\nmetre\n\nkg/m kg . m-1\n\nareic mass, surface\n\ndensity\n\nkilogram per\n\nsquare metre\n\nkg/m2 kg . m-2\n\ndensity, mass density kilogram per\n\ncubic metre\n\nkg/m3 kg . m-3\n\nForce newton N m . kg . s-2\n\npressure, stress pascal Pa m-1 . kg . s-2 N/m2\n\nwork, energy, quantity\n\nof heat\n\njoule J m2 . kg . s-2 N . m\n\npower, radiant flux,\n\nenergy flow rate, heat\n\nflow rate\n\nwatt W m2 . kg . s-3 J/s\n\ndynamic viscosity pascal\n\nsecond\n\nPa . sm-1 . kg . s-1\n\nQuantity Name Symbol Expressed in\n\nterms of SI\n\nbase units\n\nExpressed\n\nin terms\n\nof other SI\n\nunits\n\nkinetic viscosity metre\n\nsquared\n\nper second\n\nm2\n\n/s m2 . s-1\n\nmoment of force newton metre N . mm2 . kg . s-2\n\nsurface tension newton per\n\nmetre\n\nN/m kg . s-2\n\nvolume flow rate cubic metre\n\nper second\n\nm3/s m3 . s-1\n\nmass flow rate kilogram per\n\nsecond\n\nkg/s kg . s-1\n\n1.3 Electricity and Magnetism\n\ncurrent density ampere per\n\nsquare metre\n\nA/m2 A . m-2\n\nelectric charge,\n\nquantity of electricity\n\ncoulomb C s . A\n\nelectric potential,\n\npotential difference,\n\nelectric tension,\n\nelectromotive force\n\nvolt V m2 . kg . s-3 . A-1 W/A\n\nelectric field strength volt per\n\nmetre\n\nV/m m . kg . s-3 . A-1\n\nelectric charge density coulomb per\n\ncubic metre\n\nC/m³ m-3 . s . A\n\nelectric flux density coulomb per\n\nsquare metre\n\nC/m2 m-2 . s . A\n\nelectric resistance ohm  m² . kg . s-3 . A-2 V/A\n\ncapacitance farad F m-2 . kg-1 . s4 . A2 C/V\n\nelectric conductance siemens S m-2 . kg-1 . s3 . A2 A/V\n\nmagnetic flux weber Wb m² . kg . s-2 . A-1 V . s\nNational Measurement System 19\n\nQuantity Name Symbol Expressed in\n\nterms of SI\n\nbase units\n\nExpressed\n\nin terms\n\nof other SI\n\nunits\n\nmagnetic flux density tesla T kg . s-2 . A-1 Wb/m²\n\nmagnetic field\n\nstrength\n\nampere per\n\nmetre\n\nA/m A . m-1\n\nInductance henry H m² . kg . s-2 . A-2 Wb/A\n\npermeability henry per\n\nmetre\n\nH/m m . kg . s-2 . A-2\n\nPermittivity farad per\n\nmetre\n\nF/m m-3 . kg-1 . s4 . A2\n\n1.4 Heat\n\ncelsius temperature degree\n\ncelsius\n\nºC K\n\nheat flux density,\n\nirradiance\n\nwatt per\n\nsquare metre\n\nW/m2 kg . s-3\n\nheat capacity, entropy joule per\n\nkelvin\n\nJ/K m² . kg . s-2 . K-1\n\nspecific heat capacity,\n\nspecific entropy,\n\nmassic heat capacity\n\njoule per\n\nkilogram\n\nkelvin\n\nJ/(kg . K) m² . s-2 . K-1\n\nspecific energy joule per\n\nkilogram\n\nJ/kg m² . s-2\n\nthermal conductivity watt per\n\nmetre kelvin\n\nW/(m . K) m . kg . s-3 . K-1\n\nenergy density joule per\n\ncubic metre\n\nJ/m3 m-1 . kg . s-2\n\n1.5 Physical Chemistry and Molecular Physics\n\nconcentration (of\n\namount of substance)\n\nmole per\n\ncubic metre\n\nmol/m3 mol . m-3\n\nQuantity Name Symbol Expressed in\n\nterms of SI\n\nbase units\n\nExpressed\n\nin terms\n\nof other SI\n\nunits\n\nmolar energy joule per\n\nmole\n\nJ/mol m2 . kg . s-2 . mol-1\n\nmolar entropy, molar\n\nheat\n\ncapacity\n\njoule per\n\nmole kelvin\n\nJ/(mol . K) m2 . kg . s-2 . K-1 . mol-1\n\n1.6 Radiation and Light\n\nLuminance candela per\n\nsquare metre\n\ncd/m2 cd . m-2\n\nrefractive index (the number)\n\none\n\nluminous flux lumen lm cd cd . sr\n\nIlluminance lux lx m-2 . cd lm/m2\n\nradiant intensity watt per\n\nsteradian\n\nW/sr m2 . kg . s-3\n\nRadiance watt per\n\nsquare metre\n\nsteradian\n\nW/(m2 . sr) kg . s-3\n\n1.7 Ionizing Radiations\n\nactivity (of a\n\nradionuclide)\n\nbecquerel Bq s-1\n\nDEVRUEHGGRVHVSHFLÀF\n\nenergy (imparted),\n\nkerma\n\ngray Gy m2 . s-2 J/kg\n\ndose equivalent,\n\nambient dose\n\nequivalent, directional\n\ndose equivalent,\n\npersonal dose\n\nequivalent, organ\n\nequivalent dose\n\nsievert Sv m2 . s-2 J/kg\nNational Measurement System 21\n\nQuantity Name Symbol Expressed in\n\nterms of SI\n\nbase units\n\nExpressed\n\nin terms\n\nof other SI\n\nunits\n\nexposure (x and a rays) coulomb per\n\nkilogram\n\nC/kg kg-1 . s . A\n\nabsorbed dose rate gray per\n\nsecond\n\nGy/s m2 . s-3\n\n2. The derived units shall include any other units which may be expressed\n\nalgebraically in terms of SI base units or in terms of a combination of the\n\nSI base units with other derived units by means of mathematical symbols of\n\nmultiplication and division.\n\nPART 3\n\nMULTIPLES AND SUBMULTIPLES OF THE SI UNITS\n\nThe names and symbols of the multiples and submultiples of the SI units:\n\nFactor 3UHÀ[ Symbol\n\n1024 yotta Y\n\n1021 zetta Z\n\n1018 exa E\n\n1015 peta P\n\n1012 tera T\n\n109 giga G\n\n106 mega M\n\n103 kilo k\n\n102 hecto h\n\n101 deca da\n\n10-1 deci d\n\n10-2 centi c\n\n10-3 milli m\n\n10-6 micro +\n\n10-9 nano n\n\n10-12 pico p\n\n10-15 femto f\n\n10-18 atto a\n\n10-21 zepto z\n\n10-24 yocto y\n\nSECOND SCHEDULE\n\n[Subsection 4(3)]\n\nOther permissible units of measurement\n\nPART 1\n\nUnits accepted internationally for use with the International System of Units\n\n(SI):\n\nName Symbol Value in SI units\n\nminute min 1 min = 60 s\n\nhour h 1 h = 60 min = 3600 s\n\nday d 1 d = 24 h = 86 400 s\n\ndegree º 1º = (/ /180) rad\n\nminute ,\n\n1' = (1/60)° = (/ /10 800) rad\n\nsecond ,,\n\n1'' = (1/60)' = (/ /648 000) rad\n\nlitre l, L 1 l = 1 dm3 = 10-3 m3\n\ntonne t 1 t = 103 kg\n\nneper Np 1 Np = 1\n\nbel B 1 B = (1/2) In 10 (Np)\n\nPART 2\n\nUnits accepted for use with the International System of Units (SI), whose\n\nvalues in SI units are obtained experimentally—\n\nName Symbol Value in SI Units Note\n\nelectronvolt eV 1 eV = 1.602 17653 (14) x 10-19 J (a)\n\nXQLÀHGDWRPLFPDVV\n\nunit\n\nu 1 u = 1.660 53886 (28) x (10) -27 kg (b)\n\nastronomical unit ua 1 ua = 1.495 978 706 91 (6) x 1011 m (c)\n\n(a) The electronvolt is the kinetic energy acquired by an electron in\n\npassing through a potential difference of 1 V in vacuum6\n\n(b) The unified atomic mass unit is equal to 1/12 of the mass of an\n\nunbound atom of the nuclide 12C, at rest and in its ground state. The\n\nunified atomic mass unit is also called the dalton (Da), in the field\n\nof biochemistry.\nNational Measurement System 23\n\n(c) The astronomical unit is a unit of length; it is approximately equal\n\nto the mean Earth-Sun distance. Its value is such that, when used to\n\ndescribe the motion of bodies in the solar system, the heliocentric\n\ngravitational constant is (0.017 207 098 95)2\n\n ua3 . d-2.\n\nPART 3\n\nUnits of measurement and denominations which may be used temporarily:\n\nName Symbol Value\n\n1. Area\n\nbarn\n\nIts use is authorized only\n\nin atomic and nuclear\n\nphysics.\n\nb 1 b = 100 fm2\n\n = 10-28 m2\n\n2. Dynamic viscosity\n\npoise\n\ncentipoises\n\nP\n\ncP\n\n1 P = 0.1 Pa . s = 10-1 Pa . s\n\n1 cP = 1 mPa . s = 10-3 Pa . s"
+   }
+  },
+  {
+   "id": "MY-H536-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "3. Kinematic viscosity\n\nstokes\n\ncentistokes\n\nSt\n\ncSt\n\n1 St = 100 mm2\n\n/s = 10-4 m2/s\n\n1 cSt = 1 mm2\n\n/s = 10-6 m2/s"
+   }
+  },
+  {
+   "id": "MY-H536-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "4. Activity\n\n(of a radioactive source)\n\ncurie and the multiples and\n\nsub-multiples of the curie\n\nCi 1 Ci = 37 GBq = 3.7 x 1010 Bq"
+   }
+  },
+  {
+   "id": "MY-H536-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "5. Absorbed dose\n\nrad and the multiples and\n\nsubmultiples of the rad\n\nrad 1 rad = 0.01 Gy = 10-2 Gy\n\nName Symbol Value"
+   }
+  },
+  {
+   "id": "MY-H536-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "6. Exposure\n\nröntgen and the multiples\n\nand submultiples of the\n\nröntgen\n\nR 1 R = 0.258 mC/kg = 2.58 x 10-4 C/kg"
+   }
+  },
+  {
+   "id": "MY-H536-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "7. Pressure\n\nmillimetre of mercury\n\n(Its use is authorized\n\nonly in specialized fields)\n\nbar and the multiples and\n\nsubmultiples of the bar\n\nmmHg\n\nbar\n\n1 mmHg = 133.322 Pa\n\n1 bar = 100 kPa = 105\n\n Pa"
+   }
+  },
+  {
+   "id": "MY-H536-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "8. Plane angle\n\nrevolution (turn) R  U   UDG"
+   }
+  },
+  {
+   "id": "MY-H536-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "9. Vergency of optical\n\nsystems\n\ndiopter 1 diopter = 1 m-1"
+   }
+  },
+  {
+   "id": "MY-H536-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "10. Area of farmland and\n\nestates\n\nare\n\nhectare\n\na\n\nha\n\n1 a = 100 m2\n\n = 102 m2\n\n1 ha = 0.01 km2 = 104 m2"
+   }
+  },
+  {
+   "id": "MY-H536-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "11. Metric carat\n\nmetric carat\n\n(Its use is authorized only\n\nfor indicating the mass of\n\npearls and precious stones)\n\nct 1 ct = 0.2 g = 2 x 10-4 kg\nNational Measurement System 25\n\nName Symbol Value"
+   }
+  },
+  {
+   "id": "MY-H536-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "12. Length\n\nångström\n\nnautical mile\n\nknot\n\nÅ 1 Å = 0.1 nm = 10-10 m\n\n1 nautical mile = 1852 m\n\n1 nautical mile per hour\n\n = (1852/3600) m/s"
+   }
+  },
+  {
+   "id": "MY-H536-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "13. Volume\n\n(forestry management and\n\ntimber trade)\n\nstere st 1 st = 1 m3"
+   }
+  },
+  {
+   "id": "MY-H536-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "14. Mass\n\nquintal q 1 q = 100 kg = 102\n\n kg"
+   }
+  },
+  {
+   "id": "MY-H536-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "15. Force\n\nkilogram-force\n\nkilopond\n\nand its decimal\n\nmultiples and\n\nsubmultiples\n\nkgf\n\nkp\n\n1 kgf = 1 kp = 9.806 65 N"
+   }
+  },
+  {
+   "id": "MY-H536-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "16. Pressure\n\nstandard atmosphere\n\ntechnical atmosphere\n\ntorr\n\nmetre of water\n\natm\n\nat\n\nTorr\n\nmH2\n\nO\n\n1 atm = 101.325 kPa = 1.013 25 x 105 Pa\n\n1 at = 98.066 5 kPa = 0.980 665 x 105\n\n Pa\n\n1 Torr = 101 325 Pa\n\n1 mH2 O = 9.806 65 kPa = 9.806 65 x 103 Pa\n\nName Symbol Value"
+   }
+  },
+  {
+   "id": "MY-H536-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "17. Work, energy, quantity\n\nof heat\n\nkilogram force metre =\n\nkilopond metre\n\ncalorie\n\nand its decimal multiples and\n\nsubmultiples\n\nkgf . m\n\nkp . m\n\ncal\n\n1kgf . m=1kp . m=9.80665J\n\n1 cal = 4.186 8 J"
+   }
+  },
+  {
+   "id": "MY-H536-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "18. Power\n\nmetric horsepower (chevalvapeur)1 metric horsepower =\n\n0.735 498 75 kW=735.498 75W"
+   }
+  },
+  {
+   "id": "MY-H536-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "19. Luminance\n\nstilb sb 1 sb = 10 kcd/m2\n\n = 104 cd/m2\n\nTHIRD SCHEDULE\n\n[Subsection 13(4)]\n\nMeetings\n\n1. (1) The Council shall meet at least once a year at such time and place as\n\nmay be appointed by the Chairman.\n\n(2) Notice in writing of a meeting shall be given to the members of the\n\nCouncil not less than fourteen days before the date of the meeting.\n\n(3) The Chairman shall preside at every meeting of the Council but in his\n\nabsence, the Deputy Chairman, or in the absence of the Chairman and the\n\nDeputy Chairman, a member of the Council elected by the members of the\n\nCouncil present shall preside over the meeting.\n\n(4) Five members of the Council shall constitute a quorum for any meeting\n\nof the Council.\n\n(5) Every member of the Council present is entitled to one vote.\n\n(6) If on any question to be determined by the Council there is an equality\n\nof votes, the person presiding over that meeting shall have a casting vote.\nNational Measurement System 27\n\nTenure of office\n\n2. A member of the Council shall hold office for a term not exceeding three\n\nyears and is eligible for reappointment.\n\nRevocation of appointment and resignation\n\n3. (1) The Minister may, at any time, revoke the appointment of any member\n\nof the Council without assigning any reason for the revocation.\n\n(2) A member of the Council may, at any time, resign from his appointment\n\nby giving a notice in writing to the Minister.\n\nVacation of office\n\n4. The office of a member of the Council shall be vacated—\n\n(a) if he dies;\n\n(b) if there has been proved against him, or he has been convicted on a\n\ncharge in respect of—\n\n(i) an offence involving fraud, dishonesty or moral turpitude;\n\n(ii) an offence under any law relating to corruption; or\n\n(iii) any other offence punishable with imprisonment, in itself\n\nonly or in addition to or in lieu of a fine, for more than\n\ntwo years;\n\n(c) if he becomes a bankrupt;\n\n(d) if he is of unsound mind or is otherwise incapable of discharging his\n\nduties;\n\n(e) in the case of the Chairman, if he absent himself from three consecutive\n\nmeetings of the Council without leave of the Minister;\n\n(f) in the case of a member of the Council other than the Chairman, if\n\nhe absents himself from three consecutive meetings of the Council\n\nwithout leave of the Chairman;\n\n(g) if his appointment is revoked by the Minister; or\n\n(h) if he resigns his office and his resignation is accepted by the\n\nMinister.\n\nAllowance\n\n5. Members of the Council may be paid such allowance as the Minister may\n\ndetermine.\n\nCouncil may invite others to meetings\n\n6. (1) The Council may invite any person to attend any meeting or discussion\n\nof the Council for the purpose of advising it on any matter under discussion,\n\nbut any person so attending shall have no right to vote at the meeting or\n\ndiscussion.\n\n(2) A person invited under subparagraph (1) may be paid such allowance\n\nor fee as the Council may determine.\n\nMinutes\n\n7. (1) The Council shall cause minutes of all its meetings to be maintained\n\nand kept in a proper form.\n\n(2) Any minutes made of a meeting of the Council shall, if duly signed,\n\nbe admissible in evidence in all legal proceedings without further proof.\n\n(3) Every meeting of the Council in respect of the proceedings of which\n\nminutes have been made in accordance with subparagraphs (1) and (2) shall\n\nbe deemed to have been duly convened and held and all members thereat to\n\nhave been duly qualified to act.\n\nProcedure\n\n8. Subject to this Act, the Council shall determine its own procedure.\n\nMember to devote time to business of Council\n\n9. Every member of the Council shall devote such time to the business of\n\nthe Council as is necessary to discharge his duties effectively.\n\nSecretariat of Council\n\n10. The Secretariat of the Council shall be the National Measurement\n\nStandards Laboratory.\n\nDICETAK OLEH\n\nPERCETAKAN NASIONAL MALAYSIA BERHAD,\n\nKUALA LUMPUR\n\nBAGI PIHAK DAN DENGAN PERINTAH KERAJAAN MALAYSIA"
+   }
+  }
+ ]
+}

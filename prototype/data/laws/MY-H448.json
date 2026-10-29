@@ -1,0 +1,102 @@
+{
+ "id": "MY-H448",
+ "title": {
+  "zh": "1997年租金管制（废止）法",
+  "en": "CONTROL OF RENT (REPEAL) ACT 1997",
+  "orig": "CONTROL OF RENT (REPEAL) ACT 1997",
+  "vi": "Luật về Kiểm soát tiền thuê (Bãi bỏ) năm 1997",
+  "th": "พระราชบัญญัติการควบคุมค่าเช่า (การยกเลิก) ค.ศ. 1997",
+  "id": "Undang-Undang Pengendalian Sewa (Pencabutan) Tahun 1997",
+  "ms": "Akta Kawalan Sewa (Pemansuhan) 1997"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-10",
+ "language": "en",
+ "level": "law",
+ "category": "05_其他及未分类",
+ "status": "active",
+ "promulgatedDate": "1997",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "ACT572",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 5,
+ "chars": 1182,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-detail.php?act=572&lang=BI"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\05_其他及未分类\\1997_572_CONTROL OF RENT (REPEAL) ACT 1997.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 5 条；逐字未改写（源自厂商 OCR 文本）。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H448-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "1. The amount of rental to be paid monthly by the tenant to the\nlandlord shall be on a gradated increase as follows:\n\nYear 1 — R plus 1/4 (M — R)\nYear 2 —- R plus 1/2 (M-R)\nYear 3 -— R plus 3/4 (M — R)"
+   }
+  },
+  {
+   "id": "MY-H448-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "2. Year 1 shall be deemed to be the period commencing on\n1 September 1997 and ending on 31 December 1997 or the expiry\nof the transitional period, whichever is earlier."
+   }
+  },
+  {
+   "id": "MY-H448-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "3. Year 2 shall be deemed to be the period commencing on\n1 January 1998 and ending on 31 December 1998 or the expiry of\nthe transitional period, whichever is earlier."
+   }
+  },
+  {
+   "id": "MY-H448-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "4. Year 3 shall be deemed to be the period commencing on\n1 January 1999 and ending on 31 December 1999 or the expiry of\nthe transitional period, whichever is earlier."
+   }
+  },
+  {
+   "id": "MY-H448-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "5. For purposes of computation—\n\n(a) \"R\" is the fair rent prevailing before the repeal of the\nAct; and\n\n(b) \"M\" is the monthly rentable value of the premises fixed\nat one-twelfth of the annual value of the property as\nassessed by the local authority in which the property is\nsituated, represented by the following formula:\n\nM = 1 x (amount of annual rate payable for the year)\n\n12     (percentage of the annual rate as assessed by .\n\nthe local authority for the year)\n\nIllustration"
+   }
+  }
+ ]
+}

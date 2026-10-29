@@ -1,0 +1,62 @@
+{
+ "id": "PH-H22301",
+ "title": {
+  "zh": null,
+  "en": "Amending Section 24 (C) of the National Internal Revenue Code, as Amended By Presidential Decree No. 778",
+  "orig": "Amending Section 24 (C) of the National Internal Revenue Code, as Amended By Presidential Decree No. 778"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1976-03-29",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 913",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1690,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_00913_1976_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_00913_1976_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22301-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section 24(c) of the National Internal Revenue Code is hereby amended to read as follows:\n\"(c) Rate of tax on certain dividends. Dividends received by a domestic or resident foreign corporation from a\ndomestic corporation liable to tax under this Code\n1. shall be subject to a final tax at 10% on the total amount thereof, which shall be collected and paid as\nprovided in Sections 53 and 54 of this Code, and\n2. shall not be included in the determination of the gross income of the recipient corporation:\nProvided, however; That interest paid or incurred on indebtedness abroad by a domestic or resident foreign\ncorporation, which indebtedness was incurred to provide funds for investment in a domestic corporation shall\nbe allowed as a deduction from the intercorporate dividends before computing the 10% final tax. Any excess\nof the interest herein allowed as deduction from intercorporate dividends may be deducted from the other\ngross income of the recipient corporation, subject to the provisions of Section 30(b) of this Code.\n\"The above deduction of interest from intercorporate dividends shall be allowed only if the recipient domestic\nor resident foreign corporation submits an authenticated copy of the foreign loan agreement stipulating the\nend-use of the loan proceeds and such other information as may be required for its determination.\n\"The Secretary of Finance, upon recommendation of the Commissioner of Internal Revenue, shall promulgate\nrules and regulations to implement the provisions of this paragraph.\""
+   }
+  },
+  {
+   "id": "PH-H22301-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Effectivity. This Decree shall take effect immediately.\nDone in the City of Manila, this 29th day of March, in the year of Our Lord, nineteen hundred and\nseventy-six."
+   }
+  }
+ ]
+}

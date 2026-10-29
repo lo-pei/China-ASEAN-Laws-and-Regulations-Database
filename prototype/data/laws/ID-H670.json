@@ -1,0 +1,63 @@
+{
+ "id": "ID-H670",
+ "title": {
+  "zh": null,
+  "en": null,
+  "id": "Peraturan Perundang-undangan 9 Perusahaan Penanaman Modal Asing",
+  "orig": "Peraturan Perundang-undangan 9 Perusahaan Penanaman Modal Asing"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02b",
+ "language": "id",
+ "level": "law",
+ "category": "03_涉外投资与贸易",
+ "status": "active",
+ "promulgatedDate": "1993",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU24-1986",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 2,
+ "chars": 950,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": null
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\03_涉外投资与贸易\\印尼_文本_1993_Peraturan Perundang-undangan 9 Perusahaan Penanaman Modal Asing.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 3 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H670-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\n\nBerdasarkan Pasal 8 Undang-undang Nomor 1 Tahun 1967 setiap izin penanaman\nmodal asing ditentukan jangka waktunya tidak melebihi 30 (tiga puluh) tahun.\nDengan Peraturan Pemerintah ini ditegaskan bahwa jangka waktu 30 (tiga puluh)\ntahun tersebut dihitung dari sejak perusahaan berproduksi secara komersial\nsebagaimana ditetapkan pada izin usahanya."
+   }
+  },
+  {
+   "id": "ID-H670-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\n\nPerluasan usaha perusahaan penanaman modal asing diberi jangka waktu usaha\nselama-lamanya 30 (tiga puluh) tahun dihitung sejak perluasan usahanya\nberproduksi secara komersial sebagaimana ditetapkan dalam izin perluasan usaha,\ndengan pengertian izin usaha yang telah dimiliki ikut mendapat perpanjangan\nsepanjang perluasan usahanya dilakukan dalam jangka waktu masih berlakunya izin\nusaha yang telah dimiliki.\n\nPasal II\n\nCukup jelas\n\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 3515\n\n--------------------------------\n\nCATATAN\n\nKutipan: LEMBARAN LEPAS SEKRETARIAT NEGARA TAHUN 1993"
+   }
+  }
+ ]
+}

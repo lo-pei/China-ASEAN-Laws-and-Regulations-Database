@@ -1,0 +1,82 @@
+{
+ "id": "PH-H16440",
+ "title": {
+  "zh": null,
+  "en": "An Act to Create the Department of Foreign Affairs and to Authorize the President of the Philippines to Organize Said Department as Well as the Foreign Service of the Republic of the Philippines.",
+  "orig": "An Act to Create the Department of Foreign Affairs and to Authorize the President of the Philippines to Organize Said Department as Well as the Foreign Service of the Republic of the Philippines."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1946-07-03",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 732",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 1513,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00732_1946_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00732_1946_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H16440-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "There is hereby created a Department of Foreign Affairs under the supervision and control of the\nPresident of the Philippines. The Department of Foreign Affairs shall perform its functions under the\nexecutive authority of the Secretary of Foreign Affairs."
+   }
+  },
+  {
+   "id": "PH-H16440-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The Department of Foreign Affairs shall have responsibility for the coordination and execution\nof the foreign policies of the Republic of the Philippines and the conduct of its foreign relations and shall\nperform such other functions as may be assigned to it by law or by the President relating to the conduct of the\nforeign relations of the Republic of the Philippines."
+   }
+  },
+  {
+   "id": "PH-H16440-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "Until the Congress provides otherwise the President of the Philippines is hereby authorized to\nprovide by executive order for the organization and operation of the Department of Foreign Affairs and of the\nforeign service of the Republic of the Philippines from such funds as may be provided therefor in the\nappropriation law, and to fix the emoluments, priveleges, and the allowances of the officers and employees\nthereof. On the date of the effectivity of this Act, the Office of Foreign Relations created under\nCommonwealth Act Numbered Six hundred and eighty-three and the Office of the Resident Commissioner of\nthe Philippines to the United States shall be abolished and their properties, equipment, supplies, records, and\nfunds shall be transferred to the Department of Foreign Affairs."
+   }
+  },
+  {
+   "id": "PH-H16440-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "This Act shall take effect o July fourth, nineteen hundred and forty-six.\nApproved, July 3, 1946."
+   }
+  }
+ ]
+}

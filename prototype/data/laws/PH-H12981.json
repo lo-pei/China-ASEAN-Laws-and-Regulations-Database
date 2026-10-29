@@ -1,0 +1,62 @@
+{
+ "id": "PH-H12981",
+ "title": {
+  "zh": null,
+  "en": "An Act Providing for Additional Compensation for Lieutenant-Colonel John R. White, Philippine Constabulary, While Acting as Governor of the Province of Agusan, and Making Appropriation therefor.",
+  "orig": "An Act Providing for Additional Compensation for Lieutenant-Colonel John R. White, Philippine Constabulary, While Acting as Governor of the Province of Agusan, and Making Appropriation therefor."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1913-04-18",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2277",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 579,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1913/act_2277_1913.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02277_1913_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02277_1913_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12981-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The payment of extra compensation at the Appropriation, rate of one hundred pesos per month to\nLieutenant-Colonel John R. White, Philippine Constabulary, while acting as Governor of the Province of\nAgusan from April first, nineteen hundred and eleven to September twentieth, nineteen hundred and eleven, is\nhereby authorized, and for the purpose thereof the sum of five hundred and sixty-six pesos and sixty-six\ncentavos is hereby appropriated out of any funds in the Insular Treasury not otherwise appropriated."
+   }
+  },
+  {
+   "id": "PH-H12981-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, April 18, 1913."
+   }
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "id": "VN-H495",
+ "title": {
+  "zh": "劳动法典第73条法修正案",
+  "en": "Law No. 84/2007/QH11 amending and supplementing a number of articles of the Law on Article 73 of the Labour Code",
+  "vi": "Luật sửa đổi, bổ sung một số điều của Luật Điều 73 của Bộ luật Lao động số 84/2007/QH11",
+  "orig": "Luật Sửa đổi, bổ sung Điều 73 của Bộ luật Lao động số 84/2007/QH11",
+  "th": "พระราชบัญญัติแก้ไขเพิ่มเติมมาตรา 73 แห่งประมวลกฎหมายแรงงาน เลขที่ 84/2007/QH11",
+  "id": "Undang-Undang Perubahan atas Undang-Undang Pasal 73 Kitab Undang-Undang Ketenagakerjaan No. 84/2007/QH11",
+  "ms": "Akta Seksyen 73 Kanun Buruh (Pindaan) No. 84/2007/QH11"
+ },
+ "country": "VN",
+ "countryName": "越南",
+ "layer": "intl",
+ "pack": "vn-p06",
+ "language": "vi",
+ "level": "law",
+ "category": "04_劳工与行政法",
+ "status": "active",
+ "promulgatedDate": "2007",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "国会",
+ "docNumber": "84/2007/QH11",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 2,
+ "chars": 2943,
+ "source": {
+  "name": "越南法律数据库（vbpl.vn 官方公报文本）",
+  "url": "https://vbpl.vn/van-ban/chi-tiet/luat-sua-doi-bo-sung-dieu-73-cua-bo-luat-lao-dong-so-84-2007-qh11--14456"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\VN\\04_劳工与行政法\\2007_84 2007 QH11_Luật Sửa đổi, bổ sung Điều 73 của Bộ luật Lao động số 84 2007 QH11.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 2 条；逐字未改写（源自 VN）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "VN-H495-A1",
+   "no": 1,
+   "noLabel": {
+    "vi": "Điều 1"
+   },
+   "chapter": {},
+   "heading": {
+    "vi": "Điều 73 của Bộ luật lao động được sửa đổi, bổ sung như sau:"
+   },
+   "text": {
+    "vi": "Điều 1. Điều 73 của Bộ luật lao động được sửa đổi, bổ sung như sau:\n\n“Điều 73\n\nNgười lao động được nghỉ làm việc, hưởng nguyên lương những ngày lễ sau đây:\n\n- Tết dương lịch: một ngày (ngày 01 tháng 01 dương lịch).\n\n- Tết âm lịch: bốn ngày (một ngày cuối năm và ba ngày đầu năm âm lịch).\n\n- Ngày Giỗ Tổ Hùng Vương: một ngày (ngày 10 tháng 3 âm lịch).\n\n- Ngày Chiến thắng: một ngày (ngày 30 tháng 4 dương lịch).\n\n- Ngày Quốc tế lao động: một ngày (ngày 01 tháng 5 dương lịch).\n\n- Ngày Quốc khánh: một ngày (ngày 02 tháng 9 dương lịch).\n\nNếu những ngày nghỉ nói trên trùng vào ngày nghỉ hàng tuần thì người lao động được nghỉ bù vào ngày tiếp theo.”"
+   }
+  },
+  {
+   "id": "VN-H495-A2",
+   "no": 2,
+   "noLabel": {
+    "vi": "Điều 2"
+   },
+   "chapter": {},
+   "heading": {
+    "vi": "Luật này có hiệu lực từ ngày công bố."
+   },
+   "text": {
+    "vi": "Điều 2. Luật này có hiệu lực từ ngày công bố.\n\nLuật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khoá XI, kỳ họp thứ 11 thông qua ngày 02 tháng 4 năm 2007./.\n\n CHỦ TỊCH QUỐC HỘI\n\n (Đã ký)\n\n Nguyễn Phú Trọng\n\n1:{\"id\":\"14456\",\"docType\":{\"id\":\"11025e19-2dd6-4165-85ad-ab6241186a1a\",\"name\":\"Luật\",\"code\":\"Lu\",\"parentCode\":\"VBQPPL\",\"parentName\":null},\"docGroup\":\"VBQPPL\",\"docNum\":\"84/2007/QH11\",\"title\":\"Luật Sửa đổi, bổ sung Điều 73 của Bộ luật Lao động số 84/2007/QH11\",\"applicationNote\":\"bị thay thế\",\"issueDate\":\"2007-04-02T00:00:00\",\"effFrom\":\"2007-04-11T00:00:00\",\"effTo\":\"2013-05-01T00:00:00\",\"publicDate\":null,\"effStatus\":{\"id\":\"f55c1469-4341-4274-93ef-32b283db4dbd\",\"name\":\"Hết hiệu lực toàn bộ\",\"code\":\"HHL\",\"parentCode\":null,\"parentName\":null},\"status\":\"Publish\",\"lang\":\"vi\",\"defaultLanguage\":\"VN\",\"updatedBy\":\"dungdvm_II.2\",\"updatedDate\":\"2026-03-26T19:46:43\",\"agencyName\":\"Quốc hội\",\"organization\":{\"id\":\"e1e1ef48-0054-4da3-bc4d-3d9921c03883\",\"code\":\"BNV\",\"name\":\"Bộ Nội vụ\",\"nameEn\":\"Bộ Nội vụ\",\"shortName\":\"BNV\",\"orgType\":\"0\"},\"isLw\":true,\"documentContent\":{\"id\":\"14456\",\"title\":null,\"content\":\"$2\"},\"documentContentEn\":null,\"documentContentFileName\":null,\"documentContentFileDocName\":\"84.2007.QH11.doc\",\"documentIssues\":[{\"id\":\"5b6f04b2-8916-4e83-a868-ff92827184b2\",\"agencyId\":\"55\",\"agencyName\":\"Quốc hội\",\"agencyNameEn\":\"National Assembly of Vietnam\",\"agencyCode\":\"QH\",\"personId\":\"119\",\"personName\":\"Nguyễn Phú Trọng\",\"jobTitleId\":\"28da0087-8afd-420c-875c-b2369e212c3e\",\"jobTitleCode\":\"CTQH\",\"jobTitleName\":\"Chủ tịch Quốc hội\",\"orderIndex\":1}],\"documentMajors\":[],\"documentFields\":[{\"id\":\"76e2c0d5-e93e-4ee9-8c72-59dae1167432\",\"name\":\"Chưa phân loại\",\"code\":null,\"parentCode\":null,\"parentName\":null}],\"documentRelatedList\":[{\"id\":\"22382dae-fc9a-4a82-bd4c-43bac56ec697\",\"fileName\":\"14456_body_content.html\",\"relatedType\":\"MARKDOWN\",\"fileTitle\":\"14456_body_content.html\",\"fileOrder\":null}],\"provisionTree\":null,\"references\":null,\"isEffectAllDocument\":false,\"isOld\":true,\"reviewStatus\":\"RV_DONE\",\"reviewed\":true,\"isTranslationDoc\":false,\"isConsolidatedDocument\":false,\"isConstitutionDocument\":false,\"isAdministrativeDocument\":false,\"viewCount\":67,\"showViewCount\":true,\"hasContent\":true,\"hasOriginalPdf\":null,\"hasAIProcessed\":false,\"hasClauseRelation\":null,\"aiResults\":[]}"
+   }
+  }
+ ]
+}

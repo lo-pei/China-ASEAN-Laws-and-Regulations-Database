@@ -1,0 +1,588 @@
+{
+ "id": "ID-H787",
+ "title": {
+  "zh": "小企业法",
+  "en": "Law on Small Business",
+  "id": "USAHA KECIL",
+  "orig": "USAHA KECIL",
+  "vi": "Luật về Doanh nghiệp Nhỏ",
+  "th": "พระราชบัญญัติว่าด้วยวิสาหกิจขนาดเล็ก",
+  "ms": "Akta tentang Perniagaan Kecil"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02a",
+ "language": "id",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "1995",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU9-1995",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 38,
+ "chars": 36904,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU0091995.pdf&fl=P00973"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\01_宪法与基础法\\印尼_文本_1995_USAHA KECIL.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 38 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H787-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\nDalam Undang-undang ini yang dimaksud dengan:\n1. Usaha Kecil adalah kegiatan ekonomi rakyat yang berskala kecil\ndan memenuhi kriteria kekayaan bersih atau hasil penjualan tahunan\nserta kepemilikan sebagaimana diatur dalam Undang-undang ini;\n2. Usaha Menengah dan Usaha Besar adalah kegiatan ekonomi yang\nmempunyai kriteria kekayaan bersih atau hasil penjualan tahunan\nlebih besar daripada kekayaan bersih dan hasil penjualan tahunan\nUsaha Kecil;\n3. Pemberdayaan…\n3. Pemberdayaan adalah upaya yang dilakukan oleh Pemerintah, dunia\nPRESIDEN\nREPUBLIK INDONESIA\nusaha, dan masyarakat dalam bentuk penumbuhan iklim usaha,\npembinaan dan pengembangan sehingga Usaha Kecil mampu\nmenumbuhkan dan memperkuat dirinya menjadi usaha yang\ntangguh dan mandiri;\n4. Iklim usaha adalah kondisi yang diupayakan Pemerintah berupa\npenetapan berbagai peraturan perundang -undangan dan\nkebijaksanaan di berbagai aspek kehidupan ekonomi agar Usah a\nKecil memperoleh kepastian kesempatan yang sama dan dukungan\nberusaha yang seluas -luasnya sehingga berkembang menjadi usaha\nyang tangguh dan mandiri;\n5. Pembinaan dan pengembangan adalah upaya yang dilakukan oleh\nPemerintah dunia usaha dan masyarakat mel alui pemberian\nbimbingan dan bantuan perkuatan untuk menumbuhkan dan\nmeningkatkan kemampuan Usaha Kecil agar menjadi usaha yang\ntangguh dan mandiri;\n6. Pembiayaan adalah penyediaan dana oleh Pemerintah, dunia usaha,\ndan masyarakat melalui lembaga keuangan bank, lembaga keuangan\nbukan bank, atau melalui lembaga lain dalam rangka memperkuat\npermodalan Usaha Kecil;\n7. Penjaminan adalah pemberian jaminan pinjaman Usaha Kecil oleh\nlembaga penjamin sebagai dukungan untuk memperbesar\nkesempatan memperoleh pembiaya an dalam rangka memperkuat\npermodalannya;\n8. Kemitraan adalah kerja sama usaha antara Usaha Kecil dengan\nUsaha Menengah atau dengan Usaha Besar disertai pembinaan dan\npengembangan oleh Usaha Menengah atau Usaha Besar dengan\nmemperhatikan prinsip saling memerlukan, saling memperkuat, dan\nsaling menguntungkan.\nBAB II…\nPRESIDEN\nREPUBLIK INDONESIA\nBAB II\nLANDASAN, ASAS, DAN TUJUAN"
+   }
+  },
+  {
+   "id": "ID-H787-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\nPemberdayaan Usaha Kecil berlandaskan Pancasila dan Undang -Undang\nDasar 1945."
+   }
+  },
+  {
+   "id": "ID-H787-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\nPemberdayaan Usaha Kecil diselenggarakan atas asas kekeluargaan."
+   }
+  },
+  {
+   "id": "ID-H787-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\nPemberdayaan Usaha Kecil bertujuan:\na. menumbuhkan dan meningkatkan kemampuan Usaha Kecil menjadi\nusaha yang tangguh dan mandiri serta dapat berkembang menjadi\nUsaha Menengah;\nb. meningkatkan peranan Usaha Kecil dalam pembentukan produk\nnasional, perluasan kesempatan kerja dan berusaha, meningkatkan\nekspor, serta peningkatan dan pemerataan pendapatan untuk\nmewujudkan dirinya sebagai tulang punggung serta memperkukuh\nstruktur perekonomian nasional.\nBAB III…\nPRESIDEN\nREPUBLIK INDONESIA\nBAB III\nKRITERIA"
+   }
+  },
+  {
+   "id": "ID-H787-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\n(1) Kriteria Usaha Kecil adalah sebagai berikut:\na. memiliki kekayaan bersih paling banyak Rp.200.000.000, - (dua\nratus juta rupiah), tidak termasuk tanah dan bangunan tempat\nusaha; atau\nb. memiliki hasil penjualan tahunan paling banyak Rp.\n1.000.000.000,- (satu milyar rupiah);\nc. milik Warga Negara Indonesia;\nd. berdiri sendiri, bukan merupakan anak perusahaan atau cabang\nperusahaan yang dimiliki, dikuasai, atau berafiliasi baik langsung\nmaupun tidak langsung dengan Usaha Menengah atau Usaha\nBesar;\ne. berbentuk usaha orang perseorangan, badan usaha yang tidak\nberbadan hukum, atau badan usaha yang berbadan hukum,\ntermasuk koperasi.\n(2) Kriteria sebagaimana dimaksud dalam ayat (1) huruf a da n b, nilai\nnominalnya, dapat diubah sesuai dengan perkembangan\nperekonomian, yang diatur dengan Peraturan Pemerintah.\nBAB IV…\nPRESIDEN\nREPUBLIK INDONESIA\nBAB IV\nIKLIM USAHA"
+   }
+  },
+  {
+   "id": "ID-H787-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\n(1) Pemerintah menumbuhkan iklim usaha bagi Usaha Kecil melalui\npenetapan peraturan perundang -undangan dan kebijaksanaan\nmeliputi aspek:\na. pendanaan;\nb. persaingan;\nc. prasarana;\nd. informasi;\ne. kemitraan;\nf. perizinan usaha; dan\ng. perlindungan.\n(2) Dunia usaha dan masyarakat berperan serta secara aktif\nmenumbuhkan iklim usaha sebagaimana dimaksud dalam ayat (1)."
+   }
+  },
+  {
+   "id": "ID-H787-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\nPemerintah menumbuhkan iklim usaha dalam aspek pendanaan\nsebagaimana dimaksud dalam Pasal 6 ayat (1) huruf a dengan\nmenetapkan peraturan perundang-undangan dan kebijaksanaan untuk:\na. memperluas sumber pendanaan;\nb. meningkatkan akses terhadap sumber pendanaan;\nc. memberikan kemudahan dalam pendanaan."
+   }
+  },
+  {
+   "id": "ID-H787-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8…"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 8\nPemerintah menumbuhkan iklim usaha dalam aspek persaingan\nsebagaimana dimaksud dalam Pasal 6 ayat (1) huruf b dengan\nmenetapkan peraturan perundang-undangan dan kebijaksanaan untuk:\na. meningkatkan kerja sama sesama Usaha Kecil dalam bentuk\nkoperasi, asosiasi, dan himpunan kelom pok usaha untuk\nmemperkuat posisi tawar Usaha Kecil;\nb. mencegah pembentukan struktur pasar yang dapat melahirkan\npersaingan yang tidak wajar dalam bentuk monopoli, oligopoli, dan\nmonopsoni yang merugikan Usaha Kecil;\nc. mencegah terjadinya penguasaan pasa r dan pemusatan usaha oleh\norang-perseorangan atau kelompok tertentu yang merugikan Usaha\nKecil."
+   }
+  },
+  {
+   "id": "ID-H787-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\nPemerintah menumbuhkan iklim usaha dalam aspek prasarana\nsebagaimana dimaksud dalam Pasal 6 ayat (1) huruf c dengan\nmenetapkan peraturan perundang-undangan dan kebijaksanaan untuk:\na. mengadakan prasarana umum yang dapat mendorong dan\nmengembangkan pertumbuhan Usaha Kecil;\nb. memberikan keringanan tarif prasarana tertentu bagi Usaha Kecil."
+   }
+  },
+  {
+   "id": "ID-H787-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\nPemerintah menumbuhkan iklim usaha dalam aspek informasi\nsebagaimana dimaksud dalam Pasal 6 ayat (1) huruf d dengan\nmenetapkan peraturan perundang-undangan dan kebijaksanaan untuk:\na. membentuk…\nPRESIDEN\nREPUBLIK INDONESIA\na. membentuk dan memanfaatkan bank data dan jaringan informas i\nbisnis;\nb. mengadakan dan menyebarkan informasi mengenai pasar,\nteknologi, desain, dan mutu."
+   }
+  },
+  {
+   "id": "ID-H787-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\nPemerintah menumbuhkan iklim usaha dalam aspek kemitraan\nsebagaimana dimaksud dalam Pasal 6 ayat (1) huruf e dengan\nmenetapkan peraturan perundang-undangan dan kebijaksanaan untuk:\na. mewujudkan kemitraan;\nb. mencegah terjadinya hal -hal yang merugikan Usaha Kecil dalam\npelaksanaan transaksi usaha dengan Usaha Menengah dan Usaha\nBesar."
+   }
+  },
+  {
+   "id": "ID-H787-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\nPemerintah menumbuhkan iklim usaha dalam aspek perizinan usaha\nsebagaimana dimaksud dalam Pasal 6 ayat (1) huruf f dengan\nmenetapkan peraturan perundang-undangan dan kebijaksanaan untuk:\na. menyederhanakan tata cara dan jenis perizinan dengan\nmengupayakan terwujudnya sistem pelayanan satu atap;\nb. memberikan kemudahan persyaratan untuk memperoleh perizinan."
+   }
+  },
+  {
+   "id": "ID-H787-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\nPemerintah menumbuhkan iklim usaha dalam aspek perlindungan\nsebagaimana dimaksud dalam Pasal 6 ayat (1) huruf g dengan\nmenetapkan peraturan perundang-undangan dan kebijaksanaan untuk:\na. menentukan…\nPRESIDEN\nREPUBLIK INDONESIA\na. menentukan peruntukan tempat usaha yang meliputi pemberian\nlokasi di pasar, ruang pertokoan, lokasi sentra industri, lokasi\npertanian rakyat, lokasi pertambangan rakyat, dan lokasi yang wajar\nbagi pedagang kaki lima, serta lokasi lainnya;\nb. mencadangkan bidang dan jenis kegiatan usaha yang memiliki\nkekhususan proses, bersifat padat karya, serta mempunyai nilai seni\nbudaya yang bersifat khusus dan turun temurun;\nc. mengutamakan penggunaan produk yang dihasilkan Usaha Kecil\nmelalui pengadaan secara langsung dari Usaha Kecil;\nd. mengatur pengadaan barang atau jasa dan pemborongan kerja\nPemerintah;\ne. memberikan bantuan konsultasi hukum dan pembelaan.\nBAB V\nPEMBINAAN DAN PENGEMBANGAN"
+   }
+  },
+  {
+   "id": "ID-H787-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\nPemerintah, dunia usaha, dan masyarakat melakukan pembinaan dan\npengembangan Usaha Kecil dalam bidang:\na. produksi dan pengolahan;\nb. pemasaran;\nc. sumber daya manusia; dan\nd. teknologi."
+   }
+  },
+  {
+   "id": "ID-H787-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15…"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 15\nPemerintah, dunia usaha, dan masyarakat m elakukan pembinaan dan\npengembangan dalam bidang produksi dan pengolahan sebagaimana\ndimaksud dalam Pasal 14 huruf a dengan:\na. meningkatkan kemampuan manajemen serta teknik produksi dan\npengolahan;\nb. meningkatkan kemampuan rancang bangun dan perekayasaan;\nc. memberikan kemudahan dalam pengadaan sarana dan prasarana\nproduksi dan pengolahan, bahan baku, bahan penolong, dan\nkemasan."
+   }
+  },
+  {
+   "id": "ID-H787-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\nPemerintah, dunia usaha, dan masyarakat melakukan pembinaan dan\npengembangan dalam bidang pemasaran, baik di dalam maupun di luar\nnegeri, sebagaimana dimaksud dalam Pasal 14 huruf c dengan:\na. melaksanakan penelitian dan pengkajian pemasaran;\nb. meningkatkan kemampuan manajemen dan teknik pemasaran;\nc. menyediakan sarana serta dukungan promosi dan uji coba pasar;\nd. mengembangkan lembaga pemasaran dan jaringan distribusi;\ne. memasarkan produk Usaha Kecil."
+   }
+  },
+  {
+   "id": "ID-H787-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17…"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 17\nPemerintah, dunia usaha, dan masyarakat melakukan pembinaan dan\npengembangan dalam bidang sumber daya manusia sebagaimana\ndimaksud dalam Pasal 14 huruf c dengan:\na. memasyarakatkan dan membudayakan kewirausahaan;\nb. meningkatkan keterampilan teknis dan manajerial;\nc. membentuk dan mengembangkan lembaga pendidikan, pelatihan,\ndan konsultasi Usaha Kecil;\nd. menyediakan tenaga penyuluh dan konsultan Usaha Kecil."
+   }
+  },
+  {
+   "id": "ID-H787-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\nPemerintah, dunia usaha, dan masyarakat melakukan pembinaan dan\npengembangan dalam bida ng teknologi sebagaimana dimaksud dalam\nPasal 14 huruf d dengan:\na. meningkatkan kemampuan di bidang teknologi produksi dan\npengendalian mutu;\nb. meningkatkan kemampuan di bidang penelitian untuk\nmengembangkan desain dan teknologi baru;\nc. memberi insentif kepada Usaha Kecil yang menerapkan teknologi\nbaru dan melestarikan lingkungan hidup;\nd. meningkatkan kerjasama dan alih teknologi;\ne. meningkatkan kemampuan memenuhi standardisasi teknologi;\nf. menumbuhkan dan mengembangkan lembaga penelitian dan\npengembangan di bidang desain dan teknologi bagi Usaha Kecil.\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H787-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19…"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 19\n(1) Pembinaan dan pengembangan sebagaimana dimaksud dalam Pasal\n14, yang menyangkut tata cara, bobot, intensitas, prioritas, dan\njangka waktu pembinaan dan pengembangannya, dilaksanakan\ndengan memperhatikan klasifikasi dan tingkat perkembangan Usaha\nKecil yang bersangkutan.\n(2) Ketentuan mengenai tata cara, bobot, intensitas, prioritas, dan\njangka waktu pembinaan dan pengembangan sebagaimana\ndimaksud dalam ayat (1) diatur lebih lanjut dengan Peraturan\nPemerintah."
+   }
+  },
+  {
+   "id": "ID-H787-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\n(1) Usaha Kecil yang telah dibina da n berkembang menjadi Usaha\nMenengah masih dapat diberikan pembinaan dan pengembangan\ndalam jangka waktu paling lama tiga tahun.\n(2) Pemerintah menetapkan bidang pembinaan dan pengembangan\nyang masih perlu diberikan kepada Usaha Menengah sebagaimana\ndimaksud dalam ayat (1).\n(3) Usaha Kecil yang telah dibina dan berkembang menjadi Usaha\nMenengah tetap dapat menempati lokasi usaha dan melakukan\nkegiatan usaha yang dicadangkan.\nPRESIDEN\nREPUBLIK INDONESIA\nBAB VI…\nBAB VI\nPEMBINAAN DAN PENJAMINAN"
+   }
+  },
+  {
+   "id": "ID-H787-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\nPemerintah, dunia usaha, dan masyarakat menyediakan pembiayaan yang\nmeliputi:\na. kredit perbankan;\nb. pinjaman lembaga keuangan bukan bank;\nc. modal ventura;\nd. pinjaman dari dana penyisihan sebagian laba badan usaha milik\nnegara (BUMN);\ne. hibah; dan\nf. jenis pembiayaan lainnya."
+   }
+  },
+  {
+   "id": "ID-H787-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\nUntuk meningkatkan akses Usaha Kecil terhadap pembiayaan\nsebagaimana dimaksud dalam Pasal 21 dilakukan dengan:\na. meningkatkan kemampuan dalam pemupukan modal sendiri;\nb. meningkatkan kemampuan menyusun studi kelayakan;\nc. meningkatkan kemampuan manajemen keuangan;\nd. menumbuhkan dan mengembangkan lembaga penjamin.\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H787-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23…"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 23\n(1) Pembiayaan bagi Usaha Kecil dapat dijamin oleh lembaga penjamin\nyang dimiliki Pemerintah dan/atau swasta.\n(2) Lembaga penjamin sebagaimana dimaksud dalam ayat (1)\nmenjamin pembiayaan Usaha Kecil dalam bentuk:\na. penjaminan pembiayaan kredit perbankan;\nb. penjaminan pembiayaan atas bagi hasil;\nc. penjaminan pembiayaan lainnya."
+   }
+  },
+  {
+   "id": "ID-H787-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 24\nLembaga penjamin sebagaimana dimaksud dalam Pasal 23 terdiri atas:\na. lembaga penjamin yang dibentuk berdasarkan peraturan\nperundang-undangan yang berlaku;\nb. lembaga lainnya yang ditetapkan sebagai lembaga penjamin."
+   }
+  },
+  {
+   "id": "ID-H787-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\nPembiayaan dan penjaminan sebagaimana dimaksud dalam Pasal 21 dan\n23 yang menyangkut alokasi, tata cara, prioritas, serta jangka waktu\npembiayaan dan penjaminan dilaksanakan dengan memperhatikan\nklasifikasi dan tingkat perkembangan Usaha Kecil.\nPRESIDEN\nREPUBLIK INDONESIA\nBAB VII…\nBAB VII\nKEMITRAAN"
+   }
+  },
+  {
+   "id": "ID-H787-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\n(1) Usaha Menengah dan Usaha Besar melaksanakan hubungan\nkemitraan dengan Usaha Kecil, baik yang memiliki maupun yang\ntidak memiliki keterkaitan usaha.\n(2) Pelaksanaan hubungan kemitraan sebagaimana dimaksud dalam\nayat (1) diupayakan ke arah terwujudnya keterkaitan usaha.\n(3) Kemitraan dilaksanakan dengan disertai pembinaan dan\npengembangan dalam salah satu atau lebih bidang produksi dan\npengolahan, pemasaran, permodalan, sumber daya manusia, dan\nteknologi.\n(4) Dalam melakukan hubungan kemitraan kedua belah pihak\nmempunyai kedudukan hukum yang setara."
+   }
+  },
+  {
+   "id": "ID-H787-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\nKemitraan dilaksanakan dengan pola:\na. inti-plasma\nb. subkontrak;\nc. dagang umum;\nd. waralaba;\ne. keagenan; dan\nf. bentuk-bentuk lain.\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H787-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28…"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 28\nUsaha Kecil yang melaksanakan hubungan kemitraan sebagaimana\ndimaksud dalam Pasal 26 adalah usaha yang telah terdata dan\npengelolaannya sebagian besar dilakukan oleh Warga Negara Indonesia."
+   }
+  },
+  {
+   "id": "ID-H787-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\nHubungan kemitraan dituangkan dalam bentuk perjanjian tertulis yang\nsekurang-kurangnya mengatur bentuk dan lingkup kegiatan usaha\nkemitraan, hak dan kewajiban masing -masing pihak, bentuk pembinaan\ndan pengembangan, serta jangka waktu dan penyelesaian perselisihan."
+   }
+  },
+  {
+   "id": "ID-H787-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\nPelaksanaan hubungan kemitraan yang berhasil antara Usaha Menengah\natau Usaha Besar dengan Usaha Kecil ditindaklanjuti dengan kesempatan\npemilikan saham Usaha Menengah atau Usaha Besar oleh Usaha Kecil\nmitra usahanya dengan harga yang wajar."
+   }
+  },
+  {
+   "id": "ID-H787-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\nDalam pelaksanaan hubungan kemitraan sebagaimana dimaksud dalam\nPasal 26, Usaha Menengah atau Usaha Besar dilarang memiliki dan/atau\nmenguasai Usaha Kecil mitra usahanya."
+   }
+  },
+  {
+   "id": "ID-H787-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 32\nPRESIDEN\nREPUBLIK INDONESIA\nKetentuan mengenai tata cara pelaksanaan kemitraan dia tur lebih lanjut\ndengan Peraturan Pemerintah.\nBAB VIII…\nBAB VIII\nKOORDINASI DAN PENGENDALIAN"
+   }
+  },
+  {
+   "id": "ID-H787-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 33\n(1) Presiden menunjuk Menteri yang membidangi Usaha Kecil yang\nbertanggung jawab atas, serta mengkoordinasikan dan\nmengendalikan pemberdayaan Usaha Kecil.\n(2) Untuk memantapkan koordinasi dan pengendalian, Presiden dapat\nmembentuk lembaga koordinasi dan pengendalian pemberdayaan\nUsaha Kecil yang dipimpin oleh Menteri sebagaimana dimaksud\ndalam ayat (1) dengan anggota -anggotanya terdiri dari unsur\nPemerintah, pengusaha, tenaga ahli, tokoh dan lembaga swadaya\nmasyarakat.\n(3) Koordinasi dan pengendalian sebagaimana dimaksud dalam ayat\n(1), meliputi penyusunan kebijaksanaan dan program pelaksanaan,\npemantauan, evaluasi ser ta pengendalian umum terhadap\npelaksanaan pemberdayaan Usaha Kecil.\nBAB IX\nKETENTUAN UMUM"
+   }
+  },
+  {
+   "id": "ID-H787-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 34\nBarangsiapa dengan maksud untuk menguntungkan diri sendiri atau\norang lain secara melawan hukum dengan mengaku atau memakai nama\nusaha kecil sehingga memp eroleh fasilitas kemudahan dana, keringanan\ntarif, tempat usaha, bidang dan kegiatan usaha, atau pengadaan barang\ndan jasa atau pemborongan pekerjaan Pemerintah yang diperuntukan dan\ndicadangkan bagi Usaha Kecil yang secara langsung atau tidak langsung\nmenimbulkan kerugian bagi Usaha Kecil diancam dengan pidana penjara\nPRESIDEN\nREPUBLIK INDONESIA\npaling lama lima tahun atau pidana denda paling banyak\nRp.2.000.000.000,- (dua milyar rupiah)."
+   }
+  },
+  {
+   "id": "ID-H787-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35…"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 35\nPerbuatan sebagaimana dimaksud dalam Pasal 34 adalah tindak pidana\nkejahatan.\nBAB X\nSANKSI ADMINISTRATIF"
+   }
+  },
+  {
+   "id": "ID-H787-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 36\n(1) Usaha Menengah atau Usaha Besar yang dengan sengaja melanggar\nketentuan Pasal 31 dikenakan sanksi administratif berupa\npencabutan izin usaha dan atau denda paling banyak Rp.\n5.000.000.000,- (lima milyar rupiah) oleh instansi yang berwenang.\n(2) Jika tindak pidana sebagaimana dimaksud dalam Pasal 34 dilakukan\noleh atau atas nama badan usaha, dapat dikenakan sanksi\nadministratif berupa pencabutan sementara atau pencabutan tetap\nizin usaha oleh instansi berwenang.\nBAB XI\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H787-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 37\nDengan berlakunya Undang -undang ini, seluruh peraturan\nperundang-undangan yang berkaitan dengan pengaturan Usaha Kecil\ndinyatakan tetap berlaku sepanjang tidak bertentangan dengan\nUndang-undang ini."
+   }
+  },
+  {
+   "id": "ID-H787-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 38\nPRESIDEN\nREPUBLIK INDONESIA\nUndang-undang ini mulai berlaku sejak tanggal diundangkan.\nAgar…\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nUndang-undang ini dengan penempatannya dalam Lembaran Negara\nRepublik Indonesia.\nDisahkan di Jakarta\npada tanggal 26 Desember 1995\nPRESIDEN REPUBLIK INDONESIA,\nttd.\nSOEHARTO\nDiundangkan di Jakarta\npada tanggal 26 Desember 1995\nMENTERI NEGARA SEKRETARIS NEGARA\nREPUBLIK INDONESIA\nttd.\nMOERDIONO\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1995 NOMOR 74\nPRESIDEN\nREPUBLIK INDONESIA\nPENJELASAN\nATAS\nUNDANG-UNDANG REPUBLIK INDONESIA\nNOMOR 9 TAHUN 1995\nTENTANG\nUSAHA KECIL\nI. UMUM\nPembangunan Nasional bertujuan untuk mewujudkan masyarakat adil dan makmur\nyang merata material dan spiritual berdasarkan Pancasila dan Undang -undang Dasar\n1945 dalam wadah negara Kesatuan Republik Indonesia yang merdeka, berdaulat,\nbersatu, dan berkedaulatan rakyat dalam suasana perikehidupan bangsa yang aman,\ntenteram, tertib, dan dinamis dalam lingkungan pergaulan dunia yang merdeka,\nbersahabat, tertib, dan damai.\nPembangunan Nasional sebagai pengamalan Pancasila yang mencakup seluruh\naspek kehidupan bangsa diselenggarakan bersama oleh masyarakat dan Pemerintah.\nMasyarakat adalah pelaku utama pembangunan dan Pemerintah berkewajiban\nmengarahkan, membimbing, melindungi, serta menumbuhkan suasana yang\nmenunjang. Kegiatan masyarakat dan kegiatan Pemerintah saling menunjang, saling\nmengisi, dan saling melengkapi dalam satu kesatuan langkah menuju tercapainya\ntujuan Pembangunan Nasional. Untuk mencap ai tujuan tersebut telah dilaksanakan\npembangunan di segala bidang dengan titik berat diletakkan pada bidang ekonomi\nseiring dengan kualitas sumber daya manusia tetap bertumpu pada aspek\npemerataan, pertumbuhan dan stabilitas.\nPertumbuhan ekonomi yang cuk up tinggi selama Pembangunan Jangka Panjang\nPertama, selain telah meningkatkan kesejahteraan rakyat juga telah\nmenumbuh-kembangkan Usaha Besar, Usaha Menengah, Usaha Kecil, dan\nKoperasi.\nUsaha…\nPRESIDEN\nREPUBLIK INDONESIA\nUsaha Kecil, yang merupakan bagian integral dunia usaha nasional mempunyai\nkedudukan, potensi, dan peranan yang sangat penting dan strategis dalam\nmewujudkan tujuan Pembangunan Nasional pada umumnya dan tujuan\npembangunan ekonomi pada khususnya. Usaha Keci l merupakan kegiatan usaha\nyang mampu memperluas lapangan kerja dan memberikan pelayanan ekonomi yang\nluas pada masyarakat dapat berperan dalam proses pemerataan dan meningkatkan\npendapatan masyarakat, serta mendorong pertumbuhan ekonomi dan berperan dalam\nmewujudkan stabilitas nasional pada umumnya dan stabilitas pada khususnya.\nKenyataan menunjukkan bahwa Usaha Kecil masih belum dapat mewujudkan\nkemampuan dan peranannya secara optimal dalam perekonomian nasional. Hal itu\ndisebabkan oleh kenyataan bahwa U saha Kecil masih menghadapi berbagai\nhambatan dan kendala, baik yan bersifat eksternal maupun internal, dalam bidang\nproduksi dan pengolahan, pemasaran, permodalan, sumber daya manusia, dan\nteknologi, serta iklim usaha yang belum mendukung bagi perkembangannya.\nDalam upaya meningkatkan kesempatan dan kemampuan Usaha Kecil, telah\ndikeluarkan berbagai kebijaksanaan oleh Pemerintah tentang pencadangan usaha,\npendanaan, dan pembinaan, tetapi belum berhasil sebagaimana diharapkan karena\nbelum adanya kepastian hukum yang merupakan perlindungan bagi Usaha Kecil dan\ndipatuhi oleh semua pihak. Dihadapkan pada era perdagangan bebas dalam rangka\nmengantisipasi keterbukaan perekonomian dunia, baik pada tingkat regional\nmaupun tingkat dunia, Usaha Kecil dituntut menjadi tangguh dan mandiri.\nSehubungan dengan itu, Usaha Kecil perlu memberdayakan dirinya dan\ndiberdayakan dengan berpijak pada kerangka hukum nasional yang berlandaskan\nPancasila dan Undang -Undang Dasar 1945 demi terwujudnya demokrasi ekonomi\nyang berdasar p ada asas kekeluargaan. Pemberdayaan Usaha Kecil dilakukan\nmelalui:\na) penumbuhan iklim usaha yang mendukung bagi pengembangan Usaha Kecil;\nb) pembinaan dan pengembangan Usaha Kecil serta kemitraan usaha.\nPemberdayaan Usaha Kecil dilaksanakan oleh Pemeri ntah, dunia usaha, dan\nmasyarakat. Dengan memberdayakan Usaha Kecil, diharapkan Usaha Kecil menjadi\ntangguh, mandiri, dan juga dapat berkembang menjadi Usaha Menengah. Usaha\nKecil yang tangguh, mandiri, dan berkembang dengan sendirinya akan\nmeningkatkan pr oduk nasional, kesempatan kerja, ekspor, serta pemerataan\nhasil-hasil pembangunan, yang pada gilirannya akan memberikan sumbangan yang\nlebih besar terhadap penerimaan negara. Selanjutnya, pemberdayaan Usaha Kecil\nakan meningkatkan kedudukan serta peran Usa ha Kecil dalam perekonomian\nnasional sehingga akan terwujud tatanan perekonomian nasional yang sehat dan\nkukuh.\nDalam…\nPRESIDEN\nREPUBLIK INDONESIA\nDalam memberdayakan Usaha Kecil seluruh peraturan perundang -undangan yang\nberkaitan dengan Usaha Kecil, antara lain Undang -undang Nomor 5 Tahun 1984\ntentang Perindustrian, Undang -undang Nomor 7 Tahun 1992 tentang Perbankan, dan\nUndang-undang Nomor 25 Tahun 1992 tentang Perkoperasian merupakan satu\nkesatuan yang tidak dapat dipisahkan dan saling melengkapi.\nBerdasarkan hal -hal tersebut di a tas, Undang -undang ini disusun dengan maksud\nmemberdayakan Usaha Kecil, mencakup berbagai aspek pemberdayaan Usaha Kecil\ntetapi tidak mengatur mekanisme internalnya. Di dalamnya dimuat tentang pengertian\ndan kriteria Usaha Kecil serta landasan, asas dan tujuan.\nSelanjutnya, diperjelas dan dipertegas pula segi -segi yang mencakup penumbuhan\niklim usaha yang kondusif, pembinaan, dan pengembangan, pembiayaan dan\npenjaminan, kemitraan, koordinasi dan pengendalian, serta ketentuan pidana dan\nsanksi administratif.\nII. PASAL DEMI PASAL\nPasal 1\nAngka 1\nYang dimaksud dengan Usaha Kecil tradisional adalah usaha yang\nmenggunakan alat produksi sederhana yang telah digunakan secara turun\ntemurun, dan/atau berkaitan dengan seni dan budaya. Kegiatan ekonomi ra kyat\nyang berskala kecil adalah kegiatan ekonomi berskala kecil yang dimiliki dan\nmenghidupi sebagian besar rakyat.\nAngka 2\nYang dimaksud dengan Usaha Menengah dan Usaha Besar meliputi usaha\nnasional (milik negara atau swasta), usaha patungan, dan usa ha asing yang\nmelakukan kegiatan ekonomi di Indonesia.\nAngka 3\nYang dimaksud dengan usaha yang tangguh dan mandiri adalah usaha yang\nmemiliki daya saing tinggi dan memiliki kemampuan memecahkan masalah\ndengan bertumpu pada kepercayaan dan kemampuan sendiri.\nAngka 4\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nAngka 5…\nAngka 5\nPembinaan dan pengembangan yang dilakukan oleh Pemerintah, dunia usaha,\ndan masyarakat dapat dilaksanakan, baik secara sendiri -sendiri maupun secara\nbersama-sama.\nAngka 6\nYang dimaksud dengan dana adalah sejumlah uang, surat -surat berharga, atau\naktiva lainnya.\nYang dimaksud dengan permodalan adalah kekayaan usaha dalam bentuk\nyang atau harta lainnya, yang menjadi dasar untuk menjalankan dan\nmengembangkan usaha yang terdiri atas modal sendiri dan modal luar.\nAngka 7\nCukup jelas\nAngka 8\nKerja sama usaha dalam kemitraan hendaknya dilakukan dengan\nmemperhatikan tanggung jawab moral dan etika bisnis yang sehat.\nPasal 2\nCukup jelas\nPasal 3\nDalam upaya memberdayakan Usaha Kecil, jiwa dan semangat usaha bersama\nmerupakan bagian yang tidak terpisahkan dari asas kekeluargaan yang didalamnya\nterkandung nilai-nilai keadilan.\nPasal 4\nCukup jelas\nPasal 5\nAyat (1)\nHuruf a…\nPRESIDEN\nREPUBLIK INDONESIA\nHuruf a\nYang dimaksud dengan kekayaan bersih adalah nilai jual kekayaan usaha\n(aset) dikurangi kewajibannya.\nHuruf b\nYang dimaksud dengan hasil penjualan tahunan adalah hasil penjualan\nbersih (neto) yang berasal dari penjualan barang dan jasa dari usahanya\ndalam satu tahun buku.\nWalaupun Undang -undang ini menetapkan batas kekayaan bersih atau\nhasil penjualan tahunan t ersebut, Usaha Kecil yang mendapatkan prioritas\npemberdayaan adalah Usaha Kecil yang merupakan lapisan terbesar dari\njumlah Usaha Kecil yang ada.\nHuruf c\nYang dimaksud dengan milik Warga Negara Indonesia adalah Usaha Kecil\nyang sepenuhnya milik Warga Negara Indonesia. Pemilik Usaha Kecil\ntersebut dapat mengelolanya sendiri atau menyerahkan pengelolaannya\nkepada pihak lain.\nHuruf d\nYang dimaksud dengan Usaha Kecil yang dimiliki atau dikuasai oleh Usaha\nMenengah atau Usaha Besar adalah Usaha Kecil yang merupakan anak\nperusahaan atau cabang perusahaan yang sepenuhnya atau sebagian besar\nsahamnya dimiliki oleh Usaha Menengah atau Usaha Besar.\nYang dimaksud dengan Usaha Kecil yang berafiliasi dengan Usaha\nMenengah atau Usaha Besar adalah Usaha Keci l yang dikendalikan secara\nlangsung atau tidak langsung oleh Usaha Menengah atau Usaha Besar.\na. Yang dimaksud dengan berafiliasi langsung adalah jika anggota dewan\nkomisaris, direksi, atau manajer Usaha Menengah atau Usaha Besar\nmerupakan pemilik atau pengelola Usaha Kecil.\nb. Yang dimaksud dengan berafiliasi tidak langsung adalah jika:\n1) Usaha Kecil dan Usaha Menengah atau Usaha Besar dimiliki atau\ndikuasai oleh orang atau pihak yang sama;\nPRESIDEN\nREPUBLIK INDONESIA\n2) pemilik…\n2) pemilik atau pengelola Usaha Kecil memiliki hubungan keluarga\nsecara horizontal atau vertikal, karena perkawinan atau keturunan\nsampai derajat kedua, dengan salah seorang anggota dewan\nkomisaris, direksi atau yang mengendalikan Usaha Menengah atau\nUsaha Besar, jika terdapat keterkaitan usaha baik horizontal maupun\nvertikal, antara Usaha Kecil dengan Usaha Menengah atau Usaha\nBesar yang bersangkutan.\nYang dikecualikan dengan pengertian dimiliki, dikuasai atau berafiliasi ialah\nkoperasi karyawan dari Usaha Menengah atau Usaha Besar.\nHuruf e\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 6\nAyat (1)\nYang berwenang menetapkan peraturan perundang -undangan dan\nkebijaksanaan sebagaimana yang dimaksud pasal ini paling rendah adalah\nMenteri.\nHuruf a\nYang dimaksud dengan pendanaan dalam pasal ini adalah upaya yang\nterdiri atas penyediaan sumber dana, tata cara, dan persyaratan untuk\npemenuhan kebutuhan dana bagi pemberdayaan Usaha Kecil.\nHuruf b\nCukup jelas\nHuruf c\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nHuruf d…\nHuruf d\nCukup jelas\nHuruf e\nCukup jelas\nHuruf f\nCukup jelas\nHuruf g\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 7\nHuruf a\nYang dimaksud dengan memperluas sumber pendanaan ad alah berbagai upaya\nmemperbanyak jenis dan meningkatkan alokasi pendanaan yang dapat\ndimanfaatkan Usaha Kecil.\nHuruf b\nYang dimaksud dengan meningkatkan akses terhadap sumber pendanaan\nmencakup berbagai upaya penyederhanaan tata cara dalam memperoleh dana.\nHuruf c\nYang dimaksud dengan memberikan kemudahan dalam pendanaan mencakup\nberbagai upaya pemberian keringanan persyaratan dalam pendanaan.\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 8 …\nPasal 8\nHuruf a\nKerja sama sesama Usaha Kecil dimaksudkan untuk meningkatkan posisi\ntawar dalam melakukan transaksi bisnis dengan pihak lainnya agar mempunyai\nposisi yang sepadan, Selain itu, kerja sama sesama Usaha Kecil akan\nmeningkatkan pula skala ekonomi usahanya.\nHuruf b\nYang dimaksud dengan mencegah adalah upaya berupa deregulasi, pengaturan\ntata niaga, penetapan harga, pengenaan sanksi, dan pembentukan komisi\npersaingan.\nPengertian pencegahan mencakup penghapusan bentuk monopoli, oligopoli,\ndan monopoli, yang merugikan Usaha Kecil, kecuali yang dikendalikan oleh\nnegara demi kepentingan rakyat banyak.\nHuruf c\nCukup jelas\nPasal 9\nHuruf a\nYang dimaksud dengan mengadaka n prasarana umum dalam pasal ini adalah\npenyediaan prasarana yang memadai bagi pengembangan Usaha Kecil, antara\nlain, meliputi pengadaan prasarana transportasi, telekomunikasi, listrik, air\nbersih, lokasi usaha, tempat berusaha, dan pasar.\nHuruf b\nYang dimaksud dengan memberikan keringanan tarif prasarana tertentu dalam\npasal ini adalah pengadaan pembedaan perlakuan tarif berdasarkan ketetapan\nPemerintah, baik yang secara langsung maupun tidak langsung memberikan\nkeringanan bagi Usaha Kecil.\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 10…\nPasal 10\nHuruf a\nYang dimaksud dengan bank data dan jaringan informasi bisnis adalah\nberbagai pusat data bisnis dan sistem informasi bisnis yang dimiliki\nPemerintah atau swasta.\nHuruf b\nYang dimaksud dengan mengadakan dan menyebarkan info rmasi mengenai\npasar, teknologi, desain, dan mutu adalah melakukan penyebaran informasi di\nseluruh wilayah tanah air aga Usaha Kecil dapat mengikuti perkembangan\npasar, teknologi atau desain, baik yang berasal dari dalam maupun luar negeri.\nPasal 11\nHuruf a\nYang dimaksud dengan mewujudkan kemitraan adalah suatu usaha Menengah\ndan Usaha Besar melakukan kemitraan, antara lain, berupa stimulan tanpa\nadanya unsur paksaan sehingga terlaksananya alih teknologi, manajemen, dan\nkesempatan berusaha bagi Usaha Kecil dapat terjadi secara wajar.\nHuruf b\nYang dimaksud dengan mencegah terjadinya hal -hal yang merugikan Usaha\nKecil dalam pelaksanaan transaksi Usaha Kecil dengan Usaha Menengah\ndan/atau Usaha Besar adalah upaya yang ditujukan agar Usaha Kecil tersebut\ntidak dirugikan oleh Usaha Menengah dan/atau Usaha Besar, sebagai akibat\npenundaan pembayaran, pengalihan resiko yang tidak adil dalam konsinyasi,\ndan pengenaan pungutan-pungutan.\nPasal 12\nHuruf a\nUpaya mewujudkan sistem pelayanan satu atap dilaksanakan secara bertahap.\nPRESIDEN\nREPUBLIK INDONESIA\nHuruf b…\nHuruf b\nYang dimaksud dengan pemberian kemudahan persyaratan untuk memperoleh\nperizinan bagi Usaha Kecil, antara lain, adalah keringanan biaya.\nPasal 13\nHuruf a\nYang dimaksud dengan menumbuhkan iklim usaha dalam aspek perlindungan\nmencakup aspek peruntukan tempat usaha, antara lain:\n1) lokasi di pasar, yaitu pengadaan lokasi untuk pasar tradisional atau lokasi\npasar tertentu lainnya yang khusus diperuntukkan ba gi Usaha Kecil,\npembangunan lokasi pasar bagi Usaha Menengah atau Usaha Besar\ndiatur dengan memperhatikan jarak lokasi pasar yang telah\ndiperuntukkan bagi Usaha Kecil;\n2) ruang pertokoan, yaitu ruang yang disediakan bagi penguasa kecil dalam\npusat perbelanjaan;\n3) lokasi sentra industri kecil, yaitu pengadaan lahan khusus bagi Usaha\nKecil atau pengadaan sebagian lahan pada kawasan industri yang\ndibangun oleh Pemerintah at au oleh Usaha Menengah dan/atau Usaha\nBesar;\n4) lokasi pertanian rakyat dalam arti luas, yaitu pencadangan lahan pertanian\nbagi Usaha Kecil dalam pembangunan pertanian oleh Pemerintah atau\noleh Usaha Menengah dan/atau Usaha Besar;\n5) lokasi pertambangan rakyat, yaitu pengadaan lahan pertambangan khusus\nbagi pengusaha kecil oleh Pemerintah.\n6) lokasi untuk pedagang kaki lima, yang diatur melalui penetapan tata\nruang.\nHuruf b\nYang dimaksud dengan mencadangkan bidang dan jenis kegiatan usaha adalah\npemberian perlindungan, antara lain, terhadap:\n1) kegiatan usaha yang menggunakan teknologi yang mempunyai\nkekhususan proses;\n2) kegiatan usaha yang bersifat padat karya yang merupakan mata\npencaharian sebagian masyarakat setempat;\n3) kegiatan usaha y ang mempunyai nilai seni budaya yang bersifat khusus\nserta turun temurun dan dikuasai oleh masyarakat secara turun -temurun\npula.\nPRESIDEN\nREPUBLIK INDONESIA\nHuruf c…\nHuruf c\nCukup jelas\nHuruf d\nYang dimaksud dengan pengadaan barang atau jasa dan pemborongan kerja\npemerintah adalah pengadaan dan pemborongan pekerjaan yang dibiayai dari\nAnggaran Pendapatan dan Belanja Negara (APBN), Anggaran Pendapatan dan\nBelanja Daerah (APBD), serta dari badan us aha milik negara (BUMN) dan\nbadan usaha milik daerah (BUMD).\nHuruf e\nCukup jelas\nPasal 14\nCukup jelas\nPasal 15\nCukup jelas\nPasal 16\nCukup jelas\nPasal 17\nHuruf a\nYang dimaksud dengan memasyarakatkan dan membudayakan kewirausahaan\nadalah m enanamkan dan mengembangkan jiwa, semangat, serta perilaku\nkewirausahaan, yaitu:\na. kemauan dan kemampuan untuk bekerja dengan semangat kemandirian;\nb. kemauan dan kemampuan memecahkan masalah dan mengambil\nkeputusan secara sistematis, termasuk keberanian mengambil resiko\nusaha;\nc. kemauan dan kemampuan berpikir dan bertindak secara kreatif dan\ninovatif;\nd. kemauan dan kemampuan untuk bekerja secara t eliti, tekun, dan\nPRESIDEN\nREPUBLIK INDONESIA\nproduktif;\ne. kemauan…\ne. kemauan dan kemampuan untuk bekerja dalam kebersamaan dengan\nberlandaskan etika bisnis yang sehat.\nHuruf b\nCukup jelas\nHuruf c\nCukup jelas\nHuruf d\nCukup jelas\nPasal 18\nCukup jelas\nPasal 19\nAyat (1)\nYang dimaksud dengan klasifikasi dalam pasal ini adalah penggolongan Usaha\nKecil yang dilakukan oleh Pemerintah berdasarkan nilai kekayaan bersih atau\npenjualan tahunan dengan memperhatikan kondisi nyata berbagai jenis dan\nlapisan Usaha Kecil, t ermasuk Usaha Kecil informal, Usaha Kecil rumah\ntangga, dan Usaha Kecil tradisional.\nPasal 20\nAyat (1)\nPembinaan dan pengembangan Usaha Kecil yang telah berhasil berkembang\nmenjadi Usaha Menengah dapat dilanjutkan dalam jangka waktu paling lama\ntiga tahun dimaksudkan agar selama kurun waktu tersebut dapat dimanfaatkan\noleh Usaha Menengah itu untuk memantapkan usahanya karena jangka waktu\ntiga tahun merupakan jangka waktu yang memadai sebagai proses pemantapan\nusaha.\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (2)\nCukup jelas\nAyat (3)…\nAyat (3)\nCukup jelas\nPasal 21\nHuruf a\nCukup jelas\nHuruf b\nCukup jelas\nHuruf c\nCukup jelas\nHuruf d\nCukup jelas\nHuruf e\nCukup jelas\nHuruf f\nYang dimaksud dengan jenis pembiayaan lainnya adalah dana sumbangan dari\nmasyarakat, termasuk dana dari Usaha Besar swasta, dan sebagainya.\nPasal 22\nCukup jelas\nPasal 23\nAyat (1)\nDalam pelaksanaan penjaminan oleh lembaga penjamin, baik yang dimili ki\nPRESIDEN\nREPUBLIK INDONESIA\noleh Pemerintah maupun swasta, Usaha Kecil diberi berbagai kemudahan\nberupa penyederhanaan tata cara dan persyaratan yang ringan.\nAyat (2)…\nAyat (2)\nHuruf a\nCukup jelas\nHuruf b\nCukup jelas\nHuruf c\nYang dimaksud dengan penjaminan pembiayaan lainnya adalah pemberian\njaminan, antara lain, dalam bentuk jaminan orang perseorangan dan jaminan\nperusahaan (avalis).\nPasal 24\nCukup jelas\nPasal 25\nTata cara pembiayaan dan penjaminan Usaha Kecil diupayaka n dengan sederhana\ndan mudah serta dengan persyaratan yang ringan. Prioritas pemberian pembiayaan\ndan penjaminan diberikan kepada kelompok atau lapisan Usaha Kecil yang\njumlahnya paling besar, sedangkan jangka waktu pembiayaan ditetapkan secara\nluwes, sesuai dengan kelayakan usaha dari Usaha Kecil yang bersangkutan.\nPasal 26\nAyat (1)\nCukup jelas\nAyat (2)\nPelaksanaan hubungan kemitraan sebagaimana dimaksud dalam ayat ini\ndiarahkan kepada perluasan dan pendalaman keterkaitan bagi Usaha Kecil\nyang me miliki keterkaitan usaha serta penumbuhan keterkaitan usaha bagi\nUsaha Kecil yang memiliki potensi keterkaitan usaha.\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (3)\nCukup jelas\nAyat (4)…\nAyat (4)\nCukup jelas\nPasal 27\nYang dimaksud dengan:\na. pola inti-plasma adalah hubungan kemitraan antara Usaha Kecil dengan Usaha\nMenengah atau Usaha Besar, yang didalamnya Usaha Menengah atau Usaha\nBesar bertindak sebagai inti dan Usaha Kecil selaku plasma, perusahaan ini\nmelaksanakan pembinaan mulai dari penyediaan sa rana produksi, bimbingan\nteknis, sampai dengan pemasaran hasil produksi;\nb. pola subkontrak adalah hubungan kemitraan antara Usaha Kecil dengan Usaha\nMenengah atau Usaha Besar, yang didalamnya Usaha Kecil memproduksi\nkomponen yang diperlukan oleh Usaha Me nengah atau Usaha Besar sebagai\nbagian dari produksinya;\nc. pola dagang umum adalah hubungan kemitraan antara Usaha Kecil dengan\nUsaha Menengah atau Usaha Besar, yang didalamnya Usaha Menengah atau\nUsaha Besar memasarkan hasil produksi Usaha Kecil atau Us aha Kecil\nmemasok kebutuhan yang diperlukan oleh Usaha Menengah atau Usaha Besar\nmitranya;\nd. pola waralaba adalah hubungan kemitraan yang didalamnya pemberi waralaba\nmemberikan hak penggunaan lisensi, merek dagang, dan saluran distribusi\nperusahaannya kepada penerima waralaba dengan disertai bantuan bimbingan\nmanajemen;\ne. pola keagenan adalah hubungan kemitraan, yang didalamnya Usaha Kecil\ndiberi hak khusus untuk memasarkan barang dan jasa Usaha Menengah atau\nUsaha Besar mitranya;\nf. pola bentuk-bentuk lain di luar pola sebagaimana tertera dalam huruf a, b, c, d\ndan e pasal ini adalah pola kemitraan yang pada saat ini sudah berkembang,\ntetapi belum dibakukan, atau pola baru yang akan timbul di masa yang akan\ndatang.\nPasal 28\nPendataan dilakukan oleh Pemerintah dengan cara sederhana, mudah, dan tidak\ndipungut biaya. Jika Usaha Kecil belum terdata, usaha tersebut tetap dapat\nmelaksanakan hubungan kemitraan.\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 29 …\nPasal 29\nPenyelesaian perselisihan dalam hubungan kemitraan dilakukan secara musyawarah.\nJika tidak tercapai kata mufakat, perselisihan itu diselesaikan melalui badan\nperadilan.\nPasal 30\nSaham dengan harga ya ng wajar dapat dibeli oleh Usaha Kecil dengan sistem\npembayaran yang ringan dan tidak merugikan pengembangan Usaha Kecil.\nPasal 32\nCukup jelas\nPasal 33\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nPasal 34\nCukup jelas\nPasal 35\nCukup jelas\nPasal 36\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (1)\nCukup jelas\nAyat (2)…\nAyat (2)\nCukup jelas\nPasal 37\nCukup jelas\nPasal 38\nCukup jelas\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 3611"
+   }
+  }
+ ]
+}

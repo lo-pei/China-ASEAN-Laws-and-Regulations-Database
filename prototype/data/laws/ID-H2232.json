@@ -1,0 +1,520 @@
+{
+ "id": "ID-H2232",
+ "title": {
+  "zh": "空间规划图精度法",
+  "en": "Law on the Accuracy of Spatial Planning Maps",
+  "id": "KETELITIAN PETA RENCANA TATA RUANG",
+  "orig": "KETELITIAN PETA RENCANA TATA RUANG",
+  "vi": "Luật về Độ chính xác của Bản đồ Quy hoạch Không gian",
+  "th": "พระราชบัญญัติว่าด้วยความละเอียดของแผนที่ผังเมือง",
+  "ms": "Akta tentang Ketelitian Peta Rancangan Tata Ruang"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02c",
+ "language": "id",
+ "level": "law",
+ "category": "04_劳工与行政法",
+ "status": "active",
+ "promulgatedDate": "2013",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU8-2013",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 34,
+ "chars": 31658,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PP%20Nomor%208%20Tahun%202013.pdf&fl=P16901"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\04_劳工与行政法\\印尼_文本_2013_KETELITIAN PETA RENCANA TATA RUANG.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 34 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H2232-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\n\n Dalam Peraturan Pemerintah ini yang dimaksud dengan:\n\n1. Peta adalah suatu gambaran dari unsur -unsur alam dan\natau buatan manusia, yang berada di atas maupun di\nbawah permukaan bumi yang digambarkan pada suatu\nbidang datar dengan Skala tertentu.\n\n2. Ketelitian Peta adalah ketepatan, ker incian dan\nkelengkapan data, dan/ atau informasi georeferensi dan\ntematik, sehingga merupakan penggabungan dari sistem\nreferensi geometris, Skala, akurasi, atau kerincian basis\ndata, format penyimpanan secara digital termas uk kode\nunsur, penyajian kartografis mencakup simbol, warna,\narsiran dan notasi, serta kelengkapan muatan Peta.\n3. Skala . . .\n\n\n\n\n3. Skala adalah perbandingan jarak dalam suatu  Peta\ndengan jarak yang sama di muka bumi.\n\n4. Skala Minimal adalah Skala Peta Dasar terkecil yang boleh\ndigunakan dalam proses Perencanaan Tata Ruang.\n\n5. Geospasial atau ruang kebumian adalah aspek keruangan\nyang menunjukkan lokasi, letak, dan posisi suatu objek\natau kejadian yang berada di bawah, pada, atau di atas\npermukaan bumi yang dinyatakan dalam sistem  koordinat\ntertentu.\n\n6. Data Geospasial adalah data tentang lokasi geografis,\ndimensi atau ukuran, dan/atau karakteristik objek alam\ndan/atau buatan manusia yang berada di bawah, pada,\natau di atas permukaan bumi.\n\n7. Informasi Geospasial adalah Data Geospasial  yang sudah\ndiolah sehingga dapat digunakan sebagai alat bantu dalam\nperumusan kebijakan, pengambilan keputusan , dan/atau\npelaksanaan kegiatan yang berhubungan dengan ruang\nkebumian.\n\n8. Unit Pemetaan adalah merupakan pembagian ruang\nterkecil atau hierarki te rkecil dalam suatu Peta Tematik\nyang digunakan untuk menampilkan informasi tematik\ndalam penyusunan tata ruang.\n\n9. Perencanaan Tata Ruang adalah suatu proses untuk\nmenentukan struktur ruang dan pola ruang yang meliputi\npenyusunan dan penetapan rencana tata ruang.\n\n10. Rencana Tata Ruang adalah hasil Perencanaan Tata\nRuang.\n\n11. Peta Dasar adalah Peta yang menyajikan unsur -unsur\nalam dan atau buatan manusia, yang berada di\npermukaan bumi, digambarkan pada suatu bidang datar\ndengan Skala, penomoran, proyeksi , dan geore ferensi\ntertentu.\n\n12. Peta Tematik adalah Peta yang menggambarkan tema\ntertentu yang digunakan untuk pembuatan Peta rencana\ntata ruang.\n\n13. Data . . .\n\n\n\n\n13. Data Batimetri adalah data garis khayal yang\nmenghubungkan titik-titik yang memiliki kedalaman yang\nsama.\n\n14. Wilayah adalah ruang yang merupakan kesatuan geografis\nbeserta segenap unsur terkait yang batas dan sistemnya\nditentukan berdasark an pada aspek administratif\ndan/atau fungsional.\n\n15. Peta Wilayah adalah Peta yang menggambarkan ruang\ndalam kesatuan geografi s beserta segenap  unsur terkait\nyang batas dan sistemnya ditentukan berdasark an pada\naspek administratif dan/atau fungsional.\n\n16. Badan adalah lembaga pemerintah non  kementerian yang\nmenyelenggarakan urusan pemerintahan di bidang\nInformasi Geospasial.\n\n17. Delineasi adalah garis yang menggambarkan batas suatu\nunsur yang berbentuk area.\n\n18. Koridor adalah area sepanjang perbatasan yang dibatasi\noleh 2 (dua) garis sejajar dengan garis perbatasan dengan\njarak tertentu di mana garis perbatasannya menjadi garis\ntengahnya.\n\nBAB II\n\nPERENCANAAN TATA RUANG\n\nBagian Kesatu\nUmum"
+   }
+  },
+  {
+   "id": "ID-H2232-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\n\n(1) Perencanaan Tata Ruang dilakukan untuk menghasilkan:\na.  rencana umum tata ruang; dan\nb.  rencana rinci tata ruang.\n\n(2) Rencana umum tata ruang sebagaimana dimaksud pada\nayat (1) huruf a secara hierarki terdiri atas:\na.  rencana tata ruang wilayah nasional;\nb.  rencana tata ruang wilayah provinsi; dan\nc.  rencana tata ruang wilayah kabupaten  dan re ncana\ntata ruang wilayah kota.\n\n(3) Rencana . . .\n\n\n\n\n(3) Rencana rinci tata ruang sebagaimana dimaksud pada\nayat (1) huruf b terdiri atas:\na.  rencana tata ruang pulau/kepulauan;\nb.  rencana tata ruang kawasan strategis nasional;\nc.  rencana tata ruang kawasan strategis provinsi;\nd.  rencana tata ruang kawasan strategis kabupaten;\ne.  rencana tata ruang kawasan strategis kota; dan\nf.  rencana detail tata ruang kabupaten/kota.\n\n(4) Rencana tata ruang sebagaimana dimaksud pada ayat (3)\nhuruf b, huruf c, dan huruf d dapat berupa rencana tata\nruang kawasan perkotaan, kawasan perdesaan, dan/atau\nkawasan lainnya yang ditetapkan sebagai kawasan\nstrategis."
+   }
+  },
+  {
+   "id": "ID-H2232-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\n\nRencana umum tata ruang  dan rencana rinci tata ruang\ntermasuk rencana tata ruang kawasan perkotaan, kawasan\nperdesaan, dan kawasan lainnya sebagaimana dimaksud\ndalam Pasal 2 dituangkan dalam Peta Rencana Tata Ruang.\n\nBagian Kedua\nPeta Rencana Tata Ruang\n\nParagraf  1\nUmum"
+   }
+  },
+  {
+   "id": "ID-H2232-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\n\n(1) Peta Rencana Tata Ruang sebagaimana dimaksud dalam\nPasal 3 meliputi:\na.  Peta Rencana Struktur Ruang; dan\nb.  Peta Rencana Pola Ruang.\n\n(2) Selain Peta Rencana Tata Ruang sebagaimana dimaksud\npada ayat (1), dapat ditetapkan Peta penetapan kawasan\nstrategis sesuai dengan ketentuan peraturan perundang -\nundangan."
+   }
+  },
+  {
+   "id": "ID-H2232-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\n\n(1) Peta Rencana Struktur Ruang sebagaimana dimaksud\ndalam Pasal 4 ayat (1) huruf a terdiri atas:\na.  Peta Rencana Struktur Ruang Wilayah nasional;\nb. Peta . . .\n\n\n\n\nb.  Peta Rencana Struktur Ruang Wilayah provinsi;\nc.  Peta R encana Struktur Ruang Wilayah kabupaten;\ndan\nd.  Peta Rencana Struktur Ruang Wilayah kota.\n\n(2) Peta Rencana Pola Ruang sebagaimana dimaksud dalam\nPasal 4 ayat (1) huruf b terdiri atas:\na.  Peta Rencana Pola Ruang Wilayah nasional;\nb.  Peta Rencana Pola Ruang Wilayah provinsi;\nc.  Peta Rencana Pola Ruang Wilayah kabupaten; dan\nd.  Peta Rencana Pola Ruang Wilayah kota."
+   }
+  },
+  {
+   "id": "ID-H2232-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\n\n(1) Peta Rencana Tata Ruang diselenggarakan dengan\nmenggunakan Peta Dasar dan Peta Tematik tertentu\nmelalui metode proses spasial yang ditentukan.\n\n(2)  Ketentuan lebih lanjut mengenai Ketelitian Peta Dasar\ndan Peta T ematik serta metode proses spasial yang\ndigunakan di dalam penyelenggaraan Peta Rencana Tata\nRuang sebagaimana dimaksud pada ayat (1) diatur\ndengan Peraturan Kepala Badan."
+   }
+  },
+  {
+   "id": "ID-H2232-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\n\n(1) Penyusunan Peta Rencana Tata Ruang sebagaimana\ndimaksud dalam Pasal 4 ayat (1) wajib dikonsultasikan\nkepada Badan.\n\n(2) Ketentuan lebih lanjut mengenai tata cara konsultasi\nsebagaimana dimaksud pada ayat ( 1) diatur dengan\nPeraturan Kepala Badan.\n\nParagraf 2\n Peta Rencana Struktur Ruang Wilayah"
+   }
+  },
+  {
+   "id": "ID-H2232-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n\n(1) Peta Rencana Struktur Ruang  Wilayah sebagaimana\ndimaksud dalam Pasal 5 ayat (1) huruf a meliputi unsur:\na.  sistem perkotaan;\nb.  sistem jaringan transportasi;\nc.  sistem jaringan energi;\nd.  sistem jaringan telekomunikasi; dan\ne.  sistem jaringan sumber daya air.\n(2) Peta . . .\n\n\n\n\n(2) Peta Rencana Struktur Ruang Wilayah sebagaimana\ndimaksud dalam Pasal 5 ayat (1)  huruf b, huruf c, dan\nhuruf d meliputi unsur:\na. sistem perkotaan;\nb. sistem jaringan transportasi;\nc. sistem jaringan energi;\nd. sistem jaringan telekomunikasi;\ne. sistem jaringan sumber daya air; dan\nf. sistem jaringan prasarana wilayah lainnya.\n\n(3) Sistem sebagaimana dimaksud pada ayat (1) dan ayat (2)\ndigambarkan pada 1 (satu) cakupan Peta Wilayah secara\nutuh.\n\n(4) Dalam hal diperlukan sistem sebagaimana dimaksud\npada ayat (1) dan ayat (2) dapat digambarkan pada Peta\ntersendiri.\n\n(5) Untuk kepentingan penetapan  peraturan perundang -\nundangan, Peta Rencana Struktur Ruang Wilayah  dapat\ndigambarkan dalam beberapa lembar Peta yang tersusun\nsecara sistematis mengikuti penggamba ran wilayah\nsecara utuh.\n\nParagraf 3\nPeta Rencana Pola Ruang Wilayah"
+   }
+  },
+  {
+   "id": "ID-H2232-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n\n(1) Peta Rencana Pola Ruang Wilayah sebagaimana\ndimaksud dalam Pasal 5 ayat (2) meliputi:\na. kawasan lindung; dan\nb. kawasan budi daya.\n\n(2) Peta Rencana Pola Ruang Wilayah sebagaimana\ndimaksud pada ayat ( 1) harus digambarkan dalam\nbentuk delineasi.\n\n(3) Delineasi kawasan lindung dan kawasan budi daya harus\ndipetakan pada lembar kertas yang menggambarkan\nwilayah secara utuh.\n\n(4) Dalam hal kawasan lindung dan kawasan budi daya\nsebagaimana dimaksud pa da ayat (1) tidak dapat\ndigambarkan dalam bentuk delineasi, penggambarannya\ndisajikan dalam bentuk simbol.\n\n(5) Untuk . . .\n\n\n\n\n(5) Untuk kepentingan penetapan peraturan perundang -\nundangan, Peta Rencana Pola Ruang sebagaimana\ndimaksud pada ayat (1) dapat digambarkan dalam\nbeberapa lembar Peta yang tersusun secara sistematis\nmengikuti penggambaran wilayah secara utuh.\n\n\nBAB III\n\nKETELITIAN PETA\n\nBagian Kesatu\nUmum"
+   }
+  },
+  {
+   "id": "ID-H2232-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\n\n(1) Peta rencana umum tata ruang dan rencana rinci tata\nruang termasuk rencana tata ruang kawasan perkotaan,\nkawasan perdesaan, dan kawasan lainnya  sebagaimana\ndimaksud dalam Pasal 3 disusun dalam tingkat ketelitian\ntertentu.\n\n(2) Tingkat k etelitian tertentu sebagaimana dimaksud pada\nayat (1) meliputi:\na. ketelitian geometris; dan\nb. ketelitian muatan ruang.\n\n(3) Ketelitian geometris sebagaimana dimaksud pada ayat ( 2)\nhuruf a meliputi:\na. sistem referensi Geospasial;\nb. Skala; dan\nc. Unit Pemetaan."
+   }
+  },
+  {
+   "id": "ID-H2232-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\n\n(1) Dalam pembuatan Peta harus menggunakan sistem\nreferensi Geospasial yang ditetapkan oleh Kepala Badan.\n\n(2) Dalam menetapkan sistem ref erensi Geospasial\nsebagaimana dimaksud pada ayat (1 ), Kepala Badan\nberpedoman pada sistem referensi Geospasial  yang\nbersifat global."
+   }
+  },
+  {
+   "id": "ID-H2232-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12 "
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 12 . . .\n\n\n\n\nPasal 12\n\n(1) Ketelitian muatan ruang sebagaimana dimaksud dalam\nPasal 10 ayat (2) huruf b meliputi:\na. kerincian kelas unsur; dan\nb. simbolisasi.\n\n(2) Kerincian kelas unsur dan simbolisasi sebagaimana\ndimaksud pada ayat (1)  tercantum dalam Lampiran yang\nmerupakan bagian  tidak terpisahkan dari Peraturan\nPemerintah ini.\n\n(3) Dalam hal diperlukan perubahan penggambaran\nkerincian kelas unsur dan simbolisasi pada Lampiran\nsebagaimana dimaksud pada ayat (2), penentuan\nkerincian kelas unsur dan simbolisasi dilakukan oleh\nKepala Badan dengan berkoordinasi bersama\nkementerian/lembaga pemerintah non kementerian\nterkait.\n\n(4) Perubahan penggambaran kerincian kelas unsur dan\nsimbolisasi pada Lampiran sebagaimana dimaksud pada\nayat (3) dapat diusulkan oleh kementerian/lembaga\npemerintah non kementerian atau Badan.\n\n(5) Ketentuan lebih lanjut mengenai perubahan terhadap\npenggambaran kerincian kelas unsur dan simbolisasi\ndiatur dengan peraturan Kepala Badan.\n\nBagian Kedua\nKetelitian Peta Rencana Umum Tata Ruang\n\nParagraf 1\nKetelitian Peta Rencana Tata Ruang Wilayah Nasional"
+   }
+  },
+  {
+   "id": "ID-H2232-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\n\nPeta Rencana Tata Ruang Wilayah nasional digambarkan\ndengan menggunakan:\na. sistem referensi Geospasial sebagaimana dimaksud dalam\nPasal 11;\nb. Peta Dasar Skala Minimal 1:1.000.000;\nc. Unit Pemetaan yang dapat digunakan untuk Rencana Tata\nRuang Wilayah Nasional; dan\nd. Ketelitian muatan ruang sebagaimana dimaksud dalam\nPasal 12.\n Paragraf 2 . . .\n\n\n\n\nParagraf 2\nKetelitian Peta Rencana Tata Ruang Wilayah Provinsi"
+   }
+  },
+  {
+   "id": "ID-H2232-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\n\n(1) Peta Rencana Tata Ruang Wilayah provinsi digambarkan\ndengan menggunakan:\na. sistem referensi Geospasial sebagaimana dimaksud\ndalam Pasal 11;\nb. Peta Dasar Skala Minimal 1:250.000;\nc. Unit Pemetaan yang dapat digunakan untuk Rencana\nTata Ruang Wilayah provinsi; dan\nd. Ketelitian muatan ruang sebagaimana dimaksud\ndalam Pasal 12.\n\n(2) Dalam hal  wilayah provinsi memiliki pesisir dan laut ,\nPeta Rencana Tata Ruang Wilayah provinsi dapat\ndilengkapi dengan Data Batimetri.\n\n(3) Dalam hal wilayah  provinsi berbatasan dengan  wilayah\nprovinsi lain, Peta Rencana Tata Ruang Wilayah provinsi\ndisusun setelah berkoordinasi dengan pemerintah\nprovinsi yang berbatasan langsung.\n\n(4) Peta Rencana Tata Ruang Wilayah provinsi sebagaimana\ndimaksud pada ayat (3) digambarkan dengan\npenggambaran wilayah provinsi ditambah dengan wilayah\nprovinsi yang berbatasan langsung dalam Koridor 5 (lima)\nkilometer sepanjang garis perbatasan.\n\nParagraf 3\nKetelitian Peta Rencana Tata Ruang Wilayah Kabupaten"
+   }
+  },
+  {
+   "id": "ID-H2232-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\n\n(1) Rencana Tata Ruang Wilayah kabupaten digambarkan\ndengan menggunakan:\na. sistem referensi Geospasial  sebagaimana dimaksud\ndalam Pasal 11;\nb. Peta Dasar Skala Minimal 1:50.000;\nc. Unit Pemetaan yang dapat digunakan untuk Rencana\nTata Ruang Wilayah kabupaten; dan\nd. Ketelitian muatan ruang sebagaimana dimaksud\ndalam Pasal 12.\n (2) Dalam . . .\n\n\n\n\n(2) Dalam hal wilayah kabupaten memiliki pesisir dan laut ,\nPeta Rencana Tata Ruang Wilayah kabupaten dapat\ndilengkapi dengan Data Batimetri.\n\n(3) Dalam hal wilayah kabupaten berbatasan dengan\nkabupaten/kota lain, Peta Rencana Tata Ruang Wilayah\nkabupaten disusun setelah berkoordinasi dengan\npemerintah kabupaten/kota yang berbatasan langsung.\n\n(4) Peta Rencana Tata Ruang Wilayah kabupaten\nsebagaimana dimaksud pada ayat (3) digambarkan\ndengan penggambaran wilayah kabupaten  ditambah\ndengan wilayah kabupaten /kota yang berbatasan\nlangsung dalam Koridor 2,5 (dua koma lima) kilometer\nsepanjang garis perbatasan."
+   }
+  },
+  {
+   "id": "ID-H2232-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\n\nRencana pola ruang wilayah kabupaten dapat digambarkan\ndalam beberapa lembar Peta yang t ersusun secara sistematis\nmengikuti indeks Peta Dasar nasional.\n\nParagraf 4\nKetelitian Peta Rencana Tata Ruang Wilayah Kota"
+   }
+  },
+  {
+   "id": "ID-H2232-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\n\n(1) Peta Rencana Tata Ruang Wilayah kota digambarkan\ndengan menggunakan:\na. sistem referensi Geospasial  sebagaimana dimaksud\ndalam Pasal 11;\nb. Peta Dasar Skala Minimal 1:25.000;\nc. Unit Pemetaan yang dapat digunakan untuk Rencana\nTata Ruang Wilayah kota; dan\nd. Ketelitian muatan ruang sebagaimana dimaksud\ndalam Pasal 12.\n\n(2) Dalam hal  wilayah kota  memiliki pesisir dan laut , Peta\nRencana Tata  Ruang Wilayah kota dapat dilengkapi\ndengan Data Batimetri.\n\n(3) Dalam hal wilayah kota  berbatasan dengan\nkabupaten/kota lain, Peta Rencana Tata Ruang Wilayah\nkota disusun setelah berkoordinasi dengan pemerintah\nkabupaten/kota yang berbatasan langsung.\n(4) Peta . . .\n\n\n\n\n(4) Peta Rencana Tata Ruang Wilayah kota sebagaimana\ndimaksud pada ayat (3) digambarkan dengan\npenggambaran wilayah kota ditambah dengan wilayah\nkabupaten/kota yang berbatasan langsung dalam\nKoridor 2,5 (dua koma lima) kilometer sepanjang garis\nperbatasan."
+   }
+  },
+  {
+   "id": "ID-H2232-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\n\nSistem jaringan prasarana jalan pada Peta struktur ruang\nwilayah kota harus digambarkan mengikuti terase jalan yang\nsebenarnya."
+   }
+  },
+  {
+   "id": "ID-H2232-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\n\nRencana pola ruang wilayah kota dapat digambarkan dalam\nbeberapa lembar Peta yang tersusun secara sistematis\nmengikuti indeks Peta Dasar nasional.\n\nBagian Ketiga\nKetelitian Peta Rencana Rinci Tata Ruang\n\nParagraf 1\nKetelitian Peta Rencana Tata Ruang Wilayah Pulau/Kepulauan"
+   }
+  },
+  {
+   "id": "ID-H2232-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\n\nPeta Rencana Tata Ruang Wilayah pulau/kepulauan\ndigambarkan dengan menggunakan:\na. sistem referensi Geospasial  sebagaimana dimaksud dalam\nPasal 11;\nb. Peta Dasar Skala Minimal 1:500.000;\nc. Unit Pemetaan yang dapat digunakan untuk Rencana Tata\nRuang Wilayah pulau/kepulauan; dan\nd. Ketelitian muatan ruang sebagaimana dimaksud dalam\nPasal 12.\n\nParagraf 2\nKetelitian Peta Rencana Tata Ruang Kawasan Strategis Nasional"
+   }
+  },
+  {
+   "id": "ID-H2232-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\n\n(1) Peta Rencana Tata Ruang Kawasan Strategis nasional\nmerupakan penjabaran dari Peta Sebaran Kawasan\nStrategis nasional dalam Rencana Tata Ruang Wilayah\nnasional.\n(2) Peta . . .\n\n\n\n\n(2) Peta Rencana Tata Ruang Kawasan Strategis nasional\ndigambarkan dengan menggunakan:\na. sistem referensi Geospasial  sebagaimana dimaksud\ndalam Pasal 11;\nb. Peta Dasar pada Skala yang sesuai dengan bentang\nobjek dan/atau sesuai kebutuhan;\nc. Unit Pemetaan yang dapat digunakan untuk R encana\nTata Ruang Kawasan Strategis nasional; dan\nd. Ketelitian muatan ruang sebagaimana dimaksud\ndalam Pasal 12.\n\n(3) Skala yang sesuai sebagaimana dimaksud pada ayat ( 2)\nhuruf b wajib dikonsultasikan kepada Kepala Badan.\n\nParagraf 3\nKetelitian Peta Rencana Tata Ruang Kawasan Strategis Provinsi"
+   }
+  },
+  {
+   "id": "ID-H2232-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\n\n(1) Peta Rencana Tata Ruang Kawasan Strategis provinsi\nmerupakan penjabaran dari Peta Sebaran Kawasan\nStrategis provinsi dalam Rencana Tata Ruang Wilayah\nprovinsi.\n\n(2) Peta Rencana Tata Ruang Kawasan Strategis provinsi\ndigambarkan dengan menggunakan:\na. sistem referensi Geospasial  sebagaimana dimaksud\ndalam Pasal 11;\nb. Peta Dasar pada Skala yang sesuai dengan bentang\nobjek dan/atau sesuai kebutuhan;\nc. Unit Pemetaan yang dapat digunakan untuk Rencana\nTata Ruang Kawasan Strategis provinsi; dan\nd. Ketelitian muatan ruang sebagaimana dimaksud\ndalam Pasal 12.\n\n(3) Skala yang sesuai sebagaimana dimaksud pada ayat ( 2)\nhuruf b wajib dikonsultasikan kepada Kepala Badan.\n\nParagraf 4\nKetelitian Peta Rencana Tata Ruang Kawasan Strategis Kabupaten"
+   }
+  },
+  {
+   "id": "ID-H2232-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\n\n(1) Peta Rencana Tata Ruang Kawasan Strategis kabupaten\nmerupakan penjabaran dari Peta Sebaran Kawasan\nStrategis kabupaten dalam Rencana Tata Ruang Wilayah\nkabupaten.\n(2) Peta . . .\n\n\n\n\n(2) Peta Rencana Tata Ruang Kawasan Strategis kabupaten\ndigambarkan dengan menggunakan:\na. sistem referensi Geospasial  sebagaimana dimaksud\ndalam Pasal 11;\nb. Peta Dasar pada Skala yang sesuai dengan bentang\nobjek dan/atau sesuai kebutuhan;\nc. Unit Pemetaan yang dapat digunakan untuk Rencana\nTata Ruang Kawasan Strategis kabupaten; dan\nd. Ketelitian muatan ruang sebagaimana dimaksud\ndalam Pasal 12.\n\n(3) Skala yang sesuai sebagaimana dimaksud pada ayat ( 2)\nhuruf b wajib dikonsultasikan kepada Kepala Badan.\n\nParagraf 5\nKetelitian Peta Rencana Tata Ruang Kawasan Strategis Kota"
+   }
+  },
+  {
+   "id": "ID-H2232-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 24\n\n(1) Peta Rencana Tata R uang Kawasan Strategis kota\nmerupakan penjabaran dari Peta Sebaran Kawasan\nStrategis kota dalam Rencana Tata Ruang Wilayah kota.\n\n(2) Peta Rencana Tata Ruang Kawasan Strategis kota\ndigambarkan dengan menggunakan:\na. sistem referensi Geospasial  sebagaimana dimaksu d\ndalam Pasal 11;\nb. Peta Dasar pada Skala yang sesuai dengan bentang\nobjek dan/atau sesuai kebutuhan;\nc. Unit Pemetaan yang dapat digunakan untuk Rencana\nTata Ruang Kawasan Strategis kota; dan\nd. Ketelitian muatan ruang sebagaimana dimaksud\ndalam Pasal 12.\n\n(3) Skala yang sesuai sebagaimana dimaksud pada ayat ( 2)\nhuruf b wajib dikonsultasikan kepada Kepala Badan."
+   }
+  },
+  {
+   "id": "ID-H2232-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\n\nPeta Rencana Tata Ruang Kawasan Strategis kota memuat\nunsur dengan tingkat kedetilan geometris sesuai dengan Skala\nyang ditetapkan.\n\n\n\nParagraf 6 . . .\n\n\n\n\nParagraf 6\nKetelitian Peta Rencana Detail Tata Ruang Kabupaten/Kota"
+   }
+  },
+  {
+   "id": "ID-H2232-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\n\n(1) Peta Rencana Det ail Tata Ruang kabupaten/kota\ndigambarkan dengan menggunakan:\na. sistem referensi Geospasial  sebagaimana dimaksud\ndalam Pasal 11;\nb. Peta Dasar dengan Skala yang sesuai dengan b entang\nobjek atau kawasan dan/atau tingkat kepentingan\nobjek atau kawasan yang digambarkan;\nc. Unit Pemetaan yang dapat digunakan untuk Rencana\nDetail Tata Ruang kabupaten/kota; dan\nd. Ketelitian muatan ruang sebagaimana dimaksud\ndalam Pasal 12.\n\n(2) Skala yang ses uai sebagaimana dimaksud pada ayat (1)\nhuruf b wajib dikonsultasikan kepada Kepala Badan.\n\nBagian Keempat\nKetelitian Peta Rencana Tata Ruang\nKawasan Perkotaan dan Kawasan Perdesaan\n\nParagraf 1\nKetelitian Peta Rencana Tata Ruang Kawasan Perkotaan"
+   }
+  },
+  {
+   "id": "ID-H2232-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\n\n(1) Peta Rencana Tata Ruang Kawasan perkotaan yang\nmerupakan bagian  wilayah kabupaten digambarkan\ndengan menggunakan:\na. sistem referensi Geospasial  sebagaimana dimaksud\ndalam Pasal 11;\nb. Peta Dasar Skala Minimal 1:10.000;\nc. Unit Pemetaan yang dapat digunakan untu k Rencana\nTata Ruang Kawasan perkotaan; dan\nd. Ketelitian muatan ruang sebagaimana dimaksud\ndalam Pasal 12.\n\n(2) Dalam hal Peta Rencana Tata Ruang Kawasan perkotaan\nyang mencakup dua atau lebih wilayah kabupaten/kota\npada satu atau lebih wilayah provinsi digambar kan\ndengan menggunakan:\na. sistem referensi Geospasial  sebagaimana dimaksud\ndalam Pasal 11;\nb. Peta Dasar Skala Minimal 1:50.000;\nc. Unit Pemetaan yang dapat digunakan untuk Rencana\nTata Ruang Kawasan perkotaan; dan\nd. Ketelitian . . .\n\n\n\n\nd. Ketelitian muatan ruang sebagaimana dimaksud\ndalam Pasal 12."
+   }
+  },
+  {
+   "id": "ID-H2232-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\n\nSistem Pusat Kegiatan pada Peta Rencana Tata Ruang\nKawasan perkotaan harus menunjukkan dengan jelas kota\ninti dan kota sekitarnya.\n\nParagraf 2\nKetelitian Peta Rencana Tata Ruang Kawasan Perdesaan"
+   }
+  },
+  {
+   "id": "ID-H2232-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\n\n(1) Peta R encana Tata Ruang Kawasan perdesaan yang\nmerupakan bagian  wilayah kabupaten digambarkan\ndengan menggunakan:\na. sistem referensi Geospasial  sebagaimana dimaksud\ndalam Pasal 11;\nb. Peta Dasar Skala Minimal 1:10.000;\nc. Unit Pemetaan yang dapat digunakan untuk Tata\nRuang Kawasan perdesaan; dan\nd. Ketelitian muatan ruang sebagaimana dimaksud\ndalam Pasal 12.\n\n(2) Dalam hal Peta Rencana Tata Ruang Kawasan perdesaan\nyang mencakup dua atau lebih wilayah kabupaten pada\nsatu atau lebih wilayah provinsi digambarkan dengan\nmenggunakan:\na. sistem refere nsi Geospasial  sebagaimana dimaksud\ndalam Pasal 11;\nb. Peta Dasar Skala Minimal 1:50.000;\nc. Unit Pemetaan yang dapat digunakan untuk Rencana\nTata Ruang Kawasan perdesaan; dan\nd. Ketelitian muatan ruang sebagaimana dimaksud\ndalam Pasal 12.\n\nBAB IV\n\nPENGELOLAAN DATA DAN INFORMASI GEOSPASIAL\nPETA RENCANA TATA RUANG"
+   }
+  },
+  {
+   "id": "ID-H2232-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\n\n(1) Pengelolaan data Peta rencana tata ruang disusun dalam\nsistem pengelolaan basis Data Geospasial.\n\n(2) Pengelolaan sebagaimana dimaksud pada ayat (1)\ndilakukan sejak  pengumpulan data sampai dengan\ntersusunnya Peta rencana tata ruang.\n(3) Ketentuan . . .\n\n\n\n\n(3) Ketentuan lebih lanjut mengenai tata cara pengelolaan\ndata Peta rencana tata ruang diatur dengan Peraturan\nKepala Badan."
+   }
+  },
+  {
+   "id": "ID-H2232-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\n\nMenteri yang menyelenggarakan urusan pemerintahan di\nbidang penataan ruang, gubernur, dan bupati/walikota wajib\nmenyerahkan duplikat Peta rencana tata ruang sebagaimana\ndimaksud dalam Pasal 4 kepada Kepala Badan.\n\nBAB V\n\nPEMBINAAN TEKNIS"
+   }
+  },
+  {
+   "id": "ID-H2232-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 32\n\n(1) Badan melakukan pembinaan teknis perpetaan dalam\npenyusunan rencana tata ruang yang dilakuka n oleh\ninstansi Pemerintah dan pemerintah daerah.\n\n(2) Pembinaan sebagaimana dimaksud pada ayat (1)\ndilaksanakan dalam bentuk:\na. penerbitan pedoman, standar, dan spesifikasi teknis\nserta sosialisasinya;\nb. pemberian bimbingan, supervisi, dan konsultasi;\nc. pemberian pendidikan dan pelatihan;\nd. perencanaan, penelitian, dan pengembangan; dan\ne. pemantauan dan evaluasi.\n\nBAB VI\n\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H2232-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 33\n\nPada saat Peraturan Pemerintah ini  mulai berlaku, Peraturan\nPemerintah Nomor 10 tahun 2000 tentang Tingkat Ketelitian\nPeta Untuk Rencana Tata Ruang Wilayah (Lembaran Negara\nRepublik Indonesia Tahun 2000 Nomor 20, Tambahan\nLembaran Negara Republik Indonesia Nomor 3934) di cabut\ndan dinyatakan tidak berlaku."
+   }
+  },
+  {
+   "id": "ID-H2232-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 34\n\nPeraturan Pemerintah ini mulai berlaku pada tanggal\ndiundangkan.\n\nAgar . . .\n\n\n\n\nAgar setiap orang mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan\npenempatannya dalam Lembaran Negara Republik Indonesia.\n\n Ditetapkan di Jakarta\n pada tanggal 2 Januari 2013\n\n PRESIDEN REPUBLIK INDONESIA,\n\n\n                                                                      ttd\n\n\n DR. H. SUSILO BAMBANG YUDHOYONO\n\nDiundangkan di Jakarta\npada tanggal 2 Januari 2013\n\nMENTERI HUKUM DAN HAK ASASI MANUSIA\n        REPUBLIK INDONESIA,\n\n\n                              ttd\n\n\n            AMIR SYAMSUDIN\n\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2013 NOMOR 8\n\n\n              Salinan sesuai dengan aslinya\n      KEMENTERIAN SEKRETARIAT NEGARA\n                   REPUBLIK INDONESIA\n        Asisten Deputi Perundang-undangan\n                    Bidang Perekonomian,\n\n\n\n\n\n                    Lydia Silvanna Djaman\n\n\n\n\n\nPENJELASAN\n\nATAS\n\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\n\nNOMOR 8 TAHUN 2013\n\nTENTANG\n\nKETELITIAN PETA RENCANA TATA RUANG\n\nI.    UMUM\n\nUndang-Undang Nomor 26 Tah un 2007 tentang Penataan Ruang\nmenegaskan bahwa tingkat ketelitian Peta rencana tata ruang diatur\ndengan peraturan pemerintah.\n\nRencana tata ruang dilaksanakan melalui proses perencanaan tata ruang\nyang menghasilkan antara lain Peta rencana tata ruang, pem anfaatan\nruang berdasarkan hasil perencanaan tata ruang yang telah ditetapkan,\ndan pengendalian pemanfaatan ruang agar pemanfaatan ruang sesuai\ndengan Peta rencana tata ruang. Dengan kata lain, kualitas pemanfaatan\nruang ditentukan antara lain oleh tingkat  ketelitian rencana tata ruang\nyang bentuknya digambarkan dalam Peta rencana tata ruang yang\ndisusun berdasarkan suatu sistem perpetaan yang d isajikan berdasarkan\npada unsur  serta simbol dan /atau notasi yang dibakukan secara\nnasional.\n\nProses penyusunan Peta rencana tata ruang diawali dengan ketersediaan\nPeta Dasar, oleh karena itu setiap jenis Peta harus memiliki Ketelitian\nPeta yang pasti sesuai karakteristiknya. Peta Dasar dengan segala\nkarakteristik ketelitiannya, menjadi dasar bagi pembuatan Peta rencana\ntata ruang wilayah. Selanjutnya Peta rencana tata ruang itu digunakan\nsebagai media penggambaran Peta Tematik. Peta Tematik menjadi bahan\nanalisis dan proses síntesis penuangan rencana tata ruang wilayah dalam\nbentuk Peta bagi penyusunan rencana tata ruang.\n\nOleh karena ruang wilayah Negara Kesatuan Republik Indonesia yang\nmeliputi ruang daratan, ruang lautan, dan ruang udara yang terbagi\ndalam wilayah daerah propinsi, wilayah daerah kabupaten/kota, maka\nmasing-masing rencana tata ruang wilayah tersebut  secara berurutan\ndigambarkan dalam Peta Wilayah Negara Indonesia, Peta Wilayah provinsi,\nPeta Wilayah kabupaten, dan Peta Wilayah kota. Peta Wilayah tersebut\nditurunkan dari Peta Dasar sedemikian r upa sehingga hanya memuat\nunsur rupa bumi yang diperlukan dari Peta Dasar, dengan maksud agar\nPeta Wilayah tersebut tetap memiliki karakteristik ketelitian\ngeoreferensinya. Penggambaran rencana tata ruang wilayah pada Peta\nWilayah . . .\n\n\n\n\nWilayah tersebut berwujud Peta rencana tata ruang wilayah. Sesuai\ndengan ruang lingkup peng aturannya, Peraturan Pemerintah ini hanya\nmengatur tentang ketelitian Peta rencana tata ruang dan turunannya.\n\nPeta rencana tata ruang wilayah nasional ditetapkan dengan Peraturan\nPemerintah, sedangkan rencana tata ruang wilayah daerah propinsi,\nrencana tata ruang wilayah daerah kabupaten, serta rencana tata ruang\nwilayah daerah kota ditetapkan dengan peraturan daerah masing -masing.\nOleh karena rencana tata ruang wilayah tersebut berkekuatan hukum,\nmaka Peta rencana tata ruang wilayah sebagai bagian yang ti dak\nterpisahkan dengan rencana tata ruang wilayah harus mengandung\ntingkat ketelitian yang sesuai dengan Skala penggambarannya.\n\nAlokasi pemanfaatan ruang untuk kawasan lindung, kawasan budi daya,\nkawasan perkotaan, kawasan perdesaan , dan kawasan tertentu dalam\nrencana tata ruang wilayah nasional, rencana tata ruang wilayah propinsi,\nrencana tata ruang wilayah kabupaten, dan rencana tata ruang wilayah\nkota, serta rencana tata ruang kawasan, digambarkan dengan unsur alam\nseperti garis pantai, sungai, danau, dan unsur buatan seperti jalan,\npelabuhan, bandar udara, permukiman, serta unsur kawasan lindung dan\nkawasan budi daya dengan batas wilayah administrasi dan nama kota,\nnama sungai, da n nama laut. Penggambaran unsur  tersebut disesuaikan\ndengan keadaan di mu ka bumi dan pemanfaatan ruang yang\ndirencanakan.\n\nOleh karena dalam perencanaan tata ruang diperlukan data dan informasi\ntentang tema  tertentu yang berkaitan dengan sumber daya alam dan\nsumber daya buatan, maka Peraturan Pemerintah ini erat kaitannya\ndengan peraturan perundang -undangan lain yang memuat ketentuan\nyang mengandung segi-segi penataan ruang.\n\nII.    PASAL DEMI PASAL\n\nPasal 1\nCukup jelas.\n\nPasal 2\nAyat (1)\nCukup jelas.\n\nAyat (2)\nCukup jelas.\n\nAyat (3)\nHuruf a\nCukup jelas.\n Huruf b . . .\n\n\n\n\nHuruf b\nYang dimaksud dengan “kawasan strategis” adalah kawasan\nstrategis dari sudut kepentingan pertahanan keamanan,\npertumbuhan ekonomi, sosial dan budaya, sumber daya\nalam dan teknologi tinggi, serta daya dukung lingkungan\nhidup.\n\nHuruf c\nCukup jelas.\n\nHuruf d\nCukup jelas.\n\nHuruf e\nCukup jelas.\n\nHuruf f\nCukup jelas.\n\n Ayat (4)\nCukup jelas.\n\nPasal 3\nCukup jelas.\n\nPasal 4\nAyat (1)\nCukup jelas.\n\nAyat (2)\nPeta penetapan kawasan strategis dimaksudkan u ntuk\nmendelineasi kawasan yang ditetapkan sebagai kawasan\nstrategis sesuai nilai strategis yang menjadi dasar penetapannya.\n\nPasal 5\nCukup jelas.\n\nPasal 6\nAyat (1)\nYang dimaksud dengan “ Peta Tematik tertentu” adalah Peta\nTematik yang dibutuhkan dalam menyelenggarakan Peta\nrencana tata ruang di suatu daerah atau kawasan.\n\nYang dimaksud dengan “metode proses spasial yang ditentukan”\nadalah cara mengolah Data Geospasial menjadi Peta rencana\ntata ruang yang meliputi penyamaan sistem referensi geometris,\ngeneralisasi, kodefikasi digital, dan indeks lembar Peta luaran.\nAyat (2) . . .\n\n\n\n\nAyat (2)\nCukup jelas.\n\nPasal 7\nCukup jelas.\n\nPasal 8\nAyat (1)\nCukup jelas.\n\nAyat (2)\nHuruf a\nCukup jelas.\n\nHuruf b\nCukup jelas.\n\nHuruf c\nCukup jelas.\n\nHuruf d\nCukup jelas.\n\nHuruf e\nCukup jelas.\n\nHuruf f\nYang dimaksud dengan “sistem jaringan prasarana wilayah\nlainnya” d apat meliputi jaringan prasarana lingkungan,\nmencakup prasarana pengelolaan lingkungan yang terdiri\natas sistem jaringan persampahan, sumber air minum,\njalur evakuasi bencana, dan sistem jaringan prasarana\nkebutuhan lainnya yang disesuaikan dengan kebutuha n\npengembangan wilayah lainnya.\n\nAyat (3)\nCukup jelas.\n\nAyat (4)\nYang dimaksud dengan “digambarkan pada Peta tersendiri”\nadalah penggambaran unsur pada sebuah Peta yang terpisah\ndari unsur lain.\n\nAyat (5)\nCukup jelas.\nPasal 9 . . .\n\n\n\n\nPasal 9\nAyat (1)\nCukup jelas.\n\nAyat (2)\nCukup jelas.\n\nAyat (3)\nCukup jelas.\n\nAyat (4)\nYang dimaksud dengan “tidak dapat digambarkan dalam bentuk\ndelineasi” adalah penggambaran objek yang memiliki luasan\nterlalu kecil untuk dapat digambarkan di dalam Peta skala\ntertentu.\n\nAyat (5)\nCukup jelas.\n\nPasal 10\nAyat (1)\nCukup jelas.\n\nAyat (2)\nCukup jelas.\n\nAyat (3)\nHuruf a\nYang dimaksud dengan “sistem referensi Geospasial”\nadalah:\na. datum geodesi yang berupa datum vertikal tertentu yang\nberupa bidang yang menjadi acuan tinggi yang\nditetapkan untuk menggambarkan posisi tinggi;\nb. sistem referensi koordinat yang merupakan s istem\nuntuk menentukan posisi suatu objek secara unik di\nmuka bumi; dan\nc. sistem proyeksi yang merupakan sistem penggambaran\nmuka bumi yang tidak beraturan secara matematis\npada bidang datar.\n\nHuruf b\nCukup jelas.\n\nHuruf c\nCukup jelas.\nPasal 11 . . .\n\n\n\n\nPasal 11\nAyat (1)\nCukup jelas.\n\nAyat (2)\nYang dimaksud dengan ”sistem referensi Geospasial yang\nbersifat global” adalah sistem referensi Geospasial yang berlaku\nsecara internasional.\n\nPasal 12\nAyat (1)\nCukup jelas.\n\nAyat (2)\nCukup jelas.\n\nAyat (3)\nYang dimaksud dengan “perubahan penggambaran” yaitu\nmelakukan penambahan, pengurangan, dan/ atau penggantian\nkerincian kelas unsur dan simbolisasi pada Lampiran.\n\nAyat (4)\nCukup jelas.\n\nAyat (5)\nCukup jelas.\n\nPasal 13\nCukup jelas.\n\nPasal 14\nAyat (1)\nCukup jelas.\n\nAyat (2)\nCukup jelas.\n\nAyat (3)\nCukup jelas.\n\nAyat (4)\nYang dimaksud dengan “garis perbatasan” merupakan garis\nbatas yang bersifat indikatif kecuali garis batas yang\ndigambarkan telah  ditetapkan sesuai dengan ketentuan\nperaturan perundang-undangan.\nPasal 15 . . .\n\n\n\n\nPasal 15\nCukup jelas.\n\nPasal 16\nCukup jelas.\n\nPasal 17\nCukup jelas.\n\nPasal 18\nYang dimaksud dengan “terase jalan” adalah proyeksi sumbu jalan\npada bidang horizontal.\n\nPasal 19\nCukup jelas.\n\nPasal 20\nCukup jelas.\n\nPasal 21\nAyat (1)\nCukup jelas.\n\nAyat (2)\nHuruf a\nCukup jelas.\n\nHuruf b\nYang dimaksud dengan “b entang objek” adalah luasan dan\ncakupan wilayah dari suatu objek.\n\nHuruf c\nCukup jelas.\n\nHuruf d\nCukup jelas.\n\nAyat (3)\nCukup jelas.\n\nPasal 22\nCukup jelas.\n\nPasal 23\nCukup jelas.\nPasal 24 . . .\n\n\n\n\nPasal 24\nCukup jelas.\n\nPasal 25\nYang dimaksud dengan “tingkat kedetilan geometris” adalah tingkat\nketepatan untuk sebuah objek digambarkan dalam Peta. Semakin\nbesar skalanya, semakin mendekati aslinya untuk objek yang\ndigambarkan pada Peta.\n\nPasal 26\nCukup jelas.\n\nPasal 27\nCukup jelas.\n\nPasal 28\nCukup jelas.\n\nPasal 29\nCukup jelas.\n\nPasal 30\nAyat (1)\nYang dimaksud dengan “basis Data Geospasial” adalah  suatu\nsistem pengelolaan data dan Informasi Geospasial tata ruang\nsecara digital sehingga analisa keruangan dengan sistem\ninformasi geografis dapat dilakukan.\n\nAyat (2)\nCukup jelas.\n\nAyat (3)\nCukup jelas.\n\nPasal 31\nYang dimaksud dengan “duplikat Peta rencana tata ruang” adalah\ndokumen tertulis dan dokumen elektronik dari basis Data Geospasial\nPeta rencana tata ruang.\n\nPasal 32\nCukup jelas.\n\nPasal 33\nCukup jelas.\n\nPasal 34\nCukup jelas.\n\n\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 5393"
+   }
+  }
+ ]
+}

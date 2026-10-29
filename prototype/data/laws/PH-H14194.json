@@ -1,0 +1,62 @@
+{
+ "id": "PH-H14194",
+ "title": {
+  "zh": null,
+  "en": "An Act Providing for the Employment of the Philippine Chapter of the American National Red Cross as a Government Agency in Time of Public Calamities, and for Other Purposes.",
+  "orig": "An Act Providing for the Employment of the Philippine Chapter of the American National Red Cross as a Government Agency in Time of Public Calamities, and for Other Purposes."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1929-11-26",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3561",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 609,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1929/act_3561_1929.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03561_1929_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03561_1929_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14194-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Unless otherwise provided by the Legislature, whenever in time of pestilence, fire, typhoon,\nearthquake, flood or other public calamities the Governor-General may deem the cooperation and use of the\nPhilippine Chapter of the American National Red Cross to be necessary, he is authorized to accept the\nassistance tendered by the said Red Cross and to employ the same as his agents in connection with the relief\nand mitigation of the sufferings caused by such calamities in conformity with such rules and regulations as he\nmay prescribe."
+   }
+  },
+  {
+   "id": "PH-H14194-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, November 26, 1929."
+   }
+  }
+ ]
+}

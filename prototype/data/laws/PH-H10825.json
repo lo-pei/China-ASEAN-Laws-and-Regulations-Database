@@ -1,0 +1,72 @@
+{
+ "id": "PH-H10825",
+ "title": {
+  "zh": null,
+  "en": "AN ACT APPROPRIATING ONE-FOURTH OF THE INTERNAL-REVENUE COLLECTIONS MADE IN THE PROVINCES OF PAMPANGA, PANGASINAN, TARLAC, BULACAN, BATAAN, TAYABAS, ROMBLON, AND MASBATE AFTER JANUARY FIRST, NINETEEN HUNDRED AND ONE, DOWN TO AND INCLUDING THE THIRTY-FIRST DAY OF MARCH, NINETEEN HUNDRED AND ONE, TO BE PAID TO THE RESPECTIVE TREASURERS OF SAID PROVINCES IN ACCORDANCE WITH SECTION NINE OF THE GENERAL PROVINCIAL ACT.",
+  "orig": "AN ACT APPROPRIATING ONE-FOURTH OF THE INTERNAL-REVENUE COLLECTIONS MADE IN THE PROVINCES OF PAMPANGA, PANGASINAN, TARLAC, BULACAN, BATAAN, TAYABAS, ROMBLON, AND MASBATE AFTER JANUARY FIRST, NINETEEN HUNDRED AND ONE, DOWN TO AND INCLUDING THE THIRTY-FIRST DAY OF MARCH, NINETEEN HUNDRED AND ONE, TO BE PAID TO THE RESPECTIVE TREASURERS OF SAID PROVINCES IN ACCORDANCE WITH SECTION NINE OF THE GENERAL PROVINCIAL ACT."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 112",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1173,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_00112_1901_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_00112_1901_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H10825-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "There is hereby appropriated from the Insular Treasury, out of funds not otherwise appropriated,\nto be paid to the provincial treasurers of the Provinces of Pampanga, Pangasinan, Tarlac, Bulacan, Bataan,\nTayabas, Romblon, and Masbate, respectively, one-fourth of the total amount of internal-revenue collections\nmade in each of said provinces from and after the first day of January, nineteen hundred and one, down to\nand including March thirty-first, nineteen hundred and one, to comply with the requirements of section nine\nof the General Provincial Act. The amount so to be paid shall be determined by the Collector of Internal\nRevenue for the Islands, and shall be certified by him to the Military Governor and the Auditor of the\nArchipelago, and warrants shall be drawn in accordance with the law for the amounts so certified."
+   }
+  },
+  {
+   "id": "PH-H10825-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The public good requiring the speedy enactment of this bill, the passage of the same is hereby\nexpedited in accordance with section two of \"An Act prescribing the order of procedure by the Commission\nin the enactment of laws,\" passed September twenty-sixth, nineteen hundred."
+   }
+  },
+  {
+   "id": "PH-H10825-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, March 30, 1901."
+   }
+  }
+ ]
+}

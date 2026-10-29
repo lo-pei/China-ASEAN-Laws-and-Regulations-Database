@@ -2,8 +2,12 @@
  "id": "LA-H004",
  "title": {
   "zh": "商业银行法",
-  "en": null,
-  "orig": null
+  "en": "Law on Commercial Banks",
+  "orig": "Law on Commercial Banks",
+  "vi": "Luật Ngân hàng thương mại",
+  "th": "พระราชบัญญัติธนาคารพาณิชย์",
+  "id": "Undang-Undang Bank Komersial",
+  "ms": "Akta Bank Perdagangan"
  },
  "country": "LA",
  "countryName": "老挝",
@@ -34,8 +38,8 @@
  },
  "sourceFile": null,
  "fetchedAt": "2026-10-04",
- "completenessNote": "★ 本部正文为**既有批次**（2026-10-04）所存，非本轮（2026-10-06）抓取；原文语言：老挝语。本轮官方公报详情页对该法仅提供纯扫描 PDF（无文字层），无可抽取正文，故迁移既有正文以保留可用文本，并按「A 层优先 / 正文不倒退」口径保留原 id。 所存 16 条，条号范围第 1–7 条。 既有批次的切分与抬头整理度低于本轮标准，后续应以官方完整版（或 OCR 后人工校勘）重新抓取替换。",
- "textQuality": null,
+ "completenessNote": "★ 本部正文为**既有批次**（2026-10-04）所存，非本轮（2026-10-06）抓取；原文语言：老挝语。本轮官方公报详情页对该法仅提供纯扫描 PDF（无文字层），无可抽取正文，故迁移既有正文以保留可用文本，并按「A 层优先 / 正文不倒退」口径保留原 id。 所存 16 条，条号范围第 1–7 条。 既有批次的切分与抬头整理度低于本轮标准，后续应以官方完整版（或 OCR 后人工校勘）重新抓取替换；正文为老挝文原件的字节流，但源 PDF 使用非 Unicode 老挝文字体（字形映射到 ASCII 区），抽取后成为 `nTJ(n9U(mC...` 一类乱码，既非英文亦不可直接阅读；原 language=en 属错标，本次改为 lo。待取得可用的老挝文文本（Unicode 字体版或按原版 PDF 重新 OCR）后替换正文。",
+ "textQuality": "legacy-font-corrupt",
  "ocrNoisySections": null,
  "pdfs": [],
  "duplicateOf": null,

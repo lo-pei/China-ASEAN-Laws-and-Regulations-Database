@@ -1,0 +1,62 @@
+{
+ "id": "PH-H12929",
+ "title": {
+  "zh": null,
+  "en": "An Act Appropriating Funds for the Philippine Exposition.",
+  "orig": "An Act Appropriating Funds for the Philippine Exposition."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1913-02-06",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2225",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1278,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1913/act_2225_1913.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02225_1913_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02225_1913_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12929-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The sum of one hundred thousand pesos is Appropriation, hereby appropriated, out of any funds\nin the Insular Treasury not otherwise appropriated, for the expenses incident to the Philippine Exposition to be\nheld in the year nineteen hundred and fourteen in the city of Manila, including assistance to provinces and to\nmunicipalities, purchase of exhibits for the purpose of developing the existing Philippine Museum,\nillumination, construction of necessary buildings, purchase or rental of land, salaries and traveling expenses of\nsubordinate officials and employees, prizes and diplomas to provinces and individuals for the best displays, or\nfor general publicity work designed to advertise the attractions, resources, and commercial and industrial\nadvantages of the Philippine Islands, and for any and all purposes incident to and necessary for carrying out\nthe Philippine Exposition of nineteen hundred and fourteen: Provided, That not more than ten thousand pesos\nshall become available until July first, nineteen hundred and thirteen."
+   }
+  },
+  {
+   "id": "PH-H12929-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The public good requiring the speedy enactment of this bill, the same shall take effect on its\npassage in accordance with section one of Act Numbered Nineteen hundred and forty-five of the Philippine\nLegislature.\nEnacted, February 6, 1913."
+   }
+  }
+ ]
+}

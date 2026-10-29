@@ -1,0 +1,238 @@
+{
+ "id": "ID-H233",
+ "title": {
+  "zh": "劳动关系终止法",
+  "en": "Law on Termination of Employment",
+  "id": "PEMUTUSAN HUBUNGAN KERJA",
+  "orig": "PEMUTUSAN HUBUNGAN KERJA",
+  "vi": "Luật về Việc Chấm dứt Quan hệ Lao động",
+  "th": "พระราชบัญญัติว่าด้วยการเลิกจ้าง",
+  "ms": "Akta tentang Pemutusan Hubungan Kerja"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02b",
+ "language": "id",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "1964",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "-",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 14,
+ "chars": 9490,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": null
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\01_宪法与基础法\\印尼_WLD_1964_PEMUTUSAN HUBUNGAN KERJA.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 14 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H233-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {},
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 1.\n(1) Pengusaha harus mengusahakan agar jangan terjadi pemutusan\nhubungan kerja.\n(2) Pemutusan hubungan kerja dilarang:\na. selama buruh berhalangan menjalankan pekerjaannya karena\nkeadaan sakit menurut keterangan dokter selama waktu tidak\nmelampaui\n12 (dua belas) bulan terus-menerus;\nb. selama buruh berhalangan menjalankan pekerjaannya karena\nmemenuhi kewajiban terhadap Negara yang ditetapkan oleh\nUndang-undang\natau Pemerintah atau karena menjalankan ibadat yang\ndiperintahkan agamanya dan yang disetujui Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H233-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {},
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 2.\nBila setelah diadakan segala usaha pemutusan hubungan kerja\ntidak dapat dihindarkan, pengusaha harus merundingkan maksudnya\nuntuk\nmemutuskan hubungan kerja dengan organisasdi buruh yang\nbersangkutan atau dengan buruh sendiri dalam hal buruh itu tidak\nmenjadi\nanggota dari salah-satu organisasi buruh."
+   }
+  },
+  {
+   "id": "ID-H233-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {},
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 3.\n(1) Bila perundingan tersebut dalam pasal 2 nyata-nyata tidak\nmenghasilkan persesuaian paham, pengusaha hanya dapat memutuskan\nhubungan\nkerja dengan buruh, setelah memperoleh izin Panitia\nPenyelsaian Perselisihan Perburuhan Daerah (Panitia Daerah),\ntermaksud pada pasal\n5 Undang-undang No. 22 tahun 1957 tentang\nPenyelesaian Perselisihan Perburuhan (Lembaran-Negara tahun 1957\nNo. 42) bagi pemutusan\nhubungan kerja perseorangan, dan dari\nPanitia Penyelesaian Perselisihan Perburuhan Pusat (Panitia Pusat)\ntermaksud pada pasal 12\nUndang-undang tersebut di atas bagi\npemutusan hubungan kerja secara besar-besaran.\n(2) Pemutusan hubungan kerja secara besar-besaran dianggap\nterjadi jika dalam satu perusahaan dalam satu bulan, pengusaha\nmemutuskan\nhubungan kerja dengan 10 orang buruh atau lebih, atau\nmengadakan rentetan pemutusan-pemutusan hubungan kerja yang dapat\nmenggambarkan\nsuatu itikad untuk mengadakan pemutusan hubungan\nkerja secara besar-besaran."
+   }
+  },
+  {
+   "id": "ID-H233-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {},
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 4.\nIzin termaksud pada pasal 3 tidak diperlukan, bila pemutusan\nhubungan kerja dilakukan terhadap buruh dalam masa percobaan.\nLamanya masa percobaan tidak boleh melebihi tiga bulan dan adanya\nmasa percobaan harus diberitahukan lebih dahulu pada calon buruh\nyang bersangkutan."
+   }
+  },
+  {
+   "id": "ID-H233-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {},
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 5.\n(1) Permohonan izin pemutusan hubungan kerja beserta alasan\nalasan yang menjadi dasarnya harus diajukan secara tertulis kepada\nPanitia\nDerah, yang wilayah kekuasaannya meliputi tempat kedudukan\npengusaha bagi pemutusan hubungan kerja perseorangan dan kepada\nPanitia\nPusat bagi pemutusan hubungan kerja secara\nbesar-besaran.\n(2) Permohonan izin hanya diterima oleh Panitia Daerah/ Panitia\nPusat bila ternyata bahwa maksud untuk memutuskan hubungan kerja\ntelah dirundingkan seperti termaksud dalam pasal 2, tetapi\nperundingan ini tidak menghasilkan persesuaian paham."
+   }
+  },
+  {
+   "id": "ID-H233-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {},
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 6.\nPanitia Darah dan Panitia Pusat menyelesaikan permohonan izin\npemutusan hubungan kerja dalam waktu sesingkat-singkatnya, menurut\ntata-cara\nyang berlaku untuk penyelesaian perselisihan\nperburuhan."
+   }
+  },
+  {
+   "id": "ID-H233-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {},
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 7.\n(1) Dalam mengambil keputusan terhadap permohonan izin pemutusan\nhubungan kerja, Panitia Daerah dan Panitia Pusat disamping\nketentuan-ketentuan\ntentang hal ini yang dimuat dalam Undang-undang\nNo. 22 tahun 1957 tentang Penyelesaian Perselisihan Perburuhan\n(Lembaran-Negara tahun\n1957 No. 42), memperhatikan keadaan dan\nperkembangan lapangan kerja serta kepentingan buruh dan\nperusahaan.\n(2) Dalam hal Panitia Daerah atau Panitia Pusat memberikan izin\nmaka dapat ditetapkan pula kewajiban pengusaha untuk memberikan\nkepada buruh yang bersangkutan uang pesangon, uang jasa dan ganti\nkerugian lain-lainnya.\n(3) Penetapan besarnya uang pesangon, uang jasa dan ganti kerugian\nlainnya diatur di dalam Peraturan Menteri Perburuhan.\n(4) Dalam Peraturan Menteri Perburuhan itu diatur pula pengertian\ntentang upah untuk keperluan pemberian uang pesangon, uangjasa\ndan\nganti kerugian tersebut di atas."
+   }
+  },
+  {
+   "id": "ID-H233-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {},
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 8.\nTerhadap penolakan pemberian izin oleh Panitia Daerah, atau\npemberian izin dengan syarat, tersebut pada pasal 7 ayat (2), dalam\nwaktu\nempat belas hari setelah putusan diterima oleh pihak-pihak\nyang bersangkutan, baik buruh dan/atau pengusaha maupun organisasi\nburuh/atau\norganisasi pengusaha yang bersangkutan dapat minta\nbanding kepada Panitia Pusat."
+   }
+  },
+  {
+   "id": "ID-H233-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {},
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 9.\nPanitia Pusat menyelesaikan permohonan banding menurut tata-cara\nyang berlaku untuk penyelesaian perselisihan perburuhan dalam\ntingkat\nbandingan."
+   }
+  },
+  {
+   "id": "ID-H233-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {},
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 10.\nPemutusan hubungan kerja tanpa izin seperti tersebut pada pasal\n3 adalah batal karena hukum."
+   }
+  },
+  {
+   "id": "ID-H233-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {},
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 11.\nSelama izin termaksud pada pasal 3 belum diberikan, dan dalam\nhal ada permintaan banding tersebut pada pasal 8, Panitia Pusat\nbelum\nmemberikan keputusan, baik pengusaha maupun buruh harus tetap\nmemenuhi segala kewajibannya."
+   }
+  },
+  {
+   "id": "ID-H233-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {},
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 12.\nUndang-undang ini berlaku bagi pemutusan hubungan kerja yang\nterjadi diperusahaan-perusahaan Swasta, terhadap seluruh buruh\ndengan\ntidak menghiraukan status kerja mereka, asal mempunyai masa\nkerja lebih dari 3 (tiga) bulan berturut-turut."
+   }
+  },
+  {
+   "id": "ID-H233-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {},
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 13.\nKetentuan-ketentuan pelaksanaan yang belum diatur di dalam\nUndang-undang ini ditetapkan oleh Menteri Perburuhan."
+   }
+  },
+  {
+   "id": "ID-H233-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {},
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 14.\nUndang-undang ini mulai berlaku pada hari diundangkannya.\nAgar supaya setiap orang dapat mengetahuinya memerintahkan\npengundangan Undang-undang ini dengan penempatannya dalam\nLembaran-Negara\nRepublik Indonesia.\nDisahkan di Jakarta\npada tanggal 23 September 1964.\nPD. PRESIDEN REPUBLIK INDONESIA,\nDr. SUBANDRIO.\nDiundangkan di Jakarta\npada tanggal 23 September 1964.\nSEKRETARIS NEGARA,\nMOHD. ICHSAN.\nPENJELASAN\nATAS\nUNDANG-UNDANG No. 12 TAHUN 1964 tentang\nPEMUTUSAN HUBUNGAN KERJA DI PERUSAHAAN SWASTA.\nUMUM.\nBagi kaum buruh putusnya hubungan kerja berarti permulaan masa\npengangguran dengan segala akibatnya, sehingga untuk menjamin\nkepastian\ndan ketenteraman hidup kaum buruh seharusnya tidak ada\npemutusan hubungan kerja.\nTetapi pengalaman sehari-hari membuktikan bahwa pemutusan hubungan\nkerja tidak dapat dicegah seluruhnya.\nBerbagai jalan dapat ditempuh untuk memecahkan persoalannya.\nSetelah ditinjau masak-masak berdasarkan pengalaman-pengalaman yang\nlampau, maka pada hemat Pemerintah, sistim yang dianut dalam\nUndang-undang ini adalah yang paling tepat bagi negara kita dalam\ntaraf\npertumbuhan sekarang.\nPokok-pokok pikiran yang diwujudkan dalam Undang-undang ini dalam\ngaris besarnya adalah sebagai berikut:\n1. Pokok pangkal yang harus dipegang teguh dalam menghadapi\nmasalah pemutusan hubungan kerja ialah bahwa sedapat mungkin\npemutusan\nhubungan kerja harus dicegah dengan segala daya upaya,\nbahkan dalam beberapa hal dilarang.\n2. Karena pemecahan yang dihasilkan oleh perundingan antara\npihak-pihak yang berselisih sering kali lebih dapat diterima oleh\nyang\nbersangkutan dari pada penyelesaian dipaksakan oleh\nPemerintah, maka dalam sistim Undang-undang ini, penempuhan jalan\nperundingan\nini merupakan kewajiban, setelah daya upaya tersebut\npada 1 tidak memberikan hasil.\n3. Bila jalan perundingan tidak berhasil mendekatkan kedua pihak,\nbarulah Pemerintah tampil kemuka dan campur-tangan dalam pemutusan\nhubungan kerja yang hendak dilakukan oleh Pengusaha. Bentuk\ncampur-tangan ini adalah pengawasan prepentip, yaitu untuk\ntiap-tiap\npemutusan hubungan Kerja oleh pengusaha diperlukan izin\ndari Instansi Pemerintah.\n4. Berdasarkan pengalaman dalam menghadapi masalah pemutusan\nhubungan kerja, maka sudah setepatnyalah bila pengawasan prepentip\nini diserahkan kepada Panitya Penyelesaian Perselisihan Perburuhan\nDaerah dan Panitya Penyelesaian Perburuhan Pusat.\n5. Dalam Undang-undang ini diadakan ketentuan-ketentuan yang\nbersifat formil tentang cara memohon izin, meminta banding terhadap\npenolakan permohonan izin dan seterusnya.\n6. Disamping itu perlu dijelaskan bahwa bilamana terjadi pemutusan\nhubungan kerja secara besar-besaran sebagai akibat dari tindakan\nPemerintah, maka Pemerintah akan berusaha untuk meringankan beban\nkaum buruh itu dan akan diusahakan penyaluran mereka pada\nperusahaan/proyek\nyang lain.\n7. Demikian juga pemutusan hubungan kerja karena akibat\nmodernisasi, otomatisasi, effisiency dan rationalisasi yang\ndisetujui oleh\nPemerintah mendapat perhatian Pemerintah sepenuhnya\ndengan jalan mengusahakan secara aktif penyaluran buruh-buruh itu\nkeperusahaan/proyek\nlain.\nPASAL DEMI PASAL.\nPasal 1.\nCukup jelas.\nPasal 2.\nCukup jelas.\nPasal 3.\nSekiranya disini dikemukakan, bahwa jumlah sepuluh termaksud pada\npasal 3 ayat (2) hanya merupakan ancar-ancar; ukuran yang penting\nyalah maksud/hasrat pengusaha untuk memutuskan hubungan kerja\nsecara besar-besaran.\nPasal 4.\nDalam masa percobaan menurut hukum yang berlaku kedua pihak\nberwenang untuk memutuskan hubungan kerja seketika. Asas tersebut\ntelah\ndipertahankan dalam Undang-undang ini.\nPasal 5 s/d 9.\nMengatur tata cara permohonan izin dan lain-lain hal yang bersifat\nformil, sehingga tidak perlu dijelaskan lebih lanjut.\nPasal 10.\nCukup jelas.\nPasal 11.\nCukup jelas.\nPasal 12.\nBerdasarkan pasal 12 ini semua buruh (termasuk buruh contractor)\ndengan tidak menghiraukan apakah mereka buruh harian, bulanan)\natau\nborongan (op stuikloon) dilindungi oleh Undang-undang ini.\nYang dimaksudkan dengan perusahaan, yalah perusahaan yang tidak\nberstatus perusahaan negara atau perusahaan daerah dan yang\nmerupakan\norganisasi dari alat-alat produksi untuk menghasilkan\nbarang-barang atau jasa guna memuaskan kebutuhan masyarakat.\nAdapun mengenai pemutusan hubungan kerja diperusahaan- perusahaan\nnegara dan daerah, Pemerintah bermaksud mengadakan peraturan\ntersendiri.\nPasal 13 dan 14.\nCukup jelas.\n--------------------------------\nCATATAN\nKutipan: LEMBARAN NEGARA DAN TAMBAHAN LEMBARAN NEGARA TAHUN 1964\nYANG TELAH DICETAK ULANG"
+   }
+  }
+ ]
+}

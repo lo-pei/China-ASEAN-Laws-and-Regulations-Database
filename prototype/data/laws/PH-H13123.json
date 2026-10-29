@@ -1,0 +1,82 @@
+{
+ "id": "PH-H13123",
+ "title": {
+  "zh": null,
+  "en": "An Act Providing for the Adjustment of the Public Works Bonds Sinking",
+  "orig": "An Act Providing for the Adjustment of the Public Works Bonds Sinking"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1914-12-05",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2425",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 1350,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1914/act_2425_1914.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02425_1914_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02425_1914_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13123-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The public works bonds sinking fund created by Act Numbered Seventeen hundred and\ntwenty-nine shall be adjusted annually in such manner that the amount thereof on each anniversary of the\nissue of the bonds authorized by Acts Numbered One thousand three hundred and one, One thousand four\nhundred and forty-four, and One thousand nine hundred and fifty-four shall equal the amount of an annuity of\nnineteen thousand three hundred and seventy-one pesos and thirty-three centavos for each million pesos of\nbonds outstanding, with interest at the rate of three and one-half per centum per annum, counting from the\ndate of issue of said bonds."
+   }
+  },
+  {
+   "id": "PH-H13123-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "There is hereby created a continuing annual appropriation of such amount as may be necessary\nto effect the adjustment contemplated by section one hereof, said appropriation to continue in force until such\ntime as the public works bonds sinking fund shall equal the par value of the outstanding bonds issued under\nthe provisions of Acts Numbered One thousand three hundred and one, One thousand four hundred and\nforty-four, and One thousand nine hundred and fifty-four."
+   }
+  },
+  {
+   "id": "PH-H13123-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "The first sentence of section one of Act Numbered One thousand seven hundred and twenty-nine\nand all other Acts or parts of Acts in conflict with this Act are hereby repealed."
+   }
+  },
+  {
+   "id": "PH-H13123-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, December 5, 1914."
+   }
+  }
+ ]
+}

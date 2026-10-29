@@ -1,0 +1,272 @@
+{
+ "id": "PH-H13441",
+ "title": {
+  "zh": null,
+  "en": "An Act to Establish the Manner of Securing Patents for Inventions or Discoveries, and for Other Porposes.",
+  "orig": "An Act to Establish the Manner of Securing Patents for Inventions or Discoveries, and for Other Porposes."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1919-02-20",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2793",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 23,
+ "chars": 11674,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1919/act_2793_1919.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02793_1919_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 23 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02793_1919_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13441-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "This Act shall be known as the Patent Law.\nPATENTS FOR INVENTIONS."
+   }
+  },
+  {
+   "id": "PH-H13441-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Any person making a new discovery or invention in any branch of human activity not intended\nfor unlawful purposes, shall be entitled to the exclusive privilege of making, using or vending, and of\nauthorizing others to make, use or vend the same, subject to the provisions of this Act."
+   }
+  },
+  {
+   "id": "PH-H13441-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "A discovery or invention shall not be deemed new:\n(a) If it was known or used in another country before said discovery or invention;\n(b) If it was published or described in printed publications in this or in any foreign country prior to such\ndiscovery or invention."
+   }
+  },
+  {
+   "id": "PH-H13441-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "Patents for inventions or discoveries made or manufactured in the Philippine Islands shall not\npay any tax. The patentee in such cases shall pay only the sum of twenty pesos upon receiving the patent, in\naddition to the fees established in section thirty-three for the registration and the expenses of publishing the\napplication.\nPatents for inventions or discoveries manufactured or made entirely or largely in foreign countries shall pay a\ntax of twenty pesos per annum during the life of the patent and on the date of their issue.\nThe provisions of this section shall not be applicable to public officers and employees desiring to register a\npatent for an invention for the use of the Government, in which case the inventor shall state in his application\nthat the Government of the Philippine Islands or any of its officers or employees may use said patent in the\nexecution of work of the Government without any payment to the inventor, which condition shall be set forth\non the letters patent."
+   }
+  },
+  {
+   "id": "PH-H13441-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "text": {
+    "en": "Any discovery or invention patented in any country outside of the Philippine Islands may also be\npatented under the provisions of this Act if the inventor or discoverer has a legal representative in the\nPhilippine Islands: Provided, hoivever, That as to patents registered in the United States Patent Office, the\nprovisions of Act Numbered Twenty-two hundred and thirty-five, entitled \"An Act providing for the\nregistration of patents and patent rights in the Philippine Islands, and for the protection of the same,\" shall\ngovern until January first, nineteen hundred and twenty."
+   }
+  },
+  {
+   "id": "PH-H13441-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "text": {
+    "en": "In case two or more persons apply separately for patents covering the same invention or\ndiscovery, action on applications of a posterior date shall be suspended until the application first filed has\nbeen disposed of Priority as between applications shall be determined by the date and hour on which the same\nwere filed in the Patent Office."
+   }
+  },
+  {
+   "id": "PH-H13441-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7"
+   },
+   "text": {
+    "en": "All patents shall be issued in the name of the Government of the Philippine Islands, under the\nseal of the Bureau of Commerce and Industry, and be signed by the Director of said Bureau or by a person\nlegally authorized by him, and shall contain a concise and clear description of the invention or discovery and\nthe grant to the inventor, and the term established in this Act for the exclusive right to make, use, vend,\n\nencumber, and turn to profit his invention or discovery in the Philippine Islands.\nAny patent for an invention may, upon indemnification of the inventor, be declared the property of the\nGovernment of the Philippine Islands, when so ordered by Act of the Legislature.\nPATENT OFFICE."
+   }
+  },
+  {
+   "id": "PH-H13441-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8"
+   },
+   "text": {
+    "en": "The Bureau of Commerce and Industry, subject to the control, direction, and supervision of the\nSecretary of Commerce and Communications, is hereby vested with the necessary powers and authority for\ncarrying out the provisions and purposes of this Act, and shall, in general, have the following duties and\n(a) Receive applications for patents;\n(b) Examine them and determine whether or not it is proper to issue the patent requested;\n(c) Keep a record of all letters patent issued, with a description of the discovery or invention to which they\n(d) Keep open for public inspection, during office hours, a list of all inventions or discoveries patented."
+   }
+  },
+  {
+   "id": "PH-H13441-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9"
+   },
+   "text": {
+    "en": "The Director of the Bureau of Commerce and Industry may consult any public officer and any\ntechnical man or scientist in Government employ with respect to applications for patents pending his decision.\nIt shall be the duty of all public officers to furnish information, answer inquiries, and render any service in\nrelation to the powers and functions conferred by this Act upon said Bureau.\nCHAPTER III.\nPROCEDURE FOR SECURING A PATENT."
+   }
+  },
+  {
+   "id": "PH-H13441-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10"
+   },
+   "text": {
+    "en": "Any person claiming to have made a new discovery or invention may make an application,\nwhich must be in accordance with the requirements established by regulations issued in the premises by the\nSecretary of Commerce and Communications. The application shall be accompanied by a model or copy of\nthe discovery or invention. In case the application is in accordance with the requisites and conditions\nestablished by this Act and the regulation herein before mentioned, it shall be published in two consecutive\nissues of the Official Gazette and, also, in two of the newspapers most widely read in the Islands, one\npublished in Spanish and the other in English, for a period of six consecutive days. Together with the\napplication there shall be published a notice to all persons having any objection to the application filed,\ninviting them to file at the Patent Office, within the inextensible period of thirty days from and after the date\nof the last publication, a written objection specifying clearly and in detail the reasons on which their\nopposition is based. Upon the expiration of the time set for the filing of objections, if none has been filed, an\ninvestigation shall be made as to whether or not the discovery or invention mentioned in the application has\nthe requisite mentioned in section two, but if any objection is filed, the applicant shall be directed to reply to\nthe same within ten days' time, and the Director of the Bureau of Commerce and Industry shall render his\ndecision as soon as possible after the filing of such reply.\nUpon a patent being granted, the same shall be published in two consecutive issues of the Official Gazette.\nADDITION TO OR PERFECTION OF INVENTIONS."
+   }
+  },
+  {
+   "id": "PH-H13441-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11"
+   },
+   "text": {
+    "en": "Any person may apply for a license for any addition to or perfection of an invention already\npatented for a period not greater than that granted for the patent of the original invention, and upon payment\nof fifty per cent of the fees established in sections four and twenty-one. If the license comes under the\nprovisions of the second paragraph of section four, the tax established therein shall also be paid.\nHowever, he shall not be entitled to the exclusive privilege of the addition to or perfection of the invention\nwithout first having paid a premium to the inventor of the original, the amount whereof shall be determined by\n\nthe Court of First Instance of the domicile of the latter or of his legal representative, upon motion of the\ninventor of the addition or perfection. The provisions of this section shall not be construed to prohibit the\noriginal inventor from exploiting the addition or perfection in competition with the inventor of the addition or\nperfection.\nTRANSMISSION OF PATENTS."
+   }
+  },
+  {
+   "id": "PH-H13441-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12"
+   },
+   "text": {
+    "en": "Any person in whose favor a patent has been issued for any invention or discovery, may\ntransfer said patent by assignment, sale, exchange, or in any other manner in which title may be conveyed. No\nassignment, sale, exchange, or conveyance of patents shall be valid with regard to a third party unless such\nassignment, sale, exchange or conveyance has been recorded in the proper register of the Bureau of\nCommerce and Industry."
+   }
+  },
+  {
+   "id": "PH-H13441-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13"
+   },
+   "text": {
+    "en": "In case the owner of a patent dies intestate, his rights shall be transmitted to his legitimate heirs.\nIn the absence of these, they shall pass to the Government of the Philippine Islands which may, in its option,\neither put the invention to profit itself or sell the same to private individuals or corporations."
+   }
+  },
+  {
+   "id": "PH-H13441-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14"
+   },
+   "text": {
+    "en": "A patent shall be null and void in any of the following cases:\n(a) When it is not for a new discovery or invention;\n(b) When a patent has been issued previously for the same invention or discovery;\n(c)When the person in whose favor a patent has been issued has obtained possession fraudulently of the\ninvention or discovery of another."
+   }
+  },
+  {
+   "id": "PH-H13441-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15"
+   },
+   "text": {
+    "en": "A patent shall lapse:\n(a) Upon the termination of the period of seventeen years from and after the date of the application;\n(b) If, five years after a patent has issued, the invention or discovery for which it was granted has not yet been\nput to profit;\n(c) If the tax for two consecutive years has not been paid in the case referred to in the second paragraph of\nsection four."
+   }
+  },
+  {
+   "id": "PH-H13441-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16"
+   },
+   "text": {
+    "en": "Any action for the annulment or cancellation of a patent shall be brought at the domicile of the\nplaintiff or of the defendant, at the option of the former, and shall be prosecuted the same as any ordinary\naction. Courts of First Instance shall have original jurisdiction t to try these cases and from their decision an\nappeal shall lie to the Supreme Court. The action for annulment shall prescribe five years from and after the\ndate of the issue of the patent."
+   }
+  },
+  {
+   "id": "PH-H13441-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17"
+   },
+   "text": {
+    "en": "In case a patent is declared null and void for the reason mentioned in subsection (c) of section\nfourteen, the judge shall direct in the final decision that the patent cancelled be transferred to the plaintiff.\nIn case the courts have declared that a patent has expired, the discovery or invention shall become public\nproperty and no one shall be prevented from putting it to profit.\nEvery patent declared null and void or expired shall be published in the Official Gazette.\nCHAPTER VII.\nFALSIFICATION OF PATENTS-PENALTIES AND DAMAGES."
+   }
+  },
+  {
+   "id": "PH-H13441-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18"
+   },
+   "text": {
+    "en": "Any person who, with fraudulent intent of -making use of the rights of the patentee, marks,\nstamps or designates any articles or thing manufactured, sold, or offered for sale by him as protected by any\npatent, shall be deemed guilty of the falsification of patents and shall, upon conviction thereof, be sentenced to\na fine of not more than two thousand pesos or imprisonment for not more than two years, or both, in the\ndiscretion of the court, and all articles so falsified shall be confiscated. Any person guilty of the falsification\nof patents shall likewise be liable for damages to the injured party.\n\nFor the purpose of this section, the facts of the defendant having been an operative or employee of the\npatentee or having obtained knowledge of the invention by unlawful means shall be considered an aggravating\ncircumstance."
+   }
+  },
+  {
+   "id": "PH-H13441-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19"
+   },
+   "text": {
+    "en": "Any person who knowingly aids and assists in the sale or offering for sale of articles so\nfalsified or who authorizes the sale, offering for sale or circulation of such articles, shall also be subject to the\npenalties established in section eighteen."
+   }
+  },
+  {
+   "id": "PH-H13441-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20"
+   },
+   "text": {
+    "en": "The criminal action for falsification of patents shall prescribe two years from and after the\ncommission of the offence.\nCHAPTER VIII.\nFEES AND CHARGES TO BE COLLECTED BY THE BUREAU OF COMMERCE AND INDUSTRY."
+   }
+  },
+  {
+   "id": "PH-H13441-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21"
+   },
+   "text": {
+    "en": "The Bureau of Commerce and Industry shall be entitled to collect, in addition to the fees or\ntaxes established in section five, the following:\nFor the registration of each application and expenses of publication, fifty pesos; for the reissue of a patent,\nthirty pesos; for recording any assignment, sale, exchange or transfer, twenty pesos; for recording any\nagreement, power of attorney or other document not a conveyance of title, if the same contains more than one\nthousand words and less than one thousand, five pesos; for each one thousand additional words or fraction\nthereof, two pesos; for certified copies of patents and other documents, fifty centavos per page certified or any\nfraction thereof, plus fifty centavos for the certificate.\nFINAL PROVISIONS."
+   }
+  },
+  {
+   "id": "PH-H13441-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22"
+   },
+   "text": {
+    "en": "Any rights acquired prior to the entering into effect of this Act are hereby reserved."
+   }
+  },
+  {
+   "id": "PH-H13441-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, February 20, 1919."
+   }
+  }
+ ]
+}

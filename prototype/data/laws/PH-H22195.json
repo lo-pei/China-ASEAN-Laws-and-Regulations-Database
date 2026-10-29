@@ -1,0 +1,72 @@
+{
+ "id": "PH-H22195",
+ "title": {
+  "zh": null,
+  "en": "Amending Section 5 of the Local Tax Code",
+  "orig": "Amending Section 5 of the Local Tax Code"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1975-09-04",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 796",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 925,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_00796_1975_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_00796_1975_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22195-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section 5 of Presidential Decree No. 231 otherwise known as the Local Tax Code, is hereby\namended to read as follows:\n\"Sec. 5. Common limitations on the taxing powers of local governments. The exercise of the taxing powers of\nprovinces, cities, municipalities and barrios shall not extend to the imposition of the following:\n1. Taxes on the business of persons engaged in the printing and publication of any newspaper, magazine,\nreview or bulletin appearing at regular intervals and having fixed prices for subscription and sale, and which is\nnot published primarily for the purpose of publishing advertisements.\""
+   }
+  },
+  {
+   "id": "PH-H22195-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "All provisions of laws, decrees, executive orders, rules or regulations inconsistent with this\nDecree are hereby amended, modified or repealed accordingly."
+   }
+  },
+  {
+   "id": "PH-H22195-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Decree shall take effect immediately.\nDone in the City of Manila, this 4th day of September, in the year of Our Lord, nineteen hundred and\nseventy-five."
+   }
+  }
+ ]
+}

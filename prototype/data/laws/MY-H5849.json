@@ -1,0 +1,78 @@
+{
+ "id": "MY-H5849",
+ "title": {
+  "zh": "1989年选举委员会（附表修正）条例",
+  "en": "ELECTION COMMISSION (AMENDMENT OF SCHEDULE) REGULATIONS 1989",
+  "orig": "ELECTION COMMISSION (AMENDMENT OF SCHEDULE) REGULATIONS 1989",
+  "ms": "Peraturan Suruhanjaya Pilihan Raya (Pindaan Jadual) 1989",
+  "vi": "Quy định về Ủy ban Bầu cử (Sửa đổi phụ lục) năm 1989",
+  "th": "ข้อบังคับคณะกรรมการการเลือกตั้ง (การแก้ไขภาคผนวก) ค.ศ. 1989",
+  "id": "Peraturan Komisi Pemilihan (Perubahan Lampiran) Tahun 1989"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-12",
+ "language": "ms",
+ "level": "regulation",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "1989",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "PUA427",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 3,
+ "chars": 581,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-view.php?type=pua&no=P.U. (A) 427/1989&status=PINDAAN"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\01_宪法与基础法\\1989_P.U.(A)427-1989_ELECTION COMMISSION (AMENDMENT OF SCHEDULE) REGULATIONS 1989.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 3 条；逐字未改写（源自厂商 OCR 文本）。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H5849-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "1. Peraturan-peraturan ini bolehlah dinamakan Peraturan- Namo dan mula\nperaturan Suruhanjaya Perkhidmatan (Pindaan Jadual) 1989 dan >«tkvstkuasa.\nhendaklah disifatkan telah mula berkuatkuasa pada 1hb Oktober"
+   }
+  },
+  {
+   "id": "MY-H5849-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "2. Jadual kepada Ordinan Suruhanjaya Perkhidmatan 1957 pindaan\nadalah dipinda dengan menggantikan butir-butir yang terdapat di /**\nbawah kepala \"SALARIES AND FIXED ALLOWANCES\"\ndengan yang berikut:\n\n\"(A) PUBLIC SERVICES COMMISSION\n\n1. Chairman:\n\nPer month\n\nSalary me meso  $4,770\n2. Deputy Chairman:\n\nSalary ee eee Tee  $4,020"
+   }
+  },
+  {
+   "id": "MY-H5849-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "3. Members:\nFixed allowance.. .. .. .. ..  $3,420"
+   }
+  }
+ ]
+}

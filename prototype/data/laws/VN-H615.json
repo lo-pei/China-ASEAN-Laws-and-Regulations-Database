@@ -1,0 +1,570 @@
+{
+ "id": "VN-H615",
+ "title": {
+  "zh": "基层治安秩序维护力量法",
+  "en": "Law No. 30/2023/QH15 on forces participating in protecting security and order at the grassroots level",
+  "vi": "Luật Lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở số 30/2023/QH15",
+  "orig": "Luật Lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở số 30/2023/QH15",
+  "th": "พระราชบัญญัติกองกำลังรักษาความมั่นคงและความสงบเรียบร้อยระดับฐานราก เลขที่ 30/2023/QH15",
+  "id": "Undang-Undang Kekuatan Pelindung Keamanan dan Ketertiban di Tingkat Dasar No. 30/2023/QH15",
+  "ms": "Akta Pasukan Pelindung Keselamatan dan Ketenteraman di Peringkat Akar Umbi No. 30/2023/QH15"
+ },
+ "country": "VN",
+ "countryName": "越南",
+ "layer": "intl",
+ "pack": "vn-p06",
+ "language": "vi",
+ "level": "law",
+ "category": "04_劳工与行政法",
+ "status": "active",
+ "promulgatedDate": "2023",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "国会",
+ "docNumber": "30/2023/QH15",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 33,
+ "chars": 34971,
+ "source": {
+  "name": "越南法律数据库（vbpl.vn 官方公报文本）",
+  "url": "https://vbpl.vn/van-ban/chi-tiet/luat-luc-luong-tham-gia-bao-ve-an-ninh-trat-tu-o-co-so-so-30-2023-qh15--168904"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\VN\\04_劳工与行政法\\2023_30 2023 QH15_Luật Lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở số 30 2023 QH15.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 33 条；逐字未改写（源自 VN）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "VN-H615-A1",
+   "no": 1,
+   "noLabel": {
+    "vi": "Điều 1"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Phạm vi điều chỉnh"
+   },
+   "text": {
+    "vi": "Điều 1. Phạm vi điều chỉnh\n\nLuật này quy định về vị trí, chức năng, nhiệm vụ, nguyên tắc tổ chức, hoạt động, quan hệ công tác, xây dựng lực lượng, bảo đảm điều kiện hoạt động và trách nhiệm của cơ quan, tổ chức đối với lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở."
+   }
+  },
+  {
+   "id": "VN-H615-A2",
+   "no": 2,
+   "noLabel": {
+    "vi": "Điều 2"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Giải thích từ ngữ"
+   },
+   "text": {
+    "vi": "Điều 2. Giải thích từ ngữ\n\nTrong Luật này, các từ ngữ dưới đây được hiểu như sau:\n\n1. Cơ sở là thôn, làng, ấp, bản, buôn, bon, phum, sóc (sau đây gọi là thôn), tổ dân phố, khu phố, khối phố, khóm, tiểu khu (sau đây gọi là tổ dân phố).\n\n2. Lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở là lực lượng do chính quyền địa phương thành lập trên cơ sở tự nguyện của người dân để hỗ trợ Công an xã, phường, thị trấn (sau đây gọi là Công an cấp xã) giúp Ủy ban nhân dân cùng cấp trong bảo vệ an ninh, trật tự và xây dựng phong trào toàn dân bảo vệ an ninh Tổ quốc.\n\n3. Tổ bảo vệ an ninh, trật tự là hình thức tổ chức của lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở được bố trí ở thôn, tổ dân phố.\n\n4. Địa bàn phụ trách là thôn, tổ dân phố được giao cho lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở thực hiện các nhiệm vụ theo quy định của Luật này."
+   }
+  },
+  {
+   "id": "VN-H615-A3",
+   "no": 3,
+   "noLabel": {
+    "vi": "Điều 3"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Vị trí, chức năng của lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở"
+   },
+   "text": {
+    "vi": "Điều 3. Vị trí, chức năng của lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở\n\nLực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở là một trong những lực lượng quần chúng, được bố trí ở thôn, tổ dân phố, làm nòng cốt hỗ trợ Công an cấp xã giúp Ủy ban nhân dân cùng cấp trong bảo vệ an ninh, trật tự và xây dựng phong trào toàn dân bảo vệ an ninh Tổ quốc."
+   }
+  },
+  {
+   "id": "VN-H615-A4",
+   "no": 4,
+   "noLabel": {
+    "vi": "Điều 4"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Nguyên tắc tổ chức, hoạt động của lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở"
+   },
+   "text": {
+    "vi": "Điều 4. Nguyên tắc tổ chức, hoạt động của lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở\n\n1. Tuân thủ Hiến pháp và pháp luật; bảo vệ, bảo đảm quyền con người, quyền công dân; bảo vệ lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân; dựa vào Nhân dân và chịu sự giám sát của Nhân dân.\n\n2. Chịu sự lãnh đạo toàn diện của cấp ủy Đảng, sự quản lý của Ủy ban nhân dân cấp xã; sự hướng dẫn, phân công, kiểm tra của Công an cấp xã trong thực hiện nhiệm vụ theo quy định của Luật này.\n\n3. Đáp ứng yêu cầu bảo vệ an ninh, trật tự; phù hợp với điều kiện kinh tế - xã hội của từng địa phương.\n\n4. Không phân biệt đối xử về giới trong lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở."
+   }
+  },
+  {
+   "id": "VN-H615-A5",
+   "no": 5,
+   "noLabel": {
+    "vi": "Điều 5"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Quan hệ công tác, phối hợp, hỗ trợ trong tổ chức, hoạt động, thực hiện nhiệm vụ của lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở"
+   },
+   "text": {
+    "vi": "Điều 5. Quan hệ công tác, phối hợp, hỗ trợ trong tổ chức, hoạt động, thực hiện nhiệm vụ của lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở\n\n1. Quan hệ công tác của lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở được quy định như sau:\n\na) Ủy ban nhân dân cấp xã quản lý về tổ chức, hoạt động của lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở;\n\nb) Công an cấp xã giúp Ủy ban nhân dân cùng cấp trực tiếp quản lý về tổ chức, hoạt động, chỉ đạo, điều hành lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở; hướng dẫn, phân công, kiểm tra việc thực hiện nhiệm vụ của lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở;\n\nc) Quan hệ giữa lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở với các đoàn thể, tổ chức quần chúng ở cơ sở là quan hệ phối hợp trong thực hiện nhiệm vụ bảo vệ an ninh, trật tự và xây dựng phong trào toàn dân bảo vệ an ninh Tổ quốc.\n\n2. Phối hợp, hỗ trợ trong thực hiện nhiệm vụ của lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở được quy định như sau:\n\na) Phối hợp với Trưởng thôn, Tổ trưởng tổ dân phố, Trưởng ban công tác Mặt trận ở thôn, tổ dân phố thực hiện nhiệm vụ bảo vệ an ninh, trật tự và xây dựng phong trào toàn dân bảo vệ an ninh Tổ quốc;\n\nb) Hỗ trợ lực lượng dân quân tự vệ và lực lượng khác ở cơ sở thực hiện nhiệm vụ theo quy định của pháp luật;\n\nc) Phối hợp với đoàn thể, tổ chức quần chúng tự quản ở cơ sở, hòa giải viên cơ sở, lực lượng bảo vệ cơ quan, tổ chức, doanh nghiệp đóng trên địa bàn tham gia bảo vệ an ninh, trật tự, giải quyết vụ việc về an ninh, trật tự ở cơ sở theo quy định của pháp luật.\n\n3. Nguyên tắc phối hợp, hỗ trợ, trách nhiệm trong thực hiện nhiệm vụ của lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở được quy định như sau:\n\na) Phù hợp với chức năng, nhiệm vụ của lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở theo quy định của pháp luật;\n\nb) Chấp hành sự quản lý của Ủy ban nhân dân cấp xã, sự hướng dẫn, phân công, kiểm tra của Công an cấp xã trong quá trình phối hợp, hỗ trợ thực hiện nhiệm vụ;\n\nc) Phát huy trách nhiệm của công dân trong thực hiện nhiệm vụ bảo vệ an ninh, trật tự theo quy định của pháp luật;\n\nd) Công an cấp xã chịu trách nhiệm về việc thực hiện nhiệm vụ của lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở theo quy định của pháp luật.\n\n4. Đối với huyện không tổ chức đơn vị hành chính cấp xã thì Hội đồng nhân dân, Ủy ban nhân dân, Ủy ban Mặt trận Tổ quốc Việt Nam, Công an huyện thực hiện các nhiệm vụ của Hội đồng nhân dân, Ủy ban nhân dân, Ủy ban Mặt trận Tổ quốc Việt Nam, Công an cấp xã theo quy định của Luật này."
+   }
+  },
+  {
+   "id": "VN-H615-A6",
+   "no": 6,
+   "noLabel": {
+    "vi": "Điều 6"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Hành vi bị nghiêm cấm"
+   },
+   "text": {
+    "vi": "Điều 6. Hành vi bị nghiêm cấm\n\n1. Sử dụng lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở trái quy định của Luật này hoặc thực hiện hành vi vi phạm pháp luật.\n\n2. Lợi dụng, lạm dụng nhiệm vụ bảo vệ an ninh, trật tự ở cơ sở để thực hiện hành vi vi phạm pháp luật, nhũng nhiễu, xâm phạm lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân.\n\n3. Giả danh lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở.\n\n4. Xúc phạm, đe dọa, cản trở, chống đối lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở trong khi thực hiện nhiệm vụ.\n\n5. Sản xuất, mua bán, tàng trữ, sử dụng, chiếm giữ trái phép, làm giả, cầm cố trang phục, huy hiệu, phù hiệu, biển hiệu, giấy chứng nhận của lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở.\n\nChương II\n\nNHIỆM VỤ CỦA LỰC LƯỢNG THAM GIA BẢO VỆ AN NINH, TRẬT TỰ Ở CƠ SỞ"
+   }
+  },
+  {
+   "id": "VN-H615-A7",
+   "no": 7,
+   "noLabel": {
+    "vi": "Điều 7"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Hỗ trợ nắm tình hình về an ninh, trật tự"
+   },
+   "text": {
+    "vi": "Điều 7. Hỗ trợ nắm tình hình về an ninh, trật tự\n\n1. Hỗ trợ Công an cấp xã nắm tình hình vi phạm pháp luật về an ninh, trật tự, tệ nạn xã hội, bạo lực gia đình trên địa bàn phụ trách thông qua nguồn tin của Nhân dân, phương tiện thông tin đại chúng theo hướng dẫn của Công an cấp xã.\n\n2. Khi phát hiện, tiếp nhận thông tin vi phạm pháp luật về an ninh, trật tự, tệ nạn xã hội, bạo lực gia đình trên địa bàn phụ trách phải báo ngay cho Công an cấp xã; có mặt tại nơi xảy ra vụ việc để thực hiện nhiệm vụ theo yêu cầu, hướng dẫn của Công an cấp xã; kịp thời ngăn chặn hành vi xâm phạm, đe dọa xâm phạm tính mạng, sức khỏe, tài sản của cá nhân, tài sản của cơ quan, tổ chức trong điều kiện, khả năng cho phép và theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H615-A8",
+   "no": 8,
+   "noLabel": {
+    "vi": "Điều 8"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Hỗ trợ xây dựng phong trào toàn dân bảo vệ an ninh Tổ quốc"
+   },
+   "text": {
+    "vi": "Điều 8. Hỗ trợ xây dựng phong trào toàn dân bảo vệ an ninh Tổ quốc\n\n1. Hỗ trợ Công an cấp xã tuyên truyền, phổ biến chính sách, pháp luật về an ninh, trật tự và xây dựng, nhân rộng mô hình, điển hình tiên tiến trong phong trào toàn dân bảo vệ an ninh Tổ quốc.\n\n2. Vận động Nhân dân tham gia phòng ngừa, phát hiện, ngăn chặn, đấu tranh chống tội phạm và vi phạm pháp luật về an ninh, trật tự."
+   }
+  },
+  {
+   "id": "VN-H615-A9",
+   "no": 9,
+   "noLabel": {
+    "vi": "Điều 9"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Hỗ trợ phòng cháy, chữa cháy, cứu nạn, cứu hộ"
+   },
+   "text": {
+    "vi": "Điều 9. Hỗ trợ phòng cháy, chữa cháy, cứu nạn, cứu hộ\n\nLực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở theo yêu cầu, hướng dẫn, phân công của Công an cấp xã hỗ trợ lực lượng dân phòng trong hoạt động phòng cháy, chữa cháy, cứu nạn, cứu hộ trên địa bàn phụ trách hoặc địa bàn khác khi được điều động."
+   }
+  },
+  {
+   "id": "VN-H615-A10",
+   "no": 10,
+   "noLabel": {
+    "vi": "Điều 10"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Hỗ trợ quản lý hành chính về trật tự xã hội"
+   },
+   "text": {
+    "vi": "Điều 10. Hỗ trợ quản lý hành chính về trật tự xã hội\n\n1. Hỗ trợ Công an cấp xã nắm thông tin về hoạt động của cơ sở kinh doanh ngành, nghề đầu tư kinh doanh có điều kiện về an ninh, trật tự trên địa bàn phụ trách, trường hợp trực tiếp phát hiện hoặc tiếp nhận thông tin vi phạm pháp luật phải báo ngay cho Công an cấp xã trực tiếp quản lý.\n\n2. Nắm thông tin nhân khẩu, hỗ trợ Công an cấp xã kiểm tra nhân khẩu, tạm trú, tạm vắng trên địa bàn phụ trách.\n\n3. Tuyên truyền, vận động cơ quan, tổ chức và Nhân dân trên địa bàn phụ trách khai báo, giao nộp pháo, vũ khí, vật liệu nổ, công cụ hỗ trợ theo quy định.\n\n4. Trong quá trình thực hiện nhiệm vụ quy định tại các khoản 1, 2 và 3 Điều này mà phát hiện hành vi vi phạm pháp luật phải báo ngay cho Công an cấp xã trực tiếp quản lý và hỗ trợ Công an cấp xã kịp thời ngăn chặn."
+   }
+  },
+  {
+   "id": "VN-H615-A11",
+   "no": 11,
+   "noLabel": {
+    "vi": "Điều 11"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Hỗ trợ vận động, giáo dục người đã có hành vi vi phạm pháp luật đang cư trú tại cơ sở"
+   },
+   "text": {
+    "vi": "Điều 11. Hỗ trợ vận động, giáo dục người đã có hành vi vi phạm pháp luật đang cư trú tại cơ sở\n\nHỗ trợ Công an cấp xã vận động, giáo dục những người sau đây đang sinh sống trên địa bàn phụ trách chấp hành tốt đường lối, chủ trương của Đảng, chính sách, pháp luật của Nhà nước:\n\n1. Người đã chấp hành xong án phạt tù; người sử dụng trái phép chất ma túy, người cai nghiện ma tuý tự nguyện tại gia đình, cộng đồng; người đã chấp hành xong quyết định đưa vào trường giáo dưỡng, đưa vào cơ sở giáo dục bắt buộc, đưa vào cơ sở cai nghiện bắt buộc; người được tha tù trước thời hạn có điều kiện;\n\n2. Người bị áp dụng biện pháp cấm đi khỏi nơi cư trú; người được bảo lĩnh, đặt tiền để bảo đảm; người bị kết án phạt tù nhưng chưa có quyết định thi hành án hoặc đã có quyết định thi hành án nhưng đang tại ngoại hoặc được hoãn chấp hành án, tạm đình chỉ chấp hành án; người bị kết án phạt tù được hưởng án treo đang trong thời gian thử thách; người đang chấp hành án phạt cải tạo không giam giữ, cấm cư trú, cấm đảm nhiệm chức vụ, cấm hành nghề hoặc làm công việc nhất định, tước một số quyền công dân, quản chế; người được tha tù trước thời hạn có điều kiện đang trong thời gian thử thách; người đã chấp hành xong bản án của Toà án chưa được xóa án tích;\n\n3. Người đang bị áp dụng biện pháp giáo dục tại xã, phường, thị trấn, quản lý tại gia đình; người phải chấp hành quyết định áp dụng biện pháp đưa vào cơ sở giáo dục bắt buộc, đưa vào cơ sở cai nghiện bắt buộc, đưa vào trường giáo dưỡng nhưng đang được hoãn hoặc được tạm đình chỉ chấp hành quyết định; người bị quản lý trong thời gian làm thủ tục xem xét, quyết định áp dụng biện pháp đưa vào cơ sở giáo dục bắt buộc, đưa vào cơ sở cai nghiện bắt buộc, đưa vào trường giáo dưỡng; người có hành vi bạo lực gia đình."
+   }
+  },
+  {
+   "id": "VN-H615-A12",
+   "no": 12,
+   "noLabel": {
+    "vi": "Điều 12"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Hỗ trợ tuần tra bảo đảm an ninh, trật tự, an toàn giao thông; thực hiện nhiệm vụ bảo vệ an ninh, trật tự khi được điều động"
+   },
+   "text": {
+    "vi": "Điều 12. Hỗ trợ tuần tra bảo đảm an ninh, trật tự, an toàn giao thông; thực hiện nhiệm vụ bảo vệ an ninh, trật tự khi được điều động\n\n1. Hỗ trợ Công an cấp xã tuần tra, phòng ngừa, phát hiện hành vi vi phạm pháp luật về an ninh, trật tự trên địa bàn phụ trách.\n\n2. Hỗ trợ Công an cấp xã hướng dẫn, phân luồng, giải quyết ùn tắc giao thông khi được huy động.\n\n3. Khi thực hiện nhiệm vụ quy định tại khoản 1 và khoản 2 Điều này mà phát hiện vụ việc liên quan đến an ninh, trật tự, lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở hỗ trợ hoặc theo hướng dẫn của Công an cấp xã, lực lượng chức năng bảo vệ hiện trường, bảo vệ an ninh, trật tự.\n\n4. Trường hợp xảy ra tình huống phức tạp về an ninh, trật tự ngoài địa bàn phụ trách, lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở có thể được cấp có thẩm quyền điều động để thực hiện nhiệm vụ bảo vệ an ninh, trật tự. Việc sử dụng lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở trong trường hợp điều động được thực hiện theo quy định của pháp luật có liên quan.\n\nChương III\n\nXÂY DỰNG LỰC LƯỢNG, BẢO ĐẢM ĐIỀU KIỆN HOẠT ĐỘNG ĐỐI VỚI LỰC LƯỢNG THAM GIA BẢO VỆ AN NINH, TRẬT TỰ Ở CƠ SỞ\n\nMục 1\n\nXÂY DỰNG LỰC LƯỢNG"
+   }
+  },
+  {
+   "id": "VN-H615-A13",
+   "no": 13,
+   "noLabel": {
+    "vi": "Điều 13"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Tiêu chuẩn, điều kiện tham gia lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở"
+   },
+   "text": {
+    "vi": "Điều 13. Tiêu chuẩn, điều kiện tham gia lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở\n\nCông dân Việt Nam có nguyện vọng và có các tiêu chuẩn, điều kiện sau đây được xem xét, tuyển chọn tham gia lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở:\n\n1. Từ đủ 18 tuổi đến đủ 70 tuổi; trường hợp trên 70 tuổi mà bảo đảm sức khỏe thì Chủ tịch Ủy ban nhân cấp xã xem xét, quyết định trên cơ sở đề nghị của Công an cấp xã;\n\n2. Có lý lịch rõ ràng; phẩm chất đạo đức tốt; bản thân và gia đình chấp hành tốt đường lối, chủ trương của Đảng, chính sách, pháp luật của Nhà nước; không phải là người đang bị truy cứu trách nhiệm hình sự, đang chấp hành án hình sự ở xã, phường, thị trấn, chấp hành biện pháp tư pháp hoặc chấp hành biện pháp xử lý hành chính. Trường hợp đã chấp hành xong bản án của Tòa án thì phải được xóa án tích; đã chấp hành xong quyết định áp dụng biện pháp xử lý hành chính thì phải hết thời hạn được coi là chưa bị áp dụng biện pháp xử lý hành chính theo quy định của pháp luật;\n\n3. Có bằng tốt nghiệp hoặc đã hoàn thành chương trình giáo dục trung học cơ sở trở lên. Đối với khu vực biên giới, hải đảo, miền núi, vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn, vùng đồng bào dân tộc thiểu số thì có thể tuyển chọn người đã học xong chương trình giáo dục tiểu học;\n\n4. Đang thường trú hoặc tạm trú từ 01 năm trở lên và thường xuyên sinh sống tại nơi công dân nộp đơn đề nghị tham gia lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở. Trường hợp quy định tại khoản 3 Điều 15 của Luật này thì phải đang thường trú hoặc tạm trú tại nơi nộp đơn đề nghị tham gia lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở;\n\n5. Có đủ sức khỏe theo giấy chứng nhận của cơ sở khám bệnh, chữa bệnh được thành lập, hoạt động theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H615-A14",
+   "no": 14,
+   "noLabel": {
+    "vi": "Điều 14"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Bố trí lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở"
+   },
+   "text": {
+    "vi": "Điều 14. Bố trí lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở\n\n1. Lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở được kiện toàn từ lực lượng bảo vệ dân phố, Công an xã bán chuyên trách đang được tiếp tục sử dụng và Đội trưởng, Đội phó đội dân phòng hoặc được tuyển chọn theo quy định của Luật này.\n\n2. Lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở được bố trí thành Tổ bảo vệ an ninh, trật tự. Địa bàn phụ trách của Tổ bảo vệ an ninh, trật tự là một hoặc một số thôn, tổ dân phố thuộc đơn vị hành chính cấp xã hoặc tại huyện không tổ chức đơn vị hành chính cấp xã.\n\n3. Căn cứ tình hình, yêu cầu bảo đảm an ninh, trật tự, điều kiện kinh tế - xã hội, quy mô dân số, diện tích tự nhiên của địa phương, Hội đồng nhân dân cấp tỉnh quy định tiêu chí thành lập Tổ bảo vệ an ninh, trật tự và tiêu chí về số lượng thành viên Tổ bảo vệ an ninh, trật tự trên địa bàn quản lý.\n\n4. Ủy ban nhân dân cấp tỉnh quyết định số lượng Tổ bảo vệ an ninh, trật tự cần thành lập, số lượng thành viên Tổ bảo vệ an ninh, trật tự tại thôn, tổ dân phố thuộc phạm vi quản lý đến từng đơn vị hành chính cấp xã.\n\n5. Căn cứ Quyết định của Ủy ban nhân dân cấp tỉnh quy định tại khoản 4 Điều này, Chủ tịch Ủy ban nhân dân cấp xã theo đề nghị của Công an cấp xã quyết định thành lập Tổ bảo vệ an ninh, trật tự và từng thành viên Tổ bảo vệ an ninh, trật tự."
+   }
+  },
+  {
+   "id": "VN-H615-A15",
+   "no": 15,
+   "noLabel": {
+    "vi": "Điều 15"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Tuyển chọn Tổ viên Tổ bảo vệ an ninh, trật tự"
+   },
+   "text": {
+    "vi": "Điều 15. Tuyển chọn Tổ viên Tổ bảo vệ an ninh, trật tự\n\n1. Căn cứ yêu cầu về bảo đảm an ninh, trật tự ở cơ sở, Công an cấp xã có trách nhiệm tham mưu giúp Ủy ban nhân dân cùng cấp xây dựng kế hoạch và tổ chức tuyển chọn Tổ viên Tổ bảo vệ an ninh, trật tự bảo đảm tiêu chuẩn, điều kiện, phù hợp với quy định tại khoản 4 Điều 14 của Luật này.\n\n2. Việc tuyển chọn Tổ viên Tổ bảo vệ an ninh, trật tự bảo đảm công khai, dân chủ, đúng quy định của pháp luật.\n\n3. Ưu tiên tuyển chọn công dân đã có thời gian phục vụ trong Công an nhân dân, Quân đội nhân dân, Công an xã bán chuyên trách đã kết thúc nhiệm vụ, công dân am hiểu về phong tục, tập quán, có uy tín trong cộng đồng dân cư hoặc đã từng tham gia lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở.\n\n4. Bộ trưởng Bộ Công an quy định về hồ sơ, trình tự, thủ tục tuyển chọn Tổ viên Tổ bảo vệ an ninh, trật tự."
+   }
+  },
+  {
+   "id": "VN-H615-A16",
+   "no": 16,
+   "noLabel": {
+    "vi": "Điều 16"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Tổ bảo vệ an ninh, trật tự; thành viên Tổ bảo vệ an ninh, trật tự"
+   },
+   "text": {
+    "vi": "Điều 16. Tổ bảo vệ an ninh, trật tự; thành viên Tổ bảo vệ an ninh, trật tự\n\n1. Tổ bảo vệ an ninh, trật tự gồm có Tổ trưởng, Tổ phó và Tổ viên.\n\n2. Công an cấp xã báo cáo Chủ tịch Ủy ban nhân dân cùng cấp ra quyết định thành lập Tổ bảo vệ an ninh, trật tự, quyết định công nhận thành viên Tổ bảo vệ an ninh, trật tự và được niêm yết công khai.\n\n3. Tại thôn, tổ dân phố đã bổ nhiệm Đội trưởng, Đội phó đội dân phòng theo quy định của pháp luật về phòng cháy và chữa cháy, Công an cấp xã căn cứ năng lực, trình độ chuyên môn của người đã được bổ nhiệm để đề xuất Chủ tịch Ủy ban nhân dân cấp xã xem xét, quyết định công nhận là Tổ trưởng, Tổ phó Tổ bảo vệ an ninh, trật tự.\n\n4. Nhiệm vụ của thành viên Tổ bảo vệ an ninh, trật tự được quy định như sau:\n\na) Tổ trưởng Tổ bảo vệ an ninh, trật tự quản lý, điều hành hoạt động của Tổ bảo vệ an ninh, trật tự; báo cáo tình hình, kết quả thực hiện nhiệm vụ được giao và chịu trách nhiệm trước Công an cấp xã về hoạt động của Tổ bảo vệ an ninh, trật tự; phân công nhiệm vụ cho thành viên Tổ bảo vệ an ninh, trật tự;\n\nb) Tổ phó Tổ bảo vệ an ninh, trật tự thực hiện nhiệm vụ theo sự phân công của Tổ trưởng Tổ bảo vệ an ninh, trật tự; quản lý, điều hành hoạt động của Tổ bảo vệ an ninh, trật tự khi chưa có Tổ trưởng, Tổ trưởng vắng mặt hoặc được Tổ trưởng ủy quyền;\n\nc) Tổ viên Tổ bảo vệ an ninh, trật tự thực hiện nhiệm vụ của lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở theo sự quản lý, phân công của Tổ trưởng, Tổ phó Tổ bảo vệ an ninh, trật tự;\n\nd) Tổ trưởng, Tổ phó Tổ bảo vệ an ninh, trật tự thực hiện nhiệm vụ của Đội trưởng, Đội phó đội dân phòng theo quy định của pháp luật về phòng cháy và chữa cháy, cứu nạn, cứu hộ.\n\n5. Bộ trưởng Bộ Công an quy định trình tự, thủ tục thành lập Tổ bảo vệ an ninh, trật tự, công nhận thành viên Tổ bảo vệ an ninh, trật tự."
+   }
+  },
+  {
+   "id": "VN-H615-A17",
+   "no": 17,
+   "noLabel": {
+    "vi": "Điều 17"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Điều chỉnh số lượng thành viên, số lượng Tổ bảo vệ an ninh, trật tự, cho thôi tham gia lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở"
+   },
+   "text": {
+    "vi": "Điều 17. Điều chỉnh số lượng thành viên, số lượng Tổ bảo vệ an ninh, trật tự, cho thôi tham gia lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở\n\n1. Điều chỉnh số lượng thành viên, số lượng Tổ bảo vệ an ninh, trật tự trong các trường hợp sau đây:\n\na) Bổ sung thành viên trong trường hợp chưa đủ số lượng thành viên Tổ bảo vệ an ninh, trật tự; bổ sung Tổ bảo vệ an ninh, trật tự trong trường hợp chưa thành lập đủ số lượng Tổ bảo vệ an ninh, trật tự theo quyết định của Ủy ban nhân dân cấp tỉnh;\n\nb) Do yêu cầu bảo đảm an ninh, trật tự hoặc thành lập, giải thể, nhập, chia thôn, tổ dân phố, cần điều chỉnh tăng, giảm số lượng thành viên, số lượng Tổ bảo vệ an ninh, trật tự so với số lượng đã được Ủy ban nhân dân cấp tỉnh quyết định.\n\n2. Việc bổ sung thành viên, bổ sung Tổ bảo vệ an ninh, trật tự quy định tại điểm a khoản 1 Điều này thực hiện theo quy định tại Điều 15 và khoản 2 Điều 16 của Luật này. Việc điều chỉnh tăng, giảm số lượng thành viên, số lượng Tổ bảo vệ an ninh, trật tự quy định tại điểm b khoản 1 Điều này phải báo cáo Ủy ban nhân dân cấp tỉnh xem xét, quyết định theo quy định tại khoản 4 Điều 14 của Luật này.\n\n3. Các trường hợp cho thôi tham gia lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở, bao gồm:\n\na) Có đơn xin thôi tham gia lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở;\n\nb) Không bảo đảm sức khỏe theo giấy chứng nhận của cơ sở khám bệnh, chữa bệnh được thành lập, hoạt động theo quy định của pháp luật;\n\nc) Không chấp hành nhiệm vụ được giao theo sự phân công, huy động của Công an cấp xã từ 02 lần trở lên mà không có lý do chính đáng, không hoàn thành nhiệm vụ hoặc lợi dụng, lạm dụng nhiệm vụ bảo vệ an ninh, trật tự ở cơ sở để thực hiện hành vi vi phạm pháp luật và đã bị Công an cấp xã nhắc nhở bằng văn bản từ 02 lần trở lên mà vẫn tiếp tục vi phạm;\n\nd) Vi phạm pháp luật hình sự đã có quyết định khởi tố bị can hoặc bị áp dụng biện pháp ngăn chặn theo quy định của pháp luật về tố tụng hình sự; bị áp dụng biện pháp xử lý hành chính.\n\n4. Bộ trưởng Bộ Công an quy định trình tự, thủ tục điều chỉnh số lượng thành viên, số lượng Tổ bảo vệ an ninh, trật tự, cho thôi tham gia lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở."
+   }
+  },
+  {
+   "id": "VN-H615-A18",
+   "no": 18,
+   "noLabel": {
+    "vi": "Điều 18"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Huấn luyện, bồi dưỡng lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở"
+   },
+   "text": {
+    "vi": "Điều 18. Huấn luyện, bồi dưỡng lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở\n\nLực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở được huấn luyện, bồi dưỡng về chính trị, pháp luật, nghiệp vụ, tham gia diễn tập, hội thi theo quy định của Bộ trưởng Bộ Công an.\n\nMục 2\n\nBẢO ĐẢM ĐIỀU KIỆN HOẠT ĐỘNG ĐỐI VỚI LỰC LƯỢNG THAM GIA BẢO VỆ AN NINH, TRẬT TỰ Ở CƠ SỞ"
+   }
+  },
+  {
+   "id": "VN-H615-A19",
+   "no": 19,
+   "noLabel": {
+    "vi": "Điều 19"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Bảo đảm kinh phí hoạt động và trang bị cơ sở vật chất đối với lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở"
+   },
+   "text": {
+    "vi": "Điều 19. Bảo đảm kinh phí hoạt động và trang bị cơ sở vật chất đối với lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở\n\n1. Kinh phí bảo đảm hoạt động và trang bị cơ sở vật chất đối với lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở do ngân sách nhà nước bảo đảm và các nguồn tài chính huy động hợp pháp khác theo quy định của pháp luật.\n\n2. Việc quản lý, sử dụng kinh phí bảo đảm hoạt động và trang bị cơ sở vật chất đối với lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở thực hiện theo quy định của pháp luật về ngân sách nhà nước, pháp luật về quản lý, sử dụng tài sản công và quy định khác của pháp luật có liên quan.\n\n3. Hằng năm, Bộ Công an, Ủy ban nhân dân các cấp có trách nhiệm lập dự toán, chấp hành và quyết toán ngân sách nhà nước bảo đảm hoạt động và trang bị cơ sở vật chất đối với lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở theo quy định của pháp luật về ngân sách nhà nước."
+   }
+  },
+  {
+   "id": "VN-H615-A20",
+   "no": 20,
+   "noLabel": {
+    "vi": "Điều 20"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Địa điểm, nơi làm việc đối với lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở"
+   },
+   "text": {
+    "vi": "Điều 20. Địa điểm, nơi làm việc đối với lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở\n\nỦy ban nhân dân cấp xã bố trí địa điểm, nơi làm việc cho lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở tại địa điểm, nơi sinh hoạt cộng đồng ở thôn, tổ dân phố hoặc địa điểm, nơi làm việc của Công an cấp xã hoặc địa điểm, nơi làm việc khác phù hợp với yêu cầu thực hiện nhiệm vụ của lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở và khả năng bảo đảm của địa phương."
+   }
+  },
+  {
+   "id": "VN-H615-A21",
+   "no": 21,
+   "noLabel": {
+    "vi": "Điều 21"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Trang bị, quản lý, sử dụng công cụ hỗ trợ của lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở"
+   },
+   "text": {
+    "vi": "Điều 21. Trang bị, quản lý, sử dụng công cụ hỗ trợ của lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở\n\n1. Lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở được trang bị công cụ hỗ trợ để thực hiện nhiệm vụ bảo vệ an ninh, trật tự ở cơ sở.\n\n2. Việc quản lý, sử dụng công cụ hỗ trợ của lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở thực hiện theo quy định của pháp luật về quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ.\n\n3. Bộ trưởng Bộ Công an quy định chi tiết khoản 1 Điều này."
+   }
+  },
+  {
+   "id": "VN-H615-A22",
+   "no": 22,
+   "noLabel": {
+    "vi": "Điều 22"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Trang phục, giấy chứng nhận, trang bị của lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở"
+   },
+   "text": {
+    "vi": "Điều 22. Trang phục, giấy chứng nhận, trang bị của lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở\n\n1. Lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở được trang bị, sử dụng trang phục, huy hiệu, phù hiệu, biển hiệu, giấy chứng nhận, phương tiện, thiết bị cần thiết để thực hiện nhiệm vụ.\n\n2. Việc cấp, cấp đổi, cấp lại, thu hồi, quản lý, sử dụng biển hiệu, giấy chứng nhận của lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở do Bộ trưởng Bộ Công an quy định.\n\n3. Chính phủ quy định chi tiết khoản 1 Điều này."
+   }
+  },
+  {
+   "id": "VN-H615-A23",
+   "no": 23,
+   "noLabel": {
+    "vi": "Điều 23"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Hỗ trợ, bồi dưỡng đối với người tham gia lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở"
+   },
+   "text": {
+    "vi": "Điều 23. Hỗ trợ, bồi dưỡng đối với người tham gia lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở\n\n1. Người tham gia lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở được hưởng tiền hỗ trợ thường xuyên hằng tháng, được hỗ trợ tiền đóng bảo hiểm xã hội tự nguyện, bảo hiểm y tế theo mức do Hội đồng nhân dân cấp tỉnh quyết định.\n\n2. Người tham gia lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở được hưởng hỗ trợ, bồi dưỡng khi được cử đi bồi dưỡng, huấn luyện, thực hiện nhiệm vụ theo sự phân công của cấp có thẩm quyền hoặc khi được điều động, huy động thực hiện nhiệm vụ. Mức hỗ trợ, bồi dưỡng được quy định như sau:\n\na) Khi được cử đi bồi dưỡng, huấn luyện được hưởng bồi dưỡng bằng mức tiền ăn cơ bản của chiến sĩ nghĩa vụ Công an nhân dân;\n\nb) Khi làm nhiệm vụ từ 22 giờ ngày hôm trước đến 06 giờ sáng ngày hôm sau, ngày nghỉ, ngày lễ, khi thực hiện công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại, nguy hiểm theo quy định của pháp luật về lao động được hưởng mức tiền bồi dưỡng do Hội đồng nhân dân cấp tỉnh quyết định;\n\nc) Khi làm nhiệm vụ tại những nơi thuộc khu vực biên giới, hải đảo, miền núi, vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn, vùng đồng bào dân tộc thiểu số hoặc tại đơn vị hành chính cấp xã trọng điểm về quốc phòng được hưởng mức tiền bồi dưỡng ngày công lao động tăng thêm do Hội đồng nhân dân cấp tỉnh quyết định;\n\nd) Khi được điều động, huy động, cử đi thực hiện nhiệm vụ ngoài địa bàn phụ trách thì được cơ quan điều động, huy động, cử đi thực hiện nhiệm vụ hỗ trợ phương tiện đi lại, hỗ trợ ăn, nghỉ trong thời gian làm nhiệm vụ."
+   }
+  },
+  {
+   "id": "VN-H615-A24",
+   "no": 24,
+   "noLabel": {
+    "vi": "Điều 24"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Chế độ, chính sách đối với người tham gia lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở bị ốm đau, bị tai nạn, chết, bị thương khi thực hiện nhiệm vụ"
+   },
+   "text": {
+    "vi": "Điều 24. Chế độ, chính sách đối với người tham gia lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở bị ốm đau, bị tai nạn, chết, bị thương khi thực hiện nhiệm vụ\n\n1. Người đã tham gia bảo hiểm xã hội, bảo hiểm y tế và đủ điều kiện hưởng bảo hiểm thì được chi trả chế độ từ quỹ bảo hiểm theo quy định của pháp luật.\n\n2. Người chưa tham gia bảo hiểm y tế mà bị ốm đau, bị tai nạn, bị thương thì được hỗ trợ thanh toán chi phí khám bệnh, chữa bệnh.\n\n3. Người chưa tham gia bảo hiểm xã hội mà bị tai nạn làm suy giảm khả năng lao động theo kết luận của Hội đồng giám định y khoa thì được xét trợ cấp tùy theo mức độ suy giảm khả năng lao động; nếu chết thì thân nhân được hưởng trợ cấp tiền tuất, tiền mai táng phí.\n\n4. Người bị thương, chết khi thực hiện nhiệm vụ thì được xem xét hưởng chế độ, chính sách như thương binh hoặc được xem xét để công nhận là liệt sĩ và hưởng các quyền khác theo quy định của pháp luật.\n\n5. Chính phủ quy định chi tiết khoản 2 và khoản 3 Điều này."
+   }
+  },
+  {
+   "id": "VN-H615-A25",
+   "no": 25,
+   "noLabel": {
+    "vi": "Điều 25"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Nhiệm vụ chi của Bộ Công an"
+   },
+   "text": {
+    "vi": "Điều 25. Nhiệm vụ chi của Bộ Công an\n\nNhiệm vụ chi của Bộ Công an do ngân sách trung ương bảo đảm, bao gồm:\n\n1. Trang bị phương tiện, thiết bị, công cụ hỗ trợ cho lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở;\n\n2. Công tác huấn luyện, bồi dưỡng, diễn tập, hội thi cho lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở do Bộ Công an tổ chức;\n\n3. Sơ kết, tổng kết, tổ chức phong trào thi đua, khen thưởng đối với lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở do Bộ Công an tổ chức."
+   }
+  },
+  {
+   "id": "VN-H615-A26",
+   "no": 26,
+   "noLabel": {
+    "vi": "Điều 26"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Nhiệm vụ chi của địa phương"
+   },
+   "text": {
+    "vi": "Điều 26. Nhiệm vụ chi của địa phương\n\n1. Nhiệm vụ chi của địa phương do ngân sách địa phương bảo đảm, bao gồm:\n\na) Hỗ trợ mua sắm, sửa chữa phương tiện, thiết bị; công tác tập huấn, diễn tập, hội thi do địa phương tổ chức; bảo đảm điều kiện hoạt động đối với lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở;\n\nb) Trang bị trang phục, huy hiệu, phù hiệu, biển hiệu, giấy chứng nhận của lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở;\n\nc) Thực hiện chi các nội dung quy định tại Điều 23 và Điều 24 của Luật này;\n\nd) Sơ kết, tổng kết, tổ chức phong trào thi đua, khen thưởng đối với lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở do địa phương tổ chức;\n\nđ) Các khoản chi khác cho lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở theo quy định của pháp luật.\n\n2. Ủy ban nhân dân cấp tỉnh trình Hội đồng nhân dân cùng cấp quyết định mức chi cho lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở quy định tại khoản 1 Điều này phù hợp với điều kiện kinh tế - xã hội của địa phương.\n\nChương IV\n\nTRÁCH NHIỆM CỦA CƠ QUAN, TỔ CHỨC"
+   }
+  },
+  {
+   "id": "VN-H615-A27",
+   "no": 27,
+   "noLabel": {
+    "vi": "Điều 27"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Trách nhiệm của Chính phủ"
+   },
+   "text": {
+    "vi": "Điều 27. Trách nhiệm của Chính phủ\n\n1. Chính phủ thống nhất quản lý nhà nước về lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở.\n\n2. Nội dung quản lý nhà nước về lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở, bao gồm:\n\na) Ban hành theo thẩm quyền hoặc trình cấp có thẩm quyền ban hành và tổ chức thực hiện văn bản quy phạm pháp luật về lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở;\n\nb) Xây dựng và tổ chức thực hiện chiến lược, chính sách, đề án, dự án, kế hoạch về lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở;\n\nc) Xây dựng lực lượng, huấn luyện, bồi dưỡng, diễn tập, hội thi, tổ chức hoạt động và bảo đảm điều kiện hoạt động đối với lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở;\n\nd) Tuyên truyền, phổ biến đường lối, chủ trương của Đảng, chính sách, pháp luật của Nhà nước về lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở;\n\nđ) Kiểm tra, thanh tra, xử lý vi phạm, giải quyết khiếu nại, tố cáo, sơ kết, tổng kết, thi đua, khen thưởng đối với lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở."
+   }
+  },
+  {
+   "id": "VN-H615-A28",
+   "no": 28,
+   "noLabel": {
+    "vi": "Điều 28"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Trách nhiệm của Bộ Công an"
+   },
+   "text": {
+    "vi": "Điều 28. Trách nhiệm của Bộ Công an\n\nBộ Công an là cơ quan đầu mối giúp Chính phủ thống nhất quản lý nhà nước về lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở và có trách nhiệm sau đây:\n\n1. Trình Chính phủ ban hành hoặc ban hành theo thẩm quyền và tổ chức thực hiện các văn bản quy phạm pháp luật về lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở;\n\n2. Tuyên truyền, phổ biến đường lối, chủ trương của Đảng, chính sách, pháp luật của Nhà nước về lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở;\n\n3. Hướng dẫn, kiểm tra việc xây dựng lực lượng, quản lý, huấn luyện, bồi dưỡng, diễn tập, hội thi và bảo đảm điều kiện hoạt động đối với lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở theo quy định;\n\n4. Chủ trì, phối hợp kiểm tra, thanh tra, xử lý vi phạm, giải quyết khiếu nại, tố cáo, sơ kết, tổng kết đối với lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở theo thẩm quyền;\n\n5. Hướng dẫn tổ chức phong trào thi đua, khen thưởng trong lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở."
+   }
+  },
+  {
+   "id": "VN-H615-A29",
+   "no": 29,
+   "noLabel": {
+    "vi": "Điều 29"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Trách nhiệm của Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ"
+   },
+   "text": {
+    "vi": "Điều 29. Trách nhiệm của Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ\n\n1. Bộ Tài chính chủ trì, phối hợp với Bộ Công an, Ủy ban nhân dân cấp tỉnh trình cấp có thẩm quyền cân đối, bố trí kinh phí để thực hiện Luật này theo quy định của Luật Ngân sách nhà nước.\n\n2. Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, trong phạm vi nhiệm vụ, quyền hạn của mình, chịu trách nhiệm tổ chức thi hành pháp luật về lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở."
+   }
+  },
+  {
+   "id": "VN-H615-A30",
+   "no": 30,
+   "noLabel": {
+    "vi": "Điều 30"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Trách nhiệm của chính quyền địa phương các cấp"
+   },
+   "text": {
+    "vi": "Điều 30. Trách nhiệm của chính quyền địa phương các cấp\n\n1. Hội đồng nhân dân các cấp, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm sau đây:\n\na) Quyết định về kế hoạch, dự án, đề án xây dựng, bố trí lực lượng, bảo đảm điều kiện hoạt động đối với lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở theo quy định của Luật này và quy định khác của pháp luật có liên quan;\n\nb) Quyết định ngân sách bảo đảm cho lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở của địa phương theo quy định của pháp luật.\n\n2. Ủy ban nhân dân các cấp, trong phạm vi nhiệm vụ, quyền hạn của mình, thực hiện quản lý nhà nước về lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở và có trách nhiệm sau đây:\n\na) Trình Hội đồng nhân dân cùng cấp phê duyệt, quyết định về kế hoạch, dự án, đề án xây dựng, bố trí lực lượng, bảo đảm điều kiện hoạt động đối với lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở và dự toán thu, chi ngân sách bảo đảm cho hoạt động của lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở;\n\nb) Ban hành văn bản quy phạm pháp luật, văn bản chỉ đạo, hướng dẫn và tổ chức thực hiện quy định về lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở theo quy định của Luật này và quy định khác của pháp luật có liên quan;\n\nc) Tổ chức tuyên truyền, phổ biến đường lối, chủ trương của Đảng, chính sách, pháp luật của Nhà nước về lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở thuộc phạm vi quản lý;\n\nd) Quản lý về tổ chức, hoạt động của lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở theo thẩm quyền; bố trí địa điểm, nơi làm việc, kinh phí và bảo đảm điều kiện hoạt động khác đối với lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở theo quy định;\n\nđ) Tổ chức phong trào thi đua trong lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở gắn với các phong trào thi đua tại địa phương.\n\n3. Hội đồng nhân dân cấp huyện tại nơi không tổ chức Hội đồng nhân dân cấp xã hoặc Hội đồng nhân dân cấp tỉnh tại nơi không tổ chức Hội đồng nhân dân cấp xã và Hội đồng nhân dân cấp huyện thực hiện nhiệm vụ của Hội đồng nhân dân cấp xã. Ủy ban nhân dân cấp xã báo cáo Ủy ban nhân dân cấp huyện về kết quả tổ chức, hoạt động của lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở trên địa bàn."
+   }
+  },
+  {
+   "id": "VN-H615-A31",
+   "no": 31,
+   "noLabel": {
+    "vi": "Điều 31"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Trách nhiệm của Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận"
+   },
+   "text": {
+    "vi": "Điều 31. Trách nhiệm của Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận\n\nMặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm tuyên truyền, vận động mọi tầng lớp nhân dân thực hiện pháp luật về lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở; vận động, giám sát, phản biện xã hội việc thực hiện pháp luật về lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở.\n\nChương V\n\nĐIỀU KHOẢN THI HÀNH"
+   }
+  },
+  {
+   "id": "VN-H615-A32",
+   "no": 32,
+   "noLabel": {
+    "vi": "Điều 32"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Sửa đổi, bổ sung, bãi bỏ một số điều, khoản của các luật có liên quan"
+   },
+   "text": {
+    "vi": "Điều 32. Sửa đổi, bổ sung, bãi bỏ một số điều, khoản của các luật có liên quan\n\n1. Sửa đổi, bổ sung khoản 1 Điều 44 của Luật Phòng cháy và chữa cháy số 27/2001/QH10 đã được sửa đổi, bổ sung một số điều theo Luật số 40/2013/QH13 như sau:\n\n\"1. Đội dân phòng được thành lập ở thôn, tổ dân phố. Người được công nhận là Tổ trưởng, Tổ phó Tổ bảo vệ an ninh, trật tự theo quy định của pháp luật về lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở được bổ nhiệm làm Đội trưởng, Đội phó đội dân phòng. Đội dân phòng do Chủ tịch Ủy ban nhân dân cấp xã quyết định thành lập, quản lý.\".\n\n2. Bổ sung điểm c vào sau điểm b khoản 4 Điều 12 của Luật Bảo hiểm y tế số 25/2008/QH12 đã được sửa đổi, bổ sung một số điều theo Luật số 32/2013/QH13, Luật số 46/2014/QH13, Luật số 97/2015/QH13, Luật số 35/2018/QH14 và Luật số 68/2020/QH14 như sau:\n\n\"c) Người tham gia lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở.\".\n\n3. Sửa đổi, bổ sung điểm n khoản 1 Điều 55 của Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ số 14/2017/QH14 đã được sửa đổi, bổ sung một số điều theo Luật số 50/2019/QH14 và Luật số 59/2020/QH14 như sau:\n\n\"n) Lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở;\".\n\n4. Sửa đổi, bổ sung khoản 2 Điều 6 của Luật An ninh quốc gia số 32/2004/QH11 như sau:\n\n\"2. Cơ quan, tổ chức, trong phạm vi, nhiệm vụ, quyền hạn của mình có trách nhiệm xây dựng lực lượng dân quân tự vệ, bảo vệ cơ quan, doanh nghiệp, lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở, dân phòng tham gia hoạt động bảo vệ an ninh quốc gia theo quy định của pháp luật.\".\n\n5. Sửa đổi, bổ sung, bãi bỏ một số khoản, điều của Luật Công an nhân dân số 37/2018/QH14 đã được sửa đổi, bổ sung một số điều theo Luật số 21/2023/QH15 như sau:\n\na) Sửa đổi, bổ sung khoản 13 Điều 16 như sau:\n\n\"13. Hướng dẫn, huấn luyện nghiệp vụ, bồi dưỡng kiến thức pháp luật đối với các tổ chức quần chúng tham gia bảo vệ an ninh, trật tự tại cơ sở, lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở, dân phòng, bảo vệ cơ quan, doanh nghiệp theo quy định của pháp luật.\";\n\nb) Bãi bỏ khoản 2 Điều 46."
+   }
+  },
+  {
+   "id": "VN-H615-A33",
+   "no": 33,
+   "noLabel": {
+    "vi": "Điều 33"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Hiệu lực thi hành"
+   },
+   "text": {
+    "vi": "Điều 33. Hiệu lực thi hành\n\n1. Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2024.\n\n2. Pháp lệnh Công an xã số 06/2008/PL-UBTVQH12 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành.\n\n CHỦ TỊCH QUỐC HỘI\n\n Vương Đình Huệ\n\n1:{\"id\":\"168904\",\"docType\":{\"id\":\"11025e19-2dd6-4165-85ad-ab6241186a1a\",\"name\":\"Luật\",\"code\":\"Lu\",\"parentCode\":\"VBQPPL\",\"parentName\":null},\"docGroup\":\"VBQPPL\",\"docNum\":\"30/2023/QH15\",\"title\":\"Luật Lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở số 30/2023/QH15\",\"applicationNote\":null,\"issueDate\":\"2023-11-28T00:00:00\",\"effFrom\":\"2024-07-01T00:00:00\",\"effTo\":null,\"publicDate\":null,\"effStatus\":{\"id\":\"9c20e89d-e048-4f3a-b6c2-df87fe0b1ada\",\"name\":\"Hết hiệu lực một phần\",\"code\":\"HHL1P\",\"parentCode\":null,\"parentName\":null},\"status\":\"Publish\",\"lang\":\"vi\",\"defaultLanguage\":\"VN\",\"updatedBy\":\"System Account\",\"updatedDate\":\"2026-05-08T18:37:35\",\"agencyName\":\"Quốc hội\",\"organization\":{\"id\":\"0995e017-a693-4ca7-9dc6-b0a969fe5f19\",\"code\":\"BCA\",\"name\":\"Bộ Công an\",\"nameEn\":\"Bộ Công an\",\"shortName\":\"BCA\",\"orgType\":\"0\"},\"isLw\":true,\"documentContent\":{\"id\":\"168904\",\"title\":null,\"content\":\"$2\"},\"documentContentEn\":null,\"documentContentFileName\":null,\"documentContentFileDocName\":null,\"documentIssues\":[{\"id\":\"905b7220-23db-4d94-ac90-55ec5cb83127\",\"agencyId\":\"55\",\"agencyName\":\"Quốc hội\",\"agencyNameEn\":\"National Assembly of Vietnam\",\"agencyCode\":\"QH\",\"personId\":\"1038\",\"personName\":\"Vương Đình Huệ\",\"jobTitleId\":\"28da0087-8afd-420c-875c-b2369e212c3e\",\"jobTitleCode\":\"CTQH\",\"jobTitleName\":\"Chủ tịch Quốc hội\",\"orderIndex\":1}],\"documentMajors\":[],\"documentFields\":[{\"id\":\"76e2c0d5-e93e-4ee9-8c72-59dae1167432\",\"name\":\"Chưa phân loại\",\"code\":null,\"parentCode\":null,\"parentName\":null}],\"documentRelatedList\":[{\"id\":\"48c1422d-2b50-407a-bb62-e7223238617f\",\"fileName\":\"168904_body_content.html\",\"relatedType\":\"MARKDOWN\",\"fileTitle\":\"168904_body_content.html\",\"fileOrder\":null}],\"provisionTree\":null,\"references\":null,\"isEffectAllDocument\":false,\"isOld\":true,\"reviewStatus\":\"RV_DONE\",\"reviewed\":true,\"isTranslationDoc\":false,\"isConsolidatedDocument\":false,\"isConstitutionDocument\":false,\"isAdministrativeDocument\":false,\"viewCount\":175,\"showViewCount\":true,\"hasContent\":true,\"hasOriginalPdf\":null,\"hasAIProcessed\":false,\"hasClauseRelation\":true,\"aiResults\":[]}"
+   }
+  }
+ ]
+}

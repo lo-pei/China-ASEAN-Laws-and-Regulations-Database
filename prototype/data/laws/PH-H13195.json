@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13195",
+ "title": {
+  "zh": null,
+  "en": "An Act Appropriating the Sum of Fifteen thousand Pesos for the Construction, Improvement, and Where Necessary for the Maintenance of Trails, Roads, and Bridges in the Province of Nueva VIzcaya, and for Other Purposes.",
+  "orig": "An Act Appropriating the Sum of Fifteen thousand Pesos for the Construction, Improvement, and Where Necessary for the Maintenance of Trails, Roads, and Bridges in the Province of Nueva VIzcaya, and for Other Purposes."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1915-07-19",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2524",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 442,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1915/act_2524_1915.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02524_1915_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02524_1915_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13195-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The sum of fifteen thousand pesos, or so much thereof as may be necessary, is hereby\nappropriated, out of any funds in the Insular Treasury not otherwise appropriated, to be expended under the\ndirection of the Secretary of the Interior for the construction, improvement, and where necessary for the\nmaintenance of trails, roads, and bridges in the Province of Nueva Vizcaya."
+   }
+  },
+  {
+   "id": "PH-H13195-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its passage.\nEnacted, July 19, 1915."
+   }
+  }
+ ]
+}

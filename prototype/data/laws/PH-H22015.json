@@ -1,0 +1,62 @@
+{
+ "id": "PH-H22015",
+ "title": {
+  "zh": null,
+  "en": "Further Amending Republic Act Numbered Four Thousand Eight Hundred Sixty, as Amended (Re: Foreign Borrowing Act)",
+  "orig": "Further Amending Republic Act Numbered Four Thousand Eight Hundred Sixty, as Amended (Re: Foreign Borrowing Act)"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p159",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1974-11-27",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 588",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1502,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_00588_1974_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_00588_1974_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22015-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section Four of Republic Act Numbered Four Thousand Eight Hundred Sixty, as amended, is\nfurther amended to read as follows:\n\"Sec. 4. In the contracting of any loan, credit or indebtedness under this Act, the President of the Philippines\nmay, when necessary, agree to waive or modify the application of any law granting preferences in connection\nwith, or imposing restrictions on, the procurement of goods or services, including among others, Act\nNumbered Four Thousand Two Hundred Thirty-Nine, Commonwealth Act Numbered One Hundred\nThirty-Eight, the provisions of Commonwealth Act Numbered Five Hundred Forty-One, insofar as such\nprovisions do not pertain to constructions primarily for national defense or security purposes, Republic Act\nNumbered Nine Hundred Twelve, and Republic Act Numbered Five Thousand One Hundred Eighty-Three:\nProvided, however, That as far as practicable, utilization of services of qualified domestic firms, in the\nprosecution of projects financed under this Act shall be encouraged: Provided, further, That the matter of\npreference in favor of articles, materials or supplies of the growth, production or manufacture of the\nPhilippines, including the method or procedure in the comparison of bids for purposes therefor, shall be the\nsubject of agreement between the Philippine Government and the lending institution.\""
+   }
+  },
+  {
+   "id": "PH-H22015-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Decree shall take effect immediately.\nDONE in the City of Manila, this 27th day of November, in the year of Our Lord, nineteen hundred and\nseventy-four."
+   }
+  }
+ ]
+}

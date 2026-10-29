@@ -1,0 +1,62 @@
+{
+ "id": "PH-H12765",
+ "title": {
+  "zh": null,
+  "en": "An Act Appropriating the Sum of Fifty thousand Pesos, or So Much thereof as May Be Necessary, to Be Expended, Subject to the Approval of the Governor-General, Together With An Equal Amount to Be Contributed By Private Persons Interested in the Development of the Philippine Islands, to Advertise in the United states Philippine Products and Interests, and for Other Purposes.",
+  "orig": "An Act Appropriating the Sum of Fifty thousand Pesos, or So Much thereof as May Be Necessary, to Be Expended, Subject to the Approval of the Governor-General, Together With An Equal Amount to Be Contributed By Private Persons Interested in the Development of the Philippine Islands, to Advertise in the United states Philippine Products and Interests, and for Other Purposes."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1911-02-03",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2058",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 890,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1911/act_2058_1911.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02058_1911_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02058_1911_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12765-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "There is hereby appropriated, out of any funds in the Insular Treasury not otherwise\nappropriated, the sum of fifty-thousand pesos, or so much thereof as may be necessary according to the\nprovisions hereinafter contained, to be expended by the Insular Treasurer, with the prior approval of the\nGovernor-General, in advertising in the United States Philippine products and interests: Provided, however,\nThat only so much of the said sum of fifty thousand pesos shall be expended as above for the said purpose as\nshall equal an amount contributed to said fund by private persons interested in the development of the\nPhilippine Islands. Such amounts so contributed, together with the amount herein appropriated, shall be\nexpended for the said purpose by the Insular Treasurer with the prior approval of the Governor-General."
+   }
+  },
+  {
+   "id": "PH-H12765-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, February 3, 1911."
+   }
+  }
+ ]
+}

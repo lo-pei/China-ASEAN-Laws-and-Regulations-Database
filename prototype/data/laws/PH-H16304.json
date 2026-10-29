@@ -1,0 +1,72 @@
+{
+ "id": "PH-H16304",
+ "title": {
+  "zh": null,
+  "en": "An Act Providing for the Verification Free of Charge By Justices of the Peace as Notaries Ex-Officio, and for Registration Free of Charge By Register of Deeds, of Instruments of Mortgage, Transfer Ob Incumbrance of Any Nature, Executed By a Member of a Cooperative Association in Favor of the Latter.",
+  "orig": "An Act Providing for the Verification Free of Charge By Justices of the Peace as Notaries Ex-Officio, and for Registration Free of Charge By Register of Deeds, of Instruments of Mortgage, Transfer Ob Incumbrance of Any Nature, Executed By a Member of a Cooperative Association in Favor of the Latter."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1940-08-19",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 596",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 774,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00596_1940_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00596_1940_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H16304-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Any justice of the peace, as notary public ex officio, shall render service free of charge to any\nmember of a cooperative association in administering the oath or in the acknowledgment of any deed of\nmortgage, sale, assignment, transfer, or incumbrance of any nature, executed by said member in Favor of the\nassociation, with the value involved docs not Exceed to thousand pesos."
+   }
+  },
+  {
+   "id": "PH-H16304-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Any register of deeds shall make proper entry in the books and records of his office, free of\ncharge, of any instrument of mortgage, sale, assignment, transfer or incumbrance of any nature, executed by a\nmember of a cooperative association in faror of the latter, When the value involved does not exceed two\nthousand pesos."
+   }
+  },
+  {
+   "id": "PH-H16304-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, August 19, 1940."
+   }
+  }
+ ]
+}

@@ -1,0 +1,624 @@
+{
+ "id": "ID-H1382",
+ "title": {
+  "zh": "危险和有毒物质管理法",
+  "en": "Law on the Management of Hazardous and Toxic Substances",
+  "id": "PENGELOLAAN BAHAN BERBAHAYA DAN BERACUN",
+  "orig": "PENGELOLAAN BAHAN BERBAHAYA DAN BERACUN",
+  "vi": "Luật về Quản lý Chất Nguy hại và Độc hại",
+  "th": "พระราชบัญญัติว่าด้วยการจัดการวัตถุอันตรายและมีพิษ",
+  "ms": "Akta tentang Pengurusan Bahan Berbahaya dan Beracun"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02c",
+ "language": "id",
+ "level": "law",
+ "category": "04_劳工与行政法",
+ "status": "active",
+ "promulgatedDate": "2001",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU74-2001",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 41,
+ "chars": 39311,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PP%20NO%2074%20TH%202001.pdf&fl=P04469"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\04_劳工与行政法\\印尼_文本_2001_PENGELOLAAN BAHAN BERBAHAYA DAN BERACUN.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 43 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H1382-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\nDalam Peraturan Pemerintah ini yang dimaksud dengan :\n1. Bahan Berbahaya dan Beracun yang selanjutnya disingkat dengan B3 adalah bahan yang karena\nsifat dan atau konsentrasinya dan atau jumlahnya, baik secara langsung maupun tidak langsung,\ndapat mencemark an dan atau merusak lingkungan hidup, dan atau dapat membahayakan\nlingkungan hidup, kesehatan, kelangsungan hidup manusia serta makhluk hidup lainnya;\n2. Pengelolaan B3 adalah kegiatan yang menghasilkan, mengangkut, mengedarkan, menyimpan,\nmenggunakan dan atau membuang B3;\n3. Registrasi B3 adalah pendaftaran dan pemberian nomor terhadap B3 yang ada di wilayah Republik\nIndonesia;\n4. Penyimpanan B3 adalah teknik kegiatan penempatan B3 untuk menjaga kualitas dan kuantitas B3\ndan atau mencegah dampak negatif B3 terhadap lingkungan hidup, kesehatan manusia, dan\nmakhluk hidup lainnya;\n5. Pengemasan B3 adalah kegiatan mengemas, mengisi atau memasukkan B3 ke dalam suatu\nwadah dan atau kemasan, menutup dan atau menyegelnya;\n6. Simbol B3 adalah gambar yang menunjukkan klasifikasi B3;\n7. Label adalah uraian singkat yang menunjukkan antara lain klasifikasi dan jenis B3;\n8. Pengangkutan B3 adalah kegiatan pemindahan B3 dari suatu tempat ke tempat lain dengan\nmenggunakan sarana angkutan;\n9. B3 terbatas dipergunakan adalah B3 yang dibatasi penggunaan, impor dan atau produksinya;\n10. B3 yang dilarang dipergunakan adalah jenis B3 yang dilarang digunakan, diproduksi, diedarkan\ndan atau diimpor;\n11. Impor B3 adalah kegiatan memasukkan B3 ke dalam daerah kepabeanan Indonesia;\n12. Ekspor B3 adalah kegiatan mengeluarkan B3 dari daerah kepabeanan Indonesia;\n13. Notifikasi untuk ekspor adalah pemberitahuan terlebih dahulu dari otoritas negara pengekspor ke\notoritas negara penerima dan negara transit apabila akan dilaksanakan perpindah an lintas batas\nB3 yang terbatas dipergunakan;\n14. Notifikasi untuk impor adalah pemberitahuan terlebih dahulu dari otoritas negara pengekspor\napabila akan dilaksanakan perpindahan lintas batas untuk B3 yang terbatas dipergunakan dan\nPRESIDEN\nREPUBLIK INDONESIA\natau yang pertama kali diimpor;\n15. Orang …\n15. Orang adalah orang perseorangan, dan atau kelompok orang, dan atau badan hukum;\n16. Instansi yang bertanggung jawab adalah instansi yang bertanggung jawab di bidang pengendalian\ndampak lingkungan;\n17. Instansi yang berwenang ad alah instansi yang berwenang dalam memberikan izin, pengawasan\ndan hal lain yang sesuai dengan bidangnya masing -masing;\n18. Komisi B3 adalah badan independen yang berfungsi memberikan saran dan atau pertimbangan\nkepada Pemerintah dalam pengelolaan B3 di Indonesia;\n19. Gubernur adalah Kepala Daerah Propinsi;\n20. Bupati/Walikota adalah Kepala Daerah Kabupaten/Kota;\n21. Menteri adalah Menteri yang ditugasi untuk mengelola lingkungan hidup."
+   }
+  },
+  {
+   "id": "ID-H1382-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\nPengaturan pengelolaan B3 bertujuan untuk mencegah dan atau m engurangi risiko dampak B3 terhadap\nlingkungan hidup, kesehatan manusia dan makhluk hidup lainnya."
+   }
+  },
+  {
+   "id": "ID-H1382-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\nPengelolaan B3 yang tidak termasuk dalam lingkup Peraturan Pemerintah ini adalah pengelolaan bahan\nradioaktif, bahan pele dak, hasil produksi tambang serta minyak dan gas bumi dan hasil olahannya,\nmakanan dan minuman serta bahan tambahan makanan lainnya, perbekalan kesehatan rumah tangga dan\nkosmetika, bahan sediaan farmasi, narkotika, psikotropika, dan prekursornya serta zat adiktif lainnya,\nsenjata kimia dan senjata biologi."
+   }
+  },
+  {
+   "id": "ID-H1382-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\nSetiap orang yang melakukan kegiatan pengelolaan B3 wajib mencegah terjadinya pencemaran dan atau\nkerusakan lingkungan hidup.\nPRESIDEN\nREPUBLIK INDONESIA\nBAB II …\nBAB II\nKLASIFIKASI B3"
+   }
+  },
+  {
+   "id": "ID-H1382-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\n(1) B3 dapat diklasifikasikan sebagai berikut :\na. mudah meledak (explosive);\nb. pengoksidasi (oxidizing);\nc. sangat mudah sekali menyala (extremely flammable);\nd. sangat mudah menyala (highly flammable);\ne. mudah menyala (flammable);\nf. amat sangat beracun (extremely toxic);\ng. sangat beracun (highly toxic);\nh. beracun (moderately toxic);\ni. berbahaya (harmful);\nj. korosif (corrosive);\nk. bersifat iritasi (irritant);\nl. berbahaya bagi lingkungan (dangerous to the environment);\nm. karsinogenik (carcinogenic);\nn. teratogenik (teratogenic);\no. mutagenik (mutagenic).\n(2) Klasifikasi B3 sebagaimana dimaksud dalam ayat (1) terdiri dari :\na. B3 yang dapat dipergunakan;\nb. B3 yang dilarang dipergunakan; dan\nc. B3 yang terbatas dipergunakan.\n(3) B3 sebagaimana dimaksud dalam ayat (2) tercantum dalam Lampiran Peraturan Pemerintah ini.\nBAB III\nTATA LAKSANA DAN PENGELOLAAN B3"
+   }
+  },
+  {
+   "id": "ID-H1382-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\nPRESIDEN\nREPUBLIK INDONESIA\n(1) Setiap B3 wajib diregistrasikan oleh penghasil dan atau pengimpor .\n(2) Kewajiban registrasi B3 sebagaimana dimaksud dalam ayat (1) berlaku 1 (satu) kali untuk B3 yang\ndihasilkan dan atau diimpor untuk yang pertama kali.\n(3) Registrasi …\n(3) Registrasi B3 sebagaimana dimaksud dalam ayat (1) yang :\na. termasuk dalam ketentua n Pasal 3, diajukan kepada instansi yang berwenang sesuai\ndengan ketentuan peraturan perundang-undangan yang berlaku;\nb. tidak termasuk dalam ketentuan Pasal 3, diajukan kepada instansi yang bertanggung\njawab.\n(4) Instansi yang berwenang yang memberikan n omor registrasi B3 sebagaimana dimaksud dalam\nayat (3) huruf a menyampaikan tembusannya kepada instansi yang bertanggung jawab.\n(5) Instansi yang bertanggung jawab yang memberikan nomor registrasi B3 sebagaimana dimaksud\ndalam ayat (3) huruf b menyampaikan tembusannya kepada instansi yang berwenang.\n(6) Tata cara registrasi sebagaimana dimaksud dalam ayat (5) dan sistem registrasi nasional B3\nditetapkan dengan Keputusan Kepala instansi yang bertanggung jawab."
+   }
+  },
+  {
+   "id": "ID-H1382-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\n(1) Setiap orang yang melakukan kegiat an ekspor B3 yang terbatas dipergunakan, wajib\nmenyampaikan notifikasi ke otoritas negara tujuan ekspor, otoritas negara transit dan instansi yang\nbertanggung jawab.\n(2) Ekspor B3 sebagaimana dimaksud dalam ayat (1) hanya dapat dilaksanakan setelah adanya\npersetujuan dari otoritas negara tujuan ekspor, otoritas negara transit dan instansi yang\nbertanggung jawab.\n(3) Persetujuan dari instansi yang bertanggung jawab sebagaimana dimaksud dalam ayat (2)\nmerupakan dasar untuk penerbitan atau penolakan izin ekspo r dari instansi yang berwenang di\nbidang perdagangan."
+   }
+  },
+  {
+   "id": "ID-H1382-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n(1) Setiap orang yang melakukan kegiatan impor B3 yang terbatas dipergunakan dan atau yang\npertama kali diimpor, wajib mengikuti prosedur notifikasi.\n(2) Notifikasi sebagaimana dimaksud dalam ayat (1), wajib disampaikan oleh otoritas negara\npengekspor kepada instansi yang bertanggung jawab.\nPRESIDEN\nREPUBLIK INDONESIA\n(3) Instansi yang bertanggung jawab wajib memberikan jawaban atas notifikasi sebagaimana\ndimaksud dalam ayat (2) dalam waktu selambat-lambatnya 30 (tiga puluh) hari kerja sejak tanggal\nditerimanya permohonan notifikasi."
+   }
+  },
+  {
+   "id": "ID-H1382-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9 …"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 9\n(1) Setiap orang yang melakukan kegiatan impor B3 yang baru yang tidak termasuk dalam daftar\nsebagaimana dimaksud dalam Pasal 5 ayat (3), wajib mengikuti prosedur notifikasi.\n(2) Notifikasi sebagaimana dimaksud dalam ayat (1) wajib disampaikan oleh otoritas negara\npengekspor kepada instansi yang bertanggung jawab.\n(3) Instansi yang bertanggung jawab sebagaimana dimaksud dalam ayat (2) segera memberitahukan\nkepada Komisi B3 untuk meminta saran dan atau pertimbangan Komisi B3.\n(4) Komisi B3 memberikan saran dan atau pertimbangan kepada instansi yang bertanggung jawab\nmengenai B3 sebagaimana dimaksud dalam Pasal 9 ayat (1).\n(5) Berdasarkan saran dan atau pertimbangan yang diberikan oleh Komisi B3 kepada instansi yang\nbertanggung jawab, maka instansi yang bertanggung jawab:\na. mengajukan perubahan terhadap lampiran Peraturan Pemerintah ini; dan\nb. memberikan persetujuan kepada instansi yan g berwenang di bidang perdagangan sebagai\ndasar untuk penerbitan atau penolakan izin impor."
+   }
+  },
+  {
+   "id": "ID-H1382-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\nTata cara notifikasi sebagaimana dimaksud dalam Pasal 7 ayat (1), Pasal 8 ayat (1) dan Pasal 9 ayat (1)\nditetapkan dengan Keputusan Kepala instansi yang bertanggung jawab."
+   }
+  },
+  {
+   "id": "ID-H1382-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\nSetiap orang yang memproduksi B3 wajib membuat Lembar Data Keselamatan Ba han (Material Safety\nData Sheet)."
+   }
+  },
+  {
+   "id": "ID-H1382-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\nSetiap penanggung jawab pengangkutan, penyimpanan, dan pengedaran B3 wajib menyertakan Lembar\nPRESIDEN\nREPUBLIK INDONESIA\nData Keselamatan Bahan (Material Safety Data Sheet) sebagaimana dimaksud dalam Pasal 11."
+   }
+  },
+  {
+   "id": "ID-H1382-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\n(1) Pengangkutan B3 wajib menggunakan sarana pengangkutan yang laik operasi serta\npelaksanaannya sesuai dengan tata cara pengangkutan yang diatur dalam peraturan\nperundang-undangan yang berlaku.\n(2) Persyaratan …\n(2) Persyaratan sarana pengangkutan dan tata cara pengangku tan sebagaimana dimaksud dalam\nayat (1) ditetapkan oleh instansi yang berwenang di bidang transportasi."
+   }
+  },
+  {
+   "id": "ID-H1382-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\nSetiap B3 yang dihasilkan, diangkut, diedarkan, disimpan wajib dikemas sesuai dengan klasifikasinya."
+   }
+  },
+  {
+   "id": "ID-H1382-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\n(1) Setiap kema san B3 wajib diberikan simbol dan label serta dilengkapi dengan Lembar Data\nKeselamatan Bahan (Material Safety Data Sheet).\n(2) Tata cara pengemasan, pemberian simbol dan label sebagaimana dimaksud dalam ayat (1)\nditetapkan dengan Keputusan Kepala instansi yang bertanggung jawab."
+   }
+  },
+  {
+   "id": "ID-H1382-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\n(1) Dalam hal kemasan B3 mengalami kerusakan untuk :\na. B3 yang masih dapat dikemas ulang, pengemasannya wajib dilakukan oleh pengedar;\nb. B3 yang tidak dapat dikemas ulang dan dapat menimbulkan pencemaran dan atau\nkerusakan lingkungan dan atau keselamatan manusia, maka pengedar wajib melakukan\npenanggulangannya.\n(2) B3 sebagaimana dimaksud dalam ayat (1) huruf a dan huruf b, ditetapkan lebih lanjut dengan\nKeputusan Kepala instansi yang bertanggung jawab.\n(3) Dalam hal Keputusan Kepala instansi yang bertanggung jawab sebagaimana dimaksud dalam ayat\n(2) belum tersedia, maka tata cara penanganan B3 sebagaimana dimaksud dalam ayat (1)\nmengacu kepada kaidah ilmiah yang berlaku."
+   }
+  },
+  {
+   "id": "ID-H1382-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\nPRESIDEN\nREPUBLIK INDONESIA\n(1) Dalam hal simbol dan label mengalami kerusakan wajib diberikan simbol dan label yang baru.\n(2) Tanggung jawab pemberian simbol dan label sebagaimana dimaksud dalam ayat (1) untuk\nkerusakan pada tahap:\na. produksi, tanggung jawabnya ada pada produsen/ penghasil;\nb. pengangkutan, tanggung jawabnya ada pada penanggung jawab kegiatan pengangkutan;\nc. penyimpanan, tangggung jawabnya ada pada penanggung jawab kegiatan penyimpanan.\n(3) Tata cara …\n(3) Tata cara pemberian simbol dan label sebagaimana dimaksud dalam ayat (1) ditetapkan dengan\nKeputusan Kepala instansi yang bertanggung jawab."
+   }
+  },
+  {
+   "id": "ID-H1382-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\n(1) Setiap tempat penyimpanan B3 wajib diberikan simbol dan label.\n(2) Tempat penyimpanan B3 sebagaimana dimaksud dalam ayat (1) wajib memenuhi persyaratan\nuntuk :\na. lokasi;\nb. konstruksi bangunan.\n(3) Kriteria persyaratan tempat penyimpanan B3 sebagaimana dimaksud dalam ayat (2) ditetapkan\nlebih lanjut dengan Keputusan Kepala instansi yang bertanggung jawab."
+   }
+  },
+  {
+   "id": "ID-H1382-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\nPengelolaan tempat penyimpanan B3 sebagaimana dimaksu d dalam Pasal 18 ayat (2) wajib dilengkapi\ndengan sistem tanggap darurat dan prosedur penanganan B3."
+   }
+  },
+  {
+   "id": "ID-H1382-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\nB3 yang kadaluarsa dan atau tidak memenuhi spesifikasi dan atau bekas kemasan, wajib dikelola sesuai\ndengan peraturan perundang-undangan di bidang pengelolaan limbah bahan berbahaya dan beracun.\nBAB IV\nKOMISI B3"
+   }
+  },
+  {
+   "id": "ID-H1382-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\nPRESIDEN\nREPUBLIK INDONESIA\n(1) Dalam rangka pengelolaan B3 dibentuk Komisi B3 yang mempunyai tugas untuk memberikan\nsaran dan atau pertimbangan kepada Pemerintah.\n(2) Komisi B3 sebagaimana dimaksud dalam ayat (1) dapat terdiri dari beberapa Sub Komisi B3.\n(3) Susunan keanggotaan Komisi B3 sebagaimana dimaksud dalam ayat (1) terdiri dari wakil instansi\nyang berwenang, wakil instansi yang bertanggung jawab, wakil instansi yang terkait, wakil\nperguruan tinggi, organisasi lingkungan, dan asosiasi.\n(4) Susunan keanggotaan, tugas, fungsi, dan tata kerja Komisi B3 sebagaimana dimaksud dalam ayat\n(3) ditetapkan dengan Keputusan Presiden.\nBAB V …\nBAB V\nKESELAMATAN DAN KESEHATAN KERJA"
+   }
+  },
+  {
+   "id": "ID-H1382-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\n(1) Setiap orang yang melakukan kegiatan pengelolaan B3 wajib menjaga keselamatan dan\nkesehatan kerja.\n(2) Kewajiban sebagaimana dimaksud dalam ayat (1) dilaksanakan sesuai dengan peraturan\nperundang-undangan yang berlaku.\n(3) Dalam melaksanakan kewajiban seb agaimana dimaksud dalam ayat (1) penanggung jawab\nkegiatan pengelolaan B3 wajib mengikutsertakan peranan tenaga kerjanya.\n(4) Peranan tenaga kerja sebagaimana dimaksud dalam ayat (3) dilaksanakan sesuai dengan\npedoman yang ditetapkan oleh instansi yang berwenang di bidang ketenagakerjaan."
+   }
+  },
+  {
+   "id": "ID-H1382-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\n(1) Untuk menjaga keselamatan dan kesehatan pekerja dan pengawas B3 wajib dilakukan uji\nkesehatan secara berkala.\n(2) Uji kesehatan sebagaimana dimaksud dalam ayat (1) diselenggarakan oleh masing -masing\ninstansi sesuai dengan peraturan perundang-undangan yang berlaku.\nBAB VI\nPENANGGULANGAN KECELAKAAN DAN\nKEADAAN DARURAT\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H1382-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 24\nSetiap orang yang melakukan kegiatan pengelolaan B3 wajib menanggulangi terjadinya kecelakaan dan\natau keadaan darurat akibat B3."
+   }
+  },
+  {
+   "id": "ID-H1382-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\nDalam hal terjadi kecelakaan dan atau keadaan darurat yang diakibatkan B3, maka setiap orang yang\nmelakukan kegiatan pengelolaan B3 sebagaimana dimaksud dalam Pasal 24 wajib mengambil\nlangkah-langkah :\na. mengamankan …\na. mengamankan (mengisolasi) tempat terjadinya kecelakaan;\nb. menanggulangi kecelakaan sesuai dengan prosedur tetap penanggulangan kecelakaan;\nc. melaporkan kecelakaan dan atau keadaan darurat kepada aparat Pemerintah Kabupaten/Kota\nsetempat; dan\nd. memberikan informasi, bantuan, dan melakukan evakuasi terhadap masyarakat di sekitar lokasi\nkejadian."
+   }
+  },
+  {
+   "id": "ID-H1382-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\nAparat Pemerintah Kabupaten/Kota setempat, setelah menerima laporan tentang terjadinya kecelakaan\ndan atau keadaan darurat akibat B3 sebagaiman a dimaksud dalam Pasal 25 huruf c, wajib segera\nmengambil langkah-langkah penanggulangan yang diperlukan."
+   }
+  },
+  {
+   "id": "ID-H1382-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\nKewajiban sebagaimana dimaksud dalam Pasal 26, tidak menghilangkan kewajiban setiap orang yang\nmelakukan kegiatan pengelolaan B3 untuk :\na. mengganti kerugian akibat kecelakaan dan atau keadaan darurat; dan atau\nb. memulihkan kondisi lingkungan hidup yang rusak atau tercemar;\nyang diakibatkan oleh B3.\nBAB VII\nPENGAWASAN DAN PELAPORAN"
+   }
+  },
+  {
+   "id": "ID-H1382-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\nPRESIDEN\nREPUBLIK INDONESIA\n(1) Wewenang pengawasan terhadap kegiatan peng elolaan B3 dilakukan oleh instansi yang\nbertanggung jawab dan instansi yang berwenang sesuai dengan bidang tugasnya masing -masing.\n(2) Dalam hal tertentu, wewenang pengawasan terhadap kegiatan pengelolaan B3 sebagaimana\ndimaksud dalam ayat (1) dapat diserahkan menjadi urusan daerah Propinsi/Kabupaten/Kota.\n(3) Penyerahan wewenang pengawasan sebagaimana dimaksud dalam ayat (2) ditetapkan oleh\ninstansi yang bertanggung jawab dan atau instansi yang berwenang di bidang tugasnya\nmasing-masing."
+   }
+  },
+  {
+   "id": "ID-H1382-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29 …"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 29\nPengawas dalam melaksanakan pengawasan terhadap kegiatan pengelolaan B3 sebagaimana dimaksud\ndalam Pasal 28 ayat (1), wajib dilengkapi tanda pengenal dan surat tugas yang dikeluarkan oleh instansi\nyang bertanggung jawab dan instansi yang berwenan g sesuai dengan bidang tugasnya masing-masing."
+   }
+  },
+  {
+   "id": "ID-H1382-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\nSetiap orang yang melakukan kegiatan pengelolaan B3 wajib:\na. mengizinkan pengawas untuk memasuki lokasi kerja dan membantu terlaksananya tugas\npengawasan;\nb. mengizinkan pengawas untuk mengambil contoh B3;\nc. memberikan keterangan dengan benar baik lisan maupun tertulis;\nd. mengizinkan pengawas untuk melakukan pemotretan di lokasi kerja dan atau mengambil gambar."
+   }
+  },
+  {
+   "id": "ID-H1382-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\nSetiap orang yang melakukan kegiatan pengelolaan B3 wajib menyampaikan lapor an tertulis tentang\npengelolaan B3 secara berkala sekurang -kurangnya setiap 6 (enam) bulan kepada instansi yang\nbertanggung jawab dan instansi yang berwenang di bidang tugas masing -masing dengan tembusan\nkepada Gubernur/Bupati/ Walikota.\nBAB VIII\nPENINGKATAN KESADARAN MASYARAKAT\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H1382-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 32\nGubernur/Bupati/Walikota/Kepala Instansi yang bertanggung jawab dan Pimpinan instansi yang\nberwenang, dapat meningkatkan kesadaran masyarakat terhadap potensi dampak yang akan timbul\nterhadap lingkungan hidup, kesehatan manusia dan makhluk hidup lainnya akibat adanya kegiatan\npengelolaan B3."
+   }
+  },
+  {
+   "id": "ID-H1382-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 33\nSetiap orang yang melakukan pengelolaan B3 wajib meningkatkan kesadaran masyarakat terhadap\npotensi dampak B3 yang akan tim bul terhadap lingkungan hidup, kesehatan manusia, dan makhluk hidup\nlainnya akibat adanya kegiatan pengelolaan B3."
+   }
+  },
+  {
+   "id": "ID-H1382-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34 …"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 34\nPeningkatan kesadaran masyarakat sebagaimana dimaksud dalam Pasal 32 dan Pasal 33 dapat dilakukan\ndengan penyebarluasan pemahaman tentang B3.\nBAB IX\nKETERBUKAAN INFORMASI DAN\nPERAN MASYARAKAT"
+   }
+  },
+  {
+   "id": "ID-H1382-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 35\n(1) Masyarakat mempunyai hak untuk mendapatkan informasi tentang upaya pengendalian dampak\nlingkungan hidup akibat kegiatan pengelolaan B3.\n(2) Informasi sebagaimana dimaks ud dalam ayat (1), wajib disediakan oleh penanggung jawab\nkegiatan pengelolaan B3.\n(3) Penyediaan informasi sebagaimana dimaksud dalam ayat (2) dapat disampaikan melalui media\ncetak, media elektronik dan atau papan pengumuman."
+   }
+  },
+  {
+   "id": "ID-H1382-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 36\nSetiap orang mempunyai hak untuk berperan dalam rangka pengelolaan B3 sesuai dengan peraturan\nPRESIDEN\nREPUBLIK INDONESIA\nperundang-undangan yang berlaku.\nBAB X\nPEMBIAYAAN"
+   }
+  },
+  {
+   "id": "ID-H1382-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 37\nBiaya untuk melakukan kegiatan sebagaimana dimaksud dalam :\na. Pasal 6 ayat (6), Pasal 10, Pasal 13 ayat (2), Pasal 15 ayat (3), Pasal 16 ayat (2), Pasal 17 ayat (3)\n,Pasal 18 ayat (3), Pasal 21 ayat (4), Pasal 22 ayat (4), Pasal 23 ayat (2), Pasal 28 ayat (1) dan\nPasal 32, dibebankan pada Anggaran Pendapatan dan Belanja Negara (APBN) dan atau sumber\ndana lain sesuai dengan peraturan perundang-undangan yang berlaku;\nb. Pasal …\nb. Pasal 26, Pasal 28 ayat (2) dan Pasal 32 dibebankan pada Anggaran Pendapatan dan Belanja\nDaerah (APBD) dan atau sumber dana lain sesuai dengan peraturan perundang -undangan yang\nberlaku.\nBAB XI\nSANKSI ADMINISTRASI"
+   }
+  },
+  {
+   "id": "ID-H1382-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 38\n(1) Pelanggaran terhadap ketentuan Pasal 4, Pasal 6 ayat (1), Pasal 7 ayat (1), Pasal 8 ayat (1),\nPasal 9 ayat (1), Pasal 11, Pasal 12, Pasal 13 ayat (1), Pasal 14, Pasal 15 ayat (1), Pasal 16 a yat\n(1), Pasal 17 ayat (1) dan ayat (2), Pasal 18 ayat (1) dan ayat (2), Pasal 19, Pasal 20, Pasal 22,\nPasal 23, Pasal 24, Pasal 25, Pasal 30, Pasal 31, Pasal 33, dan Pasal 35 dikenakan sanksi\nadministrasi.\n(2) Sanksi administrasi sebagaimana dimaksud dala m ayat (1) dilakukan berdasarkan berat dan\nringannya jenis pelanggaran sesuai dengan peraturan perundang -undangan yang berlaku.\nBAB XII\nGANTI KERUGIAN\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H1382-A39",
+   "no": 39,
+   "noLabel": {
+    "id": "Pasal 39"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 39\n(1) Penanggung jawab usaha dan atau kegiatan yang usaha dan kegiatannya menimbulkan dampak\nbesar dan penting terhadap lingkungan hidup, yang menggunakan bahan berbahaya dan beracun,\ndan atau menghasilkan limbah bahan berbahaya dan beracun, bertanggung jawab secara mutlak\natas kerugian yang ditimbulkan, dengan kewajiban membayar ganti kerugian sec ara langsung dan\nseketika pada saat terjadinya pencemaran dan atau perusakan lingkungan hidup.\n(2) Penanggung jawab usaha dan atau kegiatan dapat dibebaskan dari kewajiban membayar ganti\nkerugian sebagaimana dimaksud dalam ayat (1) jika yang bersangkutan d apat membuktikan\nbahwa pencemaran dan atau perusakan lingkungan hidup disebabkan salah satu alasan di bawah\nini :\na. adanya bencana alam atau peperangan; atau\nb. adanya keadaan terpaksa di luar kemampuan manusia; atau\nc. adanya tindakan pihak ketiga yan g menyebabkan terjadinya pencemaran dan atau\nperusakan lingkungan hidup.\n(3) Dalam …\n(3) Dalam hal terjadi kerugian yang disebabkan oleh pihak ketiga sebagaimana dimaksud dalam ayat\n(2) huruf c, pihak ketiga bertanggung jawab membayar ganti kerugian.\nBAB XIII\nKETENTUAN PIDANA"
+   }
+  },
+  {
+   "id": "ID-H1382-A40",
+   "no": 40,
+   "noLabel": {
+    "id": "Pasal 40"
+   },
+   "chapter": {
+    "id": "BAB XIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 40\nSetiap orang yang melanggar ketentuan Pasal 4, Pasal 6 ayat (1), Pasal 11, Pasal 12, Pasal 13 ayat (1),\nPasal 14, Pasal 15 ayat (1), Pasal 16 ayat (1), Pasal 17 ayat (1), Pasal 18 ayat (1) dan ayat (2),\nPasal 19, Pasal 20 , Pasal 22, dan Pasal 24 yang mengakibatkan terjadinya pencemaran dan atau\nperusakan lingkungan hidup, diancam dengan pidana sebagaimana dimaksud dalam Pasal 41, Pasal 42,"
+   }
+  },
+  {
+   "id": "ID-H1382-A43",
+   "no": 43,
+   "noLabel": {
+    "id": "Pasal 43, Pasal 44, Pasal 45, Pasal 46, "
+   },
+   "chapter": {
+    "id": "BAB XIII"
+   },
+   "heading": {
+    "id": ", Pasal 44, Pasal 45, Pasal 46, dan Pasal 47 Undang -undang Nomor 23 Tahun 19 97 tentang"
+   },
+   "text": {
+    "id": "Pasal 43, Pasal 44, Pasal 45, Pasal 46, dan Pasal 47 Undang -undang Nomor 23 Tahun 19 97 tentang\nPengelolaan Lingkungan Hidup.\nBAB XIV\nKETENTUAN PERALIHAN\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 41\nApabila pada saat diundangkan Peraturan Pemerintah ini :\na. masih terdapat B3 yang dilarang dipergunakan di Indonesia, maka B3 tersebut dapat diekspor ke\nnegara yang memerlukannya sesuai dengan mekanisme ekspor yang berlaku;\nb. terdapat B3 yang telah beredar tetapi belum diregistrasikan maka wajib diregistrasikan o leh\npenyimpan, pengedar dan atau pengguna menurut ketentuan sebagaimana dimaksud dalam Pasal\n6 ayat (3).\nPasal 42\nPada saat berlakunya Peraturan Pemerintah ini semua peraturan perundang -undangan yang berkaitan\ndengan pengelolaan B3 yang telah ada dinyatak an tetap berlaku sepanjang tidak bertentangan dengan\ndan belum diganti berdasarkan Peraturan Pemerintah ini.\nBAB XV …\nBAB XV\nKETENTUAN PENUTUP\nPasal 43\nPeraturan Pemerintah ini mulai berlaku 6 (enam) bulan sejak tanggal diundangkan.\nAgar setiap oran g mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan\npenempatannya dalam Lembaran Negara Republik Indonesia.\nDitetapkan di Jakarta\npada tanggal 26 November 2001\nPRESIDEN REPUBLIK INDONESIA,\nttd\nMEGAWATI SOEKARNOPUTRI\nDiundangkan di Jakarta\npada tanggal 26 November 2001\nSEKRETARIS NEGARA REPUBLIK INDONESIA,\nttd.\nPRESIDEN\nREPUBLIK INDONESIA\nBAMBANG KESOWO\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2001 NOMOR 138\nPRESIDEN\nREPUBLIK INDONESIA\nPENJELASAN\nATAS\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nNOMOR 74 TAHUN 2001\nTENTANG\nPENGELOLAAN BAHAN BERBAHAYA DAN BERACUN\nUMUM\nMeningkatnya kegiatan pembangunan di Indonesia dapat mendorong peningkatan penggunaan bahan\nberbahaya dan beracun (B3) di berbagai sektor seperti industri, pertambangan, pertanian dan kesehatan.\nB3 tersebut da pat berasal dari dalam negeri maupun dari luar negeri (impor). B3 yang dihasilkan dari\ndalam negeri, juga ada yang diekspor ke suatu negara tertentu. Proses impor dan ekspor ini semakin\nmudah untuk dilakukan dengan masuknya era globalisasi.\nSelama tiga dekade terakhir,penggunaan dan jumlah B3 di Indonesia semakin meningkat. Penggunaan B3\nyang terus meningkat dan tersebar luas di semua sektor apabila pengelolaannya tidak dilakukan dengan\nbaik, maka akan dapat menimbulkan kerugian terhadap kesehatan manusia, mahluk hidup lainnya dan\nlingkungan hidup, seperti pencemaran udara, pencemaran tanah, pencemaran air, dan pencemaran laut.\nAgar pengelolaan B3 tidak mencemari lingkungan hidup dan untuk mencapai derajat keamanan yang\ntinggi, dengan berpijak pada prinsip -prinsip pembangunan berkelanjutan dan peningkatan kualitas hidup\nmanusia, maka diperlukan peningkatan upaya pengelolaannya dengan lebih baik dan terpadu.\nKebijaksanaan pengelolaan B3 yang ada saat ini masih diselenggarakan secara parsial oleh berbagai\ninstansi terkait, sehingga dalam penerapannya masih banyak menemukan kendala. Oleh karena itu, maka\nsemakin disadari perlunya Peraturan Pemerintah tentang Pengelolaan B3 secara terpadu yang meliputi\nkegiatan produksi, penyimpanan, pengemasan, pemberian simbol dan label, pengangkutan, penggunaan,\nimpor, ekspor dan pembuangannya. Pentingnya penyusunan Peraturan Pemerintah ini secara tegas juga\ndisebutkan dalam Agenda 21 Indonesia, Strategi Nasional Untuk Pembangunan Berkelanjutan dan\nsebagai pelaksanaan dari Pas al 17 ayat (3) Undang -undang Nomor 23 Tahun 1997 tentang Pengelolaan\nLingkungan Hidup.\nPASAL …\nPRESIDEN\nREPUBLIK INDONESIA\nPASAL DEMI PASAL\nPasal 1\nAngka 1\nCukup jelas\nAngka2\nCukup jelas\nAngka 3\nRegistrasi bertujuan untuk mengetahui jumlah B3 yang beredar di Indonesia agar\ndapat dilakukan pengawasan dari awal sehingga dapat mengurangi dampak negatif terhadap\nlingkungan hidup, kesehatan manusia dan makhluk hidup lainnya. Registrasi merupakan langka h\nawal dalam pengelolaan B3.\nAngka 4\nCukup jelas\nAngka 5\nCukup jelas\nAngka 6\nContoh B3 yang mudah terbakar dengan simbol api.\nAngka 7\nLabel misalnya tulisan mudah meledak dan mudah terbakar.\nAngka 8\nCukup jelas\nAngka 9\nCukup jelas\nAngka 10\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nAngka 11 …\nAngka 11\nCukup jelas\nAngka 12\nCukup jelas\nAngka 13\nCukup jelas\nAngka 14\nCukup jelas\nAngka 15\nCukup jelas\nAngka 16\nCukup jelas\nAngka 17\nCukup jelas\nAngka 18\nCukup jelas\nAngka 19\nCukup jelas\nAngka 20\nCukup jelas\nAngka 21\nCukup jelas\nPasal 2\nPRESIDEN\nREPUBLIK INDONESIA\nCukup jelas\nPasal 3 …\nPasal 3\nCukup jelas\nPasal 4\nCukup jelas\nPasal 5\nAyat (1)\nUntuk dapat mengelola B3 dengan b aik dan benar maka perlu diketahui klasifikasi\nB3 tersebut. Penjelasan klasifikasi dimaksud sebagai berikut :\na. Mudah meledak (explosive), adalah bahan yang pada suhu dan tekanan\nstandar (25 derajat C, 760 mmHg) dapat meledak atau melalui reaksi kimia\ndan atau fisika dapat menghasilkan gas dengan suhu dan tekanan tinggi\nyang dengan cepat dapat merusak lingkungan di sekitarnya. Pengujiannya\ndapat dilakukan dengan menggunakan Differential Scanning Calorymetry\n(DSC) atau Differential Thermal Analysis (DTA), 2,4-dinitrotoluena atau\nDibenzoil-peroksida sebagai senyawa acuan. Dari hasil pengujian tersebut\nakan diperoleh nilai temperatur pemanasan. Apabila nilai temperatur\npemanasan suatu bahan lebih besar dari senyawa acuan, maka bahan\ntersebut diklasifikasikan mudah meledak.\nb. Pengoksidasi (oxidizing)\nPengujian bahan padat yang termasuk dalam kriteria B3\npengoksidasi dapat dilakukan dengan metoda uji pembakaran\nmenggunakan ammonium persulfat sebagai senyawa standar. Sedangkan\nuntuk bahan berupa cairan, s enyawa standar yang digunakan adalah\nlarutan asam nitrat. Dengan pengujian tersebut, suatu bahan dinyatakan\nsebagai B3 pengoksidasi apabila waktu pembakaran bahan tersebut sama\natau lebih pendek dari waktu pembakaran senyawa standar.\nc. Sangat mudah seka li menyala (extremely flammable) adalah B3 baik\nberupa padatan maupun cairan yang memiliki titik nyala dibawah 0 derajat\nPRESIDEN\nREPUBLIK INDONESIA\nC dan titik didih lebih rendah atau sama dengan 35 derajat C.\nd. Sangat …\nd. Sangat mudah menyala (highly flammable) adalah B3 baik berupa padatan\nmaupun cairan yang memiliki titik nyala 0 derajat C – 21 derajat C.\ne. Mudah menyala (flammable) mempunyai salah satu sifat sebagai berikut :\n1. Berupa cairan\nBahan berupa caira n yang mengandung alkohol\nkurang dari 24% volume dan atau pada titik nyala (flash point)\ntidak lebih dari 60 derajat C (140 derajat F) akan menyala\napabila terjadi kontak dengan api, percikan api atau sumber\nnyala lain pada tekanan udara 760 mmHg. Pengujiannya dapat\ndilakukan dengan metode Closed-Up Test.\n2. Berupa padatan\nB3 yang bukan berupa cairan, pada temperatur\ndan tekanan standar (25 derajat C, 760 mmHg) dengan mudah\nmenyebabkan terjadinya kebakaran melalui gesekan,\npenyerapan uap air atau perubahan kimia secara spontan dan\napabila terbakar dapat menyebabkan kebakaran yang terus\nmenerus dalam 10 detik. Selain itu, suatu bahan padatan\ndiklasifikasikan B3 mudah terbakar apabila dalam pengujian\ndengan metode Seta Closed -Cup Flash Point Test diperoleh titik\nnyala kurang dari 40 derajat C.\nf. Cukup jelas\ng. Cukup jelas\nh. Beracun (moderately toxic)\nB3 yang bersifat racun bagi manusia akan menyebabkan\nkematian atau sakit yang serius apabila masuk ke dalam tubuh melalui\npernafasan, kulit atau mulut.\nPRESIDEN\nREPUBLIK INDONESIA\nTingkatan …\nTingkatan racun B3 dikelompokkan sebagai berikut :\nUrutan Kelompok LD50 derajat (mg/kg)\n1 Amat sangat beracun (extremely toxic) < 1\n2 Sangat beracun (highly toxic) 1 – 50\n3 Beracun (moderately toxic) 51 -500\n4 Agak beracun (slightly toxic) 501 -5.000\n5 Praktis tidak beracun (practically non-toxic) 5001 -15.000\n6 Relatif tidak berbahaya (relatively harmless) > 15.000\ni. Berbahaya (harmful) adalah bahan baik padatan maupun cairan ataupun\ngas yang jika terjadi kontak atau melalui inhalasi ataupun oral dapat\nmenyebabkan bahaya terhadap kesehatan sampai tingkat tertentu.\nj. Korosif (corrosive)\nB3 yang bersifat korosif mempunyai sifat antara lain :\n1) Menyebabkan iritasi (terbakar) pada kulit;\n2) Menyebabkan proses pengkaratan pada lempeng baja SAE 1020\ndengan laju korosi lebih besar dari 6,35 mm/tahun dengan\ntemperatur pengujian 55 derajat C;\n3) Mempunyai pH sama a tau kurang dari 2 untuk B3 bersifat asam\ndan sama atau lebih besar dari 12,5 untuk yang bersifat basa.\na. Bersifat iritasi (irritant)\nBahan baik padatan maupun cairan yang jika\nterjadi kontak secara langsung, dan apabila kontak\ntersebut terus menerus dengan kulit atau selaput lendir\ndapat menyebabkan peradangan.\nb. Berbahaya bagi lingkungan (dangerous to the\nenvironment)\nBahaya yang ditimbulkan oleh suatu bahan\nPRESIDEN\nREPUBLIK INDONESIA\nseperti merusak lapisan ozon (misalnya CFC), persisten di\nlingkungan (misalnya PCBs), atau bahan tersebut dapat\nmerusak lingkungan.\nc. Karsinogenik …\nc. Karsinogenik (carcinogenic) adalah sifat bahan penyebab\nsel kanker, y akni sel liar yang dapat merusak jaringan\ntubuh.\nd. Teratogenik (teratogenic) adalah sifat bahan yang dapat\nmempengaruhi pembentukan dan pertumbuhan embrio.\ne. Mutagenik (mutagenic) adalah sifat bahan yang\nmenyebabkan perubahan kromosom yang berarti dapa t\nmerubah genetika.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nPasal 6\nAyat (1)\nRegistrasi B3 dapat dilakukan dengan cara, antara lain, melalui surat menyurat\nataupun melalui e-mail.\nAyat (2)\nCukup jelas\nAyat (3)\nHuruf a\nYang dimaksud sesuai dengan ketentuan peraturan perundang -undangan\nyang berlaku adalah, antara lain, untuk hasil produksi tambang, minyak dan gas bumi, serta hasil\nolahannya diatur dalam peraturan perundang -undangan di bidang energi dan sumber daya\nmineral.\nHuruf b\nPRESIDEN\nREPUBLIK INDONESIA\nCukup jelas\nAyat (4)\nPenyampaian tembusan kepada instansi yang bertanggung jawab dimaksudkan\nsebagai wujud koordinasi agar impor dan peredaran B3 dapat diketahui oleh instansi yang\nbertanggung jawab.\nAyat (5) …\nAyat (5)\nCukup jelas\nAyat (6)\nDalam penetapan sistem registrasi nasional, instansi yang bertanggung jawab\nakan membuat pedoman tentang tata cara registrasi yang antara lain memuat sistem registrasi,\nmuatan data yang perlu disampaikan oleh penghasil dan atau pengimp or kepada instansi yang\nbertanggung jawab tentang pembuatan nomor registrasi.\nPemberian nomor registrasi tersebut diperlukan sebagai alat kontrol terhadap\nperedaran B3 di Indonesia, sehingga dapat dengan mudah dilakukan pengawasan dan\npencegahan terjadinya dampak B3 terhadap lingkungan hidup.\nPasal 7\nCukup jelas\nPasal 8\nAyat (1)\nCukup jelas\nAyat (2)\nOtoritas negara pengekspor adalah instansi yang berwenang di bidang lingkungan\nhidup dari negara pengekspor.\nAyat (3)\nCukup jelas\nPasal 9\nAyat (1)\nPRESIDEN\nREPUBLIK INDONESIA\nB3 baru adalah B3 yang baru pertama kali diimpor dan belum termasuk dalam\ndaftar B3 sebagaimana tercantum dalam lampiran Peraturan Pemerintah ini.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4) …\nAyat (4)\nCukup jelas\nAyat (5)\nHuruf a\nPerubahan lampiran Peraturan Pemerintah ini dilakukan dalam waktu\ntertentu.\nHuruf b\nBerdasarkan ketentuan internasional, instansi yang berwenang dalam\nmemberikan notifikasi B3 adalah instansi yang bertanggung jawab. Sedangkan kewenangan\nmenerbitkan izin impor merupakan kewenangan instansi yang berwenang di bidang perdagangan.\nOleh karena itu, notifikasi tersebut perlu diteruskan ke instansi tersebut untuk penerbitan atau\npenolakan izin impor.\nPenerbitan izin tersebut diberikan setelah perubahan terhadap lampiran\nPeraturan Pemerintah ini selesai dilakukan.\nPasal 10\nCukup jelas\nPasal 11\nLembar Data Keselamatan Bahan (Material Safety Data Sheet) berisi :\na. merek dagang;\nb. rumus kimia B3;\nc. jenis B3;\nd. klasifikasi B3;\ne. teknik penyimpanan; dan\nPRESIDEN\nREPUBLIK INDONESIA\nf. tata cara penanganan bila terjadi kecelakaan.\nPasal 12\nCukup jelas.\nPasal 13\nCukup jelas\nPasal 14 …\nPasal 14\nCukup jelas\nPasal 15\nAyat (1)\nKemasan adalah tempat atau wadah untuk menyimpan, mengangkut dan\nmengedarkan B3.\nLembar Data Keselamatan Bahan (Material Safety Data Sheet) dapat diperbanyak\ndengan cara menggandakan Lembar Data Keselamatan Bahan (Material Safety Data Sheet)\nsesuai dengan kebutuhan.\nPemberian simbol dan label pada setiap kemasan B3 dimaksudkan untuk\nmengetahui klasifikasi B3 sehingga pengelolaannya dapat dilakukan dengan baik guna\nmengurangi risiko yang dapat ditimbulkan dari B3.\nAyat (2)\nKetentuan tentang cara pengemasan, pemberian simbol dan label yang akan\nditetapkan oleh Kepala instansi yang bertanggung jawab disesuaikan dengan peraturan\nperundang-undangan yang berlaku.\nPasal 16\nAyat (1)\nCukup jelas\nAyat (2)\nPengertian B3 yang dimaksud meliputi B 3 yang masih dapat dikemas ulang dan\nPRESIDEN\nREPUBLIK INDONESIA\nB3 yang tidak dapat dikemas ulang.\nAyat (3)\nKaidah ilmiah yang dimaksud adalah seperti hand book, text book, dan manual.\nPasal 17\nCukup jelas\nPasal 18 …\nPasal 18\nAyat (1)\nTempat penyimpanan yang sesuai dengan persyaratan adalah suatu tempat\ntersendiri yang dirancang sesuai dengan karakteristik B3 yang disimpan misalnya B3 yang reaktif\n(reduktor kuat) tidak dapat dicampur dengan asam mineral pengoksidasi karena dapat\nmenimbulkan panas, gas beracun dan api. Juga tempat penyimpanan B3 harus dapat menampung\njumlah B3 yang akan disimpan. Misalnya suatu kegiatan industri yang menghasilkan B3 harus\nmenyimpan B3 ditempat penyimpanan B3 yang mempunyai kapasitas yang sesuai dengan B3\nyang akan disimpan dan memenuhi persyaratan teknis kesehatan dan perlindungan lingkungan.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nPasal 19\nSistem tanggap darurat adalah mekanisme atau prosedur untuk menanggulangi terjadinya\nmalapetaka dalam pengelolaan B3 yang memerlukan kecepatan dan ketepatan penanganan,\nsehingga bahaya yang terjadi dapat ditekan sekecil mungkin.\nPasal 20\nB3 kadaluarsa adalah B3 yang karena kesalahan dalam penanganannya (handling)\nmenyebabkan terjadinya perubahan komposisi dan atau karakteristik sehingga B3 tersebut tidak\nsesuai lagi dengan spesifikasinya. Sedangkan B3 yang tidak memenuhi spesifikasi adalah B3 yang\nPRESIDEN\nREPUBLIK INDONESIA\ndalam proses produksinya tidak sesuai dengan yang diinginkan/ditentukan.\nPasal 21\nAyat (1)\nPemerintah yang dimaksud adalah instansi yang berwenang di bidangnya seperti\nperhubungan, pertanian, perindustrian dan perdagangan, energi dan sumber daya mineral, dan\nkesehatan.\nAyat (2)\nContoh Sub Komisi B3 antara lain Sub Komisi Pestisida.\nAyat (3) …\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nPasal 22\nAyat (1)\nCukup jelas\nAyat (2)\nPeraturan perundang -undangan yang berla ku adalah peraturan\nperundang-undangan di bidang keselamatan dan kesehatan kerja.\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nPasal 23\nAyat (1)\nUji kesehatan untuk pekerja dan pengawas B3 dilaksanakan sekurang -kurangnya\n1 (satu) kali dalam 1 (satu) tahun, dengan maksud untuk mengetahui sedini mungkin terjadinya\nPRESIDEN\nREPUBLIK INDONESIA\nkontaminasi oleh zat/senyawa kimia B3 terhadap pekerja dan pengawas.\nAyat (2)\nCukup jelas\nPasal 24\nKecelakaan B3 adalah lepasnya atau tumpahnya B3 ke lingkungan. Untuk menc egah\nmeluasnya dampak B3 tersebut, kecelakaan B3 perlu ditanggulangi dengan cepat dan tepat.\nKeadaan darurat adalah eskalasi atau peningkatan kecelakaan B3 sehingga\nmembutuhkan penanganan yang lebih komprehensif.\nPasal 25 …\nPasal 25\nHuruf a\nCukup jelas\nHuruf b\nCukup jelas\nHuruf c\nAparat Pemerintah Kabupaten/Kota setempat antara lain adalah aparat\nkecamatan dan atau aparat desa/lurah.\nHuruf d\nCukup jelas\nPasal 26\nLangkah-langkah penanggu langan antara lain dapat berupa instruksi yang diberikan\naparat pemerintah daerah kepada masyarakat untuk menghindar dari lokasi kejadian dan menuju\nke tempat yang lebih aman.\nPasal 27\nCukup jelas\nPasal 28\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (1)\nWewenang pengawasan masih dilakukan oleh Pemerintah Pusat karena\npengelolaan B3 banyak berkaitan dengan lintas batas propinsi dan atau lintas batas negara.\nYang dimaksud sesuai dengan bidang tugasnya masing -masing misalnya di\nbidang pengangkutan dilakukan oleh instansi yang bertang gung jawab di bidang perhubungan,\ndan di bidang lingkungan hidup dilakukan oleh instansi yang bertanggung jawab di bidang\nlingkungan hidup.\nAyat (2)\nHal tertentu adalah keadaan di mana Pemerintah Daerah sudah mampu\nmelaksanakan pengawasan di bidang pengelolaan B3.\nAyat (3) …\nAyat (3)\nCukup jelas\nPasal 29\nTanda pengenal dan surat tugas ini penting untuk menghindari adanya petugas -petugas\npengawas palsu, atau untuk mencegah terjadinya penyalahgunaan wewenang. Tanda pengenal\nminimal memuat nam a, nomor induk pegawai, foto yang bersangkutan serta nama instansi\npemberi tugas.\nPasal 30\nCukup jelas\nPasal 31\nCukup jelas\nPasal 32\nPotensi dampak yang perlu diberitahukan kepada masyarakat bukan hanya dampak\nnegatifnya saja tetapi juga dampak positif dari adanya usaha dan atau kegiatan pengelolaan B3\ntersebut.\nPasal 33\nPRESIDEN\nREPUBLIK INDONESIA\nCukup jelas\nPasal 34\nPenyebarluasan pemahaman tentang B3 dapat dilakukan antara lain melalui kegiatan\npenyuluhan dan pelatihan.\nPasal 35\nAyat (1)\nHak atas informasi tentang kegiatan di bidang pengelolaan B3 merupakan\nkonsekuensi logis dari hak dan peran masyarakat dalam pengelolaan B3 yang berdasarkan pada\nazas keterbukaan. Hak atas informasi tersebut akan meningkatkan nilai dan efektivitas peran\nmasyarakat dalam pengelolaan B3, di samping akan membuka peluang bagi masyarakat\nuntuk\nmengaktualisasikan …\nmengaktualisasikan haknya atas lingkungan hidup yang baik dan sehat. Informasi tersebut dapat\nberupa data, keterangan, atau informasi lain y ang berkenaan dengan pengelolaan B3 yang\nmenurut sifat dan tujuannya memang terbuka untuk diketahui masyarakat, seperti dokumen\nanalisis dampak lingkungan hidup, laporan dan evaluasi hasil pemantauan pengelolaan B3, baik\npemantauan penaatan maupun pemantauan perubahan kualitas lingkungan hidup.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nPasal 36\nPeran dimaksud meliputi per an dalam proses pengambilan keputusan, baik dengan cara\nmengajukan keberatan, maupun dengar pendapat atau dengan cara lain yang ditentukan dalam\nperaturan perundang -undangan. Peran tersebut dilakukan antara lain dalam proses penilaian\nanalisis mengenai dam pak lingkungan hidup atau perumusan kebijaksanaan lingkungan hidup.\nPelaksanaannya didasarkan pada prinsip keterbukaan. Dengan keterbukaan dimungkinkan\nmasyarakat ikut memikirkan dan memberikan pandangan serta pertimbangan dalam pengambilan\nkeputusan di bidang pengelolaan B3.\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 37\nSumber dana lain adalah seperti dana lingkungan atau dana bantuan dari\norganisasi/asosiasi tertentu.\nPasal 38\nCukup jelas\nPasal 39\nAyat (1)\nPengertian bertanggung jawab secara mutlak atau strict liability, yakni unsur\nkesalahan tidak perlu dibuktikan oleh pihak penggugat sebagai dasar pembayaran ganti kerugian.\nKetentuan ayat ini merupakan lex specialis dalam gugatan tentang perbuatan melanggar hukum\npada umumnya. Besarnya nilai ganti kerugian yang dapat dibebank an terhadap pencemar atau\nperusak lingkungan hidup menurut pasal ini dapat ditetapkan sampai batas tertentu.\nYang …\nYang dimaksudkan sampai batas tertentu, adalah jika menurut penetapan\nperaturan perundang-undangan yang berlaku, ditentukan keharusan asuransi bagi usaha dan atau\nkegiatan yang bersangkutan atau telah tersedia dana lingkungan hidup.\nAyat (2)\nCukup jelas\nAyat (3)\nYang dimaksud tindakan pihak ketiga dalam ayat ini merupakan perbuatan\npersaingan curang atau kesalahan yang dilakukan Pemerintah.\nPasal 40\nCukup jelas\nPasal 41\nCukup jelas\nPasal 42\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 43\nCukup jelas\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 4153"
+   }
+  }
+ ]
+}

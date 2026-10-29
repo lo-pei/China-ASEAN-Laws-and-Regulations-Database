@@ -1,0 +1,232 @@
+{
+ "id": "PH-H17745",
+ "title": {
+  "zh": null,
+  "en": "MALACAÑAN PALACE UPDATING THE GOVERNMENT DATA CLASSIFICATION, ESTABLISHING A DATA RESIDENCY FRAMEWORK, AND FOR OTHER PURPOSES",
+  "orig": "MALACAÑAN PALACE UPDATING THE GOVERNMENT DATA CLASSIFICATION, ESTABLISHING A DATA RESIDENCY FRAMEWORK, AND FOR OTHER PURPOSES"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p157",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Executive Order No. 119",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 19,
+ "chars": 15091,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/07_行政命令_EO/EO_00119_2026.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 19 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 EO_00119_2026.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H17745-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Coverage. This Order shall cover all government data in digital or\nhybrid form, owned, processed, or controlled by national government agencies and\ninstrumentalities, including government-owned or -controlled corporations, and state\nuniversities and colleges, insofar as it is consistent with existing laws, rules, and\nregulations. The Legislature, Judiciary, Constitutional Commissions, Office of the\nOmbudsman, and local government units are hereby encouraged to adopt the provisions\nof this Order."
+   }
+  },
+  {
+   "id": "PH-H17745-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Applicability to Private Sector Data and Responsibility of\nGovernment Agencies. This Order does not apply to the private sector or commercial\ndata owned by private entities. However, this Order applies to government data or\ninformation processed or stored by private entities, including those engaged in\npublic-private partnerships, public services, public utilities, critical infrastructure, or\nstrategic or sensitive projects; on behalf of a government agency as may be defined in\nthe implementing guidelines.\nGovernment agencies that procure or utilize services from cloud service\nproviders or other private entities for the storage or processing of government data\nremain responsible for ensuring data security and compliance with this Order. For this\npurpose, government agencies shall ensure the inclusion of appropriate contractual and\ntechnical safeguards to protect data handled by such service providers.\nThe routine collection or storage by private entities of copies of\ngovernment-issued identification documents for legitimate business purposes shall not\nbe considered government data for purposes of this Order."
+   }
+  },
+  {
+   "id": "PH-H17745-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "Adoption of the Updated Government Data Classification\nFramework. The Government Data Classification Framework established under MC No.\n78 (s. 1964), as amended, is hereby updated in accordance with the provisions of this\nOrder. All covered government entities shall adopt a unified, and risk-based framework\nfor the classification, protection, handling, and management of government data."
+   }
+  },
+  {
+   "id": "PH-H17745-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "Data Classification Framework. Government data shall be classified\ninto two (2) general classes: Restricted Access Data and Open Access Data, in\naccordance with the updated Government Data Classification Framework adopted under\na. Restricted Access Data refers to official matters requiring protection in\nthe interest of national security. Data classification shall take into account\npotential unauthorized disclosure to foreign governments or entities, which\n2\n\ncould compromise diplomatic positions, intelligence operations, defense\nplanning, and economic strategies. These shall be limited to four (4)\ncategories of classification, which, in descending order of importance,\nshall carry one of the following designations:\ni) Top Secret refers to information or matters the unauthorized\ndisclosure of which would cause exceptionally grave damage to the\nnation, politically, economically, or from a security aspect;\nii) Secret refers to information or matters the unauthorized disclosure of\nwhich would endanger national security, cause serious injury to the\ninterest or prestige of the nation, or of any government activity, or\nwould be of great advantage to a foreign nation;\nili) Confidential refers to information or matters the unauthorized\ndisclosure of which, while not endangering the national security, would\nbe prejudicial to the interest or prestige of the nation or any\ngovernment activity, or would cause administrative embarrassment or\nunwarranted injury to an individual, or would be of advantage to a\nforeign nation; and\niv) Restricted refers to information or matters which require protection\nother than that determined to be Top Secret, Secret, or Confidential.\nb. Open Access Data refers to information or matters not falling within\nRestricted Access Data as defined in Section 4(a) hereof and does not\ninvolve national security. Such data may be designated as Unclassified or\nOpen, subject to applicable laws, rules, and regulations."
+   }
+  },
+  {
+   "id": "PH-H17745-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "text": {
+    "en": "Risk-based Methodology for Data Classification. All covered\ngovernment agencies shall adopt a risk-based methodology for data classification. The\noriginating agency of government data shall be responsible for determining the\nappropriate classification of data under its custody based on an assessment of the\npotential harm that may arise from unauthorized disclosure, alteration, destruction, or\nThe risk-based methodology shall include, at a minimum:\na. The identification and inventory of government data under the custody or\ncontrol of the agency;\nb. The conduct of appropriate risk and impact assessments, including, where\napplicable, privacy impact assessments in accordance with existing laws;\nc. The application of classification levels commensurate with the highest\nassessed level of risk; and\nd. The continuing review of classified data, including downgrading or\ndeclassification when warranted.\nAll data classification, legal basis, and risk assessments shall be recorded in a\nGovernment Data Classification Registry System, to be developed and maintained by\n3"
+   }
+  },
+  {
+   "id": "PH-H17745-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "text": {
+    "en": "Prohibition on Overclassification. Overclassification is prohibited to\nmaintain the integrity of the data classification framework, ensure the importance of\ncorrectly classified data, and prevent unnecessary delay, expense, or administrative"
+   }
+  },
+  {
+   "id": "PH-H17745-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7"
+   },
+   "text": {
+    "en": "Data Residency Framework. All government data shall remain\nsubject to the laws and jurisdiction of the Republic of the Philippines, regardless of\nwhere such data is stored, processed, or handled.\nIn accordance with the Data Classification Framework established under Section\n4 of this Order, all government data shall adhere to the following mandatory storage and\nresidency requirements:\na. Data classified as Top Secret and Secret shall be stored within Philippine\nterritory or in other territories over which the Philippines exercises\nsovereignty or jurisdiction, such as, but not limited to, Philippine\nembassies and consulates;\nb. Data classified as Confidential shall, as a general rule, be stored and\nmaintained within Philippine territory or in other territories over which the\nPhilippines exercises sovereignty or jurisdiction, such as, but not limited\nto, Philippine embassies and consulates. By way of exception, such data\nmay be stored or processed outside Philippine territories, provided that the\nresponsible agency obtains the express prior approval of the Joint\nOversight Committee for Data Classification (JOC-DC), and ensures the\nimplementation of adequate safeguards that maintain governmental\ncontrol and afford protection consistent with national security and\napplicable laws;\nData classified as Restricted shall be permitted to be stored on a secured\ncloud computing platform subject to encryption, risk mitigation, and other\ncybersecurity requirements; and\nd. All other government data, including open access data, shall be permitted\nfor storage on secure cloud-computing platforms, irrespective of the\nphysical location of the platform or the ownership, subject to encryption,\nrisk mitigation, and other cybersecurity requirements."
+   }
+  },
+  {
+   "id": "PH-H17745-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8"
+   },
+   "text": {
+    "en": "Cross-Border Data Transfers. Cross-border transfers of government\ndata may be undertaken in accordance with the Data Classification Framework\nestablished in this Order and the implementing guidelines.\nPursuant to the Principle of Accountability under Section 21 of RA No. 10173,\ncross-border data transfer of government data containing Personal Information or\nSensitive Personal Information shall require that the Personal Information Controller\nguarantee a standard of protection comparable to that required by RA No. 10173."
+   }
+  },
+  {
+   "id": "PH-H17745-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9"
+   },
+   "text": {
+    "en": "Applicability of Information Security. The principles of\nCommunication Security under MC No. 196 are hereby expanded to cover all forms of\ndigital information and communications, collectively referred to as Information Security.\nInformation Security shall apply to all government data, whether in physical, digital, or\n4\n\nhybrid form, and shall be implemented in a manner commensurate with the classification\nof the data and consistent with national security and applicable laws.\nCovered government agencies shall designate an information security officer\nresponsible for the implementation of this Section. Such officer shall obtain and maintain\nthe appropriate level of national security clearance, as may be required, in accordance\nwith applicable laws, rules, and regulations."
+   }
+  },
+  {
+   "id": "PH-H17745-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10"
+   },
+   "text": {
+    "en": "Capacity Building, Training, and Knowledge Sharing. The DICT,\nin collaboration with the National Privacy Commission (NC), relevant government\nagencies, academic institutions, and industry partners, shall formulate and promulgate a\ncomprehensive training and competency framework on data protection, residency, and\ncloud governance. The DICT shall finalize the training programs and publish the official\ntraining modules and curriculum within one hundred twenty (120) days from the\neffectivity of this Order."
+   }
+  },
+  {
+   "id": "PH-H17745-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11"
+   },
+   "text": {
+    "en": "Creation of Joint Oversight Committee for Data Classification.\nTo ensure the orderly and effective implementation of this Order, a JOC-DC is hereby\nThe JOC-DC shall be composed of the heads of the following agencies:\nCo-Chairpersons\nDICT and NSC\nDepartment of the Interior and Local Government;\nNational Intelligence Coordinating Agency;\nDepartment of Foreign Affairs;\nPhilippine Statistics Authority; and\nNational Archives of the Philippines\nThe DICT and NSC shall jointly serve as Secretariat of the JOC-DC, and shall\nprovide administrative and technical support to the Committee. The Secretariat shall be\nheaded by the DICT.\nThe Co-Chairpersons and members of the JOC-DC may designate their\nrespective alternates, with ranks not lower than Assistant Secretary or its equivalent,\nwho shall be fully authorized to decide for or on their behalf. The JOC-DC shall convene\nat least once every quarter or as often as may be deemed necessary by the\nCo-Chairpersons."
+   }
+  },
+  {
+   "id": "PH-H17745-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12"
+   },
+   "text": {
+    "en": "Duties and Functions of the JOC-DC. The JOC-DC shall oversee\nthe implementation of this Order and shall exercise the following duties and functions:\na. Formulate and issue the implementing guidelines and related issuances\nnecessary for the effective implementation of this Order, including, among\nothers, the: (i) standards and procedures for classification of government\ndata following a risk-based methodology as defined under Section 5 of this\nOrder; (ii) policies on data residency and sovereignty frameworks; and (ji)\nprocurement and utilization of a secure private cloud platform, subject to\nexisting laws, rules, and regulations;\n5\n\nb. Develop an action plan to be followed by all covered government agencies\nrelevant to the compliance and implementation of this Order;\nc. Monitor and evaluate agency compliance with the Government Data\nClassification Framework:\nd. Submit annual reports to the President on the status of implementation\nand overall data governance compliance across government agencies;\ne. Conduct consultations with relevant government agencies and\nstakeholders to support the continuing development and refinement of\npolicies under this Framework;\nf. Harmonize data classification practices across government and resolve\ninter-agency classification issues, consistent with the Philippine\nGovernment Interoperability Framework;\ng. Provide oversight over the Government Data Classification Registry\nSystem to ensure governance, security, and accountability. Such oversight\nshall be confined to policy-level supervision, compliance monitoring, and\naudit mechanisms, and shall not be construed as granting the JOC-DC or\nits members access to, or control over, the system or its underlying data,\nexcept as may be authorized under existing laws, rules, and regulations;\nh. Call on other government agencies or, when necessary, private entities to\nassist the JOC-DC in the performance of its duties and functions.\nThe implementing guidelines shall be issued within one hundred twenty (120)\ndavs from the effectivity of this Order."
+   }
+  },
+  {
+   "id": "PH-H17745-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13"
+   },
+   "text": {
+    "en": "Monitoring and Reporting. All government agencies and entities\ncovered by this Order are hereby required to submit an annual report on their\ncompliance to the JOC-DC. The JOC-DC shall submit to the President, through the\nOffice of the Executive Secretary, an annual consolidated report on the implementation\nof this Order."
+   }
+  },
+  {
+   "id": "PH-H17745-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14"
+   },
+   "text": {
+    "en": "Administrative Liability. Failure to comply with the provisions of this\nOrder shall constitute a ground for administrative or disciplinary sanctions against any\nerring public official or employee, as provided under existing laws and regulations,\nwithout prejudice to criminal, civil, or other related liabilities under existing laws."
+   }
+  },
+  {
+   "id": "PH-H17745-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15"
+   },
+   "text": {
+    "en": "Transition and Phased Implementation. Covered government\nagencies shall achieve full compliance with this Order within three (3) years from its\neffectivity. Implementation shall be undertaken in phases, subject to the following\nminimum milestones:\na. First Year. Within the first year from the effectivity of this Order, covered\ngovernment agencies shall complete capacity-building measures, conduct\nan inventory of government data, and undertake the initial classification of\ndatasets and workloads.\nb. Second Year. Within the second year from the effectivity of this Order,\ncovered government agencies shall ensure full compliance with the\nrequirements of this Order for data classified as Top Secret and Secret.\nc. Third Year. Within the third year from the effectivity of this Order, covered\ngovernment agencies shall ensure full compliance with the requirements\nof this Order for all remaining government data.\n6\n\nDuring the transition period, agencies may continue to utilize existing\ninfrastructure and services, provided that they take reasonable measures to manage\nrisks and ensure alignment with the objectives of this Order.\nNothing in this Section shall be construed to suspend or defer compliance with\nRA No. 10173 and other applicable laws. All government entities shall remain\naccountable for compliance with existing legal requirements throughout the transition"
+   }
+  },
+  {
+   "id": "PH-H17745-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16"
+   },
+   "text": {
+    "en": "Funding. The funding requirements for the initial implementation of\nthis Order shall be charged against current and available appropriation's of concerned\nagencies, subject to relevant budgeting, accounting, and auditing laws, ' rules, and\nregulations. Thereafter, the funding requirements necessary. for the continued\nimplementation of this Order shall be included in the budget proposals of concerned\nagencies, subject to the usual budget preparation process."
+   }
+  },
+  {
+   "id": "PH-H17745-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17"
+   },
+   "text": {
+    "en": "Separability. If any section or part of this Order is declared\nunconstitutional or invalid, the other sections or provisions not otherwise affected shall\nremain in full force and effect."
+   }
+  },
+  {
+   "id": "PH-H17745-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18"
+   },
+   "text": {
+    "en": "Repeal. All issuances, orders, rules, and regulations, or parts\nthereof, that are inconsistent with the provisions of this Order, are hereby repealed or\nmodified accordingly."
+   }
+  },
+  {
+   "id": "PH-H17745-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19"
+   },
+   "text": {
+    "en": "Effectivity. This Order shall take effect immediately upon publication\nin the Official Gazette or in a newspaper of general circulation.\nDONE, in the City of Manila, this\nyear of our Lord, Two Thousand and Twenty-Six.\nBy the President\nActing Executive Secretary\nOffice of the President\nMALACAÑANG RECORDS OFFICE\nGERTIESTED COPY\nANALINE B. KOK\nDIRECTOR IV\nREPUBLIC OF THE PHILIPPINES\n7"
+   }
+  }
+ ]
+}

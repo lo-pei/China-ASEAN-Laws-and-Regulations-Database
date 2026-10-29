@@ -1,0 +1,2106 @@
+{
+ "id": "VN-H402",
+ "title": {
+  "zh": "保险经营法",
+  "en": "Law No. 24/2000/QH10 on insurance business",
+  "vi": "Luật Kinh doanh bảo hiểm số 24/2000/QH10",
+  "orig": "Luật Kinh doanh bảo hiểm số 24/2000/QH10",
+  "th": "พระราชบัญญัติธุรกิจประกันภัย เลขที่ 24/2000/QH10",
+  "id": "Undang-Undang Usaha Perasuransian No. 24/2000/QH10",
+  "ms": "Akta Perniagaan Insurans No. 24/2000/QH10"
+ },
+ "country": "VN",
+ "countryName": "越南",
+ "layer": "intl",
+ "pack": "vn-p06",
+ "language": "vi",
+ "level": "law",
+ "category": "02_民商事与经济法",
+ "status": "active",
+ "promulgatedDate": "2000",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "国会",
+ "docNumber": "24/2000/QH10",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 129,
+ "chars": 77065,
+ "source": {
+  "name": "越南法律数据库（vbpl.vn 官方公报文本）",
+  "url": "https://vbpl.vn/van-ban/chi-tiet/luat-kinh-doanh-bao-hiem-so-24-2000-qh10--5748"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\VN\\02_民商事与经济法\\2000_24 2000 QH10_Luật Kinh doanh bảo hiểm số 24 2000 QH10.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 129 条；逐字未改写（源自 VN）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "VN-H402-A1",
+   "no": 1,
+   "noLabel": {
+    "vi": "Điều 1"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Phạm vi điều chỉnh."
+   },
+   "text": {
+    "vi": "Điều 1. Phạm vi điều chỉnh.\n\n1. Luật này điều chỉnh tổ chức và hoạt động kinh doanh bảo hiểm, xác định quyền và nghĩa vụ của tổ chức, cá nhân tham gia bảo hiểm.\n\n2. Luật này không áp dụng đối với bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm tiền gửi và các loại bảo hiểm khác do Nhà nước thực hiện không mang tính kinh doanh."
+   }
+  },
+  {
+   "id": "VN-H402-A2",
+   "no": 2,
+   "noLabel": {
+    "vi": "Điều 2"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Áp dụng Luật Kinh doanh bảo hiểm, pháp luật có liên quan, điều ước quốc tế, tập quán quốc tế."
+   },
+   "text": {
+    "vi": "Điều 2. Áp dụng Luật Kinh doanh bảo hiểm, pháp luật có liên quan, điều ước quốc tế, tập quán quốc tế.\n\n1. Tổ chức và hoạt động kinh doanh bảo hiểm trên lãnh thổ Cộng hòa xã hội chủ nghĩa Việt Nam phải tuân thủ quy định của Luật này và các quy định khác của pháp luật có liên quan.\n\n2. Trong trường hợp điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam ký kết hoặc tham gia có quy định khác với quy định của Luật này thì áp dụng quy định của điều ước quốc tế đó.\n\n3. Các bên tham gia bảo hiểm có thể thỏa thuận áp dụng tập quán quốc tế, nếu tập quán đó không trái với pháp luật Việt Nam."
+   }
+  },
+  {
+   "id": "VN-H402-A3",
+   "no": 3,
+   "noLabel": {
+    "vi": "Điều 3"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Giải thích từ ngữ."
+   },
+   "text": {
+    "vi": "Điều 3. Giải thích từ ngữ.\n\nTrong Luật này, các từ ngữ dưới đây được hiểu như sau:\n\n1. Kinh doanh bảo hiểm là hoạt động của doanh nghiệp bảo hiểm nhằm mục đích sinh lợi, theo đó doanh nghiệp bảo hiểm chấp nhận rủi ro của người được bảo hiểm,trên cơ sở bên mua bảo hiểm đóng phí bảo hiểm để doanh nghiệp bảo hiểm trả tiền bảo hiểm cho người thụ hưởng hoặc bồi thường cho người được bảo hiểm khi xảy ra sự kiện bảo hiểm.\n\n2. Kinh doanh tái bảo hiểm là hoạt động của doanh nghiệp bảo hiểm nhằm mục đích sinh lợi, theo đó doanh nghiệp bảo hiểm nhận một khoản phí bảo hiểm của doanh nghiệp bảo hiểm khác để cam kết bồi thường cho các trách nhiệm đã nhận bảo hiểm.\n\n3. Hoạt động đại lý bảo hiểm là hoạt động giới thiệu, chào bán bảo hiểm, thu xếp việc giao kết hợp đồng bảo hiểm và các công việc khác nhằm thực hiện hợp đồng bảo hiểm theo ủy quyền của doanh nghiệp bảo hiểm.\n\n4. Hoạt động môi giới bảo hiểm là việc cung cấp thông tin, tư vấn cho bên mua bảo hiểm về sản phẩm bảo hiểm, điều kiện bảo hiểm, mức phí bảo hiểm, doanh nghiệp bảo hiểm và các công việc liên quan đến việc đàm phán, thu xếp và thực hiện hợp đồng bảo hiểm theo yêu cầu của bên mua bảo hiểm.\n\n5. Doanh nghiệp bảo hiểm là doanh nghiệp được thành lập, tổ chức và hoạt động theo quy định của Luật này và các quy định khác của pháp luật có liên quan để kinh doanh bảo hiểm, tái bảo hiểm.\n\n6. Bên mua bảo hiểm là tổ chức, cá nhân giao kết hợp đồng bảo hiểm với doanh nghiệp bảo hiểm và đóng phí bảo hiểm. Bên mua bảo hiểm có thể đồng thời là người được bảo hiểm hoặc người thụ hưởng.\n\n7. Người được bảo hiểm là tổ chức, cá nhân có tài sản, trách nhiệm dân sự, tính mạng được bảo hiểm theo hợp đồng bảo hiểm. Người được bảo hiểm có thể đồng thời là người thụ hưởng.\n\n8. Người thụ hưởng là tổ chức, cá nhân được bên mua bảo hiểm chỉ định để nhận tiền bảo hiểm theo hợp đồng bảo hiểm con người.\n\n9. Quyền lợi có thể được bảo hiểm là quyền sở hữu, quyền chiếm hữu, quyền sử dụng,quyền tài sản; quyền, nghĩa vụ nuôi dưỡng, cấp dưỡng đối với đối tượng được bảo hiểm.\n\n10. Sự kiện bảo hiểm là sự kiện khách quan do các bên thỏa thuận hoặc pháp luật quy định mà khi sự kiện đó xảy ra thì doanh nghiệp bảo hiểm phải trả tiền bảo hiểm cho người thụ hưởng hoặc bồi thường cho người được bảo hiểm.\n\n11. Phí bảo hiểm là khoản tiền mà bên mua bảo hiểm phải đóng cho doanh nghiệp bảo hiểm theo thời hạn và phương thức do các bên thỏa thuận trong hợp đồng bảo hiểm.\n\n12. Bảo hiểm nhân thọ là loại nghiệp vụ bảo hiểm cho trường hợp người được bảo hiểm sống hoặc chết.\n\n13. Bảo hiểm sinh kỳ là nghiệp vụ bảo hiểm cho trường hợp người được bảo hiểm sống đến một thời hạn nhất định, theo đó doanh nghiệp bảo hiểm phải trả tiền bảo hiểm cho người thụ hưởng, nếu người được bảo hiểm vẫn sống đến thời hạn được thỏa thuận trong hợp đồng bảo hiểm.\n\n14. Bảo hiểm tử kỳ là nghiệp vụ bảo hiểm cho trường hợp người được bảo hiểm chết trong một thời hạn nhất định, theo đó doanh nghiệp bảo hiểm phải trả tiền bảo hiểm cho người thụ hưởng, nếu người được bảo hiểm chết trong thời hạn được thỏa thuận trong hợp đồng bảo hiểm.\n\n15. Bảo hiểm hỗn hợp là nghiệp vụ bảo hiểm kết hợp bảo hiểm sinh kỳ và bảo hiểm tử kỳ.\n\n16. Bảo hiểm trọn đời là nghiệp vụ bảo hiểm cho trường hợp người được bảo hiểm chết vào bất kỳ thời điểm nào trong suốt cuộc đời của người đó.\n\n17. Bảo hiểm trả tiền định kỳ là nghiệp vụ bảo hiểm cho trường hợp người được bảo hiểm sống đến một thời hạn nhất định; sau thời hạn đó doanh nghiệp bảo hiểm phải trả tiền bảo hiểm định kỳ cho người thụ hưởng theo thỏa thuận trong hợp đồng bảo hiểm.\n\n18. Bảo hiểm phi nhân thọ là loại nghiệp vụ bảo hiểm tài sản, trách nhiệm dân sự và các nghiệp vụ bảo hiểm khác không thuộc bảo hiểm nhân thọ."
+   }
+  },
+  {
+   "id": "VN-H402-A4",
+   "no": 4,
+   "noLabel": {
+    "vi": "Điều 4"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Bảo đảm của Nhà nước đối với kinh doanh bảo hiểm."
+   },
+   "text": {
+    "vi": "Điều 4. Bảo đảm của Nhà nước đối với kinh doanh bảo hiểm.\n\n1. Nhà nước bảo hộ quyền, lợi ích hợp pháp của các tổ chức, cá nhân tham gia bảo hiểm và các tổ chức kinh doanh bảo hiểm.\n\n2. Nhà nước đầu tư vốn và các nguồn lực khác để doanh nghiệp nhà nước kinh doanh bảo hiểm phát triển, giữ vai trò chủ đạo trên thị trường bảo hiểm.\n\n3. Nhà nước có chính sách phát triển thị trường bảo hiểm Việt Nam, chính sách ưu đãi đối với các nghiệp vụ bảo hiểm phục vụ mục tiêu phát triển kinh tế - xã hội, đặc biệt là chương trình phát triển nông nghiệp, lâm nghiệp, ngư nghiệp."
+   }
+  },
+  {
+   "id": "VN-H402-A5",
+   "no": 5,
+   "noLabel": {
+    "vi": "Điều 5"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Hợp tác quốc tế trong lĩnh vực kinh doanh bảo hiểm."
+   },
+   "text": {
+    "vi": "Điều 5. Hợp tác quốc tế trong lĩnh vực kinh doanh bảo hiểm.\n\nNhà Nước thống nhất quản lý, có chính sách mở rộng hợp tác quốc tế trong lĩnh vực kinh doanh bảo hiểm trên cơ sở tôn trọng độc lập, chủ quyền, bình đẳng, cùng có lợi theo hướng đa phương hóa, đa dạng hóa; khuyến khích các doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm nước ngoài thu hút các nhà đầu tư nước ngoài đầu tư vốn vào Việt Nam và tái đầu tư lợi nhuận thu được từ hoạt động kinh doanh bảo hiểm phục vụ công cuộc phát triển kinh tế - xã hội ở Việt Nam;tạo điều kiện để doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm tăng cường hợp tác với nước ngoài nhằm nâng cao hiệu quả kinh doanh bảo hiểm."
+   }
+  },
+  {
+   "id": "VN-H402-A6",
+   "no": 6,
+   "noLabel": {
+    "vi": "Điều 6"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Những nguyên tắc cơ bản trong hoạt động bảo hiểm."
+   },
+   "text": {
+    "vi": "Điều 6. Những nguyên tắc cơ bản trong hoạt động bảo hiểm.\n\n1. Tổ chức, cá nhân có nhu cầu bảo hiểm chỉ được tham gia bảo hiểm tại doanh nghiệp bảo hiểm hoạt động ở Việt Nam.\n\n2. Doanh nghiệp bảo hiểm phải đảm bảo các yêu cầu về tài chính để thực hiện các cam kết của mình đối với bên mua bảo hiểm."
+   }
+  },
+  {
+   "id": "VN-H402-A7",
+   "no": 7,
+   "noLabel": {
+    "vi": "Điều 7"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Các loại nghiệp vụ bảo hiểm."
+   },
+   "text": {
+    "vi": "Điều 7. Các loại nghiệp vụ bảo hiểm.\n\n1. Bảo hiểm nhân thọ bao gồm:\n\na) Bảo hiểm trọn đời;\n\nb) Bảo hiểm sinh kỳ;\n\nc) Bảo hiểm tử kỳ;\n\nd) Bảo hiểm hỗn hợp;\n\nđ) Bảo hiểm trả tiền định kỳ;\n\ne) Các nghiệp vụ bảo hiểm nhân thọ khác do Chính phủ quy định.\n\n2. Bảo hiểm phi nhân thọ bao gồm:\n\na) Bảo hiểm sức khỏe và bảo hiểm tai nạn con người;\n\nb) Bảo hiểm tài sản và bảo hiểm thiệt hại;\n\nc) Bảo hiểm hàng hóa vận chuyển đường bộ, đường biển, đường sông, đường sắt và đường không;\n\nd) Bảo hiểm hàng không;\n\nđ) Bảo hiểm xe cơ giới;\n\ne) Bảo hiểm cháy, nổ;\n\ng) Bảo hiểm thân tàu và trách nhiệm dân sự của chủ tàu;\n\nh) Bảo hiểm trách nhiệm chung;\n\ni) Bảo hiểm tín dụng và rủi ro tài chính;\n\nk) Bảo hiểm thiệt hại kinh doanh;\n\nl) Bảo hiểm nông nghiệp;\n\nm) Các nghiệp vụ bảo hiểm phi nhân thọ khác do Chính phủ quy định.\n\n3. Bộ Tài chính quy định danh mục chi tiết các sản phẩm bảo hiểm."
+   }
+  },
+  {
+   "id": "VN-H402-A8",
+   "no": 8,
+   "noLabel": {
+    "vi": "Điều 8"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Bảo hiểm bắt buộc."
+   },
+   "text": {
+    "vi": "Điều 8. Bảo hiểm bắt buộc.\n\n1. Bảo hiểm bắt buộc là loại bảo hiểm do pháp luật quy định về điều kiện bảo hiểm, mức phí bảo hiểm, số tiền bảo hiểm tối thiểu mà tổ chức, cá nhân tham gia bảo hiểm và doanh nghiệp bảo hiểm có nghĩa vụ thực hiện.\n\nBảo Hiểm bắt buộc chỉ áp dụng đối với một số loại bảo hiểm nhằm mục đích bảo vệ lợi ích công cộng và an toàn xã hội.\n\n2. Bảo hiểm bắt buộc bao gồm:\n\na) Bảo hiểm trách nhiệm dân sự của chủ xe cơ giới, bảo hiểm trách nhiệm dân sự của người vận chuyển hàng không đối với hành khách;\n\nb) Bảo hiểm trách nhiệm nghề nghiệp đối với hoạt động tư vấn pháp luật;\n\nc) Bảo hiểm trách nhiệm nghề nghiệp của doanh nghiệp môi giới bảo hiểm;\n\nd) Bảo hiểm cháy, nổ.\n\n3. Căn cứ vào nhu cầu phát triển kinh tế - xã hội từng thời kỳ, Chính phủ trình Uỷ ban Thường vụ Quốc hội quy định loại bảo hiểm bắt buộc khác."
+   }
+  },
+  {
+   "id": "VN-H402-A9",
+   "no": 9,
+   "noLabel": {
+    "vi": "Điều 9"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Tái bảo hiểm."
+   },
+   "text": {
+    "vi": "Điều 9. Tái bảo hiểm.\n\n1. Doanh nghiệp bảo hiểm có thể tái bảo hiểm cho các doanh nghiệp bảo hiểm khác, kể cả doanh nghiệp bảo hiểm ở nước ngoài.\n\n2. Trong trường hợp tái bảo hiểm cho các doanh nghiệp bảo hiểm ở nước ngoài, doanh nghiệp bảo hiểm phải tái bảo hiểm một phần trách nhiệm đã nhận bảo hiểm cho doanh nghiệp kinh doanh tái bảo hiểm trong nước theo quy định của Chính phủ."
+   }
+  },
+  {
+   "id": "VN-H402-A10",
+   "no": 10,
+   "noLabel": {
+    "vi": "Điều 10"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Hợp tác và cạnh tranh trong kinh doanh bảo hiểm."
+   },
+   "text": {
+    "vi": "Điều 10. Hợp tác và cạnh tranh trong kinh doanh bảo hiểm.\n\n1. Doanh nghiệp bảo hiểm, đại lý bảo hiểm, doanh nghiệp môi giới bảo hiểm được hợp tác và cạnh tranh hợp pháp trong kinh doanh bảo hiểm.\n\n2. Nghiêm cấm các hành vi sau đây:\n\na) Thông tin, quảng cáo sai sự thật về nội dung, phạm vi hoạt động, điều kiện bảo hiểm làm tổn hại đến quyền, lợi ích hợp pháp của bên mua bảo hiểm;\n\nb) Tranh giành khách hàng dưới các hình thức ngăn cản, lôi kéo, mua chuộc, đe dọa nhân viên hoặc khách hàng của doanh nghiệp bảo hiểm, đại lý bảo hiểm, doanh nghiệp môi giới bảo hiểm khác;\n\nc) Khuyến mại bất hợp pháp;\n\nd) Các hành vi cạnh tranh bất hợp pháp khác."
+   }
+  },
+  {
+   "id": "VN-H402-A11",
+   "no": 11,
+   "noLabel": {
+    "vi": "Điều 11"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Quyền tham gia các tổ chức xã hội - nghề nghiệp về kinh doanh bảo hiểm."
+   },
+   "text": {
+    "vi": "Điều 11. Quyền tham gia các tổ chức xã hội - nghề nghiệp về kinh doanh bảo hiểm.\n\nDoanh nghiệp bảo hiểm, đại lý bảo hiểm, doanh nghiệp môi giới bảo hiểm được tham gia các tổ chức xã hội - nghề nghiệp về kinh doanh bảo hiểm nhằm mục đích phát triển thị trường bảo hiểm, bảo vệ quyền, lợi ích hợp pháp của thành viên theo quy định của pháp luật.\n\nChương II\n\nHỢP ĐỒNG BẢO HIỂM\n\nMục 1\n\nQUY ĐỊNH CHUNG VỀ HỢP ĐỒNG BẢO HIỂM"
+   }
+  },
+  {
+   "id": "VN-H402-A12",
+   "no": 12,
+   "noLabel": {
+    "vi": "Điều 12"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Hợp đồng bảo hiểm."
+   },
+   "text": {
+    "vi": "Điều 12. Hợp đồng bảo hiểm.\n\n1. Hợp đồng bảo hiểm là sự thỏa thuận giữa bên mua bảo hiểm và doanh nghiệp bảo hiểm, theo đó bên mua bảo hiểm phải đóng phí bảo hiểm, doanh nghiệp bảo hiểm phải trả tiền bảo hiểm cho người thụ hưởng hoặc bồi thường cho người được bảo hiểm khi xảy ra sự kiện bảo hiểm.\n\n2. Các loại hợp đồng bảo hiểm bao gồm:\n\na) Hợp đồng bảo hiểm con người;\n\nb) Hợp đồng bảo hiểm tài sản;\n\nc) Hợp đồng bảo hiểm trách nhiệm dân sự.\n\n3. Hợp đồng bảo hiểm hàng hải được áp dụng theo quy định của Bộ luật Hàng hải; đối với những vấn đề mà Bộ luật Hàng hải không quy định thì áp dụng theo quy định của Luật này.\n\n4. Những vấn đề liên quan đến hợp đồng bảo hiểm không quy định trong Chương này được áp dụng theo quy định của Bộ luật Dân sự và các quy định khác của pháp luật có liên quan."
+   }
+  },
+  {
+   "id": "VN-H402-A13",
+   "no": 13,
+   "noLabel": {
+    "vi": "Điều 13"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Nội dung của hợp đồng bảo hiểm."
+   },
+   "text": {
+    "vi": "Điều 13. Nội dung của hợp đồng bảo hiểm.\n\n1. Hợp đồng bảo hiểm phải có những nội dung sau đây:\n\na) Tên, địa chỉ của doanh nghiệp bảo hiểm, bên mua bảo hiểm, người được bảo hiểm hoặc người thụ hưởng;\n\nb) Đối tượng bảo hiểm;\n\nc) Số tiền bảo hiểm, giá trị tài sản được bảo hiểm đối với bảo hiểm tài sản;\n\nd) Phạm vi bảo hiểm, điều kiện bảo hiểm, điều khoản bảo hiểm;\n\nđ) Điều khoản loại trừ trách nhiệm bảo hiểm;\n\ne) Thời hạn bảo hiểm;\n\ng) Mức phí bảo hiểm, phương thức đóng phí bảo hiểm;\n\nh) Thời hạn, phương thức trả tiền bảo hiểm hoặc bồi thường;\n\ni) Các quy định giải quyết tranh chấp;\n\nk) Ngày, tháng, năm giao kết hợp đồng.\n\n2. Ngoài những nội dung quy định tại khoản 1 Điều này, hợp đồng bảo hiểm có thể có các nội dung khác do các bên thỏa thuận."
+   }
+  },
+  {
+   "id": "VN-H402-A14",
+   "no": 14,
+   "noLabel": {
+    "vi": "Điều 14"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Hình thức hợp đồng bảo hiểm."
+   },
+   "text": {
+    "vi": "Điều 14. Hình thức hợp đồng bảo hiểm.\n\nHợp Đồng bảo hiểm phải được lập thành văn bản. Bằng Chứng giao kết hợp đồng bảo hiểm là giấy chứng nhận bảo hiểm, đơn bảo hiểm,điện báo, telex, fax và các hình thức khác do pháp luật quy định."
+   }
+  },
+  {
+   "id": "VN-H402-A15",
+   "no": 15,
+   "noLabel": {
+    "vi": "Điều 15"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Thời điểm phát sinh trách nhiệm bảo hiểm."
+   },
+   "text": {
+    "vi": "Điều 15. Thời điểm phát sinh trách nhiệm bảo hiểm.\n\nTrách Nhiệm bảo hiểm phát sinh khi hợp đồng bảo hiểm đã được giao kết hoặc khi có bằng chứng doanh nghiệp bảo hiểm đã chấp nhận bảo hiểm và bên mua bảo hiểm đã đóng phí bảo hiểm, trừ trường hợp có thoả thuận khác trong hợp đồng bảo hiểm."
+   }
+  },
+  {
+   "id": "VN-H402-A16",
+   "no": 16,
+   "noLabel": {
+    "vi": "Điều 16"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Điều khoản loại trừ trách nhiệm bảo hiểm."
+   },
+   "text": {
+    "vi": "Điều 16. Điều khoản loại trừ trách nhiệm bảo hiểm.\n\n1. Điều khoản loại trừ trách nhiệm bảo hiểm quy định trường hợp doanh nghiệp bảo hiểm không phải bồi thường hoặc không phải trả tiền bảo hiểm khi xảy ra sự kiện bảo hiểm.\n\n2. Điều khoản loại trừ trách nhiệm bảo hiểm phải được quy định rõ trong hợp đồng bảo hiểm.\n\nDoanh Nghiệp bảo hiểm phải giải thích rõ cho bên mua bảo hiểm khi giao kết hợp đồng.\n\n3. Không áp dụng điều khoản loại trừ trách nhiệm bảo hiểm trong các trường hợp sau đây:\n\na) Bên mua bảo hiểm vi phạm pháp luật do vô ý;\n\nb) Bên mua bảo hiểm có lý do chính đáng trong việc chậm thông báo cho doanh nghiệp bảo hiểm về việc xảy ra sự kiện bảo hiểm."
+   }
+  },
+  {
+   "id": "VN-H402-A17",
+   "no": 17,
+   "noLabel": {
+    "vi": "Điều 17"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Quyền và nghĩa vụ của doanh nghiệp bảo hiểm."
+   },
+   "text": {
+    "vi": "Điều 17. Quyền và nghĩa vụ của doanh nghiệp bảo hiểm.\n\n1. Doanh nghiệp bảo hiểm có quyền:\n\na) Thu phí bảo hiểm theo thỏa thuận trong hợp đồng bảo hiểm;\n\nb) Yêu cầu bên mua bảo hiểm cung cấp đầy đủ trung thực thông tin liên quan đến việc giao kết và thực hiện hợp đồng bảo hiểm;\n\nc) Đơn phương đình chỉ thực hiện hợp đồng bảo hiểm theo quy định tại khoản 2 Điều 19, khoản 2 Điều 20, khoản 2 Điều 35 và khoản 3 Điều 50 của Luật này;\n\nd) Từ chối trả tiền bảo hiểm cho người thụ hưởng hoặc từ chối bồi thường cho người được bảo hiểm trong trường hợp không thuộc phạm vi trách nhiệm bảo hiểm hoặc trường hợp loại trừ trách nhiệm bảo hiểm theo thỏa thuận trong hợp đồng bảo hiểm;\n\nđ) Yêu cầu bên mua bảo hiểm áp dụng các biện pháp đề phòng, hạn chế tổn thất theo quy định của Luật này và các quy định khác của pháp luật có liên quan;\n\ne) Yêu cầu người thứ ba bồi hoàn số tiền bảo hiểm mà doanh nghiệp bảo hiểm đã bồi thường cho người được bảo hiểm do người thứ ba gây ra đối với tài sản và trách nhiệm dân sự;\n\ng) Các quyền khác theo quy định của pháp luật.\n\n2. Doanh nghiệp bảo hiểm có nghĩa vụ:\n\na) Giải thích cho bên mua bảo hiểm về các điều kiện, điều khoản bảo hiểm; quyền,nghĩa vụ của bên mua bảo hiểm;\n\nb) Cấp cho bên mua bảo hiểm giấy chứng nhận bảo hiểm, đơn bảo hiểm ngay sau khi giao kết hợp đồng bảo hiểm;\n\nc) Trả tiền bảo hiểm kịp thời cho người thụ hưởng hoặc bồi thường cho người được bảo hiểm khi xảy ra sự kiện bảo hiểm;\n\nd) Giải thích bằng văn bản lý do từ chối trả tiền bảo hiểm hoặc từ chối bồi thường;\n\nđ) Phối hợp với bên mua bảo hiểm để giải quyết yêu cầu của người thứ ba đòi bồi thường về những thiệt hại thuộc trách nhiệm bảo hiểm khi xảy ra sự kiện bảo hiểm;\n\ne) Các nghĩa vụ khác theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H402-A18",
+   "no": 18,
+   "noLabel": {
+    "vi": "Điều 18"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Quyền và nghĩa vụ của bên mua bảo hiểm."
+   },
+   "text": {
+    "vi": "Điều 18. Quyền và nghĩa vụ của bên mua bảo hiểm.\n\n1. Bên mua bảo hiểm có quyền:\n\na) Lựa chọn doanh nghiệp bảo hiểm hoạt động tại Việt Nam để mua bảo hiểm;\n\nb) Yêu cầu doanh nghiệp bảo hiểm giải thích các điều kiện, điều khoản bảo hiểm;cấp giấy chứng nhận bảo hiểm hoặc đơn bảo hiểm;\n\nc) Đơn phương đình chỉ thực hiện hợp đồng bảo hiểm theo quy định tại khoản 3 Điều 19, khoản 1 Điều 20 của Luật này;\n\nd) Yêu cầu doanh nghiệp bảo hiểm trả tiền bảo hiểm cho người thụ hưởng hoặc bồi thường cho người được bảo hiểm theo thỏa thuận trong hợp đồng bảo hiểm khi xảy ra sự kiện bảo hiểm;\n\nđ) Chuyển nhượng hợp đồng bảo hiểm theo thỏa thuận trong hợp đồng bảo hiểm hoặc theo quy định của pháp luật;\n\ne) Các quyền khác theo quy định của pháp luật.\n\n2. Bên mua bảo hiểm có nghĩa vụ:\n\na) Đóng phí bảo hiểm đầy đủ, theo thời hạn và phương thức đã thỏa thuận trong hợp đồng bảo hiểm;\n\nb) Kê khai đầy đủ, trung thực mọi chi tiết có liên quan đến hợp đồng bảo hiểm theo yêu cầu của doanh nghiệp bảo hiểm;\n\nc) Thông báo những trường hợp có thể làm tăng rủi ro hoặc làm phát sinh thêm trách nhiệm của doanh nghiệp bảo hiểm trong quá trình thực hiện hợp đồng bảo hiểm theo yêu cầu của doanh nghiệp bảo hiểm;\n\nd) Thông báo cho doanh nghiệp bảo hiểm về việc xảy ra sự kiện bảo hiểm theo thỏa thuận trong hợp đồng bảo hiểm;\n\nđ) Áp dụng các biện pháp đề phòng,hạn chế tổn thất theo quy định của Luật này và các quy định khác của pháp luật có liên quan;\n\ne) Các nghĩa vụ khác theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H402-A19",
+   "no": 19,
+   "noLabel": {
+    "vi": "Điều 19"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Trách nhiệm cung cấp thông tin."
+   },
+   "text": {
+    "vi": "Điều 19. Trách nhiệm cung cấp thông tin.\n\n1. Khi giao kết hợp đồng bảo hiểm, doanh nghiệp bảo hiểm có trách nhiệm cung cấp đầy đủ thông tin liên quan đến hợp đồng bảo hiểm, giải thích các điều kiện,điều khoản bảo hiểm cho bên mua bảo hiểm; bên mua bảo hiểm có trách nhiệm cung cấp đầy đủ thông tin liên quan đến đối tượng bảo hiểm cho doanh nghiệp bảo hiểm. Các bên chịu trách nhiệm về tính chính xác, trung thực của thông tin đó.Doanh nghiệp bảo hiểm có trách nhiệm giữ bí mật về thông tin do bên mua bảo hiểm cung cấp.\n\n2. Doanh nghiệp bảo hiểm có quyền đơn phương đình chỉ thực hiện hợp đồng bảo hiểm và thu phí bảo hiểm đến thời điểm đình chỉ thực hiện hợp đồng bảo hiểm khi bên mua bảo hiểm có một trong những hành vi sau đây:\n\na) Cố ý cung cấp thông tin sai sự thật nhằm giao kết hợp đồng bảo hiểm để được trả tiền bảo hiểm hoặc được bồi thường;\n\nb) Không thực hiện các nghĩa vụ trong việc cung cấp thông tin cho doanh nghiệp bảo hiểm theo quy định tại điểm c khoản 2 Điều 18 của Luật này.\n\n3. Trong trường hợp doanh nghiệp bảo hiểm cố ý cung cấp thông tin sai sự thật nhằm giao kết hợp đồng bảo hiểm thì bên mua bảo hiểm có quyền đơn phương đình chỉ thực hiện hợp đồng bảo hiểm; doanh nghiệp bảo hiểm phải bồi thường thiệt hại phát sinh cho bên mua bảo hiểm do việc cung cấp thông tin sai sự thật."
+   }
+  },
+  {
+   "id": "VN-H402-A20",
+   "no": 20,
+   "noLabel": {
+    "vi": "Điều 20"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Thay đổi mức độ rủi ro được bảo hiểm."
+   },
+   "text": {
+    "vi": "Điều 20. Thay đổi mức độ rủi ro được bảo hiểm.\n\n1. Khi có sự thay đổi những yếu tố làm cơ sở để tính phí bảo hiểm, dẫn đến giảm các rủi ro được bảo hiểm thì bên mua bảo hiểm có quyền yêu cầu doanh nghiệp bảo hiểm giảm phí bảo hiểm cho thời gian còn lại của hợp đồng bảo hiểm. Trong Trường hợp doanh nghiệp bảo hiểm không chấp nhận giảm phí bảo hiểm thì bên mua bảo hiểm có quyền đơn phương đình chỉ thực hiện hợp đồng bảo hiểm, nhưng phải thông báo ngày bằng văn bản cho doanh nghiệp bảo hiểm.\n\n2. Khi có sự thay đổi những yếu tố làm cơ sở để tính phí bảo hiểm, dẫn đến tăng các rủi ro được bảo hiểm thì doanh nghiệp bảo hiểm có quyền tính lại phí bảo hiểm cho thời gian còn lại của hợp đồng bảo hiểm. Trong trường hợp bên mua bảo hiểm không chấp nhận tăng phí bảo hiểm thì doanh nghiệp bảo hiểm có quyền đơn phương đình chỉ thực hiện hợp đồng bảo hiểm, nhưng phải thông báo ngày bằng văn bản cho bên mua bảo hiểm."
+   }
+  },
+  {
+   "id": "VN-H402-A21",
+   "no": 21,
+   "noLabel": {
+    "vi": "Điều 21"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Giải thích hợp đồng bảo hiểm."
+   },
+   "text": {
+    "vi": "Điều 21. Giải thích hợp đồng bảo hiểm.\n\nTrong trường hợp hợp đồng bảo hiểm có điều khoản không rõ ràng thì điều khoản đó được giải thích theo hướng có lợi cho bên mua bảo hiểm."
+   }
+  },
+  {
+   "id": "VN-H402-A22",
+   "no": 22,
+   "noLabel": {
+    "vi": "Điều 22"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Hợp đồng bảo hiểm vô hiệu."
+   },
+   "text": {
+    "vi": "Điều 22. Hợp đồng bảo hiểm vô hiệu.\n\n1. Hợp đồng bảo hiểm vô hiệu trong các trường hợp sau đây:\n\na) Bên mua bảo hiểm không có quyền lợi có thể được bảo hiểm;\n\nb) Tại thời điểm giao kết hợp đồng bảo hiểm, đối tượng bảo hiểm không tồn tại;\n\nc) Tại thời điểm giao kết hợp đồng bảo hiểm, bên mua bảo hiểm biết sự kiện bảo hiểm đã xảy ra;\n\nd) Bên mua bảo hiểm hoặc doanh nghiệp bảo hiểm có hành vi lừa dối khi giao kết hợp đồng bảo hiểm;\n\nđ) Các trường hợp khác theo quy định của pháp luật.\n\n2. Việc xử lý hợp đồng bảo hiểm vô hiệu được thực hiện theo quy định của Bộ luật Dân sự và các quy định khác của pháp luật có liên quan."
+   }
+  },
+  {
+   "id": "VN-H402-A23",
+   "no": 23,
+   "noLabel": {
+    "vi": "Điều 23"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Chấm dứt hợp đồng bảo hiểm."
+   },
+   "text": {
+    "vi": "Điều 23. Chấm dứt hợp đồng bảo hiểm.\n\nNgoài Các trường hợp chấm dứt hợp đồng theo quy định của Bộ luật Dân sự, hợp đồng bảo hiểm còn chấm dứt trong các trường hợp sau đây:\n\n1. Bên mua bảo hiểm không còn quyền lợi có thể được bảo hiểm;\n\n2. Bên mua bảo hiểm không đóng đủ phí bảo hiểm hoặc không đóng phí bảo hiểm theo thời hạn thỏa thuận trong hợp đồng bảo hiểm, trừ trường hợp các bên có thỏa thuận khác.\n\n3. Bên mua bảo hiểm không đóng đủ phí bảo hiểm trong thời gian gia hạn đóng phí bảo hiểm theo thỏa thuận trong hợp đồng bảo hiểm."
+   }
+  },
+  {
+   "id": "VN-H402-A24",
+   "no": 24,
+   "noLabel": {
+    "vi": "Điều 24"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Hậu quả pháp lý của việc chấm dứt hợp đồng bảo hiểm."
+   },
+   "text": {
+    "vi": "Điều 24. Hậu quả pháp lý của việc chấm dứt hợp đồng bảo hiểm.\n\n1. Trong trường hợp chấm dứt hợp đồng bảo hiểm theo quy định tại khoản 1 Điều 23 của Luật này, doanh nghiệp bảo hiểm phải hoàn lại phí bảo hiểm cho bên mua bảo hiểm tương ứng với thời gian còn lại của hợp đồng bảo hiểm mà bên mua bảo hiểm đã đóng phí bảo hiểm, sau khi đã trừ các chi phí hợp lý có liên quan đến hợp đồng bảo hiểm.\n\n2. Trong trường hợp chấm dứt hợp đồng bảo hiểm theo quy định tại khoản 2 Điều 23 của Luật này, bên mua bảo hiểm vẫn phải đóng đủ phí bảo hiểm đến thời điểm chấm dứt hợp đồng bảo hiểm. Quy định này không áp dụng đối với hợp đồng bảo hiểm con người.\n\n3. Trong trường hợp chấm dứt hợp đồng bảo hiểm theo quy định tại khoản 3 Điều 23 của Luật này, doanh nghiệp bảo hiểm vẫn phải chịu trách nhiệm bồi thường cho người được bảo hiểm khi sự kiện bảo hiểm xảy ra trong thời gian gia hạn đóng phí; bên mua bảo hiểm vẫn phải đóng phí bảo hiểm cho đến hết thời gian gia hạn theo thỏa thuận trong hợp đồng bảo hiểm. Quy định này không áp dụng đối với hợp đồng bảo hiểm con người.\n\n4. Hậu quả pháp lý của việc chấm dứt hợp đồng bảo hiểm trong các trường hợp khác được thực hiện theo quy định của Bộ luật Dân sự và các quy định khác của pháp luật có liên quan."
+   }
+  },
+  {
+   "id": "VN-H402-A25",
+   "no": 25,
+   "noLabel": {
+    "vi": "Điều 25"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Sửa đổi, bổ sung hợp đồng bảo hiểm."
+   },
+   "text": {
+    "vi": "Điều 25. Sửa đổi, bổ sung hợp đồng bảo hiểm.\n\n1. Bên mua bảo hiểm và doanh nghiệp bảo hiểm có thể thỏa thuận sửa đổi, bổ sung phí bảo hiểm, điều kiện, điều khoản bảo hiểm, trừ trường hợp pháp luật có quy định khác.\n\n2. Mọi sửa đổi, bổ sung hợp đồng bảo hiểm phải được lập thành văn bản."
+   }
+  },
+  {
+   "id": "VN-H402-A26",
+   "no": 26,
+   "noLabel": {
+    "vi": "Điều 26"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Chuyển nhượng hợp đồng bảo hiểm."
+   },
+   "text": {
+    "vi": "Điều 26. Chuyển nhượng hợp đồng bảo hiểm.\n\n1. Bên mua bảo hiểm có thể chuyển nhượng hợp đồng bảo hiểm theo thỏa thuận trong hợp đồng bảo hiểm.\n\n2. Việc chuyển nhượng hợp đồng bảo hiểm chỉ có hiệu lực trong trường hợp bên mua bảo hiểm thông báo bằng văn bản cho doanh nghiệp bảo hiểm về việc chuyển nhượng và doanh nghiệp bảo hiểm có văn bản chấp thuận việc chuyển nhượng đó, trừ trường hợp việc chuyển nhượng được thực hiện theo tập quán quốc tế."
+   }
+  },
+  {
+   "id": "VN-H402-A27",
+   "no": 27,
+   "noLabel": {
+    "vi": "Điều 27"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Trách nhiệm trong trường hợp tái bảo hiểm."
+   },
+   "text": {
+    "vi": "Điều 27. Trách nhiệm trong trường hợp tái bảo hiểm.\n\n1. Doanh nghiệp bảo hiểm chịu trách nhiệm duy nhất đối với bên mua bảo hiểm theo hợp đồng bảo hiểm, kể cả trong trường hợp tái bảo hiểm những trách nhiệm đã nhận bảo hiểm.\n\n2. Doanh nghiệp nhận tái bảo hiểm không được yêu cầu bên mua bảo hiểm trực tiếp đóng phí bảo hiểm cho mình, trừ trường hợp có thỏa thuận khác trong hợp đồng bảo hiểm.\n\n3. Bên mua bảo hiểm không được yêu cầu doanh nghiệp nhận tái bảo hiểm trả tiền bảo hiểm hoặc bồi thường cho mình, trừ trường hợp có thỏa thuận khác trong hợp đồng bảo hiểm."
+   }
+  },
+  {
+   "id": "VN-H402-A28",
+   "no": 28,
+   "noLabel": {
+    "vi": "Điều 28"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Thời hạn yêu cầu trả tiền bảo hiểm hoặc bồi thường."
+   },
+   "text": {
+    "vi": "Điều 28. Thời hạn yêu cầu trả tiền bảo hiểm hoặc bồi thường.\n\n1. Thời hạn yêu cầu trả tiền bảo hiểm hoặc bồi thường theo hợp đồng bảo hiểm là một năm, kể từ ngày xảy ra sự kiện bảo hiểm. Thời gian xảy ra sự kiện bất khả kháng hoặc trở ngại khách quan khác không tính vào thời hạn yêu cầu trả tiền bảo hiểm hoặc bồi thường.\n\n2. Trong trường hợp bên mua bảo hiểm chứng minh được rằng bên mua bảo hiểm không biết thời điểm xảy ra sự kiện bảo hiểm thì thời hạn quy định tại khoản 1 Điều Này được tính từ ngày bên mua bảo hiểm biết việc xảy ra sự kiện bảo hiểm đó.\n\n3. Trong trường hợp người thứ ba yêu cầu bên mua bảo hiểm bồi thường về những thiệt hại thuộc trách nhiệm bảo hiểm theo thỏa thuận."
+   }
+  },
+  {
+   "id": "VN-H402-A29",
+   "no": 29,
+   "noLabel": {
+    "vi": "Điều 29"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Thời hạn trả tiền bảo hiểm hoặc bồi thường."
+   },
+   "text": {
+    "vi": "Điều 29. Thời hạn trả tiền bảo hiểm hoặc bồi thường.\n\nKhi Xảy ra sự kiện bảo hiểm, doanh nghiệp bảo hiểm phải trả tiền bảo hiểm hoặc bồi thường theo thời hạn đã thỏa thuận trong hợp đồng bảo hiểm; trong trường hợp không có thỏa thuận về thời hạn thì doanh nghiệp bảo hiểm phải trả tiền bảo hiểm hoặc bồi thường trong thời hạn 15 ngày, kể từ ngày nhận được đầy đủ hồ sơ hợp lệ về yêu cầu trả tiền bảo hiểm hoặc bồi thường."
+   }
+  },
+  {
+   "id": "VN-H402-A30",
+   "no": 30,
+   "noLabel": {
+    "vi": "Điều 30"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Thời hiệu khởi kiện."
+   },
+   "text": {
+    "vi": "Điều 30. Thời hiệu khởi kiện.\n\nThời hiệu khởi kiện về hợp đồng bảo hiểm là ba năm, kể từ thời điểm phát sinh tranh chấp.\n\nMục 2\n\nHỢP ĐỒNG BẢO HIỂM CON NGƯỜI"
+   }
+  },
+  {
+   "id": "VN-H402-A31",
+   "no": 31,
+   "noLabel": {
+    "vi": "Điều 31"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Đối tượng của hợp đồng bảo hiểm con người."
+   },
+   "text": {
+    "vi": "Điều 31. Đối tượng của hợp đồng bảo hiểm con người.\n\n1. Đối tượng của hợp đồng bảo hiểm con người là tuổi thọ, tính mạng, sức khỏe và tai nạn con người.\n\n2. Bên mua bảo hiểm chỉ có thể mua bảo hiểm cho những người sau đây:\n\na) Bản thân bên mua bảo hiểm;\n\nb) Vợ, chồng, con, cha, mẹ của bên mua bảo hiểm;\n\nc) Anh, chị, em ruột; người có quan hệ nuôi dưỡng và cấp dưỡng;\n\nd) Người khác, nếu bên mua bảo hiểm có quyền lợi có thể được bảo hiểm."
+   }
+  },
+  {
+   "id": "VN-H402-A32",
+   "no": 32,
+   "noLabel": {
+    "vi": "Điều 32"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Số tiền bảo hiểm."
+   },
+   "text": {
+    "vi": "Điều 32. Số tiền bảo hiểm.\n\nSố tiền bảo hiểm hoặc phương thức xác định số tiền bảo hiểm được bên mua bảo hiểm và doanh nghiệp bảo hiểm thỏa thuận trong hợp đồng bảo hiểm."
+   }
+  },
+  {
+   "id": "VN-H402-A33",
+   "no": 33,
+   "noLabel": {
+    "vi": "Điều 33"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Căn cứ trả tiền bảo hiểm tai nạn, sức khỏe con người."
+   },
+   "text": {
+    "vi": "Điều 33. Căn cứ trả tiền bảo hiểm tai nạn, sức khỏe con người.\n\n1. Trong bảo hiểm tai nạn con người, doanh nghiệp bảo hiểm phải trả tiền bảo hiểm cho người thụ hưởng trong phạm vi số tiền bảo hiểm, căn cứ vào thương tật thực tế của người được bảo hiểm và thỏa thuận trong hợp đồng bảo hiểm.\n\n2. Trong bảo hiểm sức khỏe con người, doanh nghiệp bảo hiểm phải trả tiền bảo hiểm cho người được bảo hiểm trong phạm vi số tiền bảo hiểm, căn cứ vào chi phí khám bệnh, chữa bệnh, phục hồi sức khỏe của người được bảo hiểm do bệnh tật hoặc tai nạn gây ra và thỏa thuận trong hợp đồng bảo hiểm."
+   }
+  },
+  {
+   "id": "VN-H402-A34",
+   "no": 34,
+   "noLabel": {
+    "vi": "Điều 34"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Thông báo tuổi trong bảo hiểm nhân thọ."
+   },
+   "text": {
+    "vi": "Điều 34. Thông báo tuổi trong bảo hiểm nhân thọ.\n\n1. Bên mua bảo hiểm có nghĩa vụ thông báo chính xác tuổi của người được bảo hiểm vào thời điểm giao kết hợp đồng bảo hiểm để làm cơ sở tính phí bảo hiểm.\n\n2. Trong trường hợp bên mua bảo hiểm thông báo sai tuổi của người được bảo hiểm,nhưng tuổi đúng của người được bảo hiểm không thuộc nhóm tuổi có thể được bảo hiểm thì doanh nghiệp bảo hiểm có quyền hủy bỏ hợp đồng bảo hiểm và hoàn trả phí bảo hiểm đã đóng cho bên mua bảo hiểm sau khi đã trừ các chi phí hợp lý có liên quan. Trong trường hợp hợp đồng bảo hiểm đã có hiệu lực từ hai năm trở lên thì doanh nghiệp bảo hiểm phải trả cho bên mua bảo hiểm giá trị hoàn lại của hợp đồng bảo hiểm.\n\n3. Trong trường hợp bên mua bảo hiểm thông báo sai tuổi của người được bảo hiểm làm giảm số phí bảo hiểm phải đóng, những tuổi đúng của người được bảo hiểm vẫn thuộc nhóm tuổi có thể được bảo hiểm thì doanh nghiệp bảo hiểm có quyền:\n\na) Yêu cầu bên mua bảo hiểm đóng phí bảo hiểm bổ sung tương ứng với số tiền bảo hiểm đã thỏa thuận trong hợp đồng;\n\nb) Giảm số tiền bảo hiểm đã thỏa thuận trong hợp đồng bảo hiểm tương ứng với số phí bảo hiểm đã đóng.\n\n4. Trong trường hợp bên mua bảo hiểm thông báo sai tuổi của người được bảo hiểm dẫn đến tăng số phí bảo hiểm phải đóng, những tuổi đúng của người được bảo hiểm vẫn thuộc nhóm tuổi có thể được bảo hiểm thì doanh nghiệp bảo hiểm phải hoàn trả cho bên mua bảo hiểm số phí bảo hiểm vượt trội đã đóng hoặc tăng số tiền bảo hiểm đã thỏa thuận trong hợp đồng bảo hiểm tương ứng với số phí bảo hiểm đã đóng."
+   }
+  },
+  {
+   "id": "VN-H402-A35",
+   "no": 35,
+   "noLabel": {
+    "vi": "Điều 35"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Đóng phí bảo hiểm nhân thọ."
+   },
+   "text": {
+    "vi": "Điều 35. Đóng phí bảo hiểm nhân thọ.\n\n1. Bên mua bảo hiểm có thể đóng phí bảo hiểm một lần hoặc nhiều lần theo thời hạn,phương thức thỏa thuận trong hợp đồng bảo hiểm.\n\n2. Trong trường hợp phí bảo hiểm được đóng nhiều lần và bên mua bảo hiểm đã đóng một hoặc một số lần phí bảo hiểm nhưng không thể đóng được các khoản phí bảo hiểm tiếp theo thì sau thời hạn 60 ngày, kể từ ngày gia hạn đóng phí, doanh nghiệp bảo hiểm có quyền đơn phương đình chỉ thực hiện hợp đồng, bên mua bảo hiểm không có quyền đòi lại khoản phí bảo hiểm đã đóng nếu thời gian đã đóng phí bảo hiểm dưới hai năm, trừ trường hợp các bên có thỏa thuận khác.\n\n3. Trong trường hợp bên mua bảo hiểm đã đóng phí bảo hiểm từ hai năm trở lên mà doanh nghiệp bảo hiểm đơn phương đình chỉ thực hiện hợp đồng theo quy định tại khoản 2 Điều này thì doanh nghiệp bảo hiểm phải trả cho bên mua bảo hiểm giá trị hoàn lại của hợp đồng bảo hiểm, trừ trường hợp các bên có thỏa thuận khác.\n\n4. Các bên có thể thỏa thuận khôi phục hiệu lực hợp đồng bảo hiểm đã bị đơn phương đình chỉ thực hiện theo quy định tại khoản 2 Điều này trong thời hạn hai năm,kể từ ngày bị đình chỉ và bên mua bảo hiểm đã đóng số phí bảo hiểm còn thiếu."
+   }
+  },
+  {
+   "id": "VN-H402-A36",
+   "no": 36,
+   "noLabel": {
+    "vi": "Điều 36"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Không được khởi kiện đòi đóng phí bảo hiểm."
+   },
+   "text": {
+    "vi": "Điều 36. Không được khởi kiện đòi đóng phí bảo hiểm.\n\nTrong bảo hiểm con người, nếu bên mua bảo hiểm không đóng hoặc đóng không đủ phí bảo hiểm thì doanh nghiệp bảo hiểm không được khởi kiện đòi bên mua bảo hiểm đóng phí bảo hiểm."
+   }
+  },
+  {
+   "id": "VN-H402-A37",
+   "no": 37,
+   "noLabel": {
+    "vi": "Điều 37"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Không được yêu cầu người thứ ba bồi hoàn."
+   },
+   "text": {
+    "vi": "Điều 37. Không được yêu cầu người thứ ba bồi hoàn.\n\nTrong Trường hợp người được bảo hiểm chết, bị thương tật hoặc đau ốm do hành vi trực tiếp hoặc gián tiếp của người thứ ba gây ra, doanh nghiệp bảo hiểm vẫn có nghĩa vụ trả tiền bảo hiểm mà không có quyền yêu cầu người thứ ba bồi hoàn khoản tiền mà doanh nghiệp bảo hiểm đã trả cho người thụ hưởng. Người thứ ba phải chịu trách nhiệm bồi thường cho người được bảo hiểm theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H402-A38",
+   "no": 38,
+   "noLabel": {
+    "vi": "Điều 38"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Giao kết hợp đồng bảo hiểm con người cho trường hợp chết."
+   },
+   "text": {
+    "vi": "Điều 38. Giao kết hợp đồng bảo hiểm con người cho trường hợp chết.\n\n1. Khi bên mua bảo hiểm giao kết hợp đồng bảo hiểm con người cho trường hợp chết của người khác thì phải được người đó đồng ý bằng văn bản trong đó ghi rõ số tiền bảo hiểm và người thụ hưởng. Mọi Trường hợp thay đổi người thụ hưởng phải có sự đồng ý bằng văn bản của bên mua bảo hiểm.\n\n2. Không được giao kết hợp đồng bảo hiểm con người cho trường hợp chết của những người sau đây:\n\na) Người dưới 18 tuổi, trừ trường hợp cha, mẹ hoặc người giám hộ của người đó đồng ý bằng văn bản;\n\nb) Người đang mắc bệnh tâm thần."
+   }
+  },
+  {
+   "id": "VN-H402-A39",
+   "no": 39,
+   "noLabel": {
+    "vi": "Điều 39"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Các trường hợp không trả tiền bảo hiểm."
+   },
+   "text": {
+    "vi": "Điều 39. Các trường hợp không trả tiền bảo hiểm.\n\n1. Doanh nghiệp bảo hiểm không phải trả tiền bảo hiểm trong các trường hợp sau đây:\n\na) Người được bảo hiểm chết do tự tử trong thời hạn hai năm, kể từ ngày nộp khoản phí bảo hiểm đầu tiên hoặc kể từ ngày hợp đồng bảo hiểm tiếp tục có hiệu lực;\n\nb) Người được bảo hiểm chết hoặc bị thương tật vĩnh viễn do lỗi cố ý của bên mua bảo hiểm hoặc lỗi cố ý của người thụ hưởng;\n\nc) Người được bảo hiểm chết do bị thi hành án tử hình.\n\n2. Trong trường hợp một hoặc một số người thụ hưởng cố ý gây ra cái chết hay thương tật vĩnh viễn cho người được bảo hiểm, doanh nghiệp bảo hiểm vẫn phải trả tiền bảo hiểm cho những người thụ hưởng khác theo thỏa thuận trong hợp đồng bảo hiểm.\n\n3. Trong những trường hợp quy định tại khoản 1 Điều này, doanh nghiệp bảo hiểm phải trả cho bên mua bảo hiểm giá trị hoàn lại của hợp đồng bảo hiểm hoặc toàn bộ số phí bảo hiểm đã đóng sau khi đã trừ các chi phí hợp lý có liên quan;nếu bên mua bảo hiểm chết thì số tiền trả lại được giải quyết theo quy định của pháp luật về thừa kế.\n\nMục 3\n\nHỢP ĐỒNG BẢO HIỂM TÀI SẢN"
+   }
+  },
+  {
+   "id": "VN-H402-A40",
+   "no": 40,
+   "noLabel": {
+    "vi": "Điều 40"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Đối tượng của hợp đồng bảo hiểm tài sản."
+   },
+   "text": {
+    "vi": "Điều 40. Đối tượng của hợp đồng bảo hiểm tài sản.\n\nĐối tượng của hợp đồng bảo hiểm tài sản là tài sản, bao gồm vật có thực, tiền, giấy tờ trị giá được bằng tiền và các quyền tài sản."
+   }
+  },
+  {
+   "id": "VN-H402-A41",
+   "no": 41,
+   "noLabel": {
+    "vi": "Điều 41"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Số tiền bảo hiểm."
+   },
+   "text": {
+    "vi": "Điều 41. Số tiền bảo hiểm.\n\nSố tiền bảo hiểm là số tiền mà bên mua bảo hiểm yêu cầu bảo hiểm cho tài sản đó."
+   }
+  },
+  {
+   "id": "VN-H402-A42",
+   "no": 42,
+   "noLabel": {
+    "vi": "Điều 42"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Hợp đồng bảo hiểm tài sản trên giá trị."
+   },
+   "text": {
+    "vi": "Điều 42. Hợp đồng bảo hiểm tài sản trên giá trị.\n\n1. Hợp đồng bảo hiểm tài sản trên giá trị là hợp đồng trong đó số tiền bảo hiểm cao hơn giá thị trường của tài sản được bảo hiểm tại thời điểm giao kết hợp đồng. Doanh nghiệp bảo hiểm và bên mua bảo hiểm không được giao kết hợp đồng bảo hiểm tài sản trên giá trị.\n\n2. Trong trường hợp hợp đồng bảo hiểm tài sản trên giá trị được giao kết do lỗi vô ý của bên mua bảo hiểm, doanh nghiệp bảo hiểm phải hoàn lại cho bên mua bảo hiểm số phí bảo hiểm đã đóng tương ứng với số tiền bảo hiểm vượt quá giá thị trường của tài sản được bảo hiểm, sau khi trừ các chi phí hợp lý có liên quan. Trong Trường hợp xảy ra sự kiện bảo hiểm, doanh nghiệp bảo hiểm chỉ chịu trách nhiệm bồi thường thiệt hại không vượt quá giá thị trường của tài sản được bảo hiểm."
+   }
+  },
+  {
+   "id": "VN-H402-A43",
+   "no": 43,
+   "noLabel": {
+    "vi": "Điều 43"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Hợp đồng bảo hiểm tài sản dưới giá trị."
+   },
+   "text": {
+    "vi": "Điều 43. Hợp đồng bảo hiểm tài sản dưới giá trị.\n\n1. Hợp đồng bảo hiểm tài sản dưới giá trị là hợp đồng trong đó số tiền bảo hiểm thấp hơn giá thị trường của tài sản được bảo hiểm tại thời điểm giao kết hợp đồng.\n\n2. Trong trường hợp hợp đồng bảo hiểm tài sản dưới giá trị được giao kết, doanh nghiệp bảo hiểm chỉ chịu trách nhiệm bồi thường theo tỷ lệ giữa số tiền bảo hiểm và giá thị trường của tài sản được bảo hiểm tại thời điểm giao kết hợp đồng."
+   }
+  },
+  {
+   "id": "VN-H402-A44",
+   "no": 44,
+   "noLabel": {
+    "vi": "Điều 44"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Hợp đồng bảo hiểm trùng."
+   },
+   "text": {
+    "vi": "Điều 44. Hợp đồng bảo hiểm trùng.\n\n1. Hợp đồng bảo hiểm trùng là trường hợp bên mua bảo hiểm giao kết hợp đồng bảo hiểm với hai doanh nghiệp bảo hiểm trở lên để bảo hiểm cho cùng một đối tượng,với cùng điều kiện và sự kiện bảo hiểm.\n\n2. Trong trường hợp các bên giao kết hợp đồng bảo hiểm trùng, khi xảy ra sự kiện bảo hiểm, mỗi doanh nghiệp bảo hiểm chỉ chịu trách nhiệm bồi thường theo tỷ lệ giữa số tiền bảo hiểm đã thỏa thuận trên tổng số tiền bảo hiểm của tất cả các hợp đồng mà bên mua bảo hiểm đã giao kết. Tổng số tiền bồi thường của các doanh nghiệp bảo hiểm không vượt quá giá trị thiệt hại thực tế của tài sản."
+   }
+  },
+  {
+   "id": "VN-H402-A45",
+   "no": 45,
+   "noLabel": {
+    "vi": "Điều 45"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Tổn thất do hao mòn tự nhiên hoặc do bản chất vốn có của tài sản."
+   },
+   "text": {
+    "vi": "Điều 45. Tổn thất do hao mòn tự nhiên hoặc do bản chất vốn có của tài sản.\n\nDoanh nghiệp bảo hiểm không chịu trách nhiệm trong trường hợp tài sản được bảo hiểm bị tổn thất do hao mòn tự nhiên hoặc do bản chất vốn có của tài sản, trừ trường hợp có thỏa thuận khác trong hợp đồng bảo hiểm."
+   }
+  },
+  {
+   "id": "VN-H402-A46",
+   "no": 46,
+   "noLabel": {
+    "vi": "Điều 46"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Căn cứ bồi thường."
+   },
+   "text": {
+    "vi": "Điều 46. Căn cứ bồi thường.\n\n1. Số tiền bồi thường mà doanh nghiệp bảo hiểm phải trả cho người được bảo hiểm được xác định trên cơ sở giá thị trường của tài sản được bảo hiểm tại thời điểm, nơi xảy ra tổn thất và mức độ thiệt hại thực tế, trừ trường hợp có thỏa thuận khác trong hợp đồng bảo hiểm. Chi phí để xác định giá thị trường và mức độ thiệt hại do doanh nghiệp bảo hiểm chịu.\n\n2. Số tiền bồi thường mà doanh nghiệp bảo hiểm trả cho người được bảo hiểm không vượt quá số tiền bảo hiểm, trừ trường hợp có thỏa thuận khác trong hợp đồng bảo hiểm.\n\n3. Ngoài số tiền bồi thường, doanh nghiệp bảo hiểm còn phải trả cho người được bảo hiểm những chi phí cần thiết, hợp lý để đề phòng, hạn chế tổn thất và những chi phí phát sinh mà người được bảo hiểm phải chịu để thực hiện chỉ dẫn của doanh nghiệp bảo hiểm."
+   }
+  },
+  {
+   "id": "VN-H402-A47",
+   "no": 47,
+   "noLabel": {
+    "vi": "Điều 47"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Hình thức bồi thường."
+   },
+   "text": {
+    "vi": "Điều 47. Hình thức bồi thường.\n\n1. Bên mua bảo hiểm và doanh nghiệp bảo hiểm có thể thỏa thuận một trong các hình thức bồi thường sau đây:\n\na) Sửa chữa tài sản bị thiệt hại;\n\nb) Thay thế tài sản bị thiệt hại bằng tài sản khác;\n\nc) Trả tiền bồi thường.\n\n2. Trong trường hợp doanh nghiệp bảo hiểm và bên mua bảo hiểm không thỏa thuận được về hình thức bồi thường thì việc bồi thường sẽ được thực hiện bằng tiền.\n\n3. Trong trường hợp bồi thường theo quy định tại điểm b và điểm c khoản 1 Điều Này, doanh nghiệp bảo hiểm có quyền thu hồi tài sản bị thiệt hại sau khi đã thay thế hoặc bồi thường toàn bộ theo giá thị trường của tài sản."
+   }
+  },
+  {
+   "id": "VN-H402-A48",
+   "no": 48,
+   "noLabel": {
+    "vi": "Điều 48"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Giám định tổn thất."
+   },
+   "text": {
+    "vi": "Điều 48. Giám định tổn thất.\n\n1. Khi xảy ra sự kiện bảo hiểm, doanh nghiệp bảo hiểm hoặc người được doanh nghiệp bảo hiểm uỷ quyền thực hiện việc giám định tổn thất để xác định nguyên nhân và mức độ tổn thất. Chi phí giám định tổn thất do doanh nghiệp bảo hiểm chịu.\n\n2. Trong trường hợp các bên không thống nhất về nguyên nhân và mức độ tổn thất thì có thể trưng cầu giám định viên độc lập, trừ trường hợp có thỏa thuận khác trong hợp đồng bảo hiểm. Trong trường hợp các bên không thỏa thuận được việc trưng cầu giám định viên độc lập thì một trong các bên được yêu cầu tòa án nơi xảy ra tổn thất hoặc nơi cư trú của người được bảo hiểm chỉ định giám định viên độc lập. Kết luận của giám định viên độc lập có giá trị bắt buộc đối với các bên."
+   }
+  },
+  {
+   "id": "VN-H402-A49",
+   "no": 49,
+   "noLabel": {
+    "vi": "Điều 49"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Trách nhiệm chuyển quyền yêu cầu bồi hoàn."
+   },
+   "text": {
+    "vi": "Điều 49. Trách nhiệm chuyển quyền yêu cầu bồi hoàn.\n\n1. Trong trường hợp người thứ ba có lỗi gây thiệt hại cho người được bảo hiểm và doanh nghiệp bảo hiểm đã trả tiền bồi thường cho người được bảo hiểm thì người được bảo hiểm phải chuyển quyền yêu cầu người thứ ba bồi hoàn khoản tiền mà mình đã nhận bồi thường cho doanh nghiệp bảo hiểm.\n\n2. Trong trường hợp người được bảo hiểm từ chối chuyển quyền cho doanh nghiệp bảo hiểm, không bảo lưu hoặc từ bỏ quyền yêu cầu người thứ ba bồi thường thì doanh nghiệp bảo hiểm có quyền khấu trừ số tiền bồi thường tùy theo mức độ lỗi của người được bảo hiểm.\n\n3. Doanh nghiệp bảo hiểm không được yêu cầu cha, mẹ, vợ, chồng, con, anh, chị, em ruột của người được bảo hiểm bồi hoàn khoản tiền mà doanh nghiệp bảo hiểm đã trả cho người được bảo hiểm, trừ trường hợp những người này cố ý gây ra tổn thất."
+   }
+  },
+  {
+   "id": "VN-H402-A50",
+   "no": 50,
+   "noLabel": {
+    "vi": "Điều 50"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Các quy định về an toàn."
+   },
+   "text": {
+    "vi": "Điều 50. Các quy định về an toàn.\n\n1. Người được bảo hiểm phải thực hiện các quy định về phòng cháy, chữa cháy, an toàn lao động, vệ sinh lao động và những quy định khác của pháp luật có liên quan nhằm bảo đảm an toàn cho đối tượng bảo hiểm.\n\n2. Doanh nghiệp bảo hiểm có quyền kiểm tra các điều kiện bảo đảm an toàn cho đối tượng bảo hiểm hoặc khuyến nghị, yêu cầu người được bảo hiểm áp dụng các biện pháp đề phòng, hạn chế rủi ro.\n\n3. Trong trường hợp người được bảo hiểm không thực hiện các biện pháp bảo đảm an toàn cho đối tượng bảo hiểm thì doanh nghiệp bảo hiểm có quyền ấn định một thời hạn để người được bảo hiểm thực hiện các biện pháp đó; nếu hết thời hạn này mà các biện pháp bảo đảm an toàn vẫn không được thực hiện thì doanh nghiệp bảo hiểm có quyền tăng phí bảo hiểm hoặc đơn phương đình chỉ thực hiện hợp đồng bảo hiểm.\n\n4. Doanh nghiệp bảo hiểm có thể áp dụng các biện pháp phòng ngừa để bảo đảm an toàn cho đối tượng bảo hiểm khi được sự đồng ý của bên mua bảo hiểm hoặc của cơ quan nhà nước có thẩm quyền."
+   }
+  },
+  {
+   "id": "VN-H402-A51",
+   "no": 51,
+   "noLabel": {
+    "vi": "Điều 51"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Không được từ bỏ tài sản được bảo hiểm."
+   },
+   "text": {
+    "vi": "Điều 51. Không được từ bỏ tài sản được bảo hiểm.\n\nTrong trường hợp xảy ra tổn thất, người được bảo hiểm không được từ bỏ tài sản được bảo hiểm, trừ trường hợp pháp luật có quy định hoặc các bên có thỏa thuận khác.\n\nMục 4\n\nHỢP ĐỒNG BẢO HIỂM TRÁCH NHIỆM DÂN SỰ"
+   }
+  },
+  {
+   "id": "VN-H402-A52",
+   "no": 52,
+   "noLabel": {
+    "vi": "Điều 52"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Đối tượng của hợp đồng bảo hiểm trách nhiệm dân sự."
+   },
+   "text": {
+    "vi": "Điều 52. Đối tượng của hợp đồng bảo hiểm trách nhiệm dân sự.\n\nĐối tượng của hợp đồng bảo hiểm trách nhiệm dân sự là trách nhiệm dân sự của người được bảo hiểm đối với người thứ ba theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H402-A53",
+   "no": 53,
+   "noLabel": {
+    "vi": "Điều 53"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Trách nhiệm của doanh nghiệp bảo hiểm."
+   },
+   "text": {
+    "vi": "Điều 53. Trách nhiệm của doanh nghiệp bảo hiểm.\n\n1. Trách nhiệm của doanh nghiệp bảo hiểm chỉ phát sinh nếu người thứ ba yêu cầu người được bảo hiểm bồi thường thiệt hại do lỗi của người đó gây ra cho người thứ ba trong thời hạn bảo hiểm.\n\n2. Người thứ ba không có quyền trực tiếp yêu cầu doanh nghiệp bảo hiểm trả tiền bồi thường, trừ trường hợp pháp luật có quy định khác."
+   }
+  },
+  {
+   "id": "VN-H402-A54",
+   "no": 54,
+   "noLabel": {
+    "vi": "Điều 54"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Số tiền bảo hiểm."
+   },
+   "text": {
+    "vi": "Điều 54. Số tiền bảo hiểm.\n\nSố tiền bảo hiểm là số tiền mà doanh nghiệp bảo hiểm phải trả cho người được bảo hiểm theo thỏa thuận trong hợp đồng bảo hiểm."
+   }
+  },
+  {
+   "id": "VN-H402-A55",
+   "no": 55,
+   "noLabel": {
+    "vi": "Điều 55"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Giới hạn trách nhiệm bảo hiểm."
+   },
+   "text": {
+    "vi": "Điều 55. Giới hạn trách nhiệm bảo hiểm.\n\n1. Trong phạm vi số tiền bảo hiểm, doanh nghiệp bảo hiểm phải trả cho người được bảo hiểm những khoản tiền mà theo quy định của pháp luật người được bảo hiểm có trách nhiệm bồi thường cho người thứ ba.\n\n2. Ngoài việc trả tiền bồi thường theo quy định tại khoản 1 Điều này, doanh nghiệp bảo hiểm còn phải trả các chi phí liên quan đến việc giải quyết tranh chấp về trách nhiệm đối với người thứ ba và lãi phải trả cho người thứ ba do người được bảo hiểm chậm trả tiền bồi thường theo chỉ dẫn của doanh nghiệp bảo hiểm.\n\n3. Tổng số tiền bồi thường của doanh nghiệp bảo hiểm quy định tại khoản 1 và khoản 2 Điều này không vượt quá số tiền bảo hiểm, trừ trường hợp có thỏa thuận khác trong hợp đồng bảo hiểm.\n\n4. Trong trường hợp người được bảo hiểm phải đóng tiền bảo lãnh hoặc ký quỹ để bảo đảm cho tài sản không bị lưu giữ hoặc để tránh việc khởi kiện tại tòa án thì theo yêu cầu của người được bảo hiểm, doanh nghiệp bảo hiểm phải thực hiện việc bảo lãnh hoặc ký quỹ trong phạm vi số tiền bảo hiểm."
+   }
+  },
+  {
+   "id": "VN-H402-A56",
+   "no": 56,
+   "noLabel": {
+    "vi": "Điều 56"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Quyền đại diện cho người được bảo hiểm."
+   },
+   "text": {
+    "vi": "Điều 56. Quyền đại diện cho người được bảo hiểm.\n\nDoanh nghiệp bảo hiểm có quyền thay mặt bên mua bảo hiểm để thương lượng với người thứ ba về mức độ bồi thường thiệt hại, trừ trường hợp có thỏa thuận khác trong hợp đồng bảo hiểm."
+   }
+  },
+  {
+   "id": "VN-H402-A57",
+   "no": 57,
+   "noLabel": {
+    "vi": "Điều 57"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Phương thức bồi thường."
+   },
+   "text": {
+    "vi": "Điều 57. Phương thức bồi thường.\n\nTheo yêu cầu của người được bảo hiểm, doanh nghiệp bảo hiểm có thể bồi thường trực tiếp cho người được bảo hiểm hoặc cho người thứ ba bị thiệt hại.\n\nChương III\n\nDOANH NGHIỆP BẢO HIỂM\n\nMục 1\n\nCẤP GIẤY PHÉP THÀNH LẬP VÀ HOẠT ĐỘNG"
+   }
+  },
+  {
+   "id": "VN-H402-A58",
+   "no": 58,
+   "noLabel": {
+    "vi": "Điều 58"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Thành lập và hoạt động của doanh nghiệp bảo hiểm."
+   },
+   "text": {
+    "vi": "Điều 58. Thành lập và hoạt động của doanh nghiệp bảo hiểm.\n\nDoanh nghiệp bảo hiểm được thành lập và hoạt động theo quy định của Luật này và các quy định khác của pháp luật có liên quan."
+   }
+  },
+  {
+   "id": "VN-H402-A59",
+   "no": 59,
+   "noLabel": {
+    "vi": "Điều 59"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Các loại hình doanh nghiệp bảo hiểm."
+   },
+   "text": {
+    "vi": "Điều 59. Các loại hình doanh nghiệp bảo hiểm.\n\nCác Loại hình doanh nghiệp bảo hiểm bao gồm:\n\n1. Doanh nghiệp bảo hiểm nhà nước;\n\n2. Công ty cổ phần bảo hiểm;\n\n3. Tổ chức bảo hiểm tương hỗ;\n\n4. Doanh nghiệp bảo hiểm liên doanh;\n\n5. Doanh nghiệp bảo hiểm 100% vốn đầu tư nước ngoài."
+   }
+  },
+  {
+   "id": "VN-H402-A60",
+   "no": 60,
+   "noLabel": {
+    "vi": "Điều 60"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Nội dung hoạt động của doanh nghiệp bảo hiểm."
+   },
+   "text": {
+    "vi": "Điều 60. Nội dung hoạt động của doanh nghiệp bảo hiểm.\n\n1. Nội dung hoạt động của doanh nghiệp bảo hiểm bao gồm:\n\na) Kinh doanh bảo hiểm, kinh doanh tái bảo hiểm;\n\nb) Đề phòng, hạn chế rủi ro, tổn thất;\n\nc) Giám định tổn thất;\n\nĐại lý giám định tổn thất, xét giải quyết bồi thường, yêu cầu người thứ ba bồi hoàn;\n\nđ) Quản lý quỹ và đầu tư vốn;\n\ne) Các hoạt động khác theo quy định của pháp luật.\n\n2. Doanh nghiệp bảo hiểm không được phép đồng thời kinh doanh bảo hiểm nhân thọ và bảo hiểm phi nhân thọ, trừ trường hợp doanh nghiệp bảo hiểm nhân thọ kinh doanh nghiệp vụ bảo hiểm sức khỏe và bảo hiểm tai nạn con người bổ trợ cho bảo hiểm nhân thọ."
+   }
+  },
+  {
+   "id": "VN-H402-A61",
+   "no": 61,
+   "noLabel": {
+    "vi": "Điều 61"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Nội dung kinh doanh tái bảo hiểm."
+   },
+   "text": {
+    "vi": "Điều 61. Nội dung kinh doanh tái bảo hiểm.\n\nKinh doanh tái bảo hiểm bao gồm:\n\n1. Chuyển một phần trách nhiệm đã nhận bảo hiểm cho một hay nhiều doanh nghiệp bảo hiểm khác;\n\n2. Nhận bảo hiểm lại một phần hay toàn bộ trách nhiệm mà doanh nghiệp bảo hiểm khác đã nhận bảo hiểm."
+   }
+  },
+  {
+   "id": "VN-H402-A62",
+   "no": 62,
+   "noLabel": {
+    "vi": "Điều 62"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Thẩm quyền cấp giấy phép thành lập và hoạt động."
+   },
+   "text": {
+    "vi": "Điều 62. Thẩm quyền cấp giấy phép thành lập và hoạt động.\n\n1. Bộ Tài chính cấp giấy phép thành lập và hoạt động cho doanh nghiệp bảo hiểm theo quy định của Luật này và các quy định khác của pháp luật có liên quan.\n\n2. Việc cấp giấy phép thành lập và hoạt động cho doanh nghiệp bảo hiểm phải phù hợp với quy hoạch, kế hoạch định hướng phát triển thị trường bảo hiểm, thị trường tài chính của Việt Nam."
+   }
+  },
+  {
+   "id": "VN-H402-A63",
+   "no": 63,
+   "noLabel": {
+    "vi": "Điều 63"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Điều kiện để được cấp giấy phép thành lập và hoạt động."
+   },
+   "text": {
+    "vi": "Điều 63. Điều kiện để được cấp giấy phép thành lập và hoạt động.\n\nCác điều kiện để được cấp giấy phép thành lập và hoạt động bao gồm:\n\n1. Có số vốn điều lệ đã góp không thấp hơn mức vốn pháp định theo quy định của Chính phủ;\n\n2. Có hồ sơ xin cấp giấy phép thành lập và hoạt động theo quy định tại Điều 64 của Luật này;\n\n3. Có loại hình doanh nghiệp và điều lệ phù hợp với quy định của Luật này và các quy định khác của pháp luật;\n\n4. Người quản trị, người điều hành có năng lực quản lý, chuyên môn, nghiệp vụ về bảo hiểm."
+   }
+  },
+  {
+   "id": "VN-H402-A64",
+   "no": 64,
+   "noLabel": {
+    "vi": "Điều 64"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Hồ sơ xin cấp giấy phép thành lập và hoạt động."
+   },
+   "text": {
+    "vi": "Điều 64. Hồ sơ xin cấp giấy phép thành lập và hoạt động.\n\nHồ sơ xin cấp giấy phép thành lập và hoạt động bao gồm:\n\n1. Đơn xin cấp giấy phép thành lập và hoạt động;\n\n2. Dự thảo điều lệ doanh nghiệp;\n\n3. Phương án hoạt động năm năm đầu, trong đó nêu rõ phương thức trích lập dự phòng nghiệp vụ chương trình tái bảo hiểm, đầu tư vốn, hiệu quả kinh doanh, khả năng thanh toán của doanh nghiệp bảo hiểm và lợi ích kinh tế của việc thành lập doanh nghiệp;\n\n4. Danh sách, lý lịch, các văn bằng chứng minh năng lực, trình độ chuyên môn,nghiệp vụ của người quản trị, người điều hành doanh nghiệp;\n\n5. Mức vốn góp và phương thức góp vốn, danh sách những tổ chức, cá nhân chiếm 10%số vốn điều lệ trở lên; tình hình tài chính và những thông tin khác có liên quan đến các tổ chức, cá nhân đó;\n\n6. Quy tắc, điều khoản, biểu phí, hoa hồng bảo hiểm của loại sản phẩm bảo hiểm dự kiến tiến hành."
+   }
+  },
+  {
+   "id": "VN-H402-A65",
+   "no": 65,
+   "noLabel": {
+    "vi": "Điều 65"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Thời hạn cấp giấy phép."
+   },
+   "text": {
+    "vi": "Điều 65. Thời hạn cấp giấy phép.\n\nTrong thời hạn 60 ngày, kể từ ngày nhận đủ hồ sơ xin cấp giấy phép thành lập và hoạt động, Bộ Tài chính phải cấp hoặc từ chối cấp giấy phép.\n\nTrong trường hợp từ chối cấp giấy phép, Bộ Tài chính phải có văn bản giải thích lý do.\n\nGiấy phép thành lập và hoạt động đồng thời là giấy chứng nhận đăng ký kinh doanh."
+   }
+  },
+  {
+   "id": "VN-H402-A66",
+   "no": 66,
+   "noLabel": {
+    "vi": "Điều 66"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Lệ phí cấp giấy phép."
+   },
+   "text": {
+    "vi": "Điều 66. Lệ phí cấp giấy phép.\n\nDoanh nghiệp bảo hiểm được cấp giấy phép thành lập và hoạt động phải nộp lệ phí cấp giấy phép theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H402-A67",
+   "no": 67,
+   "noLabel": {
+    "vi": "Điều 67"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Công bố nội dung hoạt động."
+   },
+   "text": {
+    "vi": "Điều 67. Công bố nội dung hoạt động.\n\nSau khi được cấp giấy phép thành lập và hoạt động, doanh nghiệp bảo hiểm phải công bố nội dung hoạt động kinh doanh theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H402-A68",
+   "no": 68,
+   "noLabel": {
+    "vi": "Điều 68"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Thu hồi giấy phép thành lập và hoạt động."
+   },
+   "text": {
+    "vi": "Điều 68. Thu hồi giấy phép thành lập và hoạt động.\n\n1. Doanh nghiệp bảo hiểm có thể bị thu hồi giấy phép thành lập và hoạt động khi xảy ra một trong những trường hợp sau đây:\n\na) Hồ sơ xin cấp giấy phép thành lập và hoạt động có thông tin cố ý làm sai sự thật;\n\nb) Sau 12 tháng kể từ ngày được cấp giấy phép thành lập và hoạt động mà không bắt đầu hoạt động;\n\nc) Giải thể theo quy định tại Điều 82 của Luật này;\n\nd) Chia, tách, hợp nhất, sáp nhập, phá sản, chuyển đổi hình thức doanh nghiệp;\n\nđ) Hoạt động sai mục đích hoặc không đúng với nội dung quy định trong giấy phép thành lập và hoạt động;\n\ne) Không bảo đảm các yêu cầu về tài chính để thực hiện các cam kết với bên mua bảo hiểm.\n\n2. Trong trường hợp bị thu hồi giấy phép thành lập và hoạt động theo quy định tại các điểm a, b, c, đ và e khoản 1 Điều này, doanh nghiệp bảo hiểm phải đình chỉ ngay việc giao kết hợp đồng bảo hiểm mới, nhưng vẫn có trách nhiệm trả tiền bảo hiểm cho người thụ hưởng hoặc bồi thường cho người được bảo hiểm và phải thực hiện các hợp đồng bảo hiểm đã giao kết trước ngày bị thu hồi giấy phép thành lập và hoạt động. Trong trường hợp bị thu hồi giấy phép thành lập và hoạt động theo quy định tại điểm d khoản 1 Điều này, quyền và nghĩa vụ của các bên được thực hiện theo quy định của pháp luật.\n\n3. Quyết định thu hồi giấy phép thành lập và hoạt động của doanh nghiệp bảo hiểm được Bộ Tài chính công bố trên các phương tiện thông tin đại chúng."
+   }
+  },
+  {
+   "id": "VN-H402-A69",
+   "no": 69,
+   "noLabel": {
+    "vi": "Điều 69"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Những thay đổi phải được chấp thuận."
+   },
+   "text": {
+    "vi": "Điều 69. Những thay đổi phải được chấp thuận.\n\n1. Doanh nghiệp bảo hiểm phải được Bộ Tài chính chấp thuận bằng văn bản khi thay đổi một trong những nội dung sau đây:\n\na) Tên doanh nghiệp;\n\nb) Vốn điều lệ;\n\nc) Mở hoặc chấm dứt hoạt động của chi nhánh, văn phòng đại diện;\n\nd) Địa điểm đặt trụ sở chính, chi nhánh, văn phòng đại diện;\n\nđ) Nội dung, phạm vi và thời hạn hoạt động;\n\ne) Chuyển nhượng cổ phần, phần vốn góp chiếm 10% số vốn điều lệ trở lên;\n\ng) Chủ tịch Hội đồng quản trị, Tổng giám đốc (Giám đốc);\n\nh) Chia, tách, sáp nhập, hợp nhất, giải thể, chuyển đổi hình thức doanh nghiệp.\n\n2. Trong thời hạn 30 ngày, kể từ ngày Bộ Tài chính chấp thuận việc thay đổi theo quy định tại khoản 1 Điều này, doanh nghiệp bảo hiểm phải công bố các nội dung thay đổi đã được chấp thuận theo quy định của pháp luật.\n\nMục 2\n\nTỔ CHỨC BẢO HIỂM TƯƠNG HỖ"
+   }
+  },
+  {
+   "id": "VN-H402-A70",
+   "no": 70,
+   "noLabel": {
+    "vi": "Điều 70"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Tổ chức bảo hiểm tương hỗ."
+   },
+   "text": {
+    "vi": "Điều 70. Tổ chức bảo hiểm tương hỗ.\n\nTổ chức bảo hiểm tương hỗ là tổ chức có tư cách pháp nhân được thành lập để kinh doanh bảo hiểm nhằm tương trợ, giúp đỡ lẫn nhau giữa các thành viên. Thành viên tổ chức bảo hiểm tương hỗ vừa là chủ sở hữu vừa là bên mua bảo hiểm."
+   }
+  },
+  {
+   "id": "VN-H402-A71",
+   "no": 71,
+   "noLabel": {
+    "vi": "Điều 71"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Thành viên tổ chức bảo hiểm tương hỗ."
+   },
+   "text": {
+    "vi": "Điều 71. Thành viên tổ chức bảo hiểm tương hỗ.\n\n1. Tổ chức, công dân Việt Nam từ đủ 18 tuổi trở lên, có năng lực hành vi dân sự đầy đủ hoạt động trong cùng một lĩnh vực, ngành nghề có nhu cầu bảo hiểm đều có quyền tham gia thành lập tổ chức bảo hiểm tương hỗ với tư cách là thành viên sáng lập.\n\n2. Chỉ các tổ chức, cá nhân giao kết hợp đồng bảo hiểm với tổ chức bảo hiểm tương hỗ mới có thể trở thành thành viên của tổ chức bảo hiểm tương hỗ."
+   }
+  },
+  {
+   "id": "VN-H402-A72",
+   "no": 72,
+   "noLabel": {
+    "vi": "Điều 72"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Giới hạn trách nhiệm của tổ chức bảo hiểm tương hỗ."
+   },
+   "text": {
+    "vi": "Điều 72. Giới hạn trách nhiệm của tổ chức bảo hiểm tương hỗ.\n\nTổ chức bảo hiểm tương hỗ chỉ chịu trách nhiệm về các khoản nợ và các nghĩa vụ tài sản khác của tổ chức trong phạm vi tài sản của tổ chức."
+   }
+  },
+  {
+   "id": "VN-H402-A73",
+   "no": 73,
+   "noLabel": {
+    "vi": "Điều 73"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Thành lập, tổ chức và hoạt động của tổ chức bảo hiểm tương hỗ."
+   },
+   "text": {
+    "vi": "Điều 73. Thành lập, tổ chức và hoạt động của tổ chức bảo hiểm tương hỗ.\n\nViệc thành lập, tổ chức và hoạt động của tổ chức bảo hiểm tương hỗ do Chính phủ quy định.\n\nMục 3\n\nCHUYỂN GIAO HỢP ĐỒNG BẢO HIỂM"
+   }
+  },
+  {
+   "id": "VN-H402-A74",
+   "no": 74,
+   "noLabel": {
+    "vi": "Điều 74"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Chuyển giao hợp đồng bảo hiểm."
+   },
+   "text": {
+    "vi": "Điều 74. Chuyển giao hợp đồng bảo hiểm.\n\n1. Việc chuyển giao toàn bộ hợp đồng bảo hiểm của một hoặc một số nghiệp vụ bảo hiểm giữa các doanh nghiệp bảo hiểm được thực hiện trong những trường hợp sau đây:\n\na) Doanh nghiệp bảo hiểm có nguy cơ mất khả năng thanh toán;\n\nb) Doanh nghiệp bảo hiểm chia, tách, hợp nhất, sáp nhập, giải thể;\n\nc) Theo thỏa thuận giữa các doanh nghiệp bảo hiểm.\n\n2. Trong trường hợp doanh nghiệp bảo hiểm có nguy cơ mất khả năng thanh toán, giải thể mà không thỏa thuận được việc chuyển giao hợp đồng bảo hiểm cho doanh nghiệp bảo hiểm khác thì Bộ Tài chính chỉ định doanh nghiệp bảo hiểm nhận chuyển giao."
+   }
+  },
+  {
+   "id": "VN-H402-A75",
+   "no": 75,
+   "noLabel": {
+    "vi": "Điều 75"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Điều kiện chuyển giao hợp đồng bảo hiểm."
+   },
+   "text": {
+    "vi": "Điều 75. Điều kiện chuyển giao hợp đồng bảo hiểm.\n\nViệc chuyển giao hợp đồng bảo hiểm được thực hiện theo các điều kiện sau đây:\n\n1. Doanh nghiệp bảo hiểm nhận chuyển giao đang kinh doanh nghiệp vụ bảo hiểm được chuyển giao;\n\n2. Các quyền và nghĩa vụ theo hợp đồng bảo hiểm được chuyển giao không thay đổi cho đến khi hết thời hạn hợp đồng bảo hiểm;\n\n3. Việc chuyển giao hợp đồng bảo hiểm phải kèm theo việc chuyển giao các quỹ và dự phòng nghiệp vụ liên quan đến toàn bộ hợp đồng bảo hiểm được chuyển giao."
+   }
+  },
+  {
+   "id": "VN-H402-A76",
+   "no": 76,
+   "noLabel": {
+    "vi": "Điều 76"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Thủ tục chuyển giao hợp đồng bảo hiểm."
+   },
+   "text": {
+    "vi": "Điều 76. Thủ tục chuyển giao hợp đồng bảo hiểm.\n\nViệc chuyển giao hợp đồng bảo hiểm được thực hiện theo thủ tục sau đây:\n\n1. Doanh nghiệp bảo hiểm chuyển giao hợp đồng bảo hiểm phải có đơn đề nghị chuyển giao hợp đồng bảo hiểm gửi Bộ Tài chính nêu rõ lý do, kế hoạch chuyển giao, kèm theo hợp đồng chuyển giao. Việc chuyển giao hợp đồng bảo hiểm chỉ được tiến hành sau khi đã được Bộ Tài chính chấp thuận bằng văn bản;\n\n2. Trong thời hạn 30 ngày, kể từ ngày Bộ Tài chính chấp thuận việc chuyển giao hợp đồng bảo hiểm, doanh nghiệp chuyển giao hợp đồng bảo hiểm phải công bố về việc chuyển giao và thông báo cho bên mua bảo hiểm bằng văn bản.\n\nMục 4\n\nKHÔI PHỤC KHẢ NĂNG THANH TOÁN,GIẢI THỂ,\n\nPHÁ SẢN DOANH NGHIỆP BẢO HIỂM"
+   }
+  },
+  {
+   "id": "VN-H402-A77",
+   "no": 77,
+   "noLabel": {
+    "vi": "Điều 77"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Khả năng thanh toán."
+   },
+   "text": {
+    "vi": "Điều 77. Khả năng thanh toán.\n\n1. Doanh nghiệp bảo hiểm phải luôn duy trì khả năng thanh toán trong suốt quá trình hoạt động kinh doanh bảo hiểm.\n\n2. Doanh nghiệp bảo hiểm được coi là có đủ khả năng thanh toán khi đã trích lập đầy đủ dự phòng nghiệp vụ theo quy định tại Điều 96 của Luật này và có biên khả năng thanh toán không thấp hơn biên khả năng thanh toán tối thiểu theo quy định của Chính phủ.\n\n3. Biên khả năng thanh toán của doanh nghiệp bảo hiểm là phần chênh lệch giữa giá trị tài sản và các khoản nợ phải trả của doanh nghiệp bảo hiểm."
+   }
+  },
+  {
+   "id": "VN-H402-A78",
+   "no": 78,
+   "noLabel": {
+    "vi": "Điều 78"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Báo cáo nguy cơ mất khả năng thanh toán."
+   },
+   "text": {
+    "vi": "Điều 78. Báo cáo nguy cơ mất khả năng thanh toán.\n\n1. Doanh nghiệp bảo hiểm có nguy cơ mất khả năng thanh toán khi biên khả năng thanh toán của doanh nghiệp đó thấp hơn biên khả năng thanh toán tối thiểu theo quy định Chính phủ.\n\n2. Trong trường hợp có nguy cơ mất khả năng thanh toán, doanh nghiệp bảo hiểm phải báo cáo ngay Bộ Tài chính về thực trạng tài chính, nguyên nhân dẫn đến nguy cơ mất khả năng thanh toán và các biện pháp khắc phục."
+   }
+  },
+  {
+   "id": "VN-H402-A79",
+   "no": 79,
+   "noLabel": {
+    "vi": "Điều 79"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Trách nhiệm của doanh nghiệp bảo hiểm trong trường hợp có nguy cơ mất khả năng thanh toán."
+   },
+   "text": {
+    "vi": "Điều 79. Trách nhiệm của doanh nghiệp bảo hiểm trong trường hợp có nguy cơ mất khả năng thanh toán.\n\nTrong trường hợp có nguy cơ mất khả năng thanh toán, doanh nghiệp bảo hiểm phải thực hiện các biện pháp sau đây:\n\n1. Lập phương án khôi phục khả năng thanh toán, củng cố tổ chức và hoạt động của doanh nghiệp, báo cáo Bộ Tài chính và thực hiện phương án đã được Bộ Tài chính chấp thuận;\n\n2. Thực hiện yêu cầu của Bộ Tài chính về việc khôi phục khả năng thanh toán."
+   }
+  },
+  {
+   "id": "VN-H402-A80",
+   "no": 80,
+   "noLabel": {
+    "vi": "Điều 80"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Kiểm soát đối với doanh nghiệp bảo hiểm có nguy cơ mất khả năng thanh toán."
+   },
+   "text": {
+    "vi": "Điều 80. Kiểm soát đối với doanh nghiệp bảo hiểm có nguy cơ mất khả năng thanh toán.\n\n1. Trong trường hợp doanh nghiệp bảo hiểm không khôi phục được khả năng thanh toán theo phương án đã được chấp thuận, Bộ Tài chính ra quyết định thành lập Ban kiểm soát khả năng thanh toán để áp dụng các biện pháp khôi phục khả năng thanh toán của doanh nghiệp bảo hiểm.\n\n2. Ban kiểm soát khả năng thanh toán có những nhiệm vụ, quyền hạn sau đây:\n\na) Chỉ đạo và giám sát việc triển khai thực hiện các biện pháp khôi phục khả năng thanh toán theo phương án đã được chấp thuận;\n\nb) Thông báo cho các cơ quan nhà nước có liên quan về việc áp dụng các biện pháp khôi phục khả năng thanh toán để phối hợp thực hiện;\n\nc) Hạn chế phạm vi và lĩnh vực hoạt động của doanh nghiệp bảo hiểm;\n\nd) Đình chỉ những hoạt động có thể dẫn đến việc doanh nghiệp bảo hiểm mất khả năng thanh toán;\n\nđ) Yêu cầu doanh nghiệp bảo hiểm chuyển giao toàn bộ hợp đồng bảo hiểm của một hoặc một số nghiệp vụ bảo hiểm cho doanh nghiệp bảo hiểm khác;\n\ne) Tạm đình chỉ quyền quản trị, điều hành và yêu cầu doanh nghiệp bảo hiểm thay thế thành viên Hội đồng quản trị, Tổng giám đốc (Giám đốc), Phó Tổng giám đốc (Phó giám đốc) nếu xét thấy cần thiết;\n\ng) Yêu cầu Hội đồng quản trị, Tổng giám đốc (Giám đốc) miễn nhiệm, đình chỉ công tác đối với những người có hành vi vi phạm pháp luật, không chấp hành phương án khôi phục khả năng thanh toán đã được chấp thuận;\n\nh) Kiến nghị với Bộ Tài chính tiếp tục hoặc chấm dứt các biện pháp khôi phục khả năng thanh toán;\n\ni) Báo cáo Bộ Tài chính về việc áp dụng và kết quả của việc áp dụng các biện pháp khôi phục khả năng thanh toán.\n\n3. Ban kiểm soát khả năng thanh toán phải chịu trách nhiệm về quyết định của mình theo quy định của pháp luật trong quá trình áp dụng các biện pháp khôi phục khả năng thanh toán của doanh nghiệp bảo hiểm.\n\n4. Doanh nghiệp bảo hiểm có trách nhiệm thực hiện các yêu cầu, quyết định của Ban kiểm soát khả năng thanh toán."
+   }
+  },
+  {
+   "id": "VN-H402-A81",
+   "no": 81,
+   "noLabel": {
+    "vi": "Điều 81"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Chấm dứt việc áp dụng các biện pháp khôi phục khả năng thanh toán."
+   },
+   "text": {
+    "vi": "Điều 81. Chấm dứt việc áp dụng các biện pháp khôi phục khả năng thanh toán.\n\n1. Việc áp dụng các biện pháp khôi phục khả năng thanh toán chấm dứt trong các trường hợp sau đây:\n\na) Hết hạn áp dụng biện pháp khôi phục khả năng thanh toán;\n\nb) Hoạt động của doanh nghiệp bảo hiểm trở lại bình thường;\n\nc) Doanh nghiệp bảo hiểm đã được hợp nhất, sáp nhập trước khi hết thời hạn áp dụng biện pháp khôi phục khả năng thanh toán;\n\nd) Doanh nghiệp bảo hiểm lâm vào tình trạng phá sản.\n\n2. Việc chấm dứt áp dụng các biện pháp khôi phục khả năng thanh toán được thực hiện theo quyết định của Bộ trưởng Bộ Tài chính. Quyết định này được thông báo cho các cơ quan có liên quan."
+   }
+  },
+  {
+   "id": "VN-H402-A82",
+   "no": 82,
+   "noLabel": {
+    "vi": "Điều 82"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Giải thể doanh nghiệp bảo hiểm."
+   },
+   "text": {
+    "vi": "Điều 82. Giải thể doanh nghiệp bảo hiểm.\n\n1. Doanh nghiệp bảo hiểm giải thể trong các trường hợp sau đây:\n\na) Tự nguyện xin giải thể nếu có khả năng thanh toán các khoản nợ;\n\nb) Khi hết thời hạn hoạt động quy định trong giấy phép thành lập và hoạt động mà không có quyết định gia hạn;\n\nc) Bị thu hồi giấy phép thành lập và hoạt động theo quy định tại các điểm a, b, đ và e khoản 1 Điều 68 của Luật này;\n\nd) Các trường hợp khác theo quy định của pháp luật;\n\n2. Việc giải thể doanh nghiệp bảo hiểm phải được Bộ Tài chính chấp thuận bằng văn bản."
+   }
+  },
+  {
+   "id": "VN-H402-A83",
+   "no": 83,
+   "noLabel": {
+    "vi": "Điều 83"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Phá sản doanh nghiệp bảo hiểm."
+   },
+   "text": {
+    "vi": "Điều 83. Phá sản doanh nghiệp bảo hiểm.\n\nTrong trường hợp doanh nghiệp bảo hiểm không có khả năng thanh toán các khoản nợ đến hạn, sau khi áp dụng các biện pháp khôi phục khả năng thanh toán mà vẫn mất khả năng thanh toán thì việc phá sản doanh nghiệp bảo hiểm được thực hiện theo quy định của pháp luật về phá sản doanh nghiệp.\n\nChương IV\n\nĐẠI LÝ BẢO HIỂM, DOANH NGHIỆP MÔI GIỚI BẢO HIỂM\n\nMục 1\n\nĐẠI LÝ BẢO HIỂM"
+   }
+  },
+  {
+   "id": "VN-H402-A84",
+   "no": 84,
+   "noLabel": {
+    "vi": "Điều 84"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Đại lý bảo hiểm."
+   },
+   "text": {
+    "vi": "Điều 84. Đại lý bảo hiểm.\n\nĐại lý bảo hiểm là tổ chức, cá nhân được doanh nghiệp bảo hiểm ủy quyền trên cơ sở hợp đồng đại lý bảo hiểm để thực hiện hoạt động đại lý bảo hiểm theo quy định của Luật này và các quy định khác của pháp luật có liên quan."
+   }
+  },
+  {
+   "id": "VN-H402-A85",
+   "no": 85,
+   "noLabel": {
+    "vi": "Điều 85"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Nội dung hoạt động đại lý bảo hiểm."
+   },
+   "text": {
+    "vi": "Điều 85. Nội dung hoạt động đại lý bảo hiểm.\n\nĐại lý bảo hiểm có thể được doanh nghiệp bảo hiểm ủy quyền tiến hành các hoạt động sau đây:\n\n1. Giới thiệu, chào bán bảo hiểm;\n\n2. Thu xếp việc giao kết hợp đồng bảo hiểm;\n\n3. Thu phí bảo hiểm;\n\n4. Thu xếp giải quyết bồi thường, trả tiền bảo hiểm khi xảy ra sự kiện bảo hiểm;\n\n5. Thực hiện các hoạt động khác có liên quan đến việc thực hiện hợp đồng bảo hiểm."
+   }
+  },
+  {
+   "id": "VN-H402-A86",
+   "no": 86,
+   "noLabel": {
+    "vi": "Điều 86"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Điều kiện hoạt động đại lý bảo hiểm."
+   },
+   "text": {
+    "vi": "Điều 86. Điều kiện hoạt động đại lý bảo hiểm.\n\n1. Cá nhân hoạt động đại lý bảo hiểm phải có đủ các điều kiện sau đây:\n\na) Là công dân Việt Nam thường trú tại Việt Nam ;\n\nb) Từ đủ 18 tuổi trở lên, có năng lực hành vi dân sự đầy đủ;\n\nc) Có chứng chỉ đào tạo đại lý bảo hiểm do doanh nghiệp bảo hiểm hoặc Hiệp hội bảo hiểm Việt Nam cấp:\n\n2. Tổ chức hoạt động đại lý bảo hiểm phải có đủ các điều kiện sau đây:\n\na) Là tổ chức được thành lập và hoạt động hợp pháp;\n\nb) Nhân viên trong tổ chức đại lý trực tiếp thực hiện hoạt động đại lý bảo hiểm phải có đủ các điều kiện quy định tại khoản 1 Điều này.\n\n3. Người đang bị truy cứu cứu trách nhiệm hình sự hoặc đang phải chấp hành hình phạt tù hoặc bị tòa án tước quyền hành nghề vì phạm các tội theo quy định của pháp luật không được ký kết hợp đồng đại lý bảo hiểm."
+   }
+  },
+  {
+   "id": "VN-H402-A87",
+   "no": 87,
+   "noLabel": {
+    "vi": "Điều 87"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Nội dung hợp đồng đại lý bảo hiểm."
+   },
+   "text": {
+    "vi": "Điều 87. Nội dung hợp đồng đại lý bảo hiểm.\n\nHợp đồng đại lý bảo hiểm phải có các nội dung chủ yếu sau đây:\n\n1. Tên, địa chỉ của đại lý bảo hiểm;\n\n2. Tên, địa chỉ của doanh nghiệp bảo hiểm;\n\n3. Quyền và nghĩa vụ của doanh nghiệp bảo hiểm, đại lý bảo hiểm;\n\n4. Nội dung và phạm vi hoạt động đại lý bảo hiểm;\n\n5. Hoa hồng đại lý bảo hiểm;\n\n6. Thời hạn hợp đồng;\n\n7. Nguyên tắc giải quyết tranh chấp."
+   }
+  },
+  {
+   "id": "VN-H402-A88",
+   "no": 88,
+   "noLabel": {
+    "vi": "Điều 88"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Trách nhiệm của đại lý bảo hiểm."
+   },
+   "text": {
+    "vi": "Điều 88. Trách nhiệm của đại lý bảo hiểm.\n\nTrong trường hợp đại lý bảo hiểm vi phạm hợp đồng đại lý bảo hiểm, gây thiệt hại đến quyền, lợi ích hợp pháp của người được bảo hiểm thì doanh nghiệp bảo hiểm vẫn phải chịu trách nhiệm về hợp đồng bảo hiểm do đại lý bảo hiểm thu xếp giao kết; đại lý bảo hiểm có trách nhiệm bồi hoàn cho doanh nghiệp bảo hiểm các khoản tiền mà doanh nghiệp bảo hiểm đã bồi thường cho người được bảo hiểm.\n\nMục 2\n\nDOANH NGHIỆP MÔI GIỚI BẢO HIỂM"
+   }
+  },
+  {
+   "id": "VN-H402-A89",
+   "no": 89,
+   "noLabel": {
+    "vi": "Điều 89"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Doanh nghiệp môi giới bảo hiểm."
+   },
+   "text": {
+    "vi": "Điều 89. Doanh nghiệp môi giới bảo hiểm.\n\nDoanh nghiệp môi giới bảo hiểm là doanh nghiệp thực hiện hoạt động môi giới bảo hiểm theo quy định của Luật này và các quy định khác của pháp luật có liên quan."
+   }
+  },
+  {
+   "id": "VN-H402-A90",
+   "no": 90,
+   "noLabel": {
+    "vi": "Điều 90"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Nội dung hoạt động môi giới bảo hiểm."
+   },
+   "text": {
+    "vi": "Điều 90. Nội dung hoạt động môi giới bảo hiểm.\n\nNội dung hoạt động môi giới bảo hiểm bao gồm:\n\n1. Cung cấp thông tin về loại hình bảo hiểm, điều kiện, điều khoản, phí bảo hiểm, doanh nghiệp bảo hiểm cho bên mua bảo hiểm;\n\n2. Tư vấn cho bên mua bảo hiểm trong việc đánh giá rủi ro, lựa chọn loại hình bảo hiểm, điều kiện, điều khoản, biểu phí bảo hiểm, doanh nghiệp bảo hiểm;\n\n3. Đàm phán, thu xếp giao kết hợp đồng bảo hiểm giữa doanh nghiệp bảo hiểm và bên mua bảo hiểm;\n\n4. Thực hiện các công việc khác có liên quan đến việc thực hiện hợp đồng bảo hiểm theo yêu cầu của bên mua bảo hiểm."
+   }
+  },
+  {
+   "id": "VN-H402-A91",
+   "no": 91,
+   "noLabel": {
+    "vi": "Điều 91"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Quyền và nghĩa vụ của doanh nghiệp môi giới bảo hiểm."
+   },
+   "text": {
+    "vi": "Điều 91. Quyền và nghĩa vụ của doanh nghiệp môi giới bảo hiểm.\n\n1. Doanh nghiệp môi giới bảo hiểm được hưởng hoa hồng môi giới bảo hiểm: hoa hồng môi giới bảo hiểm được tính trong phí bảo hiểm.\n\n2. Doanh nghiệp môi giới bảo hiểm có nghĩa vụ:\n\na) Thực hiện việc môi giới trung thực;\n\nb) Không được tiết lộ, cung cấp thông tin làm thiệt hại đến quyền, lợi ích hợp pháp của bên mua bảo hiểm;\n\nc) Bồi thường thiệt hại cho bên mua bảo hiểm do hoạt động môi giới bảo hiểm gây ra."
+   }
+  },
+  {
+   "id": "VN-H402-A92",
+   "no": 92,
+   "noLabel": {
+    "vi": "Điều 92"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Bảo hiểm trách nhiệm nghề nghiệp."
+   },
+   "text": {
+    "vi": "Điều 92. Bảo hiểm trách nhiệm nghề nghiệp.\n\nDoanh nghiệp môi giới bảo hiểm phải mua bảo hiểm trách nhiệm nghề nghiệp cho hoạt động môi giới bảo hiểm tại doanh nghiệp bảo hiểm hoạt động ở Việt Nam."
+   }
+  },
+  {
+   "id": "VN-H402-A93",
+   "no": 93,
+   "noLabel": {
+    "vi": "Điều 93"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Cấp giấy phép thành lập và hoạt động."
+   },
+   "text": {
+    "vi": "Điều 93. Cấp giấy phép thành lập và hoạt động.\n\nViệc cấp giấy phép thành lập và hoạt động của doanh nghiệp môi giới bảo hiểm được thực hiện theo quy định tại Điều 62, Điều 63, các khoản 1, 2, 3 và 4 Điều 64 và các Điều 65, 66, 67, 68 và 69 của Luật này.\n\nChương V\n\nTÀI CHÍNH, HẠCH TOÁN KẾ TOÁN\n\nVÀ BÁO CÁO TÀI CHÍNH"
+   }
+  },
+  {
+   "id": "VN-H402-A94",
+   "no": 94,
+   "noLabel": {
+    "vi": "Điều 94"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Vốn pháp định, vốn điều lệ."
+   },
+   "text": {
+    "vi": "Điều 94. Vốn pháp định, vốn điều lệ.\n\n1. Chính phủ quy định mức vốn pháp định của doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm.\n\n2. Trong quá trình hoạt động, doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm phải luôn duy trì vốn điều lệ đã góp không thấp hơn mức vốn pháp định."
+   }
+  },
+  {
+   "id": "VN-H402-A95",
+   "no": 95,
+   "noLabel": {
+    "vi": "Điều 95"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Ký quỹ."
+   },
+   "text": {
+    "vi": "Điều 95. Ký quỹ.\n\nDoanh nghiệp bảo hiểm phải sử dụng một phần vốn điều lệ để ký quỹ tại một ngân hàng thương mại hoạt động tại Việt Nam.\n\n2. Chính phủ quy định mức tiền ký quỹ và cách thức sử dụng tiền ký quỹ."
+   }
+  },
+  {
+   "id": "VN-H402-A96",
+   "no": 96,
+   "noLabel": {
+    "vi": "Điều 96"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Dự phòng nghiệp vụ."
+   },
+   "text": {
+    "vi": "Điều 96. Dự phòng nghiệp vụ.\n\n1. Dự phòng nghiệp vụ là khoản tiền mà doanh nghiệp bảo hiểm phải trích lập nhằm mục đích thanh toán cho những trách nhiệm bảo hiểm đã được xác định trước và phát sinh từ các hợp đồng bảo hiểm đã giao kết.\n\n2. Dự phòng nghiệp vụ phải được trích lập riêng cho từng nghiệp vụ bảo hiểm và phải tương ứng với phần trách nhiệm của doanh nghiệp bảo hiểm.\n\n3. Bộ Tài chính quy định cụ thể về mức trích lập, phương pháp trích lập dự phòng nghiệp vụ đối với từng nghiệp vụ bảo hiểm."
+   }
+  },
+  {
+   "id": "VN-H402-A97",
+   "no": 97,
+   "noLabel": {
+    "vi": "Điều 97"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Quỹ dự trữ."
+   },
+   "text": {
+    "vi": "Điều 97. Quỹ dự trữ.\n\n1. Doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm phải lập quỹ dự trữ bắt buộc để bổ sung vốn điều lệ và bảo đảm khả năng thanh toán. Quỹ dự trữ bắt buộc được trích hàng năm theo tỷ lệ 5% lợi nhuận sau thuế. Mức tối đa của quỹ này do Chính phủ quy định.\n\n2. Ngoài quỹ dự trữ bắt buộc quy định tại khoản 1 Điều này, doanh nghiệp bảo hiểm,doanh nghiệp môi giới bảo hiểm có thể lập các quỹ dự trữ khác từ lợi nhuận sau thuế của năm tài chính theo quy định trong điều lệ của doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm."
+   }
+  },
+  {
+   "id": "VN-H402-A98",
+   "no": 98,
+   "noLabel": {
+    "vi": "Điều 98"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Đầu tư vốn."
+   },
+   "text": {
+    "vi": "Điều 98. Đầu tư vốn.\n\n1. Việc đầu tư vốn của doanh nghiệp bảo hiểm phải bảo đảm an toàn, hiệu quả và đáp ứng được yêu cầu chi trả thường xuyên cho các cam kết theo hợp đồng bảo hiểm.\n\n2. Doanh nghiệp bảo hiểm chỉ được sử dụng vốn nhàn rỗi của mình để đầu tư ở Việt Nam trong các lĩnh vực sau đây:\n\na) Mua trái phiếu Chính phủ;\n\nb) Mua cổ phiếu, trái phiếu doanh nghiệp;\n\nc) Kinh doanh bất động sản;\n\nd) Góp vốn vào các doanh nghiệp khác;\n\nđ) Cho vay theo quy định của Luật các tổ chức tín dụng;\n\ne) Gửi tiền tại các tổ chức tín dụng.\n\n3. Chính phủ quy định cụ thể danh mục đầu tư thuộc các lĩnh vực quy định tại khoản 2 Điều này và tỷ lệ vốn nhàn rỗi được phép đầu tư vào mỗi danh mục đầu tư nhằm bảo đảm cho doanh nghiệp bảo hiểm luôn duy trì được khả năng thanh toán."
+   }
+  },
+  {
+   "id": "VN-H402-A99",
+   "no": 99,
+   "noLabel": {
+    "vi": "Điều 99"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Thu, chi tài chính."
+   },
+   "text": {
+    "vi": "Điều 99. Thu, chi tài chính.\n\n1. Thu, chi tài chính của doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm được thực hiện theo quy định của pháp luật.\n\n2. Bộ Tài chính hướng dẫn, kiểm tra việc thực hiện chế độ tài chính đối với các doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm."
+   }
+  },
+  {
+   "id": "VN-H402-A100",
+   "no": 100,
+   "noLabel": {
+    "vi": "Điều 100"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Năm tài chính."
+   },
+   "text": {
+    "vi": "Điều 100. Năm tài chính.\n\nNăm tài chính của doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm bắt đầu từ ngày 01 tháng 1 và kết thúc vào ngày 31 tháng 12 cùng năm dương lịch. Năm tài chính đầu tiên của doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm bắt đầu từ ngày được cấp giấy phép thành lập và hoạt động và kết thúc vào ngày cuối cùng của năm đó."
+   }
+  },
+  {
+   "id": "VN-H402-A101",
+   "no": 101,
+   "noLabel": {
+    "vi": "Điều 101"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Chế độ kế toán."
+   },
+   "text": {
+    "vi": "Điều 101. Chế độ kế toán.\n\nDoanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm phải thực hiện chế độ kế toán áp dụng đối với kinh doanh bảo hiểm theo quy định của pháp luật về kế toán."
+   }
+  },
+  {
+   "id": "VN-H402-A102",
+   "no": 102,
+   "noLabel": {
+    "vi": "Điều 102"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Kiểm toán."
+   },
+   "text": {
+    "vi": "Điều 102. Kiểm toán.\n\nBáo cáo tài chính hàng năm của doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm phải được tổ chức kiểm toán độc lập xác nhận."
+   }
+  },
+  {
+   "id": "VN-H402-A103",
+   "no": 103,
+   "noLabel": {
+    "vi": "Điều 103"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Báo cáo tài chính."
+   },
+   "text": {
+    "vi": "Điều 103. Báo cáo tài chính.\n\n1. Doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm phải thực hiện chế độ báo cáo tài chính theo các quy định của pháp luật về kế toán và báo cáo hoạt động nghiệp vụ định kỳ theo quy định của Bộ Tài chính.\n\n2. Ngoài những báo cáo định kỳ, doanh nghiệp bảo hiểm còn phải báo cáo Bộ Tài chính trong những trường hợp sau đây:\n\na) Khi xảy ra những diễn biến không bình thường trong hoạt động kinh doanh của doanh nghiệp;\n\nb) Khi không bảo đảm các yêu cầu về tài chính theo quy định để thực hiện những cam kết với bên mua bảo hiểm."
+   }
+  },
+  {
+   "id": "VN-H402-A104",
+   "no": 104,
+   "noLabel": {
+    "vi": "Điều 104"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Công khai báo cáo tài chính."
+   },
+   "text": {
+    "vi": "Điều 104. Công khai báo cáo tài chính.\n\nSau khi kết thúc năm tài chính, doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm phải công bố các báo cáo tài chính theo quy định của pháp luật.\n\nChương VI\n\nDOANH NGHIỆP BẢO HIỂM\n\nVÀ DOANH NGHIỆP MÔI GIỚI BẢO HIỂM CÓ VỐN ĐẦU TƯ NƯỚC NGOÀI"
+   }
+  },
+  {
+   "id": "VN-H402-A105",
+   "no": 105,
+   "noLabel": {
+    "vi": "Điều 105"
+   },
+   "chapter": {
+    "vi": "Chương VI"
+   },
+   "heading": {
+    "vi": "Hình thức hoạt động."
+   },
+   "text": {
+    "vi": "Điều 105. Hình thức hoạt động.\n\n1. Doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm nước ngoài được phép hoạt động tại Việt Nam dưới các hình thức sau đây:\n\na) Doanh nghiệp bảo hiểm liên doanh, doanh nghiệp môi giới bảo hiểm liên doanh;\n\nb) Doanh nghiệp bảo hiểm 100% vốn đầu tư nước ngoài, doanh nghiệp môi giới bảo hiểm 100% vốn đầu tư nước ngoài.\n\n2. Doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm nước ngoài được đặt văn phòng đại diện tại Việt Nam. Văn phòng đại diện không được kinh doanh bảo hiểm tại Việt Nam."
+   }
+  },
+  {
+   "id": "VN-H402-A106",
+   "no": 106,
+   "noLabel": {
+    "vi": "Điều 106"
+   },
+   "chapter": {
+    "vi": "Chương VI"
+   },
+   "heading": {
+    "vi": "Điều kiện để được cấp giấy phép thành lập và hoạt động."
+   },
+   "text": {
+    "vi": "Điều 106. Điều kiện để được cấp giấy phép thành lập và hoạt động.\n\nCác điều kiện để được cấp giấy phép thành lập và hoạt động đối với doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm có vốn đầu tư nước ngoài bao gồm:\n\n1. Các điều kiện quy định tại Điều 63 của Luật này;\n\n2. Doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm nước ngoài đang hoạt động hợp pháp và trong tình trạng tài chính bình thường;\n\n3. Doanh nghiệp bảo hiểm nước ngoài, doanh nghiệp môi giới bảo hiểm nước ngoài được cơ quan có thẩm quyền của nước ngoài cho phép hoạt động kinh doanh bảo hiểm, hoạt động môi giới bảo hiểm trong lĩnh vực dự kiến tiến hành ở Việt Nam."
+   }
+  },
+  {
+   "id": "VN-H402-A107",
+   "no": 107,
+   "noLabel": {
+    "vi": "Điều 107"
+   },
+   "chapter": {
+    "vi": "Chương VI"
+   },
+   "heading": {
+    "vi": "Điều kiện để được cấp giấy phép đặt văn phòng đại diện tại Việt Nam."
+   },
+   "text": {
+    "vi": "Điều 107. Điều kiện để được cấp giấy phép đặt văn phòng đại diện tại Việt Nam.\n\nĐiều kiện để được cấp giấy phép đặt văn phòng tại diện của doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm nước ngoài tại Việt Nam bao gồm:\n\n1. Doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm nước ngoài đã hoạt động năm năm trở lên;\n\n2. Doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm nước ngoài có quan hệ hợp tác với các cơ quan, tổ chức Việt Nam."
+   }
+  },
+  {
+   "id": "VN-H402-A108",
+   "no": 108,
+   "noLabel": {
+    "vi": "Điều 108"
+   },
+   "chapter": {
+    "vi": "Chương VI"
+   },
+   "heading": {
+    "vi": "Thẩm quyền cấp giấy phép."
+   },
+   "text": {
+    "vi": "Điều 108. Thẩm quyền cấp giấy phép.\n\nBộ Tài chính cấp giấy phép thành lập và hoạt động cho doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm có vốn đầu tư nước ngoài; giấy phép đặt văn phòng đại diện của doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm nước ngoài tại Việt Nam."
+   }
+  },
+  {
+   "id": "VN-H402-A109",
+   "no": 109,
+   "noLabel": {
+    "vi": "Điều 109"
+   },
+   "chapter": {
+    "vi": "Chương VI"
+   },
+   "heading": {
+    "vi": "Hồ sơ xin cấp giấy phép thành lập và hoạt động."
+   },
+   "text": {
+    "vi": "Điều 109. Hồ sơ xin cấp giấy phép thành lập và hoạt động.\n\n1. Ngoài các nội dung quy định tại Điều 64 của Luật này, hồ sơ xin cấp giấy phép thành lập và hoạt động đối với doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm liên doanh còn bao gồm:\n\na) Điều lệ, giấy phép thành lập và hoạt động của các bên tham gia liên doanh;\n\nb) Hợp đồng liên doanh;\n\nc) Bảng tổng kết tài sản, báo cáo tài chính hàng năm có xác nhận của tổ chức kiểm toán độc lập về tình hình hoạt động của doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm nước ngoài nơi đóng trụ sở chính trong ba năm gần nhất."
+   }
+  },
+  {
+   "id": "VN-H402-A110",
+   "no": 110,
+   "noLabel": {
+    "vi": "Điều 110"
+   },
+   "chapter": {
+    "vi": "Chương VI"
+   },
+   "heading": {
+    "vi": "Hồ sơ xin cấp giấy phép đặt văn phòng đại diện:"
+   },
+   "text": {
+    "vi": "Điều 110. Hồ sơ xin cấp giấy phép đặt văn phòng đại diện:\n\nHồ sơ xin cấp giấy phép đặt văn phòng đại diện doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm nước ngoài tại Việt Nam bao gồm:\n\n1. Đơn xin đặt văn phòng đại diện;\n\n2. Giấy phép thành lập và hoạt động của doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm nước ngoài nơi đóng trụ sở chính;\n\n3. Bảng tổng kết tài sản, báo cáo tài chính hàng năm có xác nhận của tổ chức kiểm toán độc lập về tình hình hoạt động của doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm nước ngoài trong ba năm gần nhất;\n\n4. Họ, tên, lý lịch của Trưởng văn phòng đại diện tại Việt Nam;.\n\n5. Bản giới thiệu về doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm nước ngoài và hoạt động hợp tác với các cơ quan, tổ chức Việt Nam."
+   }
+  },
+  {
+   "id": "VN-H402-A111",
+   "no": 111,
+   "noLabel": {
+    "vi": "Điều 111"
+   },
+   "chapter": {
+    "vi": "Chương VI"
+   },
+   "heading": {
+    "vi": "Thời hạn cấp giấy phép, lệ phí cấp giấy phép và công bố nội dung hoạt động."
+   },
+   "text": {
+    "vi": "Điều 111. Thời hạn cấp giấy phép, lệ phí cấp giấy phép và công bố nội dung hoạt động.\n\nThời hạn cấp giấy phép, lệ phí cấp giấy phép và công bố nội dung hoạt động đối với doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm có vốn đầu tư nước ngoài; văn phòng đại diện của doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm nước ngoài được thực hiện theo quy định tại các Điều 65, 66 và 67 của Luật này."
+   }
+  },
+  {
+   "id": "VN-H402-A112",
+   "no": 112,
+   "noLabel": {
+    "vi": "Điều 112"
+   },
+   "chapter": {
+    "vi": "Chương VI"
+   },
+   "heading": {
+    "vi": "Thu hồi giấy phép."
+   },
+   "text": {
+    "vi": "Điều 112. Thu hồi giấy phép.\n\n1. Ngoài các quy định tại Điều 68 của Luật này, doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm có vốn đầu tư nước ngoài có thể bị thu hồi giấy phép thành lập và hoạt động khi doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm nước ngoài nơi đóng trụ sở chính bị thu hồi giấy phép thành lập và hoạt động.\n\n2. Văn phòng đại diện của doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm nước ngoài bị thu hồi giấy phép đặt văn phòng đại diện khi doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm nước ngoài nơi đóng trụ sở chính bị thu hồi giấy phép thành lập và hoạt động."
+   }
+  },
+  {
+   "id": "VN-H402-A113",
+   "no": 113,
+   "noLabel": {
+    "vi": "Điều 113"
+   },
+   "chapter": {
+    "vi": "Chương VI"
+   },
+   "heading": {
+    "vi": "Những thay đổi phải được chấp thuận."
+   },
+   "text": {
+    "vi": "Điều 113. Những thay đổi phải được chấp thuận.\n\nNhững thay đổi phải được chấp thuận đối với doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm có vốn đầu tư nước ngoài được thực hiện theo quy định tại Điều 69 của Luật này."
+   }
+  },
+  {
+   "id": "VN-H402-A114",
+   "no": 114,
+   "noLabel": {
+    "vi": "Điều 114"
+   },
+   "chapter": {
+    "vi": "Chương VI"
+   },
+   "heading": {
+    "vi": "Nội dung hoạt động."
+   },
+   "text": {
+    "vi": "Điều 114. Nội dung hoạt động.\n\nNội dung hoạt động của doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm có vốn đầu tư nước ngoài; văn phòng đại diện của doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm nước ngoài phải tuân theo quy định của Luật này và các quy định khác của pháp luật Việt Nam."
+   }
+  },
+  {
+   "id": "VN-H402-A115",
+   "no": 115,
+   "noLabel": {
+    "vi": "Điều 115"
+   },
+   "chapter": {
+    "vi": "Chương VI"
+   },
+   "heading": {
+    "vi": "Vốn, quỹ dự trữ và thu chi tài chính của doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm có vốn đầu tư nước ngoài."
+   },
+   "text": {
+    "vi": "Điều 115. Vốn, quỹ dự trữ và thu chi tài chính của doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm có vốn đầu tư nước ngoài.\n\n1. Chính phủ quy định mức vốn pháp định của doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm có vốn đầu tư nước ngoài.\n\n2. Việc trích lập quỹ dự trữ bắt buộc và các quỹ dự trữ khác của doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm có vốn đầu tư nước ngoài được thực hiện theo quy định tại Điều 97 của Luật này.\n\n3. Thu, chi tài chính của doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm có vốn đầu tư nước ngoài được thực hiện theo quy định của pháp luật Việt Nam."
+   }
+  },
+  {
+   "id": "VN-H402-A116",
+   "no": 116,
+   "noLabel": {
+    "vi": "Điều 116"
+   },
+   "chapter": {
+    "vi": "Chương VI"
+   },
+   "heading": {
+    "vi": "Khả năng thanh toán, ký quỹ, dự phòng nghiệp vụ và đầu tư vốn của doanh nghiệp bảo hiểm có vốn đầu nước ngoài."
+   },
+   "text": {
+    "vi": "Điều 116. Khả năng thanh toán, ký quỹ, dự phòng nghiệp vụ và đầu tư vốn của doanh nghiệp bảo hiểm có vốn đầu nước ngoài.\n\n1. Doanh nghiệp bảo hiểm có vốn đầu tư nước ngoài phải duy trì khả năng thanh toán theo quy định tại Điều 77 của Luật này.\n\n2. Doanh nghiệp bảo hiểm có vốn đầu tư nước ngoài phải ký quỹ, trích lập dự phòng nghiệp vụ theo quy định tại Điều 95 và Điều 96 của Luật này.\n\n3. Doanh nghiệp bảo hiểm có vốn đầu tư nước ngoài được đầu tư vốn theo quy định tại Điều 98 của Luật này."
+   }
+  },
+  {
+   "id": "VN-H402-A117",
+   "no": 117,
+   "noLabel": {
+    "vi": "Điều 117"
+   },
+   "chapter": {
+    "vi": "Chương VI"
+   },
+   "heading": {
+    "vi": "Chế độ kế toán, kiểm toán và báo cáo tài chính."
+   },
+   "text": {
+    "vi": "Điều 117. Chế độ kế toán, kiểm toán và báo cáo tài chính.\n\n1. Doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm có vốn đầu tư nước ngoài phải thực hiện chế độ kế toán, kiểm toán và báo cáo tài chính theo quy định tại các Điều 101, 102, 103 và 104 của Luật này.\n\n2. Trong thời hạn 180 ngày, kể từ ngày kết thúc năm tài chính, doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm có vốn đầu tư nước ngoài; văn phòng đại diện của doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm nước ngoài phải gửi báo cáo tài chính năm của doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm nước ngoài cho Bộ Tài chính."
+   }
+  },
+  {
+   "id": "VN-H402-A118",
+   "no": 118,
+   "noLabel": {
+    "vi": "Điều 118"
+   },
+   "chapter": {
+    "vi": "Chương VI"
+   },
+   "heading": {
+    "vi": "Chuyển lợi nhuận, chuyển tài sản ra nước ngoài."
+   },
+   "text": {
+    "vi": "Điều 118. Chuyển lợi nhuận, chuyển tài sản ra nước ngoài.\n\n1. Doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm 100% vốn đầu tư nước ngoài được chuyển ra nước ngoài số lợi nhuận còn lại thuộc ở hữu của mình sau khi đã trích lập các quỹ và thực hiện đầy đủ các nghĩa vụ tài chính theo quy định của pháp luật Việt Nam.\n\n2. Bên nước ngoài trong doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm liên doanh được chuyển ra nước ngoài số lợi nhuận được chia sau khi doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm liên doanh đã trích lập các quỹ và thực hiện đầy đủ các nghĩa vụ tài chính theo quy định của pháp luật Việt Nam.\n\n3. Doanh nghiệp bảo hiểm 100% vốn đầu tư nước ngoài và bên nước ngoài trong doanh nghiệp bảo hiểm liên doanh; doanh nghiệp môi giới bảo hiểm 100% vốn đầu tư nước ngoài và bên nước ngoài trong doanh nghiệp môi giới bảo hiểm liên doanh được chuyển ra nước ngoài số tài sản còn lại của mình sau khi đã thanh lý, kết thúc hoạt động tại Việt Nam.\n\n4. Việc chuyển tiền và các tài sản khác ra nước ngoài quy định tại các khoản 1, 2 và 3 Điều này được thực hiện theo quy định của pháp luật Việt Nam."
+   }
+  },
+  {
+   "id": "VN-H402-A119",
+   "no": 119,
+   "noLabel": {
+    "vi": "Điều 119"
+   },
+   "chapter": {
+    "vi": "Chương VI"
+   },
+   "heading": {
+    "vi": "Các quy định khác."
+   },
+   "text": {
+    "vi": "Điều 119. Các quy định khác.\n\nChính phủ quy định cụ thể nội dung, phạm vi và địa bàn hoạt động của doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm có vốn đầu tư nước ngoài và văn phòng đại diện của doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm nước ngoài tại Việt Nam.\n\nChương VII\n\nQUẢN LÝ NHÀ NƯỚC VỀ KINH DOANH BẢO HIỂM"
+   }
+  },
+  {
+   "id": "VN-H402-A120",
+   "no": 120,
+   "noLabel": {
+    "vi": "Điều 120"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {
+    "vi": "Nội dung quản lý nhà nước về kinh doanh bảo hiểm."
+   },
+   "text": {
+    "vi": "Điều 120. Nội dung quản lý nhà nước về kinh doanh bảo hiểm.\n\nNội dung quản lý nhà nước về kinh doanh bảo hiểm bao gồm:\n\n1. Ban hành và hướng dẫn thực hiện các văn bản quy phạm pháp luật về kinh doanh bảo hiểm; xây dựng chiến lược, quy hoạch, kế hoạch và chính sách phát triển thị trường bảo hiểm Việt Nam;\n\n2. Cấp và thu hồi giấy phép thành lập và hoạt động của doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm; giấy phép đặt văn phòng đại diện của doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm nước ngoài tại Việt Nam;\n\n3. Ban hành, phê chuẩn, hướng dẫn thực hiện quy tắc, điều khoản, biểu phí, hoa hồng bảo hiểm;\n\n4. Áp dụng các biện pháp cần thiết để doanh nghiệp bảo hiểm bảo đảm các yêu cầu về tài chính và thực hiện những cam kết với bên mua bảo hiểm;\n\n5. Tổ chức thông tin và dự báo tình hình thị trường bảo hiểm;\n\n6. Hợp tác quốc tế trong lĩnh vực bảo hiểm;\n\n7. Chấp thuận việc doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm hoạt động ở nước ngoài;\n\n8. Quản lý hoạt động của văn phòng đại diện của doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm nước ngoài tại Việt Nam;\n\n9. Tổ chức việc đào tạo, xây dựng đội ngũ cán bộ quản lý và chuyên môn, nghiệp vụ về bảo hiểm;\n\n10. Thanh tra, kiểm tra hoạt động kinh doanh bảo hiểm; giải quyết khiếu nại, tố cáo và xử lý vi phạm pháp luật về kinh doanh bảo hiểm."
+   }
+  },
+  {
+   "id": "VN-H402-A121",
+   "no": 121,
+   "noLabel": {
+    "vi": "Điều 121"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {
+    "vi": "Cơ quan quản lý nhà nước."
+   },
+   "text": {
+    "vi": "Điều 121. Cơ quan quản lý nhà nước.\n\n1. Chính phủ thống nhất quản lý nhà nước về kinh doanh bảo hiểm.\n\n2. Bộ Tài chính chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về kinh doanh bảo hiểm.\n\n3. Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm quản lý nhà nước về kinh doanh bảo hiểm theo quy định của pháp luật.\n\n4. Uỷ ban nhân dân các cấp trong phạm vi nhiệm vụ, quyền hạn của mình thực hiện quản lý nhà nước về kinh doanh bảo hiểm tại địa phương theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H402-A122",
+   "no": 122,
+   "noLabel": {
+    "vi": "Điều 122"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {
+    "vi": "Thanh tra hoạt động kinh doanh bảo hiểm."
+   },
+   "text": {
+    "vi": "Điều 122. Thanh tra hoạt động kinh doanh bảo hiểm.\n\n1. Việc thanh tra hoạt động của doanh nghiệp kinh doanh bảo hiểm phải được thực hiện đúng chức năng, đúng thẩm quyền và tuân thủ quy định của pháp luật. Việc thanh tra về tài chính được thực hiện không quá một lần trong một năm đối với một doanh nghiệp. Thời hạn thanh tra tối đa không quá 30 ngày, trong trường hợp đặc biệt thời hạn thanh tra được gia hạn theo quyết định của cơ quan cấp trên có thẩm quyền, nhưng thời gian gia hạn không được quá 30 ngày. Việc thanh tra bất thường chỉ được thực hiện khi có căn cứ về sự vi phạm pháp luật của doanh nghiệp.\n\n2. Khi tiến hành thanh tra phải có quyết định của người có thẩm quyền; khi kết thúc thanh tra phải có biên bản kết luận thanh tra. Trưởng đoàn thanh tra chịu trách nhiệm về nội dung biên bản và kết luận thanh tra.\n\n3. Người ra quyết định thanh tra không đúng pháp luật hoặc lợi dụng thanh tra để vụ lợi, sách nhiễu, gây phiền hà cho hoạt động của doanh nghiệp thì tùy theo mức độ vi phạm mà bị xử lý kỷ luật hoặc bị truy cứu trách nhiệm hình sự; nếu gây thiệt hại thì phải bồi thường cho doanh nghiệp theo quy định của pháp luật.\n\nChương VIII\n\nKHEN THƯỞNG VÀ XỬ LÝ VI PHẠM"
+   }
+  },
+  {
+   "id": "VN-H402-A123",
+   "no": 123,
+   "noLabel": {
+    "vi": "Điều 123"
+   },
+   "chapter": {
+    "vi": "Chương VIII"
+   },
+   "heading": {
+    "vi": "Khen thưởng."
+   },
+   "text": {
+    "vi": "Điều 123. Khen thưởng.\n\nTổ chức, cá nhân có thành tích trong kinh doanh bảo hiểm, phát hiện những hành vi vi phạm pháp luật về kinh doanh bảo hiểm thì được khen thưởng theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H402-A124",
+   "no": 124,
+   "noLabel": {
+    "vi": "Điều 124"
+   },
+   "chapter": {
+    "vi": "Chương VIII"
+   },
+   "heading": {
+    "vi": "Các hành vi vi phạm pháp luật về kinh doanh bảo hiểm."
+   },
+   "text": {
+    "vi": "Điều 124. Các hành vi vi phạm pháp luật về kinh doanh bảo hiểm.\n\nCác hành vi vi phạm pháp luật về kinh doanh bảo hiểm bao gồm:\n\n1. Kinh doanh bảo hiểm không có giấy phép thành lập và hoạt động hoặc không đúng với nội dung giấy phép thành lập và hoạt động;\n\n2. Vi phạm quy định về cấp giấy phép thành lập và hoạt động, thanh tra, kiểm tra và giám sát của cơ quan nhà nước có thẩm quyền;\n\n3. Cạnh tranh bất hợp pháp;\n\n4. Ép buộc giao kết hợp đồng bảo hiểm;\n\n5. Vi phạm quy định về bảo hiểm bắt buộc;\n\n6. Vi phạm nghĩa vụ giữ bí mật về thông tin có liên quan đến hợp đồng bảo hiểm do bên mua bảo hiểm cung cấp;\n\n7. Cung cấp thông tin, số liệu, báo cáo sai sự thật;\n\n8. Kinh doanh trong điều kiện không bảo đảm yêu cầu về tài chính, vi phạm quy định về vốn pháp định, dự trữ, ký quỹ, trích lập, quản lý và sử dụng dự phòng nghiệp vụ;\n\n9. Vi phạm quy định về đầu tư vốn;\n\n10. Các hành vi khác vi phạm pháp luật về kinh doanh bảo hiểm."
+   }
+  },
+  {
+   "id": "VN-H402-A125",
+   "no": 125,
+   "noLabel": {
+    "vi": "Điều 125"
+   },
+   "chapter": {
+    "vi": "Chương VIII"
+   },
+   "heading": {
+    "vi": "Xử lý vi phạm."
+   },
+   "text": {
+    "vi": "Điều 125. Xử lý vi phạm.\n\n1. Người nào vi phạm quy định của Luật này thì tùy theo tính chất, mức độ vi phạm mà bị xử phạt hành chính hoặc bị truy cứu trách nhiệm hình sự; nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.\n\n2. Người nào lợi dụng chức vụ, quyền hạn vi phạm các quy định về cấp giấy phép thành lập và hoạt động, giấy phép đặt văn phòng đại diện của doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm nước ngoài tại Việt Nam, quản lý nhà nước về kinh doanh bảo hiểm và các quy định khác của Luật này thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật hoặc bị truy cứu trách nhiệm hình sự; nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H402-A126",
+   "no": 126,
+   "noLabel": {
+    "vi": "Điều 126"
+   },
+   "chapter": {
+    "vi": "Chương VIII"
+   },
+   "heading": {
+    "vi": "Khiếu nại, khởi kiện về quyết định xử phạt vi phạm hành chính."
+   },
+   "text": {
+    "vi": "Điều 126. Khiếu nại, khởi kiện về quyết định xử phạt vi phạm hành chính.\n\n1. Tổ chức, cá nhân bị xử lý vi phạm hành chính có quyền khiếu nại với cơ quan nhà nước có thẩm quyền hoặc khởi kiện tại tòa án theo quy định của pháp luật.\n\n2. Trong thời gian khiếu nại hoặc khởi kiện, tổ chức, cá nhân bị xử lý vi phạm hành chính vẫn phải thi hành quyết định xử lý vi phạm hành chính. Khi có quyết định giải quyết khiếu nại của cơ quan nhà nước có thẩm quyền hoặc bản án, quyết định của tòa án đã có hiệu lực pháp luật thì thi hành theo quyết định giải quyết khiếu nại của cơ quan nhà nước có thẩm quyền hoặc theo bản án, quyết định của tòa án.\n\nChương IX\n\nĐIỀU KHOẢN THI HÀNH"
+   }
+  },
+  {
+   "id": "VN-H402-A127",
+   "no": 127,
+   "noLabel": {
+    "vi": "Điều 127"
+   },
+   "chapter": {
+    "vi": "Chương IX"
+   },
+   "heading": {
+    "vi": "Quy định đối với doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm, văn phòng đại diện được thành lập, hoạt động; hợp đồng bảo hiểm được giao kết trước ngày Luật này có hiệu lực."
+   },
+   "text": {
+    "vi": "Điều 127. Quy định đối với doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm, văn phòng đại diện được thành lập, hoạt động; hợp đồng bảo hiểm được giao kết trước ngày Luật này có hiệu lực.\n\n1. Doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm đã thành lập và hoạt động theo quyết định thành lập, giấy phép thành lập, giấy phép đầu tư, giấy chứng nhận đủ tiêu chuẩn và điều kiện hoạt động kinh doanh bảo hiểm; văn phòng đại diện của doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm nước ngoài đã hoạt động theo giấy phép đặt văn phòng đại diện cấp trước ngày Luật này có hiệu lực thi hành không phải thực hiện các thủ tục xin cấp lại giấy phép.\n\n2. Các hợp đồng bảo hiểm đã giao kết trước ngày Luật này có hiệu lực vẫn được tiếp tục thực hiện theo quy định của pháp luật tại thời điểm giao kết hợp đồng."
+   }
+  },
+  {
+   "id": "VN-H402-A128",
+   "no": 128,
+   "noLabel": {
+    "vi": "Điều 128"
+   },
+   "chapter": {
+    "vi": "Chương IX"
+   },
+   "heading": {
+    "vi": "Hiệu lực thi hành."
+   },
+   "text": {
+    "vi": "Điều 128. Hiệu lực thi hành.\n\n1. Luật này có hiệu lực thi hành kể từ ngày 01 tháng 4 năm 2001.\n\n2. Những quy định trước đây trái với Luật này đều bãi bỏ."
+   }
+  },
+  {
+   "id": "VN-H402-A129",
+   "no": 129,
+   "noLabel": {
+    "vi": "Điều 129"
+   },
+   "chapter": {
+    "vi": "Chương IX"
+   },
+   "heading": {
+    "vi": "Hướng dẫn thi hành."
+   },
+   "text": {
+    "vi": "Điều 129. Hướng dẫn thi hành.\n\nChính phủ quy định chi tiết và hướng dẫn thi hành Luật này.\n\nLuật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam Khoá X, kỳ họp thứ 8 thông qua ngày 09 tháng 12 năm 2000./.\n\n CHỦ TỊCH QUỐC HỘI\n\n (Đã ký)\n\n Nông Đức Mạnh\n\n1:{\"id\":\"5748\",\"docType\":{\"id\":\"11025e19-2dd6-4165-85ad-ab6241186a1a\",\"name\":\"Luật\",\"code\":\"Lu\",\"parentCode\":\"VBQPPL\",\"parentName\":null},\"docGroup\":\"VBQPPL\",\"docNum\":\"24/2000/QH10\",\"title\":\"Luật Kinh doanh bảo hiểm số 24/2000/QH10\",\"applicationNote\":null,\"issueDate\":\"2000-12-09T00:00:00\",\"effFrom\":\"2001-04-01T00:00:00\",\"effTo\":null,\"publicDate\":null,\"effStatus\":{\"id\":\"9c20e89d-e048-4f3a-b6c2-df87fe0b1ada\",\"name\":\"Hết hiệu lực một phần\",\"code\":\"HHL1P\",\"parentCode\":null,\"parentName\":null},\"status\":\"Publish\",\"lang\":\"vi\",\"defaultLanguage\":\"VN\",\"updatedBy\":\"System Account\",\"updatedDate\":\"2026-05-08T19:31:25\",\"agencyName\":\"Quốc hội\",\"organization\":{\"id\":\"d2907e2d-b1d4-4f22-8cfc-35f786fbf860\",\"code\":\"BTC\",\"name\":\"Bộ Tài chính\",\"nameEn\":\"Bộ Tài chính\",\"shortName\":\"BTC\",\"orgType\":\"0\"},\"isLw\":true,\"documentContent\":{\"id\":\"5748\",\"title\":null,\"content\":\"$2\"},\"documentContentEn\":null,\"documentContentFileName\":null,\"documentContentFileDocName\":null,\"documentIssues\":[{\"id\":\"377bb661-20c7-4c76-affc-8ab0bdc2c870\",\"agencyId\":\"55\",\"agencyName\":\"Quốc hội\",\"agencyNameEn\":\"National Assembly of Vietnam\",\"agencyCode\":\"QH\",\"personId\":\"184\",\"personName\":\"Nông Đức Mạnh\",\"jobTitleId\":\"28da0087-8afd-420c-875c-b2369e212c3e\",\"jobTitleCode\":\"CTQH\",\"jobTitleName\":\"Chủ tịch Quốc hội\",\"orderIndex\":1}],\"documentMajors\":[],\"documentFields\":[{\"id\":\"76e2c0d5-e93e-4ee9-8c72-59dae1167432\",\"name\":\"Chưa phân loại\",\"code\":null,\"parentCode\":null,\"parentName\":null}],\"documentRelatedList\":[{\"id\":\"6bdbac59-bf49-49dc-802a-c213eaff29ec\",\"fileName\":\"5748_body_content.html\",\"relatedType\":\"MARKDOWN\",\"fileTitle\":\"5748_body_content.html\",\"fileOrder\":null}],\"provisionTree\":null,\"references\":null,\"isEffectAllDocument\":false,\"isOld\":true,\"reviewStatus\":\"RV_DONE\",\"reviewed\":true,\"isTranslationDoc\":false,\"isConsolidatedDocument\":false,\"isConstitutionDocument\":false,\"isAdministrativeDocument\":false,\"viewCount\":92,\"showViewCount\":true,\"hasContent\":true,\"hasOriginalPdf\":null,\"hasAIProcessed\":false,\"hasClauseRelation\":true,\"aiResults\":[]}"
+   }
+  }
+ ]
+}

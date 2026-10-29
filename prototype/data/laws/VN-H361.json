@@ -1,0 +1,2922 @@
+{
+ "id": "VN-H361",
+ "title": {
+  "zh": "劳动法典",
+  "en": "Code on labour",
+  "vi": "Bộ luật Lao động",
+  "orig": "Bộ luật Lao động số Không số",
+  "th": "ประมวลกฎหมายแรงงาน",
+  "id": "Kitab Undang-Undang Ketenagakerjaan",
+  "ms": "Kanun Buruh"
+ },
+ "country": "VN",
+ "countryName": "越南",
+ "layer": "intl",
+ "pack": "vn-p06",
+ "language": "vi",
+ "level": "code",
+ "category": "04_劳工与行政法",
+ "status": "active",
+ "promulgatedDate": "1994",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "国会",
+ "docNumber": "Không số",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 198,
+ "chars": 107270,
+ "source": {
+  "name": "越南法律数据库（vbpl.vn 官方公报文本）",
+  "url": "https://vbpl.vn/van-ban/chi-tiet/bo-luat-lao-dong-so-khong-so--10427"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\VN\\04_劳工与行政法\\1994_Không số_Bộ luật Lao động số Không số.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 198 条；逐字未改写（源自 VN）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "VN-H361-A1",
+   "no": 1,
+   "noLabel": {
+    "vi": "Điều 1"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Bộ Luật Lao động điều chỉnh quan hệ lao động giữa người lao động làm công ăn lương với người sử dụng lao động và các quan hệ xã hội liên quan trực tiếp với quan hệ lao động."
+   },
+   "text": {
+    "vi": "Điều 1. Bộ Luật Lao động điều chỉnh quan hệ lao động giữa người lao động làm công ăn lương với người sử dụng lao động và các quan hệ xã hội liên quan trực tiếp với quan hệ lao động."
+   }
+  },
+  {
+   "id": "VN-H361-A2",
+   "no": 2,
+   "noLabel": {
+    "vi": "Điều 2"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 2.\n\nBộ Luật Lao động được áp dụng đối với mọi người lao động, mọi tổ chức, cá nhân sử dụng lao động theo hợp đồng lao động, thuộc các thành phần kinh tế, các hình thức sở hữu.\n\nBộ luật này cũng được áp dụng đối với người học nghề, người giúp việc gia đình và một số loại lao động khác được quy định tại Bộ luật này."
+   }
+  },
+  {
+   "id": "VN-H361-A3",
+   "no": 3,
+   "noLabel": {
+    "vi": "Điều 3"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Công dân Việt Nam làm việc trong các doanh nghiệp có vốn đầu tư nước ngoài tại Việt Nam, tại các cơ quan, tổ chức nước ngoài hoặc quốc tế đóng trên lãnh thổ Việt Nam và người nước ngoài làm việc trong các doanh nghiệp, tổ chức và cho cá nhân Việt Nam trên lãnh thổ Việt Nam đều thuộc phạm vi áp dụng của Bộ luật này và các quy định khác của pháp luật Việt Nam, trừ trường hợp điều ước quốc tế mà Cộng hoà xã hội chủ nghĩa Việt Nam ký kết hoặc tham gia có quy định khác."
+   },
+   "text": {
+    "vi": "Điều 3. Công dân Việt Nam làm việc trong các doanh nghiệp có vốn đầu tư nước ngoài tại Việt Nam, tại các cơ quan, tổ chức nước ngoài hoặc quốc tế đóng trên lãnh thổ Việt Nam và người nước ngoài làm việc trong các doanh nghiệp, tổ chức và cho cá nhân Việt Nam trên lãnh thổ Việt Nam đều thuộc phạm vi áp dụng của Bộ luật này và các quy định khác của pháp luật Việt Nam, trừ trường hợp điều ước quốc tế mà Cộng hoà xã hội chủ nghĩa Việt Nam ký kết hoặc tham gia có quy định khác."
+   }
+  },
+  {
+   "id": "VN-H361-A4",
+   "no": 4,
+   "noLabel": {
+    "vi": "Điều 4"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Chế độ lao động đối với công chức, viên chức Nhà nước, người giữ các chức vụ được bầu, cử hoặc bổ nhiệm, người thuộc lực lượng quân đội nhân dân, công an nhân dân, người thuộc các đoàn thể nhân dân, các tổ chức chính trị, xã hội khác và xã viên hợp tác xã do các văn bản pháp luật khác quy định nhưng tuỳ từng đối tượng mà được áp dụng một số quy định trong Bộ luật này."
+   },
+   "text": {
+    "vi": "Điều 4. Chế độ lao động đối với công chức, viên chức Nhà nước, người giữ các chức vụ được bầu, cử hoặc bổ nhiệm, người thuộc lực lượng quân đội nhân dân, công an nhân dân, người thuộc các đoàn thể nhân dân, các tổ chức chính trị, xã hội khác và xã viên hợp tác xã do các văn bản pháp luật khác quy định nhưng tuỳ từng đối tượng mà được áp dụng một số quy định trong Bộ luật này."
+   }
+  },
+  {
+   "id": "VN-H361-A5",
+   "no": 5,
+   "noLabel": {
+    "vi": "Điều 5"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 5.\n\n1- Mọi người đều có quyền làm việc, tự do lựa chọn việc làm và nghề nghiệp, học nghề và nâng cao trình độ nghề nghiệp, không bị phân biệt đối xử về giới tính, dân tộc, thành phần xã hội, tín ngưỡng, tôn giáo.\n\n2- Cấm ngược đãi người lao động; cấm cưỡng bức người lao động dưới bất kỳ hình thức nào.\n\n3- Mọi hoạt động tạo ra việc làm, tự tạo việc làm, dạy nghề và học nghề để có việc làm, mọi hoạt động sản xuất, kinh doanh thu hút nhiều lao động đều được Nhà nước khuyến khích, tạo điều kiện thuận lợi hoặc giúp đỡ."
+   }
+  },
+  {
+   "id": "VN-H361-A6",
+   "no": 6,
+   "noLabel": {
+    "vi": "Điều 6"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 6.\n\nNgười lao động là người ít nhất đủ 15 tuổi, có khả năng lao động và có giao kết hợp đồng lao động.\n\nNgười sử dụng lao động là doanh nghiệp, cơ quan, tổ chức hoặc cá nhân, nếu là cá nhân thì ít nhất phải đủ 18 tuổi, có thuê mướn, sử dụng và trả công lao động."
+   }
+  },
+  {
+   "id": "VN-H361-A7",
+   "no": 7,
+   "noLabel": {
+    "vi": "Điều 7"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 7.\n\n1- Người lao động được trả lương trên cơ sở thoả thuận với người sử dụng lao động nhưng không thấp hơn mức lương tối thiểu do Nhà nước quy định và theo năng suất, chất lượng, hiệu quả công việc; được bảo hộ lao động, làm việc trong những điều kiện bảo đảm về an toàn lao động, vệ sinh lao động; nghỉ theo chế độ, nghỉ hàng năm có lương và được bảo hiểm xã hội theo quy định của pháp luật. Nhà nước quy định chế độ lao động và chính sách xã hội nhằm bảo vệ lao động nữ và các loại lao động có đặc điểm riêng.\n\n2- Người lao động có quyền thành lập, gia nhập, hoạt động công đoàn theo Luật công đoàn để bảo vệ quyền và lợi ích hợp pháp của mình; được hưởng phúc lợi tập thể, tham gia quản lý doanh nghiệp theo nội quy của doanh nghiệp và quy định của pháp luật.\n\n3- Người lao động có nghĩa vụ thực hiện hợp đồng lao động, thoả ước lao động tập thể, chấp hành kỷ luật lao động, nội quy lao động và tuân theo sự điều hành hợp pháp của người sử dụng lao động.\n\n4- Người lao động có quyền đình công theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H361-A8",
+   "no": 8,
+   "noLabel": {
+    "vi": "Điều 8"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 8.\n\n1- Người sử dụng lao động có quyền tuyển chọn lao động, bố trí, điều hành lao động theo nhu cầu sản xuất, kinh doanh; có quyền khen thưởng và xử lý các vi phạm kỷ luật lao động theo quy định của pháp luật lao động.\n\n2- Người sử dụng lao động có quyền cử đại diện để thương lượng, ký kết thoả ước lao động tập thể trong doanh nghiệp hoặc thoả ước lao động tập thể ngành; có trách nhiệm cộng tác với công đoàn bàn bạc các vấn đề về quan hệ lao động, cải thiện đời sống vật chất và tinh thần của người lao động.\n\n3- Người sử dụng lao động có nghĩa vụ thực hiện hợp đồng lao động, thoả ước lao động tập thể và những thoả thuận khác với người lao động, tôn trọng danh dự, nhân phẩm và đối xử đúng đắn với người lao động."
+   }
+  },
+  {
+   "id": "VN-H361-A9",
+   "no": 9,
+   "noLabel": {
+    "vi": "Điều 9"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 9.\n\nQuan hệ lao động giữa người lao động và người sử dụng lao động được xác lập và tiến hành qua thương lượng, thoả thuận theo nguyên tắc tự nguyện, bình đẳng, hợp tác, tôn trọng quyền và lợi ích hợp pháp của nhau, thực hiện đầy đủ những điều đã cam kết.\n\nNhà nước khuyến khích những thoả thuận bảo đảm cho người lao động có những điều kiện thuận lợi hơn so với những quy định của pháp luật lao động.\n\nNgười lao động và người sử dụng lao động có quyền yêu cầu cơ quan, tổ chức có thẩm quyền giải quyết tranh chấp lao động. Nhà nước khuyến khích việc giải quyết các tranh chấp lao động bằng hoà giải và trọng tài."
+   }
+  },
+  {
+   "id": "VN-H361-A10",
+   "no": 10,
+   "noLabel": {
+    "vi": "Điều 10"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 10.\n\n1- Nhà nước thống nhất quản lý nguồn nhân lực và quản lý lao động bằng pháp luật và có chính sách để phát triển, phân bố nguồn nhân lực, phát triển đa dạng các hình thức sử dụng lao động và dịch vụ việc làm.\n\n2- Nhà nước hướng dẫn người lao động và người sử dụng lao động xây dựng mối quan hệ lao động hài hoà và ổn định, cùng nhau hợp tác vì sự phát triển của doanh nghiệp."
+   }
+  },
+  {
+   "id": "VN-H361-A11",
+   "no": 11,
+   "noLabel": {
+    "vi": "Điều 11"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 11.\n\nNhà nước khuyến khích việc quản lý lao động dân chủ, công bằng, văn minh trong doanh nghiệp và mọi biện pháp, kể cả việc trích thưởng từ lợi nhuận của doanh nghiệp, làm cho người lao động quan tâm đến hiệu quả hoạt động của doanh nghiệp, nhằm đạt hiệu quả cao trong quản lý lao động, sản xuất của doanh nghiệp.\n\nNhà nước có chính sách để người lao động mua cổ phần, góp vốn phát triển doanh nghiệp."
+   }
+  },
+  {
+   "id": "VN-H361-A12",
+   "no": 12,
+   "noLabel": {
+    "vi": "Điều 12"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Công đoàn tham gia cùng với cơ quan Nhà nước, tổ chức kinh tế, tổ chức xã hội chăm lo và bảo vệ quyền lợi của người lao động; tham gia kiểm tra, giám sát việc thi hành các quy định của Pháp Luật Lao động."
+   },
+   "text": {
+    "vi": "Điều 12. Công đoàn tham gia cùng với cơ quan Nhà nước, tổ chức kinh tế, tổ chức xã hội chăm lo và bảo vệ quyền lợi của người lao động; tham gia kiểm tra, giám sát việc thi hành các quy định của Pháp Luật Lao động.\n\nChương II\n\nVIỆC LÀM"
+   }
+  },
+  {
+   "id": "VN-H361-A13",
+   "no": 13,
+   "noLabel": {
+    "vi": "Điều 13"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 13.\n\nMọi hoạt động lao động tạo ra nguồn thu nhập, không bị pháp luật cấm đều được thừa nhận là việc làm.\n\nGiải quyết việc làm, bảo đảm cho mọi người có khả năng lao động đều có cơ hội có việc làm là trách nhiệm của Nhà nước, của các doanh nghiệp và toàn xã hội."
+   }
+  },
+  {
+   "id": "VN-H361-A14",
+   "no": 14,
+   "noLabel": {
+    "vi": "Điều 14"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 14.\n\n1- Nhà nước định chỉ tiêu tạo việc làm mới trong kế hoạch phát triển kinh tế - xã hội 5 năm và hàng năm, tạo điều kiện cần thiết, hỗ trợ tài chính, cho vay vốn hoặc giảm, miễn thuế và áp dụng các biện pháp khuyến khích khác để người có khả năng lao động tự giải quyết việc làm, để các tổ chức, đơn vị và cá nhân thuộc mọi thành phần kinh tế phát triển nhiều nghề mới nhằm tạo việc làm cho nhiều người lao động.\n\n2- Nhà nước có chính sách ưu đãi về giải quyết việc làm để thu hút và sử dụng lao động là người dân tộc thiểu số.\n\n3- Nhà nước có chính sách khuyến khích, tạo điều kiện thuận lợi cho các tổ chức và cá nhân trong nước và nước ngoài, bao gồm cả người Việt Nam định cư ở nước ngoài đầu tư phát triển sản xuất, kinh doanh, để giải quyết việc làm cho người lao động."
+   }
+  },
+  {
+   "id": "VN-H361-A15",
+   "no": 15,
+   "noLabel": {
+    "vi": "Điều 15"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 15.\n\n1- Chính phủ lập chương trình quốc gia về việc làm, dự án đầu tư phát triển kinh tế - xã hội, di dân phát triển vùng kinh tế mới gắn với chương trình giải quyết việc làm; lập quỹ quốc gia về việc làm từ ngân sách Nhà nước và các nguồn khác, phát triển hệ thống tổ chức dịch vụ việc làm. Hàng năm Chính phủ trình Quốc hội quyết định chương trình và quỹ quốc gia về việc làm.\n\n2- Uỷ ban nhân dân tỉnh, thành phố trực thuộc Trung ương lập chương trình và quỹ giải quyết việc làm của địa phương trình Hội đồng nhân dân cùng cấp quyết định.\n\n3- Các cơ quan Nhà nước, các tổ chức kinh tế, các đoàn thể nhân dân và tổ chức xã hội trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm tham gia thực hiện các chương trình và quỹ giải quyết việc làm."
+   }
+  },
+  {
+   "id": "VN-H361-A16",
+   "no": 16,
+   "noLabel": {
+    "vi": "Điều 16"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 16.\n\n1- Người lao động có quyền làm việc cho bất kỳ người sử dụng lao động nào và ở bất kỳ nơi nào mà pháp luật không cấm. Người cần tìm việc làm có quyền trực tiếp liên hệ để tìm việc hoặc đăng ký tại các tổ chức dịch vụ việc làm để tìm việc tuỳ theo nguyện vọng, khả năng, trình độ nghề nghiệp và sức khoẻ của mình.\n\n2- Người sử dụng lao động có quyền trực tiếp hoặc thông qua các tổ chức dịch vụ việc làm để tuyển chọn lao động, có quyền tăng giảm lao động phù hợp với nhu cầu sản xuất, kinh doanh theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H361-A17",
+   "no": 17,
+   "noLabel": {
+    "vi": "Điều 17"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 17.\n\n1- Trong trường hợp do thay đổi cơ cấu hoặc công nghệ mà người lao động đã làm việc thường xuyên trong doanh nghiệp từ một năm trở lên bị mất việc làm, thì người sử dụng lao động có trách nhiệm đào tạo lại họ để tiếp tục sử dụng vào những chỗ làm việc mới; nếu không thể giải quyết được việc làm mới, phải cho người lao động thôi việc thì phải trả trợ cấp mất việc làm, cứ mỗi năm làm việc trả một tháng lương, nhưng thấp nhất cũng bằng hai tháng lương.\n\n2- Khi cần cho nhiều người thôi việc theo khoản 1 Điều này, người sử dụng lao động phải công bố danh sách, căn cứ vào nhu cầu của doanh nghiệp và thâm niên làm việc tại doanh nghiệp, tay nghề, hoàn cảnh gia đình và những yếu tố khác của từng người để lần lượt cho thôi việc, sau khi đã trao đổi, nhất trí với Ban chấp hành công đoàn cơ sở trong doanh nghiệp theo thủ tục quy định tại khoản 2 Điều 38 của Bộ luật này. Việc cho thôi việc chỉ được tiến hành sau khi đã báo cho cơ quan lao động địa phương biết.\n\n3- Các doanh nghiệp phải lập quỹ dự phòng về trợ cấp mất việc làm theo quy định của Chính phủ để kịp thời trợ cấp cho người lao động trong doanh nghiệp bị mất việc làm.\n\n4- Chính phủ có chính sách và biện pháp tổ chức dạy nghề, đào tạo lại, hướng dẫn sản xuất kinh doanh, cho vay vốn với lãi suất thấp từ quỹ quốc gia giải quyết việc làm, tạo điều kiện để người lao động tìm việc làm hoặc tự tạo việc làm; hỗ trợ về tài chính cho những địa phương và ngành có nhiều người thiếu việc làm hoặc mất việc làm do thay đổi cơ cấu hoặc công nghệ."
+   }
+  },
+  {
+   "id": "VN-H361-A18",
+   "no": 18,
+   "noLabel": {
+    "vi": "Điều 18"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 18.\n\n1- Tổ chức dịch vụ việc làm được thành lập theo quy định của pháp luật có nhiệm vụ tư vấn, giới thiệu, cung ứng và giúp tuyển lao động, thu thập và cung ứng thông tin về thị trường lao động. Việc đưa người lao động Việt Nam đi làm việc ở nước ngoài chỉ được tiến hành sau khi có giấy phép của cơ quan Nhà nước có thẩm quyền.\n\n2- Tổ chức dịch vụ việc làm được thu lệ phí, được Nhà nước xét giảm, miễn thuế và được tổ chức dạy nghề theo các quy định tại Chương III của Bộ luật này.\n\n3- Bộ Lao động - Thương binh và Xã hội thống nhất quản lý Nhà nước đối với các tổ chức dịch vụ việc làm trong cả nước."
+   }
+  },
+  {
+   "id": "VN-H361-A19",
+   "no": 19,
+   "noLabel": {
+    "vi": "Điều 19"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 19.\n\nCấm mọi hành vi dụ dỗ, hứa hẹn và quảng cáo gian dối để lừa gạt người lao động hoặc lợi dụng dịch vụ việc làm để thực hiện những hành vi trái pháp luật.\n\nChương IIII\n\nHỌC NGHỀ"
+   }
+  },
+  {
+   "id": "VN-H361-A20",
+   "no": 20,
+   "noLabel": {
+    "vi": "Điều 20"
+   },
+   "chapter": {
+    "vi": "Chương IIII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 20.\n\n1- Mọi người có quyền tự do lựa chọn nghề và nơi học nghề phù hợp với nhu cầu việc làm của mình.\n\n2- Doanh nghiệp, tổ chức và cá nhân có đủ điều kiện theo quy định của pháp luật được mở cơ sở dạy nghề.\n\nChính phủ ban hành quy định về việc mở các cơ sở dạy nghề."
+   }
+  },
+  {
+   "id": "VN-H361-A21",
+   "no": 21,
+   "noLabel": {
+    "vi": "Điều 21"
+   },
+   "chapter": {
+    "vi": "Chương IIII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 21.\n\n1- Cơ sở dạy nghề phải đăng ký, hoạt động theo quy định về dạy nghề, được thu học phí và phải nộp thuế theo quy định của pháp luật.\n\n2- Cơ sở dạy nghề cho thương binh, bệnh binh, người tàn tật, người dân tộc thiểu số hoặc ở những nơi có nhiều người thiếu việc làm, mất việc làm, các cơ sở dạy nghề truyền thống, kèm cặp tại xưởng, tại nhà được xét giảm, miễn thuế."
+   }
+  },
+  {
+   "id": "VN-H361-A22",
+   "no": 22,
+   "noLabel": {
+    "vi": "Điều 22"
+   },
+   "chapter": {
+    "vi": "Chương IIII"
+   },
+   "heading": {
+    "vi": "Người học nghề ở cơ sở dạy nghề ít nhất phải đủ 13 tuổi, trừ một số nghề do Bộ Lao động - Thương binh và Xã hội quy định và phải có đủ sức khoẻ phù hợp với yêu cầu của nghề theo học."
+   },
+   "text": {
+    "vi": "Điều 22. Người học nghề ở cơ sở dạy nghề ít nhất phải đủ 13 tuổi, trừ một số nghề do Bộ Lao động - Thương binh và Xã hội quy định và phải có đủ sức khoẻ phù hợp với yêu cầu của nghề theo học."
+   }
+  },
+  {
+   "id": "VN-H361-A23",
+   "no": 23,
+   "noLabel": {
+    "vi": "Điều 23"
+   },
+   "chapter": {
+    "vi": "Chương IIII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 23.\n\n1- Doanh nghiệp có trách nhiệm tổ chức nâng cao trình độ nghề nghiệp cho người lao động và đào tạo lại trước khi chuyển người lao động sang làm nghề khác trong doanh nghiệp.\n\n2- Doanh nghiệp tuyển người vào học nghề, tập nghề để làm việc tại doanh nghiệp theo thời hạn cam kết trong hợp đồng học nghề, tập nghề thì không phải đăng ký và không được thu học phí. Thời gian học nghề, tập nghề được tính vào thâm niên làm việc tại doanh nghiệp. Trong thời gian học nghề, tập nghề, nếu trực tiếp hoặc tham gia làm ra sản phẩm cho doanh nghiệp thì người học nghề, tập nghề được trả công theo mức do hai bên thoả thuận."
+   }
+  },
+  {
+   "id": "VN-H361-A24",
+   "no": 24,
+   "noLabel": {
+    "vi": "Điều 24"
+   },
+   "chapter": {
+    "vi": "Chương IIII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 24.\n\n1- Việc học nghề phải có hợp đồng học nghề bằng văn bản hoặc bằng miệng giữa người học nghề với người dạy nghề hoặc đại diện cơ sở dạy nghề. Nếu ký kết hợp đồng học nghề bằng văn bản, thì phải làm thành hai bản, mỗi bên giữ một bản.\n\n2- Nội dung chủ yếu của hợp đồng học nghề phải bao gồm mục tiêu đào tạo, địa điểm học, mức học phí, thời hạn học, mức bồi thường khi vi phạm hợp đồng.\n\n3- Trong trường hợp doanh nghiệp nhận người vào học nghề để sử dụng thì hợp đồng học nghề phải có cam kết về thời hạn làm việc cho doanh nghiệp và phải bảo đảm ký kết hợp đồng lao động sau khi học xong. Người học nghề sau khi học xong, nếu không làm việc theo cam kết thì phải bồi thường phí dạy nghề.\n\n4- Trong trường hợp hợp đồng học nghề chấm dứt trước thời hạn vì lý do bất khả kháng thì không phải bồi thường."
+   }
+  },
+  {
+   "id": "VN-H361-A25",
+   "no": 25,
+   "noLabel": {
+    "vi": "Điều 25"
+   },
+   "chapter": {
+    "vi": "Chương IIII"
+   },
+   "heading": {
+    "vi": "Nghiêm cấm mọi doanh nghiệp, tổ chức và cá nhân lợi dụng danh nghĩa dạy nghề, truyền nghề để trục lợi, bóc lột sức lao động hoặc dụ dỗ, ép buộc người học nghề, tập nghề vào những hoạt động trái pháp luật."
+   },
+   "text": {
+    "vi": "Điều 25. Nghiêm cấm mọi doanh nghiệp, tổ chức và cá nhân lợi dụng danh nghĩa dạy nghề, truyền nghề để trục lợi, bóc lột sức lao động hoặc dụ dỗ, ép buộc người học nghề, tập nghề vào những hoạt động trái pháp luật.\n\nChương IV\n\nHỢP ĐỒNG LAO ĐỘNG"
+   }
+  },
+  {
+   "id": "VN-H361-A26",
+   "no": 26,
+   "noLabel": {
+    "vi": "Điều 26"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Hợp đồng lao động là sự thoả thuận giữa người lao động và người sử dụng lao động về việc làm có trả công, điều kiện lao động, quyền và nghĩa vụ của mỗi bên trong quan hệ lao động."
+   },
+   "text": {
+    "vi": "Điều 26. Hợp đồng lao động là sự thoả thuận giữa người lao động và người sử dụng lao động về việc làm có trả công, điều kiện lao động, quyền và nghĩa vụ của mỗi bên trong quan hệ lao động."
+   }
+  },
+  {
+   "id": "VN-H361-A27",
+   "no": 27,
+   "noLabel": {
+    "vi": "Điều 27"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 27.\n\n1- Hợp đồng lao động phải được giao kết theo một trong các loại sau đây:\n\na) Hợp đồng lao động không xác định thời hạn;\n\nb) Hợp đồng lao động xác định thời hạn từ một năm đến ba năm;\n\nc) Hợp đồng lao động theo mùa vụ hoặc theo một công việc nhất định mà thời hạn dưới một năm.\n\n2- Không được giao kết hợp đồng lao động theo mùa vụ hoặc theo một công việc nhất định mà thời hạn dưới một năm để làm những công việc có tính chất thường xuyên từ một năm trở lên, trừ trường hợp phải tạm thời thay thế người lao động đi làm nghĩa vụ quân sự, nghỉ theo chế độ thai sản hoặc nghỉ việc có tính chất tạm thời khác."
+   }
+  },
+  {
+   "id": "VN-H361-A28",
+   "no": 28,
+   "noLabel": {
+    "vi": "Điều 28"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Hợp đồng lao động được ký kết bằng văn bản và phải được làm thành hai bản, mỗi bên giữ một bản. Đối với một số công việc có tính chất tạm thời mà thời hạn dưới ba tháng hoặc đối với lao động giúp việc gia đình thì các bên có thể giao kết bằng miệng. Trong trường hợp giao kết bằng miệng, thì các bên đương nhiên phải tuân theo các quy định của pháp luật lao động."
+   },
+   "text": {
+    "vi": "Điều 28. Hợp đồng lao động được ký kết bằng văn bản và phải được làm thành hai bản, mỗi bên giữ một bản. Đối với một số công việc có tính chất tạm thời mà thời hạn dưới ba tháng hoặc đối với lao động giúp việc gia đình thì các bên có thể giao kết bằng miệng. Trong trường hợp giao kết bằng miệng, thì các bên đương nhiên phải tuân theo các quy định của pháp luật lao động."
+   }
+  },
+  {
+   "id": "VN-H361-A29",
+   "no": 29,
+   "noLabel": {
+    "vi": "Điều 29"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 29.\n\n1- Hợp đồng lao động phải có những nội dung chủ yếu sau đây: công việc phải làm, thời giờ làm việc, thời giờ nghỉ ngơi, tiền lương, địa điểm làm việc, thời hạn hợp đồng, điều kiện về an toàn lao động, vệ sinh lao động và bảo hiểm xã hội đối với người lao động.\n\n2- Trong trường hợp một phần hoặc toàn bộ nội dung của hợp đồng lao động quy định quyền lợi của người lao động thấp hơn mức được quy định trong pháp luật lao động, thoả ước lao động tập thể, nội quy lao động đang áp dụng trong doanh nghiệp hoặc hạn chế các quyền khác của người lao động thì một phần hoặc toàn bộ nội dung đó phải được sửa đổi, bổ sung.\n\n3- Trong trường hợp phát hiện hợp đồng lao động có nội dung nói tại khoản 2 Điều này, thì Thanh tra lao động hướng dẫn cho các bên sửa đổi, bổ sung cho phù hợp. Nếu các bên không sửa đổi, bổ sung thì Thanh tra lao động có quyền buộc huỷ bỏ các nội dung đó."
+   }
+  },
+  {
+   "id": "VN-H361-A30",
+   "no": 30,
+   "noLabel": {
+    "vi": "Điều 30"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 30.\n\n1- Hợp đồng lao động được giao kết trực tiếp giữa người lao động với người sử dụng lao động.\n\n2- Hợp đồng lao động có thể được ký kết giữa người sử dụng lao động với người được uỷ quyền hợp pháp thay mặt cho nhóm người lao động; trong trường hợp này hợp đồng có hiệu lực như ký kết với từng người.\n\n3- Người lao động có thể giao kết một hoặc nhiều hợp đồng lao động, với một hoặc nhiều người sử dụng lao động, nhưng phải bảo đảm thực hiện đầy đủ các hợp đồng đã giao kết.\n\n4- Công việc theo hợp đồng lao động phải do người giao kết thực hiện, không được giao cho người khác, nếu không có sự đồng ý của người sử dụng lao động."
+   }
+  },
+  {
+   "id": "VN-H361-A31",
+   "no": 31,
+   "noLabel": {
+    "vi": "Điều 31"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Trong trường hợp sáp nhập, phân chia doanh nghiệp, chuyển quyền sở hữu, quyền quản lý hoặc quyền sử dụng tài sản của doanh nghiệp thì người sử dụng lao động kế tiếp phải chịu trách nhiệm tiếp tục thực hiện hợp đồng lao động với người lao động cho tới khi hai bên thoả thuận sửa đổi, chấm dứt hợp đồng lao động hoặc giao kết hợp đồng lao động mới."
+   },
+   "text": {
+    "vi": "Điều 31. Trong trường hợp sáp nhập, phân chia doanh nghiệp, chuyển quyền sở hữu, quyền quản lý hoặc quyền sử dụng tài sản của doanh nghiệp thì người sử dụng lao động kế tiếp phải chịu trách nhiệm tiếp tục thực hiện hợp đồng lao động với người lao động cho tới khi hai bên thoả thuận sửa đổi, chấm dứt hợp đồng lao động hoặc giao kết hợp đồng lao động mới."
+   }
+  },
+  {
+   "id": "VN-H361-A32",
+   "no": 32,
+   "noLabel": {
+    "vi": "Điều 32"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 32.\n\nNgười sử dụng lao động và người lao động thoả thuận về việc làm thử, thời gian thử việc, về quyền, nghĩa vụ của hai bên. Tiền lương của người lao động trong thời gian thử việc ít nhất phải bằng 70% mức lương cấp bậc của công việc đó. Thời gian thử việc không được quá 60 ngày đối với lao động chuyên môn kỹ thuật cao và không được quá 30 ngày đối với lao động khác.\n\nTrong thời gian thử việc, mỗi bên có quyền huỷ bỏ thoả thuận làm thử mà không cần báo trước và không phải bồi thường nếu việc làm thử không đạt yêu cầu mà hai bên đã thoả thuận. Khi việc làm thử đạt yêu cầu thì người sử dụng lao động phải nhận người lao động vào làm việc chính thức như đã thoả thuận."
+   }
+  },
+  {
+   "id": "VN-H361-A33",
+   "no": 33,
+   "noLabel": {
+    "vi": "Điều 33"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 33.\n\nHợp đồng lao động có hiệu lực từ ngày giao kết hoặc từ ngày do hai bên thoả thuận.\n\nTrong quá trình thực hiện hợp đồng lao động, nếu bên nào có yêu cầu thay đổi nội dung hợp đồng thì phải báo cho bên kia biết trước ít nhất ba ngày. Việc thay đổi nội dung hợp đồng lao động có thể được tiến hành bằng cách sửa đổi, bổ sung hợp đồng lao động đã giao kết hoặc giao kết hợp đồng lao động mới."
+   }
+  },
+  {
+   "id": "VN-H361-A34",
+   "no": 34,
+   "noLabel": {
+    "vi": "Điều 34"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 34.\n\n1- Khi gặp khó khăn đột xuất hoặc do nhu cầu sản xuất, kinh doanh, người sử dụng lao động được quyền tạm thời chuyển người lao động làm công việc khác trái nghề, nhưng không được quá 60 ngày trong một năm.\n\n2- Khi tạm thời chuyển người lao động làm việc khác trái nghề, người sử dụng lao động phải báo cho người lao động biết trước ít nhất ba ngày, phải báo rõ thời hạn làm tạm thời và bố trí công việc phù hợp với sức khoẻ và giới tính của người lao động.\n\n3- Người lao động tạm thời làm công việc khác theo quy định tại khoản 1 Điều này, được trả lương theo công việc mới; nếu tiền lương của công việc mới thấp hơn tiền lương cũ thì được giữ nguyên mức tiền lương cũ trong thời hạn 30 ngày làm việc. Tiền lương theo công việc mới ít nhất phải bằng 70% mức tiền lương cũ nhưng không được thấp hơn mức lương tối thiểu do Nhà nước quy định."
+   }
+  },
+  {
+   "id": "VN-H361-A35",
+   "no": 35,
+   "noLabel": {
+    "vi": "Điều 35"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 35.\n\n1- Hợp đồng lao động được tạm hoãn thực hiện trong những trường hợp sau đây:\n\na) Người lao động đi làm nghĩa vụ quân sự hoặc các nghĩa vụ công dân khác do pháp luật quy định;\n\nb) Người lao động bị tạm giữ, tạm giam;\n\nc) Các trường hợp khác do hai bên thoả thuận.\n\n2- Hết thời gian tạm hoãn hợp đồng lao động đối với các trường hợp quy định tại điểm a và điểm c khoản 1 Điều này, người sử dụng lao động phải nhận người lao động trở lại làm việc.\n\n3- Việc nhận lại người lao động bị tạm giữ, tạm giam khi hết thời gian tạm hoãn hợp đồng lao động do Chính phủ quy định."
+   }
+  },
+  {
+   "id": "VN-H361-A36",
+   "no": 36,
+   "noLabel": {
+    "vi": "Điều 36"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 36.\n\nHợp đồng lao động chấm dứt trong những trường hợp sau đây:\n\n1- Hết hạn hợp đồng;\n\n2- Đã hoàn thành công việc theo hợp đồng;\n\n3- Hai bên thoả thuận chấm dứt hợp đồng;\n\n4- Người lao động bị kết án tù giam hoặc bị cấm làm công việc cũ theo quyết định của Toà án;\n\n5- Người lao động chết; mất tích theo tuyên bố của Toà án."
+   }
+  },
+  {
+   "id": "VN-H361-A37",
+   "no": 37,
+   "noLabel": {
+    "vi": "Điều 37"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 37.\n\n1- Người lao động làm việc theo hợp đồng lao động xác định thời hạn từ một năm đến ba năm, hợp đồng lao động theo mùa vụ hoặc theo một công việc nhất định mà thời hạn dưới một năm có quyền đơn phương chấm dứt hợp đồng trước thời hạn trong những trường hợp sau đây:\n\na) Không được bố trí theo đúng công việc, địa điểm làm việc hoặc không được bảo đảm các điều kiện làm việc đã thoả thuận trong hợp đồng;\n\nb) Không được trả công đầy đủ hoặc trả công không đúng thời hạn theo hợp đồng;\n\nc) Bị ngược đãi; bị cưỡng bức lao động;\n\nd) Bản thân hoặc gia đình thật sự có hoàn cảnh khó khăn không thể tiếp tục thực hiện hợp đồng;\n\nđ) Được bầu làm nhiệm vụ chuyên trách ở các cơ quan dân cử hoặc được bổ nhiệm giữ chức vụ trong bộ máy Nhà nước;\n\ne) Người lao động nữ có thai phải nghỉ việc theo chỉ định của thầy thuốc.\n\n2- Khi đơn phương chấm dứt hợp đồng lao động theo quy định tại khoản 1 Điều này, người lao động phải báo cho người sử dụng lao động biết trước:\n\na) Đối với các trường hợp quy định tại các điểm a, b và c: ít nhất ba ngày;\n\nb) Đối với các trường hợp quy định tại điểm d và điểm đ: ít nhất ba mươi ngày nếu là hợp đồng xác định thời hạn từ một năm đến ba năm; ít nhất ba ngày nếu là hợp đồng theo mùa vụ hoặc theo một công việc nhất định mà thời hạn dưới một năm;\n\nc) Đối với trường hợp quy định tại điểm e: theo thời hạn quy định tại Điều 112 của Bộ luật này.\n\n3- Người lao động làm theo hợp đồng lao động không xác định thời hạn có quyền đơn phương chấm dứt hợp đồng lao động, nhưng phải báo cho người sử dụng lao động biết trước ít nhất 45 ngày."
+   }
+  },
+  {
+   "id": "VN-H361-A38",
+   "no": 38,
+   "noLabel": {
+    "vi": "Điều 38"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 38.\n\n1- Người sử dụng lao động có quyền đơn phương chấm dứt hợp đồng lao động trong những trường hợp sau đây:\n\na) Người lao động thường xuyên không hoàn thành công việc theo hợp đồng;\n\nb) Người lao động bị xử lý kỷ luật sa thải theo quy định tại Điều 85 của Bộ luật này;\n\nc) Người lao động làm theo hợp đồng lao động không xác định thời hạn ốm đau đã điều trị 12 tháng liền, người lao động làm theo hợp đồng lao động xác định thời hạn ốm đau đã điều trị sáu tháng liền và người lao động làm theo hợp đồng lao động dưới một năm ốm đau đã điều trị quá nửa thời hạn hợp đồng lao động, mà khả năng lao động chưa hồi phục. Khi sức khoẻ của người lao động bình phục, thì được xem xét để giao kết tiếp hợp đồng lao động;\n\nd) Do thiên tai, hoả hoạn hoặc những lý do bất khả kháng khác mà người sử dụng lao động đã tìm mọi biện pháp khắc phục nhưng vẫn buộc phải thu hẹp sản xuất, giảm chỗ làm việc;\n\nđ) Doanh nghiệp, cơ quan, tổ chức chấm dứt hoạt động.\n\n2- Trước khi đơn phương chấm dứt hợp đồng lao động theo các điểm a, b và c khoản 1 Điều này, người sử dụng lao động phải trao đổi, nhất trí với Ban chấp hành công đoàn cơ sở. Trong trường hợp không nhất trí, hai bên phải báo cáo với cơ quan, tổ chức có thẩm quyền. Sau 30 ngày, kể từ ngày báo cho cơ quan lao động biết, người sử dụng lao động mới có quyền quyết định và phải chịu trách nhiệm về quyết định của mình. Trường hợp không nhất trí với quyết định của người sử dụng lao động, Ban chấp hành công đoàn cơ sở và người lao động có quyền yêu cầu giải quyết tranh chấp lao động theo trình tự do pháp luật quy định.\n\n3- Khi đơn phương chấm dứt hợp đồng lao động, trừ trường hợp quy định tại điểm b khoản 1 Điều này, người sử dụng lao động phải báo cho người lao động biết trước:\n\na) Ít nhất 45 ngày đối với hợp đồng lao động không xác định thời hạn;\n\nb) Ít nhất 30 ngày đối với hợp đồng lao động xác định thời hạn từ một năm đến ba năm;\n\nc) Ít nhất ba ngày đối với hợp đồng lao động theo mùa vụ, theo một công việc nhất định mà thời hạn dưới một năm."
+   }
+  },
+  {
+   "id": "VN-H361-A39",
+   "no": 39,
+   "noLabel": {
+    "vi": "Điều 39"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 39.\n\nNgười sử dụng lao động không được đơn phương chấm dứt hợp đồng lao động trong những trường hợp sau đây:\n\n1- Người lao động ốm đau hoặc bị tai nạn lao động, bệnh nghề nghiệp đang điều trị, điều dưỡng theo quyết định của thầy thuốc, trừ trường hợp quy định tại điểm c và điểm đ khoản 1 Điều 38 của Bộ luật này;\n\n2- Người lao động đang nghỉ hàng năm, nghỉ về việc riêng và những trường hợp nghỉ khác được người sử dụng lao động cho phép;\n\n3- Người lao động là nữ trong các trường hợp quy định tại khoản 3 Điều 111 của Bộ luật này."
+   }
+  },
+  {
+   "id": "VN-H361-A40",
+   "no": 40,
+   "noLabel": {
+    "vi": "Điều 40"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Mỗi bên có thể từ bỏ việc đơn phương chấm dứt hợp đồng lao động trước khi hết thời hạn báo trước. Khi hết thời hạn báo trước, mỗi bên đều có quyền chấm dứt hợp đồng lao động."
+   },
+   "text": {
+    "vi": "Điều 40. Mỗi bên có thể từ bỏ việc đơn phương chấm dứt hợp đồng lao động trước khi hết thời hạn báo trước. Khi hết thời hạn báo trước, mỗi bên đều có quyền chấm dứt hợp đồng lao động."
+   }
+  },
+  {
+   "id": "VN-H361-A41",
+   "no": 41,
+   "noLabel": {
+    "vi": "Điều 41"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 41.\n\n1- Trong trường hợp người sử dụng lao động đơn phương chấm dứt hợp đồng lao động trái pháp luật thì phải nhận người lao động trở lại làm việc và phải bồi thường một khoản tiền tương ứng với tiền lương trong những ngày người lao động không được làm việc. Trong trường hợp người lao động không muốn trở lại làm việc, thì ngoài khoản tiền được bồi thường tương ứng với tiền lương trong những ngày không được làm việc, người lao động còn được trợ cấp theo quy định tại khoản 1 Điều 42 của Bộ luật này.\n\n2- Trong trường hợp người lao động đơn phương chấm dứt hợp đồng lao động trái pháp luật thì không được trợ cấp thôi việc.\n\n3- Trong trường hợp người lao động đơn phương chấm dứt hợp đồng lao động thì phải bồi thường phí đào tạo nếu có, theo quy định của Chính phủ.\n\n4- Trong trường hợp đơn phương chấm dứt hợp đồng lao động nếu vi phạm quy định về thời hạn báo trước, bên vi phạm phải bồi thường cho bên kia một khoản tiền tương ứng với tiền lương của người lao động trong những ngày không báo trước."
+   }
+  },
+  {
+   "id": "VN-H361-A42",
+   "no": 42,
+   "noLabel": {
+    "vi": "Điều 42"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 42.\n\n1- Khi chấm dứt hợp đồng lao động đối với người lao động đã làm việc thường xuyên trong doanh nghiệp, cơ quan, tổ chức từ một năm trở lên, người sử dụng lao động có trách nhiệm trợ cấp thôi việc, cứ mỗi năm làm việc là nửa tháng lương, cộng với phụ cấp lương, nếu có.\n\n2- Khi chấm dứt hợp đồng lao động theo quy định tại điểm a và điểm b khoản 1 Điều 85 của Bộ luật này, người lao động không được trợ cấp thôi việc."
+   }
+  },
+  {
+   "id": "VN-H361-A43",
+   "no": 43,
+   "noLabel": {
+    "vi": "Điều 43"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 43.\n\nTrong thời hạn bảy ngày, kể từ ngày chấm dứt hợp đồng lao động, hai bên có trách nhiệm thanh toán đầy đủ các khoản có liên quan đến quyền lợi của mỗi bên; trường hợp đặc biệt, có thể kéo dài nhưng không được quá 30 ngày.\n\nTrong trường hợp doanh nghiệp bị phá sản thì các khoản có liên quan đến quyền lợi của người lao động được thanh toán theo quy định của Luật phá sản doanh nghiệp.\n\nNgười sử dụng lao động ghi lý do chấm dứt hợp đồng lao động vào sổ lao động và có trách nhiệm trả lại sổ cho người lao động. Ngoài các quy định trong sổ lao động, người sử dụng lao động không được nhận xét thêm điều gì trở ngại cho người lao động tìm việc làm mới.\n\nChương V\n\nTHOẢ ƯỚC LAO ĐỘNG TẬP THỂ"
+   }
+  },
+  {
+   "id": "VN-H361-A44",
+   "no": 44,
+   "noLabel": {
+    "vi": "Điều 44"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 44.\n\n1- Thoả ước lao động tập thể (sau đây gọi tắt là thoả ước tập thể) là văn bản thoả thuận giữa tập thể lao động và người sử dụng lao động về các điều kiện lao động và sử dụng lao động, quyền lợi và nghĩa vụ của hai bên trong quan hệ lao động.\n\nThoả ước tập thể do đại diện của tập thể lao động và người sử dụng lao động thương lượng và ký kết theo nguyên tắc tự nguyện, bình đẳng và công khai.\n\n2- Nội dung thoả ước tập thể không được trái với các quy định của pháp luật lao động và pháp luật khác.\n\nNhà nước khuyến khích việc ký kết thoả ước tập thể với những quy định có lợi hơn cho người lao động so với quy định của pháp luật lao động."
+   }
+  },
+  {
+   "id": "VN-H361-A45",
+   "no": 45,
+   "noLabel": {
+    "vi": "Điều 45"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 45.\n\n1- Đại diện thương lượng thoả ước tập thể của hai bên gồm:\n\na) Bên tập thể lao động là Ban chấp hành công đoàn cơ sở hoặc tổ chức công đoàn lâm thời;\n\nb) Bên người sử dụng lao động là Giám đốc doanh nghiệp hoặc người được uỷ quyền theo điều lệ tổ chức doanh nghiệp hoặc có giấy uỷ quyền của Giám đốc doanh nghiệp.\n\nSố lượng đại diện thương lượng thoả ước tập thể của các bên do hai bên thoả thuận nhưng phải ngang nhau.\n\n2- Đại diện ký kết của bên tập thể lao động là Chủ tịch Ban chấp hành công đoàn cơ sở hoặc người có giấy uỷ quyền của Ban chấp hành công đoàn. Đại diện ký kết của bên người sử dụng lao động là Giám đốc doanh nghiệp hoặc người có giấy uỷ quyền của Giám đốc doanh nghiệp.\n\n3- Việc ký kết thoả ước tập thể chỉ được tiến hành khi có trên 50% số người của tập thể lao động trong doanh nghiệp tán thành nội dung thoả ước đã thương lượng."
+   }
+  },
+  {
+   "id": "VN-H361-A46",
+   "no": 46,
+   "noLabel": {
+    "vi": "Điều 46"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 46.\n\n1- Mỗi bên đều có quyền đề xuất yêu cầu ký kết và nội dung thoả ước tập thể. Khi nhận được yêu cầu, bên nhận yêu cầu phải chấp nhận việc thương lượng và phải thoả thuận thời gian bắt đầu thương lượng chậm nhất 20 ngày, kể từ ngày nhận được yêu cầu.\n\n2- Nội dung chủ yếu của thoả ước tập thể gồm những cam kết về việc làm và bảo đảm việc làm; thời giờ làm việc, thời giờ nghỉ ngơi; tiền lương, tiền thưởng, phụ cấp lương; định mức lao động; an toàn lao động, vệ sinh lao động và bảo hiểm xã hội đối với người lao động."
+   }
+  },
+  {
+   "id": "VN-H361-A47",
+   "no": 47,
+   "noLabel": {
+    "vi": "Điều 47"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 47.\n\n1- Thoả ước tập thể đã ký kết phải làm thành 4 bản, trong đó:\n\na) Một bản do người sử dụng lao động giữ;\n\nb) Một bản do Ban chấp hành công đoàn cơ sở giữ;\n\nc) Một bản do Ban chấp hành công đoàn cơ sở gửi công đoàn cấp trên;\n\nd) Một bản do người sử dụng lao động gửi cơ quan lao động cấp tỉnh chậm nhất là 10 ngày, kể từ ngày ký kết để đăng ký.\n\nNhững doanh nghiệp có cơ sở ở nhiều tỉnh, thành phố trực thuộc trung ương thì việc đăng ký thoả ước tập thể được tiến hành ở cơ quan lao động cấp tỉnh nơi có trụ sở chính của doanh nghiệp.\n\n2- Thoả ước tập thể có hiệu lực kể từ ngày được cơ quan lao động cấp tỉnh đăng ký. Chậm nhất 15 ngày, kể từ ngày nhận được bản thoả ước tập thể, cơ quan lao động cấp tỉnh phải thông báo việc đăng ký. Nếu hết thời hạn trên mà không có thông báo thì thoả ước tập thể đương nhiên có hiệu lực."
+   }
+  },
+  {
+   "id": "VN-H361-A48",
+   "no": 48,
+   "noLabel": {
+    "vi": "Điều 48"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 48.\n\n1- Thoả ước tập thể bị coi là vô hiệu từng phần khi một hoặc một số điều khoản trong thoả ước chưa được cơ quan lao động cấp tỉnh chấp thuận, các điều khoản khác đã được đăng ký vẫn có hiệu lực thi hành.\n\n2- Thoả ước tập thể thuộc một trong các trường hợp sau đây thì bị coi là vô hiệu toàn bộ:\n\na) Toàn bộ nội dung thoả ước trái pháp luật;\n\nb) Người ký kết thoả ước không đúng thẩm quyền;\n\nc) Không tiến hành theo đúng trình tự ký kết;\n\nd) Không đăng ký ở cơ quan lao động cấp tỉnh.\n\n3- Việc tuyên bố huỷ bỏ các thoả ước tập thể bị coi là vô hiệu trong trường hợp quy định tại điểm a khoản 2 Điều này, thuộc thẩm quyền của cơ quan lao động cấp tỉnh. Đối với các thoả ước tập thể trong các trường hợp quy định tại các điểm b, c và d khoản 2 Điều này, nếu nội dung đã ký kết có lợi cho người lao động thì cơ quan lao động cấp tỉnh hướng dẫn để các bên làm lại cho đúng quy định, nếu không làm lại thì bị cơ quan lao động cấp tỉnh tuyên bố huỷ bỏ."
+   }
+  },
+  {
+   "id": "VN-H361-A49",
+   "no": 49,
+   "noLabel": {
+    "vi": "Điều 49"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 49.\n\n1- Khi thoả ước tập thể đã có hiệu lực, người sử dụng lao động phải thông báo cho mọi người lao động trong doanh nghiệp biết. Mọi người trong doanh nghiệp, kể cả người vào làm việc sau ngày ký kết đều có trách nhiệm thực hiện đầy đủ thoả ước tập thể.\n\n2- Trong trường hợp quyền lợi của người lao động đã thoả thuận trong hợp đồng lao động thấp hơn so với thoả ước tập thể, thì phải thực hiện những điều khoản tương ứng của thoả ước tập thể. Mọi quy định về lao động trong doanh nghiệp phải được sửa đổi cho phù hợp với thoả ước tập thể.\n\n3- Khi một bên cho rằng bên kia thi hành không đầy đủ hoặc vi phạm thoả ước tập thể, thì có quyền yêu cầu thi hành đúng thoả ước và hai bên phải cùng nhau xem xét giải quyết; nếu không giải quyết được, mỗi bên đều có quyền yêu cầu giải quyết tranh chấp lao động tập thể theo trình tự do pháp luật quy định."
+   }
+  },
+  {
+   "id": "VN-H361-A50",
+   "no": 50,
+   "noLabel": {
+    "vi": "Điều 50"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 50.\n\nThoả ước tập thể được ký kết với thời hạn từ một năm đến ba năm. Đối với doanh nghiệp lần đầu tiên ký kết thoả ước tập thể, thì có thể ký kết với thời hạn dưới một năm.\n\nChỉ sau ba tháng thực hiện, kể từ ngày có hiệu lực đối với thoả ước tập thể thời hạn dưới một năm và sau sáu tháng đối với thoả ước tập thể thời hạn từ một năm đến ba năm, các bên mới có quyền yêu cầu sửa đổi, bổ sung thoả ước. Việc sửa đổi, bổ sung được tiến hành theo trình tự như ký kết thoả ước tập thể."
+   }
+  },
+  {
+   "id": "VN-H361-A51",
+   "no": 51,
+   "noLabel": {
+    "vi": "Điều 51"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Trước khi thoả ước tập thể hết hạn, hai bên có thể thương lượng để kéo dài thời hạn thoả ước tập thể hoặc ký kết thoả ước tập thể mới. Khi thoả ước tập thể hết hạn mà hai bên vẫn tiếp tục thương lượng, thì thoả ước tập thể vẫn có hiệu lực. Nếu quá ba tháng, kể từ ngày thoả ước tập thể hết hạn mà thương lượng không đi đến kết quả, thì thoả ước tập thể đương nhiên hết hiệu lực."
+   },
+   "text": {
+    "vi": "Điều 51. Trước khi thoả ước tập thể hết hạn, hai bên có thể thương lượng để kéo dài thời hạn thoả ước tập thể hoặc ký kết thoả ước tập thể mới. Khi thoả ước tập thể hết hạn mà hai bên vẫn tiếp tục thương lượng, thì thoả ước tập thể vẫn có hiệu lực. Nếu quá ba tháng, kể từ ngày thoả ước tập thể hết hạn mà thương lượng không đi đến kết quả, thì thoả ước tập thể đương nhiên hết hiệu lực."
+   }
+  },
+  {
+   "id": "VN-H361-A52",
+   "no": 52,
+   "noLabel": {
+    "vi": "Điều 52"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 52.\n\n1- Trong trường hợp phân chia doanh nghiệp, chuyển quyền sở hữu, quyền quản lý hoặc quyền sử dụng tài sản của doanh nghiệp, thì người sử dụng lao động kế tiếp phải chịu trách nhiệm tiếp tục thực hiện thoả ước tập thể cho tới khi hết hạn hoặc tới khi ký kết thoả ước tập thể mới.\n\nTrong trường hợp sáp nhập doanh nghiệp, việc thực hiện thoả ước tập thể do Chính phủ quy định.\n\n2- Trong trường hợp thoả ước tập thể hết hiệu lực do doanh nghiệp chấm dứt hoạt động, thì quyền lợi của người lao động được giải quyết theo Điều 66 của Bộ luật này."
+   }
+  },
+  {
+   "id": "VN-H361-A53",
+   "no": 53,
+   "noLabel": {
+    "vi": "Điều 53"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 53.\n\nNgười sử dụng lao động chịu mọi chi phí cho việc thương lượng, ký kết, đăng ký, sửa đổi, bổ sung, công bố thoả ước tập thể.\n\nCác đại diện tập thể lao động là người lao động do doanh nghiệp trả lương, thì vẫn được trả lương trong thời gian tham gia thương lượng, ký kết thoả ước tập thể."
+   }
+  },
+  {
+   "id": "VN-H361-A54",
+   "no": 54,
+   "noLabel": {
+    "vi": "Điều 54"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Những quy định tại Chương này được áp dụng cho việc thương lượng và ký kết thoả ước tập thể ngành."
+   },
+   "text": {
+    "vi": "Điều 54. Những quy định tại Chương này được áp dụng cho việc thương lượng và ký kết thoả ước tập thể ngành.\n\nChương VI\n\nTIỀN LƯƠNG"
+   }
+  },
+  {
+   "id": "VN-H361-A55",
+   "no": 55,
+   "noLabel": {
+    "vi": "Điều 55"
+   },
+   "chapter": {
+    "vi": "Chương VI"
+   },
+   "heading": {
+    "vi": "Tiền lương của người lao động do hai bên thoả thuận trong hợp đồng lao động và được trả theo năng suất lao động, chất lượng và hiệu quả công việc. Mức lương của người lao động không được thấp hơn mức lương tối thiểu do Nhà nước quy định."
+   },
+   "text": {
+    "vi": "Điều 55. Tiền lương của người lao động do hai bên thoả thuận trong hợp đồng lao động và được trả theo năng suất lao động, chất lượng và hiệu quả công việc. Mức lương của người lao động không được thấp hơn mức lương tối thiểu do Nhà nước quy định."
+   }
+  },
+  {
+   "id": "VN-H361-A56",
+   "no": 56,
+   "noLabel": {
+    "vi": "Điều 56"
+   },
+   "chapter": {
+    "vi": "Chương VI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 56.\n\nMức lương tối thiểu được ấn định theo giá sinh hoạt, bảo đảm cho người lao động làm công việc giản đơn nhất trong điều kiện lao động bình thường bù đắp sức lao động giản đơn và một phần tích luỹ tái sản xuất sức lao động mở rộng và được dùng làm căn cứ để tính các mức lương cho các loại lao động khác.\n\nChính phủ quyết định và công bố mức lương tối thiểu chung, mức lương tối thiểu vùng, mức lương tối thiểu ngành cho từng thời kỳ sau khi lấy ý kiến Tổng liên đoàn lao động Việt Nam và đại diện của người sử dụng lao động.\n\nKhi chỉ số giá sinh hoạt tăng lên làm cho tiền lương thực tế của người lao động bị giảm sút, thì Chính phủ điều chỉnh mức lương tối thiểu để bảo đảm tiền lương thực tế."
+   }
+  },
+  {
+   "id": "VN-H361-A57",
+   "no": 57,
+   "noLabel": {
+    "vi": "Điều 57"
+   },
+   "chapter": {
+    "vi": "Chương VI"
+   },
+   "heading": {
+    "vi": "Chính phủ công bố thang lương, bảng lương để làm cơ sở tính các chế độ bảo hiểm xã hội, bảo hiểm y tế, tiền lương khi làm thêm giờ, làm đêm, ngừng việc, nghỉ hàng năm và các trường hợp nghỉ việc khác của người lao động sau khi lấy ý kiến Tổng liên đoàn lao động Việt Nam và đại diện của người sử dụng lao động."
+   },
+   "text": {
+    "vi": "Điều 57. Chính phủ công bố thang lương, bảng lương để làm cơ sở tính các chế độ bảo hiểm xã hội, bảo hiểm y tế, tiền lương khi làm thêm giờ, làm đêm, ngừng việc, nghỉ hàng năm và các trường hợp nghỉ việc khác của người lao động sau khi lấy ý kiến Tổng liên đoàn lao động Việt Nam và đại diện của người sử dụng lao động."
+   }
+  },
+  {
+   "id": "VN-H361-A58",
+   "no": 58,
+   "noLabel": {
+    "vi": "Điều 58"
+   },
+   "chapter": {
+    "vi": "Chương VI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 58.\n\n1- Người sử dụng lao động có quyền chọn các hình thức trả lương theo thời gian (giờ, ngày, tuần, tháng), theo sản phẩm, theo khoán nhưng phải duy trì hình thức trả lương đã chọn trong một thời gian nhất định và phải thông báo cho người lao động biết.\n\n2- Người lao động hưởng lương giờ, ngày, tuần được trả lương sau giờ, ngày, tuần làm việc ấy hoặc được trả gộp do hai bên thoả thuận, nhưng ít nhất 15 ngày phải được trả gộp một lần.\n\n3- Người lao động hưởng lương tháng được trả lương cả tháng một lần hoặc nửa tháng một lần.\n\n4- Người lao động hưởng lương theo sản phẩm, theo khoán, được trả lương theo thoả thuận của hai bên; nếu công việc phải làm trong nhiều tháng thì hàng tháng được tạm ứng lương theo khối lượng công việc đã làm trong tháng."
+   }
+  },
+  {
+   "id": "VN-H361-A59",
+   "no": 59,
+   "noLabel": {
+    "vi": "Điều 59"
+   },
+   "chapter": {
+    "vi": "Chương VI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 59.\n\n1- Người lao động được trả lương trực tiếp, đầy đủ, đúng thời hạn và tại nơi làm việc.\n\nTrong trường hợp đặc biệt phải trả lương chậm, thì không được chậm quá một tháng và người sử dụng lao động phải đền bù cho người lao động một khoản tiền ít nhất bằng lãi suất tiền gửi tiết kiệm do Ngân hàng Nhà nước công bố tại thời điểm trả lương.\n\n2- Lương được trả bằng tiền mặt. Việc trả lương một phần bằng séc hoặc ngân phiếu do Nhà nước phát hành, do hai bên thoả thuận với điều kiện không gây thiệt hại, phiền hà cho người lao động."
+   }
+  },
+  {
+   "id": "VN-H361-A60",
+   "no": 60,
+   "noLabel": {
+    "vi": "Điều 60"
+   },
+   "chapter": {
+    "vi": "Chương VI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 60.\n\n1- Người lao động có quyền được biết lý do mọi khoản khấu trừ vào tiền lương của mình. Trước khi khấu trừ tiền lương của người lao động, người sử dụng lao động phải thảo luận với Ban chấp hành công đoàn cơ sở; trường hợp khấu trừ thì cũng không được khấu trừ quá 30% tiền lương hàng tháng.\n\n2- Người sử dụng lao động không được áp dụng việc xử phạt bằng hình thức cúp lương của người lao động."
+   }
+  },
+  {
+   "id": "VN-H361-A61",
+   "no": 61,
+   "noLabel": {
+    "vi": "Điều 61"
+   },
+   "chapter": {
+    "vi": "Chương VI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 61.\n\n1- Người lao động làm thêm giờ được trả lương như sau:\n\na) Vào ngày thường, được trả lương ít nhất bằng 150% của tiền lương giờ của ngày làm việc bình thường;\n\nb) Vào ngày nghỉ hàng tuần hoặc ngày lễ, được trả lương ít nhất bằng 200% của tiền lương giờ của ngày làm việc bình thường.\n\nNếu làm thêm giờ vào ban đêm thì còn được trả thêm theo quy định tại khoản 2 Điều này.\n\nNếu người lao động được nghỉ bù những giờ làm thêm, thì người sử dụng lao động chỉ phải trả phần tiền chênh lệch so với tiền lương giờ của ngày làm việc bình thường.\n\n2- Người lao động làm việc vào ban đêm quy định tại Điều 70 của Bộ luật này, thì được trả thêm ít nhất bằng 30% của tiền lương làm việc vào ban ngày."
+   }
+  },
+  {
+   "id": "VN-H361-A62",
+   "no": 62,
+   "noLabel": {
+    "vi": "Điều 62"
+   },
+   "chapter": {
+    "vi": "Chương VI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 62.\n\nTrong trường hợp phải ngừng việc, người lao động được trả lương như sau:\n\n1- Nếu do lỗi của người sử dụng lao động, thì người lao động được trả đủ tiền lương;\n\n2- Nếu do lỗi của người lao động thì người đó không được trả lương; những người lao động khác trong cùng đơn vị phải ngừng việc được trả lương theo mức do hai bên thoả thuận nhưng không được thấp hơn mức lương tối thiểu;\n\n3- Nếu vì sự cố về điện, nước mà không do lỗi của người sử dụng lao động hoặc vì những nguyên nhân bất khả kháng, thì tiền lương do hai bên thoả thuận, nhưng không được thấp hơn mức lương tối thiểu."
+   }
+  },
+  {
+   "id": "VN-H361-A63",
+   "no": 63,
+   "noLabel": {
+    "vi": "Điều 63"
+   },
+   "chapter": {
+    "vi": "Chương VI"
+   },
+   "heading": {
+    "vi": "Các chế độ phụ cấp, tiền thưởng, nâng bậc lương, các chế độ khuyến khích khác có thể được thoả thuận trong hợp đồng lao động, thoả ước tập thể hoặc quy định trong quy chế của doanh nghiệp."
+   },
+   "text": {
+    "vi": "Điều 63. Các chế độ phụ cấp, tiền thưởng, nâng bậc lương, các chế độ khuyến khích khác có thể được thoả thuận trong hợp đồng lao động, thoả ước tập thể hoặc quy định trong quy chế của doanh nghiệp."
+   }
+  },
+  {
+   "id": "VN-H361-A64",
+   "no": 64,
+   "noLabel": {
+    "vi": "Điều 64"
+   },
+   "chapter": {
+    "vi": "Chương VI"
+   },
+   "heading": {
+    "vi": "Người sử dụng lao động có trách nhiệm trích từ lợi nhuận hàng năm để thưởng cho người lao động đã làm việc tại doanh nghiệp từ một năm trở lên, theo quy định của Chính phủ phù hợp với đặc điểm của từng loại doanh nghiệp."
+   },
+   "text": {
+    "vi": "Điều 64. Người sử dụng lao động có trách nhiệm trích từ lợi nhuận hàng năm để thưởng cho người lao động đã làm việc tại doanh nghiệp từ một năm trở lên, theo quy định của Chính phủ phù hợp với đặc điểm của từng loại doanh nghiệp."
+   }
+  },
+  {
+   "id": "VN-H361-A65",
+   "no": 65,
+   "noLabel": {
+    "vi": "Điều 65"
+   },
+   "chapter": {
+    "vi": "Chương VI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 65.\n\n1- Nơi nào sử dụng người cai thầu hoặc người có vai trò trung gian tương tự thì người sử dụng lao động là chủ chính phải có danh sách và địa chỉ của những người ấy kèm theo danh sách những người lao động làm việc với họ và phải bảo đảm việc họ tuân theo quy định của pháp luật về trả công lao động, an toàn lao động và vệ sinh lao động.\n\n2- Nếu người cai thầu hoặc người có vai trò trung gian tương tự trả thiếu hoặc không trả lương và không bảo đảm các quyền lợi khác cho người lao động, thì người sử dụng lao động là chủ chính phải chịu trách nhiệm trả lương và bảo đảm các quyền lợi đó cho người lao động. Trong trường hợp này, người sử dụng lao động là chủ chính có quyền yêu cầu người cai thầu hoặc người có vai trò trung gian tương tự đền bù hoặc yêu cầu cơ quan Nhà nước có thẩm quyền giải quyết tranh chấp theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H361-A66",
+   "no": 66,
+   "noLabel": {
+    "vi": "Điều 66"
+   },
+   "chapter": {
+    "vi": "Chương VI"
+   },
+   "heading": {
+    "vi": "Trong trường hợp sáp nhập, phân chia doanh nghiệp, chuyển quyền sở hữu, quyền quản lý hoặc quyền sử dụng tài sản của doanh nghiệp thì người sử dụng lao động kế tiếp phải chịu trách nhiệm trả lương và các quyền lợi khác cho người lao động. Trong trường hợp doanh nghiệp bị phá sản thì tiền lương, trợ cấp thôi việc, bảo hiểm xã hội và các quyền lợi khác của người lao động theo thoả ước tập thể và hợp đồng lao động đã ký kết là khoản nợ trước hết trong thứ tự ưu tiên thanh toán."
+   },
+   "text": {
+    "vi": "Điều 66. Trong trường hợp sáp nhập, phân chia doanh nghiệp, chuyển quyền sở hữu, quyền quản lý hoặc quyền sử dụng tài sản của doanh nghiệp thì người sử dụng lao động kế tiếp phải chịu trách nhiệm trả lương và các quyền lợi khác cho người lao động. Trong trường hợp doanh nghiệp bị phá sản thì tiền lương, trợ cấp thôi việc, bảo hiểm xã hội và các quyền lợi khác của người lao động theo thoả ước tập thể và hợp đồng lao động đã ký kết là khoản nợ trước hết trong thứ tự ưu tiên thanh toán."
+   }
+  },
+  {
+   "id": "VN-H361-A67",
+   "no": 67,
+   "noLabel": {
+    "vi": "Điều 67"
+   },
+   "chapter": {
+    "vi": "Chương VI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 67.\n\n1- Khi bản thân hoặc gia đình gặp khó khăn, người lao động được tạm ứng tiền lương theo điều kiện do hai bên thoả thuận.\n\n2- Người sử dụng lao động tạm ứng tiền lương cho người lao động phải tạm thời nghỉ việc để làm các nghĩa vụ công dân.\n\n3- Việc tạm ứng tiền lương cho người lao động bị tạm giữ, tạm giam theo quy định của Chính phủ.\n\nChương VII\n\nTHỜI GIỜ LÀM VIỆC, THỜI GIỜ NGHỈ NGƠI\n\nMục 1\n\nTHỜI GIỜ LÀM VIỆC"
+   }
+  },
+  {
+   "id": "VN-H361-A68",
+   "no": 68,
+   "noLabel": {
+    "vi": "Điều 68"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 68\n\n1- Thời giờ làm việc không quá 8 giờ trong một ngày hoặc 48 giờ trong một tuần. Người sử dụng lao động có quyền quy định thời giờ làm việc theo ngày hoặc tuần, nhưng phải thông báo trước cho người lao động biết.\n\n2- Thời giờ làm việc hàng ngày được rút ngắn từ một đến hai giờ đối với những người làm các công việc đặc biệt nặng nhọc, độc hại, nguy hiểm theo danh mục do Bộ Lao động - Thương binh và Xã hội và Bộ Y tế ban hành."
+   }
+  },
+  {
+   "id": "VN-H361-A69",
+   "no": 69,
+   "noLabel": {
+    "vi": "Điều 69"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {
+    "vi": "Người sử dụng lao động và người lao động có thể thoả thuận làm thêm giờ, nhưng không được quá bốn giờ trong một ngày, 200 giờ trong một năm."
+   },
+   "text": {
+    "vi": "Điều 69. Người sử dụng lao động và người lao động có thể thoả thuận làm thêm giờ, nhưng không được quá bốn giờ trong một ngày, 200 giờ trong một năm."
+   }
+  },
+  {
+   "id": "VN-H361-A70",
+   "no": 70,
+   "noLabel": {
+    "vi": "Điều 70"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {
+    "vi": "Thời giờ làm việc ban đêm tính từ 22 giờ đến 6 giờ hoặc từ 21 giờ đến 5 giờ, tuỳ theo vùng khí hậu do Chính phủ quy định."
+   },
+   "text": {
+    "vi": "Điều 70. Thời giờ làm việc ban đêm tính từ 22 giờ đến 6 giờ hoặc từ 21 giờ đến 5 giờ, tuỳ theo vùng khí hậu do Chính phủ quy định.\n\nMục 2\n\nTHỜI GIỜ NGHỈ NGƠI"
+   }
+  },
+  {
+   "id": "VN-H361-A71",
+   "no": 71,
+   "noLabel": {
+    "vi": "Điều 71"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 71.\n\n1- Người lao động làm việc 8 giờ liên tục thì được nghỉ ít nhất nửa giờ, tính vào giờ làm việc.\n\n2- Người làm ca đêm được nghỉ giữa ca ít nhất 45 phút, tính vào giờ làm việc.\n\n3- Người lao động làm việc theo ca được nghỉ ít nhất 12 giờ trước khi chuyển sang ca khác."
+   }
+  },
+  {
+   "id": "VN-H361-A72",
+   "no": 72,
+   "noLabel": {
+    "vi": "Điều 72"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 72.\n\n1- Mỗi tuần người lao động được nghỉ ít nhất một ngày (24 giờ liên tục).\n\n2- Người sử dụng lao động có thể sắp xếp ngày nghỉ hàng tuần vào chủ nhật hoặc vào một ngày cố định khác trong tuần.\n\n3- Trong trường hợp đặc biệt do chu kỳ lao động không thể nghỉ hàng tuần thì người sử dụng lao động phải bảo đảm cho người lao động được nghỉ tính bình quân một tháng ít nhất là bốn ngày."
+   }
+  },
+  {
+   "id": "VN-H361-A73",
+   "no": 73,
+   "noLabel": {
+    "vi": "Điều 73"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 73.\n\nNgười lao động được nghỉ làm việc, hưởng nguyên lương những ngày lễ sau đây:\n\n- Tết dương lịch: một ngày (ngày 1 tháng 1 dương lịch).\n\n- Tết âm lịch: bốn ngày (một ngày cuối năm và ba ngày đầu năm âm lịch).\n\n- Ngày Chiến thắng: một ngày (ngày 30 tháng 4 dương lịch).\n\n- Ngày Quốc tế lao động: một ngày (ngày 1 tháng 5 dương lịch).\n\n- Ngày Quốc khánh: một ngày (ngày 2 tháng 9 dương lịch).\n\nNếu những ngày nghỉ nói trên trùng vào ngày nghỉ hàng tuần thì người lao động được nghỉ bù vào ngày tiếp theo."
+   }
+  },
+  {
+   "id": "VN-H361-A74",
+   "no": 74,
+   "noLabel": {
+    "vi": "Điều 74"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 74.\n\n1- Người lao động có 12 tháng làm việc tại một doanh nghiệp hoặc với một người sử dụng lao động thì được nghỉ hàng năm, hưởng nguyên lương theo quy định sau đây:\n\na) 12 ngày làm việc, đối với người làm công việc trong điều kiện bình thường;\n\nb) 14 ngày làm việc, đối với người làm công việc nặng nhọc, độc hại, nguy hiểm hoặc làm việc ở những nơi có điều kiện sinh sống khắc nghiệt và đối với người dưới 18 tuổi;\n\nc) 16 ngày làm việc, đối với người làm công việc đặc biệt nặng nhọc, độc hại, nguy hiểm; người làm công việc nặng nhọc, độc hại, nguy hiểm ở những nơi có điều kiện sinh sống khắc nghiệt.\n\n2- Thời gian đi đường ngoài ngày nghỉ hàng năm do Chính phủ quy định."
+   }
+  },
+  {
+   "id": "VN-H361-A75",
+   "no": 75,
+   "noLabel": {
+    "vi": "Điều 75"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {
+    "vi": "Số ngày nghỉ hàng năm được tăng thêm theo thâm niên làm việc tại một doanh nghiệp hoặc với một người sử dụng lao động, cứ năm năm được nghỉ thêm một ngày."
+   },
+   "text": {
+    "vi": "Điều 75. Số ngày nghỉ hàng năm được tăng thêm theo thâm niên làm việc tại một doanh nghiệp hoặc với một người sử dụng lao động, cứ năm năm được nghỉ thêm một ngày."
+   }
+  },
+  {
+   "id": "VN-H361-A76",
+   "no": 76,
+   "noLabel": {
+    "vi": "Điều 76"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 76.\n\n1- Người sử dụng lao động có quyền quy định lịch nghỉ hàng năm sau khi tham khảo ý kiến của Ban chấp hành công đoàn cơ sở và phải thông báo trước cho mọi người trong doanh nghiệp.\n\n2- Người lao động có thể thoả thuận với người sử dụng lao động để nghỉ hàng năm thành nhiều lần. Người làm việc ở nơi xa xôi hẻo lánh, nếu có yêu cầu, được gộp số ngày nghỉ của hai năm để nghỉ một lần; nếu nghỉ gộp ba năm một lần thì phải được người sử dụng lao động đồng ý.\n\n3- Người lao động do thôi việc hoặc vì các lý do khác mà chưa nghỉ hàng năm hoặc chưa nghỉ hết số ngày nghỉ hàng năm, thì được trả lương những ngày chưa nghỉ."
+   }
+  },
+  {
+   "id": "VN-H361-A77",
+   "no": 77,
+   "noLabel": {
+    "vi": "Điều 77"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 77.\n\n1- Khi nghỉ hàng năm, người lao động được ứng trước một khoản tiền ít nhất bằng tiền lương của những ngày nghỉ. Tiền tàu xe và tiền lương của người lao động trong những ngày đi đường do hai bên thoả thuận.\n\n2- Người lao động có dưới 12 tháng làm việc thì thời gian nghỉ hàng năm được tính theo tỷ lệ tương ứng với số thời gian làm việc và có thể được thanh toán bằng tiền.\n\nMục 3\n\nNGHỈ VỀ VIỆC RIÊNG, NGHỈ KHÔNG HƯỞNG LƯƠNG"
+   }
+  },
+  {
+   "id": "VN-H361-A78",
+   "no": 78,
+   "noLabel": {
+    "vi": "Điều 78"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 78.\n\n Người lao động được nghỉ về việc riêng mà vẫn hưởng nguyên lương trong những trường hợp sau đây:\n\n1- Kết hôn, nghỉ ba ngày;\n\n2- Con kết hôn, nghỉ một ngày;\n\n3- Bố mẹ (cả bên chồng và bên vợ) chết, vợ hoặc chồng chết, con chết, nghỉ ba ngày."
+   }
+  },
+  {
+   "id": "VN-H361-A79",
+   "no": 79,
+   "noLabel": {
+    "vi": "Điều 79"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {
+    "vi": "Người lao động có thể thoả thuận với người sử dụng lao động để nghỉ không hưởng lương."
+   },
+   "text": {
+    "vi": "Điều 79. Người lao động có thể thoả thuận với người sử dụng lao động để nghỉ không hưởng lương.\n\nMục 4\n\nTHỜI GIỜ LÀM VIỆC VÀ THỜI GIỜ NGHỈ NGƠI ĐỐI VỚI NGƯỜI LÀM CÁC CÔNG VIỆC CÓ TÍNH CHẤT ĐẶC BIỆT"
+   }
+  },
+  {
+   "id": "VN-H361-A80",
+   "no": 80,
+   "noLabel": {
+    "vi": "Điều 80"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {
+    "vi": "Thời giờ làm việc và thời giờ nghỉ ngơi của những người làm việc trên biển, trong hầm mỏ và làm các công việc có tính chất đặc biệt khác do Chính phủ quy định."
+   },
+   "text": {
+    "vi": "Điều 80. Thời giờ làm việc và thời giờ nghỉ ngơi của những người làm việc trên biển, trong hầm mỏ và làm các công việc có tính chất đặc biệt khác do Chính phủ quy định."
+   }
+  },
+  {
+   "id": "VN-H361-A81",
+   "no": 81,
+   "noLabel": {
+    "vi": "Điều 81"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {
+    "vi": "Thời giờ làm việc và thời giờ nghỉ ngơi của những người làm hợp đồng không trọn ngày, không trọn tuần, làm khoán do người lao động và người sử dụng lao động thoả thuận."
+   },
+   "text": {
+    "vi": "Điều 81. Thời giờ làm việc và thời giờ nghỉ ngơi của những người làm hợp đồng không trọn ngày, không trọn tuần, làm khoán do người lao động và người sử dụng lao động thoả thuận.\n\nChương VIII\n\nKỶ LUẬT LAO ĐỘNG, TRÁCH NHIỆM VẬT CHẤT"
+   }
+  },
+  {
+   "id": "VN-H361-A82",
+   "no": 82,
+   "noLabel": {
+    "vi": "Điều 82"
+   },
+   "chapter": {
+    "vi": "Chương VIII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 82.\n\n1- Kỷ luật lao động là những quy định về việc tuân theo thời gian, công nghệ và điều hành sản xuất, kinh doanh thể hiện trong nội quy lao động.\n\nNội quy lao động không được trái với pháp luật lao động và pháp luật khác. Doanh nghiệp sử dụng từ 10 người lao động trở lên phải có nội quy lao động bằng văn bản.\n\n2- Trước khi ban hành nội quy lao động, người sử dụng lao động phải tham khảo ý kiến của Ban chấp hành công đoàn cơ sở trong doanh nghiệp.\n\n3- Người sử dụng lao động phải đăng ký bản nội quy lao động tại cơ quan lao động cấp tỉnh. Nội quy lao động có hiệu lực, kể từ ngày được đăng ký. Chậm nhất là 10 ngày, kể từ ngày nhận được bản nội quy lao động, cơ quan lao động cấp tỉnh phải thông báo việc đăng ký. Nếu hết thời hạn trên mà không có thông báo, thì bản nội quy lao động đương nhiên có hiệu lực."
+   }
+  },
+  {
+   "id": "VN-H361-A83",
+   "no": 83,
+   "noLabel": {
+    "vi": "Điều 83"
+   },
+   "chapter": {
+    "vi": "Chương VIII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 83.\n\n1- Nội quy lao động phải có những nội dung chủ yếu sau đây:\n\na) Thời giờ làm việc và thời giờ nghỉ ngơi;\n\nb) Trật tự trong doanh nghiệp;\n\nc) An toàn lao động, vệ sinh lao động ở nơi làm việc;\n\nd) Việc bảo vệ tài sản và bí mật công nghệ, kinh doanh của doanh nghiệp;\n\nđ) Các hành vi vi phạm kỷ luật lao động, các hình thức xử lý kỷ luật lao động và trách nhiệm vật chất.\n\n2- Nội quy lao động phải được thông báo đến từng người và những điểm chính phải được niêm yết ở những nơi cần thiết trong doanh nghiệp."
+   }
+  },
+  {
+   "id": "VN-H361-A84",
+   "no": 84,
+   "noLabel": {
+    "vi": "Điều 84"
+   },
+   "chapter": {
+    "vi": "Chương VIII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 84.\n\n1- Người vi phạm kỷ luật lao động, tuỳ theo mức độ phạm lỗi, bị xử lý theo một trong những hình thức sau đây:\n\na) Khiển trách;\n\nb) Chuyển làm công việc khác có mức lương thấp hơn trong thời hạn tối đa là sáu tháng;\n\nc) Sa thải.\n\n2- Không được áp dụng nhiều hình thức xử lý kỷ luật lao động đối với một hành vi vi phạm kỷ luật lao động."
+   }
+  },
+  {
+   "id": "VN-H361-A85",
+   "no": 85,
+   "noLabel": {
+    "vi": "Điều 85"
+   },
+   "chapter": {
+    "vi": "Chương VIII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 85.\n\n1- Hình thức xử lý kỷ luật sa thải chỉ được áp dụng trong những trường hợp sau đây:\n\na) Người lao động có hành vi trộm cắp, tham ô, tiết lộ bí mật công nghệ, kinh doanh hoặc có hành vi khác gây thiệt hại nghiêm trọng về tài sản, lợi ích của doanh nghiệp;\n\nb) Người lao động bị xử lý kỷ luật chuyển làm công việc khác mà tái phạm trong thời gian chưa xoá kỷ luật;\n\nc) Người lao động tự ý bỏ việc bảy ngày trong một tháng hoặc 20 ngày trong một năm mà không có lý do chính đáng.\n\n2- Sau khi sa thải người lao động, người sử dụng lao động phải báo cho cơ quan lao động cấp tỉnh biết."
+   }
+  },
+  {
+   "id": "VN-H361-A86",
+   "no": 86,
+   "noLabel": {
+    "vi": "Điều 86"
+   },
+   "chapter": {
+    "vi": "Chương VIII"
+   },
+   "heading": {
+    "vi": "Thời hiệu để xử lý vi phạm kỷ luật lao động tối đa là ba tháng, kể từ ngày xảy ra vi phạm, trường hợp đặc biệt cũng không được quá sáu tháng."
+   },
+   "text": {
+    "vi": "Điều 86. Thời hiệu để xử lý vi phạm kỷ luật lao động tối đa là ba tháng, kể từ ngày xảy ra vi phạm, trường hợp đặc biệt cũng không được quá sáu tháng."
+   }
+  },
+  {
+   "id": "VN-H361-A87",
+   "no": 87,
+   "noLabel": {
+    "vi": "Điều 87"
+   },
+   "chapter": {
+    "vi": "Chương VIII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 87.\n\n1- Khi tiến hành việc xử lý vi phạm kỷ luật lao động, người sử dụng lao động phải chứng minh được lỗi của người lao động.\n\n2- Người lao động có quyền tự bào chữa hoặc nhờ luật sư, bào chữa viên nhân dân hoặc người khác bào chữa.\n\n3- Khi xem xét xử lý kỷ luật lao động phải có mặt đương sự và phải có sự tham gia của đại diện Ban chấp hành công đoàn cơ sở trong doanh nghiệp.\n\n4- Việc xem xét xử lý kỷ luật lao động phải được ghi thành biên bản."
+   }
+  },
+  {
+   "id": "VN-H361-A88",
+   "no": 88,
+   "noLabel": {
+    "vi": "Điều 88"
+   },
+   "chapter": {
+    "vi": "Chương VIII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 88.\n\n1- Người bị khiển trách sau ba tháng và người bị xử lý kỷ luật chuyển làm công việc khác sau sáu tháng, kể từ ngày bị xử lý, nếu không tái phạm thì đương nhiên được xoá kỷ luật.\n\n2- Người bị xử lý kỷ luật chuyển làm công việc khác, sau khi chấp hành được một nửa thời hạn, nếu sửa chữa tiến bộ, thì được người sử dụng lao động xét giảm thời hạn."
+   }
+  },
+  {
+   "id": "VN-H361-A89",
+   "no": 89,
+   "noLabel": {
+    "vi": "Điều 89"
+   },
+   "chapter": {
+    "vi": "Chương VIII"
+   },
+   "heading": {
+    "vi": "Người lao động làm hư hỏng dụng cụ, thiết bị hoặc có hành vi khác gây thiệt hại cho tài sản của doanh nghiệp thì phải bồi thường theo quy định của pháp luật về thiệt hại đã gây ra. Nếu gây thiệt hại không nghiêm trọng do sơ suất, thì phải bồi thường nhiều nhất ba tháng lương và bị khấu trừ dần vào lương theo quy định tại Điều 60 của Bộ luật này."
+   },
+   "text": {
+    "vi": "Điều 89. Người lao động làm hư hỏng dụng cụ, thiết bị hoặc có hành vi khác gây thiệt hại cho tài sản của doanh nghiệp thì phải bồi thường theo quy định của pháp luật về thiệt hại đã gây ra. Nếu gây thiệt hại không nghiêm trọng do sơ suất, thì phải bồi thường nhiều nhất ba tháng lương và bị khấu trừ dần vào lương theo quy định tại Điều 60 của Bộ luật này."
+   }
+  },
+  {
+   "id": "VN-H361-A90",
+   "no": 90,
+   "noLabel": {
+    "vi": "Điều 90"
+   },
+   "chapter": {
+    "vi": "Chương VIII"
+   },
+   "heading": {
+    "vi": "Người lao động làm mất dụng cụ, thiết bị, làm mất các tài sản khác do doanh nghiệp giao hoặc tiêu hao vật tư quá định mức cho phép thì tuỳ trường hợp phải bồi thường thiệt hại một phần hay toàn bộ theo thời giá thị trường; trong trường hợp có hợp đồng trách nhiệm thì phải bồi thường theo hợp đồng trách nhiệm; trong trường hợp bất khả kháng thì không phải bồi thường."
+   },
+   "text": {
+    "vi": "Điều 90. Người lao động làm mất dụng cụ, thiết bị, làm mất các tài sản khác do doanh nghiệp giao hoặc tiêu hao vật tư quá định mức cho phép thì tuỳ trường hợp phải bồi thường thiệt hại một phần hay toàn bộ theo thời giá thị trường; trong trường hợp có hợp đồng trách nhiệm thì phải bồi thường theo hợp đồng trách nhiệm; trong trường hợp bất khả kháng thì không phải bồi thường."
+   }
+  },
+  {
+   "id": "VN-H361-A91",
+   "no": 91,
+   "noLabel": {
+    "vi": "Điều 91"
+   },
+   "chapter": {
+    "vi": "Chương VIII"
+   },
+   "heading": {
+    "vi": "Trình tự, thủ tục xử lý việc bồi thường thiệt hại quy định tại Điều 89 và Điều 90 được áp dụng như quy định tại Điều 86 và Điều 87 của Bộ luật này."
+   },
+   "text": {
+    "vi": "Điều 91. Trình tự, thủ tục xử lý việc bồi thường thiệt hại quy định tại Điều 89 và Điều 90 được áp dụng như quy định tại Điều 86 và Điều 87 của Bộ luật này."
+   }
+  },
+  {
+   "id": "VN-H361-A92",
+   "no": 92,
+   "noLabel": {
+    "vi": "Điều 92"
+   },
+   "chapter": {
+    "vi": "Chương VIII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 92.\n\n1- Người sử dụng lao động có quyền tạm đình chỉ công việc của người lao động khi vụ việc vi phạm có những tình tiết phức tạp, nếu xét thấy để người lao động tiếp tục làm việc sẽ gây khó khăn cho việc xác minh, sau khi tham khảo ý kiến của Ban chấp hành công đoàn cơ sở.\n\n2- Thời hạn tạm đình chỉ công việc không được quá 15 ngày, trường hợp đặc biệt cũng không được quá ba tháng. Trong thời gian đó, người lao động được tạm ứng 50% tiền lương trước khi bị đình chỉ công việc.\n\nHết thời hạn tạm đình chỉ công việc, người lao động phải được tiếp tục làm việc.\n\n3- Nếu có lỗi mà bị xử lý kỷ luật lao động, người lao động cũng không phải trả lại số tiền đã tạm ứng.\n\n4- Nếu người lao động không có lỗi thì người sử dụng lao động phải trả đủ tiền lương và phụ cấp lương trong thời gian tạm đình chỉ công việc."
+   }
+  },
+  {
+   "id": "VN-H361-A93",
+   "no": 93,
+   "noLabel": {
+    "vi": "Điều 93"
+   },
+   "chapter": {
+    "vi": "Chương VIII"
+   },
+   "heading": {
+    "vi": "Người bị xử lý kỷ luật lao động, bị tạm đình chỉ công việc hoặc phải bồi thường theo chế độ trách nhiệm vật chất nếu thấy không thoả đáng, có quyền khiếu nại với người sử dụng lao động, với cơ quan có thẩm quyền hoặc yêu cầu giải quyết tranh chấp lao động theo trình tự do pháp luật quy định."
+   },
+   "text": {
+    "vi": "Điều 93. Người bị xử lý kỷ luật lao động, bị tạm đình chỉ công việc hoặc phải bồi thường theo chế độ trách nhiệm vật chất nếu thấy không thoả đáng, có quyền khiếu nại với người sử dụng lao động, với cơ quan có thẩm quyền hoặc yêu cầu giải quyết tranh chấp lao động theo trình tự do pháp luật quy định."
+   }
+  },
+  {
+   "id": "VN-H361-A94",
+   "no": 94,
+   "noLabel": {
+    "vi": "Điều 94"
+   },
+   "chapter": {
+    "vi": "Chương VIII"
+   },
+   "heading": {
+    "vi": "Khi cơ quan có thẩm quyền kết luận về quyết định xử lý của người sử dụng lao động là sai, thì người sử dụng lao động phải huỷ bỏ quyết định đó, xin lỗi công khai, khôi phục danh dự và mọi quyền lợi vật chất cho người lao động."
+   },
+   "text": {
+    "vi": "Điều 94. Khi cơ quan có thẩm quyền kết luận về quyết định xử lý của người sử dụng lao động là sai, thì người sử dụng lao động phải huỷ bỏ quyết định đó, xin lỗi công khai, khôi phục danh dự và mọi quyền lợi vật chất cho người lao động.\n\nChương IX\n\nAN TOÀN LAO ĐỘNG, VỆ SINH LAO ĐỘNG"
+   }
+  },
+  {
+   "id": "VN-H361-A95",
+   "no": 95,
+   "noLabel": {
+    "vi": "Điều 95"
+   },
+   "chapter": {
+    "vi": "Chương IX"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 95.\n\n1- Người sử dụng lao động có trách nhiệm trang bị đầy đủ phương tiện bảo hộ lao động, bảo đảm an toàn lao động, vệ sinh lao động và cải thiện điều kiện lao động cho người lao động. Người lao động phải tuân thủ các quy định về an toàn lao động, vệ sinh lao động và nội quy lao động của doanh nghiệp. Mọi tổ chức và cá nhân có liên quan đến lao động, sản xuất phải tuân theo pháp luật về an toàn lao động, vệ sinh lao động và về bảo vệ môi trường.\n\n2- Chính phủ lập chương trình quốc gia về bảo hộ lao động, an toàn lao động, vệ sinh lao động, đưa vào kế hoạch phát triển kinh tế - xã hội và ngân sách của Nhà nước; đầu tư nghiên cứu khoa học, hỗ trợ phát triển các cơ sở sản xuất dụng cụ, thiết bị an toàn lao động, vệ sinh lao động, phương tiện bảo vệ cá nhân; ban hành hệ thống tiêu chuẩn, quy trình, quy phạm về an toàn lao động, vệ sinh lao động.\n\n3- Tổng liên đoàn lao động Việt Nam tham gia với Chính phủ trong việc xây dựng chương trình quốc gia về bảo hộ lao động, an toàn lao động, vệ sinh lao động, xây dựng chương trình nghiên cứu khoa học và xây dựng pháp luật về bảo hộ lao động, an toàn lao động, vệ sinh lao động."
+   }
+  },
+  {
+   "id": "VN-H361-A96",
+   "no": 96,
+   "noLabel": {
+    "vi": "Điều 96"
+   },
+   "chapter": {
+    "vi": "Chương IX"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 96.\n\n1- Việc xây dựng mới hoặc mở rộng, cải tạo cơ sở để sản xuất, sử dụng, bảo quản, lưu giữ và tàng trữ các loại máy, thiết bị, vật tư, các chất có yêu cầu nghiêm ngặt về an toàn lao động, vệ sinh lao động, phải có luận chứng về các biện pháp bảo đảm an toàn lao động, vệ sinh lao động đối với nơi làm việc của người lao động và môi trường xung quanh theo quy định của pháp luật.\n\nDanh mục các loại máy, thiết bị, vật tư, các chất có yêu cầu nghiêm ngặt về an toàn lao động, vệ sinh lao động do Bộ Lao động - Thương binh và Xã hội và Bộ Y tế ban hành.\n\n2- Việc sản xuất, sử dụng, bảo quản, vận chuyển các loại máy, thiết bị, vật tư, năng lượng, điện, hoá chất, thuốc trừ sâu, diệt cỏ, diệt chuột, việc thay đổi công nghệ, nhập khẩu công nghệ mới phải được thực hiện theo tiêu chuẩn an toàn lao động, vệ sinh lao động. Các loại máy, thiết bị, vật tư, các chất có yêu cầu nghiêm ngặt về an toàn lao động, vệ sinh lao động phải được khai báo, đăng ký và xin cấp giấy phép với cơ quan thanh tra Nhà nước về an toàn lao động hoặc vệ sinh lao động."
+   }
+  },
+  {
+   "id": "VN-H361-A97",
+   "no": 97,
+   "noLabel": {
+    "vi": "Điều 97"
+   },
+   "chapter": {
+    "vi": "Chương IX"
+   },
+   "heading": {
+    "vi": "Người sử dụng lao động phải bảo đảm nơi làm việc đạt tiêu chuẩn về không gian, độ thoáng, độ sáng, đạt tiêu chuẩn vệ sinh cho phép về bụi, hơi, khí độc, phóng xạ, điện từ trường, nóng, ẩm, ồn, rung và các yếu tố có hại khác. Các yếu tố đó phải được định kỳ kiểm tra đo lường."
+   },
+   "text": {
+    "vi": "Điều 97. Người sử dụng lao động phải bảo đảm nơi làm việc đạt tiêu chuẩn về không gian, độ thoáng, độ sáng, đạt tiêu chuẩn vệ sinh cho phép về bụi, hơi, khí độc, phóng xạ, điện từ trường, nóng, ẩm, ồn, rung và các yếu tố có hại khác. Các yếu tố đó phải được định kỳ kiểm tra đo lường."
+   }
+  },
+  {
+   "id": "VN-H361-A98",
+   "no": 98,
+   "noLabel": {
+    "vi": "Điều 98"
+   },
+   "chapter": {
+    "vi": "Chương IX"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 98.\n\n1- Người sử dụng lao động phải định kỳ kiểm tra, tu sửa máy, thiết bị, nhà xưởng, kho tàng theo tiêu chuẩn an toàn lao động, vệ sinh lao động.\n\n2- Người sử dụng lao động phải có đủ các phương tiện che chắn các bộ phận dễ gây nguy hiểm của máy, thiết bị trong doanh nghiệp; nơi làm việc, nơi đặt máy, thiết bị, nơi có yếu tố nguy hiểm, độc hại trong doanh nghiệp, phải bố trí đề phòng sự cố, có bảng chỉ dẫn về an toàn lao động, vệ sinh lao động đặt ở vị trí mà mọi người dễ thấy, dễ đọc."
+   }
+  },
+  {
+   "id": "VN-H361-A99",
+   "no": 99,
+   "noLabel": {
+    "vi": "Điều 99"
+   },
+   "chapter": {
+    "vi": "Chương IX"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 99.\n\n1- Trong trường hợp nơi làm việc, máy, thiết bị có nguy cơ gây tai nạn lao động, bệnh nghề nghiệp, người sử dụng lao động phải thực hiện ngay những biện pháp khắc phục hoặc phải ra lệnh ngừng hoạt động tại nơi làm việc và đối với máy, thiết bị đó cho tới khi nguy cơ được khắc phục.\n\n2- Người lao động có quyền từ chối làm công việc hoặc rời bỏ nơi làm việc khi thấy rõ có nguy cơ xảy ra tai nạn lao động đe doạ nghiêm trọng tính mạng hoặc sức khoẻ của mình và phải báo ngay với người phụ trách trực tiếp. Người sử dụng lao động không được buộc người lao động tiếp tục làm công việc đó hoặc trở lại nơi làm việc đó nếu nguy cơ chưa được khắc phục."
+   }
+  },
+  {
+   "id": "VN-H361-A100",
+   "no": 100,
+   "noLabel": {
+    "vi": "Điều 100"
+   },
+   "chapter": {
+    "vi": "Chương IX"
+   },
+   "heading": {
+    "vi": "Nơi làm việc có yếu tố nguy hiểm, độc hại, dễ gây tai nạn lao động phải được người sử dụng lao động trang bị phương tiện kỹ thuật, y tế và trang bị bảo hộ lao động thích hợp để bảo đảm ứng cứu kịp thời khi xảy ra sự cố, tai nạn lao động."
+   },
+   "text": {
+    "vi": "Điều 100. Nơi làm việc có yếu tố nguy hiểm, độc hại, dễ gây tai nạn lao động phải được người sử dụng lao động trang bị phương tiện kỹ thuật, y tế và trang bị bảo hộ lao động thích hợp để bảo đảm ứng cứu kịp thời khi xảy ra sự cố, tai nạn lao động."
+   }
+  },
+  {
+   "id": "VN-H361-A101",
+   "no": 101,
+   "noLabel": {
+    "vi": "Điều 101"
+   },
+   "chapter": {
+    "vi": "Chương IX"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 101.\n\nNgười lao động làm công việc có yếu tố nguy hiểm, độc hại phải được cấp đầy đủ phương tiện bảo vệ cá nhân.\n\nNgười sử dụng lao động phải bảo đảm các phương tiện bảo vệ cá nhân đạt tiêu chuẩn chất lượng và quy cách theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H361-A102",
+   "no": 102,
+   "noLabel": {
+    "vi": "Điều 102"
+   },
+   "chapter": {
+    "vi": "Chương IX"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 102.\n\nKhi tuyển dụng và sắp xếp lao động, người sử dụng lao động phải căn cứ vào tiêu chuẩn sức khoẻ quy định cho từng loại việc, tổ chức huấn luyện, hướng dẫn, thông báo cho người lao động về những quy định, biện pháp làm việc an toàn, vệ sinh và những khả năng tai nạn cần đề phòng trong công việc của từng người lao động.\n\nNgười lao động phải được khám sức khoẻ khi tuyển dụng và khám sức khoẻ định kỳ theo chế độ quy định. Chi phí khám sức khoẻ cho người lao động do người sử dụng lao động chịu."
+   }
+  },
+  {
+   "id": "VN-H361-A103",
+   "no": 103,
+   "noLabel": {
+    "vi": "Điều 103"
+   },
+   "chapter": {
+    "vi": "Chương IX"
+   },
+   "heading": {
+    "vi": "Doanh nghiệp có trách nhiệm tổ chức chăm lo sức khoẻ cho người lao động và phải kịp thời sơ cứu, cấp cứu cho người lao động khi cần thiết."
+   },
+   "text": {
+    "vi": "Điều 103. Doanh nghiệp có trách nhiệm tổ chức chăm lo sức khoẻ cho người lao động và phải kịp thời sơ cứu, cấp cứu cho người lao động khi cần thiết."
+   }
+  },
+  {
+   "id": "VN-H361-A104",
+   "no": 104,
+   "noLabel": {
+    "vi": "Điều 104"
+   },
+   "chapter": {
+    "vi": "Chương IX"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 104.\n\nNgười làm việc trong điều kiện có yếu tố nguy hiểm, độc hại được bồi dưỡng bằng hiện vật, hưởng chế độ ưu đãi về thời giờ làm việc, thời giờ nghỉ ngơi theo quy định của pháp luật.\n\nNgười làm việc ở nơi có yếu tố gây nhiễm độc, nhiễm trùng, khi hết giờ làm việc phải được người sử dụng lao động bảo đảm các biện pháp khử độc, khử trùng, vệ sinh cá nhân."
+   }
+  },
+  {
+   "id": "VN-H361-A105",
+   "no": 105,
+   "noLabel": {
+    "vi": "Điều 105"
+   },
+   "chapter": {
+    "vi": "Chương IX"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 105.\n\nTai nạn lao động là tai nạn gây tổn thương cho bất kỳ bộ phận, chức năng nào của cơ thể người lao động hoặc gây tử vong, xảy ra trong quá trình lao động, gắn liền với việc thực hiện công việc, nhiệm vụ lao động.\n\nNgười bị tai nạn lao động phải được cấp cứu kịp thời và điều trị chu đáo. Người sử dụng lao động phải chịu trách nhiệm về việc để xảy ra tai nạn lao động theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H361-A106",
+   "no": 106,
+   "noLabel": {
+    "vi": "Điều 106"
+   },
+   "chapter": {
+    "vi": "Chương IX"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 106.\n\nBệnh nghề nghiệp là bệnh phát sinh do điều kiện lao động có hại của nghề nghiệp tác động đối với người lao động. Danh mục các loại bệnh nghề nghiệp do Bộ Y tế và Bộ Lao động - Thương binh và Xã hội ban hành sau khi lấy ý kiến Tổng liên đoàn lao động Việt Nam và đại diện của người sử dụng lao động.\n\nNgười bị bệnh nghề nghiệp phải được điều trị chu đáo, khám sức khoẻ định kỳ, có hồ sơ sức khoẻ riêng biệt."
+   }
+  },
+  {
+   "id": "VN-H361-A107",
+   "no": 107,
+   "noLabel": {
+    "vi": "Điều 107"
+   },
+   "chapter": {
+    "vi": "Chương IX"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 107.\n\n1- Người tàn tật do bị tai nạn lao động, bệnh nghề nghiệp được giám định y khoa để xếp hạng thương tật, xác định mức độ suy giảm khả năng lao động và được phục hồi chức năng lao động; nếu còn tiếp tục làm việc, thì được sắp xếp công việc phù hợp với sức khoẻ theo kết luận của Hội đồng giám định y khoa lao động.\n\n2- Người sử dụng lao động phải chịu toàn bộ chi phí y tế từ khi sơ cứu, cấp cứu đến khi điều trị xong cho người bị tai nạn lao động hoặc bệnh nghề nghiệp. Người lao động được hưởng chế độ bảo hiểm xã hội về tai nạn lao động, bệnh nghề nghiệp. Nếu doanh nghiệp chưa tham gia loại hình bảo hiểm xã hội bắt buộc, thì người sử dụng lao động phải trả cho người lao động một khoản tiền ngang với mức quy định trong Điều lệ bảo hiểm xã hội.\n\n3- Người sử dụng lao động có trách nhiệm bồi thường ít nhất bằng 30 tháng lương cho người lao động bị suy giảm khả năng lao động từ 81% trở lên hoặc cho thân nhân người chết do tai nạn lao động, bệnh nghề nghiệp mà không do lỗi của người lao động. Trường hợp do lỗi của người lao động, thì cũng được trợ cấp một khoản tiền ít nhất bằng 12 tháng lương."
+   }
+  },
+  {
+   "id": "VN-H361-A108",
+   "no": 108,
+   "noLabel": {
+    "vi": "Điều 108"
+   },
+   "chapter": {
+    "vi": "Chương IX"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 108.\n\nTất cả các vụ tai nạn lao động, các trường hợp bị bệnh nghề nghiệp đều phải được khai báo, điều tra, lập biên bản, thống kê và báo cáo định kỳ theo quy định của pháp luật.\n\nNghiêm cấm mọi hành vi che giấu, khai báo hoặc báo cáo sai sự thật về tai nạn lao động, bệnh nghề nghiệp.\n\nChương X\n\nNHỮNG QUY ĐỊNH RIÊNG ĐỐI VỚI LAO ĐỘNG NỮ"
+   }
+  },
+  {
+   "id": "VN-H361-A109",
+   "no": 109,
+   "noLabel": {
+    "vi": "Điều 109"
+   },
+   "chapter": {
+    "vi": "Chương X"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 109.\n\n1- Nhà nước bảo đảm quyền làm việc của phụ nữ bình đẳng về mọi mặt với nam giới, có chính sách khuyến khích người sử dụng lao động tạo điều kiện để người lao động nữ có việc làm thường xuyên, áp dụng rộng rãi chế độ làm việc theo thời gian biểu linh hoạt, làm việc không trọn ngày, không trọn tuần, giao việc làm tại nhà.\n\n2- Nhà nước có chính sách và biện pháp từng bước mở mang việc làm, cải thiện điều kiện lao động, nâng cao trình độ nghề nghiệp, chăm sóc sức khoẻ, tăng cường phúc lợi về vật chất và tinh thần của lao động nữ nhằm giúp lao động nữ phát huy có hiệu quả năng lực nghề nghiệp, kết hợp hài hoà cuộc sống lao động và cuộc sống gia đình."
+   }
+  },
+  {
+   "id": "VN-H361-A110",
+   "no": 110,
+   "noLabel": {
+    "vi": "Điều 110"
+   },
+   "chapter": {
+    "vi": "Chương X"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 110.\n\n1- Các cơ quan Nhà nước có trách nhiệm mở rộng nhiều loại hình đào tạo thuận lợi cho lao động nữ để ngoài nghề đang làm người lao động nữ còn có thêm nghề dự phòng và để việc sử dụng lao động nữ được dễ dàng, phù hợp với đặc điểm về cơ thể, sinh lý và chức năng làm mẹ của phụ nữ.\n\n2- Nhà nước có chính sách ưu đãi, xét giảm thuế đối với những doanh nghiệp sử dụng nhiều lao động nữ."
+   }
+  },
+  {
+   "id": "VN-H361-A111",
+   "no": 111,
+   "noLabel": {
+    "vi": "Điều 111"
+   },
+   "chapter": {
+    "vi": "Chương X"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 111.\n\n1- Nghiêm cấm người sử dụng lao động có hành vi phân biệt đối xử với phụ nữ, xúc phạm danh dự và nhân phẩm phụ nữ.\n\nNgười sử dụng lao động phải thực hiện nguyên tắc bình đẳng nam nữ về tuyển dụng, sử dụng, nâng bậc lương và trả công lao động.\n\n2- Người sử dụng lao động phải ưu tiên nhận phụ nữ vào làm việc khi người đó đủ tiêu chuẩn tuyển chọn làm công việc phù hợp với cả nam và nữ mà doanh nghiệp đang cần.\n\n3- Người sử dụng lao động không được sa thải hoặc đơn phương chấm dứt hợp đồng lao động đối với người lao động nữ vì lý do kết hôn, có thai, nghỉ thai sản, nuôi con dưới 12 tháng tuổi, trừ trường hợp doanh nghiệp chấm dứt hoạt động."
+   }
+  },
+  {
+   "id": "VN-H361-A112",
+   "no": 112,
+   "noLabel": {
+    "vi": "Điều 112"
+   },
+   "chapter": {
+    "vi": "Chương X"
+   },
+   "heading": {
+    "vi": "Người lao động nữ có thai có quyền đơn phương chấm dứt hợp đồng lao động mà không phải bồi thường theo quy định tại Điều 41 của Bộ luật này, nếu có giấy của thầy thuốc chứng nhận tiếp tục làm việc sẽ ảnh hưởng xấu tới thai nhi. Trong trường hợp này, thời hạn mà người lao động nữ phải báo trước cho người sử dụng lao động tuỳ thuộc vào thời hạn do thầy thuốc chỉ định."
+   },
+   "text": {
+    "vi": "Điều 112. Người lao động nữ có thai có quyền đơn phương chấm dứt hợp đồng lao động mà không phải bồi thường theo quy định tại Điều 41 của Bộ luật này, nếu có giấy của thầy thuốc chứng nhận tiếp tục làm việc sẽ ảnh hưởng xấu tới thai nhi. Trong trường hợp này, thời hạn mà người lao động nữ phải báo trước cho người sử dụng lao động tuỳ thuộc vào thời hạn do thầy thuốc chỉ định."
+   }
+  },
+  {
+   "id": "VN-H361-A113",
+   "no": 113,
+   "noLabel": {
+    "vi": "Điều 113"
+   },
+   "chapter": {
+    "vi": "Chương X"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 113.\n\n1- Người sử dụng lao động không được sử dụng người lao động nữ làm những công việc nặng nhọc, nguy hiểm hoặc tiếp xúc với các chất độc hại có ảnh hưởng xấu tới chức năng sinh đẻ và nuôi con, theo danh mục do Bộ Lao động - Thương binh và Xã hội và Bộ Y tế ban hành.\n\nDoanh nghiệp nào đang sử dụng lao động nữ làm các công việc nói trên phải có kế hoạch đào tạo nghề, chuyển dần người lao động nữ sang công việc khác phù hợp, tăng cường các biện pháp bảo vệ sức khoẻ, cải thiện điều kiện lao động hoặc giảm bớt thời giờ làm việc.\n\n2- Người sử dụng lao động không được sử dụng người lao động nữ bất kỳ độ tuổi nào làm việc thường xuyên dưới hầm mỏ hoặc ngâm mình dưới nước."
+   }
+  },
+  {
+   "id": "VN-H361-A114",
+   "no": 114,
+   "noLabel": {
+    "vi": "Điều 114"
+   },
+   "chapter": {
+    "vi": "Chương X"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 114.\n\n1- Người lao động nữ được nghỉ trước và sau khi sinh con, cộng lại từ bốn đến sáu tháng do Chính phủ quy định, tuỳ theo điều kiện lao động, tính chất công việc nặng nhọc, độc hại và nơi xa xôi hẻo lánh. Nếu sinh đôi trở lên thì tính từ con thứ hai trở đi, cứ mỗi con, người mẹ được nghỉ thêm 30 ngày. Quyền lợi của người lao động nữ trong thời gian nghỉ thai sản được quy định tại Điều 141 và Điều 144 của Bộ luật này.\n\n2- Hết thời gian nghỉ thai sản quy định tại khoản 1 Điều này, nếu có nhu cầu, người lao động nữ có thể nghỉ thêm một thời gian không hưởng lương theo thoả thuận với người sử dụng lao động. Người lao động nữ có thể đi làm việc trước khi hết thời gian nghỉ thai sản, nếu đã nghỉ ít nhất được hai tháng sau khi sinh và có giấy của thầy thuốc chứng nhận việc trở lại làm việc sớm không có hại cho sức khoẻ và phải báo cho người sử dụng lao động biết trước. Trong trường hợp này, người lao động nữ vẫn tiếp tục được hưởng trợ cấp thai sản, ngoài tiền lương của những ngày làm việc."
+   }
+  },
+  {
+   "id": "VN-H361-A115",
+   "no": 115,
+   "noLabel": {
+    "vi": "Điều 115"
+   },
+   "chapter": {
+    "vi": "Chương X"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 115.\n\n1- Người sử dụng lao động không được sử dụng người lao động nữ có thai từ tháng thứ bảy hoặc đang nuôi con dưới 12 tháng tuổi làm thêm giờ, làm việc ban đêm và đi công tác xa.\n\n2- Người lao động nữ làm công việc nặng nhọc, khi có thai đến tháng thứ bảy, được chuyển làm công việc nhẹ hơn hoặc được giảm bớt một giờ làm việc hàng ngày mà vẫn hưởng đủ lương.\n\n3- Người lao động nữ trong thời gian hành kinh được nghỉ mỗi ngày 30 phút; trong thời gian nuôi con dưới 12 tháng tuổi, được nghỉ mỗi ngày 60 phút trong thời gian làm việc, mà vẫn hưởng đủ lương."
+   }
+  },
+  {
+   "id": "VN-H361-A116",
+   "no": 116,
+   "noLabel": {
+    "vi": "Điều 116"
+   },
+   "chapter": {
+    "vi": "Chương X"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 116.\n\n1- Nơi có sử dụng lao động nữ, phải có chỗ thay quần áo, buồng tắm và buồng vệ sinh nữ.\n\n2- Ở những nơi sử dụng nhiều lao động nữ, người sử dụng lao động có trách nhiệm giúp đỡ tổ chức nhà trẻ, lớp mẫu giáo hoặc hỗ trợ một phần chi phí cho lao động nữ có con ở lứa tuổi gửi trẻ, mẫu giáo."
+   }
+  },
+  {
+   "id": "VN-H361-A117",
+   "no": 117,
+   "noLabel": {
+    "vi": "Điều 117"
+   },
+   "chapter": {
+    "vi": "Chương X"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 117.\n\n1- Trong thời gian nghỉ việc để đi khám thai, để thực hiện biện pháp kế hoạch hoá gia đình hoặc do sảy thai; nghỉ để chăm sóc con dưới bảy tuổi ốm đau, nhận trẻ sơ sinh làm con nuôi, người lao động nữ được hưởng trợ cấp bảo hiểm xã hội hoặc được người sử dụng lao động trả một khoản tiền bằng mức trợ cấp bảo hiểm xã hội. Thời gian nghỉ việc và chế độ trợ cấp nói tại khoản này do Chính phủ quy định. Trường hợp người khác thay người mẹ chăm sóc con ốm đau, thì người mẹ vẫn được hưởng trợ cấp bảo hiểm xã hội.\n\n2- Hết thời gian nghỉ thai sản theo chế độ và cả trong trường hợp được phép nghỉ thêm không hưởng lương, khi trở lại làm việc, người lao động nữ vẫn được bảo đảm chỗ làm việc."
+   }
+  },
+  {
+   "id": "VN-H361-A118",
+   "no": 118,
+   "noLabel": {
+    "vi": "Điều 118"
+   },
+   "chapter": {
+    "vi": "Chương X"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 118.\n\n1- Các doanh nghiệp sử dụng nhiều lao động nữ phải phân công người trong bộ máy quản lý điều hành doanh nghiệp làm nhiệm vụ theo dõi vấn đề lao động nữ; khi quyết định những vấn đề liên quan đến quyền và lợi ích của phụ nữ và trẻ em, phải tham khảo ý kiến của đại diện những người lao động nữ.\n\n2- Trong số Thanh tra viên lao động phải có tỷ lệ thích đáng nữ Thanh tra viên.\n\nChương XI\n\nNHỮNG QUY ĐỊNH RIÊNG ĐỐI VỚI LAO ĐỘNG CHƯA THÀNH NIÊN VÀ MỘT SỐ LOẠI LAO ĐỘNG KHÁC\n\nMục 1\n\nLAO ĐỘNG CHƯA THÀNH NIÊN"
+   }
+  },
+  {
+   "id": "VN-H361-A119",
+   "no": 119,
+   "noLabel": {
+    "vi": "Điều 119"
+   },
+   "chapter": {
+    "vi": "Chương XI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 119.\n\n1- Người lao động chưa thành niên là người lao động dưới 18 tuổi. Nơi có sử dụng người lao động chưa thành niên phải lập sổ theo dõi riêng, ghi đầy đủ họ tên, ngày sinh, công việc đang làm, kết quả những lần kiểm tra sức khoẻ định kỳ và xuất trình khi thanh tra viên lao động yêu cầu.\n\n2- Nghiêm cấm lạm dụng sức lao động của người chưa thành niên."
+   }
+  },
+  {
+   "id": "VN-H361-A120",
+   "no": 120,
+   "noLabel": {
+    "vi": "Điều 120"
+   },
+   "chapter": {
+    "vi": "Chương XI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 120.\n\nCấm nhận trẻ em chưa đủ 15 tuổi vào làm việc, trừ một số nghề và công việc do Bộ Lao động - Thương binh và Xã hội quy định.\n\nĐối với ngành nghề và công việc được nhận trẻ em chưa đủ 15 tuổi vào làm việc, học nghề, tập nghề thì việc nhận và sử dụng những trẻ em này phải có sự đồng ý và theo dõi của cha mẹ hoặc người đỡ đầu."
+   }
+  },
+  {
+   "id": "VN-H361-A121",
+   "no": 121,
+   "noLabel": {
+    "vi": "Điều 121"
+   },
+   "chapter": {
+    "vi": "Chương XI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 121.\n\nNgười sử dụng lao động chỉ được sử dụng người lao động chưa thành niên vào những công việc phù hợp với sức khoẻ để bảo đảm sự phát triển thể lực, trí lực, nhân cách và có trách nhiệm quan tâm chăm sóc người lao động chưa thành niên về các mặt lao động, tiền lương, sức khoẻ, học tập trong quá trình lao động.\n\nCấm sử dụng người lao động chưa thành niên làm những công việc nặng nhọc, nguy hiểm hoặc tiếp xúc với các chất độc hại theo danh mục do Bộ Lao động - Thương binh và Xã hội và Bộ Y tế ban hành."
+   }
+  },
+  {
+   "id": "VN-H361-A122",
+   "no": 122,
+   "noLabel": {
+    "vi": "Điều 122"
+   },
+   "chapter": {
+    "vi": "Chương XI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 122.\n\n1- Thời giờ làm việc của người lao động chưa thành niên không được quá bảy giờ một ngày hoặc 42 giờ một tuần.\n\n2- Người sử dụng lao động chỉ được sử dụng người lao động chưa thành niên làm thêm giờ, làm việc ban đêm trong một số nghề và công việc do Bộ Lao động - Thương binh và Xã hội quy định.\n\nMục 2\n\nLAO ĐỘNG LÀ NGƯỜI CAO TUỔI"
+   }
+  },
+  {
+   "id": "VN-H361-A123",
+   "no": 123,
+   "noLabel": {
+    "vi": "Điều 123"
+   },
+   "chapter": {
+    "vi": "Chương XI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 123.\n\nNgười lao động cao tuổi là người lao động nam trên 60 tuổi, nữ trên 55 tuổi.\n\nNăm cuối cùng trước khi nghỉ hưu, người lao động cao tuổi được rút ngắn thời giờ làm việc hàng ngày hoặc được áp dụng chế độ làm việc không trọn ngày, không trọn tuần theo quy định của Chính phủ."
+   }
+  },
+  {
+   "id": "VN-H361-A124",
+   "no": 124,
+   "noLabel": {
+    "vi": "Điều 124"
+   },
+   "chapter": {
+    "vi": "Chương XI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 124.\n\n1- Nếu có nhu cầu, người sử dụng lao động có thể thoả thuận với người lao động cao tuổi kéo dài thời hạn hợp đồng hoặc giao kết hợp đồng lao động mới theo quy định tại Chương IV của Bộ luật này.\n\n2- Khi đã nghỉ hưu, nếu làm việc theo hợp đồng lao động mới, thì ngoài quyền lợi theo chế độ hưu trí, người lao động cao tuổi vẫn được hưởng quyền lợi đã thoả thuận theo hợp đồng lao động.\n\n3- Người sử dụng lao động có trách nhiệm quan tâm chăm sóc sức khoẻ người lao động cao tuổi, không được sử dụng người lao động cao tuổi làm những công việc nặng nhọc, nguy hiểm hoặc tiếp xúc với các chất độc hại có ảnh hưởng xấu tới sức khoẻ người cao tuổi.\n\nMục 3\n\nLAO ĐỘNG LÀ NGƯỜI TÀN TẬT"
+   }
+  },
+  {
+   "id": "VN-H361-A125",
+   "no": 125,
+   "noLabel": {
+    "vi": "Điều 125"
+   },
+   "chapter": {
+    "vi": "Chương XI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 125.\n\n1- Nhà nước bảo hộ quyền làm việc của người tàn tật và khuyến khích việc thu nhận, tạo việc làm cho người tàn tật. Hàng năm, Nhà nước dành một khoản ngân sách để giúp người tàn tật phục hồi sức khoẻ, phục hồi chức năng lao động, học nghề và có chính sách cho vay với lãi suất thấp để người tàn tật tự tạo việc làm và tự ổn định đời sống.\n\n2- Những nơi thu nhận người tàn tật vào học nghề được xét giảm thuế, được vay vốn với lãi suất thấp và được hưởng các ưu đãi khác để tạo điều kiện cho người tàn tật học nghề.\n\n3- Chính phủ quy định tỷ lệ lao động là người tàn tật đối với một số nghề và công việc mà doanh nghiệp phải nhận; nếu không nhận thì doanh nghiệp phải góp một khoản tiền theo quy định của Chính phủ vào quỹ việc làm để góp phần giải quyết việc làm cho người tàn tật. Doanh nghiệp nào nhận người tàn tật vào làm việc vượt tỷ lệ quy định thì được Nhà nước hỗ trợ hoặc cho vay với lãi suất thấp để tạo điều kiện làm việc thích hợp cho người lao động là người tàn tật.\n\n4- Thời giờ làm việc của người tàn tật không được quá bảy giờ một ngày hoặc 42 giờ một tuần."
+   }
+  },
+  {
+   "id": "VN-H361-A126",
+   "no": 126,
+   "noLabel": {
+    "vi": "Điều 126"
+   },
+   "chapter": {
+    "vi": "Chương XI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 126.\n\nCơ sở dạy nghề và những cơ sở sản xuất kinh doanh dành riêng cho người tàn tật được giúp đỡ cơ sở vật chất ban đầu về nhà xưởng, trường, lớp, trang bị, thiết bị và được miễn thuế, được vay vốn với lãi suất thấp."
+   }
+  },
+  {
+   "id": "VN-H361-A127",
+   "no": 127,
+   "noLabel": {
+    "vi": "Điều 127"
+   },
+   "chapter": {
+    "vi": "Chương XI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 127.\n\n1- Những nơi dạy nghề cho người tàn tật hoặc sử dụng lao động là người tàn tật phải tuân theo những quy định về điều kiện lao động, công cụ lao động, an toàn lao động, vệ sinh lao động phù hợp và thường xuyên chăm sóc sức khoẻ của lao động là người tàn tật.\n\n2- Cấm sử dụng người tàn tật đã bị suy giảm khả năng lao động từ 51% trở lên làm thêm giờ, làm việc ban đêm.\n\n3- Người sử dụng lao động không được sử dụng lao động là người tàn tật làm những công việc nặng nhọc, nguy hiểm hoặc tiếp xúc với các chất độc hại theo danh mục do Bộ Lao động - Thương binh và Xã hội và Bộ Y tế ban hành."
+   }
+  },
+  {
+   "id": "VN-H361-A128",
+   "no": 128,
+   "noLabel": {
+    "vi": "Điều 128"
+   },
+   "chapter": {
+    "vi": "Chương XI"
+   },
+   "heading": {
+    "vi": "Người lao động là thương binh, bệnh binh, ngoài các quyền lợi quy định tại các điều trong Mục này, còn được hưởng chế độ ưu đãi của Nhà nước đối với thương binh, bệnh binh."
+   },
+   "text": {
+    "vi": "Điều 128. Người lao động là thương binh, bệnh binh, ngoài các quyền lợi quy định tại các điều trong Mục này, còn được hưởng chế độ ưu đãi của Nhà nước đối với thương binh, bệnh binh.\n\nMục 4\n\nLAO ĐỘNG CÓ TRÌNH ĐỘ CHUYÊN MÔN, KỸ THUẬT CAO"
+   }
+  },
+  {
+   "id": "VN-H361-A129",
+   "no": 129,
+   "noLabel": {
+    "vi": "Điều 129"
+   },
+   "chapter": {
+    "vi": "Chương XI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 129.\n\n1- Người lao động có trình độ chuyên môn, kỹ thuật cao có quyền kiêm việc hoặc kiêm chức trên cơ sở giao kết nhiều hợp đồng lao động với nhiều người sử dụng lao động, với điều kiện bảo đảm thực hiện đầy đủ các hợp đồng lao động đã giao kết và phải báo cho người sử dụng lao động biết.\n\n2- Người lao động có trình độ chuyên môn, kỹ thuật cao được bảo hộ về quyền tác giả theo quy định của pháp luật khi có giải pháp hữu ích và sáng chế, phát minh. Trường hợp công trình nghiên cứu do vốn đầu tư của doanh nghiệp tài trợ thì được chia hiệu quả kinh tế theo hợp đồng đã ký kết về đề tài nghiên cứu đó.\n\n3- Người lao động có trình độ chuyên môn, kỹ thuật cao có quyền nghỉ dài hạn không hưởng lương hoặc được hưởng một phần lương để nghiên cứu khoa học hoặc để học tập nâng cao trình độ mà vẫn được giữ chỗ làm việc, theo thoả thuận với người sử dụng lao động.\n\n4- Người lao động có trình độ chuyên môn, kỹ thuật cao được ưu tiên áp dụng quy định tại khoản 1 và khoản 2 Điều 124 của Bộ luật này.\n\n5- Nếu tiết lộ bí mật công nghệ, kinh doanh của nơi mình làm việc thì ngoài việc bị xử lý kỷ luật theo quy định tại Điều 85 của Bộ luật này, người lao động có trình độ chuyên môn, kỹ thuật cao còn phải bồi thường thiệt hại theo quy định tại Điều 89 và Điều 90 của Bộ luật này."
+   }
+  },
+  {
+   "id": "VN-H361-A130",
+   "no": 130,
+   "noLabel": {
+    "vi": "Điều 130"
+   },
+   "chapter": {
+    "vi": "Chương XI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 130.\n\n1- Người sử dụng lao động có quyền giao kết hợp đồng lao động với bất kỳ người nào có trình độ chuyên môn, kỹ thuật cao, kể cả công chức Nhà nước trong những công việc mà quy chế công chức không cấm.\n\n2- Người lao động có trình độ chuyên môn, kỹ thuật cao được Nhà nước và người sử dụng lao động ưu đãi, tạo điều kiện thuận lợi để không ngừng phát huy tài năng có lợi cho doanh nghiệp và có lợi cho đất nước. Những ưu đãi đối với người lao động có trình độ chuyên môn, kỹ thuật cao không bị coi là phân biệt đối xử trong sử dụng lao động.\n\n3- Nhà nước khuyến khích và có chính sách ưu đãi đặc biệt đối với người lao động có trình độ chuyên môn, kỹ thuật cao đến làm việc ở vùng cao, biên giới, hải đảo và những vùng có nhiều khó khăn.\n\nMục 5\n\nLAO ĐỘNG CHO TỔ CHỨC, CÁ NHÂN NƯỚC NGOÀI TẠI VIỆT NAM, NGƯỜI NƯỚC NGOÀI LAO ĐỘNG TẠI VIỆT NAM, LAO ĐỘNG Ở NƯỚC NGOÀI"
+   }
+  },
+  {
+   "id": "VN-H361-A131",
+   "no": 131,
+   "noLabel": {
+    "vi": "Điều 131"
+   },
+   "chapter": {
+    "vi": "Chương XI"
+   },
+   "heading": {
+    "vi": "Công dân Việt Nam làm việc trong các doanh nghiệp được thành lập theo Luật đầu tư nước ngoài tại Việt Nam, trong khu chế xuất, trong các cơ quan, tổ chức nước ngoài hoặc quốc tế tại Việt Nam, hoặc làm việc cho cá nhân là người nước ngoài tại Việt Nam và người nước ngoài lao động tại Việt Nam đều phải tuân theo pháp luật lao động Việt Nam và được pháp luật lao động Việt Nam bảo vệ."
+   },
+   "text": {
+    "vi": "Điều 131. Công dân Việt Nam làm việc trong các doanh nghiệp được thành lập theo Luật đầu tư nước ngoài tại Việt Nam, trong khu chế xuất, trong các cơ quan, tổ chức nước ngoài hoặc quốc tế tại Việt Nam, hoặc làm việc cho cá nhân là người nước ngoài tại Việt Nam và người nước ngoài lao động tại Việt Nam đều phải tuân theo pháp luật lao động Việt Nam và được pháp luật lao động Việt Nam bảo vệ."
+   }
+  },
+  {
+   "id": "VN-H361-A132",
+   "no": 132,
+   "noLabel": {
+    "vi": "Điều 132"
+   },
+   "chapter": {
+    "vi": "Chương XI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 132.\n\n1- Các doanh nghiệp, cơ quan, tổ chức và cá nhân quy định tại Điều 131 của Bộ luật này muốn tuyển lao động là người Việt Nam phải thông qua tổ chức dịch vụ việc làm quy định tại Điều 18 của Bộ luật này. Nếu tổ chức dịch vụ việc làm giới thiệu hoặc tuyển lao động không đáp ứng yêu cầu, thì doanh nghiệp, tổ chức và cá nhân có quyền trực tiếp tuyển và phải báo cho cơ quan lao động cấp tỉnh hoặc cơ quan có thẩm quyền khác.\n\nĐối với công việc đòi hỏi kỹ thuật cao hoặc công việc quản lý mà phía Việt Nam chưa đáp ứng được, doanh nghiệp, tổ chức và cá nhân được tuyển người nước ngoài cho một thời hạn nhất định nhưng phải có kế hoạch, chương trình đào tạo để người Việt Nam có thể sớm làm được công việc đó và thay thế họ.\n\n2- Mức lương tối thiểu đối với người lao động là người Việt Nam làm việc trong các trường hợp quy định tại Điều 131 của Bộ luật này, do Chính phủ quyết định và công bố sau khi lấy ý kiến Tổng liên đoàn lao động Việt Nam và đại diện của người sử dụng lao động.\n\n3- Thời giờ làm việc, thời giờ nghỉ ngơi, an toàn lao động, vệ sinh lao động, bảo hiểm xã hội, việc giải quyết tranh chấp lao động trong các doanh nghiệp, tổ chức và các trường hợp khác quy định tại Điều 131 của Bộ luật này, được thực hiện theo quy định của Chính phủ Việt Nam."
+   }
+  },
+  {
+   "id": "VN-H361-A133",
+   "no": 133,
+   "noLabel": {
+    "vi": "Điều 133"
+   },
+   "chapter": {
+    "vi": "Chương XI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 133.\n\n1- Người nước ngoài làm việc thường xuyên cho các doanh nghiệp, tổ chức, cá nhân Việt Nam hoặc cho các doanh nghiệp có vốn đầu tư nước ngoài tại Việt Nam phải có giấy phép lao động do Bộ Lao động - Thương binh và Xã hội Việt Nam cấp.\n\n2- Người nước ngoài lao động tại Việt Nam được hưởng các quyền lợi và phải thực hiện các nghĩa vụ theo pháp luật Việt Nam, trừ trường hợp điều ước quốc tế mà Cộng hoà xã hội chủ nghĩa Việt Nam ký kết hoặc tham gia có quy định khác."
+   }
+  },
+  {
+   "id": "VN-H361-A134",
+   "no": 134,
+   "noLabel": {
+    "vi": "Điều 134"
+   },
+   "chapter": {
+    "vi": "Chương XI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 134.\n\n1- Người lao động là công dân Việt Nam được phép đi làm việc ở nước ngoài theo hợp đồng lao động mà người đó chịu sự điều hành của tổ chức, cá nhân nước ngoài, thì phải tuân theo các quy định của pháp luật lao động nước sở tại; nếu theo hiệp định về hợp tác lao động được ký kết giữa Chính phủ Việt Nam với Chính phủ nước sở tại thì phải tuân theo các quy định của pháp luật lao động nước sở tại và hiệp định đó.\n\n2- Đối với người lao động là công dân Việt Nam được phép đi làm việc ở nước ngoài theo hình thức nhận thầu, khoán công trình do doanh nghiệp Việt Nam điều hành và trả lương, thì áp dụng các quy định của Bộ luật này, trừ trường hợp điều ước quốc tế mà Cộng hoà xã hội chủ nghĩa Việt Nam ký kết hoặc tham gia có quy định khác."
+   }
+  },
+  {
+   "id": "VN-H361-A135",
+   "no": 135,
+   "noLabel": {
+    "vi": "Điều 135"
+   },
+   "chapter": {
+    "vi": "Chương XI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 135.\n\n1- Người lao động đi làm việc ở nước ngoài có quyền được biết các quyền lợi và nghĩa vụ của mình, được các cơ quan có thẩm quyền của Việt Nam ở nước ngoài bảo hộ về mặt lãnh sự và tư pháp, được quyền chuyển thu nhập bằng ngoại tệ và tài sản cá nhân về nước, được hưởng chế độ bảo hiểm xã hội và các chính sách, chế độ khác theo quy định pháp luật của Việt Nam và của nước sở tại.\n\n2- Người lao động đi làm việc ở nước ngoài có nghĩa vụ đóng góp một phần tiền lương cho quỹ bảo hiểm xã hội.\n\nMục 6\n\nMỘT SỐ LOẠI LAO ĐỘNG KHÁC"
+   }
+  },
+  {
+   "id": "VN-H361-A136",
+   "no": 136,
+   "noLabel": {
+    "vi": "Điều 136"
+   },
+   "chapter": {
+    "vi": "Chương XI"
+   },
+   "heading": {
+    "vi": "Người làm nghề hoặc công việc đặc biệt trong lĩnh vực nghệ thuật được áp dụng một số chế độ phù hợp về tuổi học nghề và tuổi nghỉ hưu; về ký kết hợp đồng lao động; về thời giờ làm việc, thời giờ nghỉ ngơi; về tiền lương, phụ cấp lương, tiền thưởng, an toàn lao động, vệ sinh lao động theo quy định của Chính phủ."
+   },
+   "text": {
+    "vi": "Điều 136. Người làm nghề hoặc công việc đặc biệt trong lĩnh vực nghệ thuật được áp dụng một số chế độ phù hợp về tuổi học nghề và tuổi nghỉ hưu; về ký kết hợp đồng lao động; về thời giờ làm việc, thời giờ nghỉ ngơi; về tiền lương, phụ cấp lương, tiền thưởng, an toàn lao động, vệ sinh lao động theo quy định của Chính phủ."
+   }
+  },
+  {
+   "id": "VN-H361-A137",
+   "no": 137,
+   "noLabel": {
+    "vi": "Điều 137"
+   },
+   "chapter": {
+    "vi": "Chương XI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 137.\n\n1- Người lao động có thể thoả thuận với người sử dụng lao động để nhận việc về làm thường xuyên tại nhà mà vẫn được hưởng nguyên quyền lợi như người đang làm việc tại doanh nghiệp.\n\n2- Người lao động làm việc tại nhà theo hình thức gia công không thuộc phạm vi áp dụng của Bộ luật này."
+   }
+  },
+  {
+   "id": "VN-H361-A138",
+   "no": 138,
+   "noLabel": {
+    "vi": "Điều 138"
+   },
+   "chapter": {
+    "vi": "Chương XI"
+   },
+   "heading": {
+    "vi": "Ở những nơi sử dụng dưới 10 người lao động, thì người sử dụng lao động vẫn phải bảo đảm những quyền lợi cơ bản của người lao động theo quy định của Bộ luật này, nhưng được giảm, miễn áp dụng một số tiêu chuẩn và thủ tục do Chính phủ quy định."
+   },
+   "text": {
+    "vi": "Điều 138. Ở những nơi sử dụng dưới 10 người lao động, thì người sử dụng lao động vẫn phải bảo đảm những quyền lợi cơ bản của người lao động theo quy định của Bộ luật này, nhưng được giảm, miễn áp dụng một số tiêu chuẩn và thủ tục do Chính phủ quy định."
+   }
+  },
+  {
+   "id": "VN-H361-A139",
+   "no": 139,
+   "noLabel": {
+    "vi": "Điều 139"
+   },
+   "chapter": {
+    "vi": "Chương XI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 139.\n\n1- Người được thuê mướn để giúp việc trong gia đình có thể giao kết hợp đồng lao động bằng miệng hoặc bằng văn bản; nếu được thuê mướn để trông coi tài sản thì phải ký kết bằng văn bản.\n\n2- Người sử dụng lao động phải tôn trọng danh dự, nhân phẩm của người giúp việc gia đình, có trách nhiệm chăm sóc khi người giúp việc bị ốm đau, tai nạn.\n\n3- Tiền lương, thời giờ làm việc, thời giờ nghỉ ngơi và các khoản trợ cấp do hai bên thoả thuận khi giao kết hợp đồng lao động. Người sử dụng lao động phải cấp tiền tàu xe đi đường khi người giúp việc gia đình thôi việc về nơi cư trú, trừ trường hợp người giúp việc tự ý thôi việc khi chưa hết thời hạn hợp đồng lao động.\n\nChương XII\n\nBẢO HIỂM XÃ HỘI"
+   }
+  },
+  {
+   "id": "VN-H361-A140",
+   "no": 140,
+   "noLabel": {
+    "vi": "Điều 140"
+   },
+   "chapter": {
+    "vi": "Chương XII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 140.\n\n1- Nhà nước quy định chính sách về bảo hiểm xã hội nhằm từng bước mở rộng và nâng cao việc bảo đảm vật chất, góp phần ổn định đời sống cho người lao động và gia đình trong các trường hợp người lao động ốm đau, thai sản, hết tuổi lao động, chết, bị tai nạn lao động, bệnh nghề nghiệp, mất việc làm, gặp rủi ro hoặc các khó khăn khác.\n\n2- Các loại hình bảo hiểm xã hội bắt buộc hoặc tự nguyện được áp dụng đối với từng loại đối tượng và từng loại doanh nghiệp để bảo đảm cho người lao động được hưởng các chế độ bảo hiểm xã hội thích hợp."
+   }
+  },
+  {
+   "id": "VN-H361-A141",
+   "no": 141,
+   "noLabel": {
+    "vi": "Điều 141"
+   },
+   "chapter": {
+    "vi": "Chương XII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 141.\n\n1- Loại hình bảo hiểm xã hội bắt buộc được áp dụng đối với những doanh nghiệp sử dụng từ 10 người lao động trở lên. Ở những doanh nghiệp này, người sử dụng lao động, người lao động phải đóng bảo hiểm xã hội theo quy định tại Điều 149 của Bộ luật này và người lao động được hưởng các chế độ trợ cấp bảo hiểm xã hội ốm đau, tai nạn lao động, bệnh nghề nghiệp, thai sản, hưu trí và tử tuất.\n\n2- Người lao động làm việc ở những nơi sử dụng dưới 10 người lao động, hoặc làm những công việc thời hạn dưới ba tháng, theo mùa vụ, hoặc làm các công việc có tính chất tạm thời khác, thì các khoản bảo hiểm xã hội được tính vào tiền lương do người sử dụng lao động trả để người lao động tham gia bảo hiểm xã hội theo loại hình tự nguyện hoặc tự lo liệu về bảo hiểm."
+   }
+  },
+  {
+   "id": "VN-H361-A142",
+   "no": 142,
+   "noLabel": {
+    "vi": "Điều 142"
+   },
+   "chapter": {
+    "vi": "Chương XII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 142.\n\n1- Khi ốm đau, người lao động được khám bệnh và điều trị tại các cơ sở y tế theo chế độ bảo hiểm y tế.\n\n2- Người lao động ốm đau có giấy chứng nhận của thầy thuốc cho nghỉ việc để chữa bệnh tại nhà hoặc điều trị tại bệnh viện thì được trợ cấp ốm đau do quỹ bảo hiểm xã hội trả.\n\nMức trợ cấp ốm đau phụ thuộc điều kiện làm việc, mức và thời gian đã đóng bảo hiểm xã hội do Chính phủ quy định."
+   }
+  },
+  {
+   "id": "VN-H361-A143",
+   "no": 143,
+   "noLabel": {
+    "vi": "Điều 143"
+   },
+   "chapter": {
+    "vi": "Chương XII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 143.\n\n1- Trong thời gian người lao động nghỉ việc để chữa trị vì tai nạn lao động hoặc bệnh nghề nghiệp, người sử dụng lao động phải trả đủ lương và chi phí cho người lao động theo quy định tại khoản 2 Điều 107 của Bộ luật này.\n\nSau khi điều trị, tuỳ theo mức độ suy giảm khả năng lao động do tai nạn lao động, bệnh nghề nghiệp, người lao động được giám định và xếp hạng thương tật để hưởng trợ cấp một lần hoặc hàng tháng do quỹ bảo hiểm xã hội trả.\n\n2- Trong thời gian làm việc, nếu người lao động bị chết do tai nạn lao động, bệnh nghề nghiệp, thì thân nhân được nhận chế độ tử tuất theo quy định tại Điều 146 của Bộ luật này và được quỹ bảo hiểm xã hội trợ cấp thêm một lần bằng 24 tháng tiền lương tối thiểu theo quy định của Chính phủ."
+   }
+  },
+  {
+   "id": "VN-H361-A144",
+   "no": 144,
+   "noLabel": {
+    "vi": "Điều 144"
+   },
+   "chapter": {
+    "vi": "Chương XII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 144.\n\n1- Trong thời gian nghỉ thai sản theo quy định tại Điều 114 của Bộ luật này, người lao động nữ đã đóng bảo hiểm xã hội được trợ cấp bảo hiểm xã hội bằng 100% tiền lương và được trợ cấp thêm một tháng lương, đối với trường hợp sinh con lần thứ nhất, thứ hai.\n\n2- Các chế độ khác của người lao động nữ được áp dụng theo quy định tại Điều 117 của Bộ luật này."
+   }
+  },
+  {
+   "id": "VN-H361-A145",
+   "no": 145,
+   "noLabel": {
+    "vi": "Điều 145"
+   },
+   "chapter": {
+    "vi": "Chương XII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 145.\n\n1- Người lao động được hưởng chế độ hưu trí hàng tháng khi có đủ điều kiện về tuổi đời và thời gian đã đóng bảo hiểm xã hội như sau:\n\na) Nam đủ 60 tuổi, nữ đủ 55 tuổi. Tuổi đời được hưởng chế độ hưu trí của những người làm các công việc nặng nhọc, độc hại hoặc làm việc ở vùng cao, biên giới, hải đảo và một số trường hợp đặc biệt khác do Chính phủ quy định;\n\nb) Đã đóng bảo hiểm xã hội 20 năm trở lên.\n\n2- Trường hợp người lao động không đủ điều kiện quy định tại khoản 1 Điều này, nhưng nếu có một trong các điều kiện sau đây thì cũng được hưởng chế độ hưu trí hàng tháng với mức thấp hơn:\n\na) Người lao động đủ điều kiện về tuổi đời quy định tại điểm a khoản 1 Điều này mà chưa đủ 20 năm đóng bảo hiểm xã hội nhưng ít nhất đã có đủ 15 năm đóng bảo hiểm xã hội;\n\nb) Người lao động đã đóng bảo hiểm xã hội 20 năm trở lên chưa đủ điều kiện về tuổi đời nhưng ít nhất đã đủ 50 tuổi đối với nam, 45 tuổi đối với nữ mà bị suy giảm khả năng lao động từ 61% trở lên;\n\nc) Người lao động làm các công việc đặc biệt nặng nhọc, độc hại theo quy định của Chính phủ, đã đóng bảo hiểm xã hội từ 20 năm trở lên mà bị suy giảm khả năng lao động từ 61% trở lên.\n\n3- Người lao động không đủ điều kiện hưởng chế độ hưu trí hàng tháng theo quy định tại khoản 1 và khoản 2 Điều này, thì được hưởng trợ cấp một lần.\n\n4- Mức hưởng chế độ hưu trí hàng tháng và trợ cấp một lần quy định tại các khoản 1, khoản 2 và 3 Điều này, phụ thuộc vào mức và thời gian đã đóng bảo hiểm xã hội do Chính phủ quy định."
+   }
+  },
+  {
+   "id": "VN-H361-A146",
+   "no": 146,
+   "noLabel": {
+    "vi": "Điều 146"
+   },
+   "chapter": {
+    "vi": "Chương XII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 146.\n\n1- Người lao động đang làm việc, người hưởng chế độ hưu trí, hưởng trợ cấp hàng tháng về mất sức lao động, tai nạn lao động, bệnh nghề nghiệp, khi chết thì người lo việc mai táng được nhận tiền mai táng do Chính phủ quy định.\n\n2- Người lao động bị tai nạn lao động, bệnh nghề nghiệp, người đã đóng bảo hiểm xã hội 15 năm trở lên, người hưởng chế độ hưu trí hàng tháng, chế độ trợ cấp tai nạn lao động hoặc bệnh nghề nghiệp hàng tháng, khi chết nếu có con chưa đủ 15 tuổi, vợ (hoặc chồng), bố, mẹ đã hết tuổi lao động mà khi còn sống người đó đã trực tiếp nuôi dưỡng, thì những thân nhân này được hưởng chế độ tuất hàng tháng. Trường hợp người chết không có thân nhân đủ điều kiện hưởng chế độ tuất hàng tháng hoặc chưa đóng bảo hiểm xã hội đủ 15 năm, thì gia đình được hưởng chế độ tuất một lần nhưng không quá 12 tháng lương hoặc trợ cấp đang hưởng.\n\n3- Người hưởng chế độ hưu trí, chế độ trợ cấp mất sức lao động, chế độ trợ cấp tai nạn lao động hạng 1, hạng 2 hoặc bệnh nghề nghiệp hạng 1, hạng 2 trước ngày ban hành Bộ luật này, thì thực hiện chế độ tử tuất theo quy định tại Điều này."
+   }
+  },
+  {
+   "id": "VN-H361-A147",
+   "no": 147,
+   "noLabel": {
+    "vi": "Điều 147"
+   },
+   "chapter": {
+    "vi": "Chương XII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 147.\n\n1- Thời gian làm việc của người lao động trong các doanh nghiệp Nhà nước trước ngày Bộ luật này có hiệu lực, nếu chưa nhận trợ cấp thôi việc hoặc trợ cấp một lần do quỹ bảo hiểm xã hội trả, thì được tính là thời gian đã đóng bảo hiểm xã hội.\n\n2- Quyền lợi bảo hiểm của những người đang hưởng chế độ hưu trí, hưởng trợ cấp hàng tháng về mất sức lao động, tai nạn lao động, bệnh nghề nghiệp và tiền tuất trước ngày Bộ luật này có hiệu lực vẫn được ngân sách Nhà nước tiếp tục bảo đảm và được điều chỉnh phù hợp với chế độ bảo hiểm xã hội hiện hành."
+   }
+  },
+  {
+   "id": "VN-H361-A148",
+   "no": 148,
+   "noLabel": {
+    "vi": "Điều 148"
+   },
+   "chapter": {
+    "vi": "Chương XII"
+   },
+   "heading": {
+    "vi": "Các doanh nghiệp nông nghiệp, lâm nghiệp, ngư nghiệp, diêm nghiệp có trách nhiệm tham gia các loại hình bảo hiểm xã hội, phù hợp với đặc điểm sản xuất và sử dụng lao động trong từng ngành theo Điều lệ bảo hiểm xã hội."
+   },
+   "text": {
+    "vi": "Điều 148. Các doanh nghiệp nông nghiệp, lâm nghiệp, ngư nghiệp, diêm nghiệp có trách nhiệm tham gia các loại hình bảo hiểm xã hội, phù hợp với đặc điểm sản xuất và sử dụng lao động trong từng ngành theo Điều lệ bảo hiểm xã hội."
+   }
+  },
+  {
+   "id": "VN-H361-A149",
+   "no": 149,
+   "noLabel": {
+    "vi": "Điều 149"
+   },
+   "chapter": {
+    "vi": "Chương XII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 149.\n\n1- Quỹ bảo hiểm xã hội được hình thành từ các nguồn sau đây:\n\na) Người sử dụng lao động đóng bằng 15% so với tổng quỹ tiền lương;\n\nb) Người lao động đóng bằng 5% tiền lương;\n\nc) Nhà nước đóng và hỗ trợ thêm để bảo đảm thực hiện các chế độ bảo hiểm xã hội đối với người lao động;\n\nd) Các nguồn khác.\n\n2- Quỹ bảo hiểm xã hội được quản lý thống nhất theo chế độ tài chính của Nhà nước, hạch toán độc lập và được Nhà nước bảo hộ. Quỹ bảo hiểm xã hội được thực hiện các biện pháp để bảo tồn giá trị và tăng trưởng theo quy định của Chính phủ."
+   }
+  },
+  {
+   "id": "VN-H361-A150",
+   "no": 150,
+   "noLabel": {
+    "vi": "Điều 150"
+   },
+   "chapter": {
+    "vi": "Chương XII"
+   },
+   "heading": {
+    "vi": "Chính phủ ban hành Điều lệ bảo hiểm xã hội, thành lập hệ thống tổ chức bảo hiểm xã hội, ban hành Quy chế về tổ chức, hoạt động của Quỹ bảo hiểm xã hội với sự tham gia của Tổng liên đoàn lao động Việt Nam."
+   },
+   "text": {
+    "vi": "Điều 150. Chính phủ ban hành Điều lệ bảo hiểm xã hội, thành lập hệ thống tổ chức bảo hiểm xã hội, ban hành Quy chế về tổ chức, hoạt động của Quỹ bảo hiểm xã hội với sự tham gia của Tổng liên đoàn lao động Việt Nam."
+   }
+  },
+  {
+   "id": "VN-H361-A151",
+   "no": 151,
+   "noLabel": {
+    "vi": "Điều 151"
+   },
+   "chapter": {
+    "vi": "Chương XII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 151.\n\n1- Người lao động tham gia bảo hiểm xã hội được nhận các khoản trợ cấp về bảo hiểm xã hội đầy đủ, thuận tiện và đúng thời hạn.\n\n2- Khi xảy ra tranh chấp giữa người lao động và người sử dụng lao động về bảo hiểm xã hội thì giải quyết theo các quy định tại Chương XIV của Bộ luật này. Nếu xảy ra tranh chấp với cơ quan bảo hiểm xã hội, thì tranh chấp được giải quyết theo quy chế về tổ chức, hoạt động của quỹ bảo hiểm xã hội."
+   }
+  },
+  {
+   "id": "VN-H361-A152",
+   "no": 152,
+   "noLabel": {
+    "vi": "Điều 152"
+   },
+   "chapter": {
+    "vi": "Chương XII"
+   },
+   "heading": {
+    "vi": "Nhà nước khuyến khích người lao động, công đoàn, người sử dụng lao động và các tổ chức xã hội khác lập các quỹ tương trợ xã hội."
+   },
+   "text": {
+    "vi": "Điều 152. Nhà nước khuyến khích người lao động, công đoàn, người sử dụng lao động và các tổ chức xã hội khác lập các quỹ tương trợ xã hội.\n\nChương XIII\n\nCÔNG ĐOÀN"
+   }
+  },
+  {
+   "id": "VN-H361-A153",
+   "no": 153,
+   "noLabel": {
+    "vi": "Điều 153"
+   },
+   "chapter": {
+    "vi": "Chương XIII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 153.\n\n1- Ở những doanh nghiệp đang hoạt động chưa có tổ chức công đoàn thì chậm nhất sau sáu tháng, kể từ ngày Bộ Luật Lao động có hiệu lực và ở những doanh nghiệp mới thành lập thì chậm nhất sau sáu tháng, kể từ ngày doanh nghiệp bắt đầu hoạt động, Liên đoàn lao động cấp tỉnh phải thành lập tổ chức công đoàn lâm thời tại doanh nghiệp để đại diện, bảo vệ quyền và lợi ích của người lao động và tập thể lao động.\n\n2- Hoạt động của các tổ chức công đoàn lâm thời do Chính phủ phối hợp với Tổng liên đoàn lao động Việt Nam quy định."
+   }
+  },
+  {
+   "id": "VN-H361-A154",
+   "no": 154,
+   "noLabel": {
+    "vi": "Điều 154"
+   },
+   "chapter": {
+    "vi": "Chương XIII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 154.\n\n1- Khi tổ chức công đoàn được thành lập theo đúng Luật công đoàn, Điều lệ công đoàn thì người sử dụng lao động phải thừa nhận tổ chức đó.\n\n2- Người sử dụng lao động phải cộng tác chặt chẽ và tạo điều kiện thuận lợi để công đoàn hoạt động theo các quy định của Bộ Luật Lao động và Luật Công đoàn.\n\n3- Người sử dụng lao động không được phân biệt đối xử vì lý do người lao động thành lập, gia nhập, hoạt động công đoàn hoặc dùng các biện pháp kinh tế và các thủ đoạn khác để can thiệp vào tổ chức và hoạt động của công đoàn."
+   }
+  },
+  {
+   "id": "VN-H361-A155",
+   "no": 155,
+   "noLabel": {
+    "vi": "Điều 155"
+   },
+   "chapter": {
+    "vi": "Chương XIII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 155.\n\n1- Người sử dụng lao động có trách nhiệm bảo đảm các phương tiện làm việc cần thiết để công đoàn hoạt động.\n\n2- Người lao động làm công tác công đoàn không chuyên trách được sử dụng một số thời gian trong giờ làm việc để làm công tác công đoàn và được người sử dụng lao động trả lương. Số thời gian này tuỳ theo quy mô của doanh nghiệp và theo sự thoả thuận của người sử dụng lao động và Ban chấp hành công đoàn cơ sở, nhưng ít nhất không được dưới ba ngày làm việc trong một tháng.\n\n3- Người làm công tác công đoàn chuyên trách do quỹ công đoàn trả lương, được hưởng các quyền lợi và phúc lợi tập thể như mọi người lao động trong doanh nghiệp, tuỳ theo quy chế doanh nghiệp hoặc thoả ước tập thể.\n\n4- Khi người sử dụng lao động quyết định sa thải, đơn phương chấm dứt hợp đồng lao động với người là uỷ viên Ban chấp hành công đoàn cơ sở, thì phải có sự thoả thuận của Ban chấp hành công đoàn cơ sở; nếu là Chủ tịch Ban chấp hành công đoàn cơ sở thì phải có sự thoả thuận của tổ chức công đoàn cấp trên trực tiếp."
+   }
+  },
+  {
+   "id": "VN-H361-A156",
+   "no": 156,
+   "noLabel": {
+    "vi": "Điều 156"
+   },
+   "chapter": {
+    "vi": "Chương XIII"
+   },
+   "heading": {
+    "vi": "Tổng liên đoàn lao động Việt Nam, công đoàn các cấp tham gia với các cơ quan Nhà nước và đại diện của người sử dụng lao động bàn bạc, giải quyết các vấn đề về quan hệ lao động; có quyền lập các tổ chức dịch vụ việc làm, dạy nghề, tương tế, tư vấn pháp luật và các cơ sở phúc lợi chung cho người lao động và các quyền khác theo quy định của Luật công đoàn và của Bộ luật này."
+   },
+   "text": {
+    "vi": "Điều 156. Tổng liên đoàn lao động Việt Nam, công đoàn các cấp tham gia với các cơ quan Nhà nước và đại diện của người sử dụng lao động bàn bạc, giải quyết các vấn đề về quan hệ lao động; có quyền lập các tổ chức dịch vụ việc làm, dạy nghề, tương tế, tư vấn pháp luật và các cơ sở phúc lợi chung cho người lao động và các quyền khác theo quy định của Luật công đoàn và của Bộ luật này.\n\nChương XIV\n\nGIẢI QUYẾT TRANH CHẤP LAO ĐỘNG"
+   }
+  },
+  {
+   "id": "VN-H361-A157",
+   "no": 157,
+   "noLabel": {
+    "vi": "Điều 157"
+   },
+   "chapter": {
+    "vi": "Chương XIV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 157.\n\n1- Tranh chấp lao động là những tranh chấp về quyền và lợi ích liên quan đến việc làm, tiền lương, thu nhập và các điều kiện lao động khác, về thực hiện hợp đồng lao động, thoả ước tập thể và trong quá trình học nghề.\n\n2- Tranh chấp lao động bao gồm tranh chấp lao động cá nhân giữa người lao động với người sử dụng lao động và tranh chấp tập thể giữa tập thể lao động với người sử dụng lao động."
+   }
+  },
+  {
+   "id": "VN-H361-A158",
+   "no": 158,
+   "noLabel": {
+    "vi": "Điều 158"
+   },
+   "chapter": {
+    "vi": "Chương XIV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 158.\n\nTranh chấp lao động được giải quyết theo những nguyên tắc sau đây:\n\n1- Thương lượng trực tiếp và tự dàn xếp giữa hai bên tranh chấp tại nơi phát sinh tranh chấp;\n\n2- Thông qua hoà giải, trọng tài trên cơ sở tôn trọng quyền và lợi ích của hai bên, tôn trọng lợi ích chung của xã hội và tuân theo pháp luật;\n\n3- Giải quyết công khai, khách quan, kịp thời, nhanh chóng, đúng pháp luật;\n\n4- Có sự tham gia của đại diện công đoàn và của đại diện người sử dụng lao động trong quá trình giải quyết tranh chấp."
+   }
+  },
+  {
+   "id": "VN-H361-A159",
+   "no": 159,
+   "noLabel": {
+    "vi": "Điều 159"
+   },
+   "chapter": {
+    "vi": "Chương XIV"
+   },
+   "heading": {
+    "vi": "Việc giải quyết tranh chấp lao động tại các cơ quan, tổ chức giải quyết tranh chấp lao động được tiến hành khi một bên từ chối thương lượng hoặc hai bên đã thương lượng mà vẫn không giải quyết được và một hoặc hai bên có đơn yêu cầu giải quyết tranh chấp lao động."
+   },
+   "text": {
+    "vi": "Điều 159. Việc giải quyết tranh chấp lao động tại các cơ quan, tổ chức giải quyết tranh chấp lao động được tiến hành khi một bên từ chối thương lượng hoặc hai bên đã thương lượng mà vẫn không giải quyết được và một hoặc hai bên có đơn yêu cầu giải quyết tranh chấp lao động."
+   }
+  },
+  {
+   "id": "VN-H361-A160",
+   "no": 160,
+   "noLabel": {
+    "vi": "Điều 160"
+   },
+   "chapter": {
+    "vi": "Chương XIV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 160.\n\n1- Trong quá trình giải quyết tranh chấp lao động các bên tranh chấp có quyền:\n\na) Trực tiếp hoặc thông qua người đại diện của mình để tham gia quá trình giải quyết tranh chấp;\n\nb) Rút đơn hoặc thay đổi nội dung tranh chấp;\n\nc) Yêu cầu thay người trực tiếp tiến hành giải quyết tranh chấp, nếu có lý do chính đáng cho rằng người đó không thể bảo đảm tính khách quan, công bằng trong việc giải quyết tranh chấp.\n\n2- Trong quá trình giải quyết tranh chấp lao động, các bên tranh chấp có nghĩa vụ:\n\na) Cung cấp đầy đủ các tài liệu, chứng cứ theo yêu cầu của cơ quan, tổ chức giải quyết tranh chấp lao động;\n\nb) Nghiêm chỉnh chấp hành các thoả thuận đã đạt được, biên bản hoà giải thành, quyết định đã có hiệu lực của cơ quan, tổ chức giải quyết tranh chấp lao động, bản án hoặc quyết định đã có hiệu lực của Toà án nhân dân."
+   }
+  },
+  {
+   "id": "VN-H361-A161",
+   "no": 161,
+   "noLabel": {
+    "vi": "Điều 161"
+   },
+   "chapter": {
+    "vi": "Chương XIV"
+   },
+   "heading": {
+    "vi": "Cơ quan, tổ chức giải quyết tranh chấp lao động trong phạm vi nhiệm vụ, quyền hạn của mình có quyền yêu cầu các bên tranh chấp lao động, các cơ quan, tổ chức, cá nhân hữu quan cung cấp tài liệu, chứng cứ; trưng cầu giám định, mời nhân chứng và người có liên quan trong quá trình giải quyết tranh chấp lao động."
+   },
+   "text": {
+    "vi": "Điều 161. Cơ quan, tổ chức giải quyết tranh chấp lao động trong phạm vi nhiệm vụ, quyền hạn của mình có quyền yêu cầu các bên tranh chấp lao động, các cơ quan, tổ chức, cá nhân hữu quan cung cấp tài liệu, chứng cứ; trưng cầu giám định, mời nhân chứng và người có liên quan trong quá trình giải quyết tranh chấp lao động.\n\nMục 1\n\nTHẨM QUYỀN VÀ TRÌNH TỰ GIẢI QUYẾT TRANH CHẤP LAO ĐỘNG CÁ NHÂN"
+   }
+  },
+  {
+   "id": "VN-H361-A162",
+   "no": 162,
+   "noLabel": {
+    "vi": "Điều 162"
+   },
+   "chapter": {
+    "vi": "Chương XIV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 162.\n\nCác cơ quan, tổ chức có thẩm quyền giải quyết tranh chấp lao động cá nhân gồm:\n\n1- Hội đồng hoà giải lao động cơ sở hoặc hoà giải viên lao động của cơ quan lao động quận, huyện, thị xã, thành phố thuộc tỉnh (sau đây gọi chung là cấp huyện) đối với những nơi không có Hội đồng hoà giải lao động cơ sở;\n\n2- Toà án nhân dân."
+   }
+  },
+  {
+   "id": "VN-H361-A163",
+   "no": 163,
+   "noLabel": {
+    "vi": "Điều 163"
+   },
+   "chapter": {
+    "vi": "Chương XIV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 163.\n\n1- Hội đồng hoà giải lao động cơ sở được thành lập trong các doanh nghiệp sử dụng từ 10 người lao động trở lên, gồm số đại diện ngang nhau của bên người lao động và bên người sử dụng lao động. Số lượng thành viên của Hội đồng do hai bên thoả thuận.\n\n2- Nhiệm kỳ của Hội đồng hoà giải lao động cơ sở là hai năm. Đại diện của mỗi bên luân phiên làm Chủ tịch và thư ký Hội đồng. Hội đồng hoà giải lao động cơ sở làm việc theo nguyên tắc thoả thuận và nhất trí.\n\n3- Người sử dụng lao động bảo đảm điều kiện cần thiết cho hoạt động của Hội đồng hoà giải lao động cơ sở."
+   }
+  },
+  {
+   "id": "VN-H361-A164",
+   "no": 164,
+   "noLabel": {
+    "vi": "Điều 164"
+   },
+   "chapter": {
+    "vi": "Chương XIV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 164.\n\nTrình tự hoà giải tranh chấp lao động cá nhân được quy định như sau:\n\n1- Hội đồng hoà giải lao động cơ sở tiến hành hoà giải chậm nhất bảy ngày, kể từ ngày nhận được đơn yêu cầu hoà giải. Tại phiên họp hoà giải, phải có mặt hai bên tranh chấp hoặc đại diện được uỷ quyền của họ.\n\n2- Hội đồng hoà giải lao động cơ sở đưa ra phương án hoà giải để các bên xem xét. Nếu hai bên chấp nhận phương án hoà giải thì lập biên bản hoà giải thành, có chữ ký của hai bên tranh chấp, của Chủ tịch và thư ký Hội đồng hoà giải lao động cơ sở. Hai bên có nghĩa vụ chấp hành các thoả thuận ghi trong biên bản hoà giải thành.\n\n3- Trong trường hợp hoà giải không thành, thì Hội đồng hoà giải lao động cơ sở lập biên bản hoà giải không thành, ghi ý kiến của hai bên tranh chấp và của Hội đồng, có chữ ký của hai bên tranh chấp, của Chủ tịch và thư ký Hội đồng. Bản sao biên bản phải được gửi cho hai bên tranh chấp trong thời hạn ba ngày, kể từ ngày hoà giải không thành. Mỗi bên tranh chấp đều có quyền yêu cầu Toà án nhân dân cấp huyện xét xử tranh chấp. Hồ sơ gửi Toà án nhân dân phải kèm theo biên bản hoà giải không thành."
+   }
+  },
+  {
+   "id": "VN-H361-A165",
+   "no": 165,
+   "noLabel": {
+    "vi": "Điều 165"
+   },
+   "chapter": {
+    "vi": "Chương XIV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 165.\n\n1- Hoà giải viên lao động tiến hành việc hoà giải theo trình tự quy định tại Điều 164 của Bộ luật này đối với các tranh chấp lao động cá nhân tại các doanh nghiệp sử dụng dưới 10 người lao động, tranh chấp giữa người giúp việc gia đình với người sử dụng lao động, tranh chấp về thực hiện hợp đồng học nghề và phí dạy nghề.\n\n2- Hoà giải viên lao động phải tiến hành việc hoà giải chậm nhất bảy ngày, kể từ ngày nhận được đơn yêu cầu hoà giải."
+   }
+  },
+  {
+   "id": "VN-H361-A166",
+   "no": 166,
+   "noLabel": {
+    "vi": "Điều 166"
+   },
+   "chapter": {
+    "vi": "Chương XIV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 166.\n\n1- Toà án nhân dân cấp huyện giải quyết các tranh chấp lao động cá nhân mà Hội đồng hoà giải lao động cơ sở hoặc hoà giải viên lao động hoà giải không thành, khi có đơn yêu cầu của một hoặc hai bên tranh chấp.\n\n2- Những tranh chấp lao động cá nhân sau đây có thể yêu cầu Toà án nhân dân cấp huyện giải quyết, không nhất thiết phải qua hoà giải tại cơ sở:\n\na) Tranh chấp về xử lý kỷ luật lao động theo hình thức sa thải hoặc về trường hợp bị đơn phương chấm dứt hợp đồng lao động;\n\nb) Tranh chấp về bồi thường thiệt hại cho người sử dụng lao động.\n\n3- Người lao động được miễn án phí trong các hoạt động tố tụng để đòi tiền lương, bảo hiểm xã hội, tiền bồi thường về tai nạn lao động, bệnh nghề nghiệp, để giải quyết vấn đề bồi thường thiệt hại hoặc vì bị sa thải, chấm dứt hợp đồng lao động trái pháp luật."
+   }
+  },
+  {
+   "id": "VN-H361-A167",
+   "no": 167,
+   "noLabel": {
+    "vi": "Điều 167"
+   },
+   "chapter": {
+    "vi": "Chương XIV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 167.\n\nThời hiệu yêu cầu giải quyết tranh chấp lao động cá nhân, kể từ ngày mỗi bên tranh chấp cho rằng quyền, lợi ích của mình bị vi phạm được quy định như sau:\n\n1- Một năm đối với các tranh chấp lao động quy định tại khoản 2 Điều 166 của Bộ luật này;\n\n2- Sáu tháng đối với các loại tranh chấp lao động khác.\n\nMục 2\n\nTHẨM QUYỀN VÀ TRÌNH TỰ GIẢI QUYẾT TRANH CHẤP LAO ĐỘNG TẬP THỂ"
+   }
+  },
+  {
+   "id": "VN-H361-A168",
+   "no": 168,
+   "noLabel": {
+    "vi": "Điều 168"
+   },
+   "chapter": {
+    "vi": "Chương XIV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 168.\n\nCác cơ quan, tổ chức có thẩm quyền giải quyết tranh chấp lao động tập thể gồm:\n\n1- Hội đồng hoà giải lao động cơ sở hoặc hoà giải viên lao động của cơ quan lao động cấp huyện nơi không có Hội đồng hoà giải lao động cơ sở;\n\n2- Hội đồng trọng tài lao động cấp tỉnh;\n\n3- Toà án nhân dân."
+   }
+  },
+  {
+   "id": "VN-H361-A169",
+   "no": 169,
+   "noLabel": {
+    "vi": "Điều 169"
+   },
+   "chapter": {
+    "vi": "Chương XIV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 169.\n\n1- Hội đồng hoà giải lao động cơ sở quy định tại Điều 163 của Bộ luật này có thẩm quyền hoà giải cả những vụ tranh chấp lao động tập thể.\n\n2- Hội đồng trọng tài lao động cấp tỉnh gồm các thành viên chuyên trách và kiêm chức là đại diện của cơ quan lao động, đại diện của công đoàn, đại diện của những người sử dụng lao động và một số luật gia, nhà quản lý, nhà hoạt động xã hội có uy tín ở địa phương. Thành phần Hội đồng trọng tài lao động cấp tỉnh được hình thành theo số lẻ, tối đa không được quá chín người, do đại diện cơ quan lao động cấp tỉnh làm Chủ tịch.\n\nNhiệm kỳ của Hội đồng trọng tài lao động là ba năm.\n\nHội đồng trọng tài lao động quyết định theo nguyên tắc đa số, bằng cách bỏ phiếu kín.\n\nCơ quan lao động cấp tỉnh bảo đảm điều kiện cần thiết cho hoạt động của Hội đồng trọng tài lao động."
+   }
+  },
+  {
+   "id": "VN-H361-A170",
+   "no": 170,
+   "noLabel": {
+    "vi": "Điều 170"
+   },
+   "chapter": {
+    "vi": "Chương XIV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 170.\n\nTrình tự hoà giải tranh chấp lao động tập thể được quy định như sau:\n\n1- Hội đồng hoà giải lao động cơ sở hoặc hoà giải viên lao động tiến hành hoà giải chậm nhất bảy ngày, kể từ ngày nhận đơn yêu cầu hoà giải. Tại phiên họp hoà giải, phải có mặt hai bên tranh chấp hoặc đại diện được uỷ quyền của họ.\n\n2- Hội đồng hoà giải lao động cơ sở hoặc hoà giải viên lao động đưa ra phương án hoà giải để các bên xem xét. Nếu hai bên chấp nhận phương án hoà giải thì lập biên bản hoà giải thành, có chữ ký của hai bên tranh chấp, của Chủ tịch và thư ký Hội đồng hoà giải lao động cơ sở hoặc của hoà giải viên lao động. Hai bên có nghĩa vụ chấp hành các thoả thuận ghi trong biên bản hoà giải thành.\n\n3- Trong trường hợp hoà giải không thành, thì Hội đồng hoà giải lao động cơ sở hoặc hoà giải viên lao động lập biên bản hoà giải không thành, ghi ý kiến của hai bên tranh chấp và của Hội đồng hoặc của hoà giải viên lao động, có chữ ký của hai bên tranh chấp, của Chủ tịch và thư ký Hội đồng hoặc của hoà giải viên lao động; mỗi bên hoặc cả hai bên tranh chấp có quyền yêu cầu Hội đồng trọng tài lao động cấp tỉnh giải quyết."
+   }
+  },
+  {
+   "id": "VN-H361-A171",
+   "no": 171,
+   "noLabel": {
+    "vi": "Điều 171"
+   },
+   "chapter": {
+    "vi": "Chương XIV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 171.\n\n1- Hội đồng trọng tài lao động tiến hành hoà giải và giải quyết vụ tranh chấp lao động tập thể chậm nhất 10 ngày, kể từ ngày nhận được yêu cầu.\n\nTại phiên họp giải quyết tranh chấp lao động tập thể, phải có mặt các đại diện được uỷ quyền của hai bên tranh chấp. Trường hợp cần thiết, Hội đồng trọng tài lao động mời đại diện công đoàn cấp trên của công đoàn cơ sở và đại diện cơ quan Nhà nước hữu quan tham dự phiên họp.\n\n2- Hội đồng trọng tài lao động đưa ra phương án hoà giải để hai bên xem xét. Trong trường hợp hai bên nhất trí thì lập biên bản hoà giải thành, có chữ ký của hai bên tranh chấp, của Chủ tịch Hội đồng trọng tài lao động. Hai bên có nghĩa vụ chấp hành các thoả thuận ghi trong biên bản hoà giải thành.\n\n3- Trong trường hợp hoà giải không thành, thì Hội đồng trọng tài lao động giải quyết vụ tranh chấp và thông báo ngay quyết định của mình cho hai bên tranh chấp; nếu hai bên không có ý kiến thì quyết định đó đương nhiên có hiệu lực thi hành."
+   }
+  },
+  {
+   "id": "VN-H361-A172",
+   "no": 172,
+   "noLabel": {
+    "vi": "Điều 172"
+   },
+   "chapter": {
+    "vi": "Chương XIV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 172.\n\n1- Trong trường hợp tập thể lao động không đồng ý với quyết định của Hội đồng trọng tài lao động, thì có quyền yêu cầu Toà án nhân dân giải quyết hoặc đình công.\n\n2- Trong trường hợp người sử dụng lao động không đồng ý với quyết định của Hội đồng trọng tài lao động, thì có quyền yêu cầu Toà án nhân dân xét lại quyết định của Hội đồng trọng tài. Việc người sử dụng lao động yêu cầu Toà án nhân dân xét lại quyết định của Hội đồng trọng tài không cản trở quyền đình công của tập thể lao động."
+   }
+  },
+  {
+   "id": "VN-H361-A173",
+   "no": 173,
+   "noLabel": {
+    "vi": "Điều 173"
+   },
+   "chapter": {
+    "vi": "Chương XIV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 173.\n\n1- Trong khi Hội đồng hoà giải lao động, Hội đồng trọng tài lao động đang tiến hành việc giải quyết tranh chấp lao động, thì không bên nào được hành động đơn phương chống lại bên kia.\n\n2- Việc đình công do Ban chấp hành công đoàn cơ sở quyết định sau khi được quá nửa tập thể lao động tán thành bằng cách bỏ phiếu kín hoặc lấy chữ ký.\n\nBan chấp hành công đoàn cơ sở cử đại diện, nhiều nhất là ba người, để trao bản yêu cầu cho người sử dụng lao động, đồng thời gửi một bản thông báo cho cơ quan lao động cấp tỉnh, một bản thông báo cho Liên đoàn lao động cấp tỉnh. Trong bản yêu cầu và bản thông báo, phải nêu rõ các vấn đề bất đồng, nội dung yêu cầu giải quyết, kết quả bỏ phiếu hoặc lấy chữ ký tán thành đình công và thời điểm bắt đầu đình công.\n\n3- Nghiêm cấm các hành vi bạo lực, hành vi làm tổn hại máy, thiết bị, tài sản của doanh nghiệp, các hành vi xâm phạm trật tự, an toàn công cộng trong khi đình công."
+   }
+  },
+  {
+   "id": "VN-H361-A174",
+   "no": 174,
+   "noLabel": {
+    "vi": "Điều 174"
+   },
+   "chapter": {
+    "vi": "Chương XIV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 174.\n\nKhông được đình công ở một số doanh nghiệp phục vụ công cộng và doanh nghiệp thiết yếu cho nền kinh tế quốc dân hoặc an ninh, quốc phòng theo danh mục do Chính phủ quy định.\n\nCác cơ quan quản lý Nhà nước phải định kỳ tổ chức nghe ý kiến của đại diện tập thể lao động và người sử dụng lao động ở các doanh nghiệp này để kịp thời giúp đỡ và giải quyết những yêu cầu chính đáng của tập thể lao động. Trong trường hợp có tranh chấp lao động tập thể, thì do Hội đồng trọng tài lao động cấp tỉnh giải quyết. Nếu một trong hai bên không đồng ý với quyết định của Hội đồng trọng tài lao động, thì có quyền yêu cầu Toà án nhân dân giải quyết."
+   }
+  },
+  {
+   "id": "VN-H361-A175",
+   "no": 175,
+   "noLabel": {
+    "vi": "Điều 175"
+   },
+   "chapter": {
+    "vi": "Chương XIV"
+   },
+   "heading": {
+    "vi": "Trong trường hợp xét thấy đình công có nguy cơ nghiêm trọng cho nền kinh tế quốc dân hoặc an toàn công cộng, Thủ tướng Chính phủ có quyền quyết định hoãn hoặc ngừng cuộc đình công."
+   },
+   "text": {
+    "vi": "Điều 175. Trong trường hợp xét thấy đình công có nguy cơ nghiêm trọng cho nền kinh tế quốc dân hoặc an toàn công cộng, Thủ tướng Chính phủ có quyền quyết định hoãn hoặc ngừng cuộc đình công."
+   }
+  },
+  {
+   "id": "VN-H361-A176",
+   "no": 176,
+   "noLabel": {
+    "vi": "Điều 176"
+   },
+   "chapter": {
+    "vi": "Chương XIV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 176.\n\n1- Những cuộc đình công sau đây là bất hợp pháp:\n\na) Không phát sinh từ tranh chấp lao động tập thể; vượt ra ngoài phạm vi quan hệ lao động;\n\nb) Vượt ra ngoài phạm vi doanh nghiệp;\n\nc) Vi phạm các quy định tại khoản 1, khoản 2 Điều 173 và Điều 174 của Bộ luật này.\n\n2- Việc kết luận cuộc đình công hợp pháp hay bất hợp pháp thuộc thẩm quyền của Toà án nhân dân."
+   }
+  },
+  {
+   "id": "VN-H361-A177",
+   "no": 177,
+   "noLabel": {
+    "vi": "Điều 177"
+   },
+   "chapter": {
+    "vi": "Chương XIV"
+   },
+   "heading": {
+    "vi": "Toà án nhân dân có quyền quyết định cuối cùng về những cuộc đình công và tranh chấp lao động tập thể."
+   },
+   "text": {
+    "vi": "Điều 177. Toà án nhân dân có quyền quyết định cuối cùng về những cuộc đình công và tranh chấp lao động tập thể."
+   }
+  },
+  {
+   "id": "VN-H361-A178",
+   "no": 178,
+   "noLabel": {
+    "vi": "Điều 178"
+   },
+   "chapter": {
+    "vi": "Chương XIV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 178.\n\n1- Nghiêm cấm mọi hành vi trù dập, trả thù người tham gia đình công hoặc lãnh đạo cuộc đình công.\n\n2- Người cản trở việc thực hiện quyền đình công hoặc ép buộc người khác đình công, người có hành vi bất hợp pháp trong khi đình công, người không thi hành quyết định của Thủ tướng Chính phủ, quyết định của Toà án nhân dân, thì tuỳ theo mức độ vi phạm, phải bồi thường thiệt hại, bị xử phạt hành chính hoặc bị truy cứu trách nhiệm hình sự."
+   }
+  },
+  {
+   "id": "VN-H361-A179",
+   "no": 179,
+   "noLabel": {
+    "vi": "Điều 179"
+   },
+   "chapter": {
+    "vi": "Chương XIV"
+   },
+   "heading": {
+    "vi": "Việc giải quyết các cuộc đình công và các vụ án lao động do Uỷ ban thường vụ Quốc hội quy định."
+   },
+   "text": {
+    "vi": "Điều 179. Việc giải quyết các cuộc đình công và các vụ án lao động do Uỷ ban thường vụ Quốc hội quy định.\n\nChương XV\n\nQUẢN LÝ NHÀ NƯỚC VỀ LAO ĐỘNG"
+   }
+  },
+  {
+   "id": "VN-H361-A180",
+   "no": 180,
+   "noLabel": {
+    "vi": "Điều 180"
+   },
+   "chapter": {
+    "vi": "Chương XV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 180.\n\nQuản lý Nhà nước về lao động bao gồm những nội dung chủ yếu sau đây:\n\n1- Nắm cung cầu và sự biến động cung cầu lao động làm cơ sở để quyết định chính sách quốc gia, quy hoạch, kế hoạch về nguồn nhân lực, phân bố và sử dụng lao động toàn xã hội;\n\n2- Ban hành và hướng dẫn thi hành các văn bản pháp luật lao động;\n\n3- Xây dựng và tổ chức thực hiện các chương trình quốc gia về việc làm, di dân xây dựng các vùng kinh tế mới, đưa người đi làm việc ở nước ngoài;\n\n4- Quyết định các chính sách về tiền lương, bảo hiểm xã hội, an toàn lao động, vệ sinh lao động và các chính sách khác về lao động và xã hội; về xây dựng mối quan hệ lao động trong các doanh nghiệp;\n\n5- Tổ chức và tiến hành nghiên cứu khoa học về lao động, thống kê, thông tin về lao động và thị trường lao động, về mức sống, thu nhập của người lao động;\n\n6- Thanh tra, kiểm tra việc thi hành pháp luật lao động và xử lý các vi phạm pháp luật lao động, giải quyết các tranh chấp lao động theo quy định của Bộ luật này;\n\n7- Mở rộng quan hệ hợp tác quốc tế với nước ngoài và các tổ chức quốc tế trong lĩnh vực lao động."
+   }
+  },
+  {
+   "id": "VN-H361-A181",
+   "no": 181,
+   "noLabel": {
+    "vi": "Điều 181"
+   },
+   "chapter": {
+    "vi": "Chương XV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 181.\n\n1- Chính phủ thống nhất quản lý Nhà nước về lao động trong phạm vi cả nước.\n\nBộ Lao động - Thương binh và Xã hội thực hiện quản lý Nhà nước về lao động đối với các ngành và các địa phương trong cả nước.\n\n2- Uỷ ban nhân dân các cấp thực hiện quản lý Nhà nước về lao động trong phạm vi địa phương mình. Cơ quan lao động địa phương giúp Uỷ ban nhân dân cùng cấp quản lý Nhà nước về lao động theo sự phân cấp của Bộ Lao động - Thương binh và Xã hội.\n\n3- Tổng liên đoàn lao động Việt Nam và công đoàn các cấp tham gia giám sát việc quản lý Nhà nước về lao động theo quy định của pháp luật.\n\n4- Nhà nước tạo điều kiện cho người sử dụng lao động được tham gia ý kiến với các cơ quan Nhà nước về các vấn đề quản lý và sử dụng lao động."
+   }
+  },
+  {
+   "id": "VN-H361-A182",
+   "no": 182,
+   "noLabel": {
+    "vi": "Điều 182"
+   },
+   "chapter": {
+    "vi": "Chương XV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 182.\n\nTrong thời hạn 30 ngày, kể từ ngày doanh nghiệp bắt đầu hoạt động, người sử dụng lao động phải khai trình việc sử dụng lao động và trong quá trình hoạt động phải báo cáo tình hình thay đổi về nhân công với cơ quan lao động địa phương theo quy định của Bộ Lao động - Thương binh và Xã hội. Trong thời hạn 30 ngày, kể từ ngày doanh nghiệp chấm dứt hoạt động, người sử dụng lao động phải báo cáo với cơ quan lao động địa phương về việc chấm dứt sử dụng lao động.\n\nNơi sử dụng từ 10 người lao động trở lên, thì người sử dụng lao động phải lập sổ lao động, sổ lương, sổ bảo hiểm xã hội."
+   }
+  },
+  {
+   "id": "VN-H361-A183",
+   "no": 183,
+   "noLabel": {
+    "vi": "Điều 183"
+   },
+   "chapter": {
+    "vi": "Chương XV"
+   },
+   "heading": {
+    "vi": "Người lao động được cấp sổ lao động, sổ lương và sổ bảo hiểm xã hội theo quy định của pháp luật."
+   },
+   "text": {
+    "vi": "Điều 183. Người lao động được cấp sổ lao động, sổ lương và sổ bảo hiểm xã hội theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H361-A184",
+   "no": 184,
+   "noLabel": {
+    "vi": "Điều 184"
+   },
+   "chapter": {
+    "vi": "Chương XV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 184.\n\n1- Việc đưa công dân Việt Nam ra nước ngoài làm việc phải có giấy phép của Bộ Lao động - Thương binh và Xã hội và các cơ quan Nhà nước có thẩm quyền khác theo quy định của pháp luật.\n\nNghiêm cấm việc đưa người ra nước ngoài làm việc trái pháp luật.\n\n2- Bộ Lao động - Thương binh và Xã hội cấp giấy phép lao động cho người nước ngoài vào Việt Nam để làm việc cho các doanh nghiệp, tổ chức, cá nhân Việt Nam hoặc cho các doanh nghiệp có vốn đầu tư của nước ngoài tại Việt Nam quy định tại Điều 133 của Bộ luật này theo đơn yêu cầu của đương sự và của doanh nghiệp, tổ chức, cá nhân có yêu cầu sử dụng lao động.\n\nChương XVI\n\nTHANH TRA NHÀ NƯỚC VỀ LAO ĐỘNG, XỬ PHẠT VI PHẠM PHÁP LUẬT LAO ĐỘNG\n\nMục 1\n\nTHANH TRA NHÀ NƯỚC VỀ LAO ĐỘNG"
+   }
+  },
+  {
+   "id": "VN-H361-A185",
+   "no": 185,
+   "noLabel": {
+    "vi": "Điều 185"
+   },
+   "chapter": {
+    "vi": "Chương XVI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 185\n\nThanh tra Nhà nước về lao động bao gồm Thanh tra lao động, Thanh tra an toàn lao động và Thanh tra vệ sinh lao động.\n\nBộ Lao động - Thương binh và Xã hội và các cơ quan lao động địa phương thực hiện thanh tra lao động và thanh tra an toàn lao động. Bộ Y tế và các cơ quan y tế địa phương thực hiện thanh tra vệ sinh lao động."
+   }
+  },
+  {
+   "id": "VN-H361-A186",
+   "no": 186,
+   "noLabel": {
+    "vi": "Điều 186"
+   },
+   "chapter": {
+    "vi": "Chương XVI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 186\n\nThanh tra Nhà nước về lao động có các nhiệm vụ chính sau đây:\n\n1- Thanh tra việc chấp hành các quy định về lao động, an toàn lao động và vệ sinh lao động;\n\n2- Điều tra tai nạn lao động và những vi phạm tiêu chuẩn vệ sinh lao động;\n\n3- Xem xét, chấp thuận các tiêu chuẩn an toàn lao động, các giải pháp an toàn lao động trong các luận chứng kinh tế - kỹ thuật, các đề án thiết kế; đăng ký và cho phép đưa vào sử dụng những máy, thiết bị, vật tư có yêu cầu nghiêm ngặt về an toàn lao động thuộc danh mục do Bộ Lao động - Thương binh và Xã hội quy định;\n\n4- Tham gia xem xét chấp thuận địa điểm, các giải pháp vệ sinh lao động khi xây dựng mới hoặc mở rộng, cải tạo cơ sở để sản xuất, sử dụng, bảo quản, lưu giữ và tàng trữ các chất phóng xạ, chất độc thuộc danh mục do Bộ Y tế quy định;\n\n5- Giải quyết các khiếu nại, tố cáo của người lao động về vi phạm pháp luật lao động;\n\n6- Quyết định xử lý các vi phạm pháp luật lao động theo thẩm quyền của mình và kiến nghị các cơ quan có thẩm quyền xử lý các vi phạm thuộc thẩm quyền xử lý của các cơ quan đó."
+   }
+  },
+  {
+   "id": "VN-H361-A187",
+   "no": 187,
+   "noLabel": {
+    "vi": "Điều 187"
+   },
+   "chapter": {
+    "vi": "Chương XVI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 187.\n\nKhi tiến hành thanh tra, Thanh tra viên lao động có quyền:\n\n1- Thanh tra, điều tra những nơi thuộc đối tượng, phạm vi thanh tra được giao bất cứ lúc nào mà không cần báo trước;\n\n2- Yêu cầu người sử dụng lao động và những người có liên quan khác cung cấp tình hình và các tài liệu liên quan đến việc thanh tra, điều tra;\n\n3- Tiếp nhận và giải quyết các khiếu nại, tố cáo về vi phạm pháp luật lao động theo quy định của pháp luật;\n\n4- Quyết định tạm đình chỉ việc sử dụng máy, thiết bị, nơi làm việc có nguy cơ gây tai nạn lao động, gây ô nhiễm nghiêm trọng môi trường lao động và chịu trách nhiệm về quyết định đó, đồng thời báo cáo ngay cho cơ quan Nhà nước có thẩm quyền."
+   }
+  },
+  {
+   "id": "VN-H361-A188",
+   "no": 188,
+   "noLabel": {
+    "vi": "Điều 188"
+   },
+   "chapter": {
+    "vi": "Chương XVI"
+   },
+   "heading": {
+    "vi": "Thanh tra viên lao động phải là người không có lợi ích cá nhân liên quan trực tiếp hoặc gián tiếp với đối tượng thuộc phạm vi thanh tra. Thanh tra viên lao động, kể cả khi đã thôi việc, không được tiết lộ những bí mật biết được trong khi thi hành công vụ và phải tuyệt đối giữ kín mọi nguồn tố cáo."
+   },
+   "text": {
+    "vi": "Điều 188. Thanh tra viên lao động phải là người không có lợi ích cá nhân liên quan trực tiếp hoặc gián tiếp với đối tượng thuộc phạm vi thanh tra. Thanh tra viên lao động, kể cả khi đã thôi việc, không được tiết lộ những bí mật biết được trong khi thi hành công vụ và phải tuyệt đối giữ kín mọi nguồn tố cáo."
+   }
+  },
+  {
+   "id": "VN-H361-A189",
+   "no": 189,
+   "noLabel": {
+    "vi": "Điều 189"
+   },
+   "chapter": {
+    "vi": "Chương XVI"
+   },
+   "heading": {
+    "vi": "Khi tiến hành thanh tra, Thanh tra viên lao động phải cộng tác chặt chẽ với Ban chấp hành công đoàn. Nếu vụ việc có liên quan đến các lĩnh vực khoa học, kỹ thuật, chuyên môn, nghiệp vụ, Thanh tra viên lao động có thể mời các chuyên gia, các kỹ thuật viên lành nghề về lĩnh vực hữu quan làm tư vấn; khi khám xét máy, thiết bị, kho tàng, phải có mặt người sử dụng lao động và người trực tiếp phụ trách máy, thiết bị, kho tàng."
+   },
+   "text": {
+    "vi": "Điều 189. Khi tiến hành thanh tra, Thanh tra viên lao động phải cộng tác chặt chẽ với Ban chấp hành công đoàn. Nếu vụ việc có liên quan đến các lĩnh vực khoa học, kỹ thuật, chuyên môn, nghiệp vụ, Thanh tra viên lao động có thể mời các chuyên gia, các kỹ thuật viên lành nghề về lĩnh vực hữu quan làm tư vấn; khi khám xét máy, thiết bị, kho tàng, phải có mặt người sử dụng lao động và người trực tiếp phụ trách máy, thiết bị, kho tàng."
+   }
+  },
+  {
+   "id": "VN-H361-A190",
+   "no": 190,
+   "noLabel": {
+    "vi": "Điều 190"
+   },
+   "chapter": {
+    "vi": "Chương XVI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 190.\n\nThanh tra viên lao động trực tiếp giao quyết định cho đương sự, trong quyết định phải ghi rõ ngày quyết định bắt đầu có hiệu lực, ngày phải thi hành xong, nếu cần thiết ghi cả ngày phúc tra.\n\nQuyết định của Thanh tra viên lao động có hiệu lực bắt buộc thi hành.\n\nNgười nhận quyết định có quyền khiếu nại với cơ quan Nhà nước có thẩm quyền, nhưng vẫn phải nghiêm chỉnh chấp hành quyết định của Thanh tra viên lao động."
+   }
+  },
+  {
+   "id": "VN-H361-A191",
+   "no": 191,
+   "noLabel": {
+    "vi": "Điều 191"
+   },
+   "chapter": {
+    "vi": "Chương XVI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 191.\n\n1- Chính phủ quy định tổ chức và hoạt động của Thanh tra Nhà nước về lao động.\n\n2- Bộ Lao động - Thương binh và Xã hội và Bộ Y tế có trách nhiệm lập hệ thống tổ chức thanh tra Nhà nước về lao động thuộc thẩm quyền và chức năng của mình; quy định tiêu chuẩn tuyển chọn, bổ nhiệm, thuyên chuyển, miễn nhiệm, cách chức thanh tra viên; cấp thẻ thanh tra viên; quy định chế độ báo cáo định kỳ, đột xuất và các chế độ, thủ tục cần thiết khác.\n\n3- Việc thanh tra an toàn lao động, thanh tra vệ sinh lao động trong các lĩnh vực: phóng xạ, thăm dò, khai thác dầu khí, các phương tiện vận tải đường sắt, đường thuỷ, đường bộ, đường hàng không và các đơn vị thuộc lực lượng vũ trang do các cơ quan quản lý ngành đó thực hiện với sự phối hợp của Thanh tra Nhà nước về lao động.\n\nMục 2\n\nXỬ PHẠT VI PHẠM PHÁP LUẬT LAO ĐỘNG"
+   }
+  },
+  {
+   "id": "VN-H361-A192",
+   "no": 192,
+   "noLabel": {
+    "vi": "Điều 192"
+   },
+   "chapter": {
+    "vi": "Chương XVI"
+   },
+   "heading": {
+    "vi": "Người nào có hành vi vi phạm các quy định của Bộ luật này, thì tuỳ mức độ vi phạm mà bị xử phạt bằng các hình thức cảnh cáo, phạt tiền, đình chỉ hoặc thu hồi giấy phép, buộc phải bồi thường, buộc đóng cửa doanh nghiệp hoặc bị truy cứu trách nhiệm hình sự theo quy định của pháp luật."
+   },
+   "text": {
+    "vi": "Điều 192. Người nào có hành vi vi phạm các quy định của Bộ luật này, thì tuỳ mức độ vi phạm mà bị xử phạt bằng các hình thức cảnh cáo, phạt tiền, đình chỉ hoặc thu hồi giấy phép, buộc phải bồi thường, buộc đóng cửa doanh nghiệp hoặc bị truy cứu trách nhiệm hình sự theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H361-A193",
+   "no": 193,
+   "noLabel": {
+    "vi": "Điều 193"
+   },
+   "chapter": {
+    "vi": "Chương XVI"
+   },
+   "heading": {
+    "vi": "Người nào có hành vi cản trở, mua chuộc, trả thù những người có thẩm quyền theo Bộ luật này trong khi họ thi hành công vụ thì tuỳ mức độ vi phạm mà bị xử lý kỷ luật, xử phạt hành chính hoặc bị truy cứu trách nhiệm hình sự theo quy định của pháp luật."
+   },
+   "text": {
+    "vi": "Điều 193. Người nào có hành vi cản trở, mua chuộc, trả thù những người có thẩm quyền theo Bộ luật này trong khi họ thi hành công vụ thì tuỳ mức độ vi phạm mà bị xử lý kỷ luật, xử phạt hành chính hoặc bị truy cứu trách nhiệm hình sự theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H361-A194",
+   "no": 194,
+   "noLabel": {
+    "vi": "Điều 194"
+   },
+   "chapter": {
+    "vi": "Chương XVI"
+   },
+   "heading": {
+    "vi": "Các chủ sở hữu doanh nghiệp phải chịu trách nhiệm dân sự đối với những quyết định của các cơ quan Nhà nước có thẩm quyền xử phạt giám đốc, người quản lý hoặc người đại diện hợp pháp cho doanh nghiệp đối với những vi phạm pháp luật lao động trong quá trình điều hành quản lý lao động theo quy định của pháp luật. Trách nhiệm bồi hoàn của những người này đối với doanh nghiệp được xử lý theo quy chế, điều lệ của doanh nghiệp, hợp đồng trách nhiệm giữa các bên đã ký kết hoặc theo quy định của pháp luật."
+   },
+   "text": {
+    "vi": "Điều 194. Các chủ sở hữu doanh nghiệp phải chịu trách nhiệm dân sự đối với những quyết định của các cơ quan Nhà nước có thẩm quyền xử phạt giám đốc, người quản lý hoặc người đại diện hợp pháp cho doanh nghiệp đối với những vi phạm pháp luật lao động trong quá trình điều hành quản lý lao động theo quy định của pháp luật. Trách nhiệm bồi hoàn của những người này đối với doanh nghiệp được xử lý theo quy chế, điều lệ của doanh nghiệp, hợp đồng trách nhiệm giữa các bên đã ký kết hoặc theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H361-A195",
+   "no": 195,
+   "noLabel": {
+    "vi": "Điều 195"
+   },
+   "chapter": {
+    "vi": "Chương XVI"
+   },
+   "heading": {
+    "vi": "Chính phủ quy định việc xử phạt hành chính đối với hành vi vi phạm pháp luật lao động."
+   },
+   "text": {
+    "vi": "Điều 195. Chính phủ quy định việc xử phạt hành chính đối với hành vi vi phạm pháp luật lao động.\n\nChương XVII\n\nĐIỀU KHOẢN THI HÀNH"
+   }
+  },
+  {
+   "id": "VN-H361-A196",
+   "no": 196,
+   "noLabel": {
+    "vi": "Điều 196"
+   },
+   "chapter": {
+    "vi": "Chương XVII"
+   },
+   "heading": {
+    "vi": "Những quy định của Bộ luật này được áp dụng đối với các hợp đồng lao động, thoả ước tập thể và những thoả thuận hợp pháp khác đã giao kết trước ngày Bộ luật có hiệu lực. Những thoả thuận có lợi hơn cho người lao động so với những quy định của Bộ luật này vẫn được tiếp tục thi hành. Những thoả thuận không phù hợp với những quy định của Bộ luật phải sửa đổi, bổ sung."
+   },
+   "text": {
+    "vi": "Điều 196. Những quy định của Bộ luật này được áp dụng đối với các hợp đồng lao động, thoả ước tập thể và những thoả thuận hợp pháp khác đã giao kết trước ngày Bộ luật có hiệu lực. Những thoả thuận có lợi hơn cho người lao động so với những quy định của Bộ luật này vẫn được tiếp tục thi hành. Những thoả thuận không phù hợp với những quy định của Bộ luật phải sửa đổi, bổ sung."
+   }
+  },
+  {
+   "id": "VN-H361-A197",
+   "no": 197,
+   "noLabel": {
+    "vi": "Điều 197"
+   },
+   "chapter": {
+    "vi": "Chương XVII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 197.\n\nBộ luật này có hiệu lực kể từ ngày 01 tháng 01 năm 1995.\n\nNhững quy định trước đây trái với Bộ luật này đều bãi bỏ."
+   }
+  },
+  {
+   "id": "VN-H361-A198",
+   "no": 198,
+   "noLabel": {
+    "vi": "Điều 198"
+   },
+   "chapter": {
+    "vi": "Chương XVII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 198.\n\nUỷ ban thường vụ Quốc hội, Chính phủ quy định chi tiết và hướng dẫn thi hành Bộ luật này.\n\nBộ luật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá IX, kỳ họp thứ 5 thông qua ngày 23 tháng 6 năm 1994.\n\n1:{\"id\":\"10427\",\"docType\":{\"id\":\"404b68a7-8e71-4ee5-a6c0-07e59f35f824\",\"name\":\"Bộ luật\",\"code\":\"BL\",\"parentCode\":\"VBQPPL\",\"parentName\":null},\"docGroup\":\"VBQPPL\",\"docNum\":\"Không số\",\"title\":\"Bộ luật Lao động số Không số\",\"applicationNote\":\"Bị thay thế bởi Bộ luật 10/2012/QH13 Lao động\",\"issueDate\":\"1994-06-23T00:00:00\",\"effFrom\":\"1995-01-01T00:00:00\",\"effTo\":\"2013-05-01T00:00:00\",\"publicDate\":null,\"effStatus\":{\"id\":\"f55c1469-4341-4274-93ef-32b283db4dbd\",\"name\":\"Hết hiệu lực toàn bộ\",\"code\":\"HHL\",\"parentCode\":null,\"parentName\":null},\"status\":\"Publish\",\"lang\":\"vi\",\"defaultLanguage\":\"VN\",\"updatedBy\":\"dungdvm_II.3\",\"updatedDate\":\"2026-03-26T21:11:28\",\"agencyName\":\"Quốc hội\",\"organization\":{\"id\":\"e1e1ef48-0054-4da3-bc4d-3d9921c03883\",\"code\":\"BNV\",\"name\":\"Bộ Nội vụ\",\"nameEn\":\"Bộ Nội vụ\",\"shortName\":\"BNV\",\"orgType\":\"0\"},\"isLw\":true,\"documentContent\":{\"id\":\"10427\",\"title\":null,\"content\":\"$2\"},\"documentContentEn\":null,\"documentContentFileName\":null,\"documentContentFileDocName\":\"BLLaodong1994.doc\",\"documentIssues\":[{\"id\":\"9b649827-fa81-40c4-ab64-423d61ad17c2\",\"agencyId\":\"55\",\"agencyName\":\"Quốc hội\",\"agencyNameEn\":\"National Assembly of Vietnam\",\"agencyCode\":\"QH\",\"personId\":\"184\",\"personName\":\"Nông Đức Mạnh\",\"jobTitleId\":\"28da0087-8afd-420c-875c-b2369e212c3e\",\"jobTitleCode\":\"CTQH\",\"jobTitleName\":\"Chủ tịch Quốc hội\",\"orderIndex\":1}],\"documentMajors\":[],\"documentFields\":[{\"id\":\"76e2c0d5-e93e-4ee9-8c72-59dae1167432\",\"name\":\"Chưa phân loại\",\"code\":null,\"parentCode\":null,\"parentName\":null}],\"documentRelatedList\":[{\"id\":\"2601c982-0d70-4229-ba5c-1c3b15680c4a\",\"fileName\":\"10427_body_content.html\",\"relatedType\":\"MARKDOWN\",\"fileTitle\":\"10427_body_content.html\",\"fileOrder\":null}],\"provisionTree\":null,\"references\":null,\"isEffectAllDocument\":false,\"isOld\":true,\"reviewStatus\":\"INITIAL\",\"reviewed\":false,\"isTranslationDoc\":false,\"isConsolidatedDocument\":false,\"isConstitutionDocument\":false,\"isAdministrativeDocument\":false,\"viewCount\":79,\"showViewCount\":true,\"hasContent\":true,\"hasOriginalPdf\":null,\"hasAIProcessed\":false,\"hasClauseRelation\":null,\"aiResults\":[]}"
+   }
+  }
+ ]
+}

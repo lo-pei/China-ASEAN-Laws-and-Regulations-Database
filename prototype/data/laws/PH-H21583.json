@@ -1,0 +1,62 @@
+{
+ "id": "PH-H21583",
+ "title": {
+  "zh": null,
+  "en": "Modifying P.D. No. 98",
+  "orig": "Modifying P.D. No. 98"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p159",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1973-01-25",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 109",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 743,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_00109_1973_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_00109_1973_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H21583-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section 1 of the Presidential Decree No. 98 is hereby modified to read as follows:\n\"Section 1. Effective January 1, 1974, the Land Transportation Commission shall cause reflective number\nplates to be prepared and issued to owners of motor vehicles and trailers registered under R.A. 4136, charging\nfor each pair, including the numericals indicating the year of registry, a fee of not more than 15% higher than\nthe acquisition cost.\""
+   }
+  },
+  {
+   "id": "PH-H21583-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Section 4 of Presidential Decree No. 98 shall read as follows:\n\"Section 4 Republic Act No. 4136 is hereby amended accordingly and Republic Act No. 5715 hereby\nrepealed, effective January 1, 1974.\"\nDone in the City of Manila, this 25th day of January, in the year of Our Lord, nineteen hundred and\nseventy-three."
+   }
+  }
+ ]
+}

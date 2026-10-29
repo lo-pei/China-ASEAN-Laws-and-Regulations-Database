@@ -1,0 +1,426 @@
+{
+ "id": "MY-H3595",
+ "title": {
+  "zh": "2011年原子能许可（放射性废物管理）条例",
+  "en": "ATOMIC ENERGY LICENSING (RADIOACTIVE WASTE MANAGEMENT) REGULATIONS 2011",
+  "orig": "ATOMIC ENERGY LICENSING (RADIOACTIVE WASTE MANAGEMENT) REGULATIONS 2011",
+  "ms": "Peraturan Pelesenan Tenaga Atom (Pengurusan Sisa Radioaktif) 2011",
+  "vi": "Quy định về Cấp phép năng lượng nguyên tử (Quản lý chất thải phóng xạ) năm 2011",
+  "th": "ข้อบังคับการออกใบอนุญาตพลังงานปรมาณู (การจัดการกากกัมมันตรังสี) ค.ศ. 2011",
+  "id": "Peraturan Perizinan Energi Atom (Pengelolaan Limbah Radioaktif) Tahun 2011"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-8",
+ "language": "ms",
+ "level": "regulation",
+ "category": "04_劳工与行政法",
+ "status": "active",
+ "promulgatedDate": "2011",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "PUA274",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 32,
+ "chars": 71578,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-view.php?type=pua&no=P.U. (A) 274/2011&status=PRINCIPAL"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\04_劳工与行政法\\2011_P.U.(A)274-2011_ATOMIC ENERGY LICENSING (RADIOACTIVE WASTE MANAGEMENT) REGULATIONS 2011.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 32 条；逐字未改写（源自厂商 OCR 文本）；已清除正文中的 8 个控制字符（C0/C1 区，法律文本中无合法用途，系 PDF 抽取/表单域残留）。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H3595-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "1. Nama dan permulaan kuat kuasa"
+   }
+  },
+  {
+   "id": "MY-H3595-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "2. Pemakaian"
+   }
+  },
+  {
+   "id": "MY-H3595-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "3. Tafsiran\n\nBAHAGIAN II\n\nLESEN UNTUK MELUPUS"
+   }
+  },
+  {
+   "id": "MY-H3595-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "4. Lesen untuk melupus\n\nBAHAGIAN III\n\nTANGGUNGJAWAB PEMEGANG LESEN"
+   }
+  },
+  {
+   "id": "MY-H3595-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "5. Tanggungjawab pemegang lesen\n\nBAHAGIAN IV\n\nPEGAWAI PENGURUSAN SISA RADIOAKTIF"
+   }
+  },
+  {
+   "id": "MY-H3595-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "6. Pelantikan Pegawai Pengurusan Sisa Radioaktif"
+   }
+  },
+  {
+   "id": "MY-H3595-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "7. Tanggungjawab Pegawai Pengurusan Sisa Radioaktif\n\nBAHAGIAN V\n\nKAWALAN PENJANAAN SISA RADIOAKTIF"
+   }
+  },
+  {
+   "id": "MY-H3595-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "8. Kawalan penjanaan sisa radioaktif\n\nBAHAGIAN VI\n\nGUNA SEMULA DAN KITAR SEMULA BAHAN RADIOAKTIF"
+   }
+  },
+  {
+   "id": "MY-H3595-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "9. Guna semula dan kitar semula"
+   }
+  },
+  {
+   "id": "MY-H3595-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "10. Pemindahan bahan radioaktif\n\nBAHAGIAN VII\n\nPENGURUSAN SUMBER TERKEDAP TERPAKAI"
+   }
+  },
+  {
+   "id": "MY-H3595-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "11. Pemulangan sumber terkedap terpakai"
+   }
+  },
+  {
+   "id": "MY-H3595-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "12. Pemindahan ke kemudahan pengurusan sisa radioaktif\n\nBAHAGIAN VIII\n\nBUANGAN DAN PELUPUSAN SISA RADIOAKTIF"
+   }
+  },
+  {
+   "id": "MY-H3595-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "13. Had buangan"
+   }
+  },
+  {
+   "id": "MY-H3595-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "14. Buangan dan pemantauan sisa radioaktif"
+   }
+  },
+  {
+   "id": "MY-H3595-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "15. Sifat bukan radiologi sisa radioaktif"
+   }
+  },
+  {
+   "id": "MY-H3595-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "16. Sisa radioaktif yang tidak sesuai untuk pelepasan, buangan atau pelupusan\n\nBAHAGIAN IX\n\nPENGURUSAN SISA RADIOAKTIF"
+   }
+  },
+  {
+   "id": "MY-H3595-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "17. Pengasingan sisa radioaktif"
+   }
+  },
+  {
+   "id": "MY-H3595-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "18. Bekas sisa radioaktif"
+   }
+  },
+  {
+   "id": "MY-H3595-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "19. Rekod bekas sisa radioaktif"
+   }
+  },
+  {
+   "id": "MY-H3595-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "20. Penambahbaikan ciri sisa radioaktif"
+   }
+  },
+  {
+   "id": "MY-H3595-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "21. Lokasi penyimpanan sisa radioaktif"
+   }
+  },
+  {
+   "id": "MY-H3595-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "22. Kemudahan penyimpanan"
+   }
+  },
+  {
+   "id": "MY-H3595-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "23. Penyimpanan selamat sisa radioaktif\n\nBAHAGIAN X\n\nPENGANGKUTAN SISA RADIOAKTIF"
+   }
+  },
+  {
+   "id": "MY-H3595-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "24. Pengangkutan sisa radioaktif\n\nBAHAGIAN XI\n\nJAMINAN KUALITI"
+   }
+  },
+  {
+   "id": "MY-H3595-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "25. Program jaminan kualiti\n\nBAHAGIAN XII\n\nKESELAMATAN DAN PERLINDUNGAN FIZIKAL"
+   }
+  },
+  {
+   "id": "MY-H3595-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "26. Keselamatan dan perlindungan sisa radioaktif"
+   }
+  },
+  {
+   "id": "MY-H3595-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 27"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "27. Pemberitahuan dan laporan mengenai kecurian, kehilangan atau sabotaj\n\nBAHAGIAN XIII\n\nREKOD DAN LAPORAN"
+   }
+  },
+  {
+   "id": "MY-H3595-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 28"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "28. Pengemukaan borang inventori sisa radioaktif"
+   }
+  },
+  {
+   "id": "MY-H3595-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Section 29"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "29. Pengemukaan rekod pelepasan, buangan atau pelupusan sisa radioaktif"
+   }
+  },
+  {
+   "id": "MY-H3595-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Section 30"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "30. Laporan mengenai pelepasan, buangan atau pelupusan yang tidak dibenarkan\n\nBAHAGIAN XIV\n\nPELAN DAN TATACARA KECEMASAN"
+   }
+  },
+  {
+   "id": "MY-H3595-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Section 31"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "31. Tindak balas kecemasan\n\nBAHAGIAN XV\n\nPENGHENTIAN OPERASI, PEMBUBARAN ATAU\n\nPENINGGALAN KEMUDAHAN BERLESEN"
+   }
+  },
+  {
+   "id": "MY-H3595-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Section 32"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "32. Penghentian operasi, pembubaran atau peninggalan kemudahan berlesen\n\nJADUAL PERTAMA\n\nJADUAL KEDUA\n\nJADUAL KETIGA\n\nJADUAL KEEMPAT\n\nJADUAL KELIMA\n\nAKTA PERLESENAN TENAGA ATOM 1984\n\nPERATURAN-PERATURAN PERLESENAN TENAGA ATOM\n\n(PENGURUSAN SISA RADIOAKTIF) 2011\n\nPADA menjalankan kuasa yang diberikan oleh perenggan 68(2)(a) Akta Perlesenan\n\nTenaga Atom 1984 [Akta 304], Menteri membuat peraturan-peraturan yang berikut:\n\nBAHAGIAN I\n\nPERMULAAN\n\nNama dan permulaan kuat kuasa\n\n1. (1) Peraturan-peraturan ini bolehlah dinamakan Peraturan-Peraturan\n\nPerlesenan Tenaga Atom (Pengurusan Sisa Radioaktif) 2011.\n\n(2) Peraturan-Peraturan ini mula berkuat kuasa pada 16 Ogos 2011.\n\nPemakaian\n\n2. Peraturan-Peraturan ini hendaklah terpakai kepada semua aspek berkaitan sisa\n\nradioaktif dan pengurusan sisa yang terbit daripada penggunaan perubatan, industri\n\ndan penyelidikan dan apa-apa penggunaan lain yang dinyatakan oleh Lembaga.\n\nTafsiran\n\n3. Dalam Peraturan-Peraturan ini, melainkan jika konteksnya menghendaki makna\n\nyang lain―\n\n\"aras pembersihan\" ertinya satu nilai yang diwujudkan oleh Lembaga dan\n\ndinyatakan dalam sebutan kepekatan keaktifan atau jumlah keaktifan, yang pada atau\n\nbawahnya sumber sinaran boleh dilepaskan daripada kawalan Lembaga sebagaimana\n\nyang dinyatakan dalam Jadual Kedua;\n\n\"bekas\" ertinya tempat sisa radioaktif disimpan bagi pengendalian, pengangkutan,\n\npenyimpanan atau pelupusan dan ia merupakan komponen bungkusan sisa;\n\n\"buangan\" ertinya pelepasan efluen secara terus ke persekitaran yang\n\nkemudiannya tersebar;\n\n\"bungkusan sisa\" ertinya keluaran daripada perapian termasuk bentuk sisa, apaapa bekas dan sawar dalaman seperti bahan penyerap dan pelapik;\n\n\"inventori sisa\" ertinya rekod terperinci yang disenggara oleh pemegang lesen\n\nmengikut Jadual Keempat;\n\n\"jaminan kualiti\" ertinya semua tindakan yang terancang dan sistematik yang\n\ndiperlukan untuk memberikan keyakinan yang mencukupi bahawa bahan, keluaran,\n\nkemudahan, struktur, sistem, komponen, proses atau perkhidmatan akan memenuhi\n\nkehendak yang diperlukan bagi kualiti;\n\n\"Pegawai Pengurusan Sisa Radioaktif\" ertinya orang yang dilantik di bawah\n\nperaturan 6;\n\n\"pelupusan\" ertinya penempatan sisa radioaktif atau efluen yang dibuang secara\n\nterus;\n\n\"pemprosesan\" ertinya apa-apa kendalian yang mengubah ciri-ciri sisa radioaktif\n\ntermasuk prarawatan, rawatan dan perapian;\n\n\"pencirian\" ertinya penentuan sifat-sifat fizikal, kimia dan radiologi bagi sisa\n\nradioaktif untuk mewujudkan keperluan bagi penyesuaian pelarasan, rawatan, perapian\n\nyang selanjutnya, atau kesesuaiannya untuk pengendalian, pemprosesan, penyimpanan\n\natau pelupusan;\n\n\"pengasingan\" ertinya suatu kegiatan apabila sisa radioaktif dipisahkan atau\n\ndibiarkan terpisah mengikut sifat radiologi, kimia atau fizikal yang akan memudahkan\n\npengendalian atau pemprosesan sisa radioaktif;\n\n\"pengurusan sisa\" ertinya semua kegiatan, pentadbiran dan kendalian, yang\n\nmelibatkan pengendalian, prarawatan, rawatan, perapian, pengangkutan, penyimpanan\n\ndan pelupusan sisa radioaktif;\n\n\"penyimpanan\" ertinya penempatan sisa radioaktif dalam kemudahan yang\n\ndiluluskan oleh Lembaga di mana pemencilan, perlindungan persekitaran dan kawalan\n\noleh manusia disediakan dengan niat untuk mendapatkan semula sisa radioaktif;\n\n\"perapian\" ertinya apa-apa kendalian yang menghasilkan satu bungkusan sisa\n\nyang sesuai untuk pengendalian, pengangkutan, penyimpanan atau pelupusan;\n\n\"rawatan\" ertinya suatu proses dan kaedah yang mengubah ciri sisa radioaktif\n\nmelalui pengurangan isi padu, penyingkiran radionuklid daripada sisa radioaktif atau\n\nmengubah komposisi sisa radioaktif yang bertujuan untuk memberi manfaat dari segi\n\nkeselamatan dan ekonomi;\n\n\"sisa radioaktif\" ertinya benda atau artikel yang mengandungi radionuklid atau\n\nyang tercemar dengan radionuklid pada kepekatan keaktifan atau keaktifan yang\n\nmelebihi daripada aras pembersihan dan tidak akan digunakan lagi.\n\nBAHAGIAN II\n\nLESEN UNTUK MELUPUS\n\nLesen untuk melupus\n\n4. Tiada seorang pun boleh melupus atau menyebabkan dilupus sisa radioaktif\n\nmelainkan jika dia adalah pemegang lesen sah yang dikeluarkan oleh Lembaga\n\nmengikut Peraturan-Peraturan Perlindungan Sinaran (Perlesenan) 1986 [P.U. (A)\n\n149/1986].\n\nBAHAGIAN III\n\nTANGGUNGJAWAB PEMEGANG LESEN\n\nTanggungjawab pemegang lesen\n\n5. Pemegang lesen hendaklah bertanggungjawab kepada pengurusan sisa\n\nradioaktif yang selamat dan hendaklah mengambil segala langkah yang perlu untuk―\n\n(a) memastikan bahawa sisa radioaktif dilupuskan dalam masa satu tahun\n\ndaripada pengeluarannya;\n\n(b) memastikan perlindungan yang mencukupi terhadap pekerja, orang\n\nawam dan persekitaran;\n\n(c) memastikan bahawa kakitangan, peralatan, kemudahan, latihan dan\n\nprosedur kendalian yang sesuai disediakan untuk melaksanakan langkah\n\npengurusan sisa radioaktif yang selamat;\n\n(d) menjalankan penilaian keselamatan dan impak persekitaran;\n\n(e) mewujudkan dan menjalankan program jaminan kualiti bagi sisa\n\nradioaktif yang terjana atau pemprosesan, penyimpanan dan pelupusan\n\nsisa radioaktif;\n\n(f) mewujudkan dan menyimpan rekod maklumat yang berkenaan dengan\n\npenjanaan, pemprosesan, penyimpanan dan pelupusan sisa radioaktif\n\ntermasuklah inventori sisa radioaktif;\n\n(g) menyediakan pengawasan dan kawalan sebagaimana yang dikehendaki\n\noleh Lembaga;\n\n(h) mengumpul, menganalisis dan jika berkenaan, berkongsi pengalaman\n\npengendalian untuk memastikan keselamatan yang berterusan; dan\n\n(i) mematuhi apa-apa arahan yang dikeluarkan oleh Lembaga dari semasa ke\n\nsemasa.\n\nBAHAGIAN IV\n\nPEGAWAI PENGURUSAN SISA RADIOAKTIF\n\nPelantikan Pegawai Pengurusan Sisa Radioaktif\n\n6. (1) Pemegang lesen hendaklah melantik―\n\n(a) seorang Pegawai Perlindungan Sinaran yang dilantik di bawah\n\nPeraturan-Peraturan Pelesenan Tenaga Atom (Perlindungan\n\nSinaran Keselamatan Asas) 2010 [P.U. (A) 46/2010]; atau\n\n(b) seorang yang berkelayakan dan kompeten dari segi teknikal\n\nsebagaimana yang diluluskan oleh Lembaga,\n\nsebagai Pegawai Pengurusan Sisa Radioaktif .\n\n(2) Pegawai Pengurusan Sisa Radioaktif yang dilantik di bawah subperaturan\n\n(1) hendaklah diiktiraf oleh Lembaga.\n\nTanggungjawab Pegawai Pengurusan Sisa Radioaktif\n\n7. Pegawai Pengurusan Sisa Radioaktif hendaklah bertanggungjawab bagi―\n\n(a) memastikan bahawa semua peringkat pengurusan sisa radioaktif\n\ndijalankan mengikut tatacara keselamatan bertulis;\n\n(b) mewujudkan dan menyenggara suatu sistem penyimpanan rekod\n\nterperinci bagi semua peringkat pengurusan sisa radioaktif termasuklah\n\ninventori sisa radioaktif yang disimpan;\n\n(c) mendapatkan kebenaran secara bertulis terlebih dahulu daripada\n\nLembaga untuk mengangkut sisa radioaktif keluar dari premis pemegang\n\nlesen;\n\n(d) memastikan pemerisaian perlabelan, keselamatan fizikal dan keutuhan\n\nbungkusan sisa radioaktif adalah sesuai;\n\n(e) memastikan bahawa buangan efluen dijalankan mengikut aras\n\npembersihan atau had yang dibenarkan sebagaimana yang terkandung\n\ndalam lesen yang dikeluarkan oleh Lembaga;\n\n(f) memastikan bahawa pelepasan atau pelupusan sisa radioaktif pepejal\n\ndibuat mengikut aras pembersihan atau had yang dibenarkan\n\nsebagaimana yang terkandung dalam lesen yang dikeluarkan oleh\n\nLembaga;\n\n(g) melaporkan kemalangan dan amalan pengurusan sisa radioaktif yang\n\ntidak sesuai kepada pemegang lesen;\n\n(h) memastikan pengetahuan terkini mengenai pilihan ciri-ciri buangan dan\n\npelupusan; dan\n\n(i) mematuhi apa-apa arahan yang dikeluarkan oleh Lembaga dari semasa ke\n\nsemasa.\n\nBAHAGIAN V\n\nKAWALAN PENJANAAN SISA RADIOAKTIF\n\nKawalan penjanaan sisa radioaktif\n\n8. (1) Pemegang lesen hendaklah memastikan bahawa penjanaan sisa radioaktif\n\ndan kesannya terhadap persekitaran adalah seminimum yang mungkin.\n\n(2) Pemegang lesen hendaklah memastikan sumber terkedap terpakai tidak\n\ndileraikan.\n\nBAHAGIAN VI\n\nGUNA SEMULA DAN KITAR SEMULA BAHAN RADIOAKTIF\n\nGuna semula dan kitar semula\n\n9. Pemegang lesen hendaklah, sebelum mengisytiharkan bahan radioaktif termasuk\n\nsumber terkedap sebagai sisa radioaktif, mempertimbangkan sama ada dia atau manamana orang lain boleh menggunakan atau mengitar semula bahan radioaktif itu.\n\nPemindahan bahan radioaktif\n\n10. (1) Sekiranya pemegang lesen memutuskan untuk memindahkan bahan\n\nradioaktif kepada mana-mana orang lain, pemegang lesen itu hendaklah mendapatkan\n\nkelulusan Lembaga terlebih dahulu sebelum pemindahan itu.\n\n(2) Pemegang lesen hendaklah memastikan bahawa orang yang kepadanya\n\nbahan radioaktif itu hendak dipindahkan mempunyai lesen yang sah.\n\n(3) Jika pemegang lesen tidak dapat memindahkan bahan radioaktif itu\n\nkepada orang sebagaimana yang telah dikenal pasti di bawah subperaturan (1),\n\npemegang lesen hendaklah mengisytiharkan bahan radioaktif itu sebagai sisa radioaktif\n\natau mengekalkannya sebagai bahan radioaktif.\n\n(4) Pemegang lesen hendaklah, selepas pengisytiharan di bawah\n\nsubperaturan (3), memperoleh kelulusan daripada Lembaga terlebih dahulu sebelum\n\nmenghantar sisa radioaktif itu ke kemudahan pengurusan sisa radioaktif yang\n\ndiluluskan oleh Lembaga.\n\nBAHAGIAN VII\n\nPENGURUSAN SUMBER TERKEDAP TERPAKAI\n\nPemulangan sumber terkedap terpakai\n\n11. Mana-mana orang yang bercadang untuk memperoleh sumber terkedap yang\n\nmengandungi bahan radioaktif yang mempunyai keaktifan lebih besar daripada\n\n100 Megabecquerel hendaklah –\n\n(a) menghendaki pembekal, supaya memasukkan suatu syarat dalam\n\nperjanjian bagi pembelian atau dalam dokumen bagi penerimaan sumber\n\nterkedap sebagai hadiah, untuk menerima semula sumber terkedap\n\ntersebut dalam masa tiga bulan dari tarikh permintaan pemulangan yang\n\ndibuat oleh pembeli atau penerima;\n\n(b) menghantar satu salinan bahagian yang berkaitan perjanjian atau\n\ndokumen penerimaan sumber terkedap itu kepada Lembaga dan\n\nmemperoleh kebenaran bertulis Lembaga sebelum membuat perjanjian\n\natau menerima sumber terkedap itu; dan\n\n(c) memulangkan sumber terkedap terpakai itu dalam tempoh yang\n\ndinyatakan dalam perenggan (a).\n\nPemindahan ke kemudahan pengurusan sisa radioaktif\n\n12. (1) Sekiranya seseorang pemegang lesen tidak dapat memulangkan sumber\n\nterkedap terpakai kepada pembekalnya, pemegang lesen itu hendaklah memperoleh\n\nsuatu kelulusan bertulis daripada Lembaga terlebih dahulu sebelum menghantar\n\nsumber terkedap terpakai itu ke kemudahan pengurusan sisa radioaktif.\n\n(2) Kemudahan pengurusan sisa radioaktif di bawah subperaturan (1)\n\nhendaklah diluluskan oleh Lembaga.\n\nBAHAGIAN VIII\n\nBUANGAN DAN PELUPUSAN SISA RADIOAKTIF\n\nHad buangan\n\n13. (1) Pemegang lesen hendaklah memastikan bahawa―\n\n(a) buangan itu tidak lebih daripada 1 meter padu sisa radioaktif\n\nmengikut aras pembersihan sebagaimana yang diperuntukkan\n\ndalam Jadual Kedua atau apa-apa jumlah isi padu yang lebih besar\n\nsebagaimana yang dibenarkan dalam lesen, dilepaskan ke\n\npersekitaran; dan\n\n(b) jumlah nisbah buangan bagi radionuklid bercampur mestilah tidak\n\nmelebihi 1 mengikut pengiraan sebagaimana dalam Jadual Ketiga.\n\n(2) Pemegang lesen hendaklah memperoleh kebenaran daripada Lembaga\n\nsebelum melepaskan, membuang atau melupuskan lebih daripada 1 meter padu sisa\n\nradioaktif ke persekitaran.\n\n(3) Lembaga boleh menghendaki pemegang lesen supaya mengemukakan\n\nbutir-butir mengenai pelepasan, buangan atau pelupusan yang dicadangkan di bawah\n\nsubperaturan (2) sebelum memberikan kebenaran.\n\n(4) Pemegang lesen dalam melepaskan, membuang atau melupuskan sisa\n\nradioaktif di bawah subperaturan (2) hendaklah mematuhi aras pembersihan dalam\n\nsetiap tahun kalendar.\n\nBuangan dan pemantauan sisa radioaktif\n\n14. Pemegang lesen hendaklah―\n\n(a) memastikan semua sisa buangan radioaktif adalah serendah yang\n\nsemunasabahnya dapat dicapai di bawah had yang dibenarkan; dan\n\n(b) mengawasi dan merekodkan sisa radioaktif yang dibuang dengan butirbutir yang mencukupi dan tepat bagi membuktikan pematuhan had yang\n\ndibenarkan dan bagi menyediakan anggaran dedahan kepada orang\n\nawam.\n\nSifat bukan radiologi sisa radioaktif\n\n15. Jika keradioaktifan dalam bentuk bahan radioaktif atau sisa radioaktif hendak\n\ndilepaskan, dibuang atau dilupuskan ke persekitaran, pemegang lesen hendaklah\n\nmempertimbangkan sifat bukan radiologi bahan tersebut dan hendaklah mematuhi\n\nsemua undang-undang lain yang berkaitan dengan sifat itu.\n\nSisa radioaktif yang tidak sesuai untuk pelepasan, buangan atau pelupusan\n\n16. Jika sisa radioaktif tidak sesuai untuk dilepaskan, dibuang atau dilupuskan ke\n\npersekitaran dalam masa satu tahun dari pewujudannya atau pada bila-bila masa yang\n\nlebih lama sebagaimana yang diluluskan oleh Lembaga, pemegang lesen hendaklah -\n\n(a) mengemukakan suatu cadangan dan memperoleh kelulusan daripada\n\nLembaga bagi pelupusan sisa radioaktif; dan\n\n(b) mematuhi mana-mana kehendak yang dibuat oleh Lembaga mengenai\n\nrawatan dan pelupusan sisa radioaktif selanjutnya.\n\nBAHAGIAN IX\n\nPENGURUSAN SISA RADIOAKTIF\n\nPengasingan sisa radioaktif\n\n17. (1) Pemegang lesen hendaklah mengelaskan sisa radioaktif sebagaimana\n\nyang ditetapkan dalam Jadual Pertama dan mengasingkan sisa radioakatif\n\nmenggunakan asas di bawah subperaturan (2) dan mengikut apa-apa kehendak lain\n\nsebagaimana yang dikehendaki oleh Lembaga.\n\n(2) Sisa radioaktif hendaklah dikategorikan berdasarkan kepada sifat\n\nradiologi, fizikal, kimia dan biologi.\n\nBekas sisa radioaktif\n\n18. (1) Setiap sisa radioaktif selepas pengasingan di bawah subperaturan 17(1),\n\nhendaklah disimpan secara berasingan di dalam bekas yang berlainan.\n\n(2) Setiap bekas hendaklah―\n\n(a) ditandakan dengan jelas dan unik dengan butir-butir seperti\n\nkeaktifan, jenis radionuklid, separuh hayat, bentuk fizikal dan\n\nkimia dan bahaya bukan radiologi;\n\n(b) mempunyai simbol sinaran;\n\n(c) kuat;\n\n(d) sesuai dengan sisa radioaktif tersebut; dan\n\n(e) boleh diisi dan dikosongkan dengan selamat sepanjang tempoh\n\nyang dijangka dalam penyimpanan termasuklah penyediaan\n\npemerisaian yang mencukupi sebagaimana yang sesuai.\n\nRekod bekas sisa radioaktif\n\n19. Pemegang lesen hendaklah menyimpan dan menyenggara rekod bagi setiap\n\nbekas sisa radioaktif yang mengandungi butir-butir yang berikut:\n\n(a) pengenalan nombornya yang unik dan kelas sisa radioaktif;\n\n(b) jenis radionuklid, jika boleh dilaksanakan berdasarkan asas masingmasing tetapi jika tidak secara kumpulan atau keseluruhan;\n\n(c) keaktifan setiap radionuklid atau kumpulan radionuklid, cara pengukuran\n\natau anggaran dan tarikh pengukuran atau anggaran;\n\n(d) asal sisa radioaktif seperti daripada kemudahan, makmal, bilik dan orang;\n\n(e) bahaya sebenar atau potensi bahaya yang lain termasuklah yang bersifat\n\nkimia, patogenik dan berjangkit;\n\n(f) kadar dos pada 1 meter dan tarikh pengukuran;\n\n(g) keputusan pengukuran pencemaran permukaan;\n\n(h) kuantiti sisa radioaktif dari segi bilangan unit, jisim dan isi padu; dan\n\n(i) nama Pegawai Pengurusan Sisa Radioaktif yang membuat pencirian\n\nkandungan bekas sisa radioaktif dan yang menyediakan rekod.\n\nPenambahbaikan ciri sisa radioaktif\n\n20. Pemegang lesen hendaklah memastikan bahawa rawatan dan perapian sisa\n\nradioaktif dijalankan jika perlu untuk menambah baik ciri sisa radioaktif sebelum\n\npenyimpanan dan memenuhi kehendak Lembaga bagi penyimpanan dan pelupusan.\n\nLokasi penyimpanan sisa radioaktif\n\n21. Pemegang lesen hendaklah memastikan bahawa sisa radioaktif disimpan dengan\n\nmengikut apa-apa cara untuk melindungi kesihatan manusia dan persekitaran dan\n\nterutamanya tidak boleh disimpan di sekitar bahan mengakis, mudah meletup atau\n\nmudah terbakar dan juga di kawasan yang mudah berlaku bencana alam.\n\nKemudahan penyimpanan\n\n22. Pemegang lesen hendaklah menyediakan kemudahan khas atau kemudahan lain\n\nbagi penyimpanan sisa radioaktif yang hendaklah―\n\n(a) ditandakan dengan jelas;\n\n(b) mempunyai simbol sinaran;\n\n(c) mempunyai akses terkawal; dan\n\n(d) membolehkan pemisahan sisa radioaktif yang belum dirawat dan yang\n\ntelah dirawat.\n\nPenyimpanan selamat sisa radioaktif\n\n23. Pemegang lesen hendaklah memastikan bahawa―\n\n(a) bahan dan binaan bekas penyimpanan sisa radioaktif hendaklah\n\nmenjamin keutuhan bungkusan sisa radioaktif dikekalkan sepanjang\n\ntempoh simpanan yang dijangkakan;\n\n(b) jenis sisa radioaktif seperti kaca atau benda tajam disimpan dalam bekas\n\nluaran yang mempunyai pelapik dalaman kalis tusukan;\n\n(c) jika sisa radioaktif boleh mengakis atau sepai di dalam bekas atau jika\n\npenyimpanan berkemungkinan berpanjangan, satu pelapik yang sesuai\n\ndigunakan bagi mengekalkan keutuhan kandungan sepanjang tempoh\n\nsimpanan yang dijangkakan;\n\n(d) sumber terkedap terpakai disimpan dalam pemerisaian terdekat di dalam\n\nbekas untuk mengurangkan dedahan dan membantu pengendalian pada\n\nmasa hadapan; dan\n\n(e) permukaan dalaman dan luaran semua bekas telah diperiksa\n\npencemarannya setiap kali sebelum bekas digunakan atau digunakan\n\nsemula.\n\nBAHAGIAN X\n\nPENGANGKUTAN SISA RADIOAKTIF\n\nPengangkutan sisa radioaktif\n\n24. Pemegang lesen hendaklah memastikan bahawa apa-apa pengangkutan sisa\n\nradioaktif dari premisnya adalah mengikut undang-undang bertulis mengenai\n\npengangkutan sisa radioaktif.\n\nBAHAGIAN XI\n\nJAMINAN KUALITI\n\nProgram jaminan kualiti\n\n25. (1) Mana-mana orang yang memohon lesen yang berhubungan dengan\n\npengurusan sisa radioaktif hendaklah mengemukakan suatu program jaminan kualiti\n\nbertulis yang setara dengan skala pengendalian yang dirancang kepada Lembaga untuk\n\nkelulusan.\n\n(2) Pemegang lesen hendaklah membuktikan cara pematuhan yang\n\ndirancangkan mengikut semua kehendak termasuklah perlaksanaan program jaminan\n\nkualiti yang dikemukakan berkenaan dengan sisa radioaktif yang dikenakan kepada\n\npemegang lesen oleh Peraturan-Peraturan ini.\n\n(3) Pemegang lesen hendaklah, apabila diminta oleh Lembaga mengemukakan\n\nlaporan mengenai keberkesanan program jaminan kualiti berkenaan dengan kegiatan\n\npengurusan sisa radioaktif untuk menunjukkan bahawa pemegang lesen sentiasa\n\nmemenuhi semua kehendak Peraturan-Peraturan ini.\n\nBAHAGIAN XII\n\nKESELAMATAN DAN PERLINDUNGAN FIZIKAL\n\nKeselamatan dan perlindungan sisa radioaktif\n\n26. Pemegang lesen hendaklah mengambil segala langkah untuk memastikan\n\nkeselamatan dan perlindungan sisa radioaktif yang ada dalam milikannya atau di bawah\n\nkawalannya bagi―\n\n(a) menghalang orang yang tidak dibenarkan mendapat akses ke kawasan\n\nsimpanan sisa radioaktif; dan\n\n(b) melindungi sisa radioaktif daripada kecurian, kehilangan dan sabotaj.\n\nPemberitahuan dan laporan mengenai kecurian, kehilangan atau sabotaj\n\n27. (1) Pemegang lesen hendaklah, apabila menyedari apa-apa kecurian,\n\nkehilangan atau sabotaj kepada mana-mana sisa radioaktif yang ada dalam milikannya\n\natau di bawah kawalannya―\n\n(a) memberitahu Lembaga tentang kecurian, kehilangan atau sabotaj\n\nitu sebaik selepas menyedari kecurian, kehilangan atau sabotaj itu;\n\n(b) mengambil tindakan bagi mendapatkan kembali sisa radioaktif itu\n\ndan mengawal kemudahan itu jika perlu; dan\n\n(c) mengemukakan suatu laporan yang lengkap tentang kecurian,\n\nkehilangan atau sabotaj itu secara bertulis kepada Lembaga dalam\n\nmasa tiga puluh hari selepas pemberitahuan kepada Lembaga.\n\n(2) Laporan yang hendaklah dikemukakan oleh pemegang lesen di bawah\n\nperenggan (1)(c) hendaklah mengandungi―\n\n(a) jika berkenaan, suatu perihalan tentang sisa radioaktif, termasuk\n\njenis, kuantiti dan bentuk kimia dan fizikalnya;\n\n(b) suatu perihalan tentang hal keadaan kecurian, kehilangan atau\n\nsabotaj itu terjadi;\n\n(c) suatu pernyataan tentang lokasi atau lokasi yang mungkin bagi\n\nsisa radioaktif itu;\n\n(d) dedahan sinaran yang mungkin berlaku kepada individu, hal\n\nkeadaan yang dedahan mungkin berlaku, dan takat potensi bahaya\n\nkepada orang awam itu;\n\n(e) tindakan yang telah diambil, atau yang akan diambil, untuk\n\nmendapatkan kembali sisa radioaktif itu;\n\n(f) tatacara atau langkah yang telah atau akan diterima pakai untuk\n\nmenghalang berulangnya kecurian, kehilangan atau sabotaj sisa\n\nradioaktif itu; dan\n\n(g) apa-apa maklumat lain yang disifatkan perlu oleh pemegang lesen\n\natau Lembaga.\n\nBAHAGIAN XIII\n\nREKOD DAN LAPORAN\n\nPengemukaan borang inventori sisa radioaktif\n\n28. Pemegang lesen hendaklah mengemukakan―\n\n(a) borang inventori sisa radioaktif tidak lewat dari 1 Mac tahun berikutnya;\n\ndan\n\n(b) borang inventori sisa radioaktif yang terkini yang berhubungan dengan\n\nsisa radioaktif yang ada dalam milikannya tidak kurang daripada tiga\n\npuluh hari dan tidak lebih daripada enam puluh hari sebelum tamat\n\ntempoh lesen,\n\nkepada Lembaga sebagaimana yang ditetapkan dalam Jadual Keempat.\n\nPengemukaan rekod pelepasan, buangan atau pelupusan sisa radioaktif\n\n29. Pemegang lesen hendaklah mengemukakan kepada Lembaga suatu rekod\n\npelepasan, buangan atau pelupusan sisa radioaktif yang dibersihkan sebagaimana yang\n\nditetapkan dalam Jadual Kelima tidak lewat dari 1 Mac tahun yang berikutnya.\n\nLaporan mengenai pelepasan, buangan atau pelupusan yang tidak dibenarkan\n\n30. Jika pemegang lesen mempunyai alasan yang munasabah untuk mempercayai\n\nbahawa―\n\n(a) lebih daripada 1 meter padu sisa radioaktif yang melebihi aras\n\npembersihan telah dilepaskan;\n\n(b) apa-apa isi padu sisa radioaktif yang lebih besar daripada had yang\n\ndibenarkan dalam lesen telah dilepaskan; atau\n\n(c) sisa radioaktif yang telah dibuang atau dilupuskan ke persekitaran adalah\n\nmelebihi had yang dibenarkan,\n\npemegang lesen hendaklah memberitahu Lembaga dalam masa dua puluh empat jam\n\nselepas menyedari kejadian itu dan mengemukakan laporan bertulis mengenai perkara\n\nitu dan tindakan yang telah diambil kepada Lembaga dalam masa tiga puluh hari\n\nselepas Lembaga diberitahu.\n\nBAHAGIAN XIV\n\nPELAN DAN TATACARA KECEMASAN\n\nTindak balas kecemasan\n\n31. Pemegang lesen hendaklah memberi tindak balas kepada semua kecemasan\n\nyang melibatkan sisa radioaktif sebagaimana yang diperuntukkan oleh PeraturanPeraturan Pelesenan Tenaga Atom (Perlindungan Sinaran Keselamatan Asas) 2010\n\n[P.U. (A) 46/2010].\n\nBAHAGIAN XV\n\nPENGHENTIAN OPERASI , PEMBUBARAN ATAU PENINGGALAN\n\nKEMUDAHAN BERLESEN\n\nPenghentian operasi, pembubaran atau peninggalan kemudahan berlesen\n\n32. Pemegang lesen tidak boleh menghentikan operasi, membubarkan, atau\n\nmeninggalkan kemudahan berlesennya yang melibatkan sistem pengurusan sisa\n\nberlesen atau kemudahan pengurusan sisa radioaktif kecuali sebagaimana yang\n\ndiperuntukkan oleh Peraturan-Peraturan Pelesenan Tenaga Atom (Perlindungan\n\nSinaran Keselamatan Asas) 2010 [P.U. (A) 46/2010].\n\nJADUAL PERTAMA\n\nPENGELASAN SISA RADIOAKTIF\n\n(Subperaturan 17(1) dan Jadual Keempat)\n\nKelas Keterangan\n\nSisa yang Dibersihkan Bahan yang mengandungi aras radionuklid\n\npada kepekatan keaktifan yang kurang\n\ndaripada yang dinyatakan dalam Jadual Kedua.\n\nSisa Aras Rendah (Hayat\n\nPendek)/Sisa Reput\n\nSisa radioaktif aras rendah yang mengandungi\n\nradionuklid hayat pendek sahaja (separuh\n\nhayat kurang daripada 100 hari) yang akan\n\nmereput ke aras pembersihan dalam masa tiga\n\ntahun selepas masa penjanaannya.\n\nSisa Hayat Pendek Aras Rendah dan\n\nPertengahan (LILW-SL)\n\nSisa radioaktif yang tidak akan mereput ke aras\n\npembersihan dalam masa tiga tahun yang\n\nmengandungi radionuklid yang memancar\n\nbeta/gama dengan separuh hayat kurang\n\ndaripada tiga puluh tahun atau radionuklid\n\nyang memancar alfa yang mempunyai\n\nkepekatan keaktifan kurang daripada 400Bq/g\n\ndan jumlah keaktifan di dalam setiap\n\nbungkusan sisa radioaktif kurang daripada\n\n4000 Bq.\n\nSisa Hayat Panjang Aras Rendah dan\n\nPertengahan (LILW-LL)\n\nSisa radioaktif yang mengandungi radionuklid\n\ndengan kepekatan keaktifan lebih daripada\n\nLILW-SL tetapi tidak menghasilkan haba\n\nmelebihi 2kW/m3.\n\nSisa Aras Tinggi (HLW) Sisa radioaktif yang mengandungi radionuklid\n\ndengan kepekatan keaktifan lebih daripada\n\nLILW-SL yang menghasilkan haba melebihi\n\n2kW/m3.\n\nJADUAL KEDUA\n\nARAS PEMBERSIHAN SISA RADIOAKTIF\n\n(Peraturan 3, perenggan 13(1)(a), Jadual Pertama dan Ketiga)\n\nNuklid\n\nKepekatan\n\nKeaktifan\n\n(Bq/g)\n\nKeaktifan\n\n(Bq)\n\nNuklid\n\nKepekatan\n\nKeaktifan\n\n(Bq/g)\n\nKeaktifan\n\n(Bq)\n\nH-3 1 × 106 1 × 109 Fe-52 1 × 101 1 × 106\n\nBe-7 1 × 103 1 × 107 Fe-55 1 × 104 1 × 106\n\nC-14 1 × 104 1 × 107 Fe-59 1 × 101 1 × 106\n\nO-15 1 × 102 1 × 109 Co-55 1 × 101 1 × 106\n\nF-18 1 × 101 1 × 106 Co-56 1 × 101 1 × 105\n\nNa-22 1 × 101 1 × 106 Co-57 1 × 102 1 × 106\n\nNa-24 1 × 101 1 × 105 Co-58 1 × 101 1 × 106\n\nSi-31 1 × 103 1 × 106 Co-58m\n\n1 × 104 1 × 107\n\nP-32 1 × 103 1 × 105 Co-60 1 × 101 1 × 105\n\nP-33 1 × 105 1 × 108 Co-60m\n\n1 × 103 1 × 106\n\nS-35 1 × 105 1 × 108 Co-61 1 × 102 1 × 106\n\nCl-36 1 × 104 1 × 106 Co-62m\n\n1 × 101 1 × 105\n\nCl-38 1 × 101 1 × 105 Ni-59 1 × 104 1 × 108\n\nAr-37 1 × 106 1 × 108 Ni-63 1 × 105 1 × 108\n\nAr-41 1 × 102 1 × 109 Ni-65 1 × 101 1 × 106\n\nK-40 1 × 102 1 × 106 Cu-64 1 × 102 1 × 106\n\nK-42 1 × 102 1 × 106 Zn-65 1 × 101 1 × 106\n\nK-43 1 × 101 1 × 106 Zn-69 1 × 104 1 × 106\n\nCa-45 1 × 104 1 × 107 Zn-69m\n\n1 × 102 1 × 106\n\nCa-47 1 × 101 1 × 106 Ga-72 1 × 101 1 × 105\n\nSc-46 1 × 101 1 × 106 Ge-71 1 × 104 1 × 108\n\nSc-47 1 × 102 1 × 106 As-73 1 × 103 1 × 107\n\nSc-48 1 × 101 1 × 105 As-74 1 × 101 1 × 106\n\nV-48 1 × 101 1 × 105 As-76 1 × 102 1 × 105\n\nCr-51 1 × 103 1 × 107 As-77 1 × 103 1 × 106\n\nMn-51 1 × 101 1 × 105 Se-75 1 × 102 1 × 106\n\nMn-52 1 × 101 1 × 105 Br-82 1 × 101 1 × 106\n\nMn-52m\n\n1 × 101 1 × 105 Kr-74 1 × 102 1 × 109\n\nMn-53 1 × 104 1 × 109 Kr-76 1 × 102 1 × 109\n\nMn-54 1 × 101 1 × 106 Kr-77 1 × 102 1 × 109\n\nMn-56 1 × 101 1 × 105 Kr-79 1 × 103 1 × 105\n\nKr-81 1 × 104 1 × 107 Tc-97 1 × 103 1 × 108\n\nKr-83m\n\n1 × 105 1 × 1012 Tc-97m1 × 103 1 × 107\n\nKr-85 1 × 105 1 × 104 Tc-99 1 × 104 1 × 107\n\nNuklid\n\nKepekatan\n\nKeaktifan\n\n(Bq/g)\n\nKeaktifan\n\n(Bq)\n\nNuklid\n\nKepekatan\n\nKeaktifan\n\n(Bq/g)\n\nKeaktifan\n\n(Bq)\n\nKr-85m\n\n1 × 103 1 × 1010 Tc-99m1 × 102 1 × 107\n\nKr-87 1 × 102 1 × 109 Ru-97 1 × 102 1 × 107\n\nKr-88 1 × 102 1 × 109 Ru-103 1 × 102 1 × 106\n\nRb-86 1 × 102 1 × 105 Ru-105 1 × 101 1 × 106\n\nSr-85 1 × 102 1 × 106 Ru-106a\n\n1 × 102 1 × 105\n\nSr-85m\n\n1 × 102 1 × 107 Rh-103m1 × 104 1 × 108\n\nSr-87m\n\n1 × 102 1 × 106 Rh-105 1 × 102 1 × 107\n\nSr-89 1 × 103 1 × 106 Pd-103 1 × 103 1 × 108\n\nSr-90a\n\n1 × 102 1 × 104 Pd-109 1 × 103 1 × 106\n\nSr-91 1 × 101 1 × 105 Ag-105 1 × 102 1 × 106\n\nSr-92 1 × 101 1 × 106 Ag-110m\n\n1 × 101 1 × 106\n\nY-90 1 × 103 1 × 105 Ag-111 1 × 103 1 × 106\n\nY-91 1 × 103 1 × 106 Cd-109 1 × 104 1 × 106\n\nY-91m\n\n1 × 102 1 × 106 Cd-115 1 × 102 1 × 106\n\nY-92 1 × 102 1 × 105 Cd-115m\n\n1 × 103 1 × 106\n\nY-93 1 × 102 1 × 105 In-111 1 × 102 1 × 106\n\nZr-93a\n\n1 × 103 1 × 107 In-113m1 × 102 1 × 106\n\nZr-95 1 × 101 1 × 106 In-114m\n\n1 × 102 1 × 106\n\nZr-97a\n\n1 × 101 1 × 105 In-115m1 × 102 1 × 106\n\nNb-93m\n\n1 × 104 1 × 107 Sn-113 1 × 103 1 × 107\n\nNb-94 1 × 101 1 × 106 Sn-125 1 × 102 1 × 105\n\nNb-95 1 × 101 1 × 106 Sb-122 1 × 102 1 × 104\n\nNb-97 1 × 101 1 × 106 Sb-124 1 × 101 1 × 106\n\nNb-98 1 × 101 1 × 105 Sb-125 1 × 102 1 × 106\n\nMo-90 1 × 101 1 × 106 Te-123m\n\n1 × 102 1 × 107\n\nMo-93 1 × 103 1 × 108 Te-125m\n\n1 × 103 1 × 107\n\nMo-99 1 × 102 1 × 106 Te-127 1 × 103 1 × 106\n\nMo-101 1 × 101 1 × 106 Te-127m\n\n1 × 103 1 × 107\n\nTc-96 1 × 101 1 × 106 Te-129 1 × 102 1 × 106\n\nTc-96m\n\n1 × 103 1 × 107 Te-129m1 × 103 1 × 106\n\nTe-131 1 × 102 1 × 105 Ce-143 1 × 102 1 × 106\n\nTe-131m\n\n1 × 101 1 × 106 Ce-144a1 × 102 1 × 105\n\nTe-132 1 × 102 1 × 107 Pr-142 1 × 102 1 × 105\n\nTe-133 1 × 101 1 × 105 Pr-143 1 × 104 1 × 106\n\nTe-133m\n\n1 × 101 1 × 105 Nd-147 1 × 102 1 × 106\n\nTe-134 1 × 101 1 × 106 Nd-149 1 × 102 1 × 106\n\nI-123 1 × 102 1 × 107 Pm-147 1 × 104 1 × 107\n\nNuklid\n\nKepekatan\n\nKeaktifan\n\n(Bq/g)\n\nKeaktifan\n\n(Bq)\n\nNuklid\n\nKepekatan\n\nKeaktifan\n\n(Bq/g)\n\nKeaktifan\n\n(Bq)\n\nI-125 1 × 103 1 × 106 Pm-149 1 × 103 1 × 106\n\nI-126 1 × 102 1 × 106 Sm-151 1 × 104 1 × 108\n\nI-129 1 × 102 1 × 105 Sm-153 1 × 102 1 × 106\n\nI-130 1 × 101 1 × 106 Eu-152 1 × 101 1 × 106\n\nI-131 1 × 102 1 × 106 Eu-152m\n\n1 × 102 1 × 106\n\nI-132 1 × 101 1 × 105 Eu-154 1 × 101 1 × 106\n\nI-133 1 × 101 1 × 106 Eu-155 1 × 102 1 × 107\n\nI-134 1 × 101 1 × 105 Gd-153 1 × 102 1 × 107\n\nI-135 1 × 101 1 × 106 Gd-159 1 × 103 1 × 106\n\nXe-131m\n\n1 × 104 1 × 104 Tb-160 1 × 101 1 × 106\n\nXe-133 1 × 103 1 × 104 Dy-165 1 × 103 1 × 106\n\nXe-135 1 × 103 1 × 1010 Dy-166 1 × 103 1 × 106\n\nCs-129 1 × 102 1 × 105 Ho-166 1 × 103 1 × 105\n\nCs-131 1 × 103 1 × 106 Er-169 1 × 104 1 × 107\n\nCs-132 1 × 101 1 × 105 Er-171 1 × 102 1 × 106\n\nCs-134m\n\n1 × 103 1 × 105 Tm-170 1 × 103 1 × 106\n\nCs-134 1 × 101 1 × 104 Tm-171 1 × 104 1 × 108\n\nCs-135 1 × 104 1 × 107 Yb-175 1 × 103 1 × 107\n\nCs-136 1 × 101 1 × 105 Lu-177 1 × 103 1 × 107\n\nCs-137a\n\n1 × 101 1 × 104 Hf-181 1 × 101 1 × 106\n\nCs-138 1 × 101 1 × 104 Ta-182 1 × 101 1 × 104\n\nBa-131 1 × 102 1 × 106 W-181 1 × 103 1 × 107\n\nBa-140a\n\n1 × 101 1 × 105 W-185 1 × 104 1 × 107\n\nLa-140 1 × 101 1 × 105 W-187 1 × 102 1 × 106\n\nCe-139 1 × 102 1 × 106 Re-186 1 × 103 1 × 106\n\nCe-141 1 × 102 1 × 107 Re-188 1 × 102 1 × 105\n\nOs-185 1 × 101 1 × 106 Rn-222a 1 × 101 1 × 108\n\nOs-191 1 × 102 1 × 107 Ra-223a 1 × 102 1 × 105\n\nOs-191m 1 × 103 1 × 107 Ra-224a 1 × 101 1 × 105\n\nOs-193 1 × 102 1 × 106 Ra-225 1 × 102 1 × 105\n\nIr-190 1 × 101 1 × 106 Ra-226a 1 × 101 1 × 104\n\nIr-192 1 × 101 1 × 104 Ra-227 1 × 102 1 × 106\n\nIr-194 1 × 102 1 × 105 Ra-228a 1 × 101 1 × 105\n\nPt-191 1 × 102 1 × 106 Ac-228 1 × 101 1 × 106\n\nPt-193m 1 × 103 1 × 107 Th-226a 1 × 103 1 × 107\n\nPt-197 1 × 103 1 × 106 Th-227 1 × 101 1 × 104\n\nPt-197m 1 × 102 1 × 106 Th-228a 1 × 100 1 × 104\n\nNuklid\n\nKepekatan\n\nKeaktifan\n\n(Bq/g)\n\nKeaktifan\n\n(Bq)\n\nNuklid\n\nKepekatan\n\nKeaktifan\n\n(Bq/g)\n\nKeaktifan\n\n(Bq)\n\nAu-198 1 × 102 1 × 106 Th-229a 1 × 100 1 × 103\n\nAu-199 1 × 102 1 × 106 Th-230 1 × 100 1 × 104\n\nHg-197 1 × 102 1 × 107 Th-231 1 × 103 1 × 107\n\nHg-197m 1 × 102 1 × 106 Th-nat 1 × 100 1 × 103\n\nHg-203 1 × 102 1 × 105 (termasuk Th232)\n\nTl-200 1 × 101 1 × 106 Th-234a 1 × 103 1 × 105\n\nTl-201 1 × 102 1 × 106 Pa-230 1 × 101 1 × 106\n\nTl-202 1 × 102 1 × 106 Pa-231 1 × 100 1 × 103\n\nTl-204 1 × 104 1 × 104 Pa-233 1 × 102 1 × 107\n\nPb-203 1 × 102 1 × 106 U-230a 1 × 101 1 × 105\n\nPb-210a 1 × 101 1 × 104 U-231 1 × 102 1 × 107\n\nPb-212a 1 × 101 1 × 105 U-232a 1 × 100 1 × 103\n\nBi-206 1 × 101 1 × 105 U-233 1 × 101 1 × 104\n\nBi-207 1 × 101 1 × 106 U-234 1 × 101 1 × 104\n\nBi-210 1 × 103 1 × 106 U-235a 1 × 101 1 × 104\n\nBi-212a 1 × 101 1 × 105 U-236 1 × 101 1 × 104\n\nPo-203 1 × 101 1 × 106 U-237 1 × 102 1 × 106\n\nPo-205 1 × 101 1 × 106 U-238a 1 × 101 1 × 104\n\nPo-207 1 × 101 1 × 106 U-nat 1 × 100 1 × 103\n\nPo-210 1 × 101 1 × 104 U-239 1 × 102 1 × 106\n\nAt-211 1 × 103 1 × 107 U-240 1 × 103 1 × 107\n\nRn-220a 1 × 104 1 × 107 U-240a 1 × 101 1 × 106\n\nNp-237a\n\n1 × 100 1 × 103 Cm-244 1 × 101 1 × 104\n\nNp-239 1 × 102 1 × 107 Cm-245 1 × 100 1 × 103\n\nNp-240 1 × 101 1 × 106 Cm-246 1 × 100 1 × 103\n\nPu-234 1 × 102 1 × 107 Cm-247 1 × 100 1 × 104\n\nPu-235 1 × 102 1 × 107 Cm-248 1 × 100 1 × 103\n\nPu-236 1 × 101 1 × 104 Bk-249 1 × 103 1 × 106\n\nPu-237 1 × 103 1 × 107 Cf-246 1 × 103 1 × 106\n\nPu-238 1 × 100 1 × 104 Cf-248 1 × 101 1 × 104\n\nPu-239 1 × 100 1 × 104 Cf-249 1 × 100 1 × 103\n\nPu-240 1 × 100 1 × 103 Cf-250 1 × 101 1 × 104\n\nPu-241 1 × 102 1 × 105 Cf-251 1 × 100 1 × 103\n\nPu-242 1 × 100 1 × 104 Cf-252 1 × 101 1 × 104\n\nPu-243 1 × 103 1 × 107 Cf-253 1 × 102 1 × 105\n\nPu-244 1 × 100 1 × 104 Cf-254 1 × 100 1 × 103\n\nAm-241 1 × 100 1 × 104 Es-253 1 × 102 1 × 105\n\nNuklid\n\nKepekatan\n\nKeaktifan\n\n(Bq/g)\n\nKeaktifan\n\n(Bq)\n\nNuklid\n\nKepekatan\n\nKeaktifan\n\n(Bq/g)\n\nKeaktifan\n\n(Bq)\n\nAm-242 1 × 103 1 × 106 Es-254 1 × 101 1 × 104\n\nAm-242ma\n\n1 × 100 1 × 104 Es-254m1 × 102 1 × 106\n\nAm-243a\n\n1 × 100 1 × 103 Fm-254 1 × 104 1 × 107\n\nCm-242 1 × 102 1 × 105 Fm-255 1 × 103 1 × 106\n\nCm-243 1 × 100 1 × 104\n\na Nuklid induk dan progeninya termasuk dalam keseimbangan sekular disenaraikan seperti berikut:\n\nSr-90 Y-90\n\nZr-93 Nb-93m\n\nZr-97 Nb-97\n\nRu-106 Rh-106\n\nCs-137 Ba-137m\n\nCe-134 La-134\n\nCe-144 Pr-144\n\nBa-140 La-140\n\nBi-212 Tl-208 (0.36), Po-212 (0.64)\n\nPb-210 Bi-210, Po-210\n\nPb-212 Bi-212, Tl-208 (0.36), Po-212 (0.64)\n\nRn-220 Po-216\n\nRn-222 Po-218, Pb-214, Bi-214, Po-214\n\nRa-223 Rn-219, Po-215, Pb-211, Bi-211, Tl-207\n\nRa-224 Rn-220, Po-216, Pb-212, Bi-212, Tl-208 (0.36), Po-212 (0.64)\n\nRa-226 Rn-222, Po-218, Pb-214, Bi-214, Po-214, Pb-210, Bi-210, Po-210\n\nRa-228 Ac-228\n\nTh-226 Ra-222, Rn-218, Po-214\n\nTh-228 Ra-224, Rn-220, Po-216, Pb-212, Bi-212, Tl-208 (0.36), Po-212 (0.64)\n\nTh-229 Ra-225, Ac-225, Fr-221, At-217, Bi-213, Po-213, Pb-209\n\nTh-nat Ra-228, Ac-228, Th-228, Ra-224, Rn-220, Po-216, Pb-212, Bi-212,\n\nTl-208 (0.36), Po-212 (0.64)\n\nTh-234 Pa-234m\n\nU-230 Th-226, Ra-222, Rn-218, Po-214\n\nU-232 Th-228, Ra-224, Rn-220, Po-216, Pb-212, Bi-212, Tl-208 (0.36),\n\nPo-212 (0.64)\n\nU-235 Th-231\n\nU-238 Th-234, Pa-234m\n\nU-nat Th-234, Pa-234m, U-234, Th-230, Ra-226, Rn-222, Po-218, Pb-214,\n\nBi-214, Po-214, Pb-210, Bi-210, Po-210\n\nU-240 Np-240m\n\nNp-237 Pa-233\n\nAm-242m Am-242\n\nAm-243 Np-239\n\nJADUAL KETIGA\n\nPENGIRAAN KEPEKATAN BAGI CAMPURAN RADIONUKLID\n\n(Perenggan 13(1)(b))\n\nBagi sisa radioaktif yang mengandungi campuran radioanuklid kaedah pengiraan\n\nberikut hendaklah digunakan:\n\nBahawa,\n\nCi adalah kepekatan keaktifan (Bq/g) bagi radionuklid sehingga i\n\nth di dalam sisa\n\nradioaktif;\n\n(kepekatan keaktifan)i adalah nilai kepekatan keaktifan (Bq/g) bagi radionuklid i\n\nseperti dalam Jadual Kedua; dan\n\nn ialah bilangan radionuklid yang hadir di dalam sisa radioaktif\n\n(kepekatan keaktifan)i\n\nJADUAL KEEMPAT\n\nBORANG INVENTORI TAHUNAN SISA RADIOAKTIF\n\n(Peraturan 3 dan 28)\n\n_____________________________________________________________________________________________\n\nNama syarikat atau agensi :\n\nAlamat kemudahan atau agensi :\n\nTelefon/Nombor faksimile :\n\nNombor Lesen :\n\nKelas lesen :\n\nPerihalan Sisa :\n\nBentuk\n\nSisa\n\nKelas Sisa\n\nberdasarkan\n\nJadual\n\nPertama\n\nRadioisotop Separuh\n\nHayat\n\nBentuk\n\nKimia\n\nTarikh dan\n\nKeaktifan\n\nAwal\n\nAras\n\nSinaran\n\npada 1\n\nMeter\n\n(mSv/hr)\n\nKuantiti\n\nSisa\n\n(kg atau\n\nm3)\n\nLokasi\n\n(Bangunan\n\ndan\n\nNombor\n\nBilik)\n\nKeaktifan\n\nMaksimum\n\n(Bq) untuk\n\nsetiap\n\nRadioisotop\n\npada 31\n\nDisember\n\nDisediakan oleh Pegawai Pengurusan Sisa Radioaktif:\n\nDisahkan oleh:\n\nTandatangan:\n\nTarikh:\n\nPenting: Borang yang lengkap hendaklah dikemukakan kepada Lembaga pada 1 Mac setiap setahun kalendar.\n\nJADUAL KELIMA\n\nBORANG BAGI REKOD SISA RADIOAKTIF YANG DIBERSIHKAN DIBUANG ATAU DILUPUSKAN\n\n(Peraturan 29)\n\n_____________________________________________________________________________________________\n\nNama syarikat atau agensi :\n\nAlamat kemudahan atau agensi :\n\nTelefon/Nombor faksimile :\n\nNombor Lesen :\n\nKelas lesen :\n\nPerihalan Sisa :\n\nBentuk\n\nSisa Radioisotop\n\nSeparuh\n\nHayat\n\nBentuk Kimia\n\n(hendaklah\n\nmematuhi\n\nperaturan 17)\n\nKepekatan\n\nKeaktifan\n\n(Bq/g)\n\nKuantiti Sisa\n\n(kg atau m3)\n\nKeaktifan\n\n(Bq) *Cara\n\nPelupusan\n\nTarikh dan\n\nLokasi\n\nDisediakan oleh Pegawai Pengurusan Sisa Radioaktif:\n\nDisahkan oleh:\n\nTandatangan:\n\nTarikh:\n\n*Dibuang, dilupus, dilepaskan atau dipulangkan kepada pembekal.\n\nPenting: Borang yang lengkap hendaklah dihantar kepada Lembaga pada 1 Mac setiap setahun kalendar.\n\nDibuat 29 Julai 2011\n\n[LPTA(S):TAD; PN(PU2)425/VI]\n\n DATUK SERI DR. MAXIMUS JOHNITY ONGKILI\n\n Menteri Sains, Teknologi dan Inovasi\n\nATOMIC ENERGY LICENSING ACT 1984\n\nATOMIC ENERGY LICENSING (RADIOACTIVE WASTE MANAGEMENT)\n\nREGULATIONS 2011\n\nARRANGEMENT OF REGULATIONS\n\nPART I\n\nPRELIMINARY\n\nRegulation\n\n1. Citation and commencement\n\n2. Application\n\n3. Interpretation\n\nPART II\n\nLICENSE TO DISPOSE\n\n4. License to dispose\n\nPART III\n\nRESPONSIBILITIES OF LICENSEE\n\n5. Responsibilities of licensee\n\nPART IV\n\nRADIOACTIVE WASTE MANAGEMENT OFFICER\n\n6. Appointment of Radioactive Waste Management Officer\n\n7. Responsibilities of Radioactive Waste Management Officer\n\nPART V\n\nCONTROL OF RADIOACTIVE WASTE GENERATION\n\n8. Control of radioactive waste generation\n\nPART VI\n\nREUSE AND RECYCLE OF RADIOACTIVE MATERIAL\n\n9. Reuse and recycle\n\n10. Transfer of radioactive material\n\nPART VII\n\nMANAGEMENT OF USED SEALED SOURCE\n\n11. Return of used sealed source\n\n12. Transfer to radioactive waste management facility\n\nPART VIII\n\nDISCHARGE AND DISPOSAL OF RADIOACTIVE WASTE\n\n13. Discharge limit\n\n14. Discharge and monitoring of radioactive waste\n\n15. Nonradiological properties of radioactive waste\n\n16. Radioactive waste not suitable for release, discharge or disposal\n\nPART IX\n\nMANAGEMENT OF RADIOACTIVE WASTE\n\n17. Segregation of radioactive waste\n\n18. Radioactive waste container\n\n19. Record of radioactive waste container\n\n20. Improvement of radioactive waste characteristic\n\n21. Location of radioactive waste storage\n\n22. Storage facility\n\n23. Safe storage of radioactive waste\n\nPART X\n\nTRANSPORT OF RADIOACTIVE WASTE\n\n24. Transport of radioactive waste\n\nPART XI\n\nQUALITY ASSURANCE\n\n25. Quality assurance programme\n\nPART XII\n\nPHYSICAL PROTECTION AND SECURITY\n\n26. Security and protection of radioactive waste\n\n27. Notification and report of theft, loss or sabotage\n\nPART XIII\n\nRECORDS AND REPORTS\n\n28. Submission of radioactive waste inventory form\n\n29. Submission of radioactive waste release, discharge or disposal records\n\n30. Report on unauthorised release, discharge or disposal\n\nPART XIV\n\nEMERGENCY PLANS AND PROCEDURES\n\n31. Emergency response\n\nPART XV\n\nCESSATION OF OPERATIONS, DECOMMISSIONING\n\nOR ABANDONMENT OF LICENSED FACILITIES\n\n32. Cessation of operations, decommissioning or abandonment of licensed\n\nfacilities\n\nFIRST SCHEDULE\n\nSECOND SCHEDULE\n\nTHIRD SCHEDULE\n\nFOURTH SCHEDULE\n\nFIFTH SCHEDULE\n\nATOMIC ENERGY LICENSING ACT 1984\n\nATOMIC ENERGY LICENSING (RADIOACTIVE WASTE MANAGEMENT)\n\nREGULATIONS 2011\n\nIN exercise of the powers conferred by paragraph 68(2)(a) of the Atomic Energy\n\nLicensing Act 1984 [Act 304], the Minister makes the following regulations:\n\nPART I\n\nPRELIMINARY\n\nCitation and commencement\n\n1. (1) These regulations may be cited as the Atomic Energy Licensing\n\n(Radioactive Waste Management) Regulations 2011.\n\n(2) These Regulations come into operation on 16 August 2011.\n\nApplication\n\n2. These Regulations shall apply to all aspects of radioactive waste and\n\nwaste management arising from medical, industrial and research applications\n\nand any other application which may be specified by the Board.\n\nInterpretation\n\n3. In these Regulations, unless the context otherwise requires―\n\n\"clearance level\" means the values established by the Board and expressed\n\nin terms of activity concentration or total activity, at or below which the source of\n\nradiation may be released from the control of the Board as specified in Second\n\nSchedule;\n\n\"container\" means the place into which the radioactive waste is kept for\n\nhandling, transport, storage or disposal and is a component of the waste\n\npackage;\n\n\"discharge\" means the direct release of effluents into the environment\n\nwith subsequent dispersion;\n\n\"waste package\" means the product of conditioning that includes the\n\nwaste form, any containers and internal barriers such as absorbing materials and\n\nliners;\n\n\"waste inventory\" means detailed records maintained by the licensee in\n\naccordance with the Fourth Schedule;\n\n\"quality assurance\" means all those planned and systematic actions\n\nnecessary to provide adequate confidence that a material, product, facility,\n\nstructure, system, component, process or service will satisfy given requirements\n\nfor quality;\n\n\"Radioactive Waste Management Officer\" means a person appointed\n\nunder regulation 6;\n\n\"disposal\" means the emplacement of radioactive waste or the direct\n\ndischarge of effluents;\n\n\"processing\" means any operation that changes the characteristics of the\n\nradioactive waste, including pretreatment, treatment and conditioning;\n\n\"characterisation\" means the determination of the physical, chemical and\n\nradiological properties of the waste to establish the need for further adjustment,\n\ntreatment, conditioning, or its suitability for further handling, processing,\n\nstorage or disposal;\n\n\"segregation\" means an activity where radioactive waste are separated or\n\nare kept separate according to radiological, chemical or physical properties\n\nwhich will facilitate radioactive waste handling or processing;\n\n\"waste management\" means all the activities, administrative and\n\noperational, that are involved in the handling, pretreatment, treatment,\n\nconditioning, transportation, storage and disposal of radioactive waste;\n\n\"storage\" means the placement of radioactive waste in the facility\n\napproved by the Board where isolation, environmental protection and human\n\ncontrol are provided with the intention of retrieval of the radioactive waste;\n\n\"conditioning\" means any operations that produce a waste package\n\nsuitable for handling, transportation, storage or disposal;\n\n\"treatment\" means a process and method of changing the characteristics\n\nof the radioactive waste through volume reduction, removal of radionuclides\n\nfrom the radioactive waste or change of composition with the intention to\n\nbenefit safety and economy;\n\n\"radioactive waste\" means substance or article that contains or is\n\ncontaminated with radionuclides at activity concentrations or activities greater\n\nthan clearance levels and for which no use is foreseen.\n\nPART II\n\nLICENSE TO DISPOSE\n\nLicense to dispose\n\n4. No person shall, dispose of or cause to be disposed radioactive waste\n\nunless he is the holder of a valid license issued by the Board in accordance with\n\nthe Radiation Protection (Licensing) Regulations 1986 [P.U. (A) 149/1986].\n\nPART III\n\nRESPONSIBILITIES OF LICENSEE\n\nResponsibilities of licensee\n\n5. The licensee shall be responsible for the safe management of radioactive\n\nwaste and shall take all necessary steps to―\n\n(a) ensure that radioactive waste is disposed within one year of its\n\nproduction;\n\n(b) ensure adequate protection of the workers, public and environment;\n\n(c) ensure that suitable staff, equipment, facilities, training and\n\noperating procedures are available to perform the safe radioactive\n\nwaste management steps;\n\n(d) implement safety and environmental impact assessments;\n\n(e) establish and implement a quality assurance programme for the\n\nradioactive waste generated or its processing, storage and disposal;\n\n(f) establish and keep records of appropriate information regarding the\n\ngeneration, processing, storage and disposal of radioactive waste\n\nincluding the inventory of the radioactive waste;\n\n(g) provide surveillance and control as required by the Board;\n\n(h) collect, analyse and as appropriate, share operational experience to\n\nensure continued safety; and\n\n(i) comply with any directive issued by the Board from time to time.\n\nPART IV\n\nRADIOACTIVE WASTE MANAGEMENT OFFICER\n\nAppointment of Radioactive Waste Management Officer\n\n6. (1) The licensee shall appoint―\n\n(a) a Radiation Protection Officer appointed under the Atomic\n\nEnergy Licensing (Basic Safety Radiation Protection)\n\nRegulations 2010 [P.U. (A) 46/2010]; or\n\n(b) other technically qualified and competent person as\n\napproved by the Board,\n\nas a Radioactive Waste Management Officer.\n\n(2) The Radioactive Waste Management Officer appointed under\n\nsubregulation (1) shall be recognised by the Board.\n\nResponsibilities of Radioactive Waste Management Officer\n\n7. The Radioactive Waste Management Officer shall be responsible for―\n\n(a) ensuring that all stages of radioactive waste management are\n\ncarried out in accordance with written safety procedures;\n\n(b) establishing and maintaining a detailed record keeping system for\n\nall stages of radioactive waste management including the\n\ninventory of stored radioactive waste;\n\n(c) obtaining the prior authorisation in writing from the Board for the\n\ntransport of radioactive waste from the licensee's premise;\n\n(d) ensuring appropriate shielding, labelling, physical security and\n\nintegrity of radioactive waste packages;\n\n(e) ensuring that discharge of effluents is carried out in accordance\n\nwith the clearance levels or such authorised limits as contained in\n\nthe licence issued by the Board;\n\n(f) ensuring that release or disposal of solid radioactive waste is made\n\nin accordance with the clearance levels or such authorised limits\n\nas are contained in the licence issued by the Board;\n\n(g) reporting on accidents and inappropriate radioactive waste\n\nmanagement practices to the licensee;\n\n(h) ensuring an up-to-date knowledge of characteristics of discharge\n\nand disposal options; and\n\n(i) complying with any directive issued by the Board from time to time.\n\nPART V\n\nCONTROL OF RADIOACTIVE WASTE GENERATION\n\nControl of radioactive waste generation\n\n8. (1) The licensee shall ensure that the generation of radioactive waste\n\nand its impact to the environment is as minimum as possible.\n\n(2) The licensee shall ensure that no used sealed source is dismantled.\n\nPART VI\n\nREUSE AND RECYCLE OF RADIOACTIVE MATERIAL\n\nReuse and recycle\n\n9. The licensee shall, before declaring radioactive material including a\n\nsealed source as radioactive waste, consider whether he or any other person can\n\nmake use of or recycle the radioactive material.\n\nTransfer of radioactive material\n\n10. (1) In the event the licensee decides to transfer the radioactive\n\nmaterial to any other person, the licensee shall obtain an approval from the\n\nBoard prior to the transfer.\n\n(2) The licensee shall ensure that the person to whom the radioactive\n\nmaterial is to be transferred has a valid licence.\n\n(3) If the licensee is unable to transfer the radioactive material to a\n\nperson as identified under subregulation (1), he shall declare the radioactive\n\nmaterial as radioactive waste or retain it as radioactive material.\n\n(4) The licensee shall, after the declaration under subregulation (3),\n\nobtain an approval from the Board prior to sending the radioactive waste to a\n\nradioactive waste management facility which is approved by the Board.\n\nPART VII\n\nMANAGEMENT OF USED SEALED SOURCE\n\nReturn of used sealed source\n\n11. Any person who proposes to obtain a sealed source containing\n\nradioactive material which has an activity greater than 100 Megabecquerel\n\nshall―\n\n(a) require the supplier to include a condition in the contract for\n\npurchase or in the document for acceptance of the sealed source as\n\na gift, to receive the sealed source back within three months from\n\nthe date of request for return made by the purchaser or receiver;\n\n(b) submit a copy of relevant parts of the contract or acceptance\n\ndocument to the Board and obtain its written approval before\n\nentering into a contract or accepting the sealed source; and\n\n(c) return the used sealed source within the period specified in\n\nparagraph (a).\n\nTransfer to radioactive waste management facility\n\n12. (1) If a licensee is unable to return the used sealed source to its\n\nsupplier, the licensee shall obtain a written approval from the Board prior to\n\nsending the used sealed source to the radioactive waste management facility.\n\n(2) The radioactive waste management facility under subregulation\n\n(1) shall be approved by the Board.\n\nPART VIII\n\nDISCHARGE AND DISPOSAL OF RADIOACTIVE WASTE\n\nDischarge limit\n\n13. (1) The licensee shall ensure that―\n\n(a) the discharge is not more than 1 cubic metre of radioactive\n\nwaste in accordance with the clearance level as provided in\n\nthe Second Schedule or such larger volumes as may be\n\nauthorised in the licence, is released to the environment;\n\nand\n\n(b) the total ratio of the discharge of mixed radionuclides must\n\nnot be more than 1 in accordance to the calculation as in the\n\nThird Schedule.\n\n(2) The licensee shall obtain an approval from the Board before\n\nreleasing, discharging or disposing more than 1 cubic metre of radioactive waste\n\nto the environment.\n\n(3) The Board may require the licensee to submit details of the\n\nproposed release, discharge or disposed under subregulation (2) before granting\n\nthe approval.\n\n(4) The licensee in releasing, discharging or disposing radioactive\n\nwaste under subregulation (2) shall comply with the clearance levels in each\n\ncalendar year.\n\nDischarge and monitoring of radioactive waste\n\n14. The licensee shall―\n\n(a) ensure all radioactive waste discharges are as low as reasonably\n\nachievable below the authorised limits; and\n\n(b) monitor and record the discharges of radioactive waste with\n\nsufficient detail and accuracy to demonstrate compliance with the\n\nauthorised limits and to provide estimation of the public exposure.\n\nNonradiological properties of radioactive waste\n\n15. If radioactivity in the form of radioactive material or radioactive waste is\n\nto be released, discharged or disposed off to the environment, the licensee shall\n\nconsider the nonradiological properties of the material and shall comply with all\n\nother laws concerning those properties.\n\nRadioactive waste not suitable for release, discharge or disposal\n\n16. If radioactive waste is not suitable to be released, discharged or disposed\n\nto the environment within one year of its creation or any greater time as the\n\nBoard may approve, the licensee shall―\n\n(a) submit a proposal and obtain approval from the Board for disposal\n\nof the radioactive waste; and\n\n(b) comply with any requirements made by the Board with regards to\n\nfurther treatment and disposal of the radioactive waste.\n\nPART IX\n\nMANAGEMENT OF RADIOACTIVE WASTE\n\nSegregation of radioactive waste\n\n17. (1) The licensee shall classify the radioactive waste as prescribed in\n\nthe First Schedule and segregate the radioactive waste by using the basis under\n\nsubregulation (2) and in accordance with such other requirements as required\n\nby the Board.\n\n(2) Radioactive waste shall be classified based on their radiological,\n\nphysical, chemical and biological properties.\n\nRadioactive waste container\n\n18. (1) Each radioactive waste after the segregation under subregulation\n\n17(1), shall be kept separately in different container.\n\n(2) Each of the container shall―\n\n(a) be clearly and uniquely marked with the details such as\n\nactivity, types of radionuclides, half-life, physical and\n\nchemical form and nonradiological hazard;\n\n(b) bear a radiation symbol;\n\n(c) be robust;\n\n(d) be compatible with the radioactive waste; and\n\n(e) be able to be filled and emptied safely throughout the\n\nexpected period in storage including the provision of\n\nadequate shielding as appropriate.\n\nRecord of radioactive waste container\n\n19. The licensee shall keep and maintain a record for each radioactive waste\n\ncontainer containing the following particulars:\n\n(a) its unique identification number and class of radioactive waste;\n\n(b) types of radionuclides, where practicable based on an individual\n\nbasis but otherwise in groups or in total;\n\n(c) the activity of each radionuclide or group of radionuclides, the\n\nmeans of measurement or estimation and the date of measurement\n\nor estimation;\n\n(d) the origin of radioactive waste such as from facility, laboratory,\n\nroom and person;\n\n(e) other actual or potential hazards including chemical, pathogenic\n\nand infectious in nature;\n\n(f) the dose rate at 1 metre and date of measurement;\n\n(g) result of surface contamination measurements;\n\n(h) the quantity of radioactive waste in terms of number of units, mass\n\nand volume; and\n\n(i) the name of the Radioactive Waste Management Officer who make\n\nthe charaterisation of the contents of the radioactive waste\n\ncontainer and prepare the record.\n\nImprovement of radioactive waste characteristic\n\n20. The licensee shall ensure that the treatment and conditioning of\n\nradioactive waste is undertaken if necessary to improve the characteristics of\n\nradioactive waste prior to storage and to meet the requirements of the Board for\n\nstorage and disposal.\n\nLocation of radioactive waste storage\n\n21. The licensee shall ensure that radioactive waste is stored in such a way as\n\nto protect human health and the environment and in particular shall not be\n\nstored in the vicinity of corrosive, explosive or easily flammable materials and\n\nalso in areas that is prone to natural disasters.\n\nStorage facility\n\n22. The licensee shall provide a dedicated facility or other facilities for the\n\nstorage of radioactive waste which shall―\n\n(a) be clearly marked;\n\n(b) bear a radiation symbol;\n\n(c) have controlled access; and\n\n(d) enable separation of untreated and treated radioactive waste.\n\nSafe storage of radioactive waste\n\n23. The licensee shall ensure that―\n\n(a) the materials and construction of radioactive waste storage\n\ncontainer shall guarantee the integrity of the radioactive waste\n\npackage is maintained throughout its expected period of storage;\n\n(b) the types of radioactive waste such as glass or sharp items are\n\nstored in outer container with puncture proof inner linings;\n\n(c) where radioactive waste may corrode or disintegrate within the\n\ncontainer or where storage is likely to be prolonged, a suitable\n\nlining is used in order to maintain the integrity of the contents\n\nthroughout its expected period of storage;\n\n(d) the used sealed sources are stored in their immediate shielding\n\nwithin containers to reduce exposure and assist future handling;\n\nand\n\n(e) the internal and external surfaces of all containers are checked for\n\ncontamination each time before the containers are used or reused.\n\nPART X\n\nTRANSPORT OF RADIOACTIVE WASTE\n\nTransport of radioactive waste\n\n24. The licensee shall ensure that any transport of radioactive waste from his\n\npremise is in accordance with the written law on transport of radioactive waste.\n\nPART XI\n\nQUALITY ASSURANCE\n\nQuality assurance programme\n\n25. (1) Any person applying for a licence relating to the management of\n\nradioactive waste shall submit a written quality assurance programme which is\n\ncommensurate with the scale of intended operations to the Board for approval.\n\n(2) The licensee shall demonstrate his intended means of compliance\n\nin accordance with all the requirements including the implementation of the\n\nsubmitted quality assurance programnme concerning radioactive waste imposed\n\non a licensee by these Regulations.\n\n(3) The licensee shall, upon request by the Board submit a report on\n\nthe effectiveness of the quality assurance programme in respect of radioactive\n\nwaste management activities to show that the licensee continues to meet all the\n\nrequirements of these Regulations.\n\nPART XII\n\nPHYSICAL PROTECTION AND SECURITY\n\nSecurity and protection of radioactive waste\n\n26. The licensee shall take all measures to ensure the security and protection\n\nof all radioactive wastes in his possession or under his control to―\n\n(a) prevent unauthorised persons gaining access to the radioactive\n\nwaste storage area; and\n\n(b) protect the radioactive waste from theft, loss and sabotage.\n\nNotification and report of theft, loss or sabotage\n\n27. (1) The licensee shall, upon discovering any theft, loss or sabotage of\n\nany radioactive waste in his possession or under his control―\n\n(a) notify the Board of such theft, loss or sabotage immediately\n\nafter discovering the theft, loss or sabotage;\n\n(b) take actions to recover the radioactive waste and secure the\n\nfacility if required; and\n\n(c) submit a complete report of the theft, loss or sabotage in\n\nwriting to the Board within thirty days after the notification\n\nto the Board.\n\n(2) The report to be submitted by the licensee under paragraph (1)(c)\n\nshall contain―\n\n(a) where appropriate, a description of the radioactive waste,\n\nincluding its kind, quantity and its chemical and physical\n\nforms;\n\n(b) a description of the circumstances under which the theft,\n\nloss or sabotage occurred;\n\n(c) a statement of the location or possible location of the\n\nradioactive waste;\n\n(d) the possible radiation exposure to individuals,\n\ncircumstances under which the exposures may occur, and\n\nthe extent of potential hazard to members of the public;\n\n(e) the actions which have been taken, or will be taken, to\n\nrecover the radioactive waste;\n\n(f) the procedures or measures which have been or will be\n\nadopted to prevent a recurrence of the theft, loss or sabotage\n\nof the radioactive waste; and\n\n(g) any other information as deemed necessary by the licensee or\n\nthe Board.\n\nPART XIII\n\nRECORDS AND REPORTS\n\nSubmission of radioactive waste inventory form\n\n28. The licensee shall submit―\n\n(a) the radioactive waste inventory form not later than 1 March of the\n\nfollowing year; and\n\n(b) the up-to-date inventory radioactive waste form relating to\n\nradioactive waste in his possession not less than thirty days and\n\nnot more than sixty days before the licence expires,\n\nto the Board as presribed in the Fourth Schedule.\n\nSubmission of radioactive waste release, discharge or disposal records\n\n29. The licensee shall submit to the Board a record of release, discharge or\n\ndisposal of cleared radioactive waste as prescribed in the Fifth Schedule not later\n\nthan 1 March of the following year.\n\nReport on unauthorised release, discharge or disposal\n\n30. If the licensee has reasonable grounds to believe that –\n\n(a) more than 1 cubic metre of radioactive waste over the clearance\n\nlevels have been released;\n\n(b) such volumes of radioactive waste larger than the authorised\n\nlimits in a licence have been released; or\n\n(c) radioactive waste that has been discharged or disposed to the\n\nenvironment is over the authorised limits,\n\nthe licensee shall notify the Board within twenty-four hours upon discovery of\n\nthat incident and submit a written report on the matter and the actions taken to\n\nthe Board within thirty days after the notification to the Board.\n\nPART XIV\n\nEMERGENCY PLANS AND PROCEDURES\n\nEmergency response\n\n31. The licensee shall respond to all emergencies involving radioactive waste\n\nas provided by the Atomic Energy Licensing (Basic Safety Radiation Protection)\n\nRegulations 2010 [P.U. (A) 46/2010].\n\nPART XV\n\nCESSATION OF OPERATIONS, DECOMMISSIONING OR\n\nABANDONMENT OF LICENSED FACILITIES\n\nCessation of operations, decommissioning or abandonment of licensed\n\nfacilities\n\n32. The licensee shall not cease to operate, decommission, or abandon his\n\nlicensed facility that involves licensed waste management system or radioactive\n\nwaste management facility except as provided by the Atomic Energy Licensing\n\n(Basic Safety Radiation Protection) Regulations 2010 [P.U. (A) 46/2010].\n\nFIRST SCHEDULE\n\nRADIOACTIVE WASTE CLASSIFICATION\n\n(Subregulation 17(1) and Fourth Schedule)\n\nClass Description\n\nCleared Waste Materials containing levels of radionuclides at\n\nactivity concentrations less than those specified\n\nin the Second Schedule.\n\nLow Level (Short Lived)/ Decay\n\nWaste\n\nLow level radioactive waste containing short\n\nlived radionuclides only (half lives less than 100\n\ndays) that will decay to clearance levels within\n\nthree years after the time of its generation.\n\nLow and Intermediate Level Short\n\nLived Waste (LILW-SL)\n\nRadioactive waste which will not decay to\n\nclearance levels within three years containing\n\nbeta/gamma emitting radionuclides with halflives less than thirty years or alpha emitting\n\nradionuclides with an activity concentrations less\n\nthan 400Bq/g and a total activity less than 4000\n\nBq in each radioactive waste package.\n\nLow and Intermediate Level Long\n\nLived Waste (LILW-LL)\n\nRadioactive waste containing radionuclides with\n\nactivity concentrations more than LILW-SL but\n\nwhich does not generate heat at above 2kW/m3.\n\nHigh Level Waste (HLW) Radioactive waste containing radionuclides with\n\nactivity concentrations more than LILW-SL but\n\nwhich generates heat at above 2kW/m3.\n\nSECOND SCHEDULE\n\nRADIOACTIVE WASTE CLEARANCE LEVEL\n\n(Regulation 3, paragraph 13(1)(a), First and Third Schedule)\n\nNuclide\n\nActivity\n\nConcentration\n\n(Bq/g)\n\nActivity\n\n(Bq)\n\nNuclide\n\nActivity\n\nConcentration\n\n(Bq/g)\n\nActivity\n\n(Bq)\n\nH-3 1 × 106 1 × 109 Fe-52 1 × 101 1 × 106\n\nBe-7 1 × 103 1 × 107 Fe-55 1 × 104 1 × 106\n\nC-14 1 × 104 1 × 107 Fe-59 1 × 101 1 × 106\n\nO-15 1 × 102 1 × 109 Co-55 1 × 101 1 × 106\n\nF-18 1 × 101 1 × 106 Co-56 1 × 101 1 × 105\n\nNa-22 1 × 101 1 × 106 Co-57 1 × 102 1 × 106\n\nNa-24 1 × 101 1 × 105 Co-58 1 × 101 1 × 106\n\nSi-31 1 × 103 1 × 106 Co-58m\n\n1 × 104 1 × 107\n\nP-32 1 × 103 1 × 105 Co-60 1 × 101 1 × 105\n\nP-33 1 × 105 1 × 108 Co-60m\n\n1 × 103 1 × 106\n\nS-35 1 × 105 1 × 108 Co-61 1 × 102 1 × 106\n\nCl-36 1 × 104 1 × 106 Co-62m\n\n1 × 101 1 × 105\n\nCl-38 1 × 101 1 × 105 Ni-59 1 × 104 1 × 108\n\nAr-37 1 × 106 1 × 108 Ni-63 1 × 105 1 × 108\n\nAr-41 1 × 102 1 × 109 Ni-65 1 × 101 1 × 106\n\nK-40 1 × 102 1 × 106 Cu-64 1 × 102 1 × 106\n\nK-42 1 × 102 1 × 106 Zn-65 1 × 101 1 × 106\n\nK-43 1 × 101 1 × 106 Zn-69 1 × 104 1 × 106\n\nCa-45 1 × 104 1 × 107 Zn-69m\n\n1 × 102 1 × 106\n\nCa-47 1 × 101 1 × 106 Ga-72 1 × 101 1 × 105\n\nSc-46 1 × 101 1 × 106 Ge-71 1 × 104 1 × 108\n\nSc-47 1 × 102 1 × 106 As-73 1 × 103 1 × 107\n\nSc-48 1 × 101 1 × 105 As-74 1 × 101 1 × 106\n\nV-48 1 × 101 1 × 105 As-76 1 × 102 1 × 105\n\nCr-51 1 × 103 1 × 107 As-77 1 × 103 1 × 106\n\nMn-51 1 × 101 1 × 105 Se-75 1 × 102 1 × 106\n\nMn-52 1 × 101 1 × 105 Br-82 1 × 101 1 × 106\n\nMn-52m\n\n1 × 101 1 × 105 Kr-74 1 × 102 1 × 109\n\nMn-53 1 × 104 1 × 109 Kr-76 1 × 102 1 × 109\n\nMn-54 1 × 101 1 × 106 Kr-77 1 × 102 1 × 109\n\nMn-56 1 × 101 1 × 105 Kr-79 1 × 103 1 × 105\n\nKr-81 1 × 104 1 × 107 Tc-97 1 × 103 1 × 108\n\nKr-83m\n\n1 × 105 1 × 1012 Tc-97m1 × 103 1 × 107\n\nKr-85 1 × 105 1 × 104 Tc-99 1 × 104 1 × 107\n\nNuclide\n\nActivity\n\nConcentration\n\n(Bq/g)\n\nActivity\n\n(Bq)\n\nNuclide\n\nActivity\n\nConcentration\n\n(Bq/g)\n\nActivity\n\n(Bq)\n\nKr-85m\n\n1 × 103 1 × 1010 Tc-99m1 × 102 1 × 107\n\nKr-87 1 × 102 1 × 109 Ru-97 1 × 102 1 × 107\n\nKr-88 1 × 102 1 × 109 Ru-103 1 × 102 1 × 106\n\nRb-86 1 × 102 1 × 105 Ru-105 1 × 101 1 × 106\n\nSr-85 1 × 102 1 × 106 Ru-106a\n\n1 × 102 1 × 105\n\nSr-85m\n\n1 × 102 1 × 107 Rh-103m1 × 104 1 × 108\n\nSr-87m\n\n1 × 102 1 × 106 Rh-105 1 × 102 1 × 107\n\nSr-89 1 × 103 1 × 106 Pd-103 1 × 103 1 × 108\n\nSr-90a\n\n1 × 102 1 × 104 Pd-109 1 × 103 1 × 106\n\nSr-91 1 × 101 1 × 105 Ag-105 1 × 102 1 × 106\n\nSr-92 1 × 101 1 × 106 Ag-110m\n\n1 × 101 1 × 106\n\nY-90 1 × 103 1 × 105 Ag-111 1 × 103 1 × 106\n\nY-91 1 × 103 1 × 106 Cd-109 1 × 104 1 × 106\n\nY-91m\n\n1 × 102 1 × 106 Cd-115 1 × 102 1 × 106\n\nY-92 1 × 102 1 × 105 Cd-115m\n\n1 × 103 1 × 106\n\nY-93 1 × 102 1 × 105 In-111 1 × 102 1 × 106\n\nZr-93a\n\n1 × 103 1 × 107 In-113m1 × 102 1 × 106\n\nZr-95 1 × 101 1 × 106 In-114m\n\n1 × 102 1 × 106\n\nZr-97a\n\n1 × 101 1 × 105 In-115m1 × 102 1 × 106\n\nNb-93m\n\n1 × 104 1 × 107 Sn-113 1 × 103 1 × 107\n\nNb-94 1 × 101 1 × 106 Sn-125 1 × 102 1 × 105\n\nNb-95 1 × 101 1 × 106 Sb-122 1 × 102 1 × 104\n\nNb-97 1 × 101 1 × 106 Sb-124 1 × 101 1 × 106\n\nNb-98 1 × 101 1 × 105 Sb-125 1 × 102 1 × 106\n\nMo-90 1 × 101 1 × 106 Te-123m\n\n1 × 102 1 × 107\n\nMo-93 1 × 103 1 × 108 Te-125m\n\n1 × 103 1 × 107\n\nMo-99 1 × 102 1 × 106 Te-127 1 × 103 1 × 106\n\nMo-101 1 × 101 1 × 106 Te-127m\n\n1 × 103 1 × 107\n\nTc-96 1 × 101 1 × 106 Te-129 1 × 102 1 × 106\n\nTc-96m\n\n1 × 103 1 × 107 Te-129m1 × 103 1 × 106\n\nTe-131 1 × 102 1 × 105 Ce-143 1 × 102 1 × 106\n\nTe-131m\n\n1 × 101 1 × 106 Ce-144a1 × 102 1 × 105\n\nTe-132 1 × 102 1 × 107 Pr-142 1 × 102 1 × 105\n\nTe-133 1 × 101 1 × 105 Pr-143 1 × 104 1 × 106\n\nTe-133m\n\n1 × 101 1 × 105 Nd-147 1 × 102 1 × 106\n\nTe-134 1 × 101 1 × 106 Nd-149 1 × 102 1 × 106\n\nI-123 1 × 102 1 × 107 Pm-147 1 × 104 1 × 107\n\nI-125 1 × 103 1 × 106 Pm-149 1 × 103 1 × 106\n\nNuclide\n\nActivity\n\nConcentration\n\n(Bq/g)\n\nActivity\n\n(Bq)\n\nNuclide\n\nActivity\n\nConcentration\n\n(Bq/g)\n\nActivity\n\n(Bq)\n\nI-126 1 × 102 1 × 106 Sm-151 1 × 104 1 × 108\n\nI-129 1 × 102 1 × 105 Sm-153 1 × 102 1 × 106\n\nI-130 1 × 101 1 × 106 Eu-152 1 × 101 1 × 106\n\nI-131 1 × 102 1 × 106 Eu-152m\n\n1 × 102 1 × 106\n\nI-132 1 × 101 1 × 105 Eu-154 1 × 101 1 × 106\n\nI-133 1 × 101 1 × 106 Eu-155 1 × 102 1 × 107\n\nI-134 1 × 101 1 × 105 Gd-153 1 × 102 1 × 107\n\nI-135 1 × 101 1 × 106 Gd-159 1 × 103 1 × 106\n\nXe-131m\n\n1 × 104 1 × 104 Tb-160 1 × 101 1 × 106\n\nXe-133 1 × 103 1 × 104 Dy-165 1 × 103 1 × 106\n\nXe-135 1 × 103 1 × 1010 Dy-166 1 × 103 1 × 106\n\nCs-129 1 × 102 1 × 105 Ho-166 1 × 103 1 × 105\n\nCs-131 1 × 103 1 × 106 Er-169 1 × 104 1 × 107\n\nCs-132 1 × 101 1 × 105 Er-171 1 × 102 1 × 106\n\nCs-134m\n\n1 × 103 1 × 105 Tm-170 1 × 103 1 × 106\n\nCs-134 1 × 101 1 × 104 Tm-171 1 × 104 1 × 108\n\nCs-135 1 × 104 1 × 107 Yb-175 1 × 103 1 × 107\n\nCs-136 1 × 101 1 × 105 Lu-177 1 × 103 1 × 107\n\nCs-137a\n\n1 × 101 1 × 104 Hf-181 1 × 101 1 × 106\n\nCs-138 1 × 101 1 × 104 Ta-182 1 × 101 1 × 104\n\nBa-131 1 × 102 1 × 106 W-181 1 × 103 1 × 107\n\nBa-140a\n\n1 × 101 1 × 105 W-185 1 × 104 1 × 107\n\nLa-140 1 × 101 1 × 105 W-187 1 × 102 1 × 106\n\nCe-139 1 × 102 1 × 106 Re-186 1 × 103 1 × 106\n\nCe-141 1 × 102 1 × 107 Re-188 1 × 102 1 × 105\n\nOs-185 1 × 101 1 × 106 Rn-222a\n\n1 × 101 1 × 108\n\nOs-191 1 × 102 1 × 107 Ra-223a\n\n1 × 102 1 × 105\n\nOs-191m\n\n1 × 103 1 × 107 Ra-224a1 × 101 1 × 105\n\nOs-193 1 × 102 1 × 106 Ra-225 1 × 102 1 × 105\n\nIr-190 1 × 101 1 × 106 Ra-226a\n\n1 × 101 1 × 104\n\nIr-192 1 × 101 1 × 104 Ra-227 1 × 102 1 × 106\n\nIr-194 1 × 102 1 × 105 Ra-228a\n\n1 × 101 1 × 105\n\nPt-191 1 × 102 1 × 106 Ac-228 1 × 101 1 × 106\n\nPt-193m\n\n1 × 103 1 × 107 Th-226a1 × 103 1 × 107\n\nPt-197 1 × 103 1 × 106 Th-227 1 × 101 1 × 104\n\nPt-197m\n\n1 × 102 1 × 106 Th-228a1 × 100 1 × 104\n\nAu-198 1 × 102 1 × 106 Th-229a\n\n1 × 100 1 × 103\n\nAu-199 1 × 102 1 × 106 Th-230 1 × 100 1 × 104\n\nNuclide\n\nActivity\n\nConcentration\n\n(Bq/g)\n\nActivity\n\n(Bq)\n\nNuclide\n\nActivity\n\nConcentration\n\n(Bq/g)\n\nActivity\n\n(Bq)\n\nHg-197 1 × 102 1 × 107 Th-231 1 × 103 1 × 107\n\nHg-197m\n\n1 × 102 1 × 106 Th-nat 1 × 100 1 × 103\n\nHg-203 1 × 102 1 × 105 (incl. Th232)\n\nTl-200 1 × 101 1 × 106 Th-234a\n\n1 × 103 1 × 105\n\nTl-201 1 × 102 1 × 106 Pa-230 1 × 101 1 × 106\n\nTl-202 1 × 102 1 × 106 Pa-231 1 × 100 1 × 103\n\nTl-204 1 × 104 1 × 104 Pa-233 1 × 102 1 × 107\n\nPb-203 1 × 102 1 × 106 U-230a\n\n1 × 101 1 × 105\n\nPb-210a\n\n1 × 101 1 × 104 U-231 1 × 102 1 × 107\n\nPb-212a\n\n1 × 101 1 × 105 U-232a1 × 100 1 × 103\n\nBi-206 1 × 101 1 × 105 U-233 1 × 101 1 × 104\n\nBi-207 1 × 101 1 × 106 U-234 1 × 101 1 × 104\n\nBi-210 1 × 103 1 × 106 U-235a\n\n1 × 101 1 × 104\n\nBi-212a\n\n1 × 101 1 × 105 U-236 1 × 101 1 × 104\n\nPo-203 1 × 101 1 × 106 U-237 1 × 102 1 × 106\n\nPo-205 1 × 101 1 × 106 U-238a\n\n1 × 101 1 × 104\n\nPo-207 1 × 101 1 × 106 U-nat 1 × 100 1 × 103\n\nPo-210 1 × 101 1 × 104 U-239 1 × 102 1 × 106\n\nAt-211 1 × 103 1 × 107 U-240 1 × 103 1 × 107\n\nRn-220a\n\n1 × 104 1 × 107 U-240a1 × 101 1 × 106\n\nNp-237a\n\n1 × 100 1 × 103 Cm-244 1 × 101 1 × 104\n\nNp-239 1 × 102 1 × 107 Cm-245 1 × 100 1 × 103\n\nNp-240 1 × 101 1 × 106 Cm-246 1 × 100 1 × 103\n\nPu-234 1 × 102 1 × 107 Cm-247 1 × 100 1 × 104\n\nPu-235 1 × 102 1 × 107 Cm-248 1 × 100 1 × 103\n\nPu-236 1 × 101 1 × 104 Bk-249 1 × 103 1 × 106\n\nPu-237 1 × 103 1 × 107 Cf-246 1 × 103 1 × 106\n\nPu-238 1 × 100 1 × 104 Cf-248 1 × 101 1 × 104\n\nPu-239 1 × 100 1 × 104 Cf-249 1 × 100 1 × 103\n\nPu-240 1 × 100 1 × 103 Cf-250 1 × 101 1 × 104\n\nPu-241 1 × 102 1 × 105 Cf-251 1 × 100 1 × 103\n\nPu-242 1 × 100 1 × 104 Cf-252 1 × 101 1 × 104\n\nPu-243 1 × 103 1 × 107 Cf-253 1 × 102 1 × 105\n\nPu-244 1 × 100 1 × 104 Cf-254 1 × 100 1 × 103\n\nAm-241 1 × 100 1 × 104 Es-253 1 × 102 1 × 105\n\nAm-242 1 × 103 1 × 106 Es-254 1 × 101 1 × 104\n\nAm-242ma\n\n1 × 100 1 × 104 Es-254m1 × 102 1 × 106\n\nAm-243a\n\n1 × 100 1 × 103 Fm-254 1 × 104 1 × 107\n\nNuclide\n\nActivity\n\nConcentration\n\n(Bq/g)\n\nActivity\n\n(Bq)\n\nNuclide\n\nActivity\n\nConcentration\n\n(Bq/g)\n\nActivity\n\n(Bq)\n\nCm-242 1 × 102 1 × 105 Fm-255 1 × 103 1 × 106\n\nCm-243 1 × 100 1 × 104\n\na Parent nuclides and their progeny included in secular equilibrium are listed in the following:\n\nSr-90 Y-90\n\nZr-93 Nb-93m\n\nZr-97 Nb-97\n\nRu-106 Rh-106\n\nCs-137 Ba-137m\n\nCe-134 La-134\n\nCe-144 Pr-144\n\nBa-140 La-140\n\nBi-212 Tl-208 (0.36), Po-212 (0.64)\n\nPb-210 Bi-210, Po-210\n\nPb-212 Bi-212, Tl-208 (0.36), Po-212 (0.64)\n\nRn-220 Po-216\n\nRn-222 Po-218, Pb-214, Bi-214, Po-214\n\nRa-223 Rn-219, Po-215, Pb-211, Bi-211, Tl-207\n\nRa-224 Rn-220, Po-216, Pb-212, Bi-212, Tl-208 (0.36), Po-212 (0.64)\n\nRa-226 Rn-222, Po-218, Pb-214, Bi-214, Po-214, Pb-210, Bi-210, Po-210\n\nRa-228 Ac-228\n\nTh-226 Ra-222, Rn-218, Po-214\n\nTh-228 Ra-224, Rn-220, Po-216, Pb-212, Bi-212, Tl-208 (0.36), Po-212 (0.64)\n\nTh-229 Ra-225, Ac-225, Fr-221, At-217, Bi-213, Po-213, Pb-209\n\nTh-nat Ra-228, Ac-228, Th-228, Ra-224, Rn-220, Po-216, Pb-212, Bi-212,\n\nTl-208 (0.36), Po-212 (0.64)\n\nTh-234 Pa-234m\n\nU-230 Th-226, Ra-222, Rn-218, Po-214\n\nU-232 Th-228, Ra-224, Rn-220, Po-216, Pb-212, Bi-212, Tl-208 (0.36),\n\nPo-212 (0.64)\n\nU-235 Th-231\n\nU-238 Th-234, Pa-234m\n\nU-nat Th-234, Pa-234m, U-234, Th-230, Ra-226, Rn-222, Po-218, Pb-214,\n\nBi-214, Po-214, Pb-210, Bi-210, Po-210\n\nU-240 Np-240m\n\nNp-237 Pa-233\n\nAm-242m Am-242\n\nAm-243 Np-239\n\nTHIRD SCHEDULE\n\nCONCENTRATION CALCULATION FOR MIXTURE OF RADIONUCLIDE\n\n(Paragraph 13(1)(b))\n\nFor radioactive waste containing a mixture of radionuclides the following\n\ncalculation method shall be used:\n\nWhere,\n\nCi is the activity concentration (Bq/g) of the i\n\nth radionuclide in the radioactive\n\nwaste;\n\n(activity concentration)i is the value of activity concentration (Bq/g) for the\n\nradionuclide i as in Second Schedule; and\n\nn is the number of radionuclides present in the radioactive waste\n\nFOURTH SCHEDULE\n\nANNUAL RADIOACTIVE WASTE INVENTORY FORM\n\n(Regulations 3 and 28)\n\n_______________________________________________________________________________________________\n\nName of the company or agency :\n\nAddress of facility or agency :\n\nTelephone/Fax number :\n\nLicense number :\n\nClass of the license :\n\nDescription of the waste :\n\nWaste\n\nForm\n\nClass of\n\nWaste\n\nbased on\n\nFirst\n\nSchedule\n\nRadioisotope Half-Life Chemical\n\nForm\n\nDate and\n\nInitial\n\nActivity\n\nRadiation\n\nLevel at 1\n\nMetre\n\n(mSv/hr)\n\nQuantity of\n\nthe Waste\n\n(kg or m3)\n\nLocation\n\n(Building\n\nand Room\n\nNumber)\n\nMaximum\n\nActivity (Bq)\n\nof each\n\nRadioisotope\n\non 31\n\nDecember)\n\nPrepared by Radioactive Waste Management Officer:\n\nVerified by:\n\nSignature:\n\nDate:\n\nImportant: Completed form shall be submitted to the Board by 1 March each calendar year.\n\nFIFTH SCHEDULE\n\nRECORD OF CLEARED RADIOACTIVE WASTE DISCHARGE OR DISPOSAL FORM\n\n(Regulation 29)\n\n_______________________________________________________________________________________________\n\nName of the company or agency :\n\nAddress of facility or agency :\n\nTelephone/Fax number :\n\nLicense number :\n\nClass of the license :\n\nDescription of the waste :\n\nWaste\n\nForm Radioisotope Half-Life\n\nChemical Form\n\n(shall comply\n\nregulation 17)\n\nActivity\n\nConcentration\n\n(Bq/g)\n\nQuantity of\n\nthe Waste\n\n(kg or m3)\n\nActivity\n\n(Bq) *Mode of\n\nDisposal\n\nDate and\n\nLocation\n\nPrepared by Radioactive Waste Management Officer:\n\nVerified by:\n\nSignature:\n\nDate:\n\n*Discharge, dispose, release or return to supplier.\n\nImportant: Completed form shall be submitted to the Board by 1 March each calendar year.\n\nMade 29 July 2011\n\n[LPTA(S):TAD; PN(PU2)425/VI]\n\n DATUK SERI DR. MAXIMUS JOHNITY ONGKILI\n\n Minister of Science, Technology and Innovation"
+   }
+  }
+ ]
+}

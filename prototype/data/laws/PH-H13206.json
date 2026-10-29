@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13206",
+ "title": {
+  "zh": null,
+  "en": "An Act Appropriating the Sura of Fifteen thousand Pesos for Temporary Repairs to the Benguet Road Lying Within the Mountain Province.",
+  "orig": "An Act Appropriating the Sura of Fifteen thousand Pesos for Temporary Repairs to the Benguet Road Lying Within the Mountain Province."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1915-11-02",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2535",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 702,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1915/act_2535_1915.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02535_1915_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02535_1915_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13206-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "There is hereby appropriated out of any funds in the Insular Treasury not otherwise appropriated\nthe sum of fifteen thousand pesos for temporary repairs to the Benguet Road and other incidental expenses\nnecessitated thereby, to be expended under the direction of the Secretary of Commerce and Police: Provided,\nThat, after the expenditure of the sum hereby appropriated, if the Bureau of Public Works shall, at any time in\nthe future, notify the Secretary of Commerce and Police that the Benguet Road is unsafe for further traffic, the\nsaid Benguet Road shall be declared permanently closed by the Secretary of Commerce and Police."
+   }
+  },
+  {
+   "id": "PH-H13206-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its passage.\nEnacted, November 2, 1915."
+   }
+  }
+ ]
+}

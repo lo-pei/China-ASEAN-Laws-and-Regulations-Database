@@ -1,0 +1,82 @@
+{
+ "id": "PH-H10714",
+ "title": {
+  "zh": null,
+  "en": "AN ACT APPROPRIATING TWO MILLION DOLLARS, MEXICAN, TO BE USED IN THE CONSTRUCTION AND REPAIR OF HIGHWAYS AND BRIDGES IN THE PHILIPPINE ISLANDS.",
+  "orig": "AN ACT APPROPRIATING TWO MILLION DOLLARS, MEXICAN, TO BE USED IN THE CONSTRUCTION AND REPAIR OF HIGHWAYS AND BRIDGES IN THE PHILIPPINE ISLANDS."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 1",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 678,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_00001_1900_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_00001_1900_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H10714-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The sum of two million dollars, Mexican, is hereby Mexican money, appropriated out of any\nmoney in the Insular Treasury, not otherwise appropriated, to be expended in the immediate construction and\nrepair of highways and bridges in the Philippine Islands."
+   }
+  },
+  {
+   "id": "PH-H10714-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The sum so appropriated shall be expended under the Expenditure, direction of the Military\nGovernor in the construction and repair of such highways and bridges as in his judgment may be most\nconducive to the public welfare."
+   }
+  },
+  {
+   "id": "PH-H10714-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "The Insular Treasurer is hereby authorized and directed to pay the warrants of the Military\nGovernor for the sum so appropriated."
+   }
+  },
+  {
+   "id": "PH-H10714-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, September 12, 1900."
+   }
+  }
+ ]
+}

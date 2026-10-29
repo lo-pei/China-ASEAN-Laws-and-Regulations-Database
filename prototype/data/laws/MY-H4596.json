@@ -1,0 +1,214 @@
+{
+ "id": "MY-H4596",
+ "title": {
+  "zh": "2026年商船（船舶登记与发牌）条例",
+  "en": "MERCHANT SHIPPING (REGISTRATION AND LICENSING OF SHIPS) REGULATIONS 2026",
+  "orig": "MERCHANT SHIPPING (REGISTRATION AND LICENSING OF SHIPS) REGULATIONS 2026",
+  "ms": "Peraturan Perkapalan Saudagar (Pendaftaran dan Pelesenan Kapal) 2026",
+  "vi": "Quy định về Tàu buôn (Đăng ký và cấp phép tàu biển) năm 2026",
+  "th": "ข้อบังคับเรือพาณิชย์ (การจดทะเบียนและการออกใบอนุญาตเรือ) ค.ศ. 2026",
+  "id": "Peraturan Pelayaran Niaga (Registrasi dan Perizinan Kapal) Tahun 2026"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-10",
+ "language": "ms",
+ "level": "regulation",
+ "category": "03_涉外投资与贸易",
+ "status": "active",
+ "promulgatedDate": "2026",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "PUA334",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 14,
+ "chars": 18368,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-view.php?type=pua&no=P.U. (A) 334/2026&status=PRINCIPAL"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\03_涉外投资与贸易\\2026_P.U.(A)334-2026_MERCHANT SHIPPING (REGISTRATION AND LICENSING OF SHIPS) REGULATIONS 2026.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 14 条；逐字未改写（源自厂商 OCR 文本）。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H4596-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "1. Nama dan permulaan kuat kuasa\n\nBAHAGIAN II\n\nPENDAFTARAN KAPAL DAN KEHENDAK LAIN"
+   }
+  },
+  {
+   "id": "MY-H4596-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "2. Permohonan bagi pendaftaran dan pendaftaran semula kapal"
+   }
+  },
+  {
+   "id": "MY-H4596-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "3. Pendaftaran dan penolakan untuk mendaftar"
+   }
+  },
+  {
+   "id": "MY-H4596-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "4. Pengeluaran perakuan pendaftaran"
+   }
+  },
+  {
+   "id": "MY-H4596-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "5. Permohonan untuk menguntukkan awalan atau akhiran bagi kapal"
+   }
+  },
+  {
+   "id": "MY-H4596-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "6. Penandaan kapal"
+   }
+  },
+  {
+   "id": "MY-H4596-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "7. Pengeluaran perakuan pendaftaran baharu"
+   }
+  },
+  {
+   "id": "MY-H4596-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "8. Perubahan nama kapal\n\nBAHAGIAN III\n\nPELESENAN KAPAL"
+   }
+  },
+  {
+   "id": "MY-H4596-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "9. Permohonan lesen"
+   }
+  },
+  {
+   "id": "MY-H4596-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "10. Pengeluaran lesen dan penolakan untuk mengeluarkan lesen"
+   }
+  },
+  {
+   "id": "MY-H4596-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "11. Pembaharuan lesen"
+   }
+  },
+  {
+   "id": "MY-H4596-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "12. Pembatalan lesen\n\nPART IV\n\nPELBAGAI"
+   }
+  },
+  {
+   "id": "MY-H4596-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13"
+   },
+   "chapter": {
+    "en": "PART IV"
+   },
+   "heading": {},
+   "text": {
+    "ms": "13. Langganan bagi perkhidmatan pemfailan elektronik"
+   }
+  },
+  {
+   "id": "MY-H4596-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14"
+   },
+   "chapter": {
+    "en": "PART IV"
+   },
+   "heading": {},
+   "text": {
+    "ms": "14. Pembatalan, kecualian dan peralihan\n\nJADUAL PERTAMA\n\nJADUAL KEDUA\n\nJADUAL KETIGA\n\nORDINAN PERKAPALAN SAUDAGAR 1952\n\nPERATURAN-PERATURAN PERKAPALAN SAUDAGAR\n\n(PENDAFTARAN DAN PELESENAN KAPAL) 2026\n\nPADA menjalankan kuasa yang diberikan oleh seksyen 68Q\n\nOrdinan Perkapalan Saudagar 1952 [Ordinan 70/1952], Menteri membuat\n\nperaturan-peraturan yang berikut:\n\nBAHAGIAN I\n\nPERMULAAN\n\nNama dan permulaan kuat kuasa\n\n1. (1) Peraturan-peraturan ini bolehlah dinamakan sebagai\n\nPeraturan-Peraturan Perkapalan Saudagar (Pendaftaran dan Pelesenan\n\nKapal) 2026.\n\n(2) Peraturan-Peraturan ini mula berkuat kuasa pada 1 Januari 2027.\n\nBAHAGIAN II\n\nPENDAFTARAN KAPAL DAN KEHENDAK LAIN\n\nPermohonan bagi pendaftaran dan pendaftaran semula kapal\n\n2. (1) Seseorang pemunya atau seseorang nakhoda kapal hendaklah membuat\n\npermohonan kepada Pendaftar untuk mendaftarkan kapalnya sebagai suatu kapal\n\nMalaysia mengikut seksyen 20 Ordinan.\n\n(2) Apa-apa permohonan bagi pendaftaran semula sesuatu kapal di bawah\n\nPeraturan-Peraturan ini hendaklah disifatkan sebagai suatu permohonan bagi\n\npendaftaran baharu.\n\nPendaftaran dan penolakan untuk mendaftar\n\n3. (1) Jika Pendaftar berpuas hati bahawa kehendak yang berhubungan dengan\n\npendaftaran sesuatu kapal sebagai kapal Malaysia telah dipenuhi, Pendaftar hendaklah\n\nmendaftarkan kapal itu mengikut seksyen 25 Ordinan.\n\n(2) Pendaftar boleh menolak untuk mendaftarkan sesuatu kapal sebagai\n\nkapal Malaysia jika dia berpuas hati bahawa pemunya atau nakhoda kapal itu tidak\n\nmematuhi apa-apa kehendak bagi pendaftaran.\n\n(3) Jika Pendaftar menolak untuk mendaftarkan sesuatu kapal sebagai\n\nkapal Malaysia, dia hendaklah menyampaikan suatu notis kepada pemunya atau\n\nnakhoda kapal itu dalam tempoh empat belas hari bekerja dari tarikh permohonan itu\n\nyang menyatakan penolakan dan alasan bagi penolakan itu.\n\nPengeluaran perakuan pendaftaran\n\n4. Setelah pendaftaran kapal di bawah peraturan 3, Pendaftar hendaklah\n\nmengeluarkan suatu perakuan pendaftaran mengikut seksyen 28 Ordinan setelah\n\ndibayar fi pendaftaran sebagaimana yang dinyatakan dalam Jadual Pertama.\n\nPermohonan untuk menguntukkan awalan atau akhiran bagi kapal\n\n5. (1) Seseorang pemunya atau seseorang nakhoda kapal hendaklah membuat\n\npermohonan untuk menguntukkan awalan atau akhiran bagi kapal itu dengan\n\nmenyatakan awalan atau akhiran yang dicadangkan kepada Pendaftar.\n\n(2) Suatu permohonan di bawah subperaturan (1) hendaklah disertakan\n\ndengan fi sebagaimana yang dinyatakan dalam Jadual Kedua.\n\nPenandaan kapal\n\n6. Sebelum sesuatu kapal didaftarkan di bawah Peraturan-Peraturan ini,\n\nkapal itu hendaklah ditandakan secara kekal dan mudah dilihat hingga memuaskan hati\n\nPendaftar, dengan—\n\n(a) nama kapal itu—\n\n(i) pada setiap haluan kapal itu; dan\n\n(ii) nama pelabuhan pendaftaran pada buritan kapal itu,\n\ndalam huruf besar tingginya tidak kurang daripada 100 milimeter dan\n\ndicat dalam warna putih atau kuning di atas latar belakang gelap, atau\n\ndalam warna hitam di atas latar belakang cerah;\n\n(b) nombor rasmi kapal itu dan nombor yang menandakan tanan yang\n\nberdaftar pada pelancar utama kapal itu; dan\n\n(c) suatu skala yang menandakan drauf air dalam unit metrik pada setiap sisi\n\ntiang haluan dan buritan, dalam huruf besar yang tingginya tidak kurang\n\ndaripada 100 milimeter, dengan garis bawah huruf itu sama dengan garis\n\ndrauf dan dicat dalam warna putih atau kuning di atas latar belakang gelap.\n\nPengeluaran perakuan pendaftaran baharu\n\n7. (1) Pendaftar boleh, setelah dibayar fi sebanyak satu ratus ringgit,\n\nmengeluarkan suatu perakuan pendaftaran baharu sebagai ganti perakuan pendaftaran\n\nasal yang dikeluarkan di bawah Peraturan-Peraturan ini, jika perakuan pendaftaran itu\n\nsalah letak, hilang, rosak atau musnah.\n\n(2) Jika suatu perakuan pendaftaran baharu dikeluarkan di bawah\n\nsubperaturan (1), perakuan pendaftaran asal hendaklah disifatkan telah dibatalkan.\n\nPerubahan nama kapal\n\n8. Seseorang pemunya kapal Malaysia tidak boleh mengubah nama kapal itu, atau\n\nmenyebabkan atau membenarkan apa-apa perubahan sedemikian tanpa kebenaran\n\nbertulis Pendaftar terlebih dahulu dan setelah membayar fi sebanyak satu ratus ringgit.\n\nBAHAGIAN III\n\nPELESENAN KAPAL\n\nPermohonan lesen\n\n9. Tertakluk kepada seksyen 54 Ordinan, seseorang pemunya atau seseorang\n\nnakhoda kapal di bawah lima belas tanan bersih hendaklah memohon suatu lesen kepada\n\npegawai pelesenan mengikut seksyen 57 Ordinan.\n\nPengeluaran lesen dan penolakan untuk mengeluarkan lesen\n\n10. (1) Jika pegawai pelesenan berpuas hati bahawa kehendak bagi suatu lesen\n\ntelah dipenuhi, pegawai pelesenan hendaklah mengeluarkan suatu lesen kepada\n\npemunya atau nakhoda sesuatu kapal mengikut seksyen 59 Ordinan, setelah dibayar fi\n\nsebagaimana yang dinyatakan dalam Jadual Ketiga.\n\n(2) Pegawai pelesenan hendaklah menolak untuk mengeluarkan suatu lesen\n\njika dia berpuas hati bahawa pemunya atau nakhoda kapal itu tidak mematuhi apa-apa\n\nkehendak bagi lesen.\n\n(3) Jika pegawai pelesenan menolak untuk mengeluarkan suatu lesen,\n\ndia hendaklah menyampaikan suatu notis kepada pemunya atau nakhoda kapal itu dalam\n\ntempoh empat belas hari bekerja dari tarikh permohonan itu yang menyatakan\n\npenolakan dan alasan bagi penolakan itu.\n\nPembaharuan lesen\n\n11. Apa-apa permohonan bagi pembaharuan suatu lesen yang dikeluarkan di bawah\n\nPeraturan-Peraturan ini hendaklah disifatkan sebagai suatu permohonan bagi\n\nlesen baharu.\n\nPembatalan lesen\n\n12. (1) Pegawai pelesenan boleh membatalkan suatu lesen yang dikeluarkan\n\ndi bawah peraturan 10, jika dia berpuas hati bahawa—\n\n(a) kapal itu dikendalikan bertentangan dengan mana-mana terma\n\natau syarat lesen;\n\n(b) kapal itu tidak lagi sesuai bagi maksud yang ia telah dilesenkan; atau\n\n(c) lesen itu diperoleh melalui fraud atau salah nyataan.\n\n(2) Suatu notis bertulis hendaklah diberikan kepada pemegang lesen\n\nsekurang-kurangnya empat belas hari bekerja sebelum apa-apa pembatalan suatu lesen\n\ndibuat dan pemegang lesen itu hendaklah diberikan peluang untuk mengemukakan\n\nsuatu representasi secara bertulis.\n\n(3) Walau apa pun subperaturan (2), pegawai pelesenan boleh membatalkan\n\nsuatu lesen atas alasan keselamatan awam dengan serta-merta.\n\nBAHAGIAN IV\n\nPELBAGAI\n\nLangganan bagi perkhidmatan pemfailan elektronik\n\n13. Bagi maksud pemfailan apa-apa dokumen di bawah Peraturan-Peraturan ini,\n\nmana-mana orang yang berhasrat untuk menggunakan perkhidmatan pemfailan\n\nelektronik yang disediakan di bawah seksyen 68H Ordinan hendaklah melanggan\n\nkepada perkhidmatan pemfailan elektronik itu dan hendaklah membayar fi tahunan\n\nsebanyak lima puluh ringgit.\n\nPembatalan, kecualian dan peralihan\n\n14. (1) Kaedah-Kaedah Bot 1953 [L.N. 312/1953] dibatalkan (\"Kaedah-Kaedah\n\nyang dibatalkan\").\n\n(2) Mana-mana lesen yang diperbaharui dan dikeluarkan di bawah\n\nKaedah-Kaedah yang dibatalkan sebelum tarikh permulaan kuat kuasa\n\nPeraturan-Peraturan ini hendaklah, pada tarikh permulaan kuat kuasa\n\nPeraturan-Peraturan ini, disifatkan telah diperbaharui dan dikeluarkan di bawah\n\nPeraturan-Peraturan ini dan hendaklah terus sah sehingga dibatalkan atau\n\ntamat tempoh.\n\n(3) Mana-mana permohonan bagi pembaharuan lesen di bawah\n\nKaedah-Kaedah yang dibatalkan yang belum selesai sebelum tarikh permulaan\n\nkuat kuasa Peraturan-Peraturan ini hendaklah, pada tarikh permulaan kuat kuasa\n\nPeraturan-Peraturan ini, terus diuruskan mengikut Kaedah-Kaedah yang dibatalkan\n\nseolah-olah Kaedah-Kaedah yang dibatalkan itu tidak dibatalkan oleh\n\nPeraturan-Peraturan ini.\n\nJADUAL PERTAMA\n\nFI PENDAFTARAN\n\n[Peraturan 4]\n\n(1)\n\nBil.\n\n(2)\n\nPerihalan\n\n(3)\n\nBagi setiap kapal\n\n(RM)\n\n1. Bagi 100 tanan bersih pertama 500.00\n\n2. Bagi setiap tanan bersih yang melebihi 100 tanan\n\nbersih pertama\n\n0.30\n\n3. Fi maksimum 30,000.00\n\nJADUAL KEDUA\n\nFI PERMOHONAN UNTUK MENGUNTUKKAN AWALAN ATAU AKHIRAN BAGI KAPAL\n\n[Subperaturan 5(2)]\n\n(1)\n\nBil.\n\n(2)\n\nPerihalan\n\n(3)\n\nBagi setiap\n\npermohonan\n\n(RM)\n\n1. Awalan 10,000.00\n\n2. Akhiran 10,000.00\n\nJADUAL KETIGA\n\nFI LESEN\n\n[Subperaturan 10(1)]\n\n(1)\n\nBil.\n\n(2)\n\nPerihalan\n\n(3)\n\n(RM)\n\n1. Lesen bagi kapal kargo atau tongkang di bawah\n\n5 tanan bersih dan tidak didorongi jentera\n\n5.00\n\n2. Lesen bagi kapal kargo atau tongkang dari 5 tanan\n\nbersih hingga 15 tanan bersih dan ke bawah dan\n\ntidak didorongi jentera\n\n15.00\n\n3. Lesen bagi kapal kargo dari 10 tanan bersih hingga\n\n15 tanan bersih dan ke bawah dan didorongi\n\njentera\n\n50.00\n\n4. Lesen bagi kapal penumpang di bawah 15 tanan\n\nbersih dan tidak didorongi jentera\n\n3.00\n\n5. Lesen bagi kapal penumpang di bawah 10 tanan\n\nbersih dan didorongi jentera\n\n30.00\n\n6. Lesen bagi kapal penumpang dari 10 tanan bersih\n\nhingga 15 tanan bersih dan ke bawah dan\n\ndidorongi jentera\n\n60.00\n\nDibuat 18 September 2026\n\n[MOT.BM(S).600-2/8/9(36); PN(PU2)199/JLD.33]\n\n LOKE SIEW FOOK\n\nMenteri Pengangkutan\n\nMERCHANT SHIPPING ORDINANCE 1952\n\nMERCHANT SHIPPING (REGISTRATION AND LICENSING OF SHIPS)\n\nREGULATIONS 2026\n\n___________________________________\n\nARRANGEMENT OF REGULATIONS\n\n____________________________________\n\nPART I\n\nPRELIMINARY\n\nRegulation\n\n1. Citation and commencement\n\nPART II\n\nREGISTRATION OF SHIPS AND OTHER REQUIREMENTS\n\n2. Application for registration and re-registration of ships\n\n3. Registration and refusal to register\n\n4. Issuance of certificate of registry\n\n5. Application to reserve prefix or suffix for ships\n\n6. Marking of ships\n\n7. Issuance of new certificate of registry\n\n8. Change of ship's name\n\nPART III\n\nLICENSING OF SHIPS\n\n9. Application of licence\n\n10. Issuance of licence and refusal to issue licence\n\n11. Renewal of licence\n\n12. Revocation of licence\n\nPART IV\n\nMISCELLANEOUS\n\n13. Subscription for electronic filing service\n\n14. Revocation, savings and transitional\n\nFIRST SCHEDULE\n\nSECOND SCHEDULE\n\nTHIRD SCHEDULE\n\nMERCHANT SHIPPING ORDINANCE 1952\n\nMERCHANT SHIPPING (REGISTRATION AND LICENSING OF SHIPS)\n\nREGULATIONS 2026\n\nIN exercise of the powers conferred by section 68Q of the\n\nMerchant Shipping Ordinance 1952 [Ordinance 70/1952], the Minister makes the\n\nfollowing regulations:\n\nPART I\n\nPRELIMINARY\n\nCitation and commencement\n\n1. (1) These regulations may be cited as the Merchant Shipping (Registration\n\nand Licensing of Ships) Regulations 2026.\n\n(2) These Regulations come into operation on 1 January 2027.\n\nPART II\n\nREGISTRATION OF SHIPS AND OTHER REQUIREMENTS\n\nApplication for registration and re-registration of ships\n\n2. (1) An owner or a master of a ship shall make an application to the Registrar\n\nto register his ship as a Malaysian ship in accordance with section 20 of the Ordinance.\n\n(2) Any application for re-registration of a ship under these Regulations\n\nshall be deemed as an application for a new registration.\n\nRegistration and refusal to register\n\n3. (1) If the Registrar is satisfied that the requirements relating to the registration\n\nof a ship as a Malaysian ship have been fulfilled, the Registrar shall register the ship\n\nin accordance with section 25 of the Ordinance.\n\n(2) The Registrar may refuse to register a ship as a Malaysian ship if he\n\nis satisfied that the owner or master of the ship has not complied with any of the\n\nrequirements for registration.\n\n(3) If the Registrar refuses to register a ship as a Malaysian ship, he shall serve\n\na notice on the owner or master of the ship within fourteen working days from the\n\ndate of application stating the refusal and the grounds of such refusal.\n\nIssuance of certificate of registry\n\n4. Upon the registration of the ship under regulation 3, the Registrar shall issue\n\na certificate of registry in accordance with section 28 of the Ordinance upon payment of\n\nthe registration fee as specified in the First Schedule.\n\nApplication to reserve prefix or suffix for ships\n\n5. (1) An owner or a master of a ship shall make an application to reserve a prefix\n\nor suffix for the ship by specifying the proposed prefix or suffix to the Registrar.\n\n(2) An application under subregulation (1) shall be accompanied by a fee\n\nas specified in the Second Schedule.\n\nMarking of ships\n\n6. Before a ship is registered under these Regulations, the ship shall be marked\n\npermanently and conspicuously to the satisfaction of the Registrar, with—\n\n(a) the name of the ship—\n\n(i) on each bow of the ship; and\n\n(ii) the name of the port of registry on the ship's stern,\n\nin capital letters not less than 100 millimetres in height and painted in\n\nwhite or yellow on a dark background, or in black on a light background;\n\n(b) the official number of the ship and the number denoting the registered\n\ntonnage on the main beam of the ship; and\n\n(c) a scale denoting the draught of water in metric units on each side of the\n\nstem and stern post, in capital letters of not less than 100 millimetres\n\nin height, with the lower line of the letters corresponding with the draught\n\nline and painted in white or yellow on a dark background.\n\nIssuance of new certificate of registry\n\n7. (1) The Registrar may, upon payment of a fee of one hundred ringgit,\n\nissue a new certificate of registry in lieu of the original certificate of registry issued under\n\nthese Regulations, if the certificate of registry is mislaid, lost, defaced or destroyed.\n\n(2) If a new certificate of registry is issued under subregulation (1), the original\n\ncertificate of registry shall be deemed to have been revoked.\n\nChange of ship's name\n\n8. An owner of a Malaysian ship shall not change the name of the ship, or cause or\n\npermit any such change without the prior written permission of the Registrar and upon\n\npayment of a fee of one hundred ringgit.\n\nPART III\n\nLICENSING OF SHIPS\n\nApplication of licence\n\n9. Subject to section 54 of the Ordinance, an owner or a master of a ship below\n\nfifteen net tonnages shall apply for a licence to the licensing officer in accordance with\n\nsection 57 of the Ordinance.\n\nIssuance of licence and refusal to issue licence\n\n10. (1) If the licensing officer is satisfied that the requirements for a licence have\n\nbeen fulfilled, the licensing officer shall issue a licence to the owner or master of a ship\n\nin accordance with section 59 of the Ordinance, upon payment of a fee as specified in the\n\nThird Schedule.\n\n(2) The licensing officer shall refuse to issue a licence if he is satisfied that the\n\nowner or master of the ship has not complied with any of the requirements for a licence.\n\n(3) If the licensing officer refuses to issue a licence, he shall serve a notice\n\non the owner or master of the ship within fourteen working days from the date of\n\napplication stating the refusal and the grounds of such refusal.\n\nRenewal of licence\n\n11. Any application for renewal of a licence issued under these Regulations shall be\n\ndeemed as an application for a new licence.\n\nRevocation of licence\n\n12. (1) The licensing officer may revoke a licence issued under regulation 10,\n\nif he is satisfied that—\n\n(a) the ship is operated in contravention of any terms or conditions of\n\nthe licence;\n\n(b) the ship is no longer fit for the purposes for which it was licensed;\n\nor\n\n(c) the licence was obtained by fraud or misrepresentation.\n\n(2) A written notice shall be given to the licensee at least fourteen working\n\ndays before any revocation of a licence is made and the licensee shall be given\n\nan opportunity to submit a written representation.\n\n(3) Notwithstanding subregulation (2), the licensing officer may immediately\n\nrevoke a licence on the grounds of public safety.\n\nPART IV\n\nMISCELLANEOUS\n\nSubscription for electronic filing service\n\n13. For the purposes of filing any document under these Regulations, any person who\n\nintends to use the electronic filing service provided under section 68H of the Ordinance\n\nshall subscribe to the electronic filing service and shall pay an annual fee of fifty ringgit.\n\nRevocation, savings and transitional\n\n14. (1) The Boat Rules 1953 [L.N. 312/1953] are revoked (\"the revoked Rules\").\n\n(2) Any licence renewed and issued under the revoked Rules before the date\n\nof coming into operation of these Regulations shall, on the date of coming into operation\n\nof these Regulations, be deemed to have been renewed and issued under these\n\nRegulations and shall continue to be valid until revoked or expired.\n\n(3) Any application for a renewal of licence under the revoked Rules which\n\nis pending before the date of coming into operation of these Regulations shall,\n\non the date of coming into operation of these Regulations, continue to be dealt with\n\nin accordance with the revoked Rules as if the revoked Rules had not been revoked by\n\nthese Regulations.\n\nFIRST SCHEDULE\n\nREGISTRATION FEE\n\n[Regulation 4]\n\n(1)\n\nNo.\n\n(2)\n\nDescription\n\n(3)\n\nPer ship\n\n(RM)\n\n1. For the first 100 net tonnages 500.00\n\n2. For every net tonnage exceeding the first\n\n100 net tonnages\n\n0.30\n\n(1)\n\nNo.\n\n(2)\n\nDescription\n\n(3)\n\nPer ship\n\n(RM)\n\n3. Maximum fee 30,000.00\n\nSECOND SCHEDULE\n\nFEE OF APPLICATION TO RESERVE PREFIX OR SUFFIX FOR SHIPS\n\n [Subregulation 5(2)]\n\n(1)\n\nNo.\n\n(2)\n\nDescription\n\n(3)\n\nPer application\n\n(RM)\n\n1. Prefix 10,000.00\n\n2. Suffix 10,000.00\n\nTHIRD SCHEDULE\n\nFEE OF LICENCE\n\n[Subregulation 10(1)]\n\n(1)\n\nNo.\n\n(2)\n\nDescription\n\n(3)\n\n(RM)\n\n1. Licence for cargo ship or lighter below 5 net\n\ntonnages and not mechanically propelled\n\n5.00\n\n2. Licence for cargo ship or lighter from 5 net tonnages\n\nto 15 net tonnages and below and not mechanically\n\npropelled\n\n15.00\n\n3. Licence for cargo ship from 10 net tonnages to 15 net\n\ntonnages and below and mechanically propelled\n\n50.00\n\n4. Licence for passenger ship below 15 net tonnages\n\nand not mechanically propelled\n\n3.00\n\n5. Licence for passenger ship below 10 net tonnages\n\nand mechanically propelled\n\n30.00\n\n(1)\n\nNo.\n\n(2)\n\nDescription\n\n(3)\n\n(RM)\n\n6. Licence for passenger ship from 10 net tonnages\n\nto 15 net tonnages and below and mechanically\n\npropelled\n\n60.00\n\nMade 18 September 2026\n\n[MOT.BM(S).600-2/8/9(36); PN(PU2)199/JLD.33]\n\n LOKE SIEW FOOK\n\nMinister of Transport"
+   }
+  }
+ ]
+}

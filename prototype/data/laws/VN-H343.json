@@ -1,0 +1,602 @@
+{
+ "id": "VN-H343",
+ "title": {
+  "zh": "利润税法",
+  "en": "Law No. 270b-NQ/HĐNN8 on profits tax",
+  "vi": "Luật Thuế Lợi tức số 270b-NQ/HĐNN8",
+  "orig": "Luật Thuế Lợi tức số 270b-NQ/HĐNN8",
+  "th": "พระราชบัญญัติภาษีกำไร เลขที่ 270b-NQ/HĐNN8",
+  "id": "Undang-Undang Pajak Laba No. 270b-NQ/HĐNN8",
+  "ms": "Akta Cukai Keuntungan No. 270b-NQ/HĐNN8"
+ },
+ "country": "VN",
+ "countryName": "越南",
+ "layer": "intl",
+ "pack": "vn-p06",
+ "language": "vi",
+ "level": "law",
+ "category": "02_民商事与经济法",
+ "status": "active",
+ "promulgatedDate": "1990",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "国会",
+ "docNumber": "270b-NQ/HĐNN8",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 40,
+ "chars": 18596,
+ "source": {
+  "name": "越南法律数据库（vbpl.vn 官方公报文本）",
+  "url": "https://vbpl.vn/van-ban/chi-tiet/luat-thue-loi-tuc-so-270b-nq-hdnn8--2063"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\VN\\02_民商事与经济法\\1990_270b-NQ HĐNN8_Luật Thuế Lợi tức số 270b-NQ HĐNN8.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 40 条；逐字未改写（源自 VN）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "VN-H343-A1",
+   "no": 1,
+   "noLabel": {
+    "vi": "Điều 1"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 1\n\nTổ chức, cá nhân thuộc các thành phần kinh tế có lợi tức từ các hoạt động sản xuất, xây dựng, vận tải, thương nghiệp, ăn uống, dịch vụ và hoạt động kinh doanh khác trên lãnh thổ Việt Nam (gọi chung là cơ sở kinh doanh) đều phải nộp thuế lợi tức theo quy định của Luật này."
+   }
+  },
+  {
+   "id": "VN-H343-A2",
+   "no": 2,
+   "noLabel": {
+    "vi": "Điều 2"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 2\n\nCác hoạt động kinh doanh sau đây không thuộc diện chịu thuế theo quy định của Luật này:\n\n1- Các hoạt động kinh doanh thuộc diện chịu thuế lợi tức theo quy định của Luật đầu tư nước ngoài tại Việt Nam.\n\n2- Các hoạt động sản xuất nông nghiệp thuộc diện chịu thuế nông nghiệp."
+   }
+  },
+  {
+   "id": "VN-H343-A3",
+   "no": 3,
+   "noLabel": {
+    "vi": "Điều 3"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 3\n\nCơ sở kinh doanh có nghĩa vụ khai báo, nộp thuế đầy đủ theo quy định của Luật thuế lợi tức."
+   }
+  },
+  {
+   "id": "VN-H343-A4",
+   "no": 4,
+   "noLabel": {
+    "vi": "Điều 4"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 4\n\nNghiêm cấm mọi hành vi trốn thuế, dây dưa tiền thuế và các hành vi khác vi phạm những quy định của Luật này."
+   }
+  },
+  {
+   "id": "VN-H343-A5",
+   "no": 5,
+   "noLabel": {
+    "vi": "Điều 5"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 5\n\nCác cơ quan Nhà nước, tổ chức xã hội, đơn vị lực lượng vũ trang và mọi công dân có trách nhiệm giúp cơ quan thuế, cán bộ thuế trong việc thi hành nhiệm vụ.\n\nCHƯƠNG II\n\nCĂN CỨ TÍNH THUẾ VÀ BIỂU THUẾ LỢI TỨC"
+   }
+  },
+  {
+   "id": "VN-H343-A6",
+   "no": 6,
+   "noLabel": {
+    "vi": "Điều 6"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 6\n\nCăn cứ tính thuế là tổng lợi tức chịu thuế cả năm (không phân biệt hoạt động chính, hoạt động phụ, thường xuyên, không thường xuyên) và thuế suất."
+   }
+  },
+  {
+   "id": "VN-H343-A7",
+   "no": 7,
+   "noLabel": {
+    "vi": "Điều 7"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 7\n\nLợi tức chịu thuế bằng tổng số doanh thu trừ (-) các khoản chi phí kinh doanh hợp lệ, hợp lý của cơ sở kinh doanh có liên quan đến lợi tức chịu thuế trong kỳ cộng (+) các khoản lợi tức khác."
+   }
+  },
+  {
+   "id": "VN-H343-A8",
+   "no": 8,
+   "noLabel": {
+    "vi": "Điều 8"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 8\n\nTổng doanh thu để tính lợi tức chịu thuế là toàn bộ tiền bán hàng, tiền gia công, tiền dịch vụ đã thực hiện, được dùng làm căn cứ tính thuế doanh thu và thuế tiêu thụ đặc biệt.\n\nLợi tức khác gồm: lãi ngân hàng, lợi tức hoạt động liên doanh, lợi tức cho thuê tài sản, lợi tức về thanh lý tài sản, chuyển nhượng tài sản, các khoản lợi tức tài chính khác."
+   }
+  },
+  {
+   "id": "VN-H343-A9",
+   "no": 9,
+   "noLabel": {
+    "vi": "Điều 9"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 9\n\nCác khoản chi phí hợp lệ, hợp lý được trừ để tính lợi tức chịu thuế quy định theo các nguyên tắc sau đây:\n\n1- Tài sản cố định sử dụng cho hoạt động kinh doanh phải trích khấu hao và chi phí kinh doanh. Tỷ lệ khấu hao tài sản cố định phản ánh đúng mức độ hao mòn thực tế tài sản cố định trong điều kiện sản xuất bình thường, được áp dụng thống nhất theo chế độ quy định của Nhà nước;\n\n2- Chi phí nguyên liệu, vật liệu, nhiên liệu, năng lượng thực tế sử dụng vào sản xuất kinh doanh liên quan đến lợi tức chịu thuế phát sinh, được tính theo mức tiêu hao hợp lý và giá thực tế xuất kho của cơ sở;\n\n3- Tiền lương, tiền công, các khoản mang tính chất tiền lương phải trả được căn cứ vào tính chất ngành nghề, định mức tiền lương, tiền công trong đơn vị sản phẩm theo năng suất lao động xã hội, hiệu quả kinh tế và tương quan hợp lý giữa các ngành nghề thuộc mọi thành phần kinh tế;\n\nĐối với hộ tư nhân kinh doanh, tiền công, tiền lương trả cho chủ hộ kinh doanh quy định tại điểm 3, Điều này không tính là chi phí được trừ để xác định lợi tức chịu thuế;\n\n4- Các khoản chi phí khác được công nhận hợp lệ, hợp lý:\n\na) Chi phí quản lý;\n\nb) Các khoản chi về mua hoặc chi trả tiền sử dụng các tài liệu kỹ thuật, bằng sáng chế, giấy phép công nghệ và các dịch vụ kỹ thuật;\n\nc) Các khoản chi liên quan trực tiếp đến việc tiêu thụ sản phẩm hoặc cung cấp dịch vụ;\n\nd) Các khoản tiền nộp quỹ bảo hiểm xã hội, bảo hiểm tài sản cơ sở;\n\ne) Các chi phí hợp lệ, hợp lý khác;\n\n5- Các khoản thuế, lệ phí đã nộp có liên quan đến hoạt động kinh doanh, trừ thuế lợi tức;\n\n6- Không được trừ vào chi phí sản xuất kinh doanh các khoản tiền phạt và các khoản chi không đúng chế độ quy định của Nhà nước.\n\nHội đồng bộ trưởng quy định chi tiết các chi phí sản xuất kinh doanh hợp lệ, hợp lý được trừ để xác định lợi tức chịu thuế theo các nguyên tắc quy định tại Điều này."
+   }
+  },
+  {
+   "id": "VN-H343-A10",
+   "no": 10,
+   "noLabel": {
+    "vi": "Điều 10"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 10\n\nTổ chức, cá nhân kinh doanh, trừ hộ kinh doanh nhỏ, hộ buôn chuyến, nộp thuế lợi tức theo thuế suất ổn định trên lợi tức chịu thuế cả năm quy định sau đây:\n\n1- Các ngành điện năng, khai thác mỏ, luyện kim, cơ khí, hoá chất cơ bản, phân bón, thuốc trừ sâu, vật liệu xây dựng, khai thác, chế biến lâm sản, thuỷ sản; xây dựng, vận tải: 30%.\n\n2- Các ngành công nghiệp nhẹ, công nghiệp thực phẩm và sản xuất khác: 40%.\n\n3- Thương nghiệp, ăn uống, dịch vụ các loại: 50%.\n\nĐối với hộ tư nhân kinh doanh, nếu có lợi tức hàng tháng trên sáu triệu đồng, thì ngoài việc phải nộp thuế lợi tức theo thuế suất ổn định, còn phải nộp thêm thuế lợi tức bổ sung do Hội đồng Nhà nước quy định."
+   }
+  },
+  {
+   "id": "VN-H343-A11",
+   "no": 11,
+   "noLabel": {
+    "vi": "Điều 11"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 11\n\n1- Hộ kinh doanh nhỏ nộp thuế lợi tức theo thuế suất khoán tính trên doanh thu quy định dưới đây:\n\na) Đối với ngành sản xuất, xây dựng, vận tải: 1%.\n\nb) Đối với ngành thương nghiệp, ăn uống, dịch vụ: 2%.\n\n2- Hộ kinh doanh nhỏ là hộ có doanh thu chịu thuế bình quân tháng đối với từng ngành như sau:\n\na) Ngành sản xuất, thương nghiệp: đến ba triệu đồng.\n\nb) Ngành ăn uống: đến một triệu năm trăm nghìn đồng.\n\nc) Ngành sản xuất gia công, vận tải, xây dựng, dịch vụ: đến bẩy trăm năm mươi nghìn đồng.\n\n3- Cơ sở kinh doanh buôn chuyến nộp thuế lợi tức theo tỷ lệ khoán trên doanh thu tính thuế là: 3%."
+   }
+  },
+  {
+   "id": "VN-H343-A12",
+   "no": 12,
+   "noLabel": {
+    "vi": "Điều 12"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 12\n\nTrong trường hợp cần thiết, Hội đồng Nhà nước có thể quyết định sửa đổi, bổ sung một số thuế suất thuế lợi tức quy định tại Điều 10, Điều 11 của Luật này và phải báo cáo để Quốc hội phê chuẩn trong kỳ họp gần nhất.\n\nCHƯƠNG III\n\nKÊ KHAI, NỘP THUẾ, THU THUẾ LỢI TỨC"
+   }
+  },
+  {
+   "id": "VN-H343-A13",
+   "no": 13,
+   "noLabel": {
+    "vi": "Điều 13"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 13\n\nTổ chức, cá nhân kinh doanh có trách nhiệm:\n\n1- Chấp hành nghiêm chỉnh chế độ sổ sách kế toán, chứng từ, hoá đơn theo quy định của Nhà nước cho từng loại đối tượng;\n\n2- Kê khai đẩy đủ doanh thu, chi phí, lợi tức kinh doanh theo đúng chế độ do Bộ tài chính quy định;\n\n3- Cung cấp tài liệu, sổ sách kế toán, chứng từ, hoá đơn theo yêu cầu của cơ quan thuế;\n\n4- Nộp thuế đầy đủ, đúng thời hạn."
+   }
+  },
+  {
+   "id": "VN-H343-A14",
+   "no": 14,
+   "noLabel": {
+    "vi": "Điều 14"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 14\n\nCác tổ chức kinh doanh, cá nhân kinh doanh loại lớn, loại vừa được tạm nộp thuế lợi tức hàng tháng, thanh toán khi quyết toán năm, và có nghĩa vụ:\n\n1- Trong mười ngày đầu tháng sau, phải nộp tờ khai về thuế lợi tức tháng trước theo mẫu của cơ quan thuế, nộp đủ số tiền thuế theo lệnh của cơ quan thuế chậm nhất không được quá ngày hai mươi tháng sau; không có doanh thu hoặc lỗ cũng phải nộp tờ khai.\n\n2- Cuối năm, hoặc trong trường hợp sáp nhập, phân chia hay ngừng kinh doanh, phải quyết toán lỗ, lãi, kê khai thanh toán thuế trong thời hạn bốn mươi lăm ngày kể từ khi kết thúc năm, hoặc kể từ khi ngừng kinh doanh theo mẫu của cơ quan thuế.\n\n3- Phải nộp đủ số thuế thanh toán trong thời hạn mười lăm ngày kể từ khi nhận được lệnh thu thuế của cơ quan thuế."
+   }
+  },
+  {
+   "id": "VN-H343-A15",
+   "no": 15,
+   "noLabel": {
+    "vi": "Điều 15"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 15\n\nHộ kinh doanh nhỏ được tính thuế lợi tức theo chế độ khoán trên doanh thu do cơ quan thuế ấn định từng thời kỳ ba tháng hoặc sáu tháng. Thuế lợi tức nộp dứt khoát hàng tháng cùng với thuế doanh thu theo quy định của cơ quan thuế."
+   }
+  },
+  {
+   "id": "VN-H343-A16",
+   "no": 16,
+   "noLabel": {
+    "vi": "Điều 16"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 16\n\nCơ sở kinh doanh buôn chuyến phải nộp thuế lợi tức đồng thời với việc nộp thuế doanh thu trước khi vận chuyển hàng."
+   }
+  },
+  {
+   "id": "VN-H343-A17",
+   "no": 17,
+   "noLabel": {
+    "vi": "Điều 17"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 17\n\nTổ chức kinh doanh khai và nộp thuế tại địa phương nơi đặt trụ sở chính của mình. Cá nhân nộp thuế lợi tức tại địa phương nơi đăng ký kinh doanh."
+   }
+  },
+  {
+   "id": "VN-H343-A18",
+   "no": 18,
+   "noLabel": {
+    "vi": "Điều 18"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 18\n\nThuế lợi tức nộp theo lệnh thu của cơ quan thu thuế.\n\nNgười nộp thuế có trách nhiệm nộp thuế và các khoản tiền phạt nếu có, theo đúng quy định tại kho bạc Nhà nước.\n\nQuá thời hạn ghi trong lệnh thu thuế mà số thuế, tiền phạt nếu có, chưa được thanh toán đầy đủ, cơ quan thuế có trách nhiệm tiến hành các biện pháp truy thu và xử lý theo quy định tại Điều 27 của Luật này."
+   }
+  },
+  {
+   "id": "VN-H343-A19",
+   "no": 19,
+   "noLabel": {
+    "vi": "Điều 19"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 19\n\nCơ quan thuế có nhiệm vụ, quyền hạn sau đây:\n\n1- Hướng dẫn, giúp đỡ, đôn đốc các cơ sở kinh doanh thực hiện nghiêm chỉnh chế độ sổ sách kế toán, chứng từ, hoá đơn và thủ tục kê khai, nộp thuế lợi tức;\n\n2- Kiểm tra, kiểm soát hoạt động kinh doanh để tính thuế lợi tức;\n\n3- Trong trường hợp cần thiết, yêu cầu mọi tổ chức, cá nhân cung cấp các tài liệu có liên quan đến việc tính thuế, nộp thuế lợi tức;\n\n4- Tính thuế, lập sổ thuế, duyệt sổ thuế và thông báo số thuế lợi tức phải nộp vào kho bạc Nhà nước. Khi thu thuế, cơ quan thu thuế phải cấp biên lai nộp thuế do Bộ tài chính phát hành;\n\n5- Lập biên bản và xử phạt hành chính theo thẩm quyền hoặc đề nghị truy cứu trách nhiệm hình sự đối với các vi phạm Luật thuế lợi tức;\n\n6- Xem xét, giải quyết khiếu nại, tố cáo về thuế lợi tức."
+   }
+  },
+  {
+   "id": "VN-H343-A20",
+   "no": 20,
+   "noLabel": {
+    "vi": "Điều 20"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 20\n\nCơ quan thuế có quyền ấn định lợi tức chịu thuế trong các trường hợp cơ sở kinh doanh:\n\n1- Không nộp tờ khai hoặc nộp tờ khai không đúng thời hạn về doanh thu, chi phí, lợi tức kinh doanh hàng tháng;\n\n2- Không giải thích hoặc chứng minh những điểm liên quan đến lợi tức kê khai theo yêu cầu của cơ quan thuế;\n\n3- Không thực hiện nghiêm chỉnh chế độ sổ sách kế toán, chứng từ, hoá đơn;\n\n4- Từ chối việc xuất trình sổ sách kế toán, chứng từ, hoá đơn theo yêu cầu của cơ quan thuế.\n\nCơ quan thuế căn cứ vào tài liệu điều tra để ấn định lợi tức chịu thuế.\n\nTrong trường hợp cơ sở kinh doanh không đồng ý với mức lợi tức chịu thuế ấn định, thì có quyền khiếu nại lên cơ quan thuế cấp trên trực tiếp của cơ quan thuế ấn định lợi tức chịu thuế. Trong khi chờ giải quyết, cơ sở kinh doanh vẫn phải nộp thuế lợi tức theo mức lợi tức chịu thuế đã ấn định.\n\nCHƯƠNG IV\n\nGIẢM THUẾ, MIỄN THUẾ LỢI TỨC"
+   }
+  },
+  {
+   "id": "VN-H343-A21",
+   "no": 21,
+   "noLabel": {
+    "vi": "Điều 21"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 21\n\nTổ chức, cá nhân ở miền núi, sản xuất sản phẩm phục vụ nhu cầu của địa phương được giảm đến 50% số thuế lợi tức phải nộp. Các hoạt động vận tải bằng phương tiện thô sơ ở miền núi được miễn thuế lợi tức. Tổ chức, cá nhân kinh doanh di chuyển địa điểm từ miền xuôi lên miền núi được miễn thuế lợi tức từ một năm đến ba năm kể từ khi bắt đầu hoạt động ở miền núi.\n\nTổ chức, cá nhân bị thiệt hại do thiên tai, địch hoạ, tai nạn bất ngờ được xét giảm hoặc miễn thuế."
+   }
+  },
+  {
+   "id": "VN-H343-A22",
+   "no": 22,
+   "noLabel": {
+    "vi": "Điều 22"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 22\n\nTổ chức, cá nhân kinh doanh ở miền núi hoặc trong một số ngành nghề cần khuyến khích đầu tư dùng lợi nhuận thu được để tái đầu tư thì được giảm thuế lợi tức. Tỷ lệ thuế lợi tức được giảm bằng tỷ lệ số tiền đã chi về tái đầu tư so với lợi tức chịu thuế, nhưng mức giảm tối đa không quá 50% số thuế lợi tức phải nộp trong năm."
+   }
+  },
+  {
+   "id": "VN-H343-A23",
+   "no": 23,
+   "noLabel": {
+    "vi": "Điều 23"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 23\n\nCác tổ chức kinh doanh mới thành lập ở miền núi hoặc trong một số ngành nghề cần khuyến khích đầu tư, nếu năm đầu kinh doanh bị lỗ, thì được chuyển số lỗ kinh doanh sang năm kế tiếp để trừ vào lợi tức chịu thuế trước khi tính thuế lợi tức."
+   }
+  },
+  {
+   "id": "VN-H343-A24",
+   "no": 24,
+   "noLabel": {
+    "vi": "Điều 24"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 24\n\nCác hoạt động sản xuất, dịch vụ sản xuất thuộc kinh tế gia đình do Hội đồng bộ trưởng quy định được miễn nộp thuế lợi tức."
+   }
+  },
+  {
+   "id": "VN-H343-A25",
+   "no": 25,
+   "noLabel": {
+    "vi": "Điều 25"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 25\n\nĐối với các đơn vị kinh tế quốc doanh, nếu sau khi tính thuế lợi tức theo quy định của Luật này, phần lợi nhuận còn lại không bảo đảm mức tối thiểu để trích lập hai quỹ khen thưởng và phúc lợi theo quy định của Hội đồng bộ trưởng thì được xét giảm thuế lợi tức. Việc giảm thuế được xem xét chặt chẽ, chỉ áp dụng cho một số cơ sở của một số ngành kinh tế quốc dân trong thời gian tối đa không quá ba năm."
+   }
+  },
+  {
+   "id": "VN-H343-A26",
+   "no": 26,
+   "noLabel": {
+    "vi": "Điều 26"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 26\n\nHội đồng bộ trưởng quy định nguyên tắc, thủ tục, thẩm quyền giải quyết việc xét giảm thuế, miễn thuế lợi tức theo quy định tại các Điều 21, 22, 23, 24 và 25 của Luật này.\n\nCHƯƠNG V\n\nXỬ LÝ VI PHẠM VÀ KHEN THƯỞNG"
+   }
+  },
+  {
+   "id": "VN-H343-A27",
+   "no": 27,
+   "noLabel": {
+    "vi": "Điều 27"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 27\n\n1- Việc xử lý các vi phạm Luật thuế lợi tức được quy định như sau:\n\na) Tổ chức, cá nhân không làm đúng những quy định về thủ tục khai báo, lập sổ sách và giữ chứng từ kế toán nói tại Điều 12 và Điều 13 của Luật này, thì tuỳ theo mức độ nhẹ hoặc nặng mà bị cảnh cáo hoặc phạt tiền đến năm trăm nghìn đồng;\n\nb) Tổ chức, cá nhân có hành vi khai man, trốn thuế, thì ngoài việc phải nộp đủ số thuế theo quy định của Luật này còn bị phạt tiền từ một đến ba lần số thuế gian lậu:\n\n- Vi phạm lần thứ nhất: phạt một lần;\n\n- Vi phạm lần thứ hai: phạt hai lần;\n\n- Vi phạm lần thứ ba trở lên: phạt ba lần.\n\nTrong trường hợp vi phạm có tình tiết nặng thì lần vi phạm thứ nhất cũng có thể bị phạt từ hai đến ba lần số thuế gian lậu;\n\nc) Tổ chức, cá nhân nộp chậm tiền thuế hoặc tiền phạt ghi trong lệnh thu thuế hoặc quyết định xử phạt, thì ngoài việc phải nộp đủ số thuế hoặc tiền phạt theo quy định của Luật này, mỗi ngày nộp chậm còn bị phạt 0,5% (năm phần nghìn) số tiền nộp chậm;\n\nd) Tổ chức, cá nhân dây dưa nộp thuế, nộp phạt thì bị xử lý như sau:\n\n- Trích tiền của tổ chức, cá nhân có tại ngân hàng để nộp thuế, nộp phạt. Ngân hàng có trách nhiệm thực hiện chế độ ưu tiên trích nộp tiền thuế, tiền phạt vào ngân sách Nhà nước;\n\n- Kê biên tài sản theo quy định của pháp luật để bảo đảm tiền thuế, tiền phạt còn thiếu.\n\n2- Cá nhân trốn thuế với số lượng lớn, hoặc đã bị xử lý hành chính theo các điểm a, b, c, d, khoản 1, Điều này mà còn vi phạm hoặc trốn thuế với số lượng rất lớn, hoặc phạm tội trong các trường hợp nghiêm trọng khác thì bị truy cứu trách nhiệm hình sự theo quy định tại Điều 169 của Bộ luật hình sự."
+   }
+  },
+  {
+   "id": "VN-H343-A28",
+   "no": 28,
+   "noLabel": {
+    "vi": "Điều 28"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 28\n\nThẩm quyền xử lý các vi phạm nói tại khoản 1, Điều 27 của Luật này được quy định như sau:\n\n1- Đối với vi phạm nói tại điểm a:\n\na) Trưởng trạm thuế được phạt đến năm mươi nghìn đồng;\n\nb) Thủ trưởng cơ quan thuế huyện hoặc cấp tương đương được phạt đến hai trăm nghìn đồng;\n\nc) Thủ trưởng cơ quan thuế tỉnh hoặc cấp tương đương được phạt đến năm trăm nghìn đồng.\n\n2- Đối với vi phạm nói tại điểm b:\n\na) Thủ trưởng cơ quan thuế huyện hoặc cấp tương đương được phạt một lần số thuế gian lậu;\n\nb) Thủ trưởng cơ quan thuế tỉnh hoặc cấp tương đương được phạt đến ba lần số thuế gian lậu.\n\n3- Thủ trưởng cơ quan thuế trực tiếp quản lý cơ sở kinh doanh được phạt nộp chậm và áp dụng các biện pháp xử lý theo quy định tại điểm c và điểm d, Điều 27 của Luật này."
+   }
+  },
+  {
+   "id": "VN-H343-A29",
+   "no": 29,
+   "noLabel": {
+    "vi": "Điều 29"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 29\n\nCá nhân cản trở hoặc xúi giục người khác cản trở việc thi hành Luật thuế lợi tức, cản trở việc điều tra và xử lý các vụ vi phạm Luật này, thì tuỳ mức độ nhẹ hoặc nặng mà xử phạt hành chính hoặc truy cứu trách nhiệm hình sự theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H343-A30",
+   "no": 30,
+   "noLabel": {
+    "vi": "Điều 30"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 30\n\nCán bộ thuế, cá nhân khác lợi dụng chức vụ, quyền hạn chiếm dụng, tham ô tiền thuế lợi tức thì phải bồi thường cho Nhà nước toàn bộ số tiền thuế chiếm dụng, tham ô và tuỳ mức độ vi phạm nhẹ hoặc nặng mà bị xử lý kỷ luật, xử phạt hành chính hoặc truy cứu trách nhiệm hình sự theo quy định của pháp luật.\n\nCán bộ thuế, cá nhân khác lợi dụng chức vụ, quyền hạn bao che cho người vi phạm Luật thuế lợi tức; cố ý làm trái quy định của Luật này, thiếu trách nhiệm trong việc thi hành Luật thuế lợi tức, thì tuỳ mức độ vi phạm mà bị xử lý kỷ luật, xử phạt hành chính hoặc truy cứu trách nhiệm hình sự theo quy định của pháp luật.\n\nCán bộ thuế, do thiếu tinh thần trách nhiệm hoặc cố tình xử lý sai, gây thiệt hại cho người nộp thuế hoặc người bị xử lý thì phải bồi thường cho người bị thiệt hại."
+   }
+  },
+  {
+   "id": "VN-H343-A31",
+   "no": 31,
+   "noLabel": {
+    "vi": "Điều 31"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 31\n\nHội đồng bộ trưởng quy định chế độ khen thưởng đối với:\n\n1- Cơ quan thuế, cán bộ thuế hoàn thành tốt nhiệm vụ được giao;\n\n2- Người có công phát hiện các vụ vi phạm Luật thuế lợi tức.\n\nCHƯƠNG VI\n\nKHIẾU NẠI VÀ THỜI HIỆU"
+   }
+  },
+  {
+   "id": "VN-H343-A32",
+   "no": 32,
+   "noLabel": {
+    "vi": "Điều 32"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 32\n\nTổ chức, cá nhân có quyền khiếu nại việc thi hành Luật thuế lợi tức không đúng với tổ chức, cá nhân mình.\n\nĐơn khiếu nại phải được gửi đến cơ quan thuế phát hành lệnh thu hoặc quyết định xử lý trong thời hạn ba mươi ngày, kể từ ngày nhận được lệnh thu hoặc quyết định xử lý.\n\nTrong khi chờ giải quyết, người khiếu nại phải nộp đủ và đúng thời hạn số tiền thuế, tiền phạt đã thông báo.\n\nCơ quan nhận đơn khiếu nại phải xem xét giải quyết trong thời hạn mười lăm ngày kể từ ngày nhận đơn. Đối với những vụ phức tạp, có thể kéo dài thời gian không quá ba mươi ngày, kể từ ngày nhận đơn."
+   }
+  },
+  {
+   "id": "VN-H343-A33",
+   "no": 33,
+   "noLabel": {
+    "vi": "Điều 33"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 33\n\nNếu người khiếu nại không đồng ý với quyết định của cơ quan nhận đơn hoặc quá thời hạn trên mà chưa được giải quyết, thì người khiếu nại có quyền khiếu nại lên cơ quan thuế cấp trên trực tiếp của cơ quan nhận đơn."
+   }
+  },
+  {
+   "id": "VN-H343-A34",
+   "no": 34,
+   "noLabel": {
+    "vi": "Điều 34"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 34\n\nCơ quan thuế phải thoái trả tiền thuế hay tiền phạt thu không đúng và trả tiền bồi thường nếu có, trong thời hạn mười lăm ngày kể từ ngày nhận quyết định xử lý của cấp trên."
+   }
+  },
+  {
+   "id": "VN-H343-A35",
+   "no": 35,
+   "noLabel": {
+    "vi": "Điều 35"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 35\n\nNếu phát hiện và kết luận có sự khai man, trốn thuế hoặc nhầm lẵn về thuế, cơ quan thuế có trách nhiệm truy thu hoặc truy hoàn thuế trong thời hạn ba năm kể từ ngày khai man, trốn thuế hoặc nhầm lẵn về thuế.\n\nCHƯƠNG VII\n\nTỔ CHỨC THỰC HIỆN"
+   }
+  },
+  {
+   "id": "VN-H343-A36",
+   "no": 36,
+   "noLabel": {
+    "vi": "Điều 36"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 36\n\nHội đồng bộ trưởng lãnh đạo việc tổ chức thực hiện công tác thuế lợi tức trong cả nước."
+   }
+  },
+  {
+   "id": "VN-H343-A37",
+   "no": 37,
+   "noLabel": {
+    "vi": "Điều 37"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 37\n\nBộ trưởng Bộ tài chính có trách nhiệm tổ chức thực hiện, kiểm tra công tác thuế lợi tức trong cả nước; giải quyết các khiếu nại, kiến nghị về thuế lợi tức thuộc thẩm quyền của mình."
+   }
+  },
+  {
+   "id": "VN-H343-A38",
+   "no": 38,
+   "noLabel": {
+    "vi": "Điều 38"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 38\n\nChủ tịch Uỷ ban nhân dân các cấp chỉ đạo việc thực hiện và kiểm tra việc chấp hành Luật thuế lợi tức trong địa phương mình.\n\nCHƯƠNG VIII\n\nĐIỀU KHOẢN CUỐI CÙNG"
+   }
+  },
+  {
+   "id": "VN-H343-A39",
+   "no": 39,
+   "noLabel": {
+    "vi": "Điều 39"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VIII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 39\n\nKhi giá cả thị trường biến động từ 20% trở lên thì Hội đồng bộ trưởng được phép điều chỉnh các định mức bằng tiền xác định trong Luật này theo sát thời giá."
+   }
+  },
+  {
+   "id": "VN-H343-A40",
+   "no": 40,
+   "noLabel": {
+    "vi": "Điều 40"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VIII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 40\n\nLuật thuế lợi tức có hiệu lực kể từ ngày 01 tháng 10 năm 1990.\n\nNhững quy định trước đây trái với Luật này đều bãi bỏ.\n\n--------------------------------\n\nLuật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá VIII, kỳ họp thứ 7 thông qua ngày 30 tháng 6 năm 1990.\n\n1:{\"id\":\"2063\",\"docType\":{\"id\":\"11025e19-2dd6-4165-85ad-ab6241186a1a\",\"name\":\"Luật\",\"code\":\"Lu\",\"parentCode\":\"VBQPPL\",\"parentName\":null},\"docGroup\":\"VBQPPL\",\"docNum\":\"270b-NQ/HĐNN8\",\"title\":\"Luật Thuế Lợi tức số 270b-NQ/HĐNN8\",\"applicationNote\":\"bị bãi bỏ\",\"issueDate\":\"1990-06-30T00:00:00\",\"effFrom\":\"1990-10-01T00:00:00\",\"effTo\":\"1999-01-01T00:00:00\",\"publicDate\":null,\"effStatus\":{\"id\":\"f55c1469-4341-4274-93ef-32b283db4dbd\",\"name\":\"Hết hiệu lực toàn bộ\",\"code\":\"HHL\",\"parentCode\":null,\"parentName\":null},\"status\":\"Publish\",\"lang\":\"vi\",\"defaultLanguage\":\"VN\",\"updatedBy\":\"dungdvm_II.2\",\"updatedDate\":\"2026-01-16T17:33:21\",\"agencyName\":\"Quốc hội\",\"organization\":{\"id\":\"d2907e2d-b1d4-4f22-8cfc-35f786fbf860\",\"code\":\"BTC\",\"name\":\"Bộ Tài chính\",\"nameEn\":\"Bộ Tài chính\",\"shortName\":\"BTC\",\"orgType\":\"0\"},\"isLw\":true,\"documentContent\":{\"id\":\"2063\",\"title\":null,\"content\":\"$2\"},\"documentContentEn\":null,\"documentContentFileName\":null,\"documentContentFileDocName\":null,\"documentIssues\":[{\"id\":\"1d9d8f7b-f31e-41b6-ad0a-45acb56a1e95\",\"agencyId\":\"55\",\"agencyName\":\"Quốc hội\",\"agencyNameEn\":\"National Assembly of Vietnam\",\"agencyCode\":\"QH\",\"personId\":\"604\",\"personName\":\"Lê Quang Đạo\",\"jobTitleId\":\"28da0087-8afd-420c-875c-b2369e212c3e\",\"jobTitleCode\":\"CTQH\",\"jobTitleName\":\"Chủ tịch Quốc hội\",\"orderIndex\":1}],\"documentMajors\":[{\"id\":\"nganh_63\",\"name\":\"Tài chính\",\"code\":null,\"parentCode\":null,\"parentName\":null}],\"documentFields\":[{\"id\":\"76e2c0d5-e93e-4ee9-8c72-59dae1167432\",\"name\":\"Chưa phân loại\",\"code\":null,\"parentCode\":null,\"parentName\":null}],\"documentRelatedList\":[{\"id\":\"07bfcc15-807e-490a-bd61-248539b6af80\",\"fileName\":\"2063_body_content.html\",\"relatedType\":\"MARKDOWN\",\"fileTitle\":\"2063_body_content.html\",\"fileOrder\":null}],\"provisionTree\":null,\"references\":null,\"isEffectAllDocument\":false,\"isOld\":true,\"reviewStatus\":\"INITIAL\",\"reviewed\":false,\"isTranslationDoc\":false,\"isConsolidatedDocument\":false,\"isConstitutionDocument\":false,\"isAdministrativeDocument\":false,\"viewCount\":59,\"showViewCount\":true,\"hasContent\":true,\"hasOriginalPdf\":null,\"hasAIProcessed\":false,\"hasClauseRelation\":null,\"aiResults\":[]}"
+   }
+  }
+ ]
+}

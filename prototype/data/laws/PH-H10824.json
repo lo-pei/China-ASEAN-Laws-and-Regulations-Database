@@ -1,0 +1,92 @@
+{
+ "id": "PH-H10824",
+ "title": {
+  "zh": null,
+  "en": "AN ACT EXEMPTING THE INHABITANTS OF THE PROVINCE OF BENGUET FROM THE PAYMENT OF INTERNAL-REVENUE TAXES.",
+  "orig": "AN ACT EXEMPTING THE INHABITANTS OF THE PROVINCE OF BENGUET FROM THE PAYMENT OF INTERNAL-REVENUE TAXES."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 111",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 5,
+ "chars": 1171,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_00111_1901_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 5 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_00111_1901_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H10824-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "From and after the first day of April, nineteen hundred and one, no internal-revenue taxes shall be\ncollected from the inhabitants of the Province of Benguet."
+   }
+  },
+  {
+   "id": "PH-H10824-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "All internal-revenue taxes collected from the Province of Benguet from and after the first day of\nJanuary, nineteen hundred and one, shall be paid to the governor of that province out of the Insular Treasury,\nto be by him deposited in the treasury of the province, and to be held as other funds for provincial purposes."
+   }
+  },
+  {
+   "id": "PH-H10824-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "The Collector of Internal Revenue shall certify to the, Military Governor the amount of taxes\ncollected in the Province of Benguet from the first of January, nineteen hundred and one, until the first day of\nApril, nineteen hundred and one, and warrant shall issue in favor of the governor of Benguet for the amount\nso certified, in accordance with law."
+   }
+  },
+  {
+   "id": "PH-H10824-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "The public good requiring the speedy enactment of this bill, the passage of the same is hereby\nexpedited in accordance with section two of \"An Act prescribing the order of procedure by the Commission\nin the enactment of laws,\" passed September twenty-sixth, nineteen hundred."
+   }
+  },
+  {
+   "id": "PH-H10824-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, March 30, 1901."
+   }
+  }
+ ]
+}

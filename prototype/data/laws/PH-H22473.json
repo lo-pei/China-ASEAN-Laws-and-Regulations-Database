@@ -1,0 +1,72 @@
+{
+ "id": "PH-H22473",
+ "title": {
+  "zh": null,
+  "en": "Amending Republic Act No. 3680 Otherwise Known as the Act Converting the Present Philippine Nautical School Into the Philippine Merchant Marine",
+  "orig": "Amending Republic Act No. 3680 Otherwise Known as the Act Converting the Present Philippine Nautical School Into the Philippine Merchant Marine"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1977-03-29",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 1110",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1362,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_01110_1977_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_01110_1977_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22473-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section 4 of Republic Act No. 3680 is hereby amended to read as follows:\n\"Sec. 4. The Government of said Academy is hereby vested in the Philippine Merchant Marine Academy\nBoard which shall be composed of the following: the Administrator of the Maritime Industry Authority who\nshall be ex-officio Chairman of the Board, with a representative of the Philippine Navy, the Chairman of the\nBoard of Marine Inquiry, the Chairman of the Board of Marine Examination for Deck Officers, the Chairman\nof the Board of Marine Examination for Marine Engineers, the President of the United Harbor Pilots\nAssociation of the Philippines, the President of the Filipino Shipowners Association, the Executive Director of\nthe National Seamen Board, and the Superintendent of the Academy, as members.\nMember of the Philippine Merchant Marine Academy Board shall serve without compensation, other than\nactual and necessary expenses incurred either in attendance upon meetings of the Board or upon official\nbusiness authorized by a resolution of the Board.\""
+   }
+  },
+  {
+   "id": "PH-H22473-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "All provisions of existing laws, decrees, orders, rules and regulations, or parts thereof, in conflict\nor inconsistent herewith, are hereby repealed or modified accordingly."
+   }
+  },
+  {
+   "id": "PH-H22473-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Decree shall take effect immediately.\nDone in the City of Manila, this 29th day of March, in the Year of Our Lord, nineteen hundred and\nseventy-seven."
+   }
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "id": "PH-H22304",
+ "title": {
+  "zh": null,
+  "en": "Creating the Municipality of Poonapiagapo in the Province of Lanao Del Norte",
+  "orig": "Creating the Municipality of Poonapiagapo in the Province of Lanao Del Norte"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1976-03-31",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 916",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1158,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_00916_1976_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_00916_1976_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22304-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The barangays of Tangklao, Piangamanganan, Kadayonan, Lupitan, Punud, Kabasaran,\nPantau-Raya, Kablanga, Pantaon, Nunungen, Lumbaka-Ingud, and Tadoken in the municipality of\nPantau-Ragat, and the barangays of Lumbaka-Ingud, Pened, Domiorog, Daramba, Nunang, Sulo, Caromatan,\nTagoranao, Madamba, Lumbatan, Madaya, Bobong-Dinaig, Linindingan, Maliwanag, Dinaig, Timbangalan,\nPindolonan, and Alowin in the municipality of Matungao, all in the province of Lanao del Norte, are hereby\nseparated from said municipalities and constituted into a distinct and independent municipality to be known as\nthe municipality of Poona-Piagapo in the province of Lanao del Norte. The seat of the new municipality shall\nbe located at the barangay of Poona-Piagapo to be established within the proximity of Barangay\nLumbaka-Ingud."
+   }
+  },
+  {
+   "id": "PH-H22304-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The President shall appoint the mayor, vice-mayor, and councilors of the municipality of\nPoona-Piagapo who shall hold office until their successors shall have been elected or appointed, as the case"
+   }
+  },
+  {
+   "id": "PH-H22304-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Decree shall take effect immediately.\nDone in the City of Manila, this 31st day of March, in the year of Our Lord, nineteen hundred and seventy-six."
+   }
+  }
+ ]
+}

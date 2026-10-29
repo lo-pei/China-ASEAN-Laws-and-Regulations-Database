@@ -1,0 +1,814 @@
+{
+ "id": "ID-H2566",
+ "title": {
+  "zh": "金融体系危机预防与处置法",
+  "en": "Law on the Prevention and Handling of Financial System Crises",
+  "id": "PENCEGAHAN DAN PENANGANAN KRISIS SISTEM KEUANGAN",
+  "orig": "PENCEGAHAN DAN PENANGANAN KRISIS SISTEM KEUANGAN",
+  "vi": "Luật về Phòng ngừa và Xử lý Khủng hoảng Hệ thống Tài chính",
+  "th": "พระราชบัญญัติว่าด้วยการป้องกันและแก้ไขวิกฤตระบบการเงิน",
+  "ms": "Akta tentang Pencegahan dan Pengendalian Krisis Sistem Kewangan"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02b",
+ "language": "id",
+ "level": "law",
+ "category": "02_民商事与经济法",
+ "status": "active",
+ "promulgatedDate": "2016",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU9-2016",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 54,
+ "chars": 81279,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU%20Nomor%209%20Tahun%20%202016.pdf&fl=P14884"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\02_民商事与经济法\\印尼_文本_2016_PENCEGAHAN DAN PENANGANAN KRISIS SISTEM KEUANGAN.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 69 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H2566-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\n\nDalam Undang-Undang ini yang dimaksud dengan:\n1. Sistem Keuangan adalah sistem yang terdiri atas lembaga\njasa keuangan, pasar keuangan, dan infrastruktur\nkeuangan, termasuk sistem pem bayaran, yang\nberinteraksi dalam memfasilitasi pengumpulan dana\nmasyarakat dan pengalokasiannya untuk mendukung\naktivitas perekonomian nasional.\n2. Stabilitas Sistem Keuangan adalah kondisi Sistem\nKeuangan yang berfungsi efektif dan efisien serta mampu\nbertahan dari gejolak yang bersumber dari dalam negeri\ndan luar negeri.\n3. Krisis Sistem Keuangan adalah kondisi Sistem Keuangan\nyang gagal menjalankan fungsi dan perannya secara efektif\ndan efisien, yang ditunjukkan dengan memburuknya\nberbagai indikator ekonomi dan keuangan.\n4. Bank adalah bank sebagaimana dimaksud dalam Undang -\nUndang mengenai perbankan dan Undang -Undang\nmengenai perbankan syariah.\n5. Bank Sistemik adalah Bank yang karena ukuran aset,\nmodal, dan kewajiban; luas jaringan atau kompleksitas\ntransaksi atas j asa perbankan; serta keterkaitan dengan\nsektor keuangan lain dapat mengakibatkan gagalnya\nsebagian atau keseluruhan Bank lain atau sektor jasa\nkeuangan, baik secara operasional maupun finansial, jika\nBank tersebut mengalami gangguan atau gagal.\n6. Surat Berha rga Neg ara adalah surat utang negara\nsebagaimana dimaksud dalam Undang -Undang mengenai\nsurat utang negara dan surat berharga syariah negara\nsebagaimana dimaksud dalam Undang -Undang mengenai\nsurat berharga syariah negara.\n\n\n7.  Bank . . .\n\n7. Bank Perantara ad alah bank umum yang didirikan oleh\nLembaga Penjamin Simpanan untuk digunakan sebagai\nsarana resolusi dengan menerima pengalihan sebagian\natau seluruh aset dan/atau kewajiban Bank yang\nditangani Lembaga Penjamin Simpanan, selanjutnya\nmenjalankan kegiatan us aha perbankan, dan akan\ndialihkan kepemilikannya kepada pihak lain.\n8. Program Restrukturisasi Perbankan adalah program yang\ndiselenggarakan untuk menangani permasalahan\nperbankan yang membahayakan perekonomian nasional.\n9. Bank Indonesia adalah bank sentral Rep ublik Indonesia\nsebagaimana dimaksud dalam Undang -Undang Dasar\nNegara Republik Indonesia Tahun 1945.\n10. Otoritas Jasa Keuangan adalah otoritas jasa keuangan\nsebagaimana dimaksud dalam Undang -Undang mengenai\nOtoritas Jasa Keuangan.\n11. Lembaga Penjamin Simpanan ad alah lembaga penjamin\nsimpanan sebagaimana dimaksud dalam Undang -Undang\nmengenai Lembaga Penjamin Simpanan.\n12. Pemerintah Pusat yang selanjutnya disebut dengan\nPemerintah adalah Presiden Republik Indonesia yang\nmemegang kekuasaan pemerintahan Negara Republik\nIndonesia yang dibantu oleh Wakil Presiden dan menteri\nsebagaimana dimaksud dalam Undang -Undang Dasar\nNegara Republik Indonesia Tahun 1945.\n13. Menteri Keuangan adalah menteri yang menyelenggarakan\nurusan pemerintahan di bidang keuangan."
+   }
+  },
+  {
+   "id": "ID-H2566-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\n\nPencegahan d an penanganan Krisis Sistem Keuangan\ndiselenggarakan berdasarkan asas:\na. kepentingan nasional;\nb. kemanfaatan;\nc. keadilan;\nd. keterpaduan;\ne. efektivitas;\nf.  efisiensi; dan\ng. kepastian hukum."
+   }
+  },
+  {
+   "id": "ID-H2566-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3 "
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 3\n\n(1) Pencegahan dan penanganan Krisis Sistem Keuangan\nmeliputi:\na. koordinasi pemantauan dan pemeliharaan Stabilitas\nSistem Keuangan;\nb. penanganan Krisis Sistem Keuangan; dan\nc. penanganan permasalahan Bank Sistemik, baik dalam\nkondisi Stabilitas Sistem Keuangan normal maupun\nkondisi Krisis Sistem Keuangan.\n(2) Koordinasi pemantauan dan pemeliharaan Stabilitas\nSistem Keuangan sebagaimana dimaksud pada ayat (1)\nhuruf a mencakup bidang:\na. fiskal;\nb. moneter;\nc. makroprudensial dan mikroprudensial jasa keuangan;\nd. pasar keuangan;\ne. infrastruktur keuangan, termasuk s istem pembayaran\ndan penjaminan simpanan; dan\nf.  resolusi Bank.\n(3) Penanganan Krisis Sistem Keuangan sebagaimana\ndimaksud pada ayat (1) huruf b mencakup penanganan\nseluruh bidang sebagaimana dimaksud pada ayat (2).\n(4) Penanganan permasalahan Bank Sistemik  sebagaimana\ndimaksud pada ayat ( 1) huruf c meliputi penanganan\npermasalahan likuiditas dan solvabilitas Bank Sistemik.\n\n\nBAB II\nKOMITE STABILITAS SISTEM KEUANGAN\n\nBagian Kesatu\nPembentukan"
+   }
+  },
+  {
+   "id": "ID-H2566-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\n\n(1) Dengan Undang -Undang ini dibentuk Komite Stabilitas\nSistem Keuangan.\n\n(2)  Komite . . .\n(2) Komite Stabilitas Sistem Keuangan sebagaimana\ndimaksud pada ayat (1) menyelenggarakan pencegahan\ndan penanganan Krisis Sistem Keuangan untuk\nmelaksanakan kepentingan dan ketahanan negara di\nbidang perekonomian.\n(3) Komite Stabilitas Sistem Keuangan sebagaimana\ndimaksud pada ayat (1) beranggotakan:\na. Menteri Keuangan sebagai koordinator merangkap\nanggota dengan hak suara;\nb. Gubernur Bank Indonesia sebagai anggota dengan hak\nsuara;\nc. Ketua Dewan Komisioner Otoritas Jasa Keuangan\nsebagai anggota dengan hak suara; dan\nd. Ketua Dewan Komisioner Lembaga Penjamin Simpanan\nsebagai anggota tanpa hak suara.\n(4) Setiap anggota Komite Stabilitas Sistem Keuangan\nsebagaimana dimaksud pada ayat (3) bertindak untuk dan\natas nama lembaga yang dipimpinnya sesuai dengan\nketentuan peraturan perundang-undangan.\n\nBagian Kedua\nTugas dan Wewenang"
+   }
+  },
+  {
+   "id": "ID-H2566-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\n\nKomite Stabilitas Sistem Keuangan bertugas:\na. melakukan koordinasi dalam rangka pemantauan dan\npemeliharaan Stabilitas Sistem Keuangan;\nb. melakukan penanganan Krisis Sistem Keuangan; dan\nc. melakukan penanganan permasalahan Bank Sistemik,\nbaik dalam kondisi Stabilitas Sistem Keuangan normal\nmaupun kondisi Krisis Sistem Keuangan."
+   }
+  },
+  {
+   "id": "ID-H2566-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\n\nKomite Stabilitas Sistem Keuangan berwenang:\na. menetapkan keputusan mengenai tata kelola Komite\nStabilitas Sistem Keuang an dan sekretariat Komite\nStabilitas Sistem Keuangan;\n\nb.  membentuk . . .\n\nb. membentuk gugus tugas atau kelompok kerja untuk\nmembantu pelaksanaan tugas Komite Stabilitas Sistem\nKeuangan;\nc. menetapkan kriteria dan indikator untuk penilaian kondisi\nStabilitas Sistem Keuangan;\nd. melakukan penilaian terhadap kondisi Stabilitas Sistem\nKeuangan berdasarkan masukan dari setiap anggota\nKomite Stabilitas Sistem Keuangan, beserta data dan\ninformasi pendukungnya;\ne. menetapkan langkah koordinasi untuk mencegah Krisis\nSistem Keuangan dengan mempertimbangkan\nrekomendasi dari setiap anggota Komite Stabilitas Sistem\nKeuangan;\nf.  merekomendasikan kepada Presiden untuk memutuskan\nperubahan status Stabilitas Sistem Keuangan, dari kondisi\nnormal menjadi kondisi Krisis Sistem Keuangan a tau dari\nkondisi Krisis Sistem Keuangan menjadi kondisi normal;\ng. merekomendasikan kepada Presiden untuk memutuskan\nlangkah penanganan Krisis Sistem Keuangan;\nh. menyerahkan penanganan permasalahan solvabilitas Bank\nSistemik kepada Lembaga Penjamin Simpanan;\ni.  menetapkan langkah yang harus dilakukan oleh anggota\nKomite Stabilitas Sistem Keuangan untuk mendukung\npelaksanaan penanganan permasalahan Bank Sistemik\noleh Lembaga Penjamin Simpanan;\nj.  menetapkan keputusan pembelian oleh Bank Indonesia\natas Surat Berharga Negara yang dimiliki Lembaga\nPenjamin Simpanan untuk penanganan Bank; dan\nk. merekomendasikan kepada Presiden  untuk memutuskan\npenyelenggaraan dan pengakhiran Program\nRestrukturisasi Perbankan.\n\n\nBagian . . .\n\n\n\n\n\nBagian Ketiga\nKesekretariatan"
+   }
+  },
+  {
+   "id": "ID-H2566-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\n\n(1) Dalam menjalankan tugas sebagaimana dimaksud dalam\nPasal 5 dan wewenang sebagaimana dimaksud dalam\nPasal 6, Komite Stabilitas Sistem Keuangan dibantu oleh\nsekretariat Komite Stabilitas Sistem Keuangan  yang\ndipimpin oleh sekretaris Komite Stabilitas Sistem\nKeuangan.\n(2) Anggaran sekretariat Komite Stabilitas Sistem Keuangan\nbersumber dari Anggaran Pendapatan dan Belanja Negara.\n(3) Sekretariat Komite Stabilitas Sistem Keuangan  dapat\nmenyelenggarakan rapat yang dihadiri oleh pejabat\nKementerian Keuangan, Bank Indonesia, Otoritas Jasa\nKeuangan, dan Lembaga Penjamin Simpanan untuk\nmempersiapkan pelaksanaan rapat Komite Stabilitas\nSistem Keuangan.\n(4) Organisasi dan tata kerja sekretariat Komite Stabilitas\nSistem Keuangan ditetapkan oleh Menteri Keuangan\nsesuai dengan ketentuan peraturan perundang-undangan.\n\nBagian Keempat\nRapat dan Tata Cara Pengambilan Keputusan"
+   }
+  },
+  {
+   "id": "ID-H2566-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n\n(1) Komite Stabilitas Sistem Keuangan menyelenggarakan\nrapat secara berkala atau sewaktu-waktu.\n(2) Rapat secara berkala sebagaimana dimaksud pada ayat (1)\ndiselenggarakan 1 (satu) kali setiap 3 (tiga) bulan.\n(3) Rapat sewaktu-waktu sebagaimana dimaksud pada ayat\n(1) diselenggarakan berdasarkan permintaan anggota\nKomite Stabilitas Sistem Keuangan."
+   }
+  },
+  {
+   "id": "ID-H2566-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n\n(1) Rapat Komite Stabilitas Sistem Keuangan harus dihadiri\noleh seluruh anggota Komite Stabilitas Sistem Keuangan.\n\n(2)  Rapat . . .\n(2) Rapat Komite Stabilitas Sistem Keuangan dipimpin oleh\nkoordinator Komite Stabilitas Sistem Keuangan.\n(3) Dalam hal anggota Komite Stabilitas Sistem Keuangan\nberhalangan hadir secara fisik pada wakt u dan tempat\nrapat yang telah ditentukan, rapat Komite Stabilitas\nSistem Keuangan dapat diselenggarakan melalui sarana\nkomunikasi elektronik yang memungkinkan anggota\nKomite Stabilitas Sistem Keuangan saling melihat\ndan/atau mendengar secara langsung serta  berpartisipasi\ndalam rapat.\n(4) Dalam hal koordinator dan/atau anggota Komite Stabilitas\nSistem Keuangan berhalangan tetap, koordinator\ndan/atau anggota Komite Stabilitas Sistem Keuangan yang\nbersangkutan diwakili oleh pejabat pengganti sesuai\ndengan ketentuan peraturan perundang-undangan.\n(5) Dalam hal rapat Komite Stabilitas Sistem Keuangan tidak\ndihadiri oleh seluruh anggota, baik secara fisik maupun\nmelalui sarana komunikasi elektronik sebagaimana\ndimaksud pada ayat (3) atau oleh pejabat pengganti\nsebagaimana dimaksud pada ayat (4), rapat dijadwalkan\nkembali.\n(6) Dalam hal rapat sebagaimana dimaksud pada ayat (5)\nmerupakan rapat sewaktu-waktu berdasarkan permintaan\nanggota, penjadwalan kembali dilakukan paling lambat\n1x24 (satu kali dua puluh empat) jam.\n(7) Rapat hasi l penjadwalan kembali sebagaimana dimaksud\npada ayat (5) dan ayat (6) diselenggarakan dengan\nkehadiran paling sedikit 2 (dua) anggota dengan hak suara\ndan dapat mengambil keputusan.\n(8) Pelaksanaan rapat Komite Stabilitas Sistem Keuangan\nharus didokumentasikan  secara utuh mulai dari awal\nsampai dengan berakhirnya rapat."
+   }
+  },
+  {
+   "id": "ID-H2566-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\n\n(1) Pengambilan keputusan Komite Stabilitas Sistem\nKeuangan dilakukan dalam rapat Komite Stabilitas Sistem\nKeuangan.\n\n(2)  Pengambilan . . .\n\n\n(2) Pengambilan keputusan sebagaimana dimaksud pada ayat\n(1) dilakukan oleh Menteri Keuangan, Gubernur Bank\nIndonesia, dan Ketua Dewan Komisioner Otoritas Jasa\nKeuangan.\n(3) Ketua Dewan Komisioner Lembaga Penjamin Simpanan\nberhak menyampaikan pendapat dalam rapat Komite\nStabilitas Sistem Keuangan, tetapi ti dak berhak\nmemberikan suara dalam pengambilan keputusan."
+   }
+  },
+  {
+   "id": "ID-H2566-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\n\n(1) Pengambilan keputusan sebagaimana dimaksud dalam\nPasal 10 ayat (1) dilakukan berdasarkan musyawarah\nuntuk mufakat.\n(2) Dalam hal tidak tercapai mufakat, usulan keputusan yang\ndiajukan oleh ang gota Komite Stabilitas Sistem Keuangan\ndinyatakan ditolak dan pendapat akhir setiap anggota\nKomite Stabilitas Sistem Keuangan didokumentasikan.\n(3) Usulan keputusan yang dinyatakan ditolak sebagaimana\ndimaksud pada ayat (2) dapat diajukan kembali dalam\nrapat K omite Stabilitas Sistem Keuangan paling lambat\n1x24 (satu kali dua puluh empat) jam.\n(4) Dalam hal rapat Komite Stabilitas Sistem Keuangan\nsebagaimana dimaksud pada ayat (3) tidak mencapai\nmufakat, pengambilan keputusan dilakukan berdasarkan\nsuara terbanyak.\n(5) Setiap keputusan rapat Komite Stabilitas Sistem Keuangan\nditandatangani oleh seluruh anggota Komite Stabilitas\nSistem Keuangan sebagaimana dimaksud dalam Pasal 4\nayat (3).\n(6) Anggota Komite Stabilitas Sistem Keuangan yang tidak\nhadir dalam rapat, dianggap men yetujui keputusan rapat\ntanpa harus menandatangani keputusan rapat.\n\n\nBagian . . .\n\n\n\n\nBagian Kelima\nPertukaran Data dan Informasi"
+   }
+  },
+  {
+   "id": "ID-H2566-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n\n(1) Anggota Komite Stabilitas Sistem Keuangan  melakukan\npertukaran data dan informasi antaranggota yang\ndiperlukan dal am rangka pencegahan dan penanganan\nKrisis Sistem Keuangan.\n(2) Pertukaran data dan informasi sebagaimana dimaksud\npada ayat (1) dikecualikan dari ketentuan kerahasiaan\nyang diatur dalam peraturan perundang-undangan.\n\nBagian Keenam\nKode Etik"
+   }
+  },
+  {
+   "id": "ID-H2566-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\n\nKomite Stabilitas Sistem Keuangan menetapkan dan\nmenegakkan kode etik Komite Stabilitas Sistem Keuangan.\n\nBagian Ketujuh\nAkuntabilitas dan Pelaporan"
+   }
+  },
+  {
+   "id": "ID-H2566-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\n\n(1) Komite Stabilitas Sistem Keuangan  memublikasikan dan\nmemberikan akses informasi kepada publik mengenai\nkeputusan Komite Stabilitas Sistem Keuangan.\n(2) Komite Stabilitas Sistem Keuangan  memublikasikan\npelaksanaan tugas dan wewenang yang diamanatkan oleh\nUndang-Undang ini.\n(3) Komite Stabilitas Sistem Keuangan menetapkan:\na. jenis informasi yang bersifat rahasia;\nb. jenis informasi yang tidak bersifat rahasia; dan\nc. tata cara akses informasi oleh publik,\nsesuai dengan ketentuan peraturan perundang-undangan.\n\n(4)  Dalam . . .\n(4) Dalam hal informasi ditetapkan sebagai  jenis informasi\nyang bersifat rahasia sebagaimana dimaksud pa da ayat (3)\nhuruf a, setiap orang yang mengetahui informasi tersebut,\nbaik karena kedudukan, profesi, maupun hubungan apa\npun dengan Komite Stabilitas Sistem Keuangan, dilarang\nmenggunakan atau mengungkapkan informasi dimaksud\nkepada pihak lain, kecuali un tuk pelaksanaan fungsi,\ntugas, dan wewenang, atau diwajibkan oleh Undang -\nUndang."
+   }
+  },
+  {
+   "id": "ID-H2566-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\n\nKomite Stabilitas Sistem Keuangan  melaporkan kepada\nPresiden mengenai:\na. kondisi Stabilitas Sistem Keuangan setiap 3 (tiga) bulan;\nb. penanganan Krisis Sistem Keuangan;\nc. penanganan permasalahan Bank Sistemik; dan/atau\nd. pelaksanaan Program Restrukturisasi Perbankan oleh\nLembaga Penjamin Simpanan.\n\n\nBAB III\nPENCEGAHAN KRISIS SISTEM KEUANGAN\n\nBagian Kesatu\nUmum"
+   }
+  },
+  {
+   "id": "ID-H2566-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\n\n(1) Anggota Komite Stabilitas Sistem Keuangan melakukan\npemantauan dan pemeliharaan Stabilitas Sistem\nKeuangan sesuai dengan tugas dan wewenang setiap\nanggota untuk mencegah terjadinya Krisis Sistem\nKeuangan.\n(2) Pemantauan dan pemeliharaan Stabilitas Sistem\nKeuangan oleh anggota Komite Stabilitas Sistem Keuangan\ndilakukan berdasarkan Undang -Undang dan sesuai\ndengan protokol manajemen krisis setiap anggota.\n\n(3)  Anggota . . .\n(3) Anggota Komite Stabilitas Sistem Keuangan\nmenyampaikan hasil pemantauan dan pemeliharaan\nsebagaimana dimaksud pada ayat (2) di dalam rapat\nKomite Stabilitas Sistem Keuangan.\n(4) Rapat Komite Stabilitas Sistem Keuangan sebagaimana\ndimaksud pada ayat (3) merumuskan rekomendasi\nkebijakan yang harus dilakukan oleh setiap anggota\nKomite Stabilitas Sistem Keuangan sesuai dengan tugas\ndan wewenang masing-masing.\n\nBagian Kedua\nBank Sistemik"
+   }
+  },
+  {
+   "id": "ID-H2566-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\n\n(1) Untuk mencegah Krisis Sistem Keuangan di bidang\nperbankan, Otoritas Jasa Keuangan berkoordinasi dengan\nBank Indonesia menetapkan Bank Sistemik.\n(2) Penetapan Bank Sistemik sebagaimana dimaksud pada\nayat (1)  pertama kali dilakukan pada kondisi Stabilitas\nSistem Keuangan normal.\n(3) Otoritas Jasa Keuangan berkoordinasi dengan Bank\nIndonesia melakukan pemutakhiran daftar Bank Sistemik\nsecara berkala 1 (satu) kali dalam 6 (enam) bulan.\n(4) Otoritas Jasa Keuangan menyampaikan ha sil penetapan\ndan pemutakhiran  daftar Bank Sistemik sebagaimana\ndimaksud pada ayat (2) dan ayat (3) ke pada Komite\nStabilitas Sistem Keuangan."
+   }
+  },
+  {
+   "id": "ID-H2566-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\n\n(1) Bank Sistemik sebagaimana dimaksud dalam Pasal 17\nwajib:\na. memenuhi ketentuan khusus mengenai rasio\nkecukupan modal dan rasio kecukupan likuiditas; dan\nb. menyusun rencana aksi untuk disetujui oleh Otoritas\nJasa Keuangan.\n\n(2)  Rencana . . .\n(2) Rencana aksi sebagaimana dimaksud pada ayat (1) huruf\nb paling sedikit memuat kewajiban pemegang saham\npengendali dan/atau pihak lain untuk menambah modal\nBank dan mengubah jenis utang tertentu menjadi modal\nBank.\n(3) Otoritas Jasa Keuangan berwenang menetapkan\ntambahan kapasitas permodalan bagi Bank Sistemik yang\ndigunakan untuk menyerap kerugian pada saat Bank\nmengalami permasalahan keuangan.\n(4) Ketentuan mengenai rasio kecukupan modal, rasio\nkecukupan likuiditas, dan rencana aksi sebagaimana\ndimaksud pada ayat (1) dan ayat (2) serta tambahan\nkapasitas permodalan Bank Sistemik sebagaimana\ndimaksud pada a yat (3 ) diatur dalam P eraturan Otoritas\nJasa Keuangan."
+   }
+  },
+  {
+   "id": "ID-H2566-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\n\n(1) Dalam hal Bank Sistemik sebagaimana dimaksud dalam\nPasal 17 mengalami kesulitan keuangan, Bank Sistemik\nmenerapkan rencana aksi sebagaimana dimaksud dalam\nPasal 18 ayat (1) huruf b dan ayat (2) yang sudah disetujui\noleh Otoritas Jasa Keuangan.\n(2) Dalam hal rencana aksi  sebagaimana dimaksud dalam\nPasal 18 ayat (1) huruf b dan ayat (2) belum disetujui oleh\nOtoritas Jasa Keuangan, Bank Sistemik menerapkan\nlangkah penyehatan yang ditetapkan oleh Otoritas Jasa\nKeuangan.\n(3) Otoritas Jasa Keuangan memastikan dilaksanakannya\nrencana aksi atau langkah penyehatan oleh Bank dengan\nmenerbitkan perintah tertulis, menempatkan pengelola\nstatuter, dan/atau melalui mekanisme lain berdasarkan\nUndang-Undang mengenai Otoritas Jasa Keuangan.\n(4) Ketentuan mengenai rencana aksi dan langkah\npenyehatan sebagaimana dimaksud pada ayat (1), ayat (2),\ndan ayat (3) diatur dalam Peraturan Otoritas Jasa\nKeuangan.\n\n\nBagian . . .\n\n\nBagian Ketiga\nPenanganan Permasalahan Likuiditas Bank Sistemik"
+   }
+  },
+  {
+   "id": "ID-H2566-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\n\n(1) Bank Sistemik yang mengalami kesulitan likuiditas dapat\nmengajukan permohonan kepada Bank Indonesia untuk\nmendapatkan pinjaman likuiditas jangka pendek atau\npembiayaan likuiditas jangka pendek berdasarkan prinsip\nsyariah.\n(2) Dalam pemberian pinjaman likuiditas j angka pendek atau\npembiayaan likuiditas jangka pendek berdasarkan prinsip\nsyariah sebagaimana dimaksud pada ayat (1):\na. Otoritas Jasa Keuangan melakukan penilaian\nmengenai pemenuhan persyaratan solvabilitas dan\ntingkat kesehatan Bank Sistemik; dan\nb. Bank Indonesia bersama Otoritas Jasa Keuangan\nmelakukan penilaian mengenai pemenuhan\npersyaratan agunan dan perkiraan kemampuan Bank\nSistemik untuk mengembalikan pinjaman likuiditas\njangka pendek atau pembiayaan likuiditas jangka\npendek berdasarkan prinsip syariah.\n(3) Pemberian pinjaman likuiditas jangka pendek atau\npembiayaan likuiditas jangka pendek berdasarkan prinsip\nsyariah harus dijamin dengan agunan yang berkualitas\ntinggi berupa surat berharga yang memiliki peringkat\ntinggi dan mudah dicairkan.\n(4) Dalam hal Bank Si stemik tidak memiliki agunan surat\nberharga sebagaimana dimaksud pada ayat (3) dalam\njumlah yang cukup, Bank Sistemik dapat menggunakan\naset kredit dengan kolektibilitas lancar sebagai agunan\npinjaman likuiditas jangka pendek atau pembiayaan\nlikuiditas jangka pendek berdasarkan prinsip syariah.\n(5) Berdasarkan hasil penilaian sebagaimana dimaksud pada\nayat (2) , Bank Indonesia memutuskan pemberian\npinjaman likuiditas jangka pendek atau pembiayaan\nlikuiditas jangka pendek berdasarkan prinsip syariah.\n\n(6)  Pemberian . . .\n\n(6) Pemberian pinjaman likuiditas jangka pendek atau\npembiayaan likuiditas jangka pendek berdasarkan prinsip\nsyariah sebagaimana dimaksud pada ayat (5) dilakukan\nberdasarkan Undang -Undang ini dan Undang -Undang\nmengenai Bank Indonesia.\n(7) Otoritas Jasa Keuangan berkoordinasi dengan B ank\nIndonesia melakukan pengawasan terhadap Bank Sistemik\nyang menerima pinjaman likuiditas jangka pendek atau\npembiayaan likuiditas jangka pendek berdasarkan prinsip\nsyariah sebagaimana dimaksud pada ayat (5)  untuk\nmemastikan penggunaan nya dan  pelaksanaan rencana\npembayarannya kembali sesuai dengan perjanjian.\n\nBagian Keempat\nPenanganan Permasalahan Solvabilitas Bank Sistemik"
+   }
+  },
+  {
+   "id": "ID-H2566-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\n\n(1) Dalam hal terdapat Bank Sistemik  yang mengalami\npermasalahan solvabilitas, Otoritas Jasa Keuangan\nberdasarkan wewenangnya melakukan penanganan\npermasalahan solvabilitas, termasuk memastikan\npelaksanaan rencana aksi Bank Sistemik.\n(2) Otoritas Jasa Keuangan memberitahukan kepada Lembaga\nPenjamin Simpanan untuk melakukan persiapan\npenanganan permasa lahan solvabilitas Bank Sistemik\nsebagaimana dimaksud pada ayat (1).\n(3) Dalam hal Bank Sistemik sebagaimana dimaksud pada\nayat (1) kondisinya memburuk dan ditetapkan sebag ai\nBank dalam pengawasan khusus, Otoritas Jasa Keuangan\nmeminta Lembaga Penjamin Simpana n meningkatkan\nintensitas persiapan penanganan Bank Sistemik.\n(4) Dalam meningkatkan intensitas persiapan penanganan\nBank Sistemik sebagaimana dimaksud pada ayat (3),\nOtoritas Jasa Keuangan berdasarkan koordinasi dengan\nLembaga Penjamin Simpanan:\na. meminta pengurus Bank untuk menjaga kondisi\nkeuangan Bank sehingga tidak terjadi penurunan aset\ndan/atau peningkatan kewajiban Bank Sistemik secara\nmaterial;\n\nb.  meminta . . .\nb. meminta pengurus Bank untuk mendukung\npelaksanaan pengalihan aset dan kewajiban Bank\nSistemik; dan/atau\nc. memfasilitasi Lembaga Penjamin Simpanan dalam\nmelakukan pemasaran atas aset dan/atau kewajiban\nBank Sistemik dan memfasilitasi calon Bank penerima\nuntuk melakukan uji tuntas dalam hal akan dilakukan\npengalihan aset dan/atau kewajiban Bank Sistemik.\n(5) Dalam hal penanganan sebagaimana dimaksud pada ayat\n(1) sampai dengan  ayat (4) tidak dapat mengatasi\npermasalahan solvabilitas Bank Sistemik, Otoritas Jasa\nKeuangan meminta penyelenggaraan rapat Komite\nStabilitas Sistem Keuangan  disertai dengan rekome ndasi\nlangkah penanganan permasalahan Bank Sistemik.\n(6) Rapat Komite Stabilitas Sistem Keuangan sebagaimana\ndimaksud pada ayat (5) diselenggarakan untuk\nmenetapkan langkah penanganan permasalahan\nsolvabilitas Bank Sistemik.\n(7) Langkah penanganan permasalahan sol vabilitas Bank\nSistemik sebagaimana dimaksud pada ayat (6) dilakukan\ndengan:\na. memutuskan penyerahan Bank Sistemik kepada\nLembaga Penjamin Simpanan untuk dilakukan\npenanganan berdasarkan Undang -Undang ini dan\nUndang-Undang mengenai Lembaga Penjamin\nSimpanan; dan\nb. menetapkan langkah yang harus dilakukan oleh\nMenteri Keuangan, Gubernur Bank Indonesia, dan\nKetua Dewan Komisioner Otoritas Jasa Keuangan\nsesuai dengan wewenang masing -masing untuk\nmendukung pelaksanaan penanganan Bank Sistemik\noleh Lembaga Penjamin Simpanan.\n(8) Ketentuan mengenai penanganan permasalahan\nsolvabilitas Bank Sistemik  sebagaimana dimaksud pada\nayat (1) dan persiapan penanganan Bank Sistemik\nsebagaimana dimaksud pada ayat (2) diatur dalam\nPeraturan Otoritas Jasa Keuangan."
+   }
+  },
+  {
+   "id": "ID-H2566-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22 "
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 22\n\n(1) Penanganan permasalahan solvabilitas Bank Sistemik oleh\nLembaga Penjamin Simpanan dilakukan dengan cara:\na. mengalihkan sebagian atau seluruh aset dan/atau\nkewajiban Bank Sistemik kepada Bank penerima;\nb. mengalihkan sebagian atau seluruh aset dan/atau\nkewajiban Bank Sistemik kepada Bank Perantara; atau\nc. melakukan penanganan Bank sesuai dengan  Undang-\nUndang mengenai Lembaga Penjamin Simpanan.\n(2) Ketentuan mengenai pemilihan cara penanganan\npermasalahan solvabilitas Bank Sistemik dan tata cara\npenanganan perma salahan solvabilitas Bank Sistemik\nsebagaimana dimaksud pada ayat (1) diatur dengan\nPeraturan Lembaga Penjamin Simpanan."
+   }
+  },
+  {
+   "id": "ID-H2566-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\n\nDalam pengalihan sebagian atau seluruh aset dan/atau\nkewajiban Bank Sistemik kepada Bank penerima sebagaimana\ndimaksud dalam Pasal 22 ayat (1) huruf a atau kepada Bank\nPerantara sebagaimana dimaksud dalam Pasal 22 ayat (1)\nhuruf b, Lembaga Penjamin Simpanan berwenang:\na. menetapkan jenis dan kriteria aset dan kewajiban Bank\nSistemik yang dialihkan;\nb. mengalihkan kewajiban Bank Siste mik sesuai dengan\nkriteria sebagaimana dimaksud dalam huruf a kepada\nBank penerima atau Bank Perantara yang diikuti dengan\npengalihan sebagian atau seluruh aset Bank Sistemik\ntanpa persetujuan kreditur, debitur, dan/atau pihak lain;\nc. melakukan pembayaran kepada Bank penerima atau Bank\nPerantara atas selisih kurang antara nilai aset dan nilai\nkewajiban Bank Sistemik yang dialihkan; dan\nd. melakukan wewenang lain sebagaimana diatur dalam\nUndang-Undang mengenai Lembaga Penjamin Simpanan."
+   }
+  },
+  {
+   "id": "ID-H2566-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24 "
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 24 . . .\n\n\n\nPasal 24\n\n(1) Pengalihan sebagian atau seluruh aset dan/atau\nkewajiban Bank Sistemik oleh Lembaga Penjamin\nSimpanan kepada Bank penerima dan/atau Bank\nPerantara, terjadi demi hukum sejak akta pengalihan\nditandatangani.\n(2) Pengalihan demi hukum sebagaimana dimaksud pada ayat\n(1) berlaku pula bagi perizinan untuk melakukan kegiatan\ntertentu yang dimiliki Bank Sistemik kepada Bank\nPerantara.\n(3) Pengalihan perizinan sebagaimana dimaksud pada ayat (2)\nharus diikuti dengan proses penyesuaian sesuai dengan\nketentuan peraturan perundang-undangan.\n(4) Setelah dilakukan pengalihan sebagian atau seluruh aset\ndan/atau kewajiban Bank Sistemik kepada Bank penerima\ndan/atau Bank Perantara, Lembaga Penjamin Simpanan\nmeminta Otoritas Jasa Keuangan untuk mencabut izin\nusaha Bank yang telah dial ihkan sebagian atau seluruh\naset dan/atau kewajibannya.\n(5) Lembaga Penjamin Simpanan melakukan proses likuidasi\nterhadap Bank yang telah dicabut izin usahanya oleh\nOtoritas Jasa Keuangan sebagaimana dimaksud pada ayat\n(4) sesuai dengan Undang -Undang mengenai  Lembaga\nPenjamin Simpanan."
+   }
+  },
+  {
+   "id": "ID-H2566-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\n\n(1) Lembaga Penjamin Simpanan mendirikan Bank Perantara\nsebagaimana dimaksud dalam Pasal 22 ayat (1) huruf b\nuntuk menerima pengalihan sebagian atau seluruh aset\ndan/atau kewajiban Bank Sistemik dan menjalankan\naktivitas usaha Bank.\n(2) Dalam pendirian Bank Perantara oleh Lembaga Penjamin\nSimpanan sebagaimana dimaksud pada ayat (1) tidak\nberlaku ketentuan yang mewajibkan perseroan terbatas\ndidirikan oleh 2 (dua) orang atau lebih sebagaimana\ndimaksud dalam Undang -Undang mengena i perseroan\nterbatas.\n\n(3)  Otoritas . . .\n(3) Otoritas Jasa Keuangan memberikan izin Bank Perantara\nsebagaimana dimaksud pada ayat (1) dalam 2 (dua) tahap:\na. persetujuan prinsip untuk melakukan persiapan\npendirian Bank; dan\nb. izin usaha untuk melakukan kegiatan u saha Bank\nsetelah persiapan sebagaimana dimaksud dalam huruf\na selesai dilakukan.\n(4) Persetujuan prinsip sebagaimana dimaksud pada ayat (3)\nhuruf a diberikan setelah memenuhi persyaratan:\na. anggaran dasar yang paling sedikit memuat kegiatan\nusaha sebagai Bank;\nb. modal disetor sebagaimana diatur dalam Undang -\nUndang mengenai perseroan terbatas; dan\nc. struktur organisasi dan sumber daya manusia,\npedoman manajemen risiko, tata kelola perusahaan\nyang baik, prosedur kerja, rencana bisnis, proyeksi\nneraca dan laba rugi, serta laporan arus kas bulanan.\n(5) Izin usaha sebagaimana dimaksud pada ayat (3) huruf b\ndiberikan setelah memenuhi persyaratan:\na. kewajiban penyediaan modal minimum bank umum;\nb. susunan direksi dan dewan komisaris; dan\nc. rencana tindak meliputi cara dan jadwal penga lihan,\npemenuhan dan pengelolaan sumber daya manusia ,\nserta migrasi infrastruktur Bank Perantara.\n(6) Uji kemampuan dan kepatutan bagi anggota dewan\nkomisaris dan direksi Bank Perantara dilakukan oleh\nOtoritas Jasa Keuangan berdasarkan ketentuan uji\nkemampuan dan kepatutan yang dibuat Otoritas Jasa\nKeuangan bagi anggota dewan komisaris dan direksi Bank\nPerantara.\n(7) Bank Perantara dalam menjalankan kegiatan usaha harus:\na. menyampaikan kepada Otoritas Jasa Keuangan\nlaporan berkala dan dok umen lain yang diwajibkan\nbagi bank umum; dan\nb. memenuhi persyaratan terkait prinsip kehati -hatian\ndan indikator tingkat kesehatan bank umum."
+   }
+  },
+  {
+   "id": "ID-H2566-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26 "
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 26\n\n(1) Lembaga Penjamin Simpanan harus segera menjual Bank\nPerantara atau mengalihkan seluruh aset dan kewajiban\nBank Perantara kepada Bank atau pihak lain.\n(2) Penjualan Bank Perantara kepada pihak lain atau\npengalihan seluruh aset dan kewajiban Bank Perantara\nkepada Bank lain dilakukan berdasarkan nilai wajar,\nsecara terbuka, dan transparan."
+   }
+  },
+  {
+   "id": "ID-H2566-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\n\n(1) Dana untuk menangani  permasalahan solvabilitas Bank\nSistemik sebagaimana dimaksud dalam Pasal 22\nbersumber dari kekayaan Lembaga Penjamin Simpanan.\n(2) Untuk menangani permasalahan solvabilitas Bank\nSistemik sebagaimana dimaksud  pada ayat (1), Lembaga\nPenjamin Simpanan:\na. menjual Surat Be rharga Neg ara yang dimilikinya\nmelalui pasar, kepada Bank Indonesia dan/atau pihak\nlain; dan/atau\nb. memperoleh pinjaman dari pihak lain.\n(3) Penjualan Surat Berharga Neg ara oleh Lembaga Penjamin\nSimpanan kepada Bank Indonesia sebagaimana dimaksud\npada ayat (2) huruf a diputuskan oleh Komite Stabilitas\nSistem Keuangan.\n(4) Berdasarkan keputusan Komite Stabilitas Sistem\nKeuangan sebagaimana dimaksud pada ayat (3) , Bank\nIndonesia membeli Surat Berharga Negara."
+   }
+  },
+  {
+   "id": "ID-H2566-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\n\n(1) Selisih kurang antara dana hasil penjualan Bank\nPerantara ditambah hasil likuidasi Bank Sistemik yang\ntelah ditangani permasalahannya dan dana yang\ndikeluarkan Lembaga Penjamin Simpanan untuk\npenanganan permasalahan Bank Sistemik, merupakan\nbiaya penanganan permasalahan Bank Sistemik bagi\nLembaga Penjam in Simpanan dan bukan merupakan\nkerugian keuangan negara.\n\n(2)  Selisih . . .\n(2) Selisih lebih antara dana hasil penjualan Bank Perantara\nditambah hasil likuidasi Bank Sistemik yang telah\nditangani permasalahannya dan dana yang dikeluarkan\nLembaga Penjamin Si mpanan untuk penanganan\npermasalahan Bank Sistemik, merupakan penambah\nkekayaan Lembaga Penjamin Simpanan."
+   }
+  },
+  {
+   "id": "ID-H2566-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\n\nLembaga Penjamin Simpanan menyampaikan laporan\nmengenai perkembangan penanganan Bank Sistemik kepada\nKomite Stabilitas Sistem Keuangan  1 ( satu) kali setiap 6\n(enam) bulan atau sewaktu-waktu jika diperlukan.\n\n\nBagian Kelima\nPenanganan Permasalahan Bank selain Bank Sistemik"
+   }
+  },
+  {
+   "id": "ID-H2566-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\n\nKetentuan mengenai pemberian pinjaman likuiditas jangka\npendek atau pembiayaan likuiditas jangka pendek\nberdasarkan prinsip syariah sebagaimana dimaksud dalam\nPasal 20 berlaku secara mutatis mutandis terhadap Bank\nselain Bank Sistemik."
+   }
+  },
+  {
+   "id": "ID-H2566-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\n\n(1) Penanganan permasalahan solvabilitas Bank Sistemik\nsebagaimana dimaksud dalam Pasal 22 ayat (1) huruf a\ndan huruf b d apat dilakukan Lembaga Penjamin\nSimpanan terhadap Bank selain Bank Sistemik yang\ndiserahkan Otoritas Jasa Keuangan kepada Lembaga\nPenjamin Simpanan sebagaimana diatur dalam Undang -\nUndang mengenai Lembaga Penjamin Simpanan.\n(2) Ketentuan mengenai penyelesaian p ermasalahan\nsolvabilitas Bank selain Bank Sistemik sebagaimana\ndimaksud pada ayat (1) diatur dengan Peraturan Lembaga\nPenjamin Simpanan.\n\n\nBAB IV . . .\n\nBAB IV\nPENANGANAN KRISIS SISTEM KEUANGAN\n\nBagian Kesatu\nUmum"
+   }
+  },
+  {
+   "id": "ID-H2566-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 32\n\n(1) Anggota Komite Stabilitas Siste m Keuangan dapat\nmeminta penyelenggaraan rapat Komite Stabilitas Sistem\nKeuangan kepada koordinator Komite Stabilitas Sistem\nKeuangan jika protokol manajemen krisis  yang dimilikinya\nmengindikasikan adanya permasalahan pada bidang yang\nmenjadi tanggung jawa b setiap anggota yang dapat\nmemengaruhi Stabilitas Sistem Keuangan.\n(2) Permintaan penyelenggaraan rapat Komite Stabilitas\nSistem Keuangan sebagaimana dimaksud pada ayat (1)\ndisertai dengan hasil penilaian protokol manajemen krisis\nanggota Komite Stabilitas Si stem Keuangan yang\nbersangkutan yang mengindikasikan adanya\npermasalahan pada bidang yang menjadi tanggung\njawabnya.\n(3) Dalam rapat Komite Stabilitas Sistem Keuangan, anggota\nKomite Stabilitas Sistem Keuangan memberikan informasi\nmengenai hasil penilaian prot okol manajemen krisis yang\nmemengaruhi Stabilitas Sistem Keuangan di bidang\nsebagaimana dimaksud dalam Pasal 3 ayat (2).\n(4) Penilaian mengenai status Stabilitas Sistem Keuangan\ndidasarkan pada data, informasi, kerangka penilaian\nkondisi Stabilitas Sistem Keua ngan, dan pertimbangan\ndari seluruh anggota Komite Stabilitas Sistem Keuangan,\ntermasuk pertimbangan profesional setiap anggota Komite\nStabilitas Sistem Keuangan.\n(5) Rapat Komite Stabilitas Sistem Keuangan menyepakati\nstatus Stabilitas Sistem Keuangan dalam kondisi:\na. normal; atau\nb. Krisis Sistem Keuangan.\n\n(6)  Dalam . . .\n\n(6) Dalam hal rapat Komite Stabilitas Sistem Keuangan\nmenilai Stabilitas Sistem Keuangan dalam kondisi normal\nsebagaimana dimaksud pada ayat (5) huruf a, penanganan\npermasalahan Sistem Keuangan dilakukan oleh anggota\nKomite Stabilitas Sistem Keuangan sesuai dengan tugas\ndan wewenang masing-masing.\n(7) Dalam hal rapat Komite Stabilitas Sistem Keuangan\nmenilai Stabilitas Sistem Keuangan dalam kondisi Krisis\nSistem Keuangan sebagaimana dimaksud pada ayat (5)\nhuruf b, Komite Stabilitas Sistem Keuangan\nmenyampaikan rekomendasi kepada Presiden untuk\nmemutuskan perubahan status Stabilitas Sistem\nKeuangan dari kondisi normal menjadi kondisi Krisis\nSistem Keuangan.\n(8) Penyampaian rekomendasi kepada Presiden sebagai mana\ndimaksud pada ayat (7) disertai dengan langkah\npenanganan kondisi Krisis Sistem Keuangan  yang\nmencakup bidang sebagaimana dimaksud dalam Pasal 3\nayat (2).\n(9) Presiden memutuskan paling lambat 1x24 (satu kali dua\npuluh empat) jam status Stabilitas Sistem Keuangan\nmenjadi kondisi Krisis Sistem Keuangan sesuai dengan\nrekomendasi atau menolak rekomendasi status Stabilitas\nSistem Keuangan yang disampaikan oleh Komite Stabilitas\nSistem Keuangan."
+   }
+  },
+  {
+   "id": "ID-H2566-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 33\n\nDalam hal Presiden menolak rekomendasi status Stabilita s\nSistem Keuangan sebagaimana dimaksud dalam Pasal 3 2 ayat\n(9), penanganan permasalahan Sistem Keuangan dilakukan\noleh anggota Komite Stabilitas Sistem Keuangan sesuai\ndengan tugas dan wewenang masing-masing."
+   }
+  },
+  {
+   "id": "ID-H2566-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 34\n\nDalam hal Presiden memutuskan Stabil itas Sistem Keuangan\ndalam kondisi Krisis Sistem Keuangan sebagaimana dimaksud\ndalam Pasal 3 2 ayat (9), Presiden dapat menerima sebagian\natau seluruh rekomendasi langkah penanganan yang\ndisampaikan oleh Komite Stabilitas Sistem Keuangan\nsebagaimana dimaksud dalam Pasal 32 ayat (8)."
+   }
+  },
+  {
+   "id": "ID-H2566-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35 "
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kesatu"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 35\n\nSelain langkah penanganan seb agaimana dimaksud dalam\nPasal 34 , Komite Stabilitas Sistem Keuangan  dapat\nmengusulkan kepada Presiden untuk memutuskan\nperubahan besaran nilai simpanan nasabah penyimpan pada\nBank yang dijamin oleh Lembaga Penjamin Simpanan."
+   }
+  },
+  {
+   "id": "ID-H2566-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 36\n\n(1) Dalam hal Komite Stabilitas Sistem Keuangan menilai\nterjadi perubahan Stabilitas Sistem Keuangan dari kondisi\nKrisis Sistem Keuangan  menjadi kondisi normal, Komite\nStabilitas Sistem Keuangan men yampaikan rekomendasi\nkepada Presiden untuk memutuskan perubahan status\nStabilitas Sistem Keuangan.\n(2) Presiden memutuskan paling lambat 1x24 (satu kali dua\npuluh empat) jam status Stabilitas Sistem Keuangan\nmenjadi kondisi normal sesuai dengan rekomendasi at au\nmenolak rekomendasi perubahan status Stabilitas Sistem\nKeuangan menjadi kondisi normal yang disampaikan oleh\nKomite Stabilitas Sistem Keuangan.\n\nBagian Kedua\nPenanganan Permasalahan Bank"
+   }
+  },
+  {
+   "id": "ID-H2566-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 37\n\n(1) Ketentuan mengenai penanganan permasalahan likuiditas\ndan solvabilitas Bank Sistemik sebagaimana dimaksud\ndalam Pasal 20 sampai dengan Pasal 29 berlaku juga\nuntuk penanganan permasalahan Bank Sistemik dalam\nkondisi Krisis Sistem Keuangan.\n(2) Ketentuan mengenai penanganan permasalahan likuiditas\ndan solvabilitas Bank selain Bank Sistemik sebagaimana\ndimaksud dalam Pasal 3 0 dan Pasal 3 1, serta ketentuan\nmengenai penjualan Surat Berharga Negara yang dimiliki\nLembaga Penjamin Simpanan kepada Bank Indonesia\nsebagaimana dimaksud dalam Pasal 27 ayat (2) huruf a ,\nayat (3 ), dan ayat (4)  berlaku juga untuk penanganan\npermasalahan Bank selain Bank Sistemik dalam kondisi\nKrisis Sistem Keuangan.\nBagian . . .\nBagian Ketiga\nRestrukturisasi Perbankan dalam Krisis Sistem Keuangan"
+   }
+  },
+  {
+   "id": "ID-H2566-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 38\n\n(1) Dalam kondisi Krisis Sistem Keuangan dan terjadi\npermasalahan sektor perbankan yang membahayakan\nperekonomian nasional, Komite Stabilitas Sistem\nKeuangan merekomendasikan kepada Presiden untuk\nmemutuskan penyelenggaraan Program Restrukturisasi\nPerbankan.\n(2) Rekomendasi penyelenggaraan Program Restr ukturisasi\nPerbankan sebagaimana dimaksud pada ayat (1)\nmerupakan bagian dari rekomendasi yang disampaikan\noleh Komite Stabilitas Sistem Keuangan sebagaimana\ndimaksud dalam Pasal 32 ayat (8).\n(3) Program Restrukturisasi Perbankan sebagaimana\ndimaksud pada ayat  (1) diselenggarakan oleh Lembaga\nPenjamin Simpanan."
+   }
+  },
+  {
+   "id": "ID-H2566-A39",
+   "no": 39,
+   "noLabel": {
+    "id": "Pasal 39"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 39\n\n(1) Dana penyelenggaraan Program Restrukturisasi\nPerbankan berasal dari:\na.  pemegang saham Bank atau pihak lain berupa\ntambahan modal dan/atau perubahan utang tertentu\nmenjadi modal;\nb.  hasil pengelolaan aset dan kewajiban yang berasal dari\naset dan kewajiban Bank yang ditangani;\nc.  kontribusi industri perbankan; dan/atau\nd. pinjaman yang diperoleh Lembaga Penjamin Simpanan\ndari pihak lain.\n(2) Kontribusi industri perbankan sebagaimana dimaksud\npada ayat (1) huruf c merupakan bagian dari premi\npenjaminan sebagaimana diatur dalam Undang -Undang\nmengenai Lembaga Penjamin Simpanan.\n(3) Penetapan kontribusi industri perbankan sebagai bagian\ndari premi penjaminan sebagaimana dimaksud pada ayat\n(2) dilakukan sebelum Program Restrukturisasi Perbankan\ndiselenggarakan.\n\n(4)  Ketentuan . . .\n(4) Ketentuan mengenai besaran bagian premi untuk\npendanaan Program Restrukturisasi Perbankan\nsebagaimana dimaksud pada ayat (2) diatur  dengan\nPeraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H2566-A40",
+   "no": 40,
+   "noLabel": {
+    "id": "Pasal 40"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 40\n\n(1) Lembaga Penjamin Simpanan bertanggung  jawab atas\npengelolaan serta penatausahaan aset dan kewajiban yang\ndiperoleh atau berasal dari penyelenggaraan Program\nRestrukturisasi Perbankan.\n(2) Lembaga Penjamin Simpanan memisahkan pencatatan\naset dan kewajiban yang diper oleh atau berasal dari\npenyelenggaraan Program Restrukturisasi Perbankan dari\naset dan kewajiban yang diperoleh atau berasal dari\npelaksanaan fungsi dan tugas Lembaga Penjamin\nSimpanan sesuai dengan Undang-Undang mengenai\nLembaga Penjamin Simpanan.\n(3) Ketentuan mengenai  pengelolaan, penatausahaan, serta\npencatatan aset dan kewajiban sebagaimana dimaksud\npada ayat (1) dan ayat (2) diatur dengan Peraturan\nLembaga Penjamin Simpanan."
+   }
+  },
+  {
+   "id": "ID-H2566-A41",
+   "no": 41,
+   "noLabel": {
+    "id": "Pasal 41"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 41\n\n(1) Dalam pelaksanaan Program Restrukturisasi Perbankan\nsebagaimana dimaks ud dalam Pasal 38, Lembaga\nPenjamin Simpanan berwenang:\na. mengambil alih dan menjalankan segala hak dan\nwewenang organ yang setara dengan pemegang saham\ndan rapat umum pemegang saham Bank;\nb. mengambil alih dan melaksanakan segala hak dan\nwewenang direksi dan d ewan komisaris Bank atau\norgan lain yang setara;\nc. menangguhkan pembayaran kewajiban tertentu dari\nBank;\nd. menjual, melelang, atau mengalihkan kekayaan Bank\ndi dalam negeri maupun di luar negeri, baik secara\nlangsung maupun melalui penawaran umum;\n\ne.  menjual . . .\ne. menjual, melelang atau mengalihkan tagihan Bank\ndan/atau menyerahkan pengelolaa nnya kepada pihak\nlain, tanpa memerlukan persetujuan nasabah debitur;\nf.  mengalihkan pengelolaan seluruh atau sebagian\nkekayaan, kegiatan, dan/atau manajemen Bank\nkepada pihak lain;\ng. melakukan penyertaan modal sementara pada Bank\nsecara langsung atau melalui konversi tagihan\nLembaga Penjamin Simpanan terhadap Bank menjadi\nsaham Bank;\nh. melakukan konversi kewajiban Bank kepada kreditur\ntertentu menjadi modal;\ni.  menagih piutang Ba nk yang sudah pasti dengan\npenerbitan surat paksa;\nj.  melakukan pengosongan atas tanah dan/atau\nbangunan milik atau yang menjadi hak Bank yang\ndikuasai oleh pihak lain, baik sendiri maupun dengan\nbantuan alat negara penegak hukum yang berwenang;\nk. meneliti dan memeriksa untuk memperoleh segala\nketerangan yang diperlukan dari dan mengenai Bank,\ndan pihak manapun yang terlibat atau patut diduga\nterlibat, atau mengetahui kegiatan yang merugikan\nBank;\nl. menghitung dan menetapkan kerugian yang dialami\nBank dan membeba nkan kerugian tersebut  kepada\nmodal Bank yang bersangkutan, dan bilamana\nkerugian tersebut terjadi karena kesalahan atau\nkelalaian anggota direksi , anggota dewan komisaris\natau organ yang setara, dan/atau pemegang saham,\nmaka kerugian tersebut akan dibeban kan kepada yang\nbersangkutan;\nm. mewajibkan pemegang saham Bank untuk menambah\nmodal sesuai dengan jumlah tambahan modal yang\nditetapkan oleh Lembaga Penjamin Simpanan;\nn. membekukan aset milik pengurus Bank, pemegang\nsaham Bank, dan/atau pihak terafiliasinya ya ng\nterindikasi melakukan tindakan yang merugikan Bank,\nbaik yang berada di dala m negeri maupun di luar\nnegeri;\n\no.  mengalihkan . . .\no. mengalihkan sebagian atau seluruh aset dan/atau\nkewajiban Bank kepada Bank penerima atau Bank\nPerantara;\np. menjual Bank kepa da pembeli yang bersedia\nmengambil alih seluruh kewajiban;\nq. menjamin pinjaman tertentu dari Bank;\nr. memberi pinjaman kepada Bank; dan\ns. melakukan tugas lain yang ditetapkan oleh Komite\nStabilitas Sistem Keuangan.\n(2) Selain wewenang sebagaimana dimaksud pada ayat ( 1),\nuntuk menjalankan Program Restrukturisasi Perbankan,\nLembaga Penjamin Simpanan dapat menggunakan seluruh\nwewenang terkait dengan penanganan Bank sebagaimana\ndiatur dalam Undang -Undang mengenai Lembaga\nPenjamin Simpanan."
+   }
+  },
+  {
+   "id": "ID-H2566-A42",
+   "no": 42,
+   "noLabel": {
+    "id": "Pasal 42"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 42\n\nKetentuan mengenai pe ngalihan sebagian atau seluruh aset\ndan/atau kewajiban Bank kepada Bank penerima atau Bank\nPerantara sebagaimana dimaksud dalam Pasal 23 sampai\ndengan Pasal 26 berlaku secara mutatis mutandis bagi\npelaksanaan wewenang Lembaga Penjamin Simpanan\nsebagaimana dimaksud dalam Pasal 41 ayat (1) huruf o."
+   }
+  },
+  {
+   "id": "ID-H2566-A43",
+   "no": 43,
+   "noLabel": {
+    "id": "Pasal 43"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 43\n\nKementerian Keuangan, Bank Indonesia, dan Otoritas Jasa\nKeuangan memberikan dukungan kepada Lembaga Penjamin\nSimpanan dalam pelaksanaan Program Restrukturisasi\nPerbankan."
+   }
+  },
+  {
+   "id": "ID-H2566-A44",
+   "no": 44,
+   "noLabel": {
+    "id": "Pasal 44"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 44\n\nLembaga Penjamin Simp anan melaporkan pelaksanaan\nProgram Restrukturisasi Perbankan kepada Presiden  melalui\nKomite Stabilitas Sistem Keuangan 1 (satu) kali setiap 1 (satu)\nbulan atau sewaktu-waktu jika diperlukan."
+   }
+  },
+  {
+   "id": "ID-H2566-A45",
+   "no": 45,
+   "noLabel": {
+    "id": "Pasal 45 "
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 45\n\n(1) Dalam hal Komite Stabilitas Sistem Ke uangan menilai\npermasalahan sektor perbankan yang membahayakan\nperekonomian nasional telah teratasi, Komite Stabilitas\nSistem Keuangan merekomendasikan kepada Presiden\nuntuk memutuskan pengakhiran Program Restrukturisasi\nPerbankan.\n(2) Presiden memutuskan untu k mengakhiri Program\nRestrukturisasi Perbankan sesuai dengan rekomendasi\natau menolak rekomendasi Komite Stabilitas Sistem\nKeuangan untuk mengakhiri  Program Restrukturisasi\nPerbankan."
+   }
+  },
+  {
+   "id": "ID-H2566-A46",
+   "no": 46,
+   "noLabel": {
+    "id": "Pasal 46"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 46\n\n(1) Dalam hal Presiden memutuskan untuk mengakhiri\nProgram Restru kturisasi Perbankan, aset dan kewajiban\nyang masih tersisa dari Program Restrukturisasi\nPerbankan tetap menjadi aset dan kewajiban Lembaga\nPenjamin Simpanan.\n(2) Pencatatan aset dan kewajiban sebagaimana dimaksud\npada ayat (1) dilakukan secara terpisah dari pe ncatatan\naset dan kewajiban yang diperoleh atau yang berasal dari\npelaksanaan fungsi dan tugas Lembaga Penjamin\nSimpanan sesuai dengan Undang -Undang mengenai\nLembaga Penjamin Simpanan.\n(3) Dalam hal terdapat selisih lebih antara aset dan kewajiban\nyang tersisa  dari Program Restrukturisasi Perbankan,\nselisih lebih tersebut menambah kekayaan Lembaga\nPenjamin Simpanan yang berasal dari kontribusi industri\nperbankan sebagaimana dimaksud dalam Pasal 39 ayat (1)\nhuruf c.\n(4) Dalam hal terdapat selisih kurang antara aset dan\nkewajiban yang tersisa dari Program Restrukturisasi\nPerbankan, selisih kurang tersebut tidak diperhitungkan\ndalam modal Lembaga Penjamin Simpanan dan ditutup\ndengan kontribusi industri perbankan sebagaimana\ndimaksud dalam Pasal 39 ayat (1) huruf c yang  diterima\nLembaga Penjamin Simpanan.\n\n(5)  Untuk . . .\n(5) Untuk menyelesaikan aset dan kewajiban yang masih\ntersisa sebagaimana dimaksud pada ayat (1), Lembaga\nPenjamin Simpanan memiliki wewenang untuk\nmenghapus buku dan menghapus tagih aset.\n(6) Penghapusbukuan dan penghapustagihan aset yang masih\ntersisa sebagaimana dimaksud pada ayat (5) dikecualikan\ndari ketentuan penghapusan aset negara sebagaimana\ndiatur dalam peraturan perundang -undangan mengenai\nperbendaharaan negara.\n(7) Ketentuan mengenai tata cara penghapus bukuan dan\npenghapustagihan sebagaimana dimaksud pada ayat (6)\ndiatur dengan Peraturan Pemerintah.\n\n\nBAB V\nKETENTUAN PIDANA"
+   }
+  },
+  {
+   "id": "ID-H2566-A47",
+   "no": 47,
+   "noLabel": {
+    "id": "Pasal 47"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 47\n\nSetiap orang yang melanggar ketentuan mengenai\nkerahasiaan informasi sebagaimana dimaksud dalam Pasal 14\nayat (4) dipidana dengan pidana penjara paling lama 6 (enam)\ntahun dan /atau pidana denda paling banyak\nRp15.000.000.000,00 (lima belas miliar rupiah).\n\n\nBAB VI\nKETENTUAN LAIN-LAIN"
+   }
+  },
+  {
+   "id": "ID-H2566-A48",
+   "no": 48,
+   "noLabel": {
+    "id": "Pasal 48"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 48\n\n(1) Kecuali terdapat unsur penyalahgunaan wewenang,\nanggota Komite Stabilitas Sistem Keuangan, sekretaris\nKomite Stabilitas Sistem Keuangan, anggota sekretariat\nKomite Stabilitas Sistem Keuangan, dan pejabat atau\npegawai Kementerian Keuangan, Bank Indonesia, Otoritas\nJasa Keuangan, dan Lembaga Penjamin Simpanan tidak\ndapat dituntut, baik s ecara perdata maupun pidana atas\npelaksanaan fungsi, tugas, dan wewenang berdasarkan\nUndang-Undang ini.\n\n(2)  Dalam . . .\n(2) Dalam hal anggota Komite Stabilitas Sistem Keuangan ,\nsekretaris Komite Stabilitas Sistem Keuangan , anggota\nsekretariat Komite Stabilit as Sistem Keuangan , dan\npejabat atau pegawai Kementerian Keuangan, Bank\nIndonesia, Otoritas Jasa Keuangan, dan Lembaga\nPenjamin Simpanan yang melaksanakan tugas\nberdasarkan Undang -Undang ini menghadapi tuntutan\nhukum yang berkaitan dengan pelaksanaan tugas  dan\nwewenang Komite Stabilitas Sistem Keuangan maka yang\nbersangkutan mendapat bantuan hukum dari lembaga\nyang diwakilinya atau yang menugaskannya."
+   }
+  },
+  {
+   "id": "ID-H2566-A49",
+   "no": 49,
+   "noLabel": {
+    "id": "Pasal 49"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 49\n\nKeputusan yang ditetapkan oleh Komite Stabilitas Sistem\nKeuangan dan/atau pelaksanaan dari keput usan tersebut\noleh setiap anggota Komite Stabilitas Sistem Keuangan\nberdasarkan Undang -Undang ini adalah sah dan mengikat\nsetiap pihak.\n\n\nBAB VII\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H2566-A50",
+   "no": 50,
+   "noLabel": {
+    "id": "Pasal 50"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 50\n\nPada saat Undang -Undang ini mulai berlaku, keputusan\nForum Koordinasi Stabilitas Sistem Keuangan yang ditetapkan\nberdasarkan Undang-Undang Nomor 21 Tahun 2011 tentang\nOtoritas Jasa Keuangan (Lembaran Negara Republik Indonesia\nTahun 2011 Nomor 111, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 5253)  dinyatakan tetap sah dan\nmengikat sepanjang tidak bertentangan dengan ketentuan\ndalam Undang -Undang ini atau tidak diatur secara khusus\ndalam Undang-Undang ini."
+   }
+  },
+  {
+   "id": "ID-H2566-A51",
+   "no": 51,
+   "noLabel": {
+    "id": "Pasal 51"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 51\n\nTugas dan wewenang sekretariat Komite Stabilitas Sistem\nKeuangan, termasuk pengelolaan dokumen, dilaksanakan\noleh sekretariat Forum Koordinasi Stabilitas Sistem Keuangan\nsampai dengan terbentuknya sekretariat Komite Stabilitas\nSistem Keuangan berdasarkan ketentuan Undang-Undang ini."
+   }
+  },
+  {
+   "id": "ID-H2566-A52",
+   "no": 52,
+   "noLabel": {
+    "id": "Pasal 52 "
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 52\n\nPenetapan Bank Sistemik sebagaimana dimaksud dalam Pasal\n17 a yat (2) dilakukan paling lambat 3 (tiga) bulan sejak\ndiundangkannya Undang-Undang ini.\n\n\nBAB VIII\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H2566-A53",
+   "no": 53,
+   "noLabel": {
+    "id": "Pasal 53"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 53\n\n(1) Pada saat Undang-Undang ini mulai berlaku:\na. Pasal 37A Undang -Undang Nomor 10 Tahun 1998\ntentang Perubahan atas Undang -Undang Nomo r 7\nTahun 1992 tentang Perbankan (Lembaran Negara\nRepublik Indonesia Tahun 1998 Nomor 182,\nTambahan Lembaran Negara Republik Indonesia\nNomor 3790);\nb. Pasal 11 ayat (4) dan ayat (5) serta Pasal 55 ayat (5)\nUndang-Undang Nomor 23 Tahun 1999 tentang Bank\nIndonesia (Lembaran Negara Republik Indonesia Tahun\n1999 Nomor 66, Tambahan Lembaran Negara Republik\nIndonesia Nomor 3843), sebagaimana telah beberapa\nkali diubah terakhir dengan Undang -Undang Nomor 6\nTahun 2009 tentang Penetapan Peraturan Pemerintah\nPengganti U ndang-Undang Nomor 2 Tahun 2008\ntentang Perubahan Kedua atas Undang -Undang Nomor\n23 Tah un 1999 tentang Bank Indonesia menjadi\nUndang-Undang (Lembaran Negara Republik Indonesia\nTahun 2009 Nomor 7, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 4962); dan\nc. Pasal 1 angka 25, Pasal 44, Pasal 45, Pasal 46, dan"
+   }
+  },
+  {
+   "id": "ID-H2566-A69",
+   "no": 69,
+   "noLabel": {
+    "id": "Pasal 69 ayat (3) Undang -Undang Nomor 2"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {
+    "id": "ayat (3) Undang -Undang Nomor 21 Tahun"
+   },
+   "text": {
+    "id": "Pasal 69 ayat (3) Undang -Undang Nomor 21 Tahun\n2011 tentang Otoritas Jasa Keuangan (Lembaran\nNegara Republik Indonesia Tahun 2011 Nomor 111,\nTambahan Lembaran Negara Republik Indonesia\nNomor 5253),\ndicabut dan dinyatakan tidak berlaku.\n\n\n(2)  Pada . . .\n\n\n(2) Pada saat Undang -Undang ini mulai berlaku, Komite\nKoordinasi sebagaimana diatur dalam Undang -Undang\nNomor 24 Tahun 2004 tentang Lembaga Penjamin\nSimpanan (Lembaran Negara Republik Indonesia Tahun\n2004 No mor 96, Tambahan Lembaran Negara Republik\nIndonesia Nomor 4420) sebagaimana  telah diubah dengan\nUndang-Undang Nomor 7 Tahun 2009 tentang Penetapan\nPeraturan Pemerintah Pengganti Undang -Undang Nomor 3\nTahun 2008 tentang Perubahan atas Undang -Undang\nNomor 24  Tahun 2004 ten tang Lembaga Penjamin\nSimpanan menjadi Undang -Undang (Lembaran Negara\nRepublik Indonesia Tahun 2009 Nomor 8, Tambahan\nLembaran Negara Republik Indonesia Nomor 4963) beralih\nmenjadi Komite Stabilitas Sistem Keuangan.\n(3) Fungsi, tugas, dan wewena ng Komite Koordinasi\nsebagaimana dimaksud pada ayat (2) dilaksanakan oleh\nKomite Stabilitas Sistem Keuangan sesuai dengan fungsi,\ntugas, dan wewenang Komite Stabilitas Sistem Keuangan\nyang diatur berdasarkan Undang-Undang ini.\n\n\nPasal 54\n\n\nPeraturan pelaks anaan dari Undang -Undang ini harus\nditetapkan paling lama 1 (satu) tahun terhitung sejak Undang-\nUndang ini diundangkan.\n\n\nPasal 55\n\n\nUndang-Undang ini mulai berlaku pada tanggal diundangkan.\n\n\nAgar . . .\n\n\n\n\nAgar setiap orang mengetahuinya, memerintahkan\npengundangan Undang -Undang ini dengan penempatannya\ndalam Lembaran Negara Republik Indonesia.\n\n\nDisahkan di Jakarta\npada tanggal 15 April 2016\nPRESIDEN REPUBLIK INDONESIA,\n\nttd.\n\nJOKO WIDODO\n\n\nDiundangkan di Jakarta\npada tanggal  15 April 2016\nMENTERI HUKUM DAN HAK ASASI MANUSIA\n                REPUBLIK INDONESIA,\n\n                     ttd.\n\n                   YASONNA H LAOLY\n\n\n\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2016 NOMOR 70\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPENJELASAN\nATAS\nUNDANG-UNDANG REPUBLIK INDONESIA\nNOMOR 9 TAHUN 2016\nTENTANG\nPENCEGAHAN DAN PENANGANAN KRISIS SISTEM KEUANGAN\n\n\nI. UMUM\n\nDalam rangka mewujudkan kesejahteraan masyarakat Indonesia\nberdasarkan Pancasila dan Undang -Undang Dasar Negara Republik\nIndonesia Tahun 1945 dan mendukung perekonomian nasional melalui\npelaksanaan demokrasi ekonomi dengan prinsip kebersamaan, efisiensi\nberkeadilan, berkelanjutan, berwawasan lingkungan, kemandirian, serta\ndengan menjaga keseimbangan kemajuan dan kesatuan ekonomi nasional,\ndiperlukan stabilitas sistem keuangan yang kokoh.\nBelajar dari krisis keuangan tahun 1997 -1998, Pemerintah\nmelakukan berbagai upaya perbaikan untuk membangun sistem\nkeuangan yang lebih tangguh dan siap dalam menghadapi krisis sistem\nkeuangan. Upaya perbaikan tersebut meliputi penataan kembali\nkelembagaan yang ada, antara lain melalui reorganisasi Kementerian\nKeuangan, amendemen Undang -Undang Nomor 23 Tahun 1999 tentang\nBank Indonesia, pendirian Lembaga Penjamin Simpanan yang diatur\ndengan Undang -Undang Nomor 24 Tahun 2004 tentang Lembaga\nPenjamin Simpanan, serta pendirian Otoritas Jasa Keuangan yang diatur\ndalam Undang -Undang Nomor 21 Tahun 2011 tentang Otoritas Jasa\nKeuangan.\nMekanisme koordinasi dalam rangka menciptakan dan memelihara\nstabilitas sistem keuangan secara terpadu dan efektif menjadi se makin\npenting setelah munculnya krisis keuangan global pada awal tahun 2008.\nIndonesia melanjutkan penyusunan dan penerapan kebijakan strategis di\nberbagai sektor keuangan, termasuk mempersiapkan Undang -Undang\ntentang Pencegahan dan Penanganan Krisis Siste m Keuangan sebagai\nlandasan hukum bagi lembaga untuk berkoordinasi dalam menjaga dan\nmenciptakan stabilitas sistem keuangan. Undang -Undang ini melengkapi\nperaturan perundang -undangan yang telah ada untuk pencegahan dan\npenanganan krisis sistem keuangan,  terutama untuk permasalahan yang\ntidak dapat ditangani oleh lembaga secara sendiri -sendiri sesuai dengan\nwewenang yang dimilikinya.\n\nUndang-Undang . . .\nUndang-Undang ini mengatur peran Komite Stabilitas Sistem\nKeuangan yang meliputi (i) koordinasi pemantauan dan pemeliharaan\nstabilitas sistem keuangan, (ii) penanganan krisis sistem keuangan, dan\n(iii) penanganan permasalahan bank sistemik, baik dalam kondisi\nstabilitas sistem keuangan normal maupun kondisi krisis sistem\nkeuangan. Komite Stabilitas Sistem Ke uangan beranggotakan Menteri\nKeuangan, Gubernur Bank Indonesia, Ketua Dewan Komisioner Otoritas\nJasa Keuangan, dan Ketua Dewan Komisioner Lembaga Penjamin\nSimpanan.\nTitik berat Undang -Undang ini terletak pada pencegahan dan\npenanganan permasalahan bank si stemik sebagai bagian penting dari\nsistem keuangan. Meskipun demikian, pemantauan, pemeliharaan, dan\npenanganan permasalahan sistem keuangan dilakukan juga terhadap\nbidang fiskal, moneter, lembaga jasa keuangan, pasar keuangan, dan\ninfrastruktur keuangan, termasuk sistem pembayaran. Hal ini didasarkan\npada dua pertimbangan utama. Pertama, permasalahan bank sistemik\ndapat menyebabkan gagalnya sistem pembayaran yang mengakibatkan\ntidak berfungsinya sistem keuangan secara efektif dan berdampak\nlangsung pada ja lannya roda perekonomian. Kedua, sebagian besar dana\nmasyarakat saat ini dikelola oleh sektor perbankan, khususnya bank\nsistemik, dan perlu dijaga keamanannya dari kemungkinan kegagalan\nbank. Pencegahan dan penanganan permasalahan pasar keuangan dan\nlembaga jasa keuangan lain dilaksanakan oleh lembaga sesuai dengan\nwewenang yang diatur dalam Undang -Undang mengenai perbankan,\nperasuransian, pasar modal, surat utang negara, Lembaga Penjamin\nSimpanan, Otoritas Jasa Keuangan, dan Bank Indonesia.\nDalam Undang -Undang ini, penanganan permasalahan bank\ndiutamakan menggunakan sumber daya bank itu sendiri dan pendekatan\nbisnis tanpa menggunakan anggaran negara. Jika upaya penanganan ini\nbelum dapat mengatasi permasalahan, penanganan permasalahan bank\ndilakukan dengan dukungan Bank Indonesia untuk penanganan masalah\nlikuiditas dan Lembaga Penjamin Simpanan untuk penanganan masalah\nsolvabilitas.\nDalam kondisi krisis sistem keuangan, jika terjadi permasalahan\nsektor perbankan yang membahayakan perekonomian nasional, Pres iden\nberdasarkan rekomendasi Komite Stabilitas Sistem Keuangan dapat\nmemutuskan diselenggarakannya program restrukturisasi perbankan oleh\nLembaga Penjamin Simpanan. Melalui program ini Lembaga Penjamin\nSimpanan menangani permasalahan bank, baik bank sistem ik maupun\nbank selain bank sistemik.\nBerdasarkan latar belakang pemikiran di atas, dibentuk Undang -\nUndang tentang Pencegahan dan Penanganan Krisis Sistem Keuangan.\nII.  PASAL . . .\nII.  PASAL DEMI PASAL\n\nPasal 1\nCukup jelas.\n\nPasal 2\nHuruf a\nYang dimaksud dengan “asas kepentingan nasional” adalah\npencegahan dan penanganan Krisis Sistem Keuangan\nmengutamakan kepentingan bangsa, negara, dan masyarakat di\natas kepentingan lainnya.\nHuruf b\nYang dimaksud dengan “asas kemanfaatan” adalah seluruh\npengaturan kebija kan pencegahan dan penanganan Krisis Sistem\nKeuangan bermanfaat bagi kepentingan bangsa, negara, dan\nmasyarakat, khususnya dalam mewujudkan cita -cita\nkesejahteraan umum.\nHuruf c\nYang dimaksud dengan “asas keadilan” adalah penyelenggaraan\npencegahan dan pen anganan Krisis Sistem Keuangan menjunjung\ntinggi keseimbangan hak dan kewajiban dari setiap pihak yang\nterlibat.\nHuruf d\nYang dimaksud dengan “asas keterpaduan” adalah\npenyelenggaraan pencegahan dan penanganan Krisis Sistem\nKeuangan merupakan kesatuan yang  utuh, saling menunjang,\nselaras antarberbagai kepentingan, serta terkoordinasi dalam satu\nkendali yang didasarkan pada kerja sama yang baik dan saling\nmendukung.\nHuruf e\nYang dimaksud dengan “asas efektivitas” adalah penyelenggaraan\npencegahan dan penanga nan Krisis Sistem Keuangan secara tepat\ndalam mencegah dan menangani permasalahan Krisis Sistem\nKeuangan, termasuk permasalahan Bank Sistemik.\nHuruf f\nYang dimaksud dengan “asas efisiensi” adalah penyelenggaraan\npencegahan dan penanganan Krisis Sistem Keua ngan\nmenggunakan sumber daya secara tepat guna dan berdaya guna\nuntuk memastikan keefektifan pencegahan dan penanganan\npermasalahan Stabilitas Sistem Keuangan.\n\nHuruf g . . .\nHuruf g\nYang dimaksud dengan “asas kepastian hukum” adalah\npenyelenggaraan penceg ahan dan penanganan Krisis Sistem\nKeuangan dimaksudkan untuk memberikan dasar hukum bagi\npengambil keputusan dalam menetapkan langkah pencegahan dan\npenanganan Krisis Sistem Keuangan.\n\nPasal 3\nAyat (1)\nCukup jelas.\nAyat (2)\nHuruf a\nCukup jelas.\nHuruf b\nCukup jelas.\nHuruf c\nMakroprudensial mencakup pengaturan dan pengawasan\nlembaga jasa keuangan yang bersifat makro dan berfokus pada\nrisiko sistemik dalam rangka mendorong Stabilitas Sistem\nKeuangan.\nMikroprudensial mencakup pengaturan dan pengawasan\nlembaga jasa keuangan yang bersifat mikro dan berfokus pada\nkesehatan dan kinerja setiap individu lembaga jasa keuangan\ntersebut.\nHuruf d\nPasar keuangan mencakup pasar uang, pasar modal, dan pasar\nSurat Berharga Negara.\nHuruf e\nCukup jelas.\nHuruf f\nYang dimaksud d engan “resolusi Bank” adalah penyelesaian\npermasalahan solvabilitas Bank, baik Bank Sistemik maupun\nBank selain Bank Sistemik.\nAyat (3)\nCukup jelas.\nAyat (4)\nCukup jelas.\n\n\nPasal 4 . . .\nPasal 4\nAyat (1)\nCukup jelas.\nAyat (2)\nCukup jelas.\nAyat (3)\nYang dimaksud dengan “hak suara” adalah hak untuk memberikan\nsuara dalam pengambilan keputusan.\nAyat (4)\nCukup jelas.\n\nPasal 5\nCukup jelas.\n\nPasal 6\nHuruf a\nCukup jelas.\nHuruf b\nCukup jelas.\nHuruf c\nDalam menetapkan kriteria dan indikator, Komite Stabilitas Sistem\nKeuangan mempertimbangkan kerangka kerja penilaian kondisi\nStabilitas Sistem Keuangan yang digunakan oleh setiap anggota\nKomite Stabilitas Sistem Keuangan.\nHuruf d\nCukup jelas.\nHuruf e\nCukup jelas.\nHuruf f\nCukup jelas.\nHuruf g\nCukup jelas.\nHuruf h\nCukup jelas.\nHuruf i\nCukup jelas.\n\n\nHuruf j . . .\n\nHuruf j\nCukup jelas.\nHuruf k\nCukup jelas.\n\nPasal 7\nCukup jelas.\n\nPasal 8\nCukup jelas.\n\nPasal 9\nAyat (1)\nCukup jelas.\nAyat (2)\nCukup jelas.\nAyat (3)\nCukup jelas.\nAyat (4)\nYang dimaksud dengan “berhalangan tetap” a dalah meninggal\ndunia, mengalami cacat fisik, atau cacat mental yang tidak\nmemungkinkan yang bersangkutan untuk melaksanakan\ntugasnya.\nPejabat pengganti termasuk pejabat sementara atau istilah lainnya\nsesuai dengan ketentuan peraturan perundang-undangan.\nAyat (5)\nCukup jelas.\nAyat (6)\nCukup jelas.\nAyat (7)\nCukup jelas.\nAyat (8)\nPendokumentasian dilakukan secara tertulis dan/atau secara\nelektronik.\n\n\nPasal 10 . . .\n\nPasal 10\nAyat (1)\nCukup jelas.\nAyat (2)\nCukup jelas.\nAyat (3)\nKehadiran Ketua Dewan Komisione r Lembaga Penjamin Simpanan\ndalam rapat Komite Stabilitas Sistem Keuangan tetap diperlukan\nkarena informasi dan pendapat dari Lembaga Penjamin Simpanan\ndiperlukan untuk pengambilan keputusan.\n\nPasal 11\nAyat (1)\nCukup jelas.\nAyat (2)\nCukup jelas.\nAyat (3)\nCukup jelas.\nAyat (4)\nCukup jelas.\nAyat (5)\nJika rapat diselenggarakan dengan sarana komunikasi elektronik,\ntanda tangan anggota Komite Stabilitas Sistem Keuangan yang\nberhalangan hadir secara fisik dibubuhkan sementara dalam\nkeputusan rapat Komite Stabilit as Sistem Keuangan oleh pejabat\nyang ditunjuk untuk mewakilinya.\nAyat (6)\nCukup jelas.\n\nPasal 12\nAyat (1)\nPertukaran data dan informasi dilakukan melalui sekretariat\nKomite Stabilitas Sistem Keuangan.\nAyat (2)\nPeraturan perundang -undangan yang dimaksud men cakup\nUndang-Undang mengenai perbankan, Undang -Undang mengenai\npasar modal, Undang -Undang mengenai perpajakan, dan Undang -\nUndang mengenai surat berharga negara.\n\nPasal 13 . . .\nPasal 13\nCukup jelas.\n\nPasal 14\nCukup jelas.\n\nPasal 15\nHuruf a\nCukup jelas.\nHuruf b\nCukup jelas.\nHuruf c\nPenanganan permasalahan Bank Sistemik merupakan penanganan\npermasalahan yang ditetapkan oleh Komite Stabilitas Sistem\nKeuangan.\nHuruf d\nLaporan ini merupakan laporan mengenai hal yang sama dari\nLembaga Penjamin Simpanan yang telah  dievaluasi dan diberikan\ncatatan oleh Komite Stabilitas Sistem Keuangan.\n\nPasal 16\nAyat (1)\nCukup jelas.\nAyat (2)\nYang dimaksud dengan “protokol manajemen krisis” adalah\npedoman dan tata cara dalam melaksanakan langkah pencegahan\ndan penanganan krisis.\nAyat (3)\nCukup jelas.\nAyat (4)\nCukup jelas.\n\nPasal 17\nCukup jelas.\n\n\nPasal 18 . . .\n\n\n\nPasal 18\nAyat (1)\nHuruf a\nKecukupan modal antara lain mencakup bantalan cadangan\npermodalan ( capital conservation buffer ) dan tambahan modal\n(capital surcharge) untuk Bank Sistemik.\nKecukupan likuiditas antara lain mencakup rasio kecukupan\nlikuiditas ( liquidity coverage ratio)  dan rasio pendanaan yang\nstabil (net stable funding ratio).\n\nHuruf b\nYang dimaksud dengan “rencana aksi” ( recovery plan ) adalah\nrencana untuk mengat asi permasalahan keuangan yang\nmungkin terjadi di Bank.\n\nAyat (2)\nCukup jelas.\n\nAyat (3)\nTambahan kapasitas permodalan bagi Bank Sistemik antara lain\njenis utang tertentu yang dapat dikonversi menjadi modal.\n\nAyat (4)\nCukup jelas.\n\nPasal 19\nCukup jelas.\n\nPasal 20\nAyat (1)\nBerdasarkan Undang -Undang mengenai Bank Indonesia, Bank\nyang mengalami kesulitan likuiditas dapat mengajukan pinjaman\nlikuiditas jangka pendek kepada Bank Indonesia sebagai lender of\nlast resort  sepanjang Bank yang bersangkutan memenuhi\nketentuan solvabilitas dan memiliki agunan yang cukup.\nPinjaman likuiditas jangka pendek untuk Bank Syariah berupa\npembiayaan likuiditas jangka pendek berdasarkan prinsip syariah.\n\n\nAyat (2)  . . .\n\n\nAyat (2)\nKetentuan ini memperhatikan wewenang yang dimili ki oleh Bank\nIndonesia dan Otoritas Jasa Keuangan. Penilaian solvabilitas dan\ntingkat kesehatan Bank merupakan wewenang Otoritas Jasa\nKeuangan selaku lembaga pengawas Bank sehingga\npelaksanaannya dilakukan oleh Otoritas Jasa Keuangan\nberdasarkan ketentuan dalam Peraturan Otoritas Jasa Keuangan.\nPenilaian agunan dan perkiraan kemampuan Bank Sistemik\nmengembalikan pinjaman likuiditas jangka pendek atau\npembiayaan likuiditas jangka pendek berdasarkan prinsip syariah ,\nyang dilakukan sesuai dengan peraturan Bank  Indonesia,\nmerupakan kebutuhan Bank Indonesia selaku pihak yang akan\nmemberikan pinjaman atau pembiayaan. Untuk penilaian tersebut,\nBank Indonesia memerlukan kerja sama Otoritas Jasa Keuangan\nselaku pengawas yang mengetahui kondisi terkini aset dan\nkewajiban Bank serta kondisi keuangan Bank Sistemik secara\nkeseluruhan.\nDalam pelaksanaannya, Bank Indonesia dan Otoritas Jasa\nKeuangan dapat melakukan pemeriksaan dalam rangka penilaian\npemenuhan persyaratan agunan dan perkiraan kemampuan Bank\nSistemik untuk mengembalikan pinjaman likuiditas jangka pendek\natau pembiayaan likuiditas jangka pendek berdasarkan prinsip\nsyariah.\nAyat (3)\nSurat berharga yang memiliki peringkat tinggi dan mudah\ndicairkan mencakup surat berharga yang diterbitkan oleh Bank\nIndonesia atau  Surat Berharga Negara atau surat berharga yang\nditerbitkan badan hukum lain yang memiliki peringkat tinggi\nberdasarkan penilaian dari lembaga pemeringkat yang kompeten.\nAyat (4)\nAset kredit dengan kolektibilitas lancar yang dapat dijadikan\nagunan merupaka n aset kredit yang telah dipersiapkan\nkelengkapan dokumennya dan nilainya telah dimutakhirkan oleh\nBank, sesuai dengan Peraturan Bank Indonesia.\nAyat (5)\nCukup jelas.\nAyat (6)\nCukup jelas.\n\n\nAyat (7) . . .\n\nAyat (7)\nKetentuan ini dimaksudkan agar Bank Ind onesia dapat ikut serta\nuntuk melakukan pengawasan bersama Otoritas Jasa Keuangan\nuntuk memantau dan memastikan penggunaan pinjaman\nlikuiditas jangka pendek atau pembiayaan likuiditas jangka pendek\nberdasarkan prinsip syariah  oleh Bank sesuai dengan\nperuntukannya. Selain itu, pengawasan dimaksudkan agar Bank\nmenjaga kondisi keuangannya sehingga dapat mengembalikan\npinjaman likuiditas jangka pendek atau pembiayaan likuiditas\njangka pendek berdasarkan prinsip syariah pada saat jatuh tempo.\n\nPasal 21\nAyat (1)\nYang dimaksud dengan “permasalahan solvabilitas” adalah\nkesulitan permodalan yang dialami Bank Sistemik sehingga tidak\nmemenuhi kewajiban penyediaan modal minimum bagi Bank\nSistemik yang ditetapkan oleh Otoritas Jasa Keuangan.\nPenanganan permasalahan solva bilitas antara lain mencakup\nkonversi kewajiban Bank Sistemik menjadi modal (bail-in).\nAyat (2)\nPersiapan penanganan permasalahan solvabilitas Bank Sistemik\ndilakukan oleh Lembaga Penjamin Simpanan agar pada saat\nLembaga Penjamin Simpanan menerima penyerah an Bank\nSistemik dari Komite Stabilitas Sistem Keuangan , Lembaga\nPenjamin Simpanan telah siap mengimplementasikan pengalihan\nsebagian atau seluruh aset dan/atau kewajiban Bank Sistemik.\nPersiapan yang dilakukan oleh Lembaga Penjamin Simpanan\nantara lain penilaian aset dan/atau kewajiban Bank Sistemik ( due\ndiligence) setelah berkoordinasi dengan Otoritas Jasa Keuangan.\nAyat (3)\nPeningkatan intensitas persiapan penanganan Bank Sistemik\ndalam pengawasan khusus dilakukan Lembaga Penjamin\nSimpanan antara lain dengan melakukan penjajakan kepada Bank\nlain yang bersedia menerima pengalihan sebagian atau seluruh\naset dan/atau kewajiban Bank Sistemik setelah berkoordinasi\ndengan Otoritas Jasa Keuangan.\n\n\nAyat (4) . . .\n\n\n\nAyat (4)\nHuruf a\nPermintaan kepada pengurus B ank, sesuai dengan ketentuan\nUndang-Undang mengenai perbankan dan Undang -Undang\nmengenai Otoritas Jasa Keuangan , wajib dipenuhi  untuk\nmenjaga kondisi keuangan Bank sehingga pada saat akan\ndilakukan penanganan Bank Sistemik tidak terjadi perubahan\nsecara material.\nHuruf b\nPermintaan kepada pengurus Bank, sesuai dengan ketentuan\nUndang-Undang mengenai perbankan dan Undang -Undang\nmengenai Otoritas Jasa Keuangan, wajib dipenuhi untuk\nmelancarkan proses pengalihan aset dan kewajiban Bank\nSistemik.\nHuruf c\nFasilitasi tersebut  dimaksudkan agar penyelesaian transaksi\npengalihan aset dan/atau kewajiban Bank Sistemik dapat\ndilakukan secepat mungkin setelah Komite Stabilitas Sistem\nKeuangan menyerahkan penanganan Bank Sistemik kepada\nLembaga Penjamin Simpanan.\nAyat (5)\nPermasalahan solvabilitas tidak dapat diatasi apabila kondisi Bank\nsemakin memburuk atau batas waktu Bank dalam pengawasan\nkhusus telah berakhir.\nAyat (6)\nCukup jelas.\nAyat (7)\nHuruf a\nBank Sistemik yang diserahkan kepada Lembaga Penjamin\nSimpanan merupakan Bank yang mengalami kesulitan\nkeuangan dan membahayakan kelangsungan usahanya serta\ndinyatakan tidak dapat lagi disehatkan oleh Otoritas Jasa\nKeuangan sesuai dengan wewenang yang dimilikinya,\nsebagaimana diatur dalam Undang -Undang mengenai Lembaga\nPenjamin Simpanan.\nHuruf b\nCukup jelas.\n\n\nAyat (8) . . .\n\n\nAyat (8)\nPeraturan Otoritas Jasa Keuangan antara lain mengatur waktu\npemberitahuan mengenai Bank Sistemik yang mengalami\npermasalahan solvabilitas.\n\nPasal 22\nAyat (1)\nHuruf a\nCara penanganan ini bert ujuan agar fungsi dan pelayanan\nBank yang berpotensi menimbulkan dampak sistemik dapat\ndijaga kesinambungannya. Untuk itu,  fungsi dan pelayanan\nBank tersebut dialihkan ke Bank lain, disertai dengan\npengalihan sejumlah aset, terutama yang masih berkualitas\nbaik.\nHuruf b\nPengalihan sebagian atau seluruh aset dan/atau kewajiban\nBank Sistemik dilakukan kepada Bank baru yang dibentuk dan\ndimiliki sendiri oleh Lembaga Penjamin Simpanan. Bank baru\nini disebut Bank Perantara.\nHuruf c\nCara penanganan ini dilakukan dengan penambahan modal\noleh Lembaga Penjamin Simpanan ke dalam Bank, dengan\nataupun tanpa mengikutsertakan pemegang saham lama.\nAyat (2)\nDalam Peraturan Lembaga Penjamin Simpanan diatur  kriteria\nuntuk pemilihan cara penanganan permasalahan solvabilitas B ank\nSistemik, antara lain dengan mempertimbangkan kondisi\nperekonomian, kompleksitas permasalahan Bank, kebutuhan\nwaktu penanganan, ketersediaan investor, dan efektivitas\npenanganan permasalahan Bank.\n\nPasal 23\nHuruf a\nJenis dan kriteria aset yang dapat dialihkan antara lain:\n1. aset yang memiliki kualitas lancar atau dalam perhatian\nkhusus, tidak dalam sengketa, disita, dan/atau dijaminkan;\n2. aset tetap dan inventaris yang digunakan dalam kegiatan\nusaha Bank; dan\n3. aset tak berwujud yang dimanfaatkan untuk kegiat an usaha\nBank.\n\nJenis . . .\nJenis dan kriteria kewajiban yang dapat dialihkan antara lain:\n1. simpanan nasabah penyimpan, termasuk simpanan dari Bank\nlain; dan\n2. pinjaman yang diterima dari Bank lain dalam bentuk transaksi\npasar uang antar -Bank, kecuali pinjama n tersebut dijamin\ndengan aset Bank.\nHuruf b\nFungsi dan layanan Bank Sistemik, terutama yang berpotensi\nmenimbulkan dampak sistemik, perlu dipertahankan\nkesinambungannya dengan mengalihkan kepada Bank lain\ndengan cara yang seksama dan dalam waktu sesingkat -\nsingkatnya. Untuk itu, Lembaga Penjamin Simpanan perlu\nmemiliki wewenang untuk mengalihkan kewajiban Bank yang\nmelekat pada fungsi dan layanan tersebut, termasuk simpanan\nnasabah dan pinjaman antarbank, tanpa menunggu persetujuan\ndari pihak yang memiliki kepentingan atas kewajiban tersebut.\nPihak lain antara lain mencakup organ perusahaan seperti dewan\nkomisaris dan rapat umum pemegang saham.\nJumlah kewajiban Bank Sistemik yang dialihkan sebesar saldo\nkewajiban Bank yang berupa simpanan dan pinjaman yang\nditerima dari Bank lain  yang tercatat pada pembukuan Bank\npada saat dialihkan.\nHuruf c\nPembayaran kepada Bank penerima untuk menutup selisih\nkurang nilai aset dari nilai kewajiban Bank Sistemik yang\ndialihkan dimaksudkan sebagai kompensasi atas kesediaannya\nmenerima pengalihan aset dan kewajiban tersebut.\nBagi Bank Perantara, pembayaran tersebut dimaksudkan untuk\nmemenuhi tingkat kesehatan Bank yang dipersyaratkan Otoritas\nJasa Keuangan.\nHuruf d\nWewenang lain yang dimiliki Lembaga Penjamin Simpanan dan\ndiperlukan untuk menerapkan cara penanganan melalui\npengalihan sebagian atau seluruh aset dan/atau kewajiban Bank\nSistemik kepada Bank penerima atau kepada Bank Perantara\nantara lain wewenang untuk melikuidasi Bank.\n\nPasal 24\nCukup jelas.\n\nPasal 25 . . .\nPasal 25\nAyat (1)\nPada dasarnya satu Bank Perantara digunakan untuk menerima\npengalihan aset dan kewajiban dari satu Bank Sistemik. Dalam\nkondisi tertentu, satu Bank Perantara dapat digunakan Lembaga\nPenjamin Simpanan untuk menerima pengalihan aset dan\nkewajiban lebih dari satu Bank Sistemik.\nAyat (2)\nYang dimaksud dengan “orang” adalah orang perseorangan, baik\nwarga negara Indonesia maupun warga negara asing, atau badan\nhukum, baik badan hukum Indonesia maupun badan hukum\nasing.\nDengan ketentuan ini, Lembaga Penjamin Simpanan sebagai badan\nhukum menjadi pendiri dan satu -satunya pemegang saham Bank\nPerantara. Pengecualian ini dimaksudkan agar Lembaga Penjamin\nSimpanan menguasai sepenuhnya pengoperasian Bank Perantara.\nAyat (3)\nCukup jelas.\nAyat (4)\nHuruf a\nCukup jelas.\nHuruf b\nCukup jelas.\nHuruf c\nPemenuhan persyaratan dapat menggunakan surat\npernyataan dari Lembaga Penjamin Simpanan bahwa\npersyaratan tersebut akan dipenuhi dengan menggunakan\ndata dan/atau dokumen Bank Sistemi k yang akan dialihkan\nsebagian atau seluruh aset dan/atau kewajibannya.\nAyat (5)\nCukup jelas.\nAyat (6)\nUji kemampuan dan kepatutan bagi anggota dewan komisaris dan\ndireksi Bank Perantara memperhatikan kebutuhan untuk\nberoperasinya Bank Perantara dalam waktu segera. Anggota dewan\nkomisaris dan direksi Bank Perantara dinyatakan memenuhi\npersyaratan kemampuan dan kepatutan apabila yang\nbersangkutan tidak tercantum dalam daftar kredit macet dan\ndaftar tidak lulus.\n\nPada . . .\nPada saat Bank Perantara dijual oleh Lembaga Penjamin\nSimpanan, anggota dewan komisaris dan direksi Bank harus telah\nmemenuhi persyaratan kemampuan dan kepatutan yang berlaku\numum.\nAyat (7)\nCukup jelas.\n\nPasal 26\nAyat (1)\nLembaga Penjamin Simpanan dapat menjual Bank Perantara\nsetelah Bank Perantara memenuhi tingkat kesehatan da n terdapat\ncalon investor yang berkomitmen untuk menjaga tingkat kesehatan\nBank Perantara.\nLembaga Penjamin Simpanan juga dapat menjual seluruh aset dan\nkewajiban Bank Perantara dan selanjutnya membubarkan badan\nhukum Bank Perantara.\nAyat (2)\nYang dimaksud dengan “terbuka” adalah dapat diikuti oleh setiap\ncalon investor yang memenuhi persyaratan.\nYang dimaksud dengan “transparan” adalah proses penjualan dan\npengalihan dapat diakses oleh publik.\n\nPasal 27\nAyat (1)\nKetentuan ini tidak membatasi pemegang saham  Bank Sistemik\ndan/atau pihak lain menyediakan pendanaan untuk menangani\npermasalahan solvabilitas Bank Sistemik, disamping dana yang\nbersumber dari kekayaan Lembaga Penjamin Simpanan.\nAyat (2)\nHuruf a\nPenjualan Surat Berharga Negara yang dimiliki Lembaga\nPenjamin Simpanan kepada Bank Indonesia merupakan salah\nsatu cara untuk menjaga stabilitas pasar Surat Berharga\nNegara.\nHuruf b\nPinjaman dapat berbentuk surat utang yang diterbitkan oleh\nLembaga Penjamin Simpanan dan dibeli oleh pihak lain.\nAyat (3)\nCukup jelas.\n\nAyat (4) . . .\n\nAyat (4)\nCukup jelas.\n\nPasal 28\nCukup jelas.\n\nPasal 29\nCukup jelas.\n\nPasal 30\nYang dimaksud dengan “mutatis mutandis” adalah k etentuan\nmengenai pemberian pinjaman likuiditas jangka pendek atau\npembiayaan likuiditas jangka pendek ber dasarkan prinsip syariah\nkepada Bank Sistemik, dengan perubahan kecil atau yang perlu untuk\ndisesuaikan, berlaku juga untuk Bank selain Bank Sistemik.\nContoh:\nPenggantian frasa “Bank Sistemik” dalam Pasal 20 menjadi kata “Bank\nselain Bank Sistemik”.\n\nPasal 31\nAyat (1)\nCukup jelas.\nAyat (2)\nPeraturan Lembaga Penjamin Simpanan antara lain mengatur\nkriteria pemilihan cara penyelesaian Bank selain Bank Sistemik\nyang sekurang -kurangnya dengan mempertimbangkan perkiraan\nbiaya yang paling rendah (least cost test).\n\nPasal 32\nAyat (1)\nCukup jelas.\nAyat (2)\nCukup jelas.\nAyat (3)\nCukup jelas.\n\n\nAyat (4) . . .\n\n\nAyat (4)\nYang dimaksud dengan “pertimbangan profesional” ( professional\njudgement) adalah suatu proses pragmatik melalui faktor berupa\npengalaman, pembenaran ter hadap tindakan, merespons terhadap\nmotivasi dari luar, dan belajar dari kesalahan.\nAyat (5)\nCukup jelas.\nAyat (6)\nCukup jelas.\nAyat (7)\nCukup jelas.\nAyat (8)\nCukup jelas.\nAyat (9)\nCukup jelas.\n\nPasal 33\nJika rekomendasi Komite Stabilitas Sistem Keuangan di tolak oleh\nPresiden, status Stabilitas Sistem Keuangan tetap berada dalam\nkondisi normal.\n\nPasal 34\nCukup jelas.\n\nPasal 35\nPerubahan besaran nilai simpanan yang dijamin dilakukan sesuai\ndengan Undang-Undang mengenai Lembaga Penjamin Simpanan.\n\nPasal 36\nAyat (1)\nCukup jelas.\nAyat (2)\nJika rekomendasi Komite Stabilitas Sistem Keuangan ditolak oleh\nPresiden, status Stabilitas Sistem Keuangan tetap berada dalam\nkondisi Krisis Sistem Keuangan.\n\nPasal 37\nAyat (1)\nCukup jelas.\n\nAyat (2) . . .\nAyat (2)\nPenjualan Surat Berharga Negara yang dimiliki Lembaga Penjamin\nSimpanan kepada Bank Indonesia dalam kondisi Krisis Sistem\nKeuangan juga dapat dilakukan untuk mendanai penanganan\npermasalahan solvabilitas Bank selain Bank Sistemik.\n\nPasal 38\nAyat (1)\nPermasalahan sekto r perbankan yang membahayakan\nperekonomian nasional ditandai dengan kegagalan sejumlah Bank,\nbaik Bank Sistemik maupun Bank selain Bank Sistemik.\nRekomendasi Komite Stabilitas Sistem Keuangan kepada Presiden\nantara lain memuat kriteria Bank yang masuk dal am Program\nRestrukturisasi Perbankan.\nAyat (2)\nCukup jelas.\nAyat (3)\nCukup jelas.\n\nPasal 39\nAyat (1)\nHuruf a\nPihak lain antara lain investor baru dan pemegang obligasi\nyang dapat dikonversi menjadi modal.\nHuruf b\nCukup jelas.\nHuruf c\nCukup jelas.\nHuruf d\nPinjaman dari pihak lain berasal dari orang perseorangan,\nbadan usaha milik negara, badan usaha milik swasta,\ndan/atau badan hukum lainnya.\nAyat (2)\nBagian premi penjaminan yang digunakan untuk pendanaan\nProgram Restrukturisasi Perbankan dihitung dan dikel ola secara\nterpisah dari premi penjaminan untuk pelaksanaan tugas Lembaga\nPenjamin Simpanan sebagaimana diatur dalam Undang -Undang\nmengenai Lembaga Penjamin Simpanan. Besaran bagian premi ini\nmenjadi tambahan atas besaran premi yang dikenakan sebelum\nberlakunya Undang-Undang ini.\n\nAyat (3) . . .\nAyat (3)\nKontribusi industri perbankan sebagai bagian dari premi\npenjaminan ditetapkan sebelum Program Restrukturisasi\nPerbankan diselenggarakan agar Program tersebut dapat segera\ndilaksanakan setelah penetapan oleh  Presiden dan agar tidak\nmembebani industri perbankan pada saat Krisis Sistem Keuangan.\nAyat (4)\nPenetapan besaran bagian premi untuk pendanaan Program\nRestrukturisasi Perbankan dalam Peraturan Pemerintah mengikuti\nprosedur sebagaimana diatur dalam Undang -Undang mengenai\nLembaga Penjamin Simpanan.\n\nPasal 40\nAyat (1)\nCukup jelas.\nAyat (2)\nPemisahan pencatatan aset dan kewajiban merupakan bagian dari\nakuntabilitas Lembaga Penjamin Simpanan dalam menjalankan\ntugas berdasarkan Undang -Undang ini yang terpisah da ri tugas\nberdasarkan Undang -Undang mengenai Lembaga Penjamin\nSimpanan.\nAyat (3)\nKetentuan yang diatur dalam Peraturan Lembaga Penjamin\nSimpanan antara lain memuat pedoman pembukuan dan\npelaporan keuangan, pedoman pengadaan barang dan jasa,\npedoman penagiha n piutang, pedoman penyelesaian kewajiban,\npedoman standar biaya, pedoman penempatan dana, dan pedoman\npenghapusan aset.\n\nPasal 41\nAyat (1)\nHuruf a\nBerdasarkan Undang -Undang mengenai Lembaga Penjamin\nSimpanan, Lembaga Penjamin Simpanan memiliki wewenang\nmengambil alih dan menjalankan segala hak dan wewenang\npemegang saham, termasuk hak dan wewenang rapat umum\npemegang saham Bank.\n\n\nKetentuan . . .\n\n\nKetentuan ini menegaskan bahwa Lembaga Penjamin\nSimpanan juga memiliki wewenang untuk mengambil alih dan\nmenjalankan segala hak dan wewenang organ yang setara\ndengan pemegang saham dan rapat umum pemegang saham\ndalam hal Bank dalam Program Restrukturisasi Perbankan\nberbentuk hukum selain perseroan terbatas sesuai dengan\nperaturan perundang-undangan.\n\nHuruf b\nCukup jelas.\n\nHuruf c\nCukup jelas.\n\nHuruf d\nPenjualan atau pengalihan kekayaan Bank oleh Lembaga\nPenjamin Simpanan diikuti dengan beralihnya hak kebendaan\nkepada pembeli. Dengan demikian, pembeli memperoleh\nkepastian hukum beralihnya hak atas kekayaan tersebut .\nPenjualan atau pengalihan dapat dilakukan secara langsung\natau melalui penawaran umum untuk memperoleh harga\nterbaik.\n\nHuruf e\nYang dimaksud dengan “pihak lain” adalah orang\nperseorangan, badan usaha milik negara, badan usaha milik\nswasta, dan/atau badan hukum lainnya.\n\nHuruf f\nCukup jelas.\n\nHuruf g\nKetentuan ini menegaskan bahwa penyertaan modal sementara\noleh Lembaga Penjamin Simpanan dapat dilakukan secara\nlangsung melalui penyetoran modal dan/atau melalui konversi\ntagihan Lembaga Penjamin Simpanan ter hadap Bank menjadi\nsaham. Mengingat kekhususan penyertaan modal sementara\noleh Lembaga Penjamin Simpanan, pelaksanaannya\ndikecualikan dari ketentuan dan prosedur penambahan modal\nyang berlaku bagi Bank yang sahamnya tercatat di bursa efek.\n\n\nHuruf h . . .\n\nHuruf h\nDalam rangka memperbaiki struktur permodalan dan/atau\nkewajiban Bank, Lembaga Penjamin Simpanan berwenang\nmelakukan konversi kewajiban Bank kepada kreditur tertentu\nmenjadi modal. Mengingat kekhususan konversi kewajiban\nmenjadi modal tersebut, pelaksanaannya dikecualikan dari\nketentuan dan prosedur penambahan modal yang berlaku bagi\nBank yang sahamnya tercatat di bursa efek.\n\nHuruf i\nMenurut ketentuan ini, atas piutang Bank terhadap pihak\nketiga, Lembaga Penjamin Simpanan dapat melakukan\ntindakan p enagihan piutang dengan penerbitan surat paksa,\ndengan berdasarkan pada catatan utang debitur yang\nbersangkutan pada Bank dalam Program Restrukturisasi\nPerbankan.\nSurat paksa ini memuat irah -irah dengan kata -kata “DEMI\nKEADILAN BERDASARKAN KETUHANAN YANG M AHA ESA”\nmempunyai kekuatan eksekutorial dan kedudukan hukum\nyang sama dengan putusan pengadilan yang telah mempunyai\nkekuatan hukum tetap.\nDalam hal tindakan penagihan piutang tidak diindahkan oleh\ndebitur, Lembaga Penjamin Simpanan dapat melakukan\npenyitaan atas kekayaan debitur dan selanjutnya dapat\nmelakukan pelelangan atas kekayaan debitur dalam rangka\npengembalian piutang dimaksud. Harta debitur yang tidak\ndapat disita meliputi perlengkapan rumah tangga, buku -buku,\ndan peralatan kerja untuk kelangsung an hidup debitur.\nWalaupun Lembaga Penjamin Simpanan diberi wewenang\nuntuk melakukan penagihan paksa, tata cara pelaksanaannya\ntetap memperhatikan aspek kepastian hukum dan keadilan.\nHuruf j\nPengosongan atas tanah dan/atau bangunan milik atau yang\nmenjadi hak Bank dilakukan Lembaga Penjamin Simpanan\nberdasarkan bukti kepemilikan dan/atau bukti hak antara lain\nhak jaminan yang dipegang Bank sebagai kreditur, sesuai\ndengan ketentuan peraturan perundang-undangan.\nHuruf k\nUntuk memperoleh keterangan dimaksud, L embaga Penjamin\nSimpanan dapat meminta bantuan aparat penegak hukum\nyang berwenang.\n\nYang . . .\nYang dimaksud dengan “ pihak manapun ” adalah pihak\nterafiliasi dan pihak lain yang terlibat atau patut diduga\nterlibat, termasuk badan hukum yang dimiliki oleh B ank atau\npihak terafiliasi.\nHuruf l\nCukup jelas.\nHuruf m\nCukup jelas.\nHuruf n\nCukup jelas.\nHuruf o\nCukup jelas.\nHuruf p\nCukup jelas.\nHuruf q\nCukup jelas.\nHuruf r\nCukup jelas.\nHuruf s\nCukup jelas.\nAyat (2)\nCukup jelas.\n\nPasal 42\nYang dimaksud dengan “mutati s mutandis” adalah k etentuan\nmengenai pengalihan sebagian atau seluruh aset dan/atau kewajiban\nBank Sistemik kepada Bank penerima atau Bank Perantara\nsebagaimana dimaksud dalam Pasal 23 sampai dengan Pasal 26 ,\ndengan perubahan kecil atau yang perlu untuk d isesuaikan, berlaku\njuga untuk pelaksanaan wewenang Lembaga Penjamin Simpanan\nsebagaimana dimaksud dalam Pasal 41 ayat (1) huruf o.\n\nPasal 43\nDukungan kepada Lembaga Penjamin Simpanan antara lain\nmencakup penetapan peraturan tertentu bagi Bank dalam Progra m\nRestrukturisasi Perbankan dan pengalokasian sumber daya, termasuk\nsumber daya manusia dan teknologi informasi.\n\nPasal 44 . . .\n\nPasal 44\nPelaporan sewaktu -waktu dilakukan atas permintaan Presiden,\npermintaan Komite Stabilitas Sistem Keuangan, atau atas k ebutuhan\nLembaga Penjamin Simpanan untuk menyampaikan informasi\nmengenai permasalahan dan/atau penanganan Program\nRestrukturisasi Perbankan kepada Presiden.\n\nPasal 45\nCukup jelas.\n\nPasal 46\nAyat (1)\nCukup jelas.\nAyat (2)\nCukup jelas.\nAyat (3)\nCukup jelas.\nAyat (4)\nCukup jelas.\nAyat (5)\nAset yang dapat dihapus buku atau dihapus tagih berupa tagihan.\nPenghapusbukuan pada dasarnya merupakan upaya terakhir jika\nupaya penyelamatan tagihan seperti penagihan intensif,\npengondisian kembali, penjadwalan kembali, res trukturisasi, dan\npenjualan agunan memberikan hasil yang diperkirakan lebih kecil\ndari biaya yang akan dikeluarkan dan/atau upaya penagihan tidak\nbisa dilakukan.\nAyat (6)\nCukup jelas.\nAyat (7)\nPeraturan Pemerintah ini antara lain memuat kriteria tagihan ya ng\ndapat dihapus buku dan dihapus tagih, mekanisme persetujuan\npenghapusbukuan dan penghapustagihan, serta pihak yang\nberwenang menyetujui penghapusbukuan dan penghapustagihan.\n\nPasal 47\nCukup jelas.\n\n\nPasal 48 . . .\nPasal 48\nAyat (1)\nCukup jelas.\nAyat (2)\nTuntutan hukum antara lain mencakup tuntutan hukum pidana,\nhukum perdata, dan hukum tata usaha negara.\n\nPasal 49\nCukup jelas.\n\nPasal 50\nYang dimaksud dengan “keputusan Forum Koordinasi Stabilitas\nSistem Keuangan” adalah simpulan rapat Forum Koordinasi Sta bilitas\nSistem Keuangan yang ditandatangani oleh seluruh anggota Forum\nKoordinasi Stabilitas Sistem Keuangan.\n\nPasal 51\nCukup jelas.\n\nPasal 52\nCukup jelas.\n\nPasal 53\nCukup jelas.\n\nPasal 54\nCukup jelas.\n\nPasal 55\nCukup jelas.\n\n\n\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 5872"
+   }
+  }
+ ]
+}

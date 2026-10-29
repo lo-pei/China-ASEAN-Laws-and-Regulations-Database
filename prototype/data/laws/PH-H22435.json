@@ -1,0 +1,72 @@
+{
+ "id": "PH-H22435",
+ "title": {
+  "zh": null,
+  "en": "Amending Section 91 of the National Internal Revenue Code",
+  "orig": "Amending Section 91 of the National Internal Revenue Code"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1976-11-25",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 1054",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1196,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_01054_1976_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_01054_1976_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22435-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section 91 of the National Internal Revenue Code is hereby amended to read as follows:\n\"Determination of value of usufruct, annuities and other property. To determine the value of the right of\nusufruct, use of habitation, as well as that of annuity, there shall be taken into account the probable life of the\nbeneficiary in accordance with the American Tropical Experience Table calculated at eight per centum annual\nThe estate shall be appraised at its fair market value as of the time of death, or as of six months thereafter, at\nthe election of the executor or administrator. However, the fair market value of real property shall be either (a)\nthe current and fair market value as shown in the schedules of values fixed by provincial and city assessor\npursuant to Presidential Decree No. 76, as amended, or (b) the fair market value as determined by the\nCommissioner of Internal Revenue, whichever is higher."
+   }
+  },
+  {
+   "id": "PH-H22435-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Repealing Clause. All laws or decrees which are inconsistent herewith are hereby repealed or\nmodified accordingly."
+   }
+  },
+  {
+   "id": "PH-H22435-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "Effectivity. This Decree shall take effect upon approval.\nDone in the City of Manila, this 25th day of November, in the year of Our Lord, nineteen hundred and\nseventy-six."
+   }
+  }
+ ]
+}

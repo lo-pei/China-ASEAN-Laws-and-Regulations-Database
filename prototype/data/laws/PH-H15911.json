@@ -1,0 +1,72 @@
+{
+ "id": "PH-H15911",
+ "title": {
+  "zh": null,
+  "en": "An Act to Provide Tor the of Ties in Elections for Members of the National Assembly.",
+  "orig": "An Act to Provide Tor the of Ties in Elections for Members of the National Assembly."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1936-11-18",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 194",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1172,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00194_1936_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00194_1936_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H15911-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Whenever it shall atroear from the canvass in a regular or special election for Member of the\nNational Assembly that two or more candidates have obtained the same plural number of votes, the provincial\nboard of canvassers concerned shall proclaim that candidate elected who shall be favored by fortune in the\ndrawing herein provided for, and the candidate so proclaimed shall he entitled to a seat in the National\nAssembly as if he had obtained a majority of votes."
+   }
+  },
+  {
+   "id": "PH-H15911-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "As soon as the canvass shall result in a tie, the provincial board of canvassers, after stating this\nfact in the proper certificate, and after giving all tied candidates ten days' notice in order that they may be\npresent if they so desire, shall hold another public session at which a drawing shall be held, and minutes shall\nforthwith be prepared of the procedure followed in the drawing, of the result of said drawing and of the\nproclamation of the candidate-elect. Certified copies of said minutes shall be sent to the National Assembly,\nthe President of the Philippines, and the Auditor General, and to each of the tied candidates."
+   }
+  },
+  {
+   "id": "PH-H15911-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved. November 18, 1936."
+   }
+  }
+ ]
+}

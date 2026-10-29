@@ -1,0 +1,72 @@
+{
+ "id": "PH-H15553",
+ "title": {
+  "zh": null,
+  "en": "Batas Pambansa Blg. 724  An Act Converting Certain Provincial Roads in the Province of Iloilo Into National Roads",
+  "orig": "Batas Pambansa Blg. 724  An Act Converting Certain Provincial Roads in the Province of Iloilo Into National Roads"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1984-04-13",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Batasang Pambansa",
+ "docNumber": "Batas Pambansa Blg. 724",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1128,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/08_国民议会法令_BP/BP_00724_1984_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 BP_00724_1984_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H15553-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The following provincial roads in the Province of Iloilo are converted into a national roads:\n(a) Lublub-Calao-Rosario-Cansilayan Road in the Municipality of Dumangas, Iloilo;\n(b) Sulangan Junction-Patlad-Cayos-Batud-Fabrica-Balud-Maguina- Balabag Road in the Municipality of\nDumangas, Iloilo;\n(c) Lublub-Bolilao-Salad Road to Agcuyawan Road in Dumangas, Iloilo;\n(d) Guimbal-Tubungan-Leon Road;\n(e) Oton-Boray-Sta. Rita-Sta. Monica-Rizal-Sta. Clara- Alimodian Junction Road;\n(f) Oton-Manbog-Kabuluan-Abilay-San Jose-San Miguel Junction Road;\n(g) Tigbauan-Cordova-Alimodian Junction Road;\n(h) Oton-San Nicolas-Cagbang-Pakiad-Mandurriao Junction Road;\n(i) Miagao-Valencia-Igbaras-Bunga-Amorogtong- Tubungan Road."
+   }
+  },
+  {
+   "id": "PH-H15553-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The amount necessary for the improvement and maintenance of said roads shall continue to be\nfunded out from the lump sum appropriation authorized under Batas Pambansa Blg. 640 for the repair and\nmaintenance of local roads, until such time that the maintenance funds for said roads shall have been provided\nfor in the succeeding appropriations acts."
+   }
+  },
+  {
+   "id": "PH-H15553-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: April 13, 1984"
+   }
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "id": "PH-H12905",
+ "title": {
+  "zh": null,
+  "en": "An Act to Afford Relief to Sufferers From the Typhoons of October and November, Nineteen Hundred and Twelve.",
+  "orig": "An Act to Afford Relief to Sufferers From the Typhoons of October and November, Nineteen Hundred and Twelve."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1912-12-19",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2199",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 1102,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1912/act_2199_1912.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02199_1912_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02199_1912_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12905-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "There is hereby appropriated, out of any funds in the Insular Treasury not otherwise\nappropriated, the sum of five hundred thousand pesos to be disbursed with the approval of the\nGovernor-General in affording temporary means of support to the inhabitants of the districts affected by the\ntyphoons which swept over the Philippine Islands in October and November, nineteen hundred and twelve."
+   }
+  },
+  {
+   "id": "PH-H12905-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "So much of this appropriation as may be necessary shall be used to reimburse the appropriations\nof provinces and Bureaus for expenditures already incurred by direction of the Governor-General for the relief\nof sufferers from said typhoons, and to provide funds for the improvement of the poblaciones damaged, and\nsaid amounts shall be determined and approved by the Governor-General."
+   }
+  },
+  {
+   "id": "PH-H12905-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "The appropriation herein made shall be available, for the purpose for which appropriated, up to\nand including March thirty-first, nineteen hundred and thirteen, on which date any unexpended balance shall\nrevert to unappropriated funds in the Insular Treasury."
+   }
+  },
+  {
+   "id": "PH-H12905-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, December 19, 1912."
+   }
+  }
+ ]
+}

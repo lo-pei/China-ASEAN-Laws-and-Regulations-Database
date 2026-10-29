@@ -1,0 +1,62 @@
+{
+ "id": "PH-H16309",
+ "title": {
+  "zh": null,
+  "en": "An Act to Regulate the Establishment, Maintenance and Operation of Places of Amusement in Chartered Cities, Municipalities and Municipal",
+  "orig": "An Act to Regulate the Establishment, Maintenance and Operation of Places of Amusement in Chartered Cities, Municipalities and Municipal"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1940-08-19",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 601",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 802,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00601_1940_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00601_1940_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H16309-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Any provision of existing laws to the contrary notwithstanding, no license shall hereafter be\nissued for the establishment, maintenance and operation of cabarets, dancing schools, dance halls, cockpits,\nnight clubs, race tracks, gaming centers, and other similar places of amusement, except in accordance with\nrules and regulations to be promulgated by the President of the Philippines for the purpose, aid upon payment\nof fees provided therein. The license fees which shall be collected under the provisions hereof shall accrue to\nthe treasury of the city, municipality or municipal district where the business is operated."
+   }
+  },
+  {
+   "id": "PH-H16309-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on the first day of January, 1941, or at an earlier date upon the\npromulgation of the rules and regulations herein provided.\nApproved, August 19, 1940."
+   }
+  }
+ ]
+}

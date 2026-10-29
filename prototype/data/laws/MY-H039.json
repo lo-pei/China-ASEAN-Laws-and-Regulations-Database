@@ -3,12 +3,16 @@
  "title": {
   "zh": "民法",
   "en": "Civil Law Act 1956",
-  "orig": "LAWS OF MALAYSIA — Act 67 — CIVIL LAW ACT 1956"
+  "orig": "LAWS OF MALAYSIA — Act 67 — CIVIL LAW ACT 1956",
+  "vi": "Luật Dân sự 1956",
+  "th": "พระราชบัญญัติกฎหมายแพ่ง ค.ศ. 1956",
+  "id": "Undang-Undang Hukum Perdata 1956",
+  "ms": "Akta Undang-Undang Sivil 1956"
  },
  "country": "MY",
  "countryName": "马来西亚",
  "layer": "intl",
- "pack": "my-p02",
+ "pack": "my-2",
  "language": "en",
  "level": "law",
  "category": null,
@@ -21,105 +25,402 @@
  "docNumber": "Online Version of Updated Text of Reprint, as at 1 October 2019",
  "officialCode": null,
  "topics": [],
- "coverage": "full",
+ "coverage": "partial",
  "structureMode": "ARTICLE",
  "structure": null,
- "articleCount": 8,
- "chars": 14851,
+ "articleCount": 27,
+ "chars": 44357,
  "source": {
   "name": "马来西亚官方发布渠道",
   "url": null
  },
- "sourceFile": null,
+ "sourceFile": "MY\\en\\TXT文本\\05_其他及未分类\\1956_67_CIVIL LAW ACT 1956.txt",
  "fetchedAt": "2026-10-04",
- "completenessNote": "全文，共 8 条；经《东盟法律分类》归档原件重新校核切分，逐字未改写。",
- "textQuality": null,
+ "completenessNote": "全文：第 1 条至第 29 条；逐字未改写（源自厂商 OCR 文本）。",
+ "textQuality": "ocr-vendor",
  "ocrNoisySections": null,
  "pdfs": null,
  "duplicateOf": null,
  "articles": [
   {
-   "id": "MY-H039-A22",
+   "id": "MY-H541-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {
+    "en": "Part I"
+   },
+   "heading": {},
+   "text": {
+    "en": "1. Short title."
+   }
+  },
+  {
+   "id": "MY-H541-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {
+    "en": "Part I"
+   },
+   "heading": {},
+   "text": {
+    "en": "2. Interpretation.\n\nPARIT II\nGENBRAL"
+   }
+  },
+  {
+   "id": "MY-H541-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "chapter": {
+    "en": "Part I"
+   },
+   "heading": {},
+   "text": {
+    "en": "3. Application of common (law and rules of equity."
+   }
+  },
+  {
+   "id": "MY-H541-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "chapter": {
+    "en": "Part I"
+   },
+   "heading": {},
+   "text": {
+    "en": "4. Administration of insolvent estates, and winding up\ncompanies,\n\nApplication of English law in commercial matters.\nImmoveable property."
+   }
+  },
+  {
+   "id": "MY-H541-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7"
+   },
+   "chapter": {
+    "en": "Part I"
+   },
+   "heading": {},
+   "text": {
+    "en": "7. Compensation to the family of a person for loss occasioned\nby his death."
+   }
+  },
+  {
+   "id": "MY-H541-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8"
+   },
+   "chapter": {
+    "en": "Part I"
+   },
+   "heading": {},
+   "text": {
+    "en": "8. Effect of death on certai"
+   }
+  },
+  {
+   "id": "MY-H541-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9"
+   },
+   "chapter": {
+    "en": "Part I"
+   },
+   "heading": {},
+   "text": {
+    "en": "9. Abolition of husband's | liability for wife's torts and\nante-nuptial contracts,|debts and obligations."
+   }
+  },
+  {
+   "id": "MY-H541-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10"
+   },
+   "chapter": {
+    "en": "Part I"
+   },
+   "heading": {},
+   "text": {
+    "en": "10. Proceedings against, and {contribution between, joint and\n\nseveral tort-feasors."
+   }
+  },
+  {
+   "id": "MY-H541-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11"
+   },
+   "chapter": {
+    "en": "Part I"
+   },
+   "heading": {},
+   "text": {
+    "en": "11. Power of Courts to award inferest on debts and damages.\n\n44             No. 5 oF /Ap56\nPART\nCONTRIBUTORY NEGLIGENCE AND COMMON\nEMPLOYME\nSection"
+   }
+  },
+  {
+   "id": "MY-H541-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12"
+   },
+   "chapter": {
+    "en": "Part I"
+   },
+   "heading": {},
+   "text": {
+    "en": "12. Apportionment of liability} in case of contributory\nnegligence."
+   }
+  },
+  {
+   "id": "MY-H541-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13"
+   },
+   "chapter": {
+    "en": "Part I"
+   },
+   "heading": {},
+   "text": {
+    "en": "13. Saving for Merchant Shipping Ordinance, 1952."
+   }
+  },
+  {
+   "id": "MY-H541-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14"
+   },
+   "chapter": {
+    "en": "Part I"
+   },
+   "heading": {},
+   "text": {
+    "en": "14. Common employment.\nPART VI\nFRUSTRATED CONTRACTS"
+   }
+  },
+  {
+   "id": "MY-H541-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15"
+   },
+   "chapter": {
+    "en": "PART VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "15. Adjustment of rights and liabjlities of parties to frustrated\ncontracts."
+   }
+  },
+  {
+   "id": "MY-H541-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16"
+   },
+   "chapter": {
+    "en": "PART VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "16. Provisions as to application pf section 15.\nParT VII\nPROVISIONS RELATING TO THE DISPOSAL AND\nDEVOLUTION OF RROPERTY"
+   }
+  },
+  {
+   "id": "MY-H541-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17"
+   },
+   "chapter": {
+    "en": "ParT VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "17. General restrictions on accumulation of income."
+   }
+  },
+  {
+   "id": "MY-H541-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18"
+   },
+   "chapter": {
+    "en": "ParT VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "18. Qualification of restrictions on accumulation."
+   }
+  },
+  {
+   "id": "MY-H541-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19"
+   },
+   "chapter": {
+    "en": "ParT VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "19. Restriction on accumulation for the purchase of land."
+   }
+  },
+  {
+   "id": "MY-H541-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20"
+   },
+   "chapter": {
+    "en": "ParT VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "20. Validation of appointments where cuca: are excluded\nor take illusory shares."
+   }
+  },
+  {
+   "id": "MY-H541-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21"
+   },
+   "chapter": {
+    "en": "ParT VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "21. Executor deemed to be trustee for person entitled to\nresidue on intestacy."
+   }
+  },
+  {
+   "id": "MY-H541-A22",
    "no": 22,
    "noLabel": {
-    "en": "Article 22"
+    "en": "Section 22"
    },
+   "chapter": {
+    "en": "ParT VII"
+   },
+   "heading": {},
    "text": {
-    "en": "(1) Where a person dies possessed of, or, entitled to, or under a general power of appointment by his will disposes of, an interest in property, which at the time of his death is charged with the payment of money, whether by way of mortgage, charge or otherwise (including a lien for unpaid purchase money), and the deceased has not by will, deed or other document signified a contrary or other intention, the interest so charged, shall as between the different persons claiming throug h the deceased, be primarily liable for the payment of the charge; and every part of the said interest, according to its value, shall bear a proportionate part of the charge on the whole thereof.\n(2)  Such contrary or other intention shall not be dee med to be signified—\n(a) by a general direction for the payment of debts or of all the debts of the testator out of his personal estate, or his residuary real and personal estate, or his residuary real estate; or\n(b) by a charge of debts upon any such estate, unless the intention is further signified by words expressly or by necessary implication referring to all or some part of the charge.\n(3)  Nothing in this section affects the right of a person entitled to the charge to obtain payment or satisfaction thereof either out of the other assets of the deceased or otherwise.\nMoneys payable under policy of assurance not to form part of the estate of the insured"
+    "en": "22. Charges on property of deceased to be paid primarily out\nof the property charged."
    }
   },
   {
-   "id": "MY-H039-A23",
+   "id": "MY-H541-A23",
    "no": 23,
    "noLabel": {
-    "en": "Article 23"
+    "en": "Section 23"
    },
+   "chapter": {
+    "en": "ParT VII"
+   },
+   "heading": {},
    "text": {
-    "en": "(1)  A policy of assurance effected by any man on his own life and expressed to be for the benefit of his wife or of his children or of his wife and children or any of them, or by any woman on her own life and expressed to be for the benefit of her husband or o f her children or of her husband and children or any of them, shall create a trust in favour of the objects therein named, and the moneys payable under any such policy shall not so long as any object of the trust remains Civil Law                                               31 unperformed form part of the estate of the insured or be subject to his or her debts.\n(2)  If it is proved that the policy was effected and the premiums paid with intent to defraud the creditors of the insured, they shall be entitled to receive out of the moneys payable under the polic y a sum equal to the premiums so paid.\n(3)  The insured may by the policy or by any memorandum under his or her hand appoint a trustee or trustees of the moneys payable under the policy, and from time to time appoint a new trustee or new trustees thereof, and may make provision for the appointment of a new trustee or new trustees thereof and for the investment of the moneys payable under any such policy.\n(4)  In default of any such appointment of a trustee the policy immediately on its being effected shall vest in the insured and his or her legal personal representatives in trust for the purposes aforesaid.\n(5) If at the time of the death of the insured or at any time afterwards there is no trustee, or it is expedient to appoint a new trustee or new trustees, a trustee or trustees or a new trustee or new trustees may be appointed by the High Court.\n(6) The receipt of a trustee or trustees duly appointed, or in default of any such appointment or in default of notice to the insurance office the receipt of the legal personal representative of the insured, shall be a discharge to the office for the sum secured by the policy or for the value thereof in whole or in part.\nBona vacantia"
+    "en": "23. Moneys payable under policy of assurance not to form\npart of the estate of the insured."
    }
   },
   {
-   "id": "MY-H039-A24",
+   "id": "MY-H541-A24",
    "no": 24,
    "noLabel": {
-    "en": "Article 24"
+    "en": "Section 24"
    },
-   "heading": {
-    "en": "When a right to the personal estate of any person who dies"
+   "chapter": {
+    "en": "ParT VII"
    },
+   "heading": {},
    "text": {
-    "en": "intestate without next of kin has accrued to the Government, the personal estate or the proceeds thereof shall form part of the Consolidated Fund and shall be appropriated as part of the Fund to 32                                       Laws of Malaysia                             Act 67 such public purposes as the Yang di-Pertuan Agong from time to time thinks proper and directs:\nProvided that the Yang di -Pertuan Agong may by warrant order the transfer of the whole or any part of such personal estate or the proceeds thereof to any person who shall establish to the satisfaction of the Yang di-Pertuan Agong any equitable or moral claim thereto.\nSaving"
+    "en": "24. Bona vacantia."
    }
   },
   {
-   "id": "MY-H039-A25",
+   "id": "MY-H541-A25",
    "no": 25,
    "noLabel": {
-    "en": "Article 25"
+    "en": "Section 25"
    },
+   "chapter": {
+    "en": "ParT VII"
+   },
+   "heading": {},
    "text": {
-    "en": "Nothing in this Part shall affect the disposal of any property according to Muslim law or, in Sabah and Sarawak, native law and custom.\nPART VIII\nMISCELLANEOUS\nAgreement by way of gaming or wagering to be null and void"
+    "en": "25. Saving.\nPart VII\nMISCELLANEOUS"
    }
   },
   {
-   "id": "MY-H039-A26",
+   "id": "MY-H541-A26",
    "no": 26,
    "noLabel": {
-    "en": "Article 26"
+    "en": "Section 26"
    },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
    "text": {
-    "en": "(1) All contracts or agreements, whether by parol or in writing, by way of gaming or wagering shall be null and void.\n(2) No action shall be brought or  maintained in any Court for recovering any sum of money or valuable thing alleged to be won upon any wager or which has been deposited in the hands of any person to abide the event on which any wager has been made.\n(3) Subsections (1) and (2) shall not be deemed to apply to any subscription or contribution, or agreement to subscribe or contribute, for or toward any plate, prize, or sum of money to be awarded to the winner of any lawful game, sport, pastime or exercise.\n(4) Any promise, express or implied, to pay any person any sum of money paid by him under or in respect of any contract or agreement rendered null and void by subsections (1) and (2), or to pay any sum of money by way of commission, fee, reward or otherwise in respect of any such co ntract or of any services in relation thereto or in connection therewith, shall be null and void, and no action shall be brought or maintained to recover any such sum of money.\nCivil Law                                               33 Infants"
+    "en": "26. Agreement by way of gaming or wagering to be null and\nvoid."
    }
   },
   {
-   "id": "MY-H039-A27",
+   "id": "MY-H541-A27",
    "no": 27,
    "noLabel": {
-    "en": "Article 27"
+    "en": "Section 27"
    },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
    "text": {
-    "en": "In all cases relating to the custody and control of infants the law to be administered shall be the same as would have been administered in like cases in England at the date of the coming into force of this Act, regard being had to the religion and customs of the parties concerned, unless other provision is or shall b e made by any written law.\nNo person chargeable with rent bona fide paid to holder under defective title"
+    "en": "27. Infants."
    }
   },
   {
-   "id": "MY-H039-A28",
+   "id": "MY-H541-A28",
    "no": 28,
    "noLabel": {
-    "en": "Article 28"
+    "en": "Section 28"
    },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
    "text": {
-    "en": "(1)  No person shall be chargeable with any rents or profits of any immovable property which he has bona fide paid over to any person of whom he bona fide held the same notwithstanding it afterwards appears that the person to whom the payment was made had no right to receive such rents or profits.\n(2)   If any person erects any building or makes an improvement upon any land held by him in the bona fide belief that he had an estate in fee simple or other absolute estate, and that person, his executor or assign, or his under -tenant is evicted from the land by any person having a better title, the person who erect ed the building or made the improvement, his executor or assign shall be entitled either to have the value of the building or improvement so erected or made while the land was held by him and in that belief estimated and paid or secured to him or at the option of the person causing the eviction to purchase the interest  of that person in the land at the value thereof but not taking into account the value of the building or improvement.\n(3)  The amount to be paid or secured in respect of the building or improvement shall be the estimated value of the same at the time of the eviction.\n(4)  (a) Every tenant holding over after the determination of his tenancy shall be chargeable, at the option of his landlord, with double the amount of his rent until possession is given up by him or with 34                                       Laws of Malaysia                             Act 67 double the value during the period of detention of the land or premises so detained, whether notice to that effect has been given or not.\n(b)  Paragraph (a) shall have effect in Sabah subject  to section 26 of the Rent Control (Business Premises) Enactment 1965 of Sabah [En. 1 of 1966 ] and in Sarawak subject to section 19 of the Rent Control Ordinance of Sarawak [Cap. 86].\n(5)  When any writ or summons issued by a landlord against a tenant for the recovery of immovable property is served on or comes to the knowledge of any subtenant of the plaintiff' immediate tenant, the subtenant being an occupier of the whole or any part of the premises sought to be recovered, he shall forthwith give notice thereof to his immediate landlord, under penalty of forfeiting three years’ rack rent of the premises held by the subtenant to the person of whom he holds, to be recovered by that person by action in any Court having jurisdiction.\nDamages in respect of personal injury 28A. (1)  In assessing damages recoverable in respect of personal injury which does not result in death, there shall not be taken into account—\n(a) any sum paid or payable in respect of the personal injury under any contract of assurance or insurance, whether made before or after the coming into force of this Act;\n(b) any pension or gratuity, which has been or will or may be paid as a result of the personal injury; or\n(c) any sum which has been or will or may be paid under any written law relating to the payment of any benefit or compensation whatsoever in respect of the personal injury.\n(2)  In assessing damages under this section—\n(a) no damages shall be recoverable in respect of any loss of expectation of life caused to the plaintiff by the injury;\nCivil Law                                               35\n(b) if the plaintiff’s expectation of life has been reduced by the injury, the Court, in assessing damages in respect of pain and suffering caused by the injury, shall take into account any suffering caused or likely to be caused by awareness that his expectation of life has been so reduced;\n(c) in awarding damages for loss of future earnings the Court shall take into account—\n(i) that in the case of a plaintiff who has attained the age of sixty years or above at the time when he was injured, no damages for such loss shall be awarded; and in any other case, damages for such loss shall not be awarded unless it is proved or admitted that the plaintiff  was receiving earnings by his own labour or other gainful activity before he was injured;\n(ii) only the amount relating to his earnings as aforesaid at the time when he was injured and the Court shall not take into account any prospect of th e earnings as aforesaid being increased at some time in the future;\n(iii) any diminution of any such amount as aforesaid by such sum as is proved or admitted to be the living expenses of the plaintiff at the time when he was injured;\n(d) in assessing damages for loss of future earnings the Court shall take into account that—\n(i) in the case of a person who was of the age of thirty years or below at the time when he was injured, the number of years’ purchase shall be 16; and 36                                       Laws of Malaysia                             Act 67\n(ii) in the case of any other person who was of the age range extending between thirty-one years and fifty-nine years at the time when he was injured, the number of years ’ purchase shall be calculated by using the figure 60, minus the age of the person at the time when he was injured and dividing the remainder by the figure 2.\nRepeal"
+    "en": "28. No person chargeable with rent bona fide paid to holder\nunder defective title."
    }
   },
   {
-   "id": "MY-H039-A29",
+   "id": "MY-H541-A29",
    "no": 29,
    "noLabel": {
-    "en": "Article 29"
+    "en": "Section 29"
    },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
    "text": {
-    "en": "The Ordinances and Enactments set out in the First Schedule to this Act are hereby repealed to the extent specified in the third column of that Schedule.\nFIRST SCHEDULE [Section 29] REPEAL S.S. Cap. 42    …         … Civil Law Ordinance         …      … The whole S.S. Cap. 118  …         … Conveyancing and Law of Property Ordinance\nS. 73\nF. M. S No. 3 of 1937 … Civil Law Enactment       …       … The whole\nF. M. S Cap. 8  …       …  Probate and Administration Enactment\nS. 93 (ii)\nF. M. S Cap. 19 …      … Executors (Powers) and Fatal Accident Enactment The whole Johore Enactment No.\n22 Probate and Administration Enactment\nS. 82 Johore Enactment No.\n99 Fatal Accidents Enactment         … The whole Civil Law                                               37 Kelantan Enactment No.\n15 of 1931 Executors (Powers ) and Fatal Accidents Enactment The whole Kedah Enactment No.  2 of 1360 Fatal Accident Enactment 1360  The whole Trengganu Enactment No. 22 of 1356 Probate and Administration Enactment\nS. 44 (ii)\nF. of  M. No. 49 of 1951 Civil Law (Extension) Ordinance 1949 The whole SECOND SCHEDULE [Subparagraph 3(3)(ii)] ACTS OF PARLIAMENT OF THE UNITED KINGDOM WHICH CONTINUE IN FORCE IN SARAWAK Short title Extent to which Act continues in force Modifications Swk. Vol. V1 page 1455 (8 and 9 Geo. 6 c. 28) Law Reform (Contributory Negligence) Act 1945 Subsection 1(7), sections 2, 3, 4 and 7 In sections 2 and 4, the references to the Workmen’s Compensation Acts 1925 to 1943 and to sections thereof shall be read as references to the Workmen’s Compensation Ordinance Cap.  80 of Sarawa k and to the corresponding sections thereof Swk. Vol .VI page 1459 (2 and 3 Eliz. 2 c. 34) Law Reform (Enforcement of The whole  None 38                                       Laws of Malaysia                             Act 67 Short title Extent to which Act continues in force Modifications Contracts) Act 1954 Swk. Vol.  VI page 1461 (12, 13 and 14 Geo. c. 100) Law Reform (Miscellaneous Provisions) Act 1949 Subsection 4(1), 7(1) and 2 None 6, Edw. 7 c. 41 Marine Insurance Act 1906 The whole except\nsection 91 None 21, Geo. 5 c. 2  Marine Insurance (Gambling Policies) Act 1909 The whole  In subsection 1(3) the reference to the consent in England of the Attorney General, in Scotland of the Lord Advocate, and in Ireland of the Attorney General for Ireland shall be construed as referring to the consent of the Public Prosecutor, Malaysia 39 LAWS OF MALAYSIA Act 67 CIVIL LAW ACT 1956 LIST OF AMENDMENTS Amending law Short title In force from Ord. 36/1957 Married Women Ordinance 1957 15-08-1957 L.N.332/1958 Federal Constitution (Modification of Laws) (Ordinances and Proclamations) Order 1958 13-11-1958 Act 30/1966 Civil Law (Amendment) Act 1966 14-04-1966 P.U. (A) 424/1971 Civil Law Ordinance (Extension) Order 1971 01-04-1972 P.U. (A) 16/1975 Revision of Laws (Civil Law Act) Order 1975 01-04-1972 Act A308 Civil Law (Amendment) Act 1975 30-05-1975 Act A602 Civil Law (Amendment) Act 1984 01-10-1984 Act A1591 Civil Law (Amendment) Act 2019 01-09-2019 40 LAWS OF MALAYSIA Act 67 CIVIL LAW ACT 1956 LIST OF SECTIONS AMENDED Section Amending authority In force from 2 Act A1591 01-09-2019 3 L.N. 332/1958 13-11-1958 5 L.N. 332/1958 13-11-1958 6 L.N. 332/1958 13-11-1958 7 Act 30/1966 14-04-1966 Act A308 30-05-1975 Act A602 01-10-1984 Act A1591 01-09-2019 8 Act A602 01-10-1984 9 Ord. 36/1957 15-08-1957 11 Act A1591 01-09-2019 12 Act A602 01-10-1984 16A Act 30/1966 14-04-1966 16B Act 30/1966 14-04-1966 16C Act 30/1966 14-04-1966 16D Act 30/1966 14-04-1966 16E Act 30/1966 14-04-1966 16F Act 30/1966 14-04-1966 Civil Law                                        41 Section Amending authority In force from 16G Act 30/1966 14-04-1966 23 P.U. (A) 16/1975 01-04-1972 24 L.N. 332/1958 13-11-1958 28A Act A308 30-05-1975 Act A602 01-10-1984 Act A1591 01-01-2019"
+    "en": "29. Repeal.\n\nSCHEDULE\n\n|                                x     45\nSUPERSEDED  By Ag /\nFEDERATION OF MALAYA\nNo. 5 OF! 1956\n\nTHE CIVIL LAW ORDINANCE, 1956\n\nTheir Highnesses the Rulers of the               I assent\n\nMalay States assent hereto\n\nPublic Seal\n\nRulers'                                                                           of the\n\nSeal\n\nFederation\n\nWitnesses to the affixing of the Rulers' Seal:\n\nT. ALAM SHAH,\n(IN JAWI)\n\nSultan of Selangor\n\nD. C. MacGILLIVRAY,\nHigh Commissioner\n\n3lst March, 1956\n\nISMAIL,\nSultan of Trengganu\n\n31st March, 1956\n\nOW, 32/56\n\nAn.     soleha,\n\nShort title.\n\nInterpreta-\ntion.\n\nApplication\nof common\nlaw and\nrules of\nequity.\n\nHf en. 332/88\n\nAn Ordinance to cons lidatd and  amend the law\nrelating to the Civil Law ‘to| be administered in the\nFederation of Malaya.\n\n(7th April, 1956.)\n\nIT IS HEREBY ENAGTED by the High\nCommissioner of the Federatidn of Malaya and Their\nHighnesses the Rulers of the|Malay States with the\nadvice and consent of the [Legislative Council as\nfollows:\n\nPART I\nINTRODUCTORY\n\n1. This Ordinance may be jcited as the Civil Law\nOrdinance, 1956.\n\n2. In this Ordinance unless the context otherwise\nrequires—\n\n\"Court\" means any court| of the Federation of\ncompetent jurisdiction, and includes any Judge thereof\nwhether sitting in court or in chambers;\n\n\"executor\" means the executor or administrator of a\ndeceased person, and includes, as regards any obliga-\ntion, any person who takes {possession of or inter-\nmeddles with the property of a\\deceased person;\n\n\"will\" includes a codicil.\n\n—\n\nPART I\nGENERAL\n\n3. (1) Save in so far as other provision has been\nmade or may hereafter be made by any written law in\nforce in the Federation or any part thereof, the Court\nshall apply the common law of England and the rules\nof equity as administered in England at the date of the\ncoming into force of this Ordinance:\n\nProvided always that the said common law and rules\nof equity shall be applied so |far only as the circum-\nstances of the States and-Setthements comprised in the\nFederation and their respective inhabitants permit and\nsubject to such qualifications as local circumstances\nrender necessary.\n\n(2) Subject to the express provisions of this Ordi-\nnance or any other written law in force in the\nFederation or any part thereof, in the event of conflict\nor variance between the common lgw and the rules of\nequity with reference to the samp\"matter, the rules of\nequity shall prevail.          L\n\nCIVIL LAW                47\n4. (1) In the Para by any Court of the\n\nassets of any deceased person, whose estate proves to\nbe insufficient for the payment in full of his debts and\nliabilities, and in the winding up of any company under\nany law from time to timp in force relating to\ncompanies, whose assets prove to be insufficient for\nthe payment of its debts and |liabilities, and the costs\nof winding up, the same rulgs shall prevail and be\nobserved, as to the respective rights of secured and\nunsecured creditors, and as |to debts and liabilities\nprovable, and as to the valuation of annuities and\nfuture and contingent liabiliti¢s respectively, as are in\nforce for the time being, under the law of bankruptcy,\nwith respect to the estates) of persons adjudged\nbankrupt.\n\n(2) All persons who, in any such case, would be\nentitled to prove for and receive dividends, out of the\nestate of any such deceased person, or out of the assets\nof any such company, may come in under the decree\nor order for the administration| of such estate, or under\nthe winding up of such company, and make such claims\nagainst the same as they may respectively be entitled\nto by virtue of this Ordinance.\n\n(3) Any absolute assignment, by writing, under the\nhand of the assignor, not purporting to be by way\nof charge only, of any debt pr other legal chose in\naction, of which express notice in writing has been\ngiven to the debtor, trustee or other person from whom\nthe assignor would have been entitled to receive or\nclaim such debt or chose in action, shall be, and be\ndeemed to have been, effectual in law, subject to all\nequities which would have beer} entitled to priority over\nthe right of the assignee under the law as it existed\nbefore the date of the coming|into force of this Ordi-\nnance, to pass and transfer the) legal right to such debt\nor chose in action, from the date of such notice, and all\nlegal and other remedies for the same, and the power to\ngive a good discharge for the same, without the con-\ncurrence of the assignor.\n\n5. (1) In all questions or issues which arise or which\nhave to be decided ing              with respect\nto the law of partnerships, cprporations, banks and\nbanking, principals and agents tarriers by air, land and\nsea, marine insurance, average) life and fire insurance,\nand with respect to mercantild law generally, the law\nto be ‘administered shall be   \"same as would be\n\nAdministra-\ntion of\ninsolvent\nestates, and\nwinding up\ncompanies,\n\nApplication\nof English\nlaw in\ncommercial\nmatters.\n\nPush, Pale, belampor \"awal Tas ggan\n\nPa Ye ERA\n\n48             No. 5 oF 1956\n\nadministered in England jfi the like case at the date\nof the coming into for¢e of this Ordinance, if such\nquestion or issue had arisen} or had to be decided in\nEngland, unless in any case other provision is or shall\nbe made by any written law.\n\n(2) In all questions or isstes which arise or which\n\nYL stelir 4 . have to be decided in the/Settlements with respect to\n\n. Ptalacee\n\n-\n\nQarel ft.\nLN. 322/88\n\nImmoveable\n\nproperty.\n\nCompensa-\n\ntion to the\nfamily of a\nperson for\nloss occa-\nsioned by\n\nis death.\n\nthe law concerning any of the matters referred to in the\nlast preceding sub-section, the law to be administered\nshall be the same as would be administered in England\nin the like case at the corrésponding period, if such\nquestion or issue had arisen} or had to be decided in\nEngland, unless in any case other provision is or shall\nbe made by any written law.\n\n6. Nothing in this Part shall be taken to introduce\ninto the Federation or any of the States\ncomprised therein any part| of the law of England\nrelating to the tenure or conveyance or assurance of\nor succession to any immoveable property or any estate,\nright or interest therein.\n\nPART HI\n\nFATAL ACCIDENTS AND $URVIVAL OF CAUSES\nOF ACTION\n\n7. (1) Whenever the death|of a person is caused by\nwrongful act, neglect, or default, and the act, neglect,\nor default, is such as would, if death had not ensued,\nhave entitled the party injured to maintain an action\nand recover damages in respdct thereof, the party who\nwould have been liable if death had not ensued shall\nbe liable to an action for damages, notwithstanding the\ndeath of the person injured, and although the death has\nbeen caused under such circumstances as amount in law\nto an offence under the Penal Code.\n\n(2) Every such action shall! be for the benefit of the\nwife, husband, parent, and child, if any, of the person\nwhose death has been so caused and shall be brought\nby and in the name of the executor of the person\ndeceased.\n\n(3) In every such action t\n\nry st           Court may give such\ndamages, as it thinks propor\n\nned to the loss resulting\n\nCIVIL LAW                              49\n\nfrom such death to the jfartjes respectively for whom\nand for whose benefitAuch faction is brought:\n\nProvided that—\n\n(i) in assessing such damages there shall not be\n\ntaken into account] any sum paid or payable\n\non the death of the deceased under any con-\n\n(ii) damages may be awarded in respect of the\nfuneral expenses of the deceased person if\nsuch expenses have been incurred by the\n\neli       parties for whose benefit the action is\n\\aws   iss    bro   it:\n\n(4) The amount ‘so recovered after deducting all\ncosts and expenses, including the costs not recovered\nfrom the defendant, shall be divided amongst the before-\nmentioned parties, or any of them in such shares as the\nCourt by its judgment or degree directs.\n\n(5) Not more than one action shall be brought for\nand in respect of the same subject matter of complaint,\nand every such action shall|be brought within three\nyears after the death of such| deceased person.\n\n- (6) In any such action the|executor of the deceased\nmay insert a claim for and recover any pecuniary loss\nto the estate of the deceased occasioned by such wrong-\nful act, neglect, or default, which sum when recovered\nshall be deemed part of the assets of the estate of the\ndeceased.\n\n(7) The plaint or writ or summons in any such action\nshall give full particulars of the person or persons for\nwhom or on whose behalf such action is brought, and\nof the nature of the claim in respect of which damages\nare sought to be recovered.\n\n(8) If there is no executor of the person deceased or\nthere being such executor no} action as in this section\nmentioned has, within six calendar months after the\ndeath of such deceased person, been brought by the\nexecutor, such action may be brought by all or any of\nthe persons, if more than one, for whose benefit such\naction would have been brought if it had been brought\nby the executor, and every action so to be brought shall\nbe for the benefit of the same person or persons and\nshall be subject to the same procedure as nearly as may\nbe as if it was brought by the/executor.\n\n(9) It shall be sufficient for' any defendant in any\naction, brought under this settion to pay any money,\n\nNevo Arak\n\nEffect of\ndeath on\ncertain\ncauses of\naction.\n\n50             No. 5 or 1956\n\nN\n\nhe is advised to pay into Court,aS a compensation, in\none sum to all persons entitled! under this section for\nhis wrongful act, neglect, Sr| default, without speci-\n\nfying the shares into which it Is to be divided.\n\n(10) If the said sum iS not accepted and an issue is\ntaken by the plaintiff a§ to its sufficiency and the Court\nthinks the same sufficient, the defendant shall be entitled\nto judgment upon that issue.\n\n(11) In this section unless} the context otherwise\nTOQUE ey.             |\n\n\"parent\" ‘includes father,\ngrand-mother;\n\n\"child\" includes son, daughter, grandson, grand-\ndaughter, stepson and stepdaughter:\n\nProvided that in deducing any relationship referred\nto in this sub-section any illegitimate person or any\nperson who has been adopted,| or whose adoption has\nbeen registered, in accordance with the provisions of\nany written law shall be treated as being or as having\nbeen the legitimate offspring off his mother and reputed\nfather or, as the case may be, of his adopters.\n\n8. (1) Subject to the provisions of this section, on\nthe death of any person all causes of action subsisting\nagainst or vested in him shall survive against, or, as the\ncase may be, for the benefit of, his estate:\n\nProvided that this sub-section shall not apply to\ncauses of action for defamation or seduction or for\ninducing one spouse to leave or remain apart from the\nother or to any claim for damages on the ground of\nadultery.\n\n(2) Where a cause of action survives as aforesaid for\nthe benefit of the estate of a deceased person, the\ndamages recoverable for the benefit of the estate of\nthat person—\n\n(a) shall not include any|exemplary damages;\n\n(b) in the case of a breach of promise to marry\nshall be limited to such damage, if any, to\nthe estate of that person as flows from the\nbreach of promise to marry;\n\n(c) where the death of that person has been caused\nby the act or omission which gives rise to the\ncause of action, shall be calculated without\nreference to any loss   gain to his estate\nconsequent on his degth, except that a sum\nin respect of, funéral expenses may be\nincluded. .\n\nther, grand-father and\n\nCIVIL LAW                 51\n\n(3) No proceedings shall bé| maintainable in respect\n\nof a cause of action in t6f€ which by virtue of this\n\nsection has survived against the estate of a deceased\n\nperson, unless proceedings against him in respect of that\ncause of action either—\n\n(a) were pending at the dhte of his death; or _\n\n(b) are taken not later than six months after his\n\npersonal representati|ve took out representa-\n\ntion.\n\n(4) Where damage has been suffered by reason of\nany act or omission in respect of which a cause of\naction would have subsisted against any person if that\nperson had not died before or|at the same time as the\ndamage was suffered, there shall be deemed, for the\npurposes of this section, to have been subsisting against\nhim before his death such cause of action in respect of\nthat act or omission as would |have subsisted if he had\ndied after the damage was suffered.\n\n(5) The rights conferred by this section for the\nbenefit of the estates of deceased persons shall be in\naddition to and not in derogation of any rights con-\nferred on the dependants     deceased persons by\n\nsection 7 of this Ordinance and so much of this section :\n\nas relates to causes of action against the estates of\ndeceased persons shall apply lin relation to causes of\naction under the said section las it applies in relation\nto other causes of action not lexpressly excepted from\nthe operation of sub-section (1) of this section.\n\n(6) In the event of the insolvency of an estate against\nwhich proceedings are maintainable by virtue of this\nsection, any liability in respect of the cause of action\nin respect of which the proceedings are maintainable\nshall be deemed to be a debt prpvable in the administra-\ntion of the estate, notwithstanding that it is a demand\nin the nature of unliquidated damages arising otherwise\nthan by a contract, promise or breach of trust.\n\n9. (1) Subject to the provi ions of this section the\nhusband of a married woman shall not, by reason only\nof his being her husband, be jlinble—~\n\n(a) in respect of any torf comafitted by her whether\nbefore or after thé marriage, or in respect of\nany contract entgred into, or debt or obliga-\ntion incurred, by her before the marriage; or\n\nfeefocabedl by 9. 36/77\n\nAbolition of\nhusband's\nliability for\nwife's torts\nand ante-\nnuptial\ncontracts,\ndebts and\nobligations.\n\n52             No. 5 oF 195\n\n(b) to be sued, or made\nceeding brought, inf respect of any such tort,\ncontract, debt, or obli         |\n\n(2) For the avoidance of doubt it is hereby declared\nthat nothing in this section—\n\n(a) renders the husband of a married woman liable\nin respect of any Contract entered into, or\ndebt or obligation/incurred, by her after the\nmarriage in Kapak of which he would not\nhave been liable Af thi$ section had not been\nenacted;\n\n(b) exempts the husband of a married woman from\n\nite.                   liability in respect. of} any contract entered\n\nw.\nom\n\ninto, or debt Or obligation (not being a debt\n\nSi                     or obligation/ arising ut of the commission\n\nof a tort) incurred, by|her after the marriage\nin respect 7 which he would have been liable\nif this section had noti been enacted;\n\n(c) prevents a husband and wife from acquiring,\n\na             holding, /and disposing of, any property\n\njointly gr as tenants|in common, or from\n\nif             rendering themselves} or being rendered,\n4                        jointly /liable in'respect of any tort, contract,\ndebt or obligation, and of suing and being\nsued /either in tort of in contract or other-\n\nwise/ in like manner] as if they were not\nmarried;\n\n(d) prevénts the exercise of/any joint power given\nto/a husband and wife.\n\n—_\n\nProceedings     10. (1) Where damage is suffered by any person as a\naeetnbution result of a tort (whether a crime|or not)—\n\neer     (a) judgment recovered against any tort-feasor\nseveral           liable in respect of that damage shall not\n\ncrac                 be a bar to an action against any other person\n\nma                  who would, if sued, |have been liable as a\n\njoint tort-feasor in |respect of the same\ndamage;\n(b) if more than one action is brought in respect\nof that damage by or on behalf of the person\nby whom it was suffered, or for the benefit\nof the estate, or of the wife, husband, parent\nor child, of that person, against tort-feasors\nliable in respect of the damage (whether as\njoint tort-feasors or} otherwise) the sums\nrecoverable under the judgments given in\n\nCIVIL LAW       '                        53\n\nthose actions by way/of.damages shall not in\nthe aggregate .exc¢ed the: amount of the\ndamages awarded by| the judgment first\ngiven; and in any of those actions, other than\nthat in which judgment is first given, the\nplaintiff shall not be entitled to costs unless\nthe court is of opinion that there was reason-\nable ground for bringing the action;\n\n(c) any tort-feasor liable in r¢spect of that damage\nmay recover contribution from any other\ntort-feasor who is, or|would if sued have\nbeen, liable in respect pf the same damage,\nwhether as a joint tort-feasor or otherwise,\nso, however, that no person shall be entitled\nto recover contribution under this section\nfrom any person entitled to be indemnified\nby him in respect of the liability in respect\nof which the contribution is sought.\n\n(2) In any proceedings for contribution under this\nsection the amount of the contribution recoverable\nfrom any person shall be such as may be found by the\nCourt to be just and equitable having regard to the\nextent of that person's responsibjlity for the damage;\nand the Court shall have power tp exempt any person\nfrom liability to make contributipn, or to direct that\nthe contribution to be recovered from any person shall\namount to a complete indemnit\n\n(3) For the purposes of this se¢tion—\n\n(a) the expressions \"parent\" and \"child\" have the\nsame meanings as they have for the purposes\nof section 7 of this Ordinance; and\n\n(b) the reference in this section to \"the judgment\nfirst given\" shall, in a dase where that judg-\nment is reversed on appeal, be construed as\na reference to the judgnjent first given which\nis not so reversed and} in a case where a\njudgment is varied on appeal, be construed\nas a reference to that judgment as so varied.\n\n(4) Nothing in this section shall—\n\n(a) affect any criminal proceedings against any\nperson in respect of any wrongful act; or\n\n(b) render enforceable any agreement for indem-\nnity which would not havg been enforceable\nif this section had not béen enacted.\n\nPower of\nCourts to\naward\ninterest on\ndebts and\ndamages.\n\nApportion-\nment of |\nliability in\ncase of\ncontributory\nnegligence.\n\n54            No. 5 oF 1956\n\n11. In any proceedings triék in any Court for the\nrecovery of any debt or danfages, the Court may, if it\nthinks fit, order that there shall be included in the sum\nfor which judgment is given interest at such rate as it\nthinks fit on the whole or any part of the debt or\ndamages for the whole or any part of the period\nbetween the date when the catise of action arose and\nthe date of the judgment:\n\nProvided that nothing in this section—\n\n(a) shall authorise the giving of interest upon\ninterest; or\n\n(b) shall apply in relation to any debt upon which\ninterest is payable as of right whether by\nvirtue of any agreement or otherwise; or\n\n(c) shall affect the damages recoverable for the\ndishonour of a bill df exchange.\n\nPart V\n\nCONTRIBUTORY NEGLIGENCE AND COMMON |\nEMPLOYMENT\n\n12. (1) Where any person suffers damage as the\nresult partly of his own fault and partly of the fault of\nany other person or persons, a|claim in respect of that\ndamage shall not be defeated hy reason of the fault of\nthe person suffering the damage, but the damages re-\ncoverable in respect thereof shall be reduced to such\nextent as the Court thinks just and equitable having\nregard to the claimant's share in the responsibility for\nthe damage:\n\nProvided that—\n\n(a) this sub-section shall not operate to defeat any\ndefence arising under a contract;\n\n(b) where any contract or written law providing\nfor the limitation of liability is applicable to\nthe claim the amount! of damages recoverable\nby the claimant by virtue of this sub-section\nshall not exceed the maximum limit so\napplicable.\n\n(2) Where damages are recoverable by any person\nby virtue of the foregoing sub-section subject to such\nreduction as is therein mentioned, the Court shall find\nand record the total damages which would have been\nrecoverable if the claimant had not begn at fault.\n\n(3) Section 10 of this Ordinance/shall apply in any\ncase where two or more: pers vey liable or? would,\n\nCIVIL LAW                              55\n\nif they had all been sd abl by virtue of sub-\nsection (1) of this section ih respect of the damage\nsuffered by any person.\n\n(4) Where any person dies\nown fault and partly of the\nor persons, and accordingly if an action were brought\nfor the benefit of the estate under section 8 of this\nOrdinance, the damages recoverable would be reduced\nunder sub-section (1) of this section, any damages\nrecoverable in an action brought for the benefit of the\ndependants of that person under section 7 of this Ordi-\nnance shall be reduced to a proportionate extent.\n\n(5) Where in any case to|which sub-section (1) of\nthis section applies, one of the persons at fault avoids\nliability to any other such |person or his personal\nrepresentative by pleading the Limitation Ordinance,\n1953, or any other written law limiting the time within\nwhich proceedings may be |taken, he shall not be\nentitled to recover any damages or contributions from\nthat other person or representhtive by virtue of the said\nsub-sectidn.\n\n(6) In this section \"fault\" means negligence, breach\nof statutory duty or other act or omission which gives\nrise to a liability in tort or| would, apart from this\nOrdinance, give rise to the |defence of contributory\nnegligence.\n\nas the result partly of his\nault of any other person\n\n13. (1) The last preceding section shall not apply to\nany claims to which section 513 of the Merchant\nShipping Ordinance, 1952, applies and that Ordinance\nshall have effect as if this Ordinance had not been\npassed.\n\n(2) The said section shall not apply to any case where\nthe acts or omissions giving rise to the claim occurred\nbefore the passing of this Ordinance.\n\n14. (1) It shall not be a defence to an employer who\nis sued in respect of personal injuries caused by the\nnegligence of a person emplpyed by him, that that\nperson was at the time the [injuries were caused in\ncommon employment with the] person injured.\n\n(2) Any provision contained in a contract of service\nor apprenticeship, or in an agreement collateral thereto\n(including a contract or agreement entered into before\nthe coming into force of this Ordinance) shall be void\nin so far as it would have the/effect of excluding or\n\nNo. 4 of\n\nSaving for\n\nMerchant\n\nShipping\n\nOrdinance,\n\n~\nNe)\n\nNo. 70 of\n\nCommon\nemployment.\n\nAdjustment\nof rights and\nliabilities of\nparties to\nfrustrated\ncontracts.\n\n56             No. 5 oF 1956\n\nlimiting any liability of the ¢mployer in respect of\npersonal injuries caused to he person employed or\napprenticed by the negligence of persons in common\nemployment with him.\n\n(3) For the purpose of this ae \"personal injury\"\nincludes any disease and any impairment of a person's\nphysical or mental condition} and the expression\n\"injured\" shall be construed accordingly.\n\nPart VI\nFRUSTRATED CONTRACTS\n\n15. (1) Where a contract has become impossible of\nperformance or been otherwise frustrated, and the\nparties thereto have for that reason been discharged\nfrom the further performance of the contract, the\nfollowing provisions of this section shall, subject to the\nprovisions of the next succeeding section, have effect\nin relation thereto.                          '\n\n(2) All sums paid or payable to any party in pur-\nsuance of the contract before the time when the parties\nwere so discharged (in this Ordinance referred to as\n\"the time of discharge\") shall, in the case of sums so\npaid, be recoverable from him! as money received by\nhim for the use of the party by whom the sums were\npaid, and, in the case of sums so payable, cease to\nbe so payable:\n\nProvided that, if the party to whom the sums were\nso paid or payable incurred expenses before the time\nof discharge in, or for the purpose of, the performance\nof the contract, the court may, if it considers it just\nto do so having regard to all the circumstances of the\ncase, allow him to retain or, as the case may be, recover\nthe whole or any part of the sums so paid or payable,\nnot being an amount in excess of the expenses so\nincurred.\n\n(3) Where any party to the contract has, by reason\nof anything done by any other|party thereto in, or for\nthe purpose of, the performance of the contract,\nobtained a valuable benefit (other than a payment of\nmoney to which the last foregding sub-section applies)\nbefore the time of discharge, there shall be recoverable\nfrom him by the said other party such sum (if any),\nnot exceeding the value of theGaid benefit to the party\n\nobtaining it, as the court co\nto all the circumstances of      ase and, in particular—\n\n(a) the amount of any expenses incurred before\nthe time of discharge by the benefited party\nin, or for the purppse of, the performance\nof the contract, including any sums paid or\npayable by him to any other party in pur-\nsuance. of the contract and retained or\nrecoverable by that party under the last\nforegoing sub-section; and\n\n(b) the effect, in relation to the said benefit, of the\ncircumstances giving rise to the frustration\nof the contract.\n\nders just, having regard\n\n(4) In estimating, for the purposes of the foregoing\nprovisions of this section, the amount of any expenses\nincurred by any party to the fontract, the court may,\nwithout prejudice to the generality of the said provi-\nsions, include such sum as appears to be reasonable\nin respect of overhead expenses and in respect of any\nwork or services performed |personally by the said\nparty.\n\n(5) In considering whether} any sum ought to be\nrecovered or retained under the foregoing provisions of\nthis section by any party to] the contract the court\nshall not take into account any sums which have, by\nreason of the circumstances giving rise to the frustra-\ntion of the contract, become payable to that party under\nany contract of insurance unless there was an obliga-\ntion to insure imposed by an express term of the\nfrustrated contract or by or under any enactment.\n\n(6) Where any person hds assumed obligations\nunder the contract in consideration of the conferring\nof a benefit by any other party to the contract upon\nany other person, whether a party to the contract or\nnot, the court may, if in all the circumstances of the\ncase it considers it just to do sp, treat for the purposes\nof sub-section (3) of this section any benefit so con-\nferred as a benefit obtained by the person who has\nassumed the obligations as aforesaid.\n\n16. (1) The last preceding | section shall apply to\ncontracts, whether made befare or after. the coming\ninto force of this Ordinance, as respects which the time\nof discharge is on or after the Ist January, 1955, but not\nto contracts as respects which fhe time of discharge is\nbefore the said date.\n\nProvisions\nas to appli\ncation of\n\nsection 15.\n\nYew\n\n58             No. 5 oF 19 eo\n\n(2) The said section shalY apply to contracts to\nwhich the Government or the Crown is a party in like\nmanner as to contracts between subjects.\n\n(3) Where any contract to Which the said section\napplies contains any provision} which, upon the true\nconstruction of the contract, is|intended to have effect\nin the event of circumstances arising which operate, or\nwould but for the said provision operate, to frustrate\nthe contract, or is intended {o have effect whether\nsuch circumstances arise or not, the court shall give\neffect to the said provision and shall only give effect\nto the said section to such extent, if any, as appears\nto the court to be consistent with the said provision.\n\n(4) Where it appears to the court that a part of\nany contract to which the sdid section applies can\nproperly be severed from the remainder of the contract,\nbeing a part wholly performed] before the time of dis-\ncharge, or so performed except for the payment in\nrespect of that part of the contract of sums which are\nor can be ascertained under the contract, the court\nshall treat that part of the contract as if it were a\nseparate contract and had not been frustrated and shall\ntreat the said section as only applicable to the\nremainder of that contract.\n\n(5) The said section shall nat apply—\n\n(a) to any charterparty, except a time charter-\nparty or a charterparty by way of demise, or\nto any contract (other than a charterparty)\nor the corresponding provisions of any\nwritten law for the carriage of goods by sea;\nor\n\n(5) to any contract of insurance, save as is\nprovided by sub-section (5) of the said\nsection; or\n\n(c) to any contract to which section 7 of the\nSale of Goods Act, 1893 (which avoids\ncontracts for the sale of specific goods\nwhich perish before} the risk has passed to\nthe buyer) or the corresponding provisions\nof any written law applies/or to any other\ncontract for the sale, or for the sale and\ndelivery, of specific goods, where the contract\nis frustrated by rea    of the fact that the\ngoods have perishey\n\ntse] > PART vif.\n\nA                        59\n\nPROVISIONS RELATING TO THE DISPOSAL AND\nDEVOLUTION GF PROPERTY\n\n17. (1) No person may by any instrument or other-\nwise settle or dispose of any property in such manner\nthat the income thereof shall, save as hereinafter\nmentioned, be wholly or partially accumulated for any\nlonger period than one of the following, namely:\n\n(a) the life of the grantpr or settlor; or\n\n(b) a term of twenty-one years from the death of\nthe grantor, or settlor; or\n\n(c) the duration of the minority or respective\nminorities of any person or persons living or\nen ventre sa mere at the death of the grantor\nor settlor; or\n\n(d) the duration of the minority or respective\nminorities only of any person or persons who\nunder the limitations of the instrument\ndirecting the accumulations would, for the\ntime being, if of full age, be entitled to the\nincome directed to} be accumulated.\n\nIn every case where any|accumulation is directed\notherwise than as aforesaid, the direction shall (save as\nhereinafter mentioned) be yoid; and the income of\nthe property directed to be accumulated shall, so long\nas the same is directed to bg accumulated contrary to\nthis section, go to and be received by the person or\npersons who would have been entitled thereto if such\naccumulation had not been di\n\n(2) This section .does not extend to any provision—\n\n(a) for payment of the debts of any grantor, settlor\nor other person;\n\n(b) for raising portions for:\n\n(i) any child, children or remoter issue of\nany grantor or settlor; or\n\n(ii) any child, children or remoter issue of a\nperson taking any interest under any\nsettlement or] other disposition direct-\ning the accumulations or to whom any\ninterest is thereby limited,\n\nand accordingly such provisigns may be made as if no\nstatutory restrictions on acc mulation of income had\nbeen imposed.\n\nGeneral\nrestrictions\non accumu-\nlation of\nincome.\n\nQualifica-\ntion of\nrestrictions\non accumu-\nlation.\n\nRestriction\non accumu-\nlation for\nthe purchase\nof Jand.\n\nValidation\nof appoint-\nments where\nobjects are\nexcluded or\ntake illusory\nshares.\n\nExecutor\n\ndeemed to\nbe trustee\nfor person\nentitled to\nresidue on\nintestacy.\n\n60                        No. 5 OF\n\n18. Where accumulations lof surplus income are\nmade during a minority wndef any statutory power or\nunder the general law, te period for which such accu-\nmulations are made is not |(whether the trust was\ncreated or the accumulations were made before or after\nthe coming into force of this! Ordinance) to be taken\ninto account in determining] the periods for which\naccumulations are permitted |to be made by the last\npreceding section, and accordingly an express trust for\naccumulation for any other permitted period shall not\nbe deemed to have been invalidated or become invalid,\nby reason of accumulations also having been made as\naforesaid during such minority.\n\n19. No person may settle of dispose of any property\nin such manner that the inconje thereof shall be wholly\nor partially accumulated for the purchase of land only\nfor any longer period than the duration of the minority\nor respective minorities of any person or persons who,\nunder the limitations of the |instrument directing the\naccumulation, would for the time being, if he had\nattained his majority, be entitled to the income so\ndirected to be accumulated.\n\n20. (1) No appointment made in exercise of any\npower to appoint any property among two or more\nobjects shall be invalid on the ground that—\n\n(a) an unsubstantial, illusory, or nominal share\nonly is appointed to or left unappointed to\ndevolve upon any one or more of the objects\nof the power; or\n\n(b) any object of the power is thereby altogether\nexcluded,\n\nbut every such appointment! shall be valid notwith-\nstanding that any one or more of the objects is not\nthereby, or in default of appointment, to take any share\nin the property.\n\n(2) This section shall not affect any provision in the\ninstrument creating the power which declares the\namount of any share from Which any object of the\npower is not to be excluded.\n\n(3) This section shall apply to appointments made\nbefore or after the coming into force of this Ordinance.\n\n21. When any person dies or has died, having by his\nwill, appointed any person to be his executor, such\nexecutor shall be deemed to be a ffustee for the person,\nif any, who would be entitle     the estate in case the\nperson died intestate in respect of any residue not\nexpressly disposed of, unless it appears by the Will that\n\nCIVIL LAW                              61\n\nthe person so appointed executay/was intended to take\nsuch residue beneficially.\n\n22. (1) Where a person dies|possessed of, or entitled Charges on\nto, or, under a general power of appointment by his property of\nwill disposes of, an interest in property, which at the bepaid\ntime of his death is charged with the payment of money, but of the\nwhether by way of mortgage, charge or otherwise Propert\n(including a lien for unpaid purchase money), and the    sa\ndeceased has not by will deed br other document signi-\nfied a contrary or other intention, the interest so\ncharged, shall as between the| different persons claim-\ning through the deceased, be|primarily liable for the\npayment of the charge; and levery part of the said\ninterest, according to its value, shall bear a proportion-\n\nate part of the charge on the whole thereof.\n\n(2) Such contrary or other| intention shall not be\ndeemed to be signified—\n(a) by a general direction for the payment of debts\n\nor of all the debts df the testator out of his\n\npersonal estate, or|his residuary real and\n\npersonal estate, or his residuary real estate;\n\nor\n\n(b) by a charge of debts upon any such estate, un-\nless such intention] is further signified by\nwords expressly or by necessary implication\nreferring to all or some part of the charge.\n\n(3) Nothing in this section affects the right of a\nperson entitled to the charge to obtain payment or\nsatisfaction thereof either out of the other assets of the\ndeceased or otherwise.\n\n23. (1) A policy of assurante effected by any man Moneys\non his own life and expressed| to be for the benefit of Payabie\nhis wife or of his children or pf his wife and children of assurance ®\nor any of them, or by any woman on her own life and pakan Fhe\nexpressed to be for the benefit pf her husband or of her state of\nchildren or of her husband and|children or any of them, '* sured.\nshall create a trust in favour of the objects therein\nnamed, and the moneys payable under any such policy\nshall not so long as any object of the trust remains\nunperformed form part of the/ estate of the insured or\n\nbe subject to his or her debts.\n\n(2) If it is proved that the |policy was effected and\nthe premiums paid with intent|to defraud the creditors\nof the insured, they shall be entitled to receive out of :\nthe moneys payable under the folicy a sum equal to\nthe premiums so paid.\n\nBona\nvacantia.\n\na i\n\nAgong\nan.\n\n¢\n\non A\nin. 322[S8\nSaving.\n\nAgreement\nby way of\ngaming or\nwagering to\nbe null\n\nand void.\n\n62             No. 5 oF 1956\n\n(3) The insured may by Nas or by any memo-\nrandum under his or her hard appoint a trustee or\ntrustees of the moneys payable under the policy, and\nfrom time to time appoint a new trustee or new trustees\nthereof, and may make provision for the appointment\nof a new trustee or new trustees thereof and for the\ninvestment of the moneys payable under any such\npolicy.\n\n(4) In default of any such appointment of a trustee\nsuch policy immediately on its|being effected shall vest\nin the insured and his or her ldgal personal representa-\ntives in trust for the purposes jaforesaid.\n\n(5) If at the time of the death of the insured or at\nany time afterwards there is no {trustee, or it is expedient\nto appoint a new trustee or new trustees, a trustee or\ntrustees or a new trustee of new trustees may be\nappointed by the High Court.\n\n(6) The receipt of a trustee on trustees duly appointed,\nor in default of any such appojntment or in default of\nnotice to the insurance office the receipt of the legal\npersonal representative of the jinsured, shall be a dis-\ncharge to the office for the sum secured by the policy\nor for the value thereof in whole or in part.\n\n24. When a right ‘o the personal estate of any person\nwho dies intestate without next of kin has accrued to\nthe Government of the Federation, such personal estate\nor the proceeds thereof shall form part of the general\nrevenue of the Federation and shall be appropriated as\n\nart of such revenue to such|public purposes as the\nHigh Combaissionerin Connell rom time to time thinks\nproper and directs:\n\nProvided that the/High-Commissionerin-Council may\nby warrant order the transfer df the whole or any part\nof such personal estate or the proceeds thereof to any\nperson or persons who shall establish to the satisfaction\n\n/ of the High-Commissioner-in-Coune any equitable or\n\nmoral claim thereto.\n\n25. Nothing in this Part shall affect the disposal of\nany property according to Muslim law.\n\nPart VII\nMISCELLANEOUS\n26. (1) All contracts or agreements, whether by\nparol or in writing, by way of gaming'or wagering shall\nbe null and void.\n(2) No action shall be broughYor maintained in the\nCourt for recovering any suny of money or valuable\n\nCIVIL JAW                                63\n\nthing alleged to be won tfpon any wager or which has\nbeen deposited in the hands of any person to abide the\nevent on which any wager has been made.\n\n(3) Sub-sections (1) and (2) of this section shall not\nbe deemed to apply to any subscription or contribution,\nor agreement to subscribe or|contribute, for or toward\nany plate, prize, or sum of money to be awarded to the\nwinner or winners of any lawful game, sport, pastime\nor exercise.\n\n(4) Any promise, express jor implied, to pay any\nperson any sum of money paid by him under or in\nrespect of any contract or agreement rendered null and\nvoid by sub-sections (1) and|(2) of this section, or to\npay any sum of money by |way of commission, fee,\nreward or otherwise in respect of any such contract or\nof any services in relation thereto or in connection\ntherewith, shall be null and yoid, and no action shall\nbe brought or maintained to recover any such sum of\nmoney.\n\n27. In all cases relating to the custody and control\nof infants the law to be administered shall be the same\nas would have been administered in like cases in\nEngland at the date of the coming into force of this\nOrdinance, regard being had ta the religion and customs\nof the parties concerned, unless other provision is or\nshall be made by any written. Jaw.\n\n28. (1) No person shall be chargeable with any rents\nor profits of any immoveable| property which he has\nbona fide paid over to any person of whom he bona fide\nheld the same notwithstanding it afterwards appears\nthat the person to whom such|payment was made had\nno right to receive such rents or profits.\n\n(2) If any person erects any building or makes an\nimprovement upon any lands Held by him bona fide in\nthe belief that he had an estate in fee simple or other\nabsolute estate, and such person, his executor or assign,\nor his under-tenant is evicted from such lands by any\nperson having a better title, the person who erected the\nbuilding or made the improvement, his executor or\nassign shall be entitled either to have the value of the\nbuilding or improvement so erected or made during\nsuch holding and in such belief estimated and paid or\nsecured to him or at the option of the person causing\nthe eviction to purchase the interest' of such person in\nthe lands at the value thereof irrespective of the value\nof such building. or improvemen¢.\n\nInfants.\n\nNo person\nchargeable\nwith rent\nbona fide\npaid to\nholder\nunder\ndefective\ntitle.\n\nRepeal.\n\n64             No. 5 oF 1956\"\nx\n\n(3) The amount to be pajd'lor secured in respect of\nsuch building or improverhent shall be the estimated\nvalue of the same at the time of such eviction.\n\n(4) Every tenant holdihg over after the determina-\ntion of his tenancy shall be chargeable, at the option\nof his landlord, with double |the amount of his rent\nuntil possession is given up by him or with double\nthe value during the period of detention of the land\nor premises so detained, whether notice to that effect\nhas been given or not.\n\n(5) When any writ or summons issued by a landlord\nagainst a tenant for the recovery of immoveable pro-\nperty is served on or comes to the knowledge of any\nsub-tenant of the plaintiff's immediate tenant, such sub-\ntenant being an occupier of the whole or any part of\nthe premises sought to be recavered, he shall forthwith\ngive notice thereof to his immediate landlord, under\npenalty of forfeiting three years' rack rent of the\npremises held by such sub-tenant to the person of\nwhom he holds, to be recovered by such person by\naction in any Court having jurisdiction.\n\n29. The Ordinances and Enactments set out in the\nSchedule to this Ordinance are hereby repealed to the\nextent specified in the third cblumn of such Schedule.\n\nSCHEDUIJE\nS.S. Cap. 42                 Civil LawjOrdinance ... ... The whole\nS.S. Cap. 118            Conveyanging and Law of S, 73\nProperty Ordinance\nF.M.S. No. 3 of 1937       Civil Law| Enactment...    ... The whole\nF.M.S. Cap. 8   st.       Probate and Administration S. 93 (ii)\nEnactmgnt\nF.M.S. Cap. 19           Executors|(Powers) and Fatal The whole\nAccidents Enactment\nJohore Enactment No. 22... Probate and Administration S.82\nEnactmgnt\nJohore Enactment No. 99... Fatal Accfdents Enactment ... The whole\nKelantan Enactment No. 15 Executors|(Powers) and Fatal     -\nof 1931                    Accidents Enactment\nKedah Enactment No. 2 of | Fatal Adqcidents Enactment,\n1360                      1360\nTrengganu Enactment No. Probate        inistration S. 44 (ii)\n22 of 1356                 Enactmgnt\nF. of M. No. 49 of 1951... Civil Law (fKtension) Ordi- The whole"
    }
   }
- ]
+ ],
+ "replacedAt": "2026-10-28",
+ "replaceNote": "2026-10-28 以新版扫描件 OCR 全文替换：条数 8 → 27"
 }

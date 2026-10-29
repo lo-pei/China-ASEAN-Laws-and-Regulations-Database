@@ -1,0 +1,1190 @@
+{
+ "id": "ID-H425",
+ "title": {
+  "zh": "最高法院法",
+  "en": "Law on the Supreme Court",
+  "id": "MAHKAMAH AGUNG",
+  "orig": "MAHKAMAH AGUNG",
+  "vi": "Luật về Tòa án Tối cao",
+  "th": "พระราชบัญญัติว่าด้วยศาลฎีกา",
+  "ms": "Akta tentang Mahkamah Agung"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02c",
+ "language": "id",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "1985",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU14-1985",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 82,
+ "chars": 56208,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": null
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\01_宪法与基础法\\印尼_WLD_1985_MAHKAMAH AGUNG.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 82 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H425-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\nMahkamah Agung adalah Lembaga Tinggi Negara sebagaimana dimaksudkan\ndalam Ketetapan Majelis\nPermusyawaratan Rakyat Republik Indonesia Nomor\nIII/MPR/1978."
+   }
+  },
+  {
+   "id": "ID-H425-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB I / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\nMahkamah Agung adalah Pengadilan Negara Tertinggi dari semua Lingkungan\nPeradilan,\nyang dalam melaksanakan tugasnya terlepas dari pengaruh\npemerintah dan pengaruh-pengaruh lain.\nBagian Kedua\nTempat Kedudukan"
+   }
+  },
+  {
+   "id": "ID-H425-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB I / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\nMahkamah Agung berkedudukan di ibukota Negara Republik Indonesia.\nBAB II\nSUSUNAN MAHKAMAH AGUNG\nBagian Pertama\nUmum"
+   }
+  },
+  {
+   "id": "ID-H425-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\nSusunan Mahkamah Agung terdiri dari Pimpinan, Hakim Anggota, Panitera, dan\nSekretaris Jenderal\nMahkamah Agung."
+   }
+  },
+  {
+   "id": "ID-H425-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\n(1) Pimpinan Mahkamah Agung terdiri dari seorang Ketua, seorang Wakil Ketua,\ndan beberapa\norang Ketua Muda.\n(2) Hakim Anggota Mahkamah Agung adalah Hakim Agung.\nBagian Kedua\nKetua, Wakil Ketua, Ketua Muda,\ndan Hakim\nAnggota Mahkamah Agung"
+   }
+  },
+  {
+   "id": "ID-H425-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\n(1) Ketua, Wakil Ketua, Ketua Muda, dan Hakim Anggota Mahkamah Agung\nadalah pejabat\nnegara yang melaksanakan tugas Kekuasaan Kehakiman.\n(2) Syarat, dan tata cara pengangkatan dan pemberhentian\nmereka yang\ntersebut ayat (1) ditetapkan dalam Undang-undang ini."
+   }
+  },
+  {
+   "id": "ID-H425-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\n(1) Untuk dapat diangkat menjadi Hakim Agung seorang calon harus memenuhi\nsyarat-syarat\nsebagai berikut :\na. warganegara Indonesia;\nb. bertaqwa kepada Tuhan Yang Maha Esa;\nc. setia kepada Pancasila sebagai pandangan hidup bangsa, dasar negara,\ndan\nideologi nasional, kepada Proklamasi 17 Agustus 1945, Undang-\nUndang Dasar 1945 serta kepada revolusi\nkemerdekaan bangsa\nIndonesia untuk mengemban amanat penderitaan rakyat;\nd. bukan bekas anggota organisasi terlarang Partai Komunis Indonesia,\ntermasuk\norganisasi massanya atau bukan seseorang yang terlibat\nlangsung ataupun tak langsung dalam \"Gerakan Kontra\nRevolusi\nG.30.S/PKI\" atau organisasi terlarang lainnya;\ne. berijazah sarjana hukum atau sarjana lain dan mempunyai keahlian di\nbidang\nhukum;\nf. berumur serendah-rendahnya 50 (lima puluh) tahun;\ng. berpengalaman sekurang-kurangnya 5 (lima) tahun sebagai Ketua\nPengadilan\nTingkat Banding atau 10 (sepuluh) tahun sebagai Hakim\nTingkat Banding;\nh. berwibawa, jujur, adil, dan berkelakuan tidak tercela.\n(2) Dalam hal-hal tertentu dapat\ndibuka kemungkinan untuk mengangkat Hakim\nAgung yang tidak didasarkan atas sistem karier dengan syarat bahwa\nyang\nbersangkutan berpengalaman sekurang-kurangnya 15 (lima belas) tahun di\nbidang\nhukum."
+   }
+  },
+  {
+   "id": "ID-H425-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n(1) Hakim Agung diangkat oleh Presiden selaku Kepala Negara dari daftar nama\ncalon yang\ndiusulkan oleh Dewan Perwakilan Rakyat.\n(2) Daftar nama calon sebagaimana dimaksudkan dalam ayat (1) diajukan\noleh\nDewan Perwakilan Rakyat kepada Presiden selaku Kepala Negara setelah\nDewan\nPerwakilan Rakyat mendengar pendapat Mahkamah Agung dan\nPemerintah.\n(3) Ketua dan Wakil\nKetua Mahkamah Agung diangkat oleh Presiden selaku\nKepala Negara di antara Hakim Agung yang diusulkan oleh\nDewan\nPerwakilan rakyat.\n(4) Ketua Muda Mahkamah Agung diangkat oleh Presiden selaku\nKepala\nNegara diantara Hakim Agung yang diusulkan oleh Ketua Mahkamah Agung.\n(5) Untuk\nmengisi lowongan jabatan Ketua, Wakil Ketua, Ketua Muda, dan\nHakim Anggota Mahkamah Agung, diusulkan masing-masing\n2 (dua) orang\ncalon."
+   }
+  },
+  {
+   "id": "ID-H425-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n(1) Sebelum memangku jabatannya Ketua, Wakil Ketua, Ketua Muda, dan\nHakim Anggota Mahkamah\nAgung wajib mengucapkan sumpah atau janji\nmenurut Agama atau Kepercayaannya yang berbunyi sebagai berikut\n:\n\"Saya bersumpah/berjanji dengan sungguh-sungguh bahwa saya, untuk\nmemperoleh\njabatan saya ini, langsung atau tidak langsung, dengan\nmenggunakan nama atau cara apapun juga, tiada memberikan\natau\nmenjanjikan barang sesuatu kepada siapapun juga\".\n\"Saya bersumpah/berjanji\nbahwa saya, untuk melakukan atau tidak\nmelakukan sesuatu dalam jabatan ini, tiada sekali-kali akan menerima\nlangsung atau tidak langsung dari siapa pun juga suatu janji atau\npemberian\".\n\"Saya bersumpah/berjanji bahwa saya akan setia kepada dan akan\nmempertahankan serta\nmengamalkan Pancasila sebagai dasar dan ideologi\nnegara, Undang-Undang Dasar 1945, dan segala Undang-undang\nserta\nperaturan-peraturan lain yang berlaku bagi negara Republik Indonesia\".\n\"Saya\nbersumpah/berjanji bahwa saya senantiasa akan menjalankan jabatan\nsaya ini dengan jujur, seksama dan dengan\ntidak membeda-bedakan orang\ndan akan berlaku dalam melaksanakan kewajiban saya sebaik-baiknya dan\nseadil-adilnya seperti layaknya bagi seorang Ketua, Wakil Ketua, Ketua\nMuda, Hakim Anggota\nMahkamah Agung. yang berbudi baik dan jujur dalam\nmenegakkan hukum dan keadilan\".\n(2) Ketua, Wakil Ketua, dan Ketua Muda Mahkamah Agung mengucapkan\nsumpah atau janji dihadapan Presiden\nselaku Kepala Negara.\n(3) Hakim Anggota Mahkamah Agung diambil sumpah atau janjinya oleh Ketua\nMahkamah Agung."
+   }
+  },
+  {
+   "id": "ID-H425-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\n(1) Hakim Agung tidak boleh merangkap menjadi :\na. pelaksana putusan Mahkamah Agung;\nb. wali, pengampu, dan pejabat yang berkaitan dengan suatu perkara yang\nakan atau\nsedang diperiksa olehnya;\nc. penasihat hukum;\nd. pengusaha.\n(2) Kecuali larangan perangkapan jabatan lain yang telah diatur dalam Undang-\nundang, maka jabatan yang tidak boleh dirangkap oleh Hakim Agung selain\njabatan\ntersebut ayat (1) diatur lebih lanjut dengan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H425-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\n(1) Ketua, Wakil Ketua, Ketua Muda, dan Hakim Anggota Mahkamah Agung\ndiberhentikan dengan\nhormat dari jabatannya oleh Presiden selaku Kepala\nNegara atas usul Mahkamah Agung karena :\na. permintaan sendiri;\nb. sakit jasmani atau rohani terus-menerus;\nc. telah berumur 65 (enam puluh lima) tahun;\nd. ternyata tidak cakap dalam menjalankan tugas.\n(2) Ketua, Wakil Ketua, Ketua Muda, dan\nHakim Anggota Mahkamah Agung\nyang meninggal dunia dengan sendirinya diberhentikan dengan hormat dari\njabatannya oleh Presiden selaku Kepala Negara."
+   }
+  },
+  {
+   "id": "ID-H425-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n(1) Ketua, Wakil Ketua, Ketua Muda, dan Hakim Anggota Mahkamah Agung\ndiberhentikan tidak\ndengan hormat dari jabatannya oleh Presiden selaku\nKepala Negara atas usul Mahkamah Agung dengan alasan\n:\na. dipidana karena bersalah melakukan tindak pidana kejahatan;\nb. melakukan perbuatan tercela;\nc. terus-menerus melalaikan kewajiban dalam menjalankan tugas\npekerjaannya;\nd. melanggar sumpah atau janji jabatan;\ne. melanggar larangan yang dimaksud dalam Pasal 10.\n(2) Pengusulan pemberhentian tidak\ndengan hormat dengan alasan tersebut\ndalam ayat (1) huruf b sampai dengan huruf e dilakukan setelah yang\nbersangkutan diberi kesempatan secukupnya untuk membela diri dihadapan\nMajelis\nKehormatan Mahkamah Agung.\n(3) Pembentukan, susunan, dan tata kerja Majelis Kehormatan Mahkamah.\nAgung diatur oleh Mahkamah Agung."
+   }
+  },
+  {
+   "id": "ID-H425-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\n(1) Ketua, Wakil Ketua, Ketua Muda, dan Hakim Anggota Mahkamah Agung\nsebelum\ndiberhentikan tidak dengan hormat sebagaimana dimaksudkan\nPasal 12 ayat (1) dapat diberhentikan sementara dari jabatannya oleh\nPresiden selaku Kepala Negara atas usul Mahkamah Agung.\n(2) Terhadap\npengusulan pemberhentian sementara yang dimaksudkan ayat (1)\nberlaku juga ketentuan sebagaimana\ndimaksudkan Pasal 12 ayat (2)."
+   }
+  },
+  {
+   "id": "ID-H425-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\n(1) Apabila terhadap seorang Hakim Agung ada perintah penangkapan yang\ndiikuti dengan\npenahanan, dengan sendirinya Hakim Agung tersebut\ndiberhentikan sementara dari jabatannya.\n(2) Apabila seorang Hakim Agung dituntut di muka Pengadilan dalam perkara\npidana seperti tercantum\ndalam Pasal 21 ayat (4) Undang-undang Nomor 8\nTahun 1981 tanpa ditahan, maka ia dapat diberhentikan sementara\ndari\njabatannya."
+   }
+  },
+  {
+   "id": "ID-H425-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\nKetentuan lebih lanjut mengenai tata cara pemberhentian dengan hormat,\npemberhentian tidak\ndengan hormat, dan pemberhentian sementara serta hak-\nhak pejabat yang diberhentikan diatur dengan Peraturan\nPemerintah."
+   }
+  },
+  {
+   "id": "ID-H425-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\n(1) Kedudukan protokol Ketua, Wakil Ketua, Ketua Muda, dan Hakim Anggota\nMahkamah Agung,\ndiatur dengan Undang-undang.\n(2) Hak keuangan/administratif Ketua, Wakil Ketua, Ketua Muda, dan Hakim\nAnggota Mahkamah Agung, diatur dengan Undang-undang."
+   }
+  },
+  {
+   "id": "ID-H425-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\n(1) Ketua, Wakil Ketua, Ketua Muda, dan Hakim Anggota Mahkamah Agung\ndapat ditangkap\natau ditahan hanya atas perintah Jaksa Agung setelah\nmendapat persetujuan Presiden, kecuali dalam hal :\na. tertangkap tangan melakukan tindak pidana kejahatan, atau;\nb. berdasarkan bukti permulaan yang cukup, disangka telah melakukan\ntindak pidana\nkejahatan yang diancam dengan pidana mati, atau tindak\npidana kejahatan terhadap keamanan negara.\n(2) Pelaksanaan penangkapan atau penahanan tersebut ayat (1) huruf a dan\nhuruf b selambat-lambatnya\ndalam waktu 2 (dua) kali 24 (dua puluh empat)\njam harus dilaporkan kepada Jaksa Agung.\nBagian Ketiga\nPanitera Mahkamah Agung"
+   }
+  },
+  {
+   "id": "ID-H425-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\nPada Mahkamah Agung ditetapkan adanya Kepaniteraan yang dipimpin oleh\nseorang Panitera\ndan dibantu oleh seorang Wakil Panitera, beberapa orang\nPanitera Muda, dan beberapa orang Panitera Pengganti."
+   }
+  },
+  {
+   "id": "ID-H425-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\nTugas serta tanggung jawab, susunan organisasi, dan tata kerja Kepaniteraan\nMahkamah\nAgung ditetapkan dengan Keputusan Presiden."
+   }
+  },
+  {
+   "id": "ID-H425-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\n(1) Untuk dapat diangkat menjadi Panitera Mahkamah Agung seorang calon\nharus\nmemenuhi syarat-syarat sebagai berikut :\na. warga negara Indonesia;\nb. bertaqwa kepada Tuhan Yang Maha Esa;\nc. setia kepada Pancasila dan Undang-Undang Dasar 1945;\nd. berijazah sarjana hukum;\ne. berpengalaman sekurang-kurangnya 5 (lima) tahun sebagai Ketua\nPengadilan Tingkat\nBanding atau 10 (sepuluh) tahun sebagai Hakim\nPengadilan Tingkat Banding atau 15 (lima belas) tahun sebagai\nPanitera\nMuda Mahkamah Agung.\n(2) Untuk dapat diangkat menjadi Wakil Panitera Mahkamah\nAgung seorang\ncalon harus memenuhi syarat-syarat sebagai berikut :\na. syarat-syarat sebagaimana dimaksudkan ayat (1) huruf a, huruf b, huruf\nc,\ndan huruf d;\nb. berpengalaman sekurang-kurangnya 3 (tiga) tahun sebagai Ketua\nPengadilan Tingkat\nBanding atau 7 (tujuh) tahun sebagai Hakim\nPengadilan Tingkat Banding atau 10 (sepuluh) tahun sebagai\npanitera\nMuda Mahkamah Agung.\n(3) Untuk dapat diangkat menjadi Panitera Muda Mahkamah\nAgung seorang\ncalon harus memenuhi syarat-syarat sebagai berikut :\na. syarat-syarat sebagaimana dimaksudkan ayat (1) huruf a, huruf b, huruf,\nc,\ndan huruf d;\nb. berpengalaman sekurang-kurangnya 5 (lima) tahun sebagai Hakim\nPengadilan Tingkat\nBanding atau 5 (lima) tahun sebagai Ketua\nPengadilan Tingkat Pertama atau 5 (lima) tahun sebagai Panitera\nPengganti Mahkamah Agung.\n(4) Untuk dapat diangkat menjadi Panitera Pengganti Mahkamah\nAgung\nseorang calon harus memenuhi syarat-syarat sebagai berikut :\na. syarat-syarat sebagaimana dimaksudkan ayat (1)'huruf a, huruf b, huruf\nc,\ndan huruf d;\nb. berpengalaman sekurang-kurangnya 10 (sepuluh) tahun sebagai Hakim\nPengadilan\nTingkat Pertama."
+   }
+  },
+  {
+   "id": "ID-H425-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\nPanitera, Wakil Panitera Mahkamah Agung diangkat dan diberhentikan oleh\nPresiden atas usul\nKetua Mahkamah Agung."
+   }
+  },
+  {
+   "id": "ID-H425-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\nSebelum memangku jabatannya Panitera dan Wakil Panitera Mahkamah Agung\ndiambil sumpah\natau janjinya oleh Ketua Mahkamah Agung."
+   }
+  },
+  {
+   "id": "ID-H425-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\nPanitera Muda dan Panitera Pengganti Mahkamah Agung diangkat dan\ndiberhentikan\noleh Ketua Mahkamah Agung."
+   }
+  },
+  {
+   "id": "ID-H425-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 24\nSebelum memangku jabatannya Panitera Muda dan Panitera Pengganti\nMahkamah Agung diambil\nsumpah atau janjinya oleh Ketua Mahkamah Agung.\nBagian Keempat\nSekretaris Jenderal Mahkamah Agung"
+   }
+  },
+  {
+   "id": "ID-H425-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\nPada Mahkamah Agung ditetapkan adanya Sekretariat Jenderal yang dipimpin\noleh seorang Sekretaris\nJenderal dan dibantu oleh seorang Wakil Sekretaris\nJenderal."
+   }
+  },
+  {
+   "id": "ID-H425-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\nTugas serta tanggung jawab, susunan organisasi dan tata kerja Sekretariat\nJenderal Mahkamah\nAgung ditetapkan dengan Keputusan Presiden."
+   }
+  },
+  {
+   "id": "ID-H425-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\nPanitera Mahkamah Agung merangkap Sekretaris Jenderal Mahkamah Agung.\nBAB III\nKEKUASAAN MAHKAMAH AGUNG"
+   }
+  },
+  {
+   "id": "ID-H425-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\n(1) Mahkamah Agung bertugas dan berwenang memeriksa dan memutus:\na. permohonan kasasi;\nb. sengketa tentang kewenangan mengadili;\nc. permohonan peninjauan kembali putusan Pengadilan yang telah\nmemperoleh kekuatan\nhukum tetap.\n(2) Untuk kelancaran pelaksanaan tugas sebagaimana dimaksudkan ayat (1)\nKetua Mahkamah Agung menetapkan pembidangan tugas dalam Mahkamah\nAgung."
+   }
+  },
+  {
+   "id": "ID-H425-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\nMahkamah Agung memutus permohonan kasasi terhadap putusan Pengadilan\nTingkat Banding atau\nTingkat Terakhir dari semua Lingkungan Peradilan."
+   }
+  },
+  {
+   "id": "ID-H425-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\nMahkamah Agung dalam tingkat kasasi membatalkan putusan atau penetapan\nPengadilan-pengadilan\ndari semua Lingkungan Peradilan karena :\na. tidak berwenang atau melampaui batas wewenang;\nb. salah menerapkan atau melanggar hukum yang berlaku;\nc. lalai memenuhi syarat-syarat yang diwajibkan oleh peraturan perundang-\nundangan yang\nmengancam kelalaian itu dengan batalnya putusan yang\nbersangkutan."
+   }
+  },
+  {
+   "id": "ID-H425-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\n(1) Mahkamah Agung mempunyai wewenang menguji secara materiil hanya\nterhadap peraturan\nperundang-undangan di bawah ini Undang-undang\n(2) Mahkamah Agung berwenang menyatakan tidak sah semua peraturan\nperundang-undangan dari tingkat yang lebih rendah daripada Undang-\nundang atasalasan\nbertentangan dengan peraturan perundang-undangan\nyang lebih tinggi.\n(3) Putusan tentang\npernyataan tidak sahnya peraturan perundang-undangan\ntersebut dapat diambil berhubungan dengan pemeriksaan\ndalam tingkat\nkasasi.\nPencabutan peraturan perundang-undangan yang dinyatakan tidak\nsah\ntersebut, dilakukan segera oleh instansi yang bersangkutan."
+   }
+  },
+  {
+   "id": "ID-H425-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 32\n(1) Mahkamah Agang melakukan pengawasan tertinggi terhadap\npenyelenggaraan\nperadilan di semua lingkungan peradilan dalam\nmenjalankan kekuasaan kehakiman.\n(2)\nMahkamah Agung mengawasi tingkah laku dan perbuatan para Hakim di\nsemua lingkungan peradilan dalam menjalankan\ntugasnya.\n(3) Mahkamah Agung berwenang untuk meminta keterangan tentang hal-hal\nyang\nbersangkutan dengan teknis peradilan dari semua Lingkungan\nPeradilan.\n(4) Mahkamah\nAgung berwenang memberi petunjuk, tegoran, atau peringatan\nyang dipandang perlu kepada Pengadilan di semua\nLingkungan Peradilan.\n(5) Pengawasan dan kewenangan sebagaimana dimaksudkan dalam ayat (1)\nsampai dengan ayat (4) tidak boleh mengurangi kebebasan Hakim dalam\nmemeriksa dan memutus perkara."
+   }
+  },
+  {
+   "id": "ID-H425-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 33\n(1) Mahkamah Agung memutus pada tingkat pertama dan terakhir semua\nsengketa tentang\nkewenangan mengadili :\na. antara Pengadilan di lingkungan Peradilan yang satu dengan Pengadilan\ndi Lingkungan\nPeradilan yang lain;\nb. antara dua Pengadilan yang ada dalam daerah hukum Pengadilan\nTingkat Banding\nyang berlainan dari Lingkungan Peradilan yang sama;\nc. antara dua Pengadilan Tingkat Banding di Lingkungan Peradilan yang\nsama atau\nantara lingkungan Peradilan yang berlainan.\n(2) Mahkamah Agung berwenang memutus dalam tingkat pertama dan\nterakhir,\nsemua sengketa yang timbul karena perampasan kapal asing dan\nmuatannya\noleh kapal perang Republik Indonesia berdasarkan peraturan\nyang berlaku."
+   }
+  },
+  {
+   "id": "ID-H425-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 34\nMahkamah Agung memeriksa dan memutus permohonan peninjauan kembali\npada tingkat\npertama dan terakhir atas putusan Pengadilan yang telah\nmemperoleh kekuatan hukum tetap berdasarkan alasan-alasan\nyang diatur\ndalam Bab IV Bagian Keempat Undang-undang ini."
+   }
+  },
+  {
+   "id": "ID-H425-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 35\nMahkamah Agung memberikan nasihat hukum kepada Presiden selaku Kepala\nNegara dalam rangka\npemberian atau penolakan grasi."
+   }
+  },
+  {
+   "id": "ID-H425-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 36\nMahkamah Agung dan Pemerintah melakukan pengawasan atas Penasihat\nHukum dan Notaris."
+   }
+  },
+  {
+   "id": "ID-H425-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 37\nMahkamah Agung dapat memberikan pertimbangan-pertimbangan dalam bidang\nhukum baik diminta\nmaupun tidak kepada Lembaga Tinggi Negara yang lain."
+   }
+  },
+  {
+   "id": "ID-H425-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 38\nMahkamah Agung berwenang meminta keterangan dari dan memberikan\npetunjuk kepada Pengadilan\ndi semua Lingkungan Peradilan dalam rangka\npelaksanaan ketentuan-ketentuan Pasal 25 Undang-undang Nomor 14 Tahun\n1970 tentang Ketentuan-ketentuan Pokok Kekuasaan Kehakiman."
+   }
+  },
+  {
+   "id": "ID-H425-A39",
+   "no": 39,
+   "noLabel": {
+    "id": "Pasal 39"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 39\nDi samping tugas dan kewenangan tersebut dalam Bab ini Mahkamah Agung\ndapat diserahi tugas\ndan kewenangan lain berdasarkan Undang-undang.\nBAB IV\nHUKUM ACARA BAGI MAHKAMAH AGUNG\nBagian Pertama\nUmum"
+   }
+  },
+  {
+   "id": "ID-H425-A40",
+   "no": 40,
+   "noLabel": {
+    "id": "Pasal 40"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 40\n(1) Mahkamah Agung memeriksa dan memutus dengan sekurang-kurangnya 3\n(tiga).orang Hakim.\n(2) Putusan Mahkamah Agung diucapkan dalam sidang terbuka untuk umum."
+   }
+  },
+  {
+   "id": "ID-H425-A41",
+   "no": 41,
+   "noLabel": {
+    "id": "Pasal 41"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 41\n(1) Seorang Hakim wajib mengundurkan diri dari suatu persidangan apabila\nterdapat\nhubungan keluarga sedarah atau semenda sampai derajat ketiga\natau hubungan suami atau isteri meskipun\nsudah bercerai dengan salah\nseorang Hakim Anggota atau Panitera pada Majelis yang sama dimaksudkan\nPasal 40 ayat (1).\n(2) Seorang Hakim atau Panitera wajib mengundurkan diri dari persidangan\napabila\nterikat hubungan keluarga sedarah atau semenda sampai derajat\nketiga atau hubungan suami atau isteri\nmeskipun sudah bercerai dengan\nPenuntut Umum, Oditur Militer, Terdakwa, Penasihat Hukum, Tergugat\natau\nPenggugat.\n(3) Hubungan keluarga sebagaimana dimaksudkan ayat (1) dan ayat (2)\nberlaku\njuga antara Hakim Agung dan/atau Panitera Mahkamah Agung dengan\nHakim dan/atau\nPanitera Pengadilan Tingkat Pertama serta Hakim dan/atau\nPanitera Pengadilan Tingkat Banding, yang telah\nmengadili perkara yang\nsama.\n(4) Jika seorang Hakim yang memutus perkara dalam tingkat\npertama atau\ntingkat banding, kemudian telah menjadi Hakim Agung, maka Hakim Agung\ntersebut dilarang memeriksa perkara yang sama.\n(5) Hakim atau Panitera sebagaimana dimaksudkan ayat (1),\nayat (2), ayat (3),\ndan ayat (4) harus diganti, dan apabila tidak diganti atau tidak\nmengundurkan diri sedangkan perkara telah diputus, maka putusan tersebut\nbatal dan perkara tersebut\nwajib segera diadili ulang dengan susunan Majelis\nyang lain."
+   }
+  },
+  {
+   "id": "ID-H425-A42",
+   "no": 42,
+   "noLabel": {
+    "id": "Pasal 42"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 42\n(1) Seorang Hakim tidak diperkenankan mengadili suatu perkara yang ia sendiri\nberkepentingan,\nbaik langsung maupun tidak langsung.\n(2) Dalam hal sebagaimana dimaksudkan ayat (1) Hakim yang bersangkutan\nwajib mengundurkan diri baik atas kehendak sendiri maupun atas\npermintaan Penuntut\nUmum, Oditur Militer, Terdakwa, Penasihat Hukum,\nTergugat atau Penggugat.\n(3) Apabila\nada keragu-raguan atau perbedaan pendapat mengenai hal\nsebagaimana tersebut ayat (1), maka :\na. Ketua Mahkamah Agung karena jabatannya bertindak sebagai pejabat\nyang berwenang\nmenetapkan;\nb. dalam hal menyangkut Ketua Mahkamah Agung sendiri, yang\nberwenang menetapkannya\nadalah suatu panitia, yang terdiri dari 3\n(tiga) orang yang dipilih oleh dan di antara Hakim Agung yang\ntertua\ndalam jabatan.\nBagian Kedua\nPemeriksaan Kasasi\nParagraf 1\nUmum"
+   }
+  },
+  {
+   "id": "ID-H425-A43",
+   "no": 43,
+   "noLabel": {
+    "id": "Pasal 43"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 43\n(1) Permohonan kasasi dapat diajukan hanya jika pemohon terhadap\nperkaranya telah\nmenggunakan upaya hukum banding kecuali ditentukan\nlain oleh Undang-undang.\n(2) Permohonan\nkasasi dapat diajukan hanya 1 (satu) kali."
+   }
+  },
+  {
+   "id": "ID-H425-A44",
+   "no": 44,
+   "noLabel": {
+    "id": "Pasal 44"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 44\n(1) Permohonan kasasi sebagaimana dimaksudkan Pasal 43 dapat diajukan\noleh :\na. pihak yang berperkara atau wakilnya yang secara khusus dikuasakan\nuntuk itu dalam perkara perdata atau perkara tata usaha negara yang\ndiperiksa dan diputus oleh\nPengadilan Tingkat Banding atau Tingkat\nTerakhir di Lingkungan Peradilan Umum, Lingkungan Peradilan\nAgama,\ndan Lingkungan Peradilan Tata Usaha Negara;\nb. Terdakwa atau wakilnya yang secara khusus dikuasakan untuk itu atau\nPenuntut\nUmum atau Oditur dalam perkara pidana yang diperiksa dan\ndiputus oleh Pengadilan Tingkat Banding atau\nTingkat Terakhir di\nLingkungan Peradilan Umum dan Lingkungan Peradilan Militer.\n(2)\nDalam pemeriksaan kasasi perkara pidana, sebelum Mahkamah Agung\nmemberikan putusannya, Jaksa Agung karena\njabatannya dapat\nmengajukan pendapat teknis hukum dalam perkara tersebut."
+   }
+  },
+  {
+   "id": "ID-H425-A45",
+   "no": 45,
+   "noLabel": {
+    "id": "Pasal 45"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 45\n(1) Permohonan kasasi demi kepentingan hukum dapat diajukan oleh Jaksa\nAgung karena\njabatannya dalam perkara perdata atau tata usaha negara\nyang diperiksa dan diputus oleh Pengadilan Tingkat\nPertama atau\nPengadilan Tingkat Banding di Lingkungan Peradilan sebagaimana\ndimaksudkan\nPasal 44 ayat (1) huruf a.\n(2) Permohonan kasasi tersebut dalam ayat (1) dapat diajukan hanya 1 (satu)\nkali.\n(3) Putusan kasasi demi kepentingan hukum tidak boleh merugikan pihak yang\nberperkara.\nParagraf 2\nPeradilan Umum"
+   }
+  },
+  {
+   "id": "ID-H425-A46",
+   "no": 46,
+   "noLabel": {
+    "id": "Pasal 46"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 46\n(1) Permohonan kasasi dalam perkara perdata disampaikan secara tertulis atau\nlisan melalui\nPanitera Pengadilan Tingkat Pertama yang telah memutus\nperkaranya, dalam tenggang waktu 14 (empat belas)\nhari sesudah putusan\natau penetapan Pengadilan yang dimaksudkan diberitahukan kepada\npemohon.\n(2) Apabila tenggang waktu 14 (empat belas) hari tersebut telah lewat tanpa ada\npermohonan kasasi yang diajukan oleh pihak berperkara, maka pihak yang\nberperkara dianggap telah\nmenerima putusan.\n(3) Setelah pemohon membayar biaya perkara, Panitera tersebut ayat (1)\nmencatat permohonan kasasi dalam buku daftar, dan pada hari itu juga\nmembuat akta permohonan kasasi\nyang dilampirkan pada berkas perkara.\n(4) Selambat-lambatnya dalam waktu 7 (tujuh) hari setelah permohonan kasasi\nterdaftar, Panitera Pengadilan Dalam Tingkat Pertama yang memutus\nperkara tersebut\nmemberitahukan secara tertulis mengenai permohonan itu\nkepada pihak lawan."
+   }
+  },
+  {
+   "id": "ID-H425-A47",
+   "no": 47,
+   "noLabel": {
+    "id": "Pasal 47"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 47\n(1) Dalam pengajuan permohonan kasasi pemohon wajib menyampaikan pula\nmemori kasasi\nyang memuat alasan-alasannya, dalam tenggang waktu 14\n(empat belas) hari setelah permohonan yang dimaksud\ndicatat dalam buku\ndaftar.\n(2) Panitera Pengadilan yang memutus perkara dalam tingkat\npertama\nmemberikan tanda terima atas penerimaan memori kasasi dan\nmenyampaikan salinan memori kasasi tersebut kepada pihak lawan dalam\nperkara yang dimaksud dalam waktu\nselambat-lambatnya 30 (tiga puluh)\nhari.\n(3) Pihak lawan berhak mengajukan\nsurat jawaban terhadap .memori kasasi\nkepada Panitera sebagaimana dimaksudkan ayat (1), dalam tenggang\nwaktu\n14 (empat belas) hari sejak tanggal diterimanya salinan memori kasasi."
+   }
+  },
+  {
+   "id": "ID-H425-A48",
+   "no": 48,
+   "noLabel": {
+    "id": "Pasal 48"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 48\n(1) Setelah menerima memori kasasi dan jawaban terhadap memori kasasi\nsebagaimana dimaksudkan\nPasal 47, Panitera Pengadilan yang memutus\nperkara dalam tingkat pertama, mengirimkan permohonan kasasi,\nmemori\nkasasi, jawaban atas memori kasasi, beserta berkas perkaranya kepada\nMahkamah\nAgung dalam waktu selambat-lambatnya 30 (tiga puluh) hari.\n(2) Panitera Mahkamah Agung mencatat permohonan kasasi\ntersebut dalam\nbuku daftar dengan membubuhkan nomor urut menurut tanggal\npenerimaannya,\nmembuat catatan singkat tentang isinya, dan melaporkan\nsemua itu kepada Mahkamah Agung."
+   }
+  },
+  {
+   "id": "ID-H425-A49",
+   "no": 49,
+   "noLabel": {
+    "id": "Pasal 49"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 49\n(1) Sebelum permohonan kasasi diputus oleh Mahkamah Agung, maka\npermohonan tersebut\ndapat dicabut kembali oleh pemohon, dan apabila\ntelah dicabut, pemohon tidak dapat lagi mengajukan permohonan\nkasasi\ndalam perkara itu meskipun tenggang waktu kasasi belum lampau.\n(2) Apabila pencabutan\nkembali sebagaimana dimaksudkan ayat (1) dilakukan\nsebelum berkas perkaranya dikirimkan kepada Mahkamah\nAgung, maka\nberkas perkara itu tidak diteruskan kepada Mahkamah Agung."
+   }
+  },
+  {
+   "id": "ID-H425-A50",
+   "no": 50,
+   "noLabel": {
+    "id": "Pasal 50"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 50\n(1) Pemeriksaan kasasi dilakukan oleh Mahkamah Agung, berdasarkan surat-\nsurat dan hanya\njika dipandang perlu Mahkamah Agung mendengar sendiri\npara pihak atau para saksi, atau memerintahkan Pengadilan\nTingkat\nPertama atau Pengadilan Tingkat Banding yang memutus perkara tersebut\nmendengar\npara pihak atau para saksi.\n(2) Apabila Mahkamah Agung membatalkan putusan Pengadilan dan mengadili\nsendiri perkara tersebut, maka dipakai hukum pembuktian yang berlaku bagi\nPengadilan Tingkat\nPertama."
+   }
+  },
+  {
+   "id": "ID-H425-A51",
+   "no": 51,
+   "noLabel": {
+    "id": "Pasal 51"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 51\n(1) Dalam hal Mahkamah Agung mengabulkan permohonan kasasi berdasarkan\nPasal 30 huruf a, maka Mahkamah Agung menyerahkan perkara tersebut\nkepada Pengadilan lain yang berwenang memeriksa dan memutusnya.\n(2) Dalam hal Mahkamah\nAgung mengabulkan permohonan kasasi berdasarkan\nPasal 30 huruf b, dan huruf c, maka Mahkamah Agung memutus sendiri\nperkara yang dimohonkan kasasi itu."
+   }
+  },
+  {
+   "id": "ID-H425-A52",
+   "no": 52,
+   "noLabel": {
+    "id": "Pasal 52"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 52\nDalam mengambil putusan, Mahkamah Agung tidak terikat pada alasan-alasan\nyang diajukan\noleh pemohon kasasi dan dapat memakai alasan-alasan hukum\nlain."
+   }
+  },
+  {
+   "id": "ID-H425-A53",
+   "no": 53,
+   "noLabel": {
+    "id": "Pasal 53"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 53\n(1) Salinan putusan dikirimkan kepada Ketua Pengadilan Tingkat Pertama yang\nmemutus perkara tersebut.\n(2) Putusan Mahkamah Agung oleh Pengadilan Tingkat Pertama diberitahukan\nkepada kedua belah pihak selambat-lambatnya 30 (tiga puluh) hari setelah\nputusan\ndan berkas perkara diterima oleh Pengadilan Tingkat Pertama\ntersebut."
+   }
+  },
+  {
+   "id": "ID-H425-A54",
+   "no": 54,
+   "noLabel": {
+    "id": "Pasal 54"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 54\nDalam pemeriksaan kasasi untuk perkara pidana digunakan hukum acara\nsebagaimana diatur dalam\nKitab Undang-undang Hukum Acara Pidana.\nParagraf 3\nPeradilan Agama, Peradilan Tata Usaha Negara,\nPeradilan Militer"
+   }
+  },
+  {
+   "id": "ID-H425-A55",
+   "no": 55,
+   "noLabel": {
+    "id": "Pasal 55"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 55\n(1) Pemeriksaan kasasi untuk perkara yang diputus oleh Pengadilan di\nLingkungan Peradilan\nAgama atau yang diputus oleh Pengadilan di\nLingkungan Peradilan Tata Usaha Negara, dilakukan menurut ketentuan\nUndang-undang ini.\n(2) Dalam pemeriksaan kasasi untuk perkara yang diputus oleh Pengadilan\ndi\nLingkungan Peradilan Militer digunakan hukum acara yang berlaku di\nLingkungan\nPeradilan Militer.\nBagian Ketiga\nPemeriksaan Sengketa\nTentang\nKewenangan Mengadili\nParagraf 1\nUmum"
+   }
+  },
+  {
+   "id": "ID-H425-A56",
+   "no": 56,
+   "noLabel": {
+    "id": "Pasal 56"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 56\n(1) Mahkamah Agung memeriksa dan memutus sengketa tentang kewenangan\nmengadili sebagaimana\ndimaksudkan Pasal 33 ayat (1).\n(2) Sengketa tentang kewenangan mengadili terjadi :\na. jika 2 (dua) Pengadilan atau lebih menyatakan berwenang mengadili\nperkara yang\nsama;\nb. jika 2 (dua) Pengadilan atau lebih menyatakan tidak berwenang\nmengadili perkara\nyang sama.\nParagraf 2\nPeradilan Umum"
+   }
+  },
+  {
+   "id": "ID-H425-A57",
+   "no": 57,
+   "noLabel": {
+    "id": "Pasal 57"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 57\n(1) Permohonan untuk memeriksa dan memutus sengketa kewenangan\nmengadili dalam perkara\nperdata, diajukan secara tertulis kepada Mah-\nkamah Agung disertai pendapat dan alasannya oleh:\na. pihak yang berperkara melalui Ketua Pengadilan;\nb. Ketua Pengadilan yang memeriksa perkara tersebut.\n(2) Panitera Mahkamah Agung\nmencatat permohonan tersebut dalam buku\ndaftar sengketa tentang kewenangan mengadili perkara perdata\ndan atas\nperintah Ketua Mahkamah Agung mengirimkan salinannya kepada pihak\nlawan yang berperkara dengan pemberitahuan bahwa ia dalam tenggang\nwaktu 30 (tiga puluh) hari setelah\nmenerima salinan permohonan tersebut\nberhak mengajukan jawaban tertulis kepada Mahkamah Agung disertai\npendapat dan alasan-alasannya.\n(3) Setelah permohonan tersebut diterima maka pemeriksaan\nperkara oleh\nPengadilan yang memeriksanya ditunda sampai sengketa tersebut diputus\noleh Mahkamah Agung.\n(4) Putusan Mahkamah Agung disampaikan kepada :\na. para pihak melalui Ketua Pengadilan;\nb. Ketua Pengadilan yang bersangkutan."
+   }
+  },
+  {
+   "id": "ID-H425-A58",
+   "no": 58,
+   "noLabel": {
+    "id": "Pasal 58"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 58\nPermohonan untuk memeriksa dan memutuskan sengketa kewenangan megadili\nperkara pidana, diajukan\nsecara tertulis oleh Penuntut Umum atau terdakwa\ndisertai pendapat dan alasan-alasannya."
+   }
+  },
+  {
+   "id": "ID-H425-A59",
+   "no": 59,
+   "noLabel": {
+    "id": "Pasal 59"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 59\n(1) Apabila permohonan sebagaimana dimaksudkan dalam Pasal 58 diajukan\noleh Penuntut\nUmum maka surat permohonan dan berkas perkaranya\ndikirimkan oleh Penuntut Umum kepada Mahkamah Agung, sedangkan\nsalinannya dikirimkan kepada Jaksa Agung, para Ketua Pengadilan dan\nPenuntut Umum\npada Kejaksaan lain serta kepada terdakwa.\n(2) Penuntut Umum pada Kejaksaan lain, demikian pula terdakwa selambat-\nlambatnya 30 (tiga puluh) hari setelah menerima salinan permohonan\nsebagaimana\ndimaksudkan dalam ayat (1) menyampaikan pendapat masing-\nmasing kepada Mahkamah Agung."
+   }
+  },
+  {
+   "id": "ID-H425-A60",
+   "no": 60,
+   "noLabel": {
+    "id": "Pasal 60"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 60\n(1) Apabila permohonan diajukan oleh terdakwa, maka surat permohonannya\ndiajukan melalui\nPenuntut Umum yang bersangkutan, yang selanjutnya\nmeneruskan permohonan tersebut beserta pendapat dan berkas\nperkaranya\nkepada Mahkamah Agung.\n(2) Penuntut Umum sebagaimana dimaksudkan dalam ayat\n(1) mengirimkan\nsalinan surat permohonan dan pendapatnya kepada Penuntut Umum\nlainnya.\n(3) Penuntut Umum lainnya sebagaimana dimaksudkan ayat (2) mengirimkan\npendapatnya\nkepada Mahkamah Agung selambat-lambatnya 30 (tiga puluh)\nhari setelah menerima salinan permohonan\ntersebut."
+   }
+  },
+  {
+   "id": "ID-H425-A61",
+   "no": 61,
+   "noLabel": {
+    "id": "Pasal 61"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 61\n(1) Penuntut Umum sebagaimana dimaksudkan Pasal 60 ayat (1) secepat-\ncepatnya\nmenyampaikan salinan permohonan tersebut kepada para Ketua\nPengadilan yang memutus perkara tersebut.\n(2) Setelah permohonan tersebut diterimanya, maka pemeriksaan perkara oleh\nPengadilan yang memeriksanya ditunda sampai sengketa tersebut diputus\noleh Mahkamah Agung."
+   }
+  },
+  {
+   "id": "ID-H425-A62",
+   "no": 62,
+   "noLabel": {
+    "id": "Pasal 62"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 62\n(1) Mahkamah Agung dapat memerintahkan Pengadilan yang memeriksa\nperkara meminta keterangan\ndari terdakwa tentang hal-hal yang dianggap\nperlu.\n(2) Pengadilan yang diperintahkan\nsetelah melaksanakan perintah tersebut ayat\n(1) segera memuat berita acara pemeriksaan dan mengirimkannya\nkepada\nMahkamah Agung."
+   }
+  },
+  {
+   "id": "ID-H425-A63",
+   "no": 63,
+   "noLabel": {
+    "id": "Pasal 63"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 63\n(1) Dalam hal sengketa kewenangan sebagaimana dimaksudkan Pasal 58,\nMahkamah Agung memutus\nsengketa tersebut setelah mendengar pendapat\nJaksa Agung.\n(2) Jaksa Agung memberitahukan\nputusan dimaksudkan ayat (1) kepada\nterdakwa dan Penuntut Umum dalam perkara tersebut.\nParagraf 3\nPeradilan Agama, Peradilan Tata Usaha Negara,\nPeradilan Militer"
+   }
+  },
+  {
+   "id": "ID-H425-A64",
+   "no": 64,
+   "noLabel": {
+    "id": "Pasal 64"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 64\n(1) Pemeriksaan sengketa tentang kewenangan mengadili antar Pengadilan\nyang terjadi\n:\na. di lingkungan Peradilan Agama;\nb. di lingkungan Peradilan Tata Usaha Negara; dilakukan menurut\nketentuan Pasal\n57\n(2) Pemeriksaan sengketa tentang kewenangan mengadili antar Pengadilan di\nLingkungan\nPeradilan Militer, dilakukan menurut ketentuan Pasal 58 sampai\ndengan Pasal 63.\nParagraf 4\nPemeriksaan Sengketa Tentang Kewenangan\nMengadili Antar Lingkungan Peradilan"
+   }
+  },
+  {
+   "id": "ID-H425-A65",
+   "no": 65,
+   "noLabel": {
+    "id": "Pasal 65"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 65\n(1) Pemeriksaan sengketa tentang kewenangan mengadili antara :\na. Pengadilan di Lingkungan Peradilan Umum dengan Pengadilan di\nLingkungan\nPeradilan Agama dengan Pengadilan di lingkungan\nPeradilan Tata Usaha Negara;\nb. Pengadilan di Lingkungan Peradilan Agama dengan Pengadilan di\nlingkungan Peradilan\nTata Usaha Negara;\ndilakukan menurut ketentuan Pasal 57.\n(2) Pemeriksaan\nsengketa tentang kewenangan mengadili antara Pengadilan di\nLingkungan Peradilan Umum dengan Pengadilan\ndi Lingkungan Peradilan\nMiliter dilakukan menurut ketentuan Pasal 58 sampai dengan pasal 63.\nBagian Keempat\nPemeriksaan Peninjauan Kembali Putusan\nPengadilan Yang Telah Memperoleh\nKekuatan Hukum Tetap\nPasal 1\nUmum"
+   }
+  },
+  {
+   "id": "ID-H425-A66",
+   "no": 66,
+   "noLabel": {
+    "id": "Pasal 66"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 66\n(1) Permohonan peninjauan kembali dapat diajukan hanya 1 (satu) kali.\n(2) Permohonan peninjauan\nkembali tidak menangguhkan atau menghentikan\npelaksanaan putusan Pengadilan.\n(3) Permohonan\npeninjauan kembali dapat dicabut selama belum diputus, dan\ndalam hal sudah dicabut permohonan peninjauan\nkembali itu tidak dapat\ndiajukan lagi.\nPasal 2\nPeradilan Umum"
+   }
+  },
+  {
+   "id": "ID-H425-A67",
+   "no": 67,
+   "noLabel": {
+    "id": "Pasal 67"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 67\nPermohonan peninjauan kembali putusan perkara perdata yang telah\nmemperoleh kekuatan hukum\ntetap dapat diajukan hanya berdasarkan alasan-\nalasan sebagai berikut :\na. apabila putusan didasarkan pada suatu kebohongan atau tipu muslihat pihak\nlawan yang\ndiketahui setelah perkaranya diputus atau didasarkan pada\nbukti-bukti yang kemudian oleh hakim pidana dinyatakan\npalsu;\nb. apabila setelah perkara diputus, ditemukan surat-surat bukti yang bersifat\nmenentukan\nyang pada waktu perkara diperiksa tidak dapat ditemukan;\nc. apabila telah dikabulkan suatu hal yang tidak dituntut atau lebih dari pada\nyang dituntut;\nd. apabila mengenai sesuatu bagian dari tuntutan belum diputus tanpa\ndipertimbangkan sebab-sebabnya;\ne. apabila antara pihak-pihak yang sama mengenai suatu soal yang sama, atas\ndasar yang\nsama oleh Pengadilan yang sama atau sama tingkatnya telah\ndiberikan putusan yang bertentangan satu dengan\nyang lain;\nf. apabila dalam suatu putusan terdapat suatu kekhilafan Hakim atau suatu\nkekeliruan yang\nnyata."
+   }
+  },
+  {
+   "id": "ID-H425-A68",
+   "no": 68,
+   "noLabel": {
+    "id": "Pasal 68"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 68\n(1) Permohonan peninjauan kembali harus diajukan sendiri oleh para pihak yang\nberperkara,\natau ahli warisnya atau seorang wakilnya yang secara khusus\ndikuasakan untuk itu.\n(2) Apabila selama proses peninjauan kembali pemohon meninggal dunia,\npermohonan tersebut dapat\ndilanjutkan oleh ahli warisnya."
+   }
+  },
+  {
+   "id": "ID-H425-A69",
+   "no": 69,
+   "noLabel": {
+    "id": "Pasal 69"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 69\nTenggang waktu pengajuan permohonan peninjauan kembali yang didasarkan\natas\nalasan sebagaimana dimaksudkan dalam Pasal 67 adalah 180 (seratus\ndelapan puluh) hari untuk :\na. yang disebut pada huruf a sejak diketahui kebohongan atau tipu muslihat\natau sejak\nputusan Hakim pidana memperoleh kekuatan hukum tetap, dan\ntelah diberitahukan kepada para pihak yang berperkara;\nb. yang disebut pada huruf b sejak ditemukan surat-surat bukti, yang hari serta\ntanggal\nditemukannya harus dinyatakan di bawah sumpah dan disahkan oleh\npejabat yang berwenang;\nc. yang disebut pada huruf c, d, dan f sejak putusan memperoleh kekuatan\nhukum tetap dan\ntelah diberitahukan kepada para pihak yang berperkara;\nd. yang tersebut pada huruf e sejak sejak putusan yang terakhir dan\nbertentangan itu memperoleh\nkekuatan hukum tetap dan telah diberitahukan\nkepada pihak yang berperkara."
+   }
+  },
+  {
+   "id": "ID-H425-A70",
+   "no": 70,
+   "noLabel": {
+    "id": "Pasal 70"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 70\n(1) Permohonan peninjauan kembali diajukan oleh pemohon kepada Mahkamah\nAgung melalui\nKetua Pengadilan Negeri yang memutus perkara dalam\ntingkat pertama dengan membayar biaya perkara yang diperlukan.\n(2) Mahkamah Agung memutus permohonan peninjauan kembali pada tingkat\npertama dan terakhir."
+   }
+  },
+  {
+   "id": "ID-H425-A71",
+   "no": 71,
+   "noLabel": {
+    "id": "Pasal 71"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 71\n(1) Permohonan peninjauan kembali diajukan oleh pemohon secara tertulis\ndengan menyebutkan\nsejelas-jelasnya alasan yang dijadikan dasar\npermohonan itu dan dimasukkan di kepaniteraan Pengadilan Negeri\nyang\nmemutus perkara dalam tingkat pertama.\n(2) Apabila pemohon tidak dapat menulis,\nmaka ia menguraikan\npermohonannya secara lisan di hadapan Ketua Pengadilan Negeri yang\nmemutus perkara dalam tingkat pertama atau hakim yang ditunjuk oleh\nKetua Pengadilan yang akan membuat\ncatatan tentang permohonan\ntersebut."
+   }
+  },
+  {
+   "id": "ID-H425-A72",
+   "no": 72,
+   "noLabel": {
+    "id": "Pasal 72"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 72\n(1) Setelah Ketua Pengadilan Negeri yang memutus perkara dalam tingkat\npertama menerima\npermohonan peninjauan kembali, maka Panitera\nberkewajiban untuk selambat-lambatnya dalam waktu 14 (empat\nbelas) hari\nmemberikan atau mengirimkan salinan permohonan tersebut kepada pihak\nlawan pemohon, dengan maksud :\na. dalam hal permohonan peninjauan kembali didasarkan atas alasan\nsebagaimana\ndimaksudkan Pasal 67 huruf a atau huruf b agar pihak\nlawan mempunyai kesempatan untuk mengajukan jawabannya;\nb. dalam hal permohonan peninjauan kembali didasarkan atas salah satu\nalasan\nyang tersebut Pasal 67 huruf c sampai dengan huruf f agar dapat\ndiketahui.\n(2) Tenggang\nwaktu bagi fihak lawan untuk mengajukan jawabannya\nsebagaimana dimaksudkan ayat (1) huruf a adalah 30 (tiga\npuluh) hari\nsetelah tanggal diterimanya salinan permohonan peninjauan kembali.\n(3) Surat jawaban diserahkan atau dikirimkan kepada Pengadilan yang\nmemutus perkara dalam\ntingkat pertama dan pada surat jawaban itu oleh\nPanitera dibubuhi cap, hari serta tanggal diterimanya jawaban\ntersebut, yang\nsalinannya disampaikan atau dikirimkan kepada pihak pemohon untuk\ndiketahui.\n(4) Permohonan tersebut lengkap dengan berkas perkara beserta biayanya\noleh\nPanitera dikirimkan kepada Mahkamah Agung selambat-lambatnya dalam\njangka\nwaktu 30 (tiga puluh) hari.\n(5) Untuk permohonan peninjauan kembali tidak diadakan surat menyurat antara\npemohon dan/atau pihak lain dengan Mahkamah Agung."
+   }
+  },
+  {
+   "id": "ID-H425-A73",
+   "no": 73,
+   "noLabel": {
+    "id": "Pasal 73"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 73\n(1) Mahkamah Agung berwenang memerintahkan Pengadilan Negeri yang\nmemeriksa perkara\ndalam Tingkat Pertama atau Pengadilan Tingkat Banding\nmengadakan pemeriksaan tambahan, atau meminta segala\nketerangan serta\npertimbangan dari Pengadilan yang dimaksud.\n(2) Mahkamah Agung dapat\nmeminta keterangan dari Jaksa Agung atau dari\npejabat lain yang diserahi tugas penyidikan apabila diperlukan.\n(3) Pengadilan yang dimaksudkan ayat (1), setelah melaksanakan perintah\nMahkamah Agung\ntersebut segera mengirimkan berita acara pemeriksaan\ntambahan serta pertimbangan sebagaimana dimaksudkan\nayat (1), kepada\nMahkamah Agung."
+   }
+  },
+  {
+   "id": "ID-H425-A74",
+   "no": 74,
+   "noLabel": {
+    "id": "Pasal 74"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 74\n(1) Dalam hal Mahkamah Agung mengabulkan permohonan peninjauan\nkembali, Mahkamah Agung\nmembatalkan putusan yang dimohonkan\npeninjauan kembali tersebut dan selanjutnya memeriksa serta memutus\nsendiri perkaranya.\n(2) Mahkamah Agung menolak permohonan peninjauan kembali, dalam\nhal\nMahkamah Agung berpendapat bahwa permohonan itu tidak beralasan.\n(3) Putusan Mahkamah\nAgung sebagaimana dimaksudkan ayat (1) dan ayat (2)\ndisertai pertimbangan-pertimbangan."
+   }
+  },
+  {
+   "id": "ID-H425-A75",
+   "no": 75,
+   "noLabel": {
+    "id": "Pasal 75"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 75\nMahkamah Agung mengirimkan salinan putusan atas permohonan peninjauan\nkembali kepada Pengadilan\nNegeri yang memutus perkara dalam Tingkat\nPertama dan. selanjutnya Panitera Pengadilan Nigeri yang bersangkutan\nmenyampaikan salinan putusan itu kepada pemohon serta memberitahukan\nputusan itu kepada\npihak lawan dengan memberikan salinannya, selambat-\nlambatnya dalam waktu 30 (tiga puluh) hari."
+   }
+  },
+  {
+   "id": "ID-H425-A76",
+   "no": 76,
+   "noLabel": {
+    "id": "Pasal 76"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 76\nDalam pemeriksaan permohonan peninjauan kembali putusan perkara pidana\nyang telah memperoleh\nkekuatan hukum tetap digunakan acara peninjauan\nkembali sebagaimana diatur dalam kitab Undang-undang Hukum Acara\nPidana.\nParagraf 3\nPeradilan Agama, Peradilan\nTata Usaha Negara,\nPeradilan Militer"
+   }
+  },
+  {
+   "id": "ID-H425-A77",
+   "no": 77,
+   "noLabel": {
+    "id": "Pasal 77"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 77\n(1) Dalam pemeriksaan peninjauan kembali perkara yang diputus oleh\nPengadilan\ndi Lingkungan Peradilan Agama atau oleh Pengadilan di\nLingkungan Peradilan Tata Usaha Negara, digunakan\nhukum acara\npeninjauan kembali yang tercantum dalam Pasal 67 sampai dengan Pasal\n75.\n(2) Dalam pemeriksaan peninjauan kembali perkara yang diputus oleh\nPengadilan di Lingkungan Peradilan Militer, digunakan hukum acara\npeninjauan kembali sebagaimana\ndiatur dalam Kitab Undang-undang Hukum\nAcara Pidana.\nBagian\nKelima\nPemeriksaan Sengketa Yang\nTimbul Karena Perampasan Kapal"
+   }
+  },
+  {
+   "id": "ID-H425-A78",
+   "no": 78,
+   "noLabel": {
+    "id": "Pasal 78"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 78\nPemeriksaan sengketa yang timbul karena perampasan kapal asing dan\nmuatannya oleh kapal\nperang Republik Indonesia dilakukan berdasarkan\nUndang-undang.\nBAB V\nKETENTUAN LAIN"
+   }
+  },
+  {
+   "id": "ID-H425-A79",
+   "no": 79,
+   "noLabel": {
+    "id": "Pasal 79"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 79\nMahkamah Agung dapat mengatur lebih lanjut hal-hal yang diperlukan bagi\nkelancaran\npenyelenggaraan peradilan apabila terdapat hal-hal yang belum\ncukup diatur dalam Undang-undang ini.\nBAB VI\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H425-A80",
+   "no": 80,
+   "noLabel": {
+    "id": "Pasal 80"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 80\nPada saat mulai berlakunya Undang-undang ini, semua peraturan pelaksanaan\nyang telah\nada mengenai Mahkamah Agung dinyatakan tetap berlaku selama\nketentuan baru berdasarkan Undang-undang ini\nbelum dikeluarkan dan\nsepanjang peraturan itu tidak bertentangan dengan Undang-undang ini.\nBAB VII\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H425-A81",
+   "no": 81,
+   "noLabel": {
+    "id": "Pasal 81"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 81\nPada saat mulai berlakunya Undang-undang ini, Undang-undang Nomor 13\nTahun 1965\ntentang Pengadilan Dalam Lingkungan Peradilan Umum dan\nMahkamah Agung sepanjang mengenai ketentuan tentang\nMahkamah Agung\ndinyatakan tidak berlaku."
+   }
+  },
+  {
+   "id": "ID-H425-A82",
+   "no": 82,
+   "noLabel": {
+    "id": "Pasal 82"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 82\nUndang-undang ini mulai berlaku pada tanggal diundangkan.\nAgar setiap\norang mengetahuinya, memerintahkan pengundangan Undang-\nundang ini dengan penempatannya dalam Lembaran\nNegara Republik\nIndonesia.\nDisahkan di Jakarta\npada tanggal 30 Desember 1985\nPRESIDEN REPUBLIK INDONESIA\nSOEHARTO\nDiundangkan di Jakarta\npada tanggal 30 Desember 1985\nMENTERI/SEKRETARIS NEGARA\nREPUBLIK INDONESIA\nSUDHARMONO, S.H.\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1985 NOMOR 73\nPENJELASAN\nATAS\nUNDANG-UNDANG REPUBLIK INDONESIA\nNOMOR 14 TAHUN 1985\nTENTANG\nMAHKAMAH AGUNG\nI. UMUM\n1. Salah satu unsur dalam tujuan pembangunan nasional yang diamanatkan Garis-garis\nBesar Haluan Negara\nadalah masyarakat adil dan makmur berdasarkan Pancasila dalam\nwadah negara kesatuan Republik Indonesia yang merdeka,\nberdaulat, bersatu, dan\nberkedaulatan rakyat dalam suasana perikehidupan bangsa yang sejahtera, aman,\ntenteram, dan tertib. Suasana perikehidupan tersebut di atas merupakan bagian dari\ngambaran terhadap tata kehidupan\nbangsa Indonesia yang dicita-citakan perwujudannya\nmelalui rangkaian upaya dan kegiatan pembangunan yang berlanjut\ndan\nberkesinambungan. Namun demikian pengalaman dalam kehidupan bernegara dan\nberbangsa sejak\nkemerdekaan menunjukkan, bahwa usaha untuk mewujudkan\nperikehidupan seperti itu sangat dipengaruhi oleh berbagai\nhal yang saling berkait satu\ndengan lainnya. Cita tentang keadilan, kebenaran, kepastian hukum, dan ketertiban\nsistem serta penyelenggaraan hukum merupakan hal yang mempengaruhi tumbuhnya\nsuasana perikehidupan\nsebagaimana dimaksudkan di atas. Masalahnya adalah, bahwa\nhal tersebut secara bersamaan merupakan pula tujuan kegiatan\npembangunan dibidang\nhukum dalam kerangka pelaksanaan pembangunan nasional. Dengan pemahaman\nseperti ini pula, maka salah satu pendekatan yang ingin dilakukan adalah kaitannya\ndengan penyelenggaraan\nkekuasaan kehakiman.\n2. Berdasarkan Ketetapan Majelis Permusyawaratan Rakyat Republik Indonesia Nomor\nIII/MPR/1978 tentang Kedudukan dan Hubungan Tata Kerja Lembaga Tertinggi Negara\ndengan/atau Antar Lembaga-lembaga Tinggi Negara dihubungkan dengan Undang-\nundang Nomor 14 Tahun 1970\ntentang Ketentuan-ketentuan Pokok Kekuasaan\nKehakiman, Mahkamah Agung diberi kekuasaan dan kewenangan untuk :\na. memeriksa dan memutus:\n1) permohonan kasasi;\n2) sengketa tentang kewenangan\nmengadili;\n3) permohonan peninjauan kembali putusan Pengadilan yang telah memperoleh\nkekuatan hukum tetap.\nb. memberikan pertimbangan dalam bidang hukum baik diminta maupun tidak, kepada\nLembaga Tinggi Negara;\nc. memberikan nasehat hukum kepada Presiden selaku Kepala Negara untuk\npemberian atau penolakan\ngrasi;\nd. menguji secara materiil hanya terhadap peraturan perundang-undangan di bawah\nundang-undang;\ne. melaksanakan tugas dan kewenangan lain berdasarkan Undang-undang.\nUntuk dapat menyelenggarakan\nkekuasaan dan kewenangan tersebut dengan\nsebaik-baiknya, Mahkamah Agung melaksanakan hal-hal sebagai berikut :\na. wewenang pengawasan meliputi :\n1) jalannya peradilan;\n2) pekerjaan\nPengadilan dan tingkah laku para Hakim di semua Lingkungan\nPeradilan;\n3) pengawasan\nyang dilakukan terhadap Penasihat Hukum dan Notaris\nsepanjang yang menyangkut peradilan;\n4) pemberian peringatan, tegoran, dan petunjuk yang diperlukan.\nb. meminta keterangan dan pertimbangan dari :\n1) Pengadilan di semua Lingkungan Peradilan;\n2) Jaksa Agung;\n3) Pejabat lain yang diserahi tugas penuntutan perkara pidana.\nc. membuat peraturan sebagai pelengkap untuk mengisi kekurangan atau\nkekosongan hukum yang\ndiperlukan bagi kelancaran jalannya peradilan.\nd. mengatur sendiri administrasinya baik mengenai administrasi peradilan maupun\nadministrasi\numum.\n3. Dalam Undang-undang Nomor 14 Tahun 1970 tentang Ketentuan-ketentuan Pokok\nKekuasaan Kehakiman ditegaskan\nbahwa :\na. Kekuasaan Kehakiman adalah kekuasaan negara yang merdeka untuk\nmenyelenggarakan peradilan guna\nmenegakkan hukum dan keadilan berdasarkan\nPancasila, demi terselenggaranya negara hukum Republik Indonesia;\nb. penyelenggara Kekuasaan Kehakiman adalah Pengadilan di lingkungan:\n- Peradilan Umum;\n- Peradilan Agama;\n- Peradilan Militer;\n- Peradilan Tata Usaha Negara.\nc. Mahkamah Agung adalah Pengadilan Tertinggi dan melakukan pengawasan tertinggi\natas perbuatan\nPengadilan.\nDengan memperhatikan kedudukan dan peranan Mahkamah Agung seperti tersebut di\natas, perlu diberikan pengaturan yang mantap, jelas, dan tegas kepada lembaga ini.\nSalah satu prinsip yang telah\ndiletakkan dalam Undang-undang Nomor 14 Tahun 1970,\nadalah bahwa peradilan harus memnuhi harapan para pencari\nkeadilan yang selalu\nmenghendaki peradilan yang sederhana, cepat, tepat, adil, dan biaya ringan. Seiring\ndengan prinsip tersebut di atas serta sebagai upaya untuk mewujudkan sistem peradilan\nyang lebih efektif dan efisien dalam penyelenggaraan kekuasaan kehakiman di negara\nhukum Republik Indonesia, maka\ndalam Undang-undang ini ditegaskan bahwa\nMahkamah Agung adalah Pengadilan Negara Tertinggi dari semua Lingkungan\nPeradilan.\n4. Untuk memperoleh Hakim Agung yang merdeka, berani mengambil keputusan dan\nbebas dari pengaruh, baik dari\ndalam maupun dari luar, diperlukan persyaratan\nsebagaimana diuraikan dalam Undang-undang ini. Pada dasarnya pengangkatan\nHakim\nAgung berdasarkan sistem karier dan tertutup.\nNamun demikian dalam hal-hal tertentu dapat pula\ndibuka kemungkinan untuk\nmengangkat Hakim Agung yang tidak didasarkan sistem karier. Untuk Hakim Agung\nyang didasarkan sistem karier berlaku ketentuan Pasal 11 Undang-undang Nomor 8\nTahun 1974 (Lembaran Negara Tahun\n1974 Nomor 55, Tambahan Lembaran Negara\nNomor 3041). Selanjutnya untuk dapat lebih menjamin terciptanya suasana yang\nsebaik-\nbaiknya bagi penyelenggaraan peradilan guna menegakkan hukum dan keadilan\nberdasarkan Pancasila,\nmaka perlu pula dibuat suatu undang- undang yang mengatur\npenindakan terhadap perbuatan, tingkah laku, sikap dan/atau\nucapan yang dapat\nmerendahkan dan merongrong kewibawaan, martabat, dan kehormatan badan peradilan\nyang\ndikenal sebagai \"Contempt of Court\".\n5. Mengenai bagaimana Mahkamah Agung akan dapat melaksanakan tugas tersebut,\nUndang-undang ini juga memberikan\nkepadanya keleluasaan untuk menetapkan sendiri\npembidangan tugas dalam susunan organisasinya sehingga dapat secara\ntuntas\nmenjangkau penyelesaian semua masalah yang berasal dari berbagai lingkungan\nperadilan.\nNamun begitu mengingat tugas tersebut sangat luas dan berat, maka untuk memberi\ndukungan administrasi yang\nsebaik-baiknya, dalam Undang-undang ini ditetapkan\nadanya Sekretaris Jenderal yang dirangkap oleh Panitera Mahkamah\nAgung.\nPerangkapan jabatan ini didasarkan pada pemikiran bahwa dengan demikian\npenyelenggaraan pelayanan\nadministrasi Mahkamah Agung secara keseluruhan dapat\ndilakukan dengan lebih efektif dan terpadu. Untuk itu, dalam\npelaksanaan tugas sehari-\nhari. Panitera Mahkamah Agung dibantu oleh Wakil Panitera Mahkamah Agung untuk\ntugas-tugas administrasi peradilan, dan Sekretaris Jenderal Mahkamah Agung dibantu\noleh Wakil Sekretaris Jenderal\nMahkamah Agung untuk tugas-tugas penyelenggaraan\nadministrasi umum, seperti pengurusan keuangan, kepegawaian, peralatan,\npemeliharaan, dan lain-lain.\nDengan pemisahan ini, maka panitera dapat lebih memusatkan perhatian-\nnya kepada\ntugas-tugas yang bersifat teknis peradilan, sedangkan pemberian dukungan administrasi\nyang\nmeliputi administrasi keuangan, kepegawaian peralatan, pemeliharaan, dan lain-\nlainnya diselenggarakan oleh Sekretariat\nJenderal.\nIII. PASAL DEMI PASAL\nPasal 1\nCukup jelas\nPasal 2\nCukup jelas\nPasal 3\nCukup jelas\nPasal 4\nCukup jelas\nPasal 5\nCukup jelas\nPasal 6\nCukup jelas\nPasal 7\nPada dasarnya pengangkatan Hakim Agung berdasarkan sistem karier dan tertutup.\nNamun demikian dalam\nhal-hal tertentu dapat pula dibuka kemungkinan untuk\nmengangkat Hakim Agung yang tidak didasarkan atas sistem karier.\nYang dimaksud dengan sarana lain yang mempunyai keahlian di bidang hukum\nsebagaimana dimaksudkan ayat\n(1) huruf e adalah mereka yang mempunyai keahlian\nseperti dibidang hukum pidana, hukum perdata, hukum agama, hukum\nmiliter, dan\nhukum tata usaha negara.\nPersyaratan seperti dimaksudkan ayat (1) kecuali huruf g berlaku\npula bagi\npengangkatan Hakim Agung berdasarkan ayat (2).\nPasal 8\nAyat (1)\nDaftar nama calon Hakim Agung.yang berasal baik dari kalangan Hakim karier\nmaupun dari luar kalangan Hakim karier disusun ber- dasarkan konsultasi antara\nDewan Perwaikilan\nRakyat, Pemerintah, dan Mahkamah Agung yang\npelaksanaannya disesuaikan dengan ketentuan yang berlaku bagi lembaga\nmasing-\nmasing.\nAyat (2)\nYang dimaksudkan dengan \"Pemerintah\" adalah Menteri\nyang bersangkutan.\nAyat (3)\nCukup jelas\nAyat (4)\nCukup\njelas\nAyat (5)\nCukup jelas\nPasal 9\nAyat (1)\nPada waktu pengambilan sumpah/janji diucapkan kata-kata tertentu sesuai dengan\nAgama masing-masing, misalnya untuk penganut Agama Islam kata-kata \"Demi\nAllah\" sebelum lafal\nsumpah dan untuk penganut Agama Kristen/Katolik kata-kata\n\"Kiranya Tuhan akan menolong saya\" sesudah lafal\nsumpah.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup\njelas\nPasal 10\nAyat (1)\nhuruf a\nCukup jelas\nhuruf b\nCukup jelas\nhuruf c\nCukup jelas\nhuruf d\nYang dimaksudkan dengan \"pengusaha\" ialah Hakim Agung yang misalnya\nmempunyai perusahaan, menjadi pemegang saham perseroan atau\nmengadakan usaha perdagangan\nlain.\nAyat (2)\nCukup jelas\nPasal 11\nAyat (1)\nYang dimaksudkan dengan Mahkamah Agung\" adalah Pimpinan Mahkamah Agung.\nPemberhentian dengan hormat para Hakim Agung atas permintaan sendiri,\nmencakup pengertian pengunduran\ndiri dengan alasan Hakim Agung yang\nbersangkutan tidak berhasil menegakkan hukum dalam lingkungan rumah tangganya\nsendiri. Pada hakekatnya situasi, kondisi, suasana dan keteraturan hidup di rumah\ntangga\nsetiap Hakim Agung merupakan salah satu faktor yang penting peranannya\ndalam usaha membantu meningkatkan citra\ndan wibawa seorang Hakim Agung dan\nini harus dimulai dari tertib kehidupan rumah tangga Hakim Agung itu sendiri.\nYang dimaksudkan dengan \"sakit jasmani atau rohani terus menerus\" ialah yang\nmenyebabkan\nsi penderita ternyata tidak mampu lagi melakukan tugas kewajibannya\ndengan baik.\nYang dimaksudkan\ndengan \"tidak cakap\" ialah misalnya yang bersangkutan banyak\nmelakukan kesalahan besar dalam menjalankan tugasnya.\nPemberhentian menurut Pasal ini diberitahukan kepada Dewan Perwakilan Rakyat.\nAyat (2)\nCukup jelas\nPasal 12\nAyat (1)\nYang dimaksudkan dengan '\"Mahkamah Agung\" adalah Pimpinan Mahkamah\nAgung.\nYang dimaksudkan dengan dipidana menurut Pasal 12 ayat (1) huruf a ialah\ndipidana\ndengan pidana penjara sekurang-kurangnya 3 (tiga) bulan.\nYang dimaksudkan dengan \"melakukan perbuatan\ntercela\" ialah apabila Hakim yang\nbersangkutan karena sikap, perbuatan, dan tindakannya baik di dalam maupun\ndi\nluar Pengadilan merendahkan martabat Hakim.\nYang dimaksudkan dengan \"tugas pekerjaannya\"\nialah semua tugas yang\ndibebankan kepada yang bersangkutan.\nAyat (2)\nDalam hal pemberhentian tidak dengan hormat dengan alasan dipidana karena\nmelakukan tindak\npidana kejahatan, yang bersangkutan tidak diberi kesempatan\nuntuk membela diri, kecuali apabila pidana\npenjara yang dijatuhkan kepadanya itu\nkurang dari 3 (tiga) bulan.\nAyat (3)\nYang dimaksudkan dengan Mahkamah Agung dalam ayat (1) dan ayat (3) dalam\npasal ini adalah Pimpinan\nMahkamah Agung.\nPasal 13\nAyat (1)\nYang dimaksudkan dengan \"Mahkamah Agung\" adalah Pimpinan Mahkamah Agung.\nAyat (2)\nPemberhentian sementara dari jabatan berdasarkan alasan tersebut Pasal 17 ayat\n(1) huruf b, huruf c, huruf d, dan huruf e paling lama 6 (enam) bulan dan dapat\ndiperpanjang untuk paling\nlama 6 (enam) bulan lagi.\nBila jangka waktu pemberhentian sementara yang terakhir telah habis dan yang\nbersangkutan tidak diusulkan untuk diberhentikan dengan tidak dengan hormat,\nmaka ia harus direhabilitasi.\nPasal 14\nCukup jelas\nPasal 15\nCukup jelas\nPasal 16\nAyat (1)\nCukup jelas\nAyat (2)\nYang dimaksudkan dengan hak\nkeuangan/administratif Ketua, Wakil Ketua, Ketua\nMuda, dan Hakim Anggota Mahkamah Agung ialah semua hak yang\ndiatur dalam\nUndang-undang Nomor 12 Tahun 1980. (Lembaran Negara Tahun 1980 Nomor 71,\nTambahan\nLembaran Negara Nomor 3182), sedangkan pangkat dan tunjangan-\ntunjangan yang berhubungan dengan kedudukannya\nsebagai pegawai negeri diatur\ntersendiri.\nPasal 17\nCukup jelas\nPasal 18\nCukup jelas\nPasal 19\nKeputusan Presiden yang dimaksudkan pasal ini ditetapkan atas usul Mahkamah Agung.\nPasal 20\nAyat (1)\nYang dimaksudkan dengan \"sarjana hukum\" dalam pasal ini termasuk sarjana lain di\nbidang hukum yang dianggap cakap untuk jabatan itu.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nPasal 21\nCukup jelas\nPasal 22\nBunyi sumpah atau janji Panitera Mahkamah Agung dan Wakil Panitera Mahkamah\nAgung pada dasarnya sebagaimana\ndimaksudkan pasal 29 Undang-undang Nomor 14\nTahun 1970 tentang Ketentuan-ketentuan Pokok Kekuasaan Kehakiman.\nPasal 23\nCukup jelas\nPasal 24\nBunyi sumpah atau janji Panitera Muda dan Panitera Pengganti Mahkamah Agung pada\ndasarnya sebagaimana\ndimaksudkan Pasal 29 Undang-undang Nomor 14 Tahun 1970\ntentang Ketentuan-ketentuan Pokok Kekuasaan Kehakiman.\nPasal 25\nCukup jelas\nPasal 26\nCukup jelas\nPasal 27\nCukup jelas\nPasal 28\nCukup jelas\nPasal 29\nCukup jelas\nPasal 30\nCukup jelas\nPasal 31\nAyat (1)\nPasal ini mengatur hak menguji materiil Mahkamah Agung. Mahkamah Agung\nberhak menguji peraturan yang lebih rendah daripada undang-undang mengenai sah\natau\ntidaknya suatu peraturan atau bertentangan tidaknya suatu peraturan dengan\nperaturan perundang-undangan yang\nlebih tinggi.\nAyat (2)\nApabila Mahkamah Agung menggunakan hak menguji berdasarkan pasal\nini, maka\nMahkamah Agung mengambil putusan bahwa suatu peraturan perundang-undangan\ndari tingkatan yang lebih rendah daripada Undang-undang bertentangan dengan\nperaturan perundang-\nundangan yang lebih tinggi dan Mahkamah Agung secara\ntegas menyatakan bahwa peraturan tersebut tidak\nsah dan tidak berlaku untuk\numum.\nAyat (3)\nCukup jelas\nPasal 32\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat\n(3)\nKewenangan untuk melaksanakan pengawasan oleh Mahkamah Agung dapat\ndidelegasikan kepada\nPengadilan Tingkat Banding.di semua Lingkungan Peradilan.\nAyat (4)\nCukup jelas\nAyat (5)\nCukup jelas\nPasal 33\nAyat (1)\nCukup jelas\nAyat (2)\nYang dimaksudkan dengan kapal\nialah kapal laut dan kapal udara.\nPasal 34\nCukup jelas\nPasal 35\nPemberian nasihat hukum yang dimaksudkan pasal ini dilaksanakan sesuai dengan\nUndang-undang Nomor 3\nTahun 1950 tentang Permohonan Grasi.\nPasal 36\nPada umumnya pembinaan dan pengawasan atas Penasihat Hukum dan Notaris adalah\ntanggungjawab Pemerintah.\nKhusus dalam menyelenggarakan tugas-tugasnya yang menyangkut peradilan, para\nPenasehat Hukum dan Notaris\nberada di bawah pengawasan Mahkamah Agung.\nDalam melakukan pengawasan itu Mahkamah Agung dan Pemerintah menghormati\ndan\nmenjaga kemandirian Penasihat Hukum dan Notaris dalam melaksanakan tugas jabatan\nDalam\nhal diperlukan penindakan terhadap diri seorang Penasihat Hukum atau seorang\nNotaris yang berupa pemecatan dan pemberhentian,\ntermasuk pemberhentian\nsementara, organisasi profesi masing-masing terlebih dahulu didengar pendapatnya.\nPasal 37\nCukup jelas\nPasal 38\nCukupjelas\nPasal 39\nYang dimaksud dengan \"tugas dan kewenangan lain\" dalam pasal ini misalnya arbitrase\ndan sebagainya.\nPasal 40\nAyat (1)\nApabila Majelis bersidang dengan lebih dari 3 (tiga) orang Hakim jumlahnya harus\nselalu ganjil.\nAyat (2)\nPutusan yang tidak memenuhi ketentuan ayat (1) dan ayat\n(2) pasal ini batal menurut\nhukum.\nPasal 41\nCukup jelas\nPasal 42\nCukup jelas\nPasal 43\nAyat (1)\nPengecualian dalam ayat (1) pasal ini diadakan karena adanya putusan Pengadilan\nTingkat Pertama yang oleh Undang-undang tidak dapat dimohonkan banding.\nAyat (2)\nCukup jelas\nPasal 44\nAyat (1)\nhuruf a\nCukup jelas\nhuruf b\nIstilah \"perkara pidana\" yang dimaksudkan huruf b pasal ini diartikan pula\nperkara pidana\nmiliter.\nAyat (2)\nCukup jelas\nPasal 45\nCukup jelas\nAyat (2)\nCukup jelas\nAyat\n(3)\nYang dimaksudkan dengan \"tidak boleh merugikan pihak yang berperkara\" tersebut\nayat (3) ialah tidak menunda pelaksanaan dan tidak mengubah putusan pengadilan\nyang telah\nmemperoleh kekuatan hukum tetap.\nPasal 46\nCukup jelas\nPasal 47\nAyat (1)\nMengajukan suatu memori kasasi yang memuat alasan-alasan permohonan kasasi\nadalah suatu syarat mutlak untuk dapat diterimanya permohonan kasasi. Memori ini\nharus dimasukkan\nselambat-lambatnya 14 (empat belas) hari sesudah mengajukan\npermohonan kasasi.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nPasal 48\nCukup jelas\nPasal 49\nCukup jelas\nPasal 50\nAyat (1)\nYang dimaksudkan dengan \"surat-surat\" meliputi pula berkas perkara dan surat-surat\nlainnya yang dipandang perlu.\nAyat (2)\nPada prinsipnya pemeriksaan kasasi\nseperti tersebut ayat (1) dilakukan berdasarkan\nnomor urut daftar pemeriksaan perkara.\nPasal 51\nCukup jelas\nPasal 52\nCukup jelas\nPasal 53\nAyat (1)\nSalinan putusan dikirim juga kepada Pengadilan yang memutuskan perkara tersebut\ndalam tingkat banding.\nAyat (2)\nCukup jelas\nPasal 54\nCukup jelas\nPasal 55\nCukup jelas\nPasal 56\nCukup jelas\nPasal 57\nCukup jelas\nPasal 58\nCukup jelas\nPasal 59\nCukup jelas\nPasal 60\nCukup jelas\nPasal 61\nCukup jelas\nPasal 62\nCukup jelas\nPasal 63\nCukup jelas\nPasal 64\nAyat (1)\nCukup jelas\nAyat (2)\nPenerapan ketentuan Pasal 58\nsampai dengan Pasal 63 di Lingkungan Peradilan\nMiliter disesuaikan seperlunya dengan ketentuan yang berlaku\nbagi Peradilan Militer.\nPasal 65\nAyat(1)\nCukup jelas\nAyat (2)\nPenerapan ketentuan Pasal 58\nsampai dengan Pasal 63 di Lingkungan Peradilan\nMiliter disesuaikan seperlunya dengan ketentuan yang berlaku\nbagi Peradilan Militer.\nPasal 66\nCukup jelas\nCukup jelas\nPasal 68\nCukup jelas\nPasal 69\nHuruf a\nHari dan tanggal diketahuinya kebohongan dan tipu muslihat itu harus dibuktikan\nsecara tertulis.\nHuruf b\nCukup jelas\nHuruf c\nCukup jelas\nHuruf d\nCukup jelas\nPasal 70\nCukup jelas\nPasal 71\nCukup jelas\nPasal 72\nCukup jelas\nPasal 73\nCukup jelas\nPasal 74\nCukup jelas\nPasal 75\nCukup jelas\nPasal 76\nCukup jelas\nPasal 77\nCukup jelas\nPasal 78\nCukup jelas\nPasal 79\nApabila dalam jalannya peradilan terdapat kekurangan atau kekosongan hukum dalam\nsuatu hal, Mahkamah\nAgung berwenang membuat peraturan sebagai pelengkap untuk\nmengisi kekurangan atau kekosongan tadi. Dengan Undang-undang\nini Mahkamah\nAgung berwenang menentukan pengaturan tentang cara penyelesaian suatu soal yang\nbelum\natau tidak diatur dalam Undang-undang ini.\nDalam hal ini peraturan yang dikeluarkan oleh Mahkamah Agung dibedakan\ndengan\nperaturan yang disusun oleh pembentuk Undang-undang. Penyelenggaraan peradilan\nyang dimaksudkan\nUndang-undang ini hanya merupakan bagian dari hukum acara\nsecara keseluruhan. Dengan demikian Mahkamah Agung tidak\nakan mencampuri dan\nmelampaui pengaturan tentang hak dan kewajiban warga negara pada umumnya dan\ntidak pula mengatur sifat, kekuatan, alat pembuktian serta penilaiannya atau- pun\npembagian beban pembuktian.\nPasal 80\nCukup jelas\nPasal 81\nCukup jelas\nPasal 82\nCukup jelas\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 3316"
+   }
+  }
+ ]
+}

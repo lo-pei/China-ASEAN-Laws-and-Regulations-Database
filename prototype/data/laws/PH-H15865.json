@@ -1,0 +1,72 @@
+{
+ "id": "PH-H15865",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Section Four of Act Numbered Twelve Hundred and Eighty-Five So as to Withdraw From Agents of the Society for the Prevention of Cruelty to Animals of the Philippines the Power and Authority to Make Arrests for VIolations of the Law Against Cruelty to Animals and for the Protection of Animals and to Abolish the Privelege Granted the Said Society to Share in the Amount of the Fines Collected for Such VIolations.",
+  "orig": "An Act to Amend Section Four of Act Numbered Twelve Hundred and Eighty-Five So as to Withdraw From Agents of the Society for the Prevention of Cruelty to Animals of the Philippines the Power and Authority to Make Arrests for VIolations of the Law Against Cruelty to Animals and for the Protection of Animals and to Abolish the Privelege Granted the Said Society to Share in the Amount of the Fines Collected for Such VIolations."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1936-11-08",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 148",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 834,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00148_1936_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00148_1936_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H15865-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section four of Act Numbered Twelve hundred and eighty-five as amended by act Numbered\nThirty five hundred and forty-eight, is hereby further amended so as to read as follows:\n\"Section 4. The said society is authorized to appoint not to exceed ten agents in the City of Manila and not to\nexceed one in each municipality of the Philippines who shall have the authority to denounce to regular peace\nofficers any violation of the laws enacted for the prevention of cruelty to animals and the protection of\nanimals and to cooperate with said peace officers in the prosecution of transgressors of such laws.\""
+   }
+  },
+  {
+   "id": "PH-H15865-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The full amount of the fines collected for violation of te laws against, shall accrue to the general\nfund of the municipality where the offense was committed."
+   }
+  },
+  {
+   "id": "PH-H15865-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, November 8, 1936."
+   }
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13286",
+ "title": {
+  "zh": null,
+  "en": "An Act Authorizing the Reimbursement to Municipalities of Customs Duties Paid on Material Used in the Construction of Municipal Waterworks and Sewer Systems.",
+  "orig": "An Act Authorizing the Reimbursement to Municipalities of Customs Duties Paid on Material Used in the Construction of Municipal Waterworks and Sewer Systems."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1916-02-23",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2634",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 709,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1916/act_2634_1916.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02634_1916_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02634_1916_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13286-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The Governor-General is hereby authorized, upon the presentation of a statement of the amount\npaid, duly certified as correct by the Insular Auditor and the Insular Collector of Customs, and approved by\nthe Secretary of Finance and Justice, in his discretion, to direct the reimbursement, from Insular funds, to any\nmunicipality in the Philippine Islands of the amount paid by such municipality from its own funds as customs\nduties on material used in the construction of municipal waterworks and sewer systems."
+   }
+  },
+  {
+   "id": "PH-H13286-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "There are hereby appropriated from any tunds in the Insular Treasury not otherwise appropriated\nthe sum or sums necessary to carry into effect the provisions of this Act.\nEnacted, February 23, 1916."
+   }
+  }
+ ]
+}

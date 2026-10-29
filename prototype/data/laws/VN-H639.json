@@ -1,0 +1,1226 @@
+{
+ "id": "VN-H639",
+ "title": {
+  "zh": "临时拘留、临时羁押与禁止离开居住地措施的执行法",
+  "en": "Law No. 128/2025/QH15 on execution of temporary detention, temporary custody and prohibition of departure from residence",
+  "vi": "Luật THI HÀNH TẠM GIỮ, TẠM GIAM VÀ CẤM ĐI KHỎI NƠI CƯ TRÚ số 128/2025/QH15",
+  "orig": "LUẬT\nTHI HÀNH TẠM GIỮ, TẠM GIAM VÀ CẤM ĐI KHỎI NƠI CƯ TRÚ SỐ 128/2025/QH15",
+  "th": "พระราชบัญญัติการบังคับใช้การควบคุมตัวชั่วคราว การคุมขังชั่วคราว และการห้ามออกจากถิ่นที่อยู่ เลขที่ 128/2025/QH15",
+  "id": "Undang-Undang Pelaksanaan Penahanan Sementara, Penahanan dan Larangan Meninggalkan Tempat Kediaman No. 128/2025/QH15",
+  "ms": "Akta Pelaksanaan Tahanan Sementara, Tahanan Reman dan Larangan Meninggalkan Tempat Kediaman No. 128/2025/QH15"
+ },
+ "country": "VN",
+ "countryName": "越南",
+ "layer": "intl",
+ "pack": "vn-p06",
+ "language": "vi",
+ "level": "law",
+ "category": "05_其他及未分类",
+ "status": "active",
+ "promulgatedDate": "2025",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "国会",
+ "docNumber": "128/2025/QH15",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 74,
+ "chars": 98877,
+ "source": {
+  "name": "越南法律数据库（vbpl.vn 官方公报文本）",
+  "url": "https://vbpl.vn/van-ban/chi-tiet/luat-thi-hanh-tam-giu-tam-giam-va-cam-di-khoi-noi-cu-tru-so-128-2025-qh15--186570"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\VN\\05_其他及未分类\\2025_128 2025 QH15_LUẬT THI HÀNH TẠM GIỮ, TẠM GIAM VÀ CẤM ĐI KHỎI NƠI CƯ TRÚ SỐ 128 2025 QH15.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 74 条；逐字未改写（源自 VN）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "VN-H639-A1",
+   "no": 1,
+   "noLabel": {
+    "vi": "Điều 1"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Phạm vi điều chỉnh"
+   },
+   "text": {
+    "vi": "Điều 1. Phạm vi điều chỉnh\n\nLuật này quy định về nguyên tắc, trình tự, thủ tục thi hành các biện pháp ngăn chặn trong tố tụng hình sự gồm tạm giữ, tạm giam, cấm đi khỏi nơi cư trú; tổ chức, nhiệm vụ, quyền hạn, mô hình của cơ quan quản lý, thi hành tạm giữ, tạm giam, cấm đi khỏi nơi cư trú; quyền, nghĩa vụ của người bị tạm giữ, người bị tạm giam, người bị cấm đi khỏi nơi cư trú; trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan trong thi hành biện pháp ngăn chặn tạm giữ, tạm giam, cấm đi khỏi nơi cư trú."
+   }
+  },
+  {
+   "id": "VN-H639-A2",
+   "no": 2,
+   "noLabel": {
+    "vi": "Điều 2"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Giải thích từ ngữ"
+   },
+   "text": {
+    "vi": "Điều 2. Giải thích từ ngữ\n\nTrong Luật này, các từ ngữ dưới đây được hiểu như sau:\n\n1. Người bị tạm giữ là người đang bị cơ sở giam giữ quản lý trong thời hạn tạm giữ, gia hạn tạm giữ theo quy định của Bộ luật Tố tụng hình sự.\n\n2. Người bị tạm giam là người đang bị cơ sở giam giữ quản lý trong thời hạn tạm giam, gia hạn tạm giam theo quy định của Bộ luật Tố tụng hình sự, bao gồm bị can; bị cáo; người bị tạm giam để thực hiện việc dẫn độ; người đang chờ chấp hành án phạt tù; người bị kết án tử hình đang chờ thi hành án.\n\n3. Người bị cấm đi khỏi nơi cư trú là người đang bị hạn chế quyền đi lại ngoài phạm vi địa bàn xã, phường, đặc khu nơi người đó cư trú hoặc phạm vi địa bàn đơn vị quân đội quản lý trong thời hạn theo quy định của Bộ luật Tố tụng hình sự nhằm bảo đảm sự có mặt của họ theo giấy triệu tập của cơ quan có thẩm quyền tố tụng, bao gồm bị can; bị cáo; người bị yêu cầu dẫn độ; người đang chờ chấp hành án phạt tù.\n\n4. Chế độ tạm giữ, tạm giam là chế độ quản lý giam giữ người bị tạm giữ, người bị tạm giam và chế độ ăn, ở, mặc, tư trang, chăm sóc y tế, sinh hoạt tinh thần, gửi, nhận thư, sách, báo và tài liệu, nhận quà, gặp người thân thích, người bào chữa, tiếp xúc lãnh sự, tiếp xúc với tổ chức nhân đạo của người bị tạm giữ, người bị tạm giam.\n\n5. Cơ sở giam giữ bao gồm trại tạm giam; phân trại tạm giam thuộc trại tạm giam; nhà tạm giữ; buồng tạm giữ của Đồn Biên phòng, Biên phòng cửa khẩu cảng, Vùng Cảnh sát biển, Công an đặc khu.\n\n6. Khu vực giam giữ là phạm vi khu vực có các công trình giam giữ và công trình phụ trợ phục vụ giam giữ.\n\n7. Trích xuất là việc đưa người bị tạm giữ, người bị tạm giam ra khỏi buồng giam giữ trong thời gian nhất định theo lệnh, quyết định của cơ quan, người có thẩm quyền để thực hiện các hoạt động tố tụng hình sự, khám bệnh, chữa bệnh, thăm gặp, tiếp xúc lãnh sự, phục vụ công tác giam giữ và thực hiện quyền, nghĩa vụ khác do luật định.\n\n8. Danh bản là bản ghi thông tin tóm tắt về lý lịch, nhân dạng, ảnh chụp 03 tư thế, in dấu vân tay 02 ngón tay trỏ của người bị tạm giữ, người bị tạm giam do cơ quan có thẩm quyền lập và lưu giữ.\n\n9. Chỉ bản là bản ghi thông tin tóm tắt về lý lịch và in dấu vân tay của tất cả các ngón tay, in bàn tay trái và in bàn tay phải của người bị tạm giữ, người bị tạm giam do cơ quan có thẩm quyền lập và lưu giữ.\n\n10. Người thân thích của người bị tạm giữ, người bị tạm giam (sau đây gọi là người thân thích) bao gồm vợ, chồng, bố đẻ, mẹ đẻ, bố chồng, mẹ chồng, bố vợ, mẹ vợ, bố nuôi, mẹ nuôi, con đẻ, con nuôi, con dâu, con rể; ông nội, bà nội, ông ngoại, bà ngoại, anh ruột, chị ruột, em ruột, cụ nội, cụ ngoại, bác ruột, chú ruột, cậu ruột, dì ruột, cô ruột, cháu ruột, chắt ruột của họ."
+   }
+  },
+  {
+   "id": "VN-H639-A3",
+   "no": 3,
+   "noLabel": {
+    "vi": "Điều 3"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Nguyên tắc quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú"
+   },
+   "text": {
+    "vi": "Điều 3. Nguyên tắc quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú\n\n1. Tuân thủ Hiến pháp và pháp luật; bảo đảm quyền con người, lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân.\n\n2. Bảo đảm thực hiện nghiêm lệnh, quyết định về tạm giữ, tạm giam và cấm đi khỏi nơi cư trú, trả tự do của cơ quan, người có thẩm quyền.\n\n3. Bảo đảm nhân đạo; không tra tấn, truy bức, dùng nhục hình hay bất kỳ hình thức đối xử nào khác xâm phạm tính mạng, sức khỏe, quyền và lợi ích hợp pháp của người bị tạm giữ, người bị tạm giam, người bị cấm đi khỏi nơi cư trú.\n\n4. Bảo đảm cho người bị tạm giữ, người bị tạm giam, người bị cấm đi khỏi nơi cư trú thực hiện quyền con người, quyền và nghĩa vụ của công dân nếu không bị hạn chế bởi Luật này và quy định khác của pháp luật có liên quan.\n\n5. Áp dụng các biện pháp quản lý giam giữ phải căn cứ vào tính chất, mức độ của hành vi phạm tội, độ tuổi, giới tính, sức khỏe; bảo đảm bình đẳng giới, quyền, lợi ích chính đáng của phụ nữ, người dưới 18 tuổi và các đặc điểm nhân thân khác của người bị tạm giữ, người bị tạm giam.\n\n6. Ứng dụng khoa học, công nghệ trong quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú."
+   }
+  },
+  {
+   "id": "VN-H639-A4",
+   "no": 4,
+   "noLabel": {
+    "vi": "Điều 4"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Trách nhiệm phối hợp của cơ quan, tổ chức, cá nhân trong quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú"
+   },
+   "text": {
+    "vi": "Điều 4. Trách nhiệm phối hợp của cơ quan, tổ chức, cá nhân trong quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú\n\nCơ quan, tổ chức, cá nhân trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm phối hợp và thực hiện yêu cầu của cơ quan có thẩm quyền theo quy định của Luật này trong quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú."
+   }
+  },
+  {
+   "id": "VN-H639-A5",
+   "no": 5,
+   "noLabel": {
+    "vi": "Điều 5"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Kiểm sát hoạt động quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú"
+   },
+   "text": {
+    "vi": "Điều 5. Kiểm sát hoạt động quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú\n\nViện kiểm sát kiểm sát việc tuân theo pháp luật của cơ quan, tổ chức, cá nhân có liên quan trong quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú theo quy định của Luật này, Luật Tổ chức Viện kiểm sát nhân dân, Bộ luật Tố tụng hình sự và quy định khác của pháp luật có liên quan."
+   }
+  },
+  {
+   "id": "VN-H639-A6",
+   "no": 6,
+   "noLabel": {
+    "vi": "Điều 6"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Giám sát hoạt động quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú"
+   },
+   "text": {
+    "vi": "Điều 6. Giám sát hoạt động quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú\n\nQuốc hội, Hội đồng nhân dân, Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận giám sát hoạt động của cơ quan quản lý, thi hành tạm giữ, tạm giam, cấm đi khỏi nơi cư trú và cơ quan, tổ chức, cá nhân khác có liên quan đến hoạt động tạm giữ, tạm giam, cấm đi khỏi nơi cư trú theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H639-A7",
+   "no": 7,
+   "noLabel": {
+    "vi": "Điều 7"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Những hành vi bị nghiêm cấm"
+   },
+   "text": {
+    "vi": "Điều 7. Những hành vi bị nghiêm cấm\n\n1. Tra tấn, truy bức, dùng nhục hình; các hình thức đối xử, trừng phạt tàn bạo, vô nhân đạo, hạ nhục con người hoặc bất kỳ hình thức nào khác xâm phạm quyền và lợi ích hợp pháp của người bị tạm giữ, người bị tạm giam, người bị cấm đi khỏi nơi cư trú.\n\n2. Không chấp hành hoặc thực hiện không đúng, không đầy đủ lệnh, quyết định của cơ quan, người có thẩm quyền về tạm giữ, tạm giam, trả tự do, cấm đi khỏi nơi cư trú.\n\n3. Giam giữ người trái pháp luật; trả tự do trái pháp luật người bị tạm giữ, người bị tạm giam; vi phạm quy định trong quản lý, canh gác, áp giải người bị tạm giữ, người bị tạm giam; cho người bị cấm đi khỏi nơi cư trú đi khỏi nơi cư trú trái pháp luật.\n\n4. Cản trở người bị tạm giữ, người bị tạm giam thực hiện quyền thăm gặp người thân thích, quyền bào chữa, được trợ giúp pháp lý, tiếp xúc lãnh sự, khiếu nại, tố cáo, quyền con người, quyền và nghĩa vụ khác của công dân theo quy định của Luật này và quy định khác của pháp luật có liên quan.\n\n5. Phá hủy cơ sở giam giữ, hủy hoại hoặc cố ý làm hư hỏng tài sản của cơ sở giam giữ; tổ chức trốn hoặc trốn khỏi nơi giam giữ; tổ chức trốn hoặc trốn khi đang bị áp giải hoặc đang bị cấm đi khỏi nơi cư trú; đánh tháo người bị tạm giữ, người bị tạm giam.\n\n6. Không chấp hành nội quy của cơ sở giam giữ, chế độ quản lý giam giữ hoặc quyết định, yêu cầu của cơ quan, người có thẩm quyền quản lý, thi hành tạm giữ, tạm giam, cấm đi khỏi nơi cư trú.\n\n7. Thực hiện hoặc tổ chức, kích động, xúi giục, lôi kéo, dụ dỗ, giúp sức, che giấu, ép buộc người khác vi phạm pháp luật về thi hành tạm giữ, tạm giam, cấm đi khỏi nơi cư trú; trả thù, xâm phạm tính mạng, sức khỏe, danh dự, nhân phẩm, tài sản của người khác trong thi hành tạm giữ, tạm giam, cấm đi khỏi nơi cư trú.\n\nChương II\n\nHỆ THỐNG TỔ CHỨC, NHIỆM VỤ, QUYỀN HẠN, MÔ HÌNH CỦA CƠ QUAN QUẢN LÝ, THI HÀNH TẠM GIỮ, TẠM GIAM VÀ CẤM ĐI KHỎI NƠI CƯ TRÚ"
+   }
+  },
+  {
+   "id": "VN-H639-A8",
+   "no": 8,
+   "noLabel": {
+    "vi": "Điều 8"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Hệ thống tổ chức cơ quan quản lý tạm giữ, tạm giam và cấm đi khỏi nơi cư trú"
+   },
+   "text": {
+    "vi": "Điều 8. Hệ thống tổ chức cơ quan quản lý tạm giữ, tạm giam và cấm đi khỏi nơi cư trú\n\n1. Hệ thống tổ chức cơ quan quản lý tạm giữ, tạm giam và cấm đi khỏi nơi cư trú trong Công an nhân dân gồm Cơ quan quản lý tạm giữ, tạm giam và cấm đi khỏi nơi cư trú Bộ Công an; Cơ quan quản lý tạm giữ, tạm giam và cấm đi khỏi nơi cư trú Công an cấp tỉnh.\n\n2. Hệ thống tổ chức cơ quan quản lý tạm giữ, tạm giam và cấm đi khỏi nơi cư trú trong Quân đội nhân dân gồm Cơ quan quản lý tạm giữ, tạm giam và cấm đi khỏi nơi cư trú Bộ Quốc phòng; Cơ quan quản lý tạm giữ, tạm giam và cấm đi khỏi nơi cư trú quân khu và tương đương (sau đây gọi là cấp quân khu); Ban chỉ huy Bộ đội Biên phòng; Bộ Tư lệnh Vùng Cảnh sát biển.\n\n3. Bộ trưởng Bộ Công an, Bộ trưởng Bộ Quốc phòng quy định cụ thể tổ chức bộ máy của cơ quan quản lý tạm giữ, tạm giam và cấm đi khỏi nơi cư trú."
+   }
+  },
+  {
+   "id": "VN-H639-A9",
+   "no": 9,
+   "noLabel": {
+    "vi": "Điều 9"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Hệ thống tổ chức cơ quan thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú"
+   },
+   "text": {
+    "vi": "Điều 9. Hệ thống tổ chức cơ quan thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú\n\n1. Cơ quan thi hành tạm giữ, tạm giam bao gồm:\n\na) Trại tạm giam, phân trại tạm giam thuộc trại tạm giam Bộ Công an;\n\nb) Trại tạm giam, phân trại tạm giam thuộc trại tạm giam Bộ Quốc phòng;\n\nc) Trại tạm giam, phân trại tạm giam thuộc trại tạm giam Công an cấp tỉnh; trại tạm giam thuộc cấp quân khu;\n\nd) Nhà tạm giữ thuộc Cơ quan điều tra hình sự khu vực trong Quân đội nhân dân;\n\nđ) Buồng tạm giữ của Công an đặc khu;\n\ne) Buồng tạm giữ của Đồn Biên phòng ở vùng sâu, vùng xa hoặc ở nơi xa các cơ sở giam giữ, của Biên phòng cửa khẩu cảng;\n\ng) Buồng tạm giữ của Vùng Cảnh sát biển.\n\n2. Ủy ban nhân dân cấp xã, Công an cấp xã, đơn vị quân đội được giao quản lý, theo dõi người bị cấm đi khỏi nơi cư trú là cơ quan, đơn vị được giao một số nhiệm vụ thi hành biện pháp ngăn chặn cấm đi khỏi nơi cư trú.\n\n3. Bộ trưởng Bộ Công an quyết định thành lập, giải thể cơ sở giam giữ, quy mô của cơ sở giam giữ; ban hành nội quy của cơ sở giam giữ trong Công an nhân dân. Bộ trưởng Bộ Quốc phòng quyết định thành lập, giải thể cơ sở giam giữ, quy mô của cơ sở giam giữ; ban hành nội quy của cơ sở giam giữ trong Quân đội nhân dân."
+   }
+  },
+  {
+   "id": "VN-H639-A10",
+   "no": 10,
+   "noLabel": {
+    "vi": "Điều 10"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Nhiệm vụ, quyền hạn của cơ quan quản lý tạm giữ, tạm giam và cấm đi khỏi nơi cư trú"
+   },
+   "text": {
+    "vi": "Điều 10. Nhiệm vụ, quyền hạn của cơ quan quản lý tạm giữ, tạm giam và cấm đi khỏi nơi cư trú\n\n1. Cơ quan quản lý tạm giữ, tạm giam và cấm đi khỏi nơi cư trú Bộ Công an, Bộ Quốc phòng có nhiệm vụ, quyền hạn sau đây:\n\na) Giúp Bộ trưởng Bộ Công an, Bộ trưởng Bộ Quốc phòng thực hiện quản lý nhà nước về tạm giữ, tạm giam và cấm đi khỏi nơi cư trú;\n\nb) Quyết định việc điều chuyển người bị tạm giữ, người bị tạm giam giữa các cơ sở giam giữ;\n\nc) Thực hiện nhiệm vụ, quyền hạn khác do Bộ trưởng Bộ Công an, Bộ trưởng Bộ Quốc phòng giao.\n\n2. Cơ quan quản lý tạm giữ, tạm giam và cấm đi khỏi nơi cư trú Công an cấp tỉnh, cấp quân khu có nhiệm vụ, quyền hạn sau đây:\n\na) Giúp Giám đốc Công an cấp tỉnh, Thủ trưởng cấp quân khu quản lý công tác thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú trên địa bàn;\n\nb) Quyết định việc điều chuyển người bị tạm giữ, người bị tạm giam giữa các cơ sở giam giữ trong phạm vi tỉnh, thành phố, quân khu và tương đương hoặc trong trường hợp khác theo quy định của Luật này;\n\nc) Thực hiện nhiệm vụ, quyền hạn khác do Bộ trưởng Bộ Công an, Bộ trưởng Bộ Quốc phòng giao.\n\n3. Ban chỉ huy Bộ đội Biên phòng có nhiệm vụ, quyền hạn chỉ đạo nghiệp vụ và kiểm tra công tác thi hành tạm giữ đối với buồng tạm giữ của Đồn Biên phòng, Biên phòng cửa khẩu cảng.\n\n4. Bộ Tư lệnh Vùng Cảnh sát biển có nhiệm vụ, quyền hạn chỉ đạo nghiệp vụ và kiểm tra công tác thi hành tạm giữ đối với buồng tạm giữ của Vùng Cảnh sát biển."
+   }
+  },
+  {
+   "id": "VN-H639-A11",
+   "no": 11,
+   "noLabel": {
+    "vi": "Điều 11"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Nhiệm vụ, quyền hạn của nhà tạm giữ, trại tạm giam"
+   },
+   "text": {
+    "vi": "Điều 11. Nhiệm vụ, quyền hạn của nhà tạm giữ, trại tạm giam\n\n1. Nhà tạm giữ, trại tạm giam có các nhiệm vụ, quyền hạn sau đây:\n\na) Tiếp nhận, lập hồ sơ, lập danh bản, chỉ bản của người bị tạm giữ, người bị tạm giam theo lệnh, quyết định của người có thẩm quyền được quy định trong Bộ luật Tố tụng hình sự hoặc người có quyết định điều chuyển theo quy định của Luật này;\n\nb) Thực hiện các biện pháp quản lý giam giữ người bị tạm giữ, người bị tạm giam;\n\nc) Áp dụng các biện pháp bảo vệ an toàn tính mạng, thân thể, tài sản, tôn trọng danh dự, nhân phẩm của người bị tạm giữ, người bị tạm giam;\n\nd) Bảo đảm cho người bị tạm giữ, người bị tạm giam thực hiện quyền, nghĩa vụ của mình theo quy định của Luật này và quy định khác của pháp luật có liên quan; giải quyết kiến nghị theo thẩm quyền hoặc chuyển kháng cáo, khiếu nại, tố cáo, yêu cầu, kiến nghị, đề nghị của người bị tạm giữ, người bị tạm giam đến cơ quan có thẩm quyền giải quyết;\n\nđ) Giao người bị tạm giữ, người bị tạm giam theo lệnh trích xuất, quyết định của người có thẩm quyền;\n\ne) Báo cáo cơ quan có thẩm quyền khi có căn cứ cho rằng lệnh, quyết định tạm giữ, tạm giam, trả tự do là trái pháp luật;\n\ng) Phối hợp với các cơ quan, tổ chức, cá nhân có liên quan trong điều tra, truy tố, xét xử, thi hành án;\n\nh) Thông báo bằng văn bản đến cơ quan đang thụ lý vụ án 01 ngày trước khi hết thời hạn tạm giữ, gia hạn tạm giữ, 05 ngày trước khi hết thời hạn tạm giam, 10 ngày trước khi hết thời hạn gia hạn tạm giam và yêu cầu cơ quan đang thụ lý vụ án giải quyết theo quy định của pháp luật; trường hợp hết thời hạn tạm giữ, thời hạn tạm giam, cơ quan đang thụ lý vụ án không giải quyết thì kiến nghị ngay Viện kiểm sát có thẩm quyền xử lý;\n\ni) Trả tự do cho người bị tạm giữ, người bị tạm giam theo quyết định của cơ quan, người có thẩm quyền;\n\nk) Thực hiện thống kê, báo cáo về thi hành tạm giữ, tạm giam; thực hiện các nhiệm vụ, quyền hạn khác do Bộ trưởng Bộ Công an, Bộ trưởng Bộ Quốc phòng giao.\n\n2. Trại tạm giam, phân trại tạm giam, ngoài nhiệm vụ, quyền hạn được quy định tại khoản 1 Điều này, còn có nhiệm vụ, quyền hạn tiếp nhận, quản lý giam giữ, giáo dục cải tạo phạm nhân và thực hiện các nhiệm vụ, quyền hạn khác theo quy định của pháp luật về thi hành án hình sự.\n\n3. Trưởng nhà tạm giữ, Giám thị trại tạm giam có nhiệm vụ, quyền hạn sau đây:\n\na) Trưởng nhà tạm giữ tổ chức thực hiện nhiệm vụ, quyền hạn của nhà tạm giữ theo quy định tại khoản 1 Điều này; Giám thị trại tạm giam tổ chức thực hiện nhiệm vụ, quyền hạn của trại tạm giam theo quy định tại khoản 1 và khoản 2 Điều này;\n\nb) Quyết định phân loại, tổ chức giam giữ người bị tạm giữ, người bị tạm giam;\n\nc) Quyết định kiểm tra, thu giữ, xử lý đồ vật thuộc danh mục đồ vật cấm đưa vào khu vực giam giữ;\n\nd) Ra lệnh trích xuất để khám bệnh, chữa bệnh và phục vụ công tác giam giữ; ra lệnh trích xuất hoặc quyết định cho gặp người thân thích, người bào chữa hoặc người đại diện hợp pháp để thực hiện một số quyền, nghĩa vụ do luật định;\n\nđ) Thực hiện lệnh trích xuất hoặc quyết định của cơ quan có thẩm quyền để người nước ngoài bị tạm giữ, bị tạm giam tiếp xúc lãnh sự, tiếp xúc với tổ chức nhân đạo;\n\ne) Tổ chức bảo vệ an toàn cơ sở giam giữ; bảo đảm vệ sinh môi trường; phòng, chống thiên tai, dịch bệnh; thông báo cho cơ quan y tế nơi gần nhất khi có dịch bệnh xảy ra để phối hợp dập tắt dịch bệnh.\n\n4. Phó Trưởng nhà tạm giữ, Phó Giám thị trại tạm giam, Trưởng phân trại tạm giam có trách nhiệm giúp Trưởng nhà tạm giữ, Giám thị trại tạm giam theo sự phân công hoặc ủy quyền của Trưởng nhà tạm giữ, Giám thị trại tạm giam và chịu trách nhiệm trong phạm vi nhiệm vụ, quyền hạn được giao.\n\n5. Trưởng nhà tạm giữ, Phó Trưởng nhà tạm giữ, Giám thị trại tạm giam, Phó Giám thị trại tạm giam, Trưởng phân trại tạm giam, người thi hành tạm giữ, tạm giam phải chịu trách nhiệm về hành vi, quyết định của mình trong việc chấp hành pháp luật về thi hành tạm giữ, tạm giam; nếu vi phạm thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật hoặc bị truy cứu trách nhiệm hình sự."
+   }
+  },
+  {
+   "id": "VN-H639-A12",
+   "no": 12,
+   "noLabel": {
+    "vi": "Điều 12"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Mô hình của nhà tạm giữ, trại tạm giam"
+   },
+   "text": {
+    "vi": "Điều 12. Mô hình của nhà tạm giữ, trại tạm giam\n\n 1. Nhà tạm giữ có buồng tạm giữ, buồng tạm giam, buồng kỷ luật; có các công trình phục vụ việc quản lý giam giữ, hoạt động tố tụng hình sự. Tùy quy mô giam giữ, nhà tạm giữ có thể có các công trình phục vụ sinh hoạt, chăm sóc y tế, giáo dục người bị tạm giữ, người bị tạm giam; có các công trình làm việc, sinh hoạt của sĩ quan, quân nhân chuyên nghiệp, hạ sĩ quan, chiến sĩ, công nhân, viên chức công tác tại nhà tạm giữ.\n\n 2. Trại tạm giam có phân trại tạm giam, khu giam giữ, buồng tạm giam, buồng tạm giữ, buồng giam người đang chờ chấp hành án phạt tù, buồng giam người bị kết án tử hình đang chờ thi hành án, buồng kỷ luật, buồng giam phạm nhân được trích xuất, phân trại quản lý phạm nhân; phòng là điểm cầu thành phần để phục vụ xét xử trực tuyến; trung tâm chỉ huy điều hành phục vụ việc kiểm tra, giám sát, phân tích hình ảnh, cập nhật, lưu trữ, truyền dẫn và khai thác thông tin, dữ liệu; các công trình khác phục vụ việc quản lý giam giữ, hoạt động tố tụng, thi hành án, sinh hoạt, chăm sóc y tế, giáo dục người bị tạm giữ, người bị tạm giam, người chấp hành án phạt tù; các công trình làm việc, sinh hoạt của sĩ quan, quân nhân chuyên nghiệp, hạ sĩ quan, chiến sĩ, công nhân, viên chức công tác tại trại tạm giam.\n\n3. Bộ trưởng Bộ Công an quy định về quy chuẩn kỹ thuật trong thiết kế, xây dựng cơ sở giam giữ và các tiêu chuẩn ứng dụng khoa học, công nghệ trong quản lý cơ sở giam giữ trong Công an nhân dân bảo đảm an ninh, an toàn. Bộ trưởng Bộ Quốc phòng quy định về quy chuẩn kỹ thuật trong thiết kế, xây dựng cơ sở giam giữ và các tiêu chuẩn ứng dụng khoa học, công nghệ trong quản lý cơ sở giam giữ trong Quân đội nhân dân bảo đảm an ninh, an toàn."
+   }
+  },
+  {
+   "id": "VN-H639-A13",
+   "no": 13,
+   "noLabel": {
+    "vi": "Điều 13"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Buồng tạm giữ"
+   },
+   "text": {
+    "vi": "Điều 13. Buồng tạm giữ\n\n1. Công an đặc khu được tổ chức buồng tạm giữ để quản lý, thực hiện chế độ tạm giữ đối với người bị tạm giữ theo quyết định của Trưởng Công an đặc khu hoặc Phó trưởng Công an đặc khu là Điều tra viên trung cấp, Điều tra viên cao cấp hoặc của người có thẩm quyền khác theo quy định của Bộ luật Tố tụng hình sự.\n\n2. Đồn Biên phòng đóng ở vùng sâu, vùng xa hoặc ở nơi xa các cơ sở giam giữ, Biên phòng cửa khẩu cảng được tổ chức buồng tạm giữ để quản lý, thực hiện chế độ tạm giữ đối với người bị tạm giữ theo quyết định của Đồn trưởng Đồn Biên phòng, Chỉ huy trưởng Biên phòng cửa khẩu cảng hoặc của người có thẩm quyền khác theo quy định của Bộ luật Tố tụng hình sự.\n\n3. Vùng Cảnh sát biển được tổ chức buồng tạm giữ để quản lý, thực hiện chế độ tạm giữ đối với người bị tạm giữ theo quyết định của Tư lệnh Vùng Cảnh sát biển hoặc của người có thẩm quyền khác theo quy định của Bộ luật Tố tụng hình sự.\n\n4. Buồng tạm giữ của Công an đặc khu, Đồn Biên phòng, Biên phòng cửa khẩu cảng, Vùng Cảnh sát biển có Trưởng buồng tạm giữ và chịu sự quản lý trực tiếp của Trưởng Công an đặc khu, Đồn trưởng Đồn Biên phòng, Chỉ huy trưởng Biên phòng cửa khẩu cảng, Tư lệnh Vùng Cảnh sát biển. Trưởng buồng tạm giữ có các nhiệm vụ, quyền hạn trong quản lý người bị tạm giữ như Trưởng nhà tạm giữ theo quy định tại khoản 3 Điều 11 của Luật này.\n\nChương III\n\n CHẾ ĐỘ QUẢN LÝ GIAM GIỮ"
+   }
+  },
+  {
+   "id": "VN-H639-A14",
+   "no": 14,
+   "noLabel": {
+    "vi": "Điều 14"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Tiếp nhận người bị tạm giữ, người bị tạm giam"
+   },
+   "text": {
+    "vi": "Điều 14. Tiếp nhận người bị tạm giữ, người bị tạm giam\n\n1. Ngay khi tiếp nhận người bị tạm giữ, người bị tạm giam, cơ sở giam giữ có trách nhiệm tổ chức thực hiện các công việc sau đây:\n\n a) Tiến hành kiểm tra thông tin để xác định đúng người bị tạm giữ, người bị tạm giam theo lệnh, quyết định của người có thẩm quyền; tổ chức khám sức khỏe, kiểm tra thân thể của người bị tạm giữ, người bị tạm giam và trẻ em dưới 36 tháng tuổi đi theo (nếu có); nếu chưa tổ chức khám sức khỏe ngay thì phải ghi nhận tình trạng sức khỏe của họ, có chữ ký hoặc điểm chỉ của người bị tạm giữ, người bị tạm giam, có xác nhận của bên bàn giao và trong thời hạn 48 giờ kể từ khi tiếp nhận phải tổ chức khám sức khỏe cho họ. Việc kiểm tra thân thể nam giới do cán bộ nam thực hiện, nữ giới do cán bộ nữ thực hiện; trường hợp chưa xác định được giới tính của người bị tạm giữ, người bị tạm giam thì việc kiểm tra thân thể do cán bộ y tế thực hiện. Việc kiểm tra thân thể được tiến hành ở nơi kín đáo;\n\nb) Lập biên bản giao nhận người bị tạm giữ, người bị tạm giam, tài liệu, hồ sơ kèm theo, vào sổ theo dõi;\n\nc) Phổ biến, hướng dẫn, giải thích quyền, nghĩa vụ của người bị tạm giữ, người bị tạm giam và nội quy của cơ sở giam giữ; kiểm tra và xử lý đồ vật người bị tạm giữ, người bị tạm giam mang theo trước khi đưa vào buồng tạm giam, buồng tạm giữ.\n\n2. Ngoài việc thực hiện ngay các công việc quy định tại khoản 1 Điều này, cơ sở giam giữ còn phải thực hiện các công việc sau đây:\n\na) Lập danh bản, chỉ bản và cập nhật, lưu trữ thông tin về người bị tạm giữ, người bị tạm giam trong thời hạn 48 giờ kể từ khi tiếp nhận người bị tạm giữ, người bị tạm giam;\n\nb) Thu thập sinh trắc học gồm mống mắt, ADN, giọng nói đối với người bị tạm giữ, người bị tạm giam trong trường hợp chưa có thông tin trong Cơ sở dữ liệu căn cước. Thông tin thu thập được được chia sẻ cho cơ quan quản lý căn cước để cập nhật, điều chỉnh vào Cơ sở dữ liệu căn cước.\n\n3. Trường hợp người đã có lệnh, quyết định tạm giữ, tạm giam bị thương tích, bệnh nặng cần phải điều trị, cứu chữa tại cơ sở khám bệnh, chữa bệnh, nếu đưa đến cơ sở giam giữ để bàn giao sẽ ảnh hưởng nghiêm trọng đến sức khỏe hoặc đe dọa đến tính mạng của họ thì cơ quan đang thụ lý vụ án phải áp giải ngay người đó đến cơ sở khám bệnh, chữa bệnh để điều trị, cứu chữa và phối hợp với cơ sở giam giữ, cơ sở khám bệnh, chữa bệnh tổ chức bàn giao, tiếp nhận và quản lý theo quy định."
+   }
+  },
+  {
+   "id": "VN-H639-A15",
+   "no": 15,
+   "noLabel": {
+    "vi": "Điều 15"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Hồ sơ quản lý tạm giữ, tạm giam"
+   },
+   "text": {
+    "vi": "Điều 15. Hồ sơ quản lý tạm giữ, tạm giam\n\n1. Hồ sơ quản lý tạm giữ, tạm giam bao gồm:\n\na) Các lệnh, quyết định, biên bản về việc bắt, tạm giữ, tạm giam, gia hạn tạm giữ, gia hạn tạm giam, truy nã, trả tự do, trích xuất, điều chuyển; các quyết định phê chuẩn của Viện kiểm sát;\n\nb) Biên bản giao nhận người bị tạm giữ, người bị tạm giam, tài liệu, hồ sơ kèm theo; biên bản giao nhận tiền, tài sản khác của người bị tạm giữ, người bị tạm giam gửi lưu ký hoặc giao cho người thân thích, người đại diện hợp pháp của họ quản lý; quyết định, biên bản hủy đồ vật thuộc danh mục đồ vật cấm đưa vào khu vực giam giữ;\n\nc) Danh bản, chỉ bản, lý lịch và tài liệu về nhân thân; kết quả thu thập sinh trắc học đối với người bị tạm giữ, người bị tạm giam; tài liệu liên quan đến việc chấp hành các quy định về giam giữ; biên bản, quyết định kỷ luật về việc vi phạm nội quy của cơ sở giam giữ, chế độ quản lý giam giữ, pháp luật về thi hành tạm giữ, tạm giam; tài liệu về sức khỏe, khám bệnh, chữa bệnh; tài liệu liên quan đến việc thực hiện quyền, nghĩa vụ của người bị tạm giữ, người bị tạm giam trong thời gian bị giam giữ; tài liệu liên quan đến việc giải quyết chuyển kháng cáo, khiếu nại, tố cáo, yêu cầu, kiến nghị, đề nghị của người bị tạm giữ, người bị tạm giam; tài liệu về thăm gặp, tiếp xúc lãnh sự, tiếp xúc với tổ chức nhân đạo;\n\nd) Quyết định của cơ quan có thẩm quyền đưa người bị kết án phạt tù đến nơi chấp hành án; quyết định của Hội đồng thi hành án tử hình đưa người bị kết án tử hình đi thi hành án tử hình;\n\nđ) Tài liệu khác có liên quan (nếu có).\n\n2. Đối với người bị tạm giam mà trước đó đã bị tạm giữ thì hồ sơ tạm giam còn bao gồm các tài liệu trong hồ sơ tạm giữ.\n\n3. Bộ trưởng Bộ Công an, Bộ trưởng Bộ Quốc phòng quy định chế độ quản lý, lưu trữ, khai thác, sử dụng hồ sơ quản lý tạm giữ, tạm giam."
+   }
+  },
+  {
+   "id": "VN-H639-A16",
+   "no": 16,
+   "noLabel": {
+    "vi": "Điều 16"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Phân loại và quản lý giam giữ"
+   },
+   "text": {
+    "vi": "Điều 16. Phân loại và quản lý giam giữ\n\n1. Phân loại và bố trí giam giữ:\n\na) Người bị tạm giữ;\n\nb) Người bị tạm giam;\n\nc) Người dưới 18 tuổi;\n\nd) Phụ nữ;\n\nđ) Người nước ngoài;\n\ne) Người mắc bệnh truyền nhiễm nhóm A;\n\ng) Người thực hiện hành vi phạm tội đặc biệt nghiêm trọng; tái phạm nguy hiểm;\n\nh) Người phạm tội xâm phạm an ninh quốc gia;\n\ni) Người bị kết án tử hình;\n\nk) Người đang chờ chấp hành án phạt tù;\n\nl) Người thường xuyên vi phạm nội quy của cơ sở giam giữ;\n\nm) Người có dấu hiệu mắc bệnh tâm thần hoặc một bệnh khác làm mất khả năng nhận thức hoặc khả năng điều khiển hành vi của mình nhưng chưa được giám định, đang chờ kết quả giám định hoặc đang chờ đưa đi cơ sở bắt buộc chữa bệnh;\n\nn) Phạm nhân phục vụ việc tạm giữ, tạm giam;\n\no) Phạm nhân được trích xuất để phục vụ công tác đấu tranh phòng, chống tội phạm, điều tra, truy tố, xét xử, thi hành án.\n\n2. Không giam giữ chung buồng những người trong cùng một vụ án đang trong giai đoạn điều tra, truy tố, xét xử.\n\n3. Trường hợp đặc biệt, do điều kiện thực tế mà cơ sở giam giữ không thể đáp ứng được yêu cầu giam giữ riêng hoặc để bảo đảm yêu cầu điều tra, truy tố, xét xử, bảo đảm an toàn cho người bị tạm giữ, người bị tạm giam, phạm nhân thì Thủ trưởng cơ sở giam giữ phối hợp với cơ quan đang thụ lý vụ án quyết định bằng văn bản những người được giam giữ chung. Việc giam giữ chung người dưới 18 tuổi với người từ đủ 18 tuổi trở lên chỉ trong trường hợp để bảo đảm an toàn cho người bị tạm giữ, người bị tạm giam là người dưới 18 tuổi.\n\n4. Người bị tạm giữ, người bị tạm giam sau đây có thể được bố trí giam giữ ở buồng riêng:\n\na) Người đồng tính, người chuyển giới hoặc trường hợp vì lý do giới tính khác;\n\nb) Người quy định tại các điểm e, i và m khoản 1 Điều này;\n\nc) Phụ nữ có thai hoặc có con dưới 36 tháng tuổi ở cùng.\n\n5. Trường hợp vì lý do bất khả kháng thì Thủ trưởng cơ sở giam giữ quyết định bố trí giam giữ và phải bảo đảm không để thông cung, gây khó khăn cho hoạt động điều tra, truy tố, xét xử."
+   }
+  },
+  {
+   "id": "VN-H639-A17",
+   "no": 17,
+   "noLabel": {
+    "vi": "Điều 17"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Quyền và nghĩa vụ của người bị tạm giữ, người bị tạm giam"
+   },
+   "text": {
+    "vi": "Điều 17. Quyền và nghĩa vụ của người bị tạm giữ, người bị tạm giam\n\n1. Người bị tạm giữ, người bị tạm giam có các quyền sau đây:\n\na) Được bảo vệ an toàn tính mạng, thân thể, tài sản, tôn trọng danh dự, nhân phẩm; được phổ biến các quyền và nghĩa vụ của mình, nội quy của cơ sở giam giữ;\n\nb) Được thực hiện quyền bầu cử theo quy định của Luật Bầu cử đại biểu Quốc hội và đại biểu Hội đồng nhân dân, quyền bỏ phiếu trưng cầu ý dân theo quy định của Luật Trưng cầu ý dân;\n\nc) Được bảo đảm chế độ ăn, ở, mặc, đồ dùng sinh hoạt cá nhân, chăm sóc y tế, sinh hoạt tinh thần, gửi, nhận thư, sách, báo và tài liệu, nhận quà;\n\nd) Được gặp người thân thích, người bào chữa, tiếp xúc lãnh sự, tiếp xúc với tổ chức nhân đạo;\n\nđ) Được hướng dẫn, giải thích và bảo đảm thực hiện quyền tự bào chữa, nhờ người bào chữa, được trợ giúp pháp lý;\n\ne) Được gặp người đại diện hợp pháp để thực hiện giao dịch dân sự hoặc thực hiện giao dịch dân sự đối với những trường hợp người bị tạm giữ, người bị tạm giam không được ủy quyền cho người khác khi được sự đồng ý của cơ quan đang thụ lý vụ án;\n\ng) Được trả tự do khi hết thời hạn tạm giữ, thời hạn tạm giam;\n\nh) Được khiếu nại, tố cáo hành vi vi phạm pháp luật;\n\ni) Được bồi thường thiệt hại theo quy định của Luật Trách nhiệm bồi thường của Nhà nước nếu bị giam, giữ trái pháp luật;\n\nk) Được hưởng các quyền khác của công dân nếu không bị hạn chế bởi Luật này và quy định khác của pháp luật có liên quan, trừ trường hợp các quyền đó không thể thực hiện được do họ đang bị tạm giữ, tạm giam.\n\n2. Người bị tạm giữ, người bị tạm giam có các nghĩa vụ sau đây:\n\na) Chấp hành quyết định, yêu cầu, hướng dẫn của cơ quan, người có thẩm quyền quản lý, thi hành tạm giữ, tạm giam;\n\nb) Chấp hành nội quy của cơ sở giam giữ, quy định của Luật này và quy định khác của pháp luật có liên quan."
+   }
+  },
+  {
+   "id": "VN-H639-A18",
+   "no": 18,
+   "noLabel": {
+    "vi": "Điều 18"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Chế độ quản lý đối với người bị tạm giữ, người bị tạm giam"
+   },
+   "text": {
+    "vi": "Điều 18. Chế độ quản lý đối với người bị tạm giữ, người bị tạm giam\n\n1. Cơ sở giam giữ phải được canh gác, bảo vệ, quản lý, kiểm tra, giám sát 24/24 giờ trong ngày.\n\n2. Người bị tạm giữ phải ở trong buồng tạm giữ; người bị tạm giam phải ở trong buồng tạm giam. Khi có lệnh, quyết định của Thủ trưởng cơ sở giam giữ thì mới được ra khỏi buồng giam giữ để thực hiện lệnh trích xuất và các hoạt động khác theo quy định tại khoản 6 và khoản 7 Điều 20 của Luật này và nội quy của cơ sở giam giữ.\n\n3. Người bị tạm giữ, người bị tạm giam bị hạn chế quyền đi lại, giao dịch, tiếp xúc, thông tin, liên lạc, tuyên truyền tín ngưỡng, tôn giáo. Trường hợp cần thiết thực hiện quyền quy định tại điểm e khoản 1 Điều 17 của Luật này thì phải được sự đồng ý của cơ quan đang thụ lý vụ án."
+   }
+  },
+  {
+   "id": "VN-H639-A19",
+   "no": 19,
+   "noLabel": {
+    "vi": "Điều 19"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Thực hiện điều chuyển người bị tạm giữ, người bị tạm giam"
+   },
+   "text": {
+    "vi": "Điều 19. Thực hiện điều chuyển người bị tạm giữ, người bị tạm giam\n\n1. Việc điều chuyển người bị tạm giữ, người bị tạm giam giữa các cơ sở giam giữ do Thủ trưởng cơ quan quản lý tạm giữ, tạm giam và cấm đi khỏi nơi cư trú quyết định sau khi thống nhất với Thủ trưởng cơ quan đang thụ lý vụ án và thông báo cho Viện kiểm sát có thẩm quyền biết. Việc điều chuyển được thực hiện trong thời hạn tạm giữ, tạm giam nhưng không quá 07 ngày kể từ khi có quyết định điều chuyển.\n\n2. Thẩm quyền điều chuyển người bị tạm giữ, người bị tạm giam được thực hiện theo quy định tại Điều 10 của Luật này và các quy định sau đây:\n\na) Việc điều chuyển giữa các cơ sở giam giữ thuộc cùng một tỉnh, thành phố, quân khu và tương đương do Thủ trưởng cơ quan quản lý tạm giữ, tạm giam và cấm đi khỏi nơi cư trú cấp tỉnh, cấp quân khu quyết định;\n\nb) Việc điều chuyển giữa các cơ sở giam giữ không thuộc cùng một tỉnh, thành phố, quân khu và tương đương do Thủ trưởng cơ quan quản lý tạm giữ, tạm giam và cấm đi khỏi nơi cư trú cấp tỉnh, cấp quân khu nơi chuyển đi quyết định sau khi thống nhất với Thủ trưởng cơ quan quản lý tạm giữ, tạm giam và cấm đi khỏi nơi cư trú cấp tỉnh, cấp quân khu nơi nhận;\n\nc) Việc điều chuyển giữa cơ sở giam giữ thuộc Công an cấp tỉnh, cấp quân khu với cơ sở giam giữ thuộc Bộ Công an, Bộ Quốc phòng do Thủ trưởng cơ quan quản lý tạm giữ, tạm giam và cấm đi khỏi nơi cư trú Bộ Công an, Bộ Quốc phòng quyết định;\n\nd) Việc điều chuyển giữa các trại tạm giam thuộc Bộ Công an, Bộ Quốc phòng do Thủ trưởng cơ quan quản lý tạm giữ, tạm giam và cấm đi khỏi nơi cư trú Bộ Công an, Bộ Quốc phòng quyết định;\n\nđ) Việc điều chuyển giữa cơ sở giam giữ trong Công an nhân dân với cơ sở giam giữ trong Quân đội nhân dân do Thủ trưởng cơ quan quản lý tạm giữ, tạm giam và cấm đi khỏi nơi cư trú nơi chuyển đi quyết định sau khi thống nhất với Thủ trưởng cơ quan quản lý tạm giữ, tạm giam và cấm đi khỏi nơi cư trú nơi nhận;\n\ne) Việc điều chuyển người bị tạm giữ từ buồng tạm giữ của Đồn Biên phòng, Biên phòng cửa khẩu cảng đến cơ sở giam giữ trong Công an nhân dân do Ban chỉ huy Bộ đội Biên phòng quyết định sau khi thống nhất với Thủ trưởng cơ quan quản lý tạm giữ, tạm giam và cấm đi khỏi nơi cư trú nơi nhận;\n\ng) Việc điều chuyển người bị tạm giữ từ buồng tạm giữ của Vùng Cảnh sát biển đến cơ sở giam giữ trong Công an nhân dân do Tư lệnh Vùng Cảnh sát biển quyết định sau khi thống nhất với Thủ trưởng cơ quan quản lý tạm giữ, tạm giam và cấm đi khỏi nơi cư trú nơi nhận;\n\nh) Cơ quan quản lý tạm giữ, tạm giam và cấm đi khỏi nơi cư trú Bộ Công an, Bộ Quốc phòng quyết định điều chuyển người bị tạm giữ, người bị tạm giam theo quy định tại điểm b khoản 1 Điều 10 của Luật này."
+   }
+  },
+  {
+   "id": "VN-H639-A20",
+   "no": 20,
+   "noLabel": {
+    "vi": "Điều 20"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Thực hiện trích xuất người bị tạm giữ, người bị tạm giam"
+   },
+   "text": {
+    "vi": "Điều 20. Thực hiện trích xuất người bị tạm giữ, người bị tạm giam\n\n1. Việc trích xuất người bị tạm giữ, người bị tạm giam chỉ được thực hiện khi có lệnh trích xuất của người có thẩm quyền theo quy định của Luật này và quy định khác của pháp luật có liên quan trong trường hợp sau đây:\n\na) Để phục vụ cho hoạt động giải quyết nguồn tin về tội phạm, khởi tố, điều tra, truy tố, xét xử, thi hành án, công tác giam giữ;\n\nb) Đưa đi khám bệnh, chữa bệnh, giám định pháp y, giám định pháp y tâm thần;\n\nc) Gặp người thân thích, người bào chữa hoặc người đại diện hợp pháp để thực hiện một số quyền, nghĩa vụ do luật định;\n\nd) Người nước ngoài bị tạm giữ, bị tạm giam tiếp xúc lãnh sự hoặc tiếp xúc với các tổ chức nhân đạo theo quy định tại điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên hoặc theo sự thỏa thuận giữa nước Cộng hòa xã hội chủ nghĩa Việt Nam với nước có liên quan hoặc vì lý do đối ngoại đối với từng trường hợp cụ thể.\n\n2. Trường hợp Thủ trưởng cơ sở giam giữ trích xuất người bị tạm giữ, người bị tạm giam đi khám bệnh, chữa bệnh thì phải thông báo ngay cho cơ quan đang thụ lý vụ án và Viện kiểm sát có thẩm quyền. Thủ trưởng cơ sở giam giữ quyết định trích xuất người bị tạm giữ, người bị tạm giam thực hiện giao dịch dân sự đối với những trường hợp người bị tạm giữ, người bị tạm giam không được ủy quyền cho người khác sau khi được sự đồng ý của cơ quan đang thụ lý vụ án và thông báo cho Viện kiểm sát có thẩm quyền.\n\n3. Lệnh trích xuất phải có các nội dung chủ yếu sau đây:\n\na) Cơ quan, họ tên, chức vụ, cấp bậc của người ra lệnh;\n\nb) Họ tên, năm sinh, số định danh cá nhân (nếu có) hoặc số hộ chiếu (nếu có), quốc tịch, nơi cư trú, hành vi vi phạm pháp luật, ngày bị tạm giữ, ngày bị tạm giam của người được trích xuất;\n\nc) Mục đích và thời hạn trích xuất;\n\nd) Họ tên, chức vụ, cấp bậc, cơ quan của người có nhiệm vụ áp giải người được trích xuất hoặc cơ quan có nhiệm vụ áp giải;\n\nđ) Họ tên, chức vụ, cấp bậc (nếu có) của người nhận trích xuất của cơ quan có thẩm quyền ra lệnh trích xuất;\n\ne) Ngày, tháng, năm ra lệnh; chữ ký của người ra lệnh có đóng dấu.\n\n4. Cơ sở giam giữ có trách nhiệm kiểm tra, bàn giao người bị tạm giữ, người bị tạm giam cho cơ quan, người có nhiệm vụ áp giải. Cơ quan, người có nhiệm vụ áp giải có trách nhiệm bàn giao người được trích xuất cho người có thẩm quyền ra lệnh trích xuất. Việc giao nhận phải được lập biên bản, có ghi rõ tình trạng sức khỏe của người đó và ghi sổ theo dõi.\n\n5. Việc áp giải, quản lý và kinh phí bảo đảm thực hiện chế độ ăn, ở, sinh hoạt đối với người được trích xuất được thực hiện như sau:\n\na) Người có thẩm quyền ra lệnh trích xuất có trách nhiệm tiếp nhận người được trích xuất, trừ trường hợp Thủ trưởng cơ sở giam giữ trích xuất. Cơ quan, người có nhiệm vụ áp giải phối hợp với cơ sở giam giữ và người có thẩm quyền ra lệnh trích xuất quản lý và bảo đảm thực hiện chế độ ăn, ở, sinh hoạt đối với người được trích xuất theo quy định của Luật này.\n\nKhi hết thời hạn trích xuất hoặc chưa hết thời hạn trích xuất nhưng đã hoàn thành mục đích trích xuất, người có thẩm quyền ra lệnh trích xuất bàn giao người được trích xuất cho cơ quan, người có nhiệm vụ áp giải để giao người được trích xuất cho cơ sở giam giữ, trừ trường hợp người bị tạm giữ, người bị tạm giam được trả tự do theo bản án, quyết định của cơ quan, người có thẩm quyền. Nếu có nhu cầu tiếp tục trích xuất thì phải có lệnh gia hạn trích xuất. Thời hạn trích xuất và gia hạn trích xuất không được dài hơn thời hạn tạm giữ, tạm giam còn lại; lệnh gia hạn trích xuất phải được gửi cho cơ sở giam giữ.\n\nTrường hợp trích xuất người bị tạm giữ, người bị tạm giam phục vụ công tác xét xử thì cơ quan, người có nhiệm vụ áp giải có trách nhiệm tiếp nhận, quản lý người bị tạm giữ, người bị tạm giam từ khi trích xuất đến khi xét xử xong và bàn giao lại người bị tạm giữ, người bị tạm giam cho cơ sở giam giữ;\n\nb) Trường hợp người bị tạm giữ, người bị tạm giam bị áp giải theo lệnh trích xuất ra khỏi cơ sở giam giữ đi khám bệnh, chữa bệnh, giám định pháp y, giám định pháp y tâm thần; phục vụ hoạt động giải quyết nguồn tin về tội phạm, khởi tố, điều tra, truy tố, xét xử, thi hành án, công tác giam giữ thì được hưởng chế độ ăn gấp 02 lần tiêu chuẩn ăn ngày thường;\n\nc) Trường hợp thực hiện lệnh trích xuất và áp giải người bị tạm giữ, người bị tạm giam bằng các phương tiện giao thông thì cơ quan, người thực hiện áp giải được thanh toán chi phí đi lại theo yêu cầu của kế hoạch áp giải.\n\n6. Trường hợp thực hiện hoạt động quy định tại khoản 1 Điều này bên trong khu vực cơ sở giam giữ thì Thủ trưởng cơ sở giam giữ quyết định đưa người bị tạm giữ, người bị tạm giam ra khỏi buồng giam giữ mà không cần lệnh trích xuất.\n\n7. Trường hợp thực hiện hoạt động theo nội quy của cơ sở giam giữ bên trong khu vực cơ sở giam giữ thì Thủ trưởng cơ sở giam giữ quyết định đưa người bị tạm giữ, người bị tạm giam ra khỏi buồng tạm giữ, buồng tạm giam mà không cần lệnh trích xuất và phải bảo đảm không để thông cung, gây khó khăn cho hoạt động điều tra.\n\n8. Khi người bị tạm giữ, người bị tạm giam được trích xuất ra khỏi cơ sở giam giữ thì mặc trang phục theo mẫu thống nhất do cơ sở giam giữ cho mượn, trừ trường hợp trích xuất phục vụ xét xử tại phiên tòa."
+   }
+  },
+  {
+   "id": "VN-H639-A21",
+   "no": 21,
+   "noLabel": {
+    "vi": "Điều 21"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Chuyển giao người bị tạm giữ, người bị tạm giam"
+   },
+   "text": {
+    "vi": "Điều 21. Chuyển giao người bị tạm giữ, người bị tạm giam\n\nCơ sở giam giữ có trách nhiệm chuyển giao người bị tạm giữ, người bị tạm giam trong các trường hợp sau đây:\n\n1. Khi có quyết định của cơ quan quản lý tạm giữ, tạm giam điều chuyển người bị tạm giữ, người bị tạm giam đến cơ sở giam giữ khác;\n\n2. Khi có quyết định của cơ quan có thẩm quyền đưa người bị kết án phạt tù đến nơi chấp hành án;\n\n3. Khi có quyết định của Hội đồng thi hành án tử hình đưa người bị kết án tử hình đi thi hành án tử hình;\n\n4. Khi có yêu cầu bằng văn bản của cơ quan đã ra quyết định truy nã hoặc Cơ quan điều tra có thẩm quyền chuyển người bị bắt theo quyết định truy nã đến cơ sở giam giữ khác;\n\n5. Khi có quyết định dẫn độ của cơ quan có thẩm quyền."
+   }
+  },
+  {
+   "id": "VN-H639-A22",
+   "no": 22,
+   "noLabel": {
+    "vi": "Điều 22"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Việc thăm gặp người thân thích, người bào chữa, tiếp xúc lãnh sự, tiếp xúc với tổ chức nhân đạo của người bị tạm giữ, người bị tạm giam"
+   },
+   "text": {
+    "vi": "Điều 22. Việc thăm gặp người thân thích, người bào chữa, tiếp xúc lãnh sự, tiếp xúc với tổ chức nhân đạo của người bị tạm giữ, người bị tạm giam\n\n1. Người bị tạm giữ được gặp người thân thích 01 lần trong thời gian tạm giữ, 01 lần trong mỗi lần gia hạn tạm giữ. Người bị tạm giam được gặp người thân thích 01 lần trong 01 tháng; trường hợp tăng thêm số lần gặp hoặc người gặp không phải là người thân thích thì phải được cơ quan đang thụ lý vụ án đồng ý. Thời gian mỗi lần gặp không quá 01 giờ.\n\n2. Người đến thăm gặp phải xuất trình giấy tờ tùy thân, giấy tờ xác nhận về quan hệ với người bị tạm giữ, người bị tạm giam trong trường hợp là người thân thích của họ. Việc thăm gặp phải chịu sự giám sát, theo dõi chặt chẽ của cơ sở giam giữ; không làm ảnh hưởng đến các hoạt động tố tụng hình sự của cơ quan, người có thẩm quyền; tuân thủ quy định về thăm gặp; trường hợp cơ quan đang thụ lý vụ án có yêu cầu thì phối hợp với cơ sở giam giữ để giám sát, theo dõi việc thăm gặp. Thủ trưởng cơ sở giam giữ quyết định cụ thể thời điểm thăm gặp; thông báo cho cơ quan đang thụ lý vụ án về việc thăm gặp người bị tạm giữ, người bị tạm giam.\n\n3. Người bào chữa được gặp người bị tạm giữ, người bị tạm giam để thực hiện bào chữa theo quy định của Bộ luật Tố tụng hình sự và Luật này tại buồng làm việc của cơ sở giam giữ hoặc nơi người bị tạm giữ, người bị tạm giam đang khám bệnh, chữa bệnh; phải xuất trình giấy tờ tùy thân, giấy tờ về việc bào chữa cho người bị tạm giữ, người bị tạm giam.\n\n4. Thủ trưởng cơ sở giam giữ không đồng ý cho thăm gặp người bị tạm giữ, người bị tạm giam trong các trường hợp sau đây và phải nêu rõ lý do:\n\na) Người thân thích không xuất trình giấy tờ tùy thân, giấy tờ xác nhận về quan hệ với người bị tạm giữ, người bị tạm giam hoặc cơ quan đang thụ lý vụ án có văn bản đề nghị không cho người bị tạm giữ, người bị tạm giam gặp người thân thích do thấy có ảnh hưởng nghiêm trọng đến việc giải quyết vụ án; người bào chữa không xuất trình giấy tờ tùy thân, giấy tờ về việc bào chữa cho người bị tạm giữ, người bị tạm giam;\n\nb) Trong trường hợp khẩn cấp để bảo vệ an toàn cơ sở giam giữ hoặc để tổ chức truy bắt người bị tạm giữ, người bị tạm giam bỏ trốn;\n\nc) Khi có dịch bệnh xảy ra tại khu vực có cơ sở giam giữ hoặc đang trong thời gian phòng, chống dịch bệnh của cơ quan có thẩm quyền;\n\nd) Khi người bị tạm giữ, người bị tạm giam đang được cấp cứu hoặc đang mắc bệnh truyền nhiễm nhóm A;\n\nđ) Khi người bị tạm giữ, người bị tạm giam đang được lấy lời khai, hỏi cung hoặc đang tham gia các hoạt động tố tụng khác;\n\ne) Người bị tạm giữ, người bị tạm giam không đồng ý thăm gặp. Trong trường hợp này, người thăm gặp được trực tiếp gặp người bị tạm giữ, người bị tạm giam để xác nhận việc không đồng ý thăm gặp;\n\ng) Người đến thăm gặp cố ý vi phạm nội quy của cơ sở giam giữ, chế độ quản lý giam giữ từ 02 lần trở lên;\n\nh) Người bị tạm giữ, người bị tạm giam đang bị kỷ luật theo quy định tại khoản 3 Điều 23 của Luật này.\n\n5. Việc thăm gặp người bị tạm giữ, người bị tạm giam là người nước ngoài, việc người bị tạm giữ, người bị tạm giam là người nước ngoài tiếp xúc lãnh sự, tiếp xúc với tổ chức nhân đạo được thực hiện như sau:\n\na) Việc thăm gặp người bị tạm giữ, người bị tạm giam là người nước ngoài được thực hiện theo quy định tại các khoản 1, 2, 3 và 4 Điều này;\n\nb) Người bị tạm giữ, người bị tạm giam được tiếp xúc lãnh sự, tiếp xúc với tổ chức nhân đạo trong thời gian tạm giữ, tạm giam. Việc tiếp xúc lãnh sự, tiếp xúc với tổ chức nhân đạo được thực hiện theo quy định tại điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên hoặc theo sự thỏa thuận giữa nước Cộng hòa xã hội chủ nghĩa Việt Nam với nước có liên quan hoặc vì lý do đối ngoại đối với từng trường hợp cụ thể. Cơ quan đang thụ lý vụ án quyết định cụ thể thời điểm tiếp xúc lãnh sự, tiếp xúc với tổ chức nhân đạo;\n\nc) Việc tiếp xúc, thăm gặp có thể mời đại diện của cơ quan ngoại giao Việt Nam hoặc đại diện Hội Chữ thập đỏ Việt Nam cùng tham dự.\n\n6. Các trường hợp không giải quyết tiếp xúc lãnh sự, tiếp xúc với tổ chức nhân đạo:\n\na) Người bị tạm giữ, người bị tạm giam từ chối việc tiếp xúc lãnh sự, tiếp xúc với tổ chức nhân đạo;\n\nb) Trường hợp quy định tại các điểm b, c, d và h khoản 4 Điều này.\n\n7. Chính phủ quy định chi tiết khoản 5 và khoản 6 Điều này.\n\n8. Bộ trưởng Bộ Công an, Bộ trưởng Bộ Quốc phòng quy định cụ thể việc tổ chức cho người bị tạm giữ, người bị tạm giam thăm gặp người thân thích."
+   }
+  },
+  {
+   "id": "VN-H639-A23",
+   "no": 23,
+   "noLabel": {
+    "vi": "Điều 23"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Kỷ luật người bị tạm giữ, người bị tạm giam vi phạm nội quy của cơ sở giam giữ, chế độ quản lý giam giữ"
+   },
+   "text": {
+    "vi": "Điều 23. Kỷ luật người bị tạm giữ, người bị tạm giam vi phạm nội quy của cơ sở giam giữ, chế độ quản lý giam giữ\n\n1. Người bị tạm giữ, người bị tạm giam vi phạm nội quy của cơ sở giam giữ, chế độ quản lý giam giữ thì tuỳ theo tính chất, mức độ vi phạm mà bị kỷ luật bằng một trong các hình thức sau đây:\n\na) Cảnh cáo;\n\nb) Cách ly ở buồng kỷ luật từ 01 ngày đến 02 ngày và có thể bị gia hạn đến 02 ngày đối với người bị tạm giữ; cách ly ở buồng kỷ luật từ 03 ngày đến 07 ngày và có thể bị gia hạn đến 10 ngày đối với người bị tạm giam. Thời hạn cách ly không quá thời hạn tạm giữ, tạm giam còn lại.\n\n2. Việc kỷ luật bằng hình thức cách ly ở buồng kỷ luật được thực hiện nếu người bị tạm giữ, người bị tạm giam vi phạm nội quy của cơ sở giam giữ, chế độ quản lý giam giữ 02 lần trở lên hoặc có các hành vi quy định tại khoản 5 và khoản 7 Điều 7 của Luật này.\n\n3. Người bị cách ly ở buồng kỷ luật nếu có hành vi chống phá quyết liệt cơ sở giam giữ, tự sát, tự gây thương tích cho bản thân, xâm phạm tính mạng, sức khỏe của người khác thì bị cùm 01 chân. Thời gian bị cùm chân do Thủ trưởng cơ sở giam giữ quyết định. Không áp dụng cùm chân đối với người bị kỷ luật là người dưới 18 tuổi, phụ nữ, người khuyết tật nặng trở lên, người từ đủ 70 tuổi trở lên. Trong thời gian bị cách ly ở buồng kỷ luật, người bị tạm giữ, người bị tạm giam bị hạn chế việc thăm gặp, gửi, nhận thư, sách, báo và tài liệu, nhận quà.\n\n4. Việc kỷ luật và việc hạn chế thăm gặp, gửi, nhận thư, sách, báo và tài liệu, nhận quà đối với người bị tạm giữ, người bị tạm giam do Thủ trưởng cơ sở giam giữ quyết định bằng văn bản. Biên bản về việc vi phạm và quyết định kỷ luật được đưa vào hồ sơ quản lý tạm giữ, tạm giam. Nếu người bị kỷ luật có tiến bộ thì Thủ trưởng cơ sở giam giữ quyết định bằng văn bản về việc giảm thời hạn kỷ luật, bãi bỏ việc hạn chế thăm gặp, gửi, nhận thư, sách, báo và tài liệu, nhận quà đối với người đó."
+   }
+  },
+  {
+   "id": "VN-H639-A24",
+   "no": 24,
+   "noLabel": {
+    "vi": "Điều 24"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Quản lý đồ vật, tư trang, tiền, tài sản của người bị tạm giữ, người bị tạm giam"
+   },
+   "text": {
+    "vi": "Điều 24. Quản lý đồ vật, tư trang, tiền, tài sản của người bị tạm giữ, người bị tạm giam\n\n1. Người bị tạm giữ, người bị tạm giam chỉ được đưa vào khu vực giam giữ đồ dùng thiết yếu cho cá nhân. Đồ vật, tư trang, tiền và tài sản khác của họ mang theo phải gửi lưu ký tại nơi quy định của cơ sở giam giữ hoặc ủy quyền cho người thân thích, người đại diện hợp pháp của họ quản lý. Những đồ vật không thể bảo quản được trong thời hạn tạm giữ, tạm giam và những đồ vật thuộc danh mục đồ vật cấm đưa vào khu vực giam giữ nếu phải hủy bỏ thì Thủ trưởng cơ sở giam giữ phải ra quyết định bằng văn bản hoặc xử lý theo quy định của pháp luật. Khi hủy bỏ phải có sự chứng kiến của người bị tạm giữ, người bị tạm giam và phải lập biên bản về việc hủy bỏ. Nếu họ được trả tự do, chuyển nơi giam giữ khác thì đồ vật, tư trang, tiền, tài sản khác đã gửi lưu ký được trả lại; trường hợp cơ sở giam giữ làm hư hỏng hoặc mất thì phải bồi thường.\n\n2. Bộ trưởng Bộ Công an, Bộ trưởng Bộ Quốc phòng quy định danh mục đồ vật cấm đưa vào khu vực giam giữ.\n\nCăn cứ vào danh mục đồ vật cấm đưa vào khu vực giam giữ, Thủ trưởng cơ sở giam giữ quyết định không được đưa vào khu vực giam giữ các đồ vật cụ thể có khả năng dùng để tự sát, trốn khỏi nơi giam giữ, gây thương tích hoặc gây tổn hại cho sức khỏe, tính mạng của người đó hoặc người khác.\n\n3. Người bị tạm giữ, người bị tạm giam được sử dụng tiền gửi lưu ký để mua đồ dùng thiết yếu cho sinh hoạt của họ theo quy định của Chính phủ."
+   }
+  },
+  {
+   "id": "VN-H639-A25",
+   "no": 25,
+   "noLabel": {
+    "vi": "Điều 25"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Giải quyết trường hợp người bị tạm giữ, người bị tạm giam bỏ trốn"
+   },
+   "text": {
+    "vi": "Điều 25. Giải quyết trường hợp người bị tạm giữ, người bị tạm giam bỏ trốn\n\n1. Khi người bị tạm giữ, người bị tạm giam bỏ trốn, Thủ trưởng cơ sở giam giữ phải tổ chức truy bắt ngay, lập biên bản; đồng thời thông báo ngay cho cơ quan đang thụ lý vụ án và Viện kiểm sát có thẩm quyền phối hợp xử lý. Mọi trường hợp bỏ trốn đều phải được áp dụng các biện pháp truy bắt, điều tra, xử lý theo quy định của pháp luật.\n\n2. Người bị tạm giữ, người bị tạm giam đã bỏ trốn ra đầu thú thì cơ quan tiếp nhận lập biên bản, báo ngay cho cơ quan đang thụ lý vụ án và cơ sở giam giữ để xử lý theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H639-A26",
+   "no": 26,
+   "noLabel": {
+    "vi": "Điều 26"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Giải quyết trường hợp người bị tạm giữ, người bị tạm giam, con của người bị tạm giữ, người bị tạm giam theo mẹ vào cơ sở giam giữ chết"
+   },
+   "text": {
+    "vi": "Điều 26. Giải quyết trường hợp người bị tạm giữ, người bị tạm giam, con của người bị tạm giữ, người bị tạm giam theo mẹ vào cơ sở giam giữ chết\n\n1. Trường hợp người bị tạm giữ, người bị tạm giam, con của người bị tạm giữ, người bị tạm giam theo mẹ vào cơ sở giam giữ chết trong thời gian bị tạm giữ, tạm giam thì Thủ trưởng cơ sở giam giữ phải tổ chức bảo vệ hiện trường, thông báo ngay cho Cơ quan điều tra và Viện kiểm sát có thẩm quyền để tiến hành xác định nguyên nhân chết; đồng thời thông báo cho cơ quan đang thụ lý vụ án, người thân thích, người đại diện hợp pháp của người chết. Đại diện cơ sở giam giữ phải chứng kiến việc khám nghiệm hiện trường, khám nghiệm tử thi.\n\nTrường hợp người chết là người nước ngoài thì cơ quan đang thụ lý vụ án có trách nhiệm thông báo ngay cho Bộ Ngoại giao để thông báo ngay cho cơ quan đại diện ngoại giao hoặc cơ quan lãnh sự của nước ngoài mà người đó mang quốc tịch. Đối với trường hợp người chết là người nước ngoài đã có bản án có hiệu lực pháp luật, đang chờ thi hành án thì Thủ trưởng cơ sở giam giữ báo cáo Thủ trưởng cơ quan quản lý tạm giữ, tạm giam và cấm đi khỏi nơi cư trú Bộ Công an, Bộ Quốc phòng để thông báo ngay cho Bộ Ngoại giao để thông báo ngay cho cơ quan đại diện ngoại giao hoặc cơ quan lãnh sự của nước ngoài mà người đó mang quốc tịch. Trường hợp không xác định được quốc tịch của người chết thì giải quyết như đối với người Việt Nam bị tạm giữ, tạm giam chết.\n\n2. Cơ sở giam giữ làm thủ tục khai tử theo quy định của pháp luật về hộ tịch.\n\n3. Khi Cơ quan điều tra và Viện kiểm sát đồng ý cho làm các thủ tục mai táng người chết thì cơ sở giam giữ có trách nhiệm thông báo cho người thân thích của người chết. Trường hợp người thân thích của người chết có đơn đề nghị thì bàn giao tử thi cho họ, trừ trường hợp có căn cứ cho rằng việc đó ảnh hưởng đến an ninh, trật tự và vệ sinh môi trường. Hết thời hạn 48 giờ kể từ khi thông báo mà họ không nhận thì cơ sở giam giữ có trách nhiệm tổ chức mai táng. Trường hợp người thân thích của người chết có đơn đề nghị được nhận tro cốt hoặc hài cốt sau khi mai táng thì Thủ trưởng cơ sở giam giữ trao đổi với chính quyền địa phương giải quyết theo quy định của pháp luật. Việc mai táng phải tuân thủ quy định của Bộ Y tế và của chính quyền địa phương.\n\n4. Kinh phí liên quan đến việc mai táng do ngân sách nhà nước bảo đảm theo quy định của Chính phủ.\n\n5. Người bị tạm giữ, người bị tạm giam chết mà trước đó đã có thời gian tham gia bảo hiểm xã hội hoặc đang được hưởng lương hưu thì chế độ tử tuất giải quyết theo quy định của pháp luật về bảo hiểm xã hội.\n\nChương IV\n\n CHẾ ĐỘ ĐỐI VỚI NGƯỜI BỊ TẠM GIỮ, NGƯỜI BỊ TẠM GIAM"
+   }
+  },
+  {
+   "id": "VN-H639-A27",
+   "no": 27,
+   "noLabel": {
+    "vi": "Điều 27"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Chế độ ăn, ở của người bị tạm giữ, người bị tạm giam"
+   },
+   "text": {
+    "vi": "Điều 27. Chế độ ăn, ở của người bị tạm giữ, người bị tạm giam\n\n1. Người bị tạm giữ, người bị tạm giam được bảo đảm tiêu chuẩn định lượng về lương thực, thực phẩm, nguyên liệu, nhiên liệu phục vụ sinh hoạt để bảo đảm sức khỏe. Thủ trưởng cơ sở giam giữ quyết định việc hoán đổi loại lương thực, thực phẩm cho phù hợp với thực tế để bảo đảm cho người bị tạm giữ, người bị tạm giam ăn hết tiêu chuẩn. Ngoài tiêu chuẩn ăn theo quy định, người bị tạm giữ, người bị tạm giam được sử dụng tiền gửi lưu ký để ăn thêm.\n\nNgày lễ, tết theo quy định của pháp luật, người bị tạm giữ, người bị tạm giam được ăn thêm.\n\n2. Người bị tạm giữ, người bị tạm giam được nhận quà của người thân thích gửi. Thủ trưởng cơ sở giam giữ tổ chức tiếp nhận, kiểm tra loại bỏ các vật thuộc danh mục đồ vật cấm đưa vào khu vực giam giữ và giao đầy đủ cho người bị tạm giữ, người bị tạm giam; kiểm tra, phòng ngừa, ngăn chặn các hành vi chiếm đoạt quà, đồ dùng cá nhân của người bị tạm giữ, người bị tạm giam. Bộ trưởng Bộ Công an, Bộ trưởng Bộ Quốc phòng quy định cụ thể về định mức và loại quà mà người thân thích của người bị tạm giữ, người bị tạm giam được phép gửi.\n\n 3. Người bị tạm giữ, người bị tạm giam được bảo đảm an toàn thực phẩm trong ăn, uống. Cơ sở giam giữ tổ chức bếp ăn và được cấp các dụng cụ cần thiết cho việc bảo quản lương thực, thực phẩm, nấu ăn, nước uống và chia đồ ăn theo khẩu phần tiêu chuẩn.\n\n4. Cơ sở giam giữ tổ chức căng tin. Bộ trưởng Bộ Công an, Bộ trưởng Bộ Quốc phòng quy định cụ thể về danh mục hàng hóa và giá bán trong căng tin.\n\n5. Chỗ nằm tối thiểu của mỗi người bị tạm giữ, người bị tạm giam là 02 m2, được bố trí sàn nằm và có chiếu.\n\n6. Chính phủ quy định chi tiết các khoản 1, 3 và 5 Điều này."
+   }
+  },
+  {
+   "id": "VN-H639-A28",
+   "no": 28,
+   "noLabel": {
+    "vi": "Điều 28"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Chế độ mặc và tư trang của người bị tạm giữ, người bị tạm giam"
+   },
+   "text": {
+    "vi": "Điều 28. Chế độ mặc và tư trang của người bị tạm giữ, người bị tạm giam\n\n1. Trong thời gian bị tạm giữ, tạm giam, người bị tạm giữ, người bị tạm giam được sử dụng quần áo, chăn, chiếu, màn và các đồ dùng cần thiết cho sinh hoạt của cá nhân; nếu thiếu thì cơ sở giam giữ cho mượn. Người bị tạm giữ, người bị tạm giam được cấp xà phòng, dầu gội, kem đánh răng; nếu là phụ nữ thì được cấp thêm đồ dùng cần thiết cho vệ sinh của phụ nữ.\n\nCán bộ trực tiếp quản lý giam giữ có trách nhiệm hướng dẫn, yêu cầu người bị tạm giữ, người bị tạm giam giữ gìn và bảo đảm vệ sinh; thu hồi đồ dùng đã cho mượn khi người bị tạm giữ, người bị tạm giam ra khỏi cơ sở giam giữ.\n\n2. Chính phủ quy định chi tiết Điều này."
+   }
+  },
+  {
+   "id": "VN-H639-A29",
+   "no": 29,
+   "noLabel": {
+    "vi": "Điều 29"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Chế độ gửi, nhận thư, sách, báo và tài liệu của người bị tạm giữ, người bị tạm giam"
+   },
+   "text": {
+    "vi": "Điều 29. Chế độ gửi, nhận thư, sách, báo và tài liệu của người bị tạm giữ, người bị tạm giam\n\n1. Người bị tạm giữ, người bị tạm giam được gửi hoặc nhận thư, sách, báo và tài liệu khi được cơ quan đang thụ lý vụ án cho phép, trừ trường hợp quy định tại khoản 2 Điều này.\n\n2. Người bị tạm giam đã bị kết án mà bản án đã có hiệu lực pháp luật, đang chờ thi hành án và đang không phải là bị can, bị cáo trong vụ án khác thì được gửi hoặc nhận thư, sách, báo và tài liệu.\n\n3. Thư, sách, báo và tài liệu phải để mở và chịu sự kiểm tra, kiểm duyệt của cơ sở giam giữ."
+   }
+  },
+  {
+   "id": "VN-H639-A30",
+   "no": 30,
+   "noLabel": {
+    "vi": "Điều 30"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Chế độ chăm sóc y tế đối với người bị tạm giữ, người bị tạm giam"
+   },
+   "text": {
+    "vi": "Điều 30. Chế độ chăm sóc y tế đối với người bị tạm giữ, người bị tạm giam\n\n1. Người bị tạm giữ, người bị tạm giam được hưởng chế độ khám bệnh, chữa bệnh, phòng, chống dịch bệnh. Trường hợp bị ốm đau, bệnh tật, thương tích thì được khám và điều trị tại y tế của cơ sở giam giữ. Nếu bị bệnh hoặc thương tích vượt quá khả năng y tế của cơ sở giam giữ thì cơ sở giam giữ đưa đến cơ sở khám bệnh, chữa bệnh của Nhà nước nơi gần nhất và đủ điều kiện; trường hợp cấp cứu thì đưa đến cơ sở khám bệnh, chữa bệnh nơi gần nhất. Cơ sở giam giữ phải thông báo ngay cho cơ quan đang thụ lý vụ án, Viện kiểm sát có thẩm quyền và thông báo cho người thân thích hoặc đại diện hợp pháp của người đó biết để phối hợp chăm sóc, điều trị. Cơ sở khám bệnh, chữa bệnh của Nhà nước xây dựng hoặc bố trí khu, buồng riêng để khám bệnh, chữa bệnh cho người bị tạm giữ, người bị tạm giam.\n\n2. Đối với người bị tạm giữ, người bị tạm giam có dấu hiệu mắc bệnh tâm thần hoặc bệnh khác làm mất khả năng nhận thức hoặc khả năng điều khiển hành vi của mình thì cơ sở giam giữ yêu cầu cơ quan đang thụ lý vụ án trưng cầu giám định pháp y tâm thần. Khi có quyết định đưa người bị tạm giữ, người bị tạm giam đi giám định pháp y, giám định pháp y tâm thần, áp dụng biện pháp bắt buộc chữa bệnh của cơ quan có thẩm quyền, cơ quan đang thụ lý vụ án phối hợp với cơ sở giam giữ đưa người bị tạm giữ, người bị tạm giam đến cơ sở giám định pháp y, giám định pháp y tâm thần, cơ sở chữa bệnh nêu trong quyết định.\n\n3. Kinh phí khám bệnh, chữa bệnh, phòng, chống dịch bệnh cho người bị tạm giữ, người bị tạm giam do ngân sách nhà nước bảo đảm. Trường hợp người bị tạm giữ, người bị tạm giam có chế độ bảo hiểm y tế thì được hưởng chế độ khám bệnh, chữa bệnh theo quy định của pháp luật về bảo hiểm y tế.\n\n4. Chính phủ quy định chi tiết Điều này."
+   }
+  },
+  {
+   "id": "VN-H639-A31",
+   "no": 31,
+   "noLabel": {
+    "vi": "Điều 31"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Chế độ sinh hoạt tinh thần đối với người bị tạm giữ, người bị tạm giam"
+   },
+   "text": {
+    "vi": "Điều 31. Chế độ sinh hoạt tinh thần đối với người bị tạm giữ, người bị tạm giam\n\n1. Trung bình 20 người bị tạm giữ, người bị tạm giam hoặc cơ sở giam giữ có dưới 20 người bị tạm giữ, người bị tạm giam thì được cấp phát 01 tờ báo địa phương hoặc báo trung ương. Thủ trưởng cơ sở giam giữ tổ chức cho người bị tạm giữ, người bị tạm giam nghe phát thanh, đọc báo. Nếu có điều kiện thì tổ chức cho họ xem chương trình truyền hình địa phương và trung ương.\n\nBộ trưởng Bộ Công an, Bộ trưởng Bộ Quốc phòng quy định cụ thể về việc cấp phát báo cho người bị tạm giữ, người bị tạm giam.\n\n2. Người bị tạm giữ, người bị tạm giam được sử dụng kinh sách xuất bản dưới hình thức sách in, phát hành hợp pháp và được bày tỏ niềm tin tín ngưỡng, tôn giáo theo quy định của pháp luật về tín ngưỡng, tôn giáo.\n\nChương V\n\n CHẾ ĐỘ ĐỐI VỚI NGƯỜI BỊ TẠM GIỮ, NGƯỜI BỊ TẠM GIAM LÀ NGƯỜI DƯỚI 18 TUỔI, PHỤ NỮ CÓ THAI HOẶC NUÔI CON DƯỚI 36 THÁNG TUỔI"
+   }
+  },
+  {
+   "id": "VN-H639-A32",
+   "no": 32,
+   "noLabel": {
+    "vi": "Điều 32"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Phạm vi áp dụng"
+   },
+   "text": {
+    "vi": "Điều 32. Phạm vi áp dụng\n\n Việc tạm giữ, tạm giam đối với người dưới 18 tuổi, phụ nữ có thai hoặc nuôi con dưới 36 tháng tuổi được thực hiện theo quy định tại Chương này và các quy định khác của Luật này mà không trái với quy định của Chương này.\n\nKhi người bị tạm giữ, người bị tạm giam đủ 18 tuổi hoặc phụ nữ có con đủ 36 tháng tuổi trở lên thì chế độ tạm giữ, tạm giam được thực hiện theo quy định chung."
+   }
+  },
+  {
+   "id": "VN-H639-A33",
+   "no": 33,
+   "noLabel": {
+    "vi": "Điều 33"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Chế độ ăn, ở và quản lý đối với người bị tạm giữ, người bị tạm giam là người dưới 18 tuổi"
+   },
+   "text": {
+    "vi": "Điều 33. Chế độ ăn, ở và quản lý đối với người bị tạm giữ, người bị tạm giam là người dưới 18 tuổi\n\n1. Người bị tạm giữ, người bị tạm giam là người dưới 18 tuổi được bảo đảm tiêu chuẩn định lượng ăn như người bị tạm giữ, người bị tạm giam đã thành niên và được tăng thêm về thịt, cá so với tiêu chuẩn định lượng ăn theo quy định của Chính phủ.\n\n2. Người bị tạm giữ, người bị tạm giam là người dưới 18 tuổi được bố trí giam giữ riêng, trừ trường hợp quy định tại điểm o khoản 1 và khoản 3 Điều 16 của Luật này."
+   }
+  },
+  {
+   "id": "VN-H639-A34",
+   "no": 34,
+   "noLabel": {
+    "vi": "Điều 34"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Chế độ gặp người thân thích, người bào chữa, tiếp xúc lãnh sự, tiếp xúc với tổ chức nhân đạo của người bị tạm giữ, người bị tạm giam là người dưới 18 tuổi"
+   },
+   "text": {
+    "vi": "Điều 34. Chế độ gặp người thân thích, người bào chữa, tiếp xúc lãnh sự, tiếp xúc với tổ chức nhân đạo của người bị tạm giữ, người bị tạm giam là người dưới 18 tuổi\n\nNgười bị tạm giữ, người bị tạm giam là người dưới 18 tuổi được gặp người thân thích, người bào chữa, tiếp xúc lãnh sự, tiếp xúc với tổ chức nhân đạo theo quy định tại Điều 22 của Luật này với số lần thăm gặp được tăng gấp đôi so với người bị tạm giữ, người bị tạm giam là người từ đủ 18 tuổi trở lên."
+   }
+  },
+  {
+   "id": "VN-H639-A35",
+   "no": 35,
+   "noLabel": {
+    "vi": "Điều 35"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Chế độ ăn, ở và quản lý đối với người bị tạm giữ, người bị tạm giam là phụ nữ có thai hoặc nuôi con dưới 36 tháng tuổi"
+   },
+   "text": {
+    "vi": "Điều 35. Chế độ ăn, ở và quản lý đối với người bị tạm giữ, người bị tạm giam là phụ nữ có thai hoặc nuôi con dưới 36 tháng tuổi\n\n1. Người bị tạm giữ, người bị tạm giam là phụ nữ có thai hoặc nuôi con dưới 36 tháng tuổi được bố trí nơi ở hợp lý, được khám thai, được chăm sóc y tế, được hưởng chế độ ăn uống bảo đảm sức khỏe. Người bị tạm giữ, người bị tạm giam là phụ nữ khi sinh con thì được bảo đảm tiêu chuẩn, định lượng ăn theo chỉ dẫn của y sĩ hoặc bác sĩ, được cấp thực phẩm, đồ dùng, thuốc men cần thiết cho việc chăm sóc trẻ sơ sinh, được bảo đảm thời gian cho con bú trong thời gian nuôi con bằng sữa mẹ. Cơ sở giam giữ có trách nhiệm làm thủ tục đề nghị đăng ký khai sinh. Ủy ban nhân dân cấp xã nơi cơ sở giam giữ đóng trụ sở có trách nhiệm đăng ký và cấp giấy khai sinh; đồng thời đề nghị cơ quan bảo hiểm xã hội cấp thẻ bảo hiểm y tế cho trẻ em được sinh ra.\n\nNgười bị tạm giữ, người bị tạm giam là phụ nữ có thai hoặc có con dưới 36 tháng tuổi ở cùng thì được bố trí chỗ nằm tối thiểu là 03 m2.\n\n2. Cơ sở giam giữ phải tổ chức việc chăm sóc, nuôi dưỡng trẻ em dưới 36 tháng tuổi. Người bị tạm giữ, người bị tạm giam có con từ đủ 36 tháng tuổi trở lên thì phải gửi con về cho người thân thích nuôi dưỡng; trường hợp không có người thân thích nhận nuôi dưỡng thì Thủ trưởng cơ sở giam giữ đề nghị Sở Y tế nơi có cơ sở giam giữ chỉ định cơ sở bảo trợ xã hội tiếp nhận, nuôi dưỡng. Trong thời hạn 02 ngày làm việc kể từ ngày nhận được đề nghị, Sở Y tế chỉ định cơ sở bảo trợ xã hội tiếp nhận, nuôi dưỡng. Người bị tạm giữ, người bị tạm giam sau khi được trả tự do được nhận lại con đang được cơ sở bảo trợ xã hội nuôi dưỡng.\n\n3. Chính phủ quy định chi tiết Điều này.\n\nChương VI\n\n CHẾ ĐỘ ĐỐI VỚI NGƯỜI BỊ KẾT ÁN TỬ HÌNH ĐANG BỊ TẠM GIAM"
+   }
+  },
+  {
+   "id": "VN-H639-A36",
+   "no": 36,
+   "noLabel": {
+    "vi": "Điều 36"
+   },
+   "chapter": {
+    "vi": "Chương VI"
+   },
+   "heading": {
+    "vi": "Phạm vi áp dụng"
+   },
+   "text": {
+    "vi": "Điều 36. Phạm vi áp dụng\n\nChế độ đối với người bị kết án tử hình đang bị tạm giam được thực hiện theo quy định tại Chương này và các quy định khác của Luật này mà không trái với quy định của Chương này."
+   }
+  },
+  {
+   "id": "VN-H639-A37",
+   "no": 37,
+   "noLabel": {
+    "vi": "Điều 37"
+   },
+   "chapter": {
+    "vi": "Chương VI"
+   },
+   "heading": {
+    "vi": "Chế độ ăn, ở và quản lý giam giữ đối với người bị kết án tử hình"
+   },
+   "text": {
+    "vi": "Điều 37. Chế độ ăn, ở và quản lý giam giữ đối với người bị kết án tử hình\n\n1. Người bị kết án tử hình đang bị tạm giam được hưởng chế độ ăn, ở, mặc, tư trang, chăm sóc y tế, sinh hoạt tinh thần, gửi, nhận thư, sách, báo và tài liệu, nhận quà như người bị tạm giam khác.\n\n2. Việc thăm gặp đối với người bị kết án tử hình mà bản án đã có hiệu lực pháp luật đang chờ thi hành án do Giám thị trại tạm giam quyết định; đối với người bị kết án tử hình mà bản án chưa có hiệu lực pháp luật thì thực hiện theo quy định tại Điều 22 của Luật này. Việc tổ chức thăm gặp phải bảo đảm tuyệt đối an toàn.\n\n3. Việc trích xuất người bị kết án tử hình mà bản án đã có hiệu lực pháp luật đang chờ thi hành án ra bên ngoài khu vực cơ sở giam giữ do Giám thị trại tạm giam quyết định sau khi báo cáo và được sự đồng ý của cấp có thẩm quyền.\n\n4. Trường hợp để đáp ứng yêu cầu giam giữ thì Thủ trưởng cơ quan quản lý tạm giữ, tạm giam và cấm đi khỏi nơi cư trú Bộ Công an, Bộ Quốc phòng quyết định điều chuyển người bị kết án tử hình mà bản án đã có hiệu lực pháp luật đang chờ thi hành án giữa các cơ sở giam giữ.\n\n5. Cơ sở giam giữ phải bảo đảm cho người bị kết án tử hình thực hiện quyền kháng cáo, quyền đề nghị xem xét theo thủ tục giám đốc thẩm, tái thẩm, quyền xin ân giảm án tử hình theo quy định của Bộ luật Tố tụng hình sự và tạo điều kiện tốt nhất cho người bị kết án tử hình thực hiện các quyền khác của người bị tạm giam theo quy định của Luật này.\n\n6. Trư­ờng hợp ngư­ời bị kết án tử hình có quyết định ân giảm xuống tù chung thân hoặc có bản án, quyết định giảm xuống tù chung thân, tù có thời hạn thì Thủ trưởng cơ sở giam giữ chuyển ngư­ời đó đến nơi giam giữ người đang chờ chấp hành án phạt tù. Trường hợp hủy án để điều tra lại thì Thủ trưởng cơ sở giam giữ chuyển người bị kết án tử hình đến buồng tạm giam để phục vụ hoạt động điều tra.\n\n7. Cơ sở giam giữ trả lại tiền, tài sản gửi lưu ký, đồ dùng cá nhân của người đã bị thi hành án tử hình cho người thân thích hoặc người được ủy thác của người đó.\n\n8. Trại tạm giam phải tổ chức buồng riêng hoặc khu riêng để giam giữ người bị kết án tử hình; ưu tiên ứng dụng khoa học, công nghệ trong quản lý giam giữ đối với người bị kết án tử hình để bảo đảm an ninh, an toàn. Trong quá trình tạm giam người bị kết án tử hình, nếu xét thấy họ có biểu hiện bỏ trốn, tự sát hoặc có hành vi nguy hiểm khác thì Thủ trưởng cơ sở giam giữ quyết định việc cùm 01 chân và tổ chức theo dõi, quản lý, ngăn ngừa.\n\n9. Bộ trưởng Bộ Công an, Bộ trưởng Bộ Quốc phòng quy định chi tiết Điều này.\n\nChương VII\n\nTHI HÀNH BIỆN PHÁP NGĂN CHẶN CẤM ĐI KHỎI NƠI CƯ TRÚ"
+   }
+  },
+  {
+   "id": "VN-H639-A38",
+   "no": 38,
+   "noLabel": {
+    "vi": "Điều 38"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {
+    "vi": "Gửi lệnh cấm đi khỏi nơi cư trú và phổ biến quyền, nghĩa vụ cho người bị cấm đi khỏi nơi cư trú"
+   },
+   "text": {
+    "vi": "Điều 38. Gửi lệnh cấm đi khỏi nơi cư trú và phổ biến quyền, nghĩa vụ cho người bị cấm đi khỏi nơi cư trú\n\n1. Ngay sau khi ra lệnh cấm đi khỏi nơi cư trú, người ra lệnh phải gửi lệnh đó cho các cơ quan, đơn vị, cá nhân sau đây:\n\na) Cơ sở giam giữ trong trường hợp người bị cấm đi khỏi nơi cư trú đang bị tạm giữ, tạm giam;\n\nb) Trưởng Công an cấp xã nơi người bị cấm đi khỏi nơi cư trú đang cư trú, đơn vị quân đội được giao quản lý, theo dõi người bị cấm đi khỏi nơi cư trú;\n\nc) Cơ quan quản lý tạm giữ, tạm giam và cấm đi khỏi nơi cư trú Công an cấp tỉnh, cấp quân khu.\n\n2. Người ra lệnh cấm đi khỏi nơi cư trú có trách nhiệm phổ biến quyền và nghĩa vụ cho người bị cấm đi khỏi nơi cư trú khi giao lệnh cấm đi khỏi nơi cư trú cho người đó."
+   }
+  },
+  {
+   "id": "VN-H639-A39",
+   "no": 39,
+   "noLabel": {
+    "vi": "Điều 39"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {
+    "vi": "Thi hành lệnh cấm đi khỏi nơi cư trú"
+   },
+   "text": {
+    "vi": "Điều 39. Thi hành lệnh cấm đi khỏi nơi cư trú\n\n1. Trường hợp bị can, bị cáo đang bị tạm giữ, tạm giam tại cơ sở giam giữ, thì cơ sở giam giữ có trách nhiệm làm các thủ tục để đưa người đó ra khỏi cơ sở giam giữ theo lệnh cấm đi khỏi nơi cư trú.\n\n2. Trong thời hạn 03 ngày kể từ ngày nhận được lệnh cấm đi khỏi nơi cư trú, người bị cấm đi khỏi nơi cư trú phải trình diện Trưởng Công an cấp xã nơi họ cư trú, đơn vị quân đội được giao quản lý, theo dõi người bị cấm đi khỏi nơi cư trú, trừ trường hợp vì lý do bất khả kháng hoặc trở ngại khách quan. Trường hợp hết thời hạn 03 ngày mà người bị cấm đi khỏi nơi cư trú không trình diện, Trưởng Công an cấp xã, đơn vị quân đội triệu tập người đó đến trụ sở để làm giấy cam đoan về việc chấp hành nghĩa vụ.\n\n3. Trưởng Công an cấp xã nơi cư trú của người bị cấm đi khỏi nơi cư trú, đơn vị quân đội được giao quản lý, theo dõi người bị cấm đi khỏi nơi cư trú lập hồ sơ quản lý, theo dõi người bị cấm đi khỏi nơi cư trú bao gồm:\n\na) Lệnh cấm đi khỏi nơi cư trú;\n\nb) Cam đoan của người bị cấm đi khỏi nơi cư trú. Đối với người bị cấm đi khỏi nơi cư trú là người từ đủ 14 tuổi đến dưới 18 tuổi, người có nhược điểm về tâm thần hoặc thể chất ảnh hưởng trực tiếp tới việc làm giấy cam đoan thì giấy cam đoan của người đó phải có xác nhận của người đại diện;\n\nc) Bản nhận xét của Trưởng Công an cấp xã, đơn vị quân đội được giao quản lý, theo dõi về việc chấp hành nghĩa vụ của người bị cấm đi khỏi nơi cư trú;\n\nd) Biên bản về việc vi phạm nghĩa vụ của người bị cấm đi khỏi nơi cư trú (nếu có);\n\nđ) Tài liệu khác có liên quan (nếu có).\n\n4. Việc quản lý, theo dõi người bị cấm đi khỏi nơi cư trú được thực hiện bằng các biện pháp sau đây:\n\na) Quản lý cư trú;\n\nb) Triệu tập;\n\nc) Điểm danh, kiểm diện;\n\nd) Các biện pháp khác theo quy định của pháp luật.\n\n5. Khi người bị cấm đi khỏi nơi cư trú chết thì Trưởng Công an cấp xã, đơn vị quân đội được giao quản lý, theo dõi người bị cấm đi khỏi nơi cư trú có trách nhiệm thông báo cho người ra lệnh cấm đi khỏi nơi cư trú biết để xử lý theo thẩm quyền."
+   }
+  },
+  {
+   "id": "VN-H639-A40",
+   "no": 40,
+   "noLabel": {
+    "vi": "Điều 40"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {
+    "vi": "Nhiệm vụ, quyền hạn của Ủy ban nhân dân cấp xã, đơn vị quân đội được giao quản lý, theo dõi người bị cấm đi khỏi nơi cư trú"
+   },
+   "text": {
+    "vi": "Điều 40. Nhiệm vụ, quyền hạn của Ủy ban nhân dân cấp xã, đơn vị quân đội được giao quản lý, theo dõi người bị cấm đi khỏi nơi cư trú\n\n1. Ủy ban nhân dân cấp xã quản lý, theo dõi người bị cấm đi khỏi nơi cư trú, trừ trường hợp quy định tại khoản 4 Điều này.\n\n2. Công an cấp xã có trách nhiệm trực tiếp giúp Ủy ban nhân dân cấp xã quản lý, theo dõi người bị cấm đi khỏi nơi cư trú và có các nhiệm vụ, quyền hạn sau đây:\n\na) Tiếp nhận, tổ chức quản lý, theo dõi người bị cấm đi khỏi nơi cư trú;\n\nb) Yêu cầu người bị cấm đi khỏi nơi cư trú thực hiện đầy đủ nghĩa vụ đã cam kết; lập biên bản người bị cấm đi khỏi nơi cư trú vi phạm nghĩa vụ;\n\nc) Giải quyết cho người bị cấm đi khỏi nơi cư trú vắng mặt tại nơi cư trú theo quy định của Luật này và quy định khác của pháp luật có liên quan;\n\nd) Giải quyết cho người bị cấm đi khỏi nơi cư trú thay đổi nơi cư trú, làm việc, lao động hoặc học tập theo quy định của Luật này và quy định khác của pháp luật có liên quan;\n\nđ) Thông báo cho cơ quan có thẩm quyền về việc người bị cấm đi khỏi nơi cư trú vi phạm nghĩa vụ;\n\ne) Xác minh, điểm danh, kiểm diện đối với người bị cấm đi khỏi nơi cư trú khi đi khỏi nơi cư trú mà không xin phép.\n\n3. Trưởng Công an cấp xã có trách nhiệm báo cáo định kỳ hoặc theo yêu cầu của Ủy ban nhân dân cấp xã về việc thực hiện nhiệm vụ, quyền hạn theo quy định tại khoản 2 Điều này.\n\n4. Đơn vị quân đội được giao quản lý, theo dõi có nhiệm vụ, quyền hạn sau đây:\n\n a) Các nhiệm vụ, quyền hạn quy định tại các điểm a, b, c, đ và e khoản 2 Điều này;\n\nb) Phối hợp với Trưởng Công an cấp xã giải quyết cho người bị cấm đi khỏi nơi cư trú được thay đổi nơi cư trú theo quy định của Luật này và pháp luật về cư trú."
+   }
+  },
+  {
+   "id": "VN-H639-A41",
+   "no": 41,
+   "noLabel": {
+    "vi": "Điều 41"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {
+    "vi": "Quyền và nghĩa vụ của người bị cấm đi khỏi nơi cư trú"
+   },
+   "text": {
+    "vi": "Điều 41. Quyền và nghĩa vụ của người bị cấm đi khỏi nơi cư trú\n\n1. Người bị cấm đi khỏi nơi cư trú có quyền sau đây:\n\na) Được đi khỏi nơi cư trú vì lý do bất khả kháng hoặc do trở ngại khách quan; trường hợp đi khỏi nơi cư trú vì lý do chính đáng khác thì phải được cơ quan có thẩm quyền cho phép;\n\nb) Được thay đổi nơi cư trú, làm việc, lao động hoặc học tập ra ngoài phạm vi nơi cư trú khi được cơ quan có thẩm quyền cho phép; trường hợp thay đổi nơi cư trú, làm việc, lao động hoặc học tập trong phạm vi nơi cư trú thì phải báo cáo cơ quan có thẩm quyền;\n\nc) Được khiếu nại, tố cáo hành vi vi phạm pháp luật;\n\nd) Được hưởng các quyền khác theo quy định của pháp luật.\n\n2. Người bị cấm đi khỏi nơi cư trú có nghĩa vụ sau đây:\n\na) Trình diện Trưởng Công an cấp xã nơi người bị cấm đi khỏi nơi cư trú đang cư trú, đơn vị quân đội đang quản lý, theo dõi người bị cấm đi khỏi nơi cư trú;\n\nb) Chấp hành nghiêm chỉnh cam kết tuân thủ pháp luật, thực hiện đầy đủ nghĩa vụ công dân, nội quy, quy chế của nơi cư trú, nơi làm việc;\n\nc) Chịu sự quản lý, theo dõi của Trưởng Công an cấp xã nơi người bị cấm đi khỏi nơi cư trú đang cư trú, đơn vị quân đội đang quản lý, theo dõi người bị cấm đi khỏi nơi cư trú;\n\nd) Không đi khỏi phạm vi địa bàn xã, phường, đặc khu hoặc phạm vi địa bàn do đơn vị quân đội quản lý theo lệnh cấm đi khỏi nơi cư trú của người có thẩm quyền, trừ trường hợp quy định tại điểm a khoản 1 Điều này;\n\nđ) Có mặt theo yêu cầu của Trưởng Công an cấp xã nơi người bị cấm đi khỏi nơi cư trú đang cư trú hoặc người đứng đầu đơn vị quân đội đang quản lý, theo dõi;\n\ne) Phải làm giấy cam đoan và thực hiện các nghĩa vụ đã cam đoan theo quy định của Bộ luật Tố tụng hình sự;\n\ng) Không thực hiện hành vi vi phạm pháp luật theo quy định của pháp luật về xử lý vi phạm hành chính và pháp luật về hình sự."
+   }
+  },
+  {
+   "id": "VN-H639-A42",
+   "no": 42,
+   "noLabel": {
+    "vi": "Điều 42"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {
+    "vi": "Giải quyết vắng mặt tại nơi cư trú đối với người bị cấm đi khỏi nơi cư trú"
+   },
+   "text": {
+    "vi": "Điều 42. Giải quyết vắng mặt tại nơi cư trú đối với người bị cấm đi khỏi nơi cư trú\n\n1. Người bị cấm đi khỏi nơi cư trú có nhu cầu lao động, học tập hoặc vì lý do chính đáng khác thì có thể đi khỏi nơi cư trú khi có đơn xin phép và được sự đồng ý của người ra lệnh cấm đi khỏi nơi cư trú. Trường hợp đi khỏi nơi cư trú vì lý do bất khả kháng hoặc do trở ngại khách quan thì không phải xin phép nhưng phải trình diện hoặc báo cáo cơ quan có thẩm quyền ngay sau khi hết lý do bất khả kháng hoặc trở ngại khách quan.\n\n2. Trong thời hạn 01 ngày làm việc kể từ ngày nhận được đơn của người bị cấm đi khỏi nơi cư trú, người ra lệnh cấm đi khỏi nơi cư trú nếu đồng ý thì có văn bản thông báo cho người bị cấm đi khỏi nơi cư trú và thông báo ngay cho Trưởng Công an cấp xã hoặc đơn vị quân đội được giao quản lý, theo dõi; trường hợp không đồng ý thì có văn bản thông báo cho người bị cấm đi khỏi nơi cư trú biết và nêu rõ lý do. Thời gian vắng mặt tại nơi cư trú mỗi lần không quá 30 ngày, trừ trường hợp bị bệnh phải điều trị tại cơ sở khám bệnh, chữa bệnh theo chỉ định của bác sĩ và phải có xác nhận điều trị của cơ sở khám bệnh, chữa bệnh đó.\n\nKhi nhận được thông báo đồng ý của người ra lệnh cấm đi khỏi nơi cư trú giải quyết vắng mặt tại nơi cư trú đối với người bị cấm đi khỏi nơi cư trú thì Trưởng Công an cấp xã hoặc đơn vị quân đội được giao quản lý, theo dõi giải quyết cho người bị cấm đi khỏi nơi cư trú được vắng mặt tại nơi cư trú và thông báo cho Trưởng Công an cấp xã nơi người đó đến tạm trú, lưu trú biết, phối hợp quản lý, theo dõi.\n\n3. Người bị cấm đi khỏi nơi cư trú khi đi khỏi nơi cư trú phải thực hiện khai báo tạm vắng theo quy định của pháp luật về cư trú. Người bị cấm đi khỏi nơi cư trú khi đến nơi cư trú mới phải trình báo với Trưởng Công an cấp xã nơi mình đến tạm trú, lưu trú; hết thời hạn tạm trú, lưu trú phải có xác nhận của Trưởng Công an cấp xã nơi tạm trú, lưu trú. Trường hợp người bị cấm đi khỏi nơi cư trú vi phạm nghĩa vụ, Trưởng Công an cấp xã nơi người đó đến tạm trú, lưu trú phải thông báo ngay cho Trưởng Công an cấp xã hoặc đơn vị quân đội được giao quản lý, theo dõi đã giải quyết cho vắng mặt tại nơi cư trú kèm theo tài liệu có liên quan."
+   }
+  },
+  {
+   "id": "VN-H639-A43",
+   "no": 43,
+   "noLabel": {
+    "vi": "Điều 43"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {
+    "vi": "Giải quyết trong trường hợp thay đổi nơi cư trú, làm việc, lao động hoặc học tập"
+   },
+   "text": {
+    "vi": "Điều 43. Giải quyết trong trường hợp thay đổi nơi cư trú, làm việc, lao động hoặc học tập\n\n1. Trường hợp người bị cấm đi khỏi nơi cư trú vì lý do chính đáng mà phải thay đổi nơi cư trú ra ngoài phạm vi địa bàn xã, phường, đặc khu nơi người đó cư trú thì phải có đơn xin phép gửi người ra lệnh cấm đi khỏi nơi cư trú. Trong thời hạn 10 ngày làm việc kể từ ngày nhận được đơn của người bị cấm đi khỏi nơi cư trú, nếu đồng ý thì người ra lệnh cấm đi khỏi nơi cư trú ban hành lệnh cấm đi khỏi nơi cư trú mới và gửi đến Trưởng Công an cấp xã nơi cư trú mới để quản lý, theo dõi, đồng thời thông báo cho Trưởng Công an cấp xã nơi cư trú cũ; nếu không đồng ý thì có văn bản thông báo cho người bị cấm đi khỏi nơi cư trú và nêu rõ lý do.\n\nTrình tự, thủ tục thi hành lệnh cấm đi khỏi nơi cư trú mới được thực hiện theo quy định tại Chương này.\n\n2. Trường hợp người bị cấm đi khỏi nơi cư trú vì lý do chính đáng mà phải thay đổi nơi làm việc, lao động hoặc học tập ngoài địa bàn xã, phường, đặc khu nơi người đó cư trú thì phải có đơn xin phép gửi người ra lệnh cấm đi khỏi nơi cư trú. Kể từ khi nhận được đơn của người bị cấm đi khỏi nơi cư trú, trong thời hạn 03 ngày làm việc, nếu đồng ý thì người ra lệnh cấm đi khỏi nơi cư trú có văn bản đồng ý việc thay đổi nơi làm việc, lao động hoặc học tập và thông báo ngay cho Trưởng Công an cấp xã; nếu không đồng ý thì có văn bản thông báo cho người bị cấm đi khỏi nơi cư trú và nêu rõ lý do.\n\n3. Trường hợp người bị cấm đi khỏi nơi cư trú thay đổi nơi cư trú trong phạm vi địa bàn xã, phường, đặc khu hoặc phạm vi địa bàn đơn vị quân đội quản lý thì phải báo cáo người ra lệnh cấm đi khỏi nơi cư trú và Trưởng Công an cấp xã hoặc đơn vị quân đội được giao quản lý, theo dõi."
+   }
+  },
+  {
+   "id": "VN-H639-A44",
+   "no": 44,
+   "noLabel": {
+    "vi": "Điều 44"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {
+    "vi": "Xử lý trường hợp người bị cấm đi khỏi nơi cư trú vi phạm nghĩa vụ"
+   },
+   "text": {
+    "vi": "Điều 44. Xử lý trường hợp người bị cấm đi khỏi nơi cư trú vi phạm nghĩa vụ\n\n1. Người thực hiện hành vi phạm tội đang bị cấm đi khỏi nơi cư trú mà tiếp tục thực hiện hành vi này nhưng chưa đến mức truy cứu trách nhiệm hình sự thì Trưởng Công an cấp xã hoặc đơn vị quân đội được giao quản lý, theo dõi người bị cấm đi khỏi nơi cư trú lập biên bản vi phạm nghĩa vụ và đề nghị người có thẩm quyền thay đổi biện pháp ngăn chặn.\n\n2. Người bị cấm đi khỏi nơi cư trú thực hiện một trong các hành vi thuộc trường hợp bị áp dụng biện pháp giáo dục tại xã, phường, đặc khu theo quy định của pháp luật về xử lý vi phạm hành chính trừ trường hợp quy định tại khoản 1 Điều này thì xử lý như sau:\n\na) Vi phạm lần đầu thì Trưởng Công an cấp xã hoặc đơn vị quân đội được giao quản lý, theo dõi người bị cấm đi khỏi nơi cư trú lập biên bản vi phạm nghĩa vụ, tổ chức kiểm điểm và thông báo cho người ra lệnh cấm đi khỏi nơi cư trú;\n\nb) Sau khi vi phạm lần đầu, nếu người bị cấm đi khỏi nơi cư trú tiếp tục vi phạm nghĩa vụ quy định tại khoản 2 Điều 41 của Luật này thì Trưởng Công an cấp xã hoặc đơn vị quân đội được giao quản lý, theo dõi người bị cấm đi khỏi nơi cư trú lập biên bản vi phạm nghĩa vụ và đề nghị người có thẩm quyền thay đổi biện pháp ngăn chặn.\n\n3. Người bị cấm đi khỏi nơi cư trú vi phạm nghĩa vụ không thuộc trường hợp quy định tại khoản 1 và khoản 2 Điều này thì xử lý như sau:\n\na) Vi phạm lần đầu thì Trưởng Công an cấp xã hoặc đơn vị quân đội được giao quản lý, theo dõi người bị cấm đi khỏi nơi cư trú lập biên bản vi phạm nghĩa vụ và tổ chức nhắc nhở họ;\n\nb) Vi phạm lần thứ hai thì Trưởng Công an cấp xã hoặc đơn vị quân đội được giao quản lý, theo dõi người bị cấm đi khỏi nơi cư trú lập biên bản vi phạm nghĩa vụ, tổ chức kiểm điểm, nhắc nhở và thông báo cho người ra lệnh cấm đi khỏi nơi cư trú;\n\nc) Vi phạm lần thứ ba thì Trưởng Công an cấp xã hoặc đơn vị quân đội được giao quản lý, theo dõi người bị cấm đi khỏi nơi cư trú lập biên bản vi phạm nghĩa vụ và đề nghị người có thẩm quyền thay đổi biện pháp ngăn chặn.\n\nChương VIII\n\n BẢO ĐẢM ĐIỀU KIỆN QUẢN LÝ, THI HÀNH TẠM GIỮ, TẠM GIAM VÀ CẤM ĐI KHỎI NƠI CƯ TRÚ"
+   }
+  },
+  {
+   "id": "VN-H639-A45",
+   "no": 45,
+   "noLabel": {
+    "vi": "Điều 45"
+   },
+   "chapter": {
+    "vi": "Chương VIII"
+   },
+   "heading": {
+    "vi": "Bảo đảm biên chế, nhân lực, cơ sở vật chất, kinh phí phục vụ hoạt động quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú"
+   },
+   "text": {
+    "vi": "Điều 45. Bảo đảm biên chế, nhân lực, cơ sở vật chất, kinh phí phục vụ hoạt động quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú\n\n1. Nhà nước bảo đảm biên chế, nhân lực cho cơ quan quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú. Người làm công tác quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú được đào tạo, bồi dưỡng, huấn luyện chuyên môn nghiệp vụ, pháp luật phù hợp với nhiệm vụ, quyền hạn được giao.\n\n2. Nhà nước bảo đảm cơ sở vật chất cho hoạt động quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú, bao gồm đất đai, trụ sở, công trình giam giữ và phụ trợ, trang bị, thiết bị, vũ khí, công cụ hỗ trợ, phương tiện giao thông, thông tin liên lạc, kỹ thuật nghiệp vụ và các điều kiện vật chất, kỹ thuật khác. Ưu tiên bảo đảm cơ sở vật chất cho cơ sở giam giữ ở vùng sâu, vùng xa, miền núi, vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn, địa bàn trọng yếu về an ninh quốc gia, trật tự, an toàn xã hội.\n\n3. Nhà nước bảo đảm kinh phí phục vụ hoạt động quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú. Việc lập dự toán, sử dụng và quyết toán kinh phí bảo đảm cho hoạt động quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú được thực hiện theo quy định của pháp luật về ngân sách nhà nước."
+   }
+  },
+  {
+   "id": "VN-H639-A46",
+   "no": 46,
+   "noLabel": {
+    "vi": "Điều 46"
+   },
+   "chapter": {
+    "vi": "Chương VIII"
+   },
+   "heading": {
+    "vi": "Sử dụng vũ khí, phương tiện kỹ thuật nghiệp vụ, công cụ hỗ trợ"
+   },
+   "text": {
+    "vi": "Điều 46. Sử dụng vũ khí, phương tiện kỹ thuật nghiệp vụ, công cụ hỗ trợ\n\nSĩ quan, hạ sĩ quan, quân nhân chuyên nghiệp, chiến sĩ, binh sĩ Công an nhân dân, Quân đội nhân dân khi thực hiện nhiệm vụ thi hành tạm giữ, tạm giam được sử dụng vũ khí, phương tiện kỹ thuật nghiệp vụ, công cụ hỗ trợ."
+   }
+  },
+  {
+   "id": "VN-H639-A47",
+   "no": 47,
+   "noLabel": {
+    "vi": "Điều 47"
+   },
+   "chapter": {
+    "vi": "Chương VIII"
+   },
+   "heading": {
+    "vi": "Cơ sở dữ liệu về thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú"
+   },
+   "text": {
+    "vi": "Điều 47. Cơ sở dữ liệu về thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú\n\n1. Cơ sở dữ liệu về thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú do Bộ Công an thống nhất quản lý và là bộ phận của Cơ sở dữ liệu quốc gia về thông tin phòng, chống tội phạm nhằm phục vụ công tác quản lý nhà nước về thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú.\n\n2. Việc xây dựng, thu thập, lưu trữ, xử lý, bảo vệ, khai thác, sử dụng Cơ sở dữ liệu về thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú do Chính phủ quy định."
+   }
+  },
+  {
+   "id": "VN-H639-A48",
+   "no": 48,
+   "noLabel": {
+    "vi": "Điều 48"
+   },
+   "chapter": {
+    "vi": "Chương VIII"
+   },
+   "heading": {
+    "vi": "Chế độ, chính sách đối với cơ quan, tổ chức, cá nhân trong quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú"
+   },
+   "text": {
+    "vi": "Điều 48. Chế độ, chính sách đối với cơ quan, tổ chức, cá nhân trong quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú\n\n1. Sĩ quan, hạ sĩ quan, quân nhân chuyên nghiệp, chiến sĩ, binh sĩ Công an nhân dân, Quân đội nhân dân và công nhân, viên chức công an, quốc phòng làm nhiệm vụ quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú được hưởng chế độ, chính sách ưu đãi theo quy định của pháp luật.\n\n2. Cơ quan, tổ chức, cá nhân tham gia hoạt động quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú có thành tích thì được khen thưởng; nếu bị thiệt hại về tính mạng, sức khỏe, tài sản thì được hưởng chế độ, chính sách theo quy định của pháp luật.\n\nChương IX\n\n KIỂM SÁT QUẢN LÝ, THI HÀNH TẠM GIỮ, TẠM GIAM\n\nVÀ CẤM ĐI KHỎI NƠI CƯ TRÚ"
+   }
+  },
+  {
+   "id": "VN-H639-A49",
+   "no": 49,
+   "noLabel": {
+    "vi": "Điều 49"
+   },
+   "chapter": {
+    "vi": "Chương IX"
+   },
+   "heading": {
+    "vi": "Nhiệm vụ, quyền hạn của Viện kiểm sát khi kiểm sát quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú"
+   },
+   "text": {
+    "vi": "Điều 49. Nhiệm vụ, quyền hạn của Viện kiểm sát khi kiểm sát quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú\n\n1. Viện kiểm sát kiểm sát việc tuân theo pháp luật của cơ quan, người có thẩm quyền trong quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú.\n\n2. Khi kiểm sát quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú, Viện kiểm sát có các nhiệm vụ, quyền hạn sau đây:\n\na) Kiểm sát tại các cơ sở giam giữ, cơ quan, đơn vị được giao một số nhiệm vụ thi hành biện pháp ngăn chặn cấm đi khỏi nơi cư trú; hỏi người bị tạm giữ, người bị tạm giam, người bị cấm đi khỏi nơi cư trú về việc tạm giữ, tạm giam, cấm đi khỏi nơi cư trú;\n\nb) Kiểm sát hồ sơ tạm giữ, tạm giam, cấm đi khỏi nơi cư trú;\n\nc) Yêu cầu Thủ trưởng cơ sở giam giữ, cơ quan, đơn vị được giao một số nhiệm vụ thi hành biện pháp ngăn chặn cấm đi khỏi nơi cư trú tự kiểm tra việc tạm giữ, tạm giam, cấm đi khỏi nơi cư trú và thông báo kết quả cho Viện kiểm sát; cung cấp hồ sơ, tài liệu có liên quan đến việc thi hành tạm giữ, tạm giam, cấm đi khỏi nơi cư trú; thông báo tình hình thi hành tạm giữ, tạm giam, cấm đi khỏi nơi cư trú; trả lời về quyết định, biện pháp hoặc hành vi vi phạm pháp luật trong việc tạm giữ, tạm giam, cấm đi khỏi nơi cư trú;\n\nd) Quyết định trả tự do ngay cho người bị tạm giữ, người bị tạm giam không có căn cứ và trái pháp luật; hủy bỏ biện pháp ngăn chặn cấm đi khỏi nơi cư trú không có căn cứ và trái pháp luật;\n\nđ) Kháng nghị, kiến nghị, yêu cầu cơ quan, người có thẩm quyền trong việc tạm giữ, tạm giam, cấm đi khỏi nơi cư trú đình chỉ việc thi hành, sửa đổi hoặc bãi bỏ quyết định có vi phạm pháp luật trong quản lý, thi hành tạm giữ, tạm giam, cấm đi khỏi nơi cư trú, chấm dứt hành vi vi phạm pháp luật và yêu cầu xử lý người vi phạm pháp luật;\n\ne) Khởi tố hoặc yêu cầu Cơ quan điều tra khởi tố vụ án hình sự khi phát hiện vụ việc có dấu hiệu tội phạm trong quản lý, thi hành tạm giữ, tạm giam, cấm đi khỏi nơi cư trú theo quy định của pháp luật;\n\ng) Giải quyết khiếu nại, tố cáo và thực hiện nhiệm vụ, quyền hạn khác trong kiểm sát quản lý, thi hành tạm giữ, tạm giam, cấm đi khỏi nơi cư trú theo quy định của Luật này, Luật Tổ chức Viện kiểm sát nhân dân, Bộ luật Tố tụng hình sự và quy định khác của pháp luật có liên quan."
+   }
+  },
+  {
+   "id": "VN-H639-A50",
+   "no": 50,
+   "noLabel": {
+    "vi": "Điều 50"
+   },
+   "chapter": {
+    "vi": "Chương IX"
+   },
+   "heading": {
+    "vi": "Trách nhiệm thực hiện yêu cầu, kiến nghị, kháng nghị, quyết định của Viện kiểm sát trong quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú"
+   },
+   "text": {
+    "vi": "Điều 50. Trách nhiệm thực hiện yêu cầu, kiến nghị, kháng nghị, quyết định của Viện kiểm sát trong quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú\n\n1. Thủ trưởng cơ sở giam giữ có trách nhiệm thực hiện yêu cầu, kiến nghị, kháng nghị, quyết định của Viện kiểm sát trong quản lý, thi hành tạm giữ, tạm giam như sau:\n\na) Yêu cầu cung cấp hồ sơ, tài liệu có liên quan đến quản lý, thi hành tạm giữ, tạm giam phải được thực hiện ngay; yêu cầu thông báo tình hình tạm giữ, tạm giam, yêu cầu trả lời về quyết định, biện pháp hoặc hành vi vi phạm pháp luật trong việc tạm giữ, tạm giam được thực hiện trong thời hạn 15 ngày kể từ ngày nhận được yêu cầu; yêu cầu tự kiểm tra việc tạm giữ, tạm giam và thông báo kết quả cho Viện kiểm sát được thực hiện trong thời hạn 30 ngày kể từ ngày nhận được yêu cầu;\n\nb) Quyết định quy định tại điểm d khoản 2 Điều 49 của Luật này phải được thi hành ngay; nếu không nhất trí với quyết định đó thì vẫn phải thi hành, nhưng có quyền khiếu nại lên Viện kiểm sát cấp trên có thẩm quyền. Trong thời hạn 10 ngày kể từ ngày nhận được khiếu nại, Viện trưởng Viện kiểm sát cấp trên phải giải quyết;\n\nc) Kháng nghị quy định tại điểm đ khoản 2 Điều 49 của Luật này phải được giải quyết trong thời hạn 15 ngày kể từ ngày nhận được kháng nghị; nếu không nhất trí với kháng nghị thì có quyền khiếu nại lên Viện kiểm sát cấp trên có thẩm quyền. Trong thời hạn 15 ngày kể từ ngày nhận được khiếu nại, Viện kiểm sát cấp trên phải giải quyết; quyết định của Viện kiểm sát cấp trên là quyết định có hiệu lực pháp luật;\n\nd) Kiến nghị quy định tại điểm đ khoản 2 Điều 49 của Luật này phải được xem xét, giải quyết, trả lời cho Viện kiểm sát trong thời hạn 30 ngày kể từ ngày nhận được kiến nghị.\n\n2. Cơ quan quản lý, cơ quan thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú có trách nhiệm thực hiện yêu cầu, kiến nghị, kháng nghị, quyết định của Viện kiểm sát trong thi hành biện pháp ngăn chặn cấm đi khỏi nơi cư trú. Trình tự, thủ tục thực hiện các yêu cầu, kiến nghị, kháng nghị, quyết định của Viện kiểm sát trong thi hành biện pháp ngăn chặn cấm đi khỏi nơi cư trú thực hiện theo quy định của pháp luật có liên quan.\n\nChương X\n\n KHIẾU NẠI, TỐ CÁO VÀ GIẢI QUYẾT KHIẾU NẠI, TỐ CÁO TRONG QUẢN LÝ, THI HÀNH TẠM GIỮ, TẠM GIAM VÀ CẤM ĐI KHỎI NƠI CƯ TRÚ\n\nMục 1\n\n KHIẾU NẠI VÀ GIẢI QUYẾT KHIẾU NẠI TRONG QUẢN LÝ, THI HÀNH TẠM GIỮ, TẠM GIAM VÀ CẤM ĐI KHỎI NƠI CƯ TRÚ"
+   }
+  },
+  {
+   "id": "VN-H639-A51",
+   "no": 51,
+   "noLabel": {
+    "vi": "Điều 51"
+   },
+   "chapter": {
+    "vi": "Chương X"
+   },
+   "heading": {
+    "vi": "Khiếu nại trong quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú"
+   },
+   "text": {
+    "vi": "Điều 51. Khiếu nại trong quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú\n\n1. Người bị tạm giữ, người bị tạm giam, người bị cấm đi khỏi nơi cư trú và cơ quan, tổ chức, cá nhân khác có liên quan có quyền khiếu nại đối với quyết định, hành vi của cơ quan, người có thẩm quyền trong quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú nếu có căn cứ cho rằng quyết định, hành vi đó là trái pháp luật, xâm phạm quyền và lợi ích hợp pháp của mình.\n\n2. Thời hiệu khiếu nại lần đầu là 30 ngày kể từ ngày nhận hoặc biết được quyết định, hành vi trong quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú mà người khiếu nại cho rằng có vi phạm pháp luật.\n\nTrong trường hợp vì ốm đau, thiên tai, đi công tác, học tập ở xa hoặc vì trở ngại khách quan khác mà người khiếu nại không thực hiện được quyền khiếu nại theo đúng thời hiệu thì thời gian có trở ngại đó không tính vào thời hiệu khiếu nại. Thời hiệu khiếu nại lần hai là 15 ngày kể từ ngày nhận được quyết định giải quyết khiếu nại của người có thẩm quyền."
+   }
+  },
+  {
+   "id": "VN-H639-A52",
+   "no": 52,
+   "noLabel": {
+    "vi": "Điều 52"
+   },
+   "chapter": {
+    "vi": "Chương X"
+   },
+   "heading": {
+    "vi": "Những trường hợp khiếu nại về quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú không được thụ lý giải quyết"
+   },
+   "text": {
+    "vi": "Điều 52. Những trường hợp khiếu nại về quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú không được thụ lý giải quyết\n\n1. Quyết định, hành vi bị khiếu nại không liên quan trực tiếp đến quyền, lợi ích hợp pháp của người khiếu nại.\n\n2. Người khiếu nại không có năng lực hành vi dân sự đầy đủ mà không có người đại diện hợp pháp, trừ trường hợp người khiếu nại là người bị tạm giữ, người bị tạm giam, người bị cấm đi khỏi nơi cư trú.\n\n3. Người đại diện không có căn cứ chứng minh về việc đại diện hợp pháp của mình.\n\n4. Thời hiệu khiếu nại đã hết.\n\n5. Việc khiếu nại đã có quyết định giải quyết khiếu nại có hiệu lực pháp luật."
+   }
+  },
+  {
+   "id": "VN-H639-A53",
+   "no": 53,
+   "noLabel": {
+    "vi": "Điều 53"
+   },
+   "chapter": {
+    "vi": "Chương X"
+   },
+   "heading": {
+    "vi": "Thẩm quyền giải quyết khiếu nại trong quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú"
+   },
+   "text": {
+    "vi": "Điều 53. Thẩm quyền giải quyết khiếu nại trong quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú\n\n1. Viện trưởng Viện kiểm sát nhân dân khu vực, Viện trưởng Viện kiểm sát nhân dân cấp tỉnh, Viện trưởng Viện kiểm sát quân sự khu vực, Viện trưởng Viện kiểm sát quân sự cấp quân khu giải quyết khiếu nại đối với quyết định, hành vi trái pháp luật trong quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú của cơ quan, người có thẩm quyền thuộc trách nhiệm kiểm sát của mình. Viện trưởng Viện kiểm sát cấp trên có thẩm quyền giải quyết khiếu nại đối với việc giải quyết khiếu nại của Viện trưởng Viện kiểm sát cấp dưới; quyết định giải quyết khiếu nại của Viện trưởng Viện kiểm sát cấp trên là quyết định có hiệu lực pháp luật.\n\n2. Cơ quan, người có thẩm quyền trong quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú nhận được đơn khiếu nại quy định tại Điều 51 của Luật này thì phải chuyển khiếu nại của người bị tạm giữ, người bị tạm giam, người bị cấm đi khỏi nơi cư trú cho Viện kiểm sát trong thời hạn 24 giờ kể từ khi nhận được khiếu nại."
+   }
+  },
+  {
+   "id": "VN-H639-A54",
+   "no": 54,
+   "noLabel": {
+    "vi": "Điều 54"
+   },
+   "chapter": {
+    "vi": "Chương X"
+   },
+   "heading": {
+    "vi": "Quyền và nghĩa vụ của người khiếu nại trong quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú"
+   },
+   "text": {
+    "vi": "Điều 54. Quyền và nghĩa vụ của người khiếu nại trong quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú\n\n1. Người khiếu nại có các quyền sau đây:\n\na) Tự mình khiếu nại hoặc thông qua người đại diện hợp pháp để khiếu nại; người khiếu nại được trực tiếp khiếu nại hoặc gửi đơn khiếu nại thông qua cơ quan, người có thẩm quyền trong quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú;\n\nb) Rút khiếu nại trong bất kỳ thời gian nào của quá trình giải quyết khiếu nại;\n\nc) Được nhận quyết định giải quyết khiếu nại;\n\nd) Tiếp tục khiếu nại trong trường hợp không đồng ý với quyết định giải quyết khiếu nại lần đầu;\n\nđ) Được khôi phục quyền, lợi ích hợp pháp đã bị xâm phạm, được bồi thường thiệt hại theo quy định của pháp luật.\n\n2. Người khiếu nại có các nghĩa vụ sau đây:\n\na) Trình bày trung thực sự việc, cung cấp thông tin, tài liệu cho người giải quyết khiếu nại; chịu trách nhiệm trước pháp luật về nội dung trình bày và việc cung cấp thông tin, tài liệu đó;\n\nb) Chấp hành quyết định giải quyết khiếu nại có hiệu lực pháp luật."
+   }
+  },
+  {
+   "id": "VN-H639-A55",
+   "no": 55,
+   "noLabel": {
+    "vi": "Điều 55"
+   },
+   "chapter": {
+    "vi": "Chương X"
+   },
+   "heading": {
+    "vi": "Quyền và nghĩa vụ của người bị khiếu nại trong quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú"
+   },
+   "text": {
+    "vi": "Điều 55. Quyền và nghĩa vụ của người bị khiếu nại trong quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú\n\n1. Người bị khiếu nại có các quyền sau đây:\n\na) Đưa ra bằng chứng về tính hợp pháp của quyết định, hành vi trong quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú bị khiếu nại;\n\nb) Được nhận quyết định giải quyết khiếu nại về quyết định, hành vi trong quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú của mình.\n\n2. Người bị khiếu nại có các nghĩa vụ sau đây:\n\na) Giải trình về quyết định, hành vi trong quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú bị khiếu nại; cung cấp thông tin, tài liệu liên quan khi cơ quan, cá nhân có thẩm quyền yêu cầu;\n\nb) Chấp hành quyết định giải quyết khiếu nại có hiệu lực pháp luật."
+   }
+  },
+  {
+   "id": "VN-H639-A56",
+   "no": 56,
+   "noLabel": {
+    "vi": "Điều 56"
+   },
+   "chapter": {
+    "vi": "Chương X"
+   },
+   "heading": {
+    "vi": "Nhiệm vụ, quyền hạn của Viện kiểm sát khi giải quyết khiếu nại trong quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú"
+   },
+   "text": {
+    "vi": "Điều 56. Nhiệm vụ, quyền hạn của Viện kiểm sát khi giải quyết khiếu nại trong quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú\n\n1. Tiếp nhận, giải quyết khiếu nại đối với quyết định, hành vi bị khiếu nại.\n\n2. Yêu cầu người khiếu nại, người bị khiếu nại giải trình, cung cấp thông tin, tài liệu liên quan đến việc khiếu nại.\n\n3. Thông báo bằng văn bản về việc thụ lý khiếu nại và gửi quyết định giải quyết cho người khiếu nại và người bị khiếu nại.\n\n4. Chịu trách nhiệm trước pháp luật về việc giải quyết khiếu nại của mình."
+   }
+  },
+  {
+   "id": "VN-H639-A57",
+   "no": 57,
+   "noLabel": {
+    "vi": "Điều 57"
+   },
+   "chapter": {
+    "vi": "Chương X"
+   },
+   "heading": {
+    "vi": "Thời hạn giải quyết khiếu nại và gửi quyết định giải quyết khiếu nại trong quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú"
+   },
+   "text": {
+    "vi": "Điều 57. Thời hạn giải quyết khiếu nại và gửi quyết định giải quyết khiếu nại trong quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú\n\n1. Thời hạn giải quyết khiếu nại lần đầu trong quản lý, thi hành tạm giữ là 02 ngày, trong quản lý, thi hành tạm giam và cấm đi khỏi nơi cư trú là 05 ngày kể từ ngày thụ lý khiếu nại.\n\n2. Thời hạn giải quyết khiếu nại lần hai trong quản lý, thi hành tạm giữ là 03 ngày, trong quản lý, thi hành tạm giam và cấm đi khỏi nơi cư trú là 10 ngày kể từ ngày thụ lý khiếu nại.\n\n3. Trường hợp cần thiết, đối với vụ việc phức tạp thì thời hạn giải quyết khiếu nại quy định tại khoản 1 và khoản 2 Điều này có thể kéo dài nhưng không quá 05 ngày trong quản lý, thi hành tạm giữ, không quá 20 ngày trong quản lý, thi hành tạm giam và cấm đi khỏi nơi cư trú kể từ ngày hết thời hạn giải quyết khiếu nại.\n\n4. Trong thời hạn 24 giờ kể từ khi ra quyết định giải quyết khiếu nại, người ra quyết định giải quyết khiếu nại có trách nhiệm gửi quyết định cho người khiếu nại và người bị khiếu nại."
+   }
+  },
+  {
+   "id": "VN-H639-A58",
+   "no": 58,
+   "noLabel": {
+    "vi": "Điều 58"
+   },
+   "chapter": {
+    "vi": "Chương X"
+   },
+   "heading": {
+    "vi": "Hồ sơ giải quyết khiếu nại trong quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú"
+   },
+   "text": {
+    "vi": "Điều 58. Hồ sơ giải quyết khiếu nại trong quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú\n\n1. Hồ sơ giải quyết khiếu nại gồm có:\n\na) Đơn khiếu nại hoặc văn bản ghi nội dung khiếu nại;\n\nb) Văn bản giải trình của người bị khiếu nại;\n\nc) Biên bản thẩm tra, xác minh, kết luận;\n\nd) Quyết định giải quyết khiếu nại;\n\nđ) Tài liệu khác có liên quan.\n\n2. Hồ sơ giải quyết khiếu nại phải được đánh số trang và lưu giữ tại cơ quan giải quyết khiếu nại."
+   }
+  },
+  {
+   "id": "VN-H639-A59",
+   "no": 59,
+   "noLabel": {
+    "vi": "Điều 59"
+   },
+   "chapter": {
+    "vi": "Chương X"
+   },
+   "heading": {
+    "vi": "Trình tự giải quyết khiếu nại lần đầu trong quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú"
+   },
+   "text": {
+    "vi": "Điều 59. Trình tự giải quyết khiếu nại lần đầu trong quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú\n\n1. Sau khi thụ lý khiếu nại, Viện kiểm sát có thẩm quyền giải quyết khiếu nại lần đầu tiến hành xác minh, yêu cầu người khiếu nại, người bị khiếu nại giải trình, cung cấp thông tin, tài liệu liên quan đến việc khiếu nại; làm việc với cơ quan, tổ chức, cá nhân có liên quan để làm rõ nội dung khiếu nại và ra quyết định giải quyết khiếu nại lần đầu.\n\n2. Quyết định giải quyết khiếu nại lần đầu có hiệu lực pháp luật nếu trong thời hiệu do Luật này quy định người khiếu nại không khiếu nại tiếp."
+   }
+  },
+  {
+   "id": "VN-H639-A60",
+   "no": 60,
+   "noLabel": {
+    "vi": "Điều 60"
+   },
+   "chapter": {
+    "vi": "Chương X"
+   },
+   "heading": {
+    "vi": "Nội dung quyết định giải quyết khiếu nại lần đầu trong quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú"
+   },
+   "text": {
+    "vi": "Điều 60. Nội dung quyết định giải quyết khiếu nại lần đầu trong quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú\n\n1. Tên cơ quan, ngày, tháng, năm ra quyết định.\n\n2. Họ tên, địa chỉ của người khiếu nại, người bị khiếu nại.\n\n3. Nội dung khiếu nại.\n\n4. Kết quả xác minh nội dung khiếu nại.\n\n5. Căn cứ pháp luật để giải quyết khiếu nại.\n\n6. Kết luận khiếu nại là đúng, đúng một phần hoặc sai.\n\n7. Giữ nguyên, hủy bỏ hoặc yêu cầu sửa đổi, hủy bỏ một phần quyết định bị khiếu nại hoặc buộc chấm dứt việc thực hiện quyết định, hành vi bị khiếu nại.\n\n8. Việc bồi thường thiệt hại, khắc phục hậu quả do quyết định, hành vi trái pháp luật gây ra.\n\n9. Hướng dẫn việc thực hiện quyền khiếu nại tiếp theo."
+   }
+  },
+  {
+   "id": "VN-H639-A61",
+   "no": 61,
+   "noLabel": {
+    "vi": "Điều 61"
+   },
+   "chapter": {
+    "vi": "Chương X"
+   },
+   "heading": {
+    "vi": "Thủ tục giải quyết khiếu nại lần hai trong quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú"
+   },
+   "text": {
+    "vi": "Điều 61. Thủ tục giải quyết khiếu nại lần hai trong quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú\n\n1. Trường hợp tiếp tục khiếu nại thì người khiếu nại phải gửi đơn kèm theo bản sao quyết định giải quyết khiếu nại lần đầu và tài liệu liên quan cho Viện kiểm sát có thẩm quyền giải quyết khiếu nại lần hai.\n\n2. Trong quá trình giải quyết khiếu nại, Viện kiểm sát có thẩm quyền giải quyết khiếu nại lần hai có quyền yêu cầu Viện kiểm sát giải quyết khiếu nại lần đầu, cơ quan, tổ chức, cá nhân có liên quan cung cấp thông tin, tài liệu liên quan đến nội dung khiếu nại; làm việc với người bị khiếu nại, người khiếu nại khi cần thiết; xác minh, tiến hành các biện pháp khác theo quy định của pháp luật để giải quyết khiếu nại. Cơ quan, tổ chức, cá nhân khi nhận được yêu cầu phải thực hiện đúng các yêu cầu đó. Quyết định giải quyết khiếu nại lần hai có hiệu lực pháp luật."
+   }
+  },
+  {
+   "id": "VN-H639-A62",
+   "no": 62,
+   "noLabel": {
+    "vi": "Điều 62"
+   },
+   "chapter": {
+    "vi": "Chương X"
+   },
+   "heading": {
+    "vi": "Nội dung quyết định giải quyết khiếu nại lần hai trong quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú"
+   },
+   "text": {
+    "vi": "Điều 62. Nội dung quyết định giải quyết khiếu nại lần hai trong quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú\n\n1. Tên cơ quan, ngày, tháng, năm ra quyết định.\n\n2. Họ tên, địa chỉ của người khiếu nại, người bị khiếu nại.\n\n3. Nội dung khiếu nại.\n\n4. Kết quả xác minh nội dung khiếu nại.\n\n5. Căn cứ pháp luật để giải quyết khiếu nại.\n\n6. Kết luận về nội dung khiếu nại và việc giải quyết của người có thẩm quyền giải quyết khiếu nại lần đầu.\n\n7. Giữ nguyên, hủy bỏ hoặc yêu cầu sửa đổi, hủy bỏ một phần quyết định bị khiếu nại hoặc buộc chấm dứt việc thực hiện quyết định, hành vi bị khiếu nại.\n\n8. Việc bồi thường thiệt hại, khắc phục hậu quả do quyết định, hành vi trái pháp luật gây ra.\n\nMục 2\n\n TỐ CÁO VÀ GIẢI QUYẾT TỐ CÁO TRONG QUẢN LÝ, THI HÀNH TẠM GIỮ, TẠM GIAM VÀ CẤM ĐI KHỎI NƠI CƯ TRÚ"
+   }
+  },
+  {
+   "id": "VN-H639-A63",
+   "no": 63,
+   "noLabel": {
+    "vi": "Điều 63"
+   },
+   "chapter": {
+    "vi": "Chương X"
+   },
+   "heading": {
+    "vi": "Tố cáo trong quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú"
+   },
+   "text": {
+    "vi": "Điều 63. Tố cáo trong quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú\n\n1. Người bị tạm giữ, người bị tạm giam, người bị cấm đi khỏi nơi cư trú và mọi người có quyền tố cáo với cơ quan, người có thẩm quyền về hành vi vi phạm pháp luật của bất kỳ người có thẩm quyền nào trong quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú gây thiệt hại hoặc đe dọa gây thiệt hại lợi ích của Nhà nước, quyền, lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.\n\n2. Cơ quan, người có thẩm quyền trong quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú phải chuyển tố cáo cho Viện kiểm sát có thẩm quyền trong thời hạn 24 giờ kể từ khi nhận được tố cáo."
+   }
+  },
+  {
+   "id": "VN-H639-A64",
+   "no": 64,
+   "noLabel": {
+    "vi": "Điều 64"
+   },
+   "chapter": {
+    "vi": "Chương X"
+   },
+   "heading": {
+    "vi": "Quyền và nghĩa vụ của người tố cáo trong quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú"
+   },
+   "text": {
+    "vi": "Điều 64. Quyền và nghĩa vụ của người tố cáo trong quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú\n\n1. Người tố cáo có các quyền sau đây:\n\na) Gửi đơn hoặc trực tiếp tố cáo với cơ quan, người có thẩm quyền;\n\nb) Yêu cầu giữ bí mật họ tên, địa chỉ, bút tích của mình;\n\nc) Yêu cầu được thông báo kết quả giải quyết tố cáo;\n\nd) Yêu cầu cơ quan có thẩm quyền bảo vệ khi bị đe dọa, trả thù.\n\n2. Người tố cáo có các nghĩa vụ sau đây:\n\na) Trình bày trung thực về nội dung tố cáo;\n\nb) Nêu rõ họ tên, địa chỉ của mình;\n\nc) Chịu trách nhiệm trước pháp luật về việc tố cáo sai sự thật."
+   }
+  },
+  {
+   "id": "VN-H639-A65",
+   "no": 65,
+   "noLabel": {
+    "vi": "Điều 65"
+   },
+   "chapter": {
+    "vi": "Chương X"
+   },
+   "heading": {
+    "vi": "Quyền và nghĩa vụ của người bị tố cáo trong quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú"
+   },
+   "text": {
+    "vi": "Điều 65. Quyền và nghĩa vụ của người bị tố cáo trong quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú\n\n1. Người bị tố cáo có các quyền sau đây:\n\na) Được thông báo về nội dung tố cáo;\n\nb) Đưa ra bằng chứng để chứng minh nội dung tố cáo là không đúng sự thật;\n\nc) Được khôi phục quyền, lợi ích hợp pháp bị xâm phạm, được khôi phục danh dự, nhân phẩm, được bồi thường thiệt hại do việc tố cáo không đúng gây ra;\n\nd) Yêu cầu cơ quan, tổ chức, cá nhân có thẩm quyền xử lý người tố cáo sai sự thật.\n\n2. Người bị tố cáo có các nghĩa vụ sau đây:\n\na) Giải trình về hành vi bị tố cáo; cung cấp thông tin, tài liệu liên quan khi cơ quan, người có thẩm quyền yêu cầu;\n\nb) Chấp hành quyết định giải quyết tố cáo của cơ quan, người có thẩm quyền;\n\nc) Bồi thường thiệt hại, khắc phục hậu quả do hành vi trái pháp luật của mình gây ra."
+   }
+  },
+  {
+   "id": "VN-H639-A66",
+   "no": 66,
+   "noLabel": {
+    "vi": "Điều 66"
+   },
+   "chapter": {
+    "vi": "Chương X"
+   },
+   "heading": {
+    "vi": "Hồ sơ giải quyết tố cáo trong quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú"
+   },
+   "text": {
+    "vi": "Điều 66. Hồ sơ giải quyết tố cáo trong quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú\n\n1. Việc giải quyết tố cáo phải được lập thành hồ sơ. Hồ sơ giải quyết tố cáo bao gồm:\n\na) Đơn tố cáo hoặc văn bản ghi nội dung tố cáo;\n\nb) Quyết định thụ lý giải quyết tố cáo;\n\nc) Biên bản xác minh, kết quả giám định, thông tin, tài liệu, chứng cứ thu thập được trong quá trình giải quyết;\n\nd) Văn bản giải trình của người bị tố cáo;\n\nđ) Báo cáo kết quả xác minh nội dung tố cáo trong trường hợp người giải quyết tố cáo giao cho người khác tiến hành xác minh;\n\ne) Kết luận nội dung tố cáo;\n\ng) Quyết định xử lý;\n\nh) Tài liệu khác có liên quan.\n\n2. Hồ sơ giải quyết tố cáo phải được đánh số trang theo thứ tự tài liệu. Việc lưu giữ, khai thác, sử dụng hồ sơ giải quyết tố cáo, bảo vệ bí mật thông tin của người tố cáo được thực hiện theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H639-A67",
+   "no": 67,
+   "noLabel": {
+    "vi": "Điều 67"
+   },
+   "chapter": {
+    "vi": "Chương X"
+   },
+   "heading": {
+    "vi": "Thẩm quyền, thủ tục, thời hạn giải quyết tố cáo trong quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú"
+   },
+   "text": {
+    "vi": "Điều 67. Thẩm quyền, thủ tục, thời hạn giải quyết tố cáo trong quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú\n\n1. Thẩm quyền, thủ tục giải quyết tố cáo của Viện kiểm sát được thực hiện theo quy định của Luật Tổ chức Viện kiểm sát nhân dân.\n\n2. Thời hạn giải quyết tố cáo là 60 ngày kể từ ngày thụ lý; đối với vụ việc phức tạp thì thời hạn giải quyết tố cáo có thể dài hơn, nhưng không quá 90 ngày.\n\n3. Tố cáo về hành vi vi phạm pháp luật có dấu hiệu tội phạm được giải quyết theo quy định của Bộ luật Tố tụng hình sự."
+   }
+  },
+  {
+   "id": "VN-H639-A68",
+   "no": 68,
+   "noLabel": {
+    "vi": "Điều 68"
+   },
+   "chapter": {
+    "vi": "Chương X"
+   },
+   "heading": {
+    "vi": "Trách nhiệm của người có thẩm quyền giải quyết tố cáo trong quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú"
+   },
+   "text": {
+    "vi": "Điều 68. Trách nhiệm của người có thẩm quyền giải quyết tố cáo trong quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú\n\n1. Cơ quan, người có thẩm quyền trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm tiếp nhận và giải quyết kịp thời, đúng pháp luật; xử lý nghiêm minh người vi phạm; áp dụng biện pháp cần thiết nhằm ngăn chặn thiệt hại có thể xảy ra; bảo đảm cho quyết định giải quyết được thi hành nghiêm chỉnh và chịu trách nhiệm trước pháp luật về quyết định của mình.\n\n2. Người có thẩm quyền giải quyết tố cáo mà không giải quyết, thiếu trách nhiệm trong việc giải quyết hoặc giải quyết trái pháp luật thì tuỳ theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật hoặc bị truy cứu trách nhiệm hình sự; nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.\n\nChương XI\n\n TRÁCH NHIỆM TRONG QUẢN LÝ, THI HÀNH TẠM GIỮ, TẠM GIAM VÀ CẤM ĐI KHỎI NƠI CƯ TRÚ"
+   }
+  },
+  {
+   "id": "VN-H639-A69",
+   "no": 69,
+   "noLabel": {
+    "vi": "Điều 69"
+   },
+   "chapter": {
+    "vi": "Chương XI"
+   },
+   "heading": {
+    "vi": "Nội dung quản lý nhà nước về thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú"
+   },
+   "text": {
+    "vi": "Điều 69. Nội dung quản lý nhà nước về thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú\n\n1. Ban hành theo thẩm quyền hoặc trình cơ quan có thẩm quyền ban hành văn bản quy phạm pháp luật về thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú; tổ chức thực hiện pháp luật về thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú.\n\n2. Chỉ đạo nghiệp vụ, hướng dẫn việc áp dụng thống nhất các quy định của pháp luật về thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú.\n\n3. Đình chỉ, bãi bỏ theo thẩm quyền hoặc kiến nghị cấp có thẩm quyền bãi bỏ quy định về thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú trái với quy định của Luật này.\n\n4. Quyết định phân bổ kinh phí, bảo đảm điều kiện cho hoạt động quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú.\n\n5. Xây dựng, quản lý Cơ sở dữ liệu về thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú.\n\n6. Thống kê về thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú; báo cáo Quốc hội về quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú.\n\n7. Kiểm tra, thanh tra, khen thưởng, xử lý vi phạm pháp luật về quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú.\n\n8. Quản lý hệ thống tổ chức, biên chế, nhân lực; đào tạo, huấn luyện, bồi dưỡng nghiệp vụ về quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú.\n\n9. Tổ chức sơ kết, tổng kết, nghiên cứu khoa học về quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú.\n\n10. Hợp tác quốc tế trong lĩnh vực quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú."
+   }
+  },
+  {
+   "id": "VN-H639-A70",
+   "no": 70,
+   "noLabel": {
+    "vi": "Điều 70"
+   },
+   "chapter": {
+    "vi": "Chương XI"
+   },
+   "heading": {
+    "vi": "Trách nhiệm quản lý nhà nước về thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú"
+   },
+   "text": {
+    "vi": "Điều 70. Trách nhiệm quản lý nhà nước về thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú\n\n1. Chính phủ thống nhất quản lý nhà nước về thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú trong phạm vi cả nước.\n\n2. Bộ Công an là cơ quan đầu mối giúp Chính phủ thực hiện quản lý nhà nước về thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú.\n\n3. Các Bộ, cơ quan ngang Bộ, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm thực hiện và phối hợp với cơ quan, tổ chức có liên quan trong quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú.\n\n4. Ủy ban nhân dân các cấp có trách nhiệm giao đất, hỗ trợ kinh phí từ ngân sách địa phương, tạo điều kiện thuận lợi cho việc xây dựng và quản lý cơ sở giam giữ tại địa phương mình và chỉ đạo các cơ quan nhà nước ở địa phương phối hợp bảo đảm an ninh, an toàn cho cơ sở giam giữ."
+   }
+  },
+  {
+   "id": "VN-H639-A71",
+   "no": 71,
+   "noLabel": {
+    "vi": "Điều 71"
+   },
+   "chapter": {
+    "vi": "Chương XI"
+   },
+   "heading": {
+    "vi": "Trách nhiệm của Viện kiểm sát nhân dân tối cao"
+   },
+   "text": {
+    "vi": "Điều 71. Trách nhiệm của Viện kiểm sát nhân dân tối cao\n\n1. Phối hợp với Bộ Công an, Bộ Quốc phòng và các cơ quan hữu quan khác hướng dẫn thực hiện pháp luật về thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú.\n\n2. Kiểm sát và chỉ đạo Viện kiểm sát các cấp thực hiện việc kiểm sát quản lý, thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú, giải quyết khiếu nại, tố cáo theo quy định của Luật này và quy định khác của pháp luật có liên quan.\n\n3. Thực hiện chế độ thống kê, báo cáo, số hóa về công tác thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H639-A72",
+   "no": 72,
+   "noLabel": {
+    "vi": "Điều 72"
+   },
+   "chapter": {
+    "vi": "Chương XI"
+   },
+   "heading": {
+    "vi": "Trách nhiệm của Tòa án nhân dân tối cao"
+   },
+   "text": {
+    "vi": "Điều 72. Trách nhiệm của Tòa án nhân dân tối cao\n\n1. Phối hợp với Bộ Công an, Bộ Quốc phòng và các cơ quan hữu quan khác hướng dẫn thực hiện pháp luật về thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú.\n\n2. Thực hiện chế độ thống kê, báo cáo, số hóa về công tác thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú theo quy định của pháp luật.\n\nChương XII\n\n ĐIỀU KHOẢN THI HÀNH"
+   }
+  },
+  {
+   "id": "VN-H639-A73",
+   "no": 73,
+   "noLabel": {
+    "vi": "Điều 73"
+   },
+   "chapter": {
+    "vi": "Chương XII"
+   },
+   "heading": {
+    "vi": "Sửa đổi, bổ sung một số khoản của Điều 123 của Bộ luật Tố tụng hình sự số 101/2015/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 02/2021/QH15, Luật số 34/2024/QH15, Luật số 59/2024/QH15 và Luật số 99/2025/QH15 như sau:"
+   },
+   "text": {
+    "vi": "Điều 73. Sửa đổi, bổ sung một số khoản của Điều 123 của Bộ luật Tố tụng hình sự số 101/2015/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 02/2021/QH15, Luật số 34/2024/QH15, Luật số 59/2024/QH15 và Luật số 99/2025/QH15 như sau:\n\n 1. Sửa đổi, bổ sung khoản 2 như sau:\n\n“2. Bị can, bị cáo bị cấm đi khỏi nơi cư trú phải làm giấy cam đoan thực hiện các nghĩa vụ:\n\na) Không đi khỏi nơi cư trú nếu không được người đã ra lệnh cấm đi khỏi nơi cư trú cho phép, trừ trường hợp vì lý do bất khả kháng hoặc do trở ngại khách quan;\n\nb) Có mặt theo giấy triệu tập, trừ trường hợp vì lý do bất khả kháng hoặc do trở ngại khách quan;\n\nc) Không bỏ trốn, không tiếp tục phạm tội;\n\nd) Không mua chuộc, cưỡng ép, xúi giục người khác khai báo gian dối, cung cấp tài liệu sai sự thật; không tiêu hủy, giả mạo chứng cứ, tài liệu, đồ vật của vụ án, tẩu tán tài sản liên quan đến vụ án; không đe dọa, khống chế, trả thù người làm chứng, bị hại, người tố giác tội phạm và người thân thích của những người này.\n\nTrường hợp bị can, bị cáo vi phạm nghĩa vụ cam đoan quy định tại khoản này hoặc vi phạm các nghĩa vụ theo quy định của Luật Thi hành tạm giữ, tạm giam và cấm đi khỏi nơi cư trú thuộc trường hợp bị đề nghị thay đổi biện pháp ngăn chặn thì bị tạm giam.”.\n\n2. Sửa đổi, bổ sung khoản 5 như sau:\n\n“5. Người ra lệnh cấm đi khỏi nơi cư trú phải gửi lệnh cấm đi khỏi nơi cư trú cho Trưởng Công an cấp xã nơi bị can, bị cáo cư trú, đơn vị quân đội được giao quản lý, theo dõi bị can, bị cáo, cơ quan khác có liên quan để quản lý, theo dõi họ.”."
+   }
+  },
+  {
+   "id": "VN-H639-A74",
+   "no": 74,
+   "noLabel": {
+    "vi": "Điều 74"
+   },
+   "chapter": {
+    "vi": "Chương XII"
+   },
+   "heading": {
+    "vi": "Hiệu lực thi hành"
+   },
+   "text": {
+    "vi": "Điều 74. Hiệu lực thi hành\n\n1. Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2026.\n\n2. Luật Thi hành tạm giữ, tạm giam số 94/2015/QH13 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành.\n\nLuật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khoá XV, Kỳ họp thứ 10 thông qua ngày 10 tháng 12 năm 2025.\n\nCHỦ TỊCH QUỐC HỘI\n\n (Đã ký)\n\n Trần Thanh Mẫn\n\n1:{\"id\":\"186570\",\"docType\":{\"id\":\"11025e19-2dd6-4165-85ad-ab6241186a1a\",\"name\":\"Luật\",\"code\":\"Lu\",\"parentCode\":\"VBQPPL\",\"parentName\":null},\"docGroup\":\"VBQPPL\",\"docNum\":\"128/2025/QH15\",\"title\":\"LUẬT\\nTHI HÀNH TẠM GIỮ, TẠM GIAM VÀ CẤM ĐI KHỎI NƠI CƯ TRÚ SỐ 128/2025/QH15\",\"applicationNote\":null,\"issueDate\":\"2025-12-10T00:00:00\",\"effFrom\":\"2026-07-01T00:00:00\",\"effTo\":null,\"publicDate\":null,\"effStatus\":{\"id\":\"1419f6be-4a15-44a7-97ac-ea042770a514\",\"name\":\"Còn hiệu lực\",\"code\":\"CHL\",\"parentCode\":null,\"parentName\":null},\"status\":\"Publish\",\"lang\":\"vi\",\"defaultLanguage\":\"VN\",\"updatedBy\":\"System Scheduler\",\"updatedDate\":\"2026-07-01T00:00:07\",\"agencyName\":\"Quốc hội\",\"organization\":{\"id\":\"0995e017-a693-4ca7-9dc6-b0a969fe5f19\",\"code\":\"BCA\",\"name\":\"Bộ Công an\",\"nameEn\":\"Bộ Công an\",\"shortName\":\"BCA\",\"orgType\":\"0\"},\"isLw\":true,\"documentContent\":{\"id\":\"186570\",\"title\":null,\"content\":\"$2\"},\"documentContentEn\":null,\"documentContentFileName\":\"VanBanGoc_128.L.2025-Luat Thi hanh tam giu, tam giam va cam di khoi noi cu tru.pdf\",\"documentContentFileDocName\":\"128.2025.QH15.docx\",\"documentIssues\":[{\"id\":\"e30002a3-56ff-410f-ab70-5b7c4c8e6d83\",\"agencyId\":\"55\",\"agencyName\":\"Quốc hội\",\"agencyNameEn\":\"National Assembly of Vietnam\",\"agencyCode\":\"QH\",\"personId\":\"1734\",\"personName\":\"Trần Thanh Mẫn\",\"jobTitleId\":\"28da0087-8afd-420c-875c-b2369e212c3e\",\"jobTitleCode\":\"CTQH\",\"jobTitleName\":\"Chủ tịch Quốc hội\",\"orderIndex\":1}],\"documentMajors\":[],\"documentFields\":[],\"documentRelatedList\":[],\"provisionTree\":null,\"references\":null,\"isEffectAllDocument\":false,\"isOld\":true,\"reviewStatus\":\"RV_DONE\",\"reviewed\":true,\"isTranslationDoc\":false,\"isConsolidatedDocument\":false,\"isConstitutionDocument\":false,\"isAdministrativeDocument\":false,\"viewCount\":224,\"showViewCount\":true,\"hasContent\":true,\"hasOriginalPdf\":null,\"hasAIProcessed\":false,\"hasClauseRelation\":true,\"aiResults\":[]}"
+   }
+  }
+ ]
+}

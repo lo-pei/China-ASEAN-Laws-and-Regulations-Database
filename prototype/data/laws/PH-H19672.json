@@ -1,0 +1,52 @@
+{
+ "id": "PH-H19672",
+ "title": {
+  "zh": null,
+  "en": "Composition of the Armed Forces General Staff",
+  "orig": "Composition of the Armed Forces General Staff"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p158",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1960-02-10",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Executive Order No. 376",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 1,
+ "chars": 326,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (HTML full text only)  |  https://lawphil.net/executive/execord/eo1960/eo_376_1960.html"
+ },
+ "sourceFile": "菲律宾/法律原文/07_行政命令_EO/EO_00376_1960_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 1 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 EO_00376_1960_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H19672-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The Armed Forces General Staff shall be organized into five Divisions, each under the direction\nof an Assistant Chief of Staff, as follows:\n(a) J-1, Personnel and Administrative Division\n(b) J-2, Intelligence Division\n(c) J-3, Organization, Operations, and Training Division\n(d) J-4, Logistics Division\n(e) J-5, Plans Division"
+   }
+  }
+ ]
+}

@@ -1,0 +1,994 @@
+{
+ "id": "ID-H1442",
+ "title": {
+  "zh": "道路法",
+  "en": "road Law",
+  "id": "jalan",
+  "orig": "JALAN",
+  "vi": "Luật đường",
+  "th": "พระราชบัญญัติ ถนน",
+  "ms": "Akta jalan"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02a",
+ "language": "id",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "2004",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU38-2004",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 68,
+ "chars": 65726,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": null
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\01_宪法与基础法\\印尼_WLD_2004_JALAN.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 68 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H1442-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\nDalam Undang-undang ini yang dimaksud dengan:\n1. Pemerintah Pusat, yang selanjutnya disebut\nPemerintah, adalah perangkat Negara Kesatuan Republik Indonesia\nyang terdiri atas Presiden\nbeserta para menteri.\n2. Menteri adalah menteri yang bertanggung jawab dalam bidang\njalan.\n3. Pemerintah daerah adalah kepala daerah beserta\nperangkat daerah otonom yang lain sebagai badan eksekutif\ndaerah.\n4. Jalan adalah prasarana transportasi darat yang\nmeliputi segala bagian jalan, termasuk bangunan pelengkap dan\nperlengkapannya yang\ndiperuntukkan bagi lalu lintas, yang berada\npada permukaan tanah, di atas permukaan tanah, di bawah permukaan\ntanah dan/atau air,\nserta di atas permukaan air, kecuali jalan\nkereta api, jalan lori, dan jalan kabel.\n5. Jalan umum adalah jalan yang diperuntukkan bagi lalu lintas\numum.\n6. Jalan khusus adalah jalan yang dibangun oleh\ninstansi, badan usaha, perseorangan, atau kelompok masyarakat untuk\nkepentingan sendiri.\n7. Jalan tol adalah jalan umum yang merupakan\nbagian sistem jaringan jalan dan sebagai jalan nasional yang\npenggunanya diwajibkan\nmembayar tol.\n8. Tol adalah sejumlah uang tertentu yang\ndibayarkan untuk penggunaan jalan tol.\n9. Penyelenggaraan jalan adalah kegiatan yang\nmeliputi pengaturan, pembinaan, pembangunan, dan pengawasan\njalan.\n10. Pengaturan jalan adalah kegiatan perumusan\nkebijakan perencanaan, penyusunan perencanaan umum, dan penyusunan\nperaturan perundang-undangan\njalan.\n11. Pembinaan jalan adalah kegiatan penyusunan\npedoman dan standar teknis, pelayanan, pemberdayaan sumber daya\nmanusia, serta penelitian\ndan pengembangan jalan.\n12. Pembangunan jalan adalah kegiatan pemrograman\ndan penganggaran, perencanaan teknis, pelaksanaan konstruksi, serta\npengoperasian\ndan pemeliharaan jalan.\n13. Pengawasan jalan adalah kegiatan yang\ndilakukan untuk mewujudkan tertib pengaturan, pembinaan, dan\npembangunan jalan.\n14. Penyelenggara jalan adalah pihak yang\nmelakukan pengaturan, pembinaan, pembangunan, dan pengawasan jalan\nsesuai dengan kewenangannya.\n15. Jalan bebas hambatan adalah jalan umum untuk\nlalu lintas menerus dengan pengendalian jalan masuk secara penuh\ndan tanpa adanya\npersimpangan sebidang serta dilengkapi dengan\npagar ruang milik jalan.\n16. Badan Pengatur Jalan Tol yang selanjutnya\ndisebut BPJT adalah badan yang dibentuk oleh Menteri, berada di\nbawah, dan bertanggung\njawab kepada Menteri.\n17. Badan usaha di bidang jalan tol yang\nselanjutnya disebut Badan Usaha adalah badan hukum yang bergerak di\nbidang pengusahaan jalan\ntol.\n18. Sistem jaringan jalan adalah satu kesatuan\nruas jalan yang saling menghubungkan dan mengikat pusat-pusat\npertumbuhan dengan wilayah\nyang berada dalam pengaruh pelayanannya\ndalam satu hubungan hierarkis.\n19. Orang adalah orang perseorangan atau badan\nusaha, baik yang berbadan hukum maupun yang tidak berbadan\nhukum.\nBAB II\nASAS, TUJUAN, DAN LINGKUP"
+   }
+  },
+  {
+   "id": "ID-H1442-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\nPenyelenggaraan jalan berdasarkan pada asas kemanfaatan, keamanan\ndan keselamatan, keserasian, keselarasan dan keseimbangan,\nkeadilan,\ntransparansi dan akuntabilitas, keberdayagunaan dan\nkeberhasilgunaan, serta kebersamaan dan kemitraan."
+   }
+  },
+  {
+   "id": "ID-H1442-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\nPengaturan penyelenggaraan jalan bertujuan untuk:\na. mewujudkan ketertiban dan kepastian hukum dalam penyelenggaraan\njalan;\nb. mewujudkan peran masyarakat dalam penyelenggaraan jalan;\nc. mewujudkan peran penyelenggara jalan secara\noptimal dalam pemberian layanan kepada masyarakat;\nd. mewujudkan pelayanan jalan yang andal dan prima\nserta berpihak pada kepentingan masyarakat;\ne. mewujudkan sistem jaringan jalan yang berdaya\nguna dan berhasil guna untuk mendukung terselenggaranya sistem\ntransportasi yang\nterpadu; dan\nf. mewujudkan pengusahaan jalan tol yang transparan dan\nterbuka."
+   }
+  },
+  {
+   "id": "ID-H1442-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\nLingkup pengaturan dalam Undang-undang ini mencakup\npenyelenggaraan:\na. jalan umum yang meliputi pengaturan, pembinaan, pembangunan, dan\npengawasan;\nb. jalan tol yang meliputi pengaturan, pembinaan, pengusahaan, dan\npengawasan; dan\nc. jalan khusus.\nBAB III\nPERAN, PENGELOMPOKAN, DAN BAGIAN-BAGIAN JALAN\nBagian Pertama\nPeran Jalan"
+   }
+  },
+  {
+   "id": "ID-H1442-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\n(1) Jalan sebagai bagian prasarana transportasi\nmempunyai peran penting dalam bidang ekonomi, sosial budaya,\nlingkungan hidup, politik,\npertahanan dan keamanan, serta\ndipergunakan untuk sebesar-besar kemakmuran rakyat.\n(2) Jalan sebagai prasarana distribusi barang dan\njasa merupakan urat nadi kehidupan masyarakat, bangsa, dan\nnegara.\n(3) Jalan yang merupakan satu kesatuan sistem\njaringan jalan menghubungkan dan mengikat seluruh wilayah Republik\nIndonesia.\nBagian Kedua\nPengelompokan Jalan"
+   }
+  },
+  {
+   "id": "ID-H1442-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\n(1) Jalan sesuai dengan peruntukannya terdiri atas jalan umum dan\njalan khusus.\n(2) Jalan umum sebagaimana dimaksud pada ayat (1)\ndikelompokkan menurut sistem, fungsi, status, dan kelas.\n(3) Jalan khusus sebagaimana dimaksud pada ayat\n(1) bukan diperuntukkan bagi lalu lintas umum dalam rangka\ndistribusi barang dan jasa\nyang dibutuhkan.\n(4) Ketentuan lebih lanjut mengenai jalan khusus\nsebagaimana dimaksud pada ayat (3) diatur dalam Peraturan\nPemerintah."
+   }
+  },
+  {
+   "id": "ID-H1442-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\n(1) Sistem jaringan jalan terdiri atas sistem\njaringan jalan primer dan sistem jaringan jalan sekunder.\n(2) Sistem jaringan jalan primer sebagaimana\ndimaksud pada ayat (1) merupakan sistem jaringan jalan dengan\nperanan pelayanan distribusi\nbarang dan jasa untuk pengembangan\nsemua wilayah di tingkat nasional, dengan menghubungkan semua\nsimpul jasa distribusi yang berwujud\npusat-pusat kegiatan.\n(3) Sistem jaringan jalan sekunder sebagaimana\ndimaksud pada ayat (1) merupakan sistem jaringan jalan dengan\nperanan pelayanan distribusi\nbarang dan jasa untuk masyarakat di\ndalam kawasan perkotaan.\n(4) Ketentuan lebih lanjut mengellai sistem\njaringan jalan sebagaimana dimaksud pada ayat (1), ayat (2), dan\nayat (3) diatur dalam\nPeraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H1442-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n(1) Jalan umum menurut fungsinya dikelompokkan ke\ndalam jalan arteri, jalan kolektor, jalan lokal, dan jalan\nlingkungan.\n(2) Jalan arteri sebagaimana dimaksud pada ayat\n(1) merupakan jalan umum yang berfungsi melayani angkutan utama\ndengan ciri perjalanan\njarak jauh, kecepatan rata-rata tinggi, dan\njumlah jalan masuk dibatasi secara berdaya guna.\n(3) Jalan kolektor sebagaimana dimaksud pada ayat\n(1) merupakan jalan umum yang berfungsi melayani angkutan pengumpul\natau pembagi\ndengan ciri perjalanan jarak sedang, kecepatan\nrata-rata sedang, dan jumlah jalan masuk dibatasi.\n(4) Jalan lokal sebagaimana dimaksud pada ayat (1)\nmerupakan jalan umum yang berfungsi melayani angkutan setempat\ndengan ciri perjalanan\njarak dekat, kecepatan rata-rata rendah, dan\njumlah jalan masuk tidak dibatasi.\n(5) Jalan lingkungan sebagaimana dimaksud pada\nayat (1) merupakan jalan umum yang berfungsi melayani angkutan\nlingkungan dengan ciri\nperjalanan jarak dekat, dan kecepatan\nrata-rata rendah.\n(6) Ketenman lebih lanjut mengenai jalan arteri,\njalan kolektor, jalan lokal, dan jalan lingkungan sebagaimana\ndimaksud pada ayat\n(2), ayat (3), ayat (4), dan ayat (5) diatur\ndalam Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H1442-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n(1) Jalan umum menurut statusnya dikelompokkan ke\ndalam jalan nasional, jalan provinsi, jalan kabupaten, jalan kota,\ndan jalan desa.\n(2) Jalan nasional sebagaimana dimaksud pada ayat\n(1) merupakan jalan arteri dan jalan kolektor dalam sistem jaringan\njalan primer\nyang menghubungkan antaribukota provinsi, dan jalan\nstrategis nasional, serta jalan tol.\n(3) Jalan provinsi sebagaimana dimaksud pada ayat\n(1) merupakan jalan kolektor dalam sistem jaringan jalan primer\nyang menghubungkan\nibukota provinsi dengan ibukota kabupaten/kota,\natau antaribukota kabupaten/kota, dan jalan strategis\nprovinsi.\n(4) Jalan kabupaten sebagaimana dimaksud pada ayat\n(1) merupakan jalan lokal dalam sistem jaringan jalan primer yang\ntidak termasuk\npada ayat (2) dan ayat (3), yang menghubungkan\nibukota kabupaten dengan ibukota kecamatan, antar ibukota\nkecamatan, ibukota kabupaten\ndengan pusat kegiatan lokal, antar\npusat kegiatan lokal, serta jalan umum dalam sistem jaringan jalan\nsekunder dalam wilayah kabupaten,\ndan jalan strategis\nkabupaten.\n(5) Jalan kota sebagaimana dimaksud pada ayat (1)\nadalah jalan umum dalam sistem jaringan jalan sekunder yang\nmenghubungkan antarpusat\npelayanan dalam kota, menghubungkan pusat\npelayanan dengan persil, menghubungkan antarpersil, serta\nmenghubungkan antarpusat permukiman\nyang berada di dalam\nkota.\n(6) Jalan desa sebagaimana dimaksud pada ayat (1)\nmerupakan jalan umum yang menghubungkan kawasan dan/atau antar\npermukiman di dalam\ndesa, serta jalan lingkungan.\n(7) Ketentuan lebih lanjut mengenai status jalan\numum sebagaimana dimaksud pada ayat (2), ayat (3), ayat (4), ayat\n(5), dan ayat (6)\ndiatur dalam Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H1442-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\n(1) Untuk pengaturan penggunaan jalan dan\nkelancaran lalu lintas, jalan dibagi dalam beberapa kelas\njalan.\n(2) Pembagian kelas jalan diatur sesuai dengan\nketentuan peraturan perundangan-undangan di bidang lalu lintas dan\nangkutan jalan.\n(3) Pengaturan kelas jalan berdasarkan spesifikasi\npenyediaan prasarana jalan dikelompokkan atas jalan bebas hambatan,\njalan raya,\njalan sedang, dan jalan kecil.\n(4) Ketentuan lebih lanjut mengenai spesifikasi\npenyediaan prasarana jalan sebagaimana dimaksud pada ayat (3)\ndiatur dalam Peraturan\nPemerintah.\nBagian Ketiga\nBagian-Bagian Jalan"
+   }
+  },
+  {
+   "id": "ID-H1442-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\n(1) Bagian-bagian jalan meliputi ruang manfaat\njalan, ruang milik jalan, dan ruang pengawasan jalan.\n(2) Ruang manfaat jalan sebagaimana dimaksud pada\nayat (1) meliputi badan jalan, saluran tepi jalan, dan ambang\npengamannya.\n(3) Ruang milik jalan sebagaimana dimaksud pada\nayat (1) meliputi ruang manfaat jalan dan sejalur tanah tertentu di\nluar ruang manfaat\njalan.\n(4) Ruang pengawasan jalan sebagaimana dimaksud\npada ayat (1) merupakan ruang tertentu di luar ruang milik jalan\nyang ada di bawah\npengawasan penyelenggara jalan.\n(5) Ketentuan lebih lanjut mengenai ruang manfaat\njalan, ruang milik jalan, dan ruang pengawasan jalan sebagaimana\ndimaksud pada ayat\n(2), ayat (3), dan ayat (4) diatur dalam\nPeraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H1442-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n(1) Setiap orang dilarang melakukan perbuatan yang\nmengakibatkan terganggunya fungsi jalan di dalam ruang manfaat\njalan.\n(2) Setiap orang dilarang melakukan perbuatan yang\nmengakibatkan terganggunya fungsi jalan di dalam ruang milik\njalan.\n(3) Setiap orang dilarang melakukan perbuatan yang\nmengakibatkan terganggunya fungsi jalan di dalam ruang pengawasan\njalan.\nBAB IV\nJALAN UMUM\nBagian Pertama\nPenguasaan"
+   }
+  },
+  {
+   "id": "ID-H1442-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\n(1) Penguasaan atas jalan ada pada negara.\n(2) Penguasaan oleh negara sebagaimana dimaksud\npada ayat (I) memberi wewenang kepada Pemerintah dan pemerintah\ndaerah untuk melaksanakan\npenyelenggaraan jalan.\nBagian Kedua\nWewenang Pemerintah"
+   }
+  },
+  {
+   "id": "ID-H1442-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\n(1) Wewenang Pemerintah dalam penyelenggaraan\njalan meliputi penyelenggaraan jalan secara umum dan\npenyelenggaraan jalan nasional.\n(2) Wewenang penyelenggaraan jalan secara umum dan\npenyelenggaraan jalan nasional sebagaimana dimaksud pada ayat (1)\nmeliputi pengaturan,\npembinaan, pembangunan, dan pengawasan.\nBagian Ketiga\nWewenang Pemerintah Provinsi"
+   }
+  },
+  {
+   "id": "ID-H1442-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\n(1) Wewenang pemerintah provinsi dalam\npenyelenggaraan jalan meliputi penyelenggaraan jalan\nprovinsi.\n(2) Wewenang penyelenggaraan jalan provinsi\nsebagaimana dimaksud pada ayat (1) meliputi pengaturan, pembinaan,\npembangunan, dan pengawasan\njalan provinsi.\n(3) Dalam hal pemerintah provinsi belum dapat\nmelaksanakan sebagian wewenangnya sebagaimana dimaksud pada ayat\n(1), pemerintah provinsi\ndapat menyerahkan wewenang tersebut kepada\nPemerintah.\n(4) Ketentuan lebih lanjut mengenai wewenang\npenyelenggaraan jalan provinsi sebagaimana dimaksud pada ayat (1)\ndan penyerahan wewenang\nsebagaimana dimaksud pada ayat (3) diatur\ndalam Peraturan Pemerintah.\nBagian Keempat\nWewenang Pemerintah Kabupaten/Kota"
+   }
+  },
+  {
+   "id": "ID-H1442-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\n(1) Wewenang pemerintah kabupaten dalam\npenyelenggaraan jalan meliputi penyelenggaraan jalan kabupaten dan\njalan desa.\n(2) Wewenang pemerintah kota dalam penyelenggaraan\njalan meliputi penyelenggaraan jalan kota.\n(3) Wewenang penyelenggaraan jalan kabupaten,\njalan kota, dan jalan desa sebagaimana dimaksud pada ayat (1) dan\nayat (2) meliputi\npengaturan, pembinaan, pembangunan, dan\npengawasan.\n(4) Dalam hal pemerintah kabupaten/kota belum\ndapat melaksanakan sebagian wewenangnya sebagaimana dimaksud pada\nayat (1) dan ayat\n(2), pemerintah kabupaten/kota dapat menyerahkan\nwewenang tersebut kepada pemerintah provinsi.\n(5) Ketentuan lebih lanjut mengenai wewenang\npenyelengaraan jalan kabupaten sebagaimana dimaksud pada ayat (1),\nwewenang penyelengaraan\njalan kota sebagaimana dimaksud pada ayat\n(2), dan penyerahan wewenang sebagaimana dimaksud pada ayat (4)\ndiatur dalam Peraturan\nPemerintah.\nBagian Kelima\nPengaturan Jalan Umum"
+   }
+  },
+  {
+   "id": "ID-H1442-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\nPengaturan jalan umum meliputi pengaturan jalan secara umum,\npengaturan jalan nasional, pengaturan jalan provinsi, pengaturan\njalan\nkabupaten dan jalan desa, serta pengaturan jalan kota."
+   }
+  },
+  {
+   "id": "ID-H1442-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\n(1) Pengaturan jalan secara umum sebagaimana dimaksud dalam Pasal\n17 meliputi:\na. pembentukan peraturan perundang-undangan\nsesuai dengan kewenangannya;\nb. perumusan kebijakan perencanaan;\nc. pengendalian penyelenggaraan jalan secara makro; dan\nd. penetapan norma, standar, kriteria, dan pedoman pengaturan\njalan.\n(2) Pengaturan jalan nasional sebagaimana dimaksud dalam Pasal 17\nmeliputi:\na. penetapan fungsi jalan untuk ruas jalan arteri\ndan jalan kolektor yang menghubungkan antaribukota provinsi dalam\nsistem jaringan\njalan primer;\nb. penetapan status jalan nasional; dan\nc. penyusunan perencanaan umum jaringan jalan nasional."
+   }
+  },
+  {
+   "id": "ID-H1442-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\nPengaturan jalan provinsi sebagaimana dimaksud dalam Pasal 17\nmeliputi:\na. perumusan kebijakan penyelenggaraan jalan\nprovinsi berdasarkan kebijakan nasional di bidang jalan;\nb. penyusunan pedoman operasional penyelenggaraan\njalan provinsi dengan memperhatikan keserasian antar wilayah\nprovinsi;\nc. penetapan fungsi jalan dalam sistem jaringan\njalan sekunder dan jalan kolektor yang menghubungkan ibukota\nprovinsi dengan ibukota\nkabupaten, antaribukota kabupaten, jalan\nlokal, dan jalan lingkungan dalam sistem jaringan jalan\nprimer;\nd. penetapan status jalan provinsi; dan\ne. penyusunan perencanaan jaringan jalan provinsi."
+   }
+  },
+  {
+   "id": "ID-H1442-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\nPengaturan jalan kabupaten dan jalan desa sebagaimana dimaksud\ndalam Pasal 17 meliputi:\na. perumusan kebijakan penyelenggaraan jalan\nkabupaten dan jalan desa berdasarkan kebijakan nasional di bidang\njalan dengan memperhatikan\nkeserasian antar daerah dan\nantarkawasan;\nb. penyusunan pedoman operasional penyelenggaraan jalan kabupaten\ndan jalan desa;\nc. penetapan status jalan kabupaten dan jalan desa; dan\nd. penyusunan perencanaan jaringan jalan kabupaten dan jalan\ndesa."
+   }
+  },
+  {
+   "id": "ID-H1442-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\nPengaturan jalan kota sebagaimana dimaksud dalam Pasal 17\nmeliputi:\na. perumusan kebijakan penyelenggaraan jalan kota\nberdasarkan kebijakan nasional di bidang jalan dengan memperhatikan\nkeserasian antardaerah\ndan antar kawasan;\nb. penyusunan pedoman operasional penyelenggaraan jalan kota;\nc. penetapan status jalan kota; dan\nd. penyusunan perencanaan jaringan jalan kota."
+   }
+  },
+  {
+   "id": "ID-H1442-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\nKetentuan lebih lanjut mengenai pengaturan jalan sebagaimana\ndimaksud dalam Pasal 17, Pasal 18, Pasal 19, Pasal 20, dan Pasal 21\ndiatur dalam Peraturan Pemerintah.\nBagian Keenam\nPembinaan Jalan Umum"
+   }
+  },
+  {
+   "id": "ID-H1442-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\nPembinaan jalan umum meliputi pembinaan jalan secara umum dan jalan\nnasional, jalan provinsi, jalan kabupaten dan jalan desa, serta\njalan kota."
+   }
+  },
+  {
+   "id": "ID-H1442-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 24\nPembinaan jalan secara umum dan jalan nasional sebagaimana dimaksud\ndalam Pasal 23 meliputi:\na. pengembangan sistem bimbingan, penyuluhan,\nserta pendidikan dan pelatihan di bidang jalan;\nb. pemberian bimbingan, penyuluhan, dan pelatihan para aparatur di\nbidang jalan;\nc. pengkajian serta penelitian dan pengembangan teknologi bidang\njalan dan yang terkait;\nd. pemberian fasilitas penyelesaian sengketa antar\nprovinsi dalam penyelenggaraan jalan; dan\ne. penyusunan dan penetapan norma, standar, kriteria, dan pedoman\npembinaan jalan."
+   }
+  },
+  {
+   "id": "ID-H1442-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\nPembinaan jalan provinsi sebagaimana dimaksud dalam Pasal 23\nmeliputi:\na. pemberian bimbingan, penyuluhan, serta\npendidikan dan pelatihan para aparatur penyelenggara jalan provinsi\ndan aparatur penyelenggara\njalan kabupaten/kota;\nb. pengkajian serta penelitian dan pengembangan\nteknologi di bidang jalan untuk jalan provinsi; dan\nc. pemberian fasilitas penyelesaian sengketa antar\nkabupaten/kota dalam penyelenggaraan jalan."
+   }
+  },
+  {
+   "id": "ID-H1442-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\nPembinaan jalan kabupaten dan jalan desa sebagaimana dimaksud dalam\nPasal 23 meliputi:\na. pemberian bimbingan, penyuluhan, serta\npendidikan dan pelatihan para aparatur penyelenggara jalan\nkabupaten dan jalan desa;\nb. pemberian izin, rekomendasi, dispensasi, dan\npertimbangan pemanfaatan ruang manfaat jalan, ruang milik jalan,\ndan ruang pengawasan\njalan; dan\nc. pengembangan teknologi terapan di bidang jalan untuk jalan\nkabupaten dan jalan desa."
+   }
+  },
+  {
+   "id": "ID-H1442-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\nPembinaan jalan kota sebagaimana dimaksud dalam Pasal 23\nmeliputi:\na. pemberian bimbingan, penyuluhan, serta\npendidikan dan pelatihan para aparatur penyelenggara jalan\nkota;\nb. pemberian izin, rekomendasi, dispensasi dan\npertimbangan pemanfaatan ruang manfaat jalan, ruang milik jalan,\ndan ruang pengawasan\njalan; dan\nc. pengembangan teknologi terapan di bidang jalan untukjalan\nkota."
+   }
+  },
+  {
+   "id": "ID-H1442-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\nKetentuan lebih lanjut mengenai pengaturan jalan sebagaimana\ndimaksud dalam Pasal 23, Pasal 24, Pasal 25, Pasal 26, dan Pasal 27\ndiatur dalam Peraturan Pemerintah.\nBagian Ketujuh\nPembangunan Jalan Umum"
+   }
+  },
+  {
+   "id": "ID-H1442-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\nPembangunan jalan umum, meliputi pembangunan jalan secara umum,\npembangunan jalan nasional, pembangunan jalan provinsi, pembangunan\njalan kabupaten dan jalan desa, serta pembangunan jalan kota."
+   }
+  },
+  {
+   "id": "ID-H1442-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\n(1) pembangunan jalan secara umum sebagaimana\ndimaksud dalam Pasal 29 adalah sebagai berikut:\na. pengoperasian jalan umum dilakukan setelah\ndinyatakan memenuhi persyaratan laik fungsi secara teknis dan\nadministratif;\nb. penyelenggara jalan wajib memrioritaskan\npemeliharaan, perawatan dan pemeriksaan jalan secara berkala untuk\nmempertahankan tingkat\npelayanan jalan sesuai dengan standar\npelayanan minimal yang ditetapkan;\nc. pembiayaan pembangunan jalan umum menjadi\ntanggung jawab Pemerintah dan/atau pemerintah daerah sesuai dengan\nkewenangan masing-masing;\nd. dalam hal pemerintah daerah belum mampu\nmembiayai pembangunan jalan yang menjadi tanggung jawabnya secara\nkeseluruhan, Pemerintah\ndapat membantu sesuai dengan peraturan\nperundang-undangan;\ne. sebagian wewenang Pemerintah di bidang\npembangunan jalan nasional mencakup perencanaan teknis, pelaksanaan\nkonstruksi, pengoperasian,\ndan pemeliharaannya dapat dilaksanakan\noleh pemerintah daerah sesuai dengan peraturan perundang-undangan;\ndan\nf. pembentukan peraturan perundang-undangan,\ntermasuk kriteria, persyaratan, standar, prosedur dan manual;\npenyusunan rencana umum\njalan nasional, dan pelaksanaan pengawasan\ndilakukan dengan memperhatikan masukan dari masyarakat.\n(2) Ketentuan lebih lanjut mengenai persyaratan\nlaik fungsi, tata cara pemeliharaan, perawatan dan pemeriksaan\nsecara berkala, dan\npembiayaan pembangunan jalan umum, serta\nmasukan masyarakat sebagaimana dimaksud pada ayat (1) diatur dalam\nPeraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H1442-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\nPembangunan jalan nasional sebagaimana dimaksud dalam Pasal 29\nmeliputi:\na. perencanaan teknis, pemrograman dan\npenganggaran, pengadaan lahan, serta pelaksanaan konstruksi jalan\nnasional;\nb. pengoperasian dan pemeliharaan jalan nasional; dan\nc. pengembangan dan pengelolaan sistem manajemen jalan\nnasional."
+   }
+  },
+  {
+   "id": "ID-H1442-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 32\nPembangunan jalan provinsi sebagaimana dimaksud dalam Pasal 29\nmeliputi:\na. perencanaan teknis, pemrograman dan\npenganggaran, pengadaan lahan, serta pelaksanaan konstruksi jalan\nprovinsi;\nb. pengoperasian dan pemeliharaan jalan provinsi; dan,\nc. pengembangan dan pengelolaan sistem manajemen jalan\nprovinsi."
+   }
+  },
+  {
+   "id": "ID-H1442-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 33\nPembangunan jalan kabupaten dan jalan desa sebagaimana dimaksud\ndalam Pasal 29 meliputi:\na. perencanaan teknis, pemrograman dan\npenganggaran, pengadaan lahan, serta pelaksanaan konstruksi jalan\nkabupaten dan jalan desa;\nb. pengoperasian dan pemeliharaari jalan kabupaten dan jalan desa;\ndan\nc. pengembangan dan pengelolaan manajemen\npemeliharaan jalan kabupaten dan jalan desa."
+   }
+  },
+  {
+   "id": "ID-H1442-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 34\nPembangunan jalan kota sebagaimana dimaksud dalam Pasal 29\nmeliputi:\na. perencanaan teknis, pemrograman dan\npenganggaran, pengadaan lahan, serta pelaksanaan konstruksi jalan\nkota;\nb. pengoperasian dan pemeliharaan jalan kola; dan\nc. pengembangan dan pengelolaan manajemen pemeliharaan jalan\nkota."
+   }
+  },
+  {
+   "id": "ID-H1442-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 35\nKetentuan lebih lanjut mengenai pembangunan jalan sebagaimana\ndimaksud dalam Pasal 29, Pasal 30, Pasal 31, Pasal 32, Pasal 33,\ndan\nPasal 34 diatur dalam Peraturan Pemerintah.\nBagian Kedelapan\nPengawasan Jalan Umum"
+   }
+  },
+  {
+   "id": "ID-H1442-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedelapan"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 36\nPengawasan jalan umum meliputi pengawasan jalan secara umum,\npengawasan jalan nasional, pengawasan jalan provinsi, pengawasan\njalan\nkabupaten dan jalan desa, serta pengawasan jalan kota."
+   }
+  },
+  {
+   "id": "ID-H1442-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedelapan"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 37\n(1) Pengawasan jalan secara umum sebagaimana dimaksud dalam Pasal\n36 meliputi:\na. evaluasi dan pengkajian pelaksanaan kebijakan\npenyelenggaraan jalan;\nb. pengendalian fungsi dan manfaat hasil pembangunan jalan; dan\nc. hasil penyelenggaraan jalan harus memenuhi standar pelayanan\nminimal yang ditetapkan.\n(2) pengawasan jalan nasional sebagaimana dimaksud dalam Pasal 36\nmeliputi:\na. evaluasi kinerja penyelenggaraan jalan\nnasional; dan\nb. pengendalian fungsi dan manfaat hasil pembangunan jalan\nnasional."
+   }
+  },
+  {
+   "id": "ID-H1442-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedelapan"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 38\nPengawasan jalan provinsi sebagaimana dimaksud dalam Pasal 36\nmeliputi:\na. evaluasi kinerja penyelenggaraan jalan provinsi; dan\nb. pengendalian fungsi dan manfaat hasil pembangunan jalan\nprovinsi."
+   }
+  },
+  {
+   "id": "ID-H1442-A39",
+   "no": 39,
+   "noLabel": {
+    "id": "Pasal 39"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedelapan"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 39\nPengawasan jalan kabupaten dan jalan desa sebagaimana dimaksud\ndalam Pasal 36 meliputi:\na. evaluasi kinerja penyelenggaraan jalan kabupaten dan jalan desa;\ndan\nb. pengendalian fungsi dan manfaat hasil\npembangunan jalan kabupaten dan jalan desa."
+   }
+  },
+  {
+   "id": "ID-H1442-A40",
+   "no": 40,
+   "noLabel": {
+    "id": "Pasal 40"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedelapan"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 40\nPengawasan jalan kota sebagaimana dimaksud dalam Pasal 36\nmeliputi:\na. evaluasi kinerja penyelenggaraan jalan kota; dan\nb. pengendalian fungsi dan manfaat hasil pembangunan jalan kota"
+   }
+  },
+  {
+   "id": "ID-H1442-A41",
+   "no": 41,
+   "noLabel": {
+    "id": "Pasal 41"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedelapan"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 41\nKetentuan lebih lanjut mengenai pengawasan jalan sebagaimana\ndimaksud dalam Pasal 37, Pasal 38, Pasal 39, dan Pasal 40 diatur\ndalam\nPeraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H1442-A42",
+   "no": 42,
+   "noLabel": {
+    "id": "Pasal 42"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedelapan"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 42\nSetiap orang dilarang menyelenggarakan jalan yang tidak sesuai\ndengan peraturan perundang-undangan.\nBAB V\nJALAN TOL\nBagian Pertama\nUmum"
+   }
+  },
+  {
+   "id": "ID-H1442-A43",
+   "no": 43,
+   "noLabel": {
+    "id": "Pasal 43"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 43\n(1) Jalan tol diselenggarakan untuk:\na. memperlancar lalu lintas di daerah yang telah\nberkembang;\nb. meningkatkan hasil guna dan daya guna pelayanan\ndistribusi barang dan jasa guna menunjang peningkatan pertumbuhan\nekonomi;\nc. meringankan beban dana Pemerintah melalui partisipasi pengguna\njalan; dan\nd. meningkatkan pemerataan hasil pembangunan dan keadilan.\n(2) Pengusahaan jalan tol dilakukan oleh\nPemerintah dan/ atau badan usaha yang memenuhi persyaratan.\n(3) Pengguna jalan tol dikenakan kewajiban\nmembayar tol yang digunakan untuk pengembalian investasi,\npemeliharaaan, dan pengembangan\njalan tol.\n(4) Ketentuan lebih lanjut mengenai\npenyelenggaraan sebagaimana dimaksud pada ayat (1), ayat (2), dan\nayat (3) diatur dalam Peraturan\nPemerintah.\nBagian Kedua\nSyarat-Syarat Jalan Tol"
+   }
+  },
+  {
+   "id": "ID-H1442-A44",
+   "no": 44,
+   "noLabel": {
+    "id": "Pasal 44"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 44\n(1) Jalan tol sebagai bagian dari sistem jaringan\njalan umum merupakan lintas alternatif.\n(2) Dalam keadaan tertentu, jalan tol dapat tidak merupakan lintas\nalternatif.\n(3) Jalan tol harus mempunyai spesifikasi dan\npelayanan yang lebih tinggi dari pada jalan umum yang ada.\n(4) Ketentuan lebih lanjut mengenai spesifikasi\ndan pelayanan jalan tol sebagaimana dimaksud pada ayat (3) diatur\ndalam Peraturan\nPemerintah.\nBagian Ketiga\nWewenang Penyelenggaraan Jalan Tol"
+   }
+  },
+  {
+   "id": "ID-H1442-A45",
+   "no": 45,
+   "noLabel": {
+    "id": "Pasal 45"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 45\n(1) Wewenang penyelenggaraan jalan tol berada pada Pemerintah.\n(2) Wewenang penyelenggaraan jalan tol meliputi\npengaturan, pembinaan, pengusahaan, dan pengawasan jalan tol.\n(3) Sebagian wewenang Pemerintah dalam\npenyelenggaraan jalan tol sebagaimana dimaksud pada ayat (1) dan\nayat (2) dilaksanakan oleh\nBPJT.\n(4) BPJT sebagaimana dimaksud pada ayat (3)\ndibentuk oleh Menteri, berada di bawah, dan bertanggung jawab\nkepada Menteri.\n(5) Keanggotaan BPJT sebagaimana dimaksud pada\nayat (4) terdiri atas unsur Pemerintah, unsur pemangku kepentingan,\ndan unsur masyarakat.\n(6) Tugas BPJT adalah melaksanakan sebagian\npenyelenggaraan jalan tol, meliputi:\na. pengaturan jalan tol mencakup pemberian\nrekomendasi tarif awal dan penyesuaiannya kepada Menteri, serta\npengambilalihan jalan tol\npada akhir masa konsesi dan pemberian\nrekomendasi pengoperasian selanjutnya;\nb. pengusahaan jalan tol mencakup persiapan\npengusahaan jalan tol, pengadaan investasi, dan pemberian fasilitas\npembebasan tanah;\ndan\nc. pengawasan jalan tol mencakup pemantauan dan\nevaluasi pengusahaan jalan tol dan pengawasan terhadap pelayanan\njalan tol.\n(7) Ketentuan lebih lanjut mengenai wewenang\npenyelenggaraan jalan tol dan BPJT sebagaimana dimaksud pada ayat\n(2), ayat (3), ayat\n(4), ayat (5), dan ayat (6) diatur dalam\nPeraturan Pemerintah.\nBagian Keempat\nPengaturan Jalan Tol"
+   }
+  },
+  {
+   "id": "ID-H1442-A46",
+   "no": 46,
+   "noLabel": {
+    "id": "Pasal 46"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 46\n(1) Pengaturan jalan tol meliputi perumusan\nkebijakan perencanaan, penyusunan perencanaan umum, dan pembentukan\nperaturan perundang-undangan.\n(2) Pengaturan jalan tol ditujukan untuk\nmewujudkan jalan tol yang aman, nyaman, berhasil guna dan berdaya\nguna, serta pengusahaan\nyang transparan dan terbuka.\n(3) Ketentuan lebih lanjut mengenai pengaturan\njalan tol sebagaimana dimaksud pada ayat (1) dan ayat (2) diatur\ndalam Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H1442-A47",
+   "no": 47,
+   "noLabel": {
+    "id": "Pasal 47"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 47\n(1) Rencana umum jaringan jalan tol merupakan\nbagian tak terpisahkan dari rencana umum jaringan jalan\nnasional.\n(2) Pemerintah menetapkan rencana umum jaringan jalan tol.\n(3) Menteri menetapkan suatu ruas jalan tol.\n(4) Ketentuan lebih lanjut mengenai penetapan\nrencana umum jaringan jalan tol sebagaimana dimaksud pada ayat (2)\ndan ayat (3) diatur\ndalam Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H1442-A48",
+   "no": 48,
+   "noLabel": {
+    "id": "Pasal 48"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 48\n(1) Tarif tol dihitung berdasarkan kemampuan bayar\npengguna jalan, besar keuntungan biaya operasi kendaraan, dan\nkelayakan investasi.\n(2) Tarif tol yang besarannya tercantum dalam\nperjanjian pengusahaan jalan tol ditetapkan pemberlakuannya\nbersamaan dengan penetapan\npengoperasian jalan tersebut sebagai\njalan tol.\n(3) Evaluasi dan penyesuaian tarif tol dilakukan\nsetiap 2 (dua) tahun sekali berdasarkan pengaruh laju\ninflasi.\n(4) Pemberlakuan tarif tol awal dan penyesuaian tarif tol\nditetapkan oleh Menteri.\n(5) Ketentuan lebih lanjut mengenai tarif awal tol\ndan penyesuaian tarif tol sebagaimana dimaksud pada ayat (1), ayat\n(2), ayat (3),\ndan ayat (4) diatur dalam Peraturan\nPemerintah.\nBagian Kelima\nPembinaan Jalan Tol"
+   }
+  },
+  {
+   "id": "ID-H1442-A49",
+   "no": 49,
+   "noLabel": {
+    "id": "Pasal 49"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 49\n(1) Pembinaan jalan tol meliputi kegiatan\npenyusunan pedoman dan standar teknis, pelayanan, pemberdayaan,\nserta penelitian dan pengembangan.\n(2) Ketentuan lebih lanjut mengenai pembinaan\njalan tol sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan\nPemerintah.\nBagian Keenam\nPengusahaan Jalan Tol"
+   }
+  },
+  {
+   "id": "ID-H1442-A50",
+   "no": 50,
+   "noLabel": {
+    "id": "Pasal 50"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 50\n(1) Pengusahaan jalan tol dilaksanakan dengan\nmaksud untuk mempercepat perwujudan jaringan jalan bebas hambatan\nsebagai bagian jaringan\njalan nasional.\n(2) Pengusahaan jalan tol meliputi kegiatan\npendanaan, perencanaan teknis, pelaksanaan konstruksi,\npengoperasian, dan/atau pemeliharaan.\n(3) Wewenang mengatur pengusahaan jalan tol\ndilaksanakan oleh BPJT sebagaimana dimaksud dalam Pasal 45 ayat\n(3).\n(4) Pengusahaan jalan tol dilakukan oleh badan\nusaha milik negara dan/atau badan usaha milik daerah dan/atau badan\nusaha milik swasta.\n(5) Dalam keadaan tertentu yang menyebabkan\npengembangan jaringan jalan tol tidak dapat diwujudkan oleh badan\nusaha sebagaimana dimaksud\npada ayat (4), Pemerintah dapat\nmengambil langkah sesuai dengan kewenangannya.\n(6) Konsesi pengusahaan jalan tol diberikan dalam\njangka waktu tertentu untuk memenuhi pengembalian dana investasi\ndan keuntungan\nyang wajar bagi usaha jalan tol.\n(7) Dalam hal konsesi sebagaimana dimaksud pada\nayat (6) berakhir, Pemerintah menetapkan status jalan tol yang\ndimaksud sesuai dengan\nkewenangannya.\n(8) Dalam keadaan tertentu yang menyebabkan\npengusahaan jalan tol tidak dapat diselesaikan berdasarkan\nketentuan yang tercantum dalam\nperjanjian pengusahaan jalan tol,\nPemerintah dapat melakukan langkah penyelesaian untuk\nkeberlangsungan pengusahaan jalan tol.\n(9) Ketentuan lebih lanjut mengenai pengusahaan\njalan tol sebagaimana dimaksud pada ayat (3), ayat (4), ayat (5),\nayat (6), ayat (7),\ndan ayat (8) diatur dalam Peraturan\nPemerintah."
+   }
+  },
+  {
+   "id": "ID-H1442-A51",
+   "no": 51,
+   "noLabel": {
+    "id": "Pasal 51"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 51\n(1) Pengusahaan jalan tol yang diberikan oleh\nPemerintah kepada badan usaha sebagaimana dimaksud dalam Pasal 50\nayat (4) dilakukan\nmelalui pelelangan secara transparan dan\nterbuka.\n(2) Pelelangan sebagaimana dimaksud pada ayat (1)\ndapat meliputi sebagian atau seluruh lingkup pengusahaan jalan\ntol.\n(3) Badan usaha yang mendapatkan hak pengusahaan\njalan tol berdasarkan hasil pelelangan sebagaimana dimaksud pada\nayat (1) mengadakan\nperjanjian pengusahaan jalan tol dengan\nPemerintah.\n(4) Ketentuan lebih lanjut mengenai pelelangan\npengusahaan jalan tol dan perjanjian pengusahaan jalan tol\nsebagaimana dimaksud pada\nayat (1), ayat (2), dan ayat (3) diatur\ndalam Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H1442-A52",
+   "no": 52,
+   "noLabel": {
+    "id": "Pasal 52"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 52\n(1) Dalam hal pembangunan jalan tol melewati jalan\nyang telah ada, badan usaha menyediakan jalan pengganti.\n(2) Dalam hal pembangunan jalan tol berlokasi di\natas jalan yang telah ada, jalan yang ada tersebut harus tetap\nberfungsi dengan baik.\n(3) Dalam hal pelaksanaan pembangunan jalan tol\nmengganggu jalur lalu lintas yang telah ada, badan usaha terlebih\ndahulu menyediakan\njalan pengganti sementara yang layak.\n(4) Ketentuan lebih lanjut mengenai jalan\npengganti, pembangunan jalan tol di atas jalan yang telah ada, dan\npenyediaan jalan pengganti\nsemen tara sebagaimana dimaksud pada\nayat (1), ayat (2), dan ayat (3) diatur dalam Peraturan\nPemerintah."
+   }
+  },
+  {
+   "id": "ID-H1442-A53",
+   "no": 53,
+   "noLabel": {
+    "id": "Pasal 53"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 53\n(1) Jalan tol hanya diperuntukkan bagi pengguna\njalan yang menggunakan kendaraan bermotor.\n(2) Jenis kendaraan bermotor sebagaimana dimaksud\npada ayat (1) ditetapkan oleh Pemerintah.\n(3) Penggunaan jalan tol selain sebagaimana\ndimaksud pada ayat (1) dapat dilakukan dengan persetujuan\nPemerintah.\n(4) Dalam hal lintas jaringan jalan umum yang ada\ntidak berfungsi sebagaimana mestinya, ruas jalan tol alternatifnya\ndapat digunakan\nsementara menjadi jalan umum tanpa tol.\n(5) Penetapan ruas jalan tol menjadi jalan umum\ntanpa tol sebagaimana dimaksud pada ayat (4) dilakukan oleh\nMenteri.\n(6) Ketentuan lebih lanjut mengenai pengguna jalan\ntol, penetapan jenis kendaraan bermotor, dan penggunaan jalan tol,\nsebagaimana\ndimaksud pada ayat (1), ayat (2), ayat (3), ayat (4),\ndan ayat (5) diatur dalam Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H1442-A54",
+   "no": 54,
+   "noLabel": {
+    "id": "Pasal 54"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 54\nSetiap orang dilarang mengusahakan suatu ruas jalan sebagai jalan\ntol sebelum adanya penetapan Menteri."
+   }
+  },
+  {
+   "id": "ID-H1442-A55",
+   "no": 55,
+   "noLabel": {
+    "id": "Pasal 55"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 55\nPengguna jalan tol wajib menaati peraturan perundang-undangan\ntentang lalu lintas dan angkutan jalan, peraturan\nperundang-undangan\ntentang jalan, serta peraturan\nperundang-undangan lainnya."
+   }
+  },
+  {
+   "id": "ID-H1442-A56",
+   "no": 56,
+   "noLabel": {
+    "id": "Pasal 56"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 56\nSetiap orang dilarang memasuki jalan tol, kecuali pengguna jalan\ntol dan petugas jalan tol.\nBagian Ketujuh\nPengawasan Jalan Tol"
+   }
+  },
+  {
+   "id": "ID-H1442-A57",
+   "no": 57,
+   "noLabel": {
+    "id": "Pasal 57"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 57\n(1) Pengawasan jalan tol meliputi kegiatan yang\ndilakukan untuk mewujudkan tertib pengaturan dan pembinaan jalan\ntol serta pengusahaan\njalan tol.\n(2) Ketentuan mengenai pengawasan jalan tol\nsebagaimana dimaksud pada ayat (1) untuk pengawasan umum oleh\nPemerintah dan pengawasan\npengusahaan oleh BPJT diatur dalam\nPeraturan Pemerintah.\nBAB VI\nPENGADAAN TANAH\nBagian Pertama\nPengadaan Tanah untuk Pembangunan Jalan"
+   }
+  },
+  {
+   "id": "ID-H1442-A58",
+   "no": 58,
+   "noLabel": {
+    "id": "Pasal 58"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 58\n(1) Pengadaan tanah untuk pembangunan jalan bagi\nkepentingan umum dilaksanakan berdasarkan rencana tata ruang\nwilayah kabupaten/kota.\n(2) Pembangunan jalan sebagaimana dimaksud pada\nayat (1) disosialisasikan kepada masyarakat, terutama yang tanahnya\ndiperlukan untuk\npembangunan jalan.\n(3) Pemegang hak atas tanah, atau pemakai tanah\nnegara, atau masyarakat ulayat hukum adat, yang tanahnya diperlukan\nuntuk pembangunan\njalan, berhak mendapat ganti kerugian.\n(4) Pemberian ganti kerugian dalam rangka\npengadaan tanah sebagaimana dimaksud pada ayat (1) dan ayat (3)\ndilaksanakan berdasarkan\nkesepakatan sesuai dengan peraturan\nperundang-undangan di bidang pertanahan."
+   }
+  },
+  {
+   "id": "ID-H1442-A59",
+   "no": 59,
+   "noLabel": {
+    "id": "Pasal 59"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 59\n(1) Apabila kesepakatan tidak tercapai dan lokasi\npembangunan tidak dapat dipindahkan, dilakukan pencabutan hak atas\ntanah sesuai\ndengan peraturan perundang-undangan di bidang\npertanahan.\n(2) Pelaksanaan pembangunan jalan dapat dimulai\npada bidang tanah yang telah diberi ganti kerugian atau telah\ndicabut hak atas tanahnya."
+   }
+  },
+  {
+   "id": "ID-H1442-A60",
+   "no": 60,
+   "noLabel": {
+    "id": "Pasal 60"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 60\nUntuk menjamin kepastian hukum, tanah yang sudah dikuasai oleh\nPemerintah dalam rangka pembangunan jalan didaftarkan untuk\nditerbitkan\nsertifikat hak atas tanahnya sesuai dengan ketentuan\nperaturan perundang-undangan di bidang pertanahan.\nBagian Kedua\nPengadaan Tanah untuk\nPembangunan Jalan Tol"
+   }
+  },
+  {
+   "id": "ID-H1442-A61",
+   "no": 61,
+   "noLabel": {
+    "id": "Pasal 61"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 61\n(1) Pemerintah melaksanakan pengadaan tanah untuk\npembangunan jalan tol bagi kepentingan umum berdasarkan rencana\ntata ruang wilayah\nkabupaten/kota.\n(2) Pengadaan tanah sebagaimana dimaksud pada ayat\n(1) dapat menggunakan dana yang berasal dari Pemerintah dan/atau\nbadan usaha.\n(3) Ketentuan sebagaimana dimaksud dalam Pasal 58,\nPasal 59, dan Pasal 60 berlaku pula bagi pengadaan tanah untuk\npembangunan jalan\ntol.\nBAB VII\nPERAN MASYARAKAT"
+   }
+  },
+  {
+   "id": "ID-H1442-A62",
+   "no": 62,
+   "noLabel": {
+    "id": "Pasal 62"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 62\n(1) Masyarakat berhak:\na. memberi masukan kepada penyelenggara jalan\ndalam rangka pengaturan, pembinaan, pembangunan, dan pengawasan\njalan;\nb. berperan serta dalam penyelengaraan jalan;\nc. memperoleh manfaat atas penyelenggaraan jalan\nsesuai dengan standar pelayanan minimal yang ditetapkan;\nd. memperoleh informasi mengenai penyelenggaraan jalan;\ne. memperoleh ganti kerugian yang layak akibat\nkesalahan dalam pembangunan jalan; dan\nf. mengajukan gugatan kepada pengadilan terhadap kerugian akibat\npembangunan jalan.\n(2) Masyarakat wajib ikut serta menjaga ketertiban dalam\npemanfaatan fungsi jalan.\n(3) Ketentuan lebih lanjut mengenai hak dan\nkewajiban masyarakat sebagaimana dimaksud pada ayat (1) dan ayat\n(2) diatur dalam Peraturan\nPemerintah.\nBAB VIII\nKETENTUAN PIDANA"
+   }
+  },
+  {
+   "id": "ID-H1442-A63",
+   "no": 63,
+   "noLabel": {
+    "id": "Pasal 63"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 63\n(1) Setiap orang yang dengan sengaja melakukan\nkegiatan yang mengakibatkan terganggunya fungsi jalan di dalam\nruang manfaat jalan,\nsebagaimana dimaksud dalam Pasal 12 ayat (1),\ndipidana dengan pidana penjara paling lama 18 (delapan belas) bulan\natau denda paling\nbanyak Rp. 1.500.000.000,00 (satu miliar lima\nratus juta rupiah).\n(2) Setiap orang yang dengan sengaja melakukan\nkegiatan yang mengakibatkan terganggunya fungsi jalan di dalam\nruang milik jalan, sebagaimana\ndimaksud dalam Pasal 12 ayat (2),\ndipidana dengan pidana penjara paling lama 9 (sembilan) bulan atau\ndenda paling banyak Rp 500.000.000,00\n(lima ratus juta\nrupiah).\n(3) Setiap orang yang dengan sengaja melakukan\nkegiatan yang mengakibatkan terganggunya fungsi jalan di dalam\nruang pengawasan jalan,\nsebagaimana dimaksud dalam Pasal 12 ayat\n(3), dipidana dengan pidana penjara paling lama 3 (tiga) bulan atau\ndenda paling banyak\nRp 200.000.000,00 (dua ratus juta\nrupiah).\n(4) Setiap orang yang dengan sengaja melakukan\nkegiatan penyelenggaraan jalan sebagaimana dimaksud pada Pasal 42,\ndipidana dengan\npidana penjara paling lama 2 (dua) tahun atau denda\npaling banyak Rp 2.000.000.000,00 (dua miliar rupiah).\n(5) Setiap orang yang dengan sengaja melakukan\nkegiatan pengusahaan jalan tol sebagaimana dimaksud dalam Pasal 54,\ndipidana dengan\npidana penjara paling lama 15 (lima belas) tahun\natau denda paling banyak Rp 15.000.000.000,00 (lima belas miliar\nrupiah).\n(6) Setiap orang selain pengguna jalan tol dan\npetugas jalan tol yang dengan sengaja memasuki jalan tol\nsebagaimana dimaksud dalam\nPasal 56, dipidana dengan pidana\nkurungan paling lama 14 (empat belas) hari atau denda paling banyak\nRp 3.000.000,00 (tigajuta rupiah)."
+   }
+  },
+  {
+   "id": "ID-H1442-A64",
+   "no": 64,
+   "noLabel": {
+    "id": "Pasal 64"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 64\n(1) Setiap orang yang karena kelalaiannya\nmengakibatkan terganggunya fungsi jalan di dalam ruang manfaat\njalan, sebagaimana dimaksud\ndalam Pasal 12 ayat (1), dipidana\ndengan pidana kurungan paling lama 3 (tiga) bulan atau denda paling\nbanyak Rp 300.000.000,00 (tiga\nratus juta rupiah).\n(2) Setiap orang yang karena kelalaiannya\nmengakibatkan terganggunya fungsi jalan di dalam ruang milik jalan,\nsebagaimana dimaksud\ndalam Pasal 12 ayat (2), dipidana dengan\npidana kurungan paling lama 2 (dua) bulan atau denda paling banyak\nRp 200.000,OOO,00 (dua\nratus juta rupiah).\n(3) Setiap orang yang karena kelalaiannya\nmengakibatkan terganggunya fungsi jalan di dalam ruang pengawasan\njalan, sebagaimana dimaksud\ndalam Pasal 12 ayat (3), dipidana\ndengan pidana kurungan paling lama 12 (dua belas) hari atau denda\npaling banyak Rp 120.000.000,00\n(seratus dua puluh juta\nrupiah).\n(4) Setiap orang selain pengguna jalan tol dan\npetugas jalan tol yang karena kelalaiannya memasuki jalan tol,\nsebagaimana dimaksud\ndalam Pasal 56, dipidana dengan pidana\nkurungan paling lama 7 (tujuh) hari atau denda paling banyak Rp\n1.500.000,00 (satu juta lima\nratus ribu rupiah)."
+   }
+  },
+  {
+   "id": "ID-H1442-A65",
+   "no": 65,
+   "noLabel": {
+    "id": "Pasal 65"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 65\n(1) Dalam hal tindak pidana sebagaimana dimaksud\ndalam Pasal 12, Pasal 42, dan Pasal 54 dilakukan badan usaha,\npidana dikenakan terhadap\nbadan usaha yang bersangkutan.\n(2) Dalam hal tindak pidana sebagaimana dimaksud\npada ayat (1) dikenakan terhadap badan usaha, pidana yang\ndijatuhkan adalah pidana\ndenda ditambah sepertiga denda yang\ndijatuhkan.\nBAB IX\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H1442-A66",
+   "no": 66,
+   "noLabel": {
+    "id": "Pasal 66"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 66\n(1) Pada saat berlakunya Undang-undang ini semua\nperaturan pelaksanaan yang berkaitan dengan jalan dinyatakan tetap\nberlaku sepanjang\ntidak bertentangan dengan Undang-undang\nini.\n(2) Badan hukum usaha negara jalan tol (PT Jasa\nMarga) diberi konsesi berdasarkan perhitungan investasi atas\nseluruh mas jalan tol\nyang diusahakannya setelah dilakukan\naudit.\n(3) Konsesi yang dimiliki badan usaha milik swasta\ndi bidang jalan tol berdasarkan Undang-Undang Nomor 13 Tahun 1980\ndinyatakan tetap\nberlaku dan pengusahaannya disesuaikan dengan\nUndang-undang ini.\n(4) Penetapan pemberian konsesi pengusahaan jalan\ntol kepada badan usaha milik negara di bidang jalan tol dan\npenyesuaian pengusahaan\nbadan usaha milik swasta di bidang jalan\ntol dilaksanakan paling lama 12 (dua belas) bulan sejak berlakunya\nUndang-undang ini.\n(5) Pembentukan BPJT dilaksanakan dalam waktu\npaling lama 12 (dua belas) bulan sejak berlakunya Undang-undang\nini.\n(6) Peraturan Pemerintah sebagai pelaksanaan\nUndang-undang ini ditetapkan paling lama 12 (dua belas) bulan sejak\nberlakunya Undang-undang\nini.\nBAB X\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H1442-A67",
+   "no": 67,
+   "noLabel": {
+    "id": "Pasal 67"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 67\nPada saat Undang-undang ini mulai berlaku, Undang-Undang Nomor 13\nTahun 1980 tentang Jalan (Lembaran Negara Republik Indonesia Tahun\n1980 Nomor 83, Tambahan Lembaran Negara Nomor 3186) dinyatakan\ntidak berlaku."
+   }
+  },
+  {
+   "id": "ID-H1442-A68",
+   "no": 68,
+   "noLabel": {
+    "id": "Pasal 68"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 68\nUndang-Undang ini mulai berlaku pada tanggal diundangkan. Agar\nsetiap orang mengetahuinya, memerintahkan pengundangan\nUndang-undang\nini dengan penempatannya dalam Lembaran Negara\nRepublik Indonesia.\nDisahkan di Jakarta\npada tanggal 18 Oktober 2004\nPRESIDEN REPUBLIK INDONESIA,\nMEGAWATI SOEKARN0PUTRI\nDiundangkan di Jakarta\npada tanggal 18 Oktober 2004\nSEKRETARIS NEGARA REPUBLIK INDONESIA,\nBAMBANG KESOWO\nPENJELASAN\nATAS\nUNDANG-UNDANG REPUBLIK INDONESIA\nNOMOR 38 TAHUN 2004\nTENTANG\nJALAN\nI. UMUM\n1. Pembukaan Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945 menegaskan bahwa tujuan Pemerintahan Negara\nKesatuan Republik\nIndonesia, antara lain, adalah memajukan\nkesejahteraan umum. Oleh karena itu, bumi dan kekayaan alam yang\nterkandung di dalamnya\ndikuasai oleh negara dan dipergunakan untuk\nsebesar-besar kemakmuran rakyat sebagaimana tercantum dalam Pasal\n33 ayat (3). Di samping\nitu, negara bertanggung jawab atas\npenyediaan fasilitas umum yang layak yang harus diatur dengan\nundang- undang sebagaimana diamanatkan\noleh Pasal 34 ayat (3) dan\nayat (4). Setelah melewati perjalanan waktu hampir seperempat abad,\nUndang-Undang Nomor 13 Tahun 1980\ntentang Jalan sudah tidak sesuai\nsebagai landasan hukum pengaturan tentang jalan karena adanya\nberbagai perkembangan dan perubahan\npenataan sistem pemerintahan\nnegara yang berorientasi pada otonomi daerah serta adanya tantangan\npersaingan global dan tuntutan peningkatan\nperan masyarakat dalam\npenyelenggaraan jalan. Berdasarkan pertimbangan di atas, perlu\ndibentuk undang-undang jalan yang baru dengan\npokok-pokok pikiran\ndi bawah ini.\n2. Jalan sebagai salah satu prasarana transportasi\nyang merupakan urat nadi kehidupan masyarakat mempunyai peranan\npenting dalam usaha\npengembangan kehidupan berbangsa dan bernegara.\nDalam kerangka tersebut, jalan mempunyai peranan untuk mewujudkan\nsasaran pembangunan\nseperti pemerataan pembangunan dan\nhasil-hasilnya, pertumbuhan ekonomi, dan perwujudan keadilan sosial\nbagi seluruh rakyat Indonesia.\n3. Pembangunan jalan dalam rangka pemenuhan\nkebutuhan masyarakat atas angkutan barang dan jasa (orang) yang\naman, nyaman, dan berdaya\nguna benar-benar akan dirasakan\nmanfaatnya oleh masyarakat.\n4. Jalan sebagai bagian sistem transportasi\nnasional mempunyai peranan penting terutama dalam mendukung\nekonomi, sosial budaya, lingkungan,\npolitik, serta pertahanan dan\nkeamanan. Dari aspek ekonomi, jalan sebagai modal sosial masyarakat\nmerupakan katalisator di antara\nproses produksi, pasar, dan\nkonsumen akhir. Dari aspek sosial budaya, keberadaan jalan membuka\ncakrawala masyarakat yang dapat menjadi\nwahana perubahan sosial,\nmembangun toleransi, dan mencairkan sekat budaya. Dari aspek\nlingkungan, keberadaan jalan diperlukan untuk\nmendukung pembangunan\nberkelanjutan.\nDari aspek politik, keberadaan jalan menghubungkan dan mengikat\nantar daerah, sedangkan dari aspek pertahanan dan keamanan,\nkeberadaan\njalan memberikan akses dan mobilitas dalam\npenyelenggaraan sistem pertahanan dan keamanan.\n5. Tersebarnya lokasi, baik sumber alam, tempat\nproduksi, pasar maupun konsumen akhir, menuntut diikutinya pola\nefisiensi dalam menghubungkan\ntempat-tempat tersebut yang\ndigambarkan dengan terbentuknya simpul pelayanan distribusi.\n6. Semua pusat kegiatan beserta wilayah\npengaruhnya membentuk satuan wilayah pengembangan. Pusat\npengembangan dimaksud dihubungkan\ndalam satu hubungan hierarkis\ndalam bentuk jaringan jalan yang menunjukkan struktur tertentu.\nDengan struktur tersebut, bagian jaringan\njalan akan memegang\nperanan masing-masing sesuai dengan hierarkinya. Kedudukan jaringan\njalan sebagai bagian sistem transportasi\nmenghubungkan dan mengikat\nsemua pusat kegiatan sehingga pengembangan jaringan jalan tidak\ndapat dipisahkan dari upaya pengembangan\nberbagai moda transportasi\nsecara terpadu, baik moda transportasi darat, laut, maupun\nudara.\n7. Tingkat perkembangan antar daerah yang serasi\ndan seimbang merupakan perwujudan berbagai tujuan pembangunan.\nTingkat perkembangan\nsuatu daerah (wilayah dalam batasan\nadministratif) akan dipengaruhi oleh satuan wilayah pengembangan\nyang bersangkutan. Pada prinsipnya,\nperkembangan semua satuan\nwilayah pengembangan perlu dikendalikan agar dicapai tingkat\nperkembangan antar daerah yang seimbang. Usaha\npengendalian\ntersebut pada dasamya merupakan salah satu langkah penyeimbangan\ndalam pengembangan wilayah yang dapat dilakukan secara\nlangsung\natau tidak langsung, misalnya dengan memberikan kesempatan kepada\nbeberapa satuan wilayah pengembangan yang tergolong kecil\ndan lemah\nuntuk mengelompokkan diri menjadi lebih besar dan kuat.\n8. Proses pengelompokan tersebut, yang dijalankan\ndengan meningkatkan kemampuan pelayanan pemasaran dari salah satu\nkota yang menduduki\nhierarki tertinggi, akan membawa implikasi pada\npenyelenggaraan sistem distribusi. Di dalam sistem distribusi,\nsistem jaringan jalan\nmemegang peranan penting karena peningkatan\npelayanan pemasaran menuntut pengembangan prasarana transportasi.\nAgar sistem distribusi\ndapat berfungsi dengan baik, perlu dibangun\njalan berspesifikasi bebas hambatan yang memperhatikan rasa\nkeadilan. Pembangunan jalan\nbebas hambatan tersebut yang memerlukan\npendanaan relatif besar diselenggarakan melalui pembangunan jalan\ntol.\n9. Melalui peran penting jalan dalam membentuk\nstruktur wilayah, penyelenggaraan jalan pada hakikatnya dimaksudkan\nuntuk mewujudkan\nperkembangan antar daerah yang seimbang dan\npemerataan hasil pembangunan (road infrastructures for all).\n10. Pemerintah sebagai pemegang kekuasaan\npemerintahan negara mempunyai kewenangan menyelenggarakan jalan.\nPenyelenggaraan jalan,\nsebagai salah satu bagian penyelenggaraan\nprasarana transportasi, melibatkan un sur masyarakat dan\npemerintah. Agar diperoleh suatu\nhasil penanganan jalan yang\nmemberikan pelayanan yang optimal, diperlukan penyelenggaraan jalan\nsecara terpadu dan bersinergi antarsektor,\nantardaerah dan juga\nantarpemerintah serta masyarakat termasuk dunia usaha.\n11. Dalam pengusahaan jalan tol, perlu dilakukan\npenataan menyeluruh dan pemisahanan tara peran regulator dan\noperator serta menciptakan\niklim investasi yang kondusif sehingga\ndapat menarik dunia usaha untuk ikut berpartisipasi. Untuk maksud\ntersebut, Menteri membentuk\nbadan pengatur jalan tol yang bertugas\nmelaksanakan sebagian penyelenggaraan jalan tol.\n12. Undang-undang ini mengatur keseimbangan antara\nhak perseorangan atas tanah dan keharusan pembangunan jalan untuk\nkepentingan umum.\nOleh karena itu, penggunaan tanah harus\nbermanfaat bagi masyarakat, negara, dan bagi pemegang hak atas\ntanah. Tanah masyarakat yang\nterkena pembangunan jalan diberikan\nganti kerugian berdasarkan kesepakatan. Akan tetapi, apabila\nkesepakatan tidak tercapai, dilakukan\npencabutan hak atas\ntanah.\n13. Pelaksanaan ketentuan dalam Undang-Undang ini\njuga mempunyai hubungan saling melengkapi dengan peraturan\nperundang-undangan lainnya,\nterutama:\na. Undang-undang yang mengatur lalu lintas dan\nangkutan jalan;\nb. Undang-undang yang mengatur penataan ruang;\nc. Undang-undang yang mengatur jasa konstruksi;\nd. Undang-undang yang mengatur peraturan dasar pokok agraria.\ne. Undang-undang yang mengatur pengelolaan lingkungan hidup;\nf. Undang-undang yang mengatur pemerintahan daerah;\ng. Undang-undang yang mengatur perimbangan keuangan pusat dan\ndaerah;\nh. Undang-undang yang mengatur konservasi sumber daya alam dan\nekosistem;\ni. Undang-undang yang mengatur larangan praktik\nmonopoli dan persaingan usaha tidak sehat; dan\nj. Undang-undang yang mengatur perlindungan konsumen.\nII.PASAL DEMI PASAL\nPasal 1\nCukup jelas\nPasal 2\nAsas kemanfaatan berkenaan dengan semua kegiatan\npenyelenggaraan jalan yang dapat memberikan nilai tambah yang\nsebesar-besamya, baik\nbagi pemangku kepentingan (stakeholders)\nmaupun bagi kepentingan nasional dalam rangka mewujudkan\nkesejahteraan masyarakat.\nAsas keamanan berkenaan dengan semua kegiatan penyelenggaraan jalan\nyang harus memenuhi persyaratan keteknikan jalan, sedangkan asas\nkeselamatan berkenaan dengan kondisi permukaan jalan dan kondisi\ngeometrik jalan.\nAsas keserasian penyelenggaraan jalan berkenaan dengan keharmonisan\nlingkungan sekitarnya; asas keselarasan penyelenggaraan jalan\nberkenaan dengan keterpaduan sektor lain; dan asas keseimbangan\npenyelenggaraan jalan berkenaan dengan keseimbangan antar wilayah\ndan pengurangan kesenjangan sosial.\nAsas keadilan berkenaan dengan penyelenggaraan jalan termasuk jalan\ntol yang harus memberikan perlakuan yang sama terhadap semua\npihak\ndan tidak mengarah kepada pemberian keuntungan terhadap pihak-pihak\ntertentu dengan cara atau alasan apapun.\nAsas transparansi berkenaan dengan penyelenggraan jalan yang\nprosesnya dapat diketahui masyarakat dan asas akuntabilitas\nberkenaan\ndengan hasil penyelenggaraan jalan yang dapat\ndipertanggungjawabkan kepada masyarakat.\nAsas keberdayagunaan berkenaan dengan penyelenggaraan jalan yang\nharus dilaksanakan berlandaskan pemanfaatan sumberdaya dan ruang\nyang optimal dan asas keberhasilgunaan berkenaan dengan pencapaian\nhasil sesuai dengan sasaran.\nAsas kebersamaan dan kemitraan berkenaan dengan penyelenggaraan\njalan yang melibatkan peran serta pemangku kepentingan melalui\nsuatu\nhubungan kerja yang harmonis, setara, timbal balik, dan\nsinergis.\nPasal 3\nHuruf a\nCukup jelas\nHuruf b\nCukup jelas\nHuruf c\nCukup jelas\nHuruf d\nYang dimaksud dengan pelayanan yang andal adalah\npelayanan jalan yang memenuhi standar pelayanan minimal, yang\nmeliputi aspek aksesibilitas\n(kemudahan pencapaian), mobilitas,\nkondisi jalan, keselamatan, dan kecepatan tempuh rata-rata,\nsedangkan yang dimaksud prima adalah\nselalu memberikan pelayanan\nyang optimal.\nHuruf e\nYang dimaksud dengan sistem transportasi terpadu\nadalah bahwa keberadaan jaringan jalan memberikan sinergi fungsi\ndan lokasi yang\noptimal dengan prasarana dan moda transportasi lain\nsehingga meningkatkan efisiensi transportasi guna mempercepat\npembangunan di\nsegala bidang.\nHuruf f\nYang dimaksud dengan transparan adalah bahwa\nsemua ketentuan dan informasi mengenai pengusahaan jalan tol,\ntermasuk syarat teknis\nadministrasi pengusahaan dapat diketahui\noleh semua pihak, sedangkan terbuka adalah pemberian kesempatan\nyang sama bagi semua badan\nusaha yang memenuhi persyaratan serta\ndilakukan melalui persaingan yang sehat di antara badan usaha yang\nsetara.\nPasal 4\nCukup jelas\nPasal 5\nCukup jelas\nPasal 6\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nYang dimaksud dengan jalan khusus, antara lain,\nadalah jalan di dalam kawasan pelabuhan, jalan kehutanan, jalan\nperkebunan, jalan\ninspeksi pengairan, jalan di kawasan industri,\ndan jalan di kawasan permukiman yang belum diserahkan kepada\npemerintah.\nAyat (4)\nCukup jelas\nPasal 7\nAyat (1)\nCukup jelas\nAyat (2)\nSistem jaringan jalan primer adalah sistem\njaringan jalan bersifat menerus yang memberikan pelayanan lalu\nlintas tidak terputus walaupun\nmasuk ke dalam kawasan perkotaan.\nPusat-pusat kegiatan adalah kawasan perkotaan yang mempunyai\njangkauan pelayanan nasional, wilayah,\ndan lokal.\nAyat (3)\nYang dimaksud dengan kawasan perkotaan adalah\nkawasan yang mempunyai kegiatan utama bukan pertanian, dengan\nsusunan fungsi kawasan\nsebagai tempat permukiman perkotaan,\npemusatan dan distribusi pelayanan jasa pemerintahan, pelayanan\nsosial, serta kegiatan ekonomi.\nAyat (4)\nCukup jelas\nPasal 8\nAyat (1)\nCukup jelas\nAyat (2)\nJalan arteri meliputi jalan arteri primer dan\narteri sekunder. Jalan arteri primer merupakan jalan arteri dalam\nskala wilayah tingkat\nnasional, sedangkan jalan arteri sekunder\nmerupakan jalan arteri dalam skala perkotaan.\nAngkutan utama adalah angkutan bemilai ekonomis tinggi dan volume\nbesar.\nAyat (3)\nJalan kolektor meliputi jalan kolektor primer dan\njalan kolektor sekunder.\nJalan kolektor primer merupakan jalan kolektor dalam skala wilayah,\nsedangkan jalan kolektor sekunder dalam skala perkotaan;\nAngkutan pengumpul adalah angkutan antara yang bersifat\nmengumpulkan angkutan setempat untuk diteruskan ke angkutan utama\ndan sebaliknya\nyang bersifat membagi dari angkutan utama untuk\nditeruskan ke angkutan setempat.\nAyat (4)\nJalan lokal meliputi jalan lokal primer dan jalan\nlokal sekunder.\nJalan lokal primer merupakan jalan lokal dalam skala wilayah\ntingkat lokal sedangkan jalan lokal sekunder dalam skala\nperkotaan.\nAngkutan setempat adalah angkutan yang melayani kebutuhan\nmasyarakat setempat dengan ciri perjalanan jarak dekat, kecepatan\nrendah,\ndan frekuensi ulang-alik yang tinggi.\nAyat (5)\nYang dimaksud dengan jalan lingkungan meliputi\njalan lingkungan primer dan jalan lingkungan sekunder. Jalan\nlingkungan primer merupakan\njalan lingkungan dalam skala wilayah\ntingkat lingkungan seperti di kawasan perdesaan di wilayah\nkabupaten, sedangkan jalan lingkungan\nsekunder merupakan jalan\nlingkungan dalam skala perkotaan seperti di lingkungan perumahan,\nperdagangan, dan pariwisata di kawasan\nperkotaan.\nAyat (6)\nCukup jelas\nPasal 9\nAyat (1)\nKetentuan mengenai pengelompokan jalan\ndimaksudkan untuk mewujudkan kepastian hukum penyelenggaraan jalan\nsesuai dengan kewenangan\nPemerintah dan pemerintah daerah.\nAyat (2)\nYang dimaksud dengan jalan strategis nasional\nadalah jalan yang melayani kepentingan nasional atas dasar kriteria\nstrategis yaitu\nmempunyai peranan untuk membina kesatuan dan\nkeutuhan nasional, melayani daerah-daerah rawan, bagian dari jalan\nlintas regional atau\nlintas intenasional, melayani kepentingan\nperbatasan antar negara, serta dalam rangka pertahanan dan\nkeamanan.\nAyat (3)\nJalan strategis provinsi adalah jalan yang\ndiprioritaskan untuk melayani kepentingan provinsi berdasarkan\npertimbangan untuk membangkitkan\npertumbuhan ekonomi, kesejahteraan\ndan keamanan provinsi; untuk jalan di Daerah Khusus Ibukota Jakarta\nterdiri atas jalan provinsi\ndan jalan nasional.\nAyat (4)\nYang dimaksud dengan jalan strategis kabupaten\nadalah jalan yang diprioritaskan untuk melayani kepentingan\nkabupaten berdasarkan pertimbangan\nuntuk membangkitkan pertumbuhan\nekonomi, kesejahteraan dan keamanan kabupaten.\nAyat (5)\nYang dimaksud dengan jalan kota adalah jalan yang\nberada di dalam daerah kota yang bersifat otonom sebagaimana\ndimaksud dalam undang-undang\ntentang pemerintahan daerah.\nAyat (6)\nCukup jelas\nAyat (7)\nCukup jelas\nPasal 10\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nYang dimaksud dengan:\n-   jalan bebas hambatan (freeway)\nadalah jalan umum untuk lalu lintas menerus yang memberikan\npelayanan menerus/tidak terputus\ndengan pengendalian jalan masuk\nsecara penuh, dan tanpa adanya persimpangan sebidang, serta\ndilengkapi dengan pagar ruang milik jalan,\npaling sedikit 2 (dua)\nlajur setiap arah dan dilengkapi dengan median;\n-   jalan raya (highway) adalah jalan\numum untuk lalu lintas menerus dengan pengendalian jalan masuk\nsecara terbatas dan\ndilengkapi dengan median, paling sedikit 2\n(dua) lajur setiap arah;\n-   jalan sedang (road) adalah jalan\numum dengan lalu lintas jarak sedang dengan pengendalian jalan\nmasuk tidak dibatasi,\npaling sedikit 2 (dua) lajur untuk 2 (dua)\narah dengan lebar paling sedikit 7 (tujuh) meter;\n-   jalan kecil (street) adalah jalan\numum untuk melayani lalu lintas setempat, paling sedikit 2 (dua)\nlajur untuk 2 (dua)\narah dengan lebar paling sedikit 5,5 (lima\nsetengah) meter.\nAyat (4)\nCukup jelas\nPasal 11\nAyat (1)\nCukup jelas\nAyat (2)\nYang dimaksud dengan ruang manfaat jalan adalah\nsuatu ruang yang dimanfaatkan untuk konstruksi jalan dan terdiri\natas badan jalan,\nsaluran tepi jalan, serta ambang pengamannya.\nBadan jalan meliputi jalur lalu lintas, dengan atau tanpa jalur\npemisah dan bahu jalan,\ntermasuk jalur pejalan kaki. Ambang\npengaman jalan terletak di bagian paling luar, dari ruang manfaat\njalan, dan dimaksudkan untuk\nmengamankan bangunan jalan.\nAyat (3)\nYang dimaksud dengan ruang milik jalan (right of\nway) adalah sejalur tanah tertentu di luar ruang manfaat jalan yang\nmasih menjadi\nbagian dari ruang milik jalan yang dibatasi oleh\ntanda batas ruang milik jalan yang dimaksudkan untuk memenuhi\npersyaratan keluasan\nkeamanan penggunaan jalan antara lain untuk\nkeperluan pelebaran ruang manfaat jalan pada masa yang akan\ndatang.\nAyat (4)\nYang dimaksud dengan ruang pengawasan jalan\nadalah ruang tertentu yang terletak di luar ruang milik jalan yang\npenggunaannya diawasi\noleh penyelenggara jalan agar tidak\nmengganggu pandangan pengemudi, konstruksi bangunan jalan apabila\nruang milik jalan tidak cukup\nluas, dan tidak mengganggu fungsi\njalan. Terganggunya fungsi jalan disebabkan oleh pemanfaatan ruang\npengawasan jalan yang tidak\nsesuai dengan peruntukannya.\nAyat (5)\nCukup jelas\nPasal 12\nAyat (1)\nYang dimaksud dengan perbuatan yang mengakibatkan\nterganggunya fungsi jalan adalah setiap bentuk tindakan atau\nkegiatan yang dapat\nmengganggu fungsi jalan, seperti terganggunya\njarak atau sudut pandang, timbulnya hambatan samping yang\nmenurunkan kecepatan atau\nmenimbulkan kecelakaan lalu lintas, serta\nterjadinya kerusakan prasarana, bangunan pelengkap, atau\nperlengkapan jalan.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nPasal 13\nCukup jelas\nPasal 14\nAyat (1)\nYang dimaksud dengan penyelenggaraan jalan secara\numum adalah penyelenggaraan jalan secara makro yang mencakup\npenyelenggaraan seluruh\nstatus jalan, baik nasional, provinsi,\nkabupaten, kola, maupun desa.\nAyat (2)\nCukup jelas\nPasal 15\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nKetentuan mengenai penyerahan kewenangan\nbertujuan agar peran jalan dalam melayani kegiatan masyarakat dapat\ntetap terpelihara dan\nkeseimbangan pembangunan antarwilayah\nterjaga,\nAyat (4)\nCukup jelas\nPasal 16\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nKetentuan mengenai penyerahan kewenangan\nbertujuan agar peran jalan dalam melayani kegiatan masyarakat dapat\ntetap terpelihara dan\nkeseimbangan pembangunan antarwilayah\nterjaga,\nAyat (5)\nCukup jelas\nPasal 17\nCukup jelas\nPasal 18\nCukup jelas\nPasal 19\nCukup jelas\nPasal 20\nCukup jelas\nPasal 21\nCukup jelas\nPasal 22\nCukup jelas\nPasal 23\nCukup jelas\nPasal 24\nHuruf a\nKetentuan ini dimaksudkan agar Pemerintah\nmelakukan pengembangan sistem bimbingan, penyuluhan, pendidikan dan\npelatihan di bidang\njalan agar diperoleh kesamaan tujuan dan\npemahaman bagi semua pihak yang terkait dengan penyelenggaraan\njalan.\nHuruf b\nCukup jelas\nHuruf c\nKetentuan ini dimaksudkan agar pengkajian serta\npenelitian dan pengembangan teknologi bidang jalan dan yang terkait\nbidang jalan dilakukan\nsecara menerus untuk meningkatkan keandalan\njalan, mengembangkan potensi sumber daya alam setempat dan memberi\nnilai tambah dalam\npenyelenggaraan jalan.\nHuruf d\nKetentuan ini dimaksudkan agar pemberian\nfasilitas penyelesaian sengketa dapat menjaga keterpaduan sistem\njaringan jalan yang berada\ndi wilayah administratif yang berbeda\nagar diperoleh keberdayagunaan dan keberhasilgunaan penyelenggaraan\njalan.\nHuruf e\nCukup jelas\nPasal 25\nHuruf a\nCukup jelas\nHuruf b\nCukup jelas\nHuruf c\nKetentuan ini dimaksudkan agar pemberian\nfasilitas penyelesaian sengketa dapat menjaga keterpaduan sistem\njaringan jalan yang berada\ndi wilayah administratif yang berbeda\nagar diperoleh keberdayagunaan dan keberhasilgunaan penyelenggaraan\njalan.\nPasal 26\nHuruf a\nCukup jelas\nHuruf b\nPemberian izin, rekomendasi, dispensasi, dan\npertimbangan dimaksudkan untuk semua status jalan yang ada di\nwilayah kabupaten kecuali\njalan tol.\nHuruf c\nCukup jelas\nPasal 27\nHuruf a\nCukup jelas\nHuruf b\nPemberian izin, rekomendasi, dispensasi, dan\npertimbangan dimaksudkan untuk semua status jalan yang ada di\nwilayah kota kecuali jalan\ntol.\nHuruf c\nCukup jelas\nPasal 28\nCukup jelas\nPasal 29\nCukup jelas\nPasal 30\nCukup jelas\nPasal 31\nCukup jelas\nPasal 32\nCukup jelas\nPasal 33\nCukup jelas\nPasal 34\nCukup jelas\nPasal 35\nCukup jelas\nPasal 36\nCukup jelas\nPasal 37\nAyat (1)\nHuruf a\nKetentuan mengenai evaluasi dan pengkajian\ntermasuk evaluasi kinerja penyelenggaraan jalan nasional, jalan\nprovinsi, jalan kabupaten\ndan jalan desa, serta jalan kota.\nHuruf b\nCukup jelas\nHuruf c\nCukup jelas\nAyat (2)\nHuruf a\nKetentuan mengenai evaluasi kinerja\npenyelenggaraan termasuk pencapaian standar pelayanan\nminimal.\nHuruf b\nCukup jelas\nPasal 38\nHuruf a\nKetentuan mengenai evaluasi kinerja\npenyelenggaraan jalan termasuk pencapaian standar pelayanan minimal\nyang harus disampaikan secara\nberkala kepada Pemerintah.\nHuruf b\nCukup jelas\nPasal 39\nHuruf a\nKetentuan mengenai evaluasi kinerja\npenyelenggaraan jalan termasuk pencapaian standar pelayanan minimal\nyang harus disampaikan secara\nberkala kepada Pemerintah.\nHuruf b\nCukup jelas\nPasal 40\nHuruf a\nKetentuan mengenai evaluasi kinerja\npenyelenggaraan jalan termasuk pencapaian standar pelayanan minimal\nyang harus disampaikan secara\nberkala kepada Pemerintah.\nHuruf b\nCukup jelas\nPasal 41\nCukup jelas\nPasal 42\nCukup jelas\nPasal 43\nAyat (1)\nCukup jelas\nAyat (2)\nPengusahaan jalan tol dapat dilakukan sebagai\nberikut:\n-   pendanaan, perencanaan teknis, dan\npelaksanaan konstruksi oleh Pemerintah dan pengoperasian dan\npemeliharaan dilakukan\noleh badan usaha yang pemilihannya dilakukan\nmelalui pelelangan;\n-   pendanaan, perencanaan teknis, dan\npelaksanaan konstruksi oleh Pemerintah dan badan usaha, serta\npengoperasian dan pemeliharaan\ndilakukan oleh badan usaha yang\npemilihannya dilakukan melalui pelelangan; atau\n-   pendanaan, perencanaan teknis, dan\npelaksanaan konstruksi oleh badan usaha dan pengoperasian dan\npemeliharaan dilakukan\noleh badan usaha yang sama yang pemilihannya\ndilakukan melalui pelelangan.\nAyat (3)\nCukupjelas\nAyat (4)\nCukup jelas\nPasal 44\nAyat (I)\nCukup jelas\nAyat (2)\nYang dimaksud dengan keadaan tertentu adalah\nkondisi pada saat jalan umum belum ada, sementara untuk keperluan\npengembangan kawasan\ntertentu diperlukan jalan tol.\nAyat (3)\nYang dimaksud dengan spesifikasi yang lebih\ntinggi adalah spesifikasi jalan bebas hambatan, antara lain, tidak\nada persimpangan sebidang,\njalan keluar atau jalan masuk (akses)\ndikendalikan secara penuh, dan kecepatan rencana (design speed)\ntinggi.\nAyat (4)\nCukup jelas\nPasal 45\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nAyat (5)\nCukup jelas\nAyat (6)\nHuruf a\nCukup jelas\nHuruf b\nYang dimaksud dengan persiapan pengusahaan jalan\ntol antara lain adalah kegiatan. pra studi kelayakan, studi\nkelayakan, dan analisis\nmengenai dampak lingkungan (AMDAL).\nHuruf c\nCukup jelas\nAyat (7)\nCukup jelas\nPasal 46\nCukup jelas\nPasal 47\nAyat (1)\nCukup jelas\nAyat (2)\nYang dimaksud dengan rencana umum jaringan jalan\ntol adalah ruas-ruas jalan yang paling sedikit dalam bentuk\nkoridor.\nAyat (3)\nPenetapan suatu ruas jalan tol dilakukan oleh\nMenteri bersamaan dengan penandatanganan perjanjian pengusahaan\njalan tol.\nAyat (4)\nCukup jelas\nPasal 48\nAyat (1)\nCukup jelas\nAyat (2)\nCukupjelas\nAyat (3)\nEvaluasi dan penyesuaian tarif tol dilakukan\ndengan formula: Tarif baru = tarif lama (1 +inflasi).\nKeterangan\nInflasi = data inflasi wilayah yang bersangkutan dari Badan Pusat\nStatistik. Penyesuaian tarif tol ditentukan 2 (dua) tahun sejak\npenetapan terakhir tarif tol.\nAyat (4)\nCukup jelas\nAyat (5)\nCukup jelas\nPasal 49\nCukupjelas\nPasal 50\nAyat (1)\nCukupjelas\nAyat (2)\nCukupjelas\nAyat (3)\nCukupjelas\nAyat (4)\nCukupjelas\nAyat (5)\nYang dimaksud dengan keadaan tertentu adalah\nkondisi pada saat tidak ada badan usaha yang berminat ikut dalam\npengusahaan jalan tol,\nantara lain, disebabkan oleh tidak layaknya\npembangunan jalan tol secara finansial walaupun secara ekonomi\nlayak.\nYang dimaksud dengan mengambil langkah adalah pelaksanaan\npembangunan jalan tol seluruhnya atau sebagian oleh Pemerintah dan\nselanjutnya\npengoperasiannya dilakukan oleh badan usaha.\nAyat (6)\nYang dimaksud dengan jangka waktu tertentu adalah\njangka waktu pengoperasian yang ditetapkan dalam perjanjian\npengusahaan jalan tol.\nAyat (7)\nCukup jelas\nAyat (8)\nYang dimaksud dengan langkah penyelesaian adalah\nupaya Pemerintah dalam menyelesaikan pengusahaan jalan tol yang\nterhenti melalui\nupaya tertentu agar pengusahaan jalan tol dapat\nberlanjut dan jalan tol yang bersangkutan dapat terwujud, misalnya\nmelalui pengambilalihan\nsementara untuk selanjutnya\ndilelangkan.\nAyat (9)\nCukup jelas\nPasal 51\nAyat (1)\nCukup jelas\nAyat (2)\nYang dimaksud dengan sebagian lingkup pengusahaan\njalan tol adalah dapat berupa keseluruhan pembangunan, serta\noperasi dan pemeliharaan,\natau sebagian pembangunan serta operasi\ndan pemeliharaan, atau hanya operasi dan pemeliharaan saja.\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nPasal 52\nAyat (1)\nKetentuan ini dimaksudkan bahwa dalam keadaan\nterpaksa, karena keberadaan jalan tol yang berdampingan langsung\ndengan jalan umum yang\nada pada salah satu sisi, akan menyulitkan\nakses pengguna memasuki jalan umum dari sisi jalan tol tersebut\nsehingga lebih berdaya\nguna menempatkan jalan tol di tengah jalan\numum yang ada. Dengan demikian, badan usaha menyediakan jalan\npengganti dengan kapasitas\npaling kurang sama dengan kapasitas\njalan umum sebelum jalan tol itu dibangun.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nPasal 53\nCukup jelas\nPasal 54\nCukup jelas\nPasal 55\nCukup jelas\nPasal 56\nCukup jelas\nPasal 57\nCukup jelas\nPasal 58\nAyat (1)\nPelaksanaan pembangunan bagi kepentingan umum\nharus memperhatikan hak perseorangan atas tanah sehingga penggunaan\ntanah tersebut bermanfaat\nbagi masyarakat, negara, dan pemegang hak\natas tanah. Rencana tata ruang wilayah kabupaten/kota dimaksud\nadalah rencana tata ruang\nyang telah sejalan dengan rencana tata\nruang nasional.\nAyat (2)\nKegiatan sosialisasi tersebut dimaksudkan untuk\nmemberikan pemahaman kepada masyarakat sehingga dapat mengurangi\ndampak atas keberatan\nmasyarakat terhadap pembangunan jalan.\nAyat (3)\nPemegang hak atas tanah adalah orang atau badan\nhukum yang mempunyai hak atas tanah yang sudah terdaftar atau\nbersertifikat atau atas\ntanah bekas milik adat yang belum terdaftar\natau belum bersertifikat.\nPemakai tanah negara adalah orang atau badan hukum yang mendirikan\nbangunan atau memanfaatkan tanah tersebut, tetapi belum diberikan\nhak atas tanahnya atau belum bersertifikat.\nTanah ulayat adalah bidang tanah yang di atasnya terdapat hak\nulayat masyarakat hukum adat tertentu.\nMasyarakat hukum adat adalah sekelompok orang yang terikat oleh\ntatanan hukum adat yang bersangkutan sebagai warga bersama\npersekutuan\nhukum atas dasar kesamaan tempat tinggal atau\nketurunan.\nAyat (4)\nKesepakatan ini merupakan bagian dari proses\npengadaan tanah yang dituangkan ke dalam berita acara.\nPasal 59\nAyat (1)\nPencabutan hak atas tanah dapat dilaksanakan\napabila telah diusahakan kesepakatan para pihak dengan tahapan\nberjenjang tidak tercapai.\nPelaksanaannya berdasarkan peraturan\npemndang-undangan di bidang pertanahan.\nAyat (2)\nCukup jelas\nPasal 60\nCukup jelas\nPasal 61\nAyat (1)\nRencana tata ruang wilayah kabupaten/kota\ndimaksud adalah rencana tata ruang yang telah sejalan dengan\nrencana tata ruang nasional.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nPasal 62\nAyat (1)\nHuruf a\nMasukan masyarakat dapat berupa informasi\nmengenai kondisi jalan ataupun penyelenggaraan jalan yang tidak\nsesuai dengan peraturan\nperundangan yang berlaku.\nHuruf b\nCukup jelas\nHuruf c\nCukup jelas\nHuruf d\nCukup jelas\nHuruf e\nYang dimaksud dengan ganti kerugian yang layak\nadalah besaran ganti kerugian yang wajar sesuai dengan tingkat\nkerugian yang ditimbulkan\ndan tingkat kesalahan dalam\npembangunan.\nHuruf f\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nPasal 63\nCukup jelas\nPasal 64\nCukup jelas\nPasal 65\nCukup jelas\nPasal 66\nCukup jelas\nPasal 67\nCukup jelas\nPasal 68\nCukup jelas"
+   }
+  }
+ ]
+}

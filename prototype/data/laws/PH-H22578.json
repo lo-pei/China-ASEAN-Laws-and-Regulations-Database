@@ -1,0 +1,72 @@
+{
+ "id": "PH-H22578",
+ "title": {
+  "zh": null,
+  "en": "Setting the Period of Registration of Voters Provided Under Presidential Decree No. 1187 and Appropriating Funds Therefor",
+  "orig": "Setting the Period of Registration of Voters Provided Under Presidential Decree No. 1187 and Appropriating Funds Therefor"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1977-10-19",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 1222",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 756,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_01222_1977_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_01222_1977_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22578-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Period of registration. The registration of qualified voters provided under Presidential Decree\nNo. 1187 shall be undertaken on October twenty-nine; thirty, November four and five, nineteen\nseventy-seven, from seven o'clock in the morning to seven o'clock in the evening."
+   }
+  },
+  {
+   "id": "PH-H22578-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Appropriations. To carry out the objectives of Presidential Decree No. 1187, the amount of Eight\nmillion eight hundred fifty thousand (P8,850,000.00) pesos only is hereby appropriated out of any funds in the\nNational Treasury not otherwise appropriated to be spent under the exclusive authority of the Commission on"
+   }
+  },
+  {
+   "id": "PH-H22578-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "Effectivity. This decree shall take effect immediately.\nDONE in the City of Manila, this 19th day of October, in the year of Our Lord, nineteen hundred and\nseventy-seven."
+   }
+  }
+ ]
+}

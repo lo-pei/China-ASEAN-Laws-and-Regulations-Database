@@ -1,0 +1,218 @@
+{
+ "id": "ID-H2431",
+ "title": {
+  "zh": "交通部非税国家收入种类与税率",
+  "en": "the Types and Rates of Non-Tax State Revenue Applicable at the Ministry of Transportation",
+  "id": "JENIS DAN TARIF ATAS JENIS PENERIMAAN NEGARA BUKAN PAJAK YANG BERLAKU PADA KEMENTERIAN PERHUBUNGAN",
+  "orig": "JENIS DAN TARIF ATAS JENIS PENERIMAAN NEGARA BUKAN PAJAK YANG BERLAKU PADA KEMENTERIAN PERHUBUNGAN",
+  "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Bộ Giao thông Vận tải",
+  "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในกระทรวงคมนาคม",
+  "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Kementerian Perhubungan"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02b",
+ "language": "id",
+ "level": "law",
+ "category": "02_民商事与经济法",
+ "status": "active",
+ "promulgatedDate": "2015",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU11-2015",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 14,
+ "chars": 16784,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PP%20%20Nomor%2011%20Tahun%202015.pdf&fl=P16942"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\02_民商事与经济法\\印尼_文本_2015_JENIS DAN TARIF ATAS JENIS PENERIMAAN NEGARA BUKAN PAJAK YANG BERLAKU PADA KEMENTERIAN PERHUBUNGAN.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 14 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H2431-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\n(1). Jenis Penerimaan Negara Bukan Pajak yang berlaku pada\nKementerian Perhubungan meliputi penerimaan dari:\na. jasa transportasi darat;\nb. jasa transportasi perkeretaapian;\nc. jasa transportasi laut;\nd. jasa transportasi udara;\ne. jasa pendidikan dan pelatihan serta jasa penggunaan\nsarana dan prasarana; dan\nf. denda administratif.\n(2). Jenis dan Tarif atas jenis Penerimaan Negara Bukan\nPajak yang berlaku pada Kementerian Perhubungan\nsebagaimana dimaksud pada ayat (1) , ditetapkan dalam\nLampiran Peraturan Pemerintah ini."
+   }
+  },
+  {
+   "id": "ID-H2431-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2 "
+   },
+   "chapter": {},
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 2 . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPasal 2\n(1) Selain yang ditetapkan dalam Lampiran,  jenis\nPenerimaan Negara Bukan Pajak sebagaimana dimaksud\ndalam Pasal 1 ayat (1)  huruf b, huruf c, dan huruf d ,\nmeliputi juga:\na. Jenis Penerimaan Negara Bukan Pajak yang berasal\ndari jasa transportasi perkeretaapian berupa Biaya\nPenggunaan Prasarana Perkeretaapian;\nb. Jenis Penerimaan Negara Bukan Pajak yang berasal\ndari jasa transportasi laut berupa hasil konsesi\ndan/atau kompensasi atas pelayanan jasa\nkepelabuhanan di pelabuhan;\nc. Jenis Penerimaan Negara Bukan Pajak yang berasal\ndari jasa transportasi udara berupa penerimaan dari\npelayanan jasa kebandarudaraan pada Bandar Udara\nyang dikerjasamakan dengan Badan Usaha;\nd. Jenis Penerimaan Negara Bukan Pajak yang berasal\ndari jasa transportasi udara berupa pelayanan jasa\nnavigasi penerbangan jelajah untuk ruang udara\nRepublik Indonesia yang didelegasikan kepada negara\nlain;\n(2) Tarif atas jenis Penerimaan Negara Bukan Pajak\nsebagaimana dimaksud pada ayat (1) huruf a dihitung\ndengan formula sebagai berikut:\n             n\n TACKA=[GTKA x∑(KMKAi  x TACDaop/Divrei)]x Fp\n               i=1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                       =          Total Biaya Penggunaan Prasarana Perkeretaapian per tahun Daop/Divre\n\n                                n\n           ∑ Passing Tonnagej X Panjang Koridor Daop/Divre Sesuai Lintas Pelayanan\n                              j=1\nTACDaop/Divre =\n TACDaop/Divre = IMDaop/Divre + IODaop/Divre + IDDaop/Divre\n\n                              Biaya perawatan prasarana perkeretaapian per tahun per Daop/Divre\n\n                            n\n         ∑ Passing Tonnagej X Panjang Koridor Daop/Divre Sesuai Lintas Pelayanan\n               j=1\nIMDaop/Divre  =\n                            Biaya pengoperasian prasarana perkeretaapian per tahun per Daop/Divre\n\n                         n\n        ∑ Passing Tonnagej X Panjang Koridor Daop/Divre Sesuai Lintas Pelayanan\n                      j=1\nIODaop/Divre  =\nIDDaop/Divre  . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(3) Besaran Faktor Prioritas (Fp)  maksimal 0,75 (nol koma\ntujuh lima) ditetapkan oleh Menteri Perhubungan dengan\nmempertimbangkan keberlangsungan Badan Usaha.\n(4) Besaran biaya penyusutan (ID) ditetapkan oleh Menteri\nPerhubungan kecuali untuk badan usaha milik negara di\nbidang perkeretaapian  ditetapkan sebesar Rp0,00 (nol\nrupiah).\n(5) Tarif atas jenis Penerimaan Negara Bukan Pajak\nsebagaimana dimaksud pada ayat (1) huruf b dan  huruf c\nsebesar nilai yang tercantum dalam kontrak kerja sama.\n(6) Tarif atas jenis Penerimaan Negara Bukan Pajak\nsebagaimana dimaksud pada ayat (1) huruf d sebesar\nnilai yang tercantum dalam perjanjian antar negara."
+   }
+  },
+  {
+   "id": "ID-H2431-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\n(1) Selain yang ditetapkan dalam Lampiran,  jenis\nPenerimaan Negara Bukan Pajak sebagaim ana dimaksud\ndalam Pasal 1 ayat (1) huruf e, Kementerian Perhubungan\ndapat menyelenggarakan:\na. pendidikan dan pelatihan di bidang transporta si yang\nberasal dari kerja sama.\nb. pendidikan dan pe latihan Kepemimpinan Tingkat IV\ndan Kepemimpinan Tingkat III bagi P egawai Negeri\nSipil serta pendidikan dan pelatihan prajabatan bagi\ncalon Pegawai Negeri Sipil sesuai dengan ketentuan\nPeraturan Perundang-undangan.\nc. pendidikan dan pelatihan fungsional Analisis\nKepegawaian, Arsiparis, Statistik tingkat terampil,\nPranata Ko mputer tingkat terampil, Auditor Ahli,\nAuditor Terampil, Pranata Humas sesuai dengan\nketentuan Peraturan Perundang-undangan.\n(2) Tarif atas jenis Penerimaan Negara Bukan Pajak\nsebagaimana dimaksud pada ayat (1) huruf a sebesar\nnilai nominal yang tercantum dalam kontrak kerja sama.\n\n (3) Tarif . . .\n                                             Biaya penyusutan prasarana perkeretaapian per tahun per Daop/Divre\n\n              n\n       ∑ Passing Tonnagej X Panjang Koridor Daop/Divre Sesuai Lintas Pelayanan\n                  j=1\nIDDaop/Divre  =\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(3) Tarif atas jenis Penerimaan Negara Bukan Pajak\nsebagaimana dimaksud pada ayat (1) huruf b mengacu\nkepada Peraturan Pemerintah mengenai jenis dan tarif\natas jenis Penerimaan Negara Bukan Pajak yang berlaku\npada Lembaga Administrasi Negara.\n(4) Tarif atas jenis Penerimaan Negara Bukan Pajak\nsebagaimana dimaksud pada ayat (1) huruf c mengacu\nkepada Peraturan Pemerintah mengenai jenis dan tarif\natas jenis Penerimaan Negara Bukan Pajak yang berlaku\npada Instansi Pembina Diklat Fungsional yang\nbersangkutan."
+   }
+  },
+  {
+   "id": "ID-H2431-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\n(1) Terhadap kegiatan tertentu, Jenis Penerimaan Negara\nBukan Pajak yang berlaku pada Kementerian\nPerhubungan sebagaimana dimaksud dalam Pasal 1  ayat\n(1) huruf a sampai dengan huruf d yang peruntukannya\ntidak bersifat komersial  dapat dikenakan tarif sebesar\nRp0,00 (nol rupiah).\n(2) Kegiatan tertentu sebagaimana dimak sud pada ayat (1)\nterdiri atas kegiatan:\na. kenegaraan;\nb. pencarian dan pertolongan, bencana alam, dan\nbantuan kemanusiaan;\nc. untuk kepentingan umum dan sosial; atau\nd. yang bersifat nasional dan internasional.\n(3) Ketentuan lebih lanjut mengenai kriteria, tata cara, dan\npersyaratan pengenaan tarif kegiatan tertentu\nsebagaimana dimaksud pada ayat (1) dan ayat (2) diatur\ndengan Peraturan Menteri Perhubungan setelah\nmendapat persetujuan Menteri Keuangan."
+   }
+  },
+  {
+   "id": "ID-H2431-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5 "
+   },
+   "chapter": {},
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 5 . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPasal 5\n(1) Terhadap J enis Penerimaan Negara Bukan Pajak yang\nberasal dari  jasa pendidikan dan pelatiha n serta jasa\npenggunaan sarana dan prasarana  sebagaimana\ndimaksud dalam Pasal 1 ayat (1) huruf e berupa:\na. pendidikan dan pelatihan pembe ntukan pada pusat\npengembangan sumber daya manusia perhubungan\ndarat dan laut; dan\nb. pendidikan dan pelatihan diploma subsidi pada pusat\npengembangan sumber daya manusia perhubungan\nudara,\nkepada peserta didik yang berprestasi dan tidak mampu\ndikenakan tarif sebesar Rp0,00 (nol rupiah).\n(2) Ketentuan lebih lanjut mengenai tata cara dan\npersyaratan pengenaan tarif sebesar Rp0,00 (nol rupiah )\nkepada peserta didik yang berprestasi dan tidak mampu\nsebagaimana dimaksud pada ayat (1) diatur dengan\nPeraturan Menteri Per hubungan setelah mendapat\npersetujuan Menteri Keuangan."
+   }
+  },
+  {
+   "id": "ID-H2431-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\n(1) Jenis Penerimaan Negara Bukan Pajak yang berasal dari\njasa transportasi darat sebagaimana dimaksud dalam\nPasal 1 ayat (1) huruf a berupa jasa tanda masuk\npelabuhan, jasa pemeliharaan dermaga dan jasa timbang\nkendaraan sebagaimana tercantum dalam Lampiran\ndikelompokkan berdasarkan golongan kendaraan.\n(2) Penentuan golongan kendaraan untuk jenis Penerimaan\nNegara Bukan Pajak sebagaimana dimaksud pada ayat (1)\nditetapkan oleh Menteri Perhubungan."
+   }
+  },
+  {
+   "id": "ID-H2431-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7 "
+   },
+   "chapter": {},
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 7 . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPasal 7\n(1) Jenis Penerimaan Negara Bukan Pajak yang berasal dari\njasa transportasi darat sebagaimana dimaksud dalam\nPasal 1 ayat (1) huruf a berupa pengujian kendaraan\nbermotor, sebagaimana tercantum dalam Lampiran\ndikelompokkan berdasarkan jenis kendaraan bermotor.\n(2) Pengelompokkan kendaraan bermotor untuk pengujian\nkendaraan bermotor sebagaimana dimaksud pada ayat\n(1) tidak termasuk uji emisi gas buang euro 3 (sepeda\nmotor) dan kalibrasi peralatan pengujian kendaraan\nbermotor.\n(3) Penentuan jenis kendaraan berm otor sebagaimana\ndimaksud pada ayat (1) ditetapkan oleh Menteri\nPerhubungan."
+   }
+  },
+  {
+   "id": "ID-H2431-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n(1) Jenis Penerimaan Negara Bukan Pajak yang berasal dari\njasa transportasi laut sebagaimana dimaksud dalam\nPasal 1 ayat (1) huruf c  berupa jasa k epelabuhanan\ndiklasifikasikan menurut kelas pelabuhan.\n(2) Jenis Penerimaan Negara Bukan Pajak yang berasal dari\njasa transportasi laut sebagaimana dimaksud dalam\nPasal 1 ayat (1) huruf c  atas jasa pelayanan barang\nberupa hewan dikelompokkan menurut tipe hewan.\n(3) Penentuan kriteria dan  klasifikasi pelabuhan, serta\npengelompokan tipe hewan sebagaimana dimaksud pada\nayat (1) dan ayat (2) ditetapkan oleh Menteri\nPerhubungan."
+   }
+  },
+  {
+   "id": "ID-H2431-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n(1) Tarif atas jenis Penerimaan Negara Bukan Pajak yang\nberasal dari jasa transportasi laut dan jasa transportasi\nudara berupa:\n\na. pelayanan . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\na. pelayanan jasa pemanduan dan penundaan kapal di\npelabuhan umum, di terminal untuk kepentingan\nsendiri dan di terminal khusus;\nb. jasa pemeriksaan kesehatan dan penilaian lingkungan\nkerja pelayaran;\nc. jasa penilaian ijin kewenangan perusahaan yan g\nmelakukan perbaikan dan perawatan peralatan\nkeselamatan pelayaran;\nd. lisensi personil penerbangan;\ne. sertifikasi peralatan atau fasilitas pada jasa\ntransportasi udara;\nf. sertifikasi organisasi pada jasa transportasi udara;\ng. pengujian kesehatan pada jasa transportasi udara;\nh. jasa pelayanan pada balai teknik penerbangan;\ni. jasa kalibrasi fasilitas penerbangan; dan\nj. jasa pelayanan bidang teknik bandar udara,\nyang kegiatannya dilakukan di  luar kantor Kementerian\nPerhubungan, tidak termasuk biaya akomodasi dan\ntransportasi.\n(2) Biaya akomodasi dan transportasi sebagaimana\ndimaksud pada ayat (1) dibebankan kepada Wajib Bayar\nsesuai dengan ketentuan Peraturan Perundang -\nundangan."
+   }
+  },
+  {
+   "id": "ID-H2431-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\nTarif atas Jenis Penerimaan Negara Bukan Pajak yang berasal\ndari pelayanan jasa penerbanga n sebagaimana tercantum\ndalam Lampiran  Peraturan Pemerintah ini  termasuk tarif\npelayanan jasa informasi cuaca untuk penerbangan\nsebagaimana diatur dalam ketentuan Peraturan Per undang-\nundangan."
+   }
+  },
+  {
+   "id": "ID-H2431-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11 "
+   },
+   "chapter": {},
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 11 . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPasal 11\n(1) Denda administratif sebagaimana dimaksud dalam Pasal\n1 ayat (1) huruf f dihitung berdasarkan satuan poin\npelanggaran dikalikan dengan tarif denda administratif di\nbidang transportasi darat, transportasi laut, dan\ntransportasi udara sebagaimana ditetapkan dalam\nLampiran Peraturan Pemerintah ini.\n(2) Ketentuan mengenai satuan poin pelanggaran dari j enis\npelanggaran administratif sebagaimana dimaksud pada\nayat (1) diatur lebih lanjut dengan Peraturan Menteri\nPerhubungan."
+   }
+  },
+  {
+   "id": "ID-H2431-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\nSeluruh Penerimaan Negara Bukan Pajak yang berlaku pada\nKementerian Perhubungan wajib disetor langsung secepatnya\nke Kas Negara."
+   }
+  },
+  {
+   "id": "ID-H2431-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\nPada saat Peraturan Pemerintah ini mulai berlaku, Peraturan\nPemerintah Nomor 6 Tahun 2009 tentang Jenis dan Tarif Atas\nJenis Penerimaan Negara Bukan Pajak yang Berlaku pada\nDepartemen Perhubungan  (Lembaran Negara Republik\nIndonesia Tahun 2009 Nomor 19, Tambahan Lembaran\nNegara Republik Indonesia Nomor 4973)  sebagaimana telah\ndiubah dengan Peraturan Pemerintah Nomor 74 Tahun 2013\ntentang Perubahan atas Peraturan Pemerintah Nomor 6\nTahun 2009 tentang Jen is dan Tarif atas Jenis Penerimaan\nNegara Bukan Pajak yang Berlaku pada Departemen\nPerhubungan (Lembaran Negara Republik Indonesia Tahun\n2013 Nomor 181, Tambahan Lembaran Negara Republik\nIndonesia Nomor 5461) dicabut dan dinyatakan tidak berlaku."
+   }
+  },
+  {
+   "id": "ID-H2431-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\nPeraturan Pemerintah ini mulai berlaku setelah 30 ( tiga\npuluh) hari terhitung sejak tanggal diundangkan.\nAgar  . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAgar setiap orang mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan\npenempatannya dalam Lembaran Negara Republik Indonesia.\n\n\nDitetapkan di Jakarta\npada tanggal 24 Februari 2015\nPRESIDEN REPUBLIK INDONESIA,\nttd.\nJOKO WIDODO\n\n\nDiundangkan di Jakarta\npada tanggal 24 Februari 2015\nMENTERI HUKUM DAN HAK ASASI MANUSIA\nREPUBLIK INDONESIA,\nttd.\nYASONNA H. LAOLY\n\n\n\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2015 NOMOR 41\n\n\n\n\n\n\n\n\n\n\n\n\nPENJELASAN\nATAS\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nNOMOR 11 TAHUN 2015\nTENTANG\nJENIS DAN TARIF ATAS JENIS PENERIMAAN NEGARA BUKAN PAJAK\nYANG BERLAKU PADA KEMENTERIAN PERHUBUNGAN\n\n\nI. UMUM\nUntuk mengoptimalkan Penerimaan Negara Bukan Pajak guna\nmenunjang pembangunan nasional, Penerimaan Negara Bukan Pajak\npada Kementerian Perhubungan sebagai salah satu sumber penerimaan\nNegara perlu dikelola dan dimanfaatkan untuk peningkatan pelayanan\nkepada masyarakat.\nKementerian Perhubungan telah memiliki jenis dan tarif atas jenis\nPenerimaan Negara Bukan Pajak sebagaimana diatur dalam Peraturan\nPemerintah Nomor 6 Tahun 2009 tentang Jenis dan Tarif atas Jenis\nPenerimaan Negara Bukan Pajak yang Berlaku pada Departemen\nPerhubungan sebagaimana telah diubah dengan Peratur an Pemerintah\nNomor 74 Tahun 2013 tentang Perubahan atas Peraturan Pemerintah\nNomor 6 Tahun 2009 tentang Jenis dan Tarif atas Jenis Penerimaan\nNegara Bukan Pajak yang Berlaku pada Departemen Perhubungan ,\nnamun untuk melakukan penyesuaian  jenis dan tarif at as jenis\nPenerimaan Negara Bukan Pajak yang berlaku pada Kementerian\nPerhubungan, perlu mengatur kembali jenis dan tarif atas jenis\nPenerimaan Negara Bukan Pajak yang Berlaku pada Kementerian\nPerhubungan dengan Peraturan Pemerintah.\n\nII. PASAL DEMI PASAL\n\nPasal 1\n  Ayat (1)\n   Cukup jelas.\n\nAyat (2) . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  Ayat (2)\n   Cukup jelas.\n\nPasal 2\n  Ayat (1)\n   Huruf a\n    Cukup jelas.\n   Huruf b\n    Cukup jelas.\n   Huruf c\nPelayanan jasa kebandarudaraan pada Bandar Udara\nyang dikerjasamakan dengan Badan Usaha dalam\nPeraturan ini antara lain:\n1. pelayanan jasa penumpang pesawat udara (PJP2U);\n2. jasa pendaratan pesawat udara;\n3. jasa penempatan pesawat udara;\n4. jasa penyimpanan pesawat udara;\n5. jasa pemakaian garbarata (aviobridge);\n6. jasa pemakaian tempat pelaporan keberangkatan\n(check-in counter); dan\n7. jasa kargo dan pos pesawat udara (JKP2U).\nHuruf d\nCukup jelas.\nAyat (2)\nYang dimaksud dengan:\nKA  :  Nama Kereta Api yang dihitung TAC-nya\ni  :  Urutan Daop/Divre yang dilewati KA\ntersebut, 1,2,…\nTACKA  :  Biaya Penggunaan Prasarana\nPerkeretaapian yang dibebankan terhadap\n1 (satu) kali perjalanan KA (Rp)\n\nGTKA . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGTKA  :  Berat rangkaian KA berdasarkan\nStamformasi ditambah Berat Muatan (GT)\n :  Panjang lintasan KA pada Daop/Divre ke -\ni yang dilewati (KM).\n  :  Biaya penggunaan prasarana\nPerkeretaapian per GTKM pada\nDaop/Divre ke-i (Rp/GT-KM).\nFp  :  Faktor Prioritas Penggunaan besarannya\nmaksimal 0,75 (nol koma tujuh lima).\n  :  Biaya Penggunaan Prasarana\nPerkeretaapian per GTKM pada\nDaop/Divre (Rp/GT-KM).\n  :  Biaya Perawatan Prasarana\nPerkeretaapian pada masing -masing\nDaop/Divre (Rp/GT-KM).\n  : Biaya Pengoperasian Prasarana\nPerkeretaapian pada masing -masing\nDaop/Divre (Rp/GT-KM).\n :  Biaya Penyusutan Prasarana\nPerkeretaapian p ada masing -masing\nDaop/Divre (Rp/GT-KM).\n  :  Biaya Penggunaan Prasarana\nPerkeretaapian per GTKM pada\nDaop/Divre (Rp/GT-KM).\nj  : Nama Kereta Api k e j yang melewati\nDaop/Divre, dimana j = 1, 2,…\n  : Berat rangkaian KA  ke j  berdasarkan\nstamformasi ditambah dengan berat\nmuatan yang  lewat di Daop/Divre (GT).\nPanjang Koridor Daop/Divre sesuai lintas pelayanan:\npanjang lintasan KA ke -j di Daop/Divre  sesuai lintas\npelayanan (KM).\n\nAyat (3)\n Cukup jelas.\nAyat (4)\n Cukup jelas.\n\nAyat (5) . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAyat (5)\n Cukup jelas.\nAyat (6)\n Cukup jelas.\n\nPasal 3\nCukup jelas.\n\nPasal 4\nAyat (1)\n  Cukup jelas.\nAyat (2)\n  Huruf a\nYang dimaksud dengan “kegiatan kenegaraan” adalah\nkegiatan transportasi untuk mendukung kegiatan\nkenegaraan Presiden/Wakil Presiden, Pejabat Negara,\nataupun Tamu Negara misalnya kunjungan\nkenegaraan dari kepala negara/pemerintahan dan\ntamu negara beserta rombongan di Indonesia.\nHuruf b\nYang dimaksud dengan “kegiatan pencarian dan\npertolongan” adalah kegiatan pencarian dan\npertolongan misalnya terhadap pesawat dan kapal\nyang mengalami kecelakaan di wilayah Republik\nIndonesia.\nYang dimaksud dengan “kegiatan  bencana alam”\nadalah kegiatan transportasi untuk penanganan\nbencana dan darurat bencana.\nYang dimaksud dengan “kegiatan bantuan\nkemanusiaan” adalah kegiatan transportasi untuk\npemberian bantuan kemanusiaan misalnya\npenyaluran bantuan kemanusiaan dari organisasi atau\nnegara lain untuk Indonesia.\n\nHuruf c . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHuruf c\n Yang dimaksud dengan “kegiatan untuk kepentingan\numum dan sosial” adalah kegiatan untuk mewujudkan\nkepentingan bangsa, negara, dan masyarakat yang\nharus diwujudkan oleh pemerintah dan digunakan\nsebesar-besarnya untuk kemakmuran rakyat.\nHuruf d\n Kegiatan yang bersifat nasional antara lain meliputi\npenyelenggaraan pekan olahraga nasional, fest ival\nkebudayaan, maupun kegiatan lain yang berskala\nnasional di wilayah Indonesia.\n Kegiatan yang bersifat internasional antara lain\nmeliputi penyelenggaraan konferensi atau pertemuan\nberskala internasional di wilayah Indonesia.\nAyat (3)\n  Cukup jelas.\n\nPasal 5\n  Cukup jelas.\n\nPasal 6\nCukup jelas.\n\nPasal 7\n  Cukup jelas.\n\nPasal 8\n  Cukup jelas.\n\n\n\n\nPasal 9 . . .\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPasal 9\n  Cukup jelas.\n\nPasal 10\n  Cukup jelas.\n\nPasal 11\n  Cukup jelas.\n\nPasal 12\n  Cukup jelas.\n\nPasal 13\n  Cukup jelas.\n\nPasal 14\n  Cukup jelas.\n\n\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 5668"
+   }
+  }
+ ]
+}

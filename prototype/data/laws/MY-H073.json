@@ -1,14 +1,18 @@
 {
  "id": "MY-H073",
  "title": {
-  "zh": "民法_1956",
+  "zh": "民法 1956",
   "en": "Civil Law Act 1956 - Easy Law",
-  "orig": null
+  "orig": "Civil Law Act 1956 - Easy Law",
+  "vi": "Luật Dân sự 1956",
+  "th": "พระราชบัญญัติกฎหมายแพ่ง ค.ศ. 1956",
+  "id": "Undang-Undang Hukum Perdata 1956",
+  "ms": "Akta Undang-Undang Sivil 1956"
  },
  "country": "MY",
  "countryName": "马来西亚",
  "layer": "intl",
- "pack": "my-p03",
+ "pack": "my-2",
  "language": "en",
  "level": "law",
  "category": null,

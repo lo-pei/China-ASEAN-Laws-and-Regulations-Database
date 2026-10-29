@@ -1,0 +1,72 @@
+{
+ "id": "PH-H15908",
+ "title": {
+  "zh": null,
+  "en": "An Act Authorizing the President of the Philippines to Negotiate With the President of the United states for An Economic-Trade Conference, and Providing Funds therefor.",
+  "orig": "An Act Authorizing the President of the Philippines to Negotiate With the President of the United states for An Economic-Trade Conference, and Providing Funds therefor."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1936-11-14",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 191",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1083,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00191_1936_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00191_1936_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H15908-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The President of the Philippines is hereby authorized to negotiate with the President of the\nUnited States looking towards the holding of an economic-trade conference between the United States and the\nPhilippines in order to discuss the economic and trade relations that would be mutually beneficial to the two\ncountries, and therefore, personally or through such Government representstion as he may authorize, to\ncontinue such negotiations to a successful termination, and to report from time to time to the National\nAssembly regarding the progress thereof."
+   }
+  },
+  {
+   "id": "PH-H15908-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "To carry out the purposes of this Act, there is hereby appropriated out of any funds in the\nPhilippine Treasury not otherwise appropriated, the sum of one hundred and fifty thousand pesos to be\nexpended in the discretion of the President of the Philippines to defray the salaries of technical advisers,\nassistants, and other needed personnel, traveling and such other necessary expenses as may be incurred in\nconnection with the said trade conference."
+   }
+  },
+  {
+   "id": "PH-H15908-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, November 14, 1936."
+   }
+  }
+ ]
+}

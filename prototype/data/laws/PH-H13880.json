@@ -1,0 +1,82 @@
+{
+ "id": "PH-H13880",
+ "title": {
+  "zh": null,
+  "en": "An Act to Fix the Equivalent of the Picul as a Unit of Measure in Pounds and",
+  "orig": "An Act to Fix the Equivalent of the Picul as a Unit of Measure in Pounds and"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1925-11-28",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3245",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 625,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1925/act_3245_1925.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03245_1925_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03245_1925_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13880-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The use of the unit of measure known as \"picul\" is hereby authorized within the Philippine"
+   }
+  },
+  {
+   "id": "PH-H13880-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The equivalent of picul is. hereby fixed at one hundred and thirty-seven and one-half Spanish\navoirdupois pounds, or sixty-three thousand two hundred and fifty grams, any agreement to the contrary\nnotwithstanding."
+   }
+  },
+  {
+   "id": "PH-H13880-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "Any person violating any provision of this Act shall be punished by a fine not exceeding one\nthousand pesos nor less than fifty pesos and in case of insolvency, to suffer imprisonment not exceeding three\nmonths nor less than ten days."
+   }
+  },
+  {
+   "id": "PH-H13880-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "This Act shall take effect three months after its approval.\nApproved. November 28, 1925."
+   }
+  }
+ ]
+}

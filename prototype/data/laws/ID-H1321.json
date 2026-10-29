@@ -1,0 +1,630 @@
+{
+ "id": "ID-H1321",
+ "title": {
+  "zh": "区域空间规划地图精度等级法",
+  "en": "Law on Map Accuracy Levels for Regional Spatial Planning",
+  "id": "TINGKAT KETELITIAN PETA UNTUK PENATAAN RUANG WILAYAH",
+  "orig": "TINGKAT KETELITIAN PETA UNTUK PENATAAN RUANG WILAYAH",
+  "vi": "Luật về Mức độ Chính xác của Bản đồ cho Quy hoạch Không gian Vùng",
+  "th": "พระราชบัญญัติว่าด้วยระดับความละเอียดของแผนที่สำหรับการผังเมืองเชิงพื้นที่",
+  "ms": "Akta tentang Tahap Ketelitian Peta untuk Penataan Ruang Wilayah"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02b",
+ "language": "id",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "2000",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU10-2000",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 41,
+ "chars": 19306,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PP%20NO%2010%20TH%202000.pdf&fl=P04250"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\01_宪法与基础法\\印尼_文本_2000_TINGKAT KETELITIAN PETA UNTUK PENATAAN RUANG WILAYAH.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 50 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H1321-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\nDalam Peraturan Pemerintah ini yang dimaksud dengan:\n1. Peta adalah suatu gambar dari unsur -unsur alam dan atau buatan\nmanusia,yang berada di atas maupun di bawah permukaan bumi yang\ndigambarkan pada suatu bidang datar dengan skala tertentu.\n2. Skala peta adalah angka perbandingan antara jarak dua titik di atas peta\ndengan jarak tersebut dimuka bumi.\n3. Ketelitian peta adalah ketepatan, kerincian dan kelengkapan data atau\ninformasi georeferensi dan tematik.\n4. Peta dasar adalah peta yang menyajikan unsur -unsur alam dan atau\nbuatan manusia, yang berada di permukaan bumi, digambarkan pada\nsuatu bidang datar dengan skala, penomoran, proyeksi dan georeferensi\ntertentu.\nPRESIDEN\nREPUBLIK INDONESIA\n5. Wilayah …\n5. Wilayah adalah ruang yang merupakan kesatuan geografis beserta\nsegenap unsur terkait padanya, yang batas dan sistemnya ditentukan\nberdasarkan pada aspek administratif dan atau fungsional.\n6. Peta wilayah adalah peta yang berdasarkan pada aspek administratif\nyang diturunkan dari peta dasar.\n7. Peta tematik wilayah adalah peta wilay ah yang menyajikan data dan\ninformasi tematik.\n8. Peta rencana tata ruang wilayah adalah peta wilayah yang menyajikan\nhasil perencanaan tata ruang wilayah.\n9. Instansi yang bertanggung jawab adalah instansi yang bertanggung\njawab di bidang pemetaan.\n10. Instansi yang mengadakan peta tematik wilayah adalah instansi baik di\ntingkat pusat maupun daerah, yang tugas dan fungsinya mengadakan\npeta tematik wilayah.\nBAB II\nRUANG LINGKUP DAN TUJUAN"
+   }
+  },
+  {
+   "id": "ID-H1321-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\nPeraturan Pemerintah ini mengatur tingkat ketelitian berbagai jenis peta yang\ndigunakan untuk penyusunan peta rencana tata ruang wilayah dan tingkat\nketelitian peta rencana tata ruang wilayah."
+   }
+  },
+  {
+   "id": "ID-H1321-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\nTujuan pengaturan tingkat ketelitian peta untuk pena taan ruang wilayah,\ndimaksudkan untuk mewujudkan kesatuan sistem penyajian data dan\ninformasi penataan ruang wilayah.\nBAB III\nJENIS PETA DAN TINGKAT KETELITIAN\nPETA RENCANA TATA RUANG WILAYAH\nBagian Pertama\nUmum"
+   }
+  },
+  {
+   "id": "ID-H1321-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\n(1) Jenis peta, meliputi:\na. peta dasar;\nb. peta wilayah; dan\nc. peta tematik wilayah.\n(2) Jenis peta harus memiliki karakteristik ketelitian peta yang pasti.\nPRESIDEN\nREPUBLIK INDONESIA\n(3) Karakteristik ketelitian peta menjadi dasar ketelitian bagi pembuatan\npeta rencana tata ruang wilayah."
+   }
+  },
+  {
+   "id": "ID-H1321-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5 …"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 5\nTingkat ketelitian peta untuk penataan ruang wilayah ditentukan berdasarkan\npada skala minimal yang diperlukan untuk merekonstruksi informasi pada\npeta dimuka bumi.\nBagian Kedua\nJenis Peta"
+   }
+  },
+  {
+   "id": "ID-H1321-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\n(1) Peta dasar sebagaimana dimaksud dalam Pasal 4 ayat (1) huruf a,\nmenggunakan sistem referensi menurut ketentuan Datum Geodesi\nNasional 1995, sistem proyeksi Transverse Mercator (TM) dengan sistem\ngrid Universal Transverse Mercator (UTM) dan sistem penomoran\nlembar peta secara nasional.\n(2) Peta dasar digunakan sebagai dasar bagi pembuatan peta wilayah."
+   }
+  },
+  {
+   "id": "ID-H1321-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\nPeta wilayah digunakan sebagai dasar bagi pembuatan peta tematik wilayah\ndan peta rencana tata ruang wilayah."
+   }
+  },
+  {
+   "id": "ID-H1321-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n(1) Peta tematik wilayah digambarkan berdasarkan pada kriteria, klasifikasi\ndan spesifikasi unsur -unsur tematik yang ditetapkan oleh instansi yang\nmengadakan peta tematik wilayah.\n(2) Peta rencana tata ruang wilayah digambarkan dengan unsur -unsur peta\nwilayah dan unsur-unsur peta rencana tata ruang wilayah.\nBagian Ketiga\nTingkat Ketelitian Peta Rencana Tata Ruang Wilayah\nParagraf 1\nUmum"
+   }
+  },
+  {
+   "id": "ID-H1321-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n(1) Peta rencana tata ruang wilayah meliputi tingkat ketelitian peta untuk:\na. peta rencana tata ruang wilayah nasional;\nb. peta rencana tata ruang wilayah daerah propinsi;\nc. peta rencana tata ruang wilayah daerah kabupaten; dan\nd. peta rencana tata ruang wilayah daerah kota.\n(2) Tingkat ketelitian peta sebagaimana dimaksud pada ayat (1), diwujudkan\nPRESIDEN\nREPUBLIK INDONESIA\ndengan tingkatan skala peta rencana tata ruang wilayah.\nParagraf 2 …\nParagraf 2\nTingkat Ketelitian Peta Rencana\nTata Ruang Wilayah Nasional"
+   }
+  },
+  {
+   "id": "ID-H1321-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\nPeta rencana tata ruang wilayah nasional menggunakan peta wilayah negara\nIndonesia dan peta tematik wilayah dengan tingkat ketelitian peta skala yang\nsama."
+   }
+  },
+  {
+   "id": "ID-H1321-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\n(1) Peta wilayh negara Indonesia sebagaimana dimaksud dalam Pasal 10,\nberpedoman pada tingkat ketelitian minimal berskala 1:1.000.000.\n(2) Peta wilayah negara Indonesia dengan skala 1:1.000.000 meliputi\nunsur-unsur:\na. garis pantai;\nb. hidrologi, berupa laut beserta unsur -unsur di perairan pantainya,\nsungai, danau, waduk atau bendungan yang dig ambarkan dengan\nskala untuk lebar minimal 125 meter;\nc. permukiman, berupa kota;\nd. jaringan transportasi, berupa jalan tol, jalan arteri, jalan kolektor,\njalan kereta api, jalan lain, bandar udara, pelabuhan;\ne. batas administrasi, berupa batas negara, ba tas propinsi, batas\nkabupaten, batas kota; dan\nf. nama-nama unsur geografis."
+   }
+  },
+  {
+   "id": "ID-H1321-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\nUnsur-unsur sebagaimana dimaksud dalam Pasal 11 ayat (2), digambarkan\ndengan simbol dan atau notasi pada Lampiran 1 Peraturan Pemerintah ini."
+   }
+  },
+  {
+   "id": "ID-H1321-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\n(1) Peta rencana tata ruang wilayah nasional digambarkan dalam peta\nwilayah negara Indonesia.\n(2) Unsur-unsur peta rencana tata ruang wilayah nasional, meliputi\nkawasan lindung, kawasan budidaya, kawasan tertentu, sistem\npermukiman, jaringan transportasi, jari ngan kelistrikan dan energi,\njaringan telekomunikasi, sarana dan prasarana air baku dan sistem\njaringan utilitas."
+   }
+  },
+  {
+   "id": "ID-H1321-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\nUnsur-unsur peta rencana tata ruang wilayah nasional sebagaimana dimaksud\nPRESIDEN\nREPUBLIK INDONESIA\ndalam Pasal 13 ayat (2), digambarkan dengan simbol dan at au notasi pada\nLampiran VII Peraturan Pemerintah ini.\nParagraf 3 …\nParagraf 3\nTingkat Ketelitian Peta Rencana Tata\nRuang Wilayah Daerah Propinsi"
+   }
+  },
+  {
+   "id": "ID-H1321-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\nPeta rencana tata ruang wilayah daerah propinsi menggunakan peta wilayah\ndaerah propinsi dan peta tematik wilayah dengan tingkat ketelitian peta pada\nskala yang sama."
+   }
+  },
+  {
+   "id": "ID-H1321-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\n(1) Peta wilayah daerah propinsi sebagaimana dimaksud dalam Pasal 15,\nberpedoman pada tingkat ketelitian minimal berskala 1:250.000.\n(2) Peta wilayah daerah propinsi dengan skala 1:250.000 meliputi\nunsur-unsur:\na. garis pantai;\nb. hidrologi, berupa laut beserta unsur -unsur di perairan pantainya,\nsungai, danau, waduk atau bendungan yang digambarkan dengan\nskala untuk lebar minimal 35 meter;\nc. permukiman;\nd. jaringan transportasi, berupa jalan tol, jalan arteri, jalan kolektor,\njalan kereta api, jalan lain, bandar udara, pelabuhan;\ne. batas administrasi, berupa batas negara, batas pr opinsi, batas\nkabupaten, batas kota;\nf. garis kontur, dengan selang kontur yang mempunyai kelipatan 125\nmeter;\ng. titik tinggi; dan\nh. nama-nama unsur geografis."
+   }
+  },
+  {
+   "id": "ID-H1321-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\nUnsur-unsur sebag aimana dimaksud dalam Pasal 16 ayat (2), digambarkan\ndengan simbol dan atau notasi pada Lampiran II Peraturan Pemerintah ini."
+   }
+  },
+  {
+   "id": "ID-H1321-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\n(1) Peta rencana tata ruang wilayah daerah propinsi digambarkan dalam\npeta wilayah daerah propinsi.\n(2) Unsur-unsur peta rencana tata ruang wilayah daerah propinsi, meliputi\nkawasan lindung, kawasan budidaya, kawasan tertentu, sistem\npermukiman, jaringan transportasi, jaringan kelistrikan dan energi,\njaringan telekomunikasi, sarana dan prasarana air baku dan sistem\nPRESIDEN\nREPUBLIK INDONESIA\njaringan utilitas."
+   }
+  },
+  {
+   "id": "ID-H1321-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19 …"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 19\nUnsur-unsur peta rencana tata ruang wilayah daerah propinsi sebagaimana\ndimaksud dalam Pasal 18 ayat (2), digambarkan dengan simbol dan atau\nnotasi pada Lampiran VIII Peraturan Pemerintah ini."
+   }
+  },
+  {
+   "id": "ID-H1321-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\n(1) Dalam hal wilayah daerah propinsi yang bentangan wilayahnya sempit\ndapat digunakan peta wilayah dengan skala 1:100.000 atau skala\n1:50.000.\n(2) Peta wilayah daerah propinsi yang menggunakan skala 1:100.000, untuk\nunsur-unsur dan penggambarannya berlaku ket entuan sebagaimana\ndimaksud dalam Pasal 23 ayat (2) dan Pasal 24.\n(3) Peta wilayah daerah propinsi yang menggunakan skala 1:50.000, untuk\nunsur-unsur dan penggambarannya berlaku ketentuan sebagaimana\ndimaksud dalam Pasal 30 ayat (2) dan Pasal 31."
+   }
+  },
+  {
+   "id": "ID-H1321-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\n(1) Dalam hal peta rencana tata ruang wilayah daerah propinsi digambarkan\ndalam peta wilayah daerah propinsi yang menggunakan skala 1:100.000\nsebagaimana dimaksud dalam Pasal 20 ayat (2), untuk unsur -unsur dan\npenggambarannya berlaku ketentuan sebagaiman a dimaksud dalam"
+   }
+  },
+  {
+   "id": "ID-H1321-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25 ayat (2) dan Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {
+    "id": "ayat (2) dan Pasal 26."
+   },
+   "text": {
+    "id": "Pasal 25 ayat (2) dan Pasal 26.\n(2) Dalam hal peta rencana tata ruang wilayah daerah propinsi digambarkan\ndalam peta wilayah daerah propinsi yang menggunakan skala 1:50.000\nsebagaimana dimaksud dalam Pasal 20 ayat (3), untuk unsur -unsur dan\npenggambarannya berlaku ketentuan sebagaimana dimaksud dalam"
+   }
+  },
+  {
+   "id": "ID-H1321-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32 ayat (2) dan Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {
+    "id": "ayat (2) dan Pasal 33."
+   },
+   "text": {
+    "id": "Pasal 32 ayat (2) dan Pasal 33.\nParagraf 4\nTingkat Ketelitian Peta Rencana Tata\nRuang Wilayah Daerah Kabupaten\nPasal 22\nPeta rencana tata ruang wilayah daerah kabupaten menggunakan peta wila yah\ndaerah kabupaten dan peta tematik wilayah dengan tingkat ketelitian peta\npada skala yang sama.\nPasal 23\nPRESIDEN\nREPUBLIK INDONESIA\n(1) Peta wilayah daerah kabupaten sebagaimana dimaksud dalam Pasal 22\nberpedoman pada tingkat ketelitian minimal berskala 1:100.000.\n(2) Peta …\n(2) Peta wilayah daerah kabupaten dengan skala 1:100.000 unsur -unsurnya\nmeliputi:\na. garis pantai;\nb. hidrologi, berupa laut beserta unsur -unsur di perairan pantainya,\nsungai, danau, waduk atau bendungan yang digambarkan dengan\nskala untuk lebar minimal 35 meter;\nc. permukiman;\nd. jaringan transportasi, berupa jalan tol, jalan arteri,jalan kolektor, jalan\nkereta api, bandar udara digambarkan sesuai dengan skala;\ne. batas administrasi, berupa batas negara, batas propinsi, batas\nkabupaten, batas wilayah daerah kota, batas kecamatan;\nf. garis kontur, dengan selang kontur yang mempunyai kelipatan 50\nmeter;\ng. titik tinggi; dan\nh. nama-nama unsur geografis.\nPasal 24\nUnsur-unsur sebagaimana dimaksud dalam Pasal 23 ayat (2) digambarkan\ndengan simbol dan atau notasi pada Lampiran III Peraturan Pemerintah ini.\nPasal 25\n(1) Peta rencana tata ruang wilayah daerah kabupaten digambarkan dalam\npeta wilayah daerah kabupaten.\n(2) Unsur-unsur peta rencana tata ruang wilayah daerah kabupaten\nmeliputi kawasan lindung, kawasan budidaya. Sistem permukiman,\njaringan transportasi, jaringan kelistrikan dan energi, jaringan\ntelekomunikasi, sarana dan prasarana air baku dan sistem jaringan\nutilitas.\nPasal 26\nUnsur-unsur peta rencana tata ruang wilayah daerah kabupaten sebagaimana\ndimaksud dalam Pasal 25 ayat (2), digambarkan dengan simbol dan atau\nnotasi pada Lampiran IX Peraturan Pemerintah ini.\nPasal 27\n(1) Dalam hal wilayah daerah kabupaten yang bentangan wilayahnya sempit\ndapat digunakan peta wilayah dengan wilayah skala 1:50.000 atau skala\nPRESIDEN\nREPUBLIK INDONESIA\n1:25.000.\n(2) Peta wilayah daerah kabupaten yang menggunakan skala 1:50.000,\nuntuk unsur -unsur dan penggambarannya berlaku ketentuan\nsebagaimana dimaksud dalam Pasal 30 ayat (2) dan Pasal 31.\n(3) Peta wilayah daerah kabupaten yang menggunakan skala 1:25.000,\nuntuk unsur -unsur dan penggambarannya berlaku ketentuan\nsebagaimana dimaksud dalam Pasal 32 ayat (2) dan Pasal 33.\nPasal 28 …\nPasal 28\n(1) Dalam hal peta rencana tata ruang wilayah daerah kabupaten\ndigambarkan dalam peta yang menggunakan skala 1:50.000\nsebagaimana dimaksud dalam Pasal 27 ayat (2), untuk unsur -unsur dan\npenggambarannya berlaku ketentuan sebagaimana dimaksud dalam"
+   }
+  },
+  {
+   "id": "ID-H1321-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 33.\n(2) Dalam hal peta rencana tata ruang wilayah daerah kabupaten\ndigambarkan dalam peta wilayah daerah kabupaten yang menggunakan\nskala 1:25.000 sebagaimana dimaksud dalam Pasal 27 ayat (3), untuk\nunsur-unsur dan penggambarannya berlaku ketentuan sebagaimana\ndimaksud dalam Pasal 35.\nParagraf 5\nTingkat Ketelitian Peta Rencana Tata\nRuang Wilayah Daerah Kota\nPasal 29\nPeta rencana tata ruang wilayah daerah kota menggunakan peta wilayah\ndaerah kota dan peta tematik wilayah dengan tingkat ketelitian peta pada skala\nyang sama.\nPasal 30\n(1) Peta wilayah daerah kota sebagaimana dimaksud dalam Pasal 29,\nberpedoman pada tingkat ketelitian minimal berskala 1:50.000.\n(2) Peta wilayah daerah kota dengan skala 1:50.000 uns ur-unsurnya\nmeliputi:\na. garis pantai;\nb. hidrologi, berupa laut beserta unsur -unsur di perairan pantainya,\nsungai, danau, waduk atau bendungan yang digambarkan dengan\nskala untuk lebar minimal 7 meter;\nc. permukiman;\nd. jaringan transportasi, berupa jalan tol, jalan arteri, jalan kolektor,\njalan kereta api, jalan setapak, bandar udara dan pelabuhan, bandar\nudara digambarkan sesuai dengan skala;\ne. batas administrasi, berupa batas negara, batas propinsi, batas\nkabupaten, batas kota, batas kecamatan;\nf. garis kontur, dengan selang kontur yang mempunyai kelipatan 25\nPRESIDEN\nREPUBLIK INDONESIA\nmeter;\ng. titik tinggi; dan\nh. nama-nama unsur geografis.\nPasal 31 …\nPasal 31\nUnsur-unsur peta wilayah daerah kota dengan skala 1:50.000, sebagaimana\ndimaksud dalam Pasal 30 ayat (2), digambarkan dengan simbol dan atau\nnotasi pada Lampiran IV Peraturan Pemerintah ini.\nPasal 32\n(1) Peta rencana tata ruang wilayah daerah kota digambarkan dalam peta\nwilayah daerah kota.\n(2) Unsur-unsur peta rencana tata ruang wilayah daerah kota meliputi\nkawasan lindung, kawasan budidaya, sistem permukiman, jaringan\ntransportasi, jaringan kelistrikan dan energi, jaringan telekomunikasi,\nsarana dan prasarana air baku dan sistem jaringan utilitas.\nPasal 33\nUnsur-unsur peta rencana tata ruang wilayah daerah kota sebagaimana\ndimaksud dalam Pasal 32 ayat (2), digambarkan dengan simbol dan atau\nnotasi pada Lampiran X Peraturan Pemerintah ini."
+   }
+  },
+  {
+   "id": "ID-H1321-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 34\n(1) Dalam hal wilayah daerah kota yang bentangan wilayahnya sempit,\ndapat digunakan peta wilayah dengan skala 1:25.000 atau skala\n1:10.000.\n(2) Peta wilayah daerah kota yang menggunakan peta wilayah dengan skala\n1:25.000 sebagaimana dimaksud pada ayat (1), uns ur-unsurnya\nmeliputi:\na. garis pantai;\nb. hidrografi, berupa laut beserta unsur -unsur di perairan pantainya,\nsungai, terusan, saluran air, danau, waduk atau bendungan yang\ndigambarkan dengan skala untuk lebar minimal 5 meter;\nc. permukiman;\nd. jaringan transportasi, berupa jalan tol, jalan arteri, jalan kolektor,\njalan lokal, jalan lain, jalan setapak, jalan kereta api, bandar udara\ndan pelabuhan;\ne. batas administrasi, berupa batas negara, batas propinsi, batas\nkabupaten, batas kota, batas kecamatan, batas kelurahan;\nPRESIDEN\nREPUBLIK INDONESIA\nf. garis kontur, dengan selang kontur yang mempunyai kelipatan 12,5\nmeter;\ng. titik tinggi; dan\nh. nama-nama unsur geografis."
+   }
+  },
+  {
+   "id": "ID-H1321-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35 …"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 35\nUnsur-unsur sebagaimana dimaksud dalam Pasal 34 ayat (2), digambarkan\ndengan simbol dan atau notasi pada Lampiran V Peraturan Pemerintah ini."
+   }
+  },
+  {
+   "id": "ID-H1321-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 36\nUnsur-unsur peta rencana tata ruang wilayah daerah kota yang menggunakan\nskala 1:250.000, meliputi kawasan li ndung, kawasan budidaya, sistem\npermukiman, jaringan transportasi, jaringan kelistrikan dan energi, jaringan\ntelekomunikasi, sarana dan prasarana air baku dan sistem jaringan utilitas."
+   }
+  },
+  {
+   "id": "ID-H1321-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 37\nUnsur-unsur peta rencana tata ruang wilayah daerah kota yang sebagaimana\ndimaksud dalam Pasal 36, digambarkan dengan simbol dan atau notasi pada\nLampiran XI Peraturan Pemerintah ini."
+   }
+  },
+  {
+   "id": "ID-H1321-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 38\nPeta wilayah daerah kota yang menggunakan peta wilayah dengan skala\n1:10.000, sebagaimana dimaksud dalam Pasal 34 ayat (1), unsur -unsurnya\nmeliputi:\na. garis pantai;\nb. hidrologi, berupa laut beserta unsur -unsur di perairan pantainya,\nsungai, terusan, saluran air, danau, wad uk atau bendungan yang\ndigambarkan dengan skala untuk lebar minimal 1,5 meter;\nc. permukiman;\nd. jaringan transportasi, berupa jalan tol, jalan arteri, jalan kolektor, jalan\nlokal, jalan lain, jalan setapak, jalan kereta api, bandar udara dan\npelabuhan;\ne. batas administrasi, berupa batas negara, batas propinsi, batas\nkabupaten, batas kota, batas kecamatan, batas desa;\nf. garis kontur, dengan selang kontur yang mempunyai kelipatan 5 meter;\ng. titik tinggi; dan\nh. nama-nama unsur geografis.\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H1321-A39",
+   "no": 39,
+   "noLabel": {
+    "id": "Pasal 39"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 39\nUnsur-unsur sebagaimana dimaksud dalam Pasal 38, digambarkan dengan\nsimbol dan atau notasi pada Lampiran VI Peraturan Pemerintah ini."
+   }
+  },
+  {
+   "id": "ID-H1321-A40",
+   "no": 40,
+   "noLabel": {
+    "id": "Pasal 40 …"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 40\nUnsur-unsur peta rencana tata ruang wilayah daerah kota yang menggunakan\nskala 1:10.000 sebagaima na dimaksud dalam Pasal 39, meliputi kawasan\nlindung, kawasan budidaya, sistem permukiman, jaringan transportasi,\njaringan kelistrikan dan energi, jaringan telekomunikasi, sarana dan prasarana\nair baku dan sistem jaringan utilitas."
+   }
+  },
+  {
+   "id": "ID-H1321-A41",
+   "no": 41,
+   "noLabel": {
+    "id": "Pasal 41"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 41\nUnsur-unsur p eta rencana tata ruang wilayah daerah kota sebagaimana\ndimaksud dalam Pasal 40, digambarkan dengan simbol dan atau notasi pada\nLampiran XII Peraturan Pemerintah ini.\nBAB IV\nPENGADAAN DAN PEMBINAAN TEKNIS"
+   }
+  },
+  {
+   "id": "ID-H1321-A42",
+   "no": 42,
+   "noLabel": {
+    "id": "Pasal 42"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 42\n(1) Pengadaan peta wilayah negara Indone sia, peta wilayah daerah propinsi,\npeta wilayah daerah kabupaten dan peta wilayah daerah kota\ndiselenggarakan oleh instansi yang bertanggung jawab.\n(2) Pengadaan Peta wilayah daerah propinsi, peta wilayah daerah kabupaten\ndan peta wilayah daerah kota dapat diselenggarakan oleh instansi terkait\ndi daerah dengan mengikuti ketentuan dalam Peraturan Pemerintah ini.\n(3) Pengadaan peta tematik wilayah diselenggarakan oleh instansi yang\nmengadakan peta tematik wilayah."
+   }
+  },
+  {
+   "id": "ID-H1321-A43",
+   "no": 43,
+   "noLabel": {
+    "id": "Pasal 43"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 43\n(1) Pembinaan teknis untuk memelih ara kualitas peta wilayah dan peta\nrencana tata ruang wilayah diselenggarakan oleh instansi yang\nbertanggung jawab.\n(2) Pembinaan teknis untuk memelihara kualitas peta tematik wilayah\ndiselenggarakan oleh instansi yang mengadakan peta tematik wilayah.\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H1321-A44",
+   "no": 44,
+   "noLabel": {
+    "id": "Pasal 44"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 44\nPembinaan teknis dilakukan melalui pengembangan keterpaduan sistem\njaringan dalam pemetaan untuk penataan ruang wilayah dengan\nmenggunakan sistem informasi geografis nasional sesuai dengan\nperkembangan ilmu pengetahuan dan teknologi.\nBAB V …\nBAB V\nPERAN SERTA MASYARAKAT"
+   }
+  },
+  {
+   "id": "ID-H1321-A45",
+   "no": 45,
+   "noLabel": {
+    "id": "Pasal 45"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 45\n(1) Masyarakat berhak mengetahui peta wilayah melalui katalog peta\nwilayah yang disusun oleh instansi yang bertanggung jawab.\n(2) Masyarakat berhak mengetahui peta tematik wilayah melalui katalog\npeta tematik wilaya h yang disusun oleh instansi yang mengadakan peta\ntematik wilayah."
+   }
+  },
+  {
+   "id": "ID-H1321-A46",
+   "no": 46,
+   "noLabel": {
+    "id": "Pasal 46"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 46\nMasyarakat dapat berperan serta memberikan data dan informasi dalam\npembuatan peta dasar, peta wilayah dan peta tematik wilayah.\nBAB VI\nKETENTUAN LAIN"
+   }
+  },
+  {
+   "id": "ID-H1321-A47",
+   "no": 47,
+   "noLabel": {
+    "id": "Pasal 47"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 47\nSimbol dan atau notasi unsur -unsur peta rencana tata ruang yang belum\ndiatur dalam Lampiran Peraturan Pemerintah ini, diatur lebih lanjut dengan\nkeputusan instansi yang bertanggung jawab dengan mempertimbangkan\nmasukan dari instansi yang terkait."
+   }
+  },
+  {
+   "id": "ID-H1321-A48",
+   "no": 48,
+   "noLabel": {
+    "id": "Pasal 48"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 48\nUnsur penyusunan peta rencana tata ruang kawasan, unsur -unsurnya\nmenggunakan simbol dan atau notasi sesuai dengan tingkatan ketelitian dan\nskala peta wilayah dan peta rencana tata ruang wilayah.\nBAB VII\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H1321-A49",
+   "no": 49,
+   "noLabel": {
+    "id": "Pasal 49"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 49\nPRESIDEN\nREPUBLIK INDONESIA\n(1) Pada saat mulai berlakunya Peraturan Pemerintah ini, maka semua peta\nwilayah dan rencana tata ruang wilayah yang telah ada harus\ndisesuaikan dengan ketentuan Peraturan Pemerintah ini.\n(2) Penyesuaian sebagaimana dimaksud pada ayat (1) harus diselesaikan\nselambat-lambatnya dalam tiga tahun setelah berlakunya Peraturan\nPemerintah ini.\nBAB VIII …\nBAB VIII\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H1321-A50",
+   "no": 50,
+   "noLabel": {
+    "id": "Pasal 50"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 50\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan\nPemerintah ini dengan penempatannya dalam Lembaran Negara Republik\nIndonesia.\nDitetapkan di Jakarta\npada tanggal 21 Pebruari 2000\nPRESIDEN REPUBLIK INDONESIA,\nttd.\nABDURRAHMAN WAHID\nDiundangkan di Jakarta\npada tanggal 21 Pebruari 2000\nPj. SEKRETARIS NEGARA REPUBLIK INDONESIA,\nttd.\nBONDAN GUNAWAN\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2000 NOMOR 20"
+   }
+  }
+ ]
+}

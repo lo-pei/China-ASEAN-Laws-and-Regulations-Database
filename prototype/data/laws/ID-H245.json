@@ -1,0 +1,490 @@
+{
+ "id": "ID-H245",
+ "title": {
+  "zh": "电信法",
+  "en": "telecommunications Law",
+  "id": "telekomunikasi",
+  "orig": "TELEKOMUNIKASI",
+  "vi": "Luật viễn thông",
+  "th": "พระราชบัญญัติ โทรคมนาคม",
+  "ms": "Akta telekomunikasi"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02a",
+ "language": "id",
+ "level": "law",
+ "category": "05_刑事与知识产权",
+ "status": "active",
+ "promulgatedDate": "1964",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU6-1963",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 28,
+ "chars": 23420,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": null
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\05_刑事与知识产权\\印尼_WLD_1964_TELEKOMUNIKASI.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 433 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H245-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 1.\nYang dimaksud dalam Undang-undang ini dengan:\na. telekomunikasi ialah setiap pemancaran, pengiriman atau\npenerimaan tiap jenis tanda-tanda, isyarat-isyarat,\ntulisan-tulisan,\ngambar-gambar dan suara-suara atau berita-berita\nmelalui kawat, visuil, radio atau sistim elektromagnetik lain;\nb. alat telekomunikasi ialah setiap alat perlengkapan atau pesawat\nyang dipergunakan dalam pelaksanaan telekomunikasi,\nc. perangkat telekomunikasi ialah sekelompok alat telekomunikasi\nyang memungkinkan penyelenggaraan telekomunikasi;\nd. setasiun ialah satu atau beberapa pesawat pemancar dan/atau\npesawat penerima atau suatu hubungan dari pesawat-pesawat pemancar\ndan pesawat-pesawat penerima termasuk perlengkapannya, yang\ndiperlukan di suatu tempat untuk menyelenggarakan suatu dinas\nperhubungan\nradio.\nBAB II.\nKetentuan umum."
+   }
+  },
+  {
+   "id": "ID-H245-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB II."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 2.\nTelekomunikasi dikuasai, diselenggarakan dan diatur oleh\nPemerintah.\nBAB III.\nTelekomunikasi untuk umum."
+   }
+  },
+  {
+   "id": "ID-H245-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB III."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 3.\nTelekomunikasi untuk umum diselenggarakan dan diatur oleh\nPemerintah."
+   }
+  },
+  {
+   "id": "ID-H245-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB III."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 4.\nSetiap orang dapat mempergunakan segala fasilitas telekomunikasi\nyang terbuka bagi umum dengan memperhatikan ketentuan-ketentuan\nyang\nberlaku."
+   }
+  },
+  {
+   "id": "ID-H245-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB III."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 5.\nTarip telekomunikasi dalam dan luar negeri, prioritas penggunaan\nfasilitas telekomunikasi, demikian pula ketentuan-ketentuan umum\ntentang telekomunikasi yang diselenggarakan untuk umum diatur\ndengan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H245-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB III."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 6.\nNegara atau pemegang izin tidak bertanggung jawab atas\nkerugian-kerugian yang timbul dalam penggunaan fasilitas\ntelekomunikasi seperti\ntermaksud dalam pasal 4 Undang-undang ini\nkecuali dalam hal-hal yang tercantum dalam pasal-pasal 433 dan 434\nKitab Undang-undang\nHukum Pidana."
+   }
+  },
+  {
+   "id": "ID-H245-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB III."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 7.\n(1) Dengan tidak mengurangi hak penggunaan fasilitas\ntelekomunikasi tersebut dalam pasal 4 undang-undang ini setiap\nberita atau percakapan\nyang isinya membahayakan keselamatan negara,\nmengganggu ketertiban umum atau berlawanan dengan tata susila,\ndapat ditolak atau dihentikan\npengirimannya atau dihentikan\nkelanjutan percakapannya.\n(2) Alasan penolakan atau penghentian termaksud pada ayat (1)\ndiberitahukan kepada yang bersangkutan dan yang berwajib."
+   }
+  },
+  {
+   "id": "ID-H245-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB III."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 8.\n(1) Apabila timbul perang atau ada bahaya perang, ada huru-hara\ndi dalam negeri atau terjadi perang antara negara-negara asing yang\nmenyangkut kepentingan Indonesia, Menteri/Jaksa Agung atau pejabat\nyang ditunjuk olehnya dapat meminta penjelasan tentang atau\nsalinan/ulangan\ndari setiap berita tertulis atau terekam.\n(2) Dalam rangka penyelesaian tindak pidana, Menteri/Jaksa Agung\natau pejabat yang ditunjuk olehnya dapat memerintahkan kepada\nsetiap\norang untuk menyerahkan berita-berita tertulis atau terekam\nyang sekiranya dapat dijadikan alat pembuktian."
+   }
+  },
+  {
+   "id": "ID-H245-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB III."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 9.\nPemasangan dan penggunaan alat telekomunikasi untuk siaran umum\ndiatur tersendiri dengan Peraturan Pemerintah.\nBAB IV.\nTelekomunikasi untuk keperluan khusus instansi Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H245-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB IV."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 10.\n(1) Untuk keperluan-keperluan khusus, instansi-instansi\nPemerintah tertentu dapat menyelenggarakan telekomunikasi.\n(2) Penguasaan, pemasangan, pengusahaan dan penggunaan perangkat\ntelekomunikasi oleh instansi-instansi Pemerintah diatur dengan\nPeraturan Pemerintah.\nBAB V.\nTelekomunikasi yang diselenggarakan oleh\nbukan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H245-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB V."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 11.\n(1) Dengan tidak mengurangi ketentuan-ketentuan yang termaktub\ndalam pasal-pasal 9, 10, 12, 13 dan 14 Undang-undang ini setiap\npenguasaan,\npemasangan serta penggunaan pesawat pemancar radio dan\npengusahaan perangkat telekomunikasi dilarang tanpa mendapat izin\nlebih dahulu\ndari Presidium Kabinet Kerja.\n(2) Izin tersebut pada ayat (1) diberikan untuk jangka waktu\nselama-lamanya sepuluh tahun dengan kemungkinan diperbaharui\napabila\njangka waktu tersebut berakhir.\n(3) Izin termaksud pada ayat (1) sewaktu-waktu dapat dicabut oleh\ninstansi yang diberi wewenang untuk memberi izin apabila ternyata\nsyarat-syarat yang ditentukan berdasarkan Undang-undang ini atau\nyang tersebut dalam surat izin tidak dipatuhi.\n(4) Syarat dan cara memperoleh izin termaksud pada ayat (1) baik\nizin tetap, izin sementara maupun izin kadang-kala diatur dengan\nPeraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H245-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB V."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 12.\n(1) Untuk penguasaan, pemasangan, pengusahaan dan penggunaan\nperangkat telekomunikasi oleh kapal air berbendera asing, yang\nberada\ndi perairan Indonesia tidak diwajibkan meminta izin seperti\ndimaksud dalam pasal 11 Undang-undang ini kecuali kalau kapal itu\ntetap\ndiusahakan di perairan Indonesia untuk jangka waktu yang\nditentukan dalam Peraturan Pemerintah tentang perizinan termaksud\ndalam\npasal 11 ayat (4) Undang-undang ini.\n(2) Perlengkapan, pemasangan, pengusahaan dan penggunaan perangkat\ntelekomunikasi di kapal air yang berada di perairan Indonesia\ntidak\ndiperkenankan menyimpang dari ketentuan-ketentuan pelayaran yang\nberlaku.\n(3) Kapal berbendera asing, yang dimaksud pada ayat (1), yang\nberada di daerah perairan pelabuhan dilarang mempergunakan pemancar\nradio, kecuali untuk kepentingan keadaan mara bahaya, berita-berita\nsegera dan keamanan lalu-lintas pelayaran."
+   }
+  },
+  {
+   "id": "ID-H245-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB V."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 13.\n(1) Untuk penguasaan, pemasangan, pengusahaan dan penggunaan\nperangkat telekomunikasi oleh kapal udara asing, yang berada di\nwilayah\nIndonesia tidak diwajibkan meminta izin seperti termaksud\ndalam pasal 11 Undang-undang ini.\n(2) Kapal udara sipil nasional atau kapal udara asing selama\nberada di wilayah udara atau perairan Indonesia dilarang\nmempergunakan\npemancar radio selain untuk navigasi, pengamanan lalu\nlintas udara dan operasi udara secara effisien dan ekonomis."
+   }
+  },
+  {
+   "id": "ID-H245-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB V."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 14.\n(1) Izin kepada perwakilan diplomatik negara asing di Indonesia\nuntuk menyelenggarakan telekomunikasi sendiri dapat diberikan oleh\nPresidium Kabinet Kerja atas usul Menteri yang diserahi urusan Luar\nNegeri berdasarkan permintaan yang bersangkutan dengan\nmemperhatikan\nazas timbal-balik yang berlaku antar negara.\n(2) Cara untuk memperoleh izin tersebut pada ayat (1) diatur\ndengan Peraturan Pemerintah.\nBAB VI.\nHubungan Internasional."
+   }
+  },
+  {
+   "id": "ID-H245-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB VI."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 15.\n(1) Ketentuan-ketentuan Internasional tentang telekomunikasi\nditetapkan dengan Peraturan Pemerintah dengan memperhatikan\nketentuan-ketentuan\ndalam perjanjian atau persetujuan\ntelekomunikasi internasional dan peraturan-peraturan yang\nmenyertainya serta perjanjian-perjanjian\ninternasional lainnya yang\nberlaku.\n(2) Dengan memperhatikan ketentuan-ketentuan termaktub pada ayat\n(1) dan pasal 14 maka jika dianggap perlu Pemerintah Republik\nIndonesia\ndapat mengadakan persetujuan dalam bidang telekomunikasi\ndengan pemerintah Negara Asing.\nBAB VII.\nKelancaran telekomunikasi dan pencegahan gangguan."
+   }
+  },
+  {
+   "id": "ID-H245-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB VII."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 16.\nPenyelenggaraan tugas-tugas yang berhubungan dengan lalu lintas\ntelekomunikasi dalam negeri dan pembelian fasilitas-fasilitas\ndiatur\ndengan Peraturan Pemerintah dengan memperhatikan\nketentuan-ketentuan internasional seperti termaksud dalam pasal 15\nUndang-undang\nini."
+   }
+  },
+  {
+   "id": "ID-H245-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB VII."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 17.\n(1) Segala perbuatan yang dapat menimbulkan gangguan terhadap\ntelekomunikasi dilarang.\n(2) Dengan Peraturan Pemerintah diatur cara-cara mencegah atau\nmenghilangkan gangguan-gangguan terhadap telekomunikasi.\nBAB VIII.\nPemasangan, pemindahan dan ganti rugi."
+   }
+  },
+  {
+   "id": "ID-H245-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB VIII."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 18.\n(1) Jika untuk pemasangan alat-alat telekomunikasi untuk\nkepentingan umum yang diselenggarakan oleh Negara dianggap perlu\nmelakukan\npenggalian, pengukuran atau pemasangan tanda-tanda di\ntanah milik seseorang atau pemindahan bangunan-bangunan maka\npemilik, penghuni\natau pemegang persil wajib memperkenankan,\nsetelah diberitahukan sekurang-kurangnya dua kali dua puluh empat\njam sebelumnya dengan\nketentuan bahwa dalam hal pemindahan\nbangunan-bangunan jangka waktu pemberitahuan ditetapkan dua kali\ntujuh hari.\n(2) Jika diperlukan pemindahan bangunan-bangunan yang berakibat\npencabutan hak-hak tanah dan benda-benda yang ada di atasnya,\nberlakulah\nketentuan-ketentuan termaktub dalam Undang-undang No. 20\ntahun 1961 (Lembaran-Negara tahun 1961 No. 288).\n(3) Pemilik, penghuni, atau pemegang persil yang persilnya\ndilintasi alat-alat telekomunikasi wajib memperkenankan pemasangan\nalat-alat\ntelekomunikasi dan alat-alat lain yang diperlukan, baik\ndi atas maupun di dalam tanah.\n(4) Alat-alat telekomunikasi yang melalui atau berada di tanah\nmilik seseorang, tetap menjadi milik negara atau badan swasta yang\nmendapat izin untuk melaksanakan pemasangan dan pengusahaan.\n(5) Ketentuan seperti termaksud pada ayat (4) berlaku juga bagi\nyang dipasang sebelum Undang-undang ini berlaku.\n(6) Petugas-petugas telekomunikasi yang diselenggarakan oleh/untuk\nNegara, setelah memberitahukan kepada yang berkepentingan, dapat\nkeluar masuk persil-persil untuk melakukan penggalian dan melakukan\npemotongan tumbuh-tumbuhan di tanah seseorang untuk kepentingan\npemeliharaan, perbaikan, perubahan atau pembaharuan alat-alat\ntelekomunikasi yang sudah ada."
+   }
+  },
+  {
+   "id": "ID-H245-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB VIII."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 19.\n(1) Untuk kepentingan umum Presidium Kabinet Kerja dapat\nmemerintahkan pembongkaran dan penyingkiran segala sesuatu yang\nmenghalangi\nkelancaran telekomunikasi.\nJika hal ini mengakibatkan pencabutan hak-hak atas tanah dan\nbenda-benda yang ada di atasnya, berlakulah ketentuan-ketentuan\nyang\ntermaktub dalam Undang-undang No. 20 tahun 1961\n(Lembaran-Negara tahun 1961 No. 288).\n(2) Jika perintah yang termaksud pada ayat (1) tidak dilaksanakan\ndalam waktu yang ditentukan, maka mereka yang lalai dalam hal\nini\nmenanggung segala biaya yang timbul karena kelalaian tersebut."
+   }
+  },
+  {
+   "id": "ID-H245-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB VIII."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 20.\n(1) Untuk kepentingan umum Presidium Kabinet Kerja dapat\nmemerintahkan pemindahan alat-alat atau perangkat telekomunikasi\nyang telah\nada.\n(2) Semua biaya pemindahan seperti termaksud pada ayat (1)\ndibebankan kepada yang menginginkan pemindahan alat-alat atau\nperangkat\ntelekomunikasi tersebut."
+   }
+  },
+  {
+   "id": "ID-H245-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB VIII."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 21.\n(1) Pemilik tanah, pemegang persil, pemilik rumah/bangunan atau\npenghuninya diberi ganti rugi yang layak sebagai akibat pemasangan\natau pemindahan alat-alat telekomunikasi serta pembongkaran atau\npenyingkiran segala sesuatu demi kelancaran telekomunikasi.\n(2) Pemberian dan besarnya ganti rugi termaksud pada ayat (1)\ndiatur dengan Peraturan Pemerintah.\nBAB IX.\nRahasia Berita."
+   }
+  },
+  {
+   "id": "ID-H245-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB IX."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 22.\nDengan tidak mengurangi ketentuan-ketentuan yang termaktub dalam\npasal 8 Undang-undang ini serta pasal-pasal 322 dan 323 Kitab\nUndang-undang\nHukum Pidana, setiap orang dilarang tanpa hak\nmenerima dan mengumumkan berita telekomunikasi yang tidak\ndiperuntukkan bagi umum,\nmenyatakan adanya berita, menyebarkan atau\nmenggunakan segala keterangan yang bersifat apapun, yang diperoleh\ndari penerimaan berita\ntelekomunikasi tanpa hak dan tidak\ndiperuntukkan bagi umum tersebut.\nBAB X.\nDewan Telekomunikasi."
+   }
+  },
+  {
+   "id": "ID-H245-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB X."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 23.\n(1) Untuk mengkoordinasikan perencanaan, pelaksanaan,\npengawasan, pendidikan, research dan perkembangan industri dan\nkerjasama internasional\ndi bidang telekomunikasi dengan keputusan\nPresiden dibentuk suatu Dewan Telekomunikasi.\n(2) Tugas Dewan Telekomunikasi ialah memberikan pertimbangan\nkepada Presidium Kabinet Kerja.\n(3) Susunan dari Dewan Telekomunikasi terdiri dari:\na. pejabat-pejabat Pemerintah yang mempunyai keahlian dalam\nbidang telekomunikasi dan/atau mempunyai hubungan dalam pembinaan\ntelekomunikasi.\nb. anggota-anggota Front Nasional yang diusulkan oleh Pengurus\nBesar Front Nasional terdiri dari unsur-unsur Buruh dan Golongan\nKarya lainnya yang mempunyai keahlian dan/atau pengalaman dalam\nbidang telekomunikasi.\nBAB XI.\nKetentuan Pidana."
+   }
+  },
+  {
+   "id": "ID-H245-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB XI."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 24.\n(1) Barangsiapa melanggar ketentuan-ketentuan yang tersebut\ndalam pasal-pasal 11 ayat (1), 12 ayat-ayat (1) dan (3), 13 ayat\n(2),\n17 ayat (1) dan 22 Undang-undang ini dipidana dengan kurungan\nselama-lamanya satu tahun atau denda setinggi-tingginya seratus\nribu\nrupiah.\n(2) Barangsiapa melanggar ketentuan-ketentuan tersebut dalam pasal\n18 ayat-ayat (1) dan (3) Undang-undang ini dipidana dengan kurungan\nselama-lamanya tiga puluh hari atau denda setinggi-tingginya\nsepuluh ribu rupiah.\n(3) Tindak pidana tersebut pada ayat (1) yang dilakukan lagi oleh\nterpidana di dalam waktu satu tahun, setelah putusan pidana\ndijatuhkan\noleh Hakim terhadap terpidana tersebut dan telah\nmempunyai kekuatan mengikat, diancam dengan pidana kurungan\nselama-lamanya 1 (satu)\ntahun 4 (empat) bulan atau denda\nsetinggi-tingginya lima ratus ribu rupiah.\n(4) Peraturan-peraturan pelaksanaan Undang-undang ini dapat\nmenetapkan ancaman pidana kurungan atau denda yang tidak lebih\nberat\ndaripada yang tersebut dalam ayat (1),\n(5) Tindak pidana yang dilakukan oleh atau atas tanggung jawab\nsesuatu badan hukum, penuntutan dilakukan dan pidana dijatuhkan\nterhadap\npengurus, kecuali apabila pengurus dapat membuktikan bahwa\ntindakan itu tidak karena kesalahannya.\n(6) Semua alat telekomunikasi dan barang-barang lainnya yang\ndipergunakan untuk melakukan tindak pidana tersebut dalam pasal ini\ndapat disita/dirampas.\n(7) Tindak pidana yang disebut dalam pasal ini adalah\npelanggaran."
+   }
+  },
+  {
+   "id": "ID-H245-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB XI."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 25.\n(1) Untuk menyidik pelanggaran terhadap Undang-undang ini serta\nperaturan-peraturan pelaksanaannya, selain petugas-petugas yang\nberwenang\nmenyidik tindak pidana pada umumnya berwenang juga\npetugas-petugas tertentu yang ditunjuk oleh Presidium Kabinet\nKerja.\n(2) Petugas tersebut pada ayat (1) melakukan penyidikan\npelanggaran itu bersama-sama dengan petugas-petugas yang berwenang\nmenyidik\ntindak pidana pada umumnya, kecuali dalam hal keadaan\nmemaksa.\n(3) Hal-hal lain yang erat hubungannya dengan penyidikan\nditetapkan dalam peraturan pelaksanaan Undang-undang.\nBAB XII.\nKetentuan Peralihan."
+   }
+  },
+  {
+   "id": "ID-H245-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB XII."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 26.\nPeraturan-peraturan dan ketentuan-ketentuan mengenai\ntelekomunikasi berdasarkan Undang-undang yang pada saat berlakunya\nUndang-undang\nini sudah ada, tetap berlaku sepanjang\nperaturan-peraturan dan ketentuan-ketentuan tersebut tidak\nbertentangan dengan Undang-undang\nini.\nBAB XIII.\nKetentuan Penutup."
+   }
+  },
+  {
+   "id": "ID-H245-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB XIII."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 27.\nUndang-undang ini disebut Undang-undang Telekomunikasi dan mulai\nberlaku pada hari diundangkannya dan mempunyai daya surut sampai\ntanggal 1 Mei 1963.\nAgar supaya setiap orang mengetahuinya memerintahkan pengundangan\nUndang-undang ini dengan penempatan dalam Lembaran-Negara Republik\nIndonesia.\nDisahkan di Jakarta\npada tanggal 4 Juni 1964.\nPresiden Republik Indonesia,\nSUKARNO.\nDiundangkan di Jakarta\npada tanggal 4 Juni 1964.\nWakil Sekretaris Negara,\nSANTOSO S.H.\nBrig. Jend. T.N.I.\nPENJELASAN\nATAS\nUNDANG-UNDANG No. 5 TAHUN 1964\ntentang\nPENETAPAN PERATURAN PEMERINTAH PENGGANTI\nUNDANG-UNDANG No. 6 TAHUN 1963 TENTANG TELEKOMUNIKASI\n(LEMBARAN-NEGARA TAHUN 1963)\nMENJADI UNDANG-UNDANG.\nUMUM\n,,De bepalingen omtrent de aanleg en het gebruik van tele\ngraven in Nederlands Indie\" (Stbl. 1876 No. 257), dinyatakan pula\nberlaku bagi hubungan telepon dengan Stbl. 1926 No. 448, yang\nsampai dewasa ini merupakan dasar untuk pengaturan telekomunikasi,\ntidak sesuai lagi dengan perkembangan-perkembangan politis,\nekonomis\ndan militer dinegara kita dan dengan kemajuan-kemajuan\nteknis dibidang ini.\nUndang-undang Telekomunikasi ini memberikan dasar baru untuk\npengaturan kembali segala kegiatan-kegiatan telekomunikasi,\nsehingga\nselaras dengan perkembangan-perkembangan dan\nkebutuhan-kebutuhan politis, ekonomis dan militer terakhir dan pula\nagar dapat menampung\npengaturan kemajuan-kemajuan teknis dibidang\ntelekomunikasi pada umumnya dan dibidang radio, telegrap, telepon,\ntelevisi, telex dan\nsebagainya pada khususnya.\nUndang-undang ini juga bertujuan untuk merealisasikan Ketetapan\nMajelis Permusyawaratan Rakyat Sementara No. II/MPRS,/1960 mengenai\nbidang distribusi dan perhubungan, yang menyatakan bahwa:\n,,Negara menguasai dan menyelenggarakan perhubungan dan angkutan\ndidarat dan laut yang vital, serta angkutan udara dan perhubungan\ntelekomunikasi seluruhnya\". Telekomunikasi yang merupakan alat\nvital bagi pembangunan politis, ekonomis dan militer haruslah\ndiatur,\ndikoordinasikan dan diintegrasikan dalam rangka\nkebijaksanaan Pemerintah, demi efectivitas pengawasan dan efisiensi\npenggunaannya.\nTelekomunikasi haruslah diambeg-paramaartakan dalam rencana\nproduksi pengimporan dan penyelenggaraannya dalam rangka pola\npembangunan\nnasional semesta. Untuk mencapai tujuan tersebut maka\nsemua jenis usaha dan kegiatan dibidang telekomunikasi haruslah\ndiatur atas\ndasar satu kepentingan, yakni kepentingan negara dan\nrevolusi kita.\nDalam rangka telekomunikasi pada umumnya maka perlu ditentukan dan\ndiatur fungsi dan batas-batas usaha dibidang ini, agar dengan\ndemikian pelbagai usaha dan kegiatan tersebut saling mengisi dan\nsaling membantu, sehingga tercapailah keseimbangan dan dayaguna\nyang setinggi-tingginya. Dalam rangka ekonomi terpimpin perlu\ndiadakan pengaturan kembali dari segala kegiatan telekomunikasi\nsecara\nmenyeluruh, baik yang menyangkut aspek-aspek nasional maupun\naspek-aspek internasional.\nAspek-aspek nasional pada hakekatnya menghendaki bahwa segala\nkegiatan dan penyelenggaraan telekomunikasi diarahkan kepengabdian\npada kepentingan nasional, selaras dengan taraf perkembangan\nrevolusi kita. Aspek-aspek internasional membawakan kita kepada\nkewajiban-kewajiban\nterhadap dunia luar yang bersumber pada\nperjanjian-perjanjian internasional.\nDengan demikian pengaturan kembali bidang telekomunikasi ini\nbermaksud untuk menempatkan telekomunikasi pada fungsi yang\nsewajarnya\nsejajar dengan garis-garis kebijaksanaan Pemerintah,\ntanpa mengabaikan kewajiban-kewajiban internasional kita.\nSejalan dengan ini pulalah maka dalam Undang-undang ini\ntelekomunikasi dengan segala aspek-aspeknya yang berhubungan dengan\npenyelenggaraan\noleh pihak asing, seperti korps diplomatik, dan\noleh pihak swasta, diatur sedemikian rupa sehingga tidak menutup\nsama sekali kemungkinan\npenyelenggaraannya oleh mereka, tanpa\nmengurangi sedikitpun kepentingan dan kewaspadaan nasional.\nPengawasan Pemerintah tetap akan\ndilakukan secara konsepsionil\nteknis, sistematis dan kontinyu, sehingga perkembangan\ntelekomunikasi senantiasa dapat disesuaikan\ndengan tuntutan\nrevolusi kita yang nasional demokratis seperti yang dikehendaki\noleh Deklarasi Ekonomi.\nPASAL DEMI PASAL.\nPasal 1.\nCukup jelas.\nPasal 2.\nKetentuan termaktub dalam pasal ini dimaksud sebagai landasan\nuntuk pelaksanaan Ketetapan Majelis Permusyawaratan Rakyat\nSementara\nNo.I/MPRS/1960 dan No. II/MPRS/1960.\nPasal 3.\nPerusahaan Negara Postel menyelenggarakan telekomunikasi untuk\numum.\nTelekomunikasi untuk keperluan khusus instansi Pemerintah\ndiselenggarakan oleh instansi-instansi yang bersangkutan (lihat\npasal\n10). Namun hal terakhir ini tidaklah menutup kemungkinan bagi\ninstansi-instansi tersebut untuk mempergunakan pula saluran\ntelekomunikasi\numum untuk pengiriman dan penerimaan berita-berita\nyang tidak bersifat khusus.\nDisamping itu tidaklah pula ditutup kemungkinan, bahwa instansi\nlain selain dari P.N. Postel ikut membantu menyelenggarakan\ntelekomunikasi\nuntuk umum, tetapi hal terakhir ini harus diatur\nlebih lanjut dengan Peraturan Pemerintah.\nPasal 4.\nCukup jelas,\nPasal 5.\nTarip dalam dan luar negeri ditetapkan oleh Pemerintah dengan\nmengindahkan segala bentuk perjanjian internasional dibidang\nini.\nPasal 6."
+   }
+  },
+  {
+   "id": "ID-H245-A433",
+   "no": 433,
+   "noLabel": {
+    "id": "Pasal 433 dan pasal 434 Kitab Undang-und"
+   },
+   "chapter": {
+    "id": "BAB XIII."
+   },
+   "heading": {
+    "id": "dan pasal 434 Kitab Undang-undang Hukum Pidana"
+   },
+   "text": {
+    "id": "Pasal 433 dan pasal 434 Kitab Undang-undang Hukum Pidana\nmengandung larangan untuk menyebarkan atau membantu menyebarkan\nberita\ntelegrap atau telepon, larangan mana khusus ditujukan\nterhadap petugas pada kantor telekomunikasi untuk umum.\nPasal 7.\nKetentuan dalam pasal ini mengandung beberapa pengecualian\nterhadap kewajiban perusahaan telekomunikasi umum untuk melayani\nmasyarakat\nramai seperti tercantum dalam pasal 4.\nPasal 8.\nCukup jelas.\nPasal 9.\nAlat telekomunikasi untuk siaran umum diatur tersendiri misalnya:\npesawat penerima radio, pesawat penerima televisi.\nPasal 10.\nSebagai contoh disebut: Departemen-departemen Perhubungan Darat,\nLaut dan Udara dan Angkatan Bersenjata.\nPemerintah akan mengatur lebih lanjut koordinasi dan synkhronisasi\ntelekomunikasi untuk keperluan khusus ini.\nPasal 11.\nTelekomunikasi yang diselenggarakan oleh bukan Pemerintah\ntermaksud pasal ini ialah telekomunikasi tidak untuk umum.\nPenguasaan, pemasangan, pengusahaan dan penggunaan perangkat dan\nalat telekomunikasi oleh pihak swasta, baik swasta nasional, maupun\nswasta asing berada dibawah pengawasan Pemerintah.\nDalam izin akan dicantumkan syarat-syarat yang menjamin\nkepentingan Negara serta kelancaran dan perkembangan telekomunikasi\ndinegara\nkita.\nSyarat-syarat tersebut mengandung antara lain\npembatasan-pembatasan tertentu mengenai jenis dan alat\ntelekomunikasi.\nYang dimaksud dengan izin tetap ialah izin untuk jangka waktu\nbeberapa tahun.\nIzin sementara misalnya dibelikan kepada kapal asing yang\ndicharter di Indonesia untuk beberapa bulan (time-charter).\nIzin kadang-kala misalnya diberikan kepada kapal asing yang\ndicharter diIndonesia untuk satu kali jalan saja\n(voyage-charter).\nPasal 12 dan pasal 13.\nSudah selayaknya bahwa kapal air/udara berbendera asing dilarang\nmempergunakan pemancar radionya didaerah perairan pelabuhan dan\ndiwilayah udara atau perairan Indonesia.\nLarangan tersebut diadakan demi keamanan Negara dan untuk mencegah\ndirugikannya telekomunikasi nasional yang komersiil.\nPengecualian atas larangan ini diadakan terhadap tiga golongan\nsiaran yang telah dimufakati dalam perjanjian-perjanjian\ninternasional,\nyakni :\n1. siaran marabahaya(distress)\n2. siaran segara (urgency)\n3. Siaran demi keamanan jiwa manusia (safety of lives).\nMeskipun kapala air berbendera asing yang, berada diperairan\nIndonesia tidak diwajibkan meminta izin, tetapi untuk kepentingan\nkeamanan\npemakaian alat telekomunikasi oleh pihak asing kapal\ntersebut tetap berada dalam pengawasan Pemerintah.\nPasal 14.\nCukup jelas.\nPasal 15.\nAda perjanjian-perjanjian internasional yang perlu dan ada\nperjanjian-perjanjian internasional yang tidak perlu diratifikasi\nmenurut\nketentuan-ketentuan yang berlaku.\nPasal 16.\nCukup jelas.\nPasal 17.\nYang dimaksud ialah segala macam gangguan antara lain gangguan\nphysis dan gangguan elektromagnetis.\nPasal 18.\nKetentuan-ketentuan dalam pasal ini bertujuan untuk menjamin\nkepentingan telekomunikasi disatu pihak dan kepentingan warga yang\nbersangkutan dilain pihak.\nPasal 19.\nMisalnya sesuatu bangunan yang merupakan penghalang bagi\nkelancaran telekomunikasi disuruh dibongkar atau dipindahkan.\nGanti rugi yang layak dibayar kepada pemilik bangunan tersebut\nsesuai dengan ketentuan pasal 1.\nTerhadap mereka yang dianggap lalai haruslah dibuktikan\nkelalaiannya oleh yang berwajib.\nPasal 20.\nYang dipindahkan dalam pasal ini ialah alat atau perangkat\ntelekomunikasi, umpamanya atas permintaan Pemerintah Kota demi\npembangunan\ndan pengindahan kota termasuk juga permintaan\nsekelompok penduduk yang telah disetujui oleh Pemerintah Kota.\nSudah selayaknya Pemerintah Kotalah yang membiayai pemindahan\ntersebut.\nPasal 21.\nDalam pengertian penyingkiran termasuk juga pemotongan\ntumbuh-tumbuhan seperti dimaksud dalam pasal 18 ayat (6).\nPasal 22.\nPasal 322 Kitab Undang-undang Hukum Pidana mengandung larangan\nuntuk membuka rahasia jabatan atau pekerjaan dan pasal 323\nmengandung\nlarangan pembukaan rahasia perusahaan oleh seorang\npetugas perusahaan itu.\nKetentuan pasal 22 ini ditujukan terhadap setiap orang yang\nmenerima dan mengumumkan berita telekomunikasi yang bukan\ndiperuntukkan\nbagi umum.\nPasal 23.\nCukup jelas.\nPasal 24.\nCukup jelas.\nPasal 25.\nPenyidikan pelanggaran-pelanggaran dibidang telekomunikasi\nmembutuhkan keakhlian khusus, sehingga perlu adanya petugas-petugas\nkhusus\nyang melakukan penyidikan itu bersama-sama dengan pihak\nKejaksaan, Angkatan Kepolisian dan alat-alat penyidik lainnya.\nPasal 26.\nCukup jelas.\nPasal 27.\nCukup jelas.\n--------------------------------\nCATATAN\nKutipan: LEMBARAN NEGARA DAN TAMBAHAN LEMBARAN NEGARA TAHUN 1964\nYANG TELAH DICETAK ULANG"
+   }
+  }
+ ]
+}

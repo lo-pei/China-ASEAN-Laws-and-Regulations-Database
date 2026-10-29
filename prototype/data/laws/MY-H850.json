@@ -1,0 +1,246 @@
+{
+ "id": "MY-H850",
+ "title": {
+  "zh": "2017年金融服务（认可海运、航空及转运保险人）条例",
+  "en": "FINANCIAL SERVICES (APPROVED MARINE, AVIATION AND TRANSIT INSURERS) REGULATIONS 2017",
+  "orig": "FINANCIAL SERVICES (APPROVED MARINE, AVIATION AND TRANSIT INSURERS) REGULATIONS 2017",
+  "ms": "Peraturan Perkhidmatan Kewangan (Penanggung Insurans Marin, Penerbangan dan Transit yang Diluluskan) 2017",
+  "vi": "Quy định về Dịch vụ tài chính (Các công ty bảo hiểm hàng hải, hàng không và quá cảnh được phê duyệt) năm 2017",
+  "th": "ข้อบังคับบริการทางการเงิน (ผู้รับประกันภัยทางทะเล การบิน และการขนส่งผ่านแดนที่ได้รับอนุมัติ) ค.ศ. 2017",
+  "id": "Peraturan Jasa Keuangan (Penanggung Asuransi Laut, Penerbangan dan Transit yang Disetujui) Tahun 2017"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-16",
+ "language": "ms",
+ "level": "regulation",
+ "category": "03_涉外投资与贸易",
+ "status": "active",
+ "promulgatedDate": "2017",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "PUA111",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 17,
+ "chars": 39075,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-view.php?type=pua&no=P.U. (A) 111/2017&status=PRINCIPAL"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\03_涉外投资与贸易\\2017_P.U.(A)111-2017_FINANCIAL SERVICES (APPROVED MARINE, AVIATION AND TRANSIT INSURERS) REGULATIONS 2017.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 17 条；逐字未改写（源自厂商 OCR 文本）。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H850-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "1. Nama dan permulaan kuat kuasa"
+   }
+  },
+  {
+   "id": "MY-H850-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "2. Tafsiran"
+   }
+  },
+  {
+   "id": "MY-H850-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "3. Perniagaan insurans MAT di bawah Peraturan-Peraturan"
+   }
+  },
+  {
+   "id": "MY-H850-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "4. Kelulusan oleh Bank"
+   }
+  },
+  {
+   "id": "MY-H850-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "5. Syarat kelulusan tambahan"
+   }
+  },
+  {
+   "id": "MY-H850-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "6. Pembatalan kelulusan"
+   }
+  },
+  {
+   "id": "MY-H850-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "7. Pemberhentian perniagaan secara sukarela"
+   }
+  },
+  {
+   "id": "MY-H850-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "8. Kesan pembatalan atau pemberhentian"
+   }
+  },
+  {
+   "id": "MY-H850-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "9. Fi tahunan"
+   }
+  },
+  {
+   "id": "MY-H850-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "10. Pendedahan oleh penanggung insurans MAT yang diluluskan"
+   }
+  },
+  {
+   "id": "MY-H850-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "11. Perubahan yang memberi kesan terhadap kawalan"
+   }
+  },
+  {
+   "id": "MY-H850-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "12. Pemindahan perniagaan insurans MAT"
+   }
+  },
+  {
+   "id": "MY-H850-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "13. Pengemukaan diri sebagai penanggung insurans MAT yang diluluskan"
+   }
+  },
+  {
+   "id": "MY-H850-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "14. Sekatan penggunaan perkataan \"penanggung insurans MAT yang diluluskan\""
+   }
+  },
+  {
+   "id": "MY-H850-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "15. Kuasa Bank untuk mengeluarkan arahan"
+   }
+  },
+  {
+   "id": "MY-H850-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "16. Kewajipan untuk mengemukakan dokumen atau maklumat kepada Bank"
+   }
+  },
+  {
+   "id": "MY-H850-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "17. Penyata dan audit\n\nJADUAL\n\nAKTA PERKHIDMATAN KEWANGAN 2013\n\nPERATURAN-PERATURAN PERKHIDMATAN KEWANGAN (PENANGGUNG INSURANS\nMARIN, PENERBANGAN DAN TRANSIT YANG DILULUSKAN) 2017\n\nPADA menjalankan kuasa yang diberikan oleh subseksyen 260(2)\nAkta Perkhidmatan Kewangan 2013 [ Akta 758 ], Menteri, atas syor Bank, membuat\nPeraturan-Peraturan yang berikut:\n\nNama dan permulaan kuat kuasa\n1. (1) Peraturan-Peraturan ini bolehlah dinamakan Peraturan-Peraturan\nPerkhidmatan Kewangan (Penanggung Insurans Marin, Penerbangan dan Transit\nyang Diluluskan) 2017.\n\n (2)  Peraturan-Peraturan ini mula berkuat kuasa pada 7 April 2017.\n\nTafsiran\n2.  Dalam Peraturan-Peraturan ini—\n\n \"insurans MAT\" ertinya risiko insurans yang berhubungan dengan—\n\n(a) perkapalan maritim, penerbangan perdagangan , pelancaran dan\npengangkutan angkasa (termasuk satelit ), yang melindungi\nmana-mana atau kesemua yang berikut—\n\n(i) barang-barang yang sedang diangkut; dan\n\n(ii) kenderaan yang mengangkut barang -barang tersebut, dan apa -\napa liabiliti yang berbangkit daripadanya; dan\n\n(b) barang-barang dalam transit antarabangsa,\n\ntetapi tidak termasuk insurans semula risiko tersebut;\n\n \"Malaysia\" tidak termasuk Wilayah Persekutuan Labuan;\n\n \"negara yang ditetapkan\" ertinya sebuah negara atau wilayah yang dinyatakan\ndalam Jadual;\n\n \"penanggung insurans Labuan\" mempunyai pengertian yang sama  diberikan\nkepadanya dalam seksyen 101 Akta Perkhidmatan Kewangan dan Sekuriti Labuan 2010\n[Akta 704];\n\n \"penanggung insurans MAT yang diluluskan\" ertinya seorang penanggung\ninsurans yang ditetapkan atau penanggung insurans Labuan yang diluluskan di bawah\nperenggan 4(2)(a);\n\n \"penanggung insurans yang ditetapkan\" ertinya mana -mana orang yang\ndilesenkan, diluluskan, didaftarkan atau dikawal  selia selainnya di bawah\nundang-undang mana -mana negara yang ditetapkan untuk menjalankan perniagaan\ninsurans di negara tersebut;\n\n \"pihak ber kuasa penyeliaan\" ertinya pihak berkuasa, badan atau agensi yang\nbertanggungjawab bagi penyeliaan dan pengawasan penanggung insurans yang\nditetapkan atau penanggung insurans Labuan.\n\nPerniagaan insurans MAT di bawah Peraturan-Peraturan\n3.  (1)  Suatu penanggung insurans yang ditetapkan tidak boleh menjalankan\nperniagaan untuk memberikan insurans MAT, sebagai prinsipal dan sebagai suatu\npenanggung insurans, kepada orang di Malaysia dari luar Malaysia, melainkan jika\npenanggung insurans yang ditetapkan itu—\n\n(a) merupakan penanggung insurans MAT yang diluluskan  di bawah\nperaturan 4; dan\n\n(b) tidak mempunyai apa -apa kehadiran perdagangan di Malaysia bagi\nmaksud menjalankan perniagaan itu.\n\n (2)  Penanggung insurans Labuan tidak boleh menjalankan perniagaan insurans\nberkenaan dengan insurans MAT di Malaysia melainkan jika penanggung insurans\nLabuan itu—\n\n(a) dikecualikan di bawah seksyen 199 Akta Perkhidmatan Kewangan dan\nSekuriti Labuan 2010 daripada pemakaian subseksyen 113(1) Akta itu\ndengan perniagaan insurans domestik; dan\n\n(b) merupakan penanggung insurans MAT yang diluluskan di bawah\nperaturan 4.\n\n (3)  Mana-mana orang yang melanggar subperaturan (1) atau (2) melakukan\nsuatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi sepuluh juta\nringgit.\n\nKelulusan oleh Bank\n4.  (1)  Penanggung insurans yang ditetapkan atau penanggung insurans Labuan\nboleh memohon secara bertulis kepada Bank untuk menjadi penanggung insurans MAT\nyang diluluskan, dan hendaklah m engemukakan apa -apa dokumen atau maklumat\nsebagaimana yang ditentukan oleh Bank, termasuk—\n\n(a) kebenaran bertulis daripada pihak berkuasa penyeliaannya untuk\nmenjalankan perniagaan sebagai penanggung insurans MAT yang\ndiluluskan; dan\n\n(b) aku janji bahawa ia akan menganggap liabilitinya kepada pemunya\npolisi yang berakibat daripada perniagaan itu pada takat yang sama\ndengan liabiliti yang serupa di negara yang ditetapkan yang ia\ndilesenkan, diluluskan, didaftarkan atau dikawal selia selainnya, atau di\nLabuan, mengikut mana-mana yang berkenaan.\n\n (2)   Dalam menilai suatu permohonan yang dibuat di bawah\nsubperaturan (1), Bank boleh mengambil kira apa -apa faktor yang difikirkan oleh Bank\nberkaitan dan Bank boleh—\n\n(a) meluluskan pemohon itu sebagai suatu penanggung insurans MAT\nyang diluluskan, dengan atau tanpa syarat; atau\n\n(b) menolak permohonan itu.\n\n (3)  Jika Bank meluluskan permohonan di bawah perenggan (2) (a), penanggung\ninsurans yang diluluskan itu hendaklah memulakan perniagaan sebagai penanggung\ninsurans MAT yang diluluskan dalam tempoh yang dinyatakan dalam kelulusan itu atau\napa-apa tempoh yang dilanjutkan oleh Bank, dan hendaklah memberitahu Bank tarikh\nmemulakan perniagaan itu.\n\n (4)  Setelah diluluskan di bawah perenggan (2)(a), penanggung insurans MAT\nyang diluluskan yang merupakan  penanggung insurans yang ditetapkan hendaklah\nmemberi kuasa kepada ejen tempatan di Malaysia untuk menerima penyampaian\napa-apa notis dan proses undang -undang berkenaan dengan, dan berkaitan dengan\nperniagaannya itu, termasuk apa -apa notis atau arahan yang dikeluarkan oleh Bank ,\ndan mengemukakan kepada Bank nama, alamat dan perincian lain ejen yang diberi\nkuasa itu yang ditentukan oleh Bank.\n\nSyarat kelulusan tambahan\n5.  (1)  Bank boleh, pada bila-bila masa secara bertulis, meminda atau membatalkan\napa-apa syarat kelulusan sedia ada yang dikenakan di bawah perenggan 4(2) (a) atau\nmengenakan apa-apa syarat baharu ke atas kelulusan itu.\n\n (2)  Penanggung insurans MAT yang dil uluskan hendaklah mematuhi  apa-apa\nsyarat kelulusan yang dikenakan oleh Bank di bawah subperaturan (1) , atau\nperenggan 4(2)(a) atau 6(3)(b).\n\nPembatalan kelulusan\n6.  (1)  Bank boleh membatalkan kelulusan yang diberikan kepada penanggung\ninsurans MAT yang diluluskan di bawah peraturan 4 sekiranya—\n\n(a) penanggung insurans MAT yang diluluskan itu tidak memulakan\nperniagaan penanggung insuran MAT  dalam tempoh yang dinyatakan\ndalam kelulusan yang disebut dalam perenggan 4(2) (a), atau selepas\nmemulakan perniagaan itu,  penanggung insurans MAT yang diluluskan\ntidak membuat apa-apa kontrak insurans MAT dalam tempoh dua\npuluh empat bulan dari tarikh memulakan perniagaannya;\n\n(b) penanggung insurans MAT yang diluluskan itu telah terhenti\ndari menjalankan perniagaan sebagai suatu penanggung insurans MAT\nyang diluluskan;\n\n(c) penanggung insurans MAT yang diluluskan itu telah terhenti\ndari dilesenkan, diluluskan,  didaftarkan atau dikawal selia selainnya\nsebagai penanggung insurans oleh pihak berkuasa penyeliaannya;\n\n(d) penanggung insurans MAT yang diluluskan itu telah melanggar atau\nmemungkiri mana-mana peruntukan Akta atau Per aturan-Peraturan\nini, atau gagal  mematuhi apa-apa syarat yang dikenakan atau apa -apa\narahan yang diberikan oleh  Bank di bawah Akta atau\nPeraturan-Peraturan ini, tidak kira  sama ada terdapat apa-apa\npendakwaan atau tindakan lain  yang lain diambil oleh Bank berkenaan\ndengan pelanggaran, kemungkiran atau ketidakpatuhan itu;\n\n(e) penanggung insurans MAT yang diluluskan itu telah mengemukakan\nmaklumat palsu, mengelirukan, tidak tepat atau tidak lengkap dalam\npermohonannya untuk kelulusan di bawah subperaturan 4(1);\n\n(f) penanggung insurans MAT yang diluluskan itu tidak berkeupayaan\nuntuk memenuhi obligasinya, sama ada di Malaysia atau tempat lain;\n\n(g) penanggung insurans MAT yang diluluskan itu—\n\n(i) telah dilikuidasikan; atau\n\n(ii) telah digulung atau dibubarkan selainnya;\n\n(h) seorang penerima, penerima dan pengurus, pengurus kehakiman, atau\nmana-mana orang lain yang mempunyai kuasa dan kewajipan sebagai\nseorang penerima, penerima dan pengurus atau pengurus kehakiman,\ntelah dilantik, sama ada di Malaysia atau tempat lain, berhub ung\ndengan, atau berkenaan dengan apa -apa harta, penanggung insurans\nMAT yang diluluskan itu;\n\n(i) pada pendapat Bank, penanggung insurans MAT yang diluluskan itu\nsedang melakukan atau akan melakukan suatu perbuatan, atau sedang\nmenuruti atau akan menuruti apa-apa penjalanan pelakuan, yang tidak\nselamat atau tidak wajar atau telah gagal untuk melakukan suatu\nperbuatan atau menuruti penjalanan pelakuan yang perlu untuk\nmengekalkan keselamatan dan kekukuhan penanggung insurans MAT\nyang diluluskan itu, sama ada di Malaysia atau tempat lain;\n\n(j) milikan harta penang gung insuran MAT yang diluluskan itu telah\ndiambil oleh atau bagi pihak pemegang debentur menurut suatu\ngadaian atas harta itu, sama ada di Malaysia atau tempat lain;\n\n(k) pada pendapat Bank, penanggung insuran s MAT yang diluluskan itu\nsedang menjalankan perniagaan dengan cara yang memudaratkan\npemunya polisi atau pemunya polisi yang diniatkan , sama ada\ndi Malaysia atau tempat lain; atau\n\n(l) pada pendapat Bank, adalah demi kepentingan orang awam untuk\nberbuat sedemikian.\n\n (2)  Bank hendaklah, sebelum membatalkan kelulusan di bawah subperaturan (1)—\n\n(a) melalui notis secara bertulis memberitahu niat Bank untuk\nmembatalkan kelulusan penanggung insurans MAT yang diluluskan itu\ndan alasan bagi pembatalan itu; dan\n\n(b) memberikan peluang kepada penanggung insurans MAT yang\ndiluluskan itu membuat representasi bertulis kepada Bank sebab\nkelulusannya tidak harus dibatalkan dan menyatakan tempoh yang\nrepresentasi bertulis itu boleh dibuat.\n\n (3)  Selepas tamat tempoh yang dinyatakan dalam notis yang disebut dalam\nperenggan (2) (b) dan selepas mempertimbangkan apa -apa representasi b ertulis yang\ndibuat di bawah perenggan itu, jika ada, Bank  hendaklah memutuskan sama ada\nuntuk—\n\n(a) meneruskan untuk membatalkan kelulusan itu;\n\n(b) mengambil apa -apa tin dakan lain, termasuk mengenakan apa-apa\nsyarat atau sekatan atas kelulusan itu; atau\n\n(c) tidak mengambil tindakan selanjutnya.\n\n (4)  Jika Bank memutuskan untuk membatalkan kelulusan di bawah\nperenggan 3(a)—\n\n(a) Bank hendaklah memberi penanggung insurans MAT yang diluluskan\nitu notis bertulis mengenai keputusan yang berkuat kuasa dari tarikh\nyang dinyatakan dalam notis itu;\n\n(b) penanggung insurans  MAT yang diluluskan  itu hendaklah\nserta-merta terhenti daripada menjalankan perniagaan sebagai\n\npenanggung insurans MAT yang diluluskan pada tarikh yang\ndinyatakan dalam notis yang disebut dalam perenggan 4(a); dan\n\n(c) Bank boleh menyiarkan suatu notis pembatalan kelulusan dalam\napa-apa bentuk sebagaimana difikirkan sesuai oleh Bank.\n\nPemberhentian perniagaan secara sukarela\n7.  (1)  Penanggung insurans MAT yang diluluskan boleh berhenti menjalankan\nperniagaan sebagai penanggung insurans MAT yang diluluskan dengan memberikan\nnotis bertulis ter lebih dahulu kepada Bank menyatakan niatnya untuk berhenti\nmenjalankan perniagaan itu dan sebab bagi pemberhentian itu.\n\n (2) Notis bertulis yang disebut dalam sub peraturan (1) hendaklah diberikan\noleh penanggung insurans MAT yang diluluskan kepada Bank sekurang -kurangnya\nsembilan puluh hari sebelum ia berniat untuk menghentikan perniagaan itu.\n\n (3)  Penanggung insurans MAT yang diluluskan itu hendaklah serta -merta\nberhenti menjalankan perniagaan pada tarikh yang ia berniat untuk menghentikan\nperniagaan itu sebagaimana yang dinyatakan dalam notis bertulis yang disebut dalam\nsubperaturan (1).\n\n (4)    Bank boleh menyiarkan suatu notis pemberhentian perniagaan berkenaan\ndengan p enanggung insurans MAT yang diluluskan  yang disebut dalam\nsubperaturan (1) dalam apa-apa bentuk sebagaimana yang difikirkan sesuai oleh Bank.\n\nKesan pembatalan atau pemberhentian\n8.  (1)  Penanggung insurans MAT yang diluluskan yang kelulusannya telah\ndibatalkan di bawah peraturan 6 atau yang telah secara sukarela terhenti menjalankan\nperniagaan sebagai  penanggung insurans MAT yang diluluskan di bawah peraturan 7\nhendaklah terus tertakluk kepada Akta dan Peraturan -Peraturan ini pada takat yang\nsama sebagaimana sebelum kelulusannya dibatalkan atau memberhentikan\nperniagaannya secara sukarela, dan hendaklah terus menunaikan obligasinya, atau\nmembuat perkiraan yang men cukupi untuk menunaikan obligasinya, selagi obligasi itu\n\nbelum selesai atau  belum ditunaikan atau tidak diperuntukkan selainnya hingga Bank\nberpuas hati.\n\n (2)  Pembatalan kelulusan di bawah peraturan 6 atau pemberhentian perniagaan\nsecara sukarela di bawah peraturan 7 tidak boleh berfungsi untuk—\n\n(a) mengelak atau menjejaskan mana -mana perjanjian, perkiraan atau\ntransaksi yang dibuat di antara mana -mana orang dan penanggung\ninsurans sepanjang tempoh ia menjadi penanggung insurans MAT yang\ndiluluskan; atau\n\n(b) menjejaskan apa -apa hak, kewajipan atau liabiliti yang berbangkit\ndi bawah mana-mana perjanjian, perkiraan atau transaksi itu.\n\nFi tahunan\n9.  (1)  Suatu penanggung insurans MAT yang diluluskan hendaklah membayar fi\ntahunan sebanyak sepuluh ribu ringgit kepada Bank pada atau sebelum 15 Dis ember\nsetiap tahun.\n\n (2)  Bank boleh mengecualikan, secara menyeluruh atau sebahagian,\nmana-mana penanggung insurans MAT yang diluluskan daripada pembayaran fi\ntahunan di bawah subperaturan (1).\n\nPendedahan oleh penanggung insurans MAT yang diluluskan\n10.  (1)  Penanggung insurans MAT yang diluluskan tidak boleh mempelawa\nmana-mana orang di Malaysia untuk membuat suatu tawara n atau cadangan untuk\nmembuat suatu kontrak insurans tanpa mendedahk an kepada orang itu s emua\nmaklumat material termasuk—\n\n(a) nama perniagaan, alamat perniagaan, laman sesawang ( jika ada),\nalamat e-mel dan nombor telefonnya;\n\n(b) fakta bahawa penanggung insurans MAT yang diluluskan itu tidak\ndilesenkan di bawah subseksyen 10(4) A kta untuk menjalankan\nperniagaan insurans , tetapi hanya diluluskan oleh Bank  untuk\nmenjalankan perniagaan sebagai penanggung insurans MAT yang\ndiluluskan di bawah Peraturan -Peraturan ini, dengan pengawasan\nterhad oleh Bank;\n\n(c) fakta bahawa penanggung insuran s MAT yang diluluskan itu\nmenjalankan perniagaan sebagai penanggung insurans MAT yang\ndiluluskan dari luar Malaysia dan tidak mempunyai apa -apa kehadiran\nperdagangan di Malaysia;\n\n(d) fakta bahawa pemunya polisi tidak dilindungi oleh Sistem\nPerlindungan Manfaat Takaful dan Insurans di bawah Akta Perbadanan\nInsurans Deposit Malaysia 2011 [Akta 720];\n\n(e) fakta bahawa apa -apa aduan boleh ditujukan kepada penanggung\ninsurans MAT yang diluluskan itu; dan\n\n(f) apa-apa maklumat lain yang ditentukan oleh Bank.\n\n (2)  Perenggan (1)(c) tidak terpakai bagi suatu penanggung insurans MAT yang\ndiluluskan yang merupakan suatu penanggung insurans Labuan.\n\nPerubahan yang memberi kesan terhadap kawalan\n11.  Suatu penanggung insurans yang diluluskan hendaklah dengan serta-merta—\n\n(a) memberitahu Bank mengenai apa -apa perubahan kawalan ke atasnya;\ndan\n\n(b) mengemukakan kepada Bank kelulusan pihak berkuasa penyeliaannya\nmengenai perubahan itu.\n\nPemindahan perniagaan insurans MAT\n12.  (1)  Penanggung insurans  MAT yang diluluskan tidak  boleh membuat apa-apa\nperjanjian atau perkiraan untuk memindahkan keseluruhan atau mana -mana bahagian\nperniagaan insurans MAT  yang dijalankan di bawah Peraturan-Peraturan ini  tanpa\nkelulusan bertulis terlebih dahulu daripada Bank.\n\n (2)  Penanggung insurans MAT  yang diluluskan itu hendaklah mematuhi\napa-apa arahan yang dikeluarkan oleh Bank berkenaan dengan bentuk atau cara\napa-apa pemindahan di bawah subperaturan (1).\n\nPengemukaan diri sebagai penanggung insurans MAT yang diluluskan\n13.  (1)  Tiada seorang pun boleh mengemukakan dirinya sebagai penanggung\ninsurans MAT yang diluluskan melainkan jika orang itu diluluskan di bawah\nperaturan 4.\n\n (2)  Mana-mana orang yang melanggar subperaturan (1) melakukan suatu\nkesalahan dan boleh, apabila disabitkan, didenda tidak melebihi sepuluh juta ringgit.\n\nSekatan penggunaan perkataan \"penanggung insurans MAT yang diluluskan\"\n14.  (1)  Tiada seorang pun, melainkan  jika ia  diluluskan di bawah\nperaturan 4, boleh—\n\n(a) dalam nama, perihalan  atau gelarannya yang di bawahnya orang itu\nmenjalankan perniagaan atau melakukan perniagaannya,\nmenggunakan perkataan \"penanggung insurans MAT yang diluluskan\"\natau apa-apa terbitan perkataan itu dalam apa-apa bahasa atau apa-apa\nperkataan lain dalam apa-apa bahasa yang boleh ditafsirkan sebagai\nmenunjukkan penjalanan perniagaan sebagai  penanggung insurans\nMAT yang diluluskan; atau\n\n(b) membuat apa-apa representasi yang mempunyai kesan tersebut dalam\napa-apa dokumen yang berhubungan dengan perniagaannya atau\n\ndokumen yang digunakan dalam penjalanan perniagaannya atau dalam\napa-apa cara lain walau apa jua.\n.\n (2)  Penanggung insurans MAT yang diluluskan hanya boleh menggunakan\nperkataan \"penanggung insurans MAT yang diluluskan\" untuk menunjukkan bahawa ia\nmenjalankan perniagaan sebagai penanggung insurans MAT yang diluluskan.\n\n (3)  Mana-mana orang yang melanggar sub peraturan (1) atau (2) melakukan\nsuatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima juta ringgit.\n\nKuasa Bank untuk mengeluarkan arahan\n15.  (1)  Bank boleh mengeluarkan apa -apa arahan kepada penanggung insurans\nMAT yang diluluskan sekiranya Bank berpendapat adalah perlu untuk melindungi\nkepentingan pemunya polisi atau orang awam secara am, dan khususnya, boleh\nmenghendaki penanggung insuran s yang diluluskan itu, untuk ber henti atau menahan\ndaripada melakukan suatu perbuatan atau men uruti penjalanan pelakuan atau\nmelakukan apa-apa perbuatan, berhubung dengan perniagaan yang dijalankan sebagai\nsuatu penanggung insurans MAT yang diluluskan , dan apa -apa hal ehwal atau harta\nyang berkaitan dengan perniagaan itu.\n\n (2)  Bank boleh, selepas representasi yang dibuat kepadanya  atau atas usulnya\nsendiri, mengubah suai atau membatalkan apa -apa arahan yang dikeluarkan di bawah\nsubperaturan (1) dan, dalam berbuat sedemikian, boleh mengenakan syarat ke atas\npenanggung insurans MAT yang diluluskan itu.\n\n (3)  Penanggung insurans MAT yang diluluskan hendaklah mematuhi apa -apa\narahan yang dikeluarkan oleh Bank di bawah subperaturan (1) atau (2) , atau apa-apa\nsyarat yang dikenakan di bawah subperaturan (2).\n\nKewajipan untuk mengemukakan dokumen atau maklumat kepada Bank\n16.  (1) Penanggung insurans MAT yang diluluskan hendaklah mengemukaka n\nkepada Bank apa -apa dokumen a tau maklumat, termasuk apa-apa dokumen atau\nmaklumat berhubung dengan perniagaan yang dijalankan olehnya sebagai penanggung\n\ninsurans MAT yang diluluskan, dalam apa -apa bentuk dan cara, dan dalam apa -apa\nmasa, yang ditentukan oleh Bank.\n\n  (2)  Penanggung insurans MAT yang diluluskan yang dikehendaki untuk\nmengemukakan apa -apa dokumen atau maklumat di bawah subperaturan (1) tidak\nboleh mengemukakan apa-apa dokumen atu maklumat—\n\n(a) yang penanggung insurans MAT yang diluluskan itu mengetahui, atau\nmempunyai sebab untuk mempercayai, adalah palsu atau\nmengelirukan dalam butir material; atau\n\n(b) yang tidak tepat atau tidak lengkap b erkenaan dengan kesalahan atau\npeninggalan materia l, atau apa -apa kesalahan atau pen inggalan\nberulang.\n\n (3)  Mana-mana penanggung insurans MAT yang diluluskan yang melanggar\nperenggan (2) (a) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda\ntidak melebihi lima juta ringgit.\n\nPenyata dan audit\n17.  (1)  Penanggung insurans MAT yang diluluskan hendaklah, dalam tempoh tiga\nbulan dari berakhirnya akhir setiap tahun kewangan atau dalam tempoh lebih panjang\nyang dibenarkan oleh Bank, menyediakan dan menyerah simpan dengan Bank—\n\n(a) suatu penyata dalam apa-apa bentuk dan cara yang ditentukan  oleh\nBank dengan memberikan butir -butir perniagaan  insurans MAT yang\ndiuruskan bagi tahun kewangan itu di bawah  Peraturan-Peraturan ini;\ndan\n\n(b) penyata kewangan tahunan yang diaudit bagi tahun kewangan itu dan\npendapat juruaudit ke atas penyata kewangan itu, sebagaimana yang\ndikemukakan kepada pihak berkuasa penyeliaannya.\n\n (2)  Penyata yang disebut dalam perenggan (1) (a) hendaklah berasaskan kepada\npenyata kewangan tahunan yang diaudit bagi penanggung insurans MAT yang\ndiluluskan itu berkenaan dengan tahun kewangan yang sama.\n\n (3)  Jika suatu penyata kewangan yang diaudit adalah dalam bahasa selain\nbahasa Inggeris, salinan yang dikehendaki di bawah subperaturan (1) hendaklah\nditerjemahkan ke dalam bahasa Inggeris dan hendaklah diperakukan sebagai\nterjemahan sebenar daripada yang asal oleh penterjemah.\n\n (4)  Semua salinan dokumen yang diserah  simpan dengan Bank di bawah\nperaturan ini hendaklah ditandatangani oleh seorang pengarah dan ketua pegawai\neksekutif penanggung insurans MAT yang diluluskan itu.\n\n-------------------------------------------------\n\nJADUAL\n\nNEGARA-NEGARA YANG DITETAPKAN\n\nNegara-Negara Anggota Pertubuhan Negara -Negara Asia Tenggara yang merupakan\npenandatangan kepada Protokol Bagi Melaksanakan Pakej Ketujuh Komitmen\nPerhidmatan Kewangan di bawah Perjanjian Rangka Kerja Megenai Perkhidma tan\nASEAN bertarikh 23 Jun 2016\n\nDibuat  4 April 2017\n[KK/SID/(S)/9/437/1/2012(SK.2); PN(PU2)718/V]\n\nDATUK SERI JOHARI ABDUL GHANI\nMenteri Kewangan Kedua\n\nFINANCIAL SERVICES ACT 2013\n\nFINANCIAL SERVICES (APPROVED MARINE, AVIATION AND TRANSIT INSURERS)\nREGULATIONS 2017\n\n                                              ARRANGEMENT OF REGULATIONS\n\nRegulation\n1. Citation and commencement\n2. Interpretation\n3. MAT insurance business under Regulations\n4. Approval by Bank\n5. Additional conditions of approval\n6. Revocation of approval\n7. Voluntary cessation of business\n8. Effect of revocation or cessation\n9. Annual fee\n10. Disclosure by approved MAT insurer\n11. Changes affecting control\n12. Transfer of MAT insurance business\n13. Holding out as an approved MAT insurer\n14. Restriction on use of words \"approved MAT insurer\"\n15. Power of Bank to issue directions\n16. Duty to submit document or information to Bank\n17. Returns and audit\n\nSCHEDULE\n\nFINANCIAL SERVICES ACT 2013\n\nFINANCIAL SERVICES (APPROVED MARINE, AVIATION AND TRANSIT INSURERS)\nREGULATIONS 2017\n\nIN exercise of the powers conferred by subsection 260(2) of the\nFinancial Services Act 2013 [Act 758], the Minister, on the recommendation of the Bank,\nmakes the following Regulations:\n\nCitation and commencement\n1. (1)  These r egulations may be cited as the Financial Services (Approved\nMarine, Aviation and Transit Insurers) Regulations 2017.\n\n (2) These Regulations come into operation on 7 April 2017.\n\nInterpretation\n2.  In these Regulations—\n\n \"approved MAT insurer\" means a designated insurer or a Labuan insurer\napproved under paragraph 4(2)(a);\n\n \"designated country\" means a country or territory specified in the Schedule;\n\n\"designated insurer\" means any person licensed, approved, registered or\notherwise regulated under the law of any designated country to carry on insurance\nbusiness in that country;\n\n\"Labuan insurer\" has the same meaning assigned to it in section 101 of the Labuan\nFinancial Services and Securities Act 2010 [Act 704];\n\n\"Malaysia\" excludes the Federal Territory of Labuan;\n\n\"MAT insurance\" means the insurance of risks relating to—\n\n(a) maritime shipping , commercial aviation , space launching and freight\n(including satellites), which covers any or all of the following:\n\n(i) the goods being transported; and\n\n(ii) the vehicle transporting the goods , and any liability arising\ntherefrom; and\n\n(b) goods in international transit,\n\nbut does not include the reinsurance of such risks;\n\n \"supervisory authority\" means the authority, body or agency who is responsible\nfor the supervision and oversight of a designated insurer or a Labuan insurer.\n\nMAT insurance business under Regulations\n3.  (1)  A designated insurer shall not carry on the business of providing MAT\ninsurance, as principal and as an insurer, to persons in Malaysia from outside Malaysia,\nunless the designated insurer—\n\n(a) is an approved MAT insurer under regulation 4; and\n\n(b) has no commercial presence in Malaysia for the purpose of carrying on\nsuch business.\n\n (2) A Labuan insurer shall not carry on insurance business in respect of MAT\ninsurance in Malaysia unless the Labuan insurer—\n\n(a) is exempted under section 199 of the Labuan Financial Services and\nSecurities Act 2010 from the application of subsection 113(1) of that\nAct in respect of domestic insurance business; and\n\n(b) is an approved MAT insurer under regulation 4.\n\n (3) Any person who contravenes subregulation (1) or (2) commits an offence\nand shall, on conviction, be liable to a fine not exceeding ten million ringgit.\n\nApproval by Bank\n4.  (1)  A designated insurer or Labuan insurer may apply in writing to the Bank to\nbe an approved MAT insurer, and shall submit such documents or information specified\nby the Bank, including—\n\n(a) the written consent of its supervisory authority for  it to carry on\nbusiness as an approved MAT insurer; and\n\n(b) an undertaking that it shall treat its liabilities to policy owners arising\nfrom such business to the same extent as similar liabilities in the\ndesignated country in which it is licensed, approved, registered or\notherwise regulated, or in Labuan, as the case may be.\n\n (2)  In assessing an application made under subregulation (1), the Bank may\nhave regard to such factors that the Bank considers relevant and the Bank may—\n\n(a) approve the applicant as an approved MAT insurer , with or without\nconditions; or\n\n(b) reject the application.\n\n (3)  Where the Bank approves the application under paragraph (2) (a), the\napproved MAT insurer shall commence business as an approved MAT insurer within the\nperiod stated in the approval or such further period extended by the Bank, and shall\nnotify the Bank  the date of commencement of such business.\n\n (4)  Upon being approved under paragraph (2) (a), the approved MAT insurer\nwho is a designated insurer shall authorize a resident agent in Malaysia to accept\n\nservice of any notice and legal process  in respect of, and connected to its business as\nsuch, including any notice or direction issued by the Bank, and submit to the Bank the\nauthorized agent's name, address and other details specified by the Bank.\n\nAdditional conditions of approval\n5.  (1)  The Bank may at any time in writing, amend or revoke any existing condition\nof approval imposed under paragraph 4(2) (a) or impose any new condition on the\napproval.\n\n (2) The approved MAT insurer shall comply with any condition of approval\nimposed by the Bank under subregulation (1), or paragraph 4(2)(a) or 6(3)(b).\n\nRevocation of approval\n6.   (1) The Bank may revoke the approval granted to the approved MAT insurer\nunder regulation 4 if—\n\n(a) the approved MAT insurer has not commenced  its MAT insurance\nbusiness within the period stated in the approval referred to in\nparagraph 4(2) (a), or after having commenced such business, the\napproved MAT insurer has failed to enter into any MAT insurance\ncontracts within twenty -four months from the date of commencement\nof its business;\n\n(b) the approved MAT insurer has ceased to carry on business as an\napproved MAT insurer;\n\n(c) the approved MAT insurer has ceased to be licensed, approved,\nregistered or otherwise regulated as an insurer by its supervisory\nauthority;\n\n(d) the approved MAT insurer has contravened or breached any provision\nof the Act or these Regulations, or has failed to comply with any\ncondition imposed or any direction given by the Bank unde r the Act or\n\nthese Regulations, regardless of whether there has been any\nprosecution or other action taken by the Bank in respect of such\ncontravention, breach or non-compliance;\n\n(e) the approved MAT insurer has submitted false, misleading, inacc urate\nor inco mplete information  in its application for approval under\nsubregulation 4(1);\n\n(f) the approved MAT insurer is unable to meet its obligations, whether in\nMalaysia or elsewhere;\n\n(g) the approved MAT insurer—\n\n(i)   has gone into liquidation; or\n\n(ii)  has been wound up or otherwise dissolved;\n\n(h) a receiver, receiver and manager, judicial manager, or such other\nperson having the powers and duties of a receiver, receiver and\nmanager or judicial manager, has been appointed, whether in Malaysia\nor elsewhere, in relati on to, or in respect of any property of, the\napproved MAT insurer;\n\n(i) in the opinion of the Bank, the approved MAT insurer is committing or\nis about to commit an act, or is pursuing or is about to pursue any\ncourse of conduct, that is unsafe or unsound or ha s failed to commit an\nact or pursue a course of conduct that is necessary to maintain the\nsafety and soundness of the approved MAT insurer, whether in\nMalaysia or elsewhere;\n\n(j) possession of the property of the approved MAT insurer has been taken\nby or on b ehalf of a debenture holder pursuant to a charge on the\nproperty, whether in Malaysia or elsewhere;\n\n(k) in the opinion of the Bank, the approved MAT insurer is carrying on its\nbusiness in a manner detrimental to policy owners or intended policy\nowners, whether in Malaysia or elsewhere; or\n\n(l) in the opinion of the Bank, it is in the interest of the public to do so.\n\n (2)  The Bank shall, before revoking the approval under subregulation (1)—\n\n(a) by notice in writing notify the Bank's intention to revoke the approval\nof the approved MAT insurer and the grounds for such revocation; and\n\n(b) give an opportunity to the approved MAT insurer to make\na written representation to the Bank as to why its approval should not\nbe revoked and specify the perio d within which such written\nrepresentation may be made.\n\n (3)  After the expiry of the period stated in the notice referred to in\nparagraph (2) (b) and after considering any written representation made under that\nparagraph, if any, the Bank shall decide whether to—\n\n(a)  proceed to revoke the approval;\n\n(b)  take other action, including imposing any condition or restriction on\nthe approval; or\n\n(c)  take no further action.\n\n (4) Where the Bank decides to revoke the approval under paragraph 3(a)—\n\n(a) the Bank shall furnish the approved MAT insurer a written notice of the\ndecision which shall take effect from the date specified in the notice;\n\n(b) the approved MAT insurer shall immediately cease to carry on business\nas an approved MAT insurer on the date specified in the notice referred\nto in paragraph (4)(a); and\n\n(c)  the Bank may publish a notice of such revocation of approval in such\nform as the Bank deems appropriate.\n\nVoluntary cessation of business\n7. (1)  An approved MAT insurer may cease to carry on business as an approved\nMAT insurer  by giving prior written notice to the Bank stating its intention to cease\ncarrying on such business and the reasons for such cessation.\n\n(2)  A written notice referred to in subregulation (1) shall be given by the\napproved MAT insurer to the Bank at least ninety days before it intends to cease such\nbusiness.\n\n(3)  The approved MAT insurer shall immediately cease carrying on such\nbusiness on the date it intends to cease the business as stated in the written notice\nreferred to in subregulation (1).\n\n (4) The Bank may publish a notice of cessation of business in respect of the\napproved MAT insurer referred to in subregulation (1) in such form as the Bank deems\nappropriate.\n\nEffect of revocation or cessation\n8.  (1)  The approved MAT insur er whose approval has been revoked under\nregulation 6 or who has voluntarily ceased to carry on bu siness as an approved MAT\ninsurer under regulation 7  shall continue to be subject to the Act and these Regulations\nto the same extent as it did before its approval was revoked or it voluntarily ceased\nbusiness, and shall continue to discharge its obligations, or make adequate\narrangements to discharge its obligations, as long as those obligations remain\nunsatisfied or undischarged or not otherwise provided for to the satisfaction of the\nBank.\n\n (2) A revocation of approval under regulation 6 or voluntary cessation of\nbusiness under regulation 7 shall not operate so as to—\n\n(a) avoid or affect any agreement, arrangement or transaction entered into\nbetween any person and the insurer during the period that it was an\napproved MAT insurer; or\n\n(b) affect any right, obligation or liability arising under any such\nagreement, arrangement or transaction.\n\nAnnual fee\n9.  (1)  An approved MAT insurer shall pay an annual fee of ten thousand ringgit to\nthe Bank on or before 15 December of each year.\n\n (2) The Bank may exempt, wholly or in part, any approved MAT insurer from the\npayment of annual fee under subregulation (1).\n\nDisclosure by approved MAT insurer\n10.  (1)  An approved MAT insurer shall not invite any person in Malaysia to make an\noffer or a proposal to enter into a contract of insurance without disclosing to the person\nall material information including—\n\n(a) its business name, business address, website (if any),\ne-mail address and telephone number;\n\n(b) the fact that such approved MAT insurer is not licensed under\nsubsection 10(4) of the Act  to carry on insurance business , but only\napproved by the Bank to carry on business as an approved MAT insurer\nunder these Regulations, with limited oversight by the Bank;\n\n(c) the fact that such approved MAT insurer is carrying on business as an\napproved MAT insurer from outside Malaysia  and has no commercial\npresence in Malaysia;\n\n(d) the fact that policy owners are not  protected by the Takaful and\nInsurance Benefits Protection System under the Malaysia Deposit\nInsurance Corporation Act 2011 [Act 720];\n\n(e) the fact that any complaints may be directed to the approved\nMAT insurer; and\n\n(f) any other information specified by the Bank.\n\n (2) Paragraph (1)(c) shall not be applicable to an approved MAT insurer who is\na Labuan insurer.\n\nChanges affecting control\n11.  An approved MAT insurer shall immediately—\n\n(a)  notify the Bank of any change in its control; and\n\n(b)  submit to the Bank its supervisory authority's approval for the change.\n\nTransfer of MAT insurance business\n12.   (1) An approved MAT insurer shall not enter into an agreement or arrangement\nto transfer the whole or any part of its MAT insurance business carried on under these\nRegulations without the prior written approval of the Bank.\n\n (2) The approved MAT insurer shall comply with any directions issued by the\nBank in respect of the form and manner of any transfer under subregulation (1).\n\nHolding out as approved MAT insurer\n13.  (1)  No person shall hold himself out to be an approved MAT insurer unless such\nperson is approved under regulation 4.\n\n (2) Any person who contravenes subregulation (1) commits an offence and shall,\non conviction, be liable to a fine not exceeding ten million ringgit.\n\nRestriction on use of words \"approved MAT insurer\"\n14.  (1) No person, unless it is approved under regulation 4, shall—\n\n(a) in its name, description or title under which such person carries on\nbusiness or in the conduct of its business, use the words \"approved\nMAT insurer\" or any derivative of the words in any language or any\nother words in any language capable of being constru ed as indicating\nthe carrying on of business as an approved MAT insurance insurer; or\n\n(b) make any representation of such effect in any document relating to its\nbusiness or document used in the course of carrying on its business or\nin any other manner whatsoever.\n\n(2)  An approved MAT insurer shall only use the words \"approved MAT insurer\"\nto indicate that it carries on business as an approved MAT insurer.\n\n (3) Any person who contravenes subregulation (1) or (2) commits an offence\nand shall, on conviction, be liable to a fine not exceeding five million ringgit.\n\nPower of Bank to issue directions\n15.  (1) The Bank may issue such directions to the approved MAT insurer if the Bank\nis of the opinion that it is necessary to protect the interests of policy owners or the\npublic generally, and in particular, may require the approved MAT insurer, to cease or\nrefrain from committing an act or pursuing a course of conduct or to do any act, in\nrelation to its business which it carries on as an approved MAT insurer, and any affairs\nor property related to such business.\n\n (2)  The Bank may, upon representation being made to it, or on its own motion,\nmodify or cancel any direction issued under subregulation  (1) and, in doing  so, may\nimpose conditions on the approved MAT insurer.\n\n (3) The approved MAT insurer shall comply with any direction issued by the\nBank under subregulation (1) or (2), or any condition imposed under subregulation (2).\n\nDuty to submit document or information to Bank\n16.  (1)  An approved MAT insurer shall submit to the Bank such document or\ninformation, including any document or information relating  to the business it carries\non as an approved MAT insurer, in such form and manner, and within such time,\nspecified by the Bank.\n\n (2)  An approved MAT insurer who is required to submit any document or\ninformation under subregulation (1) shall not submit any document or information—\n\n(a)  which the approved MAT insurer knows, or has reason to believe, to be\nfalse or misleading in a material particular; or\n\n(b)    which is inaccurate or incomplete in respect of which there is a\nmaterial error or omission, or any recurring error or omission.\n\n (3) Any approved MAT insurer who contravenes paragraph (2) (a) commits an\noffence and shall, on conviction, be liable to a fine not exceeding five million ringgit.\n\nReturns and audit\n17.  (1)  An approved MAT insurer shall, within three months from the end of each\nfinancial year or within such longer period as the Bank may allow, prepare and lodge\nwith the Bank—\n\n(a) a statement in such form and manner specified by the Bank giving\nparticulars of the MAT insurance business carried on during that\nfinancial year under these Regulations; and\n\n(b) its annual audited financial statements for that financial year and the\nauditor's opinion on the  financial statements, as submitted to its\nsupervisory authority.\n\n (2) The statement referred to in paragraph (1) (a) shall be based on the annual\naudited financial statements of the approved MAT insurer with respect to that same\nfinancial year.\n\n (3)  Where any audited financial statement is in a language other than English,\nthe copy required under subregulation (1) shall be translated in English and shall be\ncertified to be a true translation of the original by a translator.\n\n (4)  All copies of the do cuments lodged with the Bank under this regulation shall\nbe signed by a director and the chief executive officer of the approved MAT insurer.\n\n---------------------------------------------\n\nSCHEDULE\n\nDESIGNATED COUNTRIES\n\nMember States of the Association of Southeast Asian Nations which are signatories to\nthe Protocol to Implement the Seventh Package of Commitments on Financial Services\nunder the ASEAN Framework Agreement on Services dated 23 June 2016\n\nMade 4 April 2017\n[KK/SID/(S)/9/437/1/2012(SK.2); PN(PU2)718/V]\n\nDATUK SERI JOHARI ABDUL GHANI\nSecond Minister of Finance"
+   }
+  }
+ ]
+}

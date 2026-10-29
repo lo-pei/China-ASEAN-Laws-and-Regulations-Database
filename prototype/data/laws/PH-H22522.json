@@ -1,0 +1,72 @@
+{
+ "id": "PH-H22522",
+ "title": {
+  "zh": null,
+  "en": "Further Amending Presidential Decree No. 257 Creating the PEFTOK Investment and Development Corporation, as Amended By Presidential Decree",
+  "orig": "Further Amending Presidential Decree No. 257 Creating the PEFTOK Investment and Development Corporation, as Amended By Presidential Decree"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1977-06-08",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 1161",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 660,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_01161_1977_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_01161_1977_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22522-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "A new provision is hereby inserted a Section 3-b of Presidential Decree No. 257, as amended, to\nread as follows:\n\"Sec. 3-b. The authorized capitalization of the PEFTOK Investment and Development Corporation shall be\nEight Million Five Hundred Thousand Pesos (8,500,000.00) divided into eight hundred fifty thousand\n(850,000) common shares with a par value of Ten Pesos (P10,00) each;\""
+   }
+  },
+  {
+   "id": "PH-H22522-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Decree takes effect upon approval."
+   }
+  },
+  {
+   "id": "PH-H22522-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "All laws, decrees, orders and rules and regulations which are inconsistent herewith are hereby\nrepealed or modified accordingly.\nDone in the City of Manila, this 8th day of June in the year of Our Lord nineteen hundred and seventy-seven."
+   }
+  }
+ ]
+}

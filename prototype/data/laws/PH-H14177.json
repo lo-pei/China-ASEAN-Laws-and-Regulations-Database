@@ -1,0 +1,62 @@
+{
+ "id": "PH-H14177",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Section Sixty-Eight of Act Numbered Nineteen Hundred and Fifty-Six, Commonly Known as the Insolvency Law.",
+  "orig": "An Act to Amend Section Sixty-Eight of Act Numbered Nineteen Hundred and Fifty-Six, Commonly Known as the Insolvency Law."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1929-11-22",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3544",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 874,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1929/act_3544_1929.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03544_1929_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03544_1929_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14177-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section sixty-eight of Act Numbered Nineteen hundred and fifty-six, commonly known as the\nInsolvency Law is hereby amended to read as follows:\n\"Section 68. No tax or assessment due the Insular Government or any provincial or municipal government,\nwhether proved or not as provided for in this Act, shall be discharged. Nor shall any debt created by the fraud\nor embezzlement of the debtor, or by his defalcation as a public officer or while acting in a fiduciary capacity,\nbe discharged under this Act, but the debt may be proved, and the dividend thereon shall be a payment on\naccount of said debt. No discharge granted under this Act shall release, discharge, or affect any person liable\nfor the same debt, for or with the debtor, either as partner, joint contractor, indorser, surety, or otherwise.\""
+   }
+  },
+  {
+   "id": "PH-H14177-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, November 22, 1929."
+   }
+  }
+ ]
+}

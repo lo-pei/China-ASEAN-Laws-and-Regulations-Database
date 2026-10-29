@@ -1,0 +1,72 @@
+{
+ "id": "PH-H20332",
+ "title": {
+  "zh": null,
+  "en": "Increasing the Medicare Benefits Under the Philippine Medical",
+  "orig": "Increasing the Medicare Benefits Under the Philippine Medical"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p158",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1992-01-01",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Executive Order No. 501",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1816,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/07_行政命令_EO/EO_00501_1992_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 EO_00501_1992_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H20332-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The Medicare benefits for both GSIS and SSS Medicare beneficiaries are increased as follows:\nItems for Hospitalization\nBENEFIT LIMIT (BY HOSPITAL CATEGORY)\nA. Hospital Charges\n1. Room and Board not exceeding 45 days per year for each member of program 1 and another 45days per\nyear to be shared by all his dependents\n2. Medical Expense Benefit (per single period of confinement)\n2.1 Ordinary Cases\n720\n1090\n1375\nDrugs & Medicines\n595\n\n790\n845\nX-Ray/Lab/Other\n125\n300\n530\n2.2 Intensive Cases\n1395\n2040\n3480\nDrugs & Medicines\n1125\n1350\n2430\nX-Ray/Lab/Cases\n270\n690\n1050\n2.3 Catastrophic Cases\n-\n4390\n6680\nDrugs & Medicines\n-\n3040\n3475\nX-Ray/Lab/Other\n-\n1350\n3205\n3. Operating Room Fee based on Commissions Relative Unit value (RUV) scheme\n140\n245\n390\n-\n\n420\n500\n-\n960\n1290\nB. PROFESSIONAL FEES\n1. Medical/Dental practitioner’s fee, per day of P55 for general practitioners and P80 for specialists, not to\nexceed per single period of confinement, P300 for general practitioner and P450 for specialist in ordinary\ncases and P450 for general practitioner and P750 for specialist in intensive care/catastrophic cases.\n2. Surgeon’s fee in accordance with the relative unit value scheme prescribed by the commission not to\n3. Anesthesiologists fee (30% of allowed surgeon’s fee) not to exceed P2,125.\n4. Fees for surgical family planning procedures as may be determined by the commission."
+   }
+  },
+  {
+   "id": "PH-H20332-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "All orders, issuances, rules and regulations or parts thereof inconsistent with this Executive\nOrder are hereby repealed or modified accordingly."
+   }
+  },
+  {
+   "id": "PH-H20332-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Executive Order shall take effect on the 1st day of January 1992.\nDONE in the City of Manila, this 27th day of December, in the year of our Lord, nineteen hundred and\n(Sgd.) CORAZON C. AQUINO\nPresident of the Philippines\nBy the Philippines:\n(Sgd.) FRANKLIN M. DRILON\nExecutive Secretary"
+   }
+  }
+ ]
+}

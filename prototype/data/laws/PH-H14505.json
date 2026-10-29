@@ -1,0 +1,72 @@
+{
+ "id": "PH-H14505",
+ "title": {
+  "zh": null,
+  "en": "An Act Prohibiting the Exportation of Antiques of the Philippine Islands",
+  "orig": "An Act Prohibiting the Exportation of Antiques of the Philippine Islands"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1931-11-13",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3874",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1061,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1931/act_3874_1931.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03874_1931_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03874_1931_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14505-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The antiques of the Philippine Islands, such as coins, arms, tools, furniture, decorations,\nmanuscripts, ships and their separate parts, articles of adornment, stones with inscriptions or figures,\nagricultural implements, sculptures, carvings, and other works or articles of art, industry and commerce shall\nnot be exported from the country without the prior authorization of the Secretary of Agriculture and Natural\nResources: Provided, That only such objects as are more than one hundred years old shall be considered"
+   }
+  },
+  {
+   "id": "PH-H14505-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Any person violating this provision or an accomplice thereto shall be liable to a fine not\nexceeding two thousand five hundred pesos. The confiscation of the objects in question or the payment of\ntheir value to the Treasury of the Philippine Islands shall be at the discretion of the Secretary of Agriculture\nand Natural Resources: Provided, further, That each application to the Secretary of Agriculture and Natural\nResources shall be accompanied by a fee of two pesos."
+   }
+  },
+  {
+   "id": "PH-H14505-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, November 13, 1931."
+   }
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "id": "PH-H12750",
+ "title": {
+  "zh": null,
+  "en": "An Act to Provide Funds for the Travel and Subsistence Expenses of the Delegates of the Philippine Islands to the International Tuberculosis Congress to Be Held At Rome, Italy, During the Present Year of Nineteen Hundred and Eleven.",
+  "orig": "An Act to Provide Funds for the Travel and Subsistence Expenses of the Delegates of the Philippine Islands to the International Tuberculosis Congress to Be Held At Rome, Italy, During the Present Year of Nineteen Hundred and Eleven."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1911-02-03",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2042",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 981,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1911/act_2042_1911.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02042_1911_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02042_1911_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12750-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The sum of four thousand pesos, or so much thereof as may be necessary, is hereby appropriated\nfrom any funds in the Insular Treasury not otherwise appropriated, for the travel expenses and subsistence\nduring the trip of two delegates, one a member of the College of Medicine and Surgery of the Philippine\nUniversity and the other appointed by the Philippine Islands Anti-Tuberculosis Society, who shall attend the\nInternational Tuberculosis Congress to be held at Rome, Italy, during the year nineteen hundred and eleven.\nThe appropriation herein made shall be also available for the travel and subsistence expenses of said delegates\nwhile visiting hospitals for the treatment of tuberculosis abroad."
+   }
+  },
+  {
+   "id": "PH-H12750-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The delegate from the College of Medicine and Surgery of the Philippine University shall be\nappointed by the Governor-General and shall, during his absence from the Philippine Islands, receive his\nregular salary as an employee of the Insular Government.\nEnacted, February 3, 1911."
+   }
+  }
+ ]
+}

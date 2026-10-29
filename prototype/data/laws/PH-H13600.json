@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13600",
+ "title": {
+  "zh": null,
+  "en": "An Act to Provide for the Creation of a Branch of the College of Liberal Arts of the University of the Philippines in the Municipality of VIgan, Ilocos Sur, for the Provinces of Northern Luzon.",
+  "orig": "An Act to Provide for the Creation of a Branch of the College of Liberal Arts of the University of the Philippines in the Municipality of VIgan, Ilocos Sur, for the Provinces of Northern Luzon."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1921-02-19",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2956",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 536,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1921/act_2956_1921.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02956_1921_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02956_1921_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13600-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "A branch of the College of Liberal Arts of the University of the Philippines is hereby created in\nthe municipality of Vigan, Ilocos Sur, for the provinces of northern Luzon.\nThe administration and operation of this college shall be in the hands of the Board of Regents of the\nUniversity of the Philippines, as established in the Organic Law of said University, and the operating expenses\nof the same shall be paid out of the funds appropriated for said University."
+   }
+  },
+  {
+   "id": "PH-H13600-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, February 19, 1921."
+   }
+  }
+ ]
+}

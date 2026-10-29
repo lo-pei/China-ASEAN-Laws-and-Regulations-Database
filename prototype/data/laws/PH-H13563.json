@@ -1,0 +1,72 @@
+{
+ "id": "PH-H13563",
+ "title": {
+  "zh": null,
+  "en": "An Act Appropriating the Sum of One Hundred thousand Pesos, or So Much thereof as May Be Necessary, for the Relief of Indigent Sufferers From Fires, Earthquakes, Floods, Typhoons or Other Public Calamities.",
+  "orig": "An Act Appropriating the Sum of One Hundred thousand Pesos, or So Much thereof as May Be Necessary, for the Relief of Indigent Sufferers From Fires, Earthquakes, Floods, Typhoons or Other Public Calamities."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1920-03-24",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2919",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 980,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1920/act_2919_1920.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02919_1920_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02919_1920_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13563-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The funds for emergency service provided for in section 1-YY of Act Numbered Twenty-eight\nhundred and seventy-five are hereby made available, in a sum not to exceed one hundred thousand pesos, for\nthe relief of indigent sufferers from fires, earthquakes, floods, typhoons or other public calamities that have\noccurred, or may occur, in the Philippine Islands in the year nineteen hundred and twenty, including the\npurchase and transportation of supplies to the territory or territories affected."
+   }
+  },
+  {
+   "id": "PH-H13563-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The money herein appropriated shall be distributed by the Secretary of the Interior in the\nterritory or territories affected, such distribution to be made pro rata in case there are two or more such\nterritories, and the sum or sums so alloted or prorated shall be disbursed in the discretion of the respective\nprovincial boards, subject to the approval of the Secretary of the Interior, for the purposes hereinbefore"
+   }
+  },
+  {
+   "id": "PH-H13563-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, March 24, 1920."
+   }
+  }
+ ]
+}

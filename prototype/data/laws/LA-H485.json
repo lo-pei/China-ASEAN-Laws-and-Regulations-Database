@@ -1,0 +1,970 @@
+{
+ "id": "LA-H485",
+ "title": {
+  "zh": "合作社法",
+  "en": "Law on Cooperatives",
+  "orig": "LAW ON COOPERATIVES",
+  "vi": "Luật Hợp tác xã",
+  "th": "พระราชบัญญัติสหกรณ์",
+  "id": "Undang-Undang Koperasi",
+  "ms": "Akta Koperasi"
+ },
+ "country": "LA",
+ "countryName": "老挝",
+ "layer": "intl",
+ "pack": "la-p02",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2024-06-28",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly",
+ "docNumber": "Law No. 2301",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 77,
+ "chars": 48120,
+ "source": {
+  "name": "老挝法律数据库（英译本，非官方）",
+  "url": null
+ },
+ "sourceFile": "现行法规/02_法律_Law/LAW_20240628_2301_ກົດໝາຍວ່າດ້ວຍ_ສະຫະກອນ.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 77 条；英文译本（源包「翻译版」，非官方译本）",
+ "textQuality": "official-translation",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "LA-H485-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Article 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Purpose\nThis Law establishes the principles, rules, and measures governing the establishment,\noperation, management, and inspection of cooperatives. It aims to promote and develop\ncooperatives to enhance production, services, and business operations, thereby fostering economic\ngrowth, alleviating poverty and improve livelihoods, and contributing to the national\nsocioeconomic development."
+   }
+  },
+  {
+   "id": "LA-H485-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Article 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Cooperatives\nA Cooperative is a collective economic organization formed voluntarily by Lao citizens\nengaged in agriculture, handicrafts, trade, services, or other professions, established to foster\nmutual support among members through the pooling of capital, knowledge exchange, and\ntechnical resources, collaboratively address challenges and equitably share the benefits derived\nfrom their business operations."
+   }
+  },
+  {
+   "id": "LA-H485-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Article 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Definition of terms\nTerms used in this Law shall be interpreted as follows:\n1. Groups refer the organizations of Lao people who have their occupation in\nagriculture, handicrafts, trade, services, or other professions established on voluntary\nbasis to help each other among cooperative members and household members,\nparticularly in areas related to production and service activities.\n2. Share Capital refers to the capital of the cooperatives divided into parts of equal\nvalue as stipulated in the cooperative’s bylaws.\n3. Cooperative Operating License refers to the documents certifying the operation of\ncooperatives activities from the relevant department as defined in this Law\n4. Innovation means the application of knowledge, capacity, production process and\nscientific and technological experiences in order to research, create, service, develop\na product and goods with high quality in a new form for the society."
+   }
+  },
+  {
+   "id": "LA-H485-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Article 4"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "State policies on cooperatives\nThe State encourages and promote cooperatives by setting the policies, creating\nmechanism, conditions and facilitate cooperatives to grow, grow and strengthen in the green\ndirection also to sustain, generate the income and improve the living for Lao people.\nThe State promotes and develops the group to be stronger with technical and facilities\nsupport, convenience for the group to become cooperatives.\nThe State encourages, promotes individual, legal entities and organization that contribute\nto promote the cooperative activities and events."
+   }
+  },
+  {
+   "id": "LA-H485-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Article 5"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "The principles of cooperatives\nCooperative operations shall comply with following principles:\n1. Consistent with policy guidelines, constitutions, Laws, strategic plan and national\neconomic-social development plan, conventions to which Lao PDR is a party and\nrelated international agreements;\n2. Centralized supervision with a unified the whole country;\n3. Guarantee of cooperative members’ rights and interests cooperatives and State;\n4. Ensure the creation of jobs and improve the quality of life for the cooperative\nmembers\n5. Ensure equality, efficiency/quick, fairness, transparent and verifiability;\n6. Ensure peace and social order."
+   }
+  },
+  {
+   "id": "LA-H485-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Article 6"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Application of the Law\nThis Law applies to individual, legal entities and organization both domestic and abroad\nthat actives and relations regarding cooperative work in Lao PDR."
+   }
+  },
+  {
+   "id": "LA-H485-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Article 7"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "International cooperation\n The State promotes cooperation with foreign countries, regional and international,\nregarding cooperative operations by exchanging lessons, information, techniques, technology,\nand human resources development, implementing the treaty of conventions to which the Lao\nPDR is a party and related international agreement.\n\nPART II\nTYPES OF COOPERATIVES"
+   }
+  },
+  {
+   "id": "LA-H485-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Article 8"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Types of cooperatives\nThe following types of cooperatives:\n1. Agricultural and forestry cooperatives;\n2. Saving and credit Union;\n3. Trade cooperatives;\n4. Handicraft and processing cooperatives;\n5. Service cooperatives;\n6. Other’s cooperatives."
+   }
+  },
+  {
+   "id": "LA-H485-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Article 9"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Agricultural and forestry cooperatives\nAgricultural and forestry cooperatives are the collective economic organization of the\nLao people who engage in professional activities in cultivation, animal husbandry, fisheries,\nprocessing and services in agriculture and forestry."
+   }
+  },
+  {
+   "id": "LA-H485-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Article 10"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Saving and credit Union\nSavings and credits Union are the collective economic organization of the Lao people\nthat joint savings and loans for the members within the cooperatives to use in the produce and\nfamily activities."
+   }
+  },
+  {
+   "id": "LA-H485-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Article 11"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Trade cooperatives\nTrade cooperatives are the collective economic organization of the Lao people who\nbuy, sell and exchange goods."
+   }
+  },
+  {
+   "id": "LA-H485-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Article 12"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Handicraft and processing cooperatives\nHandicrafts and processing cooperatives are the collective economic organization of\nthe Lao people that engaged in manufacturing, processing, weaving, pottery, cooking,\nbeverages and other occupations."
+   }
+  },
+  {
+   "id": "LA-H485-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Article 13"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Service cooperatives\nA service cooperative is a collective economic organization of Lao people that engages\nin professional activities, transportation, tourism, construction, doctor and other professions.\n\nPART III\nTHE ESTABLISHMENT AND OPERATION OF COOPERATIVES\nSECTION 1\nESTABLISHMENT OF COOPERATIVES"
+   }
+  },
+  {
+   "id": "LA-H485-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Article 14"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Conditions for establish cooperatives\nEstablishment of cooperatives shall meet the following conditions:\n1. Formation Voluntary cooperatives;\n2. Comprising at least seven Lao citizens as members, with each member not members\nbelonging to the same household;\n3. Having bylaws, offices, funds and property to ensure the operation of the\ncooperatives;\n4. At least one member must have undergone cooperative management training\ncertificate;\n5. Additional conditions as stipulated by the relevant sector.\nA group that intends to inform a cooperative, if there’s a right to do so as defined in\nclauses 2 and 3 of this article, should submit the application to the agriculture and forestry\nsector to register the cooperatives.\nFor the conditions of establishing Savings and Credit Union are defined separately in\nthe regulations."
+   }
+  },
+  {
+   "id": "LA-H485-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Article 15"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "The bylaws of the cooperatives\nCooperative bylaws have the following contents:\n1. Name of the cooperative, preceded by the term cooperatives;\n2. Type of cooperative;\n3. Objectives;\n4. Office location;\n5. Share value, number of shares, payment of shares with money or other assets, sale\nand transfer of share, repayment of shares to members;\n6. Accounting and financial operations of cooperatives;\n7. Distribution of dividends and responsibility for the lack of funding of cooperatives;\n8. Membership criteria, rights and duties of members and termination of membership;\n9. Regime of meetings of cooperatives;\n10. Board of directors, inspection committee, managers, units and employees of the\ncooperative."
+   }
+  },
+  {
+   "id": "LA-H485-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Article 16"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "A meeting to establish cooperatives\nThose who intend to establish a cooperative must hold a discussion meeting to prepare\nfor the establishment of the cooperative, which is as follows:\n\n1. Create awareness about the cooperative that will be established;\n2. Discuss about the establishment such as type, name, number of members,\nestablishment plan;\n3. Consider approving the business plan, bylaws of the cooperative and electing the\nfirst cooperative board director."
+   }
+  },
+  {
+   "id": "LA-H485-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Article 17"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Proposal to establish a cooperative\nThose who intend to establish a cooperative must submit an application along with the\nsupporting documents to register all types of cooperatives in the agriculture and forestry\nsectors and ask for permission to conduct cooperative activities in the relevant sectors."
+   }
+  },
+  {
+   "id": "LA-H485-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Article 18"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Application for establishing a cooperatives\nApplication documents for establishing a cooperative shall consist of the following:\n1. Request to establish a cooperative according to the printed from prescribed by the\nMinistry of Agriculture and Forestry;\n2. The bylaw of the cooperative;\n3. Cooperative’s business plan;\n4. List of members and signature of each member, number of shares and capital of\nthe cooperative;\n5. Certificate of the office location of the cooperatives by village authority;\n6. License to establish a group in case a group that has already been established."
+   }
+  },
+  {
+   "id": "LA-H485-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Article 19"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Consideration of cooperative registration\nAfter receiving the correct and completed the documents for establishing a cooperative,\nthe agriculture and forestry sector must consider issuing a cooperatives registration certificate\nwithin five working days from the date of receipt of the request.\nA cooperative registration certificate is a document confirming the establishment of the\ncooperative according to the Law and can be used throughout the period of activity of the\ncooperative."
+   }
+  },
+  {
+   "id": "LA-H485-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Article 20"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Requesting permission to conduct cooperative activities\nAfter obtaining a cooperatives registration certificate from the agriculture and forestry\nsector, they must apply a permission to operate cooperative activities in the relevant Laws and\nregulations.\nThe relevant sector must notify the issuance of a license to operate cooperative\nactivities to agriculture and forestry sector within five working days from the date of issuance\nthat the license has been issued.\nPermits to operate each type of cooperative activities are defined in separate\nregulations."
+   }
+  },
+  {
+   "id": "LA-H485-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Article 21"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Cooperative branches\nCooperatives can establish their own branches but must be approved by the sector that\nallows them to proceed the cooperative activities by coordinating with the relevant sectors and\ninforming to the agriculture and forestry sector where the cooperative branch is located.\nThe conditions for the establishment and operation of the cooperative branch are\ndefined in separate regulations.\n\n\n\nSECTION 2\nORGANIZATION OF COOPERATIVES"
+   }
+  },
+  {
+   "id": "LA-H485-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Article 22"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Organization of cooperatives\nThe organizations of the cooperative are as follows:\n1. The meeting of the cooperative;\n2. Cooperative board of directors;\n3. Cooperative inspection committee;\n4. Cooperative managers;\n5. Units of the cooperatives."
+   }
+  },
+  {
+   "id": "LA-H485-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Article 23"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Cooperative meetings\nCooperative meetings are the highest organization of the cooperative which consists of:\n1. General Assembly meeting to be held at least once a year;\n2. Extraordinary meeting to be convened at any time upon the invitation of the\nchairman of cooperative board of directors or upon the proposal of the member with\na number of one-fourth among all the members to consider important, necessary\nand urgent issues.\n\nThe General Assembly Meeting of the Cooperative may be held only if two-thirds or\nmore of the members are present.\nThe cooperative ordinary meetings have the following rights and duties:\n1. Adopt the bylaws of the cooperative, business plan and annual action plans of\ncooperative;\n2. Approve the summaries of the accounting, financial and audit reports;\n3. Consider agreeing on increasing or decreasing the number of shares or share value\nand dividend distribution;\n4. Elect or remove the executive committee and inspection committee;\n5. Appoint or remove the board of directors or cooperative managers;\n6. Consider and agree on meeting allowances, subsidies, and other policies for the\ncooperative board of director and the inspection committee;\n7. Consider and agree on salaries, subsidies and other policies for managers and\nemployees of the cooperative;\n8. Agree on other important issues of the cooperative.\nTo consider any issue at the meeting of the cooperative must receive the approval vote\nof more than half of the number of participating cooperative members, except for the adoption\nthe bylaws of the cooperative, merger, separation, dissolution of the cooperative must receive\nthe approval vote more than two thirds."
+   }
+  },
+  {
+   "id": "LA-H485-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Article 24"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Cooperative board of directors\nThe cooperative board of directors are elected and removed by the General Assembly\nMeeting of the cooperative, which consists of three or more members including chairman, vice\nchairman and Board of director members.\nThe board of directors has a term of five years and shall conduct the election of a new\nboard of directors. In case that any member of the board of directors becomes vacant, the\ncooperative must hold meeting to elect a new member of the board directors to fill the vacant\nto perform the duties of the remaining terms.\n\nThe cooperative board of directors conduct activities according to the meeting regime\nat least three months at the time.\nThe cooperative board of director has the following rights and duties:\n1. Develop the resolution of the meeting of the cooperative;\n2. Propose a plan of the operations and annual activities to the meeting of the\ncooperative;\n3. Encourage and monitor the activities of the inspection committee, manager or\norganizers;\n4. Adopt regulations on the management and administration of the cooperative as\nproposed by the manager;\n5. Elect the president, vice president and management committee as divide the\nresponsibilities to each one;\n6. Propose the appointment or remove the managers of the cooperative:\n7. Approve hiring or canceling the hiring of employees of the cooperative;\n8. Consider accepting the new members and resigning members base on the consent\nof the members;\n9. Used the rights and perform the duties as defined by the Law."
+   }
+  },
+  {
+   "id": "LA-H485-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Article 25"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Cooperative inspection committee\nThe cooperative inspection committee consists of three or more members including the\ninspection chairman, vice chairman and the numbers of member who are not part of the\ncooperative board of directors and are elected or removed by the meetings of the cooperative.\nThe cooperatives inspection committee has the following right and duties:\n1. Research, create and improve regulations on inspection and reporting of\ncooperative;\n2. Examine the activities of the cooperative such as finance, accounting, use of fund\nand assets of cooperative;\n3. Attend the meeting of board of directors and cooperative meeting;\n4. Asking the relevant member in the cooperative to provide the document and\ninformation required serve the inspection work and keep such information\nconfidential;\n5. Report on violations of Law and regulations of the cooperative to the board of\ndirectors and the meeting of the cooperative, as well as provide measures and\nremedies;\n6. Propose cooperative meeting to consider hiring an independent auditor to audit the\ncooperative account if necessary;\n7. Report the inspection results to the meeting of the board of director and the\ncooperative meeting;\n8. Use right and perform other duties as defined in relevant Law and regulations."
+   }
+  },
+  {
+   "id": "LA-H485-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Article 26"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Manager\nThe cooperative may have a board of manager or a manger who manage a daily affair\nof the cooperative according to the conditions and special points of each cooperative.\nThe board of manager or the cooperative managers is responsible for managing the\ndaily operations within a scope of its right and duties in accordance with the Laws, the\nassociation and as assigned by the cooperative board of directors.\nThe board of managers or cooperative manager have the following rights and duties:\n\n1. Manage the daily work and be responsible for the business performance of the\ncooperative;\n2. Create or amend the business plan and the annual action plan and propose them to\nthe cooperative board of directors;\n3. Manage the use of capitals and assets of the cooperative;\n4. Participate in the cooperative meetings, board of directors meeting or other\nmeetings related to cooperative activties;\n5. Provide information and clarification on various issues that are of interest to the\ninspection committee, the cooperative board of director and the cooperative\nmeeting;\n6. Recruit and place the employees of the cooperative according to the scope of their\nresponsibilities;\n7. Propose to hire or stop the employees of the cooperative for the cooperative board\nof director to consider and approve;\n8. Summarize and report business activities to the cooperative board of directors;\n9. Use rights and perform other duties as defined in relevant Laws and regulations."
+   }
+  },
+  {
+   "id": "LA-H485-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Article 27"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Cooperative units\nA cooperative has units that are responsible for finance, accounting, and other unit as\nnecessary, appropriate to its size and characteristics.\nFor the organization and activities including the responsibilities of each unit is defined\nin the bylaw of the cooperative.\n\nSECTION 3\nRIGHTS AND OBLIGATION OF COOPERATIVES"
+   }
+  },
+  {
+   "id": "LA-H485-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Article 28"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Rights of cooperatives\nA cooperative has the following rights:\n1. Promote production, trade, services and other businesses activities of its members\nin according with its license scope of operations;\n2. Coordinate with relevant persons and organize meetings to discuss various issues\naccording to the cooperative plan;\n3. Accept members openly on voluntary basis;\n4. Obtain technical, academic, and financial support from relevant person in the\npublic and private sectors, domestically and internationally;\n5. Borrow from commercial bank or other financial institutions to invest in their\nbusinesses;\n6. To provide loans, provide services for equipment and production vehicles to the\nmembers;\n7. Create, manage and implement welfare policies for members, families and\nsociety properly and fairly;\n8. Participants in cooperatives exhibitions and distribution of goods;\n9. Manage and use assets of cooperatives;\n10. Use rights as defined in relevant Laws and regulations."
+   }
+  },
+  {
+   "id": "LA-H485-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Article 29"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Obligations of cooperatives\nA cooperative has the following obligations:\n1. Follows the bylaw of the cooperative and unite the unity of the internal members;\n\n2. Provide assistance and protect the legitimate interests of members;\n3. Meditate disputes between members;\n4. Provide technical assistance and information regarding the production, trade,\nmarketing and service to its members;\n5. Participate in the discussion and provide its opinion on issues related to the\nactivities of the cooperative;\n6. Notify the sectors authorized to operate cooperatives, agriculture and forestry\nsectors regarding the increase or decrease of members, capital, shareholding and\nimportant content changes;\n7.  Be responsible for the debts of the cooperatives;\n8. Summarize and report the activities of the cooperative to the relevant sectors\nregularly;\n9. Perform other obligations as required by Laws and regulations.\n\nSECTION 4\nCOOPERATIVE MEMBERS"
+   }
+  },
+  {
+   "id": "LA-H485-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Article 30"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Conditions of membership\nCooperative membership shall meet the following conditions:\n1. Being voluntary to participate and holding at least one share;\n2. Not being an entity\n3. Being a Lao citizen of 18 years of age or older and not mentally ill;\n4. No more liabilities than assets;\n5. Other conditions as required by the bylaw of the cooperative."
+   }
+  },
+  {
+   "id": "LA-H485-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Article 31"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Rights and obligations of cooperative members\nCooperative members have the following rights:\n1. Participate in relevant activities of the cooperative as defined in the regulations of\ncooperatives;\n2. Receive dividends or other benefits according to the proportion of shares held;\n3. Be entitled to assistance and protection of their legitimate interest;\n4. Candidate for election to the board of director and inspection committee the\ncooperative;\n5. Propose the board of director to open the general meeting;\n6. Propose relevant sectors to consider solving any problem in case the cooperative\ndoes not sole or not being able to solve.\n7. Resign from membership by selling, giving, transferring all their shares;\n8. Use rights as defined in the Laws and bylaw of the cooperation.\n\nCooperative members have the following obligations:\n1. Participate in meetings, vote, propose and comment on various issues, including\nissues regarding the protection of their rights and interests;\n2. Maintain unity among members, maintain honor, business secrets and other\ninterests of cooperation;\n3. Be responsible for the debts of the cooperative equal to the number of shares that\nhave not been fully paid up;\n4. Examine the assets and financial accounts of cooperatives as defined in the\nregulations of the cooperative;\n\n5. Perform other obligations as defined in the Laws and bylaw\n6.  of the cooperative.\n\nSECTION 5\nCOOPERATIVE CAPITALS"
+   }
+  },
+  {
+   "id": "LA-H485-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Article 32"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Cooperative capital\nCooperative capital is the property used in the operation of cooperative activities which\nconsists of money and materials:\nCooperative capital come from:\n1. Contribution of members;\n2. Conducting the activities of the cooperative;\n3. Borrowing or assistance from various parties, both domestic and foreign;\n4. Legitimate income."
+   }
+  },
+  {
+   "id": "LA-H485-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Article 33"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Contribution of members\nCooperative members must contribute at least one share of capital of joining and can\ncontribute additional capital as agreed by the cooperative meeting, but the maximum shall not\nexceed twenty percent of the total shares of the cooperative."
+   }
+  },
+  {
+   "id": "LA-H485-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "Article 34"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Distribution of dividends\nNet profit after deducting into the treasury according to the regulations of the operative,\nshall be distributed to its members according to their shareholding.\nThe cooperative meetings are to decide on the distribution of dividends."
+   }
+  },
+  {
+   "id": "LA-H485-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "Article 35"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Benefits of proceeds from joint venture\nThe benefit from the operation of joint activities are proceeds from the contribution of\nmembers in the operation of the cooperative, which may be shared or used according to the\nagreement between the cooperative and the members, such as bringing their products to\ncooperative to sell in the name of cooperative or brings goods to sell to the cooperative."
+   }
+  },
+  {
+   "id": "LA-H485-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "Article 36"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Reserve and treasury\nA reserve is a fund set up to compensate for a loss from the operation of the cooperative\nwhich is deduction of at least five percent of the annual net profit as agreed by the cooperative\nmeeting. When the reserve fund has accumulated half of the registered capital of the\ncooperative, and it can suspend the deduction of money into the reserve fund.\nTreasury is fund create to accumulate earnings to be used for the business expansion,\ninfrastructure construction, technical assistance and investment, as well to repurchase shares\nfrom members at the time of resignation and is from the deduction of at least ten percent of the\nannul net profit as agreed by the cooperative meeting."
+   }
+  },
+  {
+   "id": "LA-H485-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "Article 37"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Accounting\nCooperatives must keep accounts and follow the system, maintain accurate and\ncomplete accounts as defined in the Law on accounting."
+   }
+  },
+  {
+   "id": "LA-H485-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "Article 38"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Inspection\nCooperatives can hire an independents auditor to audit the financial statements as\nagreed by the cooperative meetings or the request of the sectors authorized to carry out the\nactivities of the cooperative in case of necessity.\n\nSECTION 6\nMerger, Division and Dissolution of Cooperatives"
+   }
+  },
+  {
+   "id": "LA-H485-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "Article 39"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Merger of cooperatives\nA cooperative can merge with another cooperative or several cooperatives to become\na cooperative or create new cooperatives but they must have a resolution from the meeting of\nthe cooperative and no objective from any credits.\nIn order to become a cooperative, it is necessary to notify the sector that allows\ncooperative activities, the agriculture and forestry sector and the financial sector. For the\nconsolidate to establish a new cooperative must be established according to this Law.\nConsolidation in any case will not relieve the liability of individual cooperatives."
+   }
+  },
+  {
+   "id": "LA-H485-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "Article 40"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Division of cooperatives\nA cooperative may be divided into two or more cooperatives, subject to the resolution\nof the cooperative meeting and without objection of its creditors.\nSeparation of cooperatives shall be notified to the sectors authorized to operate the\ncooperatives, the agriculture and forestry sector and the financial sector for the old cooperation\nthat’s remain. For the part of separating a new cooperative it must be established according to\nthis Law.\nSeparation of the cooperative shall specify the assets and responsibilities or obligations\nof the old cooperative that agreed to separate."
+   }
+  },
+  {
+   "id": "LA-H485-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "Article 41"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Dissolution of cooperatives\nThe cooperatives will be dissolved in any of the following cases:\n1. Voluntary based on the resolution of the meeting of the cooperative;\n2. No activity within one year from the date of obtaining permission or do another\nactivity without authorized after being notified;\n3. The license to operate a cooperative or the registration of a cooperative has been\nrevoked;\n4. There is a court decision to dissolve or go bankrupt;\n5. To dissolve for any reason defined in the regulations of the cooperative.\nDissolved cooperatives must liquidate their assets and liabilities as stipulated in\nrelevant Laws and regulations.\nThe dissolutions of the cooperative must be notified to the agriculture and forestry\nsector and related within five working days.\n\nPART IV\nCOOPERATIVE PROMOTION POLICY"
+   }
+  },
+  {
+   "id": "LA-H485-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "Article 42"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Policy for the promotion of cooperatives\nThe policy for the promotion of cooperative is as follows:\n1. Establishment of enabling environments;\n2. State land use;\n\n3. Development of essential infrastructure;\n4. Access to finance;\n5. Tax and tariff incentives;\n6. Technical and consulting services;\n7. Use of technology and innovation;\n8. Market access and expansion;\n9. Use and protection of intellectual property;\n10. Additional policies as periodically determined by the state."
+   }
+  },
+  {
+   "id": "LA-H485-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "Article 43"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Creation of conducive environment\nThe relevant sectors, organizations and local government agencies are responsible for\ncreating an environment conducive to the establishment and activities of the cooperatives by\nestablishing and improving clear and comprehensive procedures, determining measures to\nresolve barriers and increasing efficiency, effectiveness and transparency of their\nadministration and services."
+   }
+  },
+  {
+   "id": "LA-H485-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "Article 44"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "State land use\nRelated sectors and organizations are responsible for coordinating with local\ngovernment agencies in researching and allocating State land designated as production areas\nand conservation areas for cooperatives to protect and use in the activities of cooperatives bit\nnot to change the land use objectives such as establishing offices, services areas, processing in\naccordance with the local land allocation plan and Law.\nThere will be a policy for agricultural and forestry cooperatives to use common land of\nthe village for agricultural and forestry production.\nAfter the end of use, the land must be returned to the State."
+   }
+  },
+  {
+   "id": "LA-H485-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "Article 45"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Provision of necessary infrastructure\nThe relevant, organizations and local administration are in charge of renovating,\nresearching, creating and providing necessary infrastructure in accordance socio-economic\ndevelopment plan in order to create favorable conditions and facilitate cooperatives to use them\nin business operations, production, such as roads, irrigation, electricity networks and\ntelecommunications."
+   }
+  },
+  {
+   "id": "LA-H485-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "Article 46"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Access to funding\nMinistry of Planning and Investment, Ministry of Finance, Bank of the Lao PDR,\nMinistry of Industry and Commerce, Ministry of Agriculture and Forestry and the relevant\nlocal administration agencies find sources of fund or create favorable conditions for\ncooperatives to have access to funding sources.\nThe Bank of Lao PDR encourages, promotes, and creates conditions for commercial\nbanks and financial institution to establish mechanisms, improve the credit structures and issue\nvarious type to financial products in improving credits, credit guarantees and financial leasing\nto ensure that cooperatives can access funding sources in general."
+   }
+  },
+  {
+   "id": "LA-H485-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "Article 47"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Policy on taxes and taxation\nThe State has a policy to promote taxes and taxation cooperative as follows:\n1. Get the policy of exempting fees and service charges for issuing cooperative\nregistration and license to operate cooperatives activities, as for renewing the\n\nlicense to operate cooperative activities, pay fees and service charges according to\nthe regulations;\n2. Get the policy to exempt profits tax from business activities for ten years for\nagriculture and forestry cooperative and handcrafts and processing cooperatives,\nthree years for saving and credit union, trade cooperatives and services\ncooperatives. After the end of the exemption period, profit tax will be paid as\nstipulated in the income tax Law;\n3. Gat a policy to exempt income tax from the dividends of cooperative members;\n4. Receive tax and other tax exemption policies as stipulated in the relevant Laws and\nregulations."
+   }
+  },
+  {
+   "id": "LA-H485-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "Article 48"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Technical and consulting service\nThe sector is authorized to carry out cooperative activities and is responsible for\nproviding technical services and counseling to cooperatives by establishing a unit to actively\nprovide technical services and counseling aimed at developing cooperatives to grow and\nstrengthen.\n Related sectors, organizations and local government agencies must create conditions\nand mechanisms for providing technical services and counseling to cooperatives according to\ntheir roles, as well as encourage and promote various parties to provide technical services and\ncounseling to cooperatives."
+   }
+  },
+  {
+   "id": "LA-H485-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "Article 49"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Use of technology and innovation\nThe State promotes cooperatives using technology and innovation as follows:\n1. Encouraging and promoting cooperatives to find and use technology and\ninnovation in the production of goods, trade and services of a higher quality as\nwell as being eco-friendly;\n2. Encourage and promote cooperatives in inventing and using innovation in design,\nproduction, marketing, administration, etc. to develop cooperative activities.\n3. Support funds for research and educational institutions to research in various\nfields for cooperatives to use;\n4. Provide funds in various forms for cooperatives to use in improving technology\nto be modern and suitable for cooperatives operations."
+   }
+  },
+  {
+   "id": "LA-H485-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "Article 50"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Market access and expansion\nSectors that are allowed to conduct cooperative activities coordinate with the industry\nand trade sectors, other sectors and related local government agencies to create conditions,\nfacilities and support cooperatives to access and expand the market by organizing product and\nservice exhibitions, product advertising, market study, introducing products and participating\nin product exhibitions both domestically and internationally, business matching and joint\ninvestment to expand the market.\nSectors, organizations, local governments and various parts must promote the use of\ncooperative products, create conditions and provide opportunities for cooperatives to provide\ngoods and services to their organizations."
+   }
+  },
+  {
+   "id": "LA-H485-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "Article 51"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Use and protection of intellectual property\nThe authorized sector to conduct cooperative activities coordinate with the industry and\ntrade sectors and other related parties to promote and create favorable conditions for\n\ncooperatives to innovate and create the intellectual economy as well as promote and facilitate\ncooperatives in registering, managing and protecting intellectual property rights."
+   }
+  },
+  {
+   "id": "LA-H485-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "Article 52"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Provision and access to information\nThe sector authorized to operate cooperatives is responsible for coordinating with\nrelevant sectors, organizations and local government agencies to create and develop an\ninformation system about cooperatives so that the cooperatives and society can have\nconvenient, timely and connected information systems of the Ministry of Agriculture and\nForestry.\nRelevant sectors, organizations and local government agencies must provide\ninformation related to production, trade, services and other information according to their roles\nto cooperatives in electronic format, hand book, magazines, brochures and other media.\nThe Ministry of Agriculture and Forestry is coordinating with the Ministry of\nEducation and Sports to conduce the curriculum on cooperatives."
+   }
+  },
+  {
+   "id": "LA-H485-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "Article 53"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Creating Initial capital for running activities\nThe State promotes the creations of primary factors in the operation of cooperatives by:\n1. Encourage relevant parties to make and create policies and legislation regarding the\nprimary creation of production, trade, services of cooperatives to reduce production\ncosts such as reducing electricity and water costs;\n2. Provide production inputs to agricultural and forestry cooperatives in the time of\ndisasters and epidemics such as fertilizers, plant varieties, animal breeds, pesticides,\nveterinary medicine;\n3. Assessment, monitoring and inspect relevant parties in the implementation of\npolicies, Laws, and regulations regarding the promotion of production inputs, trade,\nand service activities to ensure efficiency and effectiveness.\n\nPART V\nCOOPERATIVE FEDERATION"
+   }
+  },
+  {
+   "id": "LA-H485-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "Article 54"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Cooperative federation\nA cooperative federation is a social organization that combines cooperatives that are\nestablished without profit to cooperate and help each other in doing cooperative activities,\nbuild technical strength and protect the rights and legitimate interests of members on the basis\nof self ownership, self responsibility, and equal activity in the organization and management\nof the cooperative federation.\nCooperative federations have sources of income from maintenance fees, subsidies from\nthe government, money or assets that are supported by individuals, legal entities, organization,\nboth domestic and foreign, as well as other income.\nFor the establishment, registration and activity of the cooperative federation, follow the\nregulations on the association."
+   }
+  },
+  {
+   "id": "LA-H485-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "Article 55"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Rights and duties of cooperative federation.\nThe cooperative federation have the following rights and duties:\n1. Research and comment on the creation and improvement of Laws and regulations\non cooperatives;\n2. Disseminate Laws and regulations on cooperatives for their members to be widely\naware, to be unified in their implementation to be effective;\n\n3. Create and improve its organization to grow stronger, use modern science,\ntechniques and technology in its activities;\n4. Encourage cooperatives to become members, helping and promoting members in\ndoing business to grow, strengthen as well as supervise and protect the legitimate\nrights and interests of members based on the Law;\n5. To represent members in cooperative relations, to attend meetings, to offer\ncomments to the sector that allows to carry out cooperative activities;\n6. Monitor activities, give advice and resolve disputes of members;\n7. Provide information to its members about cooperative activities;\n8. Mobilize and receive support and funding donations from individuals, legal entities\nand organizations both domestically and internationally based on Laws and\nregulations;\n9. To cooperate and coordinate with relevant State agencies regarding cooperative\nactivities;\n10. Liaise and cooperate with foreign, regional and international organizations\nregarding their activities as assigned;\n11. Summarize and report their work activities to the authorized sector to conduct\ncooperative activities and the Ministry of Agriculture and Forestry on a regular\nbasis;\n12. Use rights and perform other duties as defined by the Law.\n\nPART VI\nCOOPERATIVE PROMOTION COMMITTEE"
+   }
+  },
+  {
+   "id": "LA-H485-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "Article 56"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Cooperative promotion committee\nThe cooperative promotion committee is a non-regular organization appointed by the\nPrime Minister upon the proposal of the Minister of Agriculture and Forestry, with the role of\nresearching, directing, encouraging and monitoring the implementation of cooperative\npromotion work by the Department of Agriculture and Cooperative promotion, Ministry of\nAgriculture and Forestry as the secretariat.\n\nThe cooperative promotion committee consists of:\n1. Minister of Agriculture and Forestry, as a chairman\n2. Deputy Minister of Agriculture and Forestry, as a vice president\n3. Deputy Minister of Industry and Trade, both as regulars\n4. Deputy Minister of Finance, a board\n5. Deputy Governor of Bank of the Lao PDR, a board\n6. Deputy Minister of Planning and Investment, a board\n7. Deputy Minister of Energy and Mines, a board\n8. Deputy Minister of Information, Culture and Tourism, a board\n9. Deputy Minister of Public Works and Transport, a board\n10. Deputy Minister of Health, a board\n11. Representing the Lao National Chamber of Commerce and Industry, a board\n12. President of the Cooperative Federation, a board\n13. Director of the Department of Agriculture Promotion and Cooperatives, a board and\nalso the head of the secretariat.\nFor provinces that have the conditions and are equipped in terms of personnel, they can\nestablish a committee for the promotion of cooperatives with the agreement of the governing\n\ncommittee at the provincial level as proposed by the department of agriculture and forestry at\nthe provincial level.\nThe organization and activities of the secretariat are defined in separate regulations."
+   }
+  },
+  {
+   "id": "LA-H485-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "Article 57"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Rights and duties of the cooperative promotion committee\nThe cooperation promotion committee has the following rights and duties:\n1. Provide and comment on guidelines and policies to promote cooperatives to be\nappropriate and consistent with economic and social conditions of the nation;\n2. Publicize policies, development plans and legislation on cooperative promotion\nactivities;\n3. Encourage ministries, organizations and local government agencies to take policies,\nplans, resolutions of the government to be plans, programs and detailed projects on\nthe work of promoting cooperatives to be integrated into the development plan of\ntheir sector;\n4. Monitor and inspect cooperative promotion activities of ministries, organizations\nand local government agencies;\n5. Summarize and report the cooperative promotion activities to the government\nperiodically;\n6. Use rights and perform other duties as defined by the Law.\n\nPART VII\nCOOPERATIVE PROMOTION FUND"
+   }
+  },
+  {
+   "id": "LA-H485-A58",
+   "no": 58,
+   "noLabel": {
+    "en": "Article 58"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Cooperative promotion fund\nThe cooperative Promotion Fund is State fund established to accumulate and raise\nfunds from various domestic and foreign sources with the aim of having sufficient funds to\nrespond to the promotion and development of cooperatives in a wide, continuous, efficient and\neffective manner under the management and monitoring of the Ministry of Agriculture and\nForestry.\nCooperative Promotion Fund abbreviated as “CPF”."
+   }
+  },
+  {
+   "id": "LA-H485-A59",
+   "no": 59,
+   "noLabel": {
+    "en": "Article 59"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Capital of cooperative promotion fund\nThe capital of the cooperative promotion fund comes from:\n1. State funding;\n2. Grants and loans from within or abroad;\n3. Contribution of the Cooperative;\n4. Voluntary contributions of individuals, legal entities or organizations;\n5. Income from fund management;\n6. Other legitimate income."
+   }
+  },
+  {
+   "id": "LA-H485-A60",
+   "no": 60,
+   "noLabel": {
+    "en": "Article 60"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Management and use of cooperative promotion funds\nThe management and use of cooperative promotion funds must be related to\ncooperative work, ensure transparency, and can be audited in accordance with the State budget\nLaw and other related Laws.\nFor the management and use of cooperative promotion funds are defined in separate\nregulations.\n\n\n\nPART VIII\nPROHIBITIONS"
+   }
+  },
+  {
+   "id": "LA-H485-A61",
+   "no": 61,
+   "noLabel": {
+    "en": "Article 61"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "General prohibitions\nIndividuals, legal entities and organizations are prohibited from engaging in any of\nthe following behaviors:\n1. Obstruct, impede, undermine or refuse to cooperate in cooperative activities;\n2. Abusing, claiming or use the name of the cooperative for illegal purpose;\n3. Forge, misrepresent information about oneself, a legal entity or other organization\nfor one’s own benefit which causes damage to individuals, legal entities or other\norganizations;\n4. Acting as a mediator in giving and receiving bribes or benefits;\n5. Interfering with the organization within the cooperatives;\n6. Establish and operate a cooperative without permission;\n7. Having other behavior that violates the Law."
+   }
+  },
+  {
+   "id": "LA-H485-A62",
+   "no": 62,
+   "noLabel": {
+    "en": "Article 62"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Prohibitions for cooperatives\nCooperatives are prohibited from engaging in the following behaviors:\n1. To carry out activities without proper authorization;\n2. Providing false and unclear information to officials or related officials;\n3. Forge, misrepresent about oneself, legal entity or other organizations for the benefit\nof the cooperative which causes damage to individuals, legal entities or\norganizations;\n4. Giving bribes or other benefits to civil servants and related officials;\n5. Have other behavior that violates the Law."
+   }
+  },
+  {
+   "id": "LA-H485-A63",
+   "no": 63,
+   "noLabel": {
+    "en": "Article 63"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Prohibitions for cooperative federation\nIt is forbidden for cooperative federation behave as follows:\n1. Carry out any business to seek profit;\n2. Make any conflict within the cooperative and the members of the cooperative;\n3. Movements that affect the stability, peace and orderliness of society, individual\nfreedom and good customs of the nation;\n4. Other behavior that violates the Law."
+   }
+  },
+  {
+   "id": "LA-H485-A64",
+   "no": 64,
+   "noLabel": {
+    "en": "Article 64"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Prohibitions for civil servants and related officials\nCivil servants and related officials are prohibited from engaging in any of the following\nbehaviors:\n1. Disclose confidential information of cooperatives and cooperative federations;\n2. Ask for a benefit, demanding or accepting bribes and other benefits from\ncooperatives and federations cooperative;\n3. Issue or dent the issuance of certificate and license to conduct cooperative\nactivities illegally in accordance with the relevant Laws and regulations.\n4. Force, delay, or creating difficulties for establishing and activities of cooperatives\nand cooperative federations;\n5. Other behavior that violates Laws.\n\n\n\n\n\nPART IX\nSUPERVISION AND INSPECTION OF COOPERATIVE OPERATION\nSECTION 1\nSUPERVISION OF COOPERATIVE"
+   }
+  },
+  {
+   "id": "LA-H485-A65",
+   "no": 65,
+   "noLabel": {
+    "en": "Article 65"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Supervision organization of cooperative\nThe government manages the work of cooperative in the centralized and unified\nmanner in the whole country by assigning the agriculture and forestry sector and the sector\nthat allow the operation of cooperatives to be directly responsible and coordinate with the\nrelevant sectors, organizations and local government agencies."
+   }
+  },
+  {
+   "id": "LA-H485-A66",
+   "no": 66,
+   "noLabel": {
+    "en": "Article 66"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Rights and duties of the agriculture and forestry sector\nThe agriculture and forestry sector has the following rights and duties within the\nscope of its responsibility:\n1. Find, formulate policies, Laws, strategic plans and regulations on cooperative to\npresent to the upper level for consideration;\n2. Expand policies, Laws, strategic plans and regulations regarding cooperative into\nplan, programs, projects and implementation;\n3. Publicize policies, Laws, strategic plans, regulations, plans, programs and projects\nrelate to cooperative activities;\n4. Issuing, suspending or revoking cooperative registration, license to operate\nagricultural and forestry cooperatives;\n5. Supervise, monitoring and evaluate the implementation of cooperative work in\ncoordination with the relevant sectors, organizations and local government\nagencies;\n6. Create a favorable environment and primary factors for the operation of activities\nfor agricultural and forestry cooperatives;\n7. Provide technical and consulting services, supply and access to the information;\n8. Promote research and use of technology and innovation in cooperatives operations,\ncreate conditions and facilitate cooperatives to access and expand the market\n9. Promote and create conditions for the groups to grow, become stronger and become\na cooperative;\n10.  Create, nurture and upgrade personal related to cooperative activities;\n11. Create, manage and use an information system about cooperatives;\n12. Receive, consider and resolve proposals of individuals, legal entities or\norganizations regarding to cooperative activities.\n13. Coordinate with the relevant sectors, organizations and local government agencies\nin the implementation of cooperative activities;\n14. Relations and cooperate with foreign countries, regional and international regarding\ncooperative activities;\n15. Summarize and report the implementation of cooperative work to the upper level\non a regular basis;\n16. Use rights and perform other duties as defined by the Law."
+   }
+  },
+  {
+   "id": "LA-H485-A67",
+   "no": 67,
+   "noLabel": {
+    "en": "Article 67"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Rights and duties of the sectors authorized to conduct cooperative activities\nIn supervision cooperative affairs, the sector authorized to conduct cooperative affairs\nhas rights and duties according to the scope of it responsibility as follows:\n\n1. Find and create policies, Laws, strategic plans and regulations regarding\ncooperative work to present to the upper level for considerations;\n2. Expand policies, Laws, strategic plans and regulations regarding cooperative\noperation into plans, programs, projects and implementation;\n3. Publicize policies, Laws, strategic plans, regulations, plans, programs and projects\nrelated to cooperative operation;\n4. Issuing, suspending or revoking a license to operate a cooperative;\n5. Supervise, monitoring, and evaluate the implementation of cooperative activities\nin coordination with the agricultural and forestry sector, relevant local government\nagencies and organizations;\n6. Create a favorable environment and create primary factors in the operation of\ncooperatives;\n7. Provide technical and consulting services, supply and access to information;\n8. Promote research and use of technology and innovation in cooperative operations;\n9. Create, nurture and upgrade personal related to cooperative activities;\n10. Create, manage and use an information system about cooperatives;\n11. Receive, consider and resolve proposals from individuals, legal entities or\norganizations regarding of cooperative activities;\n12. Coordinate with related sectors, organizations and local government agencies in\nthe implementation of cooperative activities;\n13. Interact and cooperate with foreign, regional and international cooperatives;\n14. Summarize and report the implementation of cooperative work to the upper level\nand agricultural and forestry sector regularly;\n15. Use rights and perform other duties as defined by Laws."
+   }
+  },
+  {
+   "id": "LA-H485-A68",
+   "no": 68,
+   "noLabel": {
+    "en": "Article 68"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Rights and duties of sectors, organizations, and local government agencies and\nother related parties\nSectors, organizations, local government agencies and other relevant parties have the\nright and duty to coordinate and cooperate with the agriculture and forestry sector, the sector\nauthorized to conduct cooperative activities in the management of cooperative activities\naccording to their roles and responsibilities.\n\nSECTION 2\nINSPECTION OF COOPERATIVE OPERATION"
+   }
+  },
+  {
+   "id": "LA-H485-A69",
+   "no": 69,
+   "noLabel": {
+    "en": "Article 69"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Inspection agencies\nThe cooperative inspection agencies consist of:\n1. Internal inspection organizations which is the same organizations as the cooperative\nwork management organization as defined in Articles 65 of this Law;\n2. External inspection organizations which are the National Assembly, Provincial\nPeople’s Councils, State Inspection organizations at each level, State Audit\nOrganizations, Lao Front for National Development, Lao Veterans Federation,\nMass organization, Social organizations and people."
+   }
+  },
+  {
+   "id": "LA-H485-A70",
+   "no": 70,
+   "noLabel": {
+    "en": "Article 70"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Content of inspection\nInspection of cooperative operation has the following content:\n1. Implementation of policies, Laws, strategic plans and regulations regarding to\ncooperative work;\n\n2. Performance of the duties of civil servants and officials in charge of cooperative\nwork;\n3. Performance of the duties of the cooperative board of directors, inspection\ncommittee, manager, units and employees of the cooperatives;\n4. Creation and implementation of cooperative work plans;\n5. Other content deemed necessary."
+   }
+  },
+  {
+   "id": "LA-H485-A71",
+   "no": 71,
+   "noLabel": {
+    "en": "Article 71"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Forms of inspection\nInspection of cooperative operation has three Forms as follows:\n1. Regular inspection which is an inspection carried out according to a plan on a\nregular basis and with a certain deadline;\n2. Inspection by notifying in advance, which is an unplanned inspection when deemed\nnecessary by notifying the target to be inspected in advance;\n3. A sudden inspection, which is an urgent inspection without giving the target\nadvance notification;\nIn the inspection of cooperative operation, strictly follow the Laws.\n\nPART X\nDATE OF ESTABLISHMENT, MARKS, SIGNS AND SEALS"
+   }
+  },
+  {
+   "id": "LA-H485-A72",
+   "no": 72,
+   "noLabel": {
+    "en": "Article 72"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Cooperative establishment day\nCooperative was founded in May 11, 1978.\nCooperatives, related sectors, local government organizations celebrate the cooperative\nday by organizing activities according to the conditions and actual capabilities."
+   }
+  },
+  {
+   "id": "LA-H485-A73",
+   "no": 73,
+   "noLabel": {
+    "en": "Article 73"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Marks, signs and seals of cooperatives\nCooperatives have their own marks and signs to be use in their activities, which have\nbeen approved by the Ministry of Agriculture and Forestry.\nThe cooperative has its own seal to be used in official activities according to the\nregulations.\n\nPART XI\nAWARDS AND SANCTIONS"
+   }
+  },
+  {
+   "id": "LA-H485-A74",
+   "no": 74,
+   "noLabel": {
+    "en": "Article 74"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Awards\n\nAn individual, legal entity or organizations with outstanding performance according to this\nLaw in the supervision, monitoring and inspection of cooperative shall receive the appropriate\nawards and benefits, in accordance with regulation."
+   }
+  },
+  {
+   "id": "LA-H485-A75",
+   "no": 75,
+   "noLabel": {
+    "en": "Article 75"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Sanctions\nAn individual, legal entity or organization that violate this Law shall be sanctioned in the\nform of education, warning, disciplining, fining, providing compensation for civil damage, or\ncriminally punished, as provided in Law.\n\n\n\n\n\n\nPART XII\nFINAL PROVISIONS"
+   }
+  },
+  {
+   "id": "LA-H485-A76",
+   "no": 76,
+   "noLabel": {
+    "en": "Article 76"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Implementation\nThe Government of the Lao People's Democratic republic is responsible for the\nimplementer of this Law."
+   }
+  },
+  {
+   "id": "LA-H485-A77",
+   "no": 77,
+   "noLabel": {
+    "en": "Article 77"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Effectiveness\n\nThis Law enters into force from September 1 2024 after the President of State of the Lao\nPeople’s Democratic Republic issues the Presidential Decree for its promulgation, and after\npublishing in the official gazette.\n\nAny cooperatives that established prior to this Law must notify the agriculture and forestry\nsector of the cooperative registration if they intend to receive a cooperative promotion policy as\ndefined in this Law, to submit a proposal to the sector that issued permission to operate cooperative\nactivities and related sectors to consider and notify the requester within one hundred and twenty\ndays.\nPresident of the National Assembly\n\n\nXaysomphone Phomvihane"
+   }
+  }
+ ]
+}

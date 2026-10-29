@@ -1,14 +1,18 @@
 {
  "id": "MY-H069",
  "title": {
-  "zh": "著作权法",
-  "en": null,
-  "orig": null
+  "zh": "著作权法 1987",
+  "en": "Copyright Act 1987",
+  "orig": "Copyright Act 1987",
+  "vi": "Luật Quyền tác giả 1987",
+  "th": "พระราชบัญญัติลิขสิทธิ์ 1987",
+  "id": "Undang-Undang tentang Hak Cipta 1987",
+  "ms": "Akta Hak Cipta 1987"
  },
  "country": "MY",
  "countryName": "马来西亚",
  "layer": "intl",
- "pack": "my-p03",
+ "pack": "my-2",
  "language": "zh",
  "level": "law",
  "category": null,

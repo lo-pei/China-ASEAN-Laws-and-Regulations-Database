@@ -1,0 +1,102 @@
+{
+ "id": "TH-H1292",
+ "title": {
+  "zh": "精神卫生司承接原卫生部精神卫生研究所职权与行政事务法（佛历2537年／公历1994年）",
+  "en": "Transfer of Powers, Duties and Administrative Affairs of the Institute of Mental Health, Ministry of Public Health, to the Department of Mental Health Act, B.E. 2537 (1994)",
+  "th": "พระราชบัญญัติโอนอำนาจหน้าที่และกิจการบริหารของสถาบันสุขภาพจิต กระทรวงสาธารณสุข ไปเป็นของกรมสุขภาพจิต กระทรวงสาธารณสุข พ.ศ. 2537",
+  "orig": "พระราชบัญญัติโอนอำนาจหน้าที่และกิจการบริหารของสถาบันสุขภาพจิต กระทรวงสาธารณสุข ไปเป็นของกรมสุขภาพจิต กระทรวงสาธารณสุข พ.ศ. 2537",
+  "vi": "Luật Chuyển giao quyền hạn, nhiệm vụ và công việc hành chính của Viện Sức khỏe Tâm thần, Bộ Y tế, sang Cục Sức khỏe Tâm thần năm 1994",
+  "id": "Undang-Undang Pengalihan Wewenang, Tugas dan Urusan Administrasi Institut Kesehatan Jiwa, Kementerian Kesehatan, kepada Direktorat Jenderal Kesehatan Jiwa Tahun 1994",
+  "ms": "Akta Pemindahan Kuasa, Tugas dan Urusan Pentadbiran Institut Kesihatan Mental, Kementerian Kesihatan, kepada Jabatan Kesihatan Mental 1994"
+ },
+ "country": "TH",
+ "countryName": "泰国",
+ "layer": "intl",
+ "pack": "th-p10",
+ "language": "th",
+ "level": "law",
+ "category": "04_劳工与行政法",
+ "status": "active",
+ "promulgatedDate": "1994",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "อน009",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 5,
+ "chars": 1222,
+ "source": {
+  "name": "泰国法律数据库（law.go.th）",
+  "url": "https://law.go.th/DetailLawPage?table_of_law_id=8608"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\TH\\04_劳工与行政法\\1994_อน009_พระราชบัญญัติโอนอำนาจหน้าที่และกิจการบริหารของสถาบันสุขภาพจิต กระทรวงสาธารณสุข ไปเป็นของกรมสุขภาพจิต กระทรวงส.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 5 条；逐字未改写（源自 TH）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "TH-H1292-A1",
+   "no": 1,
+   "noLabel": {
+    "th": "มาตรา 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "th": "มาตรา ๑ พระราชบัญญัตินี้เรียกว่า “พระราชบัญญัติโอนอำนาจหน้าที่และกิจการบริหารของสถาบันสุขภาพจิต กระทรวงสาธารณสุข ไปเป็นของกรมสุขภาพจิต กระทรวงสาธารณสุข พ.ศ. ๒๕๓๗”"
+   }
+  },
+  {
+   "id": "TH-H1292-A2",
+   "no": 2,
+   "noLabel": {
+    "th": "มาตรา 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "th": "มาตรา ๒ พระราชบัญญัตินี้ให้ใช้บังคับตั้งแต่วันถัดจากวันประกาศในราชกิจจานุเบกษาเป็นต้นไป"
+   }
+  },
+  {
+   "id": "TH-H1292-A3",
+   "no": 3,
+   "noLabel": {
+    "th": "มาตรา 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "th": "มาตรา ๓ ให้โอนบรรดาอำนาจหน้าที่ที่เกี่ยวกับราชการของสถาบันสุขภาพจิต กระทรวงสาธารณสุข และบรรดาอำนาจหน้าที่ของเจ้าหน้าที่สถาบันสุขภาพจิต กระทรวงสาธารณสุข ไปเป็นของกรมสุขภาพจิต กระทรวงสาธารณสุข หรือของเจ้าหน้าที่กรมสุขภาพจิต กระทรวงสาธารณสุข แล้วแต่กรณี"
+   }
+  },
+  {
+   "id": "TH-H1292-A4",
+   "no": 4,
+   "noLabel": {
+    "th": "มาตรา 4"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "th": "มาตรา ๔ ให้โอนบรรดากิจการ ทรัพย์สิน หนี้ ข้าราชการ ลูกจ้างและเงินงบประมาณของสถาบันสุขภาพจิต กระทรวงสาธารณสุข ไปเป็นของกรมสุขภาพจิต กระทรวงสาธารณสุข"
+   }
+  },
+  {
+   "id": "TH-H1292-A5",
+   "no": 5,
+   "noLabel": {
+    "th": "มาตรา 5"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "th": "มาตรา ๕ ให้รัฐมนตรีว่าการกระทรวงสาธารณสุขรักษาการตามพระราชบัญญัตินี้\n\nผู้รับสนองพระบรมราชโองการ\nผู้รับสนองพระบรมราชโองการ ชวน หลีกภัย นายกรัฐมนตรี\n\nหมายเหตุ\nหมายเหตุ :- เหตุผลในการประกาศใช้พระราชบัญญัติฉบับนี้ คือ โดยที่ได้มีพระราชบัญญัติปรับปรุงกระทรวง ทบวง กรม (ฉบับที่ ๑๐) พ.ศ. ๒๕๓๗ แก้ไขเพิ่มเติมการมีส่วนราชการของกระทรวงสาธารณสุขโดยเปลี่ยนชื่อสถาบันสุขภาพจิตเป็นกรมสุขภาพจิต ในการนี้ สมควรโอนบรรดาอำนาจหน้าที่ กิจการ ทรัพย์สิน หนี้ ข้าราชการ\nลูกจ้างและเงินงบประมาณของสถาบันสุขภาพจิต กระทรวงสาธารณสุข ไปเป็นของกรมสุขภาพจิต กระทรวงสาธารณสุข จึงจำเป็นต้องตราพระราชบัญญัตินี้"
+   }
+  }
+ ]
+}

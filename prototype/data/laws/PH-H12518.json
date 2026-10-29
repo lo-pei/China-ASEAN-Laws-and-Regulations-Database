@@ -1,0 +1,82 @@
+{
+ "id": "PH-H12518",
+ "title": {
+  "zh": null,
+  "en": "AN ACT APPROPRIATING THE SUM OF ONE HUNDRED THOUSAND PESOS FROM INSULAR FUNDS FOR THE RELIEF OF SUFFERERS FROM PUBLIC CALAMITIES.",
+  "orig": "AN ACT APPROPRIATING THE SUM OF ONE HUNDRED THOUSAND PESOS FROM INSULAR FUNDS FOR THE RELIEF OF SUFFERERS FROM PUBLIC CALAMITIES."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 1809",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 1373,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_01809_1908_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_01809_1908_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12518-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The sum of one hundred thousand pesos, Philippine currency, is hereby appropriated, from any\nfunds in life Insular Treasury not otherwise appropriated, to be expended in the manner hereinafter provided\nand to be available until expended."
+   }
+  },
+  {
+   "id": "PH-H12518-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "A joint committee is hereby created, composed of not to exceed seven members of the Philippine\nCommission, to be pointed by the President thereof, and seven members of the Philippine Assembly, to be\nappointed by the Speaker thereof, which committee shall have power and authority to consider all petitions\nfor the relief of sufferers from general conflagrations, typhoons, floods, earthquakes, famine, pestilence,\nepidemics, and other disasters which amount to public calamities. Said joint committee shall, out of the\nappropriation provided for in section one of this Act, make the award and determine the sum which it may\ndeem necessary for the temporary relief of sufferers from said disasters, and may expend such sum for such\nrelief or may authorize the sum."
+   }
+  },
+  {
+   "id": "PH-H12518-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "All petitions for relief received by the Governor-General Commission of or by the Speaker of the\nAssembly, and all other petitions received further relief of sufferers from public calamities, shall be\nimmidiately transmitted to the joint committee for which provision is made in section two of this Act."
+   }
+  },
+  {
+   "id": "PH-H12518-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, February 11, 1908."
+   }
+  }
+ ]
+}

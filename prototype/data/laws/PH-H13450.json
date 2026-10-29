@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13450",
+ "title": {
+  "zh": null,
+  "en": "An Act Authorizing the Heirs or Representatives of the Late Agustin De La Pena to Bring Suit Against the Government of the Philippine Islands, and Directing the Attorney General to Appear in Said Suit on the Behalf of the Said Government.",
+  "orig": "An Act Authorizing the Heirs or Representatives of the Late Agustin De La Pena to Bring Suit Against the Government of the Philippine Islands, and Directing the Attorney General to Appear in Said Suit on the Behalf of the Said Government."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1919-02-28",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2802",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 763,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1919/act_2802_1919.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02802_1919_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02802_1919_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13450-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The heirs or legal representatives of the late Agustin de la Pena are hereby authorized to bring\nsuit against the Government of the Philippine Islands, in the Court of First Instance of Manila or Iloilo, within\nsix months from and after the approval of this Act, to determine their right, if any, to any portion of the funds\ndeposited in the Insular Treasury in nineteen hundred and one by the military authorities of the United States,\nas funds seized from the insurgent forces, and the Attorney General is authorized and directed to appear at\nsaid trial, either himself or through a delegate, on the behalf of the Government of the Philippine Islands to\ndefend said Government at the same."
+   }
+  },
+  {
+   "id": "PH-H13450-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, February 28, 1919."
+   }
+  }
+ ]
+}

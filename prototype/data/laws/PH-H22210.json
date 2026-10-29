@@ -1,0 +1,62 @@
+{
+ "id": "PH-H22210",
+ "title": {
+  "zh": null,
+  "en": "Appropriating Funds for the Payment of the Remaining Balance of the Unpaid Subscription of the Government to the Capital Stock of the Development Bank of the Philippines",
+  "orig": "Appropriating Funds for the Payment of the Remaining Balance of the Unpaid Subscription of the Government to the Capital Stock of the Development Bank of the Philippines"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1975-10-17",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 811",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 933,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_00811_1975_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_00811_1975_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22210-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The following provision is hereby inserted as letter (e) under Section 3 of R.A. 2081, as\n\"(e) Whatever remaining balance of the unpaid subscription of the Government to the capital stock of the\nBank shall be paid out of any funds in the National Treasury not otherwise appropriated, be they collections\nfrom any or all taxes accruing to the general fund or proceeds from loans, the issuance of bonds, treasury bills\nor notes, which are hereby authorized to be incurred or to be issued by the Secretary of Finance for the\npurpose, such amount to be programmed and released in accordance with the following schedule:\nP400 million in FY 1975-76\nP350 million in FY 1976-77\nP150 million in FY 1977-78\nP100 million in FY 1978-79\nP100 million in FY 1979-80\nP100 million in FY 1980-81"
+   }
+  },
+  {
+   "id": "PH-H22210-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Decree shall take effect immediately.\nDONE in the City of Manila, this 17th day of October, in the year of Our Lord, Nineteen Hundred and\nSeventy-Five."
+   }
+  }
+ ]
+}

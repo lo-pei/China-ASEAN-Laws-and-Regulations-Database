@@ -1,0 +1,62 @@
+{
+ "id": "PH-H22579",
+ "title": {
+  "zh": null,
+  "en": "Amending Section 6 of Presidential Decree No. 1187 Entitled, \"Providing for a General Registration of All Qualified Voters Throughout the Philippines",
+  "orig": "Amending Section 6 of Presidential Decree No. 1187 Entitled, \"Providing for a General Registration of All Qualified Voters Throughout the Philippines"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1977-10-19",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 1223",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1282,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_01223_1977_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_01223_1977_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22579-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Amending Sec. 6 of Presidential Decree No. 1187.Sec. 6 of Presidential Decree No. 1187 is\nhereby amended to read as follows:\n\"Sec. 6. Appointment of registration committee. The Commission shall directly or through its duly authorized\nrepresentatives, appoint at least ten days before the registration day a citizens' registration committee for each\nvoting center to be composed of a chairman, a poll clerk, and a third member. The Chairman and the poll clerk\nshall be public school teachers. The third member shall be a member of the barangay council, the Buklod ng\nmga Kabataang Kawani, the official of the Kabataang Barangay or a government official or employee covered\nby the Letter of Instructions No. 559, dated June 23, 1977.\n\"The Commission on Elections shall, after due consultation with the Department, agency, or organization\nconcerned, prescribe the procedure to facilitate the appointment of any member of the Barangay Council or\nthe Buklod ng mga Kabataang Kawani, or officials of the Kabataang Barangay, or of any government official\nor employee, as member of any citizens' registration committee.\""
+   }
+  },
+  {
+   "id": "PH-H22579-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Effectivity. This Decree shall take effect immediately.\nDONE in the City of Manila, this 19th day of October, in the year of Our Lord, nineteen hundred and\nseventy-seven."
+   }
+  }
+ ]
+}

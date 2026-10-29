@@ -1,0 +1,630 @@
+{
+ "id": "ID-H630",
+ "title": {
+  "zh": "住房与住区法",
+  "en": "Law on Housing and Settlements",
+  "id": "PERUMAHAN DAN PERMUKIMAN",
+  "orig": "PERUMAHAN DAN PERMUKIMAN",
+  "vi": "Luật về Nhà ở và Khu định cư",
+  "th": "พระราชบัญญัติว่าด้วยที่อยู่อาศัยและการตั้งถิ่นฐาน",
+  "ms": "Akta tentang Perumahan dan Petempatan"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02a",
+ "language": "id",
+ "level": "law",
+ "category": "02_民商事与经济法",
+ "status": "active",
+ "promulgatedDate": "1992",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU4-1992",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 42,
+ "chars": 59648,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU_NO_4_TH_1992.pdf&fl=P00924"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\02_民商事与经济法\\印尼_文本_1992_PERUMAHAN DAN PERMUKIMAN.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 42 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H630-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\n\nDalam Undang-undang ini yang dimaksud dengan:\n1. Rumah adalah bangunan yang berfungsi sebagai tempat tinggal atau\nhunian dan sarana pembinaan keluarga;\n2. Perumahan adalah kelompok rumah yang berfungsi sebagai\nlingkungan tempat tinggal atau lingkungan hunian yang dilengkapi\ndengan prasarana dan sarana lingkungan;\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n3. Permukiman adalah bagian dari lingkungan hidup di luar kawasan\nlindung, baik yang berupa kawasan perkotaan maupun perdesaan\nyang berfungsi sebagai lingkungan tempat tinggal atau lingkungan\nhunian dan tempat kegiatan yang mendukung perikehidupan dan\npenghidupan;\n4. Satuan lingkungan permukiman adalah kawasan perumahan dalam\nberbagai bentuk dan ukuran dengan penataan tanah dan ruang,\nprasarana dan sarana lingkungan yang terstruktur;\n5. Prasarana lingkungan adalah ke lengkapan dasar fisik lingkungan\nyang memungkinkan lingkungan permukiman dapat berfungsi\nsebagaimana mestinya;\n6. Sarana lingkungan adalah fasili tas penunjang, yang berfungsi untuk\npenyelenggaraan dan pengembangan kehidupan ekonomi, sosial dan\nbudaya;\n7. Utilitas umum adalah sarana penunjang untuk pelayanan\nlingkungan;\n8. Kawasan siap bangun adalah sebidang tanah yang fisiknya telah\ndipersiapkan untuk pembangunan perumahan dan permukiman skala\nbesar yang terbagi dalam satu lingkungan siap bangun atau lebih\nyang pelaksanaannya dilakukan secara bertahap dengan lebih\ndahulu dilengkapi dengan jaringan  primer dan sekunder prasarana\nlingkungan sesuai dengan rencana tata ruang lingkungan yang\nditetapkan oleh Pemerintah Daerah Tingkat II dan memenuhi\npersyaratan pembakuan pelayanan prasrana dan sarana lingkungan,\nkhusus untuk Daerah Khusus Ibukota Jakarta rencana tata ruang\nlingkungannya ditetapkan oleh Pemerintah Daerah Khusus lbukota\nJakarta;\n9. Lingkungan siap bangun adalah sebidang tanah yang merupakan\nbagian dari kawasan siap bangun ataupun berdiri sendiri yang telah\ndipersiapkan dan dilengkapi dengan prasarana lingkungan dan selain\nitu juga sesuai dengan persyaratan pembakuan tata lingkungan\ntempat tinggal atau lingkungan hunian dan pelayanan lingkungan\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nuntuk membangun kaveling tanah matang;\n10.Kaveling tanah matang adalah sebidang tanah yang telah\ndipersiapkan sesuai dengan persyaratan pembakuan dalam\npenggunaan, penguasaan, pemilikan tanah, dan rencana tata ruang\nlingkungan tempat tinggal atau lingkungan hunian untuk\nmembangun bangunan; 11. Konsolidasi tanah permukiman adalah\nupaya penataan kembali penguasaan, penggunaan, dan pemilikan\ntanah oleh masyarakat pemilik tanah melalui usaha bersama untuk\nmembangun lingkungan siap bangun dan menyediakan kaveling\ntanah matang  sesuai dengan rencana tata ruang yang ditetapkan\nPemerintah Daerah Tingkat II, khus us untuk Daerah Khusus Ibukota\nJakarta rencana tata ruangnya ditetapkan oleh Pemerintah Daerah\nKhusus Ibukota Jakarta."
+   }
+  },
+  {
+   "id": "ID-H630-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\n\n(1) Lingkup pengaturan Undang-undang ini meliputi penataan dan\npengelolaan perumahan dan permukiman, baik di daerah\nperkotaan maupun di daerah perdesaan, yang dilaksanakan\nsecara terpadu dan terkoordinasi.\n(2) Lingkup pengaturan sebagaimana dimaksud dalam ayat (1) yang\nmenyangkut penataan perumahan meliputi kegiatan\npembangunan baru, pemugaran, perbaikan, perluasan,\npemeliharaan, dan pemanfaatannya, sedangkan yang\nmenyangkut penataan permukiman meliputi kegiatan\npembangunan baru, perbaikan, peremajaan, perluasan,\npemeliharaan, dan pemanfaatannya.\n\n\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nBAB II\nASAS DAN TUJUAN"
+   }
+  },
+  {
+   "id": "ID-H630-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\n\nPenataan perumahan dan permukiman berlandaskan pada asas\nmanfaat, adil dan merata, kebersamaan dan kekeluargaan,\nkepercayaan pada diri sendiri, keterjangkauan, dan kelestarian\nlingkungan hidup."
+   }
+  },
+  {
+   "id": "ID-H630-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\n\nPenataan perumahan dan permukiman bertujuan Untuk:\na. memenuh ikebutuhan rumah sebagai salah satu kebutuhan dasar\nmanusia, dalam rangka peningkatan dan pemerataan kesejahteraan\nrakyat;\nb. memwujudkan perumahan dan permukiman yang layak dalam\nlingkungan yang sehat, aman, serasi, dan teratur;\nc. memberi arah pada pertumbuhan wilayah dan persebaran penduduk\nyang rasional;\nd. menunjang pembangunan di bidang  ekonomi, sosial , budaya, dan\nbidang-bidang lain.\n\nBAB III\nPERUMAHAN"
+   }
+  },
+  {
+   "id": "ID-H630-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\n\n(1) Setiap warganegara mempunyai hak untuk menempati dan/atau\nmenikmati dan/atau memiliki rumah yang layak dalam\nlingkungan yang sehat, aman, serasi, dan teratur.\n(2) Setiap warga negara mempunyai kewajiban dan tanggung jawab\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nuntuk berperanserta dalam pembangunan perumahan dan\npermukiman."
+   }
+  },
+  {
+   "id": "ID-H630-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\n\n(1) Kegiatan pembangunan rumah atau perumahan dilakukan oleh\npemilik hak atas tanah sesuai dengan peraturan\nperundang-undangan yang berlaku.\n(2) Pembangunan rumah atau perumahan oleh bukan pemilik hak\natas tanah dapat dilakukan atas persetujuan dari pemilik hak\natas tanah dengan suatu perjanjian tertulis."
+   }
+  },
+  {
+   "id": "ID-H630-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\n\n(1) Setiap orang atau badan yang membangun rumah atau\nperumahan wajib:\n a. mengikuti persyaratan teknis, ekologis, dan administratif;\n b. melakukan pemantauan lingkungan yang terkena dampak\nberdasarkan rencana pcmantauan lingkungan;\n c. melakukan pengelolaan lingkungan berdasarkan    rencana\npengelolaan lingkungan.\n\n(2) Pelaksanaan ketentuan sebagaimana dimaksud dalam ayat (1),\ndiatur dengan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H630-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n\nSetiap pemilik rumah atau yang dikuasakannya wajib:\na. memanfaatkan rumah sebagaimana mestinya sesuai dengan\nfungsinya sebagai tempat tinggal atau hunian;\nb. mengelola dan memelihara rumah sebagaimana mestinya.\n\n\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H630-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n\nPemerintah dan badan-badan sosial atau keagamaan dapat\nmenyelenggarakan pembangunan perumahan untuk memenuhi\nkebutuhan khusus dengan tetap memperhatikan ketentuan\nUndang-undang ini."
+   }
+  },
+  {
+   "id": "ID-H630-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\n\nPenghunian, pengelolaan dan pengalihan status dan hak atas rumah\nyang dikuasai Negara diatur dengan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H630-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\n\n (1) Pemerintah melakukan pendataan rumah untuk menyusun\nkebijaksanaan di bidang perumahan dan permukiman.\n(2) Tata cara pendataan rumah sebagaimana dimaksud dalam ayat\n(1) diatur dengan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H630-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n\n(1) Penghunian rumah oleh bukan pemilik hanya sah apabila ada\npersetujuan atau izin pemilik.\n(2) Penghunian sebagaimana dimaksud dalam ayat (1), dilakukan\nbaik dengan cara sewa-menyewa maupun dengan cara bukan\nsewa-menyewa.\n(3) Penghunian rumah sebagaimana di maksud dalam ayat (2) dengan\ncara sewa-menyewa dilakukan dengan perjanjian tertulis,\nsedangkan penghunian rumah dengan cara bukan sewa-menyewa\ndapat dilakukan dengan perjanjian tertulis.\n(4) Pihak penyewa wajib menaati berakhirnya batas waktu sesuai\ndengan perjanjian tertulis.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n(5) Dalam hal penyewa sebagaimana dimaksud dalam ayat (4) tidak\nbersedia meninggalkan rumah yang disewa sesuai dengan batas\nwaktu yang disepakati dalam perjanjian tertulis, penghunian\ndinyatakan tidak sah atau tanpa hak dan pemilik rumah dapat\nmeminta bantuan instansi Pemerintah yang berwenang untuk\nmenertibkannya.\n(6) Sewa-menyewa rumah dengan perjanjian tidak tertulis atau\ntertulis tanpa batas waktu yang telah berlangsung sebelum\nberlakunya Undang-undang ini dinyatakan telah berakhir dalam\nwaktu 3 (tiga) tahun setelah berlakunya Undang-undang ini.\n(7) Pelaksanaan ketentuan sebagaimana dimaksud dalam ayat (1),\nayat (2),ayat (3), ayat (4), ayat (5), dan ayat (6), diatur dengan\nPeraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H630-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\n\n(1) Pemerintah mengendalikan harga sewa rumah yang dibangun\ndengan memperoleh kemudahan dari Pemerintah.\n(2) Pelaksanaan ketentuan sebagaimana dimaksud dalam ayat (1)\ndiatur dengan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H630-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\n\nSengketa yang berkaitan dengan pemilikan dan pemanfaatan rumah\ndiselesaikan melalui badan peradilan sesuai dengan ketentuan\nperaturan perundang-undangan yang berlaku."
+   }
+  },
+  {
+   "id": "ID-H630-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\n\n(1) Pemilikan rumah dapat dijadikan jaminan utang.\n(2) a. Pembebanan fidusia atas ru mah dilakukan dengan akta otentik\nyang dibuat oleh notaris sesuai dengan peraturan\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nperundang-undangan yang berlaku.\n  b. Pembebanan hipotek atas rumah beserta tanah yang haknya\ndimiliki pihak yang sama dilakukan dengan akta\nPejabatPembuat Akta Tanah sesuai dengan peraturan\nperundang-undangan yang berlaku."
+   }
+  },
+  {
+   "id": "ID-H630-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\n\n(1) Pemilikan rumah dapat beralih dan dialihkan dengan cara\npewarisan atau dengan cara pemindahan hak lainnya sesuai\ndengan ketentuan peraturan perundang-undangan yang berlaku.\n(2) Pemindahan pemilikan rumah sebagaimana dimaksud dalam ayat\n(1) dilakukan dengan akta otentik."
+   }
+  },
+  {
+   "id": "ID-H630-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\n\nPeralihan hak milik atas satuan rumah susun dilakukan sesuai dengan\nperaturan perundang-undangan yang berlaku.\n\n\nBAB IV\nPERMUKIMAN"
+   }
+  },
+  {
+   "id": "ID-H630-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\n\n(1) Pemenuhan kebutuhan permukiman diwujudkan melalui\npembangunan kawasan permukiman skala besar yang terencana\nsecara menyeluruh dan terpadu dengan pelaksanaan yang\nbertahap.\n(2) Pembangunan kawasan permukiman sebagaimana dimaksud\ndalam ayat (1) ditujukan untuk:\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n a. menciptakan kawasan permukiman yang tersusun atas\nsatuan-satuan lingkungan permukiman;\n b. mengintegrasikan secara terpadu dan meningkatkan kualitas\nlingkungan perumahan yang telah    ada di dalam atau di\nsekitarnya.\n(3) Satuan-satuan lingkungan permukiman satu dengan yang lain\nsaling dihubungkan oleh jaringan transportasi sesuai dengan\nkebutuhan dengan kawasan lain yang memberikan berbagai\npelayanan dan kesempatan kerja.\n(4) Pelaksanaan ketentuan sebagaimana dimaksud dalam ayat (1),\nayat (2),ayat (3) dilaksanakan se suai dengan rencana tata ruang\nwilayah perkotaan dan rencana tata ruang wilayah bukan\nperkotaan."
+   }
+  },
+  {
+   "id": "ID-H630-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\n\n(1) Untuk mewujudkan kawasan permukiman sebagaimana dimaksud\ndalam Pasal 18, pcmerintah daerah menetapkan satu bagian atau\nlebih dari kawasan permukiman menurut rencana tata ruang\nwilayah perkotaan dan rencana tata ruang wilayah. bukan\nperkotaan yang telah memenuhi persyaratan sebagai kawasan\nsiap bangun.\n(2) Persyaratan sebagaimana dimaksud dalam ayat (1)\nsekurang-kurangnya meliputi penyediaan :\n a. rencana tata ruang yang rinci;\n b. data mengenai luas, batas, dan pemilikan tanah;\n c. jaringan primer dan sekunder prasarana lingkungan.\n(3) Program pembangunan daerah dan program pembangunan sektor\nmengenai prasarana, sarana li ngkungan, dan utilitas umum\nsebagian diarahkan untuk mendukung terwujudnya kawasan siap\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nbangun sebagaimana dimaksud dalam ayat (1).\n(4) Pelaksanaan ketentuan sebagaimana dimaksud dalam ayat (1),\nayat (2), dan ayat (3), diatur dengan Pcraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H630-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\n\n(1) Pengelolaan kawasan siap bangun sebagaimana dimaksud dalam\nPasal 19 ayat (1) dan ayat (2) dilakukan oleh Pemerintah.\n(2) Penyelenggaraan pengelolaan kawasan siap bangun sebagaimana\ndimaksud dalam ayat (1) dilakukan oleh badan usaha milik negara\ndan/atau badan lain yang dibentuk olch Pemerintah yang ditugasi\nuntuk itu.\n(3) Pembentukan badan lain serta penunjukan badan usaha milik\nnegara dan/atau badan lain sebagaimana dimaksud dalam ayat\n(2) diatur dengan Peraturan Pemerintah.\n(4) Dalam menyclenggarakan pengelolaan kawasan siap bangun,\nbadan usaha milik negara atau badan lain sebagaimana dimaksud\ndalam ayat (2) dan ayat (3) da pat bekerjasama dengan badan\nusaha milik negara, badan usaha milik daerah, koperasi, dan\nbadan-badan usaha swasta di bidang pembangunan perumahan.\n(5) Kerjasama sebagaimana dimaksud dalam ayat (4) tidak\nmenghilangkan wewenang dan tanggung jawab badan usaha milik\nnegara  atau badan lain sebagaimana dimaksud dalam ayat (2).\n(6) Persyaratan dan tatacara kerjasama sebagaimana dimaksud\ndalam ayat (4) diatur dengan Peraturan Pemerintah.\n\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H630-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\n\n(1) Penyelenggaraan pengelolaan lingkungan siap bangun yang\nberdiri sendiri yang bukan dilakukan oleh masyarakat pemilik\ntanah, dilakukan oleh badan usaha di bidang pembangunan\nperumahan yang ditunjuk oleh Pemerintah.\n(2) Tata cara penunjukan sebagaimana dimaksud dalam ayat (1)\ndiatur dengan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H630-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\n\n(1) Diwilayah yang ditetapkan sebagai kawasan siap bangun\nPemerintah memberikan penyuluhan dan bimbingan, bantuan dan\nkemudahan kepada masyarakat pemilik tanah sehingga bersedia\ndan mampu melakukan konsolidasi tanah data rangka penyediaan\nkaveling tanah matang.\n(2) Pelepasan hak atas tanah di wilayah yang ditetapkan sebagai\nkawasan siap bangun hanya dapat dilakukan berdasarkan\nkesepakatan pemilik tanah yang bersangkutan.\n(3) Pelepasan hak atas tanah di li ngkungan siap bangun yang berdiri\nsendiri yang bukan hasil konsolidasi tanah oleh masyarakat\npemilik tanah, hanya dapat dilakukan berdasarkan kesepakatan\ndengan pemilik hak atas tanah.\n (4) Pelepasan hak atas tanah di wilayah yang ditetapkan sebagai\nkawasan siap bangun yang belum berwujud kaveling tanah\nmatang, hanya dapat dilakukan kepada Pemerintah melalui\nbadan-badan sebagaimana dimaksud dalam Pasal 20 ayat (2).\n(5) Tata cara pelepasan hak atas tanah sebagaimana dimaksud dalam\nayat (2), ayat (3), dan ayat (4), diatur dengan Peraturan\nPemerintah.\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H630-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\n\nPembangunan perumahan yang dilakukan oleh badan usaha di bidang\npembangunan perumahan dilakukan hanya di kawasan siap bangun\natau di lingkungan siap bangun yang berdiri sendiri."
+   }
+  },
+  {
+   "id": "ID-H630-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 24\n\nDalam membangun lingkungan siap bangun selain memenuhi ketentuan\npada Pasal 7, badan usaha di bidang pembangunan perumahan wajib:\na. melakukan pematangan tanah, penataan penggunaan tanah,\npenataan penguasaan tanah, dan penataan pemilikan tanah dalam\nrangka penyediaan kaveling tanah matang;\nb. membangun jaringan prasarana lingkungan mendahului kegiatan\nmembangun rumah, memelihara, dan mengelolanya sampai dengan\npengesahan dan penyerahannya kepada pemerintah daerah;\nc. mengkoordinasikan penyelenggaraan penyediaan utilitas umum;\nd. membantu masyarakat pemilik tanah yang tidak berkeinginan\nmelepaskan hak atas tanah di dalam atau disekitarnya dalam\nmelakukan konsolidasi tanah;\ne. melakukan penghijauan lingkungan;\nf. menyediakan tanah untuk sarana lingkungan;\ng. membangun rumah."
+   }
+  },
+  {
+   "id": "ID-H630-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\n\n(1) Pembangunan lingkungan siap bangun yang dilakukan masyarakat\npemilik tanah melalui konsolidasi tanah dengan memperhatikan\nketentuan pada Pasal 7, dapat dilakukan secara bertahap yang\nmeliputi kegiatan-kegiatan:\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n a. pematangan tanah;\n b. penataan, penggunaan, penguasaan dan pemilikan tanah;\n c. penyediaan prasarana lingkungan;\n d. penghijauan lingkungan;\n e. pengadaan tanah untuk sarana lingkungan.\n(2) Pelaksanaan ketentuan sebagaimana dimaksud data ayat (1)\ndiatur dengan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H630-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\n\n(1) Badan usaha di bidang pembangunan perumahan yang\nmembangun lingkungan siap bangun dilarang menjual kaveling\ntanah matang tanpa rumah.\n(2) Dengan memperhatikan ketentuan Pasal 24, sesuai dengan\nkebutuhan setempat, badan usaha di bidang pembangunan\nperumahan yang membangun lingkungan siap bangun dapat\nmenjual kaveling tanah matang ukuran kecil dan sedang tanpa\nrumah.\n(3) Kaveling tanah matang ukuran kecil, sedang, menengah, dan\nbesar hasil upaya konsolidasi tanah milik masyarakat dapat\ndiperjual belikan tanpa rumah."
+   }
+  },
+  {
+   "id": "ID-H630-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\n\n(1) Pemerintah memberikan bimbingan, bantuan dan kemudahan\nkepada masyarakat baik dalam tahap perencanaan maupun\ndalam tahap pelaksanaan, serta, melakukan pengawasan dan\npengendalian untuk meningkatkan kualitas permukiman.\n(2) Peningkatan kualitas permukiman sebagaimana dimaksud dalam\nayat (1) berupa kegiatan-kegiatan:\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n a. perbaikan atau pemugaran;\n b. peremajaan;\n c. pengelolaan dan pemeliharaan yang berkelanjutan.\n(3) Penyelenggaraan kegiatan seba gaimana dimaksud dalam ayat (1)\ndan ayat (2) diatur dengan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H630-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\n\n(1) Pemerintah daerah dapat menetapkan suatu lingkungan\npermukiman sebagai permukiman kumuh yang tidak layak huni.\n(2) Pemerintah daerah bersama-sama masyarakat mengupayakan\nlangkah-langkah pelaksanaan program peremajaan lingkungan\nkumuh untuk meningkatkan kesejahteraan masyarakat penghuni.\n(3) Pelaksanaan ketentuan sebagaimana dimaksud dalam ayat (1)\ndan ayat (2) diatur dengan Peraturan Pemerintah.\n\nBAB V\nPERAN SERTA MASYARAKAT"
+   }
+  },
+  {
+   "id": "ID-H630-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\n\n(1) Setiap warga negara mempunyai hak dan kesempatan yang sama\ndan seluas-luasnya untuk berperan serta dalam pembangunan\nperumahan dan permukiman.\n(2) Pelaksanaan peran serta masyarakat sebagaimana dimaksud\ndalam ayat (1) dapat dilakukan secara perseorangan atau dalam\nbentuk usaha bersama.\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nBAB VI\nPEMBINAAN"
+   }
+  },
+  {
+   "id": "ID-H630-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\n\n(1) Pemerintah melakukan pembinaan di bidang perumahan dan\npermukiman dalam bentuk pengaturan dan pembimbingan,\npemberian bantuan dan kcmudahan, penelitian dan\npengembangan, perencanaan dan pelaksanaan, serta pengawasan\ndan pengendalian.\n(2) Pemerintah melakukan pembinaan badan usaha di bidang\nperumahan dan permukiman.\n(3) Pelaksanaan ketentuan sebagaimana dimaksud dalam ayat (1)\ndan ayat (2) diatur dengan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H630-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\n\nPembangunan perumahan dan permukiman diselenggarakan\nberdasarkan rencana tata ruang wilayah perkotaan dan rencana tata\nruang wilayah bukan perkotaan yang menyeluruh dan terpadu yang\nditetapkan olch pemerintah daerah dengan mepertimbangkan\nberbagai aspck yang terkait serta rencana, program, dan prioritas\npembangunan perumahan dan permukiman."
+   }
+  },
+  {
+   "id": "ID-H630-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 32\n\n(1) Penyediaan tanah untuk pembangunan perumahan dan\npermukiman diselenggarakan dengan:\n a. penggunaan tanah yang langsung dikuasai Negara;\n b. konsolidasi tanah oleh pemilik tanah;\n c. pelepasan hak atas tanah oleh pemilik tanah yang dilakukan\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nsesuai dengan peraturan pcrundang-undangan yang berlaku.\n(2) Tatacara penggunaan tanah yang langsung dikuasai Negara dan\ntata-cara konsolidasi tanah oleh pemilik tanah sebagaimana\ndimaksud dalam ayat (1) butir a dan b diatur dengan Peraturan\nPemerintah."
+   }
+  },
+  {
+   "id": "ID-H630-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 33\n\n(1) Untuk memberikan bantuan dana/atau kemudahan kepada\nmasyarakat dalam membangun rumah sendiri atau memiliki\nrumah, Pemerintah melakukan upaya pemupukan dana.\n(2) Bantuan dan/atau kemudahan sebagaimana dimaksud dalam ayat\n(1) berupa kredit perumahan."
+   }
+  },
+  {
+   "id": "ID-H630-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 34\n\nPemerintah memberikan pembinaan agar penyelenggaraan\npembangunan perumahan dan pemukiman selalu memanfaatkan teknik\ndan teknologi, industri bahan bangunan, jasa konstruksi, rekayasa dan\nrancang bangun yang tepat guna dan serasi dengan lingkungan."
+   }
+  },
+  {
+   "id": "ID-H630-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 35\n\n(1) Pemerintah dapat menyerahkan sebagian urusan di bidang\nperumahan dan permukiman kepada pemerintah daerah.\n(2) Pelaksanaan ketentuan sebagaimana dimaksud dalam ayat (1)\ndiatur dengan Peraturan Pemerintah.\n\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nBAB VII\nKETENTUAN PIDANA"
+   }
+  },
+  {
+   "id": "ID-H630-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 36\n\n(1) Setiap orang atau badan dengan sengaja melanggar ketentuan\ndalam Pasal (7),ayat (1), Pasal 24, dan Pasal 26 ayat (1) dipidana\ndengan pidana penjara selama-lamanya 10 (sepuluh) tahun\ndan/atau denda setinggi-tingginya Rp 100.000.000,00 (seratus\njuta rupiah).\n(2) Setiap orang karena kelalaiannya mengakibatkan pelanggaran\natas ketentuan sebagaimana dimaksud dalam Pasal 7 ayat (1)\ndipidana dcngan pidana kurungan selama-lamanya 1 (satu) tahun\ndan/atau denda setinggi-tingginya Rp 10.000.000,00 (sepuluh\njuta rupiah).\n(3) Setiap badan karena kelalaiannya mengakibatkan pelanggaran\nalas ketentuan sebagaimana dimaksud dalam Pasal 7 ayat (1),\nPasal 24, Pasal 26 ayat (1) dipidana dengan pidana kurungan\nselama-lamanya 1 (satu) tahun dan/atau denda setinggi-tingginya\nRp 100.000.000,00 (seratus juta rupiah).\n(4) Setiap orang atau badan dengan sengaja melanggar ketentuan\ndalam Pasal 12 ayat (1) dipida na dengan pidana penjara\nselama-lamanya 2 (dua) tahun dan/atau denda setinggi-tingginya\nRp 20.000.000,00 (dua puluh juta rupiah)."
+   }
+  },
+  {
+   "id": "ID-H630-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 37\n\nSetiap orang atau badan dengan sengaja melanggar ketentuan harga\ntertinggi sewa sebagaimana dimaksud dalam Pasal 13 dipidana dengan\npidana penjara selama-lamanya 2 (dua) tahun dan denda\nsetinggi-tingginya Rp 20.000.000,00 (dua puluh juta rupiah).\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nBAB VIII\nKETENTUAN LAIN-LAIN"
+   }
+  },
+  {
+   "id": "ID-H630-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 38\n\nPenerapan ketentuan pidana sebagaimana dimaksud dalam Pasal 36\ntidak menghilangkan kewajibannya untuk tetap memenuhi ketentuan\nUndang-undang ini."
+   }
+  },
+  {
+   "id": "ID-H630-A39",
+   "no": 39,
+   "noLabel": {
+    "id": "Pasal 39"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 39\n\nJika kewajiban sebagaimana dimaksud dalam Pasal 38 tidak dipenuhi\noleh suatu badan usaha di bidang pembangunan perumahan dan\npermukiman, maka izin usaha badan tersebut dicabut.\n\nBAB IX\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H630-A40",
+   "no": 40,
+   "noLabel": {
+    "id": "Pasal 40"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 40\n\nPada saat mulai berlakunya Undang-undang ini, semua peraturan\npelaksanaan di bidang perumahan dan permukiman yaang telah ada\ntetap berlaku sepanjang tidak bertentangan dengan Undang-undang ini\natau belum diganti atau diubah berdasarkan Undang-undang ini.\n\n\nBAB X\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H630-A41",
+   "no": 41,
+   "noLabel": {
+    "id": "Pasal 41"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 41\n\nPada saat mulai berlakunya Undang-undang ini, Undang-undang Nomor\n1 Tahun 1964 tentang Peraturan Pcmerintah Pengganti Undang-undang\nNomor 6 Tahun 1962 tentang Pokok-pokok Perumahan (Lembaran\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nNegara Tahun 1962 Nomor 40, Tambah an Lembaran Negara Nomor\n2476) menjadi Undang-undang (Lembaran Negara Tahun 1964 Nomor\n3, Tambahan Lembaran Negara Nomor 261 1) dinyatakan tidak\nberlaku."
+   }
+  },
+  {
+   "id": "ID-H630-A42",
+   "no": 42,
+   "noLabel": {
+    "id": "Pasal 42"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 42\n\nUndang-undang ini mulai berlaku pada tanggal diundangkan dan\npenerapannya diatur dengan Peraturan Pemerintah\nselambat-lambatnya 2 (dua) tahun sejak Undang-undang ini\ndiundangkan.\n\nAgar setiap orang mcngetahuinya, memerintahkan pengundangan\nUndang-undang ini dengan penempatannya dalam Lembaran Negara\nRepublik Indonesia.\n\nDisahkan di Jakarta\npada tanggal 10 Maret 1992\n\nPRESIDEN REPUBLIK INDONESIA\n\n      ttd\n\n           SOEHARTO\n\nDiundangkan di Jakarta\npada tanggal 10 Maret 1992\n\nMENTERI/SEKRETARIS NEGARA\n   REPUBLIK INDONESIA\n\n      ttd\n\n    MOERDIONO\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nPENJELASAN\nATAS\nUNDANG-UNDANG REPUBLIK INDONESIA\nNOMOR 4 TAHUN 1992\nTENTANG\nPERUMAHAN DAN PERMUKIMAN\n\nUMUM\n\nUntuk memajukan kesejahteraan umum sebagaimana dimuat di dalam\nUndang-Undang Dasar 1945 dilaksanakan pembangunan nasional, yang\npada hakikatnya adalah pembangunan manusia Indonesia seutuhnya\ndan pembangunan seluruh masyarakat Indonesia yang menekankan\npada keseimbangan pembangunan kemakmuran lahiriah dan kepuasan\nbatiniah, dalam suatu masyarakat Indonesia yang maju dan\nberkeadilan sosial berdasarkan Pancasila.\n\nPerumahan dan permukiman merupakan kebutuhan dasar manusia dan\nmempunyai peranan yang sangat strategis dalam pembentukan watak\nserta kepribadian bangsa, dan perlu dibina serta dikembangkan demi\nkelangsungan dan peningkatan kehidupan dan penghidupan\nmasyarakat.\n\nPerumahan dan permukiman tidak dapat dilihat sebagai sarana\nkebutuhan kehidupan semata-mata, tetapi lebih dari itu merupakan\nproses bermukim manusia dalam menciptakan ruang kehidupan untuk\nmemasyarakatkan dirinya, dan menampakkan jati diri.\n\nUntuk menjamin kepastian dan ketertiban hukum dalam pembangunan\ndan pemilikan, setiap pembangunan rumah hanya dapat dilakukan di\natas tanah yang dimiliki berdasarkan hak-hak atas tanah sesuai dengan\nperaturan perundang-undangan yang berlaku.\n\nSistem penyediaan tanah untuk perumahan dan permukiman harus\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\ndiganti secara nasional karena tanah merupakan sumber daya alam\nyang tidak dapat bertambah akan tetapi harus digunakan dan\ndimanfaatkan sebesar-besarnya bagi kesejahteraan masyarakat. Proses\npenyediaannya harus dikelola dan dikendalikan oleh Pemerintah agar\nsupaya penggunaan dan pemanfaatannya dapat menjangkau\nmasyarakat secara adil dan merata tanpa menimbulkan kesenjangan\nekonomi dan sosial dalam proses bermukimnya masyarakat.\n\nUntuk mewujudkan perumahan dan permukiman dalam rangka\nmemenuhi kebutuhan jangka pendek, menengah, dan panjang dan\nsesuai dengan rencana tata ruang, suatu wilayah permukiman\nditetapkan sebagai kawasan siap bangun yang dilengkapi jaringan\nprasarana primer dan sekunder lingkungan.\n\nPenyelenggaraan pembangunan perumahan dan permukiman\nmendorong dan memperkukuh demokrasi ekonomi serta memberikan\nkesempatan yang sama dan saling menunjang antara badan usaha\nnegara, koperasi, dan swasta berdasarkan asas kekeluargaan.\n\nPembangunan di bidang perumahan dan permukiman yang bertumpu\npada masyarakat memberikan hak dan kesempatan yang\nseluas-luasnya bagi masyarakat untuk berperan serta.\n\nDi samping usaha peningkatan pembangunan perumahan dan\npermukiman perlu diwujudkan adanya ketertiban dan kepastian hukum\ndalam pemanfaatan dan pengelolaannya.\n\nSejalan dengan peran serta masyarakat di dalam pembangunan\nperumahan dan permukiman, Pemerintah mempunyai kewajiban dan\ntanggung jawab untuk melakukan pembinaan dalam wujud pengaturan\ndan pembimbingan, pendidikan dan pelatihan, pemberian bantuan dan\nkemudahan, penelitian dan pengembangan yang meliputi berbagai\naspek yang terkait antara lain tata ruang, pertanahan, prasarana\nlingkungan, industri bahan dan komponen, jasa konstruksi dan rancang\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nbangun, pembiayaan, kelembagaan, sumber daya manusia serta\nperaturan perundang-undangan.\n\nUndang-undang Nomor 5 Tahun 1960 tentang Peraturan Dasar\nPokok-pokok Agraria yang menjamin perlindungan hak-hak atas tanah\nyang dimiliki pemilik tanah, dalam pelepasan hak atas tanah\ndidasarkan pada asas kesepakatan, memberikan landasan bagi setiap\nkegiatan pembangunan di bidang perumahan dan permukiman untuk\nterjaminnya kepastian dan ketertiban hukum tentang penggunaan dan\npemanfaatan tanah.\n\nUndang-undang Nomor 5 Tahun 1974 tentang Pokok-pokok\nPemerintahan Di Daerah memberikan landasan bagi pembangunan\nperumahan dan permukiman yang pada hakikatnya sangat kompleks\ndan bersifat multidimensional serta multisektoral, perlu ditangani\nsecara terpadu melalui koordinasi yang berjenjang di setiap tingkat\npemerintahan serta harus sesuai dengan tata ruang.\n\nDi samping itu, Undang-undang Nomor 5 Tahun 1974, juga memberikan\nlandasan bagi pembinaan perangkat kelembagaan di daerah dalam\nrangka penyerahan urusan pemerintahan di daerah dengan\npelaksanaan otonomi daerah yang nyata dan bertanggung jawab\ndengan titik berat pada daerah tingkat II.\n\nUndang-undang Nomor 5 Tahun 1979 tentang Pemerintahan Desa,\nmemberikan landasan bagi pembinaan penyuluhan kegiatan\npembangunan perumahan dan permukiman di daerah perdesaan dalam\nrangka mendorong dan menggerakkan usaha bersama masyarakat\nsecara swadaya.\n\nUndang-undang Nomor 4 Tahun 1982 tentang Ketentuan-ketentuan\nPokok Pengelolaan Lingkungan Hidup memberikan landasan bagi\nkewajiban melakukan pemantauan dan pengelolaan lingkungan\nperumahan dan permukiman, sejalan dengan kewajiban setiap orang\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\natau badan yang melakukan kegiatan pembangunan rumah atau\nperumahan untuk memenuhi persyaratan teknis, ekologis, dan\nadministratif.\n\nGuna menjawab tuntutan kebutuhan perumahan dan permukiman\npada masa kini dan masa yang akan datang, Undang-undang Nomor 1\nTahun 1964 tentang Penetapan Peraturan Pemerintah Pengganti\nUndang-undang Nomor 6 Tahun 1962 te ntang Pokok-pokok Perumahan\n(Lembaran Negara Tahun 1962 Nomor 40, Tambahan Lembaran Negara\nNomor 2476) menjadi Undang-undang (Lembaran Negara Tahun 1964\nNomor 3, Tambahan Lembaran Negara Nomor 2611) sudah tidak\nsesuai. Sehubungan dengan itu, maka dipandang perlu untuk\nmengganti Undang-undang Nomo r 1 Tahun 1964 tersebut dengan\nUndang-undang baru tentang Perumahan dan Permukiman.\n\nPASAL DEMI PASAL\n\nPasal 1\n\n Angka 1\n\n  Selain berfungsi sebagai tempat tinggal atau hunian yang\ndigunakan manusia untuk berlindung dari gangguan iklim dan\nmakhluk hidup lainnya, rumah juga merupakan tempat awal\npengembangan kehidupan dan penghidupan keluarga, dalam\nlingkungan yang sehat, aman, serasi, dan teratur.\n\n Angka 2\n\n  Selain berfungsi sebagai lingkungan tempat tinggal atau\nlingkungan hunian untuk mengembangkan kehidupan dan\npenghidupan keluarga, perumahan juga merupakan tempat untuk\nmenyelenggarakan kegiatan bermasyarakat dalam lingkup\nterbatas. Penataan ruang dan kelengkapan  prasarana dan\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nsarana lingkungan dan sebagainya, dimaksudkan agar lingkungan\ntersebut akan merupakan lingkungan yang sehat, aman, serasi,\ndan teratur serta dapat berfungsi sebagaimana diharapkan.\n\n Angka 3\n\n  Permukiman yang dimaksud dalam Undang-undang ini mempunyai\nlingkup tertentu yaitu kawasan yang didominasi oleh lingkungan\nhunian dengan fungsi utama sebagai tempat tinggal yang\ndilengkapi dengan prasarana, sarana lingkungan, dan tempat\nkerja yang memberikan pelayanan dan kesempatan kerja\nterbatas untuk mendukung perikehidupan dan penghidupan\nsehingga fungsi permukiman te rsebut dapat berdaya guna dan\nberhasil guna.\n\n Angka 4\n\n  Satuan lingkungan permukiman merupakan kawasan perumahan\ndengan luas wilayah dan jumlah penduduk yang tertentu, yang\ndilengkapi dengan sistem prasarana, sarana lingkungan, dan\ntempat kerja terbatas dan dengan penataan ruang yang\nterencana dan teratur sehingga memungkinkan pelayanan dan\npengelolaan yang optimal.\n\n Angka 5\n\n  Sarana dasar yang utama bagi berfungsinya suatu lingkungan\npermukiman adalah:\n  1. jaringan jalan untuk mobilitas manusia dan angkutan barang,\nmencegah perambatan kebakaran serta untuk menciptakan\nruang dan bangunan yang teratur.\n  2. jaringan saluran pembuangan air limbah dan tempat\npembuangan sampah untuk kesehatan lingkungan.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n  3. jaringan saluran air hujan untuk pematusan (drainase) dan\npencegahan banjir setempat.\n  Dalam keadaan tidak terdapat air tanah sebagai sumber air\nbersih, jaringan air bersih merupakan sarana dasar.\n\n Angka 6\n\n  Fasilitas penunjang dimaksud dapat meliputi aspek ekonomi yang\nantara lain, berupa bangunan perniagaan atau perbelanjaan yang\ntidak mencemari lingkungan, sedangkan fasilitas penunjang yang\nmeliputi aspek sosial budaya, antara lain berupa bangunan\npelayanan umum dan pemerintahan, pendidikan dan kesehatan,\nperibadatan, rekreasi dan olah raga, pemakaman, dan\npertamanan.\n\n Angka 7\n\n  Utilitas umum meliputi antara lain jaringan air bersih, jaringan\nlistrik, jaringan telepon, jaringan gas, jaringan transportasi, dan\npemadam kebakaran. Utilitas umum membutuhkan pengelolaan\nsecara berkelanjutan dan profesional oleh badan usaha agar\ndapat memberikan pelayanan yang memadai kepada masyarakat.\n\n Angka 8\n\n  Yang dimaksud dengan jaringan primer prasarana lingkungan\ndalam kawasan siap bangun adalah jaringan utama yang\nmenghubungkan antar kawasan permukiman atau antara kawasan\npermukiman dan kawasan yang lain.\n  Jaringan sekunder prasarana lingkungan adalah jaringan cabang\ndari jaringan primer prasarana lingkungan yang melayani\nkebutuhan di dalam satu-satuan lingkungan permukiman.\n  Dengan adanya jaringan primer dan jaringan sekunder maka\ndapat terbentuk suatu sistem jaringan prasarana lingkungan\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\ndalam kawasan siap bangun secara hierarkis berjenjang.\n\n Angka 9\n  C u k u p  j e l a s\n\n Angka 10\n\n  Penggunaan, penguasaan, dan pemilikan tanah perkotaan perlu\ndibakukan, selain untuk menghemat dalam investasi prasarana\nlingkungan juga untuk mencegah penggunaan di bawah standar\natau melampaui standar melalui penerapan persyaratan\npembakuan dan penetapan pola rencana tata ruang.\n\n Angka 11\n\n  Pembangunan lingkungan siap bangun yang dilakukan sendiri oleh\nmasyarakat pemilik tanah melalui konsolidasi tanah, dapat\ndilaksanakan dengan dana yang lebih kecil dari pada yang\ndilakukan oleh badan usaha di bidang perumahan dan\npermukiman.\n  Penyelenggaraannya dilakukan oleh usaha bersama masyarakat\nsecara swadaya dengan bimbingan pemerintah daerah serta\ndapat melibatkan kelompok profesi dan kelompok minat di dalam\nmasyarakat di bidang pembangunan perumahan dan permukiman.\n\nPasal 2\n\n Ayat (1)\n\n  Undang-undang ini mengatur rumah dan perumahan, baik di\ndalam maupun di luar kawasan atau lingkungan permukiman,\ndan mencegah adanya anggapan bahwa tidak ada rumah dan\nperumahan selain yang berada di kawasan atau di lingkungan\npermukiman.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n  Rumah dan perumahan yang berada di luar kawasan atau\nlingkungan permukiman, misalnya rumah dan perumahan di\ndalam kawasan industri, kawasan pariwisata, serta rumah-rumah\nyang letaknya terpencar-pencar dan tidak membentuk suatu\nlingkungan permukiman.\n\n Ayat (2)\n  C u k u p  j e l a s\n\nPasal 3\n\n Asas manfaat memberikan landasan agar pelaksanaan pembangunan\nperumahan dan permukiman yang menggunakan berbagai sumber\ndaya yang terbatas dapat dimanfaatkan sebesar-besarnya bagi\nkesejahteraan dan kemakmuran rakyat.\n\n Asas adil dan merata memberikan landasan agar hasil-hasil\npembangunan perumahan dan permukiman dapat dinikmati secara\nadil dan merata oleh seluruh rakyat.\n\n Asas kebersamaan dan kekeluargaan memberikan landasan agar\ngolongan masyarakat yang kuat membantu golongan masyarakat\nyang lemah dan mencegah terjadinya lingkungan permukiman yang\neksklusif.\n\n Asas kepercayaan kepada diri sendiri memberikan landasan agar\nsegala usaha dan kegiatan dalam pembangunan perumahan dan\npermukiman bertumpu pada prak arsa, swadaya dan peran serta\nmasyarakat sehingga mampu membangkitkan kepercayaan akan\nkemampuan dan kekuatan sendiri.\n\n Asas keterjangkauan memberikan landasan agar hasil pembangunan\nperumahan dan permukiman dapat dijangkau oleh masyarakat\nberpenghasilan rendah.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\n Asas kelestarian lingkungan hidup memberikan landasan untuk\nmenunjang pembangunan berkelanjutan bagi peningkatan\nkesejahteraan, baik generasi sekarang maupun generasi yang akan\ndatang.\n\nPasal 4\n\n Huruf a\n  C u k u p  j e l a s\n\n Huruf b\n  C u k u p  j e l a s\n\n Huruf c\n  C u k u p  j e l a s\n\n Huruf d\n\n  Bidang-bidang lain adalah bidang yang antara lain dapat\nmendukung ketertiban kehidupan masyarakat dan stabilitas\nnasional yang dinamis.\n\nPasal 5\n\n Ayat (1)\n\n  Pemenuhan hak warga negara tersebut dapat dilakukan dengan\ncara membangun sendiri atau dengan cara sewa, membeli secara\ntunai ataupun angsuran, hibah dan cara lain yang sesuai dengan\nperaturan perundang-undangan yang berlaku.\n  Menempati atau menikmati rumah merupakan pemenuhan hak\nsebelum dapat memiliki rumah sendiri.\n  Rumah yang layak adalah bangunan rumah yang\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nsekurang-kurangnya memenuhi persyaratan keselamatan\nbangunan dan kecukupan minimum luas bangunan serta\nkesehatan penghuniannya.\n  Lingkungan yang sehat, aman, serasi, dan teratur adalah\nlingkungan yang memenuhi persyaratan penataan ruang,\npersyaratan penggunaan tanah, pemilikan hak atas tanah, dan\nkelayakan prasarana serta sarana lingkungannya.\n\n Ayat (2)\n  C u k u p  j e l a s\n\nPasal 6\n\n Ayat (1)\n\n  Ketentuan ini dimaksudkan untuk memperjelas hubungan status\nrumah dan tanah.\n  Hal ini diperlukan untuk mewujudkan ketertiban, dan\nketenteraman baik dalam pembangunan rumah maupun dalam\npemanfaatannya.\n\n Ayat (2)\n\n  Perjanjian tertulis dimaksud memuat ketentuan mengenai:\n  a. hak dan kewajiban pihak yang membangun rumah dan pihak\nyang memiliki hak atas tanah;\n  b. jangka waktu pemanfaatan tanah dan penguasaan rumah oleh\npihak yang membangun rumah atau yang dikuasakannya.\n\n   Dengan demikian dapat dicegah hal-hal yang memungkinkan\ndikuasai atau digunakannya tanah oleh bukan pemilik hak atas\ntanah tanpa batas waktu dan penyimpangan dari peraturan\nperundang-undangan di bidang agraria.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\nPasal 7\n\n Ayat (1)\n\n  Yang dimaksud dengan membangun rumah atau perumahan\ntermasuk membangun baru, memugar, memperluas rumah atau\nperumahan, dengan mempertimbangkan faktor-faktor setempat\nmengenai keadaan fisik, ekonomi, sosial dan budaya serta\nketerjangkauan masyarakat, baik di daerah perkotaan maupun di\ndaerah pedesaan.\n\n  Pengertian setiap orang atau badan adalah warga negara\nIndonesia dan badan hukum Indonesia serta warga negara asing\npenduduk Indonesia dan badan asing yang berkedudukan di\nIndonesia, yang menurut peraturan perundang-undangan yang\nberlaku telah dibenarkan untuk membangun rumah atau\nperumahan.\n\n  Untuk mewujudkan rumah yang layak dalam lingkungan yang\nsehat, aman, serasi, dan teratur, maka pembangunan rumah atau\nperumahan wajib mengikuti persyaratan teknis, ekologis, dan\nadministratif serta wajib melakukan pemantauan dan\npengelolaan lingkungan.\n  Persyaratan teknis berkaitan dengan keselamatan dan\nkenyamanan bangunan, dan keandalan sarana serta prasarana\nlingkungannya. Persyaratan ekologis berkaitan dengan keserasian\ndan keseimbangan, baik antara lingkungan buatan dengan\nlingkungan alam maupun dengan lingkungan sosial budaya,\ntermasuk nilai-nilai budaya bangsa yang perlu dilestarikan.\n\n  Persyaratan administratif berkaitan dengan pemberian izin\nusaha, izin lokasi, dan izin mendirikan bangunan serta pemberian\nhak atas tanah.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\n  Pemantauan lingkungan bertujuan untuk mengetahui dampak\nnegatif yang terjadi selama pelaksanaan pembangunan rumah\natau perumahan, sedangkan pengelolaan lingkungan bertujuan\nuntuk dapat mengambil tindakan koreksi bila terjadi dampak\nnegatif dari pembangunan rumah atau perumahan.\n\n  Rencana pemantauan dan pengelolaan lingkungan disusun dan\ndilaksanakan dengan mempertimbangkan tingkatan dampak yang\ntimbul sesuai dengan peraturan perundang-undangan yang\nberlaku.\n\n Ayat (2)\n  C u k u p  j e l a s\n\nPasal 8\n\n Kewajiban ini ditekankan untuk mewujudkan pemanfaatan rumah\nsesuai dengan fungsinya yang utama sebagai tempat tinggal atau\nhunian dan pembinaan keluarga dan tidak untuk keperluan lain.\n\n Pemanfaatan dan penggunaan untuk keperluan lain yang berbeda\ndengan fungsi utama rumah, perl u dicegah agar tidak menimbulkan\ngangguan bagi lingkungan dan tidak melanggar peraturan yang\nberlaku.\n\n Kewajiban pengelolaan dan pemeliharaan diarahkan untuk menjaga\nkeselarasan dengan lingkungan dan sekaligus dimaksudkan untuk\nmewujudkan ketertiban pemanfaatan ruang sesuai dengan rencana\ntata ruang.\n\nPasal 9\n\n Pembangunan perumahan oleh Pemerintah untuk memenuhi\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nkebutuhan khusus antara lain transmigrasi, pemukiman kembali\nkorban bencana dan permukiman yang terpencar-pencar. Yang\ntermasuk kebutuhan khusus tersebut adalah pembangunan rumah\ndinas, sedangkan pembangunan perumahan oleh badan-badan sosial\natau keagamaan antara lain untuk menampung orang lanjut usia\n(jompo), dan yatim piatu.\n\nPasal 10\n\n Peraturan Pemerintah ini sekaligus dimaksudkan untuk mengganti\nperaturan mengenai perumahan yang dikuasai negara yang berlaku\nselama ini, yaitu Burgelijke Wo ning Regeling (Stbl. 1934 Nomor 147\njo Stbl. 1949 Nomor 338).\n\nPasal 11\n\n Ayat (1)\n\n  Penyusunan kebijaksanaan di bidang perumahan dan permukiman\nyang meliputi penataan dan pengelolaan serta ketertiban\npenyelenggaraannya memerlukan data yang bersifat rinci,\nmenyeluruh, dan dilaksanakan secara berkala.\n  Data rumah tersebut meliputi berbagai hal mengenai rumah dan\nperumahan antara lain aspek lokasi, kondisi, status rumah dan\ntanah, sarana dan prasarananya.\n  Data mengenai setiap unit rumah dapat dimanfaatkan dalam\nmewujudkan ketertiban penataan dan pengelolaan rumah, antara\nlain, bilamana diperlukan oleh masyarakat dapat dibuat tanda\nbukti pemilikan rumah.\n\n Ayat (2)\n  C u k u p  j e l a s\n\nPasal 12\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\n Ayat (1)\n\n  Ketentuan ini dimaksudkan untuk mencegah penghunian rumah\ntanpa persetujuan atau izin pemilik, dalam rangka mewujudkan\nketertiban dan kepastian hukum.\n\n Ayat (2)\n\n  Penghunian meliputi pemakaian dan penggunaan rumah sesuai\ndengan fungsi utama rumah sebagai tempat hunian dan\npembinaan keluarga, serta tidak untuk keperluan lain.\n  Yang dimaksud penghunian dengan cara bukan sewa-menyewa\nantara lain meliputi:\n  a. penghunian rumah instansi;\n  b. penghunian dengan cara menumpang;\n  c. penghunian sementara.\n\n Ayat (3)\n\n  Perjanjian tertulis penghunian rumah dengan cara\nsewa-menyewa, sekurang-kurangnya memuat ketentuan\nmengenai :\n  a. besarnya harga sewa;\n  b. batas waktu sewa-menyewa;\n  c. hak dan kewajiban penyewa dan pemilik rumah.\n  Perjanjian tertulis penghunian rumah dengan cara bukan\nsewa-menyewa, sekurang-kurangnya memuat ketentuan\nmengenai:\n  a. batas waktu penghunian;\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n  b. hak dan kewajiban pemilik dan penghuni rumah.\n\n Ayat (4)\n  C u k u p  j e l a s\n\n Ayat (5)\n\n  Ketentuan ini dimaksudkan untuk menjamin ketertiban dalam\npemanfaatan rumah dan mempercepat pengosongan rumah sewa\nyang dihuni tanpa hak agar pemilik rumah terlindungi haknya.\nHal tersebut akan menciptakan iklim yang dapat mendorong\nmasyarakat untuk membangun rumah sewa.\n\n Ayat (6)\n  C u k u p  j e l a s\n\n Ayat (7)\n  C u k u p  j e l a s\n\nPasal 13\n\n Ayat (1)\n\n  Pengendalian harga sewa oleh Pemerintah dimaksudkan agar\ndapat diwujudkan asas keterjangkauan.\n  Di dalam ketentuan ini yang dimaksud dengan kemudahan adalah\nbantuan Pemerintah antara lain, berupa kredit pembangunan\nperumahan dengan bunga yang ringan maupun bantuan\npengadaan prasarana dan sarana lingkungan.\n  Besarnya harga sewa rumah yang dibangun dengan tidak\nmemperoleh kemudahan dan bantuan Pemerintah ditetapkan\nberdasarkan kesepakatan antara pemilik rumah dan penyewa.\n\n Ayat (2)\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n  C u k u p  j e l a s\n\nPasal 14\n\n Sengketa mengenai pemanfaatan rumah yang dimaksud adalah yang\nterjadi selama masa berlakunya perjanjian antara pemilik dan\npenghuni rumah.\n\n Dengan diundangkannya Undang-undang Nomor 14 Tahun 1970\ntentang Ketentuan-ketentuan Pokok Kekuasaan Kehakiman, yang\nantara lain di dalam Pasal 10 dinyatakan bahwa kekuasaan\nkehakiman dilakukan dalam lingkungan Peradilan Umum, Peradilan\nAgama, Peradilan Militer, Peradilan Tata Usaha Negara, maka\npenyelesaian sengketa tersebut disesuaikan dengan Undang-undang\nNomor 14 Tahun 1970.\n\nPasal 15\n\n Ayat (1)\n\n  Pemilikan rumah oleh bukan pemilik hak atas tanah, dengan\npersetujuan tertulis pemilik hak atas tanah, dapat dijadikan\njaminan utang dengan dibebani fidusia.\n  Pemilikan rumah oleh pemilik hak atas tanah, rumahnya dapat\ndijadikan jaminan utang dengan dibebani fidusia.\n  Pemilikan rumah oleh pemilik hak atas tanah, rumah beserta\ntanahnya dapat dijadikan jaminan utang dengan dibebani\nhipotek.\n\n Ayat (2)\n\n  H u r u f   a\n   C u k u p  j e l a s\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n  H u r u f   b\n   C u k u p  j e l a s\n\nPasal 16\n\n Ayat (1)\n  C u k u p  j e l a s\n\n Ayat (2)\n\n  Yang dimaksud dengan akta otentik adalah akta yang dibuat yang\nberwenang.\n\nPasal 17\n\n Peralihan hak milik yang dimaksud, dilakukan berdasarkan\nketentuan Pasal 10 Undang-undang Nomor 16 Tahun 1985 tentang\nRumah Susun.\n\n\nPasal 18\n\n Ayat (1)\n\n  Pembangunan rumah, perumahan, dan permukiman diarahkan\ndalam kawasan permukiman skala besar dengan perencanaan\nyang menyeluruh dan terpadu, yang pelaksanaannya. secara\nbertahap untuk memenuhi kebutuhan permukiman jangka\npendek, jangka menengah, dan jangka panjang.\n  Luas permukiman skala besar disesuaikan dengan lokasi dan\nbesarnya kota, jumlah penduduk, jumlah unit rumah, dan luas\nkawasan permukiman.\n\n Ayat (2)\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\n  Dengan kawasan permukiman skala besar yang tersusun atas\nsatuan-satuan lingkungan permukiman memungkinkan\n\n  H u r u f  a\n    1. penataan tanah dan ruang lingkungan tempat tinggal atau\nlingkungan hunian dalam berbagai bentuk dan ukuran, serta\nsarana lingkungan secara serasi dan seimbang;\n   2. penataan jaringan prasarana lingkungan dan sarana\nlingkungan secara terencana dan teratur dengan hierarki\nyang berjenjang, yaitu:\n    1) di daerah perkotaan memungkinkan adanya\npengembangan keterpaduan sistem jaringan jalan untuk\nangkutan perkotaan yang selamat, aman, cepat, lancar,\ntertib, teratur, dan massal dengan sistem jaringan jalan\nlingkungan yang menampung jasa berbagai moda\nangkutan berkecepatan sedang untuk mobilitas manusia\ndan/atau angkutan barang;\n    2) di daerah pedesaan memungkinkan adanya\npengembangan keterpaduan sistem jaringan jalan untuk\nangkutan antar desa dengan sistem jaringan jalan\nangkutan intra desa.\n\n  H u r u f  b\n\n   Integrasi lingkungan permukiman yang sudah ada ke dalam\nlingkungan baru berskala besar dimaksudkan untuk mencegah\nterjadinya lingkungan yang tidak serasi atau yang eksklusif,\n\n Ayat (3)\n  C u k u p  j e l a s\n\n Ayat (4)\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\n  Yang dimaksud dengan wilayah bukan perkotaan adalah wilayah\nyang meliputi kawasan perdesaan dan kawasan yang mempunyai\nfungsi tertentu yang berada di kawasan  budidaya, seperti\nantara lain kawasan industri dan kawasan pariwisata.\n\nPasal 19\n\n Ayat (1)\n\n  Penetapan kawasan siap bangun dimaksud agar pada jangka\nwaktu tertentu mendapat perhatian sesuai dengan skala prioritas\ndalam pelaksanaan investasi prasarana dan sarana lingkungan\npermukiman.\n\n Ayat (2)\n\n  H u r u f  a\n   C u k u p  j e l a s\n\n  H u r u f  b\n   C u k u p  j e l a s\n\n  H u r u f  c\n\n   Jaringan primer dan sekunder prasarana lingkungan terdiri\natas jaringan jalan untuk memperlancar hubungan antar\nlingkungan, saluran pembuangan air hujan untuk melakukan\npematusan (drainase), dan saluran pembuangan air limbah\nuntuk kesehatan lingkungan, dalam kawasan siap bangun.\n\n Ayat (3)\n  C u k u p  j e l a s\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n Ayat (4)\n  C u k u p  j e l a s\n\nPasal 20\n\n Ayat (1)\n\n  Pengelolaan kawasan siap bangun yang dilengkapi dengan\nprasarana dan sarana lingkungan pada hakikatnya mengubah\nfungsi dan nilai tanah sehingga  menyebabkan harga tanah yang\ntinggi di luar kemampuan masyarakat berpenghasilan rendah.\n  Agar memungkinkan menyerap kembali kenaikan nilai tanah\ntersebut untuk memulihkan biaya investasi berbagai prasarana\ndan sarana lingkungan dan memberikan subsidi silang kepada\nmasyarakat berpenghasilan rendah, maka pengelolaan kawasan\nsiap bangun dilakukan oleh Pemerintah.\n\n Ayat (2)\n\n  Mengingat sifat dan fungsinya, sudah selayaknya penyelenggaraan\npengelolaan kawasan siap bangun dilakukan oleh badan usaha\nmilik negara (BUMN).\n  Pemerintah dapat membentuk dan/atau menunjuk badan lain di\npusat dan di daerah (badan usaha milik daerah).\n  Badan usaha milik negara atau badan-badan lain tersebut dalam\nmenyelenggarakan usahanya ditujukan untuk meningkatkan\nkesejahteraan masyarakat dan kemanfaatan umum dan tidak\nsemata-mata untuk mencari keuntungan.\n\n Ayat (3)\n  C u k u p  j e l a s\n\n Ayat (4)\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n  Dalam rangka meningkatkan peran serta usaha negara, koperasi\ndan swasta dalam penyelenggaraan pengelolaan kawasan siap\nbangun, badan usaha milik negara atau badan lain dapat\nmengikutsertakan badan usaha milik negara, badan usaha milik\ndaerah, koperasi dan badan usaha swasta yang berusaha di\nbidang pembangunan perumahan.\n  Dalam rangka meningkatkan kemampuan penyelenggaraan\npengelolaan kawasan siap bangun, Pemerintah dapat membantu\nbadan usaha milik negara atau badan lain dengan pemanfaatan\ntanah yang langsung dikuasai oleh Negara yang dapat digunakan\nuntuk pembangunan perumahan dan permukiman.\n\n Ayat (5)\n\n  Ketentuan ini dimaksudkan untuk menegaskan bahwa dalam\nkerja sama dengan badan usaha milik negara, badan usaha milik\ndaerah, koperasi dan badan usaha swasta yang berusaha di\nbidang pembangunan perumahan, wewenang dan tanggung jawab\npengelolaan kawasan siap bangun tetap ditangan badan usaha\nmilik negara atau badan lain yang ditugasi untuk itu.\n\n Ayat (6)\n  C u k u p  j e l a s\n\nPasal 21\n\n Ayat (1)\n  C u k u p  j e l a s\n\n Ayat (2)\n  C u k u p  j e l a s\n\nPasal 22\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n Ayat (1)\n\n  Agar masyarakat pemilik tanah terdorong dan bersedia\nmenjalankan konsolidasi tanah, Pemerintah dapat memberikan\nbantuan berupa pembangunan jaringan prasarana lingkungan\nserta kemudahan berupa rencana detail, dan berbagai perizinan\nyang diperlukan.\n\n Ayat (2)\n  C u k u p  j e l a s\n\n Ayat (3)\n\n  Ketentuan ini dimaksudkan agar tanah-tanah tersebut yang telah\ndilepaskan haknya menjadi tanah negara digunakan untuk\npenyediaan tanah bagi pembangunan lingkungan siap bangun.\nPeningkatan nilai tanah karena pembangunan prasarana dan\nsarana lingkungan yang dilakukan Pemerintah dimanfaatkan\nuntuk memulihkan biaya investasi jaringan prasarana dan sarana\nlingkungan serta untuk memberikan subsidi silang bagi\nmasyarakat golongan berpenghasilan rendah yang perlu\nmendapat bantuan dan kemudahan.\n  Masyarakat pemilik tanah di kawasan siap bangun yang\nmelepaskan hak atas tanahnya mempunyai hak untuk memiliki\nsaham usaha dari badan usaha pembangunan di bidang\nperumahan, sedangkan yang tidak bersedia melepaskan haknya\nhendaknya dapat melakukan konsolidasi tanah.\n\n Ayat (4)\n  C u k u p  j e l a s\n\n Ayat (5)\n  C u k u p  j e l a s\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nPasal 23\n\n Ketentuan ini dimaksudkan agar pembangunan perumahan\ndilakukan secara terkonsentrasi di dalam kawasan siap bangun atau\ndi lingkungan siap bangun yang berdiri sendiri sehingga\nmemudahkan penyediaan prasarana dan sarana lingkungan.\nPembangunan rumah atau perumahan oleh perseorangan, atau\nusaha bersama dapat dilakukan di kawasan siap bangun, di\nlingkungan siap bangun yang berdir i sendiri atau di luarnya sejauh\nsesuai dengan rencana tata ruang yang ditetapkan oleh pemerintah\ndaerah setempat.\n\n Ketentuan ini tidak menutup kemungkinan pembangunan rumah\natau perumahan baru di lokasi ya ng masih kosong di lingkungan\nperumahan yang sudah ada, baik oleh badan usaha di bidang\npembangunan perumahan, usaha bersama maupun perseorangan\npemilik tanah.\n\n Yang dimaksud dengan usaha bersama adalah usaha yang dilakukan\noleh masyarakat pemilik tanah untuk mencapai tujuan bersama\nsecara swadaya dengan hak dan kewajiban yang diatur bersama\nyang tidak berbentuk badan usaha.\n\nPasal 24\n\n Kewajiban seperti ini dimaksudka n agar badan usaha di bidang\npembangunan perumahan dalam melaksanakan pembangunan\nlingkungan siap bangun berdasarkan urutan tahapan yang telah\nditentukan.\n\n Yang dimaksud dengan pemilikan adalah pemilikan hak atas tanah\nsesuai dengan peraturan perundang-undangan yang berlaku di\nbidang pertanahan, misalnya hak milik, hak guna bangunan dan hak\npakai.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\nPasal 25\n\n Ayat (1)\n\n  Kegiatan pembangunan lingkungan siap bangun yang dilakukan\noleh masyarakat pemilik tanah melalui konsolidasi tanah yang\ndilakukan secara bertahap merupakan kemudahan yang dapat\nmeringankan beban masyarakat dalam melakukan penataan\nlingkungan huniannya secara dini.\n  Melalui konsolidasi tanah yang dilakukan oleh masyarakat pemilik\ntanah, dimaksudkan juga untuk mencegah adanya lingkungan\nperumahan yang tidak mengalami penataan ruang dan\npenyediaan prasarana lingkungan sehingga terwujud lingkungan\nhunian yang sehat, aman, serasi, dan teratur.\n\n Ayat (2)\n  C u k u p  j e l a s\n\nPasal 26\n\n Ayat (1)\n\n  Dengan ketentuan ini, pada dasarnya badan usaha di bidang\npembangunan perumahan dalam melakukan usahanya harus\nmenjual kaveling beserta rumahnya.\n\n Ayat (2)\n\n  Sesuai dengan kebutuhan nyata dari masyarakat setempat yang\nmemerlukan kaveling tanah matang ukuran kecil dan sedang\ntanpa rumah, badan usaha di bidang pembangunan perumahan\ndapat menjual kaveling tanah matang ukuran kecil dan sedang\ntanpa rumah khususnya bagi golongan masyarakat berpenghasilan\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nrendah.\n\n Ayat (3)\n\n  Kaveling tanah matang hasil konsolidasi tanah masyarakat\nmerupakan milik masyarakat sendiri, oleh karena itu para pemilik\ntanah mempunyai kebebasan untuk memperjualbelikannya\nbaik dengan rumah maupun tanpa rumah.\n  Untuk melindungi kepentingan masyarakat, pelepasan hak alas\ntanah dalam wilayah yang ditetapkan sebagai kawasan siap\nbangun hanya dapat dilakukan dalam wujud kaveling tanah\nmatang sesuai dengan rencana tata ruang yang ditetapkan oleh\npemerintah daerah.\n  Penetapan luas kaveling tanah matang ukuran kecil, sedang,\nmenengah, dan besar dilakukan dengan memperhatikan\nkeserasian lingkungan fisik, ekonomi, sosial, dan budaya\nsetempat.\n\nPasal 27\n\n Ayat (1)\n\n  Agar peningkatan kualitas permukiman dapat merupakan\nkegiatan yang bertumpu pada masyarakat dan sekaligus\nmenegaskan bahwa peningkatan kualitas permukiman sebagai\nbagian dari peningkatan kesejahteraan masyarakat selain\nmerupakan tugas dan tanggung jawab Pemerintah, juga tidak\nterlepas dari tanggung jawab dan peran serta masyarakat.\n\n Ayat (2)\n\n  a. Perbaikan atau pemugaran merupakan kegiatan tanpa\nperombakan yang mendasar, bersifat parsial dan memerlukan\nperan serta masyarakat yang dilaksanakan secara bertahap.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n  b. Peremajaan merupakan kegiatan dengan perombakan\nmendasar bersifat menyeluruh dan memerlukan peran serta\nmasyarakat secara menyeluruh pula.\n  c. Pengelolaan dan pemeliharaan secara berkelanjutan, selain\ndilakukan dengan melestarikan kemampuan fungsi dan daya\ndukung lingkungan, juga untuk mencegah dan melarang\nsiapapun melakukan hal-hal sebagai berikut:\n   1) melakukan pemecahan penggunaan, dan pemilikan tanah\nyang menyimpang dari pembakuan;\n   2) mendirikan, memperluas rumah tanpa memenuhi\npersyaratan teknis, ekologis, dan administratif;\n   3) memanfaatkan rumah, prasarana dan sarana lingkungan\nyang menyimpang dari fungsinya yang utama atau\nmelampaui daya dukungnya.\n\n    Selain di kawasan permukiman, ketentuan ini berlaku juga\ndi daerah terbuka hijau dan daerah yang berfungsi sebagai\npenyangga yang memisahkan kawasan permukiman dengan\nkawasan industri, prasarana perhubungan antara lain :\ndaerah manfaat jalan arteri, tol, kereta api, sungai, dan\ndanau.\n\n Ayat (3)\n  C u k u p  j e l a s\n\nPasal 28\n\n Ayat (1)\n\n  Untuk terciptanya lingkungan permukiman yang memenuhi\npersyaratan keamanan, kesehatan, kenyamanan dan keandalan\nbangunan, suatu lingkungan permukiman yang tidak sesuai\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\ndengan tata ruang, kepadatan bangunan sangat tinggi, kualitas\nbangunan sangat rendah, prasarana lingkungan tidak memenuhi\nsyarat dan rawan, yang dapat membahayakan kehidupan dan\npenghidupan masyarakat peng huni, dapat ditetapkan oleh\npemerintah daerah tingkat II yang bersangkutan sebagai\nlingkungan permukiman kumuh yang tidak layak huni dan perlu\ndiremajakan, khusus untuk Daerah Khusus Ibukota Jakarta\nditetapkan oleh Pemerintah Daerah Khusus Ibukota Jakarta.\n\n\n\n Ayat (2)\n\n  Dalam pelaksanaan program peremajaan lingkungan kumuh\ntersebut, perlu adanya kesepakatan antara masyarakat pemilik\ntanah dan/atau penghuni dengan pemerintah daerah, karena\ndalam pelaksanaan peremajaan tersebut dapat terjadi\nperombakan menyeluruh, sehingga penghuni untuk sementara\nwaktu dimukimkan di tempat lain untuk kemudian dimukimkan\nkembali di kawasan yang telah diremajakan tersebut.\n\n Ayat (3)\n  C u k u p  j e l a s\n\nPasal 29\n\n Ayat (1)\n\n  Hak dan kesempatan untuk berperan serta yang sebesar-besarnya\ntersebut meliputi kegiatan dalam proses pemugaran, perbaikan,\nperemajaan lingkungan, dan pembangunan perumahan.\n  Agar masyarakat bersedia dan mampu berperan serta dalam\nkegiatan tersebut, Pemerintah menyelenggarakan penyuluhan\ndan pembimbingan, pendidikan, serta pelatihan yang sesuai\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\ndengan kemampuan masyarakat.\n\n Ayat (2)\n\n  Peran serta masyarakat dilibatkan secara dini, mulai dari\ntahapan menyepakati permasalahan bersama, merumuskan\nprogram, menyusun rencana pelaksanaan, mengawasi dan\nmengendalikan program dengan pendekatan dari bawah ke atas.\n  Pelaksanaan peran serta masyarakat di bidang perumahan dan\npermukiman dapat melalui proses formal dan non formal, baik\ndalam bentuk koperasi maupun bentuk usaha bersama swadaya\nmasyarakat yang lain.\n\nPasal 30\n\n Ayat (1)\n\n  Wujud pembinaan di bidang perumahan dan permukiman\ntersebut berupa kebijaksanaan, strategi, rencana dan program\nyang meliputi berbagai aspek antara lain:\n  a. rumah, prasarana dan sarana lingkungan;\n  b. tata ruang;\n  c. pertanahan;\n  d. industri bahan, jasa konstruksi dan rancang bangun;\n  e. pembiayaan;\n  f. kelembagaan;\n  g. sumber daya manusia;\n  h. peraturan perundang-undangan.\n\n Ayat (2)\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n  Pembinaan secara terpadu dan berkelanjutan dilakukan terhadap\nbadan usaha di bidang perumahan yang meliputi pembimbingan\nusaha, pengembangan kemampuan manajemen, kemudahan\nperizinan usaha untuk meningkatkan hasil kerja, daya saing dan\ntanggung jawab profesi.\n  Pemerintah membina badan usaha sebagaimana tersebut di atas,\nyaitu perusahaan pembangunan perumahan baik BUMN, BUMD,\nkoperasi, perseorangan maupun swasta yang bergerak antara lain\ndi bidang usaha industri bahan bangunan, industri komponen\nbangunan, konsultan, kontraktor, developer dan\nlembaga-lembaga keuangan.\n\n Ayat (3)\n  C u k u p  j e l a s\n\nPasal 31\n\n Berbagai aspek yang terkait dalam pembangunan perumahan dan\npermukiman yang wajib diperhatikan secara menyeluruh dan\nterpadu antara lain meliputi peningkatan jumlah penduduk dan\npenyebarannya, perluasan kesempatan kerja dan usaha, program\npembangunan sektoral dan pembangunan daerah, pelestarian\nkemampuan lingkungan, kondisi geografis dan potensi sumber daya\nalam, termasuk daerah rawan bencana, nilai sosial dan budaya\ndaerah, dan pengembangan kelembagaan.\n\n Rencana, program dan prioritas pembangunan perumahan dan\npermukiman, selain merupakan bagian dari pelaksanaan rencana\ntata ruang wilayah perkotaan dan bukan perkotaan daerah tingkat II\nyang dijabarkan dari rencana tata ruang wilayah  daerah\ntingkat I yang bersangkutan, juga memperhatikan strategi-nasional\npengembangan perkotaan.\n\nPasal 32\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\n Ayat (1)\n\n  H u r u f  a\n\n   Penyediaan tanah untuk perumahan dan permukiman melalui\npenggunaan tanah negara, selain ditujukan untuk penyediaan\nkaveling tanah matang dengan penerapan subsidi silang, juga\nditujukan sebagai modal untuk cadangan tanah negara secara\nberkelanjutan.\n\n   Penerimaan hasil pengusahaan tanah negara tersebut\ndigunakan untuk penyediaan tanah di lokasi lain sehingga\nselalu tersedia cadangan tanah negara dalam jumlah yang\nmemadai untuk pembangunan perumahan dan permukiman\npada waktu yang akan datang.\n\n  H u r u f  b\n   C u k u p  j e l a s\n\n  H u r u f  c\n\n   Pelepasan hak atas tanah oleh pemilik tanah dilakukan dengan\nkesepakatan, sehingga tidak merugikan pemilik hak atas\ntanah.\n\n Ayat (2)\n  C u k u p  j e l a s\n\nPasal 33\n\n Ayat (1)\n\n  Pemupukan dana dilakukan Pemerintah dengan memanfaatkan\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nsumber-sumber dana sesuai dengan ketentuan peraturan\nperundang-undangan yang berlaku.\n\n Ayat (2)\n\n  Kredit untuk perumahan antara lain berupa kredit pemilikan\nrumah, kredit pembangunan rumah, kredit perbaikan rumah, dan\nkredit pemugaran rumah.\n  Melalui bantuan dan/atau kemudahan ini diharapkan masyarakat\nmampu membangun, memperbaiki, memugar sendiri atau\nmemiliki rumah sendiri dengan fasilitas yang semakin tersedia\ndan terjangkau.\n\nPasal 34\n\n Membangun perumahan dan permukiman selalu diusahakan dengan\nmemanfaatkan hasil penelitian dan pengembangan teknologi,\nindustri bahan bangunan, jasa ko nstruksi dan rancang bangun yang\nsesuai dengan lingkungan dan sejauh mungkin menggunakan bahan\nbangunan lokal secara bijaksana dan hemat energi serta sejauh\nmungkin menggunakan tenaga kerja setempat.\n\n Hal ini dimaksudkan untuk menekan biaya pembangunan dengan\nmutu yang memadai dan mendorong pengembangan usaha dan\nsentra produksi, agar dapat memperluas kesempatan usaha dan\nkesempatan kerja dan memungkinkan pemerataan pembangunan\ndan hasil-hasilnya.\n\n\nPasal 35\n\n Ayat (1)\n\n  Penyerahan sebagian urusan pemerintahan mengenai tugas dan\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nwewenang pembinaan di bidang perumahan dan permukiman\nkepada pemerintah daerah, dimaksudkan untuk mendorong\nterwujudnya titik berat otonomi berada di daerah tingkat II\nsesuai dengan Undang-undang Nomor 5 Tahun 1974 tentang\nPokok-pokok Pemerintahan Di Daerah, khusus untuk Daerah\nKhusus Ibukota Jakarta berlaku sesuai dengan Undang-undang\nNomor 11 Tahun 1990 tentang Susunan Pemerintahan Daerah\nKhusus Ibukota Negara Republik Indonesia Jakarta.\n\n Ayat (2)\n  C u k u p  j e l a s\n\nPasal 36\n\n Ayat (1)\n  C u k u p  j e l a s\n\n Ayat (2)\n  C u k u p  j e l a s\n\n Ayat (3)\n  C u k u p  j e l a s\n\n Ayat (4)\n  C u k u p  j e l a s\n\nPasal 37\n\n Cukup jelas\n\nPasal 38\n\n Cukup jelas\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nPasal 39\n\n Cukup jelas\n\n\n\nPasal 40\n\n Cukup jelas\n\nPasal 41\n\n Cukup jelas\n\nPasal 42\n\n Setelah Undang-undang ini diundangkan, dipandang perlu\nPemerintah mengadakan persiapan seperlunya."
+   }
+  }
+ ]
+}

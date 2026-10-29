@@ -1,0 +1,366 @@
+{
+ "id": "MY-H4410",
+ "title": {
+  "zh": "2017年消费者保护（赊销）条例",
+  "en": "CONSUMER PROTECTION (CREDIT SALE) REGULATIONS 2017",
+  "orig": "CONSUMER PROTECTION (CREDIT SALE) REGULATIONS 2017",
+  "ms": "Peraturan Perlindungan Pengguna (Jualan Kredit) 2017",
+  "vi": "Quy định về Bảo vệ người tiêu dùng (Bán chịu) năm 2017",
+  "th": "ข้อบังคับการคุ้มครองผู้บริโภค (การขายเชื่อ) ค.ศ. 2017",
+  "id": "Peraturan Perlindungan Konsumen (Penjualan Kredit) Tahun 2017"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-9",
+ "language": "ms",
+ "level": "regulation",
+ "category": "02_民商事与经济法",
+ "status": "active",
+ "promulgatedDate": "2017",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "PUA322",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 27,
+ "chars": 56813,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-view.php?type=pua&no=P.U. (A) 322/2017&status=PRINCIPAL"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\02_民商事与经济法\\2017_P.U.(A)322-2017_CONSUMER PROTECTION (CREDIT SALE) REGULATIONS 2017.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 27 条；逐字未改写（源自厂商 OCR 文本）。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H4410-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "1. Nama dan permulaan kuat kuasa"
+   }
+  },
+  {
+   "id": "MY-H4410-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "2. Pemakaian"
+   }
+  },
+  {
+   "id": "MY-H4410-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "3. Barang"
+   }
+  },
+  {
+   "id": "MY-H4410-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "4. Pernyataan bertulis"
+   }
+  },
+  {
+   "id": "MY-H4410-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "5. Bentuk perjanjian jualan kredit"
+   }
+  },
+  {
+   "id": "MY-H4410-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "6. Kandungan tambahan perjanjian jualan kredit"
+   }
+  },
+  {
+   "id": "MY-H4410-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "7. Ketelusan maklumat dalam perjanjian jualan kredit"
+   }
+  },
+  {
+   "id": "MY-H4410-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "8. Fi pemprosesan"
+   }
+  },
+  {
+   "id": "MY-H4410-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "9. Fi tempahan"
+   }
+  },
+  {
+   "id": "MY-H4410-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "10. Deposit"
+   }
+  },
+  {
+   "id": "MY-H4410-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "11. Caj terma"
+   }
+  },
+  {
+   "id": "MY-H4410-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "12. Kadar peratusan tahunan"
+   }
+  },
+  {
+   "id": "MY-H4410-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "13. Caj sampingan"
+   }
+  },
+  {
+   "id": "MY-H4410-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "14. Caj bayaran lewat"
+   }
+  },
+  {
+   "id": "MY-H4410-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "15. Tempoh ansuran"
+   }
+  },
+  {
+   "id": "MY-H4410-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "16. Penyelesaian awal"
+   }
+  },
+  {
+   "id": "MY-H4410-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "17. Rebat berkanun"
+   }
+  },
+  {
+   "id": "MY-H4410-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "18. Rundingan bersama"
+   }
+  },
+  {
+   "id": "MY-H4410-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "19. Pelupusan barang yang dibeli yang diserahkan balik"
+   }
+  },
+  {
+   "id": "MY-H4410-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "20. Mempamerkan notis"
+   }
+  },
+  {
+   "id": "MY-H4410-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "21. Penzahiran maklumat dalam iklan barang"
+   }
+  },
+  {
+   "id": "MY-H4410-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "22. Kewajipan pembeli berhubung dengan insurans barang"
+   }
+  },
+  {
+   "id": "MY-H4410-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "23. Kad kuasa"
+   }
+  },
+  {
+   "id": "MY-H4410-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "24. Kewajipan untuk menyimpan dan menyenggarakan rekod pembayaran"
+   }
+  },
+  {
+   "id": "MY-H4410-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "25. Kesalahan"
+   }
+  },
+  {
+   "id": "MY-H4410-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "26. Peruntukan kecualian dan peralihan"
+   }
+  },
+  {
+   "id": "MY-H4410-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 27"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "27. Pembatalan\n\nJADUAL PERTAMA\nJADUAL KEDUA\nJADUAL KETIGA\nJADUAL KEEMPAT\nJADUAL KELIMA\nJADUAL KEENAM\nJADUAL KETUJUH\n\nAKTA PERLINDUNGAN PENGGUNA 1999\n\nPERATURAN-PERATURAN PERLINDUNGAN PENGGUNA (JUALAN KREDIT) 2017\n\nPADA menjalankan kuasa yang diberikan oleh seksyen 24 AA\nAkta Perlindungan Pengguna 1999 [ Akta 599 ], Menteri membuat peraturan -peraturan\nyang berikut:\n\nNama dan permulaan kuat kuasa\n1. (1) Peraturan-peraturan ini bolehlah dinamakan Peraturan-Peraturan\nPerlindungan  Pengguna (Jualan Kredit) 2017.\n\n (2) Peraturan-Peraturan ini mula berkuat kuasa pada 1 Januari 2018.\n\nPemakaian\n2. Peraturan-Peraturan ini hendaklah terpakai bagi semua jenis perniagaan—\n\n(a) yang dikehendaki untuk mendaftar di bawah mana -mana undang -undang\nbertulis berhubung dengan syarikat atau perniagaan; dan\n\n(b) yang terlibat dalam urus niaga jualan kredit.\n\nBarang\n3. Suatu perjanjian jualan kredit hanya boleh dibuat berkenaan dengan apa-apa barang\natau kelas barang sebagaimana yang dinyatakan dalam Jadual Pertama.\n\nPernyataan bertulis\n4. (1) Sebelum apa-apa perjanjian jualan kredit dibuat berkenaan dengan apa -apa\nbarang atau kelas barang, penjual atau pemberi kemudahan kredit, atau mana -mana orang\nyang bertindak bagi pihak penjual atau pemberi kemudahan kredit itu, atau pengedar yang\ndisebut dalam seksyen 24 N Akta hendaklah menyerahkan kepada bakal pembeli suatu\n\npernyataan bertulis yang berhubungan dengan ringkasan obligasi kewangan bakal pembeli\nsebagaimana yang dinyatakan dalam Bahagian I Jadual Kedua.\n\n(2) Kandungan pernyataan bertulis yang disebut dalam subperaturan (1)\nhendaklah dimasukkan dalam perjanjian jualan kredit.\n\nBentuk perjanjian jualan kredit\n5. Suatu perjanjian jualan kredit hendaklah dicetak—\n\n(a) dalam fon Arial berwarna hitam  yang bersaiz tidak kurang daripada 10 poin;\ndan\n\n(b) pada kertas bersaiz A4.\n\nKandungan tambahan perjanjian jualan kredit\n6. Sebagai tambahan kepada kandungan perjanjian jualan  kredit yang dikehendaki\ndi bawah seksyen 24P Akta, perjanjian jualan kredit hendaklah mengandungi maklumat yang\nberikut:\n\n(a) kaedah bagi pembayaran setiap ansuran bulanan;\n\n(b) pemilihan yang boleh dibuat sekiranya berlaku kemungkiran pembayaran dua\nansuran berturut -turut oleh pembeli sebagaimana yang dinyatakan dalam\nsubseksyen 24V(2) Akta;\n\n(c) formula bagi pengiraan caj terma, kadar peratusan tahunan, caj bayaran lewat\ndan rebat berkanun mengikut Jadual Keempat, Jadual Kelima, Jadual Keenam\ndan Jadual Ketujuh, masing-masing;\n\n(d) penamatan perjanjian jualan kredit dan penyerahan balik barang yang dibeli\ndi bawah perenggan 24V(2)(c) Akta; dan\n\n(e) penamatan perjanjian jualan kredit secara penyelesaian awal di bawah\nperaturan 16.\n\nKetelusan maklumat dalam perjanjian jualan kredit\n7. (1) Penjual atau pemberi kemudahan kredit, atau mana -mana orang yang\nbertindak bagi pihak penjual atau pemberi kemudahan kredit itu, atau pengedar hendaklah\nmemastikan bahawa—\n\n(a) jargon teknikal dan jargon undang-undang telah diterangkan kepada\nbakal pembeli dalam bahasa yang mudah dan jelas serta difahami oleh\nbakal pembeli itu; dan\n\n(b) kandungan perjanjian jualan kredit telah diterangkan kepada bakal\npembeli dan difahami oleh bakal pembeli itu.\n\n (2) Bagi maksud subperaturan (1), tandatangan atau cap jari pembeli berkenaan\ndengan suatu perjanjian jualan kredit hendaklah menjadi bukti bahawa kehendak di bawah\nsubperaturan (1) telah dipenuhi.\n\nFi pemprosesan\n8. Fi pemprosesan yang kena dibayar oleh bakal pembeli yang membuat suatu\npermohonan untuk mendapatkan persetujuan pemberi kemudahan kredit untuk\nmemberikan kemudahan kredit di bawah subseksyen 24N(2) Akta hendaklah sebagaimana\nyang dinyatakan dalam Jadual Ketiga.\n\nFi tempahan\n9. (1) Tiada penjual atau  pemberi kemudahan kredit, atau mana -mana orang yang\nbertindak bagi pihak penjual atau pemberi kemudahan kredit  itu, atau pengedar boleh\nmemungut atau menerima fi tempahan daripada bakal pembeli sebelum penyerahan\npernyataan bertulis sebagaimana yang dinya takan dalam Jadual Kedua oleh penjual atau\n\npemberi kemudahan kredit  itu, atau mana -mana orang yang bertindak bagi pihak penjual\natau pemberi kemudahan kredit itu, atau pengedar itu.\n\n (2) Fi tempahan yang disebut dalam subperaturan (1) tidak boleh melebihi\nlima peratus daripada harga tunai barang sebagaimana yang dinyatakan dalam pernyataan\nbertulis yang disebut dalam subperaturan (1).\n\n (3) Fi tempahan hendaklah menjadi sebahagian daripada  deposit di bawah\nperaturan 10.\n\n(4) Penjual atau pemberi kemudahan kredit, atau mana-mana orang yang\nbertindak bagi pihak penjual atau pemberi kemudahan kredit itu, atau pengedar yang telah\nmemungut atau menerima fi tempahan daripada bakal pembeli hendaklah membayar balik\namaun keseluruhan fi tempahan itu kepada bakal pembeli itu jika—\n\n(a) persetujuan untuk memberikan kemudahan kredit tidak  diberikan\noleh pemberi kemudahan kredit itu di bawah subseksyen 24N(2) Akta;\natau\n\n(b) penjual atau pemberi kemudahan kredit  itu, atau orang yang\nbertindak bagi pihak penjual atau pemberi kemudahan kredit itu, atau\npengedar itu gagal menyerahhakkan barang kepada bakal pembeli\ndalam tempoh yang dinyatakan dalam pernyataan bertulis  yang\ndisebut dalam subperaturan (1).\n\n(5) Fi tempahan yang disebut dalam subperaturan (4) hendaklah dibayar balik\noleh penjual atau pemberi kemudahan kredit itu, a tau orang yang berti ndak ba gi pihak\npenjual atau pemberi kemudahan kredit itu, atau pengedar itu dalam tempoh sepuluh hari\nbekerja—\n\n(a)  dari tarikh persetujuan  untuk memberikan kemudahan kredit tidak\ndiberikan oleh  pemberi kemudahan kredit itu di bawah\nsubseksyen 24N(2) Akta; atau\n\n(b) dari tarikh kegagalan  untuk menghantarserahkan barang di bawah\nperenggan (4)(b).\n\n(6) Jika bakal pembeli menarik balik tempahan barang sebelum perjanjian jualan\nkredit ditandatangani, penjual atau pemberi kemudahan kredit, atau orang yang bertindak\nbagi pihak penjual atau pemberi kemudahan kredit itu, atau pengedar yang telah memungut\natau mener ima fi tempahan hendaklah membayar balik tidak kurang daripada sembilan\npuluh peratus fi tempahan itu kepada bakal pembeli itu dalam tempoh sepuluh hari bekerja\ndari tarikh tempahan itu ditarik balik.\n\nDeposit\n10. (1) Seorang penjual atau pemberi kemudahan kredit, atau mana-mana orang yang\nbertindak bagi pihak penjual atau pemberi kemudahan kredit itu, atau pengedar hendaklah\nmemungut atau menerima deposit daripada pembeli hanya apabila menandatangani\nperjanjian jualan kredit.\n\n(2) Deposit yang disebut dalam subperaturan (1) tidak boleh melebihi sepuluh\nperatus daripada harga tunai barang sebagaimana yang dinyatakan dalam perjanjian jualan\nkredit.\n\n(3) Walau apa pun sub peraturan (2), deposit boleh melebihi sepuluh peratus\ndaripada harga tunai barang jika peratusan itu dipersetujui bersama oleh p emberi\nkemudahan kredit dan pembeli.\n\n(4) Jika penjual atau pemberi kemudahan kredit, atau mana -mana orang yang\nbertindak bagi pihak penjual atau pemberi kemudahan kredit  itu, atau pengedar gagal\nuntuk  menyerah hakkan barang di bawah perjanjian jualan kredit kepada pembeli dalam\n\ntempoh yang dinyatakan  dalam perjanjian jualan kredit itu, penjual atau pemberi\nkemudahan kredit  itu, atau mana -mana orang yang bertindak bagi pihak penjual atau\npemberi kemudahan kredit  itu, atau pengedar  itu yang telah memungut atau menerima\ndeposit daripada pembeli hendaklah membayar balik deposit itu kepada pembeli itu dalam\ntempoh sepuluh hari bekerja dari tarikh kegagalan untuk menghantarserahkan barang itu.\n\nCaj terma\n11. (1) Jika suatu perjanjian jualan kredit memperuntukkan caj terma berkenaan\ndengan mana-mana barang atau kelas barang—\n\n(a) caj terma itu hendaklah pada kadar tetap;\n\n(b) caj terma itu hendaklah dikira mengikut formula sebagaimana yang\ndinyatakan dalam Jadual Keempat; dan\n\n(c) kadar caj terma itu tidak boleh melebihi lima belas peratus setahun.\n\n(2) Tiada perubahan boleh dibuat kepada caj terma berkenaan dengan\nmana-mana barang atau kelas barang selepas perjanjian jualan kredit ditandatangani oleh\npembeli dan pemberi kemudahan kredit.\n\n(3) Walau apa pun subperaturan (2), kadar caj ter ma sebagaimana yang\ndinyatakan dalam suatu perjanjian jualan kredit boleh dikurangkan jika pengurangan itu\ndipersetujui bersama oleh pemberi kemudahan kredit dan pembeli.\n\nKadar peratusan tahunan\n12. Kadar peratusan tahunan bagi caj terma hendaklah dikira mengikut formula\nsebagaimana yang dinyatakan dalam Jadual Kelima.\n\nCaj sampingan\n13. Caj sampingan yang dikenakan oleh pemberi kemudahan kredit hendaklah\ndinyatakan dan diperincikan dengan jelas dalam  pernyataan bertulis  yang disebut dalam\nperaturan 4 dan perjanjian jualan kredit.\n\nCaj bayaran lewat\n14. (1) Caj bayaran lewat yang dikenakan oleh pemberi kemudahan kredit bagi\nansuran lampau tempoh di bawah suatu perjanjian jualan kredit yang memperuntukkan caj\nterma pada kadar tetap hendaklah dikira atas dasar harian mengikut formula sebagaimana\nyang dinyatakan dalam Jadual Keenam.\n\n (2)  Kadar bagi caj bayaran lewat tidak boleh melebihi lima peratus setahun.\n\nTempoh ansuran\n15. (1) Pembayaran ansuran di bawah perjanjian jualan kredit hendaklah dibuat\nsecara bulanan kepada pemberi kemudahan kredit.\n\n (2)   Tempoh pembayaran ansuran di bawah mana -mana perjanjian jualan kredit\ntidak boleh melebihi enam puluh bulan dari tarikh penerimaan barang.\n\nPenyelesaian awal\n16. Pemberi kemudahan kredit hendaklah membenarkan pembeli pada bila -bila masa\ndalam tempoh perjanjian jualan kredit itu untuk membuat penyelesaian awal  bagi jumlah\namaun yang kena dibayar di bawah perjanjian jualan kredit itu.\n\nRebat berkanun\n17. Jika pembeli memilih untuk membuat penyelesaian awal bagi jumlah amaun yang\nkena dibayar di bawah perjanjian jualan kredit kepada pemberi kemudahan kredit di bawah\nperenggan 24V(2)(b) Akta atau peraturan 16, pemberi kemudahan kredit itu hendaklah—\n\n(a) memberi rebat berkanun kepada pembeli  itu yang dikira mengikut formula\nsebagaimana yang dinyatakan dalam Jadual Ketujuh; dan\n\n(b) memastikan bahawa rebat atas amaun premium yang dibayar berkenaan\ndengan insurans barang, jika ada, diberikan kepada pembeli.\n\nRundingan bersama\n18. (1) Sebelum suatu notis di bawah subseksyen 24 V(1) Akta dikeluarkan kepada\npembeli mengenai penyelesaian ansuran lampau di bawah perjanjian jualan kredit, pembeli\nboleh berunding dengan pemberi kemudahan kredit mengenai bayaran ansuran lampau itu\npada bila-bila masa.\n\n (2) Jika pembeli gagal membayar amaun yang kurang antara hasil jualan atau\npelupusan barang yang dibeli yang diserahkan balik dengan amaun keseluruhan yang belum\ndijelaskan yang kena dibayar di bawah perjanjian jualan kredit di bawah subseksyen 24W(7)\nAkta akibat daripada apa -apa kesusahan yang dihadapi oleh pembeli, pembeli itu boleh\nberunding dengan pemberi kemudahan kredit bagi penyelesaian alternatif berkenaan\ndengan penyelesaian amaun yang kurang itu.\n\nPelupusan barang yang dibeli yang diserahkan balik\n19. (1) Jika pembeli, pada bila -bila masa atau apabila pemilihan di bawah\nperenggan 24V(2)(c) Akta untuk menamatkan perjanjian jualan kredit dibuat, menyerahkan\nbalik barang yang dibeli kepada pemberi kemudahan kredit di bawah seksyen 24W Akta—\n\n(a) pembeli itu hendaklah memastikan bahawa barang yang dibeli adalah\ndalam keadaan yang baik dan secara munasabahnya boleh diguna\npakai bagi maksud yang baginya barang itu digunakan; dan\n\n(b) apabila barang yang dibeli itu dijual atau dilupuskan oleh pemberi\nkemudahan kredit, pembeli itu berhak kepada harga yang terbaik yang\n\nboleh diperoleh secara munasabah oleh pemberi kemudahan kredit\nitu—\n\n(i) secara lelong;\n\n(ii) daripada mana-mana pembeli kontrak;\n\n(iii) daripada mana -mana orang yang dicadangkan oleh pembeli\nyang berniat untuk membeli atau telah membeli barang itu\nsecara tunai; atau\n\n(iv) melalui apa -apa cara lain yang dipersetujui oleh pemberi\nkemudahan kredit dan pembeli itu.\n\n(2) Bagi maksud subperenggan (1)(b)(ii), \"pembeli kontrak\" ertinya mana -mana\norang yang dilantik oleh pemberi kemudahan kredit untuk membeli barang yang diserahkan\nbalik oleh pembeli mengikut seksyen 24W Akta.\n\nMempamerkan notis\n20. (1) Seorang penjual atau pemberi kemudahan kredit hendaklah mempamerkan\nsuatu notis di pintu masuk premisnya atau di mana-mana tempat lain yang mudah dilihat di\npremis itu yang menyatakan maklumat yang berikut:\n\n(a) caj terma  yang disebut dalam peraturan 11  yang dikira mengikut\nformula sebagaimana yang dinyatakan dalam Jadual Keempat;\n\n(b) caj sampingan yang disebut dalam peraturan 13;\n\n(c) tempoh yang disebut dalam subseksyen 24N(8) dan (9) Akta; dan\n\n(d) tempoh ansuran yang disebut dalam peraturan 15.\n\n (2) Notis yang disebut dalam subperaturan (1) hendaklah—\n\n(a) dalam bahasa kebangsaan dan bahasa Inggeris; dan\n\n(b) ditulis tangan atau dicetak dengan huruf besar yang ketinggian\npenghurufannya tidak kurang daripada lima sentimeter.\n\n (3) Tanpa menjejaskan perenggan (2)(a), penjual atau pemberi kemudahan kredit\nboleh mempamerkan notis yang disebut dalam  subperaturan (1) dalam bahasa lain\ndengan syarat bahawa notis itu mempunyai maklumat yang sama sebagaimana  notis yang\ndipamerkan di bawah subperaturan (1).\n\nPenzahiran maklumat dalam iklan barang\n21. Tiap-tiap iklan barang hendaklah mengandungi maklumat mengenai harga tunai, caj\nterma, tempoh ansuran, jumlah amaun yang kena dibayar di bawah perjanjian jualan kredit,\namaun ansuran bulanan dan perihalan barang.\n\nKewajipan pembeli berhubung dengan insurans barang\n22. Jika barang di bawah perjanjian jualan kredit telah diinsuranskan, pembeli hendaklah\nmemberitahu pemberi kemudahan kredit mengenai apa-apa pembaharuan insurans yang\nberikutnya berkenaan dengan barang itu, jika ada.\n\nKad kuasa\n23. (1) Mana-mana orang yang bertindak bagi pihak pemberi kemudahan kredit tidak\nboleh—\n\n(a) memungut atau menerima apa -apa bayaran ansuran atau apa -apa\namaun yang belum dijelaskan di bawah perjanjian jualan kredit\ndaripada pembeli; atau\n\n(b) memungut atau menerima barang yang diserahkan balik oleh pembeli\ndi bawah seksyen 24W Akta,\n\ntanpa kebenaran daripada pemberi kemudahan kredit itu.\n\n(2) Bagi maksud memberi kebenaran yang disebut dalam  subperaturan (1),\npemberi kemudahan kredit hendaklah mengeluarkan suatu kad kuasa kepada orang yang\nbertindak bagi pihaknya.\n\n(3) Kad kuasa yang dikeluarkan oleh pemberi kemudahan kredit di bawah\nsubperaturan (2)  hendaklah menyatakan dengan jelas maklumat yang berikut:\n\n(a) nama dan nombor kad pengenalan pemegang kad;\n\n(b) nama, alamat dan nombor telefon pemberi kemudahan kredit yang\nmengeluarkan kad kuasa itu;\n\n(c) nama, jawatan dan tandatangan orang yang diberi kebenaran\nsedemikian oleh pemberi kemudahan kredit itu;\n\n(d) nombor kad kuasa; dan\n\n(e) gambar berwarna terkini orang yang diberi kebenaran  sedemikian\nyang dilekatkan pada kad kuasa itu.\n\n(4) Gambar yang disebut dalam perenggan (3)(e)—\n\n(a) hendaklah dalam saiz 3.8 sentimeter tinggi dan  3.2 s entimeter lebar\ndan hendaklah tanpa birai;\n\n(b) hendaklah menunjukkan muka penuh orang yang diberi kebenaran\nsedemikian dan imej dari paras dagu hingga bahagian atas kepala\nhendaklah tidak kurang daripada 2.54 s entimeter dalam kedudukan\nmenegak; dan\n\n(c) hendaklah diambi l tanpa penutup kepala, kecuali  mana-mana orang\nyang pada kebiasaannya memakai penutup kepala mengikut agamanya\natau adat bangsanya dengan syarat bahawa penutup kepala orang itu\ntidak menyembunyikan bahagian mukanya.\n\n(5) Mana-mana orang yang bertindak bagi pihak pemberi kemudahan kredit tidak\nboleh meminjam kan, memindah milik atau menyerahhakkan kad kuasanya kepada\nmana-mana orang lain.\n\n(6) Kad kuasa yang dikeluarkan di bawah subperaturan (2) kepada mana -mana\norang hendaklah diserahkan balik kepada pemberi kemudahan kredit apabila orang itu tidak\nlagi bertindak bagi pihak pemberi kemudahan kredit itu.\n\n(7) Apabila seseorang bertindak bagi pihak pemberi kemudahan kredit\nberkenaan dengan perjanjian jualan kredit, orang itu hendaklah mengem ukakan kad kuasa\nkepada bakal pembeli atau pembeli.\n\n(8)  Seseorang yang bertindak bagi pihak pemberi kemudahan kredit tidak boleh\nmengemukakan kad kuasa yang mengandungi apa -apa maklumat yang palsu atau\nmengelirukan.\n\n(9) Pemberi kemudahan kredit hendak lah menyimpan dan menyenggara kan\nrekod bagi semua kad kuasa yang dikeluarkan di bawah subperaturan (2) dan rekod itu\nhendaklah dikemas kini dari semasa ke semasa.\n\nKewajipan menyimpan dan menyenggarakan rekod pembayaran\n24. Pemberi kemudahan kredit hendaklah menyimpan dan menyenggara kan rekod\npembayaran bagi tiap -tiap perjanjian jualan kredit selama tujuh tahun dan rekod itu\nhendaklah dikemas kini dari semasa ke semasa.\n\nKesalahan\n25. Mana-mana orang yang melanggar mana -mana peruntukan dalam\nPeraturan-Peraturan ini melakukan suatu kesalahan dan boleh, apabila disabitkan—\n\n(a) jika orang itu suatu pertubuhan perbadanan, didenda tidak melebihi\nsatu ratus ribu ringgit, dan bagi kesalahan kali kedua atau yang berikut nya,\ndidenda tidak melebihi dua ratus ribu ringgit; atau\n\n(b) jika orang itu bukan suatu pertubuhan perbadanan, didenda tidak melebihi\nlima puluh  ribu ringgit atau dipenjarakan selama tempoh tidak melebihi\ntiga tahun, atau kedua -duanya, dan bagi kesalahan kali kedua atau yang\nberikutnya, didenda tidak melebihi satu ratus ribu ringgit atau dipenjarakan\nselama tempoh tidak melebihi lima tahun, atau kedua-duanya.\n\nPeruntukan kecualian dan peralihan\n26. (1) Semua urus niaga, urusan dan perjanjian yang dibuat atau disempurnakan\nmenurut undang-undang termasuklah apa-apa hak atau liabiliti di bawah urus niaga, urusan\natau perjanjian itu yang wujud sebaik sebelum permulaan kuat kuasa Perat uran-Peraturan\nini hendaklah terus sah di bawah Peraturan-Peraturan ini.\n\n(2) Apa-apa rayuan atau prosiding yang belum selesai di hadapan Tribunal atau\nmana-mana mahkamah sebaik sebelum permulaan kuat kuasa Peraturan -Peraturan ini\nhendaklah diteruskan seolah-olah Peraturan-Peraturan ini belum berkuat kuasa.\n\nPembatalan\n27. Peraturan-Peraturan Perlindungan Pengguna (Jualan Kredit) 2012 [P.U. (A) 89/2012]\ndibatalkan.\n\nJADUAL PERTAMA\n[Peraturan 3]\n\nSENARAI BARANG ATAU KELAS BARANG\n\n1. Alatan rumah, sama ada baran g elektrik atau bukan elektrik dan aksesori nya yang\nberkaitan\n\n2. Telefon bimbit dan aksesorinya\n\n3. Peranti pemproses data (iaitu apa-apa artikel atau peranti yang daripadanya maklumat\nboleh dihasilkan semula  dengan atau tanpa bantuan ap a-apa artikel atau peranti lain\ntermasuklah monitor, komputer meja, komputer ri ba, mesin cetak, mesin faks dan\nkonsol) dan aksesorinya\n\n4. Peralatan kesihatan dan kecergasan\n\n5. Penutup lantai dan kelengkapan rumah\n\n6. Perkakas dapur\n\n7. Instrumen muzik dan aksesorinya\n\n8. Emas dan barang kemas\n\n9. Ensiklopedia\n\n10. Kenderaan orang cacat dan motosikal\n\nJADUAL KEDUA\n[Peraturan 4]\n\nPERNYATAAN BERTULIS\n\nBAHAGIAN I\n[Subseksyen 24N(1)]\n\nRINGKASAN OBLIGASI KEWANGAN BAKAL PEMBELI DI BAWAH PERJANJIAN JUALAN\nKREDIT YANG DICADANGKAN\n\nDokumen ini mengandungi suatu perihalan ringkas barang yang dinyatakan dalam\nperjanjian jualan kredit yang dicadangkan (selepas ini disebut sebagai \"Perjanjian\") dan\nsuatu ringkasan obligasi kewangan bakal pembeli di bawah Perjanjian.\n\n1.  Butiran barang:\n\n(a) Perihalan ringkas barang   : ………………………………….………………...\n\n(b) Jika kenderaan bermotor,\nnyatakan nombor pendaftaran  : ………………………………..............................\n\n(c) Nyatakan sama ada baharu atau terpakai : ………………………………………….…..........\n\n(d) Alamat di mana barang akan disimpan : …………………………….....……………….....\n\n2.  Butir-butir yang berhubungan dengan obligasi kewangan:\n\n(a) Harga tunai barang (termasuklah apa-apa cukai yang   RM ..........................\ndikenakan oleh Kerajaan)\n\n(b) Fi tempahan, jika ada      RM ..........................\n\n(c) Deposit, termasuk fi tempahan, jika ada    RM ..........................\n\n(d) Harga tunai tolak deposit      RM ..........................\n\n(e) Caj tambang muatan, jika ada     RM ..........................\n\n(f) Fi pendaftaran kenderaan, jika ada     RM ..........................\n\n3.  Insurans:\n\n(a) Bagi kenderaan bermotor, amaun insurans bagi\ntahun pertama sahaja      RM ..........................\n\n(b) Bagi barang selain kenderaan bermotor, amaun insurans\nbagi tempoh Perjanjian      RM ..........................\n\n(c) Bagi apa-apa risiko lain atas kemudahan kredit, jika ada  RM ..........................\n\n4.  Caj terma (kadar tetap):\n\n(a) Kadar tahunan ................................%\n\n(b) Jumlah amaun caj terma              RM ..........................\n\n5. Baki permulaan yang kena dibayar di bawah Perjanjian             RM ..........................\n\n6. Kadar peratusan tahunan                   RM ..........................\n\n7. Jumlah amaun yang kena dibayar di bawah Perjanjian\n    (mengikut subperenggan 24P(1)(b)(x) Akta)            RM ..........................\n\n8. Perbezaan antara harga tunai barang dengan\n  jumlah amaun yang kena dibayar di bawah Perjanjian           RM ..........................\n\n9. Butir-butir yang berhubungan dengan pembayaran:\n\n Tempoh pembayaran ansuran dalam—\n\n(a) Bilangan bulan               ..................................\n\n(b) Bilangan ansuran                ..................................\n\n(c) Amaun bagi setiap ansuran              RM ..........................\n\n(d) Amaun bagi ansuran terakhir (jika ada)                    RM ..........................\n\n10. Apa-apa caj sampingan yang boleh dikenakan (jika ada) hendaklah\n\n   dibayar secara berasingan dan tidak boleh termasuk dalam jumlah\n        amaun yang dikena dibayar di bawah Perjanjian:\n\n(a) Fi pemprosesan  RM ..........................\n\n(b) Caj pemasangan  RM ..........................\n\n(c) Caj penghantarserahan RM ..........................\n\n(d) Fi pungutan RM ..........................\n\n(e) Fi penyimpanan RM ..........................\n\n11. Tarikh/tempoh penghantarserahan barang: ....................................\n\nDokumen ini dikeluarkan oleh atau bagi pihak...........................................di\n.....................................................................pada....................haribulan...........................menurut subseksyen\n24N(1) Akta Perlindungan Pengguna 1999. Dokuman ini diberikan secara percuma tanpa\napa-apa obligasi untuk membuat suatu perjanjian jualan kredit.\n\nSaya/Kami.....................................................................................................No. K/P…………………….……..yang\nberalamat…………..................................................... dengan ini mengaku terima dokumen ini.\n\nTandatangan  ........……………………………\nTarikh …………………………........…\n\n_________________________________________________________________________________________________________\nNOTA:\nTiada perjanjian jualan kredit boleh dibuat dalam tempoh sepuluh hari bekerja selepas\npenyerahan pernyataan bertulis  ini. Walau bagaimanapun, bakal pembeli boleh memilih\nuntuk membuat suatu perjanjian jualan kredit selepas tiga hari bekerja dari tarikh\npenyerahan pernyataan bertulis  ini. Peruntukan ini adalah mengikut subseksyen 24N(8)\ndan (9) Akta Perlindungan Pengguna 1999.\n\nBAHAGIAN II\n[Subseksyen 24N(2)]\n\nPERSETUJUAN PEMBERI KEMUDAHAN KREDIT\n\n*Nama       : .…………………………….\n(Penjual/pemberi kemudahan kredit/\nmana-mana orang yang bertindak bagi\npihak penjual atau pemberi kemudahan kredit/\npengedar)\n\nAlamat      : .………………………….…\n\nTarikh       : .………………………….....\n\nKepada  ………………..………………….\n……………………………………\n\nAMBIL PERHATIAN bahawa…………………………………...................................................................................\nNo. K/P ........................................yang beralamat  …...………………...........berniat untuk membuat\nsuatu perjanjian jualan kredit berkenaan dengan………………………………dan suatu salinan\nringkasan obligasi kewangannya di bawah perjanjian jualan kredit yang dicadangkan telah\ndiserahkan kepadanya pada……………… haribulan ……………………….. yang salinannya\ndilampirkan bersama-sama ini menurut perenggan 24N(2)(a) Akta Perlindungan Pengguna\n\n2. Jika anda bersetuju untuk menjadi suatu pihak sebagai pemberi kemudahan kredit\ndalam perjanjian jualan kredit yang dicadangkan, mohon pengesahan dengan\nmenandatangani pada ruang yang bersesuaian dalam dokumen ini.\n\n*(Tandatangan penjual/pemberi kemudahan kredit/mana-mana orang yang bertindak bagi\npihak penjual atau pemberi kemudahan kredit/pengedar)\n\nNama  : ………………………………………………….\n\nAlamat : ………………………………………………….\n\nTarikh  : ………………………………………………….\n\n_________________________________________________________________________________________________________\nNOTA:\n*Potong jika tidak berkenaan\n\nKepada ………………………………\n………………………………\n\n*Saya/Kami ……………………………………….......................................................dengan ini bersetuju\nuntuk menjadi suatu pihak sebagai pem beri kemudahan kredit dalam perjanjian jualan\nkredit yang dicadangkan.\n\n(Tandatangan pemberi kemudahan kredit)\n\nNama  : …………………………………………\n\nAlamat : …………………………………………\n\nTarikh  : ………………………………………….\n\n_________________________________________________________________________________________________________\nNOTA:\n*Potong jika tidak berkenaan\n\nJADUAL KETIGA\n[Peraturan 8]\n\nFI PEMPROSESAN\n\nJumlah amaun yang kena dibayar di bawah\nperjanjian jualan kredit\n\nFi\n\nRM 30,000.00 dan ke bawah\n\nTidak melebihi RM 50.00\n\nRM 30,001.00 dan ke atas\n\nRM 51.00 ke RM 100.00\n\nJADUAL KEEMPAT\n[Peraturan 11]\n\nCAJ TERMA\n\nCaj terma hendaklah dikira mengikut formula yang berikut:\n\n 100 x C\nR =  __________\n    T x P\n\niaitu\n\nR  ialah caj terma yang dikira sebagai kadar peratusan setahun.\n\nC ialah caj terma yang dinyatakan dalam ringgit dan sen.\n\nT  ialah masa yang luput antara masa yang ditetapkan oleh atau di bawah perjanjian\njualan kredit bagi pembayaran ansuran yang pertama dan masa yang ditetapkan\nbagi pembayaran ansuran yang terakhir, bersama dengan—\n\n(a) satu minggu jika ansuran kena dibayar di bawah perjanjian pada lat tempoh\nseminggu tetap;\n\n(b) dua minggu jika ansuran kena dibayar di bawah perjanjian adalah pada lat\ntempoh dua minggu tetap;\n\n(c) satu bulan jika ansuran kena dibayar di bawah perjanjian pada lat tempoh\nsebulan tetap,\n\nyang dinyatakan dalam tahun dan pecahan tahun.\n\nP ialah perbezaan antara harga tunai barang yang dinyatakan dalam perjanjian\njualan kredit dengan amaun deposit bersama dengan—\n\n(a) caj tambang muatan, jika ada;\n\n(b) fi pendaftaran kenderaan, jika ada; dan\n\n(c) amaun premium yang dibayar berkenaan dengan insurans barang, jika\nada,\n\n yang dinyatakan dalam ringgit dan sen.\n\nJADUAL KELIMA\n[Peraturan 12]\n\nKADAR PERATUSAN TAHUNAN\n\nKadar peratusan tahunan hendaklah dikira mengikut formula yang berikut:\n\n2 NF (300C + NF)\n_____________________________\n2 N2F + 300C (N + 1)\n\niaitu\n\nN  ialah jumlah bilangan ansuran.\n\nC  ialah bilangan ansuran yang, di bawah suatu perjanjian  jualan kredit , akan\ndibayar dalam satu tahun atau, jika perjanjian  jualan kredit  hendaklah\ndiselesaikan dalam tempoh kurang daripada satu tahun, bilangan ansuran yang\nakan dibayar dalam satu tahun jika ansuran terus dibayar pada selang yang sama.\n\nF  ialah amaun yang ditentukan mengikut formula yang berikut:\n\n100C x T\n___________\n N x A\n\niaitu\n\nC ialah bilangan ansuran yang, di bawah suatu perjanjian  jualan kredit,\nakan dibayar dalam satu tahun atau, jika perjanjian jualan kredit\n\nhendaklah diselesaikan dalam tempoh kurang daripada satu tahun,\nbilangan ansuran yang akan  dibayar dalam satu tahun  jika ansuran\nterus dibayar pada selang yang sama.\n\nT ialah jumlah amaun caj terma yang ditentukan terlebih dahulu.\n\nN ialah  jumlah bilangan ansuran.\n\nA ialah amaun yang dibiayai.\n\nJADUAL KEENAM\n[Peraturan 14]\n\nCAJ BAYARAN LEWAT\n\nJika pembeli mungkir dalam pembayaran ansuran di bawah suatu perjanjian jualan kredit,\ncaj bayaran lewat hendaklah dikira mengikut formula yang berikut:\n\n      R x A\n  LP =   __________         x   DD\n            Y\n\niaitu\n\nLP  ialah caj bayaran lewat yang dinyatakan dalam ringgit dan sen.\n\nR  ialah kadar bagi caj bayaran lewat yang ditetapkan oleh Menteri.\n\nA  ialah tunggakan ansuran yang belum dijelaskan.\n\nY  ialah 365 hari.\n\nDD  ialah bilangan hari lewat bagi pembayaran ansuran.\n\nJADUAL KETUJUH\n[Peraturan 17]\n\nREBAT BERKANUN\n\nRebat berkanun hendaklah dikira mengikut formula yang berikut:\n\n(a) Rebat berkanun = C x (1+2+……….+n)\n            (1+2+3+4+…….+k)\n\n     atau\n\n(b) Rebat berkanun =  Cn x (n + 1)_\n                   k (k+1)\n\niaitu\n\nC ialah jumlah amaun faedah (amaun caj terma).\n\nn  ialah baki bilangan ansuran bulanan.\n\nk ialah tempoh asal perjanjian jualan kredit.\n\nDibuat 19 Oktober 2017\n[KPDNKK(R)700-1/2/16;PN(PU2)607/V]\n\nDATO' SRI HAMZAH BIN ZAINUDDIN\nMenteri Perdagangan Dalam Negeri, Koperasi dan Kepenggunaan\n\nCONSUMER PROTECTION ACT 1999\n\nCONSUMER PROTECTION (CREDIT SALE) REGULATIONS 2017\n\n___________________________________________\nARRANGEMENT OF REGULATIONS\n___________________________________________\n\nRegulation\n\n1. Citation and commencement\n2. Application\n3. Goods\n4. Written statement\n5. Form of credit sale agreement\n6. Additional contents of credit sale agreement\n7. Transparency of information in credit sale agreement\n8. Processing fee\n9. Booking fee\n10. Deposit\n11. Terms charges\n12. Annual percentage rate\n13. Ancillary charges\n14. Late payment charges\n15. Period of instalments\n16. Early settlement\n17. Statutory rebate\n18. Mutual consultation\n19. Disposal of purchased goods surrendered\n20. Display of notice\n21. Disclosure of information in advertisement of goods\n22. Duty of purchaser in relation to insurance of goods\n\n23. Authority card\n24. Duty to keep and maintain records of payment\n25. Offence\n26. Saving and transitional provisions\n27. Revocation\n\n  FIRST SCHEDULE\nSECOND SCHEDULE\nTHIRD SCHEDULE\nFOURTH SCHEDULE\nFIFTH SCHEDULE\nSIXTH SCHEDULE\nSEVENTH SCHEDULE\n\nCONSUMER PROTECTION ACT 1999\n\nCONSUMER PROTECTION (CREDIT SALE) REGULATIONS 2017\n\nIN exercise of the powers conferred by section 24 AA of the Consumer Protection Act 1999\n[Act 599], the Minister makes the following regulations:\n\nCitation and commencement\n1. (1) These regulations may be cited as the Consumer Protection (Credit Sale)\nRegulations 2017.\n\n (2) These Regulations come into operation on 1 January 2018.\n\nApplication\n2. These Regulations shall apply to all types of businesses—\n\n(a) that are required to be registered under any written law in relation to\ncompanies or businesses; and\n\n(b) which involve in credit sale transactions.\n\nGoods\n3. A credit sale agreement shall only be made in respect of any goods or class of goods\nas specified in the First Schedule.\n\nWritten statement\n4. (1) Before any credit sale agreement is entered into in respect of any goods or\nclass of goods, a seller or credit facility provider, or any person acting on behalf of the seller\nor credit facility provider, or a dealer referred to in section 24 N of the Act shall serve on the\nprospective purchaser a written statement relating to the summary of financial obligation of\nthe prospective purchaser as specified in Part I of the Second Schedule.\n\n (2) The contents of the written statement referred to in subregulation (1) shall be\nincluded in the credit sale agreement.\n\nForm of credit sale agreement\n5.  A credit sale agreement shall be printed—\n\n(a) in black Arial font in the size of not less than 10 points; and\n\n(b) on an A4 size paper.\n\nAdditional contents of credit sale agreement\n6. In addition to the contents of a credit sale agreement required under section 24 P of\nthe Act, a credit sale agreement shall contain the following information:\n\n(a) the method for the payment of each of the monthly instalments;\n\n(b) the election that can be made in the event of default in payment of two\nconsecutive instalments by the purchaser as specified in subsection 24V(2) of\nthe Act;\n\n(c) the formula for the calculatio n of the terms charges, annual percentage rate,\nlate payment charges and statutory rebate in accordance with the Fourth\nSchedule, Fifth Schedule, Sixth Schedule and Seventh Schedule, respectively;\n\n(d) the termination of the credit sale agreement and surrende r of the purchased\ngoods under paragraph 24V(2)(c) of the Act; and\n\n(e) the termination of the credit sale agreement by way of early settlement under\nregulation 16.\n\nTransparency of information in credit sale agreement\n7. (1) A seller or credit facility provider, or any person acting on behalf of the seller\nor credit facility provider, or a dealer shall ensure that—\n\n(a) the technical and legal jargons have been explained to the prospective\npurchaser in a simple and clear language and understood by him; and\n\n(b) the contents of the credit sale agreement have been explained to the\nprospective purchaser and understood by him.\n\n (2) For the purposes of subregulation (1), the signature or thumprint of the\npurchaser in the respect of a credit sale agreement shall serve as proof that the requirements\nunder subregulation (1) has been fulfilled.\n\nProcessing fee\n8. The processing fee payable by a prospective purchaser who makes an application to\nobtain the consent of the credit facility provide r to provide the credit facility under\nsubsection 24N(2) of the Act shall be as specified in the Third Schedule.\n\nBooking fee\n9. (1) No seller or credit facility provider, or any person acting on behalf of the seller\nor credit facility provider, or a dealer shall collect or accept a booking fee from a prospective\npurchaser before the service of the written statement as specified in the Second Schedule by\nseller or credit facility provider, or the person acting on behalf of the seller or credit facility\nprovider, or the dealer.\n\n (2) The booking fee referred to in subregulation (1) shall not exceed five percent\nof the cash price of the goods as specified in the written statement referred to in\nsubregulation (1).\n\n(3) The booking fee shall form part of the deposit under regulation 10.\n\n(4) A seller or credit facility provider, or any person acting on behalf of the seller\nor credit facility provider, or a dealer who has collected or accepted the booking fee from the\nprospective purchaser shall refund the full amount of the booking fee to the prospective\npurchaser if—\n\n(a) the consent to provide the credit facility is not given by the credit\nfacility provider under subsection 24N(2) of the Act; or\n\n(b) the seller or credit facilit y provider, or the person acting on behalf of\nthe seller or credit facility provider, or the dealer fails to deliver the\ngoods to the prospective purchaser within the period stipulated in the\nwritten statement referred to in subregulation (1).\n\n (5) The booking fee referred to in subregulation (4) shall be refunded  by the seller\nor credit facility provider, or the person acting on behalf of the seller or credit facility\nprovider, or the dealer within ten working days—\n\n(a) from the date the consent to provid e the credit facility is not given  by\nthe credit facility provider under subsection 24N(2) of the Act; or\n\n(b) from the date of such failure to deliver the goods under paragraph\n(4)(b).\n\n(6) If a prospective purchaser withdraws the booking of the goods before the\nsigning of the credit sale agreement, the seller or credit facility provider, or the person acting\non behalf of the seller or credit facility provider, or the dealer who has collected or accepted\nthe booking fee shall refund not less than ninety percent of the booking fee to the prospective\npurchaser within ten working days from the date of withdrawal of the booking.\n\nDeposit\n10. (1) A seller or credit facility provider, or any person acting on behalf of the seller\nor credit facility provider, or a dealer shall only collect or accept a deposit from a purchaser\nupon the signing of a credit sale agreement.\n\n (2) The deposit referred to in subregulation (1) shall not exceed ten percent of the\ncash price of the goods as specified in the credit sale agreement.\n\n (3) Notwithstanding subregulation (2), the deposit may exceed ten percent of the\ncash price of the goods if the percentage is mutually agreed by the credit facility provider\nand the purchaser.\n\n(4) If a seller or credit facility provider, or any person acting on behalf of the seller\nor credit facility provider, or a dealer fails to deliver the goods under the credit sale\nagreement to the purchaser within the period stipulated in the credit sale agreement, the\nseller or credit facility provider, or the person acting on behalf of the seller or credit facility\nprovider, or the dealer who has collected or accepted the deposit from the purchaser shall\nrefund the deposit to the purchaser within ten working days from the date of the failure to\ndeliver the goods.\n\nTerms charges\n11. (1) Where a credit sale agreement provides for terms charges in respect of any\ngoods or class of goods—\n\n(a) the terms charges shall be at a fixed rate;\n\n(b) the terms charges shall be calculated in accordance with the formula as\nspecified in the Fourth Schedule; and\n\n(c) the rate of the terms charges shall not exceed fifteen per centum\nper annum.\n\n (2) No changes shall be made on the terms charges in respect of any goods or class\nof  goods after a credit sale agreement is si gned by the purchaser and the credit facility\nprovider.\n\n (3) Notwithstanding subregulation (2), the rate of the terms charges as specified\nin a credit sale agreement may be reduced if the reduction is mutually agreed by the credit\nfacility provider and the purchaser.\n\nAnnual percentage rate\n12. The annual percentage rate for terms charges shall be calculated in accordance with\nthe formula as specified in the Fifth Schedule.\n\nAncillary charges\n13. Ancillary charges imposed by a credit facility provider shall be clearly stated and\nitemized in a written statement referred to in regulation 4 and a credit sale agreement.\n\nLate payment charges\n14. (1) The late payment charges imposed by a credit facility provider on overdue\ninstalments under a credit sale agreement which provides for terms charges at a fixed rate\nshall be calculated on a daily basis in accordance with the formula as specified in the Sixth\nSchedule.\n\n (2) The rate of late payment charges shall not exceed five per centum per annum.\n\nPeriod of instalments\n15. (1)  The payment of instalments under a credit sale agreement shall be made\nmonthly to the credit facility provider.\n\n(2)  The period of payment of instalments under any credit sale agreement shall\nnot exceed sixty months from the date of receipt of the goods.\n\nEarly settlement\n16. The credit facility provider shall allow the purchaser at any time during the period of\nthe credit sale agreement to make an early settlement of the total amount payable under the\ncredit sale agreement.\n\nStatutory rebate\n17. If the purchaser elects to make an early settlement of the total amount payable under\na credit sale agreement to the credit facility provider under paragraph 24 V(2)(b) of the Act\nor regulation 16, the credit facility provider shall—\n\n(a) grant a statutory rebate to the purchaser calculated in accordance with the\nformula as specified in the Seventh Schedule; and\n\n(b) ensure that a rebate on the amount of premium paid in respect of the\ninsurance of goods, if any, is granted to the purchaser.\n\nMutual consultation\n18. (1) Before the issuance of a notice under subsection 24 V(1) of the Act to the\npurchaser on the settlement of the overdue instalments under a credit sale agreement, the\npurchaser may consult the credit facility provider on the payment of the overdue\ninstalments at any time.\n\n(2) Where a purchaser fails to pay the amount of the deficiency between the\nproceeds of sale or disposal of the purchased goods surrendered and the total outstanding\namount payable under the credit sale agreement under subsection 24 W(7) of the Act as a\nresult of any hardship faced by the purchaser, the purchaser may consult the credit facility\nprovider for alternative resolution in respect of the settlement of the amount of the\ndeficiency.\n\nDisposal of purchased goods surrendered\n19. (1) Where a purchaser, at any time or upon making the election under\nparagraph 24 V(2)(c) of the Act to terminate the credit sale agreement, surrender the\npurchased goods to the credit facility provider under section 24W of the Act—\n\n(a) the purchaser shall ensure that the purchased goods are in a good\ncondition and are reasonably fit for the purpose for which the goods\nare used; and\n\n(b) upon the sale or disposal of the purchased goods by the credit f acility\nprovider, the purchaser is entitled to the best price that could\nreasonably be obtained by the credit facility provider—\n\n(i) by way of auction;\n\n(ii) from any contract buyer;\n\n(iii) from any person introduced by the purchaser who intends to\nbuy or bought the goods for cash; or\n\n(iv) by such other means as agreed by the credit facility provider and\nthe purchaser.\n\n(2) For the purpose of subparagraph (1) (b)(ii), \"contract buyer\" means any\nperson appointed by a credit facility provider to purchase goods surrendered by a purchaser\nin accordance with section 24W of the Act.\n\nDisplay of notice\n20. (1)  A seller or credit facility provider shall display a notice at the entrance of his\nor its premises or at any other conspicuous place at the premises specifying the followi ng\ninformation:\n\n(a) the terms charges referred to in regulation 11 calculated in accordance\nwith the formula as specified in the Fourth Schedule;\n\n(b) the ancillary charges referred to in regulation 13;\n\n(c)  the period referred to in subsections 24N(8) and (9) of the Act; and\n\n(d) the period of instalments referred to in regulation 15.\n\n(2) The notice referred to in subregulation (1) shall be—\n\n(a) in the national language and English language; and\n\n(b) handwritten or printed in capital letters with the height of le ttering of\nnot less than five centimetres.\n\n(3) Without prejudice to paragraph (2) (a), the seller or credit facility provider\nmay display the notice referred to in subregulation (1) in other languages provided that such\nnotice has the same information as the notice displayed under subregulation (1).\n\nDisclosure of information in advertisement of goods\n21. Every advertisement  of goods shall contain information on the cash price, terms\ncharges, period of instalments, total amount payable under a credit sale agreement, amount\nof monthly instalment and description of the goods.\n\nDuty of purchaser in relation to insurance of goods\n22. Where the goods under the credit sale agreement have been insured, the purchaser\nshall notify the credit facility provider of any subsequent renewal of the insurance in respect\nof the goods, if any.\n\nAuthority card\n23.  (1) Any person acting on behalf of a credit facility provider shall not—\n\n(a) collect or accept from the purchaser any payment of instalments or any\noutstanding amount under the credit sale agreement; or\n\n(b) collect or accept goods surrendered by the purchaser under\nsection 24W of the Act,\n\n   without authorization by the credit facility provider.\n\n (2) For the purpose of giving the authorization referred to in subregulation (1),\nthe credit facility provider shall issue an authority card to the person acting on its behalf.\n\n (3) An authority card issued by the credit facility provider under\nsubregulation (2) shall state clearly the following information:\n\n(a) the name and identity card number of the card holder;\n\n(b) the name, address and telephone number of the credit facility provider\nissuing the authority card;\n\n(c) the name, designation and signature of the person so authorized by the\ncredit facility provider;\n\n(d) the authority card number; and\n\n(e) a recent coloured photograph of the person so authorized affixed on\nthe authority card.\n\n (4) The photograph referred to in paragraph (3)(e)—\n\n(a) shall be in the size of 3.8 centimetres in height and 3.2 centimetres in\nwidth and shall be without border;\n\n(b) shall show the full face of the person so authorized and the image from\nthe chin level to the top of the head shall not be less\nthan 2.54 centimetres in a vertical position; and\n\n(c) shall be taken without headgear, except such person who habitually\nwears a headgear in accordance with his religion or racial custom\nprovided that the headgear of such person does not hide his facial\nfeatures.\n\n(5) Any person acting on behalf of the credit facility provi der shall not lend,\ntransfer or assign his authority card to any other person.\n\n(6) The authority card issued under subregulation (2) to any person shall be\nsurrendered to the credit facility provider when such person is no longer acting on behalf of\nthe credit facility provider.\n\n(7) When a person acts on behalf of the credit facility provider in respect of a\ncredit sale agreement,  the person shall produce the authority card  to the prospective\npurchaser or purchaser.\n\n(8) A person acting on behalf of th e credit facility provider shall not produce an\nauthority card which contains any false or misleading information.\n\n(9) A credit facility provider shall keep and maintain records of all the authority\ncards issued under subregulation (2) and such records shall be updated from time to time.\n\nDuty to keep and maintain records of payment\n24. The credit facility provider shall keep and maintain records of the payment of every\ncredit sale agreement for seven years and such records shall be updated from time to time.\n\nOffence\n25. Any person who contravenes any of the provisions in these Regulations commits an\noffence and shall, on conviction, be liable—\n\n(a) if such person is a body corporate, to a fine not exceeding one hundred\nthousand ringgit, and for a second or subsequent offence, to a fine not\nexceeding two hundred thousand ringgit; or\n\n(b) if such person is not a body corporate, to a fine not exceeding fifty thousand\nringgit or to imprisonment for a term not exceeding three years, or to both,\nand for a second or  subsequent offence, to a fine not exceeding one hundred\nthousand ringgit or to imprisonment for a term not exceeding five years, or to\nboth.\n\nSaving and transitional provisions\n26.  (1) All transactions, dealings and agreements lawfully made or executed including\nany rights or liabilities under such transactions, dealings or agreements existing\nimmediately before the coming into operation of these Regulations shall continue to be valid\nunder these Regulations.\n\n(2) Any appeal or proceedings pending before  the Tribunal or any court\nimmediately before  the   coming   into   operation   of   these  Regulations   shall  continue as\nif these Regulations have not come into operation.\n\nRevocation\n27. The Consumer Protection (Credit Sale) Regulations 2012 [ P.U. (A ) 89/2012 ] are\nrevoked.\n\nFIRST SCHEDULE\n[Regulation 3]\n\nLIST OF GOODS OR CLASS OF GOODS\n\n1. Home appliances, whether electrical or non-electrical goods and its related accessories\n\n2. Handphones and its accessories\n\n3. Data processing device (that is any article or device from which information is capable\nof being reproduced with or without the aid of any other ar ticle or device including\nmonitors, desktop computers, laptop computers, printers, fax machines and consoles )\nand its accessories\n\n4. Healthcare and fitness equipment\n\n5. Floor covering and home furnishing\n\n6. Kitchen-ware\n\n7. Musical instrument and its accessories\n\n8. Gold and jewellery\n\n9. Encyclopedia\n\n10. Invalid carriages and motorcycles\n\nSECOND SCHEDULE\n[Regulation 4]\n\nWRITTEN STATEMENT\n\nPART I\n[Subsection 24N(1)]\n\nSUMMARY OF FINANCIAL OBLIGATIONS OF PROSPECTIVE PURCHASER UNDER\nTHE PROPOSED CREDIT SALE AGREEMENT\n\nThis document contains a short description of the goods specified in the proposed credit sale\nagreement (hereinafter referred to as \"Agreement\") an d a summary of financial obligations\nof the prospective purchaser under the Agreement.\n\n1.  Particulars of goods:\n\n(a) Short description of goods    : ………………………………………………....\n\n(b) If motor vehicle, state registration number : ……………………………………...................\n\n(c) State whether new or second-hand goods : …………………………….......……................\n\n(d) Address where goods will be kept   : …………………………….....………………...\n\n2.  Particulars relating to financial obligations:\n\n(a) Cash price of goods (inclusive of any tax imposed by the  RM………………\nGovernment)\n\n(b) Booking fee, if any        RM......................\n\n(c) Deposit, including booking fee, if any     RM………………\n\n(d) Cash price less deposit       RM………………\n\n(e) Freight charges, if any       RM………………\n\n(f) Vehicle registration fee, if any      RM………………\n\n3.  Insurance:\n\n(a) For motor vehicles, the amount of insurance for\nthe first year only        RM………………\n\n(b) For goods other than motor vehicles, amount of insurance\nfor the period of the Agreement      RM………………\n\n(c) For any other risk on the credit facility, if necessary   RM………………\n\n4.  Terms charges (fixed rate):\n\n(a) Rate per annum ................................%\n\n(b) Total amount of terms charges      RM………………\n\n5. Balance originally payable under the Agreement    RM………………\n\n6. Annual percentage rate        RM………………\n\n7. Total amount payable under the Agreement\n  (in accordance with subparagraph 24P(1)(b)(x) of the Act)   RM………………\n\n8. Difference between cash price of goods and\n     the total amount payable under the Agreement    RM………………\n\n9. Particulars relating to payment:\n\n  Period of payment of instalments in—\n\n(a) number of months        ……………….......\n\n(b) number of instalments       ……………….......\n\n(c) amount of each instalment       RM………………\n\n(d) amount of final instalment (if any)     RM………………\n\n10.  Any ancillary charges which may be imposed (if any) shall be\n     separately paid and shall not  be included in the total\namount payable under the Agreement:\n\n(a) Processing fee        RM………………\n\n(b) Installation charges        RM………………\n\n(c) Delivery charges        RM………………\n\n(d) Collection fee        RM………………\n\n(e) Storage fee         RM………………\n\n11. Date/period for delivery of goods: .........................................\n\nThis d ocument is issued by or on behalf of ........................................................... at\n........................................................................ on this ..................... day of ............... .. pursuant to subsection\n24N(1) of the Consumer Protection Act 1999. This document is given free of charge without\nany obligation to enter into a credit sale agreement.\n\nI/We.................... NRIC No ……….………… of........................................hereby acknowledge receipt of this\ndocument.\n\nSignature ........………………………\nDate  ………………………….....\n\nNOTE: No credit sale agreement shall be entered into within the period of ten working days\nafter the service of this written statement. However, the prospective purchaser may elect to\nenter into a credit sale agreement after three working days from the date of service of this\nwritten statement. This provisions are in accordance with subsections 24 N(8) and (9) of the\nConsumer Protection Act 1999.\n\nPART II\n[Subsection 24N(2]\n\nCONSENT OF CREDIT FACILITY PROVIDER\n\n*Name     : .…………………………….\n(Seller/credit facility provider/\nany person acting on behalf of the\nseller or credit facility provider/\ndealer)\n\nAddress    : .………………………….…\n\nDate     : .………………………….....\n\nTo  …………………………………....\n……………………………….......\n\nTAKE NOTICE that..………………………………….....................................................................................................\nNRIC No. ....................................of .……………….........................…………intends to enter into a credit sale\nagreement in respect of ………...... and a copy of a summary of his financial obligations under\nthe proposed credit sale agreement has been served on him on the ……………........................day\nof …………….......................a copy of which is attached herewith pursuant to paragraph 24N(2)(a)\nof the Consumer Protection Act 1999.\n\n2. If you agree to be a party as credit facility provider in the proposed credit sale\nagreement, kindly confirm by signing at the appropriate column of this document.\n\n*(Signature of seller/credit facility provider/any person acting on behalf of seller or credit\nfacility provider/dealer)\n\nName  : .…………………………….\n\nAddress : .………………………….…\n\nDate  : .………………………….....\n\n_________________________________________________________________________________________________________\nNOTE:\n*Delete where inapplicable\n\nTo  ..………………………………….\n      ...............………………………...\n\n*I/We ……………………………………….................................... ................... hereby agree to be a party as\ncredit facility provider in the proposed credit sale agreement.\n\n(Signature of the credit facility provider)\n\nName  :……………………………....\n\nAddress :……………………………....\n\nDate  :……………………………....\n ________________________________________________________________________________________________________\nNOTE:\n*Delete where inapplicable\n\nTHIRD SCHEDULE\n[Regulation 8]\n\nPROCESSING FEE\n\nTotal amount payable under\ncredit sale agreement\n\nFee\n\nRM 30,000.00 and below\n\nNot exceeding RM 50.00\n\nRM 30,001.00 and above\n\nRM 51.00 to RM 100.00\n\nFOURTH SCHEDULE\n[Regulation 11]\n\nTERMS CHARGES\n\nThe terms charges shall be calculated in accordance with the following formula:\n\n 100 x C\nR =       __________\n    T x P\n\nwhere\n\nR  is the terms charges calculated as a rate per centum per annum.\n\nC is the terms charges expressed in ringgit and sen.\n\nT  is the time that elapses between the time fixed by or under the  credit sale\nagreement for the payment of the first instalment and the time so fixed for the\npayment of the last instalment, together with—\n\n(a) one week where the instalments are payable under the agreement at\nregular weekly intervals;\n\n(b) two weeks where the instalments are  payable under the agreement at\nregular fortnightly intervals;\n\n(c) one month where the instalments are payable under the agreement  at\nregular monthly intervals,\n\nexpressed in years and fractions of years.\n\nP is the difference between the cash price of the goods specified in the credit\nsale agreement and the amount of the deposit together with—\n\n(a) the freight charges, if any;\n\n(b) the vehicle registration fees, if any; and\n\n(c) the amount of premium paid in respect of the insurance of the goods,\nif any,\n\nexpressed in ringgit and sen.\n\nFIFTH SCHEDULE\n[Regulation 12]\n\nANNUAL PERCENTAGE RATE\n\nThe annual percentage rate shall be calculated in accordance with the following formula:\n\n2 NF (300C + NF)\n_________________________\n2 N2F + 300C (N + 1)\n\nwhere\n\nN  is the total number of instalments.\n\nC  is the number of instalments that, under the credit sale agreement, will be paid in\none year or, where the credit sale agreement is to be completed in less than one\nyear, the number of instalments that would be paid in one year if the instalments\ncontinued to be paid at the same intervals.\n\nF  is the amount determined in accordance with the following formula:\n\n100C x T\n___________\n    N x A\n\nwhere\n\nC is the number of instalments that, under the credit sale agreement,\nwill be paid in one year or, where the credit sale agreement is to be\ncompleted in less than one year, the number of instalments that would\n\nbe paid in one year if the instalments continued to be paid at the same\nintervals.\n\nT is the total amount of pre-determined term charges.\n\nN is the total number of instalments.\n\nA is the amount financed.\n\nSIXTH SCHEDULE\n[Regulation 14]\n\nLATE PAYMENT CHARGES\n\nWhere a purchaser defaults in the payment of instalments under a credit sale agreement, the\nlate payment charges shall be calculated in accordance with the following formula:\n\n  R x A\nLP =   _________         x   DD\n             Y\n\nwhere\n\nLP  is the late payment charges expressed in ringgit and sen.\n\nR  is the rate for late payment charges as prescribed by the Minister.\n\nA  is the outstanding arrears of instalments.\n\nY  is the 365 days.\n\nDD  is the number of days late for payment of instalments.\n\nSEVENTH SCHEDULE\n[Regulation 17]\n\nSTATUTORY REBATE\n\nThe statutory rebate shall be calculated in accordance with the following formula:\n\n(a) Statutory rebate = C  x  (1+2+……….+n)\n                 (1+2+3+4+…….+k)\n\n         or\n\n(b) Statutory Rebate =  Cn x (n+1)\n   k(k+1)\n\nwhere\n\nC is the total amount of interest (the amount of the terms charges).\n\nn  is the balance of instalments months to go.\n\nk is the original period of the credit sale agreement.\n\nMade 19 October 2017\n[KPDNKK(R)700-1/2/16;PN(PU2)607/V]\n\nDATO' SERI HAMZAH BIN ZAINUDIN\nMinister of Domestic Trade, Co-operatives and Consumerism"
+   }
+  }
+ ]
+}

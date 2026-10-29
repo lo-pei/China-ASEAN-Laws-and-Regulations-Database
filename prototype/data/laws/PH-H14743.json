@@ -1,0 +1,82 @@
+{
+ "id": "PH-H14743",
+ "title": {
+  "zh": null,
+  "en": "An Act Authorizing Labor Agents Who Are Duly Qualified Attorneys to Defend Indigent Accused Persons.",
+  "orig": "An Act Authorizing Labor Agents Who Are Duly Qualified Attorneys to Defend Indigent Accused Persons."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1934-11-28",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 4152",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 1260,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1934/act_4152_1934.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_04152_1934_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_04152_1934_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14743-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "With the authority of the Secretary of Labor in each case, the labor agents of the Bureau of\nLabor who are duly qualified attorneys may, without payment of any kind, defend indigent accused persons in\ncriminal cases in the courts of justice of the Philippine Islands. The labor agents shall in such cases make the\nnecessary investigations and shall not take charge of the defense of the accused unless, in their opinion, the\ninterests of justice will be benefited thereby."
+   }
+  },
+  {
+   "id": "PH-H14743-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "For the purposes of the preceding section, a person shall be deemed indigent if he does not own\nproperty, whether real estate, live stock, shares, securities, or chattels, worth over five hundred pesos, or if his\naverage monthly compensation or income for the last six months has not been greater than fifty pesos, if he is\nnot the spouse or dependent of a person having such property, shares, securities or income, and if he signs an\naffidavit to that effect before a labor agent."
+   }
+  },
+  {
+   "id": "PH-H14743-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "When a criminal case defended by a labor agent is appealed to the Supreme Court, said labor\nagent shall forthwith make a report to the Secretary of Labor, setting forth the facts and law of the case and\nthe findings of the trial court."
+   }
+  },
+  {
+   "id": "PH-H14743-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, November 28, 1934."
+   }
+  }
+ ]
+}

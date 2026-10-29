@@ -1,0 +1,72 @@
+{
+ "id": "PH-H19340",
+ "title": {
+  "zh": null,
+  "en": "MALACAÑANG PMS LIBRARY BY THE PRESIDENT OF THE PHILIPPINES WHICH PRESCRIBES THE ADOPTION OF THE PHILIPPINE REFERENCE SYSTEM OF 1992 AS THE STANDARD REFERENCE SYSTEM OF SURVEYS IN THE PHILIPPINES",
+  "orig": "MALACAÑANG PMS LIBRARY BY THE PRESIDENT OF THE PHILIPPINES WHICH PRESCRIBES THE ADOPTION OF THE PHILIPPINE REFERENCE SYSTEM OF 1992 AS THE STANDARD REFERENCE SYSTEM OF SURVEYS IN THE PHILIPPINES"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p158",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Executive Order No. 321",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 576,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/07_行政命令_EO/EO_00321_2004.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 EO_00321_2004.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H19340-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "SECTION 1"
+   },
+   "text": {
+    "en": "The transition period for the integration of old surveys into PRS 92 is\nfurther extended up to the end of year 2010."
+   }
+  },
+  {
+   "id": "PH-H19340-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "SEC 2"
+   },
+   "text": {
+    "en": "The Department of Environment and Natural Resources is hereby ordered to\nallocate the necessary funds, issue implementing guidelines, and designate an office which will\noversee the implementation of this Order."
+   }
+  },
+  {
+   "id": "PH-H19340-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "SEC 3"
+   },
+   "text": {
+    "en": "This Order shall take effect immediately.\nDONE in the City of Manila, Philippines, this 2nd day of July, in the year of our Lord,\ntwo thousand four.\nBy the President:\nALBERTO G. ROMULO\nExecutive Secretary\nPMS. LIBRARY BCODE010144\nPOMA ologram # 26508"
+   }
+  }
+ ]
+}

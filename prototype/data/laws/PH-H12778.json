@@ -1,0 +1,102 @@
+{
+ "id": "PH-H12778",
+ "title": {
+  "zh": null,
+  "en": "An Act Prohibiting Slavery, Involuntary Servitude, Peonage, and the Sale or Purchase of Human Beings in the Mountain Province and the Provinces of Nueva VIzcaya and Agusan, and Providing Punishment therefor.",
+  "orig": "An Act Prohibiting Slavery, Involuntary Servitude, Peonage, and the Sale or Purchase of Human Beings in the Mountain Province and the Provinces of Nueva VIzcaya and Agusan, and Providing Punishment therefor."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1911-08-07",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2071",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 6,
+ "chars": 1883,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1911/act_2071_1911.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02071_1911_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 6 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02071_1911_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12778-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Whoever, except in pursuance of the judgment of a court of competent jurisdiction or other\nlawful authority, shall hold any person in slavery or involuntary servitude, or deliver any person to another\nperson to be held in slavery or involuntary servitude, shall, on conviction thereof, be punished by\nimprisonment for not less than one year nor more than twenty years and by a fine of not less than five hundred\npesos and not more than five thousand pesos, in the discretion of the court."
+   }
+  },
+  {
+   "id": "PH-H12778-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Whoever shall compel another person, against his will, to render labor or services in payment of\na debt, or whoever shall accept labor or services for such purpose performed under such compulsion, with\nknowledge of that fact, shall, upon conviction thereof, be punished by imprisonment for,not less than six\nmonths nor more than five years, or by a fine of not less than one hundred pesos nor more than one thousand\npesos, or by both such imprisonment and line in the discretion of the court."
+   }
+  },
+  {
+   "id": "PH-H12778-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "Whoever shall sell or barter or cause to be sold or bartered, and whoever shall buy or barter or\ncause to be bought or bartered, any human being, shall upon conviction thereof, be punished by imprisonment\nfor not less than one year nor more than twenty years or by a fine of not less than five hundred pesos and not\nmore than ten thousand pesos, or both in the discretion of the court."
+   }
+  },
+  {
+   "id": "PH-H12778-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "Upon the trial of any person for violation of any of the provisions of this Act, lack of consent of\na person under eighteen years of age shall be conclusively presumed."
+   }
+  },
+  {
+   "id": "PH-H12778-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "text": {
+    "en": "One-half of any fine collected under the provisions of this Act shall be paid to the injured person\nand such payment shall not operate to extinguish in whole or in part any civil action which such injured\nperson may have for damages."
+   }
+  },
+  {
+   "id": "PH-H12778-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "text": {
+    "en": "This Act shall apply to the Mountain Province and the Provinces of Nueva Vizcaya and Agusan.\nEnacted, August 7, 1911."
+   }
+  }
+ ]
+}

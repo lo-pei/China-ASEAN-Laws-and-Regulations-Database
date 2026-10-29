@@ -1,0 +1,72 @@
+{
+ "id": "PH-H22884",
+ "title": {
+  "zh": null,
+  "en": "Granting Emergency Incentive Allowance to Classified Employees in the Bureau of Mines Not Covered By Presidential Decree No. 398",
+  "orig": "Granting Emergency Incentive Allowance to Classified Employees in the Bureau of Mines Not Covered By Presidential Decree No. 398"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1978-06-11",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 1558",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 739,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_01558_1978_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_01558_1978_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22884-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "All personnel in the Bureau of Mines holding classified positions not covered by Presidential\nDecree No. 398 shall receive monthly incentive allowance in accordance with the following rates:\nSalary Range BracketAnnual Salary IncentiveMonthly Allowance\n64 and aboveP13,824 and aboveP1,000\nBelow 44Below P5,112400"
+   }
+  },
+  {
+   "id": "PH-H22884-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The sum of Four Million Three Hundred Seventy Six Thousand Four Hundred Pesos\n(P4,376,400) is hereby appropriated for this purpose to be taken from savings of the Bureau of Mines.\nThereafter, the necessary amount shall be included in the annual General Appropriation Decree."
+   }
+  },
+  {
+   "id": "PH-H22884-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Decree shall take effect immediately.\nDone in the City of Manila, this 11th day of June, in the year of Our Lord, nineteen hundred and\nseventy-eight."
+   }
+  }
+ ]
+}

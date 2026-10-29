@@ -1,0 +1,72 @@
+{
+ "id": "PH-H12680",
+ "title": {
+  "zh": null,
+  "en": "An Act Amending Act Numbered Fourteen Hundred and Seven, Known as \"the Reorganization Act,\" as Amended, By Transferring the Bureau of Agriculture From the Department of the Interior to the Department of Public Instruction.",
+  "orig": "An Act Amending Act Numbered Fourteen Hundred and Seven, Known as \"the Reorganization Act,\" as Amended, By Transferring the Bureau of Agriculture From the Department of the Interior to the Department of Public Instruction."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1910-04-11",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 1972",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1228,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1910/act_1972_1910.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_01972_1910_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_01972_1910_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12680-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section twenty-nine of Act Numbered Fourteen hundred and seven, entitled \"The Reorganization\nAct,\" as amended, is herein amended to read as follows:\n\"Section 29. The Department of the Interior shall have under its Department of the executive control and\nsupervision the Bureau of Health, the Bureau of Lands, the Bureau of Science, the Bureau of Forestry, the\nBureau of Quarantine Service, and the Weather Bureau. It shall have general supervision of non-Christian\ntribes, except those of the Moro Province, and of fisheries.''"
+   }
+  },
+  {
+   "id": "PH-H12680-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Section thirty-two of said Act, as amended, is hereby further amended to read as follows:\n\"Section 32. The Department of Public Instruction shall have under its executive control and supervision the\nBureau of Education, the Bureau of Agriculture, the Bureau of Supply, the Bureau of Prisons, and the Bureau\nof Printing. It shall have general supervision of public charities not under the supervision of the Secretary of\nthe Interior at the time of the passage of this Act, and of museums.\""
+   }
+  },
+  {
+   "id": "PH-H12680-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "The funds made available for the Bureau of Agriculture under the Department of the Interior\nshall be understood to be available for said Bureau under the Department of Public Instruction.\nEnacted, April 11, 1910."
+   }
+  }
+ ]
+}

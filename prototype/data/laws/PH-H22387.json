@@ -1,0 +1,62 @@
+{
+ "id": "PH-H22387",
+ "title": {
+  "zh": null,
+  "en": "Repealing Republic Act Numbered Three Thousand Seven Hundred and Forty-One Authorizing the Construction of Self-Liquidating Public Improvements By Private Persons, Otherwise Known as the Private Financing Law",
+  "orig": "Repealing Republic Act Numbered Three Thousand Seven Hundred and Forty-One Authorizing the Construction of Self-Liquidating Public Improvements By Private Persons, Otherwise Known as the Private Financing Law"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1976-09-22",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 1005",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1215,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_01005_1976_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_01005_1976_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22387-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Republic Act Numbered Three Thousand Seven Hundred Forty-One is hereby repealed:\nProvided, however, that toll collection on public works projects, and the participation of the private sector in\nthe construction, operation, and maintenance of public works projects may still continue under existing laws."
+   }
+  },
+  {
+   "id": "PH-H22387-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The Secretary of Finance, the Secretary of Public Works, Transportation and Communications\nand the Secretary of Public Highways are hereby authorized to promulgate and issue implementing rules for\nthe orderly liquidation and turn-over to the Government of any existing contract already entered into between\nthe government and private contractors for public works projects undertaken in accordance with Republic Act\nNumbered Three Thousand Seven Hundred and Forty-One, together with reasonable compensation schedules\nfor such, derived from tolls and fees as the Contractor shall be entitled for the return of his capital plus\ninterest; Provided, That pending the liquidation and turn-over, the contractor shall continue to collect\nreasonable tolls or fees for the use of bridges, highways or roads.\nDone in the City of Manila, this 22nd day of September, in the year of Our Lord, nineteen hundred and\nseventy-six."
+   }
+  }
+ ]
+}

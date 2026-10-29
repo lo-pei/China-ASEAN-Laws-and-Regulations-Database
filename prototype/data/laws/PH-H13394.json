@@ -1,0 +1,72 @@
+{
+ "id": "PH-H13394",
+ "title": {
+  "zh": null,
+  "en": "An Act to Appropriate the Sum of Eight thousand Pesos for Continuing the Manufacture and Distribution of \"Tiquitiqui\" Extract Among the Indigent Classes of the Philippine Islands, and for Other Purposes.",
+  "orig": "An Act to Appropriate the Sum of Eight thousand Pesos for Continuing the Manufacture and Distribution of \"Tiquitiqui\" Extract Among the Indigent Classes of the Philippine Islands, and for Other Purposes."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1918-02-18",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2744",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1127,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1918/act_2744_1918.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02744_1918_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02744_1918_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13394-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The sum of eight thousand pesos is hereby appropriated, out of any funds in the Insular Treasury\nnot otherwise appropriated, to be expended by the Public Welfare Board for the Philippine Islands for the\nacquisition of the necessary apparatus, and, in general, for the manufacture of the liquid extract of bran\ncommonly known as' \"tiquitiqui,\" and for its free distribution among the indigent classes of the Philippine\nIslands, in accordance with regulations to be prescribed for this purpose, as a means of combating the disease\nof infantile beriberi. The Board of Directors of the Philippine National League for the Protection of Early\nInfancy shall recommend the method of preparation of said extract of bran and the Bureau of Science shall\ndirect its manufacture."
+   }
+  },
+  {
+   "id": "PH-H13394-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "In case there is no extract of bran to be had in the market, the Secretary of the Interior may\nauthorize the sale of said remedy at the cost of production, plus the proportional expenses of preparing and\ndispatching the same, to any person requiring it by reason of a medical prescription."
+   }
+  },
+  {
+   "id": "PH-H13394-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, February 18, 1918."
+   }
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "id": "PH-H16413",
+ "title": {
+  "zh": null,
+  "en": "An Act Appropriating Funds as Aid to National, Provincial and City Hospitals and their Dispensaries.",
+  "orig": "An Act Appropriating Funds as Aid to National, Provincial and City Hospitals and their Dispensaries."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1945-11-01",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 705",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1214,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00705_1945_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00705_1945_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H16413-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "There is hereby appropriated, out of any funds in the National Treasury not otherwise\nappropriated, the following sums as aid for the operation and maintenance of the following National,\nprovincial, and city hospitals, and their dispensaries, which sums shall be at the disposal of the Director of\nHealth subject to the approval of the Secretary of Health and Public Welfare:\n(See Table of COMMONWEALTH ACT No. 705 in COMMONWEALTH ACTS NOS.654-733, 1941-1946\nPage 1 to Page 6)"
+   }
+  },
+  {
+   "id": "PH-H16413-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The funds herein appropriated shall not be released unless and until the Secretary of Finance and\nthe Auditor General shall have certified to the President that there are existing and available funds in the\nNational Treasury in excess of the sums appropriated in the General Appropriation Law for the fiscal year\nending June thirtieth, nineteen hundred and forty-six and the priority appropriations established by law:\nProvided, That in the release of funds in excess of the amounts appropriated in the General Appropriation Law\nfor the fiscal year ending June thirtieth, nineteen hundred and forty-six, the amounts appropriated in this Act\nshall have the priority."
+   }
+  },
+  {
+   "id": "PH-H16413-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, November 1, 1945."
+   }
+  }
+ ]
+}

@@ -1,0 +1,650 @@
+{
+ "id": "VN-H547",
+ "title": {
+  "zh": "密码工作法",
+  "en": "Law No. 05/2011/QH13 on cryptography",
+  "vi": "Luật Cơ yếu số 05/2011/QH13",
+  "orig": "Luật Cơ yếu số 05/2011/QH13",
+  "th": "พระราชบัญญัติงานรหัสลับ เลขที่ 05/2011/QH13",
+  "id": "Undang-Undang Persandian No. 05/2011/QH13",
+  "ms": "Akta Kriptografi No. 05/2011/QH13"
+ },
+ "country": "VN",
+ "countryName": "越南",
+ "layer": "intl",
+ "pack": "vn-p06",
+ "language": "vi",
+ "level": "law",
+ "category": "05_其他及未分类",
+ "status": "active",
+ "promulgatedDate": "2011",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "国会",
+ "docNumber": "05/2011/QH13",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 38,
+ "chars": 25592,
+ "source": {
+  "name": "越南法律数据库（vbpl.vn 官方公报文本）",
+  "url": "https://vbpl.vn/van-ban/chi-tiet/luat-co-yeu-so-05-2011-qh13--27327"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\VN\\05_其他及未分类\\2011_05 2011 QH13_Luật Cơ yếu số 05 2011 QH13.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 38 条；逐字未改写（源自 VN）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "VN-H547-A1",
+   "no": 1,
+   "noLabel": {
+    "vi": "Điều 1"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Phạm vi điều chỉnh"
+   },
+   "text": {
+    "vi": "Điều 1. Phạm vi điều chỉnh\n\nLuật này quy định về hoạt động cơ yếu; nhiệm vụ, quyền hạn, nguyên tắc tổ chức và hoạt động của lực lượng cơ yếu; chế độ, chính sách đối với người làm việc trong tổ chức cơ yếu; quyền, nghĩa vụ, trách nhiệm của cơ quan, tổ chức, cá nhân liên quan đến hoạt động cơ yếu."
+   }
+  },
+  {
+   "id": "VN-H547-A2",
+   "no": 2,
+   "noLabel": {
+    "vi": "Điều 2"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Đối tượng áp dụng"
+   },
+   "text": {
+    "vi": "Điều 2. Đối tượng áp dụng\n\nLuật này áp dụng đối với tổ chức cơ yếu, người làm việc trong tổ chức cơ yếu và cơ quan, tổ chức, cá nhân liên quan đến hoạt động cơ yếu."
+   }
+  },
+  {
+   "id": "VN-H547-A3",
+   "no": 3,
+   "noLabel": {
+    "vi": "Điều 3"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Giải thích từ ngữ"
+   },
+   "text": {
+    "vi": "Điều 3. Giải thích từ ngữ\n\nTrong Luật này, các từ ngữ dưới đây được hiểu như sau:\n\n1. Hoạt động cơ yếu là hoạt động cơ mật đặc biệt, thuộc lĩnh vực an ninh quốc gia, sử dụng nghiệp vụ mật mã, kỹ thuật mật mã và các giải pháp có liên quan để bảo vệ thông tin bí mật nhà nước, do lực lượng chuyên trách đảm nhiệm.\n\n2. Mật mã là những quy tắc, quy ước riêng dùng để thay đổi hình thức biểu hiện thông tin nhằm bảo đảm bí mật, xác thực, toàn vẹn của nội dung thông tin.\n\n3. Nghiệp vụ mật mã là những biện pháp, quy định, giải pháp kỹ thuật nhằm bảo vệ an toàn, bí mật và bảo đảm độ tin cậy của kỹ thuật mật mã.\n\n4. Kỹ thuật mật mã là phương pháp, phương tiện có ứng dụng mật mã để bảo vệ thông tin.\n\n5. Mã hóa là quá trình dùng kỹ thuật mật mã để thay đổi hình thức biểu hiện thông tin.\n\n6. Sản phẩm mật mã là các tài liệu, trang thiết bị kỹ thuật và nghiệp vụ mật mã để bảo vệ thông tin.\n\n7. Mạng liên lạc cơ yếu là mạng liên lạc có sử dụng sản phẩm mật mã do tổ chức cơ yếu cung cấp và trực tiếp quản lý để bảo vệ thông tin bí mật nhà nước."
+   }
+  },
+  {
+   "id": "VN-H547-A4",
+   "no": 4,
+   "noLabel": {
+    "vi": "Điều 4"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Chính sách của Nhà nước về xây dựng và phát triển lực lượng cơ yếu"
+   },
+   "text": {
+    "vi": "Điều 4. Chính sách của Nhà nước về xây dựng và phát triển lực lượng cơ yếu\n\n1. Xây dựng lực lượng cơ yếu chính quy, hiện đại, tuyệt đối trung thành với Đảng Cộng sản Việt Nam và Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam.\n\n2. Ưu tiên đầu tư cho nghiên cứu, ứng dụng khoa học và công nghệ mật mã; tăng cường đầu tư phát triển hạ tầng cơ sở mật mã quốc gia, đào tạo nguồn nhân lực phục vụ hoạt động cơ yếu.\n\n3. Mở rộng quan hệ hợp tác quốc tế về cơ yếu trên cơ sở bảo đảm tính độc lập, tự chủ, chặt chẽ về nguyên tắc và tuân thủ các quy định của pháp luật về bảo vệ bí mật nhà nước."
+   }
+  },
+  {
+   "id": "VN-H547-A5",
+   "no": 5,
+   "noLabel": {
+    "vi": "Điều 5"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Nguyên tắc tổ chức và hoạt động của lực lượng cơ yếu"
+   },
+   "text": {
+    "vi": "Điều 5. Nguyên tắc tổ chức và hoạt động của lực lượng cơ yếu\n\n1. Đặt dưới sự lãnh đạo tuyệt đối, trực tiếp về mọi mặt của Đảng Cộng sản Việt Nam, sự quản lý thống nhất của Nhà nước.\n\n2. Tuân thủ Hiến pháp và pháp luật, bảo vệ lợi ích của Nhà nước, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.\n\n3. Bảo đảm tuyệt đối bí mật, an toàn, chính xác, kịp thời.\n\n4. Được tổ chức thống nhất, chặt chẽ, phù hợp yêu cầu lãnh đạo của Đảng, quản lý của Nhà nước, chỉ đạo, chỉ huy của lực lượng vũ trang nhân dân, đáp ứng yêu cầu bảo vệ thông tin bí mật nhà nước.\n\n5. Có chế độ quản lý chuyên ngành đặc thù, chế độ công tác nghiêm ngặt; khoa học và nghiệp vụ mật mã tiên tiến; công nghệ, kỹ thuật mật mã hiện đại."
+   }
+  },
+  {
+   "id": "VN-H547-A6",
+   "no": 6,
+   "noLabel": {
+    "vi": "Điều 6"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Trách nhiệm quản lý nhà nước về cơ yếu"
+   },
+   "text": {
+    "vi": "Điều 6. Trách nhiệm quản lý nhà nước về cơ yếu\n\n1. Chính phủ thống nhất quản lý nhà nước về cơ yếu.\n\n2. Bộ trưởng Bộ Quốc phòng chịu trách nhiệm trước Chính phủ trong việc thực hiện quản lý nhà nước về cơ yếu, trực tiếp chỉ đạo hoạt động của Ban Cơ yếu Chính phủ.\n\n3. Ban Cơ yếu Chính phủ là cơ quan mật mã quốc gia, quản lý chuyên ngành về cơ yếu, có trách nhiệm giúp Bộ trưởng Bộ Quốc phòng thực hiện nhiệm vụ quản lý nhà nước về cơ yếu.\n\n4. Cơ quan có thẩm quyền của Đảng Cộng sản Việt Nam thực hiện quản lý về cơ yếu thuộc phạm vi mình phụ trách.\n\n5. Bộ trưởng, thủ trưởng cơ quan ngang bộ trong phạm vi nhiệm vụ, quyền hạn của mình phối hợp với Bộ trưởng Bộ Quốc phòng thực hiện quản lý nhà nước về cơ yếu.\n\n6. Ủy ban nhân dân các cấp thực hiện quản lý nhà nước về cơ yếu theo sự phân cấp của Chính phủ."
+   }
+  },
+  {
+   "id": "VN-H547-A7",
+   "no": 7,
+   "noLabel": {
+    "vi": "Điều 7"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Trách nhiệm giúp đỡ lực lượng cơ yếu"
+   },
+   "text": {
+    "vi": "Điều 7. Trách nhiệm giúp đỡ lực lượng cơ yếu\n\nCơ quan, tổ chức, cá nhân có trách nhiệm giúp đỡ lực lượng cơ yếu và người làm công tác cơ yếu thực hiện nhiệm vụ khi có yêu cầu."
+   }
+  },
+  {
+   "id": "VN-H547-A8",
+   "no": 8,
+   "noLabel": {
+    "vi": "Điều 8"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Bảo vệ bí mật sản phẩm mật mã, thông tin trong hoạt động cơ yếu"
+   },
+   "text": {
+    "vi": "Điều 8. Bảo vệ bí mật sản phẩm mật mã, thông tin trong hoạt động cơ yếu\n\nSản phẩm mật mã, thông tin về tổ chức, mạng liên lạc cơ yếu, nơi làm việc, cơ sở sản xuất, kho cất giữ sản phẩm mật mã của cơ yếu là bí mật nhà nước, phải được quản lý và bảo vệ theo quy định của pháp luật về bảo vệ bí mật nhà nước."
+   }
+  },
+  {
+   "id": "VN-H547-A9",
+   "no": 9,
+   "noLabel": {
+    "vi": "Điều 9"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Mã hoá thông tin bí mật nhà nước"
+   },
+   "text": {
+    "vi": "Điều 9. Mã hoá thông tin bí mật nhà nước\n\n1. Thông tin bí mật nhà nước được truyền bằng các phương tiện thông tin, viễn thông phải được mã hóa bằng mật mã của cơ yếu.\n\n2. Thông tin bí mật nhà nước lưu giữ trong các phương tiện thiết bị điện tử, tin học và trên mạng viễn thông được mã hoá bằng mật mã của cơ yếu. Chính phủ quy định loại thông tin bí mật nhà nước cần được mã hóa quy định tại khoản này."
+   }
+  },
+  {
+   "id": "VN-H547-A10",
+   "no": 10,
+   "noLabel": {
+    "vi": "Điều 10"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Kinh phí và cơ sở vật chất phục vụ hoạt động cơ yếu"
+   },
+   "text": {
+    "vi": "Điều 10. Kinh phí và cơ sở vật chất phục vụ hoạt động cơ yếu\n\n1. Nguồn kinh phí phục vụ hoạt động cơ yếu do ngân sách nhà nước bảo đảm.\n\n2. Việc bảo đảm, quản lý, sử dụng kinh phí, cơ sở vật chất phục vụ hoạt động cơ yếu và việc kiểm toán được thực hiện theo quy định của pháp luật đối với lĩnh vực quốc phòng, an ninh."
+   }
+  },
+  {
+   "id": "VN-H547-A11",
+   "no": 11,
+   "noLabel": {
+    "vi": "Điều 11"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Các hành vi bị nghiêm cấm"
+   },
+   "text": {
+    "vi": "Điều 11. Các hành vi bị nghiêm cấm\n\n1. Tiết lộ bí mật nhà nước, bí mật công tác trong hoạt động cơ yếu.\n\n2. Sử dụng sản phẩm mật mã không do Ban Cơ yếu Chính phủ cung cấp để bảo vệ thông tin bí mật nhà nước.\n\n3. Lợi dụng nhiệm vụ, quyền hạn được giao trong hoạt động cơ yếu gây phương hại đến an ninh quốc gia, lợi ích của Nhà nước, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.\n\n4. Truyền thông tin bí mật nhà nước qua các phương tiện thông tin, viễn thông mà không mã hoá bằng mật mã của cơ yếu.\n\n5. Nghiên cứu, sản xuất, sử dụng, thu thập, tiêu huỷ sản phẩm mật mã của cơ yếu trái pháp luật.\n\n6. Cố ý làm hư hỏng, chiếm đoạt sản phẩm mật mã của cơ yếu.\n\n7. Cản trở hoạt động cơ yếu trái pháp luật.\n\nChương II\n\nHOẠT ĐỘNG MẬT MÃ ĐỂ BẢO VỆ THÔNG TIN BÍ MẬT NHÀ NƯỚC"
+   }
+  },
+  {
+   "id": "VN-H547-A12",
+   "no": 12,
+   "noLabel": {
+    "vi": "Điều 12"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Hoạt động khoa học và công nghệ mật mã, chuyển giao công nghệ mật mã"
+   },
+   "text": {
+    "vi": "Điều 12. Hoạt động khoa học và công nghệ mật mã, chuyển giao công nghệ mật mã\n\n1. Hoạt động khoa học và công nghệ mật mã, chuyển giao công nghệ mật mã để bảo vệ thông tin bí mật nhà nước phải tuân thủ quy định của pháp luật về bảo vệ bí mật nhà nước.\n\n2. Tổ chức, cá nhân có đủ điều kiện, năng lực được đăng ký, tham gia làm thành viên, cộng tác viên của đề tài, dự án nghiên cứu khoa học và công nghệ mật mã để bảo vệ thông tin bí mật nhà nước. Khi cần thiết, Chính phủ huy động tiềm lực khoa học và công nghệ của cơ quan, tổ chức, cá nhân phục vụ cho hoạt động nghiên cứu, sản xuất, sử dụng mật mã để bảo vệ thông tin bí mật nhà nước.\n\n3. Nhà nước thống nhất quản lý và tổ chức hoạt động khoa học và công nghệ mật mã, chuyển giao công nghệ mật mã để bảo vệ thông tin bí mật nhà nước.\n\n4. Chính phủ quy định chi tiết Điều này."
+   }
+  },
+  {
+   "id": "VN-H547-A13",
+   "no": 13,
+   "noLabel": {
+    "vi": "Điều 13"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Sản xuất và cung cấp sản phẩm mật mã"
+   },
+   "text": {
+    "vi": "Điều 13. Sản xuất và cung cấp sản phẩm mật mã\n\n1. Nhà nước độc quyền sản xuất và cung cấp sản phẩm mật mã cho các cơ quan, tổ chức để bảo vệ thông tin bí mật nhà nước.\n\n2. Ban Cơ yếu Chính phủ xây dựng kế hoạch, tổ chức sản xuất, cung cấp sản phẩm mật mã và trực tiếp quản lý các cơ sở sản xuất mật mã để bảo vệ thông tin bí mật nhà nước."
+   }
+  },
+  {
+   "id": "VN-H547-A14",
+   "no": 14,
+   "noLabel": {
+    "vi": "Điều 14"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Nhập khẩu trang thiết bị, công nghệ phục vụ nghiên cứu, sản xuất sản phẩm mật mã"
+   },
+   "text": {
+    "vi": "Điều 14. Nhập khẩu trang thiết bị, công nghệ phục vụ nghiên cứu, sản xuất sản phẩm mật mã\n\n1. Nhà nước có chính sách ưu tiên nhập khẩu trang thiết bị, công nghệ phục vụ hoạt động nghiên cứu, sản xuất sản phẩm mật mã để bảo vệ thông tin bí mật nhà nước mà trong nước chưa đáp ứng được.\n\n2. Thủ tướng Chính phủ quy định cơ chế nhập khẩu trang thiết bị, công nghệ phục vụ hoạt động nghiên cứu, sản xuất sản phẩm mật mã."
+   }
+  },
+  {
+   "id": "VN-H547-A15",
+   "no": 15,
+   "noLabel": {
+    "vi": "Điều 15"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Quy chuẩn kỹ thuật, kiểm định, đánh giá sản phẩm mật mã"
+   },
+   "text": {
+    "vi": "Điều 15. Quy chuẩn kỹ thuật, kiểm định, đánh giá sản phẩm mật mã\n\n1. Sản phẩm mật mã để bảo vệ thông tin bí mật nhà nước phải áp dụng quy chuẩn kỹ thuật và được kiểm định, đánh giá trước khi đưa vào sử dụng.\n\n2. Chính phủ quy định việc xây dựng, thẩm định, ban hành quy chuẩn kỹ thuật đối với sản phẩm mật mã; quy định việc quản lý hoạt động kiểm định, đánh giá sản phẩm mật mã để bảo vệ thông tin bí mật nhà nước."
+   }
+  },
+  {
+   "id": "VN-H547-A16",
+   "no": 16,
+   "noLabel": {
+    "vi": "Điều 16"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Quản lý, sử dụng sản phẩm mật mã"
+   },
+   "text": {
+    "vi": "Điều 16. Quản lý, sử dụng sản phẩm mật mã\n\n1. Sản phẩm mật mã để bảo vệ thông tin bí mật nhà nước phải được quản lý thống nhất, chặt chẽ.\n\n2. Việc sử dụng sản phẩm mật mã để bảo vệ thông tin bí mật nhà nước phải tuân thủ các quy định về nghiệp vụ và quy trình sử dụng đối với từng loại sản phẩm mật mã.\n\n3. Cơ quan, tổ chức sử dụng sản phẩm mật mã chịu trách nhiệm bảo đảm nhân lực, trang bị phương tiện và điều kiện cần thiết để sẵn sàng phục vụ, bảo đảm an ninh, an toàn mật mã."
+   }
+  },
+  {
+   "id": "VN-H547-A17",
+   "no": 17,
+   "noLabel": {
+    "vi": "Điều 17"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Triển khai, giải thể mạng liên lạc cơ yếu"
+   },
+   "text": {
+    "vi": "Điều 17. Triển khai, giải thể mạng liên lạc cơ yếu\n\n1. Mạng liên lạc cơ yếu được triển khai khi có nhu cầu bảo vệ thông tin bí mật nhà nước bằng mật mã; có đủ điều kiện về nhân lực, kỹ thuật và bảo đảm an ninh, an toàn.\n\n2. Việc triển khai, giải thể mạng liên lạc cơ yếu do người đứng đầu cơ quan, tổ chức sử dụng cơ yếu có thẩm quyền quyết định sau khi có sự thống nhất về chuyên môn, nghiệp vụ bằng văn bản của Ban Cơ yếu Chính phủ.\n\n3. Trường hợp cấp thiết cần triển khai, giải thể mạng liên lạc cơ yếu, người đứng đầu cơ quan, tổ chức sử dụng cơ yếu có thẩm quyền quyết định và kịp thời thông báo bằng văn bản cho Ban Cơ yếu Chính phủ.\n\n4. Chính phủ quy định chi tiết điều kiện, thẩm quyền, trình tự, thủ tục triển khai, giải thể mạng liên lạc cơ yếu phù hợp với nhiệm vụ của từng hệ thống tổ chức cơ yếu."
+   }
+  },
+  {
+   "id": "VN-H547-A18",
+   "no": 18,
+   "noLabel": {
+    "vi": "Điều 18"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Triển khai sản phẩm mật mã bảo vệ thông tin bí mật nhà nước lưu giữ trong các thiết bị điện tử, tin học và trên mạng viễn thông"
+   },
+   "text": {
+    "vi": "Điều 18. Triển khai sản phẩm mật mã bảo vệ thông tin bí mật nhà nước lưu giữ trong các thiết bị điện tử, tin học và trên mạng viễn thông\n\n1. Cơ quan, tổ chức, cá nhân có thông tin bí mật nhà nước lưu giữ trong các thiết bị điện tử, tin học và trên mạng viễn thông quy định tại khoản 2 Điều 9 của Luật này phải có văn bản yêu cầu triển khai sản phẩm mật mã gửi tổ chức cơ yếu có thẩm quyền.\n\n2. Tổ chức cơ yếu có thẩm quyền có trách nhiệm triển khai sản phẩm mật mã bảo vệ thông tin bí mật nhà nước lưu giữ trong các thiết bị điện tử, tin học và trên mạng viễn thông theo quy định của Chính phủ."
+   }
+  },
+  {
+   "id": "VN-H547-A19",
+   "no": 19,
+   "noLabel": {
+    "vi": "Điều 19"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Bảo đảm an toàn mật mã trong trường hợp khẩn cấp, nguy hiểm"
+   },
+   "text": {
+    "vi": "Điều 19. Bảo đảm an toàn mật mã trong trường hợp khẩn cấp, nguy hiểm\n\nTrường hợp khẩn cấp, nguy hiểm mà không còn biện pháp nào khác để bảo đảm an toàn mật mã thì cơ quan, tổ chức, cá nhân sử dụng sản phẩm mật mã phải thực hiện ngay biện pháp tiêu hủy, sau đó kịp thời báo cáo với người có thẩm quyền.\n\nChương III\n\nNHIỆM VỤ, QUYỀN HẠN, TỔ CHỨC CỦA LỰC LƯỢNG CƠ YẾU"
+   }
+  },
+  {
+   "id": "VN-H547-A20",
+   "no": 20,
+   "noLabel": {
+    "vi": "Điều 20"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Vị trí, chức năng, nhiệm vụ của lực lượng cơ yếu"
+   },
+   "text": {
+    "vi": "Điều 20. Vị trí, chức năng, nhiệm vụ của lực lượng cơ yếu\n\nLực lượng cơ yếu là một trong những lực lượng chuyên trách bảo vệ bí mật nhà nước, có chức năng tham mưu cho Đảng, Nhà nước về công tác cơ yếu, thực hiện hoạt động cơ yếu; góp phần bảo đảm tuyệt đối bí mật, an toàn, chính xác, kịp thời thông tin phục vụ sự lãnh đạo của Đảng, quản lý của Nhà nước, chỉ đạo, chỉ huy của lực lượng vũ trang nhân dân trong mọi tình huống; chủ động phòng ngừa, tham gia đấu tranh với các hoạt động thám mã gây phương hại đến an ninh quốc gia, lợi ích của Nhà nước, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân."
+   }
+  },
+  {
+   "id": "VN-H547-A21",
+   "no": 21,
+   "noLabel": {
+    "vi": "Điều 21"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Nhiệm vụ, quyền hạn của Ban Cơ yếu Chính phủ"
+   },
+   "text": {
+    "vi": "Điều 21. Nhiệm vụ, quyền hạn của Ban Cơ yếu Chính phủ\n\n1. Tham mưu, đề xuất để Bộ trưởng Bộ Quốc phòng ban hành hoặc trình cơ quan có thẩm quyền ban hành chiến lược, chính sách, văn bản quy phạm pháp luật về cơ yếu.\n\n2. Giúp Bộ trưởng Bộ Quốc phòng:\n\na) Tổ chức thực hiện chiến lược, chính sách, pháp luật về cơ yếu;\n\nb) Chỉ đạo và phối hợp với các cơ quan hữu quan xây dựng tổ chức cơ yếu thống nhất, chặt chẽ, xây dựng lực lượng cơ yếu trong sạch, vững mạnh, có chuyên môn, nghiệp vụ giỏi;\n\nc) Tổ chức xây dựng và thống nhất quản lý hệ thống mạng liên lạc cơ yếu; quản lý, kiểm soát việc sử dụng các loại sản phẩm mật mã trong cả nước;\n\nd) Trình Chính phủ quy định về tổ chức bộ máy, biên chế của Ban Cơ yếu Chính phủ.\n\n3. Tổ chức, chỉ đạo công tác đào tạo, bồi dưỡng về chuyên môn, nghiệp vụ, kỹ thuật mật mã trong toàn ngành cơ yếu.\n\n4. Tổ chức nghiên cứu và thống nhất quản lý nghiên cứu khoa học và phát triển công nghệ mật mã để bảo vệ thông tin bí mật nhà nước; phối hợp với cơ quan, tổ chức có liên quan quản lý việc nhập khẩu trang thiết bị, công nghệ phục vụ hoạt động nghiên cứu, sản xuất sản phẩm mật mã.\n\n5. Thống nhất quản lý và bảo đảm chuyên môn, nghiệp vụ, kỹ thuật mật mã cho hoạt động cơ yếu trong phạm vi cả nước; sản xuất, cung cấp sản phẩm mật mã để bảo vệ thông tin bí mật nhà nước và xây dựng cơ sở vật chất, kỹ thuật đáp ứng yêu cầu phát triển lực lượng cơ yếu chính quy, hiện đại.\n\n6. Bảo đảm tính sẵn sàng của hệ thống mạng liên lạc cơ yếu và lực lượng dự bị, nguồn dự trữ sản phẩm mật mã để ứng phó có hiệu quả trong mọi tình huống.\n\n7. Thực hiện nhiệm vụ của đơn vị đầu mối kế hoạch đầu tư và ngân sách trực thuộc trung ương; trực tiếp quản lý cơ sở vật chất, trang thiết bị kỹ thuật của Ban Cơ yếu Chính phủ.\n\n8. Phối hợp với cơ quan, tổ chức có liên quan tổ chức thực hiện và kiểm tra việc mã hoá thông tin bí mật nhà nước.\n\n9. Tổ chức bảo vệ bí mật sản phẩm mật mã và các thông tin bí mật nhà nước khác trong hoạt động cơ yếu.\n\n10. Phối hợp với cơ quan, tổ chức liên quan thực hiện công tác quản lý hoạt động nghiên cứu, sản xuất, kinh doanh và sử dụng mật mã phục vụ phát triển kinh tế - xã hội; cung cấp dịch vụ bảo mật và an toàn thông tin cho các cơ quan, tổ chức, cá nhân theo quy định của pháp luật.\n\n11. Thanh tra, kiểm tra, giải quyết khiếu nại, tố cáo và xử lý vi phạm pháp luật trong lĩnh vực cơ yếu theo quy định của pháp luật.\n\n12. Hợp tác quốc tế về cơ yếu.\n\n13. Thực hiện các nhiệm vụ, quyền hạn khác theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H547-A22",
+   "no": 22,
+   "noLabel": {
+    "vi": "Điều 22"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Tổ chức của lực lượng cơ yếu"
+   },
+   "text": {
+    "vi": "Điều 22. Tổ chức của lực lượng cơ yếu\n\n1. Ban Cơ yếu Chính phủ.\n\n2. Cơ yếu các bộ, ngành bao gồm:\n\na) Hệ thống tổ chức cơ yếu Quân đội nhân dân;\n\nb) Hệ thống tổ chức cơ yếu Công an nhân dân;\n\nc) Hệ thống tổ chức cơ yếu Ngoại giao;\n\nd) Hệ thống tổ chức cơ yếu trong cơ quan của Đảng, cơ quan khác của Nhà nước ở trung ương và địa phương.\n\n3. Tổ chức cơ yếu thuộc cơ yếu các bộ, ngành quy định tại khoản 2 Điều này là đầu mối độc lập đặt dưới sự lãnh đạo của cơ quan có thẩm quyền của Đảng Cộng sản Việt Nam, sự chỉ đạo của người đứng đầu cơ quan, tổ chức sử dụng cơ yếu và sự quản lý về hoạt động chuyên môn, nghiệp vụ của tổ chức cơ yếu cấp trên.\n\n4. Chính phủ quy định việc thành lập, giải thể các tổ chức cơ yếu và cơ cấu tổ chức của Ban Cơ yếu Chính phủ.\n\nChương IV\n\nNGƯỜI LÀM VIỆC TRONG TỔ CHỨC CƠ YẾU VÀ CHẾ ĐỘ, CHÍNH SÁCH ĐỐI VỚI NGƯỜI LÀM VIỆC TRONG TỔ CHỨC CƠ YẾU"
+   }
+  },
+  {
+   "id": "VN-H547-A23",
+   "no": 23,
+   "noLabel": {
+    "vi": "Điều 23"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Người làm việc trong tổ chức cơ yếu"
+   },
+   "text": {
+    "vi": "Điều 23. Người làm việc trong tổ chức cơ yếu\n\n1. Người làm việc trong tổ chức cơ yếu bao gồm:\n\na) Người được điều động, biệt phái, bổ nhiệm để thực hiện nhiệm vụ của lực lượng cơ yếu (sau đây gọi là người làm công tác cơ yếu);\n\nb) Người được tuyển chọn để đào tạo, bồi dưỡng, huấn luyện chuyên môn, nghiệp vụ cơ yếu;\n\nc) Người làm việc trong tổ chức cơ yếu nhưng không thuộc quy định tại điểm a và điểm b khoản 1 Điều này (sau đây gọi là người làm công tác khác trong tổ chức cơ yếu).\n\n2. Chính phủ quy định ngạch, chức danh người làm việc trong tổ chức cơ yếu."
+   }
+  },
+  {
+   "id": "VN-H547-A24",
+   "no": 24,
+   "noLabel": {
+    "vi": "Điều 24"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Nghĩa vụ, trách nhiệm của người làm việc trong tổ chức cơ yếu"
+   },
+   "text": {
+    "vi": "Điều 24. Nghĩa vụ, trách nhiệm của người làm việc trong tổ chức cơ yếu\n\n1. Giữ bí mật thông tin bí mật nhà nước và bí mật công tác cơ yếu, kể cả khi thôi làm việc trong tổ chức cơ yếu.\n\n2. Phục tùng sự phân công, điều động của cơ quan, tổ chức và thực hiện đúng, đầy đủ chức trách được giao; tận tụy trong công tác, sẵn sàng hoàn thành tốt nhiệm vụ trong mọi tình huống; nghiêm chỉnh chấp hành đường lối, chủ trương, chính sách của Đảng và pháp luật của Nhà nước, quy chế, chế độ, quy định về công tác cơ yếu; giữ gìn, bảo quản an toàn tuyệt đối sản phẩm mật mã được giao.\n\n3. Thường xuyên giữ gìn và trau dồi đạo đức cách mạng, học tập, rèn luyện nâng cao trình độ, kiến thức, năng lực về chính trị, chuyên môn, nghiệp vụ, quân sự, văn hoá và thể lực để hoàn thành nhiệm vụ.\n\n4. Khi nhận mệnh lệnh của người có thẩm quyền, nếu có căn cứ cho rằng mệnh lệnh đó là trái pháp luật thì phải báo cáo ngay với người ra mệnh lệnh; trường hợp vẫn phải chấp hành mệnh lệnh thì báo cáo kịp thời với cấp trên trực tiếp của người ra mệnh lệnh và không phải chịu trách nhiệm về hậu quả của việc thi hành mệnh lệnh đó.\n\n5. Thực hiện các nghĩa vụ, trách nhiệm khác theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H547-A25",
+   "no": 25,
+   "noLabel": {
+    "vi": "Điều 25"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Tuyển chọn người vào tổ chức cơ yếu"
+   },
+   "text": {
+    "vi": "Điều 25. Tuyển chọn người vào tổ chức cơ yếu\n\n1. Người chỉ có một quốc tịch Việt Nam, cư trú tại Việt Nam, từ đủ 18 tuổi, có đủ tiêu chuẩn về chính trị, phẩm chất đạo đức, trình độ học vấn, sức khoẻ, có nguyện vọng và năng lực phù hợp với công tác cơ yếu thì có thể được tuyển chọn vào tổ chức cơ yếu.\n\n2. Tổ chức cơ yếu được ưu tiên tuyển chọn sinh viên, học sinh tốt nghiệp xuất sắc và có đủ các tiêu chuẩn quy định tại khoản 1 Điều này ở các cơ sở giáo dục để đào tạo, bổ sung vào lực lượng cơ yếu."
+   }
+  },
+  {
+   "id": "VN-H547-A26",
+   "no": 26,
+   "noLabel": {
+    "vi": "Điều 26"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Tiêu chuẩn người làm công tác cơ yếu"
+   },
+   "text": {
+    "vi": "Điều 26. Tiêu chuẩn người làm công tác cơ yếu\n\n1. Người làm công tác cơ yếu phải có đủ các tiêu chuẩn sau đây:\n\na) Có bản lĩnh chính trị vững vàng, tuyệt đối trung thành với Tổ quốc và nhân dân, với Đảng Cộng sản Việt Nam và Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam; tự nguyện phục vụ lâu dài trong tổ chức cơ yếu; sẵn sàng nhận và hoàn thành nhiệm vụ được giao;\n\nb) Có phẩm chất đạo đức tốt, lịch sử chính trị gia đình và bản thân trong sạch, rõ ràng;\n\nc) Có trình độ chính trị, chuyên môn, nghiệp vụ, năng lực thực tiễn và sức khỏe đáp ứng yêu cầu nhiệm vụ được giao;\n\nd) Đã qua đào tạo, bồi dưỡng chuyên môn, nghiệp vụ cơ yếu.\n\n2. Người làm công tác cơ yếu khi không đáp ứng đủ tiêu chuẩn theo quy định tại khoản 1 Điều này thì không được tiếp tục làm công tác cơ yếu. Căn cứ từng trường hợp cụ thể, người sử dụng cơ yếu có thẩm quyền quyết định xử lý theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H547-A27",
+   "no": 27,
+   "noLabel": {
+    "vi": "Điều 27"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Hạn tuổi phục vụ của người làm công tác cơ yếu"
+   },
+   "text": {
+    "vi": "Điều 27. Hạn tuổi phục vụ của người làm công tác cơ yếu\n\n1. Hạn tuổi phục vụ của người làm công tác cơ yếu là quân nhân, Công an nhân dân thực hiện theo quy định của pháp luật về Quân đội nhân dân và Công an nhân dân. Người làm công tác cơ yếu không phải là quân nhân, Công an nhân dân thực hiện theo quy định của Bộ luật lao động.\n\n2. Người làm công tác cơ yếu không phải là quân nhân, Công an nhân dân có đủ điều kiện bảo hiểm xã hội của Nhà nước thì được nghỉ hưu; trường hợp có thời gian công tác trong tổ chức cơ yếu đủ 25 năm đối với nam, đủ 20 năm đối với nữ và đóng đủ bảo hiểm xã hội, trong đó có ít nhất 05 năm là người làm công tác cơ yếu mà cơ quan cơ yếu không còn nhu cầu bố trí công tác trong tổ chức cơ yếu hoặc không chuyển ngành được thì được nghỉ hưu trước hạn tuổi quy định tại khoản 1 Điều này."
+   }
+  },
+  {
+   "id": "VN-H547-A28",
+   "no": 28,
+   "noLabel": {
+    "vi": "Điều 28"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Biệt phái người làm công tác cơ yếu"
+   },
+   "text": {
+    "vi": "Điều 28. Biệt phái người làm công tác cơ yếu\n\n1. Căn cứ vào yêu cầu thực hiện nhiệm vụ cơ yếu, người làm công tác cơ yếu được biệt phái theo quyết định của cấp có thẩm quyền.\n\n2. Người làm công tác cơ yếu biệt phái được hưởng chế độ, chính sách theo quy định của Luật này và các quy định khác của pháp luật có liên quan."
+   }
+  },
+  {
+   "id": "VN-H547-A29",
+   "no": 29,
+   "noLabel": {
+    "vi": "Điều 29"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Thời hạn không được tham gia hoạt động mật mã"
+   },
+   "text": {
+    "vi": "Điều 29. Thời hạn không được tham gia hoạt động mật mã\n\nNgười làm việc trong tổ chức cơ yếu quy định tại điểm a và điểm b khoản 1 Điều 23 của Luật này khi nghỉ hưu, chuyển ngành, chuyển công tác khác hoặc thôi việc thì trong thời hạn 05 năm, kể từ khi có quyết định nghỉ hưu, chuyển ngành, chuyển công tác khác hoặc thôi việc không được tham gia hoạt động mật mã cho tổ chức, cá nhân ngoài ngành cơ yếu."
+   }
+  },
+  {
+   "id": "VN-H547-A30",
+   "no": 30,
+   "noLabel": {
+    "vi": "Điều 30"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Đào tạo, bồi dưỡng, sử dụng người làm việc trong tổ chức cơ yếu"
+   },
+   "text": {
+    "vi": "Điều 30. Đào tạo, bồi dưỡng, sử dụng người làm việc trong tổ chức cơ yếu\n\n1. Người làm việc trong tổ chức cơ yếu được đào tạo, bồi dưỡng về chính trị, chuyên môn, nghiệp vụ, pháp luật và kiến thức cần thiết khác phù hợp với nhiệm vụ được giao.\n\n2. Người đã qua đào tạo chuyên môn, nghiệp vụ cơ yếu khi tốt nghiệp được cơ quan có thẩm quyền điều động, bổ nhiệm làm việc trong tổ chức cơ yếu."
+   }
+  },
+  {
+   "id": "VN-H547-A31",
+   "no": 31,
+   "noLabel": {
+    "vi": "Điều 31"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Chế độ, chính sách đối với người làm công tác cơ yếu"
+   },
+   "text": {
+    "vi": "Điều 31. Chế độ, chính sách đối với người làm công tác cơ yếu\n\n1. Người làm công tác cơ yếu là quân nhân, Công an nhân dân được hưởng chế độ tiền lương và phụ cấp, các chế độ, chính sách khác theo quy định đối với Quân đội nhân dân, Công an nhân dân.\n\n2. Người làm công tác cơ yếu không phải là quân nhân, Công an nhân dân thì được hưởng chế độ tiền lương và phụ cấp, các chế độ, chính sách khác như đối với quân nhân và được miễn thực hiện nghĩa vụ quân sự tại ngũ.\n\n3. Người làm công tác cơ yếu được hưởng các chế độ, chính sách đặc thù của ngành cơ yếu theo quy định của pháp luật.\n\n4. Chính phủ quy định chi tiết Điều này."
+   }
+  },
+  {
+   "id": "VN-H547-A32",
+   "no": 32,
+   "noLabel": {
+    "vi": "Điều 32"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Chế độ, chính sách đối với người được tuyển chọn để đào tạo, bồi dưỡng, huấn luyện chuyên môn, nghiệp vụ cơ yếu"
+   },
+   "text": {
+    "vi": "Điều 32. Chế độ, chính sách đối với người được tuyển chọn để đào tạo, bồi dưỡng, huấn luyện chuyên môn, nghiệp vụ cơ yếu\n\nNgười được tuyển chọn để đào tạo, bồi dưỡng, huấn luyện chuyên môn, nghiệp vụ cơ yếu được hưởng các chế độ, chính sách theo chế độ, chính sách đối với học viên ở các trường Quân đội, Công an."
+   }
+  },
+  {
+   "id": "VN-H547-A33",
+   "no": 33,
+   "noLabel": {
+    "vi": "Điều 33"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Chế độ, chính sách đối với người làm công tác khác trong tổ chức cơ yếu"
+   },
+   "text": {
+    "vi": "Điều 33. Chế độ, chính sách đối với người làm công tác khác trong tổ chức cơ yếu\n\n1. Người làm công tác khác trong tổ chức cơ yếu là quân nhân, Công an nhân dân được hưởng chế độ tiền lương và phụ cấp, các chế độ, chính sách theo quy định đối với Quân đội nhân dân, Công an nhân dân.\n\n2. Người làm công tác khác trong tổ chức cơ yếu không phải là quân nhân, Công an nhân dân được hưởng chế độ tiền lương và phụ cấp, các chế độ, chính sách như đối với công nhân, viên chức quốc phòng trong Quân đội nhân dân và được miễn thực hiện nghĩa vụ quân sự tại ngũ."
+   }
+  },
+  {
+   "id": "VN-H547-A34",
+   "no": 34,
+   "noLabel": {
+    "vi": "Điều 34"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Chế độ phụ cấp trách nhiệm bảo vệ cơ mật mật mã"
+   },
+   "text": {
+    "vi": "Điều 34. Chế độ phụ cấp trách nhiệm bảo vệ cơ mật mật mã\n\nNgười làm việc trong tổ chức cơ yếu được hưởng chế độ phụ cấp trách nhiệm bảo vệ cơ mật mật mã theo quy định của Chính phủ."
+   }
+  },
+  {
+   "id": "VN-H547-A35",
+   "no": 35,
+   "noLabel": {
+    "vi": "Điều 35"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Chế độ, chính sách đối với người làm công tác cơ yếu không phải là quân nhân, Công an nhân dân nghỉ hưu, chuyển ngành, thôi việc"
+   },
+   "text": {
+    "vi": "Điều 35. Chế độ, chính sách đối với người làm công tác cơ yếu không phải là quân nhân, Công an nhân dân nghỉ hưu, chuyển ngành, thôi việc\n\n1. Người làm công tác cơ yếu không phải là quân nhân, Công an nhân dân khi nghỉ hưu được hưởng quyền lợi sau đây:\n\na) Hưởng chế độ hưu trí theo quy định của pháp luật;\n\nb) Được chính quyền địa phương nơi cư trú tạo điều kiện ổn định cuộc sống;\n\nc) Khám bệnh, chữa bệnh theo chế độ bảo hiểm y tế tại cơ sở y tế của quân, dân y.\n\n2. Người làm công tác cơ yếu không phải là quân nhân, Công an nhân dân khi chuyển ngành được hưởng quyền lợi sau đây:\n\na) Bảo lưu mức lương tại thời điểm chuyển ngành trong thời gian tối thiểu là 18 tháng;\n\nb) Trường hợp do yêu cầu điều động trở lại phục vụ trong lực lượng cơ yếu thì thời gian chuyển ngành được tính vào thời gian công tác liên tục để xét nâng cấp hàm, bậc lương và thâm niên công tác;\n\nc) Khi nghỉ hưu thì phụ cấp thâm niên nghề tính theo thời gian làm việc trong tổ chức cơ yếu tại thời điểm chuyển ngành được cộng vào mức bình quân tiền lương tháng để làm cơ sở tính lương hưu. Trường hợp khi nghỉ hưu mà mức lương hưu tính tại thời điểm nghỉ hưu thấp hơn mức lương hưu tính tại thời điểm chuyển ngành thì được hưởng mức lương hưu tính tại thời điểm chuyển ngành.\n\n3. Người làm công tác cơ yếu không phải là quân nhân, Công an nhân dân khi thôi việc nhưng chưa đủ điều kiện nghỉ hưu được hưởng quyền lợi sau đây:\n\na) Được hưởng trợ cấp tạo việc làm, trợ cấp thôi việc một lần và chế độ bảo hiểm xã hội theo quy định của pháp luật;\n\nb) Được chính quyền địa phương nơi cư trú tạo điều kiện ổn định cuộc sống;\n\nc) Trường hợp có đủ 15 năm phục vụ trong lực lượng cơ yếu trở lên khi khám bệnh, chữa bệnh tại các cơ sở y tế của Quân đội được miễn hoặc giảm viện phí theo quy định của Bộ trưởng Bộ Quốc phòng."
+   }
+  },
+  {
+   "id": "VN-H547-A36",
+   "no": 36,
+   "noLabel": {
+    "vi": "Điều 36"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Bảo đảm điều kiện hoạt động cho người làm công tác cơ yếu"
+   },
+   "text": {
+    "vi": "Điều 36. Bảo đảm điều kiện hoạt động cho người làm công tác cơ yếu\n\n1. Người làm công tác cơ yếu được trang bị, sử dụng phương tiện kỹ thuật, nghiệp vụ, vũ khí, công cụ hỗ trợ và được ưu tiên về thủ tục xuất cảnh, nhập cảnh, được miễn thủ tục hải quan đối với sản phẩm mật mã mang theo khi xuất cảnh, nhập cảnh.\n\n2. Cơ quan, tổ chức sử dụng cơ yếu có trách nhiệm quản lý, sử dụng người làm công tác cơ yếu đúng chuyên môn, nghiệp vụ và bảo đảm điều kiện làm việc; thường xuyên giáo dục chính trị, tư tưởng, phẩm chất đạo đức; thực hiện đầy đủ chế độ, chính sách và chăm lo đời sống vật chất, tinh thần cho người làm công tác cơ yếu.\n\nChương V\n\nĐIỀU KHOẢN THI HÀNH"
+   }
+  },
+  {
+   "id": "VN-H547-A37",
+   "no": 37,
+   "noLabel": {
+    "vi": "Điều 37"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Hiệu lực thi hành"
+   },
+   "text": {
+    "vi": "Điều 37. Hiệu lực thi hành\n\nLuật này có hiệu lực thi hành từ ngày 01 tháng 02 năm 2012. Pháp lệnh Cơ yếu số 33/2001/PL-UBTVQH10 hết hiệu lực kể từ ngày Luật này có hiệu lực."
+   }
+  },
+  {
+   "id": "VN-H547-A38",
+   "no": 38,
+   "noLabel": {
+    "vi": "Điều 38"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Quy định chi tiết và hướng dẫn thi hành"
+   },
+   "text": {
+    "vi": "Điều 38. Quy định chi tiết và hướng dẫn thi hành\n\nChính phủ quy định chi tiết và hướng dẫn thi hành các điều, khoản được giao trong Luật này.\n\nLuật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 2 thông qua ngày 26 tháng 11 năm 2011./.\n\nCHỦ TỊCH\n\n(Đã ký)\n\nNguyễn Sinh Hùng\n\n1:{\"id\":\"27327\",\"docType\":{\"id\":\"11025e19-2dd6-4165-85ad-ab6241186a1a\",\"name\":\"Luật\",\"code\":\"Lu\",\"parentCode\":\"VBQPPL\",\"parentName\":null},\"docGroup\":\"VBQPPL\",\"docNum\":\"05/2011/QH13\",\"title\":\"Luật Cơ yếu số 05/2011/QH13\",\"applicationNote\":null,\"issueDate\":\"2011-11-26T00:00:00\",\"effFrom\":\"2012-02-01T00:00:00\",\"effTo\":null,\"publicDate\":null,\"effStatus\":{\"id\":\"9c20e89d-e048-4f3a-b6c2-df87fe0b1ada\",\"name\":\"Hết hiệu lực một phần\",\"code\":\"HHL1P\",\"parentCode\":null,\"parentName\":null},\"status\":\"Publish\",\"lang\":\"vi\",\"defaultLanguage\":\"VN\",\"updatedBy\":\"System Account\",\"updatedDate\":\"2026-05-08T19:05:31\",\"agencyName\":\"Quốc hội\",\"organization\":{\"id\":\"93724a75-0d15-4e7b-a4df-4282a2bea6a0\",\"code\":\"BQP\",\"name\":\"Bộ Quốc phòng\",\"nameEn\":\"Bộ Quốc phòng\",\"shortName\":\"BQP\",\"orgType\":\"0\"},\"isLw\":true,\"documentContent\":{\"id\":\"27327\",\"title\":null,\"content\":\"$2\"},\"documentContentEn\":null,\"documentContentFileName\":null,\"documentContentFileDocName\":null,\"documentIssues\":[{\"id\":\"b2a22fb8-a6ec-4304-8009-5711a15d2a5e\",\"agencyId\":\"55\",\"agencyName\":\"Quốc hội\",\"agencyNameEn\":\"National Assembly of Vietnam\",\"agencyCode\":\"QH\",\"personId\":\"122\",\"personName\":\"Nguyễn Sinh Hùng\",\"jobTitleId\":\"28da0087-8afd-420c-875c-b2369e212c3e\",\"jobTitleCode\":\"CTQH\",\"jobTitleName\":\"Chủ tịch Quốc hội\",\"orderIndex\":1}],\"documentMajors\":[],\"documentFields\":[{\"id\":\"76e2c0d5-e93e-4ee9-8c72-59dae1167432\",\"name\":\"Chưa phân loại\",\"code\":null,\"parentCode\":null,\"parentName\":null}],\"documentRelatedList\":[{\"id\":\"b41933d1-b68b-4a3b-99ce-79609f5ebeeb\",\"fileName\":\"05.2011.QH13.zip\",\"relatedType\":\"MARKDOWN\",\"fileTitle\":\"05.2011.QH13.zip\",\"fileOrder\":null},{\"id\":\"50886073-4115-4bec-8237-71d65ba80150\",\"fileName\":\"27327_body_content.html\",\"relatedType\":\"MARKDOWN\",\"fileTitle\":\"27327_body_content.html\",\"fileOrder\":null}],\"provisionTree\":null,\"references\":null,\"isEffectAllDocument\":false,\"isOld\":true,\"reviewStatus\":\"RV_DONE\",\"reviewed\":true,\"isTranslationDoc\":false,\"isConsolidatedDocument\":false,\"isConstitutionDocument\":false,\"isAdministrativeDocument\":false,\"viewCount\":75,\"showViewCount\":true,\"hasContent\":true,\"hasOriginalPdf\":null,\"hasAIProcessed\":false,\"hasClauseRelation\":null,\"aiResults\":[]}"
+   }
+  }
+ ]
+}

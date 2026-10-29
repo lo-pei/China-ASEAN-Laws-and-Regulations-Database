@@ -1,0 +1,62 @@
+{
+ "id": "PH-H14459",
+ "title": {
+  "zh": null,
+  "en": "An Act to Declare the Last Sunday of August of Every Year as An Official Holiday to Be Known as the National Heroes Day.",
+  "orig": "An Act to Declare the Last Sunday of August of Every Year as An Official Holiday to Be Known as the National Heroes Day."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1931-10-28",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3827",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 194,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1931/act_3827_1931.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03827_1931_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03827_1931_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14459-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The last Sunday of August of every year is hereby declared as an official holiday to be known as\nthe National Heroes Day."
+   }
+  },
+  {
+   "id": "PH-H14459-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, October 28, 1931."
+   }
+  }
+ ]
+}

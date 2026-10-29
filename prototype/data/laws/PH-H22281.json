@@ -1,0 +1,72 @@
+{
+ "id": "PH-H22281",
+ "title": {
+  "zh": null,
+  "en": "Discontinuance of the Spanish Mortgage System of Registration and of the Use of Spanish Titles as Evidence in Land Registration Proceedings",
+  "orig": "Discontinuance of the Spanish Mortgage System of Registration and of the Use of Spanish Titles as Evidence in Land Registration Proceedings"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1976-02-16",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 892",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1031,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_00892_1976_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_00892_1976_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22281-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The system of registration under the Spanish Mortgage Law is discontinued, and all lands\nrecorded under said system which are not yet covered by Torrens title shall be considered as unregistered\nAll holders of Spanish titles or grants should apply for registration of their lands under Act No. 496, otherwise\nknown as the Land Registration Act, within six (6) months from the effectivity of this decree. Thereafter,\nSpanish titles cannot be used as evidence of land ownership in any registration proceedings under the Torrens\nHereafter, all instruments affecting lands originally registered under the Spanish Mortgage Law may be\nrecorded under Section 194 of the Revised Administrative Code, as amended by Act 3344;"
+   }
+  },
+  {
+   "id": "PH-H22281-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "All laws, executive orders, administrative orders, rules and regulations inconsistent with the\nforegoing provisions are hereby repealed or accordingly modified;"
+   }
+  },
+  {
+   "id": "PH-H22281-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Decree shall take effect immediately.\nDone in the City of Manila, this 16th day of February, in the year of Our Lord, nineteen hundred and\nseventy-six."
+   }
+  }
+ ]
+}

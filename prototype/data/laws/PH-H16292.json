@@ -1,0 +1,62 @@
+{
+ "id": "PH-H16292",
+ "title": {
+  "zh": null,
+  "en": "An Act to Extend the Effects of the Provisions of Act Numbered Forty-One Hundred and Sixty-Six, Entitled \"An Act to Provide for the Limitation, Regulation, and Allocation of Sugar Produced in the Philippine Islands, and for the Processing and Marketing thereof,And Foe Other Purposes,\" as Amended.",
+  "orig": "An Act to Extend the Effects of the Provisions of Act Numbered Forty-One Hundred and Sixty-Six, Entitled \"An Act to Provide for the Limitation, Regulation, and Allocation of Sugar Produced in the Philippine Islands, and for the Processing and Marketing thereof,And Foe Other Purposes,\" as Amended."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1940-06-08",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 584",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 714,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00584_1940_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00584_1940_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H16292-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Act Numbered Forty-one hundred and sixty-six, entitled \"An Act to provide for die limitation,\nregulation, and allocation of sugar produced in the Philippine Islands, and for the processing and marketing\nthereof, and for other purposes,- as amended, shall continue in force for six crop three hundred and forty-one\ncrop year, unless the President determines that the state of national emergency declared in said Act has\ntemporarily or definitely ceased, in which case he shall so declare by proclamation, whereupon the effects of\"\nsaid Act, as amended, shall thereby either be suspended temporarily or cease definitely."
+   }
+  },
+  {
+   "id": "PH-H16292-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nEnacted, without Executive approval, June 8, 1940."
+   }
+  }
+ ]
+}

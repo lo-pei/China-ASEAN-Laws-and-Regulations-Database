@@ -1,0 +1,62 @@
+{
+ "id": "PH-H20007",
+ "title": {
+  "zh": null,
+  "en": "Temporarily Lifting the Provisions of Section 514, Title III, Book I of Republic Act No. 1937, as Amended, and Those of Executive Order No. 425, Series of 1974, With Respect to Wood Products",
+  "orig": "Temporarily Lifting the Provisions of Section 514, Title III, Book I of Republic Act No. 1937, as Amended, and Those of Executive Order No. 425, Series of 1974, With Respect to Wood Products"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p158",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1974-10-02",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Executive Order No. 434",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 903,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/07_行政命令_EO/EO_00434_1974_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 EO_00434_1974_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H20007-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Sec 1"
+   },
+   "text": {
+    "en": "Any provision of law, decree, executive order, rules and regulations to the contrary, notwithstanding,\nthe provisions of Section 514, Title III, Book I of Republic Act No. 1937, as amended, fixing the basic rate of\nexport duties and collecting the same from the F.O.B. value of wood products, as well as those of Executive\nOrder No. 425, series of 1974, Levying, assessing and collecting a premium duty on the difference between\nthe current price and the base price of the same commodities, are hereby temporarily lifted: Provided, that said\nprovisions may later on be restored by the President of the Philippines, as the circumstances may warrant,\nupon the recommendation of the National Economic and Development Authority."
+   }
+  },
+  {
+   "id": "PH-H20007-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Sec 2"
+   },
+   "text": {
+    "en": "This Order shall take effect and shall be implemented immediately.\nDone in the City of Manila, this 2nd day of October, in the year of Our Lord, nineteen hundred and\nseventy-four."
+   }
+  }
+ ]
+}

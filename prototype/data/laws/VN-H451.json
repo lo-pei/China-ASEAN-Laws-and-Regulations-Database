@@ -1,0 +1,1210 @@
+{
+ "id": "VN-H451",
+ "title": {
+  "zh": "药事法",
+  "en": "Law No. 34/2005/QH11 on pharmacy",
+  "vi": "Luật Dược số 34/2005/QH11",
+  "orig": "Luật Dược số 34/2005/QH11",
+  "th": "พระราชบัญญัติเภสัชกรรม เลขที่ 34/2005/QH11",
+  "id": "Undang-Undang Farmasi No. 34/2005/QH11",
+  "ms": "Akta Farmasi No. 34/2005/QH11"
+ },
+ "country": "VN",
+ "countryName": "越南",
+ "layer": "intl",
+ "pack": "vn-p06",
+ "language": "vi",
+ "level": "law",
+ "category": "05_其他及未分类",
+ "status": "active",
+ "promulgatedDate": "2005",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "国会",
+ "docNumber": "34/2005/QH11",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 73,
+ "chars": 50577,
+ "source": {
+  "name": "越南法律数据库（vbpl.vn 官方公报文本）",
+  "url": "https://vbpl.vn/van-ban/chi-tiet/luat-duoc-so-34-2005-qh11--18127"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\VN\\05_其他及未分类\\2005_34 2005 QH11_Luật Dược số 34 2005 QH11.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 73 条；逐字未改写（源自 VN）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "VN-H451-A1",
+   "no": 1,
+   "noLabel": {
+    "vi": "Điều 1"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Phạm vi điều chỉnh, đối tượng áp dụng"
+   },
+   "text": {
+    "vi": "Điều 1. Phạm vi điều chỉnh, đối tượng áp dụng\n\n1. Luật này quy định việc kinh doanh thuốc; đăng ký, lưu hành thuốc; sử dụng thuốc; cung ứng thuốc; thông tin, quảng cáo thuốc; thử thuốc trên lâm sàng; quản lý thuốc gây nghiện, thuốc hướng tâm thần, tiền chất dùng làm thuốc và thuốc phóng xạ; tiêu chuẩn chất lượng thuốc và kiểm nghiệm thuốc.\n\n2. Luật này áp dụng đối với cơ quan, tổ chức, cá nhân trong nước và nước ngoài tại Việt Nam.\n\nTrường hợp điều ước quốc tế mà Cộng hoà xã hội chủ nghĩa Việt Nam là thành viên có quy định khác với quy định của Luật này thì áp dụng quy định của điều ước quốc tế đó."
+   }
+  },
+  {
+   "id": "VN-H451-A2",
+   "no": 2,
+   "noLabel": {
+    "vi": "Điều 2"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Giải thích từ ngữ"
+   },
+   "text": {
+    "vi": "Điều 2. Giải thích từ ngữ\n\nTrong Luật này, các từ ngữ dưới đây được hiểu như sau:\n\n1. Dược là thuốc và hoạt động liên quan đến thuốc.\n\n2. Thuốc là chất hoặc hỗn hợp các chất dùng cho người nhằm mục đích phòng bệnh, chữa bệnh, chẩn đoán bệnh hoặc điều chỉnh chức năng sinh lý cơ thể bao gồm thuốc thành phẩm, nguyên liệu làm thuốc, vắc xin, sinh phẩm y tế, trừ thực phẩm chức năng.\n\n3. Vắc xin là chế phẩm chứa kháng nguyên tạo cho cơ thể khả năng đáp ứng miễn dịch, được dùng với mục đích phòng bệnh.\n\n4. Sinh phẩm y tế là sản phẩm có nguồn gốc sinh học được dùng để phòng bệnh, chữa bệnh và chẩn đoán bệnh cho người.\n\n5. Nguyên liệu làm thuốc là chất tham gia vào thành phần cấu tạo sản phẩm trong quá trình sản xuất thuốc.\n\n6. Dược chất (còn gọi là hoạt chất) là chất hoặc hỗn hợp các chất có hoạt tính điều trị được sử dụng trong sản xuất thuốc.\n\n7. Thuốc thành phẩm là dạng thuốc đã qua tất cả các giai đoạn sản xuất, kể cả đóng gói trong bao bì cuối cùng và dán nhãn.\n\n8. Thuốc từ dược liệu là thuốc được sản xuất từ nguyên liệu có nguồn gốc tự nhiên từ động vật, thực vật hoặc khoáng chất.\n\nThuốc có hoạt chất tinh khiết được chiết xuất từ dược liệu, thuốc có sự kết hợp dược liệu với các hoạt chất hóa học tổng hợp không gọi là thuốc từ dược liệu.\n\n9. Thuốc đông y là thuốc từ dược liệu, được bào chế theo lý luận và phương pháp của y học cổ truyền của các nước phương Đông.\n\n10. Thuốc kê đơn là thuốc nếu sử dụng không theo đúng chỉ định của người kê đơn thì có thể nguy hiểm tới tính mạng, sức khoẻ; khi cấp phát, bán lẻ, sử dụng phải theo đơn thuốc và được quy định trong danh mục nhóm thuốc kê đơn.\n\n11. Thuốc không kê đơn là thuốc khi cấp phát, bán và sử dụng không cần đơn thuốc.\n\n12. Thuốc gây nghiện là thuốc nếu sử dụng kéo dài có thể dẫn tới nghiện, được quy định tại danh mục thuốc gây nghiện do Bộ trưởng Bộ Y tế ban hành và phù hợp với các điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.\n\n13. Thuốc hướng tâm thần là thuốc có tác dụng trên thần kinh trung ương, nếu sử dụng không đúng có khả năng lệ thuộc vào thuốc, được quy định tại danh mục thuốc hướng tâm thần do Bộ trưởng Bộ Y tế ban hành và phù hợp với các điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.\n\n14. Tiền chất dùng làm thuốc là hóa chất không thể thiếu được trong quá trình điều chế, sản xuất thuốc gây nghiện, thuốc hướng tâm thần, là thành phần tham gia vào công thức của chất gây nghiện, chất hướng tâm thần, được quy định tại danh mục tiền chất do Bộ trưởng Bộ Y tế ban hành và phù hợp với các điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.\n\n15. Thuốc phóng xạ là thuốc có chứa một hoặc nhiều chất phóng xạ, dùng để chẩn đoán hay điều trị bệnh.\n\n16. Thuốc thiết yếu là thuốc đáp ứng nhu cầu chăm sóc sức khỏe của đại đa số nhân dân, được quy định tại danh mục thuốc thiết yếu do Bộ trưởng Bộ Y tế ban hành.\n\n17. Thuốc chủ yếu là thuốc đáp ứng nhu cầu điều trị trong cơ sở khám bệnh, chữa bệnh phù hợp với cơ cấu bệnh tật ở Việt Nam được quy định tại danh mục thuốc chủ yếu sử dụng trong cơ sở khám bệnh, chữa bệnh do Bộ trưởng Bộ Y tế ban hành.\n\n18. Thuốc mới là thuốc chứa dược chất mới, thuốc có sự kết hợp mới của các dược chất đã lưu hành.\n\n19. Biệt dược là thuốc có tên thương mại do cơ sở sản xuất thuốc đặt ra, khác với tên gốc hoặc tên chung quốc tế.\n\n20. Phản ứng có hại của thuốc là những tác dụng không mong muốn có hại đến sức khỏe, có thể xuất hiện ở liều dùng bình thường.\n\n21. Hạn dùng của thuốc là thời gian sử dụng được ấn định cho một lô thuốc mà sau thời hạn này thuốc không được phép sử dụng.\n\n22. Tiêu chuẩn chất lượng thuốc bao gồm các quy định về chỉ tiêu, yêu cầu kỹ thuật, phương pháp kiểm nghiệm, bao gói, ghi nhãn, vận chuyển, bảo quản và các yêu cầu khác có liên quan đến chất lượng thuốc.\n\nTiêu chuẩn chất lượng thuốc được thể hiện dưới hình thức văn bản kỹ thuật.\n\n23. Thuốc kém chất lượng là thuốc không đạt tiêu chuẩn chất lượng đã đăng ký với cơ quan có thẩm quyền.\n\n24. Thuốc giả là sản phẩm được sản xuất dưới dạng thuốc với ý đồ lừa đảo, thuộc một trong những trường hợp sau đây:\n\na) Không có dược chất;\n\nb) Có dược chất nhưng không đúng hàm lượng đã đăng ký;\n\nc) Có dược chất khác với dược chất ghi trên nhãn;\n\nd) Mạo tên, kiểu dáng công nghiệp của thuốc đã đăng ký bảo hộ sở hữu công nghiệp của cơ sở sản xuất khác.\n\n25. Kinh doanh thuốc là việc thực hiện một, một số hoặc tất cả các công đoạn của quá trình đầu tư, từ sản xuất đến tiêu thụ thuốc hoặc cung ứng dịch vụ liên quan đến thuốc trên thị trường nhằm mục đích sinh lợi.\n\n26. Hành nghề dược là việc cá nhân sử dụng trình độ chuyên môn dược của mình để kinh doanh thuốc.\n\n27. Thực hành tốt là những bộ nguyên tắc, tiêu chuẩn về sản xuất, bảo quản, kiểm nghiệm, lưu thông thuốc, nuôi trồng, thu hoạch và chế biến dược liệu do Bộ Y tế ban hành.\n\n28. Thử thuốc tiền lâm sàng là hoạt động khoa học nghiên cứu tác dụng của thuốc nhằm đánh giá, chứng minh hiệu quả và tính an toàn của thuốc trên súc vật để làm thủ tục cho việc thử lâm sàng.\n\n29. Thử thuốc trên lâm sàng là hoạt động khoa học nghiên cứu thuốc một cách có hệ thống trên người, nhằm xác minh hiệu quả lâm sàng, nhận biết, phát hiện phản ứng có hại do tác động của sản phẩm nghiên cứu; khả năng hấp thu, phân bố, chuyển hóa, thải trừ của sản phẩm đó với mục tiêu xác định sự an toàn và hiệu quả của thuốc.\n\n30. Thông tin thuốc là hoạt động thu thập và cung cấp các tin tức có liên quan đến thuốc cho tổ chức, cá nhân trực tiếp hoạt động y, dược hoặc người sử dụng thuốc.\n\n31. Kiểm nghiệm thuốc là việc lấy mẫu, xem xét tiêu chuẩn kỹ thuật, tiến hành các thử nghiệm tương ứng và cần thiết nhằm xác định nguyên liệu, bán thành phẩm, thành phẩm có đáp ứng tiêu chuẩn kỹ thuật không để quyết định việc chấp nhận hay loại bỏ thuốc đó.\n\n32. Kê khai giá thuốc là việc cơ sở kinh doanh thuốc báo cáo với cơ quan nhà nước có thẩm quyền về giá nhập khẩu, giá bán buôn, giá bán lẻ dự kiến theo quy định của pháp luật về giá."
+   }
+  },
+  {
+   "id": "VN-H451-A3",
+   "no": 3,
+   "noLabel": {
+    "vi": "Điều 3"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Chính sách của Nhà nước về lĩnh vực dược"
+   },
+   "text": {
+    "vi": "Điều 3. Chính sách của Nhà nước về lĩnh vực dược\n\nNhà nước thực hiện các chính sách sau đây về lĩnh vực dược:\n\n1. Phát triển ngành dược thành một ngành kinh tế - kỹ thuật mũi nhọn, ưu tiên phát triển công nghiệp dược.\n\nDự án ứng dụng công nghệ tiên tiến để sản xuất thuốc, nguyên liệu làm thuốc, thuốc chủ yếu, thuốc thay thế thuốc nhập khẩu, thuốc phòng chống các bệnh xã hội, vắc xin, sinh phẩm y tế, thuốc từ dược liệu, thuốc đông y được hưởng các ưu đãi đầu tư theo quy định của pháp luật;\n\n2. Khuyến khích tổ chức, cá nhân trong nước và nước ngoài, người Việt Nam định cư ở nước ngoài phát triển nghiên cứu khoa học về công nghệ bào chế, công nghệ sinh học để sản xuất các thuốc mới; đầu tư sản xuất nguyên liệu làm thuốc, thuốc thành phẩm phù hợp với cơ cấu bệnh tật và nhu cầu sử dụng thuốc của nhân dân;\n\n3. Khuyến khích nghiên cứu, kế thừa các bài thuốc và kinh nghiệm của đông y, kết hợp hài hòa đông y với y dược học hiện đại; tìm kiếm, khai thác, sử dụng dược liệu mới, xuất khẩu dược liệu; thực hiện chính sách ưu đãi, hỗ trợ nuôi trồng dược liệu, khai thác dược liệu thiên nhiên hợp lý, bảo đảm lưu giữ và phát triển nguồn gen dược liệu; hiện đại hóa sản xuất thuốc từ dược liệu;\n\n4. Hỗ trợ về thuốc bằng những hình thức thích hợp cho các đối tượng thuộc diện chính sách, vùng đồng bào dân tộc thiểu số, vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn, vùng có điều kiện kinh tế - xã hội khó khăn;\n\n5. Phát triển mạng lưới lưu thông, phân phối và cung ứng thuốc, bảo đảm đủ thuốc có chất lượng đáp ứng nhu cầu sử dụng thuốc của nhân dân;\n\n6. Bảo hộ quyền, lợi ích hợp pháp của tổ chức, cá nhân trong nghiên cứu, kinh doanh và sử dụng thuốc tại Việt Nam."
+   }
+  },
+  {
+   "id": "VN-H451-A4",
+   "no": 4,
+   "noLabel": {
+    "vi": "Điều 4"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Dự trữ quốc gia về thuốc"
+   },
+   "text": {
+    "vi": "Điều 4. Dự trữ quốc gia về thuốc\n\n1. Nhà nước thực hiện việc dự trữ quốc gia về thuốc để sử dụng vào các mục đích sau đây:\n\na) Phòng, chống dịch bệnh và khắc phục hậu quả thiên tai, thảm họa;\n\nb) Bảo đảm quốc phòng, an ninh;\n\nc) Tham gia bình ổn thị trường thuốc.\n\n2. Việc xây dựng, tổ chức, quản lý, điều hành và sử dụng dự trữ quốc gia về thuốc được thực hiện theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H451-A5",
+   "no": 5,
+   "noLabel": {
+    "vi": "Điều 5"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Quản lý nhà nước về giá thuốc"
+   },
+   "text": {
+    "vi": "Điều 5. Quản lý nhà nước về giá thuốc\n\n1. Nhà nước quản lý về giá thuốc theo nguyên tắc các cơ sở sản xuất, xuất khẩu, nhập khẩu, buôn bán thuốc tự định giá, cạnh tranh về giá và chịu trách nhiệm theo quy định của pháp luật; sử dụng các biện pháp bình ổn giá thuốc trên thị trường để đáp ứng nhu cầu phục vụ công tác chăm sóc sức khoẻ nhân dân.\n\n2. Chính phủ quy định chi tiết về quản lý giá thuốc phù hợp với tình hình kinh tế - xã hội trong từng giai đoạn cụ thể theo các nguyên tắc sau đây:\n\na) Thuốc trước khi lưu hành trên thị trường phải được cơ sở sản xuất, nhập khẩu kê khai giá và khi thay đổi giá thuốc phải được kê khai lại với cơ quan nhà nước có thẩm quyền, bảo đảm giá thuốc không cao hơn giá thuốc tại các nước trong khu vực có điều kiện y tế, thương mại tương tự như Việt Nam;\n\nb) Cơ sở sản xuất, nhập khẩu thuốc chịu trách nhiệm trước pháp luật về mức giá kê khai;\n\nc) Giá bán buôn thuốc, giá bán lẻ thuốc phải được niêm yết;\n\nd) Cơ quan nhà nước có thẩm quyền thông báo công khai giá thuốc được kê khai; định kỳ công bố giá tối đa đối với các loại thuốc do ngân sách nhà nước và bảo hiểm y tế chi trả;\n\nđ) Bộ Y tế chủ trì phối hợp với Bộ Tài chính, Bộ Công nghiệp, Bộ Thương mại, Bộ Kế hoạch và Đầu tư và các cơ quan nhà nước hữu quan khác thực hiện quản lý nhà nước về giá thuốc theo sự phân công của Chính phủ."
+   }
+  },
+  {
+   "id": "VN-H451-A6",
+   "no": 6,
+   "noLabel": {
+    "vi": "Điều 6"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Cơ quan quản lý nhà nước về dược"
+   },
+   "text": {
+    "vi": "Điều 6. Cơ quan quản lý nhà nước về dược\n\n1. Chính phủ thống nhất quản lý nhà nước về dược.\n\n2. Bộ Y tế chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về dược.\n\n3. Bộ, cơ quan ngang bộ có trách nhiệm phối hợp với Bộ Y tế trong việc thực hiện quản lý nhà nước về dược theo sự phân công của Chính phủ.\n\n4. Uỷ ban nhân dân các cấp thực hiện quản lý nhà nước về dược trong phạm vi địa phương theo sự phân cấp của Chính phủ."
+   }
+  },
+  {
+   "id": "VN-H451-A7",
+   "no": 7,
+   "noLabel": {
+    "vi": "Điều 7"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Thanh tra dược"
+   },
+   "text": {
+    "vi": "Điều 7. Thanh tra dược\n\nThanh tra dược thuộc thanh tra Bộ Y tế có chức năng thanh tra chuyên ngành về dược.\n\nTổ chức, chức năng, nhiệm vụ, quyền hạn của thanh tra dược được thực hiện theo quy định của pháp luật về thanh tra."
+   }
+  },
+  {
+   "id": "VN-H451-A8",
+   "no": 8,
+   "noLabel": {
+    "vi": "Điều 8"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Hội và hiệp hội về dược"
+   },
+   "text": {
+    "vi": "Điều 8. Hội và hiệp hội về dược\n\n1. Hội và hiệp hội về dược là tổ chức xã hội - nghề nghiệp của dược sĩ và những người hoạt động trong lĩnh vực dược.\n\n2. Dược sĩ và những người hoạt động trong lĩnh vực dược có quyền tham gia và thành lập hội, hiệp hội về dược.\n\n3. Tổ chức và hoạt động của hội, hiệp hội về dược được thực hiện theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H451-A9",
+   "no": 9,
+   "noLabel": {
+    "vi": "Điều 9"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Những hành vi bị nghiêm cấm"
+   },
+   "text": {
+    "vi": "Điều 9. Những hành vi bị nghiêm cấm\n\n1. Kinh doanh thuốc mà không có Giấy chứng nhận đủ điều kiện kinh doanh thuốc.\n\n2. Hành nghề dược mà không có Chứng chỉ hành nghề dược.\n\n3. Kinh doanh thuốc không rõ nguồn gốc, xuất xứ, thuốc giả, thuốc kém chất lượng, thuốc hết hạn dùng, thuốc thuộc danh mục thuốc cấm nhập khẩu, thuốc thử lâm sàng, thuốc chưa được phép lưu hành, thuốc mẫu dùng để đăng ký hoặc giới thiệu cho thầy thuốc.\n\n4. Giả mạo, thuê, mượn, cho thuê, cho mượn chứng chỉ hành nghề dược, Giấy chứng nhận đủ điều kiện kinh doanh thuốc.\n\n5. Thông tin, quảng cáo thuốc sai sự thật, gây nhầm lẫn cho người tiêu dùng; quảng cáo thuốc trái với truyền thống lịch sử, văn hóa, đạo đức, thuần phong, mỹ tục của dân tộc Việt Nam.\n\n6. Bán thuốc tại những nơi không phải là cơ sở bán thuốc hợp pháp.\n\n7. Lợi dụng độc quyền trong kinh doanh thuốc để thu lợi bất chính, bán phá giá thuốc, tăng giá thuốc trái quy định của pháp luật.\n\n8. Khuyến mại thuốc trái quy định của pháp luật.\n\n9. Bán thuốc thuộc các chương trình mục tiêu quốc gia, thuốc viện trợ mà quy định không được bán; thuốc viện trợ nhân đạo và thuốc nhập khẩu phi mậu dịch.\n\n10. Bán lẻ thuốc kê đơn không có đơn thuốc.\n\n11. Lợi dụng việc kê đơn thuốc để trục lợi.\n\n12. Huỷ hoại các nguồn dược liệu quý.\n\n13. Các hành vi khác bị nghiêm cấm trong hoạt động về dược theo quy định của pháp luật.\n\nChương II\n\nKINH DOANH THUỐC\n\nMỤC 1\n\n ĐIỀU KIỆN KINH DOANH THUỐC"
+   }
+  },
+  {
+   "id": "VN-H451-A10",
+   "no": 10,
+   "noLabel": {
+    "vi": "Điều 10"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Hình thức kinh doanh thuốc"
+   },
+   "text": {
+    "vi": "Điều 10. Hình thức kinh doanh thuốc\n\nKinh doanh thuốc bao gồm các hình thức sản xuất, xuất khẩu, nhập khẩu, bán buôn, bán lẻ, dịch vụ bảo quản và dịch vụ kiểm nghiệm thuốc."
+   }
+  },
+  {
+   "id": "VN-H451-A11",
+   "no": 11,
+   "noLabel": {
+    "vi": "Điều 11"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Điều kiện, thẩm quyền cấp Giấy chứng nhận đủ điều kiện kinh doanh thuốc"
+   },
+   "text": {
+    "vi": "Điều 11. Điều kiện, thẩm quyền cấp Giấy chứng nhận đủ điều kiện kinh doanh thuốc\n\n1. Kinh doanh thuốc là ngành nghề kinh doanh có điều kiện. Cơ quan, tổ chức, cá nhân kinh doanh thuốc (sau đây gọi chung là cơ sở kinh doanh thuốc) phải có Giấy chứng nhận đủ điều kiện kinh doanh thuốc.\n\n2. Cơ sở kinh doanh thuốc được cấp Giấy chứng nhận đủ điều kiện kinh doanh thuốc phải có đủ các điều kiện sau đây:\n\na) Cơ sở vật chất, kỹ thuật và nhân sự có trình độ chuyên môn cần thiết cho từng hình thức kinh doanh thuốc;\n\nb) Người quản lý chuyên môn về dược đã được cấp Chứng chỉ hành nghề dược phù hợp với hình thức kinh doanh.\n\n3. Thẩm quyền cấp Giấy chứng nhận đủ điều kiện kinh doanh thuốc được quy định như sau:\n\na) Bộ Y tế cấp Giấy chứng nhận đủ điều kiện kinh doanh thuốc cho cơ sở sản xuất thuốc, làm dịch vụ bảo quản thuốc, làm dịch vụ kiểm nghiệm thuốc;\n\nb) Sở Y tế tỉnh, thành phố trực thuộc trung ương cấp Giấy chứng nhận đủ điều kiện kinh doanh thuốc cho cơ sở kinh doanh thuốc trong các hình thức kinh doanh khác, trừ trường hợp quy định tại điểm a khoản này.\n\n4. Cơ quan nhà nước có thẩm quyền quy định tại khoản 3 Điều này có trách nhiệm cấp Giấy chứng nhận đủ điều kiện kinh doanh thuốc trong thời hạn ba mươi ngày, kể từ ngày nhận đủ hồ sơ hợp lệ; trường hợp không cấp thì phải có văn bản trả lời và nêu rõ lý do.\n\n5. Chính phủ quy định điều kiện cụ thể đối với từng hình thức kinh doanh thuốc; thời hạn, hồ sơ, thủ tục cấp, bổ sung, đổi, gia hạn, thu hồi Giấy chứng nhận đủ điều kiện kinh doanh thuốc."
+   }
+  },
+  {
+   "id": "VN-H451-A12",
+   "no": 12,
+   "noLabel": {
+    "vi": "Điều 12"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Giấy chứng nhận đủ điều kiện kinh doanh thuốc"
+   },
+   "text": {
+    "vi": "Điều 12. Giấy chứng nhận đủ điều kiện kinh doanh thuốc\n\n1. Giấy chứng nhận đủ điều kiện kinh doanh thuốc phải ghi rõ tên, địa điểm, người quản lý chuyên môn, hình thức kinh doanh, phạm vi kinh doanh của cơ sở kinh doanh và thời hạn có hiệu lực của Giấy chứng nhận đủ điều kiện kinh doanh.\n\n2. Cơ sở kinh doanh thuốc chỉ được hoạt động đúng địa điểm đã đăng ký và phạm vi kinh doanh đã ghi trong Giấy chứng nhận đủ điều kiện kinh doanh thuốc; trường hợp mở rộng phạm vi kinh doanh hoặc thay đổi địa điểm kinh doanh thì phải làm thủ tục bổ sung hoặc đổi Giấy chứng nhận đủ điều kiện kinh doanh."
+   }
+  },
+  {
+   "id": "VN-H451-A13",
+   "no": 13,
+   "noLabel": {
+    "vi": "Điều 13"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Chứng chỉ hành nghề dược"
+   },
+   "text": {
+    "vi": "Điều 13. Chứng chỉ hành nghề dược\n\n1. Người được cấp Chứng chỉ hành nghề dược phải có các điều kiện sau đây:\n\na) Có văn bằng, chứng chỉ chuyên môn phù hợp với yêu cầu của từng hình thức kinh doanh thuốc;\n\nb) Đã qua thực hành ít nhất từ hai năm đến năm năm tại cơ sở dược hợp pháp đối với từng hình thức kinh doanh;\n\nc) Có đạo đức nghề nghiệp;\n\nd) Có đủ sức khoẻ để hành nghề dược.\n\n2. Người sau đây không được cấp Chứng chỉ hành nghề dược:\n\na) Bị cấm hành nghề dược theo bản án, quyết định của Toà án;\n\nb) Đang bị truy cứu trách nhiệm hình sự;\n\nc) Đang trong thời gian chấp hành bản án, quyết định hình sự của Tòa án, hoặc quyết định áp dụng biện pháp xử lý hành chính đưa vào cơ sở giáo dục, cơ sở chữa bệnh hoặc quản chế hành chính;\n\nd) Đang trong thời gian bị kỷ luật từ hình thức cảnh cáo trở lên có liên quan đến chuyên môn y, dược;\n\nđ) Mất năng lực hành vi dân sự hoặc hạn chế năng lực hành vi dân sự.\n\n3. Thẩm quyền cấp Chứng chỉ hành nghề dược được quy định như sau:\n\na) Bộ trưởng Bộ Y tế cấp Chứng chỉ hành nghề dược cho cá nhân đăng ký hành nghề dược có vốn đầu tư nước ngoài;\n\nb) Giám đốc Sở Y tế cấp Chứng chỉ hành nghề dược cho cá nhân đăng ký hành nghề dược, trừ trường hợp quy định tại điểm a khoản này;\n\n4. Chính phủ quy định cụ thể về văn bằng, chứng chỉ chuyên môn, thời gian thực hành ở cơ sở dược đối với từng hình thức kinh doanh thuốc; hồ sơ, thủ tục cấp, đổi, gia hạn, thu hồi Chứng chỉ hành nghề dược."
+   }
+  },
+  {
+   "id": "VN-H451-A14",
+   "no": 14,
+   "noLabel": {
+    "vi": "Điều 14"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Lệ phí cấp Giấy chứng nhận đủ điều kiện kinh doanh thuốc, Chứng chỉ hành nghề dược"
+   },
+   "text": {
+    "vi": "Điều 14. Lệ phí cấp Giấy chứng nhận đủ điều kiện kinh doanh thuốc, Chứng chỉ hành nghề dược\n\nCơ sở kinh doanh thuốc đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh thuốc, cá nhân đề nghị cấp Chứng chỉ hành nghề dược phải nộp lệ phí theo quy định của pháp luật.\n\nMỤC 2\n\nSẢN XUẤT THUỐC"
+   }
+  },
+  {
+   "id": "VN-H451-A15",
+   "no": 15,
+   "noLabel": {
+    "vi": "Điều 15"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Quyền của cơ sở sản xuất thuốc"
+   },
+   "text": {
+    "vi": "Điều 15. Quyền của cơ sở sản xuất thuốc\n\n1. Hưởng ưu đãi về vốn, đất đai, thuế và các ưu đãi khác để sản xuất thuốc thuộc các lĩnh vực quy định tại Điều 3 của Luật này và các quy định khác của pháp luật có liên quan.\n\n2. Thông tin, quảng cáo thuốc theo quy định của pháp luật về quảng cáo để giới thiệu, đẩy mạnh tiêu thụ các sản phẩm do cơ sở sản xuất.\n\n3. Các quyền khác theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H451-A16",
+   "no": 16,
+   "noLabel": {
+    "vi": "Điều 16"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Nghĩa vụ của cơ sở sản xuất thuốc"
+   },
+   "text": {
+    "vi": "Điều 16. Nghĩa vụ của cơ sở sản xuất thuốc\n\n1. Tuân thủ quy định về thực hành tốt trong sản xuất, phân phối, bảo quản, kiểm nghiệm thuốc và các quy định về chuyên môn có liên quan.\n\n2. Sản xuất thuốc theo đúng quy trình sản xuất và tiêu chuẩn chất lượng đã đăng ký; báo cáo với cơ quan nhà nước có thẩm quyền khi có thay đổi trong quy trình sản xuất.\n\n3. Chịu trách nhiệm về chất lượng thuốc do cơ sở sản xuất và chỉ được phép xuất xưởng thuốc đạt tiêu chuẩn chất lượng đã đăng ký.\n\n4. Có phương tiện kỹ thuật và cán bộ chuyên môn đáp ứng yêu cầu kiểm tra chất lượng thuốc và quản lý thuốc do cơ sở sản xuất.\n\n5. Lưu giữ mẫu thuốc theo từng lô sản xuất trong thời hạn ít nhất là một năm kể từ khi thuốc hết hạn dùng; các tài liệu về sản xuất và các tài liệu khác cần thiết cho việc kiểm tra và đánh giá toàn bộ hoạt động sản xuất thuốc theo quy định của pháp luật.\n\n6. Theo dõi chất lượng thuốc do cơ sở sản xuất lưu hành trên thị trường và thu hồi thuốc theo các quy định của Luật này.\n\n7. Đăng ký thuốc; kê khai giá thuốc trước khi lưu hành thuốc trên thị trường.\n\n8. Bồi thường thiệt hại cho người sử dụng thuốc trong trường hợp có thiệt hại do lỗi của cơ sở sản xuất.\n\n9. Các nghĩa vụ khác theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H451-A17",
+   "no": 17,
+   "noLabel": {
+    "vi": "Điều 17"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Thuốc pha chế tại nhà thuốc, cơ sở khám bệnh, chữa bệnh"
+   },
+   "text": {
+    "vi": "Điều 17. Thuốc pha chế tại nhà thuốc, cơ sở khám bệnh, chữa bệnh\n\n1. Thuốc pha chế theo đơn tại nhà thuốc, thuốc pha chế tại cơ sở khám bệnh, chữa bệnh không phải đăng ký thuốc, chỉ được cấp phát hoặc bán lẻ tại cơ sở đó. Hồ sơ pha chế thuốc phải được lưu giữ trong thời gian một năm kể từ ngày thuốc được pha chế.\n\n2. Chủ nhà thuốc, người quản lý chuyên môn về dược của cơ sở khám bệnh, chữa bệnh phải chịu trách nhiệm về chất lượng thuốc pha chế tại cơ sở; bồi thường thiệt hại cho người sử dụng thuốc trong trường hợp có thiệt hại do lỗi pha chế thuốc.\n\nMục 3\n\nXUẤT KHẨU, NHẬP KHẨU THUỐC"
+   }
+  },
+  {
+   "id": "VN-H451-A18",
+   "no": 18,
+   "noLabel": {
+    "vi": "Điều 18"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Quyền và nghĩa vụ của doanh nghiệp xuất khẩu, nhập khẩu thuốc"
+   },
+   "text": {
+    "vi": "Điều 18. Quyền và nghĩa vụ của doanh nghiệp xuất khẩu, nhập khẩu thuốc\n\n1. Được xuất khẩu, nhập khẩu, uỷ thác và nhận uỷ thác xuất khẩu, nhập khẩu các loại thuốc do Bộ y tế quy định.\n\n2. Tuân thủ quy định về thực hành tốt trong bảo quản, phân phối thuốc, kê khai giá thuốc.\n\n3. Chỉ được xuất khẩu, nhập khẩu những thuốc đạt tiêu chuẩn chất lượng, theo dõi và chịu trách nhiệm về chất lượng thuốc lưu hành trên thị trường do doanh nghiệp xuất khẩu, nhập khẩu.\n\n4. Bồi thường thiệt hại cho người sử dụng thuốc trong trường hợp có thiệt hại do lỗi của doanh nghiệp xuất khẩu, nhập khẩu.\n\n5. Các quyền và nghĩa vụ khác theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H451-A19",
+   "no": 19,
+   "noLabel": {
+    "vi": "Điều 19"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Uỷ thác xuất khẩu, nhập khẩu thuốc"
+   },
+   "text": {
+    "vi": "Điều 19. Uỷ thác xuất khẩu, nhập khẩu thuốc\n\n1. Cơ sở kinh doanh thuốc có quyền uỷ thác xuất khẩu, nhập khẩu thuốc.\n\n2. Việc uỷ thác xuất khẩu, nhập khẩu thuốc được thực hiện theo quy định của Luật thương mại và các quy định khác của pháp luật có liên quan."
+   }
+  },
+  {
+   "id": "VN-H451-A20",
+   "no": 20,
+   "noLabel": {
+    "vi": "Điều 20"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Phạm vi nhập khẩu thuốc"
+   },
+   "text": {
+    "vi": "Điều 20. Phạm vi nhập khẩu thuốc\n\n1. Thuốc có số đăng ký tại Việt Nam được nhập khẩu không hạn chế về số lượng, trừ vắc xin, sinh phẩm y tế và thuốc thuộc danh mục phải kiểm soát đặc biệt theo quy định tại Điều 63 của Luật này.\n\n2. Thuốc chưa có số đăng ký được nhập khẩu với số lượng nhất định trong những trường hợp sau:\n\na) Có chứa dược chất chưa có số đăng ký hoặc đã có số đăng ký nhưng chưa đáp ứng đủ cho nhu cầu điều trị;\n\nb) Đáp ứng nhu cầu cấp bách cho phòng, chống dịch bệnh, khắc phục hậu quả thiên tai, thảm họa và nhu cầu điều trị đặc biệt;\n\nc) Phục vụ cho các chương trình mục tiêu y tế quốc gia;\n\nd) Viện trợ, viện trợ nhân đạo;\n\nđ) Thử lâm sàng, làm mẫu đăng ký, tham gia trưng bày triển lãm, hội chợ;\n\ne) Mang theo để chữa bệnh cho bản thân;\n\ng) Các hình thức nhập khẩu phi mậu dịch khác.\n\n3. Thủ tướng Chính phủ quy định cụ thể việc nhập khẩu đối với các loại thuốc quy định tại khoản 2 Điều này.\n\nMỤC 4\n\nBÁN BUÔN THUỐC"
+   }
+  },
+  {
+   "id": "VN-H451-A21",
+   "no": 21,
+   "noLabel": {
+    "vi": "Điều 21"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Cơ sở bán buôn thuốc"
+   },
+   "text": {
+    "vi": "Điều 21. Cơ sở bán buôn thuốc\n\nCơ sở bán buôn thuốc gồm có:\n\n1. Doanh nghiệp kinh doanh thuốc;\n\n2. Hợp tác xã, hộ kinh doanh cá thể sản xuất, buôn bán dược liệu, thuốc đông y, thuốc từ dược liệu;\n\n3. Đại lý bán vắc xin, sinh phẩm y tế."
+   }
+  },
+  {
+   "id": "VN-H451-A22",
+   "no": 22,
+   "noLabel": {
+    "vi": "Điều 22"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Quyền của cơ sở bán buôn thuốc"
+   },
+   "text": {
+    "vi": "Điều 22. Quyền của cơ sở bán buôn thuốc\n\n1. Mua nguyên liệu làm thuốc, thuốc thành phẩm, vắc xin, sinh phẩm y tế từ các cơ sở sản xuất hoặc cơ sở bán buôn thuốc.\n\n2. Bán nguyên liệu làm thuốc, thuốc thành phẩm, vắc xin, sinh phẩm y tế cho các cơ sở có chức năng kinh doanh thuốc và các cơ sở khám bệnh, chữa bệnh."
+   }
+  },
+  {
+   "id": "VN-H451-A23",
+   "no": 23,
+   "noLabel": {
+    "vi": "Điều 23"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Nghĩa vụ của cơ sở bán buôn thuốc"
+   },
+   "text": {
+    "vi": "Điều 23. Nghĩa vụ của cơ sở bán buôn thuốc\n\n1. Bảo quản thuốc theo đúng các điều kiện ghi trên nhãn thuốc.\n\n2. Giữ nguyên vẹn bao bì của thuốc, không được thay đổi bao bì và nhãn của thuốc. Trường hợp thay đổi nhãn, bao bì của thuốc đã được đăng ký thì phải được cơ sở sản xuất thuốc uỷ quyền và được Bộ Y tế đồng ý bằng văn bản.\n\n3. Bảo đảm việc giao, nhận, bảo quản thuốc phải do người có trình độ chuyên môn về dược đảm nhận.\n\n4. Lưu giữ chứng từ, tài liệu có liên quan đến từng lô thuốc trong thời hạn ít nhất là một năm, kể từ khi thuốc hết hạn dùng.\n\n5. Niêm yết giá bán buôn thuốc và tuân thủ các quy định khác về quản lý giá thuốc.\n\n6. Bồi thường thiệt hại cho người sử dụng thuốc trong trường hợp có thiệt hại do lỗi của cơ sở bán buôn thuốc.\n\n7. Tuân thủ các quy định về thực hành tốt trong bảo quản, phân phối thuốc, thu hồi thuốc và các quy định khác của pháp luật có liên quan.\n\nMỤC 5\n\nBÁN LẺ THUỐC"
+   }
+  },
+  {
+   "id": "VN-H451-A24",
+   "no": 24,
+   "noLabel": {
+    "vi": "Điều 24"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Cơ sở bán lẻ thuốc"
+   },
+   "text": {
+    "vi": "Điều 24. Cơ sở bán lẻ thuốc\n\n1. Cơ sở bán lẻ thuốc gồm có:\n\na) Nhà thuốc;\n\nb) Quầy thuốc;\n\nc) Đại lý bán thuốc của doanh nghiệp;\n\nd) Tủ thuốc của trạm y tế.\n\n2. Cơ sở khám bệnh, chữa bệnh và cơ sở bán buôn thuốc muốn bán lẻ thuốc phải thành lập cơ sở bán lẻ thuốc.\n\n3. Bộ trưởng Bộ Y tế quy định về địa bàn được mở cơ sở bán lẻ thuốc theo các hình thức quầy thuốc, đại lý bán thuốc của doanh nghiệp và tủ thuốc của trạm y tế phù hợp với điều kiện kinh tế - xã hội, thực trạng đội ngũ cán bộ y tế và nhu cầu khám, chữa bệnh của nhân dân trong từng giai đoạn."
+   }
+  },
+  {
+   "id": "VN-H451-A25",
+   "no": 25,
+   "noLabel": {
+    "vi": "Điều 25"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Điều kiện chuyên môn của chủ cơ sở bán lẻ thuốc, người bán lẻ thuốc"
+   },
+   "text": {
+    "vi": "Điều 25. Điều kiện chuyên môn của chủ cơ sở bán lẻ thuốc, người bán lẻ thuốc\n\n1. Điều kiện chuyên môn của chủ cơ sở bán lẻ thuốc được quy định như sau:\n\na) Nhà thuốc phải do dược sĩ có trình độ đại học đứng tên chủ cơ sở;\n\nb) Quầy thuốc phải do dược sĩ có trình độ từ trung học trở lên đứng tên chủ cơ sở;\n\nc) Đại lý bán thuốc của doanh nghiệp phải do người có trình độ chuyên môn từ dược tá trở lên đứng tên chủ cơ sở;\n\nd) Tủ thuốc của trạm y tế phải do người có trình độ chuyên môn từ dược tá trở lên đứng tên chủ cơ sở; trường hợp chưa có người có chuyên môn từ dược tá trở lên thì phải có người có trình độ chuyên môn từ y sỹ trở lên đứng tên;\n\nđ) Cơ sở bán lẻ thuốc chuyên bán thuốc đông y, thuốc từ dược liệu phải do dược sĩ có trình độ trung học trở lên hoặc người có văn bằng, chứng chỉ về y học cổ truyền hoặc dược học cổ truyền đứng tên chủ cơ sở.\n\n2. Người bán lẻ thuốc tại cơ sở bán lẻ thuốc quy định tại các điểm a, b, c và đ khoản 1 Điều này phải có trình độ chuyên môn từ dược tá trở lên; tại điểm d khoản 1 Điều này phải có chuyên môn về y, dược."
+   }
+  },
+  {
+   "id": "VN-H451-A26",
+   "no": 26,
+   "noLabel": {
+    "vi": "Điều 26"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Phạm vi hoạt động của cơ sở bán lẻ thuốc"
+   },
+   "text": {
+    "vi": "Điều 26. Phạm vi hoạt động của cơ sở bán lẻ thuốc\n\n1. Phạm vi hoạt động của cơ sở bán lẻ thuốc được quy định như sau:\n\na) Nhà thuốc được bán lẻ thuốc thành phẩm; pha chế thuốc theo đơn;\n\nb) Quầy thuốc được bán lẻ thuốc thành phẩm;\n\nc) Đại lý bán thuốc của doanh nghiệp được bán lẻ thuốc theo danh mục thuốc thiết yếu;\n\nd) Tủ thuốc của trạm y tế được bán thuốc theo danh mục thuốc thiết yếu sử dụng cho tuyến y tế cấp xã;\n\nđ) Các cơ sở bán lẻ thuốc đông y, thuốc từ dược liệu được bán thuốc đông y, thuốc từ dược liệu.\n\n2. Cơ sở bán lẻ thuốc quy định tại các điểm b, c, d và đ khoản 1 Điều này không được bán thuốc gây nghiện, thuốc phóng xạ.\n\nCơ sở bán lẻ thuốc không được bán nguyên liệu hóa dược làm thuốc.\n\n3. Bộ trưởng Bộ Y tế quy định về điều kiện của nhà thuốc được pha chế thuốc theo đơn."
+   }
+  },
+  {
+   "id": "VN-H451-A27",
+   "no": 27,
+   "noLabel": {
+    "vi": "Điều 27"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Quyền của người bán lẻ thuốc và của chủ cơ sở bán lẻ thuốc"
+   },
+   "text": {
+    "vi": "Điều 27. Quyền của người bán lẻ thuốc và của chủ cơ sở bán lẻ thuốc\n\n1. Người bán lẻ thuốc có các quyền sau đây:\n\na) Được bán lẻ thuốc cho người sử dụng;\n\nb) Từ chối bán thuốc khi đơn thuốc kê không đúng quy định hoặc người mua thuốc không có khả năng tiếp nhận những chỉ dẫn cần thiết;\n\nc) Người bán lẻ thuốc là dược sỹ có trình độ đại học có quyền thay thế thuốc bằng một thuốc khác có cùng hoạt chất, dạng bào chế, cùng liều lượng khi có sự đồng ý của người mua;\n\nd) Thực hiện các quyền của chủ cơ sở bán lẻ thuốc trong phạm vi được ủy quyền.\n\n2. Chủ cơ sở bán lẻ thuốc có các quyền sau đây:\n\na) Có các quyền quy định tại điểm a và điểm b khoản 1 Điều này;\n\nb) Mua thuốc từ cơ sở bán buôn thuốc để bán lẻ, mua nguyên liệu để pha chế thuốc theo đơn;\n\nc) Uỷ quyền cho nhân viên có trình độ chuyên môn tương đương trở lên điều hành công việc khi vắng mặt."
+   }
+  },
+  {
+   "id": "VN-H451-A28",
+   "no": 28,
+   "noLabel": {
+    "vi": "Điều 28"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Nghĩa vụ của người bán lẻ thuốc và của chủ cơ sở bán lẻ thuốc"
+   },
+   "text": {
+    "vi": "Điều 28. Nghĩa vụ của người bán lẻ thuốc và của chủ cơ sở bán lẻ thuốc\n\n1. Người bán lẻ thuốc có các nghĩa vụ sau đây:\n\na) Kiểm tra đơn thuốc trước khi bán;\n\nb) Ghi rõ tên thuốc, hàm lượng trên bao bì đựng thuốc khi thuốc bán lẻ không đựng trong bao bì ngoài của thuốc;\n\nc) Bán đúng thuốc ghi trong đơn thuốc, trừ trường hợp quy định tại điểm c khoản 1 Điều 27 của Luật này;\n\nd) Trường hợp thay thế thuốc theo quy định tại điểm c khoản 1 Điều 27 của Luật này thì phải ghi rõ tên thuốc, hàm lượng, nồng độ, số lượng thuốc, cách thức sử dụng thuốc đã thay thế vào đơn và chịu trách nhiệm về việc thay thế thuốc đó;\n\nđ) Chịu trách nhiệm trước chủ cơ sở bán lẻ thuốc về hành vi của mình trong phạm vi được ủy quyền.\n\n2. Chủ cơ sở bán lẻ thuốc có các nghĩa vụ sau đây:\n\na) Trực tiếp quản lý, điều hành mọi hoạt động của cơ sở;\n\nb) Niêm yết thời gian bán thuốc; niêm yết giá bán lẻ trên sản phẩm, trừ trường hợp giá bán lẻ được in trên sản phẩm; không được bán cao hơn giá niêm yết;\n\nc) Chịu trách nhiệm trước pháp luật về mọi hoạt động của cơ sở, kể cả trong trường hợp uỷ quyền.\n\n3. Người bán lẻ, chủ cơ sở bán lẻ thuốc phải bồi thường thiệt hại cho người sử dụng thuốc trong trường hợp có thiệt hại do lỗi của mình gây ra.\n\nMỤC 6\n\nDỊCH VỤ BẢO QUẢN THUỐC"
+   }
+  },
+  {
+   "id": "VN-H451-A29",
+   "no": 29,
+   "noLabel": {
+    "vi": "Điều 29"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Điều kiện đối với doanh nghiệp làm dịch vụ bảo quản thuốc"
+   },
+   "text": {
+    "vi": "Điều 29. Điều kiện đối với doanh nghiệp làm dịch vụ bảo quản thuốc\n\nDoanh nghiệp làm dịch vụ bảo quản thuốc phải đạt tiêu chuẩn về thực hành tốt trong bảo quản thuốc."
+   }
+  },
+  {
+   "id": "VN-H451-A30",
+   "no": 30,
+   "noLabel": {
+    "vi": "Điều 30"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Quyền của doanh nghiệp làm dịch vụ bảo quản thuốc"
+   },
+   "text": {
+    "vi": "Điều 30. Quyền của doanh nghiệp làm dịch vụ bảo quản thuốc\n\n1. Nhận bảo quản thuốc cho các tổ chức, cá nhân theo hợp đồng bảo quản.\n\n2. Vận chuyển và giao thuốc cho tổ chức, cá nhân khi bên thuê dịch vụ bảo quản ủy quyền.\n\n3. Được hưởng tiền thù lao làm dịch vụ bảo quản thuốc."
+   }
+  },
+  {
+   "id": "VN-H451-A31",
+   "no": 31,
+   "noLabel": {
+    "vi": "Điều 31"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Nghĩa vụ của doanh nghiệp làm dịch vụ bảo quản thuốc"
+   },
+   "text": {
+    "vi": "Điều 31. Nghĩa vụ của doanh nghiệp làm dịch vụ bảo quản thuốc\n\n1. Bảo quản thuốc theo đúng yêu cầu bảo quản được ghi trên nhãn thuốc và hợp đồng giữa hai bên.\n\n2. Bồi thường thiệt hại gây ra do vi phạm quy định trong quá trình bảo quản và vận chuyển thuốc.\n\nMỤC 7\n\nDỊCH VỤ KIỂM NGHIỆM THUỐC"
+   }
+  },
+  {
+   "id": "VN-H451-A32",
+   "no": 32,
+   "noLabel": {
+    "vi": "Điều 32"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Điều kiện đối với doanh nghiệp làm dịch vụ kiểm nghiệm thuốc"
+   },
+   "text": {
+    "vi": "Điều 32. Điều kiện đối với doanh nghiệp làm dịch vụ kiểm nghiệm thuốc\n\nDoanh nghiệp làm dịch vụ kiểm nghiệm thuốc phải đạt tiêu chuẩn về thực hành tốt trong kiểm nghiệm thuốc. Trường hợp phòng kiểm nghiệm của các doanh nghiệp kinh doanh thuốc muốn làm dịch vụ kiểm nghiệm thuốc thì doanh nghiệp phải làm thủ tục bổ sung chức năng làm dịch vụ kiểm nghiệm thuốc trong Giấy chứng nhận đủ điều kiện kinh doanh thuốc theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H451-A33",
+   "no": 33,
+   "noLabel": {
+    "vi": "Điều 33"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Quyền của doanh nghiệp làm dịch vụ kiểm nghiệm thuốc"
+   },
+   "text": {
+    "vi": "Điều 33. Quyền của doanh nghiệp làm dịch vụ kiểm nghiệm thuốc\n\n1. Kiểm nghiệm nguyên liệu làm thuốc, thuốc bán thành phẩm, thuốc thành phẩm.\n\n2. Trả lời kết quả kiểm nghiệm đối với mẫu thuốc đã kiểm nghiệm.\n\n3. Được hưởng tiền thù lao làm dịch vụ kiểm nghiệm thuốc."
+   }
+  },
+  {
+   "id": "VN-H451-A34",
+   "no": 34,
+   "noLabel": {
+    "vi": "Điều 34"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Nghĩa vụ của doanh nghiệp làm dịch vụ kiểm nghiệm thuốc"
+   },
+   "text": {
+    "vi": "Điều 34. Nghĩa vụ của doanh nghiệp làm dịch vụ kiểm nghiệm thuốc\n\n1. Chịu trách nhiệm về kết quả kiểm nghiệm đối với mẫu thuốc đã kiểm nghiệm.\n\n2. Bồi thường theo quy định của pháp luật cho tổ chức, cá nhân bị thiệt hại do kết quả kiểm nghiệm sai.\n\nChương III\n\nĐĂNG KÝ, LƯU HÀNH THUỐC"
+   }
+  },
+  {
+   "id": "VN-H451-A35",
+   "no": 35,
+   "noLabel": {
+    "vi": "Điều 35"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Đăng ký thuốc"
+   },
+   "text": {
+    "vi": "Điều 35. Đăng ký thuốc\n\n1. Căn cứ để đăng ký thuốc bao gồm:\n\na) Kết quả thử lâm sàng về hiệu lực và độ an toàn của thuốc, trừ thuốc được miễn thử lâm sàng quy định tại Điều 55 của Luật này;\n\nb) Tài liệu kỹ thuật về thuốc;\n\nc) Chính sách quốc gia về thuốc của Việt Nam.\n\n2. Cơ sở đăng ký thuốc phải nộp lệ phí khi nộp hồ sơ theo quy định của pháp luật.\n\n3. Trong thời hạn sáu tháng kể từ ngày nhận đủ hồ sơ hợp lệ, Bộ trưởng Bộ Y tế cấp số đăng ký thuốc; trường hợp không cấp phải có văn bản trả lời và nêu rõ lý do.\n\n4. Bộ trưởng Bộ Y tế quy định chi tiết thủ tục, hồ sơ đăng ký thuốc, thời hạn hiệu lực của số đăng ký thuốc và việc thu hồi số đăng ký thuốc."
+   }
+  },
+  {
+   "id": "VN-H451-A36",
+   "no": 36,
+   "noLabel": {
+    "vi": "Điều 36"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Lưu hành thuốc"
+   },
+   "text": {
+    "vi": "Điều 36. Lưu hành thuốc\n\n1. Thuốc lưu hành trên thị trường phải bảo đảm đủ các điều kiện sau đây:\n\na) Đạt tiêu chuẩn chất lượng đã đăng ký;\n\nb) Đáp ứng đầy đủ các yêu cầu về ghi nhãn hàng hoá của thuốc theo quy định tại Điều 37 của Luật này và các quy định khác của pháp luật;\n\nc) Vật liệu bao bì và dạng đóng gói phải đáp ứng yêu cầu bảo đảm chất lượng thuốc;\n\nd) Có số đăng ký hoặc chưa có số đăng ký nhưng được nhập khẩu theo quy định tại điểm a và điểm b khoản 2 Điều 20 của Luật này;\n\nđ) Phải được kê khai giá thuốc theo quy định của Luật này; nếu là thuốc nhập khẩu thì giá thuốc nhập khẩu không được cao hơn giá thuốc nhập khẩu vào các nước trong khu vực có điều kiện y tế, thương mại tương tự như Việt Nam tại cùng thời điểm.\n\n2. Thuốc sản xuất trong nước cho chương trình y tế quốc gia, thuốc nhập khẩu theo quy định tại điểm các điểm c, d, đ và e khoản 2 Điều 20 của Luật này phải được sử dụng đúng mục đích, đối tượng; nhãn thuốc phải đáp ứng quy định tại Điều 37 của Luật này; trên bao bì lẻ của thuốc phải in dòng chữ “Không được bán”, trừ trường hợp quy định tại điểm e khoản 2 Điều 20 của Luật này."
+   }
+  },
+  {
+   "id": "VN-H451-A37",
+   "no": 37,
+   "noLabel": {
+    "vi": "Điều 37"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Nhãn thuốc lưu hành trên thị trường"
+   },
+   "text": {
+    "vi": "Điều 37. Nhãn thuốc lưu hành trên thị trường\n\n1. Nhãn thuốc lưu hành trên thị trường phải có đầy đủ các nội dung sau đây:\n\na) Tên thuốc;\n\nb) Dạng bào chế;\n\nc) Thành phần cấu tạo của thuốc;\n\nd) Quy cách đóng gói;\n\nđ) Tên, địa chỉ của cơ sở sản xuất;\n\ne) Số đăng ký, số lô sản xuất, ngày sản xuất, hạn dùng;\n\ng) Điều kiện bảo quản thuốc và các thông tin cần thiết khác.\n\nTrong trường hợp biệt dược là đơn chất thì phải ghi tên gốc hoặc tên chung quốc tế dưới tên biệt dược.\n\n2. Thuốc phải có hướng dẫn sử dụng bằng tiếng Việt."
+   }
+  },
+  {
+   "id": "VN-H451-A38",
+   "no": 38,
+   "noLabel": {
+    "vi": "Điều 38"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Thu hồi thuốc"
+   },
+   "text": {
+    "vi": "Điều 38. Thu hồi thuốc\n\n1. Thuốc lưu hành trên thị trường bị thu hồi trong các trường hợp sau đây:\n\na) Không đúng chủng loại do có sự nhầm lẫn trong quá trình cấp phát, giao nhận;\n\nb) Không đáp ứng đầy đủ các điều kiện quy định tại các điểm a, b, c và d khoản 1 Điều 36 của Luật này;\n\nc) Có thông báo thu hồi thuốc của cơ sở sản xuất, cơ quan quản lý nhà nước về dược của Việt Nam hoặc nước ngoài.\n\n2. Trường hợp thu hồi thuốc quy định tại điểm b và điểm c khoản 1 Điều này thì trước khi thu hồi phải có quyết định đình chỉ lưu hành của cơ quan quản lý nhà nước về dược của Việt Nam.\n\n3. Khi nhận được thông báo thu hồi thuốc của cơ sở sản xuất hoặc quyết định đình chỉ lưu hành của cơ quan quản lý nhà nước về dược của Việt Nam thì tổ chức, cá nhân kinh doanh thuốc, cơ sở khám bệnh, chữa bệnh, người kê đơn và người sử dụng thuốc đó phải lập tức đình chỉ việc kinh doanh, thông tin, quảng cáo, kê đơn, cấp phát và sử dụng thuốc bị thông báo thu hồi.\n\n4. Cơ sở nhập khẩu, sản xuất, đăng ký, cung ứng thuốc có trách nhiệm tổ chức thu hồi thuốc bị đình chỉ lưu hành và bồi thường thiệt hại về những hậu quả gây ra theo quy định của pháp luật.\n\nCơ quan quản lý nhà nước về dược có trách nhiệm kiểm tra việc tổ chức thu hồi thuốc.\n\n5. Bộ trưởng Bộ Y tế quy định cụ thể trình tự, thủ tục thu hồi thuốc, phân loại mức độ thu hồi, phạm vi đình chỉ lưu hành thuốc và xử lý thuốc thu hồi.\n\nChương IV\n\nTHUỐC ĐÔNG Y VÀ THUỐC TỪ DƯỢC LIỆU"
+   }
+  },
+  {
+   "id": "VN-H451-A39",
+   "no": 39,
+   "noLabel": {
+    "vi": "Điều 39"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Trồng cây thuốc và chăn nuôi động vật làm thuốc"
+   },
+   "text": {
+    "vi": "Điều 39. Trồng cây thuốc và chăn nuôi động vật làm thuốc\n\nViệc trồng cây thuốc, chăn nuôi động vật làm thuốc và quá trình thu hoạch, khai thác sản phẩm của chúng để làm thuốc phải tuân thủ tiêu chuẩn về thực hành tốt trong nuôi trồng, thu hoạch dược liệu."
+   }
+  },
+  {
+   "id": "VN-H451-A40",
+   "no": 40,
+   "noLabel": {
+    "vi": "Điều 40"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Chất lượng của dược liệu"
+   },
+   "text": {
+    "vi": "Điều 40. Chất lượng của dược liệu\n\nDược liệu đưa vào sản xuất, chế biến hoặc cân thuốc theo thang phải bảo đảm chất lượng theo đúng quy định. Tổ chức, cá nhân cung ứng phải chịu trách nhiệm về nguồn gốc và chất lượng của dược liệu do mình cung ứng."
+   }
+  },
+  {
+   "id": "VN-H451-A41",
+   "no": 41,
+   "noLabel": {
+    "vi": "Điều 41"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Bảo quản dược liệu"
+   },
+   "text": {
+    "vi": "Điều 41. Bảo quản dược liệu\n\n1. Dược liệu phải được chế biến và bảo quản đúng quy định sau khi khai thác, thu hoạch. Mức tồn dư hóa chất bảo vệ thực vật, hóa chất bảo quản không được vượt quá mức cho phép.\n\nBộ trưởng Bộ Y tế quy định các điều kiện về chế biến, bảo quản dược liệu, mức tồn dư hoá chất bảo vệ thực vật, hóa chất bảo quản cho phép trong dược liệu.\n\n2. Khi vận chuyển, dược liệu phải được đóng gói. Trên bao bì dược liệu phải có nhãn ghi tên dược liệu, nơi sản xuất, chất lượng, ngày đóng gói."
+   }
+  },
+  {
+   "id": "VN-H451-A42",
+   "no": 42,
+   "noLabel": {
+    "vi": "Điều 42"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Bán thuốc đông y và thuốc từ dược liệu tại cơ sở khám bệnh, chữa bệnh"
+   },
+   "text": {
+    "vi": "Điều 42. Bán thuốc đông y và thuốc từ dược liệu tại cơ sở khám bệnh, chữa bệnh\n\nBác sĩ đông y, y sĩ đông y, lương y đang làm việc tại cơ sở khám bệnh, chữa bệnh được bán lẻ thuốc đông y và thuốc từ dược liệu tại cơ sở khám bệnh, chữa bệnh."
+   }
+  },
+  {
+   "id": "VN-H451-A43",
+   "no": 43,
+   "noLabel": {
+    "vi": "Điều 43"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Đăng ký thuốc, lưu hành thuốc đông y và thuốc từ dược liệu"
+   },
+   "text": {
+    "vi": "Điều 43. Đăng ký thuốc, lưu hành thuốc đông y và thuốc từ dược liệu\n\n1. Việc đăng ký thuốc đông y và thuốc từ dược liệu được thực hiện theo quy định tại Điều 35 của Luật này và các quy định sau đây:\n\na) Thuốc đông y và thuốc từ dược liệu sản xuất trong nước hoặc nhập khẩu để lưu hành trên thị trường đều phải đăng ký;\n\nb) Thuốc thang cân theo đơn tại các cơ sở khám bệnh, chữa bệnh đông y, dược liệu thô, thuốc phiến không phải đăng ký. Chủ cơ sở bán lẻ, chủ cơ sở khám bệnh, chữa bệnh phải chịu trách nhiệm về chất lượng các loại thuốc đó.\n\n2. Việc lưu hành, thu hồi thuốc đông y và thuốc từ dược liệu được thực hiện theo quy định tại Điều 36 và Điều 38 của Luật này.\n\n3. Thuốc có sự kết hợp giữa dược liệu với hoạt chất tinh khiết được chiết xuất từ nguồn gốc tự nhiên hoặc với hoạt chất hóa học tổng hợp thực hiện theo quy định của Luật này và không được đăng ký là thuốc đông y và thuốc từ dược liệu."
+   }
+  },
+  {
+   "id": "VN-H451-A44",
+   "no": 44,
+   "noLabel": {
+    "vi": "Điều 44"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Sản xuất thuốc đông y và thuốc từ dược liệu"
+   },
+   "text": {
+    "vi": "Điều 44. Sản xuất thuốc đông y và thuốc từ dược liệu\n\n1. Cơ sở sản xuất thuốc đông y và thuốc từ dược liệu từ công đoạn bào chế thành phẩm đến công đoạn đóng gói phải tuân thủ các quy định về thực hành tốt sản xuất thuốc đông y, thuốc từ dược liệu và thực hiện theo quy định tại Mục II Chương II của Luật này.\n\n2. Thuốc đông y và thuốc từ dược liệu có chứa dược liệu có chất độc, chất gây nghiện, chất hướng tâm thần, tiền chất phải ghi rõ nồng độ, hàm lượng, tiêu chuẩn, phương pháp kiểm nghiệm những dược liệu đó trong hồ sơ kỹ thuật.\n\n3. Bộ trưởng Bộ Y tế ban hành danh mục và quy chế quản lý các dược liệu có chứa chất độc, chất gây nghiện, chất hướng tâm thần, tiền chất."
+   }
+  },
+  {
+   "id": "VN-H451-A45",
+   "no": 45,
+   "noLabel": {
+    "vi": "Điều 45"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Xuất khẩu, nhập khẩu, bán buôn, bán lẻ thuốc đông y và thuốc từ dược liệu"
+   },
+   "text": {
+    "vi": "Điều 45. Xuất khẩu, nhập khẩu, bán buôn, bán lẻ thuốc đông y và thuốc từ dược liệu\n\nViệc xuất khẩu, nhập khẩu, bán buôn, bán lẻ thuốc đông y và thuốc từ dược liệu được thực hiện theo quy định tại Mục III, Mục IV và Mục V Chương II của Luật này.\n\nChương V\n\nĐƠN THUỐC VÀ SỬ DỤNG THUỐC"
+   }
+  },
+  {
+   "id": "VN-H451-A46",
+   "no": 46,
+   "noLabel": {
+    "vi": "Điều 46"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Đơn thuốc"
+   },
+   "text": {
+    "vi": "Điều 46. Đơn thuốc\n\n1. Đơn thuốc là căn cứ hợp pháp để bán thuốc, cấp phát thuốc, pha chế thuốc, cân thuốc theo đơn và sử dụng thuốc. Tên thuốc ghi trong đơn phải ghi tên gốc hoặc tên chung quốc tế, trừ trường hợp thuốc có nhiều hoạt chất.\n\n2. Bộ trưởng Bộ Y tế quy định cụ thể về đơn thuốc, nhóm thuốc kê đơn và việc bán thuốc theo đơn."
+   }
+  },
+  {
+   "id": "VN-H451-A47",
+   "no": 47,
+   "noLabel": {
+    "vi": "Điều 47"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Sử dụng thuốc"
+   },
+   "text": {
+    "vi": "Điều 47. Sử dụng thuốc\n\n1. Người sử dụng thuốc có quyền lựa chọn cơ sở bán lẻ thuốc để mua thuốc.\n\n2. Khi sử dụng thuốc theo đơn thuốc, người sử dụng thuốc phải thực hiện theo đúng hướng dẫn đã ghi trong đơn thuốc. Khi sử dụng thuốc không kê đơn, người sử dụng phải thực hiện theo đúng tờ hướng dẫn sử dụng thuốc, hướng dẫn của người bán lẻ thuốc.\n\n3. Khi sử dụng thuốc, nếu cơ thể có những dấu hiệu không bình thường, người sử dụng thuốc cần thông báo ngay cho cơ sở y tế gần nhất, người kê đơn thuốc hoặc người bán lẻ thuốc biết để có biện pháp xử lý kịp thời.\n\n4. Người kê đơn thuốc, chủ cơ sở bán lẻ thuốc có trách nhiệm thông báo với cơ quan y tế có thẩm quyền về những dấu hiệu không bình thường của người sử dụng thuốc. Người kê đơn thuốc phải chịu trách nhiệm về đơn thuốc đã kê.\n\nChương VI\n\nCUNG ỨNG THUỐC TRONG CƠ SỞ KHÁM BỆNH, CHỮA BỆNH"
+   }
+  },
+  {
+   "id": "VN-H451-A48",
+   "no": 48,
+   "noLabel": {
+    "vi": "Điều 48"
+   },
+   "chapter": {
+    "vi": "Chương VI"
+   },
+   "heading": {
+    "vi": "Điều kiện cung ứng thuốc"
+   },
+   "text": {
+    "vi": "Điều 48. Điều kiện cung ứng thuốc\n\n1. Việc cung ứng thuốc trong cơ sở khám bệnh, chữa bệnh phải tuân thủ các quy định về thực hành tốt trong phân phối, bảo quản thuốc và các quy định khác của pháp luật có liên quan.\n\n2. Người cấp phát thuốc trong cơ sở khám bệnh, chữa bệnh phải thực hiện cấp phát thuốc theo đúng y lệnh hoặc đơn thuốc, ghi rõ tên thuốc, hàm lượng trên bao bì đựng thuốc và có hướng dẫn cho người sử dụng.\n\n3. Bác sĩ, y sĩ, y tá, nữ hộ sinh, điều dưỡng viên không được bán thuốc cho người bệnh, trừ trường hợp quy định tại Điều 42 của Luật này."
+   }
+  },
+  {
+   "id": "VN-H451-A49",
+   "no": 49,
+   "noLabel": {
+    "vi": "Điều 49"
+   },
+   "chapter": {
+    "vi": "Chương VI"
+   },
+   "heading": {
+    "vi": "Bảo đảm cung ứng thuốc"
+   },
+   "text": {
+    "vi": "Điều 49. Bảo đảm cung ứng thuốc\n\n1. Cơ sở khám bệnh, chữa bệnh có trách nhiệm bảo đảm cung ứng đủ thuốc có chất lượng trong danh mục thuốc chủ yếu sử dụng trong các cơ sở khám bệnh, chữa bệnh phục vụ cho nhu cầu cấp cứu, khám bệnh, chữa bệnh tại cơ sở.\n\nBộ trưởng Bộ Y tế quy định danh mục và cơ số thuốc cấp cứu, danh mục thuốc chủ yếu sử dụng trong cơ sở khám bệnh, chữa bệnh và việc cung ứng thuốc tại cơ sở y tế nhà nước, trừ việc mua thuốc quy định tại khoản 2 Điều này.\n\n2. Việc mua thuốc thuộc danh mục thuốc chủ yếu của các cơ sở y tế nhà nước và thuốc do ngân sách nhà nước chi trả thực hiện theo quy định của pháp luật về đấu thầu, bảo đảm các nguyên tắc sau đây:\n\na) Ưu tiên mua thuốc sản xuất trong nước có cùng chủng loại, chất lượng tương đương và giá không cao hơn thuốc nhập khẩu;\n\nb) Giá thuốc trúng thầu không được cao hơn giá do cơ quan nhà nước có thẩm quyền định kì công bố theo quy định tại điểm d khoản 2 Điều 5 của Luật này.\n\nBộ trưởng Bộ y tế phối hợp với Bộ trưởng Bộ Kế hoạch và Đầu tư và Bộ trưởng Bộ Tài chính hướng dẫn việc mua thuốc theo quy định tại khoản này."
+   }
+  },
+  {
+   "id": "VN-H451-A50",
+   "no": 50,
+   "noLabel": {
+    "vi": "Điều 50"
+   },
+   "chapter": {
+    "vi": "Chương VI"
+   },
+   "heading": {
+    "vi": "Pha chế thuốc trong cơ sở khám bệnh, chữa bệnh"
+   },
+   "text": {
+    "vi": "Điều 50. Pha chế thuốc trong cơ sở khám bệnh, chữa bệnh\n\n1. Cơ sở khám bệnh, chữa bệnh đáp ứng đủ tiêu chuẩn, điều kiện về pha chế thuốc được phép pha chế thuốc theo đơn cho nhu cầu điều trị của cơ sở theo quy định tại Điều 17 của Luật này.\n\n2. Bộ trưởng Bộ Y tế quy định tiêu chuẩn, điều kiện về pha chế thuốc tại cơ sở khám bệnh, chữa bệnh.\n\nChương VII\n\nTHÔNG TIN, QUẢNG CÁO THUỐC"
+   }
+  },
+  {
+   "id": "VN-H451-A51",
+   "no": 51,
+   "noLabel": {
+    "vi": "Điều 51"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {
+    "vi": "Thông tin thuốc"
+   },
+   "text": {
+    "vi": "Điều 51. Thông tin thuốc\n\n1. Thông tin thuốc nhằm mục đích hướng dẫn sử dụng thuốc hợp lý, an toàn cho cán bộ y tế và người sử dụng thuốc.\n\n2. Thông tin thuốc phải đầy đủ, khách quan, chính xác, trung thực, dễ hiểu, không được gây hiểu lầm.\n\n3. Trách nhiệm thông tin thuốc được quy định như sau:\n\na) Cơ sở sản xuất, mua bán và cung ứng thuốc có trách nhiệm thông tin thuốc cho cán bộ, nhân viên y tế và người sử dụng;\n\nb) Cơ sở y tế có trách nhiệm phổ biến và quản lý các thông tin thuốc trong phạm vi đơn vị mình;\n\nc) Cán bộ, nhân viên y tế có trách nhiệm thông tin thuốc có liên quan cho người sử dụng thuốc trong quá trình khám bệnh, chữa bệnh;\n\nd) Cơ quan quản lý nhà nước về dược có trách nhiệm công khai thông tin về thuốc.\n\n4. Trách nhiệm theo dõi phản ứng có hại của thuốc được quy định như sau:\n\na) Cơ sở khám bệnh, chữa bệnh, cán bộ, nhân viên y tế có trách nhiệm theo dõi và báo cáo cho người phụ trách cơ sở, cơ quan có thẩm quyền quản lý thuốc về các phản ứng có hại của thuốc;\n\nb) Trong quá trình lưu hành thuốc, cơ sở sản xuất, phân phối thuốc phải theo dõi, báo cáo cho người phụ trách cơ sở và cơ quan có thẩm quyền quản lý thuốc các phản ứng có hại của thuốc do cơ sở mình sản xuất, phân phối.\n\n5. Tổ chức, cá nhân thông tin thuốc phải chịu trách nhiệm về những thông tin do mình cung cấp.\n\n6. Bộ trưởng Bộ Y tế có trách nhiệm tổ chức hệ thống thông tin thuốc và theo dõi phản ứng có hại của thuốc nhằm bảo đảm việc sử dụng thuốc hợp lý, an toàn cho nhân dân; quy định về hoạt động thông tin thuốc tại các cơ sở y tế."
+   }
+  },
+  {
+   "id": "VN-H451-A52",
+   "no": 52,
+   "noLabel": {
+    "vi": "Điều 52"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {
+    "vi": "Quảng cáo thuốc"
+   },
+   "text": {
+    "vi": "Điều 52. Quảng cáo thuốc\n\n1. Việc quảng cáo thuốc do cơ sở kinh doanh thuốc hoặc người kinh doanh dịch vụ quảng cáo thực hiện và phải tuân theo quy định của pháp luật về quảng cáo.\n\n2. Không được sử dụng lợi ích vật chất, lợi dụng danh nghĩa của tổ chức, cá nhân, các loại thư tín, kết quả nghiên cứu lâm sàng chưa được Bộ Y tế công nhận và các hình thức tương tự để quảng cáo thuốc."
+   }
+  },
+  {
+   "id": "VN-H451-A53",
+   "no": 53,
+   "noLabel": {
+    "vi": "Điều 53"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {
+    "vi": "Phạm vi quảng cáo thuốc"
+   },
+   "text": {
+    "vi": "Điều 53. Phạm vi quảng cáo thuốc\n\n1. Thuốc kê đơn không được quảng cáo cho công chúng dưới mọi hình thức.\n\n2. Thuốc không kê đơn được quảng cáo trên các phương tiện quảng cáo; trường hợp quảng cáo trên truyền thanh, truyền hình phải đáp ứng đủ các điều kiện sau đây:\n\na) Có hoạt chất thuộc danh mục được phép quảng cáo trên truyền thanh, truyền hình do Bộ Y tế ban hành;\n\nb) Có số đăng ký tại Việt Nam đang còn hiệu lực.\n\nChương VIII\n\nTHỬ THUỐC TRÊN LÂM SÀNG"
+   }
+  },
+  {
+   "id": "VN-H451-A54",
+   "no": 54,
+   "noLabel": {
+    "vi": "Điều 54"
+   },
+   "chapter": {
+    "vi": "Chương VIII"
+   },
+   "heading": {
+    "vi": "Thuốc thử lâm sàng"
+   },
+   "text": {
+    "vi": "Điều 54. Thuốc thử lâm sàng\n\n1. Thuốc mới phải được thử lâm sàng.\n\n2. Thuốc thử lâm sàng phải bảo đảm các yêu cầu sau đây:\n\na) Đã được nghiên cứu ở giai đoạn tiền lâm sàng;\n\nb) Có dạng bào chế ổn định;\n\nc) Đạt tiêu chuẩn chất lượng theo hồ sơ đăng ký thử lâm sàng.\n\n3. Nhãn thuốc thử lâm sàng phải ghi dòng chữ: “Sản phẩm dùng cho thử lâm sàng. Cấm dùng cho mục đích khác”."
+   }
+  },
+  {
+   "id": "VN-H451-A55",
+   "no": 55,
+   "noLabel": {
+    "vi": "Điều 55"
+   },
+   "chapter": {
+    "vi": "Chương VIII"
+   },
+   "heading": {
+    "vi": "Thuốc miễn thử lâm sàng hoặc miễn một số giai đoạn thử lâm sàng"
+   },
+   "text": {
+    "vi": "Điều 55. Thuốc miễn thử lâm sàng hoặc miễn một số giai đoạn thử lâm sàng\n\n1. Thuốc mang tên gốc.\n\n2. Thuốc nước ngoài chưa được cấp số đăng ký tại Việt Nam nhưng đã được lưu hành hợp pháp ít nhất năm năm tại nước đó; đã được sử dụng rộng rãi cho nhiều bệnh nhân, được cơ quan nhà nước có thẩm quyền của nước sản xuất thuốc xác nhận là an toàn và hiệu quả; có cùng đường dùng, hàm lượng và có chỉ định ở Việt Nam giống như chỉ định ở nước đó.\n\n3. Các bài thuốc đông y đã được Bộ y tế công nhận.\n\n4. Bộ trưởng Bộ y tế quy định cụ thể những trường hợp thuốc được miễn thử lâm sàng hoặc miễn một số giai đoạn thử lâm sàng."
+   }
+  },
+  {
+   "id": "VN-H451-A56",
+   "no": 56,
+   "noLabel": {
+    "vi": "Điều 56"
+   },
+   "chapter": {
+    "vi": "Chương VIII"
+   },
+   "heading": {
+    "vi": "Điều kiện của người tham gia thử lâm sàng"
+   },
+   "text": {
+    "vi": "Điều 56. Điều kiện của người tham gia thử lâm sàng\n\n1. Người tham gia thử lâm sàng phải là người tình nguyện, đáp ứng yêu cầu chuyên môn và phải ký hợp đồng với tổ chức nhận thử lâm sàng, trừ người bị hạn chế năng lực hành vi dân sự, mất năng lực hành vi dân sự hoặc không có năng lực hành vi dân sự.\n\n2. Trường hợp người thử lâm sàng chưa đến tuổi thành niên, bị hạn chế năng lực hành vi dân sự hoặc mất năng lực hành vi dân sự thì phải được sự đồng ý của người đại diện theo quy định của pháp luật.\n\n3. Bộ trưởng Bộ Y tế quy định đối với trường hợp người thử lâm sàng là phụ nữ đang mang thai."
+   }
+  },
+  {
+   "id": "VN-H451-A57",
+   "no": 57,
+   "noLabel": {
+    "vi": "Điều 57"
+   },
+   "chapter": {
+    "vi": "Chương VIII"
+   },
+   "heading": {
+    "vi": "Quyền của người tham gia thử lâm sàng"
+   },
+   "text": {
+    "vi": "Điều 57. Quyền của người tham gia thử lâm sàng\n\n1. Được cung cấp thông tin đầy đủ và trung thực trước khi thử lâm sàng về cuộc thử nghiệm và những rủi ro có thể xảy ra.\n\n2. Được tổ chức, cá nhân có thuốc thử lâm sàng bồi thường thiệt hại nếu do thử lâm sàng gây ra.\n\n3. Được giữ bí mật về những thông tin cá nhân có liên quan.\n\n4. Không phải chịu trách nhiệm khi đơn phương chấm dứt hợp đồng tham gia thử lâm sàng.\n\n5. Khiếu nại, tố cáo về những vi phạm pháp luật của tổ chức, cá nhân có thuốc thử lâm sàng và nhận thử lâm sàng."
+   }
+  },
+  {
+   "id": "VN-H451-A58",
+   "no": 58,
+   "noLabel": {
+    "vi": "Điều 58"
+   },
+   "chapter": {
+    "vi": "Chương VIII"
+   },
+   "heading": {
+    "vi": "Quyền của tổ chức, cá nhân có thuốc thử lâm sàng"
+   },
+   "text": {
+    "vi": "Điều 58. Quyền của tổ chức, cá nhân có thuốc thử lâm sàng\n\n1. Lựa chọn tổ chức đáp ứng quy định về cơ sở vật chất và cán bộ chuyên môn để thử thuốc trên lâm sàng.\n\n2. Được sở hữu toàn bộ kết quả nghiên cứu của thuốc thử lâm sàng."
+   }
+  },
+  {
+   "id": "VN-H451-A59",
+   "no": 59,
+   "noLabel": {
+    "vi": "Điều 59"
+   },
+   "chapter": {
+    "vi": "Chương VIII"
+   },
+   "heading": {
+    "vi": "Nghĩa vụ của tổ chức, cá nhân có thuốc thử lâm sàng"
+   },
+   "text": {
+    "vi": "Điều 59. Nghĩa vụ của tổ chức, cá nhân có thuốc thử lâm sàng\n\n1. Phải xin phép và được Bộ trưởng Bộ Y tế đồng ý bằng văn bản trước khi thử lâm sàng.\n\n2. Bồi thường thiệt hại cho người tham gia thử lâm sàng nếu có rủi ro xảy ra do thử lâm sàng theo quy định của pháp luật.\n\n3. Ký kết hợp đồng về việc thử thuốc trên lâm sàng với tổ chức nhận thử thuốc trên lâm sàng."
+   }
+  },
+  {
+   "id": "VN-H451-A60",
+   "no": 60,
+   "noLabel": {
+    "vi": "Điều 60"
+   },
+   "chapter": {
+    "vi": "Chương VIII"
+   },
+   "heading": {
+    "vi": "Quyền của tổ chức nhận thử thuốc trên lâm sàng"
+   },
+   "text": {
+    "vi": "Điều 60. Quyền của tổ chức nhận thử thuốc trên lâm sàng\n\n1. Được tổ chức, cá nhân có thuốc thử lâm sàng cung cấp thuốc, kinh phí để tiến hành thử lâm sàng theo đúng quy định của pháp luật.\n\n2. Được sử dụng kết quả nghiên cứu thử thuốc trên lâm sàng theo thoả thuận với tổ chức, cá nhân có thuốc thử lâm sàng."
+   }
+  },
+  {
+   "id": "VN-H451-A61",
+   "no": 61,
+   "noLabel": {
+    "vi": "Điều 61"
+   },
+   "chapter": {
+    "vi": "Chương VIII"
+   },
+   "heading": {
+    "vi": "Nghĩa vụ của tổ chức nhận thử thuốc trên lâm sàng"
+   },
+   "text": {
+    "vi": "Điều 61. Nghĩa vụ của tổ chức nhận thử thuốc trên lâm sàng\n\n1. Tuân thủ các quy định thực hành tốt trong thử thuốc trên lâm sàng; báo cáo về quá trình, kết quả thử lâm sàng và báo cáo khẩn trong trường hợp cần thiết với Bộ Y tế.\n\n2. Ký kết hợp đồng về việc thử thuốc trên lâm sàng với tổ chức, cá nhân có thuốc thử lâm sàng và với người tham gia thử lâm sàng."
+   }
+  },
+  {
+   "id": "VN-H451-A62",
+   "no": 62,
+   "noLabel": {
+    "vi": "Điều 62"
+   },
+   "chapter": {
+    "vi": "Chương VIII"
+   },
+   "heading": {
+    "vi": "Các giai đoạn và thủ tục thử thuốc trên lâm sàng"
+   },
+   "text": {
+    "vi": "Điều 62. Các giai đoạn và thủ tục thử thuốc trên lâm sàng\n\n1. Thử thuốc trên lâm sàng phải được thực hiện theo các giai đoạn và phải tuân theo các quy định về thực hành tốt thử thuốc trên lâm sàng.\n\n2. Bộ trưởng Bộ Y tế quy định cụ thể điều kiện, hồ sơ, trình tự và các giai đoạn thử thuốc trên lâm sàng.\n\nChương Ĩ\n\nQUẢN LÝ THUỐC GÂY NGHIỆN, THUỐC HƯỚNG TÂM THẦN, TIỀN CHẤT DÙNG LÀM THUỐC VÀ THUỐC PHÓNG XẠ"
+   }
+  },
+  {
+   "id": "VN-H451-A63",
+   "no": 63,
+   "noLabel": {
+    "vi": "Điều 63"
+   },
+   "chapter": {
+    "vi": "Chương VIII"
+   },
+   "heading": {
+    "vi": "Thuốc thuộc danh mục phải kiểm soát đặc biệt"
+   },
+   "text": {
+    "vi": "Điều 63. Thuốc thuộc danh mục phải kiểm soát đặc biệt\n\n1. Thuốc gây nghiện, thuốc hướng tâm thần, tiền chất dùng làm thuốc và thuốc phóng xạ là những loại thuốc thuộc danh mục phải kiểm soát đặc biệt.\n\n2. Bộ trưởng Bộ Y tế ban hành danh mục thuốc phải kiểm soát đặc biệt phù hợp với điều ước quốc tế mà Cộng hoà xã hội chủ nghĩa Việt Nam là thành viên."
+   }
+  },
+  {
+   "id": "VN-H451-A64",
+   "no": 64,
+   "noLabel": {
+    "vi": "Điều 64"
+   },
+   "chapter": {
+    "vi": "Chương VIII"
+   },
+   "heading": {
+    "vi": "Điều kiện kinh doanh, sử dụng thuốc thuộc danh mục phải kiểm soát đặc biệt"
+   },
+   "text": {
+    "vi": "Điều 64. Điều kiện kinh doanh, sử dụng thuốc thuộc danh mục phải kiểm soát đặc biệt\n\n1. Cơ sở kinh doanh, pha chế, cấp phát thuốc thuộc danh mục phải kiểm soát đặc biệt phải đáp ứng các điều kiện kinh doanh thuốc theo quy định của Chính phủ.\n\n2. Việc nhập khẩu, xuất khẩu và vận chuyển thuốc thuộc danh mục phải kiểm soát đặc biệt được thực hiện theo quy định của pháp luật.\n\n3. Thuốc thuộc danh mục phải kiểm soát đặc biệt được sử dụng cho mục đích phòng bệnh, chữa bệnh, chẩn đoán bệnh, điều chỉnh chức năng sinh lý cơ thể và nghiên cứu khoa học và không được sử dụng cho mục đích khác."
+   }
+  },
+  {
+   "id": "VN-H451-A65",
+   "no": 65,
+   "noLabel": {
+    "vi": "Điều 65"
+   },
+   "chapter": {
+    "vi": "Chương VIII"
+   },
+   "heading": {
+    "vi": "Trách nhiệm của cơ sở kinh doanh, pha chế, cấp phát thuốc thuộc danh mục phải kiểm soát đặc biệt"
+   },
+   "text": {
+    "vi": "Điều 65. Trách nhiệm của cơ sở kinh doanh, pha chế, cấp phát thuốc thuộc danh mục phải kiểm soát đặc biệt\n\n1. Cơ sở kinh doanh, pha chế và cấp phát thuốc thuộc danh mục phải kiểm soát đặc biệt có trách nhiệm:\n\na) Báo cáo định kỳ hoặc đột xuất cho cơ quan quản lý nhà nước có thẩm quyền;\n\nb) Lưu giữ chứng từ, tài liệu có liên quan cho từng loại thuốc sau khi thuốc hết hạn sử dụng ít nhất là hai năm.\n\n2. Việc huỷ thuốc thuộc danh mục phải kiểm soát đặc biệt được thực hiện theo đúng trình tự, thủ tục quy định và tuân theo quy định của pháp luật.\n\nChương X\n\nTIÊU CHUẨN CHẤT LƯỢNG THUỐC\n\nVÀ VIỆC KIỂM NGHIỆM THUỐC"
+   }
+  },
+  {
+   "id": "VN-H451-A66",
+   "no": 66,
+   "noLabel": {
+    "vi": "Điều 66"
+   },
+   "chapter": {
+    "vi": "Chương X"
+   },
+   "heading": {
+    "vi": "Tiêu chuẩn chất lượng thuốc"
+   },
+   "text": {
+    "vi": "Điều 66. Tiêu chuẩn chất lượng thuốc\n\n1. Tiêu chuẩn chất lượng thuốc của Việt Nam bao gồm tiêu chuẩn quốc gia và tiêu chuẩn cơ sở.\n\n2. Tiêu chuẩn quốc gia về chất lượng thuốc và các phương pháp kiểm nghiệm thuốc được quy định tại Dược điển Việt Nam.\n\nTiêu chuẩn cơ sở do cơ sở sản xuất thuốc xây dựng và công bố. Tiêu chuẩn cơ sở không được thấp hơn tiêu chuẩn quốc gia về chất lượng thuốc.\n\n3. Chính phủ quy định việc ban hành Dược điển Việt Nam, việc áp dụng dược điển nước ngoài, dược điển quốc tế tại Việt Nam."
+   }
+  },
+  {
+   "id": "VN-H451-A67",
+   "no": 67,
+   "noLabel": {
+    "vi": "Điều 67"
+   },
+   "chapter": {
+    "vi": "Chương X"
+   },
+   "heading": {
+    "vi": "Kiểm nghiệm thuốc"
+   },
+   "text": {
+    "vi": "Điều 67. Kiểm nghiệm thuốc\n\n1. Việc kiểm nghiệm thuốc phải tiến hành theo đúng tiêu chuẩn chất lượng thuốc của cơ sở sản xuất đã đăng ký. Trường hợp áp dụng phương pháp khác không theo phương pháp trong tiêu chuẩn đã đăng ký thì phải được sự chấp thuận của Bộ Y tế.\n\n2. Trường hợp có nghi ngờ về thành phần hoặc chất lượng thuốc, cơ sở kiểm nghiệm của Nhà nước về thuốc được áp dụng các phương pháp khác với các phương pháp trong tiêu chuẩn đã đăng ký để kiểm tra và đưa ra kết quả kiểm nghiệm chất lượng thuốc.\n\n3. Bộ trưởng Bộ Y tế quy định cụ thể trình tự, thủ tục lấy mẫu, lưu mẫu thuốc và nội dung kiểm nghiệm chất lượng thuốc."
+   }
+  },
+  {
+   "id": "VN-H451-A68",
+   "no": 68,
+   "noLabel": {
+    "vi": "Điều 68"
+   },
+   "chapter": {
+    "vi": "Chương X"
+   },
+   "heading": {
+    "vi": "Cơ sở kiểm nghiệm thuốc"
+   },
+   "text": {
+    "vi": "Điều 68. Cơ sở kiểm nghiệm thuốc\n\nCơ sở kiểm nghiệm thuốc bao gồm cơ sở kiểm nghiệm của Nhà nước về thuốc, doanh nghiệp làm dịch vụ kiểm nghiệm thuốc, phòng kiểm nghiệm thuốc của cơ sở kinh doanh thuốc."
+   }
+  },
+  {
+   "id": "VN-H451-A69",
+   "no": 69,
+   "noLabel": {
+    "vi": "Điều 69"
+   },
+   "chapter": {
+    "vi": "Chương X"
+   },
+   "heading": {
+    "vi": "Cơ sở kiểm nghiệm của Nhà nước về thuốc"
+   },
+   "text": {
+    "vi": "Điều 69. Cơ sở kiểm nghiệm của Nhà nước về thuốc\n\n1. Cơ sở kiểm nghiệm của Nhà nước về thuốc giúp cơ quan quản lý nhà nước về dược trong việc xác định chất lượng thuốc.\n\n2. Cơ sở kiểm nghiệm của Nhà nước về thuốc có quyền và nghĩa vụ như quyền và nghĩa vụ của doanh nghiệp làm dịch vụ kiểm nghiệm thuốc được quy định tại Điều 33 và Điều 34 của Luật này.\n\n3. Chính phủ quy định hệ thống tổ chức và hoạt động của các cơ sở kiểm nghiệm của Nhà nước về thuốc."
+   }
+  },
+  {
+   "id": "VN-H451-A70",
+   "no": 70,
+   "noLabel": {
+    "vi": "Điều 70"
+   },
+   "chapter": {
+    "vi": "Chương X"
+   },
+   "heading": {
+    "vi": "Giải quyết khiếu nại về kết luận chất lượng thuốc"
+   },
+   "text": {
+    "vi": "Điều 70. Giải quyết khiếu nại về kết luận chất lượng thuốc\n\n1. Các cơ sở kinh doanh thuốc có quyền khiếu nại về kết luận chất lượng thuốc của cơ quan quản lý nhà nước về dược.\n\n2. Chính phủ quy định trình tự, thủ tục, cơ quan giải quyết khiếu nại về kết luận chất lượng thuốc.\n\nChương XI\n\nĐIỀU KHOẢN THI HÀNH"
+   }
+  },
+  {
+   "id": "VN-H451-A71",
+   "no": 71,
+   "noLabel": {
+    "vi": "Điều 71"
+   },
+   "chapter": {
+    "vi": "Chương XI"
+   },
+   "heading": {
+    "vi": "Quy định chuyển tiếp"
+   },
+   "text": {
+    "vi": "Điều 71. Quy định chuyển tiếp\n\nTổ chức, cá nhân được cấp Giấy chứng nhận đủ điều kiện hành nghề dược trước ngày Luật này có hiệu lực mà vẫn còn thời hạn thì không phải xin cấp phép lại."
+   }
+  },
+  {
+   "id": "VN-H451-A72",
+   "no": 72,
+   "noLabel": {
+    "vi": "Điều 72"
+   },
+   "chapter": {
+    "vi": "Chương XI"
+   },
+   "heading": {
+    "vi": "Hiệu lực thi hành"
+   },
+   "text": {
+    "vi": "Điều 72. Hiệu lực thi hành\n\nLuật này có hiệu lực thi hành từ ngày 01 tháng 10 năm 2005.\n\nCác quy định trước đây trái với Luật này đều bãi bỏ."
+   }
+  },
+  {
+   "id": "VN-H451-A73",
+   "no": 73,
+   "noLabel": {
+    "vi": "Điều 73"
+   },
+   "chapter": {
+    "vi": "Chương XI"
+   },
+   "heading": {
+    "vi": "Quy định chi tiết và hướng dẫn thi hành"
+   },
+   "text": {
+    "vi": "Điều 73. Quy định chi tiết và hướng dẫn thi hành\n\nChính phủ quy định chi tiết và hướng dẫn thi hành Luật này.\n\nLuật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XI, kỳ họp thứ 7 thông qua ngày 14 tháng 6 năm 2005.\n\n1:{\"id\":\"18127\",\"docType\":{\"id\":\"11025e19-2dd6-4165-85ad-ab6241186a1a\",\"name\":\"Luật\",\"code\":\"Lu\",\"parentCode\":\"VBQPPL\",\"parentName\":null},\"docGroup\":\"VBQPPL\",\"docNum\":\"34/2005/QH11\",\"title\":\"Luật Dược số 34/2005/QH11\",\"applicationNote\":\"Bị hết hiệu lực bởi Luật 105/2016/QH13 Dược\",\"issueDate\":\"2005-06-14T00:00:00\",\"effFrom\":\"2005-10-01T00:00:00\",\"effTo\":\"2017-01-01T00:00:00\",\"publicDate\":null,\"effStatus\":{\"id\":\"f55c1469-4341-4274-93ef-32b283db4dbd\",\"name\":\"Hết hiệu lực toàn bộ\",\"code\":\"HHL\",\"parentCode\":null,\"parentName\":null},\"status\":\"Publish\",\"lang\":\"vi\",\"defaultLanguage\":\"VN\",\"updatedBy\":\"dungdvm_II.2\",\"updatedDate\":\"2026-03-23T00:34:36\",\"agencyName\":\"Quốc hội\",\"organization\":{\"id\":\"e3389e7d-de01-447b-912a-53ad00cd2b48\",\"code\":\"BYT\",\"name\":\"Bộ Y tế\",\"nameEn\":\"Bộ Y tế\",\"shortName\":\"BYT\",\"orgType\":\"0\"},\"isLw\":true,\"documentContent\":{\"id\":\"18127\",\"title\":null,\"content\":\"$2\"},\"documentContentEn\":null,\"documentContentFileName\":null,\"documentContentFileDocName\":\"34.2005.QH11.doc\",\"documentIssues\":[{\"id\":\"ea2798e0-d893-4829-90f8-242566977a54\",\"agencyId\":\"55\",\"agencyName\":\"Quốc hội\",\"agencyNameEn\":\"National Assembly of Vietnam\",\"agencyCode\":\"QH\",\"personId\":\"146\",\"personName\":\"Nguyễn Văn An\",\"jobTitleId\":\"28da0087-8afd-420c-875c-b2369e212c3e\",\"jobTitleCode\":\"CTQH\",\"jobTitleName\":\"Chủ tịch Quốc hội\",\"orderIndex\":1}],\"documentMajors\":[],\"documentFields\":[{\"id\":\"76e2c0d5-e93e-4ee9-8c72-59dae1167432\",\"name\":\"Chưa phân loại\",\"code\":null,\"parentCode\":null,\"parentName\":null}],\"documentRelatedList\":[{\"id\":\"cbfc6b68-305d-4564-9da3-0e2f795cc6b2\",\"fileName\":\"18127_body_content.html\",\"relatedType\":\"MARKDOWN\",\"fileTitle\":\"18127_body_content.html\",\"fileOrder\":null}],\"provisionTree\":null,\"references\":null,\"isEffectAllDocument\":false,\"isOld\":true,\"reviewStatus\":\"INITIAL\",\"reviewed\":false,\"isTranslationDoc\":false,\"isConsolidatedDocument\":false,\"isConstitutionDocument\":false,\"isAdministrativeDocument\":false,\"viewCount\":70,\"showViewCount\":true,\"hasContent\":true,\"hasOriginalPdf\":null,\"hasAIProcessed\":false,\"hasClauseRelation\":true,\"aiResults\":[]}"
+   }
+  }
+ ]
+}

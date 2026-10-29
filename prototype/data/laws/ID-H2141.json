@@ -1,0 +1,2710 @@
+{
+ "id": "ID-H2141",
+ "title": {
+  "zh": "车辆法",
+  "en": "Law on Vehicles",
+  "id": "KENDARAAN",
+  "orig": "KENDARAAN",
+  "vi": "Luật về Phương tiện Giao thông",
+  "th": "พระราชบัญญัติว่าด้วยยานพาหนะ",
+  "ms": "Akta tentang Kenderaan"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02b",
+ "language": "id",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "2012",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU55-2012",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 188,
+ "chars": 145018,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PP%20Nomor%2055%20Tahun%202012.pdf&fl=P17499"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\01_宪法与基础法\\印尼_文本_2012_KENDARAAN.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 188 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H2141-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\n\nDalam Peraturan Pemerintah ini yang dimaksud dengan:\n\n1. Kendaraan adalah suatu sarana angkut di jalan yang\nterdiri atas Kendaraan Bermotor  dan Kendaraan Tidak\nBermotor.\n\n2. Kendaraan Bermotor  adalah setiap Kendaraan yang\ndigerakkan oleh peralatan mekanik berupa mesin selain\nKendaraan yang berjalan di atas rel.\n\n3. Kendaraan Tidak Bermotor  adalah setiap Kendaraan yang\ndigerakkan oleh tenaga manusia dan/atau hewan.\n\n4. Sepeda Motor adalah Kendaraan Bermotor beroda 2 (dua)\ndengan atau tanpa rumah-rumah dan dengan atau tanpa\nkereta samping , atau Kendaraan Bermotor  beroda tiga\ntanpa rumah-rumah.\n\n5. Mobil Penumpang  adalah Kendaraan Bermotor  angkutan\norang yang memiliki tempat duduk maksimal 8 ( delapan)\norang, termasuk untuk pengemudi atau yang beratnya\ntidak lebih dari 3.500 (tiga ribu lima ratus) kilogram.\n\n6. Mobil Bus  adalah Kendaraan Bermotor  angkutan orang\nyang memiliki tempat duduk lebih dari 8 (delapan) or ang,\ntermasuk untuk pengemudi atau yang beratnya lebih dari\n3.500 (tiga ribu lima ratus) kilogram.\n\n7.  Mobil Barang adalah Kendaraan Bermotor yang dirancang\nsebagian atau seluruhnya untuk mengangkut barang.\n\n8.  Rumah–rumah adalah  bagian dari Kendaraan Bermotor\njenis Mobil Penumpang , Mobil Bus , Mobil Barang , atau\nSepeda Motor  yang berada pada landasan berbentuk\nruang muatan, baik untuk orang maupun barang.\n\n9.  Pengujian Kendaraan Bermotor  adalah serangkaian\nkegiatan menguji dan/atau memeriksa bagian atau\nkomponen Kendaraan Bermotor , Kereta Gandengan , dan\nKereta Tempelan  dalam rangka pemenuhan terhadap\npersyaratan teknis dan laik jalan.\n\n10. Uji . . .\n\n\n\n\n10. Uji Tipe Kendaraan Bermotor  adalah pengujian yang\ndilakukan terhadap fisik Kendaraan Bermotor  atau\npenelitian terhadap rancang ba ngun dan rekayasa\nKendaraan Bermotor , Kereta Gandengan  atau Kereta\nTempelan sebelum Kendaraan Bermotor  dibuat dan/atau\ndirakit dan/atau diimpor secara massal serta Kendaraan\nBermotor yang dimodifikasi.\n\n11. Uji Berkala  adalah Pengujian Kendaraan Bermotor  yang\ndilakukan secara berkala terhadap setiap Kendaraan\nBermotor, Kereta Gandengan, dan Kereta Tempelan, yang\ndioperasikan di jalan.\n\n12. Modifikasi Kendaraan Bermotor adalah perubahan\nterhadap spesifikasi teknis dimensi, mesin, dan /atau\nkemampuan daya angkut Kendaraan Bermotor.\n\n13. Uji Sampel adalah pengujian kesesuaian spesifikasi teknis\nseri produksi terhadap sertifikat Uji Tipe.\n\n14. Kereta Gandengan  adalah sarana untuk mengangkut\nbarang yang seluruh bebannya ditumpu oleh sarana itu\nsendiri dan diran cang untuk ditarik oleh Kendaraan\nBermotor.\n15. Kereta Tempelan adalah sarana untuk mengangkut barang\nyang dirancang untuk ditarik dan sebagian bebannya\nditumpu oleh Kendaraan Bermotor penariknya.\n\n16. Jumlah Berat Yang Diperbolehkan  yang selanjutnya\ndisebut JBB adalah berat maksimum Kendaraan Bermotor\nberikut muatannya yang diperbolehkan menurut\nrancangannya.\n\n17. Jumlah Berat Kombinasi Yang Diperbolehkan yang\nselanjutnya disebut JBKB adalah berat maksimum\nrangkaian Kendaraan Bermotor  berikut muatannya  yang\ndiperbolehkan menurut rancangannya.\n18. Jumlah Berat Yang Diizinkan yang selanjutnya disebut JBI\nadalah berat maksimum Kendaraan Bermotor  berikut\nmuatannya yang diizin kan berda sarkan kelas jalan yang\ndilalui.\n\n19. Jumlah Berat Kombinasi Yang Diizinkan yang selanjutnya\ndisebut JBKI adalah berat maksimum rangkaian\nKendaraan Bermotor  berikut muatannya yang diizinkan\nberdasarkan kelas jalan yang dilalui.\n\nBAB II . . .\n\n\n\n\nBAB II\nJENIS DAN FUNGSI KENDARAAN"
+   }
+  },
+  {
+   "id": "ID-H2141-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\n\nKendaraan terdiri atas:\na.  Kendaraan Bermotor; dan\nb.  Kendaraan Tidak Bermotor."
+   }
+  },
+  {
+   "id": "ID-H2141-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\n\n(1)  Kendaraan Bermotor sebagaimana dimaksud dalam Pasal\n2 huruf a berdasarkan jenis dikelompokkan ke dalam:\n\na. Sepeda Motor;\nb. Mobil Penumpang;\nc. Mobil Bus;\nd. Mobil Barang; dan\ne. Kendaraan khusus.\n\n(2)  Kendaraan Bermotor sebagaimana dimaksud pada ayat (1)\nhuruf b, huruf c , dan huruf d berdasarkan fungsi\ndikelompokan ke dalam Kendaraan Bermotor\nperseorangan dan Kendaraan Bermotor umum."
+   }
+  },
+  {
+   "id": "ID-H2141-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\n\nKendaraan Tidak Bermotor sebagaimana dimaksud dalam Pasal\n2 huruf b dikelompokkan ke dalam:\n\na.  Kendaraan yang digerakkan oleh tenaga orang; dan\nb.  Kendaraan yang ditarik oleh tenaga hewan."
+   }
+  },
+  {
+   "id": "ID-H2141-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\n\n(1)  Kendaraan Bermotor  jenis Sepeda Motor  sebagaimana\ndimaksud dalam Pasal 3 ayat (1) huruf a meliputi:\n\na. Kendaraan Bermotor  roda 2 (dua) dengan atau tanpa\nrumah-rumah;\nb. Kendaraan Bermotor  roda 2 ( dua) dengan atau tanpa\nkereta samping; dan\nc. Kendaraan Bermotor roda 3 (tiga) tanpa rumah-rumah.\n\n\n  (2) Kendaraan . . .\n\n\n\n\n(2)  Kendaraan Bermotor jenis Mobil Penumpang sebagaimana\ndimaksud dalam Pasal 3 ayat (1) huruf b meliputi:\n\na. Mobil Penumpang  sedan yang memiliki 3 (tiga) ruang\nterdiri atas:\n1. ruang mesin;\n2. ruang pengemudi dan penumpang; dan\n3. ruang bagasi.\nb. Mobil Penumpang bukan sedan yang memiliki 2 (dua)\nruang terdiri atas:\n1. ruang mesin; dan\n2. ruang pengemudi , ruang penumpang dan/atau\nbagasi.\nc. Mobil Penumpang lainnya dirancang untuk kep erluan\nkhusus.\n\n(3)  Kendaraan Bermotor jenis Mobil Bus  sebagaimana\ndimaksud dalam Pasal 3 ayat (1) huruf c meliputi:\n\na. Mobil Bus kecil yang dirancang dengan:\n1. JBB lebih dari 3.500 (tiga ribu lima ratus) sampai\ndengan 5.000 (lima ribu) kilogram;\n2. ukuran panjang keseluruhan tidak melebihi\nukuran landasan dan tidak lebih dari 6.000 (enam\nribu) milimeter; dan\n3. ukuran lebar keseluruhan tidak melebihi ukuran\nlandasan dan tidak melebihi 2.100 (dua ribu\nseratus) milimeter serta tinggi Kendaraan tidak\nlebih dari 1,7 (satu  koma tujuh) kali lebar\nKendaraannya.\n\nb. Mobil Bus sedang yang dirancang  dengan:\n\n1. JBB lebih dari 5.000 (lima ribu) sampai dengan\n8.000 (delapan ribu) kilogram;\n2. ukuran panjang keseluruhan tidak melebihi\nukuran landasan dan  panjang keseluruhan tidak\nmelebihi 9.000 (sembilan ribu) milimeter; dan\n3. ukuran lebar keseluruhan tidak melebihi ukuran\nlandasan dan tidak melebihi 2.100 (dua ribu\nseratus) milimeter  serta tinggi Kendaraan tidak\nlebih dari 1,7 (satu koma tujuh) kali lebar\nKendaraannya.\n\n\n\nc. Mobil . . .\n\n\n\n\nc. Mobil Bus  besar yang dirancang dengan:\n\n1. JBB lebih dari 8.000 (delapan ribu) sampai\ndengan 16.000 (enam belas ribu) kilogram;\n2. ukuran panjang keseluruhan tidak melebihi\nukuran landasan dan ukuran panjang\nkeseluruhan Kendaraan Bermotor lebih dari 9.000\n(sembilan ribu) milimeter sampai dengan 12.000\n(dua belas ribu) milimeter; dan\n3. ukuran lebar keseluruhan tidak melebihi ukuran\nlandasan dan ukuran lebar keseluruhan tidak\nmelebihi 2.500 (dua ribu lima ratus) milimeter\nserta tinggi Kendaraan tidak lebih dari 4.200\n(empat ribu dua rat us) milimeter  dan tidak lebih\ndari 1,7 (satu koma tujuh) kali lebar\nKendaraannya.\n\nd. Mobil Bus  maxi yang dirancang  dengan:\n\n1. JBB lebih dari 16.000 (enam belas ribu) kilogram\nsampai dengan 24.000 (dua puluh empat ribu)\nkilogram;\n2. ukuran panjang keseluruhan lebi h dari 12.000\n(dua belas ribu) milimeter sampai dengan 13.500\n(tiga belas ribu lima ratus) milimeter; dan\n3. ukuran lebar keseluruhan tidak melebihi 2.500\n(dua ribu lima ratus) milimeter dan tinggi\nKendaraan tidak lebih dari 4.200 (empat ribu dua\nratus) mili meter dan tidak lebih dari 1,7 (satu\nkoma tujuh) kali lebar Kendaraannya.\n\ne. Mobil Bus gandeng yang dirancang dengan:\n\n1. JBKB paling sedikit 22.000 (dua puluh dua ribu)\nkilogram sampai dengan 26.000 (dua puluh enam\nribu) kilogram;\n2. ukuran panjang keseluruhan le bih dari 13.500\n(tiga belas ribu lima ratus) milimeter sampai\ndengan 18.000 (delapan belas ribu) milimeter; dan\n3. ukuran lebar keseluruhan tidak melebihi 2.500\n(dua ribu lima ratus) milimeter dan tinggi\nKendaraan tidak lebih dari 4.200 (empat ribu dua\nratus) milimeter  dan tidak lebih dari 1,7 (satu\nkoma tujuh) kali lebar Kendaraannya.\n\n f. Mobil . . .\n\n\n\n\nf. Mobil Bus tempel yang dirancang  dengan:\n\n1. JBKB paling sedikit 22.000 (dua puluh dua ribu)\nkilogram sampai dengan 26.000 (dua puluh enam\nribu) kilogram;\n2. ukuran panjang keselu ruhan lebih dari 13.500\n(tiga belas ribu lima ratus) milimeter sampai\ndengan 18.000 (delapan belas ribu) milimeter; dan\n3. ukuran lebar keseluruhan tidak melebihi 2.500\n(dua ribu lima ratus) milimeter dan tinggi\nKendaraan tidak lebih dari 4.200 (empat ribu d ua\nratus) milimeter  dan tidak  lebih dari 1,7 (satu\nkoma tujuh) kali lebar Kendaraannya;\n\ng. Mobil Bus tingkat yang dirancang dengan:\n\n1. JBB paling sedikit 21.000 (dua puluh satu ribu)\nkilogram sampai dengan 24.000 (dua puluh empat\nribu) kilogram;\n2. ukuran panjang keseluruhan paling sedikit 9.000\n(sembilan ribu) milimeter sampai dengan 13.500\n(tiga belas ribu lima ratus) milimeter;\n3. ukuran lebar keseluruhan tidak melebihi 2.500\n(dua ribu lima ratus) milimeter; dan\n4. ukuran tinggi Mobil Bus t ingkat tidak lebih dari\n4.200 (empat ribu dua ratus) milimeter.\n\n(4)  Kendaraan Bermotor jenis Mobil Barang  sebagaimana\ndimaksud dalam Pasal 3 ayat (1) huruf d meliputi:\n\na. mobil bak muatan terbuka;\nb. mobil bak muatan tertutup;\nc. mobil tangki; dan\nd. mobil penarik.\n\n(5)  Kendaraan Bermotor jenis Kendaraan khusus\nsebagaimana dimaksud dalam Pasal 3 ayat ( 1) huruf e\nmeliputi Kendaraan yang dirancang bangun untuk fungsi\ntertentu.\n\n(6) Fungsi tertentu sebagaimana dimaksud pada ayat (5)\nmeliputi:\na. militer;\nb. ketertiban dan keamanan masyarakat;\nc. alat produksi; dan\nd. mobilitas penyandang cacat.\n\nBAB III . . .\n\n\n\n\n\nBAB III\nPERSYARATAN TEKNIS DAN LAIK JALAN KENDARAAN BERMOTOR\n\nBagian Kesatu\nPersyaratan Teknis Kendaraan Bermotor\n\nParagraf 1\nUmum"
+   }
+  },
+  {
+   "id": "ID-H2141-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\n\n(1)  Setiap Kendaraan Bermotor  yang dioperasikan di jalan\nharus memenuhi persyaratan teknis.\n\n(2)  Persyaratan teknis sebagaimana dimaksud pada ayat (1)\nterdiri atas:\n\na. susunan;\nb. perlengkapan;\nc. ukuran;\nd. karoseri;\ne. rancangan teknis Kendaraan sesuai dengan\nperuntukannya;\nf. pemuatan;\ng. penggunaan;\nh. penggandengan Kendaraan Bermotor; dan/atau\ni. penempelan Kendaraan Bermotor.\n\nParagraf 2\nSusunan"
+   }
+  },
+  {
+   "id": "ID-H2141-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\n\nSusunan sebagaimana dimaksud dalam Pasal 6 ayat (2) huruf\na terdiri atas:\n\na.  rangka landasan;\nb.  motor penggerak;\nc.  sistem pembuangan;\nd.  sistem penerus daya;\ne.  sistem roda-roda;\nf.  sistem suspensi;\ng.  sistem alat kemudi;\nh.  sistem rem;\ni.  sistem lampu dan alat pemantul cahaya;\nj.  komponen pendukung."
+   }
+  },
+  {
+   "id": "ID-H2141-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8 "
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 8 . . .\n\n\n\n\n\nPasal 8\n\n(1)  Rangka landasan sebagaimana dimaksud dalam Pasal 7\nhuruf a harus memenuhi persyaratan:\na. dengan konstruksi menyatu , terpisah, atau  sebagian\nmenyatu sebagian terpisah dengan badan Kendaraan;\nb. dapat menahan seluruh beban  getaran dan goncangan\nKendaraan berikut muatannya  sebesar JBB atau\nJBKB;\nc. tahan terhadap korosi; dan\nd. dilengkapi dengan alat pengait di bagian depan dan\nbagian belakang Kendaraan Bermotor, kecuali Sepeda\nMotor.\n\n(2)  Rangka landasan sebagaimana dimaksud pada ayat (1)\nuntuk Kendaraan Bermotor  yang dirancang untuk\nmenarik Kereta Gandengan  atau Kereta Tempelan ,\ndilengkapi dengan peralatan penarik yang dirancang\nkhusus untuk itu."
+   }
+  },
+  {
+   "id": "ID-H2141-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n\n(1)  Rangka landa san se bagaimana dimaksud dalam Pasal 8\nharus dibubuhkan nomor rangka landasan.\n\n(2)  Nomor rangka landasan sebagaimana dimaksud pada ayat\n(1) harus:\n\na. ditempatkan secara permanen pada bagian tertentu\nrangka landasan;\nb. ditulis dalam bentuk embos ke dalam atau keluar; dan\nc. mudah dilihat dan dibaca."
+   }
+  },
+  {
+   "id": "ID-H2141-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\n\n(1) Rangka landasan sebagaimana dimaksud d alam Pasal 8\nmeliputi:\n\na. rangka landasan untuk angkutan orang;\nb. rangka landasan untuk angkutan barang.\n\n(2) Untuk kendaraan khusus dapat menggunakan rangka\nlandasan untuk angkutan barang atau angkutan orang."
+   }
+  },
+  {
+   "id": "ID-H2141-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11 "
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 11 . . .\n\n\n\n\n\nPasal 11\n\nKetentuan lebih lanjut mengenai persyaratan tek nis rangka\nlandasan diatur dengan peraturan menteri yang bertanggung\njawab di bidang sarana dan prasarana lalu lintas dan angkutan\njalan."
+   }
+  },
+  {
+   "id": "ID-H2141-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n\n(1)  Motor penggera k sebagaimana dimaksud dalam Pasal 7\nhuruf b meliputi:\n\na. motor bakar;\nb. motor listrik; dan\nc. kombinasi motor bakar dan motor listrik.\n\n(2)  Motor penggerak sebagaimana dimaksud  pada ayat (1)\nharus memenuhi persyaratan:\n\na. mempunyai daya untuk dapat mendaki pada ja lan\ntanjakan dengan sudut kemiringan minimum 8\n\n(delapan derajat) dengan kecepatan minimum 20 (dua\npuluh) kilometer per jam pada segala kondisi jalan;\nb. motor penggerak dapat dihidupkan dari tempat duduk\npengemudi;\nc. motor penggerak Kendaraan Bermotor  tanpa Kereta\nGandengan atau Kereta Tempelan, selain Sepeda Motor\nharus memiliki perbandingan antara daya dan berat\ntotal Kendaraan berikut muatannya paling sedikit\nsebesar 4,50 (empat koma lima puluh) kilo Watt setiap\n1.000 (seribu) kilogram dari JBB atau JBKB;\nd. motor penggerak pada Kendaraan Bermotor  yang\ndigunakan untuk menarik Kereta Gandengan , Kereta\nTempelan, bus tempel dan bus gandeng, selain Sepeda\nMotor harus memiliki perbandingan antara daya dan\nberat total Kendaraan berikut muatannya paling\nsedikit sebesar 5,50 (lima koma lima puluh ) kilo Watt\nsetiap 1.000  (seribu) kilogram dari JBB atau JBKB ;\ndan\ne. perbandingan antara daya motor penggerak dan berat\nKendaraan khusus atau Sepeda Motor  ditetapkan\nsesuai dengan kebutuhan lalu lintas dan angkutan\nserta kelas jalan.\n\n  (3) Ketentuan . . .\n\n\n\n\n(3)  Ketentuan sebagaimana dimaksud pada ayat ( 2) huruf  b\nsampai dengan huruf e  tidak berlaku untuk Kendaraan\nBermotor yang dirancang dengan kecepatan tidak melebihi\n25 (dua puluh lima) kilometer per jam pada jalan datar."
+   }
+  },
+  {
+   "id": "ID-H2141-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\n\n(1)  Setiap motor pengge rak sebagaimana dimaksud dalam\nPasal 12 harus dibubuhkan nomor motor penggerak.\n\n(2)  Nomor motor penggerak sebagaimana dimaksud pada ayat\n(1) harus:\n\na. ditempatkan secara permanen pada bagian tertentu\npada motor penggerak;\nb. ditulis dalam bentuk embos ke dalam at au keluar atau\ndalam bentuk lain; dan\nc. mudah dilihat dan dibaca."
+   }
+  },
+  {
+   "id": "ID-H2141-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\n\n(1)  Sistem pembuangan sebagaimana dimaksud dalam Pasal\n7 huruf c  paling sedikit  terdiri atas manifold, peredam\nsuara, dan pipa pembuangan.\n\n(2)  Sistem pembuangan sebagaimana dimaksud pad a ayat (1)\nharus memenuhi persyaratan:\n\na. dirancang dan dibuat dari bahan yang cukup kuat;\nb. arah pipa pembuangan dibuat dengan posisi yang\ntidak mengganggu pengguna jalan lain;\nc. asap dari hasil pembuangan tidak mengarah pada\ntangki bahan bakar atau roda sumbu belakang\nKendaraan Bermotor; dan\nd. pipa pembuangan tidak melebihi sisi samping atau sisi\nbelakang Kendaraan Bermotor.\n\n(3) Pipa pembuangan sebagaimana dimaksud pada ayat (2 )\nharus diarahkan ke:\na. atas;\nb. belakang; atau\nc. sisi kanan disebelah belakang ruang penumpan g\ndengan sudut kemiringan tertentu terhadap garis\ntengah Kendaraan Bermotor;\nuntuk Kendaraan Bermotor selain Sepeda Motor.\n\n(4) Sistem . . .\n\n\n\n\n(4) Sistem pembuangan sebagaimana dimaksud pada ayat (2)\nharus diarahkan ke arah kanan bagian depan ruang\npengemudi, untuk Kendaraan B ermotor untuk\nmengangkut barang yang mudah terbakar.\n\n(5) Sistem pembuangan sebagaimana dimaksud pada ayat (2)\nharus diarahkan ke arah belakang pada sisi kanan, untuk\nMobil Bus."
+   }
+  },
+  {
+   "id": "ID-H2141-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\n\n(1)  Sistem penerus daya sebagaimana dimaksud dalam Pasal\n7 huruf d terdiri atas:\na. otomatis;\nb. manual; dan\nc. kombinasi otomatis dan manual.\n\n(2)  Sistem penerus daya sebagaimana dimaksud pada ayat (1)\nharus memenuhi persyaratan:\n\na. dapat dikendalikan dari tempat duduk pengemudi;\nb. Kendaraan Bermotor dapat bergerak maju dengan 1\n(satu) atau lebih tingkat kecepatan; dan\nc. Kendaraan Bermotor dapat bergerak mundur.\n\n(3)  Persyaratan sebagaimana dimaksud pada ayat (2) huruf c\ntidak berlaku untuk:\n\na. Sepeda Motor beroda dua; dan\nb. Sepeda Motor  beroda tiga yang roda nya dipasang\nsimetris terhadap bidang tengah  arah memanjang,\nyang memiliki JBB maksimum 400  (empat ratus)\nkilogram."
+   }
+  },
+  {
+   "id": "ID-H2141-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\n\n(1)  Sistem roda -roda sebagaimana dimaksud dalam Pasal 7\nhuruf e terdiri atas:\n\na. roda; dan\nb. sumbu roda.\n\n(2)  Roda sebagaimana dimaksud pada ayat (1) huruf a  terdiri\natas pelek, ban bertekanan, dan sumbu atau gabungan\nsumbu dan roda.\n\n\n (3) Ban . . .\n\n\n\n\n(3)  Ban bertekanan sebagaimana dimaksud pada ayat (2)\nharus memiliki adhesi yang cukup, baik pada jalan kering\nmaupun jalan basah.\n\n(4)  Pelek dan ban bertekanan sebagaimana dimaksud pada\nayat (2) yang digun akan pada Kendaraan Bermotor harus\nmemiliki ukuran dan kemampuan yang disesuaikan\ndengan JBB atau JBKB."
+   }
+  },
+  {
+   "id": "ID-H2141-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\n\nSistem suspensi sebagaimana dimaksud dalam Pasal 7 huruf f\nharus mampu menahan beban, getaran, dan kejutan."
+   }
+  },
+  {
+   "id": "ID-H2141-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\n\n(1) Sistem alat kemudi sebagaimana dimaksud dalam Pasal 7\nhuruf g meliputi:\n\na. roda kemudi atau stang kemudi; dan\nb. batang kemudi.\n\n(2) Sistem alat kemudi sebagaimana dimaksud pada ayat  (1)\nharus memenuhi persyaratan:\n\na. dapat digerakkan; dan\nb. roda kemudi  atau stang kemudi  dirancang dan\ndipasang yang tidak membahayakan pengemudi.\n\n(3) Sistem alat kemudi seb agaimana dimaksud pada ayat (1)\ndapat dilengkapi dengan tenaga bantu untuk membantu\npengemudi dalam mengendalikan Kendaraan."
+   }
+  },
+  {
+   "id": "ID-H2141-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\n\n(1) Sistem rem sebagaimana dimaksud dalam Pasal 7 huruf h\nmeliputi:\n\na. rem utama; dan\nb. rem parkir.\n\n(2) Dalam hal Kendaraan Bermotor dengan transmisi otomatis\nselain dilengkapi dengan sistem rem sebagaimana\ndimaksud pada ayat (1),  harus dilengkapi dengan sistem\nyang mampu menurunkan putaran mesin pada saat\ndilakukan pengereman."
+   }
+  },
+  {
+   "id": "ID-H2141-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20 "
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 20 . . .\n\n\n\n\nPasal 20\n\nRem utama sebagaimana dimaksud dalam Pasal 19 ayat (1)\nhuruf a harus memenuhi persyaratan:\na.  ditempatkan dekat dengan pengemudi; dan\nb.  bekerja pada semua roda Kendaraan sesuai dengan\nbesarnya beban pada masing-masing sumbu."
+   }
+  },
+  {
+   "id": "ID-H2141-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\n\nRem parkir sebagaimana dimaksud dalam Pasal 19 ayat (1)\nhuruf b harus memenuhi persyaratan:\na.  dapat dikendalikan dari ruang pengemudi dan mampu\nmenahan posisi Kendaraan dalam keadaan berhenti pada\njalan datar, tanjakan, maupun turunan; dan\nb.  dilengkapi dengan pengunci yang bekerja secara mekanis\natau sistem lain sesuai perkembangan teknologi."
+   }
+  },
+  {
+   "id": "ID-H2141-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\n\nSistem rem parkir seb agaimana dimaksud dalam Pasal 21\nhuruf b tidak berlaku bagi Sepeda Motor yang memiliki JBB\ndibawah 400 (empat ratus) kilogram."
+   }
+  },
+  {
+   "id": "ID-H2141-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\n\nSistem lampu dan alat pemantul cahaya sebagaimana\ndimaksud dalam Pasal 7 huruf i meliputi:\n\na.  lampu utama dekat berwarna putih atau kuning muda;\nb.  lampu utama jauh berwarna putih atau kuning muda;\nc.  lampu penunjuk arah  berwarna kuning tua dengan sinar\nkelap-kelip;\nd.  lampu rem berwarna merah;\ne.  lampu posisi depan berwarna putih atau kuning muda;\nf.  lampu posisi belakang berwarna merah;\ng.  lampu mundur dengan warna putih atau kuning muda\nkecuali untuk Sepeda Motor;\nh.  lampu penerangan tanda nomor Kendaraan Bermo tor di\nbagian belakang Kendaraan berwarna putih;\ni.  lampu isyarat peringatan bahaya berwarna kuning tua\ndengan sinar kelap-kelip;\n\n\n\n\nj. lampu . . .\n\n\n\n\nj.  lampu tanda batas dimensi Kendaraan Bermotor berwarna\nputih atau kuning muda untuk Kendaraan Bermotor yang\nlebarnya lebih dari 2.100 (dua ribu seratus) milimeter\nuntuk bagian depan dan berwarna merah untuk bagian\nbelakang;\nk.  alat pemantul cahaya berwarna merah  yang ditempatkan\npada sisi kiri dan kanan bagian belakang Kendaraan\nBermotor."
+   }
+  },
+  {
+   "id": "ID-H2141-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 24\n\n(1) Lampu utama dekat  dan lampu utama jauh sebagaimana\ndimaksud dalam Pasal 23 selain Sepeda Motor  harus\nmemenuhi persyaratan:\n\na. berjumlah 2 (dua) buah atau kelipatannya;\nb. dipasang pada bagian depan Kendaraan Bermotor;\nc. dipasang pada ketinggian tidak melebihi 1.500 (seribu\nlima ratus) milimeter dari permukaan jalan dan tidak\nmelebihi 400 (empat ratus) milimeter dari sisi bagian\nterluar Kendaraan; dan\nd. dapat memancarkan cahaya paling sedikit 40 (empat\npuluh) meter ke arah depan untuk lampu utama\ndekat dan 100 (seratus) meter ke arah depan untu k\nlampu utama jauh.\n\n(2) Untuk Sepeda Motor harus dilengkapi dengan lampu\nutama dekat  dan lampu utama jauh paling banyak dua\nbuah dan dapat memancarkan cahaya  paling sedikit 40\n(empat puluh) meter ke arah depan untuk lampu utama\ndekat dan 100 (seratus) meter ke arah depan untuk lampu\nutama jauh.\n\n(3) Apabila Sepeda Motor dilengkapi lebih dari 1 (satu) lampu\nutama dekat maka lampu utama dekat harus dipasang\nberdekatan."
+   }
+  },
+  {
+   "id": "ID-H2141-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\n\n(1) Lampu penunjuk arah sebagaimana dimaksud dalam\nPasal 23 huruf c harus memenuhi persyaratan:\n\na. berjumlah genap;\nb. dapat dilihat pada  waktu siang dan malam hari oleh\npengguna jalan lain;\n\nc. dipasang . . .\n\n\n\n\nc.  dipasang pada sisi kiri dan kanan bagian depan\nKendaraan Bermotor dengan ketinggian tidak\nmelebihi 1.500 (seribu lima ratus) milimeter; dan\nd.  dipasang pada s isi kiri dan kanan bagian belakang\nKendaraan Bermotor dengan ketinggian tidak\nmelebihi 1.500 (seribu lima ratus) milimeter.\n\n(2) Lampu penunjuk arah untuk Sepeda Motor dipasang\nsecara berpasangan di bagian depan dan bagian belakang\nSepeda Motor, sejajar di sisi kiri dan kanan."
+   }
+  },
+  {
+   "id": "ID-H2141-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\n\n(1) Lampu rem sebagaimana dimaksud dalam Pasal 23 huruf\nd selain Sepeda Motor, harus memenuhi persyaratan:\n\na. berjumlah paling sedikit 2 (dua) buah;\nb. mempunyai kekuatan cahaya lebih besar dari lampu\nposisi belakang tetapi tidak meny ilaukan bagi\npengguna jalan lain; dan\nc.  dipasang pada sisi kiri dan kanan bagian belakang\nKendaraan Bermotor dengan ketinggian tidak\nmelebihi 1.500 (seribu lima ratus) milimeter.\n\n(2) Dalam hal jumlah lampu rem lebih dari 2 (dua) buah,\ndapat ditempatkan di bagi an atas belakang Kendaraan\nBermotor bagian dalam atau luar.\n\n(3) Untuk Sepeda Motor lampu rem harus dipasang paling\nbanyak 2 (dua) buah pada bagian belakang."
+   }
+  },
+  {
+   "id": "ID-H2141-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\n\n(1) Lampu posisi depan sebagaimana dimaksud pada Pasal 23\nhuruf e  selain Sepeda Motor , harus me menuhi\npersyaratan:\n\na. berjumlah 2 (dua) buah;\nb. dipasang di bagian depan;\nc. dapat bersatu dengan lampu utama dekat;\n\n\n\n\nd. dipasang . . .\n\n\n\n\nd. dipasang pada sisi kiri dan kanan bagian belakang\nKendaraan Bermotor dengan ketinggian tidak\nmelebihi 1.500 (seribu lima ratus) milimeter dan tidak\nmenyilaukan pengguna jalan lain; dan\ne.  tepi terluar permukaan penyinaran lampu posisi\ndepan, tidak melebihi 400 (empat  ratus) milimeter\ndari sisi bagian terluar Kendaraan.\n\n(2) Untuk Sepeda Motor apabila mempunyai 2 (dua) lampu\nposisi depan, harus dipasang berdekatan."
+   }
+  },
+  {
+   "id": "ID-H2141-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\n\n(1) Lampu posisi belakang sebagaimana dimaksud dalam\nPasal 23 huruf f  selain Sepeda Motor , harus memenuhi\npersyaratan:\n\na.  berjumlah genap;\nb.  dipasang pada ketinggian tidak melebihi 2.100 (dua\nribu seratus) milimeter di samping kiri dan kanan\nbagian belakang Kendaraan dan harus dapat dilihat\npada malam serta tidak menyilaukan pengguna jalan\nlain; dan\nc.  tepi terluar permukaan penyinaran lampu posisi\nbelakang tidak melebihi 400 (empat ratus) milimeter\ndari sisi bagian terluar Kendaraan.\n\n(2) Lampu posisi belakang untuk Sepeda Motor  berjumlah\npaling banyak 2 (dua) buah."
+   }
+  },
+  {
+   "id": "ID-H2141-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\n\nLampu mundur sebagaimana dimaksud pada Pasal 23 huruf g\nharus memenuhi persyaratan:\n\na.  berjumlah paling banyak 2 (dua) buah;\nb. dipasang pada sisi kiri dan kanan bagian belakang\nKendaraan Bermotor dengan ketinggian tidak melebihi\n1.200 (seribu dua ratus) milimeter;\nc.  tidak menyilaukan pengguna jalan lain;\nd.  hanya menyala apabila penerus daya digunakan untuk\nposisi mundur; dan\ne.  dilengkapi tanda bunyi mundur untuk Kendaraan dengan\nJBB lebih dari 3.500 (tiga ribu lima ratus) kilogram."
+   }
+  },
+  {
+   "id": "ID-H2141-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30 "
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 30 . . .\n\n\n\n\nPasal 30\n\nLampu penerangan tanda nomor Kendaraan Bermotor\nsebagaimana dimaksud dalam Pasal 23 huruf h dipasang di\nbagian belakang dan d apat menyinari tanda nomor Kendaraan\nBermotor agar dapat dibaca pada jarak  paling sedikit 50 (lima\npuluh) meter dari belakang."
+   }
+  },
+  {
+   "id": "ID-H2141-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\n\nLampu isyarat peringatan bahaya sebagaimana dimaksud\ndalam Pasal 23 huruf i menggunakan lampu penunjuk arah\nyang menyala secara bersamaan untuk kedua arah dengan\nsinar kelap-kelip."
+   }
+  },
+  {
+   "id": "ID-H2141-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 32\n\n(1) Lampu tanda batas sebagaimana dimaksud dalam Pasal\n23 huruf j hanya dipersyaratkan bagi Kendaraan yang\nmemiliki lebar lebih dari 2.100 (dua ribu seratus)\nmilimeter.\n\n(2) Lampu tanda batas sebagaimana dimaksud pada ayat (1)\ndipasang di bagian  depan dan bagian belakang sisi kiri\natas dan sisi kanan atas."
+   }
+  },
+  {
+   "id": "ID-H2141-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 33\n\n(1) Alat pemantul cahaya sebagaimana dimaksud dalam Pasal\n23 huruf k harus memenuhi persyaratan:\n\na. dipasang secara berpasangan;\nb.  dapat dilihat oleh pengemudi Kendaraan lain yang\nberada di belakang Kendaraan pada malam hari dari\njarak paling sedikit  100 (seratus) meter apabila\npemantul cahaya tersebut disinari lampu utama\nKendaraan di belakangnya;\nc.  dipasang di bagian belakang Kendaraan Bermotor\npada ketinggian tidak melebihi 1.500 (seribu lima\nratus) milimeter; dan\nd.  tepi bagian terluar pemantul cahaya tidak melebihi\n400 (empat ratus) milimeter dari sisi terluar\nKendaraan.\n\n(2) Alat pemantul cahaya untuk Kereta Gandengan dan Kereta\nTempelan harus berbentuk segitiga.\n\n (3) Dalam . . .\n\n\n\n\n(3) Dalam hal a lat pemantul ca haya untuk mobil barang\nmenggunakan stiker, harus memantulkan cahaya.\n\n(4) Untuk Sepeda Motor dilarang menggunakan alat pemantul\ncahaya berbentuk segitiga."
+   }
+  },
+  {
+   "id": "ID-H2141-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 34\n\n(1)  Kendaraan Bermotor  dapat dilengkapi dengan lampu\nkabut yang berjumlah paling banyak 2 (dua)  buah\ndipasang di bagian depan Kendaraan.\n\n(2)  Lampu kabut sebagaimana dimaksud pada ayat (1)  harus\nmemenuhi persyaratan:\n\na. dengan cahaya warna putih atau kuning;\nb. titik tertinggi permukaan penyinaran tidak melebihi\ntitik tertinggi permukaan penyinaran dari la mpu\nutama dekat;\nc. dipasang pada ketinggian tidak melebihi 800 (delapan\nratus) milimeter;\nd. tepi terluar permukaan penyinaran lampu kabut tidak\nmelebihi 400 (empat ratus) milimeter dari sisi terluar\nKendaraan; dan\ne. tidak menyilaukan pengguna jalan."
+   }
+  },
+  {
+   "id": "ID-H2141-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 35\n\nKomponen pendukung sebagaimana dimaksud dalam Pasal 7\nhuruf j meliputi:\n\na.  pengukur kecepatan;\nb.  kaca spion;\nc.  penghapus kaca, kecuali Sepeda Motor;\nd.  klakson;\ne.  spakbor; dan\nf.  bumper, kecuali Sepeda Motor."
+   }
+  },
+  {
+   "id": "ID-H2141-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 36\n\n(1)  Pengukur kecepatan sebagaimana dimaksud  dalam Pasal\n35 huruf a  berupa alat pen unjuk kecepatan mekani k\ndan/atau alat penunjuk kecepatan elektronik.\n\n\n\n(2) Pengukur . . .\n\n\n\n\n(2)  Pengukur kecepatan sebagaimana dimaksud  pada ayat (1)\nharus dilengkapi dengan pengukur jarak dan dipasang\npada tempat yang mudah dilihat oleh pengemudi."
+   }
+  },
+  {
+   "id": "ID-H2141-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 37\n\nKaca spion Kendaraan Bermotor sebagaimana dimaksud dalam\nPasal 35 huruf b harus memenuhi persyaratan:\n\na.  berjumlah 2 (dua) buah atau lebih; dan\nb.  dibuat dari kaca atau bahan lain yang dipasang pada\nposisi yang dapat memberikan pandanga n ke arah\nsamping dan belakang dengan jelas tanpa mengubah jarak\ndan bentuk objek yang terlihat."
+   }
+  },
+  {
+   "id": "ID-H2141-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 38\n\n(1)  Penghapus kaca sebagaimana dimaksud dalam Pasal 35\nhuruf c harus memenuhi persyaratan:\n\na. paling sedikit berjumlah 1 ( satu) buah dipasang di\nbagian kaca depan;\nb. dilengkapi alat penyemprot air ke kaca; dan\nc. digerakkan secara mekanis dan/atau elektronis.\n\n(2)  Penghapus kaca sebagaimana dimaksud pada ayat (1)\nharus mampu membersihkan kaca depan."
+   }
+  },
+  {
+   "id": "ID-H2141-A39",
+   "no": 39,
+   "noLabel": {
+    "id": "Pasal 39"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 39\n\nKlakson sebagaimana dimaksud dalam Pasal 35 huruf d harus\nmengeluarkan bunyi dan dapat digunakan tanpa meng ganggu\nkonsentrasi pengemudi."
+   }
+  },
+  {
+   "id": "ID-H2141-A40",
+   "no": 40,
+   "noLabel": {
+    "id": "Pasal 40"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 40\n\n(1)  Spakbor sebagaimana dimaksud dalam Pasal 35 huruf e\nharus memiliki lebar paling sedikit selebar telapak ban.\n\n(2)  Spakbor sebagaimana dimaksud pada ayat (1) har us\nmampu mengurangi percikan air atau lumpur ke belakang\nKendaraan atau badan Kendaraan."
+   }
+  },
+  {
+   "id": "ID-H2141-A41",
+   "no": 41,
+   "noLabel": {
+    "id": "Pasal 41 "
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 41 . . .\n\n\n\n\nPasal 41\n\n(1)  Bumper sebagaimana dimaksud dalam Pasal 35 huruf f\nharus dipasang di:\n\na. depan dan belakang untuk Mobil Penumpang , Mobil\nBus dan Mobil tangki;\nb. depan untuk Mobil Barang selain mobil tangki.\n\n(2)  Bumper depan sebagaimana dimaksud pada ayat (1) tidak\nmenonjol ke depan lebih dari 500 (lima ratus ) milimeter\nmelewati bagian badan Kendaraan yang paling depan."
+   }
+  },
+  {
+   "id": "ID-H2141-A42",
+   "no": 42,
+   "noLabel": {
+    "id": "Pasal 42"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 42\n\nKetentuan lebih lanjut mengenai tata cara pem asangan\nkomponen pendukung diatur dengan peraturan menteri yang\nbertanggung jawab di bidang sarana dan prasarana lalu lintas\ndan angkutan jalan.\n\n\nParagraf 3\nPerlengkapan"
+   }
+  },
+  {
+   "id": "ID-H2141-A43",
+   "no": 43,
+   "noLabel": {
+    "id": "Pasal 43"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 43\n\nPerlengkapan sebagaimana dimaksud dalam P asal 6 ayat (2)\nhuruf b, selain Sepeda Motor terdiri atas:\n\na.  sabuk keselamatan;\nb.  ban cadangan;\nc.  segitiga pengaman;\nd.  dongkrak;\ne.  pembuka roda;\nf.  helm dan rompi pemantul cahaya bagi pengemudi\nKendaraan Bermotor  beroda empat ata u lebih yang tidak\nmemiliki Rumah-rumah; dan\ng.  peralatan pertolongan pertama pada kecelakaan."
+   }
+  },
+  {
+   "id": "ID-H2141-A44",
+   "no": 44,
+   "noLabel": {
+    "id": "Pasal 44"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 44\n\n(1)  Untuk kepentingan tertentu, Kendaraan Bermotor  dapat\ndilengkapi dengan lampu isyarat dan/atau sirene.\n\n(2)  Lampu isyarat sebagaimana dimaksud pada ayat (1) terdiri\natas:\na. lampu rotasi atau stasioner;\nb. lampu kilat; dan\nc. lampu bar lengkap.\n(3) Lampu . . .\n\n\n\n\n\n(3)  Lampu isyarat sebagaimana dimaksud pada ayat (2) huruf\na dipasang di  bagian atas kabin dan dapat memancarkan\ncahaya secara efektif.\n\n(4)  Lampu isyarat sebagaimana dimaksud pada ayat (2) huruf\nb dan huruf c dipasang di  bagian atas kabin  Kendaraan\npada sumbu horizontal sejajar dengan bidang median\nlongitudinal Kendaraan.\n\n(5)  Lampu isyarat sebagaimana dimaksud pada ayat (1) harus\nmemenuhi persyaratan:\n\na. terlihat di siang hari dari jarak paling sedikit 200 (dua\nratus) meter dari segala arah; dan\nb. lampu berbentuk batang memanjang.\n\n(6)  Panjang lampu sebagaimana dimaksud pada ayat (5) huruf\nb tidak boleh melebihi lebar kabin Kendaraan.\n\n(7)  Sirene sebagaimana dimaksud pada ayat (1) harus\nmemenuhi persyaratan:\n\na. dapat mengeluarkan suara secara terus menerus; dan\nb. dalam keadaan darurat dapat mengeluarkan suara\nsemakin meninggi."
+   }
+  },
+  {
+   "id": "ID-H2141-A45",
+   "no": 45,
+   "noLabel": {
+    "id": "Pasal 45"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 45\n\nKetentuan lebih lanjut mengenai tata cara penggunaan lampu\nisyarat dan sirene diatur dengan P eraturan Kepala Kepolisian\nNegara Republik Indonesia."
+   }
+  },
+  {
+   "id": "ID-H2141-A46",
+   "no": 46,
+   "noLabel": {
+    "id": "Pasal 46"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 46\n\n(1)  Sabuk kesel amatan sebagaimana dimaksud dalam Pasal\n43 huruf a harus dipasang paling sedikit di tempat duduk\npengemudi dan tempat duduk penumpang di samping\ntempat duduk pengemudi.\n\n(2)  Sabuk keselamatan sebagaimana dimaksud pada ayat (1)\nharus memenuhi persyaratan:\n\na. paling sedikit berjumlah 3  (tiga) jangkar untuk tempat\nduduk pengemudi dan tempat duduk penumpang\npaling pinggir di samping pengemudi serta paling\nsedikit berjumlah 2 (dua) jangkar untuk tempat duduk\npenumpang lainnya;\n\nb. tidak . . .\n\n\n\n\nb. tidak mempunyai tepi yang tajam; dan\nc. kepala pengunci harus dapat dioperasikan dengan\nmudah."
+   }
+  },
+  {
+   "id": "ID-H2141-A47",
+   "no": 47,
+   "noLabel": {
+    "id": "Pasal 47"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 47\n\n(1)  Ban cadangan sebagaimana dimaksud dalam Pasal 43\nhuruf b harus memiliki ukuran yang sama dengan ban\nyang terpasang pada Kendaraan tersebut.\n\n(2)  Ban cadangan sebagaimana dimaksud pada ayat (1)  dapat\nmemiliki lebar tapak yang berbeda dengan ban yang\nterpasang pada Kendaraan tersebut tetapi memiliki\ndiameter keseluruhan sama."
+   }
+  },
+  {
+   "id": "ID-H2141-A48",
+   "no": 48,
+   "noLabel": {
+    "id": "Pasal 48"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 48\n\n(1) Segitiga pengaman sebagaimana dimaksud dalam Pasal 43\n huruf c paling sedikit berjumlah 2 (dua) buah.\n\n(2) Segitiga pengaman berwarna merah  dan bersifat\n memantulkan cahaya."
+   }
+  },
+  {
+   "id": "ID-H2141-A49",
+   "no": 49,
+   "noLabel": {
+    "id": "Pasal 49"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 49\n\nDongkrak sebagaimana dimaksud dalam Pasal 43 huruf d\npaling sedikit mampu mengangkat muatan sumbu sesuai\ndengan muatan sumbu terberat Kendaraan Bermotor  yang\ndigunakan."
+   }
+  },
+  {
+   "id": "ID-H2141-A50",
+   "no": 50,
+   "noLabel": {
+    "id": "Pasal 50"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 50\n\nPembuka roda sebagaimana dimaksud dalam Pasal 43 huruf e\nharus mampu membuka roda Kendaraan Bermotor  yang\ndigunakan dan tidak merusak komponen yang ada pada roda."
+   }
+  },
+  {
+   "id": "ID-H2141-A51",
+   "no": 51,
+   "noLabel": {
+    "id": "Pasal 51"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 51\n\n(1)  Helm sebagaimana dimaksud dalam P asal 43 huruf f\nharus memenuhi Standar Nasional Indonesia.\n\n(2)  Rompi pemantul cahaya sebagaimana dimaksud dalam\nPasal 43 huruf f harus mampu memantulkan cahaya,\nkuat, dan tahan terhadap cuaca tertentu."
+   }
+  },
+  {
+   "id": "ID-H2141-A52",
+   "no": 52,
+   "noLabel": {
+    "id": "Pasal 52 "
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 52 . . .\n\n\n\n\n\nPasal 52\n\nPeralatan pertolongan pertama pada kecelakaan  sebagaimana\ndimaksud dalam Pasal 43 huruf g paling sedikit terdiri atas:\n\na.  obat antiseptic;\nb.  kain kassa;\nc.  kapas; dan\nd.  plester."
+   }
+  },
+  {
+   "id": "ID-H2141-A53",
+   "no": 53,
+   "noLabel": {
+    "id": "Pasal 53"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 53\n\nSetiap Sepeda Motor dengan atau tanpa kereta samping wajib\ndilengkapi helm Standar Nasional Indonesia  untuk pengemudi\ndan/atau penumpangnya.\n\nParagraf 4\nUkuran"
+   }
+  },
+  {
+   "id": "ID-H2141-A54",
+   "no": 54,
+   "noLabel": {
+    "id": "Pasal 54"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 54\n\n(1)  Ukuran Kendaraan Bermotor  selain Sepeda Motor harus\nmemenuhi persyaratan:\n\na. panjang tidak melebihi:\n1. 12.000 (dua belas ribu) milimeter untuk Kendaran\nBermotor tanpa Kereta Gandengan atau Kereta\nTempelan selain Mobil Bus;\n2. 13.500 (tiga belas ribu lima  ratus) milimeter\nuntuk Mobil Bus tunggal;\n3. 18.000 (delapan belas ribu) milimeter untuk\nKendaraan Bermotor yang dilengkapi dengan\nKereta Gandengan atau Kereta Tempelan.\nb. lebar tidak melebihi 2.500 (dua ribu lima ratus)\nmilimeter;\nc. tinggi tidak melebihi 4.200 ( empat ribu dua ratus)\nmilimeter dan tidak lebih dari 1,7 (satu koma tujuh)\nkali lebar Kendaraan;\nd. sudut pergi Kendaraan paling sedikit 8° (delapan\nderajat) diukur dari atas permukaan bidang atau jalan\nyang datar; dan\ne. jarak bebas antara bagian permanen pali ng bawah\nKendaraan Bermotor terhadap permukaan bidang jalan\ntidak bersentuhan dengan permukaan bidang jalan.\n\n(2) Panjang . . .\n\n\n\n\n\n(2)  Panjang bagian Kendaraan yang menjulur ke belakang\ndari sumbu paling belaka ng maksimum 62,50 % (enam\npuluh dua koma lima  nol persen) dari jarak sumbunya,\nsedangkan yang menjulur ke depan dari sumbu paling\ndepan maksimum 47,50% (empat puluh tujuh koma lima\nnol persen) dari jarak sumbunya.\n\n(3)  Dalam hal Kendaraan Bermotor  memiliki tinggi\nkeseluruhan lebih dari 3.500 (tiga ribu lima ratus)\nmilimeter, wajib dilengkapi dengan tanda.\n\n(4)  Tanda sebagaimana dimaksud pada ayat (3) berupa\ntulisan yang mudah dilihat oleh pengemudi di dalam\nruang pengemudi."
+   }
+  },
+  {
+   "id": "ID-H2141-A55",
+   "no": 55,
+   "noLabel": {
+    "id": "Pasal 55"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 55\n\n(1)  Ukuran bak muatan Mobil Barang disesuaikan dengan\nkonfigurasi sumbu, JBB, JBI, dan spesifikasi t ipe\nlandasan Kendaraan Bermotor.\n\n(2)  Bak muatan Mobil Barang seb agaimana dimaksud pada\nayat (1) terdiri atas:\n\na. bak muatan terbuka; dan\nb. bak muatan tertutup.\n\n(3)  Bak muatan terbuka dan tertutup sebagaimana dimaksud\npada ayat (2) harus memenuhi persyaratan paling sedikit:\n\na. panjang, lebar , dan tinggi ukuran bak muatan harus\nsesuai dengan spesifikasi teknis Kendaraan Bermotor\ndan daya angkut;\nb. jarak antara dinding terluar bagian belakang kabin\ndengan bak muatan bagian depan paling sedikit 150\n(seratus lima puluh) mi limeter untuk kendaraan\nsumbu belakang tunggal dan 200 (dua ratus) milimeter\nuntuk Kendaraan Bermotor dengan sumbu belakang\nganda atau lebih;\nc. dinding terluar bak muatan bagian belakang tidak\nmelebihi ujung landasan bagian belakang kecuali\nuntuk dump truck; dan\nd. lebar maksimum bak muatan terbuka tidak melebihi:\n\n1. 50 (lima puluh) milimeter dari ban terluar pada\nsumbu kedua atau sumbu belakang Kendaraan\nuntuk Kendaraan Bermotor sumbu ganda; atau\n2. lebar . . .\n\n\n\n\n2. lebar kabin ditambah 50 (lima puluh ) milimeter\npada sisi kiri dan 50 (lima puluh) milimeter pada\nsisi kanan untuk Kendaraan Bermotor sumbu\ntunggal.\n\n(4)  Dalam hal tinggi bak muatan terbuka pada Mobil Barang\nsebagaimana dimaksud pada ayat (2) huruf a lebih rendah\ndari jendela kabin belakang, pada jendela kabin belakang\nMobil Barang harus dipasang teralis.\n\n(5) Untuk bak muatan tertutup selain memenuhi persyaratan\nsebagaimana dimak sud pada ayat ( 3) harus memenuhi\npersyaratan tinggi bak muatan tertutup diukur dari\npermukaan tanah  paling tinggi 4.200 (empat ribu dua\nratus) milimeter dan tidak lebih dari 1,7 (satu koma tujuh)\nkali lebar Kendaraan Bermotor."
+   }
+  },
+  {
+   "id": "ID-H2141-A56",
+   "no": 56,
+   "noLabel": {
+    "id": "Pasal 56"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 56\n\nJBB dan/atau JBKB dihitung berdasarkan:\n\na.  kekuatan konstruksi;\nb.  daya motor;\nc.  kapasitas pengereman;\nd.  kemampuan ban;\ne.  kekuatan sumbu; dan\nf.  ketinggian tanjakan jalan."
+   }
+  },
+  {
+   "id": "ID-H2141-A57",
+   "no": 57,
+   "noLabel": {
+    "id": "Pasal 57"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 57\n\n\n(1)  JBI dan JBKI dihitung berdasarkan:\n\na. berat kosong Kendaraan;\nb. JBB dan/atau JBKB;\nc. dimensi Kendaraan dan bak muatan;\nd. titik berat muatan dan pengemudi;\ne. kelas jalan; dan\nf. jumlah tempat duduk yang tersedia, bagi Mobil Bus.\n\n(2)  JBI maksimum sama dengan JBB.\n\n(3)  JBKI maksimum sama dengan JBKB.\n\n\n\n\n\n\nParagraf 5 . . .\n\n\n\n\nParagraf 5\n\nKaroseri"
+   }
+  },
+  {
+   "id": "ID-H2141-A58",
+   "no": 58,
+   "noLabel": {
+    "id": "Pasal 58"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 58\n\n(1)  Karoseri sebagaimana dimaksud dalam P asal 6 ayat (2)\nhuruf d paling sedikit meliputi:\n\n\na. kaca;\nb. pintu;\nc. engsel;\nd. tempat duduk;\ne. tempat pemasangan tanda nomor Kendaraan\n Bermotor.\n\n(2)  Karoseri sebagaimana dimaksud pada ayat (1) harus\nmemenuhi persyaratan:\n\na. dirancang kuat untuk menahan semua jenis beban\nsewaktu Kendaraan Bermotor dioperasikan;\nb. diikat kukuh pada rangka landasan; dan\nc. pada bagian dalam Kendaraan Bermotor tidak terdapat\nbagian yang runcing yang dapat membahayakan\nkeselamatan.\n\n(3)  Kaca sebagaimana dimaksud pada ayat (1) huruf a terdiri\natas kaca depan , kaca belakang, dan jendela Kendaraan\nBermotor dan Kereta Gandengan.\n\n(4)  Kaca sebagaimana dimaksud pada ayat (3) harus\nmemenuhi persyaratan:\n\n\na. tahan goresan;\nb. bening dan tidak mudah pudar;\nc. tidak membahayakan apabila kaca pecah; dan\nd. tidak mengganggu penglihatan pengemudi.\n\n(5)  Kaca sebagaimana dimaksud pada ayat (3)  mempunyai\ntingkat kegelapan tertentu.\n\n(6)  Pintu sebagaimana dimaksud pada ayat (1)  huruf b harus\ndirancang sehingga tidak dapat terbuka tanpa disengaja.\n\n(7)  Engsel sebagaimana dimaksud pada ayat (1) huruf c harus\ndipasang pada sisi pintu Kendaraan.\n\n(8)  Tempat duduk sebagaimana dimaksud pada ayat (1) huruf\nd terdiri atas tempat duduk pengemudi dan tempat duduk\npenumpang.\n(9) Tempat . . .\n\n\n\n\n(9)  Tempat duduk pengemudi sebagaimana dimaksud pada\nayat (8) harus memenuhi persyaratan:\na. ditempatkan pada bagian dalam badan Kendaraan\nyang memungkinkan pengemudi dapat mengendalikan\nKendaraannya;\nb. mempunyai l ebar paling sedikit  400 (empat ratus)\nmilimeter dan simetris dengan pusat roda kemudi;\nc. memungkinkan pengemudi mempunyai pandangan\nyang bebas ke depan dan ke samping; dan\nd. tidak ada gangguan cahaya dari dalam Kendaraan.\n\n(10) Tempat pemasangan tanda nomor Kendaraan Bermotor\nsebagaimana dimaksud pada ayat (1) huruf e harus\nmemenuhi persyaratan:\n\na. ditempatkan pada sisi bagian depan dan belakang\nKendaraan Bermotor; dan\nb. dilengkapi lampu tanda nomor Kendaraan Bermotor\npada sisi bagian belakang Kendaraan Bermotor.\n\nParagraf 6\n\n Rancangan Teknis Kendaraan sesuai dengan Peruntukannya"
+   }
+  },
+  {
+   "id": "ID-H2141-A59",
+   "no": 59,
+   "noLabel": {
+    "id": "Pasal 59"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 59\n\nRancangan teknis Kendaraan sesuai dengan peruntukannya\nsebagaimana dimaksud dalam P asal 6 ayat (2) huruf e terdiri\natas Kendaraan Bermotor  untuk mengangkut orang  atau\nKendaraan Bermotor untuk mengangkut barang.\n\nParagraf 7\n\nPemuatan"
+   }
+  },
+  {
+   "id": "ID-H2141-A60",
+   "no": 60,
+   "noLabel": {
+    "id": "Pasal 60"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 60\n\nPemuatan sebagaimana dimaksud dalam Pasal 6 ayat (2) huruf\nf merupakan tata cara untuk memuat orang dan/atau barang.\n\n\n\n\n\n\nParagraf 8 . . .\n\n\n\n\nParagraf 8\n\nPenggunaan"
+   }
+  },
+  {
+   "id": "ID-H2141-A61",
+   "no": 61,
+   "noLabel": {
+    "id": "Pasal 61"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 61\n\n(1) Sepeda Motor sebagaimana dimaksud dalam Pasal 3 ayat\n(1) huruf a hanya dapat digunakan untuk pengemudi dan\n1 (satu) penumpang.\n\n(2) Mobil Penumpang  sebagaimana dimaksud dalam P asal 3\nayat ( 1) huruf b hanya digunakan untuk mengangkut\npaling banyak 7 (tujuh) penumpang selain pengemudi.\n(3) Mobil Bus sebagaimana dimaksud dalam P asal 3 ayat (1)\nhuruf c hanya digunakan untuk mengangkut lebih dari 7\n(tujuh) penumpang selain pengemudi.\n(4) Mobil Barang sebagaimana dimaksud dalam P asal 3 ayat\n(1) huruf d digunakan untuk mengangkut barang.\n\n(5) Kendaraan khusus sebagaimana dimaksud dalam P asal 3\nayat ( 1) huruf e digunakan untuk keperluan Tentara\nNasional Indonesia, Kepolisian Negara Republik Indonesia,\nalat berat dan kendaraan khusus untuk penyandang\ncacat.\n\nParagraf 9\n\nPenggandengan Kendaraan Bermotor"
+   }
+  },
+  {
+   "id": "ID-H2141-A62",
+   "no": 62,
+   "noLabel": {
+    "id": "Pasal 62"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 62\n\n(1) Penggandengan Kendaraan Bermotor  sebagaimana\ndimaksud dalam Pasal 6 ayat (2) huruf h merupakan cara\nmenggandengkan Kendaraan Bermotor  dengan Kereta\nGandengan atau bus gandeng.\n\n(2) Penggandengan sebagaimana dimaksud pada ayat (1)\ndilakukan dengan menggunakan alat perangkai.\n\n(3) Ketentuan lebih lanjut mengenai tata cara penggandengan\ndiatur dengan peraturan menteri yang bertanggungjawab\ndi bidang sarana dan prasarana lalu lintas dan angkutan\njalan.\n\n\n\n\nParagraf 10 . . .\n\n\n\n\nParagraf 10\nPenempelan Kendaraan Bermotor"
+   }
+  },
+  {
+   "id": "ID-H2141-A63",
+   "no": 63,
+   "noLabel": {
+    "id": "Pasal 63"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 63\n\nPenempelan Kendaraan Bermotor  sebagaimana dimaksud\ndalam Pasal 6 ayat (2) huruf i dilakukan dengan cara:\n\na.  menggunakan alat perangkai;\nb.  menggunakan roda kelima yang dilengkapi dengan alat\npengunci; atau\nc.  dilengkapi kaki-kaki penopang.\n\nBagian Kedua\nPersyaratan Laik Jalan Kendaraan Bermotor\n\nParagraf 1\nUmum"
+   }
+  },
+  {
+   "id": "ID-H2141-A64",
+   "no": 64,
+   "noLabel": {
+    "id": "Pasal 64"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 64\n\n(1)  Setiap Kendaraan Bermotor  yang dioperasikan di jalan\nharus memenuhi persyaratan laik jalan.\n\n(2)  Persyaratan laik jalan sebagaimana dimaksud pada ayat\n(1) ditentukan berdasarkan kinerja minimal Kendaraan\nBermotor yang paling sedikit meliputi:\n\na. emisi gas buang;\nb. kebisingan suara;\nc. efisiensi sistem rem utama;\nd. efisiensi sistem rem parkir;\ne. kincup roda depan;\nf. suara klakson;\ng. daya pancar dan arah sinar lampu utama;\nh. radius putar;\ni. akurasi alat penunjuk kecepatan;\nj. kesesuaian kinerja roda dan kondisi ban; dan\nk. kesesuaian daya mesin penggerak terhadap berat\n Kendaraan.\n\n\n\n\n\nParagraf 2 . . .\n\n\n\n\nParagraf 2\n\nEmisi Gas Buang"
+   }
+  },
+  {
+   "id": "ID-H2141-A65",
+   "no": 65,
+   "noLabel": {
+    "id": "Pasal 65"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 65\n\n(1) Emisi gas buang sebagaimana dimaksud dalam Pasal 64\nayat (2) huruf a diukur berdasarkan  kandungan polutan\nyang dikeluarkan Kendaraan Bermotor.\n\n(2) Kandungan polutan sebagaimana dimaksud pada ayat (1)\ntidak melebihi ambang batas.\n\n(3) Ambang batas s ebagaimana dimaksud pada ayat ( 2)\nditetapkan oleh menteri yang menyelenggarakan urusan\npemerintahan di bidang lingkungan hidup.\n\n(4) Dalam menetapkan ambang batas sebagaimana dimaksud\npada ayat (3) harus  berkoordinasi dengan menteri yang\nbertanggungjawab di  bidang sarana dan prasarana lalu\nlintas dan angkutan jalan.\n\nParagraf 3\n\nKebisingan Suara"
+   }
+  },
+  {
+   "id": "ID-H2141-A66",
+   "no": 66,
+   "noLabel": {
+    "id": "Pasal 66"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 66\n\n(1)  Kebisingan suara sebagaimana dimaksud dalam Pasal 64\nayat (2) huruf b diukur berdasarkan  energi suara dalam\nsatuan desibel (A) atau dB (A).\n\n(2)  Energi suara sebagaimana dimaksud pada ayat (1) tidak\nmelebihi ambang batas.\n\n(3)  Ambang batas s ebagaimana dimaksud pada ayat ( 2)\nditetapkan oleh menteri yang menyelenggarakan urusan\npemerintahan di bidang lingkungan hidup.\n\n(4)  Dalam menetapkan ambang batas sebagaimana dimaksud\npada ayat (3) harus  berkoordinasi dengan menteri yang\nbertanggungjawab di  bidang sarana dan prasarana lalu\nlintas dan angkutan jalan.\n\n\n\n\n\n\n\nParagraf 4 . . .\n\n\n\n\nParagraf 4\n\nEfisiensi Sistem Rem"
+   }
+  },
+  {
+   "id": "ID-H2141-A67",
+   "no": 67,
+   "noLabel": {
+    "id": "Pasal 67"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 67\n\n(1) Efisiensi sistem rem sebagaimana dimaksud dalam Pasal\n64 ayat (2) huruf c  dan huruf d  harus memenuhi hasil\npengukuran dengan perlambatan paling sedikit 5 (lima)\nmeter per detik kuadrat.\n\n(2) Ketentuan mengenai ukuran perlambatan sebagaimana\ndimaksud pada ayat (1) ditetapkan oleh  menteri yang\nbertanggungjawab di  bidang sarana dan prasarana lalu\nlintas dan angkutan jalan.\n\nParagraf 5\n\nKincup Roda Depan"
+   }
+  },
+  {
+   "id": "ID-H2141-A68",
+   "no": 68,
+   "noLabel": {
+    "id": "Pasal 68"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 68\n\nKincup roda depan sebagaimana dimaksud dalam Pasal 64 ayat\n(2) huruf e dengan batas toleransi lebih kurang 5 (lima)\nmilimeter per meter (mm/m).\n\n\nParagraf 6\n\nSuara Klakson"
+   }
+  },
+  {
+   "id": "ID-H2141-A69",
+   "no": 69,
+   "noLabel": {
+    "id": "Pasal 69"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 69\n\nSuara klakson sebagaimana dimaksud dalam Pasal 64 ayat (2)\nhuruf f paling re ndah 83 (delapan puluh tiga) desibel atau dB\n(A) dan paling tinggi 118 (sera tus delapan belas) desibel atau\ndB (A).\n\nParagraf 7\n\nDaya Pancar Dan Arah Sinar Lampu Utama"
+   }
+  },
+  {
+   "id": "ID-H2141-A70",
+   "no": 70,
+   "noLabel": {
+    "id": "Pasal 70"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 70\n\nDaya pancar dan arah sinar lampu utama sebagaimana\ndimaksud dalam Pasal 64 ayat (2) huruf g meliputi:\n\na.  daya pancar lampu utama lebih dari  atau sama dengan\n12.000 (dua belas ribu) candela;\nb. arah . . .\n\n\n\n\n\nb.  arah sinar lampu utama tidak lebih dari 0O 34’ (nol derajat\ntiga puluh empat menit) ke kanan dan 1O 09’ (satu derajat\nnol sembilan menit) ke kiri dengan pemasangan lampu\ndalam posisi yang tidak melebihi 1,3% (persen) dari selisih\nantara ketinggian arah sinar lampu pada saat tanpa\nmuatan dan pada saat bermuatan.\n\nParagraf 8\n\nRadius Putar"
+   }
+  },
+  {
+   "id": "ID-H2141-A71",
+   "no": 71,
+   "noLabel": {
+    "id": "Pasal 71"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 71\n\n(1) Radius putar sebagaimana dimaksud dalam Pasal 64 ayat\n(2) huruf h untuk Kendaraan Bermotor tanpa Kereta\nGandengan atau Kereta Tempelan maksimum 12.000 (dua\nbelas ribu) milimeter.\n\n(2)  Radius putar Kendaraan Bermotor dengan Kereta\nGandengan atau Kereta Tempelan maksimum 18.000\n(delapan belas ribu) milimeter.\n\nParagraf 9\n\nAkurasi Alat Penunjuk Kecepatan"
+   }
+  },
+  {
+   "id": "ID-H2141-A72",
+   "no": 72,
+   "noLabel": {
+    "id": "Pasal 72"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 72\n\n(1)  Akurasi alat penunjuk kecepatan sebagaimana dimaksud\ndalam Pasal 64 ayat (2) huruf i diukur menggunakan alat\npengukur kecepatan  pada kecepatan tertentu yang\nmemberikan hasil pengukuran yang sama antara alat uji\ndengan alat penunjuk kecepatan.\n\n(2)  Dalam hal hasil pengukuran sebagaimana dimaksud pada\nayat (1) tidak sama dengan alat penunjuk kecepatan dapat\ndiberikan batas toleransi.\n\n(3)  Ketentuan lebih lanjut mengenai kecepatan tertentu dan\nbatas toleransi  diatur dengan peraturan  menteri yang\nbertanggungjawab di  bidang sarana dan prasarana  lalu\nlintas dan angkutan jalan.\n\n\nParagraf 10 . . .\n\n\n\n\nParagraf 10\n\nKesesuaian Kinerja Roda dan Kondisi Ban"
+   }
+  },
+  {
+   "id": "ID-H2141-A73",
+   "no": 73,
+   "noLabel": {
+    "id": "Pasal 73"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 73\n\nKesesuaian kinerja roda dan kondisi ban sebagaimana\ndimaksud dalam Pasal 64 ayat (2) huruf j untuk kedalaman\nalur ban tidak boleh kurang dari 1 (satu) millimeter.\n\nParagraf 11\n\nKesesuaian Daya Mesin Penggerak terhadap Berat Kendaraan"
+   }
+  },
+  {
+   "id": "ID-H2141-A74",
+   "no": 74,
+   "noLabel": {
+    "id": "Pasal 74"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 74\n\n(1) Kesesuaian daya mesin penggerak terhadap berat\nKendaraan sebagaimana dimaksud dalam Pasal 64 ayat (2)\nhuruf k  selain mobil penarik dan sepeda motor  harus\nmemiliki perbandingan antara daya dan berat total\nKendaraan berikut muatannya  paling sedikit  4,50 (empat\nkoma lima nol) kilowatt setiap 1.000 (seribu) kilogram dari\nJBB.\n\n(2) Kesesuaian daya mesin penggerak terhadap  berat\nKendaraan untuk mobil penarik sebagaimana dimaksud\npada ayat (1) harus memiliki perbanding an antara daya\ndan berat total Kendaraan berikut muatannya  paling\nsedikit 5,50 ( lima koma lima nol ) kilowatt setiap 1.000\n(seribu) kilogram dari JBKB."
+   }
+  },
+  {
+   "id": "ID-H2141-A75",
+   "no": 75,
+   "noLabel": {
+    "id": "Pasal 75"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 75\n\nKetentuan lebih lanjut mengenai persyaratan laik jalan\nsebagaimana dimaksud dalam Pasal 64 ayat (2) huruf c sampai\ndengan huruf k diatur dengan peraturan menteri yang\nbertanggungjawab di  bidang sarana dan prasarana lalu lintas\ndan angkutan jalan.\n\nBagian Ketiga\n\nPersyaratan Teknis Tambahan\n\nParagraf 1\n\nPersyaratan Teknis Tambahan Sepeda Motor"
+   }
+  },
+  {
+   "id": "ID-H2141-A76",
+   "no": 76,
+   "noLabel": {
+    "id": "Pasal 76"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 76\n\n(1) Ketentuan efisiensi sistem rem  sebagaimana dimaksud\ndalam Pasal 64 ayat (2) huruf c dan huruf d  tidak berlaku\nuntuk roda kereta samping yang dipasang  pada Sepeda\nMotor.\n(2) Sepeda . . .\n\n\n\n\n\n(2) Sepeda Motor yang mempunyai roda tiga, harus dilengkapi\ndengan rem parkir."
+   }
+  },
+  {
+   "id": "ID-H2141-A77",
+   "no": 77,
+   "noLabel": {
+    "id": "Pasal 77"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 77\n\n(1)  Kereta samping yang dipasang pada Sepeda Motor roda\ndua, harus dilengkapi:\n\na. lampu posisi depan;\nb. lampu posisi belakang;\nc. 1 (satu) pemantul cah aya pada tepi terluar bagian\nbelakang; dan\nd. lampu penunjuk arah yang dipasang di sisi kiri bagian\ndepan dan belakang Sepeda Motor.\n\n(2)  Lampu posisi depan dan lampu posisi belakang kereta\nsamping sebagaimana dimaksud pada ayat (1) huruf a dan\nhuruf b harus me nyala apabila lampu posisi belakang\nSepeda Motor dinyalakan.\n\n(3)  Sepeda Motor yang mempunyai tiga roda dipasang secara\nsimetris terhadap bidang sumbu Sepeda Motor yang\nmembujur, dan yang diperlakukan sebagai Sepeda Motor,\nharus dilengkapi dengan lampu sebag aimana dimaksud\npada ayat (1).\n\n(4)  Lebar Sepeda Motor sebagaimana dimaksud pada ayat (1)\ntidak melebihi 1.300 (seribu tiga ratus) millimeter."
+   }
+  },
+  {
+   "id": "ID-H2141-A78",
+   "no": 78,
+   "noLabel": {
+    "id": "Pasal 78"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 78\n\nLebar Kereta Gandengan yang dapat ditarik oleh Sepeda Motor\nmaksimum 1.000 (seribu) milimeter."
+   }
+  },
+  {
+   "id": "ID-H2141-A79",
+   "no": 79,
+   "noLabel": {
+    "id": "Pasal 79"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 79\n\nKetentuan lebih lanjut mengenai persyaratan teknis tambahan\nuntuk Sepeda Motor  diatur dengan peraturan menteri yang\nbertanggungjawab di  bidang sarana dan prasarana lalu lintas\ndan angkutan jalan.\n\n\n\n\nParagraf 2 . . .\n\n\n\n\nParagraf 2\n\nPersyaratan Teknis Tambahan Kendaraan Bermotor"
+   }
+  },
+  {
+   "id": "ID-H2141-A80",
+   "no": 80,
+   "noLabel": {
+    "id": "Pasal 80"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 80\n\nSelain harus dilengkapi dengan rem utama dan rem pa rkir\nsebagaimana dimaksud dalam Pasal 64 ayat (2) huruf c dan\nhuruf d , Kendaraan Bermotor dengan JBB lebih dari 7.000\n(tujuh ribu) kilogram harus dilengkapi dengan rem pelambat."
+   }
+  },
+  {
+   "id": "ID-H2141-A81",
+   "no": 81,
+   "noLabel": {
+    "id": "Pasal 81"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 81\n\n(1)  Mobil Bus yang dirancang untuk mengangkut penumpang\nkurang dari 15 (lima belas) orang tidak termasuk\npengemudi, harus mempunyai paling sedikit 1 (satu) pintu\nkeluar dan/atau masuk penumpang pada dinding kiri\nbagian depan atau belakang, yang lebarnya paling sedikit\n650 (enam ratus lima puluh) milimeter dan meliputi\nseluruh tinggi dinding.\n\n(2) Mobil Bus yang dirancang untuk mengangkut penumpang\nsebanyak 15 (lima belas) orang atau lebih, tidak termasuk\npengemudi, harus dilengkapi paling sedikit:\n\na. 1 ( satu) pintu keluar dan/atau mas uk yang lebar nya\npaling sedikit 1.200 (seribu dua ratus) milimeter atau 2\n(dua) pintu dengan lebar paling sedikit 550 (lima ratus\nlima puluh) milimeter untuk pintu depan dan 650\n(enam ratus lima puluh) milimeter untuk pintu\nbelakang;\n\nb. tinggi pintu sebagaimana dimaksud dalam huruf a\nmeliputi seluruh dinding mobil bus atau  paling sedikit\n1.900 (seribu sembilan ratus) milimeter  untuk Mobil\nBus yang tingginya lebih dari 2.250 (dua ribu dua\nratus lima puluh ) milimeter  diukur dari permukaan\ntanah.\n\n(3)    Pintu sebagaimana dimaksud pada ayat (1) dan ayat (2)\nharus menjamin kemudahan penggunaannya dan tidak\nterhalang.\n\n(4)  Anak tangga paling bawah pada pintu sebagaimana\ndimaksud pada ayat (1) dan ayat (2) paling tinggi 350 (tiga\nratus lima puluh) milimeter diukur dari permukaan jalan\ndan lebar paling sedikit 400 (empat ratus) milimeter.\n\n(5)  Dalam hal t angga pintu dapat dilipat, harus dikonstruksi\nsehingga anak tangga selalu berada pada tempatnya\nsecara kukuh dan memenuhi ketentuan sebagaimana\ndimaksud pada ayat (4) jika pintu dibuka."
+   }
+  },
+  {
+   "id": "ID-H2141-A82",
+   "no": 82,
+   "noLabel": {
+    "id": "Pasal 82 "
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 82 . . .\n\n\n\n\nPasal 82\n\n(1) Tinggi ruang penumpang Kendaraan  bermotor paling\nsedikit:\n\na. 1.700 (seribu tujuh ratus) milimeter, untuk Mobil Bus\nyang dilengkapi dengan tempat berdiri;\nb. 1.500 (seribu lima ratus) milimeter, untuk Mobil Bus\nyang tidak dilengkapi dengan tempat berdiri.\n\n(2) Tinggi ruang sebagaimana dimaksud pada ayat (1) diukur\n400 (empat ratus) milimeter dari dinding sisi kiri atau\nkanan dalam Kendaraan Bermotor."
+   }
+  },
+  {
+   "id": "ID-H2141-A83",
+   "no": 83,
+   "noLabel": {
+    "id": "Pasal 83"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 83\n\n(1)  Selain pintu penumpang sebagaimana dimaksud dalam\nPasal 81, Mobil Bus harus mempunyai akses keluar pada\nsisi kanan dan kiri untuk keadaan darurat.\n\n(2) Akses keluar sebagaimana dimaksud pada ayat (1) dapat\nberupa jendela dan/atau pintu.\n\n(3)  Akses keluar sebagaimana dimaksud pada ayat (1) paling\nsedikit berjumlah:\n\na. 1 (satu) akses keluar pada sisi kanan  dan kiri, apabila\njumlah tempat duduk  tidak lebih dari  26 (dua puluh\nenam);\nb. 2 (dua) akses keluar pada sisi kanan  dan kiri, apabila\njumlah tempat duduk  27 (dua puluh  tujuh) sampai\ndengan 50 (lima puluh);\nc. 3 (tiga) akses keluar pada sisi  kanan dan kiri, apabila\njumlah tempat duduk  51 (lima puluh  satu) sampai\ndengan 80 (delapan puluh);\nd. 4 (empat) akses keluar pada sisi  kanan dan kiri,\napabila jumlah tempat duduk  lebih dari  80 (delapan\npuluh).\n\n(4) Akses keluar untuk Mobil Bus sebagaimana dimaksud\npada ayat (3) huruf b, huruf c, dan huruf d satu\ndiantaranya harus berupa pintu.\n\n(5)  Dalam hal pada bagian belakang mobil bus terdapat pintu\nyang lebarnya paling sedikit 430 (empat ratus tiga puluh)\nmilimeter, jumlah akses keluar sebagaima na dimaksud\npada ayat (3) dapat dikurangi satu.\n\n(6)  Akses keluar berupa jendela sebagaimana dimaksud pada\nayat (2) harus memenuhi persyaratan:\n\na. memiliki ukuran paling sedikit 600 (enam ratus)\nmilimeter kali 430 (empat ratus tiga puluh) milimeter;\nb. mudah . . .\n\n\n\n\nb. mudah dibuka atau dirusak;\nc. sudut jendela tidak  runcing; dan\nd. tidak terhalang apapun.\n\n(7)  Akses keluar berupa pintu sebagaimana dimaksud pada\nayat ( 2) pada dinding sisi kanan harus memenuhi\npersyaratan:\n\na. memiliki lebar paling sedikit 430 (empat ratus tiga\npuluh)  milimeter; dan\nb. mudah dibuka dari dalam."
+   }
+  },
+  {
+   "id": "ID-H2141-A84",
+   "no": 84,
+   "noLabel": {
+    "id": "Pasal 84"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 84\n\n(1)  Akses keluar sebagaimana dimaksud dalam Pasal 83\ndiberi tanda dengan tulisan yang menyatakan akses keluar\ndan penjelasan mengenai tata cara membukanya.\n\n(2)  Tempat duduk di dekat akses keluar sebagaimana\ndimaksud pada ayat (1) harus mudah dilipat."
+   }
+  },
+  {
+   "id": "ID-H2141-A85",
+   "no": 85,
+   "noLabel": {
+    "id": "Pasal 85"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 85\n\nMobil Bus harus dilengkapi lorong dengan lebar  paling sedikit\n350 (tiga ratus lima puluh) milimeter."
+   }
+  },
+  {
+   "id": "ID-H2141-A86",
+   "no": 86,
+   "noLabel": {
+    "id": "Pasal 86"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 86\n\n(1) Mobil Bus yang digunakan untuk angkutan siswa sekolah\npada sisi luar bagian depan dan belakan g ditulis tanda\nberupa tulisan bus sekolah.\n\n(2)  Mobil Bus sebagaimana dimaksud pada ayat (1)  harus\ndilengkapi dengan lampu berwarna merah bertuliskan\nberhenti dan dipasang di bawah kaca belakang."
+   }
+  },
+  {
+   "id": "ID-H2141-A87",
+   "no": 87,
+   "noLabel": {
+    "id": "Pasal 87"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 87\n\n(1)  Pintu masuk dan/ atau keluar Mobil Bus sekolah\ndilengkapi dengan anak tangga.\n\n(2)  Jarak antara anak tangga paling tinggi 200 (dua ratus)\nmilimeter dan jarak antara permukaan tanah dengan anak\ntangga terbawah paling tinggi 300 (tiga ratus) milimeter.\n\n(3) Ukuran lebar dan tinggi pintu masuk dan /atau keluar\nsebagaimana dimaksud pada ayat (1) harus memenuhi\nketentuan sebagaimana ditetapkan dalam Pasal 83."
+   }
+  },
+  {
+   "id": "ID-H2141-A88",
+   "no": 88,
+   "noLabel": {
+    "id": "Pasal 88 "
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 88 . . .\n\n\n\n\nPasal 88\n\n(1) Kendaraan Bermotor jenis Mobil Bus yang berfungsi\numum wajib menyediakan fasilitas bagi penumpang\npenyandang cacat.\n\n(2)  Fasilitas sebagaimana dimaksud  pada ayat ( 1) paling\nsedikit berupa:\n\na. tempat naik dan turun penumpang yang dap at\ndioperasikan secara otomatis maupun mekanis.\nb. tanda atau petunjuk bagi penyandang tunanetra."
+   }
+  },
+  {
+   "id": "ID-H2141-A89",
+   "no": 89,
+   "noLabel": {
+    "id": "Pasal 89"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 89\n\n(1) Mobil Barang dengan atau tanpa Kereta Gandengan atau\nKereta Tempelan ya ng memiliki JBB atau JBKB lebih dari\n12.000 (dua belas ribu) kilogram harus dilengkapi dengan\ntanda.\n\n(2) Tanda sebagaimana dimaksud pada ayat (1) berupa\ntulisan yang menunjukan Kendaraan Bermotor berat."
+   }
+  },
+  {
+   "id": "ID-H2141-A90",
+   "no": 90,
+   "noLabel": {
+    "id": "Pasal 90"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 90\n\nMobil barang, Kereta Gandengan atau Kereta Te mpelan yang\ntinggi ujung landasannya dan atau bagian belakang dan/atau\nbagian samping badannya berjarak lebih dari 700 (tujuh ratus)\nmilimeter yang diukur dari permukaan jalan, dan/atau sumbu\npaling belakang berjarak lebih dari 1.000 (seribu) milimeter\ndiukur da ri sisi terluar bagian belakang wajib dilengkapi\ndengan perisai kolong."
+   }
+  },
+  {
+   "id": "ID-H2141-A91",
+   "no": 91,
+   "noLabel": {
+    "id": "Pasal 91"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 91\n\nMobil barang dapat dipasang p eralatan hidrolis, pne umatis\natau mekanis yang dapat menaikkan atau menurunkan roda\ndari tanah yang disesuaikan dengan beban muatan."
+   }
+  },
+  {
+   "id": "ID-H2141-A92",
+   "no": 92,
+   "noLabel": {
+    "id": "Pasal 92"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 92\n\n Mobil barang dapat dipasang alat pengontrol kendaraan."
+   }
+  },
+  {
+   "id": "ID-H2141-A93",
+   "no": 93,
+   "noLabel": {
+    "id": "Pasal 93 "
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 93 . . .\n\n\n\n\nPasal 93\n\n(1)  Kendaraan khusus bagi penyandang cacat harus\ndirancang khusus yang memiliki fungsi dan rancang\nbangun tertentu.\n\n(2) Ketentuan lebih lanjut mengenai  Kendaraan khusus bagi\npenyandang cacat  diatur dengan peraturan menteri yang\nbertanggungjawab di bidang sarana dan prasarana lalu\nlintas dan angkutan jalan.\n\n\nBAB IV\n\nPERSYARATAN TEKNIS DAN LAIK JALAN KERETA GANDENGAN\nDAN KERETA TEMPELAN\n\nBagian Kesatu\n\nPersyaratan Teknis Kereta Gandengan dan Kereta Tempelan"
+   }
+  },
+  {
+   "id": "ID-H2141-A94",
+   "no": 94,
+   "noLabel": {
+    "id": "Pasal 94"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 94\n\nKereta Gandengan dan Kereta Tempelan wajib dilengkapi\ndengan lampu dan alat pemantul cahaya yang meliputi:\n\na.  lampu penunjuk arah pada sisi kiri dan kanan;\nb.  lampu rem pada sisi kiri dan kanan;\nc.  lampu posisi depan pada ujung terluar sisi kiri dan kanan,\napabila Kereta Gandengan lebih lebar dari Kendaraan\npenariknya;\nd.  lampu posisi belakang pada ujung terluar kiri dan kanan;\ne.  lampu penerangan tanda nomor Kendaraan di bagian\nbelakang Kereta Gandegan atau Kereta Tempelan;\nf.  lampu tanda batas atas bagian belakang;\ng. lampu mundur pada sisi kiri dan kanan;\nh.  alat pemantul cahaya pada sisi kiri dan kanan; dan\ni.  alat pemantul cahaya berwarna putih yang tidak\nberbentuk segitiga pada sisi kiri dan kanan."
+   }
+  },
+  {
+   "id": "ID-H2141-A95",
+   "no": 95,
+   "noLabel": {
+    "id": "Pasal 95"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 95\n\n(1)  Lampu penunjuk arah sebagaimana dimaksud dalam\nPasal 94 huruf a berjumlah genap dan memancarkan sinar\nkelap-kelip berwarna kuning tua serta dapat dilihat pada\nwaktu siang maupun malam hari oleh pengguna jalan\nlainnya.\n(2) Lampu . . .\n\n\n\n\n(2)  Lampu penunjuk arah sebagaimana dimaksud pada ayat\n(1) di pasang pada bagian depan dan belakang Kereta\nGandengan."
+   }
+  },
+  {
+   "id": "ID-H2141-A96",
+   "no": 96,
+   "noLabel": {
+    "id": "Pasal 96"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 96\n\nLampu rem sebagaimana dimaksud dalam Pasal 94 huruf b\nberjumlah 2 (dua) buah berwarna merah yang kekuatan\ncahayanya lebih besar dari lampu posisi belakang dan dipasang\npada bagian belakang Kereta Gandengan."
+   }
+  },
+  {
+   "id": "ID-H2141-A97",
+   "no": 97,
+   "noLabel": {
+    "id": "Pasal 97"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 97\n\n(1)  Lampu posisi depan sebagaimana dimaksud dalam Pasal\n94 huruf c berjumlah 2 (dua) buah dan berwarna putih.\n\n(2)  Lampu posisi depan sebagaimana dimaksud pada ayat (1)\ndipasang di sudut kiri bawah dan kanan bawah bagian\ndepan Kereta Gandengan dengan jarak antara tepi terluar\npermukaan penyinaran lampu posisi depan dengan sisi\nterluar Kereta Gandengan tidak lebih dari 150 (ser atus\nlima puluh) milimeter."
+   }
+  },
+  {
+   "id": "ID-H2141-A98",
+   "no": 98,
+   "noLabel": {
+    "id": "Pasal 98"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 98\n\n(1) Lampu posisi belakang sebagaimana dimaksud dalam\nPasal 94 huruf d  berjumlah genap dan berwarna merah\nyang terlihat pada malam hari dengan jarak paling sedikit\n300 (tiga ratus) meter dan tidak menyilaukan pengguna\njalan lainnya.\n\n(2) Lampu posisi belakang sebagaimana dimaksud pada ayat\n(1) dipasang di sudut kiri bawah dan kana n bawah bagian\nbelakang Kereta Gandengan dengan jarak antara tepi\nterluar permukaan penyinaran lampu posisi belakang\ndengan sisi terluar Kereta Gandengan tidak lebih dari 400\n(empat ratus) milimeter."
+   }
+  },
+  {
+   "id": "ID-H2141-A99",
+   "no": 99,
+   "noLabel": {
+    "id": "Pasal 99"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 99\n\nLampu penerangan tanda nomor Kendaraan Ber motor bagian\nbelakang sebagaimana dimaksud dalam Pasal 94 huruf e harus\ndapat menerangi tanda nomor Kendaraan pada waktu malam\nhari."
+   }
+  },
+  {
+   "id": "ID-H2141-A100",
+   "no": 100,
+   "noLabel": {
+    "id": "Pasal 100 "
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kesatu"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 100 . . .\n\n\n\n\nPasal 100\n\nLampu tanda batas atas seb agaimana dimaksud dalam Pasal\n94 huruf f berjumlah genap  berwarna putih atau kuning muda\nuntuk bagian depan dan berwarna merah untuk bagian\nbelakang."
+   }
+  },
+  {
+   "id": "ID-H2141-A101",
+   "no": 101,
+   "noLabel": {
+    "id": "Pasal 101"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 101\n\n(1) Lampu mundur sebagaimana dimaksud dalam Pasal 94\nhuruf g berjumlah dua buah berwarna putih atau kuning\nmuda yang tidak menyilaukan pengguna jalan lainnya.\n\n(2) Lampu mundur sebagaima na dimaksud pada ayat (1)\nhanya menyala apabila alat penerus daya digunakan pada\nposisi mundur."
+   }
+  },
+  {
+   "id": "ID-H2141-A102",
+   "no": 102,
+   "noLabel": {
+    "id": "Pasal 102"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 102\n\n(1) Alat pemantul cahaya sebagaimana dimaksud dalam Pasal\n94 huruf h  berjumlah genap berwarna merah dan\nberbentuk segitiga sama sisi dengan panjang sis inya tidak\nkurang dari 150 (seratus lima puluh) milimeter dan tidak\nmelebihi 200 (dua ratus) milimeter serta dipasang di sudut\nkiri bawah dan kanan bawah bagian belakang Kereta\nGandengan.\n\n(2) Alat p emantul cahaya sebagaimana dimaksud pada ayat\n(1) dapat dilih at oleh pengemudi yang ada dibelakangnya\npada waktu malam hari dalam cuaca cerah dari jarak 100\n(seratus) meter apabila terkena sinar lampu utama\nKendaraan di belakangnya.\n\n(3) Titik sudut terluar alat pemantul cahaya seb agaimana\ndimaksud pada ayat (1)  tidak m elebihi 100 (seratus)\nmilimeter dari sisi terluar Kereta Gandengan.\n\n(4) Kereta Gandengan yang lebarnya tidak melebihi 800\n(delapan ratus) milimeter dilengkapi 1 ( satu) buah atau\nlebih alat pemantul cahaya."
+   }
+  },
+  {
+   "id": "ID-H2141-A103",
+   "no": 103,
+   "noLabel": {
+    "id": "Pasal 103"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 103\n\nAlat pemantul cahaya sebagaimana dimaks ud dalam Pasal 94\nhuruf i  berjumlah dua buah dan dipasang di sisi kiri dan\nkanan bagian depan Kereta Gandengan dengan jarak tidak\nmelebihi 400 (empat ratus) milimeter dari sisi terluar Kereta\nGandengan."
+   }
+  },
+  {
+   "id": "ID-H2141-A104",
+   "no": 104,
+   "noLabel": {
+    "id": "Pasal 104 "
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kesatu"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 104 . . .\n\n\n\n\nPasal 104\n\nLampu sebagaimana dimaksud dalam Pasal 94 huruf a, huruf\nb, huruf c, huruf  d, huruf f, dan huruf g harus memenuhi\npersyaratan:\n\na. dipasang simetris terhadap bidang sumbu tengah\nmemanjang Kendaraan;\nb. simetris dengan sesamanya terhadap bidang sumbu\ntengah memanjang Kendaraan;\nc. memiliki warna yang sama;\nd. mempunyai sifat fotometris yang sama; dan\ne. dipasang dengan ketinggian tidak melebihi 1. 500 (seribu\nlima ratus) milimeter dari permukaan jalan."
+   }
+  },
+  {
+   "id": "ID-H2141-A105",
+   "no": 105,
+   "noLabel": {
+    "id": "Pasal 105"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 105\n\n(1) Lampu sebagaimana dimaksud dalam pasal 94 huruf c,\nhuruf d, huruf e  dan huruf f harus dapat dinyalakan atau\ndimatikan secara serentak.\n\n(2) Lampu utama jauh , lampu utama dekat, atau lampu\nkabut hanya dapat dinyalakan apabila lampu\nsebagaimana dimaksud pada ayat (1) dalam keadaan\nmenyala.\n\n(3) Ketentuan sebagaimana dimaksud pada ayat (2) tidak\nberlaku apabila  lampu utama jauh sedang memberikan\nperingatan."
+   }
+  },
+  {
+   "id": "ID-H2141-A106",
+   "no": 106,
+   "noLabel": {
+    "id": "Pasal 106"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 106\n\nDilarang memasang lampu pada Kendaraan Bermotor, Kereta\nGandengan atau Kereta Tempelan yang menyinarkan:\n\na. cahaya kelap -kelip, selain lampu penunjuk arah dan\nlampu isyarat peringatan bahaya;\nb. cahaya berwarna merah ke arah depan;\nc. cahaya berwarna putih ke arah belakang kecuali lampu\nmundur."
+   }
+  },
+  {
+   "id": "ID-H2141-A107",
+   "no": 107,
+   "noLabel": {
+    "id": "Pasal 107"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 107\n\n(1) Kendaraan Bermotor penarik yang dirangkai dengan\nKereta Tempelan harus menggunakan alat perangkai.\n\n(2) Alat perangkai . . .\n\n\n\n\n(2) Alat perangkai sebagaimana dimaksud pada ayat ( 1)\nmenggunakan roda kelima yang dilengkapi dengan alat\npengunci.\n\n(3) Alat perangkai sebagaimana dimaksud pada ayat (1)\nberupa alat perangkai otomatis dan bukan otomatis.\n\n(4) Rangkaian sebagaimana dimaksud pada ayat (1) yang\nmenggunakan alat perangkai otomatis ha nya digunakan\npada rangkaian Kendaraan yang memiliki JBKB\nmaksimum 20.000  (dua puluh ribu) kilogram."
+   }
+  },
+  {
+   "id": "ID-H2141-A108",
+   "no": 108,
+   "noLabel": {
+    "id": "Pasal 108"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 108\n\n(1) Kereta Tempelan harus dilengkapi dengan kaki penopang\nyang dipasang secara kukuh pada jarak lebih dari dua\npertiga dari seluruh panjang Keret a Tempelan diukur dari\nujung paling belakang Kereta Tempelan.\n\n(2) Letak kaki penopang sebagaimana dimaksud pada ayat (1)\ntidak lebih lebar dari Kereta Tempelan."
+   }
+  },
+  {
+   "id": "ID-H2141-A109",
+   "no": 109,
+   "noLabel": {
+    "id": "Pasal 109"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 109\n\n(1) Kereta Gandengan yang dirangkai dengan  Kendaraan\nBermotor harus menggunakan alat perangkai.\n\n(2) Alat perangkai sebagaimana dimaksud pada ayat (1) harus\nmemenuhi persyaratan:\n\na. dikonstruksi dengan gerakan terbatas;\nb. dapat menahan seluruh berat Kendaraan yang  ditarik;\ndan\nc. dilengkapi dengan alat pengunci.\n\n\nBagian Kedua\n\nPersyaratan Laik Jalan Kereta Gandegan dan Kereta Tempelan"
+   }
+  },
+  {
+   "id": "ID-H2141-A110",
+   "no": 110,
+   "noLabel": {
+    "id": "Pasal 110"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 110\n\n(1)  Kereta Gandengan atau Kereta Tempelan harus dilengkapi\ndengan:\n\na. rem utama; dan\nb. rem parkir.\n\n(2) Rem . . .\n\n\n\n\n(2)  Rem utama sebagaimana dimaksud pada ayat (1) huruf a\nharus dapat berfungsi mengendalikan kecepatan dan\nmemberhentikan Kereta Gandengan atau Kereta Tempelan\nsecara bersama atau hampir bersamaan dengan\nKendaraan Bermotor penariknya pada semua roda dengan\nkekuatan yang sama dalam keadaan bermuatan penuh\nsesuai JBKB atau tidak bermuatan.\n\n(3) Rem parkir sebagaimana dimaksud p ada ayat (1) huruf b\nharus mampu menahan posisi Kereta Gandengan atau\nKereta Tempelan berhenti pada jalan datar, jalan\nmenanjak, atau jalan menurun dalam keadaan bermuatan\npenuh sesuai dengan JBKB.\n\n(4) Ketentuan sebagaimana dimaksud pada ayat (1) tidak\nberlaku untuk Kereta Tempelan satu sumbu yang memiliki\nJBKB tidak melebihi 750 (tujuh ratus lima puluh)\nkilogram."
+   }
+  },
+  {
+   "id": "ID-H2141-A111",
+   "no": 111,
+   "noLabel": {
+    "id": "Pasal 111"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 111\n\n(1)  Rem utama Kereta Gandengan sebagaimana dimaksud\ndalam Pasal 110 ayat (1) huruf a  harus dilengkapi dengan\nperalatan yang dapat bekerja secara otomatis\nmenghentikan Kereta Gandengan apabila alat perangkai\nputus atau terlepas dari Kendaraan penariknya.\n\n(2)  Ketentuan sebagaimana dimaksud pada ayat (1) tidak\nberlaku untuk Kereta Gandengan yang jarak sumbu\nrodanya kurang dari 1 (satu) meter dengan JBB tidak lebih\ndari 1.500 (seribu lima ratus) kilogram dan/atau Kereta\nGandengan yang ditarik oleh Kendaraan Bermotor penarik\nyang dirancang untuk kecepatan maksimum kurang dari\n20 (dua puluh) km/jam.\n\n(3) Kereta G andengan sebagaimana dimaksud pada ayat (2 )\nharus dilengkapi dengan perangkai tambahan berupa\nrantai, kabel, atau alat sejenisnya  yang dapat mencegah\ntongkat penarik menyentuh tanah."
+   }
+  },
+  {
+   "id": "ID-H2141-A112",
+   "no": 112,
+   "noLabel": {
+    "id": "Pasal 112"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 112\n\n(1)  Kereta Gandengan atau Kereta Tempelan yang\ndirangkaikan dengan Kendaraan Bermotor dalam satu\nrangkaian harus memiliki peralatan pengereman yang\nbersesuaian.\n\n(2) Bekerjanya . . .\n\n\n\n\n(2)  Bekerjanya rem utama harus tersebar dan bekerja hampir\nbersamaan secara baik pada masing -masing roda setiap\nsumbu rangkaian Kendaraan."
+   }
+  },
+  {
+   "id": "ID-H2141-A113",
+   "no": 113,
+   "noLabel": {
+    "id": "Pasal 113"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 113\n\n(1) Kereta Gandengan dan Kereta Tempelan yang\ndirangkaikan dengan Kendaraan Bermotor penarik\nditetapkan sebagai Kendaraan Bermotor.\n\n(2) Kereta Gandengan yang dirangkaikan dengan Kendaraan\nBermotor penarik  sebagaimana dimaksud pada ayat (1)\nharus memiliki paling sedikit 2 (dua) sumbu roda.\n\n(3) Kereta Tempelan  yang dirangkaikan dengan Kendaraan\nBermotor penarik  sebagaimana dimaksud pada ayat (1)\nharus memiliki paling sedikit 1 (satu) sumbu roda.\n\n\nBAB V\n\nKENDARAAN TIDAK BERMOTOR\n\nBagian Kesatu\n\nJenis"
+   }
+  },
+  {
+   "id": "ID-H2141-A114",
+   "no": 114,
+   "noLabel": {
+    "id": "Pasal 114"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 114\n\n(1) Kendaraan Tidak Bermotor  yang digerakkan oleh tenaga\norang sebagaimana dimaksud  dalam Pasal 4 huruf a\nterdiri atas:\n\na. sepeda;\nb. becak;\nc. kereta dorong.\n\n(2) Kendaraan Tidak Bermotor yang ditarik oleh tenaga hewan\nsebagaimana dimaksud dalam Pasal 4 huruf b  dapat\nberupa kereta, delman, dan cikar atau nama lain.\n\nBagian Kedua\n\nPersyaratan Keselamatan"
+   }
+  },
+  {
+   "id": "ID-H2141-A115",
+   "no": 115,
+   "noLabel": {
+    "id": "Pasal 115"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 115\n\n(1) Sepeda sebagaimana dimaksud dalam Pasal 114  ayat (1)\nhuruf a memiliki ukuran:\n\na. lebar . . .\n\n\n\n\na.  lebar maksimum 550 (lima ratus lima puluh)\nmilimeter;\nb.  panjang maksimum 2.100 (dua ribu seratus)\nmilimeter.\n\n(2) Sepeda sebagaimana dimak sud pada ayat (1) harus\ndilengkapi dengan:\n\na. spakbor; dan\nb. rem.\n\n(3) Spakbor sebagaimana dimaksud pada ayat (2) huruf a\nharus memenuhi persyaratan:\n\na. mampu mengurangi percikan air ke  arah belakang;\ndan\nb. memiliki lebar paling sedikit sama dengan telapak ban.\n\n(4) Rem sebagaimana dimaksud pada ayat (2) huruf b harus\nberfungsi dengan baik untuk  memperlambat dan\nmenghentikan sepeda.\n\n(5) Rem sebagaimana dimaksud pada ayat ( 4) paling sedikit\ndipasang pada roda penggerak sepeda sesuai dengan\nbesarnya beban."
+   }
+  },
+  {
+   "id": "ID-H2141-A116",
+   "no": 116,
+   "noLabel": {
+    "id": "Pasal 116"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 116\n\n(1) Becak sebagaimana dima ksud dalam Pasal 114  ayat (1)\nhuruf b harus memiliki ukuran:\n\na. lebar maksimum 1.500 (seribu lima ratus) milimeter;\nb. tinggi maksimum 1.800 (seribu delapan ratus)\nmilimeter; dan\nc. panjang maksimum 2.800 (dua ribu delapan ratus)\nmilimeter.\n\n(2) Becak seb agaimana dimaksud pada ayat (1)  harus\ndilengkapi sistem suspensi berupa penyangga yang\nmampu menahan beban,  getaran dan kejutan untuk\nmenjamin keselamatan.\n\n(3) Becak sebagaimana dimaksud pada ayat (1) harus\ndilengkapi dengan:\n\n\na. spakbor; dan\nb. rem.\n\n(4) Spakbor sebagaimana dimaksud pada ayat (3) huruf a\nharus memenuhi persyaratan:\n\na. mampu . . .\n\n\n\n\na. mampu mengurangi percikan air ke  arah belakang;\ndan\nb. memiliki lebar paling sedikit sama dengan telapak ban.\n\n(5) Rem sebagaimana dimaksud pada ayat (3) huruf b harus\nberfungsi dengan baik untu k memperlambat dan\nmenghentikan becak.\n\n(6) Rem sebagaimana dimaksud pada ayat ( 5) paling sedikit\ndipasang pada roda penggerak becak sesuai dengan\nbesarnya beban."
+   }
+  },
+  {
+   "id": "ID-H2141-A117",
+   "no": 117,
+   "noLabel": {
+    "id": "Pasal 117"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 117\n\n(1) Kereta dorong sebagaimana dimaksud dalam Pasal 114\nayat (1) huruf c harus memiliki ukuran:\n\na. lebar maksimum 1.500 (seribu lima ratus) milimeter;\nb. tinggi maksimum 2.000 (dua ribu) milimeter;\nc. panjang maksimum 2.500 (dua ribu lima ratus)\nmilimeter.\n\n(2) Kereta dorong sebagaimana dimaksud pada ayat (1) yang\nketinggiannya melebih i bahu orang yang men dorongnya\nharus memiliki bidang pandang bagi pendorongnya untuk\ndapat melihat ke depan."
+   }
+  },
+  {
+   "id": "ID-H2141-A118",
+   "no": 118,
+   "noLabel": {
+    "id": "Pasal 118"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 118\n\n(1)  Kendaraan Tidak Bermotor yang ditarik oleh tenaga hewan\nsebagaimana dimaksud dalam Pasal 114  ayat (2) untuk\nmengangkut orang memiliki ukuran:\n\na. untuk yang ditarik dengan 1 (satu) ekor hewan:\n\n1. lebar maksimum 1.700 (seribu tujuh ratus)\nmilimeter;\n2. tinggi maksimum 2.250 (dua ribu dua ratus lima\npuluh) milimeter;\n3. panjang maksimum 5.250 (lima ribu dua ratus\nlima puluh) milimeter.\n\nb. untuk yang ditarik dengan 2 (dua) ekor hewan:\n\n1. lebar maksimum 2.000 (dua ribu) milimeter;\n2. tinggi maksimum 2.300 (dua ribu tiga ratus)\nmilimeter;\n3. panjang maksimum 6.000 (enam ribu) milimeter.\n\n(2) Kendaraan . . .\n\n\n\n\n(2)  Kendaraan Tidak Bermotor yang ditarik oleh tenaga hewan\nsebagaimana dimaksud dalam Pasal 114  ayat (2) untuk\nmengangkut barang memiliki ukuran:\n\na. untuk yang ditarik dengan 1 (satu) ekor hewan:\n\n1. lebar maksimum 2.200 (dua ribu dua ratus)\nmilimeter;\n2. tinggi maksimum 2.200 (dua ribu dua ratus)\nmilimeter;\n3. panjang maksimum 5.000 (lima ribu) milimeter.\n\nb. untuk yang ditarik dengan 2 (dua) ekor hewan:\n\n1. lebar maksimum 2.200 (dua ribu dua ratus)\nmilimeter;\n2. tinggi maksimum 2.700 (dua ribu tujuh ratus)\nmilimeter;\n3. panjang maksimum 5.400 (lima ribu empat ratus)\nmilimeter."
+   }
+  },
+  {
+   "id": "ID-H2141-A119",
+   "no": 119,
+   "noLabel": {
+    "id": "Pasal 119"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 119\n\n(1) Kendaraan Tidak Bermotor  jenis ker eta yang ditarik\ndengan tenaga hewan harus dilengkapi dengan alat bantu\nyang berfungsi untuk memperlambat kecepatan\nKendaraan sebagai pengganti rem.\n\n(2) Alat bantu seb agaimana dimaksud pada ayat (1)  harus\ndapat dikendalikan dari tempat duduk pengemudi tanpa\nmengganggu pengemudi dalam mengendalikan atau\nmengemudikan Kendaraan."
+   }
+  },
+  {
+   "id": "ID-H2141-A120",
+   "no": 120,
+   "noLabel": {
+    "id": "Pasal 120"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 120\n\nKetentuan lebih lanjut mengenai jenis dan penggunaan\nKendaraan Tidak Bermotor diatur dengan Peraturan Daerah.\n\nBAB VI\n\nPENGUJIAN KENDARAAN BERMOTOR\n\nBagian Kesatu\n\nUmum"
+   }
+  },
+  {
+   "id": "ID-H2141-A121",
+   "no": 121,
+   "noLabel": {
+    "id": "Pasal 121"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 121\n\n(1) Kendaraan Bermotor, Kereta Gandengan , dan Kereta\nTempelan yang akan dioperasikan di jalan wajib dilakukan\npengujian.\n\n(2) Kendaraan . . .\n\n\n\n\n(2) Kendaraan Bermotor, Kereta Gandengan, dan Kereta\nTempelan sebagaimana dimaksud pada ayat (1) meliputi\nyang dibuat atau dirakit di d alam negeri dan/atau\ndiimpor.\n\n(3) Pengujian sebagaimana dimaksud pada ayat (1) meliputi:\n\na. Uji Tipe; dan\nb. Uji Berkala.\n\n(4) Dalam pelaksanaan pengujian sebagaimana d imaksud\npada ayat (1)  jenis Kendaraan Bermotor  dibagi ke dalam\nkategori:\n\na. L1, L2, L3, L4 dan L5 untuk Sepeda Motor;\nb. M1 untuk Mobil Penumpang;\nc. M2 dan M3 untuk Mobil Bus; dan\nd. N1, N2, N3, O1, O2, O3, dan O4 untuk Mobil Barang."
+   }
+  },
+  {
+   "id": "ID-H2141-A122",
+   "no": 122,
+   "noLabel": {
+    "id": "Pasal 122"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 122\n\n(1) Pengujian Kendaraan Bermotor  sebagaimana dimaksud\ndalam Pasal 121 hanya dapat dilakukan oleh unit\npelaksana pengujian Kendaraan Bermotor yang memiliki:\n\na. prasarana dan peralatan pengujian yang  akurat,\nsistem dan prosedur pengujian , dan  sistem informasi\nmanajemen penyelenggaraan pengujian; dan\nb. tenaga penguji yang memiliki sertifikat kompetensi\npenguji Kendaraan Bermotor.\n\n(2)  Peralatan pengujian sebagaimana dimaksud pada ayat (1)\nwajib dipelihara dan dikalibrasi secara berkala.\n\nBagian Kedua\n\nUji Tipe\n\nParagraf 1\n\nUmum"
+   }
+  },
+  {
+   "id": "ID-H2141-A123",
+   "no": 123,
+   "noLabel": {
+    "id": "Pasal 123"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 123\n\n(1) Uji Tipe sebagaimana dimaksud dalam Pasal 1 21 ayat (3)\nhuruf a terdiri atas:\n\na. pengujian fisik untu k pemenuhan persyaratan teknis\ndan laik jalan terhadap landasan Kendaraan Bermotor\ndan Kendaraan Bermotor dalam keadaan lengkap; dan\nb. penelitian . . .\n\n\n\n\nb. penelitian rancang bangun dan rekayasa Kendaraan\nBermotor.\n\n(2) Terhadap Uji Tipe sebagaimana dimaksud pada ayat (1)\ndipungut biaya sebagai penerimaan negara bukan pajak.\n\n(3) Dalam hal Kendaraan Bermotor sebagaimana dimaksud\npada ayat (1) telah dinyatakan lulus, dapat dibuat, dirakit,\natau diimpor secara massal.\n\n(4) Masing-masing Kendaraan Bermotor sebagaimana\ndimaksud pada ayat (3) wajib dilakukan registrasi uji tipe.\n\nParagraf 2\n\nPengujian Fisik"
+   }
+  },
+  {
+   "id": "ID-H2141-A124",
+   "no": 124,
+   "noLabel": {
+    "id": "Pasal 124"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 124\n\n(1) Pengujian fisik sebagaimana dimaksud dalam Pasal 123\nayat (1) huruf a dilakukan melalui pemeriksaan\npersyaratan teknis secara visual dan pengecekan secara\nmanual dengan atau tanpa alat bantu.\n\n(2) Pemeriksaaan persyaratan teknis secara visual terhadap\nlandasan Kendaraan Bermotor  sebagaimana dimaksud\npada ayat (1) meliputi:\n\na. nomor dan kondisi rangka Kendaraan Bermotor;\nb. nomor dan tipe motor penggerak;\nc. kondisi tangki bahan bakar, corong pe ngisi bahan\nbakar, pipa saluran bahan bakar;\nd. kondisi sistem converter kit  bagi Kendaraan Bermotor\nyang menggunakan bahan bakar tekanan tinggi;\ne. kondisi dan posisi pipa pembuangan;\nf. ukuran roda dan ban sesuai yang diizinkan, serta\nkondisi ban;\ng. kondisi sistem  suspensi berupa pegas dan\npenyangganya;\nh. kondisi rem utama baik di roda depan maupun tengah\ndan/atau belakang, kebocoran sistem rem;\ni. kondisi penutup atau casing lampu-lampu dan alat\npemantul cahaya;\nj. kondisi panel instrumen pada dashboard Kendaraan,\nseperti alat penunjuk kecepatan;\nk. kondisi kaca spion bagi landasan Kendaraan berupa\nchassis kabin;\nl. bentuk . . .\n\n\n\n\nl. bentuk bumper bagi landasan Kendaraan berupa\nchassis kabin;\nm. keberadaan dan kondisi ban cadangan, segitiga\npengaman, dongkrak, alat pembuka roda;\nn. keberadaan dan kele ngkapan peralatan pertolong an\npertama pada kecelakaan;\no. kondisi badan Kendaraan, kaca -kaca bagi landasan\nKendaraan berupa chassis kabin, engsel, dan tempat\nduduk; dan\np. rancangan teknis Kendaraan sesuai peruntukannya.\n\n(3) Pemeriksaaan persyaratan teknis secara visual terhadap\nKendaraan Bermotor dalam keadaan lengkap sebagaimana\ndimaksud pada ayat (1) selain melakukan pemeriksaan\npersyaratan teknis sebagaimana dimaksud pada ayat (2),\ndilakukan pemeriksaan persyaratan teknis terhadap:\n\na. kondisi spakbor;\nb. keberadaan d an kondisi alat tanggap darurat untuk\nMobil Bus;\nc. keberadaan dan kelengkapan peralatan pertolong an\npertama pada kecelakaan; dan\nd. kondisi kaca-kaca, perisai kolong, pengarah angin\nuntuk mobil barang bak muatan tertutup.\n\n(4) Pemeriksaaan persyaratan teknis secar a visual terhadap\nKendaraan Bermotor dalam keadaan lengkap jenis Sepeda\nMotor sebagaimana dimaksud pada ayat (1) meliputi:\n\na. nomor dan kondisi rangka Kendaraan Bermotor;\nb. nomor dan tipe motor penggerak;\nc. kondisi tangki bahan bakar, corong pengisi bahan\nbakar, pipa saluran bahan bakar;\nd. kondisi sistem converter kit  bagi Kendaraan Bermotor\nyang menggunakan bahan bakar tekanan tinggi;\ne. kondisi dan posisi pipa pembuangan;\nf. ukuran roda dan ban sesuai yang diizinkan, serta\nkondisi ban;\ng. kondisi sistem suspensi berupa p egas dan\npenyangganya;\nh. kondisi rem utama baik di roda depan atau belakang,\nkebocoran sistem rem;\ni. kondisi penutup atau casing lampu-lampu dan alat\npemantul cahaya;\nj. kondisi  . . .\n\n\n\n\nj. kondisi panel instrumen pada dashboard Kendaraan,\nseperti alat penunjuk kecepatan;\nk. kondisi kaca spion;\nl. kondisi spakbor;\nm. kondisi badan Kendaraan; dan\nn. rancangan teknis Kendaraan sesuai peruntukannya.\n\n(5) Pemeriksaaan persyaratan teknis yang dilakukan secara\nmanual dengan alat bantu atau tanpa alat bantu terhadap\nlandasan Kendaraan Bermotor meliputi:\n\na. kondisi penerus daya dengan menjalankan maju dan\nmundur Kendaraan;\nb. sudut bebas kemudi;\nc. kondisi rem parkir;\nd. mengecek fungsi semua lampu dan alat pemantul\ncahaya;\ne. mengecek fungsi penghapus kaca;\nf. kondisi dan berfungsinya sabuk keselamatan, kecuali\nuntuk Sepeda Motor;\ng. mengukur dimensi utama Kendaraan; dan\nh. mengukur ukuran tempat duduk, bagian dalam\nKendaraan, dan akses keluar darurat.\n\n(6) Pemeriksaaan persyaratan teknis yang dilakukan secara\nmanual dengan alat bantu atau tanpa alat bantu terhadap\nKendaraan Bermotor dalam keadaan lengkap meliputi:\n\na. kondisi penerus daya dengan menjalankan maju dan\nmundur Kendaraan;\nb. sudut bebas kemudi;\nc. kondisi rem parkir;\nd. mengecek fungsi semua lampu dan alat pemantul\ncahaya;\ne. mengecek fungsi penghapus kaca;\nf. fungsi klakson;\ng. kondisi dan berfungsinya sabuk keselamatan;\nh. mengukur ukuran Kendaraan; dan\ni. mengukur ukuran tempat duduk, bagian dalam\nKendaraan, dan akses keluar darurat.\n\n(7) Pemeriksaaan persyaratan teknis yang dilakukan secara\nmanual dengan alat bantu atau tanpa alat bantu terhadap\nKendaraan Bermotor jenis Sepeda Motor meliputi:\n\na. kondisi . . .\n\n\n\n\na. kondisi penerus daya;\nb. kondisi rem parkir;\nc. mengecek fungsi semua lampu dan alat  pemantul\ncahaya;\nd. fungsi klakson; dan\ne. mengukur ukuran Kendaraan."
+   }
+  },
+  {
+   "id": "ID-H2141-A125",
+   "no": 125,
+   "noLabel": {
+    "id": "Pasal 125"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 125\n\n(1) Pengujian laik jalan terhadap Kendaraan Bermotor dalam\nbentuk landasan paling sedikit meliputi:\n\na. uji emisi gas buang;\nb. uji kebisingan suara;\nc. uji efisiensi rem utama dan rem parkir;\nd. uji kincup roda depan;\ne. uji tingkat suara klakson;\nf. uji daya pancar dan arah sinar lampu utama;\ng. uji radius putar;\nh. uji akurasi alat penunjuk kecepatan;\ni. uji kesesuaian kinerja roda dan kondisi ban;\nj. uji kesesuaian daya mesin penggerak terhadap berat\nKendaraan; dan\nk. uji berat Kendaraan.\n\n(2) Pengujian laik jalan terhadap Kendaraan Bermotor dalam\nkeadaan lengk ap selain melakukan pengujian\nsebagaimana dimaksud pada ayat (1) dilakukan pengujian\nterhadap:\n\na. uji berat Kendaraan;\nb. uji posisi roda depan;\nc. uji unjuk kerja mesin;\nd. uji kemampuan jalan;\ne. uji penghapus kaca depan;\nf. uji sabuk keselamatan; dan\ng. uji suspensi.\n\n(3) Pengujian laik jalan terhadap Sepeda Motor paling sedikit\nmeliputi:\n\na. uji emisi gas buang;\nb. uji rem;\n\nc. uji . . .\n\n\n\n\nc. uji lampu utama;\nd. uji tingkat suara klakson;\ne. uji berat Kendaraan;\nf. uji akurasi alat penunjuk kecepatan;\ng. uji kebisingan;\nh. uji unjuk kerja mesin; dan\ni. uji kemampuan jalan."
+   }
+  },
+  {
+   "id": "ID-H2141-A126",
+   "no": 126,
+   "noLabel": {
+    "id": "Pasal 126"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 126\n\nKendaraan Bermo tor yang menggunakan motor listrik\nsebagaimana dimaksud dalam Pasal 12 ayat (1) huruf b, selain\nharus memenuhi ketentuan uji persyaratan teknis dan laik\njalan, harus dilakukan pengujian terhadap unjuk kerja\nakumulator listrik, perangkat elektronik pengenda li kecepatan,\ndan alat pengisian ulang energi listrik."
+   }
+  },
+  {
+   "id": "ID-H2141-A127",
+   "no": 127,
+   "noLabel": {
+    "id": "Pasal 127"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 127\n\n(1) Pengujian fisik terhadap Kendaraan Bermotor  yang\nmemenuhi persyaratan dinyatakan lulus dan yang tidak\nmemenuhi persyaratan dinyatakan tidak lulus.\n\n(2) Kendaraan Bermotor yang dinyatakan tidak  lulus uji fisik\nsebagaimana dimaksud pada ayat (1)  harus disampaikan\nsecara tertulis disertai dengan:\n\na. alasan tidak lulus uji;\nb. item yang tidak lulus uji;\nc. perbaikan yang harus dilakukan; dan\nd. batas waktu mengajukan pengujian ulang.\n\n(3) Kendaraan Bermotor  yang dinyatakan lulus uji fisik\nsebagaimana dimaksud pada ayat (1) diberikan bukti lulus\nuji tipe oleh menteri yang bertanggung jawab di  bidang\nsarana dan prasarana lalu lintas dan angkutan jalan ,\nberupa:\n\na. sertifikat Uji Tipe dilengkapi dengan pengesahan hasil\nuji untuk Kendaraan Bermotor yang diuji fisik dalam\nkeadaan lengkap;\nb. sertifikat Uji Tipe landasan dilengkapi dengan\npengesahan hasil uji untuk landasan Kendaraan\nBermotor yang diuji fisik dalam bentuk landasan."
+   }
+  },
+  {
+   "id": "ID-H2141-A128",
+   "no": 128,
+   "noLabel": {
+    "id": "Pasal 128 "
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kedua"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 128 . . .\n\n\n\n\n\nPasal 128\n\n(1) Pengujian ulang sebagaimana dimaksud dalam Pasal 127\nayat (2) huruf d  hanya dilakukan terhadap item yang\ndinyatakan tidak lulus uji tipe.\n\n(2) Pelaksanaan uji ulang sebagaimana dimaksud pada ayat\n(1) dipungut biaya sesuai dengan item yang dinyatakan\ntidak lulus Uji Tipe.\n\n(3) Pelaksanaan uji u lang sebagaimana dimaksud pada ayat\n(1) dilakukan setelah pemohon menunjukkan dan\nmemberitahukan secara tertulis mengenai perbaikan yang\ndilakukan kepada menteri yang bertanggungjawab di\nbidang sarana dan prasarana lalu lintas dan angkutan\njalan.\n\n(4) Uji ulang sebagaimana dimaksud pada ayat ( 1) hanya\ndapat dilakukan 1 (satu) kali.\n\n(5) Pemohon yang mengajukan uji ulang sebagaiman a\ndimaksud pada ayat ( 3) diluar waktu dan tempat yang\ntelah ditetapkan, dianggap sebagai permohonan baru."
+   }
+  },
+  {
+   "id": "ID-H2141-A129",
+   "no": 129,
+   "noLabel": {
+    "id": "Pasal 129"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 129\n\n(1) Sertifikat Uji Tipe setiap Kendaraan Bermotor sebagaimana\ndimaksud dalam Pasal 127 ayat (3) paling sedikit memuat:\n\na. nomor sertifikat Uji Tipe;\nb. merek dan tipe;\nc. jenis;\nd. peruntukan;\ne. varian, apabila ada;\nf. nomor rangka landasan;\ng. nomor motor penggerak;\nh. nama perusahaan pengimpor, p embuat dan/atau\nperakit, serta pemodifikasi;\ni. alamat perusahaan pembuat dan/atau perakit\ndan/atau pengimpor dan/atau pemodifikasi;\nj. penanggung jawab perusahaan pengimpor, pembuat\ndan/atau perakit, serta pemodifikasi;\nk. tahun pembuat/perakit/modifikasi;\n\nl. spesifikasi . . .\n\n\n\n\nl. spesifikasi teknik Kendaraan Bermotor;\nm. spesifikasi teknik varian, apabila ada;\nn. JBB dan/atau JBKB;\no. berat kosong Kendaraan Bermotor;\np. JBI dan/atau JBKI;\nq. daya angkut orang dan/atau barang;\nr. dimensi bak muatan atau tangki; dan\ns. kelas jalan terendah yang boleh dilalui.\n\n(2) Sertifikat Uji Tipe sebagaimana dimaksud pada ayat (1)\nharus dibuat dari bahan yang memiliki unsur pengaman.\n\n(3) Sertifikat Uji Tipe diterbitkan oleh menteri yang\nbertanggung jawab di bidang sarana dan prasarana  lalu\nlintas dan angkutan jalan."
+   }
+  },
+  {
+   "id": "ID-H2141-A130",
+   "no": 130,
+   "noLabel": {
+    "id": "Pasal 130"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 130\n\nKetentuan lebih lanjut mengenai  bentuk dan tata cara\npenerbitan sertifikat Uji Tipe diatur dengan peraturan menteri\nyang bertanggung jawab di  bidang sarana dan prasarana lalu\nlintas dan angkutan jalan.\n\nParagraf 3\n\nPenelitian Rancang Bangun dan Rekayasa Kendaraan Bermotor"
+   }
+  },
+  {
+   "id": "ID-H2141-A131",
+   "no": 131,
+   "noLabel": {
+    "id": "Pasal 131"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 131\n\nPenelitian rancang bang un dan rekayasa Kendaraan Bermotor,\nsebagaimana dimaksud dalam Pasal 123  ayat (1) huruf b\ndilakukan terhadap desain:\n\na. rumah-rumah;\nb. bak muatan;\nc. Kereta Gandengan;\nd. Kereta Tempelan;\ne. Kendaraan Bermotor yang dimodifikasi yang menyebabkan\nperubahan tipe  berupa dimensi, mesin, dan kemampuan\ndaya angkut."
+   }
+  },
+  {
+   "id": "ID-H2141-A132",
+   "no": 132,
+   "noLabel": {
+    "id": "Pasal 132 "
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kedua"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 132 . . .\n\n\n\n\nPasal 132\n\n(1) Penelitian rancang bangun dan rekayasa Kendaraan\nBermotor terhadap rumah-rumah sebagaimana dimaksud\ndalam Pasal 131 huruf a paling sedikit meliputi:\n\na. rancangan teknis;\nb. ukuran dan susunan;\nc. material;\nd. sistem kelistrikan;\ne. kaca, pintu, engsel, bumper;\nf. sistem lampu dan alat pemantul cahaya;\ng. tempat duduk;\nh. akses keluar darurat;\ni. tempat pemasangan tanda nomor Kendaraan\nBermotor;\nj. sabuk keselamatan;\nk. tempat ban cadangan; dan\nl. tangga penumpang khusus untuk Mobil Bus.\n\n(2) Penelitian rancang bangun dan rekayasa Kendaraan\nBermotor terhadap bak muatan sebagaimana dimaksud\ndalam Pasal 131 huruf b paling sedikit meliputi:\n\na. rancangan teknis;\nb. ukuran dan susunan;\nc. material;\nd. pintu, engsel, dan bumper;\ne. sistem lampu dan alat pemantul cahaya;\nf. tempat pemasangan tanda nomor Kendaraan\nBermotor; dan\ng. perisai kolong.\n\n(3) Penelitian rancang bangun dan rekayasa Kendaraan\nBermotor terhadap Kereta Gandengan  sebagaimana\ndimaksud dalam Pasal 131 huruf c paling sedikit meliputi:\n\na. rancangan teknis;\nb. ukuran dan susunan;\nc. material;\nd. engsel dan bumper;\ne. sistem lampu dan alat pemantul cahaya;\nf. tempat pemasangan tanda nomor Kendaraan\nBermotor;\n\ng. perisai . . .\n\n\n\n\ng. perisai kolong;\nh. alat perangkai;\ni. sistem rem; dan\nj. sistem suspensi.\n\n(4) Penelitian rancang bangun dan rekayasa Kendaraan\nBermotor terhadap Kereta Tempelan  sebagaimana\ndimaksud dalam Pasal 131 huruf d paling sedikit meliputi:\n\na. rancangan teknis;\nb. ukuran dan susunan;\nc. material;\nd. engsel dan bumper;\ne. sistem lampu dan alat pemantul cahaya;\nf. tempat pemasangan tanda nomor Kendaraan\nBermotor;\ng. perisai kolong;\nh. alat perangkai;\ni. kaki penopang;\nj. alat pengunci;\nk. sistem rem; dan\nl. sistem suspensi.\n\n(5) Penelitian rancang bangun dan rekayasa Kendaraan\nBermotor terhadap Kendaraan Bermotor yang dimodifikasi\nsebagaimana dimaksud dalam Pasal 131 huruf e  paling\nsedikit meliputi:\n\na. rancangan teknis;\nb. susunan;\nc. ukuran;\nd. material;\ne. kaca, pintu, engsel, dan bumper;\nf. sistem lampu dan alat pemantul cahaya; dan\ng. tempat pemasangan tanda nomor Kendaraan\n Bermotor.\n\n(6) Modifikasi Kendaraan Bermotor sebagaimana dimaksud\npada ayat (5) hanya dapat dilakukan setelah mendapat\nrekomendasi dari agen tunggal pemegang merek.\n\n\n\n\n(7) Modifikasi . . .\n\n\n\n\n(7) Modifikasi Kendaraan Bermotor sebagaimana dimaksud\npada ayat ( 6) wajib dilakukan oleh bengkel umum\nKendaraan Bermotor yang ditunju k oleh menteri yang\nbertanggungjawab di bidang industri.\n\n(8) Penelitian rancang bangun dan rekayasa Kendaraan\nBermotor sebagaimana dimaksud pada ayat (1) sampai\ndengan ayat (5) dilakukan dengan berpedoman pada\npersyaratan teknis dan l aik jalan sebagaimana diatur\ndalam Peraturan Pemerintah ini."
+   }
+  },
+  {
+   "id": "ID-H2141-A133",
+   "no": 133,
+   "noLabel": {
+    "id": "Pasal 133"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 133\n\n(1) Pelaksanaan penelitian  rancang bangun dan rekayasa\nKendaraan Bermotor sebagaimana dimaksud dalam Pasal\n132 dituangkan dalam berita acara hasil penelitian oleh\npimpinan unit pelaksana Uji Tipe.\n\n(2) Dalam hal  berita acara hasil penelitian sebagaimana\ndimaksud pada ayat (1 ) menyatakan bahwa rancang\nbangun dan rekayasa Kendaraan Bermotor  tidak\nmemenuhi persyaratan teknis dan laik jalan, berita acara\ndisampaikan kepada pemohon atau pemilik Kendaraan\nBermotor dengan tembusan kepada menteri yang\nbertanggung jawab di bidang sarana dan prasarana lalu\nlintas dan angkutan jalan.\n\n(3) Dalam hal  berita acara hasil penelitian sebagaimana\ndimaksud pada ayat (1 ) menyatakan bahwa rancang\nbangun dan rekayasa Kendaraan Bermotor  memenuhi\npersyaratan teknis dan laik jalan, berita acara\ndisampaikan kepada menteri yang bertanggung jawab di\nbidang sarana dan prasarana lalu lintas dan angkutan\njalan.\n\n(4) Berdasarkan berita acara hasil penelitian s ebagaimana\ndimaksud pad a ayat (3),  menteri yang bertanggung jawab\ndi bidang sarana dan prasarana lalu lintas dan angkutan\njalan menerbitkan Keputusan Pengesahan Rancang\nBangun dan Rekayasa Kendaraan Bermotor.\n\n\n Paragraf 4 . . .\n\n\n\n\nParagraf 4\n\nSertifikat Registrasi Uji Tipe"
+   }
+  },
+  {
+   "id": "ID-H2141-A134",
+   "no": 134,
+   "noLabel": {
+    "id": "Pasal 134"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 134\n\n\n(1) Kendaraan Bermotor, Rumah-rumah, bak muatan, Kereta\nGandengan, Kereta Tempelan, dan Kendaraan Bermotor\nyang dimodifikasi yang telah dilakukan registrasi Uji Tipe\ndiberikan sertifikat registrasi Uji Tipe.\n\n(2) Untuk memperoleh sertifikat registrasi Uji Tipe\nsebagaimana dimaksud pada ayat (1) , pembuat, perakit\natau pengimpor Kendaraan Bermotor, Rumah-rumah, bak\nmuatan, Kereta Gandengan , Kereta Tempelan , d an\nKendaraan Bermotor  yang dimodifikasi mengajukan\npermohonan kepada menteri yang bertanggungjawab di\nbidang sarana da n prasarana lalu lintas dan angkutan\njalan.\n\n(3) Permohonan sebagaimana dimaksud pada ayat (2 ) disertai\nsurat pernyataan  yang menyatakan bahwa setiap unit\nKendaraan yang dibuat , dirakit, atau diimpor memiliki\nspesifikasi teknis dan unjuk kerja yang sama dengan\ntipenya.\n\n(4) Berdasarkan permohonan sebagaimana dimaksud pada\nayat (2) menteri yang bertanggungjawab di bidang sarana\ndan prasarana lalu lintas dan angkutan jalan memberikan\nsertifikat registrasi Uji Tipe."
+   }
+  },
+  {
+   "id": "ID-H2141-A135",
+   "no": 135,
+   "noLabel": {
+    "id": "Pasal 135"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 135\n\n(1) Untuk menjamin kesesuaian spesifikasi teknis Kendaraan\nBermotor, R umah-rumah, bak muatan, Kereta\nGandengan, dan  Kereta Tempelan  terhadap sertifikat Uji\nTipe dan keputusan  pengesahan rancang bangun dan\nrekayasa Kendaraan Bermotor dilakukan Uji Sampel.\n\n(2) Uji Sampel  sebagaimana dimaksud pada ayat ( 1)\ndilakukan oleh unit pelaksana Uji Tipe."
+   }
+  },
+  {
+   "id": "ID-H2141-A136",
+   "no": 136,
+   "noLabel": {
+    "id": "Pasal 136 "
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kedua"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 136 . . .\n\n\n\n\nPasal 136\n\n(1) Pelaksanaan Uji Sampel sebagaimana dimaksud dalam\nPasal 1 35 dilakukan apabila  Kendaraan Bermotor,\nRumah-rumah, bak muatan, Kereta Gandengan , dan\nKereta Tempelan  yang dibuat , dirakit, atau diimpor  telah\nmencapai jumlah dan/atau waktu 1 (satu) tahun.\n\n(2) Jumlah sebagaimana dimaksud pada ayat (1) ditetapkan\noleh menteri yang bertanggungjawab dibidang sarana dan\nprasarana lalu lintas dan angkutan jalan.\n\n(3) Pemilihan Kendaraan Bermotor , Rumah-rumah, bak\nmuatan, Kereta Gandengan , dan  Kereta Tempelan  yang\nakan dilakukan Uji Sampel  sebagaimana dimaksud pada\nayat (1) ditentukan oleh unit pelaksana Uji Tipe.\n\n(4) Pelaksanaan Uji Sampel sebagaimana dimaksud pada ayat\n(1) dilakukan sama dengan pelaksanaan Uji Tipe."
+   }
+  },
+  {
+   "id": "ID-H2141-A137",
+   "no": 137,
+   "noLabel": {
+    "id": "Pasal 137"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 137\n\n(1) Kendaraan B ermotor yang telah dilakukan Uji Sampel\nsebagaimana dimaksud dalam Pasal 136 diberikan surat\nketerangan kesesuaian spesifikasi teknis  atau\nketidaksesuaian spesifikasi teknis.\n\n(2) Surat keterangan kesesuaian spesifikasi teknis\nsebagaimana di maksud pada ayat (1) diberikan apabila\nKendaraan Bermotor yang diuji sampel sesuai dengan\nspesifikasi teknis dalam sertifikat Uji Tipe dan keputusan\npengesahan rancang bangun dan rekayasa Kendaraan\nBermotor.\n\n(3) Dalam hal Kendaraan Bermotor yang diuji sampel tidak\nsesuai dengan spesifikasi teknis dalam sertifikat Uji Tipe\ndan/atau keputusan pengesahan rancang bangun dan\nrekayasa Kendaraan Bermotor , unit pelaksana Uji Tipe\nmelakukan Uji Sampel terhadap Kendaraan Bermotor lain\nyang sama tipenya.\n\n(4) Penambahan Uji Sampel sebagaimana dimaksud pada ayat\n(3) dilakukan paling banyak 2 (dua) kali.\n\n(5) Dalam hal hasil  Uji Sampel sebagaimana dimaksud pada\nayat (2) dan/atau ayat (3) tetap menunjukkan\nketidaksesuaian spesifikasi teknis, unit pelaksana Uji Tipe\nmengeluarkan surat keterangan ketidaksesuaian.\n\n(6) Berdasarkan . . .\n\n\n\n\n(6) Berdasarkan surat keterangan sebagaimana dimaksud\npada ayat (5), m enteri yang bertanggungjawab di bidang\nsarana dan prasarana lalu lintas dan angkutan jalan:\n\na. menghentikan pemberian sertifikat registrasi Uji Tipe\nterhadap Kendaraan Bermotor, R umah-rumah, bak\nmuatan, Kereta Gandengan, dan Kereta Tempelan seri\nproduksi selanjutnya;\nb. mengumumkan hasil Uji Sampel yang tidak sesuai\ndengan spesifikasi teknis kepada masyarakat."
+   }
+  },
+  {
+   "id": "ID-H2141-A138",
+   "no": 138,
+   "noLabel": {
+    "id": "Pasal 138"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 138\n\n(1) Penerbitan sertifikat registrasi  Uji Tipe  dan pelaksanaan\nUji Sampel dikenakan biaya sesuai denga n ketentuan\nperaturan perundang-undangan.\n\n(2) Biaya sebagaimana dimaksud pada ayat (1)  ditetapkan\nsebagai Penerimaan Negara Bukan Pajak dan disetorkan\nke kas negara."
+   }
+  },
+  {
+   "id": "ID-H2141-A139",
+   "no": 139,
+   "noLabel": {
+    "id": "Pasal 139"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 139\n\nKetentuan lebih lanjut men genai tata cara penerbitan sertifikat\nregistrasi Uji Tipe dan Uji Sampel diatur dengan peraturan\nmenteri yang bertanggungjawab di bidang sarana dan\nprasarana lalu lintas dan angkutan jalan.\n\n\nParagraf 5\n\nUnit Pelaksana Uji Tipe"
+   }
+  },
+  {
+   "id": "ID-H2141-A140",
+   "no": 140,
+   "noLabel": {
+    "id": "Pasal 140"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 140\n\n(1) Unit pelaksana uji tipe  sebagaimana dimaks ud dalam\nPasal 122 ayat (1) dibentuk oleh menteri yang bertanggung\njawab di bidang sarana dan prasarana lalu lintas dan\nangkutan jalan.\n\n(2) Unit pelaksana Uji Tipe sebagaimana dimaksud pada ayat\n(1) harus menyediakan fasilitas dan p eralatan pengujian\nserta tenaga penguji yang memiliki kompetensi.\n\n(3) Dalam hal fasilitas, peralatan pengujian, dan/atau tenaga\npenguji yang memiliki kompetensi  belum tersedia , unit\npelaksana Uji Tipe dapat bekerjasama dengan pihak ketiga\nuntuk melakukan Uji Tipe.\n(4) Fasilitas . . .\n\n\n\n\n(4) Fasilitas dan p eralatan pengujian sebagaimana dimaksud\npada ayat (2) harus  dirawat dan/atau diperbaiki  apabila\nrusak, serta dikalibrasi secara berkala.\n\n(5) Unit pelaksana Uji Tipe harus menyelenggarakan sistem\ninformasi dan komunikasi pengujian Kendaraan Bermotor."
+   }
+  },
+  {
+   "id": "ID-H2141-A141",
+   "no": 141,
+   "noLabel": {
+    "id": "Pasal 141"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 141\n\n(1) Fasilitas pengujian sebagaimana dimaksud dalam Pasal\n140 ayat (2)  untuk uji fisik Kendaraan Bermotor  paling\nsedikit meliputi:\n\na. bangunan gedung untuk laboratorium uji;\nb. bangunan gedung untuk generator set, kompresor, dan\ngudang;\nc. bangunan gedung administrasi;\nd. akses keluar masuk;\ne. jalan lingkungan pengujian;\nf. lapangan parkir;\ng. pagar;\nh. fasilitas listrik;\ni. lampu penerangan;\nj. pompa air dan menara air;\nk. fasilitas pengisian bahan bakar;\nl. fasilitas untuk pelaksanaan uji tipe di luar gedung; dan\nm. fasilitas penunjang.\n\n(2) Fasilitas untuk pelaksanaan uji  tipe di luar gedung\nsebagaimana dimaksud pada ayat (1) huruf l , paling\nsedikit meliputi:\n\na. fasilitas pengujian tingkat suara;\nb. fasilitas pengujian radius putar;\nc. trek pengujian kecepatan tinggi;\nd. trek pengujian pengendalian;\ne. trek pengujian serba guna;\nf. trek pengujian Belgian road;\ng. trek pengujian tanjakan dan turunan;\nh. trek pengujian melalui jalan berlumpur;\ni. trek pengujian slip;\nj. tapak selip;\n\nk. trek . . .\n\n\n\n\nk. trek pengujian melalui lintasan berair;\nl. terowongan air;\nm. terowongan debu;\nn. fasilitas pembuat angin;\no. lintasan berliku-liku;\np. lapangan pengujian analitis;\nq. fasilitas uji tabrakan;\nr. jalan inspeksi; dan\ns. fasilitas dan peralatan bantu.\n\n(3) Ketentuan lebih lanjut mengenai tata letak, ukuran,\nbentuk, jenis, tipe, peralatan, perlengkapan, kon struksi,\nbahan, spesifikasi tekni s, pembangunan, penggunaan,\npemeliharaan, perbaikan, dan penggantian fasilitas Uji\nTipe Kendaraan Bermotor  sebagaimana dimaksud pada\nayat (1) dan ayat (2) diatur dengan peraturan menteri yang\nbertanggung jawab dibidang sara na dan prasarana lalu\nlintas dan angkutan jalan."
+   }
+  },
+  {
+   "id": "ID-H2141-A142",
+   "no": 142,
+   "noLabel": {
+    "id": "Pasal 142"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 142\n\n(1) Peralatan sebagaimana dimaksud dalam Pasal 140 ayat (2)\npaling sedikit meliputi:\n\na. alat uji rem utama dan rem parkir;\nb. alat uji lampu utama;\nc. alat uji suspensi roda dan pemeriksaan kondisi teknis\nbagian bawah Kendaraan Bermotor;\nd. alat uji speedometer;\ne. alat uji tekanan udara;\nf. alat uji konstruksi;\ng. alat uji ban;\nh. alat uji tingkat suara;\ni. alat uji pengujian berat;\nj. alat uji kincup roda depan;\nk. alat uji dimensi;\nl. alat uji posisi roda depan;\nm. alat uji motor penggerak;\nn. alat uji kaca;\no. alat uji sabuk keselamatan;\n\np. alat . . .\n\n\n\n\np. alat uji emisi gas buang, termasuk ketebalan asap gas\nbuang;\nq. alat uji prestasi Kendaraan Bermotor;\nr. alat uji kebisingan;\ns. peralatan bantu; dan\nt. alat uji lain sesuai dengan perkembangan teknologi\nKendaraan Bermotor.\n\n(2) Ketentuan lebih lanjut mengenai tipe, uk uran, bentuk,\nspesifikasi teknis , jumlah, kapasitas, teknologi yang\ndigunakan, pembangunan, pengadaan, pemasangan,\npenggunaan, pemeliharaan, perbaikan, dan penggantian\nperalatan Uji Tipe Kendaraan Bermotor  sebagaimana\ndimaksud pada ayat (1) diatur dengan peraturan menteri\nyang bertanggung jawab di  bidang sarana dan prasarana\nlalu lintas dan angkutan jalan.\n\n\nBagian Ketiga\n\nUji Berkala\n\nParagraf 1\n\nUmum"
+   }
+  },
+  {
+   "id": "ID-H2141-A143",
+   "no": 143,
+   "noLabel": {
+    "id": "Pasal 143"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 143\n\n(1) Uji Berkala sebagaimana dimaksud dalam Pasal  121 ayat\n(3) huruf b  wajib bagi Mobil Penumpang  umum, Mobil\nBus, Mobil Barang , Kereta Gandengan  dan Kereta\nTempelan yang dioperasikan di jalan.\n\n(2) Uji Berkala  sebagaimana dimaksud pada ayat (1)\ndilaksanakan oleh:\n\na. unit pelaksana pengujian milik pemerintah\nkabupaten/kota;\nb. unit pelaksana agen tunggal pemegang merek yang\nmendapat izin dari menteri yang bertanggungjawab\ndibidang sarana da n prasarana lalu lintas dan\nangkutan jalan; atau\nc. unit pelaksana pengujian swasta yang mendapat izin\ndari menteri yang bertangg ungjawab di bidang sarana\ndan prasarana lalu lintas dan angkutan jalan.\n\n\n\n(3) Uji . . .\n\n\n\n\n(3) Uji Berkala sebagaimana dimaksud pada ayat (1) meliputi:\n\n\na. Uji Berkala pertama;\nb. pemeriksaan persyaratan teknis;\nc. pengujian persyaratan laik jalan;\nd. pemberian bukti lulus uji; dan\ne. unit pelaksana Uji Berkala."
+   }
+  },
+  {
+   "id": "ID-H2141-A144",
+   "no": 144,
+   "noLabel": {
+    "id": "Pasal 144"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 144\n\n(1) Uji Berkala Kendaraan Bermotor  harus dilakukan di\ndaerah tempat Kendaraan Bermotor diregistrasi.\n(2) Dalam keadaan tertentu uji berkala Kendaraan Bermotor\ndapat dilakukan pada unit pelaksana uji berkala\nKendaraan Bermotor di daerah lain.\n\nParagraf 2\n\nUji Berkala Pertama"
+   }
+  },
+  {
+   "id": "ID-H2141-A145",
+   "no": 145,
+   "noLabel": {
+    "id": "Pasal 145"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 145\n\n(1) Kendaraan Bermotor wajib U ji Berkala wajib didaftarkan\npada unit pelaksana U ji Berkala di daerah tempat\nKendaraan Bermotor diregistrasi.\n\n(2) Unit pelaksana Uji B erkala sebagaimana dimaksud pada\nayat (1) membuat kartu induk Uji Berkala.\n(3) Kartu induk Uji Berkala Kendaraan Bermotor sebagaimana\ndimaksud pada ayat (2 ) paling sedikit  memuat data\nmengenai:\n\na. tanggal dan nomor Sertifikat Registrasi Uji Tipe;\nb. nomor Kendaraan;\nc. nomor Uji Berkala;\nd. nama pemilik;\ne. alamat pemilik;\nf. merek dan tipe;\ng. jenis;\nh. tahun pembuatan atau perakitan;\ni. isi silinder;\nj. daya motor penggerak;\nk. nomor rangka landasan Kendaraan Bermotor;\nl. nomor motor penggerak atau mesin;\nm. konfigurasi . . .\n\n\n\n\nm. konfigurasi sumbu;\nn. dimensi Kendaraan;\no. bahan bakar yang digunakan;\np. tanggal dan nomor pengesahan Uji Tipe;\nq. tempat dan tanggal dilakukan uji pertama kali;\nr. nama dan identitas pen anggung jawab unit pelaksana\nUji Berkala yang membuat kartu induk Uji Berkala."
+   }
+  },
+  {
+   "id": "ID-H2141-A146",
+   "no": 146,
+   "noLabel": {
+    "id": "Pasal 146"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 146\n\n(1) Uji Berkala terhadap kendaran bermotor wajib Uji Berkala,\nuntuk pertama kali dilakukan setelah 1 (satu) tahun sejak\nditerbitkannya Surat Tanda Nomor Kendaraan Bermotor.\n(2) Masa berlaku Uji Berkala sebagaimana dimaksud pada\nayat (1) selama 6 (enam) bulan.\n\n(3) Setelah berakhirnya masa berlaku Uji B erkala\nsebagaimana dimaksud pada ayat (2),  wajib dilakukan uji\nBerkala berikutnya.\n\n(4) Kendaraan Bermotor  asing yang wajib Uji B erkala dan\ndigunakan di Indonesia wajib mengikuti ketentuan dalam\nPeraturan Pemerintah ini."
+   }
+  },
+  {
+   "id": "ID-H2141-A147",
+   "no": 147,
+   "noLabel": {
+    "id": "Pasal 147"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 147\n\n(1) Setiap Kendaraan wajib uji yang telah di lakukan Uji\nBerkala untuk pertama kali sebagaimana dimaksud dalam\nPasal 146 ayat (1) diberi nomor uji Kendaraan Bermotor.\n\n(2) Nomor uji Kendaraan Bermotor sebagaimana dimaksud\npada ayat (1) harus memuat kode provinsi, kode\nKabupaten/Kota, kode jenis Kendaraan Bermot or, kode\ntahun pendaftaran uji, dan nomor urut pengujian.\n\n(3) Nomor uji Kendaraan Bermotor sebagaimana dimaksud\npada ayat (1) berlaku selama Kendaraan yang\nbersangkutan masih termasuk sebagai Kendaraan wajib\nuji."
+   }
+  },
+  {
+   "id": "ID-H2141-A148",
+   "no": 148,
+   "noLabel": {
+    "id": "Pasal 148 "
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Ketiga"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 148 . . .\n\n\n\n\nPasal 148\n\nPermohonan uji berkala Kendaraan Bermotor  disampaikan\nsecara tertulis kepada unit pelaksana uji berkala dengan\nmelampirkan:\n\na. fotocopy sertifikat registrasi uji tipe;\nb. fotocopy identitas pemilik Kendaraan Bermotor;\nc. fotocopy bukti pemilik Kendaraan Bermotor;\nd. fotocopy Surat Tanda Nomor Kendaraan Bermotor.\n\nParagraf 3\n\nPemeriksaan Persyaratan Teknis"
+   }
+  },
+  {
+   "id": "ID-H2141-A149",
+   "no": 149,
+   "noLabel": {
+    "id": "Pasal 149"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 149\n\n(1) Pemeriksaan persyaratan teknis  sebagaimana dimaksud\ndalam Pasal 143 ayat (3) huruf b meliputi:\n\na. susunan;\nb. perlengkapan;\nc. ukuran;\nd. rumah-rumah; dan\ne. rancangan teknis Kendaraan Ber motor sesuai dengan\nperuntukannya.\n\n(2) Pemeriksaan sebagaimana dimaksud pada ayat (1 ) dapat\ndilakukan secara visual dan pengecekan secara manual\ndengan atau tanpa alat bantu.\n\n(3) Pemeriksaan secara visual  sebagaimana dimaksud pada\nayat (2) paling sedikit meliputi:\na. nomor dan kondisi rangka Kendaraan Bermotor;\nb. nomor dan tipe motor penggerak;\nc. kondisi tangki bahan bakar, corong pengisi bahan\nbakar, pipa saluran bahan bakar;\nd. kondisi sistem converter kit  bagi Kendaraan Bermotor\nyang menggunakan bahan bakar tekanan tinggi;\ne. kondisi dan posisi pipa pembuangan;\nf. ukuran roda dan ban serta kondisi ban;\ng. kondisi sistem suspensi;\nh. kondisi sistem rem utama;\ni.  kondisi penutup lampu dan alat pemantul cahaya;\n\nj. kondisi . . .\n\n\n\n\nj. kondisi panel instrumen pada dashboard Kendaraan;\nk. kondisi kaca spion;\nl. kondisi spakbor;\nm. bentuk bumper;\nn. keberadaan dan kondisi perlengkapan kendaraan;\no. rancangan teknis Kendaraan sesuai peruntukannya;\np. keberadaan dan kondisi fasilitas tanggap darurat\nkhusus untuk mobil bus; dan\nq. kondisi badan Kendaraan, kaca, engsel, tempat dudu k,\nperisai kolong, pengarah angin untuk mobil barang\nbak muatan tertutup.\n\n(4) Pemeriksaan secara manual dengan atau tanpa alat bantu\nsebagaimana dimaksud pada ayat (2) paling sedikit\nmeliputi:\na. kondisi penerus daya;\nb. sudut bebas kemudi;\nc. kondisi rem parkir;\nd. fungsi lampu dan alat pemantul cahaya;\ne. fungsi penghapus kaca;\nf. tingkat kegelapan kaca;\ng. fungsi klakson;\nh. kondisi dan fungsi sabuk keselamatan;\ni. ukuran Kendaraan;\nj. ukuran tempat duduk, bagian dalam Kendaraan, dan\nakses keluar darurat khusus untuk mobil bus.\n\n(5) Dalam hal pemeriksaan persyaratan teknis sebagaimana\ndimaksud pada ayat (1) dilakukan terhadap Kereta\nGandengan dan Kereta Tempelan paling sedikit meliputi:\n\na. pengukuran berat;\nb. pengukuran dimensi; dan\nc. pemeriksaan konstruksi.\n\n\n\n\n\n\nParagraf 4 . . .\n\n\n\n\nParagraf 4\n\nPengujian Persyaratan Laik Jalan"
+   }
+  },
+  {
+   "id": "ID-H2141-A150",
+   "no": 150,
+   "noLabel": {
+    "id": "Pasal 150"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 150\n\n(1) Pengujian persyaratan laik jalan  sebagaimana dimaksud\ndalam Pasal 14 3 ayat (3) huruf c paling sedikit meliputi\nuji:\n\na. emisi gas buang;\nb. tingkat kebisingan;\nc. kemampuan rem utama;\nd. kemampuan rem parkir;\ne. kincup roda depan;\nf. kemampuan pancar dan arah sinar lampu utama;\ng. akurasi alat penunjuk kecepatan; dan\nh. kedalaman alur ban.\n\n(2) Dalam hal pengujian persyaratan laik jalan  sebagaimana\ndimaksud pada ayat (1) dilakukan terhadap Kereta\nGandengan dan Kereta Tempelan paling sedikit meliputi:\na. uji kemampuan rem;\nb. kedalaman alur ban; dan\nc. uji sistem lampu."
+   }
+  },
+  {
+   "id": "ID-H2141-A151",
+   "no": 151,
+   "noLabel": {
+    "id": "Pasal 151"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 151\n\nKetentuan lebih lanjut mengenai tata cara pemeriksaan dan\npengujian diatur dengan p eraturan m enteri yang\nbertanggungjawab di bidang sarana dan prasarana lalu lintas\ndan angkutan jalan.\n\nParagraf 5\n\nPemberian Bukti Lulus Uji"
+   }
+  },
+  {
+   "id": "ID-H2141-A152",
+   "no": 152,
+   "noLabel": {
+    "id": "Pasal 152"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 152\n\n(1) Kendaraan wajib uji berkala yang telah dinyatakan lulus\npemeriksaan dan pengujian diberikan bukti lulus Uji\nBerkala kendaraan bermotor.\n\n(2) Bukti lulus uji  sebagaimana dimaksud pada ayat (1)\ndiberikan dalam bentuk kartu uji dan tanda uji.\n\n(3) Kartu . . .\n\n\n\n\n(3) Kartu uji dan tanda uji sebagaimana dimaksud pada ayat\n(2) berlaku di seluruh wilayah Indonesia."
+   }
+  },
+  {
+   "id": "ID-H2141-A153",
+   "no": 153,
+   "noLabel": {
+    "id": "Pasal 153"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 153\n\n(1) Dalam hal Kendaraan Bermotor dinyatakan tidak lulus uji,\npenguji wajib menerbitkan surat keterangan tidak lulus\nuji.\n\n(2) Surat keterangan tidak lulus uji sebagaimana dimaksud\npada ayat (1) disampaikan secara tertulis kepada pemilik\nKendaraan Bermotor dengan mencantumkan:\n\na. item yang tidak lulus uji;\nb. alasan tidak lulus uji;\nc. perbaikan yang harus dilakukan; dan\nd. waktu dan tempat dilakukan pengujian ulang.\n\n(3) Pemilik Kendaraan Bermotor  wajib melakukan perbaikan\nsebagaimana dimaksud pada ayat (2) huruf c.\n\n(4) Dalam hal pemilik Kendaraan Bermotor tidak menyetujui\nsurat keterangan tidak lulus uji  sebagaimana dimaksud\npada ayat (1)  dapat mengajukan keberatan kepada\npimpinan unit pelaksana Uji Berkala Kendaraan Bermotor\nyang bersangkutan.\n\n(5) Ketentuan lebih lanjut mengenai tata cara pengajuan\nkeberatan sebagaimana dimaksud pada ayat ( 4) diatur\ndengan peraturan menteri yang bertanggung jawab d i\nbidang sarana dan prasarana lalu lintas dan angkutan\njalan."
+   }
+  },
+  {
+   "id": "ID-H2141-A154",
+   "no": 154,
+   "noLabel": {
+    "id": "Pasal 154"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 154\n\n(1) Kendaraan Bermotor yang dinyatakan tidak lulus uji\nsebagaimana dimaksud dalam Pasal 15 3 ayat (1)  wajib\nmenjalankan uji ulang sesuai dengan waktu dan tempat\nyang ditetapkan dalam surat keterangan tidak lulus uji.\n\n(2) Uji ulang sebagaimana dimaksud pada ayat (1) tidak\ndiperlakukan sebagai pemohon baru kecuali permohonan\nuji ulang dilakukan setelah batas waktu yang ditetapkan."
+   }
+  },
+  {
+   "id": "ID-H2141-A155",
+   "no": 155,
+   "noLabel": {
+    "id": "Pasal 155 "
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Ketiga"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 155 . . .\n\n\n\n\nPasal 155\n\n(1) Kartu Uji Berkala sebagaimana dimaksud dalam Pasal 152\nayat (2) paling sedikit memuat data mengenai:\n\na. nomor dan tanggal sertifikat registrasi Uji Tipe;\nb. foto berwarna tampak samping kanan , kiri, depan dan\nbelakang Kendaraan Bermotor;\nc. nomor uji Kendaraan;\nd. nama pemilik;\ne. alamat pemilik;\nf. merek dan tipe;\ng. jenis;\nh.  tahun pembuatan atau perakitan;\ni.  isi silinder;\nj. daya motor penggerak;\nk.  nomor rangka landasan Kendaraan Bermotor;\nl. berat kosong Kendaraan;\nm. konfigurasi sumbu roda;\nn. ukuran ban;\no. kelas jalan terendah yang boleh dilalui;\np. ukuran utama Kendaraan;\nq. daya angkut;\nr. masa berlaku hasil uji;\ns. bahan bakar yang digunakan;\nt. hasil uji;\nu. JBB dan/atau JBKB khusus untuk Mobil Barang dan\nMobil Bus;\nv. JBI dan/atau JBKI khusus untuk Mobil Barang dan\nMobil Bus.\n\n(2) Kartu Uji Berkala sebagaimana dimaksud pada ayat (1)\nberupa kartu pintar atau bentuk lain."
+   }
+  },
+  {
+   "id": "ID-H2141-A156",
+   "no": 156,
+   "noLabel": {
+    "id": "Pasal 156"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 156\n\n(1) Tanda Uji Berkala  sebagaimana dimaksud dalam Pasal\n152 ayat (2) berupa stiker.\n\n(2) Stiker sebagaimana dimaksud pada ayat (1) ditempel p ada\nkaca depan sisi kiri bawah bagian dalam.\n\n (3) Tanda . . .\n\n\n\n\n(3) Tanda uji berkala sebagaimana dimaksud  pada ay at (1)\npaling sedikit memuat keterangan mengenai:\n\na. nomor kendaraan;\nb. JBI dan/atau JBKI;\nc. daya angkut orang dan barang;\nd. masa berlaku uji Kendaraan;\ne. muatan sumbu terberat."
+   }
+  },
+  {
+   "id": "ID-H2141-A157",
+   "no": 157,
+   "noLabel": {
+    "id": "Pasal 157"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 157\n\nKetentuan lebih lanjut mengenai kartu uji dan tanda uji diatur\ndengan peraturan menteri yang bertanggung  jawab di bidang\nsarana dan prasarana lalu lintas dan angkutan jalan."
+   }
+  },
+  {
+   "id": "ID-H2141-A158",
+   "no": 158,
+   "noLabel": {
+    "id": "Pasal 158"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 158\n\n(1) Perpanjangan masa berlaku bukti lulus Uji Berkala\ndiberikan setelah memenuhi persyaratan:\n\na. memiliki bukti lulus Uji Berkala sebelumnya;\nb. memiliki identitas pemilik Kendaraan; dan\nc. lulus Uji Berkala.\n\n(2) Dalam hal terdapat perubahan kepemilikan, spesifikasi\nteknis dan/atau wilayah operasi Kendaraan , pemilik atau\npemilik baru Kendaraan wajib mengajukan permohonan\nperubahan bukti lulus Uji Berkala.\n\n(3) Bukti lulus Uji Berkala sebagaimana dimaksud pada ayat\n(2) diberikan setelah memenuhi persyaratan:\n\na. memiliki bukti lulus Uji Berkala sebelumnya;\nb. memiliki bukti kepemilikan Kendaraan Bermotor;\nc. keterangan mengenai perubahan kepemilikan,\nspesifikasi tekni s Kendaraan  Bermotor dan/atau\nwilayah operasi Kendaraan; dan\nd. lulus Uji Berkala untuk Kendaraan yang mengalami\nperubahan spesifikasi teknisnya.\n\n(4) Dalam hal bukti lulus Uji Berkala hilang atau rusak yang\ntidak dapat dibaca, pemilik dapat mengajukan\npermohonan penerbitan bukti lulus Uji Berkala pengganti.\n\n\n (5) Bukti . . .\n\n\n\n\n(5) Bukti lulus Uji Berkala pengganti sebagaimana dimaksud\npada ayat (4) diberikan setelah memenuhi persyaratan:\n\na. memiliki bukti lulus Uji Berkala sebelumnya;\nb. melampirkan fotocopy identitas pemilik Kendaraan;\nc. membawa surat keterangan kehilangan dari kepolisian\nsetempat, apabila bukti lulus Uji Berkala hilang; dan\nd. bukti pengumuman kehilangan bukti lulus Uji Berkala\npada media massa.\n\n(6) Perpanjangan, perubahan dan penggantian bukti lulus uji\nsebagaimana dimaksud pada ayat (1), ayat (2), dan ayat (4)\ndiberikan paling lama 2 (dua) hari kerja  sejak diterima\npermohonan."
+   }
+  },
+  {
+   "id": "ID-H2141-A159",
+   "no": 159,
+   "noLabel": {
+    "id": "Pasal 159"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 159\n\nPemilik Kendaraan Bermotor harus melaporkan secara tertulis\nkepada unit pelaksana Uji Berkala Kendaraan Bermotor  yang\nmenerbitkan bukti lulus Uji Ber kala apabila Kendaraan\nbermotornya dioperasikan di wilayah lain di luar wilayah\npengujian yang bersangkutan  secara terus-menerus lebih dari\n3 (tiga) bulan.\n\nParagraf 6\n\nUnit Pelaksana Uji Berkala"
+   }
+  },
+  {
+   "id": "ID-H2141-A160",
+   "no": 160,
+   "noLabel": {
+    "id": "Pasal 160"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 160\n\nUnit pelaksana Uji Berkala wajib:\n\na.  melaksanakan pengujian sesuai dengan akreditasi dan\nsertifikasi;\nb.  mempertahankan mutu pengujian yang diselenggarakan;\nc.  membuat rencana dan pelaporan secara berkala setiap\npenyelenggara pengujian kepada menteri yang\nbertanggung jawab di bidang sarana dan prasarana lalu\nlintas dan angkutan jalan;\nd.  menggunakan peralatan pengujian; dan\ne.  mengikuti tata cara pengujian."
+   }
+  },
+  {
+   "id": "ID-H2141-A161",
+   "no": 161,
+   "noLabel": {
+    "id": "Pasal 161 "
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Ketiga"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 161 . . .\n\n\n\n\nPasal 161\n\n(1)  Setiap unit pelaksana Uji Berkala Kendaraan Bermotor\nsebagaimana dimaksud dalam Pasal 1 43 ayat (2)  harus\ndiakreditasi oleh menteri yang bertanggungjawab di bidang\nsarana dan prasarana lalu lintas dan angkutan jalan.\n\n(2)  Untuk memperoleh akreditasi sebagaimana dimaksud\npada ayat (1), unit pelaksana Uji Berkala Kendaraan\nBermotor harus memenuhi persyaratan:\n\na. lokasi;\nb. kompetensi penguji Kendaraan Bermotor;\nc. standar fasilitas prasarana dan peralatan pengujian\nKendaraan Bermotor;\nd. keakurasian peralatan pengujian Kendaraan Bermotor;\ne. sistem dan tata cara pengujian; dan\nf. sistem informasi Uji Berkala Kendaraan Bermotor.\n\n(3)  Ketentuan lebih lanjut mengenai persy aratan teknis unit\npelaksana Uji Berkala diatur dengan peraturan menteri\nyang bertanggung jawab dibidang sarana dan prasarana\nlalu lintas dan angkutan jalan."
+   }
+  },
+  {
+   "id": "ID-H2141-A162",
+   "no": 162,
+   "noLabel": {
+    "id": "Pasal 162"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 162\n\nLokasi unit pelaksana Uji Berkala Kendaraan Bermotor paling\nsedikit harus memenuhi persyaratan:\n\na. terletak pada lokasi yang mudah dijangkau oleh pemilik\nKendaraan Bermotor;\nb. sesuai dengan rencana umum tata ruang daerah;\nc. memenuhi hasil analisis dampak lalu lintas; dan\nd. memiliki atau menguasai area  tanah sesuai dengan\nkebutuhan."
+   }
+  },
+  {
+   "id": "ID-H2141-A163",
+   "no": 163,
+   "noLabel": {
+    "id": "Pasal 163"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 163\n\nDalam hal tertentu penyelenggaraan Uji Berkala dapat\ndilakukan dengan menggunakan unit Uji Berkala keliling."
+   }
+  },
+  {
+   "id": "ID-H2141-A164",
+   "no": 164,
+   "noLabel": {
+    "id": "Pasal 164"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 164\n\n(1)  Unit pelaksana Uji Berkala Kendaraan Bermotor  harus\nmemiliki peralatan uji.\n\n(2) Peralatan . . .\n\n\n\n\n\n(2)  Peralatan uji sebagaimana dimaksud pada ayat (1) paling\nsedikit meliputi:\n\na. alat uji emisi gas buang;\nb. alat uji kebisingan;\nc. alat uji rem;\nd. alat uji lampu;\ne. alat uji kincup roda depan;\nf. alat uji penunjuk kecepatan;\ng. alat pengukur kedalaman alur ban;\nh. alat pengukur berat;\ni. alat pengukur dimensi;\nj. alat uji daya tembus cahaya pada kaca;\nk. kompresor udara;\nl. generator set; dan\nm. peralatan bantu.\n\n(3)  Ketentuan lebih lanjut mengenai spesifikasi teknis\nperalatan Uji Berkala Kendaraan Bermotor  dan peralatan\npendukungnya diatur dengan peraturan menteri yang\nbertanggung jawab dibidang sar ana dan prasarana lalu\nlintas dan angkutan jalan."
+   }
+  },
+  {
+   "id": "ID-H2141-A165",
+   "no": 165,
+   "noLabel": {
+    "id": "Pasal 165"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 165\n\n(1) Pada setiap unit pelaksana  Uji Berkala Kendaraan\nBermotor harus dilengkapi dengan papan informasi atau\nmedia informasi lainnya yang berisikan prosedur  Uji\nBerkala Kendaraan Bermotor.\n\n(2) Informasi sebagaimana dimaksud pada ayat (1)\nditempatkan pada tempat yang mudah terlihat dan dapat\ndibaca oleh pemohon."
+   }
+  },
+  {
+   "id": "ID-H2141-A166",
+   "no": 166,
+   "noLabel": {
+    "id": "Pasal 166"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 166\n\n(1) Unit pelaksana Uji Berkala harus membangun sistem\ninformasi Uji Berkala Kendaraan Bermotor.\n\n(2) Sistem informasi sebagaimana dimaksud p ada ayat (1)\nharus terhubung dan terintegrasi dengan sistem informasi\npada kementerian yang bertanggung jawab di  bidang\nsarana dan prasarana lalu lintas dan angkutan jalan serta\ndapat diakses oleh masyarakat.\n\n(3) Ketentuan . . .\n\n\n\n\n(3) Ketentuan lebih lanjut mengenai sistem informas i Uji\nBerkala Kendaraan Bermotor  diatur dalam peraturan\nmenteri yang bertanggung jawab di  bidang sarana dan\nprasarana lalu lintas dan angkutan jalan."
+   }
+  },
+  {
+   "id": "ID-H2141-A167",
+   "no": 167,
+   "noLabel": {
+    "id": "Pasal 167"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 167\n\n(1) Untuk menjamin keakurasian peralatan uji, peralatan uji\nharus dikalibrasi secara berkala 1 (satu) tahun sekali.\n\n(2) Kalibrasi peralatan uji sebagaimana dimaksud pada ayat\n(1) dilaksanakan oleh menteri yang bertanggung jawab di\nbidang sarana dan prasarana lalu lintas dan angkutan\njalan.\n\n(3) Unit pelaksana Uji Berkala  Kendaraan Bermotor  yang\ntidak melakukan  kalibrasi peralatan sebagaimana\ndimaksud pada ayat (1) , hasil Uji Berkala yang dilakukan\ndinyatakan tidak sah.\n\n(4) Biaya kalibrasi sebagaimana dimaksud pada ayat (1)\ndibebankan kepada unit Uji Berkala Kendaraan Bermotor\nyang bersangkutan.\n\n(5) Ketentuan lebih lanjut mengenai tata cara kalibrasi diatur\ndengan peraturan menteri yang bertanggung jawab\ndibidang sarana dan prasarana lalu lintas dan angkutan\njalan."
+   }
+  },
+  {
+   "id": "ID-H2141-A168",
+   "no": 168,
+   "noLabel": {
+    "id": "Pasal 168"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 168\n\n(1) Menteri yang bertanggung jawab di bidang sarana dan\nprasarana lalu lintas dan angkutan jala n dan gubernur\ndapat melakukan pengawasan dan pemantauan\npelaksanaan Uji Berkala Kendaraan Bermotor.\n\n(2) Pengawasan dan pemantauan sebagaimana dimaksud\npada ayat ( 1) dapat berupa uji petik terhadap Kendaraan\nBermotor hasil Uji Berkala yang dipilih secara acak.\n\n(3) Hasil uji petik s ebagaimana dimaksud pada ayat ( 2)\ndigunakan sebagai salah satu penilaian hasil pemeriksaan\nkinerja unit pelaksana Uji Berkala Kendaraan Bermotor\nyang bersangkutan.\n\n\n\nBagian . . .\n\n\n\n\nBagian Keempat\n\nKualifikasi  Teknis dan Kompetensi Penguji"
+   }
+  },
+  {
+   "id": "ID-H2141-A169",
+   "no": 169,
+   "noLabel": {
+    "id": "Pasal 169"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 169\n\n(1) Kompetensi penguji diberikan berdasarkan tingkat\nkeahlian, wewenang , dan t anggung jawab secara\nberjenjang.\n\n(2) Kompetensi sebagaimana dimaksud pada ayat (1)\ndiberikan setelah mengikuti pendidikan dan pelatihan\nserta lulus uji kompetensi pengujian Kendaraan Bermotor.\n\n(3) Bukti lulus uji kompetensi sebagaimana dimaksud pada\nayat (2) diberikan dalam bentuk sertifikat kompetensi dan\ntanda kualifikasi teknis penguji Kendaraan Bermotor.\n\n(4) Sertifikat kompetensi dan tanda kualifikasi teknis penguji\nKendaraan Bermotor sebagaimana dimaksud pada ayat (3)\ndiberikan oleh menteri yang bertanggungjawab di  bidang\nsarana dan prasana lalu lintas dan angkutan jalan.\n\n(5) Sertifikat kompetensi dan tanda kualifikasi teknis\nsebagaimana dimaksud pada ayat ( 4) berlaku di seluruh\nIndonesia."
+   }
+  },
+  {
+   "id": "ID-H2141-A170",
+   "no": 170,
+   "noLabel": {
+    "id": "Pasal 170"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 170\n\nPenguji yang menjalankan tugas pengujian wajib mengenakan\ntanda kualifikasi teknis."
+   }
+  },
+  {
+   "id": "ID-H2141-A171",
+   "no": 171,
+   "noLabel": {
+    "id": "Pasal 171"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 171\n\nKetentuan lebih lanjut mengenai kriteria, persyaratan, dan tata\ncara pengangkatan penguji serta tanda kualifikasi teknis\npenguji diatur dengan peraturan menteri yang\nbertanggungjawab di bidang sarana dan prasarana lalu lintas\ndan angkutan jalan.\n\n\n\n\n\n\nBAB VII . . .\n\n\n\n\nBAB VII\n\nBENGKEL UMUM KENDARAAN BERMOTOR\n\nBagian Kesatu\n\nPenyelenggaraan Bengkel Umum"
+   }
+  },
+  {
+   "id": "ID-H2141-A172",
+   "no": 172,
+   "noLabel": {
+    "id": "Pasal 172"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 172\n\n(1) Bengkel umum Kendaraan Bermotor  berfungsi untuk\nmemperbaiki dan merawat Kendaraan Bermotor agar tetap\nmemenuhi persyaratan teknis dan laik jalan.\n\n(2) Bengkel umum sebagaimana dimaksud pada ayat (1) wajib\nmemenuhi persyaratan teknis bengkel umum Kendaraan\nBermotor.\n\n(3) Persyaratan teknis bengkel umum Kendaraan Bermotor\nsebagaimana dimaksud pada ayat ( 2) sesuai dengan\ntingkat pemenuhan terhadap persyaratan sistem mutu,\nmekanik, fasilitas dan peralatan, serta manajemen\ninformasi.\n\n(4) Bengkel umum terdiri atas:\n\na. bengkel kelas I tipe A, B, dan C;\nb. bengkel kelas II tipe A, B, dan C;\nc. bengkel kelas III tipe A, B, dan C.\n\n(5) Bengkel umum sebagaimana dimaksud pada ayat ( 4)\ndibuktikan dengan sertifikasi bengkel umum.\n\n(6) Sertifikasi sebagaimana dimaksud pada ayat (5) diberikan\noleh menteri yang bertanggungjawab di bidang industri.\n\n(7) Ketentuan lebih lanjut mengenai persyaratan teknis ,\nklasifikasi, dan sertifikasi bengkel umum diatur oleh\nperaturan menteri yang bertanggungjawab di bidang\nindustri.\n\n\nBagian Kedua\n\nAkreditasi Bengkel Umum Untuk Uji Berkala"
+   }
+  },
+  {
+   "id": "ID-H2141-A173",
+   "no": 173,
+   "noLabel": {
+    "id": "Pasal 173"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 173\n\n(1) Bengkel umum yang m elakukan Uji Berkala Kendaraan\nBermotor wajib mempunyai akreditasi.\n\n\n(2) Akreditasi . . .\n\n\n\n\n(2) Akreditasi sebagaimana dimaksud pada ayat (1)\nmerupakan bukti kemampuan bengkel umum untuk\nmelakukan perawatan berkala, perbaikan kecil, perbaikan\nbesar, serta perbaikan landasan dan badan Kendaraan.\n\n(3) Bengkel umum sebagaimana dimaksud pada ayat (1)\nmeliputi:\n\na. bengkel umum agen tunggal pemegang merek\nKendaraan Bermotor; dan\nb. bengkel umum swasta bukan agen tunggal pemegang\nmerek Kendaraan Bermotor."
+   }
+  },
+  {
+   "id": "ID-H2141-A174",
+   "no": 174,
+   "noLabel": {
+    "id": "Pasal 174"
+   },
+   "chapter": {
+    "id": "BAB VII / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 174\n\n(1)  Bengkel umum Kendaraan Bermoto r sebagaimana\ndimaksud dalam Pasal 173 dapat menjadi unit pelaksana\nUji Berkala Kendaraan Bermotor.\n\n(2)  Bengkel umum yang melakukan Uji Berkala sebagaimana\ndimaksud pada ayat (1) wajib memenuhi persyaratan:\n\na. memiliki peralatan dan fasilitas Uji Berkala;\nb. memiliki izin usaha bengkel Kendaraan Bermotor dari\npemerintah kabupaten/kota berdasarkan rekomendasi\ndari menteri yang bertanggung jawab di bidang\nindustri dan rekomendasi dari Kepolisian Negara\nRepublik Indonesia; dan\nc. memenuhi hasil analisis dampak lalu lintas.\n\n(3)  Penetapan bengkel umum Kendaraan Bermotor  menjadi\nunit pelaksana Uji Berkala Kendaraan Bermotor dilakukan\noleh menteri yang bertangung jawab di  bidang sarana dan\nprasarana lalu lintas dan angkutan jalan.\n\n(4)  Ketentuan lebih lanjut mengenai pemberian akreditasi dan\npenetapan bengkel umum menjadi unit pelaksana Uji\nBerkala diatur dengan peraturan menteri yang\nbertanggungjawab di  bidang sarana dan prasarana lalu\nlintas dan angkutan jalan.\n\n\n\n\n\nBAB VIII . . .\n\n\n\n\nBAB VIII\n\nSANKSI ADMINISTRATIF"
+   }
+  },
+  {
+   "id": "ID-H2141-A175",
+   "no": 175,
+   "noLabel": {
+    "id": "Pasal 175"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 175\n\n(1) Setiap orang yang melanggar ketentuan Pasal 121 ayat (1),\nPasal 123 ayat (4 ), atau 143 ayat (1) dikenai sanksi\nadministratif.\n\n(2) Sanksi administratif sebagaimana dima ksud pada ayat (1)\ndapat berupa:\n\na. peringatan tertulis; dan\nb. denda administratif."
+   }
+  },
+  {
+   "id": "ID-H2141-A176",
+   "no": 176,
+   "noLabel": {
+    "id": "Pasal 176"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 176\n\n(1) Peringatan tertulis sebagaimana dimaksud dalam Pasal\n175 ayat (2) huruf a di berikan sebanyak 3 (tiga) kali\ndengan jangka waktu masing -masing 30 (tiga puluh) hari\nkalender.\n\n(2) Dalam hal pemilik Kendaraan Bermotor  tidak\nmelaksanakan kewajiban setelah berakhirnya jangka\nwaktu p eringatan tertulis ke 3 (tiga), dikenai sanksi\nadministratif berupa denda paling banyak\nRp24.000.000,00 (dua puluh empat juta rupiah)."
+   }
+  },
+  {
+   "id": "ID-H2141-A177",
+   "no": 177,
+   "noLabel": {
+    "id": "Pasal 177"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 177\n\n(1)  Bengkel umum yang melanggar ketentuan Pasal 173 ayat\n(1) atau Pasal 174 ayat (2) dikenai sanksi administratif.\n\n(2) Sanksi admnistratif sebagaimana dimaksud pada ayat (1),\ndapat berupa:\n\na. peringatan tertulis;\nb. denda administratif; dan/atau\nc. penutupan bengkel umum."
+   }
+  },
+  {
+   "id": "ID-H2141-A178",
+   "no": 178,
+   "noLabel": {
+    "id": "Pasal 178"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 178\n\n(1) Peringatan tertulis sebagaimana dimaksud da lam Pasal\n177 ayat (2) huruf a di berikan sebanyak 3 (tiga) kali\ndengan jangka waktu masing -masing 30 (tiga puluh) hari\nkalender.\n\n\n(2) Dalam . . .\n\n\n\n\n(2) Dalam hal pemilik bengkel umum tidak melaksanakan\nkewajiban setelah berakhirnya jangka waktu peringatan\ntertulis ke 3 (tiga), dikenai denda administratif paling\nbanyak Rp24.000.000,00 (dua puluh empat juta rupiah).\n\n(3) Dalam waktu 10 (sepuluh) hari kalender sejak tanggal\npengenaan denda administratif atau 90 (sembilan puluh)\nhari kalender sejak pembayaran denda,  pemilik bengkel\numum tidak melaksanakan kewajibannya dilakukan\npenutupan bengkel umum untuk menyelenggarakan Uji\nBerkala."
+   }
+  },
+  {
+   "id": "ID-H2141-A179",
+   "no": 179,
+   "noLabel": {
+    "id": "Pasal 179"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 179\n\n(1) Penguji yang melanggar ketentuan sebagaimana dimaksud\ndalam Pasal 1 70 dan penguji yang melakukan pengujian\ntidak sesuai dengan kompetensi yang dimiliki  dikenai\nsanksi administratif  oleh p emberi kompetensi pengujian\nKendaraan Bermotor.\n\n(2) Sanksi administratif sebagaimana dima ksud pada ayat (1)\ndapat berupa:\n\na. peringatan tertulis;\nb. denda administratif;\nc. pembekuan sertifikat kompetensi; dan/atau\nd. pencabutan sertifikat kompetensi."
+   }
+  },
+  {
+   "id": "ID-H2141-A180",
+   "no": 180,
+   "noLabel": {
+    "id": "Pasal 180"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 180\n\n(1)  Peringatan tertulis sebagaimana dimaksud dalam Pasal\n179 ayat (2) huruf a di berikan sebanyak 3 (tiga) kali\nberturut-turut dengan jangka waktu masing -masing 30\n(tiga puluh) hari kalender.\n\n(2) Dalam hal penguji Kendaraan Bermotor  tidak\nmengindahkan peringatan tert ulis sebagaimana dimaksud\npada ayat (1) , dikenai denda administratif sebesar\nRp10.000.000,00 (sepuluh juta rupiah).\n\n(3)  Selain dikena i denda sebagaimana dimaksud pada ayat\n(2), dilakukan pembekuan sertifikat kompetensi.\n\n(4) Dalam hal setelah 30 (tiga puluh) ha ri kalender sejak\npembekuan sertifikat kompetensi sebagaimana dimaksud\npada ayat (3), penguji kendaraan bermotor tidak\nmengindahkan kewajibannya, sertifikat kompetensinya\ndicabut."
+   }
+  },
+  {
+   "id": "ID-H2141-A181",
+   "no": 181,
+   "noLabel": {
+    "id": "Pasal 181 "
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 181 . . .\n\n\n\n\nPasal 181\n\n\nBukti lulus Uji Berkala sebagaimana dimaksud dalam Pasal\n152 dan Pasal 158 dapat dicabut apabila:\n\na. spesifikasi teknik kendaraan diubah  sehingga tidak sesuai\ndengan data yang ada pada Sertifikat Registrasi Uji Tipe dan\nbukti lulus Uji Berkala Kendaraan yang bersangkutan;\nb. pemilik baru tidak melaporkan pengalih an kepemilikan\nKendaraan Bermotor  sehingga nama pemilik tidak sesuai\ndengan yang tercantum dalam bukti lulus Uji Berkala."
+   }
+  },
+  {
+   "id": "ID-H2141-A182",
+   "no": 182,
+   "noLabel": {
+    "id": "Pasal 182"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 182\n\nKetentuan lebih lanjut mengenai tata cara pengenaan sanksi\nadministratif diatur dengan peraturan menteri yang\nbertanggungjawab dib idang sarana dan prasarana lalu lintas\ndan angkutan jalan.\n\n\n\nBAB IX\n\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H2141-A183",
+   "no": 183,
+   "noLabel": {
+    "id": "Pasal 183"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 183\n\nPada saat Peraturan Pemerintah ini mulai berlaku, rem parkir\nuntuk Sepeda Motor  yang sudah diproduksi dengan  JBB 400\n(empat ratus) kilogram atau lebih  harus menyesuaikan dengan\nketentuan dalam Peraturan Pemerintah ini  paling lama 2  (dua)\ntahun terhitung sejak Peraturan Pemerintah ini diundangkan."
+   }
+  },
+  {
+   "id": "ID-H2141-A184",
+   "no": 184,
+   "noLabel": {
+    "id": "Pasal 184"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 184\n\nPada saat Peraturan Pemerintah ini mulai berlaku, penggunaan\nbuku uji, tanda  uji, dan tanda samping yang telah ada\ndinyatakan masih berlaku sampai habis masa berlakunya."
+   }
+  },
+  {
+   "id": "ID-H2141-A185",
+   "no": 185,
+   "noLabel": {
+    "id": "Pasal 185"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 185\n\nPada saat Peraturan Pemerintah ini mulai berlaku, setiap unit\npelaksana Pengujian Kendaraan Bermotor  paling lama 5 (lima)\ntahun wajib membangun  sistem informasi pengujian\nKendaraan Bermotor.\nBAB X . . .\n\n\n\n\n\n\n\nBAB X\n\n\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H2141-A186",
+   "no": 186,
+   "noLabel": {
+    "id": "Pasal 186"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 186\n\nPada saat Peraturan Pemerintah ini  mulai berlaku , semua\nperaturan perundang -undangan yang merupakan peraturan\npelaksanaan dari Peraturan Pemerintah Nomor 44 Tahun 1993\ntentang Kendaraan dan Pengemudi (Lembaran Negara Republik\nIndonesia Tahun 1993 Nomor 64, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 3530) yang mengatur tentang\nKendaraan,  dinyatakan masih tetap berlaku sepanjang tidak\nbertentangan dengan ketentuan Peraturan Pemerintah ini."
+   }
+  },
+  {
+   "id": "ID-H2141-A187",
+   "no": 187,
+   "noLabel": {
+    "id": "Pasal 187"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 187\n\nPada saat Peraturan Pemerintah ini  mulai berlaku , Peraturan\nPemerintah Nomor 44 Tahun 1993 tentang Kendaraan dan\nPengemudi (Lembaran Negara Republik Indonesia Tahun 1993\nNomor 64, Tambahan Lembaran Negara Republik Indonesia\nNomor 3530) dicabut dan dinyatakan tidak berlaku."
+   }
+  },
+  {
+   "id": "ID-H2141-A188",
+   "no": 188,
+   "noLabel": {
+    "id": "Pasal 188"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 188\n\nPeraturan Pemerintah  ini mulai berlaku pada tanggal\ndiundangkan.\n\n\n\n\n\n\n\n\n\n\n\nAgar . . .\n\n\n\n\n\n\n\nAgar setiap orang mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan\nmenempatkannya dalam Lembaran Negara Republik Indonesia.\n\n\nDitetapkan  di Jakarta\n\npada tanggal 15 Mei 2012\n\nPRESIDEN REPUBLIK INDONESIA,\n\n\n\n       ttd.\n\n\n\n\nDR. H. SUSILO BAMBANG YUDHOYONO\n\n\n\nDiundangkan di Jakarta\n\npada tanggal 15 Mei 2012\n\nMENTERI HUKUM DAN HAK ASASI MANUSIA\n       REPUBLIK INDONESIA,\n\n\n\n    ttd.\n\n\n\n AMIR SYAMSUDIN\n\n\n\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2012 NOMOR 120\n\n\n\n\n\n\n\nSalinan sesuai dengan aslinya\nKEMENTERIAN SEKRETARIAT NEGARA\nREPUBLIK INDONESIA\nAsisten Deputi Perundang-undangan\nBidang Perekonomian,\n\n         ttd.\n\n     SETIO SAPTO NUGROHO\n\n\n\n\nPENJELASAN\n\nATAS\n\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\n\nNOMOR  55  TAHUN  2012\n\nTENTANG\n\nKENDARAAN\n\n\nI. U M U M\n\nKendaraan merupakan sebagian unsur pokok dalam penyelenggaraan\nLalu Lintas dan Angkutan Jalan yang bertujuan untuk mewujudkan lalu\nlintas dan a ngkutan jalan yang selamat, aman, cepat, lancar, tertib dan\nteratur, nyaman dan efisien, mampu m emadukan moda transportasi\nlainnya, menjangkau seluruh pelosok wilayah daratan, menunjang\npemerataan, pertumbuhan dan stabilitas, pendorong, penggerak  dan\npenunjang pembangunan nasional dengan biaya yang terjangkau oleh\ndaya beli masyarakat.\nDi samping itu, kedudukan dan peranan Kendaraan sebagai sarana\ntransportasi yang memiliki peran di  dalam kegiatan sosial ekonomi\nmasyarakat, dan juga menyangkut hajat hidup s eluruh lapisan\nmasyarakat, terutama yang menyangkut perwujudan keseimbangan\nperkembangan antar daerah dan pemerataan hasil -hasil pembangunan\nsecara nasional, serta untuk mendukung kegiatan ekonomi,\nmeningkatkan persatuan dan kesatuan bangsa, dalam rangka\nmewujudkan sasaran  pembangunan nasional menunju masyarakat\nIndonesia yang adil dan makmur berdasarkan Pancasila.\n\nDalam kedudukan dan peranannya seperti itu, maka pengaturan tentang\nKendaraan seharusnya tidak hanya dilihat dari kepentingan sektoral\nsemata, namun lebih dimaksudkan untuk pencapaian tujuan\npenyelenggaraan Lalu Lintas dan Angkutan Jalan sebagaimana diuraikan\ndi atas.\n\nPemerintah sebagai pemegang kekuasaan pemerintahan negara,\nmempunyai tugas dan kewajiban untuk melakukan pengaturan terhadap\nKendaraan yang semata -mata diarahkan untuk pencapaian tujuan\npenyelenggaraan Lalu Lintas dan Angkutan Jalan dan pembangunan\nnasional. Peraturan Pemerintah ini mengandung semangat pemberian\nkemudahan pelayanan kepada masyarakat, dinamika perubahan atau\nperkembangan teknologi di bidang Kendaraan Bermotor dan perubahan -\nperubahan secara global serta meningkatkan peran serta pemerintah\ndaerah dan swasta.\n\nPeraturan . . .\n\n\n\n\n\nPeraturan Pemerintah ini telah menampun g berbagai perubahan\npengaturan yang terkait dengan penyelenggaraan pengujian Kendaraan\nBermotor baik yang menyangkut unit pelaksana pengujianya maupun\nmekanisme pengujian. Hal ini dimaksudkan untuk meningkatkan kualitas\nkinerja pengujian Kendaraan Bermotor sekaligus kemudahan pelayanan\nkepada masyarakat sehingga dapat diwujud kan keselamatan sarana yang\nlebih baik.\n\nUntuk mencapai daya guna dan hasil guna yang optimal, diperlukan\nadanya pengaturan mengenai Kendaraan secara terpadu, menyeluruh ,\ndan berkesinambungan. Hal ini dapat dicapai jika kegiatan pengaturan\ndan pembinaan pa da masing -masing instansi pembina lalu lintas dan\nangkutan jalan terkoordinasi secara ut uh, tertib, teratur dan sinerg is\nantara satu dengan lainnya.\n\nDalam rangka mendukung sistem informasi dan komunikasi secara\nterpadu, peraturan pemerintah ini mengatur ketentuan bagi unit\npelaksana pengujian Kendaraan Bermotor untuk membangun sistem\ninformasi dan komunikasi di bidang pengujian Kendaraan Bermotor, serta\ndalam rangka mencip takan sarana yang memenuhi persyaratan teknis\ndan laik jalan perlu ada pengaturan men genai kompetensi bagi penguji\nKendaraan Bermotor dan pengawasan pelaksanaan pengujian Kendaraan\nBermotor yang di atur melalui sistem akreditasi pengujian Kendaraan\nBermotor secara berkala.\n\nPeraturan Pemerintah ini mengatur hal -hal yang berkaitan dengan jen is\ndan fungsi Kendaraan Bermotor, persyaratan teknis dan laik jalan\nKendaraan Bermotor, Kereta Gandengan dan Kereta Tempelan, kewajiban\nyang harus dipenuhi oleh Kendaraan Bermotor yang akan dibuat/dirakit\ndi dalam negeri dan/atau diimpor, perlengkapan Kend araan Bermotor,\npersyaratan Kendaraan Tidak Bermotor, Pengujian Kendaraan Bermotor\nbeserta susunannya, pemeliharaan dan perbaikan Kendaraan Bermotor\nserta pemberian sanksi administratif.\n\nII. PASAL DEMI PASAL\n\nPasal 1\nCukup jelas.\n\nPasal 2\nCukup jelas.\n\nPasal 3\nAyat (1)\n\nCukup jelas.\n\nAyat (2) . . .\n\n\n\n\n\n\nAyat (2)\nYang dimaksud dengan “ Kendaraan Bermotor umum” adalah\nsetiap Kendaraan Bermotor yang digunakan untuk angkutan\nbarang dan/atau orang dengan dipungut bayaran.\n\nPasal 4\nCukup jelas.\n\nPasal 5\nAyat (1)\nCukup jelas.\n\nAyat (2)\nHuruf a\nYang dimaksud dengan “ Mobil Penumpang sedan yang\nmemiliki 3 (tiga) ruang ” adalah  Kendaraan Bermotor yang\ndirancang t erpisah secara permanen atau tidak permanen\nantara ruang mesin di bagian depan atau belakang, ruang\npengemudi dan penumpang di bagi an tengah, dan ruang\nbagasi di bagian belakang atau depan.\n\n Huruf b\nYang dimaksud dengan “Mobil Penumpang bukan sedan\nyang memiliki 2 (dua) ruang” adalah Kendaraan Bermotor\nyang dirancang terpisah secara permanen atau tidak\npermanen antara ruang mesin di bagian depan atau\nbelakang dengan ruang pengemud i dan penumpang\ndan/atau bagasi.\nMobil penumpang bukan sedan  misalnya Sport Utility\nVehicle, Station Wagon, Multy Purpose Vehicle, Hatch Back,\nAll Purpose Vehicle.\n\nHuruf c\nMobil Penumpang lainnya  yang dirancang untuk keperluan\nkhusus dalam ketentuan ini misalnya  mobil ambulance,\nmobil jenazah.\n\nAyat (3)\nHuruf a\n  Angka 1\n   Cukup jelas.\n\n  Angka 2\nPanjang keseluruhan dalam ketentuan ini tidak\ntermasuk bumper.\nAngka 3 . . .\n\n\n\n\n\n  Angka 3\n  Cukup jelas.\n\nHuruf b\n  Angka 1\n   Cukup jelas.\n  Angka 2\nPanjang keseluruhan dalam ketentuan ini tidak\ntermasuk bumper.\n  Angka 3\n  Cukup jelas.\n\nHuruf c\n  Angka 1\n   Cukup jelas.\n  Angka 2\nPanjang keseluruhan dalam ketentuan ini tidak\ntermasuk bumper.\n  Angka 3\n  Cukup jelas.\n\nHuruf d\n Cukup jelas.\n\nHuruf e\n Cukup jelas.\n\nHuruf f\n Cukup jelas.\n\nHuruf g\n Cukup jelas.\n\nAyat (4)\n Huruf a\nMobil Barang bak muatan terbuka dalam ketentuan ini\nmisalnya dump truck, non dump truck, flat deck , double\ncabin (Mobil Barang kabin ganda).\nMobil Barang kabin ganda adalah kendaraan bermotor yang\ndirancang memiliki 2 (dua) baris tempat duduk pengemudi\ndan penumpang dengan ruang barang yang terpisah secara\npermanen dan/atau tidak p ermanen oleh dinding atau\nsekat.\nHuruf b . . .\n\n\n\n\n\n\nHuruf b\nMobil Barang bak muatan tertutup dalam ketentuan ini\nmisalnya box, wing box, box freezer , Mobil Barang kabin\nganda.\n\nHuruf c\nYang dimaksud dengan “ Mobil tangki ” adalah mobil yang\ndirancang untuk mengangkut benda cair atau gas.\n\nHuruf d\nCukup jelas.\n\nAyat (5)\nCukup jelas.\n\nAyat (6)\nHuruf a\nKendaraan khusus untuk fungsi militer misalnya\nKendaraan tank, panser , Explosive Ordinance Disposal\n(EOD), Commander Call Carrier, Security Barrier , Kendaraan\nlapis baja yang digunakan untuk tempur dan Kendaraan\nyang dirancang khusus yang dimili ki oleh Tentara Nasional\nIndonesia.\n\nHuruf b\nKendaraan khusus untuk fungsi  ketertiban dan keamanan\nmasyarakat misalnya Kendaraan water canon, Anti Personel\nCarrier (APC), Explosive Ordinance Disposal  (EOD),\nCommander Call Carrier, Security Barrier , dan Ken daraan\ntaktis lainnya yang dirancang khusus yang dimiliki oleh\nKepolisian Negara Republik Indonesia.\n\nHuruf c\nKendaraan khusus untuk fungsi  alat produksi misalnya\ntraktor, stoomwaltz, forklift, loader, excavator, buldozer , dan\ncrane.\n\nHuruf d\nCukup jelas.\n\nPasal 6\nCukup jelas.\n\n\nPasal 7 . . .\n\n\n\n\n\n\nPasal 7\nHuruf a\nYang dimaksud dengan “rangka landasan” adalah chassis.\n\nHuruf b\nYang dimaksud dengan “motor penggerak ” adalah mesin atau\nengine.\n\nHuruf c\nCukup jelas.\n\nHuruf d\nYang dimaksud dengan “sistem penerus daya ” adalah sis tem\nuntuk meneruskan tenaga dari mesin ke roda atau gear box ,\ntransmisi, dan perseneling.\n\nHuruf e\nCukup jelas.\n\nHuruf f\nCukup jelas.\n\nHuruf g\nCukup jelas.\n\nHuruf h\nCukup jelas.\n\nHuruf i\nCukup jelas.\n\nHuruf j\nCukup jelas.\n\nPasal 8\nCukup jelas.\n\n\n\nPasal 9\nCukup jelas.\n\nPasal 10\nCukup jelas.\n\nPasal 11 . . .\n\n\n\n\n\n\nPasal 11\nCukup jelas.\n\nPasal 12\nAyat (1)\nHuruf a\nYang dimaksud dengan “motor bakar ” adalah motor\npenggerak yang menggunakan bahan bakar padat, cair,\ndan/atau gas.\n\nHuruf b\nYang dimaksud dengan “motor listrik ” adalah motor\npenggerak yang menggunakan listrik sebagai tenaga\npenggerak.\n\nHuruf c\nCukup jelas.\n\nAyat (2)\nHuruf a\n Cukup jelas.\n\nHuruf b\n Cukup jelas.\n\nHuruf c\n Cukup jelas.\n\nHuruf d\nYang dimaksud dengan “b us gandeng” adalah bus yang\nditarik oleh mobil bus penarik yang mempunyai sedikitnya\n2 (dua) sumbu roda dan dilengkapi dengan alat untuk\ndigandengkan dengan mobil bus penarik dan tidak\nmembebani sumbu mobil bus penarik.\n\nYang dimaksud dengan “b us tempel” adalah bus yang\nditarik oleh mobil bus penarik yang mempuny ai sedikitnya\n1 (satu) sumbu roda dan dilengkapi dengan alat untuk\nditempelkan dengan mobil  bus penarik dan membebani\nsumbu mobil bus penarik.\n\nHuruf e\n Cukup jelas.\n\nAyat (3)\nCukup jelas.\n\nPasal 13 . . .\n\n\n\n\n\n\nPasal 13\nCukup jelas.\n\n\nPasal 14\nAyat (1)\n Cukup jelas.\n\nAyat (2)\nHuruf a\n Cukup jelas.\n\nHuruf b\nCukup jelas.\n\nHuruf c\nCukup jelas.\n\nHuruf d\nPipa pembuangan tidak melebihi sisi samping atau sisi\nbelakang Kendaraan Bermotor dimaksudkan untuk\nmenghindari terjadinya pusaran -pusaran (turbulensi) yang\ndapat mengakibatkan ma suknya asap atau gas buang ke\nruang penumpang, termasuk dalam hal ini pipa\npembuangan yang tidak terlalu pendek.\n\nAyat (3)\n Cukup jelas.\n\nAyat (4)\n Cukup jelas.\n\nAyat (5)\n Cukup jelas.\n\n\nPasal 15\nCukup jelas.\n\n\nPasal 16\nAyat (1)\nCukup jelas.\n\nAyat (2) . . .\n\n\n\n\n\nAyat (2)\nYang dimaksud dengan “ban bertekanan” adalah ban yang\nberongga yang dapat diisi dengan gas.\n\nSumbu-sumbu roda Kendaraan Bermotor, Kereta Gandengan\ndan Kereta Tempelan harus dihitung dan dirancang atau\ndibuat sedemikian rupa sehingga mampu memikul beban\ndinamis Kendaraan sebesar JBB. Untuk dapat memberikan\njaminan keselamatan secara teknis terhadap penggunaan ban\ndan pelek pada Kendaraan Bermotor, Kereta Gandengan dan\nKereta Tempelan, besarnya beban yang diperbolehkan untuk\nmasing-masing ukuran ban, dikaitkan d engan tekanan kerja\nban, cara pemasangan, dan tingkat keausan serta\nkerusakannya.\n\nAyat (3)\nCukup jelas.\n\nAyat (4)\nCukup jelas.\n\nPasal 17\nJenis sistem suspensi dalam ketentuan ini dapat berupa  pegas daun,\npenyangga hidrolis, dan penyangga pneumatis.\n\nPasal 18\nAyat (1)\nSistem alat kemudi yang dipasang dalam Kend araan Bermotor\nberfungsi untuk mengendalikan arah gerak Kendaraan\nBermotor yang bersangkutan. Roda kemudi digunakan untuk\nMobil Penumpang, Mobil Bus, Mob il Barang, dan Kendaraan\nkhusus sedangkan stang digunakan untuk Sepeda Motor roda\ndua atau roda tiga.\n\nAyat (2)\nCukup jelas.\n\nAyat (3)\nSistem alat kemudi yang dilengkapi dengan tenaga bantu harus\ndapat menurunkan kinerjanya menjadi sistem alat kemudi\ntanpa tenaga bantu atau manual apabila Kendaraan Be rmotor\ntersebut bergerak dengan kecepatan tinggi.\n\nPasal 19\nCukup jelas.\nPasal 20 . . .\n\n\n\n\n\n\nPasal 20\nCukup jelas.\n\nPasal 21\nHuruf a\nKetentuan ini dimaksudkan agar pengemudi dapat\nmengendalikan kecepatan dan memberhentikan Kendaraan\nBermotor dari tempat duduknya tanpa melep askan tangannya\ndari roda kemudi atau stang kemudi.\n\nHuruf b\nCukup jelas.\n\nPasal 22\nCukup jelas.\n\nPasal 23\nCukup jelas.\n\nPasal 24\nCukup jelas.\n\nPasal 25\nCukup jelas.\n\nPasal 26\n Cukup jelas.\n\nPasal 27\nCukup jelas.\n\nPasal 28\nCukup jelas.\n\nPasal 29\nCukup jelas.\n\nPasal 30\nCukup jelas.\n\nPasal 31\nCukup jelas.\n\n\nPasal 32 . . .\n\n\n\n\n\nPasal 32\nCukup jelas.\n\nPasal 33\nCukup jelas.\n\nPasal 34\nCukup jelas.\n\nPasal 35\nCukup jelas.\n\nPasal 36\nCukup jelas.\n\nPasal 37\nCukup jelas.\n\nPasal 38\nCukup jelas.\n\nPasal 39\n Cukup jelas.\n\nPasal 40\n Cukup jelas.\n\nPasal 41\n Cukup jelas.\n\nPasal 42\nCukup jelas.\n\nPasal 43\nCukup jelas.\n\nPasal 44\nAyat (1)\n Kepentingan tertentu dalam ketentuan ini misalnya pemadam\nkebakaran, ambulans, kendaraan bermotor untuk memberikan\npertolongan pada kecelakaan, kendaraan pi mpinan lembaga\nnegara, kendaraan bermotor pengangkut jenazah, kendaraan\nbermotor petugas kepolisian, kendaraan bermotor pengawalan\nTentara Nasional Indonesia, kendaraan bermotor penanganan\nbencana alam, kendaraan bermotor untuk pengawasan jalan\ntol, kendar aan bermotor untuk pengawasan sarana dan\nprasarana lalu lintas dan angkutan jalan.\n\nAyat (2) . . .\n\n\n\n\n\n\nAyat (2)\n Huruf a\n Yang dimaksud dengan “rotasi atau stasioner” adalah\nlampu peringatan khusus yang berkedip dengan\nmemancarkan cahaya di sekeliling sumbu vertikal.\n\n Huruf b\nYang dimaksud dengan “lampu kilat” adalah lampu strobo,\ndirectional flashing lamp , atau lampu peringatan khusus\nyang memancarkan cahaya kedap -kedip dengan arah\nsudut tertentu.\n\n Huruf c\nYang dimaksud dengan  “lampu bar lengkap ” adalah\ncomplete bar lamp atau lampu peringatan khusus dengan\ndua atau lebih sistem optik yang memancarkan cahaya\nberkedip di sekeliling sumbu vertikal.\n\nAyat (3)\nCukup jelas.\n\nAyat (4)\n Cukup jelas.\n\nAyat (5)\n Cukup jelas.\n\nAyat (6)\n Cukup jelas.\n\nAyat (7)\n Cukup jelas.\n\nPasal 45\nCukup jelas.\n\nPasal 46\nCukup jelas.\n\nPasal 47\nCukup jelas.\n\nPasal 48\nCukup jelas.\nPasal 49 . . .\n\n\n\n\n\n\nPasal 49\nCukup jelas.\n\nPasal 50\nCukup jelas.\n\nPasal 51\nCukup jelas.\n\nPasal 52\nCukup jelas.\n\nPasal 53\nCukup jelas.\n\nPasal 54\nAyat (1)\nHuruf a\nCukup jelas.\n\nHuruf b\nLebar tidak melebihi 2.500 (dua ribu lima ratus) milimeter\ndalam ketentuan ini  tidak berarti Kendaraan dapat\nmemiliki lebar 2.500 (dua ribu lima ratus) milimeter tetapi\nlebar kendaraan bermotor ditentukan berdasarkan lebar\nchassis asli dari pabrik pembuat dan  hanya dapat\nditambah dengan paling banyak 50 (lima puluh) milimeter\nke kiri dan ke kanan.\n\nYang dimaksud dengan “lebar tidak melebihi” adalah lebar\nterluar yang termasuk engsel  pintu atau bak , handle bak\nmuatan, namun tidak termasuk kaca spion Kendaraan\nBermotor.\n\nHuruf c\n Cukup jelas.\n\nHuruf d\n Cukup jelas.\n\nHuruf e\n Cukup jelas.\n\n\nAyat (2) . . .\n\n\n\n\n\n\nAyat (2)\nJarak sumbu (wheel base)  Kendaraan Bermotor dihitung dari\nsumbu depan ke titik tengah antara  sumbu terdekat dengan\nsumbu depan dengan sumbu yang paling jauh kecuali untuk\nKendaraan 2 (dua) sumbu, jarak sumbunya dihitung dari jarak\nsumbu depan ke sumbu belakang.\n\nDalam hal jarak sumbu (wheel base) Kendaraan Bermotor yang\nmemiliki lebih dari satu steering axle  maka yang merupakan\nsumbu terdepan adalah steering axle yang paling depan.\n\nDalam hal j arak sumbu ( wheel base ) untuk Kereta Tempelan\ndihitung dari king pin  ke titik tengah antara sumbu terdekat\ndengan sumbu depan dengan sumbu yang paling jauh.\n\nDalam hal jarak sumbu untuk Kereta Gandengan  dihitung dari\nsumbu depan ke titik tengah antara sumbu terdekat dengan\nsumbu depan dengan sumbu yang paling jauh. Walaupun\npanjang bagian Kendaraan tanpa muatan yang menjulur ke\nbelakang dari sumbu paling belakang, maksimum 62,50%\n(enam puluh dua koma lima nol persen), tidak berarti\nKendaraan memiliki julur belakang 62,50%  (enam puluh dua\nkoma lima nol persen), tetapi dihitung berdasarkan panjang\nchassis asli dari pabrik pembuat dan hanya dapat ditambah\ndengan bumper.\n\nAyat (3)\nCukup jelas.\n\nAyat (4)\nCukup jelas.\n\nPasal 55\nCukup jelas.\n\nPasal 56\nCukup jelas.\n\nPasal 57\nCukup jelas.\n\nPasal 58\nAyat (1)\nCukup jelas.\nAyat (2) . . .\n\n\n\n\n\n\nAyat (2)\nCukup jelas.\n\nAyat (3)\nCukup jelas.\n\nAyat (4)\nHuruf a\nCukup jelas.\n\nHuruf b\nCukup jelas.\n\nHuruf c\nYang dimaksud dengan “tidak membahayakan” adalah\njika kaca peca h maka serpihan kaca tidak berhamburan\natau tetap menempel ( laminated glass ) dan ujung atau\ntepi pecahan kaca berbentuk tumpul (tempered glass).\n\nHuruf d\nCukup jelas.\n\nAyat (5)\nCukup jelas.\n\nAyat (6)\nCukup jelas.\n\nAyat (7)\nPintu dalam ketentuan ini melipu ti pintu samping, dan pintu\nbelakang kecuali pintu sorong.\n\nAyat (8)\nCukup jelas.\n\nAyat (9)\nCukup jelas.\n\nAyat (10)\nCukup jelas.\n\nPasal 59\nCukup jelas.\n\nPasal 60 . . .\n\n\n\n\n\n\nPasal 60\nCukup jelas.\n\nPasal 61\nCukup jelas.\n\nPasal 62\nCukup jelas.\n\nPasal 63\nCukup jelas.\n\nPasal 64\nCukup jelas.\n\nPasal 65\nAyat (1)\n Kandungan polutan  dalam ketentuan ini misalnya  Carbon\nMonoxida (CO), Hidrocarbon (HC), Nitrogen Oksida (NOx),\ndan/atau partikulat.\n\nAyat (2)\n Cukup jelas.\n\nAyat (3)\n Cukup jelas.\n\nAyat (4)\n Cukup jelas.\n\nPasal 66\nAyat (1)\nYang dimaksud dengan “desibel (A) atau dB (A)” adalah satuan\nukuran suara yang dapat didengar manusia.\n\nAyat (2)\n Cukup jelas.\n\nAyat (3)\n Cukup jelas.\n\nAyat (4)\n Cukup jelas.\n\nPasal 67 . . .\n\n\n\n\n\nPasal 67\nCukup jelas.\n\nPasal 68\nCukup jelas.\n\nPasal 69\nCukup jelas.\n\nPasal 70\nLampu utama dalam ketentuan ini adalah lampu utama jauh.\n\nKetentuan ini dimaksudkan agar daya pancar dan arah sinar lampu\nutama tidak menyilaukan.\n\nPasal 71\nCukup jelas.\n\nPasal 72\nAyat (1)\nYang dimaksud dengan “alat penunjuk  kecepatan” adalah\nspeedometer tester.\n\nYang dimaksud dengan “kecepatan tertentu ” adalah kecepatan\nyang digunakan untuk mengetahui keakuratan alat penunjuk\nkecepatan misalnya 40 (empat puluh), 80 (delapan puluh), 120\n(seratus dua puluh) kilometer per jam.\n\nAyat (2)\n Cukup jelas.\n\nAyat (3)\n Cukup jelas.\n\nPasal 73\nCukup jelas.\n\nPasal 74\nCukup jelas.\n\nPasal 75\nCukup jelas.\n\nPasal 76\nCukup jelas.\n\nPasal 77 . . .\n\n\n\n\n\nPasal 77\nCukup jelas.\n\nPasal 78\nCukup jelas.\n\nPasal 79\nCukup jelas.\n\nPasal 80\nRem pelambat dalam ketentuan ini misalnya rem gas buang (exhaust\nbrake), transmisi.\n\nPasal 81\n Cukup jelas.\n\nPasal 82\n Cukup jelas.\n\nPasal 83\nCukup jelas.\n\nPasal 84\nCukup jelas.\n\nPasal 85\nCukup jelas.\n\nPasal 86\nAyat (1)\n Cukup jelas.\n\nAyat (2)\n Lampu berwarna merah bertuliskan berhenti dimaksudkan agar\nketika bus be rhenti, pengguna jalan lainnya yang berada di\nbelakang mobil bus dapat mengetahui bahwa bus dalam\nkeadaan berhenti.\n\nPasal 87\nCukup jelas.\n\nPasal 88\nCukup jelas.\n\n\nPasal 89 . . .\n\n\n\n\n\n\nPasal 89\nCukup jelas.\n\nPasal 90\nCukup jelas.\n\nPasal 91\n Cukup jelas.\n\nPasal 92\nYang dimaksud dengan “alat pengontrol kendaraan” adalah alat yang\nberfungsi mengetahui posisi atau kecepatan selama kenda raan\ndioperasikan misalnya tachograph, Global Positionting System (GPS).\n\nPasal 93\nAyat (1)\nYang dimaksud dengan “rancang bangun tertentu” adal ah\nrancang bangun yang disesuaikan dengan kebutuhan kondisi\nkecacatan (disabilitas).\n\nAyat (2)\nCukup jelas.\n\nPasal 94\nCukup jelas.\n\nPasal 95\nCukup jelas.\n\nPasal 96\nCukup jelas.\n\nPasal 97\nCukup jelas.\n\nPasal 98\nCukup jelas.\n\nPasal 99\nCukup jelas.\n\nPasal 100\nCukup jelas.\n\nPasal 101 . . .\n\n\n\n\n\n\nPasal 101\nCukup jelas.\n\nPasal 102\nCukup jelas.\n\nPasal 103\nCukup jelas.\n\nPasal 104\nCukup jelas.\n\nPasal 105\nCukup jelas.\n\nPasal 106\nCukup jelas.\n\nPasal 107\nCukup jelas.\n\nPasal 108\nCukup jelas.\n\nPasal 109\nCukup jelas.\n\nPasal 110\nAyat (1)\n Cukup jelas.\n\nAyat (2)\nYang dimaksud dengan “ secara bersama atau hampir\nbersamaan” adalah penggunaan sistem pengereman yang\nbersesuaian antara Kendaraan Bermotor penarik dengan\nKendaraan yang ditarik, misalnya apabila Kendaraan Bermotor\npenariknya m enggunakan alat pengereman dengan sistem\nudara, maka sistem rem yang digunakan pada Kendaraan yang\nditarik juga sistem udara, atau jika Kendaraan Bermotor\npenariknya menggunakan sistem rem hidrolis, maka Kendaraan\nyang ditarik harus menggunakan sistem rem hidrolis pula.\n\nAyat (3)\n Cukup jelas.\nAyat (4) . . .\n\n\n\n\n\n\nAyat (4)\n Cukup jelas.\n\nPasal 111\nCukup jelas.\n\nPasal 112\nCukup jelas.\n\nPasal 113\nAyat (1)\nYang dimaksud dengan “Kereta Gandengan atau tempelan”\nadalah suatu alat yang dipergunakan untuk mengangkut barang\ndan dirancang untuk ditarik oleh Kendaraan Bermotor.\nYang dimaksud dengan “Kendaraan Bermotor penarik” adalah\nKendaraan Bermotor yang memiliki perlengkapan untuk\nmenarik, sistem pengereman, dan sistem kelistrikan.\n\nAyat (2)\n Cukup jelas.\n\nAyat (3)\n Cukup jelas.\n\nPasal 114\nCukup jelas.\n\nPasal 115\nCukup jelas.\n\nPasal 116\n Cukup jelas.\n\nPasal 117\nCukup jelas.\n\nPasal 118\nCukup jelas.\n\nPasal 119\nAyat (1)\nYang dimaksud dengan “alat bantu” antara lain tali pengendali.\n\n\nAyat (2) . . .\n\n\n\n\n\nAyat (2)\nCukup jelas.\n\nPasal 120\nCukup jelas.\n\nPasal 121\nAyat (1)\nPengujian dilakukan dengan tujuan untuk menjamin\nkeselamatan, menjaga kelestarian lingkungan, dan pelayanan\numum.\n\nAyat (2)\n Cukup jelas.\n\nAyat (3)\n Cukup jelas.\n\nAyat (4)\nHuruf a\n\nKategori L1  adalah Kendaraan Bermotor beroda dua\ndengan kapasitas silinder mesin tidak lebih dari 50 cm 3\natau dengan desain kecepatan maksimum 50 km/jam.\n\nKategori L2 adalah Kendaraan Bermotor beroda tiga\ndengan susunan roda simetris atau tidak simetris dan\nkapasitas silinder mesin tidak lebih dari 50 cm3 atau\ndengan desain kecepatan maksimum 50 km/jam.\n\nKategori L3 adalah Kendaraan Bermotor beroda dua\ndengan kapasitas silinder lebih dari 50 cm3 atau\ndengan desain kecepatan lebih dari 50 km/jam.\n\nKategori L4 adalah Kendaraan Bermotor beroda tiga\ndengan susunan r oda tidak simetris dengan kapasitas\nsilinder mesin lebih dari 50 cm3 atau dengan desain\nkecepatan lebih dari 50 km/jam .\n\nKategori L5 adalah Kendaraan Bermotor beroda tiga\ndengan susunan roda simetris dengan kapasitas\nsilinder mesin lebih dari 50 cm 3 atau d engan desain\nkecepatan lebih dari 50 km/jam.\n\n\n\n\n\n\n\n Huruf b . . .\n\n\n\n\n\nHuruf b\n\nKategori M1 adalah Kendaraan Bermotor yang\ndigunakan untuk angkutan orang yang memiliki tempat\nduduk maksimal delapan orang termasuk tempat duduk\npengemudi atau yang beratnya  tidak lebih dari 3 500\nKilogram.\n\nHuruf c\n\nKategori M2 adalah Kendaraan Bermotor yang digunakan\nuntuk angkutan orang dan mempunyai lebih dari\ndelapan tempat duduk dan mempunyai JBB atau Gross\nVehicle Weight (GVW) sampai dengan 5000 Kilogram.\n\nKategori M3 adalah Kendaraan Bermotor yang digunakan\nuntuk angkutan orang dan mempunyai lebih dari\ndelapan tempat duduk dan mempunyai JBB atau Gross\nVehicle Weight (GVW) lebih dari 5000 Kilogram.\n\n\nHuruf d\n\nKategori N1 adalah Kendaraan Bermotor beroda empat\natau lebih yang digunakan untu k angkutan barang dan\nmempunyai JBB atau Gross Vehicle Weight (GVW) sampai\ndengan 3.500 Kilogram.\n\nKategori N2 adalah  Kendaraan Bermotor beroda empat\natau lebih  yang diguna kan untuk angkutan barang dan\nmempunyai JBB atau Gross Vehicle Weight  (GVW) lebih\ndari 3.500 Kilogram  tetapi tidak lebih dari 12 .000\nKilogram.\n\nKategori N3 adalah Kendaraa n Bermotor beroda empat\natau lebih  yang digunakan untuk angkutan barang dan\nmempunyai JBB atau Gross Vehicle Weight   (GVW) lebih\ndari 12.000 Kilogram.\n\nKategori O1 adala h Kendaraan Bermotor penarik untuk\nKereta Gandengan a tau Kereta Tempelan dengan JBKB\natau Gross Combination Weight (GCW) tidak lebih dari 750\nKilogram.\n\n\n\n\n\nKategori . . .\n\n\n\n\n\n\nKategori O2 adalah Kendaraan Bermotor penarik untuk\nkereta gandengan atau kereta tempelan dengan JBKB\natau Gross Combination Weight  (GCW) lebih dari 750\nKilogram tetapi tidak lebih dari 3.500 Kilogram.\n\nKategori O3 adalah Kendaraan Bermotor penarik untuk\nkereta gandengan atau kereta tempelan dengan JBKB\natau Gross Combination Weight  (GCW) lebih dari 3.500\nKilogram tetapi tidak lebih dari 10 .000 Kilogram.\n\nKategori  O4 adalah Kendaraan Bermotor penarik untuk\nkereta gandengan atau tempelan dengan JBKB atau\nGross Combination Weight  (GCW) lebih dari 10 .000\nKilogram.\n\nPasal 122\n Ayat (1)\n  Cukup jelas.\n\nAyat (2)\nYang dimaksud dengan “dikalibrasi” adalah suatu proses untuk\nmenguji keakuratan peralatan pengujian.\n\nPasal 123\nCukup jelas.\n\nPasal 124\nCukup jelas.\n\nPasal 125\nCukup jelas.\n\nPasal 126\nCukup jelas.\n\nPasal 127\nCukup jelas.\n\nPasal 128\nCukup jelas.\n\nPasal 129\nAyat (1)\nCukup jelas.\n\n\nAyat (2) . . .\n\n\n\n\n\nAyat (2)\nYang dimaksud dengan “unsur  pengaman” antara lain berupa\nhologram dan/atau water mark dan/atau invisible ink.\n\nAyat (3)\nCukup jelas.\n\nPasal 130\nCukup jelas.\n\nPasal 131\nYang dimaksud dengan “penelitian rancang bang un dan rekayasa\nKendaraan Bermotor” adalah pemeriksaan secara teliti atas desain\nsesuai dengan persyaratan teknis.\n\nHuruf a\n Cukup jelas.\n\nHuruf b\nYang dimaksud dengan “bak muatan” adalah semua\nbentuk konstruksi bak muatan untuk angkutan barang\nyang bersifat padat, cair , atau gas yang terpasang pada\nlandasan Kendaraan Bermotor.\n\nHuruf c\nCukup jelas.\n\nHuruf d\nCukup jelas.\n\nHuruf e\nModifikasi dimensi hanya dapat dilakukan pada\nperpanjangan atau pemendekan landasan (chassis) tanpa\nmengubah jarak sumbu dan kons truksi Kendaraan\nBermotor tersebut.\nModifikasi mesin dilakukan dengan mengganti mesin\ndengan mesin yang  merek dan tipenya sama.\nModifikasi daya angkut hanya dapat dilakukan pada\nKendaraan Bermotor dengan menambah sumbu bagian\nbelakang tanpa mengubah jara k sumbu aslinya dan\nsumbu yang ditambahkan harus memiliki material yang\nsama dengan sumbu aslinya dan harus dilakukan\nperhitungan sesuai dengan daya dukung jalan yang\ndilalui.\n\nPasal 132 . . .\n\n\n\n\n\n\nPasal 132\nCukup jelas.\n\nPasal 133\nCukup jelas.\n\nPasal 134\nCukup jelas.\n\nPasal 135\n Cukup jelas.\n\nPasal 136\nAyat (1)\nYang dimaksud dengan “jumlah” adalah Kendaraan Bermotor\nyang diproduksi telah mencapai jumlah yang ditentukan.\n\nAyat (2)\nCukup jelas.\n\nAyat (3)\nCukup jelas.\n\nAyat (4)\nCukup jelas.\n\nPasal 137\n Ayat (1)\nYang dimaksud d engan “kesesuaian spesifikasi teknis ” adalah\nmeliputi kesesuaian persyaratan teknis dan laik jalan.\n\n Ayat (2)\n  Cukup jelas.\n\n Ayat (3)\n  Cukup jelas.\n\n Ayat (4)\n  Cukup jelas.\n\n Ayat (5)\n  Cukup jelas.\n\nAyat (6) . . .\n\n\n\n\n\n\n Ayat (6)\n  Cukup jelas.\n\nPasal 138\nCukup jelas.\n\nPasal 139\nCukup jelas.\n\nPasal 140\n Cukup jelas.\n\nPasal 141\nCukup jelas.\n\nPasal 142\nCukup jelas.\n\nPasal 143\nAyat (1)\nCukup jelas.\n\n Ayat (2)\nHuruf a\n Cukup jelas.\n\nHuruf b\n Cukup jelas.\n\nHuruf  c\nYang dimaksud dengan “unit pelaksana pengujian swasta”\nadalah pihak swasta yang melakukan kegiatan khusus di\nbidang Pengujian Kendaraan Bermotor atau bengkel\numum yang mempunyai akreditasi dan kualitas tertentu\nuntuk dapat melakukan uji berkala Kendaraan Bermotor.\n\nAyat (3)\nCukup jelas.\n\nPasal 144\nAyat (1)\nCukup jelas.\n\n\nAyat (2) . . .\n\n\n\n\n\n\nAyat (2)\nYang dimaksud “dalam keadaan tertentu” adalah keadaan\ndimana masa berlaku Uji Berkala telah jatuh tempo se dangkan\nKendaraan Bermotor sedang  berada di luar daerah tempat\nKendaraan Bermotor diregistrasi  atau Kendaraan terkena\nsanksi pelanggaran karena tidak terpenuhi persyaratan teknis\ndan laik jalan dan terkena kewajiban uji.\n\nPasal 145\nCukup jelas.\n\nPasal 146\nCukup jelas.\n\nPasal 147\nCukup jelas.\n\nPasal 148\nCukup jelas.\n\nPasal 149\nAyat (1)\nCukup jelas.\n\nAyat (2)\nAlat bantu dalam ketent uan ini misalnya  palu, senter, alat\nukur (meteran), kunci pas, dan tang.\n\nAyat (3)\nCukup jelas.\n\nAyat (4)\nCukup jelas.\n\nAyat (5)\nCukup jelas.\n\nPasal 150\n Cukup jelas.\n\nPasal 151\n Cukup jelas.\n\n\nPasal 152 . . .\n\n\n\n\n\nPasal 152\nCukup jelas.\n\nPasal 153\nCukup jelas.\n\nPasal 154\nCukup jelas.\n\nPasal 155\nAyat (1)\nCukup jelas.\n\nAyat (2)\nYang dimaksud dengan “kartu pintar” adalah smart card.\n\nPasal 156\nCukup jelas.\n\nPasal 157\nCukup jelas.\n\nPasal 158\nCukup jelas.\n\nPasal 159\nCukup jelas.\n\nPasal 160\nCukup jelas.\n\nPasal 161\nCukup jelas.\n\nPasal 162\nCukup jelas.\n\nPasal 163\nDalam hal tertentu  dalam ketentuan ini misalnya d aerah hanya\nterdapat Kendaraan Bermotor wajib uji dalam jumlah relatif sedikit\ndibanding dengan luas daerah  atau kondisi geografis daerah\nmengakibatkan tidak efisien apabila kendaraan bermotor mencapai\ntempat unit pelaksana uji.\n\n\nPasal 164 . . .\n\n\n\n\n\nPasal 164\nCukup jelas.\n\nPasal 165\n Cukup jelas.\n\nPasal 166\nCukup jelas.\n\nPasal 167\nCukup jelas.\n\nPasal 168\nCukup jelas.\n\nPasal 169\nCukup jelas.\n\nPasal 170\n\nCukup jelas.\n\n\nPasal 171\nCukup jelas.\n\nPasal 172\nCukup jelas.\n\nPasal 173\nCukup jelas.\n\nPasal 174\n Ayat (1)\n Cukup jelas.\n\n Ayat (2)\nHuruf a\nCukup jelas.\n\nHuruf b\nIzin usaha bengkel Kend araan Bermotor dari pemerintah\nuntuk Daerah Kh usus Ibukota Jakarta dilakukan oleh\nGubernur/Kepala Daerah Khusus Ibukota Jakarta.\n\n Rekomendasi yang diberikan Kepolisian Negara Republik\nIndonesia terkait dengan aspek keamanan lingkungan.\nHuruf c . . .\n\n\n\n\n\n\nHuruf c\nCukup jelas.\n\n Ayat (3)\n Cukup jelas.\n\n Ayat (4)\n Cukup jelas.\n\nPasal 175\nCukup jelas.\n\nPasal 176\n Cukup jelas.\n\nPasal 177\nCukup jelas.\n\nPasal 178\nCukup jelas.\n\nPasal 179\nCukup jelas.\n\nPasal 180\nCukup jelas.\n\nPasal 181\nCukup jelas.\n\nPasal 182\nCukup jelas.\n\nPasal 183\nCukup jelas.\n\nPasal 184\nCukup jelas.\n\nPasal 185\nCukup jelas.\nPasal 186 . . .\n\n\n\n\n\n\nPasal 186\nCukup jelas.\n\nPasal 187\nCukup jelas.\n\nPasal 188\nCukup jelas.\n\n\n\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 5317"
+   }
+  }
+ ]
+}

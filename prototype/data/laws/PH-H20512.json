@@ -1,0 +1,102 @@
+{
+ "id": "PH-H20512",
+ "title": {
+  "zh": null,
+  "en": "Reorganizing the National Development Company",
+  "orig": "Reorganizing the National Development Company"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p158",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1979-10-01",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Executive Order No. 562",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 6,
+ "chars": 1178,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/07_行政命令_EO/EO_00562_1979_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 6 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 EO_00562_1979_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H20512-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Sec 1"
+   },
+   "text": {
+    "en": "The Board of Directors of the National Development company shall be composed of the Minister of\nIndustry as Chairman, with the Minister of Finance, the Minister of Energy, and the Chairman of the\nDevelopment Bank of the Philippines, or a designated senior official from their offices, as members. In\naddition, the President of the Company and two other representatives who shall come from the private sector,\nto be appointed by the President of the Philippines, shall also be members of the Board."
+   }
+  },
+  {
+   "id": "PH-H20512-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Sec 2"
+   },
+   "text": {
+    "en": "The former Board of the National Development Company is abolished upon effectivity of this\nExecutive Order."
+   }
+  },
+  {
+   "id": "PH-H20512-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Sec 3"
+   },
+   "text": {
+    "en": "The Board of Directors shall appoint the President of the Company who shall act as the General\nManager of the corporation."
+   }
+  },
+  {
+   "id": "PH-H20512-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Sec 4"
+   },
+   "text": {
+    "en": "The Board of Directors shall have the power to represent the National Development Company in major\nprojects in which it is involved."
+   }
+  },
+  {
+   "id": "PH-H20512-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Sec 5"
+   },
+   "text": {
+    "en": "The Board of Directors shall have the power to reorganize the personnel complement of the\ncorporation and shall submit its financial requirements to the Ministry of Budget."
+   }
+  },
+  {
+   "id": "PH-H20512-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Sec 6"
+   },
+   "text": {
+    "en": "This Order shall take effect immediately.\nDone in the City of Manila, this 1st day of October, in the year of Our Lord, nineteen hundred and seventy"
+   }
+  }
+ ]
+}

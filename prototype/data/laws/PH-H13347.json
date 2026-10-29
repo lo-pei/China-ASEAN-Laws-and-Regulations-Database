@@ -1,0 +1,72 @@
+{
+ "id": "PH-H13347",
+ "title": {
+  "zh": null,
+  "en": "An Act to Appropriate the Sum of Fifty thousand Pesos for the Maintenance of and Aid to the Government Agricultural Colonies.",
+  "orig": "An Act to Appropriate the Sum of Fifty thousand Pesos for the Maintenance of and Aid to the Government Agricultural Colonies."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1917-03-09",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2697",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 505,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1917/act_2697_1917.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02697_1917_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02697_1917_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13347-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "There is hereby appropriated, out of any funds in the Insular Treasury not otherwise\nappropriated, the sum of fifty thousand pesos, which shall accrue and be added to the rice colonization and\nplantation fund under the provisions of Act Numbered Twenty-two hundred and fifty-four."
+   }
+  },
+  {
+   "id": "PH-H13347-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The funds hereby appropriated shall be disbursed and expended for the Government agricultural\ncolonies by the Secretary of Agriculture and Natural Resources."
+   }
+  },
+  {
+   "id": "PH-H13347-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, March 9, 1917."
+   }
+  }
+ ]
+}

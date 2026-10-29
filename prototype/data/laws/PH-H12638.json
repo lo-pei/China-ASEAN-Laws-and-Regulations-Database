@@ -1,0 +1,62 @@
+{
+ "id": "PH-H12638",
+ "title": {
+  "zh": null,
+  "en": "An Act to Change the Date for Commencing Future Annual Sessions of the Philippine Legislature.",
+  "orig": "An Act to Change the Date for Commencing Future Annual Sessions of the Philippine Legislature."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1909-05-20",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 1929",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 962,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1909/act_1929_1909.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_01929_1909_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_01929_1909_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12638-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Beginning with the year nineteen hundred and ten and thereafter, the annual session of the\nPhilippine Legislature shall commence on the sixteenth day of October, or if the sixteenth day of October be a\nlegal holiday, then on the first day following which is not a legal holiday: Provided, however, That if the\nCongress of the United States, at the close of its session on the fourth day of March, nineteen hundred and\neleven, shall not have passed a law providing that the term of office of the Delegates to the Philippine\nAssembly elected for the next Legislature shall end on the fourth day of March, nineteen hundred and twelve,\nthe session of the Philippine Legislature for the year nineteen hundred and eleven and in succeeding years\nshall begin on the first Monday of September, unless the first Monday of September is a legal holiday, then on\nthe day following which is not a legal holiday."
+   }
+  },
+  {
+   "id": "PH-H12638-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, May 20, 1909."
+   }
+  }
+ ]
+}

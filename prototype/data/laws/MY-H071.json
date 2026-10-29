@@ -1,14 +1,18 @@
 {
  "id": "MY-H071",
  "title": {
-  "zh": "雇佣法",
-  "en": null,
-  "orig": null
+  "zh": "雇佣法 1955",
+  "en": "Employment Act 1955",
+  "orig": "Employment Act 1955",
+  "vi": "Luật Việc làm 1955",
+  "th": "พระราชบัญญัติการจ้างงาน 1955",
+  "id": "Undang-Undang tentang Ketenagakerjaan 1955",
+  "ms": "Akta Pekerjaan 1955"
  },
  "country": "MY",
  "countryName": "马来西亚",
  "layer": "intl",
- "pack": "my-p03",
+ "pack": "my-2",
  "language": "zh",
  "level": "law",
  "category": null,

@@ -1,0 +1,2490 @@
+{
+ "id": "VN-H456",
+ "title": {
+  "zh": "住房法",
+  "en": "Law No. 56/2005/QH11 on housing",
+  "vi": "Luật Nhà ở số 56/2005/QH11",
+  "orig": "Luật Nhà ở số 56/2005/QH11",
+  "th": "พระราชบัญญัติที่อยู่อาศัย เลขที่ 56/2005/QH11",
+  "id": "Undang-Undang Perumahan No. 56/2005/QH11",
+  "ms": "Akta Perumahan No. 56/2005/QH11"
+ },
+ "country": "VN",
+ "countryName": "越南",
+ "layer": "intl",
+ "pack": "vn-p06",
+ "language": "vi",
+ "level": "law",
+ "category": "05_其他及未分类",
+ "status": "active",
+ "promulgatedDate": "2005",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "国会",
+ "docNumber": "56/2005/QH11",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 153,
+ "chars": 102134,
+ "source": {
+  "name": "越南法律数据库（vbpl.vn 官方公报文本）",
+  "url": "https://vbpl.vn/van-ban/chi-tiet/luat-nha-o-so-56-2005-qh11--16755"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\VN\\05_其他及未分类\\2005_56 2005 QH11_Luật Nhà ở số 56 2005 QH11.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 153 条；逐字未改写（源自 VN）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "VN-H456-A1",
+   "no": 1,
+   "noLabel": {
+    "vi": "Điều 1"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Phạm vi điều chỉnh"
+   },
+   "text": {
+    "vi": "Điều 1. Phạm vi điều chỉnh\n\nLuật này quy định về sở hữu nhà ở, phát triển, quản lý việc sử dụng, giao dịch về nhà ở và quản lý nhà nước về nhà ở.\n\nNhà ở theo quy định của Luật này là công trình xây dựng với mục đích để ở và phục vụ các nhu cầu sinh hoạt của hộ gia đình, cá nhân."
+   }
+  },
+  {
+   "id": "VN-H456-A2",
+   "no": 2,
+   "noLabel": {
+    "vi": "Điều 2"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Đối tượng áp dụng"
+   },
+   "text": {
+    "vi": "Điều 2. Đối tượng áp dụng\n\nLuật này áp dụng đối với tổ chức, cá nhân có liên quan đến sở hữu nhà ở, phát triển, quản lý việc sử dụng nhà ở, giao dịch về nhà ở và quản lý nhà nước về nhà ở."
+   }
+  },
+  {
+   "id": "VN-H456-A3",
+   "no": 3,
+   "noLabel": {
+    "vi": "Điều 3"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Áp dụng pháp luật"
+   },
+   "text": {
+    "vi": "Điều 3. Áp dụng pháp luật\n\n1. Trường hợp có sự khác nhau của Luật này với pháp luật có liên quan về sở hữu nhà ở, phát triển, quản lý việc sử dụng, giao dịch về nhà ở và quản lý nhà nước về nhà ở thì áp dụng quy định của Luật này.\n\n2. Trường hợp điều ước quốc tế mà Cộng hoà xã hội chủ nghĩa Việt Nam là thành viên có quy định khác với Luật này thì áp dụng quy định của điều ước quốc tế đó."
+   }
+  },
+  {
+   "id": "VN-H456-A4",
+   "no": 4,
+   "noLabel": {
+    "vi": "Điều 4"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Quyền có chỗ ở và quyền sở hữu nhà ở"
+   },
+   "text": {
+    "vi": "Điều 4. Quyền có chỗ ở và quyền sở hữu nhà ở\n\nCông dân có quyền có chỗ ở thông qua việc tạo lập nhà ở hợp pháp hoặc thông qua việc thuê, mượn, ở nhờ nhà ở theo quy định của pháp luật. Người tạo lập nhà ở hợp pháp có quyền sở hữu đối với nhà ở đó."
+   }
+  },
+  {
+   "id": "VN-H456-A5",
+   "no": 5,
+   "noLabel": {
+    "vi": "Điều 5"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Bảo hộ quyền sở hữu nhà ở"
+   },
+   "text": {
+    "vi": "Điều 5. Bảo hộ quyền sở hữu nhà ở\n\n1. Nhà nước công nhận và bảo hộ quyền sở hữu nhà ở của chủ sở hữu.\n\n2. Nhà ở thuộc sở hữu của tổ chức, cá nhân không bị quốc hữu hoá. Trường hợp thật cần thiết vì lý do quốc phòng, an ninh và vì lợi ích quốc gia, Nhà nước quyết định trưng mua hoặc trưng dụng nhà ở thì Nhà nước bồi thường cho chủ sở hữu nhà ở theo giá thị trường tại thời điểm thanh toán và tạo điều kiện để họ tạo lập nhà ở khác."
+   }
+  },
+  {
+   "id": "VN-H456-A6",
+   "no": 6,
+   "noLabel": {
+    "vi": "Điều 6"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Chính sách phát triển nhà ở"
+   },
+   "text": {
+    "vi": "Điều 6. Chính sách phát triển nhà ở\n\n1. Nhà nước có chính sách về quy hoạch, đất đai, tài chính, tín dụng; về nghiên cứu ứng dụng công nghệ và vật liệu xây dựng mới; về thị trường bất động sản nhà ở và thực hiện công khai, minh bạch thủ tục hành chính để tạo điều kiện cho tổ chức, cá nhân tham gia phát triển nhà ở theo quy định của pháp luật.\n\n2. Nhà nước khuyến khích tổ chức, cá nhân thuộc các thành phần kinh tế tham gia đầu tư phát triển nhà ở để bán, cho thuê, cho thuê mua đáp ứng nhu cầu nhà ở của người có thu nhập thấp và các tầng lớp dân cư trong xã hội.\n\n3. Nhà nước chủ động đầu tư phát triển quỹ nhà ở thuộc sở hữu nhà nước để cho thuê, cho thuê mua, phục vụ nhu cầu điều động, luân chuyển cán bộ, công chức; có chính sách hỗ trợ trực tiếp đối với một số đối tượng thuộc diện chính sách xã hội cải thiện nhà ở."
+   }
+  },
+  {
+   "id": "VN-H456-A7",
+   "no": 7,
+   "noLabel": {
+    "vi": "Điều 7"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Trách nhiệm của Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận"
+   },
+   "text": {
+    "vi": "Điều 7. Trách nhiệm của Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận\n\nMặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm tuyên truyền, vận động nhân dân thực hiện và giám sát việc thực hiện pháp luật về nhà ở."
+   }
+  },
+  {
+   "id": "VN-H456-A8",
+   "no": 8,
+   "noLabel": {
+    "vi": "Điều 8"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Những hành vi bị nghiêm cấm trong lĩnh vực nhà ở"
+   },
+   "text": {
+    "vi": "Điều 8. Những hành vi bị nghiêm cấm trong lĩnh vực nhà ở\n\n1. Xâm phạm, cản trở việc thực hiện các quyền và nghĩa vụ về sở hữu, sử dụng nhà ở của tổ chức, cá nhân.\n\n2. Vi phạm các quy định của Luật này và pháp luật về xây dựng trong việc phát triển nhà ở.\n\n3. Giả mạo, gian lận giấy tờ, làm sai lệch hồ sơ trong việc cấp giấy chứng nhận quyền sở hữu đối với nhà ở.\n\n4. Sử dụng nhà ở vào các hoạt động bị cấm theo quy định của pháp luật.\n\n5. Chiếm dụng diện tích nhà ở trái pháp luật, lấn chiếm không gian và các bộ phận công trình thuộc sở hữu chung hoặc của các chủ sở hữu khác dưới mọi hình thức.\n\n6. Lợi dụng chức vụ, quyền hạn, vượt quá quyền hạn hoặc thiếu trách nhiệm trong việc thực hiện các quy định của pháp luật về nhà ở.\n\n7. Những hành vi khác bị nghiêm cấm trong lĩnh vực nhà ở theo quy định của pháp luật.\n\nChương II\n\nSỞ HỮU NHÀ Ở"
+   }
+  },
+  {
+   "id": "VN-H456-A9",
+   "no": 9,
+   "noLabel": {
+    "vi": "Điều 9"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Chủ sở hữu nhà ở và đối tượng được sở hữu nhà ở"
+   },
+   "text": {
+    "vi": "Điều 9. Chủ sở hữu nhà ở và đối tượng được sở hữu nhà ở\n\n1. Chủ sở hữu nhà ở là tổ chức, cá nhân tạo lập hợp pháp nhà ở; trường hợp chủ sở hữu nhà ở có yêu cầu thì cơ quan nhà nước có thẩm quyền cấp giấy chứng nhận quyền sở hữu đối với nhà ở cho họ.\n\n2. Đối tượng được sở hữu nhà ở tại Việt Nam bao gồm:\n\na) Tổ chức, cá nhân trong nước không phụ thuộc vào nơi đăng ký kinh doanh, nơi đăng ký hộ khẩu thường trú;\n\nb) Người Việt Nam định cư ở nước ngoài quy định tại Điều 126 của Luật này;\n\nc) Tổ chức, cá nhân nước ngoài quy định tại khoản 1 Điều 125 của Luật này."
+   }
+  },
+  {
+   "id": "VN-H456-A10",
+   "no": 10,
+   "noLabel": {
+    "vi": "Điều 10"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Điều kiện để được cấp giấy chứng nhận quyền sở hữu đối với nhà ở"
+   },
+   "text": {
+    "vi": "Điều 10. Điều kiện để được cấp giấy chứng nhận quyền sở hữu đối với nhà ở\n\nTổ chức, cá nhân có các điều kiện sau đây được cấp Giấy chứng nhận quyền sở hữu nhà ở:\n\n1. Thuộc đối tượng quy định tại khoản 2 Điều 9 của Luật này;\n\n2. Có nhà ở được tạo lập hợp pháp thông qua việc đầu tư xây dựng, mua bán, tặng cho, thừa kế, đổi nhà ở và các hình thức khác theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H456-A11",
+   "no": 11,
+   "noLabel": {
+    "vi": "Điều 11"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Giấy chứng nhận quyền sở hữu đối với nhà ở"
+   },
+   "text": {
+    "vi": "Điều 11. Giấy chứng nhận quyền sở hữu đối với nhà ở\n\n1. Giấy chứng nhận quyền sở hữu đối với nhà ở được cấp cho chủ sở hữu theo quy định sau đây:\n\na) Trường hợp chủ sở hữu nhà ở đồng thời là chủ sử dụng đất ở, chủ sở hữu căn hộ trong nhà chung cư thì cấp một giấy chứng nhận là Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở;\n\nb) Trường hợp chủ sở hữu nhà ở không đồng thời là chủ sử dụng đất ở thì cấp Giấy chứng nhận quyền sở hữu nhà ở.\n\nGiấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở, Giấy chứng nhận quyền sở hữu nhà ở quy định tại khoản này được gọi chung là Giấy chứng nhận quyền sở hữu nhà ở.\n\n2. Chính phủ quy định nội dung và mẫu Giấy chứng nhận quyền sở hữu nhà ở."
+   }
+  },
+  {
+   "id": "VN-H456-A12",
+   "no": 12,
+   "noLabel": {
+    "vi": "Điều 12"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Ghi tên chủ sở hữu trong Giấy chứng nhận quyền sở hữu nhà ở"
+   },
+   "text": {
+    "vi": "Điều 12. Ghi tên chủ sở hữu trong Giấy chứng nhận quyền sở hữu nhà ở\n\n1. Nhà ở thuộc sở hữu của một tổ chức thì ghi tên tổ chức đó.\n\n2. Nhà ở thuộc sở hữu của một cá nhân thì ghi tên người đó.\n\n3. Nhà ở thuộc sở hữu chung hợp nhất thì ghi tên người được các chủ sở hữu thoả thuận cho đứng tên trong giấy chứng nhận, nếu không có thoả thuận thì ghi đủ tên các chủ sở hữu nhà ở đó; trường hợp nhà ở thuộc sở hữu chung của vợ chồng thì ghi đủ tên của cả vợ và chồng, trường hợp có vợ hoặc chồng không thuộc diện được sở hữu nhà ở tại Việt Nam theo quy định của pháp luật thì chỉ ghi tên người có quyền sở hữu nhà ở tại Việt Nam.\n\n4. Nhà ở thuộc sở hữu chung theo phần thì ghi tên từng chủ sở hữu đối với phần sở hữu riêng và giấy chứng nhận đối với nhà ở đó được cấp cho từng chủ sở hữu."
+   }
+  },
+  {
+   "id": "VN-H456-A13",
+   "no": 13,
+   "noLabel": {
+    "vi": "Điều 13"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Hiệu lực của Giấy chứng nhận quyền sở hữu nhà ở"
+   },
+   "text": {
+    "vi": "Điều 13. Hiệu lực của Giấy chứng nhận quyền sở hữu nhà ở\n\n1. Giấy chứng nhận quyền sở hữu nhà ở quy định tại Luật này là cơ sở pháp lý để chủ sở hữu nhà ở thực hiện các quyền và nghĩa vụ của mình đối với nhà ở đó theo quy định của pháp luật.\n\n2. Giấy chứng nhận quyền sở hữu nhà ở không còn hiệu lực pháp lý trong các trường hợp sau đây:\n\na) Nhà ở bị tiêu huỷ hoặc bị phá dỡ;\n\nb) Nhà ở bị tịch thu hoặc trưng mua theo quyết định của cơ quan nhà nước có thẩm quyền;\n\nc) Nhà ở được xây dựng trên đất thuê đã hết thời hạn thuê đất mà không được gia hạn thuê tiếp hoặc không được chuyển sang hình thức giao đất để sử dụng ổn định lâu dài;\n\nd) Nhà ở đã được cấp Giấy chứng nhận quyền sở hữu nhà ở nhưng bị cơ quan nhà nước có thẩm quyền ra quyết định thu hồi do cấp không đúng thẩm quyền, người được cấp giấy chứng nhận không đúng đối tượng, nhà ở được ghi trong giấy chứng nhận không đúng với hiện trạng khi cấp giấy hoặc nhà ở xây dựng trong khu vực đã bị cấm xây dựng nhà ở;\n\nđ) Nhà ở có Giấy chứng nhận quyền sở hữu nhà ở nhưng đã được cấp lại, cấp đổi Giấy chứng nhận quyền sở hữu nhà ở khác theo quy định của Luật này."
+   }
+  },
+  {
+   "id": "VN-H456-A14",
+   "no": 14,
+   "noLabel": {
+    "vi": "Điều 14"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Thẩm quyền cấp Giấy chứng nhận quyền sở hữu nhà ở"
+   },
+   "text": {
+    "vi": "Điều 14. Thẩm quyền cấp Giấy chứng nhận quyền sở hữu nhà ở\n\n1. Uỷ ban nhân dân tỉnh, thành phố trực thuộc trung ương (sau đây gọi chung là Uỷ ban nhân dân cấp tỉnh) cấp Giấy chứng nhận quyền sở hữu nhà ở cho tổ chức. Trường hợp chủ sở hữu chung là tổ chức và cá nhân thì Uỷ ban nhân dân cấp tỉnh cấp Giấy chứng nhận quyền sở hữu nhà ở.\n\n2. Uỷ ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh (sau đây gọi chung là Uỷ ban nhân dân cấp huyện) cấp Giấy chứng nhận quyền sở hữu nhà ở cho cá nhân."
+   }
+  },
+  {
+   "id": "VN-H456-A15",
+   "no": 15,
+   "noLabel": {
+    "vi": "Điều 15"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Hồ sơ đề nghị cấp Giấy chứng nhận quyền sở hữu nhà ở"
+   },
+   "text": {
+    "vi": "Điều 15. Hồ sơ đề nghị cấp Giấy chứng nhận quyền sở hữu nhà ở\n\n1. Hồ sơ đề nghị cấp Giấy chứng nhận quyền sở hữu nhà ở bao gồm:\n\na) Đơn đề nghị cấp Giấy chứng nhận quyền sở hữu nhà ở;\n\nb) Bản sao một trong các giấy tờ: giấy phép xây dựng; quyết định phê duyệt dự án phát triển nhà ở; Giấy chứng nhận đầu tư; giấy chứng nhận quyền sử dụng đất hoặc một trong các loại giấy tờ hợp lệ về quyền sử dụng đất theo quy định của pháp luật về đất đai; giấy tờ về quyền sở hữu nhà ở do cơ quan có thẩm quyền cấp qua các thời kỳ; thoả thuận đồng ý bằng văn bản của chủ sử dụng đất ở đối với trường hợp chủ sở hữu nhà ở không phải là chủ sử dụng đất ở mà nhà ở được xây dựng tại các khu vực không thuộc diện phải có giấy phép xây dựng; giấy tờ mua bán, tặng cho, đổi, thanh lý, hoá giá nhà ở; hợp đồng thuê mua nhà ở xã hội; quyết định trao tặng nhà tình nghĩa, nhà tình thương; giấy tờ về thừa kế nhà ở; bản án, quyết định của Toà án hoặc quyết định của cơ quan có thẩm quyền đã có hiệu lực pháp luật về sở hữu nhà ở; giấy tờ xác nhận của Uỷ ban nhân dân xã, phường, thị trấn (sau đây gọi chung là Uỷ ban nhân dân cấp xã) đối với các trường hợp khác, trừ nhà ở thuộc các khu vực cấm xây dựng theo quy định của pháp luật về xây dựng;\n\nc) Sơ đồ nhà ở, đất ở.\n\n2. Chính phủ quy định cụ thể các loại giấy tờ về tạo lập nhà ở quy định tại Điều này phù hợp với từng trường hợp, từng thời kỳ, từng loại nhà ở tại khu vực đô thị và nông thôn."
+   }
+  },
+  {
+   "id": "VN-H456-A16",
+   "no": 16,
+   "noLabel": {
+    "vi": "Điều 16"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Trình tự cấp Giấy chứng nhận quyền sở hữu nhà ở"
+   },
+   "text": {
+    "vi": "Điều 16. Trình tự cấp Giấy chứng nhận quyền sở hữu nhà ở\n\n1. Tại khu vực đô thị, việc nộp hồ sơ đề nghị cấp Giấy chứng nhận quyền sở hữu nhà ở được quy định như sau:\n\na) Tổ chức nộp hồ sơ tại cơ quan quản lý nhà ở cấp tỉnh;\n\nb) Cá nhân nộp hồ sơ tại cơ quan quản lý nhà ở cấp huyện.\n\n2. Tại khu vực nông thôn, việc nộp hồ sơ đề nghị cấp Giấy chứng nhận quyền sở hữu nhà ở được quy định như sau:\n\na) Tổ chức nộp hồ sơ tại cơ quan quản lý nhà ở cấp tỉnh;\n\nb) Cá nhân nộp hồ sơ tại Uỷ ban nhân dân xã hoặc nộp trực tiếp tại cơ quan quản lý nhà ở cấp huyện.\n\nTrường hợp cá nhân nộp hồ sơ tại Uỷ ban nhân dân xã thì trong thời hạn năm ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Uỷ ban nhân dân xã có trách nhiệm chuyển hồ sơ cho cơ quan quản lý nhà ở cấp huyện.\n\n3. Trong thời hạn ba mươi ngày, kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan nhà nước có thẩm quyền phải cấp Giấy chứng nhận quyền sở hữu nhà ở cho chủ sở hữu nhà ở.\n\nChủ sở hữu nhà ở nhận Giấy chứng nhận quyền sở hữu nhà ở tại cơ quan tiếp nhận hồ sơ, trường hợp người khác nhận thay thì phải có giấy uỷ quyền của chủ sở hữu nhà ở có chứng nhận của Uỷ ban nhân dân cấp xã.\n\n4. Khi nhận Giấy chứng nhận quyền sở hữu nhà ở, chủ sở hữu nhà ở phải nộp giấy tờ gốc của bản sao trong hồ sơ đề nghị cấp giấy chứng nhận quy định tại Điều 15 của Luật này, trừ quyết định phê duyệt dự án phát triển nhà ở; Giấy chứng nhận đầu tư; giấy chứng nhận quyền sử dụng đất đối với trường hợp được cấp Giấy chứng nhận quyền sở hữu nhà ở quy định tại điểm b khoản 1 Điều 11 của Luật này.\n\nTại khu vực nông thôn, Uỷ ban nhân dân xã có trách nhiệm thu giấy tờ gốc quy định tại khoản này đối với những trường hợp chủ sở hữu nhà ở nhận Giấy chứng nhận quyền sở hữu nhà ở tại Uỷ ban nhân dân xã. Trong thời hạn mười ngày làm việc, Uỷ ban nhân dân xã phải nộp giấy tờ gốc cho cơ quan quản lý nhà ở cấp huyện để đưa vào hồ sơ lưu trữ."
+   }
+  },
+  {
+   "id": "VN-H456-A17",
+   "no": 17,
+   "noLabel": {
+    "vi": "Điều 17"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Cấp lại Giấy chứng nhận quyền sở hữu nhà ở"
+   },
+   "text": {
+    "vi": "Điều 17. Cấp lại Giấy chứng nhận quyền sở hữu nhà ở\n\n1. Chủ sở hữu nhà ở bị mất Giấy chứng nhận quyền sở hữu nhà ở phải có hồ sơ đề nghị cấp lại giấy chứng nhận và nộp cho cơ quan quản lý nhà ở của cấp có thẩm quyền cấp giấy chứng nhận. Hồ sơ đề nghị cấp lại giấy chứng nhận bao gồm:\n\na) Đơn đề nghị cấp lại giấy chứng nhận, trong đó nêu rõ lý do mất giấy chứng nhận và cam đoan chịu trách nhiệm trước pháp luật về lời khai của mình;\n\nb) Giấy tờ xác nhận về việc mất giấy chứng nhận của cơ quan công an cấp xã nơi mất giấy kèm theo giấy tờ chứng minh đã đăng tin trên phương tiện thông tin đại chúng một lần đối với khu vực đô thị hoặc đã niêm yết thông báo mất Giấy chứng nhận quyền sở hữu nhà ở tại trụ sở Uỷ ban nhân dân xã trong thời hạn mười ngày làm việc đối với khu vực nông thôn, trừ trường hợp có căn cứ rõ ràng là giấy chứng nhận bị tiêu huỷ do thiên tai, hoả hoạn.\n\n2. Trong thời hạn ba mươi ngày, kể từ ngày nhận đủ hồ sơ hợp lệ mà chủ sở hữu nhà ở không tìm lại được giấy chứng nhận thì cơ quan nhà nước có thẩm quyền phải cấp lại Giấy chứng nhận quyền sở hữu nhà ở cho chủ sở hữu nhà ở."
+   }
+  },
+  {
+   "id": "VN-H456-A18",
+   "no": 18,
+   "noLabel": {
+    "vi": "Điều 18"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Cấp đổi Giấy chứng nhận quyền sở hữu nhà ở"
+   },
+   "text": {
+    "vi": "Điều 18. Cấp đổi Giấy chứng nhận quyền sở hữu nhà ở\n\n1. Giấy chứng nhận quyền sở hữu nhà ở bị hư hỏng, rách nát hoặc đã ghi hết trang xác nhận thay đổi thì chủ sở hữu nhà ở được cấp đổi giấy chứng nhận.\n\n2. Chủ sở hữu nhà ở có đơn đề nghị cấp đổi giấy chứng nhận kèm theo Giấy chứng nhận quyền sở hữu nhà ở cũ và nộp cho cơ quan quản lý nhà ở cấp có thẩm quyền cấp giấy chứng nhận.\n\n3. Trong thời hạn mười lăm ngày, kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan nhà nước có thẩm quyền phải cấp đổi Giấy chứng nhận quyền sở hữu nhà ở cho chủ sở hữu nhà ở."
+   }
+  },
+  {
+   "id": "VN-H456-A19",
+   "no": 19,
+   "noLabel": {
+    "vi": "Điều 19"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Xác nhận thay đổi sau khi cấp Giấy chứng nhận quyền sở hữu nhà ở"
+   },
+   "text": {
+    "vi": "Điều 19. Xác nhận thay đổi sau khi cấp Giấy chứng nhận quyền sở hữu nhà ở\n\n1. Việc xác nhận thay đổi sau khi cấp Giấy chứng nhận quyền sở hữu nhà ở được thực hiện khi có sự thay đổi về diện tích, tầng cao, kết cấu chính nhà ở; tách, nhập thửa đất đối với trường hợp được cấp Giấy chứng nhận quyền sở hữu nhà ở quy định tại điểm a khoản 1 Điều 11 của Luật này so với những nội dung đã ghi trong giấy chứng nhận.\n\n2. Chủ sở hữu nhà ở phải có bản kê khai về nội dung thay đổi kèm theo Giấy chứng nhận quyền sở hữu nhà ở và nộp cho cơ quan quản lý nhà ở cấp có thẩm quyền cấp giấy chứng nhận.\n\n3. Trong thời hạn ba mươi ngày, kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan nhà nước có thẩm quyền phải xác nhận nội dung thay đổi vào Giấy chứng nhận quyền sở hữu nhà ở và giao lại cho chủ sở hữu nhà ở."
+   }
+  },
+  {
+   "id": "VN-H456-A20",
+   "no": 20,
+   "noLabel": {
+    "vi": "Điều 20"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Trách nhiệm của các cơ quan liên quan trong việc cấp Giấy chứng nhận quyền sở hữu nhà ở"
+   },
+   "text": {
+    "vi": "Điều 20. Trách nhiệm của các cơ quan liên quan trong việc cấp Giấy chứng nhận quyền sở hữu nhà ở\n\n1. Cơ quan tiếp nhận hồ sơ đề nghị cấp mới, cấp đổi, cấp lại giấy chứng nhận, xác nhận thay đổi trên giấy chứng nhận quy định tại các điều 16, 17, 18 và 19 của Luật này không được yêu cầu người nộp hồ sơ nộp thêm bất kỳ một loại giấy tờ nào khác ngoài các giấy tờ đã quy định; trường hợp hồ sơ không đủ giấy tờ thì cơ quan tiếp nhận hồ sơ có trách nhiệm hướng dẫn cụ thể ngay cho người nộp hồ sơ biết để bổ sung hồ sơ. Thời gian bổ sung hồ sơ không tính vào thời gian cấp giấy chứng nhận.\n\nCơ quan tiếp nhận hồ sơ phải có giấy biên nhận về việc tổ chức, cá nhân đã nộp đủ hồ sơ, trong đó ghi rõ ngày giao Giấy chứng nhận quyền sở hữu nhà ở.\n\n2. Cơ quan nhà nước có thẩm quyền cấp mới, cấp đổi, cấp lại giấy chứng nhận, xác nhận thay đổi trên giấy chứng nhận trong thời gian quy định tại các điều 16, 17, 18 và 19 của Luật này phải thực hiện việc cấp giấy, xác nhận thay đổi trên giấy chứng nhận cho chủ sở hữu nhà ở, trường hợp không cấp giấy chứng nhận, không xác nhận thay đổi trên giấy chứng nhận thì phải có văn bản thông báo rõ lý do và trả lại hồ sơ cho người đề nghị cấp giấy chứng nhận.\n\n3. Cơ quan quản lý nhà ở cấp có thẩm quyền cấp giấy chứng nhận phải lập và quản lý sổ theo dõi sở hữu nhà ở. Nội dung của sổ theo dõi sở hữu nhà ở phải bảo đảm yêu cầu theo dõi được việc cấp mới, cấp đổi, cấp lại giấy chứng nhận và xác nhận những thay đổi sau khi cấp giấy chứng nhận."
+   }
+  },
+  {
+   "id": "VN-H456-A21",
+   "no": 21,
+   "noLabel": {
+    "vi": "Điều 21"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Quyền của chủ sở hữu nhà ở"
+   },
+   "text": {
+    "vi": "Điều 21. Quyền của chủ sở hữu nhà ở\n\n1. Chiếm hữu đối với nhà ở.\n\n2. Sử dụng nhà ở.\n\n3. Bán, cho thuê, cho thuê mua, tặng cho, đổi, để thừa kế, cho mượn, cho ở nhờ, uỷ quyền quản lý, thế chấp nhà ở thuộc sở hữu của mình theo quy định của pháp luật.\n\n4. Bảo trì, cải tạo, phá dỡ hoặc xây dựng lại nhà ở và sử dụng không gian của nhà ở phù hợp với quy hoạch xây dựng, kiến trúc và các quy định của pháp luật có liên quan.\n\n5. Khiếu nại, tố cáo những hành vi vi phạm quyền sở hữu nhà ở hợp pháp của mình.\n\n6. Yêu cầu cơ quan nhà nước có thẩm quyền cấp mới, cấp đổi, cấp lại Giấy chứng nhận quyền sở hữu nhà ở, xác nhận những thay đổi sau khi cấp giấy chứng nhận theo quy định của Luật này.\n\n7. Thực hiện các quyền khác theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H456-A22",
+   "no": 22,
+   "noLabel": {
+    "vi": "Điều 22"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Nghĩa vụ của chủ sở hữu nhà ở"
+   },
+   "text": {
+    "vi": "Điều 22. Nghĩa vụ của chủ sở hữu nhà ở\n\n1. Thực hiện đầy đủ trình tự, thủ tục khi đề nghị cấp mới, cấp đổi, cấp lại Giấy chứng nhận quyền sở hữu nhà ở và xác nhận thay đổi sau khi cấp giấy chứng nhận theo quy định của Luật này.\n\n2. Quản lý, sử dụng, bảo trì, cải tạo, phá dỡ, xây dựng lại nhà ở của mình theo quy định của pháp luật nhưng không được làm ảnh hưởng hoặc gây thiệt hại đến lợi ích của Nhà nước, lợi ích công cộng, quyền, lợi ích hợp pháp của người khác.\n\n3. Thực hiện đầy đủ các thủ tục theo quy định của pháp luật khi bán, cho thuê, tặng cho, đổi, để thừa kế, cho mượn, cho ở nhờ, uỷ quyền quản lý, thế chấp nhà ở.\n\n4. Thực hiện nghĩa vụ tài chính theo quy định của pháp luật khi được Nhà nước cấp mới, cấp đổi, cấp lại Giấy chứng nhận quyền sở hữu nhà ở, xác nhận thay đổi sau khi cấp giấy chứng nhận và trong quá trình sử dụng nhà ở.\n\n5. Chấp hành quyết định của cơ quan nhà nước có thẩm quyền về việc xử lý vi phạm, giải quyết tranh chấp, khiếu nại, tố cáo về nhà ở, về việc giải toả, bồi thường, hỗ trợ, tái định cư, phá dỡ nhà ở hoặc khi Nhà nước trưng dụng, trưng mua, mua trước nhà ở.\n\n6. Thực hiện các nghĩa vụ khác theo quy định của pháp luật.\n\nChương III\n\nPHÁT TRIỂN NHÀ Ở\n\nMục 1\n\n QUY ĐỊNH CHUNG VỀ PHÁT TRIỂN NHÀ Ở"
+   }
+  },
+  {
+   "id": "VN-H456-A23",
+   "no": 23,
+   "noLabel": {
+    "vi": "Điều 23"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Mục tiêu phát triển nhà ở"
+   },
+   "text": {
+    "vi": "Điều 23. Mục tiêu phát triển nhà ở\n\n1. Phát triển nhà ở là việc đầu tư xây dựng mới, xây dựng lại hoặc cải tạo làm tăng diện tích nhà ở.\n\n2. Phát triển nhà ở phải bảo đảm cho công dân có chỗ ở phù hợp với khả năng thu nhập của các đối tượng khác nhau, điều kiện kinh tế - xã hội của đất nước, của từng địa phương; từng bước cải thiện chỗ ở của các tầng lớp dân cư, thúc đẩy hình thành và phát triển thị trường bất động sản nhà ở; góp phần phát triển đô thị và nông thôn theo hướng văn minh, hiện đại và phù hợp với bản sắc văn hoá dân tộc.\n\n3. Phát triển nhà ở phải thể hiện chủ trương xoá bao cấp, thực hiện xã hội hoá nhà ở dựa trên cơ chế tạo điều kiện của Nhà nước về tín dụng dài hạn với lãi suất phù hợp; xác định trách nhiệm của người có nhu cầu tạo lập nhà ở và của Uỷ ban nhân dân các cấp, của cộng đồng dân cư trong việc chăm lo, cải thiện chỗ ở."
+   }
+  },
+  {
+   "id": "VN-H456-A24",
+   "no": 24,
+   "noLabel": {
+    "vi": "Điều 24"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Yêu cầu đối với phát triển nhà ở tại khu vực đô thị"
+   },
+   "text": {
+    "vi": "Điều 24. Yêu cầu đối với phát triển nhà ở tại khu vực đô thị\n\n1. Tuân thủ các quy định về quy hoạch phát triển kinh tế - xã hội, quy hoạch xây dựng đô thị bảo đảm việc bố trí, tái bố trí dân cư, chỉnh trang đô thị, kiến trúc, cảnh quan, môi trường, các quy chuẩn, tiêu chuẩn xây dựng và sử dụng đất theo quy định của pháp luật.\n\n2. Nhà ở xây dựng mới trong các dự án phát triển nhà ở phải bảo đảm yêu cầu sau đây:\n\na) Tại đô thị loại đặc biệt có tối thiểu 60% diện tích sàn là nhà chung cư;\n\nb) Tại đô thị loại 1 và loại 2 có tối thiểu 40% diện tích sàn là nhà chung cư;\n\nc) Tại đô thị loại 3 có tối thiểu 20% diện tích sàn là nhà chung cư.\n\n3. Nhà ở tại đô thị chủ yếu phải được phát triển theo dự án. Các dự án phát triển nhà ở phải được đầu tư xây dựng đồng bộ hệ thống hạ tầng kỹ thuật và hạ tầng xã hội để đáp ứng yêu cầu cải thiện điều kiện sống của dân cư theo tiêu chuẩn của đô thị.\n\n4. Các dự án phát triển nhà ở, ngoài việc nghiệm thu, bàn giao đưa vào sử dụng theo quy định của pháp luật về xây dựng còn phải được nghiệm thu hệ thống cấp điện, cấp thoát nước, phòng, chống cháy nổ và vệ sinh môi trường trước khi đưa vào sử dụng."
+   }
+  },
+  {
+   "id": "VN-H456-A25",
+   "no": 25,
+   "noLabel": {
+    "vi": "Điều 25"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Yêu cầu đối với phát triển nhà ở tại khu vực nông thôn"
+   },
+   "text": {
+    "vi": "Điều 25. Yêu cầu đối với phát triển nhà ở tại khu vực nông thôn\n\n1. Tuân thủ quy hoạch xây dựng điểm dân cư nông thôn, kiến trúc, các quy chuẩn, tiêu chuẩn xây dựng và sử dụng đất theo quy định của pháp luật, bảo đảm sự hình thành và phát triển nông thôn bền vững.\n\n2. Phát triển nhà ở nông thôn phải gắn với phát triển hạ tầng kỹ thuật, hạ tầng xã hội, bảo đảm vệ sinh môi trường, nâng cao điều kiện sống của nhân dân."
+   }
+  },
+  {
+   "id": "VN-H456-A26",
+   "no": 26,
+   "noLabel": {
+    "vi": "Điều 26"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Yêu cầu đối với phát triển nhà ở tại khu vực miền núi"
+   },
+   "text": {
+    "vi": "Điều 26. Yêu cầu đối với phát triển nhà ở tại khu vực miền núi\n\n1. Phát triển nhà ở phải theo điểm dân cư tập trung phù hợp với phong tục, tập quán của từng dân tộc, đặc điểm địa lý, điều kiện tự nhiên của từng vùng, miền, hạn chế việc du canh, du cư.\n\n2. Phát triển nhà ở phải chú trọng đến việc đầu tư phát triển hạ tầng kỹ thuật, hạ tầng xã hội, bảo đảm an toàn, vệ sinh môi trường, nâng cao điều kiện sống, văn hoá - xã hội của nhân dân khu vực miền núi."
+   }
+  },
+  {
+   "id": "VN-H456-A27",
+   "no": 27,
+   "noLabel": {
+    "vi": "Điều 27"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Chính sách phát triển nhà ở nông thôn, miền núi"
+   },
+   "text": {
+    "vi": "Điều 27. Chính sách phát triển nhà ở nông thôn, miền núi\n\n1. Nhà nước có chính sách về đất ở thông qua việc quy hoạch các điểm dân cư nông thôn, miền núi để bảo đảm cho hộ gia đình, cá nhân có đất xây dựng nhà ở.\n\n2. Nhà nước thực thi chính sách tín dụng dài hạn với lãi suất ưu đãi để hộ gia đình, cá nhân tại khu vực nông thôn, miền núi gặp khó khăn có điều kiện cải thiện chỗ ở.\n\n3. Nhà nước khuyến khích phát triển nhà ở nhiều tầng ở nông thôn để tiết kiệm đất ở.\n\n4. Nhà nước khuyến khích việc hợp tác giúp nhau xây dựng nhà ở.\n\n5. Nhà nước đầu tư cho việc nghiên cứu, ứng dụng và chuyển giao các tiến bộ khoa học và công nghệ phục vụ yêu cầu phát triển nhà ở phù hợp với phong tục, tập quán của từng dân tộc, điều kiện tự nhiên của từng vùng, miền."
+   }
+  },
+  {
+   "id": "VN-H456-A28",
+   "no": 28,
+   "noLabel": {
+    "vi": "Điều 28"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Hình thức phát triển nhà ở"
+   },
+   "text": {
+    "vi": "Điều 28. Hình thức phát triển nhà ở\n\n1. Phát triển nhà ở theo dự án.\n\n2. Phát triển nhà ở riêng lẻ của hộ gia đình, cá nhân."
+   }
+  },
+  {
+   "id": "VN-H456-A29",
+   "no": 29,
+   "noLabel": {
+    "vi": "Điều 29"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Phát triển nhà ở theo dự án"
+   },
+   "text": {
+    "vi": "Điều 29. Phát triển nhà ở theo dự án\n\n1. Dự án phát triển nhà ở là tổng hợp các đề xuất chứng minh hiệu quả đầu tư phát triển nhà ở trên một địa điểm hoặc một khu vực nhất định.\n\n2. Những trường hợp phải phát triển nhà ở theo dự án bao gồm:\n\na) Phát triển nhà ở để bán, cho thuê, cho thuê mua của tổ chức, cá nhân thuộc các thành phần kinh tế;\n\nb) Cải tạo làm tăng diện tích, xây dựng lại nhà chung cư hoặc đầu tư xây dựng lại các khu nhà ở cũ;\n\nc) Phát triển quỹ nhà ở thuộc sở hữu nhà nước;\n\nd) Phát triển nhà ở phục vụ tái định cư."
+   }
+  },
+  {
+   "id": "VN-H456-A30",
+   "no": 30,
+   "noLabel": {
+    "vi": "Điều 30"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Yêu cầu của dự án phát triển nhà ở"
+   },
+   "text": {
+    "vi": "Điều 30. Yêu cầu của dự án phát triển nhà ở\n\nDự án phát triển nhà ở phải được lập và phê duyệt theo quy định của Luật này, pháp luật về xây dựng và phải bảo đảm các yêu cầu sau đây:\n\n1. Dự án phát triển nhà ở phải phù hợp với quy hoạch xây dựng, chương trình phát triển nhà ở trong từng giai đoạn của địa phương;\n\n2. Dự án phát triển nhà ở phải bảo đảm yêu cầu đầu tư xây dựng đồng bộ giữa nhà ở và hệ thống hạ tầng kỹ thuật, hạ tầng xã hội. Các công trình hạ tầng xã hội phải được tính toán, xác định theo tiêu chuẩn, quy chuẩn, phù hợp với quy mô dân số của dự án và có sự tính toán đến các yếu tố ảnh hưởng trong quá trình sử dụng;\n\n3. Trong các dự án phát triển nhà ở, kiến trúc nhà ở phải thể hiện theo từng loại nhà cụ thể;\n\n4. Dự án phát triển nhà ở phải được thẩm định theo quy định của pháp luật về xây dựng khi phê duyệt và phải được kiểm định về chất lượng trước khi đưa vào sử dụng. Quyết định phê duyệt và kết quả kiểm định phải được lưu trữ tại cơ quan quản lý nhà ở cấp tỉnh để theo dõi, kiểm tra;\n\n5. Chủ đầu tư phải thực hiện đầy đủ các nội dung của dự án đã được phê duyệt. Trường hợp có sự thay đổi nội dung, tiến độ của dự án thì chủ đầu tư phải báo cáo và phải được cơ quan có thẩm quyền phê duyệt chấp thuận.\n\nChính phủ quy định cụ thể nội dung và việc quản lý vận hành các dự án phát triển nhà ở."
+   }
+  },
+  {
+   "id": "VN-H456-A31",
+   "no": 31,
+   "noLabel": {
+    "vi": "Điều 31"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Quy hoạch phát triển nhà ở"
+   },
+   "text": {
+    "vi": "Điều 31. Quy hoạch phát triển nhà ở\n\n1. Quy hoạch xây dựng đô thị, điểm dân cư nông thôn và các dự án xây dựng khu kinh tế, khu công nghiệp, khu chế xuất, khu công nghệ cao, trường đại học, cao đẳng, trung cấp chuyên nghiệp, trung cấp nghề, trường học ở miền núi phải xác định nhu cầu về nhà ở, đất để xây dựng nhà ở và hệ thống hạ tầng phục vụ nhu cầu ở.\n\n2. Khi phê duyệt các quy hoạch quy định tại khoản 1 Điều này cơ quan có thẩm quyền phải đồng thời phê duyệt quy hoạch phát triển nhà ở.\n\n3. Uỷ ban nhân dân cấp tỉnh phải công bố công khai quy hoạch phát triển nhà ở, các cơ chế, chính sách tạo điều kiện cụ thể đối với từng dự án phát triển nhà ở."
+   }
+  },
+  {
+   "id": "VN-H456-A32",
+   "no": 32,
+   "noLabel": {
+    "vi": "Điều 32"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Kiến trúc nhà ở"
+   },
+   "text": {
+    "vi": "Điều 32. Kiến trúc nhà ở\n\n1. Kiến trúc nhà ở phải kết hợp hài hoà giữa kiến trúc hiện đại với kiến trúc truyền thống, phù hợp với điều kiện tự nhiên, phong tục, tập quán, văn hoá - xã hội của các dân tộc từng vùng, miền.\n\n2. Kiến trúc nhà ở phải đa dạng các loại nhà ở, loại căn hộ phù hợp với điều kiện kinh tế - xã hội, khả năng thu nhập của các tầng lớp dân cư trên địa bàn; sử dụng có hiệu quả quỹ đất dành cho phát triển nhà ở.\n\n3. Nhà ở xây dựng hai bên đường, tuyến phố chính phải tuân thủ chỉ giới xây dựng, bảo đảm hài hoà về chiều cao, không gian, kiến trúc, thẩm mỹ, phù hợp với quy hoạch chung và thiết kế đô thị theo từng trục đường, tuyến phố.\n\n4. Nhà nước đầu tư cho việc nghiên cứu ban hành các thiết kế mẫu, thiết kế điển hình đối với nhà ở để đáp ứng yêu cầu phát triển nhà ở của nhân dân phù hợp với từng vùng, miền."
+   }
+  },
+  {
+   "id": "VN-H456-A33",
+   "no": 33,
+   "noLabel": {
+    "vi": "Điều 33"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Phương thức phát triển nhà ở"
+   },
+   "text": {
+    "vi": "Điều 33. Phương thức phát triển nhà ở\n\n1. Nhà ở do tổ chức, cá nhân đầu tư phát triển để bán, cho thuê theo nhu cầu của thị trường (sau đây gọi là nhà ở thương mại).\n\n2. Nhà ở do hộ gia đình, cá nhân xây dựng (sau đây gọi là nhà ở riêng lẻ).\n\n3. Nhà ở do Nhà nước hoặc tổ chức, cá nhân đầu tư xây dựng để cho các đối tượng quy định tại Điều 53 và Điều 54 của Luật này thuê hoặc thuê mua (sau đây gọi là nhà ở xã hội).\n\n4. Nhà ở do Nhà nước đầu tư xây dựng để phục vụ điều động, luân chuyển cán bộ, công chức theo yêu cầu công tác (sau đây gọi là nhà ở công vụ).\n\nMục 2\n\n PHÁT TRIỂN NHÀ Ở THƯƠNG MẠI"
+   }
+  },
+  {
+   "id": "VN-H456-A34",
+   "no": 34,
+   "noLabel": {
+    "vi": "Điều 34"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Đối tượng và điều kiện tham gia phát triển nhà ở thương mại"
+   },
+   "text": {
+    "vi": "Điều 34. Đối tượng và điều kiện tham gia phát triển nhà ở thương mại\n\n1. Tổ chức, cá nhân thuộc các thành phần kinh tế trong nước và nước ngoài đều được quyền tham gia đầu tư phát triển nhà ở thương mại.\n\n2. Tổ chức, cá nhân trong nước đầu tư phát triển nhà ở thương mại phải có đăng ký kinh doanh nhà ở; đối với tổ chức, cá nhân nước ngoài thì phải có Giấy chứng nhận đầu tư theo quy định của pháp luật về đầu tư."
+   }
+  },
+  {
+   "id": "VN-H456-A35",
+   "no": 35,
+   "noLabel": {
+    "vi": "Điều 35"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Đối tượng được mua, thuê nhà ở thương mại"
+   },
+   "text": {
+    "vi": "Điều 35. Đối tượng được mua, thuê nhà ở thương mại\n\n1. Tổ chức, cá nhân trong nước không phụ thuộc vào nơi đăng ký kinh doanh, nơi đăng ký hộ khẩu thường trú.\n\n2. Người Việt Nam định cư ở nước ngoài thuộc diện được sở hữu nhà ở, được thuê nhà ở tại Việt Nam quy định tại Điều 126 và Điều 131 của Luật này.\n\n3. Tổ chức, cá nhân nước ngoài thuộc diện được sở hữu nhà ở, được thuê nhà ở tại Việt Nam quy định tại khoản 1 Điều 125 và Điều 131 của Luật này."
+   }
+  },
+  {
+   "id": "VN-H456-A36",
+   "no": 36,
+   "noLabel": {
+    "vi": "Điều 36"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Trách nhiệm của tổ chức, cá nhân phát triển nhà ở thương mại"
+   },
+   "text": {
+    "vi": "Điều 36. Trách nhiệm của tổ chức, cá nhân phát triển nhà ở thương mại\n\n1. Thực hiện các quy định về phát triển nhà ở theo dự án.\n\n2. Bảo đảm hoàn thành đúng tiến độ, chất lượng của dự án đã được phê duyệt.\n\n3. Công khai tại trụ sở Ban quản lý dự án, địa điểm có dự án và trên phương tiện thông tin đại chúng về quy hoạch chi tiết của dự án, số lượng nhà ở bán, cho thuê; số lượng nhà ở đã bán, cho thuê; số lượng nhà ở còn lại; giá bán, giá cho thuê; phương thức thanh toán; thủ tục đăng ký mua, thuê nhà ở, điều kiện được mua, thuê nhà ở.\n\n4. Phải làm thủ tục để cơ quan nhà nước có thẩm quyền cấp Giấy chứng nhận quyền sở hữu nhà ở cho người mua và bàn giao cho người mua nhà ở các hồ sơ liên quan đến nhà ở đó. Trường hợp cho thuê nhà ở thì tổ chức, cá nhân phát triển nhà ở thương mại có trách nhiệm lập và lưu trữ hồ sơ nhà ở theo quy định tại Điều 66 của Luật này.\n\n5. Báo cáo kết quả thực hiện dự án theo định kỳ và khi kết thúc dự án cho cơ quan có thẩm quyền phê duyệt dự án và Uỷ ban nhân dân cấp tỉnh nơi có dự án."
+   }
+  },
+  {
+   "id": "VN-H456-A37",
+   "no": 37,
+   "noLabel": {
+    "vi": "Điều 37"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Đất để phát triển nhà ở thương mại"
+   },
+   "text": {
+    "vi": "Điều 37. Đất để phát triển nhà ở thương mại\n\n1. Tổ chức, cá nhân được sử dụng đất do Nhà nước giao, cho thuê hoặc do nhận quyền sử dụng đất từ các tổ chức, cá nhân khác theo quy định của pháp luật về đất đai để đầu tư phát triển nhà ở thương mại.\n\n2. Dự án phát triển nhà ở thương mại có từ hai tổ chức, cá nhân trở lên đăng ký tham gia làm chủ đầu tư thì phải thực hiện đấu thầu để lựa chọn chủ đầu tư. Việc chuyển quyền sử dụng đất trong các dự án phát triển nhà ở hoặc dự án khu đô thị mới đã đầu tư xây dựng hạ tầng phải bảo đảm công khai và thực hiện theo phương thức đấu giá.\n\n3. Việc đấu thầu để lựa chọn chủ đầu tư, đấu giá quyền sử dụng đất được thực hiện theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H456-A38",
+   "no": 38,
+   "noLabel": {
+    "vi": "Điều 38"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Nguồn vốn để phát triển nhà ở thương mại"
+   },
+   "text": {
+    "vi": "Điều 38. Nguồn vốn để phát triển nhà ở thương mại\n\n1. Vốn của chủ đầu tư.\n\n2. Vốn liên doanh, liên kết với tổ chức, cá nhân khác.\n\n3. Vốn vay của tổ chức tín dụng.\n\n4. Vốn từ tiền ứng trước của bên có nhu cầu mua hoặc thuê nhà ở.\n\n5. Vốn huy động từ các nguồn khác theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H456-A39",
+   "no": 39,
+   "noLabel": {
+    "vi": "Điều 39"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Mua bán, cho thuê nhà ở thương mại"
+   },
+   "text": {
+    "vi": "Điều 39. Mua bán, cho thuê nhà ở thương mại\n\n1. Phương thức mua bán, cho thuê nhà ở thương mại được thực hiện thông qua hình thức trả tiền một lần hoặc trả chậm, trả dần.\n\nTrường hợp chủ đầu tư huy động vốn từ tiền ứng trước của người có nhu cầu mua hoặc thuê nhà ở thì chỉ được áp dụng trong trường hợp thiết kế nhà ở đã được phê duyệt và đã được xây dựng xong phần móng. Tổng số tiền huy động trước khi bàn giao nhà ở cho người có nhu cầu không được vượt quá 70% giá trị nhà ở ghi trong hợp đồng.\n\n2. Trình tự, thủ tục mua bán, cho thuê nhà ở thương mại được thực hiện theo quy định tại Chương V của Luật này.\n\n3. Giá mua bán, cho thuê nhà ở thương mại, phương thức thanh toán do các bên thoả thuận trong hợp đồng."
+   }
+  },
+  {
+   "id": "VN-H456-A40",
+   "no": 40,
+   "noLabel": {
+    "vi": "Điều 40"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Tiêu chuẩn thiết kế nhà ở thương mại"
+   },
+   "text": {
+    "vi": "Điều 40. Tiêu chuẩn thiết kế nhà ở thương mại\n\nNhà ở thương mại phải được thiết kế bảo đảm những tiêu chuẩn chung theo quy định của pháp luật về xây dựng và những tiêu chuẩn sau đây:\n\n1. Nhà chung cư phải thiết kế căn hộ khép kín, có diện tích sàn xây dựng mỗi căn hộ không thấp hơn 45m2;\n\n2. Nhà ở riêng lẻ xây dựng liền kề trong các dự án phải bảo đảm diện tích xây dựng không thấp hơn 50m2 và có chiều ngang mặt tiền không nhỏ hơn 5m;\n\n3. Nhà biệt thự không được xây dựng quá ba tầng và diện tích xây dựng không vượt quá 50% diện tích khuôn viên đất.\n\nMục 3\n\n PHÁT TRIỂN NHÀ Ở RIÊNG LẺ CỦA HỘ GIA ĐÌNH, CÁ NHÂN"
+   }
+  },
+  {
+   "id": "VN-H456-A41",
+   "no": 41,
+   "noLabel": {
+    "vi": "Điều 41"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Hình thức phát triển nhà ở riêng lẻ của hộ gia đình, cá nhân"
+   },
+   "text": {
+    "vi": "Điều 41. Hình thức phát triển nhà ở riêng lẻ của hộ gia đình, cá nhân\n\n1. Phát triển nhà ở riêng lẻ là việc hộ gia đình, cá nhân tự đầu tư xây dựng nhà ở trong khuôn viên đất ở thuộc quyền sử dụng của mình.\n\n2. Việc xây dựng nhà ở riêng lẻ của hộ gia đình, cá nhân được thực hiện theo một trong các hình thức sau đây:\n\na) Tự xây dựng nhà ở;\n\nb) Thuê tổ chức, cá nhân khác xây dựng nhà ở;\n\nc) Hợp tác giúp nhau xây dựng nhà ở tại khu vực nông thôn."
+   }
+  },
+  {
+   "id": "VN-H456-A42",
+   "no": 42,
+   "noLabel": {
+    "vi": "Điều 42"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Yêu cầu phát triển nhà ở riêng lẻ của hộ gia đình, cá nhân"
+   },
+   "text": {
+    "vi": "Điều 42. Yêu cầu phát triển nhà ở riêng lẻ của hộ gia đình, cá nhân\n\n1. Hộ gia đình, cá nhân phải có quyền sử dụng đất hợp pháp, có nhà ở nhưng không thuộc diện cấm cải tạo, cấm xây dựng lại theo quy định của pháp luật về xây dựng.\n\n2. Việc phát triển nhà ở riêng lẻ của hộ gia đình, cá nhân tại đô thị và điểm dân cư nông thôn phải phù hợp với quy hoạch được cấp có thẩm quyền phê duyệt; có giấy phép xây dựng, trừ trường hợp không thuộc diện phải có giấy phép xây dựng theo quy định của pháp luật về xây dựng.\n\n3. Việc xây dựng nhà ở riêng lẻ tại đô thị phải bảo đảm yêu cầu kết nối với hệ thống hạ tầng kỹ thuật chung của đô thị."
+   }
+  },
+  {
+   "id": "VN-H456-A43",
+   "no": 43,
+   "noLabel": {
+    "vi": "Điều 43"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Trách nhiệm của hộ gia đình, cá nhân trong phát triển nhà ở riêng lẻ"
+   },
+   "text": {
+    "vi": "Điều 43. Trách nhiệm của hộ gia đình, cá nhân trong phát triển nhà ở riêng lẻ\n\n1. Tuân thủ việc xây dựng theo quy hoạch, kiến trúc, trình tự, thủ tục trong đầu tư xây dựng.\n\n2. Chịu trách nhiệm về chất lượng nhà ở.\n\n3. Đóng góp công sức hoặc kinh phí để xây dựng công trình hạ tầng kỹ thuật chung do Hội đồng nhân dân cấp tỉnh quy định."
+   }
+  },
+  {
+   "id": "VN-H456-A44",
+   "no": 44,
+   "noLabel": {
+    "vi": "Điều 44"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Hộ gia đình, cá nhân tại nông thôn hợp tác giúp nhau xây dựng nhà ở"
+   },
+   "text": {
+    "vi": "Điều 44. Hộ gia đình, cá nhân tại nông thôn hợp tác giúp nhau xây dựng nhà ở\n\n1. Hộ gia đình, cá nhân tại nông thôn tự nguyện hợp tác xây dựng nhà ở bằng khả năng tài chính, nhân công, vật liệu của các thành viên trong nhóm.\n\n2. Các thành viên trong nhóm phải thoả thuận về cách thức góp vốn, nhân công, vật liệu, thời gian thực hiện, quyền và nghĩa vụ của các thành viên và cam kết thực hiện thoả thuận của nhóm.\n\n3. Nhà nước có chính sách ưu đãi về thời hạn và lãi suất trong vay vốn và cung cấp các thiết kế mẫu nhà ở để hộ gia đình, cá nhân là thành viên trong nhóm xây dựng nhà ở.\n\nMục 4\n\n PHÁT TRIỂN NHÀ Ở XÃ HỘI"
+   }
+  },
+  {
+   "id": "VN-H456-A45",
+   "no": 45,
+   "noLabel": {
+    "vi": "Điều 45"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Quỹ nhà ở xã hội"
+   },
+   "text": {
+    "vi": "Điều 45. Quỹ nhà ở xã hội\n\n1. Nhà nước có cơ chế, chính sách phát triển quỹ nhà ở xã hội để các đối tượng quy định tại Điều 53 và Điều 54 của Luật này thuê, thuê mua.\n\n2. Nhà nước khuyến khích tổ chức, cá nhân thuộc các thành phần kinh tế trong nước và nước ngoài đầu tư phát triển quỹ nhà ở xã hội.\n\n3. Tổ chức, cá nhân phát triển quỹ nhà ở xã hội được Nhà nước miễn tiền sử dụng đất, tiền thuê đất đối với đất xây dựng nhà ở xã hội; được miễn, giảm các khoản thuế liên quan theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H456-A46",
+   "no": 46,
+   "noLabel": {
+    "vi": "Điều 46"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Yêu cầu phát triển nhà ở xã hội"
+   },
+   "text": {
+    "vi": "Điều 46. Yêu cầu phát triển nhà ở xã hội\n\n1. Bảo đảm chất lượng xây dựng theo quy định của pháp luật về xây dựng.\n\n2. Phù hợp với khả năng thanh toán tiền thuê, thuê mua của người có mức thu nhập thấp.\n\n3. Quản lý chặt chẽ quá trình đầu tư xây dựng, xét duyệt đối tượng được thuê, thuê mua và sử dụng quỹ nhà ở xã hội."
+   }
+  },
+  {
+   "id": "VN-H456-A47",
+   "no": 47,
+   "noLabel": {
+    "vi": "Điều 47"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Tiêu chuẩn thiết kế nhà ở xã hội"
+   },
+   "text": {
+    "vi": "Điều 47. Tiêu chuẩn thiết kế nhà ở xã hội\n\n1. Nhà ở xã hội tại đô thị phải là nhà chung cư được thiết kế bảo đảm những tiêu chuẩn chung của pháp luật về xây dựng và có số tầng theo quy định sau đây:\n\na) Tại đô thị loại đặc biệt phải là nhà năm hoặc sáu tầng;\n\nb) Tại các đô thị loại 1, loại 2, loại 3, loại 4 và loại 5 phải là nhà không quá sáu tầng.\n\n2. Diện tích mỗi căn hộ không quá 60m2 sàn và được hoàn thiện theo cấp, hạng nhà ở nhưng không thấp hơn 30m2 sàn.\n\n3. Nhà ở xã hội phải bảo đảm các tiêu chuẩn hạ tầng kỹ thuật, hạ tầng xã hội theo quy định của từng loại đô thị.\n\n4. Ngoài các khu vực quy định tại khoản 1 Điều này, khu vực khác có điều kiện thuận lợi về đất đai thì có thể xây dựng nhà chung cư thấp tầng hoặc nhà ở riêng lẻ nhưng phải bảo đảm chất lượng xây dựng tương ứng với nhà cấp ba trở lên và các quy định tại khoản 2 và khoản 3 Điều này."
+   }
+  },
+  {
+   "id": "VN-H456-A48",
+   "no": 48,
+   "noLabel": {
+    "vi": "Điều 48"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Quy hoạch phát triển nhà ở xã hội"
+   },
+   "text": {
+    "vi": "Điều 48. Quy hoạch phát triển nhà ở xã hội\n\n1. Trong quy hoạch xây dựng đô thị, điểm dân cư nông thôn, khu kinh tế, khu công nghiệp, khu chế xuất, khu công nghệ cao phải xác định rõ quy hoạch xây dựng quỹ nhà ở xã hội.\n\n2. Việc lập, phê duyệt và công bố quy hoạch xây dựng quỹ nhà ở xã hội thực hiện theo quy định tại Điều 31 của Luật này."
+   }
+  },
+  {
+   "id": "VN-H456-A49",
+   "no": 49,
+   "noLabel": {
+    "vi": "Điều 49"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Đất để phát triển nhà ở xã hội"
+   },
+   "text": {
+    "vi": "Điều 49. Đất để phát triển nhà ở xã hội\n\n1. Căn cứ vào quy hoạch xây dựng, quy hoạch, kế hoạch sử dụng đất và các dự án phát triển nhà ở xã hội đã được phê duyệt, Uỷ ban nhân dân cấp có thẩm quyền thực hiện giao đất hoặc cho thuê đất để đầu tư xây dựng quỹ nhà ở xã hội.\n\n2. Nhà nước miễn tiền sử dụng đất hoặc tiền thuê đất khi giao đất, cho thuê đất đối với các dự án phát triển nhà ở xã hội."
+   }
+  },
+  {
+   "id": "VN-H456-A50",
+   "no": 50,
+   "noLabel": {
+    "vi": "Điều 50"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Chủ đầu tư dự án phát triển nhà ở xã hội"
+   },
+   "text": {
+    "vi": "Điều 50. Chủ đầu tư dự án phát triển nhà ở xã hội\n\n1. Uỷ ban nhân dân cấp tỉnh lựa chọn chủ đầu tư dự án phát triển nhà ở xã hội thuộc sở hữu nhà nước để cho thuê, thuê mua trên địa bàn.\n\n2. Tổ chức, cá nhân phát triển nhà ở xã hội cho các đối tượng quy định tại Điều 53 và Điều 54 của Luật này thuê, thuê mua là chủ đầu tư đối với các dự án phát triển nhà ở do mình đầu tư.\n\n3. Chủ đầu tư có trách nhiệm sau đây:\n\na) Bảo đảm tiến độ, chất lượng xây dựng nhà ở theo đúng yêu cầu của dự án đã được phê duyệt;\n\nb) Công khai, minh bạch quy hoạch chi tiết của dự án, số lượng nhà ở, số lượng nhà ở đã cho thuê và cho thuê mua, số lượng nhà ở còn lại, giá cho thuê, nội dung đăng ký thuê, thuê mua nhà ở và thủ tục ký hợp đồng thuê, thuê mua nhà ở tại trụ sở của chủ đầu tư và trên phương tiện thông tin đại chúng;\n\nc) Báo cáo Uỷ ban nhân dân cấp tỉnh kết quả thực hiện các chỉ tiêu đề ra trong dự án khi kết thúc dự án;\n\nd) Lưu giữ các hồ sơ liên quan đến dự án đầu tư xây dựng nhà ở xã hội để bàn giao cho đơn vị quản lý vận hành quỹ nhà ở này."
+   }
+  },
+  {
+   "id": "VN-H456-A51",
+   "no": 51,
+   "noLabel": {
+    "vi": "Điều 51"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Xây dựng và quản lý vận hành quỹ nhà ở xã hội"
+   },
+   "text": {
+    "vi": "Điều 51. Xây dựng và quản lý vận hành quỹ nhà ở xã hội\n\n1. Việc lựa chọn đơn vị tư vấn, doanh nghiệp xây dựng quỹ nhà ở xã hội phải thông qua đấu thầu theo quy định của pháp luật.\n\n2. Uỷ ban nhân dân cấp tỉnh quyết định lựa chọn đơn vị quản lý vận hành quỹ nhà ở xã hội theo các nguyên tắc sau đây:\n\na) Trường hợp có từ hai đơn vị đăng ký tham gia trở lên thì phải thực hiện việc lựa chọn thông qua hình thức đấu thầu theo quy định của pháp luật;\n\nb) Trường hợp chỉ có một đơn vị đăng ký tham gia thì giao cho đơn vị đó thực hiện nếu đủ năng lực, điều kiện và khả năng quản lý vận hành nhà ở;\n\nc) Trường hợp không có đơn vị nào đăng ký tham gia thì giao cho tổ chức có chức năng quản lý nhà ở thuộc sở hữu nhà nước thực hiện.\n\n3. Đơn vị quản lý vận hành quỹ nhà ở xã hội được hưởng các chế độ đối với doanh nghiệp công ích, các ưu đãi trong hoạt động dịch vụ công ích theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H456-A52",
+   "no": 52,
+   "noLabel": {
+    "vi": "Điều 52"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Nguồn vốn đầu tư phát triển quỹ nhà ở xã hội"
+   },
+   "text": {
+    "vi": "Điều 52. Nguồn vốn đầu tư phát triển quỹ nhà ở xã hội\n\n1. Vốn đầu tư xây dựng quỹ nhà ở xã hội được hình thành từ các nguồn sau đây:\n\na) Tiền thu được từ việc bán, cho thuê và cho thuê mua nhà ở thuộc sở hữu nhà nước;\n\nb) Trích từ 30% đến 50% tiền sử dụng đất của các dự án phát triển nhà ở trên địa bàn;\n\nc) Ngân sách nhà nước đầu tư;\n\nd) Tiền hỗ trợ, tiền đóng góp tự nguyện của tổ chức, cá nhân trong và ngoài nước;\n\nđ) Tiền huy động từ các nguồn vốn hợp pháp khác theo quy định của pháp luật.\n\n2. Chính phủ quy định cụ thể các nguồn vốn đầu tư xây dựng quỹ nhà ở xã hội, đơn vị quản lý quỹ phát triển nhà ở và nội dung quản lý sử dụng quỹ này bảo đảm nguyên tắc bảo toàn vốn."
+   }
+  },
+  {
+   "id": "VN-H456-A53",
+   "no": 53,
+   "noLabel": {
+    "vi": "Điều 53"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Đối tượng và điều kiện được thuê nhà ở xã hội"
+   },
+   "text": {
+    "vi": "Điều 53. Đối tượng và điều kiện được thuê nhà ở xã hội\n\n1. Đối tượng được thuê nhà ở xã hội là cán bộ, công chức, viên chức, sĩ quan, quân nhân chuyên nghiệp thuộc lực lượng vũ trang nhân dân, công nhân làm việc tại các khu kinh tế, khu công nghiệp, khu chế xuất, khu công nghệ cao và các đối tượng khác theo quy định của Chính phủ.\n\n2. Người được quy định tại khoản 1 Điều này có thu nhập thấp và thuộc một trong các trường hợp sau đây thì được thuê nhà ở xã hội:\n\na) Chưa có nhà ở thuộc sở hữu của mình và chưa được thuê hoặc mua nhà ở thuộc sở hữu nhà nước;\n\nb) Có nhà ở thuộc sở hữu của mình nhưng diện tích bình quân trong hộ gia đình dưới 5m2 sàn/người;\n\nc) Có nhà ở thuộc sở hữu của mình nhưng là nhà ở tạm, hư hỏng hoặc dột nát."
+   }
+  },
+  {
+   "id": "VN-H456-A54",
+   "no": 54,
+   "noLabel": {
+    "vi": "Điều 54"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Đối tượng và điều kiện được thuê mua nhà ở xã hội"
+   },
+   "text": {
+    "vi": "Điều 54. Đối tượng và điều kiện được thuê mua nhà ở xã hội\n\nĐối tượng và điều kiện được thuê mua nhà ở xã hội là những trường hợp quy định tại Điều 53 của Luật này. Người được thuê mua nhà ở xã hội phải thanh toán lần đầu 20% giá trị của nhà ở thuê mua."
+   }
+  },
+  {
+   "id": "VN-H456-A55",
+   "no": 55,
+   "noLabel": {
+    "vi": "Điều 55"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Quy trình xét duyệt đối tượng thuê, thuê mua"
+   },
+   "text": {
+    "vi": "Điều 55. Quy trình xét duyệt đối tượng thuê, thuê mua\n\n1. Các đối tượng thuộc diện được thuê, thuê mua nhà ở xã hội phải có đơn nộp cho cơ quan, tổ chức, đơn vị nơi người đó đang làm việc.\n\n2. Căn cứ quy định tại Điều 53 và Điều 54 của Luật này, các cơ quan, tổ chức, đơn vị phải xác nhận cho người có đơn về đối tượng và điều kiện được thuê, thuê mua nhà ở xã hội. Sau khi được cơ quan, tổ chức, đơn vị xác nhận, người có nhu cầu thuê, thuê mua nhà ở xã hội gửi đơn đến Uỷ ban nhân dân cấp tỉnh để xem xét, quyết định.\n\n3. Uỷ ban nhân dân cấp tỉnh căn cứ vào quỹ nhà ở xã hội và đối chiếu với các quy định tại Mục này để quyết định người được thuê, thuê mua, quy định trình tự, thủ tục thuê, thuê mua nhà ở xã hội. Trường hợp quỹ nhà ở xã hội chưa đáp ứng nhu cầu thì việc cho thuê, thuê mua phải thực hiện theo thứ tự ưu tiên."
+   }
+  },
+  {
+   "id": "VN-H456-A56",
+   "no": 56,
+   "noLabel": {
+    "vi": "Điều 56"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Xác định giá cho thuê, thuê mua nhà ở xã hội"
+   },
+   "text": {
+    "vi": "Điều 56. Xác định giá cho thuê, thuê mua nhà ở xã hội\n\n1. Giá cho thuê, thuê mua nhà ở xã hội phải bảo đảm nguyên tắc:\n\na) Bảo toàn vốn để tiếp tục đầu tư phát triển quỹ nhà ở xã hội;\n\nb) Bù đắp đủ các chi phí quản lý, duy tu bảo dưỡng, sửa chữa trong thời gian cho thuê hoặc thuê mua.\n\n2. Chính phủ quy định khung giá làm cơ sở để Uỷ ban nhân dân cấp tỉnh ban hành giá cho thuê, thuê mua nhà ở trên địa bàn."
+   }
+  },
+  {
+   "id": "VN-H456-A57",
+   "no": 57,
+   "noLabel": {
+    "vi": "Điều 57"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Nguyên tắc thuê, thuê mua nhà ở xã hội"
+   },
+   "text": {
+    "vi": "Điều 57. Nguyên tắc thuê, thuê mua nhà ở xã hội\n\n1. Việc cho thuê, thuê mua nhà ở xã hội phải đúng đối tượng, người thuê, thuê mua không được chuyển nhượng nhà ở dưới bất kỳ hình thức nào trong thời hạn thuê, thuê mua, trừ trường hợp thừa kế nhà ở quy định tại khoản 2 Điều 106 của Luật này; nếu vi phạm thì đơn vị quản lý quỹ nhà ở xã hội được quyền thu hồi nhà ở đó.\n\n2. Trong cùng một thời gian, mỗi đối tượng thuộc diện quy định tại Điều 53 và Điều 54 của Luật này chỉ được thuê hoặc thuê mua một diện tích nhất định theo tiêu chuẩn nhà ở xã hội.\n\n3. Đối tượng được thuê mua nhà ở xã hội sau khi được cấp Giấy chứng nhận quyền sở hữu nhà ở nếu bán nhà ở đó thì đơn vị quản lý quỹ nhà ở xã hội được quyền ưu tiên mua; trong trường hợp đơn vị quản lý quỹ nhà ở xã hội không mua thì chủ sở hữu nhà ở được quyền bán nhà ở đó cho người khác.\n\nGiá bán lại nhà ở xã hội trong mọi trường hợp không được vượt quá giá nhà ở xây dựng mới cùng loại do Uỷ ban nhân dân cấp tỉnh quy định tại thời điểm thanh toán.\n\nMục 5\n\n PHÁT TRIỂN QUỸ NHÀ Ở CÔNG VỤ"
+   }
+  },
+  {
+   "id": "VN-H456-A58",
+   "no": 58,
+   "noLabel": {
+    "vi": "Điều 58"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Quỹ nhà ở công vụ"
+   },
+   "text": {
+    "vi": "Điều 58. Quỹ nhà ở công vụ\n\n1. Nhà nước đầu tư vốn từ ngân sách để xây dựng quỹ nhà ở công vụ.\n\n2. Nhà ở công vụ là nhà ở thuộc sở hữu nhà nước được xây dựng để cho các đối tượng quy định tại Điều 60 của Luật này thuê trong thời gian đảm nhiệm công tác."
+   }
+  },
+  {
+   "id": "VN-H456-A59",
+   "no": 59,
+   "noLabel": {
+    "vi": "Điều 59"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Trách nhiệm phát triển quỹ nhà ở công vụ"
+   },
+   "text": {
+    "vi": "Điều 59. Trách nhiệm phát triển quỹ nhà ở công vụ\n\n1. Cơ quan có cán bộ, công chức thuộc diện được ở nhà ở công vụ phải xác định nhu cầu về nhà ở công vụ của cơ quan mình và gửi cho Uỷ ban nhân dân cấp tỉnh để tổng hợp.\n\n2. Căn cứ vào kết quả tổng hợp nhu cầu nhà ở công vụ, Uỷ ban nhân dân cấp tỉnh chỉ đạo việc lập quy hoạch, kế hoạch, dự án đầu tư xây dựng quỹ nhà ở công vụ để phê duyệt hoặc trình Thủ tướng Chính phủ phê duyệt.\n\n3. Uỷ ban nhân dân cấp tỉnh tổ chức thực hiện đầu tư xây dựng và quản lý vận hành quỹ nhà ở công vụ trên địa bàn."
+   }
+  },
+  {
+   "id": "VN-H456-A60",
+   "no": 60,
+   "noLabel": {
+    "vi": "Điều 60"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Đối tượng được thuê nhà ở công vụ"
+   },
+   "text": {
+    "vi": "Điều 60. Đối tượng được thuê nhà ở công vụ\n\n1. Cán bộ, công chức thuộc các cơ quan của Đảng, Nhà nước, tổ chức chính trị - xã hội được điều động, luân chuyển theo yêu cầu công tác mà chưa có nhà ở thuộc sở hữu của mình tại địa phương nơi đến công tác.\n\n2. Sĩ quan chuyên nghiệp thuộc lực lượng vũ trang nhân dân được điều động, phục vụ theo yêu cầu quốc phòng, an ninh.\n\n3. Cán bộ lãnh đạo của Đảng, Nhà nước thuộc diện ở nhà ở công vụ trong thời gian đảm nhận chức vụ."
+   }
+  },
+  {
+   "id": "VN-H456-A61",
+   "no": 61,
+   "noLabel": {
+    "vi": "Điều 61"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Nguyên tắc quản lý quỹ nhà ở công vụ"
+   },
+   "text": {
+    "vi": "Điều 61. Nguyên tắc quản lý quỹ nhà ở công vụ\n\n1. Nhà ở công vụ phải được sử dụng đúng mục đích và đúng đối tượng.\n\n2. Khi hết tiêu chuẩn thuê nhà ở công vụ hoặc chuyển đến nơi khác hoặc nghỉ công tác thì người thuê nhà ở công vụ có trách nhiệm trả lại nhà ở công vụ.\n\n3. Trường hợp trả lại nhà ở công vụ mà người thuê nhà ở công vụ có khó khăn về nhà ở thì cơ quan, tổ chức nơi người đó công tác phối hợp với Uỷ ban nhân dân cấp tỉnh nơi người đó sinh sống căn cứ vào tình hình cụ thể để giải quyết cho họ được thuê hoặc thuê mua nhà ở xã hội.\n\n4. Chính phủ quy định cụ thể về đối tượng, đầu tư xây dựng, quản lý và cho thuê nhà ở công vụ.\n\nMục 6\n\n HỖ TRỢ, TẠO ĐIỀU KIỆN CẢI THIỆN NHÀ Ở"
+   }
+  },
+  {
+   "id": "VN-H456-A62",
+   "no": 62,
+   "noLabel": {
+    "vi": "Điều 62"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Đối tượng thuộc diện chính sách xã hội được hỗ trợ, tạo điều kiện cải thiện nhà ở"
+   },
+   "text": {
+    "vi": "Điều 62. Đối tượng thuộc diện chính sách xã hội được hỗ trợ, tạo điều kiện cải thiện nhà ở\n\n1. Người có công với cách mạng.\n\n2. Hộ gia đình nghèo ở miền núi hoặc vùng thường xuyên bị ảnh hưởng bởi thiên tai.\n\n3. Hộ gia đình có hoàn cảnh đặc biệt khó khăn.\n\nUỷ ban nhân dân cấp tỉnh quy định cụ thể hộ gia đình nghèo, hộ gia đình có hoàn cảnh đặc biệt khó khăn quy định tại khoản 2 và khoản 3 Điều này phù hợp với thực tế địa phương."
+   }
+  },
+  {
+   "id": "VN-H456-A63",
+   "no": 63,
+   "noLabel": {
+    "vi": "Điều 63"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Điều kiện được hỗ trợ, tạo điều kiện cải thiện nhà ở"
+   },
+   "text": {
+    "vi": "Điều 63. Điều kiện được hỗ trợ, tạo điều kiện cải thiện nhà ở\n\nCác đối tượng thuộc diện chính sách xã hội được hỗ trợ, tạo điều kiện cải thiện nhà ở quy định tại khoản 2 và khoản 3 Điều 62 của Luật này phải thuộc một trong các trường hợp có khó khăn về nhà ở quy định tại khoản 2 Điều 53 của Luật này."
+   }
+  },
+  {
+   "id": "VN-H456-A64",
+   "no": 64,
+   "noLabel": {
+    "vi": "Điều 64"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Hình thức hỗ trợ, tạo điều kiện cải thiện nhà ở"
+   },
+   "text": {
+    "vi": "Điều 64. Hình thức hỗ trợ, tạo điều kiện cải thiện nhà ở\n\nNhà nước, tổ chức kinh tế, tổ chức xã hội, cộng đồng dân cư thực hiện việc hỗ trợ, tạo điều kiện để các đối tượng thuộc diện chính sách xã hội được cải thiện nhà ở theo một trong các hình thức sau đây:\n\n1. Hỗ trợ kinh phí để họ mua nhà ở trả chậm, trả dần hoặc thuê nhà ở;\n\n2. Miễn, giảm tiền sử dụng đất khi mua nhà ở thuộc sở hữu nhà nước hoặc được Nhà nước giao đất làm nhà ở;\n\n3. Hỗ trợ kinh phí, vật liệu, nhân công trong việc sửa chữa, cải tạo hoặc xây dựng nhà ở;\n\n4. Tặng nhà tình nghĩa, nhà tình thương.\n\nChương IV\n\nQUẢN LÝ VIỆC SỬ DỤNG NHÀ Ở\n\nMục 1\n\n QUY ĐỊNH CHUNG VỀ QUẢN LÝ VIỆC SỬ DỤNG NHÀ Ở"
+   }
+  },
+  {
+   "id": "VN-H456-A65",
+   "no": 65,
+   "noLabel": {
+    "vi": "Điều 65"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Nội dung quản lý việc sử dụng nhà ở"
+   },
+   "text": {
+    "vi": "Điều 65. Nội dung quản lý việc sử dụng nhà ở\n\n1. Lập và lưu trữ hồ sơ nhà ở.\n\n2. Bảo hành, bảo trì, cải tạo, phá dỡ nhà ở."
+   }
+  },
+  {
+   "id": "VN-H456-A66",
+   "no": 66,
+   "noLabel": {
+    "vi": "Điều 66"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Lập và lưu trữ hồ sơ nhà ở"
+   },
+   "text": {
+    "vi": "Điều 66. Lập và lưu trữ hồ sơ nhà ở\n\n1. Các loại nhà ở phải có hồ sơ và được lưu trữ.\n\n2. Chủ sở hữu nhà ở, tổ chức được giao quản lý quỹ nhà ở thuộc sở hữu nhà nước hoặc người đang sử dụng nhà ở trong trường hợp chưa xác định được chủ sở hữu có trách nhiệm lập, lưu hồ sơ nhà ở và nộp một bản cho cơ quan cấp Giấy chứng nhận quyền sở hữu nhà ở để lưu trữ phục vụ yêu cầu quản lý nhà ở.\n\n3. Hồ sơ nhà ở nộp cho cơ quan cấp Giấy chứng nhận quyền sở hữu nhà ở được quy định như sau:\n\na) Đối với nhà ở tại đô thị được tạo lập kể từ ngày Luật này có hiệu lực thi hành thì hồ sơ nhà ở bao gồm các nội dung: tên và địa chỉ chủ nhà; một trong các giấy tờ quy định tại Điều 15 của Luật này; tên và địa chỉ đơn vị tư vấn, đơn vị thi công (nếu có); bản vẽ thiết kế hoặc bản vẽ sơ đồ nhà ở, đất ở (nếu có); hồ sơ hoàn công theo quy định của pháp luật về xây dựng;\n\nb) Đối với nhà ở tại nông thôn được tạo lập kể từ ngày Luật này có hiệu lực thi hành thì hồ sơ nhà ở bao gồm các nội dung: tên và địa chỉ chủ nhà; một trong các giấy tờ quy định tại Điều 15 của Luật này; bản vẽ thiết kế hoặc bản vẽ sơ đồ nhà ở, đất ở (nếu có);\n\nc) Đối với nhà ở được tạo lập trước ngày Luật này có hiệu lực thi hành thì hồ sơ nhà ở bao gồm các nội dung: tên và địa chỉ chủ nhà; một trong các giấy tờ quy định tại Điều 15 của Luật này."
+   }
+  },
+  {
+   "id": "VN-H456-A67",
+   "no": 67,
+   "noLabel": {
+    "vi": "Điều 67"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Bảo hiểm nhà ở"
+   },
+   "text": {
+    "vi": "Điều 67. Bảo hiểm nhà ở\n\n1. Nhà nước khuyến khích các chủ sở hữu nhà ở mua bảo hiểm nhà ở.\n\n2. Nội dung và thể thức bảo hiểm nhà ở được thực hiện theo quy định của pháp luật về kinh doanh bảo hiểm."
+   }
+  },
+  {
+   "id": "VN-H456-A68",
+   "no": 68,
+   "noLabel": {
+    "vi": "Điều 68"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Trách nhiệm của chủ sở hữu nhà ở trong việc sử dụng nhà ở"
+   },
+   "text": {
+    "vi": "Điều 68. Trách nhiệm của chủ sở hữu nhà ở trong việc sử dụng nhà ở\n\n1. Lập và lưu hồ sơ nhà ở theo quy định tại khoản 2 Điều 66 của Luật này.\n\n2. Thực hiện các quy định về sử dụng nhà ở; giữ gìn, bảo quản nhà ở, phòng cháy, chữa cháy, vệ sinh môi trường, trật tự trị an; thực hiện các nghĩa vụ tài chính trong quá trình sử dụng nhà ở theo quy định của pháp luật.\n\n3. Khi làm hư hỏng phần nhà ở thuộc sở hữu chung hoặc nhà ở của chủ sở hữu nhà ở khác thì phải khôi phục lại nguyên trạng hoặc bồi thường theo quy định của pháp luật.\n\n4. Thực hiện bảo trì theo quy định đối với phần sở hữu riêng; đóng góp đầy đủ, đúng thời hạn các khoản kinh phí phải nộp theo quy định về quản lý, vận hành, bảo trì hệ thống trang thiết bị, hệ thống hạ tầng kỹ thuật, phần diện tích nhà ở thuộc sở hữu chung.\n\n5. Tạo điều kiện để các bên có liên quan và người có trách nhiệm thực hiện việc kiểm tra, theo dõi, bảo trì hệ thống trang thiết bị, hệ thống hạ tầng kỹ thuật, phần diện tích nhà thuộc sở hữu chung."
+   }
+  },
+  {
+   "id": "VN-H456-A69",
+   "no": 69,
+   "noLabel": {
+    "vi": "Điều 69"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Trách nhiệm của người sử dụng nhà ở không phải là chủ sở hữu"
+   },
+   "text": {
+    "vi": "Điều 69. Trách nhiệm của người sử dụng nhà ở không phải là chủ sở hữu\n\nNgười thuê, mượn, ở nhờ hoặc người được uỷ quyền quản lý sử dụng nhà ở có trách nhiệm trong việc sử dụng nhà ở theo hợp đồng với chủ sở hữu nhà ở và phải tuân thủ các quy định về sử dụng nhà ở của Luật này.\n\nMục 2\nQUẢN LÝ VIỆC SỬ DỤNG NHÀ CHUNG CƯ"
+   }
+  },
+  {
+   "id": "VN-H456-A70",
+   "no": 70,
+   "noLabel": {
+    "vi": "Điều 70"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Phần sở hữu riêng và phần sở hữu chung trong nhà chung cư"
+   },
+   "text": {
+    "vi": "Điều 70. Phần sở hữu riêng và phần sở hữu chung trong nhà chung cư\n\n1. Nhà chung cư là nhà ở có từ hai tầng trở lên, có lối đi, cầu thang và hệ thống công trình hạ tầng sử dụng chung cho nhiều hộ gia đình, cá nhân. Nhà chung cư có phần sở hữu riêng của từng hộ gia đình, cá nhân và phần sở hữu chung của tất cả các hộ gia đình, cá nhân sử dụng nhà chung cư.\n\n2. Phần sở hữu riêng trong nhà chung cư bao gồm:\n\na) Phần diện tích bên trong căn hộ, bao gồm cả diện tích ban công, lôgia gắn liền với căn hộ đó;\n\nb) Phần diện tích khác trong nhà chung cư được công nhận là sở hữu riêng theo quy định của pháp luật;\n\nc) Hệ thống trang thiết bị kỹ thuật sử dụng riêng gắn liền với căn hộ, phần diện tích thuộc sở hữu riêng.\n\n3. Phần sở hữu chung trong nhà chung cư bao gồm:\n\na) Phần diện tích nhà còn lại của nhà chung cư ngoài phần diện tích thuộc sở hữu riêng quy định tại khoản 2 Điều này;\n\nb) Không gian và hệ thống kết cấu chịu lực, trang thiết bị kỹ thuật dùng chung trong nhà chung cư, gồm khung, cột, tường chịu lực, tường bao ngôi nhà, tường phân chia các căn hộ, sàn, mái, sân thượng, hành lang, cầu thang bộ, thang máy, đường thoát hiểm, lồng xả rác, hộp kỹ thuật, nơi để xe, hệ thống cấp điện, nước, ga, thông tin liên lạc, phát thanh, truyền hình, thoát nước, bể phốt, thu lôi, cứu hoả và các phần khác không thuộc sở hữu riêng của căn hộ nào;\n\nc) Hệ thống hạ tầng kỹ thuật bên ngoài nhưng được kết nối với nhà chung cư đó."
+   }
+  },
+  {
+   "id": "VN-H456-A71",
+   "no": 71,
+   "noLabel": {
+    "vi": "Điều 71"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Tổ chức quản lý việc sử dụng nhà chung cư"
+   },
+   "text": {
+    "vi": "Điều 71. Tổ chức quản lý việc sử dụng nhà chung cư\n\n1. Nhà chung cư phải có Ban quản trị. Ban quản trị nhà chung cư là người đại diện để bảo vệ quyền và lợi ích hợp pháp của các chủ sở hữu và những người sử dụng trong quá trình sử dụng nhà chung cư.\n\nTrong thời hạn không quá mười hai tháng, kể từ ngày nhà chung cư được đưa vào khai thác, sử dụng, chủ đầu tư có trách nhiệm chủ trì tổ chức Hội nghị các chủ sở hữu và người sử dụng nhà chung cư (sau đây gọi là Hội nghị nhà chung cư) để bầu Ban quản trị. Chủ đầu tư có trách nhiệm chuẩn bị các nội dung liên quan để thông qua Hội nghị nhà chung cư xem xét, quyết định.\n\nKhi chưa thành lập được Ban quản trị thì chủ đầu tư có trách nhiệm thực hiện các công việc của Ban quản trị.\n\n2. Ban quản trị nhà chung cư gồm đại diện các chủ sở hữu, người sử dụng nhà chung cư đó.\n\n3. Số lượng thành viên Ban quản trị do Hội nghị nhà chung cư quyết định. Nhiệm kỳ của Ban quản trị nhà chung cư tối đa là ba năm. Ban quản trị hoạt động theo nguyên tắc tập thể, quyết định theo đa số."
+   }
+  },
+  {
+   "id": "VN-H456-A72",
+   "no": 72,
+   "noLabel": {
+    "vi": "Điều 72"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Quyền và trách nhiệm của Ban quản trị"
+   },
+   "text": {
+    "vi": "Điều 72. Quyền và trách nhiệm của Ban quản trị\n\nBan quản trị nhà chung cư có các quyền và trách nhiệm sau đây:\n\n1. Xây dựng nội quy sử dụng nhà chung cư phù hợp với điều kiện cụ thể của nhà chung cư theo quy định của pháp luật để trình Hội nghị nhà chung cư xem xét, thông qua;\n\n2. Lựa chọn và ký hợp đồng với doanh nghiệp quản lý vận hành nhà chung cư; huỷ bỏ hợp đồng trong trường hợp doanh nghiệp đó không thực hiện đúng cam kết; giám sát hoạt động của doanh nghiệp quản lý nhà chung cư theo nội dung hợp đồng đã ký;\n\n3. Thu thập, tổng hợp ý kiến, kiến nghị của người sử dụng liên quan tới việc quản lý, sử dụng và cung cấp các dịch vụ nhà chung cư để phối hợp với các cơ quan chức năng, với tổ chức, cá nhân có liên quan xem xét giải quyết;\n\n4. Kiểm tra, theo dõi giám sát việc sử dụng, bảo hành, bảo trì nhà chung cư theo quy định;\n\n5. Phối hợp với chính quyền địa phương, tổ dân phố trong việc xây dựng nếp sống văn minh, giữ gìn trật tự an toàn xã hội trong nhà chung cư được giao quản lý;\n\n6. Thu các khoản tiền phải nộp của các chủ sở hữu nhà ở, người sử dụng và kinh phí từ việc sử dụng các phần diện tích thuộc sở hữu chung của nhà chung cư (nếu có);\n\n7. Thanh toán kinh phí cho doanh nghiệp quản lý vận hành nhà chung cư theo hợp đồng đã ký và trả khoản tiền phụ cấp trách nhiệm cho các thành viên trong Ban quản trị và các khoản chi khác theo quy định của Hội nghị nhà chung cư;\n\n8. Thực hiện các công việc khác do Hội nghị nhà chung cư giao.\n\nCơ quan quản lý nhà nước về nhà ở ở trung ương ban hành quy chế quản lý nhà chung cư, hướng dẫn và kiểm tra việc quản lý, sử dụng nhà chung cư trong cả nước."
+   }
+  },
+  {
+   "id": "VN-H456-A73",
+   "no": 73,
+   "noLabel": {
+    "vi": "Điều 73"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Doanh nghiệp quản lý vận hành nhà chung cư"
+   },
+   "text": {
+    "vi": "Điều 73. Doanh nghiệp quản lý vận hành nhà chung cư\n\n1. Việc quản lý vận hành nhà chung cư phải do doanh nghiệp có năng lực chuyên môn về quản lý vận hành nhà chung cư thực hiện.\n\nDoanh nghiệp quản lý vận hành nhà chung cư thực hiện việc quản lý, vận hành hệ thống kỹ thuật, trang thiết bị, cung cấp các dịch vụ cho nhà chung cư, bảo trì nhà chung cư và thực hiện các công việc khác theo hợp đồng ký với Ban quản trị nhà chung cư.\n\n2. Doanh nghiệp quản lý vận hành nhà chung cư được tổ chức để quản lý nhà chung cư ở các địa bàn khác nhau.\n\nTrong trường hợp địa phương chưa có doanh nghiệp quản lý vận hành nhà chung cư thì Ban quản trị có thể ký hợp đồng với doanh nghiệp quản lý vận hành nhà chung cư ở địa phương khác thực hiện quản lý nhà chung cư hoặc chủ đầu tư có trách nhiệm thực hiện việc quản lý và cung cấp các dịch vụ cho nhà chung cư.\n\n3. Dịch vụ quản lý vận hành nhà chung cư được hưởng các chế độ như đối với dịch vụ công ích.\n\nMục 3\n\n BẢO HÀNH, BẢO TRÌ, CẢI TẠO NHÀ Ở"
+   }
+  },
+  {
+   "id": "VN-H456-A74",
+   "no": 74,
+   "noLabel": {
+    "vi": "Điều 74"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Bảo hành nhà ở"
+   },
+   "text": {
+    "vi": "Điều 74. Bảo hành nhà ở\n\n1. Nhà ở được bảo hành sau khi hoàn thành việc xây dựng đưa vào sử dụng.\n\n2. Tổ chức, cá nhân thi công xây dựng nhà ở có trách nhiệm bảo hành nhà ở; tổ chức, cá nhân cung ứng thiết bị nhà ở có trách nhiệm bảo hành thiết bị do mình cung ứng.\n\nTrong trường hợp đầu tư xây dựng nhà ở để bán thì bên bán nhà ở có trách nhiệm bảo hành trong thời hạn quy định tại khoản 4 Điều này. Bên bán nhà ở có quyền yêu cầu tổ chức, cá nhân thi công xây dựng, cung ứng thiết bị thực hiện trách nhiệm bảo hành nhà ở đó.\n\n3. Nội dung bảo hành nhà ở bao gồm khắc phục, sửa chữa, thay thế kết cấu nhà ở, thiết bị hư hỏng, khiếm khuyết hoặc khi vận hành, sử dụng không bình thường mà không phải do lỗi của người sử dụng nhà ở gây ra.\n\n4. Thời gian bảo hành nhà ở được tính từ ngày chủ đầu tư ký biên bản nghiệm thu nhà ở để đưa vào sử dụng và được quy định như sau:\n\na) Không ít hơn sáu mươi tháng đối với nhà chung cư từ chín tầng trở lên và các loại nhà ở khác được đầu tư xây dựng bằng ngân sách nhà nước;\n\nb) Không ít hơn ba mươi sáu tháng đối với nhà chung cư từ bốn đến tám tầng;\n\nc) Không ít hơn hai mươi bốn tháng đối với nhà ở không thuộc diện quy định tại điểm a và điểm b khoản này."
+   }
+  },
+  {
+   "id": "VN-H456-A75",
+   "no": 75,
+   "noLabel": {
+    "vi": "Điều 75"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Bảo trì nhà ở"
+   },
+   "text": {
+    "vi": "Điều 75. Bảo trì nhà ở\n\n1. Bảo trì nhà ở là việc duy tu, bảo dưỡng nhà ở theo định kỳ và sửa chữa khi có các hư hỏng nhằm duy trì chất lượng nhà ở.\n\n2. Chủ sở hữu nhà ở có trách nhiệm bảo trì nhà ở của mình theo quy định của Luật này và các quy định của pháp luật về xây dựng."
+   }
+  },
+  {
+   "id": "VN-H456-A76",
+   "no": 76,
+   "noLabel": {
+    "vi": "Điều 76"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Cải tạo nhà ở"
+   },
+   "text": {
+    "vi": "Điều 76. Cải tạo nhà ở\n\n1. Cải tạo nhà ở là việc nâng cấp hoặc mở rộng diện tích nhà ở hiện có.\n\n2. Chủ sở hữu nhà ở được cải tạo nhà ở của mình; người không phải là chủ sở hữu nhà ở chỉ được phép cải tạo nhà ở trong trường hợp được chủ sở hữu nhà ở đồng ý bằng văn bản. Việc cải tạo nhà ở phải thực hiện theo quy định của Luật này và các quy định của pháp luật về xây dựng."
+   }
+  },
+  {
+   "id": "VN-H456-A77",
+   "no": 77,
+   "noLabel": {
+    "vi": "Điều 77"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Yêu cầu về bảo trì, cải tạo nhà ở"
+   },
+   "text": {
+    "vi": "Điều 77. Yêu cầu về bảo trì, cải tạo nhà ở\n\n1. Bảo đảm an toàn cho người, tài sản, vệ sinh môi trường theo quy định của pháp luật.\n\n2. Thực hiện việc cải tạo theo đúng giấy phép xây dựng đối với trường hợp cải tạo phải có giấy phép xây dựng."
+   }
+  },
+  {
+   "id": "VN-H456-A78",
+   "no": 78,
+   "noLabel": {
+    "vi": "Điều 78"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Quyền và nghĩa vụ của chủ sở hữu nhà ở trong bảo trì, cải tạo nhà ở"
+   },
+   "text": {
+    "vi": "Điều 78. Quyền và nghĩa vụ của chủ sở hữu nhà ở trong bảo trì, cải tạo nhà ở\n\n1. Chủ sở hữu nhà ở có các quyền sau đây trong việc bảo trì, cải tạo nhà ở:\n\na) Được tự thực hiện việc bảo trì, cải tạo nhà ở hoặc thuê tổ chức, cá nhân có đủ năng lực hành nghề xây dựng thực hiện. Trong trường hợp sửa chữa lớn hoặc cải tạo nhà ở theo quy định phải có giấy phép xây dựng thì chủ sở hữu nhà ở chỉ được tự thực hiện nếu có đủ năng lực hành nghề xây dựng;\n\nb) Yêu cầu các cơ quan chức năng cấp phép và tạo điều kiện cho việc cải tạo nhà ở khi có đủ các điều kiện theo quy định của pháp luật về xây dựng;\n\nc) Được uỷ quyền cho người khác làm thủ tục và thực hiện việc bảo trì, cải tạo nhà ở của mình.\n\n2. Chủ sở hữu nhà ở có các nghĩa vụ sau đây trong việc bảo trì, cải tạo nhà ở:\n\na) Chấp hành đầy đủ các quy định của pháp luật về bảo trì, cải tạo nhà ở; tạo điều kiện cho các chủ sở hữu nhà ở khác thực hiện việc bảo trì, cải tạo nhà ở của họ;\n\nb) Bồi thường thiệt hại do việc bảo trì, cải tạo nhà ở gây ra;\n\nc) Sau khi sửa chữa, cải tạo nếu hiện trạng nhà ở có thay đổi so với nội dung trong Giấy chứng nhận quyền sở hữu nhà ở đã được cấp thì chủ sở hữu nhà ở phải đến cơ quan có thẩm quyền cấp Giấy chứng nhận quyền sở hữu nhà ở để xác nhận những thay đổi vào giấy chứng nhận."
+   }
+  },
+  {
+   "id": "VN-H456-A79",
+   "no": 79,
+   "noLabel": {
+    "vi": "Điều 79"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Bảo trì, cải tạo nhà ở đang cho thuê"
+   },
+   "text": {
+    "vi": "Điều 79. Bảo trì, cải tạo nhà ở đang cho thuê\n\n1. Bên cho thuê nhà ở thực hiện việc bảo trì hoặc cải tạo nhà ở đang cho thuê. Bên thuê nhà ở phải tạo điều kiện để bên cho thuê nhà ở thực hiện việc bảo trì, cải tạo nhà ở.\n\n2. Bên cho thuê nhà ở có quyền cải tạo nhà ở khi có sự đồng ý của bên thuê nhà ở, trừ trường hợp vì lý do bất khả kháng. Bên cho thuê nhà ở được quyền điều chỉnh giá cho thuê hợp lý sau khi kết thúc việc cải tạo nếu thời gian cho thuê còn lại từ một phần ba thời hạn của hợp đồng thuê nhà trở xuống. Trong trường hợp bên thuê nhà ở không đồng ý với việc điều chỉnh giá cho thuê nhà ở thì có quyền đơn phương chấm dứt thực hiện hợp đồng thuê nhà ở và được bồi thường thiệt hại theo quy định của pháp luật.\n\n3. Trường hợp bên thuê nhà ở phải di chuyển chỗ ở để thực hiện việc bảo trì hoặc cải tạo nhà ở thì các bên thoả thuận về chỗ ở tạm và tiền thuê nhà ở trong thời gian bảo trì, cải tạo. Trong trường hợp bên thuê nhà ở tự lo chỗ ở và đã trả trước tiền thuê nhà ở cho cả thời gian bảo trì hoặc cải tạo thì bên cho thuê nhà ở phải thanh toán cho bên thuê nhà ở bằng số tiền mà bên thuê nhà ở đã trả theo hợp đồng tương ứng với thời gian bảo trì hoặc cải tạo. Thời gian bảo trì hoặc cải tạo không tính vào thời hạn của hợp đồng thuê nhà ở. Bên thuê nhà ở được tiếp tục thuê nhà ở sau khi kết thúc việc bảo trì, cải tạo nhà ở.\n\n4. Bên thuê nhà ở có quyền yêu cầu bên cho thuê nhà ở bảo trì nhà ở, trừ trường hợp nhà ở bị hư hỏng do bên thuê nhà ở gây ra. Trường hợp bên cho thuê nhà ở không sửa chữa nhà ở thì bên thuê nhà ở được quyền sửa chữa nhưng phải thông báo bằng văn bản cho bên cho thuê nhà ở biết trước ít nhất ba mươi ngày. Văn bản thông báo phải ghi rõ mức độ sửa chữa và kinh phí thực hiện. Bên cho thuê nhà ở phải thanh toán kinh phí sửa chữa cho bên thuê nhà ở hoặc trừ dần vào tiền thuê nhà ở."
+   }
+  },
+  {
+   "id": "VN-H456-A80",
+   "no": 80,
+   "noLabel": {
+    "vi": "Điều 80"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Bảo trì, cải tạo nhà ở thuộc sở hữu chung"
+   },
+   "text": {
+    "vi": "Điều 80. Bảo trì, cải tạo nhà ở thuộc sở hữu chung\n\n1. Các chủ sở hữu nhà ở thuộc sở hữu chung có quyền và trách nhiệm bảo trì, cải tạo nhà ở thuộc sở hữu chung tương ứng với phần quyền sở hữu của mình; trong trường hợp không xác định được phần quyền sở hữu của từng chủ sở hữu nhà ở thuộc sở hữu chung thì trách nhiệm bảo trì, cải tạo được phân chia đều cho các chủ sở hữu nhà ở thuộc sở hữu chung. Việc tiến hành cải tạo nhà ở thuộc sở hữu chung phải được các chủ sở hữu đồng ý bằng văn bản.\n\n2. Việc phân chia kinh phí bảo trì, cải tạo phần sở hữu chung do các chủ sở hữu nhà ở thuộc sở hữu chung thoả thuận và được lập thành văn bản có chữ ký của các bên."
+   }
+  },
+  {
+   "id": "VN-H456-A81",
+   "no": 81,
+   "noLabel": {
+    "vi": "Điều 81"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Bảo trì, cải tạo nhà chung cư"
+   },
+   "text": {
+    "vi": "Điều 81. Bảo trì, cải tạo nhà chung cư\n\n1. Chủ sở hữu nhà chung cư chịu trách nhiệm bảo trì phần sở hữu riêng của mình; có trách nhiệm thực hiện nghĩa vụ trong việc bảo trì phần sở hữu chung.\n\nChính phủ quy định cụ thể kinh phí để thực hiện bảo trì phần sở hữu chung của nhà chung cư.\n\n2. Việc cải tạo nhà chung cư cao tầng phải có thiết kế và dự toán được cơ quan có thẩm quyền phê duyệt; trường hợp mở rộng diện tích thì phải được tối thiểu hai phần ba tổng số chủ sở hữu nhà chung cư đồng ý."
+   }
+  },
+  {
+   "id": "VN-H456-A82",
+   "no": 82,
+   "noLabel": {
+    "vi": "Điều 82"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Bảo trì, cải tạo nhà ở thuộc sở hữu nhà nước"
+   },
+   "text": {
+    "vi": "Điều 82. Bảo trì, cải tạo nhà ở thuộc sở hữu nhà nước\n\n1. Việc bảo trì nhà ở thuộc sở hữu nhà nước do cơ quan hoặc doanh nghiệp được Nhà nước giao quản lý nhà ở đó thực hiện.\n\nViệc cải tạo nhà ở thuộc sở hữu nhà nước phải được thực hiện theo thiết kế và dự toán được cơ quan nhà nước có thẩm quyền phê duyệt.\n\n2. Nhà ở thuộc sở hữu nhà nước đang cho thuê hoặc đang sử dụng làm nhà ở công vụ thì việc cải tạo được thực hiện theo quy định tại Điều 79 của Luật này; trường hợp có sự đồng ý bằng văn bản của cơ quan quản lý nhà ở cho phép bên thuê nhà ở công vụ tự bỏ kinh phí để cải tạo thì phần nhà ở được cải tạo vẫn thuộc sở hữu nhà nước và tổ chức được giao quản lý nhà ở đó có trách nhiệm hoàn trả kinh phí cho bên thuê nhà ở hoặc trừ dần vào tiền thuê nhà ở của bên thuê nhà ở.\n\nMục 4\n\n PHÁ DỠ NHÀ Ở"
+   }
+  },
+  {
+   "id": "VN-H456-A83",
+   "no": 83,
+   "noLabel": {
+    "vi": "Điều 83"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Các trường hợp nhà ở phải phá dỡ"
+   },
+   "text": {
+    "vi": "Điều 83. Các trường hợp nhà ở phải phá dỡ\n\n1. Nhà ở bị hư hỏng, xuống cấp có nguy cơ sập đổ đã có kết luận của cơ quan có thẩm quyền về kiểm định chất lượng công trình xây dựng.\n\n2. Nhà ở thuộc diện phải giải toả để thu hồi đất theo quyết định của cơ quan nhà nước có thẩm quyền.\n\n3. Nhà chung cư cao tầng hết niên hạn sử dụng.\n\n4. Nhà ở thuộc diện phải phá dỡ theo quy định của pháp luật về xây dựng."
+   }
+  },
+  {
+   "id": "VN-H456-A84",
+   "no": 84,
+   "noLabel": {
+    "vi": "Điều 84"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Trách nhiệm phá dỡ nhà ở"
+   },
+   "text": {
+    "vi": "Điều 84. Trách nhiệm phá dỡ nhà ở\n\n1. Chủ sở hữu nhà ở có trách nhiệm phá dỡ nhà ở. Trường hợp phải giải toả nhà ở để xây dựng công trình khác thì chủ đầu tư công trình có trách nhiệm phá dỡ nhà ở.\n\n2. Chủ sở hữu nhà ở tự thực hiện việc phá dỡ nếu có đủ năng lực theo quy định của pháp luật về xây dựng hoặc thuê tổ chức, cá nhân có năng lực về xây dựng phá dỡ.\n\n3. Việc phá dỡ nhà chung cư từ hai tầng trở lên và nhà ở khác từ bốn tầng trở lên phải do doanh nghiệp có năng lực về xây dựng thực hiện và phải có phương án phá dỡ cụ thể được cơ quan nhà nước có thẩm quyền phê duyệt, trừ trường hợp khẩn cấp.\n\n4. Uỷ ban nhân dân cấp xã có trách nhiệm theo dõi, đôn đốc việc phá dỡ nhà ở trên địa bàn."
+   }
+  },
+  {
+   "id": "VN-H456-A85",
+   "no": 85,
+   "noLabel": {
+    "vi": "Điều 85"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Yêu cầu khi phá dỡ nhà ở"
+   },
+   "text": {
+    "vi": "Điều 85. Yêu cầu khi phá dỡ nhà ở\n\n1. Phải di chuyển người và tài sản ra khỏi khu vực phá dỡ.\n\n2. Phải có biển báo và giải pháp cách ly với khu vực xung quanh.\n\n3. Bảo đảm an toàn cho người, tài sản, công trình xung quanh, công trình hạ tầng kỹ thuật thuộc diện không bị phá dỡ và bảo đảm vệ sinh môi trường theo quy định của pháp luật.\n\n4. Không được thực hiện việc phá dỡ nhà ở nằm trong khu dân cư trong khoảng thời gian từ 12 giờ đến 13 giờ và từ 22 giờ đến 05 giờ, trừ trường hợp khẩn cấp."
+   }
+  },
+  {
+   "id": "VN-H456-A86",
+   "no": 86,
+   "noLabel": {
+    "vi": "Điều 86"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Cưỡng chế phá dỡ nhà ở"
+   },
+   "text": {
+    "vi": "Điều 86. Cưỡng chế phá dỡ nhà ở\n\n1. Trường hợp nhà ở phải phá dỡ theo quy định tại Điều 83 của Luật này mà chủ sở hữu nhà ở, chủ đầu tư công trình hoặc người đang quản lý sử dụng không tự nguyện thực hiện việc phá dỡ nhà ở thì cơ quan nhà nước có thẩm quyền ra quyết định cưỡng chế phá dỡ.\n\n2. Thẩm quyền ra quyết định cưỡng chế phá dỡ nhà ở được quy định như sau:\n\na) Uỷ ban nhân dân cấp tỉnh ra quyết định cưỡng chế phá dỡ nhà ở đối với nhà chung cư cao tầng và nhà ở thuộc sở hữu nhà nước;\n\nb) Uỷ ban nhân dân cấp huyện ra quyết định cưỡng chế phá dỡ đối với nhà ở không thuộc quy định tại điểm a khoản này.\n\n3. Kinh phí cho việc cưỡng chế phá dỡ nhà ở được quy định như sau:\n\na) Chủ sở hữu nhà ở hoặc chủ đầu tư công trình phải chịu các chi phí cưỡng chế phá dỡ và các chi phí có liên quan đến việc phá dỡ;\n\nb) Trường hợp chủ sở hữu nhà ở, chủ đầu tư công trình không chi trả thì cơ quan nhà nước có thẩm quyền ra quyết định cưỡng chế áp dụng biện pháp cưỡng chế tài sản để bảo đảm kinh phí cho việc phá dỡ."
+   }
+  },
+  {
+   "id": "VN-H456-A87",
+   "no": 87,
+   "noLabel": {
+    "vi": "Điều 87"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Chỗ ở của hộ gia đình, cá nhân khi nhà ở bị phá dỡ"
+   },
+   "text": {
+    "vi": "Điều 87. Chỗ ở của hộ gia đình, cá nhân khi nhà ở bị phá dỡ\n\n1. Chủ sở hữu nhà ở phải tự lo chỗ ở cho mình khi nhà ở bị phá dỡ.\n\n2. Phá dỡ nhà ở thuộc diện giải phóng mặt bằng thì chỗ ở của hộ gia đình, cá nhân được giải quyết theo chính sách về bồi thường, hỗ trợ và tái định cư khi Nhà nước thu hồi đất nhưng phải bảo đảm nguyên tắc chỗ ở mới của hộ gia đình, cá nhân phải bằng hoặc tốt hơn chỗ ở cũ."
+   }
+  },
+  {
+   "id": "VN-H456-A88",
+   "no": 88,
+   "noLabel": {
+    "vi": "Điều 88"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Phá dỡ nhà ở đang cho thuê"
+   },
+   "text": {
+    "vi": "Điều 88. Phá dỡ nhà ở đang cho thuê\n\n1. Bên cho thuê nhà ở phải thông báo bằng văn bản cho bên thuê nhà ở biết trước thời gian phá dỡ, quyền và nghĩa vụ của bên thuê nhà ở trong quá trình phá dỡ ít nhất là ba tháng trước khi thực hiện phá dỡ, trừ trường hợp khẩn cấp.\n\n2. Trường hợp phá dỡ để xây dựng lại nhà ở mà thời hạn thuê vẫn còn thì bên cho thuê nhà ở có trách nhiệm bố trí cho bên thuê nhà ở chỗ ở khác trong thời gian phá dỡ và xây dựng lại nhà ở, trừ trường hợp bên thuê nhà ở thoả thuận tự lo chỗ ở. Sau khi xây dựng xong, bên thuê nhà ở được tiếp tục thuê đến hết hạn hợp đồng. Trong trường hợp bên thuê nhà ở tự lo chỗ ở thì không phải trả tiền thuê nhà ở trong thời gian phá dỡ và xây dựng lại, thời gian phá dỡ và xây dựng lại không tính vào thời hạn của hợp đồng thuê nhà ở."
+   }
+  },
+  {
+   "id": "VN-H456-A89",
+   "no": 89,
+   "noLabel": {
+    "vi": "Điều 89"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Phá dỡ nhà ở theo nhu cầu của chủ sở hữu nhà ở"
+   },
+   "text": {
+    "vi": "Điều 89. Phá dỡ nhà ở theo nhu cầu của chủ sở hữu nhà ở\n\n1. Việc phá dỡ nhà ở theo nhu cầu của chủ sở hữu nhà ở phải tuân thủ các quy định tại Điều 84 và Điều 85 của Luật này.\n\n2. Việc phá dỡ nhà chung cư của nhiều chủ sở hữu theo nhu cầu thì phải được hai phần ba tổng số chủ sở hữu nhà chung cư đồng ý và phải tuân thủ các quy định tại Điều 84 và Điều 85 của Luật này.\n\n3. Trường hợp phá dỡ nhà chung cư để xây dựng lại thì phải có dự án được cơ quan nhà nước có thẩm quyền phê duyệt, bảo đảm quyền được tái định cư và lợi ích chính đáng của các chủ sở hữu nhà chung cư theo quy định của pháp luật.\n\nChương V\n\nGIAO DỊCH VỀ NHÀ Ở\n\nMục 1\n\nQUY ĐỊNH CHUNG ĐỐI VỚI GIAO DỊCH VỀ NHÀ Ở"
+   }
+  },
+  {
+   "id": "VN-H456-A90",
+   "no": 90,
+   "noLabel": {
+    "vi": "Điều 90"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Các hình thức giao dịch về nhà ở"
+   },
+   "text": {
+    "vi": "Điều 90. Các hình thức giao dịch về nhà ở\n\nGiao dịch về nhà ở gồm các hình thức mua bán, cho thuê, thuê mua, tặng cho, đổi, thừa kế, thế chấp, cho mượn, cho ở nhờ và uỷ quyền quản lý nhà ở."
+   }
+  },
+  {
+   "id": "VN-H456-A91",
+   "no": 91,
+   "noLabel": {
+    "vi": "Điều 91"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Điều kiện của nhà ở tham gia giao dịch"
+   },
+   "text": {
+    "vi": "Điều 91. Điều kiện của nhà ở tham gia giao dịch\n\n1. Trong các giao dịch về mua bán, tặng cho, đổi, thừa kế, thế chấp, cho mượn, cho ở nhờ, uỷ quyền quản lý nhà ở thì nhà ở phải có các điều kiện sau đây:\n\na) Có giấy chứng nhận quyền sở hữu đối với nhà ở theo quy định của pháp luật;\n\nb) Không có tranh chấp về quyền sở hữu;\n\nc) Không bị kê biên để thi hành án hoặc để chấp hành quyết định hành chính của cơ quan nhà nước có thẩm quyền.\n\n2. Trường hợp nhà ở cho thuê ngoài các điều kiện quy định tại khoản 1 Điều này còn phải bảo đảm chất lượng, an toàn cho bên thuê nhà ở, cung cấp điện, nước, vệ sinh môi trường và các điều kiện thiết yếu khác.\n\n3. Trong trường hợp nhà ở thuê mua phải bảo đảm các tiêu chuẩn quy định tại Mục 4 Chương III của Luật này."
+   }
+  },
+  {
+   "id": "VN-H456-A92",
+   "no": 92,
+   "noLabel": {
+    "vi": "Điều 92"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Điều kiện của các bên tham gia giao dịch về nhà ở"
+   },
+   "text": {
+    "vi": "Điều 92. Điều kiện của các bên tham gia giao dịch về nhà ở\n\n1. Bên bán, cho thuê, cho thuê mua, tặng cho, đổi, thế chấp, cho mượn, cho ở nhờ, uỷ quyền quản lý nhà ở phải có các điều kiện sau đây:\n\na) Là chủ sở hữu nhà ở hoặc người đại diện theo quy định của pháp luật về dân sự;\n\nb) Cá nhân có năng lực hành vi dân sự; tổ chức bán, cho thuê nhà ở phải có chức năng kinh doanh nhà ở, trừ trường hợp tổ chức bán nhà ở không nhằm mục đích kinh doanh.\n\n2. Bên mua, thuê, thuê mua, đổi, nhận tặng cho, mượn, ở nhờ, được uỷ quyền quản lý nhà ở là tổ chức, cá nhân; nếu là cá nhân trong nước thì không phụ thuộc vào nơi đăng ký hộ khẩu thường trú và phải có năng lực hành vi dân sự; nếu là người Việt Nam định cư ở nước ngoài thì phải thuộc diện được sở hữu, được thuê nhà ở tại Việt Nam theo quy định của Luật này; nếu là tổ chức thì không phụ thuộc vào nơi đăng ký kinh doanh."
+   }
+  },
+  {
+   "id": "VN-H456-A93",
+   "no": 93,
+   "noLabel": {
+    "vi": "Điều 93"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Trình tự, thủ tục trong giao dịch về nhà ở"
+   },
+   "text": {
+    "vi": "Điều 93. Trình tự, thủ tục trong giao dịch về nhà ở\n\n1. Các bên trực tiếp hoặc thông qua người đại diện thoả thuận về mua bán, thuê, thuê mua, tặng cho, đổi, thế chấp, cho mượn, cho ở nhờ, uỷ quyền quản lý nhà ở (sau đây gọi chung là hợp đồng về nhà ở). Trường hợp pháp nhân tặng cho nhà ở thì phải có văn bản tặng cho.\n\n2. Hợp đồng về nhà ở, văn bản tặng cho nhà ở phải thể hiện các nội dung sau đây:\n\na) Tên và địa chỉ của các bên;\n\nb) Mô tả đặc điểm của nhà ở;\n\nc) Giá và phương thức thanh toán nếu trong hợp đồng có thoả thuận về giá;\n\nd) Thời gian giao nhận nhà ở; thời gian bảo hành (nếu có); thời hạn cho thuê; cho mượn, cho ở nhờ; uỷ quyền quản lý;\n\nđ) Quyền và nghĩa vụ của các bên;\n\ne) Cam kết của các bên;\n\ng) Các thỏa thuận khác;\n\nh) Ngày, tháng, năm ký kết hợp đồng hoặc ký văn bản;\n\ni) Chữ ký của các bên (nếu là tổ chức thì phải đóng dấu và ghi rõ chức vụ của người ký).\n\n3. Hợp đồng về nhà ở phải có chứng nhận của công chứng hoặc chứng thực của Uỷ ban nhân dân cấp huyện đối với nhà ở tại đô thị, chứng thực của Uỷ ban nhân dân xã đối với nhà ở tại nông thôn, trừ các trường hợp sau đây:\n\na) Cá nhân cho thuê nhà ở dưới sáu tháng;\n\nb) Bên bán, bên cho thuê nhà ở là tổ chức có chức năng kinh doanh nhà ở;\n\nc) Thuê mua nhà ở xã hội;\n\nd) Bên tặng cho nhà ở là tổ chức.\n\n4. Một trong các bên theo thoả thuận thực hiện nộp thuế và lệ phí theo quy định của pháp luật.\n\n5. Bên mua, bên nhận tặng cho, bên đổi, bên được thừa kế nhà ở có trách nhiệm nộp hồ sơ để được cấp Giấy chứng nhận quyền sở hữu nhà ở theo trình tự quy định tại Điều 16 của Luật này, trừ trường hợp bên bán nhà ở là tổ chức có chức năng kinh doanh nhà ở hoặc các bên có thỏa thuận khác. Quyền sở hữu nhà ở được chuyển cho bên mua, bên nhận tặng cho, bên thuê mua, bên nhận đổi nhà ở kể từ thời điểm hợp đồng được công chứng đối với giao dịch về nhà ở giữa cá nhân với cá nhân hoặc đã giao nhận nhà ở theo thỏa thuận trong hợp đồng đối với giao dịch về nhà ở mà một bên là tổ chức kinh doanh nhà ở hoặc từ thời điểm mở thừa kế trong trường hợp nhận thừa kế nhà ở.\n\n6. Trường hợp cho thuê, cho mượn, cho ở nhờ, uỷ quyền quản lý nhà ở từ sáu tháng trở lên thì bên cho thuê, cho mượn, cho ở nhờ, uỷ quyền quản lý nhà ở phải nộp cho Uỷ ban nhân dân cấp xã nơi có nhà ở bản sao hợp đồng về quy định tại khoản này.\n\n7. Trình tự thế chấp nhà ở thực hiện theo quy định của pháp luật dân sự. Bên nhận thế chấp được giữ Giấy chứng nhận quyền sở hữu nhà ở trong thời gian nhận thế chấp, trừ trường hợp các bên có thoả thuận khác.\n\nMục 2\n\n MUA BÁN NHÀ Ở"
+   }
+  },
+  {
+   "id": "VN-H456-A94",
+   "no": 94,
+   "noLabel": {
+    "vi": "Điều 94"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Giá mua bán nhà ở"
+   },
+   "text": {
+    "vi": "Điều 94. Giá mua bán nhà ở\n\nGiá mua bán nhà ở do các bên thoả thuận. Trường hợp pháp luật có quy định về khung giá mua bán nhà ở thì không được vượt quá khung giá đó."
+   }
+  },
+  {
+   "id": "VN-H456-A95",
+   "no": 95,
+   "noLabel": {
+    "vi": "Điều 95"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Mua bán nhà ở trả chậm, trả dần"
+   },
+   "text": {
+    "vi": "Điều 95. Mua bán nhà ở trả chậm, trả dần\n\n1. Việc mua bán nhà ở trả chậm hoặc trả dần do các bên thoả thuận và được ghi trong hợp đồng mua bán nhà ở. Trong thời gian trả chậm, trả dần, bên mua nhà ở được quyền sử dụng nhà ở và có trách nhiệm bảo trì nhà ở đó, trừ trường hợp nhà ở còn trong thời gian bảo hành theo quy định của pháp luật về xây dựng hoặc các bên có thoả thuận khác.\n\n2. Sau khi bên mua nhà ở đã trả đủ tiền cho bên bán nhà ở và làm thủ tục cấp Giấy chứng nhận quyền sở hữu nhà ở thì được cơ quan nhà nước có thẩm quyền cấp Giấy chứng nhận quyền sở hữu nhà ở.\n\n3. Bên mua nhà ở chỉ được bán, tặng cho, đổi nhà ở cho người khác sau khi đã trả đủ tiền cho bên bán nhà ở, trừ trường hợp các bên có thoả thuận khác.\n\n4. Trường hợp bên mua nhà ở có nhu cầu trả lại nhà ở đã mua trong thời gian trả chậm, trả dần và được bên bán nhà ở đồng ý thì hai bên thoả thuận phương thức trả lại nhà ở và việc thanh toán lại tiền mua nhà ở."
+   }
+  },
+  {
+   "id": "VN-H456-A96",
+   "no": 96,
+   "noLabel": {
+    "vi": "Điều 96"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Mua bán nhà ở thuộc sở hữu chung"
+   },
+   "text": {
+    "vi": "Điều 96. Mua bán nhà ở thuộc sở hữu chung\n\n1. Việc bán nhà ở thuộc sở hữu chung hợp nhất phải có sự đồng ý của tất cả các chủ sở hữu bằng văn bản.\n\nTrường hợp có chủ sở hữu nhà ở thuộc sở hữu chung không đồng ý bán thì các chủ sở hữu nhà ở thuộc sở hữu chung khác có quyền làm đơn yêu cầu Toà án giải quyết theo quy định của pháp luật. Các chủ sở hữu nhà ở nhà ở thuộc sở hữu chung được quyền ưu tiên mua, nếu các chủ sở hữu nhà ở thuộc sở hữu chung không mua thì nhà ở đó được bán cho người khác.\n\nTrường hợp có chủ sở hữu nhà ở thuộc sở hữu chung vắng mặt mà đã được Toà án tuyên bố mất tích thì các chủ sở hữu nhà ở thuộc sở hữu chung còn lại được quyền bán nhà ở đó; phần giá trị quyền sở hữu nhà ở của người mất tích được xử lý theo quy định của pháp luật dân sự.\n\n2. Trong trường hợp có chủ sở hữu nhà ở thuộc sở hữu chung bán phần quyền sở hữu nhà ở của mình thì các chủ sở hữu nhà ở thuộc sở hữu chung khác được quyền ưu tiên mua; trong thời hạn ba tháng, kể từ ngày nhận được thông báo về việc bán phần quyền sở hữu nhà ở và điều kiện bán mà không có chủ sở hữu nhà ở thuộc sở hữu chung nào mua thì phần quyền đó được bán cho người khác. Trong trường hợp vi phạm quyền ưu tiên mua thì xử lý theo quy định của pháp luật dân sự."
+   }
+  },
+  {
+   "id": "VN-H456-A97",
+   "no": 97,
+   "noLabel": {
+    "vi": "Điều 97"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Mua bán nhà ở đang cho thuê"
+   },
+   "text": {
+    "vi": "Điều 97. Mua bán nhà ở đang cho thuê\n\nTrường hợp chủ sở hữu bán nhà ở đang cho thuê thì phải thông báo cho bên thuê nhà ở biết về việc bán và các điều kiện bán nhà ở; bên thuê nhà ở được quyền ưu tiên mua nếu không có chỗ ở khác và đã thực hiện đầy đủ nghĩa vụ của bên thuê nhà ở, trừ trường hợp nhà ở thuộc sở hữu của cá nhân và nhà ở thuộc sở hữu chung. Trong thời hạn một tháng, kể từ ngày bên thuê nhà ở nhận được thông báo mà không mua thì chủ sở hữu nhà ở được quyền bán nhà ở đó cho người khác, trừ trường hợp các bên có thoả thuận khác về thời hạn."
+   }
+  },
+  {
+   "id": "VN-H456-A98",
+   "no": 98,
+   "noLabel": {
+    "vi": "Điều 98"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Mua trước nhà ở"
+   },
+   "text": {
+    "vi": "Điều 98. Mua trước nhà ở\n\nKhi các bên đã ký kết hợp đồng mua bán nhà ở nhưng Nhà nước có nhu cầu mua nhà ở đó để sử dụng vào lợi ích quốc gia, lợi ích công cộng thì Chủ tịch Uỷ ban nhân dân cấp tỉnh ra quyết định mua trước nhà ở đó. Giá cả, điều kiện và thể thức thanh toán được thực hiện theo thoả thuận trong hợp đồng mua bán nhà ở mà các bên đã ký kết. Nhà nước bồi thường thiệt hại cho các bên (nếu có). Hợp đồng mua bán nhà ở do các bên đã ký kết không còn giá trị pháp lý.\n\nMục 3\n\n CHO THUÊ NHÀ Ở"
+   }
+  },
+  {
+   "id": "VN-H456-A99",
+   "no": 99,
+   "noLabel": {
+    "vi": "Điều 99"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Giá cho thuê nhà ở"
+   },
+   "text": {
+    "vi": "Điều 99. Giá cho thuê nhà ở\n\n1. Giá cho thuê nhà ở do các bên thoả thuận. Trường hợp pháp luật có quy định về khung giá cho thuê nhà ở thì không được vượt quá khung giá đó.\n\n2. Trường hợp chưa hết hạn hợp đồng mà bên cho thuê nhà ở cải tạo nhà ở và được bên thuê nhà ở đồng ý thì bên cho thuê nhà ở được quyền điều chỉnh giá cho thuê nhà ở. Giá cho thuê nhà ở mới do các bên thoả thuận; trong trường hợp không thoả thuận được thì bên cho thuê nhà ở có quyền đơn phương chấm dứt hợp đồng thuê nhà ở và phải bồi thường cho bên thuê nhà ở theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H456-A100",
+   "no": 100,
+   "noLabel": {
+    "vi": "Điều 100"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Cho thuê nhà ở thuộc sở hữu chung"
+   },
+   "text": {
+    "vi": "Điều 100. Cho thuê nhà ở thuộc sở hữu chung\n\n1. Việc cho thuê nhà ở thuộc sở hữu chung phải có sự đồng ý bằng văn bản của tất cả các chủ sở hữu nhà ở đó, trừ trường hợp chủ sở hữu nhà ở thuộc sở hữu chung cho thuê phần nhà ở thuộc sở hữu của mình.\n\n2. Các chủ sở hữu nhà ở thuộc sở hữu chung có thể thoả thuận cử người đại diện ký hợp đồng cho thuê nhà ở."
+   }
+  },
+  {
+   "id": "VN-H456-A101",
+   "no": 101,
+   "noLabel": {
+    "vi": "Điều 101"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Cho thuê nhà ở thuộc sở hữu nhà nước"
+   },
+   "text": {
+    "vi": "Điều 101. Cho thuê nhà ở thuộc sở hữu nhà nước\n\n1. Việc cho thuê nhà ở thuộc sở hữu nhà nước phải đúng đối tượng. Bên thuê nhà ở phải sử dụng đúng mục đích, không được chuyển nhượng, chuyển đổi hoặc cho thuê lại.\n\n2. Đơn vị được giao quản lý quỹ nhà ở thuộc sở hữu nhà nước có trách nhiệm thực hiện quản lý việc sử dụng nhà ở, bảo trì, cải tạo theo quy định về quản lý nhà ở thuộc sở hữu nhà nước."
+   }
+  },
+  {
+   "id": "VN-H456-A102",
+   "no": 102,
+   "noLabel": {
+    "vi": "Điều 102"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Các trường hợp chấm dứt hợp đồng thuê nhà ở"
+   },
+   "text": {
+    "vi": "Điều 102. Các trường hợp chấm dứt hợp đồng thuê nhà ở\n\n1. Hợp đồng thuê nhà ở hết hạn; trường hợp trong hợp đồng không xác định thời hạn thì hợp đồng chấm dứt sau sáu tháng, kể từ ngày bên cho thuê nhà ở thông báo cho bên thuê nhà ở biết việc chấm dứt hợp đồng.\n\n2. Nhà ở cho thuê không còn.\n\n3. Bên thuê nhà ở chết mà khi chết không có ai cùng chung sống.\n\n4. Nhà ở cho thuê hư hỏng nặng có nguy cơ sập đổ hoặc nằm trong khu vực đã có quyết định thu hồi đất, giải phóng mặt bằng hoặc có quyết định phá dỡ của cơ quan nhà nước có thẩm quyền."
+   }
+  },
+  {
+   "id": "VN-H456-A103",
+   "no": 103,
+   "noLabel": {
+    "vi": "Điều 103"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Đơn phương chấm dứt thực hiện hợp đồng thuê nhà ở"
+   },
+   "text": {
+    "vi": "Điều 103. Đơn phương chấm dứt thực hiện hợp đồng thuê nhà ở\n\n1. Bên cho thuê nhà ở có quyền đơn phương chấm dứt thực hiện hợp đồng khi bên thuê nhà ở có một trong các hành vi sau đây:\n\na) Không trả tiền thuê nhà ở theo thỏa thuận trong hợp đồng liên tiếp trong ba tháng trở lên mà không có lý do chính đáng;\n\nb) Sử dụng nhà ở không đúng mục đích như đã thoả thuận;\n\nc) Cố ý làm hư hỏng nhà ở cho thuê;\n\nd) Sửa chữa, cải tạo, đổi nhà ở đang thuê hoặc cho người khác thuê lại nhà ở đang thuê mà không có sự đồng ý của bên cho thuê nhà ở;\n\nđ) Làm mất trật tự, vệ sinh môi trường, ảnh hưởng nghiêm trọng đến sinh hoạt của những người xung quanh đã được bên cho thuê nhà ở hoặc tổ trưởng tổ dân phố, trưởng thôn, làng, ấp, bản, buôn, phum, sóc lập biên bản đến lần thứ ba mà vẫn không khắc phục.\n\n2. Bên thuê nhà ở có quyền đơn phương chấm dứt thực hiện hợp đồng thuê nhà ở khi bên cho thuê nhà ở có một trong các hành vi sau đây:\n\na) Không sửa chữa nhà ở khi nhà ở có hư hỏng nặng;\n\nb) Tăng giá cho thuê nhà ở bất hợp lý hoặc tăng giá mà không thông báo cho bên thuê nhà ở biết trước theo thoả thuận;\n\nc) Khi quyền sử dụng nhà ở bị hạn chế do lợi ích của người thứ ba.\n\n3. Bên đơn phương chấm dứt thực hiện hợp đồng thuê nhà ở phải thông báo cho bên kia biết trước ít nhất một tháng, trừ trường hợp các bên có thoả thuận khác.\n\n4. Bên đơn phương chấm dứt hợp đồng thuê nhà ở vi phạm quy định tại khoản 3 Điều này, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H456-A104",
+   "no": 104,
+   "noLabel": {
+    "vi": "Điều 104"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Quyền tiếp tục thuê nhà ở"
+   },
+   "text": {
+    "vi": "Điều 104. Quyền tiếp tục thuê nhà ở\n\n1. Trường hợp chủ sở hữu nhà ở chết mà thời hạn thuê nhà ở vẫn còn thì bên thuê nhà ở được tiếp tục thuê đến hết hạn hợp đồng. Người thừa kế có trách nhiệm tiếp tục thực hiện hợp đồng thuê nhà ở đã ký kết trước đó, trừ trường hợp các bên có thoả thuận khác.\n\nTrường hợp không có người thừa kế theo quy định của pháp luật thì nhà ở đó thuộc quyền sở hữu nhà nước và người đang thuê nhà ở được tiếp tục thuê đến hết hạn hợp đồng.\n\n2. Trường hợp chủ sở hữu nhà ở chuyển quyền sở hữu nhà ở đang cho thuê mà thời hạn thuê nhà ở vẫn còn thì bên thuê nhà ở được tiếp tục thuê đến hết hạn hợp đồng; chủ sở hữu nhà ở mới có trách nhiệm tiếp tục thực hiện hợp đồng thuê nhà ở đã ký kết trước đó, trừ trường hợp các bên có thoả thuận khác.\n\n3. Khi bên thuê nhà ở chết mà thời hạn thuê nhà ở vẫn còn thì người đã cùng ở với bên thuê nhà ở được tiếp tục thuê đến hết hạn hợp đồng thuê nhà ở, trừ trường hợp các bên có thoả thuận khác.\n\nMục 4\n\n THUÊ MUA NHÀ Ở XÃ HỘI"
+   }
+  },
+  {
+   "id": "VN-H456-A105",
+   "no": 105,
+   "noLabel": {
+    "vi": "Điều 105"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Thủ tục thuê mua nhà ở xã hội"
+   },
+   "text": {
+    "vi": "Điều 105. Thủ tục thuê mua nhà ở xã hội\n\n1. Thuê mua nhà ở xã hội là việc người thuê nhà ở được cơ quan nhà nước có thẩm quyền công nhận quyền sở hữu đối với nhà ở đang thuê sau khi đã hoàn thành nghĩa vụ của người thuê trong một thời gian quy định.\n\n2. Việc thuê mua nhà ở xã hội phải thông qua hợp đồng được ký kết giữa đơn vị được giao quản lý quỹ nhà ở xã hội với người được thuê mua.\n\n3. Kết thúc thời hạn thuê mua theo hợp đồng, người thuê mua nhà ở xã hội phải làm thủ tục theo quy định tại Điều 16 của Luật này để được cấp Giấy chứng nhận quyền sở hữu nhà ở."
+   }
+  },
+  {
+   "id": "VN-H456-A106",
+   "no": 106,
+   "noLabel": {
+    "vi": "Điều 106"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Quyền và nghĩa vụ của người thuê mua nhà ở xã hội"
+   },
+   "text": {
+    "vi": "Điều 106. Quyền và nghĩa vụ của người thuê mua nhà ở xã hội\n\n1. Người thuê mua nhà ở xã hội không được chuyển nhượng quyền thuê mua dưới bất kỳ hình thức nào. Trường hợp không còn nhu cầu thuê mua thì phải giao lại nhà ở đó cho đơn vị quản lý quỹ nhà ở xã hội. Đơn vị quản lý quỹ nhà ở xã hội phải hoàn lại số tiền 20% giá trị hợp đồng mà người thuê mua nhà ở xã hội đã trả lần đầu.\n\nĐơn vị quản lý quỹ nhà ở xã hội được quyền thu hồi nhà ở nếu người thuê mua nhà ở xã hội chuyển nhượng quyền thuê mua cho người khác mà không phải hoàn trả số tiền người thuê mua nhà ở xã hội đã trả lần đầu.\n\n2. Trường hợp người thuê mua nhà ở xã hội chết thì giải quyết như sau:\n\na) Nếu có người thừa kế hợp pháp đã cùng sinh sống tại nhà ở đó thì người thừa kế hợp pháp đó được tiếp tục thuê mua nhà ở;\n\nb) Nếu có người thừa kế hợp pháp nhưng không cùng sinh sống tại nhà ở đó mà người thuê mua nhà ở xã hội đã thực hiện được hai phần ba thời hạn thuê mua thì người thừa kế hợp pháp được thanh toán hết số tiền tương ứng với một phần ba thời hạn thuê mua còn lại và được cơ quan nhà nước có thẩm quyền cấp Giấy chứng nhận quyền sở hữu nhà ở theo quy định của Luật này;\n\nc) Nếu có người thừa kế hợp pháp nhưng không thuộc diện quy định tại điểm a và điểm b khoản này thì người thừa kế hợp pháp đó được đơn vị quản lý quỹ nhà ở xã hội hoàn trả 20% số tiền người thuê mua nhà ở xã hội đã nộp lần đầu có tính lãi suất theo quy định của Ngân hàng nhà nước;\n\nd) Nếu không có người thừa kế hợp pháp thì đơn vị quản lý quỹ nhà ở xã hội có trách nhiệm quản lý nhà ở đó.\n\nMục 5\n\n TẶNG CHO NHÀ Ở"
+   }
+  },
+  {
+   "id": "VN-H456-A107",
+   "no": 107,
+   "noLabel": {
+    "vi": "Điều 107"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Tặng cho nhà ở thuộc sở hữu chung"
+   },
+   "text": {
+    "vi": "Điều 107. Tặng cho nhà ở thuộc sở hữu chung\n\n1. Trường hợp tặng cho nhà ở thuộc sở hữu chung hợp nhất thì phải được sự đồng ý bằng văn bản của tất cả các chủ sở hữu nhà ở thuộc sở hữu chung.\n\n2. Trường hợp tặng cho nhà ở thuộc sở hữu chung theo phần thì chủ sở hữu chỉ được tặng cho phần nhà ở thuộc quyền sở hữu của mình và bảo đảm không làm ảnh hưởng đến quyền lợi của các chủ sở hữu nhà ở thuộc sở hữu chung khác.\n\n3. Người nhận tặng cho nhà ở thuộc sở hữu chung được công nhận là chủ sở hữu đối với nhà ở thuộc sở hữu chung được tặng cho kể từ khi hợp đồng tặng cho nhà ở được công chứng."
+   }
+  },
+  {
+   "id": "VN-H456-A108",
+   "no": 108,
+   "noLabel": {
+    "vi": "Điều 108"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Tặng cho nhà ở đang cho thuê"
+   },
+   "text": {
+    "vi": "Điều 108. Tặng cho nhà ở đang cho thuê\n\n1. Chủ sở hữu nhà ở đang cho thuê phải thông báo cho bên thuê nhà ở biết về việc tặng cho nhà ở.\n\n2. Bên thuê nhà ở được tiếp tục thuê nhà ở đến hết hạn hợp đồng đã ký với bên tặng cho, trừ trường hợp các bên có thoả thuận khác.\n\nMục 6\n\n ĐỔI NHÀ Ở"
+   }
+  },
+  {
+   "id": "VN-H456-A109",
+   "no": 109,
+   "noLabel": {
+    "vi": "Điều 109"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Đổi nhà ở thuộc sở hữu chung"
+   },
+   "text": {
+    "vi": "Điều 109. Đổi nhà ở thuộc sở hữu chung\n\n1. Việc đổi nhà ở thuộc sở hữu chung hợp nhất phải được sự đồng ý bằng văn bản của tất cả các chủ sở hữu nhà ở thuộc sở hữu chung.\n\n2. Trường hợp đổi nhà ở thuộc sở hữu chung theo phần thì chủ sở hữu nhà ở thuộc sở hữu chung chỉ được đổi phần nhà ở thuộc quyền sở hữu của mình và bảo đảm không làm ảnh hưởng đến quyền lợi của các chủ sở hữu chung khác."
+   }
+  },
+  {
+   "id": "VN-H456-A110",
+   "no": 110,
+   "noLabel": {
+    "vi": "Điều 110"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Đổi nhà ở đang cho thuê"
+   },
+   "text": {
+    "vi": "Điều 110. Đổi nhà ở đang cho thuê\n\n1. Chủ sở hữu nhà ở đang cho thuê phải thông báo cho bên thuê nhà ở biết về việc đổi nhà ở.\n\n2. Bên thuê nhà ở được tiếp tục thuê nhà ở đến hết hạn hợp đồng đã ký với chủ sở hữu nhà ở cũ, trừ trường hợp các bên có thoả thuận khác."
+   }
+  },
+  {
+   "id": "VN-H456-A111",
+   "no": 111,
+   "noLabel": {
+    "vi": "Điều 111"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Thanh toán giá trị chênh lệch"
+   },
+   "text": {
+    "vi": "Điều 111. Thanh toán giá trị chênh lệch\n\nKhi đổi nhà ở mà có chênh lệch về giá trị thì các bên đổi nhà ở phải thanh toán giá trị chênh lệch đó, trừ trường hợp các bên có thoả thuận khác.\n\nMục 7\n\n THỪA KẾ NHÀ Ở"
+   }
+  },
+  {
+   "id": "VN-H456-A112",
+   "no": 112,
+   "noLabel": {
+    "vi": "Điều 112"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Thừa kế nhà ở thuộc sở hữu chung hợp nhất"
+   },
+   "text": {
+    "vi": "Điều 112. Thừa kế nhà ở thuộc sở hữu chung hợp nhất\n\nNhà ở thuộc sở hữu chung hợp nhất mà người thừa kế là một hoặc các chủ sở hữu nhà ở thuộc sở hữu chung còn lại thì những người này được thừa kế nhà ở đó theo di chúc hoặc theo pháp luật. Trường hợp có người thừa kế không phải là chủ sở hữu nhà ở thuộc sở hữu chung hợp nhất thì người thừa kế được thanh toán phần giá trị nhà ở mà họ được thừa kế."
+   }
+  },
+  {
+   "id": "VN-H456-A113",
+   "no": 113,
+   "noLabel": {
+    "vi": "Điều 113"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Thừa kế nhà ở thuộc sở hữu chung theo phần"
+   },
+   "text": {
+    "vi": "Điều 113. Thừa kế nhà ở thuộc sở hữu chung theo phần\n\nNhà ở thuộc sở hữu chung theo phần thì phần nhà ở của người để lại thừa kế được chia cho những người thừa kế theo di chúc hoặc theo pháp luật; nếu nhà ở được bán để chia giá trị thì những người thừa kế được ưu tiên mua; nếu những người thừa kế không mua thì các chủ sở hữu nhà ở thuộc sở hữu chung khác được quyền ưu tiên mua phần thừa kế nhà ở đó và thanh toán cho những người thừa kế giá trị nhà ở đã mua.\n\nMục 8\n\n THẾ CHẤP NHÀ Ở"
+   }
+  },
+  {
+   "id": "VN-H456-A114",
+   "no": 114,
+   "noLabel": {
+    "vi": "Điều 114"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Điều kiện thế chấp nhà ở"
+   },
+   "text": {
+    "vi": "Điều 114. Điều kiện thế chấp nhà ở\n\nChủ sở hữu nhà ở được thế chấp nhà ở để bảo đảm thực hiện một hoặc nhiều nghĩa vụ nếu giá trị của nhà ở đó lớn hơn tổng giá trị các nghĩa vụ nhưng chỉ được thế chấp tại một tổ chức tín dụng."
+   }
+  },
+  {
+   "id": "VN-H456-A115",
+   "no": 115,
+   "noLabel": {
+    "vi": "Điều 115"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Thế chấp nhà ở thuộc sở hữu chung"
+   },
+   "text": {
+    "vi": "Điều 115. Thế chấp nhà ở thuộc sở hữu chung\n\nViệc thế chấp nhà ở thuộc sở hữu chung phải được sự đồng ý bằng văn bản của các chủ sở hữu nhà ở thuộc sở hữu chung. Các chủ sở hữu nhà ở thuộc sở hữu chung có trách nhiệm liên đới trong việc thực hiện nghĩa vụ của bên thế chấp nhà ở theo quy định của pháp luật dân sự."
+   }
+  },
+  {
+   "id": "VN-H456-A116",
+   "no": 116,
+   "noLabel": {
+    "vi": "Điều 116"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Thế chấp nhà ở đang cho thuê"
+   },
+   "text": {
+    "vi": "Điều 116. Thế chấp nhà ở đang cho thuê\n\nChủ sở hữu nhà ở có quyền thế chấp nhà ở đang cho thuê nhưng phải thông báo bằng văn bản cho bên thuê nhà ở biết việc thế chấp. Bên thuê nhà ở được tiếp tục thuê đến hết hạn hợp đồng thuê nhà ở.\n\nTrong trường hợp nhà ở đang thuê bị phát mãi để thực hiện nghĩa vụ của bên thế chấp nhà ở thì bên thuê nhà ở được tiếp tục thuê đến hết hạn hợp đồng, trừ trường hợp các bên có thoả thuận khác."
+   }
+  },
+  {
+   "id": "VN-H456-A117",
+   "no": 117,
+   "noLabel": {
+    "vi": "Điều 117"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Các trường hợp chấm dứt hợp đồng thế chấp nhà ở"
+   },
+   "text": {
+    "vi": "Điều 117. Các trường hợp chấm dứt hợp đồng thế chấp nhà ở\n\n1. Nghĩa vụ được bảo đảm bằng thế chấp đã được thực hiện.\n\n2. Việc thế chấp nhà ở được huỷ bỏ hoặc được thay thế bằng biện pháp bảo đảm khác.\n\n3. Nhà ở thế chấp đã được xử lý.\n\n4. Theo thoả thuận của các bên."
+   }
+  },
+  {
+   "id": "VN-H456-A118",
+   "no": 118,
+   "noLabel": {
+    "vi": "Điều 118"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Xử lý nhà ở thế chấp"
+   },
+   "text": {
+    "vi": "Điều 118. Xử lý nhà ở thế chấp\n\n1. Việc xử lý nhà ở thế chấp để thực hiện nghĩa vụ được thực hiện thông qua hình thức bán đấu giá theo quy định của pháp luật về bán đấu giá tài sản, trừ trường hợp các bên có thoả thuận khác. Bên nhận thế chấp được ưu tiên thanh toán từ số tiền bán nhà ở thế chấp sau khi trừ chi phí bảo quản, chi phí cho việc tổ chức bán đấu giá nhà ở.\n\n2. Bên mua nhà ở thế chấp được công nhận là chủ sở hữu nhà ở từ thời điểm ký kết hợp đồng.\n\nMục 9\n\n CHO MƯỢN, CHO Ở NHỜ NHÀ Ở"
+   }
+  },
+  {
+   "id": "VN-H456-A119",
+   "no": 119,
+   "noLabel": {
+    "vi": "Điều 119"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Cho mượn, cho ở nhờ nhà ở thuộc sở hữu chung"
+   },
+   "text": {
+    "vi": "Điều 119. Cho mượn, cho ở nhờ nhà ở thuộc sở hữu chung\n\n1. Việc cho mượn, cho ở nhờ nhà ở thuộc sở hữu chung phải được sự đồng ý bằng văn bản của tất cả các chủ sở hữu nhà ở đó, trừ trường hợp cho mượn, cho ở nhờ phần nhà ở thuộc sở hữu riêng. Bên cho mượn nhà ở có quyền đòi lại nhà ở theo quy định của Bộ luật Dân sự.\n\n2. Các chủ sở hữu nhà ở thuộc sở hữu chung có thể thoả thuận cử người đại diện ký hợp đồng cho mượn, cho ở nhờ nhà ở."
+   }
+  },
+  {
+   "id": "VN-H456-A120",
+   "no": 120,
+   "noLabel": {
+    "vi": "Điều 120"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Các trường hợp chấm dứt hợp đồng cho mượn, cho ở nhờ nhà ở"
+   },
+   "text": {
+    "vi": "Điều 120. Các trường hợp chấm dứt hợp đồng cho mượn, cho ở nhờ nhà ở\n\n1. Thời hạn cho mượn, cho ở nhờ đã hết.\n\n2. Nhà ở cho mượn, cho ở nhờ không còn.\n\n3. Bên mượn, bên ở nhờ nhà ở chết mà khi chết không có ai cùng chung sống.\n\n4. Nhà ở cho mượn, cho ở nhờ có nguy cơ sập đổ hoặc thuộc diện đã có quyết định giải toả, phá dỡ hoặc thu hồi đất của cơ quan nhà nước có thẩm quyền.\n\n5. Theo thoả thuận của các bên.\n\nMục 10\n\n ỦY QUYỀN QUẢN LÝ NHÀ Ở"
+   }
+  },
+  {
+   "id": "VN-H456-A121",
+   "no": 121,
+   "noLabel": {
+    "vi": "Điều 121"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Nội dung uỷ quyền quản lý nhà ở"
+   },
+   "text": {
+    "vi": "Điều 121. Nội dung uỷ quyền quản lý nhà ở\n\n1. Uỷ quyền quản lý nhà ở là việc chủ sở hữu nhà ở uỷ quyền cho người khác thực hiện trách nhiệm chủ sở hữu trong quản lý nhà ở. Nội dung và thời hạn uỷ quyền do các bên thoả thuận và được ghi trong hợp đồng uỷ quyền; nếu không có thoả thuận về thời hạn uỷ quyền thì hợp đồng uỷ quyền có hiệu lực một năm, kể từ ngày ký kết hợp đồng uỷ quyền.\n\n2. Bên uỷ quyền quản lý nhà ở phải trả chi phí quản lý, trừ trường hợp các bên có thoả thuận khác."
+   }
+  },
+  {
+   "id": "VN-H456-A122",
+   "no": 122,
+   "noLabel": {
+    "vi": "Điều 122"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Uỷ quyền quản lý nhà ở thuộc sở hữu chung"
+   },
+   "text": {
+    "vi": "Điều 122. Uỷ quyền quản lý nhà ở thuộc sở hữu chung\n\n1. Việc uỷ quyền quản lý nhà ở thuộc sở hữu chung hợp nhất phải được các chủ sở hữu nhà ở thuộc sở hữu chung đồng ý bằng văn bản.\n\nChủ sở hữu nhà ở thuộc sở hữu chung có phần sở hữu riêng được uỷ quyền cho người khác quản lý phần quyền sở hữu riêng đó nhưng không được làm ảnh hưởng đến quyền lợi của các chủ sở hữu khác.\n\n2. Chủ sở hữu nhà ở thuộc sở hữu chung có trách nhiệm thông báo cho chủ sở hữu khác biết việc uỷ quyền quản lý nhà ở, trừ trường hợp người được uỷ quyền quản lý nhà ở đồng thời là chủ sở hữu chung của nhà ở đó."
+   }
+  },
+  {
+   "id": "VN-H456-A123",
+   "no": 123,
+   "noLabel": {
+    "vi": "Điều 123"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Các trường hợp chấm dứt hợp đồng uỷ quyền quản lý nhà ở"
+   },
+   "text": {
+    "vi": "Điều 123. Các trường hợp chấm dứt hợp đồng uỷ quyền quản lý nhà ở\n\n1. Hợp đồng uỷ quyền hết hạn.\n\n2. Nội dung uỷ quyền đã được thực hiện.\n\n3. Bên uỷ quyền hoặc bên được uỷ quyền đơn phương chấm dứt hợp đồng uỷ quyền quản lý nhà ở theo quy định tại Điều 124 của Luật này.\n\n4. Bên uỷ quyền hoặc bên được uỷ quyền quản lý nhà ở chết hoặc bị Toà án tuyên là đã chết.\n\n5. Bên được uỷ quyền quản lý nhà ở mất tích hoặc bị Toà án tuyên mất năng lực hành vi dân sự.\n\n6. Theo thoả thuận của hai bên."
+   }
+  },
+  {
+   "id": "VN-H456-A124",
+   "no": 124,
+   "noLabel": {
+    "vi": "Điều 124"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Đơn phương chấm dứt thực hiện hợp đồng uỷ quyền quản lý nhà ở"
+   },
+   "text": {
+    "vi": "Điều 124. Đơn phương chấm dứt thực hiện hợp đồng uỷ quyền quản lý nhà ở\n\n1. Bên uỷ quyền quản lý nhà ở đơn phương chấm dứt hợp đồng trong các trường hợp sau đây:\n\na) Nếu việc uỷ quyền có chi phí quản lý thì bên uỷ quyền quản lý nhà ở không phải báo trước cho bên được uỷ quyền quản lý nhà ở biết về việc đơn phương chấm dứt thực hiện hợp đồng uỷ quyền nhưng phải thanh toán cho bên được uỷ quyền quản lý nhà ở các chi phí quản lý tương ứng với công việc mà bên được uỷ quyền quản lý nhà ở đã thực hiện và phải bồi thường thiệt hại cho bên được uỷ quyền quản lý nhà ở;\n\nb) Nếu việc uỷ quyền không có chi phí quản lý thì bên uỷ quyền quản lý nhà ở phải thông báo cho bên được uỷ quyền quản lý nhà ở biết trước ít nhất một tháng về việc đơn phương chấm dứt thực hiện hợp đồng uỷ quyền.\n\n2. Bên được uỷ quyền quản lý nhà ở đơn phương chấm dứt hợp đồng trong các trường hợp sau đây:\n\na) Nếu việc uỷ quyền có chi phí quản lý thì không phải báo trước cho bên uỷ quyền quản lý nhà ở biết về việc đơn phương chấm dứt thực hiện hợp đồng uỷ quyền nhưng phải bồi thường thiệt hại cho bên uỷ quyền quản lý nhà ở (nếu có);\n\nb) Nếu việc uỷ quyền không có chi phí quản lý thì phải thông báo cho bên uỷ quyền quản lý nhà ở biết trước ít nhất một tháng về việc đơn phương chấm dứt thực hiện hợp đồng uỷ quyền.\n\n3. Bên uỷ quyền và bên được uỷ quyền quản lý nhà ở phải thông báo cho bên thứ ba có liên quan biết về việc đơn phương chấm dứt thực hiện hợp đồng uỷ quyền quản lý nhà ở.\n\nChương VI\n\nNHÀ Ở TẠI VIỆT NAM CỦA NGƯỜI VIỆT NAM ĐỊNH CƯ\n\n Ở NƯỚC NGOÀI, TỔ CHỨC, CÁ NHÂN NƯỚC NGOÀI\n\nMục 1\n\n QUYỀN SỞ HỮU NHÀ Ở"
+   }
+  },
+  {
+   "id": "VN-H456-A125",
+   "no": 125,
+   "noLabel": {
+    "vi": "Điều 125"
+   },
+   "chapter": {
+    "vi": "Chương VI"
+   },
+   "heading": {
+    "vi": "Quyền sở hữu nhà ở tại Việt Nam của tổ chức, cá nhân nước ngoài"
+   },
+   "text": {
+    "vi": "Điều 125. Quyền sở hữu nhà ở tại Việt Nam của tổ chức, cá nhân nước ngoài\n\n1. Tổ chức, cá nhân nước ngoài đầu tư xây dựng nhà ở để cho thuê tại Việt Nam được cơ quan nhà nước có thẩm quyền cấp giấy chứng nhận quyền sở hữu đối với nhà ở đó. Thời hạn được sở hữu nhà ở là thời hạn quy định trong Giấy chứng nhận đầu tư và được ghi rõ trong Giấy chứng nhận quyền sở hữu nhà ở.\n\n2. Tổ chức, cá nhân nước ngoài đầu tư xây dựng nhà ở để bán, sau khi hoàn thành việc xây dựng theo dự án, chủ đầu tư được quyền bán nhà ở này cho các đối tượng thuộc diện được sở hữu nhà ở tại Việt Nam quy định tại khoản 2 Điều 9 của Luật này. Người mua nhà ở của tổ chức, cá nhân quy định tại khoản này được cơ quan có thẩm quyền cấp Giấy chứng nhận quyền sở hữu nhà ở theo quy định của Luật này.\n\n3. Tổ chức, cá nhân đầu tư xây dựng nhà ở để bán phải nộp tiền sử dụng đất và các nghĩa vụ tài chính khác theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H456-A126",
+   "no": 126,
+   "noLabel": {
+    "vi": "Điều 126"
+   },
+   "chapter": {
+    "vi": "Chương VI"
+   },
+   "heading": {
+    "vi": "Quyền sở hữu nhà ở tại Việt Nam của người Việt Nam định cư ở nước ngoài"
+   },
+   "text": {
+    "vi": "Điều 126. Quyền sở hữu nhà ở tại Việt Nam của người Việt Nam định cư ở nước ngoài\n\n1. Người Việt Nam định cư ở nước ngoài về đầu tư lâu dài tại Việt Nam, người có công đóng góp với đất nước, nhà hoạt động văn hoá, nhà khoa học có nhu cầu về hoạt động thường xuyên tại Việt Nam nhằm phục vụ sự nghiệp xây dựng đất nước, người được phép về sống ổn định tại Việt Nam và các đối tượng khác do Uỷ ban thường vụ Quốc hội quy định được sở hữu nhà ở tại Việt Nam.\n\n2. Người Việt Nam định cư ở nước ngoài không thuộc diện quy định tại khoản 1 Điều này đã về Việt Nam cư trú với thời hạn được phép từ sáu tháng trở lên được sở hữu một nhà ở riêng lẻ hoặc một căn hộ."
+   }
+  },
+  {
+   "id": "VN-H456-A127",
+   "no": 127,
+   "noLabel": {
+    "vi": "Điều 127"
+   },
+   "chapter": {
+    "vi": "Chương VI"
+   },
+   "heading": {
+    "vi": "Hồ sơ đề nghị cấp Giấy chứng nhận quyền sở hữu nhà ở"
+   },
+   "text": {
+    "vi": "Điều 127. Hồ sơ đề nghị cấp Giấy chứng nhận quyền sở hữu nhà ở\n\nHồ sơ đề nghị cấp Giấy chứng nhận quyền sở hữu nhà ở của người Việt Nam định cư ở nước ngoài, tổ chức, cá nhân nước ngoài bao gồm:\n\n1. Đơn đề nghị cấp Giấy chứng nhận quyền sở hữu nhà ở;\n\n2. Bản sao Giấy chứng nhận đầu tư đối với tổ chức, cá nhân nước ngoài đầu tư xây dựng nhà ở để cho thuê; bản chính hợp đồng mua bán, tặng cho, giấy tờ thừa kế nhà ở theo quy định của pháp luật đối với người Việt Nam định cư ở nước ngoài;\n\n3. Giấy tờ xác nhận đối tượng thuộc diện được sở hữu nhà ở tại Việt Nam theo quy định tại khoản 1 Điều 125 và Điều 126 của Luật này;\n\n4. Sơ đồ nhà ở, đất ở."
+   }
+  },
+  {
+   "id": "VN-H456-A128",
+   "no": 128,
+   "noLabel": {
+    "vi": "Điều 128"
+   },
+   "chapter": {
+    "vi": "Chương VI"
+   },
+   "heading": {
+    "vi": "Trình tự, thủ tục cấp Giấy chứng nhận quyền sở hữu nhà ở"
+   },
+   "text": {
+    "vi": "Điều 128. Trình tự, thủ tục cấp Giấy chứng nhận quyền sở hữu nhà ở\n\n1. Tổ chức, cá nhân nước ngoài, người Việt Nam định cư ở nước ngoài đầu tư xây dựng nhà ở để cho thuê sau khi hoàn thành việc đầu tư xây dựng phải làm thủ tục để được cấp Giấy chứng nhận quyền sở hữu nhà ở theo quy định tại Điều 16 của Luật này trước khi cho thuê nhà ở.\n\nTrường hợp đầu tư xây dựng nhà ở để bán thì chủ đầu tư phải làm thủ tục để cơ quan có thẩm quyền cấp Giấy chứng nhận quyền sở hữu nhà ở cho bên mua nhà ở.\n\n2. Người Việt Nam định cư ở nước ngoài mua bán, tặng cho, thừa kế nhà ở theo quy định tại Chương V của Luật này phải lập hồ sơ để được cơ quan nhà nước có thẩm quyền cấp Giấy chứng nhận quyền sở hữu nhà ở."
+   }
+  },
+  {
+   "id": "VN-H456-A129",
+   "no": 129,
+   "noLabel": {
+    "vi": "Điều 129"
+   },
+   "chapter": {
+    "vi": "Chương VI"
+   },
+   "heading": {
+    "vi": "Quyền và nghĩa vụ của chủ sở hữu nhà ở là người Việt Nam định cư ở nước ngoài, tổ chức, cá nhân nước ngoài"
+   },
+   "text": {
+    "vi": "Điều 129. Quyền và nghĩa vụ của chủ sở hữu nhà ở là người Việt Nam định cư ở nước ngoài, tổ chức, cá nhân nước ngoài\n\nChủ sở hữu nhà ở là người Việt Nam định cư ở nước ngoài, tổ chức, cá nhân nước ngoài có các quyền và nghĩa vụ quy định tại Điều 21 và Điều 22 của Luật này nhưng phải tuân thủ các quy định sau đây:\n\n1. Thế chấp nhà ở tại các tổ chức tín dụng được phép hoạt động tại Việt Nam;\n\n2. Bán, tặng cho, để thừa kế nhà ở cho tổ chức, cá nhân trong nước, người Việt Nam định cư ở nước ngoài thuộc diện được sở hữu nhà ở tại Việt Nam. Trường hợp tặng cho, để thừa kế cho các đối tượng khác thì các đối tượng này chỉ được hưởng giá trị của nhà ở đó;\n\n3. Khi Giấy chứng nhận đầu tư hết hạn, tổ chức, cá nhân nước ngoài quy định tại Điều 125 của Luật này có trách nhiệm bàn giao nhà ở để cho thuê và số lượng nhà ở chưa bán hết mà không thuộc diện phải phá dỡ cho Uỷ ban nhân dân cấp tỉnh nơi có nhà ở đó. Chủ tịch Uỷ ban nhân dân cấp tỉnh ra quyết định xác lập sở hữu nhà nước và giao cho doanh nghiệp có chức năng quản lý nhà ở thuộc sở hữu nhà nước quản lý sử dụng nhà ở đó theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H456-A130",
+   "no": 130,
+   "noLabel": {
+    "vi": "Điều 130"
+   },
+   "chapter": {
+    "vi": "Chương VI"
+   },
+   "heading": {
+    "vi": "Các quy định khác áp dụng đối với chủ sở hữu nhà ở"
+   },
+   "text": {
+    "vi": "Điều 130. Các quy định khác áp dụng đối với chủ sở hữu nhà ở\n\nThủ tục cấp mới, cấp đổi, cấp lại Giấy chứng nhận quyền sở hữu nhà ở hoặc xác nhận biến động sau khi cấp giấy được thực hiện theo quy định tại các điều 12, 13, 14, 17, 18 và 19 của Luật này đối với người Việt Nam định cư ở nước ngoài, tổ chức, cá nhân nước ngoài.\n\nMục 2\n\n THUÊ NHÀ Ở"
+   }
+  },
+  {
+   "id": "VN-H456-A131",
+   "no": 131,
+   "noLabel": {
+    "vi": "Điều 131"
+   },
+   "chapter": {
+    "vi": "Chương VI"
+   },
+   "heading": {
+    "vi": "Đối tượng và điều kiện được thuê nhà ở"
+   },
+   "text": {
+    "vi": "Điều 131. Đối tượng và điều kiện được thuê nhà ở\n\nTổ chức, cá nhân nước ngoài được phép vào Việt Nam có thời hạn từ ba tháng liên tục trở lên và người Việt Nam định cư ở nước ngoài được thuê nhà ở tại Việt Nam."
+   }
+  },
+  {
+   "id": "VN-H456-A132",
+   "no": 132,
+   "noLabel": {
+    "vi": "Điều 132"
+   },
+   "chapter": {
+    "vi": "Chương VI"
+   },
+   "heading": {
+    "vi": "Điều kiện của nhà ở cho thuê"
+   },
+   "text": {
+    "vi": "Điều 132. Điều kiện của nhà ở cho thuê\n\nNhà ở tại Việt Nam cho người Việt Nam định cư ở nước ngoài, tổ chức, cá nhân nước ngoài thuê phải có đủ các điều kiện sau đây:\n\n1. Đã được cấp Giấy chứng nhận quyền sở hữu nhà ở theo quy định của Luật này;\n\n2. Phải là nhà ở riêng lẻ hoặc căn hộ khép kín;\n\n3. Bảo đảm chất lượng, an toàn cho người thuê;\n\n4. Bảo đảm cung cấp điện, nước, vệ sinh môi trường và các điều kiện thiết yếu khác;\n\n5. Không có tranh chấp về quyền sở hữu, quyền sử dụng."
+   }
+  },
+  {
+   "id": "VN-H456-A133",
+   "no": 133,
+   "noLabel": {
+    "vi": "Điều 133"
+   },
+   "chapter": {
+    "vi": "Chương VI"
+   },
+   "heading": {
+    "vi": "Các quy định khác về cho thuê nhà ở"
+   },
+   "text": {
+    "vi": "Điều 133. Các quy định khác về cho thuê nhà ở\n\nNội dung quy định tại các điều 92, 93, 99, 100, 102, 103 và 104 của Luật này được áp dụng đối với người Việt Nam định cư ở nước ngoài, tổ chức, cá nhân nước ngoài thuê nhà ở tại Việt Nam.\n\nChương VII\n\nQUẢN LÝ NHÀ NƯỚC VỀ NHÀ Ở"
+   }
+  },
+  {
+   "id": "VN-H456-A134",
+   "no": 134,
+   "noLabel": {
+    "vi": "Điều 134"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {
+    "vi": "Nội dung quản lý nhà nước về nhà ở"
+   },
+   "text": {
+    "vi": "Điều 134. Nội dung quản lý nhà nước về nhà ở\n\n1. Xây dựng và chỉ đạo thực hiện định hướng, chương trình, quy hoạch và kế hoạch phát triển nhà ở.\n\n2. Ban hành các văn bản quy phạm pháp luật về nhà ở và tổ chức thực hiện các văn bản đó.\n\n3. Ban hành tiêu chuẩn nhà ở và quản lý chất lượng nhà ở theo tiêu chuẩn nhà ở.\n\n4. Công nhận quyền sở hữu nhà ở.\n\n5. Cho phép hoặc đình chỉ việc xây dựng, cải tạo nhà ở.\n\n6. Quản lý hồ sơ nhà ở.\n\n7. Điều tra, thống kê, xây dựng dữ liệu về nhà ở.\n\n8. Nghiên cứu, ứng dụng khoa học, công nghệ và hợp tác quốc tế trong lĩnh vực nhà ở.\n\n9. Đào tạo nguồn nhân lực phục vụ yêu cầu phát triển và quản lý nhà ở.\n\n10. Quản lý hoạt động môi giới nhà ở.\n\n11. Quản lý các hoạt động dịch vụ công về nhà ở.\n\n12. Kiểm tra, thanh tra, giải quyết khiếu nại, tố cáo và xử lý vi phạm trong lĩnh vực nhà ở."
+   }
+  },
+  {
+   "id": "VN-H456-A135",
+   "no": 135,
+   "noLabel": {
+    "vi": "Điều 135"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {
+    "vi": "Định hướng, chương trình và quy hoạch phát triển nhà ở"
+   },
+   "text": {
+    "vi": "Điều 135. Định hướng, chương trình và quy hoạch phát triển nhà ở\n\n1. Căn cứ vào chương trình phát triển kinh tế - xã hội, Chính phủ ban hành định hướng phát triển nhà ở quốc gia làm cơ sở hoạch định các chính sách cụ thể bảo đảm nhu cầu thiết yếu của nhân dân về cải thiện chỗ ở.\n\n2. Căn cứ vào định hướng phát triển nhà ở quốc gia, các chính sách về nhà ở, Uỷ ban nhân dân cấp tỉnh xây dựng chương trình phát triển nhà ở trên địa bàn trình Hội đồng nhân dân cấp tỉnh thông qua.\n\n3. Uỷ ban nhân dân cấp tỉnh có trách nhiệm trong việc lập, phê duyệt quy hoạch phát triển khu dân cư, nhà ở và có quy hoạch, kế hoạch sử dụng đất cho phát triển nhà ở; chỉ đạo tổ chức thực hiện chương trình, quy hoạch, kế hoạch phát triển nhà ở trên địa bàn."
+   }
+  },
+  {
+   "id": "VN-H456-A136",
+   "no": 136,
+   "noLabel": {
+    "vi": "Điều 136"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {
+    "vi": "Ban hành các văn bản quy phạm pháp luật về nhà ở"
+   },
+   "text": {
+    "vi": "Điều 136. Ban hành các văn bản quy phạm pháp luật về nhà ở\n\n1. Căn cứ Luật nhà ở, định hướng phát triển nhà ở quốc gia và tình hình cụ thể về phát triển kinh tế - xã hội của đất nước, Chính phủ ban hành văn bản quy phạm pháp luật về quản lý, sử dụng và phát triển nhà ở.\n\n2. Cơ quan quản lý nhà nước về nhà ở ở trung ương trong phạm vi nhiệm vụ và quyền hạn của mình chịu trách nhiệm ban hành hoặc trình cơ quan có thẩm quyền ban hành văn bản quy phạm pháp luật về quản lý, sử dụng và phát triển nhà ở.\n\n3. Uỷ ban nhân dân cấp tỉnh trong phạm vi nhiệm vụ, quyền hạn của mình ban hành văn bản quy phạm pháp luật về quản lý, sử dụng và phát triển nhà ở và tổ chức thực hiện các quy định của pháp luật về quản lý, sử dụng và phát triển nhà ở."
+   }
+  },
+  {
+   "id": "VN-H456-A137",
+   "no": 137,
+   "noLabel": {
+    "vi": "Điều 137"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {
+    "vi": "Cho phép, đình chỉ xây dựng, cải tạo nhà ở"
+   },
+   "text": {
+    "vi": "Điều 137. Cho phép, đình chỉ xây dựng, cải tạo nhà ở\n\n1. Việc cho phép xây dựng, cải tạo nhà ở phải căn cứ vào quy hoạch xây dựng đô thị và điểm dân cư nông thôn.\n\n2. Chủ tịch Uỷ ban nhân dân cấp tỉnh hoặc Chủ tịch Uỷ ban nhân dân cấp huyện theo phân cấp phê duyệt dự án phát triển nhà ở trên địa bàn.\n\n3. Việc xây dựng, cải tạo nhà ở phải có giấy phép xây dựng của cơ quan nhà nước có thẩm quyền, trừ trường hợp không thuộc diện phải có giấy phép xây dựng theo quy định của pháp luật về xây dựng.\n\n4. Việc xây dựng, cải tạo nhà ở không tuân thủ các quy định tại các khoản 1, 2 và 3 Điều này thì cơ quan có thẩm quyền phê duyệt dự án phát triển nhà ở, cấp phép xây dựng có quyền đình chỉ việc xây dựng, cải tạo nhà ở."
+   }
+  },
+  {
+   "id": "VN-H456-A138",
+   "no": 138,
+   "noLabel": {
+    "vi": "Điều 138"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {
+    "vi": "Công nhận quyền sở hữu nhà ở"
+   },
+   "text": {
+    "vi": "Điều 138. Công nhận quyền sở hữu nhà ở\n\n1. Cơ quan nhà nước có thẩm quyền có trách nhiệm cấp mới, cấp đổi, cấp lại Giấy chứng nhận quyền sở hữu nhà ở cho tổ chức, cá nhân tạo lập nhà ở hợp pháp theo quy định của Luật này.\n\n2. Cơ quan quản lý nhà nước về nhà ở ở trung ương có trách nhiệm kiểm tra, giám sát việc cấp Giấy chứng nhận quyền sở hữu nhà ở trong cả nước."
+   }
+  },
+  {
+   "id": "VN-H456-A139",
+   "no": 139,
+   "noLabel": {
+    "vi": "Điều 139"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {
+    "vi": "Quản lý hồ sơ nhà ở"
+   },
+   "text": {
+    "vi": "Điều 139. Quản lý hồ sơ nhà ở\n\n1. Cơ quan quản lý nhà ở cấp tỉnh có trách nhiệm quản lý hồ sơ nhà ở quy định tại Điều 66 của Luật này đối với trường hợp do Uỷ ban nhân dân cấp tỉnh cấp Giấy chứng nhận quyền sở hữu nhà ở.\n\n2. Uỷ ban nhân dân cấp huyện có trách nhiệm quản lý hồ sơ nhà ở quy định tại Điều 66 của Luật này đối với trường hợp do Uỷ ban nhân dân cấp huyện cấp Giấy chứng nhận quyền sở hữu nhà ở.\n\n3. Cơ quan quản lý hồ sơ nhà ở có trách nhiệm cung cấp các thông tin về hồ sơ nhà ở khi tổ chức, cá nhân có yêu cầu. Người yêu cầu cung cấp thông tin phải nộp một khoản phí cung cấp thông tin theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H456-A140",
+   "no": 140,
+   "noLabel": {
+    "vi": "Điều 140"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {
+    "vi": "Điều tra, thống kê, xây dựng dữ liệu về nhà ở"
+   },
+   "text": {
+    "vi": "Điều 140. Điều tra, thống kê, xây dựng dữ liệu về nhà ở\n\n1. Uỷ ban nhân dân các cấp có trách nhiệm thống kê, xây dựng dữ liệu về nhà ở trên địa bàn phục vụ yêu cầu xây dựng chương trình, kế hoạch phát triển nhà ở.\n\n2. Định kỳ năm năm một lần, cơ quan quản lý nhà nước về nhà ở ở trung ương thực hiện điều tra, tổng hợp dữ liệu về nhà ở trên phạm vi toàn quốc.\n\n3. Chính phủ bố trí ngân sách cho việc điều tra, thống kê và xây dựng cơ sở dữ liệu về nhà ở."
+   }
+  },
+  {
+   "id": "VN-H456-A141",
+   "no": 141,
+   "noLabel": {
+    "vi": "Điều 141"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {
+    "vi": "Nghiên cứu, ứng dụng khoa học, công nghệ và hợp tác quốc tế trong lĩnh vực nhà ở"
+   },
+   "text": {
+    "vi": "Điều 141. Nghiên cứu, ứng dụng khoa học, công nghệ và hợp tác quốc tế trong lĩnh vực nhà ở\n\n1. Nhà nước có chính sách khuyến khích và tạo điều kiện cho việc nghiên cứu, ứng dụng khoa học và công nghệ và hợp tác quốc tế phục vụ yêu cầu phát triển và quản lý nhà ở.\n\n2. Nhà nước hỗ trợ kinh phí cho việc ứng dụng công nghệ mới, vật liệu mới trong xây dựng nhà ở bảo đảm chất lượng, tiến độ và giảm chi phí xây dựng."
+   }
+  },
+  {
+   "id": "VN-H456-A142",
+   "no": 142,
+   "noLabel": {
+    "vi": "Điều 142"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {
+    "vi": "Đào tạo nguồn nhân lực cho phát triển và quản lý nhà ở"
+   },
+   "text": {
+    "vi": "Điều 142. Đào tạo nguồn nhân lực cho phát triển và quản lý nhà ở\n\n1. Nhà nước có chính sách đào tạo cán bộ, công chức, viên chức phục vụ cho phát triển và quản lý nhà ở.\n\n2. Cơ quan quản lý nhà nước về nhà ở ở trung ương quy định nội dung chương trình và phối hợp với Uỷ ban nhân dân cấp tỉnh tổ chức bồi dưỡng, nâng cao kiến thức về phát triển, kinh doanh và quản lý nhà nước về nhà ở cho đội ngũ cán bộ, công chức, viên chức."
+   }
+  },
+  {
+   "id": "VN-H456-A143",
+   "no": 143,
+   "noLabel": {
+    "vi": "Điều 143"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {
+    "vi": "Quản lý hoạt động môi giới nhà ở"
+   },
+   "text": {
+    "vi": "Điều 143. Quản lý hoạt động môi giới nhà ở\n\n1. Tổ chức, cá nhân hoạt động môi giới nhà ở phải đăng ký kinh doanh hoạt động môi giới nhà ở theo quy định của pháp luật.\n\n2. Chính phủ quy định cụ thể điều kiện tham gia hoạt động môi giới nhà ở.\n\n3. Cơ quan quản lý nhà nước về nhà ở ở trung ương ban hành quy chế tổ chức hoạt động môi giới bất động sản nhà ở."
+   }
+  },
+  {
+   "id": "VN-H456-A144",
+   "no": 144,
+   "noLabel": {
+    "vi": "Điều 144"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {
+    "vi": "Quản lý hoạt động dịch vụ công về nhà ở"
+   },
+   "text": {
+    "vi": "Điều 144. Quản lý hoạt động dịch vụ công về nhà ở\n\n1. Tổ chức hoạt động dịch vụ công về nhà ở được thành lập để phục vụ nhu cầu của tổ chức, cá nhân trong việc quản lý, sử dụng nhà ở.\n\n2. Cơ quan quản lý nhà nước về nhà ở ở trung ương quy định các hoạt động dịch vụ công về nhà ở áp dụng thống nhất trong cả nước.\n\n3. Uỷ ban nhân dân cấp tỉnh quyết định thành lập tổ chức thực hiện các dịch vụ công về nhà ở và ban hành quy chế hoạt động của tổ chức thực hiện các dịch vụ công về nhà ở trên địa bàn."
+   }
+  },
+  {
+   "id": "VN-H456-A145",
+   "no": 145,
+   "noLabel": {
+    "vi": "Điều 145"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {
+    "vi": "Thanh tra thực hiện pháp luật về nhà ở"
+   },
+   "text": {
+    "vi": "Điều 145. Thanh tra thực hiện pháp luật về nhà ở\n\n1. Thanh tra chuyên ngành về xây dựng chịu trách nhiệm thanh tra việc thực hiện pháp luật về nhà ở.\n\n2. Cơ quan quản lý nhà ở địa phương chịu trách nhiệm thanh tra việc thực hiện pháp luật về nhà ở tại địa phương."
+   }
+  },
+  {
+   "id": "VN-H456-A146",
+   "no": 146,
+   "noLabel": {
+    "vi": "Điều 146"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {
+    "vi": "Cơ quan quản lý nhà nước về nhà ở"
+   },
+   "text": {
+    "vi": "Điều 146. Cơ quan quản lý nhà nước về nhà ở\n\n1. Chính phủ thống nhất quản lý nhà nước về nhà ở.\n\n2. Cơ quan quản lý nhà nước về nhà ở ở trung ương chịu trách nhiệm trước Chính phủ thực hiện thống nhất quản lý nhà nước về nhà ở.\n\n3. Bộ, cơ quan ngang Bộ trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm phối hợp với cơ quan quản lý nhà nước về nhà ở ở trung ương để thực hiện quản lý nhà nước về nhà ở.\n\n4. Uỷ ban nhân dân các cấp có trách nhiệm thực hiện quản lý nhà nước về nhà ở trên địa bàn theo phân cấp của Chính phủ.\n\nChính phủ quy định mô hình tổ chức phát triển và quản lý nhà ở bảo đảm thực hiện có hiệu quả mục tiêu phát triển nhà ở quy định tại Luật này.\n\nChương VIII\n\nGIẢI QUYẾT TRANH CHẤP, KHIẾU NẠI, TỐ CÁO\n\nVÀ XỬ LÝ VI PHẠM PHÁP LUẬT VỀ NHÀ Ở\n\nMục 1\n\n GIẢI QUYẾT TRANH CHẤP, KHIẾU NẠI, TỐ CÁO VỀ NHÀ Ở"
+   }
+  },
+  {
+   "id": "VN-H456-A147",
+   "no": 147,
+   "noLabel": {
+    "vi": "Điều 147"
+   },
+   "chapter": {
+    "vi": "Chương VIII"
+   },
+   "heading": {
+    "vi": "Giải quyết tranh chấp về nhà ở"
+   },
+   "text": {
+    "vi": "Điều 147. Giải quyết tranh chấp về nhà ở\n\n1. Nhà nước khuyến khích các bên giải quyết tranh chấp về nhà ở thông qua hoà giải.\n\n2. Tranh chấp về nhà ở do Toà án nhân dân giải quyết theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H456-A148",
+   "no": 148,
+   "noLabel": {
+    "vi": "Điều 148"
+   },
+   "chapter": {
+    "vi": "Chương VIII"
+   },
+   "heading": {
+    "vi": "Khiếu nại, tố cáo và giải quyết khiếu nại, tố cáo"
+   },
+   "text": {
+    "vi": "Điều 148. Khiếu nại, tố cáo và giải quyết khiếu nại, tố cáo\n\n1. Việc khiếu nại, tố cáo và giải quyết khiếu nại, tố cáo được thực hiện theo quy định của pháp luật về khiếu nại, tố cáo.\n\n2. Trong thời gian khiếu nại, tố cáo hoặc khởi kiện, tổ chức, cá nhân vẫn phải thi hành quyết định hành chính của cơ quan nhà nước có thẩm quyền, trừ quyết định cưỡng chế phá dỡ nhà ở. Khi có quyết định giải quyết khiếu nại, tố cáo của cơ quan nhà nước có thẩm quyền về nhà ở hoặc bản án, quyết định của Toà án đã có hiệu lực pháp luật thì các bên có liên quan phải thi hành các quyết định hoặc bản án đó.\n\nMục 2\n\n XỬ LÝ VI PHẠM PHÁP LUẬT VỀ NHÀ Ở"
+   }
+  },
+  {
+   "id": "VN-H456-A149",
+   "no": 149,
+   "noLabel": {
+    "vi": "Điều 149"
+   },
+   "chapter": {
+    "vi": "Chương VIII"
+   },
+   "heading": {
+    "vi": "Xử lý đối với người vi phạm pháp luật về nhà ở"
+   },
+   "text": {
+    "vi": "Điều 149. Xử lý đối với người vi phạm pháp luật về nhà ở\n\n1. Người có hành vi vi phạm pháp luật về nhà ở thì tuỳ theo tính chất, mức độ vi phạm mà bị xử lý hành chính hoặc bị truy cứu trách nhiệm hình sự.\n\n2. Tổ chức, cá nhân xây dựng nhà ở sai quy hoạch, không có giấy phép xây dựng đối với trường hợp phải có giấy phép hoặc xây dựng sai với giấy phép thì phải bị xử lý theo quy định của pháp luật.\n\n3. Người nào lợi dụng chức vụ, quyền hạn làm trái các quy định của pháp luật về nhà ở, thiếu trách nhiệm trong quản lý để xảy ra vi phạm hoặc có hành vi vi phạm khác làm thiệt hại đến quyền và lợi ích của chủ sở hữu nhà ở, người sử dụng hợp pháp nhà ở thì tuỳ theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử lý hành chính hoặc bị truy cứu trách nhiệm hình sự theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H456-A150",
+   "no": 150,
+   "noLabel": {
+    "vi": "Điều 150"
+   },
+   "chapter": {
+    "vi": "Chương VIII"
+   },
+   "heading": {
+    "vi": "Xử lý vi phạm pháp luật về nhà ở khi gây thiệt hại cho Nhà nước, tổ chức, cá nhân"
+   },
+   "text": {
+    "vi": "Điều 150. Xử lý vi phạm pháp luật về nhà ở khi gây thiệt hại cho Nhà nước, tổ chức, cá nhân\n\nNgười có hành vi vi phạm pháp luật về nhà ở nếu gây thiệt hại đến lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân thì ngoài việc bị xử lý theo quy định tại Điều 149 của Luật này còn phải bồi thường thiệt hại.\n\nChương IX\n\nĐIỀU KHOẢN THI HÀNH"
+   }
+  },
+  {
+   "id": "VN-H456-A151",
+   "no": 151,
+   "noLabel": {
+    "vi": "Điều 151"
+   },
+   "chapter": {
+    "vi": "Chương IX"
+   },
+   "heading": {
+    "vi": "Hiệu lực thi hành"
+   },
+   "text": {
+    "vi": "Điều 151. Hiệu lực thi hành\n\nLuật này có hiệu lực thi hành từ ngày 01 tháng 07 năm 2006."
+   }
+  },
+  {
+   "id": "VN-H456-A152",
+   "no": 152,
+   "noLabel": {
+    "vi": "Điều 152"
+   },
+   "chapter": {
+    "vi": "Chương IX"
+   },
+   "heading": {
+    "vi": "Hiệu lực pháp lý của các giấy chứng nhận về quyền sở hữu đối với nhà ở và quyền sử dụng đất ở được cấp trước ngày Luật nhà ở có hiệu lực thi hành"
+   },
+   "text": {
+    "vi": "Điều 152. Hiệu lực pháp lý của các giấy chứng nhận về quyền sở hữu đối với nhà ở và quyền sử dụng đất ở được cấp trước ngày Luật nhà ở có hiệu lực thi hành\n\nGiấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở đã được cấp trong các thời kỳ trước đây, Giấy chứng nhận quyền sử dụng đất ở đã được cấp theo quy định của pháp luật về đất đai mà trong nội dung đã ghi nhận về nhà ở được xây dựng trên đất ở đó thì nay vẫn còn nguyên giá trị pháp lý và không phải đổi lại theo quy định về Giấy chứng nhận quyền sở hữu nhà ở tại Điều 11 của Luật này, trừ trường hợp chủ sở hữu nhà ở có nhu cầu cấp đổi sang Giấy chứng nhận quyền sở hữu nhà ở mới."
+   }
+  },
+  {
+   "id": "VN-H456-A153",
+   "no": 153,
+   "noLabel": {
+    "vi": "Điều 153"
+   },
+   "chapter": {
+    "vi": "Chương IX"
+   },
+   "heading": {
+    "vi": "Hướng dẫn thi hành"
+   },
+   "text": {
+    "vi": "Điều 153. Hướng dẫn thi hành\n\nChính phủ quy định chi tiết và hướng dẫn thi hành Luật này./.\n\nLuật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá XI, kỳ họp thứ 8 thông qua ngày 29 tháng 11 năm 2005.\n\n1:{\"id\":\"16755\",\"docType\":{\"id\":\"11025e19-2dd6-4165-85ad-ab6241186a1a\",\"name\":\"Luật\",\"code\":\"Lu\",\"parentCode\":\"VBQPPL\",\"parentName\":null},\"docGroup\":\"VBQPPL\",\"docNum\":\"56/2005/QH11\",\"title\":\"Luật Nhà ở số 56/2005/QH11\",\"applicationNote\":\"Bị hết hiệu lực bởi Luật 65/2014/QH13 Nhà ở\",\"issueDate\":\"2005-11-29T00:00:00\",\"effFrom\":\"2006-07-01T00:00:00\",\"effTo\":\"2015-07-01T00:00:00\",\"publicDate\":\"2009-08-02T00:00:00\",\"effStatus\":{\"id\":\"f55c1469-4341-4274-93ef-32b283db4dbd\",\"name\":\"Hết hiệu lực toàn bộ\",\"code\":\"HHL\",\"parentCode\":null,\"parentName\":null},\"status\":\"Publish\",\"lang\":\"vi\",\"defaultLanguage\":\"VN\",\"updatedBy\":\"dungdvm_II.2\",\"updatedDate\":\"2026-01-19T09:15:21\",\"agencyName\":\"Quốc hội\",\"organization\":{\"id\":\"783ea33b-f8f2-4b76-b9e3-3350273eb0b0\",\"code\":\"BNNVMT\",\"name\":\"Bộ Nông nghiệp và Môi trường\",\"nameEn\":\"Bộ Nông nghiệp và Môi trường\",\"shortName\":\"BNNVMT\",\"orgType\":\"0\"},\"isLw\":true,\"documentContent\":{\"id\":\"16755\",\"title\":null,\"content\":\"$2\"},\"documentContentEn\":null,\"documentContentFileName\":null,\"documentContentFileDocName\":\"56.2005.QH11.doc\",\"documentIssues\":[{\"id\":\"f99a8af5-e036-4b33-840b-268d1e2ccd67\",\"agencyId\":\"55\",\"agencyName\":\"Quốc hội\",\"agencyNameEn\":\"National Assembly of Vietnam\",\"agencyCode\":\"QH\",\"personId\":\"146\",\"personName\":\"Nguyễn Văn An\",\"jobTitleId\":\"28da0087-8afd-420c-875c-b2369e212c3e\",\"jobTitleCode\":\"CTQH\",\"jobTitleName\":\"Chủ tịch Quốc hội\",\"orderIndex\":1}],\"documentMajors\":[],\"documentFields\":[{\"id\":\"76e2c0d5-e93e-4ee9-8c72-59dae1167432\",\"name\":\"Chưa phân loại\",\"code\":null,\"parentCode\":null,\"parentName\":null}],\"documentRelatedList\":[{\"id\":\"22116c6e-989b-4d43-b55c-2964f30f04a4\",\"fileName\":\"16755_body_content.html\",\"relatedType\":\"MARKDOWN\",\"fileTitle\":\"16755_body_content.html\",\"fileOrder\":null}],\"provisionTree\":null,\"references\":null,\"isEffectAllDocument\":false,\"isOld\":true,\"reviewStatus\":\"INITIAL\",\"reviewed\":false,\"isTranslationDoc\":false,\"isConsolidatedDocument\":false,\"isConstitutionDocument\":false,\"isAdministrativeDocument\":false,\"viewCount\":62,\"showViewCount\":true,\"hasContent\":true,\"hasOriginalPdf\":null,\"hasAIProcessed\":false,\"hasClauseRelation\":null,\"aiResults\":[]}"
+   }
+  }
+ ]
+}

@@ -1,0 +1,840 @@
+{
+ "id": "VN-H328",
+ "title": {
+  "zh": "土地法",
+  "en": "Law on land",
+  "vi": "Luật Đất đai",
+  "orig": "Luật Đất đai số Không số",
+  "th": "พระราชบัญญัติที่ดิน",
+  "id": "Undang-Undang Pertanahan",
+  "ms": "Akta Tanah"
+ },
+ "country": "VN",
+ "countryName": "越南",
+ "layer": "intl",
+ "pack": "vn-p06",
+ "language": "vi",
+ "level": "law",
+ "category": "02_民商事与经济法",
+ "status": "active",
+ "promulgatedDate": "1987",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "国会",
+ "docNumber": "Không số",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 57,
+ "chars": 31994,
+ "source": {
+  "name": "越南法律数据库（vbpl.vn 官方公报文本）",
+  "url": "https://vbpl.vn/van-ban/chi-tiet/luat-dat-dai-so-khong-so--2566"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\VN\\02_民商事与经济法\\1987_Không số_Luật Đất đai số Không số.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 57 条；逐字未改写（源自 VN）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "VN-H328-A1",
+   "no": 1,
+   "noLabel": {
+    "vi": "Điều 1"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 1\n\nĐất đai thuộc sở hữu toàn dân, do Nhà nước thống nhất quản lý.\n\nNhà nước giao đất cho các nông trường, lâm trường, hợp tác xã, tập đoàn sản xuất nông nghiệp, lâm nghiệp, xí nghiệp, đơn vị vũ trang nhân dân, cơ quan nhà nước, tổ chức xã hội và cá nhân-dưới đây gọi là người sử dụng đất-để sử dụng ổn định, lâu dài.\n\nNhà nước còn giao đất để sử dụng có thời hạn hoặc tạm thời.\n\nNgười đang sử dụng đất đai hợp pháp được tiếp tục sử dụng theo quy định của Luật này."
+   }
+  },
+  {
+   "id": "VN-H328-A2",
+   "no": 2,
+   "noLabel": {
+    "vi": "Điều 2"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 2\n\nNhà nước khuyến khích đầu tư lao động, vật tư, tiền vốn và áp dụng các thành tựu khoa học - kỹ thuật vào việc:\n\n- Thâm canh, tăng vụ, nâng cao hiệu quả kinh tế của việc sử dụng đất;\n\n- Khai hoang, vỡ hoá, lấn biển, phủ xanh đất trống đồi núi trọc để mở rộng diện tích đất sản xuất nông nghiệp, lâm nghiệp, nuôi trồng thuỷ sản và làm muối;\n\n- Bảo vệ, cải tạo đất, làm tăng độ mầu mỡ của đất."
+   }
+  },
+  {
+   "id": "VN-H328-A3",
+   "no": 3,
+   "noLabel": {
+    "vi": "Điều 3"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 3\n\nNhà nước bảo đảm cho người sử dụng đất được hưởng những quyền lợi hợp pháp trên đất được giao, kể cả quyền chuyển, nhượng, bán thành quả lao động, kết quả đầu tư trên đất được giao khi không còn sử dụng đất và đất đó được giao cho người khác sử dụng theo trình tự, thủ tục do pháp luật quy định."
+   }
+  },
+  {
+   "id": "VN-H328-A4",
+   "no": 4,
+   "noLabel": {
+    "vi": "Điều 4"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 4\n\nMọi người sử dụng đất có trách nhiệm thực hiện các chính sách của Nhà nước nhằm bảo vệ, cải tạo, bồi bổ và sử dụng đất đai hợp lý, tiết kiệm.\n\nNgười sử dụng đất phải nộp thuế sử dụng đất theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H328-A5",
+   "no": 5,
+   "noLabel": {
+    "vi": "Điều 5"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 5\n\nNghiêm cấm việc mua, bán, lấn, chiếm đất đai, phát canh thu tô dưới mọi hình thức, nhận đất được giao mà không sử dụng, sử dụng không đúng mục đích, tự tiện sử dụng đất nông nghiệp, đất có rừng vào mục đích khác, làm huỷ hoại đất đai."
+   }
+  },
+  {
+   "id": "VN-H328-A6",
+   "no": 6,
+   "noLabel": {
+    "vi": "Điều 6"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 6\n\nQuốc hội thực hiện quyền quyết định, quyền giám sát tối cao đối với việc quản lý và sử dụng đất đai trong cả nước.\n\nHội đồng bộ trưởng thực hiện quyền quản lý Nhà nước đối với việc sử dụng, bảo vệ và cải tạo đất đai.\n\nHội đồng nhân dân, Uỷ ban nhân dân các cấp thực hiện việc quản lý Nhà nước đối với đất đai trong địa phương mình theo thẩm quyền được quy định trong Luật này.\n\nThủ trưởng các ngành trong phạm vi quyền hạn và trách nhiệm của mình tổ chức và quản lý việc sử dụng đất đai do Nhà nước giao cho các tổ chức thuộc ngành mình sử dụng.\n\nCơ quan quản lý đất đai ở Trung ương và địa phương có nhiệm vụ giúp Hội đồng bộ trưởng và Uỷ ban nhân dân các cấp thực hiện việc thống nhất quản lý Nhà nước đối với đất đai."
+   }
+  },
+  {
+   "id": "VN-H328-A7",
+   "no": 7,
+   "noLabel": {
+    "vi": "Điều 7"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 7\n\nMặt trận Tổ quốc, Công đoàn, Hội nông dân tập thể, Đoàn thanh niên Cộng sản Hồ Chí Minh, Hội liên hiệp phụ nữ, các hội khoa học và các tổ chức xã hội khác cũng như mọi công dân đều có nhiệm vụ hỗ trợ các cơ quan Nhà nước trong việc thực hiện các biện pháp nhằm bảo vệ và sử dụng đất đai hợp lý, tiết kiệm.\n\nCác cơ quan Nhà nước trong phạm vi nhiệm vụ và quyền hạn của mình có trách nhiệm xem xét đầy đủ các kiến nghị của các tổ chức xã hội và cá nhân trong việc thực hiện các biện pháp bảo vệ và sử dụng đất đai."
+   }
+  },
+  {
+   "id": "VN-H328-A8",
+   "no": 8,
+   "noLabel": {
+    "vi": "Điều 8"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 8\n\nCăn cứ vào mục đích sử dụng chủ yếu, đất đai được phân thành các loại sau đây:\n\n1- Đất nông nghiệp;\n\n2- Đất lâm nghiệp;\n\n3- Đất khu dân cư;\n\n4- Đất chuyên dùng;\n\n5- Đất chưa sử dụng.\n\nCHƯƠNG II\n\nCHẾ ĐỘ QUẢN LÝ ĐẤT ĐAI"
+   }
+  },
+  {
+   "id": "VN-H328-A9",
+   "no": 9,
+   "noLabel": {
+    "vi": "Điều 9"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 9\n\nViệc quản lý Nhà nước đối với đất đai bao gồm:\n\n1- Điều tra, khảo sát, đo đạc, phân hạng đất đai và lập bản đồ địa chính;\n\n2- Quy hoạch và kế hoạch hoá việc sử dụng đất đai;\n\n3- Quy định các chế độ, thể lệ về quản lý, sử dụng đất đai và tổ chức thực hiện các chế độ, thể lệ ấy;\n\n4- Giao đất và thu hồi đất;\n\n5- Đăng ký đất đai, lập và giữ sổ địa chính, thống kê đất đai, cấp giấy chứng nhận quyền sử dụng đất;\n\n6- Thanh tra việc chấp hành các chế dộ, thể lệ về quản lý, sử dụng đất đai;\n\n7- Giải quyết tranh chấp đất đai."
+   }
+  },
+  {
+   "id": "VN-H328-A10",
+   "no": 10,
+   "noLabel": {
+    "vi": "Điều 10"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 10\n\nDưới sự chỉ đạo thống nhất của Hội đồng bộ trưởng, Uỷ ban nhân dân tỉnh, thành phố trực thuộc trung ương và đơn vị hành chính tương đương tổ chức, chỉ đạo Uỷ ban nhân huyện, quận, thị xã, thành phố thuộc tỉnh điều tra, khảo sát, đo đạc, phân hạng đất đai, lập bản đồ địa chính xã và đơn vị hành chính tương đương."
+   }
+  },
+  {
+   "id": "VN-H328-A11",
+   "no": 11,
+   "noLabel": {
+    "vi": "Điều 11"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 11\n\n1- Việc lập quy hoạch, kế hoạch:\n\na) Hội đồng bộ trưởng lập quy hoạch, kế hoạch sử dụng đất đai trong cả nước;\n\nb) Uỷ ban nhân dân các cấp lập quy hoạch, kế hoạch sử dụng đất đai trong địa phương mình;\n\nc) Các ngành lập quy hoạch, kế hoạch sử dụng đất đai của ngành mình.\n\n2- Thẩm quyền phê chuẩn và xét duyệt quy hoạch, kế hoạch sử dụng đất đai:\n\na) Quốc hội phê chuẩn quy hoạch, kế hoạch sử dụng đất đai trong cả nước; Hội đồng nhân dân các cấp phê chuẩn quy hoạch, kế hoạch sử dụng đất đai của địa phương mình trước khi trình lên chính quyền cấp trên trực tiếp xét duyệt;\n\nb) Hội đồng bộ trưởng xét duyệt quy hoạch, kế hoạch sử dụng đất đai của các ngành ở Trung ương và quy hoạch kế hoạch sử dụng đất đai của tỉnh, thành phố trực thuộc trung ương và đơn vị hành chính tương đương;\n\nc) Uỷ ban nhân dân cấp trên xét duyệt quy hoạch, kế hoạch sử dụng đất đai của Uỷ ban nhân dân cấp dưới trực tiếp;\n\nd) Uỷ ban nhân dân mỗi cấp cùng với các ngành cấp trên xét duyệt quy hoạch, kế hoạch sử dụng đất đai của ngành đó tại địa phương;\n\ne) Trong trường hợp cần bổ sung, điều chỉnh quy hoạch, kế hoạch sử dụng đất đai phải được sự đồng ý của cơ quan Nhà nước có thẩm quyền quy định tại các điểm a, b, c, d khoản 2 của Điều này."
+   }
+  },
+  {
+   "id": "VN-H328-A12",
+   "no": 12,
+   "noLabel": {
+    "vi": "Điều 12"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 12\n\nViệc quyết định giao đất phải tuân theo những quy định sau đây:\n\n1- Căn cứ vào quy hoạch và kế hoạch sử dụng đất đã được cơ quan Nhà nước có thẩm xét duyệt quy định tại khoản 2 Điều 11 của Luật này;\n\n2- Căn cứ vào kế hoạch hàng năm chuyển loại đất từ mục đích sử dụng này sang mục đích sử dụng khác đã được cơ Nhà nước có thẩm quyền xét duyệt quy định tại Điều 13 của Luật này;\n\n3- Căn cứ vào yêu cầu sử dụng đất đai ghi trong luận chứng kinh tế - kỹ thuật và trong thiết kế đã được cơ quan Nhà nước có thẩm quyền xét duyệt;\n\n4- Việc quyết định giao đất đang sử dụng cho người khác chỉ được tiến hành sau khi có quyết định thu hồi đất đó của cơ quan Nhà nước có thẩm quyền, quy định tại Điều 15 của Luật này."
+   }
+  },
+  {
+   "id": "VN-H328-A13",
+   "no": 13,
+   "noLabel": {
+    "vi": "Điều 13"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 13\n\n1- Hội đồng Nhà nước phê chuẩn kế hoạch hàng năm của Hội đồng bộ trưởng về việc giao đất nông nghiệp, đất có rừng sử dụng vào mục đích khác.\n\n2- Hội đồng bộ trưởng xét duyệt kế hoạch hàng năm của Uỷ ban nhân dân các tỉnh, thành phố trực thuộc trung ương và đơn vị hành chính tương đương về việc giao đất nông nghiệp, đất có rừng để sử dụng vào mục đích khác.\n\nHội đồng bộ trưởng căn cứ vào quy hoạch, kế hoạch sử dụng đất đai đã được Quốc hội phê chuẩn và kế hoạch hàng năm chuyển đất nông nghiệp, đất có rừng để sử dụng vào mục đích khác đã được Hội đồng Nhà nước phê chuẩn, quyết định việc giao đất để sử dụng vào mọi mục đích trong những trường hợp cần thiết.\n\n3- Uỷ ban nhân dân tỉnh, thành phố trực thuộc trung ương và đơn vị hành chính tương đương quyết định:\n\na) Giao đất cho các tổ chức kinh tế quốc doanh để sử dụng vào mục đích nông nghiệp, lâm nghiệp;\n\nb) Giao đất để sử dụng vào mục đích khác không phải sản xuất nông nghiệp, lâm nghiệp trong phạm vi sau đây:\n\nTừ 1 ha trở xuống đối với đất nông nghiệp, đất có rừng, đất khu dân cư và từ 2 ha trở xuống đối với đất hoang, đồi núi cho mỗi công trình không theo tuyến.\n\nTừ 3 ha trở xuống đối với đất nông nghiệp, đất có rừng, đất khu dân cư và từ 5 ha trở xuống đối với đất hoang, đồi núi cho mỗi công trình theo tuyến.\n\nc) Giao đất chuyên dùng để sử dụng vào mục đích chuyên dùng, trừ đất thuộc vùng lãnh hải.\n\nd) Xét duyệt kế hoạch giao đất khu dân cư nông thôn để nhân dân làm nhà ở theo định mức hàng năm đã được Hội đồng bộ trưởng xét duyệt cho mỗi loại xã.\n\nđ) Giao đất khu dân cư thuộc nội thành nội thị theo quy hoạch đã được cơ quan Nhà nước có thẩm quyền xét duyệt.\n\n4- Uỷ ban nhân dân huyện, thị xã, thành phố thuộc tỉnh quyết định:\n\na) Giao đất cho các hợp tác xã, tập đoàn sản xuất và cá nhân để sử dụng lâu dài vào sản xuất nông nghiệp, lâm nghiệp;\n\nb) Giao đất chưa sử dụng cho các tổ chức và cá nhân sử dụng có thời hạn hoặc tạm thời để sản xuất nông nghiệp, lâm nghiệp;\n\nc) Giao đất khu dân cư nông thôn cho nhân dân làm nhà ở theo kế hoạch đã được Uỷ ban nhân dân tỉnh, thành phố trực thuộc trung ương và đơn vị hành chính tương đương xét duyệt.\n\n5- Uỷ ban nhân dân quận có thẩm quyền giao đất quy định tại điểm a, điểm b, khoản 4 của Điều này.\n\n6- Hội đồng bộ trưởng quy định trình tự, thủ tục giao các loại đất. Cơ quan quản lý đất đai của trung ương và địa phương, giúp Hội đồng bộ trưởng và Uỷ ban nhân các cấp trong việc giao đất."
+   }
+  },
+  {
+   "id": "VN-H328-A14",
+   "no": 14,
+   "noLabel": {
+    "vi": "Điều 14"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 14\n\nNhà nước thu hồi toàn bộ hoặc một phần đất đã giao sử dụng trong những trường hợp sau đây:\n\n1- Tổ chức sử dụng đất bị giải thể, chuyển đi nơi khác, hoặc bị thu hẹp mà giảm nhu cầu sản xuất;\n\n2- Tất cả số người trong hộ sử dụng đất đã chuyển đi nơi khác hoặc đã chết;\n\n3- Người sử dụng đất tự nguyện trả lại đất được giao;\n\n4- Thời hạn sử dụng đất đã hết;\n\n5- Người sử dụng đất không sử dụng đất được giao trong 6 tháng liền mà không được cơ quan Nhà nước có thẩm quyền quyết định giao đất đó cho phép;\n\n6- Người sử dụng đất vi phạm nghiêm trọng những quy định về sử dụng đất;\n\n7- Đất giao không đúng thẩm quyền quy định tại Điều 13 của Luật này;\n\n8- Cần sử dụng đất cho nhu cầu của Nhà nước hoặc của xã hội."
+   }
+  },
+  {
+   "id": "VN-H328-A15",
+   "no": 15,
+   "noLabel": {
+    "vi": "Điều 15"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 15\n\nCơ quan Nhà nước có thẩm quyền quyết định giao đất nào thì có quyền thu hồi đất đó.\n\nTrong trường hợp có nhu cầu khẩn cấp của chiến tranh hoặc chống thiên tai thì việc thu hồi đất do Uỷ ban nhân dân cấp huyện, quận, thị xã, thành phố thuộc tỉnh trở lên quyết định theo đề nghị của cơ quan chỉ huy quân sự hoặc cơ quan chỉ huy chống bão lụt."
+   }
+  },
+  {
+   "id": "VN-H328-A16",
+   "no": 16,
+   "noLabel": {
+    "vi": "Điều 16"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 16\n\nViệc chuyển quyền sử dụng đất đai chỉ thực hiện trong các trường hợp sau đây:\n\n1- Khi hộ nông dân vào hoặc ra hợp tác xã, tập đoàn sản xuất nông nghiệp, lâm nghiệp;\n\n2- Khi hợp tác xã, tập đoàn sản xuất nông nghiệp và cá nhân thoả thuận đổi đất cho nhau để tổ chức lại sản xuất;\n\n3- Khi người được giao đất chuyển đi nơi khác hoặc đã chết mà thành viên trong hộ của người đó vẫn còn tiếp tục sử dụng đất đó.\n\nViệc chuyển quyền sử dụng đất đai nói trong Điều này, nếu ở nông thôn thì do Uỷ ban nhân dân xã quyết định, nếu ở thành thị thì do Uỷ ban nhân dân huyện, quận, thị xã, thành phố trực thuộc tỉnh quyết định."
+   }
+  },
+  {
+   "id": "VN-H328-A17",
+   "no": 17,
+   "noLabel": {
+    "vi": "Điều 17"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 17\n\nNgười được thừa kế nhà ở hoặc người chưa có chỗ ở, khi được người khác chuyển nhượng nhà để ở, sau khi được cơ quan Nhà nước có thẩm quyền công nhận quyền sở hữu đối với nhà ở, thì được quyền sử dụng đất ở có ngôi nhà đó."
+   }
+  },
+  {
+   "id": "VN-H328-A18",
+   "no": 18,
+   "noLabel": {
+    "vi": "Điều 18"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 18\n\n1- Khi được cơ quan Nhà nước có thẩm quyền giao đất, cho phép chuyển quyền sử dụng, thay đổi mục đích sử dụng hoặc đang sử dụng đất hợp pháp mà chưa đăng ký thì người sử dụng phải xin đăng ký đất đai tại cơ quan Nhà nước nói ở khoản 2 của Điều này.\n\n2- Uỷ ban nhân dân quận, thành phố thuộc tỉnh, thị xã, thị trấn và Uỷ ban nhân dân xã thuộc huyện lập, giữ sổ địa chính, vào sổ địa chính cho người sử dụng đất và tự mình đăng ký đất chưa sử dụng vào sổ địa chính.\n\n3- Sau khi đăng ký, người sử dụng đất được cấp giấy chứng nhận quyền sử dụng đất."
+   }
+  },
+  {
+   "id": "VN-H328-A19",
+   "no": 19,
+   "noLabel": {
+    "vi": "Điều 19"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 19\n\nHội đồng bộ trưởng định kỳ tổ chức việc thống kê đất đai về số lượng và chất lượng để phục vụ kịp thời cho các yêu cầu quản lý, sử dụng đất đai."
+   }
+  },
+  {
+   "id": "VN-H328-A20",
+   "no": 20,
+   "noLabel": {
+    "vi": "Điều 20"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 20\n\nHội đồng bộ trưởng và Uỷ ban nhân dân các cấp tổ chức việc thanh tra đất đai trong địa phận quản lý của mình.\n\nCơ quan quản lý đất đai ở trung ương và địa phương giúp Hội đồng bộ trưởng và Uỷ ban nhân dân các cấp thực hiện thanh tra đất đai.\n\nKhi thực hiện việc thanh tra đất đai, đoàn thanh tra hoặc thanh tra viên có quyền:\n\n1- Yêu cầu các tổ chức và cá nhân có liên quan cung cấp tài liệu cần thiết cho việc thanh tra;\n\n2- Tạm thời đình chỉ việc sử dụng phần đất sử dụng không đúng pháp luật;\n\n3- Kiến nghị với cơ quan Nhà nước có thẩm quyền xử lý những hành vi vi phạm pháp luật đất đai."
+   }
+  },
+  {
+   "id": "VN-H328-A21",
+   "no": 21,
+   "noLabel": {
+    "vi": "Điều 21"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 21\n\nCác tranh chấp về quyền sử dụng đất đai do Uỷ ban nhân nơi có đất đai bị tranh chấp giải quyết theo quy định dưới đây:\n\n1- Uỷ ban nhân dân xã, thị trấn giải quyết các tranh chấp đất đai giữa cá nhân với cá nhân.\n\n2- Uỷ ban nhân dân huyện giải quyết các tranh chấp giữa cá nhân với tổ chức và giữa các tổ chức thuộc quyền mình quản lý.\n\n3- Uỷ ban nhân dân quận, thị xã, thành phố thuộc tỉnh giải quyết các tranh chấp quy định tại khoản 1, khoản 2 của Điều này.\n\n4- Uỷ ban nhân dân tỉnh, thành phố trực thuộc Trung ương và đơn vị hành chính tương đương giải quyết các tranh chấp giữa cá nhân với tổ chức, giữa tổ chức với nhau, nếu tổ chức đó thuộc quyền quản lý của mình hoặc trực thuộc Trung ương.\n\n5- Trong trường hợp không đồng ý với quyết định của Uỷ ban nhân dân đã giải quyết tranh chấp, đương sự có quyền khiếu nại lên cơ quan chính quyền cấp trên. Quyết định của chính quyền cấp trên trực tiếp có hiệu lực thi hành.\n\n6- Việc tranh chấp quyền sử dụng đất có liên quan đến địa giới giữa các đơn vị hành chính do Uỷ ban nhân dân các đơn vị đó cùng phối hợp giải quyết. Trong trường hợp không đạt được sự nhất trí thì thẩm quyền giải quyết theo quy định tại khoản 11, Điều 83 và khoản 26, Điều 107 của Hiến pháp."
+   }
+  },
+  {
+   "id": "VN-H328-A22",
+   "no": 22,
+   "noLabel": {
+    "vi": "Điều 22"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 22\n\nKhi giải quyết tranh chấp về nhà ở, vật kiến trúc khác hoặc cây lâu năm thì Toà án nhân dân giải quyết cả quyền sử dụng đất có nhà ở, vật kiến trúc khác hoặc cây lâu năm đó.\n\nCHƯƠNG III\n\nCHẾ ĐỘ SỬ DỤNG CÁC LOẠI ĐẤT\n\nMỤC I\n\nĐẤT NÔNG NGHIỆP, ĐẤT LÂM NGHIỆP"
+   }
+  },
+  {
+   "id": "VN-H328-A23",
+   "no": 23,
+   "noLabel": {
+    "vi": "Điều 23"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 23\n\nĐất nông nghiệp là đất được xác định chủ yếu dùng vào sản xuất nông nghiệp như trồng trọt, chăn nuôi, kể cả nuôi trồng thuỷ sản hoặc nghiên cứu thí nghiệm về trồng trọt, chăn nuôi."
+   }
+  },
+  {
+   "id": "VN-H328-A24",
+   "no": 24,
+   "noLabel": {
+    "vi": "Điều 24"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 24\n\nNgười sử dụng đất nông nghiệp có nghĩa vụ:\n\n1- Đưa diện tích được giao vào sản xuất nông nghiệp theo quy hoạch, kế hoạch, không được bỏ hoang, bỏ hoá;\n\n2- Thực hiện các biện pháp thâm canh, tăng vụ, bảo vệ, cải tạo, bồi bổ đất đai và kết hợp nông nghiệp, lâm nghiệp."
+   }
+  },
+  {
+   "id": "VN-H328-A25",
+   "no": 25,
+   "noLabel": {
+    "vi": "Điều 25"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 25\n\nĐất lâm nghiệp là đất được xác chủ yếu dùng vào sản xuất lâm nghiệp như trồng rừng, khai thác rừng, khoanh nuôi, tu bổ, cải tạo rừng, nghiên cứu thí nghiệm về lâm nghiệp; đất rừng cấm, vườn quốc gia; đất trồng rừng để phòng hộ đầu nguồn, bảo vệ đất, cải tạo môi trường."
+   }
+  },
+  {
+   "id": "VN-H328-A26",
+   "no": 26,
+   "noLabel": {
+    "vi": "Điều 26"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 26\n\nNgười sử dụng đất lâm nghiệp có nghĩa vụ:\n\n1- Nghiêm chỉnh chấp hành pháp luật về quản lý khai thác, bảo vệ rừng và đất lâm nghiệp, không tự tiện phá rừng, đốt rừng, làm huỷ hoại môi trường.\n\n2- Trồng rừng phủ xanh diện tích được giao theo quy hoạch, kế hoạch; thực hiện các biện pháp về thâm canh, bảo vệ đất, chống xói mòn và kết hợp lâm nghiệp, nông nghiệp."
+   }
+  },
+  {
+   "id": "VN-H328-A27",
+   "no": 27,
+   "noLabel": {
+    "vi": "Điều 27"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 27\n\nĐất làm kinh tế gia đình quy định như sau:\n\n1- Các hợp tác xã, tập đoàn sản xuất nông nghiệp, lâm nghiệp được giao lại cho các hộ thành viên của mình một diện tích đất nông nghiệp, đất lâm nghiệp trong số đất được Nhà nước giao sử dụng ổn định, lâu dài để các hộ này làm kinh tế gia đình.\n\nHội đồng nhân dân tỉnh, thành phố trực thuộc trung ương và đơn vị hành chính tương đương quy định mức đất nông nghiệp, đất lâm nghiệp được giao cho mỗi hộ ở từng vùng trong địa phương mình, mỗi người không quá 10% đất nông nghiệp, đất lâm nghiệp bình quân cho nhân khẩu của xã.\n\n2- Các nông trường, lâm trường, trạm, trại nông nghiệp, lâm nghiệp được giao lại cho các hộ thành viên của mình một diện tích đất nông nghiệp, lâm nghiệp trong số đất được Nhà nước giao sử dụng ổn định, lâu dài để các hộ này làm kinh tế gia đình, nhưng mỗi hộ nhiều nhất cũng không vượt quá mức quy định cho từng vùng như sau:\n\na) Đồng bằng Bắc bộ và đồng bằng miền Trung từ Thanh Hoá đến Thuận Hải: 200 m2;\n\nb) Trung du, Đông Nam bộ và đồng bằng sông Cửu Long: 500 m2;\n\nc) Miền núi và Tây Nguyên: 1.000 m2."
+   }
+  },
+  {
+   "id": "VN-H328-A28",
+   "no": 28,
+   "noLabel": {
+    "vi": "Điều 28"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 28\n\nĐất sản xuất của nông dân cá thể quy định như sau:\n\nCác hộ nông dân cá thể được Nhà nước giao đất ổn định, lâu dài để sản xuất nông nghiệp, lâm nghiệp trên cơ sở đất đai đang sử dụng.\n\nCăn cứ vào khả năng đất đai, kế hoạch sử dụng đất của địa phương và khả năng sử dụng đất của từng loại hộ, Hội đồng nhân dân tỉnh, thành phố trực thuộc trung ương và đơn vị hành chính tương đương quy định mức đất giao cho các loại hộ nông dân cá thể ở địa phương trên cơ sở bình quân đất nông nghiệp, đất lâm nghiệp tính theo nhân khẩu ở mỗi xã."
+   }
+  },
+  {
+   "id": "VN-H328-A29",
+   "no": 29,
+   "noLabel": {
+    "vi": "Điều 29"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 29\n\n1- Ở những nơi còn đất chưa sử dụng thì Uỷ ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh có thể giao loại đất này cho các tổ chức hoặc các hộ thành viên của hợp tác xã, tập đoàn sản xuất nông nghiệp, lâm nghiệp, tiểu, thủ công nghiệp, ngư nghiệp, nghề muối, nông trường, lâm trường, trạm, trại nông nghiệp, lâm nghiệp, công nhân, viên chức và nhân dân để sản xuất nông nghiệp, lâm nghiệp.\n\n2- Đối với đất trống, đồi núi trọc, rừng nghèo kiệt thì được giao theo chính sách giao đất, giao rừng để trồng trọt và chăn nuôi; đất giao cho mỗi tổ chức và cá nhân là căn cứ vào khả năng sử dụng, không hạn chế về diện tích.\n\n3- Khi giao đất nói ở khoản 1 và khoản 2 của Điều này phải xác định rõ mục đích và thời hạn sử dụng để người sử dụng đất yên tâm sản xuất, có thu hoạch thoả đáng so với công sức đã đầu tư đối với từng loại cây trồng và vật nuôi.\n\n4- Đất được giao nói trong Điều này không tính vào mức đất làm kinh tế gia đình hoặc mức đất giao cho nông dân cá thể quy định tại Điều 27 và Điều 28 của Luật này."
+   }
+  },
+  {
+   "id": "VN-H328-A30",
+   "no": 30,
+   "noLabel": {
+    "vi": "Điều 30"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 30\n\nNhà nước khuyến khích mọi tổ chức và cá nhân thuộc các thành phần kinh tế đầu tư vốn để sử dụng đất đai vào sản xuất nông nghiệp, lâm nghiệp ở các vùng còn nhiều đất chưa sử dụng hoặc hiệu quả sử dụng đất còn thấp.\n\nNhà nước có các chính sách về đầu tư, xây dựng cơ sở vật chất - kỹ thuật, tuyển dụng và thuê mượn lao động, miễn giảm thuế và giá cả nông sản để khuyến khích mọi người tận dụng đất đai vào sản xuất nông nghiệp, lâm nghiệp."
+   }
+  },
+  {
+   "id": "VN-H328-A31",
+   "no": 31,
+   "noLabel": {
+    "vi": "Điều 31"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 31\n\nViệc sử dụng đất vườn quy định như sau:\n\nĐất vườn được tính vào đất làm kinh tế gia đình xã viên hoặc đất giao cho nông dân còn sản xuất cá thể, phần còn lại người có vườn vẫn được tiếp tục sử dụng để sản xuất nông nghiệp, lâm nghiệp.\n\nNhà nước có chính sách khuyến khích và bảo vệ lợi ích của mọi tổ chức và cá nhân thâm canh, tăng sản lượng cây trồng trên đất vườn, sử dụng đất trống, đồi núi trọc để lập vườn theo quy hoạch.\n\nKhông được lập vườn trên đất trồng lúa, trừ trường hợp có phép của uỷ ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh theo kế hoạch sử dụng đất đã được Hội đồng nhân dân cùng cấp thông qua.\n\nCăn cứ vào yêu cầu phát triển kinh tế quốc dân, khả năng đất đai và tập quán canh tác ở từng địa phương, Hội đồng bộ trưởng quy định các hình thức tổ chức sản xuất và các chính sách thích hợp đối với đất vườn ở mỗi vùng nhằm phát triển sản xuất, ổn định đời sống và tăng sản phẩm cho xã hội."
+   }
+  },
+  {
+   "id": "VN-H328-A32",
+   "no": 32,
+   "noLabel": {
+    "vi": "Điều 32"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 32\n\nChùa, nhà thờ, thánh thất tôn giáo đang sử dụng đất hoặc chưa được giao đất sử dụng nếu có yêu cầu chính đáng và có khả năng sử dụng có hiệu quả thì Uỷ ban nhân dân tỉnh, thành phố trực thuộc trung ương và đơn vị hành chính tương đương căn cứ vào chính sách tôn giáo của Nhà nước và khả năng đất đai của địa phương để quyết định diện tích đất được giao cho chùa, nhà thờ, thánh thất đó.\n\nMỤC 2\n\nĐẤT KHU DÂN CƯ"
+   }
+  },
+  {
+   "id": "VN-H328-A33",
+   "no": 33,
+   "noLabel": {
+    "vi": "Điều 33"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 33\n\nĐất khu dân cư là đất được xác định để xây dựng các thành thị và các khu dân cư nông thôn."
+   }
+  },
+  {
+   "id": "VN-H328-A34",
+   "no": 34,
+   "noLabel": {
+    "vi": "Điều 34"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 34\n\nViệc sử dụng đất khu dân cư ở thành thị phải tuân theo những quy định về từng loại đất nói trong Luật này, đồng thời phải phù hợp với quy hoạch chung của thành phố, thị xã, thị trấn.\n\nĐối với thành phố, thị xã, thị trấn có quy hoạch giao đất cho nhân dân tự làm nhà ở thì Hội đồng nhân dân tỉnh, thành phố trực thuộc Trung ương và đơn vụ hành chính tương đương quy định mức đất giao cho mỗi hộ.\n\nViệc sử dụng đất để xây dựng nhà ở trong thành phố, thị xã, thị trấn phải theo đúng quy định của Hội đồng bộ trưởng."
+   }
+  },
+  {
+   "id": "VN-H328-A35",
+   "no": 35,
+   "noLabel": {
+    "vi": "Điều 35"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 35\n\nViệc sử dụng đất khu dân cư ở nông thôn phải theo quy hoạch thuận tiện cho sản xuất, đời sống của nhân dân và quản lý xã hội. Phải tận dụng những khu dân cư sẵn có, hạn chế việc mở rộng khu dân cư trên đất nông nghiệp.\n\nChỉ được giao đất ở trong khu dân cư cho những hộ chưa có nhà ở.\n\nCăn cứ vào khả năng đất đai ở từng vùng, Hội đồng nhân dân tỉnh, thành phố trực thuộc trung ương và đơn vị hành chính tương đương quy định mức đất được giao cho mỗi hộ, nhưng không được quá mức quy định cho từng vùng như sau:\n\na) Đồng bằng Bắc bộ và đồng bằng miền Trung từ Thanh Hoá đến Thuận Hải: 200 m2.\n\nb) Trung du, Đông Nam bộ và đồng bằng sông Cửu Long: 300 m2.\n\nc) Miền núi và Tây Nguyên: 400 m2.\n\nĐối với những vùng nhân dân có tập quán nhiều thế hệ cùng chung sống trong một hộ hoặc những nơi phải giao đất ở vào đất quanh năm ngập nước thì theo đề nghị của Hội đồng nhân dân tỉnh, thành phố trực thuộc trung ương và đơn vị hành chính tương đương, Hội đồng bộ trưởng có thể quy định mức đất ở cao hơn, nhưng nói chung không vượt quá một lần rưỡi, trong trường hợp cá biệt, cũng không được vượt quá hai lần mức đất quy định cho từng vùng tại Điều này.\n\nMỤC 3\n\nĐẤT CHUYÊN DÙNG"
+   }
+  },
+  {
+   "id": "VN-H328-A36",
+   "no": 36,
+   "noLabel": {
+    "vi": "Điều 36"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 36\n\nĐất chuyên dùng là đất được xác định dùng vào các mục đích không phải là nông nghiệp, lâm nghiệp hoặc đất khu dân cư như: đất xây dựng các công trình công nghiệp, khoa học - kỹ thuật, giao thông, thuỷ lợi, văn hoá, xã hội, dịch vụ, đất dùng cho nhu cầu an ninh, quốc phòng, đất dùng cho thăm dò, khai thác khoáng sản, đất làm muối, đất làm đồ gốm gạch, ngói và các vật liệu xây dựng khác, đất di tích lịch sử, văn hoá và danh lam thắng cảnh, đất nghĩa địa, đất có mặt nước sử dụng vào các mục đích không phải là nông nghiệp."
+   }
+  },
+  {
+   "id": "VN-H328-A37",
+   "no": 37,
+   "noLabel": {
+    "vi": "Điều 37"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 37\n\nViệc sử dụng đất để xây dựng các công trình công nghiệp, khoa học - kỹ thuật, giao thông, thuỷ lợi, văn hoá, xã hội, dịch vụ, người việc tuân theo các quy định của Luật này, còn phải tuân theo các yêu cầu sử dụng đất được xác định trong luận chứng kinh tế - kỹ thuật và thiết kế của từng công trình."
+   }
+  },
+  {
+   "id": "VN-H328-A38",
+   "no": 38,
+   "noLabel": {
+    "vi": "Điều 38"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 38\n\nViệc sử dụng đất vào mục đích an ninh, quốc phòng phải tuân theo đúng quy hoạch, kế hoạch đã được cơ quan Nhà nước có thẩm quyền xét duyệt. Khi sử dụng đất phải triệt để tiết kiệm và hạn chế đến mức thấp nhất những trở ngại cho việc sử dụng đất đai của vùng lân cận."
+   }
+  },
+  {
+   "id": "VN-H328-A39",
+   "no": 39,
+   "noLabel": {
+    "vi": "Điều 39"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 39\n\nChỉ những tổ chức được Nhà nước giao nhiệm vụ thăm dò, khai thác khoáng sản mới được sử dụng đất để thực hiện mục đích này.\n\nĐất thăm dò, khai thác khoáng sản, kể cả thăm dò, khai thác đá chỉ được giao sử dụng trong thời gian thăm dò, khai thác khoáng sản; khi sử dụng xong phải trả lại đất với trạng thái được quy định trong quyết định giao đất của cơ quan Nhà nước có thẩm quyền."
+   }
+  },
+  {
+   "id": "VN-H328-A40",
+   "no": 40,
+   "noLabel": {
+    "vi": "Điều 40"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 40\n\nNhà nước giao đất làm muối cho các tổ chức hoặc cá nhân để sản xuất muối; đất này được giao trên cơ sở đất đang sử dụng.\n\nNhững vùng đất làm muối có năng suất, chất lượng cao phải được bảo vệ, ưu tiên cho việc sản xuất muối.\n\nNhà nước khuyến khích việc sử dụng những vùng đất có khả năng làm muối để phục vụ cho nhu cầu về muối của xã hội."
+   }
+  },
+  {
+   "id": "VN-H328-A41",
+   "no": 41,
+   "noLabel": {
+    "vi": "Điều 41"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 41\n\nViệc sử dụng đất làm đồ gốm, gạch, ngói và các vật liệu xây dựng khác được giao có thời hạn.\n\nĐất làm gạch, ngói trước hết phải lấy từ đất đồi núi không sản xuất nông nghiệp, gò, bãi hoang, lòng sông, ao hồ cần khơi sâu, ven sông ngòi không sản xuất, đê bối cần huỷ bỏ, đất lấy từ cải tạo đồng ruộng.\n\nTrong trường hợp không còn các nguồn đất nói trên thì có thể sử dụng những loại đất xấu, nhưng phải triệt để tiết kiệm. Khi sử dụng xong phải cải tạo ngay để sản xuất nông nghiệp, nuôi trồng thuỷ sản.\n\nĐất làm đồ gốm hoặc gạch, ngói không nung được chọn ở những vùng đất thích hợp nhưng không gây thiệt hại cho sản xuất nông nghiệp, lâm nghiệp.\n\nChỉ những tổ chức hoặc cá nhân được phép của cơ quan Nhà nước có thẩm quyền quy định tại Điều 13 của Luật này mới được sử dụng đất để làm đồ gốm, gạch, ngói và các vật liệu xây dựng khác."
+   }
+  },
+  {
+   "id": "VN-H328-A42",
+   "no": 42,
+   "noLabel": {
+    "vi": "Điều 42"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 42\n\nĐất di tích lịch sử, văn hoá, danh lam thắng cảnh là đất có di tích lịch sử, văn hoá, danh lam thắng cảnh theo quy định của pháp luật.\n\nĐất này phải được bảo vệ nghiêm ngặt.\n\nTrong trường hợp đặc biệt cần thiết phải sử dụng đất có di tích lịch sử, văn hoá, danh lam thắng cảnh vào mục đích khác thì phải được phép của cơ quan Nhà nước có thẩm quyền quyết định giao đất và phải được sự đồng ý của Bộ trưởng Bộ văn hoá.\n\nTrong trường hợp không được sự đồng ý của Bộ trưởng Bộ văn hoá thì chủ công trình có quyền kiến nghị lên Hội đồng bộ trưởng."
+   }
+  },
+  {
+   "id": "VN-H328-A43",
+   "no": 43,
+   "noLabel": {
+    "vi": "Điều 43"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 43\n\nĐất làm nghĩa địa phải được quy hoạch thành khu tập trung, xa dân cư, thuận tiện cho việc chôn cất, thăm viếng, hợp vệ sinh và tiết kiệm đất."
+   }
+  },
+  {
+   "id": "VN-H328-A44",
+   "no": 44,
+   "noLabel": {
+    "vi": "Điều 44"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 44\n\nĐất có mặt nước quy định trong Điều này gồm những đất thuộc vùng lãnh hải, nội thuỷ, sông, đầm, hồ lớn không thuộc sản xuất nông nghiệp.\n\nCăn cứ mục đích sử dụng chủ yếu đã xác định cho từng vùng đất có mặt nước, Nhà nước giao đất này cho các tổ chức và cá nhân thích hợp để sử dụng."
+   }
+  },
+  {
+   "id": "VN-H328-A45",
+   "no": 45,
+   "noLabel": {
+    "vi": "Điều 45"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 45\n\nNgười sử dụng đất chuyên dùng có nghĩa vụ:\n\n1- Chấp hành nghiêm chỉnh các quy định của Hội đồng bộ trưởng về việc sử dụng từng loại đất chuyên dùng;\n\n2- Thực hiện các biện pháp để tiết kiệm đất đai, bảo vệ môi trường và không trở ngại cho sản xuất, đời sống của nhân dân vùng lân cận."
+   }
+  },
+  {
+   "id": "VN-H328-A46",
+   "no": 46,
+   "noLabel": {
+    "vi": "Điều 46"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 46\n\nNgười được giao đất nông nghiệp, đất có rừng để xây dựng công trình công nghiệp, khoa học - kỹ thuật, giao thông, thuỷ lợi, văn hoá, xã hội, dịch vụ, an ninh, quốc phòng, thăm dò, khai thác khoáng sản, làm đồ gốm, gạch, ngói hoặc vật liệu xây dựng khác phải đền bù thiệt hại về đất nông nghiệp, đất có rừng cho Nhà nước.\n\nHội đồng bộ trưởng và Uỷ ban nhân dân các cấp được sử dụng khoản đền bù này vào việc khai hoang, vỡ hoá, thâm canh, bảo vệ, cải tạo đất, mở mang diện tích đất nông nghiệp, đất lâm nghiệp.\n\nMỤC 4\n\nĐẤT CHƯA SỬ DỤNG"
+   }
+  },
+  {
+   "id": "VN-H328-A47",
+   "no": 47,
+   "noLabel": {
+    "vi": "Điều 47"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 47\n\nĐất chưa sử dụng là đất chưa được xác định để dùng vào mục đích nông nghiệp, lâm nghiệp, khu dân cư, chuyên dùng và Nhà nước chưa giao cho ai sử dụng ổn định, lâu dài.\n\nHội đồng bộ trưởng lập quy hoạch, kế hoạch và có chính sách khuyến khích các tổ chức và cá nhân đưa đất chưa sử dụng vào sản xuất nông nghiệp, lâm nghiệp.\n\nMỤC 5\n\nNGHĨA VỤ VÀ QUYỀN LỢI CỦA NGƯỜI SỬ DỤNG ĐẤT"
+   }
+  },
+  {
+   "id": "VN-H328-A48",
+   "no": 48,
+   "noLabel": {
+    "vi": "Điều 48"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 48\n\nNgoài những nghĩa vụ đối với từng loại đất được quy định tại Điều 24, Điều 26 và Điều 45 của Luật này, người sử dụng đất còn có những nghĩa vụ sau đây:\n\n1- Sử dụng đất đúng mục đích, đúng ranh giới và các điều kiện khác đã được quy định khi giao đất;\n\n2- Thực hiện việc bảo vệ, cải tạo và bồi bổ đất đai, không được làm những việc có hại đến môi trường và lợi ích hợp pháp của người sử dụng đất lân cận;\n\n3- Thi hành nghiêm chỉnh quyết định của cơ quan Nhà nước có thẩm quyền về việc thu hồi đất;\n\n4- Đền bù thiệt hại thực tế cho người đang sử dụng đất bị thu hồi để giao cho mình, bồi hoàn thành quả lao động và kết quả đầu tư đã làm tăng giá trị của đất đó theo quy định của pháp luật;\n\n5- Nộp thuế, nộp lệ phí địa chính khi làm thủ tục địa chính theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H328-A49",
+   "no": 49,
+   "noLabel": {
+    "vi": "Điều 49"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 49\n\nNgười sử dụng đất có những quyền lợi sau đây:\n\n1- Được sử dụng đất ổn định, lâu dài, có thời hạn hoặc tạm thời nhưng đã được cơ quan Nhà nước có thẩm quyền quyết định khi giao đất;\n\n2- Hưởng thành quả lao động, kết quả đầu tư trên đất được giao, được quyền chuyển, nhượng, bán nhà ở, vật kiến trúc khác, cây lâu năm mà người sử dụng đất có được một cách hợp pháp trên đất được giao; trong trường hợp đất đang sử dụng được thu hồi theo khoản 1, khoản 2 và khoản 3, Điều 14 của Luật này để giao cho người khác thì được đền bù thiệt hại thực tế, được bồi hoàn thành quả lao động, kết quả đầu tư đã làm tăng giá trị của đất đó theo quy định của pháp luật;\n\n3- Hưởng các lợi ích do công trình công cộng bảo vệ hoặc cải tạo đất mang lại;\n\n4- Được Nhà nước hướng dẫn và giúp đỡ trong việc cải tạo và bồi bổ đất;\n\n5- Khi đất đang sử dụng bị thu hồi vì nhu cầu của Nhà nước hoặc xã hội thì được đền bù thiệt hại thực tế và được giao đất khác;\n\n6- Được Nhà nước bảo vệ khi bị người khác xâm phạm đến quyền sử dụng đất đai hợp pháp của mình.\n\nCHƯƠNG IV\n\nNHỮNG QUY ĐỊNH VỀ SỬ DỤNG ĐẤT ĐỐI VỚI TỔ CHỨC,\n\nCÁ NHÂN NƯỚC NGOÀI, TỔ CHỨC QUỐC TẾ, TỔ CHỨC LIÊN DOANH,\n\nHỢP TÁC CỦA VIỆT NAM VÀ NƯỚC NGOÀI"
+   }
+  },
+  {
+   "id": "VN-H328-A50",
+   "no": 50,
+   "noLabel": {
+    "vi": "Điều 50"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 50\n\nViệc giao đất cho tổ chức, cá nhân nước ngoài, tổ chức quốc tế, tổ chức liên doanh, hợp tác của Việt Nam và nước ngoài để sử dụng do Hội đồng bộ trưởng nước Cộng hoà xã hội chủ nghĩa Việt Nam quyết định."
+   }
+  },
+  {
+   "id": "VN-H328-A51",
+   "no": 51,
+   "noLabel": {
+    "vi": "Điều 51"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 51\n\nTổ chức, cá nhân nước ngoài, tổ chức quốc tế, tổ chức liên doanh, hợp tác của Việt Nam và nước ngoài được giao đất để sử dụng phải tuân theo các quy định của Luật này, trừ trường hợp điều ước quốc tế ký kết giữa nước Cộng hoà xã hội chủ nghĩa Việt Nam với nước ngoài hoặc tổ chức quốc tế có quy định khác.\n\nCHƯƠNG V\n\nKHEN THƯỞNG VÀ XỬ PHẠT"
+   }
+  },
+  {
+   "id": "VN-H328-A52",
+   "no": 52,
+   "noLabel": {
+    "vi": "Điều 52"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 52\n\nĐịa phương, tổ chức và cá nhân có nhiều thành tích trong việc quản lý, bảo vệ, cải tạo, bồi bổ đất đai, mở rộng diện tích đất nông nghiệp, phủ xanh đất trống đồi núi trọc, tiết kiệm đất trong xây dựng cơ bản thì được khen thưởng, theo quy định của Hội đồng bộ trưởng."
+   }
+  },
+  {
+   "id": "VN-H328-A53",
+   "no": 53,
+   "noLabel": {
+    "vi": "Điều 53"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 53\n\nNgười nào mua, bán, lấn, chiếm đất đai, phát canh thu tô, huỷ hoại đất đai hoặc có hành vi khác vi phạm pháp luật đất đai thì bị xử phạt hành chính bằng một hoặc nhiều hình thức sau đây:\n\n1- Cảnh cáo;\n\n2- Phạt tiền từ 20% đến 30% giá trị thiệt hại do việc vi phạm gây ra;\n\n3- Tịch thu toàn bộ tiền mua bán đất;\n\n4- Thu hồi phần đất sử dụng trái pháp luật.\n\nViệc xử lý hành chính quy định trong Điều này do Uỷ ban nhân dân các cấp có thẩm quyền quyết định theo quy định của pháp luật.\n\nNếu hành vi vi phạm gây hậu quả nghiêm trọng hoặc đã bị xử lý hành chính mà còn vi phạm thì bị xử phạt theo Bộ luật hình sự."
+   }
+  },
+  {
+   "id": "VN-H328-A54",
+   "no": 54,
+   "noLabel": {
+    "vi": "Điều 54"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 54\n\nNgười nào lợi dụng chức vụ, quyền hạn hoặc vượt quá quyền hạn giao đất, thu hồi đất, cho phép chuyển mục đích sử dụng đất trái với quy định của pháp luật, thiếu tinh thần trách nhiệm làm thiệt hại đến tài nguyên đất đai, bao che cho người có hành vi vi phạm pháp luật đất đai, thì bị xử lý bằng một trong những hình thức sau đây:\n\n1- Cảnh cáo;\n\n2- Phạt tiền;\n\n3- Cách chức;\n\n4- Buộc thôi việc.\n\nViệc xử lý kỷ luật quy định trong Điều này do cơ quan chính quyền quyết định theo phân cấp quản lý cán bộ.\n\nNếu hành vi vi phạm gây hậu quả nghiêm trọng hoặc đã bị xử lý kỷ luật mà còn vi phạm thì bị xử phạt theo Bộ luật hình sự."
+   }
+  },
+  {
+   "id": "VN-H328-A55",
+   "no": 55,
+   "noLabel": {
+    "vi": "Điều 55"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 55\n\nNgười nào có hành vi vi phạm pháp luật đất đai mà gây thiệt hại cho người khác thì ngoài việc bị xử phạt theo quy định tại Điều 53 và Điều 54 của Luật này còn phải bồi thường cho người bị thiệt hại.\n\nCHƯƠNG VI\n\nĐIỀU KHOẢN CUỐI CÙNG"
+   }
+  },
+  {
+   "id": "VN-H328-A56",
+   "no": 56,
+   "noLabel": {
+    "vi": "Điều 56"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 56\n\nNhững quy định trước đây trái với Luật này đều bãi bỏ."
+   }
+  },
+  {
+   "id": "VN-H328-A57",
+   "no": 57,
+   "noLabel": {
+    "vi": "Điều 57"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 57\n\nHội đồng bộ trưởng quy định chi tiết thi hành Luật này.\n\n------------------------\n\nLuật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá VIII, kỳ họp thứ 2, thông qua ngày 29 tháng 12 năm 1987.\n\n1:{\"id\":\"2566\",\"docType\":{\"id\":\"11025e19-2dd6-4165-85ad-ab6241186a1a\",\"name\":\"Luật\",\"code\":\"Lu\",\"parentCode\":\"VBQPPL\",\"parentName\":null},\"docGroup\":\"VBQPPL\",\"docNum\":\"Không số\",\"title\":\"Luật Đất đai số Không số\",\"applicationNote\":\"Bị thay thế bởi Luật Không số Đất đai\",\"issueDate\":\"1987-12-29T00:00:00\",\"effFrom\":\"1987-12-29T00:00:00\",\"effTo\":\"1993-10-15T00:00:00\",\"publicDate\":null,\"effStatus\":{\"id\":\"f55c1469-4341-4274-93ef-32b283db4dbd\",\"name\":\"Hết hiệu lực toàn bộ\",\"code\":\"HHL\",\"parentCode\":null,\"parentName\":null},\"status\":\"Publish\",\"lang\":\"vi\",\"defaultLanguage\":\"VN\",\"updatedBy\":\"dungdvm_II.2\",\"updatedDate\":\"2026-01-16T17:33:21\",\"agencyName\":\"Quốc hội\",\"organization\":{\"id\":\"783ea33b-f8f2-4b76-b9e3-3350273eb0b0\",\"code\":\"BNNVMT\",\"name\":\"Bộ Nông nghiệp và Môi trường\",\"nameEn\":\"Bộ Nông nghiệp và Môi trường\",\"shortName\":\"BNNVMT\",\"orgType\":\"0\"},\"isLw\":true,\"documentContent\":{\"id\":\"2566\",\"title\":null,\"content\":\"$2\"},\"documentContentEn\":null,\"documentContentFileName\":null,\"documentContentFileDocName\":\"Luat khong so Dat dai.doc\",\"documentIssues\":[{\"id\":\"38bd66a7-7265-4bf1-8c8f-b1988907fb37\",\"agencyId\":\"55\",\"agencyName\":\"Quốc hội\",\"agencyNameEn\":\"National Assembly of Vietnam\",\"agencyCode\":\"QH\",\"personId\":\"604\",\"personName\":\"Lê Quang Đạo\",\"jobTitleId\":\"28da0087-8afd-420c-875c-b2369e212c3e\",\"jobTitleCode\":\"CTQH\",\"jobTitleName\":\"Chủ tịch Quốc hội\",\"orderIndex\":1}],\"documentMajors\":[],\"documentFields\":[{\"id\":\"76e2c0d5-e93e-4ee9-8c72-59dae1167432\",\"name\":\"Chưa phân loại\",\"code\":null,\"parentCode\":null,\"parentName\":null}],\"documentRelatedList\":[{\"id\":\"693b2bc0-312e-4e0e-a188-89b572bab7e6\",\"fileName\":\"2566_body_content.html\",\"relatedType\":\"MARKDOWN\",\"fileTitle\":\"2566_body_content.html\",\"fileOrder\":null}],\"provisionTree\":null,\"references\":null,\"isEffectAllDocument\":false,\"isOld\":true,\"reviewStatus\":\"INITIAL\",\"reviewed\":false,\"isTranslationDoc\":false,\"isConsolidatedDocument\":false,\"isConstitutionDocument\":false,\"isAdministrativeDocument\":false,\"viewCount\":95,\"showViewCount\":true,\"hasContent\":true,\"hasOriginalPdf\":null,\"hasAIProcessed\":false,\"hasClauseRelation\":null,\"aiResults\":[]}"
+   }
+  }
+ ]
+}

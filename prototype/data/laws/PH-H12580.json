@@ -1,0 +1,62 @@
+{
+ "id": "PH-H12580",
+ "title": {
+  "zh": null,
+  "en": "Acts No. 1871  An Act Making Available for Expenditure During the Fiscal Year Nineteen Hundred and Nine and thereafter, the Balance Remaining From Funds Appropriated By Act Numbered Sixteen Hundred and thirty-Two, for Examinations for Scholarships in the Philippine Medical School.",
+  "orig": "Acts No. 1871  An Act Making Available for Expenditure During the Fiscal Year Nineteen Hundred and Nine and thereafter, the Balance Remaining From Funds Appropriated By Act Numbered Sixteen Hundred and thirty-Two, for Examinations for Scholarships in the Philippine Medical School."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1908-06-19",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 1871",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 735,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (HTML full text only)  |  https://lawphil.net/statutes/acts/act1908/act_1871_1908.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_01871_1908_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_01871_1908_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12580-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The unexpended balance of the amount appropriated by section four of Act Numbered Sixteen\nhundred and thirty-two for the holding of a competitive examination on June first, nineteen hundred and\nseven, for scholarships in the Philippine Medical School, is hereby made available for carrying out the\npurposes of section three of Act Numbered Sixteen hundred and thirty-two in the fiscal year ending June\nthirtieth, nineteen hundred and nine, and thereafter; said balance shall be expended by the Bureau of\nEducation under the same general conditions as are the amounts appropriated for the education and\nmaintenance of Philippine Government students in the United States."
+   }
+  },
+  {
+   "id": "PH-H12580-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, June 19, 1908."
+   }
+  }
+ ]
+}

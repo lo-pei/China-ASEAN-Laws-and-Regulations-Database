@@ -1,0 +1,62 @@
+{
+ "id": "PH-H22981",
+ "title": {
+  "zh": null,
+  "en": "Amending Section 192 (3) of the National Internal Revenue",
+  "orig": "Amending Section 192 (3) of the National Internal Revenue"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1980-01-28",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 1671",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 2196,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_01671_1980_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_01671_1980_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22981-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Sec 1"
+   },
+   "text": {
+    "en": "Section 192 (3) of the National Internal Revenue Code of 1977, as amended by Presidential Decree\nNo. 1617 is hereby amended by adding two new paragraphs after paragraph (oo) as follows:\n\"(pp) Dealers of gasoline and/or petroleum products shall be subject to an annual fixed tax as follows:\n1\nClass \"A\" service stations\n2\nClass \"B\" service stations\n6,000\n3\nClass \"C\" service stations\n3,000\n4\nFiling Stations\n1,000\n5\n500\nFor the above purposes, gasoline stations shall be defined as follows:\nService Station petroleum products retail outlet with a building and driveway located on premises near or\n\nabutting a street or highway where gasoline, kerosene, diesel, lubricants and any of their derivatives including\ncar care products may be dispensed and sold and car care services rendered to motorists and the general\nFilling Station petroleum retail outlet with building, driveway and pump island. Its business is generally\nconfined to the sale of gasoline, kerosene, diesel, lubricants and any of their derivatives. It includes marine\noutlets, whether mobile or stationery.\nCrub Pumps petroleum products retail outlet which generally has no separate building and driveway and\noffers no other services except to sell gasoline, kerosene, diesel, lubricants and any of their derivatives. Filling\nof the customer's vehicle or a purchaser's receptacle is done at the curb side of a road.\nService stations are further classified into class A, B and C with following general description:\nClass \"A\" 1501 or more\n1\nClass \"C\" 1000 or less\n1\n\"(qq) Dealers of liquified petroleum gas, six thousand pesos, if the annual sales during the preceding year\nexceeds 1,200,000 kilograms; four thousand pesos if the sales exceeds 900,000 kilograms but does not exceed\n1,200,000 kilograms; two thousand pesos if the sales exceeds 600,000 kilograms but does not exceed 900,000\nkilograms; one thousand pesos if the sales exceed 300,000 kilograms but does not exceed 600,000 kilograms;\nand five hundred pesos if the sales does not exceed 300,000 kilograms.\""
+   }
+  },
+  {
+   "id": "PH-H22981-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Sec 2"
+   },
+   "text": {
+    "en": "This Decree shall take effect beginning calendar year 1980.\nDONE in the City of Manila, this 28th day of January in the year of Our Lord, nineteen hundred and eighty."
+   }
+  }
+ ]
+}

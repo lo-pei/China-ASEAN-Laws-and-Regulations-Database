@@ -1,0 +1,62 @@
+{
+ "id": "PH-H14203",
+ "title": {
+  "zh": null,
+  "en": "An Act to Change the Names of Certain streets of the Municipality of Tayabas, Province of Tayabas.",
+  "orig": "An Act to Change the Names of Certain streets of the Municipality of Tayabas, Province of Tayabas."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1929-11-26",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3570",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 930,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1929/act_3570_1929.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03570_1929_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03570_1929_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14203-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The following changes in the names of streets are hereby made in the municipality of Tayabas,\nProvince of Tayabas: Mercado to be changed to Luis Palad, San Jose to General Luna, Aviles to Emilio\nJacinto, Bilibid to Apolinario Mabini, Rosello to Pedro A. Paterno, Rosario to Padre Burgos, Concepcion to\nAmbrosio Flores, Camba to Padre Gomez, Angustias to Marcelo H. del Pilar, Carmen to Apolinario de la\nCruz, Municipal to Dr. Jose Rizal, Leon XIII to Andres Bonifacio, San Isidro to Antonio M. Regidor, San\nFrancisco to Francisco Baltazar, Cortada to Lopez Jaena, San Pedro to Padre Zamora, San Juan to Juan Luna,\nSan Pablo to General Malvar, San Roque to Gregorio del Pilar, Asuncion to Jose Panganiban, La O to\nMariano Ponce, San Miguel to Enrique Paraiso, San Diego to Diego Urbano, Diego Urbano to Filemon E.\nPerez, and Gardiner to Edilberto Evangelista."
+   }
+  },
+  {
+   "id": "PH-H14203-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, November 26, 1929."
+   }
+  }
+ ]
+}

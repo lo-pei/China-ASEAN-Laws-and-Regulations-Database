@@ -1,0 +1,62 @@
+{
+ "id": "PH-H21857",
+ "title": {
+  "zh": null,
+  "en": "Further Amending Presidential Decree No. 333, DatedNovember 26, 1973, as Amended By Presidential Decree Nos. 343 and 368",
+  "orig": "Further Amending Presidential Decree No. 333, DatedNovember 26, 1973, as Amended By Presidential Decree Nos. 343 and 368"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p159",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1974-03-19",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 416",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 675,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_00416_1974_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_00416_1974_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H21857-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section 1 is hereby amended as follows:\n\"Sec. 1. Any provision of existing law, executive or administrative order, or rule or regulation to the contrary\nnotwithstanding, the importation, free from customs duties, or kerosene, diesels, liquified petroleum gas, fuel\noil, aviation-turbo fuel, aviation gas, and other processed products as may be determined by the President\nupon certification of the Philippine National Oil Industry Commission shall be allowed until 30 June 1974\nunless sooner terminated by the President.\""
+   }
+  },
+  {
+   "id": "PH-H21857-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This decree shall take effect immediately.\nDone in the City of Manila, this 19th day of March, in the year of Our Lord, nineteen hundred and\nseventy-four."
+   }
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "id": "PH-H21064",
+ "title": {
+  "zh": null,
+  "en": "Amending Regulation No. 33 (A) of Letter of Implementation No.",
+  "orig": "Amending Regulation No. 33 (A) of Letter of Implementation No."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p159",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1982-05-21",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Executive Order No. 802",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 567,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/07_行政命令_EO/EO_00802_1982_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 EO_00802_1982_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H21064-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Sec 1"
+   },
+   "text": {
+    "en": "Regulation No. 33(a) of Letter of Implementation No. 23, as amended, is hereby further amended to\nread as follows:\n\"Regulation No. 33 Disqualifications. Members under any of the following circumstances are disqualified to\nbe voted upon to the position of director or committee member or continue as such in any Kilusang Bayan:\n(a) Holding any elective position in the government except barangay captains and councilmen."
+   }
+  },
+  {
+   "id": "PH-H21064-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Sec 2"
+   },
+   "text": {
+    "en": "This order shall take effect immediately.\nDone in the City of Manila this 21st day of May, in the year of Our Lord, nineteen hundred and eighty-two."
+   }
+  }
+ ]
+}

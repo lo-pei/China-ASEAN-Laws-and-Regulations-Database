@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13912",
+ "title": {
+  "zh": null,
+  "en": "An Act to Appropriate the Sum of Two Hundred thousand Pesos for Aid to the Provinces of Batangas, Tayabas, Laguna, and Cavite for the Repair or Reconstruction of Public Works Damaged By the Recent Typhoon",
+  "orig": "An Act to Appropriate the Sum of Two Hundred thousand Pesos for Aid to the Provinces of Batangas, Tayabas, Laguna, and Cavite for the Repair or Reconstruction of Public Works Damaged By the Recent Typhoon"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1926-11-19",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3277",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 504,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1926/act_3277_1926.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03277_1926_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03277_1926_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13912-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "There is hereby appropriated out of any funds in the Insular Treasury not otherwise appropriated\nthe sum of two hundred thousand pesos as aid to the Provinces of Batangas, Tayabas, Laguna, and Cavite for\nthe repair or reconstruction of public works damaged by the typhoon of November six, nineteen hundred and\ntwenty-six, to be distributed by the Secretary of Commerce and Communications with the approval of the\nGovernor-General."
+   }
+  },
+  {
+   "id": "PH-H13912-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, November 19, 1926."
+   }
+  }
+ ]
+}

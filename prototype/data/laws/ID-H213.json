@@ -1,0 +1,554 @@
+{
+ "id": "ID-H213",
+ "title": {
+  "zh": "地方企业法",
+  "en": "Law on Regional Enterprises",
+  "id": "PERUSAHAAN DAERAH.",
+  "orig": "PERUSAHAAN DAERAH.",
+  "vi": "Luật về Doanh nghiệp Địa phương",
+  "th": "พระราชบัญญัติว่าด้วยรัฐวิสาหกิจท้องถิ่น",
+  "ms": "Akta tentang Perusahaan Daerah"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02a",
+ "language": "id",
+ "level": "law",
+ "category": "04_劳工与行政法",
+ "status": "active",
+ "promulgatedDate": "1962",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "-",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 32,
+ "chars": 51590,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": null
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\04_劳工与行政法\\印尼_WLD_1962_PERUSAHAAN DAERAH..txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 32 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H213-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 1.\nDalam Undang-undang ini Yang dimaksudkan dengan:\na. Daerah, ialah Daerah Swatantra Yang berhak mengatur dan\nmengurus rumah tangganya sendiri berdasarkan Undang-undang No. 1\ntahun\n1957 tentang Pokok-pokok Pemerintahan Daerah jis\nPenetapan-penetapan Presiden No. 6 tahun 1959 (disempurnakan), No.\n5 tahun 1960\n(disempurnakan), No. 2 tahun 1961 dan No. 1 tahun\n1962;\nb. Pemerintah Daerah, ialah Pemerintah Daerah seperti yang\ndimaksud dalam Penetapan Presiden No. 6 tahun 1959 (disempurnakan)\ndan\nNo. 1 tahun 1962;\nc. Kepala Daerah, ialah Kepala Daerah Swatantra termaksud pada sub\na;\nd. Instansi atasan, ialah:\n1. Presiden bagi Daerah Khusus Ibukota Jakarta Raya;\n2. Menteri Dalam Negeri dan Otonomi Daerah bagi Daerah tingkat\nI;\n3. Kepala Daerah tingkat I bagi daerah tingkat II."
+   }
+  },
+  {
+   "id": "ID-H213-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 2.\nDalam Undang-undang ini yang dimaksudkan dengan Perusahaan\nDaerah ialah semua perusahaan yang didirikan berdasarkan\nUndang-undang\nini yang modalnya untuk seluruhnya atau untuk\nsebagian merupakan kekayaan Daerah yang dipisahkan, kecuali jika\nditentukan lain dengan\natau berdasarkan Undang-undang."
+   }
+  },
+  {
+   "id": "ID-H213-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 3.\nDengan tidak mengurangi ketentuan dalam Undang-undang ini serta\nperaturan pelaksanaannya, maka terhadap badan hukum yang\ndimaksudkan\ndalam Undang-undang ini berlaku segala macam hukum\nIndonesia yang tidak bertentangan dengan Sosialisme Indonesia."
+   }
+  },
+  {
+   "id": "ID-H213-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 4.\n(1) Perusahaan Daerah didirikan dengan Peraturan Daerah atas\nkuasa Undang-undang ini.\n(2) Perusahaan Daerah termaksud pada ayat (1) adalah badan hukum\nyang kedudukannya sebagai badan hukum diperoleh dengan berlakunya\nPeraturan Daerah tersebut.\n(3) Peraturan Daerah termaksud pada ayat (1) mulai berlaku setelah\nmendapat pengesahan instansi atasan.\nBAB II\nSIFAT, TUJUAN DAN LAPANGAN USAHA."
+   }
+  },
+  {
+   "id": "ID-H213-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 5.\n(1) Perusahaan Daerah adalah suatu kesatuan produksi yang\nbersifat :\na. memberi jasa.\nb. menyelenggarakan kemanfaatan umum,\nc. memupuk pendapatan.\n(2) Tujuan Perusahaan Daerah ialah untuk turut serta\nmelaksanakan pembangunan Daerah khususnya dan pembangunan ekonomi\nnasional umumnya\ndalam rangka ekonomi terpimpin untuk memenuhi\nkebutuhan rakyat dengan mengutamakan industrialisasi dan\nketenteraman serta kesenangan\nkerja dalam perusahaan, menuju\nmasyarakat yang adil dan makmur.\n(3) Perusahaan Daerah bergerak dalam lapangan yang sesuai dengan\nurusan rumah tangganya menurut peraturan-peraturan yang mengatur\npokok-pokok Pemerintahan Daerah.\n(4) Cabang-cabang produksi yang penting bagi Daerah dan yang\nmenguasai hajat hidup orang banyak di Daerah yang bersangkutan\ndiusahakan\noleh Perusahaan daerah yang modalnya untuk seluruhnya\nmerupakan kekayaan Daerah yang dipisahkan."
+   }
+  },
+  {
+   "id": "ID-H213-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 6.\n(1) Dalam melaksanakan tujuannya termaksud dalam pasal 5 ayat\n(2) Perusahaan Daerah bekerja sama dengan Perusahaan Negara,\nkoperasi\ndan swasta.\n(2) Dalam hal lapangan usaha Perusahaan Daerah ada hubungannya\ndengan lapangan usaha koperasi kepada koperasi diberikan\npengutamaan.\nBAB III\nMODAL"
+   }
+  },
+  {
+   "id": "ID-H213-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 7.\n(1) Modal Perusahaan Daerah terdiri untuk seluruhnya atau untuk\nsebagian dari kekayaan Daerah yang dipisahkan.\n(2) a. Modal Perusahaan Daerah yang untuk seluruhnya terdiri dari\nkekayaan satu Daerah yang dipisahkan tidak terdiri atas\nsaham-saham.\nb. Apabila modal Perusahaan Daerah termaksud sub a diatas terdiri\natas kekayaan beberapa Daerah yang dipisahkan modal perusahaan\nitu\nterdiri atas saham-saham.\n(3) Modal Perusahaan Daerah yang untuk sebagian terdiri dari\nkekayaan Daerah yang dipisahkan terdiri atas saham-saham.\n(4) Semua alat liquide disimpan dalam bank yang ditunjuk oleh\nKepala Daerah yang bersangkutan berdasarkan petunjuk- petunjuk\nMenteri\nKeuangan.\nBAB IV\nSAHAM-SAHAM"
+   }
+  },
+  {
+   "id": "ID-H213-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 8.\n(1) Saham-saham Perusahaan Daerah terdiri atas saham-saham\nprioritet dan saham-saham biasa.\n(2) Saham-saham prioritet hanya dapat dimiliki oleh Daerah.\n(3) Saham-saham biasa dapat dimiliki oleh Daerah, warga negara\nIndonesia dan/atau badan hukum yang didirikan berdasarkan\nUndang-undang\nIndonesia dan yang pesertanya terdiri dari warga\nnegara Indonesia.\n(4) Besarnya jumlah nominal dari saham-saham prioritet dan\nsaham-saham biasa ditetapkan dalam peraturan pendirian Perusahaan\nDaerah.\n(5) Pembayaran saham-saham dengan \"goodwill\" tidak\ndiperbolehkan."
+   }
+  },
+  {
+   "id": "ID-H213-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 9.\n(1) Saham-saham dikeluarkan \"atas nama\".\n(2) Saham-saham dapat dipindah-tangankan dengan ketentuan, bahwa\nsaham-saham prioritet hanya dapat dipindah-tangankan kepada\nDaerah.\n(3) Hak, wewenang dan kekuasaan pemegang saham/saham prioritet\ndilakukan oleh Kepala Daerah yang bersangkutan.\n(4) Ketentuan-ketentuan mengenai-pendaftaran penggantian,\npemindahan, administrasi dan lain-lain yang berhubungan dengan\npengeluaran\nsaham diatur dalam peraturan pendirian Perusahaan\nDaerah."
+   }
+  },
+  {
+   "id": "ID-H213-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 10.\nSetiap saham berhak atas satu suara.\nBAB V\nPENGUASAAN DAN CARA MENGURUS."
+   }
+  },
+  {
+   "id": "ID-H213-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 11.\n(1) Perusahaan Daerah dipimpin oleh suatu Direksi yang jumlah\nanggota dan susunannya ditetapkan dalam peraturan pendiriannya.\n(2) Anggota Direksi adalah warga negara Indonesia yang diangkat\ndan diperhentikan oleh Kepala Daerah setelah mendengar pertimbangan\nDewan Perwakilan Rakyat Daerah dari Daerah yang mendirikan\nPerusahaan Daerah :\na. bagi Perusahaan Daerah yang modalnya untuk seluruhnya terdiri\ndari kekayaan Daerah yang dipisahkan;\nb. bagi Perusahaan Daerah yang modalnya untuk sebagian terdiri\ndari kekayaan Daerah yang dipisahkan atas usul pemegang saham/saham\nprioritet.\n(3) Pengangkatan termaksud pada ayat (2) dilakukan untuk waktu\nselama-lamanya 4 tahun. Setelah waktu itu berakhir anggota yang\nbersangkutan\ndapat diangkat kembali."
+   }
+  },
+  {
+   "id": "ID-H213-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 12.\n(1) Anggota Direksi berhenti karena meninggal dunia, atau dapat\ndiberhentikan oleh Kepala Daerah yang mengangkatnya,\nkarena :\na. permintaannya sendiri;\nb. berakhirnya masa sebagai anggota Direksi termaksud dalam pasal\n11 ayat (3);\nc. tindakan yang merugikan Perusahaan Daerah;\nd. tindakan atau sikap yang bertentangan dengan kepentingan Daerah\nmaupun kepentingan Negara.\n(2) Pemberhentian karena alasan tersebut pada ayat (1) huruf c dan\nhuruf d, dilakukan setelah permufakatan antara pemegang saham/saham\nprioritet dan jika merupakan suatu pelanggaran dari peraturan hukum\npidana merupakan pemberhentian tidak dengan hormat.\n(3) Sebelum pemberhentian karna alasan tersebut pada ayat (1)\nhuruf c dan huruf d dilakukan anggota Direksi yang bersangkutan\ndiberi\nkesempatan untuk membela diri, hal mana harus dilaksanakan\ndalam waktu satu bulan setelah anggota Direksi yang bersangkutan\ndiberitahukan\ntentang niat akan memperhentikan itu oleh Kepala\nDaerah termaksud pada ayat (1).\n(4) Selama persoalan tersebut pada ayat (3) belum diputus, maka\nKepala Daerah termaksud pada ayat (1) pasal ini dapat\nmemperhentikan\nuntuk sementara waktu anggota Direksi yang\nbersangkutan.\nJika dalam waktu dua bulan setelah pemberhentian sementara\ndijatuhkan belum ada keputusan mengenai pemberhentian anggota\nDireksi berdasarkan\nayat (2), maka pemberhentian sementara itu\nmenjadi batal dan anggota Direksi yang bersangkutan dapat segera\nmenjalankan jabatannya\nlagi, kecuali bilamana untuk keputusan\npemberhentian tersebut diperlukan keputusan pengadilan, dan hal itu\nharus diberitahukan kepada\nyang bersangkutan."
+   }
+  },
+  {
+   "id": "ID-H213-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 13.\n(1) Antara anggota Direksi tidak boleh ada hubungan keluarga\nsampai derajat ketiga baik menurut garis lurus maupun garis\nkesamping\ntermasuk menantu dan ipar, kecuali jika untuk kepentingan\nperusahaan diizinkan oleh Kepala Daerah/pemegang saham/saham\nprioritet.\nJika sesudah pengangkatan mereka masuk periparan Yang terlarang\nitu, maka untuk dapat melanjutkan jabatannya diperlukan izin Kepala\nDaerah/pemegang saham/saham prioritet.\n(2) Anggota Direksi tidak boleh mempunyai kepentingan pribadi\nlangsung atau tidak langsung pada perkumpulan/perusahaan lain yang\nberusaha dalam lapangan yang bertujuan mencari laba.\n(3) Anggota Direksi tidak boleh merangkap jabatan lain, kecuali\ndengan izin Kepala Daerah/pemegang saham/saham prioritet."
+   }
+  },
+  {
+   "id": "ID-H213-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 14.\n(1) Direksi mewakili Perusahaan Daerah didalam dan diluar\npengadilan.\n(2) Direksi dapat menyerahkan kekuasaan mewakili tersebut pada\nayat (1) kepada seorang anggota Direksi yang khusus ditunjuk untuk\nitu atau kepada seorang/beberapa orang pengawas Perusahaan Daerah\ntersebut, baik sendiri maupun bersama-sama, atau kepada orang/badan\nlain."
+   }
+  },
+  {
+   "id": "ID-H213-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 15.\n(1) Direksi menentukan kebijaksanaan dalam pimpinan Perusahaan\nDaerah.\n(2) Direksi mengurus dan menguasai kekayaan perusahaan Daerah.\n(3) Tata-tertib dan cara menjalankan pekerjaan Direksi diatur\ndalam peraturan Yang ditetapkan oleh Direksi."
+   }
+  },
+  {
+   "id": "ID-H213-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 16.\nKetentuan mengenal pembatasan kekuasaan Direksi diatur dalam\nperaturan pendirian Perusahaan Daerah."
+   }
+  },
+  {
+   "id": "ID-H213-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 17.\nDitiap Perusahaan Daerah dibentuk Dewan Perusahaan Daerah yang\ndiatur lebih lanjut dengan Peraturan Pemerintah.\nBAB VI\nRAPAT PEMEGANG SAHAM."
+   }
+  },
+  {
+   "id": "ID-H213-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 18.\n(1) Tata-tertib rapat pemegang saham/saham prioritet dan rapat\numum pemegang saham (prioritet dan biasa) diatur dalam peraturan\npendirian\nPerusahaan Daerah.\n(2) Keputusan dalam rapat pemegang saham/saham prioriteit dan\nrapat umum pemegang saham (prioritet dan biasa) diambil dengan kata\nmufakat.\n(3) Jika kata mufakat termaksud pada ayat (2) tidak tercapai maka\npendapat-pendapat yang dikemukakan dalam musyawarah disampaikan\nkepada Kepala Daerah dari Daerah yang mendirikan Perusahaan\nDaerah.\n(4) Kepala Daerah termaksud pada ayat (3) mengambil keputusan\ndengan memperhatikan pendapat-pendapat termaksud.\nBAB VII.\nPENGAWASAN."
+   }
+  },
+  {
+   "id": "ID-H213-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB VII."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 19.\nDireksi berada di bawah pengawasan Kepala Daerah/pemegang\nsaham/saham prioritet atau badan yang ditunjuknya.\nBAB VIII.\nTANGGUNG-JAWAB DAN TUNTUTAN\nGANTI RUGI PEGAWAI."
+   }
+  },
+  {
+   "id": "ID-H213-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB VIII."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 20.\n(1) Semua pegawai Perusahaan Daerah, termasuk anggota Direksi\ndalam kedudukan selaku demikian, yang tidak dibebani tugas\npenyimpanan\nuang, surat-surat berharga dan barang-barang\npersediaan, yang karena tindakan melawan hukum atau karena\nmelalaikan kewajiban dan\ntugas yang dibebankan kepada mereka dengan\nlangsung atau tidak langsung telah menimbulkan kerugian bagi\nPerusahaan Daerah, diwajibkan\nmengganti kerugian tersebut.\n(2) Ketentuan-ketentuan tentang tuntutan ganti rugi terhadap\npegawai Daerah berlaku sepenuhnya terhadap pegawai Perusahaan\nDaerah.\n(3) Semua pegawai Perusahaan Daerah yang dibebani tugas\npenyimpanan pembayaran atau penyerahan uang dan surat-surat\nberharga milik\nPerusahaan Daerah dan barang-barang persediaan milik\nPerusahaan Daerah yang disimpan di dalam gudang atau tempat\npenyimpanan yang\nkhusus dan semata-mata digunakan untuk keperluan\nitu diwajibkan memberikan pertanggungan-jawab tentang pelaksanaan\ntugasnya kepada\nbadan yang ditunjuk oleh Kepala Daerah/pemegang\nsaham/saham prioritet.\n(4) Pegawai termaksud pada ayat (3) tidak perlu mengirimkan\npertanggungan-jawab mengenai cara mengurusnya kepada badan\ndimaksudkan\npada ayat (3).\nTuntutan terhadap pegawai tersebut dilakukan menurut ketentuan\nyang ditetapkan bagi pegawai bendaharawan Daerah.\n(5) Semua surat bukti dan surat lainnya bagaimanapun juga sifatnya\nyang termaksud bilangan tata-buku dan administrasi Perusahaan\nDaerah disimpan di tempat masing-masing Perusahaan Daerah atau di\ntempat lain yang ditunjuk oleh Kepala Daerah/pemegang saham/saham\nprioritet, kecuali jika untuk sementara dipindahkan ke badan\ndimaksudkan pada ayat (3) dalam hal dianggapnya perlu untuk\nkepentingan\nsesuatu pemeriksaan.\n(6) Untuk keperluan pemeriksaan bertalian dengan penetapan pajak\ndan kontrole akuntan pada umumnya surat bukti dan surat lainnya\ntermaksud pada ayat (5) untuk sementara dapat dipindahkan ke\nJawatan Akuntan Negara.\n(7) Dengan Peraturan Daerah dapat ditetapkan penyimpangan dari\nketentuan mengenai tata cara tuntutan ganti rugi yang berlaku bagi\npegawai Daerah dan pegawai termaksud pada ayat (3) yang disesuaikan\ndengan struktur organisasi Perusahaan Daerah itu sendiri.\nPeraturan Daerah termaksud berlaku setelah mendapat pengesahan\ninstansi atasan.\nBAB IX.\nTAHUN BUKU."
+   }
+  },
+  {
+   "id": "ID-H213-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB IX."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 21.\nTahun buku adalah tahun takwim.\nBAB X.\nANGGARAN PERUSAHAAN."
+   }
+  },
+  {
+   "id": "ID-H213-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB X."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 22.\n(1) Selambat-lambatnya tiga bulan sebelum tahun buku baru mulai\nberlaku, maka oleh Direksi dikirimkan anggaran Perusahaan untuk\ndimintakan\npersetujuan dari Kepala Daerah/pemegang saham/saham\nprioritet setelah mendengar pertimbangan Dewan Perusahaan\nDaerah.\n(2) Kecuali apabila Kepala Daerah/pemegang saham/saham prioritet\nmengemukakan keberatan atau menolak proyek yang dimuat didalam\nanggaran Perusahaan itu sebelum menginjak tahun buku baru, maka\nanggaran tersebut berlaku sepenuhnya.\n(3) Anggaran tambahan atau perubahan anggaran yang terjadi dalam\ntahun buku yang bersangkutan harus mendapat persetujuan lebih\ndahulu\ndari Kepala Daerah/pemegang saham/saham prioritet setelah\nmendengar pertimbangan Dewan Perusahaan Daerah.\nBAB XI\nLAPORAN PERHITUNGAN HASIL USAHA BERKALA\nDAN KEGIATAN PERUSAHAAN"
+   }
+  },
+  {
+   "id": "ID-H213-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 23.\nLaporan perhitungan hasil usaha berkala dan kegiatan Perusahaan\ndikirimkan oleh Direksi kepada Kepala Daerah/pemegang saham/saham\nprioritet menurut cara dan waktu yang ditentukan dalam peraturan\npendirian Perusahaan Daerah.\nBAB XII\nLAPORAN PERHITUNGAN TAHUNAN."
+   }
+  },
+  {
+   "id": "ID-H213-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 24.\n(1) Untuk tiap tahun buku oleh Direksi dikirimkan perhitungan\ntahunan terdiri dari neraca dan perhitungan laba-rugi kepada Kepala\nDaerah/pemegang saham/saham prioritet menurut cara dan waktu yang\nditentukan dalam peraturan pendirian Perusahaan Daerah.\n(2) Cara penilaian pos dalam perhitungan tahunan harus\ndisebutkan.\n(3) Jika dalam waktu yang ditentukan dalam peraturan pendirian\nPerusahaan Daerah perhitungan tahunan oleh Kepala Daerah/pemegang\nsaham/saham perioritet tidak diajukan keberatan tertulis, maka\nperhitungan tahunan itu dianggap telah disahkan\n(4) Perhitungan tahunan termaksud pada ayat (1) disahkan oleh\nKepala Daerah/pemegang saham/saham prioritet; pengesahan termaksud\nmemberi kebebasan kepada Direksi terhadap segala sesuatu yang\ntermuat dalam perhitungan tahunan tersebut.\nBAB XIII.\nPENETAPAN DAN PENGGUNAAN LABA SERTA\nPEMBERIAN JASA PRODUKSI."
+   }
+  },
+  {
+   "id": "ID-H213-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB XIII."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 25.\n(1) Cadangan diam dan/atau rahasia tidak boleh diadakan.\n(2) Penggunaan laba bersih, setelah terlebih dahulu dikurangi\ndengan penyusutan, cadangan tujuan dan pengurangan lain yang wajar\ndalam perusahaan, ditetapkan sebagai berikut:\nA. Bagi Perusahaan Daerah yang modalnya untuk seluruhnya terdiri\ndari kekayaan Daerah yang dipisahkan.\na. untuk dana pembangunan Daerah 30%;\nb. untuk Anggaran Belanja Daerah 25%;\nc. untuk cadangan umum, sosial dan pendidikan, jasa produksi,\nsumbangan dana pensiun dan sokongan, yang besarnya masing-masing\nditentukan\ndalam peraturan pendirian masing-masing Perusahaan\nDaerah berjumlah 45%.\nDalam hal modal sesuatu Perusahaan Daerah untuk seluruhnya\nterdiri dari kekayaan beberapa Daerah yang dipisahkan, bagian laba\nbersih\ntermaksud sub a dan b di atas dibagi menurut perbandingan\nnilai nominal dari saham-saham.\nB. Perusahaan Daerah modalnya untuk sebagian terdiri dari\nkekayaan Daerah yang dipisahkan setelah dikeluarkan zakat yang\ndipandang\nperlu :\na. untuk dana pembangunan Daerah 8%, dan untuk Anggaran Belanja\nDaerah 7%;\nb. untuk pemegang saham 40% dibagi menurut perbandingan nilai\nnominal dari saham-saham;\nc. untuk cadangan umum, sosial dan pendidikan, jasa produksi,\nsumbangan dana pensiun dan sokongan, yang besarnya masing-masing\nditentukan\ndalam peraturan pendirian masing-masing Perusahaan\nDaerah berjumlah 45%.\n(3) Laba yang diperoleh Daerah baik dari saham prioritet maupun\nsaham biasa dapat dipergunakan untuk keperluan routine dan/atau\nkeperluan\npembangunan Daerah.\n(4) Penggunaan laba untuk cadangan umum bilamana telah tercapai\ntujuannya dapat dialihkan kepada penggunaan lain dengan keputusan\nPemerintah Daerah yang mendirikan Perusahaan Daerah.\n(5) Cara mengurus dan penggunaan dana penyusutan dan cadangan\ntujuan termaksud pada ayat (2) ditentukan oleh kepala\nDaerah/pemegang\nsaham/saham prioritet.\n(6) Diperusahaan Daerah yang tidak menghasilkan laba seperti\ntersebut diatas disebabkan karena pertimbangan dan kebijaksanaan\nPemerintah\nDaerah dapat juga diberi jasa produksi yang ditentukan\noleh Pemerintah Daerah.\n(7) Dengan Peraturan Daerah oleh Daerah Atasan dapat diserahkan\nlaba bersih untuk dana pembangunan Daerah termaksud pada ayat (2)\ndan (3) kepada Daerah bawahannya untuk pembangunan Daerah.\nBAB XIV\nKEPEGAWAIAN"
+   }
+  },
+  {
+   "id": "ID-H213-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB XIV"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 26.\n(1) Kedudukan hukum, gaji, pensiun dan sokongan serta\npenghasilan lain dari Direksi dan pegawai/pekerja Perusahaan Daerah\ndiatur dengan\nPeraturan Daerah yang berlaku setelah mendapat\npengesahan instansi atasan dengan memperhatikan ketentuan-ketentuan\npokok peraturan\ngaji Daerah yang berlaku.\n(2) Direksi mengangkat dan memperhentikan pegawai/pekerja\nPerusahaan Daerah menurut peraturan kepegawaian yang disetujui oleh\nKepala\nDaerah/pemegang saham/saham prioritet berdasarkan peraturan\npokok kepegawaian Perusahaan Daerah dimaksudkan pada ayat (1).\nBAB XV\nKONTROLE."
+   }
+  },
+  {
+   "id": "ID-H213-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB XV"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 27.\n(1) Dengan tidak mengurangi hak instansi atasan dan badan yang\nmenurut peraturan perundangan yang berlaku berwenang mengadakan\npenyelidikan\ndan pemeriksaan tentang segala sesuatu mengenai\npekerjaan mengurus rumah-tangga Daerah oleh Kepala Daerah/pemegang\nsaham/saham prioritet\nditunjuk badan yang mempunyai tugas dan\nkewajiban melakukan kontrole atas pekerjaan menguasai dan mengurus\nPerusahaan Daerah serta\npertanggungan-jawabannya.\nHasil kontrole disampaikan kepada Dewan Perwakilan Rakyat\nDaerah.\n(2) Jawatan Akuntan Negara berwenang melakukan kontrole atas\npekerjaan menguasai dan mengurus Perusahaan Daerah serta\npertanggungan-jawabnya.\nBAB XVI.\nPENYERAHAN KEPADA DAERAH DAN PEMINDAHAN\nKE TANGAN PERKUMPULAN KOPERASI."
+   }
+  },
+  {
+   "id": "ID-H213-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB XVI."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 28.\n(1) Pemerintah Daerah tingkat atasan dengan semufakat pemegang\nsaham dapat menyerahkan Perusahaan Daerah kepada Daerah tingkat\nbawahannya.\n(2) Pemerintah Daerah tingkat bawahan dengan semufakat pemegang\nsaham dapat menyerahkan Perusahaan Daerah kepada Daerah tingkat\natasan.\n(3) Pemerintah Daerah dengan semufakat pemegang saham dapat\nmemindahkan Perusahaan Daerah tertentu ke tangan perkumpulan\nkoperasi\ndi daerahnya.\n(4) Penyerahan dan pemindahan Perusahaan Daerah termaksud pada\nayat (1), ayat (2) dan ayat (3) dilakukan dengan Peraturan Daerah\nyang berlaku setelah mendapat pengesahan dari instansi atasan.\n(5) Pemerintah Daerah dapat mengikut sertakan perkumpulan koperasi\ndan atau perusahaan swasta di daerahnya dalam pembinaan dan\npenyelenggaraan\nPerusahaan Daerah tertentu.\nBAB XVII.\nPEMBUBARAN."
+   }
+  },
+  {
+   "id": "ID-H213-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB XVII."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 29.\n(1) Pembubaran Perusahaan Daerah dan penunjukan likwidaturnya\nditetapkan dengan Peraturan Daerah dari Daerah yang mendirikan\nPerusahaan\nDaerah dan yang berlaku setelah mendapat pengesahan\ninstansi atasan.\n(2) Semua kekayaan Perusahaan Daerah setelah diadakan likwidasi\ndibagi menurut perimbangan nilai nominal saham-saham.\n(3) Pertanggungan-jawab likwidasi oleh likwidasi dilakukan kepada\nPemerintah Daerah yang mendirikan Perusahaan Daerah dan yang\nmemberikan\npembebasan tanggung-jawab tentang pekerjaan yang telah\ndiselesaikannya.\n(4) Dalam hal likwidasi, Daerah termaksud pada ayat (1)\nbertanggung-jawab atas kerugian yang diderita oleh pihak ketiga\napabila\nkerugian itu disebabkan oleh karena neraca dan perhitungan\nlaba-rugi yang telah disahkan tidak menggambarkan keadaan\nperusahaan yang\nsebenarnya.\nBAB XVIII.\nPERALIHAN."
+   }
+  },
+  {
+   "id": "ID-H213-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB XVIII."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 30.\nSelama pendirian Perusahaan Daerah termaksud dalam Undang-undang\nini belum dilaksanakan, maka semua Perusahaan yang telah ada dan\nyang modalnya untuk seluruhnya atau sebagian merupakan kekayaan\nDaerah, dan yang telah tidak merupakan beban Anggaran Belanja\nDaerah,\ntetap melakukan tugas dan kewajibannya dengan kedudukan dan\nbentuk hukum yang dimilikinya secara sah, dengan ketentuan bahwa\ndalam\nwaktu selambat-lambatnya satu tahun setelah berlakunya\nUndang-undang ini, perusahaan-perusahaan termaksud harus didirikan\nberdasarkan\nUndang-undang ini, kecuali jika ditentukan lain dengan\natau berdasarkan Undang-undang.\nBAB XIX.\nKETENTUAN PENUTUP."
+   }
+  },
+  {
+   "id": "ID-H213-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB XIX."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 31.\nUndang-undang ini dapat disebut \"Undang-undang Perusahaan\nDaerah\"."
+   }
+  },
+  {
+   "id": "ID-H213-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB XIX."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 32.\nUndang-undang ini mulai berlaku pada hari diundangkan.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan\npengundangan Undang-undang ini dengan penempatan dalam\nLembaran-Negara\nRepublik Indonesia.\nDitetapkan di Jakarta,\npada tanggal 14 Pebruari 1962.\nPresiden Republik Indonesia,\nSUKARNO.\nDiundangkan di Jakarta,\npada tanggal 14 Pebruari 1962,\nSekretaris Negara,\nMOHD. ICHSAN.\nPENJELASAN\nATAS\nUNDANG-UNDANG No. 5 TAHUN 1962\nTENTANG\nPERUSAHAAN DAERAH.\nI. Penjelasan Umum.\n1. Dalam rangka pelaksanaan program umum Pemerintah dibidang\nekonomi sebagaimana digariskan dalam Manifesto Politik Republik\nIndonesia\ntanggal 17 Agustus 1959 yang selanjutnya telah diperkuat\ndengan Ketetapan Majelis Permusyawaratan Rakyat Sementara No.\nI/MPRS/1960,\nmaka dalam usaha mengadakan synkhronisasi dari pada\nsegala kegiatan ekonomi perlu ditinjau dan ditelaah kembali status\ndan organisasi\ndari Perusahaan Daerah dewasa ini.\nDalam rangka pemberian isi otonomi yang riil dan luas kepada\nDaerah-daerah dengan mengingat kemampuan Daerah masing-masing perlu\nditetapkan dasar-dasar untuk mendirikan Perusahaan Daerah. Hasil\nPerusahaan Daerah adalah salah satu dari pada pendapatan pokok dari\nDaerah.\nPerusahaan yang didirikan oleh Daerah dewasa ini pada umumnya\nmerupakan perusahaan yang tidak mengutamakan mencari keuntungan\nsemata-mata\nmelainkan khususnya ditujukan kepada terwujudnya fungsi\nsosialnya dari pada perusahaan itu terhadap penduduk daerah.\nSebagaimana dimaklumi, maka prinsip desentralisasi dalam\nPemerintahan sebagaimana ditetapkan dalam pasal 18 Undang-undang\nDasar\nmenghendaki agar daerah swatantra yang dibentuk itu dapat\nmengatur dan mengurus rumah-tangganya sendiri dengan\nsebaik-baiknya.\nUntuk dapat melaksanakan maksud tersebut, maka diperlukan adanya\nsumber-sumber keuangan yang memberikan cukup kemampuan dan kekuatan\nkepada daerah swatantara tersebut.\nBerhubung dengan itu, maka selain perusahaan yang mengutamakan\nkemanfaatan umum, maka sewajarnya daerah dapat pula mendirikan\nperusahaan\nyang khusus dimaksudkan untuk menambah penghasilan\ndaerah disamping tujuan utama untuk mempertinggi produksi.\nPerusahaan Daerah bergerak dalam lapangan yang sesuai dengan\nurusan rumah-tangganya menurut peraturan perundangan yang mengatur\npokok-pokok Pemerintahan Daerah.\nTitik berat dari semua kegiatan Perusahaan Daerah harus ditujukan\nkearah pembangunan daerah khususnya dan pembangunan ekonomi\nnasional\numumnya dalam rangka ekonomi terpimpin untuk memenuhi\nkebutuhan rakyat dengan mengutamakan industrialisasi dan\nketentraman serta\nkesenangan kerja dalam perusahaan menuju\nmasyarakat adil dan makmur. Cabang produksi yang penting dan yang\nvital bagi Daerah dan\nyang menguasai hajat hidup orang banyak\ndidaerah yang bersangkutan diusahakan oleh Perusahaan Daerah dengan\nmodal yang untuk seluruhnya\nadalah modal Daerah yang bersangkutan.\nOleh karena itu, maka sebagian dari laba yang diperoleh Perusahaan\nDaerah harus disediakan\nbagi dana pembangunan daerah yang\nbersangkutan. Guna kepentingan pembangunan daerah, maka segala\nfunds and forces dari masyarakat\nperlu dimobilisir, dan berhubung\ndengan itu, Koperasi, swasta harus pula diajak ikut serta dengan\naktip dalam pendirian Perusahaan\nDaerah dan dalam hal lapangan\nusaha Perusahaan Daerah ada hubungannya dengan lapangan usaha\nKoperasi, maka Koperasi termaksud mendapat\nperlakuan yang khusus\nsesuai dengan kepentingannya. Perlu kiranya dikemukakan disini,\nbahwa dalam menyusun Undang-undang Perusahaan\nDaerah ini\ndiperhatikan pokok-pokok pikiran seperti berikut.\nPada dasarnya suatu Perusahaan Daerah adalah perusahaan yang\nmodalnya untuk seluruhnya terdiri dari kekayaan Daerah yang\ndipisahkan.\nHal ini berarti bahwa Perusahaan Daerah termaksud sepenuhnya\ndikuasai oleh Pemerintah Daerah.\nDalam rangka pengerahan funds and forces sesuai dengan Ketetapan\nM.P.R.S., maka perlu diberikan kemungkinan ikut sertanya\nfihak-fihak\nlain yang progresip dalam Perusahaan Daerah tertentu\ndengan tidak meninggalkan pokok pikiran tersebut diatas, yaitu\nperusahaan termaksud\nadalah Perusahaan Daerah yang sepenuhnya\ndikuasai oleh Pemerintah Daerah.\nBerhubungan dengan itu, maka dalam Undang-undang ini ditetapkan\nbahwa modal Perusahaan Daerah yang untuk sebagian terdiri dari\nkekayaan\nDaerah yang dipisahkan terbagi atas saham-saham prioritet\ndan saham-saham biasa.\nKetentuan ini adalah berlainan dengan perusahaan campuran yang\ndikenal dewasa ini, yaitu perusahaan yang didirikan oleh beberapa\nfihak berdasarkan Kitab Undang-undang Hukum Perdata.\nPerusahaan campuran yang demikian ini tidak diatur dalam\nUndang-undang ini, melainkan dapat dibentuk oleh fihak-fihak yang\nbersangkutan\nberdasarkan Kitab Undang-undang Hukum Perdata\ntermaksud diatas.\nPerusahaan Daerah yang telah ada didirikan berdasarkan peraturan\nperundangan yang lama perlu ditinjau dan diatur kembali berdasarkan\nUndang-undang ini, agar dengan demikian didapat keseragaman dalam\ncara mengurus dan menguasai serta bentuk hukum dari Perusahaan\nDaerah.\nMaka dari itu juga untuk selanjutnya dimaksudkan agar supaya\nmanakala Daerah mendirikan Perusahaan Daerah yang berbentuk badan\nhukum\ndengan kekayaan Daerah yang dipisahkan tidak lagi\nmempergunakan bentuk hukum yang lain.\nDalam meninjau dan menelaah status dan organisasi Perusahaan\nDaerah pada dewasa ini perlu diperhatikan hal-hal sebagai\nberikut:\na. Dasar daya guna dalam perusahaan;\nb. Dasar \"price and accounting system\" dengan memperhatikan motief\nyang berdasarkan sosialisme Indonesia;\nc. Ketenteraman dan kesenangan kerja dalam Perusahaan supaya dapat\nterpelihara sebaik-baiknya;\nd. Perkumpulan Koperasi dan fihak Swasta dapat diikut-sertakan\ndalam pembinaan dan penyelenggaraan Perusahaan Daerah;\ne. Sistim ekonomi terpimpin dapat dilaksanakan supaya segala\nkegiatan ekonomi dapat diselenggarakan dalam rangka politik\nNegara.\n2. Guna melaksanakan maksud tersebut diatas, maka sebagai\npegangan pertama dalam mengatur Perusahaan Daerah dengan\nUndang-undang ini\nditetapkan, bahwa yang dimaksudkan dengan\nPerusahaan Daerah ialah semua perusahaan yang didirikan berdasarkan\nUndang-undang ini yang\nmodalnya untuk seluruhnya/sebagian merupakan\nkekayaan Daerah yang dipisahkan, kecuali jika ditentukan lain oleh\natau berdasarkan\nUndang-undang.\nDengan adanya ketentuan tersebut diatas, maka semua perusahaan\nyang didirikan berdasarkan Undang-undang ini baik yang modalnya\nberasal\ndari pemisahan Perusahaan Negara berdasarkan Undang-undang\nNo. 1 tahun 1957 dan No. 19 Prp. tahun 1960 kepala Daerah, adalah\nPerusahaan\nDaerah menurut Undang-undang ini.\nDalam Undang-undang ini ditetapkan, bahwa Perusahaan Daerah itu\nadalah suatu badan hukum berdasarkan Undang-undang ini.\nKedudukannya\nsebagai badan hukum diperoleh dengan berlakunya\nPeraturan Daerah yang mengatur pendirian Perusahaan Daerah\ntersebut.\nDengan adanya ketentuan termaksud diatas, maka semua Perusahaan\nDaerah yang ada dewasa ini yang dianggap perlu untuk dimasukkan\nkedalam struktur baru menurut Undang-undang ini, harus ditinjau dan\ndiatur kembali pendiriannya dengan Peraturan Daerah. Demikian\npula\ncara-cara menguasai dan mengurus Perusahaan, pertanggungan-jawab\nDireksi, pengawasannya dan sebagainya harus diatur dalam pendirian\nperusahaan tersebut dengan tidak boleh menyimpang dari\nketentuan-ketentuan pokok yang tercantum dalam Undang-undang\nini.\nApabila Perusahaan Daerah telah didirikan berdasarkan\nUndang-undang ini, maka modal perusahaan terdiri untuk seluruhnya\natau untuk\nsebagian atas kekayaan Daerah yang dipisahkan dari\nAnggaran Belanja Daerah tetapi tetap masuk neraca kekayaan\nDaerah.\nDengan ketentuan ini maka ditegaskan bahwa Perusahaan Daerah untuk\nselanjutnya dapat berdiri sendiri tanpa memberatkan lagi budget\nDaerah.\nModal Perusahaan Daerah yang untuk seluruhnya terdiri dari\nkekayaan satu Daerah tidak perlu terdiri atas saham-saham.\nApabila modal termaksud diatas merupakan kekayaan beberapa Daerah\nmaka modal perusahaan itu perlu terdiri atas saham-saham.\nSalah satu jalan yang dapat ditempuh untuk mengerahkan funds and\nforces dari masyarakat di Daerah ialah dengan mengikut-sertakan\nwarga negara Indonesia dan atau badan hukum yang didirikan\nberdasarkan Undang-undang Indonesia dan yang pesertanya terdiri\ndari warga\nnegara Indonesia dalam modal yang diperlukan untuk\nmendirikan Perusahaan Daerah. Berhubung dengan itu dalam\nUndang-undang ini dimuat\nketentuan bahwa modal Perusahaan Daerah\nyang untuk sebagian terdiri dari kekayaan Daerah yang dipisahkan\nterdiri atas saham-saham,\nyaitu saham-saham prioritet dan\nsaham-saham biasa.\nSaham-saham prioritet hanya dapat dimiliki oleh Daerah, baik\nDaerah tingkat I dan atau Daerah tingkat II.\nDengan adanya saham-saham prioritet ditangan Daerah, segala\nkegiatan, penguasaan dan pengurusan Perusahaan Daerah pada\nhakekatnya\nberada dibawah pimpinan dan pengawasan Kepala Daerah,\nyang oleh Undang-undang ini diberi wewenang untuk melakukan hak,\nwewenang dan\nkekuasaan pemegang saham prioritet.\nDalam melakukan hak, wewenang dan kekuasaan termaksud yang\nditetapkan lebih lanjut dalam pasal-pasal : 7 ayat (4), 9 ayat (3),\n11\nayat (2), 12 ayat (2) dan (4), 13 ayat (1) dan (2), 18 ayat (4),\n19, 20 ayat (3) dan (4), 22 ayat (1), (2) dan (3), 23, 24 ayat (1),\n(3) dan (4), 25 ayat (5), 26 ayat (2) dan 27 ayat (1), sesuai\ndengan ketentuan dalam pasal 16 Penetapan Presiden No. 6 tahun 1959\n(disempurnakan), Kepala Daerah dibantu oleh Badan Pemerintah Harian\nyang memberi pertimbangan kepada Kepala Daerah baik diminta maupun\ntidak ataupun menugaskannya kepada seorang anggota Badan Pemerintah\nHarian yang bertanggung-jawab kepada Kepala Daerah.\nNilai nominal dari saham-saham biasa hendaknya ditetapkan\nsedemikian agar menarik dan memberi kesempatan luas kepada rakyat\nbanyak\nuntuk memilikinya.\n3. Oleh karena pendirian Perusahaan Daerah menyangkut\nkepentingan yang lebih luas, yaitu dalam hubungannya dengan\npembangunan daerah\nyang sifatnya komplementer terhadap pembangunan\nnasional maka sesuai dengan sistim desentralisasi berdasarkan\nperaturan perundangan\nyang berlaku, dalam Undang-undang ini\nditegaskan, bahwa Peraturan Daerah yang mengatur tentang pendirian\nPerusahaan Daerah itu mulai\nberlaku setelah mendapat pengesahan\ninstansi atas.\nDengan pengawasan preventif ini, maka dapatlah diusahakan, bahwa\nsegala kegiatan dari Perusahaan Daerah itu disesuaikan dengan\npolitik\nekonomi Negara, dan dapat dicegah dilakukannya oleh Daerah\nusaha-usaha yang telah termasuk dalam bidang usaha yang\ndiselenggarakan\noleh Pemerintah Pusat.\nUntuk menjamin kelangsungan dan keseragaman dalam Penguasaan dan\npengurusan Perusahaan Daerah dalam Undang-undang ini ditentukan,\nbahwa Kepala Daerah/pemegang saham/saham prioritet dapat menunjuk\nbadan yang secara kontinu melakukan kontrole atas pekerjaan\nmenguasai\ndan mengurus Perusahaan Daerah serta\npertanggungan-jawabnya.\nPengawasan preventif disisi pengawasan represif yang dilakukan\noleh Kepala Daerah/pemegang saham/saham prioritet ataupun badan\nyang\nditunjuknya tidak mengurangi kewenangan menurut peraturan\nperundangan yang berlaku dari pada Menteri Dalam Negeri dan Otonomi\nDaerah\ndan daerah tingkat lebih atas terhadap daerah bawahannya\nuntuk mengadakan penyelidikan dan pemeriksaan tentang segala\nsesuatu mengenai\npekerjaan penguasaan dan pengurusan Perusahaan\nDaerah.\nSesuai dengan ketentuan dalam pasal 14 ayat (3) Penetapan Presiden\nNo. 6 tahun 1959 (disempurnakan) Kepala Daerah yang melakukan\nhak,\nkewenangan dan kekuasaan pemegang saham/saham prioritet sebagai\nalat Pemerintah Daerah memberi pertanggungan-jawab kepada Dewan\nPerwakilan Rakyat Daerah mengenai segala sesuatu yang berhubungan\ndengan Perusahaan Daerah.\nMengingat akan perkembangan dari pada Perusahaan Daerah dalam\nUndang-undang ini ditetapkan pula, bahwa Jawatan Akuntan Negara\nberwenang\nuntuk melakukan kontrole atas pekerjaan menguasai dan\nmengurus Perusahaan Daerah.\n4. Menurut sistim desentralisasi dalam Pemerintahan Negara yang\nkini berlaku maka Daerah tingkat atas dengan Peraturan Daerah dapat\nmenyerahkan sebagian dari urusan rumah-tangganya kepada Daerah\ntingkat bawahannya. Ketentuan ini memungkinkan diadakannya\npeninjauan\ntentang penyerahan sebagian dari pada laba bersih untuk\npembangunan Daerah dari Perusahaan Daerah tingkat atasan kepada\nDaerah bawahannya,\ndemikian pula mengenai penyerahan Perusahaan\nDaerah oleh Daerah tingkat atasan kepada Daerah tingkat bawahannya\ndan sebaliknya.\n5. Sebagai ketentuan peralihan dalam Undang-undang ini\nditetapkan bahwa selama pendirian Perusahaan Daerah termaksud belum\ndilaksanakan\nberdasarkan Undang-undang ini, maka semua Perusahaan\nDaerah tetap melakukan tugas kewajibannya, dengan kedudukan dan\nbentuk hukum\nyang dimilikinya secara sah.\nDalam waktu selambat-lambatnya satu tahun setelah berlakunya\nUndang-undang ini semua Perusahaan yang telah ada dan yang modalnya\nuntuk seluruhnya atau sebagian merupakan kekayaan Daerah yang tidak\nlagi merupakan beban Anggaran Belanja Daerah harus didirikan\nberdasarkan Undang-undang ini, kecuali jika ditentukan lain dengan\natau berdasarkan Undang-undang.\nII. Penjelasan pasal demi pasal.\nPasal 1.\nInstansi atasan dipergunakan dengan mengandung pengertian bahwa\nsewaktu-waktu Daerah tingkat III telah terbentuk maka dalam rangka\nsistimatik Undang-undang No. 1 tahun 1957, tingkat ke-II adalah\natasannya.\nDengan instansi atasan dimaksud juga Gubernur Propinsi Irian Barat\nBentuk Baru bagi daerah bawahannya.\nPasal 2.\nKekayaan Daerah yang dipisahkan berarti kekayaan Daerah yang\ndilepaskan dari penguasaan umum yang dipertanggung-jawabkan melalui\nanggaran\nBelanja Daerah dan dimaksudkan untuk dikuasai dan\ndipertanggung-jawabkan tersendiri.\nPasal 3.\nYang dimaksudkan dengan segala macam hukum Indonesia ialah hukum\nperdata Eropah, hukum dagang Eropah dan hukum adat sepanjang tidak\nbertentangan dengan sosialisme Indonesia, berdasarkan kenyataan\nbahwa didalam hukum-hukum tersebut masih terdapat unsur-unsur yang\ntidak sesuai dengan Manifesto Politik Republik Indonesia.\nPasal 4.\nCukup diterangkan dalam penjelasan umum.\nPasal 5.\nDalam pasal ini ditegaskan bahwa Perusahaan Daerah itu adalah\nkesatuan produksi (regional), yaitu kesatuan produksi dalam arti\nyang\nluas, yang meliputi perusahaan yang memberi jasa,\nmenyelenggarakan kemanfaatan umum yang bersifat nasional untuk\nkebutuhan seluruh\nmasyarakat dan tidak termasuk dalam bidang usaha\nyang diselenggarakan oleh Pemerintah Pusat.\nPerusahaan Daerah dalam menunaikan tugasnya selalu memperhatikan\ndaya guna yang sebesar-besarnya dengan tidak melupakan tujuan\nperusahaan\nuntuk ikut serta dalam pembangunan daerah khususnya dan\npembangunan ekonomi nasional umumnya dalam rangka ekonomi terpimpin\nuntuk\nmemenuhi kebutuhan rakyat dengan mengutamakan industrialisasi\ndan ketentraman serta kesenangan kerja dalam perusahaan menuju\nmasyarakat\nyang adil dan makmur materiil dan spirituil.\nPada azasnya tidaklah mungkin untuk memerinci dengan tegas baik\ntentang urusan rumah tangga Daerah maupun tentang urusan-urusan\nyang termasuk tugas Pemerintah Pusat, karena perincian yang\ndemikian itu tidak akan sesuai dengan gaya perkembangan kehidupan\nmasyarakat\nbaik didaerah maupun dipusat Negara.\nUrusan-urusan yang tadinya termasuk lingkungan Daerah karena\nperkembangan keadaan dapat dirasakan tidak sesuai lagi apabila\nmasih\ndiurus oleh Daerah itu karena urusan tersebut sudah meliputi\nkepentingan yang lebih luas dari pada Daerah itu sendiri.\nBerhubung dengan itu dalam pasal ini ditetapkan bahwa Perusahaan\nyang dapat didirikan oleh daerah ialah:\nperusahaan-perusahaan yang bergerak dalam lapangan yang sesuai\ndengan urusan rumah tangganya menurut kemampuan/kekuatan\nmasing-masing\nDaerah.\nDemikian pula tidaklah mungkin memberi perincian secara tegas dari\ncabang-cabang produksi yang penting bagi Daerah dan yang menguasai\nhajat hidup di Daerah oleh karena segala sesuatu erat hubungannya\ndengan perkembangan dan kemajuan masyarakat di Daerah.\nSebagai contoh yang harusnya diusahakan oleh Perusahaan Daerah\nyang modalnya untuk seluruhnya merupakan kekayaan Daerah dapat\ndisebutkan\nPerusahaan Air Minum. Perusahaan Tanah untuk Pembangunan\nPerumahan, Perusahaan Pasar, Perusahaan Pembangunan Perumahan\nRakyat.\nPasal 6.\nPengutamaan Koperasi dalam hal lapangan usaha Perusahaan Daerah\nada hubungannya dengan lapangan usaha Koperasi didasarkan pada\npokok\npikiran bahwa agar dalam pengerahan potensi dan tenaga (funds\nand force) yang progresip didalam Perusahaan Daerah dalam bentuk\nikut\nsertanya Swasta untuk memiliki saham-saham Perusahaan Daerah\njangan sampai meninggalkan azas ekonomi terpimpin dimana:\n(a) Pemerintah (dalam hal ini Pemerintah Daerah) memegang posisi\nKomando.\n(b) Unit ekonomi yang diutamakan sesudah Perusahaan Negara/Daerah\nialah Koperasi sebagaimana ditegaskan dalam penjelasan pasal 33\nUndang-undang Dasar '45 dan dokumen-dokumen resmi dari pada\nketetapan-ketetapan M.P.R.S. No. I dan II/1960.\n(c) Kedudukan Koperasi lebih tinggi dari pada Swasta biasa\nberhubung dengan nilai moral dan sosialnya yang lebih tinggi.\n(d) Dalam Amanat Pembangunan Presiden yang telah ditetapkan\nsebagai Garis-garis Besar Haluan Pembangunan oleh Ketetapan\nM.P.R.S.\nNo. I dan II tahun 1960 ditegaskan bahwa\nPengusaha-pengusaha Nasional jangan berkembang menjadi kapitalis\nNasional. Usaha-usaha kearah\nbentuk-bentuk Koperasi dalam\nlapangan-lapangan Perusahaan nasional ini harus diutamakan.\nBerhubungan dengan itu maka Koperasi sewajarnya mendapat perlakuan\nyang khusus sesuai dengan kepentingannya. Koperasi baik yang\nmemiliki saham Perusahaan Daerah maupun yang tidak diikut-sertakan\nataupun didengar dalam menentukan kebijaksanaan Perusahaan Daerah\ntertentu.\nPasal 7.\nModal Perusahaan Daerah untuk seluruhnya atau untuk sebagian\nmerupakan kekayaan Daerah yang dipisahkan; hal ini adalah sesuai\ndengan\nkedudukannya sebagai badan hukum, yang harus mempunyai\nkekayaan sendiri terlepas dari pada kekayaan umum Daerah dan dengan\ndemikian\ndapat dipelihara terlepas dari pengaruh Anggaran\nPendapatan dan Belanja Daerah.\nPasal 8\nCukup diterangkan dalam penjelasan umum.\nPasal 9.\nCukup jelas.\nPasal 10.\nSudah selayaknya bahwa kepada pemegang saham diberikan hak\nmengeluarkan pendapat/suara tentang segala sesuatu yang mengenai\nperusahaan.\nMaka untuk itu antara lain diadakan kesempatan didalam\nrapat umum pemegang saham, dengan pengertian bahwa dalam hal-hal\nyang menjadi\nwewenang pemegang saham prioritet suara pemegang saham\n(biasa) tidak mempunyai kekuatan menentukan.\nPasal 11 dan 12.\nCukup jelas.\nPasal 13.\nKetentuan ini dimaksudkan untuk menghindarkan bukan semata-mata\nantara anggota Direksi sesamanya, antara anggota Direksi dan Kepala\nDaerah, antara anggota Direksi dan anggota Badan Pemerintah Harian,\nantara anggota Direksi dan Wakil-wakil Ketua Dewan Perwakilan\nRakyat Daerah, antara anggota Direksi dan Wakil Kepala Daerah,\ntidak boleh terdapat suatu hubungan kekeluargaan yang seolah-olah\nmungkin menimbulkan \"satu pamiliergering\" yang merugikan Perusahaan\nDaerah dan nama Daerah sendiri.\nSelalu harus diangkat supaya oknum-oknum yang berkuasa dalam\nPerusahaan Daerah tidak mempunyai hubungan keluarga atau periparan\nseperti dimaksud dalam pasal ini. Izin yang mungkin diberikan oleh\nKepala Daerah hendaklah dimufakati terlebih dahulu dengan Badan\nPemerintah Harian.\nPasal 14.\nCukup jelas.\nPasal 15.\nDidalam pasal ini yang dimaksud dengan istilah pimpinan ialah\n\"management\".\nPasal 16.\nAgar penetapan batas-batas kekuasaan Direksi disesuaikan dengan\nsifat dan corak perusahaan Daerah masing-masing, maka sewajarnya\nbatas\nkekuasaan tersebut diatas ditetapkan dalam peraturan\npendirian perusahaan yang bersangkutan.\nPasal 17.\nKonkordan dengan ketentuan termaksud dalam Undang-undang No. 45\nPrp. tahun 1960 tentang Dewan Perusahaan maka tiap-tiap Perusahaan\nDaerah dibentuk Dewan Perusahaan Daerah yang dalam Undang-undang\nini ditetapkan akan diatur lebih lanjut dengan Peraturan\nPemerintah.\nPasal 18\nCukup jelas.\nPasal 19.\nSebagaimana lazim berlaku didalam tiap-tiap Perusahaan terhadap\ntugas yang dipercayakan kepada Direksi, yaitu menjalankan pimpinan\ncara mengurus dan menguasai perusahaan diadakan pengawasan (umum)\napakah benar-benar sesuai dengan garis-garis kebijaksanaan yang\ntelah ditetapkan oleh para pemilik/pemegang saham; biasanya tugas\npengawasan demikian diserahkan kepada suatu Dewan/Badan.\nBagi Perusahaan Daerah, pengawasan (umum) termaksud diatas\ndilakukan oleh Kepala Daerah/pemegang saham/saham prioritet ataupun\nbadan\nyang ditunjuknya untuk seluruh Perusahaan Daerah didalam\nlingkungannya.\nBilamana dipandang perlu berhubung dengan besarnya Perusahaan\nDaerah dapat ditunjuk satu badan, yang menjalankan pengawasan\n(umum)\nterhadap perusahaan itu.\nAdalah lebih berdaya-guna manakala untuk sejumlah\nPerusahaan-perusahaan Daerah yang kecil ditunjuk hanya satu badan\nuntuk melakukan\npengawasan (umum) itu.\nPasal 20.\nBerhubung dengan kekayaan Perusahaan Daerah itu adalah untuk\nseluruhnya dan untuk sebagian merupakan kekayaan Daerah, maka\ndianggap\nperlu untuk mengatur tanggung-jawab pegawai/pekerja\nPerusahaan Daerah dalam Undang-undang ini.\nDalam pasal ini diatur kewajiban pegawai/pekerja perusahaan untuk\nmengganti kerugian yang diderita oleh perusahaan yang diakibatkan\nkarena pegawai/pekerja tersebut melalaikan kewajiban dan tugas yang\ndibebankan kepadanya.\nDalam hubungan ini terhadap pegawai/pekerja perusahaan dinyatakan\nberlaku ketentuan-ketentuan mengenai ganti rugi yang berlaku bagi\npegawai Daerah.\nPegawai Perusahaan Daerah yang dibebani tugas penyimpan,\npembayaran atau penyerahan uang dan surat-surat berharga milik\nPerusahaan\nDaerah dan barang persediaan milik Perusahaan Daerah\nyang disimpan dalam gudang atau tempat penyimpanan yang khusus\ndigunakan untuk\nkeperluan itu, adalah bendaharawan, (komptabel)\nyang wajib memberikan pertanggungan-jawab kepada badan termaksud\ndalam pasal 27.\nBendaharawan tersebut diatas berkewajiban memberikan\npertanggungan-jawab, artinya ia bertanggung-jawab bahwa uang,\nsurat-surat berharga\ndan barang persediaan milik perusahaan yang\nharus berada didalam penyimpanannya (tanggungannya) benar-benar\nada. Pengertian ini mengandung\nmakna bahwa bendaharawan diwajibkan\nmengganti kerugian yang terdapat dalam sisa buku (booksaldo) dan\natau persediaan buku (book-voorraad).\nPasal 21.\nCukup jelas.\nPasal 22.\nUntuk menyelenggarakan pekerjaan menguasai dan mengurus\nperusahaan dengan baik diperlukan adanya suatu anggaran perusahaan.\nOleh karena\nitu Perusahaan Daerah diwajibkan menyusunnya. Ketentuan\ndalam pasal ini dimaksudkan untuk meneliti dan mempertimbangkan\nanggaran\nperusahaan termaksud untuk menetapkan prioritet serta daya\nguna pelaksanaan proyek yang dimuat dalam anggaran perusahaan\nitu.\nUntuk menjamin kelancaran jalannya perusahaan, maka antara lain\npada ayat (2) ditetapkan bahwa dalam hal perusahaan telah memasuki\nsesuatu tahun buku tertentu sedangkan atas proyek didalam anggaran\nperusahaan dari tahun buku sebelumnya belum/tidak dikemukakan\nkeberatan-keberatan oleh pemegang saham prioritet, maka hal itu\ntidak menjadi rintangan untuk melanjutkan pelaksanaan proyek\ndidalam\nanggaran perusahaan yang berikutnya.\nPasal 23.\nYang dimaksudkan dengan laporan dalam pasal ini adalah laporan\nberkala mengenai pelaksanaan pekerjaan menguasai dan mengurus\nperusahaan\n(bedrijfsvoering) dan bukan laporan tahunan, neraca dan\nlaba rugi.\nFaedahnya laporan ialah agar pemegang saham prioritet selalu dapat\nmengikuti dan menilai jalannya perusahaan.\nPasal 24.\nPerhitungan tahunan dipergunakan sebagai dasar bagi pemegang\nsaham prioritet untuk memberi pengesahan atas tindakan menguasai\ndan\nmengurus oleh Direksi selama masa tertentu yang telah\nlampau.\nPenilaian pos-pos pada perhitungan tahunan dilakukan menurut\nsistim yang lazim disebut \"good koopmans gebruik\" artinya menurut\nsistim\nharga beli, atau harga pengganti atau persediaan besi\n(persediaan yang tak boleh tidak) dan sebagainya yang menghasilkan\nperhitungan\nlaba yang besar dalam arti ekonomi perusahaan.\nKesalahan dalam kebijaksanaan yang kemudian diketemukan oleh yang\nberhak melakukan kontrole termaksud pada pasal 27, yaitu sesudah\nperhitungan tahunan disahkan, menjadi tanggungan Kepala\nDaerah/pemegang saham/saham prioritet yang mensyahkan perhitungan\ntahunan\ntermaksud. Kesalahan lainnya yaitu yang bukan kesalahan\nkebijaksanaan dan dapat dinyatakan dalam ruang menjadi tanggungan\npegawai\ntermasuk Direksi yang melakukan kesalahan itu, segala\nsesuatu setelah dibuktikan seperlunya.\nPasal 25.\nCadangan dapat dibedakan dalam cadangan terbuka, yaitu yang\nbesar jumlahnya ternyata dengan tegas pada neraca dan cadangan\nrahasia\ndan diam yang besar jumlahnya tidak dapat ternyata dari\nneraca.\nCadangan rahasia dan cadangan diam yang dapat dibentuk antara lain\ndengan cara yang berikut:\nke. 1. menilai barang-barang modal jauh lebih rendah dari pada\nnilai yang sebenarnya.\nke. 2. tidak memuat barang-modal pada neraca.\nke. 3. memuat hutang-hutang atau kewajiban-kewajiban\nmembayar dengan jumlah yang lebih tinggi dari pada yang sebenarnya\ndan\nke. 4. memuat kewajiban membayar pada neraca yang sebenarnya tidak\nada, jadi pada umumnya penilaian yang lebih rendah dari pada\npos-pos activa (kekayaan) serta penilaian yang lebih tinggi dari\npos-pos passiva (hutang).\nHanya pimpinan perusahaan yang mengetahui adanya serta besarnya\ncadangan itu, akan tetapi orang luar tidak mengetahuinya. Keberatan\nterhadap pembentukan cadangan rahasia dan diam antara lain adalah\nsebagai berikut:\na. memberikan sebab untuk expansi yang irrasionil;\nb. apabila sekumpulan activa dimuat dalam buku untuk jumlah yang\njauh lebih rendah daripada yang sebenarnya, maka dapat timbul\nbahaya\nbahwa untuk selanjutnya activa ini akan dihapuskan dari\nharganya yang rendah itu dan karena itu, maka harga pokok barang\nyang diproduksikan\nakan sangat rendah.\nHal ini akan menyebabkan \"merusak harga\" (prijsbederf).Jika hal\nini terjadi dan pada waktunya diperlukan activa baru, maka besar\nkemungkinan bahwa jumlah penghapusan harta yang telah dikumpulkan\ntidak akan mencukupi untuk mendapatkan penggantinya.\nc. karena activa dimuat dengan harga yang lebih rendah, maka akan\nterdapat kemungkinan bahwa activa yang bersangkutan akan dijual\nuntuk harga yang lebih rendah itu.\nKeberatan-keberatan seperti tersebut diatas itu menyebabkan perlu\ndiadakannya larangan untuk membentuk cadangan diam dan rahasia,\nterutama berkenaan dengan kalkulasi harga pokok untuk kepentingan\npolitik harga.\nLaba bersih yang dimaksudkan dalam pasal ini adalah laba yang\ndihitung secara ekonomi perusahaan, setelah dikurangi dengan semua\nkoreksi yang dianggap perlu dan cadangan tujuan yang wajar dalam\nperusahaan.\nCadangan tujuan (bestonmingsreserves) adalah cadangan yang\ndibentuk dari laba, yang tidak merupakan koreksi dari pada kekayaan\n(activa)\natau kewajiban/hutang kepada pihak ketiga yang dimuat pada\nneraca untuk jumlah lebih tinggi daripada yang sebenarnya. Seperti\nternyata\ndari namanya maka cadangan tujuan adalah cadangan yang\ndibentuk untuk mencapai tujuan tertentu seperti : cadangan\npembaharuan, cadangan\nperluasan, cadangan untuk selisih kurs,\ncadangan untuk melunasi hutang obligasi, cadangan assuransi risiko\nsendiri dan sebagainya.\nCadangan umum dimaksudkan untuk menampung\nhal-hal dan kejadian yang tidak dapat hidup semula.\nDana pembangunan dimaksudkan sebagai kewajiban sumbangan kepada\nDaerah untuk keperluan pembangunan Daerah yang diselenggarakan oleh\nPemerintah Daerah melalui Anggaran Pendapatan dan Belanja\nDaerah.\nSosial dan Pendidikan adalah untuk kepentingan Pegawai/ pekerja\nperusahaan antara lain untuk mempertinggi mutu kesehatan dan\nkecakapan.\nDalam pasal ini dimaksudkan zakat bagi perusahaan yang modalnya\nuntuk sebagian terdiri dari kekayaan Daerah yang dipisahkan.\nPemerintah\nDaerah mengatur supaya dalam hal ini diikuti petunjuk\ndari Menteri Agama.\nJasa Produksi dimaksudkan untuk memberikan penghargaan kepada\npegawai/pekerja karena hasil pekerjaannya yang sangat dihargai oleh\nkonsumen hingga karenanya masih diperoleh laba. Sumbangan dana\npensiun dan sokongan dimaksudkan untuk membentuk dana guna\nmenampung\npembayaran-pembayaran kepada pegawai-pegawai yang pada\nwaktu berlakunya Undang-undang ini sudah lanjut usianya dan tidak\ndapat dimasukkan\nkedalam pensiun yang akan dibentuk itu.\nPremi untuk pensiun biasa merupakan bagian dari harga pokok\nbarang-barang yang diproduksikan, yang akan dipotong dari gaji\npegawai\natau upah pekerja. Kepada perusahaan yang menurut sifat\npekerjaannya menyebabkan tidak didapatnya laba, maka untuk\nmenghargai jasa\nkerja dalam perusahaan semacam itu Pemerintah\nDaerah dapat memberikan jasa produksi.\nPasal 26.\nDalam Perusahaan Daerah tidak ada pengertian buruh dan majikan,\nsemuanya adalah pegawai/pekerja perusahaan. Agar dalam mengatur\nkedudukan\nhukum, gaji, pensiun dan sokongan serta\npenghasilan-penghasilan lain terhadap mereka berlaku\nketentuan-ketentuan yang seragam diperlukan\nadanya peraturan pokok\nkepegawaian Perusahaan Daerah yang ditetapkan dengan Peraturan\nDaerah yang berlaku setelah mendapat pengesahan\ninstansi atasan.\nMengenai pemberhentian pegawai/pekerja-pekerja Perusahaan Daerah\nhendaklah diperhatikan penyaluran mereka menurut\nperaturan\nperundangan yang berlaku mengenai masalah ini.\nPasal 27\nTugas dan kewajiban melakukan kontrole disini berlainan dengan\ntugas pengawasan (umum) sebagaimana ditetapkan didalam pasal 19,\nadalah\npengawasan khusus tekhnis yang bersifat repressip, yakni\njuga pada pokoknya berkisar pada pemeriksaan laporan perhitungan\ntahunan\n(auditing). Sebagai dasar penilaian terhadap baik buruknya\npenyelenggaraan pimpinan perusahaan.\nPasal 28.\nDalam pasal ini ditentukan, bahwa sesuai dengan sistim\ndesentralisasi dalam pemerintahan Negara yang kini berlaku, dengan\nPeraturan\nDaerah, Daerah tingkat atasan setelah semufakat dengan\npemegang saham, dapat menyerahkan Perusahaan Daerah termaksud\nkepada Daerah\ntingkat bawahannya, demikian pula penyerahan\nsebaliknya.\nPenyerahan ini dilakukan apabila macam usaha/produksi dari pada\nperusahaan termaksud sewajarnya terletak dalam bidang pengusahaan\ndan pengurusan Daerah yang bersangkutan.\nApabila Pemerintah Daerah telah menganggap, bahwa perusahaan yang\ntermaksud dalam pasal ini tidak perlu lagi diusahakan sebagai\nPerusahaan Daerah, antara lain karena macam\nusahanya/produksinya/barangnya, sesuai dengan perkembangan\npelaksanaan Program Pemerintah\ndalam bidang kekoperasian sewajarnya\nterletak dalam bidang penguasaan dan pengurusan koperasi, maka\nPemerintah Daerah dapat memindahkan\nperusahaan tersebut ketangan\nperkumpulan koperasi didaerahnya.\nUntuk jangka waktu yang tertentu, pimpinan/pengurus pegawai\nperkumpulan koperasi/perusahaan swasta, yang betul-betul mempunyai\nbakat\nleadership, dapat diangkat oleh kepala Daerah/pemegang\nsaham/saham prioritet untuk dijadikan pimpinan perusahaan daerah\ntertentu.\nDengan cara demikian maka:\na. masyarakat dapat menarik faedah yang sebesar-besarnya dari\npadanya;\nb. mereka tidak lagi mementingkan diri pribadi, tetapi juga harus\nmengambil kepada kepentingan sosial.\nPasal 29.\nDalam pasal ini ditentukan bahwa pembubaran Perusahaan Daerah\nditetapkan dengan Peraturan Daerah yang berlaku setelah mendapat\npengesahan\ninstansi atasan.\nPembubaran tersebut diatas cukup diatur dengan Peraturan Daerah\nmengingat bahwa :\n1. Perusahaan Daerah didirikan dengan Peraturan Daerah;\n2. kepentingan fihak ketiga cukup terjamin dengan adanya jaminan\nDaerah termaksud pada ayat (4).\nDisisi pengaturan benda, hendaklah diperhatikan pula segala\nsesuatu yang bersangkutan dengan manusia pegawai/pekerja-pekerja\nPerusahaan\nDaerah yang bersangkutan. Penyelenggaraan likwidasi\ndilakukan dalam batas waktu yang akan ditetapkan dalam peraturan\npembubaran perusahaan\ntermaksud diatas.\nPasal 30, 31 dan 32\nCukup jelas\nMengetahui :\nSekretaris Negara,\nMOHD. ICHSAN.\n--------------------------------\nCATATAN\nDisetujui DPR-GR dalam rapat pleno terbuka ke-12 pada hari Sabtu\ntanggal 3 Pebruari 1962, P. 209/1962\nKutipan: LEMBARAN NEGARA DAN TAMBAHAN LEMBARAN NEGARA TAHUN 1962\nYANG TELAH DICETAK ULANG"
+   }
+  }
+ ]
+}

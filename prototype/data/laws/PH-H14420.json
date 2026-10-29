@@ -1,0 +1,72 @@
+{
+ "id": "PH-H14420",
+ "title": {
+  "zh": null,
+  "en": "An Act Reorganizing the Representative Districts of the Province of Leyte and Creating a Fifth District.",
+  "orig": "An Act Reorganizing the Representative Districts of the Province of Leyte and Creating a Fifth District."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1930-12-02",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3788",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1061,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1930/act_3788_1930.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03788_1930_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03788_1930_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14420-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The Province of Leyte is hereby redivided into five representative districts, each district to be\ncomposed as follows: to the First District shall belong the municipalities of Biliran, Caibiran, Calubian,\nKawayan, Leyte, Maripipi, Merida, Naval, Palompon, San Isidro and Villaba; the Second District shall be\ncomposed of the municipalities, of Ormoc, Albuera, Bato, Baybay, Hilongos, Hindang, Inopacan and\nMatalom; the Third District shall be composed of the municipalities of Anahawan, Cabalian, Hinunangan,\nHinundayan, Libagon, Liloan, Maasin, Macrohon, Malitbog, Pintuyan and Sogod; the Fourth District shall be\ncomposed of the municipalities of Abuyog, Babatngon, Dulag, Palo, San Miguel, Tacloban, Tanauan and\nTolosa; and to the Fifth District shall belong the municipalities of Alang-alang, Barugo, Burauen, Capoocan,\nCarigara, Dagami, Jaro, La Paz and Pastrana."
+   }
+  },
+  {
+   "id": "PH-H14420-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "All acts or parts of acts inconsistent with the provisions of this Act are hereby repealed."
+   }
+  },
+  {
+   "id": "PH-H14420-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on June first, nineteen hundred and thirty-one.\nApproved, December 2, 1930."
+   }
+  }
+ ]
+}

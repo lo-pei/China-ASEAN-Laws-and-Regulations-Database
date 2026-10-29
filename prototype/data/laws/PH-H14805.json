@@ -1,0 +1,62 @@
+{
+ "id": "PH-H14805",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Paragraph (F), Subsection B of Section One of Act Numbered Forty-One Hundred and Eighty, Known as the Public Works Act.",
+  "orig": "An Act to Amend Paragraph (F), Subsection B of Section One of Act Numbered Forty-One Hundred and Eighty, Known as the Public Works Act."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1935-08-05",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 4214",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 418,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1935/act_4214_1935.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_04214_1935_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_04214_1935_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14805-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Paragraph (f), subsection B of section one of Act Numbered Forty-one hundred and eighty,\nknown as the Public Works Act of nineteen hundred and thirty-five, is hereby amended so that item six, under\nthe caption Negros Occidental, should read as follows:\n\"6. For the construction of the Pontevedra-Antipolo-La Castellana road ............ P9,000.00\""
+   }
+  },
+  {
+   "id": "PH-H14805-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, August 5, 1935."
+   }
+  }
+ ]
+}

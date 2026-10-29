@@ -1,0 +1,72 @@
+{
+ "id": "PH-H22365",
+ "title": {
+  "zh": null,
+  "en": "Amending Pertinent Provisions of the Charters of State Universities and Colleges",
+  "orig": "Amending Pertinent Provisions of the Charters of State Universities and Colleges"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1976-08-18",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 982",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1072,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_00982_1976_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_00982_1976_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22365-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Any provisions of law to the contrary notwithstanding, the composition of all governing Boards\nof chartered state universities and colleges is hereby amended to replace the Chairman of the Senate\nCommittee on Education and the Chairman of the House Committee on Education as members of the\ngoverning Boards whenever stipulated in the individual charters, with the appropriate Regional Executive\nDirector of the National Economic and Development Authority (NEDA) for chartered state colleges and\nuniversities within his region, and a prominent citizen from the public or private sector with proven\ncompetence in his field of specification to be appointed by the President. The prominent citizen shall serve for\na period of six years."
+   }
+  },
+  {
+   "id": "PH-H22365-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "All laws, decrees, executive orders or existing rules and regulations contrary to or inconsistent\nwith the provisions of this Decree are hereby repealed, amended or modified accordingly."
+   }
+  },
+  {
+   "id": "PH-H22365-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Decree shall take effect immediately.\nDone in the City of Manila, this 18th day of August, in the year of Our Lord, nineteen hundred and\nseventy-six."
+   }
+  }
+ ]
+}

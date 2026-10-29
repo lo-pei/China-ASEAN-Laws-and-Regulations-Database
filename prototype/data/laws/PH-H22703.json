@@ -1,0 +1,62 @@
+{
+ "id": "PH-H22703",
+ "title": {
+  "zh": null,
+  "en": "Amending Section 134 of the National Internal Revenue Code",
+  "orig": "Amending Section 134 of the National Internal Revenue Code"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1978-04-21",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 1359",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1062,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_01359_1978_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_01359_1978_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22703-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section 134 of the National Internal Revenue Code of 1977 is hereby amended to read as\n\"Sec. 134. Articles subject to specific tax. Specific internal revenue taxes apply to things manufactured or\nproduced in the Philippines for domestic sale or consumption and to things imported, but not to anything\nproduced or manufactured here which shall be removed for exportation and is actually exported without\nreturning to the Philippines, whether so exported in its original state or as an ingredient or part of any\nmanufactured article or product.\n\"HOWEVER, PETROLEUM PRODUCTS SOLD TO AN INTERNATIONAL CARRIER FOR ITS USE OR\nCONSUMPTION OUTSIDE OF THE PHILIPPINES SHALL NOT BE SUBJECT TO SPECIFIC TAX,\nPROVIDED, THAT THE COUNTRY OF SAID CARRIER EXEMPTS FROM TAX PETROLEUM\nPRODUCTS SOLD TO PHILIPPINE CARRIERS.\n\"In case of importations the internal revenue tax shall be in addition to the customs duties, if any.\""
+   }
+  },
+  {
+   "id": "PH-H22703-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Decree shall take effect immediately.\nDONE in the City of Manila, this 21st day of April, in the year of Our Lord, nineteen hundred and\nseventy-eight."
+   }
+  }
+ ]
+}

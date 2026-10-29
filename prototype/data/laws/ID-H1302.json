@@ -1,0 +1,108 @@
+{
+ "id": "ID-H1302",
+ "title": {
+  "zh": "国家发展计划（PROPENAS）法",
+  "en": "Law on the National Development Programme (PROPENAS)",
+  "id": "PROGRAM PEMBANGUNAN NASIONAL (PROPENAS)",
+  "orig": "PROGRAM PEMBANGUNAN NASIONAL (PROPENAS)",
+  "vi": "Luật về Chương trình Phát triển Quốc gia (PROPENAS)",
+  "th": "พระราชบัญญัติว่าด้วยแผนงานพัฒนาแห่งชาติ (PROPENAS)",
+  "ms": "Akta tentang Program Pembangunan Nasional (PROPENAS)"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02b",
+ "language": "id",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "2000",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU25-2000",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 5,
+ "chars": 1536,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": null
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\01_宪法与基础法\\印尼_WLD_2000_PROGRAM PEMBANGUNAN NASIONAL (PROPENAS).txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 5 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H1302-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\nProgram Pembangunan Nasional (PROPENAS) Tahun 2000-2004 merupakan\nlandasan dan pedoman bagi Pemerintah dan penyelenggara negara\nlainnya\ndalam melaksanakan pembangunan lima tahun."
+   }
+  },
+  {
+   "id": "ID-H1302-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\nSistematika Program Pembangunan Nasional (PROPENAS) Tahun 2000-2004\ndisusun sebagai berikut:\nBAB I: PENDAHULUAN\nBAB II: PRIORITAS PEMBANGUNAN NASIONAL\nBAB III: PEMBANGUNAN HUKUM\nBAB IV: PEMBANGUNAN EKONOMI\nBAB V: PEMBANGUNAN POLITIK\nBAB VI: PEMBANGUNAN AGAMA\nBAB VII: PEMBANGUNAN PENDIDIKAN\nBAB VIII: PEMBANGUNAN SOSIAL DAN BUDAYA\nBAB IX: PEMBANGUNAN DAERAH\nBAB X: PEMBANGUNAN SUMBER DAYA ALAM DAN LINGKUNGAN HIDUP\nBAB XI: PEMBANGUNAN PERTAHANAN DAN KEAMANAN\nBAB XII: PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H1302-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB XII: PENUTUP"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\nProgram Pembangunan Nasional (PROPENAS) Tahun 2000-2004 sebagaimana\ntercantum dalam lampiran Undang-undang ini merupakan satu kesatuan\ndan bagian yang tidak terpisahkan dari Undang-undang ini."
+   }
+  },
+  {
+   "id": "ID-H1302-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB XII: PENUTUP"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\nPelaksanaan lebih lanjut Program Pembangunan Nasional (PROPENAS)\nTahun 2000-2004, dituangkan dalam Rencana Pembangunan Tahunan\n(REPETA)\nyang memuat Anggaran Pendapatan dan Belanja Negara\n(APBN)."
+   }
+  },
+  {
+   "id": "ID-H1302-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB XII: PENUTUP"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\nUndang-undang ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nUndang-undang ini dengan penempatannya dalam Lembaran Negara\nRepublik\nIndonesia.\nDisahkan di Jakarta\npada tanggal 20 November 2000\nPRESIDEN REPUBLIK INDONESIA,\nABDURRAHMAN WAHID\nDiundangkan di Jakarta\npada tanggal 20 November 2000\nSEKRETARIS NEGARA REPUBLIK INDONESIA,\nDJOHAN EFFENDI\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2000 NOMOR 206"
+   }
+  }
+ ]
+}

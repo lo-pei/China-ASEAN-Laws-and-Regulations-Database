@@ -1,0 +1,462 @@
+{
+ "id": "MY-H1802",
+ "title": {
+  "zh": "2013年伊斯兰法管理（联邦直辖区）（新穆斯林登记、照护与教导方式）规则",
+  "en": "ADMINISTRATION OF ISLAMIC LAW (FEDERAL TERRITORIES) (METHOD OF REGISTRATION, CARE AND TEACHING OF MUALAF) RULES 2013",
+  "orig": "ADMINISTRATION OF ISLAMIC LAW (FEDERAL TERRITORIES) (METHOD OF REGISTRATION, CARE AND TEACHING OF MUALAF) RULES 2013",
+  "ms": "Kaedah Pentadbiran Hukum Syarak (Wilayah-Wilayah Persekutuan) (Kaedah Pendaftaran, Penjagaan dan Pengajaran Mualaf) 2013",
+  "vi": "Quy tắc về Quản lý luật Hồi giáo (Các lãnh thổ liên bang) (Phương thức đăng ký, chăm sóc và giảng dạy người mới theo Hồi giáo) năm 2013",
+  "th": "กฎการบริหารกฎหมายอิสลาม (เขตสหพันธรัฐ) (วิธีการขึ้นทะเบียน การดูแล และการสอนผู้เข้ารับอิสลามใหม่) ค.ศ. 2013",
+  "id": "Tata Tertib Penyelenggaraan Hukum Islam (Wilayah-Wilayah Persekutuan) (Cara Registrasi, Perawatan dan Pengajaran Mualaf) Tahun 2013"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-4",
+ "language": "ms",
+ "level": "regulation",
+ "category": "04_劳工与行政法",
+ "status": "active",
+ "promulgatedDate": "2013",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "PUA170",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 35,
+ "chars": 37192,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-view.php?type=pua&no=P.U. (A) 170/2013&status=PRINCIPAL"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\04_劳工与行政法\\2013_P.U.(A)170-2013_ADMINISTRATION OF ISLAMIC LAW (FEDERAL TERRITORIES) (METHOD OF REGISTRATION, CARE AND TEACHING.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 35 条；逐字未改写（源自厂商 OCR 文本）；已清除正文中的 1 个控制字符（C0/C1 区，法律文本中无合法用途，系 PDF 抽取/表单域残留）。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H1802-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "1. Nama"
+   }
+  },
+  {
+   "id": "MY-H1802-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "2. Pemakaian"
+   }
+  },
+  {
+   "id": "MY-H1802-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "3. Tafsiran"
+   }
+  },
+  {
+   "id": "MY-H1802-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "4. Borang\n\nBAHAGIAN II\n\nJAWATANKUASA HAL EHWAL MUALAF"
+   }
+  },
+  {
+   "id": "MY-H1802-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "5. Penubuhan Jawatankuasa"
+   }
+  },
+  {
+   "id": "MY-H1802-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "6. Fungsi Jawatankuasa"
+   }
+  },
+  {
+   "id": "MY-H1802-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "7. Keanggotaan Jawatankuasa"
+   }
+  },
+  {
+   "id": "MY-H1802-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "8. Tempoh jawatan"
+   }
+  },
+  {
+   "id": "MY-H1802-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "9. Penamatan pelantikan"
+   }
+  },
+  {
+   "id": "MY-H1802-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "10. Pembatalan pelantikan"
+   }
+  },
+  {
+   "id": "MY-H1802-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "11. Pelantikan anggota gantian"
+   }
+  },
+  {
+   "id": "MY-H1802-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "12. Mesyuarat"
+   }
+  },
+  {
+   "id": "MY-H1802-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "13. Kuorum"
+   }
+  },
+  {
+   "id": "MY-H1802-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "14. Notis"
+   }
+  },
+  {
+   "id": "MY-H1802-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "15. Kehadiran wakil"
+   }
+  },
+  {
+   "id": "MY-H1802-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "16. Kehadiran bukan anggota dalam mesyuarat"
+   }
+  },
+  {
+   "id": "MY-H1802-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "17. Minit"
+   }
+  },
+  {
+   "id": "MY-H1802-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "18. Elaun\n\n BAHAGIAN III\n\n TATACARA MASUK ISLAM\n\nKaedah"
+   }
+  },
+  {
+   "id": "MY-H1802-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "19. Penerangan sebelum masuk Islam"
+   }
+  },
+  {
+   "id": "MY-H1802-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "20. Majlis pengislaman"
+   }
+  },
+  {
+   "id": "MY-H1802-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "21. Kelayakan saksi"
+   }
+  },
+  {
+   "id": "MY-H1802-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "22. Maklumat masuk Islam\n\nBAHAGIAN IV\n\nPENDAFTARAN MUALAF"
+   }
+  },
+  {
+   "id": "MY-H1802-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "23. Permohonan pendaftaran mualaf"
+   }
+  },
+  {
+   "id": "MY-H1802-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "24. Daftar Mualaf"
+   }
+  },
+  {
+   "id": "MY-H1802-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "25. Perakuan Masuk Islam"
+   }
+  },
+  {
+   "id": "MY-H1802-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "26. Permohonan untuk meminda butir-butir"
+   }
+  },
+  {
+   "id": "MY-H1802-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 27"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "27. Pendaftaran anak atau anak dalam jagaan yang belum mencapai umur lapan\n\nbelas tahun sebagai mualaf"
+   }
+  },
+  {
+   "id": "MY-H1802-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 28"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "28. Permohonan pendaftaran sukarela\n\nBAHAGIAN V\n\nJAGAAN MUALAF"
+   }
+  },
+  {
+   "id": "MY-H1802-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Section 29"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "29. Bantuan"
+   }
+  },
+  {
+   "id": "MY-H1802-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Section 30"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "30. Perlindungan\n\nBAHAGIAN VI\n\nPENGAJARAN MUALAF"
+   }
+  },
+  {
+   "id": "MY-H1802-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Section 31"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "31. Kelas pengajian Islam"
+   }
+  },
+  {
+   "id": "MY-H1802-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Section 32"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "32. Pusat latihan dan bimbingan Islam"
+   }
+  },
+  {
+   "id": "MY-H1802-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Section 33"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "33. Kumpulan tenaga pengajar\n\nBAHAGIAN VII\n\nPELBAGAI\n\nKaedah"
+   }
+  },
+  {
+   "id": "MY-H1802-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "Section 34"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "34. Peruntukan kewangan"
+   }
+  },
+  {
+   "id": "MY-H1802-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "Section 35"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "35. Arahan Majlis kepada Jawatankuasa dan Pendaftar Mualaf\n\nJADUAL\n\nAKTA PENTADBIRAN UNDANG-UNDANG ISLAM\n\n(WILAYAH-WILAYAH PERSEKUTUAN) 1993\n\nKAEDAH-KAEDAH PENTADBIRAN UNDANG-UNDANG ISLAM (WILAYAH-WILAYAH\n\nPERSEKUTUAN) (CARA PENDAFTARAN, JAGAAN DAN PENGAJARAN MUALAF) 2013\n\nPADA menjalankan kuasa yang diberikan oleh perenggan 99(i) Akta Pentadbiran\n\nUndang-Undang Islam (Wilayah-Wilayah Persekutuan) 1993 [Akta 505],\n\nYang di-Pertuan Agong, atas nasihat Majlis, membuat kaedah-kaedah yang berikut:\n\nBAHAGIAN I\n\nPERMULAAN\n\nNama\n\n1. Kaedah-kaedah ini bolehlah dinamakan Kaedah-Kaedah Pentadbiran\n\nUndang-Undang Islam (Wilayah-Wilayah Persekutuan) (Cara Pendaftaran, Jagaan\n\ndan Pengajaran Mualaf) 2013.\n\nPemakaian\n\n2. Kaedah-Kaedah ini hendaklah terpakai hanya bagi mualaf yang bermastautin di\n\nWilayah Persekutuan Kuala Lumpur, Labuan atau Putrajaya.\n\nTafsiran\n\n3. Dalam Kaedah-Kaedah ini, melainkan jika konteksnya menghendaki makna yang\n\nlain―\n\n\"Akta\" ertinya Akta Pentadbiran Undang-Undang Islam (Wilayah-Wilayah\n\nPersekutuan) 1993;\n\n\"Daftar Mualaf\" ertinya suatu rekod yang mengandungi butir-butir orang yang\n\ntelah masuk Islam sebagaimana yang diperuntukkan di bawah kaedah 24;\n\n\"Jabatan\" ertinya Jabatan Agama Islam Wilayah Persekutuan;\n\n\"Jawatankuasa\" ertinya Jawatankuasa Hal Ehwal Mualaf yang ditubuhkan di\n\nbawah kaedah 5;\n\n\"mualaf\" ertinya seseorang yang telah masuk Islam mengikut seksyen 86 Akta;\n\n\"Pendaftar Mualaf\" ertinya seseorang yang telah dilantik oleh Majlis di bawah\n\nseksyen 88 Akta;\n\n\"Pengerusi\" ertinya Pengerusi Jawatankuasa Hal Ehwal Mualaf di bawah\n\nkaedah 7;\n\n\"Perakuan Masuk Islam\" ertinya suatu perakuan yang dikeluarkan kepada orang\n\nyang telah masuk Islam di bawah seksyen 90 Akta.\n\nBorang\n\n4. (1) Borang yang ditetapkan yang dirujuk dalam Kaedah-Kaedah ini ialah\n\nborang yang berkaitan sebagaimana yang dinyatakan dalam Jadual.\n\n(2) Borang yang ditetapkan yang disenaraikan dalam Jadual hendaklah\n\ndigunakan bagi maksud yang disebut dalam borang itu masing-masing.\n\nBAHAGIAN II\n\nJAWATANKUASA HAL EHWAL MUALAF\n\nPenubuhan Jawatankuasa\n\n5. Majlis hendaklah menubuhkan suatu jawatankuasa yang dinamakan sebagai\n\nJawatankuasa Hal Ehwal Mualaf yang hendaklah bertanggungjawab bagi apa-apa\n\nperkara yang berhubungan dengan hal ehwal mualaf.\n\nFungsi Jawatankuasa\n\n6. Jawatankuasa hendaklah mempunyai fungsi seperti yang berikut:\n\n(a) menasihati Majlis dalam apa-apa perkara yang berhubung dengan\n\npendaftaran, jagaan dan pengajaran bagi mualaf;\n\n(b) memantau pelaksanaan apa-apa aktiviti yang berhubungan dengan hal\n\nehwal mualaf;\n\n(c) menyemak dan memperakukan laporan tahunan berkaitan dengan hal\n\nehwal mualaf sebelum dikemukakan kepada Majlis;\n\n(d) memperakukan apa-apa cadangan aktiviti tahunan Jabatan yang\n\nberkaitan dengan hal ehwal mualaf sebelum dikemukakan kepada Majlis;\n\n(e) mencadangkan kepada Majlis apa-apa perkara lain yang berkaitan dengan\n\nhal ehwal mualaf; dan\n\n(f) menerima dan melaksanakan apa-apa arahan yang diberikan oleh Majlis\n\ndari semasa ke semasa.\n\nKeanggotaan Jawatankuasa\n\n7. (1) Jawatankuasa hendaklah terdiri daripada anggota yang berikut:\n\n(a) seorang anggota Majlis yang dilantik oleh Majlis sebagai Pengerusi;\n\n(b) Pengarah Jabatan Agama Islam Wilayah Persekutuan sebagai\n\nTimbalan Pengerusi;\n\n(c) empat orang anggota yang hendaklah terdiri daripada orang yang\n\npada masa itu memegang jawatan yang berikut:\n\n(i) Mufti atau wakilnya;\n\n(ii) Penasihat Undang-Undang Jabatan Kemajuan Islam\n\nMalaysia atau wakilnya;\n\n(iii) Ketua Polis Wilayah Persekutuan atau wakilnya;\n\n(iv) Ketua Pengarah Jabatan Pendaftaran Negara atau wakilnya;\n\ndan\n\n(d) tidak kurang daripada lima orang yang layak dan sesuai, sekurangkurangnya dua orang daripada mereka ialah mualaf, yang dilantik\n\noleh Majlis.\n\n(2) Pendaftar Mualaf hendaklah menjadi Setiausaha.\n\n(3) Setiausaha hendaklah menghadiri semua mesyuarat Jawatankuasa dan\n\nmengambil bahagian dalam pertimbangtelitiannya, tetapi tidak berhak mengundi.\n\n(4) Jika pada bila-bila masa orang yang memegang jawatan di bawah\n\nsubperenggan (1)(c)(iii) dan (iv) bukan orang yang beragama Islam, Majlis hendaklah\n\nmelantik pegawai kanan lain yang beragama Islam daripada jabatannya.\n\nTempoh jawatan\n\n8. (1) Anggota Jawatankuasa yang dilantik oleh Majlis di bawah\n\nperenggan 7(1)(a) dan (d) hendaklah memegang jawatan selama tempoh tidak\n\nmelebihi tiga tahun dan layak untuk dilantik semula oleh Majlis.\n\n(2) Apa-apa pelantikan semula anggota di bawah subkaedah (1) hendaklah\n\ndibuat dalam masa tiga bulan sebelum tamat tempoh pelantikannya.\n\nPenamatan pelantikan\n\n9. Pelantikan mana-mana anggota Jawatankuasa yang dilantik hendaklah tamat―\n\n(a) apabila dia meninggal dunia;\n\n(b) jika peletakan jawatannya melalui notis secara bertulis yang ditujukan\n\nkepada Majlis diterima;\n\n(c) apabila tamat tempoh pelantikannya;\n\n(d) jika keanggotaannya sebagai anggota Majlis, bagi maksud\n\nperenggan 7(1)(a), tamat; atau\n\n(e) jika dia tidak berada di Malaysia bagi tempoh melebihi tiga bulan, tanpa\n\nkebenaran bertulis daripada Pengerusi.\n\nPembatalan pelantikan\n\n10. Majlis boleh membatalkan pelantikan mana-mana anggota Jawatankuasa jika―\n\n(a) dia telah disabitkan dengan apa-apa kesalahan jenayah oleh\n\nmana-mana mahkamah;\n\n(b) kelakuannya, sama ada berkaitan dengan kewajipannya sebagai anggota\n\nJawatankuasa atau selainnya, adalah kelakuan yang memburukkan nama\n\nMajlis atau Jawatankuasa;\n\n(c) dia diisytiharkan bankrap yang belum dilepaskan;\n\n(d) dia tidak berupaya menjalankan tugasnya dengan sempurna sebagai\n\nanggota Jawatankuasa;\n\n(e) dia tidak menghadiri mesyuarat tiga kali berturut-turut tanpa apa-apa\n\nalasan yang munasabah; atau\n\n(f) atas apa-apa sebab lain, dia didapati tidak lagi layak menjadi anggota\n\nJawatankuasa.\n\nPelantikan anggota gantian\n\n11. (1) Majlis boleh melantik mana-mana orang yang layak untuk mengisi\n\nkekosongan mana-mana anggota yang telah ditamatkan pelantikannya di bawah\n\nkaedah 9 atau dibatalkan pelantikannya di bawah kaedah 10.\n\n(2) Seseorang yang dilantik di bawah subkaedah (1) hendaklah memegang\n\njawatannya selama baki tempoh jawatan anggota yang digantinya.\n\nMesyuarat\n\n12. (1) Semua mesyuarat Jawatankuasa hendaklah dipanggil oleh Setiausaha atas\n\narahan Pengerusi.\n\n(2) Pengerusi hendaklah mempengerusikan semua mesyuarat Jawatankuasa.\n\n(3) Jika Pengerusi tidak hadir atau tidak dapat bertindak kerana sakit atau\n\napa-apa sebab lain, dalam mana-mana mesyuarat, Timbalan Pengerusi hendaklah\n\nmempengerusikan mesyuarat itu.\n\n(4) Jika Pengerusi dan Timbalan Pengerusi tidak hadir dalam mana-mana\n\nmesyuarat, anggota yang hadir hendaklah memilih salah seorang daripada kalangan\n\nmereka untuk mempengerusikan mesyuarat itu.\n\n(5) Jawatankuasa hendaklah bermesyuarat sekurang-kurangnya sekali dalam\n\ntiap-tiap tiga bulan.\n\n(6) Walau apa pun yang diperuntukkan di bawah subkaedah (5), Pengerusi\n\nboleh, pada bila-bila masa mengarahkan Setiausaha memanggil mesyuarat, jika perlu.\n\n(7) Semua keputusan mesyuarat Jawatankuasa hendaklah dibuat secara\n\npersetujuan atau melalui ketetapan majoriti anggota yang hadir dan berhak mengundi,\n\ndan jika terdapat persamaan undi, Pengerusi hendaklah mempunyai undi pemutus.\n\nKuorum\n\n13. Lima orang anggota Jawatankuasa hendaklah membentuk kuorum mesyuarat.\n\nNotis\n\n14. Sekurang-kurangnya tujuh hari notis bertulis hendaklah diberikan mengenai\n\nmana-mana mesyuarat, tetapi Pengerusi boleh, jika dia berpendapat bahawa ada\n\nkeperluan mendesak untuk memanggil suatu mesyuarat dengan notis yang lebih\n\nsingkat, mengarahkan supaya kehendak notis tujuh hari itu diketepikan.\n\nKehadiran wakil\n\n15. Jika seorang anggota di bawah subperenggan 7(1)(c)(iii) atau (iv) tidak dapat\n\nmenghadiri sesuatu mesyuarat, anggota itu hendaklah diwakili oleh pegawai lain yang\n\nberagama Islam daripada jabatan atau bahagian yang sama dengannya pada mesyuarat\n\nitu.\n\nKehadiran bukan anggota dalam mesyuarat\n\n16. (1) Pengerusi boleh mengundang mana-mana orang lain untuk menghadiri\n\nmana-mana mesyuarat dan mengambil bahagian dalam pertimbangtelitian yang\n\nberhubungan dengan apa-apa perkara yang dibincangkan oleh Jawatankuasa.\n\n(2) Mana-mana orang yang hadir di bawah subkaedah (1) tidak berhak untuk\n\nmengundi dalam mesyuarat atau pertimbangtelitian itu.\n\nMinit\n\n17. (1) Semua minit mesyuarat Jawatankuasa hendaklah disenggarakan dan\n\ndisimpan pada tiap-tiap kali mesyuarat oleh Setiausaha Jawatankuasa.\n\n(2) Minit mesyuarat yang sebelumnya hendaklah dibaca dan disahkan\n\ntertakluk kepada pindaan, jika ada.\n\n (3) Minit mesyuarat yang telah disahkan di bawah subkaedah (2) hendaklah\n\nditandatangani oleh Pengerusi.\n\n(4) Minit mesyuarat Jawatankuasa yang telah ditandatangani oleh Pengerusi\n\nhendaklah diserahkan kepada Setiausaha Majlis.\n\n(5) Apa-apa minit mesyuarat Jawatankuasa yang telah ditandatangani\n\ndengan sewajarnya oleh Pengerusi, boleh diterima dalam apa-apa prosiding sebagai\n\nketerangan prima facie tentang fakta yang dinyatakan dalam minit itu tanpa bukti\n\nselanjutnya.\n\nElaun\n\n18. Tiap-tiap anggota Jawatankuasa termasuk Setiausaha boleh dibayar apa-apa\n\nelaun sebagaimana yang ditentukan oleh Majlis.\n\nBAHAGIAN III\n\nTATACARA MASUK ISLAM\n\nPenerangan sebelum masuk Islam\n\n19. Mana-mana orang yang menguruskan pengislaman seseorang hendaklah\n\nbertanggungjawab untuk memberikan penerangan mengenai Islam, pengertian dua\n\nkalimah Syahadah, tugas dan kewajipan sebagai seorang yang beragama Islam, kesan\n\npengislaman dan tanggungjawab terhadap keluarga asalnya yang bukan beragama\n\nIslam.\n\nMajlis pengislaman\n\n20. (1) Mana-mana orang yang ingin masuk Islam hendaklah mengucap dua\n\nkalimah Syahadah di hadapan Pendaftar Mualaf atau mana-mana pegawai atau\n\nmana-mana orang yang menguruskan pengislaman seseorang mualaf itu dan disaksikan\n\noleh dua orang saksi.\n\n(2) Seseorang yang tidak dapat bercakap boleh, bagi maksud memenuhi\n\nkehendak di bawah subkaedah (1), mendapat bantuan Juru Bahasa Isyarat yang\n\nhendaklah membantu Pendaftar Mualaf atau mana-mana pegawai atau mana-mana\n\norang yang menguruskan pengislaman itu untuk memahami bahasa isyarat yang\n\ndigunakan.\n\nKelayakan saksi\n\n21. Seseorang yang menjadi saksi dalam majlis pengislaman di bawah\n\nsubkaedah 20(1) hendaklah―\n\n(a) beragama Islam;\n\n(b) mempunyai akal yang waras; dan\n\n(c) berumur tidak kurang daripada lapan belas tahun.\n\nMaklumat masuk Islam\n\n22. (1) Seseorang yang menguruskan pengislaman seseorang mualaf hendaklah\n\nmengisi borang yang ditetapkan.\n\n(2) Walau apa pun peruntukan yang dinyatakan dalam subkaedah (1),\n\napa-apa catatan yang berhubungan dengan pengislaman seseorang mualaf oleh orang\n\nyang menguruskan pengislaman boleh diterima sebagai bukti pengislaman yang\n\nmengandungi butir-butir seperti yang berikut:\n\n(a) nama mualaf seperti dalam kad pengenalan atau pasportnya;\n\n(b) nama orang yang menguruskan pengislaman;\n\n(c) nama saksi;\n\n(d) tarikh, masa dan tempat pengislaman; dan\n\n(e) kenyataan kerelaan hatinya untuk masuk Islam yang telah\n\nditandatangani dengan sewajarnya.\n\nBAHAGIAN IV\n\nPENDAFTARAN MUALAF\n\nPermohonan pendaftaran mualaf\n\n23. (1) Seseorang mualaf boleh membuat permohonan bagi pendaftaran masuk\n\nIslam di Jabatan dengan mengemukakan borang yang ditetapkan atau apa-apa catatan\n\nmengenai pengislamannya sebagaimana yang ditetapkan dalam kaedah 22.\n\n(2) Tertakluk kepada kehendak seksyen 89 Akta, Pendaftar Mualaf hendaklah\n\nbertanggungjawab untuk mendaftarkan permohonan yang dibuat di bawah\n\nsubkaedah (1) dalam Daftar Mualaf.\n\nDaftar Mualaf\n\n24. Suatu Daftar Mualaf hendaklah mengandungi butir-butir seperti yang berikut:\n\n(a) bilangan daftar;\n\n(b) tarikh daftar;\n\n(c) nombor siri Perakuan Masuk Islam;\n\n(d) nama asal;\n\n(e) nama baru (jika ada);\n\n(f) agama atau kepercayaan dahulu;\n\n(g) bangsa;\n\n(h) nombor kad pengenalan atau pasport;\n\n(i) alamat surat-menyurat;\n\n(j) alamat tempat tinggal;\n\n(k) tarikh, tempat dan masa masuk Islam;\n\n(l) status perkahwinan;\n\n(m) orang yang menguruskan pengislaman;\n\n(n) nama saksi;\n\n(o) nama dan tandatangan Pendaftar Mualaf yang dimeterai dengan\n\nsewajarnya pada tiap-tiap pendaftaran; dan\n\n(p) apa-apa butir-butir lain yang disifatkan perlu oleh Pendaftar Mualaf untuk\n\ndirekodkan.\n\nPerakuan Masuk Islam\n\n25. (1) Mana-mana orang yang telah didaftarkan sebagai seorang mualaf di\n\nbawah subkaedah 23(2), hendaklah diberi suatu Perakuan Masuk Islam sebagaimana\n\ndalam borang yang ditetapkan.\n\n(2) Jika Perakuan Masuk Islam hilang, terbakar atau rosak, seseorang mualaf\n\nboleh mendapatkan suatu salinan Perakuan Masuk Islam dengan membuat\n\npermohonan dalam borang yang ditetapkan.\n\n(3) Pendaftar Mualaf selepas berpuas hati dengan alasan yang dinyatakan di\n\nbawah subkaedah (2), hendaklah mengeluarkan suatu salinan Perakuan Masuk Islam\n\nkepada pemohon.\n\nPermohonan untuk meminda butir-butir\n\n26. (1) Seseorang mualaf boleh membuat permohonan untuk meminda atau\n\nmembetulkan apa-apa butir-butir yang berhubungan dengan dirinya dalam Perakuan\n\nMasuk Islam dengan menggunakan borang yang ditetapkan dan mengemukakannya\n\nkepada Pendaftar Mualaf.\n\n(2) Pendaftar Mualaf, selepas berpuas hati dengan permohonan itu, boleh\n\nmembuat pindaan atau pembetulan ke atas butir-butir dalam Daftar Mualaf dan\n\nmengeluarkan suatu Perakuan Masuk Islam dengan butir-butir yang baru.\n\n(3) Jika Pendaftar Mualaf mendapati maklumat yang dinyatakan dalam\n\nsubkaedah (2) adalah palsu, dia hendaklah merujukkan perkara tersebut kepada Ketua\n\nPegawai Penguat Kuasa Agama bagi maksud penyiasatan.\n\nPendaftaran anak atau anak dalam jagaan yang belum mencapai umur lapan\n\nbelas tahun sebagai mualaf\n\n27. (1) Mana-mana ibu atau bapa atau penjaga yang masuk Islam dan\n\nmempunyai anak atau anak dalam jagaan yang belum mencapai umur lapan belas\n\ntahun, boleh membuat permohonan untuk mendaftarkan anak atau anak dalam jagaan\n\nitu sebagai seorang mualaf dengan menggunakan borang yang ditetapkan.\n\n(2) Anak atau anak dalam jagaan yang belum mencapai umur lapan belas\n\ntahun yang ibu atau bapa atau penjaganya bukan beragama Islam, setelah memperoleh\n\nkeizinan daripada ibu atau bapa atau penjaganya, hendaklah membuat permohonan\n\nmasuk Islam dalam borang yang ditetapkan.\n\n(3) Tiap-tiap permohonan pendaftaran di bawah subkaedah (1) dan (2)\n\nhendaklah tertakluk kepada kaedah 20, 21, 22, 23, 24 dan 25 kecuali atas sebab-sebab\n\nyang difikirkan munasabah oleh Pendaftar Mualaf.\n\nPermohonan pendaftaran sukarela\n\n28. Mana-mana orang yang telah masuk Islam dan belum mendaftarkan dirinya\n\nsebagai mualaf, boleh memohon pada bila-bila masa kepada Pendaftar Mualaf untuk\n\nmendaftarkan pengislamannya mengikut tatacara yang ditetapkan dalam kaedah ini.\n\nBAHAGIAN V\n\nJAGAAN MUALAF\n\nBantuan\n\n29. (1) Seseorang mualaf yang didaftarkan adalah layak untuk menerima\n\nbantuan sebagaimana yang ditetapkan oleh Majlis seperti yang berikut:\n\n(a) masuk Islam;\n\n(b) berkhatan;\n\n(c) kelengkapan ibadah; dan\n\n(d) perbelanjaan pengebumian jenazah.\n\n(2) Walau apa pun bantuan yang dinyatakan dalam subkaedah (1), seseorang\n\nmualaf boleh memohon untuk mendapatkan bantuan sebagaimana yang ditentukan\n\noleh Majlis seperti yang berikut dengan menggunakan borang yang ditetapkan:\n\n(a) bantuan sara hidup;\n\n(b) bantuan tempat tinggal;\n\n(c) bantuan perubatan;\n\n(d) bantuan perkahwinan;\n\n(e) bantuan bagi apa-apa bentuk pendidikan atau latihan yang\n\ndifikirkan perlu oleh Majlis, termasuklah pengajian Islam,\n\nakademik dan kemahiran; dan\n\n(f) bantuan guaman.\n\n(3) Majlis boleh, mengikut budi bicaranya, memberikan apa-apa bantuan lain\n\nyang difikirkan perlu.\n\n(4) Tertakluk kepada subkaedah (1), tiada apa-apa bantuan boleh diberikan\n\nkepada mana-mana mualaf yang bukan warganegara Malaysia, kecuali dengan\n\nkelulusan Majlis.\n\nPerlindungan\n\n30. Majlis hendaklah menyediakan apa-apa bentuk perlindungan yang difikirkan\n\nperlu kepada mualaf.\n\nBAHAGIAN VI\n\nPENGAJARAN MUALAF\n\nKelas pengajian Islam\n\n31. (1) Majlis hendaklah menganjurkan kelas pengajian Islam yang sesuai untuk\n\nmemberikan pengetahuan dan meningkatkan kefahaman Islam kepada mualaf.\n\n(2) Seseorang mualaf yang didaftarkan di bawah seksyen 89 Akta, hendaklah\n\nmenghadiri kelas pengajian Islam yang ditetapkan oleh Majlis di bawah subkaedah (1).\n\n(3) Pendaftar Mualaf boleh, jika difikirkan perlu dan munasabah,\n\nmengecualikan mana-mana mualaf daripada menghadiri mana-mana kelas pengajian\n\nIslam yang dinyatakan di bawah subkaedah (2).\n\nPusat latihan dan bimbingan Islam\n\n32. Majlis hendaklah menyediakan suatu pusat latihan dan bimbingan Islam bagi\n\nmaksud mendidik dan memantapkan akidah mualaf.\n\nKumpulan tenaga pengajar\n\n33. Majlis boleh mengambil kerja mana-mana orang yang berkelayakan untuk\n\nmenjadi kumpulan tenaga pengajar bagi maksud kaedah 31 dan 32.\n\nBAHAGIAN VII\n\nPELBAGAI\n\nPeruntukan kewangan\n\n34. Peruntukan dalam pembahagian zakat kepada asnaf mualaf hendaklah\n\ndigunakan bagi menjalankan tanggungjawab dan aktiviti di bawah Bahagian V dan VI\n\ndalam Kaedah-Kaedah ini.\n\nArahan Majlis kepada Jawatankuasa dan Pendaftar Mualaf\n\n35. Majlis boleh dari semasa ke semasa memberikan apa-apa arahan kepada\n\nJawatankuasa dan Pendaftar Mualaf tentang apa-apa perkara yang berhubungan dengan\n\nhal ehwal mualaf.\n\nJADUAL\n\n[Kaedah 4]\n\nSENARAI BORANG\n\nNO. NAMA BORANG\n\n1. BORANG A MAKLUMAT MASUK ISLAM\n\n2. BORANG B PERMOHONAN BAGI PENDAFTARAN MASUK ISLAM\n\n3. BORANG C PERAKUAN MASUK ISLAM\n\n4. BORANG D PERMOHONAN BAGI MENDAPATKAN SALINAN PERAKUAN MASUK\n\nISLAM\n\n5. BORANG E PERMOHONAN BAGI PINDAAN KEPADA BUTIR-BUTIR DIRI DALAM\n\nPERAKUAN MASUK ISLAM\n\n6. BORANG F PERMOHONAN BAGI PENDAFTARAN ANAK/ANAK DALAM JAGAAN\n\nYANG BELUM MENCAPAI UMUR LAPAN BELAS TAHUN SEBAGAI\n\nMUALAF OLEH IBU/BAPA/PENJAGA\n\n7. BORANG G PERMOHONAN MASUK ISLAM ANAK/ANAK DALAM JAGAAN YANG\n\nBELUM MENCAPAI UMUR LAPAN BELAS TAHUN\n\n8. BORANG H PERMOHONAN BANTUAN MUALAF\n\nDibuat 4 April 2013\n\n[JAKIM.(S).PPUU.700-2/2/2 Jld. (2)(2); PN(PU2)530/VII]\n\n Dengan Titah Perintah\n\nSENATOR MEJAR JENERAL DATO' JAMIL KHIR BIN BAHAROM (BERSARA)\n\n Pengerusi Majlis Agama Islam Wilayah Persekutuan\n\nADMINISTRATION OF ISLAMIC LAW\n\n(FEDERAL TERRITORIES) ACT 1993\n\nADMINISTRATION OF ISLAMIC LAW (FEDERAL TERRITORIES)\n\n(METHOD OF REGISTRATION, CARE AND TEACHING OF MUALAF) RULES 2013\n\nARRANGEMENT OF RULES\n\nPART I\n\nPRELIMINARY\n\n Rule\n\n1. Citation\n\n2. Application\n\n3. Interpretation\n\n4. Forms\n\nPART II\n\nCOMMITTEE OF MUALAF'S AFFAIRS\n\n5. Establishment of the Committee\n\n6. Functions of the Committee\n\n7. Membership of the Committee\n\n8. Tenure of office\n\n9. Termination of appointment\n\n10. Revocation of appointment\n\n11. Appointment of the substitute member\n\n12. Meetings\n\n13. Quorum\n\n14. Notice\n\n15. Attendance of the representative\n\n16. Attendance of non-members at meetings\n\n17. Minutes\n\n 18. Allowances\n\nPART III\n\nPROCEDURE FOR CONVERSION TO ISLAM\n\n19. Explanation before conversion to Islam\n\n20. Conversion ceremony\n\n21. Qualification of witness\n\n22. Information of conversion to Islam\n\nPART IV\n\nREGISTRATION OF MUALAF\n\n23. Application of the registration of mualaf\n\n24. Register of Mualafs\n\n25. Certificate of Conversion\n\n26. Application to amend the particulars\n\n27. Registration of child or child under custody who has not attained the age of\n\neighteen years old as mualaf\n\n28. Application of voluntary registration\n\nPART V\n\nCARE OF MUALAF\n\n29. Assistance\n\n30. Protection\n\nPART VI\n\nTEACHING OF MUALAF\n\n31. Class on Islamic studies\n\n32. Islamic training and guidance centre\n\nRule\n\n33. Teaching force\n\nPART VII\n\nMISCELLANEOUS\n\n34. Financial provision\n\n35. Direction of Majlis to the Committee and the Registrar of Mualafs\n\nSCHEDULE\n\nADMINISTRATION OF ISLAMIC LAW\n\n(FEDERAL TERRITORIES) ACT 1993\n\nADMINISTRATION OF ISLAMIC LAW (FEDERAL TERRITORIES)\n\n(METHOD OF REGISTRATION, CARE AND TEACHING OF MUALAF) RULES 2013\n\nIN exercise of the powers conferred by paragraph 99(i) of the Administration of\n\nIslamic Law (Federal Territories) Act 1993 [Act 505], the Yang di-Pertuan Agong, on the\n\nadvice of the Majlis, makes the following rules:\n\nPART I\n\nPRELIMINARY\n\nCitation\n\n1. These rules may be cited as the Administration of Islamic Law (Federal\n\nTerritories) (Method of Registration, Care and Teaching of Mualaf) Rules 2013.\n\nApplication\n\n2. These Rules shall only apply to a mualaf who resides in the Federal Territories of\n\nKuala Lumpur, Labuan or Putrajaya.\n\nInterpretation\n\n3. In these Rules, unless the context otherwise requires―\n\n\"Act\" means the Administration of Islamic Law (Federal Territories) Act 1993;\n\n\"Register of Mualafs\" means a record which contains particulars of person who\n\nhas converted to Islam as provided under rule 24;\n\n\"Department\" means the Federal Territory Religious Affairs Department;\n\n\"Committee\" means the Committee of Mualaf's Affairs established under rule 5;\n\n\"mualaf\" means a person who has converted to Islam in accordance with\n\nsection 86 of the Act;\n\n\"Registrar of Mualafs\" means a person who has been appointed by the Majlis\n\nunder section 88 of the Act;\n\n\"Chairman\" means the Chairman of the Committee of Mualaf's Affairs under\n\nrule 7;\n\n\"Certificate of Conversion\" means a certificate issued to a person who has\n\nconverted to Islam under section 90 of the Act.\n\nForms\n\n4. (1) The prescribed form referred to in these Rules shall be the relevant form\n\nas specified in the Schedule.\n\n(2) The prescribed form listed in the Schedule shall be used for the purposes\n\nmentioned in the respective forms.\n\nPART II\n\nCOMMITTEE OF MUALAF'S AFFAIRS\n\nEstablishment of the Committee\n\n5. The Majlis shall establish a committee to be known as the Committee of Mualaf's\n\nAffairs which shall be responsible for any matters relating to the affairs of mualaf.\n\nFunctions of the Committee\n\n6. The Committee shall have the following functions:\n\n(a) to advise the Majlis in any matters in relation to the registration, care and\n\nteaching of the mualaf;\n\n(b) to monitor the implementation of any activities relating to mualaf's\n\naffairs;\n\n(c) to revise and certify the annual report in respect of mualaf's affairs prior\n\nto submission to the Majlis;\n\n(d) to certify any proposal of the Department's annual activities in respect of\n\nmualaf's affairs prior to submission to the Majlis;\n\n(e) to propose to the Majlis of any other matters in respect of mualaf's affairs;\n\nand\n\n(f) to receive and implement any direction given by the Majlis from time to\n\ntime.\n\nMembership of the Committee\n\n7. (1) The Committee shall comprise of the following members:\n\n(a) a member of the Majlis appointed by the Majlis as the Chairman;\n\n(b) the Director of the Federal Territory Religious Affairs Department\n\nas the Deputy Chairman;\n\n(c) four members who shall comprise of persons who, at the material\n\ntime, are holding the following posts:\n\n(i) the Mufti or his representative;\n\n(ii) the Legal Adviser of the Department of Islamic\n\nDevelopment Malaysia or his representative;\n\n(iii) the Chief Police Officer of the Federal Territories or his\n\nrepresentative;\n\n(iv) the Director of the National Registration Department or his\n\nrepresentative; and\n\n(d) not less than five persons who are qualified and suitable, at least\n\ntwo of whom are mualaf, appointed by the Majlis.\n\n(2) The Registrar of Mualafs shall be the Secretary.\n\n(3) The Secretary shall attend all meetings of the Committee and participate\n\nin its deliberations, but is not entitled to vote.\n\n(4) If at any time the person holding the office under subparagraph (1)(c)(iii)\n\nand (iv) is not a Muslim, the Majlis shall appoint other senior Muslim officer from the\n\ndepartment.\n\nTenure of office\n\n8. (1) Members of the Committee appointed by the Majlis under\n\nparagraphs 7(1)(a) and (d) shall hold office for a term not exceeding three years and is\n\neligible for reappointment by the Majlis.\n\n(2) Any reappointment of the member under subrule (1) shall be made\n\nwithin three months before the expiry of his term of appointment.\n\nTermination of appointment\n\n9. The appointment of any appointed member of the Committee shall terminate―\n\n(a) upon his death;\n\n(b) if his resignation by notice in writing addressed to the Majlis has been\n\naccepted;\n\n(c) upon the expiry of his term of appointment;\n\n(d) if his membership as a member of the Majlis, for the purpose of paragraph\n\n7(1)(a) is terminated; or\n\n(e) if he has been absent from Malaysia for a period exceeding three months,\n\nwithout the written permission of the Chairman.\n\nRevocation of appointment\n\n10. The Majlis may revoke the appointment of any member of the Committee if―\n\n(a) he has been convicted of any criminal offences by any court;\n\n(b) his action, whether in respect of his duties as a member of the\n\nCommittee or others, has been such as to bring discredit to the Majlis\n\nor the Committee;\n\n(c) he has been declared an undischarged bankrupt;\n\n(d) he has become incapable of properly carrying out his duties as a\n\nmember of the Committee;\n\n(e) he has been absent from three consecutive meetings without any\n\nreasonable excuse; or\n\n(f) by any other reason, he is not qualified to be a member of the\n\nCommittee.\n\nAppointment of the substitute member\n\n11. (1) The Majlis may appoint any qualified person to fill in the vacancy of any\n\nmember whose appointment has been terminated under rule 9 or his appointment has\n\nbeen revoked under rule 10.\n\n(2) A person appointed under subrule (1) shall hold office for the remaining\n\nterm of office of the member that he substituted.\n\nMeetings\n\n12. (1) All meetings of the Committee shall be summoned by the Secretary on\n\nthe direction of the Chairman.\n\n(2) The Chairman shall preside over all the meetings of the Committee.\n\n(3) If the Chairman is absent or unable to act, by reason of illness or other\n\ncause, in any meeting, the Deputy Chairman shall preside over the meeting.\n\n(4) If the Chairman and the Deputy Chairman are absent from any meeting,\n\nthe members present shall elect anyone of them to preside over the meeting.\n\n(5) The Committee shall meet at least once in every three months.\n\n(6) Notwithstanding subrule (5), the Chairman may, at any time direct the\n\nSecretary to summon a meeting, if needed.\n\n(7) All decisions of the meeting of the Committee shall be made by consensus\n\nor by a resolution of the majority members present and entitled to vote, and if there is\n\nan equality of votes, the Chairman shall have a casting vote.\n\nQuorum\n\n13. Five members of the Committee shall form the quorum of the meetings.\n\nNotice\n\n14. At least seven days' notice in writing shall be given of any meeting, but the\n\nChairman may, if he thinks there is an urgent need to summon a meeting at a shorter\n\nnotice, direct that the requirement of seven days' notice be dispensed with.\n\nAttendance of the representative\n\n15. If a member under subparagraphs 7(1)(c)(iii) or (iv) is unable to attend a\n\nmeeting, the member shall be represented by other Muslim officer from the same\n\ndepartment or division, at the meeting.\n\nAttendance of non-members at meetings\n\n16. (1) The Chairman may invite any other person to attend any meeting and\n\nparticipate in the deliberations relating to any matters discussed by the Committee.\n\n(2) Any person who is present under subrule (1) is not entitled to vote at the\n\nmeetings or in any deliberation.\n\nMinutes\n\n17. (1) All minutes of the meeting of the Committee shall be maintained and kept\n\nat every meeting by the Secretary of the Committee.\n\n(2) The minutes of the previous meeting shall be read and confirmed subject\n\nto amendment, if any.\n\n(3) The certified minutes of the meeting under subrule (2) shall be signed by\n\nthe Chairman.\n\n(4) The minutes of the Committee signed by the Chairman shall be submitted\n\nto the Secretary of the Majlis.\n\n(5) Any minutes of the meeting of the Committee, which has been duly signed\n\nby the Chairman, shall be admissible in any proceedings as a prima facie evidence of the\n\nfacts stated in the minutes without further proof.\n\nAllowances\n\n18. Every member of the Committee including the Secretary may be paid with any\n\nallowance as the Majlis may determine.\n\nPART III\n\nPROCEDURE FOR CONVERSION TO ISLAM\n\nExplanation before conversion to Islam\n\n19. Any person who manages the conversion of another to Islam shall be responsible\n\nto give explanation about Islam, the meaning of the two clauses of the Affirmation of\n\nFaith, duties and obligations as a Muslim, effect of conversion to Islam and\n\nresponsibilities towards his former non-Muslim family.\n\nConversion ceremony\n\n20. (1) Any person who wishes to convert to Islam shall utter the two clauses of\n\nthe Affirmation of Faith in front of the Registrar of Mualafs or any officer or any person\n\nwho manages the conversion of the mualaf and witnessed by two witnesses.\n\n(2) A person who is incapable of speech may, for the purpose of fulfilling the\n\nrequirement under subrule (1), acquire the assistance of a Sign Language Interpreter\n\nwho shall assist the Registrar of Mualafs or any officer or any person who manages the\n\nconversion of Islam to understand the sign language used.\n\nQualification of witness\n\n21. A person who becomes a witness in the conversion ceremony under\n\nsubrule 20(1) shall―\n\n(a) be a Muslim;\n\n(b) be of sound mind; and\n\n(c) not be less than eighteen years old.\n\nInformation of conversion to Islam\n\n22. (1) A person who manages the conversion to Islam of a mualaf shall fill in the\n\nprescribed form.\n\n(2) Notwithstanding the provision specified in subrule (1), any note relating\n\nto the conversion to Islam of a mualaf by a person who manages the conversion may be\n\nadmissible as the proof of conversion which contains the following particulars:\n\n(a) name of the mualaf as per his identity card or passport;\n\n(b) name of the person who manages the conversion;\n\n(c) name of witnesses;\n\n(d) date, time and place of conversion; and\n\n(e) a duly signed statement of his voluntariness to convert to Islam.\n\nPART IV\n\nREGISTRATION OF MUALAF\n\nApplication of the registration of mualaf\n\n23. (1) A mualaf may make an application for registration of the conversion to\n\nIslam at the Department by submitting the prescribed form or any note concerning his\n\nconversion as prescribed in rule 22.\n\n(2) Subject to the requirement of section 89 of the Act, the Registrar of\n\nMualafs shall be responsible to register the application made under subrule (1) in a\n\nRegister of Mualafs.\n\nRegister of Mualafs\n\n24. A Register of Mualafs shall contain the following particulars:\n\n(a) register number;\n\n(b) date of register;\n\n(c) serial number of Certificate of Conversion;\n\n(d) original name;\n\n(e) new name (if any);\n\n(f) religion or former belief;\n\n(g) race;\n\n(h) identity card or passport number;\n\n(i) correspondence address;\n\n(j) residential address;\n\n(k) date, place and time of conversion to Islam;\n\n(l) marital status;\n\n(m) person who manages the conversion;\n\n(n) name of witnesses;\n\n(o) name and signature of the Registrar of Mualafs duly sealed in every\n\nregistration; and\n\n(p) any other particulars deem necessary to be recorded by the Registrar of\n\nMualafs.\n\nCertificate of Conversion\n\n25. (1) Any person who has been registered as a mualaf under subrule 23(2)\n\nshall be provided with a Certificate of Conversion as in the prescribed form.\n\n(2) If the Certificate of Conversion is lost, burnt or damaged, a mualaf may\n\nobtain a copy of the Certificate of Conversion by making an application in the prescribed\n\nform.\n\n(3) The Registrar of Mualafs after being satisfied with the reason as specified\n\nunder subrule (2), shall issue a copy of the Certificate of Conversion to the applicant.\n\nApplication to amend the particulars\n\n26. (1) A mualaf may make an application to amend or correct any particulars\n\nrelating to himself in the Certificate of Conversion by using the prescribed form and\n\nsubmit it to the Registrar of Mualafs.\n\n(2) The Registrar of Mualafs, after being satisfied with the application, may\n\nmake an amendment or correction on the particular in the Register of Mualafs and issue\n\na Certificate of Conversion with the new particulars.\n\n(3) If the Registrar of Mualafs discovers that the information as specified in\n\nsubrule (2) is false, he shall refer the matter to the Chief Religious Enforcement Officer\n\nfor the purpose of investigation.\n\nRegistration of child or child under custody who has not attained the age of\n\neighteen years old as mualaf\n\n27. (1) Any parent or guardian who has converted to Islam and having a child or\n\nchild under custody who has not attained the age of eighteen years old, may make an\n\napplication to register the child or child under custody as mualaf by using the\n\nprescribed form.\n\n(2) A child or child under custody who has not attained the age of eighteen\n\nyears old whose parent or guardian is not a Muslim, after obtaining consent from his\n\nparent or guardian, shall make an application of conversion to Islam in the prescribed\n\nform.\n\n(3) Every application of registration under subrules (1) and (2) shall be\n\nsubject to rules 20, 21, 22, 23, 24 and 25 except on reasons of which the Registrar of\n\nMualaf thinks reasonable.\n\nApplication of voluntary registration\n\n28. Any person who has converted to Islam and yet to register himself as mualaf,\n\nmay make an application at any time to the Registrar of Mualafs to register his\n\nconversion in accordance with the procedure as prescribed in this rule.\n\nPART V\n\nCARE OF MUALAF\n\nAssistance\n\n29. (1) A registered mualaf is entitled to receive assistance as determined by the\n\nMajlis as follows:\n\n(a) conversion to Islam;\n\n(b) circumcision;\n\n(c) ibadah kit; and\n\n(d) funeral expenses.\n\n(2) Notwithstanding the assistance specified in subrule (1), a mualaf may\n\napply to obtain the following assistance as determined by the Majlis by using the\n\nprescribed form:\n\n(a) living assistance;\n\n(b) residential assistance;\n\n(c) medical assistance;\n\n(d) marriage assistance;\n\n(e) assistance for any form of education or training which the Majlis\n\nthinks necessary, including Islamic studies, academic and skill; and\n\n(f) legal assistance.\n\n(3) The Majlis may, according to its discretion, provide any other necessary\n\nassistance which it deems necessary.\n\n(4) Subject to subrule (1), no assistance can be provided to any mualaf who is\n\nnot a Malaysian citizen, except with the approval of the Majlis.\n\nProtection\n\n30. The Majlis shall provide any form of protection which it deems necessary to the\n\nmualaf.\n\nPART VI\n\nTEACHING OF MUALAF\n\nClass on Islamic studies\n\n31. (1) The Majlis shall organize appropriate Islamic studies class to provide\n\nknowledge and increase the understanding of Islam to the mualafs.\n\n(2) A mualaf registered under section 89 of the Act, shall attend the Islamic\n\nstudies class as determined by the Majlis under subrule (1).\n\n(3) The Registrar of Mualafs may, if he thinks necessary and reasonable,\n\nexempt any mualaf from attending any Islamic studies class as specified under\n\nsubrule (2).\n\nIslamic training and guidance centre\n\n32. The Majlis shall provide an Islamic training and guidance centre for the purpose\n\nof educating and strengthening the belief of the mualaf.\n\nTeaching force\n\n33. The Majlis may employ any qualified person to be the teaching force for the\n\npurpose of rules 31 and 32.\n\nPART VII\n\nMISCELLANEOUS\n\nFinancial provision\n\n34. The provision in the distribution of zakat to asnaf mualaf shall be used to carry\n\nout responsibilities and activities under Part V and Part VI in these Rules.\n\nDirection of Majlis to the Committee and the Registrar of Mualafs\n\n35. The Majlis may from time to time give any direction to the Committee and the\n\nRegistrar of Mualafs regarding any matters relating to the mualaf's affairs.\n\nSCHEDULE\n\n[Rule 4]\n\nLIST OF FORMS\n\nNO. NAME OF FORMS\n\n1. FORM A INFORMATION ON THE CONVERSION TO ISLAM\n\n2. FORM B APPLICATION FOR REGISTRATION OF THE CONVERSION TO ISLAM\n\n3. FORM C CERTIFICATE OF CONVERSION\n\n4. FORM D APPLICATION FOR OBTAINING COPY OF CERTIFICATE OF\n\nCONVERSION TO ISLAM\n\n5. FORM E APPLICATION FOR AMENDMENT TO PERSONAL PARTICULARS IN\n\nCERTIFICATE OF CONVERSION\n\n6. FORM F APPLICATION FOR REGISTRATION OF CHILD/CHILD UNDER\n\nCUSTODY WHO HAS NOT ATTAINED THE AGE OF EIGHTEEN YEARS\n\nOLD AS MUALAF BY PARENT/GUARDIAN\n\n7. FORM G APPLICATION TO CONVERT TO ISLAM FOR CHILD/CHILD UNDER\n\nCUSTODY WHO HAS NOT ATTAINED THE AGE OF EIGHTEEN YEARS\n\nOLD\n\n8. FORM H APPLICATION FOR MUALAF'S ASSISTANCE\n\nMade 4 April 2013\n\n[JAKIM.(S).PPUU.700-2/2/2 Jld. (2)(2); PN(PU2)530/VII]\n\n By Command\n\nSENATOR MEJAR JENERAL DATO' JAMIL KHIR BIN BAHAROM (RETIRED)\n\nChairman of Majlis Agama Islam Wilayah Persekutuan"
+   }
+  }
+ ]
+}

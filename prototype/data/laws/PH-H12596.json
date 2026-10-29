@@ -1,0 +1,62 @@
+{
+ "id": "PH-H12596",
+ "title": {
+  "zh": null,
+  "en": "An Act to Authorize Frederick Garfield Waite and Others to Maintain and Action At Law Against the Government of the Philippine Islands and Authorizing the Attorney-General of the Philippine Islands to Appear therein.",
+  "orig": "An Act to Authorize Frederick Garfield Waite and Others to Maintain and Action At Law Against the Government of the Philippine Islands and Authorizing the Attorney-General of the Philippine Islands to Appear therein."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1909-05-08",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 1887",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 777,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1909/act_1887_1909.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_01887_1909_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_01887_1909_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12596-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Authority is hereby granted to Frederick Garfield Waite, Luengo Martinez as administrator of\nthe estate of Pedro Gruet and Juana Moreno, Jose Alemany y Gruet, Juan Atayde y Gruet, Julio Atayde y\nGruet and Pedro Atayde y Gruel, to maintain an action in the Court of First Instance of the city of Manila\nagainst the Government of the Philippine Islands and the Treasurer of the Philippine Islands to determine the\nownership of certain shares of the capital stock of the Banco Español-Filipino the certificates of which are in\nthe possession of the said Treasurer, and the Attorney-General of the Philippine Islands and the Treasurer of\nthe Philippine islands and defend said Government and Treasurer in said action."
+   }
+  },
+  {
+   "id": "PH-H12596-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "this Act shall take effect on its passage.\nEnacted, May 8, 1909."
+   }
+  }
+ ]
+}

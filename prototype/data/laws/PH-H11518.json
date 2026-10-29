@@ -1,0 +1,82 @@
+{
+ "id": "PH-H11518",
+ "title": {
+  "zh": null,
+  "en": "AN ACT PROVIDING FOR A LOAN OF SEVEN THOUSAND FIVE HUNDRED DOLLARS, UNITED STATES CURRENCY, TO THE PROVINCE OF CAPIZ.",
+  "orig": "AN ACT PROVIDING FOR A LOAN OF SEVEN THOUSAND FIVE HUNDRED DOLLARS, UNITED STATES CURRENCY, TO THE PROVINCE OF CAPIZ."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 805",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 1325,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_00805_1903_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_00805_1903_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H11518-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "There is hereby appropriated, out of any funds in the Insular Treasury not otherwise appropriated,\nthe sum of seven thousand five hundred dollars, United States currency, or its equivalent in Philippines\ncurrency, in the discretion of the Insular Treasurer, to be loaned to the Province of Capiz, and to be expended\nby the provincial board of that province, for the general purposes of the provincial government."
+   }
+  },
+  {
+   "id": "PH-H11518-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The money appropriated in the first section of this Act shall be paid to the supervisor-treasurer of\nthe Province of Capiz upon the production by him to the Treasurer of the Philippine Archipelago of a\ncertified copy of a resolution of the provincial board of the Province of Capiz accepting such loan and\nagreeing to repay the same, without interest, in three annual payments, one-third tin or before one year from\nthe date of acceptance of the loan, one-third on or before two years from said date, and one-third on or before\nthree years from the date of such acceptance."
+   }
+  },
+  {
+   "id": "PH-H11518-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "The public good requiring the speedy enactment of this bill, the passage of the same is hereby\nexpedited in accordance with section two of \"An Act prescribing the order of procedure by the Commission\nin the enactment of laws,\" passed September twenty-sixth, nineteen hundred."
+   }
+  },
+  {
+   "id": "PH-H11518-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted July 23, 1903."
+   }
+  }
+ ]
+}

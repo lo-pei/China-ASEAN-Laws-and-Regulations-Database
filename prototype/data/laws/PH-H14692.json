@@ -1,0 +1,62 @@
+{
+ "id": "PH-H14692",
+ "title": {
+  "zh": null,
+  "en": "An Act Amending Chapter One of Act Numbered Twenty Four Hundred and Twenty-Seven, Known as \"the Insurance Act,\" So as to Provide a Time Limit of Not Less than One Year for Bringing Suit Under Any Policy of Insurance, and for Other Purposes.",
+  "orig": "An Act Amending Chapter One of Act Numbered Twenty Four Hundred and Twenty-Seven, Known as \"the Insurance Act,\" So as to Provide a Time Limit of Not Less than One Year for Bringing Suit Under Any Policy of Insurance, and for Other Purposes."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1933-12-01",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 4101",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 426,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1933/act_4101_1933.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_04101_1933_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_04101_1933_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14692-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Chapter one of Act Numbered Twenty-four hundred and twenty-seven is hereby amended by\ninserting the following section therein:\n\"Section 61-A. Any condition, stipulation or agreement in any policy of insurance, limiting the time for\ncommencing an action thereunder to a period of less than one year from the time when the cause of action\naccrues, is void.\""
+   }
+  },
+  {
+   "id": "PH-H14692-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, December 1, 1933."
+   }
+  }
+ ]
+}

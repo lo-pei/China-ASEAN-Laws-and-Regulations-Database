@@ -1,0 +1,34 @@
+/* ==========================================================================
+   CALR · D 译文层（与官方原文物理分离）
+   目标语言: en   来源分卷: bn-p04
+   法规 1 部 / 译文 1 条
+   由 _work/patch/ingest-en.js 生成，请勿手工编辑。
+   ========================================================================== */
+(function (root) {
+  'use strict';
+  var TR = root.CALR_TRANS = root.CALR_TRANS || {};
+
+  TR["BN-H081"] = {
+    "lawId": "BN-H081",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-patch-en-v1",
+    "translatedAt": "2026-10-27",
+    "reviewed": "machine",
+    "completenessNote": "补译缺口条文；条号与原文一一对应。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Free Trade Zone Act, 2014 Free Trade Zone (Declaration of Area) Notification Contents Article 1 Citation Article 2 Free trade zone Free Trade Zone Act, 2014 Free Trade Zone (Declaration of Area) Notification Article 1 Citation This Notification may be cited as the Free Trade Zone (Declaration of Area) Notification.\nArticle 2 Free trade zone The area set out in Schedule 1 is hereby declared to be a free trade zone, the boundaries of which are described in the plan set out in Schedule 2.\nSCHEDULE 1 (Regulation 2) TERUNJING Industrial Area The “TERUNJING Industrial Area Free Trade Zone” covers an area of 95 hectares, bounded by the Rimba Highway, the TERUNJING Trunk Road, the Muara–Tutong Highway and Lambak Village.\nThe boundary starts at the northernmost corner of the said “TERUNJING Industrial Area Free Trade Zone”, the coordinates of which are Northing 551744.0000 metres and Easting 584253.0000 metres from Lamback Village (A), and runs approximately as follows:\nPoint Northing Easting 11 551744.0000 584253.0000 12 551703.0000 584267.0000 13 551689.0000 584280.0000 14 551583.0000 584318.0000 15 551595.0000 584365.0000 16 551561.0000 584377.0000 17 551537.0000 584332.0000 18 551480.0000 584275.0000 19 551508.0000 584247.0000 20 551408.0000 584137.0000 21 551394.0000 584120.0000 22 551380.0000 584101.0000 23 551246.0000 583908.0000 24 551234.0000 583885.0000 25 551085.0000 583695.0000 26 551058.0000 583681.0000 27 551039.0000 583709.0000 28 551004.0000 583692.0000 29 550932.0000 583554.0000 30 550898.0000 583515.0000 31 550834.0000 583475.0000 32 550858.0000 583393.0000 33 550871.0000 583350.0000 34 550914.0000 583347.0000 35 550909.0000 583293.0000 36 550760.0000 583304.0000 37 550765.0000 583358.0000 38 550756.0000 583412.0000 39 550687.0000 583358.0000 40 550659.0000 583318.0000 41 550642.0000 583267.0000 42 550624.0000 583236.0000 43 550573.0000 583210.0000 44 550509.0000 583211.0000 45 550456.0000 583230.0000 46 550417.0000 583261.0000 47 550385.0000 583292.0000 48 550314.0000 583180.0000 49 550326.0000 583161.0000 50 550363.0000 583073.0000 51 550372.0000 582996.0000 52 550369.0000 582900.0000 53 550373.0000 582818.0000 54 550398.0000 582746.0000 55 550517.0000 582526.0000 56 550744.0000 582685.0000 57 550672.0000 582803.0000 58 550784.0000 582867.0000 59 550834.0000 582784.0000 60 550853.0000 582753.0000 61 550987.0000 582836.0000 62 551067.0000 582857.0000 63 551367.0000 582893.0000 64 551381.0000 583099.0000 65 551437.0000 583434.0000 66 551497.0000 583593.0000 67 551613.0000 583897.0000 68 551661.0000 584022.0000 (distance from the starting point) SCHEDULE 2 (Regulation 2) TERUNJING Industrial Area Free Trade Zone Made this 12th day of the 11th month of 1438 Hijri, corresponding to 5 August 2017."
+        },
+        "noLabel": {
+          "en": "Article 1"
+        }
+      }
+    ]
+  };
+
+})(typeof window !== 'undefined' ? window : globalThis);

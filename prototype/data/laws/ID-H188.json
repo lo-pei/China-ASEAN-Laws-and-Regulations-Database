@@ -1,0 +1,328 @@
+{
+ "id": "ID-H188",
+ "title": {
+  "zh": "警察基本规定法",
+  "en": "basic provisions police Law",
+  "id": "ketentuan-ketentuan pokok kepolisian",
+  "orig": "KETENTUAN-KETENTUAN POKOK KEPOLISIAN",
+  "vi": "Luật quy định cơ bản cảnh sát",
+  "th": "พระราชบัญญัติ ข้อกำหนดหลัก ตำรวจ",
+  "ms": "Akta ketentuan-ketentuan pokok kepolisian"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02c",
+ "language": "id",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "1961",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "-",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 18,
+ "chars": 15502,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": null
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\01_宪法与基础法\\印尼_WLD_1961_KETENTUAN-KETENTUAN POKOK KEPOLISIAN.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 19 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H188-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 1.\n(1). Kepolisian Negara Republik Indonesia, selanjutnya disebut\nKepolisian Negara, ialah alat Negara penegak hukum yang terutama\nbertugas\nmemelihara keamanan didalam negeri.\n(2). Kepolisian Negara dalam menjalankan tugasnya selalu\nmenjunjung tinggi hak-hak azasi rakyat dan hukum Negara."
+   }
+  },
+  {
+   "id": "ID-H188-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB I."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 2.\nDalam melaksanakan ketentuan-ketentuan dalam pasal 1 maka\nKepolisian Negara mempunyai tugas :\n(1) a. memelihara ketertiban dan menjamin keamanan umum;\nb. mencegah dan memberantas menjalarnya penyakit-penyakit\nmasyarakat;\nc. memelihara keselamatan Negara terhadap gangguan dari dalam;\nd. memelihara keselamatan orang, benda dan masyarakat, termasuk\nmemberi perlindungan dan pertolongan; dan\ne. mengusahakan ketaatan warga-negara dan masyarakat terhadap\nperaturan-peraturan Negara;\n(2) dalam bidang peradilan mengadakan penyelidikan atas\nkejahatan dan pelanggaran menurut ketentuan-ketentuan dalam\nundang-undang\nHukum Acara Pidana dan lain-lain peraturan\nNegara;\n(3) mengawasi aliran-aliran kepercayaan yang dapat membahayakan\nmasyarakat dan Negara;\n(4) melaksanakan tugas-tugas khusus lain yang diberikan\nkepadanya oleh suatu peraturan Negara."
+   }
+  },
+  {
+   "id": "ID-H188-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB I."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 3.\nKepolisian Negara adalah Angkatan Bersenjata.\nTGPT NAME=\"ps4\">Pasal 4.\nSemua peraturan-peraturan kepegawaian, gaji, pendidikan,\nperawatan, kesejahteraan rokhani/jasmani dan urusan sosial dari\nanggota Kepolisian\nNegara dan keluarganya diatur dengan peraturan\nNegara.\nBAB II.\nPIMPINAN DAN SUSUNAN KEPOLISIAN NEGARA"
+   }
+  },
+  {
+   "id": "ID-H188-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB II."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 5.\n(1) Penyelenggaraan tugas Kepolisian Negara dilakukan oleh\nDepartemen Kepolisian.\n(2) Susunan Organisasi, termasuk didalamnya pengkhususan\nlingkungan kerja tertentu, diatur lebih lanjut dengan\nKeputusan-keputusan\nPresiden."
+   }
+  },
+  {
+   "id": "ID-H188-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB II."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 6.\nPresiden memegang kekuasaan tertinggi atas Kepolisian\nNegara."
+   }
+  },
+  {
+   "id": "ID-H188-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB II."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 7.\n(1) Menteri yang menguasai Kepolisian Negara, selanjutnya\ndisebut Menteri, memegang pimpinan penyelenggaraan tugas Kepolisian\nNegara,\nbaik pencegahan (prepentip) maupun pemberantasan\n(represip).\n(2) Menteri menetapkan kebijaksanaan kepolisian, sesuai dengan\npolitik Pemerintah umumnya dan politik keamanan nasional khususnya\nserta bertanggung jawab atas pelaksanaan tugas memelihara keamanan\ndidalam negeri.\n(3) Menteri memegang pimpinan Departemen Kepolisian.\n(4) Menteri memegang pimpinan dan penguasaan umum daripada\nKepolisian Negara."
+   }
+  },
+  {
+   "id": "ID-H188-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB II."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 8.\nKepala Kepolisian Negara memegang pimpinan tehnis dan Komando\nAngkatan Kepolisian Negara."
+   }
+  },
+  {
+   "id": "ID-H188-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB II."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 9.\n(1) Kepolisian Negara merupakan satu kesatuan.\n(2) Pembagian wilayah Republik Indonesia dalam daerah-daerah\nwewenang Kepolisian disusun menurut keperluan pelaksanaan tugas\nKepolisian\nNegara dan ditetapkan dengan Peraturan Pemerintah.\n(3) Pimpinan Kepolisian di daerah bertanggung jawab atas\npimpinan serta pelaksanaan kebijaksanaan keamanan dan lain-lain\ntugas Kepolisian\ndi daerahnya masing-masing dan langsung\nbertanggung jawab kepada penjabat Polisi yang menurut hierarchi ada\ndi atasnya."
+   }
+  },
+  {
+   "id": "ID-H188-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB II."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\nMengingat adanya wewenang Kepala Daerah yang memegang pimpinan\nkebijaksanaan politik polisionil dan koordinasi dinas- dinas\nvertikal\ndi daerahnya maka Kepala Daerah dapat mempergunakan\nKepolisian Negara yang ada dalam daerahnya untuk melaksanakan\nwewenangnya dengan\nmemperhatikan hierarchi dalam Kepolisian\nNegara.\nBAB III\nWEWENANG DAN KEWAJIBAN"
+   }
+  },
+  {
+   "id": "ID-H188-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 11.\n(1) Pada umumnya tiap-tiap penjabat Kepolisian Negara menjalankan\ntugas kepolisian tersebut pada pasal 2 dalam wilayah dimana ia\nditempatkan.\n(2) Ia berwenang menjalankan tugas kepolisian tersebut di seluruh\nwilayah Republik Indonesia."
+   }
+  },
+  {
+   "id": "ID-H188-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 12.\nPenyidikan perkara dilakukan oleh penjabat-penjabat Kepolisian\ntertentu, yang selanjutnya diatur dengan Peraturan Menteri."
+   }
+  },
+  {
+   "id": "ID-H188-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 13.\nUntuk kepentingan penyidikan, maka Kepolisian Negara\nberwenang:\na. menerima pengaduan;\nb. memeriksa tanda pengenalan;\nc. mengambil sidik jari dan memotret seseorang;\nd. menangkap orang;\ne. mengggeledah badan;\nf. menahan orang sementara;\ng. memanggil orang untuk didengar dan diperiksa;\nh. mendatangkan ahli;\ni. menggeledah halaman, rumah, gudang, alat pengangkutan darat -\nlaut dan - udara;\nj. membeslah barang untuk dijadikan bukti; dan\nk. mengambil tindakan-tindakan lain;\na sampai dengan k menurut ketentuan-ketentuan dalam\nUndang-undang Hukum Acara Pidana dan/atau lain peraturan Negara,\ndengan senantiasa\nmengindahkan norma-norma keagamaan,\nperikemanusiaan, kesopanan dan kesusilaan."
+   }
+  },
+  {
+   "id": "ID-H188-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 14.\nMenteri mengawasi agar penahanan dan perlakuan terhadap orang\nyang ditahan oleh penjabat-penjabat Kepolisian Negara dilakukan\nberdasarkan\nhukum dan mengadakan ketentuan-ketentuan guna\npelaksanaan pengawasan tersebut."
+   }
+  },
+  {
+   "id": "ID-H188-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 15.\nDalam melaksanakan wewenang dimaksud dalam pasal 12 dan 13 maka\ndiindahkan ketentuan-ketentuan dalam Undang-undang Pokok\nKejaksaan.\nBAB IV.\nHUBUNGAN DENGAN INSTANSI-INSTANSI LAIN."
+   }
+  },
+  {
+   "id": "ID-H188-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB IV."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 16.\nHubungan Kepolisian Negara dengan instansi-instansi lain\ndidasarkan atas sendi-sendi hubungan fungsionil, dengan\nmengindahkan hierarchi\nmasing-masing fihak."
+   }
+  },
+  {
+   "id": "ID-H188-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB IV."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 17.\nDalam hal terjadi gangguan ketertiban dan keamanan umum, dalam\nhal mana diduga bahwa tenaga Kepolisian Negara tidak mencukupi\nuntuk\nmengatasinya, maka diberikan bantuan militer, menurut\nperaturan-peraturan yang berlaku tentang bantuan militer."
+   }
+  },
+  {
+   "id": "ID-H188-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB IV."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 18.\n(1) Mengenai tugas serta kedudukan Kepolisian Negara pada waktu\nNegara dinyatakan dalam keadaan bahaya, berlaku peraturan-peraturan\nperundang-undangan tentang keadaan bahaya.\n(2) Kepolisian Negara dapat diikut-sertakan secara fisik didalam\npertahanan dan ikut serta didalam pengalaman usaha pertahanan guna\nmencapai potensi maximal dari rakyat di dalam pertahanan total.\nBAB V.\nPENUTUP"
+   }
+  },
+  {
+   "id": "ID-H188-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB V."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 19.\nUndang-undang ini dapat disebut \"UNDANG-UNDANG POKOK KEPOLISIAN\nNEGARA\" dan mulai berlaku, pada hari diundangkan.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan\npengundangan undang-undang ini dengan penempatan dalam Lembaran\nNegara\nRepublik Indonesia.\nDisahkan di Jakarta\npada tanggal 30 Juni 1961\nPejabat Presiden Republik Indonesia\nJUANDA.\nDiundangkan di Jakarta.\npada tanggal 30 Juni 1961.\nPejabat Sekretaris Negara,\nSANTOSO.\nPENJELASAN\nATAS\nUNDANG-UNDANG NOMOR 13 TAHUN 1961\nTENTANG\nKETENTUAN-KETENTUAN POKOK KEPOLISIAN NEGARA.\nUMUM.\n1. Seperti juga halnya dengan alat-alat kekuasaan Negara\nlainnya, Kepolisian Negara Republik Indonesia adalah alat revolusi\ndalam\nrangka Pembangunan Nasional Semesta Berencana untuk menuju\ntercapainya masyarakat adil dan makmur bersama berdasarkan\nPancasila atau\nmasyarakat Sosialis Indonesia guna memenuhi Amanat\nPenderitaan Rakyat.\nPada waktu sekarang dirasakan perlu untuk mengadakan konsolidasi\nsekedarnya dalam tugas dan organisasi Kepolisian Negara sebagai\nalat revolusi dan sebagai penegak hukum di antara alat- alat\nrevolusi dan penegak-penegak hukum lainnya. Yang dimaksudkan ialah\nkonsolidasi\nberupa penampungan dalam suatu Undang-undang sehingga\ndiperoleh pegangan yang serba tegas dan cukup jelas bagi Kepolisian\nNegara\ndalam menunaikan tugasnya.\nSekiranya tidak perlu dijelaskan lebih lanjut bahwa penyusunan\nUndang-undang Pokok Kepolisian ini didasarkan pada Ketetapan\nMajelis\nPermusyawaratan Rakyat Sementara Nomor I/MPRS/ 1960 dan\nNomor II MPRS/ 1960 (Lampiran A mengenai bidang Keamanan\n/Pertahanan Nomor\n42, Nomor 46 dan Nomor 48).\n2. Mengingat rangka dan tujuan Kepolisian Negara sebagai yang\ndikemukakan di atas maka diharapkan bahwa tugas Kepolisian Negara\ndiselenggarakan\npula dengan jiwa pembangunan Nasional Semesta\nBerencana itu.\n3. Sebagai tugas pokok Kepolisian Negara dapat disebut\nmemelihara keamanan didalam Negeri. Penyidikan tindak pidana\ntermasuk pula\ntugas pokok Kepolisian Negara dalam bidang\nperadilan.\nPenyidikan terutama ditujukan terhadap tindak pidana yang\nmerintangi tujuan revolusi mencapai masyarakat adil dan makmur.\nSesuai dengan\npembagian kerja antara Kepolisian Negara dan\nKejaksaan maka perlu ditegaskan bahwa penuntutan perkara diserahkan\nsemata-mata kepada\nKejaksaan, dengan pengertian bahwa dalam hal-hal\ntertentu, menurut dan seperti yang ditetapkan dalam Undang-undang\nHukum Acara Pidana\ndan lain-lain peraturan Negara, Polisi Negara\nberwenang mengajukan suatu perkara pidana langsung kepada\nPengadilan.\nBerhubung dengan hal bahwa Kejaksanaan berwenang melakukan\npenyidikan lanjutan, maka perlu adanya ketentuan-ketentuan yang\nmengatur\nkerja sama antara Kejaksaan dan Kepolisian Negara dalam\npenyidikan lanjutan. Ketentuan-ketentuan yang dimaksudkan itu\ndiatur tersendiri\nantara instansi-instansi yang bersangkutan.\nSelanjutnya, berhubung dengan penyidikan perkara, perlu dicatat\nbahwa dalam praktek Kepolisian (menurut hukum yang tak tertulis)\nfihak Kepolisian Negara berdasarkan kepentingan umum dapat\nmenyampingkan suatu perkara yang serba ringan, sehingga perkara itu\ntidak\nsampai pada tingkat penuntutan oleh Jaksa. Praktek yang\ndimaksud itu dapat berlangsung terus.\nBerhubung dengan penuntutan perkara yang menjadi tugas semata-mata\ndari Kejaksaan ditambah wewenang Jaksa Agung untuk menyampingkan\nsuatu perkara berdasarkan kepentingan umum, perlu dicatat bahwa\nmengenai penyampingan perkara berlaku dan tetap berlaku prosedur,\nbahwa Kepala Kepolisian Negara diajak berunding sebelum diambil\ntindakan penyampingan oleh Jaksa Agung, sesuai dengan\nketentuan-ketentuan\ndalam Undang-undang Pokok Kejaksaan.\nPASAL DEMI PASAL.\nPasal 1.\nayat (1).\nKhusus dalam rangka Pembangunan Nasional Semesta Berencana menuju\nke \"Masyarakat Sosialis Indonesia\" tugas memelihara keamanan\ndidalam\nnegeri ditujukan kepada tiap gangguan /bahaya yang\ndatangnya dari dalam dan yang mengancam usaha-usaha mencapai tujuan\nNasional kita,\nsebagaimana ditegaskan dalam Ketetapan Majelis\nPermusyawaratan Rakyat Sementara No. I/MPRS/ 1960 dan No.\nII/MPRS/1960 (annex lampirannya).\nayat (2). Dalam istilah\n\"menjunjung tinggi\" termasuk pengertian \"memberi perlindungan\".\nPasal 2.\nTugas-tugas Kepolisian Negara dalam pasal ini merupakan perincian\ndaripada tugas yang disebut dalam pasal 1.\nUntuk kepentingan pelaksanaan tugas tersebut maka pada Kepolisian\nNegara diadakan antara lain Polisi Wanita, yang jumlahnya akan\nmemenuhi keperluan di daerah sehingga pada pelosok-pelosok.\nTugas kepolisian itu ditujukan kepada semua orang dan golongan,\ntermasuk orang-orang asing, yang berada di Indonesia.\nayat (1).\nhuruf a.\nCukup jelas.\nhuruf b.\nYang dimaksud dengan penyakit masyarakat adalah antara lain:\n1. pengemisan;\n2. pelacuran;\n3. perjudian;\n4. pemadatan, pemabukan;\n5. perdagangan manusia;\n6. penghisapan (woeker);\n7. pergelandangan.\nAdapun tugas Kepolisian Negara dalam mencegah dan memberantas\npenyakit-penyakit masyarakat tersebut ditujukan kepada penyakit-\npenyakit\nmasyarakat yang akan/telah menjadi kejahatan/\npelanggaran.\nDalam hal ini Kepolisian Negara bekerja erat dengan Departemen\nKesejahteraan Sosial dan instansi-instansi lain yang\nbersangkutan.\nhuruf c.\nCukup jelas.\nhuruf d.\nCukup jelas.\nhuruf e.\nKepolisian Negara mengusahakan ketaatan warga negara dan\nmasyarakat kepada peraturan-peraturan Negara yang jaminan\npengamanannya\ndiserahkan kepada Kepolisian Negara.\nayat (2).\nCukup jelas.\nayat (3).\nPelaksanaan tugas ini, dihubungkan dengan ketentuan dalam pasal 1\nayat (2) tentang menjunjung tinggi hak-hak azasi rakyat antara\nlain\nyang terdapat dalam pasal 29 Undang-undang Dasar tentang kebebasan\nberagama.\nDalam istilah \"menjunjung tinggi\" termasuk pengertian \"memberi\nperlindungan\".\nayat (4).\nTugas-tugas khusus lain yang dimaksud didalam ayat ini,\ndiantaranya adalah tugas yang tercantum dalam ketetapan Majelis\nPermusyawaratan\nRakyat Sementara No. II/MPRS/1960 bidang\nPemerintahan dan Keamanan/Pertahanan No. 51 yang menyatakan :\n\"Polisi Negara diikut-sertakan dalam proses produksi dengan tidak\nmengurangi tugas utamanya.\"\nPasal 3.\nKetentuan dalam ayat ini adalah sesuai dengan Ketetapan Majelis\nPermusyawaratan Rakyat Sementara No. II/MPRS/1960.\nPasal 4.\nPasal ini adalah untuk menegaskan bahwa peraturan-peraturan\nkepegawaian dan sebagainya, untuk Kepolisian Negara berdasarkan\nkepada\nKetetapan Majelis Permusyawaratan Rakyat Sementara pasal 8\nyo Buku 'KE-EMPAT, JILID XII Bab 103 yo Bab 104 S 1183 mengenai\nPenyusunan\nKepolisian Negara.\nPasal 5.\nayat (1)\nCukup jelas.\nayat (2).\nPada Kepolisian Negara terdapat dinas-dinas dan lembaga-lembaga\nkhusus untuk membantu Kepolisian Negara dalam melaksanakan\ntugasnya.\nPasal 6.\nPemimpin tertinggi dari Kepolisian Negara ialah Presiden, karena\nmenurut Undang-undang Dasar 1945 Presiden adalah Kepala\nPemerintahan\ndan Menteri-menteri adalah Pembantu-pembantunya, yang\nmasing-masing langsung bertanggung jawab kepada Presiden. Pasal ini\nharus dihubungkan\npula dengan ketentuan dan penjelasan pasal 3.\nPasal 7 dan Pasal 8.\nPasal 7 menurut ketentuan-ketentuan tentang tugas dan wewenang\nMenteri.\nPasal 8 memuat ketentuan-ketentuan tentang tugas dan wewenang\nKepala Kepolisian Negara. Jabatan Menteri yang memegang pimpinan\nDepartemen\nKepolisian dipangku oleh Kepala Kepolisian Negara\nsendiri, karena jabatan Menteri tersebut menghendaki pula\npengertian dan pengetahuan\nsedalam-dalamnya tentang tehnik\nkepolisian, sesuai dengan Keputusan Presiden No. 21 Tahun 1960 yang\nmengadakan jabatan Menteri/Kepala\nKepolisian Negara.\nPasal 9.\nayat (1).\nCukup jelas.\nayat (2).\nPembagian daerah wewenang Kepolisian Negara disusun menurut\nkeperluan pelaksanaan tugas Kepolisian Negara, karena pembagian\ndaerah\nmenurut persoalan kepolisian adalah lebih sesuai dengan\ntugas kepolisian yang harus dilaksanakan. Walaupun demikian, dalam\nhal pelaksanaannya\nharus diusahakan harmonis-dengan pembagian\nadministratip dari instansi-instansi lain di luar kepolisian\nNegara.\nayat (3).\nCukup jelas.\nPasal 10.\nUntuk kepentingan konsentrasi tindakan di daerah berdasarkan jiwa\ngotong-royong, maka Kepala Daerah dapat mengadakan koordinasi\ndari\nsemua usaha-usaha dari Dinas-dinas tehnis di daerahnya, termasuk\nKepolisian Negara di daerah.\nPasal 11.\nCukup jeals.\nPasal 12.\nDengan peraturan Menteri ditetapkan pejabat-pejabat mana diberi\nwewenang sebagai penyidik umum dan pejabat-pejabat mana sebagai\npembantu penyidik umum.\nMenteri menentukan syarat-syarat yang harus dipenuhi oleh penyidik\numum dan pembantu penyidik umum, untuk menjamin penyidikan perkara\nsebaik-baiknya tanpa sesuatu tekanan dan paksaan.\nPasal 13.\nCukup jelas.\nPasal 14.\nPengawasan ini ditujukan kepada sah atau tidaknya\npenahanan-penahanan orang sepanjang dilakukan oleh pejabat-pejabat\nKepolisian\nNegara.\nPejabat-pejabat yang menahan orang tidak berdasarkan hukum,\ndikenakan hukuman administratip dan / atau hukuman pidana.\nPasal 15.\nHubungan kerja sebagai yang dimaksud dalam pasal ini harus\ndilakukan dengan menjunjung tinggi kerja-sama yang sederajat,\nsesuai\ndengan semangat gotong-royong sebagai unsur kepribadian\nIndonesia.\nPasal 16.\nHubungan Kepolisian Negara dengan instansi-instansi lain\ndidasarkan atas sendi-sendi hubungan fungsionil, agar supaya dapat\ndijamin\nhierarchi dan disiplin Kepolisian Negara yang teguh.\nDisamping itu juga, hubungan instansi-instansi luar dengan fihak\nKepolisian Negara dilakukan menurut prosedur yang tidak melanggar\nhierarchi Kepolisian Negara, pun pula hubungan-hubungan hierarchi\nyang berlaku dilain instansi.\nPasal 17.\nCukup jelas.\nPasal 18.\nayat (1).\nCukup jelas.\nayat (2).\nKetentuan dalam ayat ini adalah sesuai dengan praktek sejak\nProklamasi Kemerdekaan hingga sekarang dan Ketetapan Majelis\nPermusyawaratan\nRakyat Sementara No. II/MPRS/1960.\nPasal 19.\nCukup jelas.\n--------------------------------\nCATATAN\nDisetujui D.P.R.G.R. dalam rapat pleno terbuka ke-27 pada hari\nSenin tanggal 19 Juni 1961, P.136/1961\nKutipan: LEMBARAN NEGARA DAN TAMBAHAN LEMBARAN NEGARA TAHUN 1961\nYANG TELAH DICETAK ULANG"
+   }
+  }
+ ]
+}

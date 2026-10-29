@@ -1,0 +1,72 @@
+{
+ "id": "PH-H10780",
+ "title": {
+  "zh": null,
+  "en": "AN ACT MAKING EFFECTIVE THE CERTIFICATES OF REGISTRATION, ISSUED UNDER GENERAL ORDER NUMBER FIFTY-EIGHT OF THE MILITARY GOVERNOR, DATED NOVEMBER SIXTEENTH, EIGHTEEN HUNDRED AND NINETY-NINE, DURING THE YEAR NINETEEN HUNDRED AND ONE, OR UNTIL FURTHER LEGISLATION ON THIS SUBJECT.",
+  "orig": "AN ACT MAKING EFFECTIVE THE CERTIFICATES OF REGISTRATION, ISSUED UNDER GENERAL ORDER NUMBER FIFTY-EIGHT OF THE MILITARY GOVERNOR, DATED NOVEMBER SIXTEENTH, EIGHTEEN HUNDRED AND NINETY-NINE, DURING THE YEAR NINETEEN HUNDRED AND ONE, OR UNTIL FURTHER LEGISLATION ON THIS SUBJECT."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 67",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 709,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_00067_1901_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_00067_1901_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H10780-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "All certificates of registration issued for the year nineteen hundred, under authority of General\nOrder Number Fifty-eight of the Military Governor, dated November sixteenth, eighteen hundred and ninety-\nnine, shall continue effective for the year nineteen hundred and one, or until such time as further legislation\non the subject is enacted."
+   }
+  },
+  {
+   "id": "PH-H10780-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Persons who have not taken out certificates of registration under the above order by January first,\nnineteen hundred and one, shall take out the same, but such shall have the same effect and legality only as\nthat given by section one to certificates lawfully issued during the year nineteen hundred."
+   }
+  },
+  {
+   "id": "PH-H10780-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, January 2, 1901."
+   }
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "id": "PH-H14108",
+ "title": {
+  "zh": null,
+  "en": "An Act Authorizing the Secretary of Justice to Acquire By Purchase the Papers, Documents, and Other Printed Works and Unpublished Manuscripts Concerning the Philippines, as Well as the Curios of the Libraries and Collections of Eduardo De Lete and the Late Epifanio De Los Santos, and Appropriating the Sum Necessary for this Purpose.",
+  "orig": "An Act Authorizing the Secretary of Justice to Acquire By Purchase the Papers, Documents, and Other Printed Works and Unpublished Manuscripts Concerning the Philippines, as Well as the Curios of the Libraries and Collections of Eduardo De Lete and the Late Epifanio De Los Santos, and Appropriating the Sum Necessary for this Purpose."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1928-12-07",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3475",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 779,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1928/act_3475_1928.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03475_1928_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03475_1928_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14108-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The Secretary of Justice is hereby authorized to acquire by purchase the papers, documents, and\nother printed works and unpublished manuscripts concerning the Philippines, as well as the curios of the\nlibraries and collections of Eduardo de Lete and the late Epifanio de los Santos, which shall upon their\nacquisition be preserved in the Philippine Library and Museum. The Secretary of Justice shall make a careful\ninvestigation and decide which books, documents, papers, unpublished manuscripts, and curios shall be"
+   }
+  },
+  {
+   "id": "PH-H14108-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The sum of twenty thousand pesos or so much thereof as may be necessary is hereby\nappropriated out of any funds in the Insular Treasury not otherwise appropriated, to carry out the purposes of"
+   }
+  },
+  {
+   "id": "PH-H14108-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, December 7, 1928."
+   }
+  }
+ ]
+}

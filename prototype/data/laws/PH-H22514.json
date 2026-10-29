@@ -1,0 +1,682 @@
+{
+ "id": "PH-H22514",
+ "title": {
+  "zh": null,
+  "en": "Philippine Environmental Code",
+  "orig": "Philippine Environmental Code"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1977-06-06",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 1152",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 64,
+ "chars": 32522,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_01152_1977_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 64 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_01152_1977_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22514-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Short Title. This Decree shall be known and cited as the \"Philippine Environment Code.\"\nAIR QUALITY MANAGEMENT"
+   }
+  },
+  {
+   "id": "PH-H22514-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Purposes. The purposes of this Title are:\n(a) to achieve and maintain such levels of air quality as to protect public health; and\n(b) to prevent to the greatest extent practicable, injury and/or damage to plant and animal life and property,\nand promote the social and economic development of the country."
+   }
+  },
+  {
+   "id": "PH-H22514-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "Ambient Air Quality Standards. There shall be established ambient air quality standards which\nshall prescribe the maximum concentration of air pollutants permissible in the atmosphere consistent with\npublic health, safety and general welfare.\nIn the establishment of ambient air quality standards, factors such as local atmospheric conditions, location\nand land use, and available technology, shall be considered among others."
+   }
+  },
+  {
+   "id": "PH-H22514-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "National Emission Standards. There shall be established national emission standards for new and\nexisting stationary and mobile sources of pollution which shall consider among others such factors as type of\nindustry, practicable control technology available, location and land use, and the nature of pollutants emitted."
+   }
+  },
+  {
+   "id": "PH-H22514-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "text": {
+    "en": "Community Noise Standards. Appropriate standards for community noise levels shall be\nestablished considering, among others, location, zoning and land use classification."
+   }
+  },
+  {
+   "id": "PH-H22514-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "text": {
+    "en": "Standards for Noise-Producing Equipment. There shall be established a standard for noise\nproducing equipment such as construction equipment, transportation equipment, stationary engines, and\nelectrical or electronic equipment and such similar equipment or contrivances. The standards shall set a limit\non the acceptable level of noise emitted from a given equipment for the protection of public health and\nwelfare, considering among others, the magnitude and condition of use, the degree of noise reduction\n\nachievable through the application of best available technology and the cost of compliance.\nThe Installation of any noise-producing equipment shall conform with the requirements of Presidential Decree\nNo. 1096 and other applicable laws as well as their implementing rules and regulations."
+   }
+  },
+  {
+   "id": "PH-H22514-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7"
+   },
+   "text": {
+    "en": "Aircraft Emission and Sonic Booms. Appropriate government agencies shall encourage research\nstudies on the harmful effects of aircraft emissions in the environment in order to establish permissible\nemission standards.\nResearch and studies shall also be undertaken to mitigate and/or minimize the effects of sonic booms in the\nenvironment.\nRegulation and Enforcement"
+   }
+  },
+  {
+   "id": "PH-H22514-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8"
+   },
+   "text": {
+    "en": "Air Quality and Noise Standards. The National Pollution Control Commission in coordination\nwith appropriate government agencies shall be responsible for the enforcement of ambient air quality emission\nand noise standards, including the monitoring and surveillance of air pollutants, licensing and permitting of air\npollution control facilities, and the promulgation of appropriate rules and regulations.\nExisting air quality emission and noise standards may be revised and/or modified consistent with new\ndevelopment and technology."
+   }
+  },
+  {
+   "id": "PH-H22514-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9"
+   },
+   "text": {
+    "en": "Aircraft Noise. Community noise standards around airports shall be implemented by the Civil\nAeronautics Administration in coordination with the National Pollution Control Commission."
+   }
+  },
+  {
+   "id": "PH-H22514-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10"
+   },
+   "text": {
+    "en": "Vehicular Emissions. The Land Transportation Commission, in coordination with the National\nPollution Control Commission, shall implement emission standards for motor vehicles and may deputize other\nappropriate law enforcement agencies for the purpose."
+   }
+  },
+  {
+   "id": "PH-H22514-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11"
+   },
+   "text": {
+    "en": "Radioactive Emissions. The release and emission of radioactivity into the environment incident\nto the establishment or possession of nuclear energy facilities and radioactive materials, handling, transport,\nproduction, storage, use and disposal of radioactive materials shall be regulated by the Philippine Atomic\nEnergy Commission in coordination with other appropriate government agencies.\nChapter III\nMonitoring"
+   }
+  },
+  {
+   "id": "PH-H22514-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12"
+   },
+   "text": {
+    "en": "Air Quality Monitoring. The National Pollution Control Commission, in coordination with\nappropriate government agencies, shall establish to the greatest extent practicable an air quality monitoring\nnetwork. Such air quality monitoring network shall put to maximum use the capabilities of these agencies.\nThe National Environmental Protection Council shall be furnished with the results of air quality monitoring\nactivities."
+   }
+  },
+  {
+   "id": "PH-H22514-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13"
+   },
+   "text": {
+    "en": "Weather Modification. The Philippine Atmospheric, Geophysical and Astronomical Services\nAdministration shall monitor regularly meteorological factors affecting environmental conditions in order to\neffectively guide air pollution monitoring activities.\nActivities relating to weather modification such as rainfall stimulation and storm seeding experiments shall be\nundertaken in consultation and/or in coordination with the Philippine Atmospheric, Geophysical and\nAstronomical Service Administration.\nWATER QUALITY MANAGEMENT"
+   }
+  },
+  {
+   "id": "PH-H22514-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14"
+   },
+   "text": {
+    "en": "Purpose. It is the purpose of this Title to prescribe management guidelines aimed to protect and\nimprove the quality of Philippine water resources through:\n(a) classification of Philippine waters;\n\n(b) establishment of water quality standards;\n(c) protection and improvement of the quality of the Philippine water resources, and\n(d) responsibilities for surveillance and mitigation of pollution incidents.\nClassification and Standards"
+   }
+  },
+  {
+   "id": "PH-H22514-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15"
+   },
+   "text": {
+    "en": "Classification of Philippine Waters. The National Pollution Control Commission, in\ncoordination with appropriate government agencies, shall classify Philippine waters, according to their best\nusage. In classifying said waters, the National Pollution Control Commission shall take into account, among\nothers, the following:\n(a) the existing quality of the body of water at the time of classification;\n(b) the size, depth, surface area covered, volume, direction, rate of flow, gradient of stream; and\n(c) the most beneficial uses of said bodies of water and lands bordering them for residential, agricultural,\ncommercial, industrial, navigational, recreational, and aesthetic purposes."
+   }
+  },
+  {
+   "id": "PH-H22514-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16"
+   },
+   "text": {
+    "en": "Reclassification of Waters Based on Intended Beneficial Use. Where the public interest so\nrequires, the National Pollution Control Commission, in coordination with appropriate government agencies,\nshall reclassify a body of water based on the intended beneficial use and take such steps as may be necessary\nto upgrade the quality of said water. Other government agencies may adopt higher standards for a particular\nbody of water, subject to the approval of the National Pollution Control Commission."
+   }
+  },
+  {
+   "id": "PH-H22514-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17"
+   },
+   "text": {
+    "en": "Upgrading of Water Quality. Where the quality of water has deteriorated to a degree where its\nstate will adversely affect its best usage, the government agencies concerned shall take such measures as may\nbe necessary to upgrade the quality of such water to meet the prescribed water quality standards."
+   }
+  },
+  {
+   "id": "PH-H22514-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18"
+   },
+   "text": {
+    "en": "Water Quality Standards. The National Pollution Control Commission shall prescribe quality\nand effluent standards consistent with the guidelines set by the National Environmental Protection Council\nand the classification of waters prescribed in the preceding sections, taking into consideration, among others,\nthe following:\n(a) the standard of water quality or purity may vary according to beneficial uses; and\n(b) the technology relating to water pollution control.\nProtection and Improvement of Water Quality"
+   }
+  },
+  {
+   "id": "PH-H22514-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19"
+   },
+   "text": {
+    "en": "Enforcement and Coordination. The production, utilization, storage and distribution of\nhazardous, toxic and other substances such as radioactive materials, heavy metals, pesticides, fertilizers, and\noils, and the disposal, discharge and dumping of untreated wastewater, mine tailings and other substances that\nmay pollute any body of water of the Philippines resulting from normal operations of industries, water-borne\nsources, and other human activities as well as those resulting from accidental spills and discharge shall be\nregulated by appropriate government agencies pursuant to their respective charters and enabling legislations.\nIn the performance of the above functions, the government agencies concern shall coordinate with the\nNational Environmental Protection Council and furnish the latter with such information as may be necessary\nto enable it to attain its objectives under Presidential Decree No. 1121."
+   }
+  },
+  {
+   "id": "PH-H22514-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20"
+   },
+   "text": {
+    "en": "Clean-up Operations. It shall be the responsibility of the polluter to contain, remove and clean\nup water pollution incidents at his own expense. In case of his failure to do so, the government agencies\nconcerned shall undertake containment, removal and clean-up operations and expenses incurred in said\noperations shall be charged against the persons and/or entities responsible for such pollution."
+   }
+  },
+  {
+   "id": "PH-H22514-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21"
+   },
+   "text": {
+    "en": "Water Quality Monitoring and Surveillance. The various government agencies concerned with\nenvironmental protection shall establish to the greatest extent practicable a water quality surveillance and\n\nmonitoring network with sufficient stations and sampling schedules to meet the needs of the country. Said\nwater quality surveillance network shall put to maximum use the capabilities of such government agencies.\nEach agency involved in such network shall report to the National Environmental Protection Council the\nresults of these monitoring activities as the need arises.\nLAND USE MANAGEMENT"
+   }
+  },
+  {
+   "id": "PH-H22514-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22"
+   },
+   "text": {
+    "en": "Purpose. The purposes of this Title are:\n(a) to provide a rational, orderly and efficient acquisition, utilization and disposition of land and its resources\nin order to derive therefrom maximum benefits; and\n(b) to encourage the prudent use and conservation of land resources in order to prevent and imbalance\nbetween the nation's needs and such resources."
+   }
+  },
+  {
+   "id": "PH-H22514-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23"
+   },
+   "text": {
+    "en": "National Land Use Scheme. The Human Settlements Commission, in coordination with the\nappropriate agencies of the government, shall formulate and recommend to the National Environmental\nProtection Council a land use scheme consistent with the purpose of this Title.\nThe Land Use Scheme shall include among others, the following:\n(a) a science-based and technology-oriented land inventory and classification system;\n(b) a determination of present land uses, the extent to which they are utilized, underutilized, rendered idle or\n(c) a comprehensive and accurate determination of the adaptability of the land for community development,\nagriculture, industry, commerce and other fields of endeavor;\n(d) a method of identification of areas where uncontrolled development could result in irreparable damage to\nimportant historic, cultural, or aesthetic values, or natural systems or processes of national significance;\n(e) a method for exercising control by the appropriate government agencies over the use of land in areas of\ncritical environmental concern and areas impacted by public facilities including, but not limited to, airports,\nhighways, bridges, ports and wharves, buildings and other infrastructure projects;\n(f) a method to ensure the consideration of regional development and land use in local regulations;\n(g) policy for influencing the location of new communities and methods for assuring appropriate controls over\nthe use of land around new communities;\n(h) a system of controls and regulations pertaining to areas and development activities designed to ensure that\nany source of pollution will not be located where it would result in a violation of any applicable\nenvironmental pollution control regulations; and\n(i) a recommended method for the periodic revisions and updating of the national land use scheme to meet\nchanging conditions."
+   }
+  },
+  {
+   "id": "PH-H22514-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24"
+   },
+   "text": {
+    "en": "Location of Industries. In the location of industries, factories, plants, depots and similar\nindustrial establishments, the regulating or enforcing agencies of the government shall take into consideration\nthe social, economic, geographic and significant environmental impact of said establishments.\nNATURAL RESOURCES MANAGEMENT AND CONSERVATION"
+   }
+  },
+  {
+   "id": "PH-H22514-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25"
+   },
+   "text": {
+    "en": "Purposes. The purposes of this Title are:\n(a) to provide the basic policy on the management and conservation of the country's natural resources to\nobtain the optimum benefits therefrom and to preserve the same for the future generations; and\n(b) to provide general measures through which the aforesaid policy may be carried out effectively.\n\nFisheries and Aquatic Resources"
+   }
+  },
+  {
+   "id": "PH-H22514-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26"
+   },
+   "text": {
+    "en": "Management Policy. The National government, through the Department of Natural Resources,\nshall establish a system of rational exploitation of fisheries and aquatic resources within the Philippine\nterritory and shall encourage citizen participation therein to maintain and/or enhance the optimum and\ncontinuous productivity of the same."
+   }
+  },
+  {
+   "id": "PH-H22514-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 27"
+   },
+   "text": {
+    "en": "Measures for National Exploitation. Measures for the national exploitation of fisheries and\nother aquatic resources may include, but shall not be limited to, the following:\n(a) undertaking manpower and expertise development;\n(b) acquiring the necessary facilities and equipment;\n(c) regulating the marketing of threatened species of fish or other aquatic resources;\n(d) reviewing all existing rules and regulations on the exploitation of fisheries and aquatic resources with a\nview of formulating guidelines for the systematic and effective enforcement thereof; and\n(e) conserving the vanishing species of fish and aquatic resources such as turtles, sea snakes, crocodiles,\ncorals, as well as maintaining the mangrove areas, marshes and inland waters, coral reef-areas and islands\nserving as sanctuaries for fish and other aquatic life."
+   }
+  },
+  {
+   "id": "PH-H22514-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 28"
+   },
+   "text": {
+    "en": "Management Policy. The national government through the Department of Natural Resources,\nshall establish a system of rational exploitation and conservation of wildlife resources and shall encourage\ncitizen participation in the maintenance and/or enhancement of their continuous productivity."
+   }
+  },
+  {
+   "id": "PH-H22514-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Section 29"
+   },
+   "text": {
+    "en": "Measures for Rational Exploitation. Measures for rational exploitation of wildlife resources\nmay include, but shall not be limited to, the following:\n(a) regulating the marketing of threatened wildlife resources.\n(b) reviewing all existing rules and regulations on the exploitation of wildlife resources with a view of\nformulating guidelines for the systematic and effective enforcement thereof; and\n(c) conserving the threatened species of fauna, increasing their rate of reproduction, maintaining their original\nhabitat, habitat manipulation, determining bag/creel limits, population control in relation to the carrying\ncapacity of any given area, banning of indiscriminate and/or destructive means of catching or hunting them.\nChapter III\nForestry and Soil Conservation"
+   }
+  },
+  {
+   "id": "PH-H22514-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Section 30"
+   },
+   "text": {
+    "en": "Management Policy for Forestry. The national government, through the Department of Natural\nResources, shall undertake a system of rational exploitation of forest resources and shall encourage citizen\nparticipation therein to keep the country's forest resources at maximum productivity at all time."
+   }
+  },
+  {
+   "id": "PH-H22514-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Section 31"
+   },
+   "text": {
+    "en": "Measures for Rational Exploitation of Forest Resources. Measures for the rational exploitation\nof forest resources may include, but shall not be limited to, the following:\n(a) regulating the marketing of threatened forest resources;\n(b) reviewing all existing rules and regulations on the exploitation of forest resources with a view of\nformulating guidelines for the systematic and efficient enforcement thereof;\n(c) conserving threatened species of flora as well as increasing their rate of propagation; the banning of\ndestructive modes of exploitation, kaingin making or shifting cultivation, indiscriminate harvesting of minor\nforest products the recycling methods of waste materials, and\n(d) carrying out a continuing effect on reforestation; timber stand improvement; forest protection; land\n\nclassification; forest occupancy management; agri-silviculture; range management; agri-silvicultural/kaingin\nmanagement; industrial tree plantation; parks and wildlife management; multiple use forest; timber\nmanagement and forest research."
+   }
+  },
+  {
+   "id": "PH-H22514-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Section 32"
+   },
+   "text": {
+    "en": "Use of Fertilizers and Pesticides. The use of fertilizers and pesticides in agriculture shall be\nregulated prescribing therefor a tolerance level in their use. Their use shall be monitored by appropriate\ngovernment agencies to provide empirical data for effective regulation."
+   }
+  },
+  {
+   "id": "PH-H22514-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Section 33"
+   },
+   "text": {
+    "en": "Management Policy on Soil Conservation. The national government, through the Department of\nNatural Resources and the Department of Agriculture, shall likewise undertake a soil conservation program\nincluding therein the identification and protection of critical watershed areas, encouragement of scientific\nfarming techniques, physical and biological means of soil conservation, and short-term and long-term\nresearches and technology for effective soil conservation.\nFlood Control and Natural Calamities"
+   }
+  },
+  {
+   "id": "PH-H22514-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "Section 34"
+   },
+   "text": {
+    "en": "Measures in Flood Control Program. In addition to the pertinent provisions of existing laws, the\nfollowing shall be included in a soil erosion, sediment and flood control program;\n(a) the control of soil erosion on the banks of rivers, the shores of lakes, and the seashores;\n(b) the control of flow and flooding in and from rivers and lakes;\n(c) the conservation of water which, for purposes of this Section shall mean forms of water, but shall not\ninclude captive water;\n(d) the needs of fisheries and wildlife and all other recreational uses of natural water;\n(e) measures to control the damming, diversion, taking, and use of natural water, so far as any such act may\naffect the quality and availability of natural water for other purposes; and\n(f) measures to stimulate research in matters relating to natural water and soil conservation and the application\nof knowledge thereby acquired."
+   }
+  },
+  {
+   "id": "PH-H22514-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "Section 35"
+   },
+   "text": {
+    "en": "Measures to Mitigate Destructive Effects of Calamities. The national government, through the\nPhilippine Atmospheric, Geophysical and Astronomical Services Administration, shall promote intensified\nand concerted research efforts on weather modification, typhoon, earthquake, tsunami, storm surge, and other\ntropical natural phenomena in order to bring about any significant effect to mitigate or prevent their\ndestructive effects.\nEnergy Development"
+   }
+  },
+  {
+   "id": "PH-H22514-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "Section 36"
+   },
+   "text": {
+    "en": "Policy. Consistent with the environmental protection policies, the national government, through\nthe Energy Development Board, shall undertake an energy development program encouraging the utilization\nof invariant sources such as solar, wind and tidal energy."
+   }
+  },
+  {
+   "id": "PH-H22514-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "Section 37"
+   },
+   "text": {
+    "en": "Measures for Energy Development. Measures for energy development program may include,\nbut shall not be limited to, the following:\n(a) setting up of pilot plants utilizing invariant sources of energy;\n(b) training of technical personnel for purposes of energy development; and\n(c) conducting researches aimed at developing technology for energy development."
+   }
+  },
+  {
+   "id": "PH-H22514-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "Section 38"
+   },
+   "text": {
+    "en": "Safety Measures on Energy Development. Rules and regulations shall be promulgated to\nprevent or mitigate the adverse effects of energy development on the environment. For this purpose, all\nnuclear powered plants exploring and utilizing geothermal energy, whether owned or controlled by private or\ngovernment entities shall:\n\n(a) observe internationally accepted standards of safety; and\n(b) provide safety devices to ensure the health and welfare of their personnel as well as the surrounding\nConservation and Utilization of Surface and Ground Waters"
+   }
+  },
+  {
+   "id": "PH-H22514-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "Section 39"
+   },
+   "text": {
+    "en": "Management Policy. In addition to existing laws, the national government through the National\nWater Resources Council in coordination with other appropriate government agencies, shall prescribe\nmeasures for the conservation and improvement of the quality of Philippine water resources and provide for\nthe prevention, control and abatement of water pollution.\nChapter VII\nMineral Resources"
+   }
+  },
+  {
+   "id": "PH-H22514-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "Section 40"
+   },
+   "text": {
+    "en": "Management Policy. - The national government, through the Department of Natural Resources,\nshall undertake a system of gainful exploitation and rational and efficient utilization of mineral resources and\nshall encourage citizen participation in this endeavor."
+   }
+  },
+  {
+   "id": "PH-H22514-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "Section 41"
+   },
+   "text": {
+    "en": "Measures for Exploitation and Utilization of Mineral Resources. Measures for the gainful\nexploitation and rational and efficient utilization of such mineral resources may include, but shall not be\nlimited to the following:\n(a) increasing research and development in mineral resources technology;\n(b) training of additional technical manpower needed in geology, geophysics, mining engineering, and related\n(c) regulating the exploitation of identified mineral reserves;\n(d) accelerating the exploration of undiscovered mineral deposits; and\n(e) encouraging the establishment of processing plants for refined metals.\nWASTE MANAGEMENT"
+   }
+  },
+  {
+   "id": "PH-H22514-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "Section 42"
+   },
+   "text": {
+    "en": "Purpose. The purposes of this Title are:\n(a) to set guidelines for waste management with a view to ensuring its effectiveness;\n(b) to encourage, promote and stimulate technological, educational economic and social efforts to prevent\nenvironmental damage and unnecessary loss of valuable resources of the nation through recovery, recycling\nand re-use of wastes and waste products; and\n(c) to provide measures to guide and encourage appropriate government agencies in establishing sound,\nefficient, comprehensive and effective waste management.\nEnforcement and Guidelines"
+   }
+  },
+  {
+   "id": "PH-H22514-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "Section 43"
+   },
+   "text": {
+    "en": "Waste Management Programs. Preparation and implementation of waste management program\nshall be required of all provinces, cities and municipalities. The Department of Local Government and\nCommunity Development shall promulgate guidelines for the formulation and establishment of waste\nmanagement programs.\nEvery waste management program shall include the following:\n(a) an orderly system of operation consistent with the needs of the area concerned;\n(b) a provision that the operation will not create pollution of any kind or will constitute public nuisance;\n(c) a system for a safe and sanitary disposal of waste;\n\n(d) a provision that existing plans affecting the development, use and protection of air, water or natural\nresources shall be considered;\n(e) schedules and methods of implementing the development, construction and operation of the plan together\nwith the estimated costs; and\n(f) a provision for the periodic revision of the program to ensure its effective implementation."
+   }
+  },
+  {
+   "id": "PH-H22514-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "Section 44"
+   },
+   "text": {
+    "en": "Responsibility of Local Governments. Each province, city or municipality shall provide\nmeasures to facilitate the collection, transportation, processing and disposal of waste within its jurisdiction in\ncoordination with other government agencies concerned. For this purpose, the national government shall\nprovide the necessary subsidy, to local governments upon request made through the National Environmental\nProtection Council and subject to such terms and conditions as the latter may provide.\nMethods of Solid Waste Disposal"
+   }
+  },
+  {
+   "id": "PH-H22514-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "Section 45"
+   },
+   "text": {
+    "en": "Solid Waste Disposal. Solid Waste disposal shall be by sanitary landfill, incineration,\ncomposing, and other methods as may be approved by competent government authority."
+   }
+  },
+  {
+   "id": "PH-H22514-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "Section 46"
+   },
+   "text": {
+    "en": "Sanitary Landfills. Local governments, including private individuals, corporations or\norganizations may operate one or more sanitary landfills. Any entity proposing to operate a sanitary landfill\nshall submit to the appropriate government agency an operational work plan showing, among other things, a\nmap of the proposed work location, disposal areas for rubbish, garbage, refuse and other waste matter; and the\nequipment or machinery needed to accomplish its operations. In no case shall landfill or work locations under\nthis Section be located along any shore or coastline, or along the banks of rivers and streams. lakes throughout\ntheir entire length, in violation of any existing rules and regulations."
+   }
+  },
+  {
+   "id": "PH-H22514-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "Section 47"
+   },
+   "text": {
+    "en": "Incineration and Composting Plants. The installation and establishment of incineration or\ncomposting plants, or the alteration/modification of any part thereof shall be regulated by the local\ngovernments concerned in coordination with the National Pollution Control Commission."
+   }
+  },
+  {
+   "id": "PH-H22514-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "Section 48"
+   },
+   "text": {
+    "en": "Disposal Sites. The location of solid waste disposal sites shall conform with existing zoning;\nland use standards, and pollution control regulations."
+   }
+  },
+  {
+   "id": "PH-H22514-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "Section 49"
+   },
+   "text": {
+    "en": "Dumping into the Sea and Other Navigable Waters. The dumping or disposal of solid wastes\ninto the sea and any body of water in the Philippines, including shorelines and river banks, where these wastes\nare likely to be washed into the water is prohibited. However, dumping of solid wastes or other materials into\nthe sea or any navigable waters shall be permitted in case of immediate or imminent danger to life and\nproperty, subject to the rules and regulations of the Philippine Coast Guard and the National Pollution Control\nCommission.\nGovernment agencies and private entities which are undertaking solid waste management programs shall\nmake consultations with the government agencies concerned with respect to the effects of such dumping to the\nmarine environment and navigation.\nChapter III\nMethods of Liquid Waste Disposal"
+   }
+  },
+  {
+   "id": "PH-H22514-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "Section 50"
+   },
+   "text": {
+    "en": "Liquid Waste Disposal. Wastewater from manufacturing plants, industries, community, or\ndomestic sources shall be treated either physically, biologically or chemically prior to disposal in accordance\nwith the rules and regulations promulgated by proper government authority."
+   }
+  },
+  {
+   "id": "PH-H22514-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "Section 51"
+   },
+   "text": {
+    "en": "Applicability of Sec. 8. The provisions of Sec. 8 hereof shall likewise apply to the dumping or\ndisposal of liquid waste into the sea and other bodies of water.\nMISCELLANEOUS PROVISIONS"
+   }
+  },
+  {
+   "id": "PH-H22514-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "Section 52"
+   },
+   "text": {
+    "en": "Population-Environment Balance. In the assessment of development projects, the National\nEnvironmental Protection Council, hereinafter referred to in this Title as the \"Council\" shall take into\nconsideration their effect on population with a view to achieving a rational and orderly balance between man\nand his environment."
+   }
+  },
+  {
+   "id": "PH-H22514-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "Section 53"
+   },
+   "text": {
+    "en": "Environmental Education. The Department of Education and Culture shall integrate subjects on\nenvironmental education in its school curricula at all levels. It shall also endeavor to conduct special\ncommunity education emphasizing the relationship of man and nature as well as environmental sanitation and\nThe Council and other government agencies implementing environmental protection laws in coordination with\npublic information agencies of the government shall undertake public information activities for the purpose of\nstimulating awareness and encouraging involvement in environmental protection."
+   }
+  },
+  {
+   "id": "PH-H22514-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "Section 54"
+   },
+   "text": {
+    "en": "Environmental Research. The Council shall undertake and/or promote continuing studies and\nresearch programs on environmental management and shall, from time to time, determine priority areas of\nenvironmental research."
+   }
+  },
+  {
+   "id": "PH-H22514-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "Section 55"
+   },
+   "text": {
+    "en": "Monitoring and Dissemination of Environmental Information of Foreign Origin. The Council\nshall keep itself informed of current environmental developments by obtaining information and literature from\nforeign sources through the Department of Foreign Affairs, government agencies and other entities, both\ndomestic and foreign. Such information and literature shall be given the widest dissemination possible."
+   }
+  },
+  {
+   "id": "PH-H22514-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "Section 56"
+   },
+   "text": {
+    "en": "Incentives. To operate the installation and the utilization of pollution control facilities, the\nfollowing incentives are hereby granted:\n(a) exemption to the extent of fifty (50) per cent of tariff duties and compensating tax for the importation of\npollution control equipment, devices, spare parts and accessories for a period of five (5) years from the\neffectivity of this Decree subject to the conditions that will be imposed by the Council.\n(b) a tax credit equivalent to fifty (50) per cent of the value of the compensating tax and tariff duties that\nwould have been paid on the pollution control equipment, devices, spare parts and accessories had these items\nbeen imported shall, within a period of seven (7) years from the effectivity of this Decree be given to the\nperson or firm who or which purchases them from a domestic manufacturer, and another tax credit equivalent\nto twenty-five (25) per cent thereof shall be given to the said manufacturer subject to such conditions as may\nbe imposed by the Council; and\n(c) deductions equivalent to fifty (50) per cent of the expenses actually incurred on research projects\nundertaken to develop technologies for the manufacture of pollution control equipment which have been\nproven effective and commercially reproducible, from the taxable income of the person or firm actually\nundertaking such projects subject to the conditions that may be imposed by the Council.\nThe pollution control equipment, devices, spare parts and accessories acquired under this Section shall not be\nsold, transferred or disposed of within five (5) years from the date of acquisition without the prior approval of\nthe Council otherwise the importer or purchaser shall pay twice the amount of the tax exemption or tax credit"
+   }
+  },
+  {
+   "id": "PH-H22514-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "Section 57"
+   },
+   "text": {
+    "en": "Financial Assistance/Grant. Financial assistance/grant for the study, design and construction of\nenvironmental protection facilities especially for waste disposal in favor of cities, municipalities, small and\nmedium-scale industries may be granted on a case to case basis subject to such conditions as may be imposed\nby the Council."
+   }
+  },
+  {
+   "id": "PH-H22514-A58",
+   "no": 58,
+   "noLabel": {
+    "en": "Section 58"
+   },
+   "text": {
+    "en": "Participation of Local Government Units and Private Individuals. It shall be the responsibility\nof local government units as well as private individuals to actively participate in the environmental\nmanagement and protection programs of the government."
+   }
+  },
+  {
+   "id": "PH-H22514-A59",
+   "no": 59,
+   "noLabel": {
+    "en": "Section 59"
+   },
+   "text": {
+    "en": "Preservation of Historic and Cultural Resources and Heritage. It shall be the duty of every\n\nperson to help preserve the historic and cultural resources of the country such as sites, structures, artifacts,\ndocuments, objects, memorials and priceless trees."
+   }
+  },
+  {
+   "id": "PH-H22514-A60",
+   "no": 60,
+   "noLabel": {
+    "en": "Section 60"
+   },
+   "text": {
+    "en": "Government Offices Performing Environmental Protection Functions. Government agencies\nvested by law to exercise environmental management powers, shall continue to function as such within their\nrespective jurisdictions. The Council may, however, in the exercise of its powers and functions under\nPresidential Decree No. 1121, inquire into any action or issue of environmental significance."
+   }
+  },
+  {
+   "id": "PH-H22514-A61",
+   "no": 61,
+   "noLabel": {
+    "en": "Section 61"
+   },
+   "text": {
+    "en": "Public Hearings. The Council may, whenever it deems necessary, conduct public hearings on\nissues of environmental significance."
+   }
+  },
+  {
+   "id": "PH-H22514-A62",
+   "no": 62,
+   "noLabel": {
+    "en": "Section 62"
+   },
+   "text": {
+    "en": "Definition of Terms. As used in this Code:\n(a) \"Ambient Air Quality\" means the average atmospheric purity as distinguished from discharge\nmeasurements taken at the source of pollution. It is the general amount of pollution present in a broad area.\n(b) \"Emission\" means the act of passing into the atmosphere an air contaminant, pollutant, gas stream and\nunwanted sound from a known source.\n(c) \"Water Quality\" means the characteristics of water which define its use in terms of physical, chemical and\nbiological contents; hence the quality of water for domestic use is different from industrial use.\n(d) \"Water Quality Surveillance\" means a close and continuous supervision of the water quality to detect\ndevelopment movements or changes in the characteristics of the water.\n(e) \"Water Quality Standard\" means a plan that is established by governmental authority as a program for\nwater pollution prevention and abatement. Such a standard may include water use classification and the\ncriteria to support the uses of the water.\n(f) \"Effluent Standards\" means restrictions established to limit levels of concentration of physical, chemical\nand biological constituents which are discharged from point sources.\n(g) \"Clean-up Operations\" refers to activities conducted in removing the pollutants discharged or spilled in\nwater to restore it to pre-spill condition.\n(h) \"Accidental Spills\" refers to spills of oil or other hazardous substances in water that result from accidents\ninvolving the carriers of such substance such as collisions and grounding.\n(i) \"Areas of Critical Environmental Concern\" are areas where uncontrolled development could result in\nirreparable damage to important historic, cultural, or aesthetic values or natural systems or processes of\nnational significance.\n(j) \"Hazardous Substances\" means elements or compounds which when discharged in any quantity present\nimminent or substantial danger to public health and welfare.\n(k) \"Areas Impacted by Public Facilities\" refers to areas where the introduction of public facilities may tend to\ninduce development and urbanization of more than local significance or impact.\n(l) \"Environmental Impact\" is the alteration, to any degree, of environmental conditions or the creation of a\nnew set of environmental conditions, adverse or beneficial, to be induced or caused by a proposed project.\n(m) \"Government Agencies\" refers to national, local and regional agencies and instrumentalities including\ngovernment-owned and controlled corporations.\nFINAL PROVISIONS"
+   }
+  },
+  {
+   "id": "PH-H22514-A63",
+   "no": 63,
+   "noLabel": {
+    "en": "Section 63"
+   },
+   "text": {
+    "en": "Separability of Provisions. If any provision of this Code, or the application of such provisions\nto any person or circumstance, is declared unconstitutional, the remainder of the Code or the application of\nsuch provision to other persons or circumstances shall not be affected by such declaration."
+   }
+  },
+  {
+   "id": "PH-H22514-A64",
+   "no": 64,
+   "noLabel": {
+    "en": "Section 64"
+   },
+   "text": {
+    "en": "Effectivity. This Code shall take effect upon its approval.\n\nDone in the City of Manila, this 6th day of June in the year of Our Lord, nineteen hundred and seventy-seven."
+   }
+  }
+ ]
+}

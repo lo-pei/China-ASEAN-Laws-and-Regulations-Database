@@ -1,0 +1,62 @@
+{
+ "id": "PH-H22093",
+ "title": {
+  "zh": null,
+  "en": "Amending Section 18 of Republic Act No. 754",
+  "orig": "Amending Section 18 of Republic Act No. 754"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p159",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1975-04-07",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 683",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 708,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_00683_1975_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_00683_1975_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22093-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section 18 of Republic Act No. 754 is hereby amended to read as follows:\n\"\nWithin three years after the approval of this Act, the Board shall upon application issue a certificate of\nregistration as chemist without examination to persons who have been graduated in chemistry or its equivalent\nand have been in the practice as such graduate for at least five years, prior to the enactment of this law:\nProvided, however, That holders of Ph.D. degrees in Chemistry or its equivalent shall at any time be entitled\nto register as chemist without examination.\n\""
+   }
+  },
+  {
+   "id": "PH-H22093-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This decree shall take effect immediately.\nDone in the City of Manila, this 7th day of April, in the year of Our Lord, nineteen hundred and seventy-five."
+   }
+  }
+ ]
+}

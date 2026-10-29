@@ -1,0 +1,62 @@
+{
+ "id": "PH-H22955",
+ "title": {
+  "zh": null,
+  "en": "Amending Section 40 (B) of Presidential Decree No. 1618",
+  "orig": "Amending Section 40 (B) of Presidential Decree No. 1618"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1979-09-20",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 1639",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 641,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_01639_1979_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_01639_1979_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22955-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section 40(b) of Presidential Decree No. 1618 is hereby amended to read as follows:\n\"(b) The Office of the Regional Commissioner in each of the Autonomous Regions is hereby abolished and its\nappropriations, properties, and assets and liabilities and such personnel as may be necessary, shall be\ntransferred immediately to the Sangguniang Pampook which shall in turn transfer the same to the Lupong\nTagapagpaganap Ng Pook immediately upon the organization of the latter.\""
+   }
+  },
+  {
+   "id": "PH-H22955-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Decree shall take effect immediately.\nDone in the City of Manila, Philippines, this 20th day of September, in the year of Our Lord, nineteen hundred\nand seventy-nine."
+   }
+  }
+ ]
+}

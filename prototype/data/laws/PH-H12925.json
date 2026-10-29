@@ -1,0 +1,62 @@
+{
+ "id": "PH-H12925",
+ "title": {
+  "zh": null,
+  "en": "An Act Prescribing the Fees to Be Paid to Registers of Deeds Upon the Sale, of the So-Called Friar Lands Estates, \"By Adding New Matter to Section One Hundred and Fourteen of Act Numbered Four Hundred and Ninety-Six, as Amended.",
+  "orig": "An Act Prescribing the Fees to Be Paid to Registers of Deeds Upon the Sale, of the So-Called Friar Lands Estates, \"By Adding New Matter to Section One Hundred and Fourteen of Act Numbered Four Hundred and Ninety-Six, as Amended."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1913-02-03",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2221",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1494,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1913/act_2221_1913.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02221_1913_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02221_1913_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12925-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section one hundred and fourteen, as amended, of the Land Registration Act, is hereby further\namended by adding thereto the following paragraphs:\n\"Upon the sale and transfer by the Government of the Philippine Islands of the title to those haciendas and\nparcels of lands commonly known as the friar lands, or any portion thereof, the sales value of which does not\nexceed five hundred pesos, the fees of the several registers of deeds for making and entering a new certificate\nof title, including the issue of one duplicate certificate, and for the registration of same, including entering,\nindexing, filing and attesting thereof; and also making and attesting copy of memorandum on duplicate\ncertificate shall be as follows, and no others shall be lawful:\n\"When the sale value of the property does not exceed one hundred pesos, fifty centavos.\n\"When the sale value of the property exceeds one hundred pesos but does not exceed three hundred pesos, one\n\"When the sale value of the property exceeds three hundred pesos but does not exceed five hundred pesos,\n\"Provided, however, That at the time of making and entering any new certificate of title in any and all sales of\na certificate-portion or portions of the friar lands, no fees shall be charged or collected by the several registers\nof deeds for the necessary indorsements on the certificate or certificates of title retained by the Government of\nthe Philippine Islands.\""
+   }
+  },
+  {
+   "id": "PH-H12925-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, February 3, 1913."
+   }
+  }
+ ]
+}

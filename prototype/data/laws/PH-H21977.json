@@ -1,0 +1,62 @@
+{
+ "id": "PH-H21977",
+ "title": {
+  "zh": null,
+  "en": "Amending Section Eighteen of Republic Act Numbered Fifty-One Hundred and Eighty-Five to Place City Works Supervisors Directly Under the Supervision of City Engineers",
+  "orig": "Amending Section Eighteen of Republic Act Numbered Fifty-One Hundred and Eighty-Five to Place City Works Supervisors Directly Under the Supervision of City Engineers"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p159",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1974-09-05",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 549",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 335,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_00549_1974_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_00549_1974_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H21977-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The provision of Section 18 of Republic Act No. 5185 to the contrary notwithstanding, the City\nPublic Works Supervisor shall be under the direct supervision of the City Engineer."
+   }
+  },
+  {
+   "id": "PH-H21977-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This decree shall take effect immediately.\nDone in the City of Manila, this 5th day of September, in the year of Our Lord, nineteen hundred and\nseventy-four."
+   }
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "id": "PH-H22657",
+ "title": {
+  "zh": null,
+  "en": "Authorizing the Central Bank of the Philippines to Engage in Special Borrowing and Lending Operations",
+  "orig": "Authorizing the Central Bank of the Philippines to Engage in Special Borrowing and Lending Operations"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1978-03-03",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 1309",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1416,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_01309_1978_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_01309_1978_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22657-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The Central Bank is hereby authorized to borrow from foreign banks and other foreign or\ninternational agencies, both public and private, for the purpose of financing the special credit operations\ndescribed in Sec. 2 hereof."
+   }
+  },
+  {
+   "id": "PH-H22657-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Under special circumstances where the Monetary Board deems it in the national interest, and\nnotwithstanding the provisions of any existing law to the contrary, the Central Bank may grant loans to the\nGovernment or to banking institutions from the proceeds of foreign loans obtained by it subject to such terms\nand conditions as the Monetary Board may prescribe, for the following and analogous purposes:\n(a) To lend to banking institutions for relending such funds as may be required to finance approved projects;\n(b) To finance Government development projects for which financing from official development assistance\n(ODA) sources cannot be obtained; and\n(c) To refinance existing foreign obligations obtained at relatively more onerous terms.\nThe Monetary Board shall establish safeguards as it may deem proper to prevent undue inflationary effects of\nthe above-mentioned lending operations and shall issue such rules and regulations as may be necessary to\ninsure a rational and coordinated approach to the international capital markets."
+   }
+  },
+  {
+   "id": "PH-H22657-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Decree shall take effect immediately.\nDONE in the City of Manila, this 3rd day of March, in the year of Our Lord, nineteen hundred and\nseventy-eight."
+   }
+  }
+ ]
+}

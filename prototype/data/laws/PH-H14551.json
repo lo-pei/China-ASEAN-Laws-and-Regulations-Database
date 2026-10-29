@@ -1,0 +1,62 @@
+{
+ "id": "PH-H14551",
+ "title": {
+  "zh": null,
+  "en": "An Act for the Benefit of Labor, Declaring Debts for Salaries and Wages Earned and Indemnities Due to the Laborer Preferential Claims, and Amending Section Seven Hundred and thirty-Five of the Code of Civil Procedure Accordingly.",
+  "orig": "An Act for the Benefit of Labor, Declaring Debts for Salaries and Wages Earned and Indemnities Due to the Laborer Preferential Claims, and Amending Section Seven Hundred and thirty-Five of the Code of Civil Procedure Accordingly."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1932-12-02",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3960",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 898,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1932/act_3960_1932.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03960_1932_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03960_1932_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14551-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section seven hundred and thirty-five of Act Numbered One hundred and ninety, entitled the\nCode of Civil Procedure, is hereby amended to read as follows:\n\"Section 735. Order of payment if estate insolvent.-If the assets which can be appropriated for the payment of\ndebts are not sufficient for that purpose, the executor or administrator shall after paying the necessary\nexpenses of administration, pay the debts against the estate in the following order:\n\"1. The necessary funeral expenses;\n\"2. The expenses of the last sickness;\n\"3. What is owing to the laborer for salaries and wages earned and for indemnities due to him, for the last\n\"4. Debts due to the United States;\n\"5. Taxes and assessments due to the Government, or any branch or subdivision thereof;\n\"6. Debts due to the province;\n\"7. Debts due to other creditors.\""
+   }
+  },
+  {
+   "id": "PH-H14551-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, December 2, 1932."
+   }
+  }
+ ]
+}

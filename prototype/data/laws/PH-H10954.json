@@ -1,0 +1,72 @@
+{
+ "id": "PH-H10954",
+ "title": {
+  "zh": null,
+  "en": "AN ACT AMENDING ARTICLE ONE OF THE IMMIGRATION REGULATIONS FOR THE PHILIPPINE ISLANDS, PROMULGATED BY THE WAR DEPARTMENT, JUNE SIXTH, EIGHTEEN HUNDRED AND NINETY-NINE, RELATING TO A DUTY TO BE PAID BY PASSENGERS COMING INTO THE PHILIPPINE ISLANDS FROM FOREIGN PORTS.",
+  "orig": "AN ACT AMENDING ARTICLE ONE OF THE IMMIGRATION REGULATIONS FOR THE PHILIPPINE ISLANDS, PROMULGATED BY THE WAR DEPARTMENT, JUNE SIXTH, EIGHTEEN HUNDRED AND NINETY-NINE, RELATING TO A DUTY TO BE PAID BY PASSENGERS COMING INTO THE PHILIPPINE ISLANDS FROM FOREIGN PORTS."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 241",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 962,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_00241_1901_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_00241_1901_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H10954-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Article one of the Immigration Regulations for the Philippine Islands, promulgated by the War\nDepartment June sixth, eighteen hundred and ninety-nine, is hereby amended, by express authority of the\nSecretary of War, given September fourth, nineteen hundred and one, so as to read as follows:\n\"Collectors of Customs will collect a duty of one dollar for each and every passenger who shall conic by\nsteam or sail vessel from any foreign port to any port of the Philippine Islands, except citizens of the United\nStates and persons, natives of the Philippine islands or otherwise, owing allegiance to the United States.\""
+   }
+  },
+  {
+   "id": "PH-H10954-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The public good requiring the speedy enactment of this bill, the passage of the same is hereby\nexpedited in accordance with section two of \"An Act prescribing the order of procedure by the Commission\nin the enactment of laws,\" passed September twenty-sixth, nineteen hundred."
+   }
+  },
+  {
+   "id": "PH-H10954-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, September 26, 1901."
+   }
+  }
+ ]
+}

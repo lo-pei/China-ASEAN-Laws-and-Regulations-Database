@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13215",
+ "title": {
+  "zh": null,
+  "en": "An Act Restoring to the Public Domain Certain Lands in the Province of Ambos Camarines Reserved therefrom for the Public Purposes By Proclamation Numbered One of the Governor-General, Series of Nineteen Hundred and thirteen.",
+  "orig": "An Act Restoring to the Public Domain Certain Lands in the Province of Ambos Camarines Reserved therefrom for the Public Purposes By Proclamation Numbered One of the Governor-General, Series of Nineteen Hundred and thirteen."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1916-01-04",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2544",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 637,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1916/act_2544_1916.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02544_1916_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02544_1916_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13215-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "All the public lands situated in the sitios of Gatbo, Paunlong, Ibago, and Maybanga, barrio of\nMatobato, municipality of Pili, Province of Ambos Camarines, heretofore reserved for the use of the\nnon-Christian tribes by proclamationnumbered one of the Governor-General dated January twenty-seventh,\nnineteen hundred and thirteen, are hereby restored to the public domain and re-opened for the settlement and\nsale in accordance with the provisions of Act Numbered Nine hundred and twenty-six, as amended, in like\nmanner and effect as if no such reservation had been made."
+   }
+  },
+  {
+   "id": "PH-H13215-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, January 4, 1916."
+   }
+  }
+ ]
+}

@@ -1,0 +1,122 @@
+{
+ "id": "PH-H12903",
+ "title": {
+  "zh": null,
+  "en": "An Act Providing that the Assessment Of, and Tax On, Real and Personal Property Shall Not Include Machinery as Herein Defined.",
+  "orig": "An Act Providing that the Assessment Of, and Tax On, Real and Personal Property Shall Not Include Machinery as Herein Defined."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1912-12-04",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2197",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 8,
+ "chars": 2141,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1912/act_2197_1912.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02197_1912_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 8 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02197_1912_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12903-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "In all future assessments of property, the value of machinery, as defined in section seven of this\nAct, shall be excluded, and such machinery shall not be assessed or taxed as part of the improvements on or to\nreal property, or otherwise."
+   }
+  },
+  {
+   "id": "PH-H12903-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Assessments now in force, when such assessments include the value of machinery, shall be\nreduced in the manner and under the conditions hereinafter stated, and not otherwise."
+   }
+  },
+  {
+   "id": "PH-H12903-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "Every owner of machinery now assessed and taxed, in order to secure the exemption of such\nmachinery from further such taxation, shall prepare and submit to the provincial board of tax appeals of the\nprovince in which such assessment was made, a detailed, itemized statement of such machinery, showing the\ndeclared value of each item, the total value of all items, and the assessed value, if the same be known."
+   }
+  },
+  {
+   "id": "PH-H12903-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "The provincial board of tax appeals, at its annual meeting in December, shall consider each\nstatement prepared as set forth in the last preceding section and theretofore filed, and such other evidence as it\nmay deem pertinent and relevant, and shall determine, decide upon, and fix the true value of such machinery,\nand shall thereupon authorize a corresponding reduction from the existing assessment, as shown by the land\nand property tax declarations and registers."
+   }
+  },
+  {
+   "id": "PH-H12903-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "text": {
+    "en": "Reductions in assessments made under the provisions of this Act shall become effective with the\nbeginning of the tax year next succeeding the annual meeting of the provincial board of tax appeals at which\nsuch reductions were authorized."
+   }
+  },
+  {
+   "id": "PH-H12903-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "text": {
+    "en": "For the purposes of this Act the duties of the board of tax appeals m provinces not organized\nunder The Provincial Government Act shall be performed by the board of assessors provided for in section\nfifty of Act Numbered Thirteen hundred and ninety-seven."
+   }
+  },
+  {
+   "id": "PH-H12903-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7"
+   },
+   "text": {
+    "en": "The word \"machinery\" as used in this Act shall be construed to embrace all machines,\nmechanical contrivances, instruments, tools, implements, appliances, apparatus, and paraphernalia used for\nindustrial, agricultural, or manufacturing purposes, whether or not attached to land or buildings."
+   }
+  },
+  {
+   "id": "PH-H12903-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its passage.\nEnacted, December 4, 1912."
+   }
+  }
+ ]
+}

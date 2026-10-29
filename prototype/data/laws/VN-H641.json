@@ -1,0 +1,490 @@
+{
+ "id": "VN-H641",
+ "title": {
+  "zh": "国家秘密保护法",
+  "en": "Law No. 117/2025/QH15 on protection of state secrets",
+  "vi": "Luật BẢO VỆ BÍ MẬT NHÀ NƯỚC số 117/2025/QH15",
+  "orig": "LUẬT BẢO VỆ BÍ MẬT NHÀ NƯỚC SỐ 117/2025/QH15",
+  "th": "พระราชบัญญัติการคุ้มครองความลับของรัฐ เลขที่ 117/2025/QH15",
+  "id": "Undang-Undang Perlindungan Rahasia Negara No. 117/2025/QH15",
+  "ms": "Akta Perlindungan Rahsia Negara No. 117/2025/QH15"
+ },
+ "country": "VN",
+ "countryName": "越南",
+ "layer": "intl",
+ "pack": "vn-p06",
+ "language": "vi",
+ "level": "law",
+ "category": "05_其他及未分类",
+ "status": "active",
+ "promulgatedDate": "2025",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "国会",
+ "docNumber": "117/2025/QH15",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 28,
+ "chars": 47696,
+ "source": {
+  "name": "越南法律数据库（vbpl.vn 官方公报文本）",
+  "url": "https://vbpl.vn/van-ban/chi-tiet/luat-bao-ve-bi-mat-nha-nuoc-so-117-2025-qh15--187038"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\VN\\05_其他及未分类\\2025_117 2025 QH15_LUẬT BẢO VỆ BÍ MẬT NHÀ NƯỚC SỐ 117 2025 QH15.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 28 条；逐字未改写（源自 VN）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "VN-H641-A1",
+   "no": 1,
+   "noLabel": {
+    "vi": "Điều 1"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Phạm vi điều chỉnh"
+   },
+   "text": {
+    "vi": "Điều 1. Phạm vi điều chỉnh\n\nLuật này quy định về bí mật nhà nước, bảo vệ bí mật nhà nước và trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan."
+   }
+  },
+  {
+   "id": "VN-H641-A2",
+   "no": 2,
+   "noLabel": {
+    "vi": "Điều 2"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Giải thích từ ngữ"
+   },
+   "text": {
+    "vi": "Điều 2. Giải thích từ ngữ\n\nTrong Luật này, các từ ngữ dưới đây được hiểu như sau:\n\n1. Bí mật nhà nước là thông tin có nội dung quan trọng do người có thẩm quyền theo quy định của Luật này xác định, chưa được công khai, nếu bị lộ, bị mất có thể gây nguy hại đến lợi ích quốc gia, dân tộc.\n\nBí mật nhà nước được chứa đựng trong tài liệu (gồm cả văn bản giấy, văn bản điện tử), vật, địa điểm, lời nói, hoạt động hoặc các dạng khác.\n\n2. Bảo vệ bí mật nhà nước là việc cơ quan, tổ chức, cá nhân sử dụng lực lượng, phương tiện, biện pháp để phòng, chống xâm phạm bí mật nhà nước.\n\n3. Lộ bí mật nhà nước là trường hợp người không có trách nhiệm biết được bí mật nhà nước.\n\n4. Mất bí mật nhà nước là trường hợp tài liệu, vật chứa bí mật nhà nước không còn thuộc sự quản lý của cơ quan, tổ chức, cá nhân có trách nhiệm quản lý.\n\n5. Mạng LAN độc lập là mạng máy tính cục bộ được thiết lập, giới hạn trong một trụ sở cơ quan, tổ chức, không kết nối với mạng Internet, mạng viễn thông, mạng máy tính khác có kết nối ra ngoài trụ sở đó và có biện pháp bảo đảm an ninh, an toàn, phòng, chống kết nối, tấn công, thu thập thông tin trái phép.\n\n6. Văn bản điện tử bí mật nhà nước là văn bản chứa bí mật nhà nước dưới dạng dữ liệu số được người có thẩm quyền theo quy định của Luật này xác định."
+   }
+  },
+  {
+   "id": "VN-H641-A3",
+   "no": 3,
+   "noLabel": {
+    "vi": "Điều 3"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Nguyên tắc bảo vệ bí mật nhà nước"
+   },
+   "text": {
+    "vi": "Điều 3. Nguyên tắc bảo vệ bí mật nhà nước\n\n1. Đặt dưới sự lãnh đạo của Đảng Cộng sản Việt Nam, sự quản lý thống nhất của Nhà nước; phục vụ nhiệm vụ bảo vệ Tổ quốc, phát triển kinh tế - xã hội, khoa học công nghệ và hội nhập quốc tế; bảo vệ lợi ích quốc gia, dân tộc, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.\n\n2. Bảo vệ bí mật nhà nước là trách nhiệm của mọi cơ quan, tổ chức, cá nhân.\n\n3. Việc quản lý, sử dụng bí mật nhà nước bảo đảm đúng mục đích, thẩm quyền, trình tự, thủ tục theo quy định của pháp luật.\n\n4. Chủ động phòng ngừa, kịp thời phát hiện, ngăn chặn, xử lý nghiêm mọi hành vi vi phạm pháp luật về bảo vệ bí mật nhà nước.\n\n5. Bảo vệ bí mật nhà nước theo thời hạn quy định của Luật này, bảo đảm quyền tiếp cận thông tin của công dân theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H641-A4",
+   "no": 4,
+   "noLabel": {
+    "vi": "Điều 4"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Hợp tác quốc tế về bảo vệ bí mật nhà nước"
+   },
+   "text": {
+    "vi": "Điều 4. Hợp tác quốc tế về bảo vệ bí mật nhà nước\n\n1. Hợp tác quốc tế về bảo vệ bí mật nhà nước được thực hiện theo nguyên tắc tôn trọng độc lập, chủ quyền và toàn vẹn lãnh thổ, không can thiệp vào công việc nội bộ của nhau, bình đẳng và cùng có lợi.\n\n2. Nội dung hợp tác quốc tế về bảo vệ bí mật nhà nước bao gồm:\n\na) Ký kết và tổ chức thực hiện điều ước quốc tế, thỏa thuận quốc tế về bảo vệ bí mật nhà nước;\n\nb) Thực hiện chương trình, dự án hợp tác quốc tế về bảo vệ bí mật nhà nước;\n\nc) Đào tạo, nghiên cứu, chuyển giao công nghệ, ứng dụng khoa học kỹ thuật phục vụ công tác bảo vệ bí mật nhà nước;\n\nd) Phòng, chống vi phạm pháp luật về bảo vệ bí mật nhà nước;\n\nđ) Hoạt động hợp tác quốc tế khác về bảo vệ bí mật nhà nước."
+   }
+  },
+  {
+   "id": "VN-H641-A5",
+   "no": 5,
+   "noLabel": {
+    "vi": "Điều 5"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Các hành vi bị nghiêm cấm trong bảo vệ bí mật nhà nước"
+   },
+   "text": {
+    "vi": "Điều 5. Các hành vi bị nghiêm cấm trong bảo vệ bí mật nhà nước\n\n1. Xác định bí mật nhà nước đối với thông tin không thuộc danh mục bí mật nhà nước.\n\n2. Soạn thảo, lưu giữ tài liệu bí mật nhà nước trên máy tính hoặc thiết bị khác đang kết nối với mạng máy tính (trừ mạng LAN độc lập), mạng Internet, mạng viễn thông, trừ trường hợp lưu giữ bí mật nhà nước theo quy định của pháp luật về cơ yếu và quy định khác của pháp luật có liên quan.\n\n3. Làm lộ, chiếm đoạt, mua, bán bí mật nhà nước; làm sai lệch, hư hỏng, mất tài liệu, vật chứa bí mật nhà nước.\n\n4. Thu thập, trao đổi, cung cấp, chuyển giao bí mật nhà nước trái pháp luật; sao, chụp, lưu giữ, vận chuyển, giao, nhận, thu hồi, tiêu hủy tài liệu, vật chứa bí mật nhà nước trái pháp luật.\n\n5. Mang tài liệu, vật chứa bí mật nhà nước ra khỏi nơi lưu giữ trái pháp luật.\n\n6. Lợi dụng, lạm dụng việc bảo vệ bí mật nhà nước, sử dụng bí mật nhà nước để thực hiện, che giấu hành vi vi phạm pháp luật, xâm phạm quyền và lợi ích hợp pháp hoặc cản trở hoạt động của cơ quan, tổ chức, cá nhân.\n\n7. Truyền đưa bí mật nhà nước trên mạng máy tính (trừ mạng LAN độc lập), mạng Internet, mạng viễn thông trái với quy định của pháp luật về cơ yếu hoặc quy định khác của pháp luật có liên quan.\n\n8. Sử dụng máy tính, thiết bị khác để soạn thảo, lưu giữ tài liệu bí mật nhà nước khi chưa bảo đảm an ninh, an toàn, phòng, chống xâm phạm bí mật nhà nước.\n\n9. Sử dụng thiết bị có tính năng thu, phát tín hiệu, ghi âm, ghi hình trong hội nghị, hội thảo, cuộc họp có nội dung bí mật nhà nước dưới mọi hình thức khi chưa được người có thẩm quyền cho phép.\n\n10. Sử dụng trí tuệ nhân tạo hoặc công nghệ mới để xâm phạm bí mật nhà nước; đăng tải bí mật nhà nước trên phương tiện thông tin đại chúng; đăng tải, phát tán bí mật nhà nước trên mạng Internet, mạng viễn thông."
+   }
+  },
+  {
+   "id": "VN-H641-A6",
+   "no": 6,
+   "noLabel": {
+    "vi": "Điều 6"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Kinh phí, cơ sở vật chất phục vụ bảo vệ bí mật nhà nước"
+   },
+   "text": {
+    "vi": "Điều 6. Kinh phí, cơ sở vật chất phục vụ bảo vệ bí mật nhà nước\n\n1. Kinh phí, cơ sở vật chất phục vụ bảo vệ bí mật nhà nước do ngân sách nhà nước bảo đảm.\n\n2. Việc quản lý, sử dụng kinh phí, cơ sở vật chất phục vụ bảo vệ bí mật nhà nước thực hiện theo quy định của pháp luật.\n\nChương II\n\nPHẠM VI, PHÂN LOẠI,\n\nBAN HÀNH DANH MỤC BÍ MẬT NHÀ NƯỚC"
+   }
+  },
+  {
+   "id": "VN-H641-A7",
+   "no": 7,
+   "noLabel": {
+    "vi": "Điều 7"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Phạm vi bí mật nhà nước"
+   },
+   "text": {
+    "vi": "Điều 7. Phạm vi bí mật nhà nước\n\nPhạm vi bí mật nhà nước là giới hạn thông tin quan trọng thuộc các lĩnh vực sau đây chưa được công khai, nếu bị lộ, bị mất có thể gây nguy hại đến lợi ích quốc gia, dân tộc:\n\n1. Thông tin về chính trị:\n\na) Chủ trương, chính sách của Đảng và Nhà nước về đối nội, đối ngoại;\n\nb) Hoạt động của Ban Chấp hành Trung ương, Bộ Chính trị, Ban Bí thư, lãnh đạo chủ chốt và lãnh đạo cấp cao của Đảng, Nhà nước;\n\nc) Chiến lược, kế hoạch, đề án về dân tộc, tôn giáo và công tác dân tộc, tôn giáo liên quan đến bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội;\n\nd) Thông tin có tác động tiêu cực đến tình hình chính trị.\n\n2. Thông tin về quốc phòng, an ninh, cơ yếu:\n\na) Chiến lược, kế hoạch, phương án, hoạt động bảo vệ Tổ quốc, phòng thủ đất nước, bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội; chương trình, dự án, đề án đặc biệt quan trọng;\n\nb) Tổ chức và hoạt động của lực lượng vũ trang nhân dân, lực lượng cơ yếu;\n\nc) Công trình, mục tiêu về quốc phòng, an ninh, cơ yếu; các loại vũ khí, khí tài, phương tiện, vật chất hậu cần quyết định khả năng phòng thủ đất nước, bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội; sản phẩm mật mã của cơ yếu, mạng liên lạc cơ yếu;\n\nd) Thông tin về quy hoạch hệ thống các công trình quốc phòng, cơ yếu, khu quân sự, kho đạn dược, kho vật chất hậu cần, công nghiệp quốc phòng, an ninh.\n\n3. Thông tin về lập hiến, lập pháp, tư pháp:\n\na) Hoạt động lập hiến, lập pháp, giám sát, quyết định vấn đề quan trọng của đất nước liên quan đến quốc phòng, an ninh;\n\nb) Thông tin về khởi tố; công tác điều tra, thực hành quyền công tố, kiểm sát hoạt động tư pháp, xét xử, thi hành án hình sự;\n\nc) Thông tin về bổ trợ tư pháp, hành chính tư pháp, bồi thường nhà nước ảnh hướng đến an ninh quốc gia, trật tự, an toàn xã hội; giải quyết tranh chấp đầu tư quốc tế.\n\n4. Thông tin về đối ngoại và hội nhập quốc tế:\n\na) Chiến lược, kế hoạch, đề án phát triển quan hệ với nước ngoài, tổ chức quốc tế hoặc chủ thể khác của pháp luật quốc tế; tình hình, phương án, kế hoạch, chương trình hoạt động đối ngoại của lãnh đạo chủ chốt, lãnh đạo cấp cao của Đảng, Nhà nước, Mặt trận Tổ quốc Việt Nam và hoạt động đối ngoại của cơ quan Đảng, Nhà nước;\n\nb) Điều ước quốc tế, thỏa thuận quốc tế được trao đổi, ký kết giữa Việt Nam với nước ngoài, tổ chức quốc tế hoặc chủ thể khác của pháp luật quốc tế;\n\nc) Thông tin bí mật do nước ngoài, tổ chức quốc tế hoặc chủ thể khác của pháp luật quốc tế chuyển giao theo điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên và thỏa thuận quốc tế có liên quan.\n\n5. Thông tin về kinh tế:\n\na) Chiến lược, kế hoạch đầu tư; kế hoạch, số liệu dự trữ quốc gia; đấu thầu phục vụ bảo vệ an ninh quốc gia; số lượng và giá trị hàng dự trữ quốc gia do Bộ Công an, Bộ Quốc phòng quản lý;\n\nb) Thông tin về tài chính, ngân hàng; số liệu ngân sách nhà nước về quốc phòng, an ninh; phương án, kế hoạch thu, đổi, phát hành loại tiền mới; thiết kế, chế tạo, công nghệ in, đúc tiền và giấy tờ có giá;\n\nc) Thông tin về công nghiệp, thương mại, nông nghiệp liên quan trực tiếp đến quốc phòng, an ninh, đối ngoại;\n\nd) Kế hoạch vận tải có ý nghĩa quan trọng về chính trị, kinh tế - xã hội, quốc phòng, an ninh, đối ngoại;\n\nđ) Thông tin về quá trình xây dựng quy hoạch tổng thể quốc gia, quy hoạch vùng, quy hoạch tỉnh, quy hoạch đơn vị hành chính - kinh tế đặc biệt, quy hoạch đô thị và nông thôn; thông tin về quy hoạch tổng thể hệ thống kho dự trữ quốc gia và quy hoạch chi tiết mạng lưới kho dự trữ quốc gia do Bộ Quốc phòng, Bộ Công an quản lý;\n\ne) Thông tin có tác động tiêu cực đến tình hình kinh tế - xã hội.\n\n6. Thông tin về tài nguyên và môi trường bao gồm tài nguyên nước, môi trường, địa chất, khoáng sản, khí tượng thủy văn, đất đai, biển, hải đảo, đo đạc và bản đồ.\n\n7. Thông tin về khoa học và công nghệ:\n\na) Sáng chế, công nghệ mới phục vụ quốc phòng, an ninh hoặc có ý nghĩa đặc biệt quan trọng đối với phát triển kinh tế - xã hội;\n\nb) Thông tin về năng lượng nguyên tử, an toàn bức xạ và hạt nhân liên quan đến quốc phòng, an ninh, đối ngoại;\n\nc) Nhiệm vụ khoa học và công nghệ đặc biệt, nhiệm vụ khoa học và công nghệ cấp quốc gia liên quan đến quốc phòng, an ninh, cơ yếu;\n\nd) Nhiệm vụ khoa học và công nghệ nghiên cứu về mẫu vật, nguồn gen quý hiếm có ý nghĩa đặc biệt quan trọng đối với y tế, phát triển kinh tế - xã hội;\n\nđ) Chiến lược, kế hoạch, đề án phát triển khoa học và công nghệ, bưu chính, viễn thông và Internet, tần số vô tuyến điện, công nghệ thông tin, công nghiệp công nghệ số, điện tử, hạ tầng thông tin và truyền thông quốc gia phục vụ quốc phòng, an ninh, đối ngoại;\n\ne) Hệ thống thông tin quan trọng về an ninh quốc gia và hệ thống mạng thông tin dùng riêng phục vụ cơ quan, tổ chức của Đảng, Nhà nước.\n\n8. Thông tin về giáo dục và đào tạo:\n\na) Đề thi, đáp án và thông tin liên quan đến việc tổ chức kỳ thi cấp quốc gia;\n\nb) Thông tin về người thuộc Quân đội nhân dân, Công an nhân dân, Cơ yếu được cử đi đào tạo trong nước và ngoài nước.\n\n9. Thông tin về văn hóa:\n\na) Phương án, kế hoạch bảo đảm an ninh, an toàn bảo tàng, thư viện lưu giữ tài liệu, hiện vật, di sản tư liệu hạn chế phổ biến hoặc không phổ biến;\n\nb) Phương án, kế hoạch bảo đảm an ninh, an toàn di tích lịch sử có tranh chấp về chủ quyền quốc gia;\n\nc) Chiến lược, kế hoạch, đề án phát triển báo chí, xuất bản, in, phát hành, phát thanh, truyền hình, thông tin điện tử, thông tấn, thông tin đối ngoại, thông tin cơ sở phục vụ quốc phòng, an ninh, đối ngoại;\n\nd) Thông tin báo chí, dư luận xã hội tác động tiêu cực đến chính trị, đối ngoại, an ninh quốc gia, trật tự, an toàn xã hội.\n\n10. Thông tin về y tế:\n\na) Thông tin bảo vệ sức khỏe lãnh đạo chủ chốt, lãnh đạo cấp cao của Đảng, Nhà nước, Mặt trận Tổ quốc Việt Nam;\n\nb) Thông tin về bệnh truyền nhiễm nguy hiểm mới phát hiện chưa xác định được biện pháp phòng, chống và có nguy cơ ảnh hưởng đến sức khỏe, tính mạng con người, tác động tiêu cực đến phát triển kinh tế - xã hội;\n\nc) Tình hình người dân di cư tự do tác động tiêu cực đến chính trị, đối ngoại, an ninh quốc gia, trật tự, an toàn xã hội.\n\n11. Thông tin về tổ chức, cán bộ:\n\na) Chiến lược, kế hoạch, đề án về công tác tổ chức, cán bộ của cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội; chiến lược, đề án về cải cách chính sách tiền lương, bảo hiểm xã hội;\n\nb) Quy trình chuẩn bị và triển khai, thực hiện công tác tổ chức, cán bộ đối với cán bộ, công chức, viên chức, lực lượng vũ trang, người làm việc trong tổ chức cơ yếu cấp cục, cấp vụ và tương đương trở lên;\n\nc) Thông tin về công tác bảo vệ chính trị nội bộ;\n\nd) Đề thi, đáp án thi tuyển chọn lãnh đạo, quản lý và tuyển dụng công chức, viên chức;\n\nđ) Tình hình về lao động tác động tiêu cực đến chính trị, quốc phòng, an ninh, đối ngoại.\n\n12. Thông tin về thanh tra, kiểm tra, giám sát, xử lý vi phạm, giải quyết tố cáo và phòng, chống tham nhũng, lãng phí, tiêu cực:\n\na) Chiến lược, kế hoạch, đề án về công tác thanh tra, kiểm tra, giám sát, giải quyết tố cáo và phòng, chống tham nhũng, lãng phí, tiêu cực;\n\nb) Thông tin về hoạt động thanh tra, kiểm tra, giám sát, xử lý vi phạm, giải quyết tố cáo và phòng, chống tham nhũng, lãng phí, tiêu cực.\n\n13. Thông tin về kiểm toán nhà nước:\n\na) Chiến lược, kế hoạch, đề án về kiểm toán nhà nước;\n\nb) Thông tin kiểm toán về tài chính công, tài sản công."
+   }
+  },
+  {
+   "id": "VN-H641-A8",
+   "no": 8,
+   "noLabel": {
+    "vi": "Điều 8"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Phân loại bí mật nhà nước"
+   },
+   "text": {
+    "vi": "Điều 8. Phân loại bí mật nhà nước\n\nCăn cứ vào tính chất quan trọng của nội dung thông tin, mức độ nguy hại nếu bị lộ, bị mất, bí mật nhà nước được phân loại thành 03 độ mật, bao gồm:\n\n1. Bí mật nhà nước độ Tuyệt mật là bí mật nhà nước liên quan đến chính trị, quốc phòng, an ninh, đối ngoại, cơ yếu, khoa học và công nghệ, nếu bị lộ, bị mất có thể gây nguy hại đặc biệt nghiêm trọng đến lợi ích quốc gia, dân tộc.\n\n2. Bí mật nhà nước độ Tối mật là thông tin quan trọng thuộc lĩnh vực quy định tại Điều 7 của Luật này, nếu bị lộ, bị mất có thể gây nguy hại rất nghiêm trọng đến lợi ích quốc gia, dân tộc.\n\n3. Bí mật nhà nước độ Mật là thông tin quan trọng thuộc lĩnh vực quy định tại Điều 7 của Luật này, nếu bị lộ, bị mất có thể gây nguy hại nghiêm trọng đến lợi ích quốc gia, dân tộc."
+   }
+  },
+  {
+   "id": "VN-H641-A9",
+   "no": 9,
+   "noLabel": {
+    "vi": "Điều 9"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Ban hành danh mục bí mật nhà nước"
+   },
+   "text": {
+    "vi": "Điều 9. Ban hành danh mục bí mật nhà nước\n\n1. Căn cứ vào quy định tại Điều 7 và Điều 8 của Luật này, Thủ tướng Chính phủ quyết định danh mục bí mật nhà nước.\n\n2. Người có trách nhiệm lập danh mục bí mật nhà nước bao gồm:\n\na) Bộ trưởng, Thủ trưởng cơ quan ngang Bộ lập danh mục bí mật nhà nước của ngành, lĩnh vực quản lý;\n\nb) Chánh Văn phòng Trung ương Đảng lập danh mục bí mật nhà nước của Đảng;\n\nc) Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam lập danh mục bí mật nhà nước của Mặt trận Tổ quốc Việt Nam và các tổ chức chính trị - xã hội;\n\nd) Tổng Thư ký Quốc hội - Chủ nhiệm Văn phòng Quốc hội lập danh mục bí mật nhà nước của Quốc hội, cơ quan của Quốc hội, Tổng Thư ký Quốc hội, Văn phòng Quốc hội và Đoàn đại biểu Quốc hội;\n\nđ) Chủ nhiệm Văn phòng Chủ tịch nước lập danh mục bí mật nhà nước của Chủ tịch nước, Văn phòng Chủ tịch nước;\n\ne) Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Tổng Kiểm toán nhà nước lập danh mục bí mật nhà nước của ngành, lĩnh vực quản lý.\n\n3. Người lập danh mục bí mật nhà nước quy định tại khoản 2 Điều này có trách nhiệm gửi hồ sơ đến Bộ Công an để thẩm định, trừ trường hợp quy định tại khoản 5 Điều này.\n\nHồ sơ gửi Bộ Công an bao gồm: văn bản trình Thủ tướng Chính phủ; dự thảo quyết định ban hành danh mục bí mật nhà nước; báo cáo tổng hợp, giải trình, tiếp thu ý kiến của các cơ quan, tổ chức có liên quan; bản sao ý kiến tham gia.\n\nVăn bản thẩm định của Bộ Công an phải gửi đến người có trách nhiệm lập danh mục bí mật nhà nước chậm nhất 30 ngày kể từ ngày nhận đủ hồ sơ.\n\n4. Sau khi có văn bản thẩm định của Bộ Công an, người lập danh mục bí mật nhà nước quy định tại khoản 2 Điều này có trách nhiệm trình Thủ tướng Chính phủ xem xét, quyết định danh mục bí mật nhà nước.\n\n5. Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an trình Thủ tướng Chính phủ xem xét, quyết định danh mục bí mật nhà nước thuộc phạm vi quản lý.\n\nChương III\n\nHOẠT ĐỘNG BẢO VỆ BÍ MẬT NHÀ NƯỚC"
+   }
+  },
+  {
+   "id": "VN-H641-A10",
+   "no": 10,
+   "noLabel": {
+    "vi": "Điều 10"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Xác định bí mật nhà nước và độ mật của bí mật nhà nước"
+   },
+   "text": {
+    "vi": "Điều 10. Xác định bí mật nhà nước và độ mật của bí mật nhà nước\n\n1. Việc xác định bí mật nhà nước và độ mật của bí mật nhà nước phải căn cứ vào danh mục bí mật nhà nước và quy định của Luật này.\n\n2. Người đứng đầu, cấp phó của người đứng đầu cơ quan, tổ chức có trách nhiệm xác định bí mật nhà nước, độ mật của bí mật nhà nước và phạm vi lưu hành của bí mật nhà nước.\n\n3. Trường hợp sử dụng bí mật nhà nước của cơ quan, tổ chức khác thì phải xác định độ mật tương ứng theo danh mục bí mật nhà nước thuộc ngành, lĩnh vực được Thủ tướng Chính phủ quyết định. Trường hợp thông tin trong cùng một tài liệu, vật chứa bí mật nhà nước thuộc danh mục bí mật nhà nước có độ mật khác nhau thì xác định theo độ mật cao nhất.\n\n4. Độ mật của bí mật nhà nước được thể hiện bằng dấu chỉ độ mật, văn bản xác định độ mật hoặc hình thức phù hợp khác.\n\n5. Chính phủ quy định chi tiết Điều này."
+   }
+  },
+  {
+   "id": "VN-H641-A11",
+   "no": 11,
+   "noLabel": {
+    "vi": "Điều 11"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Sao, chụp tài liệu, vật chứa bí mật nhà nước"
+   },
+   "text": {
+    "vi": "Điều 11. Sao, chụp tài liệu, vật chứa bí mật nhà nước\n\n1. Người có thẩm quyền cho phép sao, chụp tài liệu, vật chứa bí mật nhà nước độ Tuyệt mật bao gồm:\n\na) Người đứng đầu cơ quan của Trung ương Đảng; người đứng đầu tổ chức trực thuộc Ban Chấp hành Trung ương Đảng;\n\nb) Người đứng đầu Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam;\n\nc) Người đứng đầu cơ quan của Quốc hội; Tổng Thư ký Quốc hội - Chủ nhiệm Văn phòng Quốc hội;\n\nd) Chủ nhiệm Văn phòng Chủ tịch nước;\n\nđ) Bộ trưởng, Thủ trưởng cơ quan ngang Bộ;\n\ne) Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao;\n\ng) Tổng Kiểm toán nhà nước;\n\nh) Người đứng đầu cơ quan thuộc Chính phủ;\n\ni) Bí thư tỉnh ủy, thành ủy các tỉnh, thành phố;\n\nk) Trưởng Đoàn đại biểu Quốc hội, Chủ tịch Hội đồng nhân dân, Chủ tịch Ủy ban nhân dân tỉnh, thành phố;\n\nl) Cấp trên trực tiếp của những người quy định tại các điểm a, c, d, đ và h khoản này;\n\nm) Chánh án Tòa án nhân dân cấp tỉnh, Viện trưởng Viện kiểm sát nhân dân cấp tỉnh;\n\nn) Người đứng đầu cục, vụ, ban, tổ chức chính trị - xã hội ở trung ương và tương đương thuộc cơ quan quy định tại các điểm a, b, c, d, đ, e, và g khoản này, trừ người đứng đầu đơn vị sự nghiệp công lập thuộc cơ quan quy định tại các điểm b, c, d, đ, e và g khoản này;\n\no) Người đứng đầu Văn phòng Kiểm toán nhà nước, đơn vị thuộc bộ máy điều hành của Kiểm toán nhà nước, Kiểm toán nhà nước chuyên ngành, Kiểm toán nhà nước khu vực;\n\np) Người đứng đầu cơ quan đại diện nước Cộng hòa xã hội chủ nghĩa Việt Nam ở nước ngoài;\n\nq) Cấp phó và tương đương của người quy định tại các điểm a, b, c, d, đ, e, g, h, i, k, l, m, n, o và p khoản này;\n\nr) Người đứng đầu, cấp phó của người đứng đầu tổ chức đảng của cơ quan, tổ chức được quy định tại các điểm b, c, d, đ, e, g, h, k, m, n và o khoản này.\n\n2. Người có thẩm quyền cho phép sao, chụp tài liệu, vật chứa bí mật nhà nước độ Tối mật bao gồm:\n\na) Những người quy định tại khoản 1 Điều này;\n\nb) Người đứng đầu đơn vị thuộc cơ quan thuộc Chính phủ;\n\nc) Người đứng đầu đơn vị sự nghiệp công lập trực thuộc cơ quan quy định tại các điểm b, c, d, đ, e, g, h, i, và k khoản 1 Điều này;\n\nd) Người đứng đầu Ủy ban Mặt trận Tổ quốc Việt Nam cấp tỉnh;\n\nđ) Người đứng đầu sở, ban và tương đương cấp tỉnh;\n\ne) Người đứng đầu đơn vị trực thuộc Tòa án nhân dân cấp tỉnh, Viện kiểm sát nhân dân cấp tỉnh; Chánh án Tòa án nhân dân khu vực, Viện trưởng Viện kiểm sát nhân dân khu vực;\n\ng) Người đứng đầu Thuế, Thống kê, Bảo hiểm xã hội cấp tỉnh, thành phố; người đứng đầu Kho bạc Nhà nước khu vực, Chi cục Hải quan khu vực, Chi cục Dự trữ Nhà nước khu vực;\n\nh) Bí thư Đảng ủy, Chủ tịch Hội đồng nhân dân, Chủ tịch Ủy ban nhân dân cấp xã;\n\ni) Chủ tịch Hội đồng quản trị, Chủ tịch Hội đồng thành viên, Chủ tịch công ty, Giám đốc, Tổng giám đốc doanh nghiệp nhà nước;\n\nk) Cấp phó của người quy định tại các điểm b, c, d, đ, e, g, h và i khoản này;\n\nl) Người đứng đầu, cấp phó của người đứng đầu tổ chức đảng của cơ quan, tổ chức được quy định tại các điểm b, c, d, đ, e, g và i khoản này.\n\n3. Người có thẩm quyền cho phép sao, chụp tài liệu, vật chứa bí mật nhà nước độ Mật bao gồm:\n\na) Những người quy định tại khoản 2 Điều này;\n\nb) Người đứng đầu đơn vị cấp phòng thuộc cục, vụ, ban, tổ chức chính trị - xã hội ở trung ương và tương đương thuộc cơ quan quy định tại các điểm a, b, c, d, đ, e, g, h, i, k, m, n và o khoản 1 Điều này; người đứng đầu đơn vị cấp phòng và tương đương thuộc cơ quan quy định tại các điểm c, g khoản 2 Điều này; người đứng đầu đơn vị thuộc cơ quan quy định tại điểm i khoản 2 Điều này;\n\nc) Người đứng đầu đơn vị cấp phòng, ban và tương đương thuộc sở, ban, Ủy ban Mặt trận Tổ quốc Việt Nam, tổ chức chính trị - xã hội cấp tỉnh và tương đương; người đứng đầu cơ quan chuyên trách tham mưu, giúp việc Đảng ủy cấp xã; trưởng ban của Hội đồng nhân dân, trưởng phòng của Ủy ban nhân dân cấp xã.\n\n4. Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an quy định thẩm quyền cho phép sao, chụp tài liệu, vật chứa bí mật nhà nước đối với đối tượng thuộc phạm vi quản lý.\n\n5. Người có thẩm quyền quy định tại các khoản 1, 2, 3 và 4 Điều này chỉ được cho phép sao, chụp tài liệu, vật chứa bí mật nhà nước thuộc thẩm quyền quản lý.\n\n6. Người được giao thực hiện việc sao, chụp tài liệu, vật chứa bí mật nhà nước phải là cán bộ, công chức, viên chức và sĩ quan, hạ sĩ quan, quân nhân chuyên nghiệp, công nhân, viên chức công tác trong lực lượng vũ trang nhân dân, người làm việc trong tổ chức cơ yếu có liên quan trực tiếp đến bí mật nhà nước hoặc người làm công tác liên quan đến bí mật nhà nước.\n\n7. Chính phủ quy định chi tiết Điều này."
+   }
+  },
+  {
+   "id": "VN-H641-A12",
+   "no": 12,
+   "noLabel": {
+    "vi": "Điều 12"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Thống kê, lưu giữ, bảo quản tài liệu, vật chứa bí mật nhà nước"
+   },
+   "text": {
+    "vi": "Điều 12. Thống kê, lưu giữ, bảo quản tài liệu, vật chứa bí mật nhà nước\n\n1. Tài liệu, vật chứa bí mật nhà nước khi tiếp nhận, phát hành phải được thống kê theo trình tự thời gian và độ mật.\n\n2. Bí mật nhà nước chứa trong thiết bị có tính năng lưu giữ, sao, chụp phải được bảo vệ bằng biện pháp thích hợp bảo đảm an toàn.\n\n3. Tài liệu, vật chứa bí mật nhà nước phải được lưu giữ, bảo quản ở nơi an toàn và có phương án bảo vệ."
+   }
+  },
+  {
+   "id": "VN-H641-A13",
+   "no": 13,
+   "noLabel": {
+    "vi": "Điều 13"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Vận chuyển, giao, nhận tài liệu, vật chứa bí mật nhà nước"
+   },
+   "text": {
+    "vi": "Điều 13. Vận chuyển, giao, nhận tài liệu, vật chứa bí mật nhà nước\n\n1. Vận chuyển, giao, nhận tài liệu, vật chứa bí mật nhà nước ở trong nước do người làm công tác liên quan đến bí mật nhà nước, người làm công tác giao liên hoặc văn thư của cơ quan, tổ chức thực hiện.\n\n2. Vận chuyển, giao, nhận tài liệu, vật chứa bí mật nhà nước giữa cơ quan, tổ chức ở trong nước với cơ quan, tổ chức của Việt Nam ở nước ngoài hoặc giữa các cơ quan, tổ chức của Việt Nam ở nước ngoài với nhau do giao liên ngoại giao hoặc người được giao nhiệm vụ thực hiện.\n\n3. Vận chuyển, giao, nhận tài liệu, vật chứa bí mật nhà nước phải thực hiện theo nguyên tắc giữ kín, niêm phong.\n\n4. Trong quá trình vận chuyển tài liệu, vật chứa bí mật nhà nước phải có biện pháp bảo quản, bảo đảm an toàn; trường hợp cần thiết phải có lực lượng bảo vệ.\n\n5. Vận chuyển tài liệu, vật chứa bí mật nhà nước qua dịch vụ bưu chính được thực hiện theo quy định của pháp luật về bưu chính.\n\n6. Nơi gửi và nơi nhận tài liệu, vật chứa bí mật nhà nước phải kiểm tra, đối chiếu để kịp thời phát hiện sai sót và có biện pháp xử lý; việc giao, nhận phải được ghi đầy đủ vào sổ theo dõi, người nhận phải ký nhận.\n\n7. Chính phủ quy định chi tiết Điều này."
+   }
+  },
+  {
+   "id": "VN-H641-A14",
+   "no": 14,
+   "noLabel": {
+    "vi": "Điều 14"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Mang tài liệu, vật chứa bí mật nhà nước ra khỏi nơi lưu giữ"
+   },
+   "text": {
+    "vi": "Điều 14. Mang tài liệu, vật chứa bí mật nhà nước ra khỏi nơi lưu giữ\n\n1. Việc mang tài liệu, vật chứa bí mật nhà nước ra khỏi nơi lưu giữ để phục vụ công tác ở trong nước phải liên quan trực tiếp đến nhiệm vụ được giao.\n\n2. Việc mang tài liệu, vật chứa bí mật nhà nước ra khỏi nơi lưu giữ để phục vụ công tác ở nước ngoài phải được người đứng đầu, cấp phó của người đứng đầu có thẩm quyền quy định tại các điểm a, b, c, d, đ, e, g, h, i, k và l khoản 1 Điều 11 của Luật này cho phép và phải báo cáo Trưởng đoàn công tác.\n\n3. Trong quá trình mang tài liệu, vật chứa bí mật nhà nước ra khỏi nơi lưu giữ phải có biện pháp bảo quản, bảo đảm an toàn.\n\n4. Trong thời gian mang tài liệu, vật chứa bí mật nhà nước ra khỏi nơi lưu giữ, nếu phát hiện bí mật nhà nước bị lộ, bị mất, người mang tài liệu, vật chứa bí mật nhà nước phải báo cáo ngay với người đứng đầu cơ quan, tổ chức trực tiếp quản lý, Trưởng đoàn công tác để có biện pháp xử lý và khắc phục hậu quả.\n\n5. Chính phủ quy định chi tiết Điều này."
+   }
+  },
+  {
+   "id": "VN-H641-A15",
+   "no": 15,
+   "noLabel": {
+    "vi": "Điều 15"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Cung cấp, chuyển giao bí mật nhà nước cho cơ quan, tổ chức, người Việt Nam"
+   },
+   "text": {
+    "vi": "Điều 15. Cung cấp, chuyển giao bí mật nhà nước cho cơ quan, tổ chức, người Việt Nam\n\n1. Người có thẩm quyền quy định tại các khoản 1, 2 và 3 Điều 11 của Luật này quyết định việc cung cấp, chuyển giao bí mật nhà nước thuộc phạm vi quản lý tương ứng với độ mật của tài liệu, vật chứa bí mật nhà nước mà người đó có thẩm quyền cho phép sao, chụp.\n\n2. Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an quy định thẩm quyền cung cấp, chuyển giao bí mật nhà nước thuộc phạm vi quản lý.\n\n3. Cơ quan, tổ chức và người Việt Nam được giao thực hiện nhiệm vụ liên quan trực tiếp đến bí mật nhà nước được đề nghị cung cấp, chuyển giao bí mật nhà nước.\n\n4. Cơ quan, tổ chức đề nghị cung cấp, chuyển giao bí mật nhà nước phải có văn bản gửi người có thẩm quyền quyết định việc cung cấp, chuyển giao bí mật nhà nước. Văn bản đề nghị phải ghi rõ tên cơ quan, tổ chức; người đại diện cơ quan, tổ chức; bí mật nhà nước đề nghị cung cấp, chuyển giao; mục đích sử dụng và cam kết bảo vệ bí mật nhà nước.\n\n5. Người đề nghị cung cấp, chuyển giao bí mật nhà nước phải có văn bản gửi người có thẩm quyền quyết định việc cung cấp, chuyển giao bí mật nhà nước. Văn bản đề nghị phải ghi rõ họ và tên; số định danh cá nhân, số hộ chiếu, số chứng minh Công an nhân dân hoặc số giấy chứng minh do Quân đội nhân dân cấp; địa chỉ liên lạc; vị trí công tác; bí mật nhà nước đề nghị cung cấp, chuyển giao; mục đích sử dụng và cam kết bảo vệ bí mật nhà nước.\n\n6. Trường hợp từ chối cung cấp, chuyển giao bí mật nhà nước, người có thẩm quyền quyết định việc cung cấp, chuyển giao bí mật nhà nước phải trả lời bằng văn bản và nêu rõ lý do."
+   }
+  },
+  {
+   "id": "VN-H641-A16",
+   "no": 16,
+   "noLabel": {
+    "vi": "Điều 16"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Cung cấp, chuyển giao bí mật nhà nước cho cơ quan, tổ chức, cá nhân nước ngoài"
+   },
+   "text": {
+    "vi": "Điều 16. Cung cấp, chuyển giao bí mật nhà nước cho cơ quan, tổ chức, cá nhân nước ngoài\n\n1. Thẩm quyền quyết định việc cung cấp, chuyển giao bí mật nhà nước cho cơ quan, tổ chức, cá nhân nước ngoài được quy định như sau:\n\na) Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam, Chủ tịch nước, Thủ tướng Chính phủ, Chủ tịch Quốc hội quyết định cung cấp, chuyển giao bí mật nhà nước độ Tuyệt mật;\n\nb) Người đứng đầu, cấp phó của người đứng đầu có thẩm quyền quy định tại các điểm a, b, c, d, đ, e, g, h, i và k khoản 1 Điều 11 của Luật này quyết định cung cấp, chuyển giao bí mật nhà nước độ Tối mật, độ Mật thuộc phạm vi quản lý;\n\nc) Bộ trưởng, Thứ trưởng Bộ Quốc phòng, Bộ trưởng, Thứ trưởng Bộ Công an quyết định cung cấp, chuyển giao bí mật nhà nước độ Tối mật, độ Mật thuộc phạm vi quản lý.\n\n2. Bí mật nhà nước chỉ được cung cấp, chuyển giao cho cơ quan, tổ chức, cá nhân nước ngoài tham gia vào chương trình hợp tác quốc tế hoặc thi hành công vụ có liên quan đến bí mật nhà nước.\n\n3. Cơ quan, tổ chức nước ngoài đề nghị cung cấp, chuyển giao bí mật nhà nước phải có văn bản gửi cơ quan, tổ chức Việt Nam chủ trì chương trình hợp tác quốc tế hoặc thi hành công vụ có liên quan đến bí mật nhà nước. Văn bản đề nghị phải ghi rõ tên cơ quan, tổ chức, người đại diện cơ quan, tổ chức; quốc tịch, số hộ chiếu, chức vụ của người đại diện; bí mật nhà nước đề nghị cung cấp, chuyển giao; mục đích sử dụng, cam kết bảo vệ bí mật nhà nước và không cung cấp, chuyển giao cho bên thứ ba nếu không có sự đồng ý của bên cung cấp, chuyển giao.\n\n4. Cá nhân nước ngoài đề nghị cung cấp, chuyển giao bí mật nhà nước phải có văn bản gửi cơ quan, tổ chức Việt Nam chủ trì chương trình hợp tác quốc tế hoặc thi hành công vụ có liên quan đến bí mật nhà nước. Văn bản đề nghị phải ghi rõ họ và tên; quốc tịch, số hộ chiếu, địa chỉ liên lạc; bí mật nhà nước đề nghị cung cấp, chuyển giao; mục đích sử dụng, cam kết bảo vệ bí mật nhà nước và không cung cấp, chuyển giao cho bên thứ ba nếu không có sự đồng ý của bên cung cấp, chuyển giao.\n\n5. Cơ quan, tổ chức Việt Nam chủ trì chương trình hợp tác quốc tế hoặc thi hành công vụ có liên quan đến bí mật nhà nước có trách nhiệm chuyển đề nghị của cơ quan, tổ chức, cá nhân nước ngoài quy định tại khoản 3 và khoản 4 Điều này đến người có thẩm quyền quyết định việc cung cấp, chuyển giao bí mật nhà nước.\n\n6. Trường hợp từ chối cung cấp, chuyển giao bí mật nhà nước, người có thẩm quyền quyết định việc cung cấp, chuyển giao bí mật nhà nước phải trả lời bằng văn bản và nêu rõ lý do."
+   }
+  },
+  {
+   "id": "VN-H641-A17",
+   "no": 17,
+   "noLabel": {
+    "vi": "Điều 17"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Hội nghị, hội thảo, cuộc họp của cơ quan, tổ chức Việt Nam có nội dung bí mật nhà nước"
+   },
+   "text": {
+    "vi": "Điều 17. Hội nghị, hội thảo, cuộc họp của cơ quan, tổ chức Việt Nam có nội dung bí mật nhà nước\n\n1. Việc tổ chức hội nghị, hội thảo, cuộc họp của cơ quan, tổ chức Việt Nam có nội dung bí mật nhà nước phải bảo đảm các yêu cầu sau đây:\n\na) Được sự đồng ý của người có thẩm quyền quy định tại khoản 1 và khoản 2 Điều 15 của Luật này về việc sử dụng nội dung bí mật nhà nước;\n\nb) Thành phần tham dự là đại diện cơ quan, tổ chức hoặc người được giao thực hiện nhiệm vụ liên quan đến bí mật nhà nước;\n\nc) Địa điểm tổ chức bảo đảm an toàn, không để bị lộ, bị mất bí mật nhà nước;\n\nd) Sử dụng các phương tiện, thiết bị đáp ứng yêu cầu bảo vệ bí mật nhà nước;\n\nđ) Có phương án bảo vệ hội nghị, hội thảo, cuộc họp.\n\n2. Người đứng đầu, cấp phó của người đứng đầu cơ quan, tổ chức quyết định tổ chức hội nghị, hội thảo, cuộc họp có nội dung bí mật nhà nước có trách nhiệm bảo đảm các yêu cầu quy định tại khoản 1 Điều này và quyết định việc thu hồi tài liệu, vật chứa bí mật nhà nước sau hội nghị, hội thảo, cuộc họp.\n\n3. Người tham dự hội nghị, hội thảo, cuộc họp có nội dung bí mật nhà nước có trách nhiệm bảo vệ, sử dụng bí mật nhà nước theo quy định của Luật này và yêu cầu của người chủ trì hội nghị, hội thảo, cuộc họp; người chủ trì hội nghị, hội thảo, cuộc họp có nội dung bí mật nhà nước chịu trách nhiệm trước người đứng đầu, cấp phó của người đứng đầu cơ quan, tổ chức về việc bảo vệ bí mật nhà nước tại hội nghị, hội thảo, cuộc họp đó.\n\n4. Chính phủ quy định chi tiết các điểm c, d và đ khoản 1 Điều này."
+   }
+  },
+  {
+   "id": "VN-H641-A18",
+   "no": 18,
+   "noLabel": {
+    "vi": "Điều 18"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Hội nghị, hội thảo, cuộc họp có yếu tố nước ngoài tổ chức tại Việt Nam có nội dung bí mật nhà nước"
+   },
+   "text": {
+    "vi": "Điều 18. Hội nghị, hội thảo, cuộc họp có yếu tố nước ngoài tổ chức tại Việt Nam có nội dung bí mật nhà nước\n\n1. Việc tổ chức hội nghị, hội thảo, cuộc họp có yếu tố nước ngoài tại Việt Nam có nội dung bí mật nhà nước phải bảo đảm các yêu cầu sau đây:\n\na) Do cơ quan, tổ chức Việt Nam tổ chức;\n\nb) Được sự đồng ý bằng văn bản của người có thẩm quyền quy định tại khoản 1 Điều 16 của Luật này về việc sử dụng nội dung bí mật nhà nước;\n\nc) Thành phần tham dự theo quy định tại điểm b khoản 1 Điều 17 của Luật này; đại diện cơ quan, tổ chức hoặc cá nhân nước ngoài có liên quan đến bí mật nhà nước;\n\nd) Tài liệu, vật chứa bí mật nhà nước phải được thu hồi sau hội nghị, hội thảo, cuộc họp và bảo đảm yêu cầu quy định tại các điểm c, d và đ khoản 1 Điều 17 của Luật này.\n\n2. Người đứng đầu, cấp phó của người đứng đầu cơ quan, tổ chức quyết định tổ chức hội nghị, hội thảo, cuộc họp có nội dung bí mật nhà nước có trách nhiệm bảo đảm các yêu cầu quy định tại khoản 1 Điều này.\n\n3. Người tham dự hội nghị, hội thảo, cuộc họp có nội dung bí mật nhà nước có trách nhiệm bảo vệ, sử dụng bí mật nhà nước theo quy định của Luật này và yêu cầu của người chủ trì hội nghị, hội thảo, cuộc họp; không được cung cấp, chuyển giao cho bên thứ ba. Người chủ trì hội nghị, hội thảo, cuộc họp có nội dung bí mật nhà nước chịu trách nhiệm trước người đứng đầu, cấp phó của người đứng đầu cơ quan, tổ chức về việc bảo vệ bí mật nhà nước tại hội nghị, hội thảo, cuộc họp đó."
+   }
+  },
+  {
+   "id": "VN-H641-A19",
+   "no": 19,
+   "noLabel": {
+    "vi": "Điều 19"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Thời hạn bảo vệ bí mật nhà nước"
+   },
+   "text": {
+    "vi": "Điều 19. Thời hạn bảo vệ bí mật nhà nước\n\n1. Thời hạn bảo vệ bí mật nhà nước là khoảng thời gian được tính từ ngày xác định độ mật của bí mật nhà nước đến hết thời gian sau đây:\n\na) 30 năm đối với bí mật nhà nước độ Tuyệt mật;\n\nb) 20 năm đối với bí mật nhà nước độ Tối mật;\n\nc) 10 năm đối với bí mật nhà nước độ Mật.\n\n2. Thời hạn bảo vệ bí mật nhà nước có thể ngắn hơn thời hạn quy định tại khoản 1 Điều này và phải xác định tại tài liệu, vật chứa bí mật nhà nước bằng dấu “Thời hạn bảo vệ bí mật nhà nước” hoặc hình thức phù hợp khác khi xác định độ mật.\n\n3. Thời hạn bảo vệ bí mật nhà nước đối với tài liệu bí mật nhà nước là dự thảo hoặc tài liệu khác không thể hiện ngày xác định độ mật thì được xác định bằng dấu “Thời hạn bảo vệ bí mật nhà nước”.\n\n4. Trường hợp sử dụng bí mật nhà nước của cơ quan, tổ chức khác, thời hạn bảo vệ bí mật nhà nước được tính từ ngày cơ quan, tổ chức khác xác định bí mật nhà nước và thực hiện bằng dấu “Thời hạn bảo vệ bí mật nhà nước”.\n\n5. Thời hạn bảo vệ bí mật nhà nước về địa điểm kết thúc khi cơ quan, tổ chức có thẩm quyền không sử dụng địa điểm bí mật nhà nước."
+   }
+  },
+  {
+   "id": "VN-H641-A20",
+   "no": 20,
+   "noLabel": {
+    "vi": "Điều 20"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Gia hạn thời hạn bảo vệ bí mật nhà nước"
+   },
+   "text": {
+    "vi": "Điều 20. Gia hạn thời hạn bảo vệ bí mật nhà nước\n\n1. Bí mật nhà nước khi hết thời hạn bảo vệ bí mật nhà nước nếu giải mật có thể gây nguy hại đến lợi ích quốc gia, dân tộc thì được gia hạn thời hạn bảo vệ bí mật nhà nước.\n\n2. Việc gia hạn thời hạn bảo vệ bí mật nhà nước đối với trường hợp quy định tại khoản 1 Điều 19 của Luật này được quy định như sau:\n\na) Chậm nhất 60 ngày trước ngày hết thời hạn bảo vệ bí mật nhà nước, người có thẩm quyền xác định bí mật nhà nước quyết định gia hạn thời hạn bảo vệ bí mật nhà nước;\n\nb) Mỗi lần gia hạn không quá thời hạn quy định tại khoản 1 Điều 19 của Luật này;\n\nc) Chậm nhất 15 ngày kể từ ngày gia hạn, cơ quan, tổ chức gia hạn phải thông báo bằng văn bản đến cơ quan, tổ chức, cá nhân có liên quan.\n\n3. Việc gia hạn thời hạn bảo vệ bí mật nhà nước đối với quy định tại khoản 2 Điều 19 của Luật này được thực hiện như sau:\n\na) Trước khi hết thời hạn hoặc khi hết thời hạn bảo vệ bí mật nhà nước, người có thẩm quyền xác định bí mật nhà nước quyết định gia hạn thời hạn bảo vệ bí mật nhà nước nếu việc giải mật có thể gây nguy hại đến lợi ích quốc gia, dân tộc;\n\nb) Cơ quan, tổ chức gia hạn phải thông báo bằng văn bản đến cơ quan, tổ chức, cá nhân có liên quan.\n\n4. Bí mật nhà nước sau khi gia hạn phải được đóng dấu, có văn bản hoặc hình thức phù hợp khác xác định việc gia hạn.\n\n5. Cơ quan, tổ chức, cá nhân có liên quan khi nhận được thông báo về việc gia hạn có trách nhiệm đóng dấu, có văn bản hoặc hình thức phù hợp khác xác định việc gia hạn đối với bí mật nhà nước thuộc phạm vi quản lý.\n\n6. Chính phủ quy định việc gia hạn thời hạn bảo vệ bí mật nhà nước đối với văn bản điện tử bí mật nhà nước."
+   }
+  },
+  {
+   "id": "VN-H641-A21",
+   "no": 21,
+   "noLabel": {
+    "vi": "Điều 21"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Điều chỉnh độ mật"
+   },
+   "text": {
+    "vi": "Điều 21. Điều chỉnh độ mật\n\n1. Điều chỉnh độ mật là việc tăng độ mật, giảm độ mật đã được xác định của bí mật nhà nước.\n\n2. Việc điều chỉnh độ mật phải căn cứ vào danh mục bí mật nhà nước.\n\n3. Người có thẩm quyền xác định độ mật của bí mật nhà nước thì có thẩm quyền quyết định điều chỉnh độ mật.\n\n4. Bí mật nhà nước sau khi điều chỉnh độ mật phải được đóng dấu, có văn bản hoặc hình thức phù hợp khác xác định việc tăng độ mật, giảm độ mật.\n\n5. Chậm nhất 15 ngày kể từ ngày điều chỉnh độ mật, cơ quan, tổ chức điều chỉnh độ mật phải thông báo bằng văn bản đến cơ quan, tổ chức, cá nhân có liên quan.\n\nCơ quan, tổ chức, cá nhân có liên quan khi nhận được thông báo về việc điều chỉnh độ mật có trách nhiệm đóng dấu, có văn bản hoặc hình thức phù hợp khác xác định việc điều chỉnh độ mật tương ứng đối với bí mật nhà nước thuộc phạm vi quản lý.\n\n6. Chính phủ quy định việc điều chỉnh độ mật của văn bản điện tử bí mật nhà nước."
+   }
+  },
+  {
+   "id": "VN-H641-A22",
+   "no": 22,
+   "noLabel": {
+    "vi": "Điều 22"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Giải mật"
+   },
+   "text": {
+    "vi": "Điều 22. Giải mật\n\n1. Bí mật nhà nước được giải mật trong các trường hợp sau đây:\n\na) Bí mật nhà nước đương nhiên được giải mật khi hết thời hạn bảo vệ bí mật nhà nước quy định tại Điều 19 của Luật này và thời gian gia hạn bảo vệ bí mật nhà nước quy định tại Điều 20 của Luật này;\n\nb) Không còn thuộc danh mục bí mật nhà nước;\n\nc) Bí mật nhà nước được giải mật trước thời hạn để phục vụ yêu cầu bảo vệ lợi ích quốc gia, dân tộc, phát triển kinh tế - xã hội, hội nhập, hợp tác quốc tế.\n\n2. Giải mật đối với trường hợp quy định tại điểm b khoản 1 Điều này thì cơ quan, tổ chức xác định bí mật nhà nước phải đóng dấu, có văn bản hoặc hình thức phù hợp khác xác định việc giải mật và thông báo bằng văn bản đến cơ quan, tổ chức, cá nhân có liên quan.\n\n3. Giải mật đối với trường hợp quy định tại điểm c khoản 1 Điều này được quy định như sau:\n\na) Người có thẩm quyền xác định bí mật nhà nước thì có thẩm quyền quyết định giải mật và thành lập hội đồng giải mật;\n\nb) Hội đồng giải mật bao gồm: đại diện lãnh đạo cơ quan, tổ chức xác định bí mật nhà nước làm Chủ tịch hội đồng giải mật, đại diện cơ quan, tổ chức trực tiếp soạn thảo, tạo ra bí mật nhà nước và thành phần khác do người có thẩm quyền quy định tại điểm a khoản 3 Điều này quyết định;\n\nc) Hội đồng giải mật có trách nhiệm xem xét việc giải mật toàn bộ bí mật nhà nước hoặc một phần bí mật nhà nước, báo cáo người có thẩm quyền quy định tại điểm a khoản 3 Điều này quyết định giải mật bằng văn bản;\n\nd) Bí mật nhà nước sau khi giải mật phải đóng dấu, có văn bản hoặc hình thức phù hợp khác xác định việc giải mật; trường hợp giải mật một phần thì quyết định giải mật phải thể hiện đầy đủ nội dung thông tin giải mật;\n\nđ) Chậm nhất 15 ngày kể từ ngày có quyết định giải mật, cơ quan, tổ chức quyết định giải mật phải thông báo bằng văn bản đến cơ quan, tổ chức, cá nhân có liên quan;\n\ne) Hồ sơ giải mật phải được lưu trữ bao gồm: Quyết định thành lập hội đồng giải mật; bí mật nhà nước đề nghị giải mật; biên bản họp hội đồng giải mật; quyết định giải mật và tài liệu khác có liên quan.\n\n4. Cơ quan, tổ chức, cá nhân nhận được thông báo về việc giải mật có các trách nhiệm sau đây:\n\na) Đóng dấu, có văn bản hoặc hình thức phù hợp khác xác định việc giải mật đối với bí mật nhà nước nhận được;\n\nb) Đóng dấu, có văn bản hoặc hình thức phù hợp khác xác định việc giải mật đối với bí mật nhà nước được tạo ra có sử dụng bí mật nhà nước đã được giải mật do cơ quan, tổ chức, cá nhân gửi đến và thông báo bằng văn bản đến cơ quan, tổ chức, cá nhân có liên quan.\n\n5. Đối với bí mật nhà nước do Lưu trữ lịch sử lưu trữ, trường hợp không xác định được cơ quan xác định bí mật nhà nước thì Lưu trữ lịch sử quyết định việc giải mật theo quy định của pháp luật về lưu trữ.\n\n6. Chính phủ quy định việc giải mật đối với văn bản điện tử bí mật nhà nước."
+   }
+  },
+  {
+   "id": "VN-H641-A23",
+   "no": 23,
+   "noLabel": {
+    "vi": "Điều 23"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Tiêu hủy tài liệu, vật chứa bí mật nhà nước"
+   },
+   "text": {
+    "vi": "Điều 23. Tiêu hủy tài liệu, vật chứa bí mật nhà nước\n\n1. Tài liệu, vật chứa bí mật nhà nước được tiêu hủy trong các trường hợp sau đây:\n\na) Khi không cần thiết phải lưu giữ và việc tiêu hủy không gây nguy hại đến lợi ích quốc gia, dân tộc;\n\nb) Nếu không tiêu hủy ngay sẽ gây nguy hại cho lợi ích quốc gia, dân tộc.\n\n2. Việc tiêu hủy tài liệu, vật chứa bí mật nhà nước phải đáp ứng các yêu cầu sau đây:\n\na) Không để bị lộ, bị mất bí mật nhà nước;\n\nb) Quá trình tiêu hủy phải tác động vào tài liệu, vật chứa bí mật nhà nước làm thay đổi hình dạng, tính năng, tác dụng, nội dung;\n\nc) Tài liệu, vật chứa bí mật nhà nước sau khi tiêu hủy không thể khôi phục hình dạng, tính năng, tác dụng, nội dung.\n\n3. Thẩm quyền tiêu hủy tài liệu, vật chứa bí mật nhà nước trong trường hợp quy định tại điểm a khoản 1 Điều này được quy định như sau:\n\na) Người có thẩm quyền quy định tại khoản 1 và khoản 2 Điều 11 của Luật này có thẩm quyền quyết định tiêu hủy tài liệu, vật chứa bí mật nhà nước;\n\nb) Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an quy định thẩm quyền tiêu hủy tài liệu, vật chứa bí mật nhà nước thuộc phạm vi quản lý.\n\n4. Thủ tục tiêu hủy tài liệu, vật chứa bí mật nhà nước độ Tuyệt mật trong trường hợp quy định tại điểm a khoản 1 Điều này được quy định như sau:\n\na) Người có thẩm quyền quy định tại điểm a hoặc điểm b khoản 3 Điều này quyết định thành lập hội đồng tiêu hủy tài liệu, vật chứa bí mật nhà nước;\n\nb) Hội đồng tiêu hủy tài liệu, vật chứa bí mật nhà nước bao gồm: đại diện lãnh đạo cơ quan, tổ chức trực tiếp lưu giữ tài liệu, vật chứa bí mật nhà nước làm Chủ tịch hội đồng; người trực tiếp lưu giữ tài liệu, vật chứa bí mật nhà nước và đại diện cơ quan, tổ chức có liên quan;\n\nc) Hội đồng tiêu hủy tài liệu, vật chứa bí mật nhà nước có trách nhiệm rà soát tài liệu, vật chứa bí mật nhà nước được đề nghị tiêu hủy, báo cáo người có thẩm quyền quy định tại điểm a hoặc điểm b khoản 3 Điều này quyết định;\n\nd) Hồ sơ tiêu hủy phải được lưu trữ bao gồm: Quyết định thành lập hội đồng tiêu hủy; danh sách tài liệu, vật chứa bí mật nhà nước đề nghị tiêu hủy; biên bản họp hội đồng tiêu hủy; quyết định tiêu hủy, biên bản tiêu hủy và tài liệu khác có liên quan.\n\n5. Trường hợp tiêu hủy tài liệu, vật chứa bí mật nhà nước quy định tại điểm b khoản 1 Điều này thì người đang quản lý tài liệu, vật chứa bí mật nhà nước được quyền quyết định tiêu hủy ngay và báo cáo bằng văn bản về việc tiêu hủy với người đứng đầu cơ quan, tổ chức.\n\n6. Việc tiêu hủy tài liệu, vật chứa bí mật nhà nước trong lĩnh vực cơ yếu thực hiện theo quy định của pháp luật về cơ yếu; việc tiêu hủy tài liệu, vật chứa bí mật nhà nước do Lưu trữ lịch sử lưu trữ được thực hiện theo quy định của pháp luật về lưu trữ.\n\n7. Chính phủ quy định thủ tục tiêu hủy tài liệu, vật chứa bí mật nhà nước độ Tối mật và độ Mật.\n\nChương IV\n\nTRÁCH NHIỆM BẢO VỆ BÍ MẬT NHÀ NƯỚC"
+   }
+  },
+  {
+   "id": "VN-H641-A24",
+   "no": 24,
+   "noLabel": {
+    "vi": "Điều 24"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Trách nhiệm bảo vệ bí mật nhà nước của cơ quan, tổ chức"
+   },
+   "text": {
+    "vi": "Điều 24. Trách nhiệm bảo vệ bí mật nhà nước của cơ quan, tổ chức\n\n1. Chính phủ thống nhất quản lý nhà nước về bảo vệ bí mật nhà nước.\n\n2. Bộ Công an chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về bảo vệ bí mật nhà nước và có nhiệm vụ, quyền hạn sau đây:\n\na) Xây dựng, đề xuất chủ trương, chính sách, kế hoạch và phương án bảo vệ bí mật nhà nước;\n\nb) Chủ trì xây dựng và trình cơ quan có thẩm quyền ban hành hoặc ban hành theo thẩm quyền văn bản quy phạm pháp luật về bảo vệ bí mật nhà nước; hướng dẫn thực hiện công tác bảo vệ bí mật nhà nước;\n\nc) Tổ chức bồi dưỡng nghiệp vụ, kiến thức bảo vệ bí mật nhà nước;\n\nd) Phòng, chống vi phạm pháp luật về bảo vệ bí mật nhà nước;\n\nđ) Kiểm tra, thanh tra, giải quyết khiếu nại, tố cáo và xử lý vi phạm pháp luật về bảo vệ bí mật nhà nước;\n\ne) Thực hiện hợp tác quốc tế về bảo vệ bí mật nhà nước theo phân công của Chính phủ.\n\n3. Văn phòng Trung ương Đảng và cơ quan Đảng ở trung ương, đảng ủy trực thuộc trung ương; Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam; Hội đồng Dân tộc, Ủy ban của Quốc hội, Văn phòng Quốc hội; Văn phòng Chủ tịch nước; tỉnh ủy, thành ủy, Đoàn đại biểu Quốc hội, Hội đồng nhân dân tỉnh, thành phố trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm sau đây:\n\na) Tổ chức thực hiện công tác bảo vệ bí mật nhà nước;\n\nb) Chủ trì xây dựng và trình cơ quan có thẩm quyền ban hành hoặc ban hành theo thẩm quyền văn bản liên quan đến bảo vệ bí mật nhà nước thuộc phạm vi quản lý phù hợp với quy định của Luật này;\n\nc) Ban hành và tổ chức thực hiện quy chế bảo vệ bí mật nhà nước của cơ quan, tổ chức, địa phương;\n\nd) Phân công người thực hiện nhiệm vụ bảo vệ bí mật nhà nước, thực hiện chế độ báo cáo về công tác bảo vệ bí mật nhà nước theo quy định của Chính phủ;\n\nđ) Quyết định biện pháp bảo đảm an ninh, an toàn, phòng, chống xâm phạm bí mật nhà nước đối với mạng LAN độc lập thuộc quyền quản lý và trong các trường hợp: sử dụng máy tính, thiết bị đã dùng để soạn thảo, lưu giữ bí mật nhà nước để kết nối với mạng máy tính (trừ mạng LAN độc lập), mạng Internet, mạng viễn thông; sử dụng máy tính, thiết bị có lịch sử kết nối với mạng máy tính (trừ mạng LAN độc lập), mạng Internet, mạng viễn thông để soạn thảo, lưu giữ bí mật nhà nước;\n\ne) Triển khai, sử dụng hệ thống trí tuệ nhân tạo hoặc công nghệ mới trong hoạt động bảo vệ bí mật nhà nước theo quy định của Luật này và quy định khác của pháp luật có liên quan.\n\n4. Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; Tòa án nhân dân tối cao; Viện kiểm sát nhân dân tối cao; Kiểm toán nhà nước; Ủy ban nhân dân tỉnh, thành phố có trách nhiệm sau đây:\n\na) Thực hiện trách nhiệm quy định tại khoản 3 Điều này;\n\nb) Kiểm tra, thanh tra, giải quyết khiếu nại, tố cáo, xử lý vi phạm pháp luật về bảo vệ bí mật nhà nước đối với cơ quan, tổ chức, cá nhân thuộc phạm vi quản lý theo quy định của pháp luật;\n\nc) Hợp tác quốc tế về bảo vệ bí mật nhà nước thuộc phạm vi quản lý.\n\n5. Bộ Quốc phòng chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về bảo vệ bí mật nhà nước thuộc phạm vi quản lý theo quy định tại các điểm a, b, c, d và đ khoản 2 Điều này; thực hiện các nhiệm vụ theo quy định tại khoản 3 và điểm c khoản 4 Điều này.\n\n6. Ban Cơ yếu Chính phủ có trách nhiệm sau đây:\n\na) Giúp Bộ trưởng Bộ Quốc phòng thực hiện quản lý nhà nước về bảo vệ bí mật nhà nước theo quy định tại các điểm a, b, c, d và đ khoản 2 Điều này trong lĩnh vực cơ yếu;\n\nb) Giúp Bộ trưởng Bộ Quốc phòng tham mưu Chính phủ xây dựng và phát triển hệ thống thông tin mật mã quốc gia; quản lý hoạt động nghiên cứu, sản xuất, cung cấp và sử dụng sản phẩm mật mã để bảo vệ thông tin bí mật nhà nước;\n\nc) Thực hiện trách nhiệm quy định tại khoản 4 Điều này."
+   }
+  },
+  {
+   "id": "VN-H641-A25",
+   "no": 25,
+   "noLabel": {
+    "vi": "Điều 25"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Trách nhiệm của người đứng đầu cơ quan, tổ chức trực tiếp quản lý bí mật nhà nước"
+   },
+   "text": {
+    "vi": "Điều 25. Trách nhiệm của người đứng đầu cơ quan, tổ chức trực tiếp quản lý bí mật nhà nước\n\n1. Chỉ đạo, kiểm tra, đôn đốc việc thực hiện quy định của pháp luật và quy chế về bảo vệ bí mật nhà nước trong cơ quan, tổ chức thuộc phạm vi quản lý.\n\n2. Chỉ đạo, xử lý theo thẩm quyền và kịp thời thông báo với cơ quan có thẩm quyền khi xảy ra lộ, mất bí mật nhà nước thuộc phạm vi quản lý.\n\n3. Tổ chức thu hồi tài liệu, vật chứa bí mật nhà nước khi người được phân công quản lý bí mật nhà nước thôi việc, chuyển công tác, nghỉ hưu, từ trần hoặc vì lý do khác mà không được phân công tiếp tục quản lý bí mật nhà nước."
+   }
+  },
+  {
+   "id": "VN-H641-A26",
+   "no": 26,
+   "noLabel": {
+    "vi": "Điều 26"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Trách nhiệm của người tiếp cận, người trực tiếp quản lý bí mật nhà nước"
+   },
+   "text": {
+    "vi": "Điều 26. Trách nhiệm của người tiếp cận, người trực tiếp quản lý bí mật nhà nước\n\n1. Người tiếp cận bí mật nhà nước có trách nhiệm sau đây:\n\na) Tuân thủ quy định của pháp luật, quy chế của cơ quan, tổ chức về bảo vệ bí mật nhà nước;\n\nb) Thực hiện các biện pháp bảo vệ bí mật nhà nước;\n\nc) Sử dụng bí mật nhà nước đúng mục đích;\n\nd) Thực hiện yêu cầu và hướng dẫn của cơ quan, tổ chức trực tiếp quản lý bí mật nhà nước.\n\n2. Người trực tiếp quản lý bí mật nhà nước có trách nhiệm sau đây:\n\na) Thực hiện trách nhiệm quy định tại khoản 1 Điều này;\n\nb) Đề xuất người có thẩm quyền quyết định áp dụng các biện pháp để bảo vệ bí mật nhà nước do mình trực tiếp quản lý;\n\nc) Trường hợp phát hiện vi phạm trong hoạt động bảo vệ bí mật nhà nước thì người trực tiếp quản lý bí mật nhà nước phải có biện pháp xử lý và báo cáo người có trách nhiệm giải quyết, thông báo cho cơ quan, tổ chức xác định bí mật nhà nước biết để có biện pháp khắc phục;\n\nd) Trước khi thôi việc, chuyển công tác, nghỉ hưu hoặc vì lý do khác mà không được phân công tiếp tục quản lý bí mật nhà nước thì phải bàn giao bí mật nhà nước cho cơ quan, tổ chức có thẩm quyền quản lý và cam kết bảo vệ bí mật nhà nước đã quản lý.\n\nChương V\n\nĐIỀU KHOẢN THI HÀNH"
+   }
+  },
+  {
+   "id": "VN-H641-A27",
+   "no": 27,
+   "noLabel": {
+    "vi": "Điều 27"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Hiệu lực thi hành"
+   },
+   "text": {
+    "vi": "Điều 27. Hiệu lực thi hành\n\n1. Luật này có hiệu lực thi hành từ ngày 01 tháng 3 năm 2026.\n\n2. Luật Bảo vệ bí mật nhà nước số 29/2018/QH14 đã được sửa đổi, bổ sung một số điều theo Luật số 81/2025/QH15 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành."
+   }
+  },
+  {
+   "id": "VN-H641-A28",
+   "no": 28,
+   "noLabel": {
+    "vi": "Điều 28"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Điều khoản chuyển tiếp"
+   },
+   "text": {
+    "vi": "Điều 28. Điều khoản chuyển tiếp\n\nQuyết định về danh mục bí mật nhà nước được ban hành theo quy định của Luật Bảo vệ bí mật nhà nước số 29/2018/QH14 đã được sửa đổi, bổ sung một số điều theo Luật số 81/2025/QH15 tiếp tục có hiệu lực thi hành đến thời điểm được ban hành mới theo quy định của Luật này.\n\nNgười lập danh mục bí mật nhà nước được quy định tại khoản 2 Điều 9 của Luật này có trách nhiệm rà soát, đánh giá, đề xuất sửa đổi, bổ sung danh mục bí mật nhà nước của ngành, lĩnh vực quản lý, hoàn thành trước ngày 01 tháng 01 năm 2027.\n\nLuật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XV, kỳ họp thứ 10 thông qua ngày 10 tháng 12 năm 2025.\n\nCHỦ TỊCH QUỐC HỘI\n\nTrần Thanh Mẫn\n\n1:{\"id\":\"187038\",\"docType\":{\"id\":\"11025e19-2dd6-4165-85ad-ab6241186a1a\",\"name\":\"Luật\",\"code\":\"Lu\",\"parentCode\":\"VBQPPL\",\"parentName\":null},\"docGroup\":\"VBQPPL\",\"docNum\":\"117/2025/QH15\",\"title\":\"LUẬT BẢO VỆ BÍ MẬT NHÀ NƯỚC SỐ 117/2025/QH15\",\"applicationNote\":null,\"issueDate\":\"2025-12-10T00:00:00\",\"effFrom\":\"2026-03-01T00:00:00\",\"effTo\":null,\"publicDate\":null,\"effStatus\":{\"id\":\"1419f6be-4a15-44a7-97ac-ea042770a514\",\"name\":\"Còn hiệu lực\",\"code\":\"CHL\",\"parentCode\":null,\"parentName\":null},\"status\":\"Publish\",\"lang\":\"vi\",\"defaultLanguage\":\"VN\",\"updatedBy\":\"dungdvm_II.2\",\"updatedDate\":\"2026-04-15T17:31:24\",\"agencyName\":\"Quốc hội\",\"organization\":{\"id\":\"0995e017-a693-4ca7-9dc6-b0a969fe5f19\",\"code\":\"BCA\",\"name\":\"Bộ Công an\",\"nameEn\":\"Bộ Công an\",\"shortName\":\"BCA\",\"orgType\":\"0\"},\"isLw\":true,\"documentContent\":{\"id\":\"187038\",\"title\":null,\"content\":\"$2\"},\"documentContentEn\":null,\"documentContentFileName\":null,\"documentContentFileDocName\":\"117.2025.QH15.docx\",\"documentIssues\":[{\"id\":\"e9e4965c-e4ef-47d7-aa6a-b2a6cbd83331\",\"agencyId\":\"55\",\"agencyName\":\"Quốc hội\",\"agencyNameEn\":\"National Assembly of Vietnam\",\"agencyCode\":\"QH\",\"personId\":\"1734\",\"personName\":\"Trần Thanh Mẫn\",\"jobTitleId\":\"28da0087-8afd-420c-875c-b2369e212c3e\",\"jobTitleCode\":\"CTQH\",\"jobTitleName\":\"Chủ tịch Quốc hội\",\"orderIndex\":1}],\"documentMajors\":[],\"documentFields\":[],\"documentRelatedList\":[],\"provisionTree\":null,\"references\":null,\"isEffectAllDocument\":false,\"isOld\":true,\"reviewStatus\":\"RV_DONE\",\"reviewed\":true,\"isTranslationDoc\":false,\"isConsolidatedDocument\":false,\"isConstitutionDocument\":false,\"isAdministrativeDocument\":false,\"viewCount\":377,\"showViewCount\":true,\"hasContent\":true,\"hasOriginalPdf\":null,\"hasAIProcessed\":false,\"hasClauseRelation\":true,\"aiResults\":[]}"
+   }
+  }
+ ]
+}

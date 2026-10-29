@@ -1,0 +1,186 @@
+{
+ "id": "ID-H227",
+ "title": {
+  "zh": "卫生人员法",
+  "en": "personnel health Law",
+  "id": "tenaga kesehatan",
+  "orig": "TENAGA KESEHATAN",
+  "vi": "Luật nhân lực y tế",
+  "th": "พระราชบัญญัติ กำลังคน สุขภาพ",
+  "ms": "Akta tenaga kesehatan"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02b",
+ "language": "id",
+ "level": "law",
+ "category": "04_劳工与行政法",
+ "status": "active",
+ "promulgatedDate": "1963",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "-",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 9,
+ "chars": 11630,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": null
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\04_劳工与行政法\\印尼_WLD_1963_TENAGA KESEHATAN.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 14 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H227-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 1.\nMaksud dan tujuan undang-undang ini ialah untuk menetapkan\nketentuan-ketentuan dasar mengenai Tenaga Kesehatan.\nBAB II\nKetentuan umum."
+   }
+  },
+  {
+   "id": "ID-H227-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 2.\nYang dimaksud dengan Tenaga Kesehatan dalam undang-undang ini,\nialah :\nI. Tenaga Kesehatan sarjana, yaitu :\na. dokter;\nb. dokter-gigi;\nc. apoteker;\nd. sarjana-sarjana lain dalam bidang kesehatan;\nII. Tenaga Kesehatan sarjana-muda, menengah dan rendah:\na. dibidang farmasi : asisten-apoteker dan sebagainya;\nb. dibidang kebidanan: bidan dan sebagainya;\nc. dibidang perawatan: perawat, physio-terapis dan sebagainya;\nd. dibidang kesehatan masyarakat : penilik kesehatan, nutrisionis\ndan lain-lain;\ne. dibidang-bidang kesehatan lain.\nBAB III\nSyarat untuk melakukan pekerjaan dokter/\ndokter-gigi/apoteker.\nTGPT NAME=\"ps3\">Pasal 3.\nSyarat untuk melakukan pekerjaan sebagai dokter/dokter-gigi\nialah:\na. Yang bersangkutan memiliki ijazah dokter/dokter-gigi menurut\nperaturan yang berlaku;\nb. Yang bersangkutan memiliki ijazah dokter/dokter-gigi diluar\nnegeri yang sederajat dengan Universitas Negara menurut peraturan\nyang berlaku.\nTGPT NAME=\"ps4\">Pasal 4.\nSyarat untuk melakukan pekerjaan kefarmasian sebagai apoteker\n:\na. Yang bersangkutan memiliki ijazah apoteker menurut peraturan\nyang berlaku;\nb. Yang bersangkutan telah melakukan pekerjaan kefarmasian/\nsebagai apoteker menurut undang-undang yang berlaku;\nc. Yang bersangkutan memiliki ijazah apoteker diluar negeri, yang\nmenurut peraturan yang berlaku dinyatakan sederajat dengan ijazah\napoteker di Indonesia.\nBAB IV\nIzin untuk melakukan pekerjaan dokter/\ndokter-gigi/apoteker.\nTGPT NAME=\"ps5\">Pasal 5.\nUntuk melakukan pekerjaan, baik pada Pemerintah, pada\nbadan-badan Swasta maupun secara Swasta perseorangan, tenaga\nkesehatan yang\ndimaksud dalam pasal 3 dan pasal 4 harus memperoleh\nidzin Menteri.\nTGPT NAME=\"ps6\">Pasal 6.\n(1) Pada idzin yang dimaksud dalam pasal ditetapkan (tempat),\njangka waktu dan syarat-syarat lain, sesuai dengan\nketentuan-ketentuan\ndalam pasal 10 ayat (2), (3) dan (4) Undang-\nundang tentang Pokok-pokok Kesehatan.\n(2) Hal-hal mengenai daerah (tempat), jangka waktu dan\nsyarat-syarat lain yang dimaksud dalam ayat (1), diatur lebih\nlanjut dengan\nPeraturan Pemerintah.\nBAB V\nTugas pekerjaan tenaga kesehatan sarjana-muda,\nmenengah dan rendah."
+   }
+  },
+  {
+   "id": "ID-H227-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 7.\n(1) Tugas pekerjaan tenaga kesehatan sarjana-muda, menengah dan\nrendah ditetapkan berdasarkan pendidikan dan pengalamannya.\n(2) Pendidikan yang dimaksudkan dalam ayat (1) diatur dengan\nPeraturan Pemerintah atau Peraturan Menteri Kesehatan."
+   }
+  },
+  {
+   "id": "ID-H227-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 8.\n(1) Tenaga kesehatan sarjana-muda, menengah dan rendah melakukan\npekerjaannya dibawah pengawasan dokter/dokter-gigi/\napoteker/sarjana\nlain yang dimaksud pasal 2 nomor 1.\n(2) Kepada tenaga kesehatan tertentu dapat diberikan wewenang\nterbatas untuk menjalankan pekerjaan tanpa pengawasan langsung\nsebagaimana\ndimaksud dalam ayat ( 1).\n(3) Ketentuan-ketentuan dalam pasal 5 dan 6 berlaku juga untuk\nmelakukan pekerjaan tenaga kesehatan yang dimaksud dalam ayat\n(2).\nBAB VI\nTenaga pengobatan berdasarkan ilmu dan/atau cara lain\ndari pada ilmu kedokteran."
+   }
+  },
+  {
+   "id": "ID-H227-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 9.\n(1) Menteri Kesehatan memberi bimbingan dan pengawasan kepada\nmereka yang melakukan usaha-usaha pengobatan berdasarkan ilmu dan\natau\ncara lain dari pada ilmu kedokteran.\n(2) Bimbingan dan pengawasan yang dimaksud dalam ayat (1) diatur\nlebih lanjut dengan peraturan-peraturan pelaksanaan.\nBAB VII\nBimbingan Pemerintah.\nTGPT NAME=\"ps10\">Pasal 10.\nDengan mengingat ketentuan-ketentuan dalam Undang-undang tentang\nPokok -pokok Kesehatan (Undang-undang tahun 1960 No. 9;\nLembaran-Negara\ntahun 1960 No. 131), Menteri Kesehatan mengatur,\nmembimbing dan mengawasi tenaga kesehatan dalam melakukan tugas\npekerjaannya, baik\nyang dijalankan sebagai perseorangan maupun yang\nmerupakan aktivitas-aktivitas secara kolektip.\nBAB VIII\nTindakan-tindakan administratip."
+   }
+  },
+  {
+   "id": "ID-H227-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 11.\n(1) Dengan tidak mengurangi ketentuan-ketentuan didalam Kitab\nUndang-undang Hukum Pidana dan Peraturan-peraturan\nperundang-undangan\nlain, maka terhadap tenaga kesehatan dapat\ndilakukan tindakan-tindakan administratip dalam hal sebagai berikut\n:\na. melalaikan kewajiban;\nb. melakukan sesuatu hal yang seharusnya tidak boleh diperbuat\noleh seorang tenaga kesehatan, baik mengingat sumpah jabatannya\nmaupun\nmengingat sumpah sebagai tenaga kesehatan;\nc. mengabaikan sesuatu yang seharusnya dilakukan oleh tenaga\nkesehatan,\nd. melanggar sesuatu ketentuan menurut atau berdasarkan\nundang-undang ini.\n(2) Tindakan-tindakan yang dimaksud dalam pasal 11 ayat (1)dapat\ndiambil oleh Pejabat Kesehatan Tertinggi di Daerah tingkat I\ndan/atau\nMenteri Kesehatan, setelah diadakan pemeriksaan yang\nteliti."
+   }
+  },
+  {
+   "id": "ID-H227-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 12.\n(1) Jika tindakan-tindakan dalam pasal 11 ayat (1) yang diambil\noleh Pejabat Kesehatan Tertinggi di Daerah Tingkat I tidak diterima\noleh tenaga kesehatan yang bersangkutan, maka ia dapat memajukan\nperkaranya kepada Menteri Kesehatan.\n(2) Menteri Kesehatan mengambil tindakan-tindakan yang dimaksud\ndalam pasal 11 ayat (1) atau dalam hal yang dimaksud dalam pasal\nini ayat (1), setelah mendengar pertimbangan Dewan Pelindung Susila\nKedokteran dan bilamana perlu badan-badan- lain.\nBAB IX\nKETENTUAN PENUTUP."
+   }
+  },
+  {
+   "id": "ID-H227-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 13.\nHal-hal yang tidak, belum atau belum cukup diatur dengan\nUndang-undang ini, diatur dengan Peraturan Pemerintah atau\nPeraturan Menteri\nKesehatan."
+   }
+  },
+  {
+   "id": "ID-H227-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 14.\nUndang-undang ini mulai berlaku pada hari diundangkan.\nAgar supaya setiap orang dapat mengetahuinya memerintahkan\npengundangan Undang-undang ini dengan penempatan dalam\nLembaran-Negara\nRepublik Indonesia.\nDisahkan di Jakarta\npada tanggal 12 Juli 1963.\nPresiden Republik Indonesia,\nSUKARNO.\nDiundangkan di Jakarta\npada tanggal 22 Juli 1963.\nSekretaris Negara,\nMOHD. ICHSAN.\nPENJELASAN\nATAS\nUNDANG-UNDANG No. 6 TAHUN 1963\nTENTANG\nTENAGA KESEHATAN\nUMUM\nUndang-undang tentang Tenaga Kesehatan ini adalah pelaksanaan\ndari pada Undang-undang tentang Pokok-pokok Kesehatan (selanjutnya\ndisingkat\n: Undang-undang Pokok Kesehatan). Didalamnya terkandung\npikiran, bahwa tenaga kesehatan merupakan petugas masyarakat dan\nnegara yang\nberpendidikan dan berpengetahuan khusus, karena itu\nmereka mempunyai tugas dan fungsi yang khusus pula.\nMenteri Kesehatan berkewajiban mengatur tenaga kesehatan kearah\npengabdian kepada rakyat dan Negara menurut Undang-undang Pokok\nKesehatan.\nPASAL DEMI PASAL\nPasal 1\nUndang-undang ini menetapkan ketentuan-ketentuan yang bersifat\nkhas (spesifik) mengenai petugas-petugas kesehatan, maka dari itu\nUndang-undang\nini dapat berlaku disamping Undang-undang lain\nseperti Undang-undang Pokok Kepegawaian perihal Pegawai Negeri,\nUndang-undang Wajib\nkerja Sarjana mengenai para Sarjana.\nUndang-undang Wajib Militer mengenai Warga Negara yang harus\nmelakukan dinas Wajib Militer.\nPasal 2\nTenaga Kesehatan Sarjana, termasuk golongan Sarjana pada umumnya\npendidikannya diselenggarakan oleh Departemen Perguruan Tinggi dan\nIlmu Pengetahuan.\nTenaga Kesehatan lainnya yang bertingkat Sarjana Muda, Menengah\ndan Rendah (non-akademikus) pendidikannya diselenggarakan oleh\nDepartemen\nKesehatan sesuai dengan kebutuhan masyarakat dalam\nbidang Kesehatan.\nYang dimaksud dengan Sarjana Muda adalah tingkatan\nsemi-akademis.\nPasal 3\nIjazah-ijazah dokter, dokter-gigi, apoteker dan Sarjana-sarjana\nlain ini diatur dalam rangka pelaksanaan Undang-undang Perguruan\nTinggi,\nyang juga akan mengatur soal-soal gelar, sebutan, wewenang\ndan sebagainya secara keseluruhan.\nPasal 4\nYang dimaksud pada sub b ialah : assisten-apoteker yang mendapat\nizin memimpin sebuah \"Apotik Darurat\" menurut Undang-undang No. 18\ntahun 1959.\nPasal 5\nDengan \"melakukan pekerjaan secara swasta perseorangan\" dimaksud\n: \"praktek partikulir dokter/dokter-gigi\".\nDengan pasal ini Menteri Kesehatan dapat mengetahui keadaan\nseluruh tenaga dokter/dokter-gigi/apoteker dimanapun juga mereka\nbekerja.\nPasal 6\n(1) Menteri Kesehatan memberikan izin dengan memperhatikan\nkepentingan rakyat dan Negara (umpamanya distribusi Tenaga\nKesehatan secara\nmerata diseluruh wilayah Negara), penetapan jangka\nwaktu untuk melakukan pekerjaan dokter/dokter-gigi/apoteker disuatu\ndaerah tidak\nmengurangi daya laku wewenang ijazah sebagaimana\nditetapkan (diakui) dalam pasal 3 dan 4.\nMenteri Kesehatan menetapkan syarat-syarat lain dengan\nmemperhatikan fungsi sosial seorang dokter/dokter-gigi/apoteker,\nkeadaan\nfisik (umpamanya tidak buta-tuli, tidak buta-warna) dan\nsebagainya.\n(2) Dalam melaksanakan ketentuan dalam ayat (1), MenteriKesehatan\nmemperhatikan segala sesuatu mengenai daerah (tempat), jangka\nwaktu\nsyarat-syarat lain yang ditetapkan dengan Peraturan Pemerintah.\nPasal 7\n(1) Sebagai contoh tugas pekerjaan tenaga kesehatan dimaksud\ndalam pasal ini adalah sebagai berikut :\na. Tugas pekerjaan Tenaga Bidan yang berdasarkan pendidikannya,\nadalah terutama memberi pertolongan pada persalinan normal;\nb. Tugas pekerjaan Tenaga Kesehatan perawat pada pokoknya adalah\nmerawat penderita sakit dan membantu dokter dalam hal\nmengobatinya;\nc. Tugas pekerjaan asisten-apoteker adalah melakukan kefarmasian\nyang terbatas berdasarkan pendidikannya dan membantu pekerjaan\napoteker.\n(2) Sebutan dari pada Tenaga-tenaga Kesehatan itu diatur dengan\nPeraturan Pemerintah atau Peraturan Menteri.\nPasal 8\n(1) Oleh sebab Tenaga Kesehatan bukan Sarjana melakukan\npekerjaan dibawah pengawasan atasan-atasan yang bersangkutan, maka\npertanggungan-jawab\nmedis dari pada pekerjaannya terletak pada\natasan-atasan tersebut.\n(2) Adalah suatu kenyataan, bahwa didaerah-daerah dimana tidak\nada seorang dokter, maka Tenaga Kesehatan non-akademis tertentu\nmelakukan\npekerjaannya dengan memikul pertanggungan-jawab\nsepenuhnya.\nAgar kenyataan ini dapat dikuasai sebaik-baiknya, maka ditetapkan\ndisini bahwa Tenaga Kesehatan non-akademis tersebut perlu diberi\nwewenang yang terbatas.\n(3) Cukup jelas.\nPasal 9\nKetentuan dalam pasal ini bersandar pada pasal 14 ayat (4)\nUndang-undang Pokok Kesehatan yang mengatakan, bahwa : \"Usaha-usaha\npengobatan\nberdasarkan ilmu dan/atau cara lain dari pada ilmu\nkedokteran, diawasi oleh Pemerintah agar tidak membahayakan\nmasyarakat\".\nDengan demikian tenaga pengobatan secara \"Timur\" (dukun, dukun\nbayi dan sebagainya) dapat diatur dan dimana mungkin\ndiikut-sertakan\ndidalam usaha memelihara dan mempertinggi derajat\nkesehatan rakyat.\nDalam membimbing dan mengawasi cara pengobatan tersebut,\nDepartemen Kesehatan bekerja-sama dengan Departemen-departemen\nlain, diantaranya\nDepartemen Agama.\nPasal 10\nPerjalanan perkembangan masyarakat dan Negara kearah Masyarakat\nSosialis dibimbing, dengan adanya \"pimpinan\" disegala bidang\n(demokrasi\nterpimpin, ekonomi terpimpin dan seterusnya), maka dalam\nrangka kenyataan ini dengan tegas diterangkan bahwa dalam\nmelaksanakan tugas\npekerjaan Tenaga Kesehatan berada dibawah\npimpinan Menteri Kesehatan.\nPemerintah memberi kesempatan agar Tenaga Kesehatan non-akademikus\ndapat mencapai tingkat yang lebih tinggi dengan jalan\npendidikan-pendidikan\ndari kursus-kursus tambahan.\nPasal 11\n(1) Cukup jelas.\n(2) Dalam melaksanakan pemeriksaan yang dimaksud dalam ayat ini,\nPejabat Kesehatan Tertinggi Daerah tingkat I memperhatikan\npertimbangan\nPemerintah Daerah Tingkat I.\nPasal 12\nDengan ketentuan ini seorang tenaga Kesehatan yang merasa\ndiperlakukan tidak menurut norma-norma keadilan dapat \"naik banding\nkeinstansi\nyang lebih tinggi\". Dengan demikian kepentingan seorang\nTenaga Kesehatan mempunyai perlindungan hukum yang sewajarnya.\nPasal 13 dan 14\nCukup jelas.\nTermasuk dalam Lembaran Negara tahun 1963 No. 79.\nMengetahui :\nMenteri/Pejabat Sekretaris Negara.\nA. W. SURJOADININGRAT (S.H.).\n--------------------------------\nCATATAN\nKutipan: LEMBARAN NEGARA DAN TAMBAHAN LEMBARAN NEGARA TAHUN 1963\nYANG TELAH DICETAK ULANG"
+   }
+  }
+ ]
+}

@@ -1,0 +1,264 @@
+{
+ "id": "ID-H294",
+ "title": {
+  "zh": "国家商业银行法",
+  "en": "Law on the State Commercial Bank",
+  "id": "BANK DAGANG NEGARA",
+  "orig": "BANK DAGANG NEGARA",
+  "vi": "Luật về Ngân hàng Thương mại Nhà nước",
+  "th": "พระราชบัญญัติว่าด้วยธนาคารพาณิชย์แห่งรัฐ",
+  "ms": "Akta tentang Bank Perdagangan Negara"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02c",
+ "language": "id",
+ "level": "law",
+ "category": "02_民商事与经济法",
+ "status": "active",
+ "promulgatedDate": "1968",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "-",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 14,
+ "chars": 25981,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": null
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\02_民商事与经济法\\印尼_WLD_1968_BANK DAGANG NEGARA.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 28 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H294-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 1.\n(1) Dengan nama \"Bank Dagang Negara\" didirikan sebuah Bank milik\nNegara yang melanjutkan usaha Bank Dagang Negara sebagaimana\nditetapkan\ndalam Undang-undang No. 13 Prp. tahun 1960.\n(2) Bank Dagang Negara adalah Badan Hukum yang berhak melakukan\ntugas dan usaha berdasarkan Undang-undang ini.\n(3) Dengan tidak mengurangi ketentuan-ketentuan dalam\nUndang-undang ini, terhadap Bank Dagang Negara berlaku segala macam\nHukum\nIndonesia.\nBAB II.\nKETENTUAN UMUM."
+   }
+  },
+  {
+   "id": "ID-H294-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB II."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 2.\nYang dimaksud dalam Undang-undang ini dengan:\na. \"Pemerintah\" adalah Presiden Republik Indonesia,\nb. \"Bank Indonesia\" adalah Bank Sentral yang didirikan berdasarkan\nUndang-undang Bank Indonesia 1968,\nc. \"Direktur Utama\" adalah Direktur Utama Bank Dagang Negara,\nd. \"Direktur\" adalah Direktur Bank Dagang Negara,\ne. Direksi\" adalah Direktur Utama dan Direktur-direktur Bank\nDagang Negara,\nf. \"Dewan Pengawas\" adalah Dewan Pengawas Bank Dagang Negara,\ng. \"Bank\" adalah Bank Dagang Negara."
+   }
+  },
+  {
+   "id": "ID-H294-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB II."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 3.\n(1) Bank berkedudukan serta berkantor pusat di Jakarta.\n(2) Bank dapat mempunyai kantor-kantor atau\nkoresponden-koresponden di dalam dan di luar negeri.\nBAB III.\nMODAL BANK."
+   }
+  },
+  {
+   "id": "ID-H294-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB III."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 4.\n(1) Modal Bank berjumlah Rp. 250.000.000;- (dua ratus lima puluh\njuta rupiah) yang merupakan kejayaan Negara yang dipisahkan.\n(2) Modal termaksud dalam ayat (1) dapat ditambah dengan\npersetujuan Dewan Perwakilan Rakyat."
+   }
+  },
+  {
+   "id": "ID-H294-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB III."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\n(1) Bank mempunyai cadangan umum yang dibentuk dan dipupuk\nmenurut ketentuan tersebut dalam Pasal 21 ayat (6) huruf a.\n(2) Cadangan umum dipergunakan untuk menutup kerugian yang mungkin\ndiderita terhadap modal Bank."
+   }
+  },
+  {
+   "id": "ID-H294-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB III."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 6.\n(1) Bank membentuk cadangan tujuan, sesuai dengan ketentuan dalam"
+   }
+  },
+  {
+   "id": "ID-H294-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21 ayat (6) huruf b"
+   },
+   "chapter": {
+    "id": "BAB III."
+   },
+   "heading": {
+    "id": "ayat (6) huruf b."
+   },
+   "text": {
+    "id": "Pasal 21 ayat (6) huruf b.\n(2) Setiap cadangan yang diadakan oleh Bank harus jelas ternyata\ndalam tata-buku Bank.\nBAB IV.\nTUGAS DAN USAHA BANK\nPasal 7\nTugas dan usaha Bank diarahkan kepada perbaikan ekonomi rakyat\ndan pembangunan nasional dengan jalan melakukan usaha bank umum\ndengan\nmengutamakan sektor pertambangan.\nBAB V\nDIREKSI\nPasal 8\n(1) Bank dipimpin oleh Direksi yang terdiri atas seorang\nDirektur Utama dan sekurang-kurangnya 2 (dua) dan sebanyak-\nbanyaknya 4 (empat)\norang Direktur.\n(2) a. Direktur Utama dan Direktur, diangkat oleh Pemerintah atas\nusul Menteri Keuangan untuk masa jabatan 5 (lima) tahun.\nSetelah waktu itu berakhir, yang bersangkutan dapat diangkat\nkembali.\nb. Untuk dapat diangkat sebagai Direktur Utama dan Direktur, yang\nbersangkutan harus warga negara Indonesia yang memiliki keahlian\ndan akhlak serta moral yang baik.\nPasal 9.\n(1) Tugas dan kewajiban Direksi ialah menentukan kebijaksanaan\ndalam pengurusan Bank.\n(2) Atas pelaksanaan tugas dan kewajiban tersebut pada ayat (1)\nDireksi bertanggung jawab kepada Pemerintah.\n(3) Keputusan Direksi diambil dengan hikmah musjawarah untuk\nmufakat.\n(4) Direksi mengangkat dan memberhentikan pegawai-pegawai Bank\nmenurut peraturan kepegawaian Bank tanpa mengurangi\nketentuan-ketentuan\nberdasarkan peraturan-peraturan pemerintah yang\nberlaku.\n(5) Direksi menetapkan gaji, pensiun dan tunjangan hari tua serta\npenghasilan lainnya dari pegawai Bank.\n(6) Tata-tertib dan cara menjalankan pekerjaan Direksi diatur\ndalam suatu peraturan yang ditetapkan oleh Direksi.\nPasal 10\n(1) Pemerintah dapat memberhentikan anggota Direksi meskipun\nmasa jabatan yang bersangkutan belum berakhir\na. karena meninggal dunia;\nb. karena melakukan sesuatu atau bersikap yang merugikan Bank atau\nyang bertentangan dengan kepentingan Negara;\nc. karena sesuatu hal yang menyebabkan ia tidak dapat melaksanakan\ntugasnya dengan wajar;\nd. atas permintaan sendiri.\n(2) Dalam hal-hal dimana diduga terdapat tuduhan tersebut dalam\nayat (1) huruf b, anggota Direksi dapat diberhentikan untuk\nsementara\ndari tugasnya oleh Pemerintah atas usul Menteri\nKeuangan.\nPemberhentian sementara itu diberitahukan secara tertulis kepada\nyang bersangkutan disertai alasan-alasan yang menyebabkan tindakan\ntersebut.\n(3) Anggota Direksi yang dikenakan pemberhentian sementara diberi\nkesempatan untuk membela diri secara tertulis kepada Pemerintah\ndalam waktu 2 (dua) minggu setelah yang bersangkutan diberitahukan\ntentang keputsuan tersebut.\n(4) Apabila dalam waktu 1 (satu) bulan sejak tanggal pemberhentian\nsementara tidak ada pengesahan atau keputusan oleh Pemerintah\ntentang hal ini, maka pemberhentian-sementara tersebut menjadi\nbatal menurut hukum.\n(5) Apabila pelanggaran sebagaimana disebut dalam ayat (1) hurup\nb, merupakan suatu pelanggaran hukum pidana, maka memberhentikan\nitu akan merupakan pemberhentian tidak dengan hormat.\nPasal 11\n(1) Antara para anggota Direksi satu sama lainnya tidak boleh\nada hubungan keluarga sampai dengan derajat ketiga menurut garis\nlurus\nmaupun haris kesamping, termasuk menantu dan ipar.\nJika sesudah pengangkatannya mereka masuk hubungan keluarga yang\nterlarang itu, maka salah seorang diantara mereka itu tidak boleh\nmelanjutkan jabatannya tanpa izin Pemerintah.\n(2) Anggota Direksi tidak boleh berdagang atau mempunyai\nkepentingan pada salah satu perusahaan manapun juga, baik langsung\nmaupun\ntidak langsung.\n(3) Anggota Direksi tidak boleh merangkap jabatan lain, kecuali\ndengan persetujuan Menteri Keuangan.\nPasal 12\nGaji dan penghasilan lainnya anggota Direksi ditetapkan oleh\nPemerintah atas usul Menteri Keuangan.\nPasal 13.\nPeraturan-peraturan yang ada tentang tuntutan ganti rugi\nterhadap pegawai Negeri bukan Bendaharawan berlaku juga terhadap\nanggota\nDireksi dan pegawai-pegawai Bank.\nPasal 14.\n(1) Direksi mewakili Bank didalam dan diluar Pengadilan.\n(2) Direksi dapat menyerahkan kekuasaan mewakili tersebut pada\nayat (1) kepada seorang atau beberapa orang Direktur yang khusus\nditundjuk untuk itu atau kepada seorang/beberapa orang pegawai Bank\nbaik sendiri maupun bersama-sama atau kepada orang/badan lain.\nBAB VI.\nPENGAWASAN\nPasal 15.\n(1) Dewan Pengawas mengawasi pengurusan Bank oleh Direksi.\n(2) Dewan Pengawas terdiri dari sekurang-kurangnya 3 (tiga) orang\ndan sebanyak-banyaknya 5 (lima) orang anggota yang diangkat oleh\nPemerintah atas usul Menteri Keuangan. Salah seorang dari\nanggota-anggota Dewan Pengawas diangkat sebagai Ketua Dewan\nPengawas.\n(3) Untuk dapat diangkat sebagai anggota Dewan Pengawas yang\nbersangkutan harus warga negara Indonesia yang memilikii keahlian\ndan\nakhlak serta moral yang baik.\n(4) Pengangkatan anggota Dewan Pengawas berlaku untuk 3 (tiga)\ntahun.\nSetelah waktu itu berakhir, anggota Dewan Pengawas yang\nbersangkutan dapat diangkat kembali.\n(5) Antara Anggota Dewan Pengawas dan anggota Direksi tidak boleh\nada hubungan keluarga sampai dengan derajat ketiga menurut garis\nlurus maupun garis kesamping, termasuk menantu dan ipar.\n(6) Jika seorang anggota Dewan Pengawas sesudah pengangkatannya\nmasuk hubungan keuarga yang terlarang dengan seorang anggota\nDireksi\nsebagai dimaksudkan pada ayat (5), maka anggota Dewan\nPengawas yang bersangkutan tidak boleh terus memangku jabatannya\ntanpa izin\nPemerintah.\nPasal 16.\n(1) Dewan Pengawas dalam batas-batas wewenangnya mengawasi dan\nmenjaga supaya ketentuan-ketentuan untuk mengatur dan mengurus Bank\nditaati sebagaimana mestinya.\n(2) Ketua dan anggota-anggota Dewan Pengawas lainnya bersama- sama\natau masing-masing berhak meminta segala keterangan dan memeriksa\nsegenap buku-buku dan surat-surat serta berhak menunjuk ahli-ahli\nuntuk memeriksa buku-buku dan surat-surat tersebut, segala sesuatu\njika dipandang perlu untuk menjalankan kewajibannya.\n(3) Direksi wajib memberikan segala penjelasan yang\ndiperlukan.\n(4) Bank Indonesia dapat menetapkan ketentuan-ketentuan umum\nmengenai tugas dan kewajiban Direksi dan Dewan Pengawas dari\nBank.\nPasal 17.\n(1) Dewan Pengawas berapat sekurang-kurangnya tiga bulan sekali\ndan selanjutnya setiap kali menurut pertimbangan Ketua atau atas\npermintaan tertulis seorang anggota Dewan Pengawas atau dari\nDireksi.\nSegala biaya sidang dipikul oleh Bank.\n(2) Keputusan Dewan Pengawas diambil dengan hikmah musyawarah\nuntuk mufakat.\n(3) Tata-tertib Dewan Pengawas ditetapkan sendiri oleh Dewan\nPengawas.\n(4) Dewan Pengawas dapat mengangkat atau menunjuk seorang\nsekretaris; uang jasanya ditentukan oleh Dewan dan dibebankan pada\nBank.\n(5) Ketua dan anggota-anggota Dewan Pengawas menerima uang jasa\nyang besarnya ditetapkan oleh Menteri Keuangan dan dibebankan pada\nBank.\nPasal 18.\n(1) Bank Indonesia mengadakan pengawasan dan bimbingan terhadap\npengurus Bank berdasarkan ketentuan-ketentuan dalam Undang-undang\nBank Indonesia 1968 dan Undang-undang Perbankan 1967.\n(2) Direksi diwajibkan memberikan segala penjelasan yang\ndiperlukan untuk menjalankan pengawasan dalam ayat (1) diatas.\nBAB Vll.\nPERATURAN PENSIUN DAN TUNJANGAN PEGAWAI\nBANK.\nPasal 19\n(1) Bank mengadakan dana pensiun dan tunjangan hari tua para\npegawai Bank, yang merupakan kekayaan yang dipisahkan.\n(2) Bank wajib mengusahakan supaya dana ini mencapai jumlah harga\ntunai kewajiban yang harus dipenuhi terhadap para pegawai Bank,\ndan\nwajib menjaga juga supaya jumlah harga tunai itu jangan\nberkurang\n(3) Bank memberi sumbangan kepada dana tersebut pada ayat (1).\n(4) Dana pensiun dan tunjangan hari tua para pegawai Bank tersebut\npada ayat (1) dan sumbangan Bank kepada dana tersebut pada ayat\n(3)\ntidak diperhitungkan dengan dana- dana dalam Pasal 21 ayat (6)\nhuruf c dan d.\n(5) Ketentuan selanjutnya tentang dana tersebut pada ayat\n(1) serta sumbangan tersebut pada ayat (3) ditetapkan oleh\nDireksi.\nBAB VIII.\nANGGARAN DAN RENCANA KERJA\nPasal 20\n(1) Tiap tahun selambat-lambatnya bulan September, Direksi\nmenyampaikan kepada Dewan Pengawas Anggaran Perusahaan dan Rencana\nKerja\nuntuk tahun buku baru.\n(2) Apabila sampai permulaan tahun buku baru Dewan Pengawas tidak\nmengemukakan keberatannya, maka Anggaran Perusahaan dan Rencana\nKerja tersebut berlaku sepenuhnya.\n(3) Tiap perubahan atas Anggaran Perusahaan dan Rencana Kerja yang\nterjadi dalam tahun buku yang bersangkutan harus mendapat\npersetujuan\nterlebih dahulu dari Dewan Pengawas.\n(4) Setelah tahun buku berakhir, selambat-lambatnya dalam waktu 3\n(tiga) bulan Direksi menyampaikan kepada Dewan Pengawas hasil-hasil\nrealisasi dari Anggaran Perusahaan dan Rencana Kerja dari tahun\nbuku yang telah berakhir itu.\n(5) Anggaran Perusahaan dan Rencana Kerja yang telah disetujui\noleh Dewan Pengawas, demikian pula realisasinya, disampaikan juga\nkepada Bank Indonesia.\nBAB IX.\nPERHITUNGAN TAHUNAN.\nPasal 21.\n(1) Tahun buku Bank ialah tahun takwim.\n(2) Selambat-lambatnya 6 (enam) bulan setelah akhir tahun buku\nDireksi menyampaikan perhitungan tahunan yang terutama terdiri dari\nNeraca dan perhitungan laba-rugi kepada Dewan Pengawas guna\nkemudian diteruskan kepada Menteri Keuangan untuk disahkan.\nNeraca dan perhitungan laba-rugi tersebut juga disampaikan kepada\nBank Indonesia.\n(3) Direktorat Akuntan Negara memeriksa perhitungan tahunan\nitu.\n(4) Jika dalam waktu 3 (tiga) bulan sesudah Menteri Keuangan\nmenerima perhitungan tahunan itu tidak diajukan keberatan olehnya,\nmaka hal itu berarti bahwa perhitungan tahunan telah disahkan oleh\nMenteri Keuangan.\n(5) Neraca dan perhitungan laba-rugi yang disahkan secara demikian\nmemberi pembebasan tanggung-jawab sepenuhnya kepada Direksi.\n(6) Laba Bank yang disahkan dan setelah dikurangi pajak dibagi\nsebagai berikut:\na. 20% (dua puluh perseratus) untuk cadangan umum sampai cadangan\nini mencapai jumlah yang sama besarnya dengan modal Bank;\nb. 20% (dua puluh perseratus) untuk cadangan tujuan;\nc. 71/2% (tujuh setengah perseratus) untuk dana kesejahteraan\npegawai Bank yang penggunaannya dilaksanakan dengan memperhatikan\npetunjuk-petunjuk Pemerintah;\nd. 71/2% (tujuh setengah perseratus) untuk jasa-produksi bagi\npegawai Bank dengan batas sebanyak-banyaknya 3 (tiga) kali gaji\nsebulan;\ne. penggunaan laba selebihnya ditetapkan oleh Pemerintah.\nBAB X.\nKETENTUAN PIDANA."
+   }
+  },
+  {
+   "id": "ID-H294-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB X."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 22.\n(1) Anggota Direksi dan pegawai Bank, anggota dan sekretaris\nDewan Pengawas tidak memberikan keterangan-keterangan yang\ndiperoleh\nkarena jabatannya, kecuali apabila diperlukan untuk\npelaksanaan tugasnya atau untuk memenuhi kewajibannya menurut\nUndang-undang Perbankan\n1967 dan Undang-undang Bank Sentral\n1968.\n(2) Anggota Direksi dan Pegawai Bank, anggota dan sekretaris Dewan\nPengawas yang bertentangan dengan ketentuan- ketentuan tersebut\npada ayat (1) memberikan keterangan yang diperolehnya karena\njabatannya, dihukum dengan hukuman penjara selama-lamanya 1 (satu)\ntahun\ndan/atau denda setinggi-tingginya Rp. 10.000,- (Sepuluh ribu\nrupiah).\n(3) Tindak pidana tersebut pada ayat (2) dianggap sebagai\nkejahatan.\nBAB XI.\nPEMBUBARAN."
+   }
+  },
+  {
+   "id": "ID-H294-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB XI."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 23.\n(1) Pembubaran Bank dan penunjukan likwidaturnya ditetapkan\ndengan Undang-undang.\n(2) Jika Bank dibubarkan, semua hutang dan kewajiban keuangan\nlainnya dibayar dari harta kekayaan Bank, sedangkan sesuatu sisa\nlebih\nmenjadi Milik Negara.\n(3) Pertanggungan jawab likwidasi oleh likwidatur dilakukan kepada\nPemerintah yang memberikan pembebasan tanggung jawab tentang\npekerjaan yang telah diselesaikan itu.\n(4) Jika setelah likwidasi masih terdapat kewajiban- kewajiban\nkeuangan lainnya, maka hal itu menjadi tanggung jawab\nPemerintah.\nBAB XII.\nKETENTUAN PERALIHAN."
+   }
+  },
+  {
+   "id": "ID-H294-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB XII."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 24.\n(1) Segala hak dan kewajiban serta kekayaan dan perlengkapan\nBank Dagang Negara sebagaimana dimaksud dalam Undang-undang No. 13\nPrp.\ntahun 1960, beralih menjadi hak dan kewajiban serta kekayaan\ndan perlengkapan dari Bank.\n(2) Pada saat Undang-undang ini mulai berlaku para anggota Direksi\nserta pegawai lainnya pada Bank Dagang Negara tetap melanjutkan\nperjuangannya sampai ada ketentuan lebih lanjut."
+   }
+  },
+  {
+   "id": "ID-H294-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB XII."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 25.\nUntuk menjamin kontinuitas dalam Pimpinan Bank, maka pada\npengangkutan pertama dari anggota Direksi dapat diadakan\npenyimpangan dari\nketentuan masa jabatan seperti tersebut dalam\npasal 8 ayat (2) huruf a."
+   }
+  },
+  {
+   "id": "ID-H294-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26,"
+   },
+   "chapter": {
+    "id": "BAB XII."
+   },
+   "heading": {
+    "id": ","
+   },
+   "text": {
+    "id": "Pasal 26,\nUntuk pertama kali tahun buku dimulai pada tanggal yang akan\nditentukan oleh Menteri Keuangan dan berakhir pada tanggal 31\nDesember\n1969.\nBAB XIII.\nKETENTUAN PENUTUP."
+   }
+  },
+  {
+   "id": "ID-H294-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB XIII."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 27.\nHal-hal yang belum cukup diatur dalam Undang-undang ini\nditetapkan dengan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H294-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB XIII."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 28.\nUndang-undang ini disebut \"Undang-undang Bank Dagang Negara\".\nSaat mulai berlakunya Undang-undang ini ditetapkan oleh Menteri\nKeuangan.\nAgar supaya setiap orang dapat mengetahuinya memerintahkan\npengundangan Undang-undang ini dengan penempatannya dalam\nLembaran-Negara\nRepublik Indonesia.\nDisahkan di Jakarta,\npada tanggal 18 Desember 1968.\nPresiden Republik Indonesia,\nSOEHARTO.\nJenderal T.N.I\nDiundangkan di Jakarta,\npada tanggal 18 Desember 1968.\nSekretaris Negara R.I.,\nALAMSJAH.\nMayor Jenderal T.N.I.\nPENJELASAN\nATAS\nUNDANG-UNDANG REPUBLIK INDONESIA\nNOMOR 18 TAHUN 1968\nTENTANG BANK DAGANG NEGARA\nA. PENJELASAN UMUM.\nDengan diundangkannya Undang-undang No. 13 tahun 1968 tentang\nBank Sentral dan Undang-undang No. 14 tahun 1967 tentang\nPokok-pokok\nPerbankan, maka dianggap perlu untuk menyesuaikan\nUndang-undang No. 13 Prp. tahun 1960 jo. Penetapan Presiden No. 21\ntahun 1965 tentang\nBank Dagang Negara dengan isi dan jiwa dari\nUndang-undang Perbankan 1967.\nBerhubung dengan itu maka dengan Undang-undang ini dicabut\nUndang-undang No. 13 Prp. tahun 1960 dan Penetapan Presiden No. 21\ntahun\n1965 dan ditetapkan landasan hukum baru bagi Bank Dagang\nNegara, yang telah disesuaikan dengan isi dan jiwa Undang-undang\nPerbankan\n1967.\nDengan demikian maka persoalan, status, struktur, nama, hak dan\nkewajiban, perlengkapan dan kekayaan tidak mengalami\nperubahan-perubahan.\nSegala sesuatu berjalan seperti biasa, kecuali landasan hukumnya\nyang isi dan jiwanya telah disesuaikan dengan Undang- undang Pokok\nPerbankan 1967.\nUntuk dapat turut serta dalam pengsuksesan rehabilitasi dan\npemulihan kapasitas produksi dalam sektor-sektor ekonomi sesuai\ndengan\nskala prioritas nasional yang ditetapkan dengan Ketetapan\nM.P.R.S. No. XXIII/MPRS/1966, maka untuk Bank Dagang Negara\ndisamping tugasnya\nsebagai bank umum ditetapkan prioritas yang\nharus diperhatikan dalam pengarahan penggunaan perkreditannya,\nyaitu dalam sektor pertambangan.\nB. PENJELASAN PASAL DEMI PASAL.\nPasal 1.\n(1) Cukup jelas.\n(2) Cukup jelas.\n(3) Dengan ketentuan dalam ayat (3) ini, maka selain berdasarkan\nhukum perdata Eropah dan hukum dagang Eropah, bank dapat melakukan\nperbuatan-perbuatan menurut hukum adat dengan\norang-orang/badan-badan yang takluk pada hukum adat serta\nmenjalankan hak-hak atas\nbenda-benda yang takluk pada hukum\nadat.\nPasal 2.\nCukup jelas.\nPasal 3.\n(1) Ditetapkannya Jakarta sebagai kantor pusat bank karena\nJakarta merupakan pusat dari pada kegiatan ekonomi Indonesia. Hal\nini tidak\nmenutup kemungkinan ditetapkannya kantor pusat ditempat\nlain disebabkan karena perkembangan ekonomi.\n(2) Sesuai dengan Undang-undang Perbankan 1967 pembukaan\nkantor-kantor cabang dan perwakilan di dalam dan di luar negeri\nharus dimintakan\nizin dari Menteri Keuangan dengan pertimbangan\ndari Bank Indonesia.\nPasal 4.\n(1) Sebagai badan hukum berdasarkan Undang-undang maka bank\nmempunyai modal yang merupakan kekayaan Negara yang dipisahkan.\nDengan\ndemikian, maka untuk selanjutnya bank dalam menjalankan\nusahanya terlepas dari Anggaran Pendapatan dan Belanja Negara.\n(2) Cukup jelas.\nPasal 5.\n(1) Bank perlu memupuk cadangan umum untuk memperbesar jaminan\nterhadap kewajibannya dalam melakukan tugas dan usahanya seperti\ntersebut\ndalam Bab IV.\n(2) Cukup jelas.\nPasal 6.\n(1) Cadangan-cadangan tujuan yang dimaksud dalam pasal ini ialah\nbagian laba, setelah dikurangi pajak yang disisihkan untuk tujuan\ntertentu, yaitu untuk membiayai milik tetap dan perlengkapan\n(investasi) dan/atau perluasan. Disamping itu bagian dari cadangan\ntujuan\nini dapat pula disediakan untuk pemberian kredit dalam\njangka panjang dan/atau penyertaan setelah mendapat persetujuan\ndari Bank\nIndonesia sesuai dengan ketentuan-ketentuan dalam\nUndang-undang Perbankan 1967.\n(2) Tiap-tiap cadangan atau pemupukan dana lain harus dengan jelas\nternyata dalam tata-buku bank, sehingga dengan demikian diperoleh\nsuatu gambaran mengenai keadaan kegiatan usaha bank yang\nsebenarnya.\nPasal 7.\nYang dimaksud dengan melakukan usaha bank umum ialah usaha bank\numum sebagaimana diatur dalam Undang-undang Perbankan 1967.\nDalam melaksanakan usahanya sebagai bank umum, bank dibebani\npula tugas untuk mengutamakan sektor pertambangan dengan ketentuan\nbahwa\npengutamaan tersebut harus bersifat:\n- fleksibel, dan\n- menurut kemampuan bank sendiri.\nOleh karena kemampuan satu bank saja tidak cukup untuk menampung\nkebutuhan likwiditas dari sektor pertambangan maka diperlukan\nadanya\nsuatu fleksibilitas sedemikian rupa, hingga perkreditan\ndalam sektor pertambangan dapat juga diberikan oleh bank-bank umum\nPemerintah\nlainnya. Disamping itu perlu pula dijelaskan bahwa\nperkreditan untuk sektor perhubungan darat, laut dan udara akan\nmendapat perhatian\ndari semua bank umum Pemerintah, termasuk bank\nini.\nPasal 8.\n(1) Untuk menjamin pelaksanaan tugas bank yang effisien dan\nefektip perlu ditentukan jumlah minimal dan maksimal dari\nanggota-anggota\npimpinan bank.\n(2) Sebelum memangku jabatannya, para angggota Direksi harus\nmengucapkan sumpah jabatan menurut peraturan yang berlaku. Untuk\ndapat\ndiangkat menjadi anggota Direksi, harus dipenuhi\nsyarat-syarat tertentu dibawah ini:\na. bertaqwa kepada Tuhan Yang Maha Esa;\nb. setia kepada Pancasila,\nc. berwibawa;\nd. jujur;\ne. cakap/ahli;\nf. adil;\ng. tidak terlibat, baik langsung maupun tidak langsung dalam\ngerakan kontra revolusi G.30.S./P.K.I. atau organisasi- organisasi\nterlarang lainnya.\nDalam mengangkat seseorang menjadi anggota Direksi harus\ndiperhatikan pula calon-calon yang diajukan oleh bank, serta jangan\nsampai\nia mempunyai kepentingan-kepentingan lain di luar bank yang\ndapat berlawanan dengan atau merugikan kepentingan bank.\nPasal 9.\n(1) Yang dimaksud dengan \"pengurusan\" dalam ayat ini adalah\nmanagement. Direksi dalam menentukan kebijaksanaan pimpinan bank\ntidak\nhanya memperhatikan kepentingan ekonomis perusahaan saja,\nakan tetapi juga pedoman-pedoman/petunjuk-petunjuk Bank Indonesia\ndalam\npelaksanaan kebijaksanaan ekonomi dan moneter Pemerintah. (2)\nCukup jelas.\n(3) Apabila mufakat tak tercapai dapat diambil keputusan atas\ndasar suara terbanyak. Jika suara sama banyaknya, maka keputusan\ndiserahkan\nkepada kebijaksanaan Direktur Utama.\n(4) Cukup jelas.\n(5) Cukup jelas.\n(6) Cukup jelas.\nPasal 10.\n(1) Cukup jelas.\n(2) Cukup jelas.\n(3) Cukup jelas.\n(4) Cukup jelas.\n(5) Cukup jelas.\nPasal 11.\n(1) Dalam hal terjadinya hubungan keluarga yang terlarang maka\npenetapan siapa diantara kedua anggota Direksi tersebut yang boleh\nmelanjutkan jabatannya didasarkan atas pertimbangan obyektif sesuai\ndengan kepentingan bank.\n(2) Cukup jelas.\n(3) Mengingat kedudukan Bank yang sangat vital dalam bidang\nekonomi dan keuangan, maka dalam pasal ini perlu ditentukan\nlarangan\njabatan rangkap, kecuali dengan persetujuan Menteri\nKeuangan. Dalam hal Direksi merangkap pekerjaan lain yang telah\ndisetujui oleh\nMenteri Keuangan, maka harus diusahakan jangan\nsampai jabatannya yang dirangkap tersebut adalah incompatible.\nPasal 12.\nCukup jelas.\nPasal 13.\nCukup jelas.\nPasal 14.\n(1) Cukup jelas.\n(2) Penunjukan seorang anggota Direksi atau pegawai Bank yang\ntelah mempunyai kuasa umum atau khusus untuk mewakili Direksi dalam\nhal-hal yang khusus tidak perlu dibuktikan kepada pihak ketiga\ndengan adanya surat kuasa. Lain halnya dengan seorang pegawai bank\nbukan pemegang kuasa dan seorang bukan pegawai bank atau badan lain\nyang hanya dapat mewakili Direksi dengan adanya suatu surat kuasa\nkhusus yang diberikan kepadanya oleh Direksi. Dalam hal tagihan dan\nperkara hukum antara bank dan anggota Direksi, bank diwakili\noleh\nseorang anggota Dewan Pengawas yang ditunjuk oleh Menteri\nKeuangan.\nPasal 15.\n(1) Cukup jelas.\n(2) Cukup jelas.\n(3) Sebelum memangku jabatannya, anggota Dewan Pengawas harus\nmengucapkan sumpah jabatan menurut peraturan yang berlaku. Untuk\ndapat\ndiangkat sebagai anggota Dewan Pengawas harus dipenuhi\nsyarat-syarat tertentu dibawah ini:\na. bertaqwa kepada Tuhan Yang Maha Esa;\nb. setia kepada Pancasila,\nc. berwibawa;\nd. jujur;\ne. cakap/ahli;\nf. adil;\ng. tidak terlibat, baik langsung maupun tidak langsung dalam\ngerakan kontra revolusi G.30.S./P.K.I. atau organisasi- organisasi\nterlarang lainnya. Untuk dapat diangkat sebagai anggota Dewan\nPengawas tidak perlu seorang pejabat dari sesuatu instansi\nresmi.\n(4) Cukup jelas.\n(5) Cukup jelas.\n(6) Cukup jelas.\nPasal 16.\n(1) Cukup jelas.\n(2) Cukup jelas.\n(3) Cukup jelas.\n(4) Sebagai suatu lembaga keuangan milik Negara yang terutama\nbekerja dengan uang dari masyarakat yang dititipkan kepadanya atas\ndasar kepercayaan maka bank wajib memelihara dan membina\nkepercayaan tersebut.\nBerhubung dengan itu Direksi dan Dewan Pengawas mempunyai tanggung\njawab yang berat atas segala usaha yang dilakukan oleh banknya.\nMereka tidak dapat dilepaskan/mengelakkan segala tanggung jawabnya\nsehingga pada hakekatnya Direksi dan Dewan Pengawas harus melakukan\ndengan sebaik-baiknya tugas-tugas yang dipercayakan kepada mereka\noleh Pemerintah dan masyarakat.\nOleh karena itu kepada Bank Indonesia dib n wewenang untuk\nmenetapkan kewajiban dari Direksi dan Dewan Pengawas Bank.\nPasal 17.\n(1) Cukup jelas.\n(2) Cukup jelas.\n(3) Cukup jelas.\n(4) Cukup jelas.\n(5) Cukup jelas.\nPasal 18.\n(1) Sebagaimana dalam pasal-pasal sebelumnya telah dijelaskan,\nmaka sesuai dengan ketentuan-ketentuan dalam Undang-undang Bank\nIndonesia\n1968 dan Undang-undang Perbankan 1967 pengawasan dari\nBank Indonesia terhadap Perbankan meliputi dua bidang, yaitu :\na. bidang ekonomi perusahaan, dan\nb. bidang pelaksanaan kebijaksanaan moneter Pemerintah.\nPasal 19.\n(1) Cukup jelas.\n(2) Cukup jelas.\n(3) Cukup jelas.\n(4) Cukup jelas.\n(5) Cukup jelas.\nPasal 20.\n(1) Cukup jelas.\n(2) Ketentuan ini dimaksudkan untuk menjamin kelancaran usaha\nbank.\n(3) Cukup jelas.\n(4) Yang perlu mendapat persetujuan dari Dewan Pengawas ialah\nperubahan-perubahan dalam anggaran perusahaan dan rencana kerja\nyang\nbersifat prinsipiil.\n(5) Cukup jelas.\nPasal 21.\n(1) Cukup jelas.\n(2) Cukup jelas.\n(3) Cukup jelas.\n(4) Pemerintah dalam mengesahkan neraca dan perhitungan laba-rugi\nyang disusun oleh Direksi menggunakan Direktorat Akuntan Negara\nuntuk memeriksa neraca dan perhitungan laba-rugi tersebut.\n(5) Cukup jelas. Sisa laba sebagaimana dimaksud dalam huruf e ayat\nini pada dasarnya merupakan pendapatan Negara maka harus masuk\ndalam Kas Negara.\n(6) Dalam penggunaan sisa laba tersebut Pemerintah juga\nmemperhatikan keperluan-keperluan di bidang sosial.\nPasal 22.\n(1) Ketentuan ini tidak berlaku bagi wewenang Menteri Keuangan\nserta hak dan kewajiban Bank Indonesia untuk meminta segala\nketerangan\nguna melaksanakan tugasnya menurut ketentuan-ketentuan\nyang tercantum, dalam Undang-undang Perbankan 1967 dan\nUndang-undang Bank\nIndonesia 1968.\n(2) Cukup jelas.\n(3) Cukup jelas.\nPasal 23.\n(1) Bank dibubarkan antara lain karena dianggap tidak dapat lagi\nmemenuhi tugasnya, atau dianggap tidak diperlukan lagi oleh\nPemerintah.\n(2) Cukup jelas.\n(3) Pembebasan tanggung-jawab dengan sendirinya diberikan oleh\nPemerintah setelah memeriksa dan mengesahkan daftar-daftar\npertanggungan-jawab\nvang bertalian dengan likwidasi itu dengan\nbantuan Direktorat Akuntan Negara.\n(4) Cukup jelas.\nPasal 24.\n(1) Dalam peralihan hak dan kewajiban serta kekayaan dan\nperlengkapan maka untuk permodalan bank, baik rekening-rekening\ncadangan\ndan bagian sisa laba Bank Dagang Negara berdasarkan\nUndang-undang No. 13 Prp. 1960 yang belum dibagikan dipindahkan ke\nrekening modal\nbank.\nSelama modal bank belum mencapai jumlah tersebut dalam Pasal 4,\nmaka bagian sisa laba bank yang menurut Pasal 21 ayat (6) huruf\na\ndiperuntukkan cadangan umum dimasukkan ke rekening modal. Agar\nmodal bank selekas-lekasnya terpenuhi, maka tiap tahun Pemerintah\nmenetapkan jumlah dari sisa laba termaksud Pasal 21 ayat (6) huruf\ne yang harus dipindahkan ke rekening modal.\n(2) Selambat-lambatnya dalam waktu 1 tahun harus telah terbentuk\nsusunan Direksi berdasarkan Undang-undang ini.\nPasal 25.\nCukup jelas.\nPasal 25.\nCukup jelas.\nPasal 27.\nCukup jelas.\nPasal 28.\nCukup jelas.\n--------------------------------\nCATATAN\nKutipan: LEMBARAN NEGARA DAN TAMBAHAN LEMBARAN NEGARA TAHUN 1968\nYANG TELAH DICETAK ULANG"
+   }
+  }
+ ]
+}

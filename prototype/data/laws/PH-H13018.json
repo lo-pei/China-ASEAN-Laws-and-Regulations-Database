@@ -1,0 +1,72 @@
+{
+ "id": "PH-H13018",
+ "title": {
+  "zh": null,
+  "en": "An Act Transferring the Office of Consulting Architect to the Bureau of Public Works, and Providing that the Duties Heretofore Performed By Him Shall Be Performed By Him in Future as An Officer of the Bureau of Public Works, and for Other",
+  "orig": "An Act Transferring the Office of Consulting Architect to the Bureau of Public Works, and Providing that the Duties Heretofore Performed By Him Shall Be Performed By Him in Future as An Officer of the Bureau of Public Works, and for Other"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1914-01-16",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2314",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 726,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1914/act_2314_1914.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02314_1914_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02314_1914_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13018-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The position of Consulting Architect, created under Act Numbered Fourteen hundred and\nninety-five, is hereby placed under the Bureau of Public Works, and all the duties heretofore devolving upon\nthe Consulting Architect, as provided by law, shall be performed by such architect as an officer of the Bureau\nof Public Works, and he shall work under the supervision of the Director of Public Works."
+   }
+  },
+  {
+   "id": "PH-H13018-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The Consulting Architect shall be appointed by the Governor-General, with the advice and\nconsent of the Philippine Commission and his salary shall be as fixed in the general appropriation Acts."
+   }
+  },
+  {
+   "id": "PH-H13018-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "All laws and parts of laws inconsistent with the conflicting Acts re-provision of this Act are\nhereby repealed.\nEnacted, January 16, 1914."
+   }
+  }
+ ]
+}

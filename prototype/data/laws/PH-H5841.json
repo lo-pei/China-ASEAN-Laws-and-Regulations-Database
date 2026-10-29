@@ -1,9 +1,13 @@
 {
  "id": "PH-H5841",
  "title": {
-  "zh": "设立制度",
+  "zh": "1992年农村法",
   "en": "Rural Act of 1992",
-  "orig": "An Act Providing for the Creation, Organization and Operation of Rural Banks, and for Other Purposes \"Rural Act of 1992\""
+  "orig": "An Act Providing for the Creation, Organization and Operation of Rural Banks, and for Other Purposes \"Rural Act of 1992\"",
+  "vi": "Đạo luật Nông thôn năm 1992",
+  "th": "พระราชบัญญัติชนบท ค.ศ. 1992",
+  "id": "Undang-Undang Pedesaan Tahun 1992",
+  "ms": "Akta Luar Bandar 1992"
  },
  "country": "PH",
  "countryName": "菲律宾",
@@ -27,14 +31,14 @@
  "structureMode": "ARTICLE",
  "structure": null,
  "articleCount": 32,
- "chars": 34435,
+ "chars": 34433,
  "source": {
   "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
   "url": "https://lawphil.net/statutes/repacts/ra1992/ra_7353_1992.html"
  },
  "sourceFile": null,
  "fetchedAt": "2026-10-06",
- "completenessNote": "全文，共 30 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1992/ra_7353_1992.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。 源文条号不连续（自第 1 条起，止于第 32 条，缺 11、21）：经逐条比对原始页面，该处原文没有对应的 “Section N.” 抬头行，系来源页自身的编号跳跃或条文以“续段”形式并入前条，非抽取遗漏，故未擅自补号。",
+ "completenessNote": "全文，共 30 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1992/ra_7353_1992.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。 源文条号不连续（自第 1 条起，止于第 32 条，缺 11、21）：经逐条比对原始页面，该处原文没有对应的 “Section N.” 抬头行，系来源页自身的编号跳跃或条文以“续段”形式并入前条，非抽取遗漏，故未擅自补号；已清除正文中的 2 个控制字符（C0/C1 区，法律文本中无合法用途，系 PDF 抽取/表单域残留）。",
  "textQuality": null,
  "ocrNoisySections": null,
  "pdfs": null,
@@ -450,7 +454,7 @@
     "en": "Section 32."
    },
    "text": {
-    "en": "Section 32. This Act shall take effect upon its approval.\nApproved,\nThis Act which is a consolidation of House Bill No. 28736 and Senate Bill No. 1554 was finally passed by the House of Representatives and the Senate on January 22, 1992.\n(Sgd.) ANACLETO D. BADOY, JR.\nSecretary of the Senate\r\n(Sgd.) CAMILO L. SABIO\nSecretary General\nHouse of Representatives\r\nApproved: APR 02, 1992\n(Sgd.) CORAZON C. AQUINO\nPresident of the Philippines"
+    "en": "Section 32. This Act shall take effect upon its approval.\nApproved,\nThis Act which is a consolidation of House Bill No. 28736 and Senate Bill No. 1554 was finally passed by the House of Representatives and the Senate on January 22, 1992.\n(Sgd.) ANACLETO D. BADOY, JR.\nSecretary of the Senate\n(Sgd.) CAMILO L. SABIO\nSecretary General\nHouse of Representatives\nApproved: APR 02, 1992\n(Sgd.) CORAZON C. AQUINO\nPresident of the Philippines"
    },
    "heading": {
     "en": "This Act shall take effect upon its approval."

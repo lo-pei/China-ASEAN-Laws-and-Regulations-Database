@@ -1,0 +1,92 @@
+{
+ "id": "PH-H21377",
+ "title": {
+  "zh": null,
+  "en": "Delineating the Jurisdiction of the Ministries of Natural Resources and Trade and Industry and Forest Products",
+  "orig": "Delineating the Jurisdiction of the Ministries of Natural Resources and Trade and Industry and Forest Products"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p159",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1985-03-22",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Executive Order No. 1013",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 5,
+ "chars": 1279,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/07_行政命令_EO/EO_01013_1985_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 5 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 EO_01013_1985_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H21377-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Sec 1"
+   },
+   "text": {
+    "en": "The Ministry of Natural Resources shall be responsible for the regulation and supervision of all forest\nproducts at the extraction/gathering stage up to the log pond and including saw mills."
+   }
+  },
+  {
+   "id": "PH-H21377-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Sec 2"
+   },
+   "text": {
+    "en": "The Ministry of Trade and Industry shall be responsible for the regulation and supervision of all forest\nproducts manufacturing and processing, including handling, transportation, storage, mechanical and chemical\nprocessing, after the forest products are taken out of the log ponds and saw mills."
+   }
+  },
+  {
+   "id": "PH-H21377-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Sec 3"
+   },
+   "text": {
+    "en": "Within thirty (30) days from the promulgation of this Order, each Ministry shall promulgate the\nnecessary regulations covering licensing of the various operations relative to forest products, including rattan,\nwithin their respective jurisdiction."
+   }
+  },
+  {
+   "id": "PH-H21377-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Sec 4"
+   },
+   "text": {
+    "en": "The provisions of Executive Order No. 709 and its implementing regulations relative to licensing of\nprocessing and manufacturing plants of forest products, including rattan, and all other laws, decrees, orders,\nproclamations, rules and regulations or parts thereof, which are inconsistent with any of the provisions of this\nExecutive Order are hereby repealed or modified accordingly."
+   }
+  },
+  {
+   "id": "PH-H21377-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Sec 5"
+   },
+   "text": {
+    "en": "This Executive Order shall take effect immediately.\nDONE in the City of Manila, this 22nd day of March, in the year of Our Lord, nineteen hundred and\neighty-five."
+   }
+  }
+ ]
+}

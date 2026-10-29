@@ -1,0 +1,62 @@
+{
+ "id": "PH-H22194",
+ "title": {
+  "zh": null,
+  "en": "Amending Section Three of Republic Act Numbered Four Thousand Five Hundred Sixty-Nine, as Amended By Republic Act Numbered Four Thousand Eight Hundred Eighty-Three and Further Amended By P.D. Numbered Nineteen",
+  "orig": "Amending Section Three of Republic Act Numbered Four Thousand Five Hundred Sixty-Nine, as Amended By Republic Act Numbered Four Thousand Eight Hundred Eighty-Three and Further Amended By P.D. Numbered Nineteen"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1975-09-04",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 795",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 517,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_00795_1975_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_00795_1975_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22194-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section 3 of Republic Act No. 4569 is hereby amended to read as follows:\n\"Sec. 3. No newspaper or periodical shall charge for the publication of said notices and announcements less\nthan ten pesos per column inch, nor more than eighty percent of their regular commercial display advertising"
+   }
+  },
+  {
+   "id": "PH-H22194-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "All laws, decrees, acts, rules and regulations inconsistent herewith are hereby repealed or\nmodified accordingly.\nDone in the City of Manila, this 4th day of September, in the year of Our Lord, nineteen hundred and\nseventy-five."
+   }
+  }
+ ]
+}

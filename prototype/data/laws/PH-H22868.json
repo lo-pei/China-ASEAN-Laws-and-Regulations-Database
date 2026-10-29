@@ -1,0 +1,62 @@
+{
+ "id": "PH-H22868",
+ "title": {
+  "zh": null,
+  "en": "Amending Section 24 (B) (1) of the National Internal Revenue Code, for the Imposition of a Special Rate of Withholding Tax for Rental, Lease or Charter Payments for Foreign Owned Vessels Under Charter or Leased to Philippine",
+  "orig": "Amending Section 24 (B) (1) of the National Internal Revenue Code, for the Imposition of a Special Rate of Withholding Tax for Rental, Lease or Charter Payments for Foreign Owned Vessels Under Charter or Leased to Philippine"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1978-06-11",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 1540",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 735,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_01540_1978_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_01540_1978_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22868-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section 24(b) (1) of the National Internal Revenue Code is hereby further amended by the\ninsertion of a subsection which read as follows:\nSubsection (b) (1) (a) Rentals, lease and charter fees payable to non-resident owned of vessels chartered by\nPhilippine nationals as the term is defined under section 3(c) of Presidential Decree No. 474, and which\ncharter or lease has been duly approved by the Maritime Industry Authority, shall be subject to 4.5% final tax,\nthe return and payment of which shall be in accordance with sections 53 and 54 of the National Internal\nRevenue Code."
+   }
+  },
+  {
+   "id": "PH-H22868-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Decree shall take effect immediately.\nDone in the City of Manila, this 11th day of June, in the year of Our Lord, Nineteen Hundred and\nSeventy-Eight."
+   }
+  }
+ ]
+}

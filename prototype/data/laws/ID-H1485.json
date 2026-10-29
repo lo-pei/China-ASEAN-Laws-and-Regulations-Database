@@ -1,0 +1,798 @@
+{
+ "id": "ID-H1485",
+ "title": {
+  "zh": "关于实施2000年第31号《工业品外观设计法》的政府条例",
+  "en": "Government Regulation on the Implementation of Law No. 31 of 2000 on Industrial Designs",
+  "id": "PELAKSANAAN UNDANG-UNDANG NOMOR 31 TAHUN 2000 TENTANG DESAIN INDUSTRI",
+  "orig": "PELAKSANAAN UNDANG-UNDANG NOMOR 31 TAHUN 2000 TENTANG DESAIN INDUSTRI",
+  "vi": "Quy định của Chính phủ về Việc Thực hiện Luật số 31 năm 2000 về Kiểu dáng Công nghiệp",
+  "th": "กฎระเบียบรัฐบาลว่าด้วยการดำเนินการตามกฎหมายฉบับที่ 31 ปี 2000 ว่าด้วยการออกแบบอุตสาหกรรม",
+  "ms": "Peraturan Pemerintah tentang Pelaksanaan Undang-Undang No. 31 Tahun 2000 tentang Reka Bentuk Industri"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02b",
+ "language": "id",
+ "level": "law",
+ "category": "05_刑事与知识产权",
+ "status": "active",
+ "promulgatedDate": "2005",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU31-2000",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 54,
+ "chars": 52382,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PP_No_1_th_2005.pdf&fl=P16802"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\05_刑事与知识产权\\印尼_文本_2005_PELAKSANAAN UNDANG-UNDANG NOMOR 31 TAHUN 2000 TENTANG DESAIN INDUSTRI.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 54 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H1485-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\n Dalam Peraturan Pemerintah ini yang dimaksud dengan :\n1. Desain Industri adalah suatu kreasi tentang bentuk, konfigurasi, atau\nkomposisi garis atau warna, atau garis dan warna, atau gabungan\ndaripadanya yang berbentuk tiga dimensi atau dua dimensi  yang\nmemberikan  kesan  estetis dan dapat diwujudkan dalam pola tiga\ndimensi atau dua dimensi serta dapat dipakai untuk menghasilkan suatu\nproduk, barang, komoditas industri, atau kerajinan tangan.\n2. Uraian Desain Industri adalah penjelasan mengenai Desain Industri itu\nsendiri yang mencakup pernyataan terhadap barang atau produk Desain\nIndustri serta keterangan hal-hal yang dimintakan perlindungan atau berupa\nketerangan kebaruan.\n3. Gambar adalah penyajian Desain Industri dalam bentuk gambar dua dimensi\natau tiga dimensi yang selengkap mungkin memperlihatkan penampakan dari\nseluruh bagian yang ingin dilindungi.\n4. Permohonan adalah permintaan pendaftaran Desain Industri yang diajukan\nkepada Direktorat Jenderal.\n5. Pemohon adalah pihak yang mengajukan Permohonan.\n6. Kuasa adalah Konsultan Hak Kekayaan Intelektual sebagaimana dimaksud\ndalam Undang-Undang Nomor 31 Tahun 2000 tentang Desain Industri.\n7. Pemeriksa adalah seseorang yang karena keahliannya ditugaskan oleh\nDirektur Jenderal untuk melakukan pemeriksaan terhadap Permohonan.\n8. Pendesain adalah seorang atau beberapa orang yang menghasilkan Desain\nIndustri.\n9. Pemegang Hak Desain Industri adalah Pendesain sebagai Pemilik Hak\nDesain Industri atau pihak yang menerima hak tersebut dari Pendesain atau\npihak lain yang menerima lebih lanjut hak dari pihak yang menerima hak\ntersebut.\n10. Hak Desain Industri adalah hak ekslusif yang diberikan oleh Negara\nRepulik Indonesia kepada Pendesain atas hasil kreasinya untuk selama\nwaktu tertentu melaksanakan sendiri, atau memberikan persetujuannya\nkepada pihak lain untuk melaksanakan hak tersebut.\n11. Tanggal Prioritas adalah tanggal pertama kali permohonan pendaftaran\ndimintakan hak prioritasnya  di Negara asalnya.\n12. Hari adalah hari kerja.\n13. Undang-Undang adalah Undang-Undang Nomor 31 Tahun 2000 tentang\nDesain Industri.\n14. Menteri adalah Menteri Kehakiman dan Hak Asasi Manusia.\n15. Direktorat Jenderal adalah Direktorat Jenderal Hak Kekayaan Intelektual."
+   }
+  },
+  {
+   "id": "ID-H1485-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\n(1) Hak Desain Industri diberikan untuk Desain yang baru.\n(2) Desain Industri dianggap baru apabila pada Tanggal Penerimaan\nPermohonan Desain Industri tersebut tidak sama dengan pengungkapan\nyang telah ada sebelumnya.\n(3) Pengungkapan sebelumnya, sebagaimana dimaksud pada ayat (2) adalah\npengungkapan Desain Industri yang sebelum:\na. Tanggal Penerimaan Permohonan; atau\nb. Tanggal Prioritas apabila Permohonan diajukan dengan Hak Prioritas,\n  telah diumumkan atau digunakan di Indonesia atau di luar Indonesia."
+   }
+  },
+  {
+   "id": "ID-H1485-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\n(1) Permohonan hanya dapat diajukan untuk:\na. 1 (satu) Desain Industri; atau\nb. beberapa Desain Industri yang merupakan satu kesatuan, atau yang\nmemiliki kelas yang sama.\n(2) Desain Industri sebagaimana dimaksud pada ayat (1) adalah suatu Desain\nIndustri yang memenuhi kriteria sebagaimana dimaksud dalam Pasal 1\nangka 1.\nBAB II\nPERMOHONAN DESAIN INDUSTRI\nBagian Pertama\nPengajuan Permohonan"
+   }
+  },
+  {
+   "id": "ID-H1485-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\n(1) Permohonan diajukan secara tertulis dalam bahasa Indonesia kepada\nDirektorat Jenderal dengan mengisi formulir rangkap 4 (empat).\n(2) Bentuk dan isi formulir Permohonan sebagaimana dimaksud pada ayat (1)\nadalah sebagaimana terlampir dalam Peraturan Pemerintah ini.\n(3) Pengisian formulir Permohonan sebagaimana dimaksud pada ayat (2) wajib\ndilakukan sesuai dengan ketentuan dalam Pasal 11 ayat (1), ayat (2), dan\nayat (3) Undang-Undang."
+   }
+  },
+  {
+   "id": "ID-H1485-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\n(1) Setiap Permohonan sebagaimana dimaksud dalam Pasal 4 harus dilampiri\ndengan:\na. contoh fisik atau gambar atau foto, dan uraian Desain Industri yang\ndapat menjelaskan Desain Industri yang dimohonkan pendaftarannya\nsebanyak 3 (tiga) rangkap;\nb. surat pernyataan dengan meterai yang cukup atau dilegalisasi Notaris\nyang menerangkan bahwa Desain Industri yang dimohonkan adalah\nmilik Pemohon atau Pendesain; dan\nc. tanda bukti pembayaran Permohonan.\n(2) Dalam hal Permohonan diajukan oleh bukan Pendesain, Permohonan\nsebagaimana dimaksud pada ayat (1) harus dilampiri dengan:\na. pernyataan yang dilengkapi dengan bukti yang cukup bahwa Pemohon\nberhak atas Desain Industri yang bersangkutan; dan\nb. surat kuasa khusus, apabila Permohonan diajukan melalui Kuasa."
+   }
+  },
+  {
+   "id": "ID-H1485-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\n(1) Gambar atau foto sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf a\nadalah sebagai berikut:\na. dibuat dalam kertas putih ukuran A4 dengan berat kertas antara 100\ngsm (seratus gram/m²) sampai dengan 200 gsm (dua ratus gram/m²);\nb. setiap gambar atau foto yang termuat dalam kertas A4 tersebut harus\ndapat diperbanyak dengan peralatan perbanyakan foto kopi atau\nscanner tanpa mengurangi kualitasnya;\nc. setiap gambar harus disertai keterangan gambar secukupnya dengan\nmencantumkan nomor urut gambar dan menjelaskan penampakan dari\nsetiap gambar yang dibuat sesuai dengan posisi dan sudut pandang\ngambar yang dibuat untuk menjelaskan pengungkapan Desain Industri\nyang dimintakan perlindungan;\nd. batas tepi bawah, kanan dan kiri dari penempatan gambar atau gambar\nfoto scan adalah 2 cm (dua centimeter) dan batas tepi atas adalah 2,5\ncm (dua setengah centimeter);\ne. setiap gambar diberi nomor urut gambar;\nf. gambar atau foto tersebut harus sesuai dengan contoh aslinya;\ng. gambar Desain Industri dapat dibuat dengan garis putus-putus, apabila\nbagian yang dibuat garis putus-putus tersebut tidak dimintakan\nperlindungan, sebaliknya pada bagian gambar yang dimintakan\nperlindungan dibuat dengan garis tebal tidak putus-putus; dan\nh. gambar Desain Industri yang diajukan dalam Permohonan dapat\ndilampiri disket yang berisi data gambar untuk mempermudah proses\npengumuman.\n(2) Uraian Desain Industri yang menggunakan bahasa asing harus\nditerjemahkan ke dalam bahasa Indonesia.\n(3) Uraian Desain Industri mencakup keterangan Desain Industri yang\ndimintakan perlindungan dan keterangan terhadap barang atau produk dari\nDesain Industri yang dimintakan perlindungan secara jelas.\n(4) Surat kuasa khusus sebagaimana dimaksud dalam Pasal 5 ayat (2) huruf b\nadalah surat kuasa khusus untuk mengajukan Permohonan dengan\nketentuan :\na. ditandatangani oleh pemberi dan penerima kuasa;\nb. bermeterai yang cukup atau dilegalisasi oleh Notaris;\nc. apabila surat kuasa menggunakan bahasa asing harus diterjemahkan ke\ndalam bahasa Indonesia."
+   }
+  },
+  {
+   "id": "ID-H1485-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\n(1) Dalam hal Permohonan diajukan secara bersama-sama oleh lebih dari satu\nPemohon, Permohonan tersebut ditandatangani oleh salah satu Pemohon\ndengan melampirkan persetujuan tertulis dari para Pemohon lain.\n(2) Permohonan sebagaimana dimaksud pada ayat (1) dilengkapi dengan\nsemua nama Pemohon dan menunjuk salah satu alamat Pemohon yang\nmenandatangani."
+   }
+  },
+  {
+   "id": "ID-H1485-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n(1) Pemohon yang bertempat tinggal di luar wilayah negara Republik Indonesia\nharus mengajukan Permohonan melalui Kuasa.\n(2) Pemohon sebagaimana dimaksud pada ayat (1) harus menyatakan dan\nmemilih domisili hukumnya di Indonesia."
+   }
+  },
+  {
+   "id": "ID-H1485-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n Dalam hal Permohonan diajukan dengan menggunakan Hak Prioritas,\nPermohonan tersebut diajukan sesuai dengan ketentuan Pasal 16 dan Pasal 17\nUndang-Undang.\nBagian Kedua\nPenerimaan Permohonan"
+   }
+  },
+  {
+   "id": "ID-H1485-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\nTanggal Penerimaan Permohonan adalah tanggal diterimanya Permohonan\ndengan memenuhi syarat:\na. mengisi formulir Permohonan dalam rangkap 4 (empat);\nb. melampirkan contoh fisik atau gambar atau foto dan uraian atau keterangan\ndari Desain Industri yang dimohonkan pendaftarannya dalam rangkap 3\n(tiga); dan\nc. membayar biaya Permohonan sebagaimana dimaksud dalam Pasal 11 ayat\n(1) Undang-Undang.\nBagian Ketiga\nPemeriksaan Administratif"
+   }
+  },
+  {
+   "id": "ID-H1485-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\n(1) Direktorat Jenderal melakukan pemeriksaan administratif sebagaimana\ndimaksud dalam Pasal 4 sampai dengan Pasal 9 terhadap Permohonan yang\nmeliputi pemeriksaan fisik, persyaratan formalitas dan kejelasan\npengungkapan Desain Industri dalam jangka waktu paling lama 30 (tiga\npuluh) hari  terhitung sejak Tanggal Penerimaan Permohonan.\n(2) Direktorat Jenderal memberitahukan secara tertulis kepada Pemohon atau\nKuasanya apabila terdapat kekurangan persyaratan dan kelengkapan\nPermohonan sebagaimana dimaksud dalam Pasal 4 sampai dengan Pasal 9\ndalam jangka waktu paling lama 30 (tiga puluh) hari terhitung sejak\nTanggal Penerimaan Permohonan.\n(3) Pemohon atau Kuasanya harus memenuhi kekurangan persyaratan\nsebagaimana dimaksud pada ayat (2) dalam jangka waktu paling lama 3\n(tiga) bulan terhitung sejak tanggal pengiriman surat pemberitahuan\nkekurangan tersebut.\n(4) Jangka waktu pemenuhan persyaratan sebagaimana dimaksud pada ayat (3)\ndapat diperpanjang paling lama 1 (satu) bulan atas permintaan Pemohon\natau Kuasanya.\n(5) Apabila ketentuan sebagaimana dimaksud pada ayat (3) dan ayat (4) tidak\ndipenuhi, Direktorat Jenderal memberitahukan secara tertulis kepada\nPemohon atau Kuasanya bahwa permohonannya dianggap ditarik kembali\ndalam jangka waktu paling lama 14 (empat belas) hari terhitung sejak\nberakhirnya ketentuan batas waktu pada ayat (3) dan ayat (4).\n(6) Dalam hal Permohonan dianggap ditarik kembali sebagaimana dimaksud\npada ayat (5), segala biaya yang telah dibayarkan kepada Direktorat\nJenderal tidak dapat ditarik kembali."
+   }
+  },
+  {
+   "id": "ID-H1485-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n(1) Dalam pemeriksaan administratif sebagaimana dimaksud dalam  Pasal 11\nayat (1), Direktorat Jenderal memberitahukan secara tertulis kepada\nPemohon atau Kuasanya apabila terdapat adanya ketidakjelasan\npengungkapan Desain Industri dalam uraian, gambar atau keterangan\ngambar termasuk yang berkaitan dengan kesatuan Permohonan dalam\njangka waktu paling lama 30 (tiga puluh) hari sejak Tanggal Penerimaan\nPermohonan.\n (2) Pemohon atau Kuasanya harus memperbaiki pengungkapan Desain Industri\ntersebut agar lebih jelas dan layak untuk diumumkan dalam jangka waktu\npaling lama 3 (tiga) bulan terhitung sejak tanggal pengiriman surat\npemberitahuan sebagaimana dimaksud pada ayat (1).\n (3) Jangka waktu perbaikan Permohonan sebagaimana dimaksud pada ayat (2)\ndapat diperpanjang paling lama 1 (satu) bulan atas permintaan Pemohon\natau Kuasanya.\n (4) Apabila ketentuan sebagaimana dimaksud pada ayat (2) dan ayat (3) tidak\ndipenuhi, berlaku ketentuan Pasal 11 ayat (5) dan (6).\n (5) Pada saat dilakukan pemeriksaan kejelasan, Pemeriksa juga melakukan\nklasifikasi terhadap setiap Permohonan sesuai dengan ketentuan yang\nberlaku."
+   }
+  },
+  {
+   "id": "ID-H1485-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\n(1) Apabila dalam Pemeriksaan administratif sebagaimana dimaksud dalam\npada Pasal 11 ayat (1) dijumpai lebih dari satu Permohonan, paling lama 30\n(tiga puluh) hari sejak Tanggal Penerimaan Permohonan, Direktorat\nJenderal harus memberitahu-kan secara tertulis kepada Pemohon atau\nKuasanya untuk memecah Permohonan tersebut.\n(2) Pemohon atau Kuasanya harus memecah Permohonan dalam jangka waktu\npaling lama 3 (tiga) bulan terhitung sejak tanggal pengiriman surat\npemberitahuan sebagaimana dimaksud pada ayat (1).\n(3) Jangka waktu untuk memecah Permohonan sebagaimana dimaksud pada\nayat (2) dapat diperpanjang paling lama 1 (satu) bulan atas permintaan\nPemohon atau Kuasanya.\n(4) Dalam hal Pemohon tidak melakukan pemecahan Permohonan sampai\nberakhirnya ketentuan batas waktu pada ayat (2) dan ayat (3), Pemeriksa\nhanya melakukan pemeriksaan dari Permohonan yang kelasnya paling\nrelevan terhadap Permohonan tersebut.\n(5) Setiap pecahan Permohonan sebagaimana dimaksud pada ayat (2),\ndikenakan biaya sesuai dengan ketentuan Undang-Undang."
+   }
+  },
+  {
+   "id": "ID-H1485-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\n (1) Pemohon atau Kuasanya diberi kesempatan untuk mengajukan keberatan atas\nkeputusan anggapan penarikan kembali sebagaimana dimaksud dalam Pasal 11\nayat (5) dan Pasal 12 ayat (4) dalam jangka waktu paling lama 30 (tiga puluh)\nhari terhitung sejak tanggal diterimanya pemberitahuan penarikan kembali\ntersebut.\n (2) Dalam hal Pemohon atau Kuasanya tidak mengajukan keberatan\nsebagaimana dimaksud pada ayat (1), keputusan penarikan kembali oleh\nDirektorat Jenderal sebagaimana dimaksud pada ayat (1) bersifat tetap.\n (3) Direktorat Jenderal harus memberikan keputusan untuk menerima atau\nmenolak keberatan sebagaimana dimaksud pada ayat (1) paling lama 30\n(tiga puluh) hari terhitung sejak tanggal diterimanya surat pengajuan\nkeberatan sebagaimana dimaksud pada ayat (1).\n (4) Apabila keberatan tersebut diterima, Direktorat Jenderal melakukan proses\nPermohonan selanjutnya."
+   }
+  },
+  {
+   "id": "ID-H1485-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\n (1) Terhadap keputusan penarikan kembali sebagaimana dimaksud dalam Pasal\n11 ayat (5) dan Pasal 12 ayat (4), Pemohon atau Kuasanya dapat\nmengajukan gugatan ke Pengadilan Niaga dengan tata cara sebagaimana\ndimaksud dalam Undang-Undang.\n (2) Direktorat Jenderal melakukan proses Permohonan selanjutnya, setelah\nmenerima salinan putusan yang telah mempunyai kekuatan hukum tetap\nyang menyatakan bahwa gugatan sebagaimana dimaksud pada ayat (1)\nditerima.\nBagian Keempat\nPengumuman"
+   }
+  },
+  {
+   "id": "ID-H1485-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\n(1) Direktur Jenderal mengumumkan Permohonan yang telah memenuhi\npersyaratan sebagaimana dimaksud dalam Pasal 4 sampai dengan Pasal 9\nPeraturan Pemerintah ini dan Pasal 4 Undang-Undang, dengan\nmenempatkannya dalam Berita Resmi Desain Industri atau Sarana Khusus\nagar mudah dan jelas diketahui oleh masyarakat.\n(2) Terhadap pengumuman Permohonan sebagaimana dimaksud pada ayat (1),\nsetiap pihak dapat mengajukan keberatan secara tertulis kepada Direktorat\nJenderal disertai alasan yang lengkap."
+   }
+  },
+  {
+   "id": "ID-H1485-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\n(1) Pengumuman Permohonan sebagaimana dimaksud dalam Pasal 16 ayat (1)\ndilaksanakan paling lama 3 (tiga) bulan terhitung sejak Tanggal Penerimaan\nPermohonan.\n(2) Dalam hal terdapat kekurangan persyaratan Permohonan yang harus\ndipenuhi dalam jangka waktu sebagaimana dimaksud dalam Pasal 11 ayat\n(3) dan ayat (4), Pasal 12 ayat (2) dan ayat (3), dan Pasal 13 ayat (2) dan\nayat (3), pengumuman Permohonan sebagaimana dimaksud dalam Pasal 16\nayat (1) dilaksanakan terhitung sejak tanggal pemenuhan persyaratan\ntersebut.\n(3) Dalam hal Pemohon atau Kuasanya mengajukan gugatan atas keputusan\npenolakan atau penarikan kembali Permohonan sebagaimana dimaksud\ndalam Pasal 15 ayat (1) dan Pasal 28 ayat (1), pengumuman Permohonan\nsebagaimana dimaksud dalam Pasal 16 ayat (1),  dilaksanakan terhitung\nsejak tanggal diterimanya salinan putusan pengadilan yang telah mempunyai\nkekuatan hukum tetap yang menyatakan bahwa gugatan tersebut diterima."
+   }
+  },
+  {
+   "id": "ID-H1485-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\nPengumuman Permohonan sebagaimana dimaksud dalam Pasal 16 ayat (1) memuat\n:\na. nama dan alamat lengkap Pemohon;\nb. nama dan alamat lengkap Kuasa, apabila Permohonan diajukan melalui\nKuasa;\nc. tanggal dan nomor penerimaan Permohonan;\nd. nama negara dan Tanggal Penerimaan Permohonan yang pertama kali,\napabila Permohonan diajukan dengan menggunakan Hak Prioritas;\ne. judul dan kelas Desain Industri; dan\nf. gambar atau foto Desain Industri."
+   }
+  },
+  {
+   "id": "ID-H1485-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\n(1) Pada saat pengajuan Permohonan, Pemohon atau Kuasanya dapat meminta\nsecara tertulis agar pengumuman Permohonan ditunda.\n(2) Penundaan pengumuman sebagaimana dimaksud pada ayat (1) tidak boleh\nmelebihi waktu 12 (dua belas) bulan terhitung sejak Tanggal Penerimaan\nPermohonan atau terhitung sejak Tanggal Prioritas.\nBagian Kelima\nPerubahan Permohonan"
+   }
+  },
+  {
+   "id": "ID-H1485-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\n(1) Pemohon atau Kuasanya dapat melakukan perbaikan atau perubahan\nterhadap Permohonan yang telah diajukan dengan ketentuan tidak\nmemperluas lingkup Desain Industri yang diajukan semula.\n(2) Perubahan Permohonan yang menjadi lebih dari satu Permohonan\nmempunyai Tanggal Penerimaan Permohonan yang sama dengan Tanggal\nPenerimaan Permohonan semula.\n(3) Direktorat Jenderal menolak perbaikan atau perubahan suatu Permohonan\napabila mengakibatkan Permohonan menjadi lebih luas lingkup Desain\nIndustrinya.\n(4) Perbaikan atau perubahan sebagaimana dimaksud pada ayat (1) dapat\ndilakukan oleh Pemohon atau Kuasanya sebelum Permohonannya\ndikabulkan oleh Direktorat Jenderal.\nBagian Keenam\nPenarikan Kembali Permohonan"
+   }
+  },
+  {
+   "id": "ID-H1485-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\n Penarikan kembali Permohonan harus diajukan secara tertulis kepada Direktorat\nJenderal oleh Pemohon atau Kuasanya, selama Permohonan tersebut belum\nmendapat keputusan."
+   }
+  },
+  {
+   "id": "ID-H1485-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\n Dalam hal Permohonan ditarik kembali sebagaimana dimaksud dalam Pasal 21,\nsegala biaya yang telah dibayarkan kepada Direktorat Jenderal tidak dapat\nditarik kembali.\nBAB III\nPEMERIKSAAN SUBSTANTIF, PENOLAKAN DAN\nPEMBERIAN SERTIFIKAT DESAIN INDUSTRI\nBagian Pertama\nPemeriksaan Substantif"
+   }
+  },
+  {
+   "id": "ID-H1485-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\n(1) Selama jangka waktu pengumuman sebagaimana dimaksud dalam Pasal 17\nayat (1), setiap pihak dapat mengajukan keberatan secara tertulis yang\nmencakup hal-hal yang bersifat substantif dengan membayar biaya sesuai\ndengan ketentuan Undang-Undang.\n(2) Pengajuan keberatan sebagaimana dimaksud pada ayat (1) dilakukan sesuai\ndengan ketentuan Pasal 26 dan Pasal 28 ayat (1) Undang-Undang."
+   }
+  },
+  {
+   "id": "ID-H1485-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 24\n (1) Dalam hal terdapat keberatan terhadap Permohonan sebagaimana dimaksud\ndalam Pasal 23, Pemeriksa melakukan pemeriksaan substantif yang\nmeliputi:\na. kebaruan Desain Industri;\nb. hal-hal yang bertentangan dengan peraturan perundang-undangan yang\nberlaku, ketertiban umum, agama atau kesusilaan;\nc. kesatuan Permohonan; dan\nd. hal-hal yang berkaitan dengan kejelasan pengungkapan Desain Industri.\n (2) Pemeriksaan sebagaimana dimaksud pada ayat (1) dilakukan terhadap:\na. keberatan yang dikemukakan oleh pihak yang mengajukan keberatan;\nb. pemeriksaan Permohonan yang disanggah serta sanggahannya; dan\nc. pembanding yang relevan.\n (3) Pemeriksaan sebagaimana dimaksud pada ayat (2) dilakukan oleh\nPemeriksa dengan:\na. meneliti dan membandingkan Permohonan dengan melakukan\npenelusuran terhadap pengungkapan Desain Industri yang telah ada\nsebelumnya untuk kelas-kelas yang terkait;\nb. meneliti dan membandingkan Permohonan terhadap keberatan yang\ndiajukan oleh pihak yang mengajukan keberatan; dan\nc. melaporkan hasil pemeriksaan kepada Direktorat Jenderal.\n (4) Laporan hasil pemeriksaan sebagaimana dimaksud pada ayat (2) huruf (c)\nmeliputi:\na. kebaruan Desain Industri;\nb. hal-hal yang bertentangan dengan peraturan perundang-undangan yang\nberlaku, ketertiban umum, agama atau kesusilaan;\nc. kesatuan Permohonan; dan\nd. kejelasan pengungkapan Desain Industri.\nBagian Kedua\nPenolakan"
+   }
+  },
+  {
+   "id": "ID-H1485-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\n (1) Selama proses Permohonan, Direktorat Jenderal dapat menolak\nPermohonan apabila dijumpai hal-hal yang bertentangan dengan peraturan\nperundang-undangan yang berlaku, ketertiban umum, agama, atau\nkesusilaan dan memberitahukannya secara tertulis kepada Pemohon atau\nKuasanya.\n (2) Terhadap penolakan Permohonan sebagaimana dimaksud pada ayat (1),\nPemohon dapat melakukan perbaikan sepanjang tidak memperluas lingkup\nDesain Industri dalam jangka waktu paling lama 30 (tiga puluh) hari\nterhitung sejak tanggal pengiriman surat pemberitahuan sebagaimana\ndimaksud pada ayat (1).\n(3) Direktorat Jenderal memberikan keputusan untuk menerima atau menolak\nperbaikan sebagaimana dimaksud pada ayat (2) dalam jangka waktu paling\nlama 30 (tiga puluh) hari terhitung sejak tanggal diterimanya perbaikan\ntersebut.\n(4) Apabila perbaikan sebagaimana dimaksud pada ayat (2) diterima,\nDirektorat Jenderal melanjutkan proses Permohonan."
+   }
+  },
+  {
+   "id": "ID-H1485-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\n(1) Direktorat Jenderal dapat menolak Permohonan yang bertentangan dengan\nPasal 2 Undang-Undang dan memberitahukannya secara tertulis kepada\nPemohon dan Kuasanya.\n(2) Terhadap penolakan Permohonan sebagaimana dimaksud pada ayat (1),\nPemohon dapat melakukan perbaikan sepanjang tidak memperluas lingkup\nDesain Industri dalam waktu paling lama 30 (tiga puluh) hari terhitung\nsejak tanggal pengiriman surat pemberitahuan sebagaimana dimaksud pada\nayat (1).\n(3) Direktorat Jenderal memberikan keputusan untuk menerima atau menolak\nperbaikan sebagaimana dimaksud pada ayat (2), paling lama 30 (tiga puluh)\nhari terhitung sejak tanggal diterimanya perbaikan tersebut.\n(4) Apabila perbaikan sebagaimana dimaksud pada ayat (2) diterima,\nDirektorat Jenderal melakukan proses Permohonan selanjutnya."
+   }
+  },
+  {
+   "id": "ID-H1485-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\n(1) Pemohon atau Kuasanya diberi kesempatan untuk mengajukan keberatan\natas keputusan penolakan sebagaimana dimaksud dalam Pasal 25 ayat (1)\ndan Pasal 26 ayat (1), dalam jangka waktu paling lama 30 (tiga puluh) hari\nterhitung sejak tanggal diterimanya surat penolakan.\n(2) Dalam hal Pemohon atau Kuasanya tidak mengajukan keberatan\nsebagaimana dimaksud pada ayat (1), keputusan penolakan oleh Direktorat\nJenderal sebagaimana dimaksud pada ayat (1) bersifat tetap.\n(3) Direktorat Jenderal harus memberikan keputusan untuk menerima atau\nmenolak keberatan sebagaimana dimaksud pada ayat (1) dalam jangka\nwaktu paling lama 30 (tiga puluh) hari terhitung sejak tanggal diterimanya\nsurat pengajuan keberatan tersebut.\n(4) Apabila keberatan tersebut diterima, Direktorat Jenderal melakukan proses\nPermohonan selanjutnya."
+   }
+  },
+  {
+   "id": "ID-H1485-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\n(1) Terhadap keputusan penolakan sebagaimana dimaksud dalam Pasal 25 ayat\n(1) dan Pasal 26 ayat (1), Pemohon atau Kuasanya dapat mengajukan\ngugatan ke Pengadilan Niaga dengan tata cara sebagaimana dimaksud\ndalam Undang-Undang.\n(2) Direktorat Jenderal melakukan proses Permohonan selanjutnya, setelah\nmenerima salinan putusan yang telah mempunyai kekuatan hukum tetap\nyang menyatakan bahwa gugatan sebagaimana dimaksud pada ayat (1)\nditerima.\nBagian Ketiga\nPemberian Sertifikat Desain Industri"
+   }
+  },
+  {
+   "id": "ID-H1485-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\n(1) Dalam hal tidak terdapat keberatan terhadap Permohonan hingga\nberakhirnya jangka waktu pengajuan keberatan sebagaimana dimaksud\ndalam Pasal 23 ayat (1), Direktorat Jenderal menerbitkan dan memberikan\nSertifikat Desain Industri paling lama 30 (tiga puluh) hari sejak tanggal\nberakhirnya jangka waktu tersebut.\n(2) Sertifikat Desain Industri mulai berlaku terhitung sejak Tanggal\nPenerimaan Permohonan.\n(3) Sertifikat Desain Industri sebagaimana dimaksud pada ayat (2) memuat :\na. Nomor Permohonan;\nb. Judul Desain Industri;\nc. Kelas Desain Industri;\nd. Nama, kewarganegaraan dan alamat Pemegang Hak Desain Industri;\ne. Tanggal Penerimaan Permohonan;\nf. Nomor Pendaftaran; dan\ng. Tanda tangan pejabat yang berwenang."
+   }
+  },
+  {
+   "id": "ID-H1485-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\n Pihak yang memerlukan salinan Sertifikat Desain Industri dapat memintanya\nkepada Direktorat Jenderal dengan membayar biaya sebagaimana diatur dalam\nUndang-Undang."
+   }
+  },
+  {
+   "id": "ID-H1485-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\n Direktur Jenderal mencatat Desain Industri yang telah diterbitkan dan diberikan\nSertifikat Desain Industri dalam Daftar Umum Desain Industri dan\nmengumumkannya dalam Berita Resmi Desain Industri.\nBAB IV\nPENCATATAN PERUBAHAN NAMA DAN/ATAU ALAMAT\nPEMEGANG HAK DESAIN INDUSTRI DAN PENGALIHAN\nHAK DESAIN INDUSTRI\nBagian Pertama\nPermohonan Pencatatan Perubahan Nama dan/atau\nAlamat Pemegang Hak Desain Industri"
+   }
+  },
+  {
+   "id": "ID-H1485-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 32\n(1) Permohonan pencatatan perubahan nama dan/atau alamat Pemegang Hak\nDesain Industri diajukan secara tertulis rangkap 2 (dua) dalam bahasa\nIndonesia kepada Direktorat Jenderal.\n(2) Permohonan pencatatan perubahan nama dan/atau alamat Pemegang Hak\nDesain Industri sebagaimana dimaksud pada ayat (1) diajukan dengan\nmenyebutkan :\na. nomor pendaftaran Desain Industri terdaftar yang dimohonkan\npencatatan perubahan nama dan/atau alamat Pemegang Hak Desain\nIndustri;\nb.  nama, kewarganegaraan dan alamat Pemegang Hak Desain Industri\nyang lama dan yang baru;\nc.  nama badan hukum dan negara tempat badan hukum didirikan apabila\nDesain Industri yang dimohonkan pencatatan perubahan nama dan/atau\nalamat Pemegang Haknya adalah badan hukum;\nd. tempat tinggal Kuasa yang dipilih sebagai alamat di Indonesia jika\nPemegang Hak Desain Industri yang dimohonkan pencatatan perubahan\nnama dan/atau alamat bertempat tinggal atau berkedudukan di luar\nwilayah Negara Republik Indonesia."
+   }
+  },
+  {
+   "id": "ID-H1485-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 33\nSetiap permohonan pencatatan perubahan nama dan/atau alamat Pemegang Hak\nDesain Industri harus dilengkapi dengan:\na. bukti dokumen perubahan nama dan/atau alamat Pemegang Hak Desain\nIndustri;\nb. surat kuasa khusus bagi permohonan pencatatan perubahan nama dan/atau\nalamat Pemegang Hak Desain Industri, apabila diajukan melalui Kuasa; dan\nc. melampirkan bukti pembayaran permohonan pencatatan perubahan nama\ndan/atau alamat Pemegang Hak Desain Industri."
+   }
+  },
+  {
+   "id": "ID-H1485-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 34\nBukti dokumen perubahan nama dan/atau alamat Pemegang Hak Desain\nIndustri sebagaimana dimaksud dalam Pasal 33 Huruf a yang menggunakan\nbahasa asing, harus disertai terjemahannya dalam bahasa Indonesia."
+   }
+  },
+  {
+   "id": "ID-H1485-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 35\nSurat kuasa khusus sebagaimana dimaksud dalam Pasal 33 huruf b adalah surat\nkuasa untuk mengajukan permohonan perubahan nama dan/atau alamat\nPemegang Hak Desain Industri dengan ketentuan :\na. menyebutkan nomor pendaftaran Desain Industri yang dimohonkan\nperubahan nama dan/atau alamat Pemegang Hak Desain Industri;\nb. ditandatangani oleh pemberi dan penerima Kuasa;\nc. bermeterai yang cukup atau dilegalisasi oleh Notaris; dan\nd. apabila surat kuasa menggunakan bahasa asing harus diterjemah-\ne. kan ke dalam bahasa Indonesia."
+   }
+  },
+  {
+   "id": "ID-H1485-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 36\n(1) Direktorat Jenderal mencatat perubahan nama dan/atau alamat Pemegang\nHak Desain Industri dalam Daftar Umum Desain Industri dan\nmengumumkannya dalam Berita Resmi Desain Industri dalam jangka waktu\npaling lama 30 (tiga puluh) hari terhitung sejak tanggal diterimanya\npermohonan sebagaimana dimaksud dalam Pasal 32 ayat (1) secara\nlengkap.\n(2) Direktorat Jenderal memberitahukan secara tertulis pencatatan tersebut\nkepada Pemohon atau Kuasanya dalam jangka waktu paling lama 14 (hari)\nterhitung sejak tanggal pencatatan sebagaimana dimaksud pada ayat (1).\nBagian Kedua\nPermohonan Pencatatan Pengalihan Hak Desain Industri"
+   }
+  },
+  {
+   "id": "ID-H1485-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 37\n(1) Permohonan pencatatan pengalihan hak Desain Industri diajukan secara\ntertulis rangkap 2 (dua) dalam bahasa Indonesia kepada Direktorat\nJenderal.\n(2) Permohonan pencatatan pengalihan hak Desain Industri sebagaimana dimaksud\npada ayat (1) diajukan dengan menyebutkan:\na. nomor pendaftaran Desain Industri yang dialihkan haknya;\nb. nama, kewarganegaraan dan alamat lengkap Pemegang Hak Desain\nIndustri dan penerima hak  yang dimohonkan;\nc. nama badan hukum dan negara dimana tempat badan hukum didirikan,\napabila Pemegang Hak Desain Industri atau penerima hak adalah badan\nhukum; dan\nd. nama dan alamat lengkap Kuasa yang dipilih sebagai alamat di\nIndonesia, jika Permohonan pencatatan pengalihan hak diajukan oleh\nPemegang Hak Desain Industri atau penerima hak yang bertempat\ntinggal atau berkedudukan di luar wilayah negara Republik Indonesia."
+   }
+  },
+  {
+   "id": "ID-H1485-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 38\nSetiap permohonan pencatatan pengalihan hak Desain Industri  wajib dilengkapi\ndengan :\na. bukti dokumen pengalihan hak yang mencakup pengalihan hak sebagian\natau seluruhnya;\nb. bukti pemilikan Desain Industri yang dialihkan haknya;\nc. surat kuasa khusus apabila Permohonan pengalihan hak diajukan melalui\nKuasa; dan\nf. melampirkan bukti pembayaran Permohonan pencatatan pengalihan hak."
+   }
+  },
+  {
+   "id": "ID-H1485-A39",
+   "no": 39,
+   "noLabel": {
+    "id": "Pasal 39"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 39\n Bukti dokumen pengalihan hak sebagaimana dimaksud dalam Pasal 38 huruf a\nyang menggunakan bahasa asing, harus disertai terjemahannya dalam bahasa\nIndonesia."
+   }
+  },
+  {
+   "id": "ID-H1485-A40",
+   "no": 40,
+   "noLabel": {
+    "id": "Pasal 40"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 40\n Surat kuasa khusus sebagaimana dimaksud dalam Pasal 38 Huruf c adalah surat\nkuasa khusus untuk mengajukan permohonan pencatatan pengalihan Hak\nDesain Industri dengan ketentuan :\na. menyebutkan nomor pendaftaran Desain Industri yang dimohonkan\npencatatan pengalihan haknya;\nb. ditandatangani oleh pemberi dan penerima Kuasa;\nc. bermeterai yang cukup atau dilegalisasi oleh Notaris; dan\nd. apabila surat kuasa menggunakan bahasa asing harus diterjemahkan ke\ndalam bahasa Indonesia."
+   }
+  },
+  {
+   "id": "ID-H1485-A41",
+   "no": 41,
+   "noLabel": {
+    "id": "Pasal 41"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 41\n(1) Direktorat Jenderal mencatat pengalihan Hak Desain Industri dalam Daftar\nUmum Desain Industri dan mengumumkannya dalam Berita Resmi Desain\nIndustri dalam jangka waktu paling lama 30 (tiga puluh) hari terhitung\nsejak tanggal diterimanya permohonan sebagaimana dimaksud dalam Pasal\n37 ayat (1) secara lengkap.\n(2) Direktorat Jenderal memberitahukan secara tertulis pencatatan tersebut\nkepada Pemohon atau Kuasanya dalam jangka waktu paling lama 14\n(empat belas) hari terhitung sejak tanggal pencatatan sebagaimana\ndimaksud pada ayat (1)."
+   }
+  },
+  {
+   "id": "ID-H1485-A42",
+   "no": 42,
+   "noLabel": {
+    "id": "Pasal 42"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 42\n Pengalihan Desain Industri yang tidak dicatatkan dalam Daftar Umum Desain\nIndustri tidak berakibat hukum pada pihak ketiga.\nBAB V\nPEMBATALAN PENDAFTARAN DESAIN INDUSTRI"
+   }
+  },
+  {
+   "id": "ID-H1485-A43",
+   "no": 43,
+   "noLabel": {
+    "id": "Pasal 43"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 43\nDesain Industri yang telah terdaftar di Direktorat Jenderal dapat dibatalkan:\na. atas Permohonan Pemegang Hak Desain Industri yang diajukan kepada\nDirektorat Jenderal; atau\nb. berdasarkan gugatan pembatalan Pendaftaran Desain Industri oleh pihak\nyang berkepentingan dan telah memperoleh putusan Pengadilan yang telah\nmempunyai kekuatan hukum tetap yang menyatakan gugatan tersebut\nditerima."
+   }
+  },
+  {
+   "id": "ID-H1485-A44",
+   "no": 44,
+   "noLabel": {
+    "id": "Pasal 44"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 44\n(1) Permohonan pembatalan pendaftaran Desain Industri oleh Pemegang Hak\nDesain Industri diajukan secara tertulis rangkap 2 (dua) dalam bahasa\nIndonesia kepada Direktorat Jenderal.\n (2) Permohonan pembatalan pendaftaran Desain Industri diajukan dengan\nmenyebutkan:\na. nomor pendaftaran Desain Industri yang dimohonkan pembatalannya;\ndan\nb. alasan pembatalan."
+   }
+  },
+  {
+   "id": "ID-H1485-A45",
+   "no": 45,
+   "noLabel": {
+    "id": "Pasal 45"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 45\nSetiap permohonan pembatalan pendaftaran Desain Industri sebagaimana\ndimaksud dalam Pasal 44 harus dilengkapi :\na. Sertifikat Desain Industri;\nb. surat persetujuan tertulis tidak keberatan dari Penerima Lisensi Hak Desain\nIndustri yang tercatat dalam Daftar Umum Desain Industri;\nc. surat kuasa khusus bagi permohonan pembatalan pendaftaran Desain\nIndustri, apabila diajukan oleh Kuasanya; dan\nd. tanda bukti pembayaran permohonan pembatalan pendaftaran Desain\nIndustri."
+   }
+  },
+  {
+   "id": "ID-H1485-A46",
+   "no": 46,
+   "noLabel": {
+    "id": "Pasal 46"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 46\nSurat kuasa khusus sebagaimana dimaksud dalam Pasal 45 huruf c adalah surat\nkuasa untuk mengajukan permohonan pembatalan pendaftaran Desain Industri\ndengan ketentuan :\na. menyebutkan nomor pendaftaran Desain Industri yang dimohonkan\npembatalannya;\nb. ditandatangani oleh pemberi dan penerima kuasa;\nc. bermeterai yang cukup atau dilegalisasi oleh Notaris; dan\nd. apabila surat kuasa menggunakan bahasa asing harus diterjemah-kan ke\ndalam bahasa Indonesia."
+   }
+  },
+  {
+   "id": "ID-H1485-A47",
+   "no": 47,
+   "noLabel": {
+    "id": "Pasal 47"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 47\n(1) Direktorat Jenderal memberikan keputusan pembatalan Hak Desain\nIndustri dalam jangka waktu paling lama 30 (tiga puluh) hari sejak tanggal\nditerimanya permohonan pembatalan Desain Industri sebagaimana\ndimaksud dalam Pasal 44  ayat (1) secara lengkap.\n(2) Direktorat Jenderal mencatat pembatalan Desain Industri dalam Daftar\nUmum Desain Industri dan mengumumkannya dalam Berita Resmi Desain\nIndustri dalam jangka waktu paling lama 30 (tiga puluh) hari terhitung\nsejak tanggal keputusan Direktorat Jenderal sebagaimana dimaksud pada\nayat (1).\n(3) Direktorat Jenderal memberitahukan secara tertulis keputusan\nsebagaimana dimaksud pada ayat (1) dalam jangka waktu paling lama 14\n(empat belas) hari terhitung sejak pemberian keputusan tersebut kepada :\na. Pemegang Hak Desain Industri; dan\nb. Penerima lisensi jika telah dilisensikan sesuai dengan catatan dalam\nDaftar Umum Desain Industri."
+   }
+  },
+  {
+   "id": "ID-H1485-A48",
+   "no": 48,
+   "noLabel": {
+    "id": "Pasal 48"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 48\n(1) Terhadap gugatan pembatalan pendaftaran Desain Industri oleh pihak yang\nberkepentingan sebagaimana dimaksud dalam Pasal 43 huruf b, Direktorat\nJenderal mencatat pembatalan pendaftaran Desain Industri dalam Daftar\nUmum Desain Industri dan mengumumkannya dalam Berita Resmi Desain\nIndustri, dalam jangka waktu paling lama 30 (tiga puluh) hari terhitung\nsejak diterimanya salinan putusan Pengadilan yang telah mempunyai\nkekuatan hukum tetap.\n(2) Direktorat Jenderal memberitahukan secara tertulis pencatatan tersebut\nkepada Pemegang Hak Desain Industri dan pihak yang berkepentingan\nsebagaimana dimaksud pada ayat (1) dalam jangka waktu paling lama 14\n(empat belas) hari terhitung sejak tanggal pencatatan sebagaimana\ndimaksud pada ayat (1)."
+   }
+  },
+  {
+   "id": "ID-H1485-A49",
+   "no": 49,
+   "noLabel": {
+    "id": "Pasal 49"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 49\n Pembatalan pendaftaran Desain Industri menghapuskan segala akibat hukum\nyang berkaitan dengan Hak Desain Industri dan hak-hak lain yang berasal dari\nDesain Industri tersebut.\nBAB VI\nDAFTAR UMUM DAN BERITA RESMI DESAIN INDUSTRI"
+   }
+  },
+  {
+   "id": "ID-H1485-A50",
+   "no": 50,
+   "noLabel": {
+    "id": "Pasal 50"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 50\nDaftar Umum Desain Industri adalah penghimpunan pendaftaran yang dilakukan\ndalam bidang  Desain Industri yang memuat :\na. nama, kewarganegaraan dan alamat Pemegang Hak Desain Industri;\nb. nama, kewarganegaraan dan alamat Pendesain;\nc. nama, kewarganegaraan dan alamat Kuasa;\nd. judul;\ne. kelas;\nf. gambar atau foto Desain Industri;\ng. uraian atau keterangan Desain Industri yang dimohonkan;\nh. Tanggal Penerimaan Permohonan;\ni. nama negara dan Tanggal Prioritas;\nj. nomor pendaftaran; dan\nk. kolom-kolom untuk pencatatan perubahan nama dan/atau alamat,\npengalihan hak, pembatalan pendaftaran, perjanjian lisensi dan keterangan\nlain jika diperlukan."
+   }
+  },
+  {
+   "id": "ID-H1485-A51",
+   "no": 51,
+   "noLabel": {
+    "id": "Pasal 51"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 51\n(1) Berita Resmi Desain Industri adalah sarana pemberitahuan kepada\nmasyarakat dalam bentuk lembaran resmi yang diterbitkan secara berkala\noleh Direktorat Jenderal yang memuat hal-hal yang diwajibkan Undang-\nUndang.\n(2) Berita Resmi Desain Industri memuat antara lain:\na. nama, kewarganegaraan dan alamat Pemegang Hak Desain Industri\natau Pemohon;\nb. nama, kewarganegaraan dan alamat Pendesain;\nc. nama, kewarganegaraan dan alamat Kuasa;\nd. judul;\ne. kelas;\nf. gambar atau foto Desain Industri;\ng. uraian atau keterangan Desain Industri;\nh. Tanggal Penerimaan Permohonan;\ni. nama negara dan Tanggal Prioritas;\nj. nomor pendaftaran (apabila Desain Industri telah terdaftar); dan\nk. keterangan mengenai pencatatan perubahan nama dan/atau alamat,\npengalihan hak, pembatalan pendaftaran, perjanjian lisensi dan\nketerangan lain jika diperlukan."
+   }
+  },
+  {
+   "id": "ID-H1485-A52",
+   "no": 52,
+   "noLabel": {
+    "id": "Pasal 52"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 52\n Direktorat Jenderal mencatat setiap Keputusan Direktorat Jenderal dan Putusan\nPengadilan yang telah memperoleh kekuatan hukum tetap dalam Daftar Umum\nDesain Industri dan mengumumkannya dalam Berita Resmi Desain Industri.\nBAB VII\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H1485-A53",
+   "no": 53,
+   "noLabel": {
+    "id": "Pasal 53"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 53\n(1) Desain Industri yang telah diberikan Sertifikat Desain Industri sebelum\nberlakunya Peraturan Pemerintah ini berlaku, dinyatakan tetap berlaku\nsepanjang tidak bertentangan dengan Peraturan Pemerintah ini.\n(1) Permohonan yang diajukan sebelum berlakunya Peraturan Pemerintah ini,\ndiproses sesuai ketentuan dalam Peraturan Pemerintah ini.\nBAB VIII\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H1485-A54",
+   "no": 54,
+   "noLabel": {
+    "id": "Pasal 54"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 54\n Peraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\n Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan\nPemerintah ini dengan penempatannya dalam Lembaran Negara Republik\nIndonesia.\nDitetapkan di Jakarta\npada tanggal  4 Januari 2005\nPRESIDEN REPUBLIK INDONESIA,\nttd.\nDr. H. SUSILO BAMBANG YUDHOYONO\nDiundangkan di Jakarta\npada tanggal 4 Januari 2005\nMENTERI HUKUM DAN HAK ASASI MANUSIA,\nttd.\nDr. HAMID AWALUDIN\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2005 NOMOR 1\nPENJELASAN\nATAS\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nNOMOR   1    TAHUN 2005\nTENTANG\nPELAKSANAAN UNDANG-UNDANG NOMOR 31 TAHUN 2000\nTENTANG DESAIN INDUSTRI\nUMUM\nDalam rangka memberikan perlindungan hukum terhadap para Pendesain sebagai pencipta Desain\nIndustri agar merangsang aktivitas dan kreatifitas mereka untuk terus menerus menciptakan desain\nbaru, maka diundangkanlah Undang-Undang Nomor 31 Tahun 2000 tentang Desain Industri.\nPerlindungan hukum tersebut diberikan melalui sistem pendaftaran atau dikenal dengan sistem\nkonstitutif yang merupakan sistem yang dianut dalam Undang-Undang Desain Industri. Artinya,\nHak Desain Industri yaitu hak eksklusif untuk melaksanakan sendiri suatu Desain Industri atau\nmemberikan persetujuan kepada pihak lain untuk melaksanakan hak tersebut akan diberikan oleh\nnegara, apabila Pemegang Desain Industri tersebut telah mengajukan permintaan pendaftaran.\nPasal 11 ayat (7) Undang-Undang tentang Desain Industri menentukan bahwa pengaturan lebih\nlanjut mengenai tata cara Permohonan (permintaan pendaftaran Desain Industri) ditetapkan\ndengan Peraturan Pemerintah. Demikian pula, guna melaksanakan Undang-Undang Desain\nIndustri tersebut, perlu diatur pula ketentuan yang berkaitan dengan permintaan pendaftaran\nDesain Industri, yaitu  pencatatan perubahan nama dan/atau alamat Pemegang Hak Desain\nIndustri, pencatatan pengalihan Hak Desain Industri, dan pembatalan pendaftaran Desain Industri\nbaik atas permohonan Pemegang Hak Desain Industri maupun berdasarkan putusan Pengadilan.\nBerdasarkan pertimbangan tersebut, maka disusunlah Peraturan Pemerintah ini yang dimaksudkan\nuntuk mengatur secara menyeluruh ketentuan mengenai pelaksanaan Undang-Undang Nomor 31\nTahun 2000 tentang Desain Industri.\nDalam Peraturan Pemerintah ini, proses pendaftaran Desain Industri atau yang didefinisikan dalam\nUndang-undang sebagai “Permohonan”, dilakukan melalui beberapa tahapan yang meliputi\npenerimaan Permohonan,  pemeriksaan administratif terhadap persyaratan Permohonan,\npengumuman, pemeriksaan subtantif dalam hal terdapat keberatan atas suatu Permohonan oleh\npihak ketiga, pemberian Sertifikat Desain Industri, pencatatan dalam Daftar Umum Desain\nIndustri dan pengumuman dalam Berita Resmi Desain Industri.\nSuatu Permohonan harus memenuhi persyaratan minimum untuk mendapatkan Tanggal\nPenerimaan Permohonan guna dapat diproses selanjutnya, disamping harus memenuhi persyaratan\npermohonan lainnya. Selanjutnya, terhadap Permohonan tersebut dilakukan pemeriksaan\nadaministratif yang bertujuan untuk menentukan bahwa Permohonan tersebut telah memenuhi\nseluruh persyaratan dan layak untuk diumumkan. Pemeriksaan adminstratif tersebut meliputi\npemeriksaan fisik, pemeriksaan formalitas dan pemeriksaan terhadap kejelasan pengungkapan\nDesain Industri.\nSetelah memenuhi seluruh persyaratan, maka Permohonan tersebut diumumkan kepada\nmasyarakat melalui Berita Resmi Desain Industri atau sarana khusus lainnya.  Pengumuman\nPermohonan bertujuan untuk memberikan kesempatan kepada masyarakat untuk mengajukan\nkeberatan atas pengajuan Permohonan suatu Desain Industri dengan mendasarkan pada alasan\nsubstantif, yaitu bahwa Permohonan  tersebut bertentangan dengan Pasal 2 dan/atau Pasal 4\nUndang-undang. Pasal 2 Undang-undang menentukan bahwa Hak Desain Industri diberikan untuk\nDesain yang baru, sedangkan Pasal 4 Undang-Undang menentukan bahwa Hak Desain Industri\ntidak dapat diberikan apabila Desain Industri bertentangan dengan peraturan perundang-undangan\nyang berlaku, ketertiban umum, agama dan kesusilaan. Terhadap keberatan masyarakat tersebut,\nPemeriksa melakukan pemeriksaan substantif. Apabila Permohonan tersebut ternyata\nbertentangan dengan Pasal 2 dan/ atau Pasal 4 Undang-Undang, maka Direktorat Jenderal\nberwenang untuk menolak Permohonan. Berdasarkan keputusan penolakan Direktorat Jenderal\ntersebut, Pemohon dapat mengajukan keberatan kepada Direktorat Jenderal atau mengajukan\ngugatan   ke\nPengadilan Niaga. Selanjutnya, apabila keberatan tersebut diterima oleh Direktorat Jenderal atau\nputusan Pengadilan yang mempunyai kekuatan hukum tetap menyatakan bahwa gugatan tersebut\nditerima, maka Direktorat Jenderal berkewajiban untuk melakukan proses Permohonan\nselanjutnya.\nDalam hal tidak ada keberatan masyarakat selama masa pengumuman Permohonan tersebut, maka\nDirektorat Jenderal memberikan Sertifikat Desain Industri sebagai bukti bahwa Pemohon adalah\nPemegang Hak atas Desain Industri tersebut. Terhadap Permohonan yang telah diberikan\nSertifikat Desain Industri tersebut, Direktorat Jenderal berkewajiban untuk mencatatnya dalam\nDaftar Umum Desain Industri dan mengumumkannya dalam Berita Resmi Desain Industri.\nSelain mengatur mengenai tata cara Permohonan, Peraturan Pemerintah ini mengatur  pula\nketentuan mengenai  pencatatan perubahan nama dan/atau alamat Pemegang Hak Desain Industri,\npermohonan  pengalihan hak Desain Industri, dan pembatalan pendaftaran Desain Industri serta\nketentuan mengenai Daftar Umum Desain Industri dan Berita Resmi Desain Industri.\nPASAL DEMI PASAL\nPasal 1\n Cukup jelas\nPasal 2\nAyat (1)\n  Cukup jelas\n Ayat (2)\n  Yang dimaksud dengan “pengungkapan” adalah pengungkapan melalui media cetak atau\nelektronik, termasuk juga keikutsertaan dalam suatu pameran.\n Ayat (3)\n  Cukup jelas\nPasal 3\n Ayat (1)\n  Yang dimaksud dengan “satu Desain Industri” adalah satuan lepas Desain Industri. Akan\ntetapi, suatu perangkat cangkir dan teko, misalnya, adalah juga 1 (satu) Desain Industri,\nsedangkan yang dimaksud dengan “kelas” adalah kelas sebagaimana diatur dalam\nKlasifikasi Internasional tentang Desain Industri sebagaimana dimaksud dalam Locarno\nAgreement.\n Ayat (2)\n  Cukup jelas\nPasal 4\n Ayat (1)\n  Cukup jelas\n Ayat (2)\n  Direktorat Jenderal menyediakan formulir Permohonan sebagaimana dimaksud dalam\nketentuan Pasal ini, namun demikian, pengadaan formulir tersebut dapat pula dilakukan\noleh Pemohon atau Kuasanya yang bentuk dan isinya sesuai dengan lampiran Peraturan\nPemerintah ini.\n Ayat (3)\n  Cukup jelas\nPasal 5\n Ayat (1)\nHuruf a\n   Apabila contoh fisik Desain Industri yang dimintakan pendaftarannya sangat besar,\ncukup diberikan gambar atau foto desain tersebut yang diambil dari berbagai sudut.\n  Huruf b\n   Cukup jelas\n  Huruf c\n   Cukup jelas\n Ayat (2)\n  Huruf a\n   Yang dimaksud dengan “bukti yang cukup” adalah bukti sah, benar, serta memadai\nyang menunjukkan bahwa Pemohon berhak mengajukan Permohonan.\n  Huruf b\n   Cukup jelas\nPasal 6\n Ayat (1)\n  Huruf a\n   Penetapan ukuran berat kertas ini juga telah diselaraskan dengan beberapa\nperaturan yang mengatur di bidang ini pada persyaratan penggunaan kertas yang\nberlaku secara internasional di bidang Hak Kekayaan Intelektual.\n  Huruf b\n   Cukup jelas\n  Huruf c\n   Cukup jelas\n  Huruf d\n   Cukup jelas\n  Huruf e\n   Cukup jelas\n  Huruf f\n   Cukup jelas\n  Huruf g\n   Cukup jelas\n  Huruf h\n   Yang dimaksud dengan “data gambar” adalah dalam bentuk data image terutama\ndalam bentuk *.jpg, atau yang sejenisnya.\n Ayat (2)\n  Cukup jelas\n Ayat (3)\n  Dalam Uraian Desain Industri harus mencakup:\n  1. Penjelasan atau pernyataan yang mengungkapkan bagian dari suatu desain yang ingin\ndimintakan perlindungan;\n  2. Penjelasan atau pernyataan yang mengungkapkan bagian dari suatu desain yang\nmemiliki nilai kebaruan;\n  3. Pernyataan terhadap barang atau produk Desain Industri yang mengungkapkan\nlingkup penggunaan suatu Desain Industri pada suatu barang atau hasil produksi.\nDesain bukan merupakan produk atau barang itu sendiri, tetapi berkaitan dengan\nproduk atau barang dimana desain yang dimaksud diterapkan untuk membatasi\nlingkup perlindungan suatu Desain Industri.\n Ayat (4)\n  Cukup jelas\nPasal 7\n Cukup jelas\nPasal 8\n Cukup jelas\nPasal 9\n Cukup jelas\nPasal 10\n Ketentuan dalam Pasal ini merupakan persyaratan minimum yang harus dipenuhi agar suatu\nPermohonan Desain Industri mendapatkan Tanggal Penerimaan Permohonan. Tanggal\ntersebut menentukan saat mulai berlakunya penghitungan jangka waktu perlindungan atas\nDesain Industri tersebut.\nPasal 11\n Ayat (1)\n  Yang dimaksud dengan pemeriksaan fisik adalah pemeriksaan terhadap bentuk, jenis,\nukuran serta hal-hal yang berkaitan dengan kualitas fisik kelengkapan Permohonan,\nmisalnya: lampiran gambar yang diajukan dalam Permohonan.\n  Yang dimaksud dengan pemeriksaan persyaratan formalitas Permohonan adalah\npemeriksaan kelengkapan-kelengkapan yang harus dilampirkan dalam Permohonan,\nmisalnya: Formulir Permohonan, Gambar Desain Industri, Uraian Desain Industri dan\nsurat-surat lain yang berkenaan dengan Permohonan.\n  Yang dimaksud dengan pemeriksaan kejelasan pengungkapan Desain Industri adalah\npemeriksaan menyangkut lingkup desain yang dimohonkan pendaftarannya, termasuk\nkriteria Desain Industri sebagaimana diatur dalam Pasal 1 angka 1 Undang-Undang,\nkesatuan Permohonan yang diatur dalam Pasal 13 Undang-Undang dan desain tersebut\ntidak bertentangan dengan Pasal 4 Undang-Undang.\n Ayat (2)\n  Cukup jelas\n Ayat (3)\n  Tanda pengiriman dibuktikan dengan cap pos, dokumen pengiriman atau bukti\npengiriman lainnya.\n Ayat (4)\n  Cukup jelas\n Ayat (5)\n  Cukup jelas\n Ayat (6)\n  Cukup jelas\nPasal 12\n Ayat (1)\n  Cukup jelas\n Ayat (2)\n  Cukup jelas\n Ayat (3)\n  Cukup jelas\n Ayat (4)\n  Cukup jelas\n Ayat (5)\n  Ketentuan yang berlaku dalam klasifikasi antara lain adalah mengikuti klasifikasi\ninternasional yang sesuai dengan Klasifikasi Locarno (Locarno Agreement)  yang\nberlaku.\nPasal 13\n Ayat (1)\n  Dalam hal ini,  jika diketahui bahwa suatu Permohonan Desain Industri tidak sesuai\ndengan  Pasal  13  Undang-Undang,  terhadap   Permohonan  tersebut harus dilakukan\npemecahan, dimana Permohonan hasil pemecahan tersebut memiliki Tanggal Penerimaan\nPermohonan yang sama untuk setiap pecahannya. Apabila Pemohon tidak menanggapi\npemberitahuan ini, maka yang akan didaftar adalah desain yang paling dominan.\n Ayat (2)\n  Cukup jelas\n Ayat (3)\n  Cukup jelas\n Ayat (4)\n  Cukup jelas\n Ayat (5)\n  Cukup jelas\nPasal 14\n Cukup jelas\nPasal 15\n Cukup jelas\nPasal 16\n Ayat (1)\n  Yang dimaksud dengan “diumumkan” adalah dipermaklumkan kepada masyarakat\nmelalui media Berita Resmi Desain Industri, kemudian hari, pengumuman dapat pula\ndilakukan melalui media lain.\n  Yang dimaksud dengan “Sarana Khusus” antara lain: papan pengumuman, jurnal,\ninternet, dan sarana lainnya yang memungkinkan untuk memuat suatu pengumuman.\nUntuk tujuan pengumuman, Direktorat Jenderal melakukan klasifikasi dan memeriksa\nhal-hal yang dianggap tidak jelas atau tidak patut jika Permohonan tersebut diumumkan.\n Ayat (2)\n  Cukup jelas\nPasal 17\n Ayat (1)\n  Apabila dalam pengumuman suatu Permohonan Desain Industri dikhawatirkan akan\nmenyebabkan keresahan dalam masyarakat, maka pengumuman atas suatu Permohonan\ndapat dilakukan tanpa mencantumkan gambar atau foto dari Desain Industri tersebut.\n Ayat (2)\n  Cukup jelas\n Ayat (3)\n  Cukup jelas\nPasal 18\n Cukup jelas\nPasal 19\n Ketentuan ini dimaksudkan untuk memberikan kesempatan kepada Pemohon yang\nmenganggap perlu penundaan tersebut demi kepentingannya.\nPasal 20\n Ayat (1)\n  Yang dimaksud “memperluas lingkup Permohonan Desain Industri” adalah memperluas\npenampakan-penampakan (appeareance) yang dimintakan perlindungan terhadap\nPermohonan Desain Industri yang diajukan semula.\n Ayat (2)\n  Cukup Jelas\n Ayat (3)\n  Cukup Jelas\n Ayat (4)\n  Cukup Jelas\nPasal 21\n Yang dimaksud “belum mendapat keputusan” adalah Permohonan yang belum terdaftar\ndalam Daftar Umum Desain Industri.\nPasal 22\n Cukup jelas\nPasal 23\n Cukup jelas\nPasal 24\n Ayat (1)\n  Yang dimaksud dengan “pemeriksaan substantif” adalah pemeriksaan terhadap\nPermohonan berdasarkan Pasal 2 dan Pasal 4 Undang-Undang untuk menentukan aspek\nkebaruan Desain Industri yang dimohonkan dan memastikan bahwa Permohonan\ntersebut tidak bertentangan dengan peraturan perundang-undangan yang berlaku,\nketertiban umum, agama, atau kesusilaan.\nHuruf a\n   Cukup jelas\n  Huruf b\n   Sebagai contoh, apabila  memuat hal-hal yang telah dilindungi oleh suatu peraturan\nperundang-undangan di bidang Hak Kekayaan Intelektual untuk Pemohon yang\nberbeda, Direktorat Jenderal dapat menolak Permohonan tersebut, diantaranya\nmeliputi suatu lukisan atau karya seni lainnya di bidang Hak Cipta, misalnya karya\narsitektur, pola pakaian, tampilan pada layar komputer, sketsa atau gambar\nrencana dan lain-lain.\n   Sedangkan di bidang paten misalnya, suatu produk yang semata-mata memiliki\nfungsi/kegunaan, sebagai contoh: kait atau paku yang bentuknya sudah tetap dan\nlain-lainnya. Untuk bidang merek, misalnya suatu logo untuk membedakan barang\nsejenis dan lain-lainnya.\n   Selain itu, terhadap Permohonan yang memuat sesuatu yang berkaitan dengan\npemilikan umum atau pemilikan oleh negara atas suatu Desain Industri, Direktorat\nJenderal dapat menolak Permohonan tersebut. Sebagai contoh “pemilikan umum”\nmisalnya hasil kerajinan atau karya seni tradisional dan lain-lain. Sedangkan contoh\n“pemilikan oleh negara” adalah lambang negara atau publik, bendera negara atau\npublik, simbol keagamaan atau kepercayaan atau adat istiadat.\nHuruf c\n   Cukup jelas\n  Huruf d\n   Cukup jelas\n Ayat (2)\n  Huruf a\n   Cukup jelas\n  Huruf b\n   Cukup jelas\n  Huruf c\n   Yang dimaksud dengan “pembanding yang relevan” adalah pembanding yang\ntercakup dalam bidang penelusuran yang sama yang telah ada sebelumnya\nterhitung sejak Tanggal Penerimaan Permohonan.\n Ayat (3)\n  Cukup jelas\nAyat (4)\n  Cukup jelas\nPasal 25\n Perbaikan Permohonan  oleh Pemohon dan keputusan Direktorat Jenderal untuk menerima\natau menolak perbaikan Permohonan dalam ketentuan Pasal ini harus dilakukan dalam kurun\nwaktu sebelum berakhirnya batas waktu pemberian Sertifikat Desain Industri sebagaimana\ndimaksud dalam Pasal 29 ayat (1) Peraturan Pemerintah ini.\n Yang dimaksud dengan perbaikan dalam Pasal ini  adalah menghilangkan unsur-unsur yang\nmengandung hal-hal yang bertentangan dengan peraturan perundang-undangan yang berlaku,\nketertiban umum, agama atau kesusilaan.\nPasal 26\n Perbaikan Permohonan oleh Pemohon dan keputusan Direktorat Jenderal untuk menerima\natau menolak perbaikan Permohonan dalam ketentuan Pasal ini harus  dilakukan dalam kurun\nwaktu sebelum berakhirnya batas waktu pemberian Sertifikat Desain Industri sebagaimana\ndimaksud dalam Pasal 29 ayat (1) Peraturan Pemerintah ini.\nPasal 27\n Pengajuan keberatan atas keputusan penolakan Direktorat Jenderal oleh Pemohon dan\nkeputusan Direktorat Jenderal untuk menerima atau menolak keberatan dalam ketentuan\nPasal ini harus dilakukan dalam kurun waktu sebelum berakhirnya batas waktu pemberian\nSertifikat Desain Industri sebagaimana dimaksud dalam Pasal 29 ayat (1) Peraturan\nPemerintah ini.\nPasal 28\n Cukup jelas\nPasal 29\n Cukup jelas\nPasal 30\nYang dimaksud dengan “salinan” adalah salinan berisi ketereangan yang menyangkut Desain\nIndustri tersebut, antara lain nama Pendesain, Pemegang Hak, dan/atau Kuasa atas Desain\nIndustri tersebut.\nPasal 31\n Cukup jelas\nPasal 32\n Cukup jelas\nPasal 33\n Cukup jelas\nPasal 34\n Cukup jelas\nPasal 35\n Cukup jelas\nPasal 36\n Cukup jelas\nPasal 37\n Cukup jelas\nPasal 38\n Cukup jelas\nPasal 39\n Cukup jelas\nPasal 40\n Cukup jelas\nPasal 41\n Cukup jelas\nPasal 42\n Cukup jelas\nPasal 43\n Cukup jelas\nPasal 44\n Cukup jelas\nPasal 45\n Cukup jelas\nPasal 46\n Cukup jelas\nPasal 47\n Cukup jelas\nPasal 48\n Cukup jelas\nPasal 49\n Cukup jelas\nPasal 50\n Cukup jelas\nPasal 51\n Cukup jelas\nPasal 52\n Cukup jelas\nPasal 53\n Cukup jelas\nPasal 54\n Cukup jelas\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 4465\nLAMPIRAN\nPERATURAN PEMERINTAH REPUBLIK\nINDONESIA\nNOMOR   1    TAHUN  2005\nTANGGAL   4   JANUARI 2005\nDEPARTEMEN HUKUM DAN HAK ASASI MANUSIA RI\nDIREKTORAT JENDERAL HAK KEKAYAAN INTELEKTUAL\nFORMULIR PERMOHONAN PENDAFTARAN\nDESAIN INDUSTRI\n__________________________________________\nDiisi oleh Petugas\nTanggal Permohonan :\n…………………..\nTanggal Penerimaan :\n…………………..\nNomor  Permohonan :\n…………………..\nDengan ini Saya / Kami 1)\nNama Pemohon  :\nWarga Negara  :\nAlamat  2)  :\nTelepon/Facsimile :\nNPWP   :\nDiisi oleh Petugas\n(……………………..)\nMengajukan permohonan pendaftaran Desain Industri\nMelalui/tidak melalui *) Konsultan HKI\nNama Konsultan HKI :\nAlamat2)   :\nNama Lembaga3)  :\nAlamat Lembaga  :\nNomor Konsultan HKI :\nAlamat E-mail  :\nTelepon/Facsimile :\n(……………………..)\nJudul Desain Industri : (……………………..)\nTanggal   dan  tempat  pertama  kali\nDesain Industri  tersebut diumumkan : (……………………..)\nNama dan kewarganegaraan Pendesain-pendesainnya 4)\n……………………,  ……………………………………...,\n………………………..\n……………………,  ……………………………………...,\n………………………..\n……………………,  ……………………………………...,\n………………………..\n(……………………..)\nPermohonan pendaftaran Desain Industri ini diajukan dengan/tidak\ndengan*)   hak prioritas :\nNegara          Tanggal penerimaan permohonan pertama kali\nNomor Prioritas\n……………,  ……….…………………………………...….\n…..……………\n(……………………..)\n(……………………..)\nKelas Desain Industri (Kelas Locarno) : (……………………..)\nBersama ini Saya/Kami lampirkan5)   :\n1 (satu) rangkap :\n(   ) Surat Kuasa;\n(   ) Surat Pernyataan pengalihan hak atas Desain Industri;\n(   ) Bukti pemilikan hak atas Desain Industri;\n(   ) Bukti Prioritas dan terjemahannya;\n(   ) Dokumen (permohonan)  Desain Industri dengan prioritas dan\nterjemahannya;\n(   ) Dokumen Lain (sebutkan).\n3 (tiga) rangkap :\n(   ) Uraian Desain Industri atau Keterangan Gambar;\n(   ) Contoh Fisik;\n(   ) Gambar atau foto Desain Industri (sebutkan jumlahnya).\n(……………………..)\n(……………………..)\n(……………………..)\n(……………………..)\n(……………………..)\n(……………………..)\n(……………………..)\n(……………………..)\n(……………………..)\nDemikian permohonan ini Saya/Kami *) ajukan untuk dapat diproses lebih lanjut.\nYang mengajukan Permohonan\nDesain Industri 6)\n( _________________________ )\nKeterangan :\n1) Jika lebih dari satu orang Pemohon, cukup satu saja yang dicantumkan dalam formulir ini,\nsedangkan  lainnya harap ditulis pada lampiran tambahan.\n2) Alamat surat menyurat.\n3) Jika Konsultan HKI yang ditunjuk sesuai ketentuan yang berlaku, yang bekerja pada lembaga\ntertentu dan  bergerak di bidang HKI, maka sebutkan nama lembaga yang bersangkutan.\n4) Jika lebih dari ruang yang disediakan agar ditulis pada lampiran tambahan.\n5) Berilah tanda silang pada jenis dokumen yang Saudara lampirkan.\n6) Jika permohonan Desain Industri diajukan oleh :\n• Lebih dari satu orang, maka satu orang ditunjuk oleh kelompok/group sebagai Pemohon;\n• Konsultan HKI, yang berhak menandatangani adalah Konsultan HKI sebagaimana diatur\ndalam Undang-undang Nomor 31 Tahun 2000 tentang Desaain Industri.\n*)  Coret yang tidak perlu.\nPRESIDEN REPUBLIK INDONESIA,\nttd.\nDr. H. SUSILO BAMBANG YUDHOYONO"
+   }
+  }
+ ]
+}

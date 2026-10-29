@@ -1,0 +1,62 @@
+{
+ "id": "PH-H14384",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Section One of Act Numbered thirty-Four Hundred and Fifty-Five, Changing the Names of Certain streets of the Municipality of Tacloban, Province",
+  "orig": "An Act to Amend Section One of Act Numbered thirty-Four Hundred and Fifty-Five, Changing the Names of Certain streets of the Municipality of Tacloban, Province"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1930-11-26",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3752",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1000,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1930/act_3752_1930.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03752_1930_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03752_1930_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14384-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section one of Act Numbered Thirty-four hundred and fifty-five is hereby amended to read as\n\"Section 1. The names of the streets of the municipality of Tacloban, Province of Leyte, hereinafter named are\nhereby replaced by the following: Calle Colon by Paseo de Colon, San Fernando by Avenida Magallanes, San\nJuan by Juan Luna, Job by P. Paterno, Malcampo by M. H. del Pilar, Gumersindo by Purisima Concepcion,\nSan Roque by San Roque, Amparo by P. Gomez, Paseo del Carmen by P. Gomez (extension), Pelayo. by\nTrece Martires, Guzman by Presidente Wilson, Pizarro by Lopez Jaena, Rizal by Avenida Rizal, all of Calle\nRizal and Calle Gran Capitan, to the intersection of Calles Real and Gran Capitan, San Jose by Perikohon,\nAllen by Jones, Sevilla by T. Claudio, Santa Filomena by F. Torres, Zaragoza by Independencia, Bailon by C.\nArellano, Gerona by General Lukban, and Calle Nueva or Veloso by Avenida Veteranos de la Revolucion.\""
+   }
+  },
+  {
+   "id": "PH-H14384-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, November 26, 1930."
+   }
+  }
+ ]
+}

@@ -1,0 +1,770 @@
+{
+ "id": "MY-H375",
+ "title": {
+  "zh": "1992年引渡法",
+  "en": "EXTRADITION ACT 1992",
+  "orig": "EXTRADITION ACT 1992",
+  "vi": "Luật về Dẫn độ năm 1992",
+  "th": "พระราชบัญญัติการส่งผู้ร้ายข้ามแดน ค.ศ. 1992",
+  "id": "Undang-Undang Ekstradisi Tahun 1992",
+  "ms": "Akta Ekstradisi 1992"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-8",
+ "language": "en",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "1992",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "ACT479",
+ "topics": [],
+ "summary": null,
+ "coverage": "partial",
+ "structureMode": "ARTICLE",
+ "articleCount": 52,
+ "chars": 61428,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-detail.php?act=479&lang=BI"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\01_宪法与基础法\\1992_479_EXTRADITION ACT 1992.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 54 条；逐字未改写（源自厂商 OCR 文本）。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H375-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {
+    "en": "PART X"
+   },
+   "heading": {},
+   "text": {
+    "en": "1. (1) This Act may be cited as the Extradition Act\n1992 and shall apply throughout Malaysia.\n\n(2) This Act or any part thereof shall apply to—\n\n(a) such countries in respect of which the Minister\nhas issued an order under section 2;\n\n(b) such countries in respect of which the Minister\nhas issued a special direction under section 3:\n\nProvided that Part V shall apply to Brunei Darussalam\nand the Republic of Singapore notwithstanding that no\norder under section 2 or special direction under section\n3 has been issued or given by the Minister."
+   }
+  },
+  {
+   "id": "MY-H375-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {
+    "en": "PART X"
+   },
+   "heading": {},
+   "text": {
+    "en": "2. (1) Where a binding arrangement has been entered\ninto between Malaysia and any country for the\nextradition of fugitive criminals, the Minister may, by\norder to be published in the Gazette reciting or\nembodying the terms of such arrangement, direct that\n\nShort title\nand\napplication.\n\nOrder of the\nMinister.\n\n(Pt. I, S. 2-41\n\nSpecial\ndirection of\nthe Minister\napplying this\nAct where no\norder has\nbeen made\nunder section\n\n~\n\nDirection of\nthe Minister\nto apply\nprocedure in\nsection 20.\n\n8                                      Act 479\n\nthe provisions of this Act shall apply to that country\nsubject to any restriction, exception, modification,\nadaptation, condition or qualification contained in the\norder.\n\n(2) Where any arrangement referred to in this section\nis revoked or lapses, the Minister shall, by order\npublished in the Gazette, forthwith certify that fact; and\nany such order shall be conclusive evidence that the\narrangement referred to therein has been revoked or has\nlapsed, as the case may be, and shall not be questioned\nin any legal proceedings whatsoever.\n\n(3) Any order made under this section shall be laid\nbefore each House of Parliament as soon as may be\nafter it is made.\n\n(4) An order made under this section shall be\nconclusive evidence that the arrangement therein\nreferred to complies with the provisions of this Act, and\nthat this Act applies in the case of the country mentioned\nin the order, and the validity of such order shall not be\nquestioned in any legal proceedings whatsoever."
+   }
+  },
+  {
+   "id": "MY-H375-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "chapter": {
+    "en": "PART X"
+   },
+   "heading": {},
+   "text": {
+    "en": "3. Where a country in respect of which no order has\nbeen made under section 2 makes a request for the\nextradition thereto of a fugitive criminal, the Minister\nmay personally, if he deems it fit to do so, give a special\ndirection in writing that the provisions of this Act shall\napply to that country in relation to the extradition\nthereto of that particular fugitive criminal."
+   }
+  },
+  {
+   "id": "MY-H375-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "chapter": {
+    "en": "PART X"
+   },
+   "heading": {},
+   "text": {
+    "en": "4. Where the binding arrangement which has been\nentered into between Malaysia and any country for the\nextradition of fugitive criminals contains a provision for\nthe prima facie requirement to be dispensed with either\ngenerally or in relation to a class or classes of offences,\nthe Minister may give a direction in writing that the\nprocedure specified in section 20 shall apply to such\ncases.\n\n(Pt. I, S. 5]\n\nEXTRADITION                                                         9"
+   }
+  },
+  {
+   "id": "MY-H375-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "chapter": {
+    "en": "PART X"
+   },
+   "heading": {},
+   "text": {
+    "en": "5. In this Act, unless the context otherwise requires— Interpretation.\n\n\"country\" includes a territory of a country which,\nthough not sovereign and independent, is authorised by\nthat country to enter into extradition arrangements with\nother countries;\n\n\"diplomatic representative\" means a chief\nrepresentative or consular officer, as defined in the\nDiplomatic and Consular Privileges Ordinance 1957; ora. 53/57.\n\n\"extraditable offence\" means an offence described in\nsection 32;\n\n\"extradition offence\" means an offence described in\nsubsection 6(2) or 6(3);\n\n\"fugitive criminal\" means any person who is accused\nof or convicted of an extradition offence committed\nwithin the jurisdiction of another country and is, or is\nsuspected to be, in some part of Malaysia;\n\n\"Magistrate\" means a Magistrate of the First Class or\na Sessions Court Judge;\n\n\"Minister\" means the Minister of Home Affairs;\n\n\"prescribed\" means prescribed by rules made under\nthis Act;\n\n\"provisional warrant\" means a warrant which is issued\nunder paragraph 13(1)(d);\n\n\"surrender warrant\" means a warrant which is issued\nunder paragraph 21(2)(b);\n\n\"temporary surrender warrant\" means a warrant which\nis issued under paragraph 21(2)(a).\n\n(Pt. I-III, S. 6-8)\n\nExtradition\noffence.\n\nLaw of a\ncountry.\n\nRestrictions\non return of\nfugitive\ncriminals.\n\n10                           Act 479\n\nPart II\nEXTRADITION OFFENCE '"
+   }
+  },
+  {
+   "id": "MY-H375-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "chapter": {
+    "en": "Part II"
+   },
+   "heading": {},
+   "text": {
+    "en": "6. (1) A fugitive criminal shall only be returned for an\nextradition offence.\n\n(2) For the purposes of this Act, an extradition\noffence is an offence, however described, including\nfiscal offences—\n\n(a) which is punishable, under the laws of a country\n\nreferred to under paragraph 1(2)(a) or 1(2)(b),\nwith imprisonment for not less than one year or\nwith death; and\n\n(b\n\n~\n\nwhich, if committed within the jurisdiction of\nMalaysia, is punishable under the laws of\nMalaysia with imprisonment for not less than\none year or with death:\n\nProvided that, in the case of an extraterritorial\noffence, it is so punishable under the laws of\nMalaysia if it took place in corresponding\ncircumstances outside Malaysia.\n\n(3) An offence shall also be an extradition offence if\nit consists of an attempt or a conspiracy to commit, or\nan abetment of the commission of, any offence\ndescribed in subsection (2)."
+   }
+  },
+  {
+   "id": "MY-H375-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7"
+   },
+   "chapter": {
+    "en": "Part II"
+   },
+   "heading": {},
+   "text": {
+    "en": "7. A reference in this Act to a law of a country includes\n\na reference to a law of, or in force in, a part of that\ncountry.\n\nPART III\nRETURN OF FUGITIVE CRIMINALS"
+   }
+  },
+  {
+   "id": "MY-H375-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8"
+   },
+   "chapter": {
+    "en": "PART III"
+   },
+   "heading": {},
+   "text": {
+    "en": "8. A fugitive criminal shall not be surrendered to a\ncountry seeking his return—\n\n(a) if the offence in respect of which his return is\nsought is of a political character or he proves\nto the satisfaction of the Sessions Court before\nwhich he is brought or of the Minister that the\n\n(Pt. III, S. 8]\n\nEXTRADITION                                      11\n\nwarrant for his return has in fact been made\nwith a view to try or punish him for an offence\nof a political character;\n\n(b) if the request for his surrender although\npurporting to be made for an extradition offence\nwas in fact made for the purpose of prosecuting\nor punishing the person on account of his race,\nreligion, nationality or political opinions;\n\n(c) if he might be prejudiced at his trial or punished\nor imprisoned by reason of his race, religion,\nnationality or political opinions;\n\n(d) if prosecution for the offence in respect of\nwhich his return is sought is, according to the\nlaw of that country, barred by time;\n\n(e) unless provision is made by the law of that\ncountry, or in the extradition arrangement with\nthat country, that a fugitive criminal who has\nnot had a reasonable opportunity of leaving that\ncountry shall not be detained or tried in that\ncountry for any offence committed prior to his\nreturn, other than the extradition offence proved\nby the facts on which his surrender or return is\nbased or any lesser offence proved by the facts\non which that return was grounded unless the\nconsent of the appropriate authority in the\nrequested country has been obtained; or\n\n(f) unless provision is made by the law of that\ncountry, or in the extradition arrangement with\nthat country, that a fugitive criminal who has\nnot had a reasonable opportunity of leaving that\ncountry shall not be extradited to another\ncountry for trial or punishment for any offence\nthat is alleged to have been committed or was\ncommitted before the fugitive criminal's return\nto the first mentioned country unless the consent\nof the appropriate authority in the requested\ncountry has been obtained.\n\n(Pt. III, S. 9.101\n\n12                           Act 479\n\nExceptions to 9, (1) For the purposes of paragraph 8(a), any of the\n\npolitical\noffences.\n\nfollowing offences shall not be held to be offences of\na political character in relation to a country which has\nmade corresponding provisions in its laws:\n\n(a) murder or other wilful crime against the person\nof a Head of State or a member of the Head of\nState's immediate family;\n\n(b) an act which, under a multilateral treaty to\nwhich Malaysia and the country seeking the\nreturn of the fugitive criminal are parties,\nconstitutes an offence for which a person will\nbe extradited or prosecuted notwithstanding the\npolitical character or motivation of such act;\n\n(c) any attempt, abetment or a conspiracy to\ncommit any of the foregoing offences.\n\nWhen consent 1(), (1) Where a fugitive criminal has been returned to\n\nof the\nMinister is\nnecessary.\n\na country and the country concerned intends to try him\nfor an extradition offence committed prior to his return\nother than that for which he was extradited, or to\nextradite him to another country for trial or punishment\nfor any other offence, it shall make a request for the\nconsent of the Minister through its diplomatic\nrepresentative and such request shall be accompanied\nby all relevant information and documents in respect\nthereof.\n\n(2) The Minister may call for any additional\ninformation or documents as he may require in order\nthat he may be satisfied that the request for his consent\nunder subsection (1) is consistent with the provisions of\nthis Act.\n\n(3) The Minister shall not give his consent under\nsubsection (1) if he has reasonable grounds for believing\nthat the offence to which the request for consent relates\ncould have been charged prior to the return of such\nfugitive criminal if due diligence had been exercised.\n\n(Pt. IV, S. 11-121\n\nEXTRADITION                                13\n\nPart IV\nPROCEDURE FOR RETURN OF FUGITIVE CRIMINALS"
+   }
+  },
+  {
+   "id": "MY-H375-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "11. Where a fugitive criminal is found in Malaysia, he\nshall be liable to be apprehended and returned in the\nmanner provided by this Part to the country concerned."
+   }
+  },
+  {
+   "id": "MY-H375-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "12. (1) A requisition by any country for the return of\na fugitive criminal who is in or suspected of being in\nMalaysia shall be made to the Minister by a diplomatic\nrepresentative of that country.\n\n(2) There shall be furnished with any requisition\nmade for the purposes of subsection (1)—\n\n(a) in the case of a fugitive criminal accused of an\noffence, a warrant for his apprehension issued\nin that country; or\n\n(b) in the case of a fugitive criminal unlawfully at\nlarge after conviction of an offence, a certificate\nof the conviction and sentence in that country\nand a statement of the amount, if any, of that\nsentence which has been served,\n\ntogether in each case with particulars of the fugitive\ncriminal whose return is requested and of the facts upon\nwhich and the law under which he is accused or was\nconvicted, and evidence sufficient to justify the issue of\na warrant for his apprehension under section 13.\n\n(3) On receipt of such requisition, the Minister may,\nby order under his hand and seal, signify to a Magistrate\nthat such requisition has been made and authorise him\nto issue a warrant for the apprehension of the fugitive\ncriminal.\n\n(4) If the Minister is of the opinion that the offence\nto which the warrant relates is one of a political\ncharacter, he may, if he thinks fit, refuse to make any\nsuch order, and may also at any time order a fugitive\ncriminal convicted of such offence to be discharged\nfrom custody.\n\nLiability of a\nfugitive\ncriminal to be\napprehended\nand returned.\n\nRequisition\nfor return of\nfugitive\ncriminal.\n\n(Pt. IV, S. 13-15)\n\nIssue of\nwarrants by\nMagistrate.\n\nMagistrate to\nreport issue\nof provisional\nwarrant to\nMinister.\n\nProcedure in\nrespect of a\nfugitive\ncriminal\napprehended\non a warrant\nissued under\nparagraph 13\n(1) (a).\n\n14                           Act 479"
+   }
+  },
+  {
+   "id": "MY-H375-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "13. (1) Where a fugitive criminal is in or suspected of\nbeing in or on the way to Malaysia, the Magistrate—\n\n(a) shall, on receipt of an order made under\nsubsection 12(3), issue a warrant for the\napprehension of such fugitive criminal; or\n\n(b) may, where no order has been made under\nsubsection 12(3), issue a provisional warrant for\nthe apprehension of such fugitive criminal on\nsuch information and evidence and under such\ncircumstances as would, in his opinion, justify\nthe issue of a warrant if the offence had been\ncommitted or the fugitive criminal convicted in\nMalaysia.\n\n(2) For the purposes of paragraph (1)(b), information\ncontained in an international notice issued by\nthe International Criminal Police Organisation\n(INTERPOL) in respect of a fugitive criminal may be\nconsidered by the Magistrate in deciding whether a\nprovisional warrant should be issued for the\napprehension of a fugitive criminal."
+   }
+  },
+  {
+   "id": "MY-H375-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "14. (1) A Magistrate issuing a provisional warrant shall\nforthwith send a report of the issue together with the\ninformation or evidence or certified copy thereof to the\nMinister.\n\n(2) The Minister may, if he thinks fit, order the\nwarrant to be cancelled and the person who has been\napprehended on the warrant to be discharged."
+   }
+  },
+  {
+   "id": "MY-H375-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "15. A fugitive criminal who is apprehended on a\nwarrant issued under paragraph 13(1)(a) shall be\nbrought before any Magistrate who shall order—\n\n(a) that the case be transmitted to the Sessions\nCourt; and\n\n(b) that the fugitive criminal be remanded in\ncustody prior to his appearance before the\nSessions Court.\n\n(Pt. IV, S. 16-17)\n\nEXTRADITION                                                 15"
+   }
+  },
+  {
+   "id": "MY-H375-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "16. (1) A fugitive criminal who is apprehended on a\nprovisional warrant shall be brought before any\nMagistrate who shall, in the case where the Minister has\nnot received any requisition for the return of the fugitive\ncriminal, order that the fugitive criminal be remanded\nin custody for such reasonable period of time as with\nreference to the circumstances of the case he may fix,\nand for this purpose, the Magistrate shall take into\naccount any period in the relevant extradition\narrangement relating to the permissible period of\nremand upon provisional arrest of a fugitive criminal.\n\n(2) Upon receipt of the order of the Minister\nsignifying that a requisition has been made for the return\nof the fugitive criminal, the Magistrate shall order—\n\n(a) that the case be transmitted to the Sessions\nCourt; and\n\n(b) that his remand under subsection (1) be\n\nextended until his appearance before the\nSessions Court.\n\n(3) The Magistrate shall, where he has not received\nfrom the Minister within such period of time as he may\nfix under subsection (1) an order signifying that a\nrequisition has been made for the return of the fugitive\ncriminal, order that the fugitive criminal be discharged."
+   }
+  },
+  {
+   "id": "MY-H375-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "17. Where at the time the fugitive criminal who is\napprehended on a provisional warrant is brought before\nany Magistrate the Magistrate has received an order of\nthe Minister signifying that a requisition has been made\nfor the return of the fugitive criminal, the Magistrate\nshall order—\n\n(a) that the case be transmitted to the Sessions\nCourt; and\n\n(b) that the fugitive criminal be remanded in\ncustody until his appearance before the Sessions\nCourt.\n\nProcedure in\nrespect of\nfugitive\ncriminal\napprehended\non a\nprovisional\nwarrant.\n\nProcedure in\nrespect of a\nfugitive\ncriminal\napprehended\non a\nprovisional\nwarrant when\norder has\nbeen received\nby the\nMagistrate.\n\n(Pt. IV, S. 18-191\n\nPowers and\njurisdiction\nof Sessions\nCourt.\n\nProcedure\nbefore\nSessions\nCourt.\n\nAct 479"
+   }
+  },
+  {
+   "id": "MY-H375-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "18. A Sessions Court shall have the powers and\njurisdiction to inquire into an extradition matter brought\nbefore it in accordance with the procedure specified\nunder this Act."
+   }
+  },
+  {
+   "id": "MY-H375-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "19. (1)\n\nWhere the fugitive criminal is brought before\n\nthe Sessions Court, the Sessions Court shall receive any\nevidence tendered by or on behalf of the fugitive\ncriminal to show—\n\n(a)\n\n(b)\n\n(c)\n\n(d)\n\n(e)\n\n(f)\n(g)\n\n(h)\n\nthat he did not do or omit to do the act alleged\nto have been done or omitted by him;\n\nthat he is not the person against whom the\nwarrant was issued in the country which seeks\nhis return;\n\nthat the alleged act or omission is not an\nextradition offence in relation to the country\nwhich seeks his return;\n\nthat the offence is of a political character, or\nthat the proceedings are being taken with a view\nto try or punish him for an offence of a political\ncharacter;\n\nthat the offence is an offence under military law\nwhich is not also an offence under the general\ncriminal law;\n\nthat the alleged act or omission does not\nconstitute an offence under the law of Malaysia;\n\nthat his return would not be in accordance with\nthe provisions of this Act;\n\nthat he has been previously convicted or\nacquitted or pardoned by a competent tribunal\nor authority in the country which seeks his\nreturn or in Malaysia in respect of the alleged\nact or omission; or\n\nthat the request for his surrender was made for\nthe purpose of prosecuting or punishing him on\naccount of his race, religion, nationality or\npolitical opinions, or that he might be\nprejudiced at his trial or punished or imprisoned\n\n(Pt. IV, S. 19-201\n\nEXTRADITION                                17\n\nby reason of his race, religion, nationality or\npolitical opinions.\n\n(2) Nothing in this section shall limit the power of\nthe Sessions Court to receive any other evidence that\nmay be tendered to show that the fugitive criminal\nshould not be returned.\n\n(3) For the purposes of paragraph (2)(d), the Sessions\nCourt may receive such evidence as in its opinion may\nassist it in determining the truth, whether or not such\nevidence is otherwise legally admissible in a court of\nlaw.\n\n(4) If the Sessions Court is of the opinion that a\nprima facie case is not made out in support of the\nrequisition of the country concerned, the Court shall\ndischarge the fugitive criminal.\n\n(5) If the Sessions Court is of the opinion that a\nprima facie case is made out in support of the requisition\nof the country concerned, the Court shall commit the\nfugitive criminal to prison to await the order of the\nMinister for his surrender, and shall report the result of\nits inquiry to the Minister; and shall forward together\nwith such report any written statement which the\nfugitive criminal may desire to submit for the\nconsideration of the Minister."
+   }
+  },
+  {
+   "id": "MY-H375-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "20. (1) Where a direction has been given by the\nMinister under section 4, the Sessions Court shall—\n\n(a) after hearing any representation made in support\nof the extradition request;\n\n(b) upon the production of supporting documents in\nrelation to the offence;\n\n(c) upon being satisfied that the alleged act or\nomission of the fugitive criminal would, if it\nhad taken place in Malaysia, constitute an\noffence under the laws of Malaysia;\n\nProcedure\nbefore\nSessions\nCourt where a\nspecial\ndirection has\nbeen given\nunder section\n\n(Pt. IV, S. 201\n\nAct 479\n\n(d) if the fugitive criminal does not satisfy the\n\nCourt\n\nthat there are substantial grounds for\n\nbelieving that—\n\nG)\n\nGi)\n\n(iii)\n\n(iv)\n\n(v)\n\nthe offence is an offence of a political\ncharacter, or that the proceedings are\nbeing taken with a view to try or punish\nhim for an offence of a political\ncharacter;\n\nprosecution for the offence in respect of\nwhich his return is sought is barred by\ntime in the country which seeks his\nreturn;\n\nthe offence is an offence under military\nlaw which is not also an offence under\nthe general criminal law;\n\nthe fugitive criminal has been acquitted\nor pardoned by a competent tribunal or\nauthority in the country which seeks his\nreturn or in Malaysia;\n\nthe fugitive criminal has undergone the\npunishment provided by the law of the\ncountry which seeks his return or of\nMalaysia in respect of the extradition\noffence or any other offence constituted\nby the same conduct as that which\nconstitutes the extradition offence;\n\n(e) upon being satisfied that the fugitive is not\naccused of an offence, nor undergoing a\nsentence in respect of an offence, in Malaysia,\nother than the extradition offence in respect of\nwhich his return is sought,\n\ncommit the fugitive criminal to prison to await the order\nby the Minister for his surrender.\n\n(2) In the proceedings before the Sessions Court\nunder subsection (1) the fugitive criminal is not entitled\nto adduce, and the Court is not entitled to receive,\nevidence to contradict the allegation that the fugitive\ncriminal has done or omitted to do the act which\n\nconstitutes the\nis sought.\n\nextradition offence for which his return\n\n(Pt. IV, S. 20-211\n\nEXTRADITION                                   19\n\n(3) In this section, \"supporting documents\" means—\n\n(a) any duly authenticated warrant for the arrest of\nthe fugitive criminal issued by the country\nwhich seeks his return or any duly authenticated\ncopy of such warrant;\n\n(b) any duly authenticated document to provide\nevidence of the fugitive criminal's conviction\nor sentence or the extent to which a sentence\nimposed has not been carried out;\n\n(c) a statement in writing setting out a description\nof, and the penalty applicable in respect of, the\noffence and a duly authenticated statement in\nwriting setting out the conduct constituting the\noffence."
+   }
+  },
+  {
+   "id": "MY-H375-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "21. (1) If the Sessions Court commits the fugitive\ncriminal to prison pursuant to section 19 or 20, the Court\nshall also inform such fugitive criminal that he will not\nbe surrendered until after the expiration of such period,\nnot being less than fifteen days, as the Minister may\ndetermine and that he has a right to apply to the High\nCourt for a writ of habeas corpus.\n\n(2) Upon the expiration of the period referred to in\nsubsection (1) or, if an application for a writ of habeas\ncorpus has been made to the High Court by the fugitive\ncriminal, upon the final determination of such\napplication by the High Court or after such further\nperiod as may be allowed in either case by the Minister,\nthe Minister shall—\n\n(a) in the case of a requisition made under section\n29, issue a temporary surrender warrant under\nhis hand and seal; or\n\n(b) in the case of a requisition made under section\n12, issue a surrender warrant under his hand\nand seal,\n\nto order the fugitive criminal to be surrendered to such\nperson as may in his opinion be duly authorised to\nreceive the fugitive criminal by the country which made\nthe requisition for his return, and such fugitive criminal\nshall be returned accordingly.\n\nReturn of\nfugitive\ncriminal.\n\n(Pt. IV, S. 21-221\n\nWaiver of\ncommittal\nproceedings\nby fugitive\ncriminal.\n\n. 20                                Act 479\n\n(3) It shall be lawful for any person to whom such\nwarrant is directed and for the person so authorised as\naforesaid to receive, hold in custody and convey, within\nthe jurisdiction of the country which made the\nrequisition for his return, the fugitive criminal and if the\nfugitive criminal escapes out of any custody to which\nhe may be surrendered in pursuance of such warrant, it\nshall be lawful to retake him in the same manner as any\nperson accused of any crime against the laws of\nMalaysia may be retaken upon an escape."
+   }
+  },
+  {
+   "id": "MY-H375-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "22. (1) When the fugitive criminal is brought before\nthe Sessions Court he may inform the Court that he\nconsents to a waiver of the committal proceedings\nbefore the Court and the Court shall—\n\n(a) ascertain whether the consent is given\nvoluntarily;\n\n(b) upon being satisfied that such consent is given\nvoluntarily, advise the fugitive criminal that the\neffect of so consenting will be that—\n\n(i) he will be committed to prison;\n\n(ii) he will not be entitled to apply under\nsection 36 for a writ of habeas corpus to\nreview the validity of the decision to\ncommit him to prison;\n\n(iii) upon his return to the country which\nmade the requisition for his return, he\nshall be tried for the extradition offence\nin respect of which his extradition was\nrequested or he may be tried for any\nlesser offence proved by the facts on\nwhich that extradition offence was\ngrounded;\n\n(iv) upon his return to that country, he may\nalso be tried for any other extradition\noffence in respect of which the Minister\nso consents under section 10.\n\n(2) If, after the fugitive criminal has been advised in\naccordance with paragraph (1)(b), the fugitive criminal\nagain consents to the waiver, the Court shall commit the\n\n(Pt. IV, S. 22-24]\n\nEXTRADITION                                  21\n\nfugitive criminal to prison to await the warrant of the\nMinister under subsection (3).\n\n(3) The Minister may, at any time after a fugitive\ncriminal has been committed to prison, issue—\n\n(a) a temporary surrender warrant; or\n(b) a surrender warrant,\n\nas the case may be, for the return of the fugitive criminal\nto the country concerned.\n\n(4) The provisions of section 36 shall not apply to a\nfugitive criminal committed to prison under this section."
+   }
+  },
+  {
+   "id": "MY-H375-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "23. Depositions or statements on oath taken in any\ncountry and copies of such original depositions or\nstatements, and foreign certificates of or judicial\ndocuments stating the fact of a conviction may, if duly\nauthenticated, be received in evidence in proceedings\nunder this Act."
+   }
+  },
+  {
+   "id": "MY-H375-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "24. Foreign warrants and depositions or statements on\noath and copies thereof, and foreign certificates of or\njudicial documents stating the fact of a conviction, shall\nbe deemed duly authenticated for the purposes of this\nAct if authenticated in the manner provided for the time\nbeing by law or authenticated as follows:\n\n(a) if the warrant purports to be signed by a Judge,\nMagistrate or officer of the country where the\nsame was issued;\n\n(b) if the depositions or statements or the copies\nthereof purport to be certified under the hand of\na Judge, Magistrate or officer of the country\nwhere the same were taken to be the original\ndepositions or statements, or to be true copies\nthereof, as the case may require; or\n\n(c) if the certificate of or judicial document stating\nthe fact of conviction purports to be certified by\na Judge, Magistrate or officer of the country\nwhere the conviction took place;\n\nDepositions\nto be\nevidence,\n\nAuthentication\nof foreign\ndocuments.\n\n(Pt. IV-V, S. 24-27]\n\nApplication\nto Brunei\nDarussalam\nand\nSingapore.\n\nEndorsement\nof warrant\nissued in\nBrunei\nDarussalam\nor Singapore.\n\nF.M.S. Cap. 6.\n\nWarrant\nexecuted in\nBrunei\nDarussalam\nor Singapore\ndeemed to be\nvalidly\nexecuted in\nMalaysia.\n\nD2                               Act 479\n\nand if in every case the warrant, depositions, statement,\ncopies, certificates and judicial documents (as the case\nmay be) are authenticated by the oath of some witness\nor being sealed with the official seal of the Minister of\nJustice or some other Minister of State; and all courts\nin Malaysia shall take judicial notice of such official\nseal and shall admit the documents so authenticated by\nit to be received in evidence without further proof.\n\nPART V\n\nRETURN OF FUGITIVE CRIMINALS TO BRUNEI\nDARUSSALAM AND THE REPUBLIC OF SINGAPORE"
+   }
+  },
+  {
+   "id": "MY-H375-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25"
+   },
+   "chapter": {
+    "en": "PART V"
+   },
+   "heading": {},
+   "text": {
+    "en": "25. (1) This Part applies in relation to Brunei\nDarussalam and the Republic of Singapore.\n\n(2) In this Part, \"offence\" means a seizable offence\nor an offence punishable, on conviction, with\nimprisonment for a term exceeding six months under\nthe laws of Brunei Darussalam or the Republic of\nSingapore."
+   }
+  },
+  {
+   "id": "MY-H375-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26"
+   },
+   "chapter": {
+    "en": "PART V"
+   },
+   "heading": {},
+   "text": {
+    "en": "26. Where, under the provisions of any law in force in\nBrunei Darussalam or the Republic of Singapore, a\njudicial authority has issued a warrant authorising the\narrest of a person accused or convicted of an offence\nand that person is or is believed to be in Malaysia, a\nMagistrate in Malaysia may, if satisfied that the warrant\nwas duly issued in Brunei Darussalam or Singapore,\nendorse the warrant, and the warrant may then be\nexecuted on that person as if it were a warrant lawfully\nissued in Malaysia under the provisions of the Criminal\nProcedure Code."
+   }
+  },
+  {
+   "id": "MY-H375-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 27"
+   },
+   "chapter": {
+    "en": "PART V"
+   },
+   "heading": {},
+   "text": {
+    "en": "27. Where, under the provisions of any law in force in\nBrunei Darussalam or the Republic of Singapore\ncorresponding to section 26, a warrant issued by a\nMagistrate or a Magistrate's Court in Malaysia has been\nendorsed by a Magistrate in Brunei Darussalam or the\nRepublic of Singapore and executed on the person\nnamed in the warrant, the warrant shall for the purposes\nof this Act be deemed to have been as validly executed\nas if the execution had been effected in Malaysia.\n\n(Pt. V-VI, S. 28-29]\n\nEXTRADITION                                  23"
+   }
+  },
+  {
+   "id": "MY-H375-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 28"
+   },
+   "chapter": {
+    "en": "PART V"
+   },
+   "heading": {},
+   "text": {
+    "en": "28. Where a warrant has been executed in Malaysia\npursuant to section 26, the person arrested shall be\nproduced as soon as possible before a Magistrate in\nMalaysia, who shall, if satisfied that he is the person\nspecified in the warrant, direct that the arrested person\nbe transferred forthwith in custody to the appropriate\ncourt in Brunei Darussalam or the Republic of\nSingapore; and any such person shall, while in such\ncustody, be deemed for all purposes to be in lawful\ncustody:\n\nProvided that such Magistrate may, if for reasons to\nbe recorded by him he is satisfied that it is in the\ninterests of justice to do so and if the case is one in\nwhich bail may lawfully be granted, release the person\narrested on bail conditional on his appearing before the\nappropriate court in Brunei Darussalam or the Republic\nof Singapore at a time to be specified in the bond and\nbail bond.\n\nPart VI\n\nRETURN OF FUGITIVE CRIMINALS WHO ARE\nALSO PRISONERS TO STAND TRIAL"
+   }
+  },
+  {
+   "id": "MY-H375-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Section 29"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "29. (1) A requisition by any country for the return of\na fugitive criminal who is serving a sentence or\nsentences of imprisonment in respect of an offence or\noffences against a law of Malaysia, for the purpose of\na trial against him, shall be made to the Minister by a\ndiplomatic representative of the country concerned.\n\n(2) There shall be furnished with any requisition\nmade under subsection (1) particulars of the fugitive\ncriminal whose return is requested and of the facts upon\nwhich and the law under he is accused as well as\nadequate undertakings to the effect that—\n\n(a) the fugitive criminal shall be immediately\nreturned to Malaysia upon completion of his\ntrial in the country concerned; and\n\nTransfer of\npersons to\nBrunei\nDarussalam\nor Singapore.\n\nProcedure for\nreturn,\n\n(Pt. VI, S. 29-31]\n\nFugitive\ncriminal\nceases to be\nliable to serve\nthe sentence\nin Malaysia,\ntime spent in\ncustody in\nconnection\nwith issue of\ntemporary\nsurrender\nwarrant.\n\nIssue of\nwarrant by\nMinister.\n\n24                      Act 479\n(b) the country concerned shall—\n\n(i) be responsible for the custody of the\nfugitive criminal while travelling to and\nfrom, and while in, the country\nconcerned; and\n\n(ii) take all appropriate and necessary\nmeasures to ensure his safe return to\nMalaysia.\n\n(3) Notwithstanding subsection (2), the Minister may\nrequire the country concerned to give such other\nundertakings as he may specify.\n\n(4) Notwithstanding anything in any written law, the\nMinister, upon being satisfied that the requirements of\nsubsection (2) have been met, may, by order under his\nhand and seal, authorise that the fugitive criminal be\nremoved from his place of imprisonment and brought\nbefore the Sessions Court for an inquiry under section"
+   }
+  },
+  {
+   "id": "MY-H375-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Section 30"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "30. (1) Where, while the fugitive criminal is in a\ncountry pursuant to a warrant issued under paragraph\n21(2)(a), he ceases to be liable to serve the sentence or\nsentences of imprisonment in Malaysia, the Minister\nshall inform that country that the undertakings referred\nto in paragraphs 29(2)(a) and (b) are no longer required\nto be complied with.\n\n(2) Any time spent by the fugitive criminal in custody\nin connection with the warrant issued under paragraph\n21(2)(a) (including time spent in custody outside\nMalaysia) shall be counted as time served towards the\nsentence or sentences of imprisonment referred to in\nsubsection 29(1)."
+   }
+  },
+  {
+   "id": "MY-H375-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Section 31"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "31. Where—\n\n(a) a fugitive criminal is returned to a country under\na temporary surrender warrant and thereafter\nreturned to Malaysia in pursuance of the\nundertakings referred to in subsection 29(2);\nand\n\n(Pt. VI-VII, S. 31-34]\n\nEXTRADITION                                                25\n\n(b) the country concerned still seeks the return of\nthe fugitive criminal after he has served his\nsentence in Malaysia,\n\nthe Minister may, in his discretion, issue a surrender\nwarrant for the return of the fugitive criminal to that\n\ncountry.\n\nPart VII\n\nRETURN OF ACCUSED OR CONVICTED\nPERSONS TO MALAYSIA"
+   }
+  },
+  {
+   "id": "MY-H375-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Section 32"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "32. In this Part, an extraditable offence is an offence\nhowever described, including fiscal offences, which is\npunishable under the laws of Malaysia with\nimprisonment for not less than one year or with death."
+   }
+  },
+  {
+   "id": "MY-H375-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Section 33"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "33. Any person accused of or convicted of an\nextraditable offence who is returned by a country may,\nunder the warrant of arrest for his return issued in that\ncountry, be brought into Malaysia and delivered to the\nproper authority to be dealt with according to law."
+   }
+  },
+  {
+   "id": "MY-H375-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "Section 34"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "34. Whenever any person accused of or convicted of an\nextraditable offence is returned by a country, that person\nshall not, unless he has left or has had an opportunity\nof leaving Malaysia—\n\n(a) be detained or tried in Malaysia for any offence\nthat is alleged to have been committed, or was\ncommitted, prior to the return of such person,\nother than—\n\n(1) the extraditable offence in respect of\n\nwhich he is returned;\n\n(ii) any lesser offence proved by the facts on\nwhich that return was grounded; or\n(iii) any other extraditable offence in respect\nof which the country concerned consents\nto the person being so detained or tried,\nif such consent is required by that\n\ncountry;\n\nas the case may be; or\n\nExtraditable\noffences.\n\nConveyance\nof accused or\nconvicted\nperson\nreturned.\n\nAccused or\nconvicted\nerson\nreturned to\nMalaysia not\nto be tried for\nprevious\noffence or\nreturned to\nanother\ncountry.\n\n(Pt. VII-VIII, S. 34-36]\n\nPersons\ntemporarily\nreturned to\nMalaysia.\n\nApplication\nfor habeas\ncorpus.\n\n(b)"
+   }
+  },
+  {
+   "id": "MY-H375-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "Section 35"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "35. (1)\n\nAct 479\n\nbe extradited by Malaysia to another country\nfor trial or punishment for any extradition\noffence that is alleged to have been committed,\nor was committed, before the return of the\nperson to Malaysia unless, where so required by\nthe country that returned the person to Malaysia,\nthat country's consent has been obtained.\n\nWhere a person who is serving a sentence of\n\nimprisonment in respect of an offence in any country is\nreturned by that country to Malaysia, the person—\n\n(a)\n\n(b)\n\nshall, while travelling to and from, and while in\nMalaysia, be kept in custody as the Minister\norders in writing and the Minister may make\nsuch an order notwithstanding anything in any\nwritten law to the contrary; and\n\nshall not be tried in Malaysia in respect of any\noffence other than an offence proved by the\nfacts on which the return is based or any lesser\noffence proved by the facts on which that return\nwas grounded or, with the consent of the\ncountry which returned him, any other\nextraditable offence.\n\n(2) Where—\n\n(a)\n\n(b)\n\na person is held in custody in accordance with\nan order of the Minister under paragraph (1)(a);\nand\n\nthe country which returned the person informs\nMalaysia that the person has served his sentence\nof imprisonment in that country and is no longer\nrequired to be returned,\n\nthe Minister shall revoke such order.\n\nPart VIII\nHABEAS CORPUS AND REVIEW"
+   }
+  },
+  {
+   "id": "MY-H375-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "Section 36"
+   },
+   "chapter": {
+    "en": "Part VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "36. A fugitive criminal who is committed to prison\nunder this Act may apply to the High Court for a writ\nof habeas corpus in accordance with the procedure as\nF.MS.Cap.6. provided in the Criminal Procedure Code.\n\n(Pt. VIII, S. 37)\n\nEXTRADITION                                27"
+   }
+  },
+  {
+   "id": "MY-H375-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "Section 37"
+   },
+   "chapter": {
+    "en": "Part VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "37. (1) Where a fugitive criminal is ordered by the\nSessions Court to be discharged under subsection 19(4),\nthe Public Prosecutor may, at the request of the country\nseeking his return, within ten days of the making of the\norder by the Sessions Court, apply to the High Court for\na review of the order of discharge on any question of\nlaw, and on such application the High Court may so\nreview the order.\n\n(2) Where the Public Prosecutor desires to make such\nan application, he shall, at the time of the making of the\norder of discharge by the Sessions Court, give to the\nCourt notice of his intention to apply to the High Court\nfor a review of the order, and such notice shall operate\nas a stay of the order of discharge by the Sessions\nCourt—\n\n(a) until the expiration of the period of ten days,\nbeginning with the day on which the order of\ndischarge was made; or\n\n(b) if an application for a review of the order of\ndischarge is made, until the determination of the\napplication by the High Court.\n\n(3) Where the Public Prosecutor gives notice of his\nintention to apply for a review of the order of the\nSessions Court, the Court may grant, to the fugitive\ncriminal in respect of whom the order of discharge was\nmade, bail pending the determination by the High Court\nof the application.\n\n(4) Upon application for a review of the order of\ndischarge, the Sessions Court Judge shall transmit to the\nHigh Court the exhibits tendered before him, the\nevidence admitted in Court, the reasons for his decision\nand his finding on any question of law which arose\nduring the inquiry.\n\n(5) The High Court to which an application is made\nfor a review of an order of discharge may order the\nrelease on bail of the fugitive criminal on such terms\nand conditions as the Court thinks fit pending\ndetermination of the application for review.\n\nReview by\nHigh Court.\n\n(Pt. VIIL-IX, S. 37-411\n\nCountry\nincludes\ncolonies,\ndependencies,\nprotectorates,\nvessels or\naircraft.\n\nLiability of\nfugitive\ncriminal to be\narrested and\nreturned.\n\nMinister may\ndirect\ndetention of\nfugitive\ncriminal on\ntransit.\n\nAppearance\non behalf of\nthe Public\nProsecutor.\n\n28                                Act 479\n\n(6) The High Court may confirm, vary or quash the\norder or make a new order in substitution for the order\nso quashed, and any such order of the High Court shall\nbe final and conclusive.\n\nParT IX\nMISCELLANEOUS"
+   }
+  },
+  {
+   "id": "MY-H375-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "Section 38"
+   },
+   "chapter": {
+    "en": "ParT IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "38. For the purposes of this Act, every constituent part\nof a country and every colony, dependency and\nprotectorate of, and every vessel or aircraft of, that\ncountry shall be deemed to be within the jurisdiction of\nand to be part of such country."
+   }
+  },
+  {
+   "id": "MY-H375-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "Section 39"
+   },
+   "chapter": {
+    "en": "ParT IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "39. Every fugitive criminal shall, subject to the\nprovisions of this Act, be liable to be arrested and\nreturned, whether the offence in respect of which the\nreturn is sought was committed before or after the\ncommencement of this Act, and whether or not a Court\nin Malaysia has jurisdiction to try that offence."
+   }
+  },
+  {
+   "id": "MY-H375-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "Section 40"
+   },
+   "chapter": {
+    "en": "ParT IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "40. Notwithstanding anything in any written law, the\nMinister may in writing direct that a fugitive criminal\nwho is in Malaysia on transit to a country which\nrequested for his return be detained in custody for such\nperiod of time or in such place as he may determine."
+   }
+  },
+  {
+   "id": "MY-H375-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "Section 41"
+   },
+   "chapter": {
+    "en": "ParT IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "41. (1) Any barrister, advocate and solicitor or legal\nofficer in the employment of the government of any\ncountry may with the written authorisation of the Public\nProsecutor appear on his behalf in any proceedings\nunder this Act.\n\n(2) Where the Public Prosecutor has tssued a written\nauthorisation under subsection (1), the provisions in any\nwritten law pertaining to the admission of advocates and\nsolicitors and the right of advocates and solicitors to\nappear in all courts of justice in Malaysia shall not apply\nto the person named in such authorisation.\n\n(Pt. IX, S. 41-45)\n\nEXTRADITION                                29\n\n(3) The person named in the written authorisation\nshall comply with any directions that may be issued by\nor on behalf of the Public Prosecutor.\n\n(4) The power given to the Public Prosecutor to issue\na written authorisation under subsection (1) includes the\npower to revoke, cancel or suspend such written\nauthorisation."
+   }
+  },
+  {
+   "id": "MY-H375-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "Section 42"
+   },
+   "chapter": {
+    "en": "ParT IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "42. Where the offence in respect of which the return of\na fugitive criminal is sought was committed on board\nany vessel on the high seas or any aircraft while in the\nair outside Malaysia which comes into any port or\naerodrome in Malaysia, the Minister and any Magistrate\nhaving jurisdiction in such port or aerodrome may\nexercise the powers conferred by this Act."
+   }
+  },
+  {
+   "id": "MY-H375-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "Section 43"
+   },
+   "chapter": {
+    "en": "ParT IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "43. If a fugitive criminal who, in pursuance of this Act,\nhas been committed to prison to await his return to any\ncountry is not conveyed out of Malaysia within three\nmonths after such committal, or if an application for a\nwrit of habeas corpus or for a review has been made\nto the High Court, after the final determination of such\napplication by the said Court, it shall be lawful for the\nMinister, upon application made to him by or on behalf\nof the fugitive criminal, to order such fugitive criminal\nto be discharged unless sufficient cause is shown to the\ncontrary."
+   }
+  },
+  {
+   "id": "MY-H375-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "Section 44"
+   },
+   "chapter": {
+    "en": "ParT IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "44. The provisions of the Criminal Procedure Code in\nrelation to matters not covered by this Act shall apply\nin so far as they are not inconsistent with the provisions\nof this Act, and in the event of any inconsistency\nbetween the provisions of this Act and the Criminal\nProcedure Code the provisions of this Act shall prevail."
+   }
+  },
+  {
+   "id": "MY-H375-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "Section 45"
+   },
+   "chapter": {
+    "en": "ParT IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "45. (1) Everything found in the possession of a fugitive\ncriminal at the time of his arrest which may be material\nas evidence in proving the extradition offence may be\n\nJurisdiction\nas to offences\ncommitted at\nsea or in air.\n\nDischarge of\nfugitive\ncriminal if\nnot returned\nwithin three\nmonths.\n\nProvisions in\nthe Criminal\nProcedure\nCode when\napplicable,\n\nProperty\nfound on\nfugitive\n\ncriminal.\n\n(Pt. IX, S. 45-481\n\nForms.\n\nPower of\nMinister to\ndischarge any\nfugitive\ncriminal in\ncustody,\n\nSimultaneous\nrequisitions.\n\n30                               Act 479\n\ndelivered up with the fugitive criminal on his return,\nsubject to—\n\n(a) a deferment of its delivery if it is needed as\nevidence in Malaysia;\n\n(b) an undertaking for its return to Malaysia upon\nrequest;\n\n(c) the rights, if any, of third parties with respect\nthereto.\n\n(2) Everything mentioned in subsection (1) may be\ndelivered even when the extradition of the fugitive\ncriminal cannot be effected due to his death,\ndisappearance or escape subject to the conditions\nmentioned in that subsection."
+   }
+  },
+  {
+   "id": "MY-H375-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "Section 46"
+   },
+   "chapter": {
+    "en": "ParT IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "46. The Forms set out in the Schedule may be used in\nthe matters to which such Forms refer."
+   }
+  },
+  {
+   "id": "MY-H375-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "Section 47"
+   },
+   "chapter": {
+    "en": "ParT IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "47. If it appears to the Minister that by reason of—\n(a) the trivial nature of the case; or\n\n(b) the application for the return of a fugitive\ncriminal not being made in good faith or in the\ninterests of justice or being made for political\nreasons,\n\nor for any other reason, it would, having regard to all\nthe circumstances, be unjust or oppressive to return the\nfugitive criminal, he may, by order, at any time, stay\nany proceedings under this Act and direct any warrant\nissued or endorsed under this Act to be revoked and the\nperson for whose arrest the warrant has been issued to\nbe discharged."
+   }
+  },
+  {
+   "id": "MY-H375-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "Section 48"
+   },
+   "chapter": {
+    "en": "ParT IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "48. (1) If requisitions for the return of a fugitive\ncriminal are received from more than one country, the\nMinister may, having regard to the circumstances of the\ncase, return the fugitive criminal to such country as he\nthinks fit.\n\n(Pt. IX, S. 48-501\n\nEXTRADITION                                31\n\n(2) The Minister, in determining to which country the\nfugitive criminal should be returned, shall consider all\nthe circumstances of the case and in particular—\n\n(a) the relative seriousness of the offence;\n\n(b) the relative dates on which the requests were\nmade; and\n\n(c) the citizenship or other national status of the\nfugitive criminal and his ordinary residence."
+   }
+  },
+  {
+   "id": "MY-H375-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "Section 49"
+   },
+   "chapter": {
+    "en": "ParT IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "49. (1) The Minister may, in his discretion, refuse the\nsurrender or the return of a fugitive criminal if—\n\n(a) the fugitive criminal is a citizen of Malaysia; or\n\n(b) the extradition offence is one in respect of\nwhich the courts in Malaysia have jurisdiction.\n\n(2) Where extradition is refused under subsection (1),\nthe Minister shall, if courts in Malaysia have jurisdiction\nover the extradition offence, submit the case to the\nPublic Prosecutor with a view to having the fugitive\ncriminal prosecuted under the laws of Malaysia."
+   }
+  },
+  {
+   "id": "MY-H375-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "Section 50"
+   },
+   "chapter": {
+    "en": "ParT IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "50. (1) The Minister may, by order under his hand and\nseal, require a Magistrate to take evidence for the\npurpose of any extradition matter pending in any Court\nor Tribunal in any country.\n\n(2) Upon the receipt of such order, the Magistrate\nshall take the evidence of every witness appearing\nbefore him for the purpose referred to in subsection (1)\nin like manner as if such witness appeared on a\npreliminary enquiry into the case of a person accused\nof an offence triable by the High Court and shall certify\nat the foot of the depositions so taken that such evidence\nwas taken before him and shall transmit the same to the\nMinister.\n\n(3) The evidence referred to in subsection (1) may be\ntaken in the presence or absence of the accused person,\nif any, and the fact of such presence or absence shall\nbe stated in such depositions.\n\nDiscretion in\nrespect of\nreturn of\ncertain\nfugitive\ncriminals.\n\nTaking of\nevidence for\npurpose of\ncriminal\nmatters\npending in a\ncountry.\n\n(Pt. IX, S. 50-53)\n\nWitnesses to\nattend and\ngive\n\nevidence, etc.\n\nTaking of\nevidence for\npurpose of\nreturn of\nfugitive\ncriminals to\nMalaysia.\n\nRules.\n\nAct 479\n\n(4) This section shall not apply in the case of any\ncriminal matter of a political character."
+   }
+  },
+  {
+   "id": "MY-H375-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "Section 51"
+   },
+   "chapter": {
+    "en": "ParT IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "51. Any person may be compelled for the purposes of\nsection 50 to attend and give evidence and answer\nquestions and produce documents in like manner and\nsubject to the like conditions as he may be so compelled\nfor the purposes of a preliminary enquiry into the case\nof a person accused of an offence triable by the High\nCourt, and every such person shall in respect of all\nevidence and answers given by him be legally bound to\nstate the truth."
+   }
+  },
+  {
+   "id": "MY-H375-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "Section 52"
+   },
+   "chapter": {
+    "en": "ParT IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "52. (1) Where a warrant has been issued in Malaysia\nfor the apprehension of a person and he is, or is\nsuspected of being, in another country, the Minister may\nby order in writing authorise a Magistrate to take\nevidence in Malaysia for transmission to the country\nconcerned for use in any proceedings in that country for\nthe return of that person to Malaysia.\n\n(2) Upon receipt of the order, the Magistrate shall—\n\n(a) take the evidence on oath or affirmation of each\nwitness appearing before him to give evidence\nin relation to that matter;\n\n(b) cause the evidence to be reduced into writing\nand certify that the evidence was taken by him;\nand\n\n(c) cause the evidence so certified to be sent to the\nMinister.\n\n(3) The person against whom the warrant of arrest\nhas been issued under subsection (1) is not entitled to\nmake any representation or cause any representation to\nbe made in the proceeding under subsection (2)."
+   }
+  },
+  {
+   "id": "MY-H375-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "Section 53"
+   },
+   "chapter": {
+    "en": "ParT IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "53. (1) The Minister may make rules generally for\ncarrying this Act into effect, and, in particular and\nwithout prejudice to the generality of the foregoing,\nsuch rules may provide for—\n\n(a) any matter which is required to be, or may be,\nprescribed under this Act;\n\n(Pt. IX-X, S. 53-54, Sch. Form A]\n\nEXTRADITION                                33\n\n(b) the removal of fugitive criminals accused or in\ncustody under this Act and their control and\nmaintenance until such time as they are handed\nover to the persons named in the warrants as\nentitled to receive them;\n\n(c) the seizure and disposition of any property\nwhich is the subject of, or required for proof of,\nany alleged offence to which this Act applies;\n\n(d) the form and manner in which, or the channel\nthrough which, a Magistrate may be required to\nmake his report to the Minister; and\n\n(e) the removal and return of fugitive criminals who\nare also prisoners for their temporary surrender\nto a country.\n\nPART X\n\nREPEAL"
+   }
+  },
+  {
+   "id": "MY-H375-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "Section 54"
+   },
+   "chapter": {
+    "en": "PART X"
+   },
+   "heading": {},
+   "text": {
+    "en": "54. The Extradition Ordinance, 1958 and the Common- Repeal.\n\na      Aha                         Ord. 2/1958.\nwealth Fugitive Criminals Act, 1967 are hereby 2/228\n\nrepealed.                                                                                       2,\n\nSCHEDULE\n(Section 46)\n\nForm A\n(Section 3)\n\nSPECIAL DIRECTION OF THE MINISTER\n\nWHEREAS a ccnceermerrnsereneeres has made a request for the\neXtradition thereto Of..................... ee aaa\nPES accused/convicted\" of the commission of the offence of\n\nSRE San Yah eC Ts See om a within the jurisdiction of\n\nPere rrrrrrreerrrerrrrrirrirr irr itt rrr Serer r rer rrr TT\n\n(Form A-B]\n\n34                                 Act 479\n\nNOW, THEREFORE, in the exercise of the powers conferred upon\nme by virtue of section 3 of the Extradition Act 1992, 1...........\nPRA PERAIthe Minister of Home Affairs, do\nhereby direct that the provisions of the said Act be applied in\nrelation to the extradition of that particular fugitive criminal,\nNAN ea a as if there is in force in respect\nDE ee eee eean order made under section 2 of\n\nthe said Act.\n\nGiven under the hand and seal of the undersigned Minister\nPES geen day Of acsmsangenigem tans 19......\n(L.S.)\n\nTPeEr errr rere errr aaa\n\nMinister\n\n* Delete whichever is not applicable.\n\nForm B\n(Section 12)\nORDER OF THE MINISTER TO A MAGISTRATE\n\nTO sua ceaventond ge invested a, a Magistrate of the First Class\n\nWHEREAS a requisition has been made to me, under section 12\n\nof the Extradition: Act 1992 by... , the Diplomatic\nRepresentative Of................ meme. for the return of\nena A RAN , Of ........................accused/convicted\" of the\ncommission of the offence Of csccsssccciceressccsecssssecossssssassvescncnesoces within\nthe jurisdiction Of...........ccscssssesapsesserseees\n\nNow, THEREFORE, I hereby by this Order under my hand and seal\nsignify to you that such requisition had been made and require you\nto issue your warrant for the apprehension of such fugitive,\nprovided that the conditions of the Extradition Act 1992 relating\nto the issue of such warrant are, in your judgement, complied with.\n\nGiven under the hand and seal of the undersigned Minister\nTHIS sacs day Of. naa, 19...\n\nPena\n\nMinister\n\n* Delete whichever is not applicable.\n\n(Form C-D]\n\nEXTRADITION                                35\n\nForm C\n(Section 13(1)(a))\n\nWARRANT OF APPREHENSION BY ORDER OF THE\nMINISTER\n\nTo the Inspector-General of the Royal Malaysia Police and all other\npolice officers in Malaysia\n\nWuereas the Minister has by Order under his hand and seal\nsignified to me that requisition has been duly made to him for the\nSTETSNOGT MPN eaPe ang\naccused/convicted* of the commission of the offence of................\nA eee within ‘the: Jum sdI AO AO... 4. nn anta na\n\nThis is therefore to command you forthwith to apprehend the\nSad a.pursuant to the Extradition Act 1992 wherever\nhe may be found in Malaysia and to bring him before me or some\nother Magistrate of the First Class to be further dealt with in\naccordance with the provisions of the said Act, for which this shall\nbe your warrant.\n\nGiven under my hand and seal at................. ea.\nthis sa... dayak AAA Ossie\n(L.S.)\n\nMagistrate of the First Class\n\n* Delete whichever is not applicable.\n\nForm D\n(Section 13(1)(b))\n\nWARRANT OF A?®PREHENSION WITHOUT\nORDER OF THE MINISTER\n\nTo the Inspector-General of the Royal Malaysia Police and all other\npolice officers in Malaysia\n\nWuereas it has been shown to the undersigned, a Magistrate of\nthe First Class, that.................... an| eee a a ta ce: Ne\naccused/convicted* of the commission of the offence of...............\nD aieWithin the jurisdiction Of .................. ee.\n\n(Form D-E]\n\n36                       Act 479\nThis is therefore to command you forthwith to apprehend the\nsad anpursuant to the Extradition Act 1992, wherever he\n\nmay be found in Malaysia, and to bring him before me or some\nother Magistrate of the First Class to be further dealt with in\naccordance with the provisions of the said Act, for which this shall\n\nbe your warrant.\n\nGiven; under ny hand and Seal, at nn a ann ins niii\niis. si daysok sana. 19\n(L.S.)\n\nana\n\nMagistrate of the First Class\n\n* Delete whichever is not applicable.\n\nForm E\n(Section 19)\n\nWARRANT OF COMMITTAL\n\nWuereas on this .........DAO LA enny\nea niOf........ aaa... 1S brought before me, a\n\nSessions Court Judge, in pursuance of a requisition made by the\nGOVERNMENT GF vicicscscracceressindsbersvnsnanesesnsesereocserzene , on the ground of\nhis being accused/convicted\" of the commission of the offence of\nPENA a aa within the jurisdiction of\n\nEma\n\nAND WHEREAS a prima facie case has been made out in support\nof the requisition made by the Government Of ...............................\n\nINOW \"PHAR BP ORE aa A , the undersigned, do\n\ncommand you, the said Police Officer, forthwith to convey and\ninto the custody of the\n\ndeliver the SAIC ......s.rsesssrsssessssscssasseeearsesensens\nOfficer in Charge of the Prison at.............................. and you, the\nsaid Officer in Charge of the Prison, to receive the said.............\n\nPe a eens'into custody and to keep him there safely until\nhe is delivered pursuant to the provisions of the Extradition Act\n1992, for which this shall be your warrant.\n\nGiven under my hand and seal al................................eeeesa..\nthis ss. a a a a 19...\n(L.S.)\n\n— Aa\n\nSessions Court Judge\n\n* Delete whichever is not applicable.\n\n(Form F]\n\n_ EXTRADITION                                 37\n\nForm F\n(Section 20)\n\nWARRANT OF COMMITTAL\n\nTona (Police Officer) and to the Officer in\nCharpa GE fhe. Person a A nn na Lan AA\n\nWHEREAS on this .........oh A) a ee 19.\nLe) ani. Of...................1s brought before me, ....................A\nSessions Court Judge, in pursuance of a request for his extradition\nmade by the Government Of......................... aa.on the\nground of his being accused/convicted* of the commission of the\nDR TARwithin the jurisdiction of\n\nAnD WHEREAS I am satisfied after hearing representations\nmade in support of the extradition request that the offence\nA aaBani ini ra is an extradition offence.\n\nNow, THEREFORE, I certify that the conduct which constitutes the\nOMENGS OF a titlesdoes constitute the offence\nGE cistinls tatiana renin nceninsn uate against the law of Malaysia.\n\nAND, THEREFORE, I command you, the said Police Officer, forthwith\n\nto CONVEY and deliver the SAID ...ccccorcsesccsecrseessssccconssssssseceersns into the\ncustody of the Officer in Charge of the Prison at..........................\nand you, the said Officer in Charge of the Prison, to receive the\nSe A A A into custody\n\nand to keep him there safely until he is delivered pursuant to the\nprovisions of the Extradition Act 1992, for which this shall be your\nwarrant.\n\nGiven under. my hand and seal at................ esei.\nTHIS. an; day. Of segan ns, 19...\n(L.S.)\n\n—— Aa\n\nSessions Court Judge\nDn naaa a SN Sanana anna Sa ABEEBBAAAAAaAAA\n* Delete whichever is not applicable.\n\n[Form G-H]\n\n38                            Act 479\n\nForm G\n(Sections 21, and 22(3))\n\nWARRANT/TEMPORARY SURRENDER\nWARRANT OF THE MINISTER FOR\nRETURN OF FUGITIVE CRIMINAL\n\nTo the Officer in Charge of the Prison at................................. and\nPI cesta A a ena (Police Officer)\n\nWHEREAS a requisition had been made to me under section 12/\n29* of the Extradition Act 1992 by ...................... , the Diplomatic\nRepreséntativer0f SAKA connaaaiercinaninen caidafor the\nreturn/temporary return\" Of .................................. accused/convicted*\nof the commission of the offence of....................................... within\nthe jurisdiction Of..................... a...\n\nAND, WHERBAS nii naa was delivered into the custody\nof the Officer in Charge of the Prison at .................. maaa.\nby warrant dated .................pursuant to the Extradition Act 1992.\n\nNow, THEREFORE, I do hereby, in pursuance of the said\nAct, order you, the said Officer in Charge of the Prison, to deliver\nerssad. reas dots tha phates tah i wchscatdebnnenseenave into the custody of the said\nMANA a Aa and I command you, the said\nEo Ae celtic otic , to receive the said.............................into\nyour custody and to convey him 10 ....................... and there\nplace him, in;the cUstody Of... pesara aran who in my\nopinion has been duly appointed by the authorities of...................\nto receive him, for which this shall be your warrant.\n\nGiven under the hand and seal of the undersigned Minister\n\nPererrererrererivrrrrrrrrrittiti itr t rr trite rrr ett Tite\n\nMinister\n\n* Delete whichever is not applicable.\n\nForm H\n(Section 22(2))\n\nWARRANT OF COMMITTAL WHERE\nFUGITIVE CRIMINAL CONSENTS TO WAIVER OF\nTHE COMMITTAL PROCEEDINGS\n\n(Form H-I]\n\nEXTRADITION                                   39\n\nWHEREAS on this ..........day Da eee ee Pera\nDE AAis brought before me, a Sessions Court\nJudge, in pursuance of a requisition made by the Government of\n\nPera naaa nana Sensaon the ground of his being\naccused/convicted\" of the commission of the offence of\n\nAND SUI a an Bn A rai , after having been\nadvised in accordance with the provisions of section 22(1)(b) of the\nExtradition Act 1992, consents to the waiver of the committal\nproceedings.\n\nThis is, therefore, to command you, the said Police Officer,\n\nforthwith to convey and deliver the said ................ccssssssssssseees into\nthe custody of the Officer in Charge of the Prison at...................\nea aand you, the said Officer in\nCharge of the Prison, to receive the said ................................... into\n\ncustody and to keep him there safely until he is delivered pursuant\nto the provisions of the said Act, for which this shall be your\nwarrant.\n\nGiven under my hand and seal aat................. aa.\nCDNB: creas days Oh naaa 19......\n\naaa\n\nMagistrate of the First Class\n\n* Delete whichever is not applicable.\n\nForm I\n(Section 29(4))\n\nORDER OF THE MINISTER TO PRODUCE\nFUGITIVE CRIMINAL\n\nPree eC eCeCreeririi rrr err rr rrr irirrresy\n\nWHERBAS Ar A was convicted by the...................\nConD aBAY GE aaa 19......for\nthe commission of the offence of................................... and is now\nserving: a Sentence Of anna. Lana UnaPrison\n\nAND WHEREAS a requisition has been made to me, under section\n\n29 of the Extradition Act 1992, by ...................... , the Diplomatic\nRepresentative. Of ai... nn nanfor the temporary return of\nPenan ASKER A A An a ancesSa Se ilies\naccused/convicted\" of the commission of the offence of...............\n\n(Form I-J)\n\n40 |                   Act 479\nNow, THEREFORE, I by this Order under my hand and seal require\nYOU tO 'producerthe Anna A atan naibefore the\n\nnaaa\n\nsection 19 of the Act.\n\nGiven under the hand and seal of the undersigned Minister\nthis ....... day Ofis L97\n\nMinister\n\n* Delete whichever is not applicable.\n\nForm J\n(Section 31(1))\n\nWARRANT OF THE MINISTER\nFOR RETURN OF FUGITIVE\n\nTo the Officer in Charge of the Prison at...\nPVE a OS EN EA A AT A ee oe roe (Police Officer)\nLET See cae ae a An naaa a ee ee ae\n\n| convicted of the commission of the offence of................................\nWithin the jurisdiction Of.......................... and sentenced to\n\nwas returned vide a temporary surrender\nof the Extradition Act 1992,\n\nea\n\nWAITANE under sSectiODw nn ii.\nGE AN ea\n\nAND WHERBAS D a aan a was returned by\nER a A imate to Malaysia on ................\nday \"Of an ase naa 19.in pursuance of an undertaking\nPIVEN by. sana Kaunder section 29(2) of the said Act.\n\nAND WHEREAS the term of imprisonment oOf................................ in\nMalaysia is tO OXPITE OM ........ssccscresesssssscnscecssesneneeneessensenseneoocessday of\nere soe fre recente enenis rr A a A\nstill seeks his return 0R aaa ea\n\nNow, THEREFORE, I do hereby, in pursuance of the said Act, order\nyou, the said Officer in Charge of the Prison, to deliver the said\nSOE GR awinto the custody of the said.............................\nONE aaGAY IT AAA an 19..., and I command you,\nberada eae=3tO recelVe the sad D ann.\n\ninto your custody and to CONVEY him to .......................... ee...\nand there place him in the custody of any person or persons\nto receive\n\nhim, for which this shall be your warrant.\n\n(Form J-L]\n\nEXTRADITION                41\nGiven under the hand and seal of the undersigned Minister\nthis ....:; day (OL... nan san. 19, sere\n(L.S.)\n\nSeem enna een ee eee eeeerereeeenerareeeseeeeessseesesenssene\n\nMinister\n* Delete whichever is not applicable.\nForm K\n(Section 41)\n\nAUTHORISATION TO APPEAR ON\nBEHALF OF THE PUBLIC PROSECUTOR\n\nBe A Sebesar aan ana Si Le kan has made a request for\nthe extradition thereto Of............. meanAa A\naccused/convicted\" of the commission of the offence of................\nSe ee eeeON... maaa Within the\nJUPISCICHION ' OF Sin Aa dn ai\n\nNow, THEREFORE, in exercise of the powers conferred upon me\nby virtue of section 41 of the Extradition Act 1992, I,................\nesau envin tines L REASONS the Public Prosecutor, do hereby\nGUTORIGG Sana to appear on my behalf\nTen ann (proceeding under this Act) for\n\n————— A\n\nPublic Prosecutor\n\n* Delete whichever is not applicable.\n\nForm L\n(Section 50)\n\nORDER OF THE MINISTER REQUIRING THE\nTAKING OF EVIDENCE\n\nTO sisemninnicadh ich AAA , a Magistrate of the First Class.\n\n(Form L-M]\n\n42                       Act 479\n\n‘WHEREAS a request has been made by ................ wei that\nevidence be taken in Malaysia for the purpose of..........................\n\nNOW, THEREFORE, in exercise of the powers conferred upon me\nby virtue of section 50 of the Extradition Act 1992, I,...............\nfoc aus area naa , the Minister of Home Affairs, by\nthis Order require you to take the above-mentioned evidence in\naccordance with the said section of the said Act.\n\nGiven under the hand and seal of the undersigned Minister\nthis ....... day Of...............aini. jhe ae\n(L.S.)\n\nPPOTTTITIE TTT\n\nMinister\n\nForm M\n(Section 52)\n\nORDER OF THE MINISTER AUTHORISING\nTHE TAKING OF EVIDENCE\n\nTes SA Aan A , a Magistrate of the First Class\n\nWHEREAS a warrant has been issued in Malaysia for the\n\nAPPTEHESNSION: OF sssssapscassissovsenspssecsyoceserseeeseaccused/convicted\" of the\nCommission Of the offence oOf................................\nAND WHEREAS the Said.................. emas. is Or is suspected\n\nof being within the Jurisdiction Of................. maa\n\nNow, THEREFORE, in exercise of the powers conferred upon me\nby virtue of section 52 of the Extradition Act 1992, 1................\na a tle the Minister of Home Affairs, by this\nOrder authorise you to take in accordance with the said section\nsuch evidence in Malaysia as is produced to you for transmission\nOA AANS A afor use in any proceedings in\nPan for the extradition of that person to Malaysia.\n\nGiven under the hand and seal of the undersigned Minister\nihsan day Gina 19:\n(L.S.)\n\nPER\n\nMinister\n\n* Delete whichever is not applicable.\n\nDICETAK OLEH GHAZALI BIN JANI, J.S.D., K.MN., A.M.P., P.P.T.,\nKETUA PENGARAH PERCETAKAN NEGARA, MALAYSIA\nDENGAN PERINTAH PADA 20x85 FEBRUARI 1992\n\nHarga: $4.00"
+   }
+  }
+ ]
+}

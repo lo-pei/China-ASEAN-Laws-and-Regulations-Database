@@ -1,0 +1,518 @@
+{
+ "id": "VN-H344",
+ "title": {
+  "zh": "特别消费税法",
+  "en": "Law No. 270B-NQ/HĐNN8 on special consumption tax",
+  "vi": "Luật Thuế Tiêu thụ đặc biệt số 270B-NQ/HĐNN8",
+  "orig": "Luật Thuế Tiêu thụ đặc biệt số 270B-NQ/HĐNN8",
+  "th": "พระราชบัญญัติภาษีสรรพสามิต เลขที่ 270B-NQ/HĐNN8",
+  "id": "Undang-Undang Pajak Barang Mewah No. 270B-NQ/HĐNN8",
+  "ms": "Akta Cukai Barang Mewah No. 270B-NQ/HĐNN8"
+ },
+ "country": "VN",
+ "countryName": "越南",
+ "layer": "intl",
+ "pack": "vn-p06",
+ "language": "vi",
+ "level": "law",
+ "category": "02_民商事与经济法",
+ "status": "active",
+ "promulgatedDate": "1990",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "国会",
+ "docNumber": "270B-NQ/HĐNN8",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 34,
+ "chars": 16711,
+ "source": {
+  "name": "越南法律数据库（vbpl.vn 官方公报文本）",
+  "url": "https://vbpl.vn/van-ban/chi-tiet/luat-thue-tieu-thu-dac-biet-so-270b-nq-hdnn8--2062"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\VN\\02_民商事与经济法\\1990_270B-NQ HĐNN8_Luật Thuế Tiêu thụ đặc biệt số 270B-NQ HĐNN8.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 34 条；逐字未改写（源自 VN）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "VN-H344-A1",
+   "no": 1,
+   "noLabel": {
+    "vi": "Điều 1"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 1\n\nTổ chức, cá nhân thuộc các thành phần kinh tế sản xuất mặt hàng quy định tại Điều 9 của Luật này đều phải nộp thuế tiêu thụ đặc biệt."
+   }
+  },
+  {
+   "id": "VN-H344-A2",
+   "no": 2,
+   "noLabel": {
+    "vi": "Điều 2"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 2\n\nMỗi mặt hàng thuộc diện chịu thuế tiêu thụ đặc biệt chỉ phải chịu thuế tiêu thụ đặc biệt một lần.\n\nCơ sở sản xuất mặt hàng thuộc diện chịu thuế tiêu thụ đặc biệt khi bán ra những mặt hàng này, chỉ nộp thuế tiêu thụ đặc biệt mà không phải nộp thuế doanh thu.\n\nHàng thuộc diện chịu thuế tiêu thụ đặc biệt được khấu trừ thuế tiêu thụ đặc biệt đã nộp ở khâu trước, khi tính thuế tiêu thụ đặc biệt ở khâu sản xuất, chế biến sau, nếu có chứng từ hợp lệ.\n\nHàng thuộc diện chịu thuế tiêu thụ đặc biệt dùng để xuất khẩu, thì không phải nộp thuế tiêu thụ đặc biệt."
+   }
+  },
+  {
+   "id": "VN-H344-A3",
+   "no": 3,
+   "noLabel": {
+    "vi": "Điều 3"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 3\n\nCơ sở sản xuất mặt hàng thuộc diện chịu thuế tiêu thụ đặc biệt có nghĩa vụ khai báo, nộp thuế đầy đủ theo đúng quy định của Luật thuế tiêu thụ đặc biệt."
+   }
+  },
+  {
+   "id": "VN-H344-A4",
+   "no": 4,
+   "noLabel": {
+    "vi": "Điều 4"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 4\n\nNghiêm cấm mọi hành vi trốn thuế, dây dưa trong việc nộp thuế và các hành vi khác vi phạm những quy định của Luật này."
+   }
+  },
+  {
+   "id": "VN-H344-A5",
+   "no": 5,
+   "noLabel": {
+    "vi": "Điều 5"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 5\n\nCác cơ quan Nhà nước, tổ chức xã hội, đơn vi lực lượng vũ trang và mọi công dân có trách nhiệm giúp đỡ cơ quan thuế, cán bộ thuế trong việc thi hành nhiệm vụ.\n\nCHƯƠNG II\n\nCĂN CỨ TÍNH THUẾ VÀ BIỂU THUẾ TIÊU THỤ ĐẶC BIỆT"
+   }
+  },
+  {
+   "id": "VN-H344-A6",
+   "no": 6,
+   "noLabel": {
+    "vi": "Điều 6"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 6\n\nCăn cứ tính thuế đối với hàng chịu thuế tiêu thụ đặc biệt là số lượng hàng hoá tiêu thụ, giá tính thuế đơn vị hàng hoá và thuế suất."
+   }
+  },
+  {
+   "id": "VN-H344-A7",
+   "no": 7,
+   "noLabel": {
+    "vi": "Điều 7"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 7\n\nGiá tính thuế của mặt hàng chịu thuế tiêu thụ đặc biệt là giá do cơ sở sản xuất mặt hàng đó bán ra."
+   }
+  },
+  {
+   "id": "VN-H344-A8",
+   "no": 8,
+   "noLabel": {
+    "vi": "Điều 8"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 8\n\nTrong trường hợp trao đổi hàng hoá hoặc cung ứng hàng hoá của cơ sở sản xuất cho nhu cầu tiêu dùng trong nội bộ hoặc biếu, tặng người khác, thì số hàng hoá đó phải được tính thành tiền theo giá thị trường tại thời điểm phát sinh để làm căn cứ tính thuế tiêu thụ đặc biệt."
+   }
+  },
+  {
+   "id": "VN-H344-A9",
+   "no": 9,
+   "noLabel": {
+    "vi": "Điều 9"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 9\n\nMặt hàng chịu thuế tiêu thụ đặc biệt và thuế suất được quy định theo Biểu thuế sau đây:\n\nSố TT\n\nMặt hàng\n\nThuế suất %\n\n1\n\nThuốc hút\n\na) Thuốc lá lá, thuốc lá sợi\n\n20\n\nb) Thuốc lá điều:\n\n+ Có đầu lọc\n\n50\n\n+ Không có đầu lọc, xì gà\n\n40\n\n2\n\nRượu các loại:\n\n+ Trên 40o\n\n65\n\n+ Từ 30o đến 40o\n\n60\n\n+ Dưới 30o\n\n55\n\n3\n\nBia các loại\n\n50\n\n4\n\nPháo\n\n70\n\n5\n\nBài lá\n\n70\n\n6\n\nVàng mã\n\n70\n\nTrong trường hợp cần thiết, Hội đồng Nhà nước có thể quyết định sửa đổi, bổ sung một số mặt hàng, thuế suất quy định trong Biểu thuế tiêu thụ đặc biệt và phải báo cáo để Quốc hội phê chuẩn trong kỳ họp gần nhất.\n\nCHƯƠNG III\n\nĐĂNG KÝ, KÊ KHAI NỘP THUẾ VÀ VẬN CHUYỂN HÀNG HOÁ"
+   }
+  },
+  {
+   "id": "VN-H344-A10",
+   "no": 10,
+   "noLabel": {
+    "vi": "Điều 10"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 10\n\nCơ sở sản xuất mặt hàng thuộc diện chịu thuế tiêu thụ đặc biệt có trách nhiệm:\n\n1- Kê khai, đăng ký với cơ quan thuế về vốn, lao động, mặt hàng, địa điểm sản xuất kinh doanh chậm nhất là năm ngày, trước khi bắt đầu hoạt động hoặc sáp nhập, phân chia, thay đổi địa điểm; trong trường hợp giải thể hoặc thay đổi kinh doanh cũng phải khai báo với cơ quan thuế chậm nhất là năm ngày trước khi giải thể hoặc thay đổi kinh doanh;\n\n2- Chấp hành nghiêm chỉnh chế độ sổ sách kế toán, chứng từ, hoá đơn theo quy định của Nhà nước cho từng loại đối tượng;\n\n3- Kê khai các mẫu biểu có liên quan đến thuế tiêu thụ đặc biệt theo chế độ do Bộ tài chính quy định;\n\n4- Cung cấp tài liệu cần thiết theo yêu cầu của cơ quan thuế trong việc kiểm tra sổ sách kế toán, chứng từ, hoá đơn, kho nguyên liệu, hàng hoá, xưởng sản xuất, chế biến, cửa hàng;\n\n5- Nộp thuế đầy đủ, đúng thời hạn."
+   }
+  },
+  {
+   "id": "VN-H344-A11",
+   "no": 11,
+   "noLabel": {
+    "vi": "Điều 11"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 11\n\nCơ sở sản xuất mặt hàng thuộc diện chịu thuế tiêu thụ đặc biệt có nghĩa vụ:\n\n- Nộp tờ khai thuế tiêu thụ đặc biệt của tháng trước cho cơ quan thuế trong thời hạn năm ngày đầu tháng sau, kể cả trường hợp không có phát sinh thuế tiêu thụ đặc biệt;\n\n- Nộp đủ số thuế tiêu thụ đặc biệt sau khi trừ số thuế đã tạm nộp trong tháng, khấu trừ thuế tiêu thụ đặc biệt đã nộp ở khâu trước nếu có, theo thời hạn quy định của cơ quan thuế. Thời hạn quy định này chậm nhất không được quá ngày mười lăm tháng sau."
+   }
+  },
+  {
+   "id": "VN-H344-A12",
+   "no": 12,
+   "noLabel": {
+    "vi": "Điều 12"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 12\n\nCơ sở sản xuất mặt hàng thuộc diện chịu thuế tiêu thụ đặc biệt có dùng nhãn hiệu phải khai báo mẫu nhãn hiệu, với cơ quan trực tiếp thu thuế. Khi thay đổi nhãn hiệu phải khai báo lại. Thời hạn khai báo chậm nhất là năm ngày trước khi sử dụng nhãn hiệu hoặc thay đổi nhãn hiệu."
+   }
+  },
+  {
+   "id": "VN-H344-A13",
+   "no": 13,
+   "noLabel": {
+    "vi": "Điều 13"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 13\n\nCơ sở sản xuất mặt hàng thuộc diện chịu thuế tiêu thụ đặc biệt ngừng hoạt động từ một tháng trở lên phải khai báo về việc ngừng hoạt động và số hàng tồn kho với cơ quan trực tiếp thu thuế; khi hoạt động trở lại phải khai báo lại. Thời hạn khai báo chậm nhất là năm ngày, trước khi ngừng hoạt động hoặc hoạt động trở lại."
+   }
+  },
+  {
+   "id": "VN-H344-A14",
+   "no": 14,
+   "noLabel": {
+    "vi": "Điều 14"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 14\n\nĐối với hàng công nghiệp thuộc diện chịu thuế tiêu thụ đặc biệt, thuế tiêu thụ đặc biệt do cơ sở sản xuất nộp khi bán hàng hoặc trả hàng gia công.\n\nĐối với thuốc lá lá, thuốc lá sợi, thuế tiêu thụ đặc biệt do người thu mua nộp tại địa phương thu mua, trước khi vận chuyển hàng."
+   }
+  },
+  {
+   "id": "VN-H344-A15",
+   "no": 15,
+   "noLabel": {
+    "vi": "Điều 15"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 15\n\nViệc nộp thuế tiêu thụ đặc biệt được quy định như sau:\n\n1- Cơ sở nhỏ được khoán số lượng hàng hoá tiêu thụ và nộp thuế theo định kỳ hàng tháng vào ngày 10, ngày 20 và ngày cuối tháng;\n\n2- Cơ sở lớn nộp thuế mỗi khi bán hàng hoặc trả hàng gia công. Cơ quan thuế cử cán bộ theo dõi thường xuyên tại các cơ sở này."
+   }
+  },
+  {
+   "id": "VN-H344-A16",
+   "no": 16,
+   "noLabel": {
+    "vi": "Điều 16"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 16\n\nHàng hoá thuộc diện chịu thuế tiêu thụ đặc biệt khi vận chuyển phải có chứng từ hợp lệ kèm theo. Chứng từ về thuế tiêu thụ đặc biệt bao gồm:\n\n1- Chứng từ nộp thuế:\n\na) Biên lai thu thuế hoặc chứng từ nộp thuế của cơ quan thuế;\n\nb) Giấy chuyển vận được cơ quan thuế cấp hoặc hoá đơn của xí nghiệp quốc doanh đã được đăng ký tại cơ quan thu thuế;\n\n2- Giấy chuyển kho chưa nộp thuế tiêu thụ đặc biệt là chứng từ do cơ quan trực tiếp thu thuế cấp cho số hàng hoá khi chuyển kho sang địa điểm khác."
+   }
+  },
+  {
+   "id": "VN-H344-A17",
+   "no": 17,
+   "noLabel": {
+    "vi": "Điều 17"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 17\n\nCơ quan thuế có nhiệm vụ, quyền hạn sau đây:\n\n1- Hướng dẫn, giúp đỡ, đôn đốc cơ sở kinh doanh thực hiện nghiêm chỉnh chế độ sổ sách kế toán, chứng từ, hoá đơn và thủ tục kê khai, nộp thuế tiêu thụ đặc biệt;\n\n2- Kiểm tra sổ sách kế toán, chứng từ, hoá đơn, kho nguyên liệu, hàng hoá, xưởng sản xuất, chế biến, cửa hàng, phương tiện vận tải có liên quan đến thuế tiêu thụ đặc biệt;\n\n3- Trong trường hợp cần thiết, yêu cầu mọi tổ chức, cá nhân cung cấp các tài liệu có liên quan đến việc tính thuế, nộp thuế tiêu thụ đặc biệt;\n\n4- Tính thuế, lập sổ thuế, duyệt sổ thuế, và thông báo số thuế tiêu thụ đặc biệt phải nộp vào kho bạc Nhà nước, cấp giấy vận chuyển hàng hoá; khi thu thuế, cơ quan thu thuế phải cấp biên lai nộp thuế do Bộ tài chính phát hành;\n\n5- Lập biên bản và xử phạt hành chính theo thẩm quyền hoặc đề nghị truy cứu trách nhiệm hình sự đối với các vi phạm Luật thuế tiêu thụ đặc biệt;\n\n6- Xem xét, giải quyết khiếu nại, tố cáo về thuế tiêu thụ đặc biệt."
+   }
+  },
+  {
+   "id": "VN-H344-A18",
+   "no": 18,
+   "noLabel": {
+    "vi": "Điều 18"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 18\n\nCơ quan thuế có quyền ấn định số lượng hàng hoá tiêu thụ, giá tính thuế đơn vị hàng hoá cho cơ sở sản xuất trong các trường hợp:\n\n1- Không kê khai đăng ký với cơ quan thuế hoặc kê khai không đúng quy định về những điểm có liên quan đến việc xác định số lượng hàng hoá tiêu thụ, giá tính thuế đơn vị hàng hoá;\n\n2- Không nộp tờ khai hoặc nộp tờ khai không đúng thời hạn về số lượng hàng hoá tiêu thụ hàng tháng và giá bán hàng hoá;\n\n3- Không thực hiện nghiêm chỉnh chế độ sổ sách kế toán, chứng từ, hoá đơn;\n\n4- Từ chối việc xuất trình sổ sách kế toán, chứng từ, hoá đơn theo yêu cầu của cơ quan thuế hoặc không cung cấp đủ tài liệu cần thiết có liên quan đến việc xác định số lượng hàng hoá tiêu thụ, giá tính thuế đơn vị hàng hoá.\n\nCơ quan thuế căn cứ vào tài liệu điều tra để ấn định số thuế phải nộp.\n\nTrong trường hợp cơ sở sản xuất không đồng ý với số thuế được ấn định, thì có quyền khiếu nại lên cơ quan thuế cấp trên trực tiếp của cơ quan thuế ấn định số thuế đó. Trong khi chờ giải quyết, người khiếu nại vẫn phải nộp số thuế đã ấn định.\n\nCHƯƠNG IV\n\nGIẢM THUẾ, MIẾN THUẾ TIÊU THỤ ĐẶC BIỆT"
+   }
+  },
+  {
+   "id": "VN-H344-A19",
+   "no": 19,
+   "noLabel": {
+    "vi": "Điều 19"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 19\n\nCơ sở sản xuất mặt hàng thuộc diện chịu thuế tiêu thụ đặc biệt gặp khó khăn do thiên tai, địch hoạ, tai nạn bất ngờ được giảm thuế, miễn thuế theo tỷ lệ thiệt hại.\n\nBộ trưởng Bộ tài chính quyết định việc giảm thuế, miễn thuế cho từng trường hợp cụ thể.\n\nCHƯƠNG V\n\nXỬ LÝ VI PHẠM VÀ KHEN THƯỞNG"
+   }
+  },
+  {
+   "id": "VN-H344-A20",
+   "no": 20,
+   "noLabel": {
+    "vi": "Điều 20"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 20\n\n1- Việc xử lý các vi phạm Luật thuế tiêu thụ đặc biệt được quy định như sau:\n\na) Tổ chức, cá nhân không làm đúng những quy định về thủ tục đăng ký, kê khai, lập sổ sách kế toán và giữ chứng từ, hoá đơn nói tại Điều 10, Điều 11 và Điều 12 của Luật này thì tuỳ theo mức độ nhẹ hoặc nặng mà bị cảnh cáo hoặc phạt tiền đến năm trăm nghìn đồng;\n\nb) Tổ chức, cá nhân sản xuất, chế biến, thu mua, buôn bán trốn thuế, vận chuyển hàng không có chứng từ hợp lệ kèm theo, thì ngoài việc phải nộp đủ số thuế tiêu thụ đặc biệt theo quy định của Luật này, còn bị phạt tiền từ một đến ba lần số thuế gian lậu:\n\n- Vi phạm lần thứ nhất: phạt một lần;\n\n- Vi phạm lần thứ hai: phạt hai lần;\n\n- Vi phạm lần thứ ba trở lên: phạt ba lần;\n\nTrong trường hợp vi phạm có tình tiết nặng thì lần vi phạm thứ nhất cũng có thể bị phạt từ hai đến ba lần số thuế gian lậu;\n\nc) Tổ chức, cá nhân chậm nộp tiền thuế hoặc tiền phạt ghi trong lệnh thu thuế hoặc quyết định xử phạt, thì ngoài việc phải nộp đủ số tiền thuế hoặc tiền phạt theo quy định của Luật này, mỗi ngày chậm nộp còn bị phạt 0,5%, (năm phần nghìn) trên số tiền nộp chậm;\n\nd) Tổ chức, cá nhân dây dưa nộp thuế, nộp phạt thì bị xử lý như sau:\n\n- Trích tiền của cơ sở có tại Ngân hàng để nộp thuế, nộp phạt. Ngân hàng có trách nhiệm thực hiện chế độ ưu tiên trích tiền của cơ sở gửi tại Ngân hàng để nộp thuế, nộp phạt vào ngân sách Nhà nước theo lệnh thu và quyết định xử lý của cơ quan thuế;\n\n- Tạm giữ hàng hoá, tang vật để bảo đảm thu đủ tiền thuế, tiền phạt;\n\n- Kê biên tài sản theo quy định của pháp luật để bảo đảm tiền thuế, tiền phạt còn thiếu.\n\n2- Cá nhân trốn thuế với số lượng lớn, hoặc đã bị xử lý hành chính theo các điểm a, b, c, d, khoản 1, Điều này mà còn vi phạm hoặc trốn thuế với số lượng rất lớn, hoặc phạm tội trong các trường hợp nghiêm trọng khác, thì bị truy cứu trách nhiệm hình sự theo quy định tại Điều 169 của Bộ luật hình sự."
+   }
+  },
+  {
+   "id": "VN-H344-A21",
+   "no": 21,
+   "noLabel": {
+    "vi": "Điều 21"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 21\n\nThẩm quyền xử lý các vi phạm nói tại khoản 1, Điều 20 của Luật này được quy định như sau:\n\n1- Đối với vi phạm nói tại điểm a:\n\na) Trưởng trạm thuế được phạt tiền đến năm mươi nghìn đồng;\n\nb) Thủ trưởng cơ quan thuế huyện, quận, thị xã, thành phố thuộc tỉnh được phạt tiền đến năm trăm nghìn đồng.\n\n2- Đối với vi phạm nói tại điểm b:\n\na) Thủ trưởng cơ quan thuế huyện hoặc cấp tương đương được phạt một lần số thuế gian lậu;\n\nb) Thủ trưởng cơ quan thuế tỉnh hoặc cấp tương đương được phạt đến ba lần số thuế gian lậu.\n\n3- Thủ trưởng cơ quan thuế trực tiếp quản lý cơ sở sản xuất mặt hàng thuộc diện chịu thuế tiêu thụ đặc biệt được phạt về nộp chậm và áp dụng các biện pháp xử lý theo quy định tại điểm c và điểm d, Điều 20 của Luật này."
+   }
+  },
+  {
+   "id": "VN-H344-A22",
+   "no": 22,
+   "noLabel": {
+    "vi": "Điều 22"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 22\n\nCá nhân cản trở hoặc xúi giục người khác cản trở việc thi hành Luật thuế tiêu thụ đặc biệt hoặc cản trở việc điều tra và xử lý các vụ vi phạm Luật này thì tuỳ mức độ nhẹ hoặc nặng mà xử phạt hành chính hoặc truy cứu trách nhiệm hình sự theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H344-A23",
+   "no": 23,
+   "noLabel": {
+    "vi": "Điều 23"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 23\n\nCán bộ thuế, cá nhân khác lợi dụng chức vụ, quyền hạn chiếm dụng, tham ô tiền thuế tiêu thụ đặc biệt thì phải bồi thường cho Nhà nước toàn bộ số tiền thuế đã chiếm dụng, tham ô và tuỳ mức độ vi phạm nhẹ hoặc nặng mà bị xử lý kỷ luật, xử phạt hành chính hoặc truy cứu trách nhiệm hình sự theo quy định của pháp luật.\n\nCán bộ thuế, cá nhân khác lợi dụng chức vụ, quyền hạn bao che cho người vi phạm Luật thuế tiêu thụ đặc biệt; cố ý làm trái quy định của Luật này, thiếu trách nhiệm trong việc thi hành Luật thuế tiêu thụ đặc biệt thì tuỳ mức độ vi phạm nhẹ hoặc nặng mà bị xử lý kỷ luật, xử phạt hành chính hoặc truy cứu trách nhiệm hình sự theo quy định của pháp luật.\n\nCán bộ thuế, do thiếu tinh thần trách nhiệm hoặc cố tình xử lý sai, gây thiệt hại cho người nộp thuế hoặc người bị xử lý thì phải bồi thường cho người bị thiệt hại."
+   }
+  },
+  {
+   "id": "VN-H344-A24",
+   "no": 24,
+   "noLabel": {
+    "vi": "Điều 24"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 24\n\nHội đồng bộ trưởng quy định chế độ khen thưởng đối với:\n\n1- Cơ quan thuế, cán bộ thuế hoàn thành tốt nhiệm vụ được giao;\n\n2- Người có công phát hiện các vụ vi phạm Luật thuế tiêu thụ đặc biệt.\n\nCHƯƠNG VI\n\nKHIẾU NẠI, THỜI HIỆU"
+   }
+  },
+  {
+   "id": "VN-H344-A25",
+   "no": 25,
+   "noLabel": {
+    "vi": "Điều 25"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 25\n\nTổ chức, cá nhân có quyền khiếu nại việc thi hành Luật thuế tiêu thụ đặc biệt không đúng đối với tổ chức, cá nhân mình.\n\nĐơn khiếu nại phải được gửi đến cơ quan thuế phát hành lệnh thu hoặc quyết định xử lý trong thời hạn ba mươi ngày, kể từ ngày nhận được lệnh thu hoặc quyết định xử lý.\n\nTrong khi chờ giải quyết, người khiếu nại phải nộp đủ và đúng thời hạn số tiền thuế, tiền phạt đã thông báo.\n\nCơ quan nhận đơn khiếu nại phải xem xét giải quyết trong thời hạn mười lăm ngày, kể từ ngày nhận đơn. Đối với những vụ phức tạp, có thể kéo dài thời hạn nhưng không quá ba mươi ngày, kể từ ngày nhận đơn."
+   }
+  },
+  {
+   "id": "VN-H344-A26",
+   "no": 26,
+   "noLabel": {
+    "vi": "Điều 26"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 26\n\nNếu người khiếu nại không đồng ý với quyết định của cơ quan nhận đơn hoặc quá thời hạn trên mà chưa được giải quyết, thì người khiếu nại có quyền khiếu nại lên cơ quan thuế cấp trên trực tiếp của cơ quan nhận đơn."
+   }
+  },
+  {
+   "id": "VN-H344-A27",
+   "no": 27,
+   "noLabel": {
+    "vi": "Điều 27"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 27\n\nCơ quan thuế phải thoái trả tiền thuế, tiền phạt thu không đúng và trả tiền bồi thường nếu có, trong thời hạn mười lăm ngày, kể từ ngày nhận được quyết định xử lý của cấp trên."
+   }
+  },
+  {
+   "id": "VN-H344-A28",
+   "no": 28,
+   "noLabel": {
+    "vi": "Điều 28"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 28\n\nNếu phát hiện và kết luận có sự khai man, trốn thuế hoặc nhầm lẵn về thuế, cơ quan thuế có trách nhiệm truy thu hoặc truy hoàn thuế, trong thời hạn ba năm, kể từ ngày khai man, trốn thuế hoặc nhầm lẵn về thuế.\n\nCHƯƠNG VII\n\nTỔ CHỨC THỰC HIỆN"
+   }
+  },
+  {
+   "id": "VN-H344-A29",
+   "no": 29,
+   "noLabel": {
+    "vi": "Điều 29"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 29\n\nHội đồng bộ trưởng lãnh đạo việc tổ chức thực hiện công tác thuế tiêu thụ đặc biệt trong cả nước."
+   }
+  },
+  {
+   "id": "VN-H344-A30",
+   "no": 30,
+   "noLabel": {
+    "vi": "Điều 30"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 30\n\nBộ trưởng Bộ tài chính có trách nhiệm tổ chức thực hiện, kiểm tra công tác thuế tiêu thụ đặc biệt trong cả nước; giải quyết các khiếu nại, kiến nghị về thuế tiêu thụ đặc biệt thuộc thẩm quyền của mình."
+   }
+  },
+  {
+   "id": "VN-H344-A31",
+   "no": 31,
+   "noLabel": {
+    "vi": "Điều 31"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 31\n\nChủ tịch Uỷ ban nhân dân các cấp chỉ đạo việc thực hiện và kiểm tra việc thi hành Luật thuế tiêu thụ đặc biệt trong địa phương mình.\n\nCHƯƠNG VIII\n\nĐIỀU KHOẢN CUỐI CÙNG"
+   }
+  },
+  {
+   "id": "VN-H344-A32",
+   "no": 32,
+   "noLabel": {
+    "vi": "Điều 32"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VIII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 32\n\nĐối với hàng được phép xuất khẩu, nhập khẩu phi mậu dịch vượt quá tiêu chuẩn miễn thuế trước đây thuộc diện chịu thuế hàng hoá thì nay được áp dụng theo danh mục nhóm hàng, mặt hàng chịu thuế và thuế suất trong biểu thuế ban hành kèm theo Luật thuế xuất khẩu, thuế nhập khẩu hàng mậu dịch.\n\nHội đồng bộ trưởng quy định giá tính thuế, tiêu chuẩn miễn thuế đối với hàng xuất khẩu, nhập khẩu phi mậu dịch và quy định thuế suất đối với hàng nhập tái xuất phi mậu dịch."
+   }
+  },
+  {
+   "id": "VN-H344-A33",
+   "no": 33,
+   "noLabel": {
+    "vi": "Điều 33"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VIII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 33\n\nKhi giá cả thị trường biến động từ 20% trở lên thì Hội đồng bộ trưởng được phép điều chỉnh các định mức bằng tiền xác định trong Luật này theo sát thời giá."
+   }
+  },
+  {
+   "id": "VN-H344-A34",
+   "no": 34,
+   "noLabel": {
+    "vi": "Điều 34"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VIII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 34\n\nLuật thuế tiêu thụ đặc biệt có hiệu lực kể từ ngày 01 tháng 10 năm 1990.\n\nNhững quy định trước đây trái với Luật này đều bãi bỏ.\n\nLuật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá VIII, kỳ họp thứ 7 thông qua ngày 30 tháng 6 năm 1990.\n\n1:{\"id\":\"2062\",\"docType\":{\"id\":\"11025e19-2dd6-4165-85ad-ab6241186a1a\",\"name\":\"Luật\",\"code\":\"Lu\",\"parentCode\":\"VBQPPL\",\"parentName\":null},\"docGroup\":\"VBQPPL\",\"docNum\":\"270B-NQ/HĐNN8\",\"title\":\"Luật Thuế Tiêu thụ đặc biệt số 270B-NQ/HĐNN8\",\"applicationNote\":\"Bị thay thế bởi Luật 05/1998/QH10 Thuế tiêu thụ đặc biệt\",\"issueDate\":\"1990-06-30T00:00:00\",\"effFrom\":\"1990-10-01T00:00:00\",\"effTo\":\"1999-01-01T00:00:00\",\"publicDate\":\"1992-01-05T00:00:00\",\"effStatus\":{\"id\":\"f55c1469-4341-4274-93ef-32b283db4dbd\",\"name\":\"Hết hiệu lực toàn bộ\",\"code\":\"HHL\",\"parentCode\":null,\"parentName\":null},\"status\":\"Publish\",\"lang\":\"vi\",\"defaultLanguage\":\"VN\",\"updatedBy\":\"dungdvm_II.2\",\"updatedDate\":\"2026-01-16T17:33:21\",\"agencyName\":\"Quốc hội\",\"organization\":{\"id\":\"d2907e2d-b1d4-4f22-8cfc-35f786fbf860\",\"code\":\"BTC\",\"name\":\"Bộ Tài chính\",\"nameEn\":\"Bộ Tài chính\",\"shortName\":\"BTC\",\"orgType\":\"0\"},\"isLw\":true,\"documentContent\":{\"id\":\"2062\",\"title\":null,\"content\":\"$2\"},\"documentContentEn\":null,\"documentContentFileName\":null,\"documentContentFileDocName\":null,\"documentIssues\":[{\"id\":\"87a86872-9a92-4278-b6ec-5b56f4e3181b\",\"agencyId\":\"55\",\"agencyName\":\"Quốc hội\",\"agencyNameEn\":\"National Assembly of Vietnam\",\"agencyCode\":\"QH\",\"personId\":\"604\",\"personName\":\"Lê Quang Đạo\",\"jobTitleId\":\"28da0087-8afd-420c-875c-b2369e212c3e\",\"jobTitleCode\":\"CTQH\",\"jobTitleName\":\"Chủ tịch Quốc hội\",\"orderIndex\":1}],\"documentMajors\":[{\"id\":\"nganh_65\",\"name\":\"Tư pháp\",\"code\":null,\"parentCode\":null,\"parentName\":null}],\"documentFields\":[{\"id\":\"76e2c0d5-e93e-4ee9-8c72-59dae1167432\",\"name\":\"Chưa phân loại\",\"code\":null,\"parentCode\":null,\"parentName\":null}],\"documentRelatedList\":[{\"id\":\"202b20ee-9909-45d5-8230-b158adba2e36\",\"fileName\":\"2062_body_content.html\",\"relatedType\":\"MARKDOWN\",\"fileTitle\":\"2062_body_content.html\",\"fileOrder\":null}],\"provisionTree\":null,\"references\":null,\"isEffectAllDocument\":false,\"isOld\":true,\"reviewStatus\":\"INITIAL\",\"reviewed\":false,\"isTranslationDoc\":false,\"isConsolidatedDocument\":false,\"isConstitutionDocument\":false,\"isAdministrativeDocument\":false,\"viewCount\":49,\"showViewCount\":true,\"hasContent\":true,\"hasOriginalPdf\":null,\"hasAIProcessed\":false,\"hasClauseRelation\":null,\"aiResults\":[]}"
+   }
+  }
+ ]
+}

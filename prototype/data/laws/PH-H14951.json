@@ -1,0 +1,62 @@
+{
+ "id": "PH-H14951",
+ "title": {
+  "zh": null,
+  "en": "Batas Pambansa Blg. 86  An Act Creating the Municipality of Aguinaldo in the Province of",
+  "orig": "Batas Pambansa Blg. 86  An Act Creating the Municipality of Aguinaldo in the Province of"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1980-09-20",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Batasang Pambansa",
+ "docNumber": "Batas Pambansa Blg. 86",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1363,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/08_国民议会法令_BP/BP_00086_1980_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 BP_00086_1980_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14951-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Barangays Bunhian, Damag, Galonogon. Itab, Jacmal, Taang, Talete, and Ubao, all within the\nMunicipality of Mayoyao, Province of Ifugao, are hereby separated from said municipality and constituted\ninto a distinct and independent municipality in the same province to be known as the Municipality of\nAguinaldo. The seat of government of the new municipality shall be in Barangay Galonogon."
+   }
+  },
+  {
+   "id": "PH-H14951-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The Municipality of Aguinaldo shall be bounded as follows:\n\"The boundary starting from the North shall follow the recognized boundary between Barangays Talete and\nLiwo, cutting across the national road traversing Talete and Liwo, down to the big river constituted by the\nsmaller rivers coming from Talete, Jacmal and Bunhian; following said river which constituted the boundaries\nbetween Barangays Itab and Banao; Itab and Alimit; and Itab and Nattum. On the Southeastern side, the\nboundary shall follow the known boundary between Barangay Ubao and the Municipality of Potia which will\nthen include sitios Pusnaan and Mapacopaco to the new Municipality of Aguinaldo; then following the ridge\nof Mt. Liyachan to the mountain ridges over-looking sitio Manaot of Barangay Pinto, Municipality of Potia;\nthen to the known boundary between the Municipality of Paracelis and Barangay Damag and in like manner\nthe known boundary between Barangay Damag and the Municipality of Natonin.\""
+   }
+  }
+ ]
+}

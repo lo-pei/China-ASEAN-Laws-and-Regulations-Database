@@ -1,0 +1,102 @@
+{
+ "id": "ID-H2321",
+ "title": {
+  "zh": "印度尼西亚共和国国家档案馆非税国家收入种类与税率",
+  "en": "the Types and Rates of Non-Tax State Revenue Applicable at the National Archives of the Republic of Indonesia",
+  "id": "JENIS DAN TARIF ATAS JENIS PENERIMAAN NEGARA BUKAN PAJAK YANG BERLAKU PADA ARSIP NASIONAL REPUBLIK INDONESIA",
+  "orig": "JENIS DAN TARIF ATAS JENIS PENERIMAAN NEGARA BUKAN PAJAK YANG BERLAKU PADA ARSIP NASIONAL REPUBLIK INDONESIA",
+  "vi": "Các Loại và Mức Thu Ngân sách Nhà nước Phi thuế áp dụng tại Cơ quan Lưu trữ Quốc gia Cộng hòa Indonesia",
+  "th": "ประเภทและอัตรารายได้ของรัฐที่ไม่ใช่ภาษีซึ่งใช้บังคับในหอจดหมายเหตุแห่งชาติสาธารณรัฐอินโดนีเซีย",
+  "ms": "Jenis dan Kadar Penerimaan Negara Bukan Cukai yang Berkuat Kuasa di Arsip Nasional Republik Indonesia"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02b",
+ "language": "id",
+ "level": "law",
+ "category": "02_民商事与经济法",
+ "status": "active",
+ "promulgatedDate": "2014",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU63-2014",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 5,
+ "chars": 13613,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PP%20Nomor%2063%20Tahun%202014.pdf&fl=P17589"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\02_民商事与经济法\\印尼_文本_2014_JENIS DAN TARIF ATAS JENIS PENERIMAAN NEGARA BUKAN PAJAK YANG BERLAKU PADA ARSIP NASIONAL REPUBLIK INDONESIA.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 5 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H2321-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\n(1) Jenis Penerimaan Negara Bukan Pajak yang berlaku\npada Arsip Nasional Republik Indonesia meliputi\npenerimaan dari:\na. Jasa Pendidikan dan Pelatihan (Diklat);\nb. Jasa Pemeliharaan dan Perawatan Arsip;\nc. Jasa Penggandaan, Reproduksi dan Transkripsi;\nd. Jasa Penerjemahan Arsip;\ne. Jasa Penelusuran Silsilah Keluarga;\nf. Jasa Pembenahan Arsip;\ng. Jasa Pembuatan Pedoman Kearsipan untuk\nOrganisasi atau Lembaga;\nh. Jasa Pembuatan Program Aplikasi Sistem\nKearsipan;\ni. Jasa Penyimpanan Arsip;\nj. Jasa Penggunaan Sarana dan Prasarana; dan\nk. Penjualan Hasil Penerbitan Naskah Sumber Arsip.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(2) Jenis . . .\n\n\n\n\n\n\n\n\n\n\n\n(2) Jenis dan tarif atas jenis Penerimaan Negara Bukan\nPajak sebagaimana dimaksud pada ayat (1) ditetapkan\ndalam Lampiran Peraturan Pemerintah ini."
+   }
+  },
+  {
+   "id": "ID-H2321-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\n(1) Tarif atas jenis Penerimaan Negara Bukan Pajak\nsebagaimana dimaksud dalam Pasal 1 ayat (1) huruf a,\nhuruf f, huruf g, dan huruf h tidak termasuk biaya\ntransportasi, akomodasi, dan/atau konsumsi.\n(2) Biaya transportasi, akomodasi, dan/a tau konsumsi\nsebagaimana dimaksud pada ayat (1) dibebankan\nkepada Wajib Bayar sesuai dengan ketentuan\nPeraturan Perundang-undangan."
+   }
+  },
+  {
+   "id": "ID-H2321-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\nSeluruh Penerimaan Negara Bukan Pajak yang berlaku\npada Arsip Nasional Republik Indonesia  wajib disetor\nlangsung secepatnya ke Kas Negara."
+   }
+  },
+  {
+   "id": "ID-H2321-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\nPada saat Peraturan Pemerintah ini mulai berlaku ,\nPeraturan Pemerintah Nomor 42 Tahun 2005 tentang\nJenis dan Tarif atas Jenis Penerimaan Negara Bukan\nPajak yang Berlaku pada Arsip Nasional Republik\nIndonesia (Lembaran Nega ra Republik Indonesia Tahun\n2005 Nomor 114, Tambahan Lembaran Negara  Republik\nIndonesia Nomor 4553), dicabut dan dinyatakan tidak\nberlaku."
+   }
+  },
+  {
+   "id": "ID-H2321-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\nPeraturan Pemerintah ini mulai berlaku setelah 30 (tiga\npuluh) hari terhitung sejak tanggal diundangkan.\n\n\nAgar  . . .\n\n\n\n\n\n\nAgar setiap orang mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan\npenempatannya dalam Lembaran Negara Republik\nIndonesia.\n\n\nDitetapkan di Jakarta\npada tanggal 23 Juli 2014\n    PRESIDEN REPUBLIK INDONESIA,\n          ttd.\n    DR. H. SUSILO BAMBANG YUDHOYONO\n\nDiundangkan di Jakarta\npada tanggal 23 Juli 2014\nMENTERI HUKUM DAN HAK ASASI MANUSIA\n              REPUBLIK INDONESIA,\n   ttd.\n                AMIR SYAMSUDIN\n\n\n\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2014 NOMOR 175\n\n\n\n\n\n\n\n\n\nLAMPIRAN\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nNOMOR 63 TAHUN 2014\nJENIS DAN TARIF ATAS JENIS PENERIMAAN NEGARA\nBUKAN PAJAK  YANG BERLAKU PADA ARSIP NASIONAL\nREPUBLIK INDONESIA\n\nJENIS DAN TARIF ATAS JENIS PENERIMAAN NEGARA BUKAN PAJAK\nYANG BERLAKU PADA ARSIP NASIONAL REPUBLIK INDONESIA\n\nJENIS PENERIMAAN NEGARA BUKAN PAJAK SATUAN TARIF\nI.  JASA PENDIDIKAN DAN PELATIHAN (DIKLAT)\n\n\nA. Diklat fungsional Arsiparis\n\n\n   1. Pengangkatan Arsiparis Tingkat T erampil\n(30 hari)\nper orang Rp  11.028.800,00\n\n    2. Pengangkatan Arsiparis Tingkat Ahli (32\nhari)\nper orang Rp  11.584.800,00\n\n   3. Penjenjangan Arsiparis Tingka t Terampil\nke Arsiparis Tingkat Ahli (12 hari)\nper orang   Rp   5.097.300,00\n\n 4. Penjenjangan jabatan Arsiparis (6 hari) per orang Rp   3.352.800,00\n\nB. Diklat Teknis Kearsipan\n\n\n    1. Kearsipan Tingkat Dasar\n\n\na. Dasar-dasar kearsipan (4 hari) per orang Rp   2.650.200,00\n\n  b. Pengelolaan arsip dinamis (4 hari) per orang Rp   2.650.200,00\n\n  c. Pengelolaan arsip aktif (4 hari) per orang Rp   2.650.200,00\n\n  d. Pengelolaan arsip inaktif (4 hari) per orang Rp   2.650.200,00\n\n  e. Program arsip vital (4 hari) per orang Rp   2.650.200,00\n\n\nf. Pemberkasan (4 hari) per orang Rp   2.650.200,00\n2. Kearsipan . . .\n\n\n\n\n\n\nJENIS PENERIMAAN NEGARA BUKAN PAJAK SATUAN TARIF\n\n\n\n2. Kearsipan Tingkat Lanjut\n\n  a. Akuisisi arsip (6 hari) per orang Rp   3.577.300,00\n\n  b. Pengolahan arsip statis (6 hari) per orang Rp   3.577.300,00\n\n  c. Preservasi arsip statis (6 hari) per orang Rp   3.577.300,00\n\n  d. Akses dan layanan arsip (6 hari) per orang Rp   3.577.300,00\n\n  e. Layanan informasi  kearsipan (6 hari) per orang Rp   3.577.300,00\n\n  f. Penyusunan jadwal  retensi arsip                           (6 hari) per orang Rp   3.577.300,00\n\n  g. Penyusutan arsip (6 hari) per orang Rp   3.577.300,00\n\n  h. Pengelolaan arsip statis (6 hari) per orang Rp   3.577.300,00\n\n  i. Pelindungan dan penyelamatan arsip                 (6 hari) per orang Rp   3.577.300,00\n\n  j. Pengelolaan arsip elektronik (6 hari) per orang Rp   3.577.300,00\n\n  k. Pelatihan bagi pengajar kearsipan                 (6 hari) per orang Rp   3.577.300,00\n\n    3. Sistem kearsipan\n\n\n  a. Penyusunan instrumen pengelolaan arsip (12 hari) per orang Rp   5.097.300,00\n\n  b. Pengelolaan arsip berbasis teknologi informasi komunikasi (12 hari) per orang Rp   5.097.300,00\n\n\nc. Sistem informasi kearsipan nasional\ndan jaringan informasi kearsipan\nnasional (12 hari)\nper orang Rp   5.097.300,00\n\n 4.  Penyelenggaraan kearsipan (4 hari) per orang Rp   4.029.300,00\n\n\n\n\n\nII. JASA . . .\n\n\n\n\n\n\nJENIS PENERIMAAN NEGARA BUKAN PAJAK SATUAN TARIF\nII.  JASA PEMELIHARAAN DAN PERAWATAN ARSIP\n\nA. Menghilangkan asam\n\n\n 1. Ukuran A4/F4 per lembar Rp          9.500,00\n\n 2. Ukuran A3 per lembar Rp        12.500,00\n\n 3. Ukuran A2 per lembar Rp        18.800,00\n\n 4. Ukuran A1 per lembar Rp        31.000,00\n\n 5. Ukuran A0 per lembar Rp        43.800,00\n\nB. Laminasi arsip ( leaf casting/lining\nsystem/encapsulation)\n\n 1. Ukuran A4/F4 per lembar Rp        31.000,00\n\n 2. Ukuran A3 per lembar Rp        43.800,00\n\n 3. Ukuran A2 per lembar Rp        62.500,00\n\n 4. Ukuran A1 per lembar Rp        93.800,00\n\n 5. Ukuran A0 per lembar Rp      125.000,00\n\nC. Rewashing film/mikro film\n\n\n 1. Ukuran 100 feet per reel Rp          9.500,00\n\n 2. Ukuran 400 feet per reel Rp        15.500,00\n\n 3. Ukuran 1000 feet per reel Rp        31.000,00\n\n 4. Ukuran 1500 feet per reel Rp        43.800,00\n\nD. Recleaning video cassette per kaset Rp        12.500,00\n\nE. Alih media\n\n\n 1. Arsip film ke video\n\n\n a. Mini DV per reel Rp      500.000,00\n\n\n\n\n\nb. Betacam . . .\n\n\n\n\n\n\nJENIS PENERIMAAN NEGARA BUKAN PAJAK SATUAN TARIF\n\n\nb. Betacam/U- Matic\n\nper reel\n\nRp      800.000,00\n\n c. DV Cam per reel Rp      800.000,00\n\n 2. Arsip video ke VCD per kaset Rp      300.000,00\n\n 3. Arsip film ke CD/DVD per 1000\nfeet\nRp      500.000,00\n\nF. Arsip kertas ke format elektronik/digital\n\n\n 1. Ukuran A4 s.d. A3\n\n\n a.  ≤ 50.000 lembar per lembar Rp          5.000,00\n\n b. 50.000 - 500.000 lembar per lembar Rp          4.000,00\n\n c.  ≥ 500.000 lembar per lembar Rp          3.000,00\n\n 2. Ukuran A0 per lembar Rp        50.000,00\n\n 3. Ukuran A1 per lembar Rp        45.000,00\n\n 4. Ukuran A2 per lembar Rp        40.000,00\n\nG. Alih media arsip kertas ke mikro film\n\n\n 1. Ukuran 16 mm per roll Rp   1.000.000,00\n\n 2. Ukuran 35 mm per roll Rp   1.000.000,00\n\nH. Pembuatan duplikat  mikro film\n\n\n 1. Ukuran 16 mm per roll Rp      600.000,00\n\n 2. Ukuran  35 mm per roll Rp      800.000,00\n\nI. Arsip mikro film ke digital\n\n\n 1. Ukuran 16 mm (minimal 100 frame) per frame Rp          3.000,00\n\n 2. Ukuran 35 mm (minimal 100 frame) per frame Rp          3.500,00\n\n\n\n\n\n J. Alih . . .\n\n\n\n\n\n\nJENIS PENERIMAAN NEGARA BUKAN PAJAK SATUAN TARIF\n\n\nJ. Alih media rekaman suara ke digital\n\n\n 1. Bentuk MP3 per kaset Rp      150.000,00\n\n 2. Bentuk WAV\n\nper kaset Rp      150.000,00\nIII.  JASA PENGGANDAAN, REPRODUKSI DAN\nTRANSKRIPSI\n\nA. Fotokopi arsip dan buku antiquariat\n\n\n1. Pelajar/mahasiswa\n\n\n  a. Ukuran A4 per lembar Rp             500,00\n\n  b. Ukuran A3 per lembar Rp          1.500,00\n\n  c. Ukuran A2 per lembar Rp          2.000,00\n\n  d. Ukuran A1 per lembar Rp          2.500,00\n\n  e. Ukuran A0 per lembar Rp          8.000,00\n\n  f. Ukuran F4 per lembar Rp          1.000,00\n\n2. Umum/mahasiswa asing\n\n\n  a. Ukuran A4 per lembar Rp          1.500,00\n\n  b. Ukuran A3 per lembar Rp          3.500,00\n\n  c. Ukuran A2 per lembar Rp          4.000,00\n\n  d. Ukuran A1 per lembar Rp          5.500,00\n\n  e. Ukuran A0 per lembar Rp        10.000,00\n\n  f. Ukuran F4 per lembar Rp          2.000,00\n\nB. Fotokopi referensi/buku Republik Indonesia\n(1945 - sekarang) ukuran A4\n\n1. Pelajar/mahasiswa per lembar Rp             300,00\n\n\n2. Umum . . .\n\n\n\n\n\n\nJENIS PENERIMAAN NEGARA BUKAN PAJAK SATUAN TARIF\n2. Umum/mahasiswa asing per lembar Rp             500,00\n\nC. Reproduksi foto\n\n\n1. Pelajar/mahasiswa\n\n\n  a. Ukuran 5R per lembar Rp        20.000,00\n\n  b. Ukuran 10R per lembar Rp        30.000,00\n\n  c. Ukuran 14R per lembar Rp        50.000,00\n\n  d. Ukuran 17R per lembar Rp        95.000,00\n\n  e. Ukuran 24R per lembar Rp      110.000,00\n\n2. Umum/mahasiswa asing\n\n\n  a. Ukuran 5R per lembar Rp        50.000,00\n\n  b. Ukuran 10R per lembar Rp        60.000,00\n\n  c. Ukuran 14R per lembar Rp        80.000,00\n\n  d. Ukuran 17R per lembar Rp      125.000,00\n\n  e. Ukuran 24R per lembar Rp      140.000,00\n\n3. Lisensi publikasi komersial per lembar Rp      250.000,00\n\nD. Print out Mikro film ukuran A4\n\n\n1. Pelajar/mahasiswa per lembar Rp          1.500,00\n\n2. Umum/mahasiswa asing per lembar Rp          2.000,00\n\nE. Reproduksi film\n\n\n1. Durasi ≤ 10 menit per  judul Rp      300.000,00\n\n2. Lisensi repro per  judul Rp   2.500.000,00\n\nF. Scanning arsip\n\n\n1. Pelajar/mahasiswa\n\n\n\n  a. Ukuran A4 per lembar Rp        20.000,00\na. Ukuran . . .\n\n\n\n\n\n\nJENIS PENERIMAAN NEGARA BUKAN PAJAK SATUAN TARIF\n\n  b. Ukuran A3 per lembar Rp        60.000,00\n\n2. Umum/mahasiswa asing\n\n\n  a. Ukuran A4 per lembar Rp        30.000,00\n\n  b. Ukuran A3 per lembar Rp        70.000,00\n\nG. Reproduksi peta/kartografi\n\n\n1. Pelajar/mahasiswa\n\n\n  a. Hitam putih A2 per lembar Rp        25.000,00\n\n  b. Hitam putih A1 per lembar  Rp       30.000,00\n\n  c. Hitam putih A0 per lembar  Rp       35.000,00\n\n  d. Berwarna A2 per lembar  Rp     150.000,00\n\n  e. Berwarna A1 per lembar Rp      200.000,00\n\n  f. Berwarna A0 per lembar Rp      250.000,00\n\n2. Umum/mahasiswa asing\n\n\n  a. Hitam putih A2 per lembar Rp        30.000,00\n\n  b. Hitam putih A1 per lembar Rp        35.000,00\n\n  c. Hitam putih A0 per lembar Rp        40.000,00\n\n  d. Berwarna A2 per lembar Rp      200.000,00\n\n  e. Berwarna A1 per lembar Rp      250.000,00\n\n  f. Berwarna A0 per lembar Rp      350.000,00\n\nH. Cetak hasil pemindaian arsip\n\n\n1. Pelajar/mahasiswa\n\n\n  a. Ukuran A4 per lembar Rp        20.000,00\n\n  b. Ukuran A3 per lembar Rp        60.000,00\n\n\n  2. Umum . . .\n\n\n\n\n\n\nJENIS PENERIMAAN NEGARA BUKAN PAJAK SATUAN TARIF\n2. Umum/mahasiswa asing\n\n  a. Ukuran A4 per lembar Rp        30.000,00\n\n  b. Ukuran A3 per lembar Rp        75.000,00\n\nI. Reproduksi rekaman suara\n\n\n1. Ukuran 60 menit per kaset Rp      100.000,00\n\n2. Ukuran 90 menit per kaset Rp      150.000,00\n\n3. Format digital\nper\nkhasanah\nper usb\nRp      200.000,00\n\nJ. Transkripsi\n\n\n1. Audio ke tulisan per lembar jadi Rp        50.000,00\n\n2. Alih aksara\n\nper lembar\njadi Rp        50.000,00\nIV. JASA PENERJEMAHAN ARSIP\n\n\nA. Dari bahasa asing  ke bahasa Indonesia\n\n\n1. Dari bahasa Inggris\nper\nhalaman\njadi\nRp      140.000,00\n\n2. Dari bahasa Jepang, Mandarin,  dan\nBelanda\nper\nhalaman\njadi\nRp      220.000,00\n\n3. Dari bahasa Prancis, Jerman, dan bahasa\nAsing Lainnya\nper\nhalaman\njadi\nRp      160.000,00\n\nB. Dari bahasa daerah ke bahasa Indonesia per\nhalaman\njadi\nRp      160.000,00\nV. JASA . . .\n\n\n\n\n\n\nJENIS PENERIMAAN NEGARA BUKAN PAJAK SATUAN TARIF\n\nV.\n\nJASA PENELUSURAN  SILSILAH KELUARGA\n(minimal 4 jam)\n\nper jam\n\nRp       50.000,00\nVI. JASA PEMBENAHAN ARSIP\n\n\nA.  Arsip sederhana per meter linier Rp      150.000,00\n\nB.   Arsip kompleks per meter\nlinier\nRp      350.000,00\nVII. JASA PEMBUATAN PEDOMAN KEARSIPAN\nUNTUK ORGANISASI ATAU LEMBAGA\n\nA. Tingkat sederhana per paket Rp  60.000.000,00\n\nB. Tingkat kompleks per paket Rp125.000.000,00\n\nVIII. JASA PEMBUATAN PROGRAM APLIKASI\nSISTEM KEARSIPAN\n\nA. Tingkat sederhana per paket Rp  90.000.000,00\n\nB. Tingkat kompleks per paket Rp175.000.000,00\nIX. JASA PENYIMPANAN ARSIP\n\n\nA. Jasa penyimpanan arsip di record center per boks\nper bulan\nRp          2.750,00\n\nB. Jasa pelayanan peminjaman arsip di record\ncenter\nper boks Rp        15.000,00\nX. JASA PENGGUNAAN SARANA DAN PRASARANA\n\n\nA. Ruangan Pusdiklat\n\n\n1. Ruang kelas  per 8 jam Rp      500.000,00\n\n2. Aula  per 8 jam Rp   2.000.000,00\n\n3. Kamar asrama (AC dan TV) per orang  per hari Rp     100.000,00\nB. Gedung . . .\n\n\n\n\n\n\nJENIS PENERIMAAN NEGARA BUKAN PAJAK SATUAN TARIF\n\n\nB.\n\nGedung Gajah Mada\n\n1. Bagian bawah  per hari Rp   1.500.000,00\n\n2. Bagian atas per hari Rp   1.500.000,00\n\n3. Bagian atas dan bagian bawah per hari Rp   2.500.000,00\n\n4. Halaman/taman belakang gedung utama  per hari Rp   1.500.000,00\n\nXI.\n\nPENJUALAN HASIL PENERBITAN NASKAH\nSUMBER ARSIP\n\nA. Hasil penerbitan naskah sumber periode\nsebelum RI (VOC - Belanda)\n\n1. 1 - 150 halaman per buku Rp        40.000,00\n\n2. 151 - 250 halaman per buku Rp        50.000,00\n\n3. 251 - 350 halaman per buku Rp        60.000,00\n\n4. ≥ 351 halaman per buku Rp        70.000,00\n\nB. Hasil penerbitan naskah sumber periode RI\n(1945 - sekarang)\n\n1. 1 - 150 halaman per buku Rp        25.000,00\n\n\n2. 151 - 250 halaman per buku Rp        30.000,00\n\n\n3. 251 - 350 halaman per buku Rp        50.000,00\n\n\n4. ≥ 351 halaman per buku Rp        70.000,00\n  C. Bentuk elektronik\n\n\n\n1. VCD Seri Pendidikan dan Pelatihan Ilmiah\n\n    a. Durasi 1 - 25 menit per keping Rp        35.000,00\n    b. Durasi 26 - 50 menit per keping Rp        45.000,00\n2. VCD . . .\n\n\n\n\n\n\nJENIS PENERIMAAN NEGARA BUKAN PAJAK SATUAN TARIF\n\n\n\n2. VCD Seri Dokumen Sejarah\n    a. Durasi 1 - 25 menit per keping Rp        50.000,00\n    b. Durasi 26 - 50 menit per keping Rp      100.000,00\n\n\n3. Print out penerbitan dari softcopy per halaman Rp        20.000,00\n\n\n\n\nPRESIDEN REPUBLIK INDONESIA,\n                        ttd.\nDR. H. SUSILO BAMBANG YUDHOYONO"
+   }
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "id": "MY-H493",
+ "title": {
+  "zh": "2003年国家土地法典（追认）法",
+  "en": "NATIONAL LAND CODE (VALIDATION) ACT 2003",
+  "orig": "NATIONAL LAND CODE (VALIDATION) ACT 2003",
+  "vi": "Luật về Bộ luật Đất đai Quốc gia (Sự xác nhận hiệu lực) năm 2003",
+  "th": "พระราชบัญญัติประมวลกฎหมายที่ดินแห่งชาติ (การรับรอง) ค.ศ. 2003",
+  "id": "Undang-Undang Kitab Undang-Undang Tanah Nasional (Pengesahan) Tahun 2003",
+  "ms": "Akta Kanun Tanah Negara (Pengesahan) 2003"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-10",
+ "language": "en",
+ "level": "law",
+ "category": "02_民商事与经济法",
+ "status": "active",
+ "promulgatedDate": "2003",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "ACT625",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 2,
+ "chars": 857,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-detail.php?act=625&lang=BI"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\02_民商事与经济法\\2003_625_NATIONAL LAND CODE (VALIDATION) ACT 2003.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 2 条；逐字未改写（源自厂商 OCR 文本）。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H493-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "1. This Act may be cited as the National Land Code (Validation)\nAct 2003.\nValidation"
+   }
+  },
+  {
+   "id": "MY-H493-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "2. Every act or thing done by the Land Executive Committee of\nthe Federal Territory of Kuala Lumpur under section 42, subsection\n56(4) and sections 68A , 75 A , 75 B , 75 E, 75 F , 75 G , 92 B , 92 C , 92 D ,\n92E, 92 F , 92 G , 124 A , 129, 204 B , 204 E, 433 B  and 433 E of the\nNational Land Code before the commencement of this Act until\nthe coming into operation of the delegation of powers under\nsection 13 of the National Land Code [ P.U. (B) 108/2003 ] that\nwould have been lawful if the Land Executive Committee had\nbeen delegated to perform such act or thing under those provisions\nis hereby validated and declared to have been lawfully done.\nDICETAK OLEH\nPERCETAKAN NASIONAL MALAYSIA BERHAD,\nCAW ANGAN KUALA LUMPUR\nBAGI PIHAK DAN DENGAN PERINTAH KERAJAAN MALAYSIA"
+   }
+  }
+ ]
+}

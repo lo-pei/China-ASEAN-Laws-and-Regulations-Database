@@ -1,0 +1,618 @@
+{
+ "id": "VN-H497",
+ "title": {
+  "zh": "特赦法",
+  "en": "Law No. 07/2007/QH12 on amnesty",
+  "vi": "Luật Đặc xá số 07/2007/QH12",
+  "orig": "Luật Đặc xá số 07/2007/QH12",
+  "th": "พระราชบัญญัติการนิรโทษกรรม เลขที่ 07/2007/QH12",
+  "id": "Undang-Undang Amnesti No. 07/2007/QH12",
+  "ms": "Akta Pengampunan No. 07/2007/QH12"
+ },
+ "country": "VN",
+ "countryName": "越南",
+ "layer": "intl",
+ "pack": "vn-p06",
+ "language": "vi",
+ "level": "law",
+ "category": "05_其他及未分类",
+ "status": "active",
+ "promulgatedDate": "2007",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "国会",
+ "docNumber": "07/2007/QH12",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 36,
+ "chars": 23513,
+ "source": {
+  "name": "越南法律数据库（vbpl.vn 官方公报文本）",
+  "url": "https://vbpl.vn/van-ban/chi-tiet/luat-dac-xa-so-07-2007-qh12--12891"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\VN\\05_其他及未分类\\2007_07 2007 QH12_Luật Đặc xá số 07 2007 QH12.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 36 条；逐字未改写（源自 VN）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "VN-H497-A1",
+   "no": 1,
+   "noLabel": {
+    "vi": "Điều 1"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Phạm vi điều chỉnh"
+   },
+   "text": {
+    "vi": "Điều 1. Phạm vi điều chỉnh\n\nLuật này quy định về thời điểm, trình tự, thủ tục, thẩm quyền, trách nhiệm thực hiện đặc xá; điều kiện, quyền và nghĩa vụ của người được đề nghị đặc xá, người được đặc xá."
+   }
+  },
+  {
+   "id": "VN-H497-A2",
+   "no": 2,
+   "noLabel": {
+    "vi": "Điều 2"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Đối tượng áp dụng"
+   },
+   "text": {
+    "vi": "Điều 2. Đối tượng áp dụng\n\nLuật này áp dụng đối với:\n\n1. Người bị kết án phạt tù có thời hạn, tù chung thân;\n\n2. Cơ quan, tổ chức, công dân nước Cộng hoà xã hội chủ nghĩa Việt Nam; tổ chức, cá nhân nước ngoài, tổ chức quốc tế cư trú, hoạt động trên lãnh thổ nước Cộng hoà xã hội chủ nghĩa Việt Nam có liên quan đến hoạt động đặc xá."
+   }
+  },
+  {
+   "id": "VN-H497-A3",
+   "no": 3,
+   "noLabel": {
+    "vi": "Điều 3"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Giải thích từ ngữ"
+   },
+   "text": {
+    "vi": "Điều 3. Giải thích từ ngữ\n\nTrong Luật này, các từ ngữ dưới đây được hiểu như sau:\n\n1. Đặc xá là sự khoan hồng đặc biệt của Nhà nước do Chủ tịch nước quyết định tha tù trước thời hạn cho người bị kết án phạt tù có thời hạn, tù chung thân nhân sự kiện trọng đại, ngày lễ lớn của đất nước hoặc trong trường hợp đặc biệt.\n\n2. Quyết định về đặc xá là văn bản do Chủ tịch nước ban hành quy định thời điểm đặc xá, đối tượng, điều kiện của người được đề nghị đặc xá và trách nhiệm của các cơ quan, tổ chức trong việc thực hiện đặc xá.\n\n3. Quyết định đặc xá là văn bản của Chủ tịch nước quyết định tha tù trước thời hạn cho người bị kết án phạt tù có thời hạn, tù chung thân.\n\n4. Hội đồng tư vấn đặc xá là tổ chức liên ngành gồm đại diện các cơ quan, tổ chức có liên quan do Chủ tịch nước quyết định thành lập để triển khai thực hiện Quyết định về đặc xá của Chủ tịch nước và tham mưu, tư vấn cho Chủ tịch nước thực hiện hoạt động đặc xá."
+   }
+  },
+  {
+   "id": "VN-H497-A4",
+   "no": 4,
+   "noLabel": {
+    "vi": "Điều 4"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Nguyên tắc thực hiện đặc xá"
+   },
+   "text": {
+    "vi": "Điều 4. Nguyên tắc thực hiện đặc xá\n\n1. Tuân thủ Hiến pháp, pháp luật, bảo đảm lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân.\n\n2. Bảo đảm dân chủ, khách quan, công bằng, công khai, minh bạch.\n\n3. Bảo đảm yêu cầu về đối nội, đối ngoại, an ninh quốc gia, trật tự, an toàn xã hội."
+   }
+  },
+  {
+   "id": "VN-H497-A5",
+   "no": 5,
+   "noLabel": {
+    "vi": "Điều 5"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Thời điểm đặc xá"
+   },
+   "text": {
+    "vi": "Điều 5. Thời điểm đặc xá\n\n1. Chủ tịch nước xem xét, quyết định về đặc xá đối với người bị kết án phạt tù có thời hạn, tù chung thân đã được giảm xuống tù có thời hạn đang chấp hành hình phạt tù nhân sự kiện trọng đại hoặc ngày lễ lớn của đất nước.\n\n2. Trong trường hợp đặc biệt, Chủ tịch nước quyết định đặc xá đối với người bị kết án phạt tù có thời hạn, tù chung thân đang chấp hành hình phạt tù, được hoãn, tạm đình chỉ chấp hành hình phạt tù không phụ thuộc vào thời điểm theo quy định tại khoản 1 Điều này."
+   }
+  },
+  {
+   "id": "VN-H497-A6",
+   "no": 6,
+   "noLabel": {
+    "vi": "Điều 6"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Chính sách của Nhà nước trong đặc xá"
+   },
+   "text": {
+    "vi": "Điều 6. Chính sách của Nhà nước trong đặc xá\n\nNhà nước động viên, khuyến khích người bị kết án phạt tù ăn năn hối cải, tích cực học tập, lao động cải tạo để được hưởng đặc xá; giúp đỡ người được đặc xá ổn định cuộc sống, phấn đấu trở thành người có ích cho xã hội."
+   }
+  },
+  {
+   "id": "VN-H497-A7",
+   "no": 7,
+   "noLabel": {
+    "vi": "Điều 7"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Các hành vi bị nghiêm cấm trong thực hiện đặc xá"
+   },
+   "text": {
+    "vi": "Điều 7. Các hành vi bị nghiêm cấm trong thực hiện đặc xá\n\n1. Lợi dụng, lạm dụng chức vụ, quyền hạn để đề nghị đặc xá cho người không đủ điều kiện được đặc xá; không đề nghị đặc xá cho người có đủ điều kiện được đặc xá; cản trở người bị kết án phạt tù thực hiện quyền được đề nghị đặc xá.\n\n2. Nhận hối lộ, sách nhiễu trong việc thực hiện đặc xá.\n\n3. Cố ý cấp giấy tờ, tài liệu liên quan đến người được đề nghị đặc xá trái với quy định của pháp luật.\n\n4. Từ chối cấp giấy tờ, tài liệu mà theo quy định của pháp luật người được đề nghị đặc xá phải được cấp.\n\nChương II\n\nĐẶC XÁ NHÂN SỰ KIỆN TRỌNG ĐẠI HOẶC NGÀY LỄ LỚN CỦA ĐẤT NƯỚC\n\nMục 1\n\nTHỦ TỤC TRÌNH CHỦ TỊCH NƯỚC BAN HÀNH, CÔNG BỐ QUYẾT ĐỊNH VỀ ĐẶC XÁ"
+   }
+  },
+  {
+   "id": "VN-H497-A8",
+   "no": 8,
+   "noLabel": {
+    "vi": "Điều 8"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Thủ tục trình Chủ tịch nước ban hành Quyết định về đặc xá"
+   },
+   "text": {
+    "vi": "Điều 8. Thủ tục trình Chủ tịch nước ban hành Quyết định về đặc xá\n\nTheo yêu cầu của Chủ tịch nước hoặc trong trường hợp Chính phủ đề nghị đặc xá được Chủ tịch nước chấp nhận, Chính phủ chủ trì phối hợp với Toà án nhân dân tối cao, Viện kiểm sát nhân dân tối cao và các cơ quan có liên quan nghiên cứu, làm Tờ trình để Chủ tịch nước xem xét, ban hành Quyết định về đặc xá."
+   }
+  },
+  {
+   "id": "VN-H497-A9",
+   "no": 9,
+   "noLabel": {
+    "vi": "Điều 9"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Công bố và thông báo Quyết định về đặc xá của Chủ tịch nước"
+   },
+   "text": {
+    "vi": "Điều 9. Công bố và thông báo Quyết định về đặc xá của Chủ tịch nước\n\nQuyết định về đặc xá của Chủ tịch nước được công bố và thông báo trên các phương tiện thông tin đại chúng.\n\nSau khi Quyết định về đặc xá của Chủ tịch nước được công bố thì được niêm yết tại trại giam, trại tạm giam.\n\nMục 2\n\nĐIỀU KIỆN, QUYỀN VÀ NGHĨA VỤ CỦA NGƯỜI ĐƯỢC ĐỀ NGHỊ ĐẶC XÁ"
+   }
+  },
+  {
+   "id": "VN-H497-A10",
+   "no": 10,
+   "noLabel": {
+    "vi": "Điều 10"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Điều kiện được đề nghị đặc xá"
+   },
+   "text": {
+    "vi": "Điều 10. Điều kiện được đề nghị đặc xá\n\n1. Người bị kết án phạt tù có thời hạn, tù chung thân đã được giảm xuống tù có thời hạn đang chấp hành hình phạt tù được đề nghị đặc xá phải có đủ các điều kiện sau đây:\n\na) Chấp hành tốt quy chế, nội quy của trại giam, trại tạm giam; tích cực học tập, lao động; trong quá trình chấp hành hình phạt tù được xếp loại cải tạo từ loại khá trở lên; khi được đặc xá không làm ảnh hưởng đến an ninh, trật tự, an toàn xã hội;\n\nb) Đã chấp hành hình phạt tù được một thời gian do Chủ tịch nước quyết định nhưng ít nhất là một phần ba thời gian đối với hình phạt tù có thời hạn, nếu trước đó đã được giảm thời hạn chấp hành hình phạt tù thì thời hạn được giảm không được tính vào thời gian đã chấp hành hình phạt tù; ít nhất là mười bốn năm đối với hình phạt tù chung thân;\n\nc) Đối với người bị kết án phạt tù về các tội phạm về tham nhũng hoặc một số tội phạm khác được Chủ tịch nước quyết định trong mỗi lần đặc xá thì phải chấp hành xong hình phạt bổ sung là phạt tiền, bồi thường thiệt hại, án phí hoặc nghĩa vụ dân sự khác.\n\n2. Người bị kết án phạt tù có thời hạn, tù chung thân đã được giảm xuống tù có thời hạn đang chấp hành hình phạt tù có đủ điều kiện quy định tại điểm a và điểm c khoản 1 Điều này được Chủ tịch nước quyết định thời gian đã chấp hành hình phạt tù ngắn hơn so với thời gian quy định tại điểm b khoản 1 Điều này khi thuộc một trong các trường hợp sau đây:\n\na) Đã lập công lớn trong thời gian chấp hành hình phạt tù, có xác nhận của trại giam, trại tạm giam;\n\nb) Là thương binh; bệnh binh; người có thành tích trong chiến đấu bảo vệ Tổ quốc, xây dựng chủ nghĩa xã hội được tặng thưởng một trong các danh hiệu Anh hùng lực lượng vũ trang nhân dân, Anh hùng lao động, Huân chương, Huy chương kháng chiến, các danh hiệu Dũng sỹ trong kháng chiến chống Mỹ cứu nước; người có thân nhân là liệt sỹ; con của Bà mẹ Việt Nam anh hùng; con của Gia đình có công với nước;\n\nc) Là người đang mắc bệnh hiểm nghèo hoặc ốm đau thường xuyên, có kết luận giám định y khoa hoặc xác nhận bằng văn bản của cơ quan y tế có thẩm quyền;\n\nd) Khi phạm tội là người chưa thành niên;\n\nđ) Là người từ 70 tuổi trở lên;\n\ne) Có hoàn cảnh gia đình đặc biệt khó khăn, bản thân là lao động duy nhất trong gia đình, có xác nhận của Uỷ ban nhân dân cấp xã nơi gia đình người đó cư trú;\n\ng) Trường hợp khác do Chủ tịch nước quyết định.\n\n3. Chính phủ có trách nhiệm hướng dẫn chi tiết việc áp dụng điều kiện của người được đề nghị đặc xá theo Quyết định về đặc xá của Chủ tịch nước."
+   }
+  },
+  {
+   "id": "VN-H497-A11",
+   "no": 11,
+   "noLabel": {
+    "vi": "Điều 11"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Các trường hợp không đề nghị đặc xá"
+   },
+   "text": {
+    "vi": "Điều 11. Các trường hợp không đề nghị đặc xá\n\nNgười có đủ điều kiện quy định tại Điều 10 của Luật này không được đề nghị đặc xá trong các trường hợp sau đây:\n\n1. Bản án hoặc quyết định của Tòa án đối với người đó đang có kháng nghị theo thủ tục giám đốc thẩm, tái thẩm;\n\n2. Đang bị truy cứu trách nhiệm hình sự về hành vi phạm tội khác;\n\n3. Trước đó đã được đặc xá;\n\n4. Có từ hai tiền án trở lên;\n\n5. Trường hợp khác do Chủ tịch nước quyết định."
+   }
+  },
+  {
+   "id": "VN-H497-A12",
+   "no": 12,
+   "noLabel": {
+    "vi": "Điều 12"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Quyền của người được đề nghị đặc xá"
+   },
+   "text": {
+    "vi": "Điều 12. Quyền của người được đề nghị đặc xá\n\n1. Được thông báo về chính sách, pháp luật về đặc xá, Quyết định về đặc xá của Chủ tịch nước, văn bản hướng dẫn của cơ quan có thẩm quyền về điều kiện của người được đề nghị đặc xá và thông tin khác về đặc xá liên quan đến người được đề nghị đặc xá.\n\n2. Liên hệ với thân nhân, cá nhân, cơ quan, tổ chức có thẩm quyền thu thập, cung cấp giấy tờ, tài liệu cần thiết để hoàn thiện hồ sơ đề nghị đặc xá.\n\n3. Khiếu nại, tố cáo theo quy định tại Chương V của Luật này."
+   }
+  },
+  {
+   "id": "VN-H497-A13",
+   "no": 13,
+   "noLabel": {
+    "vi": "Điều 13"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Nghĩa vụ của người được đề nghị đặc xá"
+   },
+   "text": {
+    "vi": "Điều 13. Nghĩa vụ của người được đề nghị đặc xá\n\n1. Nộp đơn xin đặc xá theo quy định của Luật này.\n\n2. Khai báo đầy đủ, trung thực thông tin về cá nhân liên quan đến việc đề nghị đặc xá.\n\n3. Chấp hành đầy đủ hình phạt bổ sung là phạt tiền, bồi thường thiệt hại, án phí hoặc nghĩa vụ dân sự khác sau khi được đặc xá.\n\nMục 3\n\nTRÌNH TỰ, THỦ TỤC ĐỀ NGHỊ ĐẶC XÁ, THỰC HIỆN QUYẾT ĐỊNH ĐẶC XÁ"
+   }
+  },
+  {
+   "id": "VN-H497-A14",
+   "no": 14,
+   "noLabel": {
+    "vi": "Điều 14"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Hồ sơ đề nghị đặc xá"
+   },
+   "text": {
+    "vi": "Điều 14. Hồ sơ đề nghị đặc xá\n\n1. Đơn xin đặc xá.\n\n2. Tài liệu chứng minh về cá nhân, hoàn cảnh gia đình của người được đề nghị đặc xá.\n\n3. Tài liệu chứng minh đã chấp hành xong hình phạt bổ sung là phạt tiền, bồi thường thiệt hại, án phí hoặc nghĩa vụ dân sự khác.\n\n4. Cam kết không vi phạm pháp luật, tiếp tục chấp hành đầy đủ hình phạt bổ sung là phạt tiền, bồi thường thiệt hại, án phí hoặc nghĩa vụ dân sự khác sau khi được đặc xá.\n\n5. Văn bản đề nghị đặc xá của Giám thị trại giam, Giám thị trại tạm giam."
+   }
+  },
+  {
+   "id": "VN-H497-A15",
+   "no": 15,
+   "noLabel": {
+    "vi": "Điều 15"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Trình tự, thủ tục lập hồ sơ đề nghị đặc xá"
+   },
+   "text": {
+    "vi": "Điều 15. Trình tự, thủ tục lập hồ sơ đề nghị đặc xá\n\nCăn cứ vào Quyết định về đặc xá của Chủ tịch nước và hướng dẫn của cơ quan nhà nước có thẩm quyền, trình tự, thủ tục lập hồ sơ đề nghị đặc xá được thực hiện như sau:\n\n1. Giám thị trại giam, Giám thị trại tạm giam thuộc Bộ Công an, Bộ Quốc phòng có trách nhiệm rà soát, lập danh sách và hồ sơ người đang chấp hành hình phạt tù có đủ điều kiện đề nghị đặc xá theo quy định của pháp luật, thông báo, niêm yết công khai danh sách người được đề nghị đặc xá tại trại giam, trại tạm giam và làm văn bản đề nghị Bộ trưởng Bộ Công an, Bộ trưởng Bộ Quốc phòng xem xét.\n\n2. Giám thị trại tạm giam thuộc Công an cấp tỉnh, Giám thị trại tạm giam thuộc quân khu và tương đương có trách nhiệm rà soát, lập danh sách và hồ sơ người đang chấp hành hình phạt tù có đủ điều kiện đề nghị đặc xá theo quy định của pháp luật, báo cáo Giám đốc Công an cấp tỉnh, Tư lệnh quân khu và tương đương. Giám đốc Công an cấp tỉnh, Tư lệnh quân khu và tương đương xét duyệt danh sách, đề nghị Bộ trưởng Bộ Công an, Bộ trưởng Bộ Quốc phòng xem xét. Giám thị trại tạm giam thông báo, niêm yết công khai danh sách này tại trại tạm giam.\n\n3. Bộ trưởng Bộ Công an, Bộ trưởng Bộ Quốc phòng có trách nhiệm xem xét hồ sơ đề nghị đặc xá được lập theo quy định tại khoản 1 và khoản 2 Điều này và lập danh sách người đủ điều kiện và danh sách người không đủ điều kiện đề nghị đặc xá để trình Hội đồng tư vấn đặc xá xem xét."
+   }
+  },
+  {
+   "id": "VN-H497-A16",
+   "no": 16,
+   "noLabel": {
+    "vi": "Điều 16"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Thủ tục trình Chủ tịch nước danh sách đề nghị đặc xá"
+   },
+   "text": {
+    "vi": "Điều 16. Thủ tục trình Chủ tịch nước danh sách đề nghị đặc xá\n\nHội đồng tư vấn đặc xá tổ chức thẩm định hồ sơ, danh sách do Bộ trưởng Bộ Công an, Bộ trưởng Bộ Quốc phòng trình; lập danh sách người đủ điều kiện và danh sách người không đủ điều kiện đặc xá trình Chủ tịch nước xem xét, quyết định."
+   }
+  },
+  {
+   "id": "VN-H497-A17",
+   "no": 17,
+   "noLabel": {
+    "vi": "Điều 17"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Hướng dẫn về trình tự, thủ tục lập danh sách, thẩm định hồ sơ đề nghị đặc xá"
+   },
+   "text": {
+    "vi": "Điều 17. Hướng dẫn về trình tự, thủ tục lập danh sách, thẩm định hồ sơ đề nghị đặc xá\n\n1. Chính phủ có trách nhiệm hướng dẫn cụ thể trình tự, thủ tục lập danh sách, thẩm định hồ sơ đề nghị đặc xá và hướng dẫn thực hiện Quyết định về đặc xá của Chủ tịch nước.\n\n2. Bộ Công an, Bộ Quốc phòng, Toà án nhân dân tối cao, Viện kiểm sát nhân dân tối cao và các cơ quan, tổ chức có liên quan trong phạm vi nhiệm vụ, quyền hạn của mình hướng dẫn, phối hợp thực hiện việc lập danh sách, xét duyệt hồ sơ đề nghị đặc xá."
+   }
+  },
+  {
+   "id": "VN-H497-A18",
+   "no": 18,
+   "noLabel": {
+    "vi": "Điều 18"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Thực hiện Quyết định đặc xá"
+   },
+   "text": {
+    "vi": "Điều 18. Thực hiện Quyết định đặc xá\n\nKhi có Quyết định đặc xá của Chủ tịch nước, Giám thị trại giam, Giám thị trại tạm giam thuộc Bộ Công an, Bộ Quốc phòng, Giám đốc Công an cấp tỉnh, Tư lệnh quân khu và tương đương có trách nhiệm:\n\n1. Tổ chức công bố và thực hiện Quyết định đặc xá đối với người được đặc xá;\n\n2. Cấp giấy chứng nhận đặc xá cho người được đặc xá;\n\n3. Thông báo ngay bằng văn bản cho Uỷ ban nhân dân cấp xã nơi người được đặc xá về cư trú."
+   }
+  },
+  {
+   "id": "VN-H497-A19",
+   "no": 19,
+   "noLabel": {
+    "vi": "Điều 19"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Thực hiện Quyết định đặc xá đối với người nước ngoài"
+   },
+   "text": {
+    "vi": "Điều 19. Thực hiện Quyết định đặc xá đối với người nước ngoài\n\nKhi có Quyết định đặc xá của Chủ tịch nước đối với người nước ngoài, Bộ Công an, Bộ Quốc phòng chủ trì phối hợp với Bộ Ngoại giao thông báo cho cơ quan đại diện ngoại giao, cơ quan lãnh sự của nước mà người được đặc xá là công dân biết và đề nghị phối hợp thực hiện Quyết định đặc xá của Chủ tịch nước."
+   }
+  },
+  {
+   "id": "VN-H497-A20",
+   "no": 20,
+   "noLabel": {
+    "vi": "Điều 20"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Quyền và nghĩa vụ của người được đặc xá"
+   },
+   "text": {
+    "vi": "Điều 20. Quyền và nghĩa vụ của người được đặc xá\n\n1. Người được đặc xá có quyền:\n\na) Được cấp Giấy chứng nhận đặc xá;\n\nb) Được chính quyền địa phương và cơ quan, tổ chức có liên quan tạo điều kiện, giúp đỡ để hoà nhập với gia đình và cộng đồng;\n\nc) Được hưởng các quyền khác như đối với người đã chấp hành xong hình phạt tù theo quy định của pháp luật.\n\n2. Người được đặc xá có nghĩa vụ:\n\na) Xuất trình Giấy chứng nhận đặc xá với Uỷ ban nhân dân cấp xã nơi người đó cư trú;\n\nb) Thực hiện đầy đủ các nghĩa vụ đã cam kết;\n\nc) Nghiêm chỉnh chấp hành chính sách, pháp luật của Nhà nước.\n\nChương III\n\nĐẶC XÁ TRONG TRƯỜNG HỢP ĐẶC BIỆT"
+   }
+  },
+  {
+   "id": "VN-H497-A21",
+   "no": 21,
+   "noLabel": {
+    "vi": "Điều 21"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Người được đặc xá trong trường hợp đặc biệt"
+   },
+   "text": {
+    "vi": "Điều 21. Người được đặc xá trong trường hợp đặc biệt\n\nTrong trường hợp đặc biệt, để đáp ứng yêu cầu về đối nội, đối ngoại của Nhà nước, Chủ tịch nước quyết định đặc xá cho người bị kết án phạt tù có thời hạn, tù chung thân đang chấp hành hình phạt tù, người được hoãn, tạm đình chỉ chấp hành hình phạt tù mà không phụ thuộc vào các điều kiện quy định tại Điều 10 và Điều 11 của Luật này."
+   }
+  },
+  {
+   "id": "VN-H497-A22",
+   "no": 22,
+   "noLabel": {
+    "vi": "Điều 22"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Trình tự, thủ tục lập hồ sơ đặc xá trong trường hợp đặc biệt"
+   },
+   "text": {
+    "vi": "Điều 22. Trình tự, thủ tục lập hồ sơ đặc xá trong trường hợp đặc biệt\n\nTheo yêu cầu của Chủ tịch nước hoặc theo đề nghị của Chính phủ về đặc xá được Chủ tịch nước chấp nhận, Chính phủ chủ trì phối hợp với Toà án nhân dân tối cao, Viện kiểm sát nhân dân tối cao và các cơ quan, tổ chức có liên quan lập hồ sơ của người được đề nghị đặc xá trình Chủ tịch nước xem xét, quyết định."
+   }
+  },
+  {
+   "id": "VN-H497-A23",
+   "no": 23,
+   "noLabel": {
+    "vi": "Điều 23"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Thực hiện Quyết định đặc xá trong trường hợp đặc biệt"
+   },
+   "text": {
+    "vi": "Điều 23. Thực hiện Quyết định đặc xá trong trường hợp đặc biệt\n\n1. Chính phủ, Toà án nhân dân tối cao, Viện kiểm sát nhân dân tối cao trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm tổ chức thực hiện Quyết định đặc xá của Chủ tịch nước trong trường hợp đặc biệt.\n\n2. Việc thực hiện Quyết định đặc xá của Chủ tịch nước đối với người nước ngoài trong trường hợp đặc biệt được áp dụng theo quy định tại Điều 19 của Luật này.\n\n3. Người được đặc xá trong trường hợp đặc biệt có quyền và nghĩa vụ theo quy định tại Điều 20 của Luật này.\n\nChương IV\n\nTRÁCH NHIỆM CỦA CƠ QUAN, TỔ CHỨC TRONG VIỆC THỰC HIỆN ĐẶC XÁ"
+   }
+  },
+  {
+   "id": "VN-H497-A24",
+   "no": 24,
+   "noLabel": {
+    "vi": "Điều 24"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Trách nhiệm của Chính phủ"
+   },
+   "text": {
+    "vi": "Điều 24. Trách nhiệm của Chính phủ\n\n1. Ban hành văn bản hướng dẫn theo quy định tại khoản 3 Điều 10 và khoản 1 Điều 17 của Luật này.\n\n2. Chỉ đạo việc tổ chức tuyên truyền, phổ biến về ý nghĩa, mục đích và nội dung của hoạt động đặc xá.\n\n3. Chỉ đạo Bộ Công an, Bộ Quốc phòng, các cơ quan khác của Chính phủ và Uỷ ban nhân dân các cấp thực hiện đặc xá theo quy định của Luật này, Quyết định về đặc xá của Chủ tịch nước và các văn bản hướng dẫn thi hành."
+   }
+  },
+  {
+   "id": "VN-H497-A25",
+   "no": 25,
+   "noLabel": {
+    "vi": "Điều 25"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Trách nhiệm của Hội đồng tư vấn đặc xá"
+   },
+   "text": {
+    "vi": "Điều 25. Trách nhiệm của Hội đồng tư vấn đặc xá\n\n1. Hội đồng tư vấn đặc xá do Chủ tịch nước quyết định thành lập khi có Quyết định về đặc xá, gồm một Phó Thủ tướng Chính phủ làm Chủ tịch và các uỷ viên là đại diện lãnh đạo các cơ quan, tổ chức sau đây:\n\na) Bộ Công an;\n\nb) Bộ Quốc phòng;\n\nc) Bộ Tư pháp;\n\nd) Toà án nhân dân tối cao;\n\nđ) Viện kiểm sát nhân dân tối cao;\n\ne) Văn phòng chủ tịch nước;\n\ng) Văn phòng Chính phủ;\n\nh) Uỷ ban trung ương Mặt trận Tổ quốc Việt Nam;\n\ni) Các bộ, ngành, cơ quan, tổ chức có liên quan do Chủ tịch nước quyết định khi thấy cần thiết.\n\n2. Trách nhiệm của Hội đồng tư vấn đặc xá:\n\na) Triển khai Quyết định về đặc xá của Chủ tịch nước;\n\nb) Xem xét, thẩm định hồ sơ, danh sách người đủ điều kiện và danh sách người không đủ điều kiện đề nghị đặc xá do Bộ trưởng Bộ Công an, Bộ trưởng Bộ Quốc phòng trình;\n\nc) Xem xét, lập và trình Chủ tịch nước danh sách người đủ điều kiện và danh sách người không đủ điều kiện đặc xá để Chủ tịch nước quyết định;\n\nd) Thực hiện nhiệm vụ khác về đặc xá do Chủ tịch giao.\n\n3. Chủ tịch Hội đồng tư vấn đặc xá chịu trách nhiệm trước Chủ tịch nước về hoạt động của Hội đồng tư vấn đặc xá theo quy định tại khoản 2 Điều này."
+   }
+  },
+  {
+   "id": "VN-H497-A26",
+   "no": 26,
+   "noLabel": {
+    "vi": "Điều 26"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Trách nhiệm của Bộ Công an"
+   },
+   "text": {
+    "vi": "Điều 26. Trách nhiệm của Bộ Công an\n\n1. Hướng dẫn, kiểm tra, đôn đốc Giám thị trại giam, Giám thị trại tạm giam thuộc Bộ Công an và Giám đốc Công an cấp tỉnh thực hiện việc lập hồ sơ đề nghị đặc xá, tổ chức thực hiện Quyết định đặc xá theo quy định tại khoản 1 và khoản 2 Điều 15, khoản 2 Điều 17 và Điều 18 của Luật này và các văn bản hướng dẫn của cơ quan nhà nước có thẩm quyền.\n\n2. Chủ trì phối hợp với Toà án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Uỷ ban trung ương Mặt trận Tổ quốc Việt Nam và các cơ quan có liên quan kiểm tra hoạt động đặc xá tại các trại giam, trại tạm giam, giúp Hội đồng tư vấn đặc xá tổ chức thẩm định hồ sơ đề nghị đặc xá.\n\n3. Chỉ đạo Công an các cấp phối hợp với các cơ quan, tổ chức có liên quan trong việc quản lý, giáo dục và giúp đỡ người được đặc xá trở về địa phương sớm ổn định cuộc sống và phòng ngừa họ vi phạm pháp luật."
+   }
+  },
+  {
+   "id": "VN-H497-A27",
+   "no": 27,
+   "noLabel": {
+    "vi": "Điều 27"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Trách nhiệm của Bộ Quốc phòng"
+   },
+   "text": {
+    "vi": "Điều 27. Trách nhiệm của Bộ Quốc phòng\n\nHướng dẫn, kiểm tra, đôn đốc Giám thị trại giam, Giám thị trại tạm giam thuộc Bộ Quốc phòng, Tư lệnh quân khu và tương đương thực hiện việc lập hồ sơ đề nghị đặc xá, tổ chức thực hiện Quyết định đặc xá theo quy định tại khoản 1 và khoản 2 Điều 15, khoản 2 Điều 17 và Điều 18 của Luật này và các văn bản hướng dẫn của cơ quan nhà nước có thẩm quyền."
+   }
+  },
+  {
+   "id": "VN-H497-A28",
+   "no": 28,
+   "noLabel": {
+    "vi": "Điều 28"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Trách nhiệm của Toà án nhân dân tối cao"
+   },
+   "text": {
+    "vi": "Điều 28. Trách nhiệm của Toà án nhân dân tối cao\n\n1. Phối hợp với Bộ Công an, Bộ Quốc phòng, Viện kiểm sát nhân dân tối cao và các cơ quan, tổ chức có liên quan trong hoạt động đặc xá.\n\n2. Hướng dẫn, kiểm tra, đôn đốc Tòa án cấp dưới thực hiện đặc xá theo quy định tại khoản 2 Điều 17, Điều 22 và khoản 1 Điều 23 của Luật này và các văn bản hướng dẫn của cơ quan nhà nước có thẩm quyền."
+   }
+  },
+  {
+   "id": "VN-H497-A29",
+   "no": 29,
+   "noLabel": {
+    "vi": "Điều 29"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Trách nhiệm của Viện kiểm sát nhân dân tối cao"
+   },
+   "text": {
+    "vi": "Điều 29. Trách nhiệm của Viện kiểm sát nhân dân tối cao\n\n1. Trực tiếp kiểm sát việc lập hồ sơ đề nghị đặc xá, thực hiện Quyết định đặc xá của Chủ tịch nước tại các trại giam, trại tạm giam thuộc Bộ Công an, Bộ Quốc phòng theo quy định tại khoản 1 và khoản 2 Điều 15 và Điều 18 của Luật này.\n\n2. Hướng dẫn, kiểm tra, đôn đốc Viện kiểm sát nhân dân cấp tỉnh, Viện kiểm sát quân sự quân khu và tương đương kiểm sát việc lập hồ sơ đề nghị đặc xá, thực hiện Quyết định đặc xá của Chủ tịch nước tại trại tạm giam thuộc Công an cấp tỉnh, trại tạm giam thuộc quân khu và tương đương theo quy định tại khoản 1 và khoản 2 Điều 15 và Điều 18 của Luật này."
+   }
+  },
+  {
+   "id": "VN-H497-A30",
+   "no": 30,
+   "noLabel": {
+    "vi": "Điều 30"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Trách nhiệm của Uỷ ban nhân dân các cấp, các cơ quan, tổ chức có liên quan"
+   },
+   "text": {
+    "vi": "Điều 30. Trách nhiệm của Uỷ ban nhân dân các cấp, các cơ quan, tổ chức có liên quan\n\n1. Tuyên truyền, phổ biến Luật đặc xá, Quyết định về đặc xá của Chủ tịch nước và các văn bản hướng dẫn của cơ quan nhà nước có thẩm quyền.\n\n2. Cung cấp thông tin, tài liệu có liên quan đến nhân thân; cấp giấy chứng nhận, xác nhận về việc chấp hành chính sách, pháp luật hoặc hoàn cảnh gia đình hoặc các giấy tờ, tài liệu cần thiết khác của người được đề nghị đặc xá.\n\n3. Tiếp nhận, tạo điều kiện, giúp đỡ người được đặc xá trở về hoà nhập với gia đình và cộng đồng, tạo công ăn việc làm, ổn định cuộc sống và trở thành người có ích cho xã hội."
+   }
+  },
+  {
+   "id": "VN-H497-A31",
+   "no": 31,
+   "noLabel": {
+    "vi": "Điều 31"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Trách nhiệm của Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên"
+   },
+   "text": {
+    "vi": "Điều 31. Trách nhiệm của Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên\n\n1. Phối hợp với các cơ quan, tổ chức có liên quan tuyên truyền, phổ biến Luật đặc xá, Quyết định về đặc xá của Chủ tịch nước và các văn bản hướng dẫn của cơ quan nhà nước có thẩm quyền.\n\n2. Phối hợp với chính quyền địa phương tạo điều kiện, giúp đỡ người được đặc xá trở về hoà nhập với gia đình và cộng đồng, phòng ngừa tái phạm, tạo công ăn việc làm, ổn định cuộc sống và trở thành người có ích cho xã hội.\n\n3. Giám sát hoạt động của cơ quan, tổ chức, người có thẩm quyền trong việc thực hiện Luật đặc xá, Quyết định về đặc xá của Chủ tịch nước và các văn bản hướng dẫn của cơ quan nhà nước có thẩm quyền.\n\nChương V\n\nKHIẾU NẠI, TỐ CÁO"
+   }
+  },
+  {
+   "id": "VN-H497-A32",
+   "no": 32,
+   "noLabel": {
+    "vi": "Điều 32"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Khiếu nại về việc lập danh sách người được đề nghị đặc xá nhân sự kiện trọng đại hoặc ngày lễ lớn của đất nước"
+   },
+   "text": {
+    "vi": "Điều 32. Khiếu nại về việc lập danh sách người được đề nghị đặc xá nhân sự kiện trọng đại hoặc ngày lễ lớn của đất nước\n\n1. Người có đơn xin đặc xá có quyền khiếu nại về việc người đó có đủ điều kiện nhưng không được Giám thị trại giam, Giám thị trại tạm giam thuộc Bộ Công an, Bộ Quốc phòng, Giám đốc Công an cấp tỉnh, Tư lệnh quân khu và tương đương đưa vào danh sách người được đề nghị đặc xá.\n\n2. Người khiếu nại có thể tự mình hoặc thông qua người đại diện hợp pháp để khiếu nại.\n\n3. Thời hạn khiếu nại là năm ngày làm việc, kể từ ngày Giám thị trại giam, Giám thị trại tạm giam thông báo, niêm yết danh sách người được đề nghị đặc xá."
+   }
+  },
+  {
+   "id": "VN-H497-A33",
+   "no": 33,
+   "noLabel": {
+    "vi": "Điều 33"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Thẩm quyền và thời hạn giải quyết khiếu nại"
+   },
+   "text": {
+    "vi": "Điều 33. Thẩm quyền và thời hạn giải quyết khiếu nại\n\nGiám thị trại giam, Giám thị trại tạm giam thuộc Bộ Công an, Bộ Quốc phòng, Giám đốc Công an cấp tỉnh, Tư lệnh quân khu và tương đương có trách nhiệm xem xét, giải quyết khiếu nại trong thời hạn ba ngày làm việc, kể từ ngày nhận được khiếu nại.\n\nTrường hợp không đồng ý với kết quả giải quyết khiếu nại của Giám thị trại giam, Giám thị trại tạm giam thuộc Bộ Công an, Bộ Quốc phòng, Giám đốc Công an cấp tỉnh, Tư lệnh quân khu và tương đương thì trong thời hạn ba ngày làm việc, kể từ ngày nhận được kết quả giải quyết khiếu nại, người khiếu nại có quyền tiếp tục khiếu nại đến Bộ trưởng Bộ Công an, Bộ trưởng Bộ Quốc phòng. Bộ trưởng Bộ Công an, Bộ trưởng Bộ Quốc phòng có trách nhiệm xem xét, nếu chấp nhận khiếu nại thì đưa vào danh sách người đủ điều kiện đề nghị đặc xá; nếu không chấp nhận khiếu nại thì đưa vào danh sách người không đủ điều kiện đề nghị đặc xá."
+   }
+  },
+  {
+   "id": "VN-H497-A34",
+   "no": 34,
+   "noLabel": {
+    "vi": "Điều 34"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Tố cáo hành vi vi phạm pháp luật trong việc thực hiện đặc xá"
+   },
+   "text": {
+    "vi": "Điều 34. Tố cáo hành vi vi phạm pháp luật trong việc thực hiện đặc xá\n\nCông dân có quyền tố cáo hành vi vi phạm pháp luật trong việc thực hiện đặc xá.\n\nViệc giải quyết tố cáo trong việc thực hiện đặc xá theo quy định của pháp luật về tố cáo.\n\nChương IV\n\nĐIỀU KHOẢN THI HÀNH"
+   }
+  },
+  {
+   "id": "VN-H497-A35",
+   "no": 35,
+   "noLabel": {
+    "vi": "Điều 35"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Hiệu lực thi hành"
+   },
+   "text": {
+    "vi": "Điều 35. Hiệu lực thi hành\n\nLuật này có hiệu lực thi hành từ ngày 01 tháng 3 năm 2008."
+   }
+  },
+  {
+   "id": "VN-H497-A36",
+   "no": 36,
+   "noLabel": {
+    "vi": "Điều 36"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Hướng dẫn thi hành"
+   },
+   "text": {
+    "vi": "Điều 36. Hướng dẫn thi hành\n\nChính phủ quy định chi tiết và hướng dẫn thi hành Luật này\n\nLuật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XII, kỳ họp thứ 2 thông qua ngày 21 tháng 11 năm 2007./.\n\n CHỦ TỊCH QUỐC HỘI\n\n (Đã ký)\n\n Nguyễn Phú Trọng\n\n1:{\"id\":\"12891\",\"docType\":{\"id\":\"11025e19-2dd6-4165-85ad-ab6241186a1a\",\"name\":\"Luật\",\"code\":\"Lu\",\"parentCode\":\"VBQPPL\",\"parentName\":null},\"docGroup\":\"VBQPPL\",\"docNum\":\"07/2007/QH12\",\"title\":\"Luật Đặc xá số 07/2007/QH12\",\"applicationNote\":null,\"issueDate\":\"2007-11-21T00:00:00\",\"effFrom\":\"2008-03-01T00:00:00\",\"effTo\":null,\"publicDate\":null,\"effStatus\":{\"id\":\"f55c1469-4341-4274-93ef-32b283db4dbd\",\"name\":\"Hết hiệu lực toàn bộ\",\"code\":\"HHL\",\"parentCode\":null,\"parentName\":null},\"status\":\"Publish\",\"lang\":\"vi\",\"defaultLanguage\":\"VN\",\"updatedBy\":\"bca_bientap\",\"updatedDate\":\"2026-05-13T10:19:48\",\"agencyName\":\"Quốc hội\",\"organization\":{\"id\":\"0995e017-a693-4ca7-9dc6-b0a969fe5f19\",\"code\":\"BCA\",\"name\":\"Bộ Công an\",\"nameEn\":\"Bộ Công an\",\"shortName\":\"BCA\",\"orgType\":\"0\"},\"isLw\":true,\"documentContent\":{\"id\":\"12891\",\"title\":null,\"content\":\"$2\"},\"documentContentEn\":null,\"documentContentFileName\":null,\"documentContentFileDocName\":null,\"documentIssues\":[{\"id\":\"8bff0a40-4e7a-11f1-a4e3-335564f4ee86\",\"agencyId\":\"55\",\"agencyName\":\"Quốc hội\",\"agencyNameEn\":\"National Assembly of Vietnam\",\"agencyCode\":\"QH\",\"personId\":\"119\",\"personName\":\"Nguyễn Phú Trọng\",\"jobTitleId\":\"28da0087-8afd-420c-875c-b2369e212c3e\",\"jobTitleCode\":\"CTQH\",\"jobTitleName\":\"Chủ tịch Quốc hội\",\"orderIndex\":1},{\"id\":\"d99e6b71-8fc9-44e8-a361-330318d572e9\",\"agencyId\":\"55\",\"agencyName\":\"Quốc hội\",\"agencyNameEn\":\"National Assembly of Vietnam\",\"agencyCode\":\"QH\",\"personId\":\"119\",\"personName\":\"Nguyễn Phú Trọng\",\"jobTitleId\":\"28da0087-8afd-420c-875c-b2369e212c3e\",\"jobTitleCode\":\"CTQH\",\"jobTitleName\":\"Chủ tịch Quốc hội\",\"orderIndex\":1}],\"documentMajors\":[{\"id\":\"e1823855-a27d-4c78-9531-78512294d62d\",\"name\":\"An ninh quốc gia\",\"code\":null,\"parentCode\":null,\"parentName\":null}],\"documentFields\":[{\"id\":\"76e2c0d5-e93e-4ee9-8c72-59dae1167432\",\"name\":\"Chưa phân loại\",\"code\":null,\"parentCode\":null,\"parentName\":null},{\"id\":\"e2106bf5-5bbb-4206-a7f1-e6602d529087\",\"name\":\"An ninh quốc gia\",\"code\":null,\"parentCode\":null,\"parentName\":null}],\"documentRelatedList\":[{\"id\":\"1651f51f-0499-459b-83bd-a6695bf426a0\",\"fileName\":\"12891_body_content.html\",\"relatedType\":\"MARKDOWN\",\"fileTitle\":\"12891_body_content.html\",\"fileOrder\":1},{\"id\":\"1d6ab022-0176-4ca9-9c1d-ebb830b119c9\",\"fileName\":\"LuatDacxa.zip\",\"relatedType\":\"APPENDIX\",\"fileTitle\":\"LuatDacxa.zip\",\"fileOrder\":2}],\"provisionTree\":null,\"references\":null,\"isEffectAllDocument\":false,\"isOld\":true,\"reviewStatus\":\"RV_DONE\",\"reviewed\":true,\"isTranslationDoc\":false,\"isConsolidatedDocument\":false,\"isConstitutionDocument\":false,\"isAdministrativeDocument\":false,\"viewCount\":97,\"showViewCount\":true,\"hasContent\":true,\"hasOriginalPdf\":null,\"hasAIProcessed\":false,\"hasClauseRelation\":null,\"aiResults\":[]}"
+   }
+  }
+ ]
+}

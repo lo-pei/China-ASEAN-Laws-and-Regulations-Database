@@ -1,0 +1,50 @@
+{
+ "id": "PH-H17132",
+ "title": {
+  "zh": null,
+  "en": "THE GOVERNMENT OF THE PHILIPPINE ISLANDS, EXECUTIVE BUREAU.",
+  "orig": "THE GOVERNMENT OF THE PHILIPPINE ISLANDS, EXECUTIVE BUREAU."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p157",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Executive Order No. 64",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 1,
+ "chars": 391,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/07_行政命令_EO/EO_00064_1913.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 1 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 EO_00064_1913.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H17132-A1",
+   "no": 1,
+   "noLabel": {},
+   "text": {
+    "en": "Containing 33,761 square meters.\nBounded on northeast and southeast by Iloilo Strait; on\nsouthwest by Philippine Railway Company right of way;\non northwest by lot 1.\nBearings true. Declination, 1° 40' E.\nPoints referred to marked on plan In-113.\nSurveyed, December 20, 1911. Approved, August 4, 1913.\n[NOTE.- Lots 6720 and 6750, Iloilo Cadastral Case 2.]\nW. CAMERON FORBES,\nGovernor-General."
+   }
+  }
+ ]
+}

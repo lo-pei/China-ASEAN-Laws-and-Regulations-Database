@@ -1,0 +1,1382 @@
+{
+ "id": "ID-H1425",
+ "title": {
+  "zh": "国家所有经营机构法",
+  "en": "body business state-owned Law",
+  "id": "badan usaha milik negara",
+  "orig": "BADAN USAHA MILIK NEGARA",
+  "vi": "Luật cơ quan kinh doanh thuộc nhà nước",
+  "th": "พระราชบัญญัติ องค์กร ธุรกิจ ของรัฐ",
+  "ms": "Akta badan usaha milik negara"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02a",
+ "language": "id",
+ "level": "law",
+ "category": "02_民商事与经济法",
+ "status": "active",
+ "promulgatedDate": "2003",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU19-2003",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 94,
+ "chars": 91908,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU0192003.pdf&fl=P01198"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\02_民商事与经济法\\印尼_文本_2003_BADAN USAHA MILIK NEGARA.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 95 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H1425-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\nDalam Undang-undang ini, yang dimaksud dengan :\n1. Badan Usaha Milik Negara, yang selanjutnya disebut BUMN, adalah\nbadan usaha yang seluruh atau sebagian besar modalnya dimiliki oleh\nnegara melalui penyertaan secara langsung yang berasal dari kekayaan\nnegara yang dipisahkan.\n2. Perusahaan Perseroan, yang selanjutnya disebut Persero, adalah BUMN\nyang berbentuk perseroan terbatas yang modalnya terbagi dalam saham\nyang seluruh atau paling sedikit 51 % (lima puluh satu persen) sahamn ya\ndimiliki oleh Negara Republik Indonesia yang tujuan utamanya mengejar\nkeuntungan.\n3. Perusahaan Perseroan Terbuka, yang selanjutnya disebut Persero Terbuka,\nadalah Persero yang modal dan jumlah pemegang sahamnya memenuhi\nkriteria tertentu atau Persero yang melakukan penawaran umum sesuai\ndengan peraturan perundang-undangan di bidang pasar modal.\n4. Perusahaan …\nPRESIDEN\nREPUBLIK INDONESIA\n4. Perusahaan Umum, yang selanjutnya disebut Perum, adalah BUMN yang\nseluruh modalnya dimiliki negara dan tidak terbagi atas saham, yang\nbertujuan untuk kemanfaatan umum berupa penyediaan barang dan/atau\njasa yang bermutu tinggi dan sekaligus mengejar keuntungan berdasarkan\nprinsip pengelolaan perusahaan.\n5. Menteri adalah menteri yang ditunjuk dan/atau diberi kuasa untuk\nmewakili pemerintah selaku pemegang saham negara pada Persero dan\npemilik modal pada Perum dengan memperhatikan peraturan perundang -\nundangan.\n6. Menteri Teknis adalah menteri yang mempunyai kewe nangan mengatur\nkebijakan sektor tempat BUMN melakukan kegiatan usaha.\n7. Komisaris adalah organ Persero yang bertugas melakukan pengawasan dan\nmemberikan nasihat kepada Direksi dalam menjalankan kegiatan\npengurusan Persero.\n8. Dewan Pengawas adalah orga n Perum yang bertugas melakukan\npengawasan dan memberikan nasihat kepada Direksi dalam menjalankan\nkegiatan pengurusan Perum.\n9. Direksi adalah organ BUMN yang bertanggung jawab atas pengurusan\nBUMN untuk kepentingan dan tujuan BUMN, serta mewakili BUMN b aik\ndi dalam maupun di luar pengadilan.\n10. Kekayaan Negara yang dipisahkan adalah kekayaan negara yang berasal\ndari Anggaran Pendapatan dan Belanja Negara (APBN) untuk dijadikan\npenyertaan modal negara pada Persero dan/atau Perum serta perseroan\nterbatas lainnya.\n11. Restrukturisasi adalah upaya yang dilakukan dalam rangka penyehatan\nBUMN yang merupakan salah satu langkah strategis untuk memperbaiki\nkondisi internal perusahaan guna memperbaiki kinerja dan meningkatkan\nnilai perusahaan.\n12. Privatisasi ad alah penjualan saham Persero, baik sebagian maupun\nseluruhnya, kepada pihak lain dalam rangka meningkatkan kinerja dan\nnilai perusahaan, memperbesar manfaat bagi negara dan masyarakat, serta\nmemperluas pemilikan saham oleh masyarakat.\n13. Rapat Umum Pemeg ang Saham, yang selanjutnya disebut RUPS, adalah\norgan Persero yang memegang kekuasaan tertinggi dalam Persero dan\nPRESIDEN\nREPUBLIK INDONESIA\nmemegang segala wewenang yang tidak diserahkan kepada Direksi atau\nKomisaris."
+   }
+  },
+  {
+   "id": "ID-H1425-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\n(1) Maksud dan tujuan pendirian BUMN adalah :\na. memberikan sumbangan bagi perkembangan perekonomian nasional\npada umumnya dan penerimaan negara pada khususnya;\nb. mengejar keuntungan;\nc. menyelenggarakan kemanfaatan umum berupa penyediaan barang\ndan/atau jasa yang bermutu tinggi dan memadai bagi pemenuhan\nhajat hidup orang banyak;\nd. menjadi perintis kegiatan -kegiatan usaha yang belum dapat\ndilaksanakan oleh sektor swasta dan koperasi;\ne. turut aktif memberikan bimbingan dan bantuan kepada pengusaha\ngolongan ekonomi lemah, koperasi, dan masyarakat.\n(2) Kegiatan BUMN harus sesuai dengan maksud dan tujuannya serta tidak\nbertentangan dengan peraturan perundang -undangan, ketertiban umum,\ndan/atau kesusilaan.\n(3) Terhadap BUMN berlaku Undang -undang ini, anggaran dasar, dan\nketentuan peraturan perundang-undangan lainnya."
+   }
+  },
+  {
+   "id": "ID-H1425-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\n(1) Modal BUMN merupakan dan berasal dari kekayaan negara yang\ndipisahkan.\n(2) Penyertaan modal negara dalam rangka pendirian atau penyertaan pada\nBUMN bersumber dari:\na. Anggaran Pendapatan dan Belanja Negara;\nb. kapitalisasi cadangan;\nc. sumber lainnya.\n(3) Setiap penyertaan modal negara dalam rangka pendirian BUMN atau\nperseroan terbatas yang dananya berasal dari Anggaran Pendapatan dan\nBelanja Negara ditetapkan dengan Peraturan Pemerintah.\n(4) Setiap …\nPRESIDEN\nREPUBLIK INDONESIA\n(4) Setiap perubahan penyertaan modal negara sebagaima na dimaksud dalam\nayat (2), baik berupa penambahan maupun pengurangan, termasuk\nperubahan struktur kepemilikan negara atas saham Persero atau perseroan\nterbatas, ditetapkan dengan Peraturan Pemerintah.\n(5) Dikecualikan dari ketentuan sebagaimana dimaksud d alam ayat (4) bagi\npenambahan penyertaan modal negara yang berasal dari kapitalisasi\ncadangan dan sumber lainnya.\n(6) Ketentuan lebih lanjut mengenai tata cara penyertaan dan penatausahaan\nmodal negara dalam rangka pendirian atau penyertaan ke dalam BUMN\ndan/atau perseroan terbatas yang sebagian sahamnya dimiliki oleh negara,\ndiatur dengan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H1425-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\n(1) Pengurusan BUMN dilakukan oleh Direksi.\n(2) Direksi bertanggung jawab penuh atas pengurusan BUMN untuk\nkepentingan dan tujuan BUMN serta mewakili BUMN, baik di dalam\nmaupun di luar pengadilan.\n(3) Dalam melaksanakan tugasnya, anggota Direksi harus mema tuhi anggaran\ndasar BUMN dan peraturan perundang -undangan serta wajib\nmelaksanakan prinsip -prinsip profesionalisme, efisiensi, transparansi,\nkemandirian, akuntabilitas, pertanggungjawaban, serta kewajaran."
+   }
+  },
+  {
+   "id": "ID-H1425-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\n(1) Pengawasan BUMN dilakukan oleh Komisaris dan Dewan Pengawas.\n(2) Komisaris dan Dewan Pengawas bertanggung jawab penuh atas\npengawasan BUMN untuk kepentingan dan tujuan BUMN.\n(3) Dalam melaksanakan tugasnya, Komisaris dan Dewan Pengawas harus\nmematuhi Anggaran Dasar BUMN dan ketentuan peratura n perundang -\nundangan serta wajib melaksanakan prinsip -prinsip profesionalisme,\nefisiensi, transparansi, kemandirian, akuntabilitas, pertanggungjawaban,\nserta kewajaran."
+   }
+  },
+  {
+   "id": "ID-H1425-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7 …"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 7\nPara anggota Direksi, Komisaris dan Dewan Pengawas dilarang mengambil\nkeuntungan pribadi baik secara langsung maupun tidak langsung dari kegiatan\nBUMN selain penghasilan yang sah."
+   }
+  },
+  {
+   "id": "ID-H1425-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n(1) Anggota Direksi, Komisaris, dan Dewan Pengawas tidak berwenang\nmewakili BUMN, apabila:\na. terjadi perkara di depan pengadilan antara BUMN dan anggota Direksi\natau Komisaris atau Dewan Pengawas yang bersangkutan; atau\nb. anggota Direksi atau Komisaris atau Dewan Pengawas yang\nbersangkutan mempunyai kepentingan yang bertentangan dengan\nkepentingan BUMN.\n(2) Dalam anggaran dasar ditetapkan yang berhak mewakili BUMN apabila\nterdapat keadaan sebagaimana dimaksud dalam ayat (1).\n(3) Dalam hal anggaran dasar tidak menetapkan ketentuan sebagaimana\ndimaksud dalam ayat (2), RUPS mengangkat 1 (satu) orang atau leb ih\npemegang saham untuk mewakili Persero, dan Menteri mengangkat 1\n(satu) orang atau lebih untuk mewakili Perum."
+   }
+  },
+  {
+   "id": "ID-H1425-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\nBUMN terdiri dari Persero dan Perum.\nBAB II\nPERSERO\nBagian Pertama\nPendirian"
+   }
+  },
+  {
+   "id": "ID-H1425-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\n(1) Pendirian Persero diusulkan oleh Menteri kepada Presiden disertai dengan\ndasar pertimbangan setelah dikaji bersama dengan Menteri Teknis dan\nMenteri Keuangan.\n(2) Pelaksanaan …\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Pelaksanaan pendirian Persero dilakukan oleh Menteri dengan\nmemperhatikan ketentuan peraturan perundangan-undangan."
+   }
+  },
+  {
+   "id": "ID-H1425-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\nTerhadap Persero berlaku segala ketentuan dan prinsip-prinsip yang berlaku bagi\nperseroan terbatas sebagaimana diatur dalam Undang -Undang Nomor 1 Tahun\n1995 tentang Perseroan Terbatas.\nBagian Kedua\nMaksud dan Tujuan"
+   }
+  },
+  {
+   "id": "ID-H1425-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\nMaksud dan tujuan pendirian Persero adalah :\na. menyediakan barang dan/atau jasa yang bermutu tinggi dan berdaya saing\nkuat;\nb. mengejar keuntungan guna meningkatkan nilai perusahaan.\nBagian Ketiga\nOrgan"
+   }
+  },
+  {
+   "id": "ID-H1425-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\nOrgan Persero adalah RUPS, Direksi, dan Komisaris.\nBagian Keempat\nKewenangan RUPS"
+   }
+  },
+  {
+   "id": "ID-H1425-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\n(1) Menteri bertindak selaku RUPS dalam hal seluruh saham Persero dimiliki\noleh negara dan bertindak selaku pemegang saham pada Persero dan\nperseroan terbatas dalam hal tidak seluruh sahamnya dimiliki oleh negara.\n(2) Menteri dapat memberikan kuasa dengan hak substitusi kepada perorangan\natau badan hukum untuk mewakilinya dalam RUPS.\n(3) Pihak yang menerima kuasa sebagaimana dimaksud dalam ayat (2), wajib\nterlebih dahulu mendapat persetujuan Menteri untuk mengambil\nkeputusan dalam RUPS mengenai :\nPRESIDEN\nREPUBLIK INDONESIA\na. peruba han jumlah modal;\nb. perubahan anggaran dasar;\nc. rencana penggunaan laba;\nd. penggabungan, peleburan, pengambilalihan, pemisahan, serta\npembubaran Persero;\ne. investasi dan pembiayaan jangka panjang;\nf. kerja sama Persero;\ng. pembentukan anak perusahaan atau penyertaan;\nh. pengalihan aktiva.\nBagian Kelima\nDireksi Persero"
+   }
+  },
+  {
+   "id": "ID-H1425-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\n(1) Pengangkatan dan pemberhentian Direksi dilakukan oleh RUPS.\n(2) Dalam hal Menteri bertindak selaku RUPS, pengangkatan dan\npemberhentian Direksi ditetapkan oleh Menteri."
+   }
+  },
+  {
+   "id": "ID-H1425-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\n(1) Anggota Direksi diangkat berdasarkan pertimbangan keahlian, integritas,\nkepemimpinan, pengalaman, jujur, perilaku yang baik, serta dedikasi yang\ntinggi untuk memajukan dan mengembangkan Persero.\n(2) Pengangkatan anggota Direksi dilakukan melalui mekanisme uji\nkelayakan dan kepatutan.\n(3) Calon anggota Direksi yang telah dinyatakan lulus uji kelayakan dan\nkepatutan wajib menandatangani kontrak manajemen sebelum ditetapkan\npengangkatannya sebagai anggota Direksi.\n(4) Masa jabatan anggota Direksi ditetapkan 5 (lima) tahun dan dapat\ndiangkat kembali untuk 1 (satu) kali masa jabatan.\n(5) Dalam hal Direksi terdiri atas lebih dari seorang anggota, salah seorang\nanggota Direksi diangkat sebagai direktur utama."
+   }
+  },
+  {
+   "id": "ID-H1425-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17 …"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kelima"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 17\nAnggota Direksi sewaktu -waktu dapat diberhentikan berdasarkan keputusan\nRUPS dengan menyebutkan alasannya."
+   }
+  },
+  {
+   "id": "ID-H1425-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\nKetentuan lebih lanjut mengenai persyaratan dan tata cara pengangkatan dan\npemberhentian anggota Direksi diatur dengan Keputusan Menteri."
+   }
+  },
+  {
+   "id": "ID-H1425-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\nDalam melaksanakan tugasnya, anggota Direksi wajib mencurahkan tenaga,\npikiran dan perhatian secara penuh pada tugas, kewajiban, dan pencapaian\ntujuan Persero."
+   }
+  },
+  {
+   "id": "ID-H1425-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\nDengan memperhatikan si fat khusus masing -masing Persero, Direksi dapat\nmengangkat seorang sekretaris perusahaan."
+   }
+  },
+  {
+   "id": "ID-H1425-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\n(1) Direksi wajib menyiapkan rancangan rencana jangka panjang yang\nmerupakan rencana strategis yang memuat sasaran dan tujuan Persero yang\nhendak dicapai dalam jangka waktu 5 (lima) tahun.\n(2) Rancangan rencana jangka panjang yang telah ditandatangani bersama\ndengan Komisaris disampaikan kepada RUPS untuk mendapatkan\npengesahan."
+   }
+  },
+  {
+   "id": "ID-H1425-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\n(1) Direksi wajib menyiapkan rancangan rencana kerja dan anggaran\nperusahaan yang merupakan penjabaran tahunan dari rencana jangka\npanjang.\n(2) Direksi wajib menyampaikan rancangan rencana kerja dan anggaran\nperusahaan kepada RUPS untuk memperoleh pengesahan."
+   }
+  },
+  {
+   "id": "ID-H1425-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23 …"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kelima"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 23\n(1) Dalam waktu 5 (lima) bulan setelah tahun buku Persero ditutup, Direksi\nwajib menyampaikan laporan tahunan kepada RUPS untuk memperoleh\npengesahan.\n(2) Laporan tahunan sebagaimana dimaksud dalam ayat (1) ditandatangani\noleh semua anggota Direksi dan Komisaris.\n(3) Dalam hal ada anggota Direksi atau Komisaris tidak menandatangani\nlaporan tahunan sebagaimana dimaksud dalam ayat (2), harus disebutkan\nalasannya secara tertulis."
+   }
+  },
+  {
+   "id": "ID-H1425-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 24\nKetentuan lebih lanjut mengenai rencana jangka panjang, rencana kerja dan\nanggaran perusahaan, laporan tahunan dan perhitungan tahunan Persero diatur\ndengan Keputusan Menteri."
+   }
+  },
+  {
+   "id": "ID-H1425-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\nAnggota Direksi dilarang memangku jabatan rangkap sebagai:\na. anggota Direksi pada BUMN, badan usaha milik daerah, badan usaha\nmilik swasta, dan jabatan lain yang dapat menimbulkan benturan\nkepentingan;\nb. jabatan struktural dan fungsional lainnya pada instansi/lembaga pemerintah\npusat dan daerah; dan/atau\nc. jabatan lainnya sesuai dengan ketentuan peraturan perundang-undangan."
+   }
+  },
+  {
+   "id": "ID-H1425-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\nDireksi wajib memelihara risalah rapat dan menyelenggarakan pembukuan\nPersero.\nBagian Keenam\nKomisaris"
+   }
+  },
+  {
+   "id": "ID-H1425-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\n(1) Pengangkatan dan pemberhentian Komisaris dilakukan oleh RUPS.\n(2) Dalam …\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Dalam hal Menteri bertindak selaku RUPS, pengangkatan dan\npemberhentian Komisaris ditetapkan oleh Menteri."
+   }
+  },
+  {
+   "id": "ID-H1425-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\n(1) Anggota Komisaris diangkat berdasarkan pertimbangan integritas,\ndedikasi, memahami masalah -masalah manajemen perusahaa n yang\nberkaitan dengan salah satu fungsi manajemen, memiliki pengetahuan\nyang memadai di bidang usaha Persero tersebut, serta dapat menyediakan\nwaktu yang cukup untuk melaksanakan tugasnya.\n(2) Komposisi Komisaris harus ditetapkan sedemikian rupa sehingga\nmemungkinkan pengambilan keputusan dapat dilakukan secara efektif,\ntepat dan cepat, serta dapat bertindak secara independen.\n(3) Masa jabatan anggota Komisaris ditetapkan 5 (lima) tahun dan dapat\ndiangkat kembali untuk 1 (satu) kali masa jabatan.\n(4) Dalam hal Komisaris terdiri atas lebih dari seorang anggota, salah seorang\nanggota Komisaris diangkat sebagai komisaris utama.\n(5) Pengangkatan anggota Komisaris tidak bersamaan waktunya dengan\npengangkatan anggota Direksi, kecuali pengangkatan untuk pertama\nkalinya pada waktu pendirian."
+   }
+  },
+  {
+   "id": "ID-H1425-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\nAnggota Komisaris sewaktu -waktu dapat diberhentikan berdasarkan keputusan\nRUPS dengan menyebutkan alasannya."
+   }
+  },
+  {
+   "id": "ID-H1425-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\nKetentuan lebih lanjut mengenai persyaratan dan tata cara pengangkatan dan\npemberhentian Komisaris diatur dengan Keputusan Menteri."
+   }
+  },
+  {
+   "id": "ID-H1425-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\nKomisaris bertugas mengawasi Direksi dalam menjalankan kepengurusan\nPersero serta memberikan nasihat kepada Direksi."
+   }
+  },
+  {
+   "id": "ID-H1425-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32 …"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keenam"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 32\n(1) Dalam anggaran dasar dapat ditetapkan pemberian wewenang kepada\nKomisaris untuk memberikan persetujuan kepada Direksi dalam\nmelakukan perbuatan hukum tertentu.\n(2) Berdasarkan anggaran dasar atau keputusan RUPS, Komisaris dapat\nmelakukan tindakan pengurusan Persero dalam keadaan tertentu untuk\njangka waktu tertentu."
+   }
+  },
+  {
+   "id": "ID-H1425-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 33\nAnggota Komisaris dilarang memangku jabatan rangkap sebagai:\n(1) anggota Direksi pada BUMN, badan usaha milik daerah, badan usaha\nmilik swasta, dan jabatan lain yang dapat menimbulkan benturan\nkepentingan; dan/atau\n(2) jabatan lainnya sesuai dengan ketentuan peraturan perundang-undangan.\nBagian Ketujuh\nPersero Terbuka"
+   }
+  },
+  {
+   "id": "ID-H1425-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 34\nBagi Persero Ter buka berlaku ketentuan Undang -undang ini dan Undang -\nUndang Nomor 1 Tahun 1995 sepanjang tidak diatur lain dalam peraturan\nperundang-undangan di bidang pasar modal.\nBAB III\nPERUM\nBagian Pertama\nPendirian"
+   }
+  },
+  {
+   "id": "ID-H1425-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 35\n(1) Pendirian Perum diusulkan oleh Menteri kepada Presiden disertai dengan\ndasar pertimbangan setelah dikaji bersama dengan Menteri Teknis dan\nMenteri Keuangan.\n(2) Perum …\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Perum yang didirikan sebagaimana dimaksud dalam ayat (1) memperoleh\nstatus badan hu kum sejak diundangkannya Peraturan Pemerintah tentang\npendiriannya.\n(3) Ketentuan lebih lanjut mengenai pendirian, pembinaan, pengurusan, dan\npengawasan Perum diatur dengan Peraturan Pemerintah.\nBagian Kedua\nMaksud dan Tujuan"
+   }
+  },
+  {
+   "id": "ID-H1425-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 36\n(1) Maksud dan tujuan Perum adalah menyelenggarakan usaha yang bertujuan\nuntuk kemanfaatan umum berupa penyediaan barang dan/atau jasa yang\nberkualitas dengan harga yang terjangkau oleh masyarakat berdasarkan\nprinsip pengelolaan perusahaan yang sehat.\n(2) Untuk mendukung ke giatan dalam rangka mencapai maksud dan tujuan\nsebagaimana dimaksud dalam ayat (1), dengan persetujuan Menteri, Perum\ndapat melakukan penyertaan modal dalam badan usaha lain.\nBagian Ketiga\nOrgan"
+   }
+  },
+  {
+   "id": "ID-H1425-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 37\nOrgan Perum adalah Menteri, Direksi, dan Dewan Pengawas.\nBagian Keempat\nKewenangan Menteri"
+   }
+  },
+  {
+   "id": "ID-H1425-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 38\n(1) Menteri memberikan persetujuan atas kebijakan pengembangan usaha\nPerum yang diusulkan oleh Direksi.\n(2) Kebijakan pengembangan usaha sebagaimana dimak sud dalam ayat (1)\ndiusulkan oleh Direksi kepada Menteri setelah mendapat persetujuan dari\nDewan Pengawas.\n(3) Kebijakan …\nPRESIDEN\nREPUBLIK INDONESIA\n(3) Kebijakan sebagaimana dimaksud dalam ayat (1) ditetapkan sesuai dengan\nmaksud dan tujuan Perum yang bersangkutan."
+   }
+  },
+  {
+   "id": "ID-H1425-A39",
+   "no": 39,
+   "noLabel": {
+    "id": "Pasal 39"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 39\nMenteri tidak bertanggung jawab atas segala akibat perbuatan hukum yang\ndibuat Perum dan tidak bertanggung jawab atas kerugian Perum melebihi nilai\nkekayaan negara yang telah dipisahkan ke dalam Perum, kecuali apabila\nMenteri:\na. baik langsung maupun tidak lan gsung dengan itikad buruk memanfaatkan\nPerum semata-mata untuk kepentingan pribadi;\nb. terlibat dalam perbuatan melawan hukum yang dilakukan oleh Perum; atau\nc. langsung maupun tidak langsung secara melawan hukum menggunakan\nkekayaan Perum."
+   }
+  },
+  {
+   "id": "ID-H1425-A40",
+   "no": 40,
+   "noLabel": {
+    "id": "Pasal 40"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 40\nKetentuan mengenai tata cara pemindahtanganan, pembebanan atas aktiva tetap\nPerum, serta penerimaan pinjaman jangka menengah/panjang dan pemberian\npinjaman dalam bentuk dan cara apa pun, serta tidak menagih lagi dan\nmenghapuskan dari pembukuan piutang dan persediaan barang oleh Perum\ndiatur dengan Keputusan Menteri.\nBagian Kelima\nAnggaran Dasar"
+   }
+  },
+  {
+   "id": "ID-H1425-A41",
+   "no": 41,
+   "noLabel": {
+    "id": "Pasal 41"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 41\n(1) Anggaran dasar Perum ditetapkan dalam Peraturan Pemerintah tentang\npendiriannya.\n(2) Perubahan anggaran dasar Perum ditetapkan dengan Peraturan Pemerintah.\n(3) Perubahan anggaran dasar sebagaimana dimaksud dalam ayat (2) mulai\nberlaku sejak tanggal diundangkannya Peraturan Pemerintah tentang\nperubahan anggaran dasar Perum.\nBagian …\nPRESIDEN\nREPUBLIK INDONESIA\nBagian Keenam\nPenggunaan Laba"
+   }
+  },
+  {
+   "id": "ID-H1425-A42",
+   "no": 42,
+   "noLabel": {
+    "id": "Pasal 42"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 42\n(1) Setiap tahun buku Perum wajib menyisihkan jumlah tertentu dari laba\nbersih untuk cadangan.\n(2) Penyisihan laba bersih sebagaimana dimaksud dalam ayat (1) dilakukan\nsampai cadangan mencapai sekurang -kurangnya 20% (dua puluh persen)\ndari modal Perum.\n(3) Cadangan sebagaimana dimaksud dalam ayat (1), yang belum mencapai\njumlah sebagaimana dimaksud dalam ayat (2), hanya dapat dipergunakan\nuntuk menutup kerugian yang tidak dapat dipenuhi oleh cadangan lain."
+   }
+  },
+  {
+   "id": "ID-H1425-A43",
+   "no": 43,
+   "noLabel": {
+    "id": "Pasal 43"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 43\nPenggunaan laba bersih Perum termasuk penentu an jumlah penyisihan untuk\ncadangan sebagaimana dimaksud dalam Pasal 42 ditetapkan oleh Menteri.\nBagian Ketujuh\nDireksi Perum"
+   }
+  },
+  {
+   "id": "ID-H1425-A44",
+   "no": 44,
+   "noLabel": {
+    "id": "Pasal 44"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 44\nPengangkatan dan pemberhentian Direksi ditetapkan oleh Menteri sesuai dengan\nmekanisme dan ketentuan peraturan perundang-undangan.\nPasal 43\nPenggunaan laba bersih Perum termasuk penentuan jumlah penyisihan untuk\ncadangan sebagaimana dimaksud dalam Pasal 42 ditetapkan oleh Menteri.\nBagian Ketujuh\nDireksi Perum\nPasal 44\nPengangkatan dan pemberhentian Direksi ditetapkan oleh Menteri sesuai dengan\nmekanisme dan ketentuan peraturan perundang-undangan."
+   }
+  },
+  {
+   "id": "ID-H1425-A45",
+   "no": 45,
+   "noLabel": {
+    "id": "Pasal 45 …"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketujuh"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 45\n(1) Yang dapat diangkat sebagai anggota Direksi adalah orang perseorangan\nyang mampu melaksanakan perbuatan hukum dan tidak pernah dinyatakan\npailit atau menjadi anggota Direksi atau Komisaris atau Dewan Pengawas\nyang dinyatakan bersalah menyebabkan suatu perseroan atau Perum\ndinyatakan pailit atau orang yang tidak pernah dihukum karena melakukan\ntindak pidana yang merugikan keuangan negara.\n(2) Selain kriteria sebagaimana dimaksud dalam ayat (1) anggota Direksi\ndiangkat berdasarkan pertimbangan keahlian, integritas, kepemimpinan,\npengalaman, jujur, perilaku yang baik, serta dedikasi yang tinggi untuk\nmemajukan dan mengembangkan Perum.\n(3) Pengangkatan anggota Direksi dilakukan melalui mekanisme uji kelayakan\ndan kepatutan.\n(4) Calon anggota Direksi yang telah dinyatakan lulus uji kelayakan dan\nkepatutan wajib menandatangani kontrak manajemen sebelum ditetapkan\npengangkatannya sebagai anggota Direksi.\n(5) Masa jabatan anggota Direksi ditetapkan 5 (lima) tahun dan dapat diangkat\nkembali untuk 1 (satu) kali masa jabatan.\n(6) Dalam hal Direksi terdiri atas lebih dari seorang anggota, salah seorang\nanggota Direksi diangkat sebagai direktur utama."
+   }
+  },
+  {
+   "id": "ID-H1425-A46",
+   "no": 46,
+   "noLabel": {
+    "id": "Pasal 46"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 46\nAnggota Direksi sewaktu -waktu dapat diberhentikan berdasarkan Keputusan\nMenteri dengan menyebutkan alasannya."
+   }
+  },
+  {
+   "id": "ID-H1425-A47",
+   "no": 47,
+   "noLabel": {
+    "id": "Pasal 47"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 47\nKetentuan lebih lanjut mengenai persyaratan dan tata cara pengangkatan dan\npemberhentian anggota Direksi diatur dengan Keputusan Menteri."
+   }
+  },
+  {
+   "id": "ID-H1425-A48",
+   "no": 48,
+   "noLabel": {
+    "id": "Pasal 48"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 48\nDalam melaksanakan tugasnya, Direksi wajib mencurahkan tenaga, pikiran, dan\nperhatian secara penuh pada tugas, kewajiban, dan pencapaian tujuan Perum."
+   }
+  },
+  {
+   "id": "ID-H1425-A49",
+   "no": 49,
+   "noLabel": {
+    "id": "Pasal 49 …"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketujuh"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 49\n(1) Direksi wajib menyiapkan rancangan rencana jangka panjang yang\nmerupakan rencana strategis yang memuat sasaran dan tujuan Perum yang\nhendak dicapai dalam jangka waktu 5 (lima) tahun.\n(2) Rancangan rencana jangka panjang yang telah ditandatangani bersama\ndengan Dewan Pengawas disampaikan kepada Menteri untuk mendapatkan\npengesahan."
+   }
+  },
+  {
+   "id": "ID-H1425-A50",
+   "no": 50,
+   "noLabel": {
+    "id": "Pasal 50"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 50\n(1) Direksi wajib menyiapkan rancangan rencana kerja dan anggaran\nperusahaan yang merupakan penjabaran tahunan dari rencana jangka\npanjang.\n(2) Direksi wajib menyampaika n rancangan rencana kerja dan anggaran\nperusahaan kepada Menteri untuk memperoleh pengesahan."
+   }
+  },
+  {
+   "id": "ID-H1425-A51",
+   "no": 51,
+   "noLabel": {
+    "id": "Pasal 51"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 51\n(1) Dalam waktu 5 (lima) bulan setelah tahun buku Perum ditutup, Direksi\nwajib menyampaikan laporan tahunan kepada Menteri untuk memperoleh\npengesahan.\n(2) Laporan tahunan sebagaimana dimaksud dalam ayat (1) ditandatangani\noleh semua anggota Direksi dan Dewan Pengawas.\n(3) Dalam hal ada anggota Direksi atau Dewan Pengawas tidak\nmenandatangani laporan tahunan sebagaimana dimaksud dalam ayat (2)\nharus disebutkan alasannya secara tertulis."
+   }
+  },
+  {
+   "id": "ID-H1425-A52",
+   "no": 52,
+   "noLabel": {
+    "id": "Pasal 52"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 52\nKetentuan lebih lanjut mengenai rencana jangka panjang, rencana kerja dan\nanggaran perusahaan, laporan tahunan dan perhitungan tahunan Perum diatur\ndengan Keputusan Menteri."
+   }
+  },
+  {
+   "id": "ID-H1425-A53",
+   "no": 53,
+   "noLabel": {
+    "id": "Pasal 53"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 53\nAnggota Direksi dilarang memangku jabatan rangkap sebagai:\na. anggota …\nPRESIDEN\nREPUBLIK INDONESIA\na. anggota Direksi pada BUMN, badan usaha milik daerah, badan usaha\nmilik swasta, dan jabatan lain yang dapat menimbulkan benturan\nkepentingan;\nb. jabatan struktural dan fungsional lainnya pada instansi/lembaga pemerintah\npusat dan daerah; dan/atau\nc. jabatan lainnya sesuai dengan ketentuan dalam peraturan pendirian Perum\ndan ketentuan peraturan perundang-undangan."
+   }
+  },
+  {
+   "id": "ID-H1425-A54",
+   "no": 54,
+   "noLabel": {
+    "id": "Pasal 54"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 54\nDireksi wajib memelihara risalah rapat dan menyelenggarakan pembukuan\nPerum."
+   }
+  },
+  {
+   "id": "ID-H1425-A55",
+   "no": 55,
+   "noLabel": {
+    "id": "Pasal 55"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 55\n(1) Direksi hanya dapat mengajukan permohonan ke pengadilan negeri agar\nPerum dinyatakan pailit berdasarkan persetujuan Menteri.\n(2) Dalam hal kepailitan terjadi karena kesalahan atau kelalaian Direksi dan\nkekayaan Perum tidak cu kup untuk menutup kerugian akibat kepailitan\ntersebut, setiap anggota Direksi secara tanggung renteng bertanggung\njawab atas kerugian tersebut.\n(3) Anggota Direksi yang dapat membuktikan bahwa kepailitan bukan karena\nkesalahan atau kelalaiannya tidak berta nggung jawab secara tanggung\nrenteng atas kerugian tersebut.\n(4) Dalam hal tindakan Direksi menimbulkan kerugian bagi Perum\nsebagaimana dimaksud dalam ayat (2), Menteri mewakili Perum untuk\nmelakukan tuntutan atau gugatan terhadap Direksi melalui pengadilan.\nBagian Kedelapan\nDewan Pengawas"
+   }
+  },
+  {
+   "id": "ID-H1425-A56",
+   "no": 56,
+   "noLabel": {
+    "id": "Pasal 56"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedelapan"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 56\nPengangkatan dan pemberhentian anggota Dewan Pengawas ditetapkan oleh\nMenteri sesuai dengan mekanisme dan ketentuan peraturan perundang -\nundangan."
+   }
+  },
+  {
+   "id": "ID-H1425-A57",
+   "no": 57,
+   "noLabel": {
+    "id": "Pasal 57 …"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedelapan"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 57\n(1) Yang dapat diangkat menjadi anggota Dewan Pengawas adalah orang\nperseorangan yang mampu melaksanakan perbuatan hukum dan tidak\npernah dinyatakan pailit atau menjadi anggota Direksi atau Komisaris atau\nDewan Pengawas yang dinyatakan bersalah me nyebabkan suatu perseroan\natau Perum dinyatakan pailit atau orang yang tidak pernah dihukum karena\nmelakukan tindak pidana yang merugikan keuangan negara.\n(2) Selain kriteria sebagaimana dimaksud dalam ayat (1), anggota Dewan\nPengawas diangkat berdasarkan pertimbangan integritas, dedikasi,\nmemahami masalah -masalah manajemen perusahaan yang berkaitan\ndengan salah satu fungsi manajemen, memiliki pengetahuan yang memadai\ndi bidang usaha Perum tersebut, serta dapat menyediakan waktu yang\ncukup untuk melaksanakan tugasnya.\n(3) Komposisi Dewan Pengawas harus ditetapkan sedemikian rupa sehingga\nmemungkinkan pengambilan keputusan dapat dilakukan secara efektif,\ntepat dan cepat, serta dapat bertindak secara independen.\n(4) Masa jabatan anggota Dewan Pengawas ditetapk an 5 (lima) tahun dan\ndapat diangkat kembali untuk 1 (satu) kali masa jabatan.\n(5) Dalam hal Dewan Pengawas terdiri atas lebih dari seorang anggota, salah\nseorang anggota Dewan Pengawas diangkat sebagai ketua Dewan\nPengawas.\n(6) Pengangkatan anggota Dewan Pengawas tidak bersamaan waktunya\ndengan pengangkatan anggota Direksi, kecuali pengangkatan untuk\npertama kalinya pada waktu pendirian."
+   }
+  },
+  {
+   "id": "ID-H1425-A58",
+   "no": 58,
+   "noLabel": {
+    "id": "Pasal 58"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedelapan"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 58\nAnggota Dewan Pengawas sewaktu -waktu dapat diberhentikan berdasarkan\nKeputusan Menteri dengan menyebutkan alasannya."
+   }
+  },
+  {
+   "id": "ID-H1425-A59",
+   "no": 59,
+   "noLabel": {
+    "id": "Pasal 59"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedelapan"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 59\nKetentuan lebih lanjut mengenai persyaratan dan tata cara pengangkatan dan\npemberhentian Dewan Pengawas diatur dengan Keputusan Menteri."
+   }
+  },
+  {
+   "id": "ID-H1425-A60",
+   "no": 60,
+   "noLabel": {
+    "id": "Pasal 60 …"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedelapan"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 60\nDewan Pengawas bertugas mengawasi Direksi dalam menja lankan\nkepengurusan Perum serta memberikan nasihat kepada Direksi"
+   }
+  },
+  {
+   "id": "ID-H1425-A61",
+   "no": 61,
+   "noLabel": {
+    "id": "Pasal 61"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedelapan"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 61\n(1) Dalam anggaran dasar dapat ditetapkan pemberian wewenang kepada\nDewan Pengawas untuk memberikan persetujuan kepada Direksi dalam\nmelakukan perbuatan hukum tertentu.\n(2) Berdasarkan anggaran dasar atau Keputusan Menteri, Dewan Pengawas\ndapat melakukan tindakan pengurusan Perum dalam keadaan tertentu\nuntuk jangka waktu tertentu"
+   }
+  },
+  {
+   "id": "ID-H1425-A62",
+   "no": 62,
+   "noLabel": {
+    "id": "Pasal 62"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedelapan"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 62\nAnggota Dewan Pengawas dilarang memangku jabatan rangkap sebagai:\na. anggota Direksi pada BUMN, badan usaha milik daerah, badan usaha\nmilik swasta, dan jabatan lain yang dapat menimbulkan benturan\nkepentingan; dan/atau\nb. jabatan lainnya sesuai dengan ketentuan peraturan perundang-undangan\nBAB IV\nPENGGABUNGAN, PELEBURAN, PENGAMBILALIHAN,\nDAN PEMBUBARAN BUMN"
+   }
+  },
+  {
+   "id": "ID-H1425-A63",
+   "no": 63,
+   "noLabel": {
+    "id": "Pasal 63"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 63\n(1) Penggabungan atau peleburan suatu BUMN dapat dilakukan dengan\nBUMN lain yang telah ada.\n(2) Suatu BUMN dapat mengambil alih BUMN dan/atau perseroan terbatas\nlainnya."
+   }
+  },
+  {
+   "id": "ID-H1425-A64",
+   "no": 64,
+   "noLabel": {
+    "id": "Pasal 64"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 64\n(1) Pembubaran BUMN ditetapkan dengan Peraturan Pemerintah.\n(2) Apabila tidak ditetapkan lain dalam Peraturan Pemerintah sebagaimana\ndimaksud dalam ayat (1), sisa hasil likuidasi atau pembubaran BUMN\ndisetorkan langsung ke Kas Negara."
+   }
+  },
+  {
+   "id": "ID-H1425-A65",
+   "no": 65,
+   "noLabel": {
+    "id": "Pasal 65 …"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 65\n(1) Ketentuan lebih lanjut mengenai penggabungan, peleburan,\npengambilalihan, dan pembubaran BUMN, diatur dengan Peraturan\nPemerintah.\n(2) Dalam melakukan tindakan -tindakan sebagaimana dimaksud dalam ayat\n(1), kepentingan BUMN, pemegang saham/pemilik modal, pi hak ketiga,\ndan karyawan BUMN harus tetap mendapat perhatian.\nBAB V\nKEWAJIBAN\nPELAYANAN UMUM"
+   }
+  },
+  {
+   "id": "ID-H1425-A66",
+   "no": 66,
+   "noLabel": {
+    "id": "Pasal 66"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 66\n(1) Pemerintah dapat memberikan penugasan khusus kepada BUMN untuk\nmenyelenggarakan fungsi kemanfaatan umum dengan tetap\nmemperhatikan maksud dan tujuan kegiatan BUMN.\n(2) Setiap penugasan sebagaimana dimaksud dalam ayat (1) harus terlebih\ndahulu mendapatkan persetujuan RUPS/Menteri.\nBAB VI\nSATUAN PENGAWASAN INTERN,\nKOMITE AUDIT, DAN KOMITE LAIN\nBagian Pertama\nSatuan Pengawasan Intern"
+   }
+  },
+  {
+   "id": "ID-H1425-A67",
+   "no": 67,
+   "noLabel": {
+    "id": "Pasal 67"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 67\n(1) Pada setiap BUMN dibentuk satuan pengawasan intern yang merupakan\naparat pengawas intern perusahaan.\n(2) Satuan pengawasan intern sebagaimana dimaksud dalam ayat (1) dipimpin\noleh seorang kepala yang bertanggung jawab kepada direktur utama."
+   }
+  },
+  {
+   "id": "ID-H1425-A68",
+   "no": 68,
+   "noLabel": {
+    "id": "Pasal 68 …"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Pertama"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 68\nAtas permintaan tertu lis Komisaris/Dewan Pengawas, Direksi memberikan\nketerangan hasil pemeriksaan atau hasil pelaksanaan tugas satuan pengawasan\nintern."
+   }
+  },
+  {
+   "id": "ID-H1425-A69",
+   "no": 69,
+   "noLabel": {
+    "id": "Pasal 69"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 69\nDireksi wajib memperhatikan dan segera mengambil langkah -langkah yang\ndiperlukan atas segala sesuatu yang dikemuk akan dalam setiap laporan hasil\npemeriksaan yang dibuat oleh satuan pengawasan intern.\nBagian Kedua\nKomite Audit dan Komite Lain"
+   }
+  },
+  {
+   "id": "ID-H1425-A70",
+   "no": 70,
+   "noLabel": {
+    "id": "Pasal 70"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 70\n(1) Komisaris dan Dewan Pengawas BUMN wajib membentuk komite audit\nyang bekerja secara kolektif dan berfungsi membantu Komisaris dan\nDewan Pengawas dalam melaksanakan tugasnya.\n(2) Komite audit sebagaimana dimaksud dalam ayat (1) dipimpin oleh seorang\nketua yang bertanggung jawab kepada Komisaris atau Dewan Pengawas.\n(3) Selain komite audit sebagaimana dimaksud dalam ayat (1) Komisaris atau\nDewan Pengawas dapat membentuk komite lain yang ditetapkan oleh\nMenteri.\n(4) Ketentuan lebih lanjut mengenai komite audit dan komite lain diatur\ndengan Keputusan Menteri.\nBAB VII\nPEMERIKSAAN EKSTERNAL"
+   }
+  },
+  {
+   "id": "ID-H1425-A71",
+   "no": 71,
+   "noLabel": {
+    "id": "Pasal 71"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 71\n(1) Pemeriksaan laporan keuangan perusahaan dilakukan oleh auditor\neksternal yang ditetapkan oleh RUPS untuk Persero dan oleh Menteri\nuntuk Perum.\n(2) Badan …\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Badan Pemeriksa Keuangan berwenang melakukan pemeriksaan terhadap\nBUMN sesuai dengan ketentuan peraturan perundang-undangan.\nBAB VIII\nRESTRUKTURISASI DAN PRIVATISASI\nBagian Pertama\nMaksud dan Tujuan Restrukturisasi"
+   }
+  },
+  {
+   "id": "ID-H1425-A72",
+   "no": 72,
+   "noLabel": {
+    "id": "Pasal 72"
+   },
+   "chapter": {
+    "id": "BAB VIII / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 72\n(1) Restrukturisasi dilakukan dengan maksud untuk menyehatkan BUMN agar\ndapat beroperasi secara efisien, transparan, dan profesional.\n(2) Tujuan restrukturisasi adalah untuk:\na. meningkatkan kinerja dan nilai perusahaan;\nb. memberikan manfaat berupa dividen dan pajak kepada negara;\nc. menghasilkan produk dan layan an dengan harga yang kompetitif\nkepada konsumen; dan\nd. memudahkan pelaksanaan privatisasi.\n(3) Pelaksanaan restrukturisasi sebagaimana dimaksud dalam ayat (1) tetap\nmemperhatikan asas biaya dan manfaat yang diperoleh.\nBagian Kedua\nRuang Lingkup Restrukturisasi"
+   }
+  },
+  {
+   "id": "ID-H1425-A73",
+   "no": 73,
+   "noLabel": {
+    "id": "Pasal 73"
+   },
+   "chapter": {
+    "id": "BAB VIII / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 73\nRestrukturisasi meliputi :\na. restrukturisasi sektoral yang pelaksanaannya disesuaikan dengan kebijakan\nsektor dan/atau ketentuan peraturan perundang-undangan;\nb. restrukturisasi perusahaan/korporasi yang meliputi :\n1) peningkatan intensitas persaingan usaha, terutama di sektor -sektor\nyang terdapat monopoli, baik yang diregulasi maupun monopoli\nalamiah;\n2) Penataan ...\nPRESIDEN\nREPUBLIK INDONESIA\n2) penataan hubungan fungsional antara pemerintah selaku regulator dan\nBUMN selaku badan usaha, termasuk di dalamnya penerapan prinsip -\nprinsip tata kelola perusahaan yang baik dan menetapkan arah dalam\nrangka pelaksanaan kewajiban pelayanan publik.\n3) restrukturisasi internal yang mencakup keuangan, organisasi/\nmanajemen, operasional, sistem, dan prosedur.\nBagian Ketiga\nMaksud dan Tujuan Privatisasi"
+   }
+  },
+  {
+   "id": "ID-H1425-A74",
+   "no": 74,
+   "noLabel": {
+    "id": "Pasal 74"
+   },
+   "chapter": {
+    "id": "BAB VIII / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 74\n(1) Privatisasi dilakukan dengan maksud untuk :\na. memperluas kepemilikan masyarakat atas Persero;\nb. meningkatkan efisiensi dan produktivitas perusahaan;\nc. menciptakan struktur keuangan dan manajemen keuangan yang\nbaik/kuat;\nd. menciptakan struktur industri yang sehat dan kompetitif;\ne. menciptakan Persero yang berdaya saing dan berorientasi global;\nf. menumbuhkan iklim usaha, ekonomi makro, dan kapasitas pasar.\n(2) Privatisasi dilakukan dengan tujuan untuk meningkatkan kinerja dan nilai\ntambah perusahaan dan meningkatkan peran serta m asyarakat dalam\npemilikan saham Persero.\nBagian Keempat\nPrinsip Privatisasi dan Kriteria Perusahaan\nyang Dapat Diprivatisasi"
+   }
+  },
+  {
+   "id": "ID-H1425-A75",
+   "no": 75,
+   "noLabel": {
+    "id": "Pasal 75"
+   },
+   "chapter": {
+    "id": "BAB VIII / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 75\nPrivatisasi dilakukan dengan memperhatikan prinsip -prinsip transparansi,\nkemandirian, akuntabilitas, pertanggungjawaban, dan kewajaran."
+   }
+  },
+  {
+   "id": "ID-H1425-A76",
+   "no": 76,
+   "noLabel": {
+    "id": "Pasal 76 …"
+   },
+   "chapter": {
+    "id": "BAB VIII / Bagian Keempat"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 76\n(1) Persero yang dapat diprivatisasi harus sekurang -kurangnya memenuhi\nkriteria:\na. industri/sektor usahanya kompetitif; atau\nb. industri/sektor usaha yang unsur teknologinya cepat berubah.\n(2) Sebagian aset atau kegiatan dari Persero yang melaksanakan kewajiban\npelayanan umum dan/atau yang berdasarkan Undang -undang kegiatan\nusahanya harus dilakukan oleh BUMN, dapat dipisahkan untuk dijadikan\npenyertaan dalam pendirian perusahaan untuk selanjutny a apabila\ndiperlukan dapat diprivatisasi."
+   }
+  },
+  {
+   "id": "ID-H1425-A77",
+   "no": 77,
+   "noLabel": {
+    "id": "Pasal 77"
+   },
+   "chapter": {
+    "id": "BAB VIII / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 77\nPersero yang tidak dapat diprivatisasi adalah:\na. Persero yang bidang usahanya berdasarkan ketentuan peraturan perundang-\nundangan hanya boleh dikelola oleh BUMN;\nb. Persero yang bergerak di sektor usaha y ang berkaitan dengan pertahanan\ndan keamanan negara;\nc. Persero yang bergerak di sektor tertentu yang oleh pemerintah diberikan\ntugas khusus untuk melaksanakan kegiatan tertentu yang berkaitan dengan\nkepentingan masyarakat;\nd. Persero yang bergerak di bida ng usaha sumber daya alam yang secara\ntegas berdasarkan ketentuan peraturan perundang-undangan dilarang untuk\ndiprivatisasi."
+   }
+  },
+  {
+   "id": "ID-H1425-A78",
+   "no": 78,
+   "noLabel": {
+    "id": "Pasal 78"
+   },
+   "chapter": {
+    "id": "BAB VIII / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 78\nPrivatisasi dilaksanakan dengan cara:\na. penjualan saham berdasarkan ketentuan pasar modal;\nb. penjualan saham langsung kepada investor;\nc. penjualan saham kepada manajemen dan/atau karyawan yang bersangkutan.\nBagian …\nPRESIDEN\nREPUBLIK INDONESIA\nBagian Kelima\nKomite Privatisasi"
+   }
+  },
+  {
+   "id": "ID-H1425-A79",
+   "no": 79,
+   "noLabel": {
+    "id": "Pasal 79"
+   },
+   "chapter": {
+    "id": "BAB VIII / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 79\n(1) Untuk membahas dan memutuskan kebijakan tentang privatisasi\nsehubungan denga n kebijakan lintas sektoral, pemerintah membentuk\nsebuah komite privatisasi sebagai wadah koordinasi.\n(2) Komite privatisasi dipimpin oleh Menteri Koordinator yang membidangi\nperekonomian dengan anggota, yaitu Menteri, Menteri Keuangan, dan\nMenteri Teknis tempat Persero melakukan kegiatan usaha.\n(3) Keanggotaan komite privatisasi sebagaimana dimaksud dalam ayat (2)\nditetapkan dengan Keputusan Presiden."
+   }
+  },
+  {
+   "id": "ID-H1425-A80",
+   "no": 80,
+   "noLabel": {
+    "id": "Pasal 80"
+   },
+   "chapter": {
+    "id": "BAB VIII / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 80\n(1) Komite privatisasi bertugas untuk:\na. merumuskan dan menetapkan kebijakan umum dan persyaratan\npelaksanaan Privatisasi;\nb. menetapkan langkah -langkah yang diperlukan untuk memperlancar\nproses Privatisasi;\nc. membahas dan memberikan jalan keluar atas permasalahan strategis\nyang timbul dalam proses Privatisasi, termasuk yang berhubungan\ndengan kebijakan sektoral pemerintah.\n(2) Komite privatisasi dalam melaksanakan tugasnya sebagaimana dimaksud\ndalam ayat (1) dapat mengundang, meminta masukan, dan/atau bantuan\ninstansi pemerintah atau pihak lain yang dipandang perlu.\n(3) Ketua komite privatisasi secara berkala melaporkan perkembangan\npelaksanaan tugasnya kepada Presiden."
+   }
+  },
+  {
+   "id": "ID-H1425-A81",
+   "no": 81,
+   "noLabel": {
+    "id": "Pasal 81"
+   },
+   "chapter": {
+    "id": "BAB VIII / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 81\nDalam melaksanakan Privatisasi, Menteri bertugas untuk:\na. menyusun program tahunan Privatisasi;\nb. mengajukan program tahunan Privatisasi kepada komite privatisasi untuk\nmemperoleh arahan;\nc. melaksanakan …\nPRESIDEN\nREPUBLIK INDONESIA\nc. melaksanakan Privatisasi.\nBagian Keenam\nTata Cara Privatisasi"
+   }
+  },
+  {
+   "id": "ID-H1425-A82",
+   "no": 82,
+   "noLabel": {
+    "id": "Pasal 82"
+   },
+   "chapter": {
+    "id": "BAB VIII / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 82\n(1) Privatisasi harus didahului dengan tindakan seleksi atas perusahaan -\nperusahaan dan mendasarkan pada kriteria yang ditetapkan dalam\nPeraturan Pemerintah.\n(2) Terhadap perusahaan yang telah diseleksi dan memenuhi kriteria yang\ntelah ditentukan, setelah menda pat rekomendasi dari Menteri Keuangan,\nselanjutnya disosialisasikan kepada masyarakat serta dikonsultasikan\nkepada Dewan Perwakilan Rakyat."
+   }
+  },
+  {
+   "id": "ID-H1425-A83",
+   "no": 83,
+   "noLabel": {
+    "id": "Pasal 83"
+   },
+   "chapter": {
+    "id": "BAB VIII / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 83\nKetentuan lebih lanjut mengenai tata cara Privatisasi diatur dengan Peraturan\nPemerintah."
+   }
+  },
+  {
+   "id": "ID-H1425-A84",
+   "no": 84,
+   "noLabel": {
+    "id": "Pasal 84"
+   },
+   "chapter": {
+    "id": "BAB VIII / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 84\nSetiap orang dan/atau badan hukum yang mempunyai potensi benturan\nkepentingan dilarang terlibat dalam proses Privatisasi.\nBagian Ketujuh\nKerahasiaan Informasi"
+   }
+  },
+  {
+   "id": "ID-H1425-A85",
+   "no": 85,
+   "noLabel": {
+    "id": "Pasal 85"
+   },
+   "chapter": {
+    "id": "BAB VIII / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 85\n(1) Pihak-pihak yang terkait dalam program dan proses Privatisasi diwajibkan\nmenjaga kerahasiaan atas informasi yang diperoleh sepanjang informasi\ntersebut belum terbuka.\n(2) Pelanggaran terhadap ketentuan sebagaimana dimaksud dalam ayat (1)\ndikenakan sanksi sesuai dengan ketentuan peraturan perundang-undangan.\nBagian …\nPRESIDEN\nREPUBLIK INDONESIA\nBagian Kedelapan\nHasil Privatisasi"
+   }
+  },
+  {
+   "id": "ID-H1425-A86",
+   "no": 86,
+   "noLabel": {
+    "id": "Pasal 86"
+   },
+   "chapter": {
+    "id": "BAB VIII / Bagian Kedelapan"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 86\n(1) Hasil Privatisasi dengan cara penjualan saham milik negara disetor\nlangsung ke Kas Negara.\n(2) Ketentuan lebih lanjut mengenai tata cara penyetoran hasil Privatisasi\ndiatur dengan Peraturan Pemerintah.\nBAB IX\nKETENTUAN LAIN-LAIN"
+   }
+  },
+  {
+   "id": "ID-H1425-A87",
+   "no": 87,
+   "noLabel": {
+    "id": "Pasal 87"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 87\n(1) Karyawan BUMN merupakan pekerja BUMN yang pengangkatan,\npemberhentian, kedudukan, hak dan kewajibannya ditetapkan berdasarkan\nperjanjian kerja bersama sesuai dengan ketentuan peraturan perundang -\nundangan di bidang ketenagakerjaan.\n(2) Karyawan BUMN dapat membentuk serikat pekerja sesuai dengan\nketentuan peraturan perundang-undangan.\n(3) Serikat pekerja waji b memelihara keamanan dan ketertiban dalam\nperusahaan, serta meningkatkan disiplin kerja."
+   }
+  },
+  {
+   "id": "ID-H1425-A88",
+   "no": 88,
+   "noLabel": {
+    "id": "Pasal 88"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 88\n(1) BUMN dapat menyisihkan sebagian laba bersihnya untuk keperluan\npembinaan usaha kecil/koperasi serta pembinaan masyarakat sekitar\nBUMN.\n(2) Ketentuan le bih lanjut mengenai penyisihan dan penggunaan laba\nsebagaimana dimaksud dalam ayat (1) diatur dengan Keputusan Menteri."
+   }
+  },
+  {
+   "id": "ID-H1425-A89",
+   "no": 89,
+   "noLabel": {
+    "id": "Pasal 89 …"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 89\nAnggota Komisaris, Dewan Pengawas, Direksi, karyawan BUMN dilarang\nuntuk memberikan atau menawarkan atau menerima, baik langsung maupun\ntidak langsung, sesuatu yang berharga kepada atau dari pelanggan atau seorang\npejabat pemerintah untuk mempengaruhi ata u sebagai imbalan atas apa yang\ntelah dilakukannya dan tindakan lainnya sesuai dengan ketentuan peraturan\nperundang-undangan."
+   }
+  },
+  {
+   "id": "ID-H1425-A90",
+   "no": 90,
+   "noLabel": {
+    "id": "Pasal 90"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 90\nBUMN dalam batas kepatutan hanya dapat memberikan donasi untuk amal atau\ntujuan sosial sesuai dengan ketentuan peraturan perundang-undangan."
+   }
+  },
+  {
+   "id": "ID-H1425-A91",
+   "no": 91,
+   "noLabel": {
+    "id": "Pasal 91"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 91\nSelain organ BUMN, pihak lain mana pun dilarang campur tangan dalam\npengurusan BUMN."
+   }
+  },
+  {
+   "id": "ID-H1425-A92",
+   "no": 92,
+   "noLabel": {
+    "id": "Pasal 92"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 92\nPerubahan bentuk badan hukum BUMN diatur dengan Peraturan Pemerintah.\nBAB X\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H1425-A93",
+   "no": 93,
+   "noLabel": {
+    "id": "Pasal 93"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 93\n(1) Dalam waktu 2 (dua) tahun terhitung sejak Undang -undang ini mulai\nberlaku, semua BUMN yang berbentuk perusahaan jawatan (Perjan), harus\ntelah diubah bentuknya menjadi Perum atau Persero.\n(2) Segala ketentuan yang mengatur BUMN dinyatakan tetap berlaku\nsepanjang tidak bertentangan atau belum diganti dengan yang baru\nberdasarkan Undang-undang ini.\nBAB XI …\nPRESIDEN\nREPUBLIK INDONESIA\nBAB XI\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H1425-A94",
+   "no": 94,
+   "noLabel": {
+    "id": "Pasal 94"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 94\nDengan berlakunya Undang-undang ini, maka:\n1. Indonesische Bedrijvenwet (Staatsblad Tahun 1927 Nomor 419)\nsebagaimana telah beberapa kali diubah dan ditambah terakhir dengan\nUndang-undang Nomor 12 Tahun 1955 (Lembaran Negara Republik\nIndonesia Tahun 1955 Nomor 49, Tambahan Lembaran Negara Nomor\n850);\n2. Undang-undang Nomor 19 Prp Tahun 1960 tentang Perusahaan Neg ara\n(Lembaran Negara Republik Indonesia Tahun 1960 Nomor 59, Tambahan\nLembaran Negara Nomor 1989);\n3. Undang-undang Nomor 9 Tahun 1969 tentang Penetapan Peraturan\nPemerintah Pengganti Undang -Undang Nomor 1 Tahun 1969 (Lembaran\nNegara Republik Indonesia Tahun 1969 Nomor 16, Tambahan Lembaran\nNegara Nomor 2890) tentang Bentuk -Bentuk Usaha Negara menjadi\nUndang-Undang (Lembaran Negara Republik Indonesia Tahun 1969\nNomor 40, Tambahan Lembaran Negara Nomor 2904);\ndinyatakan tidak berlaku."
+   }
+  },
+  {
+   "id": "ID-H1425-A95",
+   "no": 95,
+   "noLabel": {
+    "id": "Pasal 95"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 95\nUndang-undang ini berlaku sejak tanggal diundangkan.\nAgar ...\nPRESIDEN\nREPUBLIK INDONESIA\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Undang -\nundang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.\nDisahkan di Jakarta\npada tanggal 19 Juni 2003\nPRESIDEN REPUBLIK INDONESIA,\nttd\nMEGAWATI SOEKARNOPUTRI\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2003 NOMOR 70\nPRESIDEN\nREPUBLIK INDONESIA\nPENJELASAN\nATAS\nUNDANG-UNDANG REPUBLIK INDONESIA\nNOMOR 19 TAHUN 2003\nTENTANG\nBADAN USAHA MILIK NEGARA\nUMUM\nI. Memajukan kesejahteraan bagi seluruh rakyat sebagaimana diamanatkan dalam Pembukaan Undang-undang\nDasar 1945 yang selanjutnya lebih rinci diatur dalam Pasal 33 Undang-undang Dasar 1945 merupakan tugas\nkonstitusional bagi seluruh komponen bangsa. Dalam kaitan di atas, dirasa perlu untuk meningkatkan\npenguasaan seluruh kekuatan ekonomi nasional baik melalui regulasi sektoral maupun melalui kepemilikan\nnegara terhadap unit -unit usaha tertentu dengan maksud untuk memberikan manfaat yang sebesar -besarnya\nbagi kemakmuran rakyat.\nBadan Usaha Milik Negara (BUMN) yang seluruh atau sebag ian besar modalnya berasal dari kekayaan\nnegara yang dipisahkan, merupakan salah satu pelaku ekonomi dalam sistem perekonomian nasional, di\nsamping usaha swasta dan koperasi. Dalam menjalankan kegiatan usahanya, BUMN, swasta dan koperasi\nmelaksanakan peran saling mendukung berdasarkan demokrasi ekonomi.\nII. Dalam sistem perekonomian nasional, BUMN ikut berperan menghasilkan barang dan/atau jasa yang\ndiperlukan dalam rangka mewujudkan sebesar -besarnya kemakmuran masyarakat. Peran BUMN dirasakan\nsemakin pent ing sebagai pelopor dan/atau perintis dalam sektor -sektor usaha yang belum diminati usaha\nswasta. Di samping itu, BUMN juga mempunyai peran strategis sebagai pelaksana pelayanan publik,\npenyeimbang kekuatan -kekuatan swasta besar, dan turut membantu pengembangan usaha kecil/koperasi.\nBUMN juga merupakan salah satu sumber penerimaan negara yang signifikan dalam bentuk berbagai jenis\npajak, dividen dan hasil privatisasi.\nPelaksanaan peran BUMN tersebut diwujudkan dalam kegiatan usaha pada hampir seluruh sekt or\nperekonomian, seperti sektor pertanian, perikanan, perkebunan, kehutanan, manufaktur, pertambangan,\nkeuangan, pos dan telekomunikasi, transportasi, listrik, industri dan perdagangan, serta konstruksi.\nIII. Dalam kenyataannya, walaupun BUMN telah mencapa i tujuan awal sebagai agen pembangunan dan\npendorong terciptanya korporasi, namun tujuan tersebut dicapai dengan biaya yang relatif tinggi. Kinerja\nperusahaan dinilai belum memadai, seperti tampak pada rendahnya laba yang diperoleh dibandingkan dengan\nmodal yang ditanamkan. Dikarenakan berbagai kendala, BUMN belum sepenuhnya dapat menyediakan\nbarang dan/atau jasa yang bermutu tinggi bagi masyarakat dengan harga yang terjangkau serta belum mampu\nberkompetisi dalam persaingan bisnis secara global. Selain itu, karena keterbatasan sumber daya, fungsi\nBUMN baik sebagai pelopor/perintis maupun sebagai penyeimbang kek uatan swasta besar, juga belum\nsepenuhnya dapat dilaksanakan.\nDi lain pihak, perkembangan ekonomi dunia berlangsung sangat dinamis, terutama berkaitan dengan\nliberalisasi dan globalisasi perdagangan yang telah disepakati oleh dunia internasional seperti kesepakatan\nmengenai World Trade Organization WTO), ASEAN Free Trade Area (AFTA), ASEAN Framework\nAgreement on Service, dan kerjasama ekonomi regional Asia Pacific (Asia Pacific Economic\nCooperation/APEC).\nPRESIDEN\nREPUBLIK INDONESIA\nIV. Untuk dapat mengoptimalkan perannya dan mampu mempertahankan keberadaannya dalam perkembangan\nekonomi dunia yang semakin terbuka dan kompetitif, BUMN perlu menumbuhkan budaya korporasi dan\nprofesionalisme antara lain melalui pembenahan pengurusan dan pengawasannya. Pengurusan dan\npengawasan BUMN haru s dilakukan berdasarkan prinsip -prinsip tata -kelola perusahaan yang baik (good\ncorporate governance).\nPeningkatan efisiensi dan produktifitas BUMN harus dilakukan melalui langkah -langkah restrukturisasi dan\nprivatisasi. Restrukturisasi sektoral dilakukan untuk menciptakan iklim usaha yang kondusif sehingga\ntercapai efisiensi dan pelayanan yang optimal.\nSedangkan restrukturisasi perusahaan yang meliputi penataan kembali bentuk badan usaha, kegiatan usaha,\norganisasi, manajemen, dan keuangan. Privatisas i bukan semata-mata dimaknai sebagai penjualan\nperusahaan, melainkan menjadi alat dan cara pembenahan BUMN untuk mencapai beberapa sasaran\nsekaligus, termasuk didalamnya adalah peningkatan kinerja dan nilai tambah perusahaan, perbaikan struktur\nkeuangan da n manajemen, penciptaan struktur industri yang sehat dan kompetitif, pemberdayaan BUMN\nyang mampu bersaing dan berorientasi global, penyebaran kepemilikan oleh publik serta pengembangan\npasar modal domestik. Dengan dilakukannya privatisasi BUMN, bukan bera rti kendali atau kedaulatan\nnegara atas BUMN yang bersangkutan menjadi berkurang atau hilang karena sebagaimana dinyatakan di atas,\nnegara tetap menjalankan fungsi penguasaan melalui regulasi sektoral dimana BUMN yang diprivatisasi\nmelaksanakan kegiatan usahanya.\nPentingnya penataan yang berkelanjutan atas pelaksanaan peran BUMN dalam sistem perekonomian\nnasional, terutama upaya peningkatan kinerja dan nilai (value) perusahaan, telah diamanatkan pula oleh\nMajelis Permusyawaratan Rakyat (MPR) melalui Ketet apan Nomor IV/MPR/1999 tentang Garis - Garis\nBesar Haluan Negara Tahun 1999 - 2004. Tap MPR tersebut menggariskan bahwa BUMN, terutama yang\nusahanya berkaitan dengan kepentingan umum, perlu terus ditata dan disehatkan melalui restrukturisasi dan\nbagi BUMN yang usahanya tidak berkaitan dengan kepentingan umum dan berada dalam sektor yang telah\nkompetitif didorong untuk privatisasi.\nV. Penataan sistem pengelolaan dan pengawasan BUMN telah dilakukan Pemerintah pada waktu yang lalu dan\nkiranya akan terus berla njut. Salah satu langkah yang telah dilakukan adalah dengan penataan terhadap\nperaturan perundang-undangan yang mengatur BUMN. Pada tahun 1960, telah dikeluarkan Undang -undang\nNomor 19 Prp. Tahun 1960 dengan tujuan mengusahakan adanya keseragaman dalam car a mengurus dan\nmenguasai serta bentuk hukum dari badan usaha negara yang ada. Pada tahun 1969, ditetapkan Undang -\nundang Nomor 9 Tahun 1969. Dalam Undang -undang tersebut, BUMN disederhanakan bentuknya menjadi\ntiga bentuk usaha negara yaitu Perusahaan Jawata n (Perjan) yang sepenuhnya tunduk pada ketentuan\nIndonesische Bedrijvenwet (Stbl. 1927 : 419), Perusahaan Umum (Perum) yang sepenuhnya tunduk pada\nketentuan Undang-undang Nomor 19 Prp. Tahun 1960 dan Perusahaan Perseroan (Persero) yang sepenuhnya\ntunduk pada ketentuan Kitab Undang-undang Hukum Dagang (Stbl. 1847 : 23) khususnya pasal -pasal yang\nmengatur perseroan terbatas yang saat ini telah diganti dengan Undang -undang Nomor 1 Tahun 1995 tentang\nPerseroan Terbatas. Sejalan dengan amanat Undang -undang Nomor 9 Tahun 1969, Pemerintah membuat\npedoman pembinaan BUMN yang mengatur secara rinci hal -hal yang berkaitan dengan mekanisme\npembinaan, pengelolaan dan pengawasan yang tertuang dalam Peraturan Pemerintah Nomor 3 Tahun 1983,\nkemudian diperbaharui dengan Pera turan Pemerintah Nomor 12 Tahun 1998 tentang Perusahaan Perseroan\n(PERSERO), Peraturan Pemerintah Nomor 13 Tahun 1998 tentang Perusahaan Umum (PERUM) dan\nPRESIDEN\nREPUBLIK INDONESIA\nPeraturan Pemerintah Nomor 6 Tahun 2000 tentang Perusahaan Jawatan (PERJAN). Berbagai Peraturan\nPemerintah tersebut memberikan arahan yang lebih pasti mengenai sistem yang dipakai dalam upaya\npeningkatan kinerja BUMN, yaitu berupa pemberlakuan mekanisme korporasi secara jelas dan tegas dalam\npengelolaan BUMN.\nNamun, berbagai peraturan perundang -undangan yang ada tersebut masih belum memberi landasan hukum\nyang kuat di dalam pengembangan badan usaha negara sejalan dengan perkembangan dunia korporasi seperti\nhalnya upaya-upaya privatisasi dan pelaksanaan prinsip-prinsip tata kelola perusahaan yang baik.\nVI. Berdasarkan kenyataan tersebut diatas, dan memperhatikan amanat ketetapan MPR Nomor IV/MPR/1999,\nmaka dipandang perlu untuk menetapkan suatu Undang -undang baru yang mengatur BUMN secara lebih\nkomprehensif dan sesuai dengan Perkembangan dunia usaha.\nUndang-undang tersebut dimaksudkan untuk memenuhi visi pengembangan BUMN di masa yang akan\ndatang dan meletakkan dasar -dasar atau prinsip -prinsip tata kelola perusahaan yang baik (good corporate\ngovernance). Penerapan prinsip -prinsip tersebut sangat pentin g dalam melakukan pengelolaan dan\npengawasan BUMN. Pengalaman membuktikan bahwa keterpurukan ekonomi di berbagai negara termasuk\nIndonesia, antara lain disebabkan perusahaan -perusahaan di negara tersebut tidak menerapkan prinsip -prinsip\ntata kelola perusahaan yang baik (good corporate governance) secara konsisten.\nUndang-undang BUMN dirancang untuk menciptakan sistem pengelolaan dan pengawasan berlandaskan\npada prinsip efisiensi dan produktivitas guna meningkatkan kinerja dan nilai (value) BUMN, serta\nmenghindarkan BUMN dari tindakan -tindakan pengeksploitasian di luar asas tata kelola perusahaan yang\nbaik (good corporate governance). Undang -undang ini juga dirancang untuk menata dan mempertegas peran\nlembaga dan posisi wakil pemerintah sebagai pemegang sah am/pemilik modal BUMN, serta mempertegas\ndan memperjelas hubungan BUMN selaku operator usaha dengan lembaga pemerintah sebagai regulator.\nDi samping itu, Undang-undang ini mengatur pula ketentuan mengenai restrukturisasi dan privatisasi sebagai\nalat dan cara pembenahan BUMN untuk mencapai cita -citanya serta hal-hal penting lainnya yang mendukung\ndan dapat menjadi landasan bagi upaya-upaya penyehatan BUMN.\nKhusus mengenai program privatisasi, Undang -undang ini menegaskan bahwa privatisasi hanya dapa t\ndilakukan terhadap BUMN yang berbentuk Persero sepanjang dimungkinkan berdasarkan peraturan\nperundang-undangan di sektor kegiatan yang dilakukan Persero tersebut. BUMN Persero dapat diprivatisasi\nkarena selain dimungkinkan oleh ketentuan di bidang pasar modal juga karena pada umumnya hanya BUMN\nPersero yang telah bergerak dalam sektor -sektor yang kompetitif. Privatisasi senantiasa memperhatikan\nmanfaat bagi rakyat.\nVII. Memperhatikan sifat usaha BUMN, yaitu untuk memupuk keuntungan dan melaksanakan kemanfaatan\numum, dalam Undang -undang ini BUMN disederhanakan menjadi dua bentuk yaitu Perusahaan Perseroan\n(Persero) yang bertujuan memupuk keuntungan dan sepenuhnya tunduk pada ketentuan Undang -undang\nNomor 1 Tahun 1995 tentang Perseroan Terbatas serta Perusah aan Umum (Perum) yang dibentuk oleh\npemerintah untuk melaksanakan usaha sebagai implementasi kewajiban pemerintah guna menyediakan\nbarang dan jasa tertentu untuk memenuhi kebutuhan masyarakat. Untuk bentuk usaha Perum, walaupun\nkeberadaannya untuk melaksan akan kemanfaatan umum, namun demikian sebagai badan usaha diupayakan\nuntuk tetap mandiri dan untuk itu Perum harus diupayakan juga untuk mendapat laba agar bisa hidup\nberkelanjutan.\nPRESIDEN\nREPUBLIK INDONESIA\nVIII. PASAL DEMI PASAL\nPasal 1\nCukup jelas\nPasal 2\nAyat (1)\nHuruf a\nBUMN diharapkan dapat meningkatkan mutu pelayanan pada masyarakat sekaligus memberikan\nkontribusi dalam meningkatkan pertumbuhan ekonomi nasional dan membantu penerimaan keuangan\nnegara.\nHuruf b\nMeskipun maksud dan tujuan Persero adalah untuk mengejar keuntungan, namun dalam hal-hal tertentu\nuntuk melakukan pelayanan umum, Persero dapat diberikan tugas khusus dengan memperhatikan\nprinsip-prinsip pengelolaan perusahaan yang sehat. Dengan demikian, penugasan pemerintah harus\ndisertai dengan pembiayaannya (kompensasi) berdasarkan perhitungan bisnis atau komersial,\nsedangkan untuk Perum yang tujuannya menyediakan barang dan jasa untuk kepentingan umum, dalam\npelaksanaannya harus memperhatikan prinsip-prinsip pengelolaan perusahaan yang sehat.\nHuruf c\nDengan maksud dan tujuan seperti ini, setiap hasil usaha dari BUMN, baik barang maupun jasa, dapat\nmemenuhi kebutuhan masyarakat.\nHuruf d\nKegiatan perintisan merupakan suatu kegiatan usaha untuk m enyediakan barang dan/atau jasa yang\ndibutuhkan oleh masyarakat, namun kegiatan tersebut belum dapat dilakukan oleh swasta dan koperasi\nkarena secara komersial tidak menguntungkan. Oleh karena itu, tugas tersebut dapat dilakukan melalui\npenugasan kepada BUMN.\nDalam hal adanya kebutuhan masyarakat luas yang mendesak, pemerintah dapat pula menugasi suatu\nBUMN yang mempunyai fungsi pelayanan kemanfaatan umum untuk melaksanakan program\nkemitraan dengan pengusaha golongan ekonomi lemah.\nHuruf e\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 3\nYang dimaksud dengan peraturan perundang -undangan lainnya adalah ketentuan Undang-undang Nomor 1\nTahun 1995 termasuk perubahannya jika ada dan peraturan pelaksanaannya serta peraturan perundang-undangan\nsektoral yang men gatur bidang usaha BUMN dan swasta yang dikeluarkan oleh departemen/lembaga\nnondepartemen.\nPasal 4\nAyat (1)\nYang dimaksud dengan dipisahkan adalah pemisahan kekayaan negara dari Anggaran Pendapatan dan\nBelanja Negara untuk dijadikan penyertaan modal ne gara pada BUMN untuk selanjutnya pembinaan dan\nPRESIDEN\nREPUBLIK INDONESIA\npengelolaannya tidak lagi didasarkan pada sistem Anggaran Pendapatan dan Belanja Negara, namun\npembinaan dan pengelolaannya didasarkan pada prinsip-prinsip perusahaan yang sehat.\nAyat (2)\nHuruf a\nTermasuk dalam Anggaran Pendapatan dan Belanja Negara yaitu meliputi pula proyek-proyek\nAnggaran Pendapatan dan Belanja Negara yang dikelola oleh BUMN dan/atau piutang negara pada\nBUMN yang dijadikan sebagai penyertaan modal negara.\nHuruf b\nYang dimak sud dengan kapitalisasi cadangan adalah penambahan modal disetor yang berasal dari\ncadangan.\nHuruf c\nYang dimaksud dengan sumber lainnya tersebut, antara lain, adalah keuntungan revaluasi aset.\nAyat (3)\nPemisahan kekayaan negara untuk dijadikan pen yertaan modal negara ke dalam modal BUMN hanya dapat\ndilakukan dengan cara penyertaan langsung negara ke dalam modal BUMN tersebut, sehingga setiap\npenyertaan tersebut perlu ditetapkan dengan Peraturan Pemerintah.\nAyat (4)\nUntuk memonitor dan penatausah aan kekayaan negara yang tertanam pada BUMN dan perseroan terbatas,\ntermasuk penambahan dan pengurangan dari kekayaan negara tersebut serta perubahan struktur kepemilikan\nnegara sebagai akibat adanya pengalihan saham milik negara atau penerbitan saham baru yang tidak diambil\nbagian oleh negara, perlu ditetapkan dengan Peraturan Pemerintah.\nAyat (5)\nPenambahan penyertaan dari kapitalisasi cadangan dan sumber lainnya cukup dengan Keputusan\nRUPS/Menteri dan dilaporkan kepada Menteri Keuangan karena pada prinsipnya kekayaan negara tersebut\ntelah terpisah dari Anggaran Pendapatan dan Belanja Negara.\nAyat (6)\nPeraturan Pemerintah tersebut di antaranya mengatur mekanisme hubungan antara Menteri dengan Menteri\nKeuangan serta Menteri Teknis sesuai dengan kedudu kan dan fungsinya masing -masing, yaitu Menteri\nKeuangan selaku pengelola keuangan negara, Menteri yang ditunjuk untuk mewakili pemerintah selaku\npemegang saham, dan Menteri Teknis selaku regulator.\nPasal 5\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nDireksi selaku organ BUMN yang ditugasi melakukan pengurusan tunduk pada semua peraturan yang\nberlaku terhadap BUMN dan tetap berpegang pada penerapan prinsip -prinsip good corporate governance\nyang meliputi :\na) transparansi, yaitu keterbukaan dalam melaksanakan proses pengambilan keputusan dan keterbukaan\ndalam mengungkapkan informasi material dan relevan mengenai perusahaan;\nPRESIDEN\nREPUBLIK INDONESIA\nb) kemandirian, yaitu keadaan di mana perusahaan dikelola secara profesional tanpa benturan kepentingan\ndan pengaruh/tekanan dari pihak manapun yang tidak sesuai dengan peraturan perundang -undangan\ndan prinsip-prinsip korporasi yang sehat;\nc) akuntabilitas, yaitu kejelasan fungsi, pelaksanaan dan pertanggungjawaban Organ sehingga pengelolaan\nperusahaan terlaksana secara efektif;\nd) pertanggungjawaban, yaitu kesesuaian di dalam pengelolaan perusahaan terhadap peraturan perundang-\nundangan dan prinsip-prinsip korporasi yang sehat;\ne) kewajaran, yaitu kesesuaian di dalam pengelolaan perusa haan terhadap peraturan perundang-undangan\ndan prinsip-prinsip korporasi yang sehat.\nPasal 6\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nLihat penjelasan Pasal 5 ayat (3).\nPasal 7\nMengambil keuntungan pribadi artinya menyalahgunakan wewenangnya sebagai anggota Direksi atau\nKomisaris atau Dewan Pengawas BUMN untuk kepentingan sendiri, kelompok, atau golongan.\nPasal 8\nAyat (1)\nMaksud dari ketentuan ini adalah untuk menghindari bent uran kepentingan antara anggota Direksi atau\nKomisaris atau Dewan Pengawas dan BUMN yang diurus/diawasi.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nPasal 9\nCukup jelas\nPasal 10\nAyat (1)\nPengkajian yang dimaksud dalam ayat ini untuk menentukan layak tidaknya Persero tersebut didirikan\nmelalui kajian atas perencanaan bisnis dan kemampuan untuk mandiri serta mengembangkan usaha dimasa\nmendatang. Pengkajian dalam hal ini, melibatkan Menteri T eknis sepanjang yang menyangkut kebijakan\nsektoral.Ayat (2) Pelaksanaan pendirian Persero dilakukan oleh Menteri mengingat Menteri merupakan\nwakil negara selaku pemegang saham pada Persero dengan berpedoman pada peraturan perundang -\nu n d a n g a n .\nPasal 11\nPRESIDEN\nREPUBLIK INDONESIA\nMengingat Persero pada dasarnya merupakan perseroan terbatas, semua ketentuan Undang-undang Nomor 1\nTahun 1995 tentang Perseroan Terbatas, termasuk pula segala peraturan pelaksanaannya, berlaku juga bagi\nPersero.\nPasal 12\nPersero sebagai salah satu pelaku ekonomi nasional dituntut untuk dapat memenuhi permintaan pasar melalui\npenyediaan barang dan/atau jasa yang bermutu tinggi dan berdaya saing kuat baik di pasar dalam negeri maupun\ninternasional. Dengan demikian dapat meningkatkan keuntungan dan nilai Persero yang bersangkutan sehingga\nakan memberikan manfaat yang optimal bagi pihak-pihak yang terkait.\nPasal 13\nCukup jelas\nPasal 14\nAyat (1)\nBagi Persero yang seluruh modalnya (100%) dimiliki oleh negara, Menteri yang ditunjuk mewakili negara\nselaku pemegang saham dalam setiap keputusan tertulis yang berhubungan dengan Persero adalah\nmerupakan keputusan RUPS. Bagi Persero dan perseroan terbatas yang sahamnya dimiliki negara kurang\ndari 100% (seratus persen), Menteri ber kedudukan selaku pemegang saham dan keputusannya diambil\nbersama-sama dengan pemegang saham lainnya dalam RUPS.\nAyat (2)\nYang dimaksud dengan perorangan adalah seseorang yang menduduki jabatan di bawah Menteri yang\nsecara teknis bertugas membantu Menteri selaku pemegang saham pada Persero yang bersangkutan. Namun\ndemikian, dalam hal dipandang perlu, tidak tertutup kemungkinan kuasa juga dapat diberikan kepada badan\nhukum sesuai dengan peraturan perundang-undangan.\nAyat (3)\nMeskipun kedudukan Menteri selaku wakil pemerintah telah dikuasakan kepada perorangan atau badan\nhukum untuk mewakilinya dalam RUPS, untuk hal -hal tertentu penerima kuasa wajib terlebih dahulu\nmemperoleh persetujuan dari Menter i sebelum hal-hal dimaksud diputuskan dalam RUPS. Hal ini perlu\nmendapat persetujuan terlebih dahulu dari Menteri mengingat sifatnya yang sangat strategis bagi\nkelangsungan Persero.\nPasal 15\nAyat (1)\nCukup jelas\nAyat (2)\nDalam kedudukannya selaku RUP S, pengangkatan dan pemberhentian cukup dilakukan dengan keputusan\nMenteri. Keputusan Menteri tersebut mempunyai kekuatan hukum yang sama dengan keputusan yang\ndiambil secara sah dalam RUPS.\nPasal 16\nAyat (1)\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (2)\nMengingat kedudukan Direksi sebagai organ Persero strategis dalam mengurus perusahaan guna mencapai\nmaksud dan tujuan perusahaan untuk mengisi jabatan tersebut diperlukan calon -calon anggota direksi yang\nmempunyai keahlian, integritas, kejujuran, kepemimpi nan, pengalaman, perilaku yang baik, dan dedikasi\nyang tinggi, serta mempunyai visi pengembangan perusahaan.\nUntuk memperoleh calon -calon anggota Direksi yang terbaik, diperlukan seleksi melalui uji kelayakan dan\nkepatutan (fit and proper test) yang dil akukan secara transparan, profesional, mandiri dan dapat\ndipertanggungjawabkan.\nUji kelayakan dan kepatutan tersebut dilakukan oleh suatu tim yang ditunjuk oleh Menteri selaku RUPS\ndalam hal seluruh sahamnya dimiliki oleh negara, dan ditunjuk oleh Menteri selaku pemegang saham dalam\nhal sebagian sahamnya dimiliki oleh negara, khusus bagi Direksi yang mewakili unsur pemerintah.\nAnggota-anggota tim yang ditunjuk oleh Menteri harus memenuhi kriteria antara lain profesionalitas,\npemahaman bidang manajemen dan usaha BUMN yang bersangkutan, tidak memiliki benturan kepentingan\n(conflict of interest) dengan calon anggota direksi yang bersangkutan dan memiliki integritas serta dedikasi\nyang tinggi. Menteri dapat pula menunjuk lembaga profesional yang i ndependen untuk melakukan uji\nkelayakan dan kepatutan terhadap calon-calon anggota direksi Persero.\nAyat (3)\nYang dimaksud dengan kontrak manajemen adalah statement of corporate intent (SCI) yang, antara lain,\nberisikan janji -janji atau pernyataan Direk si untuk memenuhi segala target-target yang ditetapkan oleh\npemegang saham. Kontrak manajemen tersebut diperbaharui setiap tahun untuk disesuaikan dengan kondisi\ndan perkembangan perusahaan.\nAyat (4)\nAnggota Direksi yang telah menyelesaikan masa jabatan nya dapat dipertimbangkan untuk diangkat kembali\nberdasarkan penilaian kinerja pada periode sebelumnya.\nAyat (5)\nCukup jelas\nPasal 17\nYang dimaksud dengan pemberhentian sewaktu -waktu adalah pemberhentian sebelum masa jabatannya\nberakhir. Pemberhentian s ewaktu-waktu tersebut dilakukan apabila Direksi antara lain tidak dapat memenuhi\nkewajibannya yang telah disepakati dalam kontrak manajemen, tidak dapat menjalankan tugasnya dengan baik,\nmelanggar ketentuan anggaran dasar dan/atau peraturan perundang -undangan, dinyatakan bersalah dengan\nkeputusan pengadilan yang mempunyai kekuatan hukum yang tetap, meninggal dunia, dan mengundurkan diri.\nPasal 18\nCukup jelas\nPasal 19\nCukup jelas\nPasal 20\nSekretaris perusahaan (corporate secretary) berfungsi untuk memastikan bahwa Persero mematuhi peraturan\ntentang persyaratan keterbukaan sejalan dengan penerapan prinsip -prinsip good corporate governance,\nPRESIDEN\nREPUBLIK INDONESIA\nmemberikan informasi untuk Direksi dan Komisaris secara berkala apabila diminta. Sekretaris perusahaan harus\nmemenuhi kualifikasi profesionalisme yang memadai.\nSekretaris perusahaan diangkat dan diberhentikan oleh Direksi serta bertanggung jawab kepada Direksi.\nPasal 21\nAyat (1)\nRancangan rencana jangka panjang memuat, antara lain :\na. evaluasi pelaksanaan rencana jangka panjang sebelumnya;\nb. posisi perusahaan saat ini;\nc. asumsi-asumsi yang dipakai dalam penyusunan rencana jangka panjang;\nd. penetapan misi, sasaran, strategi, kebijakan, dan program kerja rencana jangka panjang.\nAyat (2)\nKomisaris sebelum menandatangani rancangan rencana jangka panjang yang disampaikan oleh Direksi,\nwajib membahas secara bersama-sama dengan Direksi.\nDengan ditandatangani bersama, semua anggota Direksi dan Komisaris bertanggung jawab atas isi\nrancangan rencana jangka panjang yang dimaksud.\nPasal 22\nAyat (1)\nRancangan rencana kerja dan anggaran perusahaan memuat antara lain :\na. misi Persero, sasaran usaha, strategi usaha, kebijakan perusahaan, dan program kerja/kegiatan;\nb. anggaran perusahaan yang dirinci atas setiap anggaran program kerja/kegiatan;\nc. proyeksi keuangan Persero dan anak perusahaannya;\nd. hal-hal lain yang memerlukan keputusan RUPS.\nAyat (2)\nMengingat rencana kerja dan anggaran perusahaan disahkan oleh RUPS, setiap perubahannya juga harus\ndisetujui oleh RUPS, kecuali ditentukan lain dalam keputusan RUPS mengenai pengesahan rencana kerja\ndan anggaran perusahaan dimaksud.\nPasal 23\nAyat (1)\nLaporan tahunan memuat antara lain:\na. Perhitungan tahunan yang terdiri dari neraca akhir tahun buku yang baru lampau dan perhitungan laba\nrugi dari tahun buku yang bersangkutan serta penjelasan atas dokumen tersebut;\nb. Neraca gabungan dari perseroan yang tergabung dalam satu group, disamping neraca dari masing -\nmasing perseroan tersebut;\nc. Laporan mengenai keadaan dan jalannya perseroan, serta hasil yang telah tercapai;\nd. Kegiatan utama perseroan dan perubahan selama tahun buku ;\ne. Rincian masalah yang timbul selama tahun buku yang mempengaruhi kegiatan perseroan;\nf. Nama anggota Direksi dan Komisaris; dan\ng. Gaji dan tunjangan lain bagi anggota Direksi dan honorariu m serta tunjangan lain bagi anggota\nKomisaris.\nAyat (2)\nPRESIDEN\nREPUBLIK INDONESIA\nKomisaris sebelum menandatangani laporan tahunan yang disampaikan oleh Direksi, wajib membahas\nsecara bersama -sama dengan Direksi. Dengan ditandatangani bersama, semua anggota Direksi dan\nKomisaris bertanggung jawab atas isi laporan tahunan dimaksud.\nAyat (3)\nAlasan anggota Direksi tidak menandatangani perlu dijelaskan secara tertulis kepada RUPS agar RUPS\ndapat menggunakannya sebagai salah satu bahan pertimbangan dalam memberikan penilaian terha dap\nlaporan tersebut.\nPasal 24\nSelain mengatur rencana jangka panjang, rencana kerja dan anggaran perseroan, laporan tahunan dan\nperhitungan tahunan, dalam keputusan Menteri tersebut, diatur pula antara lain mengenai tingkat kesehatan\nPersero.\nPasal 25\nLarangan perangkapan jabatan tersebut dimaksudkan agar anggota Direksi benar -benar mencurahkan segala\ntenaga dan pikirannya dan/atau perhatian secara penuh pada tugas, kewajiban dan pencapaian tujuan Persero\nserta menghindari timbulnya benturan kepentingan.\nPasal 26\nYang dimaksud dengan risalah rapat dalam pasal ini adalah risalah rapat Direksi, Komisaris, dan risalah RUPS.\nDireksi perlu memelihara risalah rapat tersebut karena merupakan dokumen resmi yang memuat hal -hal yang\ndibicarakan dan diputuskan dala m rapat, serta merupakan bukti yang melatarbelakangi diambilnya suatu\ntindakan, baik oleh Direksi, Komisaris, maupun pemegang saham dalam pengelolaan perusahaan. Pembukuan\nPersero dibuat sesuai dengan standar akuntansi keuangan yang merupakan prinsip-prinsip akuntansi yang\nberlaku.\nSetiap perubahan baik yang diakibatkan oleh transaksi maupun oleh kejadian lain dalam Persero yang\nmempengaruhi aktiva, hutang, modal, biaya, dan pendapatan harus dibukukan atas dasar sistem akuntansi yang\ndipertanggungjawabkan dan diselenggarakan berdasarkan prinsip -prinsip pengendalian intern, terutama\npemisahan fungsi pengurusan, pencatatan, penyimpanan, dan pengawasan.\nPasal 27\nAyat (1)\nCukup jelas\nAyat (2)\nLihat penjelasan Pasal 15 ayat (2).\nPasal 28\nAyat (1)\nCukup jelas\nAyat (2)\nYang dimaksud dengan bertindak secara independen adalah bahwa Komisaris tidak boleh mempunyai\nkepentingan yang dapat mengganggu kemampuannya untuk melaksanakan tugasnya secara mandiri dan\nkritis dalam hubungan satu sama lain dan terhadap Direksi.\nAyat (3)\nLihat penjelasan Pasal 16 ayat (4).\nAyat (4)\nPRESIDEN\nREPUBLIK INDONESIA\nCukup jelas\nAyat (5)\nPengangkatan anggota Komisaris yang tidak bersamaan dengan anggota Direksi dimaksudkan agar tidak\nterjadi kekosongan jabatan apabila anggota Komis aris atau anggota Direksi telah berakhir masa jabatannya\nkecuali pengangkatan yang pertama kali untuk pendirian Persero.\nPasal 29\nLihat penjelasan Pasal 17.\nPasal 30\nCukup jelas\nPasal 31\nKomisaris dalam melakukan tugasnya berkewajiban :\na. memberikan pendapat dan saran kepada RUPS mengenai rencana kerja dan anggaran perusahaan yang\ndiusulkan Direksi;\nb. mengikuti perkembangan kegiatan Persero, memberikan pendapat dan saran kepada RUPS mengenai setiap\nmasalah yang dianggap penting bagi pengurusan Persero;\nc. melaporkan dengan segera kepada pemegang saham apabila terjadi gejala menurunnya kinerja Persero;\nd. memberikan nasihat kepada Direksi dalam melaksanakan pengurusan Persero;\ne. melakukan tugas pengawasan lain yang ditetapkan anggaran d asar Persero dan/ atau berdasarkan keputusan\nRUPS. Selain itu, agar Komisaris dapat melaksanakan tugasnya dengan baik sesuai dengan tugas dan\nfungsinya, Komisaris mempunyai wewenang sebagai berikut :\na. melihat buku -buku, surat -surat, serta dokumen -dokumen lainnya, memeriksa kas untuk keperluan\nverifikasi dan memeriksa kekayaan Persero;\nb. memasuki pekarangan, gedung, dan kantor yang dipergunakan oleh Persero;\nc. meminta penjelasan dari Direksi dan/atau pejabat lainnya mengenai segala persoalan yang menyangkut\npengelolaan Persero;\nd. meminta Direksi dan/atau pejabat lainnya dengan sepengetahuan Direksi untuk menghadiri rapat\nKomisaris;\ne. menghadiri rapat Direksi dan memberikan pandangan-pandangan terhadap hal-hal yang dibicarakan;\nf. memberhentikan sementara Direksi, dengan menyebutkan alasannya;\ng. wewenang lain yang dianggap perlu sebagaimana diatur dalam anggaran dasar Persero.\nPasal 32\nAyat (1)\nCukup jelas\nAyat (2)\nKetentuan ini memberi wewenang kepada Komisaris untuk melakukan pengurusan Persero yang sebenarnya\nhanya dapat dilakukan oleh Direksi dalam hal Direksi tidak ada. Apabila ada Direksi, Komisaris hanya\ndapat melakukan tindakan tertentu yang ditentukan oleh R UPS dalam anggaran dasar dan peraturan\nperundang-undangan.\nPasal 33\nPRESIDEN\nREPUBLIK INDONESIA\nLarangan perangkapan jabatan tersebut dimaksudkan agar anggota Komisaris benar -benar mencurahkan segala\ntenaga dan pikirannya dan/atau perhatian secara penuh pada tugas, kewajiban dan pencapaian tujuan Persero\nserta menghindari timbulnya benturan kepentingan.\nPasal 34\nCukup jelas\nPasal 35\nAyat (1)\nPendirian Perum harus memenuhi kriteria antara lain sebagai berikut :\na. bidang usaha atau kegiatannya berkaitan dengan kepentingan orang banyak;\nb. didirikan tidak semata-mata untuk mengejar keuntungan (cost ffectiveness/cost recovery);\nc. berdasarkan pengkajian memenuhi persyaratan ekonomis yang diperlukan bagi berdirinya suatu badan\nusaha (mandiri).\nPengusulan pendirian Perum kepada Presiden oleh Menteri, dapat dilakukan atas inisiatif Menteri dan\ndapat pula atas inisiatif dari Menteri Teknis dan/atau dari Menteri Keuangan sepanjang memenuhi\nkriteria tersebut di atas.\nSelanjutnya lihat pula penjelasan Pasal 10 ayat (1).\nAyat (2)\nPeraturan Pemerintah ini memuat antara lain :\na. penetapan pendirian Perum;\nb. penetapan besarnya kekayaan Negara yang dipisahkan;\nc. anggaran dasar;\nd. penunjukan Menteri selaku wakil pemerintah sebagai pemilik modal.\nAyat (3)\nPeraturan Pemerintah ini, antara lain, mengatur mengenai hubungan antara Menteri, Menteri Keuangan dan\nMenteri Teknis dalam hal pendirian, pembinaan, pengurusan dan pengawasan Perum.\nPasal 36\nAyat (1)\nPerum dibedakan dengan Perusahaan Perseroan karen a sifat usahanya. Perum dalam usahanya lebih berat\npada pelayanan demi kemanfaatan umum, baik pelayanan maupun penyediaan barang dan jasa. Namun\ndemikian, sebagai badan usaha diupayakan untuk tetap mandiri dan untuk itu Perum perlu mendapat laba\nagar dapat hidup berkelanjutan.\nAyat (2)\nYang dimaksud dengan penyertaan modal dalam ayat ini adalah penyertaan langsung Perum dalam\nkepemilikan saham pada badan usaha yang berbentuk perseroan terbatas, baik yang sudah berdiri maupun\nyang akan didirikan.\nPasal 37\nKedudukan Menteri adalah sebagai organ yang memegang kekuasaan tertinggi dalam Perum yang mempunyai\nsegala wewenang yang tidak diberikan kepada Direksi atau Dewan Pengawas dalam batas yang ditentukan\ndalam Undang-undang ini dan/atau Peraturan Pemerintah tentang Pendiriannya.\nPasal 38\nPRESIDEN\nREPUBLIK INDONESIA\nMenteri selaku wakil pemerintah sebagai pemilik modal Perum menetapkan kebijakan pengembangan Perum\nyang bertujuan menetapkan arah dalam mencapai tujuan perusahaan baik menyangkut kebijakan investasi,\npembiayaan usaha, sumb er pembiayaannya, penggunaan hasil usaha perusahaan, dan kebijakan pengembangan\nlainnya. Mengingat Dewan Pengawas akan mengawasi pelaksanaan kebijakan tersebut, usulan Direksi kepada\nMenteri harus didahului dengan persetujuan dari Dewan Pengawas.\nMenteri sangat berkepentingan dengan modal Negara yang tertanam dalam Perum untuk dapat dikembangkan.\nUntuk itu masalah investasi, pembiayaan serta pemanfaatan hasil usaha Perum perlu diarahkan dengan jelas\ndalam suatu kebijakan pengembangan perusahaan. Dalam rangka memberikan persetujuan atas usul Direksi\ntersebut, Menteri dapat mengadakan pembicaraan sewaktu -waktu dengan Menteri Teknis untuk membicarakan\nhal-hal yang berkaitan dengan kebijakan sektoral.\nPasal 39\nMengingat modal Perum pada dasarnya meru pakan kekayaan negara yang telah dipisahkan, pemilik modal\nhanya bertanggungjawab sebesar nilai penyertaan yang disetorkan dan tidak meliputi harta kekayaan negara di\nluar modal tersebut. Jika terjadi tindakan di luar mekanisme korporasi sebagaimana diatur dalam pasal ini,\ntanggungjawab secara terbatas tersebut menjadi hilang.\nPasal 40\nKeputusan Menteri tersebut mengatur, antara lain, tindakan -tindakan Direksi yang perlu mendapat persetujuan\nDewan Pengawas dan/atau perlu mendapat persetujuan Menteri, yang meliputi, antara lain, persetujuan untuk :\na. penarikan pinjaman;\nb. pemberian pinjaman;\nc. pelepasan aktiva;\nd. penghapusan piutang macet dan persediaan barang.\nPasal 41\nAyat (1)\nPeraturan Pemerintah tentang Pendirian Perum, selain menetapkan pendirian Perum, juga sekaligus\nmenetapkan keputusan untuk melakukan penyertaan modal negara ke dalam Perum dan anggaran dasar\nPerum yang bersangkutan.\nAnggaran dasar Perum memuat antara lain :\na. nama dan tempat kedudukan Perum;\nb. maksud dan tujuan serta kegiatan usaha Perum;\nc. jangka waktu berdirinya Perum;\nd. susunan dan jumlah anggota Direksi dan jumlah anggota Dewan Pengawas; dan\ne. penetapan tata cara penyelenggaraan rapat Direksi, rapat Dewan Pengawas, rapat Direksi dan/atau\nDewan Pengawas dengan Menteri dan Menteri Teknis.\nAyat (2)\nKarena Peraturan Pemerintah tentang Pendirian Perum sekaligus memuat anggaran dasar Perum, setiap\nperubahan anggaran dasar Perum ditetapkan dengan Peraturan Pemerintah.\nAyat (3)\nCukup jelas\nPasal 42\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 43\nBerdasarkan ketentuan ini, Menteri dapat menetapkan bahwa sebagian atau seluruh laba bersih akan digunakan\nuntuk pembagian dividen kepada pemilik modal, atau pembagian lain seperti tansiem (tantiem) untuk Direksi\ndan Dewan Pengawas, bonus untuk karyawan, cadangan dana sosial dan lain -lain, atau penempatan laba bersih\ntersebut dalam cadangan Perum yang antara lain diperuntukkan bagi perluasan usaha Perum.\nPasal 44\nDalam rangka pengangkatan Direksi, Menteri dapat meminta masukan dari Menteri Teknis apabila dipandang\nperlu.\nPasal 45\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nMengingat kedudukan Direksi sebagai organ Perum strategis dalam mengurus perusahaan guna mencapai\nmaksud dan tujuan perusahaan untuk mengisi jabatan tersebut diperlukan calon-calon anggota Direksi yang\nmempunyai keahlian, integritas, kejujuran, kepemimpina n, pengalaman, perilaku yang baik, dan dedikasi\nyang tinggi, serta mempunyai visi pengembangan perusahaan.\nUntuk memperoleh calon -calon anggota Direksi yang terbaik, diperlukan seleksi melalui uji kelayakan dan\nkepatutan (fit and proper test) yang dilaku kan secara transparan, profesional, mandiri dan dapat\ndipertanggungjawabkan.\nUji kelayakan dan kepatutan tersebut dilakukan oleh suatu tim yang ditunjuk oleh Menteri.\nAnggota-anggota tim yang ditunjuk oleh Menteri harus memenuhi kriteria antara lain profesionalitas,\npemahaman bidang manajemen dan usaha BUMN yang bersangkutan, tidak memiliki benturan kepentingan\n(conflict of interest) dengan calon anggota Direksi yang bersangkutan, dan memiliki integritas, serta\ndedikasi yang tinggi. Menteri dapat pula menunjuk lembaga profesional yang independen untuk melakukan\nuji kelayakan dan kepatutan terhadap calon-calon anggota direksi Perum.\nAyat (4)\nLihat penjelasan Pasal 16 ayat (3).\nAyat (5)\nLihat penjelasan Pasal 16 ayat (4).\nAyat (6)\nCukup jelas\nPasal 46\nYang dimaksud dengan pemberhentian sewaktu -waktu adalah pemberhentian sebelum masa jabatannya\nberakhir. Pemberhentian sewaktu -waktu tersebut dilakukan apabila Direksi antara lain tidak dapat\nmemenuhi kewajibannya yang telah disepakati dalam kont rak manajemen, tidak dapat menjalankan\ntugasnya dengan baik, melanggar ketentuan anggaran dasar dan/atau peraturan perundang -undangan,\ndinyatakan bersalah dengan keputusan pengadilan yang mempunyai kekuatan hukum yang tetap, meninggal\ndunia, dan mengundurkan diri.\nPasal 47\nPRESIDEN\nREPUBLIK INDONESIA\nCukup jelas\nPasal 48\nCukup jelas\nPasal 49\nAyat (1)\nCukup jelas\nAyat (2)\nDewan Pengawas sebelum menandatangani rancangan rencana jangka panjang yang disampaikan oleh\nDireksi, wajib membahas secara bersama -sama dengan Direksi. Dengan ditandatangani bersama, semua\nanggota Direksi dan Dewan Pengawas bertanggung jawab atas isi rancangan rencana jangka panjang yang\ndimaksud.\nPasal 50\nLihat penjelasan Pasal 22 ayat (1) dan ayat (2).\nPasal 51\nAyat (1)\nLihat penjelasan Pasal 23 ayat (1).\nAyat (2)\nLihat penjelasan Pasal 23 ayat (2).\nAyat (3)\nLihat penjelasan Pasal 23 ayat (3).\nPasal 52\nLihat penjelasan Pasal 24.\nPasal 53\nLihat penjelasan Pasal 25.\nPasal 54\nLihat penjelasan Pasal 26.\nPasal 55\nAyat (1)\nCukup jelas\nAyat (2)\nKesalahan atau kelalaian Direksi yang dimaksud dalam ayat ini adalah kesalahan atau kelalaian yang\ndilakukan misalnya karena melanggar ketentuan anggaran dasar Perum atau ketentuan yang telah digariskan\noleh Dewan Pengawa s dan Menteri serta telah terbukti secara sah. Dalam hal ini proses pembuktiannya\ndilakukan oleh Menteri beserta aparatnya. Namun bersalah atau tidaknya anggota Direksi yang\nbersangkutan ditetapkan berdasarkan keputusan pengadilan yang berwenang.\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nPasal 56\nPRESIDEN\nREPUBLIK INDONESIA\nAnggota Dewan Pengawas dapat terdiri dari unsur -unsur pejabat Menteri Teknis, Menteri Keuangan, Menteri\ndan pejabat departemen/lembaga non departemen yang kegiatannya berhubungan langsung dengan Perum.\nLihat pula penjelasan pasal 44.\nPasal 57\nAyat (1) dan (2)\nCukup jelas\nAyat (3)\nLihat penjelasan Pasal 28 ayat (2).\nAyat (4)\nLihat Pasal 16 ayat (4).\nAyat (5)\nCukup jelas\nAyat (6)\nLihat penjelasan Pasal 28 ayat (5).\nPasal 58\nYang dimaksud dengan pemberhentian sewaktu -waktu adalah pemberhentian sebelum masa jabatannya\nberakhir. Pemberhentian sewaktu -waktu tersebut dilakukan apabila Dewan Pengawas antara lain tidak dapat\nmemenuhi kewajibannya yang telah disepakati dalam kontrak manajemen, tidak dapat menjalankan tugasnya\ndengan baik, melanggar ketentuan anggaran dasar dan/atau peraturan perundang -undangan, dinyatakan bersalah\ndengan keputusan pengadilan yang mempunyai kekuatan hukum yang tetap, meninggal dunia, dan\nmengundurkan diri.\nPasal 59\nCukup jelas\nPasal 60\nLihat penjelasan Pasal 31.\nPasal 61\nAyat (1)\nCukup jelas\nAyat (2)\nLihat penjelasan Pasal 32 ayat (2).\nPasal 62\nLihat penjelasan Pasal 33.\nPasal 63\nAyat (1)\nSuatu Persero dapat melakukan penggabungan atau peleburan diri dengan Persero lainnya atau Perum yang\ntelah ada atau sebaliknya.\nPenggabungan dan peleburan BUMN dapat dilakukan tanpa diadakan likuidasi terlebih dahulu. Dengan\nadanya penggabungan terseb ut Persero atau Perum yang menggabungkan diri menjadi bubar. Sedangkan\ndengan adanya peleburan BUMN yang saling meleburkan diri menjadi bubar dan membentuk satu BUMN\nbaru.\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (2)\nPerbuatan hukum yang dilakukan oleh BUMN untuk mengambil alih BUMN lainn ya atau Perseroan\nTerbatas, baik seluruh atau sebagian besar saham/modal yang dapat mengakibatkan beralihnya\npengendalian terhadap BUMN atau Perseroan Terbatas tersebut.\nPasal 64\nAyat (1)\nKarena pendirian BUMN dilakukan dengan Peraturan Pemerintah yang menyebutkan besarnya penyertaan\nmodal negara dalam pendirian BUMN dimaksud, pembubaran BUMN tersebut harus dilakukan pula dengan\nPeraturan Pemerintah.\nAyat (2)\nDalam Peraturan Pemerintah tentang pembubaran BUMN, dapat pula ditetapkan agar sisa hasil likuidasi\ndijadikan penyertaan modal negara pada BUMN lain yang telah ada atau dijadikan penyertaan dalam rangka\npendirian BUMN baru. Jika tidak ditetapkan demikian sisa hasil likuidasi disetorkan langsung ke Kas\nNegara, karena merupakan hak negara sebagai pemegang saham atau pemilik modal BUMN.\nPasal 65\nAyat (1)\nKarena setiap pendirian BUMN dilakukan dengan Peraturan Pemerintah, apabila ada perubahan terhadap\nkeberadaan BUMN dimaksud, baik karena penggabungan, peleburan, pengambilalihan maup un\npembubaran, harus dilakukan pula dengan Peraturan Pemerintah.\nAyat (2)\nTindakan untuk melakukan penggabungan, peleburan, pengambilalihan dan pembubaran BUMN akan\nberakibat langsung kepada kepentingan BUMN, pemegang saham, pihak ketiga, dan karyawan B UMN.\nPada dasarnya dengan melakukan tindakan-tindakan tersebut, diharapkan BUMN yang dipertahankan dan\nyang baru dibentuk akan menjadi lebih baik. Kepentingan pemegang saham tidak bisa dirugikan, demikian\njuga halnya pihak ketiga, perlu diberitahu sebelumn ya sehingga hak -hak mereka dapat diselesaikan secara\nmemadai. Adapun mengenai karyawan yang merupakan aset BUMN itu sendiri diupayakan agar mereka\ntidak akan dikenakan pemutusan hubungan kerja (PHK) atau apabila harus terjadi PHK. PHK adalah pilihan\nyang terakhir dan harus diselesaikan sesuai dengan peraturan perundang-undangan.\nOleh karena itu, sebelum tindakan -tindakan tersebut di atas dilakukan, Direksi BUMN yang akan\nmelakukan penggabungan, peleburan, pengambilalihan, dan pembubaran tersebut perlu\nmensosialisasikannya terlebih dahulu kepada karyawannya masing-masing.\nPasal 66\nAyat (1)\nMeskipun BUMN didirikan dengan maksud dan tujuan untuk mengejar keuntungan, tidak tertutup\nkemungkinan untuk hal -hal yang mendesak, BUMN diberikan penugasan khusus oleh pemerintah. Apabila\npenugasan tersebut menurut kajian secara finansial tidak fisibel, pemerintah harus memberikan kompensasi\natas semua biaya yang telah dikeluarkan oleh BUMN tersebut termasuk margin yang diharapkan.\nAyat (2)\nKarena penugasan pada prinsipnya mengubah rencana kerja dan anggaran perusahaan yang telah ada,\npenugasan tersebut harus diketahui dan disetujui pula oleh RUPS/Menteri.\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 67\nSatuan pengawasan intern dibentuk untuk membantu direktur utama dalam melaksa nakan pemeriksaan intern\nkeuangan dan pemeriksaan operasional BUMN serta menilai pengendalian, pengelolaan dan pelaksanaannya\npada BUMN yang bersangkutan serta memberikan saran-saran perbaikannya. Karena satuan pengawasan intern\nbertugas untuk membantu direktur utama, pertanggungjawabannya diberikan kepada direktur utama.\nPasal 68\nCukup jelas\nPasal 69\nCukup jelas\nPasal 70\nAyat (1)\nDalam rangka mewujudkan pengawasan yang efektif dalam pelaksanaan tugasnya, Komisaris dan Dewan\nPengawas perlu dibantu oleh Komite Audit yang bertugas menilai pelaksanaan kegiatan serta hasil audit\nyang dilakukan oleh satuan pengawasan intern maupun auditor eksternal, memberikan rekomendasi\nmengenai penyempurnaan sistem pengendalian manajemen serta pelaksanaannya, memastikan telah\nterdapat prosedur review yang memuaskan terhadap segala informasi yang dikeluarkan BUMN,\nmengidentifikasi hal -hal yang memerlukan perhatian Komisaris dan Dewan Pengawas serta tugas -tugas\nKomisaris dan Dewan Pengawas lainnya.\nAyat (2)\nKetua komite audit adalah anggota Komisaris independen, yang diangkat oleh Komisaris.\nAyat (3)\nKomite lain yang dimaksud di sini, antara lain, adalah komite remunerasi dan komite nominasi.\nAyat (4)\nCukup jelas\nPasal 71\nAyat (1)\nPemeriksaan laporan keuangan (financial audit) perusahaan dimaksudkan untuk memperoleh opini auditor\natas kewajaran laporan keuangan dan perhitungan tahunan perusahaan yang bersangkutan. Opini auditor\natas laporan keuangan dan perhitungan tahunan dimaksud diperlukan oleh pemegang saham/Menteri antara\nlain dalam rangka pemberian acquit et decharge Direksi dan Komisaris/Dewan Pengawas perusahaan.\nSejalan dengan Undang -undang Nomor 1 Tahun 1995 tentang Perseroan Terbatas dan Undang-undang\nNomor 8 Tahun 1995 tentang Pasar Modal, pemeriksaan laporan keuangan dan perhitungan tahunan\nPerseroan Terbatas dilakukan oleh akuntan publik.\nAyat (2)\nCukup jelas\nPasal 72\nSebagaimana mandat yang diberikan oleh Majelis Permusyawaratan Rakyat, pemerintah berkewajiban untuk\nmenyehatkan badan usaha, terutama yang usahanya berkaitan dengan kepentingan umum. Upaya penyehatan\nbadan usaha ini dapat dilaksanakan melalui restrukturisasi agar perusahaan dapat beroperasi secara lebih efisien,\ntransparan dan profesional sehingga badan usaha dapat memberikan produk/layanan terbaik dengan harga yang\nPRESIDEN\nREPUBLIK INDONESIA\nkompetitif kepada konsumen, serta memberikan manfaat kepada negara. Sebelum melaksanakan restrukturisasi,\npemerintah akan mempertimbangkan asas biaya dan manfaat dari restrukturisasi tersebut.\nPasal 73\nRestrukturisasi sektoral terutama ditujukan kepada sektor -sektor yang mendapat proteksi di masa lalu atau\nterdapat monopoli alamiah. Restrukturisasi sektoral dimaksudkan untuk menciptakan iklim usaha yang sehat,\nsehingga terjadi kompetisi yang sehat, efisiensi, dan pelayanan yang optimal. Restrukturisasi industri tersebut\nberkaitan dengan pengaturan usaha (regulasi). Pembenahan dan penataan regulasi dilaksanakan bersama -sama\ndengan departemen terkait.\nRestrukturisasi sektor dapat dilaksanakan melalui cara -cara berikut: memisahkan segmen -segmen dalam sektor\nuntuk mengurangi integrasi vertikal sektor, peningkatan kompetisi, introduksi persaingan dari industri substitusi,\npemasok lain dalam sektor yang sama, dan peningkatan persaingan pasar, serta demonopolisasi melalui regulasi.\nUntuk perusahaan -perusahaan yang memiliki kewajiban pelayanan publik, perusahaan - perusahaan ini masih\ndalam proses restrukturisasi. Dengan tidak mengabaikan kepentingan publik, perusahaan akan men erapkan\nprinsip-prinsip usaha untuk lebih meningkatkan efisiensi dan produktivitas perusahaan. Upaya ini untuk\nmemperjelas berapa tingkat subsidi pemerintah terhadap biaya pelayanan masyarakat tersebut.\nPasal 74\nDengan dilakukannya privatisasi diharapkan akan terjadi perubahan atas budaya perusahaan sebagai akibat dari\nmasuknya pemegang saham baru, baik melalui penawaran umum (go public) ataupun melalui penyertaan\nlangsung (direct placement). Perusahaan akan dihadapkan pada kewajiban pemenuhan persyaratan -persyaratan\nketerbukaan (disclosure) yang merupakan persyaratan utama dari suatu proses go public, atau adanya sasaran -\nsasaran perusahaan yang harus dicapai sebagai akibat masuknya pemegang saham baru.\nBudaya perusahaan yang berubah tersebut akan dapat m endorong peningkatan kinerja perusahaan yang\nselanjutnya akan dapat mempertinggi daya saing perusahaan dalam berkompetisi dengan pesaing -pesaing, baik\nnasional, regional, bahkan global sehingga pada akhirnya akan dapat memberikan kontribusi yang lebih besar\nterhadap perekonomian nasional dalam bentuk barang dan jasa yang semakin berkualitas dan terjangkau\nharganya, serta penerimaan negara dalam bentuk pajak yang akan semakin besar pula. Dengan demikian maksud\ndan tujuan privatisasi pada dasarnya adalah untuk meningkatkan peran Persero dalam upaya meningkatkan\nkesejahteraan umum dengan memperluas kepemilikan masyarakat atas Persero, serta untuk menunjang stabilitas\nperekonomian nasional.\nMeskipun priva tisasi bertujuan untuk melakukan efisiensi, sedapat mungkin tidak sampai menimbulkan\nkeresahan bagi karyawan. Oleh karena itu dalam melaksanakan privatisasi sejauh mungkin perlu diupayakan\nagar tidak terjadi pemutusan hubungan kerja (PHK). PHK hanya dapat dilakukan setelah jangka waktu tertentu\nsetelah pelaksanaan privatisasi, kecuali karyawan melakukan tindakan -tindakan yang melanggar ketentuan\nhukum. Selanjutnya apabila PHK terjadi pelaksanaannya dilakukan sesuai dengan peraturan perundang -\nundangan. Sehubungan dengan itu, dalam upaya agar karyawan dan serikat pekerja maupun masyarakat dapat\nmemahami manfaat privatisasi pemerintah perlu melakukan sosialisasi tentang manfaat privatisasi secara terarah\ndan konsisten.\nPasal 75\nPelaksanaan privatisasi dilakuka n secara transparan, baik dalam proses penyiapannya maupun dalam\npelaksanaannya. Proses privatisasi dilaksanakan dengan berpedoman pada prosedur privatisasi yang telah\nditetapkan tanpa ada intervensi dari pihak lain di luar mekanisme korporasi serta ketentuan perundang-undangan\nPRESIDEN\nREPUBLIK INDONESIA\nyang berlaku. Proses privatisasi juga dilakukan dengan berkonsultasi secara intensif dengan pihak -pihak terkait\nsehingga proses dan pelaksanaannya dapat dipertanggungjawabkan kepada masyarakat.\nPasal 76\nAyat (1)\nYang dima ksud dengan industri/sektor usaha kompetitif adalah industri/sektor usaha yang pada dasarnya\ndapat diusahakan oleh siapa saja, baik BUMN maupun swasta. Dengan kata lain tidak ada peraturan\nperundang-undangan (kebijakan sektoral) yang melarang swasta melakukan kegiatan di sektor tersebut, atau\ntegasnya sektor tersebut tidak semata -mata dikhususkan untuk BUMN. Yang dimaksud dengan\nindustri/sektor usaha yang unsur teknologi cepat berubah adalah industri/sektor usaha kompetitif dengan ciri\nutama terjadinya perubahan teknologi yang sangat cepat dan memerlukan investasi yang sangat besar untuk\nmengganti teknologinya.\nAyat (2)\nCukup jelas\nPasal 77\nCukup jelas\nPasal 78\nHuruf a\nYang dimaksud dengan penjualan saham berdasarkan ketentuan pasar modal antara lain adalah penjualan\nsaham melalui penawaran umum (Initial Public Offering/go public), penerbitan obligasi konversi, dan efek\nlain yang bersifat ekuitas. Termasuk dalam pengertian ini adalah penjualan saham kepada mitra strategis\n(direct placement) bagi BUMN yang telah terdaftar di bursa.\nHuruf b\nSedangkan yang dimaksud dengan penjualan saham langsung kepada investor adalah penjualan saham\nkepada mitra strategis (direct placement) atau kepada investor lainnya termasuk financial investor. Cara ini,\nkhusus berlaku bagi penjualan saham BUMN yang belum terdaftar di bursa.\nHuruf c\nYang dimaksud dengan penjualan saham kepada manajemen (Management Buy Out/MBO) dan/atau\nkaryawan (Employee Buy Out/EBO) adalah penjualan sebagian besar atau seluruh saham suatu p erusahaan\nlangsung kepada manajemen dan/atau karyawan perusahaan yang bersangkutan.\nPasal 79\nAyat (1)\nCukup jelas\nAyat (2)\nMenteri Teknis sebagai regulator di sektor tempat BUMN melakukan kegiatan usaha, menjadi anggota\nkomite privatisasi hanya dalam privatisasi BUMN di bidangnya.\nAyat (3)\nCukup jelas\nPasal 80\nCukup jelas\nPasal 81\nPRESIDEN\nREPUBLIK INDONESIA\nDalam rangka melaksanakan tugas sebagaimana dimaksud dalam pasal ini, Menteri mengambil langkah-langkah\nantara lain sebagai berikut :\na. menetapkan BUMN yang akan diprivatisasi;\nb. menetapkan metode privatisasi yang akan digunakan;\nc. menetapkan jenis serta rentangan jumlah saham yang akan dilepas;\nd. menetapkan rentangan harga jual saham;\ne. menyiapkan perkiraan nilai yang dapat diperoleh dari program privatisasi suatu BUMN.\nPasal 82\nCukup jelas\nPasal 83\nDalam Peraturan Pemerintah diatur antara lain mengenai :\na. penentuan BUMN yang layak untuk dimasukkan dalam program privatisasi;\nb. penyampaian program tahunan privatisasi kepada komite privatisasi;\nc. konsultasi dengan DPR dan Departemen/Lembaga Non Departemen terkait;\nd. pelaksanaan privatisasi.\nPasal 84\nYang termasuk dalam pengertian orang dan/atau badan hukum yang mempunyai bentura n kepentingan adalah\nmeliputi pihak-pihak yang mempunyai hubungan afiliasi sebagai berikut:\na. hubungan keluarga karena perkawinan dan keturunan sampai derajat kedua, baik secara horisontal maupun\nvertikal;\nb. hubungan antara pihak dengan karyawan, Direktur, atau Komisaris dari pihak tersebut;\nc. hubungan antara 2 (dua) perusahaan di mana terdapat satu atau lebih anggota Direksi atau Komisaris yang\nsama;\nd. hubungan antara perusahaan dan pihak, baik langsung maupun tidak langsung, mengendalikan atau\ndikendalikan oleh perusahaan tersebut;\ne. hubungan antara 2 (dua) perusahaan yang dikendalikan, baik langsung maupun tidak langsung, oleh pihak\nyang sama; atau\nf. hubungan antara perusahaan dan pemegang saham utama.\nPasal 85\nAyat (1)\nYang dimaksud dengan informasi adalah fakta material dan relevan mengenai peristiwa, kejadian, atau fakta\nyang dapat mempengaruhi harga dan/atau keputusan pemodal, calon pemodal, atau pihak lain yang\nberkepentingan atas informasi atau fakta tersebut.\nAtas informasi atau fakta dimaksud, selama belum ditetapkan sebagai informasi atau fakta yang terbuka\natau selama belum diumumkan oleh Menteri semua pihak yang terlibat wajib untuk merahasiakan informasi\ntersebut.\nAyat (2)\nDalam hal pelanggaran ketentu an kerahasiaan ini terjadi pada privatisasi BUMN yang belum terdaftar di\nbursa dan privatisasinya menggunakan cara selain cara privatisasi melalui penjualan saham di bursa\nPRESIDEN\nREPUBLIK INDONESIA\ndikenakan sanksi sesuai dengan peraturan perundang-undangan di bidang hukum pidana u mum, sedangkan\ndalam hal pelanggaran terjadi pada privatisasi BUMN yang telah terdaftar di bursa, dikenakan sanksi sesuai\ndengan peraturan perundang-undangan di bidang pasar modal.\nPasal 86\nAyat (1)\nHasil privatisasi yang disetorkan ke Kas Negara adalah hasil divestasi saham milik negara. Sedangkan bagi\npenjualan saham baru, hasilnya disetorkan ke kas perusahaan. Bagi hasil privatisasi anak perusahaan\nBUMN, hasil privatisasinya dapat ditetapkan sebagai dividen interim. Yang dimaksud dengan hasil\nprivatisasi adalah hasil bersih setelah dikurangi biaya -biaya pelaksanaan privatisasi. Biaya pelaksanaan\nprivatisasi harus memperhatikan prinsip kewajaran, transparansi dan akuntabilitas.\nAyat (2)\nCukup jelas\nPasal 87\nAyat (1)\nDengan status kepegawaian BUMN seperti ini, bagi BUMN tidak berlaku segala ketentuan eselonisasi\njabatan yang berlaku bagi pegawai negeri. Perjanjian kerja bersama dimaksud dibuat antara pekerja BUMN\ndengan pemberi kerja yaitu manajemen BUMN.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nPasal 88\nYang dimaksud dengan usaha kecil/koperasi meliputi usaha kecil/koperasi yang memenuhi kriteria sebagai\nusaha kecil sesuai dengan peraturan perundang-undangan.\nPasal 89\nCukup jelas\nPasal 90\nCukup jelas\nPasal 91\nAgar supaya Direksi dapat melaksanakan tugasnya secara mandiri, pihak -pihak luar manapun, selain organ\nBUMN tidak diperbolehkan ikut campur tangan terhadap pengurusan BUMN. Termasuk dalam pengertian\ncampur tangan adalah tindakan atau arahan yang secara langsung memberi pengaruh terhadap tindakan\npengurusan BUMN atau terhadap pengambilan keputusan oleh Direksi.\nKetentuan ini dimaksudkan untuk mempertegas kemandirian BUMN sebagai badan usaha agar dapat dikelola\nsecara profesional sehingga dapat berkembang dengan baik sesuai dengan tujuan usahanya.\nHal ini berlaku pula bagi Departemen dan instansi Pemerintah lainnya, karena kebutuhan dana Departemen dan\ninstansi Pemerintah lainnya telah diatur dan ditetapkan secara tersendiri, Departemen dan instans i Pemerintah\ntidak dibenarkan membebani BUMN dengan segala bentuk pengeluaran dan sebaliknya BUMN tidak\ndibenarkan membiayai keperluan pengeluaran Departemen dan instansi Pemerintah dalam pembukuan.\nPasal 92\nPRESIDEN\nREPUBLIK INDONESIA\nCukup jelas\nPasal 93\nCukup jelas\nPasal 94\nCukup jelas\nPasal 95\nCukup jelas\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 4297"
+   }
+  }
+ ]
+}

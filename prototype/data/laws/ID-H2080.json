@@ -1,0 +1,512 @@
+{
+ "id": "ID-H2080",
+ "title": {
+  "zh": "公务员工作绩效考核法",
+  "en": "Law on the Assessment of the Work Performance of Civil Servants",
+  "id": "PENILAIAN PRESTASI KERJA PEGAWAI NEGERI SIPIL",
+  "orig": "PENILAIAN PRESTASI KERJA PEGAWAI NEGERI SIPIL",
+  "vi": "Luật về Đánh giá Thành tích Công tác của Công chức",
+  "th": "พระราชบัญญัติว่าด้วยการประเมินผลการปฏิบัติงานของข้าราชการพลเรือน",
+  "ms": "Akta tentang Penilaian Prestasi Kerja Pegawai Perkhidmatan Awam"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02a",
+ "language": "id",
+ "level": "law",
+ "category": "04_劳工与行政法",
+ "status": "active",
+ "promulgatedDate": "2011",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU46-2011",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 33,
+ "chars": 27800,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PP%2046%20Tahun%202011.pdf&fl=P17390"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\04_劳工与行政法\\印尼_文本_2011_PENILAIAN PRESTASI KERJA PEGAWAI NEGERI SIPIL.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 33 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H2080-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB  I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\nDalam Peraturan Pemerintah ini yang dimaksud dengan:\n1. Pegawai Negeri Sipil  yang selanjutnya disingkat PNS\nadalah Pegawai Negeri Sipil sebagaimana dimaksud\ndalam peraturan perundang-undangan.\n2. Penilaian prestasi kerja PNS adalah suatu proses\npenilaian secara sistematis yang dilakukan oleh pejabat\npenilai terhadap sasaran kerja pegawai dan perilaku\nkerja PNS.\n3. Prestasi kerja adalah hasil kerja yang dicapai oleh setiap\nPNS pada satuan organisasi sesuai dengan sasaran kerja\npegawai dan perilaku kerja.\n4. Sasaran Kerja Pegawai yang selanjutnya disingkat SKP\nadalah rencana kerja dan target yang akan dicapai oleh\nseorang PNS.\n5. Target . . .\n\n\nDISTRIBUSI II\n\n\n\n\n5. Target adalah jumlah beban kerja yang akan dicapai dari\nsetiap pelaksanaan tugas jabatan.\n6. Perilaku kerja ada lah setiap tingkah laku, sikap atau\ntindakan yang dilakukan oleh PNS atau tidak melakukan\nsesuatu yang seharusnya dilakukan sesuai dengan\nketentuan peraturan perundang-undangan.\n7. Rencana kerja tahunan adalah rencana yang memuat\nkegiatan tahunan dan target yang akan dicapai sebagai\npenjabaran dari sasaran dan program yang telah\nditetapkan oleh instansi pemerintah.\n8. Pejabat penilai adalah atasan langsung PNS yang dinilai,\ndengan ketentuan paling rendah pejabat struktural\neselon V atau pejabat lain yang ditentukan.\n9. Atasan pejabat penilai adalah atasan langsung dari\npejabat penilai.\n10. Pejabat Pembina Kepegawaian adalah Pejabat Pembina\nKepegawaian sebagaimana dimaksud dalam peraturan\nperundang-undangan yang mengatur wewenang\npengangkatan, pemindahan, dan pemberhentian PNS."
+   }
+  },
+  {
+   "id": "ID-H2080-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB  I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\nPenilaian prestasi kerja PNS bertujuan untuk menjamin\nobjektivitas pembinaan PNS yang dilakukan berdasarkan\nsistem prestasi kerja dan sistem karier yang dititikberatkan\npada sistem prestasi kerja."
+   }
+  },
+  {
+   "id": "ID-H2080-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB  I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\nPenilaian prestasi kerja PNS dilakukan berdasarkan prinsip:\na. objektif;\nb. terukur;\n\nc. akuntabel . . .\n\nDISTRIBUSI II\n\n\n\nc. akuntabel;\nd. partisipatif; dan\ne. transparan."
+   }
+  },
+  {
+   "id": "ID-H2080-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB  I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\nPenilaian prestasi kerja PNS terdiri atas unsur:\na. SKP; dan\nb. perilaku kerja.\n\nBAB II\nSASARAN KERJA PEGAWAI"
+   }
+  },
+  {
+   "id": "ID-H2080-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\n(1) Setiap PNS wajib menyusun SKP sebagaimana dimaksud\ndalam Pasal 4 huruf a berdasarkan rencana kerja\ntahunan instansi.\n(2) SKP sebagaimana dimaksud pada ayat (1) memuat\nkegiatan tugas jabatan dan target yang harus dicapai\ndalam kurun waktu penilaian yang bersifat nyata dan\ndapat diukur.\n(3) SKP yang telah disusun sebagaimana dimaksud pada\nayat (1) harus disetujui dan ditetapkan oleh pejabat\npenilai.\n(4) Dalam hal SKP yang disusun oleh PNS tidak disetujui\noleh pejabat penilai maka keputusannya diserahkan\nkepada atasan pejabat penilai dan bersifat final.\n(5) SKP sebagaimana dimaksud pada ayat (1) ditetapkan\nsetiap tahun pada bulan Januari.\n(6) Dalam hal terjadi perpindahan pegawai setelah bulan\nJanuari maka yang bersangkutan tetap menyusun SKP\npada awal bulan sesuai dengan surat perintah\nmelaksanakan tugas atau surat perintah menduduki\njabatan."
+   }
+  },
+  {
+   "id": "ID-H2080-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6 "
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 6 . . .\n\nDISTRIBUSI II\n\n\n\n\nPasal 6\nPNS yang tidak menyusun SKP sebagaimana dimaksud dalam\nPasal 5 dijatuhi hukuman disiplin sesuai dengan ketentuan\nperaturan perundang -undangan yang mengatur mengenai\ndisiplin PNS."
+   }
+  },
+  {
+   "id": "ID-H2080-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\n(1) SKP yang telah disetujui dan ditetapkan sebagaimana\ndimaksud dalam Pasal 5 menjadi dasar penilaian bagi\npejabat penilai.\n(2) Penilaian SKP sebagaimana dimaks ud pada ayat (1)\nmeliputi aspek:\na. kuantitas;\nb. kualitas;\nc. waktu; dan\nd. biaya.\n(3) Penilaian S KP sebagaimana dimaksud pada ayat (2)\npaling sedikit meliputi aspek kuantitas, kualitas, dan\nwaktu, sesuai dengan karakteristik, sifat , dan jenis\nkegiatan pada masing-masing unit kerja.\n(4) Dalam hal kegiatan tugas jabatan  didukung oleh\nanggaran maka penilaian SKP sebagaimana dimaksud\npada ayat (2), meliputi pula aspek biaya.\n(5) Berdasarkan aspek sebagaimana dimaksud pada\nayat (2), setiap instansi menyusun dan menetapkan\nstandar teknis kegiatan sesuai dengan karakteristik ,\nsifat, jenis kegiatan , dan kebutuhan tugas masing -\nmasing jabatan.\n(6) Instansi dalam menyusun standar teknis kegiatan\nsebagaimana dimaksud pada ayat (5) dilakukan\nberdasarkan pedoman yang ditetapkan oleh  Kepala\nBadan Kepegawaian Negara."
+   }
+  },
+  {
+   "id": "ID-H2080-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8 "
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 8 . . .\n\nDISTRIBUSI II\n\n\n\nPasal 8\n(1) Penilaian SKP sebagaimana dimaksud dalam Pasal 4\nhuruf a dilakukan dengan cara membandingkan antara\nrealisasi kerja dengan target.\n(2) Dalam hal realisasi kerja melebihi dari target maka\npenilaian SKP sebagaimana dimaksud pada ayat (1)\ncapaiannya dapat lebih dari 100 (seratus)."
+   }
+  },
+  {
+   "id": "ID-H2080-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\nDalam hal SKP tidak tercapai yang diakibatkan oleh fakto r\ndiluar kemampuan individu PNS  maka penilaian didasarkan\npada pertimbangan kondisi penyebabnya."
+   }
+  },
+  {
+   "id": "ID-H2080-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\nDalam hal PNS:\na. melaksanakan tugas tambahan yang diberikan oleh\npimpinan atau pejabat penilai yang berkaitan dengan\ntugas jabatan; dan/atau\nb. menunjukkan kreativitas yang bermanfaat bagi\norganisasi dalam melaksanakan tugas jabatan;\nmaka hasil penilaian menjadi bagian dari penilaian capaian\nSKP."
+   }
+  },
+  {
+   "id": "ID-H2080-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\nKetentuan lebih lanjut mengenai pedoman penyusu nan dan\npenilaian SKP diatur dengan Peraturan Kepala Badan\nKepegawaian Negara.\nBAB III\nPERILAKU KERJA"
+   }
+  },
+  {
+   "id": "ID-H2080-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n(1) Penilaian perilaku kerja sebagaimana dimaksud dalam\nPasal 4 huruf b meliputi aspek:\na. orientasi . . .\n\nDISTRIBUSI II\n\n\na. orientasi pelayanan;\nb. integritas;\nc. komitmen;\nd. disiplin;\ne. kerja sama; dan\nf. kepemimpinan.\n(2) Penilaian kepemimpinan sebagaimana dimaksud pada\nayat (1) huruf f hanya dilakukan bagi PNS yang\nmenduduki jabatan struktural."
+   }
+  },
+  {
+   "id": "ID-H2080-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\n(1) Penilaian perilaku kerja sebagaimana dimaksud dalam\nPasal 12 dilakukan mel alui pengamatan oleh pejabat\npenilai terhadap PNS sesuai kriteria yang ditentukan.\n(2) Pejabat penilai dalam melakukan penilaian perilaku\nkerja PNS sebagaimana dimaksud pada ayat (1) dapat\nmempertimbangkan masukan dari pejabat penilai lain\nyang setingkat di lingkungan unit kerja masing-masing.\n(3) Nilai perilaku kerja dapat diberikan paling tinggi\n100 (seratus)."
+   }
+  },
+  {
+   "id": "ID-H2080-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\nKetentuan lebih lanjut mengenai kriteria penilaian perilaku\nkerja sebagaimana dimaksud dalam Pasal 13 ayat (1) diatur\ndengan Peraturan Kepala Badan Kepegawaian Negara.\nBAB IV\nPENILAIAN\nBagian Kesatu\nTata Cara Penilaian"
+   }
+  },
+  {
+   "id": "ID-H2080-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\n(1) Penilaian prestasi kerja sebagaimana dimaksud dalam\nPasal 4 dilakukan dengan cara menggabungkan\npenilaian SKP dengan penilaian perilaku kerja.\n(2) Bobot . . .\n\nDISTRIBUSI II\n\n\n\n(2) Bobot nilai unsur SKP 60% (enam puluh persen) dan\nperilaku kerja 40% (empat puluh persen)."
+   }
+  },
+  {
+   "id": "ID-H2080-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\n(1) Penilaian prestasi kerja PNS sebagaimana dimaksud\ndalam Pasal 4 dilaksanakan oleh pejabat penilai sekali\ndalam 1 (satu) tahun.\n(2) Penilaian prestasi kerja sebagaimana dimaksud pada\nayat (1)  dilakukan setiap akhir Desember pada tahun\nyang bersangkutan dan paling lama akhir  Januari tahun\nberikutnya."
+   }
+  },
+  {
+   "id": "ID-H2080-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\nNilai prestasi kerja PNS sebagaimana dimaksud dalam\nPasal 15 dinyatakan dengan an gka dan sebutan se bagai\nberikut:\na. 91 – ke atas: sangat baik\nb. 76 – 90: baik\nc. 61 – 75: cukup\nd. 51 – 60: kurang\ne. 50 ke bawah: buruk"
+   }
+  },
+  {
+   "id": "ID-H2080-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\nKetentuan lebih lanjut mengenai tata cara penilaian diatur\ndengan Peraturan Kepala Badan Kepegawaian Negara.\nBagian Kedua\nPejabat Penilai dan Atasan Pejabat Penilai"
+   }
+  },
+  {
+   "id": "ID-H2080-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\n(1) Pejabat penilai wajib melakukan penilaian prestasi kerja\nterhadap setiap PNS di lingkungan unit kerjanya.\n(2) Pejabat penilai yang tidak melaksanakan penilaian\nprestasi kerja sebagaimana dimaksud pada ayat (1)\ndijatuhi hukuman disiplin sesuai dengan peraturan\nperundang-undangan yang mengatur mengenai disiplin\nPNS."
+   }
+  },
+  {
+   "id": "ID-H2080-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20 "
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 20 . . .\n\nDISTRIBUSI II\n\n\n\nPasal 20\nPejabat pembina kepegawaian sebagai pejabat penilai\ndan/atau atasan pejabat penilai yang tertinggi di lingkungan\nunit kerja masing-masing.\nBagian Ketiga\nPelaksanaan Penilaian"
+   }
+  },
+  {
+   "id": "ID-H2080-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\n(1) Hasil p enilaian prestasi kerja sebagaimana dimaksud\ndalam Pasal 15 diberikan secara langsung oleh pejabat\npenilai kepada PNS yang dinilai.\n(2) PNS yang dinilai dan telah menerima hasil penilaian\nprestasi kerja sebagaimana dimaksud pada ayat (1) wajib\nmenandatangani serta mengembalikan kepada pejabat\npenilai paling lama 14 (empat belas) hari sejak tanggal\nditerimanya hasil penilaian prestasi kerja."
+   }
+  },
+  {
+   "id": "ID-H2080-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\nDalam hal PNS yang dinilai dan/atau pejabat penilai tid ak\nmenandatangani hasil penilaian prestasi kerja  maka hasil\npenilaian prestasi kerja ditetapkan oleh Atasan Pejabat\nPenilai."
+   }
+  },
+  {
+   "id": "ID-H2080-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\n(1) Pejabat penilai wajib menyampaikan hasil penilaian\nprestasi kerja kepada atasan pejabat penilai paling lam a\n14 (empat belas) hari sejak tanggal diterimanya penilaian\nprestasi kerja.\n(2) Hasil penilaian prestasi kerja mulai berlaku sesudah ada\npengesahan dari atasan pejabat penilai."
+   }
+  },
+  {
+   "id": "ID-H2080-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 24\nPejabat Penilai berdasarkan hasil penilaian prestasi kerja\ndapat memberikan rekomendasi k epada pejabat yang secara\nfungsional bertanggung jawab dibidang kepegawaian sebagai\nbahan pembinaan terhadap PNS yang dinilai.\nBagian . . .\n\nDISTRIBUSI II\n\n\n\nBagian Keempat\nKeberatan Hasil Penilaian"
+   }
+  },
+  {
+   "id": "ID-H2080-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\n(1) Dalam hal PNS yang dinilai keberatan atas hasil\npenilaian maka PNS yang dinilai  dapat mengajukan\nkeberatan disertai dengan alasan -alasannya kepada\natasan pejabat penilai secara hierarki paling lam a 14\n(empat belas) hari sejak diterima  hasil penilaian prestasi\nkerja.\n(2) Atasan pejabat penilai berdasarkan keberatan  yang\ndiajukan sebagaimana dimaksud pada ayat (1) wajib\nmemeriksa dengan seksama hasil penilaian prestasi\nkerja yang disampaikan kepadanya.\n(3) Terhadap keberatan sebagaimana dimaksud pada\nayat (1), atasan pejabat penilai meminta penjelasan\nkepada pejabat penilai dan PNS yang dinilai.\n(4) Berdasarkan penjelasan sebagaimana dimaksud pada\nayat (3), atasan pejabat penilai wajib menetapkan hasil\npenilaian prestasi kerja dan bersifat final.\n(5) Dalam hal terdapat alasan -alasan yang cukup, Atasan\nPejabat Penilai dapa t melakukan perubahan nilai\nprestasi kerja PNS.\nBAB V\nKETENTUAN LAIN"
+   }
+  },
+  {
+   "id": "ID-H2080-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\nKetentuan dalam Peraturan Pemerintah ini berlaku juga bagi\nCalon PNS."
+   }
+  },
+  {
+   "id": "ID-H2080-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\nPenilaian prestasi kerja bagi PNS yang diangkat sebagai\npejabat negara at au pimpinan/anggota lembag a\nnonstruktural dan tidak diberhentikan  dari jabatan\norganiknya dilakukan oleh pimpinan instansi yang\nbersangkutan berdasarkan bahan dari instansi tempat yang\nbersangkutan bekerja."
+   }
+  },
+  {
+   "id": "ID-H2080-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28 "
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 28 . . .\n\nDISTRIBUSI II\n\n\n\n\nPasal 28\n(1) Penilaian prestasi kerja bagi PNS yang  sedang\nmenjalankan tugas belajar di dalam negeri di lakukan\noleh pejabat penilai dengan menggunakan bahan -bahan\npenilaian prestasi akademik yang diberikan oleh\npimpinan perguruan tinggi atau sekolah yang\nbersangkutan.\n(2) Penilaian prestasi kerja bagi PNS yang  menjalankan\ntugas belajar di  luar negeri dilakukan oleh pejabat\npenilai dengan menggunakan bahan -bahan penilaian\nprestasi akademik yang diberikan oleh pimpinan\nperguruan tinggi atau sekolah melalui Kepala Perwakilan\nRepublik Indonesia di negara yang bersangkutan."
+   }
+  },
+  {
+   "id": "ID-H2080-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\n(1) Penilaian prestasi kerja bagi PNS yang\ndiperbantukan/dipekerjakan pada Pemerintah Daerah\nProvinsi/Kabupaten/Kota atau instansi pemerintah\nlainnya di lakukan oleh pejabat penilai dimana yang\nbersangkutan bekerja.\n(2) Penilaian prestasi kerja ba gi PNS yang\ndiperbantukan/dipekerjakan pada negara sahabat,\nlembaga internasional, organisasi profesi, dan badan -\nbadan swasta yang ditentukan oleh pemerintah\ndilakukan oleh pimpinan instansi induknya atau pejabat\nlain yang ditunjuk berdasarkan bahan yang d iperoleh\ndari instansi tempat yang bersangkutan bekerja."
+   }
+  },
+  {
+   "id": "ID-H2080-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\n(1) PNS yang diangkat menjadi Pejabat Negara at au\npimpinan/anggota lembaga non struktural dan\ndiberhentikan dari jabatan organiknya, Cuti Diluar\nTanggungan Negara, Masa Persiapan Pensiun,\ndiberhentikan sementara, dikecualikan dari kewajiban\nsebagaimana dimaksud dalam Pasal 4.\n(2) Bagi . . .\n\nDISTRIBUSI II\n\n\n\n\n(2) Bagi PNS yang melakukan tugas belajar dan\ndiperbantukan/dipekerjakan pada negara sahabat ,\nlembaga internasional, organisasi profesi, dan badan -\nbadan swasta yang ditentukan oleh pemerintah\ndikecualikan dari kewajiban sebagaimana dimaksud\ndalam Pasal 5.\n(3) Penilaian prestasi kerja bagi PNS sebagaimana dimaksud\npada ayat (2) diatur tersendiri dalam Peraturan Kepala\nBadan Kepegawaian Negara.\n\nBAB VI\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H2080-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\n\nPada saat Peraturan Pemerintah ini mulai dilaksanakan ,\nPeraturan Pemerintah Nomor 10 Tahun 1979 tentang\nPenilaian Pelaksanaan Pekerjaan P egawai Negeri Sipil\n(Lembaran Negara Republik Indonesia Tahun 1979 Nomor 17,\nTambahan Lem baran Neg ara Republik Indonesia\nNomor 3134), dicabut dan dinyatakan tidak berlaku."
+   }
+  },
+  {
+   "id": "ID-H2080-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 32\n\nPada saat Peraturan Pemerintah ini mulai dilaksanakan,\nsemua peraturan pelaksanaan Peraturan Pemerintah\nNomor 10 Tahun 1979 tentang Penilaian Pelaksanaan\nPekerjaan Pegawai Negeri Sipil tetap berlaku sepanjang tidak\nbertentangan dengan ketentuan dalam  Peraturan\nPemerintah ini."
+   }
+  },
+  {
+   "id": "ID-H2080-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 33\nPeraturan Pemerintah ini mulai berlaku pada tanggal\ndiundangkan, yang mulai dilaksan akan pada tanggal\n1 Januari 2014.\nAgar . . .\n\nDISTRIBUSI II\n\n\n\nAgar setiap orang mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan\npenempatannya dalam Lembaran Negara Republik Indonesia.\n\n\nDitetapkan di Jakarta\npada tanggal 30 November 2011\nPRESIDEN REPUBLIK INDONESIA,\n\nttd.\n\nDR. H. SUSILO BAMBANG YUDHOYONO\n\n\nDiundangkan di Jakarta\npada tanggal 1 Desember 2011\nMENTERI HUKUM DAN HAK ASASI MANUSIA\n   REPUBLIK INDONESIA,\n\nttd.\n\n       AMIR SYAMSUDIN\n\n\n\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2011 NOMOR 121\n\n\n\n\n\n\n\n\n\n\n\nDISTRIBUSI II\n\n\n\nPENJELASAN\nATAS\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nNOMOR 46 TAHUN 2011\nTENTANG\nPENILAIAN PRESTASI KERJA PEGAWAI NEGERI SIPIL\n\n\nI. UMUM\nDalam rangka penyelenggaraan pembinaan PNS berdasarkan sistem\nprestasi kerja dan sistem karier yang dititik beratkan pada sistem prestasi\nkerja, maka penilaian prestasi kerja PNS dilaksanakan dengan berorientasi\npada peningkatan prestasi kerja dan pengembangan potensi PNS.\nDalam Peraturan Pemerintah ini ditentukan, bahwa yang berwenang\nmembuat penilaian prestasi kerja PNS adalah pejabat penilai, yaitu atasan\nlangsung dari PNS yang bersangkutan dengan ketentuan paling rendah\npejabat eselon V atau pejabat lain yang ditentukan. Tujuan penilaian\nprestasi kerja adalah untuk menjamin ob jektivitas pembinaan PNS yang\ndilakukan berdasarkan sistem prestasi kerja dan sistem karier yang\ndititikberatkan pada sistem prestasi kerja.\nPenilaian prestasi kerja merupakan suatu proses rangkaian manajemen\nkinerja yang berawal dari penyusunan perencanaan prestasi kerja yang\nberupa Sasaran Kerja Pegawai (SKP), penetapan tolok ukur yang meliputi\naspek kuantitas, kualitas, waktu , dan biaya dari setiap kegiatan tugas\njabatan. Pelaksanaan penilaian SKP dilakukan dengan cara\nmembandingkan antara realisasi kerja dengan target yang telah ditetapkan.\nDalam melakukan penilaian dilakukan analisis terhadap hambatan\npelaksanaan pekerjaan untuk mendapatkan umpan balik serta menyusun\nrekomendasi perbaikan dan menetapkan hasil penilaian.\n\nUntuk . . .\n\n\n\n\n\nDISTRIBUSI II\n\n\n\nUntuk memperoleh objektivitas dalam p enilaian prestasi kerja digunakan\nparameter penilaian berupa hasil kerja yang nyata dan terukur yang\nmerupakan penjabaran dari visi, misi , dan tujuan or ganisasi, sehingga\nsubjektivitas penilaian dapat diminimalisir. Dengan demikian hanya PNS\nyang berprestasi yang mendapatkan nilai baik.\nDalam rangka meningkatkan daya  guna dan hasil  guna penilaian prestasi\nkerja dilaksanakan dengan pendekatan partisipasi dalam arti PNS yang\ndinilai terlibat langsung secara aktif dalam proses penetapan sasaran kerja\nyang akan dicapai, dan proses penilaian.\nHasil rekomendasi penilaian prestasi kerja digunakan untuk peningkatan\nkinerja organisasi melalui peningkatan prestasi kerja, pengembangan\npotensi, dan karier PNS yang bersangkutan serta pengembangan\nmanajemen, organisasi, dan lingkungan kerja.\nAtasan pejabat penilai secara fungsional bukan hanya sekedar memberikan\nlegalitas hasil penilaian dari pejabat penilai, tetapi lebih berfungsi sebagai\nmotivator dan evaluator seberapa efektif pejabat penilai melakukan\npenilaian, untu k mengimbangi penilaian dan persepsi pejabat penilai\nsebagai upaya menghilangkan bias-bias penilaian.\nSistem penilaian prestasi kerja PNS yang bersifat terbuka, diharapkan\ndapat meningkatkan motivasi dan produktivitas kerja serta menciptakan\nhubungan interaksi antara pejabat penilai dengan PNS yang dinilai dalam\nrangka objektivitas penilaian dan untuk mendapatkan kepuasan kerja\nsetiap PNS.\n\nII. PASAL DEMI PASAL\nPasal 1\n Cukup jelas.\nPasal 2\nYang dimaksud dengan “pembinaan” adalah upaya dalam rangka\npengembangan karier PNS berdasarkan prestasi kerja.\nPasal 3 . . .\n\n\n\n\nDISTRIBUSI II\n\n\n\nPasal 3\nHuruf  a\nYang dimaksud dengan “objektif” adalah penilaian terhadap\npencapaian prestasi kerja sesuai dengan keadaan yang\nsebenarnya tanpa dipengaruhi oleh pandangan atau penilaian\nsubjektif pribadi dari pejabat penilai.\nHuruf b\nYang dimaksud dengan “terukur” adalah penilaian prestasi\nkerja yang dapat diukur secara kuantitatif dan kualitatif.\nHuruf c\nYang dimaksud dengan “akuntabel” adalah seluruh hasil\npenilaian prestasi kerja harus d apat dipertanggungjawabkan\nkepada pejabat yang berwenang.\nHuruf d\nYang dimaksud dengan “partisipatif” adalah seluruh proses\npenilaian prestasi kerja dengan melibatkan secara aktif antara\npejabat penilai dengan PNS yang dinilai.\nHuruf e\nYang dimaksud dengan  “transparan” adalah seluruh proses\ndan hasil penilaian pretasi kerja bersifat terbuka dan tidak\nbersifat rahasia.\nPasal 4\nCukup jelas.\nPasal 5\nAyat (1)\nCukup jelas.\n\nAyat (2) . . .\n\n\n\n\nDISTRIBUSI II\n\n\n\nAyat (2)\nDalam ketentuan ini yang dimaksud dengan:\na. Kegiatan t ugas jabatan adalah kegiatan yang wajib\ndilakukan dalam rangka pelaksanaan fungsi jabatan;\nb. Target adalah jumlah beban kerja yang akan dicapai dari\nsetiap pelaksanaan tugas jabatan.\nTarget dalam SKP pada prinsipnya berlaku bagi pemegang\njabatan struktural m aupun fungsional, d engan ketentuan\nsebagai berikut:\n1) Bagi pemegang jabatan struktural maupun fungsional\numum dengan sifat tugas yang input/bahan kerjanya\nberasal dari unit organisasi bersangkutan, maka\npenetapan target didasarkan pada rencana kerja\ntahunan yang telah ditetapkan;\n2) Bagi pemegang jabatan struktural maupun fungsional\numum dengan sifat tugas yang input/bahan kerjanya\nberasal dari output/hasil kerja unit organisasi lain,\npenetapan target didasarkan asumsi rata -rata tahun\nsebelumnya;\n3) Bagi pemegang jabatan fungsional tertentu,\npenetapan target berdasarkan pada angka kredit yang\ndipersyaratkan sesuai dengan peraturan perundang -\nundangan.\nc. Nyata dan dapat diukur adalah kegiatan yang realisti s\ndapat dilaksanakan dan hasilnya dapat dihitung dalam\nsatuan an gka, umpamanya jumlah, persentase dan\nlamanya waktu.\nAyat (3)\nDalam menetapkan SKP, pejabat penilai harus\nmempertimbangkan usul bawahan dan waktu penyelesaian\nbeban kerja unit organisasi.\nAyat (4) . . .\n\n\n\nDISTRIBUSI II\n\n\n\nAyat (4)\nCukup jelas\nAyat (5)\nCukup jelas.\nAyat (6)\nCukup jelas.\nPasal 6\nCukup jelas.\nPasal 7\nAyat (1)\nSKP yang telah disetujui dan ditetapkan, dipantau oleh\npejabat penilai dalam pelaksanaannya untuk mengetahui\nperkembangan kemajuan pelaksanaan kegiatan dalam SKP.\nAyat (2)\nHuruf a\nYang dimaksud dengan “kuantitas” adalah ukuran\njumlah atau banyaknya hasil kerja yang dicapai.\nHuruf b\nYang dimaksud dengan “kualitas” adalah ukuran mutu\nsetiap hasil kerja yang dicapai.\nHuruf c\nYang dimaksud dengan “waktu” adalah ukuran lamanya\nproses setiap hasil kerja yang dicapai.\nHuruf d\nYang dimaksud dengan “biaya” adalah besaran jumlah\nanggaran yang digunakan setiap hasil kerja.\n Ayat (3) . . .\n\n\n\n\nDISTRIBUSI II\n\n\n\nAyat (3)\nCukup jelas.\nAyat (4)\nCukup jelas.\nAyat (5)\nCukup jelas.\nAyat (6)\nCukup jelas.\nPasal 8\nAyat (1)\nDalam melakukan penilaian, peja bat penilai menggunakan\nformula:\na. aspek kuantitas: penghitungannya menggunakan\n Rumus:\nRealisasi Output (RO)       X 100 Target Output (TO)\nb. aspek kualitas: penghitungannya menggunakan\nRumus:\nRealisasi Kualitas (RK)       X 100 Target Kualitas (TK)\nc. aspek waktu: penghitungannya menggunakan\nRumus:\n1,76 x Target Waktu(TW) - Realisasi Waktu (RW) X 100 Target Waktu (TW)\nd. aspek biaya: penghitungannya menggunakan\nRumus:\n1,76 x Target Biaya(TB) - Realisasi Biaya (RB) X 100 Target Biaya (TB)\nAyat (2) . . .\n\n\n\nDISTRIBUSI II\n\n\n\nAyat (2)\nCukup jelas.\nPasal 9\nYang dimaksud dengan faktor -faktor diluar kemampuan indivi du\nPNS yang dinilai antara lain : bencana alam, keadaan darurat atau\nkeadaan lain yang dinyatakan  oleh pemerintah, hambatan/kendala\nyang ditimbulkan oleh sistem/mekanisme dari organisasi dan  target\npekerjaan yang input/bahan kerjanya tergantung pada pihak/unit\nkerja/instansi lain maka penilaian prestasi kerja PNS yang\nbersangkutan disesuaikan dengan kegiatan-kegiatan diluar SKP\nyang telah ditetapkan dalam tahun tersebut serta menjelaskan\nkondisi yang terjadi sehingga menjadi bahan pertimbangan bagi\npejabat penilai untuk menilai PNS yang bersangkutan.\nPasal 10\nYang dimaksud dengan “tugas tambahan” adal ah tugas lain atau\ntugas-tugas yang ada hubungannya dengan tugas jabatan yang\nbersangkutan dan tidak ada dalam SKP yang telah ditetapkan.\nYang dimaksud dengan “pimpinan” adalah pejabat yang mempunyai\nkewenangan memimpin dilingkungan unit kerja masing-masing.\nYang dimaksud dengan “kreativitas” adalah kemampuan PNS untuk\nmenciptakan sesuatu gagasan/metode pekerjaan yang bermanfaat\nbagi organisasi.\nPasal 11\nCukup jelas.\nPasal 12\nAyat (1)\nHuruf  a\nYang dimaksud dengan “orientasi pelayanan” adalah\nsikap dan peri laku kerja PNS dalam memberikan\npelayanan terbaik kepada yang dilayani antara lain\nmeliputi masyarakat, atasan, rekan sekerja, unit kerja\nterkait, dan/atau instansi lain.\nHuruf b . . .\n\n\n\nDISTRIBUSI II\n\n\n\nHuruf  b\nYang dimaksud dengan “integritas” adalah kemampuan\nuntuk bertindak sesuai dengan nilai, norma dan etika\ndalam organisasi.\nHuruf  c\nYang dimaksud dengan “komitmen” adalah kemauan dan\nkemampuan untuk menyelaraskan sikap dan tindakan\nPNS untuk mewujudkan tujuan organisasi dengan\nmengutamakan kepentingan dinas daripada kepentingan\ndiri sendiri, seseorang, dan/atau golongan.\nHuruf  d\nYang dimaksud dengan “disiplin” adalah k esanggupan\nPegawai Negeri Sipil untuk menaati kewajiban dan\nmenghindari larangan yang ditentukan dalam peraturan\nperundang-undangan dan/ata u peraturan kedinasan\nyang apabila tidak ditaati atau dilanggar dijatuhi\nhukuman disiplin.\nHuruf  e\nYang dimaksud dengan “kerja  sama” adalah kemauan\ndan kemampuan PNS untuk bekerja sama dengan rekan\nsekerja, atasan, bawahan dalam unit kerjanya serta\ninstansi lain dalam menyelesaikan suatu tugas dan\ntanggung jawab yang ditentukan, sehingga mencapai\ndaya guna dan hasil guna yang sebesar-besarnya.\nHuruf  f\nYang dimaksud dengan “kepemimpinan” adalah\nkemampuan dan kemauan  PNS untuk memotivasi dan\nmempengaruhi bawahan atau orang lain yang berkaitan\ndengan bidang tugasnya demi tercapainya tujuan\norganisasi.\nAyat (2)\nCukup jelas.\nPasal 13 . . .\n\n\n\nDISTRIBUSI II\n\n\n\nPasal 13\nAyat (1)\nCukup jelas.\nAyat (2)\nYang dimaksud dengan “pejabat penilai lain” adalah beberapa\npejabat penilai yang setingkat dengan pejabat penilai (atasan\nlangsung) yang ditunjuk oleh atasan pejabat penilai di\nlingkungan unit kerja masing-masing.\nDalam hal tidak ada pejabat penilai lain yang setingkat\ndengan pejabat penilai, maka penilaian dilakukan sendiri  oleh\npejabat penilai yang ada dalam lingkup organisasi yang\nbersangkutan.\nPejabat penilai lain harus memberikan masukan kepada\npejabat penilai terfokus pada penilaian perilaku kerja.\nAyat (3)\nCukup jelas.\nPasal 14\nCukup jelas.\nPasal 15\nAyat (1)\n Cukup jelas.\nAyat (2)\nPenilaian SKP sebesar 60% dan perilaku kerja sebesar 40%\ndimaksudkan untuk mewujudkan pembinaan PNS yang\ndititikberatkan pada prestasi kerja.\nPasal 16\nCukup jelas.\nPasal 17 . . .\n\n\n\n\nDISTRIBUSI II\n\n\n\nPasal 17\nCukup jelas.\nPasal 18\n  Cukup jelas.\nPasal 19\n Cukup jelas.\nPasal 20\nPejabat pembina kepegawaian selain sebagai pejabat penilai\ntertinggi, sekaligus juga sebagai atasan pejabat penilai tertinggi di\nlingkungan unit kerja masing -masing, antara lain Menteri adalah\npejabat penilai dan sekaligus menj adi atasan pejabat penilai\nterhadap seorang Direktur Jenderal dalam lingkungannya.\nPasal 21\nAyat (1)\nPenilaian prestasi kerja sebagaimana dimaksud pada ayat ini,\ndiberikan secara langsung oleh pejabat penilai kepada PNS\nyang dinilai. Apabila diantara pejab at penilai dengan atasan\npejabat penilai tempat bekerja saling berjauhan, maka hasil\npenilaian prestasi kerja dapat dikirim kepada PNS yang\nbersangkutan.\nAyat (2)\nCukup jelas.\nPasal 22\nCukup Jelas.\n\nPasal 23 . . .\n\n\n\n\n\nDISTRIBUSI II\n\n\n\nPasal 23\nAyat (1)\nHasil penilaian prestasi kerja dalam ketentuan ini, keberatan\natau tidak keberatan tetap diserahkan kepada atasan pejabat\npenilai paling lambat 14 (empat belas) hari.\nAyat (2)\nCukup jelas.\nPasal 24\nPembinaan PNS antara lain dalam mempertimbangkan kenaikan\npangkat, penempatan dalam jabatan, pemindahan, pendidikan dan\npelatihan, tugas belajar, kenaikan gaji berkala , dan lain-lain sesuai\ndengan peraturan perundang-undangan.\nPasal 25\nAyat (1)\nPNS yang dinilai berhak mengajukan keberatan apabila\nmenurut pendapatnya ada n ilai yang kurang sesuai.\nKeberatan tersebut harus sudah diajukan paling lambat\n14 (empat belas) hari terhitung mulai ia menerima penilaian\nprestasi kerja tersebut. Keberatan yang diajukan melebihi\n14 (empat belas) hari tidak dipertimbangkan. Alasa n-alasan\nkeberatan harus dikemukakan dengan lengkap secara tertulis.\nKeberatan tersebut diajukan kepada atasan pejabat penilai\nsecara hierarki.\nAyat (2)\nAtasan pejabat penilai memeriksa dengan seksama isi\npenilaian prestasi kerja termasuk keberatan yang di ajukan\noleh PNS yang dinilai dan tanggapan pejabat  penilai atas\nkeberatan itu\nAyat (3)\nCukup Jelas.\nAyat (4) . . .\n\n\n\nDISTRIBUSI II\n\n\n\nAyat (4)\nPenjelasan hasil penilaian prestasi kerja dimaksudkan untuk\nmemberikan kejelasan tentang capai an SKP serta kelebihan\ndan kekurangan perilaku kerja PNS yang dinilai dalam\nmelaksanakan tugas sesuai dengan catatan yang ada dalam\nbuku catatan perilaku kerja.\nAyat (5)\nAtasan pejabat penilai wajib menetapkan hasil penilaian\nprestasi kerja dan bersifat final yang harus diterima o leh\npejabat penilai dan PNS yang dinilai, serta tidak dapat\ndiajukan keberatan.\nPasal 26\nCukup jelas.\nPasal 27\nYang dimaksud dengan pejabat negara yang tidak diberhentikan\ndari jabatan organiknya antara lain:\nHakim dan Wakil Ketua Pengadilan Tingkat Pertam a dinilai oleh\nKetua Pengadilan yang bersangkutan, dan atasan pejabat penilai\nadalah Ketua Pengadilan Tinggi.\nHakim dan Wakil Ketua Pengadilan Tinggi dinilai oleh Ketua\nPegadilan Tinggi, dan atasan pejabat penilai adalah Ketua\nMahkamah Agung.\nKetua Pengadi lan Tinggi dinilai oleh Ketua Mahkamah Agung\nsekaligus sebagai atasan pejabat penilai.\nYang dimaksud dengan lembaga non struktural, antara lain adalah\nKomisi Nasional Hak Asasi Manusia (KOMNASHAM), Komisi\nPengawas Persaingan Usaha (KPPU) dan Komisi Penyiara n Indonesia\n(KPI).\nPasal 28 . . .\n\n\n\n\n\nDISTRIBUSI II\n\n\n\nPasal 28\nAyat (1)\nYang dimaksud dengan “pejabat penilai” adalah pejabat\npenilai dari instansi semula tempat PNS yang bersangkutan\nbekerja sebelum ia melaksanakan tugas belajar.\nBahan-bahan penilaian prestasi  akademik yang diperlukan,\ndiminta oleh pejabat penilai dari pimpinan perguruan tinggi\natau sekolah yang bersangkutan menjalankan tugas belajar.\nAyat (2)\nYang dimaksud dengan “pejabat penilai” adalah pejabat\npenilai dari instansi semula tempat PNS yang ber sangkutan\nbekerja sebelum ia melaksanakan tugas belajar.\nUntuk dapat memberikan bahan -bahan penilaian prestasi\nakademik, maka Kepala Perwakilan Republik Indonesia di luar\nnegeri atau pejabat lain yang ditunjuk olehnya mengikuti dan\nmencatat nilai prestasi akademik PNS yang sedang melakukan\ntugas belajar di negara yang bersangkutan.\nPasal 29\nCukup jelas.\nPasal 30\nCukup jelas.\nPasal 31\nCukup jelas.\nPasal 32\nCukup jelas.\nPasal 33\nCukup jelas.\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 5258"
+   }
+  }
+ ]
+}

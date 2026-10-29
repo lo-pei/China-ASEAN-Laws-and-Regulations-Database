@@ -1,0 +1,72 @@
+{
+ "id": "PH-H13519",
+ "title": {
+  "zh": null,
+  "en": "An Act to Repeal Act Numbered Sixteen Hundred and Ninety-Six, Entitled \"An Act to Prohibit the Display of Flags, Banners, Emblems, or Devices Used in the Philippine Islands for the Purpose of Rebellion or Insurrection Against the Authority of the United states and the Display of Katipunan Flags, Banners, Emblems, or Devices, and for Other Purposes.",
+  "orig": "An Act to Repeal Act Numbered Sixteen Hundred and Ninety-Six, Entitled \"An Act to Prohibit the Display of Flags, Banners, Emblems, or Devices Used in the Philippine Islands for the Purpose of Rebellion or Insurrection Against the Authority of the United states and the Display of Katipunan Flags, Banners, Emblems, or Devices, and for Other Purposes."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1919-10-22",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2871",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 624,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1919/act_2871_1919.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02871_1919_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02871_1919_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13519-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Act Numbered Sixteen hundred and ninety-six, entitled \"An Act to prohibit the display of flags,\nbanners, emblems, or, devices used in the Philippine Islands, for the purpose of rebellion or insurrection\nagainst the authority of the United States and the display of Katipunan flags, banners, emblems, or devices,\nand for other purposes,\" is hereby repealed."
+   }
+  },
+  {
+   "id": "PH-H13519-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The : Governor-General shall, by proclamation, designate once only a day which shall be\ndeclared an official holiday, for the purpose of celebrating the restoration of the use of the Filipino flag."
+   }
+  },
+  {
+   "id": "PH-H13519-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval;\nApproved, October 22, 1919."
+   }
+  }
+ ]
+}

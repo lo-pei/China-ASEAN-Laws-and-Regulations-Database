@@ -1,0 +1,854 @@
+{
+ "id": "VN-H370",
+ "title": {
+  "zh": "国有企业法",
+  "en": "Law on state-owned enterprises",
+  "vi": "Luật Doanh nghiệp Nhà nước",
+  "orig": "Luật Doanh nghiệp Nhà nước số Không số",
+  "th": "พระราชบัญญัติรัฐวิสาหกิจ",
+  "id": "Undang-Undang Badan Usaha Milik Negara",
+  "ms": "Akta Perusahaan Milik Negara"
+ },
+ "country": "VN",
+ "countryName": "越南",
+ "layer": "intl",
+ "pack": "vn-p06",
+ "language": "vi",
+ "level": "law",
+ "category": "05_其他及未分类",
+ "status": "active",
+ "promulgatedDate": "1995",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "国会",
+ "docNumber": "Không số",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 58,
+ "chars": 48191,
+ "source": {
+  "name": "越南法律数据库（vbpl.vn 官方公报文本）",
+  "url": "https://vbpl.vn/van-ban/chi-tiet/luat-doanh-nghiep-nha-nuoc-so-khong-so--9955"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\VN\\05_其他及未分类\\1995_Không số_Luật Doanh nghiệp Nhà nước số Không số.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 58 条；逐字未改写（源自 VN）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "VN-H370-A1",
+   "no": 1,
+   "noLabel": {
+    "vi": "Điều 1"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 1\n\nDoanh nghiệp nhà nước là tổ chức kinh tế do Nhà nước đầu tư vốn, thành lập và tổ chức quản lý, hoạt động kinh doanh hoặc hoạt động công ích, nhằm thực hiện các mục tiêu kinh tế - xã hội do Nhà nước giao.\n\nDoanh nghiệp nhà nước có tư cách pháp nhân, có các quyền và nghĩa vụ dân sự, tự chịu trách nhiệm về toàn bộ hoạt động, kinh doanh trong phạm vi số vốn do doanh nghiệp quản lý.\n\nDoanh nghiệp nhà nước có tên gọi, có con dấu riêng và có trụ sở chính trên lãnh thổ Việt Nam."
+   }
+  },
+  {
+   "id": "VN-H370-A2",
+   "no": 2,
+   "noLabel": {
+    "vi": "Điều 2"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 2\n\nLuật này áp dụng đối với doanh nghiệp nhà nước tổ chức dưới hình thức doanh nghiệp độc lập, tổng công ty, doanh nghiệp thành viên của tổng công ty và quản lý phần vốn của Nhà nước đầu tư ở các doanh nghiệp."
+   }
+  },
+  {
+   "id": "VN-H370-A3",
+   "no": 3,
+   "noLabel": {
+    "vi": "Điều 3"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 3\n\nTrong Luật này, các từ ngữ dưới đây được hiểu như sau:\n\n1- \"Vốn Nhà nước giao cho doanh nghiệp quản lý và sử dụng\" là vốn ngân sách cấp, vốn có nguồn gốc ngân sách và vốn của doanh nghiệp nhà nước tự tích luỹ.\n\n2- \"Doanh nghiệp nhà nước độc lập\": là doanh nghiệp nhà nước không ở trong cơ cấu tổ chức của doanh nghiệp khác.\n\n3- \"Doanh nghiệp nhà nước hoạt động kinh doanh\" là doanh nghiệp Nhà nước hoạt động chủ yếu nhằm mục tiêu lợi nhuận.\n\n4- \"Doanh nghiệp nhà nước hoạt động công ích\": là doanh nghiệp nhà nước hoạt động sản xuất, cung ứng dịch vụ công cộng theo các chính sách của Nhà nước hoặc trực tiếp thực hiện nhiệm vụ quốc phòng, an ninh.\n\n5- \"Cổ phần chi phối của Nhà nước\" là các loại cổ phần sau đây:\n\na) Cổ phần của Nhà nước chiếm trên 50% (năm mươi phần trăm) tổng số có phần của doanh nghiệp;\n\nb) Cổ phần của Nhà nước ít nhất gấp hai lần cổ phần của cổ đông lớn nhất khác trong doanh nghiệp.\n\n6- \"Cổ phần đặc biệt của Nhà nước\" là cổ phần của Nhà nước trong một số doanh nghiệp mà Nhà nước không có cổ phần chi phối, nhưng có quyền quyết định một số vấn đề quan trọng của doanh nghiệp theo thoả thuận trong điều lệ doanh nghiệp."
+   }
+  },
+  {
+   "id": "VN-H370-A4",
+   "no": 4,
+   "noLabel": {
+    "vi": "Điều 4"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 4\n\nDoanh nghiệp nhà nước hoạt động theo Luật này và các quy định khác của pháp luật.\n\nNhà nước bảo hộ các quyền và lợi ích hợp pháp, bảo đảm sự bình đẳng trước pháp luật của các doanh nghiệp nhà nước.\n\nChính phủ quy định cụ thể việc thi hành Luật này đối với doanh nghiệp nhà nước hoạt động công ích trong một số lĩnh vực đặc biệt quan trọng và trực tiếp phục vụ quốc phòng, an ninh."
+   }
+  },
+  {
+   "id": "VN-H370-A5",
+   "no": 5,
+   "noLabel": {
+    "vi": "Điều 5"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 5\n\nTổ chức Đảng cộng sản Việt Nam trong doanh nghiệp nhà nước hoạt động theo Hiến pháp, pháp luật của Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam và các quy định của Đảng cộng sản Việt Nam.\n\nTổ chức công đoàn và các tổ chức chính trị - xã hội khác trong doanh nghiệp nhà nước hoạt động theo Hiến pháp và pháp luật.\n\nCHƯƠNG II\n\nQUYỀN VÀ NGHĨA VỤ CỦA DOANH NGHIỆP NHÀ NƯỚC\n\nMỤC I\n\nQUYỀN CỦA DOANH NGHIỆP NHÀ NƯỚC"
+   }
+  },
+  {
+   "id": "VN-H370-A6",
+   "no": 6,
+   "noLabel": {
+    "vi": "Điều 6"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 6\n\n1- Doanh nghiệp nhà nước có quyền quản lý, sử dụng vốn, đất đai, tài nguyên và các nguồn lực khác do Nhà nước giao theo quy định của pháp luật để thực hiện các mục tiêu, nhiệm vụ kinh doanh hoặc hoạt động công ích do Nhà nước giao.\n\n2- Doanh nghiệp nhà nước hoạt động kinh doanh có quyền chuyển nhượng, cho thuê, thế chấp, cầm cố tài sản thuộc quyền quản lý của doanh nghiệp, trừ những thiết bị, nhà xưởng quan trọng theo quy định của Chính phủ phải được cơ quan quản lý Nhà nước có thẩm quyền cho phép trên nguyên tắc bảo toàn và phát triển vốn; đối với đất đai, tài nguyên thuộc quyền quản lý của doanh nghiệp thực hiện theo quy định của pháp luật.\n\n3- Doanh nghiệp nhà nước hoạt động công ích được thực hiện các quyền chuyển nhượng, cho thuê, thế chấp, cầm cố tài sản thuộc quyền quản lý của doanh nghiệp khi được cơ quan quản lý Nhà nước có thẩm quyền cho phép."
+   }
+  },
+  {
+   "id": "VN-H370-A7",
+   "no": 7,
+   "noLabel": {
+    "vi": "Điều 7"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 7\n\n1- Doanh nghiệp nhà nước hoạt động kinh doanh có quyền tổ chức quản lý, tổ chức kinh doanh như sau:\n\na) Tổ chức bộ máy quản lý, tổ chức kinh doanh phù hợp với mục tiêu và nhiệm vụ Nhà nước giao;\n\nb) Đổi mới công nghệ, trang thiết bị;\n\nc) Đặt chi nhánh, văn phòng đại diện của doanh nghiệp ở trong nước, ở nước ngoài theo quy định của Chính phủ;\n\nd) Tự nguyên tham gia tổng công ty nhà nước, trừ những tổng công ty nhà nước đặc biệt quan trọng do Chính phủ chỉ định các đơn vị thành viên;\n\nđ) Kinh doanh những ngành nghề phù hợp với mục tiêu và nhiệm vụ Nhà nước giao; mở rộng quy mô kinh doanh theo khả năng của doanh nghiệp và nhu cầu của thị trường; kinh doanh bổ sung những ngành nghề khác được cơ quan nhà nước có thẩm quyền cho phép;\n\ne) Tự lựa chọn thị trường; được xuất khẩu, nhập khẩu theo quy định của Nhà nước;\n\ng) Tự quyết định giá mua, giá bán sản phẩm và dịch vụ, trừ những sản phẩm, dịch vụ do Nhà nước định giá;\n\nh) Đầu tư, liên doanh, liên kết, góp vốn cổ phần theo quy định của pháp luật;\n\ni) Xây dựng, áp dụng các định mức lao động, vật tư, đơn giá tiền lương trên đơn vị sản phẩm trong khuôn khổ các định mức, đơn giá của Nhà nước;\n\nk) Tuyển chọn, thuê mướn, bố trí, sử dụng, đào tạo lao động, lựa chọn các hình thức trả lương, thưởng và có các quyền khác của người sử dụng lao động theo quy định của Bộ luật lao động và các quy định khác của pháp luật; được quyền quyết định mức lương và thưởng cho người lao động trên cơ sở các đơn giá tiền lương trên đơn vị sản phẩm hoặc chi phí dịch vụ và hiệu quả hoạt động của doanh nghiệp.\n\n2- Doanh nghiệp nhà nước hoạt động công ích có quyền tổ chức quản lý, tổ chức hoạt động như sau:\n\na) Thực hiện các quyền quy định tại các Điểm a, b, c, d, g, i và k Khoản 1 Điều này;\n\nb) Sử dụng các nguồn lực được giao để tổ chức hoạt động kinh doanh bổ sung theo quy định của Chính phủ, nhưng không làm ảnh hưởng đến việc thực hiện mục tiêu, nhiệm vụ chính là hoạt động công ích do Nhà nước giao cho doanh nghiệp;\n\nc) Đầu tư, liên doanh, liên kết, góp vốn cổ phần theo quy định của pháp luật khi được cơ quan quản lý Nhà nước có thẩm quyền cho phép;\n\nd) Được xuất khẩu, nhập khẩu theo quy định của Nhà nước."
+   }
+  },
+  {
+   "id": "VN-H370-A8",
+   "no": 8,
+   "noLabel": {
+    "vi": "Điều 8"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 8\n\n1- Doanh nghiệp Nhà nước hoạt động kinh doanh có quyền quản lý tài chính như sau:\n\na) Được sử dụng vốn và các quỹ của doanh nghiệp để phục vụ kịp thời các nhu cầu trong kinh doanh theo nguyên tắc bảo toàn và có hoàn trả;\n\nb) Tự huy động vốn để hoạt động kinh doanh, nhưng không thay đổi hình thức sở hữu; được phát hành trái phiếu theo quy định của pháp luật; được thế chấp giá trị quyền sử dụng đất gắn liền với tài sản thuộc quyền quản lý của doanh nghiệp tại các ngân hàng Việt Nam để vay vốn kinh doanh theo quy định của pháp luật;\n\nc) Được sử dụng quỹ khấu hao cơ bản của doanh nghiệp; mức và tỷ lệ trích quỹ khấu hao cơ bản, chế độ sử dụng và quản lý quỹ khấu hao cơ bản do Chính phủ quy định;\n\nd) Sau khi đã làm đủ nghĩa vụ đối với Nhà nước, lập quỹ đầu tư phát triển và các quỹ khác theo quy định, doanh nghiệp được chia phần lợi nhuận còn lại cho người lao động theo cống hiến của mỗi người vào kết quả kinh doanh trong năm và theo cổ phần. Chính phủ quy định chi tiết chế độ phân phối lợi nhuận sau thuế nói tại Điểm này;\n\nđ) Được hưởng các chế độ trợ cấp, trợ giá hoặc các chế độ ưu đãi khác của Nhà nước khi thực hiện các nhiệm vụ sản xuất hoặc cung ứng dịch vụ phục vụ quốc phòng, an ninh, phòng chống thiên tai, hoạt động công ích hoặc cung cấp sản phẩm, dịch vụ theo chính sách giá của Nhà nước không đủ bù đắp chi phí sản xuất, sản phẩm, dịch vụ này của doanh nghiệp;\n\ne) Được hưởng các chế độ ưu đãi đầu tư hoặc tái đầu tư theo quy định của Nhà nước.\n\n2- Doanh nghiệp nhà nước hoạt động công ích thực hiện các quyền quản lý tài chính quy định tại các Điểm c, d, đ và e Khoản 1 Điều này và có các quyền sau đây:\n\na) Được Nhà nước cấp kinh phí theo dự toán hàng năm hoặc theo đơn đặt hàng của Nhà nước do cơ quan Nhà nước có thẩm quyền duyệt, phù hợp với nhiệm vụ kế hoạch Nhà nước giao cho doanh nghiệp;\n\nb) Được huy động vốn, gọi vốn liên doanh, thế chấp giá trị quyền sử dụng đất gắn liền với tài sản thuộc quyền quản lý của doanh nghiệp tại các ngân hàng của Việt Nam để vay vốn phục vụ hoạt động công ích theo quy định của pháp luật khi được cơ quan Nhà nước có thẩm quyền cho phép;\n\nc) Doanh nghiệp cung ứng các sản phẩm hoặc dịch vụ có thu phí được sử dụng phí theo quy định của Chính phủ để phục vụ hoạt động của doanh nghiệp."
+   }
+  },
+  {
+   "id": "VN-H370-A9",
+   "no": 9,
+   "noLabel": {
+    "vi": "Điều 9"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 9\n\nDoanh nghiệp nhà nước có quyền từ chối và tố cáo mọi yêu cầu cung cấp các nguồn lực không được pháp luật quy định của bất kỳ cá nhân, cơ quan hay tổ chức nào, trừ những khoản tự nguyện đóng góp vì mục đích nhân đạo và công ích.\n\nMỤC II\n\nNGHĨA VỤ CỦA DOANH NGHIỆP NHÀ NƯỚC"
+   }
+  },
+  {
+   "id": "VN-H370-A10",
+   "no": 10,
+   "noLabel": {
+    "vi": "Điều 10"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 10\n\n1- Doanh nghiệp nhà nước có nghĩa vụ sử dụng có hiệu quả, bảo toàn và phát triển vốn do Nhà nước giao, bao gồm cả phần vốn đầu tư vào doanh nghiệp khác (nếu có); nhận và sử dụng có hiệu quả tài nguyên, đất đai và các nguồn lực khác do Nhà nước giao cho doanh nghiệp.\n\n2- Doanh nghiệp nhà nước hoạt động kinh doanh có nghĩa vụ sử dụng vốn và các nguồn lực do Nhà nước giao để thực hiện mục tiêu kinh doanh và những nhiệm vụ đặc biệt do Nhà nước giao.\n\n3- Doanh nghiệp nhà nước hoạt động công ích có nghĩa vụ sử dụng vốn, kinh phí, các nguồn lực do Nhà nước giao để cung cấp các sản phẩm hoặc dịch vụ công ích cho các đối tượng theo khung giá hoặc phí do Chính phủ quy định."
+   }
+  },
+  {
+   "id": "VN-H370-A11",
+   "no": 11,
+   "noLabel": {
+    "vi": "Điều 11"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 11\n\nDoanh nghiệp nhà nước có nghĩa vụ quản lý hoạt động kinh doanh và hoạt động công ích sau đây:\n\n1- Đăng ký kinh doanh và kinh doanh đúng ngành nghề đã đăng ký; chịu trách nhiệm trước Nhà nước về kết quả hoạt động của doanh nghiệp và chịu trách nhiệm trước khách hàng, trước pháp luật về sản phẩm và dịch vụ do doanh nghiệp thực hiện;\n\n2- Xây dựng chiến lược phát triển, kế hoạch sản xuất kinh doanh phù hợp với nhiệm vụ được Nhà nước giao và nhu cầu của thị trường. Chiến lược phát triển của doanh nghiệp nhà nước hoạt động kinh doanh, hoạt động công ích và kế hoạch hàng năm của doanh nghiệp nhà nước hoạt động công ích phải được cơ quan Nhà nước có thẩm quyền chuẩn y;\n\n3- Đổi mới, hiện đại hoá công nghệ và phương thức quản lý; sử dụng thu nhập từ chuyển nhượng tài sản để tái đầu tư, đổi mới thiết bị, công nghệ của doanh nghiệp;\n\n4- Thực hiện các nghĩa vụ đối với người lao động theo quy định của Bộ luật lao động, bảo đảm cho người lao động tham gia quản lý doanh nghiệp;\n\n5- Thực hiện các quy định của Nhà nước về bảo vệ tài nguyên, môi trường, quốc phòng và an ninh quốc gia;\n\n6- Thực hiện chế độ báo cáo thống kê, báo cáo định kỳ theo quy định của Nhà nước và báo cáo bất thường theo yêu cầu của đại diện chủ sở hữu; chịu trách về tính xác thực hiện của các báo cáo;\n\n7- Chịu sự kiểm tra của đại diện chủ sở hữu; tuân thủ các quy định về thanh tra của cơ quan tài chính và của các cơ quan Nhà nước có thẩm quyền theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H370-A12",
+   "no": 12,
+   "noLabel": {
+    "vi": "Điều 12"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 12\n\n1- Doanh nghiệp nhà nước có nghĩa vụ thực hiện đúng chế độ và các quy định về quản lý vốn, tài sản, các quỹ, về kế toán, hạch toán, chế độ kiểm toán và các chế độ khác do Nhà nước quy định; chịu trách nhiệm về tính xác thực và hợp pháp của các hoạt động tài chính của doanh nghiệp.\n\n2- Doanh nghiệp nhà nước có nghĩa vụ công bố công khai báo cáo tài chính hàng năm, các thông tin để đánh giá đúng đắn và khách quan về hoạt động của doanh nghiệp. Chính phủ quy định cụ thể chế độ công khai báo cáo tài chính và thông tin của các loại doanh nghiệp nhà nước.\n\n3- Doanh nghiệp nhà nước hoạt động kinh doanh thực hiện các nghĩa vụ nộp thuế và các khoản nộp ngân sách nhà nước theo quy định của pháp luật.\n\n4- Doanh nghiệp nhà nước hoạt động công ích có nghĩa vụ:\n\na) Nộp ngân sách các khoản thu về phí và các khoản thu khác (nếu có);\n\nb) Trường hợp doanh nghiệp nhà nước hoạt động công ích có thực hiện hoạt động kinh doanh thì phải tổ chức hạch toán riêng và thực hiện nghĩa vụ nộp thuế đối với hoạt động kinh doanh theo quy định của pháp luật.\n\nCHƯƠNG III\n\nTHÀNH LẬP, TỔ CHỨC LẠI, GIẢI THỂ, PHÁ SẢN DOANH NGHIỆP NHÀ NƯỚC\n\nMỤC I\n\nTHÀNH LẬP, ĐĂNG KÝ KINH DOANH"
+   }
+  },
+  {
+   "id": "VN-H370-A13",
+   "no": 13,
+   "noLabel": {
+    "vi": "Điều 13"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 13\n\nViệc thành lập mới doanh nghiệp nhà nước được thực hiện ở những ngành, lĩnh vực then chốt, quan trọng có tác dụng mở đường và tạo điều kiện cho các thành phần kinh tế khác phát triển, thúc đẩy sự tăng trưởng nhanh và lâu bền của nền kinh tế, điều tiết và hướng dẫn nền kinh tế thị trường theo định hướng xã hội chủ nghĩa.\n\nNhững ngành, lĩnh vực được ưu tiên xem xét khi thành lập mới doanh nghiệp nhà nước trong từng thời kỳ do Chính phủ quy định."
+   }
+  },
+  {
+   "id": "VN-H370-A14",
+   "no": 14,
+   "noLabel": {
+    "vi": "Điều 14"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 14\n\n1- Thủ trưởng cơ quan sáng lập doanh nghiệp nhà nước là người đề nghị thành lập và tổ chức thực hiện các thủ tục đề nghị thành lập doanh nghiệp nhà nước.\n\n2- Người đề nghị thành lập doanh nghiệp nhà nước phải lập và gửi hồ sơ đề nghị thành lập doanh nghiệp nhà nước đến người có quyền quyết định thành lập doanh nghiệp nhà nước; hồ sơ gồm:\n\na) Tờ trình đề nghị thành lập doanh nghiệp;\n\nb) Đề án thành lập doanh nghiệp\n\nc) Dự kiến mức vốn điều lệ;\n\nd) Dự thảo điều lệ của doanh nghiệp;\n\nđ) Giấy đề nghị cho doanh nghiệp sử dụng đất."
+   }
+  },
+  {
+   "id": "VN-H370-A15",
+   "no": 15,
+   "noLabel": {
+    "vi": "Điều 15"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 15\n\n1- Thủ tướng Chính phủ quyết định thành lập hoặc uỷ quyền cho Bộ trưởng Bộ quản lý ngành, Chủ tịch Uỷ ban nhân dân tỉnh, thành phố trực thuộc trung ương quyết định thành lập các tổng công ty nhà nước và các doanh nghiệp Nhà nước độc lập có quy mô lớn hoặc quan trọng.\n\n2- Bộ trưởng Bộ quản lý ngành, Chủ tịch Uỷ ban nhân dân tỉnh, thành phố trực thuộc trung ương quyết định thành lập các doanh nghiệp nhà nước không quy định tại Khoản 1 Điều này theo phân cấp của Chính phủ."
+   }
+  },
+  {
+   "id": "VN-H370-A16",
+   "no": 16,
+   "noLabel": {
+    "vi": "Điều 16"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 16\n\n1- Trước khi quyết định thành lập doanh nghiệp nhà nước, phải lập hội đồng thẩm định để xem xét các điều kiện quy định tại Khoản 2 Điều này. Chính phủ quy định việc thành lập, thành phần, chế độ làm việc của Hội đồng thẩm định và trình tự thẩm định doanh nghiệp nhà nước.\n\n2- Điều kiện để xem xét quyết định thành lập doanh nghiệp nhà nước gồm:\n\na) Có hồ sơ hợp lệ theo quy định tại Khoản 2 Điều 14 Luật này;\n\nb) Đề án thành lập doanh nghiệp nhà nước bảo đảm tính khả thi và hiệu quả, phù hợp với chiến lược và quy hoạch phát triển kinh tế - xã hội của Nhà nước, đáp ứng yêu cầu công nghệ và quy định của Nhà nước về bảo vệ môi trường và các quy định khác của pháp luật;\n\nc) Mức vốn điều lệ phù hợp với quy mô, ngành, nghề kinh doanh, lĩnh vực hoạt động và không thấp hơn vốn pháp định do Chính phủ quy định: có chứng nhận của cơ quan tài chính về nguồn và mức vốn cấp;\n\nd) Dự thảo điều lệ của doanh nghiệp không trái với quy định của Luật này và các quy định khác của pháp luật đối với doanh nghiệp nhà nước;\n\nđ) Có xác nhận đồng ý của cơ quan Nhà nước có thẩm quyền về nơi đặt trụ sở và mặt bằng sản xuất kinh doanh của doanh nghiệp.\n\n3- Trên cơ sở kết luận bằng văn bản của Hội đồng thẩm định, người có quyền quyết định thành lập doanh nghiệp nhà nước ra quyết định thành lập; trường hợp không chấp nhận thành lập doanh nghiệp, thì phải trả lời bằng văn bản trong thời hạn không quá 30 ngày (ba nươi ngày), kể từ ngày nhận đủ hồ sơ hợp lệ.\n\n4- Việc bổ nhiệm Chủ tịch và các thành viên Hội đồng quản trị (nếu có), tổng giám đốc hoặc giám đốc doanh nghiệp phải được thực hiện trong thời hạn không quá 30 ngày (ba mươi ngày), kể từ ngày có quyết định thành lập doanh nghiệp."
+   }
+  },
+  {
+   "id": "VN-H370-A17",
+   "no": 17,
+   "noLabel": {
+    "vi": "Điều 17"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 17\n\n1- Doanh nghiệp tiến hành đăng ký kinh doanh tại Uỷ ban kế hoạch tỉnh, thành phố trực thuộc trung ương nơi doanh nghiệp đặt trụ sở chính.\n\nHồ sơ đăng ký kinh doanh bao gồm: quyết định thành lập, điều lệ doanh nghiệp, giấy chứng nhận quyền sử dụng trụ sở chính của doanh nghiệp, quyết định bổ nhiệm Chủ tịch và các thành viên Hội đồng quản trị, tổng giám đốc hoặc giám đốc doanh nghiệp.\n\n2- Trong thời hạn không quá 60 ngày (sáu mươi ngày), kể từ ngày có quyết định thành lập, doanh nghiệp phải đăng ký kinh doanh.\n\n3- Doanh nghiệp nhà nước có tư cách pháp nhân kể từ ngày được cấp giấy chứng nhận đăng ký kinh doanh."
+   }
+  },
+  {
+   "id": "VN-H370-A18",
+   "no": 18,
+   "noLabel": {
+    "vi": "Điều 18"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 18\n\nTrong thời gian không quá 30 ngày (ba mươi ngày), kể từ ngày được cấp giấy chứng nhận đăng ký kinh doanh, doanh nghiệp phải đăng báo hàng ngày của trung ương hoặc địa phương trong năm số liên tiếp về các nội dung chính sau đây:\n\n1- Tên, trụ sở chính của doanh nghiệp, họ và tên chủ tịch và các thành viên Hội đồng quản trị (nếu có) và tổng giám đốc hoặc giám đốc;\n\n2- Tên cơ quan ra quyết định và ngày ra quyết định thành lập doanh nghiệp, ngày và số đăng ký kinh doanh;\n\n3- Mức vốn điều lệ;\n\n4- Số tài khoản tiền gửi ngân hàng; số điện thoại, telex, fax (nếu có);\n\n5- Lĩnh vực, ngành nghề kinh doanh hoặc hoạt động;\n\n6- Thời điểm bắt đầu hoạt động kinh doanh và thời hạn hoạt động."
+   }
+  },
+  {
+   "id": "VN-H370-A19",
+   "no": 19,
+   "noLabel": {
+    "vi": "Điều 19"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 19\n\n1- Khi muốn đặt chi nhánh tại các tỉnh, thành phố khác trực thuộc trung ương, doanh nghiệp nhà nước phải có phương án hoạt động của chi nhánh và được Chủ tịch Uỷ ban nhân dân tỉnh, thành phố trực thuộc trung ương nơi doanh nghiệp đặt chi nhánh chấp thuận bằng văn bản.\n\nChi nhánh của doanh nghiệp nhà nước không có tư cách pháp nhân; doanh nghiệp nhà nước chịu trách nhiệm dân sự đối với chi nhánh của doanh nghiệp.\n\n2- Trường hợp đặt văn phòng đại diện tại tỉnh, thành phố khác trực thuộc trung ương, doanh nghiệp nhà nước phải đăng ký với Uỷ ban nhân dân tỉnh, thành phố trực thuộc trung ương nơi doanh nghiệp đặt văn phòng đại diện.\n\n3- Việc đặt chi nhánh, văn phòng đại diện của doanh nghiệp nhà nước tại nước ngoài được thực hiện theo các quy định của Chính phủ.\n\nMỤC II\n\nTỔ CHỨC LẠI, GIẢI THỂ, PHÁ SẢN DOANH NGHIỆP NHÀ NƯỚC"
+   }
+  },
+  {
+   "id": "VN-H370-A20",
+   "no": 20,
+   "noLabel": {
+    "vi": "Điều 20"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 20\n\n1- Các biện pháp áp dụng để tổ chức lại doanh nghiệp bao gồm: sáp nhập vào doanh nghiệp nhà nước khác, chia tách doanh nghiệp nhà nước và những biện pháp khác làm thay đổi mục tiêu hoạt động, hình thức tổ chức của doanh nghiệp.\n\n2- Người đề nghị thành lập doanh nghiệp nhà nước phải lập phương án tổ chức lại doanh nghiệp. Người quyết định thành lập doanh nghiệp nhà nước phải lập Hội đồng thẩm định phương án tổ chức lại doanh nghiệp và ra quyết định tổ chức lại doanh nghiệp.\n\n3- Việc áp dụng các biện pháp tổ chức lại các doanh nghiệp nhà nước quan trọng trực tiếp phục vụ quốc phòng, an ninh và dịch vụ công cộng do Thủ tướng Chính phủ quyết định."
+   }
+  },
+  {
+   "id": "VN-H370-A21",
+   "no": 21,
+   "noLabel": {
+    "vi": "Điều 21"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 21\n\nTrường hợp tổ chức lại doanh nghiệp nhà nước mà dẫn đến thay đổi mục tiêu, ngành, nghề kinh doanh, vốn điều lệ thì doanh nghiệp phải làm thủ tục đăng ký lại hoặc đăng ký bổ sung với cơ quan có thẩm quyền về đăng ký kinh doanh."
+   }
+  },
+  {
+   "id": "VN-H370-A22",
+   "no": 22,
+   "noLabel": {
+    "vi": "Điều 22"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 22\n\nDoanh nghiệp nhà nước bị xem xét để giải thể trong các trường hợp sau đây:\n\n1- Hết thời hạn hoạt động ghi trong quyết định thành lập mà doanh nghiệp không xin gia hạn;\n\n2- Doanh nghiệp kinh doanh thua lỗ kéo dài nhưng chưa lâm vào tình trạng mất khả năng thanh toán nợ đến hạn;\n\n3- Doanh nghiệp không thực hiện được các nhiệm vụ do Nhà nước quy định sau khi đã áp dụng các biện pháp cần thiết;\n\n4- Việc tiếp tục duy trì doanh nghiệp là không cần thiết."
+   }
+  },
+  {
+   "id": "VN-H370-A23",
+   "no": 23,
+   "noLabel": {
+    "vi": "Điều 23"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 23\n\n1- Người quyết định thành lập doanh nghiệp nhà nước có quyền quyết định giải thể doanh nghiệp nhà nước.\n\n2- Người quyết định thành lập doanh nghiệp phải lập Hội đồng giải thể. Hội đồng giải thể làm chức năng tham mưu cho người quyết định thành lập doanh nghiệp về việc quyết định giải thể doanh nghiệp nhà nước và tổ chức thực hiện quyết định giải thể doanh nghiệp nhà nước. Thành phần và quy chế làm việc của Hội đồng giải thể, trình tự và thủ tục thực hiện quyết định giải thể doanh nghiệp do Chính phủ quy định.\n\n3- Các khiếu nại liên quan đến giải thể doanh nghiệp nhà nước được thực hiện theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H370-A24",
+   "no": 24,
+   "noLabel": {
+    "vi": "Điều 24"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 24\n\nViệc giải quyết phá sản doanh nghiệp nhà nước được thực hiện theo Luật phá sản doanh nghiệp.\n\nCHƯƠNG IV\n\nQUẢN LÝ NHÀ NƯỚC VÀ THỰC HIỆN QUYỀN CHỦ SỞ HỮU NHÀ NƯỚC\n\nĐỐI VỚI DOANH NGHIỆP NHÀ NƯỚC\n\nMỤC I\n\nQUẢN LÝ NHÀ NƯỚC ĐỐI VỚI DOANH NGHIỆP NHÀ NƯỚC"
+   }
+  },
+  {
+   "id": "VN-H370-A25",
+   "no": 25,
+   "noLabel": {
+    "vi": "Điều 25"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 25\n\nChính phủ thống nhất quản lý nhà nước đối với doanh nghiệp nhà nước với những nội dung sau dây:\n\n1- Ban hành chính sách, cơ chế quản lý đối với từng lợi doanh nghiệp nhà nước, chính sách khuyên khích, chế độ trợ cấp, trợ giá và chế độ ưu tiên đối với các sản phẩm và dịch vụ hoạt động công ích;\n\n2- Quyết định các biện pháp bảo hộ và hỗ trợ các doanh nghiệp nhà nước quan trọng của nền kinh tế quốc dân;\n\n3- Tổ chức xây dựng quy hoạch và chiến lược phát triển doanh nghiệp nhà nước trong tổng thể quy hoạch và chiến lược phát triển ngành, lãnh thổ;\n\n4- Tổ chức xây dựng quy hoạch và đào tạo cán bộ quản lý và cán bộ điều hành doanh nghiệp nhà nước;\n\n5- Tổ chức kiểm tra, thanh tra việc thực hiện pháp luật, chủ trương, chính sách, chế độ nhà nước tại các doanh nghiệp;"
+   }
+  },
+  {
+   "id": "VN-H370-A26",
+   "no": 26,
+   "noLabel": {
+    "vi": "Điều 26"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 26\n\nCác cơ quan quản lý Nhà nước thực hiện việc quản lý Nhà nước đối với doanh nghiệp nhà nước theo quy định của pháp luật và phân cấp của Chính phủ.\n\nMỤC II\n\nTHỰC HIỆN QUYỀN CHỦ SỞ HỮU NHÀ NƯỚC ĐỐI VỚI\n\nDOANH NGHIỆP NHÀ NƯỚC"
+   }
+  },
+  {
+   "id": "VN-H370-A27",
+   "no": 27,
+   "noLabel": {
+    "vi": "Điều 27"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 27\n\n1- Chính phủ thống nhất tổ chức thực hiện các quyền của chủ sở đối với doanh nghiệp nhà nước, bao gồm:\n\na) Quyết định thành lập, sáp nhập, chia tách, giải thể, chuyển đổi sở hữu doanh nghiệp nhà nước;\n\nb) Quyết định mục tiêu, nhiệm vụ, chiến lược phát triển và định hướng kế hoạch phát triển kinh doanh của doanh nghiệp nhà nước;\n\nc) Ban hành điều lệ mẫu về tổ chức hoạt động của doanh nghiệp nhà nước, phê chuẩn điều lệ tổng công ty và doanh nghiệp nhà nước quan trọng;\n\nd) Quyết định cấp vốn đầu tư ban đầu và đầu tư bổ sung, giao vốn cho doanh nghiệp, kiểm tra, giám sát việc bảo toàn và phát triển vốn ở doanh nghiệp nhà nước. Quy định chế độ khấu hao, tỷ lệ phân chia lợi nhuận vào các quỹ sau khi đã nộp thuế. Phê chuẩn phương án chuyển nhượng, cho thuê, thế chấp, cầm cố những thiết bị, nhà xưởng quan trọng. Phê chuẩn phương án huy động vốn, phương án góp vốn, tài sản của Nhà nước vào liên doanh với các chủ sở hữu khác. Thống nhất tổ chức thực hiện nhiệm vụ, quyền hạn của chủ sở hữu đối với phần vốn đầu tư của Nhà nước vào các doanh nghiệp;\n\nđ) Quyết định áp dụng mô hình quản lý đối với các loại doanh nghiệp nhà nước; bổ nhiệm, miễn nhiệm, khen thưởng, kỷ luật các chức danh quản lý chủ chốt trong doanh nghiệp;\n\ne) Quy định các tiêu chuẩn, định mức, đơn giá tiền lương đối với sản phẩm, dịch vụ làm cơ sở cho doanh nghiệp nhà nước trả lương cho người lao động. Quyết định chế độ tiền lương, tiền thưởng, phụ cấp đối với các thành viên Hội đồng quản trị, tổng giám đốc hoặc giám đốc của doanh nghiệp nhà nước;\n\ng) Tổ chức kiểm tra, giám sát doanh nghiệp nhà nước thực hiện các mục tiêu, nhiệm vụ nhà nước giao; giám sát hoạt động kinh doanh của doanh nghiệp, hoạt động quản lý của Hội đồng quản trị và điều hành của tổng giám đốc hoặc giám đốc.\n\n2- Chính phủ phân cấp hoặc uỷ quyền cho các Bộ và Uỷ ban nhân dân tỉnh, thành phố trực thuộc trung ương thực hiện một số quyền của chủ sở hữu nhà nước đối với doanh nghiệp nhà nước quy định tại Khoản 1 Điều này; quy định trách nhiệm của Bộ Tài chính trong việc quản lý vốn và tài sản của Nhà nước tại doanh nghiệp ; quy định mối quan hệ giữa các Bộ quản lý ngành, Uỷ ban nhân dân tỉnh, thành phố trực thuộc trung ương với Bộ Tài chính trong việc thực hiện các quyền của chủ sở hữu Nhà nước được Chính phủ phân cấp hoặc uỷ quyền đối với doanh nghiệp nhà nước.\n\nCHƯƠNG V\n\nTỔ CHỨC QUẢN LÝ DOANH NGHIỆP NHÀ NƯỚC"
+   }
+  },
+  {
+   "id": "VN-H370-A28",
+   "no": 28,
+   "noLabel": {
+    "vi": "Điều 28"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 28\n\n1- Tổng công ty nhà nước và doanh nghiệp nhà nước độc lập quy mô lớn có cơ cấu tổ chức quản lý như sau:\n\na) Hội đồng quản trị, Ban kiểm soát;\n\nb) Tổng giám đốc hoặc giám đốc và bộ máy giúp việc.\n\n2- Các doanh nghiệp nhà nước không quy định tại Khoản 1 Điều này có giám đốc và bộ máy giúp việc. Hình thức tổ chức giám sát tại các doanh nghiệp này do Chính phủ quy định.\n\nMỤC I\n\nDOANH NGHIỆP NHÀ NƯỚC CÓ HỘI ĐỒNG QUẢN TRỊ\n\nI- Hội đồng quản trị và Ban kiểm soát"
+   }
+  },
+  {
+   "id": "VN-H370-A29",
+   "no": 29,
+   "noLabel": {
+    "vi": "Điều 29"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 29\n\nHội đồng quản trị thực hiện chức năng quản lý hoạt động của doanh nghiệp, chịu trách nhiệm trước Chính phủ hoặc cơ quan quản lý Nhà nước được Chính phủ uỷ quyền về sự phát triển của doanh nghiệp theo mục tiêu Nhà nước giao."
+   }
+  },
+  {
+   "id": "VN-H370-A30",
+   "no": 30,
+   "noLabel": {
+    "vi": "Điều 30"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 30\n\nHội đồng quản trị có nhiệm vụ và quyền hạn sau đây:\n\n1- Nhận vốn, đất đai, tài nguyên và nguồn lực khác do Nhà nước giao cho doanh nghiệp;\n\n2- Trình thủ trưởng cơ quan quyết định thành lập doanh nghiệp phê duyệt đều lệ doanh nghiệp, chiến lược, quy hoạch, kế hoạch phát triển dài hạn, kế hoạch 5 năm, trừ các doanh nghiệp quan trọng do Thủ tướng quyết định;\n\n3- Trình thủ trưởng cơ quan quản lý Nhà nước theo phân cấp của Chính phủ các phương án liên doanh, góp vốn, các dự án đầu tư của doanh nghiệp;\n\n4- Trình Thủ tướng Chính phủ hoặc người được Thủ tướng Chính phủ uỷ quyền bổ nhiệm, miễn nhiệm, khen thưởng, kỷ luật tổng giám đốc hoặc giám đốc doanh nghiệp;\n\n5- Trình thủ trưởng cơ quan quản lý Nhà nước được Chính phủ phân cấp quyết định bổ nhiệm, miễn nhiệm, khen thưởng, kỷ luật phó tổng giám đốc hoặc phó giám đốc, kế toán trưởng doanh nghiệp theo đề nghị của tổng giám đốc hoặc giám đốc;\n\n6- Trình thủ trưởng cơ quan quản lý Nhà nước có thẩm quyền để phê duyệt quyết toán tài chính hàng năm của doanh nghiệp;\n\n7- Phê chuẩn phương án sử dụng, bảo toàn, phát triển vốn và phương án sử dụng lợi nhuận sau thuế do tổng giám đốc hoặc giám đốc đề nghị; thông qua quyết toán tài chính hàng năm của doanh nghiệp thành viên (nếu có); thực hiện việc công bố công khai các báo cáo tài chính theo quy định của Chính phủ;\n\n8- Quyết định phương án huy động vốn để hoạt động kinh doanh nhưng không làm thay đổi hình thức sở hữu;\n\n9- Phê chuẩn phương án tổ chức quản lý, tổ chức kinh doanh, biên chế bộ máy quản lý doanh nghiệp, quy hoạch đào tạo lao động và điều lệ của các đơn vị thành viên (nếu có); đề nghị thành lập, tách, nhập, giải thể các đơn vị thành viên (nếu có) theo quy định của pháp luật;\n\n10- Quyết định bổ nhiệm, miễn nhiệm, khen thưởng, kỷ luật giám đốc các đơn vị thành viên (nếu có) theo đề nghị của tổng giám đốc;\n\n11- Kiểm tra, giám sát tổng giám đốc hoặc giám đốc, các đơn vị thành viên (nếu có) trong việc sử dụng, bảo toàn và phát triển vốn, thực hiện các nghĩa vụ đối với Nhà nước, mục tiêu Nhà nước giao cho doanh nghiệp và thực hiện các quyết định khác của Hội đồng quản trị."
+   }
+  },
+  {
+   "id": "VN-H370-A31",
+   "no": 31,
+   "noLabel": {
+    "vi": "Điều 31"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 31\n\n1- Hội đồng quản trị gồm chủ tịch, tổng giám đốc hoặc giám đốc và một số thành viên khác. Tuỳ theo quy mô, loại hình doanh nghiệp, Chính phủ quy định số lượng thành viên Hội đồng quản trị.\n\nHội đồng quản trị có thành viên chuyên trách và thành viên kiêm nhiệm. Chủ tịch Hội đồng quản trị là thành viên chuyên trách.\n\nChủ tịch Hội đồng quản trị có trách nhiệm tổ chức thực hiện các nhiệm vụ, quyền hạn của Hội đồng quản trị quy định tại Điều 30 của Luật này.\n\n2- Chủ tịch và các thành viên Hội đồng quản trị do người đề nghị thành lập doanh nghiệp trình Thủ tướng Chính phủ hoặc người được Thủ tướng Chính phủ uỷ quyền quyết định bổ nhiệm, miễn nhiệm, khen thưởng, kỷ luật. Nhiệm kỳ của thành viên Hội đồng quản trị là 5 năm (năm năm). Thành viên Hội đồng quản trị có thể được bổ nhiệm lại. Chủ tịch Hội đồng quản trị không kiêm tổng giám đốc hoặc giám đốc.\n\n3- Hội đồng quản trị sử dụng bộ máy và con dấu của doanh nghiệp để thực hiện các nhiệm vụ của mình."
+   }
+  },
+  {
+   "id": "VN-H370-A32",
+   "no": 32,
+   "noLabel": {
+    "vi": "Điều 32"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 32\n\nThành viên Hội đồng quản trị phải có các tiêu chuẩn và điều kiện sau đây:\n\n1- Là công dân Việt Nam, thường trú tại Việt Nam ;\n\n2- Có sức khoẻ, có phẩm chất đạo đức tốt, trung thực, liêm khiết, có ý thức chấp hành pháp luật;\n\n3- Có trình độ, có năng lực kinh doanh và tổ chức quản lý doanh nghiệp;\n\n4- Không đồng thời đảm nhiệm các chức vụ lãnh đạp trong bộ máy Nhà nước;\n\n5- Những người đã là thành viên Hội đồng quản trị, tổng giám đốc, giám đốc doanh nghiệp đã bị tuyên bố phá sản thì phải tuân theo quy định tại Điều 50 Luật phá sản doanh nghiệp;\n\n6- Chủ tịch Hội đồng quản trị, tổng giám đốc hoặc giám đốc không được thành lập hoặc giữ các chức danh quản lý, điều hành doanh nghiệp tư nhân, công ty trách nhiệm hữu hạn, công ty cổ phần và không được có các quan hệ hợp đồng kinh tế với các doanh nghiệp tư nhân, công ty trách nhiệm hữu hạn, công ty cổ phần do vợ hoặc chồng, bố, mẹ, con giữ các chức danh quản lý điều hành.\n\nVợ hoặc chồng, bố, mẹ, con, anh, chị, em ruột của những người giữ các chức danh trên không được giữ chức danh kế toán trưởng, thủ quỹ tại cùng doanh nghiệp và doanh nghiệp thành viên (nếu có)."
+   }
+  },
+  {
+   "id": "VN-H370-A33",
+   "no": 33,
+   "noLabel": {
+    "vi": "Điều 33"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 33\n\nChế độ làm việc của Hội đồng quản trị:\n\n1- Hội đồng quản trị làm việc theo chế độ tập thể; họp thường kỳ hàng quỹ để xem xét và quyết định những vấn đề thuộc nhiệm vụ, quyền hạn của mình. Hội đồng quản trị có thể họp bất thường để giải quyết những vấn đề cấp bách của doanh nghiệp do Chủ tịch Hội đồng quản trị hoặc tổng giám đốc hoặc giám đốc hoặc trên 50% (năm mươi phần trăm) tổng số thành viên Hội đồng quản trị đề nghị;\n\n2- Chủ tịch hoặc thành viên Hội đồng quản trị được chủ tịch uỷ quyền triệu tập và chủ trì cuộc họp;\n\n3- Các cuộc họp của Hội đồng quản trị được coi là hợp lệ khi có ít nhất 2/3 (hai phần ba) tổng số thành viên có mặt; nghị quyết, quyết định của Hội đồng quản trị có hiệu lực khi có trên 50% (năm mười phần trăm) tổng số thành viên Hội đồng quản trị biểu quyết tán thành. Thành viên Hội đồng quản trị có quyền bảo lưu ý kiến của mình;\n\n4- Nội dung, kết luận của các cuộc họp của Hội đồng quản trị phải được ghi thành biên bản; nghị quyết, quyết định của Hội đồng quản trị có tính bắt buộc thi hành đối với doanh nghiệp.\n\n5- Chi phí hoạt động của Hội đồng quản trị, kể cả tiền lương và phụ cấp, được tính vào quản lý phí của doanh nghiệp. Tổng giám đốc hoặc giám đốc bảo đảm các điều kiện và phương tiện cần thiết cho Hội đồng quản trị làm việc."
+   }
+  },
+  {
+   "id": "VN-H370-A34",
+   "no": 34,
+   "noLabel": {
+    "vi": "Điều 34"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 34\n\nCác thành viên chuyên trách của Hội đồng quản trị được xếp lương cơ bản theo ngạch bậc viên chức nhà nước, hưởng lương theo chế độ phân phối tiền lương trong doanh nghiệp nhà nước do Chính phủ quy định và tiền thưởng tương ứng với hiệu quả hoạt động của doanh nghiệp. Các thành viên kiểm nhiệm của Hội đồng quản trị hưởng phụ cấp trách nhiệm theo quy định của Chính phủ và được tiền thưởng tương ứng với hiệu quả hoạt động của doanh nghiệp."
+   }
+  },
+  {
+   "id": "VN-H370-A35",
+   "no": 35,
+   "noLabel": {
+    "vi": "Điều 35"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 35\n\nCác thành viên Hội đồng quản trị phải cùng chịu trách nhiệm trước người ra quyết định bổ nhiệm và pháp luật về các quyết định của Hội đồng quản trị; trường hợp vi phạm điều lệ doanh nghiệp, quyết định vượt thẩm quyền, lạm dụng chức quyền, gây thiệt hai cho doanh nghiệp và Nhà nước thì phải chịu trách nhiệm và bồi thường vật chất đối với các thiệt hại do mình gây ra theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H370-A36",
+   "no": 36,
+   "noLabel": {
+    "vi": "Điều 36"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 36\n\n1- Hội đồng quản trị thành lập Ban kiểm soát để giúp Hội đồng quản trị kiểm tra, giám sát hoạt động điều hành của tổng giám đốc hoặc giám đốc, bộ máy doanh nghiệp và các đơn vị thành viên (nếu có) trong hoạt động tài chính, chấp hành điều lệ doanh nghiệp, nghị quyết, quyết định của Hội đồng quản trị, chấp hành pháp luật.\n\n2- Ban kiểm soát thực hiện nhiệm vụ do Hội đồng quản trị giao, báo cáo và chịu trách nhiệm trước Hội đồng quản trị.\n\n3- Chi phí hoạt động, kể cả tiền lương và điều kiện làm việc của Ban kiểm soát do doanh nghiệp bảo đảm.\n\nII- Tổng giám đốc hoặc giám đốc và bộ máy giúp việc"
+   }
+  },
+  {
+   "id": "VN-H370-A37",
+   "no": 37,
+   "noLabel": {
+    "vi": "Điều 37"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 37\n\nTổng giám đốc hoặc giám đốc do Thủ tướng Chính phủ hoặc người được Thủ tướng Chính phủ uỷ quyền quyết định bổ nhiệm, miễn nhiệm theo đề nghị của Hội đồng quản trị.\n\nTổng giám đốc hoặc giám đốc là đại diện pháp nhân của doanh nghiệp và chịu trách nhiệm trước Hội đồng quản trị, người ra quyết định bổ nhiệm và pháp luật về điều hành hoạt động của doanh nghiệp. Tổng giám đốc hoặc giám đốc có quyền điều hành cao nhất trong doanh nghiệp.\n\nPhó tổng giám đốc hoặc phó giám đốc giúp tổng giám đốc hoặc giám đốc điều hành doanh nghiệp theo phân công và uỷ quyền của tổng giám đốc hoặc giám đốc, chịu trách nhiệm trước tổng giám đốc hoặc giám đốc về nhiệm vụ được tổng giám đốc hoặc giám đốc phân công và uỷ quyền.\n\nKế toán trưởng giúp tổng giám đốc hoặc giám đốc doanh nghiệp chỉ đạo, tổ chức thực hiện công tác kế toán, thống kê của doanh nghiệp và có các nhiệm vụ, quyền hạn theo quy định của pháp luật.\n\nVăn phòng và các bạn (hoặc phòng) chuyên môn, nghiệp vụ có chức năng tham mưu, giúp việc Hội đồng quản trị, tổng giám đốc hoặc giám đốc trong quản lý, điều hành công việc."
+   }
+  },
+  {
+   "id": "VN-H370-A38",
+   "no": 38,
+   "noLabel": {
+    "vi": "Điều 38"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 38\n\nTổng giám đốc hoặc giám đốc doanh nghiệp có nhiệm vụ và quyền hạn sau đây:\n\n1- Cùng Chủ tịch Hội đồng quản trị ký nhận vốn, đất đai, tài nguyên và các nguồn lực khác để quản lý, sử dụng theo mục tiêu, nhiệm vụ Nhà nước giao cho doanh nghiệp; giao các nguồn lực đã nhận của Nhà nước cho các đơn vị thành viên (nếu có);\n\n2- Sử dụng, bảo toàn và phát triển vốn theo phương án đã được Hội đồng quản trị phê duyệt;\n\n3- Xây dựng chiến lược phát triển, kế hoạch dài hạn và hàng năm của doanh nghiệp, dự án đầu tư, phương án liên doanh, đề án tổ chức quản lý của doanh nghiệp, quy hoạch đào tạo lao động, phương án phối hợp kinh doanh của các đơn vị thành viên (nếu có) trình Hội đồng quản trị;\n\n4- Xây dựng để trình Hội đồng quản trị phê duyệt các định mức kinh tế kỹ thuật, tiêu chuẩn sản phẩm, đơn giá tiền lương phù hợp với các quy định của Nhà nước;\n\n5- Đề nghị bổ nhiệm, miễn nhiệm, khen thưởng, kỷ luật phó tổng giám đốc hoặc phó giám đốc, kế toán trưởng doanh nghiệp và giám đốc các đơn vị thành viên (nếu có);\n\n6- Quyết định giá mua, giá bán sản phẩm và dịch vụ phù hợp với những quy định của Nhà nước;\n\n7- Kiểm tra các đơn vị thành viên (nếu có) thực hiện các định mức, tiêu chuẩn, đơn giá quy định trong nội bộ doanh nghiệp;\n\n8- Quyết định bổ nhiệm, miễn nhiệm, khen thưởng, kỷ luật phó giám đốc, kế toán trưởng các đơn vị thành viên (nếu có) theo đề nghị của giám đốc đơn vị thành viên và các trưởng ban, phó trưởng ban hoặc trưởng phòng, phó trưởng phòng chuyên môn, nghiệp vụ và các chức vụ tương đương của doanh nghiệp;\n\n9- Tổ chức điều hành hoạt động của doanh nghiệp nhằm thực hiện các nghị định và quyết định của Hội đồng quản trị;\n\n10- Báo cáo trước Hội đồng quản trị và cơ quan quản lý Nhà nước có thẩm quyền về kết quả hoạt động kinh doanh của doanh nghiệp;\n\n11- Chịu sự kiểm tra, giám sát của Hội đồng quản trị, Ban kiểm soát, các cơ quan quản lý Nhà nước có thẩm quyền đối với việc thực hiện các chức năng, nhiệm vụ theo quy định của Luật này. Trong trường hợp ý kiến của tổng giám đốc hoặc giám đốc khác với nghị quyết và quyết định của Hội đồng quản trị, tổng giám đốc hoặc giám đốc có quyền bảo lưu ý kiến và kiến nghị với cơ quan Nhà nước có thẩm quyền để xử lý; trong thời gian chưa có quyền định xử lý của cơ quan Nhà nước có thẩm quyền vẫn phải chấp hành nghị quyết, quyết định của Hội đồng quản trị;\n\n12- Được áp dụng các biện pháp cần thiết trong trường hợp khẩn cấp và phải báo cáo ngay với Hội đồng quản trị và các cơ quan Nhà nước có thẩm quyền.\n\nMỤC II\n\nDOANH NGHIỆP NHÀ NƯỚC KHÔNG CÓ HỘI ĐỒNG QUẢN TRỊ"
+   }
+  },
+  {
+   "id": "VN-H370-A39",
+   "no": 39,
+   "noLabel": {
+    "vi": "Điều 39"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 39\n\n1- Giám đốc do người quyết định thành lập doanh nghiệp bổ nhiệm, miễn nhiệm, khen thưởng, kỷ luật. Giám đốc là đại diện pháp nhân của doanh nghiệp và chịu trách nhiệm trước người bổ nhiệm và pháp luật về điều hành hoạt động của doanh nghiệp. Giám đốc có quyền điều hành cao nhất trong doanh nghiệp.\n\n2- Giám đốc phải có tiêu chuẩn và điều kiện như quy định tại Điều 32 của Luật này.\n\n3- Giám đốc được xếp lương cơ bản theo ngạch bậc viên chức nhà nước và hưởng lương, thưởng theo chế độ phân phối tiền lương, tiền thưởng trong doanh nghiệp nhà nước do Chính phủ quy định gắn với hiệu quả hoạt động của doanh nghiệp.\n\n4- Phó giám đốc giúp giám đốc điều hành doanh nghiệp theo phân công và uỷ quyền của giám đốc, chịu trách nhiệm trước giám đốc về nhiệm vụ được giám đốc phân công và uỷ quyền.\n\n5- Kế toán trưởng giúp giám đốc doanh nghiệp chỉ đạo, tổ chức thực hiện công tác kế toán, thống kê của doanh nghiệp và có các nhiệm vụ quyền hạn theo quy định của pháp luật.\n\n6- Văn phòng và các phòng chuyên môn, nghiệp vụ có chức năng tham mưu, giúp việc cho giám đốc trong quản lý, điều hành công việc."
+   }
+  },
+  {
+   "id": "VN-H370-A40",
+   "no": 40,
+   "noLabel": {
+    "vi": "Điều 40"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 40\n\nGiám đốc thực hiện nhiệm vụ, quyền hạn quy định tại Khoản 6 và 8 Điều 38 của Luật này và các nhiệm vụ, quyền hạn sau đây:\n\n1- Nhận vốn, đất đai, tài nguyên và các nguồn lực khác do Nhà nước giao để quản lý, sử dụng theo mục tiêu nhiệm vụ Nhà nước giao cho doanh nghiệp; sử dụng, bảo toàn và phát triển vốn;\n\n2- Xây dựng chiến lược phát triển, kế hoạch dài hạn và hàng năm của doanh nghiệp, phương án đầu tư, liên doanh, đề án tổ chức quản lý của doanh nghiệp trình cơ quan quản lý Nhà nước có thẩm quyền;\n\n3- Tổ chức điều hành hoạt động của doanh nghiệp;\n\n4- Ban hành các định mức kinh tế - kỹ thuật, tiêu chuẩn sản phẩm, đơn giá tiền lương phù hợp với quy định của Nhà nước;\n\n5- Trình người quyết định thành lập doanh nghiệp bổ nhiệm, miễn nhiệm, khen thưởng, kỷ luật phó giám đốc, kế toán trưởng;\n\n6- Báo cáo cơ quan Nhà nước có thẩm quyền về kết quả hoạt động, kinh doanh của doanh nghiệp;\n\n7- Chịu sự kiểm tra, giám sát của tổ chức giám sát do Chính phủ quy định và của các cơ quan Nhà nước có thẩm quyền đối với việc thực hiện các chức năng, nhiệm vụ theo quy định của Luật này.\n\nMỤC III\n\nTẬP THỂ NGƯỜI LAO ĐỘNG TRONG DOANH NGHIỆP NHÀ NƯỚC"
+   }
+  },
+  {
+   "id": "VN-H370-A41",
+   "no": 41,
+   "noLabel": {
+    "vi": "Điều 41"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 41\n\nĐại hội công nhân viên chức là hình thức trực tiếp để người lao động doanh nghiệp nhà nước tham gia quản lý doanh nghiệp nhà nước. Đại hội công nhân viên chức thực hiện các quyền sau đây:\n\n1- Tham gia thảo luận xây dựng thoả ước lao động tập thể để người đại diện tập thể lao động thương lượng và ký kết với tổng giám đốc hoặc giám đốc doanh nghiệp;\n\n2- Thảo luận và thông qua quy chế sử dụng các quỹ có liên quan trực tiếp đến lợi ích của người lao động trong doanh nghiệp;\n\n3- Thảo luận và góp ý kiến về quy hoạch, kế hoạch, đánh giá hiệu quả quản lý sản xuất kinh doanh, đề xuất các biện pháp bảo hộ lao động, cải thiện điều kiện làm việc, đời sống vật chất và tinh thần, vệ sinh môi trường, đào tạo và đào tạo lại người lao động của doanh nghiệp;\n\n4- Giới thiệu người tham gia Hội đồng quản trị, Ban kiểm soát."
+   }
+  },
+  {
+   "id": "VN-H370-A42",
+   "no": 42,
+   "noLabel": {
+    "vi": "Điều 42"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 42\n\nTổng liên đoàn lao động Việt Nam hướng dẫn về tổ chức và hoạt động của Đại hội công nhân viên chức trong doanh nghiệp nhà nước.\n\nCHƯƠNG VI\n\nTỔNG CÔNG TY NHÀ NƯỚC"
+   }
+  },
+  {
+   "id": "VN-H370-A43",
+   "no": 43,
+   "noLabel": {
+    "vi": "Điều 43"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 43\n\n1- Tổng công ty nhà nước được thành lập và hoạt động trên cơ sở liên kết của nhiều đơn vị thành viên có mối quan hệ gắn bó với nhau về lợi ích kinh tế, công nghệ, cung ứng, tiêu thụ, dịch vụ, thông tin, đào tạo, nghiên cứu, tiếp thị, hoạt động trong một hoặc một số chuyên ngành kinh tế - kỹ thuật chính, nhằm tăng cường khả năng kinh doanh của các đơn vị thành viên và thực hiện các nhiệm vụ của chiến lược phát triển kinh tế - xã hội trong từng thời kỳ.\n\n2- Tổng công ty nhà nước là tổ chức kinh doanh có tư cách pháp nhân, có con dấu, có tài sản và có các quỹ tập trung theo quy định của Chính phủ, được Nhà nước giao quản lý vốn, tài nguyên, đất đai và các nguồn lực khác, có trách nhiệm bảo toàn và phát triển vốn, sử dụng có hiệu quả các nguồn lực được giao, thực hiện quyền và nghĩa vụ của doanh nghiệp nhà nước như quy định tại Chương II của Luật này.\n\n3- Tuỳ theo quy mô và vị trí quan trọng, tổng công ty nhà nước có hoặc không có công ty tài chính là doanh nghiệp thành viên."
+   }
+  },
+  {
+   "id": "VN-H370-A44",
+   "no": 44,
+   "noLabel": {
+    "vi": "Điều 44"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 44\n\n1- Tổng công ty nhà nước có thể có các loại đơn vị thành viên sau đây:\n\na) Đơn vị hạch toán độc lập;\n\nb) Đơn vị hạch toán phụ thuộc;\n\nc) Đơn vị sự nghiệp.\n\n2- Đơn vị thành viên của tổng công ty nhà nước có con dấu, được mở tài khoản tại ngân hàng phù hợp với phương thức hạch toán của tổng công ty nhà nước. Đơn vị thành viên hạch toán độc lập có điều lệ riêng do Hội đồng quản trị tổng công ty phê chuẩn phù hợp với các quy định của Luật này và điều lệ tổng công ty nhà nước.\n\n3- Chế độ tài chính và hạch toán của tổng công ty nhà nước do Chính phủ quy định."
+   }
+  },
+  {
+   "id": "VN-H370-A45",
+   "no": 45,
+   "noLabel": {
+    "vi": "Điều 45"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 45\n\nCác đơn vị thành viên hạch toán độc lập của tổng công ty nhà nước có quyền và nghĩa vụ quy định tại Chương II của Luật này, trừ các quyền và nghĩa vụ quy định tại Điểm a Khoản 1 Điều 7, Khoản 1 Điều 10 và chịu sự ràng buộc về quyền lợi và nghĩa vụ với tổng công ty nhà nước như sau:\n\n1- Nhận, bảo toàn và phát triển vốn, sử dụng có hiệu quả các nguồn lực do tổng công ty giao; thực hiện quyết định của tổng công ty về điều chỉnh vốn và các nguồn lực phù hợp với nhiệm vụ của doanh nghiệp trong tổng công ty;\n\n2- Được chủ động kinh doanh trên cơ sở phương án phối hợp kế hoạch kinh doanh chung của tổng công ty;\n\n3- Trích nộp để hình thành các quỹ tập trung của tổng công ty theo quy định của điều lệ tổng công ty;\n\n4- Được tổng công ty uỷ quyền ký kết và thực hiện các hợp đồng kinh tế với khách hàng trong và ngoài nước theo quyết định của tổng công ty;\n\n5- Được tổng công ty giao tổ chức thực hiện các dự án đầu tư phát triển theo kế hoạch của tổng công ty trên cơ sở sử dụng các nguồn lực do tổng công ty giao;\n\n6- Có quyền đề nghị tổng công ty xem xét quyết định hoặc được tổng công ty uỷ quyền quyết định thành lập, tổ chức lại, giải thể, sáp nhập các đơn vị trực thuộc và quyết định bộ máy quản lý của các đơn vị trực thuộc."
+   }
+  },
+  {
+   "id": "VN-H370-A46",
+   "no": 46,
+   "noLabel": {
+    "vi": "Điều 46"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 46\n\nĐơn vị hạch toán phụ thuộc tổng công ty nhà nước được ký kết hợp đồng kinh tế theo phân cấp của tổng công ty, được chủ động thực hiện các hoạt động kinh doanh, hoạt động tài chính, tổ chức và nhân sự theo sự phân cấp hoặc uỷ quyền của tổng công ty."
+   }
+  },
+  {
+   "id": "VN-H370-A47",
+   "no": 47,
+   "noLabel": {
+    "vi": "Điều 47"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 47\n\nĐơn vị sự nghiệp thực hiện chế độ lấy thu bù chi, được tạo nguồn thu từ thực hiện dịch vụ, hợp đồng nghiên cứu khoa học và đào tạo với các đơn vị trong và ngoài tổng công ty nhà nước.\n\nHoạt động của các đơn vị sự nghiệp thực hiện theo quy chế do Hội đồng quản trị tổng công ty phê chuẩn."
+   }
+  },
+  {
+   "id": "VN-H370-A48",
+   "no": 48,
+   "noLabel": {
+    "vi": "Điều 48"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 48\n\nCăn cứ các quy định về thành lập, tổ chức lại, giải thể doanh nghiệp nhà nước tại Chương III của Luật này, Chính phủ quy định việc thành lập, tổ chức lại, giải thể tổng công ty và các doanh nghiệp thành viên của tổng công ty.\n\nCHƯƠNG VII\n\nQUẢN LÝ PHẦN VỐN CỦA NHÀ NƯỚC Ở CÁC DOANH NGHIỆP\n\nMỤC I\n\nQUẢN LÝ PHẦN VỐN GÓP CỦA NHÀ NƯỚC Ở CÁC DOANH NGHIỆP KHÁC"
+   }
+  },
+  {
+   "id": "VN-H370-A49",
+   "no": 49,
+   "noLabel": {
+    "vi": "Điều 49"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 49\n\nHội đồng quản trị hoặc giám đốc (đối với doanh nghiệp không có Hội đồng quản trị) nhận vốn của Nhà nước để góp vào các doanh nghiệp khác có quyền và nghĩa vụ sau đây:\n\n1- Xây dựng phương án góp vốn trình thủ trưởng cơ quan nhà nước theo phân cấp của Chính phủ;\n\n2- Cử, bãi miễn, khen thưởng, kỷ luật người trực tiếp quản lý phần vốn góp của Nhà nước ở các doanh nghiệp;\n\n3- Giám sát, kiểm tra việc sử dụng vốn góp của Nhà nước, chịu trách nhiệm về hiệu quả sử dụng, bảo toàn và phát triển vốn của Nhà nước; thu lợi nhuận từ phần vốn góp của Nhà nước ở các doanh nghiệp."
+   }
+  },
+  {
+   "id": "VN-H370-A50",
+   "no": 50,
+   "noLabel": {
+    "vi": "Điều 50"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 50\n\nQuyền và nghĩa vụ của người trực tiếp quản lý phần vốn góp của Nhà nước ở các doanh nghiệp:\n\n1- Tham gia vào Bộ máy quản lý, điều hành ở doanh nghiệp theo điều lệ doanh nghiệp;\n\n2- Theo dõi và giám sát tình hình hoạt động kinh doanh của doanh nghiệp có vốn góp của Nhà nước;\n\n3- Thực hiện chế độ báo cáo và chịu trách nhiệm trước Hội đồng quản trị hoặc Giám đốc (đối với doanh nghiệp không có Hội đồng quản trị) về phần vốn góp của Nhà nước ở các doanh nghiệp.\n\nMỤC II\n\nQUẢN LÝ CỔ PHẦN CHI PHỐI VÀ CỔ PHẦN ĐẶC BIỆT CỦA NHÀ NƯỚC"
+   }
+  },
+  {
+   "id": "VN-H370-A51",
+   "no": 51,
+   "noLabel": {
+    "vi": "Điều 51"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 51\n\nChính phủ thực hiện quyền sở hữu cổ phần chi phối và cổ phần đặc biệt của Nhà nước trong một số doanh nghiệp quan trọng nhằm hướng dẫn doanh nghiệp thực hiện định hướng của Nhà nước. Chính phủ quyết định cụ thể các doanh nghiệp mà Nhà nước cần nắm giữ cổ phần chi phối hoặc cổ phần đặc biệt."
+   }
+  },
+  {
+   "id": "VN-H370-A52",
+   "no": 52,
+   "noLabel": {
+    "vi": "Điều 52"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 52\n\n1- Doanh nghiệp có cổ phần chi phối và doanh nghiệp có cổ phần đặc biệt của Nhà nước được thành lập, tổ chức và đăng ký theo pháp luật hiện hành.\n\n2- Việc giải quyết các vấn đề quan trọng sau đây phải được sự nhất trí của người đại diện chủ sở hữu cổ phần chi phối hoặc cổ phần đặc biệt của Nhà nước theo thoả thuận trong điều lệ doanh nghiệp:\n\na) Quyết định chiến lược, kế hoạch 5 năm và hàng năm của doanh nghiệp;\n\nb) Đầu tư liên doanh, chuyển đổi hình thức tổ chức của doanh nghiệp;\n\nc) Bổ nhiệm các chức danh quản lý chủ chốt của doanh nghiệp."
+   }
+  },
+  {
+   "id": "VN-H370-A53",
+   "no": 53,
+   "noLabel": {
+    "vi": "Điều 53"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 53\n\nNgười đại diện chủ sở hữu cổ phần chi phối hoặc cổ phần đặc biệt của Nhà nước có quyền và nghĩa vụ sau đây:\n\n1- Cử, bãi miễn, khen thưởng, kỷ luật người trực tiếp quản lý cổ phần chi phối hoặc cổ phần đặc biệt của Nhà nước ở doanh nghiệp;\n\n2- Giao nhiệm vụ hàng năm và phê duyệt phương hướng, mục tiêu, biện pháp sử dụng quyền của cổ phần chi phối và quyền của cổ phần đặc biệt của Nhà nước cho người trực tiếp quản lý cổ phần chi phối hoặc cổ phần đặc biệt ở doanh nghiệp;\n\n3- Theo dõi, giám sát việc sử dụng cổ phần chi phối hoặc cổ phần đặc biệt của Nhà nước; yêu cầu người trực tiếp quản lý cổ phần ở doanh nghiệp báo cáo về việc sử dụng cổ phần chi phối hoặc cổ phần đặc biệt của Nhà nước, chịu trách nhiệm về việc sử dụng cổ phần của Nhà nước để định hướng doanh nghiệp phục vụ mục tiêu của Nhà nước."
+   }
+  },
+  {
+   "id": "VN-H370-A54",
+   "no": 54,
+   "noLabel": {
+    "vi": "Điều 54"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 54\n\nNgười trực tiếp quản lý cổ phần chi phối hoặc cổ phần đặc biệt của Nhà nước ở doanh nghiệp thực hiện các quyền và nghĩa vụ quy định tại Khoản 1 và Khoản 2 Điều 50 của Luật này và các quy định sau đây:\n\n1- Xây dựng phương hướng, biện pháp trình người đại diện chủ sở hữu cổ phần chi phối hoặc cổ phần đặc biệt của Nhà nước về việc sử dụng cổ phần của Nhà nước để định hướng doanh nghiệp phục vụ mục tiêu của Nhà nước;\n\n2- Tham gia quyết định các biện pháp quản lý, điều hành của doanh nghiệp theo hướng sử dụng cổ phần chi phối hoặc cổ phần đặc biệt đã được người đại diện chủ sở hữu cổ phần chi phối hoặc cổ phần đặc biệt của Nhà nước phê duyệt;\n\n3- Thực hiện chế độ báo cáo và chịu trách nhiệm trước người đại diện chủ sở hữu cổ phần chi phối và cổ phần đặc biệt của Nhà nước.\n\nCHƯƠNG VIII\n\nXỬ LÝ VI PHẠM"
+   }
+  },
+  {
+   "id": "VN-H370-A55",
+   "no": 55,
+   "noLabel": {
+    "vi": "Điều 55"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VIII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 55\n\n1- Doanh nghiệp Nhà nước có hành vi vi phạm dưới đây thì tuỳ theo mức độ vi phạm mà bị đình chỉ hoạt động, áp dụng các biện pháp xử lý vi phạm hành chính theo quy định của pháp luật:\n\na) Không đăng ký kinh doanh, kinh doanh không đúng ngành, nghề đã đăng ký hoặc không được cơ quan Nhà nước có thẩm quyền cho phép;\n\nb) Không thực hiện các nhiệm vụ, mục tiêu do Nhà nước quy định;\n\nc) Vi phạm nghiêm trọng các quy định khác của Luật này.\n\n2. Tổ chức kinh tế hoạt động dưới danh nghĩa doanh nghiệp Nhà nước mà không có quyết định thành lập thì bị đình chỉ hoạt động và bị tịch thu tài sản nộp vào ngân sách Nhà nước."
+   }
+  },
+  {
+   "id": "VN-H370-A56",
+   "no": 56,
+   "noLabel": {
+    "vi": "Điều 56"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VIII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 56\n\nTổ chức, cá nhân nào có hành vi vi phạm dưới đây thì tuỳ theo mức độ nhẹ hoặc nặng mà bị xử lý kỷ luật, xử phạt hành chính, bồi thường thiệt hại hoặc truy cứu trách nhiệm hình sự theo quy định của pháp luật:\n\n1- Thành lập doanh nghiệp Nhà nước không theo quy định của Luật này;\n\n2- Không thực hiện đúng trách nhiệm, quyền hạn được chủ sở hữu doanh nghiệp Nhà nước uỷ quyền;\n\n3- Quyết định sai gây thiệt hại tài sản của doanh nghiệp;\n\n4- Can thiệp vào công việc thuộc thẩm quyền của doanh nghiệp; sách nhiễu doanh nghiệp, yêu cầu doanh nghiệp cung cấp các nguồn lực không được pháp luật quy định;\n\n5- Vi phạm các quy định khác của Luật này.\n\nCHƯƠNG IX\n\nĐIỀU KHOẢN THI HÀNH"
+   }
+  },
+  {
+   "id": "VN-H370-A57",
+   "no": 57,
+   "noLabel": {
+    "vi": "Điều 57"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG IX"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 57\n\nLuật này có hiệu lực từ ngày công bố.\n\nNhững quy định trước đây trái với Luật này đều bãi bỏ.\n\nDoanh nghiệp nhà nước được thành lập và đăng ký kinh doanh theo quy định hiện hành của Chính phủ cho đến ngày Luật này có hiệu lực không phải thực hiện thủ tục thành lập, đăng ký kinh doanh lại theo quy định của Luật này."
+   }
+  },
+  {
+   "id": "VN-H370-A58",
+   "no": 58,
+   "noLabel": {
+    "vi": "Điều 58"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG IX"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 58\n\nChính phủ quy định chi tiết thi hành Luật này.\n\nLuật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam Khoá IX, kỳ họp thứ 7 thông qua ngày 20 tháng 04 năm 1995.\n\n1:{\"id\":\"9955\",\"docType\":{\"id\":\"11025e19-2dd6-4165-85ad-ab6241186a1a\",\"name\":\"Luật\",\"code\":\"Lu\",\"parentCode\":\"VBQPPL\",\"parentName\":null},\"docGroup\":\"VBQPPL\",\"docNum\":\"Không số\",\"title\":\"Luật Doanh nghiệp Nhà nước số Không số\",\"applicationNote\":\"Bị thay thế bởi Luật 14/2003/QH11 Doanh nghiệp Nhà nước\",\"issueDate\":\"1995-04-20T00:00:00\",\"effFrom\":\"1995-04-20T00:00:00\",\"effTo\":\"2004-07-01T00:00:00\",\"publicDate\":null,\"effStatus\":{\"id\":\"f55c1469-4341-4274-93ef-32b283db4dbd\",\"name\":\"Hết hiệu lực toàn bộ\",\"code\":\"HHL\",\"parentCode\":null,\"parentName\":null},\"status\":\"Publish\",\"lang\":\"vi\",\"defaultLanguage\":\"VN\",\"updatedBy\":\"dungdvm_II.2\",\"updatedDate\":\"2026-01-16T17:33:21\",\"agencyName\":\"Quốc hội\",\"organization\":{\"id\":\"d2907e2d-b1d4-4f22-8cfc-35f786fbf860\",\"code\":\"BTC\",\"name\":\"Bộ Tài chính\",\"nameEn\":\"Bộ Tài chính\",\"shortName\":\"BTC\",\"orgType\":\"0\"},\"isLw\":true,\"documentContent\":{\"id\":\"9955\",\"title\":null,\"content\":\"$2\"},\"documentContentEn\":null,\"documentContentFileName\":null,\"documentContentFileDocName\":\"Luật Khong so.doc\",\"documentIssues\":[{\"id\":\"48a218bb-a46c-46ca-8050-a42b5cb1a165\",\"agencyId\":\"55\",\"agencyName\":\"Quốc hội\",\"agencyNameEn\":\"National Assembly of Vietnam\",\"agencyCode\":\"QH\",\"personId\":\"184\",\"personName\":\"Nông Đức Mạnh\",\"jobTitleId\":\"28da0087-8afd-420c-875c-b2369e212c3e\",\"jobTitleCode\":\"CTQH\",\"jobTitleName\":\"Chủ tịch Quốc hội\",\"orderIndex\":1}],\"documentMajors\":[],\"documentFields\":[{\"id\":\"76e2c0d5-e93e-4ee9-8c72-59dae1167432\",\"name\":\"Chưa phân loại\",\"code\":null,\"parentCode\":null,\"parentName\":null}],\"documentRelatedList\":[{\"id\":\"d02acb69-b687-4bcb-9ff4-231e67843190\",\"fileName\":\"9955_body_content.html\",\"relatedType\":\"MARKDOWN\",\"fileTitle\":\"9955_body_content.html\",\"fileOrder\":null}],\"provisionTree\":null,\"references\":null,\"isEffectAllDocument\":false,\"isOld\":true,\"reviewStatus\":\"INITIAL\",\"reviewed\":false,\"isTranslationDoc\":false,\"isConsolidatedDocument\":false,\"isConstitutionDocument\":false,\"isAdministrativeDocument\":false,\"viewCount\":54,\"showViewCount\":true,\"hasContent\":true,\"hasOriginalPdf\":null,\"hasAIProcessed\":false,\"hasClauseRelation\":null,\"aiResults\":[]}"
+   }
+  }
+ ]
+}

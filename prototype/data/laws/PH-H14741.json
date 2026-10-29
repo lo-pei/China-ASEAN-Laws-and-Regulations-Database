@@ -1,0 +1,62 @@
+{
+ "id": "PH-H14741",
+ "title": {
+  "zh": null,
+  "en": "An Act Authorizing and Approving the Sale, Assignment and Transfer By the Robert Dollar Company, a Corporation Organized and Existing Under the Laws of the state of California, United states of America, of Its Radio Reception and Transmission Franchise With All Rights and Privileges Granted By Act Numbered thirty-Four Hundred and Ninety-Five, as Amended, By Act Numbered thirty-Six Hundred and Ninety-Two, Unto the Globe Wireless, Limited, a Corporation Organized or to Be Organized Under the Laws of the Philippine Islands.",
+  "orig": "An Act Authorizing and Approving the Sale, Assignment and Transfer By the Robert Dollar Company, a Corporation Organized and Existing Under the Laws of the state of California, United states of America, of Its Radio Reception and Transmission Franchise With All Rights and Privileges Granted By Act Numbered thirty-Four Hundred and Ninety-Five, as Amended, By Act Numbered thirty-Six Hundred and Ninety-Two, Unto the Globe Wireless, Limited, a Corporation Organized or to Be Organized Under the Laws of the Philippine Islands."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1934-11-28",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 4150",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 789,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1934/act_4150_1934.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_04150_1934_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_04150_1934_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14741-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Subject to all the conditions, terms, restrictions and limitations of Act Numbered Thirty-four\nhundred and ninety-five, as amended by Act Numbered Thirty-six hundred and ninety-two, the Robert Dollar\nCompany, a corporation organized and existing under the laws of the State of California, United States of\nAmerica, is hereby authorized to sell, convey, assign or transfer its franchise and all rights and privileges\nacquired by it under said Act to construct, maintain and operate in the Philippine Islands stations for the\ntransmission and reception of wireless messages unto the Globe Wireless, Limited, a corporation organized or\nto be organized under the laws of the Philippine Islands, hereby approving the same."
+   }
+  },
+  {
+   "id": "PH-H14741-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, November 28, 1934."
+   }
+  }
+ ]
+}

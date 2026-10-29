@@ -1,0 +1,62 @@
+{
+ "id": "PH-H14315",
+ "title": {
+  "zh": null,
+  "en": "An Act Remitting the Bond of Five thousand Pesos Furnished By Simeon Lopez and Sabas De Guzman in the Case of \"the People of the Philippine Islands Versus Rufino Dizon, Alias Dy Quian, Alias Juan Dizon, Et Al.",
+  "orig": "An Act Remitting the Bond of Five thousand Pesos Furnished By Simeon Lopez and Sabas De Guzman in the Case of \"the People of the Philippine Islands Versus Rufino Dizon, Alias Dy Quian, Alias Juan Dizon, Et Al."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1930-11-03",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3683",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 439,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1930/act_3683_1930.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03683_1930_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03683_1930_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14315-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The bond of five thousand pesos furnished by Simeon Lopez and Sabas de Guzman in favor of\nthe defendant Rufino Dizon, alias Dy Quian, alias Juan Dizon, et al., which has been declared forfeited by the\nCourt of First Instance of Manila, is hereby remitted after the expenses actually incurred by the Government\nin the execution of the said bail bond have been deducted."
+   }
+  },
+  {
+   "id": "PH-H14315-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, November 3, 1930."
+   }
+  }
+ ]
+}

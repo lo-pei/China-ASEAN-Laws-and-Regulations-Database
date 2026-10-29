@@ -3,13 +3,17 @@
  "title": {
   "zh": "消费者保护法",
   "en": "Law on Consumer Protection",
-  "orig": null
+  "orig": "Law on Consumer Protection",
+  "vi": "Luật Bảo vệ người tiêu dùng",
+  "th": "พระราชบัญญัติคุ้มครองผู้บริโภค",
+  "id": "Undang-Undang Perlindungan Konsumen",
+  "ms": "Akta Perlindungan Pengguna"
  },
  "country": "LA",
  "countryName": "老挝",
  "layer": "intl",
  "pack": "la-p01",
- "language": "lo",
+ "language": "en",
  "level": "law",
  "category": null,
  "status": "amended",
@@ -26,496 +30,908 @@
  "coverage": "full",
  "structureMode": "ARTICLE",
  "structure": null,
- "articleCount": 30,
- "chars": 15605,
+ "articleCount": 74,
+ "chars": 40152,
  "source": {
   "name": "既有批次（资源爬取 / 《东盟法律分类》归档）",
   "url": "https://laotradeportal.gov.la/lo-la/site/display/1456"
  },
- "sourceFile": null,
- "fetchedAt": "2026-10-04",
- "completenessNote": "★ 本部正文为**既有批次**（2026-10-04）所存，非本轮（2026-10-06）抓取；原文语言：老挝语。本轮官方公报详情页对该法仅提供纯扫描 PDF（无文字层），无可抽取正文，故迁移既有正文以保留可用文本，并按「A 层优先 / 正文不倒退」口径保留原 id。 所存 30 条，条号范围第 45–74 条（**非自第 1 条起**，系节选或承前法编号）。 既有批次的切分与抬头整理度低于本轮标准，后续应以官方完整版（或 OCR 后人工校勘）重新抓取替换。",
+ "sourceFile": "现行法规/02_法律_Law/LAW_20100630_545_ກົດໝາຍວ່າດ້ວຍ_ການປົກປ້ອງຜູ້ຊົມໃຊ້.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 74 条；英文译本（源包「翻译版」，非官方译本）",
  "textQuality": null,
  "ocrNoisySections": null,
  "pdfs": [],
  "duplicateOf": null,
  "articles": [
   {
+   "id": "LA-H017-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Article 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Objectives\nThe Law on Consumer Protection determines principles, regulations and\nmeasures for the organization, administration, monitoring and inspecting the\nconsumer protection works in order to strengthen the consumer protection affairs, to\nensure legitimate interests and safety for consumers from negative impacts as a result\nfrom consumption of goods and services, to promote the domestic production, the\nimportation, the distribution of goods and the services with good quality, according to\nthe standards, properly and accordance with the laws and regulations, aiming at\nmaintaining the justice, peace and public orders of society, to make the living\nstandard of the people of all ethnics being better, contributing to the national socio-\neconomic development."
+   }
+  },
+  {
+   "id": "LA-H017-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Article 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Consumer Protection\nConsumer protection shall be the use of measures to protect life, health,\nproperties, legitimate rights and interests of consumers as a result of impacts from the\nconsumption of goods and services, such as food, medicines, cosmetics, health\ntreatments, as well as the settlement of disputes occurred between the consumers and\nthe supplier as stipulated in the laws and regulations."
+   }
+  },
+  {
+   "id": "LA-H017-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Article 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Definitions\nThe terms used in this Law shall have the meanings as described below:\n1. Consumer means an individual, a legal entity or an organization who buys\nand uses the goods and the services legally without trading purpose;\n2. Supplier means an individual, a legal entity or an organization, which\nproduces, sells, distributes, buys for re-selling, and provides services, imports for\nselling and delivering.\n\n\n3. Label means a picture, a creation, a paper or any mark that showing the\nstatements which describing about the goods which required to be appeared on the\ngoods, the container, the packaging or be inserted in or put together with the goods,\nincluding the documents or the user manual come along with the goods;\n4. Service means the serving, the permission for using, the giving of benefit in\nthe property with the purpose of receiving compensation in forms of cash or any other\nkinds of benefits.\n5. Contract means the agreement between the consumer and the supplier for\npurchasing or selling the goods or using and providing the services;\n6. Horizontal advertising means different types of billboard advertisements in\npublic areas and at launching ceremony of new goods and services."
+   }
+  },
+  {
+   "id": "LA-H017-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Article 4"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "State Policy on Consumer Protection\nThe State promotes the consumer protection affairs by defining laws and\nregulations, providing educations, recruiting personnel, allocating budget, providing\nmaterials to the Consumer Protection Implementing Organization in order to facilitate\nsuch organization performing its duties effectively, ensuring the safety for life, health,\nproperties, legitimate rights and interests of consumers.\nThe State encourages all sectors in society, individuals, legal entities, and\ndomestic and foreign organizations to contribute to the consumer protection affairs."
+   }
+  },
+  {
+   "id": "LA-H017-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Article 5"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Basic Principles of the Consumer Protection\nThe consumer protection shall comply with the following principles:\n1. The protection of consumers shall be conducted in parallel with the\npromotion of the domestic production, ensuring that the production, the importation,\nthe distribution of goods and services were meet the quality, the standards as\nstipulated by the relevance organizations;\n2. Ensuring the safety for life, heath, properties, legitimate rights and\ninterests of consumers, the protection of environment and the promotion of\nsustainable consumption;\n3. Ensuring the equality, transparency, justice between the consumers and the\nsupplier in execution of the contract;\n4. Ensuring the participation of people and societies in the administration,\nmonitoring, inspection of the price, the labelling, the advertising of goods and\nservices;\n5. Respecting and abiding by the international agreements and treaties of\nwhich Lao PDR is a party to."
+   }
+  },
+  {
+   "id": "LA-H017-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Article 6"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Obligation Concerning the Consumer Protection\nLao citizens, aliens, foreigners, non-citizens residing in the Lao PDR shall\nhave the obligations to respect, to abide by this Law and other relevant laws, as well\n\n\nas to facilitate, to provide information and to cooperate with the consumer protection\nOfficials while they are on duties."
+   }
+  },
+  {
+   "id": "LA-H017-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Article 7"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Scope of Application\nThis Law shall be applied to individuals, legal entities including domestic and\nforeign organizations that hold the business licensing and performing the production,\nthe importation, the selling, the distribution of goods and services and the consumers\nin the territory of Lao PDR.\nFor those suppliers without the business licensing shall be regulated by other\nlaws."
+   }
+  },
+  {
+   "id": "LA-H017-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Article 8"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "International Cooperation\nThe State promotes foreign, regional and international cooperation in the\nconsumer protection affairs by exchanging the lessons, the information, the scientific,\nthe technology and the trainings, upgrading the technical capacity for ensuring the\neffective performance of consumer protection and the conformity with the\ninternational agreements and treaties in which Lao PDR is a party to.\n\nPart II\nThe Consumer Protection\nChapter 1\nTypes of Consumer Protection"
+   }
+  },
+  {
+   "id": "LA-H017-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Article 9"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Types of Consumer Protection\nConsumer protection is categorized into two types as follows:\n- The protection for the consumption of goods;\n- The protection for the consumption of services."
+   }
+  },
+  {
+   "id": "LA-H017-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Article 10"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "The Protection for the Consumption of Goods\nThe protection for the consumption of goods means the use of measures to\nenable consumers to utilize goods with good quality, with standards as defined by\nrelevant organizations, without negative impacts on life, health, properties, legitimate\nrights and interests of consumers and the environment."
+   }
+  },
+  {
+   "id": "LA-H017-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Article 11"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "The Protection for the Consumption of Services\nThe protection for the consumption of services means the use of measures to\nenable consumers to receive the services with good quality, with standards as defined\nby relevant organizations and with the fairness.\n\nChapter 2\nThe Production, Importation, Selling, Distribution of Goods and Services"
+   }
+  },
+  {
+   "id": "LA-H017-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Article 12"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "The Production of Goods\nThe production of goods must be strictly conducted in accordance with\nconditions, standards and regulations as defined by relevant sectors in order to avoid\nthe contamination, the danger of improper production of goods, aimed at ensuring the\nsafety for life, health, properties, rights and interests of the consumers and the\nenvironment."
+   }
+  },
+  {
+   "id": "LA-H017-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Article 13"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "The Importation, Selling, Distribution of Goods and Services\nThe Importation, the selling, the distribution of goods and services must be\nconducted strictly in accordance with the conditions, the standards and pass through\nthe inspection from the relevant sectors in order to ensure quality, safety,\nconvenience, reasonable price and without taking advantage of the consumers.\n\nChapter 3\nAdvertisement"
+   }
+  },
+  {
+   "id": "LA-H017-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Article 14"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Principles and Types of Advertisement\nAdvertisement must be conducted in accordance with the following principles:\n- Ensuring the content of advertisement is precisely, in according to the truth\nabout the category, type, characteristic, quality of goods, trademark and services;\n- Ensuring the sufficient information about goods and services were provided;\n- Ensuring the advertisement is without satirizing, slandering on the goods and\nservices of others.\nAdvertisement can be conducted in all forms such as: horizontal advertising,\nadvertisement through mass media."
+   }
+  },
+  {
+   "id": "LA-H017-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Article 15"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "The Permission for Advertisement\nIndividuals, legal entities and organizations intending to advertise goods and\nservice must seek an approval from information and culture sector in accordance with\nlaws and regulations.\n\n\nFor the contents of the advertisement on goods and services shall be in\naccordance with the regulations as stipulated by the relevant sectors."
+   }
+  },
+  {
+   "id": "LA-H017-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Article 16"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Modification of the Advertisement\nWhere it deems that any advertisement is untrue causing any impact on\ninterests of consumers, the relevant consumer protection Officials must inform the\nsupplier who is conducting that advertisement to stop that advertising and to make the\ncorrection the concerned advertisement prior to continuation of such advertisement."
+   }
+  },
+  {
+   "id": "LA-H017-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Article 17"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "The Accession to the Information\nIn order to facilitate the consumers to access to information, acknowledge,\nunderstand about goods and services that are dangerous, the Consumer Protection\nImplementing Organization or suppliers must inform about such information in\nvarious forms through mass media, horizontal advertising as follows:\n1. Inform about any risks that are harmful to life and heath from the\nconsumption of goods and services;\n2. Inform about the types of goods and services which are under inspecting or\nre-testing to certify the qualities, standards of such goods and services, and after\nreceived the results from such inspection and testing consumers must be informed\nabout that results;\n3. Once after goods and services are being distributed, if suppliers found\ninformation of the harmful from such goods, the suppliers must inform the Consumer\nProtection Implementing Organization and the consumers in due time as well as\ntaking appropriate resolving measures.\n\nAll Expenses for the inspection, re-testing of goods and services, the\nnotification of the danger of goods and services through mass media and horizontal\nadvertising are under responsibilities of the suppliers.\n\nChapter 4\nLabelling and Contract"
+   }
+  },
+  {
+   "id": "LA-H017-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Article 18"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Labeling\nGoods which are manufactured, imported and distributed by licensed suppliers\nmust be labelled in Lao language, particularly for goods that have potential risks to\nlife, health and the safety of consumers."
+   }
+  },
+  {
+   "id": "LA-H017-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Article 19"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Contents of Label\nLabel of goods must include the following main contents:\n\n\n1. Type or category of goods;\n2. Registered trademark of manufacturer or of importer for the distribution of\nsuch products;\n3. Place of manufacturing or address of the distributing importer, , the name of\nthe manufacturing country;\n4. Price, amount, quantity, quality, volume, components, instructions manual,\nwarning, date of manufacturing and expiry date."
+   }
+  },
+  {
+   "id": "LA-H017-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Article 20"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Editing the Contents of Label\nIf it is deemed that any goods is not labelled or the contents of label is\nincorrect and insufficient in accordance with the usefulness and characteristic of such\ngoods, the relevant consumer protection Officials must inform the supplier to suspend\nthe importation, distribution of such goods in order to make the correction of the\ncontents of label prior to continuation of importation and distribution."
+   }
+  },
+  {
+   "id": "LA-H017-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Article 21"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Contract\n For the business operation on any type of goods and services, the suppliers\nand the consumers must sign a contract in accordance with the Law on Obligation\nunder the Contract and outside the Contract and must execute the contracts accurately,\nfully and in timely manner.\nPart III\nThe Implementation of Consumer Protection Affairs\nChapter 1\nGovernmental Implementing Organizations for Consumer Protection"
+   }
+  },
+  {
+   "id": "LA-H017-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Article 22"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Consumer Protection Implementing Organization\nThe Governmental Implementing Organizations for Consumer Protection from\ncentral to local levels comprise of the key sectors as follows:\n Industry and Commerce Sector;\n Public Health Sector;\n Forestry and Agriculture Sector;\n Science and Technology Sector.\n\nThe organizational structure and personnel of the Governmental Implementing\nOrganizations for Consumer Protection shall be determined in other specific\nregulations."
+   }
+  },
+  {
+   "id": "LA-H017-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Article 23"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Industry and Commerce Sector\nFor the implementation of consumer protection affairs, the industry and\ncommerce sector shall have the centralized role in coordinating with the relevant\nauthorities and shall focus and take whole responsibility on industrial and commercial\nfields which relating to the manufacturing, the marketing, the price and the services\nincluding other fields that are not falling under the responsibilities of any other\nsectors."
+   }
+  },
+  {
+   "id": "LA-H017-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Article 24"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Public Health Sector\nFor the implementation of consumer protection affairs, the public health sector\nshall focus and take whole responsibility on public health fields which relating to\nfoods and drugs, medical equipment and health care services."
+   }
+  },
+  {
+   "id": "LA-H017-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Article 25"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Forestry and Agriculture Sector\nFor the implementation of consumer protection affairs, the forestry and\nagriculture sector shall focus and take whole responsibility on the forestry and\nagriculture fields which relating to processing of agricultural production, fertilizers,\nchemical substances used in agriculture, insecticide, animal drugs, animal feed,\nagricultural products, seeds, animal species, agricultural tools and machinery."
+   }
+  },
+  {
+   "id": "LA-H017-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Article 26"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Science and Technology Sector\nFor the implementation of consumer protection affairs, the science and\ntechnology sector shall focus and take whole responsibility on science, technology,\nquality, standard, measurement, weight, and intellectual property fields."
+   }
+  },
+  {
+   "id": "LA-H017-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Article 27"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Rights and Duties of the Consumer Protection Implementing\nOrganizations\nThe Consumer Protection Implementing Organizations shall have the main\nrights and duties as following:\n1. To execute policies and regulations on consumer protection accordingly\nand strictly;\n2. To settle the disputes between consumers and suppliers, provide\ncounselling on legal matters concerning consumer protection;\n3. To examine contents and forms of advertising, labelling, packaging,\nmeasurement and price on goods that manufactured, imported, and mainly distributed\nin the markets;\n4. To examine the certification of quality, standards of goods and services,\nenterprise registrations and other relevant documents on  goods and services;\n\n\n5. To collect samples of products or goods or other materials used for\nmanufacturing, trading, services and other objects for examination purpose;\n6. To seize or sequester goods, containers or packaging of goods, label or\nother incorrect documents, as well as making the record as evidence for further legal\nproceeding;\n7. To inspect the places, the buildings, the houses which relating to the\nproduction, the processing or the improvement of the products and goods, the\ndistributing places, shops, stores and services places;\n8. To interview individuals, representatives, legal entities or organizations\nabout quality, standards of goods and services and the environment;\n9. To propose or to withdraw certificates, enterprise registration or any\nrelevant documents related to goods and services if it is deemed violation of laws\nunder its own responsibility;\n10. To coordinate with each other’s, with relevant organisations, with local\nadministrations at all levels for the implementation of consumer protection affairs;\n11. To communicate, cooperate with foreign countries on consumer protection\naffairs as assigned by supervisory level;\n12. To summarize, evaluate and report the implementation of consumer\nprotection affairs to supervisory level regularly."
+   }
+  },
+  {
+   "id": "LA-H017-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Article 28"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Other Sectors\nFor the implementation of consumer protection affairs, the other sectors shall\ntake responsibilities for conducting consumer protection affairs  in accordance with its\nown roles, rights and duties."
+   }
+  },
+  {
+   "id": "LA-H017-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Article 29"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Consumer Protection Officials\nConsumer protection Officials are government officials which are appointed\nby the relevant ministers.\nThe qualification, rights and duties of consumer protection officials shall be\ndetermined in other specific regulations.\n\nChapter 2\nConsumer Protection Association"
+   }
+  },
+  {
+   "id": "LA-H017-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Article 30"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Status and Roles of the Association\nThe Consumer Protection Association is a non-profit social organization\nestablished in accordance with the laws and regulations; it has the roles to assist, to\nprovide consultation and advices, and to protect legitimate rights and interests of\nconsumers.\n\n\nOrganizational structure and activities of the Consumer Protection Association\nshall be determined in other specific regulations."
+   }
+  },
+  {
+   "id": "LA-H017-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Article 31"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Rights and Obligations of the Association\nThe Consumer Protection Association shall have the following rights and\nduties:\n1. To receive, study, consider the proposals from the consumers and organize\nthe mediation for consumers and suppliers in accordance with regulations and laws;\n2. To be a representative for consumers in settlement of disputes and sue the\nsuppliers;\n3. To put the proposal to the Governmental Implementing Organizations for\nConsumer Protection on the violation of suppliers against the laws and regulations;\n4. To present about impropriate acts of consumer protection Officials to the\nGovernmental Implementing Organizations for Consumer Protection;\n5. To provide comments to the Governmental Implementing Organizations for\nConsumer Protection about the measures and the development of legislations related\nto consumer protection;\n6. To provide advice, to assist the consumers when the consumers have\nproblems from the consumption of goods and services and ensure the transparency\nand fairness when represented during the mediation.\n7. To perform other rights and duties in accordance with laws and regulations\nas assigned by relevant governmental bodies.\n\nPart IV\nRights and Obligations of the Consumers and the Suppliers\nChapter 1\nRights and Obligations of the Consumers"
+   }
+  },
+  {
+   "id": "LA-H017-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Article 32"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Rights of the Consumers\nConsumers shall have the main rights as following:\n1. To choose and to make decision whether to buy goods or services at its own\nwill;\n2. To know precise information and advisory about the quality, the price, the\nplace of manufacture, the producer, usage or user manual special feature, ingredients,\ndate of manufacture and expiry date, certificate of product, after sales services and\nother necessary information;\n3. To receive the safety relating to life, health and properties when consuming\nthe goods and services;\n\n\n4. To request or to claim for compensation on the damaged occurred from the\nconsumption of goods and services with poor quality and non-standard  which having\nnegative impacts on their life, heath, and properties;\n5. To present to the Consumer Protection Implementing Organization on the\nproduction activities, business and services which violating laws and regulations, such\nas counterfeiting goods, creating environmental affects that exceed the defined\nstandards."
+   }
+  },
+  {
+   "id": "LA-H017-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Article 33"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Obligations of the Consumers\n\n\nConsumers shall have the main obligations as following:\n\n1. To make the payment for goods and services in Lao currency;\n2. To use the goods and services in accordance with the instructions or user\nmanuals properly;\n3. To provide information on poor quality and non-standards of goods and\nservices to relevant officials.\n\nChapter 2\nRights and Obligations of the Suppliers"
+   }
+  },
+  {
+   "id": "LA-H017-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "Article 34"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Rights of the Suppliers\nSuppliers shall have the main rights as following:\n1. To operate the production, the trading, the distribution and the services in\naccordance with laws and regulations;\n2. To determine, to show the price of goods and services in Lao currency;\n3. To advertise about the quality of goods and services precisely, based on\nthe truth;\n4. To lodge complaints, proposal on consumer protection activities and the\ninfringement of reserved rights of the goods and services to the relevant Consumer\nProtection Implementing Organization."
+   }
+  },
+  {
+   "id": "LA-H017-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "Article 35"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Obligations of the Suppliers\nSuppliers shall have the main obligations as following:\n1. To ensure quality, standards of goods and services as stipulated in relevant\nlaws and regulations;\n2. To ensure that the manufacturing, the importations, the distributions of\ngoods and services were not causing the environmental effects that exceed the defined\nstandards;\n3. To provide precise and based on the truth information concerning the\nproduction, the importations, the distributions of goods and services to the consumers;\n\n\n4. To take responsibility for the damages occurred due to the supply of lower\nquality and non-standards of products, goods and services;\n5. To strictly follow the terms under the contracts with the consumers and to\nlabel goods in accordance with regulations;\n6. To provide cooperation and information about their own goods and services\nto relevant officials.\n\nPart V\nThe Settlement of Disputes between the Consumers and the Suppliers\nChapter 1\nSettlement of Disputes"
+   }
+  },
+  {
+   "id": "LA-H017-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "Article 36"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Principles for the Settlement of Disputes\nThe settlement of disputes must comply with the following principles:\n- Accuracy and alignment with the laws and regulations;\n- Equality;\n- Transparency and fairness;\n- Speediness."
+   }
+  },
+  {
+   "id": "LA-H017-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "Article 37"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Methods for the Settlement of Disputes\nDisputes concerning consumer protection can be settled through the following\nmethodologies:\n1. Compromise;\n2. Mediation;\n3. Administrative remedy by the Consumer Protection Implementing\nOrganization;\n4. Settlement by the Organization of Economic Dispute Settlement or by the\nPeople’s Courts.\nIn the settlement of disputes relating to consumer protection, the disputants\nshall have the rights to choose any methodology of settlement based on the\nsatisfaction of both sides.\n\nChapter 2\nCompromise"
+   }
+  },
+  {
+   "id": "LA-H017-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "Article 38"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Compromise\nIn case of a dispute occurred between consumers and suppliers, the disputants\nshall endeavour to resolve that dispute through consultations and compromises in\naccordance with the following steps:\n1. When their rights and interests have been violated, damaged due to\nconsumption of goods and services, the consumers shall have the rights to complaint\nor request for compensation directly from the suppliers, as well as the individuals or\nlegal entities who obtained such goods and services from the suppliers;\n2. The suppliers shall response to the complaint or requests from the\nconsumers no later than three days after receipt such complaint or requests;\n3. The suppliers shall solve the issue within appropriate period of time but not\nlater than seven days from the date of response;\n4. The consumers shall have the rights to use other methodology of settlement\nwhen the compromise failed."
+   }
+  },
+  {
+   "id": "LA-H017-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "Article 39"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Record of the Compromise\n\nThe consumers and the suppliers must make a record of compromise in\nwriting, unless both sides reach agreement in other means.\n\nEach side shall have the obligations to comply with the record or agreement of\nsuch compromise.\n\nChapter 3\nMediation"
+   }
+  },
+  {
+   "id": "LA-H017-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "Article 40"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Mediation\nIn case of a dispute occurred between consumers and suppliers, the disputants\nshall have the rights to propose as following:\n1. To choose an individual or legal entity which is accepted by both sides to\nconduct the mediation;\n2. To mediate in accordance with laws and regulations."
+   }
+  },
+  {
+   "id": "LA-H017-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "Article 41"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Principles of Mediation\nThe Mediation should be carrying on in accordance with the following\nprinciples:\n1. Equality, transparency, subjective, fairness, without coercion and without\ndeception;\n2. Un-revelation and insurance of confidentiality of information of each sides,\nunless both sides reached the agreement for revealing or stipulated in other means by\nlaws;\n\n\n3. No mediation of dispute that against the laws."
+   }
+  },
+  {
+   "id": "LA-H017-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "Article 42"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Mediation Units\nThe Governmental Implementing Organizations for Consumer Protection shall\nestablish its mediation units which comprise of one to three officials; those officials\nshall have duties to mediate disputes between consumers and suppliers within their\nresponsibilities.\nThe Consumer Protection Association can also conduct mediation based on\nthe agreement between the consumers and the suppliers."
+   }
+  },
+  {
+   "id": "LA-H017-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "Article 43"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Timeframes for the Mediation\nThe mediation shall be taken according to the following time period:\n1. Mediation units must issue the notification to both sides within seven days\nafter receiving a request for mediation in order to conduct mediation;\n2. Duration of mediation shall be determined based on the agreement from\nboth sides but no later than one month after issuing the notification for the mediation;\n3. Disputant shall have the rights to withdraw from mediation at any time, but\nnotice must be made available in written form to the mediation units."
+   }
+  },
+  {
+   "id": "LA-H017-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "Article 44"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Contents of Mediation Record\nThere must be a record of mediation with the following substantive contents:\n1. Names and Surnames of the disputants;\n2. The issue to be mediated;\n3. Name and Surname(s) of mediator(s) and all participants;\n4. Date and place of mediation;\n5. Outcomes of the mediation;\n6. Timeframe for the implementation of mediation record;\n7. Signatures and fingerprints of disputants;\n8. Signature (s) of mediator (s)."
+   }
+  },
+  {
    "id": "LA-H017-A45",
    "no": 45,
    "noLabel": {
-    "lo": "第 45 条"
+    "en": "Article 45"
    },
-   "heading": {
-    "lo": "The Implementation of Mediation Record"
-   },
+   "chapter": {},
+   "heading": {},
    "text": {
-    "lo": "Mediation record must be implemented as follows:\n1. Disputants must voluntarily implement a mediation record, except in case there is an appeal to cancel such record with sufficient reasons;\n2. In case one disputant does not voluntarily implement the mediation record without reasons, another disputant shall have the rights to propose to the Consumer Protection Implementing Organization for consideration.\nUnofficial Translation  18"
-   },
-   "chapter": {
-    "zh": "Chapter 4 Administrative Remedy by the Consumer Protection Implementing Organization"
+    "en": "The Implementation of Mediation Record\nMediation record must be implemented as follows:\n1. Disputants must voluntarily implement a mediation record, except in case\nthere is an appeal to cancel such record with sufficient reasons;\n2. In case one disputant does not voluntarily implement the mediation record\nwithout reasons, another disputant shall have the rights to propose to the Consumer\nProtection Implementing Organization for consideration."
    }
   },
   {
    "id": "LA-H017-A46",
    "no": 46,
    "noLabel": {
-    "lo": "第 46 条"
+    "en": "Article 46"
    },
-   "heading": {
-    "lo": "Procedure for the Implementation of Mediation Record"
-   },
+   "chapter": {},
+   "heading": {},
    "text": {
-    "lo": "The procedure for the implementation of mediation record is as follows:\n1. The mediation units must send the mediation record to the relevant Consumer Protection Implementing Organization within three working days;\n2. The relevant  Governmental Implementing Organiza tions for  Consumer Protection must give a notice and remind each side to implement such mediation record within five working days after received the mediation record;\n3. In case of the disputant who has obligations to implement the mediation record refused to  do so , the C onsumer Protection Implementing Organization shall have the rights to propose to a competent authority for impose any measure in accordance with the laws and regulations."
-   },
-   "chapter": {
-    "zh": "Chapter 4 Administrative Remedy by the Consumer Protection Implementing Organization"
+    "en": "Procedure for the Implementation of Mediation Record\nThe procedure for the implementation of mediation record is as follows:\n1. The mediation units must send the mediation record to the relevant\nConsumer Protection Implementing Organization within three working days;\n2. The relevant Governmental Implementing Organizations for Consumer\nProtection must give a notice and remind each side to implement such mediation\nrecord within five working days after received the mediation record;\n3. In case of the disputant who has obligations to implement the mediation\nrecord refused to do so, the Consumer Protection Implementing Organization shall\nhave the rights to propose to a competent authority for impose any measure in\naccordance with the laws and regulations."
    }
   },
   {
    "id": "LA-H017-A47",
    "no": 47,
    "noLabel": {
-    "lo": "第 47 条"
+    "en": "Article 47"
    },
-   "heading": {
-    "lo": "The request for ccancellation of Mediation Record"
-   },
+   "chapter": {},
+   "heading": {},
    "text": {
-    "lo": "In case a disputant found that  the mediation were violated the mediation principles stipulated in article 41 of this Law and created the loss of benefits to that disputant, this disputant  shall have the  rights to request for cancellation of the mediation record to relevant Consumer Protection Implementing Organization.\nWithin five days after receiv ed the request for cancellation of mediation record, the C onsumer Protection Implementing Organization must issue the notification Note of the  cancelation or no-cancelation of  the mediation record and provide explanation to both sides. .\nChapter 4 Administrative Remedy by the Consumer Protection Implementing Organization"
-   },
-   "chapter": {
-    "zh": "Chapter 4 Administrative Remedy by the Consumer Protection Implementing Organization"
+    "en": "The request for ccancellation of Mediation Record\nIn case a disputant found that the mediation were violated the mediation\nprinciples stipulated in article 41 of this Law and created the loss of benefits to that\ndisputant, this disputant shall have the rights to request for cancellation of the\nmediation record to relevant Consumer Protection Implementing Organization.\nWithin five days after received the request for cancellation of mediation\nrecord, the Consumer Protection Implementing Organization must issue the\nnotification Note of the cancelation or no-cancelation of the mediation record and\nprovide explanation to both sides. .\n\nChapter 4\nAdministrative Remedy by the Consumer Protection Implementing Organization"
    }
   },
   {
    "id": "LA-H017-A48",
    "no": 48,
    "noLabel": {
-    "lo": "第 48 条"
+    "en": "Article 48"
    },
-   "heading": {
-    "lo": "Administrative Remedy"
-   },
+   "chapter": {},
+   "heading": {},
    "text": {
-    "lo": "When there is a dispute between consumers and suppliers, the disputants shall have the rights to request the  Consumer Protection Implementing Organization or relevant sectors to consider settlement of dispute through the administrative remedy in accordance with regulations."
-   },
-   "chapter": {
-    "zh": "Chapter 4 Administrative Remedy by the Consumer Protection Implementing Organization"
+    "en": "Administrative Remedy\nWhen there is a dispute between consumers and suppliers, the disputants shall\nhave the rights to request the Consumer Protection Implementing Organization or\nrelevant sectors to consider settlement of dispute through the administrative remedy in\naccordance with regulations."
    }
   },
   {
    "id": "LA-H017-A49",
    "no": 49,
    "noLabel": {
-    "lo": "第 49 条"
+    "en": "Article 49"
    },
-   "heading": {
-    "lo": "The Submission of Complaints Application"
-   },
+   "chapter": {},
+   "heading": {},
    "text": {
-    "lo": "The submission of complaints application shall be undertaken as following:\n1. The consumers can submit their complaints application to the   Consumer Protection Implementing Organization within their locations;\n2. The consumers has the obligation to provide documents, evidence s as follows:\n- Evidence of purchasing-selling with the suppliers;\nUnofficial Translation  19 - Evidence of behaviour of suppliers concerning the  violating of the contracts.\nSuppliers who are facing the damages also have  the rights to submit complaints application."
-   },
-   "chapter": {
-    "zh": "Chapter 4 Administrative Remedy by the Consumer Protection Implementing Organization"
+    "en": "The Submission of Complaints Application\nThe submission of complaints application shall be undertaken as following:\n1. The consumers can submit their complaints application to the  Consumer\nProtection Implementing Organization within their locations;\n2. The consumers has the obligation to provide documents, evidences as\nfollows:\n- Evidence of purchasing-selling with the suppliers;\n\n\n- Evidence of behaviour of suppliers concerning the violating of the\ncontracts.\n\nSuppliers who are facing the damages also have the rights to submit\ncomplaints application."
    }
   },
   {
    "id": "LA-H017-A50",
    "no": 50,
    "noLabel": {
-    "lo": "第 50 条"
+    "en": "Article 50"
    },
-   "heading": {
-    "lo": "Timeframes for Addressing the Complaints of Consumers"
-   },
+   "chapter": {},
+   "heading": {},
    "text": {
-    "lo": "Timeframe for addressing the complaints of consumers are as follows:\n1.  Within ten working days after received the complaints from the consumers, the Consumer Protection Implementing Organization must invite the suppliers to the office for explanation and clarification to the complaints of consumers.;\n2. The suppliers must clarify such complaints no later than seven days after received the invitation from the Consumer Protection Implementing Organization.\n3. The Consumer Protection Implementing Organization must issue a decision to solve the  complaints no later than thirty days after receiving the clarification from the suppliers;\n4. If necessary the Consumer Protection Implementing Organization may invite the  disputants to office for further clarification or invite relevant sectors or experts to participate in solving of the dispute."
-   },
-   "chapter": {
-    "zh": "Chapter 4 Administrative Remedy by the Consumer Protection Implementing Organization"
+    "en": "Timeframes for Addressing the Complaints of Consumers\nTimeframe for addressing the complaints of consumers are as follows:\n1.  Within ten working days after received the complaints from the consumers,\nthe Consumer Protection Implementing Organization must invite the suppliers to the\noffice for explanation and clarification to the complaints of consumers.;\n2. The suppliers must clarify such complaints no later than seven days after\nreceived the invitation from the Consumer Protection Implementing Organization.\n3. The Consumer Protection Implementing Organization must issue a\ndecision to solve the complaints no later than thirty days after receiving the\nclarification from the suppliers;\n4. If necessary the Consumer Protection Implementing Organization may\ninvite the disputants to office for further clarification or invite relevant sectors or\nexperts to participate in solving of the dispute."
    }
   },
   {
    "id": "LA-H017-A51",
    "no": 51,
    "noLabel": {
-    "lo": "第 51 条"
+    "en": "Article 51"
    },
-   "heading": {
-    "lo": "Scope of Rights to Solve the Complaints Application"
-   },
+   "chapter": {},
+   "heading": {},
    "text": {
-    "lo": "The Consumer Protection Implementing Organization shall have the rights to considering and solving the complaints application as follows:\n1. The Consumer Protection Implementing Organization at district level shall have the rights to consider and solve the  complaint on goods and services with total values below one hundred million kip;\n2. The Consumer Protection Implementing Organization at provincial level shall have the rights to consider and solve the complaint on goods and services with total values above one hundred million kip."
-   },
-   "chapter": {
-    "zh": "Chapter 4 Administrative Remedy by the Consumer Protection Implementing Organization"
+    "en": "Scope of Rights to Solve the Complaints Application\nThe Consumer Protection Implementing Organization shall have the rights to\nconsidering and solving the complaints application as follows:\n1. The Consumer Protection Implementing Organization at district level shall\nhave the rights to consider and solve the complaint on goods and services with total\nvalues below one hundred million kip;\n2. The Consumer Protection Implementing Organization at provincial level\nshall have the rights to consider and solve the complaint on goods and services with\ntotal values above one hundred million kip."
    }
   },
   {
    "id": "LA-H017-A52",
    "no": 52,
    "noLabel": {
-    "lo": "第 52 条"
+    "en": "Article 52"
    },
-   "heading": {
-    "lo": "The Content of Decision for Addressing the Complaint"
-   },
+   "chapter": {},
+   "heading": {},
    "text": {
-    "lo": "The content of decision for addressing the complaint, in case the supplier is violator, , shall include the followings:\n1. The suppliers shall perform their obligations toward the consumers in accordance with the contract;\n2. The suppliers shall compensate for the consumers;\n3. The suppliers shall remedy those impacts on consumers  in case of violation.\nThe decision for addressing the complaint of consumers, in case supplier was not a violator, shall be terminated with reasonable clarification.\nUnofficial Translation  20 The decision for addressing the  complaint of supplier shall also follow  the above-mentioned principles.\nChapter 5 Settlement of Disputes by the Organization of Economic Disputes Settlement or by the People’s Courts"
-   },
-   "chapter": {
-    "zh": "Chapter 5 Settlement of Disputes by the Organization of Economic Disputes Settlement or b"
+    "en": "The Content of Decision for Addressing the Complaint\n The content of decision for addressing the complaint, in case the supplier is\nviolator, , shall include the followings:\n1. The suppliers shall perform their obligations toward the consumers in\naccordance with the contract;\n2. The suppliers shall compensate for the consumers;\n3. The suppliers shall remedy those impacts on consumers in case of\nviolation.\n\n\n\nThe decision for addressing the complaint of consumers, in case supplier was\nnot a violator, shall be terminated with reasonable clarification.\n\n\n\nThe decision for addressing the complaint of supplier shall also follow the\nabove-mentioned principles.\n\nChapter 5\nSettlement of Disputes by the Organization of Economic Disputes Settlement or\nby the People’s Courts"
    }
   },
   {
    "id": "LA-H017-A53",
    "no": 53,
    "noLabel": {
-    "lo": "第 53 条"
+    "en": "Article 53"
    },
+   "chapter": {},
+   "heading": {},
    "text": {
-    "lo": "Settlement of Disputes by the Organization of Economic Disputes Settlement When there is a dispute between consumer and supplier, the  disputants shall have the rights to request to the Organization of Economic Disputes Settlement to resolve the dispute in accordance with laws and regulations."
-   },
-   "chapter": {
-    "zh": "Chapter 5 Settlement of Disputes by the Organization of Economic Disputes Settlement or b"
+    "en": "Settlement of Disputes by the Organization of Economic Disputes\nSettlement\nWhen there is a dispute between consumer and supplier, the disputants shall\nhave the rights to request to the Organization of Economic Disputes Settlement to\nresolve the dispute in accordance with laws and regulations."
    }
   },
   {
    "id": "LA-H017-A54",
    "no": 54,
    "noLabel": {
-    "lo": "第 54 条"
+    "en": "Article 54"
    },
-   "heading": {
-    "lo": "Settlement of Disputes by the People’s Courts"
-   },
+   "chapter": {},
+   "heading": {},
    "text": {
-    "lo": "When there is a dispute between consumer and supplier, the disputants shall have the rights to bring a legal action to the People’s Court for consideration in accordance with laws and regulations."
-   },
-   "chapter": {
-    "zh": "Chapter 5 Settlement of Disputes by the Organization of Economic Disputes Settlement or b"
+    "en": "Settlement of Disputes by the People’s Courts\nWhen there is a dispute between consumer and supplier, the disputants shall\nhave the rights to bring a legal action to the People’s Court for consideration in\naccordance with laws and regulations."
    }
   },
   {
    "id": "LA-H017-A55",
    "no": 55,
    "noLabel": {
-    "lo": "第 55 条"
+    "en": "Article 55"
    },
-   "heading": {
-    "lo": "Settlement of Disputes Related to International Laws"
-   },
+   "chapter": {},
+   "heading": {},
    "text": {
-    "lo": "The disputes on consumer protection which related to international laws shall be settled in accordance with laws of Lao PDR or international agreements and treaties which Lao PDR is a party to.\nPart VI\nProhibitions"
-   },
-   "chapter": {
-    "zh": "Chapter 5 Settlement of Disputes by the Organization of Economic Disputes Settlement or b"
+    "en": "Settlement of Disputes Related to International Laws\nThe disputes on consumer protection which related to international laws shall\nbe settled in accordance with laws of Lao PDR or international agreements and\ntreaties which Lao PDR is a party to.\n\nPart VI\nProhibitions"
    }
   },
   {
    "id": "LA-H017-A56",
    "no": 56,
    "noLabel": {
-    "lo": "第 56 条"
+    "en": "Article 56"
    },
-   "heading": {
-    "lo": "Prohibitions for Officials or Staffs"
-   },
+   "chapter": {},
+   "heading": {},
    "text": {
-    "lo": "Officials or staffs are prohibited to act as follows:\n1. Perform their duties unfairly, bias edly, illegally  with consumers or suppliers;\n2. Abuse of their positions, powers, and functions for their own benefits, take bribes related to consumer protection affairs;\n3. Falsify or use falsified documents, disclose confidentiality, hold back, delay or destroy documents related to  goods and services;\n4. Perform any other practice which contradicting the laws related to consumer protection.\nUnofficial Translation  21"
-   },
-   "chapter": {
-    "zh": "Chapter 5 Settlement of Disputes by the Organization of Economic Disputes Settlement or b"
+    "en": "Prohibitions for Officials or Staffs\nOfficials or staffs are prohibited to act as follows:\n1. Perform their duties unfairly, biasedly, illegally with consumers or\nsuppliers;\n2. Abuse of their positions, powers, and functions for their own benefits, take\nbribes related to consumer protection affairs;\n3. Falsify or use falsified documents, disclose confidentiality, hold back, delay\nor destroy documents related to  goods and services;\n4. Perform any other practice which contradicting the laws related to\nconsumer protection."
    }
   },
   {
    "id": "LA-H017-A57",
    "no": 57,
    "noLabel": {
-    "lo": "第 57 条"
+    "en": "Article 57"
    },
-   "heading": {
-    "lo": "Prohibitions for the Consumers"
-   },
+   "chapter": {},
+   "heading": {},
    "text": {
-    "lo": "Consumers are prohibited to act as follows:\n1. Promote unqualified and non-standardized goods or services;\n2. Advertise in which d iscredit the goods and services or  commit any act causing the damage to suppliers;\n3. Execute the contracts toward the suppliers improperly and partially;\n4. Ignore the violations of laws of Officials, staffs or suppliers;\n5. Utilize goods and services that are harmful to environment , violate the laws and regulations , traditional culture , caused harmful to life, heath, and propert ies of other persons and society;\n6. Use foreign currencies to pay for goods and services without permission;\n7. Perform any practice contradicting with the laws related to consumer protection."
-   },
-   "chapter": {
-    "zh": "Chapter 5 Settlement of Disputes by the Organization of Economic Disputes Settlement or b"
+    "en": "Prohibitions for the Consumers\nConsumers are prohibited to act as follows:\n1. Promote unqualified and non-standardized goods or services;\n2. Advertise in which discredit the goods and services or  commit any act\ncausing the damage to suppliers;\n3. Execute the contracts toward the suppliers improperly and partially;\n4. Ignore the violations of laws of Officials, staffs or suppliers;\n5. Utilize goods and services that are harmful to environment, violate the laws\nand regulations, traditional culture, caused harmful to life, heath, and properties of\nother persons and society;\n6. Use foreign currencies to pay for goods and services without permission;\n7. Perform any practice contradicting with the laws related to consumer\nprotection."
    }
   },
   {
    "id": "LA-H017-A58",
    "no": 58,
    "noLabel": {
-    "lo": "第 58 条"
+    "en": "Article 58"
    },
-   "heading": {
-    "lo": "Prohibitions for the Suppliers"
-   },
+   "chapter": {},
+   "heading": {},
    "text": {
-    "lo": "Suppliers are prohibited to act as follows:\n1. Manufacture, import, distribute u nqualified and non -standardized, counterfeit, copied and prohibited goods;\n2. Provide unqualified and non -standardized services and violate laws and regulations and the traditional culture;\n3. Execute the contract toward the consumers improperly and partially;\n4. Supply goods which causing pollutions that exceed the defined standards, causing harmful to life, health, and properties of consumers;\n5. Advertise or provide untrue or over-claimed information on goods and services;\n6. Falsify or use falsified documents on goods and services;\n7. Misdirect, deceive, offer bribes due to illegal supplying of goods and services;\n8. Attaches, display price and receive payments  for goods and services in foreign currencies;\n9. Perform any practice contradicting with the laws related to consumer protection."
-   },
-   "chapter": {
-    "zh": "Chapter 5 Settlement of Disputes by the Organization of Economic Disputes Settlement or b"
+    "en": "Prohibitions for the Suppliers\nSuppliers are prohibited to act as follows:\n1. Manufacture,\nimport,\ndistribute\nunqualified\nand\nnon-standardized,\ncounterfeit, copied and prohibited goods;\n2. Provide unqualified and non-standardized services and violate laws and\nregulations and the traditional culture;\n3. Execute the contract toward the consumers improperly and partially;\n4. Supply goods which causing pollutions that exceed the defined standards,\ncausing harmful to life, health, and properties of consumers;\n5. Advertise or provide untrue or over-claimed information on goods and\nservices;\n6. Falsify or use falsified documents on goods and services;\n7. Misdirect, deceive, offer bribes due to illegal supplying of goods and\nservices;\n8. Attaches, display price and receive payments for goods and services in\nforeign currencies;\n9. Perform any practice contradicting with the laws related to consumer\nprotection."
    }
   },
   {
    "id": "LA-H017-A59",
    "no": 59,
    "noLabel": {
-    "lo": "第 59 条"
+    "en": "Article 59"
    },
-   "heading": {
-    "lo": "Prohibitions for Individuals and other Organizations"
-   },
+   "chapter": {},
+   "heading": {},
    "text": {
-    "lo": "Individuals and other organizations are prohibited to act as follows:\n1. Create obstacles, intervene the activities of suppliers while conducting consumer protection activities;\n2. Advertise incorrect information about quality, standard s of goods and services which causing other people misunderstanding or discrediting the suppliers;\n3. Assist, protect the supplier who violated the laws and regulations;\nUnofficial Translation  22\n4. Abuse, frighten, create obstacles toward the performance of consumer protection officials;\n5. Be intermediaries for offering and taking of bribes related to consumer protection;\n6. Perform any practice contradicting with the laws related to consumer protection.\nPart VII\nAdministration and Inspection of Consumer Protection Affairs\nChapter 1 Administration of Consumer Protection Affairs"
-   },
-   "chapter": {
-    "zh": "Chapter 1 Administration of Consumer Protection Affairs"
+    "en": "Prohibitions for Individuals and other Organizations\nIndividuals and other organizations are prohibited to act as follows:\n1. Create obstacles, intervene the activities of suppliers while conducting\nconsumer protection activities;\n2. Advertise incorrect information about quality, standards of goods and\nservices which causing other people misunderstanding or discrediting the suppliers;\n3. Assist, protect the supplier who violated the laws and regulations;\n\n\n4. Abuse, frighten, create obstacles toward the performance of consumer\nprotection officials;\n5. Be intermediaries for offering and taking of bribes related to consumer\nprotection;\n6. Perform any practice contradicting with the laws related to consumer\nprotection.\n\nPart VII\nAdministration and Inspection of Consumer Protection Affairs\nChapter 1\nAdministration of Consumer Protection Affairs"
    }
   },
   {
    "id": "LA-H017-A60",
    "no": 60,
    "noLabel": {
-    "lo": "第 60 条"
+    "en": "Article 60"
    },
-   "heading": {
-    "lo": "Consumer Protection Administrating Organization"
-   },
+   "chapter": {},
+   "heading": {},
    "text": {
-    "lo": "The Government shall administer consumer protection affairs centrally and uniformly throughout the country, delegating the Ministry of Industry and Commerce to be the central body in coordinating with the Ministry of Public Health, the Ministry of Agriculture and Forestry, the National Science and Technology Authority, and other sectors as well as relevant local administration authorities.\nThe Consumer Protection Administrating Organization is the same  as Consumer Protection Implementing Organization as stipulated in article 22 of this Law."
-   },
-   "chapter": {
-    "zh": "Chapter 1 Administration of Consumer Protection Affairs"
+    "en": "Consumer Protection Administrating Organization\nThe Government shall administer consumer protection affairs centrally and\nuniformly throughout the country, delegating the Ministry of Industry and Commerce\nto be the central body in coordinating with the Ministry of Public Health, the Ministry\nof Agriculture and Forestry, the National Science and Technology Authority, and\nother sectors as well as relevant local administration authorities.\nThe Consumer Protection Administrating Organization is the same as\nConsumer Protection Implementing Organization as stipulated in article 22 of this\nLaw."
    }
   },
   {
    "id": "LA-H017-A61",
    "no": 61,
    "noLabel": {
-    "lo": "第 61 条"
+    "en": "Article 61"
    },
-   "heading": {
-    "lo": "Rights and Duties of the Consumer Protection Administrating"
-   },
+   "chapter": {},
+   "heading": {},
    "text": {
-    "lo": "Organization\nThe Consumer Protection Administrating Organization  shall have the main rights and duties as follows:\n1. Study the  policies, the laws and regula tions, the strategic plans and programmes relating to consumer protection affairs  propose to the Government for consideration;\n2. Advocate, disseminate  the policies, the laws and regulations, the strategic plans and programmes relating to consumer protection to society  within their responsibilities;\n3. Issue the decisions, the orders, the instructions and the notices relating to consumer protection works within their responsibilities;\n4. Coordinate with other relevant sectors and relevant local administration authorities in order to supervise and monitor the implementation of consumer protection works within their responsibilities;\n5. Suspend, change, and cancel the decisions, the orders, the instructions, the notices that are conflicting with laws and regulations relating to consumer protection within their rights and duties;\nUnofficial Translation  23\n6. Propose for the  establishment or withdraw and monitor , administer the activities of the Consumer Protection Association;\n7. Enhance capacity, maintain, improve the  knowledge, appoint or dismiss the consumer protection Officials within their sectors;\n8. Receive and resolve the  proposal from the people toward the performance of the consumer protection Officials who violating the laws and regulations;\n9. Coordinate and co operate with foreign countries on consumer protection affairs within their rights and duties;\n10. Summarize and report the results of the implementation of c onsumer protection affairs to supervisory levels regularly.\nChapter 2 Inspection of Consumer Protection Affairs"
-   },
-   "chapter": {
-    "zh": "Chapter 2 Inspection of Consumer Protection Affairs"
+    "en": "Rights and Duties of the Consumer Protection Administrating\nOrganization\nThe Consumer Protection Administrating Organization shall have the main\nrights and duties as follows:\n\n1. Study the policies, the laws and regulations, the strategic plans and\nprogrammes relating to consumer protection affairs  propose to the Government for\nconsideration;\n2. Advocate, disseminate  the policies, the laws and regulations, the strategic\nplans and programmes relating to consumer protection to society within their\nresponsibilities;\n3. Issue the decisions, the orders, the instructions and the notices relating\nto consumer protection works within their responsibilities;\n4. Coordinate with other relevant sectors and relevant local administration\nauthorities in order to supervise and monitor the implementation of consumer\nprotection works within their responsibilities;\n5. Suspend, change, and cancel the decisions, the orders, the instructions, the\nnotices that are conflicting with laws and regulations relating to consumer protection\nwithin their rights and duties;\n\n\n6. Propose for the establishment or withdraw and monitor, administer the\nactivities of the Consumer Protection Association;\n7. Enhance capacity, maintain, improve the knowledge, appoint or dismiss\nthe consumer protection Officials within their sectors;\n8. Receive and resolve the  proposal from the people toward the performance\nof the consumer protection Officials who violating the laws and regulations;\n9. Coordinate and cooperate with foreign countries on consumer protection\naffairs within their rights and duties;\n10. Summarize and report the results of the implementation of consumer\nprotection affairs to supervisory levels regularly.\n\nChapter 2\nInspection of Consumer Protection Affairs"
    }
   },
   {
    "id": "LA-H017-A62",
    "no": 62,
    "noLabel": {
-    "lo": "第 62 条"
+    "en": "Article 62"
    },
-   "heading": {
-    "lo": "Consumer Protection Inspecting Organization"
-   },
+   "chapter": {},
+   "heading": {},
    "text": {
-    "lo": "The Consumer Protection Inspecting Organization shall consist of:\n1. Internal inspection organization which is the same as the Consumer Protection Administrating Organization as stipulated in article 60 of this Law.\n2. External inspection organizations which are National Assembly , State Inspection Authority , and State  Audit Organization  who shall inspect the implementation of consumer protection affairs in accordance with their roles, rights and duties as stipulated in the laws and regulations."
-   },
-   "chapter": {
-    "zh": "Chapter 2 Inspection of Consumer Protection Affairs"
+    "en": "Consumer Protection Inspecting Organization\nThe Consumer Protection Inspecting Organization shall consist of:\n1. Internal inspection organization which is the same as the Consumer\nProtection Administrating Organization as stipulated in article 60 of this Law.\n2. External inspection organizations which are National Assembly, State\nInspection Authority, and State Audit Organization who shall inspect the\nimplementation of consumer protection affairs in accordance with their roles, rights\nand duties as stipulated in the laws and regulations."
    }
   },
   {
    "id": "LA-H017-A63",
    "no": 63,
    "noLabel": {
-    "lo": "第 63 条"
+    "en": "Article 63"
    },
-   "heading": {
-    "lo": "Contents of the Inspection"
-   },
+   "chapter": {},
+   "heading": {},
    "text": {
-    "lo": "The contents of consumer protection inspections shall include the following:\n1. The implementation of policies , laws and regulations on consumer protection;\n2. The organizational structure and the performance of  the Consumer Protection Organization;\n3. The performance, the responsibilities, the practices and the work plan  of consumer protection Officials."
-   },
-   "chapter": {
-    "zh": "Chapter 2 Inspection of Consumer Protection Affairs"
+    "en": "Contents of the Inspection\nThe contents of consumer protection inspections shall include the following:\n\n1. The implementation of policies, laws and regulations on consumer\nprotection;\n2. The organizational structure and the performance of  the Consumer\nProtection Organization;\n3. The performance, the responsibilities, the practices and the work plan of\nconsumer protection Officials."
    }
   },
   {
    "id": "LA-H017-A64",
    "no": 64,
    "noLabel": {
-    "lo": "第 64 条"
+    "en": "Article 64"
    },
-   "heading": {
-    "lo": "Types of the Inspection"
-   },
+   "chapter": {},
+   "heading": {},
    "text": {
-    "lo": "The consumer protection inspection shall conduct in three following types:\n1. Regular inspection;\n2. Inspection by advanced noticing;\n3. Dawn raids inspection.\nUnofficial Translation  24 Regular inspection refers to an inspection according to the plans and within specific timeframe which is at least twice a year.\nInspection by advance d noticing refers to an ad hoc inspection deemed as necessary and at least twenty-four hours in advance noticing is required.\nDawn raids inspection refers to an ad hoc inspection deemed as necessary and urgent, and advance noticing is not required.\nThe inspection shall conduct in both documentation and on field inspection.\nThe inspection shall be conducted  in accordance with laws and regulations strictly.\nPart VIII\nPolicies towards Persons with Outstanding Achievement and Measures against Violators"
-   },
-   "chapter": {
-    "zh": "Chapter 2 Inspection of Consumer Protection Affairs"
+    "en": "Types of the Inspection\nThe consumer protection inspection shall conduct in three following types:\n\n1. Regular inspection;\n2. Inspection by advanced noticing;\n3. Dawn raids inspection.\n\n\n\nRegular inspection refers to an inspection according to the plans and within\nspecific timeframe which is at least twice a year.\nInspection by advanced noticing refers to an ad hoc inspection deemed as\nnecessary and at least twenty-four hours in advance noticing is required.\nDawn raids inspection refers to an ad hoc inspection deemed as necessary and\nurgent, and advance noticing is not required.\nThe inspection shall conduct in both documentation and on field inspection.\nThe inspection shall be conducted in accordance with laws and regulations\nstrictly.\n\nPart VIII\nPolicies towards Persons with Outstanding Achievement\nand Measures against Violators"
    }
   },
   {
    "id": "LA-H017-A65",
    "no": 65,
    "noLabel": {
-    "lo": "第 65 条"
+    "en": "Article 65"
    },
-   "heading": {
-    "lo": "Policies toward Persons with Outstanding Achievement"
-   },
+   "chapter": {},
+   "heading": {},
    "text": {
-    "lo": "Individuals, legal entities or organizations with outstanding achievement in the enforcement of this Law  shall be praised or granted benefits according to laws and regulations."
-   },
-   "chapter": {
-    "zh": "Chapter 2 Inspection of Consumer Protection Affairs"
+    "en": "Policies toward Persons with Outstanding Achievement\nIndividuals, legal entities or organizations with outstanding achievement in the\nenforcement of this Law shall be praised or granted benefits according to laws and\nregulations."
    }
   },
   {
    "id": "LA-H017-A66",
    "no": 66,
    "noLabel": {
-    "lo": "第 66 条"
+    "en": "Article 66"
    },
-   "heading": {
-    "lo": "Measures against Violators"
-   },
+   "chapter": {},
+   "heading": {},
    "text": {
-    "lo": "Individuals, legal entities  or organizations violating law s or regulati ons on consumer protection shall be re-educated, disciplined, fined or punished depending on the seriousness of the violation."
-   },
-   "chapter": {
-    "zh": "Chapter 2 Inspection of Consumer Protection Affairs"
+    "en": "Measures against Violators\nIndividuals, legal entities or organizations violating laws or regulations on\nconsumer protection shall be re-educated, disciplined, fined or punished depending on\nthe seriousness of the violation."
    }
   },
   {
    "id": "LA-H017-A67",
    "no": 67,
    "noLabel": {
-    "lo": "第 67 条"
+    "en": "Article 67"
    },
-   "heading": {
-    "lo": "Re-education Measures"
-   },
+   "chapter": {},
+   "heading": {},
    "text": {
-    "lo": "Individuals, legal entities or organizations violating law s and regulations on consumer protection, particularly prohibition provisions  deemed as minor violation and as first violation, shall be warned and re-educated."
-   },
-   "chapter": {
-    "zh": "Chapter 2 Inspection of Consumer Protection Affairs"
+    "en": "Re-education Measures\nIndividuals, legal entities or organizations violating laws and regulations on\nconsumer protection, particularly prohibition provisions deemed as minor violation\nand as first violation, shall be warned and re-educated."
    }
   },
   {
    "id": "LA-H017-A68",
    "no": 68,
    "noLabel": {
-    "lo": "第 68 条"
+    "en": "Article 68"
    },
-   "heading": {
-    "lo": "Disciplinary Measures"
-   },
+   "chapter": {},
+   "heading": {},
    "text": {
-    "lo": "Government officials and consumer protection officials who violating laws and regulations on consumer protection and the prohibitions deemed as non-criminal offence and caus ed damage to consumers or suppliers  without precise reporting, hiding their offences shall be disciplined in case by case basis as follows:\n1. Be criticized, warned about the violation in accordance with regulations on civil servants and recorded such offence in their biographic records;\n2. Be suspended from the promotion, salary advancement and praise;\n3. Be demoted or reshuffled to other lower position;\n4. Be dismissed from civil servants without receiving any beneficial policy.\nUnofficial Translation  25 Disciplined persons must return all properties acquired illegally to the organization."
-   },
-   "chapter": {
-    "zh": "Chapter 2 Inspection of Consumer Protection Affairs"
+    "en": "Disciplinary Measures\nGovernment officials and consumer protection officials who violating laws\nand regulations on consumer protection and the prohibitions deemed as non-criminal\noffence and caused damage to consumers or suppliers without precise reporting,\nhiding their offences shall be disciplined in case by case basis as follows:\n1. Be criticized, warned about the violation in accordance with regulations on\ncivil servants and recorded such offence in their biographic records;\n2. Be suspended from the promotion, salary advancement and praise;\n3. Be demoted or reshuffled to other lower position;\n4. Be dismissed from civil servants without receiving any beneficial policy.\n\n\nDisciplined persons must return all properties acquired illegally to the\norganization."
    }
   },
   {
    "id": "LA-H017-A69",
    "no": 69,
    "noLabel": {
-    "lo": "第 69 条"
+    "en": "Article 69"
    },
-   "heading": {
-    "lo": "Fines Measures"
-   },
+   "chapter": {},
+   "heading": {},
    "text": {
-    "lo": "Individuals, legal entities or organizations who violating laws and regulations on consumer protection particularly the prohibitions deemed as non-criminal offence, after two times of warning , shall be fined in case by case basis which stipulated in specific regulations."
-   },
-   "chapter": {
-    "zh": "Chapter 2 Inspection of Consumer Protection Affairs"
+    "en": "Fines Measures\nIndividuals, legal entities or organizations who violating laws and regulations\non consumer protection particularly the prohibitions deemed as non-criminal offence,\nafter two times of warning, shall be fined in case by case basis which stipulated in\nspecific regulations."
    }
   },
   {
    "id": "LA-H017-A70",
    "no": 70,
    "noLabel": {
-    "lo": "第 70 条"
+    "en": "Article 70"
    },
-   "heading": {
-    "lo": "Civil Measures"
-   },
+   "chapter": {},
+   "heading": {},
    "text": {
-    "lo": "Individuals, legal entities or organizations who caused the damages to other persons from the production, importation, selling , distribution of goods and services which are unqualified  and non-standards shall compensate for the damages they caused."
-   },
-   "chapter": {
-    "zh": "Chapter 2 Inspection of Consumer Protection Affairs"
+    "en": "Civil Measures\nIndividuals, legal entities or organizations who caused the damages to other\npersons from the production, importation, selling, distribution of goods and services\nwhich are unqualified and non-standards shall compensate for the damages they\ncaused."
    }
   },
   {
    "id": "LA-H017-A71",
    "no": 71,
    "noLabel": {
-    "lo": "第 71 条"
+    "en": "Article 71"
    },
-   "heading": {
-    "lo": "Criminal Measures"
-   },
+   "chapter": {},
+   "heading": {},
    "text": {
-    "lo": "Individuals who forced, abused of their powers, position s, duties  to take or offer bribes, adjust ing weight scales or measurement equipment, falsifying documents, using falsified documents, disclos ing confidentiality for its own benefits, manufacturing, selling prohibited goods , distributing goods and services that create serious pollution to the environment, cause harmful to life, health, properties of other persons greatly, and other acts related to consumer protection which deemed as criminal offences shall be subject ed to punishments in accordance with the Penal Law."
-   },
-   "chapter": {
-    "zh": "Chapter 2 Inspection of Consumer Protection Affairs"
+    "en": "Criminal Measures\nIndividuals who forced, abused of their powers, positions, duties to take or\noffer bribes, adjusting weight scales or measurement equipment, falsifying\ndocuments, using falsified documents, disclosing confidentiality for its own benefits,\nmanufacturing, selling prohibited goods, distributing goods and services that create\nserious pollution to the environment, cause harmful to life, health, properties of other\npersons greatly, and other acts related to consumer protection which deemed as\ncriminal offences shall be subjected to punishments in accordance with the Penal\nLaw."
    }
   },
   {
    "id": "LA-H017-A72",
    "no": 72,
    "noLabel": {
-    "lo": "第 72 条"
+    "en": "Article 72"
    },
-   "heading": {
-    "lo": "Additional Penalty Measures"
-   },
+   "chapter": {},
+   "heading": {},
    "text": {
-    "lo": "In addition to the measu res as stipulated in articles 71 of this Law, the violators may be subject ed to additional penalty measures such as : suspension or withdrawal of Enterprise Registration Certificate , other documents, confiscate the materials or the profits gaining from the offences.\nPart IX\nFinal Provisions"
-   },
-   "chapter": {
-    "zh": "Chapter 2 Inspection of Consumer Protection Affairs"
+    "en": "Additional Penalty Measures\nIn addition to the measures as stipulated in articles 71 of this Law, the\nviolators may be subjected to additional penalty measures such as: suspension or\nwithdrawal of Enterprise Registration Certificate, other documents, confiscate the\nmaterials or the profits gaining from the offences.\n\nPart IX\nFinal Provisions"
    }
   },
   {
    "id": "LA-H017-A73",
    "no": 73,
    "noLabel": {
-    "lo": "第 73 条"
+    "en": "Article 73"
    },
-   "heading": {
-    "lo": "Implementation"
-   },
+   "chapter": {},
+   "heading": {},
    "text": {
-    "lo": "The Government of the Lao People's Democratic Republic shall implement this Law.\nUnofficial Translation  26"
-   },
-   "chapter": {
-    "zh": "Chapter 2 Inspection of Consumer Protection Affairs"
+    "en": "Implementation\nThe Government of the Lao People's Democratic Republic shall implement\nthis Law."
    }
   },
   {
    "id": "LA-H017-A74",
    "no": 74,
    "noLabel": {
-    "lo": "第 74 条"
+    "en": "Article 74"
    },
-   "heading": {
-    "lo": "Effectiveness"
-   },
+   "chapter": {},
+   "heading": {},
    "text": {
-    "lo": "This Law shall become effective after ninety days from the date of the promulgating decree issued by the President of the Lao People's Democratic Republic.\nAny terms, provisions or other legislations that contradict to this Law shall be repealed.\nPresident of the National Assembly\nThongsing THAMMAVONG"
-   },
-   "chapter": {
-    "zh": "Chapter 2 Inspection of Consumer Protection Affairs"
+    "en": "Effectiveness\nThis Law shall become effective after ninety days from the date of the\npromulgating decree issued by the President of the Lao People's Democratic\nRepublic.\nAny terms, provisions or other legislations that contradict to this Law shall be\nrepealed.\n\n\nPresident of the National Assembly\nThongsing THAMMAVONG"
    }
   }
- ]
+ ],
+ "replaceNote": "2026-10-28 以「翻译版」包英译本替换：条数 30 → 74"
 }

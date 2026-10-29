@@ -1,0 +1,66 @@
+{
+ "id": "ID-H350",
+ "title": {
+  "zh": "印度尼西亚与马来西亚引渡协定批准法",
+  "en": "Law on the Ratification of the Extradition Agreement between Indonesia and Malaysia",
+  "id": "PENGESAHAN PERJANJIAN ANTARA PEMERINTAH",
+  "orig": "PENGESAHAN PERJANJIAN ANTARA PEMERINTAH",
+  "vi": "Luật về Việc Phê chuẩn Hiệp định Dẫn độ giữa Indonesia và Malaysia",
+  "th": "พระราชบัญญัติว่าด้วยการให้สัตยาบันความตกลงส่งตัวผู้กระทำผิดระหว่างอินโดนีเซียกับมาเลเซีย",
+  "ms": "Akta tentang Pengesahan Perjanjian Ekstradisi antara Indonesia dan Malaysia"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02a",
+ "language": "id",
+ "level": "law",
+ "category": "02_民商事与经济法",
+ "status": "active",
+ "promulgatedDate": "1974",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "-",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 2,
+ "chars": 627,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": null
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\02_民商事与经济法\\印尼_WLD_1974_PENGESAHAN PERJANJIAN ANTARA PEMERINTAH.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 2 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H350-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\nMensahkan Perjanjian antara Pemerintah Republik Indonesia dan\nPemerintah Malaysia mengenai Ekstradisi tertanggal 7 Juni 1974,\nyang\nnaskahnya dilampirkan pada Undang-undang ini."
+   }
+  },
+  {
+   "id": "ID-H350-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\nUndang-undang ini mulai berlaku pada tanggal diundangkannya.\nAgar supaya setiap orang dapat mengetahuinya memerintahkan peng\nundangan Undang-undang ini dengan penempatannya dalam Lembaran\nNegara\nRepublik Indonesia.\nDitetapkan di Jakarta,\npada tanggal 26 Desember 1974\nPRESIDEN REPUBLIK INDONESIA,\nSOEHARTO\nJENDERAL TNI.\nDiundangkan di Jakarta\npada tanggal 26 Desember 1974\nMENTERI/SEKRETARIS NEGARA\nREPUBLIK INDONESIA,\nSUDHARMONO, S H."
+   }
+  }
+ ]
+}

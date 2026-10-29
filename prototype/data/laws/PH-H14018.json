@@ -1,0 +1,72 @@
+{
+ "id": "PH-H14018",
+ "title": {
+  "zh": null,
+  "en": "An Act Authorizing and Requesting the Secretary of War to Cancel and Destroy Certain Bonds of the Philippine Government Issued Under the Provisions of Acts Numbered thirty Hundred and thirteen and thirty Hundred and Fifty-Eight.",
+  "orig": "An Act Authorizing and Requesting the Secretary of War to Cancel and Destroy Certain Bonds of the Philippine Government Issued Under the Provisions of Acts Numbered thirty Hundred and thirteen and thirty Hundred and Fifty-Eight."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1927-12-03",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3383",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 611,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1927/act_3383_1927.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03383_1927_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03383_1927_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14018-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The Secretary of War is hereby authorized and requested to cancel and destroy bonds of the\nPhilippine Government in the sum of nine million seven hundred thousand dollars issued under Act Numbered\nThirty hundred and thirteen, and bonds in the sum of five hundred thousand dollars issued under Act\nNumbered Thirty hundred and fifty-eight."
+   }
+  },
+  {
+   "id": "PH-H14018-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The serial numbers and corresponding amounts of all bonds cancelled and destroyed under\nauthority of the preceding section shall be reported to the Auditor and the Treasurer for the Philippine Islands."
+   }
+  },
+  {
+   "id": "PH-H14018-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, December 3, 1927."
+   }
+  }
+ ]
+}

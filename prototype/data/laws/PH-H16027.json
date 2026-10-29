@@ -1,0 +1,62 @@
+{
+ "id": "PH-H16027",
+ "title": {
+  "zh": null,
+  "en": "An Act Punishing the Transfer of Private Agricultural Land to Disqualified Persons in VIolation of the Constitution of the Philippines.",
+  "orig": "An Act Punishing the Transfer of Private Agricultural Land to Disqualified Persons in VIolation of the Constitution of the Philippines."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1938-06-09",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 310",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 616,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00310_1938_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00310_1938_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H16027-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Any person who, in his own behalf, or in behalf and representation of a corporation or\nassociation, transfers or assigns, or causes to be transferred or assigned, or cooperates in the transfer or\nassignment, of private agricultural land to any other person, corporation, or association not qualified to\nacquire or hold land of the public domain in the Philippines, shall be punished by a fine of not less than five\nhundred nor more than one thousand pesos, or by imprisonment of from six months to one year, or both in the\ndiscretion of the court."
+   }
+  },
+  {
+   "id": "PH-H16027-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, June 9, 1938."
+   }
+  }
+ ]
+}

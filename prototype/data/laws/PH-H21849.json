@@ -1,0 +1,102 @@
+{
+ "id": "PH-H21849",
+ "title": {
+  "zh": null,
+  "en": "Providing for Ad Interim Medicare Coverage for Government",
+  "orig": "Providing for Ad Interim Medicare Coverage for Government"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p159",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1974-03-06",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 408",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 6,
+ "chars": 1298,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_00408_1974_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 6 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_00408_1974_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H21849-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Medicare coverage shall be extended to all retirees under Republic Act 660 and to those who\nretired with gratuity benefits under Republic Act 1616 who are now 60 years of age or over, without requiring\nthem to pay contributions."
+   }
+  },
+  {
+   "id": "PH-H21849-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The amount necessary to cover the payment of Medicare benefits to those mentioned above\nwhich is estimated at approximately P2.3 million yearly shall be taken from the surplus of the Medicare\nInsurance Fund under the administration of the Government Service Insurance System."
+   }
+  },
+  {
+   "id": "PH-H21849-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "Upon implementation of Program II of the Medicare Act, the privilege of free Medicare\ncoverage hereby granted to government retirees shall automatically cease."
+   }
+  },
+  {
+   "id": "PH-H21849-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "A yearly valuation of the Medicare Insurance Fund shall be undertaken and in the event that the\nfree coverage cannot anymore be sustained by the Fund, the National Government shall guarantee payment of\nthe contributions necessary to continue the coverage of retirees."
+   }
+  },
+  {
+   "id": "PH-H21849-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "text": {
+    "en": "The free coverage extended to the abovementioned retirees shall not be extended to their legal\ndependents."
+   }
+  },
+  {
+   "id": "PH-H21849-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "text": {
+    "en": "The Government Service Insurance System shall adopt rules and regulations to implement this\nDecree within thirty (30) days from the date of this Decree.\nDone in the City of Manila, this 6th day of March, in the year of Our Lord, nineteen hundred and\nseventy-four."
+   }
+  }
+ ]
+}

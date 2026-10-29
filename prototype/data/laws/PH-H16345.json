@@ -1,0 +1,82 @@
+{
+ "id": "PH-H16345",
+ "title": {
+  "zh": null,
+  "en": "An Act to Exempt Non-Resident Citizens of the United states and Corporations Organized Under the Laws of the United states From Certain Taxes.",
+  "orig": "An Act to Exempt Non-Resident Citizens of the United states and Corporations Organized Under the Laws of the United states From Certain Taxes."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1941-06-10",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 637",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 1574,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00637_1941_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00637_1941_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H16345-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The income of non-resident citizens of the United States or corporations organized under the\nlaws of the United States or any of its political subdivisions, which consist exclusively of earnings derived\nfrom the operation of ships documented under the laws of the United States, except income derived by them\nfrom the operation of a ship or ships in the Philippine coastwise trade, shall not be included as a part of the\ngross income of such citizens or corporations and shall be exempt from the tax established under Title II\n(Income Tax) of the National Internal Revenue Code."
+   }
+  },
+  {
+   "id": "PH-H16345-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The income derived exclusively by non-resident citizens of the United States or by corporations\norganized under the laws of the United States of any of its political subdivisions from the operation of ships\ndocumented under the laws of the United States, except income derived by such citizens or corporations from\nthe operation of a ship or ships in the Philippine coastwise trade, shall not be included in the computation of\nthe residence tax collectible under Commonwealth Act Numbered four hundred and sixty-five, entitled \"An\nAct to impose a Residence Tax.\""
+   }
+  },
+  {
+   "id": "PH-H16345-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "The exemptions herein provided shall be allowable if and when the Government of the United\nStates grants an equivalent exemption to non-resident citizens of the Philippines in the United States and to\ncorporations organized in the Philippines with regard to their income derived exclusively from the operation\nof ships documented under the laws of the Philippines."
+   }
+  },
+  {
+   "id": "PH-H16345-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, June 10, 1941."
+   }
+  }
+ ]
+}

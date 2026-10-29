@@ -1,0 +1,612 @@
+{
+ "id": "MY-H450",
+ "title": {
+  "zh": "1998年辅导员法",
+  "en": "COUNSELLORS ACT 1998",
+  "orig": "COUNSELLORS ACT 1998",
+  "vi": "Luật về Cố vấn tâm lý năm 1998",
+  "th": "พระราชบัญญัติผู้ให้คำปรึกษา ค.ศ. 1998",
+  "id": "Undang-Undang Konselor Tahun 1998",
+  "ms": "Akta Kaunselor 1998"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-10",
+ "language": "en",
+ "level": "law",
+ "category": "05_其他及未分类",
+ "status": "active",
+ "promulgatedDate": "1998",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "ACT580",
+ "topics": [],
+ "summary": null,
+ "coverage": "partial",
+ "structureMode": "ARTICLE",
+ "articleCount": 41,
+ "chars": 37637,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-detail.php?act=580&lang=BI"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\05_其他及未分类\\1998_580_COUNSELLORS ACT 1998.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 49 条；逐字未改写（源自厂商 OCR 文本）。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H450-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "1. (1) This Act may be cited as the Counsellors Act\n1998 and shall come into operation on such date as the\nMinister may, by notification in the Gazette, appoint.\n\n(2) This Act shall not apply to—\n(a) any health professional; or\n\n(b) any company, society or local authority providing\nhealthcare services such as hospital, nursing\nhome, hospice, blood bank, psychiatric hospital,\nambulatory care centre, maternity home,\nheamodialysis centre, community mental health\ncentre, psyhiatric nursing home, medical or\ndental clinic, or any other healthcare facility."
+   }
+  },
+  {
+   "id": "MY-H450-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "2. In this Act, unless the context otherwise requires—\n\n\"Board\" means the Board of Counsellors established\nunder section 11;\n\n\"certificate of registration\" means a certificate issued\nunder subsection 26(2) and includes a duplicate certificate\nof registration issued under subsection 32(2);\n\n\"certificate of temporary registration\" means a certificate\nissued under subsection 27(4) and includes a duplicate\ncertificate of temporary registration issued under subsection\n32(2);\n\nShort title,\ncommencement\nand\napplication.\n\nInterpretation.\n\nAct 125,\n\nAct 30.\nAct 173.\nAct 555.\n\nAct 171.\n\n\"company\" has the meaning assigned to it in the\nCompanies Act 1965;\n\n\"Council\" means the Malaysian Counsellors Advisory\nCouncil established under section 3;\n\n\"counselling\" means a systematic process of helping\nrelationship based on psychological principles performed\nby a registered counsellor in accordance with the\ncounselling code of ethics to achieve a voluntary favourable\nholistic change, development and adjustment of the client\nsuch that the change, development and adjustment will\ncontinue throughout the lifespan of the client;\n\n\"counsellor\" means a person who provides counselling\nservices for a prescribed fee or any other consideration;\n\n\"Disciplinary Committee\" means the Disciplinary\nCommittee established under paragraph 36(2)(b);\n\n\"health professional\" includes a medical practitioner,\nmedical and clinical psychologist, nurse, midwive, medical\nassistant and any person involved in the giving of medical\nand health services under the jurisdiction of the Ministry\nof Health;\n\n\"higher educational institution\" means any institution\nestablished under the University and University Colleges\nAct 1971 or the Institut Teknologi MARA Act 1976 or\nthe Private Higher Educational Institutions Act 1996;\n\n\"Investigation Committee\" means the Investigation\nCommittee established under paragraph 36(2)(a);\n\n\"local authority\" means a local authority established\nunder the Local Government Act 1976;\n\n\"Minister\" means the Minister for the time being charged\nwith the responsibility for social welfare;\n\n\"practising certificate\" means a practising certificate\nissued under subsection 27(4) or 28(3), as the case may\nbe;\n\n\"prescribed\" means prescribed by regulations made\nunder this Act;\n\n\"President\" means the President of the Board of\nCounsellors;\n\nae\n\nCounsellors\n\n\"Register\" means the Register of Counsellors kept and\nmaintained under section 19;\n\n\"registered counsellor\" means a person registered under\nsection 26 or 27;\n\n\"Registrar\" means the Registrar of Counsellors appointed\nunder subsection 18(1);\n\n\"society\" means a society registered under the Societies\nAct 1966.\n\nPart II\n\nTHE MALAYSIAN COUNSELLORS\nADVISORY COUNCIL"
+   }
+  },
+  {
+   "id": "MY-H450-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "chapter": {
+    "en": "Part II"
+   },
+   "heading": {},
+   "text": {
+    "en": "3. There is established an advisory council to be known\nas the \"Malaysian Counsellors Advisory Council\"."
+   }
+  },
+  {
+   "id": "MY-H450-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "chapter": {
+    "en": "Part II"
+   },
+   "heading": {},
+   "text": {
+    "en": "4. The functions of the Council shall be—\n\n(a) to advise the Minister on any matter pertaining\nto this Act; and\n\n(b) to advise the Minister on any matter referred to\nit by the Board."
+   }
+  },
+  {
+   "id": "MY-H450-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "chapter": {
+    "en": "Part II"
+   },
+   "heading": {},
+   "text": {
+    "en": "5. (1) The Council shall consist of the following\nmembers:\n\n(a) the Secretary General of the Ministry responsible\nfor social welfare, who shall be the chairman;\n\n(b) the Deputy Secretary General of the Ministry\nresponsible for social welfare, who shall be the\ndeputy chairman;\n\n(c) the President of the Board or his representative;\n(d) the Registrar, who shall be the secretary; and\n\n(e) not more than twenty-five other members\nappointed by the Minister from the following\ncategories:\n\n(i) the public sector;\n\nAct 335.\n\nEstablishment\nof Council.\n\nFunctions of\nCouncil.\n\nMembership\nof Council.\n\n(ii) professional bodies allied to the\ncounselling profession and approved by\nthe Minister;\n\n(iii) representatives of higher educational\ninstitutions;\n\n(iv) non-governmental organisations which\nprovide counselling services; and\n\n(v) individuals who, because of their\nknowledge and experience, would in the\nopinion of the Minister be of assistance\nto the Council.\n\n(2) No person shall be appointed to be a member of\nthe Council unless he is a Malaysian citizen.\n\nTenure of 6. A member of the Council appointed under paragraph\n\nsaha,       5(1)(e), unless he sooner resigns or vacates his office or\nhis appointment is sooner revoked, shall hold office for\na term not exceeding two years and is eligible for\nreappointment.\n\nRevocation 7, The Minister shall revoke the appointment of a member\noa        of the Council appointed under paragraph 5(1)(e)—\n\nappointment.\n\n(a) if his conduct, whether in connection with his\nduties as a member of the Council or otherwise,\nhas been such as to bring discredit on the Council;\n\n(b) if there has been proved against him, or he has\nbeen convicted on, a charge in respect of—\n\n(i) an offence involving fraud, dishonesty\nor moral turpitude;\n\n(ii) an offence under a law relating to\ncorruption;\n\n(iii) an offence under this Act; or\n\n(iv) any other offence punishable with\nimprisonment for more than two years\nin itself only or in addition to or in lieu\nof a fine;\n\n\"9\n\nCounsellors\n\n(c) if he becomes a bankrupt; or\n\n(d) if he becomes of unsound mind or is otherwise\nincapable of discharging his duties."
+   }
+  },
+  {
+   "id": "MY-H450-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8"
+   },
+   "chapter": {
+    "en": "Part II"
+   },
+   "heading": {},
+   "text": {
+    "en": "8. A member of the Council appointed under paragraph\n5(1)(e) shall cease to be a member—\n\n(a) if he is absent from three consecutive meetings\nof the Council without leave of the chairman of\nthe Council;\n\n(b) if his appointment is revoked;\n(c) on his death; or\n\n(d) if he resigns his office."
+   }
+  },
+  {
+   "id": "MY-H450-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9"
+   },
+   "chapter": {
+    "en": "Part II"
+   },
+   "heading": {},
+   "text": {
+    "en": "9. A member of the Council appointed by the Minister\nunder paragraph 5(1)(e) may resign as a member of the\nCouncil at any time by giving one month's notice in\nwriting to the Minister."
+   }
+  },
+  {
+   "id": "MY-H450-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10"
+   },
+   "chapter": {
+    "en": "Part II"
+   },
+   "heading": {},
+   "text": {
+    "en": "10. (1) The Council shall meet at least twice in each\nyear.\n\n(2) Ata meeting of the Council fifteen members shall\nconstitute a quorum.\n\nPart III\nTHE BOARD OF COUNSELLORS"
+   }
+  },
+  {
+   "id": "MY-H450-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11"
+   },
+   "chapter": {
+    "en": "Part III"
+   },
+   "heading": {},
+   "text": {
+    "en": "11. There is established a body corporate to be known\nas the \"Board of Counsellors\" with perpetual succession\nand a common seal, which may sue and be sued in its\ncorporate name and, subject to and for the purposes of\nthis Act, may enter into contracts and may acquire, purchase,\ntake, hold and enjoy movable and immovable property\nof every description and may convey, assign, surrender,\nyield up, charge, mortgage, demise, reassign, transfer or\notherwise dispose of, or deal with, any movable or\nimmovable property or any interest therein vested in the\nBoard upon such terms as it considers fit.\n\nCessation of\nmembership.\n\nResignation.\n\nMeetings of\n\nCouncil.\n\nEstablishment\nof Board.\n\nFunctions of 12. The functions of the Board shall be—\n\nBoard.\n(a) to oversee the provision of counselling services;\n\n(b) to evaluate the need for counselling services in\nMalaysia;\n\n(c) to regulate the training of counsellors and\ndetermine the types and levels of counselling to\nbe made available in Malaysia;\n\n(d) to determine the qualifications entitling a person\nto be registered under this Act;\n\n(e) to determine the standard of counselling training\nprogrammes;\n\n(f) to make recommendations to the Government\nin relation to the standard of counselling services;\n\n(g) to register qualified counsellors;\n\n(h) to regulate the fees which can be charged by a\nregistered counsellor for his counselling services;\n\n(i) to appoint members of the Board to sit on any\nboard, committee or body formed for any purpose\naffecting the counselling profession;\n\n(j) to regulate the conduct of the counselling\nprofession, including prescribing the code of\nethics for the counselling profession; and\n\n(k) to do such other things as may be necessary to\nenable it to carry out its functions effectively.\n\nMembership 13. (1) The Board shall consist of the following members\nof Board. who shall be appointed by the Minister:\n\n(a) aPresident, who shall be appointed from among\nthe registered counsellors;\n\n(b) a representative of the Welfare Department;\n(c) a representative of the Ministry of Education;\n\n(d) a representative of the Ministry of Health;\n\nCounsellors                                                     13\n\n(e) a representative of the Islamic Development\nDepartment;\n\n(f) a representative of the Public Services\nDepartment;\n\n(g) arepresentative of the Ministry of Home Affairs;\n\n(h) three representatives of higher educational\ninstitutions; and\n\n(i) six registered counsellors.\n\n(2) Notwithstanding subsection (1), the first Board\nshall be appointed by the Minister for a period not exceeding\ntwo years and shall consist of the following members:\n\n(a) the Secretary General of the Ministry responsible\nfor social welfare, as chairman;\n\n(b) nine persons representing professional bodies\nallied to the counselling profession; and\n\n(c) one person representing higher educational\ninstitutions.\n\n(3) The provisions of the First Schedule shall apply\nto the Board.\n\n(4) The Registrar shall act as Secretary to the Board.\n\n(5) The Minister may, after consulting the Board, amend\nthe First Schedule by order published in the Gazette."
+   }
+  },
+  {
+   "id": "MY-H450-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14"
+   },
+   "chapter": {
+    "en": "Part III"
+   },
+   "heading": {},
+   "text": {
+    "en": "14. The Public Authorities Protection Act 1948 shall Public —\napply to any action, suit, prosecution or proceeding against  —\nthe Board or against any member, officer, servant or Act 1948.\nagent of the Board in respect of any act, neglect or default 4° /%%\n\ndone or committed by him in such capacity."
+   }
+  },
+  {
+   "id": "MY-H450-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15"
+   },
+   "chapter": {
+    "en": "Part III"
+   },
+   "heading": {},
+   "text": {
+    "en": "15. Every member of the Board or any of its committees Public\nand every officer, servant or agent of the Board, while **Yant\ndischarging his duties as such member, officer, servant\n\nor agent, shall be deemed to be a public servant within\n\nthe meaning of the Panel Code.                      Act 574,\n\nReturns,     16. (1) The Board shall furnish the Minister with all\na aya   such returns, reports, accounts and information with respect\ninformation. to its property and activities as the Minister may require\n\nor direct.\n\n(2) Without prejudice to the generality of subsection\n(1), the Board shall, as soon as practicable after the end\nof each financial year, cause to be made and transmitted\nto the Minister a report dealing with the activities of the\nBoard during the preceding financial year and the report\nshall be in such form and shall contain such information\nrelating to the proceedings and policy of the Board as the\nMinister may specify.\n\nConduct of 17. The Board may appoint an advocate and solicitor to\nproceedings, institute and conduct any civil proceeding on its behalf.\n\nPart IV\n\nREGISTRATION OF COUNSELLORS AND\nPRACTISING CERTIFICATES\n\nreeled   18. (1) The Board shall appoint a Registrar of Counsellors\nRegistrar, ** who shall be under the general direction and supervision\nof the Board.\n\n(2) The Registrar shall—\n\n(a) sign all certificates of registration and certificates\nof temporary registration;\n\n(b) record all entries required to be made in the\nRegister;\n\n(c) remove from the Register the names and other\nparticulars of a registered counsellor whose name\nhas been ordered by the Board or the Disciplinary\nCommittee to be removed; and\n\n(d) carry out any other duty required by this Act or\nregulations made under this Act to be carried\nout by him or as directed by the Board for the\npurposes of this Act.\n\nKegiatan of 19, (1) The Registrar shall keep and maintain a register\nous\" called the Register of Counsellors.\n\nCounsellors\n\n(2) The Register shall be kept in such form and on\nsuch material as may be prescribed.\n\n(3) The Register shall be open to the inspection of the\npublic in such manner as the Minister may by regulations\nprescribe.\n\n(4) The Registrar may, with the prior approval of the\nBoard, make amendments to the Register for the purpose\nof correcting any errors or updating any information\ncontained therein; and shall publish in the Gazette the\nnames and addresses of registered counsellors affected\nby such amendments."
+   }
+  },
+  {
+   "id": "MY-H450-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "20. (1) The Board may, if itis satisfied that a registered\ncounsellor—\n\n(a) has died;\n\n(b) has become incapable of performing his\nprofessional duties as a counsellor due to physical\nor mental infirmity;\n\n(c) has failed to renew his certificate of temporary\nregistration or practising certificate within four\nyears from the date of its expiry,\n\norder the Registrar to remove the name and particulars\nrelating to that registered counsellor from the Register.\n\n(2) The Registrar shall publish in the Gazette the name\nof every person removed from the Register under subsection\n\n(1)."
+   }
+  },
+  {
+   "id": "MY-H450-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "21. (1) The Board shall, on the application of any peson\nwhose name has been removed on the ground specified\nin paragraph 29(1)(c), reinstate him in the Register.\n\n(2) Every application for reinstatement shall be made\nin the prescribed form and accompanied by the prescribed\nfee.\n\nRemoval\nfrom Register\ndue to death,\netc.\n\nReinstatement.\n\nCounsellors\nmust be\nregistered.\n\nPractising\ncertificate\nrequired.\n\nQualification\nfor\nregistration.\n\n(3) The Board shall, upon the application of any person\nwho has been reinstated under subsection (1), issue to\nhim a practising certificate under subsection 27(4) or\n28(3) as if such application had been made under subsection\n27(2) or subsection 28(1), as the case may be."
+   }
+  },
+  {
+   "id": "MY-H450-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "22. (1) No person shall—\n\n(a) practise or carry on or operate, or hold himself\nout as practising or carrying on or operating, or\ntake up employment, as a counsellor;\n\n(b) use the title \"registered counsellor\" or any title\nin any language which may be reasonably\nconstrued to imply that he is a registered\ncounsellor; or\n\n(c) use or display any sign, board, card or other\ndevice representing or implying that he is a\nregistered counsellor,\n\nunless he is registered under this Act.\n\n(2) Any person who contravenes subsection (1) shall\nbe guilty of an offence and shall on conviction be liable\nto a fine not exceeding thirty thousand ringgit or to\nimprisonment for a term not exceeding three years or to\nboth."
+   }
+  },
+  {
+   "id": "MY-H450-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "23. (1) No person shall practise as a counsellor unless\nhe holds a valid practising certificate issued under this\nAct.\n\n(2) Any person who contravenes subsection (1) shall\nbe liable to disciplinary proceedings under Part VI and\nshall not be entitled to recover in any court any fee,\ncharge or remuneration for his counselling services."
+   }
+  },
+  {
+   "id": "MY-H450-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "24. (1) A person shall be registered as a counsellor if\nhe satisfies the Board that he is a Malaysian citizen or\na permanent resident of Malaysia, is not less than twenty-\none years of age, is a fit and proper person to be registered\nas a counsellor and holds any of the qualifications specified\nin the Second Schedule.\n\nmg\n\n>\n\nJJ)\n\nCounsellors\n\n(2) Where a person holds any qualification which is\nnot specified in the Second Schedule but the Board is\nsatisfied that such qualification is not less than any of the\nor equivalent to the qualifications specified in that Schedule,\nthe Board may approve the registration of such person\nas a counsellor if he satisfies the Board that he is a\nMalaysian citizen or a permanent resident of Malaysia,\nis not less than twenty-one years of age and is a fit and\nproper person to be registered as a counsellor.\n\n(3) The Minister may, after consulting the Board, amend\nthe Second Schedule by order published in the Gazette."
+   }
+  },
+  {
+   "id": "MY-H450-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "25. An application for registration as a counsellor shall\nbe made in the prescribed form and shall be accompanied\nby such information and documents as may be required\nby the Board."
+   }
+  },
+  {
+   "id": "MY-H450-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "26. (1) On receipt of an application under section 25,\nthe Board shall consider the application.\n\n(2) If the Board decides to register that applicant, it\nshall direct the Registrar to enter the applicant's name\nand particulars in the Register and to issue to the applicant\na certificate of registration.\n\n(3) The President shall sign every entry made in the\nRegister.\n\n(4) The Registrar shall publish in the Gazette the name\nand address of every person whose name and particulars\nhave been entered in the Register under subsection (2).\n\n(5) If the Board refuses to register the applicant, the\nRegistrar shall immediately serve a notice of the Board's\nrefusal on the applicant.\n\n(6) An applicant who is aggrieved by the refusal of\nthe Board to register him may appeal in writing to the\nMinister within twenty-one days from the date on which\nthe notice of such refusal is served on him.\n\nApplication\nfor\nregistration.\n\nRegistration.\n\nTemporary\nregistration.\n\n(7) The decision of the Minister shall be final."
+   }
+  },
+  {
+   "id": "MY-H450-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 27"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "27. (1) Any person who is neither a Malaysian citizen\nnor a permanent resident of Malaysia who intends to\npractise as a counsellor in Malaysia may apply in the\nprescribed form for temporary registration.\n\n(2) An application under subsection (1) shall be\naccompanied by an application for a practising certificate\nand the prescribed fee.\n\n(3) On receipt of an application under subsection (1),\nthe Board shall consider the application and may permit\nthe applicant to be temporarily registered if the Board is\nsatisfied that—\n\n(a) he is registered or licensed as a counsellor, or\nis otherwise permitted by law to practise as a\ncounsellor, in the country where he ordinarily\npractises as a counsellor;\n\n(b) he possesses counselling expertise; and\n\n(c) his physical presence is required in Malaysia\nfor not less than one hundred and eighty days\nin one calender year for purposes of providing\ncounselling services or he is a resident\nrepresentative of the foreign component of a\njoint venture for such purposes.\n\n(4) Ifthe Board permits an applicant to be temporarily\nregistered, it shall direct the Registrar to issue to the\napplicant a certificate of temporary registration and a\npractising certificate.\n\n(5) If the Board refuses to register the applicant, the\nRegistrar shall immediately serve a notice of the Board's\nrefusal on the applicant.\n\n(6) An applicant who is aggrieved by the refusal of\nthe Board to register him may appeal in writing to the\nMinister within twenty-one days from the date on which\nthe notice of such refusal is served on him.\n\n(7) The decision of the Minister shall be final.\n\nGe\n\net\n\nCounsellors\n\n(8) A certificate of temporary registration and a\npractising certificate issued under subsection (4) shall be\nValid for a period of twelve months from the date the\ncertificates are issued.\n\n(9) A certificate of temporary registration and a\npractising certificate issued under subsection (4) may be\nrenewed on application being made to the Board in the\nprescribed form not less than thirty days before the date\nof expiry of the certificates.\n\n(10) Every application made under subsection (9) shall\nbe accompanied by the prescribed fee and such documents\nand information as may be required by the Board."
+   }
+  },
+  {
+   "id": "MY-H450-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 28"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "28. (1) A counsellor who is registered under section 26\nand intends to practise as a counsellor shall make an\napplication, in the prescribed form, within one month\nfrom the date a certificate of registration is issued to him\nunder subsection 26(4), for a biennial practising certificate.\n\n(2) Every application for a biennial practising certificate\nshall be accompanied by the prescribed fee and shall\ncontain—\n\n(a) the address of the principal place, and other\nplaces, where the registered counsellor intends\nto carry on practice as a counsellor;\n\n(b) the registered counsellor's address for\ncorrespondence.\n\n(3) On receipt of an application under subsection (1),\nthe Board may issue to the applicant a biennial practising\ncertificate authorising the applicant to practise as a\ncounsellor at the places specified in the certificate during\nthe period of two years for which the biennial practising\ncertificate is issued.\n\n(4) Notwithstanding anything to the contrary in this\nAct, a registered counsellor who has made an application\nunder subsection (1) may practise as a counsellor without\na biennial practising certificate from the day his application\nunder that subsection is received by the Board until the\n\nBiennial\npractising\ncertificate.\n\nCertificates\nto be\nexhibited.\n\nday the biennial practising certificate is issued to him\nunder subsection (2), and, for the purpose of this Act and\nany regulations made under this Act, he shall be deemed\nto have a biennial practising certificate during that period.\n\n(5) A biennial practising certificate may be renewed\non application being made to the Board in the prescribed\nform not less than thirty days before the date of expiry\nof the certificate.\n\n(6) An application made later than the period mentioned\nin subsection (5) shall not be granted unless the prescribed\nadditional fee has been paid.\n\n(7) Subsections (2) and (3) shall apply to an application\nfor the renewal of a biennial practising certificate as they\napply to a new application."
+   }
+  },
+  {
+   "id": "MY-H450-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Section 29"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "29. (1) Every registered counsellor shall exhibit, at a\nconspicuous place in the premises in which he practises\nas a counsellor, a copy of his certificate of registration\nor certificate of temporary registration, as the case may\nbe, and his practising certificate.\n\n(2) Where a registered counsellor practises as a\ncounsellor in more than one premises, he shall cause a\ncopy of the certificate of registration or certificate of\ntemporary registration, as the case may be, and the practising\ncertificate, to be exhibited in a conspicuous place in each\npremises.\n\n(3) Any person who contravenes subsection (1) or\n(2) shall be guilty of an offence.\n\n(4) Any person who exhibits, or permits to be exhibited,\nin any premises, a certificate of registration or certificate\nof temporary registration or a practising certificate, or a\ncopy of any of such certificates, bearing his name or\nphotograph at any time when his name does not appear\non the Register or when he does not hold a valid certificate\nof registration or certificate of temporary registration, as\nthe case may be, or a practising certificate shall be guilty\nof an offence.\n\nnl\n\nCounsellors"
+   }
+  },
+  {
+   "id": "MY-H450-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Section 30"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "30. (1) Where—\n\n(a) there is a change in the address of the premises\nstated in the practising certificate in which a\nregistered person practises as a counsellor; or\n\n(b) a registered person practises as a counsellor in\nany premises additional to the premises stated\nin his practising certificate,\n\nhe shall, within thirty days of such change or addition,\nnotify the Registrar in writing of such change or addition.\n\n(2) Every notification under subsection (1) shall be\naccompanied by—\n\n(a) particulars of the certificate of registration or\ncertificate of temporary registration, as the case\nmay be; and\n\n(b) the practising certificate,\nof the registered counsellor.\n\n(3) The Registrar may require the registered counsellor\nto submit any information as he may deem necessary\nabout the premises referred to in subsection (1) and the\nregistered person shall comply with such requirement.\n\n(4) Any person who contravenes subsection (1), (2)\nor (3) shall be guilty of an offence.\n\n(5) The Registrar shall endorse the new address or the\naddress of the new premises where the registered counsellor\npractises as a counsellor on the registered counsellor's\npractising certificate and return the certificate to the\nregistered counsellor."
+   }
+  },
+  {
+   "id": "MY-H450-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Section 31"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "31. (1) Every registered counsellor shall notify the\nRegistrar of any change in his address for correspondence\nwithin fourteen days of the change.\n\n(2) Any person who contravenes subsection (1) shall\nbe guilty of an offence.\n\nChange of,\nor additional,\nplace of\npractice.\n\nNotification\nof change of\naddress.\n\nDuplicate\ncertificate.\n\nComposition\nof body\ncorporate\nwhich may\npractise as\ncounsellor.\n\nBody\ncorporate\npractising as\ncounsellor."
+   }
+  },
+  {
+   "id": "MY-H450-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Section 32"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "32. (1) A registered counsellor whose certificate of\nregistration or certificate of temporary registration, as\nthe case may be, is lost shall immediately notify the\nRegistrar of such loss.\n\n(2) The Registrar shall, on application being made\nand payment of the prescribed fee by the registered\ncounsellor, issue to the registered counsellor a duplicate\ncertificate of registration or certificate of temporary\nregistration, as the case may be.\n\nPart V\n\nBODIES CORPORATE PRACTISING AS\nCOUNSELLORS"
+   }
+  },
+  {
+   "id": "MY-H450-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Section 33"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "33. (1) No body corporate shall practise as a counsellor\nunless its board of directors consists—\n\n(a) entirely of individual persons who are registered\ncounsellors; or\n\n(b) of a majority of individual persons who are\nregistered counsellors, and other individual\npersons belonging to a profession which is allied\nto the counselling profession and approved by\nthe Board.\n\n(2) Any body corporate which contravenes subsection\n(1) shall be guilty of an offence."
+   }
+  },
+  {
+   "id": "MY-H450-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "Section 34"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "34. A body corporate practising as a counsellor—\n\n(a) may use the title \"registered counsellor\" or any\ntitle in any language which may be reasonably\nconstrued to imply that it is a body corporate\npractising as a counsellor;\n\n(b) may use or display any sign, board, card or\nother devices representing or implying that it is\na body corporate practising as a counsellor; and\n\nCS\n\n\"2\n\nCounsellors\n\n(c) shall be entitled to recover in any court any fee,\ncharge or remuneration for its professional\ncounselling services,\n\nas long as it complies with subsection 33(1)."
+   }
+  },
+  {
+   "id": "MY-H450-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "Section 35"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "35. (1) A body corporate practising as a counsellor shall\nnotify the Board—\n\n(a) of any change in the composition of its board\nof directors in a report containing full particulars\nof the change, within thirty days of the change;\nand\n\n(b) of any change in the address at which it carries\non its practice as a counsellor, within fourteen\ndays of the change.\n\n(2) Any body corporate which contravenes subsection\n(1) shall be guilty of an offence.\n\nPart VI\nDISCIPLINARY PROCEEDINGS"
+   }
+  },
+  {
+   "id": "MY-H450-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "Section 36"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "36. (1) The Board shall have disciplinary authority over\nall registered counsellors and shall exercise disciplinary\ncontrol in respect of all such counsellors in accordance\nwith this Act.\n\n(2) For the purposes of this Part there shall be\nestablished—\n\n(a) an Investigation Committee comprising three\nmembers of the Board to investigate into a\ncomplaint made against a registered counsellor;\nand\n\n(b) a Disciplinary Committee comprising five\nmembers of the Board, not being members of\nthe Investigation Committee, to inquire into\na complaint referred to it by the Investigation\nCommittee.\n\nNotification\nof change in\ncomposition\nand address.\n\nInvestigation\nand\n\nDisciplinary\nCommittees.\n\nDuty of\nInvestigation\nCommittee.\n\nInquiry by\nDisciplinary\nCommittee.\n\nSuspension\nof practice\npending\n\ninvestigation."
+   }
+  },
+  {
+   "id": "MY-H450-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "Section 37"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "37. (1) Every complaint against any registered counsellor\nshall be addressed to the Registrar who shall immediately\nrefer such complaint to the Investigation Committee.\n\n(2) The Investigation Committee shall investigate every\ncomplaint and shall, as soon as practicable, submit its\nreport on such complaint to the Disciplinary Committee.\n\n(3) Every report under subsection (2) shall—\n\n(a) state whether sufficient grounds exist for\ndisciplinary proceedings to be taken against a\nregistered counsellor; and\n\n(b) be accompanied by such evidence as the\nInvestigation Committee may have obtained in\nsupport of such statement."
+   }
+  },
+  {
+   "id": "MY-H450-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "Section 38"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "38. (1) Where the report submitted by the Investigation\nCommittee states that sufficient grounds exist for\ndisciplinary proceedings to be taken against a registered\ncounsellor, the Disciplinary Committee shall inquire into\nthe case.\n\n(2) Aregistered counsellor against whom disciplinary\nproceedings are taken shall be given an opportunity to\nmake representations against the disciplinary charge laid\nagainst him before a decision is arrived at by the\nDisciplinary Committee.\n\n(3) The registered counsellor against whom disciplinary\nproceedings have been taken shall be notified by the\nRegistrar by registered post of the decision of the\nDisciplinary Committee as soon as possible after the\nmaking of such decision."
+   }
+  },
+  {
+   "id": "MY-H450-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "Section 39"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "39. (1) The Board may, if it considers fit, suspend the\npractising certificate of a registered counsellor for a period\nnot exceeding six months pending the completion of an\ninvestigation by the Investigation Committee and inquiry\nby the Disciplinary Committee.\n\nCounsellors\n\n(2) Noregistered counsellor shall practise as a counsellor\nduring the period of suspension under subsection (1).\n\n(3) Any person who contravenes subsection (2) shall\nbe guilty of an offence."
+   }
+  },
+  {
+   "id": "MY-H450-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "Section 40"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "40. (1) The Disciplinary Committee shall, upon being\n-                  satisfied that—\n\n(a) there has been proved against the registered\nN                                         counsellor, or the registered counsellor has been\n2                     convicted on, a charge in respect of—\n\n(i) an offence involving fraud, dishonesty\nor moral turpitude;\n\n(ii) an offence under any law relating to\ncorruption;\n\n(iii) an offence under this Act; or\n\n(iv) any other offence punishable with\nimprisonment for more than two years\nin itself only or in addition to or in lieu\nof a fine;\n\n(b) if the registered counsellor's registration has\nbeen obtained by fraud or misrepresentation; or\n\n(c) the registered counsellor has become a bankrupt,\n\n®                     order the name of the registered counsellor to be removed\nfrom the Register.\n\n(2) The Disciplinary Committee may, upon being\n3                  satisfied that—\n\n(a) the registered counsellor has offered or accepted\na commission which in the opinion of the\nDisciplinary Committee is an illicit commission;\nor\n\n(b) the registered counsellor has contravened any\nprovision of this Act or any regulations made\nunder this Act,\n\nimpose any one or any combination of the following\ndisciplinary punishments:\n\nDisciplinary\npunishments.\n\nSurrender of\ncertificate on\nremoval from\nthe Register.\n\nAppeal\nagainst\ndecision of\nthe\nDisciplinary\nCommittee.\n\nPublication\nof names of\npersons\nremoved\nfrom\nRegister.\n\n(aa) order the name of the registered counsellor to\nbe removed from the Register;\n\n(bb) order the name of the registered counsellor to\nbe suspended from the Register for a period not\nexceeding two years;\n\n(cc) order the imposition of a fine not exceeding\nfive thousand ringgit;\n\n(dd) order the registered counsellor to be reprimanded."
+   }
+  },
+  {
+   "id": "MY-H450-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "Section 41"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "41. (1) Aregistered person shall surrender to the Board\nhis certificate of registration or certificate of temporary\nregistration, as the case may be, and his practising certificate\nwithin twenty-one dayg/of being notified under subsection\n38(3) of the decision Of the Disciplinary Committee under\nsection 40 to remove his name from the Register.\n\n(2) A person who contravenes subsection (1) shall be\nguilty of an offence."
+   }
+  },
+  {
+   "id": "MY-H450-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "Section 42"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "42. (1) Any person who is aggrieved by a decision of\nthe Disciplinary Committee against him under section 40\nmay, within thirty days of being notified of such decision,\nappeal against the decision to the Minister.\n\n(2) The Minister may confirm, reverse or vary the\ndecision of the Disciplinary Committee.\n\n(3) A decision of the Minister under subsection (2)\nshall be final."
+   }
+  },
+  {
+   "id": "MY-H450-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "Section 43"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "43. The Registrar shall publish in the Gazette the name\nof every registered counsellor whose name has been\nremoved from the Register—\n\n(a) on the expiry of the period as specified in\nsubsection 42(1), if the registered counsellor\ndoes not enter an appeal against the decision of\nthe Disciplinary Committee; or\n\nCounsellors                            27\n(b) after the decision of the Minister upholding the\ndecision of the Disciplinary Committee, if the\nregistered counsellor enters an appeal against\nthe decision of the Disciplinary Committee,\n\nas the case may be.\n\nPart VII\nOFFENCES AND PENALTIES"
+   }
+  },
+  {
+   "id": "MY-H450-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "Section 44"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "44. Any person who—                              Offences.\n(a) procures or causes the procurement of a certificate\nof registration, certificate of temporary\nregistration or practising certificate—\n(i) by making or causing to be made; or\n\n(ii) by producing or causing to be produced,\n\na false or fraudulent declaration, certificate,\napplication or representation;\n\n(b\n\n~\n\nforges, alters or counterfeits a certificate of\nregistration, certificate of temporary registration\nor practising certificate;\n\n(c\n\n~\n\nuses a forged, altered or counterfeited certificate\nof registration, certificate of temporary\nregistration or practising certificate;\n\n(d) personates a registered person or a director of\na body corporate practising as a counsellor;\n\n(e) buys or fraudulently obtains a certificate of\nregistration, certificate of temporary registration,\nor practising certificate; or\n\n(f) sells, assigns or transfers a certificate of\nregistration, certificate of temporary registration\nor practising certificate,\n\nGeneral\npenalty.\n\nOffence by\nbody\ncorporate.\n\nshall be guilty of an offence and shall on conviction—\n\n(aa) be liable to a fine not exceeding ten thousand\nringgit or to imprisonment for a term not\nexceeding two years or to both; and\n\n(bb) in the case of a continuing offence, be liable to\na fine not exceeding one thousand ringgit for\nevery day or part of a day during which the\noffence continues after conviction."
+   }
+  },
+  {
+   "id": "MY-H450-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "Section 45"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "45. A person who contravenes any of the provisions of\nthis Act for which no penalty is expressly provided shall\non conviction—\n\n(a) be liable to a fine not exceeding five thousand\nringgit or imprisonment for a term not exceeding\none year or to both; and\n\n(b) in the case of a continuing offence, be liable to\na fine not exceeding five hundred ringgit for\nevery day or part of a day during which the\noffence continues after conviction."
+   }
+  },
+  {
+   "id": "MY-H450-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "Section 46"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "46. Where a body corporate commits an offence under\nthis Act or any regulations made under this Act, any\nperson who, at the time of the commission of such offence,\nwas a director, manager, secretary or other similar officer\nof such body corporate or was purporting to act in any\nsuch capacity, or was in any manner or to any extent\nresponsible for the management of any of the affairs of\nsuch body corporate, or was assisting in such management—\n\n(a) may be charged severally or jointly in the same\nproceedings with the body corporate; and\n\n(b) where the body corporate is found guilty of the\noffence, shall be deemed to be guilty of that\noffence unless, having regard to the nature of\nhis functions in that capacity and to all\ncircumstances, he proves—\n\n(i) that the offence was committed without\nhis knowledge, consent or connivance;\nand\n\nCounsellors\n\n(ii) that he took all reasonable precautions\nand had exercised due diligence to prevent\nthe commission of the offence."
+   }
+  },
+  {
+   "id": "MY-H450-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "Section 47"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "47. Prosecution in respect of an offence under this Act\nshall not be instituted or conducted without the written\nconsent of the Public Prosecutor.\n\nPart VIII\nMISCELLANEOUS"
+   }
+  },
+  {
+   "id": "MY-H450-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "Section 48"
+   },
+   "chapter": {
+    "en": "Part VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "48. (1) ThePresident of the Board or any officer authorised\nby him may, for the purpose of carrying out the objects\nof this Act or any regulations made under this Act, at any\nreasonable time and upon the production of his certificate\nof authorisation enter, inspect and examine any premises\nor any area including any building or structure thereon\nwhich belongs to or is used, whether permanently or\notherwise, or whether or not registered for use, by a\nregistered counsellor.\n\n(2) Incarrying out an inspection under subsection (1),\nthe President or an officer authorised by him may—\n\n(a) enter any area or premises;\n\n(b) examine such book, register, document, material\nor other article as he may consider necessary;\nand\n\n(c) remove and detain any book, register, document,\nmaterial or other article.\n\n(3) An officer may for the purpose of this section\nseek whenever necessary the assistance of the police in\nthe execution of his duty."
+   }
+  },
+  {
+   "id": "MY-H450-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "Section 49"
+   },
+   "chapter": {
+    "en": "Part VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "49. (1) The Minister, in consultation with the Board,\nmay make regulations for all or any of the following\npurposes:\n\n(a) prescribing the manner of applying for certificates\nunder this Act, the particulars to be supplied by\nan applicant, the manner of certification, the\n\nInstitution\nand conduct\nof\nprosecution.\n\nPower of\nentry,\ninspection,\nexamination,\nseizure, etc.\n\nRegulations.\n\nfees payable therefor, the conditions or restrictions\nto be imposed and the form or forms of\ncertificates;\n\n(b) regulating the keeping of the Register and of\nS     &       Pp            &\naccounts, records, reports and documents and\nprescribing the form and contents thereof;\n\n(c) prescribing the management of the property of\nthe Board and the audit of its accounts;\n\n(d) prescribing the procedure for the election or\nappointment of members of the committees of\nthe Council or the Board;\n\n(e) prescribing the requirements to be complied with\nby the Board for engaging a legal adviser and\nthe remuneration to be paid to him;\n\n(f) prescribing the procedure for investigation into\ncomplaints and for disciplinary inquiries;\n\n(g) prescribing the procedure for appeals;\n\n(h) prescribing matters in respect of which fees and\ncharges are to be payable under this Act or the\nregulations made under this Act, the amount of\nthe fees, and the persons liable to pay them;\n\n(i\n\n—\n\nprescribing the forms to be used in making\napplications under this Act; and\n\n(j) any other matter which is required by this Act\nto be prescribed or specified or which is necessary\nor expedient to be prescribed or specified for\ncarrying this Act into effect.\n\n(2) Regulations made under this Act may—\n\n(a) provide that any contravention of any of the\nprovisions of the regulations shall be an offence;\n\n(b) provide for such offence to be punished with a\nfine not exceeding three thousand ringgit or to\nimprisonment for a term not exceeding six months\nor to both;\n\n(c) be made to operate retrospectively to a date not\nearlier than the date of coming into force of this\nAct.\n\nCounsellors\n\n(3) Notwithstanding paragraph (2)(c), no person shall\nbe made or shall become liable to any penalty in respect\nof any act done before the date the regulations are published\nin the Gazette.\n\nFirst SCHEDULE\n[Subsection 13(3)]"
+   }
+  }
+ ]
+}

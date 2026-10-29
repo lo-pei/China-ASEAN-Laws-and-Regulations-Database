@@ -1,0 +1,62 @@
+{
+ "id": "PH-H22980",
+ "title": {
+  "zh": null,
+  "en": "Amending Section 1 of Presidential Decree No. 1661, as Amended, Entitled: \"Prohibiting Guest Candidacy and Providing Sanctions and Penalty",
+  "orig": "Amending Section 1 of Presidential Decree No. 1661, as Amended, Entitled: \"Prohibiting Guest Candidacy and Providing Sanctions and Penalty"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1980-01-26",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 1667",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 918,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_01667_1980_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_01667_1980_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22980-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section 1 of Presidential Decree No. 1661 as amended, is hereby further amended to read as\n\"Sec. 1. Guest Candidacy. It shall be unlawful for any registered or accredited political party to nominate\nand/or support as its official candidate any person belonging to another accredited or registered party unless\nhe has affiliated with the nominating party unless he has affiliated with the nominating party at least six\nmonths before the election: Provided, that a person who participated as an officer in the campaign of a\npolitical party, group or aggrupation in the immediately preceding elections shall be deemed a member of\nsuch party as of the date of the political campaign, for purposes of nomination as official candidate of such\nparty in succeeding elections.\""
+   }
+  },
+  {
+   "id": "PH-H22980-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Decree shall take effect immediately.\nDONE in the City of Manila, this 26th day of January, in the year of Our Lord, nineteen hundred and eighty."
+   }
+  }
+ ]
+}

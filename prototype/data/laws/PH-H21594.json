@@ -1,0 +1,62 @@
+{
+ "id": "PH-H21594",
+ "title": {
+  "zh": null,
+  "en": "Amending Section 1988 of Act No. 2711, as Amended, Otherwise Known as the Administrative Code",
+  "orig": "Amending Section 1988 of Act No. 2711, as Amended, Otherwise Known as the Administrative Code"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p159",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1973-01-29",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 121",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1169,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_00121_1973_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_00121_1973_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H21594-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section one thousand nine hundred eighty-eight of the Administrative Code is hereby amended\nto read as follows:\n\"Sec. 1988. Location of the bank. The central office of the Philippine Postal Savings Bank shall be in Manila\nand the Director of Posts shall establish, maintain and discontinue postal savings banks and branches thereof\nin such places as he shall deem proper: Provided, however, That postal savings bank and branches thereof\nshall not be established or maintained in places where banking services are already available: Provided,\nfurther, That within one year from the date of effectivity of this Act, existing postal savings banks shall be\ndiscontinued in places already served by banks whether private or government-owned: And provided, finally,\nThat within three years from the said date, all operations of the bank shall be completely discontinued and its\nremaining assets and liabilities shall be transferred to the Philippine National Bank or to any other appropriate\nexisting government bank.\""
+   }
+  },
+  {
+   "id": "PH-H21594-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Decree shall take effect immediately.\nDone in the City of Manila, this 29th day of January, in the year of Our Lord, nineteen hundred and\nseventy-three."
+   }
+  }
+ ]
+}

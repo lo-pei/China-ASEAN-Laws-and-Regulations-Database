@@ -1,0 +1,109 @@
+{
+ "id": "ID-H936",
+ "title": {
+  "zh": null,
+  "en": null,
+  "id": "DAFTAR KOORDINAT GEOGRAFIS TITIK-TITIK GARIS PANGKAL KEPULAUAN INDONESIA DI LAUT NATUNA",
+  "orig": "DAFTAR KOORDINAT GEOGRAFIS TITIK-TITIK GARIS PANGKAL KEPULAUAN INDONESIA DI LAUT NATUNA"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02b",
+ "language": "id",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "1998",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU61-1998",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 5,
+ "chars": 12016,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=pp0611998.pdf&fl=P04118"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\01_宪法与基础法\\印尼_文本_1998_DAFTAR KOORDINAT GEOGRAFIS TITIK-TITIK GARIS PANGKAL KEPULAUAN INDONESIA DI LAUT NATUNA.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 5 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H936-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\nDalam Peraturan Pemerintah ini yang dimaksud dengan:\n1. Koordinat geografis adalah koordinat yang besarnya ditetapkan\ndalam derajat, menit, dan sekon busur pada sistem sumbu lintang dan\nbujur geografis;\n2. Lintang dan Bujur adalah sistem referensi sumbu koordinat\ngeografis;\n3. Mil laut adalah mil geografis yang besarnya seperenampuluh\nderajat lintang.\nBAB II\nGARIS PANGKAL KEPULAUAN"
+   }
+  },
+  {
+   "id": "ID-H936-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\n(1) Penarikan garis pangkal kepulauan di Laut Natuna dilakukan dengan\ntetap menghormati persetujuan dan perjanjian yang ada dengan\nnegara tetangga yang menyangkut perairan yang merupakan perairan\nkepulauan.\n(2) Garis- ...\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Garis-garis pangkal kepulauan di Laut Natuna ditarik dari titik -titik\nterluar pada garis air rendah pulau-pulau terluar sebagai berikut:\na. Antara Tanjung Berakit di bagian utara Pulau Bintan dengan\nPulau Sentut di timur Pulau Bintan;\nb. Antara Pulau Sentut di timur Pulau Bintan dengan Pulau\nTokongmalangbiru di Pulau-pulau Anambas;\nc. Antara Pulau Tokongmalangbiru di Pulau -pulau Anambas\ndengan Pulau Damar di Pulau-pulau Anambas;\nd. Antara Pulau Damar di Pulau -pulau Anambas dengan Pulau\nMangkai di Pulau-pulau Anambas;\ne. Antara Pulau Mangkai di Pulau -pulau Anambas dengan Pulau\nTokongnanas di Pulau-pulau Anambas;\nf. Antara Pulau Tokongnanas di Pulau -pulau Anambas dengan\nPulauTokongbelayar di Pulau-pulau Anambas;\ng. Antara Pulau Tokongbelayar di Pulau -pulau A nambas dengan\nPulau Tokongboro di Pulau-pulau Natura Utara;\nh. Antara Pulau Tokongboro di Pulau -pulau Natuna Utara dengan\nPulau Semiun di Pulau-pulau Natura Utara;\ni. Antara Pulau Semiun di Pulau -pulau Natuna Utara dengan Pulau\nSebetul di sebelah barat Pulau Laut di Pulau-pulau Natuna Utara;\nj. Antara Pulau Sebetul di sebelah barat Pulau Laut di Pulau -pulau\nNatuna Utara dengan Pulau Sekatung di sebelah timur laut Pulau\nLaut di Pulau-pulau Natuna Utara;\nk. Antara dua titik yang terletak di Pulau Sekatung bagian Utara;\nl. Antara ...\nPRESIDEN\nREPUBLIK INDONESIA\nl. Antara Pulau Sekatung di sebelah timur laut Pulau Laut di\nPulau-pulau Natuna Utara dengan Pulau Senua di timur Pulau\nBunguran di Pulau-pulau Natuna Besar;\nm. Antara Pulau Senua di timur Pulau Bunguran di Pulau -pulau\nNatuna Besar dengan Pulau Subi Besar di Pulau -pulau Natuna\nSelatan;\nn. Antara Pulau Subi Besar di Pulau -pulau Natuna Selatan dengan\nPulau Kepala di Pulau-pulau Natuna Selatan;\no. Antara Pulau Kepala di Pulau -pulau Natuna Selatan dengan\nTanjung Datu di Kalimantan Barat.\nBAB III\nDAFTAR KOORDINAT GEOGRAFIS TITIK-TITIK\nGARIS PANGKAL KEPULAUAN DI LAUT NATUNA"
+   }
+  },
+  {
+   "id": "ID-H936-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\n(1) Posisi titik-titik garis p angkal untuk menetapkan lebar laut teritorial\nsebagaimana dimaksud dalam Pasal 2, ditetapkan dalam koordinat\ngeografis yang dapat disertai dengan referensi datum geodetik yang\ndipergunakan.\n(2) Koordinat geografis dari titik -titik garis pangkal sebagaimana\ndimaksud dalam Pasal 2 adalah sebagaimana tercantum dalam\nlampiran 1 Peraturan Pemerintah ini.\n(3) Daftar ...\nPRESIDEN\nREPUBLIK INDONESIA\n(3) Daftar koordinat geografis titik -titik sebagaimana dimaksud dalam\nayat (2) memuat posisi geografis titik -titik yang disebutkan dalam\nlintang dan bujur dan disertai dengan keterangan tentang perairan\ndimana titik -titik tersebut berada, data -data petunjuk di lapangan,\njarak antara titik -titik garis pangkal, jenis garis pangkal yang\ndipergunakan, dan peta-peta referensi dengan keterangan skalanya.\n(4) Daftar sebagaimana dimaksud dalam ayat (2) merupakan bagian\nyang tidak terpisahkan dari Peraturan Pemerintah ini.\n(5) Koordinat geografis titik -titik garis pangkal sebagaimana dimaksud\ndalam ayat (2) digambarkan dalam peta yang dicantumkan p ada\nlampiran II Peraturan Pemerintah ini."
+   }
+  },
+  {
+   "id": "ID-H936-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\nApabila terdapat perbedaan penetapan titik -titik pangkal kepulauan di\nlapangan dengan data sebagaimana dimaksud dalam Pasal 3 ayat (2),\nmaka posisi titik-titik garis pangkal yang berlaku adalah posisi titik -titik\ngaris pangkal yang sesuai dengan kekayaan di lapangan.\nBAB IV\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H936-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar …\nPRESIDEN\nREPUBLIK INDONESIA\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran\nNegara Republik Indonesia.\nDitetapkan di Jakarta\npada tanggal 16 Juni 1998\nPRESIDEN REPUBLIK INDONESIA\nttd.\nBACHARUDDIN JUSUF HABIBIE\nDiundangkan di Jakarta\npada tanggal 16 Juni 1998\nMENTERI NEGARA SEKRETARIS NEGARA\nREPUBLIK INDONESIA,\nttd.\nAKBAR TANJUNG\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1998 NOMOR 100\nPRESIDEN\nREPUBLIK INDONESIA\nPENJELASAN\nATAS\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nNOMOR 61 TAHUN 1998\nTENTANG\nDAFTAR GEOGRAFIS TITIK-TITIK GARIS PANGKAL\nKEPULAUAN INDONESIA DI LAUT NATUNA\nUMUM\nSebagai tindak lanjut dari Undang-undang Nomor 17 Tahun 1985 tentang Pengesahan\nKonvensi Perserikatan Bangsa -Bangsa tentang Hukum Laut Tahun 1982, di dalam Pasal\n6 Undang-undang Nomor 6 Tahun 1996 tentang Perairan Indonesia menentukan bahwa\ngaris-garis pangkal kepulauan Indonesia harus dicantumkan dalam peta deng an skala atau\nskala-skala yang memadai untuk menegaskan posisinya, atau dapat pula dibuat daftar\nkoordinat geografis titik -titik yang dapat disertai dengan referensi datum geodetik yang\ndipergunakan.\nDalam rangka melaksanakan ketentuan Undang -undang tersebut diatas Pemerintah\nIndonesia saat ini sedang menyelesaikan penetapan Peraturan Pemerintah tentang daftar\nkoordinat geografis titik -titik garis pangkal perairan kepulauan yang sejalan dengan\nketentuan Konvensi Perserikatan Bangsa-Bangsa tentang Hukum Laut Tahun 1982.\nPeta ilustratif yang dilampirkan dalam Undang -undang Nomor 6 Tahun 1996 tentang\nPerairan Indonesia, khususnya di Laut Natuna yang meliputi perairan pulau Bintan,\nperairan pulau -pulau Anambas, perairan pulau -pulau Natuna Utara, d an perairan\npulau-pulau Natuna Selatan, telah memberikan gambaran secara umum garis -garis\npangkal yang ditarik sesuai dengan ketentuan Konvensi Perserikatan Bangsa -Bangsa\ntentang Hukum Laut.\nSesuai …\nPRESIDEN\nREPUBLIK INDONESIA\nSesuai dengan peta yang dilampirkan pada Undang -undang Nomor 4 Prp Tahun\n1960 tentang Perairan Indonesia, perairan bagian selatan Laut Natuna yang sebelumnya\nberkedudukan sebagai laut bebas adalah laut teritorial dengan lebar 12 mil laut diukur\ndari garis pangkal dan laut bebas di luar laut teritorial tersebut.\nDengan Undang -undang Nomor 5 Tahun 1983 tentang Zona Ekonomi Eksklusif\nIndonesia, perairan bagian Selatan Laut Natuna berubah menjadi sebagian dari Zona\nEkonomi Eksklusif Indonesia.\nDengan Undang -undang Nomor 5 Tahun 1983 tentang Zona Ekonomi Eksklusif\nIndonesia, perairan bagian selatan Laut Natuna berubah menjadi sebagian dari Zona\nEkonomi Eksklusif Indonesia.\nDengan penarikan garis pangkal seperti yang digambarkan pada peta ilustratif yang\ndilampirkan pada Undang -undang Nomor 6 Tahun 1996 tentang Perairan Indonesia,\nperairan yang terletak pada sisi dalam garis -garis pangkal tersebut adalah perairan\nkepulauan dan bukan lagi sebagian dari Zona Ekonomi Ekslusif sebagaimana dimaksud\ndalam Undang -undang Nomor 5 Tahun 1983 tentang Zona Ekonomi Ek sklusif atau\nsebagai laut teritorial dan laut bebas sebagaimana dimaksud dalam Undang -undang\nNomor 4 Prp. Tahun 1960 tentang Perairan Indonesia.\nSementara itu sesuai dengan Pasal 19 ayat (4) Undang -undang Nomor 6 Tahun\n1996 dan Pasal 53 ayat (9) Konvens i Perserikatan Bangsa -Bangsa tentang Hukum Laut\nTahun 1982, Indonesia sedang menyelesaikan penetapan alur -alur laut kepulauan dengan\nOrganisasi Maritim Internasional yang salah satu dari kelompok alurnya melintasi\nperairan kepulauan Riau, perairan kepulaua n Anambas, perairan kepulauan Natuna dan\nperairan kepulauan Natuna Selatan.\nMengingat …\nPRESIDEN\nREPUBLIK INDONESIA\nMengingat bahwa sesuai dengan ketentuan Konvensi Perserikatan Bangsa -Bangsa\ntentang Hukum Laut Tahun 1982, alur -alur laut kepulauan ditetapkan di perairan\nkepulauan, sedangkan status perairan di Laut Natuna sebagai perairan kepulauan baru\ndigambarkan secara ilustratif pada peta yang dilampirkan pada Undang -undang Nomor 6\nTahun 1996, maka dalam rangka penyelesaian alur laut di Laut Natuna tersebut dengan\nOrganisasi Maritim Internasional perlu segera ditetapkan koordinat geografis titik -titik\ngaris pangkal pada perairan di Laut Natuna tersebut.\nBerhubung dengan itu sambil menunggu penyelesaian penetapan daftar koordinat\ngeografis titik-titik garis pangkal kepulauan secara keseluruhan perlu ditetapkan terlebih\ndahulu Perairan Pemerintah tentang daftar koordinat geografis titik -titik pangkal\nkepulauan tertentu di Laut Natuna.\nPASAL DEMI PASAL\nPasal 1\nCukup jelas\nPasal 2\nAyat (1)\nPersetujuan dan Perjanjian yang dimaksud adalah Persetujuan antara Pemerintah\nRepublik Indonesia dengan Pemerintah Malaysia tentang Penetapan Garis Batas\nKontinen antara Kedua Negara Tahun 1969 dan Perjanjian antara Republik\nIndonesia dan Malaysia tentang Rejim Hukum Nusantara dan Hak-hak Malaysia di\nLaut Teritorial dan Perairan Nusantara serta Ruang Udara di atas Laut Teritorial,\nPerairan Nusantara dan Wilayah yang terletak di antara Malaysia Timur dan\nMalaysia Barat Tahun 1982.\nAyat (2) …\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (2)\nGaris-garis pangkal kepulauan sebagaimana dimaksud dalam huruf a sampai\ndengan huruf j dan huruf l sampai dengan huruf o adalah garis pangkal lurus\nkepulauan, dan garis pangkal kepulauan sebagaimana dimaksud dalam huruf k\nadalah garis pangkal biasa.\nPenarikan garis -garis pangkal kepulauan seperti dimaksudkan dalam pasal ini\nadalah sesuai dengan ketentuan Pasal 5 Undang -undang No. 6 Tahun 1996 tentang\nPerairan Indonesia dan Pasal 47 Konvensi Perserikatan Bangsa -Bangsa tentang\nHukum Laut Tahun 1982.\nGaris pangkal lurus kepulauan sebagaimana dimaksud dalam pasal ini merupakan\ngaris lurus yang ditarik dari titik -titik terluar pada garis air rendah pulau -pulau\nterluar, karang kering terluar atau elevasi surut terluar yang satu ke titik terluar\nyang serup a pada pulau terluar, karang kering terluar atau elevasi surut terluar\nyang lain yang berdampingan.\nGaris pangkal biasa adalah garis air rendah sepanjang pantai.\nGaris air rendah adalah datum hidrografis peta navigasi yang ditetapkan pada\nkedudukan rata-rata garis air rendah perbani.\nGaris pangkal lurus kepulauan sebagaimana dimaksud dalam pasal ini ditarik\nmengikuti konfigurasi umum kepulauan di lingkungan tempat tersebut.\nPenarikan garis pangkal lurus kepulauan tersebut dapat dilakukan dengan\nmemanfaatkan titik-titik terluar pada garis air rendah pada setiap elevasi surut yang\ndiatasnya terdapat suar atau bangunan serupa yang secara permanen berada diatas\npermukaan air atau elevasi surut yang sebagian atau seluruhnya terletak dalam 12\n(dua belas) mil laut dari garis air rendah pulau terdekat.\nPanjang garis pangkal kepulauan tersebut tidak lebih dari seratus mil laut.\nPasal 3 …\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 3\nAyat (1)\nDatum geodetik adalah referensi metamatik untuk menetapkan koordinat geografis\ntitik-titik dalam pemetaan hidrografis.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nKoordinat geografis titik -titik garis pangkal sebagaimana tercantum dalam daftar\nyang dimaksud dalam Peraturan Pemerintah ini adalah koordinat geografis\ntitik-titik berdasarkan hasil survey.\nAyat (5)\nPeta lampiran II merupakan peta ilustratif untuk menggambarkan keseluruhan\nkedudukan garis-garis pangkal kepulauan di Laut Natuna yang koordinat geografis\ntitik-titik terluarnya adalah sebagaimana tercantum dalam lampiran I Peraturan\nPemerintah ini.\nPasal 4\nMengingat sulitnya menetapkan secara benar dan tetap semua titik -titik garis pangkal\nkepulauan yang meliputi seluruh garis pantai Indonesia atau menetapkan kembali\ntitik-titik garis pangkal yang berubah karena alam, maka demi kepastian hukum\npenetapan titik -titik garis pangkal di daerah demikian dapat dilakukan melalui\npengamatan sesuai dengan kenyataan di lapangan.\nPasal 5 …\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 5\nCukup jelas.\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 3768\nLAMPIRAN TIDAK DISERTAKAN"
+   }
+  }
+ ]
+}

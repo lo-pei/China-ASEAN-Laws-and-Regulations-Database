@@ -1,0 +1,352 @@
+{
+ "id": "ID-H1139",
+ "title": {
+  "zh": "新闻法",
+  "en": "Law on the Press",
+  "id": "PERS",
+  "orig": "PERS",
+  "vi": "Luật về Báo chí",
+  "th": "พระราชบัญญัติว่าด้วยสื่อสิ่งพิมพ์",
+  "ms": "Akta tentang Akhbar"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02b",
+ "language": "id",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "1999",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU40-1999",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 22,
+ "chars": 18652,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU401999.pdf&fl=P01071"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\01_宪法与基础法\\印尼_文本_1999_PERS.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 28 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H1139-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\n\nDalam Undang-undang ini, yang dimaksud dengan :\n1. Pers adalah lembaga sosial dan wahana komuni kasi massa yang\nmelaksanakan kegiatan jurnalistik meliputi mencari, memperoleh,\nmemiliki, menyimpan, mengolah, dan menyampaikan informasi baik\ndalam bentuk tulisan, suara, gamba r, suara dan gambar, serta data\ndan grafik maupun dalam bent uk lainnya dengan menggunakan\nmedia cetak, media elektronik, dan segala jenis saluran yang\ntersedia.\n2. Perusahaan pers adal ah badan hukum Indonesia yang\nmenyelenggarakan usaha pers meliputi perusahaan media cetak,\nmedia elektronik, dan kantor berita , serta perusahaan media lainnya\nyang secara khusus menyelenggara kan, menyiarkan, atau\nmenyalurkan informasi.\n3. Kantor berita adalah perusahaan pers yang melayani media cetak,\nmedia elektronik, atau media lai nnya serta masyarakat umum dalam\nmemperoleh informasi.\n4. Wartawan adalah orang yang seca ra teratur melaksanakan kegiatan\njurnalistik.\n5. Organisasi pers adalah orga nisasi wartawan dan organisasi\nperusahaan pers.\n6. Pers nasional adalah pers yang diselenggarakan oleh perusahaan pers\nIndonesia.\n7. Pers asing adalah pers yang diselenggarakan oleh perusahaan pers\nasing.\n8. Penyensoran adalah penghapusan secara paksa sebagian atau seluruh\nmateri informasi yang akan diterbitk an atau disiarkan, atau tindakan\nteguran atau peringatan yang be rsifat mengancam dari pihak\nmanapun, dan atau kewajiban melapo r, serta memperoleh izin dari\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\npihak berwajib, dalam pelaksanaan kegiatan jurnalistik.\n9. Pembredelan atau pelaranga n penyiaran adalah penghentian\npenerbitan dan peredaran atau penyiaran secara paksa atau melawan\nhukum.\n10. Hak Tolak adalah hak wartawan  karena profesinya, untuk menolak\nmengungkapkan nama atau identitas lainnya dari sumber berita yang\nharus dirahasiakannya.\n11. Hak Jawab adalah hak seseor ang atau sekelompok orang untuk\nmemberikan tanggapan atau sanggahan terhadap pemberitaan berupa\nfakta yang merugikan nama baiknya.\n12. Hak Koreksi adalah hak se tiap orang untuk mengoreksi atau\nmemberitahukan kekeliruan informas i yang diberitakan oleh pers,\nbaik tentang dirinya maupun tentang orang lain.\n13. Kewajiban Koreksi adalah keha rusan melakukan koreksi atau ralat\nterhadap suatu informasi, data, fa kta, opini, atau gambar yang tidak\nbenar yang telah diberitakan oleh pers yang bersangkutan.\n14. Kode Etik Jurnalistik adalah himpunan etika profesi kewartawanan.\n\n\nBAB II\nASAS, FUNGSI, HAK, KEWAJIBAN DAN\nPERANAN PERS"
+   }
+  },
+  {
+   "id": "ID-H1139-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\n\nKemerdekaan pers adalah salah satu wujud kedaulatan rakyat\nyang berasaskan prinsip-prinsip demokrasi, keadilan, dan\nsupremasi hukum."
+   }
+  },
+  {
+   "id": "ID-H1139-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\n\n(1) Pers nasional mempunyai fungsi sebagai media informasi,\npendidikan, hiburan, dan kontrol sosial.\n(2) Di samping fungsi-fungsi tersebut  ayat (1), pers nasional dapat\nberfungsi sebagai lembaga ekonomi."
+   }
+  },
+  {
+   "id": "ID-H1139-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\n\n(1) Kemerdekaan pers dijamin sebagai hak asasi warga negara.\n(2) Terhadap pers nasional tidak dikenakan penyensor an, pembredelan\natau pelarangan penyiaran.\n\n(3) Untuk menjamin kemerdekaan pers, pers nasional mempunyai hak\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nmencari, memperoleh, dan menyebarluaskan gagasan dan informasi.\n(4) Dalam mempertanggungjawabkan pemberitaan di depan hukum,\nwartawan mempunyai Hak Tolak."
+   }
+  },
+  {
+   "id": "ID-H1139-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\n\n(1) Pers nasional berkewajiban memb erikan peristiwa dan opini dengan\nmenghormati norma-norma agama dan rasa kesusilaan masyarakat\nserta asas praduga tak bersalah.\n(2) Pers wajib melayani Hak Jawab.\n(3) Pers wajib melayani Hak Koreksi."
+   }
+  },
+  {
+   "id": "ID-H1139-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\n\nPers nasional melaksanakan peranan sebagai berikut:\na. memenuhi hak masyarakat untuk mengetahui;\nb. menegakkan nilai-nilai dasa r demokrasi, mendorong terwujudnya\nsupremasi hukum, dan Hak Asas i Manusia, serta menghormati\nkebhinekaan;\nc. mengembangkan pendapat umum be rdasarkan informasi yang tepat,\nakurat, dan benar;\nd. melakukan pengawasan, kritik, koreksi, dan saran terhadap hal-hal\nyang berkaitan dengan kepentingan umum;\nc. memperjuangkan keadilan dan kebenaran.\n\nBAB III\nWartawan"
+   }
+  },
+  {
+   "id": "ID-H1139-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\n\n(1) Wartawan bebas memilih organisasi wartawan.\n(2) Wartawan memiliki dan menaati Kode Etik Jurnalistik."
+   }
+  },
+  {
+   "id": "ID-H1139-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n\nDalam melaksanakan profesinya wartawan mendapat perlindungan\nhukum.\n\n\nBAB IV\nPERUSAHAAN PERS\n\n\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H1139-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n\n(1) Setiap warga negara Indonesia dan negara berhak mendirikan\nperusahaan pers.\n(2) Setiap perusahaan pers harus berbentuk badan hukum Indonesia."
+   }
+  },
+  {
+   "id": "ID-H1139-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\n\nPerusahaan pers memberikan kesejahteraan kepada wartawan dan\nkaryawan pers dalam bentuk kepemilikan saham dan atau\npembagian laba bersih serta bentuk kesejahteraan lainnya."
+   }
+  },
+  {
+   "id": "ID-H1139-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\n\nPenambahan modal asing pada perusahaan pers dilakukan\nmelalui pasar modal."
+   }
+  },
+  {
+   "id": "ID-H1139-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n\nPerusahaan pers wajib mengumumkan nama, alamat dan\npenanggung jawab secara terbuka melalui media yang\nbersangkutan; khusus untuk penerbitan pers ditambah nama dan\nalamat percetakan."
+   }
+  },
+  {
+   "id": "ID-H1139-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\n\nPerusahaan pers dilarang memuat iklan:\na. yang berakibat merendahkan ma rtabat suatu agama dan atau\nmengganggu kerukunan hidup anta rumat beragama, serta\nbertentangan dengan rasa kesusilaan masyarakat;\nb. minuman keras, narkotika, psi kotropika, dan zat adiktif lainnya\nsesuai dengan ketentuan pe raturan perunda ng-undangan yang\nberlaku;\nc. peragaan wujud rokok dan atau penggunaan rokok."
+   }
+  },
+  {
+   "id": "ID-H1139-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\n\nUntuk mengembangkan pemberitaan ke dalam dan ke luar negeri, setiap\nwarga negara Indonesia dan negara dapat mendirikan kantor berita.\n\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\nBAB V\nDEWAN PERS"
+   }
+  },
+  {
+   "id": "ID-H1139-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\n\n(1) Dalam upaya mengembangkan kemerdekaan pers dan meningkatkan\nkehidupan pers nasional, dibentuk Dewan Pers yang independen.\n(2) Dewan Pers melaksanakan fungsi-fungsi sebagai berikut :\n a. melindungi kemerdekaan pers dari campur tangan pihak lain;\n b. melakukan pengkajian untuk pengembangan kehidupan pers;\n c. menetapkan dan mengawasi pela ksanaan Kode Etik Jurnalistik;\n d. memberikan pertimbanga n dan mengupayaka n penyelesaian\npengaduan masyarakat atas kasus-kasus yang berhubungan\ndengan pemberitaan pers;\n e. mengembangkan komunikasi an tara pers, masyarakat, dan\npemerintah;\n f. memfasilitasi organisasi-organisasi pers dalam menyusun\nperaturan-peraturan di bidang pers dan meningkatkan kualitas\nprofesi kewartawanan;\n g. mendata perusahaan pers.\n(3) Anggota Dewan Pers terdiri dari :\n a. wartawan yang dipilih oleh organisasi wartawan;\n b. pimpinan perusahaan pers  yang dipilih oleh organisasi\nperusahaan pers;\n c. tokoh masyarakat, ahli di bi dang pers dan atau komunikasi\nwartawan dan organisasi perusahaan pers.\n(4) Ketua dan Wakil Ketua Dewan Pers dipilih dari dan oleh anggota.\n(5) Keanggotaan Dewan Pers sebaga imana dimaksud dalam ayat (3)\npasal ini ditetapkan dengan Keputusan Presiden.\n(6) Keanggotaan Dewan Pers be rlaku untuk masa tiga tahun dan\nsesudah itu hanya dapat dipilih  kembali untuk satu periode\nberikutnya.\n(7) Sumber pembiayaan Dewan Pers berasal dari:\n a. organisasi pers;\n b. perusahaan pers;\n c. bantuan dari negara dan bantuan lain yang tidak mengikat.\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\n\nBAB VI\nPERS ASING"
+   }
+  },
+  {
+   "id": "ID-H1139-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\n\nPeredaran pers asing dan pendirian perwakilan perusahaan pers asing di\nIndonesia disesuaikan dengan kete ntuan peraturan perundang-undangan\nyang berlaku.\n\nBAB VII\nPERAN SERTA MASYARAKAT"
+   }
+  },
+  {
+   "id": "ID-H1139-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\n\n(1) Masyarakat dapat melakuka n kegiatan untuk mengembangkan\nkemerdekaan pers dan menjamin hak memperoleh informasi yang\ndiperlukan.\n(2) Kegiatan sebagaimana dimaksud dalam ayat (1) dapat berupa:\n a. memantau dan melaporkan analisis mengenai pelanggaran\nhukum, etika, dan kekeliruan te knis pemberitaan yang dilakukan\noleh pers;\n b. menyampaikan usulan dan sa ran kepada Dewan Pers dalam\nrangka menjaga dan meningkatkan kualitas pers nasional.\n\n\n\n\nBAB VIII\nKETENTUAN PIDANA"
+   }
+  },
+  {
+   "id": "ID-H1139-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\n\n(1) Setiap orang yang secara melawan hukum dengan sengaja\nmelakukan tindakan yang berakiba t menghambat atau menghalangi\npelaksanaan ketentuan Pasal 4 ayat (2) dan ayat (3) dipidana dengan\npidana penjara paling lama 2 ( dua) tahun atau de nda paling banyak\nRp.500.000.000,00 (lima ratus juta rupiah)\n(2) Perusahaan pers yang melanggar ketentuan Pasal 5 ayat (1) dan ayat\n(2), serta Pasal 13 dipidana de ngan pidana denda  paling banyak\nRp.500.000.000,00 (lima ratus juta rupiah).\n(3) Perusahaan pers yang melanggar ketentuan Pasal 9 ayat (2) dan\nPasal 12 dipidana dengan pi dana denda paling banyak\nRp.100.000.000,00 (seratus juta rupiah).\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\nBAB IX\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H1139-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\n\n(1) Dengan berlakunya undang-unda ng ini segala peraturan\nperundang-undangan di bidang pers yang be rlaku atau tetap\nmenjalankan fungsinya sepanjang tidak bertentangan atau belum\ndiganti dengan yang baru berdasarkan undang-undang ini.\n(2) Perusahaan pers yang sudah ada sebelum diundangkannya\nundang-undang ini, wajib menyesuai kan diri dengan ketentuan\nundang-undang ini dalam wa ktu selambat-lambatnya 1 (satu) tahun\nsejak diundangkannya undang-undang ini.\n\nBAB X\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H1139-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\n\nPada saat undang-undang ini mulai berlaku :\n1. Undang-undang Nomor 11 Tahun 1966 tentang Ketentuan-ketentuan\nPokok Pers (Lembaran Negara  Republik Indonesia Tahun 1966\nNomor 40, Tambahan Lembaran Negara Republik Indonesia Nomor\n2815) yang telah diuba h terakhir dengan U ndang-undang Republik\nIndonesia Nomor 21 Tahun 1982 tentang Perubahan atas\nUndang-undang Republik Indonesi a Nomor 11 Tahun 1966 tentang\nKetentuan-ketentuan Pokok Pers sebagaiman a telah diubah dengan\nUndang-undang Nomor 4 Tahun 1967 (L embaran Negara Republik\nIndonesia Tahun 1967 Nomor 52, Ta mbahan Lembaran Negara\nRepublik Indonesia Nomor 3235).\n2. Undang-undang Nomor 4 PNPS Tahun 1963 tenta ng Pengamanan\nTerhadap Barang-barang Cetaka n yang Isinya Dapat mengganggu\nKetertiban Umum (Lembaran Negara Republik Indonesia Tahun\n1963 Nomor 23, Tambahan Lembaran Negara Republik Indonesia\nNomor 2533), Pasal 2 ayat (3) sepanjang menyangkut ketentuan\nmengenai buletin-buletin, surat-surat kabar harian, majalah-majalah,\ndan penerbitan-penerbitan berkala;\ndinyatakan tidak berlaku."
+   }
+  },
+  {
+   "id": "ID-H1139-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\n\nUndang-undang ini mulai berlaku pada tanggal diundangkan.\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\nAgar setiap orang mengetahui nya, memerintahkan pengundangan\nUndang-undang ini dengan penempata nnya dalam Lembaran Negara\nRepublik Indonesia.\n\n          Disahkan di Jakarta\n         pada tanggal 23 September 1999\n          PRESIDEN REPUBLIK INDONESIA,\n\n               t t d .\n\n         BACHARUDDIN JUSUF HABIBIE\nDiundangkan di Jakarta\npada tanggal 23 September 1999\nMENTERI NEGARA SEKRETARIS NEGARA\n REPUBLIK INDONESIA,\n\n              ttd.\n\n       MULADI\n\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1999 NOMOR 166\n\n\n\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\nPENJELASAN\nATAS\nUNDANG-UNDANG REPUBLIK INDONESIA\nNOMOR 40 TAHUN 1999\nTENTANG\nPERS\n\nI. UMUM"
+   }
+  },
+  {
+   "id": "ID-H1139-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28 Undang-Undang Dasar 1945 menj a"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {
+    "id": "Undang-Undang Dasar 1945 menj amin kemerdekaan berserikat dan"
+   },
+   "text": {
+    "id": "Pasal 28 Undang-Undang Dasar 1945 menj amin kemerdekaan berserikat dan\nberkumpul, mengeluarkan pi kiran dengan lisan dan tu lisan. Pers yang meliputi\nmedia cetak, media elektronik dan media lainnya merupakan sa lah satu sarana\nuntuk mengeluarkan pikiran dengan lisan dan tulisan tersebut. Agar pers berfungsi\nsecara maksimal sebagaimana diaman atkan Pasal 28 Unda ng-Undang Dasar 1945\nmaka perlu dibentuk U ndang-undang tentang Pers. Fungsi maksimal itu\ndiperlukan karena kemerdekaan pers adalah salah sa tu perwujudan kedaulatan\nrakyat dan merupakan unsur yang sangat penting dalam kehidupan bermasyarakat,\nberbangsa dan bernegara yang demokratis.\n  Dalam kehidupan yang demokratis itu pertanggungjawaban kepada rakyat\nterjamin, sistem penyelenggaraan negara yang transparan berfungsi, serta keadilan\ndan kebenaran terwujud.\n  Pers yang memiliki kemerdekaan unt uk mencari dan menyampaikan informasi\njuga sangat penting untuk mewujudkan  Hak Asasi Manusia yang dijamin\ndengan Ketetapan Majelis Permusyawaratan Rakyat Republik Indonesia Nomor\nXVII/MPR/1998 tentang Hak Asasi Manusia, antara lain yang menyatakan bahwa\nsetiap orang berhak berkom unikasi dan memperoleh informasi sejalan dengan\nPiagam Perserikatan Bangsa Bangsa te ntang Hak Asasi Ma nusia Pasal 19 yang\nberbunyi : \"Setiap orang berhak atas  kebebasan mempunya i dan mengeluarkan\npendapat; dalam hak ini te rmasuk kebebasan memiliki pendapat tanpa gangguan,\ndan untuk mencari, menerima, dan menya mpaikan informasi dan buah pikiran\nmelalui media apa saja dan dengan tidak memandang batas-batas wilayah\".\n  Pers yang juga melaksanakan kontrol sosial sangat penting pula untuk mencegah\nterjadinya penyalahgunaan kekuasaan baik korupsi, kolusi, nepotisme, maupun\npenyelewengan dan penyimpangan lainnya.\n  Dalam melaksanakan fungsi, hak, kewajiban dan peranannya, pers menghormati\nhak asasi setiap orang, karena itu dit untut pers yang prof esional dan terbuka\ndikontrol oleh masyarakat.\nKontrol masyarakat dimaksud antara lain : oleh setiap orang dengan dijaminnya\nHak Jawab dab Hak Koreksi, oleh lemb aga-lembaga kemasyarakatan seperti\npemantau media (media watch) dan oleh  Dewan Pers dengan berbagai bentuk dan\ncara.\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n  Untuk menghindari pengaturan yang tumpang tindih, undang-undang ini tidak\nmengatur ketentuan yang sudah diat ur dengan ketentuan peraturan\nperundang-undangan lainnya.\n\nII. PASAL DEMI PASAL\n\n Pasal 1\n  Cukup jelas\n\n Pasal 2\n  Cukup jelas\n\n Pasal 3\n  Ayat (1)\n   Cukup jelas\n  Ayat (2)\n   Perusahaan pers dikelola sesuai de ngan prinsip ekonomi, agar kualitas pers dan\nkesejahteraan para wartawan dan kary awannya semakin meningkat dengan tidak\nmeninggalkan kewajiban sosialnya.\n\n Pasal 4\n  Ayat (1)\n   Yang dimaksud dengan \"kemerdekaan pers dijamin sebagai hak asasi warga\nnegara\" adalah bahwa pers bebas dari tindakan pencegahan, pelarangan, dan atau\npenekanan agar hak masyarakat untuk memperoleh informasi terjamin.\n   Kemerdekaan pers adalah kemerd ekaan yang disertai kesadaran akan\npentingnya penegakan suprem asi hukum yang dilaksanakan  oleh pengadilan, dan\ntanggung jawab profesi yang dija barkan dalam Kode etik Jurnalistik serta sesuai\ndengan hati nurani insan pers.\n  Ayat (2)\n   Penyensoran, pembredelan, atau pe larangan penyiaran tidak berlaku pada\nmedia cetak dan media elektronik. Siar an yang bukan merupa kan bagian dari\npelaksanaan kegiatan jurnalistik di atur dalam ketent uan undang-undang yang\nberlaku.\n  Ayat (3)\n   Cukup jelas\n  Ayat (4)\n   Tujuan utama Hak Tolak adalah agar wartawan dapat melindungi sumber\ninformasi, dengan cara menolak menyebutkan identitas sumber informasi.\n   Hak tersebut dapat di gunakan jika wartawan dimintai  keterangan oleh pejabat\npenyidik dan atau diminta menjadi saksi di pengadilan.\n   Hak Tolak dapat dibatalkan demi ke pentingan dan keselamatan negara atau\nketertiban umum yang dinyatakan oleh pengadilan.\n\n\n\nPasal 5\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n  Ayat (1)\n   Pers nasional dalam menyiarkan info rmasi, tidak menghakimi atau membuat\nkesimpulan kesalahan seseorang, terl ebih lagi untuk kasus-kasus yang masih\ndalam proses peradilan, serta dapat mengakomodasikan kepentingan semua pihak\nyang terkait dalam pemberitaan tersebut.\n  Ayat (2)\n   Cukup jelas\n  Ayat (3)\n   Cukup jelas.\n\n Pasal 6\n  Pers nasional mempunyai peranan pen ting dalam memenuhi hak masyarakat untuk\nmengetahui dan mengemb angkan pendapat umum, dengan menyampaikan\ninformasi yang tepat, akurat dan be nar. Hal ini akan mendorong ditegakkannya\nkeadilan dan kebenaran, serta diwu judkannya supremasi hukum untuk menuju\nmasyarakat yang tertib.\n\n Pasal 7\n  Ayat (1)\n   Cukup jelas\n  Ayat (2)\n   Yang dimaksud dengan \"Kode Etik Jurnalistik\" adalah kode etik yang\ndisepakati organisasi wartawan dan ditetapkan oleh Dewan Pers.\n\n Pasal 8\n  Yang dimaksud dengan \"perlindungan hukum\" adalah  jaminan perlindungan\nPemerintah dan atau masyarakat kepada  wartawan dalam melaksanakan fungsi,\nhak, kewajiban, dan peranannya se suai dengan ketentuan peraturan\nperundang-undangan yang berlaku.\n Pasal 9\n  Ayat (1)\n   Setiap warga negara Indonesia berh ak atas kesempatan yang sama untuk\nbekerja sesuai dengan Hak Asasi Manusia, termasuk mendi rikan perusahaan pers\nsesuai dengan ketentuan peraturan perundang-undangan yang berlaku.\n   Pers nasional mempunyai fungsi dan pe ranan yang penting dan strategis dalam\nkehidupan bermasyarakat, berbangsa, dan bernegara. Oleh karena itu, negara dapat\nmendirikan perusahaan pers dengan memb entuk lembaga atau badan usaha untuk\nmenyelenggarakan usaha pers.\n  Ayat (2)\n   Cukup jelas\n\n Pasal 10\n  Yang dimaksud dengan \"ben tuk kesejahteraan lainnya\" adalah peningkatan gaji,\nbonus, pemberian asuransi dan lain-lain.\n  Pemberian kesejahteraan tersebut dila ksanakan berdasarkan kesepakatan antara\nmanajemen perusahaan dengan wartawan dan karyawan pers.\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n Pasal 11\n  Penambahan modal asing pada perusaha an pers dibatasi agar tidak mencapai\nsaham mayoritas dan dilaksanakan se suai dengan ketentuan peraturan\nperundang-undangan yang berlaku.\n\n Pasal 12\n  Pengumuman secara terbuka  dilakukan dengan cara :\n  a. media cetak memuat kolom nama , alamat, dan penanggung jawab penerbitan\nserta nama dan alamat percetakan;\n  b. media elektronik menyiarkan na ma, alamat, dan penanggungjawabnya pada\nawal atau akhir setiap siaran karya jurnalistik;\n  c. media lainnya menyesuaikan dengan bentuk, sifat dan ka rakter media yang\nbersangkutan.\n  Pengumuman tersebut dimaksudkan se bagai wujud pertanggungjawaban atas\nkarya jurnalistik yang diterbitkan atau disiarkan.\n  Yang dimaksud dengan \"penanggung jawab\" adalah penanggung jawab\nperusahaan pers yang meliputi bidang usaha dan bidang redaksi.\n  Sepanjang menyangkut pertanggungjawaban pidana menganut ketentuan\nperundang-undangan yang berlaku.\n\n Pasal 13\n  Cukup jelas\n\n Pasal 14\n  Cukup jelas\n\n Pasal 15\n  Ayat (1)\n   Tujuan dibentuknya Dewan Pers adalah untuk mengembangkan kemerdekaan\npers dan meningkatkan kualitas serta kuantitas pers nasional.\n  Ayat (2)\n   Pertimbangan atas pengaduan dari ma syarakat sebagaimana dimaksud ayat (2)\nhuruf d adalah yang berkaitan dengan Hak Jawab, Hak Koreksi, dan dugaan\npelanggaran terhadap Kode Etik Jurnalistik.\n  Ayat (3)\n   Cukup jelas\n  Ayat (4)\n   Cukup jelas\n  Ayat (5)\n   Cukup jelas\n  Ayat (6)\n   Cukup jelas\n\n  Ayat (7)\n   Cukup jelas\n\n Pasal 16\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n  Cukup jelas\n\n Pasal 17\n  Ayat (1)\n   Cukup jelas\n  Ayat (2)\n   Untuk melaksanakan peran serta masyarakat sebagaimana dimaksud dalam\nayat ini dapat dibentuk lembaga organisasi pemantau media (media wach).\n\n Pasal 18\n  Ayat (1)\n   Cukup jelas\n  Ayat (2)\n   Dalam hal pelanggaran pidana yang dilakukan oleh perusahaan pers, maka\nperusahaan tersebut diwakili oleh penanggungjawab sebagaimana dimaksud dalam\npenjelasan Pasal 12.\n  Ayat (3)\n   Cukup jelas\n\n Pasal 19\n  Cukup jelas\n\n Pasal 20\n  Cukup jelas\n\n Pasal 21\n  Cukup jelas\n\n\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 3887"
+   }
+  }
+ ]
+}

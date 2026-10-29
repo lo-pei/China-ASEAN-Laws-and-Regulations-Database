@@ -1,0 +1,62 @@
+{
+ "id": "PH-H22019",
+ "title": {
+  "zh": null,
+  "en": "Amending Section 1 of Presidential Decree No. 439 DatedApril 22, 1974",
+  "orig": "Amending Section 1 of Presidential Decree No. 439 DatedApril 22, 1974"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p159",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1974-12-02",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 592",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1600,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_00592_1974_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_00592_1974_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22019-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Provisions of Section 105 of the Tariff and Customs Code, as amended, to the contrary\nnotwithstanding, professional instruments and implements, tools of trade, occupation or employment, wearing\napparel, domestic animals, and personal and household effects belonging to persons coming to settle in the\nPhilippines or Filipinos and/or their families and descendants who are now residents or citizens of other\ncountries, such parties herein referred to as Overseas Filipinos, in quantities and of the class suitable to the\nprofession, rank or position of the person importing them, for their own use and not for barter or sale,\naccompanying such persons, arriving within a reasonable time, in the discretion of the Collector of Customs,\nbefore or after the arrival of their owners which shall not be later than February 29, 1976, upon the production\nof evidence satisfactory to the Collector of Customs that such persons are actually coming to settle in the\nPhilippines, that change of residence was bona fide and that the privilege of free entry was never granted to\nthem before or that such person qualifies under the provisions of Letters of Instructions 105, 163 and 210, and\nthat the articles are brought from their former place of abode, shall be exempt from the payment of customs\nduties and taxes; Provided, That vehicles, vessels, aircraft, machineries and other similar articles for use in\nmanufacture, shall not be classified hereunder."
+   }
+  },
+  {
+   "id": "PH-H22019-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Decree shall take effect immediately.\nDone in the City of Manila, this 2nd day of December, in the year of Our Lord, nineteen hundred and\nseventy-four."
+   }
+  }
+ ]
+}

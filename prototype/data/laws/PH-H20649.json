@@ -1,0 +1,62 @@
+{
+ "id": "PH-H20649",
+ "title": {
+  "zh": null,
+  "en": "MALACANANG BY THE PRESIDENT OF THE PHILIPPINES",
+  "orig": "MALACANANG BY THE PRESIDENT OF THE PHILIPPINES"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p158",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Executive Order No. 612",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1000,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/07_行政命令_EO/EO_00612_2007.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 EO_00612_2007.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H20649-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section 3 of Executive Order No. 612 is hereby amended to\nread as follows\n\"Section 3. Composilion. - The CMO shall be composed of\nthe Executive Secretary as Chair, the Secretary of Justice and the\nSecretary of Foreign Affairs as Vice-Chairs, and the following as\nDepartment of National Defense (DND), National\nSecurily Council, Department of Environment and Natural\nResources (DENR), Department of Energy (DOE), Department of\nBudget and Management (DBM), Department of Transporlation and\nCommunications\n(DOTC), Department of Tourism (DOT),\nDepartment of Trade and industry (DTI), Burcau of Fisheries and\nAquatic Resources (BFAR), the Solicitor General (SolGen), the Chief\nPresidential Legal Counsel (CPLC), National Mapping and Resources\nInformation Authority (NAMRIA), and the Philippine Coast Guard"
+   }
+  },
+  {
+   "id": "PH-H20649-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Sec 2"
+   },
+   "text": {
+    "en": "This Order shall take effect immediately.\nDone in the City of Manila, thig 7thday. of December, in the year of our\nLord, Two Thousand and Seven.\nBy the President:\nEDUARDO R. ERMITA\nExeculive Secretary"
+   }
+  }
+ ]
+}

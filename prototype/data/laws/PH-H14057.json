@@ -1,0 +1,62 @@
+{
+ "id": "PH-H14057",
+ "title": {
+  "zh": null,
+  "en": "An Act to Appropriate the Sum of three Hundred thousand Pesos for Propaganda or Publicity for Philippine Cigars and Other Tobacco Products in the United states and Other Countries.",
+  "orig": "An Act to Appropriate the Sum of three Hundred thousand Pesos for Propaganda or Publicity for Philippine Cigars and Other Tobacco Products in the United states and Other Countries."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1927-12-09",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3424",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 510,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1927/act_3424_1927.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03424_1927_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03424_1927_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14057-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The sum of three hundred thousand pesos is hereby appropriated, out of any general funds of the\nInsular Government not otherwise appropriated, for disbursement for propaganda or publicity for Philippine\ncigars and other tobacco products in the United States and other countries. This propaganda or publicity\ncampaign shall be under the control and direction of the Tobacco Board created by Act Numbered Thirty-one\nhundred and seventy-nine."
+   }
+  },
+  {
+   "id": "PH-H14057-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, December 9, 1927."
+   }
+  }
+ ]
+}

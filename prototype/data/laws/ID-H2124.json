@@ -1,0 +1,966 @@
+{
+ "id": "ID-H2124",
+ "title": {
+  "zh": "税收权利行使与义务履行程序法",
+  "en": "Law on the Procedures for Exercising Rights and Fulfilling Tax Obligations",
+  "id": "TATA CARA PELAKSANAAN HAK DAN PEMENUHAN KEWAJIBAN PERPAJAKAN",
+  "orig": "TATA CARA PELAKSANAAN HAK DAN PEMENUHAN KEWAJIBAN PERPAJAKAN",
+  "vi": "Luật về Thủ tục Thực hiện Quyền và Hoàn thành Nghĩa vụ Thuế",
+  "th": "พระราชบัญญัติว่าด้วยขั้นตอนการใช้สิทธิและการปฏิบัติตามหน้าที่ทางภาษี",
+  "ms": "Akta tentang Tatacara Pelaksanaan Hak dan Pemenuhan Kewajipan Percukaian"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02a",
+ "language": "id",
+ "level": "law",
+ "category": "05_刑事与知识产权",
+ "status": "active",
+ "promulgatedDate": "2011",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU74-2011",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 64,
+ "chars": 168940,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PP%2074%20Tahun%202011.pdf&fl=P17707"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\05_刑事与知识产权\\印尼_文本_2011_TATA CARA PELAKSANAAN HAK DAN PEMENUHAN KEWAJIBAN PERPAJAKAN.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 67 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H2124-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\n\nDalam Peraturan Pemerintah ini yang dimaksud dengan:\n1. Undang-Undang adalah Undang -Undang Nomor 6 Tahun\n1983 tentang Ketentuan Umum dan Tata Cara Perpajakan\nsebagaimana telah bebe rapa kali diubah terakhir dengan\nUndang-Undang Nomor 16 Tahun 2009  tentang Penetapan\nPeraturan Pemerintah Pengganti Undang -Undang Nomor 5\nTahun 2008 tentang Perubahan Keempat Atas Undang -\nUndang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan\nTata Cara Perpajakan Menjadi Undang-Undang.\n2. Wajib Pajak adalah orang pribadi atau badan, meliputi\npembayar pajak, pemotong pajak, dan pemungut pajak, yang\nmempunyai hak dan kewajiban perpajakan sesuai dengan\nketentuan peraturan perundang -undangan di bidang\nperpajakan.\n\n\n3. Penelitian . . .\n\n\n\n3. Penelitian adalah serangkaian kegiatan yang dilakukan\nuntuk menilai kelengkapan pengisian Surat Pemberitahuan\ndan lampiran -lampirannya termasuk penilaian tentang\nkebenaran penulisan dan penghitungannya.\n4. Verifikasi adalah serangkaian kegiatan pengujian\npemenuhan kewajiban subjektif dan objektif atau\npenghitungan dan pembayaran pajak, berdasarkan\npermohonan Wajib Pajak atau berdasarkan data dan\ninformasi perpajakan yang dimiliki atau diperoleh Direktur\nJenderal Pajak, dalam rangka menerbitkan surat ketetapan\npajak, menerbitkan/menghapus Nomor Pokok Wajib Pajak\ndan/atau mengukuhkan/mencabut pengukuhan Pengusaha\nKena Pajak.\n5. Pembahasan Akhir Hasil Verifikasi adalah pembahasan\nantara Wajib Pajak dan petugas Verifikasi atas hasil\nVerifikasi yang dituangkan dalam B erita Acara Pembahasan\nAkhir Hasil Verifikasi yang ditandatangani oleh kedua belah\npihak, dan berisi koreksi baik yang disetujui maupun yang\ntidak disetujui.\n6. Pemeriksaan adalah serangkaian kegiatan menghimpun dan\nmengolah data, keterangan, dan/atau bukti y ang\ndilaksanakan secara objektif dan profesional berdasarkan\nsuatu standar Pemeriksaan untuk menguji kepatuhan\npemenuhan kewajiban perpajakan dan/atau untuk tujuan\nlain dalam rangka melaksanakan ketentuan peraturan\nperundang-undangan di bidang perpajakan.\n7. Pembahasan Akhir Hasil Pemeriksaan adalah pembahasan\nantara Wajib Pajak dan pemeriksa pajak atas temuan\nPemeriksaan yang hasilnya dituangkan dalam Berita Acara\nPembahasan Akhir Hasil Pemeriksaan yang ditandatangani\noleh kedua belah pihak, dan berisi koreks i baik yang\ndisetujui maupun yang tidak disetujui.\n\n\n\n8. Pemeriksaan . . .\n\n\n\n8. Pemeriksaan Bukti Permulaan adalah pemeriksaan yang\ndilakukan untuk mendapatkan bukti permulaan tentang\nadanya dugaan telah terjadi tindak pidana di bidang\nperpajakan.\n9. Penyidikan Tindak Pidana di Bida ng Perpajakan  adalah\nserangkaian tindakan yang dilakukan oleh penyidik untuk\nmencari serta mengumpulkan bukti yang dengan bukti itu\nmembuat terang tindak pidana di bidang perpajakan yang\nterjadi serta menemukan tersangkanya.\n10. Persetujuan Penghindaran Pajak Berganda yang selanjutnya\ndisebut P3B adalah perjanjian antar a Pemerintah Indonesia\ndengan pemerintah negara mitra atau yurisdiksi mitra untuk\nmencegah terjadinya pengenaan pajak berganda dan\npengelakan pajak.\n11. Prosedur Persetujuan Bersama (Mutual Agreement Procedure)\nyang selanjutnya disebut MAP adalah prosedur administratif\nyang diatur dalam P3B untuk menyelesaikan permasalahan\nyang timbul dalam penerapan P3B.\n12. Persetujuan Bersama adalah  hasil yang telah disepakati\ndalam penerapan P3B oleh pejabat yang berw enang dari\nPemerintah Indonesia dan pemerintah negara mitra atau\nyurisdiksi mitra P3B sehubungan dengan MAP yang telah\ndilaksanakan.\n13. Kesepakatan Harga Transfer ( Advance Pricing Agreement )\nyang selanjutnya disebut APA adalah perjanjian tertulis\nantara:\na. Direktur Jenderal Pajak dan Wajib Pajak; atau\nb. Direktur Jende ral Pajak dengan otoritas pajak\npemerintah negara mitra atau yurisdiksi mitra P3B yang\nmelibatkan Wajib Pajak,\nsebagaimana dimaksud dalam Pasal 18 ayat (3a) Undang -\nUndang Pajak Pen ghasilan 1984 dan perubahannya untuk\nmenyepakati kriteria -kriteria dan/atau menentukan harga\nwajar atau laba wajar dimuka.\n\nBAB II . . .\n\n\n\nBAB II\nNOMOR POKOK WAJIB PAJAK,\nSURAT PEMBERITAHUAN, PENGUNGKAPAN KETIDAKBENARAN,\nDAN TATA CARA PEMBAYARAN PAJAK\n\nBagian Kesatu\nNomor Pokok Wajib Pajak"
+   }
+  },
+  {
+   "id": "ID-H2124-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\n(1) Setiap Wajib Pajak yang telah memenuhi persyaratan\nsubjektif dan objektif sesuai dengan ketentuan peraturan\nperundang-undangan di bida ng perpajakan wajib\nmendaftarkan diri pada kantor Direktorat Jenderal Pajak\nyang wilayah kerjanya meliputi tempat tinggal atau tempat\nkedudukan Wajib Pajak dan kepada Wajib Pajak diberikan\nNomor Pokok Wajib Pajak.\n(2) Kewajiban mendaftarkan diri sebagaimana di maksud pada\nayat (1) berlaku pula terhadap wanita kawin yang dikenai\npajak secara terpisah karena hidup terpisah berdasarkan\nkeputusan hakim atau dikehendaki secara tertulis\nberdasarkan perjanjian pemisahan penghasilan dan harta.\n(3) Wanita kawin yang telah me menuhi persyaratan subjektif\ndan objektif sesuai dengan ketentuan peraturan perundang -\nundangan di bidang perpajakan dan:\na. tidak hidup terpisah; atau\nb. tidak melakukan perjanjian pemisahan penghasilan dan\nharta secara tertulis,\nhak dan kewajiban perpajakanny a digabungkan dengan\npelaksanaan hak dan pemenuhan kewajiban perpajakan\nsuaminya.\n(4) Wanita kawin sebagaimana dimaksud pada ayat (3) yang\ningin melaksanakan hak dan memenuhi kewajiban\nperpajakan terpisah dari hak dan kewajiban perpajakan\nsuami harus mendaftar kan diri untuk memperoleh Nomor\nPokok Wajib Pajak.\n\n (5) Dalam . . .\n\n\n\n(5) Dalam hal wanita kawin yang ingin melaksanakan hak dan\nmemenuhi kewajiban perpajakan terpisah dari hak dan\nkewajiban perpajakan suami sebagaimana dimaksud pada\nayat (4) telah memiliki Nomor Pokok Wajib  Pajak sebelum\nkawin, tidak perlu mendaftarkan diri untuk memperoleh\nNomor Pokok Wajib Pajak.\n(6) Ketentuan lebih lanjut mengenai tata cara pendaftaran dan\npemberian Nomor Pokok Wajib Pajak bagi wanita kawin\ndiatur dengan atau berdasarkan Peraturan Menteri\nKeuangan."
+   }
+  },
+  {
+   "id": "ID-H2124-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\nWarisan yang belum terbagi sebagai satu kesatuan menggantikan\nyang berhak dalam kedudukannya sebagai subjek pajak\nmenggunakan Nomor Pokok Wajib Pajak dari orang pribadi yang\nmeninggalkan warisan tersebut dan diwakili oleh:\na. salah seorang ahli waris;\nb. pelaksana wasiat; atau\nc. pihak yang mengurus harta peninggalan."
+   }
+  },
+  {
+   "id": "ID-H2124-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\n(1) Direktur Jenderal Pajak karena jabatan atau atas\npermohonan Wajib Pajak, dapat melakukan penghapusan\nNomor Pokok Wajib Pajak dan/atau pencabutan\npengukuhan Pengusaha Kena Pajak.\n(2) Penghapusan Nomor Pokok Wajib Pajak dan/atau\npencabutan pengukuhan Pengusaha Kena Pajak\nsebagaimana dimaksud pada ayat (1) dilakukan berdasarkan\nPemeriksaan atau Verifikasi.\n(3) Penghapusan Nomor Pokok Wajib Pajak dan/atau\npencabutan pengukuhan Pengusaha Ke na Pajak\nberdasarkan Verifikasi sebagaimana dimaksud pada ayat (2)\ndilakukan terhadap Wajib Pajak yang memenuhi kriteria\ntertentu.\n(4) Ketentuan lebih lanjut mengenai tata cara penghapusan\nNomor Pokok Wajib Pajak dan/atau pencabutan\npengukuhan Pengusaha Kena Pajak diatur dengan atau\nberdasarkan Peraturan Menteri Keuangan.\n Bagian . . .\n\n\n\nBagian Kedua\nSurat Pemberitahuan"
+   }
+  },
+  {
+   "id": "ID-H2124-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\n(1) Wajib Pajak dengan kemauan sendiri dapat membetulkan\nSurat Pemberitahuan yang telah disampaikan dengan\nmenyampaikan pernyataan tertulis, dengan sya rat Direktur\nJenderal Pajak belum melakukan tindakan:\na. Verifikasi dalam rangka menerbitkan surat ketetapan\npajak;\nb. Pemeriksaan; atau\nc. Pemeriksaan Bukti Permulaan.\n(2) Pernyataan tertulis dalam pembetulan Surat Pemberitahuan\nsebagaimana dimaksud pada ayat (1) dila kukan dengan cara\nmemberi tanda pada tem pat yang telah disediakan dalam\nSurat Pemberitahuan yang menyatakan bahwa Wajib Pajak\nyang bersangkutan membetulkan Surat Pemberitahuan.\n(3) Dalam hal pembetulan Surat Pemberitahuan sebagaimana\ndimaksud pada ayat (1) men yatakan rugi atau lebih bayar,\npembetulan Surat Pemberitahuan harus disampaikan paling\nlama 2 (dua) tahun sebelum daluwarsa penetapan.\n(4) Ketentuan lebih lanjut mengenai tata cara pembetulan Surat\nPemberitahuan diatur dengan atau berdasarkan Peraturan\nMenteri Keuangan."
+   }
+  },
+  {
+   "id": "ID-H2124-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\n(1) Wajib Pajak dapat membetulkan Surat Pemberitahuan\nTahunan yang telah disampaikan, dalam hal Wajib Pajak\nmenerima surat ketetapan pajak, Surat Keputusan\nKeberatan, Surat Keputusan Pengurangan Ketetapan Pajak,\nSurat Keputusan Pembatalan K etetapan Pajak, Surat\nKeputusan Pembetulan,  Putusan Banding, atau Putusan\nPeninjauan Kembali, atas Tahun Pajak sebelumnya atau\nbeberapa Tahun Pajak sebelumnya, yang menyatakan rugi\nfiskal yang berbeda dengan rugi fiskal yang telah\ndikompensasikan dalam Su rat Pemberitahuan Tahunan\nsebagaimana dimaksud dalam Pasal 8 ayat (6) Undang -\nUndang, dengan menyampaikan pernyataan tertulis.\n\n(2) Pernyataan . . .\n\n\n\n(2) Pernyataan tertulis dalam pembetulan Surat Pemberitahuan\nTahunan yang menyatakan rugi fiskal berbeda dengan rugi\nfiskal yang te lah dikompensasikan dalam Surat\nPemberitahuan Tahunan sebagaimana dimaksud pada ayat\n(1) dilakukan dengan cara memberi tanda pada tempat yang\ntelah disediakan dalam Surat Pemberitahuan Tahunan yang\nmenyatakan bahwa Wajib Pajak yang bersangkutan\nmembetulkan Surat Pemberitahuan Tahunan.\n(3) Pembetulan sebagaimana dimaksud pada ayat (1) harus\ndilakukan paling lama 3 (tiga) bulan setelah menerima surat\nketetapan pajak, Surat Keputusan Keberatan, Surat\nKeputusan Pengurangan Ketetapan Pajak, Surat Keputusan\nPembatalan Ketetapan Pajak, Surat Keputusan Pembetulan,\nPutusan Banding, atau Putusan Peninjauan Kembali.\n(4) Jangka waktu 3 (tiga) bulan untuk melakukan pembetulan\nSurat Pemberitahuan Tahunan sebagaimana dimaksud pada\nayat (3) dihitung sejak tanggal stempel pos pengir iman, atau\ndalam hal diterima secara langsung, jangka waktu 3 (tiga)\nbulan dihitung sejak tanggal diterimanya surat ketetapan\npajak, Surat Keputusan Keberatan, Surat Keputusan\nPengurangan Ketetapan Pajak, Surat Keputusan Pembatalan\nKetetapan Pajak, Surat K eputusan Pembetulan, Putusan\nBanding, atau Putusan Peninjauan Kembali oleh Wajib\nPajak.\n(5) Dalam hal Wajib Pajak tidak membetulkan Surat\nPemberitahuan Tahunan sebagaimana dimaksud pada ayat\n(1), Direktur Jenderal Pajak memperhitungkan rugi fiskal\nmenurut surat ketetapan pajak, Surat Keputusan Keberatan,\nSurat Keputusan Pengurangan Ketetapan Pajak, Surat\nKeputusan Pembatalan Ketetapan Pajak, Surat Keputusan\nPembetulan, Putusan Banding, atau Putusan Peninjauan\nKembali dalam penerbitan surat ketetapan pajak, Sura t\nKeputusan Keberatan, dan Surat Keputusan Pembetulan.\n(6) Apabila Wajib Pajak tidak membetulkan Surat\nPemberitahuan Tahunan dalam jangka waktu 3 (tiga) bulan\nsebagaimana dimaksud pada ayat (3), Direktur Jenderal\nPajak menghitung kembali kompensasi kerugian d alam\nSurat Pemberitahuan Tahunan secara jabatan berdasarkan\nrugi fiskal sesuai dengan surat ketetapan pajak, Surat\nKeputusan Keberatan, Surat Keputusan Pengurangan\nKetetapan Pajak, Surat Keputusan Pembatalan Ketetapan\nPajak, Surat Keputusan Pembetulan, Put usan Banding, atau\nPutusan Peninjauan Kembali.\n(7) Ketentuan . . .\n\n\n\n(7) Ketentuan lebih lanjut mengenai tata cara pembetulan Surat\nPemberitahuan Tahunan diatur dengan atau berdasarkan\nPeraturan Menteri Keuangan.\n\nBagian Ketiga\nPengungkapan Ketidakbenaran"
+   }
+  },
+  {
+   "id": "ID-H2124-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\n(1) Wajib Pajak dengan kemauan sendiri dapat mengungkapkan\ndengan pernyataan tertulis mengenai ketidakbenaran\nperbuatannya, yaitu:\na. tidak menyampaikan Surat Pemberitahuan; atau\nb. menyampaikan Surat Pemberitahuan yang isinya tidak\nbenar atau tidak lengkap, atau melampirkan keter angan\nyang isinya tidak benar,\nsepanjang mulainya Penyidikan belum diberitahukan kepada\nPenuntut Umum melalui penyidik pejabat Polisi Negara\nRepublik Indonesia.\n(2) Pernyataan tertulis sebagaimana dimaksud pada ayat ( 1)\nharus ditandatangani oleh Wajib Pajak da n dilampiri\ndengan:\na. penghitungan kekurangan pembayaran jumlah pajak\nyang sebenarnya terutang  dalam format Surat\nPemberitahuan;\nb. Surat Setoran Pajak sebagai bukti pelunasan\nkekurangan pembayaran pajak; dan\nc. Surat Setoran Pajak sebagai bukti pembayaran  sanksi\nadministrasi berupa denda sebesar 150% (seratus lima\npuluh persen).\n(3) Dalam hal pengungkapan ketidakbenaran perbuatan yang\ndilakukan Wajib Pajak sebagaimana dimaksud pada ayat (1)\ntelah sesuai dengan keadaan yang sebenarnya, terhadap\nWajib Pajak tidak dilaku kan Penyidikan Tindak Pidana di\nBidang Perpajakan.\n\n (4) Apabila . . .\n\n\n\n(4) Apabila setelah Wajib Pajak melakukan pengungkapan\nketidakbenaran perbuatan sebagaimana dimaksud pada ayat\n(3) masih ditemukan data yang menyatakan lain dari\npengungkapan ketidakbenaran perbuatan tersebut, terhadap\nWajib Pajak tetap dapat dilakukan Pemeriksaan Bukti\nPermulaan.\n(5) Ketentuan lebih lanjut mengenai tata cara pengungkapan\nketidakbenaran perbuatan oleh Wajib Pajak diatur dengan\natau berdasarkan Peraturan Menteri Keuangan."
+   }
+  },
+  {
+   "id": "ID-H2124-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n(1) Wajib Pajak dapat mengungkapkan dalam laporan tersendiri\nsecara tertulis mengenai ketidakbenaran pengisian Surat\nPemberitahuan yang telah disampaikan sesuai dengan\nkeadaan yang sebenarnya sebagaimana dimaksud dalam\nPasal 8 ayat (4) Undang -Undang, sepanjang pemeriksa pajak\nbelum menyampaikan surat pemberitahuan hasil\nPemeriksaan.\n(2) Laporan tersendiri secara tertulis sebagaimana dimaksud\npada ayat ( 1) harus ditandatangani oleh Wajib Pajak dan\ndilampiri dengan:\na. penghitungan pajak yang kurang dibayar sesuai dengan\nkeadaan yan g sebenarnya dalam format Surat\nPemberitahuan;\nb. Surat Setoran Pajak atas pelunasan pajak yang kurang\ndibayar; dan\nc. Surat Setoran Pajak atas pembayaran sanksi\nadministrasi berupa kenaikan sebesar 50% (lima puluh\npersen).\n(3) Untuk membuktikan kebenaran pengungkap an\nketidakbenaran pengisian Surat Pemberitahuan\nsebagaimana dimaksud pada ayat (1), Pemeriksaan tetap\ndilanjutkan dan atas hasil Pemeriksaan tersebut diterbitkan\nsurat ketetapan pajak dengan mempertimbangkan laporan\ntersendiri tersebut serta memperhitungkan pokok pajak yang\ntelah dibayar.\n\n (4) Dalam . . .\n\n\n\n(4) Dalam hal hasil Pemeriksaan sebagaimana dimaksud pada\nayat (3) membuktikan bahwa pengungkapan ketidakbenaran\npengisian Surat Pemberitahuan yang dilakukan oleh Wajib\nPajak ternyata tidak mencerminkan keadaan yang\nsebenarnya, surat ketetapan pajak diterbitkan sesuai dengan\nkeadaan yang sebenarnya tersebut.\n(5) Surat Setoran Pajak sebagaimana dimaksud pada ayat (2)\nhuruf b diperhitungkan sebagai kredit pajak dalam surat\nketetapan pajak yang diterbitkan berdasarkan hasil\nPemeriksaan sebagaimana dimaksud pada ayat (3) dan ayat\n(4).\n(6) Surat Setoran Pajak sebagaimana dimaksud pada ayat (2)\nhuruf c merupakan bukti pembayaran sanksi administrasi\nberupa kenaikan sebesar 50% (lima puluh persen) terkait\ndengan pengungkapan ketidakbenaran pengisian Surat\nPemberitahuan.\n(7) Dalam hal pengungkapan ketidakbenaran pengisian Surat\nPemberitahuan sebagaimana dimaksud pada ayat (1)\ndilakukan untuk Surat Pemberitahuan Masa Pajak\nPertambahan Nilai, Pajak Masukan atas perolehan Barang\nKena Pajak atau Jasa  Kena Pajak yang tidak dilaporkan\ndalam Surat Pemberitahuan Masa Pajak Pertambahan Nilai\ntidak dapat diperhitungkan sebagai kredit pajak\nsebagaimana diatur dalam Pasal 9 ayat (8) huruf i Undang -\nUndang Pajak Pertambahan Nilai 1984 dan perubahannya.\n(8) Ketentuan lebih lanjut mengenai tata cara mengungkapkan\ndalam laporan tersendiri tentang ketidakbenaran pengisian\nSurat Pemberitahuan diatur dengan atau berdasarkan\nPeraturan Menteri Keuangan.\n\nBagian Keempat\nTata Cara Pembayaran Pajak"
+   }
+  },
+  {
+   "id": "ID-H2124-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n(1) Wajib Pajak wajib m embayar atau menyetor pajak yang\nterutang dengan menggunakan Surat Setoran Pajak ke kas\nnegara melalui tempat pembayaran.\n\n\n(2) Pembayaran . . .\n\n\n\n(2) Pembayaran dan penyetoran pajak sebagaimana dimaksud\npada ayat (1) juga dapat dilakukan dengan menggunakan\nsarana administrasi lai n yang kedudukannya disamakan\ndengan Surat Setoran Pajak.\n(3) Ketentuan mengenai sarana administrasi lain sebagaimana\ndimaksud pada ayat (2) diatur dengan Peraturan Menteri\nKeuangan.\n\n\nBAB III\nPEMBUKUAN DAN PEMERIKSAAN"
+   }
+  },
+  {
+   "id": "ID-H2124-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\n(1) Buku, catatan, dan dokumen yan g menjadi dasar\npembukuan atau pencatatan dan dokumen lain termasuk\nhasil pengolahan data dari pembukuan yang dikelola secara\nelektronik atau secara program aplikasi on-line wajib\ndisimpan selama 10 (sepuluh) tahun di Indonesia, yaitu di\ntempat kegiatan at au tempat tinggal Wajib Pajak orang\npribadi, atau di tempat kedudukan Wajib Pajak badan.\n(2) Dalam hal Wajib Pajak melakukan transaksi dengan para\npihak yang mempunyai hubungan istimewa dengan Wajib\nPajak, kewajiban menyimpan dokumen lain sebagaimana\ndimaksud pada ayat (1) meliputi dokumen dan/atau\ninformasi tambahan untuk mendukung bahwa transaksi\nyang dilakukan dengan pihak yang mempunyai hubungan\nistimewa telah sesuai dengan prinsip kewajaran dan\nkelaziman usaha.\n(3) Ketentuan lebih lanjut mengenai jenis dokumen  dan/atau\ninformasi tambahan sebagaimana dimaksud pada ayat (2)\ndan tata cara pengelolaannya diatur dengan atau\nberdasarkan Peraturan Menteri Keuangan."
+   }
+  },
+  {
+   "id": "ID-H2124-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\n(1) Wajib Pajak yang diperiksa wajib:\na. memperlihatkan dan/atau meminjamkan buku atau\ncatatan, dokumen yang menjadi dasarnya, dan dokumen\nlain yang berhubungan dengan penghasilan yang\ndiperoleh, kegiatan usaha, pekerjaan bebas Wajib Pajak,\natau objek yang terutang pajak;\nb. memberikan . . .\n\n\n\nb.  memberikan kesempatan untuk memasuki tempat atau\nruang yang dipandang perlu dan memberi bantuan guna\nkelancaran Pemeriksaan; dan/atau\nc. memberikan keterangan lain yang diperlukan.\n(2) Buku, catatan, dan dokumen, serta data, informasi, dan\nketerangan lain sebagaimana dimaksud pada ayat (1) wajib\ndipenuhi oleh Wajib Pajak paling lama  1 (satu) bulan sejak\npermintaan disampaikan.\n(3) Dalam hal Wajib Pajak orang pribadi yang menjalankan\nusaha atau pekerjaan bebas yang diperiksa tidak memenuhi\nkewajiban sebagaimana dimaksud pada ayat (2) sehingga\ntidak dapat dihitung besarnya penghasilan kena  pajak,\npenghasilan kena pajaknya dapat dihitung secara jabatan\nsesuai dengan ketentuan peraturan perundang -undangan di\nbidang perpajakan.\n(4) Dalam hal Wajib Pajak badan yang diperiksa tidak\nmemenuhi kewajiban sebagaimana dimaksud pada ayat (2)\nsehingga tidak  dapat dihitung besarnya penghasilan kena\npajak, penghasilan kena pajaknya dapat dihitung secara\njabatan sesuai dengan ketentuan peraturan perundang -\nundangan di bidang perpajakan.\n(5) Dalam hal penghasilan kena pajak dihitung secara jabatan\nsebagaimana dimaksud pada ayat (3) atau ayat (4), Direktur\nJenderal Pajak wajib menyampaikan surat pemberitahuan\nhasil Pemeriksaan kepada Wajib Pajak dan memberikan hak\nkepada Wajib Pajak untuk hadir dalam Pembahasan Akhir\nHasil Pemeriksaan.\n(6) Pada saat  Pembahasan Akhir Hasil Pemeriksaan\nsebagaimana dimaksud pada ayat (5), pemeriksa pajak dapat\nmempertimbangkan dokumen yang diberikan oleh Wajib\nPajak.\n(7) Dokumen sebagaimana dimaksud pada ayat (6) terbatas\npada:\na. dokumen yang terkait dengan penghitungan peredaran\nusaha atau penghasi lan bruto dalam rangka\npenghitungan penghasilan neto secara jabatan; dan\nb. dokumen kredit pajak  sebagai pengurang Pajak\nPenghasilan."
+   }
+  },
+  {
+   "id": "ID-H2124-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12 "
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 12 . . .\n\n\n\nPasal 12\n(1) Apabila pada saat Pemeriksaan ditemukan adanya indikasi\ntindak pidana di bidang perpajakan, Pemeriksaan\nditindaklanjuti dengan Pemeriksaan Bukti Permulaan.\n(2) Dalam hal Pemeriksaan ditindaklanjuti dengan Pemeriksaan\nBukti Permulaan  sebagaimana dimaksud pada ayat (1) ,\nPemeriksaan ditangguhkan sampai dengan:\na. Pemeriksaan Bukti Permulaan diselesaikan karena Wajib\nPajak meng ungkapkan ketidakbenaran perbuatan\nsebagaimana dimaksud dalam Pasal 8 ayat (3) Undang -\nUndang;\nb. Pemeriksaan Bukti Permulaan diselesaikan dengan\npenerbitan Surat Ketetapan Pajak Kurang Bayar\nsebagaimana dimaksud dalam Pasal 13A Undang -\nUndang;\nc. Pemeriksaan Bukt i Permulaan dihentikan karena Wajib\nPajak orang pribadi yang dilakukan Pemeriksaan Bukti\nPermulaan meninggal dunia;\nd. Pemeriksaan Bukti Permulaan dihentikan karena tidak\nditemukan  adanya bukti permulaan tindak pidana di\nbidang perpajakan;\ne. Penyidikan dihent ikan sesuai dengan ketentuan Pasal\n44A Undang-Undang atau Pasal 44B Undang -Undang;\natau\nf. Putusan Pengadilan atas tindak pidana di bidang\nperpajakan yang telah mempunyai kekuatan hukum\ntetap dan salinan Putusan Pengadilan tersebut telah\nditerima oleh Direktur Jenderal Pajak.\n(3) Pemeriksaan yang ditangguhkan sebagaimana dimaksud\npada ayat (2) dilanjutkan apabila:\na. Pemeriksaan Bukti Permulaan dihentikan karena Wajib\nPajak orang pribadi yang dilakukan Pemeriksaan Bukti\nPermulaan meninggal dunia;\nb. Pemeriksaan Bukti Pe rmulaan dihentikan karena tidak\nditemukan  adanya bukti permulaan tindak pidana di\nbidang perpajakan;\nc. Penyidikan dihentikan karena Pasal 44A Undang -\nUndang; atau\n\nd. Putusan . . .\n\n\n\nd. Putusan Pengadilan atas tindak pidana di bidang\nperpajakan yang telah mempunyai kekuatan huk um\ntetap dan salinan Putusan Pengadilan tersebut telah\nditerima oleh Direktur Jenderal Pajak.\n(4) Pemeriksaan yang ditangguhkan sebagaimana dimaksud\npada ayat (2) dihentikan apabila:\na. Pemeriksaan Bukti Permulaan diselesaikan karena Wajib\nPajak mengungkapkan ket idakbenaran perbuatan\nsebagaimana dimaksud dalam Pasal 8 ayat (3) Undang -\nUndang;\nb. Pemeriksaan Bukti Permulaan diselesaikan karena\nterhadap Wajib Pajak diterbitkan Surat Ketetapan Pajak\nKurang Bayar sebagaimana dimaksud dalam Pasal 13A\nUndang-Undang; atau\nc. Penyidikan dihentikan karena Pasal 44B Undang -\nUndang.\n(5) Direktur Jenderal Pajak masih dapat melakukan\nPemeriksaan apabila setelah Pemeriksaan dihentikan\nsebagaimana dimaksud pada ayat (4) terdapat data selain\nyang diungkapkan dalam Pasal 8 ayat (3) Undang -Undang\natau Pasal 44B Undang-Undang."
+   }
+  },
+  {
+   "id": "ID-H2124-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\n(1) Direktur Jenderal Pajak sesuai dengan ketentuan\nsebagaimana dimaksud dalam Pasal 36 ayat (1) huruf d\nUndang-Undang dapat membatalkan surat ketetapan pajak\nyang diterbitkan berdasarkan Pemeriksaan atau Verifikasi\nyang dilaksanakan tanpa melalui prosedur:\na. penyampaian surat pemberitahuan hasil Pemeriksaan\natau surat pemberitahuan hasil Verifikasi, dan/atau\nb. Pembahasan Akhir Hasil Pemeriksaan atau Pembahasan\nAkhir Hasil Verifikasi.\n(2) Surat ketetapan pajak yang dibatalkan  sebagaimana\ndimaksud pada ayat (1), proses Pemeriksaan atau Verifikasi\ndilanjutkan dengan melaksanakan prosedur  yang belum\ndilaksanakan, berupa:\na. penyampaian surat pemberitahuan hasil Pemeriksaan\natau surat pemberitahuan hasil Verifikasi; dan/atau\n\nb. Pembahasan . . .\n\n\n\nb. Pembahasan Akhir Hasil Pemeriksaan atau P embahasan\nAkhir Hasil Verifikasi.\n(3) Pemeriksaan yang dilanjutkan sebagaimana dimaksud pada\nayat (2) yang terkait dengan permohonan pengembalian\nkelebihan pembayaran pajak sebagaimana dimaksud dalam"
+   }
+  },
+  {
+   "id": "ID-H2124-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17B ayat (1) Undan g-Undang, dilan"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {
+    "id": "ayat (1) Undan g-Undang, dilanjutkan dengan"
+   },
+   "text": {
+    "id": "Pasal 17B ayat (1) Undan g-Undang, dilanjutkan dengan\npenerbitan:\na. surat ketetapan pajak sesuai dengan Pembahasan Akhir\nHasil Pemeriksaan apabila jangka waktu 12 bulan\nsebagaimana dimaksud dalam Pasal 17B ayat (1)\nUndang-Undang belum terlewati; atau\nb. Surat Ketetapan Pajak Lebih Baya r sesuai dengan Surat\nPemberitahuan apabila jangka waktu 12 bulan\nsebagaimana dimaksud dalam Pasal 17B ayat (1)\nUndang-Undang terlewati.\n\n\nBAB IV\nPENETAPAN DAN KETETAPAN\n\nPasal 14\n(1) Dalam jangka waktu 5 (lima) tahun setelah saat terutangnya\npajak atau berak hirnya Masa Pajak, Bagian Tahun Pajak,\natau Tahun Pajak, Direktur Jenderal Pajak dapat\nmenerbitkan Surat Ketetapan Pajak Kurang Bayar dalam hal\nterdapat pajak yang tidak atau kurang dibayar berdasarkan:\na. hasil Verifikasi terhadap keterangan lain sebagaima na\ndimaksud dalam Pasal 13 ayat (1) Undang-Undang;\nb. hasil Pemeriksaan terhadap:\n1) Surat Pemberitahuan; atau\n2) kewajiban perpajakan Wajib Pajak karena Wajib\nPajak tidak menyampaikan Surat Pemberitahuan\ndalam jangka waktu sebagaimana dimaksud dalam\nPasal 3 ayat (3 ) Undang -Undang, dan setelah\nditegur secara tertulis Surat Pemberitahuan tidak\ndisampaikan pada waktunya sebagaimana\nditentukan dalam Surat Teguran;\n\n c. hasil . . .\n\n\n\nc. hasil Pemeriksaan Bukti Permulaan terhadap Wajib\nPajak yang melakukan perbuatan sebagaimana diatur\ndalam Pasal 13A Undang-Undang.\n(2) Keterangan lain sebagaimana dimaksud pada ayat (1) huruf\na merupakan data konkret yang diperoleh atau dimiliki oleh\nDirektur Jenderal Pajak yang berupa:\na. hasil klarifikasi/konfirmasi faktur pajak;\nb. bukti pemotongan Pajak Penghasilan;\nc. data perpajakan terkait dengan Wajib Pajak yang tidak\nmenyampaikan Surat Pemberitahuan dalam jangka\nwaktu sebagaimana dimaksud dalam Pasal 3 ayat (3)\nUndang-Undang dan setelah ditegur secara tertulis\nSurat Pemberitahuan tidak disampaikan pada waktunya\nsebagaimana ditentukan dalam Surat Teguran; atau\nd. bukti transaksi atau data perpajakan yang dapat\ndigunakan untuk menghitung kewajiban perpajakan\nWajib Pajak.\n(3) Direktur Jenderal Pajak dapat menerbitkan Surat Ketetapan\nPajak Kurang Bayar berdasarka n hasil Pem eriksaan atau\nhasil Verifikasi terhadap Putusan Pengadilan yang telah\nmempunyai kekuatan hukum tetap terhadap Wajib Pajak\nyang dipidana karena melakukan tindak pidana di bidang\nperpajakan atau tindak pidana lainnya yang dapat\nmenimbulkan kerugian pada pendapatan negara.\n\nPasal 15\n(1) Direktur Jenderal Pajak dapat menerbitkan Surat Ketetapan\nPajak Kurang Bayar Tambahan berdasarkan:\na. hasil Pemeriksaan atau P emeriksaan ulang terhadap\ndata baru yang mengakibatkan penambahan jumlah\npajak yang terutang, termasuk data  yang semula belum\nterungkap;\nb. hasil Verifikasi, Pemeriksaan atau Pemeriksaan ulang\natas data baru berupa Putusan Pengadilan yang telah\nmempunyai kekuatan hukum tetap terhadap Wajib\nPajak yang dipidana karena melakukan tindak pidana di\nbidang perpajakan ata u tindak pidana lainnya yang\ndapat menimbulkan kerugian pada pendapatan negara;\n\n c. hasil . . .\n\n\n\nc. hasil Verifikasi atas data baru berupa hasil\nklarifikasi/konfirmasi faktur pajak sebagaimana\ndimaksud dalam Pasal 1 4 ayat (2) huruf a, yang\nmengakibatkan penambahan jumlah pajak yang\nterutang; atau\nd. hasil Verifikasi atas keterangan tertulis dari Wajib Pajak\natas kehendak sendiri sebagaimana dimaksud dalam\nPasal 15 ayat (3) Undang-Undang.\n(2) Surat Ketetapan Pajak Kurang Bayar Tambahan\nberdasarkan hasil Pemeriksaan atau Pemeriksa an ulang\nsebagaimana dimaksud pada ayat (1) huruf a diterbitkan\ndalam jangka waktu 5 (lima) tahun setelah saat terutangnya\npajak atau berakhirnya Masa Pajak, Bagian Tahun Pajak,\natau Tahun Pajak.\n(3) Surat Ketetapan Pajak Kurang Bayar Tambahan\nberdasarkan hasil Verifikasi, Pemeriksaan atau Pemeriksaan\nulang terhadap Putusan Pengadilan sebagaimana dimaksud\npada ayat (1) huruf b diterbitkan dalam jangka waktu 5\n(lima) tahun setelah saat terutangnya pajak atau\nberakhirnya Masa Pajak, Bagian Tahun Pajak, atau Tahu n\nPajak.\n(4) Surat Ketetapan Pajak Kurang Bayar Tambahan\nberdasarkan hasil Verifikasi, Pemeriksaan atau Pemeriksaan\nulang terhadap Putusan Pengadilan sebagaimana dimaksud\npada ayat (1) huruf b tetap dapat diterbitkan setelah jangka\nwaktu 5 (lima) tahun terlamp aui sejak saat terutangnya\npajak atau berakhirnya Masa Pajak, Bagian Tahun Pajak,\natau Tahun Pajak.\n(5) Jumlah pajak yang kurang dibayar dalam Surat Ketetapan\nPajak Kurang Bayar Tambahan hasil Verifikasi atas\nketerangan tertulis dari Wajib Pajak atas kehendak sendiri\nsebagaimana dimaksud pada ayat (1) huruf d harus sesuai\ndengan jumlah kekurangan bayar berdasarkan keterangan\ntertulis dari Wajib Pajak.\n\n\n\nPasal 16 . . .\n\n\n\nPasal 16\n(1) Jumlah pajak yang tidak atau kurang dibayar dalam Surat\nKetetapan Pajak Kurang Bayar Tambahan seb agaimana\ndimaksud dalam Pasal 1 5 ayat ( 2) atau ayat ( 3) ditambah\nsanksi administrasi berupa kenaikan sebesar 100% (seratus\npersen) dari jumlah pajak yang tidak atau kurang dibayar\ntersebut.\n(2) Jumlah pajak yang tidak atau kurang dibayar dalam Surat\nKetetapan Pajak Kurang Bayar Tambahan sebagaimana\ndimaksud dalam Pasal 15 ayat ( 4) ditambah sanksi\nadministrasi berupa bunga sebesar 48% (empat puluh\ndelapan persen) dari jumlah pajak yang tidak atau kurang\ndibayar tersebut.\n\nPasal 17\nDirektur Jenderal Pajak menerbitkan Surat Ketetapan Pajak Nihil\nberdasarkan hasil Pemeriksaan terhadap Surat Pemberitahuan\napabila jumlah kredit pajak atau jumlah pajak yang dibayar\nsama dengan jumlah pajak yang terutang, atau pajak tidak\nterutang dan tidak ada kredit pajak atau tidak a da pembayaran\npajak."
+   }
+  },
+  {
+   "id": "ID-H2124-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\n(1) Direktur Jenderal Pajak menerbitkan Surat Ketetapan Pajak\nLebih Bayar berdasarkan:\na. hasil Verifikasi terhadap kebenaran pembayaran pajak\natas permohonan Wajib Pajak sebagaimana dimaksud\ndalam Pasal 17 ayat (2) Undang -Undang te rdapat\nkelebihan pembayaran pajak yang seharusnya tidak\nterutang;\nb. hasil Pemeriksaan terhadap Surat Pemberitahuan\nterdapat jumlah kredit pajak atau jumlah pajak yang\ndibayar lebih besar daripada jumlah pajak yang terutang\nsebagaimana dimaksud dalam Pasal 17 ayat (1) Undang-\nUndang; atau\nc. hasil Pemeriksaan terhadap permohonan pengembalian\nkelebihan pembayaran pajak sebagaimana dimaksud\ndalam Pasal 17B Undang-Undang terdapat jumlah kredit\npajak atau jumlah pajak yang dibayar lebih besar\ndaripada jumlah pajak yang terutang.\n(2) Surat . . .\n\n\n\n(2) Surat Ketetapan Pajak Lebih Bayar sebagaimana dimaksud\npada ayat (1) masih dapat diterbitkan lagi apabila terdapat\ndata baru, termasuk data yang semula belum terungkap,\napabila ternyata pajak yang lebih dibayar jumlahnya lebih\nbesar daripada kelebihan pembayaran pajak yang telah\nditetapkan."
+   }
+  },
+  {
+   "id": "ID-H2124-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\nPenerbitan surat ketetapan pajak berdasarkan hasil Verifikasi\nharus dilakukan melalui Pembahasan Akhir Hasil Verifikasi,\nkecuali penerbitan:\na. Surat Ketetapan Pajak Kurang Bayar Tambahan\nberdasarkan hasil Verifikasi atas keterangan tertulis dari\nWajib Pajak atas kehendak sendiri sebagaimana dimaksud\ndalam Pasal 15 ayat (1) huruf d; dan\nb. Surat Ketetapan Pajak Lebih Bayar berdasarkan hasil\nVerifikasi terhadap kebenaran pembayaran pajak\nsebagaimana dimaksud dalam Pasal 18 ayat (1) huruf a."
+   }
+  },
+  {
+   "id": "ID-H2124-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\n(1) Hasil Verifikasi, Pemeriksaan,  Pemeriksaan ulang, atau\nPemeriksaan Bukti Permulaan sebagaimana dimak sud\ndalam Pasal 1 4, Pasal 1 5, Pasal 1 7, dan Pasal 1 8,\ndituangkan dalam laporan hasil Verifikasi, laporan ha sil\nPemeriksaan, laporan hasil Pemeriksaan ulang atau  laporan\nPemeriksaan Bukti Permulaan.\n(2) Berdasarkan laporan hasil Verifikasi, laporan hasil\nPemeriksaan, laporan hasil Pemeriksaan ulang atau laporan\nPemeriksaan Bukti Permulaan sebagaimana dimaksud pada\nayat (1) dibuat nota penghitungan.\n(3) Berdasarkan nota penghitungan s ebagaimana dimaksud\npada ayat (2 ) harus ditindaklanjuti dengan penerbitan surat\nketetapan pajak."
+   }
+  },
+  {
+   "id": "ID-H2124-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\nKetentuan lebih lanjut mengenai tata cara Verifikasi diatur\ndengan atau berdasarkan Peraturan Menteri Keuangan."
+   }
+  },
+  {
+   "id": "ID-H2124-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22 "
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 22 . . .\n\n\n\nPasal 22\n(1) Dalam hal ketetapan dan/atau keputusan yang diterbitkan\noleh Direktur Jenderal Pajak dalam melaksanakan peraturan\nperundang-undangan di bidang perpajakan diketahui rusak,\ntidak terbaca, hilang atau tidak dapat di temukan lagi,\nkarena keadaan di luar kekuasaannya, Direktur Jenderal\nPajak karena jabatannya, menerbitkan kembali ketetapan\ndan/atau keputusan sebagai pengganti ketetapan dan/atau\nkeputusan yang rusak, tidak terbaca, hilang atau tidak\ndapat ditemukan lagi tersebut.\n(2) Ketetapan dan/atau keputusan yang diterbitkan kembali\noleh Direktur Jenderal Pajak sebagaimana dimaksud pada\nayat (1) mempunyai kedudukan hukum yang sama dengan\nketetapan dan/atau keputusan yang  telah diterbitkan oleh\nDirektur Jenderal Pajak."
+   }
+  },
+  {
+   "id": "ID-H2124-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\nKetentuan lebih lanjut mengenai tata cara penerbitan surat\nketetapan pajak diatur dengan atau berdasarkan Peraturan\nMenteri Keuangan."
+   }
+  },
+  {
+   "id": "ID-H2124-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 24\n(1) Direktur Jenderal Pajak dapat menerbitkan surat ketetapan\npajak dan/atau Surat Tagihan Pajak untuk Masa Pa jak,\nBagian Tahun Pajak, atau Tahun Pajak sebelum Wajib Pajak\ndiberikan atau diterbitkan Nomor Pokok Wajib Pajak\ndan/atau dikukuhkan sebagai Pengusaha Kena Pajak,\napabila diperoleh data dan/atau informasi yang\nmenunjukkan adanya kewajiban perpajakan yang b elum\ndipenuhi Wajib Pajak.\n(2) Direktur Jenderal Pajak dapat menerbitkan surat ketetapan\npajak dan/atau Surat Tagihan Pajak untuk Masa Pajak,\nBagian Tahun Pajak, atau Tahun Pajak sebelum dan/atau\nsetelah penghapusan Nomor Pokok Wajib Pajak atau\npencabutan Peng ukuhan Pengusaha Kena Pajak, apabila\nsetelah penghapusan Nomor Pokok Wajib Pajak atau\npencabutan Pengukuhan Pengusaha Kena Pajak, diperoleh\ndata dan/atau informasi yang menunjukkan adanya\nkewajiban perpajakan yang belum dipenuhi Wajib Pajak.\n\n (3) Surat . . .\n\n\n\n(3) Surat kete tapan pajak dan/atau Surat Tagihan Pajak\nsebagaimana dimaksud pada ayat (1) dan/atau ayat (2)\nditerbitkan dalam jangka waktu 5 (lima) tahun setelah saat\nterutangnya pajak, atau berakhirnya Masa Pajak, bagian\nTahun Pajak, atau Tahun Pajak, kecuali terhadap Wajib\nPajak dipidana karena melakukan tindak pidana di bidang\nperpajakan atau tindak pidana lainnya yang dapat\nmengakibatkan kerugian pada pendapatan negara\nberdasarkan Putusan Pengadilan yang telah mempunyai\nkekuatan hukum tetap.\n(4) Ketentuan lebih lanjut me ngenai tata cara penerbitan surat\nketetapan pajak dan/atau Surat Tagihan Pajak sebagaimana\ndimaksud pada ayat (1), ayat (2), dan ayat (3) diatur dengan\natau berdasarkan Peraturan Menteri Keuangan."
+   }
+  },
+  {
+   "id": "ID-H2124-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Tahun Pajak, atau Tahun Pajak sebelum dan/atau"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\n(1) Direktur Jenderal Pajak menerbitkan Surat Keputus an\nPengembalian Pendahuluan Kelebihan Pajak berdasarkan:\na. hasil Penelitian terhadap kebenaran pembayaran pajak\natas permohonan Wajib Pajak sebagaimana dimaksud\ndalam Pasal 17C ayat (1) Undang-Undang;\nb. hasil Penelitian terhadap kebenaran pembayaran pajak\natas permohonan Wajib Pajak sebagaimana dimaksud\ndalam Pasal 17D ayat (1) Undang-Undang; atau\nc. hasil Penelitian terhadap kebenaran pembayaran pajak\natas permohonan Wajib Pajak sebagaimana dimaksud\ndalam Pasal 9 ayat (4c) Undang -Undang Pajak\nPertambahan Nilai Tahun 1984 dan perubahannya.\n(2) Surat Keputusan Pengembalian Pendahuluan Kelebihan\nPajak sebagaimana dimaksud pada ayat (1) diterbitkan\npaling lama:\na. 3 (tiga) bulan sejak permohonan diterima secara lengkap\nuntuk Pajak Penghasilan; atau\nb. 1 (satu) bulan sejak perm ohonan diterima secara\nlengkap untuk Pajak Pertambahan Nilai."
+   }
+  },
+  {
+   "id": "ID-H2124-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26 "
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Tahun Pajak, atau Tahun Pajak sebelum dan/atau"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 26 . . .\n\n\n\nPasal 26\n(1) Atas permohonan Wajib Pajak, kelebihan pembayaran pajak\nsebagaimana dimaksud dalam Pasal 9 ayat (4c) Undang -\nUndang Pajak Pertambahan Nilai Tahun 1984 dan\nperubahannya dikembalikan, d engan ketentuan bahwa\napabila ternyata Wajib Pajak mempunyai utang pajak,\nlangsung diperhitungkan untuk melunasi terlebih dahulu\nutang pajak tersebut sebagaimana dimaksud dalam  Pasal\n11 ayat (1) Undang-Undang.\n(2) Pengembalian kelebihan pembayaran pajak sebag aimana\ndimaksud pada ayat (1) dilakukan paling lama 1 (satu) bulan\nsejak diterbitkan Surat Keputusan Pengembalian\nPendahuluan Kelebihan Pajak sebagaimana dimaksud dalam\nPasal 9 ayat (4c) Undang -Undang Pajak Pertambahan Nilai\nTahun 1984 dan perubahannya."
+   }
+  },
+  {
+   "id": "ID-H2124-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Tahun Pajak, atau Tahun Pajak sebelum dan/atau"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\n(1) Wajib Pajak yang telah ditetapkan sebagai Wajib Pajak\ndengan kriteria tertentu sebagaimana dimaksud dalam Pasal\n17C ayat (3) Undang -Undang dicabut penetapannya sebagai\nWajib Pajak dengan kriteria tertentu dalam hal Wajib Pajak:\na. dilakukan Pemeriksaan Bukti Permulaan secara terbuka\natau tindakan Penyidikan Tindak Pidana di Bidang\nPerpajakan;\nb. terlambat menyampaikan Surat Pemberitahuan Masa\nuntuk suatu jenis pajak tertentu 2 (dua) Masa Pajak\nberturut-turut;\nc. terlambat menyampaikan Surat Pemberitahuan Ma sa\nuntuk suatu jenis pajak tertentu 3 (tiga) Masa Pajak\ndalam 1 (satu) tahun kalender; atau\nd. terlambat menyampaikan Surat Pemberitahuan\nTahunan.\n(2) Ketentuan lebih lanjut mengenai tata cara pencabutan\npenetapan Wajib Pajak dengan kriteria tertentu diatur\ndengan atau berdasarkan Peraturan Menteri Keuangan.\n\nBAB V . . .\n\n\n\nBAB V\nKEBERATAN, PEMBETULAN, PENGURANGAN,\nPENGHAPUSAN, PEMBATALAN, DAN GUGATAN\n\nBagian Kesatu\nKeberatan"
+   }
+  },
+  {
+   "id": "ID-H2124-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\n(1) Keberatan atas surat ketetapan pajak atau pemotongan atau\npemungutan pajak sebagaimana dimak sud dalam Pasal 25\nayat (1) Undang-Undang harus diajukan dalam jangka waktu\n3 (tiga) bulan sejak tanggal:\na. surat ketetapan pajak dikirim; atau\nb. pemotongan atau pemungutan pajak,\nkecuali apabila Wajib Pajak dapat menunjukkan bahwa\njangka waktu tersebut tidak dapat dipenuhi karena keadaan\ndi luar kekuasaannya.\n(2) Keadaan di luar kekuasaan Wajib Pajak sebagaimana\ndimaksud pada ayat (1) meliputi:\na. bencana alam;\nb. kebakaran;\nc. huru-hara/kerusuhan massal;\nd. diterbitkan Surat Keputusan Pembetulan secara jabatan\nyang mengakiba tkan jumlah pajak yang masih harus\ndibayar yang tertera dalam surat ketetapan pajak\nberubah, kecuali Surat Keputusan Pembetulan yang\nditerbitkan akibat hasil Persetujuan Bersama; atau\ne. keadaan lain berdasarkan pertimbangan Direktur\nJenderal Pajak.\n(3) Dalam hal terdapat penerbitan Surat Keputusan Pembetulan\nsecara jabatan sebagaimana dimaksud pada ayat (2) huruf d\ndan Wajib Pajak belum mengajukan keberatan atas surat\nketetapan pajak, Wajib Pajak masih dapat mengajukan\nkeberatan atas surat ketetapan pajak tersebu t dalam jangka\nwaktu paling lama 3 (tiga) bulan sejak tanggal dikirim Surat\nKeputusan Pembetulan."
+   }
+  },
+  {
+   "id": "ID-H2124-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29 "
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kesatu"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 29 . . .\n\n\n\nPasal 29\n(1) Wajib Pajak yang karena kealpaannya tidak menyampaikan\nSurat Pemberitahuan atau m enyampaikan Surat\nPemberitahuan tetapi isinya tidak benar atau t idak lengkap,\natau melampirkan keterangan yang isinya tidak benar\nsehingga dapat menimbulkan kerugian pada pendapatan\nnegara, tidak dikenai sanksi pidana apabila kealpaan\ntersebut pertama kali dilakukan oleh Wajib Pajak.\n(2) Wajib Pajak sebagaimana dimaksud p ada ayat (1) wajib\nmelunasi kekurangan pembayaran jumlah pajak yang\nterutang beserta sanksi administrasi berupa kenaikan\nsebesar 200% (dua ratus persen) dari jumlah pajak yang\nkurang dibayar yang ditetapkan melalui penerbitan Surat\nKetetapan Pajak Kurang Bayar.\n(3) Terhadap Surat Ketetapan Pajak Kurang Bayar sebagaimana\ndimaksud pada ayat (2), Wajib Pajak tidak dapat\nmengajukan:\na. keberatan;\nb. pengurangan atau penghapusan sanksi administrasi;\ndan\nc. pengurangan atau pembatalan surat ketetapan pajak\nyang tidak benar."
+   }
+  },
+  {
+   "id": "ID-H2124-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\n(1) Wajib Pajak dapat mengajukan keberatan hanya kepada\nDirektur Jenderal Pajak atas suatu:\na. Surat Ketetapan Pajak Kurang Bayar;\nb. Surat Ketetapan Pajak Kurang Bayar Tambahan;\nc. Surat Ketetapan Pajak Nihil;\nd. Surat Ketetapan Pajak Lebih Bayar; atau\ne. pemotongan atau pemungutan pajak oleh pihak ketiga\nberdasarkan ketentuan peraturan perundang -undangan\ndi bidang perpajakan.\n(2) Wajib Pajak yang mengajukan keber atan sebagaimana\ndimaksud pada ayat (1) tidak dapat mengajukan\npermohonan:\n\n a. pengurangan . . .\n\n\n\na. pengurangan, penghapusan, atau pembatalan  sanksi\nadministrasi berupa bunga, denda, dan kenaikan yang\nterutang sesuai dengan ketentuan peraturan perundang-\nundangan di bidang perpajakan;\nb. pengurangan atau pembatalan surat ketetapan pajak\nyang tidak benar; atau\nc. pembatalan surat ketetapan pajak dari hasil\nPemeriksaan atau Verifikasi yang dilaksanakan tanpa:\n1) penyampaian surat pemberitahuan hasil\nPemeriksaan atau surat pemberitahuan hasil\nVerifikasi; atau\n2) Pembahasan Akhir Hasil Pemeriksaan atau\nPembahasan Akhir Hasil  Verifikasi dengan Wajib\nPajak.\n(3) Wajib Pajak dapat mencabut pengajuan keberatan yang\ntelah disampaikan kepada Direktur Jenderal Pajak sebelum\ntanggal diterima surat pemberitahuan untuk hadir oleh\nWajib Pajak.\n(4) Wajib Pajak yang mencabut pengajuan keberatan y ang telah\ndisampaikan kepada Direktur Jenderal Pajak sebagaimana\ndimaksud pada ayat (3) tidak dapat mengajukan\npermohonan pengurangan atau pembatalan surat ketetapan\npajak yang tidak benar.\n(5) Ketentuan lebih lanjut mengenai tata cara pencabutan\npengajuan keb eratan sebagaimana dimaksud pada ayat (3)\ndiatur dengan atau berdasarkan Peraturan Menteri\nKeuangan."
+   }
+  },
+  {
+   "id": "ID-H2124-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\n(1) Dalam hal pengajuan keberatan Wajib Pajak ditolak atau\ndikabulkan sebagian, Wajib Pajak dikenai sanksi\nadministrasi berupa denda sebesar 50% (lim a puluh persen)\ndari jumlah pajak berdasarkan keputusan keberatan\ndikurangi dengan pajak yang telah dibayar sebelum\nmengajukan keberatan sebagaimana dimaksud dalam Pasal\n25 ayat (9) Undang-Undang.\n\n(2) Sanksi . . .\n\n\n\n(2) Sanksi administrasi berupa denda sebesar 50% (lima puluh\npersen) sebagaimana dimaksud pada ayat (1) juga dikenakan\nterhadap Wajib Pajak dalam hal keputusan keberatan atas\npengajuan keberatan Wajib Pajak menambah jumlah pajak\nyang masih harus dibayar.\n(3) Dalam hal Wajib Pajak mencabut pengajuan keberatan\nsebagaimana dimaksud dalam Pasal 30 ayat (3) atau\npengajuan keberatan tidak di pertimbangkan oleh Direktur\nJenderal Pajak karena tidak memenuhi persyaratan\npengajuan keberatan sebagaimana dimaksud dalam Pasal 25\nayat (1), ayat (2), ayat (3) atau ayat (3a) Undang -Undang,\nWajib Pajak dianggap tidak mengajukan keberatan.\n(4) Dalam hal Wajib Pajak dianggap tidak mengajukan\nkeberatan sebagaimana dimaksud pada ayat (3), pajak yang\nmasih harus dibayar dalam Surat Ketetapan Pajak Kurang\nBayar atau Surat Ketetapan Pajak Kurang Bay ar Tambahan\nyang tidak disetujui dalam Pembahasan Akhir Hasil\nPemeriksaan atau Pembahasan Akhir Hasil Verifikasi\nmenjadi utang pajak sejak tanggal penerbitan surat\nketetapan pajak."
+   }
+  },
+  {
+   "id": "ID-H2124-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 32\n(1) Wajib Pajak dikenai sanksi administrasi berupa denda\nsebesar 100 % (seratus persen) dari jumlah pajak\nberdasarkan Putusan Banding dikurangi dengan\npembayaran pajak yang telah dibayar sebelum mengajukan\nkeberatan sebagaimana dimaksud dalam Pasal 27 ayat (5d)\nUndang-Undang dalam hal Putusan Banding:\na. menolak;\nb. mengabulkan sebagian;\nc. menambah pajak yang harus dibayar; atau\nd. membetulkan kesalahan tulis dan/atau kesalahan\nhitung yang menambah pajak yang masih harus dibayar.\n(2) Dalam hal Putusan Banding berupa tidak dapat diterima,\npajak yang masih harus dibayar berdasarkan Surat\nKeputusan Keberatan menjadi utang pajak sejak tanggal\npenerbitan Surat Keputusan Keberatan."
+   }
+  },
+  {
+   "id": "ID-H2124-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33 "
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kesatu"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 33 . . .\n\n\n\nPasal 33\n(1) Direktur Jenderal Pajak wajib menyelesaikan keberatan yang\ndiajukan  oleh Wajib Pajak dalam jangka waktu paling lama\n12 (dua belas) bulan sebagaimana diat ur dalam Pasal 26\nayat (1) Undang-Undang.\n(2) Jangka waktu paling lama 12 (dua belas) bulan sebagaimana\ndimaksud pada ayat (1) dihitung sejak tanggal surat\npengajuan keberatan diterima oleh Direktur Jenderal Pajak\nsampai dengan tanggal Surat Keputusan Keberat an\nditerbitkan.\n\nBagian Kedua\nPembetulan"
+   }
+  },
+  {
+   "id": "ID-H2124-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 34\n(1) Atas permohonan Wajib Pajak , atau karena jabatannya,\nDirektur Jenderal Pajak dapat membetulkan surat ketetapan\npajak, Surat Tagihan Pajak, Surat Keputusan Pembetulan,\nSurat Keputusan Keberatan, Surat Keput usan Pengurangan\nSanksi Administrasi, Surat Keputusan Penghapusan Sanksi\nAdministrasi, Surat Keputusan Pengurangan Ketetapan\nPajak, Surat Keputusan Pembatalan Ketetapan Pajak, Surat\nKeputusan Pengembalian Pendahuluan Kelebihan Pajak,\natau Surat Keputusan P emberian Imbalan Bunga, yang\ndalam penerbitannya terdapat kesalahan tulis, kesalahan\nhitung, dan/atau kekeliruan penerapan ketentuan tertentu\ndalam peraturan perundang -undangan di bidang\nperpajakan.\n(2) Kesalahan hitung sebagaimana dimaksud pada ayat (1)\nmeliputi:\na. kesalahan yang berasal dari penjumlahan, pengurangan,\nperkalian, dan/atau pembagian suatu bilangan; atau\nb. kesalahan hitung yang diakibatkan oleh adanya\npenerbitan surat ketetapan pajak, Surat Tagihan Pajak,\nsurat keputusan atau putusan yang terkait d engan\nbidang perpajakan.\n\n (3) Dalam . . .\n\n\n\n(3) Dalam hal terdapat kekeliruan pengkreditan Pajak Masukan\nPajak Pertambahan Nilai pada surat keputusan atau surat\nketetapan sebagaimana dimaksud pada ayat (1), pembetulan\natas kekeliruan tersebut hanya dapat dilakukan apabila\nterdapat perbedaan besarnya Pajak Masukan yang menjadi\nkredit pajak dan Pajak Masukan tersebut tidak mengandung\npersengketaan antara fiskus dan Wajib Pajak.\n(4) Direktur Jenderal Pajak dalam jangka waktu paling lama 6\n(enam) bulan sejak tanggal surat permohonan pembetulan\nditerima, harus memberi keputusan atas permohonan\npembetulan yang diajukan Wajib Pajak sebagaimana\ndimaksud pada ayat (1).\n(5) Ketentuan lebih lanjut mengenai tata cara pembetulan\ndiatur dengan atau berdasarkan Peraturan Menteri\nKeuangan.\n\nBagian Ketiga\nPengurangan, Penghapusan, atau Pembatalan"
+   }
+  },
+  {
+   "id": "ID-H2124-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 35\n(1) Direktur Jenderal Pajak karena jabatan atau atas\npermohonan Wajib Pajak dapat:\na. mengurangkan atau menghapuskan sanksi administrasi\nberupa bunga, denda, dan kenaikan yang terutang\nsesuai dengan kete ntuan peraturan perundang -\nundangan di bidang perpajakan dalam hal sanksi\ntersebut dikenakan karena kekhilafan Wajib Pajak , atau\nbukan karena kesalahannya;\nb. mengurangkan atau membatalkan surat ketetapan pajak\nyang tidak benar;\nc. mengurangkan atau memba talkan Surat Tagihan Pajak\nsebagaimana dimaksud dalam Pasal 14 Undang-Undang,\nyang tidak benar; atau\nd. membatalkan surat ketetapan pajak dari hasil\nPemeriksaan atau Verifikasi, yang dilaksanakan tanpa:\n1) penyampaian surat pemberitahuan hasil\nPemeriksaan atau surat pemberitahuan hasil\nVerifikasi; atau\n\n2) Pembahasan . . .\n\n\n\n2) Pembahasan Akhir Hasil Pemeriks aan atau\nPembahasan Akhir Hasil Verifikasi dengan Wajib\nPajak.\n(2) Wajib Pajak dapat mengajukan permohonan pengurangan\natau pembatalan surat ketetapan pajak apabila:\na. Wajib Pajak tidak mengajukan keberatan atas surat\nketetapan pajak; atau\nb. Wajib Pajak mengajukan keberatan tetapi keberatannya\ntidak dipertimbangkan oleh Direktur Jenderal Pajak\nkarena tidak memenuhi persyaratan.\n(3) Permohonan pengurangan atau pembatalan surat keteta pan\npajak yang tidak benar sebagaimana dimaksud pada ayat (1)\nhuruf b tidak dapat diajukan dalam hal Wajib Pajak\nmencabut pengajuan keberatan yang telah disampaikan\nkepada Direktur Jenderal Pajak sebagaimana dimaksud\ndalam Pasal 30 ayat (3).\n(4) Pada saat peny elesaian  permohonan pengurangan atau\npembatalan surat ketetapan pajak yang tidak benar\nsebagaimana dimaksud pada ayat (1) huruf b, Direktur\nJenderal Pajak dapat mempertimbangkan buku, catatan\natau dokumen yang diberikan dalam proses penyelesaian\npermohonan pengurangan atau pembatalan surat ketetapan\npajak yang tidak benar tersebut.\n(5) Ketentuan lebih lanjut mengenai tata cara pengurangan,\npenghapusan, dan pembatalan diatur dengan atau\nberdasarkan Peraturan Menteri Keuangan."
+   }
+  },
+  {
+   "id": "ID-H2124-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 36\n(1) Wajib Pajak yang dikenai sanksi administrasi  sesuai dengan\nketentuan peraturan perundang -undangan di bidang\nperpajakan dapat mengajukan permohonan untuk\nmemperoleh pengurangan atau penghapusan sanksi\nadministrasi sebagaimana dimaksud dalam Pasal 36 ayat (1)\nhuruf a Undang-Undang.\n(2) Dalam . . .\n\n\n\n(2) Dalam hal permohonan sebagaimana dimaksud pada ayat (1)\ndiajukan terhadap sanksi administrasi berupa bunga\nsebesar 2% (dua persen) per bulan sebagaimana diatur\ndalam Pasal 8 ayat (2) dan ayat (2a) Undang -Undang, yang\ndikenakan melebihi jangka waktu 24  (dua puluh empat)\nbulan, atas permohonan tersebut dapat diberikan\npengurangan atau penghapusan sanksi administrasi\nsehingga besarnya sanksi administrasi sebesar 2% (dua\npersen)  per bulan dikenakan untuk jangka waktu paling\nlama 24 (dua puluh empat) bulan.\n(3) Dalam hal permohonan sebagaimana dimaksud pada ayat (1)\ndiajukan terhadap sanksi administrasi berupa bunga\nsebesar 2% (dua persen) per bulan sebagaimana diatur\ndalam Pasal 9 ayat (2a) dan ayat (2b) Undang -Undang atau\nPasal 19 ayat (1) Undang -Undang, kete ntuan pada ayat (2)\nberlaku untuk permohonan yang diajukan oleh Wajib Pajak\nsetelah tanggal 31 Desember 2011 sampai dengan tanggal 31\nDesember 2013.\n(4) Direktur Jenderal Pajak secara jabatan mengurangkan atau\nmembatalkan sanksi administrasi dalam Surat Tagiha n\nPajak yang diterbitkan sebagai akibat dari penerbitan surat\nketetapan pajak yang diajukan keberatan, banding,\npeninjauan kembali, pengurangan atau pembatalan surat\nketetapan pajak dan telah diterbitkan Surat Keputusan\nKeberatan, Putusan Banding, Putusan Peninjauan Kembali,\nSurat Keputusan Pengurangan atau Pembatalan Surat\nKetetapan Pajak.\n\nBagian Keempat\nGugatan"
+   }
+  },
+  {
+   "id": "ID-H2124-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 37\nKeputusan yang berkaitan dengan pelaksanaan keputusan\nperpajakan yang diajukan gugatan kepada badan peradilan pajak\nsebagaimana dimaksud dalam Pasal 23 ayat (2) huruf c Undang -\nUndang meliputi keputusan yang diterbitkan oleh Direktur\nJenderal Pajak selain:\na. surat ketetapan pajak yang penerbitannya telah sesuai\ndengan prosedur atau tata cara penerbitan;\nb. Surat Keputusan Pembetulan;\n\nc. Surat . . .\n\n\n\nc. Surat Keputusan Keberatan yang penerbitannya telah sesuai\ndengan prosedur atau tata cara penerbitan;\nd. Surat Keputusan Pengurangan Sanksi Administrasi;\ne. Surat Keputusan Penghapusan Sanksi Administrasi;\nf. Surat Keputusan Pengurangan Ketetapan Pajak;\ng. Surat Keputusan Pembatalan Ketetapan Pajak;  dan\nh. Surat Keputusan Pengembalian Pendahuluan Kelebihan\nPajak."
+   }
+  },
+  {
+   "id": "ID-H2124-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 38\n(1) Surat ketetapan pajak yang penerbitannya tidak sesuai\ndengan prosedur atau tata cara penerbitan yang diatur\ndalam ketentuan peraturan perundang -undangan di bidang\nperpajakan dapat diajukan gugatan kepada badan peradilan\npajak sebagaimana dimaksud dalam Pasal 23 ayat (2) huruf\nd Undang-Undang.\n(2) Surat ketetapan pajak yang penerbitannya tidak sesuai\ndengan prosedur atau tata cara penerbitan sebagaimana\ndimaksud pada ayat (1) meliputi surat ketetapan pajak yang\npenerbitannya tidak didasarkan pada:\na. hasil Verifikasi;\nb. hasil Pemeriksaan;\nc. hasil Pemeriksaan ulang; atau\nd. hasil Pemeriksaan Bukti Permulaan terkait dengan Surat\nKetetapan Pajak Kurang Bayar sebagaimana dimaksud\ndalam Pasal 13A Undang-Undang.\n(3) Termasuk dalam pengertian surat ketetapan pajak yang\npenerbitannya tidak sesuai dengan prosedur atau tata cara\npenerbitan  sebagaimana dimaksud pada ayat (1) meliputi\nsurat ketetapan pajak yang menetapkan Masa Pajak, Bagian\nTahun Pajak atau Tahun Pajak tidak sesuai dengan Masa\nPajak, Bagian Tahun Pajak atau Tahun Pajak yang\ndilakukan Verifikasi, Pemeriksaan, Pemeriksaan ulang,  atau\nPemeriksaan Bukti Permulaan."
+   }
+  },
+  {
+   "id": "ID-H2124-A39",
+   "no": 39,
+   "noLabel": {
+    "id": "Pasal 39 "
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Keempat"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 39 . . .\n\n\n\nPasal 39\n(1) Surat Keputusan Keberatan yang penerbitannya tidak sesuai\ndengan prosedur atau tata cara penerbitan yang diatur\ndalam ketentuan peraturan perundang -undangan di bidang\nperpajakan dapat diajukan gugatan kepada badan peradilan\npajak sebagaimana dimaksud dalam Pasal 23 ayat (2)\nhuruf d Undang-Undang.\n(2) Surat Keputusan Keberatan yang penerbitannya tidak sesuai\ndengan prosedur atau tata cara penerbitan sebagaimana\ndimaksud pada ayat (1) meliputi Surat Keputusan Keberatan\nyang penerbitannya tidak didahului dengan penyampaian\nsurat pemberitahuan untuk hadir kepada Wajib Pajak."
+   }
+  },
+  {
+   "id": "ID-H2124-A40",
+   "no": 40,
+   "noLabel": {
+    "id": "Pasal 40"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 40\n(1) Dalam hal terdapat Putusan Gugatan atas surat ketetapan\npajak sebagaimana dimaksud dalam Pasal 3 8, Direktur\nJenderal Pajak menindaklanjuti Putusan Gugatan dengan\nmenerbitkan kembali surat ketetapan pajak sesuai dengan\nprosedur atau ta ta cara s ebagaimana dimaksud dalam\nPasal 38 ayat (2) atau ayat (3).\n(2) Dalam hal  Direktur Jenderal Pajak menerbitkan kembali\nsurat ketetapan pajak yang terkait dengan permohonan\npengembalian kelebihan pembayaran pajak sebagaimana\ndimaksud dalam Pasal 17B aya t (1) Undang-Undang sebagai\nakibat dari Putusan Gugatan, penerbitan kembali surat\nketetapan pajak tersebut dilakukan dengan ketentuan:\na. apabila jangka waktu 12 (dua belas) bulan sebagaimana\ndimaksud dalam Pasal 17B ayat (1) Undang -Undang\nbelum terlewati, su rat ketetapan pajak diterbitkan\nsesuai dengan prosedur atau tata cara sebagaimana\ndiatur dalam Pasal 38 ayat (2) dan ayat (3); dan\nb. apabila jangka waktu 12 (dua belas) bulan  sebagaimana\ndimaksud dalam Pasal 17B ayat (1) Undang -Undang\nterlewati, Surat Ketetapan Pajak Lebih Bayar diterbitkan\nsesuai dengan Surat Pemberitahuan."
+   }
+  },
+  {
+   "id": "ID-H2124-A41",
+   "no": 41,
+   "noLabel": {
+    "id": "Pasal 41 "
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Keempat"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 41 . . .\n\n\n\nPasal 41\n(1) Dalam hal Direktur Jenderal Pajak menerima Putusan\nGugatan atas Surat Keputusan Keberatan yang\npenerbitannya tidak sesuai dengan prosedur atau tata cara\npenerbitan, Direktu r Jenderal Pajak menindaklanjuti\nPutusan Gugatan tersebut dengan menerbitkan kembali\nSurat Keputusan Keberatan sesuai dengan prosedur atau\ntata cara sebagaimana dimaksud dalam Pasal 39 ayat (2).\n(2) Dalam hal badan peradilan pajak mengabulkan gugatan\nWajib Paj ak atas surat dari Direktur Jenderal Pajak yang\nmenyatakan bahwa keberatan Wajib Pajak tidak dapat\ndipertimbangkan sebagaimana dimaksud dalam Pasal 25\nayat (4) Undang -Undang, Direktur Jenderal Pajak\nmenyelesaikan keberatan yang diajukan oleh Wajib Pajak\ndalam jangka waktu paling lama 12 (dua belas) bulan.\n(3) Jangka waktu paling lama 12 (dua belas) bulan sebagaimana\ndimaksud pada ayat (2) dihitung sejak Putusan Gugatan\nditerima oleh Direktur Jenderal Pajak.\n\nBagian Kelima\nSurat Pelaksanaan Putusan Banding,\nPutusan Peninjauan Kembali, dan Putusan Gugatan"
+   }
+  },
+  {
+   "id": "ID-H2124-A42",
+   "no": 42,
+   "noLabel": {
+    "id": "Pasal 42"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 42\n(1) Direktur Jenderal Pajak menerbitkan surat pelaksanaan\nPutusan Banding setelah menerima Putusan Banding.\n(2) Direktur Jenderal Pajak menerbitka n surat pelaksanaan\nPutusan Peninjauan Kembali setelah menerima Putusan\nPeninjauan Kembali.\n(3) Direktur Jenderal Pajak menerbitkan surat pelaksanaan\nPutusan Gugatan setelah menerima Putusan Gugatan.\n\n BAB VI . . .\n\n\n\nBAB VI\nIMBALAN BUNGA"
+   }
+  },
+  {
+   "id": "ID-H2124-A43",
+   "no": 43,
+   "noLabel": {
+    "id": "Pasal 43"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 43\n(1) Apabila pengajuan keberat an, permohonan banding, atau\npermohonan peninjauan kembali dikabulkan sebagian atau\nseluruhnya, selama pajak yang masih harus dibayar dalam\nSurat Ketetapan Pajak Kurang Bayar dan Surat Ketetapan\nPajak Kurang Bayar Tambahan yang telah dibayar\nmenyebabkan ke lebihan pembayaran pajak sebagaimana\ndimaksud dalam Pasal 27A Undang-Undang, kelebihan\npembayaran dimaksud dikembalikan dengan ditambah\nimbalan bunga sebesar 2% (dua persen) per bulan untuk\npaling lama 24 (dua puluh empat) bulan.\n(2) Apabila pengajuan keberata n, permohonan banding, atau\npermohonan peninjauan kembali sehubungan dengan Surat\nKetetapan Pajak Nihil dan Surat Ketetapan Pajak Lebih\nBayar dikabulkan sebagian atau seluruhnya dan\nmenyebabkan kelebihan pembayaran pajak sebagaimana\ndimaksud dalam Pasal 27 A Undang-Undang, kelebihan\npembayaran dimaksud dikembalikan dengan ditambah\nimbalan bunga sebesar 2% (dua persen) per bulan untuk\npaling lama 24 (dua puluh empat) bulan.\n(3) Apabila terdapat Surat Keputusan Pembetulan, Surat\nKeputusan Pengurangan Ketetapan Paj ak, atau Surat\nKeputusan Pembatalan Ketetapan Pajak yang mengabulkan\nsebagian atau seluruhnya sehingga menyebabkan kelebihan\npembayaran pajak sebagaimana dimaksud dalam  Pasal 27A\nayat (1a) Undang-Undang, kelebihan pembayaran dimaksud\ndikembalikan dengan di tambah imbalan bunga sebesar 2%\n(dua persen) per bulan untuk paling lama 24 (dua puluh\nempat) bulan.\n(4) Imbalan bunga juga diberikan atas pembayaran lebih sanksi\nadministrasi berupa denda sebagaimana dimaksud da lam\nPasal 14 ayat (4) Undang-Undang dan/atau bu nga\nsebagaimana dimaksud  dalam Pasal 19 ayat (1) Undang-\nUndang berdasarkan Surat Keputusan Pengurangan Sanksi\nAdministrasi atau Surat Keputusan Penghapusan Sanksi\nAdministrasi sebagai akibat diterbitkan Surat Keputusan\nKeberatan, Putusan Banding, atau Putu san Peninjauan\nKembali yang mengabulkan sebagian atau seluruh\npermohonan Wajib Pajak.\n(5) Imbalan . . .\n\n\n\n(5) Imbalan bunga sebagaimana dimaksud pada ayat (1)  tidak\ndiberikan terhadap:\na. kelebihan pembayaran akibat Surat Keputusan\nKeberatan, Putusan Banding, atau Putusan Peninjau an\nkembali atas Surat Ketetapan Pajak Kurang Bayar atau\nSurat Ketetapan Pajak Kurang Bayar Tambahan yang\ndisetujui dalam Pembahasan Akhir Hasil Pemeriksaan\natau Pembahasan Akhir Hasil Verifikasi, dan telah\ndibayar sebelum mengajukan keberatan; atau\nb. kelebihan pembayaran akibat Surat Keputusan\nKeberatan, Putusan Banding, atau Putusan Peninjauan\nKembali atas jumlah pajak yang tercantum dalam Surat\nKetetapan Pajak Kurang Bayar atau Surat Ketetapan\nPajak Kurang Bayar Tambahan yang tidak disetujui\ndalam Pembahasa n Akhir Hasil Pemeriksaan atau\nPembahasan Akhir Hasil  Verifikasi, namun dibayar\nsebelum pengajuan keberatan, permohonan banding,\natau permohonan peninjauan kembali, atau sebelum\nditerbitkan Surat Keputusan Keberatan, Putusan\nBanding, atau Putusan Peninjauan Kembali.\n(6) Pelaksanaan pemberian imbalan bunga sebagaimana\ndimaksud pada ayat (1) dan ayat (2) berlaku ketentuan\nsebagai berikut:\na. dalam hal Wajib Pajak mengajukan keberatan, imbalan\nbunga diberikan apabila terhadap Surat Keputusan\nKeberatan tidak diajuka n permohonan banding ke\nPengadilan Pajak;\nb. dalam hal Wajib Pajak mengajukan permohonan\nbanding, imbalan bunga diberikan apabila terhadap\nPutusan Banding tidak diajukan permohonan\nPeninjauan Kembali ke Mahkamah Agung; atau\nc. dalam hal atas Putusan Banding diaj ukan permohonan\nPeninjauan Kembali, imbalan bunga diberikan apabila\nPutusan Peninjauan Kembali telah diterima oleh\nDirektur Jenderal Pajak dari Mahkamah Agung."
+   }
+  },
+  {
+   "id": "ID-H2124-A44",
+   "no": 44,
+   "noLabel": {
+    "id": "Pasal 44 "
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 44 . . .\n\n\n\nPasal 44\n(1) Dalam hal Surat Ketetapan Pajak Kurang Bayar\nsebagaimana dimaksud dalam Pasal 43  ayat (1) yang\nseluruhnya tidak disetujui oleh Wajib Pajak dalam\nPembahasan Akhir Hasil Pemeriksaan yang diterbitkan atas\nSurat Pemberitahuan yang menyatakan lebih bayar,\nkelebihan pembayaran pajak berdasarkan Surat Keputusan\nKeberatan, Putusan Banding, ata u Putusan Peninjauan\nKembali yang mengabulkan sebagian atau seluruhnya\ndikembalikan dengan ditambah imbalan bunga  sebesar 2%\n(dua persen) per bulan untuk paling lama 24 (dua puluh\nempat) bulan yang dihitung dari jumlah kelebihan\npembayaran pajak dalam Sur at Keputusan Keberatan,\nPutusan Banding, atau Putusan Peninjauan Kembali.\n(2) Dalam hal Surat Ketetapan Pajak Nihil  sebagaimana\ndimaksud dalam Pasal 4 3 ayat (2) yang tidak disetujui oleh\nWajib Pajak dalam Pembahasan Akhir Hasil Pemeriksaan\nyang diterbitkan ata s Surat Pemberitahuan yang\nmenyatakan lebih bayar, kelebihan pembayaran pajak\nberdasarkan Surat Keputusan Keberatan, Putusan Banding,\natau Putusan Peninjauan Kembali yang mengabulkan\nsebagian atau seluruhnya dikembalikan dengan ditambah\nimbalan bunga  sebe sar 2% (dua persen) per bulan untuk\npaling lama 24 (dua puluh empat) bulan yang dihitung dari\njumlah kelebihan pembayaran pajak dalam Surat Keputusan\nKeberatan, Putusan Banding, atau Putusan Peninjauan\nKembali.\n(3) Imbalan bunga sebagaimana dimaksud pada ayat (1) dan\nayat (2) dihitung sejak tanggal penerbitan Surat Ketetapan\nPajak Kurang Bayar atau Surat Ketetapan Pajak Nihil\nsampai dengan diterbitkannya Surat Keputusan Keberatan,\nPutusan Banding, atau Putusan Peninjauan Kembali."
+   }
+  },
+  {
+   "id": "ID-H2124-A45",
+   "no": 45,
+   "noLabel": {
+    "id": "Pasal 45 "
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 45 . . .\n\n\n\nPasal 45\nApabila permohon an peninjauan kembali dikabulkan sebagian\natau seluruhnya, selama pajak yang masih harus dibayar dalam\nSurat Ketetapan Pajak Kurang Bayar dan Surat Ketetapan Pajak\nKurang Bayar Tambahan Tahun Pajak 2007 dan sebelumnya\nyang telah dibayar menyebabkan kelebih an pembayaran pajak\nsebagaimana dimaksud dalam Pasal 27A Undang -Undang,\nkelebihan pembayaran pajak tersebut dikembalikan dengan\nditambah imbalan bunga sebesar 2% (dua persen) per bulan\nuntuk paling lama 24 (dua puluh empat) bulan, yang dihitung\nsejak tangg al pembayaran yang menyebabkan kelebihan\npembayaran pajak sampai dengan tanggal diterbitkannya\nPutusan Banding.\n\n\nBAB VII\nPENAGIHAN"
+   }
+  },
+  {
+   "id": "ID-H2124-A46",
+   "no": 46,
+   "noLabel": {
+    "id": "Pasal 46"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 46\n(1) Ketentuan mengenai jumlah pajak yang masih harus dibayar\nbertambah sebagaimana dimaksud dalam Pasal 9 ayat (3)\nUndang-Undang, Pasal 18 ayat (1) Undang-Undang, Pasal 19\nayat (1) Undang-Undang, Pasal 20 ayat (1) Undang-Undang,\nPasal 21 ayat (4)  Undang-Undang, dan Pasal 26 ayat (3)\nUndang-Undang termasuk pajak yang seharusnya tidak\ndikembalikan.\n(2) Surat pelaksanaan Putusan Banding atau surat pelaksanaan\nPutusan Peninjauan Kembali seb agaimana dimaksud dalam\nPasal 42 ayat (1) atau ayat (2) juga diterbitkan akibat\nPutusan Banding atau Putusan Peninjauan Kembali yang\nmenyebabkan pembayaran atas pajak yang seharusnya tidak\ndikembalikan sebagaimana dimaksud pada ayat (1)."
+   }
+  },
+  {
+   "id": "ID-H2124-A47",
+   "no": 47,
+   "noLabel": {
+    "id": "Pasal 47"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 47\nDalam hal diberikan penundaan pembayaran atau persetujuan\nangsuran pembayaran, jangka waktu hak mendahulu selama 5\n(lima) tahun sebagaimana dimaksud dalam Pasal 21 ayat (5)\nhuruf b Undang -Undang, dihitung sejak batas akhir penundaan\ndiberikan atau sejak tanggal jatuh tempo angsuran terakhir."
+   }
+  },
+  {
+   "id": "ID-H2124-A48",
+   "no": 48,
+   "noLabel": {
+    "id": "Pasal 48 "
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 48 . . .\n\n\n\nPasal 48\n(1) Dalam hal Wajib Pajak mengajukan keberatan dan tidak\nmengajukan permohonan banding, pelunasan atas jumlah\npajak yang belum dibayar sebagaimana dimaksud dalam\nPasal 9 ayat (3) atau ayat (3a) Undang-Undang dilakukan\npaling lama 1 (satu) bulan sejak tanggal penerbitan Surat\nKeputusan Keberatan.\n(2) Dalam hal Wajib Pajak mengajukan permohonan banding,\npelunasan atas jumlah pajak yang belum dibayar\nsebagaimana dimaksud dalam Pasal 9 ayat (3) atau ayat  (3a)\nUndang-Undang dilakukan paling lama 1 (satu) bulan sejak\ntanggal penerbitan Putusan Banding.\n(3) Dalam hal Wajib Pajak menyetujui seluruh jumlah pajak\nyang masih harus dibayar dalam Pembahasan Akhir Hasil\nPemeriksaan atau Pembahasan Akhir Hasil Verifikasi,\npelunasan atas jumlah pajak yang masih harus dibayar\ndilakukan paling lama 1 (satu) bulan sejak tanggal\npenerbitan surat ketetapan pajak sebagaimana dimaksud\ndalam Pasal 9 ayat (3) Undang-Undang.\n(4) Dalam hal Wajib Pa jak usaha kecil dan Wajib Pajak di\ndaerah tertentu menyetujui seluruh jumlah pajak yang\nmasih harus dibayar dalam Pembahasan Akhir Hasil\nPemeriksaan atau Pembahasan Akhir Hasil Verifikasi,\npelunasan atas jumlah pajak yang masih harus dibayar\ndilakukan pali ng lama 2 (dua) bulan sejak tanggal\npenerbitan surat ketetapan pajak sebagaimana dimaksud\ndalam Pasal 9 ayat (3a) Undang-Undang.\n(5) Dalam hal Wajib Pajak tidak melunasi jumlah pajak yang\nmasih harus dibayar dalam jangka waktu sebagaimana\ndimaksud pada ayat (1), ayat (2), ayat (3), dan ayat (4), pajak\nyang masih harus  dibayar tersebut ditagih dengan terlebih\ndahulu menerbitkan Surat Teguran.\n(6) Surat Teguran sebagaimana dimaksud pada ayat (5)\ndisampaikan setelah 7 (tujuh) hari sejak saat jatuh tempo\npembayaran sebagaimana dimaksud pada ayat (1), ayat (2),\nayat (3), dan ayat (4).\n\n (7) Dalam . . .\n\n\n\n(7) Dalam hal Wajib Pajak tidak menyetujui sebagian atau\nseluruh jumlah pajak yang masih harus dibayar dalam\nPembahasan Akhir Hasil Pemeriksaan atau Pembahasan\nAkhir Hasil Verifikasi dan W ajib Pajak tidak mengajukan\nkeberatan, Surat Teguran sebagaimana dimaksud pada ayat\n(5) disampaikan setelah 7 (tujuh) hari sejak saat jatuh tempo\npengajuan keberatan.\n(8) Dalam hal Wajib Pajak tidak menyetujui sebagian atau\nseluruh jumlah pajak yang masih haru s dibayar dalam\nPembahasan Akhir Hasil Pemeriksaan atau Pembahasan\nAkhir Hasil Verifikasi dan Wajib Pajak tidak mengajukan\npermohonan banding atas keputusan keberatan, Surat\nTeguran sebagaimana dimaksud pada ayat (5) disampaikan\nsetelah 7 (tujuh) hari seja k saat jatuh tempo pengajuan\npermohonan banding.\n(9) Dalam hal Wajib Pajak tidak menyetujui sebagian atau\nseluruh jumlah pajak yang masih harus dibayar dalam\nPembahasan Akhir Hasil Pemeriksaan atau Pembahasan\nAkhir Hasil Verifikasi dan Wajib Pajak mengajukan\npermohonan banding atas keputusan keberatan, Surat\nTeguran sebagaimana dimaksud pada ayat (5) disampaikan\nsetelah 7 (tujuh) hari sejak saat jatuh tempo pelunasan\npajak yang masih harus dibayar berdasarkan Putusan\nBanding.\n(10) Apabila sanksi administrasi dalam S urat Tagihan Pajak\ndikenakan sebagai akibat diterbitkan surat ketetapan pajak,\nyang pajak terutangnya tidak disetujui oleh Wajib Pajak\ndalam Pembahasan Akhir Hasil Pemeriksaan atau\nPembahasan Akhir Hasil Verifikasi dan atas surat ketetapan\npajak diajukan k eberatan dan/atau banding, tindakan\npenagihan atas Surat Tagihan Pajak tersebut ditangguhkan\nsampai dengan surat ketetapan pajak tersebut mempunyai\nkekuatan hukum tetap.\n(11) Ketentuan lebih lanjut mengenai tata cara pelaksanaan\npenagihan pajak atas jumlah pa jak yang masih harus\ndibayar diatur dengan atau berdasarkan Peraturan Menteri\nKeuangan.\nBAB VIII . . .\n\n\n\nBAB VIII\nKUASA WAJIB PAJAK, RAHASIA JABATAN,\nDAN PERMINTAAN KETERANGAN KEPADA PIHAK KETIGA"
+   }
+  },
+  {
+   "id": "ID-H2124-A49",
+   "no": 49,
+   "noLabel": {
+    "id": "Pasal 49"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 49\n(1) Wajib Pajak dapat menunjuk seorang kuasa dengan surat\nkuasa khusus  untuk menjalankan hak dan memenuhi\nkewajiban sesuai dengan ketentuan peraturan perundang -\nundangan di bidang perpajakan.\n(2) Seorang kuasa sebagaimana dimaksud pada ayat (1)\nmeliputi konsultan pajak dan bukan konsultan pajak.\n(3) Seorang kuasa sebagaimana dimaksud  pada ayat ( 2) harus\nmemenuhi persyaratan sebagai berikut:\na. menguasai ketentuan peraturan perundang-undangan di\nbidang perpajakan;\nb. memiliki surat kuasa khusus dari Wajib Pajak yang\nmemberi kuasa;\nc. memiliki Nomor Pokok Wajib Pajak;\nd. telah menyampaikan Surat Pemberitahuan Tahunan\nPajak Penghasilan Tahun Pajak terakhir; dan\ne. tidak pernah dipidana karena melakukan tindak pidana\ndi bidang perpajakan.\n(4) Surat kuasa khusus sebagaimana dimaksud pada ayat (3)\nhuruf b paling sedikit memuat:\na. nama, alamat, dan tandatangan di atas meterai serta\nNomor Pokok Wajib Pajak dari Wajib Pajak pemberi\nkuasa;\nb. nama, alamat, dan tandatangan serta Nomor Pokok\nWajib Pajak penerima kuasa; dan\nc. hak dan/atau kewajiban perpajakan tertentu yang\ndikuasakan."
+   }
+  },
+  {
+   "id": "ID-H2124-A50",
+   "no": 50,
+   "noLabel": {
+    "id": "Pasal 50"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 50\n(1) Seorang kuasa sebagaimana dimaksud dalam Pasal 49 tidak\ndapat melimpahkan kuasa yang diterima dari Wajib Pajak\nkepada orang lain.\n\n(2) Dalam . . .\n\n\n\n(2) Dalam melaksanakan hak dan/atau memenuhi kewajiban\nperpajakan tertentu yang dikuasakan,  dengan surat\npenunjukan, seorang kuasa hanya dapat meminta orang lain\natau karyawannya untuk menyampaikan dan/atau\nmenerima dokumen perpajakan tertentu yang diperlukan\nkepada dan/atau dari pegawai Direktorat Jenderal Pajak.\n(3) Orang lain atau karyawan yang ditunjuk oleh seorang kuasa\nsebagaimana dimaksud pada ayat (2) , harus menyerahkan\nsurat penunjukan kepada pegawai Direktorat Jenderal Pajak\npada saat melaksanakan tugasnya."
+   }
+  },
+  {
+   "id": "ID-H2124-A51",
+   "no": 51,
+   "noLabel": {
+    "id": "Pasal 51"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 51\n(1) Seorang kuasa hanya mempunyai hak dan /atau kewajiban\nperpajakan tertentu yang dikuasakan Wajib Pajak sesuai\ndengan surat kuasa khusus  sebagaimana dimaksud dalam\nPasal 49 ayat (3) huruf b.\n(2) Dalam melaksanakan hak dan /atau memenuhi kewajiban\nperpajakan tertentu, seorang kuasa wajib mematuhi\nketentuan peraturan perundang -undangan di bidang\nperpajakan.\n(3) Seorang kuasa tidak dapat melaksanakan hak dan/atau\nkewajiban Wajib Pajak yang dikuasakan kepadanya apabila\ndalam melaksanakan hak dan/atau memenuhi kewajiban\nperpajakannya:\na. melanggar ketentuan peraturan perundang-undangan di\nbidang perpajakan;\nb. menghalang-halangi pelaksanaan ketentuan peraturan\nperundang-undangan di bidang perpajakan; atau\nc. dipidana karena melakukan tindak pidana di bidang\nperpajakan atau tindak pidana lainnya."
+   }
+  },
+  {
+   "id": "ID-H2124-A52",
+   "no": 52,
+   "noLabel": {
+    "id": "Pasal 52"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 52\nKetentuan lebih lanjut mengenai syarat serta hak dan kewajiban\nkonsultan pajak yang dapat ditunjuk sebagai kuasa diatur\ndengan Peraturan Menteri Keuangan."
+   }
+  },
+  {
+   "id": "ID-H2124-A53",
+   "no": 53,
+   "noLabel": {
+    "id": "Pasal 53 "
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 53 . . .\n\n\n\nPasal 53\n(1) Setiap pejabat dan tenaga ahli dilarang memberitahukan\nkepada pihak lain segala sesuatu yang diketahui atau\ndiberitahukan kepadanya oleh Wajib Pajak dalam rangka\njabatan atau pekerjaannya.\n(2) Untuk kepe ntingan negara, Menteri Keuangan berwenang\nmemberi izin tertulis kepada pejabat dan/atau tenaga ahli\nsebagaimana dimaksud pada ayat (1) supaya memberikan\nketerangan dan/atau memperlihatkan bukti tertulis dari\natau tentang Wajib Pajak kepada pihak tertentu yang\nditunjuk dalam izin tertulis Menteri Keuangan tersebut.\n(3) Pihak tertentu yang ditunjuk sebagaimana dimaksud pada\nayat (2):\na. hanya dapat meminta keterangan dan/atau bukti\ntertulis mengenai keterangan dan/atau bukti tertulis\nyang tercantum dalam izin tertulis Menteri Keuangan;\nb. wajib merahasiakan segala keterangan dan/atau bukti\ntertulis yang diketahui atau diperoleh dari Pejabat\ndan/atau Tenaga Ahli; dan\nc. hanya dapat memanfaatkan keterangan dan/atau bukti\ntertulis sesuai dengan tujuan diajukannya permintaa n\nketerangan dan/atau bukti tertulis dari atau tentang\nWajib Pajak.\n(4) Apabila pihak tertentu yang ditunjuk sebagaimana\ndimaksud pada ayat (2) melanggar ketentuan sebaga imana\ndimaksud pada ayat  (3), pihak tertentu tersebut  dikenai\nsanksi sesuai dengan ketentu an peraturan perundang -\nundangan.\n(5) Pejabat dan/atau tenaga ahli yang memberikan keterangan\ndan/atau memperlihatkan bukti tertulis dari atau tentang\nWajib Pajak dalam rangka melaksanakan tugas sesuai\ndengan ketentuan peraturan perundang-undangan di bidang\nperpajakan, dikecualikan dari ketentuan sebagaimana\ndimaksud pada ayat (1) dan ayat (2).\n(6) Ketentuan lebih lanjut mengenai tata cara pemberian izin\ntertulis kepada pejabat dan/atau tenaga ahli diatur dengan\nPeraturan Menteri Keuangan."
+   }
+  },
+  {
+   "id": "ID-H2124-A54",
+   "no": 54,
+   "noLabel": {
+    "id": "Pasal 54 "
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 54 . . .\n\n\n\nPasal 54\n(1) Dalam pelaksa naan Pemeriksaan,  Pemeriksaan Bukti\nPermulaan, Penyidikan Tindak Pidana di Bidang Perpajakan,\npenagihan pajak, atau proses  keberatan, Direktur Jenderal\nPajak dapat meminta keterangan atau bukti kepada pihak\nketiga yang mempunyai hubungan dengan Wajib Paja k\nsebagaimana dimaksud dalam Pasal 35 ayat (1) Undang -\nUndang.\n(2) Dalam hal pihak ketiga sebagaimana dimaksud pada ayat (1)\nterikat oleh kewajiban merahasiakan, untuk keperluan\nPemeriksaan, Pemeriksaan Bukti Permulaan, Penyidikan\nTindak Pidana di Bidang Perpajakan, penagihan pajak, dan\nproses keberatan, kewajiban merahasiakan tersebut\nditiadakan berdasarkan permintaan secara tertulis dari:\na. Direktur Jenderal Pajak; atau\nb. Menteri Keuangan kepada Gubernur Bank Indonesia\ndalam hal keterangan atau bukti yang diminta terikat\nkerahasiaan sebagaimana diatur dalam Undang -Undang\ndi bidang perbankan.\n\n\nBAB IX\nPENERAPAN PERSETUJUAN PENGHINDARAN PAJAK BERGANDA"
+   }
+  },
+  {
+   "id": "ID-H2124-A55",
+   "no": 55,
+   "noLabel": {
+    "id": "Pasal 55"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 55\nPemerintah Indonesia terikat P3B yang dilakukan dengan\npemerintah negara mitra atau yurisdiksi mitra P3B."
+   }
+  },
+  {
+   "id": "ID-H2124-A56",
+   "no": 56,
+   "noLabel": {
+    "id": "Pasal 56"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 56\n(1) Direktur Jenderal Pajak dapat melakukan pertukaran\ninformasi mengenai hal -hal yang berkaitan dengan masalah\nperpajakan dengan otoritas pajak negara mitra atau\nyurisdiksi mitra P3B sesuai dengan ketentuan P3B yang\nberlaku.\n(2) Direktur Jenderal Pajak  dapat meminta informasi kepada\nWajib Pajak atau pihak lain mengenai hal-hal yang berkaitan\ndengan masalah perpajakan yang akan dipertukarkan\nsebagaimana dimaksud pada ayat (1).\n(3) Wajib . . .\n\n\n\n(3) Wajib Pajak atau pihak lain sebagaimana dimaksud pada\nayat (2) wajib memenuh i permintaan informasi mengenai\nhal-hal yang berkaitan dengan masalah perpajakan.\n(4) Dalam hal Wajib Pajak atau pihak lain  tidak memenuhi\npermintaan sebagaimana dimaksud pada ayat (3), Wajib\nPajak atau pihak lain dikenai sanksi sesuai dengan Undang -\nUndang."
+   }
+  },
+  {
+   "id": "ID-H2124-A57",
+   "no": 57,
+   "noLabel": {
+    "id": "Pasal 57"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 57\n(1) Pelaksanaan MAP dilakukan oleh Direktur  Jenderal Pajak\ndan otoritas pajak negara atau yurisdiksi mitra P3B.\n(2) Permintaan pelaksanaan MAP  dapat diajukan oleh:\na. Wajib Pajak melalui Direktur Jenderal Pajak;\nb. Direktur Jenderal Pajak; atau\nc. otoritas pajak  negara mitra P3B atau yurisdiksi mitra\nP3B,\ndalam batas waktu pelaksanaan MAP sebagaimana\nditetapkan dalam P3B.\n(3) Permintaan pelaksanaan MAP oleh pihak sebagaimana\ndimaksud pada ayat (2) dapat diajukan bersamaan dengan\npermohonan Wajib Pajak untuk mengajukan:\na. keberatan sebagaimana dimaksud dalam Pasal 25\nUndang-Undang;\nb. permohonan banding sebagaimana dimaksud dalam\nPasal 27 Undang-Undang; atau\nc. permohonan pengurangan atau pembatalan surat\nketetapan pajak yang tidak benar sebagaimana\ndimaksud dalam Pasal 36 aya t (1) huruf b Undang -\nUndang.\n(4) Direktur Jenderal Pajak berwenang untuk meneliti\npermintaan pelaksanaan MAP sebagaimana dimaksud pada\nayat (2) huruf a dan huruf c untuk menentukan dapat atau\ntidaknya dilaksanakan MAP.\n\n (5) Dalam . . .\n\n\n\n(5) Dalam hal pelaksanaan MAP menghasilka n Persetujuan\nBersama setelah surat ketetapan pajak diterbitkan tetapi\ntidak diajukan keberatan atau tidak diajukan permohonan\npengurangan atau pembatalan surat ketetapan pajak yang\ntidak benar, Direktur Jenderal Pajak melakukan pembetulan\natas surat ketet apan pajak sesuai dengan ketentuan\nsebagaimana dimaksud dalam Pasal 16 Undang-Undang.\n(6) Dalam hal pelaksanaan MAP menghasilkan Persetujuan\nBersama setelah Direktur Jenderal Pajak menerbitkan Surat\nKeputusan Keberatan tetapi tidak diajukan banding atau\nWajib Pajak mengajukan banding tetapi dicabut, Direktur\nJenderal Pajak melakukan pembetulan atas Surat\nKeputusan Keberatan sesuai dengan ketentuan\nsebagaimana dimaksud dalam Pasal 16 Undang-Undang.\n(7) Apabila pelaksanaan MAP dilakukan bersamaan dengan\nproses bandi ng dan sampai dengan Putusan Banding\ndiucapkan pelaksanaan MAP belum menghasilkan\nPersetujuan Bersama, Direktur Jenderal Pajak\nmenghentikan MAP.\n(8) Dalam hal pelaksanaan MAP tidak menghasilkan\nPersetujuan Bersama, berlaku surat ketetapan pajak, Surat\nKeputusan Keberatan, Putusan Banding, atau Putusan\nPeninjauan Kembali."
+   }
+  },
+  {
+   "id": "ID-H2124-A58",
+   "no": 58,
+   "noLabel": {
+    "id": "Pasal 58"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 58\n\n(1) APA berlaku dan mengikat bagi:\na. Direktur Jenderal Pajak dengan Wajib Pajak; atau\nb. Direktur Jenderal Pajak dengan Wajib Pajak dan otoritas\npajak negara mitra P3B atau yurisdiksi mitra P3B,\nselama jangka waktu APA.\n(2) Direktur Jenderal Pajak tidak dapat melakukan koreksi atas\nhal-hal yang disepakati dalam APA.\n(3) Dalam hal proses APA tidak menghasilkan kesepakatan\nantara pihak -pihak sebagaimana dimaksud pada ayat (1),\ndokumen Wajib Pajak yang d ipergunakan selama proses\npenentuan APA harus dikembalikan sepenuhnya kepada\nWajib Pajak.\n\n(4) Dokumen . . .\n\n\n\n(4) Dokumen sebagaimana dimaksud pada ayat (3) tidak  dapat\ndigunakan oleh Direktur Jenderal Pajak sebagai dasar untuk\nmelakukan Pemeriksaan, Pemeriksaan Bukti Permulaa n,\natau Penyidikan Tindak Pidana di Bidang Perpajakan."
+   }
+  },
+  {
+   "id": "ID-H2124-A59",
+   "no": 59,
+   "noLabel": {
+    "id": "Pasal 59"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 59\nKetentuan lebih lanjut mengenai tata cara pelaksanaan\npertukaran informasi, MAP, dan APA sebagaimana dimaksud\ndalam Pasal 56, Pasal 57, dan Pasal 58 diatur dengan atau\nberdasarkan Peraturan Menteri Keuangan.\n\n\nBAB X\nPEMERIKSAAN BUKTI PERMULAAN DAN PENYIDIKAN"
+   }
+  },
+  {
+   "id": "ID-H2124-A60",
+   "no": 60,
+   "noLabel": {
+    "id": "Pasal 60"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 60\n(1) Berdasarkan hasil pengembangan dan analisis terhadap\ninfomasi, data, laporan , dan pengaduan, Direktur Jenderal\nPajak berwenang melakukan Pemeriksaan Bukti Permulaan\nsebagaimana dimaksud dalam Pasal 43A Undang-Undang.\n(2) Pemeriksaan Bukti Permulaan sebagaimana dimaksud pada\nayat (1) dapat dilakukan secara tertutup atau secara\nterbuka.\n(3) Pemeriksaan Bukti Permulaan secara tertutup dilakukan\ntanpa pemberitahuan kepada Wajib Pajak.\n(4) Pemeriksaan Bukti Permulaan secara terbuka dilakukan\ndengan pemberitahuan secara tertulis kepada Wajib Pajak.\n(5) Dalam melaksanakan Pemeriksaan Bukti Permulaan,\npejabat yang melakukan Pemeriksaan Bukti Permulaan\nsecara terbuka berwenang:\na. meminjam dan memeriksa buk u atau catatan, dokumen\nyang menjadi dasar pembukuan atau pencatatan, dan\ndokumen lain yang berhubungan dengan penghasilan\nyang diperoleh, kegiatan usaha, pekerjaan bebas Wajib\nPajak, atau objek yang terutang pajak;\nb. mengakses dan/atau mengunduh data yang d ikelola\nsecara elektronik;\n\nc. memasuki . . .\n\n\n\nc. memasuki dan memeriksa tempat atau ruang, barang\nbergerak dan/atau tidak bergerak yang diduga atau\npatut diduga digunakan untuk menyimpan buku atau\ncatatan, dokumen yang menjadi dasar pembukuan atau\npencatatan, dokumen lain, uang, dan/atau barang yang\ndapat memberi petunjuk tentang penghasilan yang\ndiperoleh, kegiatan usaha, pekerjaan bebas Wajib Pajak,\natau objek yang terutang pajak;\nd. melakukan penyegelan tempat atau ruang tertentu serta\nbarang bergerak dan/atau barang tidak bergerak;\ne. meminta keterangan dan/atau bukti yang diperlukan\ndari pihak ketiga yang mempunyai hubungan dengan\nWajib Pajak yang dilakukan Pemeriksaan Bukti\nPermulaan melalui Direktur Jenderal Pajak sebagaimana\ndimaksud dalam Pasal 54;\nf. meminta keterangan kepa da pihak yang berkaitan dan\ndituangkan dalam berita acara permintaan keterangan;\ndan\ng. melakukan tindakan lain yang diperlukan dalam rangka\nPemeriksaan Bukti Permulaan.\n(6) Ketentuan mengenai t ata cara penyegelan sebagaimana\ndimaksud pada ayat ( 5) huruf d diatur dengan atau\nberdasarkan Peraturan Menteri Keuangan.\n(7) Pemeriksaan bukti permulaan harus ditindaklanjuti dengan:\na. Penyidikan Tindak Pidana di Bidang Perpajakan dalam\nhal ditemukan bukti permulaan tindak pidana di bidang\nperpajakan;\nb. pemberitahuan secara tertu lis kepada Wajib Pajak\nbahwa Wajib Pajak tidak dilakukan Penyidikan dalam\nhal Wajib Pajak telah mengungkapkan ketidakbenaran\nperbuatannya sebagaimana dimaksud dalam Pasal 7;\nc. penerbitan Surat Ketetapan Pajak Kurang Bayar\nberdasarkan Pasal 13A Undang-Undang;\nd. penghentian Pemeriksaan Bukti Permulaan dalam hal\nWajib Pajak orang pribadi yang dilakukan Pemeriksaan\nBukti Permulaan meninggal dunia; atau\ne. penghentian Pemeriksaan Bukti Permulaan dalam hal\ntidak ditemukan adanya bukti permulaan tindak pidana\ndi bidang perpajakan."
+   }
+  },
+  {
+   "id": "ID-H2124-A61",
+   "no": 61,
+   "noLabel": {
+    "id": "Pasal 61 "
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 61 . . .\n\n\n\nPasal 61\n(1) Dalam hal berdasarkan Pemeriksaan Bukti Permulaan\ndiduga terjadi tindak pidana di bidang perpajakan, Penyidik\nPegawai Negeri Sipil Direktorat Jenderal Pajak melakukan\nPenyidikan sebagaimana dimaksud dalam Pasal 44 Undang -\nUndang.\n(2) Dalam rangka pelaksanaan kewenangan Penyidikan\nsebagaimana dimaksud dalam Pasal 44 ayat (1) Undang -\nUndang, penyidik dapat meminta bantuan aparat penegak\nhukum lain.\n(3) Jenis bantuan yang diminta sebagaimana dimaksud pada\nayat (2) berupa:\na. bantuan teknis;\nb. bantuan taktis;\nc. bantuan upaya paksa; dan/atau\nd. bantuan konsultasi dalam rangka penyidikan.\n(4) Aparat penegak hukum lain sebagaimana dimaksud pada\nayat (2) harus memberikan bantuan sesuai dengan\npermintaan berdasarkan ketentuan peraturan  perundang -\nundangan."
+   }
+  },
+  {
+   "id": "ID-H2124-A62",
+   "no": 62,
+   "noLabel": {
+    "id": "Pasal 62"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 62\n(1) Untuk kepentingan penerimaan negara, atas permintaan\nMenteri Keuangan, Jaksa Agung dapat menghentikan\nPenyidikan Tindak Pidana di Bidang Perpajakan  dalam\njangka waktu paling lama 6 (enam) bulan sejak tanggal surat\npermintaan.\n(2) Permintaan Menteri Keuangan s ebagaimana dimaksud pada\nayat (1) dapat dilakukan apabila Wajib Pajak telah melunasi\njumlah kerugian pada pendapatan negara sebesar:\na. jumlah pajak yang tidak atau kurang dibayar atau yang\nseharusnya tidak dikembalikan; atau\nb. jumlah pajak dalam faktur pajak, bukti pemungutan\npajak, bukti pemotongan pajak, dan/atau bukti setoran\npajak,\nditambah dengan sanksi administrasi berupa denda sebesar\n4 (empat) kali jumlah pajak tersebut.\n\n\n(3) Jumlah . . .\n\n\n\n(3) Jumlah pajak sebagaimana dimaksud pada ayat (2)\nmerupakan jumlah kerugian pada pendapatan negara yang\ndihitung berdasarkan berita acara pemeriksaan ahli sebelum\ndilakukan pelunasan dalam rangka pengajuan permintaan\npenghentian Penyidikan oleh Menteri Keuangan."
+   }
+  },
+  {
+   "id": "ID-H2124-A63",
+   "no": 63,
+   "noLabel": {
+    "id": "Pasal 63"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 63\nKetentuan lebih lanjut mengenai tata cara permintaan\npenghentian Penyidikan Tindak Pidana di Bidang Perpajakan\ndiatur dengan Peraturan Menteri Keuangan.\n\nBAB XI\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H2124-A64",
+   "no": 64,
+   "noLabel": {
+    "id": "Pasal 64"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 64\nPada saat Peraturan Pemerintah ini mulai berlaku, terhadap\npelaksanaan hak dan pemenuhan kewajiban perpajakan yang\nbelum diselesaikan yang berkaitan dengan:\na. penyelesaian permohonan penghapusan Nomor Pokok Wajib\nPajak sebagaimana dimaks ud dalam Pasal 2 ayat (7)\nUndang-Undang dan/atau penyelesaian permohonan\npencabutan pengukuhan Pengusaha Kena Pajak\nsebagaimana dimaksu d dalam Pasal 2  ayat (9) Undang-\nUndang untuk permohonan yang diterima secara lengkap\nsetelah tanggal 31 Desember 2007;\nb. penyelesaian permohonan pengembalian kelebihan\npembayaran pajak yang seharusnya tidak terutang melalui\nVerifikasi sebagaimana dimaksud dalam Pasal 17 ay at (2)\nUndang-Undang untuk permohonan yang diterima secara\nlengkap setelah tanggal 31 Desember 2007;\nc. pembetulan terhadap Surat Keputusan Pemberian\nImbalan Bunga sebagaimana dimaksud dalam Pasal 16\nayat (1) Undang -Undang untuk penerbitan Surat\nKeputusan Pemberian Imbalan Bunga setelah tanggal\n31 Desember 2007;\nd. batas waktu bagi Direktur Jenderal Pajak untuk\nmenerbitkan Surat Keputusan Pembetulan sebagaimana\ndimaksud dalam Pasal 16 ayat (2) Undang -Undang untuk\npengajuan permohonan yang diterima setelah tanggal\n31 Desember 2007;\n\ne. tata cara . . .\n\n\n\ne. tata cara Pemeriksaan sebagaimana dimaksud dalam\nPasal 31 Undang-Undang dan permohonan pembatalan hasil\nPemeriksaan atau surat ketetapan pajak dari hasil\nPemeriksaan sebagaimana dimaksud dalam Pasal 36 ayat (1)\nhuruf d Un dang-Undang untuk Pemeriksaan yang dimulai\nsetelah tanggal 31 Desember 2007;\nf. proses penyelesaian keberatan sebagaimana dimaksud\ndalam Pasal 26 Undang-Undang dan Pasal  26A Undang -\nUndang untuk pengajuan keberatan yang diterima setelah\ntanggal 31 Desember 2007;\ng. pengajuan gugatan terhadap penerbitan surat ketetapan\npajak berdasarkan Pemeriksaan yang dimulai setelah\ntanggal 31  Desember 2007 yang dalam penerbitannya tidak\nsesuai dengan prosedur atau tata cara yang telah diatur\ndalam ketentuan peraturan perundang -undangan di bidang\nperpajakan;\nh. pengajuan gugatan terhadap penerbitan Surat Keputusan\nKeberatan yang dalam penerbitannya tidak sesuai dengan\nprosedur atau tata cara yang telah diatur dalam ketentuan\nperaturan perundang -undangan di bidang perpajakan,\nuntuk p engajuan keberatan yang diterima setelah tanggal\n31 Desember 2007;\ni. persyaratan dan prosedur pembetulan Surat Pemberitahuan\nsebagaimana dimaksud dalam Pasal 8 ayat (1), ayat (1a), dan\nayat (6) Undang -Undang untuk pembetulan Surat\nPemberitahuan yang disampaikan setelah tanggal\n31 Desember 2011;\nj. persyaratan dan prosedur pengungkapan ketidakbenaran\nperbuatan sebagaimana dimaksud dalam Pasal 7 untuk\npengungkapan ketidakbenaran perbuatan yang disampaikan\nsetelah tanggal 31 Desember 2011;\nk. persyaratan dan prosedur pengungkapan ketidakbenaran\npengisian Surat Pemberitahuan sebagaimana dimaksud\ndalam Pasal 8 ayat (4) Undang-Undang untuk pengungkapan\nketidakbenaran pengisian Surat Pemberitahuan yang\ndisampaikan setelah tanggal 31 Desember 2011;\nl. permohonan pengurangan a tau penghapusan sanksi\nadministrasi, permohonan pengurangan atau pembatalan\nsurat ketetapan pajak, permohonan pengurangan\natau pembatalan Surat Tagihan Pajak untuk Tahun Pajak\n2007 dan sebelumnya yang diaju kan setelah tanggal\n31 Desember 2011; atau\n\nm. permintaan . . .\n\n\n\nm. permintaan keterangan atau bukti kepada pihak ketiga yang\nmempunyai hubungan dengan Wajib Pajak yang dilakukan\nPemeriksaan, Pemeriksaan Bukti Permulaan, Penyidikan\nTindak Pidana di Bidang Perpajakan, penagihan pajak, atau\nproses keberatan sebagaiman a dimaksud dalam Pasal 55\nyang dilakukan setelah tanggal 31 Desember 2011,\nberlaku ketentuan berdasarkan Peraturan Pemerintah ini."
+   }
+  },
+  {
+   "id": "ID-H2124-A65",
+   "no": 65,
+   "noLabel": {
+    "id": "Pasal 65"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 65\nPada saat Peraturan Pemerintah ini mulai berlaku, peraturan\npelaksanaan Peraturan Pemerintah Nomor 80 Tahun 2007\ntentang Tata Cara Pelaksanaan Hak d an Kewajiban Perpajakan\nBerdasarkan Un dang-Undang Nomor 6 Tahun 1983 t entang\nKetentuan Umum d an Tata Cara Perpajakan sebagaimana telah\nbeberapa kali diubah terakhir dengan Undang-Undang Nomor 28\nTahun 2007 (Lembaran Negara Republik Indonesia Tahun 2007\nNomor 169, Tambahan Lembaran Negara Republik Indonesia\nNomor 4797) dinyatakan tetap berlaku sepanjang tidak\nbertentangan dengan Peraturan Pemerintah ini.\n\n\nBAB XII\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H2124-A66",
+   "no": 66,
+   "noLabel": {
+    "id": "Pasal 66"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 66\nPada saat Peraturan Pemerintah ini  mulai berlaku, Peraturan\nPemerintah Nomor 80 Tahun 2007 tentang Tata Cara\nPelaksanaan Hak dan Kewajiban Perpajakan Berdasarkan\nUndang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum\ndan Tata Cara Perpajakan sebagaimana telah beberapa kali\ndiubah terakhir dengan Undang-Undang Nomor 28 Tahun 2007\n(Lembaran Negara Republik Indonesia Tahun 2007 Nomor 169,\nTambahan Lembaran Negara Republik Indonesia Nomor 4797) ,\ndicabut dan dinyatakan tidak berlaku."
+   }
+  },
+  {
+   "id": "ID-H2124-A67",
+   "no": 67,
+   "noLabel": {
+    "id": "Pasal 67"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 67\nPeraturan Pemerintah ini mulai  berlaku pada tangga l\n1 Januari 2012.\n\n\nAgar . . .\n\n\n\nAgar setiap orang mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan penempatannya\ndalam Lembaran Negara Republik Indonesia.\n\n\nDitetapkan di Jakarta\npada tanggal 29 Desember 2011\nPRESIDEN REPUBLIK INDONESIA,\n   ttd\nDR. H. SUSILO BAMBANG YUDHOYONO\n\nDiundangkan di Jakarta\npada tanggal 29 Desember 2011\nMENTERI HUKUM DAN HAK ASASI MANUSIA\n     REPUBLIK INDONESIA,\nttd\n  AMIR SYAMSUDIN\n\n\n\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2011 NOMOR 162\n\n\n\n\n\n\n\n\n\n\nSalinan sesuai dengan aslinya\nKEMENTERIAN SEKRETARIAT NEGARA\nREPUBLIK INDONESIA\nAsisten Deputi Perundang-undangan\nBidang Perekonomian,\n\n\n\nSETIO SAPTO NUGROHO\n\n\n\nPENJELASAN\nATAS\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nNOMOR 74 TAHUN 2011\nTENTANG\nTATA CARA PELAKSANAAN HAK DAN PEMENUHAN KEWAJIBAN\nPERPAJAKAN\n\n\nI. UMUM\n\n Sistem perpajakan yang diatur dalam Undang -Undang Nomor\n6 Tahun 1983 tentang  Ketentuan Umum dan Tata Cara Perpajakan\nsebagaimana telah beberapa kali diubah terakhir dengan Undang -Undang\nNomor 16 Tahun 2009 bertujuan untuk memberikan kepercayaan dan\ntanggung jawab yang lebih besar kepada Wajib Pajak dalam melaksanakan\nkewajiban per pajakannya. Pemerintah, dalam hal ini aparat perpajakan,\nberkewajiban memberikan pelayanan, penyuluhan, dan pembinaan serta\nmelakukan pengawasan dan penegakan hukum, agar Wajib Pajak dapat\nmelaksanakan hak dan pemenuhan kewajiban perpajakannya sesuai\ndengan ketentuan peraturan perundang-undangan di bidang perpajakan.\n Dalam rangka pelaksanaan ketentuan Pasal 48 Undang -Undang\nNomor 6 Tahun 1983 sebagaimana telah beberapa kali diubah terakhir\ndengan Undang-Undang Nomor 16 Tahun 2009, telah diterbitkan Peratur an\nPemerintah Nomor 80 Tahun 2007 tentang Tata Cara Pelaksanaan Hak dan\nKewajiban Perpajakan Berdasarkan Undang -Undang Nomor 6 Tahun 1983\ntentang Ketentuan Umum dan Tata Cara Perpajakan sebagaimana telah\nbeberapa kali diubah terakhir dengan  Undang-Undang N omor 28 Tahun\n2007.\n Selanjutnya untuk lebih memberikan kemudahan dan kejelasan bagi\nmasyarakat dalam memahami dan memenuhi hak serta kewajiban\nperpajakan serta untuk menyelaraskan dengan Undang -Undang Nomor 36\nTahun 2008 tentang Perubahan Keempat atas Und ang-Undang Nomor 7\nTahun 1983 tentang Pajak Penghasilan, Undang -Undang Nomor 42 Tahun\n2009 tentang Perubahan Ketiga atas Undang -Undang Nomor 8 Tahun 1983\ntentang Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas\nBarang Mewah, perlu mengganti  tata cara pelaksanaan hak dan\npemenuhan kewajiban perpajakan sebagaimana diatur dalam Peraturan\nPemerintah Nomor 80 Tahun 2007 agar sesuai dengan perkembangan\nhukum dan masyarakat.\n\n\nII. PASAL . . .\n\n\n\nII. PASAL DEMI PASAL\n\nPasal 1\n Cukup jelas.\n\nPasal 2\n Ayat (1)\nPada dasarnya kewajiban mendaftarkan diri untuk memperoleh\nNomor Pokok Wajib Pajak melekat pada setiap Wajib Pajak yang\ntelah memenuhi persyaratan subjektif dan objektif.\nYang dimaksud dengan “persyaratan subjektif” adalah\npersyaratan yang sesuai dengan ketentuan mengenai subjek\npajak dalam Undang -Undang Pajak Penghasilan 1984 dan\nperubahannya.\nYang dimaksud dengan “persyaratan objektif” adalah persyaratan\nbagi subjek pajak yang menerima atau memperoleh penghasilan\natau diwajibkan untuk melakukan pemotongan/pemungutan\nsesuai den gan ketentuan Undang -Undang Pajak Penghasilan\n1984 dan perubahannya.\n Ayat (2)\n  Cukup jelas.\n Ayat (3)\nPada prinsipnya sistem administrasi perpajakan di Indonesia\nmenempatkan keluarga sebagai satu kesatuan ekonomis,\nsehingga dalam satu keluarga hanya ter dapat satu Nomor Pokok\nWajib Pajak.\nDengan demikian, terhadap wanita kawin yang tidak dikenai\npajak secara terpisah, pelaksanaan hak dan pemenuhan\nkewajiban perpajakannya digabungkan dengan suami sebagai\nkepala keluarga. Dalam hal wanita kawin telah memil iki Nomor\nPokok Wajib Pajak sebelum kawin, wanita kawin tersebut harus\nmengajukan permohonan penghapusan Nomor Pokok Wajib Pajak\ndengan alasan bahwa pelaksanaan hak dan pemenuhan\nkewajiban perpajakannya digabungkan dengan pelaksanaan hak\ndan pemenuhan kewajiban perpajakan suaminya.\nTidak termasuk dalam pengertian hidup terpisah adalah suami\nistri yang hidup terpisah antara lain karena tugas, pekerjaan,\natau usaha.\n\n Contoh: . . .\n\n\n\nContoh:\nSuami istri berdomisili di Salatiga. Karena suami bekerja di\nPekanbaru, yang bers angkutan bertempat tinggal di Pekanbaru\nsedangkan istri bertempat tinggal di Salatiga.\nDemikian halnya terhadap “anak yang belum dewasa”\nsebagaimana diatur dalam Undang -Undang Pajak Penghasilan\n1984 dan perubahannya, yaitu yang belum berumur 18 tahun\ndan belum pernah menikah, kewajiban perpajakan anak yang\nbelum dewasa tersebut digabung dengan orang tuanya.\n Ayat (4)\nPada dasarnya wanita kawin yang tidak hidup terpisah atau tidak\nmelakukan perjanjian pemisahan penghasilan dan harta secara\ntertulis, melaksa nakan hak dan memenuhi kewajiban\nperpajakannya dengan menggunakan Nomor Pokok Wajib Pajak\natas nama suaminya. Namun demikian, dalam hal wanita kawin\ningin melaksanakan hak dan memenuhi kewajiban perpajakan\nsecara terpisah dari suaminya, maka wanita kawin tersebut harus\nmendaftarkan diri untuk memperoleh Nomor Pokok Wajib Pajak.\nContoh:\nBapak Bagus yang telah memiliki Nomor Pokok Wajib Pajak\n12.345.678.9-XXX.000 menikah dengan Ibu Ayu yang belum\nmemiliki Nomor Pokok Wajib Pajak. Ibu Ayu memperoleh\npenghasilan dan ingin melaksanakan hak dan memenuhi\nkewajiban perpajakan secara terpisah dari suaminya. Oleh karena\nitu, Ibu Ayu harus mendaftarkan diri ke kantor Direktorat\nJenderal Pajak untuk memperoleh Nomor Pokok Wajib Pajak  dan\ndiberi Nomor Pokok Wajib Pajak baru dengan nomor\n98.765.432.1-XXX.000.\n Ayat (5)\nApabila wanita kawin yang ingin melaksanakan hak dan\nmemenuhi kewajiban perpajakan secara terpisah dari kewajiban\nperpajakan suaminya telah memiliki Nomor Pokok Wajib Pajak\nsebelum kawin, maka Nomor Pokok W ajib Pajak yang telah\ndimiliki sebelum kawin tersebut digunakan dalam pelaksanaan\nhak dan pemenuhan kewajiban perpajakan secara terpisah dari\nsuaminya, sehingga wanita kawin tersebut tidak perlu\nmendaftarkan diri lagi untuk memperoleh Nomor Pokok Wajib\nPajak.\n\n\n\nContoh: . . .\n\n\n\nContoh:\nLisa memperoleh penghasilan dan telah memiliki Nomor Pokok\nWajib Pajak dengan nomor 56.789.012.3-XYZ.000. Lisa kemudian\nmenikah dengan Hengki yang telah memiliki Nomor Pokok Wajib\nPajak 78.901.234.5 -XYZ.000. Apabila Lisa setelah menikah\nmemilih untuk melaksanakan hak dan memenuhi kewajiban\nperpajakan secara terpisah dari suaminya, maka Lisa tidak perlu\nmendaftarkan diri lagi untuk memperoleh Nomor Pokok Wajib\nPajak dan tetap menggunakan Nomor Pokok Wajib Pajak\n56.789.012.3-XYZ.000 dalam mel aksanakan hak dan memenuhi\nkewajiban perpajakannya.\n Ayat (6)\nCukup jelas.\n\nPasal 3\nCukup jelas.\n\nPasal 4\nAyat (1)\n   Cukup jelas.\nAyat (2)\n   Cukup jelas.\nAyat (3)\nPada prinsipnya penghapusan Nomor Pokok Wajib Pajak dan/atau\npencabutan pengukuhan Pengusaha Kena Pajak d ilakukan\nberdasarkan hasil pemeriksaan. Namun demikian, terhadap Wajib\nPajak yang memenuhi kriteria tertentu, penghapusan Nomor\nPokok Wajib Pajak dan/atau pencabutan pengukuhan Pengusaha\nKena Pajak dapat dilakukan berdasarkan Verifikasi.\nWajib Pajak yang m emenuhi kriteria tertentu pada ayat ini, antara\nlain:\na. Orang pribadi telah meninggal dunia dan tidak meninggalkan\nwarisan;\nb. Bendahara Pemerintah yang tidak lagi memenuhi syarat\nsebagai Wajib Pajak karena yang bersangkutan sudah tidak\nlagi melakukan pembayaran;\nc. Orang pribadi yang telah meninggalkan Indonesia untuk\nselama-lamanya;\n\nd. Wajib . . .\n\n\n\nd. Wajib Pajak memiliki lebih dari 1 (satu) Nomor Pokok Wajib\nPajak untuk menentukan Nomor Pokok Wajib Pajak yang\ndapat digunakan sebagai sarana administratif dalam\npelaksanaan hak dan pemenuhan kewajiban perpajakan;\ne. Wajib Pajak badan kantor perwakilan perusahaan asing yang\ntidak mempunyai kewajiban Pajak Penghasilan Badan yang\ntelah menghentikan kegiatan usahanya;\nf. Warisan yang belum terbagi dalam kedudukan sebagai Subjek\nPajak sudah selesai dibagi;\nk. Pengusaha Kena Pajak yang sudah tidak lagi memenuhi syarat\nsebagai Pengusaha Kena Pajak.\nVerifikasi dilakukan untuk mengetahui apakah Wajib Pajak benar -\nbenar tidak memenuhi persyaratan subjektif dan objektif.\nAyat (4)\n   Cukup jelas.\n\nPasal 5\n Ayat (1)\nTerhadap kekeliruan dalam pengisian Surat Pemberitahuan yang\ndibuat oleh Wajib Pajak, Wajib Pajak masih berhak untuk\nmelakukan pembetulan atas kemauan sendiri, dengan syarat\nDirektur Jenderal Pajak belum mulai melakukan tindakan\nPemeriksaan. Yang dimaksud dengan “mulai melakukan tindakan\nPemeriksaan” adalah pada saat surat pemberitahuan Pemeriksaan\ndisampaikan kepada Wajib Pajak, wakil, kuasa, pegawai, atau\nanggota keluarga yang telah dewasa dari Wajib Pajak.\n\n\ng. Wanita yang sebelumnya telah memiliki Nomor Pokok Wajib\nPajak dan menikah tanpa membuat perjanjian pemisahan\nharta dan penghasilan serta tidak ingin melaksanakan hak\ndan memenuhi kewajiban perpajakannya terpisah dari\nsuaminya;\nh. Wajib Pajak  Bentuk Usaha Tetap yang telah menghentikan\nkegiatan usahanya di Indonesia;\ni. Pengusaha Kena Pajak yang telah dipusatkan tempat\nterutangnya Pajak Pertambahan Nilai di tempat lain;\nj. Pengusaha Kena Pajak yang pindah alamat ke wilayah kerja\nkantor Direktorat Jenderal Pajak lainnya; atau\nKesempatan . . .\n\n\n\nKesempatan untuk melakukan pembetulan Surat Pemberitahuan\njuga masih dapat dilakukan oleh Wajib Pajak apabila Direktur\nJenderal Pajak belum mulai melakukan tindakan Pemeriksaan\nBukti Permulaan secara terbuka, yaitu pada saat surat\npemberitahuan Pemeriksaan Bukti Permulaan disampaika n\nkepada Wajib Pajak, wakil, kuasa, pegawai, atau anggota keluarga\nyang telah dewasa dari Wajib Pajak.\nTindakan Pemeriksaan pada prinsipnya dilaksanakan dalam\nrangka menerbitkan surat ketetapan pajak. Oleh karena itu,\nmeskipun Direktur Jenderal Pajak belum  melakukan Pemeriksaan\natau Pemeriksaan Bukti Permulaan, namun Direktur Jenderal\nPajak telah menyampaikan surat pemberitahuan hasil Verifikasi\nmaka Wajib Pajak tidak memiliki kesempatan lagi untuk\nmelakukan pembetulan Surat Pemberitahuannya.\n Ayat (2)\n  Cukup jelas.\n Ayat (3)\n   Cukup jelas.\n Ayat (4)\n   Cukup jelas.\n\nPasal 6\n Ayat (1)\nApabila Wajib Pajak menerima surat ketetapan pajak, Surat\nKeputusan Keberatan, Surat Keputusan Pengurangan Ketetapan\nPajak, Surat Keputusan Pembatalan Ketetapan Pajak, Surat\nKeputusan Pembetulan,  Putusan Banding, atau Putusan\nPeninjauan Kembali yang berdampak pada perhitungan rugi fiskal\ndalam Surat Pemberitahuan Tahunan maka Wajib Pajak dapat\nmembetulkan Surat Pemberitahuan Tahunan yang terkait dengan\nrugi fiskal tersebut.\nUntuk m emperjelas ketentuan ini, diberikan contoh sebagai\nberikut:\nPT Sukses telah menyampaikan Surat Pemberitahuan Tahunan\nPajak Penghasilan Tahun Pajak 2012 yang menyatakan:\n\n\n\nPenghasilan . . .\n\n\n\nPenghasilan Neto Rp300.000.000,00\nKompensasi kerugian berdasarkan\nSurat Pemberita huan Tahunan Pajak\nPenghasilan Tahun Pajak 2011\n\n\nRp200.000.000,00 (-)\nPenghasilan Kena Pajak Rp100.000.000,00\nTerhadap Surat Pemberitahuan Tahunan Pajak Penghasilan Tahun\nPajak 2011 dilakukan Pemeriksaan dan pada tan ggal 11 Oktober\n2013 diterbitkan surat ketetapan pajak yang menyatakan rugi\nfiskal menjadi sebesar Rp250.000.000,00.\nBerdasarkan surat ketetapan pajak tersebut, apabila terhadap\nSurat Pemberitahuan Tahunan Pajak Penghasilan Tahun Pajak\n2012 belum dilakuka n Pemeriksaan atau Verifikasi, Wajib Pajak\nharus membetulkan Surat Pemberitahuan Tahunan Pajak\nPenghasilan Tahun Pajak 2012 sehingga perhitungan Penghasilan\nKena Pajak Tahun Pajak 2012 menjadi sebagai berikut:\nPenghasilan Neto Rp300.000.000,00\nRugi menur ut surat ketetapan pajak\nTahun Pajak 2011\n\nRp250.000.000,00 (-)\nPenghasilan Kena Pajak Rp  50.000.000,00\nDemikian halnya apabila hasil Pemeriksaan Tahun Pajak 2011 rugi\nfiskal untuk surat ketetapan pajak misalnya menjadi sebesar\nRp170.000.000,00, Wajib P ajak juga harus membetulkan Surat\nPemberitahuan Tahunan Pajak Penghasilan Tahun Pajak 2012\ndengan cara yang sama.\n Ayat (2)\n   Cukup jelas.\n Ayat (3)\n Cukup jelas.\n Ayat (4)\nContoh penghitungan jangka waktu 3 (tiga) bulan dalam ketentuan\nini adalah sebagai berikut:\n\n\na. apabila . . .\n\n\n\na. apabila Wajib Pajak menerima  surat ketetapan pajak, Surat\nKeputusan Keberatan, Surat Keputusan Pengurangan\nKetetapan Pajak, Surat Keputusan Pembatalan Ketetapan\nPajak, Surat Keputusan Pembetulan, Putusan Banding, atau\nPutusan Peninjauan Kembali pada tanggal 21 September 2010,\nmaka pembetulan terhadap Surat Pemberitahuan Tahunan\nharus dilakukan paling lama tanggal 20 Desember 2010.\nb. apabila Wajib Pajak menerima  surat ketetapan pajak, Surat\nKeputusan Keberatan, Surat Keputusan Pengurangan\nKetetapan Pajak, Surat Keputusan Pembatalan Ketetapan\nPajak, Surat Keputusan Pembetulan, Putusan Banding, atau\nPutusan Peninjauan Kembali pada tanggal 30 November 2010,\nmaka pembetulan terhadap Surat Pemberitahuan Tahunan\nharus dilakukan paling lama tanggal 28 Februari 2011.\n Ayat (5)\nDalam hal Wajib Pajak tidak membetulkan Surat Pemberitahuan\nTahunan meskipun telah menerima surat ketetapan pajak, Surat\nKeputusan Keberatan, Surat Keputusan Pengurangan Ketetapan\nPajak, Surat Keputusan Pembatalan Ketetapan Pajak,  Surat\nKeputusan Pembetulan, Putusan Banding, atau Putusan\nPeninjauan Kembali atas Tahun Pajak sebelumnya atau beberapa\nTahun Pajak sebelumnya, yang menyatakan rugi fiskal yang\nberbeda dengan rugi fiskal yang telah dikompensasikan dalam\nSurat Pemberitahuan  Tahunan, Direktur Jenderal Pajak\nmemperhitungkan rugi fiskal menurut surat ketetapan pajak,\nSurat Keputusan Keberatan, Surat Keputusan Pengurangan\nKetetapan Pajak, Surat Keputusan Pembatalan Ketetapan Pajak,\nSurat Keputusan Pembetulan, Putusan Banding, at au Putusan\nPeninjauan Kembali pada saat menerbitan surat ketetapan pajak,\nSurat Keputusan Keberatan, dan Surat Keputusan Pembetulan\napabila Direktur Jenderal Pajak sedang melakukan Pemeriksaan,\nPemeriksaan ulang, atau Verifikasi dalam rangka penerbitan sur at\nketetapan pajak, sedang mem proses penyelesaian keberatan,\nsedang mem proses penyelesaian pengurangan atau pembatalan\nketetapan pajak, sedang mem proses penerbitan Surat Keputusan\nPembetulan.\nDalam hal Wajib Pajak sedang mengajukan banding atau Wajib\nPajak/Direktur Jenderal Pajak sedang mengajukan Peninjauan\nKembali namun belum diterbitkan Putusan Banding atau Putusan\nPeninjauan Kembali maka Direktur Jenderal Pajak menyampaikan\nrugi fiskal tersebut ke badan peradilan pajak atau Mahkamah\nAgung agar diperhit ungkan dalam Putusan Banding atau Putusan\nPeninjauan Kembali.\nUntuk . . .\n\n\n\nUntuk memperjelas ketentuan pada ayat ini diberikan contoh -\ncontoh sebagai berikut:\nContoh 1:\nPT Makmur telah menyampaikan Surat Pemberitahuan Tahunan\nPajak Penghasilan Tahun Pajak 2010 yang menyatakan:\nPenghasilan Neto Rp300.000.000,00\nKompensasi kerugian berdasarkan\nSurat Pemberitahuan Tahunan Pajak\nPenghasilan Tahun Pajak 2009\n\n\nRp200.000.000,00 (-)\nPenghasilan Kena Pajak Rp100.000.000,00\nTerhadap Surat Pemberitahuan Tahunan Pajak Penghasilan Tahun\nPajak 2009 dilakukan Pemeriksaan dan pada tanggal 12 Oktober\n2012 diterbitkan surat ketetapan pajak yang menyatakan rugi\nfiskal sebesar Rp250.000.000,00.\nApabila sampai dengan jangka waktu 3 (tiga) bulan, W ajib Pajak\ntidak membetulkan Surat Pemberitahuan Tahunan Pajak\nPenghasilan Tahun Pajak 2010, Direktur Jenderal Pajak pada saat\nmelakukan Pemeriksaan akan memperhitungkan rugi fiskal\ntersebut dalam surat ketetapan pajak Tahun Pajak 2010.\nDemikian juga, apa bila terhadap surat ketetapan pajak Tahun\nPajak 2010 sedang dalam proses penyelesaian keberatan, maka\nrugi fiskal Tahun Pajak 2009 langsung diperhitungkan dalam\nSurat Keputusan Keberatan. Ketentuan ini juga berlaku dalam hal\nsurat ketetapan pajak dalam pro ses penyelesaian pembetulan,\npengurangan atau pembatalan surat ketetapan pajak.\nApabila atas Surat Keputusan Keberatan untuk Tahun Pajak 2010\nsedang dalam proses banding di badan peradilan pajak, maka rugi\nfiskal Tahun Pajak 2009  disampaikan ke  badan perad ilan pajak\nuntuk diperhitungkan dalam Putusan Banding.\nContoh 2:\nPT Jaya telah menyampaikan Surat Pemberitahuan Tahunan Pajak\nPenghasilan Tahun Pajak 2010 yang menyatakan:\n\n\n\nPenghasilan . . .\n\n\n\nPenghasilan Neto Rp300.000.000,00\nKompensasi kerugian berdasarkan\nSurat Pember itahuan Tahunan Pajak\nPenghasilan Tahun Pajak 2009\n\n\nRp200.000.000,00 (-)\nPenghasilan Kena Pajak Rp100.000.000,00\nTerhadap Surat Pemberitahuan Tahunan Pajak Penghasilan Tahun\nPajak 2010 telah dilakukan Pemeriksaan dan telah diterbitkan\nsurat ketetapan pajak. Atas surat ketetapan pajak tersebut telah\ndiajukan upaya hukum dan telah diterbitkan putusan oleh\npengadilan yang telah mempunyai kekuatan hukum tetap, dengan\nkompensasi kerugian dari Tahun Pajak 2009 tetap sebe sar\nRp200.000.000,00 karena sampai dengan Putusan Banding atau\nPutusan Peninjauan Kembali terbit, atas Tahun Pajak 2009 belum\nterbit surat ketetapan pajak.\nSetelah ada Putusan Banding atau Putusan Peninjauan Kembali\nterkait dengan Tahun Pajak 2010 tersebut , diterbitkan surat\nketetapan pajak yang menyatakan bahwa rugi fiskal Tahun Pajak\n2009 dari sebesar Rp200.000.000,00 menjadi sebesar\nRp230.000.000,00.\nPerlakuan terhadap rugi fiskal berdasarkan surat ketetapan pajak\nTahun Pajak 2009 yang belum dikompensasi kan sebesar\nRp30.000.000,00 (Rp230.000.000,00 -Rp200.000.000,00) dapat\ndikompensasikan pada Tahun Pajak 2011 mengingat berdasarkan\nPasal 6 ayat (2) Undang -Undang Pajak Penghasilan 1984 dan\nperubahannya rugi fiskal dapat dikompensasikan selama 5 (lima)\ntahun.\n Ayat (6)\n Cukup jelas.\n Ayat (7)\n Cukup jelas.\n\n\nPasal 7 . . .\n\n\n\nPasal 7\n Ayat (1)\nPrinsip dari sistem self assessment  dalam pemungutan pajak\nadalah memberikan kesempatan kepada Wajib Pajak untuk secara\nsukarela menghitung, membayar dan melaporkan pajak terutang\nberdasarkan peraturan perundang -undangan perpajakan sesuai\ndengan keadaan yang sebenarnya. Dengan demikian, meskipun\nterhadap Wajib Pajak sedang dilakukan tindakan penegakan\nhukum, Wajib Pajak tetap memiliki kesempatan untuk secara\nsukarela memenuhi kewajiban perpaja kannya dengan\nmengungkapkan sendiri ketidakbenaran perbuatannya.\nDalam hal Wajib Pajak melakukan perbuatan, yaitu:\na. tidak menyampaikan Surat Pemberitahuan; atau\nb. menyampaikan Surat Pemberitahuan yang isinya tidak benar\natau tidak lengkap, atau melampirkan ke terangan yang isinya\ntidak benar,\nyang dilakukan karena kealpaan atau dengan sengaja, Direktur\nJenderal Pajak akan melakukan Pemeriksaan Bukti Permulaan\nsebelum melakukan Penyidikan tindak pidana di bidang\nperpajakan.\nDalam rangka penerapan sistem self assessment secara konsisten,\nmeskipun Wajib Pajak telah melakukan perbuatan sebagaimana\ntersebut di atas dan terhadap Wajib Pajak sedang dilakukan\nPemeriksaan Bukti Permulaan, Wajib Pajak tetap memiliki\nkesempatan untuk mengungkapkan sendiri kesalahannya dan\nterhadap Wajib Pajak tidak akan dilakukan Penyidikan.\nUntuk memberikan kepastian hukum, yang dimaksud dengan\nmulai dilakukan Penyidikan sebagaimana diatur pada ayat ini\nadalah saat surat pemberitahuan dimulainya Penyidikan\ndiberitahukan kepada Penuntut Um um melalui penyidik pejabat\nPolisi Negara Republik Indonesia. Dengan demikian, dalam hal\npemberitahuan dimulainya Penyidikan telah dilakukan,\nkesempatan untuk mengungkapkan ketidakbenaran perbuatan\nsudah tertutup bagi Wajib Pajak.\n Ayat (2)\n   Cukup jelas.\n\n\nAyat (3) . . .\n\n\n\n Ayat (3)\nPengungkapan ketidakbenaran perbuatan Wajib Pajak yang diatur\npada ayat ini dapat dilakukan pada saat Wajib Pajak dilakukan\nPemeriksaan Bukti Permulaan. Untuk membuktikan bahwa\npengungkapan ketidakbenaran perbuatan Wajib Pajak tersebut\ntelah sesuai dengan keadaan yang sebenarnya, Direktur Jenderal\nPajak menyelesaikan Pemeriksaan Bukti Permulaan yang sedang\ndilakukan.\nYang dimaksud dengan “sesuai dengan keadaan yang sebenarnya”\nadalah pajak terutang yang tidak atau kurang dibayar atau yang\ntidak seharusnya dikembalikan menurut pengungkapan Wajib\nPajak jumlahnya sama atau lebih besar daripada temuan\nPemeriksaan Bukti Permulaan.\nApabila pengungkapan ketidakbenaran perbuatan Wajib Pajak\ntelah sesuai dengan keadaan yang sebenarnya, Pemeriksaan Bukt i\nPermulaan tidak ditindaklanjuti dengan Penyidikan tindak pidana\ndi bidang perpajakan dan kepada Wajib Pajak disampaikan\npemberitahuan secara tertulis mengenai tidak ditindaklanjutinya\nPemeriksaan Bukti Permulaan dengan Penyidikan tindak pidana di\nbidang perpajakan.\n Ayat (4)\n   Cukup jelas.\n Ayat (5)\n   Cukup jelas.\n\nPasal 8\n Ayat (1)\nPada prinsipnya Wajib Pajak memiliki hak untuk membetulkan\nSurat Pemberitahuan sebelum Direktur Jenderal Pajak melakukan\nPemeriksaan. Namun demikian, dalam hal Direktur Jenderal P ajak\ntelah melakukan Pemeriksaan, Wajib Pajak tetap diberi\nkesempatan untuk mengungkapkan dengan kesadaran sendiri\ntentang ketidakbenaran pengisian Surat Pemberitahuan sepanjang\nDirektur Jenderal Pajak belum menerbitkan surat ketetapan pajak.\n\n\n\nUntuk . . .\n\n\n\nUntuk m emberikan kepastian hukum dan menghindari\nkemungkinan tidak dipertimbangkannya pengungkapan\nketidakbenaran pengisian Surat Pemberitahuan oleh pemeriksa\npajak, maka pengungkapan tersebut harus dilakukan sebelum\npemeriksa pajak menyampaikan surat pemberitahu an hasil\nPemeriksaan. Hal ini disebabkan surat pemberitahuan hasil\nPemeriksaan harus mencerminkan seluruh temuan -temuan yang\ndihasilkan selama pelaksanaan Pemeriksaan.\nDengan demikian pengungkapan ketidakbenaran pengisian Surat\nPemberitahuan oleh Wajib Pa jak yang dilakukan setelah surat\npemberitahuan hasil Pemeriksaan akan menyebabkan\npengungkapan tersebut tidak tercermin dalam surat\npemberitahuan hasil Pemeriksaan. Disamping itu, pengungkapan\nketidakbenaran pengisian Surat Pemberitahuan yang disampaikan\nsetelah surat pemberitahuan hasil Pemeriksaan tidak\nmencerminkan pengungkapan ketidakbenaran pengisian Surat\nPemberitahuan yang dilandasi oleh kesadaran sendiri Wajib Pajak.\n Ayat (2)\nSurat Setoran Pajak atas pelunasan pajak yang kurang\ndibayar dan Surat Setoran Pajak atas pembayaran sanksi\nadministrasi harus dilampirkan apabila pengungkapan\nketidakbenaran pengisian Surat Pemberitahuan mengakibatkan\npajak yang kurang dibayar menjadi lebih besar. Apabila\npengungkapan ketidakbenaran pengisian Surat Pem beritahuan\ntidak mengakibatkan kekurangan pembayaran pajak maka\npengungkapan tersebut tidak perlu dilampiri dengan Surat Setoran\nPajak.\n Ayat (3)\nWajib Pajak yang sedang dilakukan Pemeriksaan mengungkapkan\nketidakbenaran pengisian Surat Pemberitahuan dalam  laporan\ntersendiri, pemeriksa pajak harus menyelesaikan pemeriksaannya\nuntuk membuktikan kebenaran laporan tersendiri tersebut.\n Ayat (4)\n   Cukup jelas.\n Ayat (5)\n   Cukup jelas.\n Ayat (6)\n   Cukup jelas.\n\n Ayat (7) . . .\n\n\n\n Ayat (7)\nSesuai dengan sistem self assessme nt, Pengusaha Kena Pajak\nwajib melaporkan seluruh kegiatan usahanya dalam Surat\nPemberitahuan Masa Pajak Pertambahan Nilai. Selain itu, kepada\nPengusaha Kena Pajak juga telah diberikan kesempatan untuk\nmelakukan pembetulan Surat Pemberitahuan Masa Pajak\nPertambahan Nilai sebagaimana dimaksud dalam Pasal 5 ayat (1).\nDalam pembetulan tersebut Wajib Pajak masih dapat melaporkan\ntambahan Pajak Masukan yang dapat dikreditkan dalam Surat\nPemberitahuan Masa Pajak Pertambahan Nilai.\nApabila Pengusaha Kena Pajak sed ang dilakukan Pemeriksaan,\nPengusaha Kena Pajak masih mempunyai kesempatan untuk\nmengungkapkan ketidakbenaran pengisian Surat Pemberitahuan\nMasa Pajak Pertambahan Nilai dalam laporan tersendiri.\nPengungkapan ketidakbenaran pengisian Surat Pemberitahuan\ntersebut bukan merupakan pembetulan Surat Pemberitahuan\nsebagaimana dimaksud dalam Pasal 5 ayat (1).\nOleh karena itu, Pengusaha Kena Pajak tidak dapat melaporkan\ntambahan Pajak Masukan dalam pengungkapan tersebut sehingga\nPajak Masukan atas perolehan Barang Kena Pajak atau Jasa Kena\nPajak yang tidak dilaporkan dalam Surat Pemberitahuan Masa\nPajak Pertambahan Nilai tidak dapat diperhitungkan sebagai kredit\npajak.\n Ayat (8)\n   Cukup jelas.\n\nPasal 9\n  Ayat (1)\n   Cukup jelas.\n  Ayat (2)\nDalam rangka meningkatkan pelayanan kepada Wajib Pajak terkait\ndengan adanya perkembangan teknologi informasi dan komunikasi\nmaka pembayaran dan penyetoran pajak dapat dilakukan oleh\nWajib Pajak dengan menggunakan sarana administrasi selain\nSurat Setoran Pajak. Sarana administrasi lain t ersebut misalnya\npembayaran secara elektronik, pembayaran melalui Anjungan\nTunai Mandiri, atau media lainnya. Berdasarkan pada ketentuan\nini maka sarana administrasi lain tersebut memiliki kedudukan\nyang sama dengan Surat Setoran Pajak.\n\n\nAyat (3) . . .\n\n\n\n  Ayat (3)\n Cukup jelas.\n\n\nPasal 10\n  Ayat (1)\n Cukup jelas.\n  Ayat (2)\nYang dimaksud dengan “hubungan istimewa” adalah hubungan\nistimewa sebagaimana dimaksud dalam Pasal 18 ayat (4) Undang -\nUndang tentang Pajak Penghasilan Tahun 1984 dan\nperubahannya.\n  Ayat (3)\n   Cukup jelas.\n\nPasal 11\n Cukup jelas.\n\nPasal 12\n Cukup jelas.\n\nPasal 13\n Ayat (1)\nPembahasan Akhir Hasil Pemeriksaan atau Pembahasan Akhir\nHasil Verifikasi dianggap telah dilaksanakan apabila  temuan\nPemeriksaan atau Verifikasi telah dibahas sesuai dengan\nketentuan yang mengatur mengenai tata  cara Pemeriksaan atau\ntata cara Verifikasi.\n Ayat (2)\nUntuk memberikan pedoman dalam membatalkan surat ketetapan\npajak dari hasil Pemeriksaan atau Verifik asi sebagaimana\ndimaksud pada ayat (1), perlu ditegaskan bahwa pembatalan\ntersebut tidak membatalkan  seluruh kegiatan Pemeriksaan atau\nVerifikasi yang pernah dilaksanakan. Oleh karena itu, agar surat\nketetapan pajak dari hasil Pemeriksaan atau Verifikasi merupakan\nsuatu produk hukum yang diterbitkan sesuai dengan ketentuan\nperaturan perundang -undangan pe rpajakan, maka Direktur\nJenderal Pajak melanjutkan Pemeriksaan atau Verifikasi yang\ntelah dibatalkan dengan melaksanakan prosedur Pemeriksaan\natau Verifikasi yang belum dilakukan berupa:\na. penyampaian . . .\n\n\n\na. penyampaian surat pemberitahuan hasil Pemeriksaan atau\nsurat pemberitahuan hasil Verifikasi; dan/atau\nb. Pembahasan Akhir Hasil Pemeriksaan atau Pembahasan Akhir\nHasil Verifikasi.\n Ayat (3)\n Cukup jelas.\n\nPasal 14\n  Cukup jelas.\n\nPasal 15\n  Ayat (1)\nSurat Ketetapan Pajak Kurang Bayar Tambahan diterbitkan\napabila sudah pernah diterbitkan s urat ketetapan pajak dengan\njenis pajak dan Masa Pajak, Bagian Tahun Pajak, atau Tahun\nPajak yang sama dengan Surat Ketetapan Pajak Kurang Bayar\nTambahan yang akan diterbitkan , kecuali surat ketetapan pajak\nyang telah diterbitkan sebelumnya merupakan Surat Ketetapan\nPajak Lebih Bayar dalam rangka pengembalian kelebihan\npembayaran pajak yang seharusnya tidak terutang  sebagaimana\ndimaksud dalam Pasal 17 ayat (2) Undang-Undang.\nPada prinsipnya untuk menerbitkan Surat Ketetapan Pajak Kurang\nBayar Tambahan per lu dilakukan Pemeriksaan. Jika surat\nketetapan pajak sebelumnya diterbitkan berdasarkan\nPemeriksaan, perlu dilakukan Pemeriksaan ulang sebelum\nmenerbitkan Surat Ketetapan Pajak Kurang Bayar Tambahan.\nDalam hal surat ketetapan pajak sebelumnya diterbitkan\nberdasarkan keterangan lain sebagaimana dimaksud dalam Pasal\n13 ayat (1) huruf a Undang -Undang, Surat Ketetapan Pajak\nKurang Bayar Tambahan harus diterbitkan berdasarkan\npemeriksaan. Namun demikian, Surat Ketetapan Pajak Kurang\nBayar Tambahan juga dapat d iterbitkan berdasarkan hasil\nVerifikasi, apabila Surat Ketetapan Pajak Kurang Bayar Tambahan\ntersebut diterbitkan karena adanya:\na. keterangan lain berupa hasil klarifikasi/konfirmasi faktur\npajak;\nb. keterangan tertulis dari Wajib Pajak atas kehendak sendiri\nsebagaimana dimaksud dalam Pasal 15 ayat (3) Undang -\nUndang; atau\n\n\nc. Putusan . . .\n\n\n\nc. Putusan Pengadilan yang telah memperoleh kekuatan hukum\ntetap terhadap Wajib Pajak yang dipidana karena melakukan\ntindak pidana di bidang perpajakan atau tindak pidana\nlainnya yang dapat m enimbulkan kerugian pada pendapatan\nNegara.\n  Ayat (2)\n Cukup jelas.\n  Ayat (3)\n   Cukup jelas.\n  Ayat (4)\n   Cukup jelas.\n  Ayat (5)\nDalam hal terhadap Wajib Pajak telah diterbitkan surat ketetapan\npajak, kemudian atas kehendak sendiri Wajib Pajak\nmenyampaikan keterangan tertulis mengenai data baru yang\nmengakibatkan penambahan jumlah pajak yang terutang, maka\nDirektur Jenderal Pajak menerbitkan Surat Ketetapan Pajak\nKurang Bayar Tambahan dengan jumlah pajak yang kurang\ndibayar sebesar keterangan tertulis dari Wajib Pajak.  Oleh karena\nitu, Direktur Jenderal Pajak tidak perlu melakukan Pemeriksaan\natau Pemeriksaan ulang dalam rangka menerbitkan Surat\nKetetapan Pajak Kurang Bayar Tambahan, tetapi cukup\nmelakukan Verifikasi.\n\nPasal 16\n  Cukup jelas.\n\nPasal 17\n  Cukup jelas.\n\nPasal 18\n  Cukup jelas.\n\n\nPasal 19\n  Cukup jelas.\n\nPasal 20\n  Cukup jelas.\n\nPasal 21 . . .\n\n\n\nPasal 21\n  Cukup jelas.\n\nPasal 22\n Ayat (1)\nYang dimaksud dengan “ketetapan dan/atau keputusan yang\nditerbitkan oleh Direktur Jenderal Pajak dalam melaksanakan\nperaturan perundang-undangan di bidang perpajakan” meliputi:\na. Surat Tagihan Pajak;\nb. surat ketetapan pajak;\nc. Surat Keputusan Pembetulan;\nd. Surat Keputusan Keberatan;\ne. Surat Keputusan Pengurangan Sanksi Administrasi;\nf. Surat Keputusan Penghapusan Sanksi Administrasi;\ng. Surat Keputusan Pengurangan Ketetapan Pajak;\nh. Surat Keputusan Pembatalan Ketetapan Pajak; dan\ni. Surat ketetapan atau keputusan lain yang berhubungan\ndengan pelaksanaan hak dan pemenuhan kewajiban\nperpajakan Wajib Pajak.\n Ayat (2)\n  Cukup jelas.\n\nPasal 23\n  Cukup jelas.\n\nPasal 24\n  Ayat (1)\nBerdasarkan sistem self assessment, kewajiban perpajakan Wajib\nPajak ditentukan oleh terpenuhinya persyaratan subjektif dan\nobjektif. Dengan demikian, surat ketetapan pajak dan/atau Surat\nTagihan Pajak untuk Masa Pajak, Bagian Tahun Pajak, atau\nTahun Pajak sebelum Wajib Pajak tersebut diter bitkan Nomor\nPokok Wajib Pajak atau dikukuhkan sebagai Pengusaha Kena\nPajak, dapat diterbitkan apabila diperoleh data dan/atau\ninformasi yang menunjukkan adanya kewajiban perpajakan yang\nbelum dipenuhi Wajib Pajak.\n\n\nContoh: . . .\n\n\nContoh:\nTerhadap Wajib Pajak orang pri badi diterbitkan Nomor Pokok\nWajib Pajak pada tanggal 6  Januari 2011. Sampai dengan tanggal\n31 Maret 2012 Wajib Pajak hanya menyampaikan Surat\nPemberitahuan Tahunan P ajak Penghasilan Tahun Pajak 2010.\nDalam tahun 2012, Direktur Jenderal Pajak memperoleh da ta\nyang menunjukkan bahwa Wajib Pajak dalam Tahun Pajak 2009\nmemperoleh penghasilan di atas Penghasilan Tidak Kena Pajak.\nBerdasarkan data tersebut Direktur Jenderal Pajak dapat\nmenerbitkan surat ketetapan pajak dan/atau Surat Tagihan\nPajak untuk Tahun Pajak 2009.\n  Ayat (2)\nPenerbitan surat ketetapan pajak dan/atau Surat Tagihan Pajak\ndapat juga dilakukan apabila setelah penghapusan Nomor Pokok\nWajib Pajak atau pencabutan Pengukuhan Pengusaha Kena Pajak\ndiperoleh data dan/atau informasi yang menunjukkan ad anya\nkewajiban perpajakan yang belum dipenuhi Wajib Pajak untuk\nMasa Pajak, Bagian Tahun Pajak, atau Tahun Pajak sebelum atau\nsetelah penghapusan Nomor Pokok Wajib Pajak atau pencabutan\nPengukuhan Pengusaha Kena Pajak.\nContoh:\nTerhadap Wajib Pajak orang pr ibadi diterbitkan Nomor Pokok\nWajib Pajak pada tanggal 6 Januari 2009. Pada tanggal 28\nDesember 2011, Nomor Pokok Wajib Pajak tersebut dihapus.\nDalam tahun 2013, Direktur Jenderal Pajak memperoleh data\nyang menunjukkan bahwa dalam Tahun Pajak 2008, Wajib P ajak\nmemperoleh penghasilan di atas Penghasilan Tidak Kena Pajak,\ndalam Tahun Pajak 2010, Wajib Pajak memperoleh penghasilan\nyang belum dilaporkan dalam Surat Pemberitahuan sebesar\nRp100.000.000,00 (seratus juta rupiah), dan dalam Tahun Pajak\n2012, Wajib P ajak memperoleh penghasilan di atas Penghasilan\nTidak Kena Pajak. Berdasarkan data tersebut Direktur Jenderal\nPajak menerbitkan surat ketetapan pajak dan/atau Surat\nTagihan Pajak untuk Tahun Pajak 2008, 2010, dan 2012.\n  Ayat (3)\n  Cukup jelas.\n  Ayat (4)\n  Cukup jelas.\nPasal 25\n  Cukup jelas.\n Pasal 26 . . .\n\n\n\nPasal 26\n  Cukup jelas.\nPasal 27\nAyat (1)\nPemberian pengembalian pendahuluan kelebihan pembayaran\npajak merupakan bentuk kemudahan yang diberikan kepada\nWajib Pajak untuk mendorong agar Wajib Pajak menjadi patuh\ndalam melaksanakan hak dan memenuhi kewajiban\nperpajakannya. Setelah Wajib Pajak ditetapkan sebagai Wajib\nPajak dengan kriteria tertentu yang sering dikenal sebagai “Wajib\nPajak Patuh” maka diharapkan Wajib Pajak tersebut selalu patuh\ndalam melaksanakan hak dan memenuhi kewajiba n\nperpajakannya.\nOleh karena itu, apabila Wajib Pajak yang telah ditetapkan\nsebagai Wajib Pajak dengan kriteria tertentu tersebut memenuhi\nketentuan sebagaimana dimaksud dalam Pasal 17C ayat (6)\nUndang-Undang maka penetapan  sebagai Wajib Pajak dengan\nkriteria tertentu dicabut dan terhadap Wajib Pajak tersebut tidak\nlagi diberikan pengembalian pendahuluan kelebihan pembayaran\npajak.\nSalah satu faktor yang dapat menyebabkan Direktur Jenderal\nPajak mencabut penetapan Wajib Pajak dengan kriteria tertentu\nadalah apabila terhadap Wajib Pajak dilakukan Penyidikan tindak\npidana di bidang perpajakan.\nPemeriksaan Bukti Permulaan merupakan proses yang tidak\nterpisahkan dari Penyidikan tindak pidana di bidang perpajakan.\nOleh karena itu, walaupun Penyidikan tindak pid ana di bidang\nperpajakan belum dilakukan, tetapi Direktur Jenderal Pajak telah\nmelakukan Pemeriksaan Bukti Permulaan maka untuk mencegah\nagar tidak terjadi pengembalian pendahuluan kelebihan\npembayaran pajak yang seharusnya tidak dikembalikan maka\nDirektur Jenderal Pajak mencabut penetapan Wajib Pajak dengan\nkriteria tertentu yang telah diterbitkan.\nDengan demikian, pengembalian pendahuluan kelebihan\npembayaran pajak masih dapat diberikan kepada Wajib Pajak\napabila Direktur Jenderal Pajak belum mulai melaku kan\ntindakan Pemeriksaan Bukti Permulaan secara terbuka, yaitu\npada saat surat pemberitahuan Pemeriksaan Bukti Permulaan\ndisampaikan kepada Wajib Pajak, wakil, kuasa, pegawai, atau\nanggota keluarga yang telah dewasa dari Wajib Pajak.\n\nAyat (2) . . .\n\n\n\n  Ayat (2)\n Cukup jelas.\n\nPasal 28\n Ayat (1)\nContoh Penghitungan jangka waktu 3 (tiga) bulan dalam\nketentuan ini adalah sebagai berikut:\nContoh 1:\nApabila surat ketetapan pajak  dikirim kepada Wajib Pajak pada\ntanggal 20 September 2012 maka Wajib Pajak dapat mengajukan\nkeberatan paling lama tanggal 19 Desember 2012.\nContoh 2:\nApabila surat ketetapan pajak dikirim kepada Wajib Pajak pada\ntanggal 30 November 2012, maka Wajib Pajak dapat mengajukan\nkeberatan paling lama tanggal 28 Februari 2013.\nContoh 3:\nApabila surat ketetapan pajak di kirim kepada Wajib Pajak pada\ntanggal 2 Januari 2013, maka Wajib Pajak dapat mengajukan\nkeberatan paling lama tanggal 1 April 2013.\nApabila terjadi suatu keadaan di luar kekuasaan Wajib Pajak\nmaka pengajuan keberatan dapat dilakukan setelah jangka waktu\n3 (tiga) bulan. Dalam hal demikian, Direktur Jenderal Pajak dapat\nmempertimbangkan pengajuan keberatan yang disampaikan oleh\nWajib Pajak.\n  Ayat (2)\n  Cukup jelas.\n  Ayat (3)\n  Cukup jelas.\n\nPasal 29\n Ayat (1)\n Cukup jelas.\n\n\nAyat (2) . . .\n\n\n\n  Ayat (2)\nPengenaan sanksi pidana mer upakan upaya terakhir untuk\nmeningkatkan kepatuhan Wajib Pajak. Namun, bagi Wajib Pajak\nyang melanggar pertama kali ketentuan sebagaimana dimaksud\ndalam Pasal 38 Undang -Undang tidak dikenai sanksi pidana,\ntetapi terhadap Wajib Pajak diterbitkan Surat Ketet apan Pajak\nKurang Bayar. Oleh karena itu, Wajib Pajak yang karena\nkealpaannya tidak menyampaikan Surat Pemberitahuan, atau\nmenyampaikan Surat Pemberitahuan tetapi isinya tidak benar\natau tidak lengkap atau melampirkan keterangan yang isinya\ntidak benar, se hingga dapat menimbulkan kerugian pada\npendapatan negara, tidak dikenai sanksi pidana apabila kealpaan\ntersebut pertama kali dilakukan Wajib Pajak. Dalam hal ini, Wajib\nPajak tersebut wajib melunasi kekurangan pembayaran jumlah\npajak yang terutang beserta sanksi administrasi berupa kenaikan\nsebesar 200% (dua ratus persen) dari jumlah pajak yang kurang\ndibayar.\n  Ayat (3)\nKetetapan pajak sebagaimana dimaksud dalam Pasal 13A\nUndang-Undang merupakan ketetapan yang diterbitkan karena\nkealpaan yang pertama kali dilakukan Wajib Pajak sebagaimana\ndimaksud dalam Pasal 38 Undang -Undang. Ketetapan pajak\ntersebut bukan merupakan ketetapan pajak hasil Pemeriksaan\nberdasarkan Pembahasan Akhir Hasil Pemeriksaan sebagaimana\ndimaksud ketetapan pajak dalam Pasal 13 Undang -Undang dan\nPasal 15 Undang -Undang. Terhadap ketetapan pajak tersebut\nWajib Pajak diwajibkan untuk melunasinya. Oleh karena itu,\nketetapan pajak sebagaimana dimaksud dalam Pasal 13A\nUndang-Undang tidak dapat diajukan keberatan sebagaimana\ndimaksud dalam Pasal  25 Undang -Undang ataupun diajukan\npengurangan atau penghapusan sanksi administrasi Pasal 36\nayat (1) huruf a Undang -Undang serta pengurangan atau\npembatalan surat ketetapan pajak yang tidak benar sebagaimana\ndimaksud dalam Pasal 36 ayat (1) huruf b Undang-Undang.\nPasal 30\n Ayat (1)\n Cukup jelas.\n\n\n\nAyat (2) . . .\n\n\n\n  Ayat (2)\n Huruf a\nYang dimaksud dengan “sanksi administrasi” meliputi\nsanksi yang terdapat dalam surat ketetapan pajak maupun\ndalam Surat Tagihan Pajak yang diterbitkan sebagai akibat\ndari penerbitan surat ketetapan pajak.\n Huruf b\n Cukup jelas.\n Huruf c\n Cukup jelas.\n  Ayat (3)\nDalam penyelesaian proses keberatan, Wajib Pajak memiliki hak\nuntuk hadir dan memberi keterangan atau memperoleh\npenjelasan mengenai keberatannya. Wajib Pajak dapat mencabut\npengajuan keberat an yang telah disampaikan, sebelum Direktur\nJenderal Pajak menyampaikan Surat Pemberitahuan Untuk\nHadir.\nSurat Pemberitahuan Untuk Hadir merupakan surat yang\ndisampaikan kepada Wajib Pajak yang berisi mengenai pemberian\nkesempatan kepada Wajib Pajak untuk menghadiri pertemuan\ndengan pegawai pajak dalam waktu yang telah ditetapkan guna\nmemberikan keterangan atau memperoleh penjelasan mengenai\nhasil penelitian keberatan.\n  Ayat (4)\nKetentuan pada ayat ini bertujuan untuk menjelaskan bahwa\nsanksi administrasi yang terdapat dalam Surat Ketetapan Pajak\nKurang Bayar dan Surat Ketetapan Pajak Kurang Bayar\nTambahan masih dapat diajukan pengurangan atau penghapusan\nsanksi administrasi sebagaimana dimaksud dalam Pasal 36\nayat (1) huruf a Undang -Undang apabila keberata n atas Surat\nKetetapan Pajak Kurang Bayar dan Surat Ketetapan Pajak Kurang\nBayar Tambahan dicabut oleh Wajib Pajak.\n  Ayat (5)\n   Cukup jelas.\n\n\nPasal 31 . . .\n\n\nPasal 31\n  Ayat (1)\nPengenaan sanksi administrasi berupa denda sebesar 50% (lima\npuluh persen) pada ayat ini dihitung dari jumlah pajak y ang\nmasih harus dibayar menurut  Surat Keputusan Keberatan\ndikurangi dengan pajak yang telah dibayar sebelum pengajuan\nkeberatan. Jumlah pajak yang telah dibayar sebelum pengajuan\nkeberatan meliputi baik pembayaran atas jumlah yang disetu jui\nmaupun yang tidak disetujui dalam Pembahasan Akhir Hasil\nPemeriksaan atau Pembahasan Akhir Hasil Verifikasi.\nUntuk memberikan penjelasan lebih lanjut diberikan contoh\nsebagai berikut:\n1. Pada tanggal 2 April 2012, diterbitkan Surat Ketetapan Pajak\nKurang Bayar dengan nilai Rp1.000.000.000,00. Jumlah\npajak yang disetujui dalam Pembahasan Akhir Hasil\nPemeriksaan sebesar Rp300.000.000,00.\n2. Pada tanggal 1 Mei 2012, jumlah pajak yang disetujui\nmaupun yang tidak disetujui dalam Pembahasan Akhir Hasil\nPemeriksaan telah dilunasi oleh Wajib Pajak.\n3. Pada tanggal 3 Mei 2012 , Wajib Pajak mengajukan\nkeberatan.\nJika Surat Keputusan Keberatan menolak pengajuan keberatan\nWajib Pajak maka untuk menghitung pengenaan sanksi\nadministrasi berupa denda sebesar 50% (lima puluh per sen)\nseluruh jumlah pajak yang telah dibayar sebelum pengajuan\nkeberatan (baik yang disetujui maupun tidak) harus dikurangkan\ndari jumlah pajak yang masih harus dibayar dalam Surat\nKeputusan Keberatan.\nDalam hal ini, dasar untuk menghitung sanksi administ rasi\nberupa denda sebesar 50% (lima puluh persen) adalah sebesar\nRp0,00 (nol rupiah), yaitu  sebesar Rp1.000.000.000,00 (jumlah\npajak dalam Surat Keputusan Keberatan) dikurangi dengan\nRp1.000.000.000,00 (jumlah yang telah dibayar sebelum\npengajuan keberatan).\n  Ayat (2)\nUntuk memberikan kepastian hukum tentang penambahan\njumlah pajak yang masih harus dibayar akibat keputusan\nkeberatan, dalam ayat ini dijelaskan bahwa penambahan jumlah\npajak yang masih harus dibayar juga dikenai sanksi administrasi\nberupa de nda sebesar 50% (lima puluh persen) seperti halnya\njumlah pajak yang tidak disetujui dalam Pembahasan Akhir Hasil\nPemeriksaan atau  Pembahasan Akhir Hasil Verifikasi.\nAyat (3) . . .\n\n\n\n  Ayat (3)\n  Cukup jelas.\n  Ayat (4)\nPada prinsipnya jatuh tempo pembayaran pajak yang  masih\nharus dibayar dalam surat ketetapan pajak yang tidak disetujui\ndalam Pembahasan Akhir Hasil Pemeriksaan atau Pembahasan\nAkhir Hasil Verifikasi tertangguh sampai dengan 1 (satu) bulan\nsejak tanggal penerb itan Surat Keputusan Keberatan,  apabila\nWajib Pajak mengajukan keberatan atas surat ketetapan pajak\ntersebut. Namun demikian, apabila Wajib Pajak dianggap tidak\nmengajukan keberatan sebagai akibat pengajuan keberatannya\ntidak dipertimbangkan oleh Direktur Jenderal Pajak karena tidak\nmemenuhi persyarat an formal sebagaimana dimaksud dalam\nPasal 25 ayat (1), ayat (2), ayat (3), ayat (3a), dan Pasal 32\nUndang-Undang maka jumlah pajak yang masih harus dibayar\ndalam surat ketetapan pajak menjadi utang pajak.\nDalam hal demikian, maka apabila utang pajak terse but tidak\ndilunasi oleh Wajib Pajak maka Direktur Jenderal Pajak dapat\nmelakukan tindakan penagihan pajak dengan surat paksa dan\nWajib Pajak tidak dikenai sanksi administrasi berupa denda\nsebesar 50% (lima puluh persen) sebagaimana diatur dalam Pasal\n25 ayat (9) Undang -Undang, namun dikenai sanksi administrasi\nberupa bunga sebagaimana diatur dalam Pasal 19 ayat (1)\nUndang-Undang.\nPasal 32\n Ayat (1)\n Berdasarkan ketentuan Pasal 27 ayat (5d) Undang -Undang,\npengenaan sanksi administrasi berupa denda sebesar 100%\n(seratus persen)  dilakukan dalam hal terdapat putusan banding\nyang menolak atau mengabulkan sebagian permohonan banding.\nPengenaaan sanksi administrasi tersebut juga dilakukan dalam\nhal putusan banding berupa menambah pajak yang harus\ndibayar atau membetulkan k esalahan tulis dan/atau kesalahan\nhitung yang menambah pajak yang masih harus dibayar.\n\nUntuk . . .\n\n\n\n Untuk memperjelas ketentuan ini diberikan contoh sebagai\nberikut:\n Contoh 1 (Putusan Banding menolak):\n Diterbitkan Surat Ketetapan Pajak Kurang Bayar untuk Tahun\nPajak 2008 dengan jumlah pajak yang masih harus dibayar\nsebesar Rp1.000.000.000,00. Dalam pembahasan akhir hasil\nPemeriksaan, Wajib Pajak hanya menyetujui pajak yang masih\nharus dibayar sebesar Rp200.000.000,00. Wajib Pajak telah\nmelunasi pajak yang disetuju i dalam Surat Ketetapan Pajak\nKurang Bayar tersebut sebesar Rp200.000.000,00 dan kemudian\nmengajukan keberatan atas koreksi lainnya. Direktur Jenderal\nPajak menolak keberatan Wajib Pajak.\n Selanjutnya Wajib Pajak mengajukan permohonan banding dan\noleh Pen gadilan Pajak diputuskan dengan amar putusan\nmenolak banding Wajib Pajak. Dengan demikian, Wajib Pajak\ndikenai sanksi administrasi berupa denda sesuai dengan\nayat ini, yaitu seb esar 100% x (Rp1.000.000.000,00  -\nRp200.000.000.00)=Rp800.000.000,00.\n Contoh 2 (Putusan Banding mengabulkan sebagian):\n Diterbitkan Surat Ketetapan Pajak Kurang Bayar untuk Tahun\nPajak 2008 dengan jumlah pajak yang masih harus dibayar\nsebesar Rp1.000.000.000,00. Dalam pembahasan akhir hasil\nPemeriksaan, Wajib Pajak hanya m enyetujui pajak yang masih\nharus dibayar sebesar Rp200.000.000,00. Wajib Pajak telah\nmelunasi  pajak yang disetujui dalam Surat Ketetapan Pajak\nKurang Bayar tersebut sebesar Rp200.000.000,00 dan kemudian\nmengajukan keberatan atas koreksi lainnya. Direktur Jenderal\nPajak mengabulkan sebagian keberatan Wajib Pajak dengan\njumlah pajak yang masih harus dibayar menjadi sebesar\nRp750.000.000,00.\n Selanjutnya Wajib Pajak mengajukan permohonan banding dan\noleh Pengadilan Pajak diputuskan besarnya pajak yang masih\nharus dibayar menjadi sebesar Rp450.000.000,00. Dalam hal\ndemikian, Wajib Pajak dikenai sanksi administrasi berupa denda\nsesuai dengan ayat ini, yaitu sebesar 100% x (Rp450.000.000,00 -\nRp200.000.000.00) = Rp250.000.000,00. Mengingat Wajib Pajak\nsudah dik enai sanksi administrasi berupa denda sebesar 100%\n(seratus persen) maka sampai dengan diterbitkannya putusan\nbanding tersebut Wajib Pajak tidak dikenai sanksi administrasi\nberupa bunga sebesar 2% (dua persen) per bulan sebagaimana\ndiatur dalam Pasal 19 ay at (1) Undang -Undang maupun sanksi\nadministrasi berupa denda sebesar 50%  (lima puluh persen)\nsebagaimana diatur dalam Pasal 25 ayat (9) Undang-Undang.\nSisa . . .\n\n\n\n Sisa utang pajak sebesar Rp250.000.000,00 tersebut harus\ndilunasi Wajib Pajak (jatuh tempo) paling lamb at 1 (satu) bulan\nsejak tanggal penerbitan Putusan Banding. Apabila sampai\ndengan tanggal jatuh tempo sisa utang pajak tidak dilunasi maka\ndilakukan tindakan penagihan pajak dengan surat paksa dan\nberlaku ketentuan mengenai pengenaan sanksi administrasi\nberupa bunga sebesar 2% (dua persen) per bulan sebagaimana\ndiatur dalam Pasal 19 ayat (1) Undang-Undang.\n Contoh 3  (Putusan Banding menambah):\n Diterbitkan Surat Ketetapan Pajak Kurang Bayar untuk Tahun\nPajak 2008, dengan jumlah pajak yang masih harus diba yar\nsebesar Rp1.000.000.000,00. Dalam pembahasan akhir hasil\nPemeriksaan, Wajib Pajak hanya menyetujui pajak yang masih\nharus dibayar sebesar Rp200.000.000,00. Wajib Pajak telah\nmelunasi jumlah yang disetujui dalam Surat Ketetapan Pajak\nKurang Bayar terseb ut sebesar Rp200.000.000,00 dan kemudian\nmengajukan keberatan atas koreksi lainnya. Direktur Jenderal\nPajak menolak keberatan Wajib Pajak.\n Selanjutnya Wajib Pajak mengajukan permohonan banding dan\noleh Pengadilan Pajak diputuskan dengan amar putusan\nmenambah pajak yang harus dibayar menjadi sebesar\nRp1.300.000.000. Dengan demikian, Wajib Pajak dikenai\nsanksi administrasi berupa denda sesuai dengan ayat ini,\nyaitu sebesar 100% x (Rp1.300.000.000,00 - Rp200.000.000,00)\n= Rp1.100.000.000,00.\n Ayat (2)\n Cukup jelas.\n\nPasal 33\n  Cukup jelas.\n\n\n\n\nPasal 34 . . .\n\n\nPasal 34\n Ayat (1)\nDalam rangka memberikan kepastian hukum agar Direktur\nJenderal Pajak dapat membetulkan surat ketetapan atau surat\nkeputusan sehubungan dengan pelaksanaan Undang -Undang\nPajak Bumi dan Bangunan, pembetulan surat ketetapan pajak,\nSurat Tagihan Pajak, Surat Keputusan Pembetulan, Surat\nKeputusan Keberatan, Surat Keputusan Pengurangan Sanksi\nAdministrasi, Surat Keputusan Penghapusan Sanksi\nAdministrasi, Surat Keputusan Penguranga n Ketetapan Pajak,\nSurat Keputusan Pembatalan Ketetapan Pajak, Surat Keputusan\nPengembalian Pendahuluan Kelebihan Pajak, atau Surat\nKeputusan Pemberian Imbalan Bunga, yang dalam penerbitannya\nterdapat kesalahan tulis, kesalahan hitung, dan/atau kekeliruan\npenerapan ketentuan tertentu dalam peraturan perundang -\nundangan perpajakan sebagaimana dimaksud pada ayat ini\nmeliputi juga antara lain pembetulan terhadap:\na. Surat Pemberitahuan Pajak Terutang (SPPT);\nb. Surat Ketetapan Pajak Pajak Bumi dan Bangunan;\nc. Surat Tagihan Pajak Pajak Bumi dan Bangunan;\nd. Surat Keputusan Pemberian Pengurangan Pajak Bumi dan\nBangunan; atau\ne. Surat Keputusan Pengurangan Denda Administrasi Pajak\nBumi dan Bangunan.\nDalam hal Wajib Pajak mengajukan keberatan juga mengajukan\npembetulan atas sura t ketetapan pajak maka Surat Keputusan\nPembetulan diterbitkan secara terpisah dengan Surat Keputusan\nKeberatan.\n Ayat (2)\nPada prinsipnya kewenangan Direktur Jenderal Pajak untuk\nmembetulkan surat ketetapan pajak, Surat Tagihan Pajak, atau\nsurat keputusan yang berkaitan dengan perpajakan dimaksudkan\nuntuk menjalankan tugas pemerintahan yang baik sesuai dengan\nketentuan peraturan perundang-undangan. Dalam melaksanakan\ntugas menghitung dan menetapkan pajak, baik dalam\nmenerbitkan surat ketetapan pajak, Surat Tagihan Pajak, atau\nsurat keputusan yang berkaitan dengan perpajakan dapat terjadi\nadanya kesalahan atau kekeliruan yang bersifat manusiawi.\nSifat kesalahan atau kekeliruan tersebut tidak mengandung\npersengketaan antara Direktur Jenderal Pajak dengan Waji b\nPajak. Selain itu, kewajiban perpajakan berkesinambungan dan\nsaling mempengaruhi dari Masa Pajak ke Masa Pajak yang lain\natau dari Tahun Pajak ke Tahun Pajak yang lain.\nDengan . . .\n\n\n\nDengan demikian, dapat terjadi suatu kesalahan yang\nditimbulkan karena penerbitan s uatu surat ketetapan pajak ,\nsurat keputusan , atau putusan yang terkait dengan bidang\nperpajakan atas Masa Pajak atau Tahun Pajak  yang\nmempengaruhi Masa Pajak atau Tahun Pajak lain , misalnya\nterdapat koreksi biaya penyusutan, amortisasi, kompensasi\nkerugian, dan sebagainya.\nYang dimaksud dengan “surat keputusa n yang terkait dengan\nbidang perpajakan ” antara lain Surat Keputusan Keberatan dan\nPersetujuan Bersama. Sedangka n yang dimaksud dengan\n“putusan yang terkait dengan bidang perpajakan” meliputi\nPutusan Banding dan Putusan Peninjauan Kembali.\nContoh:\nPT A menyampaikan Surat Pemberitahuan Tahun Pajak 2008\ndengan rugi yang dikompensasikan ke tahun berikutnya sebesar\nRp200.000.000,00 dan lebih bayar sebesar Rp50.000.000,00.\nPT A menyampaikan Surat Pemberitahu an Tahun Pajak 2009\ndengan penghasilan neto sebesar  Rp180.000.000,00. Sisa\nkerugian yang belum dikompensasikan sampai dengan tahun\npajak 2008 sebesar Rp200.000.000,00 dan terdapat kredit pajak\nsebesar Rp35.000.000,00. Dengan demikian Surat Pemberitahuan\nTahun Pajak 2009 menyatakan lebih bayar sebesar\nRp35.000.000,00 dan masih terdapat sisa kerugian yang dapat\ndikompensasikan ke tahun berikutnya sebesar Rp20.000.000,00.\nTerhadap Wajib Pajak PT A telah diterbitkan surat ketetapan\npajak untuk Tahun Pajak 2008  dengan Surat Ketetapan Pajak\nLebih Bayar sebesar Rp15.000.000,00 dan dengan rugi  sebesar\nRp200.000.000,00, dan Tahun Pajak 2009 dengan Surat\nKetetapan Pajak Nihil dan dengan rugi sebesar Rp20.000.000,00.\nAtas surat ketetapan pajak Tahun Pajak 2008, PT A memperoleh\nPutusan Banding yang menyatakan bahwa permohonan banding\nWajib Pajak diterima sebagian, sehingga mengakibatkan rugi\nyang dapat dikompensasi menjadi lebih kecil dibanding\ndengan Surat Ketetapan Pajak Lebih Bayar yang pernah\nditerbitkan, yaitu sebesar Rp150.000.000,00 dan lebih bayar\nmenjadi sebesar Rp40.000.000,00. Kerugian yang dapat\ndikompensasikan dalam penghitungan surat ketetapan pajak\nuntuk Tahun Pajak 2009 menjadi semakin kecil yakni dari\nsebesar Rp200.000.000,00 menjadi sebesar Rp150.000.000,00.\n\n Oleh . . .\n\n\n\nOleh karena itu, berdasarkan Pasal 16 Undang -Undang, Direktur\nJenderal Pajak berwenang membetulkan surat ketetapan pajak\nuntuk Tahun Pajak 2009 yang diakibatkan karena perbedaan\nkompensasi kerugian berdasarkan ketentuan peraturan\nperundang-undangan perpajakan dari rugi sebesar\nRp20.000.000,00 menjadi laba sebesar Rp30.000.000,00 (Rugi\nsebesar Rp20.000.000,00 dikurangi dengan pengurangan\nkompensasi ker ugian sebesar Rp50.000.000,00).  Dengan\ndemikian, Surat Ketetapan Pajak Nihil Tahun 2009 yan g pernah\nditerbitkan oleh Direktur Jenderal Pajak harus dibetulkan secara\njabatan menjadi Surat Ketetapan Pajak Kurang Bayar.\n  Ayat (3)\nKekeliruan pengkreditan Pajak Masukan Pajak Pertambahan Nilai\nyang dimaksud pada ayat ini merupakan kekeliruan yang sifatnya\nmanusiawi dan tidak mengandung sengketa antara fiskus dan\nWajib Pajak.\nDalam ketentuan ini, dapat diberikan contoh sebagai berikut:\nTelah diterbitkan Surat Ketetapan Pajak Kurang Bayar Pajak\nPertambahan Nilai atas nama PT A untuk Masa Pajak Februari\n2012, dengan rincian sebagai berikut:\nPajak Keluaran sebesar Rp100.000.000,00\nPajak Masukan sebesar Rp75.000.000,00\nDari Pajak Masukan tersebut terdapat 1  (satu) Faktur Pajak\nsebesar Rp7.500.000,00 yang telah terjadi kekeliruan dalam\npenghitungan Pajak Ma sukan pada saat Pemeriksaan menjadi\nsebesar Rp5.700.000,00. Terhadap kekeliruan yang demikian,\nDirektur Jenderal Pajak secara jabatan dapat membetulkan Surat\nKetetapan Pajak Kurang Bayar tersebut.\nNamun demikian, dalam hal kekeliruan yang terjadi berupa ti dak\ndiperhitungkannya suatu Faktur Pajak sebagai Pajak Masukan\npada surat ketetapan pajak, maka pembetulan atas kekeliruan\nberdasarkan Pasal 16 Undang-Undang tidak dapat dilakukan.\n  Ayat (4)\n  Cukup jelas.\n  Ayat (5)\n  Cukup jelas.\n\n\n\nPasal 35 . . .\n\n\n\nPasal 35\n Ayat (1)\nDalam r angka memberi keadilan dalam penerapan ketentuan\nperaturan perundang -undangan di bidang perpajakan, Direktur\nJenderal Pajak diberi wewenang untuk:\na. mengurangkan atau menghapuskan sanksi administrasi\nberupa bunga, denda, dan kenaikan yang ternyata dikenakan\nkarena adanya kekhilafan atau bukan karena kesalahan\nWajib Pajak.\nb. mengurangkan atau membatalkan surat ketetapan pajak dan\nSurat Tagihan Pajak yang tidak benar.\nc. membatalkan surat ketetapan pajak dari hasil Pemeriksaan\natau Verifikasi yang dilaksanakan tanpa  melakukan prosedur\nPemeriksaan atau Verifikasi berupa:\n1) penyampaian surat pemberitahuan hasil  Pemeriksaan\natau surat pemberitahuan hasil Verifikasi; atau\n2) Pembahasan Akhir  Hasil Pemeriksaan atau  Pembahasan\nAkhir Hasil Verifikasi dengan Wajib Pajak.\nSurat k etetapan pajak yang tidak benar sebagaimana dimaksud\npada huruf b meliputi suatu surat ketetapan pajak yang\nditerbitkan tidak sepenuhnya sesuai dengan ketentuan peraturan\nperundang-undangan di bidang perpajakan. Pengurangan atau\npembatalan surat ketetapan pajak yang tidak benar dapat juga\ndiberikan terhadap surat ketetapan pajak yang sudah diajukan\nkeberatan namun tidak dipertimbangkan karena tidak memenuhi\npersyaratan formal pengajuan keberatan sebagaimana dimaksud\ndalam Pasal 25 ayat (4) Undang-Undang.\nSurat Tagihan Pajak yang tidak benar sebagaimana dimaksud\npada huruf c meliputi suatu Surat Tagihan Pajak yang diterbitkan\ntidak sepenuhnya sesuai dengan ketentuan peraturan perundang-\nundangan di bidang perpajakan.\nPengurangan atau penghapusan sanksi administrasi sebagaimana\ndimaksud pada huruf  a ayat  ini berlaku juga untuk denda\nadministrasi Pajak Bumi dan Bangunan.\nPengurangan atau pembatalan surat ketetapan pajak dan Surat\nTagihan Pajak yang tidak benar sebagaimana dimaksud pada\nhuruf b dan huruf c ayat ini berlaku juga untuk Surat\nPemberitahuan Pajak Terutang, Surat Ketetapan Pajak Pajak\nBumi dan Bangunan , dan Surat Tagihan Pajak Pajak Bumi dan\nBangunan.\n\nAyat (2) . . .\n\n\n Ayat (2)\n  Cukup jelas.\n Ayat (3)\n  Cukup jelas.\n Ayat (4)\n  Cukup jelas.\n Ayat (5)\n  Cukup jelas.\n\nPasal 36\n Ayat (1)\n  Cukup jelas.\n Ayat (2)\n  Cukup jelas.\n Ayat (3)\n  Cukup jelas.\n Ayat (4)\nDalam hal terdapat Surat Tagihan Pajak yang terkait dengan\nsurat ketetapan pajak, misalnya Surat Ketetapan Pajak Kurang\nBayar dan terhadap Surat Ketetapan Pajak Kurang Bayar tersebut\ndiajukan keberatan maka apabila Surat Keputusan Keberatan\nberdampak pada jumlah pajak yang masih harus dibayar dalam\nSurat Ketetapan Pajak Kurang Bayar sehingga berdampak juga\npada jumlah sanksi administrasi dalam Surat Tagihan Pajak,\nDirektur Jenderal Pajak secara jabatan mengurangkan atau\nmembatalkan Surat Tagihan Pajak tersebut sesuai dengan\nketentuan Pasal 36 ayat (1) huruf a atau huruf c Undang-Undang.\nDemikian juga dalam hal terdapat Putusan Banding atau Putusan\nPeninjauan Kembali ber dampak pada jumlah pajak yang masih\nharus dibayar dalam Surat Ketetapan Pajak Kurang Bayar dan\njumlah sanksi administrasi pada Surat Tagihan Pajak.\n\nPasal 37\n Cukup jelas.\n\nPasal 38\n Cukup jelas.\n\n Pasal 39 . . .\n\n\nPasal 39\n Cukup jelas.\n\nPasal 40\n Cukup jelas.\n\nPasal 41\n Cukup jelas.\n\nPasal 42\n Ayat (1)\nDalam rangka m elaksanakan Putusan Banding dari Pengadilan\nPajak, Direktur Jenderal Pajak menerbitkan surat pelaksanaan\nPutusan Banding, yaitu keputusan Direktur Jenderal Pajak yang\nditerbitkan berdasarkan Putusan Banding dari Pengadilan Pajak\ndan digunakan sebagai dasar  untuk melaksanakan Putusan\nBanding dari Pengadilan Pajak agar Putusan Banding tersebut\ndapat dicatat ke dalam sistem administrasi perpajakan.\n Ayat (2)\nDalam rangka melaksanakan Putusan Peninjauan Kembali dari\nMahkamah Agung, Direktur Jenderal Pajak mener bitkan surat\npelaksanaan Putusan Peninjauan Kembali, yaitu keputusan\nDirektur Jenderal Pajak yang diterbitkan berdasarkan Putusan\nPeninjauan Kembali dari Mahkamah Agung dan digunakan\nsebagai dasar untuk melaksanakan Putusan Peninjauan Kembali\ndari Mahkamah Agung agar Putusan Peninjauan Kembali tersebut\ndapat dicatat ke dalam sistem administrasi perpajakan.\n Ayat (3)\n Cukup jelas.\n\nPasal 43\n  Ayat (1)\n  Cukup jelas.\n  Ayat (2)\n  Cukup jelas.\n  Ayat (3)\n  Cukup jelas.\n\n\nAyat (4) . . .\n\n\n\n  Ayat (4)\n  Cukup jelas.\n  Ayat (5)\nKetentuan ini dimaksudkan untuk mencegah adanya\nkemungkinan Wajib Pajak memperoleh imbalan bunga yang\nseharusnya tidak diterima sehubungan dengan pengajuan\nkeberatan, permohonan banding, atau permohonan peninjauan\nkembali.\nOleh karena itu, terhadap sebagian jumlah  pajak yang tercantum\ndalam surat ketetapan pajak yang tidak disepakati dalam\nPembahasan Akhir Hasil Pemeriksaan atau Verifikasi dan dibayar\noleh Wajib Pajak sebelum mengajukan keberatan, namun dalam\nsurat keputusan keberatan, pengajuan keberatan tersebut\ndikabulkan sebagian atau seluruhnya sehingga mengakibatkan\nkelebihan pembayaran pajak, terhadap kelebihan pembayaran\npajak tersebut tidak diberikan imbalan bunga. Demikian pula,\ndalam hal kelebihan pembayaran pajak tersebut diakibatkan\nadanya Putusan Bandi ng atau Putusan Peninjauan Kembali,\nkelebihan pembayaran tersebut tidak diberikan imbalan bunga.\nContoh 1:\nUntuk Tahun Pajak 2008, terhadap PT A diterbitkan Surat\nKetetapan Pajak Kurang Bayar dengan jumlah pajak yang masih\nharus dibayar sebesar Rp1.000.000 .000,00. Dalam Pembahasan\nAkhir Hasil Pemeriksaan, Wajib Pajak hanya menyetujui pajak\nyang masih harus dibayar sebesar Rp200.000.000,00, akan tetapi\nWajib Pajak telah melunasi seluruh Surat Ketetapan Pajak\nKurang Bayar tersebut sebesar Rp1.000.000.000,00 d an\nkemudian mengajukan keberatan atas koreksi yang tidak\ndisetujui. Direktur Jenderal Pajak menerbitkan Surat Keputusan\nKeberatan dengan jumlah pajak yang masih harus dibayar\nmenjadi sebesar Rp600.000.000,00. Dalam hal ini, Wajib Pajak\nmemperoleh kelebihan  pembayaran pajak sebesar\nRp400.000.000,00 (Rp1.000.000.000,00 – Rp600.000.000,00).\nBerdasarkan ketentuan pada ayat ini, atas kelebihan pembayaran\npajak Rp400.000.000,00 tidak diberikan imbalan bunga.\nApabila Wajib Pajak mengajukan permohonan banding ke\nPengadilan Pajak dan Putusan Banding mengabulkan  sebagian\npermohonan Wajib Pajak sehingga jumlah pajak yang masih\nharus dibayar dalam Putusan Banding menjadi sebesar\nRp150.000.000,00 maka kelebihan pembayaran pajak akibat\nPutusan Banding ini tidak diberikan imbalan bunga.\n\nDemikian . . .\n\n\n\nDemikian halnya  bagi Wajib Pajak yang menyetujui seluruh\ntemuan Pemeriksaan dalam Pembahasan Akhir Hasil\nPemeriksaan yang mengakibatkan diterbitkannya Surat\nKetetapan Pajak Kurang Bayar atau Surat Ketetapan Pajak\nKurang Bayar Tambahan d an Wajib Pajak telah melunasi pajak\nyang masih harus dibayar tetapi mengajukan keberatan, dan\ndalam hal keberatan dikabulkan sebagian atau seluruhnya\nsehingga mengakibatkan kelebihan pembayaran pajak, terhadap\nkelebihan pembayaran pajak tersebut tidak dibe rikan imbalan\nbunga. Demikian pula, dalam hal kelebihan pembayaran pajak\ntersebut diakibatkan adanya Putusan Banding atau Putusan\nPeninjauan Kembali, kelebihan pembayaran tersebut tidak\ndiberikan imbalan bunga.\nContoh 2:\nUntuk Tahun Pajak 2008, terhadap PT  A diterbitkan Surat\nKetetapan Pajak Kurang Bayar dengan jumlah pajak yang masih\nharus dibayar sebesar Rp1.000.000.000,00. Dalam Pembahasan\nAkhir Hasil Pemeriksaan, Wajib Pajak menyetujui pajak yang\nmasih harus dibayar sebesar Rp1.000.000.000,00, dan telah\nmelunasi seluruh Surat Ketetapan Pajak Kurang Bayar tersebut\nsebesar Rp1.000.000.000,00. Namun Wajib Pajak kemudian\nmengajukan keberatan atas surat ketetapan pajak tersebut. Atas\nkeberatan Wajib Pajak, Direktur Jenderal Pajak menerbitkan\nSurat Keputusan K eberatan dengan menolak permohonan Wajib\nPajak sehingga jumlah pajak yang masih harus dibayar tetap\nsebesar Rp1.000.000.000,00. Wajib Pajak kemudian mengajukan\nbanding atas Keputusan Keberatan tersebut. Atas banding Wajib\nPajak, Pengadilan Pajak mengabulka n sebagian permohonan\nWajib Pajak sehingga jumlah pajak yang masih harus dibayar\nmenjadi sebesar Rp700.000.000,00. Dalam hal ini, Wajib Pajak\nmemperoleh kelebihan pembayaran pajak sebesar\nRp300.000.000,00 (Rp1.000.000.000,00 – Rp700.000.000,00).\nBerdasarkan ketentuan pada ayat ini, atas kelebihan pembayaran\npajak sebesar Rp300.000.000,00 tidak diberikan imbalan bunga.\nContoh 3:\nDiterbitkan Surat Ketetapan Pajak Kurang Bayar dengan jumlah\npajak yang masih harus dibayar sebesar Rp1.000.000.000,00 atas\nSurat Pemberitahuan Tahun Pajak 2012 yang menyatakan lebih\nbayar sebesar Rp2.500.000.000,00. Dalam Pembahasan Akhir\nHasil Pemeriksaan, Wajib Pajak menyetujui pajak yang masih\nharus dibayar sebesar Rp250.000.000,00. Wajib Pajak melunasi\njumlah yang disetujui dala m Pembahasan Hasil Pemeriksaan\nsebelum mengajukan keberatan.\nAtas . . .\n\n\n\nAtas keberatan yang diajukan Wajib Pajak, Direktur Jenderal\nPajak menerbitkan Surat Keputusan Keberatan yang menolak\npermohonan Wajib Pajak. Terhadap Surat K eputusan Keberatan\ntersebut, Wajib Pajak mengajukan permohonan banding dan\nPutusan Banding menyatakan mengabulkan sebagian\npermohonan Wajib Pajak sehingga jumlah lebih bayar dalam\nPutusan Banding menjadi sebesar Rp1.250.000.000,00.\nJumlah kelebihan pembay aran pajak yang dikembalikan kepada\nWajib Pajak adalah sebesar Rp1.500.000.000,00, yaitu jumlah\nkelebihan pembayaran sebagaimana tercantum dalam Putusan\nBanding (Rp1.250.000.000,00) ditambah dengan Surat Ketetapan\nPajak Kurang Bayar yang telah dibayar (Rp2 50.000.000,00).\nDalam hal ini, Wajib Pajak tidak diberikan imbalan bunga karena\npada dasarnya Wajib Pajak telah menyetujui Surat Ketetapan\nPajak Kurang Bayar sebesar Rp250.000.000,00.\n  Ayat (6)\n   Cukup jelas.\n\nPasal 44\n  Ayat (1)\n Contoh penerapan ketentuan ayat ini:\nContoh 1:\nDiterbitkan Surat Ketetapan Pajak Kurang Bayar dengan jumlah\npajak yang masih harus dibayar sebesar Rp1.000.000.000,00  atas\nSurat Pemberitahuan Tahun Pajak 20 12 yang menyatakan lebih\nbayar sebesar Rp2.500.000.000,00. Dalam Pembahasan Akhir\nHasil Pemeriksaan, Wajib Pajak tidak menyetujui seluruh pajak\nyang masih harus dibayar  sehingga tidak ada pembayaran yang\ndilakukan oleh Wajib Pajak. Atas keberatan yang diajukan Wajib\nPajak, Direktur Jenderal Pajak menerbitkan Surat Keputusan\nKeberatan yang mengabulkan sebagian permohonan Wajib Pajak\nsehingga Surat Keputusan Keberatan menyatakan terdapat jumlah\nlebih bayar sebesar Rp1.500.000.000,00.\nJumlah kelebihan pembayaran pajak yang dikembalikan kepada\nWajib Pajak adalah sebesar Rp1.500.000.000,00,  yaitu jumlah\nkelebihan pembayaran sebagaimana tercantum dalam Surat\nKeputusan Keberatan. Dalam hal ini, Wajib Pajak diberikan\nimbalan bunga sebesar 2% (dua persen) per bulan yang dihitung\ndari jumlah kelebihan yang tercantum dalam Surat Keputusan\nKeberatan sebesar Rp1.500.000.000,00.\n\nContoh 2: . . .\n\n\nContoh 2:\nDiterbitkan Surat Ketetapan Pajak Kurang Bayar dengan jumlah\npajak yang masih harus dibayar sebesar Rp1.000.000.000,00  atas\nSurat Pemberitahuan Tahun Pajak 20 12 yang menyatakan lebih\nbayar sebesar Rp2.500.000.000,00 . Dalam Pembahasan Akhir\nHasil Pemeriksaan, Wajib Pajak tidak menyetujui seluruh pajak\nyang masih harus dibayar  namun Wajib Pajak melunasi Surat\nKetetapan Pajak Kurang Bayar  tersebut sebelum mengajukan\nkeberatan. Atas keberatan yang diajukan Wajib Pajak, D irektur\nJenderal Pajak menerbitkan Surat Keputusan Keberatan dengan\nmengabulkan sebagian keberatan Wajib Pajak sehingga jumlah\nlebih bayar dalam Surat Keputusan Keberatan menjadi sebesar\nRp1.250.000.000,00.\nJumlah kelebihan pembayaran pajak yang dikembali kan kepada\nWajib Pajak adalah sebesar Rp 2.250.000.000,00, yaitu jumlah\nkelebihan pembayaran sebagaimana tercantum dalam Surat\nKeputusan Keberatan (Rp 1.250.000.000,00) ditambah dengan\nSurat Ketetapan Pajak Kurang Bayar  yang telah dibayar\n(Rp1.000.000.000,00). Dalam hal ini, Wajib Pajak diberikan\nimbalan bunga sebesar 2% (dua persen) per bulan yang dihitung\ndari jumlah kelebihan pembayaran yang tercantum dalam Surat\nKeputusan Keberatan, yaitu sebesar Rp1.250.000.000,00.\nContoh 3:\nDiterbitkan Surat Ketetapan P ajak Kurang Bayar dengan jumlah\npajak yang masih harus dibayar sebesar Rp1.000.000.000,00 atas\nSurat Pemberitahuan Tahun Pajak 2012 yang menyatakan lebih\nbayar sebesar Rp2.500.000.000,00. Dalam Pembahasan Akhir\nHasil Pemeriksaan, Wajib Pajak menyetujui paj ak yang lebih bayar\nsebesar Rp2.250.000.000,00. Atas keberatan yang diajukan Wajib\nPajak, Direktur Jenderal Pajak menerbitkan Surat Keputusan\nKeberatan yang menolak keberatan Wajib Pajak. Terhadap Surat\nKeputusan Keberatan tersebut, Wajib Pajak mengajukan\npermohonan banding dan Putusan Banding menyatakan\nmengabulkan sebagian permohonan Wajib Pajak sehingga jumlah\nlebih bayar dalam Putusan Banding menjadi sebesar\nRp1.500.000.000,00.\nJumlah kelebihan pembayaran pajak yang dikembalikan kepada\nWajib Pajak ada lah sebesar Rp1.500.000.000,00, sesuai dengan\njumlah kelebihan pembayaran sebagaimana tercantum dalam\nPutusan Banding. Dalam hal ini, Wajib Pajak diberikan imbalan\nbunga sebesar 2% (dua persen) per bulan yang dihitung dari\njumlah kelebihan pembayaran yang tercantum dalam   Putusan\nBanding, yaitu sebesar Rp1.500.000.000,00.\n\nAyat (2) . . .\n\n\n  Ayat (2)\nDiterbitkan Surat Ketetapan Pajak Nihil atas Surat Pemberitahuan\nTahun Pajak 2012 yang menyatakan lebih bayar sebesar\nRp2.500.000.000,00. Dalam Pembahasan Akhir Hasil\nPemeriksaan, Wajib Pajak tidak menyetujui seluruhnya. Atas\nkeberatan yang diajukan Wajib Pajak, Direktur Jenderal Pajak\nmenerbitkan Surat Keputusan Keberatan yang menolak\npermohonan Wajib Pajak. Terhadap Surat Keputusan Keberatan\ntersebut, Wajib Pajak mengajukan  permohonan banding dan\nPutusan Banding menyatakan mengabulkan sebagian permohonan\nWajib Pajak sehingga jumlah lebih bayar dalam Putusan Banding\nmenjadi sebesar Rp1.250.000.000,00.\nJumlah kelebihan pembayaran pajak yang dikembalikan kepada\nWajib Pajak ada lah sebesar Rp1.250.000.000,00, yaitu jumlah\nkelebihan pembayaran sebagaimana tercantum dalam Putusan\nBanding. Dalam hal ini, Wajib Pajak diberikan imbalan bunga\nsebesar 2% (dua persen) per bulan untuk paling lama 24 (dua\npuluh empat) bulan yang dihitung d ari jumlah kelebihan\npembayaran pajak dalam Putusan Banding.\n  Ayat (3)\nYang dimaksud dengan “tanggal diterbitkannya Putusan Banding”\nadalah tanggal Putusan Banding tersebut diucapkan oleh hakim\nPengadilan Pajak dalam sidang terbuka untuk umum.\nSedangkan yang dimaksud dengan “tanggal diterbitkannya\nPutusan  Peninjauan Kembali” adalah tanggal Putusan Peninjauan\nKembali tersebut diucapkan oleh hakim agung.\nDalam rangka menghitung jangka waktu pemberian imbalan\nbunga dapat diberikan contoh sebagai berikut:\nContoh 1:\nSurat Ketetapan Pajak Kurang Bayar untuk Tahun Pajak 2010\nditerbitkan tanggal 5 April 2012 dan diajukan keberatan pada\ntanggal 8 Juni 2012. Jika Surat Keputusan Keberatan yang\nmengabulkan permohonan Wajib Pajak diterbitkan pada tanggal\n10 Mei 2013 maka perhitungan jangka waktu sebagai dasar\npemberian imbalan bunga sesuai dengan ketentuan pada ayat ini\nadalah mulai dari tanggal 5 April 2012 s.d 10 Mei 2013, yaitu\nselama 14 (empat belas) bulan [13 (tiga belas) bulan penuh, yaitu\ntanggal 5 April 2012 s .d 4 Mei 2013 ditambah bagian dari bulan\nyang dihitung penuh 1 (satu) bulan yaitu tanggal 5 Mei 2013 s.d\n10 Mei 2013].\n\n\nContoh 2: . . .\n\n\n\nContoh 2:\nSurat Ketetapan Pajak Kurang Bayar untuk Tahun Pajak 2010\nditerbitkan tanggal 5 April 2012 dan diajukan keberatan pada\ntanggal 10 Mei 2012. Surat Keputusan Keberatan yang menolak\npermohonan Wajib Pajak diterbitkan pada tanggal 5 Januari 2013.\nWajib Pajak mengajukan banding dan Putusan Banding yang\nmengabulkan seluruh permohonan Wajib Pajak diterbitkan pada\ntanggal 10 Maret 2014. Putusan Banding tersebut baru  diucapkan\noleh hakim Pengadilan Pajak dalam sidang terbuka untuk umum\npada tanggal 20 Maret 2014 dan baru diterima oleh Direktur\nJenderal Pajak pada tanggal 10 Mei 2014. Dalam hal ini,\nperhitungan jangka waktu sebagai dasa r pemberian imbalan\nbunga sesuai dengan ketentuan pada ayat ini adalah mulai dari\ntanggal 5 April 2012 s.d 20 Maret 2014, yaitu selama 24 (dua\npuluh empat) bulan [23 (dua puluh tiga) bulan penuh, yaitu\ntanggal 5 April 2012 s.d 4 Maret 2014) ditambah bagian  dari bulan\nyang dihitung penuh 1 (satu) bulan, yaitu tanggal 5 Maret 2014 s.d\n20 Maret 2014].\n\nPasal 45\nYang dimaksud dengan “tanggal diterbitkannya Putusan Banding”\nadalah tanggal diucapkannya Putusan Banding oleh hakim badan\nperadilan pajak dalam sidang terbuka untuk umum.\n\n\nPasal 46\nAyat (1)\nDalam pengertian jumlah pajak yang masih harus dibayar\nbertambah sebagaimana dimaksud pada ayat ini termasuk pajak\nyang seharusnya tidak dikembalikan kepada Wajib Pajak, atau\njumlah sanksi administrasi berupa bunga, denda, atau ken aikan\nbertambah.\nContoh 1:\nTerhadap Wajib Pajak diterbitkan suatu Surat Ketetapan Pajak\nKurang Bayar dengan nilai sebesar Rp80.000.000,00. Atas Surat\nKetetapan Pajak Kurang Bayar tersebut, bagian yang disetujui oleh\nWajib Pajak dalam Pembahasan Akhir Hasi l Pemeriksaan adalah\nsebesar Rp50.000.000,00. Wajib Pajak mengajukan keberatan\ndengan keputusan yang menyatakan bahwa Surat Ketetapan Pajak\nKurang Bayar menjadi  sebesar Rp70.000.000,00. Terhadap\nkeputusan keberatan Wajib Pajak mengajukan permohonan\nbanding. Putusan Banding menyatakan bahwa jumlah yang masih\nharus . . .\n\n\nharus dibayar dalam Surat Ketetapan Pajak Kurang Bayar menjadi\nsebesar Rp40.000.000,00. Berdasarkan Putusan Banding tersebut\nDirektur Jenderal Pajak menerbitkan Surat Perintah Membayar\nKelebihan Pajak sebesar Rp10.000.000,00, yakni pembayaran\nsebelum mengajukan keberatan dikurangi dengan jumlah yang\nmasih harus dibayar berdasarkan Putusan Banding. Terhadap\nPutusan Banding tersebut, Direktur Jenderal Pajak mengajukan\npermohonan peninjauan kembali ke Mahka mah Agung. Putusan\nPeninjauan Kembali menyatakan bahwa Wajib Pajak harus\nmembayar sejumlah sebagaimana dimaksud dalam Surat\nKeputusan Keberatan, yakni sebesar Rp70.000.00,00.\nBerdasarkan Putusan Peninjauan Kembali terhadap Wajib Pajak\nditagih berdasarkan j umlah pajak yang masi h harus dibayar\nsebesar Rp30.000.000,00 yang terdiri dari jumlah pajak yang\nmasih harus dibayar berdasarkan Putusan Peninjauan Kembali\ndikurangi dengan pajak yang telah dilunasi sebelum mengajukan\nkeberatan (Rp70.000.000,00 – Rp50.000.000,00 =\nRp20.000.000,00) dan ditambah dengan pajak yang seharusnya\ntidak dikembalikan berdasarkan Putusan Banding\n(Rp50.000.000,00 – Rp40.000.000,00 = Rp10.000.000,00).\n\nContoh 2:\nTerhadap Wajib Pajak yang menyampaikan Surat Pemberitahuan\nLebih Bayar seb esar Rp90.000.000,00. Atas Surat Pemberitahuan\ntersebut diterbitkan sebuah Surat Ketetapan Pajak Lebih Bayar\ndengan nilai sebesar Rp10.000.000,00. Atas Surat Ketetapan Pajak\nLebih Bayar tersebut, Wajib Pajak mengajukan keberatan dengan\nkeputusan yang menya takan bahwa Surat Ketetapan Pajak Lebih\nBayar tetap sebesar Rp10.000.000,00. Wajib Pajak mengajukan\npermohonan banding, dengan Putusan Banding menyatakan\nbahwa Surat Ketetapan Pajak Lebih Bayar menjadi sebesar\nRp80.000.000,00. Berdasarkan Putusan Banding, Direktur\nJenderal Pajak menerbitkan Surat Perintah Membayar Kelebihan\nPajak sebesar Rp70.000.000,00 . Dalam hal ini Direktur Jenderal\nPajak mengajukan permohonan peninjauan kembali ke Mahkamah\nAgung. Putusan Peninjauan kembali menyatakan bahwa terhadap\nWajib Pajak hanya dapat diberikan pengembalian lebih bayar\nsebesar Rp10.000.000,00. Berdasarkan Putusan Peninjauan\nKembali terhadap Wajib Pajak ditagih berdasarkan jumlah pajak\nyang seharusnya tidak dikembalikan sebesar Rp70.000.000,00.\n\n\n\n\nAyat (2) . . .\n\n\nAyat (2)\n  Cukup jelas.\n\nPasal 47\n Cukup jelas.\n\nPasal 48\n Ayat (1)\n Cukup jelas.\n Ayat (2)\n Cukup jelas.\n Ayat (3)\n Cukup jelas.\n Ayat (4)\n Cukup jelas.\n Ayat (5)\n Cukup jelas.\n Ayat (6)\n Cukup jelas.\n Ayat (7)\n Cukup jelas.\n Ayat (8)\n Cukup jelas.\n Ayat (9)\n Cukup jelas.\n Ayat (10)\n Dalam hal Surat Tagihan Pajak sebagaimana dimaksud dalam\nPasal 14 ayat (4) Undang -Undang dan Pasal 19 ayat (1)  Undang -\nUndang diterbitkan sebagai akibat diterbitkannya surat ketetapan\npajak yang pajak terutangnya tidak disetujui  dalam Pembahasan\nAkhir Hasil P emeriksaan atau  Pembahasan Akhir Hasil Verifikasi\nmaka sanksi administrasi dalam Surat Tagihan Pajak tersebut\ntetap merupakan utang pajak. Oleh karena itu, apabila terdapat\npengembalian kelebihan pembayaran pajak maka utang pajak\ndalam Surat Tagihan Pajak  tersebut dapat diperhitungkan sesuai\ndengan ketentuan dalam Pasal 11 ayat (1) dan ayat (1a) Undang -\nUndang.\n\nNamun . . .\n\n\n Namun demikian, mengingat surat ketetapan pajak yang terkait\ndengan Surat Tagihan Pajak tersebut masih dalam proses\npengajuan keberatan dan/atau permohonan banding  maka\ntindakan penagihan dengan surat paksa atas Surat Tagihan Pajak\ntersebut ditangguhkan sampai dengan surat ketetapan pajaknya\nmempunyai kekuatan hukum tetap.\n Apabila Surat Tagihan Pajak tersebut telah dilunasi atau telah\ndiperhitungkan dengan kelebihan pembayaran pajak dan terdapat\nSurat Keputusan Keberatan atau Putusan Banding yang\nmengabulkan permohonan Wajib Pajak, dalam hal terdapat\nkelebihan pembayaran pajak yang terkait dengan Surat Tagihan\nPajak tersebut maka kelebihan pembayaran tersebut dikembalikan\ndengan ditambah imbalan bunga sebagaimana diatur dalam Pasal\n27A Undang-Undang.\n  Ayat (11)\n   Cukup jelas.\n\nPasal 49\n   Ayat (1)\n   Cukup jelas.\n   Ayat (2)\n   Cukup jelas.\n   Ayat (3)\nKonsultan pajak sebagai seorang kuasa dianggap mengua sai\nketentuan peraturan perundang -undangan perpajakan apabila\ndapat menyerahkan fotokopi surat izin praktek konsultan pajak\nyang dilengkapi dengan Surat Pernyataan sebagai konsultan pajak.\nSedangkan seorang kuasa yang bukan konsultan pajak dianggap\nmenguasai ketentuan peraturan perundang -undangan perpajakan\napabila dapat menyerahkan fotokopi sertifikat brevet atau ijazah\npendidikan formal di bidang perpajakan yang diterbitkan oleh\nperguruan tinggi negeri atau swasta dengan status terakreditasi A,\nsekurang-kurangnya tingkat Diploma III.\nSeseorang yang tidak memenuhi persyaratan sebagaimana\ndimaksud ayat ini, dianggap bukan sebagai seorang kuasa dan\ntidak dapat melaksanakan hak dan/atau memenuhi kewajiban\nperpajakan Wajib Pajak yang memberikan kuasa.\n\n\n\n\nAyat (4) . . .\n\n\n   Ayat (4)\n   Cukup jelas.\n\nPasal 50\n   Cukup jelas.\n\nPasal 51\n   Cukup jelas.\n\nPasal 52\n   Cukup jelas.\n\nPasal 53\n   Ayat (1)\nYang dimaksud dengan “pejabat” meliputi petugas pajak dan\nmereka yang melakukan tugas di bidang perpajakan.\nYang dimaksud dengan “tenaga ahli” adalah para ahli, ant ara lain\nahli bahasa, akuntan, pengacara dan sebagainya yang ditunjuk\noleh Direktur Jenderal Pajak untuk membantu pelaksanaan\nketentuan peraturan perundang-undangan di bidang perpajakan.\n   Ayat (2)\nYang dimaksud dengan “pihak tertentu yang ditunjuk” adala h\npihak-pihak yang membutuhkan data perpajakan untuk\nkepentingan negara misalnya dalam rangka Penyidikan,\npenuntutan, atau dalam rangka mengadakan kerja sama dengan\ninstansi lain.\n   Ayat (3)\n  Cukup jelas.\n   Ayat (4)\n  Cukup jelas.\n   Ayat (5)\n Pemberian data dan informasi perpajakan oleh pejabat atau tenaga\nahli yang ditunjuk oleh Direktur Jenderal Pajak kepada para pihak\ndalam rangka pelaksanaan tugas di bidang perpajakan misalnya\npelaksanaan Verifikasi, Pemeriksaan, Pemeriksaan Bukti\nPermulaan, penagi han pajak, gugatan, banding, Penyidikan dan\nproses penuntutan tindak pidana di bidang perpajakan, dan dalam\nsidang tindak pidana di bidang perpajakan di pengadilan, tidak\nmemerlukan izin tertulis dari Menteri Keuangan.\n\nAyat (6) . . .\n\n\n   Ayat (6)\n   Cukup jelas.\n\nPasal 54\n   Cukup jelas.\n\nPasal 55\n   Cukup jelas.\n\nPasal 56\n   Cukup jelas.\n\nPasal 57\n Ayat (1)\n Cukup jelas.\n Ayat (2)\n Cukup jelas.\n Ayat (3)\n Yang dimaksud dengan “bersamaan” bukan berarti harus\ndiajukan pada  tanggal yang sama . Sebagai contoh, Wajib Pajak\nmengajukan MAP pada tanggal 10 J anuari 2011. Sementara itu,\npada tanggal 14 Januari 2011 (batas akhir pengajuan keberatan)\nWajib Pajak mengajukan keberatan  atas surat ketetapan pajak\nyang juga diajukan MAP. Meskipun tanggal pengajuan MAP dan\ntanggal pengajuan keberatan berbeda, namun be rdasarkan\nketentuan pada ayat ini kedua pengajuan tersebut dianggap\nbersamaan.\n Ayat (4)\n Cukup jelas.\n Ayat (5)\n Cukup jelas.\n Ayat (6)\n Cukup jelas.\n Ayat (7)\n Cukup jelas.\n Ayat (8)\n Cukup jelas.\n\nPasal 58 . . .\n\n\nPasal 58\n Cukup jelas.\n\nPasal 59\n Cukup jelas.\n\nPasal 60\n Ayat (1)\n Cukup jelas.\n Ayat (2)\nTujuan Pemeriksaan Bukti Permulaaan adalah mendapatkan\nbukti permulaan tentang dugaan terjadinya tindak pidana di\nbidang perpajakan. Untuk mendapatkan bukti permulaan\ntersebut, Pemeriksaan Bukti Permulaan dapat dilakukan  secara\ntertutup atau secara terbuka.\nPemeriksaan Bukti Permulaan berbeda dengan Pemeriksaan\nmengingat Pemeriksaan Bukti Permulaan memiliki tujuan yang\nsama dengan penyelidikan sebagaimana diatur dalam Undang -\nUndang hukum acara pidana, yaitu untuk mencari dan\nmenemukan suatu p eristiwa yang diduga sebagai tindak pidana\nguna menentukan dapat atau tidaknya dilakukan Penyidikan.\nPada prinsipnya Pemeriksaan Bukti Permulaan dilakukan secara\ntertutup. Hal ini dimaksudkan untuk mencegah kegagalan dalam\nmendapatkan bukti permulaan tenta ng adanya dugaan telah\nterjadi tindak pidana di bidang perpajakan yang disebabkan\nadanya kesulitan untuk mendapatkan keterangan atau bahan\nbukti yang diperlukan.\nDengan demikian, apabila risiko kegagalan sebagaimana tersebut\ndi atas diperkirakan tidak terj adi maka Pemeriksaan Bukti\nPermulaan dilakukan secara terbuka. Selain itu, Pemeriksaan\nBukti Permulaan secara terbuka juga dilakukan dalam hal\nPemeriksaan Bukti Permulaan tersebut dilakukan terkait dengan\npermohonan pengembalian kelebihan pembayaran pajak\nsebagaimana dimaksud dalam Pasal 17B Undang-Undang.\n Ayat (3)\n Cukup jelas\n Ayat (4)\n Cukup jelas.\n\n\nAyat (5) . . .\n\n\n Ayat (5)\n Huruf a\n  Cukup jelas.\n Huruf b\n  Cukup jelas.\n Huruf c\n  Cukup jelas.\n Huruf d\n  Cukup jelas.\n Huruf e\nYang dimaksud dengan “pihak ketiga” yai tu pihak lain yang\nmempunyai hubungan dengan tindakan, pekerjaan, kegiatan\nusaha, atau pekerjaan bebas Wajib Pajak yang dilakukan\nPemeriksaan Bukti Permulaan seperti bank, akuntan publik,\nnotaris, konsultan pajak, kantor administrasi, konsultan\nhukum, konsultan keuangan, pelanggan, pemasok.\n Huruf f\n  Cukup jelas.\n Huruf g\n  Cukup jelas.\n Ayat (6)\n   Cukup jelas.\n Ayat (7)\n   Cukup jelas.\nPasal 61\n Ayat (1)\n Cukup jelas.\n Ayat (2)\nPenyidikan Tindak Pidana di Bidang Perpajakan hanya dapat\ndilakukan oleh Penyidik Pe gawai Negeri Sipil Direktorat Jend eral\nPajak. Dalam hal tertentu, Penyidik Pegawai Negeri Sipil\nDirektorat Jenderal Pajak perlu melakukan tindakan yang\nkewenangannya dimiliki oleh aparat penegak hukum lain. Dalam\nhal demikian, Penyidik Pegawai Negeri Sipil  Direktorat Jenderal\nPajak dapat meminta bantuan aparat penegak hukum lain.\n\nYang . . .\n\n\nYang dimaksud dengan “aparat penegak hukum lain”  yaitu\naparat penegak hukum Kepolisian Republik Indonesia dan\nKejaksaan Republik Indonesia.\n Ayat (3)\n Huruf a\nYang dimaksud dengan “bantuan teknis” yaitu bantuan dari\nKepolisian Republik Indonesia yang antara lain berupa\npemeriksaan laboratorium forensik (labfor), pemeriksaan\nidentifikasi, dan/atau pemeriksaan psikologi.\n  Huruf b\nYang dimaksud dengan “bantuan taktis” yaitu bantuan dari\nKepolisian Republik Indonesia yang antara lain berupa\nbantuan tenaga penyidik, pengamanan dan/atau peralatan.\n  Huruf c\nYang dimaksud dengan “bantuan upaya paksa” yaitu\nbantuan dari Kepolisian Republik Indonesia antara lain\nberupa bantuan penangkapan, dan/atau penahanan.\n  Huruf d\nYang dimaksud dengan “bantuan konsultasi” yaitu bantuan\ndari Kepolisian Republik Indonesia dan/atau Kejaksaan\nRepublik Indonesia yang antara lain berupa bantuan\nkonsultasi Penyidikan, termasuk konsultasi dan gelar\nperkara dalam penyelesaian dan penyerahan berkas perkara\nkepada Penuntut Umum.\n Ayat (4)\n   Cukup jelas.\n\nPasal 62\n Ayat (1)\n Cukup jelas.\n Ayat (2)\nDalam hal tindak pidana di bidang perpajakan yang disangkakan\nterkait dengan Pasal 38 atau Pasal 39 Undang -Undang, jumlah\nkerugian pada pendapatan negara yang harus dilunasi sebesar\npajak yang tidak atau kurang dibayar atau yang seharusnya tidak\ndikembalikan. Sedangkan dalam hal tindak pidana di bidang\nperpajakan yang disangkakan terkait dengan Pasal 39A Undang -\nUndang, jumlah k erugian pada pendapatan negara yang harus\ndilunasi sebesar jumlah pajak dalam faktur pajak, bukti\npemungutan pajak, bukti pemotongan pajak, dan/atau bukti\nsetoran pajak.\n\nJumlah . . .\n\n\nJumlah pajak tersebut di  atas ditambah dengan sanksi\nadministrasi berupa denda sebes ar 4 (empat) kali jumlah pajak\nyang tidak atau kurang dibayar atau yang seharusnya tidak\ndikembalikan atau 4 (empat) kali jumlah pajak dalam faktur\npajak, bukti pemungutan pajak, bukti pemotongan pajak,\ndan/atau bukti setoran pajak.\n Ayat (3)\n Cukup jelas.\n\nPasal 63\n Cukup jelas.\nPasal 64\n Huruf a\nDalam menghapus Nomor Pokok Wajib Pajak dan/atau mencabut\npengukuhan Pengusaha Kena Pajak yang dilakukan untuk\npermohonan yang diterima setelah tanggal 31 Desember 2007 dan\nbelum diselesaikan, harus mengacu pada ketentuan sebagaimana\ndimaksud dalam Pasal 2 ayat (6), ayat (7), ayat (8) dan ayat (9)\nUndang-Undang dan Pasal 4 Peraturan Pemerintah ini tanpa\nmemperhatikan Masa Pajak, Bagian Tahun Pajak atau Tahun\nPajak terjadinya hal -hal yang menyebabkan penghapusan Nomor\nPokok Wajib Pajak dan/atau pencabutan pengukuhan Pengusaha\nKena Pajak.\n Huruf b\nDalam hal terdapat permohonan pengembalian kelebihan\npembayaran pajak yang seharusnya tidak terutang yang diterima\nsecara lengkap setelah tanggal 31 Desember 2007 dan belum\ndiselesaikan, maka penyelesaian permohonan ini dilakukan\ndengan Verifikasi sebagaimana dimaksud dalam Pasal 17 ayat (2)\nUndang-Undang dan Pasal 18 Peraturan Pemerintah ini tanpa\nmemperhatikan Masa Pajak, Bagian Tahun Pajak atau Tahun\nPajak terjadinya kelebihan pembayaran pajak.\n Huruf c\nDalam hal terdapat kekeliruan atas Surat Keputusan Pemberian\nImbalan Bunga  yang diterbitkan  setelah tanggal 31 Desember\n2007 dan belum diselesaikan, maka pembetulan Surat Keputusan\nPemberian Imbalan Bunga mengacu pada ketentuan sebagaimana\ndimaksud dalam Pasal 16 ayat (1) Undang -Undang dan Pasal 34\nPeraturan Pemerintah ini tanpa memperhatikan Masa Pajak,\nBagian Tahun Pajak atau Tahun Pajak terjadinya penerbitan\nSurat Keputusan Pemberian Imbalan Bunga.\nHuruf d . . .\n\n\n Huruf d\nDalam hal terdapat permohonan pembetulan yang diterima\nsetelah tanggal 31 Desember 2007 dan belum diselesaikan,  maka\nbatas waktu penerbitan Surat Keputusan Pembetulan mengacu\npada Pasal 16 ayat (2) Undang -Undang dan Pasal 34 Peraturan\nPemerintah ini tanpa memperhatikan Masa Pajak, Bagi an Tahun\nPajak atau Tahun Pajak permohonan pembetulan tersebut\ndiajukan.\n Huruf e\nPelaksanaan Pemeriksaan yang dilakukan berdasarkan surat\nperintah Pemeriksaan yang diterbitkan setelah tanggal 31\nDesember 2007 dan belum diselesaikan,  mengacu pada\nketentuan Pasal 29, Pasal 30, dan Pasal 31 Undang -Undang serta\nPasal 11 dan Pasal 12 Peraturan Pemerintah ini tanpa\nmemperhatikan Masa Pajak, Bagian Tahun Pajak atau Tahun\nPajak yang diperiksa.\nSehubungan dengan hal tersebut di atas maka permohonan\npembatalan atas hasil Pemeriksaan atau surat ketetapan pajak\ndari hasil Pemeriksaan diproses berdasarkan Pasal 36 ayat (1)\nhuruf d Undang -Undang dan Pasal 13 Peraturan Pemerintah ini\ntanpa memperhatikan Masa Pajak, Bagian Tahun Pajak atau\nTahun Pajak yang diperiksa.\n Huruf f\nPengajuan keberatan yang diterima setelah tanggal 31 Desember\n2007 dan belum diselesaikan , proses penyelesaian keberatannya\ndilakukan berdasarkan ketentuan Pasal 26 dan Pasal 26A\nUndang-Undang serta Pasal 33 Peraturan Pemerintah ini tanpa\nmemperhatikan Masa Pajak, Bagian Tahun Pajak atau Tahun\nPajak yang diajukan keberatan.\nSedangkan persyaratan pengajuan keberatan khususnya berupa\nkewajiban melunasi pajak yang masih harus dibayar paling\nsedikit sejumlah yang disetujui pada saat Pembahasan Akhir\nHasil Pemeriksaan sebagaimana dimaksud dalam Pasal 25 ayat\n(3a) Undang-Undang, hanya berlaku untuk pengajuan keberatan\natas Masa Pajak, Bagian Tahun Pajak atau Tahun Pajak 2008 dan\nsetelahnya.\n Huruf g\nCukup jelas.\n Huruf h\nCukup jelas.\n\nHuruf i . . .\n\n\n\n Huruf i\nTerhadap pemb etulan Surat Pemberitahuan sebagaimana\ndimaksud dalam Pasal 8 ayat (1), ayat (1a), dan ayat (6) Undang -\nUndang serta Pasal 5 dan Pasal 6 Peraturan Pemerintah ini yang\ndilakukan setelah tanggal 31 Desember 2011 untuk Masa Pajak,\nBagian Tahun Pajak, atau Tahu n Pajak mana pun dilakukan\nberdasarkan syarat dan prosedur yang diatur dalam Undang -\nUndang dan Peraturan Pemerintah ini. Namun demikian, sanksi\nyang terkait  dengan pembetulan tersebut tetap berlaku sesuai\ndengan Masa Pajak, Bagian Tahun Pajak, atau Tahun Pajak yang\nSurat Pemberitahuannya dibetulkan.\n Huruf j\nTerhadap pengungkapan ketidakbenaran perbuatan sebagaimana\ndimaksud dalam Pasal 8 ayat (3) Undang -Undang dan Pasal 7\nPeraturan Pemerintah ini yang dilakukan setelah tanggal 31\nDesember 2011 untuk Masa Pajak, Bagian Tahun Pajak, atau\nTahun Pajak  mana pun dilakukan berdasarkan syarat dan\nprosedur yang diatur dalam Undang -Undang dan Peraturan\nPemerintah ini. Namun demikian, sanksi yang terkait dengan\npengungkapan ketidakbenaran perbuatan tersebut tetap be rlaku\nsesuai dengan Masa Pajak, Bagian Tahun Pajak, atau Tahun\nPajak yang bersangkutan.\n Huruf k\nTerhadap pengungkapan ketidakbenaran pengisian sebagaimana\ndimaksud dalam Pasal 8 ayat (4) Undang -Undang dan Pasal 8\nPeraturan Pemerintah ini yang dilakukan s etelah tanggal 31\nDesember 2011 untuk Masa Pajak, Bagian Tahun Pajak, atau\nTahun Pajak  mana pun dilakukan berdasarkan syarat dan\nprosedur yang diatur dalam Undang -Undang dan Peraturan\nPemerintah ini. Namun demikian, sanksi yang terkait dengan\npengungkapan pengisian tersebut tetap berlaku sesuai dengan\nMasa Pajak, Bagian Tahun Pajak, atau Tahun Pajak yang\nbersangkutan.\n\n\nHuruf l . . .\n\n\n\n Huruf l\n  Cukup jelas.\n Huruf m\nPermintaan keterangan atau bukti kepada pihak ketiga yang\nmempunyai hubungan dengan Wajib Pajak yang dil akukan\nPemeriksaan, Pemeriksaan Bukti Permulaan, Penyidikan tindak\npidana di bidang perpajakan, penagihan pajak, atau proses\nkeberatan,  yang dilakukan setelah 31 Desember 2011 berlaku\nketentuan sebagaimana dimaksud dalam Pasal 35 Undang -\nUndang dan Pasal 5 4 Peraturan Pemerintah ini tanpa\nmemperhatikan Masa Pajak, Bagian Tahun Pajak, atau Tahun\nPajak yang bersangkutan.\n\nPasal 65\n Cukup jelas.\n\nPasal 66\n Cukup jelas.\n\nPasal 67\n Cukup jelas.\n\n\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 5268"
+   }
+  }
+ ]
+}

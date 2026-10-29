@@ -1,0 +1,72 @@
+{
+ "id": "PH-H13289",
+ "title": {
+  "zh": null,
+  "en": "An Act Appropriating the Sum of Ten thousand Pesos for a Philippine Exhibit At the Taipeh, Formosa, Exhibition.",
+  "orig": "An Act Appropriating the Sum of Ten thousand Pesos for a Philippine Exhibit At the Taipeh, Formosa, Exhibition."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1916-02-24",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2637",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1159,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1916/act_2637_1916.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02637_1916_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02637_1916_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13289-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The sum of ten thousand pesos, or so much thereof as may be necessary, is hereby appropriated\nout of any funds in the Insular Treasury not otherwise appropriated, for the purpose of providing for a\nPhilippine exhibit at the exposition to be held at Taipeh, Formosa, April tenth to May ninth, nineteen hundred\nand sixteen, under the auspices of the Government of Formosa; and the Governor-General is hereby\nauthorized to take such steps as' may be necessary to accomplish the purposes of this Act and to designate'\nand fix the salaries of the necessary personnel: Provided, That not more than three persons shall be designated\nfor duty in Formosa and that they shall be selected, if possible, from the personnel that has been on duty with\nthe Philippine Exhibit at the Panama-Pacific Exposition."
+   }
+  },
+  {
+   "id": "PH-H13289-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The Governor-General shall present to the Legislature, within the first fifteen days of the session\nimmediately following the Taipeh Exposition, a detailed report of the exhibition above provided for, setting\nforth all moneys received and disbursements made on account of the Philippine exhibit."
+   }
+  },
+  {
+   "id": "PH-H13289-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, February 24, 1916."
+   }
+  }
+ ]
+}

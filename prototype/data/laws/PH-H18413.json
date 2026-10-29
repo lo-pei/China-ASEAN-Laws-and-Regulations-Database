@@ -1,0 +1,52 @@
+{
+ "id": "PH-H18413",
+ "title": {
+  "zh": null,
+  "en": "Approving and adopting the National Information Technology Plan 2000 and establishing the National Information Technology Council",
+  "orig": "Approving and adopting the National Information Technology Plan 2000 and establishing the National Information Technology Council"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p157",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1994-07-19",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Executive Order No. 190",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 1,
+ "chars": 1285,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/07_行政命令_EO/EO_00190_1994_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 1 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 EO_00190_1994_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H18413-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Approval of the NITP. – The National Information Technology Plan 2000 (NITP2000), hereto\nattached, is hereby approved.\na. recommend to the President policies relative to the implementation of the NITP2000 in consultation with all\nagencies concerned;\nb. monitor and ensure the implementation, and undertake review and periodic upgrading, of the NITP2000;\nc. recommend to the President a legislative agenda that will promote the accelerated development and\napplication of IT in the country;\nd. monitor the major IT projects, significant developments and activities that affect NITP2000, especially in\nthe government, through an institutionalized system of networking;\ne. assess, review and provide direction for continuing research on various relevant aspects of IT, including the\nassessment of the IT industry’s progress and problems;\nf. advocate strategic alliances between government, business, academe and non-government organizations in\norder to promote the team approach in IT efforts, especially in the area of technology transfer;\ng. catalyze industry growth by syndicating alliances with the international community for large national\nprojects with massive private sector participation; and\nh. facilitate the sourcing of funds to support implementation of programs and projects."
+   }
+  }
+ ]
+}

@@ -1,0 +1,358 @@
+{
+ "id": "ID-H1519",
+ "title": {
+  "zh": "地方财政信息制度法",
+  "en": "system information finance regional Law",
+  "id": "sistem informasi keuangan daerah",
+  "orig": "SISTEM INFORMASI KEUANGAN DAERAH",
+  "vi": "Luật hệ thống thông tin tài chính địa phương",
+  "th": "พระราชบัญญัติ ระบบ ข้อมูล การเงิน ท้องถิ่น",
+  "ms": "Akta sistem informasi keuangan daerah"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02c",
+ "language": "id",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "2005",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU56-2005",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 22,
+ "chars": 16999,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PP_No_56_th_2005.pdf&fl=P17504"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\01_宪法与基础法\\印尼_文本_2005_SISTEM INFORMASI KEUANGAN DAERAH.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 22 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H1519-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\n\nDalam Peraturan Pemerintah ini yang dimaksud dengan:\n\n1. Pemerintah . . .\n\n\n\n1. Pemerintah Pusat, yang selanjutnya disebut Pemerintah,\nadalah Presiden   Republik   Indonesia yang memegang\nkekuasaan pemerintahan Negara Republik Indonesia\nsebagaimana dimaksud dalam Undang-Undang Dasar\nNegara Republik Indonesia Tahun 1945.\n2. Pemerintah Daerah adalah gubernur, bupati, atau\nwalikota, dan perangkat Daerah sebagai unsur\npenyelenggara Pemerintahan Daerah.\n3. Daerah otonom, selanjutnya disebut Daerah, adalah\nkesatuan masyarakat hukum yang mempunyai batas-\nbatas wilayah  berwenang mengatur dan mengurus\nurusan pemerintahan dan kepentingan masyarakat\nsetempat menurut prakarsa sendiri berdasarkan aspirasi\nmasyarakat dalam sistem Negara Kesatuan Republik\nIndonesia.\n4. Kepala Daerah adalah gubernur bagi daerah provinsi atau\nbupati bagi daerah kabupaten atau walikota bagi daerah\nkota.\n5. Desentralisasi adalah penyerahan wewenang\npemerintahan oleh Pemerintah kepada daerah otonom\nuntuk mengatur dan mengurus urusan pemerintahan\ndalam sistem Negara Kesatuan Republik Indonesia.\n6. Dekonsentrasi adalah pelimpahan wewenang dari\nPemerintah kepada gubernur sebagai wakil Pemerintah.\n7. Tugas Pembantuan adalah penugasan dari Pemerintah\nkepada Daerah dan/atau desa atau sebutan lain dengan\nkewajiban melaporkan dan mempertanggungjawabkan\npelaksanaannya kepada yang menugaskan.\n8. Anggaran Pendapatan dan Belanja Daerah, selanjutnya\ndisebut APBD adalah rencana      keuangan tahunan\nPemerintahan Daerah yang dibahas dan disetujui\nbersama oleh Pemerintah Daerah dan Dewan Perwakilan\nRakyat Daerah, dan ditetapkan dengan Peraturan Daerah.\n9. Dana Perimbangan adalah dana yang bersumber dari\npendapatan APBN yang dialokasikan   kepada Daerah\nuntuk mendanai kebutuhan Daerah dalam rangka\npelaksanaan Desentralisasi.\n10. Dana Dekonsentrasi adalah dana yang berasal dari APBN\nyang dilaksanakan oleh gubernur sebagai wakil\npemerintah yang mencakup semua penerimaan dan\npengeluaran dalam rangka pelaksanaan dekonsentrasi,\ntidak termasuk dana yang dialokasikan untuk investasi\nvertikal pusat di daerah.\n11. Dana . . .\n\n\n\n11. Dana Tugas Pembantuan adalah dana yang berasal dari\nAPBN yang dilaksanakan oleh  Daerah yang mencakup\nsemua penerimaan dan pengeluaran dalam rangka\npelaksanaan Tugas Pembantuan.\n12. Keuangan Daerah adalah semua hak dan kewajiban\ndaerah yang dapat dinilai dengan uang, serta segala\nsesuatu baik berupa uang maupun berupa barang yang\ndapat dijadikan milik daerah berhubung dengan\npelaksanaan hak dan kewajiban tersebut.\n13. Pinjaman Daerah adalah semua transaksi yang\nmengakibatkan daerah menerima sejumlah uang atau\nmenerima manfaat yang bernilai uang dari pihak lain\nsehingga daerah tersebut dibebani kewajiban untuk\nmembayar kembali.\n14. Menteri teknis adalah menteri yang bertugas dan\nbertanggung jawab di bidang teknis tertentu.\n15. Sistem Informasi Keuangan Daerah selanjutnya disingkat\nSIKD adalah suatu sistem yang mendokumentasikan,\nmengadministrasikan, serta mengolah data pengelolaan\nkeuangan daerah dan data terkait lainnya menjadi\ninformasi yang disajikan kepada masyarakat dan sebagai\nbahan pengambilan keputusan dalam rangka\nperencanaan, pelaksanaan, dan pelaporan\npertanggungjawaban pemerintah daerah.\n16. Informasi Keuangan Daerah adalah segala informasi yang\nberkaitan dengan keuangan daerah yang diperlukan\ndalam rangka penyelenggaraan Sistem Informasi\nKeuangan Daerah.\n17. Situs adalah suatu daerah lokasi jelajah pada internet, di\nidentifikasikan dengan suatu alamat yang unik.\n\nBAB II\n\nINFORMASI KEUANGAN DAERAH"
+   }
+  },
+  {
+   "id": "ID-H1519-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\nDaerah menyampaikan informasi yang berkaitan dengan\nkeuangan Daerah kepada Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H1519-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\nInformasi Keuangan Daerah yang disampaikan harus\nmemenuhi prinsip-prinsip akurat, relevan, dan dapat\ndipertanggungjawabkan."
+   }
+  },
+  {
+   "id": "ID-H1519-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4 "
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 4 . . .\n\n\n\nPasal 4\n(1) Informasi Keuangan Daerah yang disampaikan oleh Daerah\nkepada Pemerintah sebagaimana dimaksud dalam Pasal 2\nmencakup:\na.  APBD dan realisasi APBD Provinsi, Kabupaten, dan\nKota;\nb.  neraca daerah;\nc.  laporan arus kas;\nd.  catatan atas laporan keuangan daerah;\ne.  Dana Dekonsentrasi dan Dana Tugas Pembantuan;\nf.  laporan Keuangan Perusahaan Daerah; dan\ng.  data yang berkaitan dengan kebutuhan fiskal dan\nkapasitas fiskal daerah.\n(2) Informasi Keuangan Daerah sebagaimana  dimaksud pada\nayat (1) disampaikan kepada  Menteri Keuangan dan\nMenteri Dalam Negeri.\n(3) Informasi Keuangan Daerah sebagaimana dimaksud pada\nayat (1) dapat disampaikan kepada Menteri Teknis terkait\nsesuai kebutuhan."
+   }
+  },
+  {
+   "id": "ID-H1519-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\n(1) Bentuk dan format laporan sebagaimana   dimaksud dalam\nPasal 4 ayat (1) huruf a, huruf b, huruf c, dan huruf d\nberpedoman pada Standar Akuntansi Pemerintahan yang\nberlaku.\n(2) Bentuk dan format laporan sebagaimana dimaksud dalam\nPasal 4 ayat (1) huruf e, huruf f, dan huruf g berpedoman\npada peraturan perundang-undangan yang berlaku."
+   }
+  },
+  {
+   "id": "ID-H1519-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\nPenyampaian Informasi Keuangan Daerah sebagaimana\ndimaksud dalam Pasal 4 dilakukan secara berkala melalui\ndokumen tertulis dan media lainnya."
+   }
+  },
+  {
+   "id": "ID-H1519-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\nBatas waktu penyampaian Informasi Keuangan Daerah\nsebagaimana dimaksud dalam Pasal 4 ayat (2) adalah :\na. paling . . .\n\n\n\na. paling lambat tanggal 31 Januari tahun anggaran yang\nbersangkutan untuk APBD setiap tahun anggaran dan\napabila ada Perubahan APBD paling lambat disampaikan\n30 hari setelah ditetapkannya Perubahan APBD tahun\nberjalan.\nb. paling lambat 30 hari setelah berakhirnya semester yang\nbersangkutan untuk laporan realisasi APBD per semester.\nc. paling lambat tanggal 31 Agustus tahun berjalan untuk\nLaporan realisasi APBD, neraca daerah, laporan arus kas,\ncatatan atas laporan keuangan daerah, informasi mengenai\nDana Dekonsentrasi dan Dana Tugas Pembantuan, laporan\nkeuangan Perusahaan Daerah, dan data yang berkaitan\ndengan kebutuhan fiskal dan kapasitas fiskal Daerah\ntahun yang lalu."
+   }
+  },
+  {
+   "id": "ID-H1519-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\nKetentuan lebih lanjut mengenai tata cara penyampaian\ninformasi keuangan daerah diatur dalam Peraturan Menteri\nKeuangan\nBAB III\n\nPENYELENGGARAAN SIKD\nBagian Kesatu\nPenyelenggaraan SIKD Secara Nasional"
+   }
+  },
+  {
+   "id": "ID-H1519-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\nPemerintah menyelenggarakan SIKD secara nasional dengan\ntujuan:\na. merumuskan kebijakan dan pengendalian fiskal nasional;\nb. menyajikan informasi keuangan daerah secara nasional;\nc. merumuskan kebijakan keuangan daerah, seperti Dana\nPerimbangan, Pinjaman Daerah, dan Pengendalian defisit\nanggaran; dan\nd. melakukan pemantauan, pengendalian dan evaluasi\npendanaan Desentralisasi, Dekonsentrasi, Tugas\nPembantuan, Pinjaman Daerah, dan defisit anggaran\ndaerah."
+   }
+  },
+  {
+   "id": "ID-H1519-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10 "
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 10 . . .\n\n\n\nPasal 10\n(1) SIKD secara nasional sebagaimana dimaksud dalam Pasal\n9 diselenggarakan oleh Menteri Keuangan.\n(2) Penyelenggaraan SIKD sebagaimana dimaksud pada ayat\n(1) mempunyai fungsi:\na. penyusunan standar Informasi Keuangan Daerah;\nb. penyajian Informasi Keuangan Daerah kepada\nmasyarakat ;\nc. penyiapan rumusan kebijakan teknis penyajian\nInformasi;\nd. penyiapan rumusan kebijakan teknis di bidang teknologi\npengembangan SIKD;\ne. pembangunan, pengembangan dan pemeliharaan SIKD;\nf. pembakuan SIKD yang meliputi prosedur, pengkodean,\nperalatan, aplikasi dan pertukaran informasi; dan\ng. pengkoordinasian jaringan komunikasi data dan\npertukaran informasi antar instansi Pemerintah.\n\nBagian Kedua\nPenyelenggaraan SIKD di Daerah"
+   }
+  },
+  {
+   "id": "ID-H1519-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\nPemerintah Daerah menyelenggarakan SIKD di daerahnya\nmasing-masing."
+   }
+  },
+  {
+   "id": "ID-H1519-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n     Penyelenggaraan SIKD sebagaimana dimaksud dalam Pasal 11\nmempunyai tujuan:\na. membantu Kepala Daerah dalam menyusun anggaran\ndaerah dan laporan pengelolaan keuangan daerah;\nb. membantu Kepala Daerah dalam merumuskan kebijakan\nkeuangan daerah;\nc. membantu Kepala Daerah dan instansi terkait lainnya\ndalam melakukan evaluasi kinerja keuangan daerah;\nd. membantu menyediakan kebutuhan statistik keuangan\ndaerah;\n\ne. menyajikan . . .\n\n\n\ne. menyajikan Informasi Keuangan Daerah secara terbuka\nkepada masyarakat; dan\nf.  mendukung penyediaan Informasi Keuangan Daerah yang\ndibutuhkan dalam SIKD secara nasional."
+   }
+  },
+  {
+   "id": "ID-H1519-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\n      Penyelenggaraan SIKD sebagaimana dimaksud dalam Pasal 11\nmeliputi:\na. penyajian informasi anggaran, pelaksanaan anggaran, dan\npelaporan keuangan daerah yang dihasilkan oleh Sistem\nInformasi Pengelolaan Keuangan Daerah.\nb. penyajian Informasi Keuangan Daerah melalui situs resmi\nPemerintah Daerah.\nc. penyediaan Informasi Keuangan Daerah dalam rangka\nmendukung SIKD secara nasional."
+   }
+  },
+  {
+   "id": "ID-H1519-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\n\nPenyelenggaraan Sistem Informasi Pengelolaan Keuangan\nDaerah sebagaimana dimaksud dalam Pasal 13 huruf a\ndiselenggarakan untuk mendukung Pemerintah Daerah dalam\npenyusunan anggaran, pelaksanaan anggaran dan pelaporan\nkeuangan daerah."
+   }
+  },
+  {
+   "id": "ID-H1519-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\nSitus resmi sebagaimana dimaksud dalam Pasal 13 huruf b\ndiselenggarakan oleh Pemerintah Provinsi yang memuat\nInformasi Keuangan Pemerintah Provinsi dan Pemerintah\nKabupaten/Kota dalam Provinsi yang bersangkutan, dan dapat\ndiselenggarakan oleh masing–masing Pemerintah\nKabupaten/Kota."
+   }
+  },
+  {
+   "id": "ID-H1519-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16 "
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 16 . . .\n\n\n\nPasal 16\nInformasi Keuangan Daerah yang ditampilkan dalam situs resmi\nPemerintah Daerah sebagaimana dimaksud dalam Pasal 13\nhuruf b paling sedikit memuat informasi sebagaimana\ndimaksud dalam Pasal 4 ayat (1).\n\n\n\nBAB IV\n\nSANKSI"
+   }
+  },
+  {
+   "id": "ID-H1519-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\n\n(1) Dalam hal Pemerintah Daerah tidak menyampaikan\nInformasi Keuangan Daerah sebagaimana dimaksud dalam\nPasal 2 hingga 1 (satu) bulan setelah batas waktu yang\nditetapkan sebagaimana dimaksud dalam Pasal 7 diberikan\nperingatan tertulis oleh Menteri Keuangan.\n\n(2) Dalam hal Pemerintah Daerah tidak menyampaikan\nInformasi Keuangan Daerah hingga 2 (dua) bulan setelah\nditerbitkannya peringatan tertulis sebagaimana dimaksud\npada ayat (1), Menteri Keuangan menetapkan sanksi\nberupa penundaan penyaluran Dana Perimbangan setelah\nberkoordinasi dengan Menteri Dalam Negeri."
+   }
+  },
+  {
+   "id": "ID-H1519-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\n(1) Pengenaan sanksi dilaksanakan secara efektif pada\npencairan Dana Perimbangan bulan berikutnya setelah\ntanggal penetapan sanksi.\n\n(2) Pengenaan sanksi dilaksanakan setiap bulan sampai\ndengan disampaikannya Informasi Keuangan Daerah\nsebagaimana dimaksud dalam Pasal 2 oleh Pemerintah\nDaerah kepada Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H1519-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19 "
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 19 . . .\n\n\n\n\nPasal 19\n\nPenerapan pengenaan sanksi sebagaimana dimaksud dalam\nPasal 17 dan Pasal 18 diatur dalam Peraturan Menteri\nKeuangan.\n\n\n\nBAB V\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H1519-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\n(1) Penyelenggaraan SIKD sebagaimana dimaksud dalam Pasal\n11 oleh Pemerintah Provinsi dilaksanakan paling lambat 3\n(tiga) tahun setelah Peraturan Pemerintah ini berlaku.\n(2) Penyelenggaraan SIKD sebagaimana dimaksud dalam Pasal\n11 oleh Pemerintah Kabupaten/Kota dilaksanakan paling\nlambat 5 (lima) tahun setelah Peraturan Pemerintah ini\nberlaku.\n(3) Penyelenggaraan SIKD sebagaimana dimaksud  dalam Pasal\n11 oleh Pemerintah Provinsi/Kabupaten/Kota pemekaran\ndilaksanakan paling lambat 5 (lima) tahun setelah\ndiundangkannya Undang-undang pemekaran daerah yang\nbersangkutan."
+   }
+  },
+  {
+   "id": "ID-H1519-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\n     Pada saat Peraturan Pemerintah ini mulai berlaku, Peraturan\nPemerintah Nomor 11 Tahun 2001 tentang Informasi Keuangan\nDaerah (Lembaran Negara Republik Indonesia Tahun 2001\nNomor 21, Tambahan Lembaran Negara Republik Indonesia\nNomor 4081) dicabut dan dinyatakan tidak berlaku."
+   }
+  },
+  {
+   "id": "ID-H1519-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\nPeraturan Pemerintah ini mulai berlaku pada tanggal\ndiundangkan.\n\n\n\nAgar . . .\n\n\n\n\nAgar setiap orang mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan\npenempatannya dalam Lembaran Negara Republik Indonesia.\n                                   Ditetapkan di Jakarta\n                                   pada tanggal  9 Desember 2005\n\n                                   PRESIDEN REPUBLIK INDONESIA,\n\n                                     ttd\n\n                         DR. H. SUSILO BAMBANG YUDHOYONO\n\n\nDiundangkan di Jakarta\npada tanggal  9 Desember  2005\n\nMENTERI HUKUM DAN HAK ASASI MANUSIA\n                REPUBLIK INDONESIA\n                       AD INTERIM,\n\n                                 ttd\n\n            YUSRIL IHZA MAHANDRA\n\n\n\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2005 NOMOR 138\n\nSalinan sesuai dengan aslinya\nDEPUTI MENTERI SEKRETARIS NEGARA\nBIDANG PERUNDANG-UNDANGAN,\n\n\n\n\n\nAbdul Wahid\nPENJELASAN\nATAS\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nNOMOR  56 TAHUN 2005\n\nTENTANG\n\nSISTEM INFORMASI KEUANGAN DAERAH\n\n\n\nI. UMUM\n\nDalam kehidupan bernegara yang semakin terbuka, pemerintah selaku\nperumus dan pelaksanaan kebijakan APBN berkewajiban untuk terbuka\ndan bertanggung jawab terhadap seluruh hasil pelaksanaan pembangunan.\nSalah satu bentuk tanggung jawab tersebut diwujudkan dengan\nmenyediakan informasi keuangan yang komprehensif kepada masyarakat\nluas, termasuk Informasi Keuangan Daerah. Dengan kemajuan tekhnologi\ninformasi yang demikian pesat serta potensi pemanfaatannya secara luas,\nhal tersebut membuka peluang bagi berbagai pihak untuk mengakses,\nmengelola dan mendayagunakan informasi secara cepat dan akurat untuk\nlebih mendorong terwujudnya pemerintahan yang bersih, transparan, dan\nserta mampu menjawab tuntutan perubahan secara efektif.\n\nUntuk menindaklanjuti terselenggaranya proses pembangunan yang sejalan\ndengan prinsip tata pemerintahan yang baik (Good Governance), Pemerintah\ndan Pemerintah Daerah berkewajiban untuk mengembangkan dan\nmemanfaatkan kemajuan teknologi informasi untuk meningkatkan\nkemampuan mengelola keuangan daerah, dan menyalurkan Informasi\nKeuangan Daerah kepada pelayanan publik. Pemerintah perlu\nmengoptimasikan pemanfaatan kemajuan teknologi informasi untuk\nmembangun jaringan sistem informasi manajemen dan proses kerja yang\nmemungkinkan pemerintahan bekerja secara terpadu dengan\nmenyederhanakan akses antar unit kerja.\n\nDalam kerangka ini, Undang-Undang Nomor 33 Tahun 2004 tentang\nPerimbangan Keuangan antara Pemerintah Pusat dan Pemerintahan Daerah\nmengamanatkan adanya dukungan Sistem Informasi Keuangan Daerah\nuntuk menunjang perumusan kebijakan fiskal secara nasional serta\nmeningkatkan transparansi dan akuntabilitas dalam pelaksanaan\ndesentralisasi.\n\n\n\nII. PASAL DEMI PASAL  . . .\n\n\n\nII. PASAL DEMI PASAL\n\nPasal 1\n Cukup jelas.\n\n Pasal 2\n       Cukup jelas.\n\n Pasal 3\nYang dimaksud dengan akurat adalah suatu tindakan yang\nmencerminkan ketelitian, kecermatan, dan ketepatan.\nYang dimaksud dengan relevan  adalah suatu keadaan yang sesuai\ndengan kondisi obyektif sekarang dan masa datang.\nYang dimaksud dengan dapat dipertanggungjawabkan adalah suatu\nkondisi atau fakta yang dapat diperbandingkan secara angka nominal\ndan matematis.\n\n Pasal 4\n  Ayat (1)\n  Huruf a\nYang dimaksud dengan APBD adalah termasuk perubahan\nAPBD.\n  Huruf b\nYang dimaksud dengan neraca daerah adalah neraca yang\ndisusun berdasarkan standar akuntansi pemerintah secara\nbertahap sesuai dengan kondisi masing-masing pemerintah\ndaerah.\n  Huruf c\nYang dimaksud dengan arus kas adalah suatu laporan\nkeuangan yang menyediakan informasi mengenai\npenerimaan dan pengeluaran kas selama periode tertentu.\n  Huruf d\n       Cukup jelas.\n  Huruf e\n       Cukup jelas.\n  Huruf f\n       Cukup jelas.\n  Huruf g\nYang dimaksud dengan data kebutuhan fiskal adalah data\nyang terkait dengan penghitungan Dana Perimbangan,\nantara lain jumlah penduduk, luas wilayah, indeks\nkemahalan konstruksi, Produk Domestik Regional Bruto,\ndan indeks pembangunan manusia.\n\n\nAyat (2) . . .\n\n\n\n\n   Ayat (2)\n  Informasi yang disampaikan kepada Menteri Keuangan dalam\nrangka penyelenggaraan Sistem Informasi Keuangan Daerah,\nsedangkan informasi yang disampaikan kepada Menteri Dalam\nNegeri dalam rangka Laporan Penyelenggaraan Pemerintahan\nDaerah di bidang keuangan.\n\n   Ayat (3)\nYang dimaksud dengan sesuai kebutuhan adalah hanya\nmenyangkut bidang tugas Menteri Teknis terkait.\n\n Pasal 5\nCukup jelas.\n\n Pasal 6\nYang dimaksud dengan media lainnya adalah alat penyimpan\ninformasi yang bukan kertas dan mempunyai tingkat pengamanan\nyang dapat menjamin keaslian dokumen yang dialihkan atau\nditransformasikan misalnya disket atau Compact Disc Read Only\nMemory (CD-ROM).\n\n Pasal 7\n  Cukup jelas.\n\n Pasal 8\n  Cukup jelas.\n\n Pasal 9\n  Cukup jelas.\n\n Pasal 10\n  Cukup jelas.\n\n Pasal 11\n  Cukup jelas.\n\n Pasal 12\n  Cukup jelas.\n\n Pasal 13\n  Huruf a\nYang dimaksud dengan Sistem Informasi Pengelolaan Keuangan\nDaerah adalah serangakaian proses dan prosedur yang\ndiselenggarakan oleh Pemerintah Daerah dalam rangka\npenyusunan anggaran, pelaksanaan anggaran dan pelaporan\nkeuangan daerah.\nHuruf b . . .\n\n\n\n   Huruf b\nPenyajian Informasi Keuangan Daerah melalui situs resmi\nPemerintah Daerah bertujuan antara lain menyampaikan\npengumuman atau pemberitahuan, memberikan pelayanan kepada\nmasyarakat, dan menerima masukan dari masyarakat.\n\n Pasal 14\n  Cukup jelas.\n\n Pasal 15\n  Huruf a\n   Cukup jelas.\n  Huruf b\nSitus adalah sebuah cara untuk menampilkan profil Pemerintah\nDaerah di internet dengan tujuan antara lain menyampaikan\npengumuman atau pemberitahuan, memberikan pelayanan kepada\nmasyarakat, dan menerima masukan dari masyarakat.\n  Huruf c\n   Cukup jelas.\n\n Pasal 16\n  Yang dimaksud dengan pelaporan keuangan daerah adalah realisasi\nAPBD, neraca,  dan laporan arus kas.\n\n Pasal 17\n  Cukup jelas.\n\n Pasal 18\n  Cukup jelas.\n\n Pasal 19\n  Cukup jelas.\n\n Pasal 20\n  Cukup jelas.\n\n Pasal 21\n  Cukup jelas.\n\n\n\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 4576"
+   }
+  }
+ ]
+}

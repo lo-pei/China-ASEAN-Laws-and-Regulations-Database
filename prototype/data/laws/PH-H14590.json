@@ -1,0 +1,62 @@
+{
+ "id": "PH-H14590",
+ "title": {
+  "zh": null,
+  "en": "An Act Amending Article three Hundred and Twenty-Nine of the Revised Penal Code of the Philippine Islands.",
+  "orig": "An Act Amending Article three Hundred and Twenty-Nine of the Revised Penal Code of the Philippine Islands."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1932-12-05",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3999",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 736,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1932/act_3999_1932.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03999_1932_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03999_1932_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14590-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Article three hundred and twenty-nine of Act Numbered Thirty-eight hundred and fifteen,\ncommonly known as the Revised Penal Code, is hereby amended to read as follows:\n\"ART. 329. Other mischiefs.-The mischiefs not included in the next preceding article shall be punished:\n\"1. By arresto mayor in its medium and maximum periods, if the value of the damage caused exceeds 1,000\n\"2. By arresto mayor in its minimum and medium periods, if such value is over 200 pesos but does not exceed\n\"3. By arresto menor or fine of not less than the value of the damage caused and not more than 200 pesos, if\nthe amount involved does not exceed 200 pesos or cannot be estimated.\""
+   }
+  },
+  {
+   "id": "PH-H14590-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, December 5, 1932."
+   }
+  }
+ ]
+}

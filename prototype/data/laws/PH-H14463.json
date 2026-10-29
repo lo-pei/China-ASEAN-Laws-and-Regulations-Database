@@ -1,0 +1,62 @@
+{
+ "id": "PH-H14463",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Act Numbered Twenty-Seven Hundred and Eleven, Known as the Administrative Code, By Inserting a New Section After Section Nineteen Hundred and Sixty-Six of Said Act to Be Known as Section Nineteen Hundred and Sixty-Six-A, Relative to Telegraphic Transfer.",
+  "orig": "An Act to Amend Act Numbered Twenty-Seven Hundred and Eleven, Known as the Administrative Code, By Inserting a New Section After Section Nineteen Hundred and Sixty-Six of Said Act to Be Known as Section Nineteen Hundred and Sixty-Six-A, Relative to Telegraphic Transfer."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1931-10-30",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3831",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 533,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1931/act_3831_1931.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03831_1931_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03831_1931_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14463-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section nineteen hundred and sixty-six-A is hereby inserted after section nineteen hundred and\nsixty-six of Act Numbered Twenty-seven hundred and eleven, known as the Administrative Code, to read as\n\"Section 1966-A. Extension of telegraphic transfer system to other countries.-The Director of Posts, with the\napproval of the Department Head, may extend the telegraphic transfer service to other countries and places at\nrates and on conditions determined by him.\""
+   }
+  },
+  {
+   "id": "PH-H14463-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, October 30, 1931."
+   }
+  }
+ ]
+}

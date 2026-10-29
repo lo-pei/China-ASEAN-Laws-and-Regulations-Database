@@ -1,0 +1,62 @@
+{
+ "id": "PH-H14731",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Section One of Act Numbered Twenty-Nine Hundred and Sixteen, Exempting Certain Bonds of the Manila Railroad Company of the Philippine Islands From Taxation.",
+  "orig": "An Act to Amend Section One of Act Numbered Twenty-Nine Hundred and Sixteen, Exempting Certain Bonds of the Manila Railroad Company of the Philippine Islands From Taxation."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1934-11-24",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 4140",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 478,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1934/act_4140_1934.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_04140_1934_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_04140_1934_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14731-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section one of Act Numbered Twenty-nine hundred and sixteen is hereby amended to read as\n\"Section 1. Any bonds heretofore and hereafter issued by the Manila Railroad Company of the Philippine\nIslands and its predecessors, and all income directly derived therefrom shall be exempt from the payment of\nany tax of the Government of the Philippine Islands or any division or political subdivision of the same.\""
+   }
+  },
+  {
+   "id": "PH-H14731-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, November 24, 1934."
+   }
+  }
+ ]
+}

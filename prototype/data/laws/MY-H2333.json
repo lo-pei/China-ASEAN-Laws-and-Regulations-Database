@@ -1,0 +1,426 @@
+{
+ "id": "MY-H2333",
+ "title": {
+  "zh": "2023年家庭主妇社会保障（身体康复与透析的福利及设施）条例",
+  "en": "HOUSEWIVES’ SOCIAL SECURITY (BENEFITS, FACILITIES FOR PHYSICAL REHABILITATION AND DIALYSIS) REGULATIONS 2023",
+  "orig": "HOUSEWIVES’ SOCIAL SECURITY (BENEFITS, FACILITIES FOR PHYSICAL REHABILITATION AND DIALYSIS) REGULATIONS 2023",
+  "ms": "Peraturan Keselamatan Sosial Suri Rumah (Faedah, Kemudahan Pemulihan Fizikal dan Dialisis) 2023",
+  "vi": "Quy định về An sinh xã hội cho người nội trợ (Trợ cấp, cơ sở phục hồi chức năng thể chất và chạy thận) năm 2023",
+  "th": "ข้อบังคับความมั่นคงทางสังคมของแม่บ้าน (สิทธิประโยชน์ สถานที่ฟื้นฟูสมรรถภาพทางกายและการฟอกไต) ค.ศ. 2023",
+  "id": "Peraturan Jaminan Sosial Ibu Rumah Tangga (Santunan, Fasilitas Rehabilitasi Fisik dan Dialisis) Tahun 2023"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-5",
+ "language": "ms",
+ "level": "regulation",
+ "category": "04_劳工与行政法",
+ "status": "active",
+ "promulgatedDate": "2023",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "PUA200",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 32,
+ "chars": 50399,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-view.php?type=pua&no=P.U. (A) 200/2023&status=PRINCIPAL"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\04_劳工与行政法\\2023_P.U.(A)200-2023_HOUSEWIVES' SOCIAL SECURITY (BENEFITS, FACILITIES FOR PHYSICAL REHABILITATION AND DIALYSIS) REG.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 32 条；逐字未改写（源自厂商 OCR 文本）。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H2333-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "1. Nama dan permulaan kuat kuasa"
+   }
+  },
+  {
+   "id": "MY-H2333-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "2. Tafsiran\n\nBAHAGIAN II\n\nFAEDAH\n\nBab 1\n\nTuntutan bagi faedah"
+   }
+  },
+  {
+   "id": "MY-H2333-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "3. Tuntutan bagi faedah"
+   }
+  },
+  {
+   "id": "MY-H2333-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "4. Masa bagi pembayaran faedah"
+   }
+  },
+  {
+   "id": "MY-H2333-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "5. Pengiraan faedah\n\nBab 2\n\nFaedah hilang upaya kekal"
+   }
+  },
+  {
+   "id": "MY-H2333-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "6. Tuntutan bagi faedah hilang upaya kekal"
+   }
+  },
+  {
+   "id": "MY-H2333-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "7. Rujukan kepada penilai perubatan"
+   }
+  },
+  {
+   "id": "MY-H2333-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "8. Penentuan hilang upaya kekal bagi kecederaan berbilang daripada kejadian\n\natau kemalangan yang sama"
+   }
+  },
+  {
+   "id": "MY-H2333-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "9. Suri rumah berinsurans yang sedang menerima faedah hilang upaya kekal\n\nBab 3\n\nElaun layanan sentiasa\n\nPeraturan"
+   }
+  },
+  {
+   "id": "MY-H2333-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "10. Tarikh akruan elaun layanan sentiasa"
+   }
+  },
+  {
+   "id": "MY-H2333-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "11. Pengiraan elaun layanan sentiasa"
+   }
+  },
+  {
+   "id": "MY-H2333-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "12. Penggantungan dan pemberhentian elaun layanan sentiasa\n\nBab 4\n\nElaun keuzuran"
+   }
+  },
+  {
+   "id": "MY-H2333-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "13. Notis keilatan"
+   }
+  },
+  {
+   "id": "MY-H2333-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "14. Rujukan persoalan mengenai keilatan kepada penilai perubatan"
+   }
+  },
+  {
+   "id": "MY-H2333-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "15. Penentuan keilatan"
+   }
+  },
+  {
+   "id": "MY-H2333-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "16. Perakuan keilatan"
+   }
+  },
+  {
+   "id": "MY-H2333-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "17. Pihak berkuasa untuk memperakui keilatan"
+   }
+  },
+  {
+   "id": "MY-H2333-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "18. Rujukan elaun keuzuran yang berikutnya kepada penilai perubatan\n\nBab 5\n\nPencen penakat"
+   }
+  },
+  {
+   "id": "MY-H2333-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "19. Melaporkan kematian suri rumah berinsurans yang sedang menerima\n\nelaun keuzuran"
+   }
+  },
+  {
+   "id": "MY-H2333-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "20. Pengemukaan tuntutan bagi pencen penakat"
+   }
+  },
+  {
+   "id": "MY-H2333-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "21. Pengemukaan tuntutan pencen penakat oleh orang tanggungan lain"
+   }
+  },
+  {
+   "id": "MY-H2333-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "22. Ketidaklayakan pencen penakat disebabkan oleh ketidakdedahan, dsb."
+   }
+  },
+  {
+   "id": "MY-H2333-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "23. Kematian suri rumah berinsurans semasa sedang menerima elaun keuzuran"
+   }
+  },
+  {
+   "id": "MY-H2333-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "24. Penggantungan pencen penakat\n\nBab 6\n\nFaedah pengurusan mayat\n\nPeraturan"
+   }
+  },
+  {
+   "id": "MY-H2333-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "25. Tuntutan bagi faedah pengurusan mayat\n\nBAHAGIAN III\n\nKEMUDAHAN PEMULIHAN JASMANI DAN DIALISIS"
+   }
+  },
+  {
+   "id": "MY-H2333-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "26. Kemudahan pemulihan jasmani atau dialisis bagi suri rumah berinsurans"
+   }
+  },
+  {
+   "id": "MY-H2333-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 27"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "27. Amaun dibelanjakan bagi pemulihan jasmani\n\nBAHAGIAN IV\n\nAM"
+   }
+  },
+  {
+   "id": "MY-H2333-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 28"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "28. Laporan perubatan"
+   }
+  },
+  {
+   "id": "MY-H2333-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Section 29"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "29. Tuntutan tidak lengkap"
+   }
+  },
+  {
+   "id": "MY-H2333-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Section 30"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "30. Kesahan dokumen"
+   }
+  },
+  {
+   "id": "MY-H2333-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Section 31"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "31. Syarat bagi bantuan kewangan bagi kegagalan ginjal tahap akhir"
+   }
+  },
+  {
+   "id": "MY-H2333-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Section 32"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "32. Akuan oleh penerima faedah\n\nJADUAL\n\nAKTA KESELAMATAN SOSIAL SURI RUMAH 2022\n\nPERATURAN-PERATURAN KESELAMATAN SOSIAL SURI RUMAH\n\n(FAEDAH, KEMUDAHAN PEMULIHAN JASMANI DAN DIALISIS) 2023\n\nPADA menjalankan kuasa yang diberikan oleh seksyen 92\n\nAkta Keselamatan Sosial Suri Rumah 2022 [Akta 838], Menteri membuat\n\nperaturan-peraturan yang berikut:\n\nBAHAGIAN I\n\nPERMULAAN\n\nNama dan permulaan kuat kuasa\n\n1. (1) Peraturan-peraturan ini bolehlah dinamakan Peraturan-Peraturan\n\nKeselamatan Sosial Suri Rumah (Faedah, Kemudahan Pemulihan Jasmani\n\ndan Dialisis) 2023.\n\n(2) Peraturan-Peraturan ini disifatkan telah mula berkuat kuasa\n\npada 1 Disember 2022.\n\nTafsiran\n\n2. Dalam Peraturan-Peraturan ini—\n\n\"laporan perubatan\" ertinya laporan perubatan yang disebut dalam peraturan 28;\n\n\"penilai perubatan\" ertinya seorang penilai perubatan yang dilantik\n\ndi bawah peraturan 2 Peraturan-Peraturan Keselamatan Sosial Suri Rumah\n\n(Penilai Perubatan) 2023 [P.U. (A) 201/2023].\n\nBAHAGIAN II\n\nFAEDAH\n\nBab 1\n\nTuntutan bagi faedah\n\nTuntutan bagi faedah\n\n3. (1) Tiap-tiap tuntutan bagi faedah hendaklah dibuat oleh seseorang\n\nsuri rumah atau orang tanggungannya, mengikut mana-mana yang berkenaan,\n\nkepada Pertubuhan dalam Borang SR 6 Jadual.\n\n(2) Tiap-tiap tuntutan bagi faedah—\n\n(a) dalam hal bencana domestik, hendaklah dibuat dalam tempoh\n\ndua belas bulan dari tarikh berlakunya bencana domestik bersama\n\ndengan laporan perubatan atau apa-apa keterangan lain yang\n\nmenyokong bencana domestik itu; atau\n\n(b) dalam hal keilatan, hendaklah dibuat dalam tempoh dua puluh\n\nempat bulan dari tarikh suri rumah menjadi ilat bersama dengan\n\nlaporan perubatan atau apa-apa keterangan lain yang menyokong\n\nkeilatan itu.\n\n(3) Seseorang suri rumah atau orang tanggungannya, mengikut mana-mana\n\nyang berkenaan, boleh membenarkan mana-mana orang untuk melengkapkan dan\n\nmemberikan Borang SR 6 Jadual yang disebut dalam subperaturan (1) bagi pihaknya\n\ntertakluk kepada apa-apa terma dan arahan sebagaimana yang difikirkan perlu\n\noleh Pertubuhan.\n\n(4) Jika Pertubuhan berpuas hati bahawa suri rumah berinsurans atau\n\norang tanggungannya tidak dapat melengkapkan dan memberikan Borang SR 6 Jadual\n\ndisebabkan oleh apa-apa sebab, Pertubuhan boleh memberikan bantuan kepada\n\nsuri rumah berinsurans atau orang tanggungannya untuk melengkapkan Borang itu.\n\n(5) Jika suatu tuntutan bagi faedah telah dibuat di bawah subperaturan (1)\n\ndan Pertubuhan mendapati bahawa tuntutan itu sepatutnya telah dibuat bagi faedah\n\nyang diperuntukkan di bawah Akta Keselamatan Sosial Pekerja 1969 [Akta 4] atau\n\nAkta Keselamatan Sosial Pekerjaan Sendiri 2017 [Akta 789], tuntutan itu boleh disifatkan\n\ntelah dibuat di bawah dan hendaklah tertakluk kepada kedua-dua Akta itu, mengikut\n\nmana-mana yang berkenaan.\n\n(6) Jika tuntutan bagi faedah telah dibuat di bawah Akta Keselamatan\n\nSosial Pekerja 1969 atau Akta Keselamatan Sosial Pekerjaan Sendiri 2017\n\ndan Pertubuhan mendapati bahawa tuntutan itu ditolak sebagai bukan suatu bencana\n\nkerja di bawah Akta Keselamatan Sosial Pekerja 1969 atau bukan suatu bencana\n\npekerjaan sendiri di bawah Akta Keselamatan Sosial Pekerjaan Sendiri 2017, tuntutan itu\n\nboleh disifatkan telah dibuat di bawah Akta ini untuk pembayaran apa-apa faedah yang\n\nberkaitan, sekiranya layak.\n\nMasa bagi pembayaran faedah\n\n4. (1) Apabila tuntutan bagi faedah diterima di bawah subperaturan 3(1),\n\nPertubuhan hendaklah—\n\n(a) berhubung dengan faedah hilang upaya kekal, membuat bayaran\n\nfaedah itu tidak lewat daripada sembilan puluh hari dari tarikh\n\nseseorang suri rumah berinsurans itu bersetuju menerima\n\npenentuan taksiran hilang upaya kekal oleh penilai perubatan, atau\n\nJemaah Doktor Rayuan sekiranya terdapat suatu rayuan;\n\n(b) berhubung dengan elaun layanan sentiasa, membuat bayaran\n\nfaedah itu tidak lewat daripada sembilan puluh hari dari\n\ntarikh seseorang suri rumah berinsurans itu bersetuju menerima\n\npenentuan darjah kehilangan upaya yang diperakukan oleh penilai\n\nperubatan, atau Jemaah Doktor Rayuan sekiranya terdapat suatu\n\nrayuan, yang melayakkan suri rumah berinsurans bagi faedah itu\n\ndi bawah Akta;\n\n(c) berhubung dengan faedah pengurusan mayat, membuat bayaran\n\nfaedah itu tidak lewat daripada lima belas hari dari tarikh dokumen\n\nadalah lengkap bagi tuntutan berkenaan dengan kematian\n\nseseorang suri rumah berinsurans;\n\n(d) berhubung dengan elaun keuzuran, membuat bayaran elaun itu\n\ntidak lewat daripada sembilan puluh hari dari tarikh penentuan\n\nkeilatan oleh penilai perubatan, atau Jemaah Doktor Rayuan\n\nsekiranya terdapat suatu rayuan, sebagai menghidap keilatan; atau\n\n(e) berhubung dengan pencen penakat, membuat bayaran faedah itu\n\ntidak lewat daripada sembilan puluh hari dari tarikh dokumen\n\nadalah lengkap bagi tuntutan berkenaan dengan kematian\n\nseseorang suri rumah berinsurans.\n\n(2) Walau apa pun perenggan 1(c) dan (e), bayaran bagi faedah pengurusan\n\nmayat dan pencen penakat hendaklah hanya dibuat jika Pertubuhan berpuas hati bahawa\n\ndokumen, maklumat dan butir-butir yang berkaitan yang dikehendaki oleh Pertubuhan\n\ntelah diberikan oleh orang yang menuntut.\n\n(3) Pembayaran faedah di bawah subperaturan (1) hendaklah dibuat\n\nmelalui cek, waran, pemindahan wang secara elektronik atau apa-apa kaedah\n\npembayaran yang lain sebagaimana yang difikirkan sesuai oleh Pertubuhan.\n\nPengiraan faedah\n\n5. Pengiraan faedah yang kena dibayar kepada seseorang suri rumah berinsurans\n\nhendaklah berdasarkan caruman yang telah dibayar bagi tempoh caruman semasa\n\nbencana domestik itu berlaku, atau dalam hal keilatan, bagi tempoh pelindungan apabila\n\nkeilatan diperakukan oleh penilai perubatan, atau Jemaah Doktor Rayuan sekiranya\n\nterdapat suatu rayuan.\n\nBab 2\n\nFaedah hilang upaya kekal\n\nTuntutan bagi faedah hilang upaya kekal\n\n6. (1) Seseorang suri rumah berinsurans yang menuntut faedah hilang upaya\n\nkekal di bawah seksyen 25 Akta hendaklah memberikan kepada Pertubuhan laporan\n\nperubatan atau apa-apa keterangan lain yang menyokong hilang upaya kekal itu.\n\n(2) Pertubuhan boleh menerima apa-apa keterangan lain mengenai\n\nhilang upaya kekal jika pada pendapat Pertubuhan hal keadaan apa-apa hal tertentu\n\nmewajarkan penerimaan sedemikian.\n\nRujukan kepada penilai perubatan\n\n7. Apabila menerima tuntutan bagi faedah hilang upaya kekal dalam Borang SR 6\n\nJadual, Pertubuhan hendaklah merujuk suri rumah berinsurans itu bagi penentuan\n\nmengenai persoalan hilang upaya kekal kepada penilai perubatan.\n\nPenentuan hilang upaya kekal bagi kecederaan berbilang daripada\n\nkejadian atau kemalangan yang sama\n\n8. (1) Jika seseorang suri rumah berinsurans mengalami dua atau lebih\n\nkecederaan daripada kejadian atau kemalangan yang sama, penentuan mengenai\n\nhilang upaya kekal hendaklah ditaksir oleh penilai perubatan, atau Jemaah Doktor\n\nRayuan sekiranya terdapat suatu rayuan, berdasarkan gabungan kecederaan itu.\n\n(2) Taksiran yang dibuat di bawah subperaturan (1) adalah muktamad.\n\nSuri rumah berinsurans yang sedang menerima faedah hilang upaya kekal\n\n9. Seseorang suri rumah berinsurans yang sedang menerima faedah hilang upaya\n\nkekal tidak boleh mengemukakan tuntutan bagi elaun keuzuran yang disebabkan\n\noleh hilang upaya yang sama dalam mana-mana tempoh pelindungan suri rumah\n\nberinsurans itu.\n\nBab 3\n\nElaun layanan sentiasa\n\nTarikh akruan elaun layanan sentiasa\n\n10. Tarikh akruan elaun layanan sentiasa hendaklah pada tarikh yang darjah\n\nkehilangan upaya yang melayakkan seseorang suri rumah berinsurans bagi elaun itu\n\ndiperakukan oleh penilai perubatan, atau Jemaah Doktor Rayuan sekiranya terdapat\n\nsuatu rayuan.\n\nPengiraan elaun layanan sentiasa\n\n11. Elaun layanan sentiasa hendaklah dikira berasaskan kadar harian bagi suatu\n\nbulan tertentu berdasarkan amaun dua ratus lima puluh ringgit setiap bulan.\n\nPenggantungan dan pemberhentian elaun layanan sentiasa\n\n12. (1) Pertubuhan boleh menggantung bayaran elaun layanan sentiasa\n\nkepada seseorang suri rumah berinsurans bagi suatu tempoh yang tidak\n\nmelebihi dua belas bulan jika Pertubuhan mempunyai alasan yang munasabah untuk\n\nmempercayai bahawa—\n\n(a) tuntutan bagi faedah itu telah dibuat oleh suri rumah berinsurans,\n\norang tanggungannya atau mana-mana orang lain tanpa\n\nmendedahkan atau dengan salah nyata, suatu fakta material\n\nsama ada secara fraud atau selainnya; atau\n\n(b) pembayaran faedah itu dibuat disebabkan oleh ketidakdedahan\n\natau salah nyataan suatu fakta material oleh suri rumah berinsurans\n\nitu atau mana-mana orang sama ada secara fraud atau selainnya.\n\n(2) Jika Pertubuhan memutuskan untuk menggantung elaun layanan sentiasa\n\nyang diterima oleh suri rumah berinsurans di bawah subperaturan (1), Pertubuhan\n\nhendaklah menjalankan suatu penyiasatan mengenai penggantungan itu.\n\n(3) Apabila selesai penyiasatan, jika Ketua Pengarah berpuas hati bahawa—\n\n(a) suri rumah berinsurans itu, orang tanggungannya atau mana-mana\n\norang lain tidak melakukan perbuatan di bawah subperaturan (1),\n\nbayaran elaun layanan sentiasa yang digantung hendaklah dengan\n\nserta-merta diteruskan; atau\n\n(b) suri rumah berinsurans itu, orang tanggungannya atau mana-mana\n\norang lain telah melakukan perbuatan di bawah subperaturan (1),\n\nbayaran elaun layanan sentiasa hendaklah diberhentikan.\n\n(4) Pertubuhan boleh menggantung bayaran elaun layanan sentiasa kepada\n\nsuri rumah berinsurans selagi suri rumah berinsurans itu gagal tanpa sebab yang\n\nmunasabah untuk hadir, apabila diarahkan oleh Pertubuhan, di hadapan\n\npenilai perubatan, atau Jemaah Doktor Rayuan sekiranya terdapat suatu rayuan,\n\nbagi perakuan darjah kehilangan upaya yang melayakkan suri rumah berinsurans itu bagi\n\nelaun layanan sentiasa.\n\n(5) Apabila diperakukan oleh penilai perubatan atau Jemaah Doktor Rayuan\n\ndi bawah subperaturan (4), Pertubuhan boleh meneruskan atau memberhentikan\n\nbayaran elaun layanan sentiasa itu.\n\nBab 4\n\nElaun keuzuran\n\nNotis keilatan\n\n13. (1) Seseorang suri rumah berinsurans yang menghidap keilatan\n\nboleh menuntut elaun keuzuran dengan mengemukakan suatu notis keilatan dalam\n\nBorang SR 6 Jadual kepada Pertubuhan.\n\n(2) Borang SR 6 Jadual yang disebut dalam subperaturan (1) hendaklah\n\ndisertakan dengan laporan perubatan daripada mana-mana pengamal perubatan\n\nberdaftar yang menerangkan keadaan keuzuran yang menyebabkan keilatan itu.\n\n(3) Pertubuhan hendaklah menolak suatu notis keilatan jika notis\n\nitu dikemukakan oleh seseorang suri rumah berinsurans, orang tanggungannya\n\natau mana-mana orang lain selepas suri rumah berinsurans telah mencapai umur\n\nlima puluh lima tahun.\n\n(4) Bagi maksud peraturan ini, \"pengamal perubatan berdaftar\"\n\nmempunyai erti yang diberikan kepadanya dalam Akta Perubatan 1971 [Akta 50].\n\nRujukan persoalan mengenai keilatan kepada penilai perubatan\n\n14. Apabila suatu notis keilatan diterima oleh Pertubuhan mengikut peraturan 13,\n\nPertubuhan hendaklah merujuk persoalan mengenai keilatan kepada penilai perubatan\n\nuntuk penentuan.\n\nPenentuan keilatan\n\n15. (1) Penilai perubatan hendaklah, selepas memeriksa seseorang suri rumah\n\nberinsurans yang menuntut elaun keuzuran, memberikan suatu penentuan keilatan\n\nkepada Pertubuhan dalam bentuk sebagaimana yang ditentukan oleh Pertubuhan.\n\n(2) Penentuan penilai perubatan di bawah subperaturan (1) hendaklah\n\ndimaklumkan oleh Pertubuhan secara bertulis kepada suri rumah berinsurans itu.\n\nPerakuan keilatan\n\n16. Jika keilatan telah diperakui wujud di bawah peraturan 15 dan hak suri rumah\n\nberinsurans kepada elaun keuzuran telah disahkan oleh penilai perubatan dengan\n\nmerujuk kepada rekod carumannya, Pertubuhan hendaklah memaklumkan perakuan\n\nkeilatan itu kepada suri rumah berinsurans secara bertulis dalam bentuk sebagaimana\n\nyang ditentukan oleh Pertubuhan.\n\nPihak berkuasa untuk memperakui keilatan\n\n17. Bagi maksud seksyen 33 Akta, pihak berkuasa yang layak untuk\n\nmemperakui keilatan ialah penilai perubatan, dan sekiranya terdapat suatu rayuan\n\ndibuat kepada Jemaah Doktor Rayuan terhadap penentuan penilai perubatan, pihak\n\nberkuasa yang layak untuk memperakui keilatan ialah Jemaah Doktor Rayuan.\n\nRujukan elaun keuzuran yang berikutnya kepada penilai perubatan\n\n18. (1) Jika suatu rujukan yang berikutnya dibuat oleh seseorang suri rumah\n\nberinsurans dalam suatu notis keilatan yang baharu selepas rujukan terdahulu itu\n\ndia ditentukan tidak menghidap keilatan, Pertubuhan boleh merujuk persoalan mengenai\n\nkeilatan yang berikutnya itu untuk suatu penentuan yang baharu oleh penilai perubatan\n\ndalam kawasan sama notis keilatan itu dikemukakan atau kawasan yang sama dengan\n\nrujukan yang pertama, sebagaimana yang ditentukan oleh Pertubuhan, bersama dengan\n\nlaporan perubatan terkini mengenai keadaan kesihatan semasa suri rumah berinsurans.\n\n(2) Suri rumah berinsurans hendaklah menggunakan semua prosedur yang\n\nada mengenai rujukan persoalan mengenai keilatan kepada penilai perubatan, atau\n\nJemaah Doktor Rayuan sekiranya terdapat suatu rayuan sebelum mengemukakan suatu\n\nnotis keilatan yang berikutnya di bawah peraturan ini.\n\nBab 5\n\nPencen penakat\n\nMelaporkan kematian suri rumah berinsurans yang sedang menerima\n\nelaun keuzuran\n\n19. Dalam hal seseorang suri rumah berinsurans yang sedang menerima elaun\n\nkeuzuran, atau jika dia belum mencapai umur lima puluh lima tahun tetapi dalam tempoh\n\npelindungan, mati atau jika seseorang suri rumah berinsurans mati disebabkan oleh\n\nbencana domestik yang dihidap dalam tempoh caruman, orang tanggungan atau\n\nmana-mana orang lain boleh, dengan serta merta melaporkan kematian itu kepada\n\nPertubuhan dalam tempoh tiga puluh hari dari tarikh kematian.\n\nPengemukaan tuntutan bagi pencen penakat\n\n20. (1) Suatu tuntutan bagi pencen penakat hendaklah dikemukakan kepada\n\nPertubuhan dalam Borang SR 6 Jadual oleh orang tanggungan yang berkenaan atau,\n\ndalam hal seorang orang tanggungan yang belum dewasa, oleh penjaganya di bawah\n\nmana-mana undang-undang yang berhubungan dengan penjagaan, jagaan atau\n\npengangkatan orang yang belum dewasa, atau jika tiada penjaga, oleh mana-mana orang\n\nlain yang boleh diluluskan oleh Pertubuhan.\n\n(2) Suatu tuntutan yang dikemukakan di bawah subperaturan (1) hendaklah\n\ndisokong dengan dokumen atau apa-apa keterangan lain yang membuktikan—\n\n(a) tarikh kematian suri rumah berinsurans;\n\n(b) bahawa orang yang menuntut ialah orang tanggungan yang berhak\n\nkepada pencen penakat di bawah Akta;\n\n(c) umur orang yang menuntut;\n\n(d) bahawa orang yang menuntut terencat mental atau tidak upaya\n\nsecara fizikal dan tidak berupaya menanggung dirinya sendiri,\n\njika berkenaan; dan\n\n(e) pelantikan sebagai penjaga kepada orang yang belum dewasa,\n\njika berkenaan.\n\n(3) Mana-mana daripada yang berikut boleh diterima sebagai bukti umur—\n\n(a) sijil kelahiran yang dikeluarkan oleh Pendaftar Kelahiran\n\ndan Kematian;\n\n(b) cabutan yang diperakukan daripada suatu rekod rasmi kelahiran\n\nyang menunjukkan tarikh dan tempat lahir dan nama bapa atau\n\nnama ibu atau kedua-duanya;\n\n(c) akuan berkanun yang berhubungan dengan tarikh lahir orang\n\nyang menuntut;\n\n(d) apa-apa keterangan lain yang boleh diterima oleh Pertubuhan\n\ndalam hal keadaan sesuatu itu.\n\n(4) Pertubuhan boleh mengetepikan satu atau lebih dokumen\n\nyang disebut dalam subperaturan (2) jika Pertubuhan berpuas hati—\n\n(a) bahawa orang yang menuntut telah bertindak dengan suci hati\n\nberhubung dengan tuntutan yang dikemukakan kepada\n\nPertubuhan; atau\n\n(b) tentang kebenaran apa-apa perkara yang berhubungan dengan\n\nbukti tuntutan itu.\n\n(5) Suatu perakuan perkahwinan, suatu akuan berkanun atau mana-mana\n\nketerangan lain boleh diterima oleh Pertubuhan sebagai bukti perkahwinan yang\n\ndilangsungkan sebelum tarikh Akta Membaharui Undang-Undang (Perkahwinan\n\ndan Perceraian) 1976 [Akta 164] mula berkuat kuasa.\n\nPengemukaan tuntutan pencen penakat oleh orang tanggungan lain\n\n21. (1) Jika terdapat apa-apa tuntutan bagi pencen penakat daripada orang\n\ntanggungan yang lain selepas bayaran tuntutan yang terdahulu itu dibuat,\n\nPertubuhan hendaklah hanya membayar pencen penakat kepada orang tanggungan yang\n\nlain itu pada bulan yang berikutnya dari tarikh Borang SR 6 Jadual diterima\n\noleh Pertubuhan.\n\n(2) Walau apa pun subperaturan (1), jika terdapat rayuan kepada Tribunal\n\ntentang kelayakan orang tanggungan yang lain yang disebut dalam subperaturan (1),\n\nPertubuhan boleh menggantung pembayaran itu sehingga perkara itu diputuskan oleh\n\nTribunal dan tarikh kelayakan orang tanggungan lain selepas tuntutan yang terdahulu itu\n\nhendaklah terakru dari tarikh keputusan Tribunal.\n\nKetidaklayakan pencen penakat disebabkan oleh ketidakdedahan, dsb.\n\n22. Jika mana-mana orang tanggungan tidak layak kepada pencen penakat\n\ndisebabkan oleh ketidakdedahan atau salah nyataan, suatu fakta material sama ada\n\nsecara fraud atau selainnya, bayaran bahagian pencen penakat yang dikaji semula kepada\n\norang tanggungan yang layak hendaklah terakru dari tarikh orang tanggungan yang tidak\n\nlayak itu ditentukan oleh Pertubuhan sebagai tidak layak kepada pencen penakat itu.\n\nKematian suri rumah berinsurans semasa sedang menerima elaun keuzuran\n\n23. Sekiranya elaun keuzuran telah dibayar oleh Pertubuhan kepada suri rumah\n\nberinsurans yang telah meninggal dunia, bayaran pencen penakat hendaklah bermula\n\npada bulan yang berikutnya selepas kematian suri rumah berinsurans itu atau pada bulan\n\nyang berikutnya selepas bayaran elaun keuzuran dihentikan, mengikut mana-mana yang\n\nterkemudian.\n\nPenggantungan pencen penakat\n\n24. (1) Pertubuhan boleh menggantung bayaran pencen penakat, tertakluk\n\nkepada syarat sebagaimana yang ditentukan oleh Pertubuhan, jika pada bila-bila masa\n\nPertubuhan berpuas hati bahawa—\n\n(a) seorang anak yang sedang menerima bahagian pencen penakat\n\ndiabaikan oleh penjaganya, yang bukan seorang penjaga yang\n\ndilantik di bawah mana-mana undang-undang berhubungan\n\ndengan penjagaan, jagaan atau pengangkatan anak yang berumur\n\ndi bawah lapan belas tahun; dan\n\n(b) bahagian pencen penakat anak itu tidak dibelanjakan dengan\n\nsepatutnya bagi kebajikannya oleh penjaganya.\n\n(2) Jika Pertubuhan memutuskan untuk menggantung bahagian pencen\n\npenakat anak itu di bawah subperaturan (1), Pertubuhan hendaklah menjalankan suatu\n\npenyiasatan mengenai penggantungan itu.\n\n(3) Apabila selesai penyiasatan, jika Ketua Pengarah berpuas hati bahawa—\n\n(a) penjaga anak itu tidak melakukan perbuatan di bawah\n\nperenggan 1(a) dan (b), bayaran pencen penakat yang digantung\n\nhendaklah dengan serta-merta diteruskan; atau\n\n(b) penjaga anak itu telah melakukan perbuatan di bawah\n\nperenggan 1(a) dan (b), Pertubuhan boleh melantik penjaga yang\n\nlain dan bayaran pencen penakat hendaklah dibayar kepada\n\npenjaga lain itu.\n\nBab 6\n\nFaedah pengurusan mayat\n\nTuntutan bagi faedah pengurusan mayat\n\n25. (1) Tuntutan bagi faedah pengurusan mayat boleh dibuat dalam Borang SR 6\n\nJadual bersama dengan sijil kematian atau apa-apa keterangan lain yang menyokong\n\ntuntutan itu.\n\n(2) Jika Pertubuhan berpuas hati bahawa—\n\n(a) mana-mana orang yang disebut dalam perenggan 29(1)(a), (b),\n\n(c) atau (d) Akta berhak kepada faedah pengurusan mayat,\n\nPertubuhan hendaklah membuat bayaran dua ribu ringgit\n\nselepas mengambil kira turutan orang di bawah subseksyen 29(1)\n\nAkta; atau\n\n(b) orang yang disebut dalam subseksyen 29(2) Akta berhak\n\nkepada faedah pengurusan mayat, Pertubuhan hendaklah membuat\n\nbayaran kepada orang itu berdasarkan perbelanjaan sebenar\n\npengurusan mayat yang ditanggung dibuktikan melalui dokumen\n\nyang disebut dalam subperaturan (1) tertakluk kepada amaun\n\nmaksimum dua ratus ringgit.\n\n(3) Keputusan Ketua Pengarah atau seorang pegawai yang diberi kuasa\n\nolehnya berhubung dengan bayaran faedah pengurusan mayat yang dibuat di bawah\n\nperaturan ini adalah muktamad.\n\nBAHAGIAN III\n\nKEMUDAHAN PEMULIHAN JASMANI DAN DIALISIS\n\nKemudahan pemulihan jasmani atau dialisis bagi suri rumah berinsurans\n\n26. Jika seseorang suri rumah berinsurans layak untuk diberikan kemudahan\n\npemulihan jasmani atau dialisis di bawah Akta atau mana-mana Akta lain yang ditadbir\n\noleh Pertubuhan disebabkan oleh hilang upaya kekal atau keilatan yang sama, sama ada\n\nbagi tempoh yang sama atau tidak, suri rumah berinsurans hanya layak kepada satu\n\nkemudahan pemulihan jasmani atau dialisis, mengikut mana-mana yang berkenaaan,\n\nmengenai hilang upaya kekal atau keilatan itu.\n\nAmaun dibelanjakan bagi pemulihan jasmani\n\n27. Jika amaun yang dibelanjakan bagi pemulihan jasmani seseorang\n\nsuri rumah berinsurans tidak mencapai amaun maksimum dalam satu tempoh caruman,\n\nbaki amaun yang tidak digunakan tidak boleh dibawa ke hadapan ke suatu tempoh\n\ncaruman yang baharu untuk hilang upaya kekal atau keilatan yang baharu.\n\nBAHAGIAN IV\n\nAM\n\nLaporan perubatan\n\n28. Suatu laporan perubatan di bawah Peraturan-Peraturan ini hendaklah termasuk\n\nbutir-butir yang berikut:\n\n(a) nama suri rumah berinsurans;\n\n(b) nombor kad pengenalan suri rumah berinsurans;\n\n(c) tarikh dan butir-butir kejadian atau kemalangan yang menyebabkan hilang\n\nupaya kekal suri rumah berinsurans itu atau tarikh dan butir-butir keadaan\n\nkeuzuran yang dihidap oleh suri rumah berinsurans itu yang\n\nmenyebabkan keilatannya;\n\n(d) butir-butir hilang upaya kekal suri rumah berinsurans atau butir-butir\n\nkeilatan suri rumah berinsurans itu;\n\n(e) tarikh pengeluaran laporan perubatan; dan\n\n(f) nama, jawatan, nombor pendaftaran Majlis Perubatan Malaysia atau\n\nMajlis Pergigian Malaysia dan tandatangan pegawai perubatan yang\n\nmengeluarkan laporan perubatan dan nama hospital atau klinik.\n\nTuntutan tidak lengkap\n\n29. Jika suatu tuntutan yang dibuat kepada Pertubuhan didapati tidak lengkap,\n\nPertubuhan boleh meminta orang yang menuntut atau mana-mana orang yang diberi\n\nkuasa oleh orang yang menuntut untuk melengkapkan tuntutan itu dalam tempoh\n\nsebagaimana yang ditentukan oleh Pertubuhan.\n\nKesahan dokumen\n\n30. Jika apa-apa persoalan dibangkitkan mengenai kesahan apa-apa dokumen\n\nyang berhubungan dengan apa-apa kecederaaan atau keilatan yang dikemukakan oleh\n\nseseorang suri rumah berinsurans, Pertubuhan boleh menghendaki suri rumah\n\nberinsurans itu untuk membenarkan dirinya diperiksa oleh mana-mana pegawai\n\nperubatan atau penilai perubatan yang dilantik oleh Pertubuhan.\n\nSyarat bagi bantuan kewangan bagi kegagalan ginjal tahap akhir\n\n31. (1) Seseorang suri rumah berinsurans boleh diberi bantuan kewangan\n\ndisebabkan oleh kegagalan ginjal tahap akhir tertakluk kepada syarat yang berikut:\n\n(a) seseorang suri rumah berinsurans telah mengemukakan notis\n\nkeilatan atau bencana domestik dalam Borang SR 6 Jadual yang\n\ntuntutan itu telah ditolak;\n\n(b) kegagalan ginjal tahap akhir telah diperakukan oleh penilai\n\nperubatan, atau Jemaah Doktor Rayuan sekiranya terdapat suatu\n\nrayuan, berlaku dalam tempoh caruman suri rumah berinsurans itu;\n\n(c) seseorang suri rumah berinsurans tidak menerima apa-apa\n\nkemudahan pemulihan jasmani atau dialisis yang lain mengenai\n\nkegagalan ginjal tahap akhir disebabkan oleh bencana domestik\n\natau keilatan; dan\n\n(d) seseorang suri rumah berinsurans terus membayar caruman\n\nbagi tempoh suri rumah berinsurans itu sedang menerima\n\nbantuan kewangan.\n\n(2) Bayaran bantuan kewangan boleh diberhentikan oleh Pertubuhan\n\nsekiranya suri rumah berinsurans tidak memenuhi syarat yang disebut dalam\n\nsubperaturan (1) semasa menerima bantuan kewangan itu dan bayaran bantuan\n\nkewangan akan diteruskan selepas syarat itu dipenuhi semula.\n\nAkuan oleh penerima faedah\n\n32. Tiap-tiap orang yang tuntutannya bagi bayaran berkala atau apa-apa bantuan\n\nkewangan yang telah diluluskan hendaklah, sekali dalam tiap-tiap dua belas bulan atau\n\npada apa-apa lat tempoh sebagaimana yang ditentukan oleh Pertubuhan, mengemukakan\n\nsuatu akuan dalam Borang SR 7 Jadual mengikut cara sebagaimana yang ditentukan\n\noleh Pertubuhan.\n\nJADUAL\n\nBORANG\n\nBil.\n\n(1)\n\nTajuk Borang\n\n(2)\n\nBorang\n\n1. Tuntutan Faedah Borang SR 6\n\n2. Akuan Status Tahunan Penerima Faedah Borang SR 7\n\nDibuat 9 Jun 2023\n\n[KSM/PUU(S)600-1/1/31/3; PN(PU2)765]\n\n SIVAKUMAR A/L VARATHARAJU NAIDU\n\n Menteri Sumber Manusia\n\nHOUSEWIVES' SOCIAL SECURITY ACT 2022\n\nHOUSEWIVES' SOCIAL SECURITY (BENEFITS, FACILITIES FOR PHYSICAL\n\nREHABILITATION AND DIALYSIS) REGULATIONS 2023\n\n__________________\n\nARRANGEMENT OF REGULATIONS\n\n__________________\n\nPART I\n\nPRELIMINARY\n\nRegulation\n\n1. Citation and commencement\n\n2. Interpretation\n\nPART II\n\nBENEFITS\n\nChapter 1\n\nClaim for benefits\n\n3. Claim for benefits\n\n4. Time for payment of benefits\n\n5. Calculation of benefits\n\nChapter 2\n\nPermanent disablement benefit\n\n6. Claim for permanent disablement benefit\n\n7. Reference to medical assessor\n\n8. Determination of permanent disablement for multiple injuries from\n\nsame incident or accident\n\n9. Insured housewife in receipt of permanent disablement benefit\n\nChapter 3\n\nConstant attendance allowance\n\nRegulation\n\n10. Date of accrual of constant attendance allowance\n\n11. Calculation of constant attendance allowance\n\n12. Suspension and discontinuation of constant attendance allowance\n\nChapter 4\n\nMorbid allowance\n\n13. Notice of invalidity\n\n14. Reference of question of invalidity to medical assessor\n\n15. Determination of invalidity\n\n16. Certification of invalidity\n\n17. Authority to certify invalidity\n\n18. Subsequent reference of morbid allowance to medical assessor\n\nChapter 5\n\nSurvivors' pension\n\n19. Reporting of death of insured housewife who is in receipt of morbid allowance\n\n20. Submission of claim for suvivors' pension\n\n21. Submission of claim for survivors' pension by other dependant\n\n22. Non-eligibility for survivors' pension due to non-disclosure, etc.\n\n23. Death of the insured housewife while in receipt of morbid allowance\n\n24. Suspension of survivors' pension\n\nChapter 6\n\nFuneral benefit\n\n25. Claim for funeral benefit\n\nPART III\n\nFACILITIES FOR PHYSICAL REHABILITATION AND DIALYSIS\n\nRegulation\n\n26. Facilities for physical rehabilitation or dialysis for insured housewife\n\n27. Amount expended on physical rehabilitation\n\nPART IV\n\nGENERAL\n\n28. Medical report\n\n29. Incomplete claim\n\n30. Validity of document\n\n31. Conditions for financial assistance for end stage renal failure\n\n32. Declaration by recipient of benefits\n\nSCHEDULE\n\nHOUSEWIVES' SOCIAL SECURITY ACT 2022\n\nHOUSEWIVES' SOCIAL SECURITY (BENEFITS, FACILITIES FOR PHYSICAL\n\nREHABILITATION AND DIALYSIS) REGULATIONS 2023\n\nIN exercise of the powers conferred by section 92 of the\n\nHousewives' Social Security Act 2022 [Act 838], the Minister makes the\n\nfollowing regulations:\n\nPART I\n\nPRELIMINARY\n\nCitation and commencement\n\n1. (1) These regulations may be cited as the Housewives' Social Security\n\n(Benefits, Facilities for Physical Rehabilitation and Dialysis) Regulations 2023.\n\n(2) These Regulations are deemed to have come into operation\n\non 1 December 2022.\n\nInterpretation\n\n2. In these Regulations—\n\n\"medical report\" means a medical report referred to in regulation 28;\n\n\"medical assessor\" means a medical assessor appointed under regulation 2\n\nof the Housewives' Social Security (Medical Assessor) Regulations 2023\n\n[P.U. (A) 201/2023].\n\nPART II\n\nBENEFITS\n\nChapter 1\n\nClaim for benefits\n\nClaim for benefits\n\n3. (1) Every claim for benefits shall be made by an insured housewife\n\nor her dependant, as the case may be, to the Organization in Form SR 6 of the Schedule.\n\n(2) Every claim for benefits—\n\n(a) in the case of domestic injury, shall be made within twelve months\n\nfrom the date the domestic injury occurred together with\n\na medical report or any other evidence in support of the domestic\n\ninjury; or\n\n(b) in the case of invalidity, shall be made within twenty-four months\n\nfrom the date the housewife becomes invalid together with a\n\nmedical report or any other evidence in support of the invalidity.\n\n(3) An insured housewife or her dependant, as the case may be,\n\nmay authorize any person to complete and furnish Form SR 6 of the Schedule referred\n\nto in subregulation (1) on her behalf subject to such terms and directions\n\nas the Organization deems necessary.\n\n(4) If the Organization is satisfied that the insured housewife or her dependant\n\nis unable to complete and furnish Form SR 6 of the Schedule due to any reason,\n\nthe Organization may provide assistance to the insured housewife or her dependant\n\nin completing the Form.\n\n(5) Where a claim for benefits has been made under subregulation (1)\n\nand it appears to the Organization that the claim should have been made for the benefits\n\nprovided under the Employees' Social Security Act 1969 [Act 4] or the Self-Employment\n\nSocial Security Act 2017 [Act 789], the claim may be deemed to have been made under\n\nand shall be subjected to both Acts, as the case may be.\n\n(6) Where a claim for benefits has been made under the Employees' Social\n\nSecurity Act 1969 or the Self-Employment Social Security Act 2017 and it appears to the\n\nOrganization that the claim has been dismissed as not an employment injury under\n\nthe Employees' Social Security Act 1969 or not a self-employment injury under\n\nthe Self-Employment Social Security Act 2017, the claim may be deemed to have been\n\nmade under this Act for the payment of any relevant benefits, if entitled.\n\nTime for payment of benefits\n\n4. (1) Upon receipt of the claim for benefits under subregulation 3(1),\n\nthe Organization shall—\n\n(a) in relation to permanent disablement benefit, make the payment of\n\nthe benefit not later than ninety days from the date an\n\ninsured housewife agrees to receive the determination of\n\nassessment for permanent disablement by a medical assessor, or\n\nthe Appellate Medical Board in the event of an appeal;\n\n(b) in relation to constant attendance allowance, make the payment\n\nof the benefit not later than ninety days from the date an\n\ninsured housewife agrees to receive the determination of\n\ndegree of incapacity as certified by a medical assessor, or\n\nthe Appellate Medical Board in the event of an appeal, qualifying the\n\ninsured housewife for the benefit under the Act;\n\n(c) in relation to funeral benefit, make the payment of the benefit\n\nnot later than fifteen days from the date the document is complete\n\nfor the claim with regard to the death of an insured housewife;\n\n(d) in relation to morbid allowance, make the payment of the allowance\n\nnot later than ninety days from the date of the determination of\n\ninvalidity by a medical assessor, or the Appellate Medical Board in\n\nthe event of an appeal, as suffering from invalidity; or\n\n(e) in relation to survivors' pension, make the payment of the benefit\n\nnot later than ninety days from the date of the document is complete\n\nfor the claim with regard to the death of an insured housewife.\n\n(2) Notwithstanding paragraphs 1(c) and (e), the payment for the funeral\n\nbenefit and survivors' pension shall only be made if the Organization is satisfied that the\n\nrelevant documents, information and particulars required by the Organization have been\n\nfurnished by the claimant.\n\n(3) The payment of benefits under subregulation (1) shall be made by cheque,\n\nwarrants, electronic fund transfer or any other mode of payment as the Organization\n\ndeems appropriate.\n\nCalculation of benefits\n\n5. The calculation of the benefit payable to an insured housewife shall be based on\n\nthe contribution paid for the contribution period during which the domestic injury\n\noccurred, or in the case of invalidity, for the coverage period during which the invalidity\n\nis certified by a medical assessor, or the Appellate Medical Board in the event of an appeal.\n\nChapter 2\n\nPermanent disablement benefit\n\nClaim for permanent disablement benefit\n\n6. (1) An insured housewife who claims for a permanent disablement benefit\n\nunder section 25 of the Act shall furnish to the Organization a medical report or any other\n\nevidence in support of the permanent disablement.\n\n(2) The Organization may accept any other evidence pertaining\n\nto the permanent disablement if in the opinion of the Organization the circumstances\n\nof any particular case so justify.\n\nReference to medical assessor\n\n7. Upon receipt of the claim for permanent disablement benefit in Form SR 6\n\nof the Schedule, the Organization shall refer the insured housewife for determination\n\nof the question of permanent disablement to a medical assessor.\n\nDetermination of permanent disablement for multiple injuries from same\n\nincident or accident\n\n8. (1) Where an insured housewife suffers two or more injuries from the same\n\nincident or accident, the determination of permanent disablement shall be assessed\n\nby a medical assessor, or the Appellate Medical Board in the event of an appeal, based on\n\nthe combination of the injuries.\n\n(2) The assessment made under subregulation (1) shall be final.\n\nInsured housewife in receipt of permanent disablement benefit\n\n9. An insured housewife who is in receipt of permanent disablement benefit\n\nshall not submit a claim for morbid allowance due to the same disablement within\n\nany coverage period of the insured housewife.\n\nChapter 3\n\nConstant attendance allowance\n\nDate of accrual of constant attendance allowance\n\n10. The date of accrual of a constant attendance allowance shall be on the date on\n\nwhich the degree of incapacity qualifying an insured housewife for the allowance is\n\ncertified by a medical assessor, or the Appellate Medical Board in the event of an appeal.\n\nCalculation of constant attendance allowance\n\n11. A constant attendance allowance shall be calculated on the basis of the daily rate\n\nfor a particular month based on the amount of two hundred and fifty ringgit per month.\n\nSuspension and discontinuation of constant attendance allowance\n\n12. (1) The Organization may suspend the payment of constant attendance\n\nallowance to an insured housewife for a period of not exceeding twelve months\n\nif the Organization has reasonable grounds to believe that—\n\n(a) the claim for the benefit was made by the insured housewife,\n\nher dependant or any other person without disclosing or by\n\nmisrepresenting, a material fact whether fraudulently or otherwise;\n\nor\n\n(b) the payment of the benefit is made due to non-disclosure or\n\nmisrepresentation of a material fact by the insured housewife or\n\nany person whether fraudulently or otherwise.\n\n(2) Where the Organization decides to suspend the constant attendance\n\nallowance received by the insured housewife under subregulation (1), the Organization\n\nshall conduct an investigation pertaining to the suspension.\n\n(3) Upon completion of the investigation, if the Director General is\n\nsatisfied that—\n\n(a) the insured housewife, her dependant or any other person\n\ndid not do the acts under subregulation (1), the suspended payment\n\nof a constant attendance allowance shall immediately be continued;\n\nor\n\n(b) the insured housewife, her dependant or any other person did the\n\nacts under subregulation (1), the payment of constant attendance\n\nallowance shall be discontinued.\n\n(4) The Organization may suspend the payment of constant attendance\n\nallowance to the insured housewife for so long as the insured housewife fails\n\nwithout reasonable cause to appear, when directed by the Organization, before\n\na medical assessor, or the Appellate Medical Board in the event of an appeal, for\n\na certification of the degree of incapacity qualifying the insured housewife for a constant\n\nattendance allowance.\n\n(5) Upon certification by a medical assessor or the Appellate Medical Board\n\nunder subregulation (4), the Organization may continue or discontinue the payment of\n\nthe constant attendance allowance.\n\nChapter 4\n\nMorbid allowance\n\nNotice of invalidity\n\n13. (1) An insured housewife who suffers from invalidity may claim for morbid\n\nallowance by submitting a notice of invalidity in Form SR 6 of the Schedule to\n\nthe Organization.\n\n(2) The Form SR 6 of the Schedule referred to in subregulation (1) shall be\n\naccompanied by a medical report from any registered medical practitioner explaining the\n\nmorbid condition giving rise to invalidity.\n\n(3) The Organization shall reject a notice of invalidity if the notice\n\nis submitted by an insured housewife, her dependant or any other person after\n\nthe insured housewife has attained the age of fifty-five years.\n\n(4) For the purposes of this regulation, \"registered medical practitioner\"\n\nhas the meaning assigned to it in the Medical Act 1971 [Act 50].\n\nReference of question of invalidity to medical assessor\n\n14. Upon receipt of a notice of invalidity by the Organization in accordance with\n\nregulation 13, the Organization shall refer the question of invalidity to a medical assessor\n\nfor determination.\n\nDetermination of invalidity\n\n15. (1) The medical assessor shall, after examining an insured housewife\n\nwho claims for morbid allowance, furnish a determination of invalidity\n\nto the Organization in the form as may be determined by the Organization.\n\n(2) The determination of the medical assessor under subregulation (1) shall be\n\ninformed in writing by the Organization to the insured housewife.\n\nCertification of invalidity\n\n16. Where invalidity has been certified to exist under regulation 15 and\n\nthe entitlement of the insured housewife to the morbid allowance has been verified\n\nby the medical assessor with reference to her contribution record, the Organization shall\n\ninform the insured housewife the certification of invalidity in writing in the form\n\nas may be determined by the Organization.\n\nAuthority to certify invalidity\n\n17. For the purposes of section 33 of the Act, the authority competent to certify\n\ninvalidity shall be a medical assessor, and in the event of an appeal is made to the\n\nAppellate Medical Board on the determination of a medical assessor, the authority\n\ncompetent to certify invalidity shall be the Appellate Medical Board.\n\nSubsequent reference of morbid allowance to medical assessor\n\n18. (1) If a subsequent reference is made by an insured housewife in a new notice\n\nof invalidity after the previous reference she is determined as not suffering from\n\ninvalidity, the Organization may refer the subsequent question of invalidity for a new\n\ndetermination of medical assessor in the same locality where the notice of invalidity is\n\nsubmitted or in the same locality as the first reference, as may be determined by the\n\nOrganization, together with the latest medical report pertaining to the current health\n\nconditions of the insured housewife.\n\n(2) The insured housewife shall exhaust all available procedures\n\npertaining to the referral of question of invalidity to the medical assessor, or the\n\nAppellate Medical Board in the event of an appeal before submitting a subsequent notice\n\nof invalidity under this regulation.\n\nChapter 5\n\nSurvivors' pension\n\nReporting of death of insured housewife who is in receipt of morbid allowance\n\n19. In the case of an insured housewife who is in receipt of morbid allowance,\n\nor if she has not attained fifty-five years of age but is within coverage period, dies or if an\n\ninsured housewife dies as a result of a domestic injury suffered within the contribution\n\nperiod, a dependant or any other person may, immediately report the death to the\n\nOrganization within thirty days from the date of death.\n\nSubmission of claim for survivors' pension\n\n20. (1) A claim for survivors' pension shall be submitted to the Organization\n\nin Form SR 6 of the Schedule by the dependant concerned or, in the case of a dependant\n\nwho is a minor, by his guardian under any law relating to guardianship, wardship or\n\nadoption of minors, or where there is no guardian, by any other person as the\n\nOrganization may approve.\n\n(2) A claim submitted under subregulation (1) shall be supported by\n\ndocuments or any other evidence proving—\n\n(a) the date of death of the insured housewife;\n\n(b) that the claimant is a dependant who is entitled to the survivors'\n\npension under the Act;\n\n(c) the age of the claimant;\n\n(d) that the claimant is mentally retarded or physically\n\nincapacitated and is incapable of supporting himself, if applicable;\n\nand\n\n(e) the appointment as a guardian to a minor, if applicable.\n\n(3) Any of the following may be accepted as proof of age—\n\n(a) a birth certificate issued by the Registrar of Births and Deaths;\n\n(b) a certified extract from an official record of births\n\nshowing the date and place of birth and the name of the father\n\nor the name of the mother or both;\n\n(c) a statutory declaration relating to the date of birth of the claimant;\n\n(d) any other evidence as may be acceptable to the Organization in the\n\ncircumstances of a particular case.\n\n(4) The Organization may dispense with one or more of the documents\n\nreferred to in subregulation (2) if the Organization is satisfied—\n\n(a) that the claimant has acted in good faith in relation to the claim\n\nsubmitted to the Organization; or\n\n(b) about the truth of any of the matters relating to the proof of\n\nthe claim.\n\n(5) A marriage certificate, a statutory declaration or any other evidence may\n\nbe acceptable by the Organization as a proof of marriage solemnized prior to the date the\n\nLaw Reform (Marriage and Divorce) Act 1976 [Act 164] comes into force.\n\nSubmission of claim for survivors' pension by other dependant\n\n21. (1) If there is any claim for survivors' pension from other dependant after\n\nthe payment of the previous claim is made, the Organization shall only pay the survivors'\n\npension to the other dependant on the following month from the date Form SR 6 of the\n\nSchedule is received by the Organization.\n\n(2) Notwithstanding subregulation (1), if there is an appeal to the Tribunal\n\non the eligibility of the other dependants referred to in subregulation (1),\n\nthe Organization may suspend the payment until the matter is resolved by\n\nthe Tribunal and the date of eligibility of such other dependants after the previous claim\n\nshall accrue from the date of the decision of the Tribunal.\n\nNon-eligibility for survivors' pension due to non-disclosure, etc.\n\n22. If any of the dependant is not eligible to survivors' pension due\n\nto non-disclosure or misrepresentation, of a material fact whether fraudulently\n\nor otherwise, the payment of the revised share of the survivors' pension to the eligible\n\ndependants shall accrue from the date the dependant who is not eligible is determined\n\nby the Organization to be not eligible for the survivors' pension.\n\nDeath of the insured housewife while in receipt of morbid allowance\n\n23. In the event the morbid allowance has been paid by the Organization to the\n\ninsured housewife who has died, the payment of survivors' pension shall start on the\n\nfollowing month after the death of the insured housewife or on the following month after\n\nthe payment of morbid allowance is discontinued, whichever is the later.\n\nSuspension of survivors' pension\n\n24. (1) The Organization may suspend the payment of survivors' pension,\n\nsubject to conditions as may be determined by the Organization, if at any time the\n\nOrganization is satisfied that—\n\n(a) a child who is in receipt of a share of the survivors' pension is being\n\nneglected by his guardian, not being a guardian appointed under\n\nany law relating to guardianship, wardship or adoption of a child\n\nwho is under eighteen years old; and\n\n(b) the child's share of survivors' pension is not being properly spent\n\nfor his welfare by his guardian.\n\n(2) If the Organization decides to suspend the share of the survivors' pension\n\nof the child under subregulation (1), the Organization shall conduct an investigation\n\npertaining to the suspension.\n\n(3) Upon completion of the investigation, if the Director General\n\nis satisfied that—\n\n(a) the guardian did not do the acts under paragraphs 1(a)\n\nand (b), the suspended payment of survivors' pension shall\n\nimmediately be continued; or\n\n(b) the guardian did the acts under paragraph 1(a) and (b),\n\nthe Organization may appoint other guardian and the payment of\n\nsurvivors' pension shall be paid to the other guardian.\n\nChapter 6\n\nFuneral benefit\n\nClaim for funeral benefit\n\n25. (1) A claim for a funeral benefit may be made in Form SR 6 of the Schedule\n\ntogether with a death certificate or any other evidence in support of the claim.\n\n(2) Where the Organization is satisfied that—\n\n(a) any person referred to in paragraph 29(1)(a), (b), (c) or (d)\n\nof the Act is entitled to the funeral benefit, the Organization shall\n\nmake the payment of two thousand ringgit after taking into\n\nconsideration the sequence of persons under subsection 29(1)\n\nof the Act; or\n\n(b) the person referred to in subsection 29(2) of the Act is entitled\n\nto the funeral benefit, the Organization shall make the payment\n\nto such person based on the actual expenditure of the funeral\n\nincurred proven by the document referred to in subregulation (1)\n\nsubject to a maximum amount of two hundred ringgit.\n\n(3) The decision of the Director General or that of an officer authorized by him\n\nin relation to the payment of funeral benefit made under this regulation shall be final.\n\nPART III\n\nFACILITIES FOR PHYSICAL REHABILITATION AND DIALYSIS\n\nFacilities for physical rehabilitation or dialysis for insured housewife\n\n26. If an insured housewife is entitled to be provided with facilities for physical\n\nrehabilitation or dialysis under the Act or any other Acts administered\n\nby the Organization due to the same permanent disablement or invalidity, whether for\n\nthe same period or not, the insured housewife is entitled to only one facility for physical\n\nrehabilitation or dialysis, as the case may be, pertaining to the permanent disablement\n\nor invalidity.\n\nAmount expended on physical rehabilitation\n\n27. If the amount expended for physical rehabilitation of an insured housewife\n\ndoes not reach the maximum amount in one contribution period, the balance amount\n\nwhich has not been used shall not be carried forward to a new contribution period\n\nfor a new permanent disablement or invalidity.\n\nPART IV\n\nGENERAL\n\nMedical report\n\n28. A medical report under these Regulations shall include the following particulars:\n\n(a) the name of the insured housewife;\n\n(b) the identity card number of the insured housewife;\n\n(c) the date and particulars of incident or accident causing the permanent\n\ndisablement of the insured housewife or the date and particulars of the\n\nmorbid condition suffered by the insured housewife which caused\n\nher invalidity;\n\n(d) the particulars of permanent disablement of the insured housewife or the\n\nparticulars of the invalidity of the insured housewife;\n\n(e) the date of issuance of the medical report; and\n\n(f) the name, designation, registration number of the Malaysian Medical\n\nCouncil or the Malaysian Dental Council and signature of the\n\nmedical officer who issued the medical report and the name of the hospital\n\nor clinic.\n\nIncomplete claim\n\n29. Where a claim made to the Organization appears to be incomplete,\n\nthe Organization may request the claimant or any person authorized by the claimant\n\nto complete the claim within a period as may be determined by the Organization.\n\nValidity of document\n\n30. Where any question arises as to the validity of any document relating to any injury\n\nor invalidity submitted by an insured housewife, the Organization may require the\n\ninsured housewife to submit herself to be examined by any medical officer or medical\n\nassessor appointed by the Organization.\n\nConditions for financial assistance for end stage renal failure\n\n31. (1) An insured housewife may be provided with financial assistance due to end\n\nstage renal failure subject to the following conditions:\n\n(a) an insured housewife has submitted a notice of invalidity or\n\ndomestic injury in Form SR 6 of the Schedule whereby the claim\n\nhas been dismissed;\n\n(b) end stage renal failure has been certified by medical assessor,\n\nor Appellate Medical Board in the event of an appeal, to occur\n\nwithin the contribution period of the insured housewife;\n\n(c) an insured housewife did not receive any other facilities for physical\n\nrehabilitation or dialysis pertaining to end stage renal failure due to\n\ndomestic injury or invalidity; and\n\n(d) an insured housewife continues to pay contribution for the period\n\nthe insured housewife is in receipt of the financial assistance.\n\n(2) The payment for financial assistance may be discontinued by the\n\nOrganization if the insured housewife does not fulfill the conditions referred to in\n\nsubregulation (1) while in receipt of such financial assistance and the payment for\n\nfinancial assistance will continue after the conditions are fulfilled.\n\nDeclaration by recipient of benefits\n\n32. Every person whose claims for periodical payment or any financial assistance\n\nwhich has been approved shall, once in every twelve months or at such intervals as may\n\nbe determined by the Organization, submit a declaration in Form SR 7 of the Schedule in\n\nthe manner as may be determined by the Organization.\n\nSCHEDULE\n\nFORM\n\nNo.\n\n(1)\n\nTitle of Form\n\n(2)\n\nForm\n\n1. Claim for Benefits Form SR 6\n\n2. Yearly Status Declaration by Recipient\n\nof Benefits\n\nForm SR 7\n\nMade 9 June 2023\n\n[KSM/PUU(S)600-1/1/31/3; PN(PU2)765]\n\n SIVAKUMAR A/L VARATHARAJU NAIDU\n\n Minister of Human Resources"
+   }
+  }
+ ]
+}

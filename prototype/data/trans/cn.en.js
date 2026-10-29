@@ -1,14 +1,14 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn
-   法规 26 部 / 译文 3039 条
-   由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
+   法规 46 部 / 译文 3635 条
+   由 _work/trans/cn-en/_pia_ingest.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
   'use strict';
   var TR = root.CALR_TRANS = root.CALR_TRANS || {};
 
-  TR['CN-ARBITRATION-2017'] = {
+  TR["CN-ARBITRATION-2017"] = {
     "lawId": "CN-ARBITRATION-2017",
     "sourceLang": "zh",
     "targetLang": "en",
@@ -983,7 +983,7 @@
     ]
   };
 
-  TR['CN-ARBITRATION-2025'] = {
+  TR["CN-ARBITRATION-2025"] = {
     "lawId": "CN-ARBITRATION-2025",
     "sourceLang": "zh",
     "targetLang": "en",
@@ -2150,7 +2150,7 @@
     ]
   };
 
-  TR['CN-BUSINESS-ENV-2019'] = {
+  TR["CN-BUSINESS-ENV-2019"] = {
     "lawId": "CN-BUSINESS-ENV-2019",
     "sourceLang": "zh",
     "targetLang": "en",
@@ -3029,7 +3029,7 @@
     ]
   };
 
-  TR['CN-CIVILCODE-2020'] = {
+  TR["CN-CIVILCODE-2020"] = {
     "lawId": "CN-CIVILCODE-2020",
     "sourceLang": "zh",
     "targetLang": "en",
@@ -18164,7 +18164,7 @@
     ]
   };
 
-  TR['CN-COMPANY-2023'] = {
+  TR["CN-COMPANY-2023"] = {
     "lawId": "CN-COMPANY-2023",
     "sourceLang": "zh",
     "targetLang": "en",
@@ -21371,7 +21371,7 @@
     ]
   };
 
-  TR['CN-COPYRIGHT-2020'] = {
+  TR["CN-COPYRIGHT-2020"] = {
     "lawId": "CN-COPYRIGHT-2020",
     "sourceLang": "zh",
     "targetLang": "en",
@@ -22190,7 +22190,7 @@
     ]
   };
 
-  TR['CN-DATA-2021'] = {
+  TR["CN-DATA-2021"] = {
     "lawId": "CN-DATA-2021",
     "sourceLang": "zh",
     "targetLang": "en",
@@ -22865,7 +22865,7 @@
     ]
   };
 
-  TR['CN-DATA-EXPORT-2022'] = {
+  TR["CN-DATA-EXPORT-2022"] = {
     "lawId": "CN-DATA-EXPORT-2022",
     "sourceLang": "zh",
     "targetLang": "en",
@@ -23060,7 +23060,7 @@
     ]
   };
 
-  TR['CN-EIT-2018'] = {
+  TR["CN-EIT-2018"] = {
     "lawId": "CN-EIT-2018",
     "sourceLang": "zh",
     "targetLang": "en",
@@ -23795,7 +23795,7 @@
     ]
   };
 
-  TR['CN-FIL-2019'] = {
+  TR["CN-FIL-2019"] = {
     "lawId": "CN-FIL-2019",
     "sourceLang": "zh",
     "targetLang": "en",
@@ -24314,7 +24314,7 @@
     ]
   };
 
-  TR['CN-FIL-REG-2019'] = {
+  TR["CN-FIL-REG-2019"] = {
     "lawId": "CN-FIL-REG-2019",
     "sourceLang": "zh",
     "targetLang": "en",
@@ -24917,7 +24917,7 @@
     ]
   };
 
-  TR['CN-FOREIGN-TRADE-2022'] = {
+  TR["CN-FOREIGN-TRADE-2022"] = {
     "lawId": "CN-FOREIGN-TRADE-2022",
     "sourceLang": "zh",
     "targetLang": "en",
@@ -25760,7 +25760,7 @@
     ]
   };
 
-  TR['CN-FOREIGN-TRADE-2025'] = {
+  TR["CN-FOREIGN-TRADE-2025"] = {
     "lawId": "CN-FOREIGN-TRADE-2025",
     "sourceLang": "zh",
     "targetLang": "en",
@@ -26771,7 +26771,7 @@
     ]
   };
 
-  TR['CN-HAINAN-FTP-2021'] = {
+  TR["CN-HAINAN-FTP-2021"] = {
     "lawId": "CN-HAINAN-FTP-2021",
     "sourceLang": "zh",
     "targetLang": "en",
@@ -27470,7 +27470,7 @@
     ]
   };
 
-  TR['CN-LABOR-DISPUTE-2007'] = {
+  TR["CN-LABOR-DISPUTE-2007"] = {
     "lawId": "CN-LABOR-DISPUTE-2007",
     "sourceLang": "zh",
     "targetLang": "en",
@@ -28133,7 +28133,7 @@
     ]
   };
 
-  TR['CN-LABORCONTRACT-2007'] = {
+  TR["CN-LABORCONTRACT-2007"] = {
     "lawId": "CN-LABORCONTRACT-2007",
     "sourceLang": "zh",
     "targetLang": "en",
@@ -29324,7 +29324,7 @@
     ]
   };
 
-  TR['CN-LAW-APPLICATION-2010'] = {
+  TR["CN-LAW-APPLICATION-2010"] = {
     "lawId": "CN-LAW-APPLICATION-2010",
     "sourceLang": "zh",
     "targetLang": "en",
@@ -29963,7 +29963,7 @@
     ]
   };
 
-  TR['CN-LAW-APPLICATION-J2-2023'] = {
+  TR["CN-LAW-APPLICATION-J2-2023"] = {
     "lawId": "CN-LAW-APPLICATION-J2-2023",
     "sourceLang": "zh",
     "targetLang": "en",
@@ -30095,7 +30095,7 @@
     ]
   };
 
-  TR['CN-MARKET-REG-2021'] = {
+  TR["CN-MARKET-REG-2021"] = {
     "lawId": "CN-MARKET-REG-2021",
     "sourceLang": "zh",
     "targetLang": "en",
@@ -30770,7 +30770,7 @@
     ]
   };
 
-  TR['CN-NETDATA-2024'] = {
+  TR["CN-NETDATA-2024"] = {
     "lawId": "CN-NETDATA-2024",
     "sourceLang": "zh",
     "targetLang": "en",
@@ -31553,7 +31553,7 @@
     ]
   };
 
-  TR['CN-PATENT-2020'] = {
+  TR["CN-PATENT-2020"] = {
     "lawId": "CN-PATENT-2020",
     "sourceLang": "zh",
     "targetLang": "en",
@@ -32552,7 +32552,6763 @@
     ]
   };
 
-  TR['CN-PIPL-2021'] = {
+  TR["CN-PIA-001"] = {
+    "lawId": "CN-PIA-001",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-27",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 74 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is enacted in accordance with the Constitution in order to protect rights and interests in personal information, regulate personal information processing activities and promote the reasonable use of personal information."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The personal information of natural persons is protected by law, and no organisation or individual may infringe upon the rights and interests of natural persons in their personal information."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "This Law applies to activities of processing the personal information of natural persons within the territory of the People's Republic of China.\nThis Law also applies to activities of processing, outside the territory of the People's Republic of China, the personal information of natural persons within the territory of the People's Republic of China where any of the following circumstances is present:\n(1) the purpose is to provide products or services to natural persons within the territory;\n(2) the behaviour of natural persons within the territory is analysed or assessed;\n(3) other circumstances provided for by laws or administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Personal information means various types of information relating to an identified or identifiable natural person recorded in electronic or other form, excluding information after anonymisation processing.\nThe processing of personal information includes the collection, storage, use, processing, transmission, provision, disclosure and deletion of personal information, among others."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The processing of personal information shall follow the principles of lawfulness, propriety, necessity and good faith, and personal information shall not be processed by means of misleading, fraud, coercion or the like."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The processing of personal information shall have a clear and reasonable purpose, shall be directly related to the purpose of processing, and shall adopt a method that has the least impact on the rights and interests of individuals.\nThe collection of personal information shall be limited to the minimum scope necessary to achieve the purpose of processing, and personal information shall not be collected excessively."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The processing of personal information shall follow the principles of openness and transparency, the rules for the processing of personal information shall be disclosed, and the purpose, method and scope of processing shall be expressly indicated."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The processing of personal information shall ensure the quality of the personal information, so as to avoid adverse effects on the rights and interests of individuals arising from inaccurate or incomplete personal information."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Personal information processors shall be responsible for their personal information processing activities and shall adopt necessary measures to safeguard the security of the personal information processed."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "No organisation or individual may unlawfully collect, use, process or transmit the personal information of others, nor unlawfully buy or sell, provide or disclose the personal information of others; no organisation or individual may engage in personal information processing activities that endanger national security or the public interests."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The State establishes and improves the personal information protection system, prevents and punishes acts infringing upon rights and interests in personal information, strengthens publicity and education on personal information protection, and promotes the formation of a sound environment in which the government, enterprises, the relevant social organisations and the public jointly participate in personal information protection."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The State actively participates in the formulation of international rules on personal information protection, promotes international exchanges and cooperation in the field of personal information protection, and advances mutual recognition of rules, standards and the like on personal information protection with other countries, regions and international organisations.\nChapter II Rules for the Processing of Personal Information\nSection 1 General Provisions"
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "A personal information processor may process personal information only where any of the following circumstances is present:\n(1) the consent of the individual has been obtained;\n(2) it is necessary for the conclusion or performance of a contract to which the individual is a party, or it is necessary for the implementation of human resources management in accordance with the labour rules and regulations formulated in accordance with law and the collective contracts concluded in accordance with law;\n(3) it is necessary for the performance of statutory duties or statutory obligations;\n(4) it is necessary for responding to a public health emergency, or for protecting the life, health and property safety of natural persons in an emergency;\n(5) personal information is processed within a reasonable scope for the purpose of carrying out news reporting, public opinion supervision and the like in the public interest;\n(6) personal information that has been disclosed by the individual himself or otherwise lawfully disclosed is processed within a reasonable scope in accordance with the provisions of this Law;\n(7) other circumstances provided for by laws or administrative regulations.\nWhere the processing of personal information is required by other relevant provisions of this Law to obtain the consent of the individual, the consent of the individual need not be obtained if any of the circumstances in Items (2) to (7) of the preceding paragraph is present."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Where personal information is processed on the basis of the consent of the individual, that consent shall be given voluntarily and explicitly by the individual on the premise of full knowledge. Where laws or administrative regulations provide that the processing of personal information shall obtain the separate consent or the written consent of the individual, those provisions shall prevail.\nWhere the purpose or method of the processing of personal information, or the categories of personal information processed, changes, the consent of the individual shall be obtained anew."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where personal information is processed on the basis of the consent of the individual, the individual has the right to withdraw his consent. Personal information processors shall provide a convenient way to withdraw consent.\nThe withdrawal of consent by the individual does not affect the validity of the personal information processing activities carried out on the basis of the consent before its withdrawal."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "A personal information processor may not refuse to provide products or services on the ground that the individual does not consent to the processing of his personal information or withdraws his consent, unless the processing of personal information is necessary for the provision of the products or services."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Before processing personal information, a personal information processor shall, in a conspicuous manner and in clear and easily understandable language, truthfully, accurately and completely inform the individual of the following matters:\n(1) the name or appellation and contact details of the personal information processor;\n(2) the purpose and method of the processing of personal information, and the categories of personal information processed and the retention period;\n(3) the manner and procedure for the individual to exercise the rights provided for in this Law;\n(4) other matters of which the individual shall be informed as provided for by laws or administrative regulations.\nWhere the matters provided for in the preceding paragraph change, the individual shall be informed of the changed part.\nWhere a personal information processor informs the individual of the matters provided for in paragraph 1 by formulating rules for the processing of personal information, the processing rules shall be made public and shall be convenient to consult and retain."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where, in the processing of personal information by a personal information processor, there is a circumstance in which confidentiality is required or notification is not necessary as provided for by laws or administrative regulations, the processor need not inform the individual of the matters provided for in paragraph 1 of the preceding Article.\nWhere, in an emergency, it is impossible to inform the individual in a timely manner for the purpose of protecting the life, health and property safety of natural persons, the personal information processor shall inform the individual promptly after the emergency is eliminated."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Unless otherwise provided for by laws or administrative regulations, the retention period of personal information shall be the shortest period necessary to achieve the purpose of processing."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where two or more personal information processors jointly decide the purpose and method of the processing of personal information, they shall agree on their respective rights and obligations. However, such agreement does not affect a request by the individual to any one of the personal information processors for the exercise of the rights provided for in this Law.\nWhere personal information processors jointly process personal information and cause damage by infringing upon rights and interests in personal information, they shall bear joint and several liability in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where a personal information processor entrusts another party with the processing of personal information, it shall agree with the entrusted party on the purpose, period and method of the entrusted processing, the categories of personal information, the protection measures, and the rights and obligations of both parties, among others, and shall supervise the personal information processing activities of the entrusted party.\nThe entrusted party shall process personal information in accordance with the agreement and may not process personal information beyond the agreed purpose, method or other matters of processing; where the entrustment contract does not take effect, is invalid, is revoked or is terminated, the entrusted party shall return the personal information to the personal information processor or delete it, and may not retain it.\nWithout the consent of the personal information processor, the entrusted party may not sub-entrust another party with the processing of personal information."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Where a personal information processor needs to transfer personal information due to merger, division, dissolution, declaration of bankruptcy or other reasons, it shall inform the individual of the name or appellation and contact details of the recipient. The recipient shall continue to perform the obligations of the personal information processor. Where the recipient changes the original purpose or method of processing, it shall obtain the consent of the individual anew in accordance with the provisions of this Law."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where a personal information processor provides the personal information it processes to another personal information processor, it shall inform the individual of the name or appellation and contact details of the recipient, the purpose and method of processing and the categories of personal information, and shall obtain the separate consent of the individual. The recipient shall process personal information within the scope of the aforesaid purpose and method of processing and categories of personal information. Where the recipient changes the original purpose or method of processing, it shall obtain the consent of the individual anew in accordance with the provisions of this Law."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where a personal information processor uses personal information to make automated decisions, it shall ensure the transparency of the decisions and the fairness and equity of the results, and may not apply unreasonable differential treatment to individuals in respect of transaction conditions such as transaction prices.\nWhere information is pushed to individuals or commercial marketing is carried out by means of automated decision-making, options not targeting the personal characteristics of the individual shall be provided at the same time, or a convenient way of refusal shall be provided to the individual.\nWhere a decision that has a major impact on the rights and interests of an individual is made by means of automated decision-making, the individual has the right to request the personal information processor to give an explanation, and has the right to refuse a decision made by the personal information processor solely by means of automated decision-making."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "A personal information processor may not disclose the personal information it processes, unless the separate consent of the individual has been obtained."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The installation of image collection and personal identity recognition equipment in public venues shall be necessary for safeguarding public security, shall comply with the relevant provisions of the State, and shall be accompanied by conspicuous notices. The personal images and identity recognition information collected may only be used for the purpose of safeguarding public security and may not be used for other purposes, unless the separate consent of the individual has been obtained."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "A personal information processor may, within a reasonable scope, process personal information that has been disclosed by the individual himself or otherwise lawfully disclosed, unless the individual explicitly refuses. Where a personal information processor processes personal information that has already been disclosed and such processing has a major impact on the rights and interests of the individual, it shall obtain the consent of the individual in accordance with the provisions of this Law.\nSection 2 Rules for the Processing of Sensitive Personal Information"
+        },
+        "noLabel": {
+          "en": "Article 27."
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Sensitive personal information means personal information which, once leaked or unlawfully used, is likely to cause infringement upon the personal dignity of a natural person or endanger the safety of his person or property, including information such as biometric identification, religious belief, specific identity, medical health, financial accounts and whereabouts and tracks, as well as the personal information of minors under the age of 14.\nA personal information processor may process sensitive personal information only where there is a specific purpose and sufficient necessity and strict protection measures have been taken."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The processing of sensitive personal information shall obtain the separate consent of the individual; where laws or administrative regulations provide that the processing of sensitive personal information shall obtain written consent, those provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where a personal information processor processes sensitive personal information, it shall, in addition to the matters provided for in paragraph 1 of Article 17 of this Law, inform the individual of the necessity of processing the sensitive personal information and the impact on the rights and interests of the individual, unless it is permitted not to inform the individual in accordance with the provisions of this Law."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where a personal information processor processes the personal information of minors under the age of 14, it shall obtain the consent of the parents or other guardians of the minors.\nWhere a personal information processor processes the personal information of minors under the age of 14, it shall formulate special rules for the processing of personal information."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Where laws or administrative regulations provide that the processing of sensitive personal information shall obtain the relevant administrative licence or be subject to other restrictions, those provisions shall prevail.\nSection 3 Special Provisions on the Processing of Personal Information by State Organs"
+        },
+        "noLabel": {
+          "en": "Article 32."
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "This Law applies to the processing of personal information by State organs; where this Section contains special provisions, the provisions of this Section shall apply."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Where State organs process personal information for the performance of their statutory duties, they shall do so in accordance with the powers and procedures provided for by laws and administrative regulations, and may not exceed the scope and limits necessary for the performance of their statutory duties."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Where State organs process personal information for the performance of their statutory duties, they shall perform the obligation to inform in accordance with the provisions of this Law, unless a circumstance provided for in paragraph 1 of Article 18 of this Law is present or the informing would impede the State organs in performing their statutory duties."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Personal information processed by State organs shall be stored within the territory of the People's Republic of China; where it is truly necessary to provide it to an overseas party, a security assessment shall be carried out. In a security assessment, the relevant departments may be requested to provide support and assistance."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The provisions of this Law on the processing of personal information by State organs apply to the processing of personal information by organisations with the function of administering public affairs as authorised by laws and regulations for the performance of their statutory duties.\nChapter III Rules for the Provision of Personal Information Abroad"
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter III"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where a personal information processor truly needs to provide personal information to a party outside the territory of the People's Republic of China due to business or other needs, it shall satisfy one of the following conditions:\n(1) it has passed the security assessment organised by the national cyberspace administration in accordance with the provisions of Article 40 of this Law;\n(2) it has undergone personal information protection certification by a professional institution in accordance with the provisions of the national cyberspace administration;\n(3) it has concluded a contract with the overseas recipient in accordance with the standard contract formulated by the national cyberspace administration, agreeing on the rights and obligations of both parties;\n(4) other conditions provided for by laws, administrative regulations or the national cyberspace administration.\nWhere international treaties or agreements concluded or acceded to by the People's Republic of China contain provisions on the conditions for providing personal information to a party outside the territory of the People's Republic of China and the like, those provisions may be applied.\nPersonal information processors shall adopt necessary measures to ensure that the activities of processing personal information by the overseas recipient reach the personal information protection standards provided for in this Law."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter III"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where a personal information processor provides personal information to a party outside the territory of the People's Republic of China, it shall inform the individual of the name or appellation and contact details of the overseas recipient, the purpose and method of processing, the categories of personal information, and the manner and procedure for the individual to exercise with the overseas recipient the rights provided for in this Law, among other matters, and shall obtain the separate consent of the individual."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter III"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Operators of critical information infrastructure and personal information processors that process personal information up to the quantity prescribed by the national cyberspace administration shall store within the territory the personal information collected and generated within the territory of the People's Republic of China. Where it is truly necessary to provide such information to an overseas party, they shall pass the security assessment organised by the national cyberspace administration; where laws, administrative regulations or the national cyberspace administration provide that a security assessment is not required, those provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter III"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The competent authorities of the People's Republic of China shall handle requests from foreign judicial or law enforcement authorities for the provision of personal information stored within the territory in accordance with the relevant laws and with the international treaties and agreements concluded or acceded to by the People's Republic of China, or in accordance with the principle of equality and mutual benefit. Without the approval of the competent authorities of the People's Republic of China, personal information processors may not provide personal information stored within the territory of the People's Republic of China to foreign judicial or law enforcement authorities."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter III"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where an organisation or individual outside the territory engages in personal information processing activities that infringe upon the rights and interests in personal information of citizens of the People's Republic of China, or that endanger the national security or public interests of the People's Republic of China, the national cyberspace administration may place it on a list of entities to which the provision of personal information is restricted or prohibited, make the list public, and take measures such as restricting or prohibiting the provision of personal information to it."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter III"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where any country or region adopts discriminatory prohibitions, restrictions or other similar measures against the People's Republic of China in respect of personal information protection, the People's Republic of China may, in light of the actual circumstances, take corresponding measures against that country or region.\nChapter IV Rights of Individuals in Personal Information Processing Activities"
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter IV"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "An individual has the right to be informed of and to decide on the processing of his personal information, and has the right to restrict or refuse the processing of his personal information by others, unless otherwise provided for by laws or administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter IV"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "An individual has the right to consult and copy his personal information from a personal information processor, unless a circumstance provided for in paragraph 1 of Article 18 or in Article 35 of this Law is present.\nWhere an individual requests to consult or copy his personal information, the personal information processor shall provide it promptly.\nWhere an individual requests the transfer of his personal information to a personal information processor designated by him and the conditions prescribed by the national cyberspace administration are satisfied, the personal information processor shall provide the channel for the transfer."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter IV"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where an individual discovers that his personal information is inaccurate or incomplete, he has the right to request the personal information processor to correct or supplement it.\nWhere an individual requests the correction or supplementation of his personal information, the personal information processor shall verify his personal information and correct or supplement it promptly."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter IV"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where any of the following circumstances is present, the personal information processor shall proactively delete the personal information; where the personal information processor fails to delete it, the individual has the right to request deletion:\n(1) the purpose of processing has been achieved or cannot be achieved, or the processing is no longer necessary for achieving the purpose of processing;\n(2) the personal information processor ceases to provide products or services, or the retention period has expired;\n(3) the individual withdraws his consent;\n(4) the personal information processor processes personal information in violation of laws or administrative regulations or in breach of agreement;\n(5) other circumstances provided for by laws or administrative regulations.\nWhere the retention period provided for by laws or administrative regulations has not expired, or the deletion of personal information is technically difficult to achieve, the personal information processor shall cease processing other than storage and the adoption of necessary security protection measures."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter IV"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "An individual has the right to request a personal information processor to explain the rules for the processing of his personal information."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter IV"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where a natural person dies, his close relatives may, for the sake of their own lawful and proper interests, exercise against the relevant personal information of the deceased the rights provided for in this Chapter, such as consultation, copying, correction and deletion, unless the deceased arranged otherwise during his lifetime."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter IV"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "A personal information processor shall establish a convenient mechanism for accepting and handling applications for the exercise of rights by individuals. Where a request by an individual to exercise his rights is refused, the reasons shall be explained.\nWhere a personal information processor refuses a request by an individual to exercise his rights, the individual may bring a lawsuit before a people's court in accordance with law.\nChapter V Obligations of Personal Information Processors"
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter V"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "A personal information processor shall, in light of the purpose and method of the processing of personal information, the categories of personal information, the impact on the rights and interests of individuals and the possible security risks, among others, adopt the following measures to ensure that personal information processing activities comply with the provisions of laws and administrative regulations and to prevent unauthorised access as well as the leakage, tampering and loss of personal information:\n(1) formulating internal management systems and operating procedures;\n(2) implementing classified management of personal information;\n(3) adopting the corresponding security technical measures such as encryption and de-identification;\n(4) reasonably determining the operational authority for the processing of personal information and conducting security education and training for employees on a regular basis;\n(5) formulating and organising the implementation of emergency plans for personal information security incidents;\n(6) other measures provided for by laws or administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter V"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Personal information processors that process personal information up to the quantity prescribed by the national cyberspace administration shall designate a person in charge of personal information protection, who shall be responsible for supervising the personal information processing activities and the protection measures adopted, among others.\nA personal information processor shall make public the contact details of the person in charge of personal information protection, and shall report the name and contact details of the person in charge of personal information protection to the department performing personal information protection duties."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter V"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "A personal information processor outside the territory of the People's Republic of China as provided for in paragraph 2 of Article 3 of this Law shall establish a special institution or designate a representative within the territory of the People's Republic of China to be responsible for handling matters relating to personal information protection, and shall report the name of the relevant institution or the name and contact details of the representative to the department performing personal information protection duties."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter V"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "A personal information processor shall, on a regular basis, conduct a compliance audit as to whether its processing of personal information complies with laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter V"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where any of the following circumstances is present, the personal information processor shall conduct a personal information protection impact assessment in advance and keep records of the processing:\n(1) processing sensitive personal information;\n(2) using personal information to make automated decisions;\n(3) entrusting the processing of personal information, providing personal information to another personal information processor, or disclosing personal information;\n(4) providing personal information to an overseas party;\n(5) other personal information processing activities that have a major impact on the rights and interests of individuals."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter V"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "A personal information protection impact assessment shall include the following:\n(1) whether the purpose and method of the processing of personal information, among others, are lawful, proper and necessary;\n(2) the impact on the rights and interests of individuals and the security risks;\n(3) whether the protection measures adopted are lawful and effective and commensurate with the degree of risk.\nThe personal information protection impact assessment report and the records of the processing shall be retained for at least three years."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter V"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where the leakage, tampering or loss of personal information occurs or is likely to occur, the personal information processor shall immediately adopt remedial measures and notify the department performing personal information protection duties and the individuals concerned. The notification shall include the following matters:\n(1) the categories of information in respect of which the leakage, tampering or loss of personal information occurs or is likely to occur, the causes and the harm that may be caused;\n(2) the remedial measures adopted by the personal information processor and the measures that individuals may adopt to mitigate the harm;\n(3) the contact details of the personal information processor.\nWhere the measures adopted by the personal information processor can effectively avoid the harm caused by the leakage, tampering or loss of information, the personal information processor may refrain from notifying the individuals; where the department performing personal information protection duties considers that harm may be caused, it has the right to require the personal information processor to notify the individuals."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter V"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Personal information processors that provide important Internet platform services and have a huge number of users and diversified business types shall perform the following obligations:\n(1) establish and improve, in accordance with the provisions of the State, a system of compliance rules for personal information protection, and set up an independent body composed mainly of external members to supervise the personal information protection situation;\n(2) follow the principles of openness, fairness and equity to formulate platform rules, specifying the norms for the processing of personal information by providers of products or services on the platform and their obligations to protect personal information;\n(3) cease to provide services to providers of products or services on the platform that seriously violate laws or administrative regulations in processing personal information;\n(4) publish reports on social responsibility for personal information protection on a regular basis and accept social supervision."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter V"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "An entrusted party that accepts entrustment to process personal information shall, in accordance with this Law and the relevant laws and administrative regulations, adopt necessary measures to safeguard the security of the personal information processed, and shall assist the personal information processor in performing the obligations provided for in this Law.\nChapter VI Departments Performing Personal Information Protection Duties"
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VI"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "The national cyberspace administration is responsible for coordinating personal information protection work and the related supervision and administration work. The relevant departments under the State Council are responsible, within the scope of their respective duties, for personal information protection and supervision and administration in accordance with this Law and the relevant laws and administrative regulations.\nThe duties of personal information protection and supervision and administration of the relevant departments of local people's governments at or above the county level shall be determined in accordance with the relevant provisions of the State.\nThe departments provided for in the preceding two paragraphs are collectively referred to as the departments performing personal information protection duties."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VI"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "The departments performing personal information protection duties shall perform the following personal information protection duties:\n(1) carrying out publicity and education on personal information protection, and guiding and supervising personal information processors in carrying out personal information protection work;\n(2) accepting and handling complaints and reports relating to personal information protection;\n(3) organising assessments of the personal information protection situation of applications and the like and publishing the assessment results;\n(4) investigating and handling unlawful personal information processing activities;\n(5) other duties provided for by laws or administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VI"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "The national cyberspace administration shall coordinate the relevant departments in advancing, in accordance with this Law, the following personal information protection work:\n(1) formulating specific rules and standards for personal information protection;\n(2) formulating, in respect of small personal information processors, the processing of sensitive personal information, and new technologies and new applications such as facial recognition and artificial intelligence, special rules and standards for personal information protection;\n(3) supporting the research, development, dissemination and application of secure and convenient electronic identity authentication technologies and advancing the building of public services for online identity authentication;\n(4) advancing the building of a system of socialised services for personal information protection and supporting the relevant institutions in carrying out personal information protection assessment and certification services;\n(5) improving the working mechanism for complaints and reports on personal information protection."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VI"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "In performing personal information protection duties, the departments performing personal information protection duties may adopt the following measures:\n(1) inquiring of the parties concerned and investigating the circumstances relating to personal information processing activities;\n(2) consulting and copying the contracts, records, account books and other relevant materials of the parties concerned that relate to personal information processing activities;\n(3) conducting on-site inspections and investigating suspected unlawful personal information processing activities;\n(4) inspecting the equipment and articles relating to personal information processing activities; where there is evidence proving that equipment or articles are used for unlawful personal information processing activities, they may be sealed up or seized after a written report is made to the principal person in charge of the department and approval is obtained.\nWhere the departments performing personal information protection duties perform their duties in accordance with law, the parties concerned shall provide assistance and cooperation and may not refuse or obstruct."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VI"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Where the departments performing personal information protection duties discover, in the performance of their duties, that relatively significant risks exist in personal information processing activities or that a personal information security incident has occurred, they may, in accordance with the prescribed powers and procedures, hold regulatory talks with the legal representative or the principal person in charge of the personal information processor, or require the personal information processor to entrust a professional institution with a compliance audit of its personal information processing activities. The personal information processor shall adopt measures as required, carry out rectification and eliminate the hazards.\nWhere the departments performing personal information protection duties discover, in the performance of their duties, that unlawful processing of personal information is suspected of constituting a crime, they shall promptly refer the matter to the public security organ for handling in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VI"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Every organisation and individual has the right to complain of or report unlawful personal information processing activities to the departments performing personal information protection duties. The department receiving the complaint or report shall handle it promptly in accordance with law and inform the complainant or reporter of the outcome.\nThe departments performing personal information protection duties shall make public the contact details for accepting complaints and reports.\nChapter VII Legal Liability"
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VII"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Whoever processes personal information in violation of the provisions of this Law, or processes personal information without performing the personal information protection obligations provided for in this Law, shall be ordered by the department performing personal information protection duties to make rectification and be given a warning, its unlawful gains shall be confiscated, and it shall be ordered to suspend or terminate the provision of services in respect of the application that unlawfully processes personal information; where rectification is refused, a fine of not more than 1,000,000 yuan shall be imposed concurrently, and a fine of not less than 10,000 yuan but not more than 100,000 yuan shall be imposed on the person directly in charge and the other persons directly responsible.\nWhere a violation provided for in the preceding paragraph is serious, the department performing personal information protection duties at or above the provincial level shall order rectification, confiscate the unlawful gains, and impose a fine of not more than 50,000,000 yuan or not more than five per cent of the turnover of the preceding year, and may order the suspension of the relevant business or the suspension of business for rectification and notify the relevant competent department to revoke the relevant business permit or revoke the business licence; a fine of not less than 100,000 yuan but not more than 1,000,000 yuan shall be imposed on the person directly in charge and the other persons directly responsible, and it may be decided to prohibit them from serving as a director, supervisor or senior manager of the relevant enterprise or as the person in charge of personal information protection for a certain period."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VII"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Where an unlawful act provided for in this Law is committed, it shall be recorded in the credit file in accordance with the provisions of the relevant laws and administrative regulations and shall be made public."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter VII"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Where a State organ fails to perform the personal information protection obligations provided for in this Law, its superior organ or the department performing personal information protection duties shall order it to make rectification; disciplinary sanctions shall be imposed in accordance with law on the person directly in charge and the other persons directly responsible.\nWhere a staff member of a department performing personal information protection duties derelicts in his duty, abuses his power or engages in malpractices for personal gain, and the act does not yet constitute a crime, disciplinary sanctions shall be imposed in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter VII"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Where the processing of personal information infringes upon rights and interests in personal information and causes damage, and the personal information processor cannot prove that it is not at fault, it shall bear tort liability such as compensation for damage.\nThe liability for compensation for damage provided for in the preceding paragraph shall be determined according to the loss suffered by the individual as a result or the benefit obtained by the personal information processor as a result; where it is difficult to determine the loss suffered by the individual and the benefit obtained by the personal information processor, the amount of compensation shall be determined in light of the actual circumstances."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter VII"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Where a personal information processor processes personal information in violation of the provisions of this Law and infringes upon the rights and interests of a large number of individuals, the people's procuratorate, the consumer organisations provided for by law and the organisations designated by the national cyberspace administration may bring a lawsuit before a people's court in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter VII"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Where a violation of the provisions of this Law constitutes an act in violation of the administration of public security, a penalty for the administration of public security shall be given in accordance with law; where a crime is constituted, criminal liability shall be pursued in accordance with law.\nChapter VIII Supplementary Provisions"
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter VIII"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "This Law does not apply to the processing of personal information by natural persons for personal or family affairs.\nWhere laws contain provisions on the processing of personal information in the statistical and archival management activities organised and implemented by people's governments at all levels and their relevant departments, those provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter VIII"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "For the purposes of this Law, the following terms have the meanings given below:\n(1) A personal information processor means an organisation or individual that independently decides the purpose and method of processing in personal information processing activities.\n(2) Automated decision-making means an activity of automatically analysing and assessing, through computer programs, the behaviour and habits, interests and hobbies, or economic, health, credit and other circumstances of an individual, and making decisions on that basis.\n(3) De-identification means the process by which personal information is processed so that it is impossible to identify a specific natural person without the aid of additional information.\n(4) Anonymisation means the process by which personal information is processed so that it is impossible to identify a specific natural person and the information cannot be restored."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter VIII"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "This Law shall come into force on 1 November 2021."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter VIII"
+        }
+      }
+    ]
+  };
+
+  TR["CN-PIA-002"] = {
+    "lawId": "CN-PIA-002",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-27",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 55 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is enacted in order to regulate data processing activities, safeguard data security, promote the development and exploitation of data, protect the lawful rights and interests of individuals and organisations, and safeguard national sovereignty, security and development interests."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "This Law applies to data processing activities and to the supervision and administration of their security carried out within the territory of the People's Republic of China.\nWhere data processing activities carried out outside the territory of the People's Republic of China harm the national security or the public interests of the People's Republic of China, or the lawful rights and interests of its citizens or organisations, legal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "For the purposes of this Law, \"data\" means any record of information in electronic or other form.\n\"Data processing\" includes the collection, storage, use, processing, transmission, provision and disclosure of data.\n\"Data security\" means ensuring, by adopting necessary measures, that data is in a state of effective protection and lawful use, and that the capacity to guarantee a sustained state of security is in place."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "In safeguarding data security, the holistic approach to national security shall be adhered to, a data security governance system shall be established and improved, and the capacity to safeguard data security shall be enhanced."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The central leading body for national security is responsible for decision-making and for coordination on national data security work, for studying, formulating and guiding the implementation of the national data security strategy and the relevant major policies, for coordinating major matters and important work in national data security, and for establishing a coordination mechanism for national data security work."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Each region and each department is responsible for the data collected and generated in the course of its own work and for the security thereof.\nThe competent departments for industry, telecommunications, transport, finance, natural resources, health, education, science and technology, among others, shall assume the duties of data security supervision and administration within their respective industries and fields.\nPublic security organs, state security organs and other authorities shall, in accordance with this Law and the provisions of the relevant laws and administrative regulations, assume the duties of data security supervision and administration within the scope of their respective functions.\nThe national cyberspace administration shall, in accordance with this Law and the provisions of the relevant laws and administrative regulations, be responsible for coordinating network data security and the related supervision and administration."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The State protects the rights and interests of individuals and organisations in relation to data, encourages the lawful, reasonable and effective use of data, ensures the lawful, orderly and free flow of data, and promotes the development of the digital economy in which data serves as a key factor."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "In carrying out data processing activities, the laws and regulations shall be observed, social morality and ethics shall be respected, commercial ethics and professional ethics shall be complied with, honesty and good faith shall be maintained, the obligation to protect data security shall be performed and social responsibility shall be borne; no harm shall be caused to national security or the public interests, nor to the lawful rights and interests of individuals or organisations."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The State supports the dissemination and popularisation of knowledge on data security, raises the awareness and level of data security protection throughout society, and promotes the joint participation of the relevant departments, industry organisations, scientific research institutions, enterprises and individuals in data security protection, so as to create a sound environment in which the whole of society jointly maintains data security and promotes development."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The relevant industry organisations shall, in accordance with their articles of association and in accordance with law, formulate codes of conduct and group standards for data security, strengthen industry self-discipline, guide their members in strengthening data security protection, raise the level of data security protection, and promote the sound development of the industry."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The State actively carries out international exchanges and cooperation in fields such as data security governance and the development and exploitation of data, participates in the formulation of international rules and standards relating to data security, and promotes the secure and free flow of data across borders."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Every individual and organisation has the right to complain of or report to the competent departments any act that violates the provisions of this Law. The department receiving the complaint or report shall handle it promptly in accordance with law.\nThe competent departments shall keep confidential the relevant information of the complainant or reporter and protect the lawful rights and interests of the complainant or reporter.\nChapter II Data Security and Development"
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The State coordinates development and security, and persists in promoting data security through the development and exploitation of data and the growth of the industry, and in safeguarding the development and exploitation of data and the growth of the industry through data security."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The State implements the big data strategy, advances the construction of data infrastructure, and encourages and supports innovative applications of data in all industries and fields.\nPeople's governments at or above the provincial level shall incorporate the development of the digital economy into their plans for national economic and social development and shall formulate plans for the development of the digital economy as required."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The State supports the development and exploitation of data for the purpose of raising the level of intelligence of public services. In providing intelligent public services, full consideration shall be given to the needs of elderly persons and persons with disabilities, so as to avoid creating obstacles to their daily lives."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The State supports research into data development and exploitation technologies and data security technologies, encourages the dissemination of technology and commercial innovation in fields such as the development and exploitation of data and data security, and fosters and develops products and industrial systems for the development and exploitation of data and for data security."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The State advances the building of standards systems for data development and exploitation technologies and for data security. The administrative department for standardisation under the State Council and the relevant departments under the State Council shall, in accordance with their respective duties, organise the formulation and timely revision of standards relating to data development and exploitation technologies and products and to data security. The State supports enterprises, social organisations, and educational and scientific research institutions in participating in the formulation of standards."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The State promotes the development of services such as data security testing, assessment and certification, and supports professional institutions for data security testing, assessment and certification in carrying out service activities in accordance with law.\nThe State supports the relevant departments, industry organisations, enterprises, educational and scientific research institutions and relevant professional institutions in cooperating in the assessment, prevention and handling of data security risks."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The State establishes and improves the management system for data trading, regulates data trading conduct and fosters the data trading market."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The State supports educational and scientific research institutions and enterprises in carrying out education and training relating to data development and exploitation technologies and to data security, fosters professionals in data development and exploitation technologies and in data security through various means, and promotes the exchange of talent.\nChapter III Data Security System"
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The State establishes a system for the classified and graded protection of data, and applies classified and graded protection to data according to the importance of the data in economic and social development and the degree of harm that may be caused to national security, the public interests or the lawful rights and interests of individuals and organisations once the data is tampered with, destroyed, leaked, or unlawfully obtained or used. The national coordination mechanism for data security work shall coordinate the relevant departments in formulating a catalogue of important data and in strengthening the protection of important data.\nData that bears on national security, the lifelines of the national economy, important matters of people's livelihood, major public interests and the like constitutes national core data and shall be subject to a stricter management system.\nEach region and each department shall, in accordance with the system for the classified and graded protection of data, determine the specific catalogue of important data for its own region, its own department and the relevant industries and fields, and shall give priority to the protection of the data listed in the catalogue."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The State establishes a centralised, unified, efficient and authoritative mechanism for the assessment and reporting of data security risks and for information sharing, monitoring and early warning. The national coordination mechanism for data security work shall coordinate the relevant departments in strengthening the acquisition, analysis, assessment and early warning of information on data security risks."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The State establishes a mechanism for emergency response to data security. Where a data security incident occurs, the competent departments shall, in accordance with law, activate the emergency plan, adopt the appropriate emergency response measures, prevent the expansion of harm, eliminate security hazards and promptly release to society the warning information relevant to the public."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The State establishes a data security review system and conducts national security reviews of data processing activities that affect or may affect national security.\nA security review decision made in accordance with law is final."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The State imposes export control, in accordance with law, on data that is a controlled item and that relates to the maintenance of national security and interests and to the performance of international obligations."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Where any country or region adopts discriminatory prohibitions, restrictions or other similar measures against the People's Republic of China in respect of investment, trade or other matters relating to data and data development and exploitation technologies, the People's Republic of China may, in light of the actual circumstances, take corresponding measures against that country or region.\nChapter IV Obligations for Data Security Protection"
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "In carrying out data processing activities, a whole-process data security management system shall be established and improved in accordance with the provisions of laws and regulations, education and training on data security shall be organised, and the corresponding technical measures and other necessary measures shall be adopted to safeguard data security. Where data processing activities are carried out by means of the Internet and other information networks, the aforesaid obligations for data security protection shall be performed on the basis of the system for the graded protection of cybersecurity.\nProcessors of important data shall designate a person in charge of data security and a management body, and shall implement responsibility for data security protection."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The carrying out of data processing activities and the research and development of new data technologies shall be conducive to promoting economic and social development and enhancing the well-being of the people, and shall conform to social morality and ethics."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "In carrying out data processing activities, risk monitoring shall be strengthened; where risks such as data security defects and vulnerabilities are discovered, remedial measures shall be taken immediately; where a data security incident occurs, response measures shall be taken immediately, users shall be informed promptly as required and a report shall be made to the competent departments."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Processors of important data shall, as required, carry out risk assessments of their data processing activities on a regular basis and submit the risk assessment reports to the competent departments.\nA risk assessment report shall include the categories and volume of the important data processed, the circumstances of the data processing activities carried out, the data security risks faced and the countermeasures therefor, among other matters."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The security management of the outbound transfer of important data collected and generated by operators of critical information infrastructure in the course of their operations within the territory of the People's Republic of China shall be governed by the provisions of the Cybersecurity Law of the People's Republic of China; the measures for the security management of the outbound transfer of important data collected and generated by other data processors in the course of their operations within the territory of the People's Republic of China shall be formulated by the national cyberspace administration in conjunction with the relevant departments under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Every organisation and individual collecting data shall adopt lawful and proper means and shall not steal data or obtain data by other unlawful means.\nWhere laws or administrative regulations provide for the purposes and scope of the collection and use of data, data shall be collected and used within the purposes and scope provided for by such laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "An institution engaged in data trading intermediary services that provides services shall require the data provider to explain the source of the data, verify the identity of both parties to the transaction, and retain the records of verification and of the transaction."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Where laws or administrative regulations provide that the provision of services relating to data processing shall be subject to administrative licensing, the service provider shall obtain a licence in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Where public security organs or state security organs retrieve data as needed for safeguarding national security or investigating crimes in accordance with law, they shall do so in accordance with the relevant provisions of the State and after going through strict approval procedures; the organisations and individuals concerned shall provide cooperation."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The competent authorities of the People's Republic of China shall handle requests from foreign judicial or law enforcement authorities for the provision of data in accordance with the relevant laws and with the international treaties and agreements concluded or acceded to by the People's Republic of China, or in accordance with the principle of equality and mutual benefit. Without the approval of the competent authorities of the People's Republic of China, no organisation or individual within the territory may provide data stored within the territory of the People's Republic of China to foreign judicial or law enforcement authorities.\nChapter V Security and Openness of Government Data"
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The State vigorously advances the building of e-government, improves the scientificity, accuracy and timeliness of government data, and enhances the capacity to use data in serving economic and social development."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter V"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where State organs collect and use data as needed for the performance of their statutory duties, they shall do so within the scope of the performance of such duties and in accordance with the conditions and procedures provided for by laws and administrative regulations; data such as personal privacy, personal information, trade secrets and confidential commercial information that comes to their knowledge in the performance of their duties shall be kept confidential in accordance with law and shall not be leaked or unlawfully provided to others."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "State organs shall, in accordance with the provisions of laws and administrative regulations, establish and improve data security management systems, implement responsibility for data security protection and safeguard the security of government data."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where a State organ entrusts another party with the construction or maintenance of an e-government system or with the storage or processing of government data, it shall go through strict approval procedures and shall supervise the entrusted party in performing the corresponding obligations for data security protection. The entrusted party shall perform its obligations for data security protection in accordance with the provisions of laws and regulations and with the contract, and shall not retain, use, leak or provide to others government data without authorisation."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter V"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "State organs shall follow the principles of fairness, equity and convenience to the people and shall disclose government data promptly and accurately as required, except where disclosure is not permitted in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter V"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The State formulates a catalogue for the openness of government data, builds a unified, standardised, interconnected and securely controllable platform for the openness of government data, and promotes the open use of government data."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter V"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "The provisions of this Chapter apply to data processing activities carried out by organisations with the function of administering public affairs as authorised by laws and regulations in order to perform their statutory duties.\nChapter VI Legal Liability"
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VI"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where the competent departments, in performing their duties of data security supervision and administration, discover that relatively significant security risks exist in data processing activities, they may, in accordance with the prescribed powers and procedures, hold regulatory talks with the organisations and individuals concerned and require them to take measures for rectification and to eliminate the hazards."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VI"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where an organisation or individual carrying out data processing activities fails to perform the obligations for data security protection provided for in Articles 27, 29 and 30 of this Law, the competent departments shall order it to make rectification and give it a warning, and may concurrently impose a fine of not less than 50,000 yuan but not more than 500,000 yuan, and may impose on the person directly in charge and the other persons directly responsible a fine of not less than 10,000 yuan but not more than 100,000 yuan; where rectification is refused or serious consequences such as a large-scale data leak are caused, a fine of not less than 500,000 yuan but not more than 2,000,000 yuan shall be imposed, and the relevant business may be ordered to be suspended, the business to be suspended for rectification, the relevant business permit to be revoked or the business licence to be revoked, and a fine of not less than 50,000 yuan but not more than 200,000 yuan shall be imposed on the person directly in charge and the other persons directly responsible.\nWhoever violates the national core data management system and harms national sovereignty, security or development interests shall be imposed by the competent departments a fine of not less than 2,000,000 yuan but not more than 10,000,000 yuan and, in light of the circumstances, be ordered to suspend the relevant business, to suspend business for rectification, to have the relevant business permit revoked or to have the business licence revoked; where a crime is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VI"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Whoever, in violation of the provisions of Article 31 of this Law, provides important data to an overseas party shall be ordered by the competent departments to make rectification and be given a warning, and may concurrently be imposed a fine of not less than 100,000 yuan but not more than 1,000,000 yuan, and the person directly in charge and the other persons directly responsible may be imposed a fine of not less than 10,000 yuan but not more than 100,000 yuan; where the circumstances are serious, a fine of not less than 1,000,000 yuan but not more than 10,000,000 yuan shall be imposed, and the relevant business may be ordered to be suspended, the business to be suspended for rectification, the relevant business permit to be revoked or the business licence to be revoked, and a fine of not less than 100,000 yuan but not more than 1,000,000 yuan shall be imposed on the person directly in charge and the other persons directly responsible."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VI"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where an institution engaged in data trading intermediary services fails to perform the obligations provided for in Article 33 of this Law, the competent departments shall order it to make rectification, confiscate its unlawful gains and impose a fine of not less than one time but not more than ten times its unlawful gains; where there are no unlawful gains or the unlawful gains are less than 100,000 yuan, a fine of not less than 100,000 yuan but not more than 1,000,000 yuan shall be imposed, and the relevant business may be ordered to be suspended, the business to be suspended for rectification, the relevant business permit to be revoked or the business licence to be revoked; a fine of not less than 10,000 yuan but not more than 100,000 yuan shall be imposed on the person directly in charge and the other persons directly responsible."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VI"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Whoever, in violation of the provisions of Article 35 of this Law, refuses to cooperate in the retrieval of data shall be ordered by the competent departments to make rectification, be given a warning and concurrently be imposed a fine of not less than 50,000 yuan but not more than 500,000 yuan, and the person directly in charge and the other persons directly responsible shall be imposed a fine of not less than 10,000 yuan but not more than 100,000 yuan.\nWhoever, in violation of the provisions of Article 36 of this Law, provides data to a foreign judicial or law enforcement authority without the approval of the competent authorities shall be given a warning by the competent departments and may concurrently be imposed a fine of not less than 100,000 yuan but not more than 1,000,000 yuan, and the person directly in charge and the other persons directly responsible may be imposed a fine of not less than 10,000 yuan but not more than 100,000 yuan; where serious consequences are caused, a fine of not less than 1,000,000 yuan but not more than 5,000,000 yuan shall be imposed, and the relevant business may be ordered to be suspended, the business to be suspended for rectification, the relevant business permit to be revoked or the business licence to be revoked, and a fine of not less than 50,000 yuan but not more than 500,000 yuan shall be imposed on the person directly in charge and the other persons directly responsible."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VI"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where a State organ fails to perform the obligations for data security protection provided for in this Law, disciplinary sanctions shall be imposed in accordance with law on the person directly in charge and the other persons directly responsible."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VI"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where a functionary of the State performing duties of data security supervision and administration derelicts in his duty, abuses his power or engages in malpractices for personal gain, disciplinary sanctions shall be imposed in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VI"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Whoever steals data or obtains data by other unlawful means, or carries out data processing activities so as to eliminate or restrict competition, or harms the lawful rights and interests of individuals or organisations, shall be punished in accordance with the provisions of the relevant laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VI"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Whoever violates the provisions of this Law and causes damage to another person shall bear civil liability in accordance with law.\nWhoever violates the provisions of this Law and commits an act in violation of the administration of public security shall be given a penalty for the administration of public security in accordance with law; where a crime is constituted, criminal liability shall be pursued in accordance with law.\nChapter VII Supplementary Provisions"
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VII"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Data processing activities involving State secrets shall be governed by the provisions of laws and administrative regulations such as the Law of the People's Republic of China on Guarding State Secrets.\nData processing activities carried out in statistical and archival work, and data processing activities involving personal information, shall additionally comply with the provisions of the relevant laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VII"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Measures for the security protection of military data shall be formulated separately by the Central Military Commission in accordance with this Law."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VII"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "This Law shall come into force on 1 September 2021."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VII"
+        }
+      }
+    ]
+  };
+
+  TR["CN-PIA-003"] = {
+    "lawId": "CN-PIA-003",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-27",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 81 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is enacted in order to safeguard cybersecurity, uphold cyberspace sovereignty and national security and the public interest, protect the lawful rights and interests of citizens, legal persons and other organisations, and promote the sound development of economic and social informatisation."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "This Law applies to the construction, operation, maintenance and use of networks within the territory of the People's Republic of China, as well as to the supervision and administration of cybersecurity."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Cybersecurity work shall uphold the leadership of the Communist Party of China, implement the holistic approach to national security, coordinate development and security, and advance the building of a cyber power."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The State persists in laying equal emphasis on cybersecurity and the development of informatisation, follows the policy of active use, scientific development, management in accordance with law and ensuring security, advances the construction of network infrastructure and interconnection, encourages innovation in and application of network technology, supports the training of cybersecurity professionals, establishes and improves the cybersecurity guarantee system, and enhances the capacity for cybersecurity protection."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The State formulates and continuously improves the cybersecurity strategy, specifies the basic requirements and main objectives for safeguarding cybersecurity, and sets out cybersecurity policies, tasks and measures for key fields."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The State adopts measures to monitor, defend against and handle cybersecurity risks and threats originating within and outside the territory of the People's Republic of China, protects critical information infrastructure against attack, intrusion, interference and destruction, punishes cyber violations and crimes in accordance with law, and upholds cyberspace security and order."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The State advocates honest, trustworthy, healthy and civilised online conduct, promotes the dissemination of the core socialist values, adopts measures to raise the cybersecurity awareness and level of the whole of society, and creates a sound environment in which the whole of society jointly participates in promoting cybersecurity."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The State actively carries out international exchanges and cooperation in cyberspace governance, in the research and development of network technology and the formulation of standards, and in combating cyber violations and crimes, promotes the building of a peaceful, secure, open and cooperative cyberspace, and establishes a multilateral, democratic and transparent system of network governance."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The national cyberspace administration is responsible for coordinating cybersecurity work and the related supervision and administration work. The competent telecommunications department, the public security department and other relevant authorities under the State Council are responsible, within the scope of their respective duties, for cybersecurity protection and supervision and administration in accordance with this Law and the relevant laws and administrative regulations.\nThe duties of cybersecurity protection and supervision and administration of the relevant departments of local people's governments at or above the county level shall be determined in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Network operators carrying out business and service activities must comply with laws and administrative regulations, respect social morality, observe commercial ethics, act in good faith, perform the obligations of cybersecurity protection, accept supervision by the government and by society, and bear social responsibility."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The construction and operation of networks or the provision of services through networks shall, in accordance with the provisions of laws and administrative regulations and the mandatory requirements of national standards, adopt technical measures and other necessary measures to guarantee the security and stable operation of networks, effectively respond to cybersecurity incidents, prevent cyber violations and crimes, and maintain the integrity, confidentiality and availability of network data."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Network-related industry organisations shall, in accordance with their articles of association, strengthen industry self-discipline, formulate norms of conduct for cybersecurity, guide their members in strengthening cybersecurity protection, raise the level of cybersecurity protection and promote the sound development of the industry."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The State protects the right of citizens, legal persons and other organisations to use networks in accordance with law, promotes the popularisation of network access, improves the level of network services, provides society with secure and convenient network services, and ensures the lawful, orderly and free flow of network information.\nIn using networks, every individual and organisation shall comply with the Constitution and the laws, observe public order and respect social morality, and may not endanger cybersecurity, nor use networks to engage in activities that endanger national security, honour and interests, incite subversion of State power or overthrow of the socialist system, incite secession of the country or undermine national unity, advocate terrorism or extremism, advocate ethnic hatred or ethnic discrimination, disseminate information of violence or obscenity or pornography, fabricate or disseminate false information to disrupt economic order and social order, or infringe upon the reputation, privacy, intellectual property rights or other lawful rights and interests of others."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The State supports the research and development of network products and services conducive to the healthy growth of minors, punishes in accordance with law activities that use networks to endanger the physical and mental health of minors, and provides minors with a secure and healthy network environment."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Every individual and organisation has the right to report to the cyberspace administration, telecommunications, public security and other departments any act that endangers cybersecurity. The department receiving the report shall promptly handle it in accordance with law; where the matter does not fall within its duties, it shall promptly refer it to the department with the power to handle it.\nThe relevant departments shall keep confidential the relevant information of the reporter and protect the lawful rights and interests of the reporter.\nChapter II Support for and Promotion of Cybersecurity"
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The State establishes and improves the system of cybersecurity standards. The administrative department for standardisation under the State Council and other relevant departments under the State Council shall, in accordance with their respective duties, organise the formulation and timely revision of national standards and industry standards relating to cybersecurity management and to the security of network products, services and operation.\nThe State supports enterprises, research institutions, institutions of higher education and network-related industry organisations in participating in the formulation of national and industry standards for cybersecurity."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The State Council and the people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall make overall plans, increase input, support key cybersecurity technology industries and projects, support the research, development and application of cybersecurity technology, promote secure and trustworthy network products and services, protect intellectual property rights in network technology, and support enterprises, research institutions and institutions of higher education in participating in national projects for innovation in cybersecurity technology."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The State advances the building of a system of socialised cybersecurity services and encourages the relevant enterprises and institutions to carry out security services such as cybersecurity certification, testing and risk assessment."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The State encourages the development of technologies for the protection and use of network data security, promotes the openness of public data resources, and advances technological innovation and economic and social development."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The State supports basic theoretical research on artificial intelligence and the research and development of key technologies such as algorithms, advances the construction of infrastructure such as training data resources and computing power, improves ethical norms for artificial intelligence, strengthens risk monitoring, assessment and security supervision, and promotes the application and sound development of artificial intelligence.\nThe State supports innovation in the ways of cybersecurity management and the use of new technologies such as artificial intelligence to raise the level of cybersecurity protection."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "People's governments at all levels and their relevant departments shall organise and carry out regular publicity and education on cybersecurity, and shall guide and urge the units concerned to do a good job in publicity and education on cybersecurity.\nThe mass media shall carry out publicity and education on cybersecurity directed at society in a targeted manner."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The State supports enterprises and institutions of higher education, vocational schools and other education and training institutions in carrying out education and training relating to cybersecurity, fosters cybersecurity professionals through various means, and promotes the exchange of cybersecurity professionals.\nChapter III Security of Network Operation\nSection 1 General Provisions"
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The State implements the system for the graded protection of cybersecurity. Network operators shall, in accordance with the requirements of the system for the graded protection of cybersecurity, perform the following obligations of security protection, so as to protect networks against interference, destruction or unauthorised access and prevent network data from being leaked, stolen or tampered with:\n(1) formulating internal security management systems and operating procedures, designating a person in charge of cybersecurity, and implementing responsibility for cybersecurity protection;\n(2) adopting technical measures against computer viruses, cyber attacks, network intrusions and other acts endangering cybersecurity;\n(3) adopting technical measures to monitor and record the operating status of networks and cybersecurity incidents, and retaining the relevant network logs for not less than six months as required;\n(4) adopting measures such as data classification, backup of important data and encryption;\n(5) other obligations provided for by laws or administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Network products and services shall comply with the mandatory requirements of the relevant national standards. Providers of network products and services may not install malicious programs; where risks such as security defects and vulnerabilities are discovered in their network products or services, they shall immediately adopt remedial measures, promptly inform users as required and report to the relevant competent departments.\nProviders of network products and services shall continuously provide security maintenance for their products and services and may not terminate the provision of security maintenance within the prescribed period or the period agreed by the parties.\nWhere network products or services have the function of collecting user information, their providers shall expressly indicate this to users and obtain their consent; where the personal information of users is involved, the provisions of this Law and of the relevant laws and administrative regulations on the protection of personal information shall also be complied with."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Critical network equipment and dedicated cybersecurity products may be sold or provided only after they have passed security certification by a qualified institution or their security testing meets the requirements, in accordance with the mandatory requirements of the relevant national standards. The national cyberspace administration shall, in conjunction with the relevant departments under the State Council, formulate and publish the catalogue of critical network equipment and dedicated cybersecurity products, and promote mutual recognition of the results of security certification and security testing so as to avoid duplicate certification and testing."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Where network operators handle network access or domain name registration services for users, handle network access formalities for fixed telephones, mobile telephones and the like, or provide users with services such as information publication and instant messaging, they shall, when concluding an agreement with users or confirming the provision of services, require users to provide true identity information. Where a user does not provide true identity information, the network operator may not provide the relevant services to that user.\nThe State implements the strategy of trusted online identity, supports the research and development of secure and convenient electronic identity authentication technologies, and promotes mutual recognition among different electronic identity authentications."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Network operators shall formulate emergency plans for cybersecurity incidents and promptly handle security risks such as system vulnerabilities, computer viruses, cyber attacks and network intrusions; where an incident endangering cybersecurity occurs, they shall immediately activate the emergency plan, adopt the corresponding remedial measures and report to the relevant competent departments as required."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The carrying out of activities such as cybersecurity certification, testing and risk assessment, and the release to society of cybersecurity information such as system vulnerabilities, computer viruses, cyber attacks and network intrusions, shall comply with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "No individual or organisation may engage in activities endangering cybersecurity such as unlawfully intruding into the networks of others, interfering with the normal functions of the networks of others or stealing network data; no individual or organisation may provide programs or tools specially used for activities endangering cybersecurity such as intruding into networks, interfering with the normal functions and protection measures of networks and stealing network data; where a person knows that another person is engaged in activities endangering cybersecurity, that person may not provide technical support, advertising promotion, payment settlement or other assistance to the other person."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Network operators shall provide technical support and assistance to public security organs and state security organs in their activities of safeguarding national security and investigating crimes in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The State supports cooperation among network operators in the collection and analysis of, notification of and emergency response to cybersecurity information, so as to enhance the security guarantee capacity of network operators.\nThe relevant industry organisations shall establish and improve norms of cybersecurity protection and cooperation mechanisms for their industries, strengthen the analysis and assessment of cybersecurity risks, issue risk warnings to their members on a regular basis, and support and assist their members in responding to cybersecurity risks."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Information obtained by the cyberspace administration and the relevant departments in the performance of their duties of cybersecurity protection may only be used as needed for safeguarding cybersecurity and may not be used for other purposes.\nSection 2 Security of the Operation of Critical Information Infrastructure"
+        },
+        "noLabel": {
+          "en": "Article 32."
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The State applies priority protection, on the basis of the system for the graded protection of cybersecurity, to critical information infrastructure in important industries and fields such as public communications and information services, energy, transport, water conservancy, finance, public services and e-government, as well as to other critical information infrastructure which, once destroyed, loses its functions or suffers data leakage, may seriously endanger national security, the national economy and the people's livelihood, or the public interest. The specific scope of critical information infrastructure and the measures for its security protection shall be formulated by the State Council.\nThe State encourages network operators other than those of critical information infrastructure to participate voluntarily in the protection system for critical information infrastructure."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "In accordance with the division of duties prescribed by the State Council, the departments responsible for the security protection of critical information infrastructure shall respectively prepare and organise the implementation of security plans for critical information infrastructure in their respective industries and fields, and shall guide and supervise the work of protecting the security of the operation of critical information infrastructure."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The construction of critical information infrastructure shall ensure that it has the performance to support the stable and continuous operation of business, and shall ensure that security technical measures are planned, constructed and put into use simultaneously."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "In addition to the provisions of Article 21 of this Law, operators of critical information infrastructure shall also perform the following obligations of security protection:\n(1) setting up a dedicated security management body and a person in charge of security management, and conducting security background checks on that person and on personnel in key posts;\n(2) conducting cybersecurity education, technical training and skills assessment for employees on a regular basis;\n(3) carrying out disaster recovery backup for important systems and databases;\n(4) formulating emergency plans for cybersecurity incidents and conducting drills on a regular basis;\n(5) other obligations provided for by laws or administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Where the procurement of network products and services by an operator of critical information infrastructure may affect national security, it shall pass the national security review organised by the national cyberspace administration in conjunction with the relevant departments under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Operators of critical information infrastructure shall, in accordance with the provisions, conclude security and confidentiality agreements with providers when procuring network products and services, specifying the obligations and responsibilities for security and confidentiality."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Personal information and important data collected and generated by operators of critical information infrastructure in the course of their operations within the territory of the People's Republic of China shall be stored within the territory. Where it is truly necessary to provide them to an overseas party due to business needs, a security assessment shall be carried out in accordance with the measures formulated by the national cyberspace administration in conjunction with the relevant departments under the State Council; where laws or administrative regulations provide otherwise, those provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Operators of critical information infrastructure shall, by themselves or by entrusting a cybersecurity service institution, conduct at least one testing and assessment each year of the security of their networks and of the risks that may exist, and shall submit the testing and assessment results and the improvement measures to the department responsible for the security protection of critical information infrastructure."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The national cyberspace administration shall coordinate the relevant departments in taking the following measures for the security protection of critical information infrastructure:\n(1) conducting spot checks and testing of the security risks of critical information infrastructure and proposing improvement measures and, where necessary, entrusting cybersecurity service institutions with the testing and assessment of the security risks existing in the networks;\n(2) organising operators of critical information infrastructure on a regular basis to conduct emergency drills for cybersecurity, so as to raise the level of response to cybersecurity incidents and the capacity for coordination;\n(3) promoting the sharing of cybersecurity information among the relevant departments, operators of critical information infrastructure, the relevant research institutions and cybersecurity service institutions;\n(4) providing technical support and assistance for the emergency response to cybersecurity incidents and the restoration of network functions.\nChapter IV Security of Network Information"
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Network operators shall strictly keep confidential the user information they collect and shall establish and improve the user information protection system.\nIn processing personal information, network operators shall comply with the provisions of this Law and of laws and administrative regulations such as the Civil Code of the People's Republic of China and the Personal Information Protection Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter IV"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "In collecting and using personal information, network operators shall follow the principles of lawfulness, propriety and necessity, make public the rules for collection and use, expressly indicate the purpose, method and scope of the collection and use of information, and obtain the consent of the person whose information is collected.\nNetwork operators may not collect personal information unrelated to the services they provide, may not collect or use personal information in violation of the provisions of laws and administrative regulations or of the agreement between the parties, and shall process the personal information they retain in accordance with the provisions of laws and administrative regulations and with the agreement with users."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter IV"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Network operators may not leak, tamper with or destroy the personal information they collect, and may not provide personal information to others without the consent of the person whose information is collected, except where the information, after processing, cannot identify a specific person and cannot be restored.\nNetwork operators shall adopt technical measures and other necessary measures to ensure the security of the personal information they collect and to prevent the leakage, destruction and loss of information. Where the leakage, destruction or loss of personal information occurs or is likely to occur, they shall immediately adopt remedial measures, promptly inform users as required and report to the relevant competent departments."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter IV"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where an individual discovers that a network operator collects or uses his personal information in violation of the provisions of laws and administrative regulations or of the agreement between the parties, he has the right to request the network operator to delete his personal information; where he discovers that the personal information collected or stored by the network operator is erroneous, he has the right to request the network operator to correct it. The network operator shall adopt measures to delete or correct it."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter IV"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "No individual or organisation may steal personal information or obtain personal information by other unlawful means, nor unlawfully sell personal information or unlawfully provide personal information to others."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter IV"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "The departments with duties of cybersecurity supervision and administration in accordance with law and their staff members must strictly keep confidential the personal information, privacy and trade secrets that come to their knowledge in the performance of their duties, and may not leak, sell or unlawfully provide them to others."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter IV"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Every individual and organisation shall be responsible for its conduct in using networks, and may not set up websites or communication groups used for committing fraud, teaching criminal methods, producing or selling prohibited articles, controlled articles or other illegal or criminal activities, nor use networks to publish information relating to the commission of fraud, the production or sale of prohibited articles or controlled articles, and other illegal or criminal activities."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter IV"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Network operators shall strengthen the management of the information published by their users, and where they discover information the publication or transmission of which is prohibited by laws or administrative regulations, they shall immediately stop transmitting the information, adopt handling measures such as elimination, prevent the spread of the information, retain the relevant records and report to the relevant competent departments."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter IV"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Electronic information sent and application software provided by any individual or organisation may not contain malicious programs and may not contain information the publication or transmission of which is prohibited by laws or administrative regulations.\nProviders of electronic information sending services and providers of application software download services shall perform the obligations of security management; where they know that their users have committed the acts provided for in the preceding paragraph, they shall cease to provide services, adopt handling measures such as elimination, retain the relevant records and report to the relevant competent departments."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter IV"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Network operators shall establish systems for complaints and reports on network information security, make public information such as the means of complaint and report, and promptly accept and handle complaints and reports relating to network information security.\nNetwork operators shall cooperate with the supervision and inspection carried out in accordance with law by the cyberspace administration and the relevant departments."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter IV"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where the national cyberspace administration and the relevant departments, in the performance of their duties of supervision and administration of network information security in accordance with law, discover information the publication or transmission of which is prohibited by laws or administrative regulations, they shall require the network operator to stop transmitting it, adopt handling measures such as elimination and retain the relevant records; in respect of such information originating outside the territory of the People's Republic of China, they shall notify the relevant institutions to adopt technical measures and other necessary measures to block its dissemination.\nChapter V Monitoring, Early Warning and Emergency Response"
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter V"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "The State establishes a system for the monitoring and early warning of cybersecurity and for information notification. The national cyberspace administration shall coordinate the relevant departments in strengthening the collection, analysis and notification of cybersecurity information and shall, in accordance with the provisions, release cybersecurity monitoring and early warning information in a unified manner."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter V"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "The departments responsible for the security protection of critical information infrastructure shall establish and improve systems for the monitoring and early warning of cybersecurity and for information notification in their respective industries and fields, and shall submit the cybersecurity monitoring and early warning information as required."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter V"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "The national cyberspace administration shall coordinate the relevant departments in establishing and improving the working mechanisms for cybersecurity risk assessment and emergency response, formulating emergency plans for cybersecurity incidents and organising drills on a regular basis.\nThe departments responsible for the security protection of critical information infrastructure shall formulate emergency plans for cybersecurity incidents in their respective industries and fields and organise drills on a regular basis.\nEmergency plans for cybersecurity incidents shall classify cybersecurity incidents according to factors such as the degree of harm after their occurrence and the scope of impact, and shall provide for the corresponding emergency response measures."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter V"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "When the risk of the occurrence of a cybersecurity incident increases, the relevant departments of people's governments at or above the provincial level shall, in accordance with the prescribed powers and procedures and in light of the characteristics of the cybersecurity risk and the harm that may be caused, take the following measures:\n(1) requiring the relevant departments, institutions and personnel to collect and report the relevant information promptly and to strengthen the monitoring of cybersecurity risks;\n(2) organising the relevant departments, institutions and professionals to analyse and assess information on cybersecurity risks and to predict the likelihood of an incident, the scope of its impact and the degree of harm;\n(3) releasing to society early warnings of cybersecurity risks and publishing measures to avoid and mitigate harm."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter V"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where a cybersecurity incident occurs, the emergency plan for cybersecurity incidents shall be activated immediately, the cybersecurity incident shall be investigated and assessed, network operators shall be required to adopt technical measures and other necessary measures to eliminate security hazards and prevent the expansion of harm, and warning information relevant to the public shall be released to society promptly."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter V"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where the relevant departments of people's governments at or above the provincial level, in the performance of their duties of cybersecurity supervision and administration, discover that relatively significant security risks exist in a network or that a security incident has occurred, they may, in accordance with the prescribed powers and procedures, hold regulatory talks with the legal representative or the principal person in charge of the operator of that network. The network operator shall adopt measures as required, carry out rectification and eliminate the hazards."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter V"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where an emergency or a work safety accident occurs due to a cybersecurity incident, it shall be handled in accordance with the provisions of laws and administrative regulations such as the Emergency Response Law of the People's Republic of China and the Work Safety Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter V"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where it is necessary for safeguarding national security and public order and for handling major emergencies that endanger public safety, temporary measures such as restricting network communications may, upon decision or approval by the State Council, be taken in specific areas.\nChapter VI Legal Liability"
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VI"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where a network operator fails to perform the obligations of cybersecurity protection provided for in Articles 23 and 27 of this Law, the relevant competent departments shall order it to make rectification and give it a warning, and may impose a fine of not less than 10,000 yuan but not more than 50,000 yuan; where rectification is refused or consequences such as harm to cybersecurity are caused, a fine of not less than 50,000 yuan but not more than 500,000 yuan shall be imposed, and a fine of not less than 10,000 yuan but not more than 100,000 yuan shall be imposed on the person directly in charge and the other persons directly responsible.\nWhere an operator of critical information infrastructure fails to perform the obligations of cybersecurity protection provided for in Articles 35, 36, 38 and 40 of this Law, the relevant competent departments shall order it to make rectification and give it a warning, and may impose a fine of not less than 50,000 yuan but not more than 100,000 yuan; where rectification is refused or consequences such as harm to cybersecurity are caused, a fine of not less than 100,000 yuan but not more than 1,000,000 yuan shall be imposed, and a fine of not less than 10,000 yuan but not more than 100,000 yuan shall be imposed on the person directly in charge and the other persons directly responsible.\nWhere the acts in the preceding two paragraphs cause serious consequences harming cybersecurity, such as a large-scale data leak or the loss of partial functions of critical information infrastructure, the relevant competent departments shall impose a fine of not less than 500,000 yuan but not more than 2,000,000 yuan, and a fine of not less than 50,000 yuan but not more than 200,000 yuan on the person directly in charge and the other persons directly responsible; where particularly serious consequences harming cybersecurity are caused, such as the loss of the main functions of critical information infrastructure, a fine of not less than 2,000,000 yuan but not more than 10,000,000 yuan shall be imposed, and a fine of not less than 200,000 yuan but not more than 1,000,000 yuan on the person directly in charge and the other persons directly responsible."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VI"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Whoever, in violation of the provisions of paragraphs 1 and 2 of Article 22 and of paragraph 1 of Article 48 of this Law, commits any of the following acts shall be ordered by the relevant competent departments to make rectification and be given a warning; where rectification is refused or consequences such as harm to cybersecurity are caused, a fine of not less than 50,000 yuan but not more than 500,000 yuan shall be imposed, and a fine of not less than 10,000 yuan but not more than 100,000 yuan shall be imposed on the person directly in charge:\n(1) installing malicious programs;\n(2) failing to adopt remedial measures immediately in respect of risks such as security defects and vulnerabilities existing in its products or services, or failing to promptly inform users and report to the relevant competent departments as required;\n(3) terminating without authorisation the provision of security maintenance for its products or services.\nWhere the acts in Items (1) and (2) of the preceding paragraph cause the consequences provided for in paragraph 3 of Article 61 of this Law, the penalty shall be imposed in accordance with the provisions of that paragraph."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VI"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Whoever, in violation of the provisions of Article 25 of this Law, sells or provides critical network equipment or dedicated cybersecurity products that have not passed security certification or security testing, or that fail to pass security certification or do not meet the requirements of security testing, shall be ordered by the relevant competent departments to stop selling or providing them, be given a warning, and have its unlawful gains confiscated; where there are no unlawful gains or the unlawful gains are less than 100,000 yuan, a fine of not less than 20,000 yuan but not more than 100,000 yuan shall be imposed concurrently; where the unlawful gains are 100,000 yuan or more, a fine of not less than one time but not more than five times the unlawful gains shall be imposed concurrently; where the circumstances are serious, the relevant business may concurrently be ordered to be suspended, the business to be suspended for rectification, the relevant business permit to be revoked or the business licence to be revoked. Where laws or administrative regulations provide otherwise, those provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VI"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Where a network operator, in violation of the provisions of paragraph 1 of Article 24 of this Law, fails to require users to provide true identity information, or provides the relevant services to users who do not provide true identity information, the relevant competent departments shall order it to make rectification; where rectification is refused or the circumstances are serious, a fine of not less than 50,000 yuan but not more than 500,000 yuan shall be imposed, and it may be ordered to suspend the relevant business, to suspend business for rectification, to close the website or application, to have the relevant business permit revoked or to have the business licence revoked, and a fine of not less than 10,000 yuan but not more than 100,000 yuan shall be imposed on the person directly in charge and the other persons directly responsible."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VI"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Whoever, in violation of the provisions of Article 28 of this Law, carries out activities such as cybersecurity certification, testing and risk assessment, or releases to society cybersecurity information such as system vulnerabilities, computer viruses, cyber attacks and network intrusions, shall be ordered by the relevant competent departments to make rectification and be given a warning, and may be imposed a fine of not less than 10,000 yuan but not more than 100,000 yuan; where rectification is refused or the circumstances are serious, a fine of not less than 100,000 yuan but not more than 1,000,000 yuan shall be imposed, and it may be ordered to suspend the relevant business, to suspend business for rectification, to close the website or application, to have the relevant business permit revoked or to have the business licence revoked, and a fine of not less than 10,000 yuan but not more than 100,000 yuan shall be imposed on the person directly in charge and the other persons directly responsible.\nWhere the act in the preceding paragraph causes the consequences provided for in paragraph 3 of Article 61 of this Law, the penalty shall be imposed in accordance with the provisions of that paragraph."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VI"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Whoever, in violation of the provisions of Article 27 of this Law, engages in activities endangering cybersecurity, or provides programs or tools specially used for activities endangering cybersecurity, or provides technical support, advertising promotion, payment settlement or other assistance to others engaged in activities endangering cybersecurity, and the act does not yet constitute a crime, shall have his unlawful gains confiscated by the public security organ and be detained for not more than five days, and may concurrently be imposed a fine of not less than 50,000 yuan but not more than 500,000 yuan; where the circumstances are relatively serious, he shall be detained for not less than five days but not more than fifteen days, and may concurrently be imposed a fine of not less than 100,000 yuan but not more than 1,000,000 yuan.\nWhere a unit commits the act in the preceding paragraph, the public security organ shall confiscate its unlawful gains and impose a fine of not less than 100,000 yuan but not more than 1,000,000 yuan, and shall punish the person directly in charge and the other persons directly responsible in accordance with the provisions of the preceding paragraph.\nA person who, in violation of the provisions of Article 27 of this Law, has been given a penalty for the administration of public security may not, within five years, work in cybersecurity management or in key posts of network operation; a person who has been given a criminal penalty may never work in cybersecurity management or in key posts of network operation."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VI"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Where an operator of critical information infrastructure, in violation of the provisions of Article 37 of this Law, uses network products or services that have not undergone security review or that have failed security review, the relevant competent departments shall order it to make rectification within a prescribed period, to stop using them and to eliminate the impact on national security, and shall impose a fine of not less than one time but not more than ten times the procurement amount, and a fine of not less than 10,000 yuan but not more than 100,000 yuan on the person directly in charge and the other persons directly responsible."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter VI"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Whoever, in violation of the provisions of Article 46 of this Law, sets up websites or communication groups used for illegal or criminal activities, or uses networks to publish information relating to illegal or criminal activities, and the act does not yet constitute a crime, shall be detained by the public security organ for not more than five days, and may concurrently be imposed a fine of not less than 10,000 yuan but not more than 100,000 yuan; where the circumstances are relatively serious, the person shall be detained for not less than five days but not more than fifteen days, and may concurrently be imposed a fine of not less than 50,000 yuan but not more than 500,000 yuan. The websites or communication groups used for illegal or criminal activities shall be closed.\nWhere a unit commits the act in the preceding paragraph, the public security organ shall impose a fine of not less than 100,000 yuan but not more than 500,000 yuan, and shall punish the person directly in charge and the other persons directly responsible in accordance with the provisions of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter VI"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Where a network operator, in violation of the provisions of Article 49 of this Law, fails to stop transmitting information the publication or transmission of which is prohibited by laws or administrative regulations, fails to adopt handling measures such as elimination, fails to retain the relevant records or fails to report to the relevant competent departments, or, in violation of the provisions of Article 52 of this Law, fails to stop transmitting such information, adopt handling measures such as elimination and retain the relevant records as required by the relevant departments, the relevant competent departments shall order it to make rectification, give it a warning and circulate a notice of criticism, and may impose a fine of not less than 50,000 yuan but not more than 500,000 yuan; where rectification is refused or the circumstances are serious, a fine of not less than 500,000 yuan but not more than 2,000,000 yuan shall be imposed, and it may be ordered to suspend the relevant business, to suspend business for rectification, to close the website or application, to have the relevant business permit revoked or to have the business licence revoked, and a fine of not less than 50,000 yuan but not more than 200,000 yuan shall be imposed on the person directly in charge and the other persons directly responsible.\nWhere the act in the preceding paragraph causes particularly serious impact or particularly serious consequences, the relevant competent departments shall impose a fine of not less than 2,000,000 yuan but not more than 10,000,000 yuan, order the suspension of the relevant business, the suspension of business for rectification, the closure of the website or application, the revocation of the relevant business permit or the revocation of the business licence, and impose a fine of not less than 200,000 yuan but not more than 1,000,000 yuan on the person directly in charge and the other persons directly responsible.\nWhere a provider of electronic information sending services or a provider of application software download services fails to perform the obligations of security management provided for in paragraph 2 of Article 50 of this Law, it shall be punished in accordance with the provisions of the preceding two paragraphs."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter VI"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Where a network operator, in violation of the provisions of this Law, commits any of the following acts, the relevant competent departments shall order it to make rectification; where rectification is refused or the circumstances are serious, a fine of not less than 50,000 yuan but not more than 500,000 yuan shall be imposed, and a fine of not less than 10,000 yuan but not more than 100,000 yuan shall be imposed on the person directly in charge and the other persons directly responsible:\n(1) refusing or obstructing supervision and inspection carried out by the relevant departments in accordance with law;\n(2) refusing to provide technical support and assistance to public security organs or state security organs."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter VI"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Where any of the following acts is committed, it shall be handled and punished in accordance with the provisions of the relevant laws and administrative regulations:\n(1) publishing or transmitting information the publication or transmission of which is prohibited by paragraph 2 of Article 13 of this Law and by other laws or administrative regulations;\n(2) infringing upon rights and interests in personal information in violation of the provisions of paragraph 3 of Article 24 and of Articles 43 to 45 of this Law;\n(3) in violation of the provisions of Article 39 of this Law, an operator of critical information infrastructure stores personal information and important data outside the territory, or provides personal information and important data to an overseas party.\nWhoever, in violation of the provisions of Article 46 of this Law, steals personal information or obtains personal information by other unlawful means, unlawfully sells personal information or unlawfully provides personal information to others, and the act does not yet constitute a crime, shall be punished by the public security organ in accordance with the provisions of the relevant laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter VI"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "Where an unlawful act provided for in this Law is committed, it shall be recorded in the credit file in accordance with the provisions of the relevant laws and administrative regulations and shall be made public."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter VI"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "Where a violation of the provisions of this Law falls within the circumstances of a lighter penalty, a mitigated penalty or no penalty provided for by the Administrative Penalty Law of the People's Republic of China, the penalty shall be given lightly, mitigated or not given in accordance with those provisions."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter VI"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "Where an operator of the e-government network of a State organ fails to perform the obligations of cybersecurity protection provided for in this Law, its superior organ or the relevant organ shall order it to make rectification; disciplinary sanctions shall be imposed in accordance with law on the person directly in charge and the other persons directly responsible."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter VI"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "Where the cyberspace administration or the relevant departments, in violation of the provisions of Article 30 of this Law, use for other purposes the information obtained in the performance of their duties of cybersecurity protection, disciplinary sanctions shall be imposed in accordance with law on the person directly in charge and the other persons directly responsible.\nWhere a staff member of the cyberspace administration or of the relevant departments derelicts in his duty, abuses his power or engages in malpractices for personal gain, and the act does not yet constitute a crime, disciplinary sanctions shall be imposed in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter VI"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "Whoever violates the provisions of this Law and causes damage to another person shall bear civil liability in accordance with law.\nWhoever violates the provisions of this Law and commits an act in violation of the administration of public security shall be given a penalty for the administration of public security in accordance with law; where a crime is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter VI"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "Where an institution, organisation or individual outside the territory engages in activities endangering the cybersecurity of the People's Republic of China, legal liability shall be pursued in accordance with law; where serious consequences are caused, the public security department under the State Council and the relevant departments may decide to take measures such as freezing property or other necessary sanctions against that institution, organisation or individual.\nChapter VII Supplementary Provisions"
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter VII"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "For the purposes of this Law, the following terms have the meanings given below:\n(1) A network means a system composed of computers or other information terminals and the related equipment that collects, stores, transmits, exchanges and processes information in accordance with certain rules and procedures.\n(2) Cybersecurity means the state in which, by adopting necessary measures, attacks on, intrusions into, interference with and destruction of networks as well as unlawful use and accidents are prevented so that networks operate stably and reliably, and means the capacity to guarantee the integrity, confidentiality and availability of network data.\n(3) A network operator means the owner or manager of a network and a provider of network services.\n(4) Network data means various types of electronic data collected, stored, transmitted, processed and generated through networks.\n(5) Personal information means various types of information recorded in electronic or other form that can, alone or in combination with other information, identify the identity of a natural person, including but not limited to the name, date of birth, identity document number, personal biometric information, address and telephone number of a natural person."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter VII"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "The security protection of the operation of networks that store or process information involving State secrets shall, in addition to complying with this Law, comply with the provisions of the laws and administrative regulations on confidentiality."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter VII"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "The security protection of military networks shall be prescribed separately by the Central Military Commission."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Chapter VII"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "This Law shall come into force on 1 June 2017."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Chapter VII"
+        }
+      }
+    ]
+  };
+
+  TR["CN-PIA-004"] = {
+    "lawId": "CN-PIA-004",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-27",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 9 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 111,
+        "text": {
+          "en": "The personal information of natural persons is protected by law. Where any organisation or individual needs to obtain the personal information of others, it shall obtain it in accordance with law and ensure the security of the information, and shall not unlawfully collect, use, process or transmit the personal information of others, nor unlawfully buy or sell, provide or disclose the personal information of others.\n## II. Part on Personality Rights, Chapter VI Privacy Rights and Personal Information Protection\nChapter VI Privacy Rights and Personal Information Protection"
+        },
+        "noLabel": {
+          "en": "Article 111."
+        }
+      },
+      {
+        "no": 1032,
+        "text": {
+          "en": "Natural persons enjoy the right to privacy. No organisation or individual may infringe the right to privacy of others by means such as prying, intrusion, divulgence or disclosure.\nPrivacy means the peace of private life, and the private space, private activities and private information that a natural person does not wish others to know."
+        },
+        "noLabel": {
+          "en": "Article 1032."
+        }
+      },
+      {
+        "no": 1033,
+        "text": {
+          "en": "Unless otherwise provided by law or expressly consented to by the right holder, no organisation or individual may commit any of the following acts:\n(a) disturbing the peace of private life of others by telephone, short message, instant messaging tool, email, leaflet or other means;\n(b) entering, photographing or peeping into the private space of others, such as their residence or hotel room;\n(c) photographing, peeping into, eavesdropping on or disclosing the private activities of others;\n(d) photographing or peeping at the private parts of another person's body;\n(e) processing the private information of others;\n(f) infringing the right to privacy of others by other means."
+        },
+        "noLabel": {
+          "en": "Article 1033."
+        }
+      },
+      {
+        "no": 1034,
+        "text": {
+          "en": "The personal information of natural persons is protected by law.\nPersonal information means various types of information recorded in electronic or other form that can, alone or in combination with other information, identify a particular natural person, including the natural person's name, date of birth, identity document number, biometric information, address, telephone number, email address, health information and whereabouts information.\nThe private information within personal information is governed by the provisions on the right to privacy; where there are no such provisions, the provisions on the protection of personal information shall apply."
+        },
+        "noLabel": {
+          "en": "Article 1034."
+        }
+      },
+      {
+        "no": 1035,
+        "text": {
+          "en": "The processing of personal information shall follow the principles of lawfulness, justification and necessity, shall not involve excessive processing, and shall meet the following conditions:\n(a) the consent of the natural person concerned or of his or her guardian has been obtained, unless laws or administrative regulations provide otherwise;\n(b) the rules for processing the information are made public;\n(c) the purpose, method and scope of processing the information are expressly indicated;\n(d) no violation of the provisions of laws or administrative regulations or of the agreement between the parties.\nThe processing of personal information includes the collection, storage, use, processing, transmission, provision and disclosure of personal information."
+        },
+        "noLabel": {
+          "en": "Article 1035."
+        }
+      },
+      {
+        "no": 1036,
+        "text": {
+          "en": "In processing personal information, the actor does not bear civil liability in any of the following circumstances:\n(a) the act is reasonably carried out within the scope of the consent of the natural person concerned or of his or her guardian;\n(b) the information disclosed by the natural person concerned himself or herself or otherwise lawfully disclosed is reasonably processed, except where the natural person concerned has expressly refused or the processing of the information infringes his or her major interests;\n(c) other acts reasonably carried out in order to safeguard the public interest or the lawful rights and interests of the natural person concerned."
+        },
+        "noLabel": {
+          "en": "Article 1036."
+        }
+      },
+      {
+        "no": 1037,
+        "text": {
+          "en": "A natural person may, in accordance with law, consult or copy his or her personal information from an information processor; where the information is found to be erroneous, the natural person has the right to raise an objection and to request that necessary measures such as correction be taken promptly.\nWhere a natural person finds that an information processor processes his or her personal information in violation of the provisions of laws or administrative regulations or of the agreement between the parties, the natural person has the right to request the information processor to delete it promptly."
+        },
+        "noLabel": {
+          "en": "Article 1037."
+        }
+      },
+      {
+        "no": 1038,
+        "text": {
+          "en": "An information processor shall not divulge or tamper with the personal information it collects or stores, and shall not unlawfully provide the personal information of a natural person to others without the consent of the natural person, except where the information cannot identify a particular person and cannot be restored after processing.\nAn information processor shall adopt technical measures and other necessary measures to ensure the security of the personal information it collects and stores and to prevent divulgence, tampering or loss of the information; where personal information is or may be divulged, tampered with or lost, it shall promptly take remedial measures, notify the natural person in accordance with the regulations and report to the competent department concerned."
+        },
+        "noLabel": {
+          "en": "Article 1038."
+        }
+      },
+      {
+        "no": 1039,
+        "text": {
+          "en": "State organs, statutory bodies performing administrative functions and their staff shall keep confidential the privacy and personal information of natural persons that they learn of in the course of performing their duties, and shall not divulge it or unlawfully provide it to others."
+        },
+        "noLabel": {
+          "en": "Article 1039."
+        }
+      }
+    ]
+  };
+
+  TR["CN-PIA-005"] = {
+    "lawId": "CN-PIA-005",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-27",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 64 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are enacted in order to regulate network data processing activities, safeguard network data security, promote the lawful, reasonable and effective use of network data, protect the lawful rights and interests of individuals and organisations, and safeguard national security and the public interest, in accordance with the Cybersecurity Law of the People's Republic of China, the Data Security Law of the People's Republic of China, the Personal Information Protection Law of the People's Republic of China and other laws."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "These Regulations apply to network data processing activities and to the supervision and administration of their security carried out within the territory of the People's Republic of China.\nThese Regulations also apply to activities of processing, outside the territory of the People's Republic of China, the personal information of natural persons within the territory of the People's Republic of China, where the circumstances specified in Article 3, paragraph 2 of the Personal Information Protection Law of the People's Republic of China are met.\nWhere network data processing activities carried out outside the territory of the People's Republic of China harm the national security or the public interest of the People's Republic of China, or the lawful rights and interests of citizens or organisations, legal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The management of network data security shall uphold the leadership of the Communist Party of China, implement the holistic approach to national security, and coordinate the promotion of the development and exploitation of network data with the safeguarding of network data security."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The State encourages the innovative application of network data in all industries and fields, strengthens the development of the capacity to protect network data security, supports innovation in network data-related technologies, products and services, carries out publicity and education on network data security and the training of personnel, and promotes the development and exploitation of network data and the growth of the industry."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The State applies classified and graded protection to network data according to the importance of the network data in economic and social development and the degree of harm that may be caused to national security, the public interest, or the lawful rights and interests of individuals and organisations once the data is tampered with, destroyed, divulged, or unlawfully obtained or unlawfully used."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The State actively participates in the formulation of international rules and standards relating to network data security and promotes international exchange and cooperation."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The State supports the relevant industry organisations in formulating, in accordance with their articles of association, codes of conduct for network data security, strengthening industry self-discipline, guiding their members in strengthening network data security protection, raising the level of network data security protection and promoting the sound development of the industry.\nChapter II General Provisions"
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "No individual or organisation may use network data to engage in unlawful activities, or engage in unlawful network data processing activities such as stealing or otherwise unlawfully obtaining network data, or unlawfully selling or otherwise unlawfully providing network data to others.\nNo individual or organisation may provide programs, tools or the like specially used for engaging in the unlawful activities referred to in the preceding paragraph; where a person clearly knows that another person is engaging in the unlawful activities referred to in the preceding paragraph, the person shall not provide technical support such as Internet access, server hosting, network storage or communication transmission, or provide assistance such as advertising promotion or payment and settlement."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Network data processors shall, in accordance with the provisions of laws and administrative regulations and the mandatory requirements of national standards, and on the basis of the classified protection of cybersecurity, strengthen network data security protection, establish and improve network data security management systems, adopt technical measures such as encryption, backup, access control and security authentication as well as other necessary measures, protect network data from tampering, destruction, divulgence, or unlawful obtaining or unlawful use, handle network data security incidents, guard against illegal and criminal activities directed at or exploiting network data, and bear primary responsibility for the security of the network data they process."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The network products and services provided by network data processors shall meet the mandatory requirements of the relevant national standards; where risks such as security defects or vulnerabilities are found in network products or services, remedial measures shall be taken immediately, users shall be promptly notified in accordance with the regulations and a report shall be made to the competent department concerned; where national security or the public interest is endangered, the network data processor shall additionally report to the competent department concerned within 24 hours."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Network data processors shall establish and improve emergency response plans for network data security incidents; when a network data security incident occurs, they shall immediately activate the plan, take measures to prevent the expansion of the harm, eliminate security hazards, and report to the competent department concerned in accordance with the regulations.\nWhere a network data security incident harms the lawful rights and interests of individuals or organisations, the network data processor shall promptly notify the interested parties of the security incident and the risk situation, the consequences of the harm and the remedial measures already taken, by telephone, short message, instant messaging tool, email, public announcement or other means; where laws or administrative regulations provide that notification may be dispensed with, those provisions shall prevail. Where a network data processor discovers, in the course of handling a network data security incident, leads suggesting an illegal or criminal act, it shall report the matter to the public security organ or the state security organ in accordance with the regulations and cooperate in carrying out investigation, inquiry and handling."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Where a network data processor provides personal information or important data to, or entrusts the processing of personal information or important data to, another network data processor, it shall agree with the network data recipient, by contract or otherwise, on the purpose, method and scope of processing and on data security protection obligations, and shall supervise the performance of those obligations by the network data recipient. Records of the provision or entrusted processing of personal information and important data to another network data processor shall be retained for at least three years.\nThe network data recipient shall perform the network data security protection obligations and process the personal information and important data in accordance with the agreed purpose, method and scope.\nWhere two or more network data processors jointly decide the purpose and method of processing personal information and important data, they shall agree on their respective rights and obligations."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where network data processing activities carried out by a network data processor affect or may affect national security, a national security review shall be conducted in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Where a network data processor needs to transfer network data due to merger, division, dissolution, bankruptcy or other reasons, the network data recipient shall continue to perform the network data security protection obligations."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where a State organ entrusts another person with the construction, operation or maintenance of an e-government system, or with the storage or processing of government data, it shall, in accordance with the relevant provisions of the State, go through strict approval procedures, specify the network data processing authority and protection responsibilities of the entrusted party, and supervise the performance by the entrusted party of its network data security protection obligations."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where a network data processor provides services to State organs or to operators of critical information infrastructure, or participates in the construction, operation or maintenance of other public infrastructure or public service systems, it shall perform network data security protection obligations in accordance with the provisions of laws and regulations and the contract, and provide secure, stable and continuous services.\nA network data processor referred to in the preceding paragraph shall not, without the consent of the commissioning party, access, obtain, retain or use network data, divulge it or provide it to others, and shall not carry out correlation analysis on network data."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Information systems providing services to State organs shall, with reference to the management requirements for e-government systems, strengthen network data security management and safeguard network data security."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where a network data processor uses automated tools to access or collect network data, it shall assess the impact on the network service, and shall not unlawfully intrude into another person's network or interfere with the normal operation of the network service."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Network data processors providing generative artificial intelligence services shall strengthen the security management of training data and of training data processing activities, and take effective measures to prevent and handle network data security risks."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Network data processors providing products or services to the public shall accept public supervision, establish convenient channels for complaints and reports on network data security, publish information such as the manner of complaint and report, and promptly accept and handle complaints and reports on network data security.\nChapter III Protection of Personal Information"
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where a network data processor, before processing personal information, informs individuals in accordance with law by formulating personal information processing rules, the personal information processing rules shall be publicly displayed in a centralised manner, be easy to access and be placed in a conspicuous position, and their content shall be clear, specific, readily intelligible, including but not limited to the following:\n(a) the name and contact details of the network data processor;\n(b) the purpose, method and categories of the processing of personal information, the necessity of processing sensitive personal information and the impact on the rights and interests of individuals;\n(c) the retention period of personal information and the manner of handling it upon expiry; where the retention period is difficult to determine, the method for determining the retention period shall be specified;\n(d) the methods of and channels for individuals to consult, copy, transfer, correct, supplement, delete and restrict the processing of personal information, and to cancel accounts and withdraw consent.\nWhere a network data processor informs individuals, in accordance with the preceding paragraph, of the purpose, method and categories of the personal information collected and provided to other network data processors and of the information on the network data recipients, it shall set them out in a list or other form. Where a network data processor processes the personal information of minors under the age of 14, it shall additionally formulate dedicated personal information processing rules."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Where a network data processor processes personal information on the basis of the consent of the individual, it shall comply with the following provisions:\n(a) personal information shall be collected only as necessary for the provision of the product or service, personal information shall not be collected beyond the necessary scope, and the consent of the individual shall not be obtained by misleading, fraud, coercion or other means;\n(b) where sensitive personal information such as biometric identification, religious belief, specific identity, medical health, financial accounts, or whereabouts and tracks is processed, the separate consent of the individual shall be obtained;\n(c) where the personal information of minors under the age of 14 is processed, the consent of the parents or other guardians of the minor shall be obtained;\n(d) personal information shall not be processed beyond the purpose, method, categories and retention period consented to by the individual;\n(e) where an individual has expressly stated that he or she does not consent to the processing of his or her personal information, consent shall not be sought from the individual repeatedly;\n(f) where the purpose, method or categories of the processing of personal information change, the consent of the individual shall be obtained anew.\nWhere laws or administrative regulations provide that written consent shall be obtained for the processing of sensitive personal information, those provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where an individual requests to consult, copy, correct, supplement, delete or restrict the processing of his or her personal information, or cancels an account or withdraws consent, the network data processor shall promptly accept the request and provide convenient methods of and channels for supporting the individual in exercising his or her rights, and shall not impose unreasonable conditions to restrict the reasonable requests of individuals."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where non-essential personal information, or personal information for which the consent of the individual has not been obtained in accordance with law, cannot be avoided being collected due to the use of automated collection technology or other reasons, or where an individual cancels an account, the network data processor shall delete the personal information or anonymise it. Where the retention period provided by laws or administrative regulations has not yet expired, or where the deletion or anonymisation of personal information is technically difficult to achieve, the network data processor shall cease processing other than storage and the adoption of necessary security protection measures."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "For a request to transfer personal information that meets the following conditions, the network data processor shall provide a channel for another network data processor designated by the individual to access and obtain the relevant personal information:\n(a) the true identity of the requesting person can be verified;\n(b) what is requested to be transferred is personal information provided with the consent of the person or collected on the basis of a contract;\n(c) the transfer of the personal information is technically feasible;\n(d) the transfer of the personal information does not harm the lawful rights and interests of others.\nWhere the number of requests to transfer personal information manifestly exceeds a reasonable range, the network data processor may charge a necessary fee based on the cost of transferring the personal information."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Where a network data processor outside the territory of the People's Republic of China that processes the personal information of natural persons within the territory establishes a dedicated body or designates a representative within the territory in accordance with Article 53 of the Personal Information Protection Law of the People's Republic of China, it shall report the name of the relevant body, or the name and contact details of the representative, to the cyberspace administration department of the city with districts where it is located; the cyberspace administration department shall promptly notify the competent departments concerned at the same level."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Network data processors shall, on a regular basis, conduct a compliance audit of their compliance with laws and administrative regulations in processing personal information, either on their own or by engaging a professional institution."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Where a network data processor processes the personal information of 10 million or more individuals, it shall additionally comply with the provisions of Article 30 and Article 32 of these Regulations applicable to network data processors processing important data (hereinafter referred to as processors of important data).\nChapter IV Security of Important Data"
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The national data security work coordination mechanism shall coordinate the relevant departments in formulating a catalogue of important data and strengthen the protection of important data. Each region and each department shall, in accordance with the classified and graded data protection system, determine the specific catalogue of important data for its own region or department and for the relevant industries and fields, and afford priority protection to the network data included in the catalogue.\nNetwork data processors shall identify and report important data in accordance with the relevant provisions of the State. Where data is confirmed to be important data, the relevant region or department shall promptly inform the network data processor or publish the fact. The network data processor shall perform its responsibility for network data security protection.\nThe State encourages network data processors to use technologies and products such as data labelling and identification so as to raise the level of important data security management."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Processors of important data shall designate a person in charge of network data security and a network data security management body. The network data security management body shall perform the following network data security protection responsibilities:\n(a) formulating and implementing network data security management systems, operating procedures and emergency response plans for network data security incidents;\n(b) organising on a regular basis activities such as network data security risk monitoring, risk assessment, emergency drills, and publicity, education and training, and promptly handling network data security risks and incidents;\n(c) accepting and handling complaints and reports on network data security.\nThe person in charge of network data security shall possess professional knowledge of network data security and relevant management work experience, shall be a member of the management of the network data processor, and shall have the authority to report network data security situations directly to the competent department concerned.\nA network data processor that holds important data of the specific categories and scale specified by the competent department concerned shall conduct security background checks on the person in charge of network data security and on personnel in key positions, and strengthen the training of the relevant personnel. In conducting the checks, it may apply to the public security organ or the state security organ for assistance."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Before providing, entrusting the processing of, or jointly processing important data, a processor of important data shall conduct a risk assessment, except where the activity is performed in the exercise of statutory functions or statutory obligations.\nThe risk assessment shall focus on the following:\n(a) whether the provision, entrusted processing or joint processing of network data, and the purpose, method and scope of the processing of network data by the network data recipient, are lawful, justified and necessary;\n(b) the risk that the network data provided, entrusted for processing or jointly processed may be tampered with, destroyed, divulged, or unlawfully obtained or unlawfully used, and the risk posed to national security, the public interest, or the lawful rights and interests of individuals and organisations;\n(c) the integrity and law-abiding status of the network data recipient;\n(d) whether the network data security requirements in the relevant contracts concluded or to be concluded with the network data recipient can effectively bind the network data recipient to perform its network data security protection obligations;\n(e) whether the technical and management measures adopted or to be adopted can effectively prevent risks such as the network data being tampered with, destroyed, divulged, or unlawfully obtained or unlawfully used;\n(f) other assessment content specified by the competent department concerned."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Where a processor of important data undergoes merger, division, dissolution, bankruptcy or the like, which may affect the security of important data, it shall take measures to safeguard network data security and report to the competent department concerned at or above the provincial level the plan for handling the important data and the name and contact details of the recipient; where the competent department is unclear, it shall report to the data security work coordination mechanism at or above the provincial level."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Processors of important data shall conduct a risk assessment of their network data processing activities every year and submit a risk assessment report to the competent department concerned at or above the provincial level, and the competent department concerned shall promptly notify the cyberspace administration department and the public security organ at the same level.\nThe risk assessment report shall include the following:\n(a) basic information on the network data processor, information on the network data security management body, and the name and contact details of the person in charge of network data security;\n(b) the purpose, categories, quantity, method, scope, storage period and storage location of the processing of important data and the circumstances of the network data processing activities, excluding the content of the network data itself;\n(c) the network data security management system and its implementation, and the technical measures such as encryption, backup, labelling and identification, access control and security authentication, other necessary measures, and their effectiveness;\n(d) the network data security risks identified and the network data security incidents that occurred, together with their handling;\n(e) the risk assessment carried out for the provision, entrusted processing or joint processing of important data;\n(f) the cross-border transfer of network data;\n(g) other report content specified by the competent department concerned.\nThe risk assessment report submitted by a large network platform service provider processing important data shall, in addition to the content specified in the preceding paragraph, fully explain the network data security situation of its key business and supply chain.\nWhere a processor of important data engages in important data processing activities that may endanger national security, the competent department concerned at or above the provincial level shall order it to take measures such as rectification or cessation of the processing of important data. The processor of important data shall immediately take measures in accordance with the relevant requirements.\nChapter V Security Management of Cross-border Network Data"
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter V"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The national cyberspace administration department shall coordinate the relevant departments in establishing a special working mechanism for national data cross-border security management, studying and formulating national policies on cross-border network data security management, and coordinating the handling of major matters concerning network data cross-border security."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter V"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Where any one of the following conditions is met, a network data processor may provide personal information abroad:\n(a) it has passed the security assessment of data cross-border transfer organised by the national cyberspace administration department;\n(b) it has obtained personal information protection certification from a professional institution in accordance with the provisions of the national cyberspace administration department;\n(c) it complies with the provisions on standard contracts for the cross-border transfer of personal information formulated by the national cyberspace administration department;\n(d) it is truly necessary to provide personal information abroad in order to conclude or perform a contract to which the individual is a party;\n(e) it is truly necessary to provide employees' personal information abroad in order to carry out cross-border human resources management in accordance with lawfully formulated labour rules and regulations and lawfully concluded collective contracts;\n(f) it is truly necessary to provide personal information abroad in order to perform statutory functions or statutory obligations;\n(g) it is truly necessary to provide personal information abroad in order to protect the life, health and property safety of natural persons in an emergency;\n(h) other conditions provided by laws, administrative regulations or the national cyberspace administration department."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter V"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where international treaties or agreements concluded or acceded to by the People's Republic of China contain provisions on the conditions for providing personal information abroad and the like, those provisions may be applied."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Where important data collected and generated in the course of operations within the territory of the People's Republic of China truly needs to be provided abroad, the network data processor shall pass the security assessment of data cross-border transfer organised by the national cyberspace administration department. Where a network data processor has identified and reported important data in accordance with the relevant provisions of the State, but has not been informed by the relevant region or department, or has not had the data publicly published, as important data, it is not required to report the data as important data for the security assessment of data cross-border transfer."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter V"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "After passing the security assessment of data cross-border transfer, a network data processor providing personal information and important data abroad shall not exceed the purpose, method, scope, categories and scale of the data cross-border transfer specified in the assessment."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The State takes measures to prevent and handle cross-border network data security risks and threats. No individual or organisation may provide programs, tools or the like specially used to destroy or circumvent technical measures; where a person clearly knows that another person is engaging in activities such as destroying or circumventing technical measures, the person shall not provide technical support or assistance to that person.\nChapter VI Obligations of Network Platform Service Providers"
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter VI"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Network platform service providers shall, through platform rules, contracts or other means, specify the network data security protection obligations of third-party product and service providers connected to their platforms, and urge third-party product and service providers to strengthen network data security management.\nThe preceding paragraph applies to manufacturers of devices such as smart terminals with pre-installed applications.\nWhere a third-party product or service provider engages in network data processing activities in violation of laws or administrative regulations, or of platform rules or contractual stipulations, and causes harm to users, the network platform service provider, the third-party product or service provider, and the manufacturer of devices such as smart terminals with pre-installed applications shall bear corresponding liability in accordance with law.\nThe State encourages insurance companies to develop insurance products covering liability for network data damage, and encourages network platform service providers and manufacturers of devices such as smart terminals with pre-installed applications to take out such insurance."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter VI"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Network platform service providers that provide application distribution services shall establish rules for the verification of applications and carry out verification relating to network data security. Where an application awaiting distribution or already distributed is found not to comply with laws or administrative regulations or with the mandatory requirements of national standards, measures such as issuing a warning, not distributing, suspending distribution or terminating distribution shall be taken."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter VI"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where a network platform service provider pushes information to individuals by means of automated decision-making, it shall provide an option to turn off personalised recommendations that is easy to understand, easy to access and easy to operate, and provide users with functions such as refusing to receive pushed information and deleting user tags based on their personal characteristics."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VI"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "The State advances the development of public services for network identity authentication and promotes their application in accordance with the principles of government guidance and user voluntariness.\nNetwork platform service providers are encouraged to support users in registering and verifying their true identity information through the national public services for network identity authentication."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VI"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Large network platform service providers shall annually publish a social responsibility report on personal information protection, covering, but not limited to, the measures taken and results achieved in personal information protection, the handling of applications by individuals to exercise their rights, and the performance of duties by the personal information protection supervision body composed mainly of external members."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VI"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where a large network platform service provider provides network data across borders, it shall comply with the State's requirements for cross-border data security management, improve the relevant technical and management measures, and prevent cross-border network data security risks."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VI"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Large network platform service providers shall not use network data, algorithms, platform rules or the like to engage in the following activities:\n(a) processing network data generated by users on the platform by misleading, fraudulent, coercive or other means;\n(b) restricting users, without justified reason, from accessing or using the network data generated by them on the platform;\n(c) applying unreasonable differential treatment to users, harming their lawful rights and interests;\n(d) other activities prohibited by laws or administrative regulations.\nChapter VII Supervision and Administration"
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VII"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "The national cyberspace administration department is responsible for coordinating network data security and the related supervision and administration.\nPublic security organs and state security organs shall, in accordance with the relevant laws and administrative regulations and these Regulations, assume the duties of network data security supervision and administration within the scope of their respective functions, and prevent and combat illegal and criminal activities endangering network data security in accordance with law.\nThe national data management department shall perform the corresponding network data security duties in the specific work of data management.\nEach region and each department is responsible for the network data collected and generated in the course of its own work and for the security thereof."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VII"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "The competent departments concerned shall assume the duties of network data security supervision and administration within their respective industries and fields, shall designate a body responsible for network data security protection in their respective industries and fields, shall formulate in a coordinated manner and organise the implementation of emergency response plans for network data security incidents in their respective industries and fields, shall organise on a regular basis risk assessments of network data security in their respective industries and fields, shall supervise and inspect the performance by network data processors of their network data security protection obligations, and shall guide and urge network data processors to promptly rectify existing risks and hazards."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VII"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "The national cyberspace administration department shall coordinate the competent departments concerned in promptly collecting, assessing, sharing and publishing information on network data security risks, and shall strengthen information sharing on network data security, the monitoring and early warning of network data security risks and threats, and the emergency handling of network data security incidents."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VII"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "The competent departments concerned may take the following measures to supervise and inspect network data security:\n(a) require network data processors and the relevant personnel to give explanations on the matters under supervision and inspection;\n(b) consult and copy documents and records relating to network data security;\n(c) inspect the operation of network data security measures;\n(d) inspect equipment and articles relating to network data processing activities;\n(e) other necessary measures provided by laws or administrative regulations.\nNetwork data processors shall cooperate with the supervision and inspection of network data security lawfully carried out by the competent departments concerned."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VII"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Competent departments concerned carrying out the supervision and inspection of network data security shall be objective and impartial and shall not charge fees to the entities inspected.\nIn the course of the supervision and inspection of network data security, the competent departments concerned shall not access or collect business information unrelated to network data security; the information obtained may only be used for the needs of maintaining network data security and shall not be used for other purposes.\nWhere the competent departments concerned find that there is a relatively major security risk in the network data processing activities of a network data processor, they may, in accordance with the prescribed authority and procedures, require the network data processor to suspend the relevant services, amend platform rules, improve technical measures or the like, so as to eliminate network data security hazards."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VII"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "When carrying out the supervision and inspection of network data security, the competent departments concerned shall strengthen coordination and information communication, reasonably determine the frequency and methods of inspection, and avoid unnecessary inspections and duplicative or overlapping inspections.\nCompliance audits of personal information protection, risk assessments of important data and security assessments of the cross-border transfer of important data shall be better connected so as to avoid duplicative assessments and audits. Where the content of a risk assessment of important data and that of a classified cybersecurity evaluation overlap, the relevant results may be mutually accepted."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VII"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "The competent departments concerned and their staff shall keep confidential in accordance with law the network data such as personal privacy, personal information, trade secrets and confidential business information that they learn of in the performance of their duties, and shall not divulge it or unlawfully provide it to others."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VII"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where organisations or individuals outside the territory engage in network data processing activities that endanger the national security or the public interest of the People's Republic of China, or that infringe the personal information rights and interests of citizens of the People's Republic of China, the national cyberspace administration department, together with the competent departments concerned, may take corresponding necessary measures in accordance with law.\nChapter VIII Legal Liability"
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VIII"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where Article 12, Articles 16 to 20, Article 22, Article 40, paragraphs 1 and 2, Article 41 or Article 42 of these Regulations is violated, the competent departments for cyberspace administration, telecommunications, public security and others shall, according to their respective duties, order rectification, issue a warning and confiscate unlawful gains; where rectification is refused or the circumstances are serious, a fine of not more than 1 million yuan shall be imposed, and the entity may be ordered to suspend the relevant business, to suspend operations for rectification, or to have its licence for the relevant business or its business licence revoked, and a fine of not less than 10,000 yuan and not more than 100,000 yuan may be imposed on the directly responsible person in charge and other directly responsible personnel."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VIII"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where Article 13 of these Regulations is violated, the competent departments for cyberspace administration, telecommunications, public security, state security and others shall, according to their respective duties, order rectification, issue a warning and may concurrently impose a fine of not less than 100,000 yuan and not more than 1 million yuan, and may impose a fine of not less than 10,000 yuan and not more than 100,000 yuan on the directly responsible person in charge and other directly responsible personnel; where rectification is refused or the circumstances are serious, a fine of not less than 1 million yuan and not more than 10 million yuan shall be imposed, and the entity may be ordered to suspend the relevant business, to suspend operations for rectification, or to have its licence for the relevant business or its business licence revoked, and a fine of not less than 100,000 yuan and not more than 1 million yuan shall be imposed on the directly responsible person in charge and other directly responsible personnel."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VIII"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where Article 29, paragraph 2, Article 30, paragraphs 2 and 3, Article 31 or Article 32 of these Regulations is violated, the competent departments for cyberspace administration, telecommunications, public security and others shall, according to their respective duties, order rectification, issue a warning and may concurrently impose a fine of not less than 50,000 yuan and not more than 500,000 yuan, and may impose a fine of not less than 10,000 yuan and not more than 100,000 yuan on the directly responsible person in charge and other directly responsible personnel; where rectification is refused or serious consequences such as a massive data breach are caused, a fine of not less than 500,000 yuan and not more than 2 million yuan shall be imposed, and the entity may be ordered to suspend the relevant business, to suspend operations for rectification, or to have its licence for the relevant business or its business licence revoked, and a fine of not less than 50,000 yuan and not more than 200,000 yuan shall be imposed on the directly responsible person in charge and other directly responsible personnel."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VIII"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where other relevant provisions of these Regulations are violated, the competent departments concerned shall pursue legal liability in accordance with the relevant provisions of the Cybersecurity Law of the People's Republic of China, the Data Security Law of the People's Republic of China, the Personal Information Protection Law of the People's Republic of China and other laws."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VIII"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where a network data processor voluntarily eliminates or mitigates the harmful consequences of an unlawful act, or where the unlawful act is minor and is corrected promptly without causing harmful consequences, or where it is a first violation with minor harmful consequences that is corrected promptly, the administrative penalty shall be imposed leniently, mitigated or waived in accordance with the provisions of the Administrative Penalty Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VIII"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where a State organ fails to perform the network data security protection obligations provided by these Regulations, its superior organ or the competent department concerned shall order rectification; the directly responsible person in charge and other directly responsible personnel shall be given sanctions in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VIII"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where these Regulations are violated and harm is caused to others, civil liability shall be borne in accordance with law; where a violation of public security administration is constituted, a penalty for the administration of public security shall be imposed in accordance with law; where a crime is constituted, criminal liability shall be pursued in accordance with law.\nChapter IX Supplementary Provisions"
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter IX"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "For the purposes of these Regulations, the following terms have the meanings given below:\n(a) \"Network data\" means various electronic data processed and generated through networks.\n(b) \"Network data processing activities\" means activities such as the collection, storage, use, processing, transmission, provision, disclosure and deletion of network data.\n(c) \"Network data processor\" means an individual or organisation that independently decides the purpose and method of processing in network data processing activities.\n(d) \"Important data\" means data in a specific field, relating to a specific group or a specific region, or reaching a certain level of precision and scale, which, once tampered with, destroyed, divulged, or unlawfully obtained or unlawfully used, may directly endanger national security, economic operation, social stability, or public health and safety.\n(e) \"Entrusted processing\" means network data processing activities carried out by an individual or organisation entrusted by a network data processor in accordance with the agreed purpose and method.\n(f) \"Joint processing\" means network data processing activities in which two or more network data processors jointly decide the purpose and method of processing network data.\n(g) \"Separate consent\" means the specific, explicit consent specially given by an individual for a particular processing of his or her personal information.\n(h) \"Large network platform\" means a network platform with 50 million or more registered users or 10 million or more monthly active users, with complex business types, whose network data processing activities have an important impact on national security, economic operation, the national economy and people's livelihood, and the like."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter IX"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Network data processing activities involving core data shall be carried out in accordance with the relevant provisions of the State.\nThese Regulations do not apply to the processing of personal information by natural persons for personal or family affairs.\nNetwork data processing activities involving State secrets or work secrets shall be governed by the provisions of laws and administrative regulations such as the Law of the People's Republic of China on Guarding State Secrets."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter IX"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "These Regulations shall come into force on 1 January 2025."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter IX"
+        }
+      }
+    ]
+  };
+
+  TR["CN-PIA-006"] = {
+    "lawId": "CN-PIA-006",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-27",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 20 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Measures are formulated in order to regulate compliance audit activities for personal information protection and to protect personal information rights and interests, in accordance with the Personal Information Protection Law of the People's Republic of China, the Regulations on the Security Management of Network Data and other laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "These Measures apply to the conduct of compliance audits of personal information protection within the territory of the People's Republic of China.\nFor the purposes of these Measures, \"compliance audit of personal information protection\" means a supervisory activity of examining and evaluating whether the personal information processing activities of a personal information processor comply with laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Where a personal information processor carries out a compliance audit of personal information protection on its own, an internal body of the personal information processor, or a professional institution engaged by it, shall conduct a compliance audit on a regular basis of its compliance with laws and administrative regulations in processing personal information."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "A personal information processor that processes the personal information of more than 10 million individuals shall carry out a compliance audit of personal information protection at least once every two years."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Where a personal information processor is in any of the following circumstances, the national cyberspace administration department and other departments performing personal information protection duties (hereinafter collectively referred to as the protection departments) may require the personal information processor to engage a professional institution to conduct a compliance audit of its personal information processing activities:\n(a) it is found that the personal information processing activities involve a relatively major risk, such as a serious impact on the rights and interests of individuals or a serious lack of security measures;\n(b) the personal information processing activities may infringe the rights and interests of numerous individuals;\n(c) a personal information security incident has occurred, resulting in the divulgence, tampering, loss or damage of the personal information of more than 1 million individuals or the sensitive personal information of more than 100,000 individuals.\nIn respect of the same personal information security incident or risk, a personal information processor shall not be required repeatedly to engage a professional institution to conduct a compliance audit of personal information protection."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Where a personal information processor carries out a compliance audit of personal information protection on its own or by engaging a professional institution at the request of a protection department, it shall refer to the Guidelines for Compliance Audits of Personal Information Protection in the Annex to these Measures."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "A professional institution shall possess the capability to conduct compliance audits of personal information protection, and shall have auditors, premises, facilities and funds commensurate with the services provided.\nThe relevant professional institutions are encouraged to obtain certification. The certification of professional institutions shall be carried out in accordance with the relevant provisions of the Regulations of the People's Republic of China on Certification and Accreditation."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Where a personal information processor carries out a compliance audit of personal information protection at the request of a protection department, it shall provide the necessary support for the professional institution to carry out the compliance audit of personal information protection normally, and shall bear the audit fees."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Where a personal information processor carries out a compliance audit of personal information protection at the request of a protection department, it shall select a professional institution in accordance with the requirements of the protection department and complete the compliance audit of personal information protection within the prescribed time; where the situation is complex, the period may be extended appropriately after approval by the protection department."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Where a personal information processor carries out a compliance audit of personal information protection at the request of a protection department, it shall, after completion of the compliance audit, submit the compliance audit report of personal information protection issued by the professional institution to the protection department.\nThe compliance audit report of personal information protection shall be signed by the principal person in charge of the professional institution and the person in charge of the compliance audit, and sealed with the official seal of the professional institution."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Where a personal information processor carries out a compliance audit of personal information protection at the request of a protection department, it shall rectify the problems found in the compliance audit in accordance with the requirements of the protection department, and shall, within 15 working days after completion of the rectification, submit a report on the rectification to the protection department."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "A personal information processor that processes the personal information of more than 1 million individuals shall designate a person in charge of personal information protection to take charge of the compliance auditing of personal information protection of the personal information processor.\nA personal information processor that provides important Internet platform services and has an enormous number of users and complex business types shall establish an independent body composed mainly of external members to supervise the conduct of compliance audits of personal information protection."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Professional institutions engaged in compliance audit activities for personal information protection shall comply with laws and regulations, act with integrity and honesty, and make professional compliance audit judgements impartially and objectively, and shall keep confidential in accordance with law the personal information, trade secrets and confidential business information obtained in the performance of their compliance audit duties, shall not divulge them or unlawfully provide them to others, and shall promptly delete the relevant information after completion of the compliance audit work."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Professional institutions shall not further entrust another institution with the compliance audit of personal information protection."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The same professional institution and its affiliated institutions, and the same person in charge of a compliance audit, shall not conduct compliance audits of personal information protection for the same audited object on three or more consecutive occasions."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The protection departments shall supervise and inspect the conduct of compliance audits of personal information protection by personal information processors."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Any organisation or individual has the right to complain of or report unlawful activities in compliance audits of personal information protection to the protection departments. The department receiving the complaint or report shall promptly handle it in accordance with law and inform the complainant or reporter of the outcome."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where a personal information processor or a professional institution violates these Measures, the matter shall be dealt with in accordance with the provisions of the Personal Information Protection Law of the People's Republic of China, the Regulations on the Security Management of Network Data and other laws and regulations; where a crime is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "These Measures do not apply to compliance audits of personal information protection of State organs and of organisations authorised by laws and regulations to perform the function of administering public affairs."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "These Measures shall come into force on 1 May 2025.\nAnnex\nGuidelines for Compliance Audits of Personal Information Protection\n1. These Guidelines are formulated in accordance with the Personal Information Protection Law of the People's Republic of China, the Regulations on the Security Management of Network Data and other laws and administrative regulations.\n2. In conducting a compliance audit of the legality basis of personal information processing activities, the following matters shall be examined with focus:\n(a) where personal information is processed on the basis of the consent of the individual, whether the consent of the individual has been obtained, and whether that consent was voluntarily and explicitly given by the individual having been fully informed;\n(b) where personal information is processed on the basis of the consent of the individual and the purpose or method of processing, or the categories of personal information processed, change, whether the consent of the individual has been obtained anew;\n(c) where personal information is processed on the basis of the consent of the individual, whether the separate consent or written consent of the individual has been obtained in accordance with laws and administrative regulations;\n(d) where personal information is processed without the consent of the individual, whether the case falls within the circumstances in which laws or administrative regulations provide that the consent of the individual need not be obtained.\n3. In conducting a compliance audit of the personal information processing rules, the following matters shall be examined with focus:\n(a) whether the name or designation and contact details of the personal information processor are notified truthfully, accurately and completely;\n(b) whether the personal information collected and the method and categories of its processing are set out in a form convenient for inspection, such as a list;\n(c) whether the processing is directly related to the processing purpose and adopts the manner having the least impact on the rights and interests of individuals;\n(d) whether the retention period of personal information or the method for determining the retention period, and the manner of handling the information upon expiry, are specified, and whether the retention period is determined to be the shortest time necessary to achieve the processing purpose;\n(e) whether the channels and methods for individuals to consult, copy, transfer, correct, supplement, delete and restrict the processing of personal information, and to cancel accounts and withdraw consent, are specified.\n4. In conducting a compliance audit of the performance by a personal information processor of the obligation to notify the personal information processing rules, the following matters shall be examined with focus:\n(a) whether the personal information processor, before processing personal information, notifies individuals of the personal information processing rules truthfully, accurately and completely, in a conspicuous manner and in clear and readily intelligible language;\n(b) whether the size, font and colour of the notified text are convenient for individuals to read the notified matters in full;\n(c) whether, in the case of offline notification, the notification obligation is performed to individuals by various means such as labelling and explanation;\n(d) whether, in the case of online notification, textual information is provided or the notification obligation is performed to individuals by appropriate means;\n(e) whether, where the personal information processing rules change, the content of the change is promptly notified to individuals;\n(f) whether, where notification is not required for the processing of personal information, the case falls within the circumstances in which laws or administrative regulations provide that confidentiality shall be maintained or notification is not required.\n5. In conducting a compliance audit of the joint processing of personal information by a personal information processor together with other personal information processors, the following matters shall be examined with focus:\n(a) whether their respective rights and obligations have been agreed;\n(b) the mechanism for protecting personal information rights and interests;\n(c) the mechanism for reporting personal information security incidents;\n(d) other rights and obligations that need to be agreed as provided by laws or administrative regulations.\n6. In conducting a compliance audit of the entrusted processing of personal information by a personal information processor, the following matters shall be examined with focus:\n(a) whether the personal information processor carries out a personal information protection impact assessment before entrusting the processing of personal information;\n(b) whether the contract concluded between the personal information processor and the entrusted party agrees with the entrusted party on the purpose, duration and method of the entrusted processing, the categories of personal information, the protection measures, and the rights and obligations of both parties;\n(c) whether the personal information processor supervises the personal information processing activities of the entrusted party by means such as periodic inspection.\n7. Where a personal information processor needs to transfer personal information due to merger, reorganisation, division, dissolution, being declared bankrupt or other reasons, whether the personal information processor notifies individuals of the name or designation and contact details of the recipient shall be examined with focus.\n8. In conducting a compliance audit of the provision by a personal information processor of the personal information it processes to other personal information processors, the following matters shall be examined with focus:\n(a) where personal information is processed on the basis of the consent of the individual, whether the separate consent of the individual has been obtained;\n(b) whether individuals are notified of the name or designation and contact details of the recipient, the processing purpose, the processing method and the categories of personal information, except where laws or administrative regulations provide that confidentiality shall be maintained or notification is not required;\n(c) whether a personal information protection impact assessment has been carried out in advance.\n9. In conducting a compliance audit of the processing of personal information by a personal information processor using automated decision-making, the following matters shall be examined with focus:\n(a) the transparency of the automated decision-making, and whether the outcome of the automated decision-making is fair and equitable;\n(b) whether individuals are informed in advance of the categories of personal information processed by automated decision-making and the possible impact;\n(c) whether a personal information protection impact assessment has been carried out in advance;\n(d) whether a safeguard mechanism is provided to users so that individuals may, by convenient means, refuse to have decisions having a major impact on their rights and interests made by automated decision-making, and may require the personal information processor to explain decisions made by automated decision-making that have a major impact on the rights and interests of users;\n(e) where information is pushed to individuals or commercial marketing is conducted, whether an option not directed at personal characteristics is provided at the same time, or a convenient way of refusing the automated decision-making service is provided;\n(f) whether effective measures have been taken to prevent automated decision-making from applying unreasonable differential treatment to individuals in transaction conditions on the basis of consumers' preferences, trading habits and the like;\n(g) other matters that may affect the transparency of automated decision-making and the fairness and equity of its outcome.\n10. In conducting a compliance audit of the disclosure of personal information by a personal information processor on the basis of the consent of the individual, the following matters shall be examined with focus:\n(a) whether the personal information processor obtains the separate consent of the individual before disclosing the personal information it processes, whether that authorisation is genuine and valid, and whether personal information is disclosed against the will of the individual;\n(b) whether the personal information processor carries out a personal information protection impact assessment before disclosing personal information.\n11. Where a personal information processor installs devices for image collection or personal identity recognition in public places, the lawfulness of the installation of such devices and the purpose of the personal information collected shall be examined with focus. The examination shall cover but not be limited to:\n(a) whether the installation is necessary for safeguarding public security, and whether the personal information collected is processed for commercial purposes;\n(b) whether conspicuous notice signs have been set up;\n(c) where the personal images and identity recognition information collected by the personal information processor are used for purposes other than safeguarding public security, whether the separate consent of the individual has been obtained.\n12. In conducting a compliance audit of the processing of lawfully disclosed personal information by a personal information processor, whether the personal information processor commits any of the following unlawful or non-compliant acts shall be examined with focus:\n(a) sending commercial information unrelated to the purpose of disclosure to email addresses, mobile telephone numbers and the like contained in lawfully disclosed personal information;\n(b) using lawfully disclosed personal information to engage in online violence, the dissemination of online rumours and false information and other activities;\n(c) processing lawfully disclosed personal information that the individual has expressly refused to have processed;\n(d) failing to obtain the consent of the individual where there is a major impact on the rights and interests of the individual;\n(e) collecting, retaining or processing lawfully disclosed personal information in a scale, for a period or for a purpose of use exceeding a reasonable scope.\n13. In conducting a compliance audit of the processing of sensitive personal information by a personal information processor, the following matters shall be examined with focus:\n(a) where personal information is processed on the basis of the consent of the individual, whether the separate consent of the individual has been obtained in advance for the processing of sensitive personal information such as biometric identification, religious belief, specific identity, medical health, financial accounts and whereabouts and tracks;\n(b) where personal information is processed on the basis of the consent of the individual, whether the consent of the parents or other guardians of the minor has been obtained in advance for the processing of the personal information of minors under the age of 14;\n(c) whether the purpose, method and scope of the processing of sensitive personal information are lawful, justified and necessary;\n(d) whether a personal information protection impact assessment has been carried out in advance;\n(e) whether individuals have been notified of the necessity of processing the sensitive personal information and the impact on their rights and interests, except where laws or administrative regulations provide that confidentiality shall be maintained or notification is not required;\n(f) where laws or administrative regulations provide that written consent shall be obtained, whether written consent has been obtained;\n(g) whether the restrictive provisions of laws and administrative regulations on the processing of sensitive personal information are complied with.\n14. In conducting a compliance audit of the processing by a personal information processor of the personal information of minors under the age of 14, the following matters shall be examined with focus:\n(a) whether dedicated personal information processing rules have been formulated;\n(b) whether minors and their guardians have been notified of the purpose, method and necessity of the processing of minors' personal information, the categories of personal information processed and the protection measures adopted, except where laws or administrative regulations provide that notification is not required;\n(c) where personal information is processed on the basis of consent, whether there is any act of compelling minors or their guardians to consent to the processing of non-necessary personal information.\n15. In conducting a compliance audit of the provision of personal information abroad by a personal information processor, the following matters shall be examined with focus:\n(a) whether the provision of personal information abroad by an operator of critical information infrastructure has undergone the security assessment organised by the national cyberspace administration department, unless laws, administrative regulations or the national cyberspace administration department provide otherwise;\n(b) whether the provision abroad, by a data processor other than an operator of critical information infrastructure, in aggregate from 1 January of the current year, of the personal information of more than 1 million individuals (excluding sensitive personal information) or the sensitive personal information of more than 10,000 individuals has undergone the security assessment organised by the national cyberspace administration department, unless laws, administrative regulations or the national cyberspace administration department provide otherwise;\n(c) where a data processor other than an operator of critical information infrastructure provides abroad, in aggregate from 1 January of the current year, the personal information of 100,000 or more but fewer than 1 million individuals (excluding sensitive personal information), or the sensitive personal information of fewer than 10,000 individuals, whether, in accordance with the provisions of the national cyberspace administration department, it has obtained personal information protection certification, or concluded a contract with the overseas recipient under the standard contract formulated by the national cyberspace administration department and filed the contract with the provincial cyberspace administration department of the place where it is located, or meets other conditions provided by laws, administrative regulations or the national cyberspace administration department;\n(d) where personal information stored within the territory of the People's Republic of China is provided to a foreign judicial or law enforcement authority, whether the approval of the competent authority of the People's Republic of China has been obtained;\n(e) whether personal information is provided to organisations or individuals included in the list of restrictions on or prohibitions of the provision of personal information.\n16. In conducting a compliance audit of the safeguarding of the right to deletion of personal information, the following matters shall be examined with focus:\n(a) whether the purpose of processing the personal information has been achieved or cannot be achieved, or the information is no longer necessary for the achievement of the processing purpose;\n(b) whether the personal information processor has ceased to provide the product or service, or the individual has cancelled the account;\n(c) whether the retention period has expired;\n(d) whether the individual has withdrawn consent;\n(e) whether the personal information processor processes personal information in violation of laws or administrative regulations or in breach of agreement;\n(f) where the personal information should be deleted but the retention period provided by laws or administrative regulations has not yet expired, or deletion is technically difficult to achieve, whether the personal information processor has ceased processing other than storage and the adoption of necessary security measures.\n17. In conducting a compliance audit of the safeguarding by a personal information processor of the rights of individuals in personal information processing activities, the following matters shall be examined with focus:\n(a) whether a convenient mechanism has been established for accepting and handling applications by individuals to exercise their rights;\n(b) whether applications by individuals to exercise their rights are responded to promptly, and whether the handling opinion or the result of execution is notified promptly, completely and accurately;\n(c) whether, where a request by an individual to exercise his or her rights is refused, the reasons are explained to the individual.\n18. A personal information processor shall respond to applications by individuals and provide explanations of its personal information processing rules; in a compliance audit, the following shall be evaluated with focus:\n(a) whether the personal information processor provides convenient means and channels for accepting and handling requests by individuals for explanations of the personal information processing rules;\n(b) whether, after receiving a request from an individual, the personal information processor provides an explanation of its personal information processing rules in readily intelligible language within a reasonable time.\n19. A personal information processor shall, in accordance with the provisions of laws and administrative regulations, formulate internal management systems and operating procedures, specify the organisational structure and job responsibilities, establish work processes and improve internal control systems, so as to ensure the compliance and security of personal information processing. In a compliance audit, the internal management systems and operating procedures for personal information protection of the personal information processor shall be examined with focus, including but not limited to:\n(a) whether the guidelines, objectives and principles of personal information protection work comply with the provisions of laws and administrative regulations;\n(b) whether the organisational structure, staffing, codes of conduct and management responsibilities for personal information protection are commensurate with the personal information protection responsibilities that shall be performed;\n(c) whether personal information is classified according to the categories, sources, sensitivity and uses of the personal information;\n(d) whether an emergency response mechanism for personal information security incidents has been established;\n(e) whether systems for personal information protection impact assessment and compliance auditing have been established;\n(f) whether an unobstructed process has been established for accepting complaints and reports on personal information protection;\n(g) whether the operational permissions for the processing of personal information are reasonably set;\n(h) whether plans for security education and training on personal information protection have been formulated and implemented;\n(i) whether a system has been established for evaluating the performance of duties by the person in charge of personal information protection and the relevant personnel;\n(j) whether a system of liability for the unlawful processing of personal information has been established;\n(k) other matters provided by laws or administrative regulations.\n20. A personal information processor shall adopt security technical measures commensurate with the scale and type of the personal information processed, and the effectiveness of the technical measures adopted by the personal information processor shall be evaluated, the evaluation covering but not being limited to:\n(a) whether corresponding security technical measures have been adopted to achieve the confidentiality, integrity and availability of personal information;\n(b) whether security technical measures such as encryption and de-identification have been adopted to ensure that, without additional information, the identifiability of personal information is eliminated or reduced;\n(c) whether the security technical measures adopted can reasonably determine the operational permissions of the relevant personnel to consult, copy and transmit personal information and the like, so as to reduce the risk of unauthorised access to and misuse of personal information in the course of processing.\n21. In conducting a compliance audit of the formulation and implementation of the education and training plan of a personal information processor, the following matters shall be evaluated with focus:\n(a) whether corresponding security education and training are provided to management personnel, technical personnel, operating personnel and all staff as planned, and whether the personal information protection awareness and skills of the relevant personnel are assessed;\n(b) whether the content, methods, target audience and frequency of the training can meet the needs of personal information protection.\n22. In conducting a compliance audit of the performance of duties by the person in charge of personal information protection designated by a personal information processor, the following matters shall be examined with focus:\n(a) whether the person in charge of personal information protection has the relevant work experience and professional knowledge and is familiar with the laws and administrative regulations relating to personal information protection;\n(b) whether the person in charge of personal information protection has clear and definite responsibilities and has been given sufficient authority to coordinate the relevant internal departments and personnel of the personal information processor;\n(c) whether the person in charge of personal information protection has the right to put forward relevant opinions and suggestions before decisions are made on major matters of personal information processing;\n(d) whether the person in charge of personal information protection has the right to stop non-compliant operations in the internal processing of personal information by the personal information processor and to take necessary corrective measures;\n(e) whether the personal information processor makes public the contact details of the person in charge of personal information protection and reports the name and contact details of the person in charge of personal information protection to the protection department.\n23. In conducting a compliance audit of the conduct by a personal information processor of personal information protection impact assessments, the conduct of the impact assessments and their content shall be examined with focus:\n(a) whether a personal information protection impact assessment is carried out before personal information processing activities having a major impact on the rights and interests of individuals, in accordance with the provisions of laws and administrative regulations;\n(b) whether an assessment of the lawfulness, justification and necessity of the purpose and method of processing personal information has been carried out;\n(c) whether an assessment of the impact on the rights and interests of individuals and the security risks has been carried out;\n(d) whether an assessment of the lawfulness and effectiveness of the protection measures adopted, and of their adaptability to the degree of risk, has been carried out.\n24. A personal information processor shall formulate emergency response plans for personal information security incidents. In a compliance audit, the comprehensiveness, effectiveness and enforceability of the emergency response plans shall be evaluated, including but not limited to the following:\n(a) whether, in the light of the actual business, a systematic assessment and forecast of the personal information security risks faced has been made;\n(b) whether the general requirements and basic strategies, the organisational bodies and personnel, the technical and material support, the command and handling procedures, and the emergency and support measures are sufficient to respond to the forecast risks;\n(c) whether training on the emergency response plans is provided to the relevant personnel and the emergency response plans are drilled on a regular basis.\n25. In conducting a compliance audit of the emergency response and handling of personal information security incidents by a personal information processor, the following matters shall be examined with focus:\n(a) whether, in accordance with the emergency response plans and operating procedures, the impact, scope and possible harm of the personal information security incident are promptly ascertained, the causes of the incident analysed and determined, and a plan of measures to prevent the expansion of the harm put forward;\n(b) whether channels for notification have been established, and whether the protection departments and individuals are promptly notified in accordance with the relevant provisions after the security incident occurs;\n(c) whether corresponding measures have been taken to minimise the losses that may be caused by the personal information security incident and the risk of harm that may arise.\n26. In conducting a compliance audit of the platform rules formulated by a personal information processor that provides important Internet platform services and has an enormous number of users and complex business types, the following matters shall be examined with focus:\n(a) whether the platform rules conflict with laws or administrative regulations;\n(b) the effectiveness of the personal information protection clauses in the platform rules, and whether they reasonably define the personal information protection rights and obligations of the platform and of the providers of products or services on the platform;\n(c) the implementation of the platform rules, and whether it has been verified by sampling and other means that the platform rules are effectively implemented.\n27. In conducting a compliance audit of the social responsibility report on personal information protection published by a personal information processor that provides important Internet platform services and has an enormous number of users and complex business types, the disclosure of the following in the social responsibility report shall be examined with focus:\n(a) the organisational structure for personal information protection and the internal management situation;\n(b) the development of personal information protection capacity;\n(c) the personal information protection measures and their results;\n(d) the handling of applications by individuals to exercise their rights;\n(e) the performance of duties by the independent supervisory body;\n(f) the handling of major personal information security incidents;\n(g) popularisation and publicity activities and public welfare activities promoting the co-governance of personal information protection by society;\n(h) other matters provided by laws or administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        }
+      }
+    ]
+  };
+
+  TR["CN-PIA-007"] = {
+    "lawId": "CN-PIA-007",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-27",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 20 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Measures are formulated in order to regulate activities of applying facial recognition technology to process facial information and to protect personal information rights and interests, in accordance with the Cybersecurity Law of the People's Republic of China, the Data Security Law of the People's Republic of China, the Personal Information Protection Law of the People's Republic of China, the Regulations on the Security Management of Network Data and other laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "These Measures apply to activities of applying facial recognition technology to process facial information within the territory of the People's Republic of China.\nThese Measures do not apply to the application of facial recognition technology to process facial information within the territory of the People's Republic of China for the purpose of carrying out research and development of facial recognition technology or algorithm training."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Activities of applying facial recognition technology to process facial information shall comply with laws and regulations, respect social morality and ethics, observe commercial ethics and professional ethics, act in good faith, perform personal information protection obligations and bear social responsibility, and shall not endanger national security, harm the public interest or infringe the lawful rights and interests of individuals."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The application of facial recognition technology to process facial information shall have a specific purpose and sufficient necessity, adopt the manner having the least impact on the rights and interests of individuals, and implement strict protection measures."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Before applying facial recognition technology to process facial information, a personal information processor shall inform individuals, in a conspicuous manner and in clear and readily intelligible language, truthfully, accurately and completely of the following matters:\n(a) the name or designation and contact details of the personal information processor;\n(b) the purpose and method of processing the facial information, and the retention period of the facial information processed;\n(c) the necessity of processing the facial information and the impact on the rights and interests of individuals;\n(d) the methods and procedures by which individuals may exercise their rights in accordance with law;\n(e) other matters that shall be notified as provided by laws or administrative regulations.\nWhere the matters specified in the preceding paragraph change, the changed part shall be notified to individuals.\nWhere laws or administrative regulations provide that notification to individuals may be dispensed with, those provisions shall prevail.\nWhere the facial information of persons with disabilities or elderly persons is processed, the provisions of the State on the construction of a barrier-free environment shall additionally be complied with."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Where facial information is processed on the basis of the consent of the individual, the separate consent voluntarily and explicitly given by the individual, having been fully informed, shall be obtained. Where laws or administrative regulations provide that written consent of the individual shall be obtained for the processing of facial information, those provisions shall prevail.\nWhere facial information is processed on the basis of the consent of the individual, the individual has the right to withdraw consent, and the personal information processor shall provide a convenient way to withdraw consent. The withdrawal of consent by an individual shall not affect the validity of the personal information processing activities already carried out on the basis of the consent before the withdrawal."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Where the facial information of minors under the age of 14 is processed on the basis of consent, the consent of the parents or other guardians of the minor shall be obtained.\nWhere a personal information processor applies facial recognition technology to process the facial information of minors under the age of 14, it shall formulate dedicated processing rules on storage, use, transfer and disclosure and the like, so as to protect the security of minors' personal information in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Unless laws or administrative regulations provide otherwise or the separate consent of the individual has been obtained, facial information shall be stored within the facial recognition device and shall not be transmitted externally through the Internet.\nUnless laws or administrative regulations provide otherwise, the retention period of facial information shall not exceed the shortest time necessary to achieve the processing purpose."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "A personal information processor applying facial recognition technology to process facial information shall carry out a personal information protection impact assessment in advance and shall keep records of the processing. The personal information protection impact assessment shall mainly cover the following:\n(a) whether the purpose and method of processing the facial information are lawful, justified and necessary;\n(b) the impact on the rights and interests of individuals, and whether the measures to reduce adverse impact are effective;\n(c) the risk of the divulgence, tampering, loss or damage of facial information, or of its being unlawfully obtained, sold or used, and the harm that may be caused;\n(d) whether the protection measures adopted are lawful, effective and commensurate with the degree of risk.\nPersonal information protection impact assessment reports and records of processing shall be retained for at least three years. Where the purpose or method of processing facial information changes, or a major security incident occurs, the personal information protection impact assessment shall be carried out anew."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Where other non-facial-recognition technical means exist for achieving the same purpose or meeting the same business requirement, facial recognition technology shall not be used as the sole means of verification. Where an individual does not consent to identity verification by means of facial information, other reasonable and convenient means shall be provided.\nWhere the State provides otherwise on the application of facial recognition technology to verify the identity of individuals, those provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Where facial recognition technology is applied to verify the identity of individuals or to identify particular individuals, priority use of channels such as the national population basic information database and the national public services for network identity authentication is encouraged, so as to reduce the collection and storage of facial information and safeguard the security of facial information."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "No organisation or individual may, on the pretext of handling business, improving service quality or the like, mislead, deceive or coerce individuals into accepting verification of their identity by facial recognition technology."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The installation of facial recognition devices in public places shall be necessary for safeguarding public security, the area for the collection of facial information shall be determined lawfully and reasonably, and conspicuous notice signs shall be set up.\nNo organisation or individual may install facial recognition devices in private spaces within public places, such as guest rooms in hotels, public bathrooms, public changing rooms and public toilets."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Facial recognition technology application systems shall adopt measures such as data encryption, security auditing, access control, authorisation management, and intrusion detection and defence to protect the security of facial information. Where the classified protection of cybersecurity or critical information infrastructure is involved, the obligations of classified protection of cybersecurity and of the protection of critical information infrastructure shall be performed in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "A personal information processor shall, within 30 working days from the date on which the quantity of facial information stored through the application of facial recognition technology reaches 100,000 persons, complete the filing formalities with the cyberspace administration department at or above the provincial level of the place where it is located. The following materials shall be submitted for filing:\n(a) basic information on the personal information processor;\n(b) the purpose and method of processing the facial information;\n(c) the quantity of facial information stored and the security protection measures;\n(d) the processing rules and operating procedures for the facial information;\n(e) the personal information protection impact assessment report.\nWhere the filing information undergoes substantive change, the formalities for changing the filing shall be completed within 30 working days from the date of the change. Where the application of facial recognition technology is terminated, the formalities for cancellation of the filing shall be completed within 30 working days from the date of termination, and the facial information shall be handled in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The cyberspace administration departments, together with the public security organs and other departments performing personal information protection duties, shall establish and improve working mechanisms for information sharing and notification and carry out the relevant work in coordination.\nThe cyberspace administration departments, public security organs and other departments performing personal information protection duties shall, in accordance with law, supervise and inspect activities of applying facial recognition technology to process personal information, and personal information processors shall cooperate in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Any organisation or individual has the right to complain of or report activities of unlawfully applying facial recognition technology to process facial information to the departments performing personal information protection duties. The department receiving the complaint or report shall promptly handle it in accordance with law and inform the complainant or reporter of the outcome."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where these Measures are violated, the matter shall be dealt with in accordance with the provisions of the relevant laws and administrative regulations; where a crime is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "For the purposes of these Measures, the following terms have the meanings given below:\n(a) \"Personal information processor\" means an organisation or individual that independently decides the purpose and method of processing in personal information processing activities.\n(b) \"Facial information\" means biometric information on facial features relating to an identified or identifiable natural person, recorded in electronic or other form, excluding information after anonymisation processing.\n(c) \"Facial recognition technology\" means individual biometric identification technology that uses facial information as the basis for identifying an individual's identity.\n(d) \"Facial recognition device\" means terminal equipment that applies facial recognition technology to identify an individual's identity.\n(e) \"Verification of an individual's identity\" means one-to-one comparison of facial information collected with the specific facial information stored in an information system, so as to confirm and check whether the two relate to the same person.\n(f) \"Identification of a particular individual\" means one-to-many comparison of facial information collected with the facial information within a specific range stored in an information system, so as to discover and identify an individual having a particular identity."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "These Measures shall come into force on 1 June 2025."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        }
+      }
+    ]
+  };
+
+  TR["CN-PIA-008"] = {
+    "lawId": "CN-PIA-008",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-27",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 19 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Measures are formulated in order to protect personal information rights and interests, regulate certification activities for the cross-border transfer of personal information, and promote the efficient and secure cross-border flow of personal information, in accordance with the Personal Information Protection Law of the People's Republic of China, the Regulations on the Security Management of Network Data, the Regulations of the People's Republic of China on Certification and Accreditation and other laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "These Measures apply to personal information processors providing personal information outside the territory of the People's Republic of China by way of personal information protection certification."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "For the purposes of these Measures, \"certification of the cross-border transfer of personal information\" means, in accordance with Article 38, paragraph 1, item (2) of the Personal Information Protection Law of the People's Republic of China, a conformity assessment activity in which a professional certification body that has lawfully obtained the qualification for personal information protection certification certifies that the personal information processing activities of a personal information processor, such as the provision of personal information outside the territory of the People's Republic of China, conform to the relevant laws, administrative regulations, departmental rules, standards and technical specifications."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The national cyberspace administration department, together with the national data management department and other relevant departments, shall formulate the standards and technical specifications relating to the certification of the cross-border transfer of personal information. The national market regulation department, together with the national cyberspace administration department, shall formulate the rules for personal information protection certification and unify the certification certificates and marks."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Where a personal information processor provides personal information abroad by way of certification of the cross-border transfer of personal information, it shall simultaneously meet the following circumstances:\n(a) it is not an operator of critical information infrastructure;\n(b) it has provided abroad, in aggregate from 1 January of the current year, the personal information of 100,000 or more but fewer than 1 million individuals (excluding sensitive personal information), or the sensitive personal information of fewer than 10,000 individuals.\nThe personal information provided abroad referred to in the preceding paragraph does not include important data.\nWhere laws, administrative regulations or the national cyberspace administration department provide otherwise, those provisions shall prevail.\nPersonal information processors shall not, by dividing the quantity of data or by other means, provide abroad by way of certification of the cross-border transfer of personal information personal information that shall be provided abroad through a security assessment of cross-border transfer in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Before applying for certification to provide personal information abroad, a personal information processor shall, in accordance with the provisions of laws and administrative regulations, perform the obligations of notification, of obtaining the separate consent of individuals, and of carrying out a personal information protection impact assessment. The personal information protection impact assessment shall focus on the following:\n(a) the lawfulness, justification and necessity of the purpose, scope and method of the processing of personal information by the personal information processor and by the overseas recipient;\n(b) the scale, scope, categories and sensitivity of the personal information transferred abroad, and the risks that the cross-border transfer of personal information may pose to national security, the public interest and personal information rights and interests;\n(c) whether the obligations undertaken by the overseas recipient, and the management and technical measures and capacity for performing those obligations, can safeguard the security of the personal information transferred abroad;\n(d) the risk of the personal information being tampered with, destroyed, divulged, lost or unlawfully used after the cross-border transfer, and whether the channels for safeguarding personal information rights and interests are unobstructed;\n(e) the impact of the personal information protection policies and laws of the country or region where the overseas recipient is located on the security of the personal information transferred abroad and on personal information rights and interests;\n(f) other matters that may affect the security of the cross-border transfer of personal information."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "A personal information processor providing personal information abroad by way of certification shall apply to a professional certification body for certification of the cross-border transfer of personal information.\nWhere a personal information processor outside the territory of the People's Republic of China applies for certification of the cross-border transfer of personal information, the application shall be assisted by a dedicated body established, or a representative designated, by it within the territory."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Professional certification bodies shall carry out certification activities for the cross-border transfer of personal information in accordance with the basic norms for certification and the rules for personal information protection certification. Where the certification requirements are met, the professional certification body shall issue a certification certificate promptly.\nA certification certificate shall be valid for three years. Where continued use is required upon expiry of the certificate, the personal information processor shall submit a certification application six months before the expiry of the period of validity."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Within five working days after issuing a certification certificate or after a change in the status of a certification certificate, a professional certification body shall report the relevant information on the certification certificate for the cross-border transfer of personal information to the national public service platform for certification and accreditation information, including the number of the certification certificate, the name of the certified personal information processor, the scope of certification and information on changes in the status of the certificate.\nThe national market regulation department and the national cyberspace administration department shall establish a mechanism for sharing certification information."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Where a professional certification body finds that a certified personal information processor no longer meets the certification requirements, for example because its cross-border transfer of personal information is inconsistent with the scope of certification, it shall suspend the use of the certification until the relevant certification certificate is revoked.\nWhere the national cyberspace administration department and the relevant departments find in their supervision and administration of personal information protection that a certified personal information processor is in the circumstances referred to in the preceding paragraph, the professional certification body shall cooperate in suspending the use of the certification until the relevant certification certificate is revoked.\nThe circumstances referred to in the preceding two paragraphs shall be published through the national public service platform for certification and accreditation information."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Where a professional certification body finds in carrying out certification activities that an activity of cross-border transfer of personal information violates laws, administrative regulations or the relevant provisions of the State, it shall promptly report to the national cyberspace administration department and the relevant departments."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "A professional certification body carrying out certification of the cross-border transfer of personal information shall, within ten working days from the date on which it obtains the qualification for personal information protection certification upon approval by the national market regulation department, complete the filing formalities with the national cyberspace administration department. The following materials shall be submitted for filing:\n(a) information on the certification qualification obtained in the field of personal information protection;\n(b) its professional work in the fields of data security and personal information protection over the past three years;\n(c) materials on the security background checks of the personnel of the professional certification body;\n(d) the detailed implementation rules and work plan for personal information protection certification;\n(e) the mechanism for preventing personal information security risks;\n(f) the mechanism for continuously supervising the conformity of the cross-border transfer activities of certified personal information processors with the certification standards;\n(g) the mechanism for accepting complaints and resolving disputes;\n(h) other materials that need to be submitted.\nProfessional certification bodies shall be responsible for the authenticity of the materials filed.\nAfter receiving the filing materials submitted by a professional certification body, the national cyberspace administration department shall, together with the national data management department, review the filing materials. Where the materials are complete, it shall complete the filing within 30 working days and make it public; where the materials are incomplete, it shall not complete the filing and shall notify the professional certification body within 30 working days, stating the reasons."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The national market regulation department and the national cyberspace administration department shall supervise certification activities for the cross-border transfer of personal information, carry out regular or irregular inspections, conduct spot checks on the certification process and certification results, and conduct spot checks on and evaluate professional certification bodies."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "State organs, professional certification bodies and other bodies carrying out certification activities, and their staff, shall keep confidential in accordance with law the personal privacy, personal information, trade secrets and confidential business information that they learn of in the performance of their duties, and shall not divulge it, unlawfully provide it to others or unlawfully use it."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Any organisation or individual that finds a certified personal information processor providing personal information abroad in violation of these Measures may complain of or report it to the professional certification body, the cyberspace administration departments and the relevant departments."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where the cyberspace administration departments at or above the provincial level and the relevant departments find that there is a relatively major risk in the cross-border transfer of personal information by a certified personal information processor or that a personal information security incident has occurred, they may, in accordance with law, conduct a regulatory talk with the certified personal information processor. The certified personal information processor shall rectify as required and eliminate the hidden danger."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Where these Measures are violated, the matter shall be dealt with in accordance with the Personal Information Protection Law of the People's Republic of China, the Regulations on the Security Management of Network Data, the Regulations of the People's Republic of China on Certification and Accreditation and other laws and regulations; where a crime is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where the relevant provisions on certification of the cross-border transfer of personal information formulated before these Measures came into force are inconsistent with these Measures, these Measures shall apply."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "These Measures shall come into force on 1 January 2026."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        }
+      }
+    ]
+  };
+
+  TR["CN-PIA-009"] = {
+    "lawId": "CN-PIA-009",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-27",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 14 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "In order to safeguard data security, protect rights and interests in personal information and promote the lawful, orderly and free flow of data, these Provisions are formulated in accordance with laws and regulations such as the Cybersecurity Law of the People's Republic of China, the Data Security Law of the People's Republic of China and the Personal Information Protection Law of the People's Republic of China, in respect of the implementation of the data export systems, namely the security assessment of data export, the standard contract for the export of personal information and the certification of personal information protection."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Data processors shall identify and declare important data in accordance with the relevant provisions. Where data has not been notified to them or publicly released as important data by the relevant departments or regions, data processors need not declare it as important data for the security assessment of data export."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Where data collected and generated in activities such as international trade, cross-border transport, academic cooperation, transnational manufacturing and marketing is provided to an overseas party and does not contain personal information or important data, the data processor is exempt from declaring the security assessment of data export, concluding the standard contract for the export of personal information and obtaining the certification of personal information protection."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Where personal information collected and generated outside the territory by a data processor is transmitted into the territory, processed and then provided to an overseas party, and no personal information or important data within the territory is introduced in the course of processing, the data processor is exempt from declaring the security assessment of data export, concluding the standard contract for the export of personal information and obtaining the certification of personal information protection."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Where a data processor provides personal information to an overseas party and any of the following conditions is satisfied, it is exempt from declaring the security assessment of data export, concluding the standard contract for the export of personal information and obtaining the certification of personal information protection:\n(1) it is truly necessary to provide personal information to an overseas party for the conclusion or performance of a contract to which the individual is a party, such as cross-border shopping, cross-border delivery, cross-border remittance, cross-border payment, cross-border account opening, air ticket and hotel booking, visa application and examination services;\n(2) it is truly necessary to provide employees' personal information to an overseas party for the implementation of cross-border human resources management in accordance with the labour rules and regulations formulated in accordance with law and the collective contracts concluded in accordance with law;\n(3) it is truly necessary to provide personal information to an overseas party in an emergency for the protection of the life, health and property safety of natural persons;\n(4) a data processor other than an operator of critical information infrastructure has provided to overseas parties the personal information of fewer than 100,000 individuals (excluding sensitive personal information) in aggregate since 1 January of the current year.\nThe personal information provided to overseas parties referred to in the preceding paragraph does not include important data."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Within the framework of the national system for the classified and graded protection of data, a pilot free trade zone may itself formulate a list of data (hereinafter referred to as the negative list) that shall be included within the scope of management by the security assessment of data export, the standard contract for the export of personal information and the certification of personal information protection, and shall, after approval by the provincial cybersecurity and informatisation committee, report it to the national cyberspace administration and the national data management department for the record.\nWhere a data processor within a pilot free trade zone provides data outside the negative list to an overseas party, it may be exempt from declaring the security assessment of data export, concluding the standard contract for the export of personal information and obtaining the certification of personal information protection."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Where a data processor provides data to an overseas party and any of the following conditions is satisfied, it shall declare the security assessment of data export to the national cyberspace administration through the provincial cyberspace administration of the place where it is located:\n(1) an operator of critical information infrastructure provides personal information or important data to an overseas party;\n(2) a data processor other than an operator of critical information infrastructure provides important data to an overseas party, or has provided to overseas parties the personal information of 1,000,000 or more individuals (excluding sensitive personal information), or the sensitive personal information of 10,000 or more individuals, in aggregate since 1 January of the current year.\nWhere a circumstance provided for in Article 3, 4, 5 or 6 of these Provisions is present, those provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Where a data processor other than an operator of critical information infrastructure has provided to overseas parties the personal information of 100,000 or more but fewer than 1,000,000 individuals (excluding sensitive personal information), or the sensitive personal information of fewer than 10,000 individuals, in aggregate since 1 January of the current year, it shall conclude a standard contract for the export of personal information with the overseas recipient or obtain the certification of personal information protection in accordance with law.\nWhere a circumstance provided for in Article 3, 4, 5 or 6 of these Provisions is present, those provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The result of passing the security assessment of data export is valid for three years, counted from the date of issuance of the assessment result. Where the validity period expires, the data processor needs to continue carrying out data export activities and no circumstance requiring a new declaration of the security assessment of data export has arisen, the data processor may, within 60 working days before the expiry of the validity period, apply to the national cyberspace administration through the provincial cyberspace administration of the place where it is located for an extension of the validity period of the assessment result. Upon approval by the national cyberspace administration, the validity period of the assessment result may be extended by three years."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Where a data processor provides personal information to an overseas party, it shall perform the obligations of informing, obtaining the separate consent of the individual and conducting a personal information protection impact assessment in accordance with the provisions of laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Where a data processor provides data to an overseas party, it shall comply with the provisions of laws and regulations, perform the obligations of data security protection and adopt technical measures and other necessary measures to safeguard the security of data export. Where a data security incident occurs or is likely to occur, it shall adopt remedial measures and promptly report to the cyberspace administration at or above the provincial level and other relevant competent departments."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The cyberspace administration of each place shall strengthen guidance and supervision over the data export activities of data processors, improve the system for the security assessment of data export and optimise the assessment process; strengthen supervision throughout the whole chain and in all fields before, during and after the event, and where relatively significant risks are found in data export activities or a data security incident occurs, require the data processor to carry out rectification and eliminate the hazards; where rectification is refused or serious consequences are caused, legal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where the relevant provisions such as the Measures for the Security Assessment of Data Export (Order No. 11 of the Cyberspace Administration of China) published on 7 July 2022 and the Measures for the Standard Contract for the Export of Personal Information (Order No. 13 of the Cyberspace Administration of China) published on 22 February 2023 are inconsistent with these Provisions, these Provisions shall apply."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "These Provisions shall come into force on the date of publication."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      }
+    ]
+  };
+
+  TR["CN-PIA-010"] = {
+    "lawId": "CN-PIA-010",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-27",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 20 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "In order to regulate data export activities, protect rights and interests in personal information, safeguard national security and the public interest, and promote the secure and free flow of data across borders, these Measures are formulated in accordance with laws and regulations such as the Cybersecurity Law of the People's Republic of China, the Data Security Law of the People's Republic of China and the Personal Information Protection Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "These Measures apply to the security assessment of the provision to overseas parties of important data and personal information collected and generated by data processors in the course of their operations within the territory of the People's Republic of China. Where laws or administrative regulations provide otherwise, those provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The security assessment of data export persists in combining prior assessment with continuous supervision and in combining self-assessment of risks with security assessment, so as to prevent data export security risks and ensure the lawful, orderly and free flow of data."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Where a data processor provides data to an overseas party and any of the following circumstances is present, it shall declare the security assessment of data export to the national cyberspace administration through the provincial cyberspace administration of the place where it is located:\n(1) the data processor provides important data to an overseas party;\n(2) an operator of critical information infrastructure or a data processor that processes the personal information of 1,000,000 or more individuals provides personal information to an overseas party;\n(3) a data processor that has provided to overseas parties the personal information of 100,000 individuals or the sensitive personal information of 10,000 individuals in aggregate since 1 January of the preceding year provides personal information to an overseas party;\n(4) other circumstances provided for by the national cyberspace administration in which a declaration of the security assessment of data export is required."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Before declaring the security assessment of data export, a data processor shall carry out a self-assessment of data export risks, focusing on the following matters:\n(1) the lawfulness, propriety and necessity of the purpose, scope and method of the data export and of the processing of data by the overseas recipient;\n(2) the scale, scope, categories and degree of sensitivity of the exported data, and the risks that the data export may bring to national security, the public interest or the lawful rights and interests of individuals or organisations;\n(3) the responsibilities and obligations undertaken by the overseas recipient, and whether its management and technical measures and its capacity to perform those responsibilities and obligations can guarantee the security of the exported data;\n(4) the risks of the exported data being tampered with, destroyed, leaked, lost, transferred or unlawfully obtained or unlawfully used during and after export, and whether the channels for safeguarding rights and interests in personal information are unobstructed;\n(5) whether the contract relating to data export or other documents with legal effect (hereinafter collectively referred to as legal documents) to be concluded with the overseas recipient fully provide for the responsibilities and obligations of data security protection;\n(6) other matters that may affect the security of data export."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "To declare the security assessment of data export, the following materials shall be submitted:\n(1) the declaration form;\n(2) the report on the self-assessment of data export risks;\n(3) the legal documents to be concluded between the data processor and the overseas recipient;\n(4) other materials needed for the security assessment work."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The provincial cyberspace administration shall complete the check for completeness within 5 working days from the date of receipt of the declaration materials. Where the declaration materials are complete, it shall submit them to the national cyberspace administration; where the declaration materials are incomplete, it shall return them to the data processor and inform it at one time of the materials to be supplemented.\nThe national cyberspace administration shall, within 7 working days from the date of receipt of the declaration materials, determine whether to accept the declaration and notify the data processor in writing."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The security assessment of data export focuses on assessing the risks that data export activities may bring to national security, the public interest or the lawful rights and interests of individuals or organisations, mainly covering the following matters:\n(1) the lawfulness, propriety and necessity of the purpose, scope and method of the data export;\n(2) the impact of the policies and laws on data security protection and of the cybersecurity environment of the country or region where the overseas recipient is located on the security of the exported data, and whether the level of data protection of the overseas recipient meets the requirements of the provisions of laws and administrative regulations of the People's Republic of China and of the mandatory national standards;\n(3) the scale, scope, categories and degree of sensitivity of the exported data, and the risks of the data being tampered with, destroyed, leaked, lost, transferred or unlawfully obtained or unlawfully used during and after export;\n(4) whether data security and rights and interests in personal information can be fully and effectively guaranteed;\n(5) whether the legal documents to be concluded between the data processor and the overseas recipient fully provide for the responsibilities and obligations of data security protection;\n(6) compliance with Chinese laws, administrative regulations and departmental rules;\n(7) other matters that the national cyberspace administration considers necessary to assess."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "A data processor shall expressly provide in the legal documents concluded with the overseas recipient for the responsibilities and obligations of data security protection, including at least the following:\n(1) the purpose and method of the data export and the scope of the data, and the use and method of the processing of the data by the overseas recipient;\n(2) the place and period of storage of the data outside the territory, and the measures for handling the exported data upon expiry of the storage period, upon completion of the agreed purpose or upon termination of the legal documents;\n(3) binding requirements on the further transfer of the exported data by the overseas recipient to other organisations or individuals;\n(4) the security measures to be taken where the overseas recipient undergoes a substantive change in actual control or scope of business, or where changes occur in the policies and laws on data security protection and in the cybersecurity environment of the country or region where it is located, or where other force majeure circumstances occur, making it difficult to guarantee data security;\n(5) the remedial measures, liability for breach of contract and methods of dispute resolution in respect of breach of the obligations of data security protection agreed in the legal documents;\n(6) the requirements for properly carrying out emergency response where the exported data is tampered with, destroyed, leaked, lost, transferred or unlawfully obtained or unlawfully used, and the channels and methods for safeguarding individuals in exercising their rights and interests in personal information."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "After accepting a declaration, the national cyberspace administration shall, in light of the circumstances of the declaration, organise the relevant departments under the State Council, the provincial cyberspace administrations and specialised institutions to conduct the security assessment."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Where, in the course of the security assessment, it is found that the declaration materials submitted by the data processor do not meet the requirements, the national cyberspace administration may require it to supplement or correct them. Where the data processor fails to supplement or correct them without justified reasons, the national cyberspace administration may terminate the security assessment.\nThe data processor shall be responsible for the authenticity of the materials submitted; where it intentionally submits false materials, the matter shall be treated as failing the assessment and the corresponding legal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The national cyberspace administration shall complete the security assessment of data export within 45 working days from the date of issuance of the written notice of acceptance to the data processor; where the circumstances are complex or materials need to be supplemented or corrected, the period may be appropriately extended and the estimated extension period shall be communicated to the data processor.\nThe assessment result shall be notified to the data processor in writing."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where a data processor objects to the assessment result, it may, within 15 working days of receipt of the assessment result, apply to the national cyberspace administration for a re-assessment, and the re-assessment result is final."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The result of passing the security assessment of data export is valid for two years, counted from the date of issuance of the assessment result. Where any of the following circumstances arises within the validity period, the data processor shall declare the assessment anew:\n(1) changes in the purpose, method, scope and categories of the provision of data to overseas parties, or in the use and method of the processing of data by the overseas recipient, affect the security of the exported data, or the period of storage of personal information and important data outside the territory is extended;\n(2) changes in the policies and laws on data security protection and in the cybersecurity environment of the country or region where the overseas recipient is located, other force majeure circumstances, changes in the actual control of the data processor or of the overseas recipient, or modifications of the legal documents between the data processor and the overseas recipient, affect the security of the exported data;\n(3) other circumstances affecting the security of the exported data arise.\nWhere the validity period expires and the data processor needs to continue carrying out data export activities, it shall declare the assessment anew 60 working days before the expiry of the validity period."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The institutions and personnel participating in the security assessment work shall keep confidential in accordance with law the data such as State secrets, personal privacy, personal information, trade secrets and confidential commercial information that comes to their knowledge in the performance of their duties, and may not leak it, unlawfully provide it to others or unlawfully use it."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where any organisation or individual discovers that a data processor provides data to an overseas party in violation of these Measures, it may report the matter to the cyberspace administration at or above the provincial level."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Where the national cyberspace administration discovers that data export activities that have passed the assessment no longer meet the requirements for the security management of data export in the course of actual processing, it shall notify the data processor in writing to terminate the data export activities. Where the data processor needs to continue carrying out data export activities, it shall carry out rectification as required and declare the assessment anew after completing the rectification."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Violations of the provisions of these Measures shall be handled in accordance with laws and regulations such as the Cybersecurity Law of the People's Republic of China, the Data Security Law of the People's Republic of China and the Personal Information Protection Law of the People's Republic of China; where a crime is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "For the purposes of these Measures, important data means data which, once tampered with, destroyed, leaked or unlawfully obtained or unlawfully used, may endanger national security, economic operation, social stability, public health and safety, among others."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "These Measures shall come into force on 1 September 2022. Data export activities already carried out before the entry into force of these Measures that do not comply with the provisions of these Measures shall be rectified within six months from the date of entry into force of these Measures."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        }
+      }
+    ]
+  };
+
+  TR["CN-PIA-011"] = {
+    "lawId": "CN-PIA-011",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-27",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 13 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "In order to protect rights and interests in personal information and regulate the export of personal information, these Measures are formulated in accordance with laws and regulations such as the Personal Information Protection Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "These Measures apply to the provision of personal information to a party outside the territory of the People's Republic of China by a personal information processor by concluding a standard contract for the export of personal information (hereinafter referred to as the standard contract) with the overseas recipient."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The carrying out of the export of personal information by concluding a standard contract shall persist in combining independent contracting with filing management and in combining the protection of rights and interests with the prevention of risks, so as to ensure the secure and free flow of personal information across borders."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Where a personal information processor provides personal information to an overseas party by concluding a standard contract, the following circumstances shall be satisfied at the same time:\n(1) it is not an operator of critical information infrastructure;\n(2) it processes the personal information of fewer than 1,000,000 individuals;\n(3) it has provided to overseas parties the personal information of fewer than 100,000 individuals in aggregate since 1 January of the preceding year;\n(4) it has provided to overseas parties the sensitive personal information of fewer than 10,000 individuals in aggregate since 1 January of the preceding year.\nWhere laws, administrative regulations or the national cyberspace administration provide otherwise, those provisions shall prevail.\nA personal information processor may not, by means such as splitting the quantity, provide to an overseas party by concluding a standard contract personal information that shall be subject to the security assessment of export in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Before providing personal information to an overseas party, a personal information processor shall carry out a personal information protection impact assessment, focusing on the following:\n(1) the lawfulness, propriety and necessity of the purpose, scope and method of the processing of personal information by the personal information processor and by the overseas recipient;\n(2) the scale, scope, categories and degree of sensitivity of the exported personal information, and the risks that the export of personal information may bring to rights and interests in personal information;\n(3) the obligations undertaken by the overseas recipient, and whether its management and technical measures and its capacity to perform the obligations can guarantee the security of the exported personal information;\n(4) the risks of the exported personal information being tampered with, destroyed, leaked, lost or unlawfully used after export, and whether the channels for safeguarding rights and interests in personal information are unobstructed;\n(5) the impact of the personal information protection policies and laws of the country or region where the overseas recipient is located on the performance of the standard contract;\n(6) other matters that may affect the security of the export of personal information."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The standard contract shall be concluded strictly in accordance with the annex to these Measures. The national cyberspace administration may adjust the annex in light of the actual circumstances.\nA personal information processor may agree with the overseas recipient on other clauses, provided that they do not conflict with the standard contract.\nThe export of personal information may be carried out only after the standard contract takes effect."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "A personal information processor shall, within 10 working days from the date of entry into force of the standard contract, file the contract with the provincial cyberspace administration of the place where it is located. The following materials shall be submitted for filing:\n(1) the standard contract;\n(2) the report on the personal information protection impact assessment.\nThe personal information processor shall be responsible for the authenticity of the filed materials."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Where any of the following circumstances arises within the validity period of the standard contract, the personal information processor shall carry out a new personal information protection impact assessment, supplement or re-conclude the standard contract, and complete the corresponding filing formalities:\n(1) changes in the purpose, scope, categories, degree of sensitivity, method or place of storage of the provision of personal information to an overseas party, or in the use or method of the processing of personal information by the overseas recipient, or an extension of the period of storage of personal information outside the territory;\n(2) changes in the personal information protection policies and laws of the country or region where the overseas recipient is located, which may affect rights and interests in personal information;\n(3) other circumstances that may affect rights and interests in personal information."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The cyberspace administration and its staff members shall keep confidential in accordance with law the personal privacy, personal information, trade secrets and confidential commercial information that comes to their knowledge in the performance of their duties, and may not leak it, unlawfully provide it to others or unlawfully use it."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Where any organisation or individual discovers that a personal information processor provides personal information to an overseas party in violation of these Measures, it may report the matter to the cyberspace administration at or above the provincial level."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Where the cyberspace administration at or above the provincial level discovers that relatively significant risks exist in the export of personal information or that a personal information security incident has occurred, it may hold regulatory talks with the personal information processor in accordance with law. The personal information processor shall carry out rectification as required and eliminate the hazards."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Violations of the provisions of these Measures shall be handled in accordance with laws and regulations such as the Personal Information Protection Law of the People's Republic of China; where a crime is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "These Measures shall come into force on 1 June 2023. Personal information export activities already carried out before the entry into force of these Measures that do not comply with the provisions of these Measures shall be rectified within six months from the date of entry into force of these Measures.\nStandard Contract for the Export of Personal Information (click to download)\n//www.cac.gov.cn/pdf/web/viewer.html?file=//www.cac.gov.cn/rootimages/uploadimg/1678884832607075/1678884832607075.pdf\n//www.cac.gov.cn/rootimages/uploadimg/1678884832607075/1678884832607075.pdf"
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      }
+    ]
+  };
+
+  TR["CN-PIA-012"] = {
+    "lawId": "CN-PIA-012",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-27",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 29 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Provisions are formulated in order to protect the security of children's personal information and promote the healthy growth of children, in accordance with the Cybersecurity Law of the People's Republic of China, the Law of the People's Republic of China on the Protection of Minors and other laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "For the purposes of these Provisions, \"children\" means minors under the age of 14."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "These Provisions apply to activities such as the collection, storage, use, transfer and disclosure of children's personal information through networks within the territory of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "No organisation or individual may produce, publish or disseminate information infringing the security of children's personal information."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Guardians of children shall properly perform their guardianship duties, educate and guide children to enhance their awareness and capacity for personal information protection, and protect the security of children's personal information."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Internet industry organisations are encouraged to guide and promote network operators in formulating industry norms and codes of conduct for the protection of children's personal information, strengthening industry self-discipline and performing social responsibilities."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Where network operators collect, store, use, transfer or disclose children's personal information, they shall follow the principles of justification and necessity, informed consent, clear purpose, security safeguards and lawful use."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Network operators shall establish dedicated rules for the protection of children's personal information and dedicated user agreements, and designate dedicated personnel to be responsible for the protection of children's personal information."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Where network operators collect, use, transfer or disclose children's personal information, they shall inform the guardians of the children in a conspicuous and clear manner and shall obtain the consent of the guardians of the children."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Where a network operator obtains consent, it shall at the same time provide an option to refuse and clearly inform of the following matters:\n(a) the purpose, method and scope of collecting, storing, using, transferring and disclosing children's personal information;\n(b) the place and period of storage of children's personal information and the manner of handling it upon expiry;\n(c) the security safeguard measures for children's personal information;\n(d) the consequences of refusal;\n(e) the channels and methods for complaints and reports;\n(f) the channels and methods for correcting and deleting children's personal information;\n(g) other matters that shall be notified.\nWhere the matters notified as provided in the preceding paragraph undergo substantive change, the consent of the guardians of the children shall be obtained again."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Network operators shall not collect children's personal information unrelated to the services they provide, and shall not collect children's personal information in violation of the provisions of laws or administrative regulations or of the agreement between the parties."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Network operators shall not store children's personal information beyond the period necessary to achieve the purpose of its collection and use."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Network operators shall store children's personal information by measures such as encryption so as to ensure information security."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Network operators shall not use children's personal information in violation of the provisions of laws or administrative regulations or of the purpose and scope agreed between the parties. Where use beyond the agreed purpose or scope is truly necessary for business reasons, the consent of the guardians of the children shall be obtained again."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Network operators shall, in relation to their staff, apply the principle of minimum authorisation, strictly set information access permissions and control the scope of persons who know children's personal information. Where staff access children's personal information, the access shall be approved by the person in charge of children's personal information protection or by a managerial person authorised by him or her, the access shall be recorded, and technical measures shall be taken to prevent the unlawful copying or downloading of children's personal information."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where a network operator entrusts a third party with the processing of children's personal information, it shall carry out a security assessment of the entrusted party and of the entrusted act, and shall sign an entrustment agreement specifying the responsibilities of both parties, the matters to be processed, the processing period, and the nature and purpose of the processing; the entrusted act shall not exceed the scope of authorisation.\nThe entrusted party referred to in the preceding paragraph shall perform the following obligations:\n(a) processing children's personal information in accordance with the provisions of laws and administrative regulations and the requirements of the network operator;\n(b) assisting the network operator in responding to applications made by guardians of children;\n(c) taking measures to safeguard information security and, in the event of a security incident involving the divulgence of children's personal information, promptly giving feedback to the network operator;\n(d) promptly deleting children's personal information upon termination of the entrustment relationship;\n(e) not further entrusting the processing to another party;\n(f) other obligations for the protection of children's personal information that shall be performed in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Where a network operator transfers children's personal information to a third party, it shall carry out a security assessment itself or by engaging a third-party institution."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Network operators shall not disclose children's personal information, except where disclosure is required by laws or administrative regulations or is permitted under an agreement with the guardians of the children."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Where a child or his or her guardian finds that children's personal information collected, stored, used or disclosed by a network operator is erroneous, he or she has the right to require the network operator to correct it. The network operator shall promptly take measures to correct it."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where a child or his or her guardian requires a network operator to delete children's personal information that it has collected, stored, used or disclosed, the network operator shall promptly take measures to delete it, including but not limited to the following circumstances:\n(a) the network operator collects, stores, uses, transfers or discloses children's personal information in violation of the provisions of laws or administrative regulations or of the agreement between the parties;\n(b) children's personal information is collected, stored, used, transferred or disclosed beyond the scope of the purpose or beyond the necessary period;\n(c) the guardian of the child withdraws consent;\n(d) the child or his or her guardian terminates the use of the product or service by cancelling an account or by other means."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where a network operator finds that children's personal information is or may be divulged, damaged or lost, it shall immediately activate the emergency response plan and take remedial measures; where serious consequences are or may be caused, it shall immediately report to the competent department concerned and inform the affected children and their guardians of the relevant circumstances of the incident by email, letter, telephone, push notification or other means; where it is difficult to inform them one by one, it shall publish the relevant warning information in a reasonable and effective manner."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Network operators shall cooperate with the supervision and inspection lawfully carried out by the cyberspace administration departments and other relevant departments."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where a network operator ceases to operate a product or service, it shall immediately cease activities of collecting children's personal information, delete the children's personal information it holds, and promptly inform the guardians of the children of the notice of cessation of operations."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Any organisation or individual that finds any act in violation of these Provisions may report it to the cyberspace administration departments and other relevant departments.\nWhere the cyberspace administration departments and other relevant departments receive such a report, they shall promptly handle it according to their duties."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Where a network operator fails to properly implement its responsibility for the security management of children's personal information and there is a relatively major security risk or a security incident occurs, the cyberspace administration department shall, according to its duties, conduct a regulatory talk, and the network operator shall promptly take measures to rectify and eliminate the hidden danger."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Where these Provisions are violated, the cyberspace administration departments and other relevant departments shall, according to their duties, deal with the matter in accordance with the provisions of the Cybersecurity Law of the People's Republic of China, the Measures for the Administration of Internet Information Services and other relevant laws and regulations; where a crime is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where legal liability is pursued for a violation of these Provisions, the matter shall be recorded in the credit file in accordance with the provisions of the relevant laws and administrative regulations and shall be made public."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Where information is automatically retained and processed through a computer information system and it cannot be identified that the retained and processed information is children's personal information, the other relevant provisions shall be applied."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "These Provisions shall come into force on 1 October 2019."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        }
+      }
+    ]
+  };
+
+  TR["CN-PIA-013"] = {
+    "lawId": "CN-PIA-013",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-27",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 1 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Secretariat of the Cyberspace Administration of China\nGeneral Office of the Ministry of Industry and Information Technology\nGeneral Office of the Ministry of Public Security\nGeneral Office of the State Administration for Market Regulation\nNotice on the Issuance of the Measures for Determining the Unlawful and Non-compliant Collection and Use of Personal Information by Apps\nNo. 191 [2019] of the Secretariat of the Cyberspace Administration of China\nTo the cyberspace administration offices, communications administrations, public security departments (bureaux) and market regulation bureaux (commissions) of all provinces, autonomous regions and municipalities directly under the Central Government, and of the Xinjiang Production and Construction Corps:\nIn accordance with the Announcement on Carrying out the Special Campaign on the Unlawful and Non-compliant Collection and Use of Personal Information by Apps, and in order to provide a reference for determining the unlawful and non-compliant collection and use of personal information by Apps and to implement the Cybersecurity Law and other laws and regulations, the Cyberspace Administration of China, the Ministry of Industry and Information Technology, the Ministry of Public Security and the State Administration for Market Regulation have jointly formulated the Measures for Determining the Unlawful and Non-compliant Collection and Use of Personal Information by Apps. They are hereby issued to you for reference and implementation in the light of the actual practice of supervision and law enforcement.\nSecretariat of the Cyberspace Administration of China\nGeneral Office of the Ministry of Industry and Information Technology\nGeneral Office of the Ministry of Public Security\nGeneral Office of the State Administration for Market Regulation\n28 November 2019\nMeasures for Determining the Unlawful and Non-compliant Collection and Use of Personal Information by Apps\nIn accordance with the Announcement on Carrying out the Special Campaign on the Unlawful and Non-compliant Collection and Use of Personal Information by Apps, these Measures are formulated in order to provide a reference for the supervision and administration departments in determining the unlawful and non-compliant collection and use of personal information by Apps, to provide guidance for App operators in self-examination and self-correction and for social supervision by Internet users, and to implement the Cybersecurity Law and other laws and regulations.\nI. The following acts may be determined to be \"failure to make public the rules for collection and use\"\n1. There is no privacy policy in the App, or the privacy policy contains no rules for the collection and use of personal information;\n2. When the App is first run, the user is not prompted by conspicuous means such as a pop-up window to read the privacy policy or other rules for collection and use;\n3. The privacy policy or other rules for collection and use are difficult to access, for example because, after entering the main interface of the App, more than four clicks or other operations are needed to reach them;\n4. The privacy policy or other rules for collection and use are difficult to read, for example because the text is too small or too dense, the colour is too light, it is blurred, or no simplified Chinese version is provided.\nII. The following acts may be determined to be \"failure to expressly indicate the purpose, method and scope of the collection and use of personal information\"\n1. The purpose, method and scope of the collection and use of personal information by the App (including entrusted third parties and embedded third-party code and plug-ins) are not listed one by one;\n2. Where the purpose, method or scope of the collection and use of personal information changes, the user is not notified by appropriate means, appropriate means including updating the privacy policy or other rules for collection and use and reminding the user to read them;\n3. Where permission to open a function capable of collecting personal information is requested, or where the collection of users' identity card numbers, bank account numbers, whereabouts and other sensitive personal information is requested, the user is not informed of the purpose at the same time, or the purpose is unclear or difficult to understand;\n4. The content of the rules for collection and use is obscure and lengthy, and difficult for users to understand, for example because a large amount of technical terminology is used.\nIII. The following acts may be determined to be \"collection and use of personal information without the consent of the user\"\n1. Collection of personal information, or opening of functions capable of collecting personal information, begins before the consent of the user is obtained;\n2. After the user has expressly refused consent, personal information is still collected or functions capable of collecting personal information are still opened, or consent is sought from the user repeatedly, interfering with the user's normal use;\n3. The personal information actually collected, or the functions capable of collecting personal information actually opened, exceed the scope authorised by the user;\n4. The consent of the user is sought by non-express means such as consent to the privacy policy being selected by default;\n5. The status of functions capable of collecting personal information that have been set by the user is changed without the consent of the user, for example where an App update automatically restores the functions set by the user to the default status;\n6. Information is pushed in a targeted manner using users' personal information and algorithms without providing an option for non-targeted pushing of information;\n7. Users are misled by fraud, deception or other improper means into consenting to the collection of personal information or the opening of functions capable of collecting personal information, for example by deliberately concealing or disguising the true purpose of the collection and use of personal information;\n8. No channel or method is provided for users to withdraw consent to the collection of personal information;\n9. Personal information is collected and used in violation of the rules for collection and use declared by the App.\nIV. The following acts may be determined to be \"violation of the principle of necessity by collecting personal information unrelated to the services provided\"\n1. The types of personal information collected, or the functions capable of collecting personal information opened, are unrelated to the existing business functions;\n2. Business functions are refused on the ground that the user does not consent to the collection of non-necessary personal information or to the opening of non-necessary functions;\n3. The personal information that a newly added business function of the App applies to collect exceeds the scope of the user's original consent, and where the user does not consent, the original business function is refused, except where the newly added business function replaces the original business function;\n4. The frequency of the collection of personal information exceeds the actual needs of the business functions;\n5. Users are compelled to consent to the collection of personal information solely on the grounds of improving service quality, enhancing user experience, pushing targeted information or developing new products;\n6. Users are required to consent at one time to the opening of multiple functions capable of collecting personal information, failing which they cannot use the App.\nV. The following acts may be determined to be \"provision of personal information to others without consent\"\n1. Personal information is provided directly by the App client to a third party, including through third-party code or plug-ins embedded in the client, without either the consent of the user or anonymisation processing;\n2. After data is transmitted to the background server of the App, the personal information collected is provided to a third party without either the consent of the user or anonymisation processing;\n3. Where the App connects to a third-party application, personal information is provided to the third-party application without the consent of the user.\nVI. The following acts may be determined to be \"failure to provide functions for the deletion or correction of personal information as required by law\" or \"failure to publish information such as the channels for complaints and reports\"\n1. No effective functions are provided for correcting or deleting personal information or for cancelling user accounts;\n2. Unnecessary or unreasonable conditions are imposed for correcting or deleting personal information or for cancelling user accounts;\n3. Although functions for correcting or deleting personal information and for cancelling user accounts are provided, the corresponding operations of users are not responded to promptly, and where manual handling is required, verification and handling are not completed within the promised time limit (which shall not exceed 15 working days; where no time limit is promised, the limit shall be 15 working days);\n4. A user operation such as correcting or deleting personal information or cancelling a user account has been completed, but has not been completed in the background of the App;\n5. No channels for complaints and reports on personal information security have been established and published, or complaints and reports are not accepted and handled within the promised time limit (which shall not exceed 15 working days; where no time limit is promised, the limit shall be 15 working days)."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      }
+    ]
+  };
+
+  TR["CN-PIA-014"] = {
+    "lawId": "CN-PIA-014",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-27",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 7 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Provisions are formulated in order to regulate the collection of personal information by mobile Internet applications (Apps) and safeguard the security of citizens' personal information, in accordance with the Cybersecurity Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "An App running on a mobile smart terminal that collects users' personal information shall comply with these Provisions. Where laws, administrative regulations, departmental rules and normative documents provide otherwise, those provisions shall prevail.\nApps include the application software pre-installed on or downloaded and installed on mobile smart terminals, and mini programmes developed on the basis of the interfaces of application software open platforms that users may use without installation."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "For the purposes of these Provisions, \"necessary personal information\" means the personal information necessary to ensure the normal operation of the basic functions and services of an App, without which the App cannot realise its basic functions and services. It refers specifically to the personal information of users on the consumption side and does not include the personal information of users on the service supply side."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "An App shall not refuse to let a user use its basic functions and services on the ground that the user does not consent to the provision of non-necessary personal information."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The scope of necessary personal information for common types of Apps is as follows:\n(1) Map and navigation: the basic functions and services are \"positioning and navigation\", and the necessary personal information is: location information, place of departure and place of destination.\n(2) Online ride-hailing: the basic functions and services are \"online booking of taxi services and radio-dispatch of cruising taxis\", and the necessary personal information includes:\n1. the mobile telephone number of the registered user;\n2. the place of departure, place of destination, location information and whereabouts of the passenger;\n3. payment information such as payment time, payment amount and payment channel (for online booking of taxi services).\n(3) Instant messaging: the basic functions and services are \"the provision of online instant messaging services in text, pictures, voice and video\", and the necessary personal information includes:\n1. the mobile telephone number of the registered user;\n2. account information: the account and the list of instant messaging contact accounts.\n(4) Online communities: the basic functions and services are \"discussion of topics, sharing of information and following and interaction in blogs, forums and communities\", and the necessary personal information is: the mobile telephone number of the registered user.\n(5) Online payment: the basic functions and services are \"online payment, withdrawal, transfer and other functions\", and the necessary personal information includes:\n1. the mobile telephone number of the registered user;\n2. the name of the registered user, the type and number of the identity document, the period of validity of the identity document, and the bank card number.\n(6) Online shopping: the basic functions and services are \"the purchase of goods\", and the necessary personal information includes:\n1. the mobile telephone number of the registered user;\n2. the name (designation), address and contact telephone number of the consignee;\n3. payment information such as payment time, payment amount and payment channel.\n(7) Food delivery: the basic functions and services are \"the purchase and delivery of food and beverages\", and the necessary personal information includes:\n1. the mobile telephone number of the registered user;\n2. the name (designation), address and contact telephone number of the consignee;\n3. payment information such as payment time, payment amount and payment channel.\n(8) Mail and express delivery: the basic functions and services are \"delivery services for letters, parcels, printed matter and other items\", and the necessary personal information includes:\n1. identity information such as the name of the sender and the type and number of the identity document;\n2. the address and contact telephone number of the sender;\n3. the name (designation), address and contact telephone number of the addressee;\n4. the name, nature and quantity of the items delivered.\n(9) Transport ticketing: the basic functions and services are \"transport-related ticketing services and journey management (such as ticket purchase, rebooking, refund and journey management)\", and the necessary personal information includes:\n1. the mobile telephone number of the registered user;\n2. the name of the passenger, the type and number of the identity document, and the passenger type. Passenger types usually include children, adults and students;\n3. the place of departure, destination, departure time, train/vessel/flight number, class of seat/cabin, seat number (if any), and licence plate number and colour (for electronic toll collection services);\n4. payment information such as payment time, payment amount and payment channel.\n(10) Dating and matchmaking: the basic functions and services are \"dating and matchmaking\", and the necessary personal information includes:\n1. the mobile telephone number of the registered user;\n2. the sex, age and marital status of the person seeking a match.\n(11) Job seeking and recruitment: the basic functions and services are \"the exchange of job seeking and recruitment information\", and the necessary personal information includes:\n1. the mobile telephone number of the registered user;\n2. the curriculum vitae provided by the job seeker.\n(12) Online lending: the basic functions and services are \"personal loan application services for consumption, working capital for day-to-day production and operation and the like realised through Internet platforms\", and the necessary personal information includes:\n1. the mobile telephone number of the registered user;\n2. the name of the borrower, the type and number of the identity document, the period of validity of the identity document, and the bank card number.\n(13) Housing rental and sale: the basic functions and services are \"the publication of information on personal housing listings and the renting or sale of housing\", and the necessary personal information includes:\n1. the mobile telephone number of the registered user;\n2. basic information on the listing: the address of the housing, the floor area/type of layout, and the expected sale price or rent.\n(14) Second-hand vehicle trading: the basic functions and services are \"the exchange of information on the sale and purchase of second-hand vehicles\", and the necessary personal information includes:\n1. the mobile telephone number of the registered user;\n2. the name of the buyer and the type and number of the identity document;\n3. the name of the seller, the type and number of the identity document, the vehicle licence number and the vehicle identification number.\n(15) Medical consultation and appointment: the basic functions and services are \"online consultation and diagnosis and appointment booking\", and the necessary personal information includes:\n1. the mobile telephone number of the registered user;\n2. for appointment booking, the name of the patient, the type and number of the identity document, and the hospital and department for which the appointment is made;\n3. for consultation, a description of the condition.\n(16) Travel services: the basic functions and services are \"the publication and ordering of information on travel service products\", and the necessary personal information includes:\n1. the mobile telephone number of the registered user;\n2. the travel destination and travel dates of the traveller;\n3. the name of the traveller, the type and number of the identity document, and the contact details.\n(17) Hotel services: the basic functions and services are \"hotel booking\", and the necessary personal information includes:\n1. the mobile telephone number of the registered user;\n2. the name and contact details of the guest, the check-in and check-out times, and the name of the hotel.\n(18) Online games: the basic functions and services are \"the provision of online game products and services\", and the necessary personal information is: the mobile telephone number of the registered user.\n(19) Study and education: the basic functions and services are \"online tutoring and online classes\", and the necessary personal information is: the mobile telephone number of the registered user.\n(20) Local life: the basic functions and services are \"housekeeping and repair, home decoration, trading of second-hand idle items and other daily life services\", and the necessary personal information is: the mobile telephone number of the registered user.\n(21) Women's health: the basic functions and services are \"menstrual cycle management, preparation for pregnancy and child care, beauty and body care and other health management services\", and the basic functions and services may be used without any personal information.\n(22) Vehicle services: the basic functions and services are \"shared bicycles, shared cars, car rental and other services\", and the necessary personal information includes:\n1. the mobile telephone number of the registered user;\n2. for users of shared car and car rental services, the type and number of the identity document and the driving licence information;\n3. payment information such as payment time, payment amount and payment channel;\n4. for users of shared bicycle and time-shared car rental services, location information.\n(23) Investment and wealth management: the basic functions and services are \"investment and wealth management services relating to shares, futures, funds and bonds\", and the necessary personal information includes:\n1. the mobile telephone number of the registered user;\n2. the name of the investor, the type and number of the identity document, the period of validity of the identity document, and a photocopy of the identity document;\n3. the investor's fund account, bank card number or payment account.\n(24) Mobile banking: the basic functions and services are \"bank account management, information enquiry, transfer and remittance and other services through mobile phones and other mobile smart terminals\", and the necessary personal information includes:\n1. the mobile telephone number of the registered user;\n2. the name of the user, the type and number of the identity document, the period of validity of the identity document, a photocopy of the identity document, the bank card number, and the mobile telephone number registered with the bank;\n3. for transfers, the name of the payee, the bank card number and the information on the account-opening bank.\n(25) Email and cloud storage: the basic functions and services are \"email and cloud storage\", and the necessary personal information is: the mobile telephone number of the registered user.\n(26) Remote conferencing: the basic functions and services are \"the provision of audio or video conferencing through networks\", and the necessary personal information is: the mobile telephone number of the registered user.\n(27) Online live streaming: the basic functions and services are \"the continuous provision to the public of browsing services for information in the form of real-time video, audio, graphics and text\", and the basic functions and services may be used without any personal information.\n(28) Online film and music: the basic functions and services are \"the search for and playing of films, television programmes and music\", and the basic functions and services may be used without any personal information.\n(29) Short videos: the basic functions and services are \"the search for and playing of videos not exceeding a certain duration\", and the basic functions and services may be used without any personal information.\n(30) News and information: the basic functions and services are \"the browsing and searching of news and information\", and the basic functions and services may be used without any personal information.\n(31) Sports and fitness: the basic functions and services are \"sports and fitness training\", and the basic functions and services may be used without any personal information.\n(32) Browsers: the basic functions and services are \"browsing Internet information resources\", and the basic functions and services may be used without any personal information.\n(33) Input methods: the basic functions and services are \"the input of text, symbols and the like\", and the basic functions and services may be used without any personal information.\n(34) Security management: the basic functions and services are \"virus scanning and removal, cleaning of malicious plug-ins and repair of vulnerabilities\", and the basic functions and services may be used without any personal information.\n(35) Electronic books: the basic functions and services are \"the search for and reading of electronic books\", and the basic functions and services may be used without any personal information.\n(36) Photography and beautification: the basic functions and services are \"photography, beauty enhancement and filters\", and the basic functions and services may be used without any personal information.\n(37) App stores: the basic functions and services are \"the search for and downloading of Apps\", and the basic functions and services may be used without any personal information.\n(38) Practical tools: the basic functions and services are \"calendar, weather, dictionary and translation, calculator, remote control, torch, compass, clock and alarm, file transfer, file management, wallpaper and ringtone, screenshot and screen recording, sound recording, document processing, smart home assistant, horoscope and personality tests and the like\", and the basic functions and services may be used without any personal information.\n(39) Performance ticketing: the basic functions and services are \"the purchase of tickets for performances\", and the necessary personal information includes:\n1. the mobile telephone number of the registered user;\n2. the performance session and seat number (if any);\n3. payment information such as payment time, payment amount and payment channel."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Any organisation or individual that finds any act in violation of these Provisions may report it to the relevant departments.\nThe relevant departments shall, after receiving the report, deal with it in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "These Provisions shall come into force on 1 May 2021."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      }
+    ]
+  };
+
+  TR["CN-PIA-015"] = {
+    "lawId": "CN-PIA-015",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-27",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 22 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Provisions are formulated in order to support the innovative development of small, medium and micro enterprises and to simplify the measures by which small personal information processors perform their personal information protection obligations, in accordance with the Personal Information Protection Law of the People's Republic of China, the Regulations on the Security Management of Network Data and other laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "These Provisions apply to the implementation of personal information protection by small personal information processors within the territory of the People's Republic of China.\nFor the purposes of these Provisions, \"small personal information processor\" means a personal information processor that processes the personal information of fewer than 100,000 individuals."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Small personal information processors are supported in taking, on the basis of compliance with the laws, administrative regulations and relevant provisions of the State relating to personal information protection, simplified measures under these Provisions commensurate with their scale and capacity to safeguard personal information security and protect personal information rights and interests."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The personal information processing rules of a small personal information processor shall at least include the following:\n(a) the name or designation of the small personal information processor;\n(b) the department or person accepting applications by individuals to exercise their rights, and the contact details;\n(c) the purpose and method of processing personal information, and the categories and retention period of the personal information processed.\nWhere a small personal information processor collects personal information offline, it may make the personal information processing rules public by simple means such as posting a notice in a conspicuous position at its place of business; where it collects personal information online, it may make the personal information processing rules public by means such as the service agreement, pop-up notices on the client of the product or service, and website announcements.\nWhere a small personal information processor processes the personal information of minors under the age of 14, it shall formulate dedicated personal information processing rules."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Service management entities such as industrial parks, industrial bases and commercial property managers are supported in formulating uniform personal information processing rules for the small personal information processors carrying out the same offline business within the scope of their service management and in making them public in a conspicuous position. A small personal information processor that agrees to abide by the uniform personal information processing rules and is listed in those rules may dispense with formulating its own personal information processing rules."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Where a small personal information processor meets all of the following conditions, it may perform its notification obligation to individuals solely by publishing its personal information processing rules, and the personal information processing rules shall be highlighted to users in a conspicuous manner such as bold type, enlarged font or marking in a different colour, and shall be easy to consult and to save:\n(a) the processing of personal information (excluding sensitive personal information) is necessary for the provision of the product or service;\n(b) it does not provide personal information to other personal information processors and does not make personal information public, and this is expressly stated in the personal information processing rules.\nWhere laws, administrative regulations or departmental rules provide otherwise on the processing of sensitive personal information by small personal information processors, those provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Where a small personal information processor has published its personal information processing rules and performed its notification obligation, and an individual, in order to obtain a product or service, voluntarily and on his or her own initiative provides to, or voluntarily and on his or her own initiative cooperates with, the small personal information processor in providing the personal information necessary to obtain the product or service, having been fully informed, the small personal information processor may process the individual's personal information in accordance with the published personal information processing rules; where sensitive personal information is processed for a specific purpose, the small personal information processor shall state in the personal information processing rules the necessity of processing the sensitive personal information and the impact on the rights and interests of individuals, and obtain the separate consent of the individual.\nWhere laws, administrative regulations or departmental rules provide otherwise on the processing of sensitive personal information by small personal information processors, those provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "A small personal information processor meeting all of the following conditions may dispense with formulating personal information processing rules and performing the notification obligation:\n(a) the small personal information processor carries out personal information processing activities only through a network platform and does not provide personal information to personal information processors outside the network platform;\n(b) the network platform has formulated and published the corresponding personal information processing rules for the personal information processing activities of small personal information processors and has agreed with the small personal information processor on their respective rights and obligations;\n(c) the small personal information processor declares that it abides by the personal information processing rules formulated by the network platform in accordance with the requirements of these Provisions, and the processing of personal information is necessary for the provision of the product or service and does not exceed the scope of the processing purpose, processing method and categories of personal information set out in the rules referred to in the preceding item.\nWhere the conditions of the preceding paragraph are met, and the compliance audit of personal information protection and the personal information protection impact assessment already carried out by the network platform cover the personal information processing activities carried out by the small personal information processor on the basis of that network platform, the small personal information processor may dispense with carrying them out again.\nWhere the purpose, method and categories of the processing of personal information by a small personal information processor exceed the scope of the personal information processing rules of the network platform, it shall separately formulate personal information processing rules and perform the obligations of notification, compliance auditing and impact assessment in accordance with the requirements of these Provisions. Where a network platform adjusts its personal information processing rules, it shall promptly notify the relevant small personal information processors."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Where a small personal information processor needs to transfer personal information due to merger, reorganisation, division, dissolution, being declared bankrupt or other reasons, it may notify the name or designation and contact details of the recipient by simple means such as posting a notice in a conspicuous position at its place of business or by short message reminder; where it provides online products or services on its own initiative, it shall additionally notify the name or designation and contact details of the recipient by means such as a pop-up announcement on the client of its product or service; where it provides products or services on the basis of a network platform, it may notify by means such as an announcement on its operator page within the network platform or an announcement on its mini programme.\nA small personal information processor shall publish the matters to be notified as provided in the preceding paragraph at least 30 working days in advance, and the publication period shall be not less than 30 working days."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Where a small personal information processor provides personal information abroad and any of the following conditions is met, it is exempt from applying for a security assessment of data cross-border transfer, concluding a standard contract for personal information and obtaining personal information protection certification:\n(a) it is truly necessary to provide personal information abroad in order to conclude or perform a contract to which the individual is a party, such as cross-border shopping, cross-border delivery, cross-border remittance, cross-border payment, cross-border account opening, flight and hotel booking, visa processing or examination services;\n(b) it is truly necessary to provide employees' personal information abroad in order to carry out cross-border human resources management in accordance with lawfully formulated labour rules and regulations and lawfully concluded collective contracts;\n(c) it is truly necessary to provide personal information abroad in order to protect the life, health and property safety of natural persons in an emergency;\n(d) it is truly necessary to provide personal information abroad in order to perform statutory functions or statutory obligations;\n(e) a personal information processor other than an operator of critical information infrastructure has provided abroad, in aggregate from 1 January of the current year, the personal information of fewer than 100,000 individuals (excluding sensitive personal information);\n(f) other conditions provided by laws, administrative regulations or the national cyberspace administration department.\nThe personal information provided abroad referred to in the preceding paragraph does not include important data.\nWhere a small personal information processor provides personal information abroad, it shall perform the obligations of notification and of obtaining the separate consent of individuals in accordance with the provisions of laws and administrative regulations.\nWhere a small personal information processor truly needs to provide personal information outside the territory of the People's Republic of China and applies to the cyberspace administration department for a security assessment of data cross-border transfer in accordance with law, the provincial cyberspace administration department of the place where it is located may form a recommended assessment conclusion and submit it to the national cyberspace administration department for approval.\nDepartments performing personal information protection duties, data cross-border service centres and the like are encouraged to provide consulting and other services for small personal information processors on the cross-border transfer of personal information."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "A small personal information processor may establish a mechanism for accepting and handling applications by individuals to exercise their rights in personal information processing activities by publishing the department or person accepting such applications and the contact details."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "A small personal information processor that ceases to provide a product or service shall take necessary measures to delete personal information; where it is genuinely unable to delete the personal information, it may report to the relevant local competent department and request assistance; where the competent department is unclear, it may report to the cyberspace administration department of the city with districts where it is located."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "A small personal information processor may carry out a compliance audit of personal information protection at least once every five years by the simplified method of the Self-check Form for Compliance Audits of Personal Information Protection by Small Personal Information Processors in the Annex to these Provisions, and shall retain the self-check form for at least five years.\nWhere laws or administrative regulations provide otherwise on compliance audits for the processing of minors' personal information, those provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "A small personal information processor may carry out a personal information protection impact assessment by the simplified method of the Impact Assessment Form for Personal Information Protection by Small Personal Information Processors in the Annex to these Provisions, and shall retain the impact assessment form for at least three years."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "A small personal information processor may establish personal information protection management systems and emergency response plans for personal information security incidents by simple means such as specifying in its organisational and management documents the internal management requirements for personal information protection and the emergency handling requirements for personal information security incidents."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where the divulgence, tampering or loss of personal information occurs or may occur, a small personal information processor shall immediately take remedial measures and notify individuals in accordance with the provisions of laws and administrative regulations; where it is genuinely unable to notify individuals by other means due to objective constraints, it may notify individuals solely by simple means such as posting a notice in a conspicuous position at its place of business, a pop-up notice on the client of its product or service and a website announcement, and shall notify the departments performing personal information protection duties in accordance with the regulations; where a suspected crime is involved, it shall promptly report the case to the public security organ."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Personal information protection certification bodies are supported in carrying out certification work for small personal information processors and in improving the quality of services.\nA small personal information processor that has obtained personal information protection certification may be exempt from carrying out a compliance audit of personal information protection during the period of validity of the certification."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where a small personal information processor carries out personal information processing activities in any of the following circumstances, no penalty shall be imposed:\n(a) the unlawful act is minor and is corrected promptly without causing harmful consequences;\n(b) there is sufficient evidence to prove the absence of subjective fault, unless laws or administrative regulations provide otherwise;\n(c) other circumstances in which no penalty shall be imposed in accordance with law.\nWhere a small personal information processor carries out personal information processing activities and it is a first violation with minor harmful consequences that is corrected promptly, no penalty may be imposed.\nWhere no penalty is imposed in accordance with law, the departments performing personal information protection duties shall, as appropriate, take regulatory measures such as conducting regulatory talks and sending reminder letters."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Where a small personal information processor carries out personal information processing activities in any of the following circumstances, the penalty shall be imposed leniently or mitigated:\n(a) it voluntarily eliminates or mitigates the harmful consequences of the unlawful act;\n(b) it voluntarily confesses unlawful acts not yet known to the departments performing personal information protection duties;\n(c) when a personal information security incident occurs, it promptly notifies individuals and takes remedial measures, and voluntarily notifies the relevant departments;\n(d) it renders meritorious service by cooperating with the departments performing personal information protection duties in investigating and dealing with unlawful acts;\n(e) other circumstances in which a penalty shall be imposed leniently or mitigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Enterprises, relevant social organisations, professional institutions and the like are supported in helping small personal information processors raise their level of personal information protection capacity by organising training, lectures, legal popularisation activities, consulting and coaching, and other means.\nDepartments performing personal information protection duties are encouraged to provide small personal information processors with infrastructure, technical tools, consulting services and the like for secure and convenient personal information processing, so as to reduce their compliance costs."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The cyberspace administration departments, public security organs and other departments performing personal information protection duties may supervise and inspect the performance by small personal information processors of their personal information protection obligations by means of spot-check assessments, audit reports and the like, and small personal information processors shall cooperate.\nWhere the cyberspace administration departments, public security organs and other departments performing personal information protection duties find that a small personal information processor processes personal information unlawfully or that personal information security incidents occur repeatedly, they shall deal with the matter in accordance with the Personal Information Protection Law of the People's Republic of China, the Regulations on the Security Management of Network Data and other relevant laws and administrative regulations, record the matter in the credit file in accordance with the relevant laws and administrative regulations, and make it public."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "These Provisions shall come into force on 1 September 2026.\nAnnex:\nSelf-check Form for Compliance Audits of Personal Information Protection by Small Personal Information Processors + Impact Assessment Form for Personal Information Protection by Small Personal Information Processors\n//www.cac.gov.cn/pdf/web/viewer.html?file=//www.cac.gov.cn/rootimages/uploadimg/1786638890746984/1786638890746984.pdf\n//www.cac.gov.cn/rootimages/uploadimg/1786638890746984/1786638890746984.pdf"
+        },
+        "noLabel": {
+          "en": "Article 22."
+        }
+      }
+    ]
+  };
+
+  TR["CN-PIA-016"] = {
+    "lawId": "CN-PIA-016",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-27",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 50 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Provisions are formulated in order to regulate the personal information processing activities of large personal information processors, protect the lawful rights and interests in personal information, and promote the lawful and reasonable use of personal information, in accordance with the Personal Information Protection Law of the People's Republic of China, the Regulations on the Security Management of Network Data and other laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "These Provisions apply to the protection of personal information by large personal information processors and to the supervision and administration thereof.\nThe identification of a large personal information processor shall take comprehensive account of the following conditions:\n(a) processing the personal information of 10 million or more natural persons;\n(b) providing important network services involving the processing of personal information, or having a business scope covering multiple types of business and involving the processing of personal information;\n(c) the personal information processing activities having an important impact on national security, economic operation, social stability, public health and safety, and the like."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "A personal information processor that processes the personal information of 10 million or more natural persons and that, upon self-assessment, considers itself to meet the conditions in Article 2, paragraph 2, items (2) and (3) of these Provisions shall, through the provincial cyberspace administration department of the place where it is located, apply to the national cyberspace administration department for identification as a large personal information processor, and submit materials in accordance with the relevant requirements.\nThe provincial cyberspace administration department shall complete a completeness check within 15 working days from the date of receipt of the application materials; where the application materials are complete, it shall submit the application materials together with its preliminary identification opinion to the national cyberspace administration department; where the application materials are incomplete, it shall return them to the personal information processor and inform it at one time of the materials to be supplemented.\nWhere the cyberspace administration departments at or above the provincial level, the competent telecommunications departments, the public security organs and other departments performing personal information protection duties consider, upon study, that a personal information processor meets the identification conditions but has not applied on its own initiative for identification, they shall urge it to apply for identification.\nThe national cyberspace administration department, together with the competent telecommunications department of the State Council, the public security department and other departments performing personal information protection duties, shall, on the basis of the identification conditions, study and determine a list of large personal information processors and announce it to the public.\nWhere a large personal information processor that has been identified considers that it has ceased to meet the identification conditions for six consecutive months, it may, through the provincial cyberspace administration department of the place where it is located, apply to the national cyberspace administration department for a change of identification."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The national cyberspace administration department is responsible for coordinating the personal information protection work of large personal information processors and the related supervision and administration. The competent telecommunications department of the State Council, the public security department and other departments performing personal information protection duties shall, in accordance with these Provisions and the relevant laws and administrative regulations, be responsible for the personal information protection of large personal information processors and the related supervision and administration within the scope of their respective duties.\nLocal cyberspace administration departments are responsible for coordinating the personal information protection work of large personal information processors within their respective administrative regions and the related supervision and administration. Local competent telecommunications departments, public security organs and other relevant departments shall, according to their respective duties, be responsible for the personal information protection of large personal information processors within their respective administrative regions and the related supervision and administration.\nCyberspace administration departments, competent telecommunications departments, public security organs and other departments performing personal information protection duties shall strengthen the sharing of information on large personal information processors and coordination in their work."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Large personal information processors shall adopt measures such as encryption, de-identification, access control and anonymisation to safeguard the security of the personal information they process, may use the national public services for network identity authentication, and are encouraged to use data labelling and identification technologies and to obtain personal information protection certification, among other means, so as to raise the level of personal information protection."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Large personal information processors are encouraged to carry out innovation in technologies, products and services relating to personal information protection, to actively participate in the formulation of international standards and rules relating to personal information protection, and to promote the coordination and mutual recognition of personal information protection rules and standards with other countries and regions."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Where organisations or individuals outside the territory engage in personal information processing activities that infringe the personal information rights and interests of citizens of the People's Republic of China, or that endanger the national security or public interest of the People's Republic of China, the national cyberspace administration department may place them on a list of restrictions on or prohibitions of the provision of personal information, announce the list, and take measures such as restricting or prohibiting the provision of personal information to them.\nChapter II Personal Information Processing Rules"
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "In processing personal information, large personal information processors shall follow the principles of lawfulness, justification, necessity and good faith, comply with laws and administrative regulations, and respect social morality and ethics."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "In collecting personal information, large personal information processors shall adhere to the principle of minimum necessity, confine collection to what is necessary for the provision of the product or service, and shall not collect personal information excessively."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "In formulating and publishing personal information processing rules, large personal information processors shall set out the following matters truthfully, accurately and completely, item by item, in clear and readily intelligible language:\n(a) the name of the large personal information processor, and the name and valid contact details of the person in charge of personal information protection;\n(b) a structured list setting out, for each function and service, the purpose, method and categories of the personal information collected and used, the names and frequency of the permissions invoked, and the necessity of collecting and using sensitive personal information and the impact on the rights and interests of individuals;\n(c) where software development kits are embedded, a structured list setting out the names (package names), versions and main functions of the embedded software development kits, the names of their operators, the categories of personal information collected and used, and complete channels of access to the personal information processing rules of the software development kits;\n(d) where personal information is provided to other personal information processors, the names, contact details, processing purposes and processing methods of the recipients and the categories of personal information;\n(e) the retention period of personal information and the manner of handling it upon expiry; where the retention period is difficult to determine, the method for determining it shall be specified;\n(f) the methods of and channels for individuals to consult, copy, transfer, correct, supplement, delete, restrict and refuse the processing of personal information, and to cancel accounts and withdraw consent;\n(g) other matters that shall be notified as provided by laws, administrative regulations and departmental rules.\nWhere the matters specified in the preceding paragraph change, the changed part shall be notified to individuals."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Where a large personal information processor processes personal information on the basis of the consent of the individual, it shall adopt the manner having the least impact on the rights and interests of individuals, and shall obtain the separate consent of the individual in any of the following circumstances:\n(a) providing the personal information it processes to other personal information processors;\n(b) providing personal information outside the territory of the People's Republic of China;\n(c) disclosing the personal information it processes;\n(d) processing sensitive personal information;\n(e) other circumstances provided by laws or administrative regulations.\nWhere a large personal information processor processes the personal information of minors under the age of 14, it shall obtain the consent of the parents or other guardians of the minor; a large personal information processor shall provide convenient channels for guardians to consent to, and to withdraw consent to, the processing of the personal information of minors under the age of 14."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Where a large personal information processor processes personal information on the basis of the consent of the individual and the purpose or method of processing, or the categories of personal information processed, change, it shall obtain the consent of the individual anew.\nWhere a large personal information processor processes personal information on the basis of the consent of the individual, it shall provide a convenient way to withdraw consent, and shall set out in a structured list the categories of personal information that the individual has consented to the large personal information processor processing, together with the purpose and method of processing, so as to facilitate the individual's choice."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Large personal information processors shall store within the territory the personal information collected and generated in the course of operations within the territory of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Large personal information processors shall select data centres meeting the following conditions for the storage of personal information collected and generated in the course of operations within the territory of the People's Republic of China:\n(a) the data centre is established within the territory of the People's Republic of China;\n(b) the legal representative or actual controller of the data centre management body holds the nationality of the People's Republic of China;\n(c) it meets the requirements of the relevant policies and standards of the State."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The data centre management body of a large personal information processor shall establish and improve internal management systems and operating procedures and assist the large personal information processor in performing its personal information protection obligations; its specific duties include but are not limited to:\n(a) formulating emergency response plans for personal information security incidents;\n(b) where risks such as security defects or vulnerabilities affecting the ability of the large personal information processor to perform its personal information protection obligations are found in systems, network products and services, immediately taking remedial measures, notifying the large personal information processor, and reporting to the relevant departments performing personal information protection duties in accordance with the regulations;\n(c) where a personal information security incident occurs, immediately notifying the large personal information processor, promptly activating the emergency response plan, taking measures to prevent the expansion of the harm, eliminating security hazards, and reporting to the national cyberspace administration department and to the competent telecommunications department of the State Council, the public security department and other departments performing personal information protection duties in accordance with the regulations;\n(d) promptly implementing the relevant requirements of the national cyberspace administration department and of the competent telecommunications department of the State Council, the public security department and other departments performing personal information protection duties."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where a large personal information processor entrusts a third-party data centre management body or another party with the processing of personal information, it shall conclude a written contract with that party, agreeing on the purpose, duration, processing method, storage location, scale and categories of the entrusted processing of personal information, the protection measures, and the rights and obligations of both parties, and shall require compliance with Article 14 and Article 15 of these Provisions. The entrusted party shall assist the large personal information processor in carrying out the security management of personal information processing activities."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Where a large personal information processor pushes information to individuals or conducts commercial marketing by means of automated decision-making, it shall take the following measures to protect the rights and interests of individuals:\n(a) providing an option to turn off personalised recommendations that is easy to understand, easy to access and easy to operate;\n(b) where a user chooses to turn off personalised recommendations, the large personal information processor shall cease using the relevant personal information for the purpose of personalised recommendations;\n(c) providing users with functions such as deleting user tags based on their personal characteristics;\n(d) other measures provided by laws, administrative regulations or the relevant departments of the State."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where a large personal information processor carries out aggregation, fusion or other processing of personal information and the personal information after such processing falls within the scope of Article 28 of the Personal Information Protection Law of the People's Republic of China, it shall be identified and protected as sensitive personal information."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "For a request to transfer personal information that meets the conditions in Article 25 of the Regulations on the Security Management of Network Data, a large personal information processor shall, within 30 working days after completing the verification of the identity of the individual and the verification of the request, transfer the personal information in a common or machine-readable format, and notify the individual of the outcome by email, telephone, short message or other means; where it is unable to provide a channel for transfer, it shall explain the reasons to the individual. Where the processing period needs to be extended due to the number of requests, the complexity of the operation or other reasons, it shall explain the reasons for the extension to the individual and may extend the period by 30 working days where reasonable and necessary. Where laws, administrative regulations or departmental rules provide otherwise, those provisions shall prevail.\nLarge personal information processors shall adopt security measures such as identity verification and encrypted transmission to safeguard the security of the transfer of personal information. Large personal information processors are supported in providing channels for transfer through application programming interfaces or other standardised technical means.\nWhere the number of requests to transfer personal information manifestly exceeds a reasonable range, a large personal information processor may charge a necessary fee based on the cost of transferring the personal information, and the fee standards shall be made public and transparent."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where a large personal information processor truly needs to provide personal information outside the territory of the People's Republic of China for business or other reasons, it shall, in accordance with the relevant provisions of the State, apply for a security assessment of data cross-border transfer, conclude a standard contract for the cross-border transfer of personal information, or obtain personal information protection certification, and shall improve the technical and management measures relating to the security of the cross-border transfer of personal information and promptly prevent and handle security risks and threats of unlawful cross-border transfer of personal information.\nLarge personal information processors shall assess the management and technical measures of overseas recipients, and where they find that an overseas recipient is unable to perform the personal information protection obligations and responsibilities provided by laws, administrative regulations, departmental rules or the relevant contracts, they shall suspend the provision of personal information to that recipient.\nWhere laws, administrative regulations and the relevant provisions of the State provide otherwise on exemption from applying for a security assessment of data cross-border transfer, from concluding a standard contract for the cross-border transfer of personal information, or from obtaining personal information protection certification, those provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where a large personal information processor provides personal information to other personal information processors for business or other reasons, it shall give priority to measures such as de-identification and aggregate statistics, notify individuals of the names or designations and contact details of the recipients, the processing purposes, the processing methods and the categories of personal information, and, in accordance with the requirements of Article 23 of the Cybersecurity Law of the People's Republic of China, adopt technical measures to monitor and record the external transmission of personal information, retaining the relevant logs for at least six months.\nThe recipient shall process personal information within the scope of the processing purposes, processing methods and categories of personal information referred to in the preceding paragraph. Where a recipient changes the original processing purpose or processing method, it shall obtain the consent of the individual anew."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "A large personal information processor shall not disclose the personal information it processes, unless the separate consent of the individual has been obtained; the disclosure of personal information shall be confined to the minimum scope necessary to achieve the processing purpose, and technical measures such as de-identification shall be adopted to prevent risks of infringement of the rights and interests of individuals; a personal information protection impact assessment shall be carried out before personal information is disclosed.\nA large personal information processor may, within a reasonable scope, process personal information disclosed by individuals themselves or otherwise lawfully disclosed, except where the individual has expressly refused. Where a large personal information processor processes lawfully disclosed personal information and this has a major impact on the rights and interests of individuals, it shall obtain the consent of the individual in accordance with the provisions of laws and administrative regulations. Large personal information processors shall provide convenient channels for individuals to refuse the processing of their lawfully disclosed personal information."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The retention period for personal information processed by a large personal information processor shall be confined to the shortest period necessary for the provision of the product or service. In any of the following circumstances, the large personal information processor shall delete the personal information on its own initiative:\n(a) the processing purpose has been achieved or cannot be achieved, or the personal information is no longer necessary for the achievement of the processing purpose;\n(b) the large personal information processor ceases to provide the product or service, or the retention period has expired;\n(c) the individual withdraws consent or refuses the processing;\n(d) the large personal information processor processes personal information in violation of laws or administrative regulations or in breach of agreement;\n(e) other circumstances provided by laws or administrative regulations.\nWhere an individual requests the deletion of personal information, the large personal information processor shall delete it promptly; where there are genuine reasons preventing deletion, it shall reply within 15 working days.\nWhere the retention period provided by laws or administrative regulations has not yet expired, or where the deletion of personal information is technically difficult to achieve, the large personal information processor shall cease processing other than storage and the adoption of necessary security protection measures.\nChapter III Obligations of Large Personal Information Processors"
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Large personal information processors shall, in relation to the links of personal information processing activities, responses to individuals exercising their rights, and the performance of security obligations, establish and improve internal management systems and operating procedures, strengthen the monitoring and early warning of personal information security, promptly detect and handle personal information security problems and incidents, and prevent security risks. The management systems shall at least include the following:\n(a) a system for the classified management of personal information;\n(b) systems for secure storage, authorised access, controllable transmission, external provision and conduct auditing involved in the processing of personal information;\n(c) systems for the monitoring of personal information security risks, emergency drills and emergency response;\n(d) systems for personal information protection impact assessment and compliance auditing;\n(e) a system for the protection of minors' personal information;\n(f) a system for accepting and handling complaints and reports on personal information;\n(g) a system for publicity, education and training on personal information protection."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "A large personal information processor shall, in accordance with the provisions of laws and administrative regulations, designate a member of its management as the person in charge of personal information protection and make public the contact details of that person.\nThe person in charge of personal information protection is encouraged to possess the capability for the compliance auditing of personal information protection."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The person in charge of personal information protection shall perform the following duties:\n(a) organising the formulation of internal personal information protection management systems, operating procedures and emergency response plans for personal information security incidents, and guiding activities such as the monitoring of personal information security risks, risk assessment, compliance auditing, impact assessment, emergency drills, and education and training.\n(b) guiding the relevant personnel of business departments in carrying out personal information processing activities in compliance, implementing the requirements of the departments performing personal information protection duties, and cooperating in the supervision and inspection of personal information protection.\n(c) participating in decision-making on matters relating to the processing of personal information by the large personal information processor, and promptly raising opinions on decisions that involve security risks. Where the large personal information processor fails, without justified reason, to act on the compliance opinions, or where the outcome of its handling violates laws, administrative regulations or the relevant provisions of the State, the person in charge of personal information protection may report the matter directly to the provincial cyberspace administration department of the place where the processor is located.\n(d) being responsible for supervising the personal information processing activities of the large personal information processor and the protection measures adopted; where a security incident such as the divulgence, tampering or loss of personal information occurs or may occur, or where other major unlawful circumstances exist that may cause damage to the personal information rights and interests of a large number of individuals, immediately organising the adoption of remedial measures and reporting to the provincial cyberspace administration department of the place where the processor is located and to the competent telecommunications department, the public security organ and other departments performing personal information protection duties; where a suspected crime is involved, reporting the case to the public security organ; and where national security may be endangered, reporting to the state security organ.\n(e) organising the formulation of dedicated personal information processing rules for minors under the age of 14, and adopting targeted personal information protection measures for minors aged 14 or above but under 18.\n(f) periodically reporting to the personal information protection supervision committee on the work of the large personal information processor relating to personal information protection.\nLarge personal information processors shall provide necessary support for the person in charge of personal information protection to perform his or her duties."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Large personal information processors shall designate personnel in their business departments who possess the capability for the compliance auditing of personal information protection to be responsible for personal information protection work; the number of such personnel shall be commensurate with the business scale of the business department and the personal information protection obligations it performs; under the guidance of the person in charge of personal information protection, such personnel shall be responsible for the security management of the personal information processing activities of their department, define the rules for the processing of personal information in their department, and ensure the performance of personal information protection obligations."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Large personal information processors shall, in accordance with the principle of granting the minimum authorisation necessary to achieve the business functions, configure the operational permissions for the processing of personal information for their staff. Records of personal information processing operations and records of permission approvals shall be retained for at least six months; where personal information protection impact assessment reports and records of processing are involved, they shall be retained for at least three years."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Large personal information processors that provide network platform services shall specify the rules, permissions and obligations for the protection of personal information applicable to the providers of products or services on the platform, urge them to establish and improve internal personal information protection management systems and operating procedures, to carry out personal information processing activities in accordance with law, and to perform personal information protection obligations.\nWhere a large personal information processor finds that a provider of products or services on the platform seriously violates laws or administrative regulations in processing personal information, it shall immediately take handling measures such as ceasing to provide services, and report to the cyberspace administration department at or above the provincial level and other departments performing personal information protection duties."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Large personal information processors shall prepare a social responsibility report on personal information protection for the previous year each year and publish it in the first half of the year. The social responsibility report on personal information protection shall include but not be limited to the following:\n(a) the organisational structure for personal information protection and the internal management situation;\n(b) the development of personal information protection capacity;\n(c) the personal information protection measures and their results;\n(d) the protection of minors' personal information;\n(e) the handling of applications by individuals to exercise their rights;\n(f) the performance of duties by the personal information protection supervision committee and the standards of allowances for external members;\n(g) the handling of major personal information security incidents;\n(h) publicity, education and public welfare activities on personal information protection;\n(i) other matters provided by laws or administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where a large personal information processor launches a product, service or function involving automated decision-making, the processing of sensitive personal information or the like that may have a major impact on the rights and interests of individuals, it shall carry out a personal information protection impact assessment in advance, and shall, within 15 working days after completion of the assessment, file the impact assessment report with the national cyberspace administration department through the provincial cyberspace administration department of the place where it is located.\nThe personal information protection impact assessment shall include the following:\n(a) whether the purpose and method of processing personal information are lawful, justified and necessary, and whether the frequency of invocation of the relevant permissions and the precision of the data are confined to the lowest frequency and the minimum scope necessary to achieve the business function;\n(b) the impact of the personal information processing activities on the rights and interests of individuals and the security risks;\n(c) the measures by which the automated decision-making mechanism avoids precise targeting of particular individuals and their effectiveness;\n(d) whether the protection measures adopted are lawful, effective and commensurate with the degree of risk;\n(e) other matters provided by laws, administrative regulations and departmental rules."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Large personal information processors shall strictly protect minors' personal information, identify minors through the national public services for network identity authentication and other means, and, in accordance with the Regulations on the Protection of Minors on the Internet, carry out a compliance audit of minors' personal information protection every year.\nLarge personal information processors shall designate dedicated personnel to be responsible for the protection of minors' personal information. The dedicated personnel shall have undergone special training and be familiar with the characteristics of minors and the needs of protecting their healthy growth."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Large personal information processors shall carry out a compliance audit of personal information protection at least once every two years, carry out a risk assessment of their personal information processing activities every year, and rectify the problems identified. Large personal information processors are encouraged to publicly display the results of compliance audits and risk assessments in a conspicuous position."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Where a large personal information processor entrusts a third-party professional institution with activities such as the compliance auditing of personal information protection and risk assessment, it shall cooperate with the third-party professional institution in performing its duties and provide necessary support for its work, including granting the personnel designated by the third-party professional institution the necessary permission to access the network data facilities, systems and operation logs of the large personal information processor.\nThird-party professional institutions entrusted by a large personal information processor with activities such as the compliance auditing of personal information protection and risk assessment shall be registered within the territory of the People's Republic of China. Where they find that there is a relatively major security risk in the personal information processing activities of the large personal information processor, they shall promptly notify the large personal information processor and put forward rectification recommendations."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter III"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Large personal information processors shall establish convenient channels for complaints and reports on personal information, provide in their personal information processing rules effective and easily accessible channels for complaints and reports, improve the mechanisms for accepting, handling and giving feedback on complaints and reports, and accept and handle complaints and reports relating to personal information within the promised time limit (which shall not exceed 15 working days; where no time limit is promised, the limit shall be 15 working days)."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter III"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Within 30 working days from the date of identification, a large personal information processor shall report the following information to the cyberspace administration department of the city with districts where it is located:\n(a) basic information on the person in charge of personal information protection;\n(b) the measures safeguarding the performance of duties by the person in charge of personal information protection;\n(c) basic information on the data centre storing personal information, including information on the data centre management body, internal management systems and security measures; where a third-party data centre management body is entrusted with the processing of personal information, the text of the contract signed by both parties shall also be submitted.\nWhere the basic information on the person in charge of personal information protection, the data centre or the like changes, the large personal information processor shall report the changed information within 30 working days from the date of the change.\nWhere a large personal information processor and a third-party data centre management body agree by contract on the entity to report, the entity so agreed may report the basic information on the data centre.\nChapter IV Personal Information Protection Supervision Committee"
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Within six months from the date of identification, a large personal information processor shall establish a personal information protection supervision committee (hereinafter referred to as the supervision committee) composed mainly of external members to supervise its personal information protection, formulate working rules of the supervision committee in accordance with the requirements of the Annex to these Provisions, and report, through the provincial cyberspace administration department of the place where it is located, basic information such as the establishment of the supervision committee, its working rules and the list of its members to the national cyberspace administration department.\nThe members of the supervision committee shall be an odd number, commensurate with the business scale and the number of users of the large personal information processor, and shall be not fewer than seven, with external members accounting for not less than two thirds. The supervision committee shall have a head and a secretary; the head shall be an external member and shall possess the capability of a senior compliance auditor of personal information protection.\nLarge personal information processors shall provide necessary support for the supervision committee to perform its duties."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "External members shall meet the following conditions:\n(a) meeting the independence requirements provided in Article 39 of these Provisions;\n(b) being engaged concurrently by not more than three large personal information processors;\n(c) possessing the capability for the compliance auditing of personal information protection, being familiar with the laws and regulations and national standards relating to personal information protection, and having been engaged in work relating to personal information protection for not less than three years;\n(d) enjoying a good reputation and being able to perform duties objectively, impartially, independently and honestly;\n(e) having the physical conditions and working time necessary for performing duties;\n(f) having good personal character and no adverse record such as a criminal record or a record of major dishonesty;\n(g) other conditions provided by laws, administrative regulations and departmental rules.\nWhere a large personal information processor engages an external member, it shall conduct a security background check on the external member. In conducting the check, it may apply to the public security organ for assistance."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "External members shall maintain their independence in status and in the performance of their duties. Persons in any of the following circumstances within the most recent year shall not serve as external members:\n(a) persons serving with the engaging large personal information processor and their close relatives;\n(b) persons who directly or indirectly hold 1 per cent or more of the issued shares of the engaging large personal information processor, or natural person shareholders among the top ten shareholders of the engaging large personal information processor and their close relatives;\n(c) persons serving with a shareholder entity that directly or indirectly holds 5 per cent or more of the issued shares of the engaging large personal information processor, or with a shareholder entity among the top five shareholders of the engaging large personal information processor, and their close relatives;\n(d) other persons lacking independence as provided by laws, administrative regulations, departmental rules and the working rules of the supervision committee.\nExternal members shall conduct a self-check of their independence every year and submit the results to the board of directors or other decision-making body of the engaging large personal information processor or to a body authorised by it. The board of directors or other decision-making body of the large personal information processor, or a body authorised by it, shall assess the independence of serving external members every year, issue a special opinion, and disclose it in the social responsibility report on personal information protection."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Large personal information processors shall specify the allowances for external members through the working rules of the supervision committee; the standards of the allowances shall be approved by the board of directors or other decision-making body of the large personal information processor or by a body authorised by it.\nSocial organisations are supported in establishing and publishing a pool of recommended external members of supervision committees, so as to provide a reference for large personal information processors in selecting and engaging external members."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The supervision committee shall focus on supervising the following matters of the large personal information processor:\n(a) the development of the compliance system for personal information protection;\n(b) the formulation and major revision of platform rules and personal information processing rules;\n(c) the protection of sensitive personal information and minors' personal information;\n(d) the organisation and implementation of personal information protection impact assessments, compliance audits and risk assessments, the preparation of reports, and the rectification of problems;\n(e) the prevention and handling of personal information security incidents;\n(f) compliance in the cross-border transfer of personal information;\n(g) the use of personal information for automated decision-making;\n(h) the acceptance of applications by individuals to exercise their personal information rights and the handling of individual complaints and reports;\n(i) the performance of duties by the person in charge of personal information protection and other personnel relating to personal information protection;\n(j) the publication of the social responsibility report on personal information protection;\n(k) other supervisory matters provided by laws, administrative regulations and departmental rules."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The national cyberspace administration department and other departments performing personal information protection duties shall, in accordance with law, supervise and administer the establishment and operation of supervision committees by large personal information processors, and may require large personal information processors to give explanations or provide relevant materials on matters relating to the establishment and operation of supervision committees, and large personal information processors shall cooperate.\nWhere a large personal information processor that has been identified applies to the national cyberspace administration department for a change of identification and the application is approved, it may dissolve the supervision committee.\nChapter V Supervision and Administration and Legal Liability"
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter V"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "In the first quarter of each year, a large personal information processor shall report, through the provincial cyberspace administration department of the place where it is located, the performance of duties by the supervision committee in the previous year to the national cyberspace administration department, and shall report a personal information protection compliance audit report through the provincial cyberspace administration department of the place where it is located at least once every two years. The national cyberspace administration department shall notify the competent telecommunications department of the State Council and the public security department of the relevant situation."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where the cyberspace administration departments, competent telecommunications departments, public security organs and other departments performing personal information protection duties find that the personal information processing activities of a large personal information processor violate the relevant laws or administrative regulations, or that the reported performance of duties by the supervision committee, the compliance auditing of personal information protection or the personal information protection impact assessment involves circumstances violating laws, administrative regulations, departmental rules or these Provisions, they may, in accordance with law, carry out on-site inspections, conduct regulatory talks, require rectification, require the dissolution of the supervision committee and take other handling measures.\nWhere a large personal information processor fails to rectify as required or fails to meet the rectification requirements, the national cyberspace administration department and the competent telecommunications department, the public security department, the state security department and other departments of the State Council may require the large personal information processor to take measures such as entrusting personal information to a third-party data centre for hosting so as to safeguard personal information security."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Any organisation or individual has the right to complain of or report to the departments performing personal information protection duties the activities of large personal information processors, supervision committees and their members that violate these Provisions. The department receiving the complaint or report shall promptly handle it in accordance with law and inform the complainant or reporter of the outcome."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter V"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The staff of the cyberspace administration departments, competent telecommunications departments, public security organs and other departments performing personal information protection duties, as well as of supervision committees, third-party professional institutions and third-party data centre management bodies, shall keep confidential in accordance with law the personal privacy, personal information, trade secrets and confidential business information that they learn of in the course of their work, and shall not divulge it or unlawfully provide it to others."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter V"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where a large personal information processor, the person in charge of personal information protection, a third-party professional institution or a data centre management body processes personal information in violation of law, or fails to perform personal information protection obligations in processing personal information, the cyberspace administration departments, competent telecommunications departments, public security organs and other departments performing personal information protection duties shall deal with the matter in accordance with the Personal Information Protection Law of the People's Republic of China, the Law of the People's Republic of China on Penalties for the Administration of Public Security, the Regulations on the Security Management of Network Data and other laws and administrative regulations; where a crime is constituted, criminal liability shall be pursued in accordance with law.\nWhere a member of the supervision committee violates these Provisions and causes damage to the large personal information processor, he or she shall bear the corresponding civil liability in accordance with the engagement contract concluded with the large personal information processor; where this results in a personal information security incident, the unlawful processing of personal information or the like, the matter shall be dealt with in accordance with the Personal Information Protection Law of the People's Republic of China and other laws and administrative regulations; where a crime is constituted, criminal liability shall be pursued in accordance with law.\nChapter VI Supplementary Provisions"
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VI"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Personal information processing activities involving State secrets or work secrets shall be governed by the provisions of laws and administrative regulations such as the Law of the People's Republic of China on Guarding State Secrets.\nLarge personal information processors shall implement the relevant requirements for the classified and graded protection of data, the classified protection of cybersecurity and the protection of commercial cryptography. Large personal information processors that are critical information infrastructure shall additionally comply with the relevant provisions of the State on the security of critical information infrastructure."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VI"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "For the purposes of these Provisions, the following terms have the meanings given below:\n(a) \"Data centre management body\" means an organisational body responsible for the security management of the personal information processing activities of a large personal information processor throughout their life cycle, which may be an internal body of the large personal information processor or an external third-party body.\n(b) \"Business department\" means the relevant department within a large personal information processor responsible for the research and development, operation and the like of products and services."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VI"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "These Provisions shall come into force on the date to be filled in upon promulgation.\nGuidelines for the Formulation of Working Rules of Personal Information Protection Supervision Committees\nThese Guidelines are formulated in order to regulate the operation and management of personal information protection supervision committees, safeguard the efficient performance of their duties and raise the level of compliance in personal information protection of large personal information processors, in accordance with the Personal Information Protection Law of the People's Republic of China, the Provisions on the Personal Information Protection of Large Personal Information Processors and other laws, administrative regulations and departmental rules.\nThe working rules of the personal information protection supervision committee (hereinafter referred to as the working rules) apply to the establishment and operation of the personal information protection supervision committee (hereinafter referred to as the supervision committee) by a large personal information processor and to the standardised management of the supervision committee and its members.\nThe working rules shall at least meet the following requirements:\n1. The supervision committee shall supervise the personal information protection of the large personal information processor, follow the principles of independence, impartiality, professionalism and prudence, comply with laws and administrative regulations, the provisions of the national cyberspace administration department and other departments performing personal information protection duties, and the working rules, and perform its duties diligently and conscientiously.\n2. The supervision committee is an independent body of the large personal information processor, composed mainly of external members, and shall exercise its functions and powers in accordance with laws and administrative regulations and the working rules.\n3. The head of the supervision committee shall be an external member, elected by all members of the supervision committee, and shall preside over the work of the supervision committee.\nThe secretary of the supervision committee may be an internal member, or another person designated by the board of directors or other decision-making body of the large personal information processor or by a body authorised by it, and shall be responsible for handling the day-to-day affairs of the supervision committee.\n4. External members shall be nominated and engaged by the board of directors or other decision-making body of the large personal information processor or by a body authorised by it.\nWhen nominating and engaging external members, the board of directors or other decision-making body of the large personal information processor or a body authorised by it shall fully understand the circumstances of the nominees and ensure compliance with Article 38 and Article 39 of the Provisions on the Personal Information Protection of Large Personal Information Processors. Nominees shall make a written declaration that they meet the independence requirements and the other conditions for serving as external members.\n5. The term of office of external members shall be three years; upon expiry, they may be reappointed, but not for more than two consecutive terms.\nBefore the expiry of their term, external members may voluntarily submit a written application for resignation to the board of directors or other decision-making body of the large personal information processor or to a body authorised by it. Where an external member no longer meets the requirements of the working rules, he or she shall immediately cease performing duties and resign.\n6. Where an external member is in any of the following circumstances, the board of directors or other decision-making body of the large personal information processor or a body authorised by it shall dismiss him or her in accordance with the procedures:\n(a) no longer meeting the provisions of Article 38 and Article 39 of the Provisions on the Personal Information Protection of Large Personal Information Processors, and not having resigned;\n(b) failing to attend meetings of the supervision committee (including regular meetings and interim meetings) on two consecutive occasions;\n(c) violating confidentiality requirements;\n(d) other circumstances provided by the working rules.\nWhere a large personal information processor dismisses an external member in accordance with the provisions, it shall inform him or her of the reasons and the basis and disclose the matter in the social responsibility report on personal information protection. Where a dismissed external member considers the reasons for dismissal improper, he or she may raise an objection, and the large personal information processor shall reply promptly.\n7. Internal members shall be appointed by the board of directors or other decision-making body of the large personal information processor or by a body authorised by it. The term of office of internal members shall be three years; upon expiry, the board of directors or other decision-making body of the large personal information processor, or a body authorised by it, shall decide whether to reappoint them, and reappointment shall not exceed two consecutive terms.\n8. Where the resignation or dismissal of external members results in the number of members of the supervision committee failing to meet the requirements of the working rules, or in external members accounting for less than two thirds, the large personal information processor shall appoint new external members within 30 working days. Before such appointment is completed, the supervision committee shall continue to perform the corresponding duties.\nWhere an internal member is no longer suitable to continue serving as an internal member due to resignation, transfer to another post or other reasons, the large personal information processor shall appoint a new internal member within 30 working days.\n9. The supervision committee shall supervise the large personal information processor and perform its supervisory duties in accordance with the requirements of Article 41 of the Provisions on the Personal Information Protection of Large Personal Information Processors.\n10. Members of the supervision committee may perform their supervisory duties in the following ways:\n(a) proposing matters to be deliberated at meetings of the supervision committee;\n(b) inquiring of the board of directors or other decision-making body of the large personal information processor or a body authorised by it, and of other relevant bodies and personnel, about matters relating to personal information protection, and requiring replies;\n(c) attending meetings of the supervision committee and expressing opinions on and voting on the matters deliberated;\n(d) attending, upon invitation, meetings relating to the personal information protection work of the large personal information processor;\n(e) collecting and feeding back the opinions and suggestions of users of the large personal information processor on personal information protection work;\n(f) putting forward professional suggestions for raising the level of compliance in personal information protection of the large personal information processor;\n(g) other ways of performing duties provided by laws, administrative regulations and departmental rules.\nWhere members of the supervision committee perform their duties in the ways referred to in items (a) and (b) of the preceding paragraph, the consent of more than half of all members shall be obtained. Where none of the ways of performing duties listed in the preceding paragraph can be used normally, the large personal information processor shall be informed of the specific situation and the reasons.\n11. The supervision committee shall hold a regular meeting at least once every six months to hear the work report of the person in charge of personal information protection of the large personal information processor and to deliberate the relevant matters raised by the large personal information processor or the supervision committee.\nWhere there is evidence proving the existence of unlawful circumstances in the personal information processing activities of the large personal information processor, an interim meeting may be convened upon the proposal of one third or more of the members of the supervision committee.\n12. A meeting of the supervision committee may be held only when more than half of its members are present. Where a member is genuinely unable to attend, he or she shall review the meeting materials in advance, put forward clear opinions, and in writing entrust another member of the supervision committee to vote on his or her behalf.\n13. Members of the supervision committee shall conduct full discussion on the matters deliberated at the meeting, express independent opinions and form a resolution. A resolution shall be adopted with the consent of more than two thirds of all members; where a member holds a dissenting opinion, it shall be recorded in the resolution. Minutes of meetings of the supervision committee shall be made and signed and confirmed by the members present.\n14. The supervision committee shall promptly submit meeting resolutions to the board of directors or other decision-making body of the large personal information processor or to a body authorised by it. The board of directors or other decision-making body of the large personal information processor, or a body authorised by it, shall promptly act on the resolutions and periodically communicate progress with the supervision committee. The person in charge of personal information protection shall report to the next meeting of the supervision committee on the handling of the resolutions of the previous meeting.\nWhere the board of directors or other decision-making body of the large personal information processor, or a body authorised by it, fails, without justified reason, to act on the compliance opinions contained in a resolution, or where the outcome of its handling violates laws, administrative regulations or the relevant provisions of the State, the supervision committee may report the matter to the provincial cyberspace administration department of the place where the processor is located.\n15. A large personal information processor shall, taking into account the content, duration and volume of the work, grant external members allowances commensurate with the duties they perform, without violating the relevant provisions of the State. Apart from the said allowances, external members shall not obtain other benefits from the large personal information processor, its principal shareholders or actual controllers, or entities and persons having an interest in it.\nExternal members shall declare, through the social responsibility report on personal information protection published by the large personal information processor, that they have not obtained the other benefits referred to in the preceding paragraph.\n\"Principal shareholders\" means shareholders holding 5 per cent or more of the shares of the large personal information processor, or shareholders holding less than 5 per cent of the shares but having a major influence on the large personal information processor.\n16. In performing their duties, supervision committees shall not interfere with the normal operation of the large personal information processor, shall not require access to information beyond the scope of their duties, and shall keep confidential in accordance with the requirements of laws, administrative regulations and departmental rules the personal information, trade secrets and confidential business information that they learn of in the performance of their duties, and shall not divulge it or unlawfully provide it to others.\n17. The relevant bodies and personnel of the large personal information processor shall cooperate with the supervision lawfully carried out by the supervision committee, and shall not maliciously refuse, obstruct or conceal, or interfere with the independent performance of its duties.\nWhere the supervision committee encounters obstruction in the lawful performance of its duties, it may explain the situation to the board of directors or other decision-making body of the large personal information processor or to a body authorised by it, and require the relevant bodies and personnel to cooperate. Where the obstruction still cannot be removed, the supervision committee may report the matter to the provincial cyberspace administration department of the place where the processor is located.\nMembers of the supervision committee shall, in the first quarter of each year, submit a report on the performance of their duties in the previous year to the board of directors or other decision-making body of the large personal information processor or to a body authorised by it.\n18. A large personal information processor may, according to work needs, lay down detailed requirements on the number of members of the supervision committee, the number of meetings, the ways of performing supervisory duties, internal members and their appointment, the independence requirements for and dismissal of external members, and other relevant matters."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VI"
+        }
+      }
+    ]
+  };
+
+  TR["CN-PIA-017"] = {
+    "lawId": "CN-PIA-017",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-27",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 25 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Measures are formulated in order to regulate network data security risk assessment activities, safeguard network data security and promote the lawful, reasonable and effective use of network data, in accordance with the Data Security Law of the People's Republic of China, the Cybersecurity Law of the People's Republic of China, the Regulations on the Security Management of Network Data and other laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Network data security risk assessment carried out within the territory of the People's Republic of China shall comply with these Measures.\nFor the purposes of these Measures, \"network data security risk assessment\" (hereinafter referred to as risk assessment) means activities such as risk identification, risk analysis and risk evaluation carried out in respect of the security of network data and network data processing activities."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Under the guidance of the national data security work coordination mechanism, the national cyberspace administration department, together with the relevant departments of the State Council for telecommunications, public security and others, shall establish a special working mechanism for network data security risk assessment to guide and supervise risk assessment work."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The competent departments concerned shall, in accordance with the principle that the department that administers a line of business also administers the business data and the data security thereof, organise on a regular basis risk assessments in their respective industries and fields, inspect as work requires the conduct of risk assessments by network data processors processing important data in their respective industries and fields (hereinafter referred to as processors of important data), and submit their annual risk assessment inspection plans to the national cyberspace administration department before the end of January each year. The national cyberspace administration department shall, through the national data security work coordination mechanism, share the plans with the relevant departments of the State Council for telecommunications, public security, state security and others and coordinate with them so as to avoid unnecessary inspections and duplicative or overlapping inspections.\nThe competent departments concerned shall not charge fees to the processors of important data inspected for carrying out inspections."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Processors of important data shall carry out a risk assessment every year.\nWhere a major change occurs in the security status of important data and may adversely affect data security, a risk assessment shall promptly be carried out in respect of the part affected by the change and the change itself.\nNetwork data processors processing ordinary data (hereinafter referred to as processors of ordinary data) are encouraged to carry out a risk assessment at least once every three years."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Risk assessment work shall be carried out in accordance with the relevant requirements of the Data Security Law of the People's Republic of China and the Regulations on the Security Management of Network Data and with reference to the relevant national standards on data security risk assessment. Where the competent departments concerned provide otherwise on risk assessment work in their respective industries and fields, those provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Network data processors may carry out risk assessments themselves or by engaging third-party assessment institutions (hereinafter referred to as assessment institutions).\nWhere a network data processor carries out a risk assessment itself, it shall designate dedicated personnel to take charge. Where a network data processor engages an assessment institution to carry out a risk assessment, it shall specify the rights and obligations of both parties by concluding a contract or by other documents having legal effect."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The relevant assessment institutions are encouraged to obtain certification. The certification of assessment institutions shall be carried out in accordance with the relevant provisions of the Regulations of the People's Republic of China on Certification and Accreditation."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Under the guidance of the national data security work coordination mechanism, the national cyberspace administration department and the relevant departments of the State Council for telecommunications, public security and others shall actively promote the development of network data security risk assessment services and foster assessment institutions."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Assessment institutions carrying out risk assessment shall comply with laws and regulations, make risk determinations impartially and objectively, and be responsible for the truthfulness, validity and completeness of the risk assessment reports they issue."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Assessment institutions shall not further entrust another institution with the risk assessment."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The same assessment institution and its affiliated institutions shall not carry out annual risk assessments for the same network data processor on three or more consecutive occasions."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where an assessment institution finds in the course of a risk assessment that there is a major data security risk in network data processing activities, it shall promptly notify the network data processor."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Assessment institutions and their staff shall keep confidential in accordance with law the data, trade secrets and confidential business information obtained in the course of risk assessment, shall not divulge them or unlawfully provide them to others, and shall, after conclusion of the risk assessment, promptly delete or properly dispose of the relevant information in accordance with the contract."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where a processor of important data carries out an annual risk assessment, it shall prepare a risk assessment report in accordance with law and the provisions of the competent department concerned. Where the competent department concerned has no provisions on risk assessment reports, the risk assessment report may be prepared with reference to the relevant national standards on data security risk assessment. Risk assessment reports shall be retained for at least three years.\nProcessors of ordinary data may prepare risk assessment reports with reference to the requirements of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "A processor of important data shall, within 20 working days after completion of the annual risk assessment, submit the risk assessment report to the competent department concerned in accordance with its requirements. Where the competent department is unclear, the report shall be submitted to the provincial cyberspace administration department or to the national cyberspace administration department.\nThe competent departments concerned shall make public the channels and contact details for submitting risk assessment reports, promptly receive the risk assessment reports submitted by processors of important data, and notify the cyberspace administration department at the same level of the reports within 10 working days from the date of receipt. The national cyberspace administration department shall compile the relevant reports and share them with the relevant departments of the State Council for telecommunications, public security, state security and others.\nThe cyberspace administration departments at or above the provincial level, the competent telecommunications departments, the public security organs, the state security organs and other relevant departments may inspect and verify the truthfulness and accuracy of the risk assessment reports of processors of important data, and the processors of important data shall cooperate in the inspection and verification."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Where the cyberspace administration departments at or above the provincial level, the competent telecommunications departments, the public security organs and other relevant departments find in the verification of risk assessment reports, supervision and inspection and other work that a network data processor is in any of the following circumstances, they may require it to engage a certified assessment institution to carry out a risk assessment:\n(a) there is a relatively major security risk in the network data processing activities that may endanger national security or the public interest;\n(b) a network data security incident has occurred, resulting in the divulgence or theft of important data or of personal information on a large scale;\n(c) other circumstances provided by the relevant departments.\nIn respect of the same network data security incident or risk, a network data processor shall not be required repeatedly to engage an assessment institution to carry out a risk assessment."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where a network data processor engages an assessment institution to carry out a risk assessment in accordance with the requirements of the relevant departments, it shall perform the following obligations:\n(a) providing necessary support for the assessment institution to carry out the risk assessment, including granting the risk assessment personnel the necessary permission to access network data facilities, network data, systems and operation logs;\n(b) completing the risk assessment within the prescribed time; where the situation is complex, the period may be extended appropriately after approval by the relevant department;\n(c) after completion of the risk assessment, submitting the risk assessment report issued by the assessment institution to the relevant department, the report being signed by the principal person in charge of the assessment institution and the person in charge of the risk assessment and sealed with the official seal of the institution;\n(d) rectifying the problems found in the risk assessment in accordance with the requirements of the relevant department, and, within 15 working days after completion of the rectification, submitting a report on the rectification to the relevant department.\nNetwork data processors shall not, by any means, require or hint that an assessment institution issue a false or improper risk assessment report."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Where the relevant departments find in organising risk assessments that the important data processing activities of a processor of important data may endanger national security or the public interest, they shall, according to their duties, order the processor of important data to rectify; in respect of a processor of important data that refuses to rectify or fails to meet the rectification requirements, they may take measures such as requiring it to cease processing important data."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The competent departments concerned shall strengthen the sharing of risk information and coordinated handling, promptly handle the security risks and problems found in risk assessments, and promptly report in accordance with the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Any organisation or individual has the right to complain of or report unlawful activities in risk assessment to the relevant departments, and the department receiving the complaint or report shall promptly handle it in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Where the cyberspace administration departments at or above the provincial level, the competent telecommunications departments, the public security organs, the state security organs or other relevant departments find that a network data processor has failed to carry out a risk assessment as required, they shall deal with the matter in accordance with the Data Security Law of the People's Republic of China, the Regulations on the Security Management of Network Data and other relevant laws and administrative regulations.\nWhere an assessment institution is found to have carried out a risk assessment in violation of these Measures, the relevant departments shall deal with the matter in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Risk assessments by network data processors processing core data shall be carried out in accordance with the relevant provisions of the State.\nWhere technical measures such as the encryption of important data are involved, a security assessment of the application of commercial cryptography shall be carried out in accordance with the requirements of the laws and administrative regulations of the State on cryptography."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Risk assessment activities involving State secrets or work secrets shall be carried out in accordance with the Law of the People's Republic of China on Guarding State Secrets and other laws and administrative regulations and the State secrecy provisions."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "These Measures shall come into force on 20 August 2026."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        }
+      }
+    ]
+  };
+
+  TR["CN-PIA-018"] = {
+    "lawId": "CN-PIA-018",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-27",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 14 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Measures are formulated in order to regulate the management of cybersecurity incident reporting and to control in a timely manner the losses and harm caused by cybersecurity incidents, in accordance with the Cybersecurity Law of the People's Republic of China, the Data Security Law of the People's Republic of China, the Personal Information Protection Law of the People's Republic of China, the Regulations on the Security Protection of Critical Information Infrastructure and other laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where a network operator that builds or operates a network, or provides services through a network, within the territory of the People's Republic of China experiences a cybersecurity incident, it shall report in accordance with the provisions of these Measures."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The national cyberspace administration department is responsible for coordinating the management of cybersecurity incident reporting throughout the country. The provincial cyberspace administration departments are responsible for coordinating the management of cybersecurity incident reporting within their respective administrative regions."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Where a network operator discovers or learns of a cybersecurity incident involving itself, it shall assess it in accordance with the Guidelines for the Grading of Cybersecurity Incidents (see the Annex), and where the incident is a major or higher cybersecurity incident, report it according to the following procedures:\nWhere critical information infrastructure is involved, the network operator shall report to the protection department and the public security organ at the earliest opportunity, and in any event within one hour. Where the incident is a major or particularly major cybersecurity incident, the protection department shall, after receiving the report, report to the national cyberspace administration department and the public security department of the State Council at the earliest opportunity, and in any event within half an hour.\nWhere the network operator is a department of the central Party and State organs or an entity directly subordinate thereto, it shall promptly report to the cyberspace administration body of its own department, and in any event within two hours. Where the incident is a major or particularly major cybersecurity incident, the cyberspace administration body of the department shall, after receiving the report, report to the national cyberspace administration department at the earliest opportunity, and in any event within one hour. The national cyberspace administration department shall promptly notify the relevant departments after receiving the report.\nOther network operators shall promptly report to the provincial cyberspace administration department of the place where they are located, and in any event within four hours. Where the incident is a major or particularly major cybersecurity incident, the provincial cyberspace administration department shall, after receiving the report, report to the national cyberspace administration department at the earliest opportunity, and in any event within one hour, and shall at the same time notify the relevant departments at the same level.\nWhere there are dedicated provisions for the industry or field concerned, the network operator shall additionally report in accordance with the requirements of the competent industry regulator.\nWhere a suspected unlawful or criminal act is involved, the network operator shall promptly report the case to the public security organ."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Network operators shall, by contract or other means, require organisations or individuals providing them with cybersecurity, system operation and maintenance and other services to promptly report to them cybersecurity incidents detected through monitoring, and to assist them in reporting cybersecurity incidents in accordance with the provisions of these Measures."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Social organisations and individuals are encouraged to report major or higher cybersecurity incidents that come to their knowledge."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "A report of a cybersecurity incident shall include the following:\n(a) the name of the entity involved and the basic information on the system or facility involved;\n(b) the time, place, type and grade of the discovery or occurrence of the cybersecurity incident, the impact and harm already caused, and the measures already taken and their effect; for ransomware attack incidents, the amount, method and date of the ransom demanded shall also be included;\n(c) the trend of development of the situation and the further impact and harm that may be caused;\n(d) a preliminary analysis of the causes of the cybersecurity incident;\n(e) leads for tracing and investigation, including but not limited to information on possible attackers, attack paths and vulnerabilities existing;\n(f) the response measures to be taken further and the support requested;\n(g) the protection of the scene of the cybersecurity incident;\n(h) other circumstances that shall be reported.\nWhere the cause, impact or trend of development of a cybersecurity incident cannot be determined within the prescribed time, the matters in items (a) and (b) may be reported first, and the other circumstances reported promptly thereafter.\nWhere new important circumstances arise after the report of the cybersecurity incident, or the investigation reaches a stage of progress, the entity involved shall report promptly."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "After conclusion of the handling of a cybersecurity incident, the network operator shall, within 30 days, conduct a comprehensive analysis and summary of the causes of the incident, the emergency handling measures, the harm caused, the accountability pursued, the improvements and rectification made, and the lessons learned, and shall prepare a summary report on the handling of the incident and submit it through the original channel."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The cyberspace administration departments shall establish the 12387 cybersecurity incident reporting hotline and channels such as a website, email and facsimile, to receive cybersecurity incident reports in a unified manner."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Where a network operator fails to report a cybersecurity incident in accordance with the provisions of these Measures, the relevant competent department shall impose a penalty in accordance with the provisions of the relevant laws and administrative regulations.\nWhere a network operator delays, omits, falsely reports or conceals a cybersecurity incident, causing serious harmful consequences, a heavier penalty shall be imposed on the network operator and the responsible persons in accordance with law.\nWhere a department responsible for cybersecurity incident reporting fails to report a cybersecurity incident in accordance with the provisions of these Measures, the responsibility of the relevant entity and personnel shall be pursued in accordance with the relevant laws and administrative regulations and the responsibility system for cybersecurity work."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Where, when a cybersecurity incident occurs, a network operator has adopted reasonable and necessary protection measures, handled the incident in accordance with the emergency response plan, effectively reduced the impact and harm of the cybersecurity incident, and reported promptly in accordance with the provisions of these Measures, the liability of the relevant entity and personnel may, as appropriate, be pursued leniently or not pursued."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "For the purposes of these Measures, \"cybersecurity incident\" means an incident that, due to human causes, attacks on the network, vulnerabilities and hidden dangers in the network, defects or failures of software or hardware, force majeure or other factors, causes harm to the network and information systems or to the data and business applications therein, and causes a negative impact on the State, society or the economy.\nFor the purposes of these Measures, \"network operator\" means the owner or manager of a network and a provider of network services.\nThe Guidelines for the Grading of Cybersecurity Incidents referred to in these Measures are formulated with reference to the national standard Information Security Technology - Guidelines for the Classification and Grading of Cybersecurity Incidents (GB/T 20986-2023), and set out quantitative grading indicators for the relevant incidents by way of limited enumeration."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The reporting of cybersecurity incidents involving State secrets shall be carried out in accordance with the provisions of the relevant departments."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "These Measures shall come into force on 1 November 2025.\nAnnex\nGuidelines for the Grading of Cybersecurity Incidents\nI. Particularly major cybersecurity incidents\nA cybersecurity incident falling within any of the following circumstances is a particularly major cybersecurity incident:\n1. Important networks and information systems suffer particularly serious system losses, causing large-scale paralysis of the systems and loss of the capacity for business processing.\n2. Core data, important data or massive citizens' personal information is lost, stolen, tampered with or counterfeited, constituting a particularly serious threat to national security and social stability.\n3. Other cybersecurity incidents constituting a particularly serious threat to, or causing particularly serious impact on, national security, social order, economic development or the public interest.\nGenerally, a cybersecurity incident meeting any one of the following conditions may be determined to be a particularly major cybersecurity incident:\n1. The portal websites of Party and State organs at or above the provincial level or key central news websites are inaccessible for more than 24 hours due to attack or failure.\n2. Critical information infrastructure is interrupted in its overall operation for more than 6 hours, or its main functions are interrupted for more than 24 hours.\n3. The water, electricity, gas, oil, heating, transport, medical treatment, shopping and other work and life of more than 50 per cent of the population of one or more provincial-level administrative regions, or of more than 10 million persons, are affected.\n4. Core data or important data is divulged, stolen, tampered with or counterfeited, constituting a particularly serious threat to national security and social stability.\n5. The personal information of more than 100 million citizens is divulged.\n6. The portal websites of Party and State organs at or above the provincial level, key central news websites, very large network platforms and the like are attacked and tampered with, resulting in the dissemination of unlawful and harmful information on a particularly large scale. Any one of the following circumstances may be determined to be \"on a particularly large scale\":\n(1) the information appears on the home page and persists for more than 6 hours, or appears on other pages and persists for more than 24 hours;\n(2) it is forwarded more than 100,000 times through social platforms;\n(3) it is viewed or clicked more than 1 million times;\n(4) the cyberspace administration departments at or above the provincial level or the public security organs determine that it is disseminated \"on a particularly large scale\".\n7. Direct economic losses of more than 100 million yuan are caused.\n8. Other cybersecurity incidents constituting a particularly serious threat to, or causing particularly serious impact on, national security, social order, economic development or the public interest.\nII. Major cybersecurity incidents\nA cybersecurity incident falling within any of the following circumstances and not amounting to a particularly major cybersecurity incident is a major cybersecurity incident:\n1. Important networks and information systems suffer serious system losses, causing prolonged interruption or partial paralysis of the systems, and the capacity for business processing is substantially affected.\n2. Core data, important data or a large amount of citizens' personal information is lost, stolen, tampered with or counterfeited, constituting a serious threat to national security and social stability.\n3. Other cybersecurity incidents constituting a serious threat to, or causing serious impact on, national security, social order, economic development or the public interest.\nGenerally, a cybersecurity incident meeting any one of the following conditions may be determined to be a major cybersecurity incident:\n1. The portal websites of Party and State organs, enterprises and public institutions at or above the prefectural and municipal level, or key news websites at or above the provincial level, are inaccessible for more than 6 hours due to attack or failure.\n2. Critical information infrastructure is interrupted in its overall operation for more than 1 hour, or its main functions are interrupted for more than 3 hours.\n3. The water, electricity, gas, oil, heating, transport, medical treatment, shopping and other work and life of more than 50 per cent of the population of one or more prefectural and municipal administrative regions, or of more than 1 million persons, are affected.\n4. Core data or important data is divulged, stolen, tampered with or counterfeited, constituting a serious threat to national security and social stability.\n5. The personal information of more than 10 million citizens is divulged.\n6. The portal websites of Party and State organs, enterprises and public institutions at or above the prefectural and municipal level, key news websites at or above the provincial level, or large or larger network platforms and the like are attacked and tampered with, resulting in the dissemination of unlawful and harmful information on a large scale. Any one of the following circumstances may be determined to be \"on a large scale\":\n(1) the information appears on the home page and persists for more than 2 hours, or appears on other pages and persists for more than 12 hours;\n(2) it is forwarded more than 10,000 times through social platforms;\n(3) it is viewed or clicked more than 100,000 times;\n(4) the cyberspace administration departments at or above the provincial level or the public security organs determine that it is disseminated \"on a large scale\".\n7. Direct economic losses of more than 20 million yuan are caused.\n8. Other cybersecurity incidents constituting a serious threat to, or causing serious impact on, national security, social order, economic development or the public interest.\nIII. Relatively major cybersecurity incidents\nA cybersecurity incident falling within any of the following circumstances and not amounting to a major cybersecurity incident is a relatively major cybersecurity incident:\n1. Important networks and information systems suffer relatively serious system losses, causing interruption of the systems, markedly affecting system efficiency, and affecting the capacity for business processing.\n2. Important data or a relatively large amount of citizens' personal information is lost, stolen, tampered with or counterfeited, constituting a relatively serious threat to national security and social stability.\n3. Other cybersecurity incidents constituting a relatively serious threat to, or causing relatively serious impact on, national security, social order, economic development or the public interest.\nGenerally, a cybersecurity incident meeting any one of the following conditions may be determined to be a relatively major cybersecurity incident:\n1. The portal websites of Party and State organs, enterprises and public institutions at or above the prefectural and municipal level, or key news websites at or above the provincial level, are inaccessible for more than 2 hours due to attack or failure.\n2. Critical information infrastructure is interrupted in its overall operation for more than 10 minutes, or its main functions are interrupted for more than 30 minutes.\n3. The water, electricity, gas, oil, heating, transport, medical treatment, shopping and other work and life of more than 30 per cent of the population of one or more prefectural and municipal administrative regions, or of more than 100,000 persons, are affected.\n4. Important data is divulged or stolen, constituting a relatively serious threat to national security and social stability.\n5. The personal information of more than 1 million citizens is divulged.\n6. The portal websites of Party and State organs, enterprises and public institutions, key news websites, or network platforms and the like are attacked and tampered with, resulting in the dissemination of unlawful and harmful information on a relatively large scale. Any one of the following circumstances may be determined to be \"on a relatively large scale\":\n(1) the information appears on the home page and persists for more than 30 minutes, or appears on other pages and persists for more than 2 hours;\n(2) it is forwarded more than 1,000 times through social platforms;\n(3) it is viewed or clicked more than 10,000 times;\n(4) the cyberspace administration departments at or above the provincial level or the public security organs determine that it is disseminated \"on a relatively large scale\".\n7. Direct economic losses of more than 5 million yuan are caused.\n8. Other cybersecurity incidents constituting a relatively serious threat to, or causing relatively serious impact on, national security, social order, economic development or the public interest.\nIV. Ordinary cybersecurity incidents\nCybersecurity incidents other than those referred to above that constitute a certain threat to, or cause a certain impact on, national security, social order, economic development or the public interest.\n(Editors: Zhao Yitong, Wei Jia)\n*Share to let more people see*"
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      }
+    ]
+  };
+
+  TR["CN-PIA-019"] = {
+    "lawId": "CN-PIA-019",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-27",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 35 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Provisions are formulated in order to regulate algorithm recommendation activities in Internet information services, promote the core socialist values, safeguard national security and the public interest, protect the lawful rights and interests of citizens, legal persons and other organisations, and promote the sound and orderly development of Internet information services, in accordance with the Cybersecurity Law of the People's Republic of China, the Data Security Law of the People's Republic of China, the Personal Information Protection Law of the People's Republic of China, the Measures for the Administration of Internet Information Services and other laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "These Provisions apply to the provision of Internet information services by applying algorithm recommendation technology (hereinafter referred to as algorithm recommendation services) within the territory of the People's Republic of China. Where laws or administrative regulations provide otherwise, those provisions shall prevail.\nThe application of algorithm recommendation technology referred to in the preceding paragraph means the use of algorithmic technologies of the generative and synthetic type, the personalised push type, the ranking and selection type, the retrieval and filtering type, the scheduling and decision-making type and the like to provide information to users."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The national cyberspace administration department is responsible for coordinating the governance of algorithm recommendation services throughout the country and the related supervision and administration. The relevant departments of the State Council for telecommunications, public security, market regulation and others shall, according to their respective duties, be responsible for the supervision and administration of algorithm recommendation services.\nLocal cyberspace administration departments are responsible for coordinating the governance of algorithm recommendation services within their respective administrative regions and the related supervision and administration. The local departments for telecommunications, public security, market regulation and others shall, according to their respective duties, be responsible for the supervision and administration of algorithm recommendation services within their respective administrative regions."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The provision of algorithm recommendation services shall comply with laws and regulations, respect social morality and ethics, observe commercial ethics and professional ethics, and follow the principles of fairness and equity, openness and transparency, scientific rationality, and honesty and good faith."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The relevant industry organisations are encouraged to strengthen industry self-discipline, establish and improve industry standards, industry codes and self-disciplinary management systems, and urge and guide algorithm recommendation service providers to formulate and improve service specifications, provide services in accordance with law and accept public supervision.\nChapter II Information Service Norms"
+        },
+        "noLabel": {
+          "en": "Article 5."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Algorithm recommendation service providers shall adhere to mainstream value orientations, optimise the mechanisms of algorithm recommendation services, actively disseminate positive energy, and promote the application of algorithms in an upward and beneficial direction.\nAlgorithm recommendation service providers shall not use algorithm recommendation services to engage in activities prohibited by laws or administrative regulations, such as endangering national security or the public interest, disrupting economic order or social order, or infringing the lawful rights and interests of others, shall not use algorithm recommendation services to disseminate information prohibited by laws or administrative regulations, and shall take measures to prevent and resist the dissemination of harmful information."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Algorithm recommendation service providers shall implement their primary responsibility for algorithm security, establish and improve management systems and technical measures for the review of algorithm mechanisms, the examination of scientific and technological ethics, user registration, the review of information release, data security and personal information protection, combating telecom and online fraud, security assessment and monitoring, and emergency handling of security incidents, formulate and publish the rules relating to algorithm recommendation services, and be equipped with professional personnel and technical support commensurate with the scale of the algorithm recommendation services."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Algorithm recommendation service providers shall periodically review, assess and verify algorithm mechanisms, models, data and application results, and shall not set up algorithm models that induce users to become addicted or to consume excessively, or that otherwise violate laws or regulations or contravene ethics and morality."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Algorithm recommendation service providers shall strengthen information security management and establish and improve a feature database for identifying unlawful and harmful information, improving the standards, rules and procedures for inclusion. Where algorithm-generated synthetic information is found not to be conspicuously labelled, it may be transmitted further only after conspicuous labelling has been applied.\nWhere unlawful information is found, transmission shall be stopped immediately, handling measures such as elimination shall be taken, the spread of the information shall be prevented, the relevant records shall be retained, and a report shall be made to the cyberspace administration department and the relevant departments. Where harmful information is found, it shall be handled in accordance with the relevant provisions on the ecological governance of online information content."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Algorithm recommendation service providers shall strengthen the management of user models and user tags, improve the rules for recording points of interest in user models and the rules for managing user tags, and shall not record keywords of unlawful and harmful information as points of interest of users or use them as user tags on the basis of which information is pushed."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Algorithm recommendation service providers shall strengthen the ecological management of the pages and interfaces of algorithm recommendation services, establish and improve mechanisms for human intervention and users' own choices, and actively present information consistent with mainstream value orientations in key positions such as the home page and the first screen, trending searches, selections, rankings and pop-up windows."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Algorithm recommendation service providers are encouraged to apply strategies such as content deduplication and dispersal intervention in a comprehensive manner, and to improve the transparency and interpretability of the rules on retrieval, ranking, selection, push and display, so as to avoid adverse effects on users and to prevent and reduce disputes."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Algorithm recommendation service providers that provide Internet news information services shall obtain an Internet news information service licence in accordance with law, carry out the gathering, editing and release of Internet news information, the reposting of such information and the provision of dissemination platform services in a standardised manner, shall not generate or synthesise false news information, and shall not disseminate news information released by entities outside the scope prescribed by the State."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Algorithm recommendation service providers shall not use algorithms to register accounts falsely, trade accounts unlawfully, manipulate user accounts, or falsely like, comment on or forward content, and shall not use algorithms to screen information, recommend excessively, manipulate rankings or the ordering of retrieval results, or control trending searches or selections so as to interfere with the presentation of information, in order to influence online public opinion or evade supervision and administration."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Algorithm recommendation service providers shall not use algorithms to impose unreasonable restrictions on other Internet information service providers, or to obstruct or disrupt the normal operation of the Internet information services lawfully provided by them, so as to commit monopolistic or unfair competition practices.\nChapter III Protection of Users' Rights and Interests"
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Algorithm recommendation service providers shall inform users, in a conspicuous manner, of the provision of algorithm recommendation services, and shall make public, in an appropriate manner, the basic principles, purposes and intent, and main operating mechanisms of the algorithm recommendation services."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Algorithm recommendation service providers shall provide users with an option that is not directed at their personal characteristics, or provide users with a convenient option to turn off the algorithm recommendation services. Where a user chooses to turn off the algorithm recommendation services, the algorithm recommendation service provider shall immediately cease providing the relevant services.\nAlgorithm recommendation service providers shall provide users with the function of selecting or deleting the user tags based on their personal characteristics that are used for algorithm recommendation services.\nWhere the application of algorithms by an algorithm recommendation service provider has a major impact on the rights and interests of users, it shall give an explanation in accordance with law and bear the corresponding liability."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where algorithm recommendation service providers provide services to minors, they shall perform in accordance with law the obligations for the online protection of minors, and shall, by developing modes suitable for use by minors and providing services suited to the characteristics of minors and other means, facilitate minors' access to information beneficial to their physical and mental health.\nAlgorithm recommendation service providers shall not push to minors information that may induce minors to imitate unsafe conduct or conduct violating social morality, or that may induce bad habits in minors, or that may otherwise affect the physical and mental health of minors, and shall not use algorithm recommendation services to induce minors to become addicted to the Internet."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Where algorithm recommendation service providers provide services to elderly persons, they shall safeguard the rights and interests enjoyed by elderly persons in accordance with law, give full consideration to the needs of elderly persons in travel, medical treatment, consumption and handling of affairs, provide intelligent services adapted to the elderly in accordance with the relevant provisions of the State, and carry out in accordance with law the monitoring, identification and handling of information relating to telecom and online fraud, so as to facilitate the safe use of algorithm recommendation services by elderly persons."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where algorithm recommendation service providers provide work scheduling services to workers, they shall protect the lawful rights and interests of workers such as the right to receive labour remuneration and to rest and take leave, and shall establish and improve the relevant algorithms for the allocation of platform orders, the composition and payment of remuneration, working hours, and rewards and punishments."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where algorithm recommendation service providers sell goods or provide services to consumers, they shall protect the consumers' right to fair trade, and shall not, on the basis of characteristics such as the preferences and trading habits of consumers, use algorithms to engage in unlawful practices such as unreasonable differential treatment in transaction prices and other transaction conditions."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Algorithm recommendation service providers shall set up convenient and effective channels for user appeals and public complaints and reports, specify the handling procedures and the time limit for feedback, and promptly accept, handle and give feedback on the outcome of handling.\nChapter IV Supervision and Administration"
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter IV"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The cyberspace administration departments, together with the relevant departments for telecommunications, public security, market regulation and others, shall establish a system for the graded and classified security management of algorithms, and shall implement graded and classified management of algorithm recommendation service providers according to the public opinion attributes or social mobilisation capacity of the algorithm recommendation services, the content categories, the scale of users, the importance of the data processed by the algorithm recommendation technology, the degree of intervention in user behaviour and the like."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter IV"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Algorithm recommendation service providers having public opinion attributes or social mobilisation capacity shall, within ten working days from the date of provision of services, fill in information such as the name of the service provider, the form of service, the field of application, the type of algorithm, the algorithm self-assessment report and the content to be made public through the Internet information service algorithm filing system, and complete the filing formalities.\nWhere the filing information of an algorithm recommendation service provider changes, it shall complete the formalities for the change within ten working days from the date of the change.\nWhere an algorithm recommendation service provider terminates its services, it shall complete the formalities for cancellation of the filing within twenty working days from the date of termination of services and make proper arrangements."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter IV"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "After receiving the filing materials submitted by a filer, the national cyberspace administration department and the cyberspace administration departments of provinces, autonomous regions and municipalities directly under the Central Government shall, where the materials are complete, complete the filing within thirty working days, issue a filing number and make it public; where the materials are incomplete, they shall not complete the filing and shall notify the filer within thirty working days, stating the reasons."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Algorithm recommendation service providers that have completed filing shall indicate their filing number in a conspicuous position on the websites, applications and the like through which they provide services to the public, and provide a link to the published information."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Algorithm recommendation service providers having public opinion attributes or social mobilisation capacity shall carry out security assessments in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The cyberspace administration departments, together with the relevant departments for telecommunications, public security, market regulation and others, shall carry out security assessments and supervision and inspection of algorithm recommendation services in accordance with law, and shall promptly put forward rectification opinions on the problems found and set a deadline for rectification.\nAlgorithm recommendation service providers shall retain network logs in accordance with law, cooperate with the cyberspace administration departments and the relevant departments for telecommunications, public security, market regulation and others in carrying out security assessments and supervision and inspection, and provide the necessary technical, data and other support and assistance."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The relevant institutions and personnel participating in the security assessment and supervision and inspection of algorithm recommendation services shall keep confidential in accordance with law the personal privacy, personal information and trade secrets that they learn of in the performance of their duties, and shall not divulge them or unlawfully provide them to others."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Any organisation or individual that finds any act in violation of these Provisions may complain of or report it to the cyberspace administration departments and the relevant departments. The department receiving the complaint or report shall promptly handle it in accordance with law.\nChapter V Legal Liability"
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter V"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where an algorithm recommendation service provider violates Article 7, Article 8, Article 9, paragraph 1, Article 10, Article 14, Article 16, Article 17, Article 22, Article 24 or Article 26 of these Provisions, and laws or administrative regulations so provide, those provisions shall be applied; where laws or administrative regulations do not so provide, the cyberspace administration departments and the relevant departments for telecommunications, public security, market regulation and others shall, according to their duties, issue a warning or circulate a notice of criticism and order correction within a time limit; where correction is refused or the circumstances are serious, they shall order the suspension of information updates and concurrently impose a fine of not less than 10,000 yuan and not more than 100,000 yuan. Where a violation of public security administration is constituted, a penalty for the administration of public security shall be imposed in accordance with law; where a crime is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter V"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Where an algorithm recommendation service provider violates Article 6, Article 9, paragraph 2, Article 11, Article 13, Article 15, Article 18, Article 19, Article 20, Article 21, Article 27 or Article 28, paragraph 2 of these Provisions, the cyberspace administration departments and the relevant departments for telecommunications, public security, market regulation and others shall, according to their duties, deal with the matter in accordance with the provisions of the relevant laws, administrative regulations and departmental rules."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter V"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Where an algorithm recommendation service provider having public opinion attributes or social mobilisation capacity obtains filing by improper means such as concealing the relevant circumstances or providing false materials, the national cyberspace administration department and the cyberspace administration departments of provinces, autonomous regions and municipalities directly under the Central Government shall revoke the filing and issue a warning or circulate a notice of criticism; where the circumstances are serious, they shall order the suspension of information updates and concurrently impose a fine of not less than 10,000 yuan and not more than 100,000 yuan.\nWhere an algorithm recommendation service provider having public opinion attributes or social mobilisation capacity terminates its services without completing the formalities for cancellation of filing as required by Article 24, paragraph 3 of these Provisions, or where serious unlawful circumstances lead to an administrative penalty such as an order to close the website, revocation of the licence for the relevant business or revocation of the business licence, the national cyberspace administration department and the cyberspace administration departments of provinces, autonomous regions and municipalities directly under the Central Government shall cancel the filing.\nChapter VI Supplementary Provisions"
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter VI"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "These Provisions shall be interpreted by the Cyberspace Administration of China, together with the Ministry of Industry and Information Technology, the Ministry of Public Security and the State Administration for Market Regulation."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter VI"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "These Provisions shall come into force on 1 March 2022."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter VI"
+        }
+      }
+    ]
+  };
+
+  TR["CN-PIA-020"] = {
+    "lawId": "CN-PIA-020",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-27",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 24 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "In order to promote the sound development of generative artificial intelligence and the regulated application thereof, safeguard national security and the public interest, and protect the lawful rights and interests of citizens, legal persons and other organisations, these Measures are formulated in accordance with laws and administrative regulations such as the Cybersecurity Law of the People's Republic of China, the Data Security Law of the People's Republic of China, the Personal Information Protection Law of the People's Republic of China and the Science and Technology Progress Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "These Measures apply to the provision, by means of generative artificial intelligence technology, to the public within the territory of the People's Republic of China of services generating content such as text, images, audio and video (hereinafter referred to as generative artificial intelligence services).\nWhere the State has other provisions on the use of generative artificial intelligence services for activities such as news publication, film and television production and literary and artistic creation, those provisions shall prevail.\nWhere industry organisations, enterprises, educational and scientific research institutions, public cultural institutions and relevant professional institutions research and develop or apply generative artificial intelligence technology but do not provide generative artificial intelligence services to the public within the territory, the provisions of these Measures do not apply."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The State persists in the principle of laying equal emphasis on development and security and combining the promotion of innovation with governance in accordance with law, adopts effective measures to encourage the innovative development of generative artificial intelligence, and applies inclusive and prudent as well as classified and graded supervision to generative artificial intelligence services."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The provision and use of generative artificial intelligence services shall comply with laws and administrative regulations, respect social morality and ethics, and observe the following provisions:\n(1) adhering to the core socialist values, and not generating content prohibited by laws or administrative regulations, such as content inciting subversion of State power or overthrow of the socialist system, endangering national security and interests or damaging the national image, inciting secession of the country or undermining national unity and social stability, advocating terrorism or extremism, advocating ethnic hatred or ethnic discrimination, violence, obscenity and pornography, and false and harmful information;\n(2) adopting effective measures in the course of algorithm design, selection of training data, model generation and optimisation, and the provision of services to prevent discrimination on grounds such as ethnicity, belief, country, region, gender, age, occupation and health;\n(3) respecting intellectual property rights and commercial ethics, preserving trade secrets, and not exploiting advantages in algorithms, data and platforms to engage in monopolistic or unfair competition practices;\n(4) respecting the lawful rights and interests of others, not endangering the physical and mental health of others, and not infringing upon the rights to portrait, reputation and honour, the right to privacy or rights and interests in personal information of others;\n(5) adopting effective measures in light of the characteristics of the type of service to enhance the transparency of generative artificial intelligence services and improve the accuracy and reliability of the generated content.\nChapter II Technological Development and Governance"
+        },
+        "noLabel": {
+          "en": "Article 4."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Innovative applications of generative artificial intelligence technology in all industries and fields are encouraged, so as to generate positive, healthy, uplifting and good-quality content, explore and optimise application scenarios, and build an application ecosystem.\nIndustry organisations, enterprises, educational and scientific research institutions, public cultural institutions and relevant professional institutions are supported in cooperating in the technological innovation of generative artificial intelligence, the building of data resources, transformation and application, and risk prevention."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Independent innovation in the basic technologies of generative artificial intelligence, such as algorithms, frameworks, chips and supporting software platforms, is encouraged, and international exchanges and cooperation are carried out on the basis of equality and mutual benefit, with participation in the formulation of international rules relating to generative artificial intelligence.\nThe construction of generative artificial intelligence infrastructure and of public platforms for training data resources shall be advanced. The collaborative sharing of computing power resources shall be promoted and the efficiency of their use enhanced. The classified, graded and orderly opening of public data shall be promoted and high-quality public training data resources expanded. The use of secure and trustworthy chips, software, tools, computing power and data resources is encouraged."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Providers of generative artificial intelligence services (hereinafter referred to as providers) shall carry out training data processing activities such as pre-training and optimisation training in accordance with law and observe the following provisions:\n(1) using data and foundation models from lawful sources;\n(2) where intellectual property rights are involved, not infringing upon the intellectual property rights lawfully enjoyed by others;\n(3) where personal information is involved, obtaining the consent of the individual or satisfying other circumstances provided for by laws or administrative regulations;\n(4) adopting effective measures to improve the quality of training data and enhance the authenticity, accuracy, objectivity and diversity of training data;\n(5) other relevant provisions of laws and administrative regulations such as the Cybersecurity Law of the People's Republic of China, the Data Security Law of the People's Republic of China and the Personal Information Protection Law of the People's Republic of China, and the relevant regulatory requirements of the competent departments."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Where data annotation is carried out in the course of the research and development of generative artificial intelligence technology, the provider shall formulate clear, specific and operable annotation rules that meet the requirements of these Measures, carry out quality assessment of data annotation, verify by sampling the accuracy of the annotated content, conduct necessary training for annotators to enhance their awareness of abiding by the law, and supervise and guide annotators in carrying out annotation work in a standardised manner.\nChapter III Service Specifications"
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter III"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Providers shall bear the responsibility of producers of network information content in accordance with law and perform the obligations of network information security. Where personal information is involved, they shall bear the responsibility of personal information processors in accordance with law and perform the obligations of personal information protection.\nProviders shall conclude service agreements with the users of generative artificial intelligence services who register for their services (hereinafter referred to as users), specifying the rights and obligations of both parties."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter III"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Providers shall specify and make public the intended users, occasions and purposes of their services, guide users in developing a scientific and rational understanding of generative artificial intelligence technology and in using it in accordance with law, and adopt effective measures to prevent minor users from becoming excessively dependent on or addicted to generative artificial intelligence services."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter III"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Providers shall perform the obligation to protect the input information and usage records of users in accordance with law, may not collect unnecessary personal information, may not unlawfully retain input information and usage records capable of identifying users, and may not unlawfully provide the input information and usage records of users to others.\nProviders shall promptly accept and handle requests by individuals to consult, copy, correct, supplement or delete their personal information in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter III"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Providers shall, in accordance with the Provisions on the Administration of Deep Synthesis of Internet Information Services, label the generated content such as images and videos."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter III"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Providers shall, in the course of their services, provide secure, stable and continuous services so as to guarantee normal use by users."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter III"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Where a provider discovers unlawful content, it shall promptly adopt handling measures such as stopping generation, stopping transmission and elimination, carry out rectification by measures such as optimisation training of the model, and report to the relevant competent departments.\nWhere a provider discovers that a user is using the generative artificial intelligence service to engage in unlawful activities, it shall, in accordance with law and the agreement, adopt handling measures such as warning, restricting functions and suspending or terminating the provision of services to that user, retain the relevant records and report to the relevant competent departments."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter III"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Providers shall establish and improve complaint and report mechanisms, set up convenient channels for complaints and reports, publish the handling process and the time limit for feedback, and promptly accept and handle public complaints and reports and give feedback on the results.\nChapter IV Supervision and Inspection and Legal Liability"
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter IV"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The departments for cyberspace administration, development and reform, education, science and technology, industry and information technology, public security, radio and television, and the press and publication shall, in accordance with their respective duties, strengthen the administration of generative artificial intelligence services in accordance with law.\nThe relevant competent departments of the State shall, in view of the characteristics of generative artificial intelligence technology and its service applications in the relevant industries and fields, improve scientific regulatory methods suited to innovation and development and formulate the corresponding rules or guidelines for classified and graded supervision."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter IV"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Where generative artificial intelligence services with the attribute of public opinion or the capacity for social mobilisation are provided, a security assessment shall be carried out in accordance with the relevant provisions of the State, and the formalities for algorithm filing and for the modification or cancellation of filing shall be completed in accordance with the Provisions on the Administration of Algorithm Recommendation of Internet Information Services."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter IV"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where a user discovers that a generative artificial intelligence service does not comply with laws, administrative regulations or the provisions of these Measures, the user has the right to complain of or report the matter to the relevant competent departments."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter IV"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Where the relevant competent departments carry out supervision and inspection of generative artificial intelligence services in accordance with their duties, providers shall cooperate in accordance with law, explain as required the sources, scale and types of training data, the annotation rules and the mechanism of the algorithm, and provide the necessary technical and data support and assistance.\nThe institutions and personnel participating in the security assessment and supervision and inspection of generative artificial intelligence services shall keep confidential in accordance with law the State secrets, trade secrets, personal privacy and personal information that come to their knowledge in the performance of their duties, and may not leak them or unlawfully provide them to others."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter IV"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where generative artificial intelligence services provided to the territory from outside the territory of the People's Republic of China do not comply with laws, administrative regulations or the provisions of these Measures, the national cyberspace administration shall notify the relevant institutions to adopt technical measures and other necessary measures to handle the matter."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter IV"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where a provider violates the provisions of these Measures, the relevant competent departments shall impose a penalty in accordance with the provisions of laws and administrative regulations such as the Cybersecurity Law of the People's Republic of China, the Data Security Law of the People's Republic of China, the Personal Information Protection Law of the People's Republic of China and the Science and Technology Progress Law of the People's Republic of China; where no provision is made by laws or administrative regulations, the relevant competent departments shall, in accordance with their duties, give a warning or circulate a notice of criticism and order rectification within a prescribed period; where rectification is refused or the circumstances are serious, they shall order the suspension of the provision of the relevant services.\nWhere an act in violation of the administration of public security is constituted, a penalty for the administration of public security shall be given in accordance with law; where a crime is constituted, criminal liability shall be pursued in accordance with law.\nChapter V Supplementary Provisions"
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter V"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "For the purposes of these Measures, the following terms have the meanings given below:\n(1) Generative artificial intelligence technology means models and related technologies with the capacity to generate content such as text, images, audio and video.\n(2) A provider of generative artificial intelligence services means an organisation or individual that uses generative artificial intelligence technology to provide generative artificial intelligence services (including the provision of generative artificial intelligence services by means such as providing programmable interfaces).\n(3) A user of generative artificial intelligence services means an organisation or individual that uses generative artificial intelligence services to generate content."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter V"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where laws or administrative regulations provide that the provision of generative artificial intelligence services shall obtain the relevant administrative licence, the provider shall obtain the licence in accordance with law.\nForeign investment in generative artificial intelligence services shall comply with the provisions of the laws and administrative regulations on foreign investment."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter V"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "These Measures shall come into force on 15 August 2023."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter V"
+        }
+      }
+    ]
+  };
+
+  TR["CN-PIPL-2021"] = {
     "lawId": "CN-PIPL-2021",
     "sourceLang": "zh",
     "targetLang": "en",
@@ -33455,7 +40211,7 @@
     ]
   };
 
-  TR['CN-PIPL-SCC-2023'] = {
+  TR["CN-PIPL-SCC-2023"] = {
     "lawId": "CN-PIPL-SCC-2023",
     "sourceLang": "zh",
     "targetLang": "en",
@@ -33587,7 +40343,7 @@
     ]
   };
 
-  TR['CN-SOCIAL-INSURANCE-2018'] = {
+  TR["CN-SOCIAL-INSURANCE-2018"] = {
     "lawId": "CN-SOCIAL-INSURANCE-2018",
     "sourceLang": "zh",
     "targetLang": "en",
@@ -34778,7 +41534,7 @@
     ]
   };
 
-  TR['CN-TRADEMARK-2019'] = {
+  TR["CN-TRADEMARK-2019"] = {
     "lawId": "CN-TRADEMARK-2019",
     "sourceLang": "zh",
     "targetLang": "en",
@@ -35669,7 +42425,7 @@
     ]
   };
 
-  TR['CN-TRADEMARK-2026'] = {
+  TR["CN-TRADEMARK-2026"] = {
     "lawId": "CN-TRADEMARK-2026",
     "sourceLang": "zh",
     "targetLang": "en",

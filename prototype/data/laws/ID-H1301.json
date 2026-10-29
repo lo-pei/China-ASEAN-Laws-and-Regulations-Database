@@ -1,0 +1,284 @@
+{
+ "id": "ID-H1301",
+ "title": {
+  "zh": "地方借款法",
+  "en": "regional loan Law",
+  "id": "pinjaman daerah",
+  "orig": "PINJAMAN DAERAH",
+  "vi": "Luật khoản vay địa phương",
+  "th": "พระราชบัญญัติ เงินกู้ท้องถิ่น",
+  "ms": "Akta pinjaman daerah"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02a",
+ "language": "id",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "2000",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU107-2000",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 17,
+ "chars": 22521,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PP%20NO%20107%20TH%202000.pdf&fl=P04347"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\01_宪法与基础法\\印尼_文本_2000_PINJAMAN DAERAH.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 17 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H1301-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\nDalam Peraturan Pemerintah ini yang dimaksud dengan:\n1. Pemerintah Pusat adalah perangkat Negara Kesatuan Republik Indonesia yang terdiri dari\nPresiden beserta para Menteri.\n2. Daerah Otonom, selanjutnya disebut Daerah, adalah kesatuan masyarakat hukum yan g\nmempunyai batas daerah tertentu berwenang mengatur dan mengurus kepentingan masyarakat\nsetempat menurut prakarsa sendiri berdasarkan aspirasi masyarakat dalam ikatan Negara\nKesatuan Republik Indonesia.\n3. Kepala …\nPRESIDEN\nREPUBLIK INDONESIA\n3. Kepala Daerah adalah Gubernur bagi D aerah Propinsi atau Bupati bagi Daerah Kabupaten atau\nWalikota bagi Daerah Kota.\n4. Dewan Perwakilan Rakyat Daerah, selanjutnya disingkat DPRD, adalah Badan Legislatif Daerah.\n5. Anggaran Pendapatan dan Belanja Daerah, selanjutnya disingkat APBD, adalah su atu rencana\nkeuangan tahunan Daerah yang ditetapkan berdasarkan Peraturan Daerah tentang Anggaran\nPendapatan dan Belanja Daerah.\n6. Pinjaman Daerah adalah semua transaksi yang mengakibatkan Daerah menerima dari pihak lain\nsejumlah uang atau manfaat bernila i uang sehingga Daerah tersebut dibebani kewajiban untuk\nmembayar kembali, tidak termasuk kredit jangka pendek yang lazim terjadi dalam perdagangan.\n7. Pinjaman Jangka Panjang adalah Pinjaman Daerah dengan jangka waktu lebih dari satu tahun\ndengan persyaratan bahwa pembayaran kembali pinjaman berupa pokok pinjaman, bunga, dan\nbiaya lain sebagian atau seluruhnya harus dilunasi pada tahun -tahun anggaran berikutnya.\n8. Pinjaman Jangka Pendek ad alah Pinjaman Daerah dengan jangka waktu kurang atau sama\ndengan satu tahun dengan persyaratan bahwa pembayaran kembali pinjaman berupa pokok\npinjaman, bunga, dan biaya lain seluruhnya harus dilunasi dalam tahun anggaran yang\nbersangkutan.\nBAB II\nSUMBER DAN JENIS PINJAMAN DAERAH"
+   }
+  },
+  {
+   "id": "ID-H1301-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\n(1) Pinjaman Daerah dapat bersumber dari:\na. Dalam negeri;\nb. Luar negeri.\n(2) Pinjaman Daerah dari dalam negeri sebagaimana dimaksud dalam ayat (1) huruf a bersumber dari:\na. Pemerintah Pusat;\nb. Lembaga Keuangan Bank;\nc. Lembaga Keuangan Bukan Bank;\nd. Masyarakat;\ne. Sumber Lainnya.\n(3) Pinjaman Daerah dari luar negeri sebagaimana dimaksud dalam ayat (1) huruf b dapat berupa\npinjaman bilateral atau pinjaman multilateral.\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H1301-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3 …"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 3\nPinjaman Daerah terdiri dari 2 (dua) jenis:\na. Pinjaman Jangka Panjang;\nb. Pinjaman Jangka Pendek.\nBAB III\nPENGGUNAAN PINJAMAN DAERAH"
+   }
+  },
+  {
+   "id": "ID-H1301-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\n(1) Pinjaman Jangka Panjang hanya dapat digunakan untuk membiayai pembangunan prasarana\nyang merupakan aset Dae rah dan dapat menghasilkan penerimaan untuk pembayaran kembali\npinjaman, serta memberikan manfaat bagi pelayanan masyarakat.\n(2) Pinjaman Jangka Panjang tidak dapat digunakan untuk membiayai belanja administrasi umum\nserta belanja operasional dan pemeliharaan."
+   }
+  },
+  {
+   "id": "ID-H1301-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\nDaerah dapat melakukan Pinjaman Jangka Pendek guna pengaturan arus kas dalam rangka pengelolaan\nKas Daerah.\nBAB IV\nPERSYARATAN PINJAMAN DAERAH\nBagian Pertama\nBatas Maksimum Jumlah Pinjaman Daerah"
+   }
+  },
+  {
+   "id": "ID-H1301-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\nPinjaman Jangka Panjang sebagaimana dimaksud dalam Pasal 3 huruf a yang dilakukan oleh Daerah\nwajib memenuhi 2 (dua) ketentuan sebagai berikut:\na. Jumlah kumulatif pokok Pinjaman Daerah yang wajib dibayar tidak melebihi 75% (tujuh puluh lima\npersen) dari jumlah Penerimaan Umum APBD tahun sebelumnya; dan\nPRESIDEN\nREPUBLIK INDONESIA\nb. Berdasarkan proyeksi penerimaan dan pengeluaran Daerah tahunan selama jangka waktu\npinjaman, Debt Service Coverage Ratio (DSCR) paling sedikit 2,5 (dua setengah)."
+   }
+  },
+  {
+   "id": "ID-H1301-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7 …"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 7\n(1) Jumlah maksimum Pinjaman Jangka Pendek adalah 1/6 (satu per enam) dari jumlah belanja APBD\ntahun anggaran yang berjalan.\n(2) Pinjaman Jangka Pendek dilakukan dengan mempertimbangkan kecukupan penerimaan Daerah\nuntuk membayar kembali pinjaman tersebut pada waktunya.\n(3) Pelunasan Pinjaman Jangka Pendek wajib diselesaikan dalam tahun anggaran yang berjalan."
+   }
+  },
+  {
+   "id": "ID-H1301-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n(1) Batas maksimum kumulatif jumlah pinjaman semua Daerah disesuaikan dengan kebijaksanaan\nperekonomian nasional.\n(2) Berdasarkan pertimbangan kepentingan nasiona l, Menteri Keuangan dapat menetapkan\npengendalian lebih lanjut atas Pinjaman Daerah.\nBagian Kedua\nBatas Maksimum Jangka Waktu Pinjaman Daerah"
+   }
+  },
+  {
+   "id": "ID-H1301-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n(1) Batas maksimum jangka waktu Pinjaman Jangka Panjang disesuai -kan dengan umur ekonomis\naset yang dibiayai dari pinjaman tersebut.\n(2) Batas maksimum Masa Tenggang disesuaikan dengan masa konstruksi proyek.\n(3) Jangka waktu Pinjaman Jangka Panjang adalah termasuk Masa Tenggang.\n(4) Dalam hal Daerah melakukan Pinjaman Jangka Panjang yang bersumber dari dalam negeri, maka\njangka waktu pinjaman dan Masa Tenggang ditetapkan Daerah dengan persetujuan DPRD.\n(5) Dalam hal Daerah melakukan Pinjaman Jangka Panjang yang bersumber dari luar negeri, maka\njangka waktu pinjaman dan Masa Tenggang disesuaikan dengan persyaratan pinjaman luar negeri\nyang bersangkutan.\nBagian Ketiga\nLarangan Penjaminan\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H1301-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\n(1) Daerah dilarang melakukan perjanjian yang bersifat penjaminan terhadap pinjaman pihak lain yang\nmengakibatkan beban atas keuangan Daerah.\n(2) Barang milik …\n(2) Barang milik Daerah yang digunakan untuk melayani kepentingan umum tidak dapat dijadikan\njaminan dalam memperoleh Pinjaman Daerah.\n(3) Pelanggaran terhadap ketentuan sebagaimana dimaksud pada ayat (1) dan ayat (2), di kenakan\nsanksi sesuai ketentuan peraturan perundang-undangan yang berlaku.\nBAB V\nPROSEDUR PINJAMAN DAERAH"
+   }
+  },
+  {
+   "id": "ID-H1301-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\n(1) Setiap Pinjaman Daerah dilakukan dengan persetujuan DPRD.\n(2) Berdasarkan persetujuan DPRD sebagaimana dimaksud dalam ayat (1), Daerah mengajukan\npinjaman kepada calon pemberi pinjaman.\n(3) Setiap Pinjaman Daerah dituangkan dalam surat perjanjian pinjaman antara Daerah dengan\npemberi pinjaman.\n(4) Perjanjian pinjaman sebagaimana dimaksud dalam ayat (3) ditandatangani atas nama Daerah oleh\nKepala Daerah dan pemberi pinjaman.\n(5) Agar setiap orang dapat mengetahuinya, setiap perjanjian pinjaman yang dilakukan oleh Daerah\ndiumumkan dalam Lembaran Daerah."
+   }
+  },
+  {
+   "id": "ID-H1301-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n(1) Untuk memperoleh pinjaman yang bersumber dari Pemerintah Pusat, Daerah mengajukan usulan\nkepada Menteri Keuangan disertai surat persetujuan DPRD, studi kelayakan dan\ndokumen-dokumen lain yang diperlukan untuk dilakukan evaluasi.\n(2) Perjanjian pinjaman yang bersumber dari Pemerintah Pusat ditandatangani oleh Menteri Keuangan\ndan Kepala Daerah."
+   }
+  },
+  {
+   "id": "ID-H1301-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\n(1) Pinjaman Daerah yang bersumber dari luar negeri dilakukan melalui Pemerintah Pusat.\n(2) Untuk memperoleh Pinjaman Daerah yang bersumber dari luar negeri sebagaimana dimaksud\nPRESIDEN\nREPUBLIK INDONESIA\ndalam ayat (1), Daerah mengajukan usulan pinjaman kepada Pemerintah Pusat disertai surat\npersetujuan DPRD, studi kelayakan, dan dokumen-dokumen lain yang diperlukan.\n(3) Terhadap …\n(3) Terhadap usulan Pinjaman Daerah yang bersumber dari luar negeri sebagaimana dimaksud dalam\nayat (2), Pemerintah Pusat melakukan evaluasi dari berbagai aspek untuk dapat tidaknya\nmenyetujui usulan tersebut.\n(4) Apabila Pemerintah Pusat telah memberikan pers etujuan sebagaimana dimaksud dalam ayat (3),\nPemerintah Daerah mengadakan perundingan dengan calon pemberi pinjaman yang hasilnya\ndilaporkan untuk mendapatkan persetujuan Pemerintah Pusat.\n(5) Daerah dapat melakukan Pinjaman Daerah yang bersumber dari luar negeri, setelah terlebih\ndahulu mendapat persetujuan dari Pemerintah Pusat.\n(6) Perjanjian Pinjaman Daerah yang bersumber dari luar negeri ditandatangani oleh Kepala Daerah\ndengan pemberi pinjaman luar negeri.\nBAB VI\nPEMBAYARAN KEMBALI PINJAMAN DAERAH"
+   }
+  },
+  {
+   "id": "ID-H1301-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\n(1) Semua pembayaran yang menjadi kewajiban Daerah yang jatuh tempo atas Pinjaman Daerah\nmerupakan prioritas dan dianggarkan dalam pengeluaran APBD.\n(2) Pembayaran kembali Pinjaman Daerah yang bersumber dari luar negeri oleh Daerah, dilakukan\ndalam mata uang sesuai yang ditetapkan dalam perjanjian pinjaman luar negeri.\n(3) Dalam hal Daerah tidak memenuhi kewajiban pembayaran atas Pinjaman Daerah dari Pemerintah\nPusat, maka Pemerintah Pusat memperhitungkan kewajiban tersebut dengan Dana Alokasi Umum\nkepada Daerah.\n(4) Dalam hal Daerah tidak memenuhi kewajiban pembayaran atas Pinjaman Daerah yang bersumber\ndari luar negeri, maka kewajiban tersebut diselesaikan sesuai perjanjian pinjaman.\nBAB VII\nPEMBUKUAN DAN PELAPORAN"
+   }
+  },
+  {
+   "id": "ID-H1301-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\nPRESIDEN\nREPUBLIK INDONESIA\n(1) Semua penerimaan dan kewajiban dalam rangka Pinjaman Daerah dicantumkan dalam APBD dan\ndibukukan sesuai dengan standar akuntansi keuangan Pemerintah Daerah.\n(2) Keterangan tentang semua Pinjaman Jangka Panjang dituangkan dalam lampiran dari dokumen\nAPBD.\n(3) Kepala Daerah …\n(3) Kepala Daerah melaporkan kepada DPRD secara berkala dengan tembusan kepada Menteri\nKeuangan tentang perkembangan jumlah kewajiban Pinjaman Daerah dan tentang pelaksanaan\ndalam rangka memenuhi kewajiban pinjaman yang telah jatuh tem po.\nBAB VIII\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H1301-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\n(1) Perjanjian Pinjaman Daerah yang telah dilakukan sebelum berlakunya Peraturan Pemerintah ini,\ndapat tetap tunduk pada ketentuan peraturan perundang -undangan yang lama sampai berakhirnya\npelunasan pembayaran pinjaman.\n(2) Perjanjian Pinjaman Daerah yang telah dilakukan sebelum berlakunya Peraturan Pemerintah ini,\natas kesepakatan bersama antara pemberi pinjaman dan penerima pinjaman dapat dilakukan\npengaturan kembali berdasarkan Peraturan Pemerintah ini.\nBAB IX\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H1301-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\nPeraturan Pemerintah ini mulai berlaku pada tanggal 1 Januari 2001.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan\npenempatannya dalam Lembaran Negara Republik Indonesia.\nDitetapkan di Jakarta\npada tanggal 10 Nopember 2000\nPRESIDEN REPUBLIK INDONESIA,\nttd.\nABDURRAHMAN WAHID\nPRESIDEN\nREPUBLIK INDONESIA\nDiundangkan di Jakarta\npada tanggal 10 Nopember 2000\nSEKRETARIS NEGARA REPUBLIK INDONESIA,\nttd.\nDJOHAN EFFENDI\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2000 NOMOR 204\nPRESIDEN\nREPUBLIK INDONESIA\nPENJELASAN\nATAS\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nNOMOR 107 TAHUN 2000\nTENTANG\nPINJAMAN DAERAH\nUMUM\nUndang-Undang Nomor 25 Tahun 1999 tentang Perimbangan Keuangan antara Pemerintah Pusat dan\nDaerah menetapkan bahwa Pinjaman Daerah adalah sebagai salah satu sumber penerimaan Daerah\ndalam rangka pelaksanaan Desentralisasi, yang dicat at dan dikelola dalam Anggaran Pendapatan dan\nBelanja Daerah.\nDana pinjaman merupakan pelengkap dari sumber -sumber penerimaan Daerah yang ada dan ditujukan\nuntuk membiayai pengadaan prasarana Daerah atau harta tetap lain yang berkaitan dengan kegiatan yang\nbersifat meningkatkan penerimaan yang dapat digunakan untuk mengembalikan pinjaman, serta\nmemberikan manfaat bagi pelayanan masyarakat. Selain itu, Daerah dimungkinkan pula melakukan\npinjaman dengan tujuan lain, seperti mengatasi masalah jangka pendek yan g berkaitan dengan arus kas\nDaerah.\nPinjaman Daerah perlu disesuaikan dengan kemampuan Daerah, karena dapat menimbulkan beban\nAnggaran Pendapatan dan Belanja Daerah tahun -tahun berikutnya yang cukup berat sehingga perlu\ndidukung dengan keterampilan perangkat Daerah dalam mengelola Pinjaman Daerah.\nUntuk meningkatkan kemampuan objektif dan disiplin Pemerintah Daerah dalam melaksanakan\npengembalian pinjaman, maka diperlukan kecermatan dan kehati -hatian dalam pengelolaan Pinjaman\nDaerah. Peraturan Pemerintah ini bertujuan untuk mengatur lebih lanjut hal-hal yang menyangkut Pinjaman\nDaerah, dengan mengantisipasi kebutuhan masa depan serta dengan mempertimbangkan perlunya\nmempertahankan kondisi kesehatan dan kesinambungan perekonomian nasional.\nPASAL DEMI PASAL\nPasal 1\nCukup jelas\nPasal 2\nAyat (1)\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (2) …\nAyat (2)\nHuruf a\nKetentuan-ketentuan mengenai pinjaman yang bersumber dari Pemerintah Pusat\nseperti jenis, jangka waktu pinjaman, masa teng gang, tingkat bunga, cara penghitungan dan cara\npembayaran bunga, pengadministrasian dan penyaluran dana pinjaman, ditetapkan oleh Menteri\nKeuangan.\nHuruf b\nPelaksanaan Pinjaman Daerah yang bersumber dari Lembaga Keuangan Bank\nmengikuti ketentuan peraturan perundang-undangan yang berlaku.\nHuruf c\nPelaksanaan Pinjaman Daerah yang bersumber dari Lembaga Keuangan Bukan\nBank mengikuti ketentuan peraturan perundang-undangan yang berlaku.\nHuruf d\nPinjaman Daerah yang bersumber dari masyarakat an tara lain melalui penerbitan\nObligasi Daerah.\nPelaksanaan penerbitan dan pembayaran kembali Obligasi Daerah mengikuti\nketentuan peraturan perundang-undangan yang berlaku.\nHuruf e\nYang dimaksud \"Sumber Lainnya\" adalah Pinjaman Daerah selain sumber\ntersebut di atas, misalnya Pinjaman Daerah dari Pemerintah Daerah lain.\nAyat (3)\nCukup jelas\nPasal 3\nCukup jelas\nPasal 4 …\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 4\nAyat (1)\nYang dimaksud dengan \"menghasilkan penerimaa n\" adalah hasil penerimaan yang\nberkaitan dengan pembangunan prasarana yang dibiayai dari pinjaman jangka panjang tersebut,\nbaik yang langsung dan atau yang tidak langsung.\nAyat (2)\nCukup jelas\nPasal 5\nPinjaman Jangka Pendek dapat digunakan untuk:\na. membantu kelancaran arus kas untuk keperluan jangka pendek;\nb. dana talangan tahap awal suatu investasi yang akan dibiayai dengan Pinjaman Jangka\nPanjang, setelah ada kepastian tentang tersedianya Pinjaman Jangka Panjang yang\nbersangkutan.\nPasal 6\nKetentuan ini bertujuan memberikan pedoman kepada Daerah agar dalam menentukan jumlah\nPinjaman Jangka Panjang perlu memperhatikan kemampuan Daerah untuk memenuhi semua\nkewajiban Daerah atas Pinjaman Daerah.\nHuruf a\nKetentuan ini merupakan batas paling tinggi jumlah Pinjaman Daerah yang dianggap layak\nmenjadi beban APBD.\nYang dimaksud dengan \"jumlah kumulatif pokok Pinjaman Daerah yang wajib dibayar\"\nadalah jumlah pokok pinjaman lama yang belum dibayar (termasuk akumulasi bunga yang sudah\ndikapitalisasi), ditambah dengan jumlah pokok pinjaman yang akan diterima dalam tahun tersebut.\nYang dimaksud dengan \"Penerimaan Umum APBD\" adalah seluruh penerimaan APBD\ntidak termasuk Dana Alokasi Khusus, Dana Darurat, dana pinjaman lama, dan penerimaan lain\nyang penggunaannya dibatasi untuk membiayai pengeluaran tertentu, atau:\nPU = PD - (DAK + DD + DP + PL)\nPU = Penerimaan Umum APBD;\nPD = Jumlah Penerimaan Daerah;\nDAK= Dana Alokasi Khusus;\nDD = Dana Darurat;\nDP = Dana Pinjaman;\nPRESIDEN\nREPUBLIK INDONESIA\nPL = Penerimaan lain y ang penggunaannya dibatasi untuk membiayai pengeluaran\ntertentu;\nHuruf b …\nHuruf b\nDebt Service Coverage Ratio (DSCR) adalah perbandingan antara penjumlahan\nPendapatan Asli Daerah, Bagian Daerah dari Pajak Bumi dan Bangunan, Bea Perolehan Hak atas\nTanah dan Bangunan, penerimaan sumber daya alam, dan bagian Daerah lainnya seperti Pajak\nPenghasilan perseorangan, serta Dana Alokasi Umum, setelah dikurangi Belanja Wajib, dengan\npenjumlahan angsuran pokok, bunga, dan biaya pinjaman lainnya yang jatuh tempo.\nDebt Service Coverage Ratio (DSCR) dapat ditulis dengan rumus sebagai berikut :\nDSCR = (PAD + BD + DAU) _ BW _ 2,5\n_______________________ -\nP + B + BL\nDSCR = Debt Service Coverage Ratio;\nPAD = Pendapatan Asli Daerah;\nBD = Bagian Daerah d ari Pajak Bumi dan Bangunan, Bea Perolehan Hak atas Tanah\ndan Bangunan, dan penerimaan sumber daya alam, serta bagian Daerah lainnya seperti dari Pajak\nPenghasilan perseorangan;\nDAU = Dana Alokasi Umum;\nBW = Belanja Wajib, yaitu belanja yang harus dipenuhi/tidak bisa dihindarkan dalam\ntahun anggaran yang bersangkutan oleh Pemerintah Daerah seperti belanja pegawai;\nP = angsuran pokok pinjaman yang jatuh tempo pada tahun anggaran yang\nbersangkutan;\nB = bunga pinjaman yang jatuh tempo pada tahun anggaran yang bersangkutan;\nBL = biaya lainnya (biaya komitmen, biaya bank, dan lain-lain) yang jatuh tempo.\nUntuk dapat memperoleh Pinjaman Jangka Panjang, kedua persyaratan\nsebagaimana dimaksud dalam huruf a dan huruf b harus dipenuhi oleh Daerah.\nPasal 7\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (3) …\nAyat (3)\nYang dimaksud dengan \"tahun anggaran yang berjalan\" adalah tahun anggaran saat\nDaerah melakukan Pinjaman Jangka Pendek.\nKetentuan aya t ini juga mengandung arti bahwa Pinjaman Jangka Pendek tidak\ndiperkenankan dilakukan untuk membiayai defisit kas pada akhir tahun anggaran.\nPasal 8\nAyat (1)\nKetentuan ini dimaksudkan untuk menjaga agar kumulatif jumlah pinjaman semua Daerah\ntidak melampaui batas -batas yang dianggap masih aman bagi perekonomian nasional.\nBatas-batas tersebut ditetapkan oleh Menteri Keuangan.\nAyat (2)\nPertimbangan kepentingan nasional antara lain bila terjadi keadaan moneter nasional yang\nmenunjukkan perlunya melakukan pengendalian yang lebih ketat atas jumlah Pinjaman Daerah.\nPasal 9\nAyat (1)\nBatas jangka waktu pinjaman disesuaikan dengan umur ekonomis aset yang\nbersangkutan, dengan jangka waktu paling lama 30 (tiga puluh) tahun.\nAyat (2)\nMasa Tenggang adalah suatu masa pada awal jangka waktu pinjaman, yang dapat\nditetapkan dalam perjanjian pinjaman sehingga dalam masa tersebut peminjam tidak membayar\nangsuran pengemb alian pokok pinjaman. Penentuan Masa Tenggang hanya ditetapkan jika\nbenar-benar diperlukan dan masa tersebut tidak melebihi masa pengadaan harta atau masa\nkonstruksi proyek yang bersangkutan, paling lama 5 (lima) tahun.\nHal ini dimaksudkan antara lain un tuk menghindarkan beban biaya pinjaman yang lebih\nbesar.\nAyat (3)\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (4)\nCukup jelas\nAyat (5) …\nAyat (5)\nCukup jelas\nPasal 10\nAyat (1)\nYang dimaksud dengan \"penjaminan terhadap pinjaman pihak lain\" adalah penjaminan\nDaerah terhadap antara lain pinjaman Badan Usaha Milik Daerah dan atau pinjaman pihak swasta\ndalam rangka pelaksanaan proyek Daerah.\nAyat (2)\nBarang milik Daerah yang digunakan untuk melayani kepentingan umum antara lain rumah\nsakit, sekolah dan pasar.\nAyat (3)\nCukup jelas\nPasal 11\nAyat (1)\nPinjaman Jangka Pendek untuk membantu kelancaran arus kas dikecualikan dari\nketentuan ayat ini.\nPersetujuan DPRD terhadap usulan Pemerintah Daerah untuk mendapatkan pinjaman\ndilakukan secara seksama dengan mempertimbangkan, antara lain kemampuan Daerah untuk\nmembayar, batas maksimum pinjaman, penggunaan dana pinjaman, angsuran pokok pinjaman,\njangka waktu pinjaman, Masa Tenggang pengembalian pokok pinjaman, dan tingkat bunga.\nAyat (2)\nDalam hal pinjaman bersumber dari luar negeri, yang dimaksud dengan \"pemberi\npinjaman\" adalah yang ditetapkan sesuai dengan ketentuan peraturan perundang -undangan yang\nberlaku.\nAyat (3)\nPRESIDEN\nREPUBLIK INDONESIA\nCukup jelas\nAyat (4)\nCukup jelas\nAyat (5) …\nAyat (5)\nKetentuan ini dimaksudkan agar terdapat keterbukaan dan pertanggungjawaban yang\njelas kepada masyarakat tentang kewajiban pinjaman tersebut.\nPasal 12\nAyat (1)\nYang dimaksud dengan \"dokumen -dokumen lain\" adalah dokumen -dokumen yang antara\nlain mencantumkan perhitungan tentang kemampuan Daerah dalam memenuhi kewajiban\npembayaran kembali pinjaman.\nAyat (2)\nCukup jelas\nPasal 13\nAyat (1)\nYang dimaksud dengan \"dilakukan melalui Pemerintah Pusat\" adalah Menteri Keuangan\nmemberikan persetujuan atas sumber, penggunaan, jumlah dana, dan persyaratan tiap -tiap\nPinjaman Daerah yang bersumber dari luar negeri yang bersangkutan serta mengatur tentang tata\ncara penyediaan, penyaluran, dan pengembalian dana pinjaman tersebut.\nAyat (2)\nYang dimaksud dengan \"dokumen -dokumen lain\" adalah dokumen -dokumen yang antara\nlain mencantumkan perhitungan tentang kemampuan daerah dalam memenuhi kewajiban\npembayaran kembali pinjaman.\nAyat (3)\nPemerintah Pusat dalam hal ini Menteri Keuangan setelah berkoordinasi dengan Menteri\nDalam Negeri dan Otonomi Daerah dan instansi terkait melakukan evaluasi atas usulan tiap -tiap\npinjaman yang diajukan Daerah. Evaluasi tersebut antara lain me liputi kesesuaian jenis proyek\nyang akan dibiayai dengan penggunaan dana pinjaman, dan kemampuan keuangan Daerah dalam\nPRESIDEN\nREPUBLIK INDONESIA\nmelakukan pinjaman serta kemampuan keuangan Daerah untuk membayar kembali pinjaman\ntersebut.\nSelanjutnya, Menteri Keuangan menyampaikan hasil evaluasi mengenai pengajuan\ntiap-tiap pinjaman luar negeri kepada Daerah yang bersangkutan. Penyampaian hasil evaluasi\ntersebut dapat berisi memberi persetujuan atau tidak memberi persetujuan terhadap usul pinjaman\ntersebut.\nAyat (4) …\nAyat (4)\nCukup jelas\nAyat (5)\nDengan ketentuan ini, maka Daerah tidak dapat melakukan Pinjaman Daerah yang\nbersumber dari luar negeri apabila tidak memperoleh persetujuan terlebih dahulu dari Pemerintah\nPusat.\nAyat (6)\nCukup jelas\nPasal 14\nAyat (1)\nKewajiban atas pinjaman yang jatuh tempo meliputi seluruh angsuran pokok pinjaman\nditambah dengan biaya pinjaman seperti bunga pinjaman, biaya bank, dan biaya komitmen.\nDengan menempatkan kewajiban Daerah atas Pinjaman Daerah sebagai salah satu\nprioritas dan dianggarkan dalam pengeluaran APBD, maka pemenuhan kewajiban tersebut\ndimaksudkan mempunyai kedudukan yang sejajar dengan pengeluaran lain yang harus\ndiprioritaskan Daerah, misalnya pengeluaran yang apabila tidak dilakukan dapat menimbulkan\nkerawanan sosial.\nDengan demikian pemenuhan kewajiban atas Pinjaman Daerah tidak dapat\ndikesampingkan apabila target penerimaan APBD tidak tercapai.\nAyat (2)\nKetentuan lebih lanjut mengenai penyaluran dan pembayaran kembali Pinjaman Daerah\nyang bersumber dari luar negeri ditetapkan oleh Menteri Keuangan sesuai ketentuan peraturan\nperundang-undangan yang berlaku.\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (3)\nYang dimaksud dengan \"tidak memenuhi kewajiban pembayaran atas Pinjaman Daerah\"\nadalah tidak dipenuhinya kewajiban pembayaran angsuran pokok d an biaya pinjaman seperti\nbunga pinjaman, biaya bank, dan biaya komitmen sesuai dengan jadwal waktu dan jumlah yang\ntelah ditetapkan dalam perjanjian pinjaman.\nSesuai …\nSesuai dengan ketentuan dalam ayat (1), semua kewajiban pembayaran kembali\nPinjaman Daerah adalah menjadi tanggung jawab Daerah. Pemerintah Pusat tidak menanggung\npembayaran kembali pinjaman yang menjadi kewajiban dan tanggung jawab Daerah.\nAyat (4)\nCukup jelas\nPasal 15\nAyat (1)\nDalam hal belum ada standar akuntansi keuangan Pemerintah Daerah, maka Pemerintah\nDaerah melakukan pembukuan dalam rangka Pinjaman Daerah sesuai dengan ketentuan\nperaturan perundang-undangan yang berlaku.\nAyat (2)\nLampiran tersebut merupakan bagian dari dokumen APBD sehingga menjadi dokumen\nyang dapat diperoleh masyarakat.\nAyat (3)\nLaporan Kepala Daerah kepada DPRD yang dimaksud dalam ayat ini dilakukan dalam\nrangka laporan pertanggungjawaban keuangan Daerah sesuai de ngan ketentuan peraturan\nperundang-undangan yang berlaku.\nPasal 16\nAyat (1)\nCukup jelas\nAyat (2)\nKesepakatan yang dimaksud pada ayat ini dilakukan atas persetujuan DPRD.\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 17\nCukup jelas\nTAMBAHAN LEMBARAN NEGARA TAHUN 2000 NOMOR 4024"
+   }
+  }
+ ]
+}

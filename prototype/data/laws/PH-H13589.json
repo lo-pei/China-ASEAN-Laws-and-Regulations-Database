@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13589",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Section Sixteen of Act Numbered Eleven Hundred and Twenty, Known as the Friar Lands Act.",
+  "orig": "An Act to Amend Section Sixteen of Act Numbered Eleven Hundred and Twenty, Known as the Friar Lands Act."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1921-02-16",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2945",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 969,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1921/act_2945_1921.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02945_1921_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02945_1921_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13589-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section sixteen of Act Numbered Eleven hundred and twenty is hereby amended to read as\n\"Section 16. In the event of the death of a holder of a certificate the issuance of which is provided for in\nsection twelve hereof, prior to the execution of a deed by the Government to any purchaser, the interest of the\nholder of the certificate shall descend and deed shall issue to the persons who under the laws of the Philippine\nIslands would have taken had the title been perfected before the death of the holder of the certificate, upon\nproof of compliance with all the requirements of the certificate. In case the holder of the certificate shall have\nsold his interest in the land before having complied with all the conditions thereof, the purchaser shall have all\nthe rights of the holder of the certificate upon presenting his assignment to the Chief of the Bureau of Public\nLands for registration.\""
+   }
+  },
+  {
+   "id": "PH-H13589-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, February 16, 1921."
+   }
+  }
+ ]
+}

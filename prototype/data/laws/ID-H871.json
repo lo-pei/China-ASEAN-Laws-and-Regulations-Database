@@ -1,0 +1,470 @@
+{
+ "id": "ID-H871",
+ "title": {
+  "zh": "印度尼西亚共和国国家警察法",
+  "en": "police state Republic of Indonesia Law",
+  "id": "kepolisian negara republik indonesia",
+  "orig": "KEPOLISIAN NEGARA REPUBLIK INDONESIA",
+  "vi": "Luật cảnh sát nhà nước Cộng hòa Indonesia",
+  "th": "พระราชบัญญัติ ตำรวจ รัฐ สาธารณรัฐอินโดนีเซีย",
+  "ms": "Akta kepolisian negara republik indonesia"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02a",
+ "language": "id",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "1997",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU28-1997",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 30,
+ "chars": 43310,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU0281997.pdf&fl=P01014"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\01_宪法与基础法\\印尼_文本_1997_KEPOLISIAN NEGARA REPUBLIK INDONESIA.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 31 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H871-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\nDalam Undang-undang ini yang dimaksud dengan :\n1. Kepolisian adalah segala hal -ihwal yang berkaitan dengan fungsi\ndan lembaga Polisi sesuai dengan peraturan perundang-undangan;\n2. Pejabat Kepolisian Negara Republik Indonesia adalah setiap\nanggota Kepolisian Negara Republik Indonesia yang masih aktif;\n3. Peraturan Kepolisian adalah segala peraturan yang dikeluarkan oleh\nKepolisian Negara R epublik Indonesia yang sifatnya mengikat\nseluruh warga masyarakat dalam rangka memelihara ketertiban dan\nmenjamin keamanan umum sesuai dengan peraturan\nperundang-undangan;\n4. Keamanan…\nPRESIDEN\nREPUBLIK INDONESIA\n4. Keamanan dan ketertiban masyarakat adalah suatu kondisi dinamis\nmasyarakat sebagai salah satu prasyarat terselenggaranya proses\npembangunan nasional dalam rangka tercapainya tujuan nasional\nyang ditandai oleh terjaminnya tertib dan tegaknya hukum serta\nterbinanya ketentraman, yang mengandung kemampuan membina\nserta mengembangkan potensi dan kekuatan masyarakat dalam\nmenangkal, mencegah, dan menanggulangi segala bentuk\npelanggaran hukum dan bentuk -bentuk gangguan lainnya yang\ndapat meresahkan masyarakat;\n5. Kepentingan umum adalah kepentingan bangsa dan negara dan/atau\nkepentingan masyarakat luas demi terpeliharanya keamanan dan\nketertiban masyarakat serta tercapainya tujuan pembangunan\nnasional;\n6. Penyelidik adalah pejabat Kepolisian Negara Republik Indon esia\nyang diberi wewenang oleh Undang -undang untuk melakukan\npenyelidikan;\n7. Penyelidikan adalah serangkaian tindakan penyelidik untuk mencari\ndan menemukan suatu peristiwa yang diduga sebagai tindak pidana\nguna menentukan dapat atau tidaknya dilakukan p enyidikan\nmenurut cara yang diatur dalam undang-undang;\n8. Penyidik adalah pejabat Kepolisian Negara Republik Indonesia\nyang diberi wewenang khusus oleh undang -undang untuk\nmelakukan penyidikan;\n9. Penyidik pegawai negeri sipil yang dapat disingkat PPNS adalah\npejabat pegawai negeri sipil tertentu yang berdasarkan\nundang-undang ditunjuk selaku penyidik dan mempunyai\nwewenang untuk melakukan penyidikan tindak pidana dalam\nlingkup undang -undang yang menjadi dasar hukumnya\nmasing-masing;\n10. Penyidik…\nPRESIDEN\nREPUBLIK INDONESIA\n10. Penyidik pembantu adalah pejabat Kepolisian Negara Republik\nIndonesia yang diberi wewenang tertentu dalam melakukan tugas\npenyidikan yang diatur dalam Undang-undang;\n11. Penyidikan adalah serangkaian tindakan penyidik dalam hal dan\nmenurut cara yang diatur dalam undang-undang untuk mencari serta\nmengumpulkan bukti yang dengan bukti itu membuat terang tentang\ntindak pidana yang terjadi dan guna menemukan tersangkanya;\n12. Menteri adalah Menteri Pertahanan Keamanan Republik Indonesia;\n13. Panglima adalah Pangli ma Angkatan Bersenjata Republik\nIndonesia."
+   }
+  },
+  {
+   "id": "ID-H871-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\nKepolisian Negara Republik Indonesia bertujuan untuk menjamin tertib\ndan tegaknya hukum serta terbinanya ketentraman masyarakat guna\nmewujudkan keamanan dan ketertiban masyarakat dalam rangka\nterpeliharanya keamanan dalam negeri, terselenggaranya fungsi\npertahanan keamanan negara, dan tercapainya tujuan nasional dengan\nmenjunjung tinggi hak asasi manusia."
+   }
+  },
+  {
+   "id": "ID-H871-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\nFungsi kepolisian adalah salah satu fungsi pemerintahan negara di bidang\npenegakan hukum, p erlindungan dan pelayanan masyarakat, serta\npembimbingan masyarakat dalam rangka terjaminnya tertib dan tegaknya\nhukum serta terbinanya ketentraman masyarakat guna terwujudnya\nkeamanan dan ketertiban masyarakat."
+   }
+  },
+  {
+   "id": "ID-H871-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4…"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 4\n(1) Pengemban fungsi kepolisian adalah Kepolisian Negara Republik\nIndonesia yang dalam melaksanakan tugasnya dibantu oleh :\na. alat-alat kepolisian khusus;\nb. penyidik pegawai negeri sipil;\nc. bentuk-bentuk pengamanan swakarsa.\n(2) Pengemban fungsi kepolisi an sebagaimana dimaksud pada ayat (1)\nhuruf a, huruf b, dan huruf c melaksanakan fungsi kepolisian sesuai\ndengan peraturan perundang -undangan yang menjadi dasar\nhukumnya masing-masing."
+   }
+  },
+  {
+   "id": "ID-H871-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\n(1) Kepolisian Negara Republik Indonesia adalah unsur Angkata n\nBersenjata Republik Indonesia yang terutama berperan memelihara\nkeamanan dalam negeri.\n(2) Kepolisian Negara Republik Indonesia merupakan satu kesatuan\ndalam melaksanakan fungsi kepolisian.\nBAB II\nSUSUNAN KEPOLISIAN NEGARA\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H871-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\n(1) Kepolisian Negara Republik Indonesia dalam melaksanakan fungsi\nkepolisian sebagaimana dimaksud dalam Pasal 3 meliputi seluruh\nwilayah negara Republik Indonesia.\n(2) Dalam...\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Dalam rangk a pelaksanaan fungsi kepolisian, wilayah negara\nRepublik Indonesia dibagi dalam daerah hukum menurut\nkepentingan pelaksanaan tugas Kepolisian Negara Republik\nIndonesia.\n(3) Daerah hukum sebagaimana dimaksud pada ayat (2) ditetapkan\ndengan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H871-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\nSusunan organisasi dan tata kerja Kepolisian Negara Republik Indonesia\ndisesuaikan dengan kepentingan pelaksanaan tugas dan wewenangnya\nyang diatur lebih lanjut oleh Panglima atas usul Kepala Kepolisian\nRepublik Indonesia."
+   }
+  },
+  {
+   "id": "ID-H871-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n(1) Presiden memegang kekuasaan tertinggi atas Kepolisian Negara\nRepublik Indonesia.\n(2) Dalam penyelenggaraaan kekuasaan sebagaimana dimaksud pada\nayat (1), Presiden dibantu oleh Menteri dan Panglima.\n(3) Pelaksanaan ketentuan sebagaimana dimaksud pada ayat (2) d iatur\nlebih lanjut dengan Keputusan Presiden."
+   }
+  },
+  {
+   "id": "ID-H871-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n(1) Kepala Kepolisian Republik Indonesia memimpin Kepolisian\nNegara Republik Indonesia dan menyelenggarakan pimpinan teknis\nkepolisian menetapkan kebijakan, serta pengendaliannya.\n(2) Kepala...\n(2) Kepala Kepolisian Republik Indonesia memimpin Kepolisian\nPRESIDEN\nREPUBLIK INDONESIA\nNegara Republik Indonesia dalam melaksanakan tugas dan\ntanggung jawab atas :\na. penyelenggaraan kegiatan operasional kepolisian dalam rangka\npelaksanaan tugas Kepolisian Negara Republik Indonesia;\nb. penyelenggaraan pembinaan kemampuan Kepolisian Negara\nRepublik Indonesia.\n(3) Kepala Kepolisian Republik Indonesia dalam melaksanakan tugas\ndan tanggung jawab sebagaimana dimaksud pada :\na. ayat (2) huruf a bertanggung jawab kepada Menteri;\nb. ayat (2) huruf b bertanggung jawab kepada Panglima.\n(4) Tata cara pelaksanaan tugas dan tanggung jawab sebagaimana\ndimaksud pada ayat (3) huruf a diatur lebih lanjut oleh Menteri dan\nayat (3) huruf b oleh Panglima."
+   }
+  },
+  {
+   "id": "ID-H871-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\n(1) Pimpinan Kepolisian Negara Republik Indonesia di daerah hukum\nsebagaimana dimaksud dalam Pasal 6 ayat (2), bertanggung jawab\natas pelaksanaan tugas dan wewenang Kepolisian secara hierarki.\n(2) Tanggung jawab secara hierarki sebagaimana dimaksud pada ayat\n(1) diatur lebih lanjut oleh Kepala Kepolisian Republik Indonesia."
+   }
+  },
+  {
+   "id": "ID-H871-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\n(1) Kepala Kepolisian Republik Indonesia diangkat dan diberhentikan\noleh Presiden.\n(2) Yang...\n(2) Yang dapat diangkat menjadi Kepala Kepolisian Republik\nIndonesia adalah Perwira Tinggi Kepolisian Negara Republik\nPRESIDEN\nREPUBLIK INDONESIA\nIndonesia yang masih aktif.\n(3) Pengangkatan dan pemberhentian dalam jabatan selain yang\ndimaksud pada ayat (1) diatur lebih lanjut oleh Pangl ima, atas usul\nKepala Kepolisian Republik Indonesia."
+   }
+  },
+  {
+   "id": "ID-H871-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n(1) Jabatan penyidik dan penyidik pembantu adalah jabatan fungsional,\ndan pejabatnya diangkat oleh Kepala Kepolisian Republik\nIndonesia.\n(2) Jabatan tertentu lainnya di lingkungan Kepolisian Negara Republik\nIndonesia ditentukan dan diusulkan sebagai jabatan fungsional oleh\nKepala Kepolisian Republik Indonesia sesuai dengan peraturan\nperundang-undangan.\nBAB III\nTUGAS DAN WEWENANG"
+   }
+  },
+  {
+   "id": "ID-H871-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\nKepolisian Negara Republik Indonesia bertugas :\na. selaku alat negara penegak hukum memelihara serta meningkatkan\ntertib hukum;\nb. melaksanakan tugas kepolisian selaku pengayom dalam\nmemberikan perlindungan dan pelayanan kepada masyarakat bagi\ntegaknya ketentuan peraturan perundang-undangan;\nc. bersama-…\nc. bersama-sama dengan segenap komponen kekuatan pertahanan\nkeamanan negara lainnya membina ketentraman masyarakat dalam\nPRESIDEN\nREPUBLIK INDONESIA\nwilayah negara guna mewujudkan keamanan dan ketertiban\nmasyarakat;\nd. membimbing masyarakat bagi terciptanya kondisi yang menunjang\nterselenggaranya usaha dan kegiatan sebagaimana dimaksud pada\nhuruf a, huruf b dan huruf c;\ne. melaksanakan tugas lain sesuai dengan peraturan\nperundang-undangan."
+   }
+  },
+  {
+   "id": "ID-H871-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\n(1) Dalam melaksanakan tugas sebagaima na dimaksud dalam Pasal 13,\nKepolisian Negara Republik Indonesia :\na. melakukan penyelidikan dan penyidikan terhadap semua tindak\npidana sesuai dengan Hukum Acara Pidana dan peraturan\nperundang-undangan lainnya;\nb. menyelenggarakan identifikasi kepolisian, kedokteran kepolisian\ndan laboratorium forensik serta psikologi kepolisian untuk\nkepentingan tugas kepolisian;\nc. memelihara ketertiban dan menjamin keamanan umum;\nd. memelihara keselamatan jiwa raga, harta benda , masyarakat, dan\nlingkungan hidup dari gangguan ketertiban dan/atau bencana\ntermasuk memberikan perlindungan dan pertolongan dengan\nmenjunjung tinggi hak asasi manusia;\ne. menyelenggarakan segala kegiatan dalam rangka membina\nkeamanan, ketertiban dan kelancaran lalu lintas di jalan;\nf. melindungi...\nf. melindungi dan melayani kepentingan warga masyarakat untuk\nsementara, sebelum ditangani oleh instansi dan/atau pihak yang\nPRESIDEN\nREPUBLIK INDONESIA\nberwenang;\ng. membina ketaatan diri warga masyarakat terhadap hukum dan\nperaturan perundang-undangan;\nh. turut serta dalam pembinaan hukum nasional dan pembinaan\nkesadaran hukum masyarakat;\ni. melakukan koordinasi, pengawasan dan pembinaan teknis\nterhadap alat -alat kepolisian khusus, penyidik pegawai negeri\nsipil, dan bentuk -bentuk p engamanan swakarsa yang memiliki\nkewenangan kepolisian terbatas;\nj. melakukan pengawasan terhadap orang asing yang berada di\nwilayah Indonesia dengan koordinasi instansi terkait sesuai\ndengan peraturan perundang-undangan;\nk. mewakili pemerintah Republik Indonesia dalam organisasi\nkepolisian internasional.\n(2) Tata cara pelaksanaan ketentuan sebagaimana dimaksud pada ayat\n(1) huruf i diatur lebih lanjut dengan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H871-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\nDalam rangka menyelenggarakan tugas sebagaimana dimaksud dalam\nPasal 13 dan Pasal 14:\n(1) Kepolisian Negara Republik Indonesia secara umum berwenang :\na. menerima laporan dan pengaduan;\nb. melakukan tindakan pertama di tempat kejadian;\nc. mengambil…\nc. mengambil sidik jari dan identitas lainnya serta memotret\nseseorang;\nPRESIDEN\nREPUBLIK INDONESIA\nd. mencari keterangan dan barang bukti;\ne. menyelenggarakan Pusat Informasi Kriminal Nasional;\nf. Membantu menyelesaikan perselisihan warga masyarakat yang\ndapat menggangu ketertiban umum;\ng. mencegah dan menanggulangi tumbuhnya penyakit masyarakat;\nh. mengawasi aliran kepercayaan yang dapat menimbulkan\nperpecahan atau mengancam persatuan dan kesatuan bangsa;\ni. memberikan bantuan pengamanan dalam sidang dan pelaksanaan\nputusan penga dilan, kegiatan instansi lain, serta kegiatan\nmasyarakat;\nj. melaksanakan pemeriksaan khusus sebagai bagian dari tindakan\nkepolisian dalam rangka pencegahan;\nk. menerima dan menyimpan barang temuan untuk sementara\nwaktu;\nl. mengeluarkan surat izin dan/a tau surat keterangan yang\ndiperlukan dalam rangka pelayanan masyarakat;\nm.mengeluarkan peraturan kepolisian dalam lingkup kewenangan\nadministratif kepolisian yang mengikat warga masyarakat.\n(2) Kepolisian Negara Republik Indonesia sesuai dengan peraturan\nperundang-undangan lainnya berwenang:\na. memberikan izin dan mengawasi kegiatan keramaian umum dan\nkegiatan masyarakat lainnya;\nb. menerima pemberitahuan tentang kegiatan politik;\nc. memberikan…\nc. memberikan izin dan melakukan pengawasan senjata api, bahan\npeledak dan senjata tajam;\nPRESIDEN\nREPUBLIK INDONESIA\nd. menyelenggarakan registrasi dan identifikasi kendaraan\nbermotor;\ne. memberikan surat izin mengemudi kendaraan bermotor;\nf. memberikan petunjuk, mendidik dan melati h aparat kepolisian\nkhusus dan petugas pengamanan swakarsa dalam bidang teknis\nkepolisian;\ng. melakukan kerja sama dengan kepolisian negara lain dalam\nmenyidik dan memberantas kejahatan internasional;\nh. melaksanakan kewenangan lain yang termasuk dalam l ingkup\ntugas kepolisian.\n(3) Tata cara pelaksanaan ketentuan sebagaimana dimaksud pada ayat\n(2) huruf a dan huruf b diatur lebih lanjut dengan Peraturan\nPemerintah.\nPasal.16\nDalam rangka menyelenggarakan tugas sebagaimana dimaksud dalam\nPasal 13 dan Pasa l 14 di bidang proses pidana, Kepolisian Negara\nRepublik Indonesia berwenang untuk :\na. melakukan penangkapan, penahanan, penggeledahan, dan\npenyitaan;\nb. melarang setiap orang meninggalkan atau memasuki tempat\nkejadian perkara untuk kepentingan penyidikan;\nc. membawa dan menghadapkan orang kepada penyidik dalam rangka\npenyidikan;\nd. menyuruh…\nd. menyuruh berhenti orang yang dicurigai dan menanyakan serta\nmemeriksa tanda pengenal diri;\nPRESIDEN\nREPUBLIK INDONESIA\ne. melakukan pemeriksaan dan penyitaan surat;\nf. memanggil orang untuk didengar dan diperiksa sebagai tersangka\natau saksi;\ng. mendatangkan orang ahli yang diperlukan dalam hubungannya\ndengan pemeriksaan perkara;\nh. mengadakan penghentian penyidikan;\ni. menyerahkan berkas perkara kepada penuntut umum;\nj. mengajukan permintaan secara langsung kepada pejabat\nimigrasi dalam keadaan mendesak untuk melaksanakan cegah dan\ntangkal terhadap orang yang disangka melakukan tindak pidana;\nk. memberikan petunjuk dan bantuan penyidikan kepada penyidik\npegawai negeri sipil serta menerima hasil penyidikan penyidik\npegawai negeri sipil untuk diserahkan kepada penuntut umum;\nl. mengadakan tindakan lain menurut hukum yang bertanggung\njawab."
+   }
+  },
+  {
+   "id": "ID-H871-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\nPejabat Kepolisian Negara Republik Indonesia menjalankan tugas dan\nwewenangnya di seluruh wilayah Negara Republik Indonesia, khususnya\ndi daerah hukum masing -masing tempat ia diangkat sesuai dengan\nperaturan perundang-undangan."
+   }
+  },
+  {
+   "id": "ID-H871-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18…"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 18\nPRESIDEN\nREPUBLIK INDONESIA\n(1) Untuk kepentingan umum, peja bat Kepolisian Negara Republik\nIndonesia dalam melaksanakan tugas dan wewenangnya dapat\nbertindak menurut penilainnnya sendiri.\n(2) Pelaksanaan ketentuan sebagaimana dimaksud pada ayat (1) hanya\ndapat dilakukan dalam keadaan yang sangat perlu dengan\nmemperhatikan peraturan perundang -undangan serta kode etik\nprofesi Kepolisian Negara Republik Indonesia."
+   }
+  },
+  {
+   "id": "ID-H871-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\n(1) Dalam melaksanakan tugas dan wewenangnya, pejabat Kepolisian\nNegara Republik Indonesia senantiasa bertindak berdasarkan norma\nhukum dan mengin dahkan norma agama, kesopanan, kesusilaan,\nserta menjunjung tinggi hak asasi manusia.\n(2) Dalam melaksanakan tugas dan wewenang sebagaimana dimaksud\npada ayat (1), Kepolisian Negara Republik Indonesia\nmengutamakan tindakan pencegahan.\nBAB IV\nPEMBINAAN PROFESI"
+   }
+  },
+  {
+   "id": "ID-H871-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\nPembinaan kemampuan profesi Kepolisian Negara Republik Indonesia\ndiatur dengan Keputusan Panglima."
+   }
+  },
+  {
+   "id": "ID-H871-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21…"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 21\nPRESIDEN\nREPUBLIK INDONESIA\nPembinaan profesi pejabat Kepolisian Negara Republik Indonesia\ndiselenggarakan melalui pembinaan etika profesi dan pengembangan\npengetahuan serta pengalamannya di bidang teknis kepolisian melalui\npendidikan dan pelatihan serta penugasan secara berjenjang d an\nberlanjut."
+   }
+  },
+  {
+   "id": "ID-H871-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\nGuna menunjang pembinaan profesi sebagaimana dimaksud dalam Pasal\n20 dan Pasal 21 dilakukan pengkajian, penelitian, serta pengembangan\nilmu dan teknologi kepolisian."
+   }
+  },
+  {
+   "id": "ID-H871-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\n(1) Sikap dan perilaku pejabat Kepolisian Negara Repub lik Indonesia\nterikat pada kode etik profesi Kepolisian Negara Republik\nIndonesia.\n(2) Kode etik profesi Kepolisian Negara Republik Indonesia juga\nmenjadi pedoman bagi pengemban fungsi kepolisian lainnya dalam\nmelaksanakan tugas sesuai dengan peraturan per undang-undangan\nyang berlaku di lingkungannya.\n(3) Kode etik profesi Kepolisian Negara Republik Indonesia ditetapkan\noleh Kepala Kepolisian Republik Indonesia."
+   }
+  },
+  {
+   "id": "ID-H871-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24…"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 24\nPRESIDEN\nREPUBLIK INDONESIA\n(1) Pelanggaran terhadap kode etika profesi Kepolisian Negara\nRepublik I ndonesia oleh pejabat Kepolisian Negara Republik\nIndonesia diselesaikan oleh Komisi Kode Etik Negara Republik\nIndonesia.\n(2) Susunan organisasi dan tata kerja Komisi Kode Etik Kepolisian\nNegara Republik Indonesia diatur dengan Keputusan Kepala\nKepolisian Republik Indonesia."
+   }
+  },
+  {
+   "id": "ID-H871-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\n(1) Setiap pejabat Kepolisian Negara Republik Indonesia dan\npengemban fungsi kepolisian lainnya wajib menunjukkan tanda\npengenal sebagai keabsahan wewenang dan tanggung jawab dalam\nmengemban fungsinya.\n(2) Bentuk, ukuran, pengeluaran, pemakaian dan penggunaan tanda\npengenal sebagaimana dimaksud pada ayat (1) ditetapkan dengan\nKeputusan Kepala Kepolisian Republik Indonesia.\nBAB V…\nBAB V\nHUBUNGAN DAN KERJA SAMA\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H871-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\n(1) Hubungan dan kerja sama Kepolisian Negara Republik Indonesia\ndengan badan, lembaga, serta instansi di dalam dan di luar negeri\ndidasarkan atas sendi -sendi hubungan fungsional, saling\nmenghormati, saling membantu, mengutamakan kepentingan\numum, serta memperhatikan hierarki.\n(2) Hubungan dan kerja sama di dalam negeri dilakukan terutama\ndengan unsur -unsur pemerintah daerah, badan, lembaga, instansi\nlainnya, serta masyarakat dengan mengembangkan asas partisipasi\ndan subsidiaritas.\n(3) Hubungan dan kerja sama luar negeri dilakukan terutama dengan\nbadan-badan kepolisian dan penegak hukum lainnya melalui kerja\nsama bilateral atau multilateral dan badan pencegahan kejahatan\nbaik dalam rangka tugas operasional maupun kerja sama teknik dan\npendidikan serta pelatihan.\n(4) Pelaksanaan ketentuan sebagaimana dimaksud pada ayat (1), ayat\n(2), dan ayat (3) ditetapkan oleh Kepala Kepolisian Republik\nIndonesia.\nBAB VI…\nBAB VI\nPRESIDEN\nREPUBLIK INDONESIA\nKETENTUAN LAIN"
+   }
+  },
+  {
+   "id": "ID-H871-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\n(1) Dalam keadaan sangat mendesak dan terpaksa untuk kepentingan\numum, Kepolisian Negara Republik Indonesia dapat meminta\nbantuan dan menggunakan unsur Angkatan Bersenjata Republik\nIndonesia lainnya.\n(2) Ketentuan sebagaimana dimaksud pada ayat (1) ditetapkan dengan\nPeraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H871-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\nDalam keadaan bahaya, Kepolisian Negara Republik Indonesia\nmelaksanakan tugas bersama -sama dengan segenap komponen kekuatan\npertahanan keamanan negara lainnya sesuai dengan peraturan\nperundang-undangan.\nBAB VII…\nBAB VII\nKETENTUAN PERALIHAN\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H871-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\nDengan berlakunya Undang -undang ini, semua peraturan pelaksanaan\nmengenai Kepolisian Negara Republik Indonesia dinyatakan tetap\nberlaku selama ketentuan baru berdasarkan Undang -undang ini berlum\ndikeluarkan dan sepanjang peraturan tersebut tidak bertentangan dengan\nUndang-undang ini.\nBAB VIII\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H871-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\nDengan berlakunya Undang -undang ini, Undang -undang Nomor 13\nTahun 1961 tentang Ketentuan -ketentan Pokok Kepolisian Negara\n(Lembaran Negara Tahun 1961 Nomor 245, Tambahan Lembaran Negara\nNomor 2289) dinyatakan tidak berlaku."
+   }
+  },
+  {
+   "id": "ID-H871-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\nUndang-undang ini dapat disebut \"Undang -undang Kepolisian\" dan\nmulai berlaku pada tanggal diundangkan.\nAgar…\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nUndang-undang ini dengan penempatannya dalam Lembaran Negara\nRepublik Indonesia.\nPRESIDEN\nREPUBLIK INDONESIA\nDisahkan di Jakarta\npada tanggal 7 Oktober 1997\nPRESIDEN REPUBLIK INDONESIA,\nttd.\nSOEHARTO\nDiundangkan di Jakarta\npada tanggal 7 Oktober 1997\nMENTERI NEGARA SEKRETARIS NEGARA\nREPUBLIK INDONESIA,\nttd.\nMOERDIONO\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1997 NOMOR 81\nPRESIDEN\nREPUBLIK INDONESIA\nPENJELASAN\nATAS\nUNDANG-UNDANG REPUBLIK INDONESIA\nNOMOR 28 TAHUN 1997\nTENTANG\nKEPOLISIAN NEGARA REPUBLIK INDONESIA\nUMUM\nPeraturan perundang-undangan yang menjadi dasar pelaksanaan tugas Kepolisian Negara\nRepublik Indonesia sebelum undang -undang ini berlaku adalah Undang -undang Nomor\n13 Tahun 1961 tentang Ketentuan -ketentuan Pokok Kepolisian Negara (Lembaran\nNegara Tahun 1961 Nomor 245, Tambahan Lembaran Negara Nomor 2289).\nSejak diundangkannya Undang -undang Nomor 8 Tahun 1981 tentang Hukum Acara\nPidana (Lembaran Negara Tahun 1981 Nomor 76, Tambahan Lembaran Negara Nomor\n3209) dan Undang -undang Nomor 20 Tahun 1982 tentang Ketentuan -ketentuan Pokok\nPertahanan Keamanan Negara Republik Indonesia (Lembaran Negara Tahun 1982 Nomor\n51, Tambahan Lembaran Negara Nomor 3234) sebagaimana telah diubah dengan\nUndang-undang Nomor 1 Tahun 1988 (Lembaran Negara Tahun 1988 Nomor 3,\nTambahan Lembaran Negara Nomor 3368), dan Undang -undang Nomor 2 Tahun 1988\ntentang Prajurit Angkatan Bersenjata Republik Indonesia (Lembaran Negara Tahun 1988\nNomor 4, Tambahan Lembaran Negara Nomor 3369) semakin dirasakan perlunya\npemantapan kedudukan dan peranan serta pelaksanaan tugas Kepolisian Negara Republik\nIndonesia sehingga akan lebih menegaskan keterkaitannya secara filosofis dengan\nPancasila sebagai falsafah/pandangan hidup bangsa dan dasar negar a, secara\nkonstitutional dengan Undang-Undang Dasar 1945 dan perkembangan hukum serta secara\nsosiologis keterkaitannya dengan sejarah perjuangan bangsa dan perkembangan\nketatanegaraan.\nMeskipun Undang-undang Nomor 13 Tahun 1961 telah memuat pokok -pokok mengenai\nkedudukan, peranan, dan tugas Kepolisian Negara Republik Indonesia, materi ketentuan\nyang tercantum di dalamnya masih berkaitan dengan Ketentuan Hukum Acara Pidana\nyang lama, yaitu Het Herziene Inlandsch Reglement (Staatsblad Tahun 1941 Nomor 44)\nyang telah dicabut dan digantikan oleh Undang -undang Nomor 8 Tahun 1981, sehingga\ndengan sendirinya diperlukan penyesuaian terhadap ketentuan yang diatur dalam Kitab\nUndang-undang Hukum Acara Pidana.\nUndang-…\nPRESIDEN\nREPUBLIK INDONESIA\nUndang-undang Nomor 8 Tahun 1981 tentang Hukum A cara Pidana telah mengatur\nsecara rinci tentang kedudukan, peranan dan tugas Kepolisian Negara Republik Indonesia\ndalam kaitannya dengan proses pidana sebagai penyelidik dan penyidik serta\nmelaksanakan koordinasi dan pengawasan terhadap Penyidik Pegawai Ne geri Sipil\ntertentu yang diberi wewenang khususu oleh Undang-undang.\nNamun demikian, sebagai bagian integral fungsi pemerintahan negara ternyata fungsi\nkepolisian mempunyai tataran luas, tidak sekedar aspek represif dalam kaitannta dengan\nproses pidana saja, tetapi mencakup pula aspek preventif berupa tugas-tugas yang melekat\npada fungsi utama administratif negara mulai dari bimbingan dan pengaturan sampai\ndengan tindakan kepolisian yang bersifat administrasi dan bukan kompetensi pengadilan.\nDalam kaitannya dengan aspek preventif ini, terlihat peranan Kepolisian Negara Republik\nIndonesia selaku pengayom yang memberikan perlindungan dan pelayanan kepada\nmasyarakat serta selaku pembimbing masyarakat ke arah terwujudnya tertib dan tegaknya\nhukum demi terjaminnya keamanan dan ketertiban masyarakat dalam rangka\nterpeliharanya kea manan dalam negeri serta melaksanakan tugas lain sesuai dengan\nperaturan perundang-undangan.\nSelaku pengayom, peranan Kepolisian Negara Republik Indonesia perlu dikembangkan\nmelalui pemantapan kewenangan bertindak menurut penilaian sendiri untuk kepenting an\numum, sehingga upaya perlindungan dan pelayanan terhadap masyarakat dapat\ndilaksanakan dengan sebaik-baiknya.\nSehubungan dengan itu, maka praktek kepolisian selama ini yang tidak melakukan\npenyidikan perkara yang serba ringan sifatnya demi kepentingan umum, dapat dipandang\nsebagai upaya pengayoman, sehingga dapat terus berlangsung.\nTermasuk pula dalam hal ini peranan membina pengemban fungsi kepolisian yang\ntumbuh dan berkembang secara sosiologis dalam tata kehidupan masyarakat.\nDengan diundangkannya Undang-undang Nomor 20 Tahun 1982 tentang\nKetentuan-ketentuan Pokok Pertahanan Keamanan Negara Republik Indonesia,\nsebagaimana telah diubah dengan Undang -undang Nomor 1 Tahun 1988 dan\nUndang-undang Nomor 2 Tahun 1988 tataran tugas Kepolisian Negara Republi k\nIndonesia terutama aspek preventif telah lebih tegas dinyatakan dalam kaitan\nkedudukannya sebagai komponen Angkatan Bersenjata Republik Indonesia, yang\nberfungsi sebagai Kekuatan Pertahanan Keamanan Negara dan sebagai Kekuatan Sosial\nPolitik,\nNamun…\nPRESIDEN\nREPUBLIK INDONESIA\nNamun demikian, karena tugas dan wewenang kepolisian bersangkut paut dengan hak\ndan kewajiban warga negara secara langsung, perlu dirumuskan secara tegas dan terinci\npenyusunan undang-undang tersendiri bagi Kepolisian Negara Republik Indonesia sesuai\ndengan kedudukan dan fungsinya berdasarkan Undang-undang Nomor 20 Tahun 1982.\nDengan memperhatikan hal-hal tersebut di atas, maka Undang-undang tentang Kepolisian\nNegara Republik Indonesia diharapkan dapat memberikan landasan dan dasar hukum\nyang lebih mantap bag i pelaksanaan tugas Kepolisian Negara Republik Indonesia sesuai\ndengan kedudukannya berdasarkan Undang -undang Nomor 20 Tahun 1982. Disisi lain\nUndang-undang tentang Kepolisian Negara Republik Indonesia diharapkan mampu\nmemberikan jaminan yang lebih besar b agi terwujudnya kepastian hukum, ketertiban\nhukum, dan perlindungan hukum yang berintikan keadilan dan kebenaran.\nDisamping itu, Undang -undang ini diharapkan pula dapat lebih menjamin tercapainya\ntujuan kepolisian, yaitu \"terwujudnya keamanan dan ketertiba n masyarakat dengan\nmenjamin tegaknya hukum serta membina ketentraman masyarakat, dalam rangka\nterselenggaranya fungsi pertahanan keamanan negara, guna tercapainya tujuan nasional\nberdasarkan Pancasila dan Undang -Undang Dasar 1945\", melalui upaya pembinaan\nprofesi kepolisian dan pengembangan asas -asas kepolisian yang bersumber dari\nPancasilan dan Undang-Undang Dasar 1945.\nSesuai dengan sifat tugas Kepolisian Negara Republik Indonesia, diperlukan kesadaran\ndan kecakapan teknis yang tinggi dan menuntut pembi naan kemampuan profesional\nkepolisian yang berbeda dari Prajurit Angkatan Bersejata Republik Indonesia lainnya.\nTugas penegakan hukum tidak pernah berhenti dan pejabat Kepolisian Negara Republik\nIndonesia harus menjalankan tugas dan wewenangnya setiap wakt u dan tempat dengan\nmenggunakan hukum sebagai alat utamanya serta selalu berdasarkan pada makna yang\nterkandung dalam Pasal 27 Undang-Undang Dasar 1945, yaitu bahwa setiap warga negara\nbersamaan kedudukannya dalam hukum.\nDengan demikian, dapat diwujudkan jati diri Kepolisian Negara Republik Indonesia yang\nlebih profesional, mahir, terampil, bersih, dan berwibawa sehingga Kepolisian Negara\nRepublik Indonesia tidak semata -mata mampu melaksanakan tugas dengan\nsebaik-baiknya, tetapi sekaligus mampu membuktikan keberadaannya sebagai aset\nnasional yang dicintai masyarakat;\nDengan…\nPRESIDEN\nREPUBLIK INDONESIA\nDengan landasan dan pertimbangan sebagaimana telah diuraikan sebelumnya, dalam\nkebulatannya yang utuh serta menyeluruh, diadakan pembaharuan atas Undang -undang\nKepolisian Negara Republik Indonesia yang tidak hanya memuat kedudukan, tugas,\nfungsi, dan peranan kepolisian, tetapi juga mengatur tentang pembinaan profesi, tanggung\njawab, serta bentuk -bentuk perlindungan hukum bagi pejabat pengemban fungsi\nkepolisian dalam pelaksanaan tugasnya.\nPASAL DEMI PASAL\nPasal 1\nCukup jelas\nPasal 2\nHak asasi manusia adalah hak dasar yang secara alamiah melekat pada setiap\nmanusia dalam kehidupan masyarakat, meliputi bukan saja hak perseorangan\nmelainkan juga hak masyarakat, meliputi bukan saja hak perseorangan melainkan\njuga hak masyarakat, bangsa, dan negara yang secara utuh dalam Undang -Undang\nDasar 1945 serta sesuai pula dengan prinsip -prinsip yang terkandung dalam\nDeclaration of Human Rights, 1948 dan Konvensi internasional lainnya.\nYang dimaksud dengan keamanan dalam negeri adalah suatu kondisi dinamis\nbangsa, negara, dan pemerintah dalam rangka tercapainya tujuan Nasional yang\nditandai oleh terjaminnya pelaksanaan pemerintah dan tantangan yang datang dari\ndalam negeri.\nPasal 3\nCukup jelas\nPasal 4\nAyat (1)\nYang dimaksud dengan kata \"dibantu\" pada ayat ini adalah dalam lingkup\npelaksanaan fungsi kepolisian, tidak bersifat struktural.\nHuruf a\nYang dimaksud dengan alat-alat kepolisian khusus menurut Undang-undang\nini adalah alat -alat atau badan -badan pemerintahan yang oleh atau atas\nkuasa undang -undang diberi wewenang untuk melaksanakan fungsi\nkepolisian di bidangnya masing-masing.\nHuruf b\nPRESIDEN\nREPUBLIK INDONESIA\nCukup jelas\nHuruf c\nYang dimaksud dengan bentuk -bentuk pengamanan swakarsa adalah suatu\nbentuk pengamanan yang diadakan atas kemauan, kesadaran, dan\nkepentingan masyarakat sendiri yang kemudian memperoleh pengukuhan\ndari Kepolisian Negara Republik Indonesia, seperti satuan pengamanan\nlingkungan.\nAyat (2)\nCukup jelas\nPasal 5\nAyat (1)\nAngkatan Bersenjata Republik Indonesia terdiri dari Tentara Nasional\nIndonesia Angkatan Darat, Tentara Nasional Indonesia Angkatan\nLaut, Tentara Nasional Indonesia Angkatan Udara, dan Kepolisian Negara\nRepublik Indonesia. Walaupun merupakan unsur Angkatan Bersenjata\nRepublik Indonesia, Kepolisian Negara Republik Indonesia bukan militer.\nSebagai unsur Angkatan Bersenjata Republik Indonesia, Kepolisian Negara\nRepublik Indonesia mempunyai tanggung jawab mewujudkan keamanan\ndan ketertiban masyarakat dalam rangka keamanan dalam negeri dan oleh\nkarena itu Kepolisian Negara Republik Indonesia mengemban peran utama\ndalam menghadapi berbagai jenis gangguan keamanan dalam negeri.\nAyat (2)\nKepolisian Negara Republik Indonesia sebagai satu kesatuan maksudnya\nadalah satu landasan dalam menjamin tertib dan tegaknya hukum serta\nmembina ketentraman masyarakat yang bertujuan memelihara kesatuan\ndalam kebijakan dan pelaksanaan teknis kepolisian.\nPasal 6…\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 6\nAyat (1)\nWilayah negara Republik Indonesia adalah wilayah hukum berlakunya\nkedaulatan negara Republik Indonesia sesuai dengan peraturan\nperundang-undangan yang berlaku. Pelaksanaan fungsi Kepolisian Negara\nRepublik Indonesia meliputi seluruh wilayah negara Republik Indonesia\nsehingga setiap pejabat Kepolisian Negara Republik Indonesia dapat\nmelaksanakan kewenangannya di seluruh wilayah negara Republik\nIndonesia, terutama di wilayah dia ditugaskan.\nAyat (2)\nUntuk melaksanakan tugas dan wewenang Kepolisian Negara R epublik\nIndonesia secara efektif dan efisien, wilayah negara Republik Indonesia\ndibagi dalam daerah hukum menurut kepentingan pelaksanaan tugas dan\nwewenang Kepolisian Negara Republik Indonesia dengan memperhatikan\nluas wilayah, keadaan penduduk, kemampuan Kepolisian Negara Republik\nIndonesia, dan kepentingan pertahanan keamanan negara.\nDalam pelaksanaannya diusahakan serasi dengan pembagian wilayah\nadministratif pemerintahan di daerah dan perangkat sistem peradilan pidana\nterpadu.\nAyat (3)\nCukup jelas\nPasal 7\nCukup jelas\nPasal 8\nCukup jelas\nPasal 9…\nPasal 9\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (1)\nKepala Kepolisian Republik Indonesia sebagai pimpinan teknis kepolisian\nmenetapkan kebijakan teknis kepolisian baik preventif maupun represif bagi\nseluruh pengemban fungsi kepolisian dan mengawasi serta mengendalikan\npelaksanaannya. Dengan demikian, Kepala Kepolisian Republik Indonesia\nbertanggung jawab dalam bidang preventif dan represif serta pembinaan\nprofesi kepolisian dalam pelaksanaan tu gas dan wewenang kepolisian\nsebagaimana diatur dalam Undang-undang ini.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nUntuk menjamin terselenggaranya maksud ayat ini dengan sebaik -baiknya,\nperlu terjalinnya koordinasi antara Menteri dan Panglima.\nPasal 10\nCukup jelas\nPasal 11\nCukup jelas\nPasal 12\nAyat (1)\nJabatan penyidik dan penyidik pembantu sebagai jabatan fungsional terkait\ndengan sifat keahlian teknis yang memungkinkan kelancaran pelaksanaan\ntugas pokok Kepolisian Negara Republik Indonesia.\nAyat (2)…\nAyat (2)\nYang dimaksud dengan ditentukan dan di usulkan pada ayat ini adalah suatu\nproses intern Kepolisian Negara Republik Indonesia untuk menentukan\nPRESIDEN\nREPUBLIK INDONESIA\njabatan fungsional lainnya yang diperlukan di lingkungan Kepolisian\nNegara Republik Indonesia. Kemudian setelah ditentukan, diusulkan\nkepada pejabat yang berwenang guna memperoleh keputusan dan\npenetapan.\nPasal 13\nCukup jelas\nPasal 14\nAyat (1)\nHuruf a\nKetentuan Undang-undang Hukum Acara Pidana memberikan peranan\nutama kepada Kepolisian Negara Republik Indonesia dalam penyelidikan\ndan penyidikan sehingga secara umum diberi kewenangan untuk melakukan\npenyelidikan dan penyidikan terhadap semua tindak pidana.\nNamun demikian, hal tersebut tetap memperhatikan dan tidak mengurangi\nkewenangan yang dimiliki oleh penyidik lainnya sesuai dengan peraturan\nperundang-undangan yang menjadi dasar hukumnya masing-masing.\nHuruf b\nPenyelenggaraan identifikasi kepolisian dimaksudkan untuk kepentingan\npenyidikan tindak pidana dan pelayanan identifikasi non -tindak pidana bagi\nmasyarakat dan instansi lain dalam rangka pelayanan fungsi kepolisian.\nAdapun kedokteran kepolisian adalah meliputi antara lain:\nKedokteran forensik, odontologi forensik, dan psikiatri forensik yang\ndiperlukan untuk mendukung pelaksanaan tugas kepolisian.\nHuruf c\nCukup jelas\nHuruf d…\nHuruf d\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nHuruf e\nCukup jelas\nHuruf f\nHal ini dilakukan oleh pejabat Kepolisian Negara Republik Indonesia\nsebatas pengetahuan dan kemampuannya untuk kepentingan penagakan\nhukum, perlindungan, dan pelayanan masyarakat.\nHuruf g\nCukup jelas\nHuruf h\nCukup jelas\nHuruf i\nCukup jelas\nHuruf j\nCukup jelas\nHuruf k\nDalam pelaksanaan tugas ini, Kepolisian Negara Republik Indonesia terikat\noleh ketentuan hukum internasional baik perjanjian bilateral maupun\nperjanjian multilateral.\nDalam hubungan tersebut Kepolisian Negara Republik Indonesia dapat\nmemberikan bantuan untuk melakukan tindakan kepolisian atas permintaan\ndari negara lain, sebaliknya Kepolisian Negara Republik Indonesia dapat\nmeminta bantuan tindakan kepolisian dari negara lain sepanjang tidak\nbertentangan dengan ketentuan hukum dari kedua negara.\nOrganisasi…\nOrganisasi kepolisian internasional yang dimaksud, antara lain,\nInternational Criminal Police Organization (ICPO-Interpol).\nFungsi National Central Bureau ICPO-Interpol Indonesia dilaksanakan oleh\nPRESIDEN\nREPUBLIK INDONESIA\nKepolisian Negara Republik Indonesia.\nAyat (2)\nCukup jelas\nPasal 15\nAyat (1)\nHuruf a\nCukup jelas\nHuruf b\nCukup jelas\nHuruf c\nCukup jelas\nHuruf d\nKeterangan dan barang bukti dimaksud adalah yang berkaitan baik dengan\nproses pidana maupun dalam rangka tugas kepolisian pada umumnya.\nHuruf e\nYang dimaksud dengan Pusat Informasi Kriminal Nasional adalah sistem\njaringan dari dokumentasi kriminal yang memuat baik data kejahatan dan\npelanggaran maupun kecelakaan dan pelangaran lalu lintas serta registrasi\ndan identifikasi lalu lintas.\nHuruf f\nCukup jelas\nHuruf g…\nHuruf g\nYang dimaksud dengan penyakit masyarakat, antara lain : pengemis dan\npergelandangan, pelacuran, perjudian penyalahgunaan obat dan narkotika,\npemabukan, perdagangan manusia, pengisapan/praktek lintah darat, dan\npungutan liar.\nPRESIDEN\nREPUBLIK INDONESIA\nWewenang yang dimaksud pada ayat ini dilaksanakan secara terkoordinasi\ndengan instansi terkait sesuai dengan peraturan perundang-undangan.\nHuruf h\nTindakan mengawasi sudah mengandung tindakan tertentu terhadap aliran\nkepercayaan yang dapat membahayakan masyarakat dan negara serta\nmerupakan upaya pencegahan dan penanggulangannya. Dalam hal ini\ndikembangkan koordinasi lintas sektoral dengan instansi terkait.\nHuruf i\nWewenang tersebut dilaksanakan berdasarkan permintaan instansi yang\nberkepentingan atau permintaan masyarakat.\nHuruf j\nTindakan kepolisian adalah upaya paksa dan/atau tindakan lain me nurut\nhukum yang bertanggung jawab guna mewujudkan tertib dan tegaknya\nhukum serta terbinanya ketentraman masyarakat.\nHuruf k\nBarang temuan adalah barang yang tidak diketahui pemiliknya yang\nditemukan oleh pejabat Kepolisian Negara Republik Indonesia at au\nmasyarakat yang diserahkan kepada Kepolisian Negara Republik Indonesia.\nBarang temuan itu harus dilindungi oleh Kepolisian Negara Republik\nIndonesia dengan ketentuan apabila dalam jangka waktu tertentu tidak\ndiambil oleh yang berhak akan diselesaikan sesuai dengan peraturan\nperundang-undangan.\nHuruf l…\nHuruf l\nSurat izin dan /atau surat keterangan yang dimaksud dikeluarkan atas dasar\npermintaan yang berkepentingan.\nHuruf m\nPRESIDEN\nREPUBLIK INDONESIA\nCukup jelas\nAyat (2)\nHuruf a\nCukup jelas\nHuruf b\nCukup jelas\nHuruf c\nWewenang yang dimaksud pada ayat (2) huruf c dilakukan sesuai dengan\nperaturan perundang-undangan.\nHuruf d\nCukup jelas\nHuruf e\nCukup jelas\nHuruf f\nCukup jelas\nHuruf g\nKejahatan internasional adalah kejahatan tertentu yang disepakati untuk\nditanggulangi antar negara, antara lain : kejahatan narkotika, uang palsu,\nterorisme, dan perdagangan manusia.\nHuruf h…\nHuruf h\nCukup jelas\nAyat (3)\n` Cukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 16\nHuruf a\nCukup jelas\nHuruf b\nLarangan kepada setiap orang untuk meninggalkan atau memasuki tempat\nkejadian perkara maksudnya untuk pengamanan tempat kejadian perkara\nserta barang bukti.\nHuruf c\nCukup jelas\nHuruf d\nKewenangan ini merupakan kewenangan umum dan kewenangan dalam\nproses pidana. Dalam pelaksanaannya pejabat Kepolisian Negara Republik\nIndonesia wajib menunjukan identitasnya.\nHuruf e\nCukup jelas\nHuruf f\nCukup jelas\nHuruf g\nCukup jelas\nHuruf h…\nHuruf h\nCukup jelas\nHuruf i\nYang dimaksud dengan menyerahkan berkas perkara kepada penuntut\nPRESIDEN\nREPUBLIK INDONESIA\numum termasuk tersangka dan barang buktinya.\nHuruf j\nKepolisian Negara Republik Indonesia karena sempitnya waktu dapat\nlangsung meminta kepada petugas imigrasi untuk melakukan cegah dan\ntangkal terhadap orang yang disangka melakukan tindak pidana, baik yang\nhendak melarikan ke luar negeri maupun yang hendak masuk ke dalam\nwilayah Negara Republik Indonesia.\nSegera setelah itu, Kepolisian Negara Republik Indonesia wajib\nmengajukan hal tersebut kepada pejabat yang berwenang sebagaimana\ndimaksud dalam peraturan perundang-undangan.\nHuruf k\nCukup jelas\nHuruf l\nYang dimaksud dengan tindakan lain adalah tindaka n dari penyelidik dan\npenyidik untuk kepentingan penyelidikan dan penyidikan dengan syarat :\na. tidak bertentangan dengan suatu aturan hukum;\nb. selaras dengan kewajiban hukum yang mengharuskan dilakukannya\ntindakan jabatan;\nc. tindakan itu harus patut dan masuk akal dan termasuk dalam\nlingkungan jabatannya;\nd. atas pertimbangan yang layak berdasarkan keadaan yang memaksa;\ne. menghormati hak asasi manusia.\nPasal 17\nCukup jelas\nPasal 18…\nPasal 18\nAyat (1)\nBertindak menurut penilaiannya sendiri adalah suatu tindakan yang dapat\ndilakukan oleh pejabat Kepolisian Negara Republik Indonesia yang dalam\nbertindak harus mempertimbangkan manfaat serta resiko dari tindakannya\nPRESIDEN\nREPUBLIK INDONESIA\ndan betul-betul untuk kepentingan umum.\nAyat (2)\nCukup jelas\nPasal 19\nCukup jelas\nPasal 20\nPejabat Kepolisiaan Negara Republik Indonesia, karena sifat tugasnya untuk\nmengabdikan diri sebagai negara penegak hukum, memerlukan kesadaran dan\nkecakapan teknis yang tinggi dan menuntut pembinaan profesi kepolisian yang\nberbeda dengan prajurit Angkatan Bersenjata Republik Indonesia lainnya.\nPanglima mengatur pembinaan kemampuan Angkatan Bersenjata Republik\nIndonesia termasuk pembinaan kemampuan teknis profesi Kepolisian Negara\nRepublik Indonesi a yang penyelenggarannya menjadi tugas dan tanggung jawab\nKepala Kepolisian Republik Indonesia.\nPasal 21\nPembinaan profesi pejabat Kepolisian Negara Republik Indonesia dilaksanakan\nmelalui pembinaan etika profesi dan pengembangan pengetahuan serta\npengalaman penugasan secara berjenjang, berlanjut dan terpadu.\nPeningkatan dan pengembangan pengetahuan dapat dilaksanakan melalui\npendidikan dan pelatihan, baik di dalam maupun di luar lingkungan Kepolisian\nNegara Republik Indonesia, di lembaga pendidikan di dalam atau di luar negeri,\nserta berbagai bentuk pelatihan lainnya sepanjang untuk meningkatkan\nprofesionalisme. Sedangkan pengalaman maksudnya adalah meluputi jenjang\npenugasan yang diarahkan untuk memantapkan kemampuan dan prestasi.\nTuntutan…\nTuntutan pelaksanaan tugas serta pembinaan kemampuan profesi Kepolisian\nNegara Republik Indonesia mengharuskan adanya lembaga pendidikan tinggi\nkepolisian yang menyelenggarakan pendidikan ilmu kepolisian baik yang bersifat\nmaupun profesi dan pengkajian teknologi kepolisian.\nPasal 22\nPRESIDEN\nREPUBLIK INDONESIA\nCukup jelas\nPasal 23\nAyat (1)\nAyat ini mengamanatkan agar setiap pejabat Kepolisian Negara Republik\nIndonesia sebagai prajurit Angkatan Bersenjata Republik Indonesia dalam\nmelaksanakan tugas dan wewenangnya harus dapat menc erminkan\nkepribadian prajurit Angkatan Bersenjata Republik Indonesia seutuhnya,\nyaitu pejuang prajurit dan prajurit pejuang yang menyatu dalam satu pribadi\npejuang Pancasila yang ber -Sumpah Prajurit dan ber -Sapta Marga\nsebagaimana terurai dalam kode etik prajurit Angkatan Bersenjata Republik\nIndonesia.\nSelain itu, karena perbedaan sifat tugasnya, yaitu untuk mengabdikan diri\nsebagai alat negara penagak hukum, yang tugas dan wewenangnya\nbersangkut paut dengan hak dan kewajiban warga negara secara langsung,\ndiperlukan kesadaran dan kecakapan teknis yang tinggi, oleh karena itu\nsetiap pejabat Kepolisian Negara Republik Indonesia harus menghayati dan\nmenjiwai etika profesi kepolisian yang tercermin dalam sikap dan\nperilakunya.\nEtika profesi kepolisian terseb ut dirumuskan dalam Kode Etik Kepolisian\nNegara Republik Indonesia yang merupakan kristalisasi nilai -nilai yang\nterkandung dalam Tribrata dan Catur Prasetya yang dilandasi dan dijiwai\noleh Sapta Marga.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nPasal 24…\nPasal 24\nAyat (1)\nMengingat dalam pelaksanaan tugas Kepolisian Negara Republik Indonesia\nberkaitan erat dengan hak serta kewajiban warga negara dan masyarakat\nsecara langsung serta diikat oleh kode etik profesi Kepolisian Negara\nPRESIDEN\nREPUBLIK INDONESIA\nRepublik Indon esia, maka dalam hal seorang pejabat Kepolisian Negara\nRepublik Indonesia yang melaksanakan tugas dan wewenangnya dianggap\nmelanggar etika profesi, ia harus mempertanggungjawabkan perbuatannya\ndi hadapan Komisi Kode Etik Kepolisian Negara Republik Indonesia.\nAyat ini dimaksudkan untuk pemuliaan profesi kepolisian, sedangkan\nterhadap pelanggaran hukum disiplin dan hukum pidana diselesaikan sesuai\ndengan peraturan perundang-undangan.\nAyat (2)\nCukup jelas\nPasal 25\nAyat (1)\nTanda pengenal dimaksud guna memberikan jaminan kepastian bagi\nmasyarakat bahwa dirinya berhadapan dengan petugas resmi.\nAyat (2)\nCukup jelas\nPasal 26\nAyat (1)\nCukup jelas\nAyat (2)\nHubungan kerja sama Kepolisian Negara Republik Indonesia dengan pihak\nlain dimaksudkan untuk kelancaran tugas kepolisian secara fungsional\ndengan tidak mencampuri urusan instansi masing-masing.\nKhusus…\nKhusus hubungan kerja sama dengan pemerintah daerah adalah dalam\nrangka menegakkan kewibawaan penyelenggaraan pemerintaha n di daerah\nsesuai dengan peraturan perundang-undangan.\nAyat (3)\nTermasuk dalam pengetian kerja sama multilateral adalah antara lain,\nInternational Criminal Police Organization Interpol dan Aseanapol.\nPRESIDEN\nREPUBLIK INDONESIA\nHubungan dan kerja sama luar negeri ini dikembang kan dengan\nmengutamakan kepentingan nasional.\nAyat (4)\nCukup jelas\nPasal 27\nAyat (1)\nYang dimaksud dengan keadaan sangat mendesak dan terpaksa adalah\nkeadaan tertentu yang ditandai oleh adanya gangguan dan/atau patut diduga\nakan segera terjadi gangg uan terhadap ketertiban dan keamanan umum,\nsedangkan menurut perkiraan, kekuatan atau kemampuan Kepolisian\nNegara Republik Indonesia tidak mencukupi untuk menangani dan/atau\nmencegah terjadinya gangguan tersebut, termasuk pula adanya kegiatan\nmasyarakat at au pemerintah yang memerlukan pengerahan kekuatan\nKepolisian Negara Republik Indonesia agar kegiatan dimaksud dapat\nberlangsung dengan tertib dan aman.\nDalam pelaksanaan penggunaan unsur Angkatan Bersenjata Republik\nIndonesia lainnya tanggung jawab dan k ewenangan operasional ada pada\nKepolisian Negara Republik Indonesia.\nAyat (2)\nCukup jelas\nPasal 28\nCukup Jelas\nPasal 29…\nPasal 29\nCukup jelas\nPasal 30\nPRESIDEN\nREPUBLIK INDONESIA\nCukup jelas\nPasal 31\nCukup jelas\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 3710"
+   }
+  }
+ ]
+}

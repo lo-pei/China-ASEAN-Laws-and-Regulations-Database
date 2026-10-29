@@ -1,0 +1,72 @@
+{
+ "id": "PH-H19973",
+ "title": {
+  "zh": null,
+  "en": "Modifying the Rates of Import Duty on Certain Imported Articles as Provided Under Republic Act No. 1937, Otherwise Known as the Tariff and Customs Code of the Philippines, as Amended",
+  "orig": "Modifying the Rates of Import Duty on Certain Imported Articles as Provided Under Republic Act No. 1937, Otherwise Known as the Tariff and Customs Code of the Philippines, as Amended"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p158",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1974-05-08",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Executive Order No. 428",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1000,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/07_行政命令_EO/EO_00428_1974_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 EO_00428_1974_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H19973-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Sec 1"
+   },
+   "text": {
+    "en": "The articles specifically listed hereunder as classified under Section 104 of republic Act No. 1937, as\namended by Presidential Decree No. 230, shall pay the following rates of import duty:\n\"Tariff Heading No.\nDescription of Articles\nRate of Duty\n15.07\nFixed vegetable oils, fluid or solid, crude, refined or purified:\nA. Linseed, soya bean, palm, tung and oiticica\nEssential oils (terpeneless or not); concretes and absolutes; resinoids:\nA. Peppermint and spearmint oils; lime and lemon oils"
+   }
+  },
+  {
+   "id": "PH-H19973-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Sec 2"
+   },
+   "text": {
+    "en": "After the expiration of thirty (30) days from the issuance of this Order, all the above-described articles\nentered or withdrawn from warehouse in the Philippines for consumption shall be subject to the rates of\nimport duty herein prescribed."
+   }
+  },
+  {
+   "id": "PH-H19973-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Sec 3"
+   },
+   "text": {
+    "en": "Any unwarranted increase in the prices of local products benefited by these tariff changes may be\nsufficient ground for the revocation of such tariff changes.\nDONE in the City of Manila, this 8th day of May, in the year of Our Lord, nineteen hundred and seventy-four."
+   }
+  }
+ ]
+}

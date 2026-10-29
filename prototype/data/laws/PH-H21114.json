@@ -1,0 +1,72 @@
+{
+ "id": "PH-H21114",
+ "title": {
+  "zh": null,
+  "en": "Temporarily Suspending the Exportation of Copra",
+  "orig": "Temporarily Suspending the Exportation of Copra"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p159",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1982-09-11",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Executive Order No. 828",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 833,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/07_行政命令_EO/EO_00828_1982_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 EO_00828_1982_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H21114-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Sec 1"
+   },
+   "text": {
+    "en": "Until otherwise ordered by the President of the Philippines, the exportation of copra by any person,\nfirm or entity is hereby temporarily suspended effective immediately while copra production is insufficient to\nsupply the requirements of the local oil mills."
+   }
+  },
+  {
+   "id": "PH-H21114-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Sec 2"
+   },
+   "text": {
+    "en": "The Philippine Coconut Authority is hereby directed to suspend all applications for license to export\ncopra and, in consultation with the different sectors of the coconut industry, to formulate and recommend for\nthe approval of the President additional feasible measures to achieve increased copra production and to insure\ncopra availability to enable the country's oil millers to fulfill the requirements of the domestic and world"
+   }
+  },
+  {
+   "id": "PH-H21114-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Sec 3"
+   },
+   "text": {
+    "en": "This order shall take effect immediately.\nDone in the City of Manila, this 11th day of September, in the year of Our Lord, nineteen hundred and"
+   }
+  }
+ ]
+}

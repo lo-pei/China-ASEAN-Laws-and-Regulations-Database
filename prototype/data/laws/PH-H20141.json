@@ -1,0 +1,52 @@
+{
+ "id": "PH-H20141",
+ "title": {
+  "zh": null,
+  "en": "Amending Executive Order No. 456",
+  "orig": "Amending Executive Order No. 456"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p158",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1975-12-08",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Executive Order No. 458",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 1,
+ "chars": 586,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/07_行政命令_EO/EO_00458_1975_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 1 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 EO_00458_1975_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H20141-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Sec 1"
+   },
+   "text": {
+    "en": "Tariff heading No. 85.20 of Section 104 of Republic Act No. 1937, as modified by Executive Order\nNo. 456, is hereby amended to read as follows:\n\"Sec. 1. The articles specifically listed hereunder as classified under Section 104 of Republic Act No. 1937\nshall pay the following rates of import duty:\nTariff Heading Number\nDescription of Articles\nRate of Duty\n85.20\n….\nA. Infra-red and ultra-violet lamp bulbs including reflector and mercury lamp bulbs; lamp bulbs for motor\nDone in the City of Manila, this 8th day of December, in the year of Our Lord, nineteen hundred and\nseventy-five."
+   }
+  }
+ ]
+}

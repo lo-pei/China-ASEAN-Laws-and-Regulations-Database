@@ -1,0 +1,716 @@
+{
+ "id": "ID-H564",
+ "title": {
+  "zh": "移民法",
+  "en": "Law on Immigration",
+  "id": "KEIMIGRASIAN",
+  "orig": "KEIMIGRASIAN",
+  "vi": "Luật về Xuất nhập cảnh",
+  "th": "พระราชบัญญัติว่าด้วยการตรวจคนเข้าเมือง",
+  "ms": "Akta tentang Imigresen"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02a",
+ "language": "id",
+ "level": "law",
+ "category": "04_劳工与行政法",
+ "status": "active",
+ "promulgatedDate": "1992",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU9-1992",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 48,
+ "chars": 60368,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU_NO_9_TH_1992.pdf&fl=P00929"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\04_劳工与行政法\\印尼_文本_1992_KEIMIGRASIAN.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 68 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H564-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\n\nDalam Undang-undang ini yang dimaksud dengan:\n1. Keimigrasian adalah hal ihwal lalu  lintas orang yang masuk atau ke\nluar wilayah Negara Republik Indonesia dan pengawasan orang asing\ndi wilayah Negara Republik Indonesia.\n2. Wilayah Negara Republik Indonesia yang selanjutnya disingkat\nwilayah Indonesia adalah seluruh wilayah Negara Republik Indonesia\nyang meliputi darat, laut, dan udara berdasarkan peraturan\nperundang-undangan yang berlaku,\n3. Surat Perjalanan adalah doku men resmi yang dikeluarkan oleh\npejabat yang berwenang dari suatu negara yang memuat identitas\npemegangnya dan berlaku untuk melakukan perjalanan antar\nnegara.\n4. Tempat Pemeriksaan Imigrasi adalah pelabuhan, bandar udara, atau\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\ntempat-tempat lain yang ditetapkan oleh Menteri sebagai tempat\nmasuk atau ke luar wilayah Indonesia.\n5. Menteri adalah Menteri yang li ngkup tugas dan tanggung jawabnya\nmeliputi bidang keimigrasian.\n6. Orang Asing adalah orang bukan Warga Negara Republik Indonesia.\n7. Visa untuk Republik Indonesia yang selanjutnya disebut Visa adalah\nizin tertulis yang diberikan oleh pejabat yang berwenang pada\nPerwakilan Republik Indonesia atau di tempat lainnya yang\nditetapkan oleh Pemerintah Republik Indonesia yang memuat\npersetujuan bagi orang asing untuk masuk dan melakukan\nperjalanan ke wilayah Indonesia.\n8. Izin Masuk adalah izin yang diterakan pada Visa atau Surat\nPerjalanan orang asing untuk memasuki wilayah Indonesia yang\ndiberikan oleh Pejabat Imigrasi di Tempat Pemeriksaan Imigrasi.\n9. Izin Masuk Kembali adalah izin yang diterakan pada Surat\nPerjalanan orang asing yang mempunyai izin tinggal di Indonesia\nuntuk masuk kembali ke wilayah Indonesia.\n10.Tanda Bertolak adalah tanda tert entu yang diterakan oleh Pejabat\nImigrasi di Tempat Pemeriksaan Imigrasi dalam Surat Perjalanan\nsetiap orang yang akan meninggalkan wilayah Indonesia.\n11.Alat Angkut adalah kapal laut, pesawat udara, atau sarana\ntransportasi lainnya yang lazim dipergunakan untuk mengangkut\norang.\n12.Pencegahan adalah larangan ya ng bersifat sementara terhadap\norang orang tertentu untuk ke luar dari wilayah Indonesia\nberdasarkan alasan tertentu.\n13.Penangkalan adalah larangan yang bersifat sementara terhadap\norang-orang tertentu untuk masuk ke wilayah Indonesia berdasarkan\nalasan tertentu.\n14.Tindakan Keimigrasian adalah tindakan administratif dalam bidang\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nkeimigrasian di luar proses peradilan.\n15.Karantina Imigrasi adalah tempat penampungan sementara bagi\norang asing yang dikenakan proses pengusiran atau deportasi atau\ntindakan keimigrasian lainnya.\n16.Pengusiran atau deportasi adal ah tindakan mengeluarkan orang\nasing dari wilayah Indonesia karena keberadaannya tidak\ndikehendaki."
+   }
+  },
+  {
+   "id": "ID-H564-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\n\nSetiap Warga Negara Indonesia berhak melakukan perjalanan ke luar\natau masuk wilayah Indonesia.\n\nBAB II\nMASUK DAN KE LUAR WILAYAH INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H564-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\n\nSetiap orang yang masuk atau ke luar wilayah Indonesia wajib\nmemiliki Surat Perjalanan."
+   }
+  },
+  {
+   "id": "ID-H564-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\n\n(1) Setiap orang dapat ke luar wi layah Indonesia setelah mendapat\nTanda Bertolak.\n(2) Setiap orang asing dapat masuk ke wilayah Indonesia setelah\nmendapat Izin Masuk.\n\n\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H564-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\n\n(1) Setiap orang yang masuk atau ke luar wilayah Indonesia wajib\nmelalui pemeriksaan oleh Pejabat Imigrasi di Tempat\nPemeriksaan Imigrasi.\n(2) Tempat Pemeriksaan Imigrasi sebagaimana dimaksud dalam ayat\n(1) ditetapkan oleh Menteri."
+   }
+  },
+  {
+   "id": "ID-H564-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\n\n(1) Setiap orang asing yang masuk wilayah Indonesia wajib memiliki\nVisa.\n(2) Visa diberikan kepada orang asing yang maksud dan tujuan\nkedatangannya di Indonesia bermanfaat serta. tidak akan\nmenimbulkan gangguan terhadap ketertiban dan keamanan\nnasional."
+   }
+  },
+  {
+   "id": "ID-H564-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\n\n(1) Dikecualikan dari kewajiban memiliki Visa sebagaimana dimaksud\ndalam Pasal 6 ayat (1) adalah:\na. orang asing warga negara dari negara yang berdasarkan\nKeputusan Presiden tidak diwajibkan memiliki Visa;\nb. orang asing yang memiliki Izin Masuk Kembali;\nc. kapten atau nakhoda dan, aw ak yang bertugas pada alat\nangkut yang berlabuh di pelab uhan atau mendarat di bandar\nudara di wilayah Indonesia;\nd. penumpang transit di pelabuhan atau bandar udara di wilayah\nIndonesia sepanjang tidak ke luar dari tempat transit yang\nberada di daerah Tempat Pemeriksaan Imigrasi.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n(2) Ketentuan lebih lanjut mengenai jenis, persyaratan dan hal-hal\nlain yang berkaitan dengan Visa diatur dengan Peraturan\nPemerintah."
+   }
+  },
+  {
+   "id": "ID-H564-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n\nPejabat Imigrasi di Tempat Pemeriksaan Imigrasi dapat menolak atau\ntidak memberi izin kepada orang asing untuk masuk ke wilayah\nIndonesia apabila orang asing tersebut:\na. tidak memiliki Surat Perjalanan yang sah;\nb. tidak memiliki Visa kecuali yang tidak diwajibkan memiliki Visa\nsebagaimana dimaksud dalam Pasal 7 ayat (1) huruf a;\nc. menderita gangguan jiwa atau penyakit menular yang\nmembahayakan kesehatan umum;\nd. tidak memiliki Izin Masuk Kembali atau tidak mempunyai izin untuk\nmasuk ke negara lain;\ne. ternyata telah memberi keterangan yang tidak benar dalam\nmemperoleh Surat Perjalanan dan/atau Visa."
+   }
+  },
+  {
+   "id": "ID-H564-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n\nPenanggung jawab alat angkut yang  datang atau akan berangkat ke\nluar wilayah Indonesia diwajibkan untuk:\na. memberitahukan kedatangan atau, rencana keberangkatan;\nb. menyampaikan daftar penumpang dan daftar awak alat angkut yang\nditandatangani kepada Pejabat Imigrasi;\nc. mengibarkan bendera isyarat bagi kapal laut yang datang dari luar.\nwilayah Indonesia dengan membawa penumpang;\nd. melarang setiap orang naik atau turun dari alat angkut tanpa izin\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nPejabat Imigrasi selama dilakukan pemeriksaan keimigrasian;\ne. membawa kembali ke luar wilayah Indonesia setiap orang asing\nyang datang dengan alat angkutnya yang tidak mendapat Izin Masuk\ndari Pejabat Imigrasi di Tempat Pemeriksaan Imigrasi."
+   }
+  },
+  {
+   "id": "ID-H564-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\n\nPejabat Imigrasi yang bertugas di Tempat Pemeriksaan Imigrasi,\nberwenang naik ke alat angkut yang berlabuh di pelabuhan atau\nmendarat di bandar udara untuk kepentingan pemeriksaan\nkeimigrasian.\n\nBAB III\nPENCEGAHAN DAN PENANGKALAN\n\nBagian Pertama\nPencegahan"
+   }
+  },
+  {
+   "id": "ID-H564-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\n\n(1) Wewenang dan tanggung jawab pencegahan dilakukan oleh:\n a. Menteri, sepanjang menyangkut urusan yang bersifat\nkeimigrasian;\n b. Menteri Keuangan, sepanjang menyangkut urusan piutang\nnegara;\n c. Jaksa Agung, sepanjang menyangkut pelaksanaan ketentuan"
+   }
+  },
+  {
+   "id": "ID-H564-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32 huruf g Undang-undang Nomor 5 T"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {
+    "id": "huruf g Undang-undang Nomor 5 Tahun 1991 tentang"
+   },
+   "text": {
+    "id": "Pasal 32 huruf g Undang-undang Nomor 5 Tahun 1991 tentang\nKejaksaan Republik Indonesia;\n d. Panglima Angkatan Bersenjata Republik Indonesia, sepanjang\nmenyangkut pemeliharaan dan penegakan keamanan dan\npertahanan negara sebagaimana dimaksud dalam\nUndang-undang Nomor 20 Tahun 1982 tentang\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nKetentuan-ketentuan Pokok Pertahanan Keamanan Negara\nRepublik Indonesia, sebagaimana telah diubah dengan\nUndang-undang Nomor 1 Tahun 1988.\n(2) Pelaksanaan atas keputusan pencegahan sebagaimana dimaksud\ndalam ayat (1) dilakukan oleh Menteri atau Pejabat Imigrasi yang\nditunjuk olehnya.\n\nPasal 12\n\n(1) Pencegahan ditetapkan dengan keputusan tertulis.\n(2) Keputusan sebagaimana dimaksud dalam ayat (1) memuat\nsekurang kurangnya:\n a. identitas orang yang terkena pencegahan;\n b. alasan pencegahan; dan\n c. jangka waktu pencegahan.\n(3) Keputusan sebagaimana dimaksud dalam ayat (1) disampaikan\ndengan surat tercatat kepada orang atau orang-orang yang\nterkena pencegahan selambat-lambatnya 7 (tujuh) hari terhitung\nsejak tanggal penetapan.\n\nPasal 13\n\n(1) Keputusan pencegahan sebagaimana dimaksud dalam Pasal 11\nayat (1) huruf a dan b berlaku unt uk jangka waktu paling lama 6\n(enam) bulan, dan dapat diperpanjang untuk paling banyak 2\n(dua) kali masing-masing tidak lebih dari 6 (enam) bulan.\n(2) Keputusan pencegahan sebagaimana dimaksud dalam Pasal 11\nayat (1) huruf c berlaku untuk jangka waktu sesuai dengan\nkeputusan Jaksa Agung.\n(3) Keputusan pencegahan sebagaimana dimaksud dalam Pasal 11\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nayat (1) huruf d berlaku untuk jangka waktu paling lama 6\n(enam) bulan, dan setiap kali dapat diperpanjang untuk paling\nlama 6 (enam) bulan dengan ketentuan seluruh masa\nperpanjangan pencegahan tersebut tidak lebih dari 2 (dua)\ntahun.\n(4) Apabila tidak ada keputusan perpanjangan sebagaimana\ndimaksud dalam ayat (1) dan ay at (3) pencegahan tersebut\nberakhir demi hukum.\n\nPasal   14\n\nBerdasarkan keputusan pencegahan dari pejabat-pejabat sebagaimana\ndimaksud dalam Pasal 11 ayat (1),  Pejabat Imigrasi di Tempat\nPemeriksaan Imigrasi wajib menolak orang-orang tertentu ke luar\nwilayah Indonesia.\n\nBagian Kedua\nPenangkalan\n\nPasal 15\n\n(1) Wewenang dan tanggung jawab penangkalan terhadap orang\nasing dilakukan oleh:\na. Menteri, sepanjang menyangkut urusan yang bersifat\nkeimigrasian;\nb. Jaksa Agung, sepanjang menyangkut pelaksanaan ketentuan\nPasal 32 huruf g  Undang-undang Nomor 5 Tahun 1991 tentang\nKejaksaan Republik Indonesia;\nc. Panglima Angkatan Bersenjata Republik Indonesia, sepanjang\nmenyangkut pemeliharaan dan penegakan keamanan dan\npertahanan negara sebagaimana dimaksud dalam Undang-undang\nNomor 20 Tahun 1982 tenlang Ketentuan-ketentuan Pokok\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nPertahanan Keamanan Negara Republik Indonesia, sebagaimana\ntelah diubah dengan Undang-undang Nomor 1 Tahun 1988.\n(2) Pelaksanaan atas keputusan penangkalan sebagaimana dimaksud\ndalam ayat (1) dilakukan oleh Menteri atau Pejabat Imigrasi yang\nditunjuk olehnya.\n\nPasal   16\n\n(1) Wewenang dan tanggung jawab penangkalan terhadap Warga\nNegara Indonesia dilakukan oleh sebuah Tim yang dipimpin oleh\nMenteri dan anggotanya terdiri dari unsur-unsur:\n a. Markas Besar Angkatan Bersenjata Republik Indonesia;\n b. Kejaksaan Agung Republik Indonesia;\n c. Departemen Luar Negeri;\n d. Departemen Dalam Negeri;\n e. Badan Koordinasi Bantuan Pemantapan Stabilitas Nasional; dan\n f. Badan Koordinasi Intelijen Negara.\n(2) Pelaksanaan atas keputusan penangkalan sebagaimana dimaksud\ndalam ayat (1) dilakukan oleh Menteri atau Pejabat Imigrasi yang\nditunjuk olehnya.\n\nPasal 17\n\nPenangkalan terhadap orang asing dilakukan karena  :\na. diketahui atau diduga terlibat dengan kegiatan sindikat kejahatan\ninternasional;\nb. pada saat berada di negaranya sendiri atau di negara lain bersikap\nbermusuhan terhadap Pemerintah Indonesia atau melakukan\nperbuatan yang mencemarkan nama baik bangsa dan Negara\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nIndonesia;\nc. diduga melakukan perbuatan yang bertentangan dengan keamanan\ndan ketertiban umum, kesusilaan, agama dan adat kebiasaan\nmasyarakat Indonesia;\nd. atas permintaan suatu negara, orang asing yang berusaha\nmenghindarkan diri dari ancaman dan pelaksanaan hukuman di\nnegara tersebut karena melakukan kejahatan yang juga diancam\npidana menurut hukum yang berlaku di Indonesia;\ne. pernah diusir atau dideportasi dari wilayah Indonesia ; dan\nf. alasan-alasan lain yang berkaita n dengan keimigrasian yang diatur\nlebih lanjut dengan Peraturan Pemerintah.\n\nPasal 18\n\nWarga Negara Indonesia hanya dapat dikenakan penangkalan dalam\nhal:\na. telah lama meninggalkan Indonesia atau tinggal menetap atau telah\nmenjadi penduduk suatu negara lain dan melakukan tindakan atau\nbersikap bermusuhan terhadap Negara atau Pemerintah Republik\nIndonesia;\nb. apabila masuk wilayah Indonesia dapat mengganggu jalannya\npembangunan, menimbulkan perpecahan bangsa, atau dapat\nmengganggu stabilitas nasional; atau\nc. apabila masuk wilayah Indonesia dapat mengancam keselamatan\ndiri atau keluarganya.\nPasal 19\n\n(1) Penangkalan ditetapkan dengan keputusan tertulis.\n(2) Keputusan sebagaimana dimaksud dalam ayat (1) memuat\nsekurang kurangnya:\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n a. identitas orang yang terkena penangkalan;\n b. alasan penangkalan; dan\n c. jangka waktu penangkalan.\n(3) Keputusan sebagaimana dimaksud dalam ayat (1) dikirimkan\nkepada perwakilan-perwakilan Republik Indonesia.\n\nPasal 20\n\n(1) Keputusan penangkalan sebagaimana dimaksud dalam Pasal 15\nayat (1) huruf a dan c, berlaku unt uk jangka waktu paling lama 1\n(satu) tahun dan setiap kali da pat diperpanjang untuk jangka\nwaktu, yang sama atau kurang dari waktu tersebut.\n(2) Keputusan penangkalan sebagaimana dimaksud dalam Pasal 15\nayat (1) huruf b, berlaku untuk jangka waktu sesuai dengan\nkeputusan Jaksa Agung.\n (3) Apabila tidak ada keputusan perpanjangan sebagaimana\ndimaksud dalam ayat (1), penangkalan tersebut berakhir demi\nhukum.\n\nPasal 21\n\n(1) Keputusan penangkalan terhadap Warga Negara Indonesia\nsebagaimana dimaksud dalam Pasal 16 berlaku untuk jangka\nwaktu paling lama 6 (enam) bulan dan setiap kali dapat\ndiperpanjang untuk paling lama 6 (enam) bulan dengan\nketentuan seluruh masa perpanjangan penangkalan tersebut\ntidak lebih dari 2 (dua) tahun.\n(2) Apabila tidak ada keputusan perpanjangan sebagaimana\ndimaksud dalam ayat (1), penangkalan tersebut berakhir demi\nhukum.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\nPasal 22\n\nBerdasarkan keputusan penangkalan dari pejabat-pejabat\nsebagaimana dimaksud dalam Pasal 15 ayat (1) dan Pasal 16 ayat (1)\n Pejabat Imigrasi di Tempat Pemeriksaan Imigrasi wajib menolak\norang-orang tertentu masuk wilayah Indonesia.\n\nPasal 23\n\nKetentuan lebih lanjut mengenai tata cara pelaksanaan penangkalan\ndiatur dengan Peraturan Pemerintah.\n\nBAB  IV\nKEBERADAAN ORANG ASING\nDI WILAYAH INDONESIA\n\nPasal 24\n\n(1) Setiap orang asing yang bera da di wilayah Indonesia wajib\nmemiliki izin keimigrasian.\n(2) izin sebagaimana dimaksud dalam ayat (1), terdiri atas:\n a. Izin Singgah;\n b. Izin Kunjungan;\n c. Izin Tinggal Terbatas;\n d. Izin Tinggal Tetap.\nPasal 25\n\n(1) Izin Singgah diberikan kepada  orang asing yang memerlukan\nsinggah di wilayah Indonesia untuk meneruskan perjalanan ke\nnegara lain.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n(2) Izin Kunjungan diberikan ke pada orang asing berkunjung ke\nwilayah Indonesia untuk waktu yang singkat dalam rangka tugas\npemerintahan, pariwisata, kegiatan sosial budaya atau usaha.\n(3) Izin Tinggal Terbatas diberikan kepada orang asing untuk tinggal\ndi wilayah Indonesia dalam jangka waktu yang terbatas.\n(4) Izin Tinggal Tetap diberikan kepada orang asing untuk tinggal\nmenetap di wilayah Indonesia.\n\nPasal 26\n\n(1) Ketentuan Pasal 8 berlaku pula terhadap permohonan izin\nsebagaimana dimaksud dalam Pasal 25.\n(2) Izin Tinggal Tetap tidak diberikan kepada orang asing yang\nmemperoleh izin untuk masuk ke wilayah Indonesia yang tidak\nmemiliki paspor kebangsaan negara tertentu.\n\nPasal 27\n\nPemegang Izin Tinggal Terbatas at au Izin Tinggal Tetap yang akan\nmelakukan perjalanan ke luar wilayah Indonesia dan bermaksud untuk\nkembali, dapat diberikan Izin Masuk Kembali.\n\nPasal 28\n\nKetentuan lebih lanjut mengenai syarat dan tata cara permohonan,\npemberian atau penolakan izin keimigrasian serta hal-hal lain yang\nberkenaan dengan keberadaan orang asing di wilayah Indonesia diatur\ndengan Peraturan Pemerintah.\n\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nBAB V\nSURAT PERJALANAN REPUBLIK INDONESIA\n\nPasal 29\n\n(1) Surat Perjalanan Republik Indonesia terdiri atas:\n a. Paspor Biasa;\n b. Paspor Diplomatik;\n c. Paspor Dinas;\n d. Paspor Haji;\n e. Paspor untuk Orang Asing;\n f. Surat Perjalanan Laksana Paspor untuk Warga Negara\nIndonesia;\n g. Surat Perjalanan Laksana Paspor untuk Orang Asing;\n h. Surat Perjalanan Laksana Paspor Dinas.\n(2) Surat Perjalanan Republik Indonesia adalah dokumen negara.\n\nPasal 30\n\n(1) Paspor Biasa diberikan kepada Warga Negara Indonesia yang akan\nmelakukan perjalanan ke luar wilayah Indonesia.\n(2) Paspor biasa diberikan juga kepada Warga Negara Indonesia yang\nbertempat tinggal di luar negeri.\n(3) Dalam keadaan khusus apabila Paspor Biasa tidak dapat\ndiberikan, sebagai penggantinya dikeluarkan Surat Perjalanan\nLaksana Paspor untuk Warga Negara Indonesia.\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nPasal 31\n\nPaspor Diplomatik diberikan kepada Warga Negara Indonesia yang akan\nmelakukan perjalanan ke luar wilayah Indonesia dalam rangka\npenempatan atau perjalanan untuk tugas yang bersifat diplomatik.\n\nPasal 32\n\n(1) Paspor Dinas diberikan kepada Warga Negara Indonesia yang akan\nmelakukan perjalanan ke luar wilayah Indonesia dalam rangka\npenempatan atau perjalanan dinas yang bukan bersifat\ndiplomatik.\n(2) Dalam keadaan khusus apabila Paspor Dinas tidak dapat\ndiberikan, sebagai penggantinya dikeluarkan Surat Perjalanan\nLaksana Paspor Dinas."
+   }
+  },
+  {
+   "id": "ID-H564-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 33\n\nPaspor Haji diberikan kepada Warga Negara Indonesia yang akan\nmelakukan perjalanan ke luar wilayah Indonesia dalam  rangka\nmenunaikan ibadah haji."
+   }
+  },
+  {
+   "id": "ID-H564-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 34\n\n(1) Paspor untuk Orang Asing dapa t diberikan kepada orang asing,\nyang pada saat berlakunya Undang-undang ini telah memiliki Izin\nTinggal Tetap, akan melakukan perjalanan ke luar.wilayah\nIndonesia dan tidak mempunyai Surat Perjalanan serta dalam\nwaktu yang dianggap layak tidak dapat memperoleh dari\nnegaranya atau negara lain.\n(2) Paspor untuk Orang Asing tidak berlaku lagi pada saat\npemegangnya memperoleh Surat Perjalanan dari negara lain.\n\n\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H564-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 35\n\n(1) Surat Perjalanan Laksana Paspor untuk Orang Asing dapat\ndiberikan kepada orang asing yang tidak mempunyai Surat\nPerjalanan yang sah dan:\n a. atas kehendak sendiri ke luar dari wilayah Indonesia,\nsepanjang orang asing yang bersangkutan tidak terkena\npencegahan;\n b. dikenakan tindakan pengusiran atau deportasi; atau\n c. dalam keadaan tertentu yang tidak bertentangan dengan\nkepentingan nasional, diberi izin untuk masuk ke wilayah\nIndonesia.\n(2) Surat Perjalanan Laksana Paspor sebagaimana dimaksud dalam\nayat (1) hanya diberikan untuk satu kali perjalanan."
+   }
+  },
+  {
+   "id": "ID-H564-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 36\n\nAnak-anak yang berumur di bawah 16 (enam belas) tahun dapat\ndiikutsertakan dalam Surat Perjalanan orang tuanya."
+   }
+  },
+  {
+   "id": "ID-H564-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 37\n\nKetentuan lebih lanjut mengenai syarat dan tata cara permohonan,\npemberian atau pencabutan serta ha l-hal lain yang berkenaan dengan\nSurat Perjalanan Republik Indonesia diatur dengan Peraturan\nPemerintah.\n\n\n\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nBAB VI\nPENGAWASAN ORANG ASING\nDAN TINDAKAN KEIMIGRASIAN"
+   }
+  },
+  {
+   "id": "ID-H564-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 38\n\n(1) Pengawasan terhadap orang asing di Indonesia meliputi:\n a. masuk dan keluarnya orang asing ke dan dari wilayah\nIndonesia;\n b. keberadaan serta kegiatan orang asing di wilayah Indonesia.\n(2) untuk kelancaran dan ketertiban pengawasan, Pemerintah\nmenyelenggarakan pendaftaran orang asing yang berada di\nwilayah Indonesia."
+   }
+  },
+  {
+   "id": "ID-H564-A39",
+   "no": 39,
+   "noLabel": {
+    "id": "Pasal 39"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 39\n\nSetiap orang asing yang berada di wilayah Indonesia wajib:\na. memberikan segala keterangan ya ng diperlukan mengenai identitas\ndiri dan atau keluarganya, perubahan status sipil dan\nkewarganegaraannya serta perubahan alamatnya;\nb. memperlihatkan Surat Perjalanan atau dokumen keimigrasian yang\ndimilikinya pada waktu diperlukan dalam rangka pengawasan;\nc. mendaftarkan diri jika berada di Indonesia lebih dari 90 (sembilan\npuluh) hari."
+   }
+  },
+  {
+   "id": "ID-H564-A40",
+   "no": 40,
+   "noLabel": {
+    "id": "Pasal 40"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 40\n\nPengawasan orang asing dilaksanakan dalam bentuk dan cara:\na. pengumpulan dan pengolahan data orang asing yang masuk atau ke\nluar wilayah Indonesia;\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nb. pendaftaran orang asing yang berada di wilayah Indonesia;\nc. pemantauan, pengumpulan, dan pengolahan bahan keterangan dan\ninformasi mengenai kegiatan orang asing;\nd. penyusunan daftar nama-nama or ang asing yang tidak dikehendaki\nmasuk atau ke luar wilayah Indonesia; dan\ne. kegiatan lainnya."
+   }
+  },
+  {
+   "id": "ID-H564-A41",
+   "no": 41,
+   "noLabel": {
+    "id": "Pasal 41"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 41\n\nPelaksanaan pengawasan terhadap orang asing yang berada di wilayah\nIndonesia dilakukan Menteri dengan koordinasi bersama Badan atau\nInstansi Pemerintah yang terkait."
+   }
+  },
+  {
+   "id": "ID-H564-A42",
+   "no": 42,
+   "noLabel": {
+    "id": "Pasal 42"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 42\n\n(1) Tindakan keimigrasian dilakukan terhadap orang asing yang\nberada di wilayah Indonesia yang melakukan kegiatan yang\nberbahaya atau patut diduga akan berbahaya bagi keamanan dan\nketertiban umum, atau tidak menghormati atau menaati\nperaturan perundang undangan yang berlaku.\n(2) Tindakan keimigrasian sebagaimana dimaksud dalam ayat (1)\ndapat berupa:\n a. pembatasan, perubahan atau pembatalan izin keberadaan;\n b. larangan untuk berada di suatu atau, beberapa tempat\ntertentu di wilayah Indonesia;\n c. keharusan untuk bertempat tinggal di suatu tempat tertentu di\nwilayah Indonesia;\n d. pengusiran atau deportasi dari wilayah Indonesia atau\npenolakan masuk ke wilayah Indonesia.\n\n\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H564-A43",
+   "no": 43,
+   "noLabel": {
+    "id": "Pasal 43"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 43\n\n(1) Keputusan mengenai tindakan keimigrasian harus disertai dengan\nalasan sebagaimana dimaksud dalam Pasal 42 ayat (1).\n(2) Setiap orang asing yang dikena kan tindakan keimigrasian dapat\nmengajukan keberatan kepada Menteri."
+   }
+  },
+  {
+   "id": "ID-H564-A44",
+   "no": 44,
+   "noLabel": {
+    "id": "Pasal 44"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 44\n\n(1) Setiap orang asing yang bera da di wilayah Indonesia dapat\nditempatkan di Karantina Imigrasi:\n a. apabila berada di wilayah Indonesia tanpa memiliki izin\nkeimigrasian yang sah; atau\n b. dalam rangka menunggu proses pengusiran atau deportasi ke\nluar wilayah Indonesia.\n(2) Karena alasan tertentu orang asing sebagaimana dimaksud dalam\nayat (1) dapat ditempatkan di tempat lain."
+   }
+  },
+  {
+   "id": "ID-H564-A45",
+   "no": 45,
+   "noLabel": {
+    "id": "Pasal 45"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 45\n\n(1) Setiap orang asing yang berada di wilayah Indonesia melampaui\nwaktu tidak lebih dari 60 (enam puluh) hari dari izin keimigrasian\nyang diberikan, dikenakan biaya beban.\n(2) Penanggung jawab alat angkut yang tidak memenuhi\nkewajibannya sebagaimana dimaksud dalam Pasal 9 dikenakan\nbiaya beban.\n(3) Penetapan biaya beban sebaga imana dimaksud dalam ayat (1)\ndan (2) diatur oleh Menteri dengan persetujuan Menteri\nKeuangan.\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H564-A46",
+   "no": 46,
+   "noLabel": {
+    "id": "Pasal 46"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 46\n\nKetentuan lebih lanjut mengenai pengawasan orang asing dan tindakan\nkeimigrasian diatur dengan Peraturan Pemerintah.\n\nBAB VII\nPENYIDIKAN"
+   }
+  },
+  {
+   "id": "ID-H564-A47",
+   "no": 47,
+   "noLabel": {
+    "id": "Pasal 47"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 47\n\n (1) Selain Penyidik Pejabat Polisi Negara Republik Indonesia, juga\nPejabat Pegawai Negeri Sipil tertentu di lingkungan Departemen\nyang lingkup tugas dan tanggung jawabnya meliputi pembinaan\nkeimigrasian, diberi wewenang khusus sebagai penyidik\nsebagaimana dimaksud dalam Undang-undang Nomor 8 Tahun\n1981 tentang Hukum Acara Pidana, untuk melakukan penyidikan\ntindak pidana keimigrasian.\n(2) Penyidik Pejabat Pegawai Negeri Sipil sebagaimana dimaksud\ndalam ayat (1) berwenang:\n a. menerima laporan tentang adanya tindak pidana keimigrasian;\n b. memanggil, memeriksa, menggeledah, menangkap, menahan\nseorang yang disangka melakukan tindak pidana keimigrasian;\n c. memeriksa dan/atau menyita surat-surat, dokumen-dokumen,\nSurat Perjalanan, atau benda-benda yang ada hubungannya\ndengan tindak pidana keimigrasian;\n d. memanggil orang untuk didengar keterangannya sebagai saksi;\n e. melakukan pemeriksaan di tempat-tempat tertentu yang\ndiduga terdapat surat-surat, dokumen-dokumen, Surat\nPerjalanan, atau benda-benda lain yang ada hubungannya\ndengan tindak  pidana keimigrasian;\n f. mengambil sidik jari dan memotret tersangka.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n(3) Kewenangan Penyidik sebagaimana dimaksud dalam ayat (2)\ndilaksanakan menurut Undang-undang Nomor 8 Tahun 1981\ntentang Hukum Acara Pidana.\n\nBAB  VIII\nKETENTUAN PIDANA"
+   }
+  },
+  {
+   "id": "ID-H564-A48",
+   "no": 48,
+   "noLabel": {
+    "id": "Pasal 48"
+   },
+   "chapter": {
+    "id": "BAB  VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 48\n\nSetiap orang yang masuk atau ke lu ar wilayah Indonesia tanpa melalui\npemeriksaan oleh Pejabat Imigrasi di Tempat Pemeriksaan Imigrasi\ndipidana dengan pidana penjara paling lama 3 (tiga) tahun atau denda\npaling banyak Rp. 15.000.000,- (lima belas juta rupiah)."
+   }
+  },
+  {
+   "id": "ID-H564-A49",
+   "no": 49,
+   "noLabel": {
+    "id": "Pasal 49"
+   },
+   "chapter": {
+    "id": "BAB  VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 49\n\nDipidana dengan pidana penjara paling lama 6 (enam) tahun dan\ndenda paling banyak Rp. 30.000.000,- (tiga puluh juta rupiah):\na. orang asing yang dengan sengaja membuat palsu atau memalsukan\nVisa atau izin keimigrasian; atau\nb. orang asing yang dengan sengaja menggunakan Visa atau izin\nkeimigrasian palsu atau yang dipalsukan untuk masuk atau berada di\nwilayah Indonesia."
+   }
+  },
+  {
+   "id": "ID-H564-A50",
+   "no": 50,
+   "noLabel": {
+    "id": "Pasal 50"
+   },
+   "chapter": {
+    "id": "BAB  VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 50\n\nOrang asing yang dengan sengaja menyalahgunakan atau melakukan\nkegiatan yang tidak sesuai dengan maksud pemberian izin keimigrasian\nyang diberikan kepadanya, dipidana  dengan pidana penjara paling\nlama 5 (lima) tahun atau denda pa ling banyak Rp. 25.000.000,- (dua\npuluh lima juta rupiah).\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H564-A51",
+   "no": 51,
+   "noLabel": {
+    "id": "Pasal 51"
+   },
+   "chapter": {
+    "id": "BAB  VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 51\n\nOrang asing yang tidak melakukan kewajibannya sebagaimana\ndimaksud dalam Pasal 39 atau tidak membayar biaya beban\nsebagaimana dimaksud dalam Pasal 45, dipidana dengan pidana\nkurungan paling lama 1 (satu) tahun dan/atau denda paling banyak Rp.\n5.000.000,- (lima juta rupiah)."
+   }
+  },
+  {
+   "id": "ID-H564-A52",
+   "no": 52,
+   "noLabel": {
+    "id": "Pasal 52"
+   },
+   "chapter": {
+    "id": "BAB  VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 52\n\nOrang asing yang izin keimigrasiannya habis berlaku dan masih berada\ndalam wilayah Indonesia melampaui 60 (enam puluh) hari dari batas\nwaktu izin yang diberikan, dipidana dengan pidana penjara paling\nlama 5 (lima) tahun atau denda pa ling banyak Rp 25.000.000,- (dua\npuluh lima juta rupiah)."
+   }
+  },
+  {
+   "id": "ID-H564-A53",
+   "no": 53,
+   "noLabel": {
+    "id": "Pasal 53"
+   },
+   "chapter": {
+    "id": "BAB  VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 53\n\nOrang asing yang berada di wilayah Indonesia secara tidak sah atau\nyang pernah diusir atau dideportasi dan berada kembali di wilayah\nIndonesia secara tidak sah, dipidana dengan pidana penjara paling\nlama 6 (enam) tahun dan/atau denda paling banyak Rp 30.000.000,-\n(tiga puluh juta rupiah)."
+   }
+  },
+  {
+   "id": "ID-H564-A54",
+   "no": 54,
+   "noLabel": {
+    "id": "Pasal 54"
+   },
+   "chapter": {
+    "id": "BAB  VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 54\n\nSetiap orang yang dengan seng aja menyembunyikan, melindungi,\nmemberi pemondokan, memberi penghidupan atau pekerjaan kepada\norang asing yang diketahui atau patut diduga:\na. pernah diusir atau dideportasi dan berada kembali di wilayah\nIndonesia secara tidak sah, dipidana dengan pidana penjara paling\nlama 6 (enam) tahun dan/atau denda paling banyak Rp 30.000.000,-\n(tiga puluh juta rupiah);\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nb. berada di wilayah Indonesia secara tidak sah, dipidana dengan\npidana penjara paling lama 5 (lima) tahun dan/atau denda paling\nbanyak Rp 25.,000.000,- (dua puluh lima juta rupiah);\nc. izin keimigrasiannya habis berlak u, dipidana dengan pidana penjara\npaling lama 1 (satu) tahun atau denda paling banyak Rp 5.000.000,-\n(lima juta rupiah)."
+   }
+  },
+  {
+   "id": "ID-H564-A55",
+   "no": 55,
+   "noLabel": {
+    "id": "Pasal 55"
+   },
+   "chapter": {
+    "id": "BAB  VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  55\n\nSetiap orang yang dengan sengaja:\na. menggunakan Surat Perjalanan Republik Indonesia sedangkan ia\nmengetahui atau sepatutnya menduga bahwa Surat Perjalanan itu\npalsu atau dipalsukan, dipidana de ngan pidana penjara paling lama\n5 (lima) tahun atau  denda paling banyak Rp 25.000.000,- (dua\npuluh lima juta rupiah);\nb. menggunakan Surat Perjalanan orang lain atau Surat Perjalanan\nRepublik Indonesia yang sudah dicabut atau dinyatakan batal, atau\nmenyerahkan kepada orang lain Surat Perjalanan Republik Indonesia\nyang diberikan kepadanya, dengan maksud digunakan secara tidak\nberhak, dipidana dengan pidana penjara paling lama 5 (lima) tahun\natau denda paling banyak Rp 25.000.000,- (dua puluh lima juta\nrupiah);\nc. memberikan data yang tidak sah atau keterangan yang tidak benar\nuntuk memperoleh Surat Perjalanan Republik Indonesia bagi dirinya\nsendiri atau orang lain, dipidana dengan pidana penjara paling lama\n2 (dua) tahun atau denda paling banyak Rp 10.000.000,- (sepuluh\njuta rupiah); atau\nd. memiliki atau menggunakan secara melawan hukum 2 (dua) atau\nlebih Surat Perjalanan Republik Indonesia yang semuanya berlaku,\ndipidana dengan pidana penjara paling lama 2 (dua) tahun atau\ndenda paling banyak Rp 10.000.000,- (sepuluh juta rupiah).\n\n\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H564-A56",
+   "no": 56,
+   "noLabel": {
+    "id": "Pasal 56"
+   },
+   "chapter": {
+    "id": "BAB  VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 56\n\nDipidana dengan pidana penjara pa ling lama 6 (enam) tahun dan/atau\ndenda paling banyak Rp 30.000.000,- (tiga puluh juta rupiah):\na. setiap orang yang dengan sengaja dan melawan hukum mencetak,\nmempunyai, menyimpan blanko Surat Perjalanan Republik Indonesia\natau blanko dokumen keimigrasian; atau\nb. setiap orang yang dengan sengaja dan melawan hukum membuat,\nmempunyai atau menyimpan cap yang dipergunakan untuk\nmensahkan Surat Perjalanan Republik Indonesia atau dokumen\nkeimigrasian,"
+   }
+  },
+  {
+   "id": "ID-H564-A57",
+   "no": 57,
+   "noLabel": {
+    "id": "Pasal 57"
+   },
+   "chapter": {
+    "id": "BAB  VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 57\n\nSetiap orang yang dengan sengaja dan melawan hukum untuk\nkepentingan diri sendiri atau orang lain merusak, menghilangkan atau\nmengubah baik sebagian maupun seluruhnya keterangan atau cap yang\nterdapat dalam Surat Perjalanan Republik Indonesia, dipidana dengan\npidana penjara paling lama 5 (l ima) tahun dan/atau denda paling\nbanyak Rp 25.000.000,- (dua puluh lima juta rupiah)."
+   }
+  },
+  {
+   "id": "ID-H564-A58",
+   "no": 58,
+   "noLabel": {
+    "id": "Pasal 58"
+   },
+   "chapter": {
+    "id": "BAB  VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 58\n\nSetiap orang yang dengan sengaja dan melawan hukum untuk\nkepentingan diri sendiri atau orang lain mempunyai, menyimpan,\nmengubah atau menggunakan data keimigrasian baik secara manual\nmaupun elektronik, dipidana dengan pidana penjara paling lama 3\n(tiga) tahun."
+   }
+  },
+  {
+   "id": "ID-H564-A59",
+   "no": 59,
+   "noLabel": {
+    "id": "Pasal 59"
+   },
+   "chapter": {
+    "id": "BAB  VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 59\n\nPejabat yang dengan sengaja dan melawan hukum memberikan atau\nmemperpanjang berlakunya Surat Perjalanan Republik Indonesia atau\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\ndokumen keimigrasian kepada seseorang yang diketahuinya tidak\nberhak, dipidana dengan pidana penjara paling lama 7 (tujuh) tahun."
+   }
+  },
+  {
+   "id": "ID-H564-A60",
+   "no": 60,
+   "noLabel": {
+    "id": "Pasal 60"
+   },
+   "chapter": {
+    "id": "BAB  VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 60\n\nSetiap orang yang memberi kesempatan menginap kepada orang asing\ndan tidak melaporkan kepada Pejabat Kepolisian Negara Republik\nIndonesia atau Pejabat Pemerintah Daerah setempat yang berwenang\ndalam waktu 24 (dua puluh empat) jam sejak kedatangan orang asing\ntersebut, dipidana dengan pidana kurungan paling lama 1 (satu) tahun\natau denda paling banyak Rp 5.000.000,- (lima juta rupiah)."
+   }
+  },
+  {
+   "id": "ID-H564-A61",
+   "no": 61,
+   "noLabel": {
+    "id": "Pasal 61"
+   },
+   "chapter": {
+    "id": "BAB  VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 61\n\nOrang asing yang sudah mempunyai izin tinggal yang tidak melapor\nkepada kantor Kepolisian Negara Republik Indonesia di tempat tinggal\natau tempat kediamannya dalam wakt u 30 (tiga puluh) hari terhitung\nsejak diperolehnya izin tinggal, dipidana dengan pidana kurungan\npaling lama 1 (satu) tahun atau denda paling banyak Rp 5.000.000,-\n(lima juta rupiah)."
+   }
+  },
+  {
+   "id": "ID-H564-A62",
+   "no": 62,
+   "noLabel": {
+    "id": "Pasal 62"
+   },
+   "chapter": {
+    "id": "BAB  VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 62\n\nTindak pidana sebagaimana tersebut  dalam Pasal 48, 49, 50, 52, 53,\n54, 55, 56, 57, 58, dan Pasal 59 Unda ng-undang ini adalah kejahatan.\nTindak pidana sebagaimana tersebut dalam Pasal 51, 60, dan Pasal 61\nUndang-undang ini adalah pelanggaran.\n\n\n\n\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nBAB IX\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H564-A63",
+   "no": 63,
+   "noLabel": {
+    "id": "Pasal 63"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 63\n\nPada saat mulai berlakunya Undang-undang ini:\na. Izin menetap yang telah diberikan berdasarkan Undang-undang\nNomor 9 Drt. Tahun 1955 tentang Kependudukan Orang Asing\n(Lembaran Negara Tahun 1955 Nomor 53, Tambahan Lembaran\nNegara Nomor 463); dinyatakan tetap berlaku untuk paling lama 3\n(tiga) tahun.\nb. Perizinan keimigrasian lainnya yang telah diberikan dan masih\nberlaku, dinyatakan tetap berlaku sampai jangka waktunya habis.\nc. Surat Perjalanan Republik Indonesia yang telah dikeluarkan,\ndinyatakan tetap berlaku sampai jangka waktunya habis."
+   }
+  },
+  {
+   "id": "ID-H564-A64",
+   "no": 64,
+   "noLabel": {
+    "id": "Pasal 64"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 64\n\nPada saat mulai berlakunya Undang-undang ini, Peraturan Pemerintah\ndan peraturan pelaksanaan lainnya di bidang keimigrasian dinyatakan\ntetap berlaku sepanjang tidak bertentangan dan belum diganti dengan\nyang baru berdasarkan Undang-undang ini.\n\nBAB X\nKETENTUAN LAIN"
+   }
+  },
+  {
+   "id": "ID-H564-A65",
+   "no": 65,
+   "noLabel": {
+    "id": "Pasal 65"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 65\n\nKetentuan keimigrasian bagi lalu lintas orang di daerah perbatasan\ndapat diatur tersendiri dengan perjanjian Lintas Batas antara\nPemerintah Negara Republik Indonesia dan pemerintah negara\ntetangga yang memiliki perbatasan yang sama, dengan memperhatikan\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nketentuan Undang-undang ini."
+   }
+  },
+  {
+   "id": "ID-H564-A66",
+   "no": 66,
+   "noLabel": {
+    "id": "Pasal 66"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 66\n\nKetentuan yang berlaku bagi orang asing yang datang dan berada di\nwilayah Indonesia dalam rangka tugas diplomatik dan dinas diatur\nlebih lanjut dengan Peraturan Pemerintah.\n\nBAB XI\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H564-A67",
+   "no": 67,
+   "noLabel": {
+    "id": "Pasal 67"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 67\n\nPada saat mulai berlakunya Undang-undang ini:\na. Toelatingstesluit (Staatsblad 1916 Nomor 47) sebagaimana telah\ndiubah dan ditambah terakhir  dengan Staatsblad 1949 Nomor 330\nserta Toelatingsordonnantie (Staatsblad 1949 Nomor 331);\nb. Undang-undang Nomor 42 Drt. Tahun 1950 tentang Bea Imigrasi\n(Lembaran Negara Tahun 1950 Nomor 84, Tambahan Lembaran\nNegara Nomor 77);\nc. Undang-undang Nomor 9 Drt. Tahun 1953 tentang Pengawasan\nOrang Asing (Lembaran Negara Tahun 1953 Nomor 64, Tambahan\nLembaran Negara Nomor 463);\nd. Undang-undang Nomor 8 Drt. Tahun 1955 tentang Tindak Pidana\nImigrasi (Lembaran Negara Tahun 1955 Nomor 28, Tambahan\nLembaran Negara Nomor 807);\ne. Undang-undang Nomor 9 Drt. Tahun 1955 tentang Kependudukan\nOrang Asing (Lembaran Negara Tahun 1955 Nomor 33, Tambahan\nLembaran Negara Nomor 812); dan\nf. Undang-undang Nomor 14 Drt. Tahun 1959 tentang Surat Perjalanan\nRepublik Indonesia (Lembaran Negara Tahun 1959 Nomor 56,\nTambahan Lembaran Negara Nomor 1799);\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n dinyatakan tidak berlaku lagi."
+   }
+  },
+  {
+   "id": "ID-H564-A68",
+   "no": 68,
+   "noLabel": {
+    "id": "Pasal 68"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 68\n\nUndang-undang ini mulai berlaku pada tanggal diundangkan.\n\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nUndang-undang ini dengan Penempatannya dalam Lembaran Negara\nRepublik Indonesia.\n\nDisahkan di Jakarta\npada tanggal 31 Maret 1992\n\nPRESIDEN REPUBLIK INDONESIA\n\n   ttd\n\n         SOEHARTO\n\nDiundangkan di Jakarta\npada tanggal 31 Maret 1992\n\nMENTERI/SEKRETARIS NEGARA\n   REPUBLIK INDONESIA\n\n          ttd\n\n         MOERDIONO\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nPENJELASAN\nATAS\nUNDANG-UNDANG REPUBLIK INDONESIA\nNOMOR 9 TAHUN 1992\nTENTANG\nKEIMIGRASIAN\n\nUMUM\n\nPeraturan perundang-undangan keimigrasian yang sekarang berlaku\ntersebar dalam berbagai peraturan perundang-undangan. Sebagian\nmasih merupakan peraturan perundang-undangan yang dibentuk oleh\npemerintah Hindia Belanda, dan sebagian dibentuk sesudah Proklamasi\nKemerdekaan 17 Agustus 1945.\n\nPeraturan perundang-undangan yang berasal dari masa Hindia\nBelanda-Toelatingsbesluit 1916 (Staatsblad 1916 Nomor 47),\nToelatingsbesluit 1949 (Staatsblad 1949 Nomor 330), dan\nToelatingsordonnantie 1949 (Staatsblad 1949 Nomor 331) - begitu pula\nperaturan perundang-undangan yang dibentuk setelah Indonesia\nmerdeka, seperti Undang-undang Nomor 42 Drt. Tahun 1950 tentang\nBea Imigrasi, Undang-undang Nomor 9 Drt. Tahun 1953 tentang\nPengawasan Orang Asing, Undang-undang Nomor 8 Drt. Tahun 1955\ntentang Tindak Pidana Imigrasi dan berbagai peraturan\nperundang-undangan lainnya, dipandang tidak sesuai lagi dengan\ntuntutan dan perkembangan serta kebutuhan hukum masyarakat\ndewasa ini. Baik karena perkembangan nasional maupun internasional\ntelah berkembang hukum-hukum baru yang mengatur mengenai\nwilayah negara dan berbagai hak-hak berdaulat yang diakui oleh\nhukum dan pergaulan internasional yang mempengaruhi ruang lingkup\ntugas-tugas dan wewenang keimigrasian.\n\nDalam upaya mewujudkan Wawasan Nusantara, pada tahun 1960\nditetapkan Undang-undang Nomor 4 Prp. Tahun 1960 tentang Perairan\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nIndonesia yang menyebabkan tugas dan wewenang keimigrasian secara\nteritorial menjadi lebih luas. Selanjutnya jangkauan teritorial  ini\nmakin luas setelah dikeluarkannya Undang-undang Nomor I Tahun 1973\ntentang Landas Kontinen Indonesia, Undang-undang Nomor 7 Tahun\n1976 tentang Pengesahan Penyatuan Timor Timur ke Dalam Negara\nKesatuan Republik Indonesia dan Pembentukan Propinsi Daerah\nTingkat I Timor Timur, Undang-undang Nomor 5 Tahun 1983 tentang\nZona Ekonomi Eksklusif, sert a Undang-undang Nomor 17 Tahun 1985\ntentang Pengesahan Konvensi Perserikatan Bangsa-Bangsa tentang\nHukum Laut.\n\nSelain kehadiran berbagai peraturan perundang-undangan baru\ntersebut di atas, terdapat pula berbagai faktor lain yang\nmempengaruhi perkembangan tugas dan wewenang keimigrasian\nseperti pembangunan nasional, kemajuan ilmu dan teknologi serta\nberkembangnya kerjasama regional maupun internasional yang\nmendorong meningkatnya arus orang untuk masuk dan ke luar wilayah\nIndonesia.\n\nUntuk menjamin kemanfaatan dan melindungi berbagai kepentingan\nnasional maka perlu ditetapkan prinsip, tata pengawasan, tata\npelayanan atas masuk dan ke luar orang ke dan dari wilayah Indonesia\nsesuai dengan nilai-nilai dan tujuan nasional Negara Kesatuan Republik\nIndonesia yang berdasarkan Pancasila dan Undang-Undang Dasar 1945.\n\nTerhadap orang asing, pelayanan dan pengawasan di bidang\nkeimigrasian dilaksanakan berdasarkan prinsip yang bersifat selektif\n(selective policy). Berdasarkan prin sip ini, hanya orang-orang asing\nyang dapat memberikan manfaat bagi kesejahteraan rakyat, bangsa\ndan Negara Republik Indonesia serta tidak membahayakan keamanan\ndan ketertiban serta tidak bermusuhan baik terhadap rakyat, maupun\nNegara Kesatuan Republik Indonesia yang berdasarkan Pancasila dan\nUndang-Undang Dasar 1945 yang diizin kan masuk atau ke luar wilayah\nIndonesia.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\nOrang asing karena alasan-alasan tertentu  seperti sikap permusuhan\nterhadap rakyat dan negara Republik Indonesia yang berdasarkan\nPancasila dan Undang-Undang Dasar 1945 - untuk sementara waktu\ndapat ditangkal masuk ke wilayah Indonesia.\nSelanjutnya berdasarkan \"selective policy\", akan diatur secara selektif\nizin tinggal bagi orang asing sesu ai dengan maksud dan tujuannya\nberada di Indonesia.\n\nTerhadap Warga Negara Indonesia be rlaku prinsip bahwa setiap Warga\nNegara Indonesia berhak ke luar atau masuk ke wilayah Indonesia.\nNamun demikian hak-hak ini bukan sesuatu yang tidak dapat dibatasi.\nKarena alasan-alasan tertentu dan untuk jangka waktu tertentu Warga\nNegara Indonesia dapat dicegah ke luar dari wilayah Indonesia dan\ndapat ditangkal masuk ke wilayah Indonesia. Tetapi karena\npenangkalan pada dasarnya ditujukan pada orang asing, maka\npenangkalan terhadap Warga Negara Indonesia hanya dikenakan dalam\nkeadaan yang sangat khusus. Penangkalan terhadap Warga Negara\nIndonesia hanya dikenakan terhadap mereka yang telah lama\nmeninggalkan Indonesia, atau tinggal menetap atau telah menjadi\npenduduk negara lain dan melakuka n tindakan atau sikap permusuhan\nterhadap Negara atau Pemerintah Republik Indonesia yang\nberdasarkan Pancasila dan Undang-Undang Dasar 1945. Lebih lanjut,\npenangkalan terhadap Warga Negara Indonesia dapat pula dikenakan\nberdasarkan pertimbangan bahwa dengan masuknya mereka ke\nwilayah Indonesia diperkirakan akan mengganggu jalannya\npembangunan nasional, menimbulkan perpecahan bangsa,\nmengganggu stabilitas nasional, dan dapat pula menimbulkan ancaman\nterhadap diri atau keluarganya. Mengingat pencegahan dan\npenangkalan bersangkut paut dengan hak seseorang untuk berpergian,\nmaka keputusan pencegahan dan penangkalan harus mencerminkan\ndan mengingat prinsip-prinsip nega ra yang berdasarkan atas hukum\ndalam Negara Kesatuan Republik Indonesia yang berdasarkan Pancasila\ndan Undang-Undang Dasar 1945.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\nAspek pelayanan keimigrasian mengandung makna melancarkan dan\nmemudahkan orang masuk dan ke luar ke dan dari Wilayah Indonesia.\nDalam aspek pelayanan termasuk pengaturan pembebasan Visa bagi\norang asing dari negara-negara tertentu. Berbagai bentuk pelayanan\nini tidak terlepas dari kepentingan nasional, karena itu setiap\nkemudahan keimigrasian yang diberikan kepada warga negara asing\ndari satu atau beberapa negara tertentu dilakukan dengan sedapat\nmungkin mengupayakan penerapan prinsip resiprositas yang\nmemungkinkan Warga Negara Indonesia menikmati\nkemudahan-kemudahan yang sama dari negara-negara yang mendapat\nkemudahan keimigrasian di Indonesia.\n\nDalam rangka mewujudkan prinsip \"selective policy\" diperlukan\npengawasan terhadap orang asing. Pengawasan ini tidak hanya pada\nsaat mereka masuk, tetapi selama mereka berada di wilayah Indonesia\ntermasuk kegiatan-kegiatannya. Pengawasan keimigrasian mencakup\npenegakan hukum keimigrasian baik yang bersifat administratif\nmaupun tindak pidana keimigrasian.\nKarena itu, perlu pula diatur mengenai Penyidik Pejabat Pegawai\nNegeri Sipil di lingkungan keimigrasian yang akan menjalankan tugas\ndan wewenang menurut ketentuan yang diatur dalam Undang-undang\nini dan sesuai dengan ketentuan Undang-undang Nomor 8 Tahun 1981\ntentang Hukum Acara Pidana.\n\nAspek pelayanan dan pengawasan ini tidak pula terlepas dari sifat\nwilayah Indonesia yang berpulau-pulau, mempunyai jarak yang dekat\nbahkan berbatasan dengan beberapa negara tetangga. Pada\ntempat-tempat tersebut terdapat lalu  lintas tradisional masuk dan ke\nluar baik Warga Negara Indonesia maupun warga negara tetangga.\nDalam rangka meningkatkan pelayanan dan memudahkan pengawasan,\ndapat diatur perjanjian lintas batas dan diusahakan perluasan\nTempat-tempat Pemeriksaan Imigrasi. Dengan demikian dapat\ndihindari orang masuk atau ke luar wilayah Indonesia di luar Tempat\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nPemeriksaan Imigrasi.\n\nKepentingan nasional adalah kepentingan seluruh rakyat Indonesia.\nKarena itu, pengawasan terhadap orang asing memerlukan juga\npartisipasi masyarakat untuk melaporkan orang asing yang diketahui\natau diduga berada di wilayah Indonesia secara tidak sah atau\nmenyalahgunakan izin keimigrasiannya.\nUntuk meningkatkan partisipasi tersebut, perlu dilakukan usaha-usaha\nmeningkatkan kesadaran hukum masyarakat.\n\nPerkembangan-perkembangan baru, dan berbagai materi muatan yang\nberkaitan dengan prinsip-prinsip keimigrasian seperti selective policy,\ntata pelayanan, pengawasan, pencegahan, penangkalan, penyidikan,\npemantauan dan lain-lain belum seluruhnya tertampung dalam\nperaturan perundang-undangan yang telah ada. Karena itu, untuk\nmemadukan dan menyatukan berbagai peraturan perundang-undangan\nyang ada dan menampung berbagai  perkembangan baru, maka\ndisusunlah Undang-undang Keimigrasian yang baru ini.\n\nPASAL DEMI PASAL\n\nPasal 1\n Cukup jelas\n\nPasal 2\n Cukup jelas\n\n\nPasal 3\n Cukup jelas\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\nPasal 4\n Cukup jelas\n\nPasal 5\n Cukup jelas\n\nPasal 6\n Cukup jelas\n\nPasal 7\n Ayat (1)\n  H u r u f  a\n   Yang dimaksud pembebasan Visa dalam ayat ini, misalnya\nuntuk kepentingan pariwisata.\n  H u r u f  b\n   C u k u p  j e l a s\n  H u r u f  c\n   Yang dimaksud dengan kapt en, nakhoda dan awak dalam huruf\nc ayat ini adalah orang asing yang menjadi kapten, nakhoda,\natau awak yang sedang bertugas pada pesawat udara, kapal\nlaut atau alat angkut lainnya yang mendarat atau berlabuh di\nbandar udara atau pelabuhan yang ditetapkan sebagai tempat\natau pintu masuk ke wilayah Indonesia.\n   Mengingat bagian-bagian tertentu wilayah Indonesia\nberbatasan langsung dengan beberapa negara tetangga, tidak\ntertutup kemungkinan berkembangnya hubungan darat antara\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nIndonesia dengan negara-negara tetangga dengan\nmenggunakan alat angkut seperti bus atau kereta api.\n   Apabila hal ini terjadi maka kepada pengemudi bus, masinis\nkereta api, atau pengemudi kendaraan umum lainnya\ntermasuk awaknya, dapat diberlakukan ketentuan yang\nberlaku bagi kapten atau nakhoda yang sedang bertugas\nsepanjang tidak ditentukan secara khusus dalam perjanjian\nlintas batas antara Indonesia dan negara tetangga yang\nbersangkutan.\n  H u r u f  d\n   C u k u p  j e l a s\n Ayat (2)\n  C u k u p  j e l a s\n\nPasal 8\n Orang asing pada waktu melintasi batas wilayah Indonesia\nsebenarnya secara nyata telah memasuki wilayah Indonesia tetapi\nmasuknya orang asing itu baru sah setelah melalui pemeriksaan oleh\nPejabat Imigrasi yang bertugas di Tempat Pemeriksaan Imigrasi.\nKeabsahan orang asing masuk wilayah Indonesia tersebut penting\nkarena akan menjadi dasar bagi pemberian izin keimigrasian\nlainnya.\n\n Huruf a\n  Yang dimaksud dengan Surat Perjalanan yang sah dalam huruf a\nini adalah Surat Perjalanan yang masih berlaku.\n Huruf b\n  C u k u p  j e l a s\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n Huruf c\n  C u k u p  j e l a s\n Huruf d\n  C u k u p  j e l a s\n Huruf e\n  C u k u p  j e l a s\n\nPasal 9\n Yang dimaksud dengan penanggung jawab alat angkut dalam Pasal\nini adalah pengusaha alat angkut yang bersangkutan atau\nperwakilannya. Kapten atau nakhoda dianggap pula sebagai\npenanggung jawab alat angkut.\n\n Huruf a\n  C u k u p  j e l a s\n Huruf b\n  C u k u p  j e l a s\n Huruf c\n  Yang dimaksud bendera isyarat dalam huruf c Pasal ini adalah\nBendera \"N\" dari kapal laut sebagai pemberitahuan bahwa kapal\ntersebut datang dari luar negeri dengan membawa penumpang\ndan tanda permintaan untuk dilakukan pemeriksaan keimigrasian\ndi atas kapal tersebut.\n Huruf d\n  C u k u p  j e l a s\n Huruf e\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n  C u k u p  j e l a s\n\nPasal 10\n Cukup jelas\n\nPasal 11\n Ayat (1)\n  H u r u f  a\n   Yang dimaksud dengan urusan yang bersifat keimigrasian\ndalam huruf a ayat ini adalah pencegahan yang dilakukan\nkarena alasan-alasan seperti :\n\n   1) Warga Negara Indonesia yang pernah diusir atau dideportasi\nke Indonesia oleh suatu negara lain;\n   2) Warga Negara Indonesia yang pada saat berada di luar\nnegeri melakukan perbuatan yang mencemarkan nama baik\nbangsa dan Negara Indonesia;\n   3) Warga negara asing yang belum atau tidak memenuhi\nkewajiban-kewajiban terhadap Negara atau Pemerintah\nRepublik Indonesia, misalnya belum melunasi pajak sebagai\norang asing.\n  H u r u f  b\n   Yang dimaksud dengan piutang negara dalam huruf b ayat ini\nadalah tagihan terhadap seseorang atau badan hukum yang\ntimbul dari perjanjian keperdataan dengan instansi\nPemerintah, Badan-badan Usaha Negara, atau badan-badan\nlainnya baik di pusat maupun di daerah yang secara langsung\natau tidak langsung dikuasai Negara berdasarkan peraturan\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nperundang-undangan yang berlaku.\n  H u r u f  c\n   C u k u p  j e l a s\n  H u r u f  d\n   Pelaksanaan pencegahan dalam huruf d ayat ini, dilakukan\nsemata-mata untuk mencapai tujuan dan dalam batas-batas\nsebagaimana dimaksud dalam Undang-undang Nomor 20 Tahun\n1982 tentang Ketentuan-ketentuan Pokok Pertahanan\nKeamanan Negara Republik Indonesia sebagaimana telah\ndiubah dengan Undang-undang Nomor 1 Tahun 1988, terutama\nPasal 3 dan Pasal 12.\n   Berdasarkan Undang-undang ini pertahanan dan keamanan\nnegara bertujuan untuk menjamin tetap tegaknya Negara\nKesatuan Republik Indonesia berdasarkan Pancasila dan\nUndang-Undang Dasar 1945 terhadap segala ancaman baik dari\nluar maupun dari dalam negeri serta tercapainya tujuan\nnasional. Pelaksanaan komando pertahanan keamanan negara\nada pada Panglima Angkatan Bersenjata Republik Indonesia.\n   Dalam rangka melaksanakan tugas di bidang pertahanan\nkeamanan, Panglima Angkatan Bersenjata Republik Indonesia\ndapat mencegah seseorang untuk ke luar dari wilayah\nIndonesia. Pencegahan tersebut dilakukan apabila orang atau\norang-orang tertentu menunjukkan secara nyata sikap atau\ntindakan yang akan mengganggu atau mengancam keutuhan\nNegara Kesatuan Republik Indonesia yang berdasarkan\nPancasila dan Undang-Undang Dasar 1945. Hal-hal yang\nsemata-mata berdasarkan dugaan tanpa bukti-bukti awal yang\ncukup bahwa orang-orang tertentu mengganggu atau\nmengancam keutuhan Negara Kesatuan Republik Indonesia\nyang berdasarkan Pancasila dan Undang-Undang Dasar 1945\ntidak dapat dijadikan alasan untuk melakukan pencegahan.\nBegitu pula perbedaan pandangan, persepsi atau\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nkebijaksanaan penyelenggaraan pemerintahan negara, tanpa\ndimaksudkan untuk mengancam keutuhan Negara Kesatuan\nRepublik Indonesia yang berdasarkan Pancasila dan\nUndang-Undang Dasar 1945 tidak dapat dijadikan alasan\npencegahan.\n Ayat (2)\n  C u k u p  j e l a s\n\nPasal 12\n Ayat (1)\n  C u k u p  j e l a s\n Ayat (2)\n  C u k u p  j e l a s\n Ayat (3)\n  Yang dimaksud dengan surat tercatat dalam ayat ini termasuk\njuga bukti penerimaan oleh yang bersangkutan atau orang lain\npada alamat orang atau orang-orang yang terkena pencegahan.\n\nPasal 13\n Ayat (1)\n  Setiap keputusan perpanjangan pencegahan harus memenuhi\nketentuan sebagaimana dimaksud dalam Pasal 12 ayat (2).\n Ayat (2)\n  C u k u p  j e l a s\n Ayat (3)\n  C u k u p  j e l a s\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n Ayat (4)\n  C u k u p  j e l a s\n\nPasal 14\n Cukup jelas\n\nPasal 15\n Ayat (1)\n  H u r u f  a\n   Yang dimaksud dengan urusan yang bersifat keimigrasian\ndalam huruf a ayat ini adalah penangkalan yang dilakukan\nkarena alasan-alasan sebagai-mana dimaksud dalam Pasal 8.\n  H u r u f  b\n   C u k u p  j e l a s\n  H u r u f  c\n   Pelaksanaan penangkalan dalam huruf c ayat ini, dilakukan\nsemata-mata untuk mencapai tujuan dan dalam batas-batas\nsebagaimana diatur dalam Undang-undang Nomor 20 Tahun\n1982 tentang Ketentuan-ketentuan Pokok Pertahanan\nKeamanan Negara Republik Indonesia sebagaimana telah\ndiubah dengan Undang-undang Nomor 1 Tahun 1988.\n   Berdasarkan Undang-undang ini, pertahanan dan keamanan\nnegara bertujuan untuk tetap tegaknya Negara Kesatuan\nRepublik Indonesia berdasarkan Pancasila dan Undang-Undang\nDasar 1945 terhadap segala ancaman baik dari luar maupun\ndari dalam negeri serta tercapainya tujuan nasional.\nPelaksanaan komando pertahanan keamanan negara ada pada\nPanglima Angkatan Bersenjata Republik Indonesia. Dengan\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\ndemikian, dalam rangka melaksanakan tugas di bidang\npertahanan keamanan, Panglima Angkatan Bersenjata\nRepublik Indonesia berwenang menangkal orang asing untuk\nmasuk ke wilayah Indonesia.\n Ayat (2)\n  C u k u p  j e l a s\n\nPasal 16\n Penanganan oleh sebuah Tim ini, dimaksudkan untuk menjamin agar\npenangkalan terhadap Warga Negara Indonesia benar-benar\ndilakukan dengan pertimbangan yang matang dan obyektif melalui\nsuatu penelitian yang sangat mendalam dan seksama, sehingga di\nsatu pihak tujuan untuk memberikan perlindungan kepada hak-hak\nmereka sebagai Warga Negara Indonesia dapat dipenuhi dan di\npihak lain tujuan untuk melindungi kepentingan yang lebih luas dan\nlebih besar yaitu kepentingan tetap tegaknya Negara Republik\nIndonesia yang berdasarkan Pancasila dan Undang-Undang Dasar\n1945 tetap terjamin.\n\nPasal 17\n Huruf a\n  Yang dimaksud dengan sindikat kejahatan internasional.dalam\nhuruf a Pasal ini antara lain kejahatan narkotik dan terorisme.\n Huruf b\n  C u k u p  j e l a s\n Huruf c\n  C u k u p  j e l a s\n Huruf d\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n  C u k u p  j e l a s\n Huruf e\n  C u k u p  j e l a s\n Huruf f\n  C u k u p  j e l a s\n\nPasal 18\n Pada dasarnya Warga Negara Indonesia berhak untuk masuk atau\nkembali ke Indonesia. Karena itu penangkalan terhadap mereka\nhanya dilakukan berdasarkan keadaan yang khusus.\n Keadaan khusus tersebut adalah bahwa mereka telah lama berada\ndan tinggal menetap di luar negeri , sehingga sikap mental, ucapan\ndan tingkah laku mereka benar-benar sudah seperti orang asing dan\nmelakukan tindakan yang memusuhi Negara Indonesia serta\nbersikap anti Pemerintah Negara Republik Indonesia. Di samping\nitu, penangkalan terhadap Warga Negara Indonesia dapat juga\ndilakukan atas pertimbangan masuknya mereka ke Indonesia dapat\nmenimbulkan gangguan terhadap pembangunan nasional,\nmenimbulkan perpecahan bangsa, atau mengganggu stabilitas\nnasional dan dapat pula menimbulkan ancaman terhadap diri atau\nkeluarganya.\n\nPasal 19\n Ayat (1)\n  C u k u p  j e l a s\n Ayat (2)\n  C u k u p  j e l a s\n Ayat (3)\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n  Yang dimaksud dengan perwakilan-perwakilan Republik Indonesia\ndalam ayat ini adalah Atase Imig rasi atau Dinas Konsuler pada\nperwakilan Republik Indonesia.\n  Pengiriman keputusan penangkalan kepada perwakilan Republik\nIndonesia dimaksudkan agar orang asing yang bersangkutan tidak\ndiberikan Visa untuk masuk ke wilayah Indonesia.\n  Khusus bagi Warga Negara Indonesia yang terkena penangkalan\nsedapat mungkin pemberitahuannya disampaikan kepada yang\nbersangkutan melalui perwakilan Republik Indonesia tersebut.\n\nPasal 20\n Ayat (1)\n  Setiap keputusan perpanjangan penangkalan harus memenuhi\nketentuan sebagaimana dimaksud dalam Pasal 19 ayat (2).\n Ayat (2)\n  C u k u p  j e l a s\n Ayat (3)\n  C u k u p  j e l a s\n\nPasal 21\n Cukup jelas\n\nPasal 22\n Cukup jelas\n\nPasal 23\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n Cukup jelas\n\nPasal 24\n Ayat (1)\n  Izin keimigrasian yang dimaksud dalam ayat ini merupakan bukti\nkeberadaan yang sah bagi setiap orang asing di wilayah\nIndonesia.\n Ayat (2)\n  C u k u p  j e l a s\n\nPasal 25\n Ayat (1)\n  Yang dimaksud dengan Izin Singgah dalam ayat ini sering juga\ndisebut izin transit adalah izin untuk berada di wilayah Indonesia\nyang diberikan kepada orang asing yang memerlukan singgah di\nIndonesia dalam perjalanannya menuju atau meneruskan\nperjalanan ke suatu negara lain.\n  Lamanya Izin Singgah tergantung pada jadwal pemberangkatan\npesawat atau kapal yang akan ditumpangi menuju atau untuk\nmeneruskan perjalanan tersebut. Karena Izin Singgah\nmemberikan izin memasuki wilayah Indonesia maka semua\npersyaratan keimigrasian harus dipenuhi termasuk tiket untuk\nmeneruskan perjalanan ke negara tujuan.\n Ayat (2)\n  Yang dimaksud dengan Izin Kunjungan dalam ayat ini sesuai\ndengan sifatnya adalah kunjungan singkat, untuk tugas-tugas\npemerintahan, kegiatan sosial budaya, atau usaha.\n  Jangka waktu Izin Kunjungan disesuaikan dengan keperluan atau\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\njadwal kegiatan tersebut. Izin Kunjungan kepariwisataan\nditentukan sesuai dengan peraturan perundang-undangan yang\nberlaku. Adapun yang dimaksud dengan kunjungan kegiatan sosial\nbudaya antara lain untuk misi kesenian, misi pendidikan, atau\nprogram tukar menukar budaya.\n Ayat (3)\n  Yang dimaksud dengan Izin Tinggal Terbatas dalam ayat ini\nadalah izin yang diberikan kepada orang asing yang memenuhi\npersyaratan-persyaratan keimigrasian dan mengajukan\npermohonan tinggal untuk jangka waktu terbatas di wilayah\nIndonesia baik karena pekerjaan, atau alasan-alasan lain yang\nsah.\n Ayat (4)\n  Yang dimaksud dengan Izin Tinggal Tetap dalam ayat ini adalah\nizin yang diberikan kepada orang asing yang telah menetap di\nwilayah Indonesia secara berturut-turut untuk jangka waktu\ntertentu dan memenuhi persyaratan-persyaratan keimigrasian\nserta syarat-syarat lain yang akan diatur dengan Peraturan\nPemerintah. Selanjutnya dalam Peraturan Pemerintah akan\ndiatur pula mengenai kedudukan istri dan anak-anak orang asing\nyang mendapat Izin Tinggal Teta p serta hal-hal yang menyangkut\ngugurnya Izin Tinggal Tetap tersebut. Bagi orang asing yang telah\nmendapat Izin  Tinggal Tetap berlaku semua\nketentuan-ketentuan tentang kependudukan Indonesia.\n\n\nPasal 26\n Ayat (1)\n  Berdasarkan ketentuan dalam ayat  ini, faktor-faktor yang disebut\ndalam Pasal 8 juga menjadi dasar bagi pemberian atau penolakan\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\npermintaan izin keimigrasian tersebut.\n Ayat (2)\n  Penegasan ketentuan dalam ayat ini untuk mengurangi\nkemungkinan orang asing terutama yang berstatus tanpa\nkewarganegaraan untuk memperoleh Izin Tinggal Tetap.\n\nPasal 27\n Cukup jelas\n\nPasal 28\n Cukup jelas\n\nPasal 29\n Ayat (1)\n  Paspor Biasa, Surat Perjalan an Laksana Paspor untuk Warga\nNegara Indonesia, Paspor untuk Orang Asing, dan Surat\nPerjalanan Laksana Paspor untuk Orang Asing :\n\n  a. di Indonesia diberikan oleh Pejabat Imigrasi yang ditunjuk\nMenteri; atau\n  b. di luar negeri diberikan oleh Pejabat Imigrasi atau pejabat\ndinas luar negeri pada kantor perwakilan Republik Indonesia\nyang ditunjuk oleh Menteri Luar Negeri;\n  Paspor Diplomatik diberikan atas nama Presiden oleh Menteri\nLuar Negeri atau pejabat yang ditunjuk Menteri Luar Negeri.\nPaspor Dinas dan Surat Perjalanan Laksana Paspor Dinas\ndiberikan atas nama Menteri Luar Negeri oleh pejabat yang\nditunjuk Menteri Luar Negeri.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n  Paspor Haji diberikan oleh Menteri Agama atau pejabat yang\nditunjuk oleh Menteri Agama.\n Ayat (2)\n  C u k u p  j e l a s\n\nPasal 30\n Ayat (1)\n  C u k u p  j e l a s\n Ayat (2)\n  C u k u p  j e l a s\n Ayat (3)\n  Yang dimaksud dengan keadaan khusus dalam ayat ini antara lain\npemulangan Warga Negara Indonesia dari negara lain.\n\nPasal 31\n Cukup jelas\n\nPasal 32\n Ayat (1)\n  C u k u p  j e l a s\n Ayat (2)\n  Yang dimaksud dengan keadaan khusus dalam ayat ini antara lain\npengiriman rombongan untuk melaksanakan misi Pemerintah\nyang tidak bersifat diplomatik dan dalam waktu yang singkat.\n\nPasal 33\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n Cukup jelas\n\nPasal 34\n Ayat (1)\n  Berdasarkan ketentuan ayat ini maka Paspor Untuk Orang Asing\ntidak diberikan lagi kepada orang asing, yang sesudah mulai\nberlakunya Undang-undang ini karena sesuatu hal memperoleh\nizin tinggal. Penegasan ini sesuai dengan ketentuan Pasal 26 ayat\n(2).\n Ayat (2)\n  C u k u p  j e l a s\n\nPasal 35\n Ayat (1)\n  H u r u f  a\n   C u k u p  j e l a s\n  H u r u f  b\n   C u k u p  j e l a s\n  H u r u f  c\n   Yang dimaksud dengan keadaan tertentu dalam huruf c ayat\nini antara lain dalam hal seseorang yang kehilangan\nkewarganegaraan Indonesia berdasarkan Pasal 17 huruf k\nUndang-undang Nomor 62 Tahun 1958, bermaksud kembali ke\nIndonesia untuk memperoleh kewarganegaraan Indonesia\nkembali.\n   Yang dimaksud dengan kepentingan nasional adalah\nkepentingan-kepentingan yang berkaitan dengan tercapainya\ntujuan nasional.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n Ayat (2)\n  C u k u p  j e l a s\n\nPasal 36\n Cukup jelas\n\nPasal 37\n Cukup jelas\n\nPasal 38\n Cukup jelas\n\nPasal 39\n Cukup jelas\n\nPasal 40\n Huruf a\n  C u k u p  j e l a s\n Huruf b\n  C u k u p  j e l a s\n Huruf c\n  Yang dimaksud dengan pemantauan adalah kegiatan-kegiatan\nyang dilakukan untuk mengetahui secara dini setiap peristiwa\nyang diduga mengandung unsur-unsur pelanggaran keimigrasian.\n Huruf d\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n  C u k u p  j e l a s\n Huruf e\n  C u k u p  j e l a s\n\nPasal 41\n Yang dimaksud dengan koordinasi bersama Badan atau Instansi\nPemerintah yang terkait, adalah bahwa pada dasarnya pengawasan\norang asing menjadi tanggung jawa b Menteri c.q. Pejabat Imigrasi.\nMekanisme pelaksanaannya harus dilakukan dengan mengadakan\nkoordinasi dengan Badan atau Instansi Pemerintah yang bidang\ntugasnya menyangkut orang asing. Badan atau instansi tersebut,\nantara lain Departemen Luar Negeri, Departemen Dalam Negeri,\nDepartemen Pertahanan Keamanan, Departemen Tenaga Kerja,\nKejaksaan Agung, Badan Koordinasi Intelijen Negara, Kepolisian\nNegara Republik Indonesia.\n Koordinasi pengawasan orang asing dilakukan secara terpadu,\nterutama dengan Kepolisian Negara Republik Indonesia dalam hal\nyang berkaitan dengan pendaftara n orang asing dan kewajiban bagi\norang asing yang telah memperoleh izin tinggal untuk melapor pada\nKantor Kepolisian Negara Republik Indonesia di tempat tinggalnya\natau tempat kediamannya.\n\nPasal 42\n Cukup jelas\n\nPasal 43\n Cukup jelas\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nPasal 44\n Ayat (1)\n  C u k u p  j e l a s\n Ayat (2)\n  Yang dimaksud dengan alasan tertentu dalam ayat ini adalah\nantara lain karena menyangkut anak-anak yang masih di bawah\numur, orang sakit yang memerlukan perawatan khusus, atau\nKarantina Imigrasi tidak dapat menampung.\n\nPasal 45\n Cukup jelas\n\nPasal 46\n Cukup jelas\n\nPasal 47\n Ayat (1)\n  Tindak pidana keimigrasian dalam Undang-undang ini merupakan\ntindak pidana umum.\n Ayat (2)\n  Pemberian wewenang kepada Penyidik Pejabat Pegawai Negeri\nSipil dalam ayat ini, sama sekali tidak mengurangi wewenang\nPenyidik Pejabat Polisi Negara Republik Indonesia untuk menyidik\ntindak pidana keimigrasian.\n  Penyidik Pejabat Polisi Negara Republik Indonesia diminta atau\ntidak diminta memberi petunjuk dan bantuan penyidikan kepada\nPenyidik Pejabat Pegawai Negeri Sipil sebagaimana dimaksud\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\ndalam ayat (1).\n  Pemberian petunjuk dan bantuan tersebut, antara lain meliputi\nha]-ha] yang berkaitan dengan teknik dan taktik penyidikan,\npenangkapan, penahanan, dan pemeriksaan laboratorium. Oleh\nkarena itu, Penyidik Pejabat Pegawai Negeri Sipil sejak awal\nharus memberitahukan tentang penyidikan yang sedang dilakukan\nkepada Penyidik Pejabat Polisi Negara Republik Indonesia.\nSetelah itu, hasil penyidikan berupa berkas perkara, tersangka\ndan barang bukti disampaikan kepada Penuntut Umum melalui\nPenyidik Pejabat Polisi Negara Republik Indonesia, untuk\nkepentingan penuntutan.\n  Pelaksanaan wewenang Penyidik Pejabat Pegawai Negeri Sipil\nsebagaimana dimaksud dalam ayat (2) harus dilakukan\nberdasarkan Undang-undang Nomor 8 Tahun 1981 tentang Hukum\nAcara Pidana, terutama ketentuan-ketentuan yang berkaitan\ndengan tugas dan wewenang Penyidik Pejabat Pegawai Negeri\nSipil, yaitu antara lain Pasal 32, 33, 34, 35, 36, 37, dan Pasal\n107.\n  Selain hal tersebut, wewenang Penyidik Pejabat Pegawai Negeri\nSipil untuk menerima laporan sebagaimana dimaksud dalam huruf\na ayat ini termasuk menerima pengaduan tentang adanya tindak\npidana keimigrasian.\n  Khusus mengenai wewenang menangkap dan menahan tersebut\ndalam huruf b ayat ini hanya digunakan dalam hal-hal yang\nsangat perlu.\n Ayat (3)\n  C u k u p  j e l a s\n\nPasal 48\n Cukup jelas\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\nPasal 49\n Cukup jelas\n\nPasal 50\n Cukup jelas\n\nPasal 51\n Cukup jelas\n\nPasal 52\n Cukup jelas\n\nPasal 53\n Cukup jelas\n\nPasal 54\n Cukup jelas\n\nPasal 55\n Cukup jelas\n\nPasal 56\n Cukup jelas\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\nPasal 57\n Cukup jelas\n\nPasal 58\n Cukup jelas\n\nPasal 59\n Yang dimaksud dengan Pejabat dalam Pasal ini adalah pegawai\nnegeri yang tugas dan wewenangnya berkaitan dengan pemberian\ndan perpanjangan Surat Perjalanan Republik Indonesia atau\ndokumen keimigrasian lainnya.\n\nPasal 60\n Yang dimaksud dengan setiap orang dalam Pasal ini adalah termasuk\npengurus penginapan, hotel, pemondokan dan lain-lain.\n Apabila di daerah orang yang memberikan kesempatan menginap\nkepada orang asing tidak terdapat kantor kepolisian, laporan\ntersebut disampaikan kepada Pejabat Pemerintah setempat yaitu\nCamat atau Kepala Desa/Lurah.\n\nPasal 61\n Cukup jelas\n\nPasal 62\n Cukup jelas\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\nPasal 63\n Huruf a\n  Yang dimaksud dengan dinyat akan tetap berlaku untuk paling\nlama 3 (tiga) tahun, dihitung sejak berlakunya Undang-undang\nini.\n Huruf b\n  C u k u p  j e l a s\n Huruf c\n  C u k u p  j e l a s\n\nPasal 64\n Cukup jelas\n\nPasal 65\n Yang dimaksud dengan memperhatikan ketentuan Undang-undang\nini adalah bahwa perjanjian lintas batas yang akan dilakukan oleh\nPemerintah dengan pemerintah negara tetangga sejauh mungkin\nmemperhatikan prinsip-prinsip yang diatur dalam Undang-undang\nini.\n\nPasal 66\n Cukup jelas\n\nPasal 67\n Cukup jelas\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\nPasal 68\n Cukup jelas"
+   }
+  }
+ ]
+}

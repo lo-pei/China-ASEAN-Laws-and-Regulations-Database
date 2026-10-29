@@ -1,0 +1,62 @@
+{
+ "id": "PH-H12601",
+ "title": {
+  "zh": null,
+  "en": "An Act Extending to June Fifteenth, Nineteen Hundred and Nine, the Period for the Payment, Without Penalty, of the Cedula Tax for the Year Nineteen Hundred and Nine in the City of Manila and in the Provinces Organized Under the Provincial Government",
+  "orig": "An Act Extending to June Fifteenth, Nineteen Hundred and Nine, the Period for the Payment, Without Penalty, of the Cedula Tax for the Year Nineteen Hundred and Nine in the City of Manila and in the Provinces Organized Under the Provincial Government"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1909-05-14",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 1892",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 472,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1909/act_1892_1909.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_01892_1909_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_01892_1909_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12601-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The period for the payment, without penalty, of the cedula tax for the year nineteen hundred and\nnine in the city of Manila and in the provinces organized under the Provincial Government Act is hereby\nextended to June fifteenth, nineteen hundred and nine, anything in Article XII of the Internal Revenue Law of\nNineteen hundred and four to the contrary notwithstanding."
+   }
+  },
+  {
+   "id": "PH-H12601-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect as of April twenty-fourth, nineteen hundred and nine.\nEnacted, May 14, 1909."
+   }
+  }
+ ]
+}

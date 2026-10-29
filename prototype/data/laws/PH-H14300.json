@@ -1,0 +1,62 @@
+{
+ "id": "PH-H14300",
+ "title": {
+  "zh": null,
+  "en": "An Act to Repeal Act Numbered thirty-Four Hundred and Fifty-three and Restore Subsection (G) of Act Numbered thirty-Four Hundred and Twenty-Seven.",
+  "orig": "An Act to Repeal Act Numbered thirty-Four Hundred and Fifty-three and Restore Subsection (G) of Act Numbered thirty-Four Hundred and Twenty-Seven."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1929-12-08",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3668",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 634,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1929/act_3668_1929.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03668_1929_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03668_1929_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14300-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Act Numbered Thirty-four hundred and fifty-three is hereby repealed and subsection (g) of Act\nNumbered Thirty-four hundred and twenty-seven is restored as it was before its amendment by said Act\nNumbered Thirty-four hundred and fifty-three: Provided, That the municipality of Dapitan, Province of\nZamboanga, shall refund all preliminary expenses properly and legally incurred so far by the municipality of\nDipolog or its inhabitants, by voluntary contributions, for the construction of the hospital referred to in Act\nNumbered Thirty-four hundred and fifty-three."
+   }
+  },
+  {
+   "id": "PH-H14300-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, December 8, 1929."
+   }
+  }
+ ]
+}

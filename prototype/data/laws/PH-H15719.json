@@ -1,0 +1,82 @@
+{
+ "id": "PH-H15719",
+ "title": {
+  "zh": null,
+  "en": "An Act Creating the National Economic Council, Prescribing Its Powers and Duties, Appropriating Funds therefor, and for Other Purposes.",
+  "orig": "An Act Creating the National Economic Council, Prescribing Its Powers and Duties, Appropriating Funds therefor, and for Other Purposes."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1935-12-23",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 2",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 1570,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/comacts/ca1935/ca_2_1935.html"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00002_1935_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00002_1935_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H15719-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "There is hereby created a National Economic Council to be composed of not exceeding fifteen\nmembers appointed by the President, with the consent of the Commission on Appointments of the National\nAssembly, to hold office for such term as the President may prescribe, to advise the Government on economic\nand financial questions, including the improvement and promotion of industries, diversification of crops and\nproduction, tariffs, taxation, and such other matters as may from time to time be submitted to its consideration\nby the President, and to formulate an economic program based on national independence. The President shall\ndesignate a chairman of the Council. It shall have power to employ such counsel and such other officers and\nemployees as it may consider necessary to plan the national economy. The Council, with the approval of the\nPresident, may authorize any of its members, officers or employees to visit the United States or foreign\ncountries in order to obtain such information as may be necessary in connection with its work."
+   }
+  },
+  {
+   "id": "PH-H15719-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The compensation of the members of the Council shall be fixed by the President. The salaries of\nthe officers and employees of the Council and other expenses thereof shall be determined by resolution of the\nCouncil, subject to the approval of the President."
+   }
+  },
+  {
+   "id": "PH-H15719-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "There is hereby appropriated, out of any funds in the Philippine Treasury not otherwise\nappropriated, the sum of one hundred fifty thousand pesos for the expenses of the National Economic Council."
+   }
+  },
+  {
+   "id": "PH-H15719-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, December 23, 1935."
+   }
+  }
+ ]
+}

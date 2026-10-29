@@ -1,0 +1,82 @@
+{
+ "id": "PH-H14352",
+ "title": {
+  "zh": null,
+  "en": "An Act Making It the Duty of the National Museum to Cooperate in the Preservation of Permanent Public Works and Monuments of Value to Philippine History and Culture, and Authorizing the Director of the National Museum to Make Rules and Regulations for Carrying Out the Purposes of this Act.",
+  "orig": "An Act Making It the Duty of the National Museum to Cooperate in the Preservation of Permanent Public Works and Monuments of Value to Philippine History and Culture, and Authorizing the Director of the National Museum to Make Rules and Regulations for Carrying Out the Purposes of this Act."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1930-11-21",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3720",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 653,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1930/act_3720_1930.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03720_1930_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03720_1930_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14352-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The Director of the National Museum shall cooperate in the work of preserving all permanent\npublic works and monuments of artistic or historical value, which are owned by the Philippine Government,\nor any of its political subdivisions, and make a fair and accurate record thereof."
+   }
+  },
+  {
+   "id": "PH-H14352-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The Director of the National Museum, subject to the approval of the Secretary of Agriculture\nand Natural Resources, may make rules and regulations for carrying out the provisions of this Act."
+   }
+  },
+  {
+   "id": "PH-H14352-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "All acts and parts of acts inconsistent with the Repealing clause, provisions of this Act are\nhereby repealed."
+   }
+  },
+  {
+   "id": "PH-H14352-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, November 21, 1930."
+   }
+  }
+ ]
+}

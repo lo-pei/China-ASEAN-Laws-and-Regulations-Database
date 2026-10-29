@@ -3,7 +3,11 @@
  "title": {
   "zh": "最高法院法",
   "en": "SUPREME COURT ACT",
-  "orig": null
+  "orig": "SUPREME COURT ACT",
+  "vi": "Luật Tòa án tối cao",
+  "th": "พระราชบัญญัติศาลสูงสุด",
+  "id": "Undang-Undang Mahkamah Agung",
+  "ms": "Akta Mahkamah Agung"
  },
  "country": "BN",
  "countryName": "文莱",
@@ -29,14 +33,14 @@
  "coverage": "full",
  "structureMode": "SECTION",
  "articleCount": 29,
- "chars": 25880,
+ "chars": 25879,
  "source": {
   "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
   "url": null
  },
  "sourceFile": "CAP-5-2024-ED-SUPREME-COURT-ACT.pdf",
  "fetchedAt": "2026-10-09",
- "completenessNote": "来源为 AGC 官方 PDF《CAP-5-2024-ED-SUPREME-COURT-ACT.pdf》（23 页），本次切分 29 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "completenessNote": "来源为 AGC 官方 PDF《CAP-5-2024-ED-SUPREME-COURT-ACT.pdf》（23 页），本次切分 29 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准；已清除正文中的 1 个控制字符（C0/C1 区，法律文本中无合法用途，系 PDF 抽取/表单域残留）。",
  "textQuality": "ocr-scanned",
  "ocrNoisySections": null,
  "pdfs": null,
@@ -167,7 +171,7 @@
     "en": "Section 12."
    },
    "text": {
-    "en": "Subject to the provisions of this Act, the Judges may, with the  approval  of  His   Majesty  the  Sultan  and  Yang  Di-Pertuan,\u0002 make Rules of Court for regulating the practice and procedure of the"
+    "en": "Subject to the provisions of this Act, the Judges may, with the  approval  of  His   Majesty  the  Sultan  and  Yang  Di-Pertuan, make Rules of Court for regulating the practice and procedure of the"
    }
   },
   {

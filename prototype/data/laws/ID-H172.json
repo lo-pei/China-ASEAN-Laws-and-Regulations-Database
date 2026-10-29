@@ -1,0 +1,84 @@
+{
+ "id": "ID-H172",
+ "title": {
+  "zh": "1959年第3号法",
+  "en": "Law No. 3 of 1959 Law",
+  "id": "Undang-Undang Nomor 3 Tahun 1959",
+  "orig": "Undang-Undang Nomor 3 Tahun 1959",
+  "vi": "Luật Luật số 3 năm 1959",
+  "th": "พระราชบัญญัติ พระราชบัญญัติ ฉบับที่ 3 พ.ศ. 2502",
+  "ms": "Akta Akta Bilangan 3 1959"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02c",
+ "language": "id",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "1959",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU3-1959",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 3,
+ "chars": 947,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": null
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\01_宪法与基础法\\印尼_WLD_1959_Undang-Undang Nomor 3 Tahun 1959.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 3 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H172-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {},
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 1.\nPersetujuan kerjasama Ilmiah, Pendidikan dan Kebudayaan antara\nNegara-negra Republik Indonesia dan Republik Cekoslowakia\ntertanggal\ntigapuluh satu (31) bulan Mei seribu sembilan ratus\nlimapuluh delapan, yang salinannya dilampirkan pula pada\nUndang-undang ini, dengan\nini disetujui."
+   }
+  },
+  {
+   "id": "ID-H172-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {},
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 2.\nPersetujuan kerjasama Ilmiah, Pendidikan dan Kebudayaan tersebut\ndi atas mulai berlaku pada tanggal pertukaran surat-surat\npengesahan."
+   }
+  },
+  {
+   "id": "ID-H172-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {},
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 3.\nUndang-undang ini mulai berlaku pada hari diundangkan.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan\npengundangan Undang-undang ini dengan menempatkan dalam Lembaran\nNegara\nRepublik Indonesia.\nDisahkan di Jakarta\npada tanggal 24 Pebruari 1959.\nPresiden Republik Indonesia,\nSOEKARNO.\nDiundangkan\npada tanggal 12 Maret 1959.\nMenteri Kehakiman,\nG. A. MAENGKOM.\nMenteri Luar Negeri,\nSOEBANDRIO.\n--------------------------------\nCATATAN\nDi dalam dokumen ini terdapat lampiran dalam format gambar."
+   }
+  }
+ ]
+}

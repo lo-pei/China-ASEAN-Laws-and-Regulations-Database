@@ -1,0 +1,82 @@
+{
+ "id": "PH-H16099",
+ "title": {
+  "zh": null,
+  "en": "An Act to Adopt the Original Authentic Form of the Philippine National Anthem and to Appropriate Funds for Its Printing and Free Distribution.",
+  "orig": "An Act to Adopt the Original Authentic Form of the Philippine National Anthem and to Appropriate Funds for Its Printing and Free Distribution."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1938-09-05",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 382",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 532,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00382_1938_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00382_1938_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H16099-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The musical arrangement and composition of the Philippine National Anthem as set by its\nauthor, Julian Felipe, is adopted."
+   }
+  },
+  {
+   "id": "PH-H16099-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "There is appropriated, out of the unappropriated funds in the National Treasury, the sum of five\nthousand pesos for the preparation, printing and free distribution of copies of the Philippine National Anthem\nas adjusted to its original authentic outline."
+   }
+  },
+  {
+   "id": "PH-H16099-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "The National Library of the Philippines is entrusted with the accomplishment hereof."
+   }
+  },
+  {
+   "id": "PH-H16099-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, September 5, 1938."
+   }
+  }
+ ]
+}

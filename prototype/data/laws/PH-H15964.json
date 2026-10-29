@@ -1,0 +1,62 @@
+{
+ "id": "PH-H15964",
+ "title": {
+  "zh": null,
+  "en": "An Act to Make the Provisions of Section Two thousand and Ninety-Seven of the Administrative Code Applicable to the Provincial Boards of Abra, Camarines Norte, Marinduque, Masbate and Romblon, and Repealing the Second Paragraph of the Said Section.",
+  "orig": "An Act to Make the Provisions of Section Two thousand and Ninety-Seven of the Administrative Code Applicable to the Provincial Boards of Abra, Camarines Norte, Marinduque, Masbate and Romblon, and Repealing the Second Paragraph of the Said Section."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1937-12-17",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 247",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 354,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00247_1937_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00247_1937_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H15964-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The per diem for the members of the provincial boards of Abra, Camarines Norte, Marinduque,\nMasbate and Romblon, shall be fixed hereafter in accordance with the provisions of section two thousand and\nninety-seven of the Administrative Code, repealing the second paragraph thereof."
+   }
+  },
+  {
+   "id": "PH-H15964-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, December 17, 1937."
+   }
+  }
+ ]
+}

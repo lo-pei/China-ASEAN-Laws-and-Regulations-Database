@@ -1,0 +1,82 @@
+{
+ "id": "PH-H13156",
+ "title": {
+  "zh": null,
+  "en": "An Act Authorizing the Registers of Deeds of the Philippine Islands to Open a Daybook in their Offices for Commercial Registry and Prescribing the Fees to Be Paid With Regard to Commercial Documents.",
+  "orig": "An Act Authorizing the Registers of Deeds of the Philippine Islands to Open a Daybook in their Offices for Commercial Registry and Prescribing the Fees to Be Paid With Regard to Commercial Documents."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1915-02-03",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2458",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 2014,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1915/act_2458_1915.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02458_1915_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02458_1915_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13156-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Hereafter the registers of deeds of the Philippine Islands shall open a daybook in their offices in\nwhich they shall enter the hour and minute, date, month, and year of the commercial documents presented for\nregistration, and the names of the persons executing said documents, as well as the name of the person\npresenting the same."
+   }
+  },
+  {
+   "id": "PH-H13156-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The following fees shall be paid for the registration and entry of each commercial document in\nthe office of the register of deeds:\nFor the presentation of a document, fifty centavos.\nFor each entry made in the book of merchants not mentioned in the following paragraphs, ten pesos.\nFor the entry of a change of any circumstance relating to a private merchant, two pesos.\nFor the entry of powers of attorney and of substitutions, modifications, and renewals of the same, five pesos.\nFor entries of dowries, articles of marriage, or paraphernal property, ten pesos.\nFor the first entry of any business partnership or association, the fees designated in the following schedule:\nIf the capital of said business partnership or association does not exceed ten thousand pesos, ten pesos; if it\nexceeds ten thousand, one peso for each thousand or fraction thereof in excess of the first ten thousand:\nProvided, That the maximum fee which may be charged for the first entry, whatever the amount of the capital\nmay be, is three hundred pesos.\nFor entries made in the book of associations not mentioned in the foregoing paragraphs, five pesos.\nFor the exhibition of any registered document, one peso.\nFor a literal certificate of entries, first page, one peso; and subsequent pages, fifty centavos each.\nFor certificate of any entry, three pesos.\nFor any negative certificate, two pesos."
+   }
+  },
+  {
+   "id": "PH-H13156-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "The schedule prescribed by the Real Audiencia de Manila on December twenty-first, eighteen\nhundred and eighty-eight, and all Acts, laws, or regulations, or parts thereof, inconsistent with the provisions\nof this Act, are hereby repealed."
+   }
+  },
+  {
+   "id": "PH-H13156-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, February 3, 1915."
+   }
+  }
+ ]
+}

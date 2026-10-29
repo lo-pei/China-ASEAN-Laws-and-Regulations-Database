@@ -1,0 +1,62 @@
+{
+ "id": "PH-H22731",
+ "title": {
+  "zh": null,
+  "en": "Amending Presidential Decree No. 1349 DatedApril 13, 1978.",
+  "orig": "Amending Presidential Decree No. 1349 DatedApril 13, 1978."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1978-05-26",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 1388",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 921,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_01388_1978_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_01388_1978_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22731-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section 3 of Presidential Decree No. 1349 is hereby amended to read as follows:\n\"Sec. 3. Any provision of law, executive order, rules or regulations to the contrary notwithstanding, all\ndonations or contributions made by any person or entity to the Museum, including those received prior to its\nformal constitution into a body corporate, shall be exempt from income and gift taxes. Such donations or\ncontributions shall be deductible in full from the gross income of the person or entity making the donation or\ncontribution and shall be treated as a separate item of tax deduction in the sense that the same shall not be\nincluded for purpose of computing the maximum amount deductible under Section 30, paragraph (h) of the\nNational Internal Revenue Code, as amended.\""
+   }
+  },
+  {
+   "id": "PH-H22731-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Decree shall take effect immediately.\nDone in the City of Manila, this 26th day of May, in the year of Our Lord, nineteen hundred and\nseventy-eight."
+   }
+  }
+ ]
+}

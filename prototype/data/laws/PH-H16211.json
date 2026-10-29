@@ -1,0 +1,62 @@
+{
+ "id": "PH-H16211",
+ "title": {
+  "zh": null,
+  "en": "An Act Appropriating the Sum of One Hundred thousand Pesos for the Adjustments of the Personnel and Other Changes in the Department of Labor as Contemplated in Commonwealth Act Numbered Four Hundred and Fifty-three.",
+  "orig": "An Act Appropriating the Sum of One Hundred thousand Pesos for the Adjustments of the Personnel and Other Changes in the Department of Labor as Contemplated in Commonwealth Act Numbered Four Hundred and Fifty-three."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1939-09-30",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 501",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 534,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00501_1939_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00501_1939_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H16211-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The sum of one hundred thousand pesos or so much thereof as may be necessary in appropriated\nout of any funds in the Philippine Treasury not otherwise appropriated to enable the President of the\nPhilippines to effect adjustments of the personnel of the Department of Labor and to make such other changes\ntherein as are contemplated in Commonwealth Act Numbered Four hundred and fifty-three, especially for the\npurpose of reorganizing the Immigration Division."
+   }
+  },
+  {
+   "id": "PH-H16211-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, September 30, 1939."
+   }
+  }
+ ]
+}

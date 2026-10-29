@@ -1,0 +1,102 @@
+{
+ "id": "PH-H21805",
+ "title": {
+  "zh": null,
+  "en": "Creating the Province of Basilan",
+  "orig": "Creating the Province of Basilan"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p159",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1973-12-27",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 356",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 6,
+ "chars": 2122,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_00356_1973_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 6 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_00356_1973_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H21805-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Except the territory consisting of the town proper or poblacion of the former municipality of\nIsabela, which shall be known as the City of Basilan, the territory embracing the whole island of Basilan and\nadjacent islands, in which are comprised the remaining barrios and sitios of the former municipality of Isabela\nand the municipal districts of Lamitan and Maluso, which are hereby created into regular municipalities, is\nconstituted into a new province to be known as the Province of Basilan."
+   }
+  },
+  {
+   "id": "PH-H21805-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The capital of the province of Basilan shall be the municipality of Isabela."
+   }
+  },
+  {
+   "id": "PH-H21805-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "Except as hereinafter provided, all provisions of law now or hereafter applicable to regular\nprovinces shall be applicable to the province of Basilan."
+   }
+  },
+  {
+   "id": "PH-H21805-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "The present elective officials of the Province of Zamboanga del Sur shall perform their duties as\nsuch officials in the newly created Province of Basilan until the officials of the latter shall have been duly\nappointed by the President. Such officials thus appointed shall hold office until their successors shall have\nbeen elected in the election for provincial and municipal officials following the issuance of this Decree and\nshall have qualified unless sooner removed at the pleasure of the President. Other appointive officials and\nemployees as may be necessary to organize or to complete the government personnel of the province herein\ncreated shall be appointed as provided by law."
+   }
+  },
+  {
+   "id": "PH-H21805-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "text": {
+    "en": "The province herein created shall remain part of the present representative district of Zamboanga\ndel Sur until a law shall have been passed reapportioning the representative districts pursuant to Section 2,"
+   }
+  },
+  {
+   "id": "PH-H21805-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Article VIII"
+   },
+   "text": {
+    "en": "of the Constitution.\nSection 6. Upon the effectivity of this Decree, the proportionate share of the province of Basilan in the\nobligations, funds, deposits and other properties of the City of Basilan shall be transferred by the President to\nthe province herein created upon the recommendation of the Chairman of the Commission on Audit.\nSection 7. This Decree shall take effect immediately.\nDone in the City of Manila, this 27th day of December, in the year of Our Lord, nineteen hundred and\nseventy-three."
+   }
+  }
+ ]
+}

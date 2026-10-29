@@ -1,0 +1,66 @@
+{
+ "id": "MY-H296",
+ "title": {
+  "zh": "1962年学位与文凭法",
+  "en": "DEGREES AND DIPLOMAS ACT 1962",
+  "orig": "DEGREES AND DIPLOMAS ACT 1962",
+  "vi": "Luật về Bằng cấp và văn bằng năm 1962",
+  "th": "พระราชบัญญัติปริญญาและอนุปริญญา ค.ศ. 1962",
+  "id": "Undang-Undang Gelar dan Diploma Tahun 1962",
+  "ms": "Akta Ijazah dan Diploma 1962"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-7",
+ "language": "en",
+ "level": "law",
+ "category": "05_其他及未分类",
+ "status": "active",
+ "promulgatedDate": "1962",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "ACT379",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 2,
+ "chars": 1088,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-detail.php?act=379&lang=BI"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\05_其他及未分类\\1962_379_DEGREES AND DIPLOMAS ACT 1962.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 2 条；逐字未改写（源自厂商 OCR 文本）。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H296-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "1. This Act may be cited as the Degrees and Diplomas Act,\n1962, and shall be deemed to |have come into force on the\nfirst day of January, 1962."
+   }
+  },
+  {
+   "id": "MY-H296-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "2. (1) Where the possession of any degree or diploma of\nthe former University of Malaya confers any qualification\nor right under any written law passed or made before the\nyear 1962, the like qualification or right under that law\nshall be conferred by poss¢ssion of the corresponding\ndegree or diploma of the present University of Malaya or\nof the University of Singapore.\n\n(2) In this Act \"the former (University of Malaya\" means\nthe University established and incorporated under the\nUniversity of Malaya Ordinance, 1949, and \"the present\nUniversity of Malaya\" means the University of Malaya\nestablished and incorporated under the University of\nMalaya Act, 1961.\n\n[Received the Royal Assent\non the 16th day of\nJuly, 1962.\n\nKUALA LUMPUR\nDI-CHETAK OLEH PEMANGKU PENCHETAK KERAJAAN DAN DI-TERBITKAN DENGAN PERENTAH\nPADA 26HB JULY, 1962\n\nHarga: 20 sen\n\nShort title\nand com-\nmencement.\n\nCorres-\nponding\ndegrees and\ndiplomas.\n\n17 of 1949.\n\n44 of 1961."
+   }
+  }
+ ]
+}

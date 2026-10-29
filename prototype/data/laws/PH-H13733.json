@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13733",
+ "title": {
+  "zh": null,
+  "en": "An Act to Authorize the Temporary Use for School Purposes of the Twenty-Eight thousand Pesos Appropriated By Act Numbered Twenty-Eight Hundred and Seven for the Construction of a Provincial Jail in the Province of Surigao",
+  "orig": "An Act to Authorize the Temporary Use for School Purposes of the Twenty-Eight thousand Pesos Appropriated By Act Numbered Twenty-Eight Hundred and Seven for the Construction of a Provincial Jail in the Province of Surigao"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1923-03-16",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3089",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 528,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1923/act_3089_1923.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03089_1923_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03089_1923_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13733-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The Provincial Board of Surigao is hereby authorized to use for the construction of a new\nprovincial school building the twenty-eight thousand pesos appropriated by Act Numbered Twenty-eight\nhundred and seven for the construction of the provincial jail of that province: Provided, That said sum of\ntwenty-eight thousand pesos shall be returned to the fund for the construction of the provincial jail within ten\nyears from the date of the approval of this Act."
+   }
+  },
+  {
+   "id": "PH-H13733-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, March 16, 1923."
+   }
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13732",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Section Two of Act Numbered Twenty-Eight Hundred Twenty-Nine, Concerning the Readjustment of Salaries of Provincial Officials, and for Other Purposes",
+  "orig": "An Act to Amend Section Two of Act Numbered Twenty-Eight Hundred Twenty-Nine, Concerning the Readjustment of Salaries of Provincial Officials, and for Other Purposes"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1923-03-16",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3088",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 493,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1923/act_3088_1923.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03088_1923_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03088_1923_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13732-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section two of Act Numbered Twenty-eight hundred twenty-nine is hereby amended to read as\n\"Section 2. In order to carry out the purposes of this Act, the Secretary of the Interior shall, beginning with the\nyear nineteen hundred twenty-four and for each period of five consecutive years after said date, order a\nreadjustment made of the salaries of the provincial officials on the basis of the rules established in this Act.\""
+   }
+  },
+  {
+   "id": "PH-H13732-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, March 16, 1923."
+   }
+  }
+ ]
+}

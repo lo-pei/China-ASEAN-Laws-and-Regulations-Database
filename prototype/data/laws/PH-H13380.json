@@ -1,0 +1,72 @@
+{
+ "id": "PH-H13380",
+ "title": {
+  "zh": null,
+  "en": "An Act Appropriating the Sum of One Hundred and Twenty-Five thousand Pesos for the College of Agriculture At Los Baos, for the Establishment of An Experimental station Annexed thereto.",
+  "orig": "An Act Appropriating the Sum of One Hundred and Twenty-Five thousand Pesos for the College of Agriculture At Los Baos, for the Establishment of An Experimental station Annexed thereto."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1918-02-15",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2730",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 624,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1918/act_2730_1918.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02730_1918_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02730_1918_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13380-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The sum of one hundred and twenty-five thousand pesos is hereby appropriated, out of any funds\nin the Insular Treasury not otherwise appropriated, for the College of Agriculture at Los Baños, for such\nexpenses as may be deemed necessary for the establishment of an experimental station annexed to said"
+   }
+  },
+  {
+   "id": "PH-H13380-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The sum herein appropriated shall be at the disposal of the Board of Regents of the University of\nthe Philippines and shall be expended by resolution of the same for the purpose indicated in this Act."
+   }
+  },
+  {
+   "id": "PH-H13380-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "The public good requiring the speedy enactment of this bill, the same shall take effect on its\nApproved, February 15, 1918."
+   }
+  }
+ ]
+}

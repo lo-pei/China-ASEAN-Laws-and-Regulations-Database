@@ -1,0 +1,72 @@
+{
+ "id": "PH-H14187",
+ "title": {
+  "zh": null,
+  "en": "An Act Ceding to the Provincial Government of Romblon the Concrete storehouse Constructed in the Municipality of Romblon for Coal Barn By the Insular Government.",
+  "orig": "An Act Ceding to the Provincial Government of Romblon the Concrete storehouse Constructed in the Municipality of Romblon for Coal Barn By the Insular Government."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1929-11-23",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3554",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 475,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1929/act_3554_1929.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03554_1929_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03554_1929_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14187-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The Insular Government hereby cedes to the provincial government of Romblon the concrete\nstorehouse constructed in the municipality of Romblon for coal deposit by the Insular Government and the lot\nwhereon the building is constructed under the condition that the said building and lot be used for provincial\ngovernment building purposes."
+   }
+  },
+  {
+   "id": "PH-H14187-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Act Numbered Twenty-six hundred and thirty-one is hereby repealed."
+   }
+  },
+  {
+   "id": "PH-H14187-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, November 23, 1929."
+   }
+  }
+ ]
+}

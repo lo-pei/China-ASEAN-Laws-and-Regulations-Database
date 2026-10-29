@@ -1,0 +1,72 @@
+{
+ "id": "PH-H14042",
+ "title": {
+  "zh": null,
+  "en": "An Act Prohibiting and Penalizing Engaging in or Aiding Any Political Movement By Public Utilities.",
+  "orig": "An Act Prohibiting and Penalizing Engaging in or Aiding Any Political Movement By Public Utilities."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1927-12-05",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3409",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1088,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1927/act_3409_1927.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03409_1927_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03409_1927_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14042-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "It shall be unlawful for any individual co-partnership, association, corporation, or joint stock\ncompany, doing business as a \"public utility\" as the same is defined by section thirteen of Act Numbered\nThirty-one hundred and eight, as amended, to engage in or aid, by means of contribution in cash or otherwise,\nany political movement."
+   }
+  },
+  {
+   "id": "PH-H14042-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Any individual who as an officer, agent, director, partner or member of any public utility\nviolates the provisions of this Act shall be guilty of a misdemeanor and upon conviction thereof shall be\npunished by a fine of not exceeding six hundred pesos, or by imprisonment not exceeding six months, or by\nboth such fine and imprisonment, the discretion of the court; and conviction of violation of the provisions of\nthis Act by any such officer, agent, director, partner or member of any public utility shall be sufficient cause\nfor the cancellation of any franchise held by such public utility upon proceedings instituted by the\nAttorney-General in a court of competent jurisdiction."
+   }
+  },
+  {
+   "id": "PH-H14042-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, December 5, 1927."
+   }
+  }
+ ]
+}

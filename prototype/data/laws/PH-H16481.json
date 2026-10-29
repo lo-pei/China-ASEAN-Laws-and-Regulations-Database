@@ -1,0 +1,50 @@
+{
+ "id": "PH-H16481",
+ "title": {
+  "zh": null,
+  "en": "Attestation of the Signature of the President, and Affixing the Great Seal, on Important Documents",
+  "orig": "Attestation of the Signature of the President, and Affixing the Great Seal, on Important Documents"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1935-11-20",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Executive Order No. 4",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 1,
+ "chars": 672,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (HTML full text only)  |  https://lawphil.net/executive/execord/eo1935/eo_4_1935.html"
+ },
+ "sourceFile": "菲律宾/法律原文/07_行政命令_EO/EO_00004_1935_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 1 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 EO_00004_1935_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H16481-A1",
+   "no": 1,
+   "noLabel": {},
+   "text": {
+    "en": "MALACAÑAN PALACE\nBY THE PRESIDENT OF THE PHILIPPINES\n[ EXECUTIVE ORDER NO. 4, November 18, 1935 ]\nATTESTATION OF THE SIGNATURE OF THE PRESIDENT, AND AFFIXING THE GREAT SEAL, ON\nIMPORTANT DOCUMENTS\nUnder the authority conferred upon me by law, I, MANUEL L. QUEZON, President of the Philippines, do\nhereby authorize and direct the Secretary of the Interior to attest my signature on all executive orders,\nproclamations, and commissions, and affix thereto the great seal of the Commonwealth of the Philippines.\nDone at the City of Manila, this twentieth day of November, in the year of Our Lord, nineteen hundred and\nthirty-five.\nMANUEL L. QUEZON\nPresident of the Philippines"
+   }
+  }
+ ]
+}

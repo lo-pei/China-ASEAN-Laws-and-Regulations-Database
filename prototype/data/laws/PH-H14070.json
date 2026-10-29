@@ -1,0 +1,82 @@
+{
+ "id": "PH-H14070",
+ "title": {
+  "zh": null,
+  "en": "An Act to Fix the Salaries of Undersecretaries of Executive Departments.",
+  "orig": "An Act to Fix the Salaries of Undersecretaries of Executive Departments."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1928-11-28",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3437",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 432,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1928/act_3437_1928.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03437_1928_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03437_1928_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14070-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The salaries of Department Undersecretaries are hereby fixed at eight thousand five hundred\npesos per annum each."
+   }
+  },
+  {
+   "id": "PH-H14070-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The funds necessary for carrying out the provisions of this Act are hereby appropriated out of\nany funds in the Insular Treasury not otherwise appropriated."
+   }
+  },
+  {
+   "id": "PH-H14070-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "All acts or parts of acts inconsistent with the provisions of this Act are hereby repealed."
+   }
+  },
+  {
+   "id": "PH-H14070-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, November 28, 1928."
+   }
+  }
+ ]
+}

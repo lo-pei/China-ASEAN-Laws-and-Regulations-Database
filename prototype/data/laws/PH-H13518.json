@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13518",
+ "title": {
+  "zh": null,
+  "en": "An Act to Authorize the Commutation and Payment in Cash of the Accrued Leave of Government Officers and Employees Detailed for Service in the United states or in Some Foreign Country, or Sent to Such Countries as Government students.",
+  "orig": "An Act to Authorize the Commutation and Payment in Cash of the Accrued Leave of Government Officers and Employees Detailed for Service in the United states or in Some Foreign Country, or Sent to Such Countries as Government students."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1919-08-02",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2870",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 854,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1919/act_2870_1919.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02870_1919_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02870_1919_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13518-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Any provision of existing law to the contrary notwithstanding, the commutation of the accrued\nleave earned by Government officers and employees detailed for service in the United States or in some\nforeign country, or sent to such countries as Government students, is hereby authorized, and said leave shall\nbe paid in cash on the date of their departure from the Philippine Islands, in addition to any other\ncompensation or allowances which either may be entitled to receive outside of the Philippine Islands:\nProvided, That in case the person to whom accrued leave has been paid under the provisions of this Act\nreturns to the Islands before the expiration of the leave granted, the same shall be required to return the money\nvalue of the leave not made use of outside of the Islands."
+   }
+  },
+  {
+   "id": "PH-H13518-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, August 2, 1919."
+   }
+  }
+ ]
+}

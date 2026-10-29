@@ -1,0 +1,62 @@
+{
+ "id": "PH-H22527",
+ "title": {
+  "zh": null,
+  "en": "Amending the 94th Article of the Articles of War",
+  "orig": "Amending the 94th Article of the Articles of War"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1977-06-24",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 1166",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 590,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_01166_1977_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_01166_1977_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22527-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Amendment of the 94th Article of War. Article 94 of Commonwealth Act. No. 408, otherwise\nknown as the Articles of War, as amended, is further amended by deleting therefrom the following:\n\"Provided, That in time of peace, officers and enlisted men of the Philippine Constabulary shall not be triable\nby courts-martial for any felony, crime, breach of law or violation of municipal ordinances committed under\nthis Article.\""
+   }
+  },
+  {
+   "id": "PH-H22527-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Effectivity. This decree shall take effect upon approval.\nDone in the City of Manila, this 24th day of June, in the year of Our Lord, nineteen hundred and\nseventy-seven."
+   }
+  }
+ ]
+}

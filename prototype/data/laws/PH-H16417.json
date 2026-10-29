@@ -1,0 +1,62 @@
+{
+ "id": "PH-H16417",
+ "title": {
+  "zh": null,
+  "en": "An Act Appropriating the Sum of Five Million Pesos to Enable the National Housing Commission to Resume Its Functions.",
+  "orig": "An Act Appropriating the Sum of Five Million Pesos to Enable the National Housing Commission to Resume Its Functions."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1945-11-01",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 709",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1040,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00709_1945_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00709_1945_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H16417-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "In order to enable the National Housing Commission created by Commonwealth Act Numbered\nSix hundred and forty-eight to accomplish its purposes and objects as set forth in the said Act, there is\nappropriated out of any funds in the National Treasury not otherwise appropriated the sum of five million\npesos: Provided, however, That said sum shall not be released for expenditure by the said Commission except\nupon order of the President of the Philippines who, in his discretion, may require that release of the said\namount be in full or in installments; And provided further, That the funds herein appropriated shall not be\nreleased unless and until the Secretary of Finance and the Auditor General shall have certified to the President\nthat there are existing and available funds in the National Treasury in excess of the sums appropriated in the\nGeneral Appropriation Law for the fiscal year ending June 30, 1946, and the priority appropriations\nestablished by law."
+   }
+  },
+  {
+   "id": "PH-H16417-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, November 1, 1945."
+   }
+  }
+ ]
+}

@@ -1,0 +1,364 @@
+{
+ "id": "ID-H1082",
+ "title": {
+  "zh": "设立北马鲁古省法",
+  "en": "Law on the Establishment of North Maluku Province",
+  "id": "PEMBENTUKAN PROPINSI MALUKU UTARA,",
+  "orig": "PEMBENTUKAN PROPINSI MALUKU UTARA,",
+  "vi": "Luật về Việc Thành lập Tỉnh Maluku Bắc",
+  "th": "พระราชบัญญัติว่าด้วยการจัดตั้งจังหวัดมาลูกูเหนือ",
+  "ms": "Akta tentang Pembentukan Wilayah Maluku Utara"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02a",
+ "language": "id",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "1999",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU46-1999",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 23,
+ "chars": 25923,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": null
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\01_宪法与基础法\\印尼_WLD_1999_PEMBENTUKAN PROPINSI MALUKU UTARA,.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 23 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H1082-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\nDalam Undang-undang ini yang dimaksud dengan:\na. Daerah adalah Daerah Otonom sebagaimana\ndimaksud dalam Pasal 1 huruf i Undang-undang Nomor 22 Tahun 1999\ntentang Pemerintahan Daerah;\nb. Wilayah Administrasi adalah wilayah kerja\nGubernur sebagaimana dimaksud dalam Pasal 1 huruf j Undang-undang\nNomor 22 Tahun 1999\ntentang Pemerintahan Daerah;\nc. Propinsi Maluku adalah Daerah Otonom\nsebagaimana dimaksud dalam Undang-undang Nomor 20 Tahun 1958\ntentang Penetapan Undang-undang\nDarurat Nomor 22 Tahun 1957 tentang\nPembentukan Daerah Swatantra Tingkat I Maluku (Lembaran Negara\nRepublik Indonesia Tahun 1957\nNomor 79), sebagai\nUndang-undang;\nd. Kabupaten Maluku Utara adalah Daerah Otonom\nsebagaimana dimaksud dalam Undang-undang Nomor 60 Tahun 1958\ntentang Undang-undang\nDarurat Nomor 23 Tahun 1957 tentang\nPembentukan Daerah-daerah Swatantra Tingkat II Dalam Wilayah Daerah\nTingkat I Propinsi Maluku\n(Lembaran Negara Republik Indonesia Tahun\n1957 Nomor 80) sebagai Undang-undang;\ne. Kabupaten Halmahera Tengah adalah Daerah Otonom\nsebagaimana dimaksud dalam Undang-undang Nomor 6 Tahun 1990 tentang\nPembentukan\nKabupaten Daerah Tingkat II Halmahera Tengah;\nf. Kota Ternate adalah Daerah Otonom sebagaimana\ndimaksud dalam Undang-undang Nomor 11 Tahun 1999 tentang\nPembentukan Kotamadya Daerah\nTingkat II Ternate.\nBAB II\nPEMBENTUKAN, BATAS WILAYAH, DAN IBUKOTA"
+   }
+  },
+  {
+   "id": "ID-H1082-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\nDengan Undang-undang ini dibentuk Propinsi Maluku Utara dalam\nwilayah Negara Kesatuan Republik Indonesia serta dibentuk Kabupaten\nBuru dan Kabupaten Maluku Tenggara Barat dalam wilayah Propinsi\nMaluku."
+   }
+  },
+  {
+   "id": "ID-H1082-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\nPropinsi Maluku Utara berasal dari sebagian wilayah Propinsi Maluku\nyang terdiri atas wilayah:\na. Kabupaten Maluku Utara;\nb. Kabupaten Halmahera Tengah; dan\nc. Kota Ternate."
+   }
+  },
+  {
+   "id": "ID-H1082-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\nKabupaten Buru berasal dari sebagian wilayah Kabupaten Maluku\nTengah yang terdiri atas wilayah:\na. Kecamatan Buru Utara Timur;\nb. Kecamatan Buru Utara Barat; dan\nc. Kecamatan Buru Selatan."
+   }
+  },
+  {
+   "id": "ID-H1082-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\nKabupaten Maluku Tenggara Barat berasal dari sebagian wilayah\nKabupaten Maluku Tenggara yang terdiri atas wilayah:\na. Kecamatan Pulau-Pulau Terselatan;\nb. Kecamatan Pulau-Pulau Babar;\nc. Kecamatan Pulau-Pulau Leti Moa Lakor;\nd. Kecamatan Tanimbar Utara; dan\ne. Kecamatan Tanimbar Selatan."
+   }
+  },
+  {
+   "id": "ID-H1082-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\n(1) Dengan dibentuknya Propinsi Maluku Utara,\nsebagaimana dimaksud dalam Pasal 2, wilayah Propinsi Maluku\ndikurangi dengan wilayah\nPropinsi Maluku Utara, sebagaimana\ndimaksud dalam Pasal 3.\n(2) Dengan dibentuknya Kabupaten Buru, sebagaimana\ndimaksud dalam Pasal 2, wilayah Kabupaten Maluku Tengah dikurangi\ndengan wilayah\nKabupaten Buru, sebagaimana dimaksud dalam Pasal\n4\n(3) Dengan dibentuknya Kabupaten Maluku Tenggara\nBarat, sebagaimana dimaksud dalam Pasal 2, wilayah Kabupaten Maluku\nTenggara dikurangi\ndengan wilayah Kabupaten Maluku Tenggara Barat\nsebagaimana dimaksud dalam Pasal 5."
+   }
+  },
+  {
+   "id": "ID-H1082-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\n(1) Propinsi Maluku Utara mempunyai batas wilayah:\na. sebelah utara dengan Samudra Pasifik;\nb. sebelah timur dengan Laut Halmahera;\nc. sebelah selatan dengan Laut Seram; dan\nd. sebelah barat dengan Laut Maluku.\n(2) Kabupaten Buru mempunyai batas wilayah:\na. sebelah utara dengan Laut Seram;\nb. sebelah timur dengan Selat Manipa;\nc. sebelah selatan dengan Laut Banda; dan\nd. sebelah barat dengan Laut Buru.\n(3) Kabupaten Maluku Tenggara Barat mempunyai batas wilayah:\na. sebelah utara dengan Laut Banda;\nb. sebelah timur dengan Laut Arafuru;\nc. sebelah selatan dengan Laut Timor dan Samudera Pasifik; dan\nd. sebelah barat dengan Laut Flores.\n(4) Batas wilayah sebagaimana dimaksud pada ayat\n(1), ayat (2), dan ayat (3), dituangkan dalam peta yang merupakan\nbagian tidak terpisahkan\ndari undang-undang ini.\n(5) Penentuan batas wilayah Propinsi Maluku Utara\ndengan Propinsi Maluku, Kabupaten Buru dengan Kabupaten Maluku\nTengah, dan Kabupaten\nMaluku Tenggara Barat dengan Kabupaten Maluku\nTenggara secara pasti di lapangan, sebagaimana dimaksud pada ayat\n(1), ayat (2), dan\nayat (3), ditetapkan oleh Menteri Dalam\nNegeri."
+   }
+  },
+  {
+   "id": "ID-H1082-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n(1) Dengan dibentuknya Propinsi Maluku Utara,\nKabupaten Buru, dan Kabupaten Maluku Tenggara Barat, sebagaimana\ndimaksud dalam Pasal\n2, dan mempunyai wilayah, sebagaimana dimaksud\ndalam Pasal 3, Pasal 4, dan Pasal 5, Pemerintah Propinsi Maluku\nUtara, Pemerintah\nKabupaten Buru, dan Pemerintah Kabupaten Maluku\nTenggara Barat wajib menetapkan Tata Ruang Wilayah Propinsi Maluku\nUtara, Kabupaten\nBuru, dan Kabupaten Maluku Tenggara Barat, sesuai\ndengan peraturan perundang-undangan.\n(2) Penetapan Tata Ruang Wilayah Propinsi Maluku\nUtara, Kabupaten Buru dan Kabupaten Maluku Tenggara Barat,\nsebagaimana dimaksud pada\nayat (1), dilakukan secara terpadu dan\ntidak terpisahkan dari Tata Ruang Wilayah Nasional, Propinsi, dan\nKabupaten/Kota."
+   }
+  },
+  {
+   "id": "ID-H1082-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n(1) Ibukota Propinsi Maluku Utara berkedudukan di Sofifi.\n(2) Ibukota Kabupaten Buru berkedudukan di Namlea.\n(3) Ibukota Kabupaten Maluku Tenggara Barat berkedudukan di\nSaumlaki.\nBAB III\nKEWENANGAN DAERAH"
+   }
+  },
+  {
+   "id": "ID-H1082-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\n(1) Dengan terbentuknya Propinsi Maluku Utara\nkewenangan Daerah sebagai Daerah Otonom meliputi bidang\npemerintahan yang bersifat lintas\nKabupaten dan Kota, serta\nkewenangan dalam bidang pemerintahan tertentu lainnya.\n(2) Di samping kewenangan sebagaimana dimaksud\npada ayat (1), Propinsi Maluku Utara juga mempunyai kewenangan\npemerintahan yang tidak\natau belum dapat dilaksanakan oleh\nKabupaten dan Kota.\n(3) Kewenangan Propinsi Maluku Utara sebagai\nwilayah Administrasi mencakup kewenangan pemerintahan yang\ndilimpahkan kepada Gubernur\nMaluku Utara selaku wakil\nPemerintah."
+   }
+  },
+  {
+   "id": "ID-H1082-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\n(1) Dengan terbentuknya Kabupaten Buru, dan\nKabupaten Maluku Tenggara Barat, kewenangan Daerah sebagai Daerah\nOtonom mencakup seluruh\nkewenangan bidang pemerintahan, termasuk\nkewenangan wajib, kecuali kewenangan dalam bidang politik luar\nnegeri, pertahanan keamanan,\nperadilan, moneter dan fiskal, agama\nserta kewenangan bidang lain, sesuai dengan peraturan\nperundang-undangan.\n(2) Kewenangan wajib, sebagaimana dimaksud pada\nayat (1), terdiri atas pekerjaan umum, kesehatan, pendidikan dan\nkebudayaan, pertanian,\nperhubungan, industri dan perdagangan,\npenanaman modal, lingkungan hidup, pertanahan, koperasi, dan tenaga\nkerja.\nBAB IV\nPEMERINTAHAN DAERAH"
+   }
+  },
+  {
+   "id": "ID-H1082-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n(1) Dengan terbentuknya Propinsi Maluku Utara,\ndibentuk Dewan Perwakilan Rakyat Daerah Propinsi Maluku Utara\nsesuai dengan peraturan\nperundang-undangan.\n(2) Dengan terbentuknya Kabupaten Buru dan\nKabupaten Maluku Tenggara Barat, dibentuk Dewan Perwakilan Rakyat\nDaerah di Kabupaten masing-masing,\nsesuai dengan peraturan\nperundang-undangan."
+   }
+  },
+  {
+   "id": "ID-H1082-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\n(1) Untuk memimpin jalannya pemerintahan di\nPropinsi Maluku Utara, dipilih dan disahkan seorang Gubernur dan\nWakil Gubernur, sesuai\ndengan peraturan perundang-undangan.\n(2) Untuk memimpin jalannya pemerintahan di\nKabupaten Buru dan Kabupaten Maluku Tenggara Barat, dipilih dan\ndisahkan seorang Bupati\ndan Wakil Bupati di Kabupaten\nmasing-masing, sesuai dengan peraturan perundang-undangan."
+   }
+  },
+  {
+   "id": "ID-H1082-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\n(1) Untuk kelengkapan perangkat pemerintahan, di\nPropinsi Maluku Utara dibentuk Sekretariat Dewan Perwakilan Rakyat\nDaerah Propinsi,\nSekretariat Propinsi, dinas-dinas Propinsi, dan\nlembaga teknis Propinsi, sesuai dengan peraturan\nperundang-undangan.\n(2) Untuk kelengkapan perangkat pemerintahan, di\nKabupaten Buru dan Kabupaten Maluku Tenggara Barat, masing-masing\ndibentuk Sekretariat\nDewan Perwakilan Rakyat Daerah Kabupaten,\nSekretariat Kabupaten, dinas-dinas Kabupaten, dan lembaga teknis\nKabupaten, sesuai dengan\nperaturan perundang-undangan.\nBAB V\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H1082-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\n(1) Dengan terbentuknya Propinsi Maluku Utara,\nKabupaten Buru dan Kabupaten Maluku Tenggara Barat, pengisian\nkeanggotaan Dewan Perwakilan\nRakyat Daerah Propinsi Maluku Utara,\nDewan Perwakilan Rakyat Daerah Kabupaten Buru, dan Dewan Perwakilan\nRakyat Daerah Kabupaten\nMaluku Tenggara Barat diselenggarakan\nmelalui pemilihan umum lokal selambat-lambatnya satu tahun sejak\nperesmiannya, sesuai dengan\nperaturan perundang-undangan.\n(2) Anggota Dewan Perwakilan Rakyat Daerah\nPropinsi Maluku Utara, Kabupaten Buru, dan Kabupaten Maluku\nTenggara Barat terdiri atas:\na. anggota Dewan Perwakilan Rakyat Daerah yang\nditetapkan dari partai politik peserta pemilihan umum lokal yang\ndilaksanakan di Daerah\nmasing-masing; dan\nb. anggota ABRI yang diangkat.\n(3) Jumlah dan tata cara pengisian keanggotaan\nDewan Perwakilan Rakyat Daerah Propinsi Maluku Utara, Dewan\nPerwakilan Rakyat Daerah\nKabupaten Buru, dan Dewan Perwakilan\nRakyat Daerah Kabupaten Maluku Tenggara Barat, sebagaimana dimaksud\npada ayat (2), ditetapkan\nsesuai dengan peraturan\nperundang-undangan.\n(4) Dengan terbentuknya Propinsi Maluku Utara,\njumlah anggota Dewan Perwakilan Rakyat Daerah Propinsi Maluku\ndisesuaikan dengan jumlah\npenduduk Propinsi Maluku setelah\ndikurangi dengan jumlah penduduk Propinsi Maluku Utara.\n(5) Dengan terbentuknya Kabupaten Buru, jumlah\nanggota Dewan Perwakilan Rakyat Daerah Kabupaten Maluku Tengah\ndisesuaikan dengan jumlah\npenduduk Kabupaten Maluku Tengah setelah\ndikurangi dengan jumlah penduduk Kabupaten Buru.\n(6) Dengan terbentuknya Kabupaten Maluku Tenggara\nBarat, jumlah anggota Dewan Perwakilan Rakyat Daerah Kabupaten\nMaluku Tenggara disesuaikan\ndengan jumlah penduduk Kabupaten Maluku\nTenggara setelah dikurangi dengan jumlah penduduk Kabupaten Maluku\nTenggara Barat."
+   }
+  },
+  {
+   "id": "ID-H1082-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\n(1) Pada saat terbentuknya Propinsi Maluku Utara,\nPenjabat Gubernur Maluku Utara untuk pertama kali diangkat oleh\nPresiden atas usul\nMenteri Dalam Negeri.\n(2) Pada saat terbentuknya Kabupaten Buru dan\nKabupaten Maluku Tenggara Barat, Penjabat Bupati Buru dan Penjabat\nBupati Maluku Tenggara\nuntuk pertama kali diangkat oleh Menteri\nDalam Negeri atas nama Presiden berdasarkan usul Gubernur\nMaluku."
+   }
+  },
+  {
+   "id": "ID-H1082-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\n(1) Untuk kelancaran penyelenggaraan pemerintahan\ndi Propinsi Maluku Utara, Kabupaten Buru, dan Kabupaten Maluku\nTenggara Barat, maka\nGubernur Maluku, Bupati Kabupaten Maluku\nTengah, dan Bupati Maluku Tenggara sesuai dengan wewenang dan\ntugasnya masing-masing menginventarisasi\ndan mengatur penyerahan\nkepada Pemerintah Propinsi Maluku Utara, Pemerintah Kabupaten Buru,\ndan Pemerintah Kabupaten Maluku Tenggara\nBarat, sesuai dengan\nperaturan perundang-undangan:\na. pegawai yang karena jabatannya diperlukan oleh\nPemerintah Propinsi Maluku Utara, Pemerintah Kabupaten Buru, dan\nPemerintah Kabupaten\nMaluku Tenggara Barat;\nb. tanah, bangunan, barang bergerak, dan barang\ntidak bergerak yang dimiliki, dikuasai, atau dimanfaatkan oleh\nPemerintah Propinsi\nMaluku yang berada dalam Propinsi Maluku Utara,\nKabupaten Buru, dan Kabupaten Maluku Tenggara Barat;\nc. Badan Usaha Milik Daerah Propinsi Maluku yang\nberkedudukan di Propinsi Maluku Utara, Kabupaten Buru, dan\nKabupaten Maluku Tenggara\nBarat, Badan Usaha Milik Daerah Kabupaten\nMaluku Tengah dan Kabupaten Maluku Tenggara yang kedudukan dan\nsifatnya diperlukan serta\nkegiatannya berada di Kabupaten Buru dan\nKabupaten Maluku Tenggara Barat;\nd. utang piutang Propinsi Maluku yang kegunaannya\nuntuk Propinsi Maluku Utara dan utang piutang Kabupaten Maluku\nTengah dan Kabupaten\nMaluku Tenggara yang kegunaannya masing-masing\nuntuk Kabupaten Buru dan Kabupaten Maluku Tenggara Barat; dan\ne. perlengkapan kantor, arsip, dokumen, dan\nperpustakaan yang karena sifatnya diperlukan oleh Propinsi Maluku\nUtara, Kabupaten Buru\ndan Kabupaten Maluku Tenggara Barat.\n(2) Pelaksanaan penyerahan sebagaimana dimaksud\npada ayat (1) selambat-lambatnya harus diselesaikan dalam waktu\nsatu tahun, terhitung\nsejak diresmikannya Propinsi Maluku Utara,\nKabupaten Buru dan Kabupaten Maluku Tenggara Barat."
+   }
+  },
+  {
+   "id": "ID-H1082-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\n(1) Pembiayaan yang diperlukan akibat pembentukan\nPropinsi Maluku Utara, Kabupaten Buru dan Kabupaten Maluku Tenggara\nBarat, sebagaimana\ndimaksud dalam Pasal 2, masing-masing dibebankan\npada Anggaran Pendapatan dan Belanja Daerah Propinsi Maluku Utara,\nKabupaten Buru\ndan Kabupaten Maluku Tenggara Barat.\n(2) Untuk kelancaran penyelenggaraan pemerintahan\ndan pembangunan, terhitung sejak diresmikannya pembentukan Propinsi\nMaluku Utara,\nKabupaten Buru, dan Kabupaten Maluku Tenggara Barat,\nsegala pembiayaan yang diperlukan pada tahun pertama sebelum dapat\ndisusun Anggaran\nPendapatan dan Belanja Daerah yang bersangkutan\nmasing-masing dibebankan pada Anggaran Pendapatan dan Belanja\nDaerah Propinsi Maluku,\nKabupaten Maluku Tengah, dan Kabupaten\nMaluku Tenggara, berdasarkan pembagian hasil pendapatan yang\ndiperoleh dari wilayah Propinsi\nMaluku Utara, dan Kabupaten Buru,\ndan Kabupaten Maluku Tenggara Barat.\n(3) Pemerintah Propinsi Maluku wajib membantu\npembiayaan sebagaimana dimaksud pada ayat (1), melalui Anggaran\nPendapatan dan Belanja\nDaerah Propinsi Maluku selama tiga tahun\nberturut-turut, terhitung sejak peresmiannya.\n(4) Untuk kelancaran penyelenggaraan tugas\npemerintahan, pembangunan, dan pembinaan kemasyarakatan, Pemerintah\nmemberikan bantuan\npembiayaan sebagai akibat Pembentukan Propinsi\nMaluku Utara selama tiga tahun berturut-turut, terhitung sejak\nperesmiannya."
+   }
+  },
+  {
+   "id": "ID-H1082-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\n(1) Semua peraturan perundang-undangan yang saat\nini berlaku bagi Propinsi Maluku tetap berlaku bagi Propinsi Maluku\nUtara, sebelum\ndiubah, diganti, atau dicabut berdasarkan\nUndang-undang ini.\n(2) Semua peraturan perundang-undangan yang saat\nini berlaku bagi Kabupaten Maluku Tengah tetap berlaku bagi\nKabupaten Buru, sebelum\ndiubah, diganti, atau dicabut berdasarkan\nUndang-undang ini.\n(3) Semua peraturan perundang-undangan yang saat\nini berlaku bagi Kabupaten Maluku Tenggara tetap berlaku bagi\nKabupaten Maluku Tenggara\nBarat, sebelum diubah, diganti, atau\ndicabut berdasarkan Undang-undang ini."
+   }
+  },
+  {
+   "id": "ID-H1082-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\n(1) Sementara menunggu kesiapan prasarana dan\nsarana yang memadai bagi ibukota Propinsi Maluku Utara, sebagaimana\ndimaksud dalam Pasal\n9 ayat (1), ibukota sementara ditetapkan di\nTernate.\n(2) Selambat-lambatnya dalam jangka waktu lima\ntahun ibukota Propinsi Maluku Utara yang definitif telah\ndifungsikan.\nBAB VI\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H1082-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\nPada saat berlakunya Undang-undang ini, semua peraturan\nperundang-undangan yang tidak sesuai dengan Undang-undang ini\ndinyatakan\ntidak berlaku."
+   }
+  },
+  {
+   "id": "ID-H1082-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\nKetentuan lebih lanjut yang diperlukan sebagai pelaksanaan\nUndang-undang ini diatur sesuai dengan peraturan\nperundang-undangan."
+   }
+  },
+  {
+   "id": "ID-H1082-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\nUndang-undang ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nUndang-undang ini dengan penempatannya dalam Lembaran Negara\nRepublik\nIndonesia.\nDisahkan di Jakarta\npada tanggal 4 Oktober 1999\nPRESIDEN REPUBLIK INDONESIA,\nBACHARUDDIN JUSUF HABIBIE\nDiundangkan di Jakarta\npada tanggal 4 Oktober 1999\nMENTERI NEGARA SEKRETARIS NEGARA\nREPUBLIK INDONESIA,\nMULADI\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1999 NOMOR 174\nPENJELASAN\nATAS\nUNDANG-UNDANG REPUBLIK INDONESIA\nNOMOR 46 TAHUN 1999\nTENTANG\nPEMBENTUKAN PROPINSI MALUKU UTARA,\nKABUPATEN BURU, DAN KABUPATEN MALUKU TENGGARA BARAT\nI. UMUM\nPropinsi Maluku, Kabupaten Maluku Tengah, dan\nKabupaten Maluku Tenggara meskipun telah menunjukkan kemajuan dalam\npenyelenggaraan\npemerintahan, pelaksanaan pembangunan, dan\npembinaan kemasyarakatan, dalam perkembangannya perlu ditingkatkan\nsesuai dengan potensi\nDaerah dan luas wilayah serta kebutuhan pada\nmasa mendatang.\nPropinsi Maluku merupakan wilayah kepulauan\ndan mempunyai wilayah daratan 77.870,56 km2 dengan sarana serta\nprasarana komunikasi dan\ntransportasi yang relatif masih terbatas,\nkhususnya di bagian utara, tengah, dan selatan.\nWilayah Propinsi Maluku bagian utara meliputi\nKabupaten Maluku Utara, Kabupaten Halmahera Tengah, dan Kota\nTernate, Kabupaten Maluku\nTengah bagian barat, khususnya Buru,\nterdiri atas Kecamatan Buru Utara Timur, Kecamatan Buru Selatan,\ndan Kecamatan Buru Utara Barat;\nKabupaten Maluku Tenggara barat\ndaya meliputi Kecamatan Pulau-Pulau Terselatan, Kecamatan\nPulau-Pulau Babar, Kecamatan Pulau-Pulau\nLeti Moa Lakor, Kecamatan\nTanimbar Utara, dan Kecamatan Tanimbar Selatan yang wilayah\ntersebut relatif luas dan dihadapkan pada terbatasnya\nsarana serta\nprasarana transportasi dan komunikasi.\nSecara geografis Kabupaten Maluku Utara,\nKabupaten Halmahera Tengah, Kota Ternate, Kabupaten Maluku Tengah,\ndan Kabupaten Maluku Tenggara\nmempunyai kedudukan yang sangat\nstrategis jika ditinjau dari segi politik, ekonomi, sosial, budaya,\ndan pertahanan keamanan serta\nberbatasan dengan Samudra\nPasifik.\nPerkembangan Propinsi Maluku pada umumnya\nserta Kabupaten Maluku Utara, Kabupaten Halmahera Tengah, Kota\nTernate, Kabupaten Maluku\nTengah, dan Kabupaten Maluku Tenggara\npada khususnya telah menunjukkan kemajuan dalam penyelenggaraan\npemerintahan, pelaksanaan pembangunan,\ndan pembinaan\nkemasyarakatan, serta kemampuan untuk mengembangkan potensi Daerah\nyang diikuti pula dengan peningkatan jumlah penduduk\nyang cukup\npesat dengan laju pertumbuhan yang cukup tinggi.\nHal ini mengakibatkan bertambahnya beban tugas\ndan volume kerja dalam penyelenggaraan pemerintahan, pelaksanaan\npembangunan, dan pembinaan\nkemasyarakatan.\nBerdasarkan hal-hal tersebut di atas dan\nmemperhatikan aspirasi masyarakat yang berkembang sejak tahun 1957\ndan selanjutnya secara\nformal dituangkan dalam Keputusan DPRD\nKabupaten Daerah Tingkat II Maluku Utara tanggal 23 November 1998\nNomor 188.4/26/DPRD/MU/1998\ntentang Dukungan dan Persetujuan DPRD\nKabupaten Daerah Tingkat II Maluku Utara terhadap usul Pembentukan\nPropinsi Maluku Utara, Keputusan\nDPRD Propinsi Daerah Tingkat I\nMaluku tanggal 18 Desember 1998 Nomor 06 Tahun 1998 tentang\nDukungan Rencana Pembentukan Propinsi\nDaerah Tingkat I Maluku\nUtara, Keputusan DPRD Daerah Tingkat II Maluku Tengah tanggal 3\nSeptember 1998 Nomor 10/KPTS/DPRD/1998 tentang\nDukungan DPRD\nKabupaten Daerah Tingkat II Maluku Tengah terhadap Pembentukan\nKabupaten Daerah Tingkat II Buru, Keputusan DPRD Daerah\nTingkat II\nMaluku Tenggara tanggal 27 Januari 1998 Nomor 02/DPRD-II.MT/1998\ntentang Persetujuan Pemekaran Kabupaten Maluku Tenggara,\ndan\nKeputusan DPRD Propinsi Daerah Tingkat I Maluku tanggal 12 Maret\n1997 Nomor 01 Tahun 1997 tentang dukungan DPRD Propinsi Daerah\nTingkat I Maluku terhadap Pemekaran wilayah di Propinsi Daerah\nTingkat I Maluku, maka Propinsi Maluku perlu ditata menjadi dua\nPropinsi\ndengan membentuk Propinsi Maluku Utara yang wilayahnya\nmeliputi Kabupaten Maluku Utara, Kabupaten Halmahera Tengah, dan\nKota Ternate,\nmembentuk Kabupaten Buru sebagai pemekaran dari\nKabupaten Maluku Tengah, dan membentuk Kabupaten Maluku Tenggara\nBarat sebagai pemekaran\ndari Kabupaten Maluku Tenggara.\nDengan terbentuknya Propinsi Maluku Utara,\nwilayah Propinsi Maluku berkurang seluas wilayah Propinsi Maluku\nUtara;\ndengan terbentuknya Kabupaten Buru, wilayah\nKabupaten Maluku Tengah berkurang seluas wilayah Kabupaten Buru;\ndan dengan terbentuknya\nKabupaten Maluku Tenggara Barat, wilayah\nKabupaten Maluku Tenggara berkurang seluas Kabupaten Maluku\nTenggara Barat.\nII. PASAL DEMI PASAL\nPasal 1\nCukup jelas\nPasal 2\nWilayah Propinsi Maluku Utara berasal dari\nsebagian wilayah Propinsi Maluku, yaitu Kabupaten Maluku Utara yang\ndibentuk dengan Undang-undang\nNomor 60 tahun 1958, Kabupaten\nHalmahera Tengah yang dibentuk dengan Undang-undang Nomor 6 Tahun\n1990, dan Kota Ternate yang dibentuk\ndengan Undang-undang Nomor 11\nTahun 1999.\nKabupaten Buru berasal dari sebagian wilayah Kabupaten Maluku\nTengah dan Kabupaten Maluku Tenggara Barat berasal dari sebagian\nwilayah\nKabupaten Maluku Tenggara.\nPasal 3\nCukup jelas\nPasal 4\nCukup jelas\nPasal 5\nCukup jelas\nPasal 6\nCukup jelas\nPasal 7\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nPeta sebagaimana dimaksud pada ayat ini adalah\npeta wilayah Propinsi Maluku Utara, Kabupaten Buru, dan Kabupaten\nMaluku Tenggara Barat\ndalam bentuk lampiran Undang-undang\nini.\nAyat (5)\nPenetapan batas wilayah secara pasti antara\nPropinsi Maluku Utara dan Propinsi Maluku, Kabupaten Buru dan\nKabupaten Maluku Tengah,\nserta Kabupaten Maluku Tenggara Barat, dan\nKabupaten Maluku Tenggara ditetapkan oleh Menteri Dalam Negeri\nsetelah mempertimbangkan\nusul Gubernur Maluku dan Gubernur Maluku\nUtara yang didasarkan atas hasil penelitian, pengukuran, dan\npematokan di lapangan.\nPasal 8\nAyat (1)\nDalam rangka pengembangan Propinsi Maluku Utara,\nKabupaten Buru, Kabupaten Maluku Tenggara Barat sesuai dengan\npotensi Daerah, guna\nperencanaan dan pelaksanaan penyelenggaraan\npemerintahan serta pembangunan pada masa mendatang khususnya, dan\nuntuk pengembangan\nsarana serta prasarana pemerintahan dan\npembangunan, diperlukan adanya kesatuan perencanaan pembangunan.\nUntuk itu, Tata Ruang Wilayah\nPropinsi Maluku Utara, Kabupaten\nBuru, dan Kabupaten Maluku Tenggara Barat harus benar-benar serasi\ndan terpadu penyusunannya dalam\nsatu kesatuan sistem Rencana Tata\nRuang Wilayah Nasional, Propinsi, dan Kabupaten/Kota.\nAyat (2)\nCukup jelas\nPasal 9\nAyat (1)\nYang dimaksud dengan Sofifi sebagai ibukota\nPropinsi Maluku Utara pada ayat ini adalah sebagian wilayah yang\nberada di Kecamatan Oba,\nKabupaten Halmahera Tengah.\nAyat (2)\nYang dimaksud dengan Namlea sebagai ibukota\nKabupaten Buru adalah sebagian wilayah yang berada di Kecamatan\nBuru Utara Timur.\nAyat (3)\nYang dimaksud dengan Saumlaki sebagai ibukota\nKabupaten Maluku Tenggara Barat adalah sebagian wilayah yang berada\ndi Kecamatan Tanimbar\nSelatan.\nPasal 10\nCukup jelas\nPasal 11\nCukup jelas\nPasal 12\nCukup jelas\nPasal 13\nCukup jelas\nPasal 14\nAyat (1)\nPembentukan dinas-dinas Propinsi dan lembaga\nteknis Propinsi harus disesuaikan dengan kebutuhan dan kemampuan\nPropinsi.\nAyat (2)\nPembentukan dinas-dinas Kabupaten dan lembaga\nteknis Kabupaten harus disesuaikan dengan kebutuhan dan kemampuan\nKabupaten.\nPasal 15\nAyat (1)\nCukup jelas\nAyat (2)\nHuruf a\nYang dimaksud dengan partai politik peserta\npemilihan umum lokal adalah partai politik peserta pemilihan umum\ntahun 1999.\nHuruf b\nYang dimaksud dengan anggota ABRI adalah Tentara\nNasional Indonesia dan Kepolisian Negara Republik Indonesia.\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nAyat (5)\nCukup jelas\nAyat (6)\nCukup jelas\nPasal 16\nAyat (1)\nPenjabat Gubernur Maluku Utara melaksanakan tugas\nsampai dengan disahkannya Gubernur Maluku Utara hasil pemilihan\nDewan Perwakilan\nRakyat Daerah Propinsi Maluku Utara.\nAyat (2)\nPenjabat Bupati Buru dan Penjabat Bupati Maluku\nTenggara Barat melaksanakan tugas sampai dengan disahkannya Bupati\nBuru dan Bupati\nMaluku Tenggara Barat yang merupakan hasil\npemilihan Dewan Perwakilan Rakyat Daerah Kabupaten\nmasing-masing.\nPasal 17\nAyat (1)\nDengan terbentuknya Propinsi Maluku Utara,\nKabupaten Buru dan Kabupaten Maluku Tenggara Barat untuk mencapai\ndaya guna dan hasil guna\ndalam penyelenggaraan pemerintahan,\npelaksanaan pembangunan, dan pembinaan kemasyarakatan, digunakan\npegawai, tanah, gedung perkantoran\nbeserta perlengkapannya, dan\nfasilitas pelayanan umum yang telah ada selama ini dan telah\ndipakai oleh Pemerintah Kabupaten Maluku\nUtara, Pemerintah\nKabupaten Halmahera Tengah, Pemerintah Kota Ternate dan Kecamatan\nBuru Utara Timur, Kecamatan Buru Selatan, Kecamatan\nBuru Utara\nBarat, Kecamatan Pulau-Pulau Terselatan, Kecamatan Pulau-Pulau\nBabar, Kecamatan Pulau-Pulau Leti Mua Lakor, Kecamatan\nTanimbar\nUtara, dan Kecamatan Tanimbar Selatan.\nDalam rangka tertib administrasi, diperlukan tindakan hukum berupa\npenyerahan dari Pemerintah Propinsi Maluku kepada Propinsi Maluku\nUtara, dari Pemerintah Propinsi Maluku dan Pemerintah Kabupaten\nMaluku Tengah kepada Pemerintah Kabupaten Buru serta dari\nPemerintah\nPropinsi Maluku dan Pemerintah Kabupaten Maluku Tenggara\nkepada Kabupaten Maluku Tenggara Barat.\nDemikian pula halnya Badan Usaha Milik Daerah Propinsi Maluku yang\nkedudukan dan kegiatannya berada di wilayah Propinsi Maluku Utara,\nKabupaten Buru dan Kabupaten Maluku Tenggara Barat, Badan Usaha\nMilik Daerah Kabupaten Maluku Tengah yang kedudukan dan kegiatannya\nberada di Kabupaten Buru, Badan Usaha Milik Daerah Kabupaten Maluku\nTenggara yang kedudukan dan kegiatannya berada di Kabupaten Maluku\nTenggara Barat, untuk mencapai daya guna dan hasil guna dalam\npenyelenggaraannya, jika dianggap perlu, diserahkan oleh Pemerintah\nPropinsi Maluku, Pemerintah Kabupaten Maluku Tengah, dan Pemerintah\nKabupaten Maluku Tenggara, sesuai dengan wewenang dan lingkup\ntugasnya masing-masing kepada Pemerintah Propinsi Maluku Utara,\nPemerintah Kabupaten Buru, dan Pemerintah Kabupaten Maluku Tenggara\nBarat.\nBegitu juga utang piutang yang kegunaannya untuk Propinsi Maluku\nUtara diserahkan pula kepada Propinsi Maluku Utara dan utang\npiutang\nyang kegunaannya untuk Kabupaten Buru serta Kabupaten\nMaluku Tenggara Barat diserahkan pula kepada Kabupaten Buru dan\nKabupaten Maluku\nTenggra Barat.\nBerkenaan dengan itu pengaturan penyerahan tersebut, dibuatkan\ndaftar inventaris.\nAyat (2)\nYang dimaksud dengan sejak diresmikannya Propinsi\nMaluku Utara, Kabupaten Buru dan Kabupaten Maluku Tenggara Barat\nadalah terhitung\nsejak dilantiknya Penjabat Gubernur Maluku Utara,\nPenjabat Bupati Buru, dan Penjabat Bupati Maluku Tenggara\nBarat.\nPelantikan Penjabat Gubernur Maluku Utara, Penjabat Bupati Buru,\ndan Penjabat Bupati Maluku Tenggara Barat didahului dengan\nperesmian\npembentukan Propinsi Maluku Utara, Kabupaten Buru dan\nKabupaten Maluku Tenggara Barat oleh Menteri Dalam Negeri atas nama\nPresiden\nRepublik Indonesia.\nSetelah satu tahun peresmian Propinsi Maluku Utara, Kabupaten Buru,\ndan Kabupaten Maluku Tenggara Barat, Gubernur Maluku dan Gubernur\nMaluku Utara wajib melaporkan pelaksanaan penyerahan sebagaimana\ndimaksud pada ayat ini kepada Menteri Dalam Negeri untuk bahan\npengambilan\nkebijakan lebih lanjut.\nPasal 18\nAyat (1)\nYang dimaksud dengan pembiayaan adalah biaya yang\ndiperuntukan untuk pembangunan gedung perkantoran, rumah dinas,\nperlengkapan kantor,\nsarana mebel, dan sarana mobilitas serta untuk\nbiaya operasional bagi kelancaran penyelenggaraan pemerintahan dan\npembangunan, serta\npembinaan kemasyarakatan.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nPasal 19\nCukup jelas\nPasal 20\nCukup jelas\nPasal 21\nCukup jelas\nPasal 22\nCukup jelas\nPasal 23\nCukup jelas\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 3895\nLampiran ...(peta)"
+   }
+  }
+ ]
+}

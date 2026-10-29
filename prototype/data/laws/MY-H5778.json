@@ -1,0 +1,354 @@
+{
+ "id": "MY-H5778",
+ "title": {
+  "zh": "2012年马来西亚可可局条例",
+  "en": "MALAYSIAN COCOA BOARD REGULATIONS 2012",
+  "orig": "MALAYSIAN COCOA BOARD REGULATIONS 2012",
+  "ms": "Peraturan Lembaga Koko Malaysia 2012",
+  "vi": "Quy định về Ủy ban Ca cao Malaysia năm 2012",
+  "th": "ข้อบังคับคณะกรรมการโกโก้มาเลเซีย ค.ศ. 2012",
+  "id": "Peraturan Dewan Kakao Malaysia Tahun 2012"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-12",
+ "language": "ms",
+ "level": "regulation",
+ "category": "05_其他及未分类",
+ "status": "active",
+ "promulgatedDate": "2012",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "PUA41",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 26,
+ "chars": 32612,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-view.php?type=pua&no=P.U. (A) 41/2012&status=PRINCIPAL"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\05_其他及未分类\\2012_P.U.(A)41-2012_MALAYSIAN COCOA BOARD REGULATIONS 2012.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 26 条；逐字未改写（源自厂商 OCR 文本）；已清除正文中的 3 个控制字符（C0/C1 区，法律文本中无合法用途，系 PDF 抽取/表单域残留）。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H5778-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "1. Nama dan permulaan kuat kuasa"
+   }
+  },
+  {
+   "id": "MY-H5778-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "2. Tafsiran"
+   }
+  },
+  {
+   "id": "MY-H5778-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "3. Pelesenan"
+   }
+  },
+  {
+   "id": "MY-H5778-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "4. Pendaftaran"
+   }
+  },
+  {
+   "id": "MY-H5778-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "5. Kad penggred"
+   }
+  },
+  {
+   "id": "MY-H5778-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "6. Permohonan bagi lesen"
+   }
+  },
+  {
+   "id": "MY-H5778-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "7. Butir lanjut dan temuduga"
+   }
+  },
+  {
+   "id": "MY-H5778-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "8. Pemberian kelulusan bagi permohonan lesen"
+   }
+  },
+  {
+   "id": "MY-H5778-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "9. Tempoh sah lesen"
+   }
+  },
+  {
+   "id": "MY-H5778-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "10. Pematuhan syarat dan sekatan yang dikenakan ke atas lesen"
+   }
+  },
+  {
+   "id": "MY-H5778-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "11. Pematuhan undang-undang lain"
+   }
+  },
+  {
+   "id": "MY-H5778-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "12. Permohonan bagi membaharui lesen"
+   }
+  },
+  {
+   "id": "MY-H5778-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "13. Penyerahhakan lesen"
+   }
+  },
+  {
+   "id": "MY-H5778-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "14. Salinan lesen yang diperakui sah"
+   }
+  },
+  {
+   "id": "MY-H5778-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "15. Pempameran lesen dan slip pembaharuan lesen"
+   }
+  },
+  {
+   "id": "MY-H5778-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "16. Pembatalan atau penggantungan lesen"
+   }
+  },
+  {
+   "id": "MY-H5778-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "17. Penarikan balik lesen"
+   }
+  },
+  {
+   "id": "MY-H5778-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "18. Kebenaran untuk memasuki premis berlesen"
+   }
+  },
+  {
+   "id": "MY-H5778-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "19. Kebenaran untuk mengambil sampel"
+   }
+  },
+  {
+   "id": "MY-H5778-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "20. Penggredan biji koko kering atau keluaran separa siap untuk dibeli, dsb."
+   }
+  },
+  {
+   "id": "MY-H5778-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "21. Larangan terhadap mengeksport dan mengimport bahan tanaman koko"
+   }
+  },
+  {
+   "id": "MY-H5778-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "22. Pengisytiharan pemindahan koko"
+   }
+  },
+  {
+   "id": "MY-H5778-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "23. Fi"
+   }
+  },
+  {
+   "id": "MY-H5778-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "24. Borang"
+   }
+  },
+  {
+   "id": "MY-H5778-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "25. Pembatalan"
+   }
+  },
+  {
+   "id": "MY-H5778-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "26. Peruntukan kecualian dan peralihan\n\nJADUAL PERTAMA\n\nJADUAL KEDUA\n\nAKTA LEMBAGA KOKO MALAYSIA (PEMERBADANAN) 1988\n\nPERATURAN–PERATURAN LEMBAGA KOKO MALAYSIA 2012\n\nPADA menjalankan kuasa yang diberikan oleh seksyen 11 Akta Lembaga Koko Malaysia\n\n(Pemerbadanan) 1988 [Akta 343], Menteri setelah berunding dengan Lembaga,\n\nmembuat peraturan-peraturan berikut:\n\nNama dan permulaan kuat kuasa\n\n1. (1) Peraturan-peraturan ini bolehlah dinamakan Peraturan-Peraturan\n\nLembaga Koko Malaysia 2012.\n\n(2) Peraturan-Peraturan ini mula berkuat kuasa pada 10 Februari 2012.\n\nTafsiran\n\n2. Dalam Peraturan-Peraturan ini, melainkan jika konteksnya menghendaki makna\n\nyang lain\n\n\"agensi penggredan koko\" ertinya mana-mana badan, firma, syarikat atau badan\n\nberkanun yang berdaftar dengan Lembaga untuk menggred biji koko atau keluaran\n\nkoko dan mengeluarkan suatu sijil penggredan bagi maksud mengeksport atau\n\nmengimport;\n\n\"biji koko basah\" ertinya biji koko segar yang diperoleh setelah buah koko\n\ndibelah;\n\n\"biji koko kering\" ertinya biji koko yang telah melalui proses pengeringan;\n\n\"fermentasi\" ertinya suatu proses apabila biji koko basah melalui perubahan\n\nbiokima yang menukar bentuk fizikal dan kandungan kokonya;\n\n\"gred\" ertinya penentuan gred bagi biji koko mengikut penentuan standard yang\n\ndiisytiharkan menurut Akta Standard Malaysia 1996 [Akta 549];\n\n\"lesen\" ertinya suatu lesen yang dikeluarkan di bawah peraturan 3;\n\n\"keluaran separa siap\" ertinya likuor koko, mentega koko, koko berbuku dan\n\nserbuk koko;\n\n\"membeli\" termasuklah untuk memperoleh bagi suatu balasan selain wang;\n\n\"memproses biji koko basah\" ertinya apa-apa pelaksanaan bagi satu atau lebih\n\naktiviti yang berkaitan dengan fermentasi, pengeringan, pembersihan dan penyisihan;\n\n\"pedagang keluaran separa siap\" ertinya seseorang yang memegang suatu lesen\n\nyang sah untuk menjalankan aktiviti yang dinyatakan dalam subperaturan 3(2);\n\n\"pedagang koko\" ertinya seseorang yang memegang suatu lesen yang sah untuk\n\nmenjalankan aktiviti yang dinyatakan dalam subperaturan 3(1);\n\n\"pegawai yang diberi kuasa\" ertinya mana-mana pegawai yang diberi kuasa di\n\nbawah seksyen 23A Akta;\n\n\"penggred\" ertinya mana-mana orang termasuklah suatu agensi penggredan\n\nkoko, berdaftar dengan Lembaga dan memegang suatu kad penggred yang dikeluarkan\n\noleh Lembaga;\n\n\"penggredan\" ertinya aktiviti menentukan gred biji koko, keluaran koko atau\n\nbahan tanaman koko;\n\n\"pengisar koko\" ertinya seseorang yang memegang suatu lesen yang sah untuk\n\nmenjalankan aktiviti yang dinyatakan dalam subperaturan 3(3);\n\n\"peniaga biji koko basah\" ertinya mana-mana orang yang membeli dan\n\nmemproses biji koko basah menjadi biji koko kering;\n\n\"premis berlesen\" merujuk kepada premis yang disebut dalam lesen; dan\n\n\"pendaftaran\" ertinya suatu pendaftaran apa-apa aktiviti di bawah peraturan 4.\n\nPelesenan\n\n3. (1) Mana-mana orang yang—\n\n(a) membeli, menjual, memindah dan menyimpan bahan tanaman\n\nkoko;\n\n(b) membeli atau memproses biji koko basah;\n\n(c) membeli, menjual, mengimport atau mengeksport biji koko kering;\n\natau\n\n(d) menjalankan gabungan mana-mana atau semua aktiviti di bawah\n\nperenggan (a), (b) dan (c),\n\nhendaklah memohon untuk suatu lesen yang sah sebagai seorang pedagang koko\n\ndengan Lembaga.\n\n(2) Mana-mana orang yang membeli, menjual, memindah, menyimpan,\n\nmengimport atau mengeksport keluaran separa siap hendaklah memohon suatu lesen\n\nyang sah sebagai seorang pedagang keluaran separa siap dengan Lembaga.\n\n(3) Mana-mana orang yang mengisar biji koko kering yang dibeli atau\n\ndiimport kepada keluaran separa siap untuk tujuan jualan atau eksport hendaklah\n\nmemohon untuk suatu lesen yang sah sebagai seorang pengisar koko dengan Lembaga.\n\n(4) Mana-mana orang yang melanggar peraturan ini melakukan suatu\n\nkesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima puluh ribu ringgit\n\natau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya.\n\nPendaftaran\n\n4. (1) Mana-mana orang yang—\n\n(a) memiliki kurang daripada enam hektar ladang koko dan memproses\n\nbiji koko basah, hendaklah mendaftar dengan Lembaga sebagai\n\nseorang pekebun kecil; atau\n\n(b) membekalkan bahan tanaman koko percuma, hendaklah mendaftar\n\ndengan Lembaga sebagai seorang pembekal bahan tanaman koko.\n\n(2) Tertakluk kepada peraturan 5, mana-mana orang yang memeriksa dan\n\nmenggred biji koko kering dan mengeluarkan perakuan penggredan untuk tujuan\n\nimport atau eksport hendaklah mendaftar dengan Lembaga sebagai penggred.\n\n(3) Mana-mana pendaftaran yang dibuat di bawah subperaturan (1) atau (2)\n\nhendaklah dibuat dalam Borang 2 sebagaimana yang dinyatakan dalam Jadual Kedua.\n\n(4) Mana-mana orang yang melanggar peraturan ini melakukan suatu\n\nkesalahan dan boleh, apabila disabitkan, didenda tidak melebihi sepuluh ribu ringgit\n\natau dipenjarakan selama tempoh tidak melebihi enam bulan atau kedua-duanya.\n\nKad penggred\n\n5. Bagi maksud subperaturan 4(2), tiap-tiap penggred hendaklah mempunyai suatu\n\nkad penggred yang dikeluarkan oleh Lembaga dalam apa-apa cara dan bentuk\n\nsebagaimana yang boleh ditentukan oleh Lembaga.\n\nPermohonan bagi lesen\n\n6. Suatu permohonan bagi lesen di bawah peraturan 3 hendaklah dibuat dalam\n\nBorang 1 sebagaimana yang ditetapkan dalam Jadual Kedua.\n\nButir lanjut dan temuduga\n\n7. (1) Apabila menerima suatu permohonan bagi suatu lesen, Lembaga boleh,\n\njika ia menghendaki selanjutnya butir, maklumat atau dokumen lain untuk\n\nmembolehkan Lembaga menimbangkan permohonan itu dengan adil, menghendaki\n\npemohon itu memberi butir, maklumat atau dokumen itu atau hadir di hadapan\n\nLembaga atau mana-mana jawatankuasa atau pegawainya untuk ditemuduga.\n\n(2) Dalam keadaan kehadiran pemohon adalah dikehendaki oleh Lembaga,\n\npemohon itu boleh hadir dengan sendiri atau melalui seseorang yang diberi kuasa\n\nsecara bertulis untuk hadir bagi pihak pemohon itu.\n\nPemberian kelulusan bagi permohonan lesen\n\n8. (1) Setelah kelulusan suatu permohonan yang dibuat di bawah peraturan 6,\n\nLembaga hendaklah menyebabkan suatu notis dihantar kepada pemohon\n\nmemaklumkannya mengenai kelulusan itu, dan syarat dan sekatan yang Lembaga telah\n\nputuskan untuk dikenakan ke atas lesen itu berserta dengan keperluan untuk\n\nmengemukakan bayaran fi bagi lesen itu sebagaimana yang dinyatakan dalam Jadual\n\nPertama.\n\n(2) Setelah fi di bawah subperaturan (1) diterima, Lembaga hendaklah\n\nmengeluarkan kepada pemegang lesen, lesen yang sepatutnya, tertakluk kepada syarat\n\ndan sekatan yang boleh dikenakan oleh Lembaga.\n\n(3) Lesen yang dikeluarkan oleh Lembaga di bawah subperaturan (2)\n\nhendaklah ditandatangani oleh Ketua Pengarah atau mana-mana pegawai lain yang\n\ndiberi kuasa secara bertulis oleh Lembaga.\n\nTempoh sah lesen\n\n9. Tiap-tiap lesen yang dikeluarkan atau diperbaharui adalah sah bagi tempoh satu\n\ntahun atau suatu tempoh yang lebih lama tetapi tidak melebihi lima tahun sebagaimana\n\nyang ditentukan oleh Lembaga dari tarikh lesen itu dikeluarkan atau diperbaharui.\n\nPematuhan syarat dan sekatan yang dikenakan ke atas lesen\n\n10. (1) Tiada seseorang pun boleh melanggar syarat dan sekatan yang dikenakan\n\nke atas lesen oleh Lembaga.\n\n(2) Lembaga boleh pada bila-bila masa tanpa memberi apa-apa sebab\n\nmengubah, menambah, memotong atau selainnya meminda syarat dan sekatan yang\n\ndikenakan ke atas lesen itu.\n\n(3) Mana-mana orang yang melanggar subperaturan (1) melakukan suatu\n\nkesalahan dan boleh, apabila disabitkan, didenda tidak melebihi sepuluh ribu ringgit\n\natau dipenjarakan selama tempoh tidak melebihi enam bulan atau kedua-duanya.\n\nPematuhan undang-undang lain\n\n11. Pelesenan seseorang pemohon oleh Lembaga tidak boleh ditafsirkan sebagai\n\nsuatu pengiktirafan oleh Lembaga bahawa pemohon itu telah mematuhi kehendak\n\nmana-mana undang-undang bertulis lain mengenai aktiviti yang pemohon bercadang\n\nhendak melibatkan diri di dalamnya menurut lesen itu atau sebagai mengecualikannya\n\ndaripada mematuhi kehendak itu.\n\nPermohonan bagi membaharui lesen\n\n12. Peraturan 6 hingga 8 hendaklah juga terpakai bagi sesuatu permohonan bagi\n\nmembaharui lesen dan permohonan itu hendaklah dibuat tidak kurang daripada tujuh\n\nhari sebelum tarikh tamat tempoh lesen itu.\n\nPenyerahhakan lesen\n\n13. (1) Tiada lesen boleh diserah hak oleh seorang pemegang lesen melainkan\n\njika kelulusan bertulis daripada Lembaga diperoleh terlebih dahulu.\n\n(2) Seorang pemegang lesen boleh memohon untuk menyerahhak lesennya\n\ndengan mengemukakan suatu permohonan bertulis kepada Lembaga.\n\n(3) Lembaga boleh atas permohonan di bawah subperaturan (2), meluluskan\n\npenyerahhakan itu tertakluk kepada apa-apa terma atau syarat yang boleh dikenakan\n\noleh Lembaga dengan mengendorskan pada lesen, atau menolak untuk meluluskan\n\npenyerahhakan itu.\n\nSalinan lesen yang diperakui sah\n\n14. (1) Pemegang lesen boleh memohon secara bertulis kepada Lembaga bagi\n\nsuatu salinan lesen yang diperakui sah.\n\n(2) Suatu permohonan di bawah subperaturan (1) hendaklah disertakan\n\ndengan suatu pernyataan yang menyatakan sebab-sebab bagi permohonan itu.\n\n(3) Lembaga boleh mengeluarkan salinan lesen yang diperakui sah kepada\n\npemohon jika Lembaga berpuas hati bahawa salinan lesen yang diperakui sah itu\n\ndikehendaki atas alasan yang sah.\n\nPempameran lesen dan slip pembaharuan lesen\n\n15. (1) Tiap-tiap pemegang lesen hendaklah mempamerkan lesen dan slip\n\npembaharuan lesen di tempat yang mudah dilihat di premis-premis yang berlesen.\n\n(2) Mana-mana orang yang melanggar subperaturan (1) melakukan suatu\n\nkesalahan dan boleh, apabila disabitkan, didenda tidak melebihi sepuluh ribu ringgit\n\natau dipenjarakan selama tempoh tidak melebihi enam bulan atau kedua-duanya.\n\nPembatalan atau penggantungan lesen\n\n16. (1) Jika Lembaga berpendapat bahawa mana-mana pemegang lesen telah\n\nmelanggar atau gagal mematuhi mana-mana peruntukan di bawah Peraturan-Peraturan\n\nini atau mana-mana syarat atau sekatan yang dikenakan ke atas lesen itu, Lembaga\n\nboleh meminta pemegang lesen itu untuk menunjukkan sebab mengapa lesennya tidak\n\npatut dibatalkan.\n\n(2) Jika pemegang lesen gagal untuk menunjukkan sebab sebagaimana yang\n\ndikehendaki di bawah subperaturan (1), Lembaga boleh mengambil tindakan dengan\n\nmenggantung lesen itu untuk tempoh tidak melebihi enam bulan.\n\n(3) Lembaga boleh melanjutkan tempoh penggantungan yang diberi kepada\n\npemegang lesen itu di bawah subperaturan (2) bagi pemegang lesen mengambil\n\ntindakan pembetulan dan untuk mematuhi syarat lesen itu dan keseluruhan tempoh\n\npenggantungan itu hendaklah tidak melebihi dua belas bulan.\n\n(4) Jika pemegang lesen gagal mengambil tindakan pembetulan di bawah\n\nsubperaturan (3), Lembaga boleh membatalkan lesen selepas tempoh penggantungan\n\nitu tamat.\n\nPenarikan balik lesen\n\n17. Suatu lesen hendaklah ditarik balik jika—\n\n(a) pemegang lesen itu tidak sempurna akal;\n\n(b) pemegang lesen itu telah diisytiharkan muflis;\n\n(c) pemegang lesen itu meninggal dunia;\n\n(d) pemegang lesen itu telah disabitkan di atas mana-mana kesalahan jenayah\n\nyang berkaitan dengan fraud atau kecurangan di bawah mana-mana\n\nundang-undang bertulis;\n\n(e) dalam hal suatu syarikat, pemegang lesen itu telah digulungkan;\n\n(f) dalam hal suatu perkongsian, pemegang lesen itu telah dibubarkan; atau\n\n(g) lesen itu dorman, tanpa melakukan sebarang aktiviti atau transaksi\n\nsepanjang tempoh sah lesen itu yang dikeluarkan oleh Lembaga.\n\nKebenaran untuk memasuki premis berlesen\n\n18. (1) Pemegang lesen hendaklah, apabila diminta oleh mana-mana pegawai\n\nyang diberi kuasa, membenarkan pegawai yang diberi kuasa itu memasuki premis dan\n\nhendaklah, jika dikehendaki, menunjukkan lesen dan apa-apa dokumen lain\n\nsebagaimana yang dikehendaki oleh pegawai yang diberi kuasa.\n\n(2) Pegawai yang diberi kuasa boleh membuat salinan dokumen atau\n\nmeminta salinan sah yang diperakui dihantar kepadanya dalam masa tujuh hari dari\n\ntarikh pemeriksaan.\n\n(3) Pegawai yang diberi kuasa hendaklah mengemukakan suatu laporan\n\nkepada Lembaga setelah pemeriksaan ke atas premis dibuat.\n\nKebenaran untuk mengambil sampel\n\n19. Pemegang lesen hendaklah, apabila diminta oleh pegawai yang diberi kuasa,\n\nmembenarkan pegawai yang diberi kuasa mengambil sejumlah yang munasabah bahan\n\ntanaman koko, biji koko atau keluaran koko, sebagai sampel bagi tujuan penentuan\n\nkualiti dan pegawai yang diberi kuasa itu hendaklah mengaku terima penerimaan bahan\n\ntanaman koko, biji koko atau keluaran koko, secara bertulis.\n\nPenggredan biji koko kering atau keluaran separa siap untuk dibeli, dsb.\n\n20. (1) Tiada biji koko kering atau keluaran separa siap boleh dibeli, dijual,\n\ndieksport atau diimport melainkan jika ia telah digred mengikut cara sebagaimana yang\n\nditentukan oleh Lembaga.\n\n(2) Mana-mana orang yang melanggar subperaturan (1) melakukan suatu\n\nkesalahan dan boleh, apabila disabitkan, didenda tidak melebihi sepuluh ribu ringgit\n\natau dipenjarakan selama tempoh tidak melebihi enam bulan atau kedua-duanya.\n\nLarangan terhadap mengeksport dan mengimport bahan tanaman koko\n\n21. (1) Bahan tanaman koko tidak boleh dieksport atau diimport tanpa\n\nkebenaran Lembaga.\n\n(2) Mana-mana orang yang melanggar subperaturan (1) melakukan suatu\n\nkesalahan dan boleh, apabila disabitkan, didenda tidak melebihi dua puluh lima ribu\n\nringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya.\n\nPengisytiharan pemindahan koko\n\n22. Setiap pemindahan koko hendaklah diisytiharkan mengikut cara sebagaimana\n\nyang ditentukan oleh Lembaga.\n\nFi\n\n23. (1) Fi yang perlu dibayar di bawah Peraturan-Peraturan ini adalah\n\nsebagaimana yang dinyatakan dalam Jadual Pertama.\n\n(2) Fi hendaklah dibayar kepada Lembaga mengikut apa-apa cara\n\nsebagaimana yang diarahkan oleh Lembaga.\n\n(3) Fi yang dikutip oleh Lembaga di bawah Peraturan-Peraturan ini\n\nhendaklah dibayar ke dalam Kumpulan Wang.\n\nBorang\n\n24. (1) Borang yang disenaraikan dalam Jadual Kedua hendaklah digunakan\n\nmasing-masing bagi maksud yang disebut dalam borang itu.\n\n(2) Kandungan borang yang disenaraikan dalam Jadual Kedua adalah\n\nsebagaimana yang ditentukan oleh Lembaga dari semasa ke semasa.\n\nPembatalan\n\n25. Peraturan-Peraturan Lembaga Koko Malaysia (Pelesenan dan Penggredan) 1991\n\n[P.U. (A) 198/1991] dibatalkan (\"Peraturan-Peraturan yang dibatalkan\").\n\nPeruntukan kecualian dan peralihan\n\n26. (1) Semua arahan dan perintah yang dibuat di bawah Peraturan-Peraturan\n\nyang dibatalkan hendaklah terus berkuat kuasa dan mempunyai kesan sehingga dipinda\n\natau dibatalkan di bawah Peraturan-Peraturan ini.\n\n(2) Mana-mana lesen atau perakuan yang dikeluarkan di bawah PeraturanPeraturan yang dibatalkan hendaklah, pada tarikh Peraturan-Peraturan ini berkuat\n\nkuasa, disifatkan sebagai dikeluarkan di bawah Peraturan-Peraturan ini sehingga tamat\n\ntempoh lesen atau perakuan itu.\n\n(3) Semua permohonan atau kelulusan yang belum diputuskan di bawah\n\nPeraturan-Peraturan yang dibatalkan hendaklah, pada tarikh Peraturan-Peraturan ini\n\nberkuat kuasa, diuruskan oleh Lembaga di bawah Peraturan-Peraturan ini seolah-olah\n\npermohonan atau kelulusan itu dibuat di bawah Peraturan-Peraturan ini.\n\n(4) Apa-apa rayuan berkenaan suatu keputusan yang dibuat di bawah\n\nPeraturan-Peraturan yang dibatalkan, hendaklah diteruskan di hadapan Lembaga\n\nseolah-olah prosiding itu adalah berkenaan dengan keputusan di bawah PeraturanPeraturan ini.\n\n(5) Sementara menunggu penentuan permohonan di bawah\n\nsubperaturan (3), pemohon permohonan itu boleh terus menjalankan aktivitinya.\n\n(6) Mana-mana orang yang menjalankan mana-mana aktiviti yang disebut\n\ndalam peraturan 3 dan 4 sebelum mula berkuat kuasanya Peraturan-Peraturan ini,\n\nhendaklah dikehendaki masing-masing untuk memohon lesen atau untuk mendaftar\n\ndengan Lembaga dalam tempoh sembilan puluh hari dari tarikh Peraturan-Peraturan\n\nini berkuat kuasa.\n\nJADUAL PERTAMA\n\nFI\n\n(Peraturan 23)\n\nNo. Perihalan Fi\n\n(RM)\n\n1. Lesen bagi pedagang koko 100.00/setahun\n\n2. Lesen bagi pedagang keluaran separa siap 1,000.00/setahun\n\n3. Lesen bagi pengisar koko 1,000.00/setahun\n\nJADUAL KEDUA\n\nBORANG\n\n(Peraturan 24)\n\nNo. Peraturan Borang Tajuk\n\n1. Peraturan 6 dan 12 Borang 1 Permohonan/Pembaharuan lesen\n\n2. Peraturan 4 Borang 2 Pendaftaran\n\nDibuat 31 Januari 2012\n\n[KPPK(S)440(14)16/1; PN(PU2)469/II]\n\nTAN SRI BERNARD GILUK DOMPOK\n\nMenteri Perusahaan Perladangan dan Komoditi\n\nMALAYSIAN COCOA BOARD (INCORPORATION) ACT 1988\n\nMALAYSIAN COCOA BOARD REGULATIONS 2012\n\n____________________\n\nARRANGEMENT OF REGULATIONS\n\n____________________\n\nRegulation\n\n1. Citation and commencement\n\n2. Interpretation\n\n3. Licensing\n\n4. Registration\n\n5. Grader's card\n\n6. Application for licence\n\n7. Further particulars and interview\n\n8. Grant of approval for application of licence\n\n9. Validity of licence\n\n10. Compliance of conditions and restrictions imposed on the licence\n\n11. Compliance with other laws\n\n12. Application for renewal of licence\n\n13. Assignment of licence\n\n14. Certified true copy of licence\n\n15. Exhibition of licence and licence renewal slip\n\n16. Cancellation or suspension of licence\n\n17. Revocation of licence\n\n18. Permission to enter licensed premises\n\n19. Permission to collect sample\n\n20. Grading of dry cocoa beans or semi-processed products for purchase, etc.\n\n21. Prohibition against exporting and importing cocoa planting materials\n\n22. Declaration of transfer of cocoa\n\n23. Fees\n\n24. Forms\n\n25. Revocation\n\n26. Savings and transitional provisions\n\nFIRST SCHEDULE\n\nSECOND SCHEDULE\n\nMALAYSIAN COCOA BOARD (INCORPORATION) ACT 1988\n\nMALAYSIAN COCOA BOARD REGULATIONS 2012\n\nIN exercise of the powers conferred by section 11 of the Malaysian Cocoa Board\n\n(Incorporation) Act 1988 [Act 343], the Minister after consultation with the Board\n\nmakes the following regulations:\n\nCitation and commencement\n\n1. (1) These regulations may be cited as the Malaysian Cocoa Board\n\nRegulations 2012.\n\n(2) These Regulations come into operation on 10 February 2012.\n\nInterpretation\n\n2. In these Regulations, unless the context otherwise requires\n\n\"cocoa grading agency\" means any body, firm, company or statutory body\n\nregistered with the Board to grade cocoa beans or cocoa products and issue a grading\n\ncertificate for export or import purposes;\n\n\"wet cocoa beans\" means fresh cocoa beans collected after the cocoa pod is split;\n\n\"dry cocoa beans\" means cocoa beans that had passed through drying process;\n\n\"fermentation\" means a process whereby wet cocoa beans undergo biochemical\n\nchanges that alter their physical appearance and the constituents of their nibs;\n\n\"grade\" means the determination of the grade for cocoa beans according to the\n\nstandard determination declared pursuant to the Standards of Malaysia Act 1996\n\n[Act 549];\n\n\"licence\" means a licence issued under regulation 3;\n\n\"semi-processed products\" means cocoa liquor, cocoa butter, cocoa cake and\n\ncocoa powder;\n\n\"purchase\" includes to acquire for a consideration other than money;\n\n\"processing wet cocoa beans\" means any implementation of one or more activity\n\nrelating to fermentation, drying, cleaning and segregation;\n\n\"trader of semi-processed products\" means a person who holds a valid licence to\n\ncarry out the activity specified in subregulation 3(2);\n\n\"trader of cocoa\" means a person who holds a valid licence to carry out the\n\nactivity specified in subregulation 3(1);\n\n\"authorized officer\" means any officer authorized under section 23A of the Act;\n\n\"grader\" means any person including a cocoa grading agency, registered with the\n\nBoard and holds a grader's card issued by the Board;\n\n\"grading\" means the activity of determining the grade of cocoa beans, cocoa\n\nproducts or cocoa planting materials;\n\n\"cocoa grinder\" means a person who holds a valid licence to carry out the activity\n\nspecified in subregulation 3(3);\n\n\"wet cocoa beans dealer\" means any person who purchases and processes wet\n\ncocoa beans into dry cocoa beans;\n\n\"licensed premises\" refer to the premises mentioned in the licence; and\n\n\"registration\" means a registration of any activity under regulation 4.\n\nLicensing\n\n3. (1) Any person who—\n\n(a) purchases, sells, transfers and stores cocoa planting materials;\n\n(b) purchases or processes wet cocoa beans;\n\n(c) purchases, sells, imports or exports dry cocoa beans; or\n\n(d) carries out a combination of any or all of the activities under\n\nparagraphs (a), (b) and (c),\n\nshall apply for a valid licence as a trader of cocoa with the Board.\n\n(2) Any person who purchases, sells, transfers, stores, imports or exports\n\nsemi-processed products shall apply for a valid licence as a trader of semi-processed\n\nproducts with the Board.\n\n(3) Any person who grinds purchased or imported dry cocoa beans into semiprocessed products for sale or export purpose shall apply for a valid licence as a cocoa\n\ngrinder with the Board.\n\n(4) Any person who contravenes this regulation commits an offence and\n\nshall, on conviction, be liable to a fine not exceeding fifty thousand ringgit or\n\nimprisonment for a term not exceeding two years or to both.\n\nRegistration\n\n4. (1) Any person who—\n\n(a) owns less than six hectares of cocoa plantation and processes wet\n\ncocoa beans, shall register with the Board as a smallholder; or\n\n(b) supplies free cocoa planting materials, shall register with the Board\n\nas a dealer of cocoa planting materials.\n\n(2) Subject to regulation 5, any person who inspects and grades dry cocoa\n\nbeans and issues a grading certificate for import and export purposes shall register with\n\nthe Board as a grader.\n\n(3) Any registration made under subregulation (1) or (2) shall be made in\n\nForm 2 as specified in the Second Schedule.\n\n(4) Any person who contravenes this regulation commits an offence and\n\nshall, on conviction, be liable to a fine not exceeding ten thousand ringgit or\n\nimprisonment for a term not exceeding six months or to both.\n\nGrader's card\n\n5. For the purpose of subregulation 4(2), each grader shall posses a grader's card\n\nissued by the Board in any manner and form as may be determined by the Board.\n\nApplication for licence\n\n6. An application for a licence under regulation 3 shall be made in Form 1 as set out\n\nin the Second Schedule.\n\nFurther particulars and interview\n\n7. (1) Upon receiving an application for a licence, the Board may, if it requires\n\nfurther or other particulars, information or documents to enable it to fairly consider the\n\napplication, require the applicant to supply the particulars, information or documents\n\nor to appear before the Board or any committee or officer thereof to be interviewed.\n\n(2) In a case where an appearance of the applicant is required by the Board,\n\nhe may appear in person or by a person authorized in writing to appear on behalf of the\n\napplicant.\n\nGrant of approval for application of licence\n\n8. (1) Upon approval of an application made under regulation 6, the Board shall\n\ncause a notice to be sent to the applicant informing him of the approval, and the\n\nconditions and restrictions that the Board has decided to impose on the licence together\n\nwith the requirement to submit the payment of fee for the licence as set out in the First\n\nSchedule.\n\n(2) Upon receipt of the fee under subregulation (1), the Board shall issue to\n\nthe licensee, the appropriate licence, subject to the conditions and restrictions which\n\nmay be imposed by the Board.\n\n(3) The licence issued by the Board under subregulation (2) shall be signed\n\nby the Director General or any other officer authorized in writing by the Board.\n\nValidity of licence\n\n9. Every licence issued or renewed shall be valid for a period of one year or for such\n\nlonger period but not exceeding five years as the Board may determine from the date it\n\nis issued or renewed.\n\nCompliance of conditions and restrictions imposed on the licence\n\n10. (1) No person shall breach the conditions and restrictions imposed on the\n\nlicence by the Board.\n\n(2) The Board may at any time without assigning any reason vary, add to,\n\ndelete from or otherwise amend such conditions and restrictions imposed on the\n\nlicence.\n\n(3) Any person who contravenes subregulation (1) commits an offence and\n\nshall, on conviction, be liable to a fine not exceeding ten thousand ringgit or\n\nimprisonment for a term not exceeding six months or to both.\n\nCompliance with other laws\n\n11. The licensing of an applicant by the Board shall not be construed as a recognition\n\nby the Board that the applicant has complied with the requirements of any other\n\nwritten law affecting the activities that the applicant proposes to engage in by virtue of\n\nthe licence or as exempting him from compliance with those requirements.\n\nApplication for renewal of licence\n\n12. Regulations 6 to 8 shall also apply to an application for the renewal of a licence\n\nand such application shall be made not less than seven days before the date of expiry of\n\nthe licence.\n\nAssignment of licence\n\n13. (1) No licence shall be assigned by a licensee unless a written approval of the\n\nBoard has been obtained.\n\n(2) A licensee may apply to assign his licence by submitting a written\n\napplication to the Board.\n\n(3) The Board may on such application under subregulation (2), approve the\n\nassignment subject to such terms or conditions as the Board may impose by making an\n\nendorsement on the licence, or refuse to approve the assignment.\n\nCertified true copy of licence\n\n14. (1) A licensee may apply in writing to the Board for a certified true copy of\n\nthe licence.\n\n(2) An application under subregulation (1) shall be accompanied with a\n\nstatement specifying the reasons for the application.\n\n(3) The Board may issue a certified true copy of the licence to the applicant if\n\nthe Board is satisfied that the certified true copy of the licence is required due to valid\n\nreasons.\n\nExhibition of licence and licence renewal slip\n\n15. (1) Every licensee shall exhibit the licence and the licence renewal slip in a\n\nconspicuous place in the licensed premises.\n\n(2) Any person who contravenes subregulation (1) commits an offence and\n\nshall, on conviction, be liable to a fine not exceeding ten thousand ringgit or\n\nimprisonment for a term not exceeding six months or to both.\n\nCancellation or suspension of licence\n\n16. (1) If it appears to the Board that any licensee has contravened or failed to\n\ncomply with any provision under these Regulations or any condition or restriction\n\nimposed under the licence, the Board may call the licensee to show reasons why his\n\nlicence should not be cancelled.\n\n(2) If the licensee has failed to show reasons as required under\n\nsubregulation (1), the Board may take action by suspending the licence for a term not\n\nexceeding six months.\n\n(3) The Board may extend the suspension period given to the licensee under\n\nsubregulation (2) in order for the licensee to take corrective action and to comply to the\n\nconditions of the licence and the total duration of such suspension shall not exceed\n\ntwelve months.\n\n(4) If the licensee has failed to take any corrective action under\n\nsubregulation (3), the Board may cancel the licence after the suspension period expired.\n\nRevocation of licence\n\n17. A licence shall be revoked if—\n\n(a) the licensee is of unsound mind;\n\n(b) the licensee has been declared bankrupt;\n\n(c) the licensee dies;\n\n(d) the licensee has been convicted of any criminal offence relating to fraud or\n\ndishonesty under any written law;\n\n(e) in the case of a company, the licensee has been wound-up;\n\n(f) in the case of a partnership, the licensee has been dissolved; or\n\n(g) the licence is dormant, without doing any activity or transaction\n\nthroughout the validity period of such licence issued by the Board.\n\nPermission to enter licensed premises\n\n18. (1) The licensee shall, on demand by any authorized officer, permit the\n\nauthorized officer to enter the premises and shall, if required, produce his licence and\n\nany other documents as required by the authorized officer.\n\n(2) The authorized officer may make copies of the document or request that\n\ncertified true copies be sent to him within seven days from the date of inspection.\n\n(3) The authorized officer shall submit a report to the Board after conducting\n\ninspection on the premise.\n\nPermission to collect sample\n\n19. The licensee shall, on demand by any authorized officer, permit the authorized\n\nofficer to take a reasonable amount of the cocoa planting materials, cocoa beans or\n\ncocoa products, as a sample for the purpose of quality determination and the authorized\n\nofficer shall acknowledge receipt of the cocoa planting materials, cocoa beans or cocoa\n\nproducts, in writing.\n\nGrading of dry cocoa beans or semi-processed products for purchase, etc.\n\n20. (1) No dry cocoa beans or semi-processed products shall be purchased, sold,\n\nexported or imported unless it has been graded in any manner as the Board may\n\ndetermine.\n\n(2) Any person who contravenes subregulation (1) commits an offence and\n\nshall, on conviction, be liable to a fine not exceeding ten thousand ringgit or\n\nimprisonment for a term not exceeding six months or to both.\n\nProhibition against exporting and importing cocoa planting materials\n\n21. (1) No cocoa planting materials shall be exported or imported without\n\npermission from the Board.\n\n(2) Any person who contravenes subregulation (1) commits an offence and\n\nshall, on conviction, be liable to a fine not exceeding twenty five thousand ringgit or\n\nimprisonment for a term not exceeding two years or to both.\n\nDeclaration of transfer of cocoa\n\n22. Each transfer of cocoa shall be declared in the manner as may be determined by\n\nthe Board.\n\nFees\n\n23. (1) The fees payable under these Regulations are as set out in the First\n\nSchedule.\n\n(2) The fees shall be paid to the Board in any manner as the Board may direct.\n\n(3) The fees collected by the Board under these Regulations shall be paid into\n\nthe Fund.\n\nForms\n\n24. (1) The forms listed in the Second Schedule shall be used for the purposes\n\nmentioned in the respective forms.\n\n(2) The contents of the forms listed in the Second Schedule shall be such as\n\nmay from time to time, be determined by the Board.\n\nRevocation\n\n25. The Malaysian Cocoa Board (Licensing and Grading) Regulations 1991\n\n[P.U. (A) 198/1991] are revoked (\"the revoked Regulations\").\n\nSavings and transitional provisions\n\n26. (1) All directions and orders made under the revoked Regulations shall\n\ncontinue to be in force and have effect until it is amended or revoked under these\n\nRegulations.\n\n(2) Any licence or certificate issued under the revoked Regulations shall, on\n\nthe date these Regulations come into force, be deemed to be issued under these\n\nRegulations until the expiry of the licence or certificate.\n\n(3) All applications or approvals pending under the revoked Regulations\n\nshall, on the date these Regulations come into force, be dealt with by the Board under\n\nthese Regulations as if the application or approval has been made under these\n\nRegulations.\n\n(4) Any appeal regarding a decision made under the revoked Regulations,\n\nshall continue before the Board as if the proceedings is in respect of a decision under\n\nthese Regulations.\n\n(5) Pending the determination of the application under subregulation (3), the\n\napplicant of such application may continue to undertake his activity.\n\n(6) Any person carrying out any activity mentioned in regulations 3 and 4\n\nbefore the coming into operation of these Regulations, shall be required to apply for\n\nsuch licence or to register with the Board respectively within a period of ninety days\n\nfrom the date these Regulations come into force.\n\nFIRST SCHEDULE\n\nFEES\n\n(Regulation 23)\n\nNo. Description Fees\n\n(RM)\n\n1. Licence for trader of cocoa 100.00/annum\n\n2. Licence for trader of semi-processed products 1,000.00/annum\n\n3. Licence for cocoa grinder 1,000.00/annum\n\nSECOND SCHEDULE\n\nFORMS\n\n(Regulation 24)\n\nNo. Regulation Form Title\n\n1. Regulations 6 and 12 Form 1 Application/Renewal of licence\n\n2. Regulation 4 Form 2 Registration\n\nMade 31 January 2012\n\n[KPPK(S)440(14)16/1; PN(PU2)469/II]\n\nTAN SRI BERNARD GILUK DOMPOK\n\nMinister of Plantation Industries and Commodities"
+   }
+  }
+ ]
+}

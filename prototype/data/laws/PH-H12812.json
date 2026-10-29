@@ -1,0 +1,62 @@
+{
+ "id": "PH-H12812",
+ "title": {
+  "zh": null,
+  "en": "An Act Appropriating the Sum of Seven thousand Pesos for the Maintenance of the Twenty Government Scholarships Now Existing in the College of Veterinary Science of the University of the Philippines, By VIrtue of Act Numbered Two thousand and Forty.",
+  "orig": "An Act Appropriating the Sum of Seven thousand Pesos for the Maintenance of the Twenty Government Scholarships Now Existing in the College of Veterinary Science of the University of the Philippines, By VIrtue of Act Numbered Two thousand and Forty."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1912-01-27",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2105",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 393,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1912/act_2105_1912.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02105_1912_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02105_1912_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12812-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The sum of seven thousand pesos is hereby appropriated, out of any funds in the Insular\nTreasury not otherwise appropriated, for the maintenance of the twenty scholarships now existing in the\nCollege of Veterinary Science of the University of the Philippines, by virtue of section one of Act Numbered\nTwo thousand and forty."
+   }
+  },
+  {
+   "id": "PH-H12812-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, January 2T. 1912."
+   }
+  }
+ ]
+}

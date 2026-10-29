@@ -1,0 +1,72 @@
+{
+ "id": "PH-H14792",
+ "title": {
+  "zh": null,
+  "en": "An Act to Provide Emergency Fund for Elementary Classes, to Regulate the Expenditure Thereof, and for Other Purposes.",
+  "orig": "An Act to Provide Emergency Fund for Elementary Classes, to Regulate the Expenditure Thereof, and for Other Purposes."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1935-06-13",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 4201",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1061,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1935/act_4201_1935.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_04201_1935_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_04201_1935_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14792-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "There is hereby appropriated, out of any funds in the Insular Treasury not otherwise\nappropriated, the sum of seven hundred seventy-six thousand six hundred seventy-five pesos to be expended\nfor the reopening of elementary classes which were in operation in the various municipalities during the\nmonth of March, nineteen hundred and thirty-five, but which had to be closed or may not have opened at the\nbeginning of the current school year due to lack of funds. This sum shall be distributed in the discretion of the\nSecretary of Public Instruction to the various municipalities concerned: Provided, That no municipality shall\nreceive from this sum any amount in excess of what is actually required to put its elementary classes into full\noperation until December thirty-first, nineteen hundred and thirty-five."
+   }
+  },
+  {
+   "id": "PH-H14792-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Any balance of the amount authorized in the preceding section remaining unallotted on\nDecember thirty-first, nineteen hundred and thirty-five, shall revert to the Insular Treasury."
+   }
+  },
+  {
+   "id": "PH-H14792-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, June 13, 1935."
+   }
+  }
+ ]
+}

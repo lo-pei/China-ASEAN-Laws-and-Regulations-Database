@@ -1,0 +1,82 @@
+{
+ "id": "PH-H11932",
+ "title": {
+  "zh": null,
+  "en": "AN ACT APPROPRIATING THE SUM OF FIFTY THOUSAND DOLLARS, IN MONEY OF THE UNITED STATES, FROM THE FUND OF THREE MILLION DOLLARS APPROPRIATED BY THE CONGRESS OF THE UNITED STATES FOR THE RELIEF OF DISTRESS IN THE PHILIPPINE ISLANDS, FOR EXPENSES INCIDENT TO THE PURCHASE AND DELIVERY IN THE PHILIPPINE ISLANDS OF DRAFT CATTLE.",
+  "orig": "AN ACT APPROPRIATING THE SUM OF FIFTY THOUSAND DOLLARS, IN MONEY OF THE UNITED STATES, FROM THE FUND OF THREE MILLION DOLLARS APPROPRIATED BY THE CONGRESS OF THE UNITED STATES FOR THE RELIEF OF DISTRESS IN THE PHILIPPINE ISLANDS, FOR EXPENSES INCIDENT TO THE PURCHASE AND DELIVERY IN THE PHILIPPINE ISLANDS OF DRAFT CATTLE."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 1220",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 914,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_01220_1904_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_01220_1904_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H11932-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The sum of fifty thousand dollars, in money of the United States, is hereby appropriated, out of\nthe fund of three million dollars appropriated by the Congress of the United States for the relief of distress in\nthe Philippine Islands, for expenditure in payment of such expenses incident to the purchase and delivery in\nthe Philippine islands of draft cattle as may from time to time be authorized by resolutions of the Philippine\nCommission."
+   }
+  },
+  {
+   "id": "PH-H11932-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The sum of money by this Act appropriated shall be expended by the Insular Purchasing Agent\nand accounted for as provided by law."
+   }
+  },
+  {
+   "id": "PH-H11932-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "The public good requiring the speedy enactment of this bill, the passage of the same is hereby\nexpedited in accordance with section two of \"An Act prescribing the order of procedure by the Commission\nin the enactment of laws,\" passed September twenty-sixth, nineteen hundred."
+   }
+  },
+  {
+   "id": "PH-H11932-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, August 25, 1904."
+   }
+  }
+ ]
+}

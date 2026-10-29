@@ -1,0 +1,72 @@
+{
+ "id": "PH-H15673",
+ "title": {
+  "zh": null,
+  "en": "Batas Pambansa Blg. 844  An Act Converting the Provincial Road From the Road Junction of the National Highway Passing through the Poblacion, Suyo, Pilar and Pinipin, in the Municipality of Santa Cruz, Province of Ilocos Sur, Into a National Road, and Appropriating Funds therefor",
+  "orig": "Batas Pambansa Blg. 844  An Act Converting the Provincial Road From the Road Junction of the National Highway Passing through the Poblacion, Suyo, Pilar and Pinipin, in the Municipality of Santa Cruz, Province of Ilocos Sur, Into a National Road, and Appropriating Funds therefor"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1984-04-27",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Batasang Pambansa",
+ "docNumber": "Batas Pambansa Blg. 844",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 655,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/08_国民议会法令_BP/BP_00844_1984_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 BP_00844_1984_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H15673-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The provincial road from the road junction of the national highway passing through the\npoblacion, of Santa Cruz, Suyo, Pilar and Pinipin, all in the Municipality of Santa Cruz, Province of Ilocos\nSur, is hereby converted into a national road."
+   }
+  },
+  {
+   "id": "PH-H15673-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The amount necessary for the improvement and maintenance of said road shall continue to be\nfunded out of the lump-sum appropriation authorized under Batas Pambansa Blg. 640 for the repair and\nmaintenance of local roads until such time that the maintenance funds for said road shall have been provided\nfor in the succeeding appropriations acts."
+   }
+  },
+  {
+   "id": "PH-H15673-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: April 27, 1984"
+   }
+  }
+ ]
+}

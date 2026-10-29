@@ -1,0 +1,90 @@
+{
+ "id": "MY-H1288",
+ "title": {
+  "zh": "1979年牙科（附表二修正）令",
+  "en": "DENTAL ACT (AMENDMENT OF SECOND SCHEDULE) ORDER 1979",
+  "orig": "DENTAL ACT (AMENDMENT OF SECOND SCHEDULE) ORDER 1979",
+  "ms": "Perintah Pergigian (Pindaan Jadual Kedua) 1979",
+  "vi": "Lệnh về Nha khoa (Sửa đổi Phụ lục thứ hai) năm 1979",
+  "th": "คำสั่งทันตกรรม (การแก้ไขภาคผนวกที่สอง) ค.ศ. 1979",
+  "id": "Perintah Kedokteran Gigi (Perubahan Lampiran Kedua) Tahun 1979"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-3",
+ "language": "ms",
+ "level": "regulation",
+ "category": "04_劳工与行政法",
+ "status": "active",
+ "promulgatedDate": "1979",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "PUA13",
+ "topics": [],
+ "summary": null,
+ "coverage": "partial",
+ "structureMode": "ARTICLE",
+ "articleCount": 4,
+ "chars": 509,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-view.php?type=pua&no=P.U. (A) 13/1979&status=PINDAAN"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\04_劳工与行政法\\1979_P.U.(A)13-1979_DENTAL ACT (AMENDMENT OF SECOND SCHEDULE) ORDER 1979.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 5 条；逐字未改写（源自厂商 OCR 文本）。原文马来文/英文双语并置，已分别落 text.ms 与 text.en。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H1288-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "1. Nama dan mula berkuatkuasa."
+   }
+  },
+  {
+   "id": "MY-H1288-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "2. Tafsiran.\n\n3, Pemakaian.\n\nBAHAGIAN II\nPUNCA-PUNCA PELEPASAN BARU"
+   }
+  },
+  {
+   "id": "MY-H1288-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "4. Pelepasan | punca-punta effliién baru dan diubah adalah di-\nlarang."
+   }
+  },
+  {
+   "id": "MY-H1288-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "5. Keperluan dan kelutusan pelan-pelan.\n\n77                         P.U. (A)\n\nP.U. (A) 13.\nAKTA PERGIGIAN 1971\n\nPERINTAH AKTA PERGIGIAN (PINDAAN BAGI JADUAL Kedua) 1979\n\nPada menjalankan kuasa-kuasa yang diberi oleh seksyen 12 (2) Akta\nPergigian 1971, Menteri selepas berunding dengan Majlis Pergigian\nMalaysia, membuat perintah yang berikut:"
+   }
+  }
+ ]
+}

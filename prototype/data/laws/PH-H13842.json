@@ -1,0 +1,72 @@
+{
+ "id": "PH-H13842",
+ "title": {
+  "zh": null,
+  "en": "An Act Granting Aid or Compensation in the Sum of Four thousand Pesos to Julian Felipe, Author of the \"Philippine National Anthem",
+  "orig": "An Act Granting Aid or Compensation in the Sum of Four thousand Pesos to Julian Felipe, Author of the \"Philippine National Anthem"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1924-12-04",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3207",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 621,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1924/act_3207_1924.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03207_1924_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03207_1924_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13842-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Aid or compensation in the sum of four thousand pesos is hereby granted to Julian Felipe, in\nrecognition of his inspired and meritorious production known as the \"Philippine National Anthem,\" to be paid\nto him by the.Insular Treasurer of the Philippine Islands upon delivery to the Bureau of the Philippine Library\nand Museum of the original manuscript of said \"Philippine National Anthem.\""
+   }
+  },
+  {
+   "id": "PH-H13842-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The sum of four thousand pesos is hereby appropriated out of any funds in the Insular Treasury\nnot otherwise appropriated, to carry out the purposes of this Act."
+   }
+  },
+  {
+   "id": "PH-H13842-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, December 4, 1924."
+   }
+  }
+ ]
+}

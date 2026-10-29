@@ -1,0 +1,72 @@
+{
+ "id": "PH-H14212",
+ "title": {
+  "zh": null,
+  "en": "An Act Authorizing the Transfer to Welfareville of All Female Prisoners Confined in Bilibid Prison, Appropriating the Sum of Sixty thousand Pesos for this Purpose and for Other Purposes.",
+  "orig": "An Act Authorizing the Transfer to Welfareville of All Female Prisoners Confined in Bilibid Prison, Appropriating the Sum of Sixty thousand Pesos for this Purpose and for Other Purposes."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1929-11-27",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3579",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 700,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1929/act_3579_1929.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03579_1929_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03579_1929_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14212-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The Secretary of Justice is hereby authorized to order the construction on the grounds of\nWelfareville of such buildings as may be strictly necessary for the confinement therein of all female prisoners\nat present confined in Bilibid Prison. Upon the completion of such buildings, said prisoners shall be\ntransferred to the same."
+   }
+  },
+  {
+   "id": "PH-H14212-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The sum of sixty thousand pesos is hereby appropriated, out of any funds in the Insular Treasury\nnot otherwise appropriated, to carry out the purposes of this Act, including the compensation of additional\npersonnel, the purchase of equipment and furniture, and other necessary miscellaneous expenses."
+   }
+  },
+  {
+   "id": "PH-H14212-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, November 27, 1929."
+   }
+  }
+ ]
+}

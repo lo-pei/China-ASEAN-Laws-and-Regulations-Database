@@ -1,0 +1,62 @@
+{
+ "id": "PH-H16171",
+ "title": {
+  "zh": null,
+  "en": "An Act to Regulate the Relations Between Landowner and Tenant and to Provide for Compulsory Arbitration of Any Controversy Arising Between",
+  "orig": "An Act to Regulate the Relations Between Landowner and Tenant and to Provide for Compulsory Arbitration of Any Controversy Arising Between"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1939-06-09",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 461",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 840,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00461_1939_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00461_1939_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H16171-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Any agreement or provision of law to the contrary notwithstanding, in all cases where land is\nheld under any system of tenancy the tenant shall not be dispossessed of the land cultivated by him except for\nany of the cases mentioned in-section nineteen of Act Numbered Four thousand and fifty-four or for any just\ncause, and without the approval of a representative of the Department of Justice duly authorized for the\npurpose. Should the landowner or the tenant feel aggrieved by the action taken by this official, or in the event\nof any dispute, between them arising out of their relationship as landowner and tenant, either party may\nsubmit the matter to the Court of Industrial Relations which is given jurisdiction to determine the controversy\nin accordance with law."
+   }
+  },
+  {
+   "id": "PH-H16171-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its Approval.\nApproved, June 9, 1939."
+   }
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "id": "PH-H14308",
+ "title": {
+  "zh": null,
+  "en": "An Act to Make An Appropriation for a General Anti-Cholera Vaccination Campaign throughout the Philippine Islands, and for Other Purposes.",
+  "orig": "An Act to Make An Appropriation for a General Anti-Cholera Vaccination Campaign throughout the Philippine Islands, and for Other Purposes."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1930-08-02",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3676",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 933,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1930/act_3676_1930.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03676_1930_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03676_1930_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14308-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The sum of one hundred and fifty thousand pesos is hereby appropriated, out of any funds in the\nInsular Treasury not otherwise appropriated, to be disbursed by the Philippine Health Service for an\nimmediate anti-cholera vaccination campaign throughout the Philippine Islands: Provided, That of this\nappropriation, a sum not to exceed twenty-five thousand pesos, shall be available to reimburse the Health\nService for the sum already disbursed for the anti-cholera campaign from its appropriation for the current year\nprovided for in Act Numbered Thirty-six hundred and thirty-eight."
+   }
+  },
+  {
+   "id": "PH-H14308-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Any balance of this appropriation remaining free or unexpended on December thirty-first,\nnineteen hundred and thirty, shall revert to the unappropriated funds in the Insular Treasury and shall\nthereafter not be available for expenditure except upon appropriation by the Legislature."
+   }
+  },
+  {
+   "id": "PH-H14308-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, August 2, 1930."
+   }
+  }
+ ]
+}

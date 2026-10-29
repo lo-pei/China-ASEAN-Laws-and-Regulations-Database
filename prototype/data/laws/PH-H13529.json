@@ -1,0 +1,72 @@
+{
+ "id": "PH-H13529",
+ "title": {
+  "zh": null,
+  "en": "An Acts to Appropriate the Sum of Fifteen thousand Pesos, to Be Added to the Funds Set Aside for the Construction of An Intermediate the Municipality of Morong, Province of Rizal, Dedicate to the Memory of Tomas Claudio, to Regulate the Disbursement of Said Funds, and for Other Purposes.",
+  "orig": "An Acts to Appropriate the Sum of Fifteen thousand Pesos, to Be Added to the Funds Set Aside for the Construction of An Intermediate the Municipality of Morong, Province of Rizal, Dedicate to the Memory of Tomas Claudio, to Regulate the Disbursement of Said Funds, and for Other Purposes."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1920-01-24",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2881",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 697,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1920/act_2881_1920.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02881_1920_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02881_1920_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13529-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The sum of fifteen thousand pesos is hereby appropriated, out of any funds in the Insular\nTreasury not otherwise appropriated, for expenditure, together with such funds as the provincial board of the\nProvince of Rizal may appropriate, for the construction of an intermediate school in the poblacion of the\nmunicipality of Morong, Province of Rizal, dedicated to the memory of Tomas Claudio."
+   }
+  },
+  {
+   "id": "PH-H13529-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The building to be constructed with these joint funds shall have on its facade a bust or relief\nmedallion representing Tomas Claudio, and such inscriptions in bronze or marble as may be approved, in\naccordance with existing regulations."
+   }
+  },
+  {
+   "id": "PH-H13529-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, January 24, 1920."
+   }
+  }
+ ]
+}

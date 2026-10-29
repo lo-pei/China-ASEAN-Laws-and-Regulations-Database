@@ -1,0 +1,202 @@
+{
+ "id": "ID-H219",
+ "title": {
+  "zh": "药学法",
+  "en": "Law on Pharmacy",
+  "id": "FARMASI",
+  "orig": "FARMASI",
+  "vi": "Luật về Dược",
+  "th": "พระราชบัญญัติว่าด้วยเภสัชกรรม",
+  "ms": "Akta tentang Farmasi"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02a",
+ "language": "id",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "1963",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU9-1960",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 10,
+ "chars": 9880,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": null
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\01_宪法与基础法\\印尼_WLD_1963_FARMASI.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 12 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H219-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 1.\nMaksud dan tujuan Undang-undang ini ialah menetapkan\nketentuan-ketentuan dasar dibidang farmasi dalam rangka pelaksanaan\nUndang-undang\ntentang Pokok-pokok Kesehatan.\nBAB II\nKETENTUAN UMUM."
+   }
+  },
+  {
+   "id": "ID-H219-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 2.\nYang dimaksud dalam Undang-undang ini dengan:\na. Perbekalan Kesehatan dibidang farmasi, adalah perbekalan yang\nmeliputi obat. bahan obat, obat asli Indonesia. bahan obat asli\nIndonesia, alat kesehatan, kosmetik dan sebagainya,\nb. Obat, adalah obat yang dibuat dari bahan-bahan yang berasal\ndari binatang, tumbuh-tumbuhan, mineral dan obat syntetis;\nc. Obat asli Indonesia, adalah obat-obat yang didapat langsung\ndari bahan-bahan alamiah di Indonesia, terolah secara sederhana\natas\ndasar pengalaman dan dipergunakan dalam pengobatan\ntradisionil;\nd. Alat kesehatan, adalah alat-alat yang diperlukan bagi\npemeriksaan, perawatan, pengobatan dan pembuatan obat;\ne. Pekerjaan kefarmasian, adalah pembuatan, pengolahan, peracikan,\npengubahan bentuk, pencampuran, penyimpanan dan penyerahan obat\natau bahan obat.\nBAB III\nUSAHA-USAHA."
+   }
+  },
+  {
+   "id": "ID-H219-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 3.\nUsaha-usaha untuk keperluan rakyat akan perbekalan kesehatan\ndibidang farmasi, adalah sebagai berikut :\na. Usaha-usaha dalam bidang produksi, yang meliputi: penggalian\nkekayaan alam. penanaman tumbuh-tumbuhan, pemeliharaan dan\npengembangan\nbinatang yang berguna untuk farmasi, pembuatan\nbahan-bahan farmasi, pembuatan obat-obat syntetis, pembuatan\nobat-obat jadi, pembuatan\nalat-alat kesehatan dan alat-alat yang\nberhubungan dengan kesehatan, termasuk alat-alat untuk laboratorium\ndan alat-alat untuk pembuatan\nobat-obat dan lain-lain.\nb. Usaha-usaha dalam bidang distribusi yang dilakukan oleh\nPemerintah dan Swasta yang meliputi:\nalat-alat distribusi, apotek-apotek, rumah obat-rumah obat,\ntoko-toko penyalur obat dan lain-lain.\nc. Usaha-usaha penyelidikan (penelitian) oleh Lembaga Farmasi\nNasional, Universitas-universitas dan lain-lain.\nd. Usaha-usaha pengawasan oleh Pemerintah, Pusat maupun\nDaerah.\ne. Membentuk dan menggunakan Dewan Farmasi.\nf. Usaha-usaha lain.\nTGPT NAME=\"ps4\">Pasal 4.\n(1) Dengan Peraturan Perundang-undangan ditetapkan\nperaturan-peraturan mengenai produksi dan distribusi dibidang\nfarmasi.\n(2) Menteri Kesehatan menetapkan peraturan-peraturan mengenai\npenyelidikan dan pengawasan konsumsi dibidang farmasi, pekerjaan\nkefarmasian\ndan hal-hal lain yang dianggap perlu."
+   }
+  },
+  {
+   "id": "ID-H219-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 5.\nUntuk kepentingan rakyat, Pemerintah berusaha agar tercapai\nharga obat dan alat kesehatan serendah-rendahnya.\nBAB IV\nPENGUASAAN PERBEKALAN KESEHATAN DIBIDANG\nFARMASI YANG BERBAHAYA."
+   }
+  },
+  {
+   "id": "ID-H219-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 6.\nPenguasaan perbekalan kesehatan dibidang farmasi yang berbahaya,\nbaik dipandang dari sudut kesehatan maupun keamanan umum,\nditetapkan\ndengan Peraturan Perundang-undangan.\nBAB V\nOBAT ASLI INDONESIA."
+   }
+  },
+  {
+   "id": "ID-H219-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 7.\n(1) Pemerintah memberi bimbingan dalam perkembangan pengawasan\nterhadap usaha-usaha yang mempergunakan obat asli Indonesia.\n(2) Bimbingan dan pengawasan yang dimaksud dalam ayat (1) diatur\nlebih lanjut dengan Peraturan Perundang-undangan."
+   }
+  },
+  {
+   "id": "ID-H219-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 8.\nMenteri Kesehatan mengusahakan:\na. penyelidikan baik tentang cara membuat dan menggunakan maupun\ntentang khasiat obat-obat asli Indonesia:\nb. standardisasi dalam pemakaian obat-obat asli Indonesia;\nc. pertukaran pengalaman dengan luar negeri;\nd. mencari sumber-sumber baru obat asli Indonesia;\ne. usaha-usaha lain.\nBAB VI\nUSAHA SWASTA"
+   }
+  },
+  {
+   "id": "ID-H219-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 9.\nSesuai dengan pasal 14 ayat (1), (2) dan (5) Undang-undang Pokok\nKesehatan, badan-badan swasta diberi kesempatan melakukan\nusaha-usaha\ndilapangan farmasi, terutama dibidang produksi.\nTGPT NAME=\"ps10\">Pasal 10.\n(1) Untuk melakukan usaha swasta yang dimaksud dalam pasal 9,\nbadan-badan swasta harus mendapat izin dari Menteri Kesehatan.\n(2) Hal-hal mengenai izin yang dimaksud dalam ayat (1) diatur\nlebih lanjut dengan Peraturan Perundang-undangan.\nBAB VII\nKETENTUAN PENUTUP."
+   }
+  },
+  {
+   "id": "ID-H219-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 11.\n(1) Hal-hal yang tidak, belum atau belum cukup diatur dalam\nUndang-undang ini, akan diatur lebih lanjut dengan Peraturan\nPerundang-undangan.\n(2) Peraturan Perundang-undangan atau ketentuan-ketentuan dibidang\nfarmasi yang bertentangan dengan Undang-undang ini, tidak berlaku\nlagi sejak diundangkannya Undang-undang Farmasi ini."
+   }
+  },
+  {
+   "id": "ID-H219-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 12.\nUndang-undang ini mulai berlaku pada hari diundangkan.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan\npengundangan Undang-undang ini dengan penempatan dalam\nLembaran-Negara\nRepublik Indonesia.\nDisahkan di Jakarta\npada tanggal 5 Agustus 1963.\nPj. Presiden Republik Indonesia,\nDJUANDA.\nDiundangkan di Jakarta\npada tanggal 5 Agustus 1963.\nSekretaris Negara,\nA.W. SURJOADININGRAT (S.H.).\nPENJELASAN\nATAS\nUNDANG-UNDANG No. 7 TAHUN 1963\nTENTANG\nFARMASI\nUMUM\nUndang-undang ini adalah pelaksanaan dari pada Undang-undang\ntentang Pokok-pokok Kesehatan (selanjutnya disingkatkan\nUndang-undang\nPokok Kesehatan Dibidang Farmasi). Karena tenaga\nfarmasi telah diatur dalam Undang-undang tentang Tenaga Kesehatan,\nmaka Undang-undang\nini khusus mengenai bidang perbekalan kesehatan\ndibidang farmasi. Disini hanya ditetapkan ketentuan-ketentuan pokok\nyang merupakan\ndasar hukum untuk usaha-usaha dibidang farmasi yang\ndimaksud diatas, baik usaha-usaha Pemerintah. badan-badan swasta\nmaupun usaha-usaha\ndari masyarakat dan/atau dengan\nmengikut-sertakan masyarakat(rakyat). Rakyat dapat diikutsertakan\ndengan saluran organisasi-organisasi\ntertentu (umpamanya:\nOrganisasi-organisasi karyawan (Ikatan Dokter Indonesia, Ikatan\nApoteker Indonesia, Persatuan Ahli Farmasi Indonesia\n(P.A.P.H.I.),\nLembaga-lembaga Negara, Ikatan Bidan Indonesia dan seterusnya,\nSerikat Buruh Kesehatan dibidang farmasi dan Lembaga-lembaga\nNegara\n(termasuk : D.P.R.- G.R. dan D.P.R.D.-G.R.-D.P.R.D.-G.R. dari semua\ntingkatan) bidang pengawasan.\nKeputusan-keputusan M.P.R.S. mengenai usaha-usaha dibidang farmasi\ndiperhatikan dalam Undang-undang ini.\nOleh sebab dalam Undang-undang tentang Farmasi ini hanya\nditetapkan ketentuan-ketentuan pokok, maka perlu menyusul sebagai\n\"follow-up\"\nperaturan-peraturan pelaksanaan, baik yang bersifat\nfarmasi-tehnis maupun yang bersifat administratip\norganisatoris.\nPASAL DEMI PASAL\nPasal 1\nKata-kata \"ketentuan-ketentuan dasar\" dalam pasal ini menyatakan\nbahwa Undang-undang ini merupakan Undang-undang Induk bagi segala\nperaturan-peraturan mengenai farmasi, Secara konkrit dan umum dapat\ndikatakan, bahwa \"tujuan\" Undang-undang ini\nialah : mengusahakan terpenuhinya keperluan Rakyat dengan\nsebaik-baiknya akan obat-obatan.\nPasal 2\nKecuali obat-obat yang dipergunakan dalam pengobatan modern,\nobat-obat asli Indonesiapun akan dipergunakan sebagai penyempurnaan\nusaha\npengobatan tersebut hal ini adalah sesuai dengan\nUndang-undang Pokok Kesehatan.\nPekerjaan kefarmasian, yang diperinci pada C adalah pekerjaan yang\ndilakukan dipabrik-pabrik obat, apotik-apotik, laboratoria dan\nsebgainya.\nPasal 3\nUsaha-usaha yang diterangkan dalam pasal ini - khususnya dalam\nbidang produksi - dilakukan dengan memperhatikan pasal 33 ayat (3)\nUndang-undang Dasar. Lembaga Farmasi Nasional antara lain melakukan\nkegiatan-kegiatan dalam bidang Farmakoterapi.\nPasal 4\nOleh sebab produksi dan distribusi perbekalan kesehatan dibidang\nfarmasi mempunyai segi-segi lain dari pada segi\nfarmaceutis-tekhnis,\nmaka produksi dan distribusi tersebut\nditetapkan dengan Peraturan Perundang-undangan, umpamanya: dibidang\nproduksi perlu juga ditetapkan\ndengan Peraturan Pemerintah perihal\nimpor/ekspor, penyediaan obat-obat, dan sebagainya. Hal-hal\nmengenai \"konsumsi\" dan \"pekerjaan\nkefarmasian\" bersifat\nfarmaceutis-tekhnis dan oleh karena itu cukup diatur dengan\nPeraturan Menteri Kesehatan.\nPasal 5\nDalam pasal ini terkandung maksud agar obat-obat, bahan-obat dan\nperbekalan kesehatan terutama dibidang pengobatan dan kesehatan\nrakyat\ntidak dijadikan obyek perdagangan. Sesuai dengan jiwa\nUndang-undang Pokok Kesehatan Pemerintah berusaha tercapainya\npenyebaran obat\nyang luas dan merata dengan harga yang\nserendah-rendahnya.\nYang dimaksud dengan \"harga obat serendah-rendahnya\" ialah harga\nyang ditetapkan serendah mungkin atas dasar perhitungan\nmengindahkan\nkelangsungan produksi. Pada umumnya didalam bidang\nfarmasi, yang mencakup urusan ekonomi, mengindahkan pelaksanaan\n\"Deklarasi Ekonomi\"\ntertanggal 28 Maret 1963.\nPasal 6\nYang dimaksud dengan perbekalan kesehatan dibidang farmasi yang\nberbahaya ialah : obat-obat bius, obat keras, dan sebagainya.\nPasal 7\nDengan melakukan bimbingan dan pengawasan terhadap usaha-usaha\nyang mempergunakan obat asli Indonesia, maka dapat dijaga jangan\nsampai\npenggunaan obat asli Indonesia membahayakan.\nKecuali dari pada itu kepribadian Indonesia didalam bidang farmasi\nsebagai sebahagian dari pada kultur Indonesia umumnya dipelihara\ndan diperkembangkan sesuai dengan ketentuan dalam pasal 11 ayat (4)\nUndang-undang Pokok Kesehatan.\nPasal 8\nDalam pasal ini ditetapkan usaha-usaha yang konkrit yang harus\ndilakukan dalam bidang obat-obatan asli Indonesia. \"Usaha-usaha\nlain\"\nmeliputi penerangan mengenai obat asli Indonesia.\nPasal 9 dan 1O\nPrinsip bimbingan Pemerintah terhadap badan-badan dan\noknum-oknum swasta dibidang kesehatan sebagaimana tercantum dalam\nUndang-undang\nPokok Kesehatan, ditegaskan disini bagi usaha farmasi\nswasta.\nDalam pasal ini diharapkan agar badan swasta berusaha terutama\ndilapangan produksi perbekalan kesehatan dibidang farmasi, sesuai\ndengan\nKeputusan M.P.R.S.\nPasal 11\n(1) Cukup jelas.\n(2) Perundang-undangan dibidang farmasi seperti:\na. Undang-undang obat bius (Stbl. 1927 No. 178),\nb. \" \" \" keras (Stbl. 1949 No. 419),\nc. \" \" \" berbahaya (Stbl. 1949 No. 377) dan\nd. \" \" \" Loodwit (Stbl. 1931 No. 509), harus diganti dengan\nperaturan perundang-undangan lain yang bersandar pada Undang-undang\nFarmasi ini.\nPasal 12\nCukup jelas.\nTermasuk dalam Lembaran-Negara tahun 1963 No. 81.\nMengetahui :\nMenteri/Penjabat Sekretaris Negara,\nA.W. SURJOADININGRAT (S.H.)\n--------------------------------\nCATATAN\nKutipan: LEMBARAN NEGARA DAN TAMBAHAN LEMBARAN NEGARA TAHUN 1963\nYANG TELAH DICETAK ULANG"
+   }
+  }
+ ]
+}

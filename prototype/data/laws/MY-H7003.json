@@ -1,0 +1,582 @@
+{
+ "id": "MY-H7003",
+ "title": {
+  "zh": "2014年工厂与机械（特别检验计划）（基于风险的检验）条例",
+  "en": "FACTORIES AND MACHINERY (SPECIAL SCHEME OF INSPECTION) (RISK-BASED INSPECTION) REGULATIONS 2014",
+  "orig": "FACTORIES AND MACHINERY (SPECIAL SCHEME OF INSPECTION) (RISK-BASED INSPECTION) REGULATIONS 2014",
+  "ms": "Peraturan Kilang dan Jentera (Skim Pemeriksaan Khas) (Pemeriksaan Berasaskan Risiko) 2014",
+  "vi": "Quy định về Nhà máy và máy móc (Chương trình kiểm tra đặc biệt) (Kiểm tra dựa trên rủi ro) năm 2014",
+  "th": "ข้อบังคับโรงงานและเครื่องจักร (โครงการตรวจสอบพิเศษ) (การตรวจสอบตามความเสี่ยง) ค.ศ. 2014",
+  "id": "Peraturan Pabrik dan Mesin (Skema Pemeriksaan Khusus) (Pemeriksaan Berbasis Risiko) Tahun 2014"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-16",
+ "language": "ms",
+ "level": "regulation",
+ "category": "04_劳工与行政法",
+ "status": "active",
+ "promulgatedDate": "2014",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "PUA96",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 45,
+ "chars": 83323,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-view.php?type=pua&no=P.U. (A) 96/2014&status=PRINCIPAL"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\04_劳工与行政法\\2014_P.U.(A)96-2014_FACTORIES AND MACHINERY (SPECIAL SCHEME OF INSPECTION) (RISK-BASED INSPECTION) REGULATIONS 2014.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 45 条；逐字未改写（源自厂商 OCR 文本）；已清除正文中的 1 个控制字符（C0/C1 区，法律文本中无合法用途，系 PDF 抽取/表单域残留）。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H7003-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "1. Nama dan permulaan kuat kuasa"
+   }
+  },
+  {
+   "id": "MY-H7003-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "2. Ketidakpakaian Peraturan-Peraturan (Pemberitahu, Perakuan Kelayakan dan\n\nPemeriksaan) Kilang dan Jentera 1970"
+   }
+  },
+  {
+   "id": "MY-H7003-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "3. Tafsiran\n\nBAHAGIAN II\n\nPERMOHONAN BAGI SKIM PEMERIKSAAN BERASASKAN RISIKO"
+   }
+  },
+  {
+   "id": "MY-H7003-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "4. Permohonan bagi skim pemeriksaan berasaskan risiko"
+   }
+  },
+  {
+   "id": "MY-H7003-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "5. Maklumat atau dokumen tambahan"
+   }
+  },
+  {
+   "id": "MY-H7003-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "6. Audit berasaskan risiko"
+   }
+  },
+  {
+   "id": "MY-H7003-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "7. Pemeriksaan bagi kelulusan"
+   }
+  },
+  {
+   "id": "MY-H7003-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "8. Pemberian kelulusan"
+   }
+  },
+  {
+   "id": "MY-H7003-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "9. Tempoh skim pemeriksaan berasaskan risiko"
+   }
+  },
+  {
+   "id": "MY-H7003-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "10. Tempoh sah perakuan kelayakan berasaskan risiko\n\nBAHAGIAN III\n\nKEHENDAK PERMOHONAN BAGI KELULUSAN SKIM PEMERIKSAAN BERASASKAN\n\nRISIKO\n\nPeraturan"
+   }
+  },
+  {
+   "id": "MY-H7003-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "11. Pemakaian Bahagian III"
+   }
+  },
+  {
+   "id": "MY-H7003-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "12. Penubuhan sistem pengurusan keselamatan dan kesihatan pekerjaan"
+   }
+  },
+  {
+   "id": "MY-H7003-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "13. Jentera bertekanan dalam keadaan kerja yang memuaskan, dsb."
+   }
+  },
+  {
+   "id": "MY-H7003-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "14. Data berasaskan risiko"
+   }
+  },
+  {
+   "id": "MY-H7003-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "15. Pengiraan dan penilaian data berasaskan risiko"
+   }
+  },
+  {
+   "id": "MY-H7003-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "16. Metodologi bagi pengiraan dan penilaian data berasaskan risiko"
+   }
+  },
+  {
+   "id": "MY-H7003-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "17. Pasukan pemeriksaan berasaskan risiko\n\nBAHAGIAN IV\n\nPEMERIKSAAN BERASASKAN RISIKO"
+   }
+  },
+  {
+   "id": "MY-H7003-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "18. Tarikh pemeriksaan berasaskan risiko"
+   }
+  },
+  {
+   "id": "MY-H7003-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "19. Pematuhan undang-undang"
+   }
+  },
+  {
+   "id": "MY-H7003-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "20. Persediaan bagi pemeriksaan berasaskan risiko"
+   }
+  },
+  {
+   "id": "MY-H7003-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "21. Jentera bertekanan yang tidak disediakan bagi pemeriksaan\n\nBAHAGIAN V\n\nKEHENDAK BAGI PENGGUNA SKIM"
+   }
+  },
+  {
+   "id": "MY-H7003-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "22. Kehendak bagi pengguna skim\n\nBAHAGIAN VI\n\nPEMBAHARUAN PERAKUAN KELAYAKAN BERASASKAN RISIKO"
+   }
+  },
+  {
+   "id": "MY-H7003-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "23. Permohonan bagi pembaharuan perakuan kelayakan berasaskan risiko"
+   }
+  },
+  {
+   "id": "MY-H7003-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "24. Maklumat atau dokumen tambahan\n\nPeraturan"
+   }
+  },
+  {
+   "id": "MY-H7003-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "25. Audit berasaskan risiko bagi pembaharuan perakuan kelayakan berasaskan\n\nrisiko"
+   }
+  },
+  {
+   "id": "MY-H7003-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "26. Pemeriksaan bagi pembaharuan perakuan kelayakan berasaskan risiko"
+   }
+  },
+  {
+   "id": "MY-H7003-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 27"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "27. Pembaharuan perakuan kelayakan berasaskan risiko"
+   }
+  },
+  {
+   "id": "MY-H7003-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 28"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "28. Tempoh sah perakuan kelayakan berasaskan risiko apabila diperbaharui\n\nBAHAGIAN VII\n\nPEMBATALAN, PENARIKAN BALIK DAN PENAMATAN"
+   }
+  },
+  {
+   "id": "MY-H7003-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Section 29"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "29. Pembatalan skim pemeriksaan berasaskan risiko"
+   }
+  },
+  {
+   "id": "MY-H7003-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Section 30"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "30. Penarikan balik jentera bertekanan berasaskan risiko"
+   }
+  },
+  {
+   "id": "MY-H7003-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Section 31"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "31. Pembatalan perakuan kelayakan berasaskan risiko"
+   }
+  },
+  {
+   "id": "MY-H7003-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Section 32"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "32. Kesan pembatalan dan penarikan balik"
+   }
+  },
+  {
+   "id": "MY-H7003-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Section 33"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "33. Penamatan apabila jentera bertekanan berasaskan risiko dijual, disewakan atau\n\ndipindahkan hakmilik"
+   }
+  },
+  {
+   "id": "MY-H7003-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "Section 34"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "34. Penyerahan balik kelulusan dan perakuan kelayakan\n\nBAHAGIAN VIII\n\nPERMOHONAN BAGI TEMPOH BAHARU SKIM PEMERIKSAAN BERASASKAN RISIKO"
+   }
+  },
+  {
+   "id": "MY-H7003-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "Section 35"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "35. Permohonan bagi tempoh baharu"
+   }
+  },
+  {
+   "id": "MY-H7003-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "Section 36"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "36. Maklumat atau dokumen tambahan"
+   }
+  },
+  {
+   "id": "MY-H7003-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "Section 37"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "37. Audit berasaskan risiko bagi tempoh baharu"
+   }
+  },
+  {
+   "id": "MY-H7003-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "Section 38"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "38. Pemeriksaan bagi tempoh baharu"
+   }
+  },
+  {
+   "id": "MY-H7003-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "Section 39"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "39. Pemberian kelulusan tempoh baharu"
+   }
+  },
+  {
+   "id": "MY-H7003-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "Section 40"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "40. Tempoh baharu skim pemeriksaan berasaskan risiko"
+   }
+  },
+  {
+   "id": "MY-H7003-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "Section 41"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "41. Tempoh sah perakuan kelayakan berasaskan risiko"
+   }
+  },
+  {
+   "id": "MY-H7003-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "Section 42"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "42. Pematuhan Bahagian V\n\nBAHAGIAN IX\n\nAM"
+   }
+  },
+  {
+   "id": "MY-H7003-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "Section 43"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "43. Audit berasaskan risiko semasa skim pemeriksaan berasaskan risiko"
+   }
+  },
+  {
+   "id": "MY-H7003-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "Section 44"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "44. Pemeriksaan berasaskan risiko semasa skim pemeriksaan berasaskan risiko"
+   }
+  },
+  {
+   "id": "MY-H7003-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "Section 45"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "45. Pembayaran fi\n\nJADUAL PERTAMA\n\nJADUAL KEDUA\n\nAKTA KILANG DAN JENTERA 1967\n\nPERATURAN-PERATURAN KILANG DAN JENTERA (SKIM PEMERIKSAAN KHAS)\n\n(PEMERIKSAAN BERASASKAN RISIKO) 2014\n\nPADA menjalankan kuasa yang diberikan oleh subseksyen 56(1) Akta Kilang dan\n\nJentera 1967 [Akta 139], Menteri membuat peraturan-peraturan yang berikut:\n\nBAHAGIAN I\n\nPERMULAAN\n\nNama dan permulaan kuat kuasa\n\n1. (1) Peraturan-peraturan ini bolehlah dinamakan Peraturan-Peraturan\n\nKilang dan Jentera (Skim Pemeriksaan Khas) (Pemeriksaan Berasaskan Risiko)\n\n(2) Peraturan-Peraturan ini mula berkuat kuasa pada 1 Jun 2014.\n\nKetidakpakaian Peraturan-Peraturan (Pemberitahu, Perakuan Kelayakan dan\n\nPemeriksaan) Kilang dan Jentera 1970\n\n2. Peraturan-Peraturan (Pemberitahu, Perakuan Kelayakan dan Pemeriksaan)\n\nKilang dan Jentera 1970 [P.U. (A) 43/1970] tidak terpakai bagi jentera bertekanan\n\nberasaskan risiko kecuali subperaturan 3(3) dan 6(1), dan peraturan 5, 8 dan 9.\n\nTafsiran\n\n3. Dalam Peraturan-Peraturan ini, melainkan jika konteksnya menghendaki makna\n\nyang lain—\n\n\"audit berasaskan risiko\" termasuklah pemeriksaan luaran dan pengesahan data\n\nberasaskan risiko;\n\n\"baki hayat\" ertinya baki usia bagi jangka hayat sesuatu jentera bertekanan;\n\n\"data berasaskan risiko\" ertinya suatu rekod yang mengandungi data tentang\n\nperincian reka bentuk dan pengendalian sesuatu jentera bertekanan yang termasuklah\n\nkeadaan pengendalian, komposisi bendalir proses, sifat bendalir proses, bahan binaan,\n\nspesifikasi reka bentuk dan sejarah jentera bertekanan itu;\n\n\"jentera bertekanan\" ertinya suatu dandang stim dan bejana tekanan tidak\n\nberapi yang digunakan bagi maksud pemprosesan atau penyimpanan;\n\n\"jentera bertekanan berasaskan masa\" ertinya suatu jentera bertekanan yang\n\nmemegang perakuan kelayakan berasaskan masa;\n\n\"jentera bertekanan berasaskan masa yang baru dipasang\" ertinya suatu jentera\n\nbertekanan berasaskan masa yang telah menjalani suatu pemeriksaan permulaan dan\n\ndua pemeriksaan ulangan;\n\n\"jentera bertekanan berasaskan masa yang sedia ada\" ertinya suatu jentera\n\nbertekanan berasaskan masa yang telah menjalani suatu pemeriksaan permulaan dan\n\nsekurang-kurangnya tiga pemeriksaan ulangan;\n\n\"jentera bertekanan berasaskan risiko\" ertinya suatu jentera bertekanan yang\n\nmemegang perakuan kelayakan berasaskan risiko;\n\n\"pemeriksaan berasaskan risiko\" ertinya suatu pemeriksaan pada bahagian\n\ndalam dan luar sesuatu jentera bertekanan yang selang pemeriksaannya ditentukan\n\nberdasarkan kategori risiko yang berkaitan dengan jentera bertekanan itu;\n\n\"pemeriksaan luaran\" ertinya suatu pemeriksaan pada bahagian luar sesuatu\n\njentera bertekanan yang termasuklah pengujian kelengkapan keselamatan yang\n\ndipasang pada jentera bertekanan itu;\n\n\"pemeriksaan permulaan\" mempunyai erti yang diberikan kepadanya dalam\n\nPeraturan-Peraturan (Pemberitahu, Perakuan Kelayakan dan Pemeriksaan) Kilang dan\n\nJentera 1970;\n\n\"pemeriksaan ulangan\" mempunyai erti yang diberikan kepadanya dalam\n\nPeraturan-Peraturan (Pemberitahu, Perakuan Kelayakan dan Pemeriksaan) Kilang dan\n\nJentera 1970;\n\n\"pemohon\" ertinya seseorang pemunya atau penghuni yang membuat\n\npermohonan bagi kelulusan skim pemeriksaan berasaskan risiko di bawah peraturan 4;\n\n\"pengguna skim\" ertinya seseorang pemohon yang telah diberikan kelulusan\n\nskim pemeriksaan berasaskan risiko di bawah perenggan 8(1)(a) atau 39(1)(a);\n\n\"perakuan kelayakan berasaskan masa\" ertinya suatu perakuan kelayakan yang\n\ndikeluarkan di bawah peraturan 25 Peraturan-Peraturan (Pemberitahu, Perakuan\n\nKelayakan dan Pemeriksaan) Kilang dan Jentera 1970;\n\n\"perakuan kelayakan berasaskan risiko\" ertinya suatu perakuan kelayakan yang\n\ndikeluarkan di bawah perenggan 8(1)(b) atau 39(1)(b) atau yang diperbaharui\n\ndi bawah subperaturan 27(1);\n\n\"skim pemeriksaan berasaskan risiko\" ertinya suatu skim pemeriksaan khas\n\nyang berdasarkan pemeriksaan berasaskan risiko.\n\nBAHAGIAN II\n\nPERMOHONAN BAGI SKIM PEMERIKSAAN BERASASKAN RISIKO\n\nPermohonan bagi skim pemeriksaan berasaskan risiko\n\n4. (1) Seseorang pemohon boleh memohon kepada Ketua Pemeriksa bagi\n\nkelulusan skim pemeriksaan berasaskan risiko berkenaan dengan satu atau lebih\n\njentera bertekanan berasaskan masa.\n\n(2) Suatu permohonan di bawah subperaturan (1) hendaklah—\n\n(a) dibuat secara bertulis;\n\n(b) disertakan dengan fi pemprosesan sebanyak lima puluh ribu\n\nringgit;\n\n(c) dilampirkan dengan dokumen yang menunjukkan bahawa\n\nkehendak yang dinyatakan dalam Bahagian III telah dipenuhi; dan\n\n(d) dikemukakan sekurang-kurangnya enam bulan sebelum habis\n\ntempoh perakuan kelayakan berasaskan masa.\n\nMaklumat atau dokumen tambahan\n\n5. (1) Ketua Pemeriksa boleh, melalui notis secara bertulis pada bila-bila masa\n\nselepas permohonan di bawah peraturan 4 diterima, menghendaki pemohon\n\nmemberikan apa-apa maklumat atau dokumen tambahan kepada Ketua Pemeriksa\n\ndalam tempoh yang dinyatakan dalam notis itu atau apa-apa tempoh lanjutan yang\n\ndiberikan oleh Ketua Pemeriksa.\n\n(2) Jika maklumat atau dokumen tambahan yang dikehendaki di bawah\n\nsubperaturan (1) tidak diberikan oleh pemohon dalam tempoh yang dinyatakan dalam\n\nnotis atau apa-apa tempoh lanjutan yang diberikan oleh Ketua Pemeriksa, permohonan\n\nitu hendaklah disifatkan telah ditarik balik dan tidak lagi diteruskan, tetapi tanpa\n\nmenyentuh hak pemohon untuk membuat permohonan yang baharu.\n\nAudit berasaskan risiko\n\n6. (1) Apabila permohonan di bawah peraturan 4 dan apa-apa maklumat atau\n\ndokumen tambahan di bawah peraturan 5 diterima, Pemeriksa hendaklah menjalankan\n\naudit berasaskan risiko untuk menentusahkan bahawa kehendak yang dinyatakan\n\ndalam Bahagian III telah dipenuhi.\n\n(2) Bagi maksud audit berasaskan risiko, pemohon hendaklah menyediakan\n\nsegala kemudahan dan maklumat kepada Pemeriksa sebagaimana yang\n\nsemunasabahnya dikehendaki daripadanya.\n\nPemeriksaan bagi kelulusan\n\n7. (1) Apabila audit berasaskan risiko di bawah peraturan 6 disiapkan dan\n\nPemeriksa berpuas hati bahawa kehendak yang dinyatakan dalam Bahagian III telah\n\ndipenuhi, suatu pemeriksaan berasaskan risiko hendaklah dijalankan ke atas jentera\n\nbertekanan berasaskan masa mengikut Bahagian IV.\n\n(2) Apabila pemeriksaan berasaskan risiko di bawah subperaturan (1)\n\ndisiapkan, Pemeriksa hendaklah—\n\n(a) melaporkan kepada Ketua Pemeriksa tentang dapatan\n\npemeriksaan berasaskan risiko itu dan audit berasaskan risiko\n\ndi bawah peraturan 6; dan\n\n(b) mengeluarkan suatu pemberitahuan kepada pemohon bagi\n\npembayaran—\n\n(i) berkenaan dengan jentera bertekanan berasaskan masa\n\nyang telah menjalani pemeriksaan berasaskan risiko, fi\n\npemeriksaan sebagaimana yang dinyatakan dalam Jadual\n\nKedua; atau\n\n(ii) berkenaan dengan jentera bertekanan berasaskan masa\n\nyang Pemeriksa telah enggan membuat atau menyiapkan\n\npemeriksaan berasaskan risiko ke atasnya menurut\n\nperaturan 21, dua puluh lima peratus daripada fi\n\npemeriksaan sebagaimana yang dinyatakan dalam Jadual\n\nKedua.\n\n(3) Apabila pemberitahuan di bawah perenggan (2)(b) diterima, pemohon\n\nhendaklah membuat pembayaran fi pemeriksaan kepada Ketua Pemeriksa dalam masa\n\nempat belas hari.\n\nPemberian kelulusan\n\n8. (1) Tertakluk kepada subperaturan (2), Ketua Pemeriksa boleh, selepas\n\nmempertimbangkan dapatan di bawah perenggan 7(2)(a)—\n\n(a) memberikan kelulusan skim pemeriksaan berasaskan risiko dalam\n\nBorang A Jadual Pertama berkenaan dengan satu atau lebih jentera\n\nbertekanan berasaskan masa yang dinyatakan dalam permohonan\n\ndi bawah peraturan 4; dan\n\n(b) mengeluarkan perakuan kelayakan berasaskan risiko dalam\n\nBorang B Jadual Pertama bagi tiap-tiap jentera bertekanan\n\nberasaskan masa yang berkenaan dengannya kelulusan skim\n\npemeriksaan berasaskan risiko telah diberikan di bawah\n\nperenggan (a).\n\n(2) Ketua Pemeriksa boleh, selepas mempertimbangkan dapatan di bawah\n\nperenggan 7(2)(a), enggan memberikan kelulusan skim pemeriksaan berasaskan risiko\n\njika—\n\n(a) Ketua Pemeriksa tidak berpuas hati bahawa kehendak di bawah\n\nPeraturan-Peraturan ini atau undang-undang bertulis lain yang\n\nberhubungan dengan jentera bertekanan telah dipatuhi; atau\n\n(b) pembayaran fi pemeriksaan di bawah subperaturan 7(3) tidak\n\ndibuat.\n\n(3) Kelulusan yang diberikan di bawah perenggan (1)(a) dan perakuan\n\nkelayakan berasaskan risiko yang dikeluarkan di bawah perenggan (1)(b) hendaklah\n\nmula berkuat kuasa pada tarikh yang sama.\n\n(4) Ketua Pemeriksa hendaklah memberitahu secara bertulis kelulusan yang\n\ndiberikan di bawah perenggan (1)(a) atau keengganan memberikan kelulusan di bawah\n\nsubperaturan (2) kepada pemohon dengan seberapa segera yang dapat dilaksanakan.\n\nTempoh skim pemeriksaan berasaskan risiko\n\n9. Tempoh suatu skim pemeriksaan berasaskan risiko yang diberikan di bawah\n\nperenggan 8(1)(a) hendaklah selama satu ratus lima puluh bulan melainkan jika skim\n\npemeriksaan berasaskan risiko itu dibatalkan, disifatkan telah dibatalkan atau\n\nditamatkan di bawah Bahagian VII.\n\nTempoh sah perakuan kelayakan berasaskan risiko\n\n10. Tempoh sah suatu perakuan kelayakan berasaskan risiko yang dikeluarkan\n\ndi bawah perenggan 8(1)(b)—\n\n(a) hendaklah ditentukan oleh Ketua Pemeriksa berdasarkan pengiraan dan\n\npenilaian data berasaskan risiko di bawah peraturan 15; dan\n\n(b) tidak boleh melebihi tujuh puluh lima bulan.\n\nBAHAGIAN III\n\nKEHENDAK PERMOHONAN BAGI KELULUSAN SKIM PEMERIKSAAN BERASASKAN\n\nRISIKO\n\nPemakaian Bahagian III\n\n11. Bahagian ini hendaklah terpakai bagi maksud suatu permohonan bagi kelulusan\n\nskim pemeriksaan berasaskan risiko di bawah peraturan 4.\n\nPenubuhan sistem pengurusan keselamatan dan kesihatan pekerjaan\n\n12. Seseorang pemohon hendaklah menubuhkan suatu sistem pengurusan\n\nkeselamatan dan kesihatan pekerjaan yang mematuhi MS 1722 Occupational safety and\n\nhealth (OSH) management systems - Requirements (First revision) sebagaimana yang\n\ndiisytiharkan di bawah Perisytiharan Penentuan Standard (Penentuan yang Disemak)\n\n[P.U. (B) 411/2012] atau mana-mana sistem pengurusan keselamatan dan kesihatan\n\npekerjaan lain yang setara sebagaimana yang ditentukan oleh Ketua Pemeriksa.\n\nJentera bertekanan dalam keadaan kerja yang memuaskan, dsb.\n\n13. Seseorang pemohon hendaklah memastikan bahawa jentera bertekanan\n\nberasaskan masa adalah dalam keadaan kerja yang memuaskan atau layak untuk\n\ndigunakan.\n\nData berasaskan risiko\n\n14. Seseorang pemohon hendaklah mengumpulkan—\n\n(a) berkenaan dengan jentera bertekanan berasaskan masa yang baru\n\ndipasang, data berasaskan risiko daripada pemeriksaan permulaan dan\n\ndua pemeriksaan ulangan;\n\n(b) berkenaan dengan jentera bertekanan berasaskan masa yang sedia ada,\n\ndata berasaskan risiko daripada tiga pemeriksaan ulangan yang terakhir;\n\natau\n\n(c) berkenaan dengan jentera bertekanan berasaskan masa yang baru\n\ndipasang atau jentera bertekanan berasaskan masa yang sedia ada yang\n\ndata berasaskan risiko tidak boleh dikumpulkan daripada pemeriksaan\n\npermulaan atau pemeriksaan ulangan, data berasaskan risiko dalam\n\ntiap-tiap selang enam bulan bagi suatu tempoh yang tidak kurang\n\ndaripada lapan belas bulan dengan menggunakan apa-apa cara lain\n\nsebagaimana yang ditentukan oleh Ketua Pemeriksa.\n\nPengiraan dan penilaian data berasaskan risiko\n\n15. Seseorang pemohon hendaklah menentukan—\n\n(a) baki hayat;\n\n(b) kategori risiko;\n\n(c) selang pemeriksaan yang dicadangkan; dan\n\n(d) pelan pemeriksaan yang dicadangkan,\n\nbagi jentera bertekanan berasaskan masa dengan mengira dan menilai data berasaskan\n\nrisiko yang dikumpulkan di bawah peraturan 14.\n\nMetodologi bagi pengiraan dan penilaian data berasaskan risiko\n\n16. Bagi maksud mengira dan menilai data berasaskan risiko di bawah peraturan 15,\n\nseseorang pemohon hendaklah menggunakan suatu metodologi sebagaimana yang\n\ndipersetujui oleh Ketua Pemeriksa.\n\nPasukan pemeriksaan berasaskan risiko\n\n17. (1) Seseorang pemohon hendaklah menubuhkan suatu pasukan pemeriksaan\n\nberasaskan risiko yang hendaklah terdiri daripada sekurang-kurangnya lima orang\n\nanggota seperti yang berikut:\n\n(a) ketua pasukan, yang hendaklah orang yang layak;\n\n(b) seorang jurutera dengan pengetahuan dan kepakaran\n\nkejuruteraan kakisan;\n\n(c) seorang wakil daripada bahagian proses atau bahagian\n\npengeluaran;\n\n(d) seorang wakil daripada bahagian pemeriksaan atau bahagian\n\nkejuruteraan; dan\n\n(e) seorang pegawai keselamatan dan kesihatan yang berdaftar\n\ndi bawah Peraturan-Peraturan Keselamatan dan Kesihatan\n\nPekerjaan (Pegawai Keselamatan dan Kesihatan) 1997\n\n[P.U. (A) 315/1997] atau jika suatu tempat kerja tidak\n\nmenghendaki seorang pegawai keselamatan dan kesihatan\n\nberdaftar, seorang yang bertanggungjawab bagi keselamatan dan\n\nkesihatan pekerjaan.\n\n(2) Dalam peraturan ini, \"orang yang layak\" ertinya seseorang yang\n\nmempunyai ijazah kejuruteraan dan yang, pada pendapat pemohon, mempunyai\n\npengetahuan dan pengalaman yang mencukupi untuk melaksanakan semua tugas yang\n\nberhubungan dengan skim pemeriksaan berasaskan risiko.\n\nBAHAGIAN IV\n\nPEMERIKSAAN BERASASKAN RISIKO\n\nTarikh pemeriksaan berasaskan risiko\n\n18. Bagi maksud pemeriksaan berasaskan risiko, pemohon dan Pemeriksa\n\nhendaklah bersetuju dengan suatu tarikh untuk menjalankan pemeriksaan berasaskan\n\nrisiko.\n\nPematuhan undang-undang\n\n19. Bagi maksud pemeriksaan berasaskan risiko, pemohon hendaklah memastikan\n\nbahawa jentera bertekanan berasaskan masa mematuhi kehendak di bawah\n\nPeraturan-Peraturan ini dan undang-undang bertulis lain yang berhubungan dengan\n\njentera bertekanan.\n\nPersediaan bagi pemeriksaan berasaskan risiko\n\n20. (1) Pada tarikh yang dipersetujui oleh pemohon dan Pemeriksa di bawah\n\nperaturan 18, pemohon hendaklah menyediakan tiap-tiap jentera bertekanan\n\nberasaskan masa bagi pemeriksaan berasaskan risiko seperti yang berikut:\n\n(a) jentera bertekanan berasaskan masa itu dikosongkan, disejukkan\n\ndan dikeringkan, dan dibersihkan dengan teliti di dalam dan luar;\n\n(b) semua pintu lurang, lubang tangan dan lubang intai dan palam\n\npencuci ditanggalkan;\n\n(c) semua pili dan injap dibuka, dibersihkan dan dicanai, jika perlu;\n\n(d) jentera bertekanan berasaskan masa itu tidak bersambung dengan\n\nmana-mana jentera bertekanan berasaskan masa yang lain, dan\n\npunca stim atau air panas;\n\n(e) jentera bertekanan berasaskan masa itu bebas daripada wasap\n\ndan wap berbahaya; dan\n\n(f) berkenaan dengan suatu dandang stim—\n\n(i) semua bar-api dan anjung api ditanggalkan;\n\n(ii) semua tiub asap, bahagian luar tiub air, relau, kotak asap\n\ndan serombong luar dibersihkan dengan teliti; dan\n\n(iii) semua penutup pada pengepala dan gelendong lumpur\n\npada dandang stim tiub air ditanggalkan.\n\n(2) Semasa pemeriksaan berasaskan risiko, Pemeriksa boleh memberikan\n\narahan kepada pemohon untuk mengambil apa-apa tindakan lain yang perlu,\n\ntermasuklah menanggalkan apa-apa bebatan, binaan bata atau kerja batu, membuat\n\npersediaan bagi menjalankan ujian hidrostatik atau ujian tanpa musnah, dan melakukan\n\npembaikan jentera bertekanan berasaskan masa.\n\nJentera bertekanan yang tidak disediakan bagi pemeriksaan\n\n21. (1) Jika jentera bertekanan berasaskan masa tidak disediakan bagi\n\npemeriksaan berasaskan risiko sebagaimana yang dinyatakan dalam peraturan 20,\n\nPemeriksa boleh enggan membuat atau menyiapkan pemeriksaan berasaskan risiko itu.\n\n(2) Jika Pemeriksa enggan membuat atau menyiapkan pemeriksaan\n\nberasaskan risiko di bawah subperaturan (1)—\n\n(a) Pemeriksa hendaklah memberitahu pemohon sebab bagi\n\nkeengganannya itu dan Pemeriksa hendaklah menetapkan apa-apa\n\ntarikh lain bagi pemeriksaan berasaskan risiko itu; dan\n\n(b) pemohon hendaklah dikenakan bayaran pada kadar dua puluh\n\nlima peratus daripada fi pemeriksaan sebagaimana yang\n\ndinyatakan dalam Jadual Kedua.\n\nBAHAGIAN V\n\nKEHENDAK BAGI PENGGUNA SKIM\n\nKehendak bagi pengguna skim\n\n22. Seseorang pengguna skim hendaklah, bagi apa-apa tempoh skim pemeriksaan\n\nberasaskan risiko—\n\n(a) menyenggarakan sistem pengurusan keselamatan dan kesihatan\n\npekerjaan yang ditubuhkan di bawah peraturan 12;\n\n(b) memastikan bahawa jentera bertekanan berasaskan risiko adalah dalam\n\nkeadaan kerja yang memuaskan atau layak untuk digunakan;\n\n(c) mengumpulkan data berasaskan risiko berkenaan dengan jentera\n\nbertekanan berasaskan risiko bagi tiap-tiap dua belas bulan;\n\n(d) menyenggarakan dan menggunakan metodologi bagi pengiraan dan\n\npenilaian data berasaskan risiko di bawah peraturan 16; dan\n\n(e) menyenggarakan pasukan pemeriksaan berasaskan risiko yang\n\nditubuhkan di bawah peraturan 17 dan memberitahu Ketua Pemeriksa\n\nsecara bertulis mengenai apa-apa perubahan kepada ketua pasukan\n\ndalam masa empat belas hari daripada perubahan itu.\n\nBAHAGIAN VI\n\nPEMBAHARUAN PERAKUAN KELAYAKAN BERASASKAN RISIKO\n\nPermohonan bagi pembaharuan perakuan kelayakan berasaskan risiko\n\n23. (1) Seseorang pengguna skim boleh memohon kepada Ketua Pemeriksa bagi\n\npembaharuan perakuan kelayakan berasaskan risiko.\n\n(2) Suatu permohonan di bawah subperaturan (1) hendaklah—\n\n(a) dibuat secara bertulis;\n\n(b) dilampirkan dengan dokumen yang menunjukkan bahawa\n\nkehendak yang dinyatakan dalam subperaturan (3) dan\n\nBahagian V telah dipenuhi; dan\n\n(c) dikemukakan sekurang-kurangnya tiga bulan sebelum habis\n\ntempoh perakuan kelayakan berasaskan risiko.\n\n(3) Seseorang pengguna skim hendaklah menentukan—\n\n(a) baki hayat;\n\n(b) kategori risiko;\n\n(c) selang pemeriksaan yang dicadangkan; dan\n\n(d) pelan pemeriksaan yang dicadangkan,\n\nbagi jentera bertekanan berasaskan risiko dengan mengira dan menilai data berasaskan\n\nrisiko bagi dua belas bulan yang terakhir yang dikumpulkan di bawah perenggan 22(c).\n\nMaklumat atau dokumen tambahan\n\n24. (1) Ketua Pemeriksa boleh, melalui notis secara bertulis pada bila-bila masa\n\nselepas permohonan di bawah peraturan 23 diterima, menghendaki pengguna skim\n\nmemberikan apa-apa maklumat atau dokumen tambahan kepada Ketua Pemeriksa\n\ndalam tempoh yang dinyatakan dalam notis itu atau apa-apa tempoh lanjutan yang\n\ndiberikan oleh Ketua Pemeriksa.\n\n(2) Jika maklumat atau dokumen tambahan yang dikehendaki di bawah\n\nsubperaturan (1) tidak diberikan oleh pengguna skim dalam tempoh yang dinyatakan\n\ndalam notis atau apa-apa tempoh lanjutan yang diberikan oleh Ketua Pemeriksa,\n\npermohonan itu hendaklah disifatkan telah ditarik balik dan tidak lagi diteruskan, tetapi\n\ntanpa menyentuh hak pengguna skim untuk membuat permohonan yang baharu.\n\nAudit berasaskan risiko bagi pembaharuan perakuan kelayakan berasaskan\n\nrisiko\n\n25. (1) Apabila permohonan di bawah peraturan 23 dan apa-apa maklumat atau\n\ndokumen tambahan di bawah peraturan 24 diterima, Pemeriksa hendaklah\n\nmenjalankan audit berasaskan risiko untuk menentusahkan bahawa kehendak yang\n\ndinyatakan dalam subperaturan 23(3) dan Bahagian V telah dipenuhi.\n\n(2) Bagi maksud audit berasaskan risiko, pengguna skim hendaklah\n\nmenyediakan segala kemudahan dan maklumat kepada Pemeriksa sebagaimana yang\n\nsemunasabahnya dikehendaki daripadanya.\n\nPemeriksaan bagi pembaharuan perakuan kelayakan berasaskan risiko\n\n26. (1) Jika Pemeriksa berpuas hati bahawa kehendak yang dinyatakan dalam\n\nsubperaturan 23(3) dan Bahagian V telah dipenuhi, suatu pemeriksaan berasaskan\n\nrisiko hendaklah dijalankan ke atas jentera bertekanan berasaskan risiko mengikut\n\nBahagian IV.\n\n(2) Bagi maksud pembaharuan perakuan kelayakan berasaskan risiko\n\ndi bawah Bahagian ini, Bahagian IV hendaklah terpakai mutatis mutandis bagi pengguna\n\nskim tertakluk kepada ubah suaian yang berikut:\n\n(a) sebutan mengenai \"jentera bertekanan berasaskan masa\"\n\nhendaklah dikira sebagai sebutan mengenai jentera bertekanan\n\nberasaskan risiko; dan\n\n(b) sebutan mengenai \"pemohon\" hendaklah dikira sebagai sebutan\n\nmengenai pengguna skim.\n\n(3) Apabila pemeriksaan berasaskan risiko di bawah subperaturan (1) telah\n\ndisiapkan, Pemeriksa hendaklah—\n\n(a) melaporkan kepada Ketua Pemeriksa tentang dapatan\n\npemeriksaan berasaskan risiko itu dan audit berasaskan risiko di\n\nbawah peraturan 25; dan\n\n(b) mengeluarkan suatu pemberitahuan kepada pengguna skim bagi\n\npembayaran—\n\n(i) berkenaan dengan jentera bertekanan berasaskan risiko\n\nyang telah menjalani pemeriksaan berasaskan risiko, fi\n\npemeriksaan sebagaimana yang dinyatakan dalam Jadual\n\nKedua; atau\n\n(ii) berkenaan dengan jentera bertekanan berasaskan risiko\n\nyang Pemeriksa telah enggan membuat atau menyiapkan\n\npemeriksaan berasaskan risiko ke atasnya menurut\n\nperaturan 21, dua puluh lima peratus daripada fi\n\npemeriksaan sebagaimana yang dinyatakan dalam Jadual\n\nKedua.\n\n(4) Apabila pemberitahuan di bawah perenggan (3)(b) diterima, pengguna\n\nskim hendaklah membuat pembayaran fi pemeriksaan kepada Ketua Pemeriksa dalam\n\nmasa empat belas hari.\n\nPembaharuan perakuan kelayakan berasaskan risiko\n\n27. (1) Tertakluk kepada subperaturan (2), Ketua Pemeriksa boleh, selepas\n\nmempertimbangkan dapatan di bawah perenggan 26(3)(a), memperbaharui perakuan\n\nkelayakan berasaskan risiko dalam Borang B Jadual Pertama.\n\n(2) Ketua Pemeriksa boleh, selepas mempertimbangkan dapatan di bawah\n\nperenggan 26(3)(a), enggan memperbaharui perakuan kelayakan berasaskan risiko\n\njika—\n\n(a) Ketua Pemeriksa tidak berpuas hati bahawa kehendak di bawah\n\nPeraturan-Peraturan ini atau undang-undang bertulis lain yang\n\nberhubungan dengan jentera bertekanan telah dipatuhi; atau\n\n(b) pembayaran fi pemeriksaan di bawah subperaturan 26(4) tidak\n\ndibuat.\n\n(3) Ketua Pemeriksa hendaklah memberitahu secara bertulis pembaharuan\n\nperakuan kelayakan berasaskan risiko di bawah subperaturan (1) atau keengganan\n\nmemperbaharui perakuan kelayakan berasaskan risiko di bawah subperaturan (2)\n\nkepada pengguna skim dengan seberapa segera yang dapat dilaksanakan.\n\nTempoh sah perakuan kelayakan berasaskan risiko apabila diperbaharui\n\n28. Tempoh sah suatu perakuan kelayakan berasaskan risiko yang diperbaharui\n\ndi bawah subperaturan 27(1)—\n\n(a) hendaklah ditentukan oleh Ketua Pemeriksa berdasarkan pengiraan dan\n\npenilaian data berasaskan risiko di bawah subperaturan 23(3); dan\n\n(b) tidak boleh melebihi tujuh puluh lima bulan atau baki tempoh skim\n\npemeriksaan berasaskan risiko, mengikut mana-mana yang lebih pendek.\n\nBAHAGIAN VII\n\nPEMBATALAN, PENARIKAN BALIK DAN PENAMATAN\n\nPembatalan skim pemeriksaan berasaskan risiko\n\n29. (1) Ketua Pemeriksa boleh membatalkan skim pemeriksaan berasaskan\n\nrisiko jika—\n\n(a) pengguna skim tidak mematuhi mana-mana kehendak yang\n\ndinyatakan dalam Bahagian V; atau\n\n(b) pengguna skim memberikan apa-apa dokumen atau maklumat\n\nyang dikehendaki di bawah mana-mana peruntukan\n\nPeraturan-Peraturan ini yang palsu, mengelirukan atau\n\nmengandungi kesilapan atau peninggalan yang material.\n\n(2) Sebelum Ketua Pemeriksa membatalkan skim pemeriksaan berasaskan\n\nrisiko di bawah subperaturan (1), Ketua Pemeriksa hendaklah memberi pengguna\n\nskim—\n\n(a) suatu notis bertulis tentang niatnya untuk membatalkan skim\n\npemeriksaan berasaskan risiko itu; dan\n\n(b) suatu peluang untuk meremedikan kemungkiran atau pelanggaran\n\ndalam perenggan (1)(a) atau (b), dan untuk membuat\n\npenghujahan bertulis, dalam tempoh yang dinyatakan dalam notis\n\nbertulis itu yang hendaklah tidak kurang daripada empat belas\n\nhari.\n\n(3) Ketua Pemeriksa hendaklah, selepas mempertimbangkan remedi atau\n\npenghujahan bertulis di bawah perenggan (2)(b), jika ada, memutuskan sama ada untuk\n\nmembatalkan skim pemeriksaan berasaskan risiko itu atau tidak.\n\n(4) Keputusan Ketua Pemeriksa di bawah subperaturan (3) hendaklah\n\ndiberitahu secara bertulis kepada pengguna skim dengan seberapa segera yang dapat\n\ndilaksanakan.\n\nPenarikan balik jentera bertekanan berasaskan risiko\n\n30. (1) Tertakluk kepada subperaturan (2), seseorang pengguna skim boleh, atas\n\napa-apa sebab, menarik balik mana-mana atau semua jentera bertekanan berasaskan\n\nrisiko daripada suatu skim pemeriksaan berasaskan risiko.\n\n(2) Pengguna skim hendaklah memberikan suatu notis bertulis tentang\n\nniatnya untuk menarik balik jentera bertekanan berasaskan risiko kepada Ketua\n\nPemeriksa sekurang-kurangnya empat belas hari sebelum penarikan balik itu.\n\nPembatalan perakuan kelayakan berasaskan risiko\n\n31. (1) Ketua Pemeriksa boleh membatalkan mana-mana perakuan kelayakan\n\nberasaskan risiko jika dia mempunyai alasan yang munasabah untuk mempercayai\n\nbahawa integriti dan kekuatan jentera bertekanan berasaskan risiko telah berkurangan\n\ndengan teruk yang menyebabkan atau berkemungkinan menyebabkan kegagalan\n\njentera bertekanan berasaskan risiko itu.\n\n(2) Sebelum Ketua Pemeriksa membatalkan perakuan kelayakan berasaskan\n\nrisiko di bawah subperaturan (1), Ketua Pemeriksa hendaklah memberi pengguna\n\nskim—\n\n(a) suatu notis bertulis tentang niatnya untuk membatalkan perakuan\n\nkelayakan berasaskan risiko itu; dan\n\n(b) suatu peluang untuk meremedikan keadaan jentera bertekanan\n\nberasaskan risiko itu, dan untuk membuat penghujahan bertulis,\n\ndalam tempoh yang dinyatakan dalam notis bertulis itu yang\n\nhendaklah tidak kurang daripada empat belas hari.\n\n(3) Ketua Pemeriksa hendaklah, selepas mempertimbangkan remedi atau\n\npenghujahan bertulis di bawah perenggan (2)(b), jika ada, memutuskan sama ada untuk\n\nmembatalkan perakuan kelayakan berasaskan risiko itu atau tidak.\n\n(4) Keputusan Ketua Pemeriksa di bawah subperaturan (3) hendaklah\n\ndiberitahu secara bertulis kepada pengguna skim dengan seberapa segera yang dapat\n\ndilaksanakan.\n\nKesan pembatalan dan penarikan balik\n\n32. (1) Jika suatu skim pemeriksaan berasaskan risiko dibatalkan di bawah\n\nperaturan 29, tiap-tiap perakuan kelayakan berasaskan risiko berkenaan dengan skim\n\npemeriksaan berasaskan risiko itu hendaklah disifatkan telah dibatalkan.\n\n(2) Jika mana-mana jentera bertekanan berasaskan risiko ditarik balik\n\ndaripada suatu skim pemeriksaan berasaskan risiko di bawah peraturan 30, perakuan\n\nkelayakan berasaskan risiko berkenaan dengan jentera bertekanan berasaskan risiko\n\nitu hendaklah disifatkan telah dibatalkan.\n\n(3) Jika semua perakuan kelayakan berasaskan risiko berkenaan dengan\n\nsuatu skim pemeriksaan berasaskan risiko dibatalkan di bawah peraturan 31 atau\n\ndisifatkan telah dibatalkan di bawah subperaturan (2), skim pemeriksaan berasaskan\n\nrisiko itu hendaklah disifatkan telah dibatalkan.\n\nPenamatan apabila jentera bertekanan berasaskan risiko dijual, disewakan atau\n\ndipindahkan hakmilik\n\n33. (1) Jika mana-mana jentera bertekanan berasaskan risiko berkenaan dengan\n\nsuatu skim pemeriksaan berasaskan risiko dijual, disewakan atau dipindahkan hakmilik\n\nsecara tetap atau sementara kepada mana-mana orang—\n\n(a) perakuan kelayakan berasaskan risiko berkenaan dengan jentera\n\nbertekanan berasaskan risiko itu hendaklah tamat; dan\n\n(b) skim pemeriksaan berasaskan risiko itu, dan perakuan kelayakan\n\nberasaskan risiko berkenaan dengan mana-mana jentera\n\nbertekanan berasaskan risiko yang tidak dijual, disewakan atau\n\ndipindahkan hak milik, hendaklah terus sah.\n\n(2) Jika semua jentera bertekanan berasaskan risiko berkenaan dengan suatu\n\nskim pemeriksaan berasaskan risiko dijual, disewakan atau dipindahkan hakmilik\n\nsecara tetap atau sementara kepada mana-mana orang, skim pemeriksaan berasaskan\n\nrisiko itu dan tiap-tiap perakuan kelayakan berasaskan risiko berkenaan dengan jentera\n\nbertekanan berasaskan risiko itu hendaklah tamat.\n\nPenyerahan balik kelulusan dan perakuan kelayakan\n\n34. (1) Jika suatu skim pemeriksaan berasaskan risiko dibatalkan, disifatkan\n\ntelah dibatalkan atau ditamatkan di bawah Bahagian ini, pengguna skim hendaklah\n\nmenyerahkan balik kelulusan skim pemeriksaan berasaskan risiko dan tiap-tiap\n\nperakuan kelayakan berasaskan risiko berkenaan dengan skim pemeriksaan\n\nberasaskan risiko itu kepada Ketua Pemeriksa dalam masa empat belas hari dari tarikh\n\npembatalan atau penamatan itu.\n\n(2) Jika suatu perakuan kelayakan berasaskan risiko dibatalkan, disifatkan\n\ntelah dibatalkan atau ditamatkan di bawah Bahagian ini, pengguna skim hendaklah\n\nmenyerahkan balik perakuan kelayakan berasaskan risiko itu kepada Ketua Pemeriksa\n\ndalam masa empat belas hari dari tarikh pembatalan atau penamatan itu.\n\nBAHAGIAN VIII\n\nPERMOHONAN BAGI TEMPOH BAHARU SKIM PEMERIKSAAN BERASASKAN RISIKO\n\nPermohonan bagi tempoh baharu\n\n35. (1) Selepas habis tempoh sedia ada sesuatu skim pemeriksaan berasaskan\n\nrisiko, seseorang pengguna skim boleh memohon kepada Ketua Pemeriksa bagi\n\nkelulusan suatu tempoh baharu bagi skim pemeriksaan berasaskan risiko berkenaan\n\ndengan—\n\n(a) suatu jentera bertekanan berasaskan risiko daripada skim\n\npemeriksaan berasaskan risiko yang sama atau mana-mana skim\n\npemeriksaan berasaskan risiko lain; atau\n\n(b) gabungan jentera bertekanan berasaskan risiko dan jentera\n\nbertekanan berasaskan masa.\n\n(2) Suatu permohonan di bawah subperaturan (1) hendaklah—\n\n(a) dibuat secara bertulis;\n\n(b) disertakan dengan fi pemprosesan sebanyak lima puluh ribu\n\nringgit;\n\n(c) dilampirkan dengan dokumen yang menunjukkan bahawa—\n\n(i) berkenaan dengan jentera bertekanan berasaskan risiko,\n\nkehendak yang dinyatakan dalam subperaturan (4) dan\n\nBahagian V telah dipenuhi;\n\n(ii) berkenaan dengan jentera bertekanan berasaskan masa,\n\nkehendak yang dinyatakan dalam subperaturan (3) dan (4)\n\ntelah dipenuhi; dan\n\n(d) dikemukakan sekurang-kurangnya enam bulan sebelum habis\n\ntempoh sedia ada skim pemeriksaan berasaskan risiko.\n\n(3) Seseorang pengguna skim hendaklah mengumpulkan—\n\n(a) berkenaan dengan jentera bertekanan berasaskan masa yang baru\n\ndipasang, data berasaskan risiko daripada pemeriksaan permulaan\n\ndan dua pemeriksaan ulangan;\n\n(b) berkenaan dengan jentera bertekanan berasaskan masa yang sedia\n\nada, data berasaskan risiko daripada tiga pemeriksaan ulangan\n\nyang terakhir; atau\n\n(c) berkenaan dengan jentera bertekanan berasaskan masa yang baru\n\ndipasang atau jentera bertekanan berasaskan masa yang sedia ada\n\nyang data berasaskan risiko tidak boleh dikumpulkan daripada\n\npemeriksaan permulaan atau pemeriksaan ulangan, data\n\nberasaskan risiko dalam tiap-tiap selang enam bulan bagi suatu\n\ntempoh yang tidak kurang daripada lapan belas bulan dengan\n\nmenggunakan apa-apa cara lain sebagaimana yang ditentukan oleh\n\nKetua Pemeriksa.\n\n(4) Seseorang pengguna skim hendaklah menentukan—\n\n(a) baki hayat;\n\n(b) kategori risiko;\n\n(c) selang pemeriksaan yang dicadangkan; dan\n\n(d) pelan pemeriksaan yang dicadangkan,\n\nbagi jentera bertekanan berasaskan risiko dan jentera bertekanan berasaskan masa\n\ndengan mengira dan menilai data berasaskan risiko yang dikumpulkan di bawah\n\nsubperaturan (3) dan data berasaskan risiko bagi dua belas bulan yang terakhir yang\n\ndikumpulkan di bawah perenggan 22(c).\n\nMaklumat atau dokumen tambahan\n\n36. (1) Ketua Pemeriksa boleh, melalui notis secara bertulis pada bila-bila masa\n\nselepas permohonan di bawah peraturan 35 diterima, menghendaki pengguna skim\n\nmemberikan apa-apa maklumat atau dokumen tambahan kepada Ketua Pemeriksa\n\ndalam tempoh yang dinyatakan dalam notis itu atau apa-apa tempoh lanjutan yang\n\ndiberikan oleh Ketua Pemeriksa.\n\n(2) Jika maklumat atau dokumen tambahan yang dikehendaki di bawah\n\nsubperaturan (1) tidak diberikan oleh pengguna skim dalam tempoh yang dinyatakan\n\ndalam notis atau apa-apa tempoh lanjutan yang diberikan oleh Ketua Pemeriksa,\n\npermohonan itu hendaklah disifatkan telah ditarik balik dan tidak lagi diteruskan, tetapi\n\ntanpa menyentuh hak pengguna skim untuk membuat permohonan yang baharu.\n\nAudit berasaskan risiko bagi tempoh baharu\n\n37. (1) Apabila permohonan di bawah peraturan 35 dan apa-apa maklumat atau\n\ndokumen tambahan di bawah peraturan 36 diterima, Pemeriksa hendaklah\n\nmenjalankan audit berasaskan risiko untuk menentusahkan bahawa kehendak yang\n\ndinyatakan dalam subperaturan 35(3) dan (4) dan Bahagian V telah dipenuhi.\n\n(2) Bagi maksud audit berasaskan risiko, pengguna skim hendaklah\n\nmenyediakan segala kemudahan dan maklumat kepada Pemeriksa sebagaimana yang\n\nsemunasabahnya dikehendaki daripadanya.\n\nPemeriksaan bagi tempoh baharu\n\n38. (1) Jika Pemeriksa berpuas hati bahawa kehendak yang dinyatakan dalam\n\nsubperaturan 35(3) dan (4) dan Bahagian V telah dipenuhi, suatu pemeriksaan\n\nberasaskan risiko hendaklah dijalankan ke atas jentera bertekanan berasaskan risiko\n\ndan jentera bertekanan berasaskan masa mengikut Bahagian IV.\n\n(2) Bagi maksud kelulusan suatu tempoh baharu bagi skim pemeriksaan\n\nberasaskan risiko di bawah Bahagian ini, Bahagian IV hendaklah terpakai mutatis\n\nmutandis bagi pengguna skim tertakluk kepada ubah suaian yang berikut:\n\n(a) sebutan mengenai \"jentera bertekanan berasaskan masa\"\n\nhendaklah termasuk jentera bertekanan berasaskan risiko; dan\n\n(b) sebutan mengenai \"pemohon\" hendaklah dikira sebagai sebutan\n\nmengenai pengguna skim.\n\n(3) Apabila pemeriksaan berasaskan risiko di bawah subperaturan (1)\n\ndisiapkan, Pemeriksa hendaklah—\n\n(a) melaporkan kepada Ketua Pemeriksa tentang dapatan\n\npemeriksaan berasaskan risiko itu dan audit berasaskan risiko\n\ndi bawah peraturan 37; dan\n\n(b) mengeluarkan suatu pemberitahuan kepada pengguna skim bagi\n\npembayaran—\n\n(i) berkenaan dengan jentera bertekanan berasaskan risiko\n\natau jentera bertekanan berasaskan masa yang telah\n\nmenjalani pemeriksaan berasaskan risiko, fi pemeriksaan\n\nsebagaimana yang dinyatakan dalam Jadual Kedua; atau\n\n(ii) berkenaan dengan jentera bertekanan berasaskan risiko\n\natau jentera bertekanan berasaskan masa yang Pemeriksa\n\ntelah enggan membuat atau menyiapkan pemeriksaan\n\nberasaskan risiko ke atasnya menurut peraturan 21, dua\n\npuluh lima peratus daripada fi pemeriksaan sebagaimana\n\nyang dinyatakan dalam Jadual Kedua.\n\n(4) Apabila pemberitahuan di bawah perenggan (3)(b) diterima, pengguna\n\nskim hendaklah membuat pembayaran fi pemeriksaan kepada Ketua Pemeriksa dalam\n\nmasa empat belas hari.\n\nPemberian kelulusan tempoh baharu\n\n39. (1) Tertakluk kepada subperaturan (2), Ketua Pemeriksa boleh, selepas\n\nmempertimbangkan dapatan di bawah perenggan 38(3)(a)—\n\n(a) memberikan kelulusan suatu tempoh baharu bagi skim\n\npemeriksaan berasaskan risiko dalam Borang A Jadual Pertama\n\nberkenaan dengan satu atau lebih jentera bertekanan berasaskan\n\nrisiko atau jentera bertekanan berasaskan masa yang dinyatakan\n\ndalam permohonan di bawah peraturan 35; dan\n\n(b) mengeluarkan perakuan kelayakan berasaskan risiko dalam\n\nBorang B Jadual Pertama bagi tiap-tiap jentera bertekanan\n\nberasaskan risiko atau jentera bertekanan berasaskan masa yang\n\nberkenaan dengannya kelulusan suatu tempoh baharu bagi skim\n\npemeriksaan berasaskan risiko telah diberikan di bawah\n\nperenggan (a).\n\n(2) Ketua Pemeriksa boleh, selepas mempertimbangkan dapatan di bawah\n\nperenggan 38(3)(a), enggan memberikan kelulusan suatu tempoh baharu bagi skim\n\npemeriksaan berasaskan risiko jika—\n\n(a) Ketua Pemeriksa tidak berpuas hati bahawa kehendak di bawah\n\nPeraturan-Peraturan ini atau undang-undang bertulis lain yang\n\nberhubungan dengan jentera bertekanan telah dipatuhi; atau\n\n(b) pembayaran fi pemeriksaan di bawah subperaturan 38(4) tidak\n\ndibuat.\n\n(3) Kelulusan yang diberikan di bawah perenggan (1)(a) dan perakuan\n\nkelayakan berasaskan risiko yang dikeluarkan di bawah perenggan (1)(b) hendaklah\n\nmula berkuat kuasa pada tarikh yang sama.\n\n(4) Ketua Pemeriksa hendaklah memberitahu secara bertulis kelulusan yang\n\ndiberikan di bawah perenggan (1)(a) atau keengganan memberikan kelulusan di bawah\n\nsubperaturan (2) kepada pengguna skim dengan seberapa segera yang dapat\n\ndilaksanakan.\n\nTempoh baharu skim pemeriksaan berasaskan risiko\n\n40. Tempoh baharu suatu skim pemeriksaan berasaskan risiko yang diberikan\n\ndi bawah perenggan 39(1)(a) hendaklah selama satu ratus lima puluh bulan melainkan\n\njika skim pemeriksaan berasaskan risiko itu dibatalkan, disifatkan telah dibatalkan atau\n\nditamatkan di bawah Bahagian VII.\n\nTempoh sah perakuan kelayakan berasaskan risiko\n\n41. Tempoh sah suatu perakuan kelayakan berasaskan risiko yang dikeluarkan\n\ndi bawah perenggan 39(1)(b)—\n\n(a) hendaklah ditentukan oleh Ketua Pemeriksa berdasarkan pengiraan dan\n\npenilaian data berasaskan risiko di bawah subperaturan 35(4); dan\n\n(b) tidak boleh melebihi tujuh puluh lima bulan.\n\nPematuhan Bahagian V\n\n42. Pengguna skim yang telah diberikan kelulusan tempoh baharu bagi skim\n\npemeriksaan berasaskan risiko di bawah peraturan 39 hendaklah mematuhi kehendak\n\ndi bawah Bahagian V.\n\nBAHAGIAN IX\n\nAM\n\nAudit berasaskan risiko semasa skim pemeriksaan berasaskan risiko\n\n43. (1) Walau apa pun peraturan 6, 25 dan 37, Pemeriksa boleh menjalankan\n\naudit berasaskan risiko pada bila-bila masa semasa tempoh skim pemeriksaan\n\nberasaskan risiko untuk menentusahkan bahawa kehendak yang dinyatakan dalam\n\nBahagian V telah dipenuhi.\n\n(2) Bagi maksud audit berasaskan risiko, pengguna skim hendaklah\n\nmenyediakan segala kemudahan dan maklumat kepada Pemeriksa sebagaimana yang\n\nsemunasabahnya dikehendaki daripadanya.\n\nPemeriksaan berasaskan risiko semasa skim pemeriksaan berasaskan risiko\n\n44. Walau apa pun peraturan 7, 26 dan 38, Pemeriksa boleh menjalankan\n\npemeriksaan berasaskan risiko pada bila-bila masa semasa tempoh skim pemeriksaan\n\nberasaskan risiko berkenaan dengan mana-mana jentera bertekanan berasaskan risiko\n\nsebagaimana yang difikirkannya perlu untuk memastikan integriti dan kekuatan jentera\n\nbertekanan berasaskan risiko itu.\n\nPembayaran fi\n\n45. Semua pembayaran yang dibuat di bawah Peraturan-Peraturan ini tidak boleh\n\ndibayar balik.\n\nJADUAL PERTAMA\n\nBORANG A\n\n[Peraturan 8 dan 39]\n\nAKTA KILANG DAN JENTERA 1967\n\nPERATURAN-PERATURAN KILANG DAN JENTERA (SKIM PEMERIKSAAN KHAS)\n\n(PEMERIKSAAN BERASASKAN RISIKO) 2014\n\nKELULUSAN SKIM PEMERIKSAAN BERASASKAN RISIKO\n\nNombor Kelulusan Skim:\n\nPADA menjalankan kuasa yang diberikan oleh subseksyen 40(6) Akta Kilang dan\n\nJentera 1967, saya dengan ini meluluskan skim pemeriksaan khas iaitu skim\n\npemeriksaan berasaskan risiko kepada pengguna skim yang berikut:\n\nNama pengguna skim\n\nAlamat pengguna skim\n\nTempat kendalian\n\njentera bertekanan\n\nberasaskan risiko\n\nSenarai jentera\n\nbertekanan berasaskan\n\nrisiko\n\nSebagaimana yang dilampirkan dalam\n\nLAMPIRAN\n\nSkim pemeriksaan berasaskan risiko ini hendaklah sah bagi tempoh satu ratus lima\n\npuluh bulan yang mula berkuat kuasa dari ____________ hingga ______________ melainkan\n\njika ia dibatalkan, disifatkan telah dibatalkan atau ditamatkan di bawah Bahagian VII\n\nPeraturan-Peraturan Kilang dan Jentera (Skim Pemeriksaan Khas)\n\n(Pemeriksaan Berasaskan Risiko) 2014.\n\nBertarikh: ____ ____\n\n(KETUA PEMERIKSA)\n\nLAMPIRAN\n\nKELULUSAN SKIM PEMERIKSAAN BERASASKAN RISIKO\n\nNombor Kelulusan Skim:\n\nSENARAI JENTERA BERTEKANAN BERASASKAN RISIKO\n\nBil. No. Pendaftaran Perihalan Jentera Bertekanan Berasaskan Risiko\n\nBORANG B\n\n[Peraturan 8, 27 dan 39]\n\nAKTA KILANG DAN JENTERA 1967\n\nPERATURAN-PERATURAN KILANG DAN JENTERA (SKIM PEMERIKSAAN KHAS)\n\n(PEMERIKSAAN BERASASKAN RISIKO) 2014\n\nPERAKUAN KELAYAKAN BERASASKAN RISIKO\n\nNombor Kelulusan Skim:\n\nPADA menjalankan kuasa yang diberikan oleh peraturan 8, 27 dan 39\n\nPeraturan-Peraturan Kilang dan Jentera (Skim Pemeriksaan Khas)\n\n(Pemeriksaan Berasaskan Risiko) 2014, saya dengan ini mengeluarkan perakuan\n\nkelayakan berasaskan risiko berkenaan dengan jentera bertekanan berasaskan risiko\n\nyang dinyatakan di bawah:\n\nButiran mengenai\n\njentera bertekanan\n\nberasaskan risiko\n\nPerihalan\n\nNo. Pendaftaran\n\nNama Pembuat\n\nNo. Pembuat\n\nPermukaan pemanas/\n\nIsian padu*\n\nTekanan yang padanya\n\ninjap keselamatan\n\nhendaklah\n\ndikendalikan\n\nTempat kendalian\n\nTarikh audit berasaskan risiko\n\nTarikh pemeriksaan berasaskan risiko\n\nSaya berpuas hati bahawa jentera bertekanan\n\nberasaskan risiko ini boleh beroperasi pada\n\nsuatu tekanan yang tidak melebihi\n\n*Potong yang tidak berkenaan\n\nPerakuan kelayakan berasaskan risiko ini hendaklah sah bagi tempoh ____ yang\n\nmula berkuat kuasa dari _____________ hingga __________________ melainkan jika ia\n\ndibatalkan, disifatkan telah dibatalkan atau ditamatkan di bawah Bahagian VII\n\nPeraturan-Peraturan Kilang dan Jentera (Skim Pemeriksaan Khas)\n\n(Pemeriksaan Berasaskan Risiko) 2014.\n\nBertarikh: ____ ____\n\n(KETUA PEMERIKSA)\n\nJADUAL KEDUA\n\n[Peraturan 7, 21, 26 dan 38]\n\nFI PEMERIKSAAN\n\nBAHAGIAN 1: DANDANG STIM\n\nFi bagi pemeriksaan berasaskan risiko sesuatu dandang stim mengikut permukaan\n\npemanas dandang stim itu adalah seperti yang berikut:\n\nNo. Permukaan pemanas Fi\n\n(RM)\n\nDi bawah 5 meter persegi\n\n5 meter persegi dan ke atas tetapi di bawah 10 meter persegi\n\n10 meter persegi dan ke atas tetapi di bawah 25 meter persegi\n\n25 meter persegi dan ke atas tetapi di bawah 50 meter persegi\n\n50 meter persegi dan ke atas tetapi di bawah 100 meter persegi\n\n100 meter persegi dan ke atas tetapi di bawah 250 meter persegi\n\n250 meter persegi dan ke atas\n\n1,350.00\n\n3,150.00\n\n4,050.00\n\n4,950.00\n\n6,075.00\n\n7,650.00\n\n9,225.00\n\nBAHAGIAN 2: BEJANA TEKANAN TIDAK BERAPI\n\nFi bagi pemeriksaan berasaskan risiko sesuatu bejana tekanan tidak berapi mengikut\n\nisian padu bejana tekanan tidak berapi itu adalah seperti yang berikut:\n\nNo. Isian padu Fi\n\n(RM)\n\nDi bawah 0.1 meter padu\n\n0.1 meter padu dan ke atas tetapi di bawah 0.5 meter padu\n\n0.5 meter padu dan ke atas tetapi di bawah 5 meter padu\n\n5 meter padu dan ke atas tetapi di bawah 10 meter padu\n\n10 meter padu dan ke atas tetapi di bawah 15 meter padu\n\n15 meter padu dan ke atas\n\n450.00\n\n900.00\n\n1,350.00\n\n1,575.00\n\n2,250.00\n\n2,700.00\n\nDibuat 25 Mac 2014\n\n[KSM/PUU/T/01/02/03/02; PN(PU2)235/XL]\n\nDATO' SRI RICHARD RIOT ANAK JAEM\n\nMenteri Sumber Manusia\n\nFACTORIES AND MACHINERY ACT 1967\n\nFACTORIES AND MACHINERY (SPECIAL SCHEME OF INSPECTION)\n\n(RISK-BASED INSPECTION) REGULATIONS 2014\n\nARRANGEMENT OF REGULATIONS\n\nPART I\n\nPRELIMINARY\n\nRegulation\n\n1. Citation and commencement\n\n2. Non-application of Factories and Machinery (Notification, Certificate of Fitness\n\nand Inspection) Regulations 1970\n\n3. Interpretation\n\nPART II\n\nAPPLICATION FOR RISK-BASED INSPECTION SCHEME\n\n4. Application for risk-based inspection scheme\n\n5. Additional information or document\n\n6. Risk-based audit\n\n7. Inspection for approval\n\n8. Grant of approval\n\n9. Duration of risk-based inspection scheme\n\n10. Validity period of risk-based certificate of fitness\n\nPART III\n\nREQUIREMENTS FOR APPLICATION FOR APPROVAL OF RISK-BASED INSPECTION\n\nSCHEME\n\n11. Application of Part III\n\n12. Establishment of occupational safety and health management system\n\nRegulation\n\n13. Pressurized machinery in satisfactory working condition, etc.\n\n14. Risk-based data\n\n15. Calculation and evaluation of risk-based data\n\n16. Methodology for calculation and evaluation of risk-based data\n\n17. Risk-based inspection team\n\nPART IV\n\nRISK-BASED INSPECTION\n\n18. Date of risk-based inspection\n\n19. Compliance of law\n\n20. Preparation for risk-based inspection\n\n21. Pressurized machinery not prepared for inspection\n\nPART V\n\nREQUIREMENTS FOR SCHEME USER\n\n22. Requirements for scheme user\n\nPART VI\n\nRENEWAL OF RISK-BASED CERTIFICATE OF FITNESS\n\n23. Application for renewal of risk-based certificate of fitness\n\n24. Additional information or document\n\n25. Risk-based audit for renewal of risk-based certificate of fitness\n\n26. Inspection for renewal of risk-based certificate of fitness\n\n27. Renewal of risk-based certificate of fitness\n\n28. Validity period of risk-based certificate of fitness upon renewal\n\nPART VII\n\nREVOCATION, WITHDRAWAL AND TERMINATION\n\nRegulation\n\n29. Revocation of risk-based inspection scheme\n\n30. Withdrawal of risk-based pressurized machinery\n\n31. Revocation of risk-based certificate of fitness\n\n32. Effect of revocation and withdrawal\n\n33. Termination upon sale, hire or transfer of risk-based pressurized machinery\n\n34. Surrender of approval and certificate of fitness\n\nPART VIII\n\nAPPLICATION FOR NEW DURATION OF RISK-BASED INSPECTION SCHEME\n\n35. Application for new duration\n\n36. Additional information or document\n\n37. Risk-based audit for new duration\n\n38. Inspection for new duration\n\n39. Grant of approval of new duration\n\n40. New duration of risk-based inspection scheme\n\n41. Validity period of risk-based certificate of fitness\n\n42. Compliance with Part V\n\nPART IX\n\nGENERAL\n\n43. Risk-based audit during risk-based inspection scheme\n\n44. Risk-based inspection during risk-based inspection scheme\n\n45. Payment of fee\n\nFIRST SCHEDULE\n\nSECOND SCHEDULE\n\nFACTORIES AND MACHINERY ACT 1967\n\nFACTORIES AND MACHINERY (SPECIAL SCHEME OF INSPECTION)\n\n(RISK-BASED INSPECTION) REGULATIONS 2014\n\nIN exercise of the powers conferred by subsection 56(1) of the Factories and Machinery\n\nAct 1967 [Act 139], the Minister makes the following regulations:\n\nPART I\n\nPRELIMINARY\n\nCitation and commencement\n\n1. (1) These regulations may be cited as the Factories and Machinery\n\n(Special Scheme of Inspection) (Risk-Based Inspection) Regulations 2014.\n\n(2) These Regulations come into operation on 1 June 2014.\n\nNon-application of Factories and Machinery (Notification, Certificate of Fitness\n\nand Inspection) Regulations 1970\n\n2. The Factories and Machinery (Notification, Certificate of Fitness and Inspection)\n\nRegulations 1970 [P.U. (A) 43/1970] shall not apply to a risk-based pressurized\n\nmachinery except subregulations 3(3) and 6(1), and regulations 5, 8 and 9.\n\nInterpretation\n\n3. In these Regulations, unless the context otherwise requires—\n\n\"risk-based audit\" includes an external inspection and a validation of risk-based\n\ndata;\n\n\"remnant life\" means the remaining age of a life-span of a pressurized\n\nmachinery;\n\n\"risk-based data\" means a record containing data of the design and operating\n\ndetails of a pressurized machinery which includes the operating conditions, process\n\nfluid composition, process fluid properties, materials of construction, design\n\nspecification and the history of the pressurized machinery;\n\n\"pressurized machinery\" means a steam boiler and an unfired pressure vessel\n\nused for processing or storage purposes;\n\n\"time-based pressurized machinery\" means a pressurized machinery which\n\nholds a time-based certificate of fitness;\n\n\"newly installed time-based pressurized machinery\" means a time-based\n\npressurized machinery on which an initial inspection and two regular inspections have\n\nbeen conducted;\n\n\"existing time-based pressurized machinery\" means a time-based pressurized\n\nmachinery on which an initial inspection and at least three regular inspections have\n\nbeen conducted;\n\n\"risk-based pressurized machinery\" means a pressurized machinery which holds\n\na risk-based certificate of fitness;\n\n\"risk-based inspection\" means an inspection on the interior and exterior parts of\n\na pressurized machinery the interval of which is determined based on the category of\n\nrisk associated with the pressurized machinery;\n\n\"external inspection\" means an inspection on the exterior parts of a pressurized\n\nmachinery which includes testing of safety fittings installed on the pressurized\n\nmachinery;\n\n\"initial inspection\" has the meaning assigned to it in the Factories and Machinery\n\n(Notification, Certificate of Fitness and Inspection) Regulations 1970;\n\n\"regular inspection\" has the meaning assigned to it in the Factories and\n\nMachinery (Notification, Certificate of Fitness and Inspection) Regulations 1970;\n\n\"applicant\" means an owner or occupier who makes an application for approval\n\nof a risk-based inspection scheme under regulation 4;\n\n\"scheme user\" means an applicant who has been granted an approval of a\n\nrisk-based inspection scheme under paragraph 8(1)(a) or 39(1)(a);\n\n\"time-based certificate of fitness\" means a certificate of fitness issued under\n\nregulation 25 of the Factories and Machinery (Notification, Certificate of Fitness and\n\nInspection) Regulations 1970;\n\n\"risk-based certificate of fitness\" means a certificate of fitness issued under\n\nparagraph 8(1)(b) or 39(1)(b) or renewed under subregulation 27(1);\n\n\"risk-based inspection scheme\" means a special scheme of inspection which is\n\nbased on a risk-based inspection.\n\nPART II\n\nAPPLICATION FOR RISK-BASED INSPECTION SCHEME\n\nApplication for risk-based inspection scheme\n\n4. (1) An applicant may apply to the Chief Inspector for approval of a risk-based\n\ninspection scheme in respect of one or more time-based pressurized machinery.\n\n(2) An application under subregulation (1) shall be—\n\n(a) made in writing;\n\n(b) accompanied by a processing fee of fifty thousand ringgit;\n\n(c) attached with the documents indicating that the requirements\n\nspecified in Part III have been fulfilled; and\n\n(d) submitted at least six months before the expiry of the time-based\n\ncertificate of fitness.\n\nAdditional information or document\n\n5. (1) The Chief Inspector may, by notice in writing at any time after the receipt\n\nof an application under regulation 4, require the applicant to provide any additional\n\ninformation or document to the Chief Inspector within the period specified in the notice\n\nor any extended period granted by the Chief Inspector.\n\n(2) If the additional information or document required under\n\nsubregulation (1) is not provided by the applicant within the period specified in the\n\nnotice or any extended period granted by the Chief Inspector, the application shall be\n\ndeemed to have been withdrawn and shall not be further proceeded with, but without\n\naffecting the right of the applicant to make a fresh application.\n\nRisk-based audit\n\n6. (1) Upon receipt of the application under regulation 4 and any additional\n\ninformation or document under regulation 5, an Inspector shall conduct a risk-based\n\naudit to verify that the requirements specified in Part III have been fulfilled.\n\n(2) For the purpose of the risk-based audit, the applicant shall provide all\n\nfacilities and information to the Inspector as may reasonably be required of him.\n\nInspection for approval\n\n7. (1) Upon completion of the risk-based audit under regulation 6 and the\n\nInspector being satisfied that the requirements specified in Part III have been fulfilled, a\n\nrisk-based inspection shall be conducted on the time-based pressurized machinery\n\naccording to Part IV.\n\n(2) Upon completion of the risk-based inspection under subregulation (1),\n\nthe Inspector shall—\n\n(a) report to the Chief Inspector on the findings of the risk-based\n\ninspection and the risk-based audit under regulation 6; and\n\n(b) issue a notification to the applicant for the payment of—\n\n(i) in respect of a time-based pressurized machinery on which\n\nthe risk-based inspection has been conducted, the\n\ninspection fee as specified in the Second Schedule; or\n\n(ii) in respect of a time-based pressurized machinery on which\n\nthe Inspector has refused to make or complete the\n\nrisk-based inspection in pursuance of regulation 21,\n\ntwenty-five percent of the inspection fee as specified in the\n\nSecond Schedule.\n\n(3) Upon receipt of the notification under paragraph (2)(b), the applicant\n\nshall make the payment of the inspection fee to the Chief Inspector within fourteen\n\ndays.\n\nGrant of approval\n\n8. (1) Subject to subregulation (2), the Chief Inspector may, after considering\n\nthe findings under paragraph 7(2)(a)—\n\n(a) grant an approval of a risk-based inspection scheme in Form A of\n\nthe First Schedule in respect of one or more time-based\n\npressurized machinery stated in the application under\n\nregulation 4; and\n\n(b) issue a risk-based certificate of fitness in Form B of the First\n\nSchedule for every time-based pressurized machinery in respect\n\nof which the approval of a risk-based inspection scheme has been\n\ngranted under paragraph (a).\n\n(2) The Chief Inspector may, after considering the findings under\n\nparagraph 7(2)(a), refuse to grant an approval of a risk-based inspection scheme if—\n\n(a) the Chief Inspector is not satisfied that the requirements under\n\nthese Regulations or other written laws relating to a pressurized\n\nmachinery have been complied with; or\n\n(b) the payment of the inspection fee under subregulation 7(3) has\n\nnot been made.\n\n(3) The approval granted under paragraph (1)(a) and the risk-based\n\ncertificate of fitness issued under paragraph (1)(b) shall come into effect on the same\n\ndate.\n\n(4) The Chief Inspector shall notify in writing the approval granted under\n\nparagraph (1)(a) or refusal to grant an approval under subregulation (2) to the\n\napplicant as soon as practicable.\n\nDuration of risk-based inspection scheme\n\n9. The duration of a risk-based inspection scheme granted under paragraph 8(1)(a)\n\nshall be for one hundred and fifty months unless the risk-based inspection scheme is\n\nrevoked, deemed to have been revoked or terminated under Part VII.\n\nValidity period of risk-based certificate of fitness\n\n10. The validity period of a risk-based certificate of fitness issued under\n\nparagraph 8(1)(b)—\n\n(a) shall be determined by the Chief Inspector based on the calculation and\n\nevaluation of risk-based data under regulation 15; and\n\n(b) shall not exceed seventy-five months.\n\nPART III\n\nREQUIREMENTS FOR APPLICATION FOR APPROVAL OF RISK-BASED INSPECTION\n\nSCHEME\n\nApplication of Part III\n\n11. This Part shall apply for the purpose of an application for approval of a\n\nrisk-based inspection scheme under regulation 4.\n\nEstablishment of occupational safety and health management system\n\n12. An applicant shall establish an occupational safety and health management\n\nsystem in compliance with MS 1722 Occupational safety and health (OSH) management\n\nsystems - Requirements (First revision) as declared under the Declaration of Standard\n\nSpecifications (Revised Specification) [P.U. (B) 411/2012] or any other equivalent\n\noccupational safety and health management system as determined by the Chief\n\nInspector.\n\nPressurized machinery in satisfactory working condition, etc.\n\n13. An applicant shall ensure that the time-based pressurized machinery is in a\n\nsatisfactory working condition or is fit for service.\n\nRisk-based data\n\n14. An applicant shall collect—\n\n(a) in respect of a newly installed time-based pressurized machinery,\n\nrisk-based data from the initial inspection and two regular inspections;\n\n(b) in respect of an existing time-based pressurized machinery, risk-based\n\ndata from the last three regular inspections; or\n\n(c) in respect of a newly installed time-based pressurized machinery or an\n\nexisting time-based pressurized machinery which the risk-based data\n\ncannot be collected from the initial inspection or regular inspection,\n\nrisk-based data in every six months interval for a period of not less than\n\neighteen months using any other method as determined by the Chief\n\nInspector.\n\nCalculation and evaluation of risk-based data\n\n15. An applicant shall determine—\n\n(a) the remnant life;\n\n(b) the category of risk;\n\n(c) the proposed inspection interval; and\n\n(d) the proposed inspection plan,\n\nof a time-based pressurized machinery by calculating and evaluating the risk-based data\n\ncollected under regulation 14.\n\nMethodology for calculation and evaluation of risk-based data\n\n16. For the purpose of calculating and evaluating the risk-based data under\n\nregulation 15, an applicant shall apply a methodology as agreed by the Chief Inspector.\n\nRisk-based inspection team\n\n17. (1) An applicant shall establish a risk-based inspection team which shall\n\nconsist of at least five members as follows:\n\n(a) a team leader, who shall be a qualified person;\n\n(b) an engineer with corrosion engineering knowledge and expertise;\n\n(c) a representative from the process department or production\n\ndepartment;\n\n(d) a representative from the inspection department or engineering\n\ndepartment; and\n\n(e) a safety and health officer registered under the Occupational\n\nSafety and Health (Safety and Health Officer) Regulations 1997\n\n[P.U. (A) 315/1997] or if a place of work does not require a\n\nregistered safety and health officer, a person in charge of\n\noccupational safety and health.\n\n(2) In this regulation, \"qualified person\" means a person who has an\n\nengineering degree and who, in the opinion of the applicant, has adequate knowledge\n\nand experience to execute all tasks relating to the risk-based inspection scheme.\n\nPART IV\n\nRISK-BASED INSPECTION\n\nDate of risk-based inspection\n\n18. For the purpose of a risk-based inspection, the applicant and the Inspector shall\n\nagree on a date for the risk-based inspection to be conducted.\n\nCompliance of law\n\n19. For the purpose of a risk-based inspection, the applicant shall ensure that the\n\ntime-based pressurized machinery complies with the requirements under these\n\nRegulations and other written laws relating to a pressurized machinery.\n\nPreparation for risk-based inspection\n\n20. (1) On the date agreed by the applicant and the Inspector under\n\nregulation 18, the applicant shall prepare every time-based pressurized machinery for\n\nthe risk-based inspection as follows:\n\n(a) the time-based pressurized machinery is emptied, cooled and\n\ndried, and is thoroughly cleaned inside and outside;\n\n(b) all manhole, hand hole and sight hole doors and cleaning plugs are\n\nremoved;\n\n(c) all cocks and valves are dismantled, cleaned and ground, if\n\nnecessary;\n\n(d) the time-based pressurized machinery is disconnected from any\n\nother time-based pressurized machinery, and source of steam or\n\nhot water;\n\n(e) the time-based pressurized machinery is free from hazardous\n\nfumes and vapour; and\n\n(f) in respect of a steam boiler—\n\n(i) all fire-bars and firebridges are removed;\n\n(ii) all smoke tubes, exterior of water tubes, furnaces,\n\nsmoke-boxes and external flues are thoroughly cleaned;\n\nand\n\n(iii) all caps in the headers and mud-drums of water tube steam\n\nboilers are removed.\n\n(2) During the risk-based inspection, the Inspector may give direction to the\n\napplicant to take any other necessary action, including the removal of any lagging,\n\nbrickwork or masonry, the preparations for carrying out a hydrostatic test or a\n\nnon-destructive test, and the repair of the time-based pressurized machinery.\n\nPressurized machinery not prepared for inspection\n\n21. (1) If a time-based pressurized machinery is not prepared for the risk-based\n\ninspection as specified in regulation 20, the Inspector may refuse to make or complete\n\nthe risk-based inspection.\n\n(2) If the Inspector refuses to make or complete the risk-based inspection\n\nunder subregulation (1)—\n\n(a) the Inspector shall inform the applicant of his reason for the\n\nrefusal and the Inspector shall appoint any other date for the\n\nrisk-based inspection; and\n\n(b) the applicant shall be charged at the rate of twenty-five percent of\n\nthe inspection fee as specified in the Second Schedule.\n\nPART V\n\nREQUIREMENTS FOR SCHEME USER\n\nRequirements for scheme user\n\n22. A scheme user shall, for any duration of a risk-based inspection scheme—\n\n(a) maintain the occupational safety and health management system\n\nestablished under regulation 12;\n\n(b) ensure that the risk-based pressurized machinery is in a satisfactory\n\nworking condition or is fit for service;\n\n(c) collect risk-based data in respect of the risk-based pressurized machinery\n\nfor every twelve months;\n\n(d) maintain and apply the methodology for calculation and evaluation of\n\nrisk-based data under regulation 16; and\n\n(e) maintain the risk-based inspection team established under regulation 17\n\nand notify the Chief Inspector in writing of any changes to the team leader\n\nwithin fourteen days of such changes.\n\nPART VI\n\nRENEWAL OF RISK-BASED CERTIFICATE OF FITNESS\n\nApplication for renewal of risk-based certificate of fitness\n\n23. (1) A scheme user may apply to the Chief Inspector for a renewal of a\n\nrisk-based certificate of fitness.\n\n(2) An application under subregulation (1) shall be—\n\n(a) made in writing;\n\n(b) attached with the documents indicating that the requirements\n\nspecified in subregulation (3) and Part V have been fulfilled; and\n\n(c) submitted at least three months before the expiry of the risk-based\n\ncertificate of fitness.\n\n(3) A scheme user shall determine—\n\n(a) the remnant life;\n\n(b) the category of risk;\n\n(c) the proposed inspection interval; and\n\n(d) the proposed inspection plan,\n\nof the risk-based pressurized machinery by calculating and evaluating the last twelve\n\nmonths of risk-based data collected under paragraph 22(c).\n\nAdditional information or document\n\n24. (1) The Chief Inspector may, by notice in writing at any time after the receipt\n\nof an application under regulation 23, require the scheme user to provide any additional\n\ninformation or document to the Chief Inspector within the period specified in the notice\n\nor any extended period granted by the Chief Inspector.\n\n(2) If the additional information or document required under\n\nsubregulation (1) is not provided by the scheme user within the period specified in the\n\nnotice or any extended period granted by the Chief Inspector, the application shall be\n\ndeemed to have been withdrawn and shall not be further proceeded with, but without\n\naffecting the right of the scheme user to make a fresh application.\n\nRisk-based audit for renewal of risk-based certificate of fitness\n\n25. (1) Upon receipt of the application under regulation 23 and any additional\n\ninformation or document under regulation 24, an Inspector shall conduct a risk-based\n\naudit to verify that the requirements specified in subregulation 23(3) and Part V have\n\nbeen fulfilled.\n\n(2) For the purpose of the risk-based audit, the scheme user shall provide all\n\nfacilities and information to the Inspector as may reasonably be required of him.\n\nInspection for renewal of risk-based certificate of fitness\n\n26. (1) If the Inspector is satisfied that the requirements specified in\n\nsubregulation 23(3) and Part V have been fulfilled, a risk-based inspection shall be\n\nconducted on the risk-based pressurized machinery according to Part IV.\n\n(2) For the purpose of renewal of a risk-based certificate of fitness under this\n\nPart, Part IV shall apply mutatis mutandis to the scheme user subject to the following\n\nmodifications:\n\n(a) references to a \"time-based pressurized machinery\" shall be taken\n\nas references to a risk-based pressurized machinery; and\n\n(b) references to an \"applicant\" shall be taken as references to a\n\nscheme user.\n\n(3) Upon completion of the risk-based inspection under subregulation (1),\n\nthe Inspector shall—\n\n(a) report to the Chief Inspector on the findings of the risk-based\n\ninspection and the risk-based audit under regulation 25; and\n\n(b) issue a notification to the scheme user for the payment of—\n\n(i) in respect of a risk-based pressurized machinery on which\n\nthe risk-based inspection has been conducted, the\n\ninspection fee as specified in the Second Schedule; or\n\n(ii) in respect of a risk-based pressurized machinery on which\n\nthe Inspector has refused to make or complete the riskbased inspection in pursuance of regulation 21, twenty-five\n\npercent of the inspection fee as specified in the Second\n\nSchedule.\n\n(4) Upon receipt of the notification under paragraph (3)(b), the scheme user\n\nshall make the payment of the inspection fee to the Chief Inspector within fourteen\n\ndays.\n\nRenewal of risk-based certificate of fitness\n\n27. (1) Subject to subregulation (2), the Chief Inspector may, after considering\n\nthe findings under paragraph 26(3)(a), renew the risk-based certificate of fitness in\n\nForm B of the First Schedule.\n\n(2) The Chief Inspector may, after considering the findings under\n\nparagraph 26(3)(a), refuse to renew the risk-based certificate of fitness if—\n\n(a) the Chief Inspector is not satisfied that the requirements under\n\nthese Regulations or other written laws relating to a pressurized\n\nmachinery have been complied with; or\n\n(b) the payment of the inspection fee under subregulation 26(4) has\n\nnot been made.\n\n(3) The Chief inspector shall notify in writing the renewal of the risk-based\n\ncertificate of fitness under subregulation (1) or refusal to renew the risk-based\n\ncertificate of fitness under subregulation (2) to the scheme user as soon as practicable.\n\nValidity period of risk-based certificate of fitness upon renewal\n\n28. The validity period of a risk-based certificate of fitness renewed under\n\nsubregulation 27(1)—\n\n(a) shall be determined by the Chief Inspector based on the calculation and\n\nevaluation of risk-based data under subregulation 23(3); and\n\n(b) shall not exceed seventy-five months or the remaining duration of a\n\nrisk-based inspection scheme, whichever is the shorter.\n\nPART VII\n\nREVOCATION, WITHDRAWAL AND TERMINATION\n\nRevocation of risk-based inspection scheme\n\n29. (1) The Chief Inspector may revoke a risk-based inspection scheme if—\n\n(a) the scheme user fails to comply with any of the requirements\n\nspecified in Part V; or\n\n(b) the scheme user provides any document or information required\n\nunder any of the provisions of these Regulations which is false,\n\nmisleading or contains material errors or omissions.\n\n(2) Before the Chief Inspector revokes a risk-based inspection scheme under\n\nsubregulation (1), the Chief Inspector shall give the scheme user—\n\n(a) a written notice of his intention to revoke the risk-based\n\ninspection scheme; and\n\n(b) an opportunity to remedy the breach or contravention in\n\nparagraph (1)(a) or (b), and to make written submission, within a\n\nperiod specified in the written notice which shall not be less than\n\nfourteen days.\n\n(3) The Chief Inspector shall, after considering the remedy or written\n\nsubmission under paragraph (2)(b), if any, decide whether or not to revoke the\n\nrisk-based inspection scheme.\n\n(4) The decision of the Chief Inspector under subregulation (3) shall be\n\nnotified in writing to the scheme user as soon as practicable.\n\nWithdrawal of risk-based pressurized machinery\n\n30. (1) Subject to subregulation (2), a scheme user may, for any reason, withdraw\n\nany or all of the risk-based pressurized machinery from a risk-based inspection scheme.\n\n(2) A scheme user shall give a written notice of his intention to withdraw a\n\nrisk-based pressurized machinery to the Chief Inspector at least fourteen days before\n\nthe withdrawal.\n\nRevocation of risk-based certificate of fitness\n\n31. (1) The Chief Inspector may revoke any risk-based certificate of fitness if he\n\nhas reasonable grounds to believe that the integrity and strength of the risk-based\n\npressurized machinery have been adversely reduced which cause or is likely to cause\n\nthe failure of the risk-based pressurized machinery.\n\n(2) Before the Chief Inspector revokes a risk-based certificate of fitness under\n\nsubregulation (1), the Chief Inspector shall give the scheme user—\n\n(a) a written notice of his intention to revoke the risk-based certificate\n\nof fitness; and\n\n(b) an opportunity to remedy the condition of the risk-based\n\npressurized machinery, and to make written submission, within a\n\nperiod specified in the written notice which shall not be less than\n\nfourteen days.\n\n(3) The Chief Inspector shall, after considering the remedy or written\n\nsubmission under paragraph (2)(b), if any, decide whether or not to revoke the\n\nrisk-based certificate of fitness.\n\n(4) The decision of the Chief Inspector under subregulation (3) shall be\n\nnotified in writing to the scheme user as soon as practicable.\n\nEffect of revocation and withdrawal\n\n32. (1) If a risk-based inspection scheme is revoked under regulation 29, every\n\nrisk-based certificate of fitness in respect of the risk-based inspection scheme shall be\n\ndeemed to have been revoked.\n\n(2) If any risk-based pressurized machinery is withdrawn from a risk-based\n\ninspection scheme under regulation 30, the risk-based certificate of fitness in respect of\n\nthe risk-based pressurized machinery shall be deemed to have been revoked.\n\n(3) If all risk-based certificates of fitness in respect of a risk-based inspection\n\nscheme are revoked under regulation 31 or deemed to have been revoked under\n\nsubregulation (2), the risk-based inspection scheme shall be deemed to have been\n\nrevoked.\n\nTermination upon sale, hire or transfer of risk-based pressurized machinery\n\n33. (1) If any risk-based pressurized machinery in respect of a risk-based\n\ninspection scheme is sold, hired out or transferred permanently or temporarily to any\n\nperson—\n\n(a) the risk-based certificate of fitness in respect of the risk-based\n\npressurized machinery shall terminate; and\n\n(b) the risk-based inspection scheme, and the risk-based certificate of\n\nfitness in respect of any risk-based pressurized machinery which is\n\nnot sold, hired out or transferred, shall remain valid.\n\n(2) If all risk-based pressurized machinery in respect of a risk-based\n\ninspection scheme are sold, hired out or transferred permanently or temporarily to any\n\nperson, the risk-based inspection scheme and every risk-based certificate of fitness in\n\nrespect of the risk-based pressurized machinery shall terminate.\n\nSurrender of approval and certificate of fitness\n\n34. (1) If a risk-based inspection scheme is revoked, deemed to have been\n\nrevoked or terminated under this Part, the scheme user shall surrender the approval of\n\nthe risk-based inspection scheme and every risk-based certificate of fitness in respect of\n\nthe risk-based inspection scheme to the Chief Inspector within fourteen days from the\n\ndate of such revocation or termination.\n\n(2) If a risk-based certificate of fitness is revoked, deemed to have been\n\nrevoked or terminated under this Part, the scheme user shall surrender the risk-based\n\ncertificate of fitness to the Chief Inspector within fourteen days from the date of such\n\nrevocation or termination.\n\nPART VIII\n\nAPPLICATION FOR NEW DURATION OF RISK-BASED INSPECTION SCHEME\n\nApplication for new duration\n\n35. (1) After the existing duration of a risk-based inspection scheme expires, a\n\nscheme user may apply to the Chief Inspector for approval of a new duration for a\n\nrisk-based inspection scheme in respect of—\n\n(a) a risk-based pressurized machinery from the same risk-based\n\ninspection scheme or any other risk-based inspection scheme; or\n\n(b) a combination of a risk-based pressurized machinery and a\n\ntime-based pressurized machinery.\n\n(2) An application under subregulation (1) shall be—\n\n(a) made in writing;\n\n(b) accompanied by a processing fee of fifty thousand ringgit;\n\n(c) attached with the documents indicating that—\n\n(i) in respect of a risk-based pressurized machinery, the\n\nrequirements specified in subregulation (4) and Part V have\n\nbeen fulfilled;\n\n(ii) in respect of a time-based pressurized machinery, the\n\nrequirements specified in subregulations (3) and (4) have\n\nbeen fulfilled; and\n\n(d) submitted at least six months before the expiry of the existing\n\nduration of the risk-based inspection scheme.\n\n(3) A scheme user shall collect—\n\n(a) in respect of a newly installed time-based pressurized machinery,\n\nrisk-based data from the initial inspection and two regular\n\ninspections;\n\n(b) in respect of an existing time-based pressurized machinery,\n\nrisk-based data from the last three regular inspections; or\n\n(c) in respect of a newly installed time-based pressurized machinery\n\nor an existing time-based pressurized machinery which the\n\nrisk-based data cannot be collected from the initial inspection or\n\nregular inspection, risk-based data in every six months interval for\n\na period of not less than eighteen months using any other method\n\nas determined by the Chief Inspector.\n\n(4) A scheme user shall determine—\n\n(a) the remnant life;\n\n(b) the category of risk;\n\n(c) the proposed inspection interval; and\n\n(d) the proposed inspection plan,\n\nof the risk-based pressurized machinery and time-based pressurized machinery by\n\ncalculating and evaluating the risk-based data collected under subregulation (3) and the\n\nlast twelve months of risk-based data collected under paragraph 22(c).\n\nAdditional information or document\n\n36. (1) The Chief Inspector may, by notice in writing at any time after the receipt\n\nof an application under regulation 35, require the scheme user to provide any additional\n\ninformation or document to the Chief Inspector within the period specified in the notice\n\nor any extended period granted by the Chief Inspector.\n\n(2) If the additional information or document required under\n\nsubregulation (1) is not provided by the scheme user within the period specified in the\n\nnotice or any extended period granted by the Chief Inspector, the application shall be\n\ndeemed to have been withdrawn and shall not be further proceeded with, but without\n\naffecting the right of the scheme user to make a fresh application.\n\nRisk-based audit for new duration\n\n37. (1) Upon receipt of the application under regulation 35 and any additional\n\ninformation or document under regulation 36, an Inspector shall conduct a risk-based\n\naudit to verify that the requirements specified in subregulations 35(3) and (4) and\n\nPart V have been fulfilled.\n\n(2) For the purpose of the risk-based audit, the scheme user shall provide all\n\nfacilities and information to the Inspector as may reasonably be required of him.\n\nInspection for new duration\n\n38. (1) If the Inspector is satisfied that the requirements specified in\n\nsubregulations 35(3) and (4) and Part V have been fulfilled, a risk-based inspection\n\nshall be conducted on the risk-based pressurized machinery and time-based\n\npressurized machinery according to Part IV.\n\n(2) For the purpose of approval of a new duration of a risk-based inspection\n\nscheme under this Part, Part IV shall apply mutatis mutandis to the scheme user subject\n\nto the following modifications:\n\n(a) references to a \"time-based pressurized machinery\" shall include a\n\nrisk-based pressurized machinery; and\n\n(b) references to an \"applicant\" shall be taken as references to a\n\nscheme user.\n\n(3) Upon completion of the risk-based inspection under subregulation (1),\n\nthe Inspector shall—\n\n(a) report to the Chief Inspector on the findings of the risk-based\n\ninspection and the risk-based audit under regulation 37; and\n\n(b) issue a notification to the scheme user for the payment of—\n\n(i) in respect of a risk-based pressurized machinery or a\n\ntime-based pressurized machinery on which the risk-based\n\ninspection has been conducted, the inspection fee as specified\n\nin the Second Schedule; or\n\n(ii) in respect of a risk-based pressurized machinery or a\n\ntime-based pressurized machinery on which the Inspector\n\nhas refused to make or complete the risk-based inspection in\n\npursuance of regulation 21, twenty-five percent of the\n\ninspection fee as specified in the Second Schedule.\n\n(4) Upon receipt of the notification under paragraph (3)(b), the scheme user\n\nshall make the payment of the inspection fee to the Chief Inspector within fourteen\n\ndays.\n\nGrant of approval of new duration\n\n39. (1) Subject to subregulation (2), the Chief Inspector may, after considering\n\nthe findings under paragraph 38(3)(a)—\n\n(a) grant an approval of a new duration of a risk-based inspection\n\nscheme in Form A of the First Schedule in respect of one or more\n\nrisk-based pressurized machinery or time-based pressurized\n\nmachinery stated in the application under regulation 35; and\n\n(b) issue a risk-based certificate of fitness in Form B of the First\n\nSchedule for every risk-based pressurized machinery or\n\ntime-based pressurized machinery in respect of which the\n\napproval of a new duration of a risk-based inspection scheme has\n\nbeen granted under paragraph (a).\n\n(2) The Chief Inspector may, after considering the findings under\n\nparagraph 38(3)(a), refuse to grant an approval of a new duration of a risk-based\n\ninspection scheme if—\n\n(a) the Chief Inspector is not satisfied that the requirements under\n\nthese Regulations or other written laws relating to a pressurized\n\nmachinery have been complied with; or\n\n(b) the payment of the inspection fee under subregulation 38(4) has\n\nnot been made.\n\n(3) The approval granted under paragraph (1)(a) and the risk-based\n\ncertificate of fitness issued under paragraph (1)(b) shall come into effect on the same\n\ndate.\n\n(4) The Chief Inspector shall notify in writing the approval granted under\n\nparagraph (1)(a) or refusal to grant an approval under subregulation (2) to the scheme\n\nuser as soon as practicable.\n\nNew duration of risk-based inspection scheme\n\n40. The new duration of a risk-based inspection scheme granted under\n\nparagraph 39(1)(a) shall be for one hundred and fifty months unless the risk-based\n\ninspection scheme is revoked, deemed to have been revoked or terminated under\n\nPart VII.\n\nValidity period of risk-based certificate of fitness\n\n41. The validity period of a risk-based certificate of fitness issued under\n\nparagraph 39(1)(b)—\n\n(a) shall be determined by the Chief Inspector based on the calculation and\n\nevaluation of risk-based data under subregulation 35(4); and\n\n(b) shall not exceed seventy-five months.\n\nCompliance with Part V\n\n42. A scheme user who has been granted an approval of a new duration of a\n\nrisk-based inspection scheme under regulation 39 shall comply with the requirements\n\nunder Part V.\n\nPART IX\n\nGENERAL\n\nRisk-based audit during risk-based inspection scheme\n\n43. (1) Notwithstanding regulations 6, 25 and 37, an Inspector may conduct a\n\nrisk-based audit at any time during the duration of a risk-based inspection scheme to\n\nverify that the requirements specified in Part V have been fulfilled.\n\n(2) For the purpose of the risk-based audit, the scheme user shall provide all\n\nfacilities and information to the Inspector as may reasonably be required of him.\n\nRisk-based inspection during risk-based inspection scheme\n\n44. Notwithstanding regulations 7, 26 and 38, an Inspector may conduct a risk-based\n\ninspection at any time during the duration of a risk-based inspection scheme in respect\n\nof any risk-based pressurized machinery as he may deem necessary to ensure the\n\nintegrity and strength of the risk-based pressurized machinery.\n\nPayment of fee\n\n45. All payments made under these Regulations shall not be refundable.\n\nFIRST SCHEDULE\n\nFORM A\n\n[Regulations 8 and 39]\n\nFACTORIES AND MACHINERY ACT 1967\n\nFACTORIES AND MACHINERY (SPECIAL SCHEME OF INSPECTION)\n\n(RISK-BASED INSPECTION) REGULATIONS 2014\n\nAPPROVAL OF RISK-BASED INSPECTION SCHEME\n\nScheme Approval Number:\n\nIN exercise of the powers conferred by subsection 40(6) of the Factories and Machinery\n\nAct 1967, I hereby approve a special scheme of inspection namely, the risk-based\n\ninspection scheme to the following scheme user:\n\nName of scheme user\n\nAddress of scheme user\n\nPlace of operation of\n\nrisk-based pressurized\n\nmachinery\n\nList of risk-based\n\npressurized machinery\n\nAs attached in the ANNEX\n\nThis risk-based inspection scheme shall be valid for a duration of one hundred and fifty\n\nmonths with effect from to unless it is revoked,\n\ndeemed to have been revoked or terminated under Part VII of the Factories and\n\nMachinery (Special Scheme of Inspection) (Risk-Based Inspection) Regulations 2014.\n\nDated: ____\n\n(CHIEF INSPECTOR)\n\nANNEX\n\nAPPROVAL OF RISK-BASED INSPECTION SCHEME\n\nScheme Approval Number:\n\nLIST OF RISK-BASED PRESSURIZED MACHINERY\n\nNo. Registration No. Description of Risk-Based Pressurized Machinery\n\nFORM B\n\n[Regulations 8, 27 and 39]\n\nFACTORIES AND MACHINERY ACT 1967\n\nFACTORIES AND MACHINERY (SPECIAL SCHEME OF INSPECTION)\n\n(RISK-BASED INSPECTION) REGULATIONS 2014\n\nRISK-BASED CERTIFICATE OF FITNESS\n\nScheme Approval Number:\n\nIN exercise of the powers conferred by regulations 8, 27 and 39 of the Factories and\n\nMachinery (Special Scheme of Inspection) (Risk-Based Inspection) Regulations 2014,\n\nI hereby issue a risk-based certificate of fitness in respect of the risk-based pressurized\n\nmachinery as stated below:\n\nParticulars of risk-based\n\npressurized machinery\n\nDescription\n\nRegistered No.\n\nMaker's Name\n\nMaker's No.\n\nHeating surface/\n\nCubic capacity*\n\nPressure at which\n\nsafety valve is to\n\noperate\n\nPlace of operation\n\nDate of risk-based audit\n\nDate of risk-based inspection\n\nI am satisfied that the risk-based pressurized\n\nmachinery can work at a pressure not\n\nexceeding\n\n*Delete whichever is not applicable\n\nThis risk-based certificate of fitness shall be valid for a period of _______________ with\n\neffect from to unless it is revoked, deemed to have\n\nbeen revoked or terminated under Part VII of the Factories and Machinery\n\n(Special Scheme of Inspection) (Risk-Based Inspection) Regulations 2014.\n\nDated: ____\n\n(CHIEF INSPECTOR)\n\nSECOND SCHEDULE\n\n[Regulations 7, 21, 26 and 38]\n\nINSPECTION FEE\n\nPART 1: STEAM BOILER\n\nThe fees for a risk-based inspection of a steam boiler according to the heating surface of\n\nthe steam boiler are as follows:\n\nNo. Heating surface Fees\n\n(RM)\n\nBelow 5 square metres\n\n5 square metres and above but below 10 square metres\n\n10 square metres and above but below 25 square metres\n\n25 square metres and above but below 50 square metres\n\n50 square metres and above but below 100 square metres\n\n100 square metres and above but below 250 square metres\n\n250 square metres and above\n\n1,350.00\n\n3,150.00\n\n4,050.00\n\n4,950.00\n\n6,075.00\n\n7,650.00\n\n9,225.00\n\nPART 2: UNFIRED PRESSURE VESSEL\n\nThe fees for a risk-based inspection of an unfired pressure vessel according to the cubic\n\ncapacity of the unfired pressure vessel are as follows:\n\nNo. Cubic capacity Fees\n\n(RM)\n\nBelow 0.1 cubic metre\n\n0.1 cubic metre and above but below 0.5 cubic metre\n\n0.5 cubic metre and above but below 5 cubic metres\n\n5 cubic metres and above but below 10 cubic metres\n\n10 cubic metres and above but below 15 cubic metres\n\n15 cubic metres and above\n\n450.00\n\n900.00\n\n1,350.00\n\n1,575.00\n\n2,250.00\n\n2,700.00\n\nMade 25 March 2014\n\n[KSM/PUU/T/01/02/03/02; PN(PU2)235/XL]\n\nDATO' SRI RICHARD RIOT ANAK JAEM\n\nMinister of Human Resources"
+   }
+  }
+ ]
+}

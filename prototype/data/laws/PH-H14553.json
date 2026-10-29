@@ -1,0 +1,62 @@
+{
+ "id": "PH-H14553",
+ "title": {
+  "zh": null,
+  "en": "An Act Amending the Provisions of Section Fifty of Act Numbered Nineteen Hundred and Fifty-Six, Known as the \"Insolvency Law.",
+  "orig": "An Act Amending the Provisions of Section Fifty of Act Numbered Nineteen Hundred and Fifty-Six, Known as the \"Insolvency Law."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1932-12-02",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3962",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1579,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1932/act_3962_1932.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03962_1932_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03962_1932_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14553-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section fifty of Act Numbered Nineteen hundred and fifty-six, known as the \"Insolvency Law\",\nis hereby amended to read as follows:\n\"Section 50. The following are the preferred claims which shall be paid in the order named:\n\"(a) Necessary funeral expenses of the debtor, or of his wife, or children who are under their parental authority\nand have no property of their own, when approved by the court;\n\"(b) Debts due for personal services rendered the insolvent by employees, laborers, or domestic servants\nimmediately preceding the commencement of proceedings in insolvency;\n\"(c) Compensation due the laborers or their dependents under the provisions of Act Numbered Thirty-four\nhundred and twenty-eight, known as the Workmen's Compensation Act, as amended by Act Numbered\nThirty-eight hundred and twelve, and under the provisions of Act Numbered Eighteen hundred and\nseventy-four, known as the Employees' Liability Act, and of other laws providing for payment of indemnity\nfor damages in cases of labor accidents;\n\"(d) Legal expenses, and expenses incurred in the administration of the insolvent's estate for the common\ninterest of the creditors, when properly authorized and approved by the court;\n\"(e) Debts, taxes, and assessments due the Insular Government;\n\"(f) Debts, taxes, and assessments due to any province or provinces of the Philippine Islands;\n\"(g) Debts, taxes, and assessments due to any municipality or municipalities of the Philippine Islands;\n\"All other creditors shall be paid pro rata.\""
+   }
+  },
+  {
+   "id": "PH-H14553-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, December 2, 1932."
+   }
+  }
+ ]
+}

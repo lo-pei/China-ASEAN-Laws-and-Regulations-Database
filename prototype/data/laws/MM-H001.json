@@ -3,7 +3,11 @@
  "title": {
   "zh": "仲裁法",
   "en": "Arbitration Law",
-  "orig": null
+  "orig": "Arbitration Law",
+  "vi": "Luật Trọng tài",
+  "th": "พระราชบัญญัติอนุญาโตตุลาการ",
+  "id": "Undang-Undang Arbitrase",
+  "ms": "Akta Timbang Tara"
  },
  "country": "MM",
  "countryName": "缅甸",
@@ -25,14 +29,14 @@
  "structureMode": "ARTICLE",
  "structure": null,
  "articleCount": 53,
- "chars": 24875,
+ "chars": 24873,
  "source": {
   "name": "缅甸官方发布渠道",
   "url": null
  },
  "sourceFile": null,
  "fetchedAt": "2026-10-04",
- "completenessNote": "全文，共 53 条；经《东盟法律分类》归档原件重新校核切分，逐字未改写。",
+ "completenessNote": "全文，共 53 条；经《东盟法律分类》归档原件重新校核切分，逐字未改写；已清除正文中的 2 个控制字符（C0/C1 区，法律文本中无合法用途，系 PDF 抽取/表单域残留）。",
  "textQuality": null,
  "ocrNoisySections": null,
  "pdfs": null,
@@ -129,7 +133,7 @@
     "en": "Article 7"
    },
    "text": {
-    "en": "The functions and duties of the Central Body are as follows: -\n(a)  laying down plans for application step by step of electronic transactions technologies extensively in building the modern, developed nation;\n(b)  laying down and implementing programmes for enriching experience and knowledge on electronic transactions tec hnologies and readiness in globalization process;\n(c)  carrying out activities to be in conformity with the policies relating to electronic transactions technologies, legal affairs and specifications to enable communicating, co\u0002operating and dealing effec tively and speedily, with international organizations, regional organizations, foreign countries and local and foreign organizations;\n(d)  communicating and co -operating with international organizations, regional organizations, foreign countries, local a nd foreign organizations on matters relating to electronic transactions technologies;\n(e)  forming the Control Board and supervising and guiding thereof;\n(f)  forming the necessary working committees and stipulating functions and duties thereof for enabl ing the implementation of their functions and duties successfully."
+    "en": "The functions and duties of the Central Body are as follows: -\n(a)  laying down plans for application step by step of electronic transactions technologies extensively in building the modern, developed nation;\n(b)  laying down and implementing programmes for enriching experience and knowledge on electronic transactions tec hnologies and readiness in globalization process;\n(c)  carrying out activities to be in conformity with the policies relating to electronic transactions technologies, legal affairs and specifications to enable communicating, cooperating and dealing effec tively and speedily, with international organizations, regional organizations, foreign countries and local and foreign organizations;\n(d)  communicating and co -operating with international organizations, regional organizations, foreign countries, local a nd foreign organizations on matters relating to electronic transactions technologies;\n(e)  forming the Control Board and supervising and guiding thereof;\n(f)  forming the necessary working committees and stipulating functions and duties thereof for enabl ing the implementation of their functions and duties successfully."
    },
    "chapter": {
     "zh": "Chapter IV"
@@ -239,7 +243,7 @@
     "en": "Article 15"
    },
    "text": {
-    "en": "(a)  The certification authority who obtains a licens e issued under section 13 shall, on submitting a proposal to obtain a permit under the Myanmar Citizens Investment Law or Union of Myanmar Foreign Investment Law, apply to the Myanmar Investment Commission together with the license issued by the Control Board;\n(b)  The Myanmar Investment Commission may, with respect to  application under sub\u0002section (a), seek the remark of the Control Board, if necessary.\nChapter VII\nSubscriber"
+    "en": "(a)  The certification authority who obtains a licens e issued under section 13 shall, on submitting a proposal to obtain a permit under the Myanmar Citizens Investment Law or Union of Myanmar Foreign Investment Law, apply to the Myanmar Investment Commission together with the license issued by the Control Board;\n(b)  The Myanmar Investment Commission may, with respect to  application under subsection (a), seek the remark of the Control Board, if necessary.\nChapter VII\nSubscriber"
    },
    "chapter": {
     "zh": "Chapter VII"

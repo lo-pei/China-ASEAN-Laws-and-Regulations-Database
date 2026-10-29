@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13198",
+ "title": {
+  "zh": null,
+  "en": "An Act to Authorize the Provincial Boards of the Mountain Province and of the Province of Nueva VIzcaya to Extend the Time for the Payment of Taxes Without Penalty, in their Respective Provinces.",
+  "orig": "An Act to Authorize the Provincial Boards of the Mountain Province and of the Province of Nueva VIzcaya to Extend the Time for the Payment of Taxes Without Penalty, in their Respective Provinces."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1915-09-03",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2527",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 717,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1915/act_2527_1915.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02527_1915_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02527_1915_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13198-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "With the approval of the Secretary of the Interior and the Governor-General first had, the\nprovincial boards of the Mountain Province and of the Province of Nueva Vizcaya may, by reason of general\nfailure of crops or for other good and sufficient cause, extend by resolution -the collection time for the\npayment, in whole or in part, vi of any one or more tax or taxes for the whole of their respective provinces or\nfor any subprovince, for a period not exceeding six months in any one year without penalty: Provided, That\nthe resolution of the provincial board must clearly state the reasons for such extension."
+   }
+  },
+  {
+   "id": "PH-H13198-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect as of January first, nineteen hundred and fifteen.\nEnacted, September 3, 1915."
+   }
+  }
+ ]
+}

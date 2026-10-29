@@ -1,0 +1,72 @@
+{
+ "id": "PH-H22510",
+ "title": {
+  "zh": null,
+  "en": "Amending and Increasing the Pension of the Teachers Retired Under Act No. 3050, as Amended",
+  "orig": "Amending and Increasing the Pension of the Teachers Retired Under Act No. 3050, as Amended"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1977-05-31",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 1148",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 595,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_01148_1977_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_01148_1977_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22510-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The pension presently received by the teachers who retired under Act No. 3050 shall be increased\nby one hundred pesos monthly and those of their beneficiaries shall be increased fifty pesos monthly per\nbeneficiary."
+   }
+  },
+  {
+   "id": "PH-H22510-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "There is hereby appropriated for the current fiscal year and annually thereafter, out of any funds in\nthe National Treasury not otherwise appropriated, sums as may be necessary to cover the increase in pensions\nprovided herein."
+   }
+  },
+  {
+   "id": "PH-H22510-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect immediately.\nDONE in the City of Manila, this thirty-first of May, in the year of Our Lord, nineteen hundred and\nseventy-seven."
+   }
+  }
+ ]
+}

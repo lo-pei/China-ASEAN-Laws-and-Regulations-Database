@@ -1,0 +1,52 @@
+{
+ "id": "PH-H17510",
+ "title": {
+  "zh": null,
+  "en": "Modifying Executive Order No. 55",
+  "orig": "Modifying Executive Order No. 55"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p157",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1986-07-01",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Executive Order No. 98",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 1,
+ "chars": 243,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (HTML full text only)  |  https://lawphil.net/executive/execord/eo1986/eo_98_1986.html"
+ },
+ "sourceFile": "菲律宾/法律原文/07_行政命令_EO/EO_00098_1986_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 1 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 EO_00098_1986_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H17510-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Sec 1"
+   },
+   "text": {
+    "en": "Section 6 of Executive Order No. 55 is hereby amended to read as follows:\n\"Sec. 6. This Executive Order shall take effect as of July 1, 1986.\"\nDone in the City of Manila, this 18th day of December, in the year of Our Lord, nineteen hundred and"
+   }
+  }
+ ]
+}

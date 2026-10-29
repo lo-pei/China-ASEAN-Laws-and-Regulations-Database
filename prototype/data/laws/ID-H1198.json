@@ -1,0 +1,114 @@
+{
+ "id": "ID-H1198",
+ "title": {
+  "zh": "建筑业服务业务所得税法",
+  "en": "Law on Income Tax on Income from Construction Services Business",
+  "id": "PAJAK PENGHASILAN ATAS PENGHASILAN DARI USAHA JASA KONSTRUKSI",
+  "orig": "PAJAK PENGHASILAN ATAS PENGHASILAN DARI USAHA JASA KONSTRUKSI",
+  "vi": "Luật về Thuế Thu nhập đối với Thu nhập từ Hoạt động Kinh doanh Dịch vụ Xây dựng",
+  "th": "พระราชบัญญัติว่าด้วยภาษีเงินได้จากรายได้จากการประกอบธุรกิจบริการก่อสร้าง",
+  "ms": "Akta tentang Cukai Pendapatan atas Pendapatan daripada Perniagaan Perkhidmatan Pembinaan"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02a",
+ "language": "id",
+ "level": "law",
+ "category": "02_民商事与经济法",
+ "status": "active",
+ "promulgatedDate": "2000",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU140-2000",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 6,
+ "chars": 6481,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PP%20NO%20140%20TH%202000.pdf&fl=P04380"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\02_民商事与经济法\\印尼_文本_2000_PAJAK PENGHASILAN ATAS PENGHASILAN DARI USAHA JASA KONSTRUKSI.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 6 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H1198-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\n1. Atas penghasilan yang diterima atau diperoleh Wajib Pajak dalam negeri dan bentuk usaha tetap\ndari usaha di bidang jasa konstruksi, dikenakan Pajak Penghasilan berdasarkan ketentuan umum\nUndang-undang Pajak Penghasilan.\n2. Atas penghasilan yang diterima at au diperoleh Wajib Pajak sebagaimana dimaksud dalam ayat (1)\nyang memenuhi kualifikasi sebagai usaha kecil berdasarkan sertifikat yang dikeluarkan oleh\nLembaga yang berwenang, serta yang mempunyai nilai pengadaan sampai dengan Rp\n1.000.000.000,00 (satu miliar rupiah), dikenakan Pajak Penghasilan yang bersifat final."
+   }
+  },
+  {
+   "id": "ID-H1198-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\n1. Atas penghasilan yang diterima atau diperoleh Wajib Pajak sebagaimana dimaksud dalam Pasal 1\nayat (1):\na. dikenakan pemotongan pajak berdasarkan Pasal 23 Undang -undang Pajak Penghas ilan oleh\npengguna jasa, dalam hal pengguna jasa adalah badan Pemerintah, Subjek Pajak badan dalam\nnegeri, bentuk usaha tetap, atau orang pribadi sebagai Wajib Pajak dalam negeri yang ditunjuk\noleh Direktur Jenderal Pajak sebagai pemotong Pajak Penghasilan Pasal 23 pada saat\npembayaran uang muka dan termijn;\nb. dikenakan pajak berdasarkan ketentuan Pasal 25 Undang -undang Pajak Penghasilan dalam\nhal pemberi penghasilan adalah pengguna jasa lainnya selain yang dimaksud dalam huruf a.\n2. Atas penghasilan yang diterima atau diperoleh Wajib Pajak sebagaimana dimaksud dalam Pasal 1\nayat (2):\na. dikenakan pemotongan pajak yang bersifat final sesuai ketentuan Pasal 3 oleh pengguna jasa,\ndalam hal pengguna jasa adalah badan Pemerintah, Subjek Pajak badan dalam negeri , bentuk\nusaha tetap, atau orang pribadi sebagai Wajib Pajak dalam negeri yang ditunjuk oleh Direktur\nJenderal Pajak sebagai pemotong Pajak Penghasilan Pasal 23 pada saat pembayaran uang\nmuka dan termijn;\nPRESIDEN\nREPUBLIK INDONESIA\nb. dikenakan …\nb. dikenakan pajak yang bersifat final sesuai ketentuan Pasal 3, dengan cara menyetor sendiri\nPajak Penghasilan yang terutang pada saat menerima pembayaran uang muka dan termijn,\ndalam hal pemberi penghasilan adalah pengguna jasa lainnya selain yang dimaksud dalam\nhuruf a."
+   }
+  },
+  {
+   "id": "ID-H1198-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\nBesarnya Pajak Penghasilan yang terutang dan harus dipotong oleh pengguna jasa atau disetor sendiri\noleh Wajib Pajak penyedia jasa yang bersangkutan sebagaimana dimaksud dalam Pasal 2 ayat (2)\nditetapkan sebagai berikut :\na. 4% (em pat persen) dari jumlah bruto, yang diterima Wajib Pajak penyedia jasa perencanaan\nkonstruksi;\nb. 2% (dua persen) dari jumlah bruto, yang diterima Wajib Pajak penyedia jasa pelaksanaan\nkonstruksi;\nc. 4% (empat persen) dari jumlah bruto, yang diterima Wajib Pajak penyedia jasa pengawasan\nkonstruksi."
+   }
+  },
+  {
+   "id": "ID-H1198-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\nKetentuan lebih lanjut yang diperlukan bagi pelaksanaan Peraturan Pemerintah ini diatur dengan\nKeputusan Menteri Keuangan."
+   }
+  },
+  {
+   "id": "ID-H1198-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\nPada saat Peraturan Pemerintah ini mulai berlaku, Peraturan Pemerinta h Nomor 73 Tahun 1996 tentang\nPajak Penghasilan Atas Penghasilan Dari Usaha Jasa Konstruksi dan Jasa Konsultan (Lembaran Negara\nRepublik Indonesia Tahun 1996 Nomor 112, Tambahan Lembaran Negara Nomor 3664), dinyatakan tidak\nberlaku."
+   }
+  },
+  {
+   "id": "ID-H1198-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\nPeraturan Pemerintah ini mulai berlaku pada tanggal 1 Januari 2001.\nPRESIDEN\nREPUBLIK INDONESIA\nAgar …\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan\npenempatannya dalam Lembaran Negara Republik Indonesia.\nDitetapkan di Jakarta\npada tanggal 20 Desember 2000\nPRESIDEN REPUBLIK INDONESIA,\nttd.\nABDURRAHMAN WAHID\nDiundangkan di Jakarta\npada tanggal 20 Desember 2000\nSEKRETARIS NEGARA REPUBLIK INDONESIA,\nDJOHAN EFFENDI\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2000 NOMOR 255\nPRESIDEN\nREPUBLIK INDONESIA\nPENJELASAN\nATAS\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nNOMOR 140 TAHUN 2000\nTENTANG\nPAJAK PENGHASILAN ATAS PENGHASILAN\nDARI USAHA JASA KONSTRUKSI\nUMUM\nBerdasarkan Pasal 4 ayat (2) Undang -undang Nomor 7 Tahun 1983 tentang Pajak Penghasilan\nsebagaimana telah diubah terak hir dengan Undang -undang Nomor 17 Tahun 2000, atas penghasilan dari\nusaha jasa konstruksi pengenaan pajaknya diatur dengan Peraturan Pemerintah.\nDalam rangka meningkatkan efektivitas pengenaan Pajak Penghasilan atas penghasilan dari usaha jasa\nkonstruksi sesuai dengan prinsip-prinsip yang dianut dalam Undang-undang Pajak Penghasilan, dipandang\nperlu untuk mengatur kembali pengenaan Pajak Penghasilan atas penghasilan dari usaha jasa konstruksi,\ndengan Peraturan Pemerintah sebagai pengganti Peraturan Pemerint ah Nomor 73 Tahun 1996.\nPASAL DEMI PASAL\nPasal 1\nYang dimaksud dengan jasa konstruksi adalah layanan jasa konsultansi perencanaan pekerjaan\nkonstruksi, layanan jasa pelaksanaan pe kerjaan konstruksi, dan layanan jasa konsultansi\npengawasan konstruksi. Adapun pekerjaan konstruksi adalah keseluruhan atau sebagian\nrangkaian kegiatan perencanaan dan atau pelaksanaan beserta pengawasan yang mencakup\npekerjaan arsitektural, sipil, mekanik al, elektrikal, dan tata lingkungan masing -masing beserta\nkelengkapannya, untuk mewujudkan suatu bangunan atau bentuk fisik lain.\nAyat (1)\nAtas penghasilan Wajib Pajak dalam negeri dan bentuk usaha tetap yang diterima atau\ndiperoleh dari usaha di bidan g jasa konstruksi dikenakan Pajak Penghasilan berdasarkan\nketentuan umum Undang-undang Pajak Penghasilan, kecuali Wajib Pajak dengan kualifikasi usaha\nkecil termasuk orang perseorangan.\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (2) …\nAyat (2)\nAtas penghasilan Wajib Pajak dalam negeri d an bentuk usaha tetap dengan kualifikasi\nusaha kecil termasuk orang perseorangan yang diterima atau diperoleh dari usaha di bidang jasa\nkonstruksi dikenakan Pajak Penghasilan yang bersifat final.\nDalam hal Wajib Pajak telah memenuhi kualifikasi sebagai u saha kecil berdasarkan\nsertifikat yang dikeluarkan oleh Lembaga yang berwenang, tetapi nilai pengadaannya lebih dari Rp\n1.000.000.000,00 (satu miliar rupiah), atas penghasilan yang diterima atau diperolehnya dikenakan\nPajak Penghasilan berdasarkan ketentuan umum Undang-undang Pajak Penghasilan.\nPasal 2\nCukup jelas\nPasal 3\nBerdasarkan Undang-undang tentang Jasa Konstruksi yang dimaksud dengan :\n1. Pengguna ja sa adalah orang perseorangan atau badan sebagai pemberi tugas atau pemilik\npekerjaan/proyek yang memerlukan layanan jasa konstruksi.\n2. Penyedia jasa adalah orang perseorangan atau badan yang kegiatan usahanya menyediakan\nlayanan jasa konstruksi. Penyedia jasa terdiri dari perencana konstruksi, pelaksana\nkonstruksi, dan pengawas konstruksi.\nPasal 4\nCukup jelas\nPasal 5\nCukup jelas\nPasal 6\nCukup jelas\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 4057"
+   }
+  }
+ ]
+}

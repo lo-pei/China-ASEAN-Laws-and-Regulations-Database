@@ -1,0 +1,748 @@
+{
+ "id": "ID-H739",
+ "title": {
+  "zh": "航空运输法",
+  "en": "Law on Air Transport",
+  "id": "ANGKUTAN UDARA",
+  "orig": "ANGKUTAN UDARA",
+  "vi": "Luật về Vận tải Hàng không",
+  "th": "พระราชบัญญัติว่าด้วยการขนส่งทางอากาศ",
+  "ms": "Akta tentang Pengangkutan Udara"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02b",
+ "language": "id",
+ "level": "law",
+ "category": "03_涉外投资与贸易",
+ "status": "active",
+ "promulgatedDate": "1995",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU40-1995",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 49,
+ "chars": 42581,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PP0401995.pdf&fl=P03929"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\03_涉外投资与贸易\\印尼_文本_1995_ANGKUTAN UDARA.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 49 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H739-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\nDalam Peraturan Pemerintah ini yang dimaksud dengan :\n1. Angkutan udara adalah setiap kegiatan dengan menggunakan\npesawat udara untuk mengangkut penumpang, kargo, dan pos\nuntuk satu perjalanan atau lebih dari satu bandar udara ke bandar\nudara yang lain atau beberapa bandar udara;\n2. Angkutan udara niaga adalah a ngkutan udara untuk umum\ndengan memungut pembayaran;\n3. Angkutan udara perintis adalah angkutan udara niaga yang\nmelayani jaringan dan rute penerbangan untuk menghubungkan\ndaerah terpencil dan pedalaman atau daerah yang sukar\nterhubungi oleh moda transport asi lain dan secara komersial\nbelum menguntungkan;\n4. Perusahaan angkutan udara adalah perusahaan yang\nmengoperasikan pesawat udara untuk digunakan mengangkut\npenumpang, kargo, dan pos dengan memungut pembayaran;\n5. Rute penerbangan adalah lintasan pesawat udara dari bandar\nudara asal ke bandar udara tujuan melalui jalur penerbangan yang\ntelah ditetapkan;\n6. Jaringan penerbangan adalah kumpulan dari rute penerbangan\nyang merupakan satu kesatuan jaringan pelayanan angkutan\nudara;\n7. Menteri adalah menteri ya ng bertanggung jawab di bidang\npenerbangan.\nBAB II…\nPRESIDEN\nREPUBLIK INDONESIA\nBAB II\nPENYELENGGARAAN ANGKUTAN UDARA\nBagian Pertama\nPenggunaan Pesawat Udara"
+   }
+  },
+  {
+   "id": "ID-H739-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\nAngkutan udara sipil di wilayah Republik Indonesia wajib\nmenggunakan pesawat udara sipil yang mempunyai tanda kebangsaan\nIndonesia."
+   }
+  },
+  {
+   "id": "ID-H739-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\n(1) Pesawat udara Angkatan Bersenjata Republik Indonesia dapat\ndigunakan untuk angkutan udara sipil dalam hal tidak tersedianya\npesawat udara sipil untuk penyelenggaraan tugas pemerintahan.\n(2) Penggunaan pesawat udara Angkatan Bersenjata Republik\nIndonesia sebagaimana dimaksud dalam ayat (1) wajib memenuhi\npersyaratan yang berlaku untuk pesawat udara sipil.\n(3) Ketentuan lebih lanjut mengenai penggunaan pesawat udara\nAngkatan Bersenjata Republik Indonesia sebagaimana dimaksud\ndalam ayat (1), diatur oleh Menteri setelah mendengar pendapat\nMenteri yang bertanggung jawab di bidang pertahanan\nkeamanan."
+   }
+  },
+  {
+   "id": "ID-H739-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4…"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Pertama"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 4\nPenggunaan pesawat udara sipil untuk angkutan udara Angkatan\nBersenjata Republik Indonesia, diatur dengan Peraturan Pemerintah\ntersendiri."
+   }
+  },
+  {
+   "id": "ID-H739-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\n(1) Penggunaan pesawat udara sipil asing oleh perusahaan angkutan\nudara asing dari dan ke atau mel alui wilayah Republik Indonesia\nuntuk kegiatan angkutan udara niaga berjadwal luar negeri, hanya\ndapat dilakukan berdasarkan perjanjian bilateral atau multilateral.\n(2) Penggunaan pesawat udara sipil asing oleh perusahaan angkutan\nudara asing atau perorang an dari dan ke atau melalui wilayah\nRepublik Indonesia, selain untuk kegiatan angkutan udara niaga\nberjadwal luar negeri sebagaimana dimaksud dalam ayat (1),\nhanya dapat dilakukan setelah mendapat izin terbang dari\nmenteri.\n(3) Untuk mendapatkan izin sebag aimana dimaksud dalam ayat (2),\npemohon menyampaikan permohonan kepada Menteri dilengkapi\ndengan data sebagai berikut :\na. nama perusahaan pemilik/penyewa pesawat udara;\nb. jenis pesawat udara;\nc. tanda kebangsaan, pendaftaran dan tanda panggilan;\nd. sifat penerbangan; dan\ne. rencana operasi.\nPRESIDEN\nREPUBLIK INDONESIA\n(4) Ketentuan...\n(4) Ketentuan lebih lanjut mengenai tata cara permohonan izin\nsebagaimana dimaksud dalam ayat (3) diatur oleh Menteri."
+   }
+  },
+  {
+   "id": "ID-H739-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\n(1) Perusahaan angkutan udara asing yang melakukan kegiatan ke\ndan dari Indonesia sebagaimana dimaksud dalam Pasal 5 ayat (1),\nwajib menempatkan atau menunjuk perwakilannya di Indonesia\nuntuk mengurus kepentingan di bidang operasi dan administrasi.\n(2) Untuk melakukan penjualan dan pemasaran jasa angkutan udara\ndari dan ke luar negeri, perusahaan angkutan udara asing\nsebagaimana dimaksud dalam Pasal 5 ayat (1), wajib menunjuk\nagen di Indonesia untuk mewakili kepentingannya.\n(3) Ketentuan lebih lanjut mengenai p enempatan atau penunjukan\nperwakilan, dan penunjukan agen di Indonesia sebagaimana\ndimaksud dalam ayat (1) dan ayat (2), diatur oleh Menteri."
+   }
+  },
+  {
+   "id": "ID-H739-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\n(1) Penggunaan pesawat udara negara asing untuk kegiatan angkutan\nudara dari dan ke atau melalui wilayah Republik Indonesia,\nhanya dapat dilakukan setelah mendapat izin terbang dari Menteri\nyang bertanggung jawab di bidang pertahanan keamanan.\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Ketentuan...\n(2) Ketentuan lebih lanjut mengenai tata cara permohonan dan\npersyaratan un tuk mendapatkan izin sebagaimana dimaksud\ndalam ayat (1) diatur oleh menteri yang bertanggung jawab di\nbidang pertahanan keamanan.\nBagian Kedua\nKegiatan Angkutan Udara"
+   }
+  },
+  {
+   "id": "ID-H739-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n(1) Kegiatan angkutan udara terdiri atas :\na. angkutan udara niaga; dan\nb. angkutan udara bukan niaga.\n(2) Angkutan udara niaga sebagaimana dimaksud dalam ayat (1)\nhuruf a, meliputi :\na. angkutan udara niaga berjadwal; dan\nb. angkutan udara niaga tidak berjadwal."
+   }
+  },
+  {
+   "id": "ID-H739-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n(1) Untuk menunjang kegiatan angkutan udara niaga s ebagaimana\ndimaksud dalam Pasal 8 ayat (1) huruf a, dapat diselenggarakan\nkegiatan penunjang angkutan udara niaga.\n(2) Ketentuan lebih lanjut mengenai kegiatan penunjang angkutan\nudara niaga sebagaimana dimaksud dalam ayat (1) diatur oleh\nMenteri.\nPRESIDEN\nREPUBLIK INDONESIA\nBagian…\nBagian Ketiga\nJaringan dan Rute"
+   }
+  },
+  {
+   "id": "ID-H739-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\n(1) Kegiatan angkutan udara niaga berjadwal sebagaimana dimaksud\ndalam Pasal 8 ayat (2) huruf a dilakukan dalam jaringan\npenerbangan.\n(2) Jaringan penerbangan sebagaimana dimaksud dalam ayat (1)\nmeliputi :\na. jaringan penerbangan dalam negeri; dan\nb. jaringan penerbangan luar negeri.\n(3) Jaringan penerbangan dalam negeri sebagaimana dimaksud\ndalam ayat (2) huruf a, terdiri atas:\na. rute utama;\nb. rute pengumpan; dan\nc. rute perintis.\n(4) Jaringan penerbangan luar negeri sebagaimana dimaksud dalam\nayat (2) huruf b, merupakan kumpulan rute luar negeri."
+   }
+  },
+  {
+   "id": "ID-H739-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\n(1) Rute utama sebagaimana dimaksud dalam Pasal 10 ayat (3) huruf\na, adalah rute yang menghubungkan antar bandar udara yang\nberfungsi sebagai pusat penyebaran.\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Rute...\n(2) Rute pengumpan sebagaimana dimaksud dalam Pasal 10 ayat (3)\nhuruf b, merupakan penunjang rute utama yang menghubungkan\n:\na. bandar udara yang berfungsi sebagai pusat penyebaran dengan\nbandar udara yang berfu ngsi bukan sebagai pusat penyebaran;\natau\nb. antar bandar udara yang berfungsi bukan sebagai pusat\npenyebaran.\n(3) Rute perintis sebagaimana dimaksud dalam Pasal 10 ayat (3)\nhuruf c, adalah rute yang menghubungkan daerah terpencil dan\npedalaman serta daer ah yang sukar terhubungi oleh moda\ntransportasi lain.\n(4) Ketentuan lebih lanjut mengenai rute sebagaimana dimaksud\ndalam ayat (1), ayat (2), dan ayat (3) diatur oleh Menteri."
+   }
+  },
+  {
+   "id": "ID-H739-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n(1) Jaringan dan rute penerbangan dalam negeri sebagaimana\ndimaksud d alam Pasal 10 ayat (3), ditetapkan oleh Menteri\ndengan memperhatikan keterpaduan intra dan antar moda.\n(2) Jaringan dan rute penerbangan luar negeri sebagaimana dimaksud\ndalam Pasal 10 ayat (4), ditetapkan oleh Menteri berdasarkan\nperjanjian bilateral atau multilateral.\n(3) Perjanjian bilateral atau multilateral sebagaimana dimaksud\ndalam ayat (2), dilakukan de ngan memperhatikan\nsekurang-kurangnya permintaan jasa angkutan udara sera\nPRESIDEN\nREPUBLIK INDONESIA\njaringan dan rute penerbangan dalam negeri.\n(4) Ketentuan...\n(4) Ketentuan lebih lanjut mengenai hal -hal yang perlu diperhatikan\ndalam melakukan perjanjian bilateral atau multilater al\nsebagaimana dimaksud ayat (3) diatur oleh Menteri."
+   }
+  },
+  {
+   "id": "ID-H739-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\n(1) Pembukaan rute baru untuk angkutan udara berjadwal dalam\nnegeri dilakukan dengan mempertimbangkan :\na. adanya permintaan jasa angkutan udara yang potensial dengan\nperkiraan faktor muatan yang layak, kecuali rute perintis:\nb.tersedianya fasilitas bandar udara yang memadai.\n(2) Penambahan kapasitas angkutan udara berjadwal dalam negeri\npada suatu rute dilakukan dengan mempertimbangkan :\na. kelayakan faktor muatan rata-rata;\nb. tersedianya fasilitas bandar udara yang memadai."
+   }
+  },
+  {
+   "id": "ID-H739-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\n(1) Menteri melakukan evaluasi terhadap potensi permintaan jasa\nangkutan udara dan kapasitas angkutan udara sebagai dasar untuk\npembukaan rute baru dan penambahan kapasitas sebagaimana\ndimaksud dalam Pasa l 13 serta mengumumkan hasil evaluasi\nsekurang-kurangnya sekali dalam 6 (enam) bulan.\n(2) Ketentuan lebih lanjut mengenai evaluasi dan tata cara\npengumuman sebagaimana dimaksud dalam ayat (1) diatur oleh\nPRESIDEN\nREPUBLIK INDONESIA\nMenteri."
+   }
+  },
+  {
+   "id": "ID-H739-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15…"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 15\nJaringan dan rute penerbangan sebagaimana diatur dalam Bagian ini\ntidak berlaku bagi kegiatan angkutan udara niaga tidak berjadwal\nsebagaimana dimaksud dalam Pasal 8 ayat (2) huruf b.\nBAB III\nANGKUTAN UDARA NIAGA\nBagian Pertama\nIzin Usaha Angkutan Udara Niaga"
+   }
+  },
+  {
+   "id": "ID-H739-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\n(1) Kegiatan usaha angkutan udara niaga berjadwal dan angkutan\nudara niaga tidak berjadwal sebagaimana dimaksud dalam Pasal\n8 ayat (2), dapat dilakukan oleh :\na. Badan Usaha Milik Negara;\nb. Badan Usaha Milik Swasta yang berbentuk badan hukum; atau\nc. Koperasi.\n(2) Perusahaan yang melakukan kegiatan usaha angkutan udara niaga\nberjadwal atau angkutan udara niaga tidak berjadwal\nsebagaimana dimaksud dalam ayat (1), wajib memiliki izin usaha\nangkutan udara niaga.\n(3) Izin usaha sebagaimana dimaksud dalam ayat (2) diberikan untuk\njangka waktu selama perusahaan yang bersangkutan masih\nPRESIDEN\nREPUBLIK INDONESIA\nmenjalankan usahanya."
+   }
+  },
+  {
+   "id": "ID-H739-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17…"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 17\nIzin usaha angkutan udara niaga sebagaimana dimaksud dalam Pasal\n16 ayat (2) terdiri atas :\na. izin usaha angkutan udara niaga berjadwal;\nb. izin usaha angkutan udara niaga tidak berjadwal;"
+   }
+  },
+  {
+   "id": "ID-H739-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\n(1) Untuk mendapatkan izin usaha sebagaimana dimaksud d alam\nPasal 17, perusahaan sebagaimana dimaksud dalam Pasal 16 ayat\n(1) wajib :\na. menyampaikan studi kelayakan yang sekurang -kurangnya\nmeliputi :\n1) jenis dan jumlah pesawat udara yang akan dioperasikan;\n2) rute penerbangan, bagi perusahaan angkutan udara niaga\nberjadwal;\n3) aspek pemasaran;\n4) sumber daya manusia, termasuk teknisi dan awak pesawat\nudara;\n5) kesiapan atau kelayakan operasi;\n6) analisis dan evaluasi dari aspek ekonomi dan finansial.\nb. memiliki Nomor Pokok Wajib Pajak (NPWP).\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Ketentuan lebih lanjut mengenai persyaratan sebagaimana\ndimaksud dalam ayat (1) diatur oleh Menteri."
+   }
+  },
+  {
+   "id": "ID-H739-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19…"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 19\nDalam melakukan penilaian terhadap permohonan izin usaha\nsebagaimana dimaksud dalam Pa sal 17 huruf a, Menteri\nmemperhatikan :\na. kelangsungan usaha dari perusahaan angkutan udara niaga\nberjadwal;\nb. keseimbangan antara permintaan dan penawaran jasa angkutan\nudara;\nc. terlayaninya seluruh rute yang telah ditetapkan."
+   }
+  },
+  {
+   "id": "ID-H739-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\n(1) Permohonan izin usaha sebagaimana dimaksud dalam Pasal 17,\ndiajukan secara tertulis kepada Menteri.\n(2) Menteri memberikan izin usaha apabila pemohon memenuhi\npersyaratan sebagaimana dimaksud dalam Pasal 18 ayat (1) dan\nberdasarkan penilaian dinyatakan lay ak untuk melakukan\nkegiatan usaha sesuai jenis izin usaha yang dimohon.\n(3) Penolakan permohonan izin usaha sebagaimana dimaksud dalam\nayat (1) diberikan oleh Menteri secara tertulis disertai alasan\npenolakan.\n(4) Pemberian atau penolakan atas permohonan i zin usaha\nsebagaimana dimaksud dalam ayat (2) dan ayat (3), diberikan\nPRESIDEN\nREPUBLIK INDONESIA\ndalam jangka waktu 60 (enam puluh) hari kerja setelah\npermohonan diterima secara lengkap.\n(5) Ketentuan...\n(5) Ketentuan lebih lanjut mengenai tata cara permohonan,\npemberian dan penol akan izin usaha sebagaimana dimaksud\ndalam ayat (1), ayat (2), ayat (3), dan ayat (4) diatur oleh Menteri."
+   }
+  },
+  {
+   "id": "ID-H739-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\n(1) Pemegang izin usaha sebagaimana dimaksud dalam Pasal 17\nhuruf a, melakukan kegiatan angkutan udara berjadwal sesuai\ndengan rute yang ditetapkan dalam izin usaha.\n(2) Pemegang izin usaha sebagaimana dimaksud dalam Pasal 17\nhuruf b, dapat melakukan kegiatan angkutan udara tidak\nberjadwal dalam negeri dan atau luar negeri."
+   }
+  },
+  {
+   "id": "ID-H739-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\n(1) Perusahaan angkutan udara niaga yang telah mendapatka n izin\nusaha diwajibkan untuk :\na. melakukan kegiatan usahanya selambat -lambatnya 12 (dua\nbelas) bulan setelah izin usaha diberikan;\nb. mematuhi ketentuan wajib angkut sesuai peraturan\nperundang-undangan yang berlaku;\nc. melaporkan kepada Menteri apabila terjadi perubahan data\nsebagaimana tercantum dalam izin usaha;\nPRESIDEN\nREPUBLIK INDONESIA\nd. melaporkan kegiatan angkutan udara setiap bulan kepada\nMenteri;\ne. mematuhi...\ne. mematuhi ketentuan -ketentuan di bidang teknis, operasi dan\nkeselamatan penerbangan.\n(2) Ketentuan lebih lanjut mengenai kewajiban sebagaimana\ndimaksud dalam ayat (1), diatur oleh Menteri.\nBagian kedua\nPencabutan Izin Usaha Angkutan Udara Niaga"
+   }
+  },
+  {
+   "id": "ID-H739-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\n(1) Izin usaha angkutan udara niaga dicabut apabila perusahaan\nangkutan udara melanggar salah satu ketentuan sebagaimana\ndimaksud dalam Pasal 22.\n(2) Pencabutan izin usaha sebagaimana dimaksud dalam ayat (1)\ndilakukan melalui proses peringatan tertulis sebanyak 3 (tiga) kali\nberturut-turut dengan tenggang waktu masing -masing 1 (satu)\nbulan.\n(3) Apabila peringatan sebagaimana dimaksud dalam ayat (2) tidak\ndiindahkan, dilanjutkan dengan pembekuan izin usaha untuk\njangka waktu 1 (satu) bulan.\n(4) Apabila pembekuan izin usaha sebagaimana dimaksud dalam\nayat (3) habis jangka wakt unya dan tidak ada usaha perbaikan,\nizin usaha dicabut.\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H739-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24…"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian kedua"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 24\nIzin usaha angkutan udara niaga dicabut tanpa melalui proses\nperingatan dan pembekuan izin, dalam hal perusahaan yang\nbersangkutan terbukti :\na. melakukan kegiatan yang membahayakan keamanan negara; atau\nb. memperoleh izin usaha dengan cara tidak sah.\nBagian Ketiga\nAngkutan Udara Perintis"
+   }
+  },
+  {
+   "id": "ID-H739-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\n(1) Angkutan udara perintis diselenggarakan oleh pemerintah dan\ndilakukan secara berjadwal pada rute penerbangan perintis\nsebagaimana dimaksud dalam Pasal 10 ayat (3) huruf c.\n(2) Menteri dapat menunjuk perusahaan pemegang izin usaha\nangkutan udara niaga untuk melakukan kegiatan pelayanan\nangkutan udara perintis.\n(3) Ketentuan lebih lanjut mengenai tata cara penunjukan perusahaan\nangkutan udara niaga sebagaimana dimaksud dalam ayat (2),\ndiatur oleh Menteri.\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H739-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {
+    "id": "..."
+   },
+   "text": {
+    "id": "Pasal 26\n(1) Perusahaan angkutan udara yang ditunjuk untuk melayani\nangkutan udara perintis diberi kompensasi untuk menjamin\nkelangsungan pelayanan angkutan udara perintis.\n(2) Ketentuan lebih lanjut mengenai kompensasi sebagaimana\ndimaksud dalam ayat (1), diatur oleh Menteri.\nBAB IV\nANGKUTAN UDARA BUKAN NIAGA"
+   }
+  },
+  {
+   "id": "ID-H739-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\n(1) Kegiatan angkutan udara bukan niaga sebagaimana dimaksud\ndalam Pasal 8 ayat (1) huruf b, dapat dilakukan oleh :\na. instansi pemerintah;\nb. badan hukum Indonesia;\nc. lembaga tertentu; atau\nd. perorangan warga negara Indonesia.\n(2) Pihak yang melakukan kegitan angkutan udara sebagaimana\ndimaksud dalam ayat (1), wajib memiliki izin kegiatan angkutan\nudara.\nPRESIDEN\nREPUBLIK INDONESIA\n(3) Izin sebagaimana dimaksud dalam ayat (2) berlaku selama masih\nmenjalankan kegiatan sesuai dengan izin yang diberikan."
+   }
+  },
+  {
+   "id": "ID-H739-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28…"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 28\n(1) Untuk mendapatkan izin sebagaimana dimaksud dalam Pasal 27\nayat (2), pemohon wajib memenuhi persyaratan :\na. menyampaikan rencana kegiatan angkutan udara yang\nsekurang-kurangnya meliputi:\n1) kegiatan pokoknya;\n2) tujuan penggunaan pesawat udara;\n3) daerah operasi;\n4) jenis dan jumlah pesawat udara yang akan dioperasikan;\n5) kesiapan operasi;\nb. memiliki izin dari in stansi yang membina kegiatan pokoknya\nbagi pemohon yang berbentuk badan hukum Indonesia atau\nlembaga tertentu, dan tanda jati diri bagi pemohon perorangan;\nc. memiliki Nomor Pokok Wajib Pajak (NPWP).\n(2) Ketentuan lebih lanjut mengenai persyaratan sebagai mana\ndimaksud dalam ayat (1) diatur oleh Menteri."
+   }
+  },
+  {
+   "id": "ID-H739-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\n(1) Pemohon izin sebagaimana dimaksud dalam Pasal 27 ayat (2),\ndiajukan secara tertulis kepada Menteri.\n(2) Menteri memberikan izin apabila pemohon telah memenuhi\npersyaratan sebagaimana dimaksud dalam Pasal 28 ayat (1) dan\nPRESIDEN\nREPUBLIK INDONESIA\nberdasarkan penilaian dinyatakan layak untuk melakukan\nkegiatan angkutan udara.\n(3) Penolakan...\n(3) Penolakan permohonan izin sebagaimana dimaksud dalam ayat\n(1), diberikan oleh Menteri secara tertulis disertai alasan\npenolakan.\n(4) Pemberian dan penolakan atas permohonan izin sebagaimana\ndimaksud dalam ayat (2) dan ayat (3), diberikan dalam jangka\nwaktu 60 (enam puluh) hari kerja setelah permohonan diterima\nsecara lengkap.\n(5) Ketentuan lebih lanjut mengenai tata cara permoho nan,\npemberian, dan penolakan izin kegiatan angkutan udara\nsebagaimana dimaksud dalam ayat (1), ayat (2), ayat (3), dan ayat\n(4) diatur oleh Menteri."
+   }
+  },
+  {
+   "id": "ID-H739-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\n(1) Pemegang izin kegiatan angkutan udara sebagaimana dimaksud\ndalam Pasal 27 ayat (2), diwajibkan :\na. melakukan kegiatan angkutan udara selambat -lambatnya 12\n(dua belas) bulan setelah izin diberikan;\nb. melaporkan apabila terjadi perubahan data sebagaimana\ntercantum dalam izin kegiatan angkutan udara;\nc. melaporkan kegiatan angkutan udara setia p tahun kepada\nMenteri;\nd. mematuhi ketentuan di bidang teknis operasi keselamatan\npenerbangan.\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Ketentuan lebih lanjut mengenai kewajiban sebagaimana\ndimaksud dalam ayat (1), diatur oleh Menteri."
+   }
+  },
+  {
+   "id": "ID-H739-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31…"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 31\n(1) Izin kegiatan angkutan udara bukan niaga dicabut apabila\npemegang izin melanggar salah satu ketentuan sebagaimana\ndimaksud dalam Pasal 30 ayat (1).\n(2) Pencabutan izin sebagaimana dimaksud dalam ayat (1) dilakukan\nmelalui proses peringatan tertulis sebanya k tiga kali\nberturut-turut dengan tenggang waktu masing-masing satu bulan.\n(3) Apabila peringatan sebagaimana dimaksud dalam ayat (2) tidak\ndiindahkan, dilanjutkan dengan pembekuan izin untuk jangka\nwaktu satu bulan.\n(4) Apabila pembekuan izin sebagaimana dimaksud dalam ayat (3)\nhabis jangka waktunya dan tidak ada usaha perbaikan, izin\ndicabut."
+   }
+  },
+  {
+   "id": "ID-H739-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 32\nIzin kegiatan angkutan udara bukan niaga dicabut tanpa melalui proses\nperingatan dan pembekuan izin, dalam hal pemegang izin yang\nbersangkutan terbukti:\na. melakukan kegiatan yang membahayakan keamanan negara;\nb. memperoleh izin kegiatan angkutan udara dengan cara tidak sah.\nPRESIDEN\nREPUBLIK INDONESIA\nBAB V…\nBAB V\nTARIF"
+   }
+  },
+  {
+   "id": "ID-H739-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 33\n(1) Tarif angkutan udara niaga berjadwal terdiri atas :\na. tarif penumpang; dan\nb. tarif kargo.\n(2) Tarif penumpang sebagaimana dimaksud dalam ayat (1) huruf a,\nterdiri atas :\na. tarif penumpang angkutan udara niaga berjadwal dalam\nnegeri;\nb. tarif penumpang angkutan udara niaga berjadwal luar negeri;\ndan\nc. tarif penumpang angkutan udara perintis.\n(3) Tarif angkutan kargo sebagaimana dimaksud dalam ayat (1)\nhuruf b, terdiri atas :\na. tarif kargo angkutan niaga berjadwal dalam negeri;\nb. tarif kargo angkutan niaga berjadwal luar negeri; dan\nc. tarif kargo angkutan udara perintis."
+   }
+  },
+  {
+   "id": "ID-H739-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 34\n(1) Golongan tarif penumpang angkutan udara niaga berjadwal\nPRESIDEN\nREPUBLIK INDONESIA\ndalam negeri sebagaimana dimaksud dalam Pasal 33 ayat (2)\nhuruf a, terdiri atas;\na. tarif...\na. tarif pelayanan ekonomi, yang berorientasi pada kepentingan\ndan kemampuan masyarakat luas;\nb. tarif pelayanan non ekonomi, yang berorientasi pada\nkelangsungan dan pengembangan usaha angkutan.\n(2) Menteri menetapkan kriteria pelayanan dan besarnya\nperimbangan kapasitas tempat duduk dalam pesawat udara untuk\npelayanan ekonomi dan non ekonomi, dengan\nmempertimbangkan :\na. kelangsungan usaha perusahaan angkutan udara berjadwal;\nb. peningkatan mutu pelayanan;\nc. pengembangan usaha angkutan udara niaga berjadwal yang\nlebih luas."
+   }
+  },
+  {
+   "id": "ID-H739-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 35\n(1) Struktur tarif pelayanan ekonomi sebagaimana dimaksud dalam\nPasal 34 ayat (1) huruf a, terdiri atas tarif dasar dan tarif jarak.\n(2) Struktur tarif pelayanan non ekonomi sebagaimana dimaksud\ndalam Pasal 34 ayat (1) huruf b, terdiri atas tarif pelayanan\nekonomi sebagaimana dimaksud dalam ayat (1) dan tarif\npelayanan tambahan.\n(3) Ketentuan lebih lanjut mengenai struktur tarif sebagaimana\ndimaksud dalam ayat (1) dan ayat (2), diatur oleh Menteri.\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H739-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36…"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 36\n(1) Tarif pelayanan ekonomi sebagaimana dimaksud dalam Pasal 35,\nditetapkan oleh Menteri.\n(2) Tarif Pelayanan tambahan sebagaimana dimaksud dalam Pasal 35\nayat (2), ditetapkan oleh penyedia jasa angkutan."
+   }
+  },
+  {
+   "id": "ID-H739-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 37\n(1) Tarif penumpang angkutan udara perintis sebagaimana dimaksud\ndalam Pasal 33 ayat (2) huruf c, ditetapkan dengan\nmemperhatikan kemampuan daya beli masyarakat pada daerah\nyang bersangkutan.\n(2) Struktur tarif penumpang dan kargo angkutan udara perintis\nterdiri atas tarif dasar dan tarif jarak.\n(3) Tarif penumpang dan kargo sebagaim ana dimaksud dalam ayat\n(2), ditetapkan oleh Menteri.\n(4) Ketentuan lebih lanjut mengenai struktur tarif sebagaimana\ndimaksud dalam ayat (2), diatur oleh Menteri."
+   }
+  },
+  {
+   "id": "ID-H739-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 38\n(1) Golongan tarif penumpang angkutan udara niaga berjadwal luar\nnegeri terdiri atas tarif pelayanan ekonomi dan tarif pelayanan\nPRESIDEN\nREPUBLIK INDONESIA\nnon ekonomi.\n(2) Tarif...\n(2) Tarif penumpang dan kargo angkutan udara niaga berjadwal luar\nnegeri ditetapkan dengan berpedoman pada ketentuan dalam\nperjanjian bilateral atau multilateral dan kesepakatan para pihak\nyang telah mendapat persetujuan Menteri."
+   }
+  },
+  {
+   "id": "ID-H739-A39",
+   "no": 39,
+   "noLabel": {
+    "id": "Pasal 39"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 39\nTarif kargo angkutan udara berjadwal dalam negeri dan tarif angkutan\nudara tidak berjadwal ditentukan berdasarkan kes epakatan antara\npengguna jasa dan penyedia jasa angkutan.\nBAB VI\nWAJIB ANGKUT"
+   }
+  },
+  {
+   "id": "ID-H739-A40",
+   "no": 40,
+   "noLabel": {
+    "id": "Pasal 40"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 40\nPerusahaan angkutan udara niaga wajib memberikan pelayanan yang\nlayak terhadap setiap calon pengguna jasa angkutan udara."
+   }
+  },
+  {
+   "id": "ID-H739-A41",
+   "no": 41,
+   "noLabel": {
+    "id": "Pasal 41"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 41\n(1) Perusahaan udara niaga wajib mengutamakan pengangkutan\ncalon penumpang atau barang yang pemiliknya telah\nmelaksanakan kewajibannya sesuai perjanjian pengangkutan\nPRESIDEN\nREPUBLIK INDONESIA\nyang disepakati.\n(2) Dalam...\n(2) Dalam hal terjadi keterlambatan atau penundaan dalam\npengangkutan karena kesalahan pengangkut, perusahaan\nangkutan wajib memberikan pelayanan yang layak kepada\npenumpang atau memberikan ganti rugi atas kerugian yang\nsecara nyata dialami oleh penumpang atau pemilik barang.\nBAB VII\nTANGGUNG JAWAB PENGANGKUT"
+   }
+  },
+  {
+   "id": "ID-H739-A42",
+   "no": 42,
+   "noLabel": {
+    "id": "Pasal 42"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 42\nPerusahaan angkutan udara yang melakukan kegiatan angkutan udara\nniaga berjadwal bertanggung jawab atas :\na. kematian atau lukanya penumpang yang diangkut;\nb. musnah, hilang atau rusaknya barang yang diangkut;\nc. keterlambatan angkutan penumpang dan/atau barang yang\ndiangkut apabila terbukti hal tersebut merupakan kesalahan\npengangkut."
+   }
+  },
+  {
+   "id": "ID-H739-A43",
+   "no": 43,
+   "noLabel": {
+    "id": "Pasal 43"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 43\n(1) Santunan untuk penumpang yang meninggal dunia karena\nPRESIDEN\nREPUBLIK INDONESIA\nkecelakaan pesawat udara ditetapkan sebesar Rp 40.000.000,00\n(empat puluh juta rupiah).\n(2) Santunan...\n(2) Santunan untuk penumpang yang menderita luka karena\nkecelakaan pesawat udara atau sesuatu pe ristiwa di dalam\npesawat udara atau selama waktu antara embarkasi dan debarkasi\nberlangsung, ditetapkan sampai dengan setinggi -tingginya Rp\n40.000.000,00 (empat puluh juta rupiah).\n(3) Santunan ganti rugi bagi penumpang yang menderita cacat tetap\nkarena kecelakaan pesawat udara ditetapkan berdasarkan tingkat\ncacat t etap yang dialami sampai dengan setinggi-tingginya Rp\n50.000.000,00 (lima puluh juta rupiah).\n(4) Ganti rugi untuk kelambatan yang dialami oleh penumpang\nkarena kesalahan pengangkut hanya diberika n untuk kerugian\nyang secara nyata diderita oleh calon penumpang, sampai dengan\nsetinggi-tingginya Rp. 1.000.000,00 (satu juta rupiah) .\n(5) Ketentuan lebih lanjut mengenai tingkat cacat tetap serta\nbesarnya santunan ganti rugi untuk masing -masing tingkat cacat\ntetap sebagaimana dimaksud dalam ayat (3), ditetapkan oleh\nMenteri."
+   }
+  },
+  {
+   "id": "ID-H739-A44",
+   "no": 44,
+   "noLabel": {
+    "id": "Pasal 44"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 44\n(1) Jumlah ganti rugi untuk kerugian bagasi tercatat, termasuk\nkerugian karena kelambatan dibatasi setinggi -tingginya Rp\nPRESIDEN\nREPUBLIK INDONESIA\n100.000,00 (seratus ribu rupiah) untuk setiap kilogram.\n(2) Jumlah ganti rugi untuk kerugian bagasi kabin karena kesalahan\npengangkut dibatasi setinggi -tingginya Rp 1.000.000,00 (satu\njuta rupiah) untuk setiap penumpang.\n(3) Jumlah...\n(3) Jumlah ganti rugi untuk kerugian kargo termasuk ke rugian\nkarena kelambatan karena kesalahan pengangkut dibatasi\nsetinggi-tingginya Rp 100.000,00 (seratus ribu rupiah) untuk\nsetiap kilogram.\n(4) Ganti rugi sebagaimana dimaksud dalam ayat (1), ayat (2) dan\nayat (3) hanya terhadap kerugian yang secara nyata dialami."
+   }
+  },
+  {
+   "id": "ID-H739-A45",
+   "no": 45,
+   "noLabel": {
+    "id": "Pasal 45"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 45\n(1) Setiap orang atau badan hukum yang mengoperasikan pesawat\nudara bertanggung jawab terhadap kerugian yang diderita oleh\npihak ketiga yang diakibatkan oleh pengoperasian pesawat udara\natau kecelakaan pesawat udara atau jatuhnya benda -benda lain\ndari pesawat udara yang dioperasikan.\n(2) Santunan untuk pihak ketiga yang meninggal dunia sebagai\nakibat dari peristiwa sebagaimana dimaksud dalam ayat (1),\nditetapkan sebesar Rp 40.000.000,00 (empat puluh juta rupiah).\n(3) Santunan untuk pihak ketiga yang menderita luka sebagai akibat\ndari peristiwa sebagaimana dimaksud dalam ayat (1), ditetapkan\nsampai dengan setinggi -tingginya Rp 40.000.000,00 (empat\npuluh juta rupiah).\nPRESIDEN\nREPUBLIK INDONESIA\n(4) Santunan ganti rugi bagi pihak ketiga yang menderita cacat tetap\nkarena kecelakaan pesawat udara ditetapkan berdasarkan tingkat\ncacat tetap yang dialami sampai dengan setinggi -tingginya Rp\n50.000.000,00 (lima puluh juta rupiah).\n(5) Ganti...\n(5) Ganti rugi untuk kerusakan barang milik pihak ketiga sebagai\nakibat dari per istiwa sebagaimana dimaksud dalam ayat (1),\nhanya terhadap kerugian yang secara nyata diderita berdasarkan\npenilaian yang layak.\n(6) Ketentuan lebih lanjut mengenai tingkat cacat tetap serta\nbesarnya santunan ganti rugi untuk masing -masing tingkat cacat\ntetap sebagaimana dimaksud dalam ayat (4), ditetapkan oleh\nMenteri.\nBAB VIII\nPELAYANAN UNTUK PENYANDANG CACAT\nDAN ORANG SAKIT"
+   }
+  },
+  {
+   "id": "ID-H739-A46",
+   "no": 46,
+   "noLabel": {
+    "id": "Pasal 46"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 46\n(1) Perusahaan angkutan udara niaga wajib menyediakan fasilitas\nyang diperlukan dan memberikan pelayanan khusus bagi\npenumpang penyandang cacat atau orang sakit.\n(2) Fasilitas dan pelayanan khusus sebagaimana dimaksud dalam\nayat (1), meliputi :\nPRESIDEN\nREPUBLIK INDONESIA\na. fasilitas kemudahan naik dan turun dari dan atau ke pesawat\nudara;\nb. penyediaan tempat untuk kursi roda di dalam pesawat udara;\nc. sarana bantu bagi orang sakit yang pengangkutannya\nmengharuskan dalam posisi tidur;\nd. pemberian prioritas tambahan tempat duduk."
+   }
+  },
+  {
+   "id": "ID-H739-A47",
+   "no": 47,
+   "noLabel": {
+    "id": "Pasal 47…"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 47\nPenambahan fasilitas dan pelayanan khusu s sebagaimana dimaksud\ndalam Pasal 46 ayat (2) dilakukan dengan mempertimbangkan aspek\nkeselamatan penerbangan dan kelaikan udara.\nBAB IX\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H739-A48",
+   "no": 48,
+   "noLabel": {
+    "id": "Pasal 48"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 48\nPada tanggal mulai berlakunya Peraturan Pemerintah ini, semua\nperaturan perundang -undangan yang lebih rendah dari Peraturan\nPemerintah yang mengatur ketentuan mengenai angkutan udara\ndinyatakan tetap berlaku, sepanjang tidak bertentangan atau belum\ndiganti dengan yang baru berdasarkan Peraturan Pemerintah ini.\nBAB X\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H739-A49",
+   "no": 49,
+   "noLabel": {
+    "id": "Pasal 49"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 49\nPRESIDEN\nREPUBLIK INDONESIA\nPeraturan Pemerintahan ini mulai berlaku sejak tanggal diundangkan.\nAgar…\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran\nNegara Republik Indonesia.\nDitetapkan di Jakarta\npada tanggal 17 Nopember 1995\nPRESIDEN REPUBLIK INDONESIA\nttd\nSOEHARTO\nDiundangkan di Jakarta\npada tanggal 17 Nopember 1995\nMENTERI NEGARA SEKRETARIS NEGARA\nREPUBLIK INDONESIA\nttd\nMOERDIONO\nPRESIDEN\nREPUBLIK INDONESIA\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1995 NOMOR 68\nPRESIDEN\nREPUBLIK INDONESIA\nPENJELASAN\nATAS\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nNOMOR 40 TAHUN 1995\nTENTANG\nANGKUTAN UDARA\nUMUM\nPeraturan Pemerintah tentang Angkutan Udara ini merupakan peraturan pelaksanaan\ndari Undang -undang Nomor 15 Tahun 1992 tentang Penerbangan yang dimaksudkan\nuntuk meningkatkan pembinaan dan penyelenggaraan angkutan udara sesuai dengan\nperkembangan kehidupan rakyat dan bangsa Indonesia, serta tuntutan perkembangan\nilmu pengetahuan dan teknologi.\nSebagai salah satu komponen sistem transportasi nasional, pada hakekatnya angkutan\nudara mempunyai peranan yang penting dalam menyediakan jasa pelayanan angkutan\ndi dalam negeri maupun di luar negeri, dan dalam rangka menghubungkan\ndaerah-daerah yang sulit dijangkau dengan moda angkutan lain secara cepat dan efisien\nuntuk jarak tertentu atau yang dikenal dengan angkutan udara perintis.\nDalam kedudukan dan peranan yan g demikian sudah selayaknya pemerintah\nmemberikan bimbingan dan pembinaan sehingga angkutan udara dapat\ndiselenggarakan secara selamat, aman, cepat, lancar, tertib, teratur, nyaman dan efisien\ndengan biaya yang wajar serta terjangkau oleh daya beli masyara kat, dan mampu\nberperan dalam rangka menunjang dan mendukung sektor -sektor pembangunan\nlainnya.\nKegiatan angkutan udara sipil meliputi angkutan udara niaga dan angkutan udara\nbukan niaga. Dalam Peraturan Pemerintah ini ditegaskan kembali bahwa kegiatan\nangkutan udara sipil di wilayah Indonesia hanya dilakukan oleh pesawat udara sipil\nberkebangsaan Indonesia.\nPengoperasian pesawat udara sipil asing dari dan ke atau melalui wilayah Republik\nIndonesia hanya dapat dilakukan berdasarkan perjanjian bilateral, m ultilateral atau izin\nkhusus Pemerintah.\nPRESIDEN\nREPUBLIK INDONESIA\nSalah…\nSalah satu bentuk pembinaan yang dilakukan Pemerintah dalam kegiatan angkutan\nudara adalah pengaturan perizinan yang dititik beratkan kepada jaminan keselamatan\ndan kualitas pelayanan angkutan penumpang, karg o, dan pos untuk angkutan udara\nniaga dan aspek keselamatan dalam pengoperasian untuk kegiatan angkutan udara\nbukan niaga serta upaya untuk menumbuhkan iklim usaha yang sehat.\nBagi usaha angkutan udara niaga diwajibkan memiliki izin usaha angkutan udara,\nsedangkan bagi angkutan bukan niaga, hanya diwajibkan memiliki izin kegiatan\nangkutan udara, karena izin usaha yang bersangkutan melekat pada izin usaha kegiatan\npokoknya.\nSelanjutnya dalam upaya menunjang kegiatan angkutan udara niaga d iatur pula\nketentuan mengenai kegiatan penunjang angkutan udara niaga yang merupakan satu\nkesatuan mata rantai dengan kegiatan angkutan udara yang antara satu sama lainnya\nsaling terkait dan mendukung dalam rangka mewujudkan kelancaran dan kelangsungan\npelayanan jasa angkutan udara. Demikian pula dalam rangka menjamin kelangsungan\nusaha di bidang angkutan udara serta kemampuan masyarakat pengguna jasa angkutan\nudara, dalam Peraturan Pemerintah ini diatur pula mengenai tarif penumpang yang\nmeliputi tarif pelayanan ekonomi dan non ekonomi serta tarif kargo.\nPASAL DEMI PASAL\nPasal 1\nAngka 1\nPengertian mengangkut penumpang, kargo dan pos adalah menyangkut\npenumpang saja, kargo saja, pos saja atau gabungan.\nAngka 2\nCukup Jelas\nAngka 3\nCukup Jelas\nAngka 4\nCukup Jelas\nPRESIDEN\nREPUBLIK INDONESIA\nAngka 5…\nAngka 5\nCukup Jelas\nAngka 6\nCukup Jelas\nAngka 7\nCukup Jelas\nPasal 2\nCukup jelas\nPasal 3\nAyat (1)\nYang termasuk dalam kegiatan \"penyelenggaraan tugas pemerintah\" antara\nlain penyelenggaraan angkutan udara untuk penanggulangan bencana alam\ndan angkutan udara untuk kegiatan transmigrasi.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nPasal 4\nCukup jelas\nPasal 5\nAyat (1)\nPenggunaan pesawat udara sipil untuk kegiatan angkutan udara niaga\nberjadwal luar negeri oleh perusahaan angkutan udara asing sebagaimana\ndimaksud dalam ketentuan ini tidak terikat pada ketentuan tentang tanda\nkebangsaan pesawat udara sebagaimana dimaksud dalam Pasal 2.\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (2)…\nAyat (2)\nYang dimaksud dengan \"selain untuk kegiatan angkutan udara niaga\nberjadwal luar negeri\" adalah kegiatan angkutan udara niaga tidak berjadwal\natau kegiatan angkutan udara untuk keperluan tertentu antara lain kegiatan\nkalibrasi, pameran, survei dan pemetaan, kegiatan pencarian dan\npertolongan (SAR).\nAyat (3)\nYang dimaksud dengan \"pemohon\" ialah pemilik, penyewa, kuasa, atau\nperwakilannya di Indonesia.\nAyat (4)\nCukup jelas\nPasal 6\nAyat (1)\nYang dimaksud dengan \"mengurus kepentingan di bidang operasi dan\nadministrasi\" antara lain meliputi :\na. mengurus perizinan yang berkaitan dengan kegiatannya;\nb. mengurus manajemen perkantoran dan keuangan;\nc. mengurus operasi penerbangan antara lain teknis pesawat dan handling\n(sebagai supervisi).\nAyat (2)\nYang dimaksud dengan agen dalam keputusan ini adalah kegiatan yang\ndilakukan oleh Badan Hukum Indonesia untuk mewakili kepentingan\nperusahaan angkutan udara asing dalam melaksanakan pemasaran dan\npenjualan jasa angkutan udara.\nKegiatan keagenan tersebut dalam dunia penerbangan dikenal dengan\nGeneral Sales Agent (GSA).\nAyat (3)\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 7…\nPasal 7\nAyat (1)\nDalam Undang-undang Nomor 15 Tahun 1992 tentang Penerbangan, yang\ndimaksud dengan pesawat udara negara adalah pesawat udara yang\ndipergunakan oleh Angkatan Bersenjata Republik Indonesia dan pesawat\nudara instansi Pemerintah tertentu yang diberi fungsi dan kewenangan untuk\nmenegakkan hukum sesuai dengan peraturan perundang -undangan yang\nberlaku.\nSehingga yang dimaksud dengan pesawat udara negara asing adalah pesawat\nudara negara yang dipergunakan oleh angkatan bersenjata negara asing dan\npesawat udara instansi pemerintah asing yang diberi fungsi dan kewenangan\nuntuk menegakkan hukum.\nAyat (2)\nCukup jelas\nPasal 8\nAyat (1)\nHuruf a\nCukup jelas\nHuruf b\nYang dimaksud dengan kegiatan angkutan udara bukan niaga adalah\nkegiatan angkutan udara yang dilaksanakan oleh Badan Hukum\nIndonesia, yang kegiatan pokoknya bukan usaha angkutan udara dan\nhanya untuk mendukung kegiatan pokok Badan Hukum tersebut atau\nperorangan.\nKegiatan angkutan udara bukan niaga dapat berupa :\na. angkutan udara untuk kegiatan keudaraan (aerial work) yaitu\nkegiatan yang menggunakan pesawat udara antara lain untuk\npenyemprotan, penyerbukan, pemotretan, survei, olah raga\nkeudaraan atau kegiatan lainnya;\nPRESIDEN\nREPUBLIK INDONESIA\nb. angkutan udara untuk kegiatan pendidikan a wak pesawat udara\nyaitu kegiatan yang menggunakan pesawat udara khusus untuk\nkepentingan pendidikan awak kokpit pesawat udara;\nc. angkutan…\nc. angkutan udara bukan niaga lainnya yang kegiatan pokoknya\nbukan usaha angkutan udara niaga.\nAyat (2)\nHuruf a\nCukup jelas\nHuruf b\nPada saat ditetapkannya Peraturan Pemerintah ini, angkutan udara\nniaga tidak berjadwal dalam negeri dan luar negeri dikenal dengan\nsebutan angkatan udara borongan.\nPasal 9\nAyat (1)\nKegiatan penunjang merupakan kegiatan yang secara langsung berhubungan\ndengan kegiatan angkutan udara niaga. Kegiatan penumpang angkutan\nudara niaga dapat berupa ekspedisi muatan pesawat udara (EMPU) atau Jasa\nPengurusan Transportasi (JPT).\nDalam hubungan dengan kegiatan angku tan udara niaga, peranan kegiatan\npenunjang angkutan udara niaga adalah sebagai pemilik barang. Sedangkan\nhubungan dengan pemilik barang yang sesungguhnya, peranan kegiatan\npenunjang angkutan udara niaga adalah mewakili kepentingan pemilik\nbarang sesuai dengan kesepakatan antara kedua belah pihak.\nAyat (2)\nCukup jelas\nPasal 10\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (3)…\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nPasal 11\nAyat (1)\nYang dimaksud dengan \"bandar udara yang berfungsi sebagai pusat\npenyebaran\" adalah bandar udara yang terletak di kota yang merupakan\npusat zona ekonomi, dengan jumlah penumpang cukup tinggi dan atau\nberfungsi untuk menyebarkan penumpang ke bandar udara lain.\nAyat (2)\nHuruf a\nYang dimaks ud dengan \"bandar udara yang berfungsi bukan sebagai\npusat penyebaran\" adalah bandar udara lainnya yang tidak termasuk\ndalam bandar udara yang berfungsi sebagai pusat penyebaran.\nHuruf b\nCukup jelas\nAyat (3)\nYang dimaksud dengan \"rute perintis\" a dalah rute yang menghubungkan\ndaerah terpencil dan pedalaman atau daerah yang sukar terhubungi oleh\nmoda transportasi lain, yang turut berfungsi dalam mendorong pertumbuhan\ndan pengembangan wilayah dalam rangka pemerataan pembangunan dan\nhasil-hasilnya, se rta mewujudkan stabilitas pertahanan dan keamanan\nnegara.\nAyat (4)\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 12…\nPasal 12\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nDalam menentukan permintaan jasa angkutan udara antara lain\ndipertimbangkan pengembangan pariwisata atau potensi ekonomi daerah.\nAyat (4)\nCukup jelas\nPasal 13\nAyat (1)\nHuruf a\nYang dimaksud dengan \"perkiraan faktor muatan yang layak\" adalah\nperkiraan sebagai hasil perhitungan yang dilakukan terhadap potensi\npermintaan jasa angkutan udara pada suatu daerah tertentu yang belum\ndihubungkan oleh transportasi melalui udara, dengan\nmempertimbangkan efisiensi dan efektifitas dibukanya rute baru\ntersebut.\nHuruf b\nYang dimaksud dengan \"yang memadai\" adalah memenuhi persyaratan\nminimal untuk dapat memenuhi kebutuhan pengoperasian pesawat\nudara yang meliputi aspek keselamatan penerbangan dan pelayanan\njasa bandar udara.\nAyat (2)\nHuruf a\nPRESIDEN\nREPUBLIK INDONESIA\nDengan berdasarkan kelayakan faktor muatan rata -rata dapat tetap\ndiwujudkan iklim usaha yang sehat.\nHuruf b…\nHuruf b\nCukup jelas\nPasal 14\nAyat (1)\nKetentuan ini dimaksudkan untuk memberikan informasi kepada masyarakat\nmengenai pembukaan rute -rute baru atau penambahan kapasitas angkutan\nudara pada rute -rute tersebut dengan tetap memperhatikan upaya untuk\nmewujudkan iklim usaha yang sehat.\nAyat (2)\nCukup jelas\nPasal 15\nCukup jelas\nPasal 16\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nPasal 17\nCukup jelas\nPasal 18\nAyat (1)\nPRESIDEN\nREPUBLIK INDONESIA\nCukup jelas\nAyat (2)…\nAyat (2)\nCukup jelas\nPasal 19\nCukup jelas\nPasal 20\nAyat (1)\nCukup jelas\nAyat (2)\nPenilaian sebagaimana dimaksud dalam ketentuan ini adalah dalam rangka\nmenjamin keselamatan penerbangan, kelangsungan usaha dan menciptakan\niklim usaha yang sehat di bidang angkutan udara niaga.\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nAyat (5)\nCukup jelas\nPasal 21\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 22…\nPasal 22\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 23\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nYang dimaksud dengan \"usaha perbaikan\" adalah usaha -usaha yang nyata\ndilakukan oleh pemegang izin untuk memperbaiki kesalahan-kesalahan yang\ndapat berkaitan dicabutnya izin usaha angkutan udara niaga.\nPasal 24\nHuruf a\nYang dimaksud dengan \"membahayakan keamanan negara\" antara lain\nmelakukan kegiatan mata -mata untuk kepentingan negara lain,\nmenyelundupkan senjata api atau bahan peledak.\nHuruf b\nYang dimaksud dengan \"cara tidak sah\" antara lain memberikan keterangan\nyang tidak benar pada waktu mengaju kan permohonan izin usaha angkutan\nPRESIDEN\nREPUBLIK INDONESIA\nudara atau memperoleh izin usaha angkutan udara tanpa melalui prosedur\nyang ditetapkan.\nPasal 25…\nPasal 25\nAyat (1)\nCukup jelas\nAyat (2)\nPenunjukan perusahaan angkutan udara niaga sebagaimana dimaksud dalam\nketentuan ini tidak mengurangi tanggung jawab Pemerintah untuk menjamin\nkelangsungan pelayanan angkutan udara perintis.\nAyat (3)\nCukup jelas\nPasal 26\nAyat (1)\nKompensasi dalam ketentuan ini dapat berupa antara lain pemberian rute\nlain di luar rute perin tis bagi perusahaan angkutan udara niaga berjadwal\ndengan mempertimbangkan kelayakan usaha yang bersangkutan dan\nbantuan biaya operasi atau kemudahan untuk mendapatkan bahan bakar di\nlokasi.\nAyat (2)\nCukup jelas\nPasal 27\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (3)\nCukup jelas\nPasal 28…\nPasal 28\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 29\nAyat (1)\nCukup jelas\nAyat (2)\nPenilaian sebagaimana dimaksud sebagaimana dimaksud dalam ketentuan\nini antara lain terhadap jaminan keselamatan penerbangan dan kebutuhan\nangkutan udara untuk menunjang kegiatan pokoknya.\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nAyat (5)\nCukup jelas\nPasal 30\nAyat (1)\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (2)\nCukup jelas\nPasal 31…\nPasal 31\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nYang dimaksud dengan \"usaha perbaikan\" adalah usaha -usaha yang nyata\ndilakukan oleh pegang izin untuk memperbaiki kesalahan -kesalahan yang\ndapat berakibat dicabutnya izin kegiatan angkutan udara.\nPasal 32\nHuruf a\nLihat penjelasan Pasal 24 huruf a.\nHuruf b\nYang dimaksud dengan \"cara tidak sah\" antara lain memberikan keterangan\nyang tidak benar pada waktu mengajukan permohonan izin kegiatan\nangkutan udara tanpa melalui prosedur yang ditetapkan.\nPasal 33\nAyat (1)\nYang dimaksud dengan \"tarif angkutan kargo\" termasuk tarif angkutan pos.\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nPasal 34…\nPasal 34\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 35\nAyat (1)\nTarif dasar adalah besaran tarif yang dinyatakan dengan besaran rupiah per\npenumpang kilometer.\nTarif jarak adalah tarif yang dibayar pemakai jasa atas dasar perkalian tarif\ndasar dengan jarak tempuh.\nAyat (2)\nTarif pelayanan tambahan adalah besaran tarif sesuai fasilitas dan tingkat\npelayanan yang diberikan.\nAyat (3)\nCukup jelas\nPasal 36\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 37\nAyat (1)\nCukup jelas\nAyat (2)…\nAyat (2)\nTarif dasar angkutan udara perintis adalah tarif per penumpang kilometer\nyang perhitungannya didasarkan dengan memperhatikan kemampuan daya\nbeli masyarakat pada daerah-daerah yang bersangkutan.\nTarif jarak adalah tarif yang dibayar pemakai jasa atas dasar perkalian tarif\ndasar dengan jarak tempuh.\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nPasal 38\nAyat (1)\nCukup jelas\nAyat (2)\nYang dimaksud dengan \"kesepakatan para pihak\" adalah kesepakatan antara\nperusahaan angkutan udara yang melayani rute yang bersangkutan.\nPasal 39\nCukup jelas\nPasal 40\nKetentuan ini dimaksudkan agar calon pengguna jasa angkutan udara niaga\nmemperoleh pel ayanan jasa angkutan sesuai dengan jenis jasa angkutan udara\nPRESIDEN\nREPUBLIK INDONESIA\nyang dikehendaki.\nPasal 41…\nPasal 41\nAyat (1)\nKetentuan ini dimaksudkan agar calon penumpang atau pemilik barang yang\ntelah lebih dahulu melaksanakan kewajibannya sesuai perjanjian\npengangkutan yang disepakati, mendapatkan prioritas utama untuk diangkut.\nAyat (2)\nYang dimaksud dengan memberikan pe layanan yang layak dalam ketentuan\nini adalah memberikan pelayanan dalam batas kelayakan sesuai kemampuan\npengangkut kepada penumpang selama menunggu keberangkatan antara lain\nberupa penyediaan tempat dan kosumsi secara layak selama menunggu\nkeberangkatan atau mengupayakan mengalihkan angkutan ke perusahaan\nangkutan udara niaga lainnya sesuai perjanjian pengangkutan yang\ndisepakati.\nPasal 42\nCukup jelas\nPasal 43\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (4)\nCukup jelas\nAyat (5)\nCukup jelas\nPasal 44…\nPasal 44\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nPasal 45\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (5)\nKetentuan ini dimaksud agar penetapan besaran jumlah ganti rugi\ndidasarkan kepada pendapat ahli di bidangnya.\nAyat (6)\nCukup jelas\nPasal 46…\nPasal 46\nAyat (1)\nKetentuan ini dimaksudkan agar penyandang cacat dan orang sakit\nmendapatkan pelayanan secara layak dalam hal yang bersangkutan\nmenggunakan jasa angkutan udara.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nPasal 47\nCukup jelas\nPasal 48\nCukup jelas\nPasal 49\nCukup jelas\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 3610"
+   }
+  }
+ ]
+}

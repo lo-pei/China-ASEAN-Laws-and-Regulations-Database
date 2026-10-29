@@ -1,0 +1,62 @@
+{
+ "id": "PH-H17443",
+ "title": {
+  "zh": null,
+  "en": "Authorizing Provincial, Chartered City and Municipal Governments to Grant Living Bonus for the Fiscal Year Ending June 30, 1948",
+  "orig": "Authorizing Provincial, Chartered City and Municipal Governments to Grant Living Bonus for the Fiscal Year Ending June 30, 1948"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p157",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1947-09-29",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Executive Order No. 92",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 668,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (HTML full text only)  |  https://lawphil.net/executive/execord/eo1947/eo_92_1947.html"
+ },
+ "sourceFile": "菲律宾/法律原文/07_行政命令_EO/EO_00092_1947_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 EO_00092_1947_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H17443-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Provincial, chartered city and municipal governments are hereby authorized to grant living bonus\nduring the fiscal year ending June 30, 1948, to their officers and employees not in excess of the schedule or\nrates fixed by the National Government for its officers and employees, if and when their financial condition\nshall permit payment thereof."
+   }
+  },
+  {
+   "id": "PH-H17443-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Order shall take effect as of July 1, 1947.\nDone at the City of Manila, this 29th day of September, in the year of Our Lord, nineteen hundred and\nforty-seven, and of the Independence of the Philippines, the second.\n(Sgd.) MANUEL ROXAS\nPresident of the Philippines\nBy the President:\nActing Chief of the Executive Office"
+   }
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "id": "PH-H12713",
+ "title": {
+  "zh": null,
+  "en": "An Act Appropriating the Sum of One Hundred thousand Pesos for the Maintenance, Betterment, and Repair of the Benguet Road During the Fiscal Years Nineteen Hundred and Ten and Nineteen Hundred and Eleven.",
+  "orig": "An Act Appropriating the Sum of One Hundred thousand Pesos for the Maintenance, Betterment, and Repair of the Benguet Road During the Fiscal Years Nineteen Hundred and Ten and Nineteen Hundred and Eleven."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1910-12-12",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2005",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 460,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1910/act_2005_1910.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02005_1910_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02005_1910_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12713-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The sum of one hundred thousand pesos, or so much thereof as may be necessary, is hereby\nappropriated, out of any funds in the Insular Treasury not otherwise appropriated, to be expended in the\ndiscretion of the Secretary of Commerce and Police for the maintenance, betterment, and repair of the\nBenguet Road during the fiscal years nineteen hundred and ten and nineteen hundred and eleven."
+   }
+  },
+  {
+   "id": "PH-H12713-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, December 12, 1910."
+   }
+  }
+ ]
+}

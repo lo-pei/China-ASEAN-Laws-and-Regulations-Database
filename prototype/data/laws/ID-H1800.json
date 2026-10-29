@@ -1,0 +1,257 @@
+{
+ "id": "ID-H1800",
+ "title": {
+  "zh": null,
+  "en": null,
+  "id": "PERSYARATAN DAN TATA CARA PEMBERIAN BANTUAN HUKUM SECARA CUMA-CUMA",
+  "orig": "PERSYARATAN DAN TATA CARA PEMBERIAN BANTUAN HUKUM SECARA CUMA-CUMA"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02b",
+ "language": "id",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "2008",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU18-2003",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 18,
+ "chars": 10250,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PP%20Nomor%2083%20Tahun%202008.pdf&fl=P17789"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\01_宪法与基础法\\印尼_文本_2008_PERSYARATAN DAN TATA CARA PEMBERIAN BANTUAN HUKUM SECARA CUMA-CUMA.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 22 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H1800-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\nAdvokat wajib memberikan Bantuan Hukum Secara\nCuma-Cuma kepada Pencari Keadilan."
+   }
+  },
+  {
+   "id": "ID-H1800-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\n(1) Bantuan Hukum Secara Cuma-Cuma sebagaimana\ndimaksud dalam Pasal 2 meliputi tindakan hukum\nuntuk kepentingan Pencari Keadilan di setiap tingkat\nproses peradilan.\n(2) Bantuan Hukum Secara Cuma-Cuma berlaku juga\nterhadap pemberian jasa hukum di luar pengadilan."
+   }
+  },
+  {
+   "id": "ID-H1800-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\n(1) Untuk memperoleh Bantuan Hukum Secara Cuma-\nCuma, Pencari Keadilan mengajukan permohonan\ntertulis yang ditujukan langsung kepada Advokat\natau melalui Organisasi Advokat atau melalui\nLembaga Bantuan Hukum.\n(2) Permohonan\nt]RESIDEN\nREPUBLIK INDONESIA\n(21 Permohonan sebagaimana dimaksud pada ayat (1)\nsekurang-kurangnya harus memuat:\na. nama, alamat, dan pekerjaan pemohon; dan\nb. uraian singkat mengenai pokok persoalan yang\ndimohonkan bantuan hukum.\n(3) Dalam permohonan sebagaimana dimaksud pada\nayat (2)', Pencari Keadilan harus melampirkan\nketerangan tidak mampu yang dibuat oleh pejabat\nyang berwenang."
+   }
+  },
+  {
+   "id": "ID-H1800-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\nPermohonan Bantuan Hukum Secara Cuma-Cuma dapat\ndiajukan bersama-sarna oleh beberapa Pencari Keadilan\nyang mempunyai kepentingan yang sama terhadap\npersoalan hukum yang bersangkutan."
+   }
+  },
+  {
+   "id": "ID-H1800-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\n(1) Dalam hal Pencari Keadilan tidak mampu menyusun\npermohonan tertulis, permohonan dapat diajukan\nsecara lisan.\n(2) Permohonan yang diajukan secara lisan dituangkan\ndalam bentuk tertulis yang ditandatangani oleh\npemohon dan Advokat atau petugas pada Organisasi\nAdvokat atau Lembaga Bantuan Hukum yang\nditugaskan untuk itu.\n(3) Permohonan bantuan hukum yang diajukan\nlangsung kepada Advokat, tembusan permohonan\ndisampaikan kepada Organisasi Advokat,"
+   }
+  },
+  {
+   "id": "ID-H1800-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\n(1) Advokat, Organisasi Advokat, atau Lembaga Bantuan\nHukum wajib menyampaikan jawaban terhadap\npermohonan kepada pemohon dalam waktu paling\nlama 3 (tiga) hari terhitung sejak permohonan\nditerima.\n(2) Dalam\nPRESIDEN\nREPUBLIK INDONESIA\n(21 Dalam hal kejelasan mengenai pokok persoalan yang\ndimintakan bantuan hukum belum jelas maka\nAdvokat, Organisasi Advokat, atau Lembaga Bantuan\nHukum dapat meminta keterangan tambahan\nkepada pemohon dalam waktu sebagaimana\ndimaksud pada ayat (1)."
+   }
+  },
+  {
+   "id": "ID-H1800-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n(1) Dalam hal permohonan diajukan kepada Organisasi\nAdvokat atau Lembaga Bantuan Hukum maka\nOrganisasi Advokat atau Lembaga Bantuan Hukum\ntersebut menetapkan Advokat yang ditugaskan\nuntuk memberikan Bantuan Hukum Secara Cuma-\nCuma.\n(2\\ Advokat yang ditugaskan sebagaimana dimaksud\npada ayat (1) namanya dicantumkan dalam jawaban\nterhadap permohonan sebagaimana dimaksud dalam\nPasal 7 ayat (1)."
+   }
+  },
+  {
+   "id": "ID-H1800-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n(1) Keputusan mengenai pemberian Bantuan Hukum\nSecara Cuma-Cuma ditetapkan secara tertulis\ndengan menunjuk nama Advokat.\n(2) Keputusan pemberian bantuan hukum sebagaimana\ndimaksud pada ayat (1) disampaikan kepada\npemohon dan instansi yang terkait dengan\npelaksanaan pemberian Bantuan Hukum Secara\nCuma-Cuma."
+   }
+  },
+  {
+   "id": "ID-H1800-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\nAdvokat dalam memberikan Bantuan Hukum Secara\nCuma-Cuma harus memberikan perlakuan yang sama\ndengan pemberian bantuan hukum yang dilakukan\ndengan pembayaran honorarium.\nPasal I 1\n(1) Pemberian Bantuan Hukum Secara Cuma-Cuma\ndilaksanakan sesuai dengan ketentuan peraturan\nperundang-undangan, Kode Etik Advokat, dan\nperaturan Organisasi Advokat.\n(2) Pelaksanaan\nPR ESIDE N\nREPUBLIK INDONESIA\n(2) Pelaksanaan pemberian Bantuan Hukum Secara\nCuma-Cuma dilaporkan oleh Advokat kepada\nOrganisasi Advokat atau Lembaga Bantuan Hukum."
+   }
+  },
+  {
+   "id": "ID-H1800-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n(1) Advokat dilarang menolak permohonan Bantuan\nHukum Secara Cuma-Cuma.\n(2) Dalam hal terjadi penolakan permohonan pemberian\nbantuan hukum sebagaimana dimaksud pada ayat\n(1), pemohon dapat mengajukan keberatan kepada\nOrganisasi Advokat atau Lembaga Bantuan Hukum\nyang bersangkutan."
+   }
+  },
+  {
+   "id": "ID-H1800-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\nAdvokat dalam memberikan Bantuan Hukum Secara\nCuma-Cuma dilarang menerima atau meminta pemberian\ndalam bentuk apapun dari Pencari Keadilan."
+   }
+  },
+  {
+   "id": "ID-H1800-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\n(1) Advokat yang melanggar ketentuan\ndimaksud dalam Pasal 12 dan pasal\nsanksi oleh Organisasi Advokat.\n(2) Sanksi sebagaimana dimaksud pada ayat (1) dapat\nberupa:\na. teguran lisan;\nb. teguran tertulis;\nc. pemberhentian sementara dari profesinya selama\n3 (tiga) sampai dengan 12 (dua belas) bulan\nberturut-turut; atau\nd. pemberhentian tetap dari profesinya.\n(3) sebelum Advokat dikenai tindakan sebagaimana\ndimaksud pada ayat (1), kepada yang bersangkutan\ndiberikan kesempatan untuk melakukan pembelaan\ndiri.\n(41 Ketentuan mengenai tata cara pembelaan diri dan\npenjatuhan sanksi sebagaimana dimaksud pada ayat\n(1) dilakukan sesuai dengan ketentuan yang berlaku\ndalam Organisasi Advokat.\nsebagaimana\n13 dijatuhi"
+   }
+  },
+  {
+   "id": "ID-H1800-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\n(1) Organisasi Advokat mengembangkan program\nBantuan Hukum Secara Cuma-Cuma dapat bekerja\nsama dengan Lembaga Bantuan Hukum.\n(2) Untuk melaksanakan program sebagaimana\ndimaksud pada ayat (1) Organisasi Advokat\nmembentuk unit kerja yang secara khusus mengenai\nBantuan Hukum Secara Cuma-Cuma.\n(3) Ketentuan lebih lanjut mengenai susunan organisasi\ndan tata kerja unit kerja sebagaimana dimaksud\npada ayat (2) diatur dengan peraturan Organisasi\nAdvokat."
+   }
+  },
+  {
+   "id": "ID-H1800-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\nDalam hal Organisasi Advokat dan Lembaga Bantuan\nHukum belum memitiki unit kerja, penanganan\npermohonan dan pelaksanaan Bantuan Hukum Secara\nCuma-Cuma dilakukan oleh unit kerja lain yang\nditetapkan oleh Organisasi Advokat atau l,emtaga\nBantuan Hukum."
+   }
+  },
+  {
+   "id": "ID-H1800-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\nPada saat Peraturan Pemerintah ini mulai berlaku,\npemberian Bantuan Hukum Secara Cuma-Cuma yang\nsedang ditangani Advokat, dilaporkan kepada Organisasi\nAdvokat atau Lembaga Bantuan Hukum."
+   }
+  },
+  {
+   "id": "ID-H1800-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\nJJ-n1t kerja sebagaimana dimaksud dalam pasal 15 ayat(2) harus sudah ditetapkan dalam waktu paling lambai 6(enam) bulan sejak Peraturan pemerintah ini\ndiundangkan."
+   }
+  },
+  {
+   "id": "ID-H1800-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\nPeraturan Pemerintah ini mulai berlaku pada tanggal\ndiundangkan.\nAgar\n,l\nPR ESIDE N\nREPUBLIK INDONESIA\nAgar setiap orang mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan\npenempatannya dalam Lembaran Negara Republik\nIndonesia.\nDitetapkan di Jakarta\npada tanggal 30 Desember 2008\nPRESIDEN REPUBLIK INDONESIA,\nDR. H. SUSILO BAMBANG YUDHOYONO\nDiundangkan di Jakarta\npada tanggal 31 Desember 2008\nMENTERI HUKUM DAN HAK ASASI MANUSIA\nREPUBLIK INDONESIA,\nANDI MATTALATTA\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2OO8 NOMOR 214\nSalinan sesuai dengan aslinYa\nSEKRETARIAT NEGARA RI\nKepala B turan Perundang-undan gan\nBid Kesejahteraan Rakyat,\nttd\nttd\nI\n{i\ni\nl<\n-.\\- r\n:it.l\nKi\nSetiawan\nPRESIDEN\nREPUBLIK INDONESIA\nPENJELASAN\nATAS\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nNOMOR 83 TAHUN 2OO8\nTENTANG\nPERSYARATAN DAN TATA CARA PEMBERIAN\nBANTUAN HUKUM SECARA CUMA-CUMA\nI. UMUM\nDalam usaha mewujudkan prinsip-prinsip negara hukum dalam\nkehidupan bermasyarakat dan bernegara, peran dan fungsi Advokatsebagai profesi yang bebas, mandiri, dan bertanggung jawab\nmerupakan hal yang penting, di samping instansi pen.gat hukumseperti hakim, penuntut umum, dan penyidik."
+   }
+  },
+  {
+   "id": "ID-H1800-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22 aya! (1) Undang-Undang Nomor 1g"
+   },
+   "chapter": {},
+   "heading": {
+    "id": "aya! (1) Undang-Undang Nomor 1g rahun 2003 tentangAdvokat menegaskan bahwa Advokat wajib memberikan bantuanhukum seca.ra cuma-cuma kepada pencari keadilan yang tidakmampu. Pemberian bantuan hukum secara cuma-cuma oleh Advokatbukan merupakan belas kasihan, tetapi lebih kepada penghargaan"
+   },
+   "text": {
+    "id": "Pasal 22 aya! (1) Undang-Undang Nomor 1g rahun 2003 tentangAdvokat menegaskan bahwa Advokat wajib memberikan bantuanhukum seca.ra cuma-cuma kepada pencari keadilan yang tidakmampu. Pemberian bantuan hukum secara cuma-cuma oleh Advokatbukan merupakan belas kasihan, tetapi lebih kepada penghargaan\nterhadap hak asasi manusia dalam mewujud,kan keadilan dalammasyarakat.\nKewajiban memberikan bantuan hukum secara cuma-cuma oleh\nAdvokat tidak terlepas dari prinsip persamaan di hadapan hukum(iustice for all) dan hak setiap orang untuk didampingi Advokat tanpakecuali. Pemberian bantuan hukum secara cuma-cuma ini merupakanbentuk pengabdian Advokat dalam menjarankan profesinya sibagaisalah satu unsur sistem peradilan dan salah Latu pit\". dalimmenegakkan supremasi hukum dan hak asasi manusia. perkara yang\ndapat dimintakan bantuan hukum cuma-cuma dalam peraturan\nPemerintah ini meliputi perkara di bidang pidana, perdata, tata usaha\nnegara, dan pidana militer. Bantuarr hukum secara cuma-cuma\ndiberikan pula bagi perkara non litigasi (di luar pengadilan).\nDalam Peraturan Pemerintah ini diatur mengenai proses\npengajuan permohonan pemberian bantuan hukum secara crlma-cumayang diajukan oleh pemohon kepada Advokat, organisai Advokat, dan\nLembaga\nPRESIDEN\nREPUELIK INDONESIA\nLembaga Bantuan Hukum dengan persyaratan melampirkan suratketerangan tidak mampu yang dibuat oleh pejabat yang berwenang.\nDalam Peraturan Pemerintah ini diatur mengenai larangan atausanksi kepada Advokat yang menolak permohonan pemberian-bantuan\nhukum secara cuma-cuma, menerima atau memintl imbalan terhadappemberian bantuan hukum secara cuma-cuma. Sanksi tersebutmeliputi teguran lisan, teguran tertulis, pemberhentian sementara dariprofesinya selama 3 (tiga) sampai dengan 12 (dua belas) bulanberturut-turut, atau pemberhentian tetap dari profesinya.\nDalam Peraturan Pemerintah ini diatur mengenai pembentukan\nunit kerja yang secara khusus mengenai bantuan hukum secara cuma-cuma yang dibentuk oleh Organisasi Advokat.\nII. PASAL DEMI PASAL\nPasal 1\nCukup jelas.\nPasal 2\nDalam ketentuan ini yang dimaksud dengan \"Advokat\" meliputipula Advokat yang berada di Lembaga Bantuan Hukum.\nPasal 3\nCukup jelas.\nPasal 4\nAyat (1)\nCukup jelas.\nAyat (2)\nCukup jelas.\nAyat (3)\nYang dimaksud dengan \"pejabat yang berwenang,, adalah\nlurah atau kepala desa setempat yang memberikan surat\nketerangan tidak mampu yang diketahui oleh camat setempat.\nPasal 5\nDalam ketentuan ini yang dimaksud \"mempunyai kepentinganyang sama' dikenal dengan istilah gugatan perwakilan (class\nactionl.\nPasal 6\nPR E SIDE N\nREPUBLIK INDONESIA\nPasal 6\nAyat (1)\nYang dimaksud dengan \"tidak mampu\" adalah termasuk\npemohon yang tidak mampu baca tulis.\nAyat (2)\nCukup jelas.\nAyat (3)\nCukup jelas.\nPasal 7\nCukup jelas.\nPasal 8\nCukup jelas.\nPasal 9\nAyat (1)\nCukup jelas.\nAyat (2)\nYang dimaksud dengan \"instansi terkait,, adalah\nkelurahan/desa dan kecamatan tempat pemohon tinggal.\nPasal 10\nCukup jelas.\nPasal 1 1\nAyat (1)\nCukup jelas.\nAyat (2)\nLaporan pelaksanaan pemberian bantuan\ncuma-cuma dalam ketentuan ini antara\nmengenai lamanya penanganan pemberian\nkompleksitas penyelesaian kasus/ perkara.\nhukum secara\nlain memua[\nbantuan dan\nPasal 12\nCukup jelas\nPasal 13\nCukup jelas\nPasal 14\nPRESIDE N\nREPUBLIK INDONESIA\nPasal 14\nCukup jelas.\nPasal 15\nCukup jelas.\nPasal 16\nUnit kerja dalam ketentuan ini bersifat sementara\nPasal 17\nCukup jelas.\nPasal 18\nCukup jelas.\nPasal 19\nCukup jelas.\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 4955"
+   }
+  }
+ ]
+}

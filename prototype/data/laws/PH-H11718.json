@@ -1,0 +1,72 @@
+{
+ "id": "PH-H11718",
+ "title": {
+  "zh": null,
+  "en": "AN ACT PROVIDING FOR THE LOAN OF THREE THOUSAND PESOS, PHILIPPINE CURRENCY, IN MINOR COINS, TO THE PROVINCE OF ILOCOS SUR.",
+  "orig": "AN ACT PROVIDING FOR THE LOAN OF THREE THOUSAND PESOS, PHILIPPINE CURRENCY, IN MINOR COINS, TO THE PROVINCE OF ILOCOS SUR."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 1006",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1073,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_01006_1903_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_01006_1903_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H11718-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "There is hereby appropriated, out of any funds in the Insular Treasury not otherwise appropriated,\nthe sum of three thousand pesos. Philippine currency, in minor coins, to be loaned to the Province of Ilocos\nSur for the purpose of facilitating and securing an immediate circulation of minor Philippine coins in that\nprovince. The money so appropriated shall be paid to the treasurer of the Province of Ilocos Sur in minor\ncoins upon the production by him to the Treasurer of the Philippine Islands of a certified copy of a resolution\nof the provincial board of the Province, of Ilocos Sur accepting such loan and agreeing to repay the same,\nwithout interest, within the period of six months from date of the passage of this Act."
+   }
+  },
+  {
+   "id": "PH-H11718-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The public good requiring the speedy enactment of this bill, the passage of the same is hereby\nexpedited in accordance with section two of \"An Act prescribing the order of procedure by the Commission\nin the enactment of laws,\" passed September twenty-sixth, nineteen hundred."
+   }
+  },
+  {
+   "id": "PH-H11718-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, November 25, 1903."
+   }
+  }
+ ]
+}

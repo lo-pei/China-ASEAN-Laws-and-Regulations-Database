@@ -1,0 +1,62 @@
+{
+ "id": "PH-H14859",
+ "title": {
+  "zh": null,
+  "en": "An Act Declaring Valid and Subsisting Mining Locations Within Forest Reserves Made Prior to February Eighth, Nineteen Hundred and Thirty-Five.",
+  "orig": "An Act Declaring Valid and Subsisting Mining Locations Within Forest Reserves Made Prior to February Eighth, Nineteen Hundred and Thirty-Five."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1935-11-08",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 4268",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 804,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1935/act_4268_1935.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_04268_1935_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_04268_1935_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14859-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Any provision of existing law, executive order or proclamation to the contrary notwithstanding,\nall locations of mining claims made prior to February eighth, nineteen hundred and thirty-five, within lands\nset apart as forest reserves under section eighteen hundred and twenty-six of the Revised Administrative\nCode, which would be valid and subsisting locations except for the existence of said reserves, are hereby\ndeclared to be valid and subsisting locations as of the date of their respective locations."
+   }
+  },
+  {
+   "id": "PH-H14859-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval by the President of the United States, as provided in\nsection nine of the Act of Congress of August twenty-ninth, nineteen hundred and sixteen.1\nApproved, November 8, 1935.\n1 Declared in force by Proclamation No. 862 (1935). See Appendix, p. 339, post."
+   }
+  }
+ ]
+}

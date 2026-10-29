@@ -1,0 +1,62 @@
+{
+ "id": "PH-H15006",
+ "title": {
+  "zh": null,
+  "en": "Batas Pambansa Blg. 141  An Act Creating the Municipality of Banisilan in the Province of North Cotabato.",
+  "orig": "Batas Pambansa Blg. 141  An Act Creating the Municipality of Banisilan in the Province of North Cotabato."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1982-02-08",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Batasang Pambansa",
+ "docNumber": "Batas Pambansa Blg. 141",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1458,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/08_国民议会法令_BP/BP_00141_1982_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 BP_00141_1982_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H15006-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Subject to the approval of the majority of the votes cast in a plebiscite to be held in the areas\naffected, the barangays of Kalawang, Gastao, Paradise, Malinao, Camalig, Pinamulaan, Pantar, Busaon,\nTinimbacan, Nalagap, Salama and Banisilan of the Municipality of Carmen, Province of North Cotabato, are\nhereby separated from said municipality and constituted into a distinct and independent municipality in the\nsame province to be known as the Municipality of Banisilan, with its seat of government in the present site of\nBarangay Banisilan."
+   }
+  },
+  {
+   "id": "PH-H15006-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The Municipality of Banisilan shall be bounded as follows:\n\"The point of origin is the intersection of Malitubog River and Cotabato-Lanao del Sur province boundary,\npoint (1): thence following the Cotabato Lanao de Sur provincial boundary in an easterly direction to the\njunction of Kalawaeg and Maridagao Rivers, a common point boundary of Cotabato-Lanao del Sur and\nBukidnon provinces, point (2); thence southerly following the Maridagao river downstream to its junction\nwith Tumagak point (3), thence southwesterly in an imaginary straight line to the peak of Kitubod Range,\npoint (4); thence continue in the same direction in an imaginary straight line to the center of Malitubog River,\nthe common boundary of Carmen and Libungan municipalities, point (5); thence northerly following the\nupstream course of Malitubog River to its intersection with Cotabato Lanao del Sur provincial boundary, to\npoint of origin.\""
+   }
+  }
+ ]
+}

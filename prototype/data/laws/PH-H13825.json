@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13825",
+ "title": {
+  "zh": null,
+  "en": "An Act Granting the Manila Railroad Company of the Philippine Islands Authority to Establish a Telephone Line Between the Municipalities of Pamplona and Pasaeao, in the Province of Camarines Sur",
+  "orig": "An Act Granting the Manila Railroad Company of the Philippine Islands Authority to Establish a Telephone Line Between the Municipalities of Pamplona and Pasaeao, in the Province of Camarines Sur"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1924-11-29",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3190",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1139,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1924/act_3190_1924.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03190_1924_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03190_1924_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13825-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "There is hereby granted for a period of fifty years from and after the date of the approval of this\nAct to the Manila Railroad Company of the Philippine Islands, its successors or assigns, the right and\nprivilege to construct, maintain, and operate a telephone system for the exclusive use of said Manila Railroad\nCompany of the Philippine Islands in its business between the municipalities of Pamplona and Pasaeao, in the\nProvince of Camarines Sur, and for the purpose of operating said telephone system, to construct, maintain,\nand operate and use all apparatus, conduits, and appliances necessary for the electrical transmission of\nmessages and signals, to erect poles, string wires, build conduits, lay cables, and to construct, maintain, and\nuse such other approved and generally accepted means of electrical conduction in, on, over, or under the\npublic roads, highways, lands, bridges, streets, lanes, alleys, avenues, and sidewalks of said municipalities as\nmay be necessary and best adapted to the transmission of messages and signals by means of electricity."
+   }
+  },
+  {
+   "id": "PH-H13825-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, November 29, 1924."
+   }
+  }
+ ]
+}

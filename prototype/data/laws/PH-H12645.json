@@ -1,0 +1,62 @@
+{
+ "id": "PH-H12645",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Subsection Five of Section One Hundred and Forty-Four of Act Numbered Eleven Hundred and Eighty-Nine, Entitled \"the Internal Revenue Law of Nineteen Hundred and Four,\" as Amended, By Fixing the License Tax for Proprietors of theaters Located Outside of the City of Manila.",
+  "orig": "An Act to Amend Subsection Five of Section One Hundred and Forty-Four of Act Numbered Eleven Hundred and Eighty-Nine, Entitled \"the Internal Revenue Law of Nineteen Hundred and Four,\" as Amended, By Fixing the License Tax for Proprietors of theaters Located Outside of the City of Manila."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1909-05-20",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 1936",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 569,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1909/act_1936_1909.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_01936_1909_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_01936_1909_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12645-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Subsection five of section one hundred and forty-four oF Act Numbered Eleven hundred and\neighty-nine, entitled \"The Internal Revenue Law of Nineteen hundred and four,\" as amended, is hereby further\namended by adding at the end thereof the following words :\n\"Provided further, That every proprietor of a theater located in any place except the city of Manila shall pay\nthe sum of one hundred pesos, and that a license tax for the period of one month may be paid at the rate of ten"
+   }
+  },
+  {
+   "id": "PH-H12645-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on July first, nineteen hundred and nine\nEnacted, May 20, 1909."
+   }
+  }
+ ]
+}

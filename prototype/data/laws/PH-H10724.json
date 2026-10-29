@@ -1,0 +1,72 @@
+{
+ "id": "PH-H10724",
+ "title": {
+  "zh": null,
+  "en": "AN ACT APPROPRIATING SUNDRY SUMS TO PAY THE EXPENSES OF THE DEPARTMENT OF EDUCATION INCURRED PRIOR TO THE FIRST OF SEPTEMBER.",
+  "orig": "AN ACT APPROPRIATING SUNDRY SUMS TO PAY THE EXPENSES OF THE DEPARTMENT OF EDUCATION INCURRED PRIOR TO THE FIRST OF SEPTEMBER."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 11",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 647,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_00011_1900_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_00011_1900_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H10724-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The sum of four hundred and fifty-six dollars and twelve cents in money of the United States is\nhereby appropriated, out of any money in the Insular Treasury, not otherwise appropriated, to be paid to the\nfollowing persons, for supplies furnished or services rendered the Department of Education:\nE. C. McCullough $47.89\nBazar de Velasco 175.00\nCunningham, Curtis & Welch 74.48\nPayot, Upham & Co. 107.12\nLucy H. Willis 51.63"
+   }
+  },
+  {
+   "id": "PH-H10724-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The Military Governor is authorized and directed to draw his warrants in favor of the persons\nnamed in the preceding Treasurer is directed to pay the same."
+   }
+  },
+  {
+   "id": "PH-H10724-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, October 3, 1900."
+   }
+  }
+ ]
+}

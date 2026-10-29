@@ -1,0 +1,72 @@
+{
+ "id": "PH-H21313",
+ "title": {
+  "zh": null,
+  "en": "Increasing Medicare Allowances",
+  "orig": "Increasing Medicare Allowances"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p159",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1984-05-01",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Executive Order No. 949",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1209,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/07_行政命令_EO/EO_00949_1984_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 EO_00949_1984_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H21313-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Sec 1"
+   },
+   "text": {
+    "en": "The qualified members of the medicare program shall without any additional contribution, be entitled\nto the following allowances:\nTYPE OF BENEFIT\nAllowances for Members\n1. Room and Board\n1.1 Primary Care Hospitals\n1.2 Secondary Care Hospitals\n1.3 Tertiary Care Hospitals\n2. Drugs/Laboratory Examination\n2.1 For Ordinary Cases\n2.2 For Cases Requiring Intensive Care\n3. Surgeon's Fees\n3.1 Minor Surgery\n3.2 Medium Surgery\n3.3 Major Surgery\n\n4. Operating Room Fee\n4.1 Minor Surgery\n4.2 Medium Surgery\n4.3 Major Surgery\n5. Anesthesiologist's Fee\n30% of surgeon's fee\n6. Medical/Dental Practitioner's Fee\n6.1 For Ordinary Cases\n6.2 For Cases Requiring Intensive Care Maximum\n7. Allowance for Sterilization\n7.2 Tubaligation"
+   }
+  },
+  {
+   "id": "PH-H21313-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Sec 2"
+   },
+   "text": {
+    "en": "The legal dependents of Medicare members shall continue to be entitled to the allowance presently\nprescribed in Section 12 of Presidential Decree No. 1519."
+   }
+  },
+  {
+   "id": "PH-H21313-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Sec 3"
+   },
+   "text": {
+    "en": "Presidential Decree No. 1519 and all laws, executive orders or parts thereof which are inconsistent\nwith the provisions of this order are hereby repealed or modified accordingly.\nThis Executive Order shall take effect immediately.\nDone in the City of Manila, this 1st day of May, in the year of Our Lord nineteen hundred and eighty four."
+   }
+  }
+ ]
+}

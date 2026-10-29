@@ -1,0 +1,532 @@
+{
+ "id": "VN-H307",
+ "title": {
+  "zh": "婚姻家庭法",
+  "en": "Law on marriage and family",
+  "vi": "Luật Hôn nhân và gia đình",
+  "orig": "Luật Hôn nhân và gia đình số Không số",
+  "th": "พระราชบัญญัติการสมรสและครอบครัว",
+  "id": "Undang-Undang Perkawinan dan Keluarga",
+  "ms": "Akta Perkahwinan dan Keluarga"
+ },
+ "country": "VN",
+ "countryName": "越南",
+ "layer": "intl",
+ "pack": "vn-p06",
+ "language": "vi",
+ "level": "law",
+ "category": "02_民商事与经济法",
+ "status": "active",
+ "promulgatedDate": "1959",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "国会",
+ "docNumber": "Không số",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 35,
+ "chars": 8735,
+ "source": {
+  "name": "越南法律数据库（vbpl.vn 官方公报文本）",
+  "url": "https://vbpl.vn/van-ban/chi-tiet/luat-hon-nhan-va-gia-dinh-so-khong-so--887"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\VN\\02_民商事与经济法\\1959_Không số_Luật Hôn nhân và gia đình số Không số.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 35 条；逐字未改写（源自 VN）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "VN-H307-A1",
+   "no": 1,
+   "noLabel": {
+    "vi": "Điều 1"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 1\n\nNhà nước bảo đảm việc thực hiện đầy đủ chế độ hôn nhân tự do và tiến bộ, một vợ một chồng, nam nữ bình đẳng, bảo vệ quyền lợi của phụ nữ và con cái, nhằm xây dựng những gia đình hạnh phúc, dân chủ và hoà thuận, trong đó mọi người đoàn kết, thương yêu nhau, giúp đỡ nhau tiến bộ."
+   }
+  },
+  {
+   "id": "VN-H307-A2",
+   "no": 2,
+   "noLabel": {
+    "vi": "Điều 2"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 2\n\nXoá bỏ những tàn tích còn lại của chế độ hôn nhân phong kiến cưỡng ép, trọng nam khinh nữ, coi rẻ quyền lợi của con cái."
+   }
+  },
+  {
+   "id": "VN-H307-A3",
+   "no": 3,
+   "noLabel": {
+    "vi": "Điều 3"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 3\n\nCấm tảo hôn, cưỡng ép kết hôn, cản trở hôn nhân tự do, yêu sách của cải trong việc cưới hỏi, đánh đập hoặc ngược đãi vợ. Cấm lấy vợ lẽ.\n\nCHƯƠNG II\n\nKẾT HÔN"
+   }
+  },
+  {
+   "id": "VN-H307-A4",
+   "no": 4,
+   "noLabel": {
+    "vi": "Điều 4"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 4\n\nCon trai và con gái đến tuổi, được hoàn toàn tự nguyện quyết định việc kết hôn của mình; không bên nào được ép buộc bên nào, không một ai được cưỡng ép hoặc cản trở."
+   }
+  },
+  {
+   "id": "VN-H307-A5",
+   "no": 5,
+   "noLabel": {
+    "vi": "Điều 5"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 5\n\nCấm người đang có vợ, có chồng kết hôn với người khác."
+   }
+  },
+  {
+   "id": "VN-H307-A6",
+   "no": 6,
+   "noLabel": {
+    "vi": "Điều 6"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 6\n\nCon gái từ 18 tuổi trở lên, con trai từ 20 tuổi trở lên mới được kết hôn."
+   }
+  },
+  {
+   "id": "VN-H307-A7",
+   "no": 7,
+   "noLabel": {
+    "vi": "Điều 7"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 7\n\nViệc để tang không cản trở việc kết hôn."
+   }
+  },
+  {
+   "id": "VN-H307-A8",
+   "no": 8,
+   "noLabel": {
+    "vi": "Điều 8"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 8\n\nĐàn bà goá có quyền tái giá; khi tái giá, quyền lợi của người đàn bà goá về con cái và tài sản được bảo đảm."
+   }
+  },
+  {
+   "id": "VN-H307-A9",
+   "no": 9,
+   "noLabel": {
+    "vi": "Điều 9"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 9\n\nCấm kết hôn giữa những người cùng dòng máu về trực hệ; giữa cha mẹ nuôi và con nuôi.\n\nCấm kết hôn giữa anh chị em ruột, anh chị em cùng cha khác mẹ hoặc cùng mẹ khác cha. Đối với những người khác có họ trong phạm vi năm đời hoặc có quan hệ thích thuộc về trực hệ, thì việc kết hôn sẽ giải quyết theo phong tục tập quán."
+   }
+  },
+  {
+   "id": "VN-H307-A10",
+   "no": 10,
+   "noLabel": {
+    "vi": "Điều 10"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 10\n\nNhững người sau đây không được kết hôn: bất lực hoàn toàn về sinh lý; mắc một trong các bệnh hủi, hoa liễu, loạn óc, mà chưa chữa khỏi."
+   }
+  },
+  {
+   "id": "VN-H307-A11",
+   "no": 11,
+   "noLabel": {
+    "vi": "Điều 11"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 11\n\nViệc kết hôn phải được Uỷ ban hành chính cơ sở nơi trú quán của bên người con trai hoặc bên người con gái công nhận và ghi vào sổ kết hôn.\n\nMọi nghi thức kết hôn khác đều không có giá trị về mặt pháp luật.\n\nCHƯƠNG III\n\nNGHĨA VỤ VÀ QUYỀN LỢI CỦA VỢ CHỒNG"
+   }
+  },
+  {
+   "id": "VN-H307-A12",
+   "no": 12,
+   "noLabel": {
+    "vi": "Điều 12"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 12\n\nTrong gia đình, vợ chồng đều bình đẳng về mọi mặt."
+   }
+  },
+  {
+   "id": "VN-H307-A13",
+   "no": 13,
+   "noLabel": {
+    "vi": "Điều 13"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 13\n\nVợ chồng có nghĩa vụ thương yêu, quý trọng, săn sóc nhau, giúp đỡ nhau tiến bộ, nuôi dạy con cái, lao động sản xuất, xây dựng gia đình hoà thuận, hành phúc."
+   }
+  },
+  {
+   "id": "VN-H307-A14",
+   "no": 14,
+   "noLabel": {
+    "vi": "Điều 14"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 14\n\nVợ và chồng đều có quyền tự do chọn nghề nghiệp, tự do hoạt động chính trị, văn hoá và xã hội."
+   }
+  },
+  {
+   "id": "VN-H307-A15",
+   "no": 15,
+   "noLabel": {
+    "vi": "Điều 15"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 15\n\nVợ và chồng đều có quyền sở hữu, hưởng thụ và sử dụng ngang nhau đối với tài sản có trước và sau khi cưới."
+   }
+  },
+  {
+   "id": "VN-H307-A16",
+   "no": 16,
+   "noLabel": {
+    "vi": "Điều 16"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 16\n\nKhi một bên chết trước, nếu tài sản của vợ chồng cần chia, thì chia như quy định ở Điều 29.\n\nVợ và chồng đều có quyền thừa kế tài sản của nhau.\n\nCHƯƠNG IV\n\nQUAN HỆ GIỮA CHA MẸ VÀ CON CÁI"
+   }
+  },
+  {
+   "id": "VN-H307-A17",
+   "no": 17,
+   "noLabel": {
+    "vi": "Điều 17"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 17\n\nCha mẹ có nghĩa vụ thương yêu, nuôi nấng, giáo dục con cái.\n\nCon cái có nghĩa vụ kính yêu, săn sóc, nuôi dưỡng cha mẹ."
+   }
+  },
+  {
+   "id": "VN-H307-A18",
+   "no": 18,
+   "noLabel": {
+    "vi": "Điều 18"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 18\n\nCha mẹ không được hành hạ con cái, không được đối xử tàn tệ với con dâu, con nuôi, con riêng.\n\nNghiêm cấm việc vứt bỏ hoặc giết hại trẻ con mới đẻ. Người vứt bỏ hoặc giết hại trẻ con mới đẻ và người gây ra những việc ấy phải chịu trách nhiệm về hình sự."
+   }
+  },
+  {
+   "id": "VN-H307-A19",
+   "no": 19,
+   "noLabel": {
+    "vi": "Điều 19"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 19\n\nCon trai và con gái có quyền lợi và nghĩa vụ ngang nhau trong gia đình."
+   }
+  },
+  {
+   "id": "VN-H307-A20",
+   "no": 20,
+   "noLabel": {
+    "vi": "Điều 20"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 20\n\nCon đã thành niên còn ở chung với cha mẹ được tự do chọn nghề nghiệp, hoạt động chính trị và xã hội và có của riêng, đồng thời có nghĩa vụ chăm lo đời sống chung của gia đình."
+   }
+  },
+  {
+   "id": "VN-H307-A21",
+   "no": 21,
+   "noLabel": {
+    "vi": "Điều 21"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 21\n\nCha hoặc mẹ nhận con ngoài giá thú phải khai trước Uỷ ban hành chính cơ sở. Nếu có tranh chấp, Toà án nhân dân sẽ quyết định."
+   }
+  },
+  {
+   "id": "VN-H307-A22",
+   "no": 22,
+   "noLabel": {
+    "vi": "Điều 22"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 22\n\nNgười con ngoài giá thú được xin nhận cha hoặc mẹ trước Toà án nhân dân.\n\nNgười mẹ cũng có quyền xin nhận cha thay cho đứa trẻ chưa thành niên.\n\nNgười thay mặt cũng có quyền xin nhận cha hoặc mẹ thay cho đưa trẻ chưa thành niên."
+   }
+  },
+  {
+   "id": "VN-H307-A23",
+   "no": 23,
+   "noLabel": {
+    "vi": "Điều 23"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 23\n\nCon ngoài giá thú được cha, mẹ nhận hoặc được Toà án nhân dân cho nhận cha, mẹ, có quyền lợi và nghĩa vụ như con chính thức."
+   }
+  },
+  {
+   "id": "VN-H307-A24",
+   "no": 24,
+   "noLabel": {
+    "vi": "Điều 24"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 24\n\nCon nuôi có quyền lợi và nghĩa vụ như con đẻ.\n\nViệc nhận nuôi con nuôi phải được Uỷ ban hành chính cơ sở nơi trú quán của người nuôi hoặc của đứa trẻ công nhận và ghi vào sổ hộ tịch.\n\nToà án nhân dân có thể huỷ bỏ việc công nhận ấy, khi bản thân người con nuôi hoặc bất cứ người nào, tổ chức nào yêu cầu, vì lợi ích của người con nuôi.\n\nCHƯƠNG V\n\nLY HÔN"
+   }
+  },
+  {
+   "id": "VN-H307-A25",
+   "no": 25,
+   "noLabel": {
+    "vi": "Điều 25"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 25\n\nKhi hai bên vợ chồng xin thuận tình ly hôn, thì sau khi điều tra, nếu xét đúng là hai bên tự nguyện xin lý hôn, Toà án nhân dân sẽ công nhận việc thuận tình ly hôn."
+   }
+  },
+  {
+   "id": "VN-H307-A26",
+   "no": 26,
+   "noLabel": {
+    "vi": "Điều 26"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 26\n\nKhi một bên vợ hoặc chồng xin ly hôn, cơ quan có thẩm quyền sẽ điều tra và hoà giải. Hoà giải không được, Toà án nhân dân sẽ xét xử. Nếu tình trạng trầm trọng, đời sống chung không thể kéo dài, mục đích của hôn nhân không đạt được, thì Toà án nhân dân sẽ cho ly hôn."
+   }
+  },
+  {
+   "id": "VN-H307-A27",
+   "no": 27,
+   "noLabel": {
+    "vi": "Điều 27"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 27\n\nTrong trường hợp người vợ có thai, chồng chỉ có thể xin ly hôn sau khi vợ đã sinh đẻ được một năm. Điều hạn chế này không áp dụng đối với việc xin ly hôn của người vợ."
+   }
+  },
+  {
+   "id": "VN-H307-A28",
+   "no": 28,
+   "noLabel": {
+    "vi": "Điều 28"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 28\n\nKhi ly hôn, cấm đòi trả của."
+   }
+  },
+  {
+   "id": "VN-H307-A29",
+   "no": 29,
+   "noLabel": {
+    "vi": "Điều 29"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 29\n\nKhi ly hôn, việc chia tài sản sẽ căn cứ vào sự đóng góp về công sức của mỗi bên, vào tình hình tài sản và tình trạng cụ thể của gia đình. Lao động trong gia đình được kể như lao động sản xuất.\n\nKhi chia phải bảo vệ quyền lợi của người vợ, của con cái và lợi ích của việc sản xuất."
+   }
+  },
+  {
+   "id": "VN-H307-A30",
+   "no": 30,
+   "noLabel": {
+    "vi": "Điều 30"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 30\n\nKhi ly hôn, nếu một bên túng thiếu yêu cầu cấp dưỡng, thì bên kia phải cấp dưỡng tuỳ theo khả năng của mình.\n\nKhoản cấp dưỡng và thời gian cấp dưỡng sẽ do hai bên thoả thuận; trường hợp hai bên không thoả thuận với nhau được thì Toà án nhân dân sẽ quyết định. Khi người được cấp dưỡng lấy vợ, lấy chồng khác thì sẽ không được cấp dưỡng nữa."
+   }
+  },
+  {
+   "id": "VN-H307-A31",
+   "no": 31,
+   "noLabel": {
+    "vi": "Điều 31"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 31\n\nVợ chồng đã ly hôn vẫn có mọi nghĩa vụ và quyền lợi đối với con chung."
+   }
+  },
+  {
+   "id": "VN-H307-A32",
+   "no": 32,
+   "noLabel": {
+    "vi": "Điều 32"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 32\n\nKhi ly hôn, việc giao cho ai trông nom, nuôi nấng và giáo dục con cái chưa thành niên, phải căn cứ vào quyền lợi về mọi mặt của con cái. Về nguyên tắc, con còn bú phải do mẹ phụ trách. Người không giữ con vẫn có quyền thăm nom, săn sóc con.\n\nVợ chồng đã ly hôn phải cùng chịu phí tổn về việc nuôi nấng và giáo dục con, mỗi người tuỳ theo khả năng của mình.\n\nVì lợi ích của con cái, khi cần thiết, có thể thay đổi việc nuôi giữ hoặc việc góp phần vào phí tổn nuôi nấng, giáo dục con cái."
+   }
+  },
+  {
+   "id": "VN-H307-A33",
+   "no": 33,
+   "noLabel": {
+    "vi": "Điều 33"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 33\n\nViệc trông nom, nuôi nấng và giáo dục con cái, việc góp phần vào phí tổn nuôi nấng và giáo dục con cái sẽ do hai bên thoả thuận giải quyết.\n\nTrường hợp hai bên không thoả thuận với nhau được hoặc trong sự thoả thuận xét thấy có chỗ không hợp lý, thì Toà án nhân dân sẽ quyết định.\n\nCHƯƠNG VI\n\nĐIỀU KHOẢN THI HÀNH"
+   }
+  },
+  {
+   "id": "VN-H307-A34",
+   "no": 34,
+   "noLabel": {
+    "vi": "Điều 34"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 34\n\nNhững hành vi trái với Luật này sẽ bị xử lý theo pháp luật."
+   }
+  },
+  {
+   "id": "VN-H307-A35",
+   "no": 35,
+   "noLabel": {
+    "vi": "Điều 35"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG VI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 35\n\nLuật này có hiệu lực kể từ ngày công bố.\n\nTrong những vùng dân tộc thiểu số, có thể căn cứ vào tình hình cụ thể mà đặt ra những điều khoản riêng biệt đối với Luật này. Những điều khoản riêng biệt ấy phải được Uỷ ban thường vụ Quốc hội phê chuẩn.\n\n------------------------------------------\n\nLuật này đã được Quốc hội nước Việt Nam dân chủ cộng hoà khoá thứ nhất, kỳ họp thứ 11, thông qua trong phiên họp ngày 29 tháng 12 năm 1959.\n\nXuân Thủy\n\n(Đã ký)\n\n1:{\"id\":\"887\",\"docType\":{\"id\":\"11025e19-2dd6-4165-85ad-ab6241186a1a\",\"name\":\"Luật\",\"code\":\"Lu\",\"parentCode\":\"VBQPPL\",\"parentName\":null},\"docGroup\":\"VBQPPL\",\"docNum\":\"Không số\",\"title\":\"Luật Hôn nhân và gia đình số Không số\",\"applicationNote\":\"Bị thay thế bởi Luật Không số Hôn nhân và gia đình\",\"issueDate\":\"1959-12-29T00:00:00\",\"effFrom\":\"1960-01-13T01:00:00\",\"effTo\":\"1987-01-03T00:00:00\",\"publicDate\":null,\"effStatus\":{\"id\":\"f55c1469-4341-4274-93ef-32b283db4dbd\",\"name\":\"Hết hiệu lực toàn bộ\",\"code\":\"HHL\",\"parentCode\":null,\"parentName\":null},\"status\":\"Publish\",\"lang\":\"vi\",\"defaultLanguage\":\"VN\",\"updatedBy\":\"dungdvm_II.2\",\"updatedDate\":\"2026-01-16T17:33:21\",\"agencyName\":\"Quốc hội\",\"organization\":{\"id\":\"506a0f37-34ee-454c-b40f-1313f572f54f\",\"code\":\"BTP\",\"name\":\"Bộ Tư pháp\",\"nameEn\":\"Bộ Tư pháp\",\"shortName\":\"BTP\",\"orgType\":\"0\"},\"isLw\":true,\"documentContent\":{\"id\":\"887\",\"title\":null,\"content\":\"$2\"},\"documentContentEn\":null,\"documentContentFileName\":null,\"documentContentFileDocName\":\"Luat.hon.nhan.1959.doc\",\"documentIssues\":[{\"id\":\"049855eb-6ba1-40c9-acfd-570284495206\",\"agencyId\":\"55\",\"agencyName\":\"Quốc hội\",\"agencyNameEn\":\"National Assembly of Vietnam\",\"agencyCode\":\"QH\",\"personId\":\"817\",\"personName\":\"Xuân Thủy\",\"jobTitleId\":\"8a68e876-323e-4049-b068-12ba35811169\",\"jobTitleCode\":\"PCT\",\"jobTitleName\":\"Phó Chủ tịch\",\"orderIndex\":1}],\"documentMajors\":[],\"documentFields\":[{\"id\":\"76e2c0d5-e93e-4ee9-8c72-59dae1167432\",\"name\":\"Chưa phân loại\",\"code\":null,\"parentCode\":null,\"parentName\":null}],\"documentRelatedList\":[{\"id\":\"d73f0b59-a240-4593-8e23-c51f38ed20dd\",\"fileName\":\"887_body_content.html\",\"relatedType\":\"MARKDOWN\",\"fileTitle\":\"887_body_content.html\",\"fileOrder\":null}],\"provisionTree\":null,\"references\":null,\"isEffectAllDocument\":false,\"isOld\":true,\"reviewStatus\":\"INITIAL\",\"reviewed\":false,\"isTranslationDoc\":false,\"isConsolidatedDocument\":false,\"isConstitutionDocument\":false,\"isAdministrativeDocument\":false,\"viewCount\":51,\"showViewCount\":true,\"hasContent\":true,\"hasOriginalPdf\":null,\"hasAIProcessed\":false,\"hasClauseRelation\":null,\"aiResults\":[]}"
+   }
+  }
+ ]
+}

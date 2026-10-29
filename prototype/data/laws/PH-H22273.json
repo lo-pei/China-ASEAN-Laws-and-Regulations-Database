@@ -1,0 +1,72 @@
+{
+ "id": "PH-H22273",
+ "title": {
+  "zh": null,
+  "en": "Further Amending Presidential Decree No. 39, as Amended",
+  "orig": "Further Amending Presidential Decree No. 39, as Amended"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1976-02-03",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 884",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1665,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_00884_1976_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_00884_1976_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22273-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Paragraph 3 of the Rules governing Military Tribunals as promulgated by Presidential Decree\nNo. 39 is hereby amended to read as follows:\n\"3. Jurisdiction.\n(a) Military Commission. All cases involving offenses where the range of punishment that may be imposed is\nconfinement for at least six (6) years and one (1) day, or a fine of not less than two thousand pesos\n(P2,000.00) shall be referred to a Military Commission.\n(b) Provost Court. The following cases shall be referred to a Provost Court:\n1. Where the range of punishment for the offense charged is confinement of not more than six (6) years or a\nfine of less than two thousand pesos (P2,000.00)\n2. Illegal possession of firearms or explosives (violation of the laws on firearms and explosives as defined and\npenalized in the Revised Administration Code, as amended, and General Orders Numbered 6 and 7, as\namended, in relation to Presidential Decree No. 9); or any offenses committed with the use of an illegally\npossession firearm or explosives: Provided, however, That the range of penalty imposable for the attendant\ncrime or crimes is within the jurisdiction of a Provost Court as herein provided.\n(c) A commissioned officer on active duty in the Armed Forces of the Philippines, shall, in all cases, however,\nbe tried only by a Military Commission.\""
+   }
+  },
+  {
+   "id": "PH-H22273-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "All cases of illegal possession of firearms or explosives now pending before Military\nCommissions, whether or not there has been arraignment, shall be tried and decided by said Military\nCommission."
+   }
+  },
+  {
+   "id": "PH-H22273-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This decree shall take effect immediately.\nDONE in the City of Manila, this 3rd day of February, in the year of Our Lord, nineteen hundred and\nseventy-six."
+   }
+  }
+ ]
+}

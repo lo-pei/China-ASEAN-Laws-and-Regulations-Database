@@ -1,0 +1,72 @@
+{
+ "id": "PH-H11553",
+ "title": {
+  "zh": null,
+  "en": "AN ACT AMENDING ACT NUMBERED ONE HUNDRED AND THIRTY-ONE, ENTITLED \"AN ACT PROVIDING FOR THE ESTABLISHMENT OF A WEATHER BUREAU FOR THE PHILIPPINE ISLANDS AND APPROPRIATING EIGHT THOUSAND AND SIXTY-SIX DOLLARS AND FIFTY CENTS, IN MONEY OF THE UNITED STATES, FOR THE PURCHASE OF METEOROLOGICAL INSTRUMENTS AND APPARATUS AND THE INSTALLATION OF THE SAME.",
+  "orig": "AN ACT AMENDING ACT NUMBERED ONE HUNDRED AND THIRTY-ONE, ENTITLED \"AN ACT PROVIDING FOR THE ESTABLISHMENT OF A WEATHER BUREAU FOR THE PHILIPPINE ISLANDS AND APPROPRIATING EIGHT THOUSAND AND SIXTY-SIX DOLLARS AND FIFTY CENTS, IN MONEY OF THE UNITED STATES, FOR THE PURCHASE OF METEOROLOGICAL INSTRUMENTS AND APPARATUS AND THE INSTALLATION OF THE SAME."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 840",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1181,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_00840_1903_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_00840_1903_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H11553-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Act Numbered One hundred and thirty-one, entitled \"An Act providing for the establishment of a\nWeather Bureau for the Philippine Islands and appropriating eight thousand and sixty-six dollars and fifty\ncents, in money of the United States, for the purchase of meteorological instruments and apparatus and the\ninstallation of the same,\" is hereby amended by striking out of the next to the last line of section six the\nwords \"second-class stations, third-class stations or rain,\" so that the last clause of said sentence shall read as\nfollows: \"Provided, That if, as the work of establishing stations progresses, the Director shall find that in\nsome instances places other than those named in this section are better suited to the requirements of the\nweather service, he is authorized to change the location of stations in his discretion.\""
+   }
+  },
+  {
+   "id": "PH-H11553-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The public good requiring the speedy enactment of this bill, the passage of the same is hereby\nexpedited in accordance with section two of \"An Act prescribing the order of procedure by the Commission\nin the enactment of laws,\" passed September twenty-sixth, nineteen hundred."
+   }
+  },
+  {
+   "id": "PH-H11553-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, August 24, 1903."
+   }
+  }
+ ]
+}

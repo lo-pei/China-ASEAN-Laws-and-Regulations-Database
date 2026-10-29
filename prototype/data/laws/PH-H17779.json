@@ -1,0 +1,182 @@
+{
+ "id": "PH-H17779",
+ "title": {
+  "zh": null,
+  "en": "MALACAÑAN PALACE BY THE PRESIDENT OF THE PHILIPPINES STRENGTHENING BORDER CONTROL THROUGH THE ADOPTION AND IMPLEMENTATION OF THE ADVANCE PASSENGER INFORMATION",
+  "orig": "MALACAÑAN PALACE BY THE PRESIDENT OF THE PHILIPPINES STRENGTHENING BORDER CONTROL THROUGH THE ADOPTION AND IMPLEMENTATION OF THE ADVANCE PASSENGER INFORMATION"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p157",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Executive Order No. 122",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 14,
+ "chars": 7669,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/07_行政命令_EO/EO_00122_2020.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 14 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 EO_00122_2020.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H17779-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Definitions. For purposes of this Order, the following terms shall mean:\na. API refers to an electronic communication containing passenger- or crew/non-crew-\nrelated information, which is transmitted to the BI prior to arrival or departure and\nmade available on the primary line at the port of entry. API includes data relating to\nthe: (i) flight, such as flight number, arrival and departure times; and (2) individual\npassenger or crew/non-crew, such as name, date of birth, gender, citizenship and\ntravel document data that may be found in the machine readable zone of the passport\nor its equivalent;\nb. API System (APIS) refers to an electronic communications svstem that collects\nbiographic data from machine readable passports, other official travel documents or\nbasic details provided by commercial carriers. APIS may either be interactive or non-\ninteractive/batch style and shall include other program or system authorized or\nrecommended under pertinent international standards and guidelines;\nCommercial Carriers are persons, corporations, firms or associations engaged in the\nbusiness of carrying or transporting passengers or goods, or both, by sea or air, for\ncompensation, offering their services to the public. A Commercial Carrier may be a\npublic/common or private carrier; and\nd. Passengers a person carried on board a vessel or aircraft, excluding the master and\nmembers of the crew or other persons employed or engaged in any capacity on board\nsuch commercial vessel or aircraft."
+   }
+  },
+  {
+   "id": "PH-H17779-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "API Requirement. The captain, master or agent, or owner of a commercial\ncarrier whose vessel or aircraft is arriving in or departing from any port within the Philippine\n2\n\nterritory, shall provide the Bl the API of its passengers, and those of the crew and non-crew\nThe API shall serve as initial security vetting of passengers, crew and non-crew members\nto effectivel facilitate and expedite the arrival and departure process of legitimate travelers\nduring primary inspection. This, however, shall not exempt any passenger, crew or non-crew\nmember from submitting to physical primary inspection at the immigration counters of the ports\nof entrv or departure."
+   }
+  },
+  {
+   "id": "PH-H17779-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "API Data Elements, Format and Transmission. The API data elements,\nmessage format, structure and transmission method shall, to the extent allowed by relevant\nlaws, conform to internationally recognized standards and practices. The BI shall ensure that\nthe data elements required are limited to the minimum necessary, and data integrity is protected."
+   }
+  },
+  {
+   "id": "PH-H17779-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "Verification of Information. After receipt of the API, the BI shall perform\nsecurity vetting or derogatory information verification of the passengers, crew or non-crew\nmembers using its database and, whenever necessary, other available law enforcement and\nnon-law enforcement databases, including notices issued by the International Criminal Police\nOrganization and those subject of UN Security Council sanctions and travel bans.\nIn the event that errors are found in the API, the BI shall provide an opportunity to correct\nsuch errors or perform corrections after verification based on travel or other related documents.\nAn individual may only seek access to the API supplied by the commercial carrier if he or she\nis the subiect of the data being accessed."
+   }
+  },
+  {
+   "id": "PH-H17779-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "text": {
+    "en": "Management of the API. The BI shall implement security measures to\nprotect and ensure the integrity and availability of the API, such as restricting access thereto\nand using recognized security mechanisms or other reasonable safeguards to prevent\nunauthorized access. Only personnel authorized by the Commissioner of Immigration shall have\naccess to the APIS."
+   }
+  },
+  {
+   "id": "PH-H17779-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "text": {
+    "en": "Single Window. The Bl is hereby designated as the sole government agency\nauthorized to receive or manage the API and other forms of API data."
+   }
+  },
+  {
+   "id": "PH-H17779-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7"
+   },
+   "text": {
+    "en": "Information Sharing. Subject to existing treaties, laws, rules and\nregulations, and whenever consistent with national interest, the BI may share information\ncontained in the API in furtherance of regional or international security. The API may also be\nprovided to the following law enforcement agencies, in furtherance of national security, law\nenforcement, immigration, intelligence and counter-terrorism functions, as may be required for\npublic safety and order:\na. Department of Finance - Bureau of Customs;\nb. Department of Transportation (DOT) - Office for Air Transportation Security;\nc. DOTr - Philippine Coast Guard;\nd. Department of Health - Bureau of Quarantine;\ne. Department of Justice - National Bureau of Investigation;\nf. Department of the Interior and Local Government - Philippine National Police;\ng. Department of National Defense;\nh. National Intelligence Coordinating Agency;\nArmed Forces of the Philippines;\n¡. National Security Council; and\nk. Anti-Terrorism Council.\nWhere disclosure is authorized, the recipient agency is likewise bound to comply with\nRA No. 10173 and other relevant laws.\n3"
+   }
+  },
+  {
+   "id": "PH-H17779-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8"
+   },
+   "text": {
+    "en": "Sanctions. Any unauthorized disclosure, sharing, publication or use of the\ninformation considered as API shall be punishable in accordance with the relevant provisions of\nRA No. 10173, as-well as criminal and civil service laws, rules and regulations.\nThe captain, master or agent, or owner of a commercial carrier shall be liable for the\npayment of appropriate administrative fines under CA No. 613 and its implementing rules and\nregulations, for failure to provide API to the BI or to include a passenger, crew or non-crew\nmember in the API. Such penalty shall be imposed regardless of whether the BI eventually\ncleared the person for entry into the country, and is without prejudice to the filing of appropriate\nadministrative, civil and/or criminal charges pursuant to existing laws, rules and regulations,\nCrew or non-crew members not included in the API shall be shall be dealt with in\naccordance with immigration protocols under relevant laws, rules and regulations. Passengers\nmay be similarly treated if it can be shown that they were complicit in the omission of their names\nand other data from the API."
+   }
+  },
+  {
+   "id": "PH-H17779-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9"
+   },
+   "text": {
+    "en": "Retention and Destruction of Data. Unless the information is classified as\nterrorism- or crime-related, data collected in the APIS shall be maintained for a period of not\nmore than twelve (12) months from the date of collection. The data shall thereafter be erased,\ndestroyed or disposed of in accordance with such rules and regulations as may hereinafter be\npromulgated pursuant to Section 11 hereof."
+   }
+  },
+  {
+   "id": "PH-H17779-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10"
+   },
+   "text": {
+    "en": "Funding. The amount necessary for the initial implementation of this Order\nshall be charged against existing appropriations of the Bl. The funding requirements for\nsucceeding years shall be included in the budget proposal of the Bl, subject to the usual budget\npreparation process."
+   }
+  },
+  {
+   "id": "PH-H17779-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11"
+   },
+   "text": {
+    "en": "Implementing Rules and Regulations. The BI, in consultation with the\nNational Privacy Commission and other relevant agencies, shall issue rules and regulations for\nthe implementation of this Order, within sixty (60) days from its effectivity."
+   }
+  },
+  {
+   "id": "PH-H17779-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12"
+   },
+   "text": {
+    "en": "Repeal. All orders, rules and regulations, issuances, or any part thereof,\ninconsistent with the provisions of this Order are hereby repealed, amended or modified\naccordingly."
+   }
+  },
+  {
+   "id": "PH-H17779-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13"
+   },
+   "text": {
+    "en": "Separability. Should any part or provision of this Order be held\nunconstitutional or invalid, the other parts or provisions not affected thereby shall continue to be\nin full force or effect."
+   }
+  },
+  {
+   "id": "PH-H17779-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14"
+   },
+   "text": {
+    "en": "Effectivity. This Order shall take effect immediately upon publication in the\nOfficial Gazette or a newspaper of general circulation.\nDONE, in the City of Manila, this 15th day of December\nour Lord Two Thousand and Twenty.\n, in the year of\nBy the President:\nSALVADOR C. MEDIALDEA\nExecutive Secretary\nOffice of the P\n4\n016005\nATTY. COBSCEPCIOR ZERY E. FERBOLIMO-EMAD\nVal 12/15/220 DIRECTORI"
+   }
+  }
+ ]
+}

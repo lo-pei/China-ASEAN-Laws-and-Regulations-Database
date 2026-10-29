@@ -1,0 +1,72 @@
+{
+ "id": "PH-H21599",
+ "title": {
+  "zh": null,
+  "en": "Increasing the Jurisdiction of the Circuit Criminal Courts",
+  "orig": "Increasing the Jurisdiction of the Circuit Criminal Courts"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p159",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1973-02-12",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 126",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 823,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_00126_1973_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_00126_1973_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H21599-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section 1 of Republic Act No. 5179 is hereby amended so as to include the following provision:\n\"Sec. 1-A. The Circuit Criminal Courts shall have concurrent jurisdiction with the Courts of First Instance\nover crimes, whether simple or complex, which may be punishable by reclusion perpetua or death: Provided,\nhowever, That were the offense charged is a complex crime and only the lesser offense which is punishable by\na penalty less than reclusion perpetua is proved, the court shall not dismiss the case but shall decide the same\nand impose the corresponding penalty.\""
+   }
+  },
+  {
+   "id": "PH-H21599-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This amendment shall not apply to offenses falling within the exclusive jurisdiction of military"
+   }
+  },
+  {
+   "id": "PH-H21599-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Decree shall take effect immediately.\nDone in the City of Manila, this 12th day of February, in the year of Our Lord, nineteen hundred and\nseventy-three."
+   }
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "id": "PH-H15654",
+ "title": {
+  "zh": null,
+  "en": "Batas Pambansa Blg. 825  An Act Reclassifying Certain Hospitals in Region VI, Appropriating Funds therefor",
+  "orig": "Batas Pambansa Blg. 825  An Act Reclassifying Certain Hospitals in Region VI, Appropriating Funds therefor"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1984-04-27",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Batasang Pambansa",
+ "docNumber": "Batas Pambansa Blg. 825",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 695,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/08_国民议会法令_BP/BP_00825_1984_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 BP_00825_1984_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H15654-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The following hospitals in Region VI are reclassified as follows:\nIloilo Provincial Hospital in the City of Iloilo to a medical center to be known as the Western Visayas Medical\nDoña Corazon Montelibano Locsin Memorial Hospital in the City of Bacolod to a regional hospital to be\nknown as the Doña Corazon Locsin Montelibano Memorial Regional Hospital."
+   }
+  },
+  {
+   "id": "PH-H15654-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The amount needed for the implementation of this Act shall charged to the appropriations of the\nMinistry of Health provided in Batas Pambansa Blg. 640. Thereafter, the amount necessary for the same\npurpose shall be included in subsequent annual general appropriations acts."
+   }
+  },
+  {
+   "id": "PH-H15654-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: April 27, 1984"
+   }
+  }
+ ]
+}

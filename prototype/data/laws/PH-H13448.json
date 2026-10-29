@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13448",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Section Seventeen of Act Numbered Twenty-Four Hundred and Eighty-Five, Entitled \"An Act Granting Seor VIcente Sotelo Y Matti, a Native and Resident of the City of Manila, Philippine Islands, and His Successors and Assigns, a Franchise to Establish, Construct, Equip, Maintain, and Operate a Railroad in the Southern Part of the Island of Negros, Philippine Islands.",
+  "orig": "An Act to Amend Section Seventeen of Act Numbered Twenty-Four Hundred and Eighty-Five, Entitled \"An Act Granting Seor VIcente Sotelo Y Matti, a Native and Resident of the City of Manila, Philippine Islands, and His Successors and Assigns, a Franchise to Establish, Construct, Equip, Maintain, and Operate a Railroad in the Southern Part of the Island of Negros, Philippine Islands."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1919-02-28",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2800",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 488,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1919/act_2800_1919.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02800_1919_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02800_1919_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13448-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section seventeen of Act Numbered Twenty four hundred and eighty-five is hereby amended to\nread as follows:\n\"Section 17. The legal domicile of the grantee shall be the city of Manila, Philippine Islands; but if he\nconsider it advisable and necessary, he may have a representative at Pulupandan, Occidental Negros, properly\nauthorized and empowered to deal with the Insular Government with respect of this franchise.\""
+   }
+  },
+  {
+   "id": "PH-H13448-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, February 28, 1919."
+   }
+  }
+ ]
+}

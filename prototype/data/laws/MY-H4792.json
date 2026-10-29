@@ -1,0 +1,423 @@
+{
+ "id": "MY-H4792",
+ "title": {
+  "zh": null,
+  "en": "UNDANG-UNDANG KECIL KERJA TANAH (WILAYAH PERSEKUTUAN PUTRAJAYA) 2017",
+  "orig": "UNDANG-UNDANG KECIL KERJA TANAH (WILAYAH PERSEKUTUAN PUTRAJAYA) 2017",
+  "ms": "UNDANG-UNDANG KECIL KERJA TANAH (WILAYAH PERSEKUTUAN PUTRAJAYA) 2017"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-10",
+ "language": "ms",
+ "level": "law",
+ "category": "05_其他及未分类",
+ "status": "active",
+ "promulgatedDate": "2017",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "PUA347",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 32,
+ "chars": 69525,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-view.php?type=pua&no=P.U. (A) 347/2017&status=PRINCIPAL"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\05_其他及未分类\\2017_P.U.(A)347-2017_UNDANG-UNDANG KECIL KERJA TANAH (WILAYAH PERSEKUTUAN PUTRAJAYA) 2017.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 32 条；逐字未改写（源自厂商 OCR 文本）；已清除正文中的 2 个控制字符（C0/C1 区，法律文本中无合法用途，系 PDF 抽取/表单域残留）。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H4792-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "1. Nama dan permulaan kuat kuasa"
+   }
+  },
+  {
+   "id": "MY-H4792-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "2. Tafsiran\n\nBAHAGIAN II\n\nPENGEMUKAAN PELAN"
+   }
+  },
+  {
+   "id": "MY-H4792-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "3. Pelan kerja tanah hendaklah dikemukakan dan diperakui"
+   }
+  },
+  {
+   "id": "MY-H4792-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "4. Kewajipan jurutera"
+   }
+  },
+  {
+   "id": "MY-H4792-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "5. Pelan hendaklah dikemukakan dalam tiga salinan"
+   }
+  },
+  {
+   "id": "MY-H4792-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "6. Laporan, pelan, spesifikasi dan butiran hendaklah dikemukakan"
+   }
+  },
+  {
+   "id": "MY-H4792-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "7. Pelan dan spesifikasi boleh dikemukakan secara berasingan"
+   }
+  },
+  {
+   "id": "MY-H4792-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "8. Kelulusan, pindaan dan pembaharuan pelan dan spesifikasi"
+   }
+  },
+  {
+   "id": "MY-H4792-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "9. Kerja cerucuk"
+   }
+  },
+  {
+   "id": "MY-H4792-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "10. Jurutera hendaklah mengawas dan melaporkan paras bunyi, getaran dan kualiti\n\nair"
+   }
+  },
+  {
+   "id": "MY-H4792-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "11. Kod amalan piawaian hendaklah dipatuhi\n\nBAHAGIAN III\n\nPERUNTUKAN KHAS YANG BERHUBUNGAN DENGAN KERJA TANAH ASAS TAPAK\n\nUndangundang\n\nkecil"
+   }
+  },
+  {
+   "id": "MY-H4792-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "12. Kehendak mengenai cerucuk sasak keping keluli"
+   }
+  },
+  {
+   "id": "MY-H4792-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "13. Tanah hendaklah disiasat dan aras mata air hendaklah ditentukan\n\nBAHAGIAN IV\n\nPERUNTUKAN AM YANG BERHUBUNGAN DENGAN KERJA TANAH"
+   }
+  },
+  {
+   "id": "MY-H4792-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "14. Permohonan berasingan untuk kerja pecah batu"
+   }
+  },
+  {
+   "id": "MY-H4792-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "15. Pemeliharaan tanah atas"
+   }
+  },
+  {
+   "id": "MY-H4792-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "16. Pokok atau tumbuhan lain tidak boleh ditebang sehingga tapak sedia untuk\n\ndiusahakan"
+   }
+  },
+  {
+   "id": "MY-H4792-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "17. Kerja tanah melebihi tiga meter"
+   }
+  },
+  {
+   "id": "MY-H4792-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "18. Memperingkatkan kerja tanah"
+   }
+  },
+  {
+   "id": "MY-H4792-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "19. Syarat yang mesti dipatuhi sebelum kerja boleh diteruskan ke peringkat yang\n\nberikutnya"
+   }
+  },
+  {
+   "id": "MY-H4792-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "20. Langkah berjaga-jaga terhadap kemalangan\n\nBAHAGIAN V\n\nPELBAGAI"
+   }
+  },
+  {
+   "id": "MY-H4792-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "21. Pelan, spesifikasi dan butiran lanjut"
+   }
+  },
+  {
+   "id": "MY-H4792-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "22. Pengangkutan"
+   }
+  },
+  {
+   "id": "MY-H4792-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "23. Permit untuk mengangkut bahan"
+   }
+  },
+  {
+   "id": "MY-H4792-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "24. Fi untuk memeriksa tapak"
+   }
+  },
+  {
+   "id": "MY-H4792-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "25. Pemeriksaan pelan"
+   }
+  },
+  {
+   "id": "MY-H4792-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "26. Parit hendaklah disenggarakan sepanjang tempoh kerja"
+   }
+  },
+  {
+   "id": "MY-H4792-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 27"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "27. Kajian penilaian kesan alam sekitar"
+   }
+  },
+  {
+   "id": "MY-H4792-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 28"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "28. Tugas jurutera untuk memaklumkan"
+   }
+  },
+  {
+   "id": "MY-H4792-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Section 29"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "29. Kesalahan\n\nUndangundang\n\nkecil"
+   }
+  },
+  {
+   "id": "MY-H4792-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Section 30"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "30. Pengecualian"
+   }
+  },
+  {
+   "id": "MY-H4792-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Section 31"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "31. Kerja tanah kecil"
+   }
+  },
+  {
+   "id": "MY-H4792-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Section 32"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "32. Pembatalan dan peruntukan peralihan\n\nJADUAL PERTAMA\n\nJADUAL KEDUA\n\nJADUAL KETIGA\n\nAKTA JALAN, PARIT DAN BANGUNAN 1974\n\nUNDANG-UNDANG KECIL KERJA TANAH (WILAYAH PERSEKUTUAN PUTRAJAYA) 2017\n\nPADA menjalankan kuasa yang diberikan oleh subseksyen 70A(17)\n\nAkta Jalan, Parit dan Bangunan 1974 [Akta 133], sebagaimana yang diubahsuai oleh\n\nPerintah Wilayah Persekutuan Putrajaya (Pengubahsuaian Akta Jalan, Parit dan\n\nBangunan 1974) 2002 [P.U. (A) 143/2002], Perbadanan Putrajaya dengan ini membuat\n\nundang-undang kecil yang berikut:\n\nBAHAGIAN I\n\nPERMULAAN\n\nNama dan permulaan kuat kuasa\n\n1. (1) Undang-undang kecil ini bolehlah dinamakan Undang-Undang Kecil\n\nKerja Tanah (Wilayah Persekutuan Putrajaya) 2017.\n\n(2) Undang-Undang Kecil ini mula berkuat kuasa pada 15 November 2017.\n\nTafsiran\n\n2. Dalam Undang-Undang Kecil ini, melainkan jika konteksnya menghendaki makna\n\nyang lain—\n\n\"jurutera\" ertinya seorang jurutera professional dengan suatu Sijil Amalan\n\ndi bawah seksyen 10D Akta Pendaftaran Jurutera 1967 [Akta 138] dan berkelayakan\n\ndalam kejuruteraan awam;\n\n\"jurutera kepada Perbadanan\" ertinya mana-mana jurutera yang diperlukan\n\nuntuk menjalankan fungsi seorang jurutera sebagaimana yang dinyatakan dalam\n\nUndang-Undang Kecil ini seperti yang berikut:\n\n(a) jurutera yang diambil bekerja sebagai kakitangan Perbadanan;\n\n(b) jurutera daripada mana-mana agensi Kerajaan yang dilantik oleh\n\nPerbadanan; atau\n\n(c) jurutera yang diupah dengan fi oleh Perbadanan.\n\n\"kerja tanah\" termasuklah apa-apa aktiviti pengorekan, perataan, penimbusan\n\ndengan apa-apa bahan, penanaman cerucuk, pembinaan asas atau penebangan pokok\n\natas mana-mana tanah atau apa-apa perbuatan lain yang berkaitan dengan atau\n\nmengganggu mana-mana tanah;\n\n\"kerja tanah asas\" termasuk pembinaan asas, tingkat bawah tanah, bina galas,\n\npenambat bumi, cerucuk, batu sendi dan peparit;\n\n\"kerja tanah kecil\" ertinya apa-apa kerja tanah sebagaimana yang ditetapkan\n\ndalam Jadual Ketiga;\n\n\"pencemaran\" hendaklah mempunyai erti sebagaimana yang ditafsirkan dalam\n\nAkta Kualiti Alam Sekeliling 1974 [Akta 127];\n\n\"Perbadanan\" ertinya Perbadanan Putrajaya yang ditubuhkan di bawah\n\nseksyen 3 Akta Perbadanan Putrajaya 1995 [Akta 536];\n\n\"tanah atas\" ertinya lapisan asal permukaan tanah peroi yang berorganik\n\ndaripada kawasan hutan atau kawasan penanaman, dengan tekstur berlom, sesuai\n\nuntuk pertumbuhan pokok dan berukuran sekurang-kurangnya lima puluh sentimeter\n\ndalam; dan\n\n\"tasik\" termasuklah—\n\n(a) badan perairan utama;\n\n(b) tanah paya;\n\n(c) rizab tasik;\n\n(d) saluran; atau\n\n(e) sungai;\n\ndan seperti yang ditunjukkan dalam pelan yang dikenal pasti dengan merujuk kepada\n\nW.P.P. Pelan Warta 4—\n\n(i) yang disediakan oleh Pengarah Ukur dan Pemetaan,\n\nWilayah Persekutuan Putrajaya;\n\n(ii) yang ditarikhkan dan diperakui sebagai pelan yang benar dan betul\n\nmengenai kawasan itu oleh Pengarah Ukur dan Pemetaan, Wilayah\n\nPersekutuan Putrajaya; dan\n\n(iii) yang disimpan di pejabat Pengarah Ukur dan Pemetaan, Wilayah\n\nPersekutuan Putrajaya bersekali dengan dokumen yang menunjukkan\n\nkoordinat yang digunakan dalam menyediakan pelan itu.\n\nBAHAGIAN II\n\nPENGEMUKAAN PELAN\n\nPelan kerja tanah hendaklah dikemukakan dan diperakui\n\n3. (1) Pelan yang berhubungan dengan kerja tanah yang dikehendaki\n\ndikemukakan di bawah seksyen 70A Akta ini hendaklah dikemukakan bersama dengan\n\nborang permohonan dalam Borang A Jadual Kedua.\n\n(2) Fi yang kena dibayar untuk pengemukaan dan permohonan yang\n\ndinyatakan dalam perenggan (1) hendaklah seperti yang ditetapkan dalam\n\nJadual Pertama.\n\n(3) Permohonan dalam Borang A Jadual Kedua hendaklah—\n\n(a) ditandatangani oleh seorang jurutera dan mengandungi suatu\n\nperakuan yang dibuat olehnya menyatakan bahawa spesifikasi dan\n\nbutiran yang terkandung di dalamnya adalah betul;\n\n(b) ditandatangan balas oleh pemunya tanah yang berkenaan itu atau\n\noleh ejennya yang diberi kuasa secara bertulis; dan\n\n(c) menyatakan alamat penuh pemunya itu atau ejen itu.\n\nKewajipan jurutera\n\n4. (1) Seseorang jurutera yang memperakui pelan di bawah undang-undang\n\nkecil 3 hendaklah—\n\n(a) bertanggungjawab atas pelaksanaan yang sempurna akan kerja\n\ntanah itu dan hendaklah terus bertanggungjawab sehingga selesai\n\nkerja tanah itu melainkan jika—\n\n(i) dengan persetujuan Perbadanan, seorang jurutera lain\n\ndilantik untuk mengambilalih; atau\n\n(ii) Perbadanan bersetuju untuk menerima penarikan diri atau\n\npenggantiannya atas permintaan pemunya;\n\n(b) menyelia dan membuat pemeriksaan yang perlu untuk\n\nmemastikan kerja tanah itu dijalankan mengikut pelan, spesifikasi,\n\narahan, pindaan atau syarat yang dikenakan oleh Perbadanan dan\n\nperuntukan Undang-Undang Kecil ini;\n\n(c) memberitahu cadangan tarikh permulaan kerja tanah dengan\n\nmengemukakan Borang B Jadual Kedua kepada Perbadanan dalam\n\nmasa satu minggu sebelum memulakan kerja tanah itu; dan\n\n(d) memberitahu penyelesaian kerja tanah itu dengan mengemukakan\n\nBorang C Jadual Kedua kepada Perbadanan dalam masa satu\n\nminggu selepas selesai kerja tanah itu.\n\n(2) Jika Perbadanan bersetuju untuk menerima penarikan diri atau\n\npenggantian seseorang jurutera di bawah subperenggan (a)(ii), kerja tanah itu tidak\n\nboleh dimulakan atau diteruskan sehingga seorang jurutera lain dilantik untuk\n\nmengambilalih.\n\n(3) Borang G1 dan Borang G3 yang dirujuk di bawah Undang-Undang Kecil\n\nBangunan Seragam Selangor (Pindaan) 2007 [Sel. P.U. 9/2007] hendaklah diguna pakai\n\nbagi semua permohonan kerja tanah yang membabitkan pendirian bangunan.\n\n(4) Perenggan (1) undang-undang kecil ini tidak boleh ditafsirkan sebagai\n\nmelepaskan mana-mana orang daripada tanggungjawab di bawah seksyen 71 Akta ini.\n\n(5) Bagi maksud undang-undang kecil ini, ungkapan \"jurutera yang\n\nmemperakui pelan\" hendaklah termasuk mana-mana jurutera yang mengemukakan\n\nsemula pelan atau mana-mana jurutera yang dilantik untuk mengambilalih.\n\nPelan hendaklah dikemukakan dalam tiga salinan\n\n5. (1) Semua pelan hendaklah dikemukakan dalam tiga salinan atau seberapa\n\nbanyak salinan sebagaimana yang diperlukan oleh Perbadanan dan satu salinan dalam\n\nformat digital sebagaimana yang ditetapkan oleh Perbadanan.\n\n(2) Satu salinan pelan berwarna atas bahan linen atau bahan lain yang tahan\n\nlasak dan tahan lama, bersama dengan satu salinan lain, akan disimpan oleh\n\nPerbadanan manakala salinan ketiga hendaklah dikembalikan kepada orang yang\n\nmengemukakan pelan itu selepas kelulusan.\n\n(3) Jika pelan tidak diluluskan, satu salinan pelan itu hendaklah dikembalikan\n\nkepada orang yang mengemukakan pelan itu.\n\nLaporan, pelan, spesifikasi dan butiran hendaklah dikemukakan\n\n6. (1) Melainkan jika dikecualikan oleh Perbadanan, laporan, pelan, spesifikasi\n\ndan butiran yang berikut hendaklah dikemukakan:\n\n(a) laporan penilaian permulaan tapak bersekali dengan butiran\n\nterperinci mengenai pemuliharaan tanah atas, langkah untuk\n\nmengawal hakisan dan pemendapan, kualiti air, tumbuhan,\n\nsekiranya ada, dan pencegahan pencemaran;\n\n(b) suatu pelan tapak yang dibuat mengikut skala yang tidak kurang\n\ndaripada 1:1000 menunjukkan dengan warna jelas tapak kerja\n\ntanah, jalan masuk, tempat mendarat, sekiranya ada, kawasan\n\nperkhidmatan, stesyen kawalan kualiti air, sekiranya ada, lokasi\n\nsimpanan stok biomas dan palung pembasuhan, sekiranya ada,\n\nalur utama, alur air semulajadi atau buatan, parit dan tanah yang\n\nbersambung atau sebahagian daripadanya yang menyatakan skala\n\nyang digunakan dan tunjuk arah utara;\n\n(c) pelan pada kontor dua meter menunjukkan tanah di mana kerja\n\ntanah itu akan dijalankan dan tanah yang bersambungan\n\ndengannya sehingga minimum dua puluh meter atau lebih\n\ndaripada sempadan tapak bergantung kepada topografi kawasan\n\nsekitar dan sebagaimana yang dikehendaki oleh jurutera\n\nPerbadanan mengikut skala tidak kurang daripada 1:500 dan\n\npelan itu hendaklah diperakui oleh seorang jurukur tanah\n\nberlesen;\n\n(d) pelan mengikut skala tidak kurang daripada 1:500 menunjukkan—\n\n(i) aras platform untuk bangunan;\n\n(ii) aras siap jalan;\n\n(iii) aras dasar parit dan lintasan;\n\n(iv) tempat air keluar saliran;\n\n(v) penutupan atau lencongan mana-mana alur utama dan alur\n\nair semulajadi atau buatan atau pembaikan padanya;\n\n(vi) apa-apa pengorekan, pemotongan atau penimbunan;\n\n(vii) perlindungan bagi kerja tanah itu dan tebing tasik daripada\n\nhakisan, termasuk peruntukan menyediakan sistem\n\nperparitan sementara, perangkap kelodak, kolam takungan\n\nair hujan dan palung pembersihan yang dilengkapi dengan\n\nair bertekanan tinggi atau kaedah lain yang dinyatakan oleh\n\nPerbadanan semasa kerja tanah itu berterusan;\n\n(viii) laluan jalan masuk antara palung pembersihan dengan\n\nhujung jalan masuk awam hendaklah dilindungi dengan\n\nsepatutnya seperti yang dinyatakan oleh Perbadanan; dan\n\n(ix) air basuhan daripada palung pembersihan perlu disalurkan\n\nke dalam perangkap kelodak yang bersaiz tidak kurang\n\ndaripada 1 meter lebar x 1 meter panjang x 1.2 meter dalam\n\nsebelum dialirkan ke longkang awam;\n\n(e) pelan muka keratan lintang dan bujur tidak kurang daripada 1:100\n\nbagi skala tegak dan tidak kurang daripada 1:500 bagi skala datar\n\nmenunjukkan tanah yang dipunggah bagi kerja tanah itu yang akan\n\ndijalankan di tapak itu;\n\n(f) cara pengorekan, perataan, penimbusan, cerucuk pelindung atau\n\napa-apa proses geoteknikal yang lain yang akan dijalankan;\n\n(g) jadual bagi kerja tanah dan susunan dalam mana kerja tanah itu\n\nakan dijalankan secara berperingkat;\n\n(h) banyaknya tanah yang hendak dikorek atau ditimbus, tempat di\n\nmana tanah yang dikorek itu hendak diletakkan, atau tanah yang\n\ndigunakan untuk penimbusan hendak didapatkan dan disertai\n\ndengan kelulusan oleh pihak berkuasa yang berkenaan bagi\n\nmemindahkan tanah itu;\n\n(i) langkah berjaga-jaga yang diambil bagi melindungi tasik, tanah,\n\nbangunan, jalan dan lain-lain harta yang bersambungan;\n\n(j) pengukuran hidrografi tapak dilaksanakan sebelum dan selepas\n\nkerja tanah itu dijalankan, sekiranya tapak tersebut adalah di atas\n\ntasik;\n\n(k) cadangan untuk pengawalan habuk yang timbul akibat kerja tanah\n\nitu; dan\n\n(l) pelan yang terperinci mengikut skala tidak kurang daripada 1:50\n\ndan spesifikasi bagi apa-apa cerucuk sasak keping atau lain-lain\n\nstruktur penahan atau penstabilan cerun yang dikehendaki\n\ndi bawah Undang-Undang Kecil ini.\n\n(2) Jika berkaitan, kiraan dan segala aras bumi dan kontor yang dirujuk\n\ndalam Undang-Undang Kecil ini hendaklah dibuat dengan merujuk kepada data yang\n\ndiberikan oleh Jabatan Ukur dan Pemetaan Malaysia.\n\nPelan dan spesifikasi boleh dikemukakan secara berasingan\n\n7. (1) Pelan dan spesifikasi yang dikehendaki di bawah undang-undang kecil 6\n\nboleh, dengan kebenaran Perbadanan melalui jurutera Perbadanan, dikemukakan\n\nsecara berasingan.\n\n(2) Tiap-tiap pelan dan spesifikasi yang berikutnya yang dikemukakan\n\nhendaklah disertakan dengan suatu perakuan yang dikehendaki di bawah\n\nundang-undang kecil 3.\n\nKelulusan, pindaan dan pembaharuan pelan dan spesifikasi\n\n8. (1) Tiada kerja tanah boleh dimulakan sehingga semua pelan dan spesifikasi\n\nyang dikehendaki di bawah Undang-Undang Kecil ini telah diluluskan.\n\n(2) Pelan dan spesifikasi yang diluluskan oleh Perbadanan boleh\n\ndikemukakan semula untuk pindaan, perubahan atau pengubahan tetapi dalam hal yang\n\ndemikian kehendak di bawah undang-undang kecil 3(2) hendaklah terpakai\n\nsewajarnya.\n\n(3) Setiap kelulusan pelan dan spesifikasi hendaklah sah digunakan bagi\n\ntempoh dua belas bulan dari tarikh kelulusan.\n\n(4) Perbadanan boleh, atas permohonan bertulis yang dibuat sebelum tamat\n\ntempoh yang ditetapkan dalam perenggan (3), dan tertakluk kepada pembayaran fi\n\nsebagaimana yang ditetapkan dalam Jadual Pertama, melanjutkan tempoh itu selama\n\ndua belas bulan lagi.\n\n(5) Walau apa pun perenggan (3) dan (4), suatu permohonan baharu boleh\n\ndikemukakan kepada Perbadanan untuk kelulusan.\n\nKerja cerucuk\n\n9. (1) Jika kerja cerucuk dicadangkan, pelan yang dikemukakan di bawah\n\nundang-undang kecil 6 hendaklah mengandungi—\n\n(a) pelan mengikut skala yang tidak kurang daripada 1:50, spesifikasi\n\nbahan untuk cerucuk itu dan cara untuk menjalankan kerja\n\ncerucuk itu;\n\n(b) suatu perakuan oleh jurutera bahawa kerja cerucuk itu tidak akan\n\nmenyebabkan apa-apa bahaya kepada pengemudian atau\n\npengguna tasik yang lain, atau menimbulkan gangguan yang serius\n\nkepada pengaliran air di dalam atau kepada tasik; dan\n\n(c) suatu perakuan oleh jurutera bahawa paras bunyi akibat daripada\n\nkerja cerucuk itu tidak akan menyebabkan kemarahan atau kacau\n\nganggu kepada penduduk di kawasan sekelilingnya.\n\n(2) Semua kerja cerucuk hendaklah dijalankan pada waktu bekerja atau\n\nmana-mana waktu yang diluluskan oleh Perbadanan.\n\nJurutera hendaklah mengawas dan melaporkan paras bunyi, getaran dan\n\nkualiti air\n\n10. (1) Jurutera hendaklah, melainkan jika dikecualikan oleh Perbadanan,\n\nmengawas—\n\n(a) paras bunyi dan getaran disebabkan oleh kerja cerucuk; dan\n\n(b) paras kualiti air, sekiranya tapak adalah di tasik atau mana-mana\n\nalur air yang lain.\n\n(2) Jurutera hendaklah mengemukakan laporan yang mengandungi apa-apa\n\nmaklumat yang berkaitan dengan subperenggan (a) dan (b) pada lat tempoh\n\nsebagaimana yang ditentukan oleh Perbadanan.\n\nKod amalan piawaian hendaklah dipatuhi\n\n11. (1) Di mana jua berkenaan, pelan, spesifikasi dan kiraan yang dikemukakan\n\ndi bawah Undang-Undang Kecil ini hendaklah mematuhi kod amalan piawaian\n\nsebagaimana yang ditentukan oleh Perbadanan termasuk yang berikut:\n\n(a) Penyiasatan tapak – Kod Amalan Piawaian British 5930;\n\n(b) Kerja tanah – Kod Amalan Piawaian British 6031;\n\n(c) Asas – Kod Amalan Piawaian British 2004;\n\n(d) Struktur penahan tanah - Kod Amalan Piawaian British 8002; dan\n\n(e) Asas dan substruktur bagi bangunan bukan perindustrian, yang\n\ntidak lebih daripada empat tingkat – Kod Amalan Piawaian British\n\n(2) Jika mana-mana Kod Amalan Piawaian Malaysia dikeluarkan selepas\n\nUndang-Undang Kecil ini berkuat kuasa, maka ia hendaklah menggantikan Kod Amalan\n\nPiawaian British mengenai hal perkara yang sama dan hendaklah dipatuhi.\n\n(3) Walau apa pun perenggan (2), pelan dan spesifikasi yang telah diluluskan\n\ndi bawah Kod Amalan Piawaian British atas kerja tanah yang dijalankan di bawahnya\n\ntidak akan terjejas.\n\nBAHAGIAN III\n\nPERUNTUKAN KHAS YANG BERHUBUNGAN DENGAN KERJA TANAH ASAS TAPAK\n\nKehendak mengenai cerucuk sasak keping keluli\n\n12. (1) Sisi bagi segala kerja tanah asas yang melebihi tiga meter dalam\n\nhendaklah dilindungi dengan cerucuk sasak keping keluli.\n\n(2) Dalam keadaan kedalaman sisi bagi kerja tanah asas yang tidak melebihi\n\ntiga meter, cara perlindungan alternatif yang lain hendaklah dibina.\n\n(3) Kehendak di bawah perenggan (1) dan (2) boleh dilonggarkan, diubah\n\natau dikecualikan oleh Perbadanan apabila Perbadanan berpuas hati daripada\n\nspesifikasi, rekabentuk dan kiraan yang dikemukakan kepada Perbadanan bahawa\n\nsuatu cara perlindungan alternatif yang sekurang-kurangnya sama berkesan atau lebih\n\nbaik dan akan memberi perlindungan yang mencukupi bagi harta yang bersebelahan\n\natau perlindungan itu tidak diperlukan, mengikut mana-mana yang berkenaan.\n\nTanah hendaklah disiasat dan aras mata air hendaklah ditentukan\n\n13. (1) Penyiasatan tanah hendaklah dijalankan dan kedalaman aras mata air\n\ndalam mana-mana kerja tanah asas hendaklah ditentukan, dan jurutera yang\n\nmengesahkan pelan di bawah undang-undang kecil 3 hendaklah mengemukakan\n\nlaporan penyiasatan tanah dan memperakui bahawa apa-apa perendahan aras mata air\n\ntidak akan menyebabkan kerosakan kepada mana-mana struktur, jalan atau\n\nmana-mana harta lain di sekelilingnya.\n\n(2) Pemunya tanah hendaklah mengemukakan laporan geoteknikal dan\n\nlaporan reka bentuk yang disediakan oleh jurutera untuk kerja tanah seperti yang\n\nberikut:\n\n(a) tapak yang akan dibina bangunan lima tingkat atau lebih;\n\n(b) tapak dengan kecerunan sedia ada melebihi dua puluh lima darjah\n\natau lebih;\n\n(c) tapak yang akan dibina suatu struktur penahan yang tingginya\n\nmelebihi tiga meter; dan\n\n(d) tapak yang akan dikorek melebihi tiga meter dalam.\n\nBAHAGIAN IV\n\nPERUNTUKAN AM YANG BERHUBUNGAN DENGAN KERJA TANAH\n\nPermohonan berasingan untuk kerja pecah batu\n\n14. Jika kerja pecah batu hendak dijalankan di atas tapak kerja tanah, suatu\n\npermohonan berasingan secara bertulis hendaklah dibuat oleh jurutera kepada\n\nPerbadanan untuk kelulusan.\n\nPemuliharaan tanah atas\n\n15. Tanah atas tapak kerja tanah hendaklah dipulihara bagi tujuan penanaman atau\n\nlandskap di tapak, atau apa-apa tujuan lain seperti yang diluluskan oleh Perbadanan.\n\nPokok atau tumbuhan lain tidak boleh ditebang sehingga tapak sedia\n\nuntuk diusahakan\n\n16. Pokok atau tumbuhan lain di atas tapak kerja tanah tidak boleh ditebang atau\n\nditerangkan sehingga tapak kerja tanah itu telah sedia untuk diusahakan dan kebenaran\n\nbertulis Perbadanan telah diperoleh.\n\nKerja tanah melebihi tiga meter\n\n17. (1) Segala kerja tanah yang melebihi tiga meter tinggi atau dalam hendaklah,\n\nmelainkan jika dikecualikan oleh Perbadanan, dilindungi dengan suatu struktur\n\npenahan atau penstabilan cerun.\n\n(2) Dalam hal apabila struktur penahan atau penstabilan cerun kekal\n\ndikecualikan oleh Perbadanan, maka hendaklah diadakan struktur penahan atau\n\npenstabilan cerun sementara dalam masa kerja tanah itu berterusan melainkan jika\n\ndikecualikan oleh Perbadanan.\n\n(3) Apa-apa struktur penahan atau penstabilan cerun perlu berada di dalam\n\nsempadan tapak pemunya.\n\nMemperingkatkan kerja tanah\n\n18. Kerja tanah yang dijalankan hendaklah diperingkatkan mengikut susunan yang\n\ndikemukakan di bawah subperenggan 6(1)(g) dan tiada kerja tanah boleh dimulakan\n\natau diteruskan ke peringkat yang berikutnya melainkan—\n\n(a) apa-apa syarat yang dikenakan oleh Perbadanan di bawah\n\nundang-undang kecil 19 telah dipatuhi; dan\n\n(b) jurutera yang memperakui pelan itu memperakui secara bertulis bahawa\n\nkerja tanah itu tidak mungkin akan menyebabkan kacau ganggu atau\n\nkerosakan kepada harta di sekelilingnya.\n\nSyarat yang mesti dipatuhi sebelum kerja tanah boleh diteruskan ke peringkat\n\nyang berikutnya\n\n19. Perbadanan boleh, pada bila-bila masa sebelum apa-apa kerja tanah boleh\n\nditeruskan ke peringkat yang berikutnya, menghendaki—\n\n(a) pengaliran dan pelencongan alur utama dan alur air semulajadi atau\n\nbuatan, termasuk mengadakan permatang dan pembentung yang cukup;\n\n(b) perangkap kelodak dan lain-lain kemudahan pengawalan pemendakan\n\ndiadakan dengan cukup serta disenggara dengan sepatutnya;\n\n(c) struktur penahan, jika perlu, diadakan;\n\n(d) kawasan lapang, cerun dan tebing dilindungi dengan secukupnya bagi\n\nmengelakkan hakisan;\n\n(e) semua tindakan praktikal telah diambil untuk mengawal apa-apa habuk\n\nyang boleh timbul akibat daripada kerja tanah itu;\n\n(f) asas jalan telah dibina dan permukaan jalan itu disendal bagi\n\nmengelakkan enap daripada dihanyutkan ke dalam alur air yang sedia\n\nada;\n\n(g) timbusan itu dipadatkan; dan\n\n(h) apa-apa syarat lain yang boleh dikenakan oleh Perbadanan supaya\n\ndipatuhi.\n\nLangkah berjaga-jaga terhadap kemalangan\n\n20. Mana-mana orang yang menjalankan kerja tanah hendaklah mengambil langkah\n\nberjaga-jaga terhadap kemalangan dengan memasang apa-apa papan tanda, pengadang,\n\nrantai atau tiang, dan menyebabkan kerja itu diterangi dengan lampu secukupnya dan\n\ndijaga pada waktu malam.\n\nBAHAGIAN V\n\nPELBAGAI\n\nPelan, spesifikasi dan butiran lanjut\n\n21. (1) Perbadanan melalui jurutera Perbadanan boleh, jika difikirkan perlu—\n\n(a) menghendaki pelan, spesifikasi dan butiran lanjut dikemukakan;\n\n(b) memberi arahan lanjut atau membuat pindaan lanjut kepada pelan\n\nitu; atau\n\n(c) mengenakan syarat lanjut yang difikirkan patut.\n\n(2) Apa-apa arahan, pindaan dan syarat yang diberikan dan dikenakan\n\ndi bawah perenggan (1) hendaklah dipatuhi.\n\nPengangkutan\n\n22. Semua bahan yang hendak diangkut ke atau daripada tapak kerja tanah\n\nhendaklah diletakkan di suatu tempat dan mengikut arahan dan syarat itu sebagaimana\n\nyang boleh dikenakan oleh Perbadanan.\n\nPermit untuk mengangkut bahan\n\n23. (1) Tiap-tiap orang yang menggunakan apa-apa kenderaan untuk tujuan\n\nmengangkut bahan sepanjang jalan awam atau di tasik, kepada atau daripada\n\nmana-mana tapak kerja tanah dalam kawasan Perbadanan hendaklah mendapatkan\n\npermit daripada Perbadanan dan hendaklah—\n\n(a) memastikan bahawa badan kenderaan atau vesel itu dalam\n\nkeadaan yang baik dan tidak ada celah atau lubang yang bahan\n\nmungkin jatuh;\n\n(b) memastikan bahawa bahan tidak diisi dalam kenderaan atau vesel\n\nitu melebihi ketinggian sisi kenderaan atau vesel itu;\n\n(c) menutup bahan dengan tarpaulin, plastik, kanvas atau apa-apa\n\nbahan yang sesuai;\n\n(d) memastikan bahawa roda dan tayar kenderaan itu bersih sebelum\n\nmembenarkan kenderaan masuk ke mana-mana jalan awam atau\n\ntempat awam;\n\n(e) menampal permit kelulusan pada badan kenderaan atau vesel;\n\n(f) mengambil tindakan untuk membersihkan jalan atau tasik yang\n\ndikotori oleh habuk, kotoran atau serpihan yang jatuh, mengikut\n\nmana-mana yang berkenaan;\n\n(g) menggunakan jalan yang ditetapkan oleh Perbadanan; dan\n\n(h) mematuhi syarat lain yang ditentukan oleh Perbadanan.\n\n(2) Perbadanan boleh mengeluarkan permit di bawah perenggan (1) setelah\n\nbayaran fi dibuat sebagaimana yang ditetapkan dalam Jadual Pertama.\n\n(3) Tiap-tiap permit untuk mengangkut bahan hendaklah sah untuk tempoh\n\nsatu bulan dari tarikh dikeluarkan.\n\nFi untuk memeriksa tapak\n\n24. Orang yang mengemukakan pelan untuk pertimbangan di bawah\n\nUndang-Undang Kecil ini hendaklah membayar fi sebagaimana yang ditetapkan dalam\n\nJadual Pertama bagi tiap-tiap lawatan ke tapak untuk pemeriksaan yang dibuat oleh\n\nPerbadanan atau pegawai yang diberi kuasa oleh Perbadanan.\n\nPemeriksaan pelan\n\n25. (1) Suatu pelan yang telah diluluskan boleh diperiksa di pejabat Perbadanan\n\ndengan membayar fi sebagaimana yang ditetapkan dalam Jadual Pertama.\n\n(2) Pelan itu boleh disalin dan pelan itu diperakui sebagai salinan yang benar\n\ndengan kelulusan orang yang mengemukakan pelan itu dan dengan pembayaran fi\n\nsebagaimana yang ditetapkan dalam Jadual Pertama.\n\nParit hendaklah disenggarakan sepanjang tempoh kerja\n\n26. Parit dalam dan bersambungan dengan tapak kerja tanah hendaklah disenggara\n\nsepanjang tempoh kerja tanah dalam pelan yang diluluskan dan hendaklah berterusan\n\ndisenggara dalam keadaan yang sama sehingga kebenaran untuk memberhentikan kerja\n\ntanah diberi oleh Perbadanan.\n\nKajian penilaian kesan alam sekitar\n\n27. Bagi kerja tanah yang meliputi kawasan yang luas, Perbadanan boleh, mengikut\n\nbudi bicara mutlak, melalui jurutera Perbadanan, menghendaki suatu kajian penilaian\n\nkesan alam sekitar atau saliran dikemukakan oleh jurutera.\n\nTugas jurutera untuk memaklumkan\n\n28. Jurutera yang menyelia kerja tanah hendaklah memaklumkan Perbadanan\n\ntentang apa-apa pergerakan tanah, gelinciran bumi, apa-apa kegagalan atau perubahan\n\ndalam aras mata air yang berlaku di tapak atau tapak yang bersambungan dengan tapak\n\nkerja tanah.\n\nKesalahan\n\n29. (1) Tiada seorang pun boleh—\n\n(a) dengan diketahuinya atau dengan cuai mengemukakan pelan,\n\nspesifikasi, kiraan atau butiran yang palsu dalam apa-apa butiran\n\nmaterial atau memberi perakuan palsu yang dikehendaki\n\ndi bawah Jadual Kedua;\n\n(b) tanpa sebab yang munasabah, tidak mematuhi apa-apa arahan,\n\npindaan atau syarat yang diberikan atau dikenakan di bawah\n\nUndang-Undang Kecil ini;\n\n(c) tanpa sebab yang munasabah, gagal memberi notis yang\n\ndikehendaki di bawah undang-undang kecil 4(1)(c) dan (d); atau\n\n(d) melanggar mana-mana peruntukan Undang-Undang Kecil ini.\n\n(2) Mana-mana orang yang melanggar perenggan (1) melakukan suatu\n\nkesalahan dan boleh, apabila disabitkan, dikenakan denda tidak melebihi dua ribu\n\nringgit dan boleh dikenakan denda lanjut tidak melebihi satu ratus ringgit bagi\n\ntiap-tiap hari kesalahan itu berterusan selepas sabitan.\n\nPengecualian\n\n30. (1) Undang-Undang Kecil ini tidak terpakai bagi kerja tanah kecil seperti yang\n\nditetapkan dalam Jadual Ketiga.\n\n(2) Perbadanan boleh mengecualikan mana-mana orang daripada\n\npembayaran fi sebagaimana yang ditetapkan di bawah Undang-Undang Kecil ini.\n\nKerja tanah kecil\n\n31. (1) Jurutera hendaklah mengemukakan kepada Perbadanan suatu perakuan\n\ndalam Borang D Jadual Kedua sebelum memulakan sesuatu kerja tanah kecil.\n\n(2) Jika mana-mana kerja tanah diperakui di bawah perenggan (1) sebagai\n\nkerja tanah kecil, jurutera Perbadanan boleh, pada bila-bila masa, memeriksa tapak\n\nkerja tanah itu dan mengarahkan pemberhentian serta-merta keseluruhan atau separuh\n\ndaripada kerja tanah itu jika berpuas hati bahawa kerja tanah itu bukanlah kerja tanah\n\nkecil sebagaimana yang ditetapkan dalam Jadual Ketiga.\n\nPembatalan dan peruntukan peralihan\n\n32. (1) Undang-Undang Kecil Kerja Tanah (Perbadanan Putrajaya) 1996\n\n[Sel. P.U. 40/1996] dibatalkan.\n\n(2) Apa-apa notis, perintah, kompaun, lesen atau dokumen yang dibuat atau\n\ndikeluarkan di bawah Undang-Undang Kecil yang dibatalkan hendaklah disifatkan\n\ndibuat atau dikeluarkan di bawah Undang-Undang Kecil ini, dan hendaklah terus\n\nberkuat kuasa sehingga dibatalkan atau digantikan oleh Undang-Undang Kecil ini.\n\nJADUAL PERTAMA\n\n[undang-undang kecil 3]\n\nFI\n\nNo. Butiran Fi\n\n(RM)\n\n1. Kerja tanah asas tidak melebihi enam meter di bawah\n\naras tanah yang tinggi sekali dan melibatkan hingga\n\nlima ratus meter padu tanah\n\nRM 65.00\n\nBagi tiap-tiap seratus meter padu tambahan tanah\n\nyang terlibat atau sebahagian daripadanya\n\nRM 12.50\n\n2. Kerja tanah asas melebihi enam meter di bawah aras\n\ntanah yang tinggi sekali\n\n1½ kali fi yang\n\nditetapkan dalam\n\nbutiran no. 1\n\n3. Kerja tanah asas melebihi dua belas meter di bawah\n\naras tanah yang tinggi sekali\n\n2 kali fi yang\n\nditetapkan dalam\n\nbutiran no. 1\n\n4. (i) Fi pemprosesan\n\n(ii) Kerja tanah\n\nRM 50.00 setiap\n\npermohonan\n\nRM 250.00 sehektar\n\natau sebahagiannya\n\n5. Untuk lawatan ke tapak dan pemeriksaan oleh\n\njurutera Perbadanan atau pegawai yang diberi kuasa\n\noleh Perbadanan\n\nRM 30.00 satu\n\nlawatan\n\n6. Pemeriksaan suatu pelan yang diluluskan RM 6.00 satu pelan\n\n7. Untuk menyalin satu salinan pelan RM 24.00 sekeping\n\n8. Untuk memperakui satu set pelan sebagai salinan\n\nyang benar\n\nRM 10.00 sekeping\n\n9. Untuk melanjutkan tempoh kelulusan pelan kerja\n\ntanah\n\nLima puluh peratus\n\ndaripada fi asal\n\n10. Permit kenderaan mengangkut bahan RM 50.00 sebulan\n\nbagi setiap kenderaan\n\n11. Permit vesel untuk mengangkut bahan RM 1000.00 setahun\n\nbagi setiap vessel\n\n11. Kelulusan kerja jalan bagi pembinaan lampu jalan dan\n\nlampu isyarat:\n\n Peti pembekal\n\n Kawalan tempatan\n\n Tiang lampu\n\n Lampu isyarat\n\nRM 10.00 seunit\n\nRM 10.00 seunit\n\nRM 10.00 seunit\n\nRM 10.00 seunit\n\nJADUAL KEDUA\n\nUNDANG-UNDANG KECIL KERJA TANAH (WILAYAH PERSEKUTUAN PUTRAJAYA) 2017\n\nBORANG A\n\nPENGEMUKAAN PELAN UNTUK KERJA TANAH\n\n[perenggan 3(1)]\n\nPresiden Perbadanan Putrajaya,\n\n………………………………......................\n\nSaya/Kami dengan ini memohon untuk kerja yang dicadangkan berikut:\n\n………………………………………………………………………………………………………………………………….……………\n\n…………………………………………………………………………………………………………………….bagi pihak (Nama\n\nPemunya/Pemaju) ………………………………………………….........................................................................................\n\n…………………………………………………………………………………………………………………………….…………………\n\nNo. Lukisan ………………………………………………………………………………………………………….…………………\n\nkiraan dan penentuan dikemukakan bersama-sama ini dalam tiga salinan termasuk satu salinan\n\ndigital.\n\nSaya dengan ini bertanggungjawab sepenuhnya untuk rekabentuk, penentuan dan\n\nperjalanan kerja tersebut.\n\nTandatangan …………………………………………………..\n\nNama :……………………………………………………………….\n\nProfesion :…………………………………………………………\n\nAlamat: ……………………………………………….……………\n\n……………………………………………………………….…..........\n\n…………………………………………………………………...........\n\nNo. Pendaftaran Lembaga Jurutera:………..................\n\n......................................................................................................\n\nTarikh :…………………..........................\n\nPresiden Perbadanan Putrajaya,\n\n………………………………......................\n\nSaya/Kami, Pemunya/Pemaju projek yang tersebut di atas dengan ini mengesahkan\n\nbahawa jurutera di atas:\n\nNama ..........................................................................................................................................................................................\n\nNo. Pendaftaran Lembaga Jurutera...................…………………………………..............................………....................\n\nAlamat…………………………………………………………………………………………..................................................telah\n\ndilantik untuk mengemukakan pelan-pelan bagi pihak saya/kami.\n\nSaya/Kami dengan ini mengaku janji seperti berikut:\n\n1. Nama dan alamat jurutera yang bertanggungjawab untuk menyelia kerja akan\n\ndikemukakan sebelum permulaan kerja;\n\n2. Saya/Kami akan mematuhi dengan sepenuhnya kehendak Akta Jalan, Parit dan\n\nBangunan 1974 dan Undang-Undang Kecil Kerja Tanah (Wilayah Persekutuan\n\nPutrajaya) 2017;\n\n3. Pegawai Perbadanan berhak untuk memasuki pada bila-bila masa yang munasabah\n\nuntuk memeriksa kerja, stor bahan dan tapak di mana kerja itu dijalankan; dan\n\n4. Saya/Kami akan bersama dan berasingan bertanggungjawab dengan jurutera bagi\n\napa-apa kerosakan harta dan lain-lain akibat daripada pembinaan kerja tersebut.\n\nTandatangan :………………………………..............................\n\nNama :………………………………………..................................\n\nProfesion : ................................................................................\n\nAlamat:……………………………….…....................……...........\n\nTarikh:………………….......……\n\nUNDANG-UNDANG KECIL KERJA TANAH (WILAYAH PERSEKUTUAN PUTRAJAYA) 2017\n\nBORANG B\n\nNOTIS MEMULAKAN KERJA TANAH\n\n[subperenggan 4(1)(c)]\n\nPresiden Perbadanan Putrajaya,\n\n...................................................................\n\nSaya memberi notis bahawa selepas tamat tempoh satu minggu dari tarikh notis diterima saya\n\nbercadang untuk memulakan kerja tanah iaitu:\n\n………………………………………………………………………………………………………………………………………………\n\n………………………………………………………………………………………………………………………………………………\n\natas Lot/Lot-lot :…………………………………………………………………………………………………………………….\n\nMukim/Bandar :……………………………………………………………………………………………….…………………….\n\nJalan :……………………………………………………………………………………………………………………………………..\n\nbagi :……………………………………………………………………………………………..........................................................\n\nmenurut pelan yang diluluskan No.:……………………………………………………...........................…....................\n\nTandatangan:………………………................………….........\n\nNama:……………….....................………………………….......\n\nProfesion:…………………..................…………………..........\n\nAlamat:…………....................……………………………..........\n\n.....................................................................................................\n\nNo. Pendaftaran Lembaga Jurutera:….........……........\n\nTarikh:…………………………................\n\nUNDANG-UNDANG KECIL KERJA TANAH (WILAYAH PERSEKUTUAN PUTRAJAYA) 2017\n\nBORANG C\n\nNOTIS TAMAT KERJA TANAH\n\n[subperenggan 4(1)(d))]\n\nPresiden Perbadanan Putrajaya,\n\n…………………………………...................\n\nSaya memperakui bahawa kerja tanah iaitu.............................................................................................\n\n.......................................................................................................................................................................................................\n\natas Lot/Lot-lot…………………………………………………………………………………………………....………………….\n\nMukim/Bandar………………………………………………………………………………………………………………………..\n\nJalan……………………………………............................................……………………………………………….……...................\n\nbagi……………………………………………………………………………………………..............................................................\n\ntelah disempurnakan menurut –\n\n*(a) pelan yang diluluskan; atau\n\n (b) pelan yang diluluskan dengan pindaan mengikut perenggan 8(2).\n\nTandatangan :…………………………………………….………....\n\nNama :………………………………………………………………..\n\nProfesion :……………………………………………………………………..\n\nAlamat:……………………………………….…............................................\n\n........................................................................................................................\n\nNo. Pendaftaran Lembaga Jurutera:………...................................\n\nTarikh :..........................................\n\n*potong yang tidak berkenaan\n\nUNDANG-UNDANG KECIL KERJA TANAH (WILAYAH PERSEKUTUAN PUTRAJAYA) 2017\n\nBORANG D\n\nPERAKUAN KERJA TANAH KECIL\n\n[undang-undang kecil 31]\n\nPresiden Perbadanan Putrajaya,\n\n…………………………………………………\n\nSaya memperakui bahawa kerja penggalian yang akan dijalankan atas\n\nLot/Lot-lot……………………………………………………………………………………………..……………………………….\n\nMukim/Bandar…………………………………………………………………………………………………..…………………...\n\nJalan………………………………………………………………………………………………………………….……………………\n\nbagi………………………………………………………………………………………………………………………………………...\n\nialah kerja tanah bersifat kecil menurut Jadual Ketiga Undang-Undang Kecil Kerja Tanah\n\n(Wilayah Persekutuan Putrajaya) 2017.\n\n2. Saya faham bahawa pengecualian daripada kehendak Undang-Undang Kecil Kerja Tanah\n\n(Wilayah Persekutuan Putrajaya) 2017 tidak akan melepaskan saya daripada tanggungjawab\n\nke atas mana-mana orang bagi apa-apa kerosakan yang disebabkan oleh kerja tanah tersebut.\n\n3. Saya juga bersetuju mengganti rugi dan terus mengganti rugi Perbadanan Putrajaya\n\nterhadap apa-apa tuntutan, kerosakan, kerugian, tindakan atau prosiding yang boleh diambil\n\nterhadapnya yang disebabkan oleh dan akibat daripada kerja tanah tersebut.\n\nTandatangan :…………………………………………..............\n\nNama :……………………………………………………………...\n\nProfesion :…………………………….…………………………..\n\nAlamat: …………………………………………………..………..\n\n……………………………………………………………….………..\n\nNo. Pendaftaran Lembaga Jurutera:…….........….........\n\nTarikh :...........................................\n\nJADUAL KETIGA\n\nUNDANG-UNDANG KECIL KERJA TANAH (WILAYAH PERSEKUTUAN PUTRAJAYA) 2017\n\nKERJA TANAH KECIL\n\n[undang-undang kecil 2 dan 31]\n\n1. Mengorek untuk landskap tanpa struktur sedalam tidak melebihi tiga meter.\n\n2. Mengorek untuk menanam atau membantun pokok atau tiang sedalam tidak melebihi\n\ntiga meter.\n\n3. Mengorek untuk pembinaan lurang dan memasang paip dan kabel sedalam tidak\n\nmelebihi tiga meter.\n\n4. Mengorek untuk lubang asas tidak melebihi tiga meter kali tiga meter untuk bangunan\n\nkediaman yang sekurang-kurangnya tiga meter jauh daripada sempadan dan tidak\n\nmelebihi tiga meter dalam.\n\n5. Mengorek untuk asas yang tidak melebihi tiga meter dalam selagi pengorekan itu bukan\n\nuntuk maksud pembinaan tingkat bawah tanah dan tidak ada bangunan di harta\n\nbersebelahan.\n\n6. Mengorek dalam lingkungan tapak tidak melebihi tiga meter dalam dan melebihi tiga\n\nmeter jauh daripada sempadan dan untuk pengorekan itu cerucuk tidak dikehendaki.\n\n7. Apa-apa kerja yang ditentukan oleh Perbadanan sebagai kerja tanah kecil.\n\nDibuat 1 November 2017\n\n[PPj/UNDANG(A) 6-4; PN(PU2)252/X]\n\nDATUK SERI UTAMA TENGKU ADNAN BIN TENGKU MANSOR\n\nMenteri Wilayah Persekutuan\n\nSTREET, DRAINAGE AND BUILDING ACT 1974\n\nEARTHWORKS (FEDERAL TERRITORY OF PUTRAJAYA) BY-LAWS 2017\n\n______________________\n\nARRANGEMENT OF BY-LAWS\n\n______________________\n\nPART I\n\nPRELIMINARY\n\nBy-law\n\n1. Citation and commencement\n\n2. Interpretation\n\nPART II\n\nSUBMISSION OF PLANS\n\n3. Plans of earthworks to be submitted and certified\n\n4. Duties of engineers\n\n5. Plans shall be submitted in triplicate\n\n6. Reports, plans, specifications and particulars to be submitted\n\n7. Plans may be submitted separately\n\n8. Approval, amendment and renewal of plans and specifications\n\n9. Piling works\n\n10. Engineer shall monitor and report noise, vibration and water quality levels\n\n11. Standard codes of practice to be complied with\n\nPART III\n\nSPECIAL PROVISIONS RELATING TO FOUNDATION EARTHWORKS\n\n12. Requirement of close steel sheet piling\n\n13. Soil to be investigated and water table to be determined\n\nPART IV\n\nGENERAL PROVISIONS RELATING TO EARTHWORKS\n\nBy-law\n\n14. Separate application for rock blasting works\n\n15. Conservation of topsoil\n\n16. Trees or other vegetation not to be cut until site is ready to be worked\n\n17. Earthworks exceeding three metres\n\n18. Phasing of earthworks\n\n19. Conditions to be complied with before work can continue to the next phase\n\n20. Precautions against accident\n\nPART V\n\nMISCELLANEOUS\n\n21. Further plans, specifications and particulars\n\n22. Transportation\n\n23. Permit for transporting materials\n\n24. Site inspection fee\n\n25. Inspection of plans\n\n26. Drains to be maintained during duration of work\n\n27. Environmental impact assessment study\n\n28. Duty of engineer to inform\n\n29. Offences\n\n30. Exemptions\n\n31. Minor earthworks\n\n32. Repeal and transitional provisions\n\nFIRST SCHEDULE\n\nSECOND SCHEDULE\n\nTHIRD SCHEDULE\n\nSTREET, DRAINAGE AND BUILDING ACT 1974\n\nEARTHWORKS (FEDERAL TERRITORY OF PUTRAJAYA) BY-LAWS 2017\n\nIN exercise of the powers conferred by subsection 70A(17) of\n\nthe Street, Drainage and Building Act 1974 [Act 133], as modified by the Federal\n\nTerritory of Putrajaya (Modification of Street, Drainage and Building Act 1974)\n\nOrder 2002 [P.U. (A) 143/2002], the Perbadanan Putrajaya makes the\n\nfollowing by-laws:\n\nPART I\n\nPRELIMINARY\n\nCitation and commencement\n\n(1) These by-laws may be cited as the Earthworks (Federal Territory of\n\nPutrajaya) 2017.\n\n(2) These By-laws come into operation on 15 November 2017.\n\nInterpretation\n\n2. In these By-laws, unless the context otherwise requires—\n\n\"engineer\" means a professional engineer with a Practising Certificate under\n\nsection 10D of the Registration of Engineers Act 1967 [Act 138] and qualified in civil\n\nengineering;\n\n\"engineer to the Perbadanan\" means any engineer who is required to perform\n\nthe functions of an engineer as specified in these By-laws as follows:\n\n(a) engineer employed as an employee of the Perbadanan;\n\n(b) engineer from any Government agency appointed by the Perbadanan; or\n\n(c) engineer engaged by the Perbadanan for a fee;\n\n\"earthworks\" include any act of excavation, levelling, filling with any material,\n\npiling, construction of foundations or felling of trees on any land or any other act of\n\ndealing with or disturbing any land;\n\n\"foundation earthworks\" includes the construction of foundation, basement,\n\nsubstructure, ground anchors, piling, underpinning and trenching;\n\n\"minor earthworks\" means any earthwork as prescribed in the Third Schedule;\n\n\"Perbadanan\" means the Perbadanan Putrajaya established under section 3 of\n\nthe Perbadanan Putrajaya Act 1995 [Act 536];\n\n\"pollution\" shall have the same meaning as defined in the\n\nEnvironmental Quality Act 1974 [Act 127];\n\n\"topsoil\" means the original surface layer of friable organic soil from forested\n\nor cultivated land, with a loamy texture, good for plant growth and measuring at\n\nleast fifty centimetres in depth; and\n\n\"lake\" includes—\n\n(a) primary water body;\n\n(b) wetlands;\n\n(c) lake reserve;\n\n(d) channel; or\n\n(e) river;\n\nand as shown in a plan identified by reference to W.P.P. Gazette Plan 4—\n\n(i) prepared by the Director of Survey and Mapping, Federal Territory of\n\nPutrajaya;\n\n(ii) dated and certified as a true and correct plan of the area by the Director of\n\nSurvey and Mapping, Federal Territory of Putrajaya; and\n\n(iii) deposited in the office of the Director of Survey and Mapping, Federal\n\nTerritory of Putrajaya together with the document showing the\n\nco-ordinates used in the preparation of the plan.\n\nPART II\n\nSUBMISSION OF PLANS\n\nPlans of earthworks to be submitted and certified\n\n3. (1) Plans relating to earthworks required to be submitted under section 70A\n\nof this Act shall be submitted together with an application form in Form A of the\n\nSecond Schedule.\n\n(2) The fees payable for the submission and application specified in\n\nparagraph (1) shall be as prescribed in the First Schedule.\n\n(3) The application in Form A of the Second Schedule shall—\n\n(a) be signed by an engineer and contains a certification by him that\n\nthe specifications and particulars stated therein are correct;\n\n(b) be counter signed by the owner of the land concerned or his agent\n\nauthorized in writing; and\n\n(c) state the full address of the owner or the agent.\n\nDuties of engineer\n\n4. (1) An engineer certifying the plans under by-law 3 shall—\n\n(a) be responsible for the proper execution of the earthworks and\n\nshall continue to be so responsible until the completion of the\n\nearthworks unless—\n\n(i) with the agreement of the Perbadanan, another engineer is\n\nappointed to take over; or\n\n(ii) the Perbadanan agrees to accept his withdrawal or his\n\nreplacement at the request of the owner;\n\n(b) supervise and make such inspections as may be necessary to\n\nensure that the earthworks are carried out in accordance with the\n\nplans, specifications, directions, amendments or conditions\n\nimposed by the Perbadanan and the provisions of these By-laws;\n\n(c) notify the proposed date of commencement of the earthworks by\n\nsubmitting Form B of the Second Schedule to the Perbadanan one\n\nweek before the commencement of the earthworks; and\n\n(d) notify the completion of the earthworks by submitting Form C of\n\nthe Second Schedule to the Perbadanan within one week of the\n\ncompletion of the earthworks.\n\n(2) Where the Perbadanan agrees to accept the withdrawal or replacement of\n\nan engineer under subparagraph (a)(ii), the earthworks shall not commence or\n\ncontinue until another engineer is appointed to take over.\n\n(3) Form G1 and Form G3 as referred in the Uniform Building By-Laws\n\n(Selangor) (Amendment) 2007 [Sel. P.U. 9/2007] shall be used for all applications for\n\nearthworks involving the erection of a building.\n\n(4) Paragraph (1) of this by-law shall not be construed as to relieve any\n\nperson from the responsibilities under section 71 of this Act.\n\n(5) For the purpose of these By-laws, the term \"engineer certifying the plans\"\n\nshall include any engineer resubmitting plans or any engineer appointed to take over.\n\nPlans shall submitted in triplicate\n\n5. (1) All plans shall be submitted in triplicate or in as many copies as may be\n\nrequired by the Perbadanan and one copy in a digital format as prescribed by the\n\nPerbadanan.\n\n(2) One copy of the coloured plan on linen or other equally wear resistant\n\nand durable material which, together with one other copy, shall be retained by the\n\nPerbadanan whereas the third copy shall be returned to the person submitting the plans\n\nafter approval.\n\n(3) Where the plans are not approved, one copy of such plans shall be\n\nreturned to the person submitting the plans.\n\nReports, plans, specifications and particulars shall submitted\n\n6. (1) Unless exempted by the Perbadanan, the following reports, plans,\n\nspecifications and particulars shall be submitted:\n\n(a) the preliminary site evaluation report together with details of\n\ntopsoil conservation, erosion and sediment control measures,\n\nwater quality, vegetation, if any, and prevention of pollution;\n\n(b) the site plan drawn to a scale of not less than 1:1000 showing in\n\nclear colour the site of the earthworks, road access, landing places,\n\nif any, service area, water quality monitoring stations, if any,\n\nlocation of biomass stockpile and washing trough, if any,\n\nmainstreams, natural or artificial water courses, drains and\n\nadjoining lands or part thereof indicating the scale used and the\n\nnorth point;\n\n(c) the plans at two metres contours showing both existing grounds\n\non which the earthworks are to be carried out and adjoining land\n\nup to minimum twenty metres or more from the site\n\nboundaries depending on the topography of the\n\nsurrounding area and as required by the engineer of\n\nPerbadanan of the scale of not less than 1:500 and the plans\n\nmust be endorsed by a licensed surveyor;\n\n(d) the plans to a scale of not less than 1:500 showing—\n\n(i) the platform levels for the building;\n\n(ii) the finished road levels;\n\n(iii) the drain invert levels and crossings;\n\n(iv) the points of discharge of drainage;\n\n(v) the closure or deviation of any mainstreams and natural or\n\nartificial water courses or improvements thereto;\n\n(vi) any excavation, cutting or filling;\n\n(vii) the protection to the earthworks and the banks of the\n\nlake against erosion, including provision of temporary\n\ndrainage system, silt trap, stormwater retention pond and\n\nwash trough equipped with high pressure water or any\n\nother methods as described by Perbadanan during the\n\ncontinuance of the earthworks;\n\n(viii) the stretch of the access road between the wash trough and\n\nthe edge of the public road which is properly sealed as\n\ndescribed by the Perbadanan; and\n\n(ix) all washing from the wash trough which are directed into a\n\nsilt trap measuring not less than 1 metre in width x 1 metre\n\nin length x 1.2 metre in depth before it is discharged into a\n\npublic drain;\n\n(e) the longitudinal and cross-sectional plans of not less than 1:100 for\n\nthe vertical scale and of not less than 1:500 for the horizontal scale\n\nshowing the mass haul of the earthworks to be carried out on the\n\nsite;\n\n(f) the method of excavation, levelling, filling, protective piling or any\n\nother geotechnical processes to be carried out;\n\n(g) the schedule of the earthworks and the order in which the\n\nearthworks are to be phased;\n\n(h) the amount of earth to be excavated or filled, the place where such\n\nexcavated earth is to be deposited, or the earth to be used for\n\nfilling is to be obtained and accompanied with the approval by\n\nrelevant authority to move such earth;\n\n(i) the precautions taken to protect the lake, adjoining lands,\n\nbuildings, roads and other properties;\n\n(j) the hydrographic surveys of the site carried out prior to and after\n\nthe earthworks are implemented, if the earthworks are on the\n\nlake;\n\n(k) the proposals for the control of dust which may arise as a result of\n\nthe earthworks; and\n\n(l) the detailed plans to a scale of not less than 1:50 and specifications\n\nof any close sheet piling or other retaining structure or\n\nstabilization of slope required under these By-laws.\n\n(2) Where relevant, the calculations and all ground levels and contours\n\nreferred to in these By-laws shall be drawn with reference to the relevant Government\n\nSurvey and Mapping Department datum.\n\nPlans and specifications may be submitted separately\n\n7. (1) Plans and specifications required under by-law 6 may, with the\n\npermission of the Perbadanan through the engineer to the Perbadanan, be submitted\n\nseparately.\n\n(2) Each subsequent set of plans and specifications submitted shall be\n\naccompanied with a certification required under by-law 3.\n\nApproval, amendment and renewal of plans and specifications\n\n8. (1) No earthwork shall commence until all plans and specifications required\n\nunder these By-laws have been approved.\n\n(2) The plans and specifications approved by the Perbadanan may be\n\nresubmitted for amendment, variation or alteration but in such a case the requirement\n\nunder by-law 3(2) shall apply accordingly.\n\n(3) Every approval of such plans and specifications shall be valid for\n\ntwelve months from the date of the approval.\n\n(4) The Perbadanan may, on a written application made before the expiry of\n\nthe period prescribed in paragraph (3), and subject to the payment of fee as prescribed\n\nin the First Schedule, extend the period for another twelve months.\n\n(5) Notwithstanding paragraphs (3) and (4), a fresh application may be\n\nsubmitted to the Perbadanan for approval.\n\nPiling works\n\n9. (1) Where piling works are proposed, plans submitted under by-law 6 shall\n\ninclude—\n\n(a) plans to a scale of not less than 1:50, specification of the material of\n\nthe piles and the method of piling to be carried out;\n\n(b) a certification by the engineer that the piling works will not cause\n\nany hazard to navigation or other users of the lake, or seriously\n\ndisrupt the flow of water in or to the lake; and\n\n(c) a certification by the engineer that the noise and vibration levels\n\ndue to the piling works will not cause any annoyance or be a\n\nnuisance to the residents in the surrounding area.\n\n(2) All piling works shall be carried out during normal working hours or any\n\nother working hours as approved by the Perbadanan.\n\nEngineer shall monitor and report noise, vibration and water quality levels\n\n10. (1) The engineer shall, unless exempted by the Perbadanan, monitor—\n\n(a) the noise and vibration levels due to piling works; and\n\n(b) the water quality level, if the site is located on a lake or any other\n\nwater courses.\n\n(2) The engineer shall submit the reports containing such information\n\nrelating to subparagraphs (a) and (b) at such intervals as determined by the\n\nPerbadanan.\n\nStandard codes of practice to be complied with\n\n11. (1) Wherever applicable, the plans, specifications and calculations submitted\n\nunder these By-laws shall comply with the standard codes of practice as determined by\n\nthe Perbadanan including the following:\n\n(a) Site Investigations - British Standards Code of Practice 5930;\n\n(b) Earthworks - British Standards Code of Practice 6031;\n\n(c) Foundations - British Standards Code of Practice 2004;\n\n(d) Earth retaining structures - British Standards Code of Practice\n\n8002; and\n\n(e) Foundations and substructures for non-industrial buildings, of not\n\nmore than 4 storeys - British Standards Code of Practice 101.\n\n(2) Where any corresponding Malaysia Standards Code of Practice is issued\n\nafter the coming into force of these By-laws, the same shall supersede the\n\nBritish Standards Code of Practice on the same subject matter and shall be\n\ncomplied with.\n\n(3) Notwithstanding paragraph (2), all plans and specifications already\n\napproved under the British Standards Code of Practice on earthworks carried out\n\nthereunder shall not be affected.\n\nPART III\n\nSPECIAL PROVISIONS RELATING TO FOUNDATION EARTHWORKS\n\nRequirement of close steel sheet piling\n\n12. (1) The sides of all foundation earthworks exceeding three metres in depth\n\nshall be protected by a close steel sheet piling.\n\n(2) In the case of the depth of the sides of all foundation earthworks not\n\nexceeding three metres, other alternative methods of protection shall be erected.\n\n(3) The requirements under paragraphs (1) and (2) may be relaxed, varied or\n\nexempted by the Perbadanan on being satisfied from the specifications, designs and\n\ncalculations submitted to the Perbadanan that the alternative method of protection is at\n\nleast as effective or better and will give adequate protection to adjoining properties or\n\nthat they are unnecessary, as the case may be.\n\nSoil to be investigated and water table to be determined\n\n13. (1) Soil investigation shall be carried out and the depth of water table in any\n\nfoundation earthworks shall be determined, and the engineer certifying the plans under\n\nby-law 3 shall submit the soil investigation reports and certify that any lowering of\n\nwater table will not affect any surrounding structures, roadways or any other\n\nproperties.\n\n(2) The land owner shall submit the geotechnical and design report prepared\n\nby the engineer for the following works:\n\n(a) the site which shall be built with a five stories or more building;\n\n(b) the site with existing slope exceeding twenty five degrees or more;\n\n(c) the site which shall be built with any retaining structure exceeding\n\nthree metres in height; and\n\n(d) the site which shall be excavated exceeding three metres in depth.\n\nPART IV\n\nGENERAL PROVISIONS RELATING TO EARTHWORKS\n\nSeparate application for rock blasting works\n\n14. Where rock blasting works are to be carried out on the earthworks site, a\n\nseparate application in writing shall be made by the engineer to the Perbadanan for\n\napproval.\n\nConservation of topsoil\n\n15. The topsoil on the earthworks site shall be conserved for planting or landscaping\n\npurposes on site, or on any other purposes as approved by the Perbadanan.\n\nTrees or other vegetation not to be cut until site is ready to be worked\n\n16. Trees or other vegetations on the earthworks site shall not be cut or cleared until\n\nthe earthworks site is ready to be worked and written permission of the\n\nPerbadanan is obtained.\n\nEarthworks exceeding three metres\n\n17. (1) All earthworks exceeding three metres in height or depth shall, unless\n\nexempted by the Perbadanan, be protected by a retaining structure or stabilization of\n\nslopes.\n\n(2) In the case where a permanent retaining structure or stabilization of the\n\nslopes are exempted by the Perbadanan, there shall be provided temporary retaining\n\nstructures or stabilization of slopes during the continuance of such earthworks unless\n\nexempted by the Perbadanan.\n\n(3) Any retaining structure or stabilization of slopes must be within the\n\nboundaries of the owner's site.\n\nPhasing of earthworks\n\n18. Earthworks to be carried out shall be phased in the order submitted under\n\nsubparagraph 6(1)(g) and no earthworks shall commence or continue to the next phase\n\nunless—\n\n(a) any conditions imposed by the Perbadanan under by-law 19 have been\n\ncomplied with; and\n\n(b) the engineer certifying the plans certify in writing that the earthworks are\n\nnot likely to cause any nuisance or damage to the surrounding properties.\n\nConditions to be complied with before earthworks can continue to the next phase\n\n19. The Perbadanan may, at any time before any earthworks may be continued to the\n\nnext phase, require—\n\n(a) the drainage and deviation of mainstream and natural or artificial water\n\ncourses, including the provisions of adequate bunds and culverts;\n\n(b) the silt traps and other sediment control facilities are adequately\n\nprovided and properly maintained;\n\n(c) the retaining structures, if necessary, are provided;\n\n(d) the open spaces, slopes and banks are adequately protected against\n\nerosion;\n\n(e) all practical measures are taken to control any dust which may arise as a\n\nresult of the earthworks;\n\n(f) the foundation of the road is laid and the surface of such road is sealed so\n\nas to prevent silt from being washed into the existing water courses;\n\n(g) the fills are compacted; and\n\n(h) any other conditions as may be imposed by the Perbadanan to be\n\ncomplied with.\n\nPrecautions against accident\n\n20. Any person carrying out earthworks shall take proper precautions against\n\naccident by fixing such signboards, bars, chains or posts, and causing the work to be\n\nsufficiently lighted and guarded at night.\n\nPART V\n\nMISCELLANEOUS\n\nFurther plans, specifications and particulars\n\n21. (1) The Perbadanan through the engineer to the Perbadanan may, where it\n\nconsiders necessary—\n\n(a) require further plans, specifications and particulars to be\n\nsubmitted;\n\n(b) give further directions or make further amendments to the plans;\n\nor\n\n(c) impose further conditions as it deems fit.\n\n(2) Any direction, amendment or condition given or imposed under\n\nparagraph (1) shall be complied with.\n\nTransportation\n\n22. All materials to be transported to or from the earthworks site shall be deposited\n\nin such place and in accordance with such directions and conditions as may be imposed\n\nby the Perbadanan.\n\nPermit for transporting materials\n\n23. (1) Every person who uses any vehicle for the purpose of transporting\n\nmaterials along a public street or water bodies, to or from any earthwork site within the\n\nPerbadanan area shall obtain a permit from the Perbadanan and shall—\n\n(a) ensure that the body of the vehicle or vessel is sound and free from\n\ngaps or holes through which the materials may fall out;\n\n(b) ensure that the materials are not loaded in the vehicle or vessel\n\nabove the height of the sides of the vehicle or vessel;\n\n(c) cover the materials with tarpaulin, plastic, canvas or any other\n\nsuitable material;\n\n(d) ensure that the wheels and tyres of the vehicle are clean before\n\nallowing the vehicle to go onto any public street or public place;\n\n(e) affix the approval permit on the body of the vehicle or vessel;\n\n(f) take measures to cleanse the street or water bodies dirtied by the\n\ndust, dirt or falling debris, as the case may be;\n\n(g) use the routes as prescribed by the Perbadanan; and\n\n(h) comply with all other conditions as may be determined by the\n\nPerbadanan.\n\n(2) The Perbadanan may issue the permit under paragraph (1) upon payment\n\nof the fee as prescribed in the First Schedule.\n\n(3) Every permit for transporting materials shall be valid for one month from\n\nthe date of its issuance.\n\nSite inspection fee\n\n24. The person submitting the plans for consideration under these By-laws shall pay\n\nthe fee as prescribed in the First Schedule for every visit to the site for inspection made\n\nby the Perbadanan or officer authorized by the Perbadanan.\n\nInspection of plan\n\n25. (1) An approved plan may be inspected in the office of the Perbadanan on\n\npayment of the fee as prescribed in the First Schedule.\n\n(2) The plans may be copied and such plans may be certified as a true copy\n\nwith the approval of the person submitting the plans and on payment of the fee as\n\nprescribed in the First Schedule.\n\nDrains to be maintained during duration of work\n\n26. The drains in and adjoining the site of the earthworks shall be maintained\n\nthroughout the duration of the earthworks in the approved plans and shall continue to\n\nbe maintained in the same state until permission to cease the earthworks has been\n\ngranted by the Perbadanan.\n\nEnvironmental impact assessment study\n\n27. For the earthworks covering a large area, the Perbadanan may, at its absolute\n\ndiscretion, through the engineer to the Perbadanan, require an environmental or a\n\ndrainage impact assessment study to be submitted by the engineer.\n\nDuty of engineer to inform\n\n28. The engineer supervising the earthworks shall inform the Perbadanan of any\n\nground movement, earth slip, any failure or change in the water table which occurs on\n\nthe site or adjoining site of the earthworks.\n\nOffences\n\n29. (1) No person shall—\n\n(a) knowingly or negligently submit plans, specifications, calculations\n\nor particulars which are false in any material particular or give\n\nfalse certification required under the Second Schedule;\n\n(b) without reasonable excuse, fail to comply with any direction,\n\namendment or condition given or imposed under these By-laws;\n\n(c) without reasonable excuse, fails to give the notice required under\n\nby-law 4(1)(c) and (d); or\n\n(d) contravene any provision of these By-laws.\n\n(2) Any person who contravenes paragraph (1) commits an offence and shall,\n\non conviction, be liable to a fine not exceeding two thousand ringgit and shall also be\n\nliable to a further fine not exceeding one hundred ringgit for every day during which the\n\noffence is continued after the conviction.\n\nExemptions\n\n30. (1) These By-laws shall not apply to the minor earthworks prescribed in the\n\nThird Schedule.\n\n(2) The Perbadanan may exempt any person from the payment of the fees as\n\nprescribed under these By-laws.\n\nMinor earthworks\n\n31. (1) The engineer shall submit to the Perbadanan a certification in Form D of\n\nthe Second Schedule before commencing any minor earthworks.\n\n(2) Where any earthworks is certified under paragraph (1) as a minor\n\nearthworks, the engineer to the Perbadanan may, at any time, inspect the earthworks\n\nsite and order the immediate cessation of the whole or any part of the earthworks if he\n\nis satisfied that the earthworks is not the minor earthworks as prescribed in the Third\n\nSchedule.\n\nRevocation and transitional provisions\n\n32. (1) The Earthworks (Perbadanan Putrajaya) By-Laws 1996\n\n[Sel. P.U. 40/1996] is revoked.\n\n(2) Any notice, order, compound, licence or documents made or issued under\n\nthe repealed By-laws shall be deemed to be made or issued under these By-laws, and\n\nshall continue to remain in force until revoked or replaced by these By-laws.\n\nFIRST SCHEDULE\n\n[By-law 3]\n\nFEES\n\nNo. Items Fees\n\n(RM)\n\n1. Foundation earthworks not exceeding six metres\n\nbelow the highest ground level and involving up to\n\nfive hundreds cubic metres of earth\n\nFor-every additional hundred cubic metres of earth or\n\npart thereof involved\n\nRM 65.00\n\nRM 12.50\n\n2. Foundation earthworks exceeding six metres\n\nbelow the highest ground level\n\n1 ½ times the fee\n\nprescribed in item\n\nno. 1\n\n3. Foundation earthworks exceeding twelve metres\n\nbelow the highest ground level\n\n2 times the fee\n\nprescribed in item\n\nno. 1\n\n4. (i) Processing fee\n\n(ii) Earthworks\n\nRM 50.00 per\n\napplication\n\nRM 250.00 per\n\nhectare or part\n\nthereof\n\n5. For every visit to the site and inspection made by\n\nthe engineer to the Perbadanan or officer authorized\n\nby the Perbadanan\n\nRM 30.00 per visit\n\n6. For the inspection of the approved plan RM 6.00 per plan\n\n7. For copying a set of plans RM 24.00 per sheet\n\n8. For certifying true copy a set of plans RM 10.00 per sheet\n\n9. For extension of earthworks plan approval 50% of the original\n\nfee\n\n10. Vehicle permit for material transporting RM 50.00 per month\n\nper vehicle\n\n11. Vessel permit for material transporting RM 1000.00 per year\n\nper vessel\n\n12. For the approval of the road works for street light and\n\ntraffic light construction:\n\n Feeder pillar\n\n Local controller\n\n Lamp post\n\n Traffic light\n\nRM 10.00 per unit\n\nRM 10.00 per unit\n\nRM 10.00 per unit\n\nRM 10.00 per unit\n\nSECOND SCHEDULE\n\nEARTHWORKS (FEDERAL TERRITORY OF PUTRAJAYA) BY-LAWS 2017\n\nFORM A\n\nSUBMISSION OF PLANS FOR EARTHWORKS\n\n[paragraph 3(1)]\n\nThe President of Perbadanan Putrajaya,\n\n………………………………………………………\n\nI/We hereby make an application for the following proposed works:\n\n……………………………………………………………………………………………………………………………...……….......…\n\n………………………………………………………………………………………………………………...........................................\n\non behalf of (name of Owner/Developer) ……………………………………………………………………………….\n\n……………………………………………………………………………………………………………………………………………..\n\nDrawing No. ……………………………………………………………………………………………………………………........\n\ncalculations and specifications are submitted herewith in three copies including one digital\n\ncopy.\n\nI hereby take full responsibility for the designs, specifications and performance of the\n\nworks.\n\nSignature : ……………………………………………………….\n\nName : …………………………………………………………….\n\nProfession :……………………………………………………...\n\nAddress : ………………………………………………………...\n\n……….………….…………………………………………………...\n\n……………………………………………………………………….\n\nBoard of Engineers Registration No. : …..................\n\n……………………………………………………………………….\n\nDate: ………………………………………….\n\nThe President of Perbadanan Putrajaya,\n\n………………………………………………………………..\n\nI/We, the Owner/Developer of the above-mentioned project hereby confirm that the above\n\nengineer:\n\nName ……………………………………………………………………………………………………………………………………...\n\nBoard of Engineer Registration No. ………………………………………………………………………...........................\n\nAddress ………………………………………………………………………………………………………………...........................\n\n………………………………………………………………………………………………………………………………………............\n\nhas been appointed to submit plans on my/our behalf.\n\nI/We hereby undertake as follows:\n\n1. The name and address of the engineer responsible for the supervision of the works will be\n\nsubmitted before the commencement of works;\n\n2. I/We shall comply fully with the requirement of the Street, Drainage & Building Act 1974\n\nand the Earthworks (Federal Territory of Putrajaya) By-Laws 2017;\n\n3. Officers of the Perbadanan shall at all reasonable times have access to inspect the works,\n\nmaterial stores and sites where such works are being carried out; and\n\n4. I/We shall jointly and severally be responsible with the engineer for any damages to\n\nproperties and other damages arising out of the construction of the said works.\n\nSignature : ………………………………………………………..\n\nName : ………………………………………………………..........\n\nProfession :…………………………………………….…………\n\nAddress : ………………………………………………….………\n\n……….………….…………………………………………….………\n\nBoard of Engineers Registration No. :…………..........\n\n…………………………………………………………….................\n\nDate: ………………………………………….\n\nEARTHWORKS (FEDERAL TERRITORY OF PUTRAJAYA) BY-LAWS 2017\n\nFORM B\n\nNOTICE OF COMMENCEMENT OF EARTHWORKS\n\n[Subparagraph 4(1)(c)]\n\nThe President of the Perbadanan Putrajaya,\n\n……………………………………………………………….\n\nI give notice that after the expiration of one week from the date of receipt of this notice I intend\n\nto commence earthworks namely:\n\n…………………………………………………………………………………………………………………………….…………………\n\non Lot/s ……………………………………………………………………………………………………….………………………...\n\nMukim/Bandar …………………………………………………………………………………………….………………………...\n\nJalan …………………………………………………………………………………………………………….………………………...\n\nfor ……………………………………………………………………………………………………………..…………………………...\n\nin accordance with approved plan No. : ………………………………………………………..………………………….\n\nSignature : ……………………………………….……………….\n\nName : ………………………………………………………..........\n\nProfession :……………………………………………….………\n\nAddress : ………………………………………………………….\n\n……….………….…………………………………….……….……...\n\n…………………………………………………………………..........\n\nBoard of Engineers Registration No. :…………...........\n\n…………………………………...……………………………………\n\nDate: ………………………………………….\n\nEARTHWORKS (FEDERAL TERRITORY OF PUTRAJAYA) BY-LAWS 2017\n\nFORM C\n\nNOTICE OF COMPLETION OF EARTHWORKS\n\n[subparagraph 4(1)(d)]\n\nThe President of Perbadanan Putrajaya,\n\n………………………………………………………..\n\nI certify that the earthworks namely ………………………………………………………………………………………..\n\n…………………………………………………………………………………………………………………….……………….………..\n\non Lot/s ……………………………………………………………………………………………………………………….…..........\n\nMukim/Bandar ………………………………………………………………………………………………………………...........\n\nJalan ………………………………………………………………………………………………………………………………...........\n\nfor …………………………………………………………………………………………………………………………………...........\n\nhas been completed in accordance with—\n\n*(a) the approved plans; or\n\n(b) the approved plans with amendments in accordance with paragraph 8(2).\n\nSignature : …………………………………….…………………..\n\nName : ………………………………………………………………\n\nProfession :………………………………………………………..\n\nAddress : …………………………………………………………..\n\n……….………….……………………………………….....................\n\n………………………………………………………………………….\n\nBoard of Engineers Registration No. :……....................\n\n………………………………………………………...........................\n\nDate: ………………………………………….\n\n*Delete where inapplicable\n\nEARTHWORKS (FEDERAL TERRITORY OF PUTRAJAYA) BY-LAWS 2017\n\nFORM D\n\nCERTIFICATION OF MINOR EARTHWORKS\n\n[by-law 31]\n\nThe President of Perbadanan Putrajaya,\n\n…………………………………………………………\n\nI certify that the excavation works to be carried out\n\non Lot/s ………………...………………………………………………………………………………………………………............\n\nMukim/Bandar …………………………………………………………………………………….……………………….………..\n\nJalan ……………………………………………………………………………………………………….……………………………...\n\nfor …………………………………………………………………………………………………………...…………………..…………\n\nis of a minor character in accordance with the Third Schedule of the Earthworks (Federal\n\nTerritory of Putrajaya) By-Laws 2017.\n\n2. I understand that the exemption from the requirements of the Earthworks (Federal\n\nTerritory of Putrajaya) By-Laws 2017 will not absolve me from the liability to any person for\n\nany damage caused by the said earthworks.\n\n3. I further agree to indemnify and keep indemnified the Perbadanan against any claim,\n\ndamage, loss, action or proceeding that may be brought against it arising out of and incidental to\n\nthe said earthworks.\n\nSignature : …………………………….…………..………………\n\nName : …………………………………………………..................\n\nProfession :…………………………………………..……………\n\nAddress : …………………………………………….…………….\n\n……….………….……………………………………...…..................\n\n………………………………………………………………………….\n\nBoard of Engineers Registration No. :……....................\n\n………………………………………………………...........................\n\nDate: …………………………………………\n\nTHIRD SCHEDULE\n\nEARTHWORKS (FEDERAL TERRITORY OF PUTRAJAYA) BY-LAWS 2017\n\nMINOR EARTHWORKS\n\n[by-laws 2 and 31]\n\n1. Excavation for landscaping without structures to a depth not exceeding three\n\nmetres.\n\n2. Excavation for the planting or uprooting of trees or poles to a depth not exceeding\n\nthree metres.\n\n3. Excavation for the construction of manholes and laying of pipes and cable to a depth\n\nnot exceeding three metres.\n\n4. Excavation for pit foundation not exceeding three metres by three metres for\n\nresidential buildings which are at least three metres away from the boundary and\n\nnot exceeding a depth of three metres.\n\n5. Excavation for foundation which does not exceed three metres in depth so long as\n\nthe excavation is not for the purpose of constructing a basement and there is no\n\nbuilding on the adjoining property.\n\n6. Excavation within any site not exceeding three metres in depth and more than three\n\nmetres away from the boundary and for which no piling is required.\n\n7. Any work determined by the Perbadanan as minor earthworks.\n\nMade 1 November 2017\n\n[PPj/UNDANG(A) 6-4; PN(PU2)252/X]\n\nDATUK SERI UTAMA TENGKU ADNAN BIN TENGKU MANSOR\n\nMinister of Federal Territories"
+   }
+  }
+ ]
+}

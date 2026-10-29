@@ -1,0 +1,78 @@
+{
+ "id": "ID-H514",
+ "title": {
+  "zh": "撤销1985年第33号关于国立伊斯兰宗教学院组织纲要的政府条例",
+  "en": "Law on the Revocation of Government Regulation No. 33 of 1985 on the Main Organisation of the State Islamic Religious Institute",
+  "id": "PENCABUTAN PERATURAN PEMERINTAH NOMOR 33 TAHUN 1985 TENTANG POKOK-POKOK ORGANISASI INSTITUT AGAMA ISLAM NEGERI",
+  "orig": "PENCABUTAN PERATURAN PEMERINTAH NOMOR 33 TAHUN 1985 TENTANG POKOK-POKOK ORGANISASI INSTITUT AGAMA ISLAM NEGERI",
+  "vi": "Luật về Việc Bãi bỏ Quy định của Chính phủ số 33 năm 1985 về Tổ chức Chính của Học viện Tôn giáo Hồi giáo Nhà nước",
+  "th": "พระราชบัญญัติว่าด้วยการเพิกถอนกฎระเบียบรัฐบาลฉบับที่ 33 ปี 1985 ว่าด้วยโครงสร้างหลักของสถาบันศาสนาอิสลามแห่งรัฐ",
+  "ms": "Akta tentang Pembatalan Peraturan Pemerintah No. 33 Tahun 1985 tentang Pokok-pokok Organisasi Institut Agama Islam Negeri"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02b",
+ "language": "id",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "1991",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU33-1985",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 3,
+ "chars": 1020,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PP%20NO%2013%20TH%201991.pdf&fl=P03639"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\01_宪法与基础法\\印尼_文本_1991_PENCABUTAN PERATURAN PEMERINTAH NOMOR 33 TAHUN 1985 TENTANG POKOK-POKOK ORGANISASI INSTITUT AGAMA ISLAM NEGERI.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 3 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H514-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\n\nMencabut Peraturan Pemerintah Nomor 33 Tahun 1985 tentang\nPokok-pokok Organisasi Institut Agama Islam Negeri.\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H514-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\n\nDengan dicabutnya Peraturan Pemerintah Nomor 33 Tahun 1985\ntentang Pokok-pokok Organisasi In stitut Agama Islam Negeri, maka\npengaturan lebih lanjut mengenai susunan organisasi, rincian tugas,\nfungsi dan tata kerja Institut Agama Islam Negeri sesuai dengan\nketentuan Pasal 97 ayat (1) Peraturan Pemerintah Nomor 30  Tahun\n1990 tentang Pendidikan Tinggi untuk selanjutnya ditetapkan oleh\nMenteri Agama."
+   }
+  },
+  {
+   "id": "ID-H514-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\n\nPeraturan Pemerintah ini mulai berlaku pada, tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran\nNegara Republik Indonesia.\n\nDitetapkan di Jakarta\npada tanggal 20 Pebruari 1991\n\nPRESIDEN REPUBLIK INDONESIA\n\n     ttd\n\n            SOEHARTO\nDiundangkan di Jakarta\npada tanggal 20 Pebruari 1991\n\nMENTERI/SEKRETARIS NEGARA\n   REPUBLIK INDONESIA\n\n    ttd\n\n  MOERDIONO"
+   }
+  }
+ ]
+}

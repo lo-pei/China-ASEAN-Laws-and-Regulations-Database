@@ -1,0 +1,62 @@
+{
+ "id": "PH-H14361",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Section Two thousand and Seventy-three of Act Numbered Twenty-Seven Hundred and Eleven, Known as the Administrative Code.",
+  "orig": "An Act to Amend Section Two thousand and Seventy-three of Act Numbered Twenty-Seven Hundred and Eleven, Known as the Administrative Code."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1930-11-21",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3729",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 597,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1930/act_3729_1930.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03729_1930_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03729_1930_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14361-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section two thousand and seventy-three of the Administrative Code is hereby amended to read\n\"Section 2073. Permission for official to absent himself from from province.-Except as allowed by law, no\nprovincial official engaged in the discharge of continuous duties shall leave the province without obtaining\npermission so to do from the Department Head: Provided, however, That as regards provincial fiscals and\ndeputy provincial fiscals, permission to leave the province shall be obtained directly from the\nAttorney-General.\""
+   }
+  },
+  {
+   "id": "PH-H14361-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, November 21, 1930."
+   }
+  }
+ ]
+}

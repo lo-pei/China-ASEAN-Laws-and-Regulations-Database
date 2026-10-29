@@ -1,0 +1,72 @@
+{
+ "id": "PH-H16105",
+ "title": {
+  "zh": null,
+  "en": "An Act Appropriating the Sum of Twenty, Two thousand Five Hundred Pesos to Carry Out the Purposes of Commonwealth Act Numbered three Hundred Twenty-Five During the Fiscal Year Nineteen Hundred and thirty-Nine.",
+  "orig": "An Act Appropriating the Sum of Twenty, Two thousand Five Hundred Pesos to Carry Out the Purposes of Commonwealth Act Numbered three Hundred Twenty-Five During the Fiscal Year Nineteen Hundred and thirty-Nine."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1938-09-05",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 388",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1049,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00388_1938_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00388_1938_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H16105-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The sum of twenty-two thousand five hundred pesos or so much thereof as may be necessary, is\nappropriated out of the funds in the Treasury of the Philippines not otherwise appropriated for the following\n1 Two field auditors, at P3,000 per annum each......................................\n?6,000.00\n2 Two field auditors, at P2,400 per annum each ....................................\n?4,800.00\n3 Two field auditors, at P1,800 per annum each ....................................\n3,600.00\n4 Two clerk-stenographers, at P1,200 per annum each .........................\n2,400.00\n5 Consumption of supplies and materials.................................................\n1,600.00\n6 Traveling expenses and per diems of personnel ..................................\n4,100.00\n?22,500.00"
+   }
+  },
+  {
+   "id": "PH-H16105-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The balance of the appropriation provided in this Act remaining on December thirty-one,\nnineteen hundred and thirty-nine, shall revert to the Treasury of the Philippines."
+   }
+  },
+  {
+   "id": "PH-H16105-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on January first, nineteen hundred and thirty-nine.\nApproved, September 5, 1938."
+   }
+  }
+ ]
+}

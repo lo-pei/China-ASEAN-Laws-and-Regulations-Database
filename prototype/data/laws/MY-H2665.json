@@ -1,0 +1,78 @@
+{
+ "id": "MY-H2665",
+ "title": {
+  "zh": "2024年网络安全（网络安全事件通报）条例",
+  "en": "CYBER SECURITY (NOTIFICATION OF CYBER SECURITY INCIDENT) REGULATIONS 2024",
+  "orig": "CYBER SECURITY (NOTIFICATION OF CYBER SECURITY INCIDENT) REGULATIONS 2024",
+  "ms": "Peraturan Keselamatan Siber (Pemberitahuan Insiden Keselamatan Siber) 2024",
+  "vi": "Quy định về An ninh mạng (Thông báo sự cố an ninh mạng) năm 2024",
+  "th": "ข้อบังคับความมั่นคงปลอดภัยไซเบอร์ (การแจ้งเหตุการณ์ความมั่นคงปลอดภัยไซเบอร์) ค.ศ. 2024",
+  "id": "Peraturan Keamanan Siber (Pemberitahuan Insiden Keamanan Siber) Tahun 2024"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-6",
+ "language": "ms",
+ "level": "regulation",
+ "category": "02_民商事与经济法",
+ "status": "active",
+ "promulgatedDate": "2024",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "PUA220",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 3,
+ "chars": 3175,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-view.php?type=pua&no=P.U. (A) 220/2024&status=PRINCIPAL"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\02_民商事与经济法\\2024_P.U.(A)220-2024_CYBER SECURITY (NOTIFICATION OF CYBER SECURITY INCIDENT) REGULATIONS 2024.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 3 条；逐字未改写（源自厂商 OCR 文本）。原文马来文/英文双语并置，已分别落 text.ms 与 text.en。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H2665-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "1. (1) Peraturan-peraturan ini bolehlah dinamakan Peraturan-Peraturan\nKeselamatan Siber (Pemberitahuan Insiden Keselamatan Siber) 2024.\n\n (2) Peraturan-Peraturan ini mula berkuat kuasa pada 26 Ogos 2024.\n\nTempoh pemberitahuan dan butiran maklumat"
+   }
+  },
+  {
+   "id": "MY-H2665-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "2. (1) Orang yang diberi kuasa bagi entiti infrastruktur maklumat kritikal negara\nhendaklah memberitahu dengan segera, melalui cara elektronik, mengenai suatu insiden\nkeselamatan siber yang telah atau mungkin telah berlaku sebagaimana yang\ndiperuntukkan di bawah seksyen 23 Akta apabila insiden keselamatan siber itu diketahui\noleh entiti infrastruktur maklumat kritikal negara.\n\n(2) Dalam masa enam jam daripada insiden keselamatan siber itu diketahui\noleh entiti infrastruktur maklumat kritikal negara, orang yang diberi kuasa hendaklah\nmengemukakan butiran maklumat seperti yang berikut:\n\n(a) butiran orang yang diberi kuasa;\n\n(b) butiran entiti infrastruktur maklumat kritikal negara yang terlibat,\nsektor infrastruktur maklumat kritikal negara dan ketua sektor\ninfrastruktur maklumat kritikal negara yang berkaitan dengannya;\ndan\n\n(c) maklumat mengenai insiden keselamatan siber termasuk—\n\n(i) jenis dan perihal insiden keselamatan siber;\n\n(ii) keseriusan insiden keselamatan siber;\n\n(iii) tarikh dan masa insiden kejadian keselamatan siber\ndisedari; dan\n\n(iv) kaedah penemuan insiden keselamatan siber.\n\n(3) Dalam masa empat belas hari selepas pemberitahuan yang disebut dalam\nsubperaturan (1), orang yang diberi kuasa hendaklah mengemukakan setakat yang boleh\nmaklumat tambahan seperti yang berikut:\n\n(a) butiran infrastruktur maklumat kritikal negara yang tejejas ol eh\ninsiden keselamatan siber itu;\n\n(b) bilangan hos yang dijangka terjejas dengan insiden keselamatan\nsiber itu;\n\n(c) butiran pelaku ancaman keselamatan siber;\n\n(d) artifak yang berkenaan dengan insiden keselamatan siber;\n\n(e) maklumat mengenai apa -apa insiden yang berhubungan dengan,\ndan cara insiden itu  yang berkaitan dengan, insiden  keselamatan\nsiber itu;\n\n(f) butiran taktik, teknik dan tatacara insiden keselamatan siber itu;\n\n(g) kesan insiden keselamatan siber terhadap infrastruktur maklumat\nkritikal negara atau mana-mana komputer atau sistem komputer\nyang saling bersambung; dan\n\n(h) tindakan yang telah diambil.\n\n(4) Orang yang diberi kuasa oleh entiti infrastruktur maklumat kritikal negara\nhendaklah menyediakan, dari semasa ke semasa, kemas kini lanjut mengenai insiden\nkeselamatan siber sebagaimana yang dikehendaki oleh Ketua Eksekutif.\n\nCara pengemukaan maklumat"
+   }
+  },
+  {
+   "id": "MY-H2665-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "3.  Pengemukaan maklumat di bawah subperaturan 2(2) dan (3)  hendaklah dibuat\nmelalui Sistem Pusat Penyelarasan dan Kawalan Siber Negara atau sekiranya b erlaku\ngangguan pada Sistem Pusat Penyelarasan dan Kawalan Siber Negara, dengan\nkomunikasi sebagaimana yang ditentukan oleh Ketua Eksekutif.\n\nDibuat 19 Ogos 2024\n[MKN(S).10.600-9/2/4 Jld.9(5); PN(PU2)768]\n\nDATO' SERI ANWAR BIN IBRAHIM\nPerdana Menteri\nCYBER SECURITY ACT 2024\n\nCYBER SECURITY (NOTIFICATION OF CYBER SECURITY INCIDENT)\nREGULATIONS 2024\n\nIN exercise of the powers conferred by section 63  of the Cyber Security Act 2024\n[Act 854], the Minister makes the following regulations:\n\nCitation and commencement"
+   }
+  }
+ ]
+}

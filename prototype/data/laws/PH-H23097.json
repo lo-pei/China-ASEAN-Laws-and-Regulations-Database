@@ -1,0 +1,62 @@
+{
+ "id": "PH-H23097",
+ "title": {
+  "zh": null,
+  "en": "Amending Section 12 of Presidential Decree No. 1636 Which Amended Republic Act No. 1161, Otherwise Known as the Social Security Law",
+  "orig": "Amending Section 12 of Presidential Decree No. 1636 Which Amended Republic Act No. 1161, Otherwise Known as the Social Security Law"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1981-01-16",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 1806",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1404,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_01806_1981_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_01806_1981_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H23097-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section 12 of P. D. No. 1636 is hereby amended to read as follows:\n\"Sec. 12. Section 18 and Section 18-A of Republic Act No. 1161 are hereby combined and amended to read as\n\"Sec. 18. Employee's contribution (a) Beginning as of the last day of the calendar month when an employee's\ncompulsory coverage takes effect and every month thereafter during his employment, the employer shall\ndeduct and withhold from such employee's monthly salary, wage, compensation of earnings, employee's\ncontribution in an amount corresponding to his salary, wage, compensation, or earnings during the month in\naccordance with the following schedule effective on January 1, 1980:\nSalary Bracket Number\nRange of Compensation\nMonthly Salary Credit\nMonthly Contributions\nEmployerEmployeesTotal\n\"The maximum covered earning or compensation of all SSS members shall be limited to P1,000 per month as\n\nprovided in the foregoing schedule unless otherwise provided for by the Social Security Commission through\nrules and regulations taking into consideration actuarial calculations and rate of benefits.\n\"(b) Every employer shall issue a receipt for all contributions deducted from the employee's compensation or\nshall indicate such deductions on the employee's pay envelopes.\""
+   }
+  },
+  {
+   "id": "PH-H23097-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Effectivity. This Decree shall takes effect immediately.\nDone in the City of Manila, this 16th day of January, in the year of Our Lord, nineteen hundred and"
+   }
+  }
+ ]
+}

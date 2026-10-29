@@ -1,0 +1,728 @@
+{
+ "id": "VN-H310",
+ "title": {
+  "zh": "国会组织法",
+  "en": "Law on organisation of the National Assembly",
+  "vi": "Luật Tổ chức Quốc hội",
+  "orig": "Luật Tổ chức Quốc hội số Không số",
+  "th": "พระราชบัญญัติการจัดตั้งสภาแห่งชาติ",
+  "id": "Undang-Undang Susunan Majelis Nasional",
+  "ms": "Akta Organisasi Parlimen"
+ },
+ "country": "VN",
+ "countryName": "越南",
+ "layer": "intl",
+ "pack": "vn-p06",
+ "language": "vi",
+ "level": "law",
+ "category": "05_其他及未分类",
+ "status": "active",
+ "promulgatedDate": "1960",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "国会",
+ "docNumber": "Không số",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 49,
+ "chars": 13436,
+ "source": {
+  "name": "越南法律数据库（vbpl.vn 官方公报文本）",
+  "url": "https://vbpl.vn/van-ban/chi-tiet/luat-to-chuc-quoc-hoi-so-khong-so--883"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\VN\\05_其他及未分类\\1960_Không số_Luật Tổ chức Quốc hội số Không số.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 49 条；逐字未改写（源自 VN）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "VN-H310-A1",
+   "no": 1,
+   "noLabel": {
+    "vi": "Điều 1"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 1\n\nQuốc hội mỗi năm họp thường lệ hai kỳ: kỳ thứ nhất chậm nhất vào tháng tư, kỳ thứ hai chậm nhất vào tháng mười.\n\nQuốc hội có thể họp bất thường theo điều 46 của Hiến pháp.\n\nCác kỳ họp của Quốc hội do Uỷ ban thường vụ Quốc hội triệu tập.\n\nKỳ họp thứ nhất của mỗi khoá Quốc hội do Uỷ ban thường vụ Quốc hội khoá trước triệu tập, chậm nhất là hai tháng sau khi tuyển cử."
+   }
+  },
+  {
+   "id": "VN-H310-A2",
+   "no": 2,
+   "noLabel": {
+    "vi": "Điều 2"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 2\n\nTrong kỳ họp thứ nhất của mỗi khoá Quốc hội, Quốc hội bầu ra Uỷ ban thẩm tra tư cách đại biểu. Uỷ ban này dựa vào giấy chứng nhận trúng cử và các tài liệu có liên quan đến việc tuyển cử mà thẩm tra tư cách đại biểu của các đại biểu Quốc hội.\n\nQuốc hội căn cứ vào báo cáo của Uỷ ban thẩm tra tư cách đại biểu xác nhận tư cách đại biểu của các đại biểu Quốc hội hoặc tuyên bố việc tuyển cử cá biệt đại biểu không có giá trị."
+   }
+  },
+  {
+   "id": "VN-H310-A3",
+   "no": 3,
+   "noLabel": {
+    "vi": "Điều 3"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 3\n\nĐại biểu Quốc hội có thể họp thành các đoàn đại biểu địa phương theo đơn vị tỉnh, khu tự trị, thành phố trực thuộc trung ương.\n\nTrong mỗi kỳ họp của Quốc hội, các đoàn đại biểu Quốc hội trao đổi ý kiến về những vấn đề cần thiết của kỳ họp.\n\nGiữa hai kỳ họp của Quốc hội, các đoàn đại biểu Quốc hội và đại biểu Quốc hội giữ quan hệ với Uỷ ban thường vụ Quốc hội."
+   }
+  },
+  {
+   "id": "VN-H310-A4",
+   "no": 4,
+   "noLabel": {
+    "vi": "Điều 4"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 4\n\nBắt đầu mỗi kỳ họp, Quốc hội họp phiên trù bị để thông qua chương trình nghị sự, bầu Chủ tịch đoàn và Thư ký đoàn của kỳ họp."
+   }
+  },
+  {
+   "id": "VN-H310-A5",
+   "no": 5,
+   "noLabel": {
+    "vi": "Điều 5"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 5\n\nChủ tịch đoàn điều khiển kỳ họp Quốc hội, cử người làm Chủ tịch các phiên họp của Quốc hội."
+   }
+  },
+  {
+   "id": "VN-H310-A6",
+   "no": 6,
+   "noLabel": {
+    "vi": "Điều 6"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 6\n\nThư ký đoàn có nhiệm vụ lập biên bản kỳ họp và biên bản các phiên họp của Quốc hội, làm các việc khác do Chủ tịch đoàn giao cho."
+   }
+  },
+  {
+   "id": "VN-H310-A7",
+   "no": 7,
+   "noLabel": {
+    "vi": "Điều 7"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 7\n\nQuốc hội họp công khai.\n\nQuốc hội có thể họp kín theo đề nghị của Chủ tịch đoàn hoặc của Hội đồng Chính phủ."
+   }
+  },
+  {
+   "id": "VN-H310-A8",
+   "no": 8,
+   "noLabel": {
+    "vi": "Điều 8"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 8\n\nQuốc hội bầu Chủ tịch và Phó Chủ tịch nước Việt Nam dân chủ cộng hoà. Danh sách do các đoàn đại biểu Quốc hội và Chủ tịch đoàn giới thiệu chung. Cá nhân đại biểu Quốc hội cũng có quyền giới thiệu."
+   }
+  },
+  {
+   "id": "VN-H310-A9",
+   "no": 9,
+   "noLabel": {
+    "vi": "Điều 9"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 9\n\nQuốc hội bầu Chủ tịch, các Phó chủ tịch, Tổng thư ký và các Uỷ viên của Uỷ ban thường vụ Quốc hội. Danh sách do các đoàn đại biểu Quốc hội và Chủ tịch đoàn giới thiệu chung. Cá nhân đại biểu Quốc hội cũng có quyền giới thiệu."
+   }
+  },
+  {
+   "id": "VN-H310-A10",
+   "no": 10,
+   "noLabel": {
+    "vi": "Điều 10"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 10\n\nQuốc hội quyết định cử Thủ tướng Chính phủ, Phó chủ tịch và các thành viên khác của Hội đồng quốc phòng theo đề nghị của Chủ tịch nước Việt Nam dân chủ cộng hoà và quyết định cử Phó thủ tướng và các thành viên khác của Hội đồng Chính phủ theo đề nghị của Thủ tướng Chính phủ."
+   }
+  },
+  {
+   "id": "VN-H310-A11",
+   "no": 11,
+   "noLabel": {
+    "vi": "Điều 11"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 11\n\nQuốc hội bầu Chánh án Toà án nhân dân tối cáo, Viện trưởng Viện kiểm sát nhân dân tối cao theo đề nghị của Uỷ ban thường vụ Quốc hội."
+   }
+  },
+  {
+   "id": "VN-H310-A12",
+   "no": 12,
+   "noLabel": {
+    "vi": "Điều 12"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 12\n\nCác thành viên của Hội đồng Chính phủ, Chánh án Toà án nhân dân tối cáo, Viện trưởng Viện kiểm sát nhân dân tối cao có quyền tham dự các phiên họp của Quốc hội."
+   }
+  },
+  {
+   "id": "VN-H310-A13",
+   "no": 13,
+   "noLabel": {
+    "vi": "Điều 13"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 13\n\nTrong các kỳ họp thường lệ của Quốc hội, Uỷ ban thường vụ Quốc hội báo cáo công tác trước Quốc hội. Tại kỳ họp đầu tiên của mỗi khoá, Uỷ ban thường vụ quốc hội khoá trước báo cáo công tác đã làm từ kỳ họp cuối cùng của khoá trước."
+   }
+  },
+  {
+   "id": "VN-H310-A14",
+   "no": 14,
+   "noLabel": {
+    "vi": "Điều 14"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 14\n\nTrong các kỳ họp thường lệ của Quốc hội, Hội đồng Chính phủ báo cáo công tác trước Quốc hội.\n\nToà án nhân dân tối cao, Viện kiểm sát nhân dân tối cao phải báo cáo công tác trước Quốc hội ít nhất mỗi năm một lần."
+   }
+  },
+  {
+   "id": "VN-H310-A15",
+   "no": 15,
+   "noLabel": {
+    "vi": "Điều 15"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 15\n\nChủ tịch, Phó chủ tịch nước Việt Nam dân chủ cộng hoà, Uỷ ban thường vụ Quốc hội, các Uỷ ban của Quốc hội, Chủ tịch đoàn kỳ họp Quốc hội, đại biểu Quốc hội, Hội đồng Chính phủ có quyền trình dự án luật và các dự án khác ra trước Quốc hội.\n\nCác dự án đều do Chủ tịch đoàn kỳ họp Quốc hội nêu ra để Quốc hội thảo luận hoặc giao cho các Uỷ ban hữu quan của quốc hội thẩm tra trước khi nêu ra để Quốc hội thảo luận."
+   }
+  },
+  {
+   "id": "VN-H310-A16",
+   "no": 16,
+   "noLabel": {
+    "vi": "Điều 16"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 16\n\nDự án kế hoạch Nhà nước, dự toán ngân sách Nhà nước hàng năm do Hội đồng Chính phủ trình Quốc hội vào kỳ họp đầu năm."
+   }
+  },
+  {
+   "id": "VN-H310-A17",
+   "no": 17,
+   "noLabel": {
+    "vi": "Điều 17"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 17\n\nĐại biểu Quốc hội muốn phát biểu ý kiến phải báo trước để Chủ tịch đoàn sắp xếp thứ tự phát biểu ý kiến."
+   }
+  },
+  {
+   "id": "VN-H310-A18",
+   "no": 18,
+   "noLabel": {
+    "vi": "Điều 18"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 18\n\nChủ tịch đoàn hoặc đại biểu Quốc hội có thể đề nghị kết thúc cuộc thảo luận của Quốc hội. Quốc hội sẽ quyết định về đề nghị này bằng cách biểu quyết không thảo luận."
+   }
+  },
+  {
+   "id": "VN-H310-A19",
+   "no": 19,
+   "noLabel": {
+    "vi": "Điều 19"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 19\n\nCác nghị quyết của Quốc hội phải được quá nửa tổng số đại biểu Quốc hội biểu quyết tán thành, trừ trường hợp sửa đổi Hiến pháp quy định ở điều 112 của Hiến pháp.\n\nQuốc hội biểu quyết bằng cách giơ tay hoặc bằng cách bỏ phiếu kín.\n\nĐại biểu Quốc hội không được biểu quyết bằng cách gửi giấy hoặc bằng cách nhờ người khác bỏ phiếu thay.\n\nCHƯƠNG II\n\nUỶ BAN THƯỜNG VỤ QUỐC HỘI"
+   }
+  },
+  {
+   "id": "VN-H310-A20",
+   "no": 20,
+   "noLabel": {
+    "vi": "Điều 20"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 20\n\nUỷ ban thường vụ Quốc hội sử dụng những quyền hạn ghi trong điều 53 của Hiến pháp."
+   }
+  },
+  {
+   "id": "VN-H310-A21",
+   "no": 21,
+   "noLabel": {
+    "vi": "Điều 21"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 21\n\nTrong kỳ họp đầu tiên của mỗi khoá Quốc hội, Quốc hội bầu Chủ tịch, các Phó chủ tịch, tổng thư ký và các uỷ viên của Uỷ ban thường vụ Quốc hội.\n\nSố Phó chủ tịch và uỷ viên trong Uỷ ban thường vụ Quốc hội do Quốc hội định."
+   }
+  },
+  {
+   "id": "VN-H310-A22",
+   "no": 22,
+   "noLabel": {
+    "vi": "Điều 22"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 22\n\nCác thành viên của Uỷ ban thường vụ Quốc hội không thể đồng thời là thanh viên của Hội đồng Chính phủ."
+   }
+  },
+  {
+   "id": "VN-H310-A23",
+   "no": 23,
+   "noLabel": {
+    "vi": "Điều 23"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 23\n\nChủ tịch Uỷ ban thường vụ Quốc hội triệu tập và chủ toạ hội nghị Uỷ ban thường vụ Quốc hội, điều khiển công tác của Uỷ ban thường vụ Quốc hội."
+   }
+  },
+  {
+   "id": "VN-H310-A24",
+   "no": 24,
+   "noLabel": {
+    "vi": "Điều 24"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 24\n\nKhi Chủ tịch Uỷ ban thường vụ Quốc hội vì lý do sức khoẻ không làm việc được trong một thời gian dài hoặc khi khuyết Chủ tịch Uỷ ban thường vụ Quốc hội thì Uỷ ban thường vụ Quốc hội cử một Phó chủ tịch quyền Chủ tịch cho đến khi Chủ tịch làm việc trở lại hoặc Quốc hội bầu Chủ tịch mới."
+   }
+  },
+  {
+   "id": "VN-H310-A25",
+   "no": 25,
+   "noLabel": {
+    "vi": "Điều 25"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 25\n\nUỷ ban thường vụ Quốc hội tổ chức văn phòng và cơ quan giúp việc cần thiết đặt dưới sự lãnh đạo của Tổng thứ ký Uỷ ban thường vụ Quốc hội.\n\nUỷ ban thường vụ Quốc hội cử một hay nhiều thư ký theo đề nghị của Chủ tịch Uỷ ban thường vụ Quốc hội."
+   }
+  },
+  {
+   "id": "VN-H310-A26",
+   "no": 26,
+   "noLabel": {
+    "vi": "Điều 26"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 26\n\nUỷ ban thường vụ Quốc hội họp mỗi tháng một lần; khi cần thiết có thể họp nhiều lần hơn."
+   }
+  },
+  {
+   "id": "VN-H310-A27",
+   "no": 27,
+   "noLabel": {
+    "vi": "Điều 27"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 27\n\nHội đồng Chính phủ, Toà án nhân dân tối cao, Viện kiểm sát nhân dân tối cao báo cáo công tác trước Uỷ ban thường vụ Quốc hội khi Uỷ ban thường vụ Quốc hội hoặc các cơ quan nói trên xét thấy cần thiết."
+   }
+  },
+  {
+   "id": "VN-H310-A28",
+   "no": 28,
+   "noLabel": {
+    "vi": "Điều 28"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 28\n\nChủ tịch, Phó chủ tịch nước Việt Nam dân chủ cộng hoà, Chủ tịch, các Phó chủ tịch và các thành viên khác của Uỷ ban thường vụ Quốc hội, các Uỷ ban của Quốc hội, Hội đồng Chính phủ có quyền trình dự án pháp lệnh và các dự án khác ra trước Uỷ ban thường vụ Quốc hội.\n\nCác dự án đều do Chủ tịch Uỷ ban thường vụ Quốc hội nêu ra để Uỷ ban thường vụ Quốc hội thảo luận hoặc giao cho các Uỷ ban hữu quan của Quốc hội thẩm tra trước khi nêu ra để Uỷ ban thường vụ Quốc hội thảo luận."
+   }
+  },
+  {
+   "id": "VN-H310-A29",
+   "no": 29,
+   "noLabel": {
+    "vi": "Điều 29"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 29\n\nTrong thời gian Quốc hội không họp, Uỷ ban thường vụ Quốc hội quyết định bổ nhiệm và bãi miễn các Phó thủ tướng và các thành viên khác của Hội đồng Chính phủ theo đề nghị của Thủ tướng Chính phủ."
+   }
+  },
+  {
+   "id": "VN-H310-A30",
+   "no": 30,
+   "noLabel": {
+    "vi": "Điều 30"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 30\n\nUỷ ban thường vụ Quốc hội bổ nhiệm và bãi miễn Phó Chánh án, thẩm phán Toà án nhân dân tối cao và Phó Viện trưởng, kiểm sát viên Viện kiểm sát nhân dân tối cao theo đề nghị của Chủ tịch Uỷ ban thường vụ Quốc hội."
+   }
+  },
+  {
+   "id": "VN-H310-A31",
+   "no": 31,
+   "noLabel": {
+    "vi": "Điều 31"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 31\n\nUỷ ban thường vụ Quốc hội quyết định cử và triệu hồi, quyết định bổ nhiệm và bãi miễn các đại diện toàn quyền ngoại giao nước Việt Nam dân chủ cộng hoà ở nước ngoài theo đề nghị của Thủ tướng Chính phủ."
+   }
+  },
+  {
+   "id": "VN-H310-A32",
+   "no": 32,
+   "noLabel": {
+    "vi": "Điều 32"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 32\n\nNhững nghị quyết của Uỷ ban thường vụ Quốc hội phải được quá nửa tổng số thành viên chính thức biểu quyết tán thành.\n\nCHƯƠNG III\n\nCÁC UỶ BAN CỦA QUỐC HỘI"
+   }
+  },
+  {
+   "id": "VN-H310-A33",
+   "no": 33,
+   "noLabel": {
+    "vi": "Điều 33"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 33\n\nQuốc hội thành lập Uỷ ban dự án pháp luật, Uỷ ban kế hoạch và ngân sách và những Uỷ ban khác mà Quốc hội xét thấy cần thiết để giúp Quốc hội và Uỷ ban thường vụ Quốc hội."
+   }
+  },
+  {
+   "id": "VN-H310-A34",
+   "no": 34,
+   "noLabel": {
+    "vi": "Điều 34"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 34\n\nMỗi Uỷ ban gồm có Chủ nhiệm và các Uỷ viên, và có thể có Phó chủ nhiệm.\n\nChủ nhiệm và các Uỷ viên do Quốc hội bầu theo sự đề cử của Chủ tịch đoàn. Phó chủ nhiệm do Uỷ ban chọn trong các Uỷ viên.\n\nSố thành viên của mỗi Uỷ ban do Quốc hội định.\n\nThành viên của Uỷ ban thường vụ Quốc hội có thể đồng thời là thành viên của Uỷ ban của Quốc hội."
+   }
+  },
+  {
+   "id": "VN-H310-A35",
+   "no": 35,
+   "noLabel": {
+    "vi": "Điều 35"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 35\n\nUỷ ban dự án pháp luật có nhiệm vụ:\n\n1- Thẩm tra dự án luật, dự án pháp lệnh và những dự án khác về vấn đề pháp luật do Quốc hội hoặc Uỷ ban thường vụ Quốc hội giao cho;\n\n2- Căn cứ vào quyết định của Quốc hội hoặc của Uỷ ban thường vụ Quốc hội, thảo ra dự án luật và dự án pháp lệnh;\n\n3- Đề ra dự án và ý kiến về vấn đề pháp luật với Quốc hội hoặc Uỷ ban thường vụ Quốc hội."
+   }
+  },
+  {
+   "id": "VN-H310-A36",
+   "no": 36,
+   "noLabel": {
+    "vi": "Điều 36"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 36\n\nUỷ ban kế hoạch và ngân sách có nhiệm vụ thẩm tra dự án kế hoạch Nhà nước, dự toán và quyết toán dự ngân sách Nhà nước và những dự án khác về kế hoạch Nhà nước và về ngân sách Nhà nước."
+   }
+  },
+  {
+   "id": "VN-H310-A37",
+   "no": 37,
+   "noLabel": {
+    "vi": "Điều 37"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 37\n\nQuốc hội và Uỷ ban thường vụ Quốc hội có thể lập ra những Uỷ ban điều tra về những vấn đề nhất định.\n\nThành phần, nhiệm vụ và cách làm việc của các Uỷ ban điều tra do Quốc hội hoặc Uỷ ban thường vụ Quốc hội quy định."
+   }
+  },
+  {
+   "id": "VN-H310-A38",
+   "no": 38,
+   "noLabel": {
+    "vi": "Điều 38"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 38\n\nCác đại biểu Quốc hội không ở trong các Uỷ ban có thể tham dự hội nghị của các Uỷ ban với sự đồng ý của Chủ nhiệm Uỷ ban, và có thể phát biểu ý kiến nhưng không có quyền biểu quyết.\n\nCác Uỷ ban có thể yêu cầu các thành viên của Hội đồng Chính phủ và những nhân viên hữu quan khác trình bày về những vấn đề cần thiết có liên quan đến nhiệm vụ của Uỷ ban."
+   }
+  },
+  {
+   "id": "VN-H310-A39",
+   "no": 39,
+   "noLabel": {
+    "vi": "Điều 39"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 39\n\nNếu được Quốc hội đồng ý và trong thời gian Quốc hội không họp, nếu được Uỷ ban thường vụ Quốc hội đồng ý, các Uỷ ban của Quốc hội có thể lập ra các tiểu ban giúp việc.\n\nTrưởng tiểu ban phải là một thành viên của Uỷ ban; các thành viên của Uỷ ban có thể không phải là thành viên của Uỷ ban hoặc không phải là đại biểu Quốc hội.\n\nCHƯƠNG IV\n\nCÁC ĐẠI BIỂU QUỐC HỘI"
+   }
+  },
+  {
+   "id": "VN-H310-A40",
+   "no": 40,
+   "noLabel": {
+    "vi": "Điều 40"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 40\n\nNhiệm kỳ của đại biểu mỗi khoá Quốc hội bắt đầu từ kỳ họp thứ nhất của khoá Quốc hội đó đến kỳ họp thứ nhất của khoá Quốc hội sau."
+   }
+  },
+  {
+   "id": "VN-H310-A41",
+   "no": 41,
+   "noLabel": {
+    "vi": "Điều 41"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 41\n\nĐại biểu Quốc hội phải trung thành với chế độ dân chủ nhân dân, tuân theo Hiến pháp và pháp luật, liên hệ chặt chẽ với nhân dân, hết lòng hết sức phục vụ nhân dân."
+   }
+  },
+  {
+   "id": "VN-H310-A42",
+   "no": 42,
+   "noLabel": {
+    "vi": "Điều 42"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 42\n\nĐại biểu Quốc hội có quyền chất vấn Hội đồng Chính phủ và các cơ quan thuộc Hội đồng Chính phủ.\n\nLời chất vấn do Chủ tịch đoàn, hoặc trong thời gian Quốc hội không họp thì do Uỷ ban thường vụ Quốc hội chuyển cho cơ quan bị chất vấn để trả lời trước Quốc hội hoặc trước Uỷ ban thường vụ Quốc hội."
+   }
+  },
+  {
+   "id": "VN-H310-A43",
+   "no": 43,
+   "noLabel": {
+    "vi": "Điều 43"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 43\n\nNếu không có sự đồng ý của Quốc hội, và trong thời gian Quốc hội không họp, nếu không có sự đồng ý của Uỷ ban thường vụ Quốc hội thì không được bắt giam và truy tố đại biểu Quốc hội.\n\nNếu vì phạm pháp quả tang mà đại biểu Quốc hội bị tạm giữ thì cơ quan tạm giữ phải lập tức báo cáo để Quốc hội hoặc Uỷ ban thường vụ Quốc hội xét và quyết định."
+   }
+  },
+  {
+   "id": "VN-H310-A44",
+   "no": 44,
+   "noLabel": {
+    "vi": "Điều 44"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 44\n\nĐại biểu Quốc hội có quyền tham dự hội nghị Hội đồng nhân dân các cấp nơi mình đã được bầu."
+   }
+  },
+  {
+   "id": "VN-H310-A45",
+   "no": 45,
+   "noLabel": {
+    "vi": "Điều 45"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 45\n\nĐại biểu Quốc hội có thể bị cử tri của đơn vị bầu ra mình bãi miễn trước khi hết nhiệm kỳ, nếu không xứng đáng với sự tín nhiệm của nhân dân.\n\nViệc bãi miễn một đại biểu Quốc hội phải được quá nửa tổng số cử tri trong đơn vị bầu cử bỏ phiếu tán thành."
+   }
+  },
+  {
+   "id": "VN-H310-A46",
+   "no": 46,
+   "noLabel": {
+    "vi": "Điều 46"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 46\n\nĐại biểu Quốc hội nào phạm pháp và bị toà án phạt tù thì mất quyền đại biểu Quốc hội."
+   }
+  },
+  {
+   "id": "VN-H310-A47",
+   "no": 47,
+   "noLabel": {
+    "vi": "Điều 47"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 47\n\nQuốc hội có thể xét định về những trường hợp đại biểu Quốc hội không xứng đáng là đại biểu Quốc hội."
+   }
+  },
+  {
+   "id": "VN-H310-A48",
+   "no": 48,
+   "noLabel": {
+    "vi": "Điều 48"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 48\n\nĐại biểu Quốc hội có thể xin từ chức vì lý do không đảm nhiệm được chức vụ đại biểu Quốc hội nữa.\n\nViệc xin từ chức của đại biểu Quốc hội do Uỷ ban thường vụ Quốc hội xét và trình Quốc hội quyết định."
+   }
+  },
+  {
+   "id": "VN-H310-A49",
+   "no": 49,
+   "noLabel": {
+    "vi": "Điều 49"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 49\n\nTrường hợp khuyết đại biểu Quốc hội thì Uỷ ban thường vụ Quốc hội xét và quyết định việc tuyển cử bổ sung.\n\nNhiệm kỳ của đại biểu Quốc hội được bầu bổ sung bắt đầu từ kỳ họp Quốc hội sau cuộc tuyển cử bổ sung đến kỳ họp thứ nhất của khoá Quốc hội sau.\n\n------------------------------------------\n\nLuật này đã được Quốc hội nước Việt Nam dân chủ cộng hoà khoá thứ II, kỳ h\n\nHồ Chí Minh\n\n(Đã ký)\n\nọp thứ nhất, thông qua ngày 14 tháng 7 năm 1960.\n\n1:{\"id\":\"883\",\"docType\":{\"id\":\"11025e19-2dd6-4165-85ad-ab6241186a1a\",\"name\":\"Luật\",\"code\":\"Lu\",\"parentCode\":\"VBQPPL\",\"parentName\":null},\"docGroup\":\"VBQPPL\",\"docNum\":\"Không số\",\"title\":\"Luật Tổ chức Quốc hội số Không số\",\"applicationNote\":\"Bị thay thế bởi Luật 1-LCT/HĐNN7 Tổ chức Quốc hội và Hội đồng Nhà nước\",\"issueDate\":\"1960-07-14T01:00:00\",\"effFrom\":\"1960-07-26T01:00:00\",\"effTo\":\"1981-07-11T00:00:00\",\"publicDate\":null,\"effStatus\":{\"id\":\"f55c1469-4341-4274-93ef-32b283db4dbd\",\"name\":\"Hết hiệu lực toàn bộ\",\"code\":\"HHL\",\"parentCode\":null,\"parentName\":null},\"status\":\"Publish\",\"lang\":\"vi\",\"defaultLanguage\":\"VN\",\"updatedBy\":\"dungdvm_II.2\",\"updatedDate\":\"2026-01-16T17:33:21\",\"agencyName\":\"Quốc hội\",\"organization\":{\"id\":\"9a14b417-f32f-4be0-88a1-6314324075f8\",\"code\":\"01\",\"name\":\"Quốc hội\",\"nameEn\":\"The National Assembly\",\"shortName\":null,\"orgType\":\"1\"},\"isLw\":true,\"documentContent\":{\"id\":\"883\",\"title\":null,\"content\":\"$2\"},\"documentContentEn\":null,\"documentContentFileName\":null,\"documentContentFileDocName\":\"Luat.to.chuc.QH.1960.doc\",\"documentIssues\":[{\"id\":\"f2c4e68e-d5cb-489a-9661-9e4bc3cb5ee8\",\"agencyId\":\"55\",\"agencyName\":\"Quốc hội\",\"agencyNameEn\":\"National Assembly of Vietnam\",\"agencyCode\":\"QH\",\"personId\":\"303\",\"personName\":\"Hồ Chí Minh\",\"jobTitleId\":\"28da0087-8afd-420c-875c-b2369e212c3e\",\"jobTitleCode\":\"CTQH\",\"jobTitleName\":\"Chủ tịch Quốc hội\",\"orderIndex\":1}],\"documentMajors\":[],\"documentFields\":[{\"id\":\"76e2c0d5-e93e-4ee9-8c72-59dae1167432\",\"name\":\"Chưa phân loại\",\"code\":null,\"parentCode\":null,\"parentName\":null}],\"documentRelatedList\":[{\"id\":\"52b576da-7378-4279-823c-bfbe5252db8e\",\"fileName\":\"883_body_content.html\",\"relatedType\":\"MARKDOWN\",\"fileTitle\":\"883_body_content.html\",\"fileOrder\":null}],\"provisionTree\":null,\"references\":null,\"isEffectAllDocument\":false,\"isOld\":true,\"reviewStatus\":\"INITIAL\",\"reviewed\":false,\"isTranslationDoc\":false,\"isConsolidatedDocument\":false,\"isConstitutionDocument\":false,\"isAdministrativeDocument\":false,\"viewCount\":47,\"showViewCount\":true,\"hasContent\":true,\"hasOriginalPdf\":null,\"hasAIProcessed\":false,\"hasClauseRelation\":null,\"aiResults\":[]}"
+   }
+  }
+ ]
+}

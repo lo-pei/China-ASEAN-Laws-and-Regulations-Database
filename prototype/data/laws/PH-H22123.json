@@ -1,0 +1,62 @@
+{
+ "id": "PH-H22123",
+ "title": {
+  "zh": null,
+  "en": "Converting the Tiwi National Vocational School Into An Agro-Industrial School",
+  "orig": "Converting the Tiwi National Vocational School Into An Agro-Industrial School"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1974-05-29",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 716",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 653,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_00716_1974_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_00716_1974_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22123-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The Tiwi National Vocational School is hereby converted into an Agro-Industrial School, at\nTiwi, Albay, to be known as the Tiwi Agro-Industrial School."
+   }
+  },
+  {
+   "id": "PH-H22123-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The sum of two hundred thousand pesos is hereby appropriated out of any funds in the National\nTreasury not otherwise appropriated, for the establishment, operation and maintenance of said school during\nthe fiscal year nineteen hundred and seventy-five. Thereafter, such as may be necessary shall be included in\nthe annual General Appropriations Act.\"\nThis Decree shall take effect immediately.\nDone in the City of Manila, this 29th day of May in the year of Our Lord, nineteen hundred and seventy-five."
+   }
+  }
+ ]
+}

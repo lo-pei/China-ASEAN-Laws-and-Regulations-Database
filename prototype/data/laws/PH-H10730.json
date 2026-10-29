@@ -1,0 +1,72 @@
+{
+ "id": "PH-H10730",
+ "title": {
+  "zh": null,
+  "en": "AN ACT FOR THE REORGANIZATION OF THE MINING BUREAU OF THE PHILIPPINE ISLANDS.",
+  "orig": "AN ACT FOR THE REORGANIZATION OF THE MINING BUREAU OF THE PHILIPPINE ISLANDS."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 17",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 833,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_00017_1900_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_00017_1900_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H10730-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Until otherwise provided by law, the employees of the Mining Bureau shall be:\n(a) An officer in charge, detailed by the Military Governor from the Army of the United States and\ndrawing no salary.\n(b) A chief clerk, interpreter and stenographer, at one hundred and twenty-five dollars per month.\n(c) A mining engineer and assayer, at one hundred and twenty-five dollars per month.\n(d) A record clerk, at twenty-seven dollars and fifty cents per month.\n(e) An engineer's helper and assistant record clerk, at twelve dollars and fifty cents per month.\n(f) A janitor, at seven dollars and fifty cents per month.\n(g) A laborer, at five dollars per month."
+   }
+  },
+  {
+   "id": "PH-H10730-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "In this Act whenever a sum of money is mentioned it shall be understood to refer to the money of\nthe United States."
+   }
+  },
+  {
+   "id": "PH-H10730-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, October 10, 1900."
+   }
+  }
+ ]
+}

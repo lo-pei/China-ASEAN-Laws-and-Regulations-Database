@@ -1,0 +1,72 @@
+{
+ "id": "PH-H12899",
+ "title": {
+  "zh": null,
+  "en": "An Act Prohibiting, in the Territory Inhabited By Moros or Other Non-Christian Tribes, the Forcing, Compelling, or Obliging of Any Laborer or Other Employee to Purchase Merchandise, Commodities, or Personal Property Under Certain Conditions.",
+  "orig": "An Act Prohibiting, in the Territory Inhabited By Moros or Other Non-Christian Tribes, the Forcing, Compelling, or Obliging of Any Laborer or Other Employee to Purchase Merchandise, Commodities, or Personal Property Under Certain Conditions."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1912-10-24",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2193",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 945,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1912/act_2193_1912.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02193_1912_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02193_1912_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12899-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "No person, firm, or corporation engaged in any business or enterprise within the territory\ninhabited by Moros or other non-Christian tribes shall, in any manner force, compel, or oblige any laborer or\nother employee employed by him to purchase merchandise, commodities, or personal property of any kind or\nnature from such person, firm, or corporation, or from any other person, firm, or corporation."
+   }
+  },
+  {
+   "id": "PH-H12899-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Every person violating the provisions of this Act and every member of a firm, and every director\nor officer of a corporation, who knowingly consents to any violation of this Act or directs the same, shall, for\neach offense, be punished by a fine of not less than twenty-five nor more than two hundred pesos or by\nimprisonment for a period of not less than five days nor more than six months, or by both such fine and\nimprisonment, in the discretion of the court."
+   }
+  },
+  {
+   "id": "PH-H12899-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect sixty days after its passage.\nEnacted, October 24, 1912."
+   }
+  }
+ ]
+}

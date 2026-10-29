@@ -1,0 +1,1606 @@
+{
+ "id": "MY-H637",
+ "title": {
+  "zh": "2025年零工工作者法",
+  "en": "GIG WORKERS ACT 2025",
+  "orig": "GIG WORKERS ACT 2025",
+  "vi": "Luật về Người lao động tự do năm 2025",
+  "th": "พระราชบัญญัติผู้ทำงานอิสระ ค.ศ. 2025",
+  "id": "Undang-Undang Pekerja Gig Tahun 2025",
+  "ms": "Akta Pekerja Gig 2025"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-14",
+ "language": "en",
+ "level": "law",
+ "category": "04_劳工与行政法",
+ "status": "active",
+ "promulgatedDate": "2025",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "ACT872",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 112,
+ "chars": 70593,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-detail.php?act=872&lang=BI"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\04_劳工与行政法\\2025_872_GIG WORKERS ACT 2025.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 112 条；逐字未改写（源自厂商 OCR 文本）。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H637-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "1. (1) This Act may be cited as the Gig Workers Act 2025.\n\n(2) This Act comes into operation on a date to be appointed by\n\nthe Minister by notification in the Gazette and the Minister may\n\nappoint different dates for the coming into operation of different\n\nprovisions of this Act.\n\nLAWS OF MALAYSIA\n\nAct 872\n\nGIG WORKERS ACT 2025\n\nInterpretation"
+   }
+  },
+  {
+   "id": "MY-H637-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "2. In this Act, unless the context otherwise requires—\n\n\"this Act\" includes any subsidiary legislation made under this\n\nAct;\n\n\"award\" means an award made by the Tribunal in respect of\n\nany dispute or matter referred to it or any decision or order made\n\nby the Tribunal under this Act;\n\n\"prescribed\" means prescribed by the Minister by regulations\n\nmade under this Act;\n\n\"contracting entity\" means—\n\n(a) an individual;\n\n(b) any person including a body of persons incorporated or\n\nregistered under any written law; or\n\n(c) any platform provider,\n\nwho engages and enters into a service agreement with a gig worker\n\nfor the performance of service by the gig worker in exchange\n\nfor payment of earnings;\n\n\"Council\" means the Consultative Council established under\n\nsection 46;\n\n\"internal grievance mechanism\" means a dispute resolution\n\nmechanism provided by a contracting entity in a service agreement\n\nfor the purpose of addressing and resolving any grievance, dispute\n\nor matter that concerns a gig worker;\n\n\"Minister\" means the Minister charged with the responsibility\n\nfor human resources;\n\n\"gig worker\" means an individual who—\n\n(a) is a citizen or a permanent resident of Malaysia;\nGig Workers 11\n\n(b) enters into a service agreement with a contracting entity\n\nfor the performance of—\n\n(i) any service with any contracting entity who is a\n\nplatform provider; or\n\n(ii) any service as specified in the Schedule with any\n\ncontracting entity who is not a platform provider;\n\nand\n\n(c) receives earnings for the service;\n\n\"earnings\" means any payment payable to a gig worker under\n\na service agreement but does not include tip and gratuities, and\n\nother benefits received by the gig worker;\n\n\"platform provider\" means any digital intermediary system provider\n\nwho connects the service by a gig worker to a service user;\n\n\"service agreement\" means any agreement, whether orally or\n\nin writing and whether express or implied, between a contracting\n\nentity and a gig worker who provides a service in Malaysia\n\nin exchange for earnings, but does not include a \"contract of\n\nservice\" as defined under the Employment Act 1955 [Act 265],\n\nthe Labour Ordinance of Sabah [Sabah Cap. 67], the Labour\n\nOrdinance of Sarawak [Sarawak Cap. 76] and the Occupational\n\nSafety and Health Act 1994 [Act 514] or a \"contract of\n\nemployment\" as defined under the Industrial Relations\n\nAct 1967 [Act 177];\n\n\"gig workers' association\" means any association registered under\n\nthe Societies Act 1966 [Act 335] which shall consist of the\n\ngig workers for the purpose of representing the interests and welfare\n\nof the gig workers;\n\n\"dispute\" means any dispute between a gig worker and a\n\ncontracting entity in relation to the terms and conditions of the\n\nservice agreement, any rights of the gig worker or any other\n\nmatters relating to it under this Act;\n\n\"tip and gratuities\" means—\n\n(a) a payment voluntarily made to a gig worker in addition\n\nto the earnings; or\n\n(b) a payment voluntarily made through a contracting entity\n\nwith the intention that the payment would be made to\n\nthe gig worker in addition to his earnings;\n\n\"Tribunal\" means the Gig Workers Tribunal established under\n\nPart V of this Act.\n\nPart II\n\nSERVICE AGREEMENT\n\nService agreement"
+   }
+  },
+  {
+   "id": "MY-H637-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "chapter": {
+    "en": "Part II"
+   },
+   "heading": {},
+   "text": {
+    "en": "3. Every service agreement entered into between a contracting\n\nentity and a gig worker shall specify the terms and conditions\n\nas follows:\n\n(a) parties to the agreement;\n\n(b) period of the agreement;\n\n(c) services to be provided by the gig worker;\n\n(d) obligations of the parties;\n\n(e) rate and details of earnings of the gig worker;\n\n(f) method of payment of earnings; and\n\n(g) any gig worker's benefits or tip and gratuities, if any.\n\nSaving of existing service agreement"
+   }
+  },
+  {
+   "id": "MY-H637-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "chapter": {
+    "en": "Part II"
+   },
+   "heading": {},
+   "text": {
+    "en": "4. Every service agreement lawfully entered into between a\n\ncontracting entity and a gig worker before the coming into force\n\nof this Act, shall if it is still legally binding upon the parties,\n\ncontinue in force for such period as may be specified in the\n\nagreement and the parties shall be subject and entitled to the\n\nbenefits under this Act.\nGig Workers 13\n\nPrevailing terms and conditions"
+   }
+  },
+  {
+   "id": "MY-H637-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "chapter": {
+    "en": "Part II"
+   },
+   "heading": {},
+   "text": {
+    "en": "5. (1) If any terms and conditions of a service agreement, whether\n\nsuch agreement was entered into before or after the coming into\n\nforce of this Act, is less favourable to a gig worker against the\n\nterms and conditions provided for under this Act, the terms and\n\nconditions of the service agreement shall be void.\n\n(2) The less favourable terms and conditions referred to in\n\nsubsection (1) shall be substituted with the terms and conditions\n\nas provided under this Act.\n\nValidity of terms and conditions"
+   }
+  },
+  {
+   "id": "MY-H637-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "chapter": {
+    "en": "Part II"
+   },
+   "heading": {},
+   "text": {
+    "en": "6. Notwithstanding section 5, a contracting entity and a gig\n\nworker may agree to any terms and conditions which is more\n\nfavourable to the gig worker.\n\nMatters not provided under this Act"
+   }
+  },
+  {
+   "id": "MY-H637-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7"
+   },
+   "chapter": {
+    "en": "Part II"
+   },
+   "heading": {},
+   "text": {
+    "en": "7. If there is no provision made in respect of any matter under\n\nthis Act, the matter shall not be prevented from being provided\n\nin a service agreement or from being negotiated upon between\n\na contracting entity and a gig worker.\n\nPart III\n\nGIG WORKER\n\nRights of gig worker"
+   }
+  },
+  {
+   "id": "MY-H637-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8"
+   },
+   "chapter": {
+    "en": "Part III"
+   },
+   "heading": {},
+   "text": {
+    "en": "8. (1) A gig worker—\n\n(a) shall be informed of the agreed terms and conditions of the\n\nservice agreement;\n\n(b) shall be informed of the agreed service to be performed;\n\n(c) shall be informed of the agreed rate and details of earnings\n\nbefore the gig worker agrees to perform the service;\n\n(d) shall be informed of the method of payment of earnings,\n\ntip and gratuities, and other benefits;\n\n(e) shall receive earnings for the service rendered within\n\nthe period as agreed by the contracting entity and the\n\ngig worker;\n\n(f) shall be consulted and informed if there is any variation\n\nof terms and conditions of the service agreement;\n\n(g) shall not be terminated of his service without just cause\n\nor excuse; and\n\n(h) shall be provided with any dispute resolution mechanism.\n\n(2) In addition to the rights referred to in subsection (1),\n\na gig worker who enters into a service agreement with a platform\n\nprovider—\n\n(a) shall be informed of the automated monitoring systems\n\nthrough electronic means used by the platform provider to\n\nmonitor, supervise or evaluate the gig worker, including\n\nthe consequences arising from it;\n\n(b) shall be informed of the automated decision-making\n\nsystems through electronic means used by the platform\n\nprovider to make decision relating to assignment of the\n\nservice and gig worker's working conditions; and\n\n(c) shall be provided with the non-automated review mechanism\n\nto the systems referred to in paragraphs (a) and (b) used\n\nby the platform provider.\n\n(3) Any terms and conditions in the service agreement which\n\npurports to contract out or waive a gig worker's rights shall be\n\nnull and void.\n\nProhibition on contracting entity in respect of certain acts"
+   }
+  },
+  {
+   "id": "MY-H637-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9"
+   },
+   "chapter": {
+    "en": "Part III"
+   },
+   "heading": {},
+   "text": {
+    "en": "9. A contracting entity shall not—\n\n(a) impose any condition in a service agreement seeking to\n\nrestraint the rights of a gig worker to enter into any\n\nagreement with other parties;\nGig Workers 15\n\n(b) discriminate against any gig worker in relation to conditions\n\nof work, assignment of service or payment of earnings; or\n\n(c) terminate the service agreement without just cause or\n\nexcuse.\n\nRights of gig worker to join, participate in or establish gig\n\nworkers' association"
+   }
+  },
+  {
+   "id": "MY-H637-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10"
+   },
+   "chapter": {
+    "en": "Part III"
+   },
+   "heading": {},
+   "text": {
+    "en": "10. Any terms and conditions of a service agreement shall be\n\nvoid if the terms and conditions, in any way, restrict or exclude\n\nthe rights of a gig worker—\n\n(a) to associate with any other person for the establishment\n\nof a gig workers' association;\n\n(b) to join any gig workers' association; or\n\n(c) to participate in any activity organized by any gig workers'\n\nassociation, whether the gig worker holds office in the\n\nassociation or otherwise.\n\nRights to earnings"
+   }
+  },
+  {
+   "id": "MY-H637-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11"
+   },
+   "chapter": {
+    "en": "Part III"
+   },
+   "heading": {},
+   "text": {
+    "en": "11. (1) Where a service agreement does not provide any terms\n\nand conditions in relation to the payment of earnings to a gig\n\nworker, a contracting entity shall pay the earnings within the\n\nperiod of seven days from the date of completion of the service.\n\n(2) Any contracting entity who contravenes subsection (1)\n\ncommits an offence.\n\nDeduction of earnings, tip and gratuities"
+   }
+  },
+  {
+   "id": "MY-H637-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12"
+   },
+   "chapter": {
+    "en": "Part III"
+   },
+   "heading": {},
+   "text": {
+    "en": "12. (1) A contracting entity shall not make any deduction from a\n\ngig worker's earnings or tip and gratuities unless the deduction—\n\n(a) is made to the extent of any overpayment of earnings\n\nmade during the immediately preceding three months\n\nfrom the month in which the deduction is to be made,\n\nby reason of mistake made by the contracting entity;\n\n(b) is authorized under this Act or any other written law; or\n\n(c) is permitted by the Director General in the form and\n\nmanner as he may determine.\n\n(2) Any contracting entity who contravenes subsection (1)\n\ncommits an offence.\n\nRight to be issued earnings slip"
+   }
+  },
+  {
+   "id": "MY-H637-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13"
+   },
+   "chapter": {
+    "en": "Part III"
+   },
+   "heading": {},
+   "text": {
+    "en": "13. (1) A gig worker may request an earnings slip from\n\na contracting entity other than an individual.\n\n(2) Upon receiving request by the gig worker under subsection (1),\n\nthe contracting entity other than an individual shall issue the\n\nearnings slip in the form and manner as may be determined by\n\nthe Director General.\n\n(3) Any contracting entity other than an individual who\n\ncontravenes subsection (2) commits an offence.\n\nDeactivation under service agreement, etc."
+   }
+  },
+  {
+   "id": "MY-H637-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14"
+   },
+   "chapter": {
+    "en": "Part III"
+   },
+   "heading": {},
+   "text": {
+    "en": "14. (1) A platform provider shall have the right to deactivate\n\nthe access of a gig worker to his digital intermediary\n\nsystem if—\n\n(a) the deactivation is in accordance with the terms and\n\nconditions under the service agreement; or\n\n(b) there is misconduct committed by the gig worker in the\n\ncourse of performing his service.\n\n(2) A gig worker is deactivated from the digital intermediary\n\nsystem if the platform provider modifies, suspends or terminates\n\nthe gig worker's access to his digital intermediary system in a\n\nway that prevents the gig worker from performing his service\n\nunder the service agreement.\nGig Workers 17\n\n(3) The platform provider may modify or suspend the access\n\nof the gig worker to his digital intermediary system for a period\n\nnot exceeding fourteen days for the purpose of holding an inquiry\n\nfor the matters referred to in subsection (1).\n\n(4) The platform provider shall notify the gig worker in respect\n\nof such modification or suspension referred to in subsection (3)\n\nby giving a notice in writing to the gig worker.\n\n(5) Where the platform provider finds that there is no reason to\n\ndeactivate the access of the gig worker to his digital intermediary\n\nsystem under paragraph 1(a) or (b), the platform provider shall—\n\n(a) reactivate the access of the gig worker to his digital\n\nintermediary system; and\n\n(b) pay to the gig worker half of the amount of the average\n\ndaily earnings for such modification or suspension\n\nperiods and the payment shall be calculated based on\n\nthe earnings on the actual service day within thirty days\n\nperiod preceding the modification or suspension period.\n\n(6) Where the platform provider finds that the deactivation is\n\nin accordance with the terms and conditions under the service\n\nagreement or any misconduct has been committed by the gig\n\nworker, the platform provider may—\n\n(a) terminate the access of the gig worker to his digital\n\nintermediary system and the service agreement; or\n\n(b) continue with the modification or suspension of the access\n\nof the gig worker to his digital intermediary system\n\nfor a further period not exceeding seven days without\n\nterminating the service agreement.\n\n(7) The platform provider shall give the right to be heard to the\n\ngig worker before taking any action under paragraph 6(a) or (b).\n\n(8) Upon the expiration of the period referred to in paragraph (6)(b),\n\nthe platform provider shall reactivate the access of the gig worker\n\nto his digital intermediary system.\n\n(9) The platform provider shall give a written explanation to\n\nthe gig worker for any decision made under subsection (6).\n\n(10) Any platform provider who contravenes subsection (4),\n\n(5), (7), (8) or (9) commits an offence.\n\nPriority of earnings over other debts"
+   }
+  },
+  {
+   "id": "MY-H637-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15"
+   },
+   "chapter": {
+    "en": "Part III"
+   },
+   "heading": {},
+   "text": {
+    "en": "15. (1) Where by order of a court made upon the application of\n\nthe secured creditor or the person liable under any of the provisions\n\nof this Act to pay the earnings due to any gig worker, or any\n\nmoney due to the person liable is attached or garnished, the court\n\nor the receiver or the manager shall not authorize payment of the\n\nproceeds of the sale, or of the money so attached or garnished,\n\nto the secured creditor or the debenture holder until the court or\n\nthe receiver or the manager have ascertained and caused to be\n\npaid, out of such proceeds or money, the earnings of such gig\n\nworker, which the person liable was liable to pay at the date of\n\nsuch sale, attachment or garnishment:\n\nProvided that the total amount of the earnings of any gig worker\n\nto which priority over the claim of a secured creditor given under\n\nthis section shall not exceed the amount due by the contracting\n\nentity to the gig worker as earnings for any four consecutive\n\nmonths' service.\n\n(2) For the purposes of this section—\n\n\"secured creditor\" includes any person holding a mortgage,\n\ncharge, lien or decree;\n\n\"person liable\" includes any person who exercises his rights\n\nunder a debenture of any property.\n\nDuties of contracting entity under this Part"
+   }
+  },
+  {
+   "id": "MY-H637-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16"
+   },
+   "chapter": {
+    "en": "Part III"
+   },
+   "heading": {},
+   "text": {
+    "en": "16. A contracting entity shall have the duty to fulfil the rights\n\nof a gig worker as provided under this Part.\nGig Workers 19\n\nPart IV\n\nDISPUTE RESOLUTION\n\nInternal grievance mechanism"
+   }
+  },
+  {
+   "id": "MY-H637-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "17. (1) Subject to paragraph 8(1)(h), a gig worker may lodge\n\na complaint of a dispute in writing to a contracting entity other\n\nthan an individual or a sole proprietor.\n\n(2) Upon receiving the complaint from the gig worker,\n\nthe contracting entity other than an individual or a sole proprietor\n\nshall initiate and resolve the dispute by way of an internal grievance\n\nmechanism provided under the service agreement within thirty\n\ndays from the date the complaint is lodged.\n\n(3) This section shall not apply to any dispute in relation to\n\ndeactivation under section 14.\n\nConciliator"
+   }
+  },
+  {
+   "id": "MY-H637-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "18. (1) The Director General for Industrial Relations, the Deputy\n\nDirector General for Industrial Relations and any officer appointed\n\nunder subsection 2a(2) of the Industrial Relations Act 1967 shall\n\nbe the Conciliator for the purposes of this Part.\n\n(2) The Conciliator shall have the general direction, control,\n\npowers and supervision of all matters relating to this Part.\n\n(3) A gig worker may lodge a complaint of dispute for\n\na conciliation in the case of—\n\n(a) a complaint of dispute is lodged against a contracting\n\nentity who is an individual or a sole proprietor;\n\n(b) the gig worker is dissatisfied with the decision of platform\n\nprovider under subsection 14(9);\n\n(c) an internal grievance mechanism is not provided by the\n\ncontracting entity under section 17;\n\n(d) the gig worker is dissatisfied with the decision of\n\nthe contracting entity through internal grievance\n\nmechanism; or\n\n(e) the dispute failed to be resolved through internal grievance\n\nmechanism after thirty days period under section 17 has\n\nlapsed.\n\nConciliation proceedings"
+   }
+  },
+  {
+   "id": "MY-H637-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "19. (1) The complaint of dispute under subsection 18(3) shall\n\nbe filed to the Conciliator in the manner as prescribed.\n\n(2) Upon receiving the complaint of dispute, the Conciliator\n\nshall take any step necessary or expedient to initiate conciliation\n\nproceedings for promoting an expeditious settlement.\n\n(3) Notwithstanding subsection (2), where a dispute occurs or\n\nis expected to occur, which in the opinion of the Conciliator is\n\nnot likely to be settled between the parties, the Conciliator may,\n\nif he deems it necessary in the public interest, take any step\n\nnecessary or expedient to initiate conciliation proceedings for\n\npromoting an expeditious settlement whether or not the dispute\n\nhas been reported to him.\n\n(4) Where a settlement is reached between the parties, the\n\nConciliator shall record the terms of the settlement between the\n\nparties.\n\n(5) Where the Conciliator is satisfied that there is no likelihood\n\nof the dispute being settled, the Conciliator shall refer the matter\n\nto the Tribunal.\n\n(6) The steps to be taken by the Conciliator under this Part\n\nshall be done in the manner as prescribed.\n\nConciliation by Minister"
+   }
+  },
+  {
+   "id": "MY-H637-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "20. (1) Notwithstanding any provision under this Part, the Minister\n\nmay conciliate any dispute.\nGig Workers 21\n\n(2) Where a settlement is reached between the parties, the\n\nMinister shall direct the Conciliator to record the terms of the\n\nsettlement between the parties.\n\n(3) Where the Minister is satisfied that there is no likelihood\n\nof the dispute being settled, the Minister shall refer the dispute\n\nto the Tribunal.\n\nNon-compliance of terms of settlement"
+   }
+  },
+  {
+   "id": "MY-H637-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "21. (1) Where any of the terms of the settlement under\n\nsubsection 19(4) or 20(2) is not complied with, any party may\n\nlodge a complaint to the Conciliator.\n\n(2) If the Conciliator finds that any of the terms of settlement\n\nrecorded under subsection 19(4) or 20(2) is not been complied\n\nwith by any of the parties, the Conciliator shall refer the matter\n\nto the Tribunal.\n\nPublic servant"
+   }
+  },
+  {
+   "id": "MY-H637-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "22. Any Conciliator while discharging his duties or performing\n\nhis functions or exercising his powers under this Part shall be\n\ndeemed to be a public servant within the meaning of the Penal\n\nCode [Act 574].\n\nApplication of Public Authorities Protection Act 1948"
+   }
+  },
+  {
+   "id": "MY-H637-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "23. The Public Authorities Protection Act 1948 [Act 198] shall\n\napply to any action, suit, prosecution or proceedings against\n\nthe Conciliator in respect of any act, neglect or default done or\n\ncommitted by him in good faith or any omission by him in good\n\nfaith, in such capacity.\n\nPart V\n\nGIG WORKERS TRIBUNAL\n\nEstablishment of Tribunal"
+   }
+  },
+  {
+   "id": "MY-H637-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "24. There shall be established a tribunal to be known as the\n\n\"Gig Workers Tribunal\".\n\nMembers, terms of office and allowances"
+   }
+  },
+  {
+   "id": "MY-H637-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "25. (1) The Tribunal shall consist of the following members\n\nwho shall be appointed by the Minister:\n\n(a) a President and a Deputy President to be appointed from\n\namongst the officers of the Judicial and Legal Service;\n\n(b) not less than five other members which shall comprise\n\nof—\n\n(i) persons who are officers of or who have held\n\noffice in the Judicial and Legal Service; or\n\n(ii) persons who are admitted as advocates and\n\nsolicitors under the Legal Profession Act 1976\n\n[Act 166], the Advocates Ordinance of Sabah\n\n[Sabah Cap. 2] or the Advocates Ordinance of\n\nSarawak [Sarawak Cap. 110], and who have not\n\nless than seven years' standing; or\n\n(iii) notwithstanding subparagraph (ii), a qualified\n\nperson as defined in the Legal Profession\n\nAct 1976, with at least fifteen years of experience\n\nin labour and industrial relations in the ministry\n\ncharged with the responsibility for human\n\nresources may be considered for appointment\n\nas a member under this paragraph.\n\n(2) The members of the Tribunal referred to in subsection (1)—\n\n(a) shall hold office for a term not exceeding three years;\n\nand\n\n(b) shall be eligible for re-appointment upon expiration of\n\nthe term of office but shall not be appointed for more\n\nthan three consecutive terms.\n\n(3) The members of the Tribunal appointed under paragraphs (1)(a)\n\nand (b) shall be paid any allowances as may be determined by\n\nthe Minister.\nGig Workers 23\n\nTemporary exercise of functions of President"
+   }
+  },
+  {
+   "id": "MY-H637-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "26. Where, the President is for any reason unable to perform\n\nhis functions or during any period of vacancy in the office of\n\nthe President, the Deputy President shall perform the functions\n\nof the President.\n\nVacation of office"
+   }
+  },
+  {
+   "id": "MY-H637-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 27"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "27. The office of a member of the Tribunal shall become vacant\n\nupon—\n\n(a) the death of the member;\n\n(b) the member resigning from the office by giving three\n\nmonths' written notice to the Minister; or\n\n(c) expiration of his term of office.\n\nRevocation of appointment"
+   }
+  },
+  {
+   "id": "MY-H637-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 28"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "28. The Minister may revoke the appointment of a member of\n\nthe Tribunal appointed under subsection 25(1)—\n\n(a) if his conduct, whether in connection with his duties as\n\na member of the Tribunal or otherwise, has been such\n\nas to bring discredit to the Tribunal;\n\n(b) if he becomes incapable of properly carrying out his\n\nduties as a member of the Tribunal;\n\n(c) if he has been convicted on a charge in respect of—\n\n(i) an offence involving fraud, dishonesty or moral\n\nturpitude;\n\n(ii) an offence under any law relating to corruption;\n\n(iii) an offence under this Act; or\n\n(iv) any other offence punishable with imprisonment\n\nfor more than two years;\n\n(d) if he is adjudged bankrupt by a court of competent\n\njurisdiction;\n\n(e) if he has been found or declared to be of unsound mind\n\nor has otherwise become incapable of managing his\n\naffairs; or\n\n(f) if he absents himself from three consecutive sittings of\n\nthe Tribunal without leave of the President.\n\nResignation and filling of vacancy"
+   }
+  },
+  {
+   "id": "MY-H637-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Section 29"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "29. (1) The President, the Deputy President or the members of\n\nthe Tribunal appointed under subsection 25(1) may at any time\n\nresign his office by giving three months' written notice to the\n\nMinister.\n\n(2) Where the President, the Deputy President or a member\n\nappointed under subsection 25(1) ceases to be a member of the\n\nTribunal, the Minister may appoint another person to fill the\n\nvacancy for the remainder of the term for which the vacating\n\nmember was appointed.\n\nRegistrar, officers and staff"
+   }
+  },
+  {
+   "id": "MY-H637-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Section 30"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "30. (1) The Minister shall appoint a Registrar, a Deputy Registrar,\n\nand such number of officers and staff as may be necessary for\n\ncarrying out the functions of the Tribunal.\n\n(2) The duties of the Registrar, Deputy Registrar, and other\n\nofficers and staff of the Tribunal shall, subject to this Act, be as\n\nthe President directs.\n\n(3) The Registrar, a Deputy Registrar and such number of\n\nofficers appointed under subsection (1) shall be from the Industrial\n\nRelations Officers Scheme of Service.\n\nPublic servant"
+   }
+  },
+  {
+   "id": "MY-H637-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Section 31"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "31. Any member or officer of the Tribunal while discharging\n\nhis duties or performing his functions or exercising his powers\n\nunder this Part shall be deemed to be a public servant within the\n\nmeaning of the Penal Code.\nGig Workers 25\n\nApplication of Public Authorities Protection Act 1948"
+   }
+  },
+  {
+   "id": "MY-H637-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Section 32"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "32. The Public Authorities Protection Act 1948 shall apply to\n\nany action, suit, prosecution or proceedings against any member\n\nor officer of the Tribunal in respect of any act, neglect or default\n\ndone or committed by him in good faith or any omission by him\n\nin good faith, in such capacity.\n\nJurisdiction and power of Tribunal"
+   }
+  },
+  {
+   "id": "MY-H637-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Section 33"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "33. (1) The Tribunal shall have jurisdiction to hear and determine\n\nany dispute or matter referred to it by the Conciliator or the\n\nMinister under Part IV of this Act and may grant any award as\n\nit deems just and appropriate.\n\n(2) The Tribunal shall not have any jurisdiction for the provisions\n\nof offence under this Act and all matters under Part VIII of this\n\nAct.\n\n(3) Any complaint referred to the Tribunal may include loss\n\nor damages of a consequential in nature.\n\n(4) The Tribunal shall have the power, in any proceedings\n\nbefore it—\n\n(a) to order that any party be joined, substituted or struck\n\noff; and\n\n(b) to direct and do all such things as necessary or expedient\n\nfor the expeditious determination of the matter before it.\n\nSittings of Tribunal"
+   }
+  },
+  {
+   "id": "MY-H637-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "Section 34"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "34. (1) The jurisdiction of the Tribunal shall be exercised by\n\nany of the following persons sitting alone:\n\n(a) the President of the Tribunal;\n\n(b) the Deputy President of the Tribunal; or\n\n(c) any member of the Tribunal selected by the President.\n\n(2) The Tribunal may sit in two or more sittings on such day\n\nand at such time and place as may be determined by the President.\n\n(3) If the member presiding over any proceedings in respect\n\nof a complaint dies or becomes incapacitated, or is for any\n\nother reason unable to complete or dispose of the proceedings,\n\nthe proceedings shall be heard afresh by another member of the\n\nTribunal, unless the parties agree that the proceedings be continued\n\nby another member of the Tribunal.\n\nNotice of complaint of dispute"
+   }
+  },
+  {
+   "id": "MY-H637-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "Section 35"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "35. Upon a dispute being referred by the Conciliator or the\n\nMinister under Part IV of this Act to the Tribunal, the Registrar\n\nshall give a written notice in the prescribed form to the parties\n\nin the dispute containing the details of the day, time and place\n\nof the hearing.\n\nRight to appear at hearings"
+   }
+  },
+  {
+   "id": "MY-H637-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "Section 36"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "36. (1) At the hearing, every party to the proceedings shall be\n\nentitled to appear and be heard.\n\n(2) For the purposes of any hearing of a complaint under this\n\nPart—\n\n(a) a contracting entity may be represented by his duly\n\nauthorized employee; or\n\n(b) a gig worker may be represented by any official or\n\nauthorized member of the gig workers' association or\n\nby any of his family members.\n\n(3) Save as provided in subsection (2), no party shall be\n\nrepresented by an advocate and solicitor.\n\nHearings to be public"
+   }
+  },
+  {
+   "id": "MY-H637-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "Section 37"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "37. All hearings before the Tribunal shall be open to the public.\nGig Workers 27\n\nProcedures of Tribunal"
+   }
+  },
+  {
+   "id": "MY-H637-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "Section 38"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "38. The proceedings of the Tribunal shall be conducted in\n\naccordance with the procedures as may be prescribed.\n\nTribunal may act in absence of party"
+   }
+  },
+  {
+   "id": "MY-H637-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "Section 39"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "39. The Tribunal may hear and determine the complaint before\n\nit notwithstanding the absence of any party to the proceedings\n\nif it is proved to the satisfaction of the Tribunal that a notice of\n\nthe hearing has been duly served on the absent party.\n\nEvidence"
+   }
+  },
+  {
+   "id": "MY-H637-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "Section 40"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "40. (1) The Tribunal may—\n\n(a) procure and receive all such evidence on oath or affirmation,\n\nwhether written or oral, and examine all such persons\n\nas witnesses, as the Tribunal thinks necessary;\n\n(b) require the production before it of any information, book,\n\npaper, document, record or thing;\n\n(c) administer such oath, affirmation or statutory declaration\n\nas the case may require;\n\n(d) seek and receive any other evidence and make any other\n\ninquiries as it thinks fit;\n\n(e) summon the parties to the proceedings or any other person\n\nto attend before it to give evidence or to produce any\n\ndocument, record or other thing in his possession or\n\notherwise to assist the Tribunal in its deliberations;\n\n(f) receive expert evidence;\n\n(g) direct that any information, book, paper, document or\n\nthing tendered in evidence shall not be disclosed or\n\npublished in any newspaper or otherwise;\n\n(h) direct that any evidence shall be taken in private and no\n\nperson shall be present during the taking of that evidence\n\nunless permitted by the Tribunal; and\n\n(i) direct and do all such things as may be necessary or\n\nexpedient for the expeditious determination of the\n\ncomplaint.\n\n(2) A summons issued under paragraph (1)(e) shall be served\n\nand enforced as if it were a summons issued by a subordinate\n\ncourt.\n\n(3) Any person who contravenes paragraph (1)(g) commits an\n\noffence.\n\nExclusion of evidence"
+   }
+  },
+  {
+   "id": "MY-H637-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "Section 41"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "41. (1) Where a dispute relates to matters as to which conciliation\n\nproceedings have taken place, no evidence shall be produced in\n\nthe proceedings before the Tribunal other than a written statement\n\nin respect of that matter as agreed to and signed by the parties\n\nto the dispute.\n\n(2) No evidence shall be given in the proceedings before the\n\nTribunal on any offer relating to any matter connected with the\n\ndispute made without prejudice by any person except with the\n\nconsent of that person.\n\n(3) The exclusions specified in subsections (1) and (2) shall\n\nbe applicable in any proceedings before any court.\n\nAward of Tribunal"
+   }
+  },
+  {
+   "id": "MY-H637-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "Section 42"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "42. (1) The Tribunal shall make an order in the form of an\n\naward without delay and, where practicable, within thirty days\n\nfrom the last date of the hearing before the Tribunal.\n\n(2) Every award after the hearing shall be pronounced before\n\nthe parties either on the conclusion of the hearing or on any\n\nsubsequent day of which notice shall be given to the parties.\nGig Workers 29\n\n(3) The Tribunal shall state in writing reasons for the award\n\nor dismissal of the complaint together with any finding of facts\n\nthat the Tribunal has noted or recommendations that the Tribunal\n\nhas made in those proceedings and shall be handed to the parties\n\nin the manner together with a fee as may be prescribed—\n\n(a) upon request of any party to the proceedings; or\n\n(b) if any party to the proceedings appeal against the award\n\nof the Tribunal under section 44.\n\n(4) An award of the Tribunal under subsection (1) may specify\n\none or more of the following:\n\n(a) that a party to the proceedings compensate to any other\n\nparty;\n\n(b) that a party complies with any terms and conditions in\n\nthe service agreement;\n\n(c) that a party complies with any provision of this Act;\n\n(d) that a party is entitled to perform his service or to access\n\nthe digital intermediary system;\n\n(e) that a party is given permission to deactivate the access\n\nof the other party from the digital intermediary system;\n\n(f) that a party is paid the full amount of earnings, tip and\n\ngratuities, or other benefits due and payable for his\n\nservice;\n\n(g) that a party is refunded for wrongful deduction of earnings;\n\n(h) that a party is refunded for any overpayment;\n\n(i) that a party is compensated for any loss or damage\n\nsuffered;\n\n(j) that a party is entitled to deduct the earnings of other\n\nparty;\n\n(k) that the service agreement be varied or set aside, wholly\n\nor partly;\n\n(l) that costs to or against any party be paid;\n\n(m) that interest be paid on any sum or monetary award at\n\na rate not exceeding eight per centum per annum, unless\n\nit has been otherwise agreed between the parties;\n\n(n) that the complaint is dismissed; or\n\n(o) to direct and do all such things as are necessary or\n\nexpedient.\n\n(5) The Tribunal may rectify in any award any clerical error\n\nor mistake arising from any accidental slip or omission.\n\nAward of Tribunal to be binding"
+   }
+  },
+  {
+   "id": "MY-H637-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "Section 43"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "43. (1) Every award made by the Tribunal under section 42—\n\n(a) shall be binding on all parties to the proceedings; and\n\n(b) shall be deemed to be an order of a sessions court\n\nnotwithstanding any written law to the contrary,\n\nand may be enforced accordingly by any party to the\n\nproceedings.\n\n(2) For the purpose of paragraph (1)(b), the Registrar shall\n\nsend a copy of the award made by the Tribunal to the sessions\n\ncourt having jurisdiction in the place to which the award relates\n\nto or in the place where the award was made and the court shall\n\ncause the copy to be recorded.\n\nAppeal to High Court"
+   }
+  },
+  {
+   "id": "MY-H637-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "Section 44"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "44. (1) Any person aggrieved by the decision of the Tribunal\n\nmay appeal to the High Court.\n\n(2) The appeal referred to in subsection (1) shall be brought\n\nwithin fourteen days from the date the award is pronounced\n\nby the Tribunal.\nGig Workers 31\n\nCriminal penalty for failure to comply"
+   }
+  },
+  {
+   "id": "MY-H637-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "Section 45"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "45. (1) Any person who fails to comply with an award made\n\nby the Tribunal within the period specified commits an offence\n\nand shall, on conviction, be liable to a fine not exceeding fifty\n\nthousand ringgit or to imprisonment for a term not exceeding\n\ntwo years or to both.\n\n(2) In the case of a continuing offence, the offender shall,\n\nin addition to the penalties under subsection (1), be liable to a\n\nfine not exceeding five hundred ringgit for each day or part of\n\na day during which the offence continues after conviction.\n\nPart VI\n\nCONSULTATIVE COUNCIL\n\nEstablishment of Consultative Council"
+   }
+  },
+  {
+   "id": "MY-H637-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "Section 46"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "46. There shall be established a council to be known as the\n\n\"Consultative Council\".\n\nFunctions and powers of Council"
+   }
+  },
+  {
+   "id": "MY-H637-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "Section 47"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "47. (1) The functions of the Council shall be to advise and make\n\nrecommendation to the Government at such time as the Minister\n\nmay determine on the following matters:\n\n(a) the minimum earnings rates including the coverage in\n\naccordance to sectors, regional areas, types of gig worker\n\nor the services and other categories or matters relating\n\nto the minimum earnings rate and earnings;\n\n(b) the formula to be applied in relation to minimum earnings\n\nrate and earnings in accordance to sectors, regional areas,\n\ntypes of gig worker or the services and other categories\n\nor matters relating to the minimum earnings rate and\n\nearnings;\n\n(c) the minimum standard to be applied in accordance to\n\nsectors, regional areas, types of gig worker or services\n\nand other categories or matters relating to the provisions\n\nof this Act;\n\n(d) the non-application of the recommendation in\n\nparagraph (a), (b) or (c) to any sector, regional area,\n\ntype of gig worker or service and other categories or\n\nmatters;\n\n(e) the commencement date of any order made by the Minister\n\nunder this Part;\n\n(f) the revision of any order made under this Part; or\n\n(g) any other matter in relation to matters under paragraphs (1)(a)\n\nto (f).\n\n(2) The Council shall have the power to do all things necessary\n\nor expedient or incidental to the performance of its function\n\nincluding—\n\n(a) to consult the relevant stakeholders on all matters relating\n\nto paragraphs (1)(a) to (g);\n\n(b) to collect and analyse data and information, and to\n\nconduct research on matters related thereto, including\n\nat international level;\n\n(c) to co-ordinate and supervise, and to evaluate the impact\n\nof, the implementation of any order issued under this\n\nPart;\n\n(d) to deliberate on all matters relating to paragraphs (1)(a)\n\nto (g);\n\n(e) to disseminate information and analysis on all matters\n\nrelating to this Act; and\n\n(f) to carry out any other function as it deems fit to enable\n\nit to perform its functions effectively or which are\n\nincidental to the performance of its functions.\n\n(3) If the Minister determine that the Council shall advise\n\nand make recommendation to the Government on matters under\n\nparagraphs (1)(a) to (g), the Council shall meet as the Chairman\n\nmay determine.\nGig Workers 33\n\nRecommendation by Council"
+   }
+  },
+  {
+   "id": "MY-H637-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "Section 48"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "48. Before any recommendation is made under paragraphs 47(1)(a)\n\nto (g), the Council shall exercise its powers under\n\nparagraphs 47(2)(a) to (f).\n\nDecision on recommendation"
+   }
+  },
+  {
+   "id": "MY-H637-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "Section 49"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "49. (1) The Government may, after considering the recommendation\n\nby the Council—\n\n(a) agree with the recommendation;\n\n(b) disagree with the recommendation and determine the\n\nmatters specified in paragraphs 47(1)(a) to (g); or\n\n(c) direct the Council to review the recommendation and\n\nmake a fresh recommendation within the period as may be\n\ndetermined by the Government.\n\n(2) Where the Government directs the Council to review\n\nthe recommendation and make a fresh recommendation\n\nunder paragraph (1)(c), then paragraphs 47(2)(a) and (b) and\n\nsubsection 47(1) shall apply.\n\n(3) The Government may, after considering the fresh\n\nrecommendation made pursuant to subsection (2)—\n\n(a) agree with the fresh recommendation; or\n\n(b) disagree with the fresh recommendation and determine\n\nthe matters specified in paragraphs 47(1)(a) to (g).\n\nOrder of Minister"
+   }
+  },
+  {
+   "id": "MY-H637-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "Section 50"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "50. (1) Where the Government agrees with the recommendation\n\nof the Council, the Minister shall make an order published in the\n\nGazette on the matters specified in paragraphs 47(1)(a) to (g) as\n\nagreed to or determined by the Government.\n\n(2) The order shall specify the person governed by the order\n\nand the effects of the order.\n\n(3) The Minister may, upon the direction of the Government\n\namend or revoke the order.\n\n(4) Any person who contravenes the order issued under\n\nsubsection (1) commits an offence.\n\nMembership of the Council"
+   }
+  },
+  {
+   "id": "MY-H637-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "Section 51"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "51. (1) The Council shall consist of the following members who\n\nshall be appointed by the Minister by notification in the Gazette:\n\n(a) a Chairman;\n\n(b) a Deputy Chairman;\n\n(c) a Secretary from amongst the officers of the Industrial\n\nRelations Officers Scheme of Service;\n\n(d) members from amongst the public officers;\n\n(e) members representing the contracting entities;\n\n(f) members representing the gig workers; and\n\n(g) other members.\n\n(2) The numbers to be appointed for paragraphs (1)(d) to (g)\n\nshall be determined by the Minister.\n\n(3) The Chairman, the Deputy Chairman and the members of\n\nthe Council referred to in paragraph (1)(g) shall be appointed\n\nfrom amongst persons, who in the opinion of the Minister, have\n\nknowledge, experience and expertise in matters relating to the gig\n\nindustry.\n\n(4) The members of the Council referred to in paragraph (1)(d)\n\nshall be appointed by office.\nGig Workers 35\n\n(5) The number of members of the Council appointed under\n\nparagraph (1)(e) shall be the same number of members of the\n\nCouncil appointed under paragraph (1)(f) at any one time.\n\n(6) The Council shall consist of members not exceeding\n\ntwenty-nine persons at any time.\n\nTemporary exercise of functions of Chairman"
+   }
+  },
+  {
+   "id": "MY-H637-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "Section 52"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "52. (1) The Deputy Chairman shall act as the Chairman for the\n\nperiod when—\n\n(a) the office of the Chairman is vacant;\n\n(b) the Chairman is absent from duty or from Malaysia; or\n\n(c) the Chairman is, for any other reason, unable to carry\n\nout his functions.\n\n(2) The Deputy Chairman shall, during the period in which he\n\nis carrying out the functions of the Chairman under this section,\n\nbe deemed to be the Chairman.\n\nSecretary"
+   }
+  },
+  {
+   "id": "MY-H637-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "Section 53"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "53. (1) The Secretary shall be responsible—\n\n(a) to manage the affairs of the Council;\n\n(b) to implement the decisions of the Council; and\n\n(c) to carry out any other duties as directed by the Council.\n\n(2) The Secretary shall, in carrying out his responsibilities,\n\nact under the power and direction of the Council.\n\nTenure of office"
+   }
+  },
+  {
+   "id": "MY-H637-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "Section 54"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "54. (1) The members of the Council shall hold office for a term\n\nnot exceeding three years and may be reappointed.\n\n(2) Notwithstanding subsection (1), the members of the Council\n\nappointed under paragraphs 51(1)(c) and (d) shall hold office\n\nuntil the appointment is revoked under subsection 56(1).\n\nAllowances"
+   }
+  },
+  {
+   "id": "MY-H637-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "Section 55"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "55. The members of the Council shall be paid such allowances\n\nas may be determined by the Minister.\n\nRevocation of appointment and resignation"
+   }
+  },
+  {
+   "id": "MY-H637-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "Section 56"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "56. (1) The Minister may, at any time, revoke the appointment\n\nof a member of the Council.\n\n(2) A member of the Council may resign from office by giving\n\nthirty days' written notice to the Minister.\n\nVacation of office"
+   }
+  },
+  {
+   "id": "MY-H637-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "Section 57"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "57. (1) The office of a member of the Council shall be vacated\n\nif—\n\n(a) he dies;\n\n(b) there has been proved against him, or he has been convicted\n\nof, a charge in respect of—\n\n(i) an offence involving fraud, dishonesty or moral\n\nturpitude;\n\n(ii) an offence under any law relating to corruption;\n\nor\n\n(iii) any other offence punishable with imprisonment\n\n(in itself only or in addition to or in lieu of a\n\nfine) for more than two years;\n\n(c) he is adjudged bankrupt by a court of competent\n\njurisdiction;\nGig Workers 37\n\n(d) he has been found or declared to be of unsound mind\n\nor has otherwise become incapable of discharging his\n\nduties;\n\n(e) he absents himself from two consecutive meetings of the\n\nCouncil without leave of the Chairman, or in the case\n\nof the Chairman, without leave of the Minister;\n\n(f) his resignation is accepted by the Minister; or\n\n(g) his appointment is revoked by the Minister.\n\n(2) If the office of a member of the Council is vacated, the\n\nMinister may, if necessary, appoint another person to hold the\n\noffice for the remaining period vacated by that member or for\n\nan interim period until a new member is appointed to that office,\n\nas the Minister thinks fit.\n\nMeetings"
+   }
+  },
+  {
+   "id": "MY-H637-A58",
+   "no": 58,
+   "noLabel": {
+    "en": "Section 58"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "58. (1) The Council shall meet at least four times in a year as\n\nmay be determined by the Chairman.\n\n(2) A notice in writing shall be given to the members of the\n\nCouncil at least three days before the meeting is held.\n\n(3) The Chairman shall preside at all meetings of the Council\n\nand—\n\n(a) in the absence of the Chairman at any meeting of the\n\nCouncil for any reason, the Deputy Chairman shall\n\npreside at the meeting; or\n\n(b) in the absence of the Chairman and the Deputy Chairman\n\nat any meeting of the Council for any reason, any other\n\nmember of the Council appointed by the Chairman shall\n\npreside at the meeting.\n\n(4) The quorum of the meeting of the Council shall be\n\ntwo-thirds of the members of the Council, including the Chairman.\n\n(5) Every member of the Council presents at the meeting of\n\nthe Council shall be entitled to one vote.\n\n(6) If there is an equality of votes, the Chairman, the Deputy\n\nChairman or any other members of the Council presiding at the\n\nmeeting of the Council under subsection (1) shall have the casting\n\nvote.\n\nMinutes"
+   }
+  },
+  {
+   "id": "MY-H637-A59",
+   "no": 59,
+   "noLabel": {
+    "en": "Section 59"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "59. (1) The Council shall cause the minutes of all its meetings\n\nto be maintained and kept in a proper form.\n\n(2) Any minutes made of a meeting of the Council shall,\n\nif duly signed by the Chairman, be admissible in evidence in all\n\nlegal proceedings without further proof.\n\n(3) Every meeting of the Council in respect of which minutes of\n\nthe proceedings have been made in accordance with subsection (2)\n\nshall be deemed to have been duly convened and held and all\n\nmembers at the meeting to have been duly qualified to act.\n\nCouncil may invite others to attend meetings"
+   }
+  },
+  {
+   "id": "MY-H637-A60",
+   "no": 60,
+   "noLabel": {
+    "en": "Section 60"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "60. (1) The Council may invite any person not being a member\n\nof the Council to attend its meetings to advise on any matter\n\nunder discussion, but that person is not entitled to vote at the\n\nmeeting.\n\n(2) Any person invited under subsection (1) may be paid such\n\nallowances as may be determined by the Council.\n\nProcedures"
+   }
+  },
+  {
+   "id": "MY-H637-A61",
+   "no": 61,
+   "noLabel": {
+    "en": "Section 61"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "61. Subject to this Act, the Council may determine its own\n\nprocedures.\n\nCouncil may establish committees"
+   }
+  },
+  {
+   "id": "MY-H637-A62",
+   "no": 62,
+   "noLabel": {
+    "en": "Section 62"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "62. (1) The Council may establish any committee as it considers\n\nnecessary or expedient to assist it in the performance of its functions.\nGig Workers 39\n\n(2) The Council shall appoint any of its members to be the\n\nhead of a committee.\n\n(3) The Council may appoint any of its members or any\n\nqualified person to be members of a committee.\n\n(4) The members of a committee may be paid such allowances\n\nas may be determined by the Council.\n\n(5) The Council may at any time revoke the appointment of\n\nany member of a committee, make changes in the composition\n\nof the members of a committee or dissolve a committee.\n\n(6) Subject to any direction of the Council, the committee may\n\ndetermine its own procedure.\n\n(7) The head of each committee shall cause minutes of all its\n\nmeetings to be maintained and kept in proper form and copies of\n\nthe minutes shall be submitted by the committee to the Council\n\nas soon as practicable.\n\n(8) A committee may invite any person not being a member\n\nof the committee to attend its meetings to advise on any matter\n\nunder discussion, but that person is not entitled to vote at the\n\nmeeting.\n\n(9) Any person invited under subsection (8) may be paid such\n\nallowances as may be determined by the Council.\n\nSecretariat"
+   }
+  },
+  {
+   "id": "MY-H637-A63",
+   "no": 63,
+   "noLabel": {
+    "en": "Section 63"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "63. (1) There shall be a secretariat to the Council with\n\nsuch number of public officers to assist the Council and the\n\nSecretary.\n\n(2) The secretariat shall be subject to the direction, control\n\nand supervision of the Secretary.\n\nObligation of secrecy"
+   }
+  },
+  {
+   "id": "MY-H637-A64",
+   "no": 64,
+   "noLabel": {
+    "en": "Section 64"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "64. (1) Except for any of the purposes of this Part or for the\n\npurposes of any civil or criminal proceedings under any written\n\nlaw, or as approved by the Minister—\n\n(a) no member of the Council or committee, or officer of the\n\nCouncil, while he serves as the Chairman, member or\n\nofficer, shall disclose any information which has been\n\nobtained by him in the course of his duties; and\n\n(b) no other person who, by any means, has access to any\n\ninformation or document relating to the affairs of the\n\nCouncil shall disclose such information or document.\n\n(2) Any person who contravenes subsection (1) commits an\n\noffence.\n\nFunds"
+   }
+  },
+  {
+   "id": "MY-H637-A65",
+   "no": 65,
+   "noLabel": {
+    "en": "Section 65"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "65. The Government shall provide sufficient funds for the\n\nCouncil annually to enable the Council to perform its functions\n\nand exercise its powers under this Act.\n\nValidity of acts and proceedings"
+   }
+  },
+  {
+   "id": "MY-H637-A66",
+   "no": 66,
+   "noLabel": {
+    "en": "Section 66"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "66. No act done or proceedings taken under this Part shall be\n\nquestioned on the ground of—\n\n(a) a vacancy in the membership of, or any defect in the\n\nestablishment of the Council; or\n\n(b) an omission, a defect or an irregularity not affecting the\n\nmerits of the case.\n\nPublic servant"
+   }
+  },
+  {
+   "id": "MY-H637-A67",
+   "no": 67,
+   "noLabel": {
+    "en": "Section 67"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "67. Any member of the Council or committee, or officer of the\n\nCouncil while discharging his duties or performing his functions\n\nor exercising his powers under this Part shall be deemed to be a\n\npublic servant within the meaning of the Penal Code.\nGig Workers 41\n\nApplication of Public Authorities Protection Act 1948"
+   }
+  },
+  {
+   "id": "MY-H637-A68",
+   "no": 68,
+   "noLabel": {
+    "en": "Section 68"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "68. The Public Authorities Protection Act 1948 shall apply to\n\nany action, suit, prosecution or proceedings against any member\n\nof the Council or committee, or officer of the Council in respect\n\nof any act, neglect or default done or committed by him in good\n\nfaith or any omission by him in good faith, in such capacity.\n\nPart VII\n\nPROVISION RELATING TO SUPERVISION AND\n\nENFORCEMENT OF PART III, PART V AND PART VI\n\nDirector General and officers"
+   }
+  },
+  {
+   "id": "MY-H637-A69",
+   "no": 69,
+   "noLabel": {
+    "en": "Section 69"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "69. (1) The Director General of Labour appointed under the\n\nEmployment Act 1955 shall be the Director General for the\n\npurposes of this Part.\n\n(2) The Deputy Director General of Labour appointed under\n\nthe Employment Act 1955 shall be the Deputy Directors General\n\nfor the purposes of this Part.\n\n(3) In the absence of the Director General, the Deputy Directors\n\nGeneral shall have all powers and may discharge all duties and\n\nperform all functions conferred on the Director General under\n\nthis Part.\n\n(4) Subject to the general direction, control and supervision\n\nas may be determined by the Director General, all or any power\n\nunder this Part may be conferred by the Director General to—\n\n(a) any officer appointed under the Employment Act 1955;\n\n(b) the Director of Labour or any officer appointed under\n\nthe Labour Ordinance of Sabah; or\n\n(c) the Director of Labour or any officer appointed under\n\nthe Labour Ordinance of Sarawak.\n\nFunctions of Director General"
+   }
+  },
+  {
+   "id": "MY-H637-A70",
+   "no": 70,
+   "noLabel": {
+    "en": "Section 70"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "70. For the purposes of this Part, the Director General shall—\n\n(a) supervise the compliance of duties by a contracting entity\n\nin relation to the rights of a gig worker;\n\n(b) enforce the award made by the Gig Workers Tribunal;\n\n(c) determine the mechanism and amount of deduction of\n\na gig worker's earnings, and tip and gratuities under\n\nsection 12;\n\n(d) determine the form and manner of an earnings slip to be\n\nissued to the gig worker under section 13; and\n\n(e) enforce the order made by the Minister under Part VI.\n\nPowers of Director General"
+   }
+  },
+  {
+   "id": "MY-H637-A71",
+   "no": 71,
+   "noLabel": {
+    "en": "Section 71"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "71. The Director General shall have the general direction, control,\n\npowers and supervision of all matters relating to this Part.\n\nInvestigating officers and enforcement officers"
+   }
+  },
+  {
+   "id": "MY-H637-A72",
+   "no": 72,
+   "noLabel": {
+    "en": "Section 72"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "72. For the purposes of this Part, the Director General may\n\nappoint any number of investigating officers and enforcement\n\nofficers as may be necessary.\n\nAuthority card"
+   }
+  },
+  {
+   "id": "MY-H637-A73",
+   "no": 73,
+   "noLabel": {
+    "en": "Section 73"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "73. (1) The Director General shall issue an authority card to\n\neach investigating officer and enforcement officer.\n\n(2) Where an investigating officer exercises any of the powers\n\nunder this Part, he shall on demand, produce to the person against\n\nwhom the power is being exercised, the authority card.\nGig Workers 43\n\nPower of enforcement, investigation and inspection"
+   }
+  },
+  {
+   "id": "MY-H637-A74",
+   "no": 74,
+   "noLabel": {
+    "en": "Section 74"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "74. (1) Any officer appointed as an enforcement officer or\n\ninvestigating officer under this Part, shall have the power—\n\n(a) to enforce any relevant provision in Part III, Part V and\n\nPart VI;\n\n(b) to enter into any premise and to inspect any document,\n\nrecord or other relevant thing to ensure compliance with\n\nany relevant provision in Part III, Part V and Part VI;\n\n(c) to seize any document, record or other relevant thing for\n\nthe purposes of investigation under Part III, Part V and\n\nPart VI; and\n\n(d) to investigate the commission of any offence under\n\nPart III, Part V and Part VI.\n\n(2) For the purposes of this Part, an investigating officer\n\nshall have all the powers of a police officer of whatever rank\n\nas provided for under the Criminal Procedure Code [Act 593] in\n\nrelation to enforcement, investigation and inspection.\n\nCompounding of offences"
+   }
+  },
+  {
+   "id": "MY-H637-A75",
+   "no": 75,
+   "noLabel": {
+    "en": "Section 75"
+   },
+   "chapter": {
+    "en": "Part III, Part V and Part VI."
+   },
+   "heading": {},
+   "text": {
+    "en": "75. (1) For the purposes of this Part, the Director General may,\n\nwith the consent in writing of the Public Prosecutor, compound\n\nany offence committed by any person under Part III, Part V and\n\nPart VI prescribed to be a compoundable offence by making\n\na written offer to the person suspected to have committed the\n\noffence to compound the offence upon payment to the Director\n\nGeneral of an amount of money not exceeding fifty per centum\n\nof the amount of maximum fine for that offence within such time\n\nas may be specified in his written offer.\n\n(2) An offer under subsection (1) may be made at any time\n\nafter the offence has been committed but before any prosecution\n\nfor it has been instituted.\n\n(3) If the amount specified in the offer is not paid within the\n\ntime specified in the offer, or such extended time as the Director\n\nGeneral may grant, prosecution for the offence may be instituted\n\nat any time after that against the person to whom the offer was\n\nmade.\n\n(4) Where an offence has been compounded under this\n\nsection—\n\n(a) no prosecution shall be instituted in respect of the offence\n\nagainst the person to whom the offer to compound was\n\nmade; and\n\n(b) any document or thing seized in connection with\n\nthe offence may be released by the Director General,\n\nsubject to such terms as the Director General thinks\n\nfit.\n\n(5) All sums of money received by the Director General under\n\nthis section shall be paid into and form part of the Federal\n\nConsolidated Fund.\n\nPublic servant"
+   }
+  },
+  {
+   "id": "MY-H637-A76",
+   "no": 76,
+   "noLabel": {
+    "en": "Section 76"
+   },
+   "chapter": {
+    "en": "Part VI prescribed to be a compoundable offence by making"
+   },
+   "heading": {},
+   "text": {
+    "en": "76. Any officer while discharging his duties or performing\n\nhis functions or exercising his powers under this Part shall\n\nbe deemed to be a public servant within the meaning of the\n\nPenal Code.\n\nApplication of Public Authorities Protection Act 1948"
+   }
+  },
+  {
+   "id": "MY-H637-A77",
+   "no": 77,
+   "noLabel": {
+    "en": "Section 77"
+   },
+   "chapter": {
+    "en": "Part VI prescribed to be a compoundable offence by making"
+   },
+   "heading": {},
+   "text": {
+    "en": "77. The Public Authorities Protection Act 1948 shall apply to\n\nany action, suit, prosecution or proceedings against any officer\n\nin respect of any act, neglect or default done or committed by\n\nhim in good faith or any omission by him in good faith, in such\n\ncapacity.\nGig Workers 45\n\nPart VIII\n\nSOCIAL SECURITY PROTECTION\n\nDefinition"
+   }
+  },
+  {
+   "id": "MY-H637-A78",
+   "no": 78,
+   "noLabel": {
+    "en": "Section 78"
+   },
+   "chapter": {
+    "en": "Part VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "78. In this Part, unless the context otherwise requires—\n\n\"Organization\" has the meaning assigned to it in the Employees'\n\nSocial Security Act 1969 [Act 4];\n\n\"Inspector\" has the meaning assigned to it in the Employees'\n\nSocial Security Act 1969.\n\nDirector General and Deputy Directors General, powers,\n\nfunctions and duties"
+   }
+  },
+  {
+   "id": "MY-H637-A79",
+   "no": 79,
+   "noLabel": {
+    "en": "Section 79"
+   },
+   "chapter": {
+    "en": "Part VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "79. (1) The Director General and the Deputy Directors General\n\nappointed under section 59 of the Employees' Social Security\n\nAct 1969 shall be the Director General and the Deputy Directors\n\nGeneral for the purposes of this Part.\n\n(2) The Director General and the Deputy Directors General shall\n\nhave all the powers including powers of an Inspector, functions\n\nand duties under this Part.\n\nInspector, etc., powers, functions and duties"
+   }
+  },
+  {
+   "id": "MY-H637-A80",
+   "no": 80,
+   "noLabel": {
+    "en": "Section 80"
+   },
+   "chapter": {
+    "en": "Part VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "80. (1) An Inspector appointed under section 12 of the\n\nEmployees' Social Security Act 1969 shall be subject to\n\nthe direction and control of the Director General or of such\n\nother officer or servant of the Organization authorized by\n\nthe Director General to act on behalf of the Director General,\n\nand of any other Inspector superior to the Inspector in rank, and\n\nshall exercise his powers, perform his functions and discharge\n\nhis duties under this Part in compliance with such directions and\n\ncontrol of the Director General.\n\n(2) An Inspector shall have all the powers, functions and duties\n\nconferred under this Part.\n\nApplication of this Part"
+   }
+  },
+  {
+   "id": "MY-H637-A81",
+   "no": 81,
+   "noLabel": {
+    "en": "Section 81"
+   },
+   "chapter": {
+    "en": "Part VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "81. This Part shall apply to a contracting entity who is a platform\n\nprovider that enters into a service agreement with the gig worker\n\nfor the performance of any service.\n\nRights of gig worker under this Part"
+   }
+  },
+  {
+   "id": "MY-H637-A82",
+   "no": 82,
+   "noLabel": {
+    "en": "Section 82"
+   },
+   "chapter": {
+    "en": "Part VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "82. For the purposes of this Part, a gig worker shall have the\n\nrights—\n\n(a) to social security contributions deducted from the\n\nearnings payable to the gig worker, made by the\n\ncontracting entity on behalf of the gig worker to the\n\nOrganization; and\n\n(b) to have access to such deduction of social security\n\ncontributions in the digital intermediary system which\n\nis developed by the contracting entity.\n\nDuties of contracting entity under this Part"
+   }
+  },
+  {
+   "id": "MY-H637-A83",
+   "no": 83,
+   "noLabel": {
+    "en": "Section 83"
+   },
+   "chapter": {
+    "en": "Part VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "83. For the purposes of this Part, a contracting entity who is a\n\nplatform provider shall have the duties—\n\n(a) to submit the gig worker's information to the Organization\n\nin the form and manner as may be determined by the\n\nOrganization;\n\n(b) to ensure the registration of the gig worker under the\n\nSelf-Employment Social Security Scheme administered\n\nby the Organization as provided in the Self-Employment\n\nSocial Security Act 2017 [Act 789] in the form and\n\nmanner as may be determined by the Organization;\n\n(c) to make deduction from the earnings of the gig worker and\n\ncontribute to the social security scheme administered by\n\nthe Organization on behalf of the gig worker in the form\n\nand manner as may be determined by the Organization;\nGig Workers 47\n\n(d) to implement mandatory contribution deduction in the form\n\nand manner as may be determined by the Organization\n\nand in accordance with the percentage of the contribution\n\namount as may be prescribed;\n\n(e) to notify the gig worker to pay the shortfall amount of\n\nthe minimum monthly contribution to the Organization\n\nin the form and manner as may be determined by the\n\nOrganization, if the amount of contribution deducted by\n\nthe platform provider does not reach the minimum rate\n\nof contribution based on the selected insured monthly\n\nearnings under the Self-Employment Social Security Act\n\n2017;\n\n(f) to notify the gig worker to select the amount of the\n\nmonthly contribution payable to the Organization if the\n\ncontribution deducted by the platform provider exceeds\n\nthe minimum rate of contribution based on the selected\n\ninsured monthly earnings under the Self-Employment\n\nSocial Security Act 2017 within the duration and in the\n\nmanner as may be prescribed;\n\n(g) to provide a mechanism in his digital intermediary system\n\nthat can connect with the Organization's system for the\n\npurposes of social security scheme and any matter relating\n\nto it in the form and manner as may be determined by\n\nthe Organization; and\n\n(h) to implement any measure relating to occupational safety\n\nand health and welfare of the gig worker as directed by\n\nthe Organization in any co-operation programme between\n\nthe Organization and contracting entity.\n\nLiability of contracting entity"
+   }
+  },
+  {
+   "id": "MY-H637-A84",
+   "no": 84,
+   "noLabel": {
+    "en": "Section 84"
+   },
+   "chapter": {
+    "en": "Part VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "84. (1) If the Organization is satisfied that there is a fraudulent\n\naction or omission in the registration or payment of contributions\n\nof the gig worker, whether directly or indirectly by the contracting\n\nentity or any third party, any arrears in the payment of contributions\n\nor deduction of the earnings of the gig worker, shall be paid by\n\nthe contracting entity to the Organization.\n\n(2) If the contracting entity or any third party is involved in\n\ngiving any benefit or making any payment under the social security\n\ncontribution scheme administered by the Organization to any gig\n\nworker in the event that the gig worker is not entitled to receive\n\nit under such social contribution scheme, the contracting entity\n\nor such third party shall be liable to repay to the Organization\n\nthe value of the benefit or the amount of such payment.\n\n(3) In the event the contracting entity or such third party is\n\nunable to repay the value of the benefit or the amount of such\n\npayment under subsection (2), as the case may be, his representative\n\nshall be liable to repay the value of the benefit or the amount of\n\nsuch payment, if any.\n\n(4) The value or amount payable under this section may be\n\nrecovered as a civil debt payable to the Organization.\n\nPunishment for giving false information"
+   }
+  },
+  {
+   "id": "MY-H637-A85",
+   "no": 85,
+   "noLabel": {
+    "en": "Section 85"
+   },
+   "chapter": {
+    "en": "Part VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "85. Where any person, for the purpose of causing any payment\n\nof contribution or benefit under this Part—\n\n(a) makes or causes to be made any false statement or false\n\nrepresentation; or\n\n(b) makes in writing or signs any declaration, form, report,\n\ncertificate or other document required by this Part which\n\nis untrue or incorrect in any material particular,\n\nshall be punished with imprisonment for a term which may extend\n\nto two years or with a fine not exceeding ten thousand ringgit\n\nor to both.\n\nPunishment for failure to pay contributions, etc."
+   }
+  },
+  {
+   "id": "MY-H637-A86",
+   "no": 86,
+   "noLabel": {
+    "en": "Section 86"
+   },
+   "chapter": {
+    "en": "Part VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "86. If any person—\n\n(a) fails to pay any contribution or any deduction of\n\ncontribution which is payable under this Part or fails to\n\npay in accordance with the mechanism as may be\n\ndetermined by the Organization;\nGig Workers 49\n\n(b) deducts or attempts to deduct contribution which is not\n\ndetermined by the Organization;\n\n(c) fails or refuses to submit any statement, record or any\n\ndocument which is required under this Act;\n\n(d) makes a false statement, record or document;\n\n(e) obstructs any Inspector, officer and servant or other official\n\nof the Organization in the discharge of his duties; or\n\n(f) contravenes any of the requirements of this Part,\n\ncommits an offence and shall, on conviction, be liable to\n\nimprisonment for a term not exceeding two years or to a fine\n\nnot exceeding ten thousand ringgit or to both.\n\nCourt's order in respect of contributions due and payable to\n\nOrganization"
+   }
+  },
+  {
+   "id": "MY-H637-A87",
+   "no": 87,
+   "noLabel": {
+    "en": "Section 87"
+   },
+   "chapter": {
+    "en": "Part VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "87. (1) Upon any person being found guilty of any offence under\n\nparagraph 86(a) or (b), the court before which the person is found\n\nguilty shall order such person to pay to the Organization the amount\n\nof any contributions or deduction of contributions, together with\n\nany interest credited on it, due and payable to the Organization\n\nand certified by the authorized officer of the Organization to be\n\ndue from such person prior to the date of such finding of guilt,\n\nand the certificate of the authorized officer shall be prima facie\n\nevidence of the amount due and payable.\n\n(2) Such contributions or deduction of contributions shall be\n\nrecoverable in the same manner as, and shall be appealable as if\n\nit were, an order for payment of compensation under section 426\n\nof the Criminal Procedure Code, unless the court directs the\n\npayment of the sum to be made by instalments, the court shall\n\ndirect that the sum be paid in not more than six instalments\n\nwithin the period of six months.\n\n(3) Upon any person being found guilty of an offence under\n\nparagraph 86(c) pertaining to the submission of statement, record\n\nor any document, the court before which the person is found guilty\n\nshall order such person to submit the required statement, record\n\nor document within the time as may be determined by the court.\n\nTrial for more than one offence"
+   }
+  },
+  {
+   "id": "MY-H637-A88",
+   "no": 88,
+   "noLabel": {
+    "en": "Section 88"
+   },
+   "chapter": {
+    "en": "Part VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "88. Notwithstanding the provisions of any written law to the\n\ncontrary, any person may be charged with and tried at any one\n\ntrial for any number of offences under paragraph 86(a) or (b),\n\nnot exceeding thirty-six and such offences shall, for the purposes of\n\nthe law for the time being in force relating to criminal procedure,\n\nbe deemed to form part of the same transaction.\n\nCopy of entry to be prima facie evidence"
+   }
+  },
+  {
+   "id": "MY-H637-A89",
+   "no": 89,
+   "noLabel": {
+    "en": "Section 89"
+   },
+   "chapter": {
+    "en": "Part VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "89. In any legal proceeding, a copy of an entry in the accounts\n\nof the Organization certified by an authorized officer of the\n\nOrganization shall be prima facie evidence of such entry having\n\nbeen made and such contents in the entry is true.\n\nCompounding of offences"
+   }
+  },
+  {
+   "id": "MY-H637-A90",
+   "no": 90,
+   "noLabel": {
+    "en": "Section 90"
+   },
+   "chapter": {
+    "en": "Part VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "90. (1) The Director General may, with the consent in writing\n\nof the Public Prosecutor, compound any offence committed by\n\nany person under this Part prescribed to be a compoundable\n\noffence by making a written offer to the person suspected to\n\nhave committed the offence to compound the offence upon\n\npayment to the Director General of an amount of money not\n\nexceeding fifty per centum of the amount of maximum fine for\n\nthat offence within such time as may be specified in his written\n\noffer.\n\n(2) An offer under subsection (1) may be made at any time\n\nafter the offence has been committed but before any prosecution\n\nfor it has been instituted.\n\n(3) If the amount specified in the offer is not paid within\n\nthe time specified in the offer, or such extended time as the\n\nDirector General may grant, prosecution for the offence may be\n\ninstituted at any time after that against the person to whom the\n\noffer was made.\nGig Workers 51\n\n(4) Where an offence has been compounded under this section—\n\n(a) no prosecution shall be instituted in respect of the offence\n\nagainst the person to whom the offer to compound was\n\nmade; and\n\n(b) any document or thing seized in connection with the\n\noffence may be released by the Director General, subject\n\nto such terms as the Director General thinks fit.\n\n(5) All sums of moneys received by the Director General\n\nunder this section shall be paid into and form part of the Federal\n\nConsolidated Fund.\n\nPower of investigation"
+   }
+  },
+  {
+   "id": "MY-H637-A91",
+   "no": 91,
+   "noLabel": {
+    "en": "Section 91"
+   },
+   "chapter": {
+    "en": "Part VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "91. Any investigation of offence relating to any provision under\n\nthis Part which involves the contracting entity and the gig worker\n\nshall be conducted by the Organization in accordance with\n\nthe investigation powers as provided for under Part IX of the\n\nSelf-Employment Social Security Act 2017.\n\nPublic servant"
+   }
+  },
+  {
+   "id": "MY-H637-A92",
+   "no": 92,
+   "noLabel": {
+    "en": "Section 92"
+   },
+   "chapter": {
+    "en": "Part VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "92. Any officer of the Organization while discharging his duties\n\nor performing his functions or exercising his powers under this\n\nPart shall be deemed to be a public servant within the meaning\n\nof the Penal Code.\n\nApplication of Public Authorities Protection Act 1948"
+   }
+  },
+  {
+   "id": "MY-H637-A93",
+   "no": 93,
+   "noLabel": {
+    "en": "Section 93"
+   },
+   "chapter": {
+    "en": "Part VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "93. The Public Authorities Protection Act 1948 shall apply to\n\nany action, suit, prosecution or proceedings against any officer\n\nof the Organization in respect of any act, neglect or default done\n\nor committed by him in good faith or any omission by him in\n\ngood faith, in such capacity.\n\nMatters to be decided by Tribunal under Self-Employment\n\nSocial Security Act 2017"
+   }
+  },
+  {
+   "id": "MY-H637-A94",
+   "no": 94,
+   "noLabel": {
+    "en": "Section 94"
+   },
+   "chapter": {
+    "en": "Part VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "94. The Tribunal established under Part VII of the Self-Employment\n\nSocial Security Act 2017 shall have the powers to decide on any\n\nmatter in respect of this Part referred to the Tribunal by any\n\nperson.\n\nPart IX\n\nOCCUPATIONAL SAFETY AND HEALTH\n\nDirector General, Deputy Director General and officers"
+   }
+  },
+  {
+   "id": "MY-H637-A95",
+   "no": 95,
+   "noLabel": {
+    "en": "Section 95"
+   },
+   "chapter": {
+    "en": "Part IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "95. (1) The Director General and the Deputy Director General of\n\nOccupational Safety and Health appointed under the Occupational\n\nSafety and Health Act 1994 [Act 514] shall be the Director General\n\nand the Deputy Director General for the purposes of this Part.\n\n(2) The Director General and the Deputy Director General\n\nshall have all the powers, functions and duties under this Part.\n\n(3) Subject to the general direction, control and supervision of\n\nthe Director General, any officer appointed under the Occupational\n\nSafety and Health Act 1994 shall exercise all powers conferred\n\non the Director General under this Part.\n\nFunctions of Director General"
+   }
+  },
+  {
+   "id": "MY-H637-A96",
+   "no": 96,
+   "noLabel": {
+    "en": "Section 96"
+   },
+   "chapter": {
+    "en": "Part IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "96. For the purposes of this Part, the Director General shall\n\nsupervise the compliance of duties by a contracting entity\n\nand a gig worker in relation to occupational safety and health\n\nof the gig worker.\n\nPowers of Director General"
+   }
+  },
+  {
+   "id": "MY-H637-A97",
+   "no": 97,
+   "noLabel": {
+    "en": "Section 97"
+   },
+   "chapter": {
+    "en": "Part IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "97. The Director General shall have the general direction, control,\n\npowers and supervision of all matters relating to this Part.\nGig Workers 53\n\nApplication of this Part"
+   }
+  },
+  {
+   "id": "MY-H637-A98",
+   "no": 98,
+   "noLabel": {
+    "en": "Section 98"
+   },
+   "chapter": {
+    "en": "Part IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "98. This Part shall apply to—\n\n(a) a contracting entity other than an individual; and\n\n(b) a gig worker.\n\nInvestigating officers and enforcement officers"
+   }
+  },
+  {
+   "id": "MY-H637-A99",
+   "no": 99,
+   "noLabel": {
+    "en": "Section 99"
+   },
+   "chapter": {
+    "en": "Part IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "99. For the purposes of this Part, the Director General may\n\nappoint any number of investigating officers and enforcement\n\nofficers as may be necessary.\n\nAuthority card"
+   }
+  },
+  {
+   "id": "MY-H637-A100",
+   "no": 100,
+   "noLabel": {
+    "en": "Section 100"
+   },
+   "chapter": {
+    "en": "Part IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "100. (1) The Director General shall issue an authority card to\n\neach investigating officer and enforcement officer.\n\n(2) Where an investigating officer exercises any of the powers\n\nunder this Part, he shall on demand, produce to the person against\n\nwhom the power is being exercised, the authority card.\n\nPower of enforcement, investigation and inspection"
+   }
+  },
+  {
+   "id": "MY-H637-A101",
+   "no": 101,
+   "noLabel": {
+    "en": "Section 101"
+   },
+   "chapter": {
+    "en": "Part IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "101. (1) Any officer appointed as an enforcement officer or\n\ninvestigating officer under this Part, shall have the power—\n\n(a) to enforce any relevant provision in this Part;\n\n(b) to enter into any premise and to inspect any document,\n\nrecord or other relevant thing to ensure compliance with\n\nany relevant provision in this Part;\n\n(c) to seize any document, record or other relevant thing for\n\nthe purposes of investigation under this Part; and\n\n(d) to investigate the commission of any offence under this Part.\n\n(2) For the purposes of this Part, an investigating officer\n\nshall have all the powers of a police officer of whatever rank as\n\nprovided for under the Criminal Procedure Code in relation to\n\nenforcement, investigation and inspection.\n\nCompounding of offences"
+   }
+  },
+  {
+   "id": "MY-H637-A102",
+   "no": 102,
+   "noLabel": {
+    "en": "Section 102"
+   },
+   "chapter": {
+    "en": "Part IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "102. (1) For the purposes of this Part, the Director General may,\n\nwith the consent in writing of the Public Prosecutor, compound\n\nany offence committed by any person under this Part prescribed\n\nto be a compoundable offence by making a written offer to the\n\nperson suspected to have committed the offence to compound the\n\noffence upon payment to the Director General of an amount of\n\nmoney not exceeding fifty per centum of the amount of maximum\n\nfine for that offence within such time as may be specified in his\n\nwritten offer.\n\n(2) An offer under subsection (1) may be made at any time\n\nafter the offence has been committed but before any prosecution\n\nfor it has been instituted.\n\n(3) If the amount specified in the offer is not paid within\n\nthe time specified in the offer, or such extended time as the\n\nDirector General may grant, prosecution for the offence may\n\nbe instituted at any time after that against the person to whom\n\nthe offer was made.\n\n(4) Where an offence has been compounded under this section—\n\n(a) no prosecution shall be instituted in respect of the offence\n\nagainst the person to whom the offer to compound was\n\nmade; and\n\n(b) any document or thing seized in connection with the\n\noffence may be released by the Director General, subject\n\nto such terms as the Director General thinks fit.\n\n(5) All sums of money received by the Director General\n\nunder this section shall be paid into and form part of the\n\nFederal Consolidated Fund.\n\nDuties of contracting entity under this Part"
+   }
+  },
+  {
+   "id": "MY-H637-A103",
+   "no": 103,
+   "noLabel": {
+    "en": "Section 103"
+   },
+   "chapter": {
+    "en": "Part IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "103. (1) For the purposes of this Part, a contracting entity shall—\n\n(a) conduct risk assessment by evaluating the risks to safety\n\nand health arising out of hazards at work to determine\n\nand implement the appropriate measures for risk control;\nGig Workers 55\n\n(b) ensure adequate safety and health measures in respect of\n\nany equipment and facility provided for the use of the\n\ngig worker;\n\n(c) ensure that the gig worker is not exposed to safety and\n\nhealth risk arising out of the arrangements and processes\n\nprovided by the contracting entity while the gig worker\n\nis performing his service;\n\n(d) ensure that the gig worker has adequate information,\n\ninstruction, training and supervision as is necessary\n\narising out of the risk assessment conducted for the gig\n\nworker to perform his service;\n\n(e) develop and implement procedures for dealing with\n\nemergencies that may arise while the gig worker is\n\nperforming his service; and\n\n(f) notify the Director General of any occupational accident\n\nor occupational diseases which has occurred while the\n\ngig worker is performing his service.\n\n(2) Any contracting entity who contravenes subsection (1)\n\ncommits an offence.\n\nDuties of gig worker under this Part"
+   }
+  },
+  {
+   "id": "MY-H637-A104",
+   "no": 104,
+   "noLabel": {
+    "en": "Section 104"
+   },
+   "chapter": {
+    "en": "Part IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "104. (1) Any gig worker shall comply with—\n\n(a) any safety and health measures provided by the contracting\n\nentity under paragraph 103(1)(b);\n\n(b) instructions given by the contracting entity under\n\nparagraph 103(1)(d); and\n\n(c) procedures for dealing with emergency under\n\nparagraph 103(1)(e) developed or implemented by the\n\ncontracting entity.\n\n(2) Any gig worker who contravenes subsection (1) commits an\n\noffence and shall, on conviction, be liable to a fine not exceeding\n\ntwo thousand ringgit or to imprisonment for a term not exceeding\n\nthree months or to both.\n\nPublic servant"
+   }
+  },
+  {
+   "id": "MY-H637-A105",
+   "no": 105,
+   "noLabel": {
+    "en": "Section 105"
+   },
+   "chapter": {
+    "en": "Part IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "105. Any officer while discharging his duties or performing\n\nhis functions or exercising his powers under this Part shall\n\nbe deemed to be a public servant within the meaning of the\n\nPenal Code.\n\nApplication of Public Authorities Protection Act 1948"
+   }
+  },
+  {
+   "id": "MY-H637-A106",
+   "no": 106,
+   "noLabel": {
+    "en": "Section 106"
+   },
+   "chapter": {
+    "en": "Part IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "106. The Public Authorities Protection Act 1948 shall apply to\n\nany action, suit, prosecution or proceedings against any officer\n\nin respect of any act, neglect or default done or committed by\n\nhim in good faith or any omission by him in good faith, in such\n\ncapacity.\n\nPart X\n\nMISCELLANEOUS\n\nProsecution"
+   }
+  },
+  {
+   "id": "MY-H637-A107",
+   "no": 107,
+   "noLabel": {
+    "en": "Section 107"
+   },
+   "chapter": {
+    "en": "Part X"
+   },
+   "heading": {},
+   "text": {
+    "en": "107. No prosecution shall be instituted for an offence under this\n\nAct without the consent in writing of the Public Prosecutor.\n\nGeneral penalty"
+   }
+  },
+  {
+   "id": "MY-H637-A108",
+   "no": 108,
+   "noLabel": {
+    "en": "Section 108"
+   },
+   "chapter": {
+    "en": "Part X"
+   },
+   "heading": {},
+   "text": {
+    "en": "108. Any person who contravenes—\n\n(a) any provision of this Act; or\n\n(b) any summons, order or direction given or made under\n\nthis Act,\n\nfor which no penalty is expressly provided shall, on conviction,\n\nbe liable to imprisonment for a term not exceeding two years or\n\nto a fine not exceeding fifty thousand ringgit or to both.\nGig Workers 57\n\nOffence by body corporate, etc."
+   }
+  },
+  {
+   "id": "MY-H637-A109",
+   "no": 109,
+   "noLabel": {
+    "en": "Section 109"
+   },
+   "chapter": {
+    "en": "Part X"
+   },
+   "heading": {},
+   "text": {
+    "en": "109. Where an offence under this Act has been committed by a\n\nbody, incorporated or registered under any written law—\n\n(a) in the case of a body corporate, any person who is a\n\ndirector, manager, secretary or any other officer responsible\n\nfor the management of the body corporate at the time\n\nof the commission of the offence;\n\n(b) in the case of a partnership or sole proprietor, every\n\npartner in the partnership or the sole proprietor at the\n\ntime of the commission of the offence; or\n\n(c) in the case of an association or a society or any other\n\nbody registered under any written laws, the president,\n\nthe chairman, the secretary, the treasurer or other similar\n\nofficer of the association or society at the time of the\n\ncommission of the offence,\n\nmay be charged jointly or severally with the body corporate,\n\npartnership, sole proprietor, association or society or any other\n\nbody registered under any written laws, and if the body corporate,\n\npartnership, sole proprietor, association or society or any other\n\nbody registered under any written laws is found guilty of the\n\noffence, the person referred to in paragraph (a), (b) or (c) shall\n\nbe deemed to have committed the offence, unless he proves that\n\nthe offence was committed without his knowledge or connivance\n\nor that he took all reasonable precautions or he had exercised\n\ndue diligence to prevent the commission of the offence.\n\nPower to amend Schedule"
+   }
+  },
+  {
+   "id": "MY-H637-A110",
+   "no": 110,
+   "noLabel": {
+    "en": "Section 110"
+   },
+   "chapter": {
+    "en": "Part X"
+   },
+   "heading": {},
+   "text": {
+    "en": "110. The Minister may, by order published in the Gazette, amend\n\nthe Schedule.\n\nPower to exempt"
+   }
+  },
+  {
+   "id": "MY-H637-A111",
+   "no": 111,
+   "noLabel": {
+    "en": "Section 111"
+   },
+   "chapter": {
+    "en": "Part X"
+   },
+   "heading": {},
+   "text": {
+    "en": "111. The Minister may by order exempt, subject to any conditions\n\nas he may think fit to impose, any person or class of persons\n\nfrom any of the provisions of this Act.\n\nPower to make regulations"
+   }
+  },
+  {
+   "id": "MY-H637-A112",
+   "no": 112,
+   "noLabel": {
+    "en": "Section 112"
+   },
+   "chapter": {
+    "en": "Part X"
+   },
+   "heading": {},
+   "text": {
+    "en": "112. The Minister may make regulations to prescribe—\n\n(a) the procedures for the conciliation proceedings and any\n\nrelated matter;\n\n(b) the procedures, proceedings and fees under Part V;\n\n(c) the offences which may be compounded, the forms to be\n\nused, and the methods and procedures for compounding\n\nsuch offences under this Act;\n\n(d) any matter to be prescribed by the Minister under\n\nPart VIII; and\n\n(e) any other matter for the better carrying out of the provisions\n\nof this Act.\n\nSchedule\n\n[Section 2]\n\n(1)\n\nNo.\n\n(2)\n\nService\n\n(3)\n\nRelevant gig worker"
+   }
+  }
+ ]
+}

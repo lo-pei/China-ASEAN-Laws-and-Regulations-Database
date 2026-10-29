@@ -1,0 +1,500 @@
+{
+ "id": "ID-H865",
+ "title": {
+  "zh": "公司文件法",
+  "en": "Law on Company Documents",
+  "id": "DOKUMEN PERUSAHAAN",
+  "orig": "DOKUMEN PERUSAHAAN",
+  "vi": "Luật về Tài liệu Doanh nghiệp",
+  "th": "พระราชบัญญัติว่าด้วยเอกสารบริษัท",
+  "ms": "Akta tentang Dokumen Syarikat"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02a",
+ "language": "id",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "1997",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU8-1997",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 32,
+ "chars": 30427,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU0081997.pdf&fl=P00994"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\01_宪法与基础法\\印尼_文本_1997_DOKUMEN PERUSAHAAN.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 397 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H865-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\nDalam Undang-undang ini yang dimaksud dengan:\n1. Perusahaan adalah setiap bentuk usaha yang melakukan kegiatan\nsecara tetap dan terus menerus dengan tujuan memperoleh\nkeuntungan atau laba, baik yang diselenggarakan oleh orang\nperorangan maupun badan usaha yang berbentuk badan hukum atau\nbukan badan hukum, yang didirikan dan berkedudukan dalam\nwilayah Negara Republik Indonesia.\nPRESIDEN\nREPUBLIK INDONESIA\n2. Dokumen…\n2. Dokumen perusahaan adalah data, catatan dan atau keterangan yang\ndibuat dan atau diterima oleh perusahaan dalam rangka pelaksanaan\nkegiatannya, baik tertulis di atas kertas atau sarana lain maupun\nterekam dalam bentuk corak apapun yang dapat dilihat, dibaca dan\ndidengar.\n3. Jadwal retensi adalah jangka waktu penyimpanan dokumen\nperusahaan yang disusun dalam suatu daftar sesuai dengan jenis dan\nnilai kegunaannya dan dipakai sebagai pedoman pemusnahan\ndokumen perusahaan."
+   }
+  },
+  {
+   "id": "ID-H865-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\nDokumen perusahaan terdiri dari dokumen keuangan dan dokumen\nlainnya."
+   }
+  },
+  {
+   "id": "ID-H865-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\nDokumen keuangan terdiri dari catatan, bukti pembukuan, dan data\npendukung administrasi keuangan, yang merupakan bukti adanya hak dan\nkewajiban serta kegiatan usaha suatu perusahaan."
+   }
+  },
+  {
+   "id": "ID-H865-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\nDokumen lainnya terdiri dari data atau setiap tulisan yang berisi\nketerangan yang mempunyai nilai guna bagi perusahaan meskipun tidak\nterkait langsung dengan dokumen keuangan."
+   }
+  },
+  {
+   "id": "ID-H865-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\nCatatan terdiri dari neraca tahunan, perhitungan laba rugi tahunan,\nrekening, jurnal transaksi harian, atau setiap tulisan yang berisi\nketerangan mengenai hak dan kewajiban serta hal -hal lain yang berkaitan\ndengan kegiatan usaha suatu perusahaan."
+   }
+  },
+  {
+   "id": "ID-H865-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\nBukti pembukuan terdiri dari warkat -warkat yang digunakan sebagai\ndasar pembukuan yang mempengaruhi perubahan kekayaan, utang dan\nmodal.\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H865-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7…"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 7\n(1) Data pendukung administrasi keuangan merupakan data\nadministratif yang berkaitan dengan keuangan untuk digunakan\nsebagai pendukung penyusunan dan pembuatan dokumen keuangan.\n(2) Data pendukung administrasi keuangan sebagaimana dimaksud\ndalam ayat (1) terdiri dari:\na. data pendukung yang merupakan bagian dari bukti pembukuan;\ndan\nb. data pendukung yang tidak merupakan bagian dari bukti\npembukuan.\nBAB II\nPEMBUATAN CATATAN DAN PENYIMPANAN DOKUMEN PERUSAHAAN"
+   }
+  },
+  {
+   "id": "ID-H865-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n(1) Setiap perusahaan wajib membuat catatan sebagaimana dimaksud\ndalam Pasal 5 sesuai dengan kebutuhan perusahaan.\n(2) Catatan sebagaimana dimaksud dalam ayat (1) wajib dibuat dengan\nmenggunakan huruf Latin, angka Arab, satuan mata uang Rupiah,\ndan disusun dalam bahasa Indonesia.\n(3) Dalam hal ada izin dari Menteri Keuangan, catatan sebagaimana\ndimaksud dalam ayat (2) dapat disusun dalam bahasa asing."
+   }
+  },
+  {
+   "id": "ID-H865-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n(1) Catatan yang berbentuk neraca tahunan, perhitungan laba rugi\ntahunan, atau tulisan lain yang me nggambarkan neraca dan laba\nrugi, wajib ditandatangani oleh pimpinan perusahaan atau pejabat\nyang ditunjuk di lingkungan perusahaan yang bersangkutan.\n(2) Dalam hal peraturan perundang -undangan yang berkaitan langsung\ndengan kegiatan perusahaan di bidang menentukan lain, maka\ncatatan sebagaimana dimaksud dalam ayat (1) wajib dibuat paling\nlambat 6 (enam) bulan terhitung sejak akhir tahun buku perusahaan\nyang bersangkutan.\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H865-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10…"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 10\n(1) Catatan sebagaimana dimaksud dalam Pasal 9, wajib dibuat di atas\nkertas.\n(2) Catatan yang berbentuk rekening, jurnal transaksi harian, atau setiap\ntulisan yang berisi keterangan mengenai hak dan kewajiban serta\nhal-hal lain yang berkaitan de ngan kegiatan usaha atau perusahaan\nsebagaimana dimaksud dalam Pasal 5, dibuat di atas kertas atau\ndalam sarana lainnya."
+   }
+  },
+  {
+   "id": "ID-H865-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\n(1) Catatan sebagaimana dimaksud dalam Pasal 5, bukti pembukuan\nsebagaimana dimaksud dalam Pasal 6, dan data pendukung\nadministrasi keuangan sebagaimana dimaksud dalam Pasal 7 ayat\n(2) huruf a, wajib disimpan selama 10 (sepuluh) tahun terhitung\nsejak akhir tahun buku perusahaan yang bersangkutan.\n(2) Data pendukung administrasi keuangan sebagaimana dimaksud\ndalam Pasal 7 aya t (2) huruf b, jangka waktu penyimpanannya\ndisesuaikan dengan kebutuhan perusahaan yang bersangkutan.\n(3) Dokumen lainnya sebagaimana dimaksud dalam Pasal 4, jangka\nwaktu penyimpanannya ditetapkan berdasarkan nilai guna dokumen\ntersebut.\n(4) Jangka waktu sebagaimana dimaksud dalam ayat (2) dan ayat (3),\ndisusun oleh perusahaan yang bersangkutan dalam suatu jadwal\nretensi yang ditetapkan dengan keputusan pimpinan perusahaan.\n(5) Kewajiban penyimpanan sebagaimana dimaksud dalam ayat (1),\nayat (2) dan ayat (3) tidak menghilangkan fungsi dokumen yang\nbersangkutan sebagai alat bukti sesuai dengan kebutuhan\nsebagaimana ditentukan dalam ketentuan mengenai daluwarsa suatu\ntuntutan yang diatur dalam peraturan perundang -undangan yang\nberlaku, atau untuk kepentingan hukum lainnya.\nPRESIDEN\nREPUBLIK INDONESIA\nBAB III…\nBAB III\nPENGALIHAN BENTUK DOKUMEN PERUSAHAAN DAN LEGALISASI"
+   }
+  },
+  {
+   "id": "ID-H865-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n(1) Dokumen perusahaan dapat dialihkan ke dalam mikrofilm atau\nmedia lainnya.\n(2) Pengalihan dokumen perusahaan ke dalam mikrofilm atau media\nlainnya sebagaimana dimaksud dalam ayat (1) dapat dilakukan sejak\ndokumen tersebut dibuat atau diterima oleh perusahaan yang\nbersangkutan.\n(3) Dalam mengalihkan dokumen perusahaan sebagaimana dim aksud\ndalam ayat (1), pimpinan perusahaan wajib mempertimbangkan\nkegunaan naskah asli dokumen yang perlu tetap disimpan karena\nmengandung nilai tertentu demi kepentingan perusahaan atau\nkepentingan nasional.\n(4) Dalam hal dokumen perusahaan yang dialihkan ke dalam mikrofilm\natau media lainnya adalah naskah asli yang mempunyai kekuatan\npembuktian otentik dan masih kepentingan hukum tertentu,\npimpinan perusahaan wajib tetap menyimpan naskah asli tersebut."
+   }
+  },
+  {
+   "id": "ID-H865-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\nSetiap pengalihan dokumen perusahaan sebag aimana dimaksud dalam\nPasal 12 ayat (1) wajib dilegalisasi."
+   }
+  },
+  {
+   "id": "ID-H865-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\n(1) Legalisasi sebagaimana dimaksud dalam Pasal 13 dilakukan oleh\npimpinan perusahaan atau pejabat yang ditunjuk di lingkungan\nperusahaan yang bersangkutan, dengan dibuatkan berita acara.\n(2) Berita acara sebagaimana dimaksud dalam ayat (1)\nsekurang-kurangnya memuat:\na. keterangan tempat, hari, tanggal, bulan dan tahun dilakukannya\nlegalisasi;\nb. keterangan bahwa pengalihan dokumen perusahaan yang dibuat\ndi atas kertas ke dalam mikrofilm atau media lainnya telah\nPRESIDEN\nREPUBLIK INDONESIA\ndilakukan sesuai dengan aslinya; dan\nc. tandatangan...\nc. tandatangan dan nama jelas pejabat yang bersangkutan."
+   }
+  },
+  {
+   "id": "ID-H865-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\n(1) Dokumen perusahaan yang telah dimuat dalam mikrofilm atau\nmedia lainnya sebagaimana dimaksud dalam Pasal 12 ayat (1) dan\natau hasil cetaknya merupakan alat bukti yang sah.\n(2) Apabila dianggap perlu dalam hal tertentu dan untuk keperluan\ntertentu dapat dilakukan legalisasi terhadap hasil cetak dokumen\nperusahaan yang telah dimuat dalam mikrofilm atau media lainnya."
+   }
+  },
+  {
+   "id": "ID-H865-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\nKetentuan lebih lanjut mengenai tata cara pengalihan dokumen\nperusahaan ke dalam mikrofilm atau media lainnya dan legalisasi diatur\ndengan Peraturan Pemerintah.\nBAB IV\nPEMINDAHAN, PENYERAHAN, DAN PEMUSNAHAN DOKUMEN\nPERUSAHAAN"
+   }
+  },
+  {
+   "id": "ID-H865-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\nPemindahan dokumen perusahaan dari unit pengolahan ke unit kearsipan\ndi lingku ngan perusahaan tersebut dilakukan berdasarkan keputusan\npimpinan perusahaan yang pelaksanaannya disesuaikan dengan\nkebutuhan perusahaan yang bersangkutan."
+   }
+  },
+  {
+   "id": "ID-H865-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\n(1) Dokumen perusahaan tertentu yang mempunyai nilai guna bagi\nkepentingan nasional wajib diserahkan kepada Arsip Nasional\nRepublik Indonesia berdasarkan keputusan pimpinan perusahaan.\n(2) Penyerahan sebagaimana dimaksud dalam ayat (1) dilaksanakan\ndengan pembuatan berita acara yang sekurang-kurangnya memuat:\na. keterangan tempat, hari, tang gal, bulan dan tahun dilakukannya\npenyerahan;\nb. keterangan tentang pelaksanaan penyerahan; dan\nc. tanda tangan dan nama jelas pejabat yang menyerahkan dan\nPRESIDEN\nREPUBLIK INDONESIA\npejabat yang menerima penyerahan.\n(3) Pada...\n(3) Pada berita acara penyerahan sebagaimana dimaksud dalam ayat (2)\ndilampirkan daftar pertelaan dokumen yang akan diserahkan."
+   }
+  },
+  {
+   "id": "ID-H865-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\n(1) Pemusnahan catatan, bukti pembukuan dan data pendukung\nadministrasi keuangan sebagaimana dimaksud dalam Pasal 11 ayat\n(1) dilaksanakan berdasarkan keputusan pimpinan perusahaan.\n(2) Pemusnahan data pendukung administrasi keuangan sebagaimana\ndimaksud dala m Pasal 11 ayat (2) dan dokumen lainnya\nsebagaimana dimaksud dalam Pasal 11 ayat (3) dilaksanakan\nberdasarkan jadwal retensi.\n(3) Pimpinan perusahaan yang bertanggung jawab atas pemusnahan\ndokumen perusahaan atau pejabat lain yang ditunjuk, bertanggung\njawab atas segala kerugian perusahaan dan atau pihak ketiga dalam\nhal:\na. pemusnahan dokumen perusahaan dilakukan sebelum habis\njangka waktu wajib simpan sebagaimana dimaksud dalam Pasal\n11 ayat (1); atau\nb. pemusnahan dokumen perusahaan dilakukan, sedan gkan\ndiketahui atau patut diketahui bahwa dokumen perusahaan\ntersebut masih tetap harus disimpan, karena mempunyai nilai\nguna baik yang berkaitan dengan kekayaan, hak, dan kewajiban\nperusahaan maupun kepentingan lainnya."
+   }
+  },
+  {
+   "id": "ID-H865-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\nPemusnahan dokumen perus ahaan yang telah dialihkan ke dalam\nmikrofilm atau media lainnya, dapat segera dilakukan kecuali ditentukan\nlain oleh pimpinan perusahaan, berdasarkan ketentuan Pasal 12 ayat (3)\ndan ayat (4)."
+   }
+  },
+  {
+   "id": "ID-H865-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\n(1) Pemusnahan sebagaimana dimaksud dalam Pasal 19 d an Pasal 20,\ndilaksanakan dengan pembuatan berita acara yang\nsekurang-kurangnya memuat:\nPRESIDEN\nREPUBLIK INDONESIA\na. keterangan tempat, hari, tanggal, bulan dan tahun dilakukannya\npemusnahan;\nb. keterangan tentang pelaksanaan pemusnahan; dan\nc. tanda...\nc. tanda tangan dan nama jelas pejabat yang melaksanakan\npemusnahan.\n(2) Pada berita acara pemusnahan yang dimaksud dalam ayat (1)\ndilampirkan daftar pertelaan dokumen yang akan dimusnahkan."
+   }
+  },
+  {
+   "id": "ID-H865-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\nKetentuan lebih lanjut mengenai tata cara penyerahan dan pemusnahan\ndokumen perusahaan diatur dengan Peraturan Pemerintah.\nBAB V\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H865-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\nBuku, surat, catatan dan neraca yang berdasarkan ketentuan Pasal 6 Kitab\nUndang-undang Hukum Dagang (Wetboek van Koophandel voor\nIndonesie, Staatsblad 1 847 : 23) wajib disimpan selama 30 (tiga puluh)\ntahun, dan pada saat berlakunya Undang -undang ini telah disimpan\nselama 10 (sepuluh) tahun atau lebih, pemusnahannya dilakukan\nberdasarkan ketentuan dalam Undang-undang ini."
+   }
+  },
+  {
+   "id": "ID-H865-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 24\nSalinan surat dan teleg ram yang berdasarkan ketentuan Pasal 6 Kitab\nUndang-undang Hukum Dagang (Wetboek van Koophandel voor\nIndonesie, Staatsblad 1847 : 23) wajib disimpan selama 10 (sepuluh)\ntahun, dan pada saat berlakunya Undang-undang ini masa simpanan yang\nbelum mencapai 10 (sepuluh) tahun pemusnahannya dilakukan\nberdasarkan ketentuan dalam Undang-undang ini."
+   }
+  },
+  {
+   "id": "ID-H865-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\nDokumen perusahaan yang pemusnahannya telah dimintakan\npertimbangan kepada Ketua Badan Pemeriksa Keuangan, dan dalam\nwaktu 1 (satu) tahun terhitung sejak tanggal mulai berlakunya\nUndang-undang ini pertimbangan tersebut belum diberikan,\npemusnahannya dilakukan berdasarkan ketentuan dalam Undang -undang\nini.\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H865-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26…"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 26\nDokumen perusahaan yang pemusnahannya telah dimintakan persetujuan\nkepada Kepala Arsip Nasional Republik Indonesia dan dalam waktu 1\n(satu) tahun terhitung sejak tanggal mulai be rlakunya Undang-undang ini\npersetujuan tersebut belum diberikan, pemusnahannya dilakukan\nberdasarkan ketentuan dalam Undang-undang ini."
+   }
+  },
+  {
+   "id": "ID-H865-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\nDokumen perusahaan yang jadwal retensinya sedang dimintakan\npersetujuan kepada Kepala Arsip Nasional Republik Indonesia, dan\ndalam waktu 1 (satu) tahun terhitung sejak tanggal mulai berlakunya\nUndang-undang ini persetujuan tersebut belum diberikan, jadwal retensi\ndan pemusnahannya ditetapkan berdasarkan ketentuan dalam\nUndang-undang ini.\nBAB VI\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H865-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\nKetentuan dalam Undang-undang ini berlaku juga terhadap:\n1. Kantor perwakilan, kantor cabang, agen perusahaan Indonesia atau\nyang disamakan dengan itu, yang mempunyai kegiatan usaha di luar\nwilayah Negara Republik Indonesia, den gan tetap memperhatikan\nketentuan yang berlaku di negara setempat;\n2. Kantor perwakilan, kantor cabang agen perusahaan asing atau yang\ndisamakan dengan itu, yang mempunyai kegiatan usaha di wilayah\nNegara Republik Indonesia; dan\n3. Badan atau lembaga yan g tidak termasuk dalam pengertian\nperusahaan sebagaimana dimaksud dalam Pasal I angka 1, yang\ndalam kegiatan dan atau tugasnya memiliki dan menghasilkan\ndokumen sebagaimana layaknya perusahaan.\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H865-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29…"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 29\nSemua ketentuan peraturan perun dang-undangan yang berkaitan dengan\npelaksanaan Pasal 6 Kitab Undang -undang Hukum Dagang (Wetboek\nvan Koophandel voor Indonesie, Staatsblad 1847 : 23) tetap berlaku\nsepanjang belum diganti atau tidak bertentangan dengan Undang -undang\nini."
+   }
+  },
+  {
+   "id": "ID-H865-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\nPada saat Undang-undang ini mulai berlaku:\n1. Pasal 6 Kitab Undang -undang Hukum Dagang (Wetboek van\nKoophandel voor Indonesie, Staatsblad 1847 : 23); dan\n2. Semua peraturan perundang -undangan yang berkaitan dengan\ndokumen perusahaan dan ketentuan peratur an perundang-undangan\nyang berkaitan dengan penyimpanan, pemindahan, penyerahan dan\npemusnahan arsip yang bertentangan dengan Undang -undang ini,\ndinyatakan tidak berlaku lagi."
+   }
+  },
+  {
+   "id": "ID-H865-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\nUndang-undang ini mulai berlaku pada tanggal diundangkan.\nPRESIDEN\nREPUBLIK INDONESIA\nAgar...\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nUndang-undang ini dengan penempatannya dalam Lembaran Negara\nRepublik Indonesia.\nDisahkan di Jakarta\npada tanggal 24 Maret 1997\nPRESIDEN REPUBLIK INDONESIA,\nttd.\nSOEHARTO\nDiundangkan di Jakarta\npada tanggal 24 Maret 1997\nMENTERI NEGARA SEKRETARIS NEGARA\nREPUBLIK INDONESIA,\nttd.\nMOERDIONO\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1997 NOMOR 18\nPRESIDEN\nREPUBLIK INDONESIA\nPENJELASAN\nATAS\nUNDANG-UNDANG REPUBLIK INDONESIA\nNOMOR 8 TAHUN 1997\nTENTANG\nDOKUMEN PERUSAHAAN\nUMUM\nGaris-garis Besar Haluan Negara menetapkan bahwa pembangunan hukum sebagai\nupaya untuk menegakkan keadilan, kebenaran dan ketertiban dalam negara hukum\nIndonesia yang berdasarkan Pancasila dan Undang -Undang Dasar 1945, diarahkan\nuntuk meningkatkan kesadaran hukum, menjamin penegakan, pelayanan dan\nkepastian hukum, serta mewujudkan tata hukum nasional yang mengabdi pad a\nkepentingan nasional.\nPengaruh globalisasi ekonomi dan informasi yang demikian lua s karena\nperkembangan perekonomian dan perdagangan baik nasional maupun internasional\nyang bergerak cepat mengakibatkan meningkatnya penggunaan dokumen,\nsehingga mengharuskan dunia usaha memanfaatkan kemajuan teknologi untuk\nmeningkatkan kemampuannya secar a efektif dan efisien khususnya dalam\npengelolaan dokumen perusahaan.\nGuna mencapai tujuan tersebut, pembentukan peraturan mengenai dokumen\nperusahaan yang merupakan bagian dari pembangunan hukum di bidang ekonomi\nperlu segera disusun, dalam upaya memacu laju pertumbuhan perusahaan melalui\npengelolaan dokumen perusahaan yang efektif dan efisien.\nKetentuan sebagaimana tercantum dalam Pasal 6 Kitab Undang -undang Hukum\nDagang (Wetboek van Koophandel voor Indonesie, Staatsblad 1847 : 23) yang\nmewajibkan setia p orang menjalankan perusahaan menyelenggarakan pencatatan\ntentang hal -hal yang berkaitan dengan perusahaan dan menyimpan dokumen\ntersebut antar 10 (sepuluh) sampai dengan 30 (tiga puluh) tahun, sudah tidak\nsesuai lagi dengan perkembangan dan kebutuhan huk um masyarakat khususnya di\nbidang ekonomi dan perdagangan dewasa ini.\nPRESIDEN\nREPUBLIK INDONESIA\nSelain…\nSelain ketentuan wajib menyimpan dokumen sebagaimana diatur dalam Pasal 6\nKitab Undang-undang Hukum Dagang (Wetboek van Koophandel voor Indonesie,\nStaatsblad 1847 : 23) , juga ketentuan Undang -undang dan peraturan\nperundang-undangan lainnya yang berkaitan dengan tata cara penyimpanan,\npemindahan, pemusnahan dan penyerahan arsip menimbulkan beban yang berat\nbagi perusahaan karena pelaksanaannya memerlukan ruangan yang luas , tenaga,\nwaktu, perawatan dan biaya yang besar.\nCatatan yang berupa neraca tahunan, perhitungan laba rugi tahunan, rekening,\njurnal transaksi harian, dan bukti pembukuan serta data pendukung administrasi\nkeuangan yang merupakan bagian dari bukti pembukua n atau tulisan lain yang\nmenggambarkan neraca tahunan, perhitungan rugi laba tahunan, rekening dan\njurnal transaksi harian dikurangi masa penyimpanannya dari 30 (tiga puluh) tahun\nmenjadi 10 (sepuluh) tahun. Sedangkan data pendukung administrasi keuangan\nyang tidak merupakan bagian dari bukti pembukuan, dan dokumen lainnya, jangka\nwaktu penyimpanannya disesuaikan dengan nilai guna dokumen yang disusun\ndalam jadwal retensi yang ditetapkan dengan keputusan pimpinan perusahaan.\nSejalan dengan upaya mengurangi jangka waktu penyimpanan, penerapan\nteknologi maju di bidang informatika telah memungkinkan dokumen perusahaan\nyang dibuat di atas kertas atau sarana lainnya dapat dialihkan untuk disimpan\ndalam mikrofilm atau media lainnya. Pemakaian mikrofilm atau media lain\ntersebut dapat dipastikan semakin banyak digunakan dalam kegiatan ekonomi dan\nperdagangan karena lebih ekonomis. Untuk menjamin kepastian hukum, maka\ndokumen perusahaan yang disimpan dalam mikrofilm dan media lain, merupakan\nsalah satu alat bukti yang sah.\nUntuk menyederhanakan tata cara penyimpanan, pemindahan, pemusnahan, dan\npenyerahan dokumen perusahaan, yang penting artinya bagi efisiensi kegiatan\nperusahaan seperti diuraikan di atas, Undang -undang ini memberikan wewenang\nkepada perusahaan untuk melaksanakan penyimpanan, pemindahan, pemusnahan\ndan penyerahan dokumen tersebut berdasarkan jadwal retensi baik menurut\nUndang-undang ini maupun yang ditetapkan oleh pimpinan perusahaan.\nDengan diber lakukannya ketentuan yang mengatur dokumen perusahaan, maka\npembuatan, penyimpanan, pemindahan, pemusnahan dan penyerahan dokumen\nperusahaan dapat dilakukan dengan sederhana, efektif dan efisien dengan tidak\nmengurangi kepastian hukum dan tetap melindungi kepentingan para pihak dalam\nsuatu hubungan hukum.\nPRESIDEN\nREPUBLIK INDONESIA\nKetentuan…\nKetentuan mengenai pelaksanaan penyimpanan, pemindahan, pemusnahan dan\npenyerahan dokumen yang diatur dengan Undang -undang ini tidak dimaksudkan\nmenghilangkan fungsi dokumen bersangkutan sebagai alat bukti atau kepentingan\nhukum lainnya. Oleh karena itu Undang -undang dan ketentuan peraturan\nperundang-undangan lainnya yang berkaitan dengan pelaksanaan Pasal 6 Kitab\nUndang-undang Hukum Dagang (Wetboek van Koophandel voor Indonesie,\nStaatsblad 1847 : 23), misalnya Pasal 396, Pasal 397, Pasal 398 dan Pasal 399\nKitab Undang-undang Hukum Pidana tetap berlaku sepanjang belum diganti atau\ntidak bertentangan dengan Undang-undang ini.\nPASAL DEMI PASAL\nPasal 1\nCukup jelas\nPasal 2\nCukup jelas\nPasal 3\nCukup jelas\nPasal 4\nYang termasuk \"dokumen lainnya\" misalnya Risalah Rapat Umum Pemegang\nSaham, Akta Pendirian Perusahaan, akta otentik lainnya yang masih mengandung\nkepentingan hukum tertentu, Nomor Pokok Wajib Pajak.\nPasal 5\nYang dimaksud dengan:\n- \"neraca tahunan\" adalah salah satu bentuk catatan yang menggambarkan posisi\nkekayaan, utang, dan modal pada akhir tahun buku yang merupakan\npertanggungjawaban keuangan.\n- \"rekening\" adalah salah satu bentuk catatan yang dibuat pe rusahaan untuk\nmenampung transaksi yang sejenis yang digunakan sebagai dasar penyusunan\nlaporan keuangan, dan dapat juga disebut buku besar atau perkiraan.\n- \"jurnal transaksi harian\" adalah salah satu bentuk catatan yang menggambarkan\nadanya transaksi yang dapat berupa buku harian atau catatan harian atau tulisan\nlainnya.\n- \"tulisan yang berisi keterangan mengenai hak dan kewajiban serta hal -hal lain\nyang berkaitan dengan kegiatan usaha suatu perusahaan\" adalah tulisan yang\nmenggambarkan neraca tahunan , perhitungan laba rugi tahunan, rekening dan\njurnal transaksi harian.\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 6…\nPasal 6\nYang dimaksud dengan:\n- \"warkat\" adalah dokumen tertulis yang bentuk dan penggunaannya ditetapkan\nmenurut aturan tertentu dan merupakan bukti transaksi, misalnya cek, bilyet\ngiro, surat perintah membayar, wesel, nota, debet, dan nota kredit.\n- perubahan kekayaan, utang dan modal\" adalah bertambah dan atau\nberkurangnya jumlah dan susunan kekayaan, utang dan modal.\nPasal 7\nAyat (1)\nCukup jelas\nAyat (2)\nYang termasuk:\na. data pendukung yang merupakan bagian dari bukti pembukuan\",\nmisalnya surat perintah kerja, surat kontrak atau surat perjanjian.\nb. data pendukung yang tidak merupakan bagian dari bukti pembukuan\",\nmisalnya rekening antar kantor rekening harian, atau rekening\nmingguan.\nPasal 8\nAyat (1)\nPenggunaan kata \"wajib\" dalam ayat ini dimaksudkan untuk memberikan\npenekanan adanya kewajiban perusahaan membuat catatan, agar setiap saat\ndapat diketahui keadaan kekayaan, utang, modal hak dan kewajiba n\nperusahaan, untuk melindungi baik kepentingan perusahaan, kepentingan\nPemerintah maupun kepentingan pihak ketiga.\nKewajiban tersebut bersifat keperdataan, sehingga risiko yang timbul\nkarena tidak dilaksanakannya kewajiban tersebut menjadi tanggung jawab\nperusahaan yang bersangkutan.\nYang dimaksud dengan \"sesuai dengan kebutuhan perusahaan\" adalah\nbahwa walaupun setiap perusahaan diwajibkan membuat catatan, tetapi\nmengenai bentuk dan kedalaman isi catatan yang dibuat, dilakukan sesuai\ndengan sifat perusahaan.\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (2)…\nAyat (2)\nPenggunaan kata \"wajib\" dalam ayat ini dimaksudkan untuk memberikan\npenekanan bahwa catatan tersebut dibuat sesuai dengan ketentuan dalam\nayat ini, misalnya harus menggunakan huruf Latin dan disusun dalam\nbahasa Indonesia. Dengan demikian apabila tida k dibuat dengan\nmenggunakan huruf Latin dan tidak disusun dalam bahasa Indonesia, maka\nsecara hukum, perusahaan tersebut dianggap belum membuat catatan, dan\nkelalaian tersebut menjadi tanggungjawab perusahaan yang bersangkutan.\nAyat (3)\nPada dasarnya ca tatan harus disusun dalam bahasa Indonesia, kecuali baik\nkarena sifat perusahaan maupun untuk kepentingan tertentu sesuai dengan\nketentuan peraturan perundang-undangan di bidang perpajakan, dengan izin\nMenteri Keuangan catatan dapat disusun dalam bahasa asing.\nPasal 9\nAyat (1)\n- Penggunaan kata \"wajib\" dalam ayat ini dimaksudkan untuk\nmemberikan penekanan bahwa apabila neraca tahunan atau\nperhitungan laba rugi tahunan belum ditandatangani oleh pimpinan\nperusahaan atau pejabat yang ditunjuk, secara hukum perusahaan\ndianggap belum membuat neraca tahunan atau perhitungan laba rugi\ntahunan.\n- Yang dimaksud dengan \"pimpinan perusahaan\" adalah seseorang yang\nberdasarkan Anggaran Dasar memimpin perusahaan yang bersangkutan\ndan mewakili perusahaan baik di dalam maupun di luar pengadilan.\n- Yang dimaksud dengan \"pejabat yang ditunjuk\" adalah seseorang yang\ndiberi kewenangan oleh pimpinan perusahaan untuk mengelola\ndokumen perusahaan.\nAyat (2)\nPenggunaan kata \"wajib\" dalam ayat ini dimaksudkan untuk memberikan\npenekanan bahwa pembuatan catatan tidak boleh melebihi waktu 6 (enam)\nbulan terhitung sejak akhir tahun buku perusahaan yang bersangkutan.\nKelalaian melakukan kewaji ban tersebut menjadi tanggung jawab\nperusahaan yang bersangkutan.\nPasal 10\nAyat (1)\nPenggunaan kata \"wajib\" dalam ayat ini dimaksudkan untuk memberikan\npenekanan bahwa apabila catatan yang berbentuk neraca tahunan,\nperhitungan laba rugi tahunan, atau tu lisan lain yang menggambarkan\nPRESIDEN\nREPUBLIK INDONESIA\nneraca laba rugi, tidak dibuat di atas kertas, perusahaan dianggap belum\nmembuat catatan.\nAyat (2)…\nAyat (2)\nYang dimaksud dengan \"sarana lainnya\" adalah alat bantu untuk memproses\npembuatan dokumen perusahaan yang sejak s emula tidak dibuat di atas\nkertas, misalnya menggunakan pita magnetik atau disket.\nPasal 11\nAyat (1)\nPenggunaan kata \"wajib\" dalam ayat ini dimaksudkan untuk memberikan\npenekanan mengenai hal yang harus dilakukan perusahaan, yakni\nmenyimpan dokumen seba gaimana dimaksud dalam ayat ini selama 10\n(sepuluh) tahun. Dengan demikian apabila sebelum jangka waktu 10\n(sepuluh) tahun dokumen yang bersangkutan dimusnahkan, maka risiko\nkarena pemusnahan tersebut menjadi tanggung jawab perusahaan yang\nbersangkutan.\nAyat (2)\nCukup jelas\nAyat (3)\nYang dimaksud dengan \"nilai guna dokumen\" adalah nilai dokumen\nperusahaan yang didasarkan pada kegunaan dokumen dalam menunjang\npelaksanaan kegiatan usaha perusahaan.\nBerdasarkan nilai guna dokumen yang bersangkutan, maka jangka waktu\npenyimpanannya dapat ditetapkan kurang dari 10 (sepuluh) tahun atau lebih\ndari 10 (sepuluh) tahun.\nAyat (4)\nCukup jelas\nAyat (5)\nSekalipun suatu dokumen telah melewati masa wajib sim pan, tetapi\ndokumen tersebut tetap dapat dipergunakan sebagai alat bukti sesuai dengan\nketentuan mengenai daluwarsa suatu tuntutan.\nPasal 12\nAyat (1)\nYang dimaksud dengan:\n- \"mikrofilm\" adalah film yang memuat rekaman bahan tertulis, tercetak\ndan tergambar dalam ukuran yang sangat kecil.\n- \"media lainnya\" adalah alat penyimpanan informasi yang bukan kertas\ndan mempunyai tingkat pengamanan yang dapat menjamin keaslian\ndokumen yang dialihkan atau ditransformasikan, misalnya Compact\nDisk-Read Only Memory (CD-ROM), dan write -Once-Read-Many\n(WORM).\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (2)\nCukup jelas\nAyat (3)…\nAyat (3)\nSuatu dokumen perusahaan mempunyai makna \"kepentingan nasional\"\napabila dokumen perusahaan tersebut memiliki nilai historis yang\ndigunakan dalam rangka kegiatan pemerintahan dan pembangunan serta\nkehidupan kebangsaan, misalnya rekening atau bukti iuran untuk\npembangunan Monumen Nasional, Mesjid Istiqlal.\nSelanjutnya yang menentukan suatu dokumen mempunyai makna\nkepentingan nasional adalah pimpinan perusahaan.\nAyat (4)\nPenggunaan kata \"wajib\" dalam ayat ini dimaksudkan untuk memberikan\npenekanan bahwa pimpinan perusahaan tetap harus menyimpan naskah asli,\napabila dokumen tersebut masih mempunyai kekuatan pembuktian otentik\ndan atau menga ndung kepentingan hukum tertentu. Kelalaian dalam\nmelaksanakan kewajiban tersebut, pimpinan perusahaan bertanggungjawab\nsesuai dengan peraturan perundang-undangan yang berlaku.\nYang dimaksud dengan \"masih mengandung kepentingan hukum tertentu\"\nadalah a pabila naskah asli tersebut masih mengandung hak dan atau\nkewajiban yang masih dipenuhi oleh pihak yang berkepentingan.\nPasal 13\nPenggunaan kata \"wajib\" dalam Pasal ini dimaksudkan untuk memberikan\npenekanan bahwa setiap pengalihan dokumen perusahaan haru s dilegalisasi.\nApabila pengalihan dokumen perusahaan tidak dilegalisasi, maka dokumen\nperusahaan hasil pengalihan tersebut secara hukum tidak dapat dijadikan sebagai\nalat bukti yang sah.\nYang dimaksud dengan \"legalisasi\" adalah tindakan pengesahan isi do kumen\nperusahaan yang dialihkan atau ditransformasikan ke dalam mikrofilm atau media\nlain yang menerangkan atau menyatakan bahwa isi dokumen perusahaan yang\nterkandung di dalam mikrofilm atau media lain tersebut sesuai dengan naskah\naslinya.\nPasal 14\nAyat (1)\nBerita acara dibuat pada saat terjadi pengalihan dokumen ke dalam\nmikrofilm atau media lainnya.\nAyat (2)\nPada berita acara pengalihan dilampirkan daftar pertelaan atas dokumen\nperusahaan yang dialihkan ke dalam mikrofilm atau media lainnya.\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 15\nAyat (1)\nCukup jelas\nAyat (2)…\nAyat (2)\nYang dimaksud dengan \"dianggap perlu\", dalam hal tertentu\" dan \"untuk\nkeperluan tertentu\" misalnya untuk keperluan memenuhi permintaan polisi,\njaksa, atau hakim dalam pemeriksaan perkara.\nLegalisasi dilakukan dengan cara pembubuhan tanda tangan pada hasil\ncetak dokumen tersebut dan pernyataan bahwa hasil cetak sesuai dengan\naslinya.\nPasal 16\nCukup jelas\nPasal 17\nPenentuan tata cara pemindahan dokumen perusahaan diserahkan kepada pimpinan\nperusahaan, karena yang mengetahui kebutuhan perusahaan adalah pimpinan\nperusahaan yang bersangkutan. Dalam tata cara tersebut dapat pula ditentukan\nbahwa pemindahan dokumen disertai dengan daftar pertelaan dan pembuatan\nberita acara yang sekurang-kurangnya memuat:\na. keterangan tempat, hari, tanggal, bulan dan tahun dilakukannya pemindahan;\nb. Keterangan tentang pelaksanaan pemindahan; dan\nc. tanda tangan dan nama jelas pejabat yang memindahkan dan pejabat yang\nmenerima pemindahan.\nYang dimaksud dengan:\n- unit pengolahan\" adalah satuan kerja yang mempunyai tugas dan tanggung\njawab mengolah semua dokumen yang berkaitan dengan kegiatan operasional\nperusahaan.\n- unit kearsipan\" adalah satuan kerja yang mempuny ai tugas dan tanggung jawab\nmengelola dokumen perusahaan yang sudah diselesaikan oleh unit pengolahan\nuntuk disimpan dan dipelihara.\nPasal 18\nAyat (1)\nPenggunaan kata \"wajib\" dalam ayat ini dimaksudkan untuk memberikan\npenekanan adanya kewajiban untuk menyerahkan dokumen perusahaan\ntertentu yang mempunyai nilai guna bagi kepentingan nasional kepada\nArsip Nasional Republik Indonesia. Apabila ketentuan tersebut tidak\ndilaksanakan, maka terkena ketentuan Undang -undang Nomor 7 Tahun\nPRESIDEN\nREPUBLIK INDONESIA\n1971 tentang Ketentuan-ketentuan Pokok Kearsipan.\nAyat(2)\nCukup jelas\nAyat (3)…\nAyat (3)\nYang dimaksud dengan \"daftar pertelaan\" adalah daftar yang memuat\nketerangan antara lain mengenai jenis, jumlah, dan jangka waktu\npenyimpanan dokumen yang bersangkutan.\nPasal 19\nAyat (1)\nCukup jelas\nAyat (2)\nDalam penyusunan jadwal retensi dokumen yang akan dimusnahkan, perlu\ndipertimbangkan dokumen yang karena sifatnya tetap disimpan dan\ndipelihara.\nAyat (3)\nCukup jelas\nPasal 20\nPimpinan perusahaan dapat menetapkan suatu dokumen perusahaan yang dibuat di\natas kertas tetap disimpan walaupun telah dialihkan ke dalam mikrofilm atau\nmedia lainnya.\nPasal 21\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 22\nCukup jelas\nPasal 23\nCukup jelas\nPasal 24\nCukup jelas\nPasal 25\nCukup jelas\nPasal 26\nPRESIDEN\nREPUBLIK INDONESIA\nCukup jelas\nPasal 27\nCukup jelas\nPasal 28…\nPasal 28\nAngka 1\nCukup jelas\nAngka 2\nCukup jelas\nAngka 3\nLembaga dalam hal ini meliputi baik Lembaga/Instansi Pemerintah\n(misalnya Bank Indonesia dan Badan Urusan Log istik) maupun Lembaga\nSwasta (misalnya Yayasan).\nApabila suatu Lembaga/Instansi Pemerintah selain tugas pokoknya dalam\nmenjalankan fungsi pemerintah melakukan pula kegiatan usaha tersebut\nberlaku ketentuan Undang -undang ini, sedangkan untuk kegiatan dalam\nrangka menjalankan fungsi pemerintahan, tetap berlaku ketentuan peraturan\nperundang-undangan di bidang administrasi pemerintahan.\nPasal 29\nYang dimaksud dengan \"ketentuan peraturan perundang -undangan yang berkaitan\ndengan pelaksanaan Pasal 6 Kitab Undang -undang Hukum Dagang (Wetboek van\nKoophandel voor Indonesie, Staatsblad 1847:23)\", misalnya Pasal 396 butir 3,"
+   }
+  },
+  {
+   "id": "ID-H865-A397",
+   "no": 397,
+   "noLabel": {
+    "id": "Pasal 397 butir 4, Pasal 398 butir 3, da"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {
+    "id": "butir 4, Pasal 398 butir 3, dan Pasal 399 butir 4 Kitab Undang -undang"
+   },
+   "text": {
+    "id": "Pasal 397 butir 4, Pasal 398 butir 3, dan Pasal 399 butir 4 Kitab Undang -undang\nHukum Dagang.\nPasal 30\nAngka 1\nCukup jelas\nAngka 2\nCukup jelas\nPasal 31\nCukup jelas\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 3674"
+   }
+  }
+ ]
+}

@@ -1,0 +1,870 @@
+{
+ "id": "MY-H2014",
+ "title": {
+  "zh": "2013年武装部队（正规部队服役条款）条例",
+  "en": "ARMED FORCES (TERMS OF SERVICE OF REGULAR FORCES) REGULATIONS 2013",
+  "orig": "ARMED FORCES (TERMS OF SERVICE OF REGULAR FORCES) REGULATIONS 2013",
+  "ms": "Peraturan Angkatan Tentera (Terma Perkhidmatan Angkatan Tetap) 2013",
+  "vi": "Quy định về Lực lượng vũ trang (Điều kiện phục vụ của lực lượng chính quy) năm 2013",
+  "th": "ข้อบังคับกองทัพ (ข้อกำหนดการรับราชการของกำลังรบประจำการ) ค.ศ. 2013",
+  "id": "Peraturan Angkatan Bersenjata (Ketentuan Dinas Angkatan Reguler) Tahun 2013"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-4",
+ "language": "ms",
+ "level": "regulation",
+ "category": "05_其他及未分类",
+ "status": "active",
+ "promulgatedDate": "2013",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "PUA183",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 69,
+ "chars": 113899,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-view.php?type=pua&no=P.U. (A) 183/2013&status=PRINCIPAL"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\05_其他及未分类\\2013_P.U.(A)183-2013_ARMED FORCES (TERMS OF SERVICE OF REGULAR FORCES) REGULATIONS 2013.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 69 条；逐字未改写（源自厂商 OCR 文本）；已清除正文中的 13 个控制字符（C0/C1 区，法律文本中无合法用途，系 PDF 抽取/表单域残留）。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H2014-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "1. Nama"
+   }
+  },
+  {
+   "id": "MY-H2014-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "2. Pemakaian"
+   }
+  },
+  {
+   "id": "MY-H2014-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "3. Tafsiran"
+   }
+  },
+  {
+   "id": "MY-H2014-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "4. Pangkat setaraf\n\nBAHAGIAN II\n\nPEGAWAI DAN ASKAR-LASYKAR"
+   }
+  },
+  {
+   "id": "MY-H2014-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "5. Kelayakan masuk ke dalam perkhidmatan"
+   }
+  },
+  {
+   "id": "MY-H2014-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "6. Kelayakan masuk pelbagai bagi kemasukan ke dalam perkhidmatan"
+   }
+  },
+  {
+   "id": "MY-H2014-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "7. Ujian pemilihan kemasukan"
+   }
+  },
+  {
+   "id": "MY-H2014-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "8. Piawaian perubatan minimum bagi kemasukan"
+   }
+  },
+  {
+   "id": "MY-H2014-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "9. Pemeriksaan perubatan"
+   }
+  },
+  {
+   "id": "MY-H2014-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "10. Keperluan pemeriksaan perubatan tambahan bagi anggota penerbangan,\n\nanggota kapal selam dan pelaut"
+   }
+  },
+  {
+   "id": "MY-H2014-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "11. Piawaian perubatan semasa dalam perkhidmatan"
+   }
+  },
+  {
+   "id": "MY-H2014-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "12. Tapisan keselamatan"
+   }
+  },
+  {
+   "id": "MY-H2014-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "13. Kemasukan ke dalam perkhidmatan"
+   }
+  },
+  {
+   "id": "MY-H2014-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "14. Pangkat, kekananan dan duluan"
+   }
+  },
+  {
+   "id": "MY-H2014-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "15. Pemberian pangkat lokal oleh Ketua Perkhidmatan"
+   }
+  },
+  {
+   "id": "MY-H2014-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "16. Pertukaran anggota"
+   }
+  },
+  {
+   "id": "MY-H2014-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "17. Penempatan bertugas\n\nPeraturan"
+   }
+  },
+  {
+   "id": "MY-H2014-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "18. Gaji, elaun, pencen dan faedah lain, dsb."
+   }
+  },
+  {
+   "id": "MY-H2014-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "19. Cuti"
+   }
+  },
+  {
+   "id": "MY-H2014-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "20. Pertugasan atau pinjaman anggota"
+   }
+  },
+  {
+   "id": "MY-H2014-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "21. Tempoh perkhidmatan anggota semasa pertugasan atau pinjaman di luar\n\nperkhidmatan"
+   }
+  },
+  {
+   "id": "MY-H2014-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "22. Pakaian seragam"
+   }
+  },
+  {
+   "id": "MY-H2014-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "23. Lencana"
+   }
+  },
+  {
+   "id": "MY-H2014-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "24. Anggota boleh dikehendaki mengikuti kursus"
+   }
+  },
+  {
+   "id": "MY-H2014-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "25. Keluarga boleh mengiringi anggota yang berkursus panjang di luar Malaysia"
+   }
+  },
+  {
+   "id": "MY-H2014-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "26. Pertukaran kepada simpanan"
+   }
+  },
+  {
+   "id": "MY-H2014-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 27"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "27. Pengiraan tempoh perkhidmatan"
+   }
+  },
+  {
+   "id": "MY-H2014-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 28"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "28. Persaraan, pemberhentian atau pengekalan dalam perkhidmatan yang melebihi\n\ntarikh persaraan atau pemberhentian kerja disebabkan alasan kesihatan"
+   }
+  },
+  {
+   "id": "MY-H2014-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Section 29"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "29. Kursus peralihan"
+   }
+  },
+  {
+   "id": "MY-H2014-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Section 30"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "30. Bantuan guaman"
+   }
+  },
+  {
+   "id": "MY-H2014-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Section 31"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "31. Kenaikan pangkat dan kekananan anggota yang hilang semasa bertugas, dsb."
+   }
+  },
+  {
+   "id": "MY-H2014-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Section 32"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "32. Anggota yang tidak hadir bertugas kerana sakit"
+   }
+  },
+  {
+   "id": "MY-H2014-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Section 33"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "33. Anggota yang bercuti sakit dan tiada harapan untuk sembuh"
+   }
+  },
+  {
+   "id": "MY-H2014-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "Section 34"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "34. Anggota yang menjalani rawatan di hospital"
+   }
+  },
+  {
+   "id": "MY-H2014-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "Section 35"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "35. Rawatan pesakit di hospital"
+   }
+  },
+  {
+   "id": "MY-H2014-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "Section 36"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "36. Pemberhentian kerja atas alasan kesihatan\n\nBAHAGIAN III\n\nPEGAWAI"
+   }
+  },
+  {
+   "id": "MY-H2014-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "Section 37"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "37. Umur minimum bagi tauliah"
+   }
+  },
+  {
+   "id": "MY-H2014-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "Section 38"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "38. Pentauliahan pegawai"
+   }
+  },
+  {
+   "id": "MY-H2014-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "Section 39"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "39. Pelanjutan perkhidmatan pegawai tauliah jangka pendek"
+   }
+  },
+  {
+   "id": "MY-H2014-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "Section 40"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "40. Pertukaran tauliah"
+   }
+  },
+  {
+   "id": "MY-H2014-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "Section 41"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "41. Pembatalan tauliah"
+   }
+  },
+  {
+   "id": "MY-H2014-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "Section 42"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "42. Persaraan pegawai"
+   }
+  },
+  {
+   "id": "MY-H2014-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "Section 43"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "43. Penamatan perkhidmatan pegawai tauliah jangka pendek\n\nPeraturan"
+   }
+  },
+  {
+   "id": "MY-H2014-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "Section 44"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "44. Penanggungan kerja"
+   }
+  },
+  {
+   "id": "MY-H2014-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "Section 45"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "45. Jawatan pemangkuan"
+   }
+  },
+  {
+   "id": "MY-H2014-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "Section 46"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "46. Pangkat pemangku"
+   }
+  },
+  {
+   "id": "MY-H2014-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "Section 47"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "47. Kembalian kepada pangkat hakiki"
+   }
+  },
+  {
+   "id": "MY-H2014-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "Section 48"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "48. Kenaikan pangkat"
+   }
+  },
+  {
+   "id": "MY-H2014-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "Section 49"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "49. Kelayakan khidmat pesuruh\n\nBAHAGIAN IV\n\nASKAR-LASYKAR"
+   }
+  },
+  {
+   "id": "MY-H2014-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "Section 50"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "50. Pendaftaran anggota perantis"
+   }
+  },
+  {
+   "id": "MY-H2014-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "Section 51"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "51. Latihan asas"
+   }
+  },
+  {
+   "id": "MY-H2014-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "Section 52"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "52. Tempoh perkhidmatan"
+   }
+  },
+  {
+   "id": "MY-H2014-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "Section 53"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "53. Pelanjutan perkhidmatan"
+   }
+  },
+  {
+   "id": "MY-H2014-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "Section 54"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "54. Pengekalan dalam perkhidmatan"
+   }
+  },
+  {
+   "id": "MY-H2014-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "Section 55"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "55. Latihan sebagai pegawai kadet"
+   }
+  },
+  {
+   "id": "MY-H2014-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "Section 56"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "56. Kenaikan pangkat"
+   }
+  },
+  {
+   "id": "MY-H2014-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "Section 57"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "57. Penanggungan kerja"
+   }
+  },
+  {
+   "id": "MY-H2014-A58",
+   "no": 58,
+   "noLabel": {
+    "en": "Section 58"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "58. Pangkat pemangku"
+   }
+  },
+  {
+   "id": "MY-H2014-A59",
+   "no": 59,
+   "noLabel": {
+    "en": "Section 59"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "59. Kembalian kepada pangkat hakiki"
+   }
+  },
+  {
+   "id": "MY-H2014-A60",
+   "no": 60,
+   "noLabel": {
+    "en": "Section 60"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "60. Penurunan pangkat"
+   }
+  },
+  {
+   "id": "MY-H2014-A61",
+   "no": 61,
+   "noLabel": {
+    "en": "Section 61"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "61. Pemberhentian kerja\n\nBAHAGIAN V\n\nPEGAWAI KADET"
+   }
+  },
+  {
+   "id": "MY-H2014-A62",
+   "no": 62,
+   "noLabel": {
+    "en": "Section 62"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "62. Pelantikan"
+   }
+  },
+  {
+   "id": "MY-H2014-A63",
+   "no": 63,
+   "noLabel": {
+    "en": "Section 63"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "63. Pembatalan pelantikan"
+   }
+  },
+  {
+   "id": "MY-H2014-A64",
+   "no": 64,
+   "noLabel": {
+    "en": "Section 64"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "64. Pemberhentian kerja"
+   }
+  },
+  {
+   "id": "MY-H2014-A65",
+   "no": 65,
+   "noLabel": {
+    "en": "Section 65"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "65. Kegagalan dalam pengajian di institusi pengajian tinggi"
+   }
+  },
+  {
+   "id": "MY-H2014-A66",
+   "no": 66,
+   "noLabel": {
+    "en": "Section 66"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "66. Pemakaian peruntukan tertentu dalam Bahagian II\n\nBAHAGIAN VI\n\nPELBAGAI\n\nPeraturan"
+   }
+  },
+  {
+   "id": "MY-H2014-A67",
+   "no": 67,
+   "noLabel": {
+    "en": "Section 67"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "67. Perintah Majlis Angkatan Tentera"
+   }
+  },
+  {
+   "id": "MY-H2014-A68",
+   "no": 68,
+   "noLabel": {
+    "en": "Section 68"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "68. Pemakaian dan rujukan kepada Queen's Regulations for the Royal Navy\n\n(QRRN)"
+   }
+  },
+  {
+   "id": "MY-H2014-A69",
+   "no": 69,
+   "noLabel": {
+    "en": "Section 69"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "69. Pembatalan dan peralihan\n\nJADUAL PERTAMA\n\nJADUAL KEDUA\n\nJADUAL KETIGA\n\nJADUAL KEEMPAT\n\nAKTA ANGKATAN TENTERA 1972\n\nPERATURAN-PERATURAN ANGKATAN TENTERA\n\n(TERMA-TERMA PERKHIDMATAN BAGI ANGKATAN TETAP) 2013\n\nPADA menjalankan kuasa yang diberikan oleh seksyen 15 dan 36 Akta Angkatan\n\nTentera 1972 [Akta 77], Majlis Angkatan Tentera, dengan kelulusan Yang di-Pertuan\n\nAgong membuat peraturan-peraturan yang berikut:\n\nBAHAGIAN I\n\nAM\n\nNama\n\n1. Peraturan-peraturan ini bolehlah dinamakan Peraturan-Peraturan Angkatan\n\nTentera (Terma-Terma Perkhidmatan Bagi Angkatan Tetap) 2013.\n\nPemakaian\n\n2. Peraturan-Peraturan ini hendaklah terpakai bagi semua pegawai dan askarlasykar angkatan tetap.\n\nTafsiran\n\n3. Dalam Peraturan-Peraturan ini, melainkan jika konteksnya menghendaki makna\n\nyang lain—\n\n\"Akta\" ertinya Akta Angkatan Tentera 1972 [Akta 77];\n\n\"anak\" ertinya anak seseorang anggota—\n\n(a) yang di bawah umur dua puluh satu tahun dan termasuklah—\n\n(i) anak yang lahir selepas kematian anggota itu, anak tiri\n\ntanggungan atau anak tak sah taraf yang dikandung\n\nsebelum kematian anggota itu; dan\n\n(ii) anak yang diambil sebagai anak angkat sebelum kematian\n\nanggota itu, di bawah mana-mana undang-undang bertulis,\n\nadat atau kelaziman; atau\n\n(b) tidak kira apa jua umurnya, yang cacat otak, atau hilang upaya dari\n\nsegi jasmani dan secara kekal dan tidak berupaya untuk\n\nmenanggung dirinya sendiri;\n\n\"anggota\" ertinya seseorang pegawai atau seseorang askar-lasykar angkatan\n\ntetap;\n\n\"anggota kapal selam\" ertinya anggota yang lulus kursus kelayakan kapal selam\n\ndan tidak digantung atau dilucut kelayakannya, berkhidmat dalam kapal selam atau\n\nmelaksanakan kerja-kerja yang berhubungan dengan tugas kapal selam;\n\n\"anggota penerbangan\" termasuklah juruterbang, navigator, jurutera\n\npenerbangan, jurusensor senjata, pegawai taktikal udara, kuartermaster udara,\n\npramugara dan pramugari yang melaksanakan tugas penerbangan dalam sesuatu unit\n\nAngkatan Tentera Malaysia;\n\n\"cawangan pelaut\" ertinya suatu cawangan dalam Tentera Laut Diraja Malaysia;\n\n\"cuti sakit\" ertinya—\n\n(a) suatu tempoh cuti yang tidak melebihi empat belas hari yang\n\ndiberikan kepada seseorang anggota atas sokongan seseorang\n\npegawai perubatan; atau\n\n(b) suatu tempoh cuti melebihi empat belas hari yang diberikan\n\nkepada seseorang anggota atas sokongan Lembaga Perubatan;\n\n\"hospital\" ertinya mana-mana hospital Kerajaan, Hospital Angkatan Tentera dan\n\ntermasuk mana-mana hospital universiti, klinik Kerajaan dan mana-mana institusi\n\nperubatan Kerajaan;\n\n\"keluarga\" ertinya suami atau isteri dan anak seseorang anggota;\n\n\"Lembaga Pemilihan\" ertinya suatu lembaga yang ditubuhkan oleh Majlis\n\nAngkatan Tentera yang bertanggungjawab bagi pemilihan anggota angkatan tetap bagi\n\nsesuatu maksud tertentu mengikut Perintah Majlis Angkatan Tentera;\n\n\"Lembaga Perubatan\" ertinya suatu lembaga yang terdiri daripada tidak kurang\n\ndaripada dua orang pegawai perubatan dalam bidang yang berkaitan yang ditubuhkan\n\noleh pihak berkuasa yang layak;\n\n\"memasuki perkhidmatan\" berhubung dengan—\n\n(a) pegawai, ertinya seseorang yang layak ditauliahkan di bawah\n\nseksyen 6 Akta; dan\n\n(b) askar-lasykar, ertinya seseorang yang layak didaftarkan di bawah\n\nseksyen 18 Akta;\n\n\"pangkat hakiki\" ertinya pangkat yang diberi kepada seseorang pegawai atau\n\naskar- lasykar selain pangkat pemangku atau pangkat lokal;\n\n\"pangkat lokal\" ertinya pangkat yang diberi kepada seseorang pegawai atau\n\naskar-lasykar bagi maksud menjalankan tugas dalam jawatan yang menghendaki\n\npangkat yang lebih tinggi daripada pangkat hakikinya;\n\n\"pegawai perubatan\" ertinya seseorang pengamal perubatan atau pergigian\n\nberdaftar dalam perkhidmatan awam atau dalam Perkhidmatan Angkatan Tentera\n\nMalaysia;\n\n\"Pegawai Senarai Tugas Am\" ertinya mana-mana pegawai selain Pegawai Senarai\n\nTugas Ikhtisas atau Pegawai Senarai Tugas Khas;\n\n\"Pegawai Senarai Tugas Ikhtisas\" ertinya mana-mana pegawai yang memegang\n\nkelulusan profesional dan ditauliahkan dalam Senarai Tugas Ikhtisas;\n\n\"Pegawai Senarai Tugas Khas\" ertinya askar-lasykar yang berada dalam bidang\n\nkemahiran tertentu yang ditauliahkan dalam Senarai Tugas Khas;\n\n\"pelaut\" ertinya seseorang yang didaftarkan dalam cawangan pelaut;\n\n\"penjaga\", berhubung dengan anak, ertinya mana-mana orang atau pertubuhan\n\natau sekumpulan orang, selain ibu bapa kandung yang mempunyai hak penjagaan anak\n\ntersebut mengikut undang-undang;\n\n\"rekrut\" ertinya seseorang yang didaftarkan mengikut peruntukan PeraturanPeraturan ini, yang masih belum tamat latihan asas selama tempoh enam bulan atau\n\napa-apa tempoh lain yang ditentukan oleh pihak berkuasa yang layak;\n\n\"organisasi\" termasuklah suatu badan atau perbadanan dan mana-mana\n\nsubsidiari badan atau perbadanan itu.\n\nPangkat setaraf\n\n4. Apa-apa sebutan yang dibuat kepada sesuatu pangkat dalam Tentera Darat\n\nMalaysia hendaklah ditafsirkan sebagai sebutan kepada pangkat yang setaraf\n\ndengannya dalam Tentera Laut Diraja Malaysia dan Tentera Udara Diraja Malaysia,\n\nmengikut mana-mana yang berkenaan, sebagaimana yang dinyatakan dalam Jadual\n\nPertama.\n\nBAHAGIAN II\n\nPEGAWAI DAN ASKAR-LASYKAR\n\nKelayakan masuk ke dalam perkhidmatan\n\n5. (1) Mana-mana orang yang merupakan warganegara Malaysia boleh\n\nmemasuki perkhidmatan angkatan tetap:\n\nDengan syarat bahawa hanya orang Melayu hendaklah dibenarkan memasuki\n\nperkhidmatan Rejimen Askar Melayu Diraja.\n\n(2) Tiada sesiapa pun yang telah dibuang kerja dengan keji, dibuang kerja\n\natau diberhentikan kerja atas alasan disiplin, boleh ditauliahkan, dilantik, didaftarkan\n\natau didaftarkan semula.\n\nKelayakan masuk pelbagai bagi kemasukan ke dalam perkhidmatan\n\n6. (1) Kelayakan masuk pelbagai bagi kemasukan ke dalam perkhidmatan\n\nangkatan tetap hendaklah mengikut Perintah Majlis Angkatan Tentera.\n\n(2) Walau apa pun yang terkandung dalam subperaturan (1), pihak berkuasa\n\nyang layak boleh mengetepikan mana-mana atau semua kelayakan masuk pelbagai bagi\n\nkemasukan ke dalam perkhidmatan jika wujud keadaan perang antara Yang di-Pertuan\n\nAgong dengan mana-mana kuasa asing atau dalam masa berkuat kuasanya Proklamasi\n\nDarurat yang dikeluarkan oleh Yang di-Pertuan Agong di bawah Perkara 150\n\nPerlembagaan Persekutuan.\n\nUjian pemilihan kemasukan\n\n7. (1) Tiap-tiap orang yang berhasrat untuk memasuki perkhidmatan angkatan\n\ntetap hendaklah menjalani suatu ujian pemilihan kemasukan sebagaimana yang\n\nditentukan oleh pihak berkuasa yang layak.\n\n(2) Tiada seorang pun boleh memasuki perkhidmatan angkatan tetap\n\nmelainkan jika orang itu telah lulus ujian pemilihan kemasukan sebagaimana yang\n\ndinyatakan di bawah subperaturan (1).\n\n(3) Peraturan ini tidak terpakai bagi orang atau golongan orang yang\n\ndikecualikan oleh pihak berkuasa yang layak.\n\nPiawaian perubatan minimum bagi kemasukan\n\n8. Piawaian perubatan minimum yang dikehendaki bagi kemasukan ke dalam\n\nperkhidmatan angkatan tetap hendaklah mengikut Perintah Majlis Angkatan Tentera.\n\nPemeriksaan perubatan\n\n9. (1) Tiap-tiap orang yang berhasrat untuk memasuki perkhidmatan angkatan\n\ntetap hendaklah menjalani suatu pemeriksaan perubatan oleh pegawai perubatan untuk\n\nmenentukan sama ada atau tidak kesihatan fizikal dan keadaan kesihatannya menepati\n\npiawaian perubatan minimum sebagaimana yang dinyatakan dalam peraturan 8.\n\n(2) Tiada seorang pun boleh memasuki perkhidmatan angkatan tetap\n\nmelainkan jika dia telah mematuhi piawaian perubatan minimum sebagaimana yang\n\ndinyatakan dalam peraturan 8.\n\n(3) Walau apa pun yang terkandung dalam subperaturan (2), Ketua\n\nPerkhidmatan boleh mengetepikan mana-mana atau semua piawaian perubatan\n\nminimum jika wujud keadaan perang antara Yang di-Pertuan Agong dengan mana-mana\n\nkuasa asing atau dalam masa berkuat kuasanya Proklamasi Darurat yang dikeluarkan\n\noleh Yang di-Pertuan Agong di bawah Perkara 150 Perlembagaan Persekutuan.\n\nKeperluan pemeriksaan perubatan tambahan bagi anggota penerbangan, anggota\n\nkapal selam dan pelaut\n\n10. (1) Tiada seorang pun boleh menjadi seorang anggota penerbangan, anggota\n\nkapal selam atau pelaut melainkan jika dia telah mematuhi keperluan pemeriksaan\n\nperubatan tambahan yang hendaklah mengikut Perintah Majlis Angkatan Tentera.\n\n(2) Kegagalan untuk mematuhi subperaturan (1) tidak boleh secara\n\nsendirinya menghalang orang itu daripada memberikan perkhidmatannya dalam tugas\n\nlain selain sebagai seorang anggota penerbangan, anggota kapal selam atau pelaut.\n\nPiawaian perubatan semasa dalam perkhidmatan\n\n11. (1) Tiap-tiap anggota yang sedang berkhidmat hendaklah mematuhi\n\npiawaian perubatan yang hendaklah mengikut Perintah Majlis Angkatan Tentera\n\nmelainkan jika dikecualikan secara khusus oleh Ketua Perkhidmatan.\n\n(2) Suatu Lembaga Perubatan hendaklah ditubuhkan bagi maksud\n\nmenentukan keadaan kesihatan, tahap keuzuran, kesesuaian dan keupayaan seseorang\n\nanggota untuk menjalankan tugas rasminya, jika seseorang anggota itu tidak mematuhi\n\npiawaian perubatan sebagaimana yang dinyatakan dalam subperaturan (1).\n\n(3) Lembaga Perubatan hendaklah, jika perlu, mengemukakan syor kepada\n\nKetua Perkhidmatan, dalam hal—\n\n(a) pegawai, untuk dibersarakan atau ditamatkan perkhidmatannya;\n\natau\n\n(b) askar-lasykar, untuk diberhentikan daripada perkhidmatan\n\nangkatan tetap,\n\nmasing-masing menurut peraturan 42, 43 dan 61.\n\nTapisan keselamatan\n\n12. Tiap-tiap anggota hendaklah, sebaik sahaja memasuki perkhidmatan, menjalani\n\ntapisan keselamatan, dan jika didapati tidak sesuai, dalam hal—\n\n(a) pegawai, dibersarakan atau ditamatkan perkhidmatannya; atau\n\n(b) askar-lasykar, diberhentikan daripada perkhidmatan angkatan tetap,\n\nmengikut mana-mana yang berkenaan, berkuat kuasa dengan serta-merta.\n\nKemasukan ke dalam perkhidmatan\n\n13. (1) Kemasukan seseorang anggota ke dalam perkhidmatan angkatan tetap\n\nhendaklah bermula, dalam hal—\n\n(a) pegawai, pada tarikh dia ditauliahkan sebagai seorang pegawai\n\natau tarikh dia dilantik sebagai pegawai kadet; dan\n\n(b) askar-lasykar, pada tarikh dia didaftarkan.\n\n(2) Seseorang anggota sebaik sahaja memasuki perkhidmatan—\n\n(a) Tentera Darat Malaysia, dalam hal—\n\n(i) pegawai, hendaklah ditauliahkan; atau\n\n(ii) askar-lasykar, hendaklah didaftarkan ke dalam suatu kor\n\natau rejimen Tentera Darat Malaysia; atau\n\n(b) Tentera Laut Diraja Malaysia atau Tentera Udara Diraja Malaysia,\n\ndalam hal—\n\n(i) pegawai, hendaklah ditauliahkan; atau\n\n(ii) askar-lasykar, hendaklah didaftarkan ke dalam suatu\n\ncawangan Tentera Laut Diraja Malaysia atau Tentera Udara\n\nDiraja Malaysia, mengikut mana-mana yang berkenaan.\n\n(3) Seseorang hendaklah memasuki perkhidmatan angkatan tetap sebagai\n\nseorang anggota melalui pendaftaran, dan pengakusaksian mengikut seksyen 18 Akta\n\nsebagaimana yang dinyatakan dalam Jadual Kedua.\n\nPangkat, kekananan dan duluan\n\n14. (1) Pangkat yang boleh diberikan kepada seseorang pegawai atau askarlasykar dalam angkatan tetap hendaklah sebagaimana yang dinyatakan dalam Jadual\n\nPertama.\n\n(2) Kekananan seseorang pegawai atau askar-lasykar dalam pangkat yang\n\nsama hendaklah dikira mulai tarikh pelantikannya ke suatu pangkat hakiki, atau jika dia\n\ntelah diberikan suatu tarikh kekananan yang lebih awal, kekananannya hendaklah\n\ndikira mulai tarikh yang lebih awal itu.\n\n(3) Seseorang pegawai atau askar-lasykar hendaklah diberi duluan mengikut\n\npangkat hakikinya dan kekananannya dalam pangkat itu.\n\nPemberian pangkat lokal oleh Ketua Perkhidmatan\n\n15. (1) Walau apa pun peruntukan dalam Peraturan-Peraturan ini, Ketua\n\nPerkhidmatan boleh memberi suatu pangkat lokal kepada mana-mana pegawai atau\n\naskar-lasykar—\n\n(a) bagi suatu tempoh tertentu; atau\n\n(b) untuk memenuhi keperluan yang timbul—\n\n(i) apabila pangkat yang lebih tinggi wajar diberikan bagi\n\nmaksud taraf atau kekananan; atau\n\n(ii) bagi membolehkan pelaksanaan tugas dalam sesuatu\n\njawatan yang menghendaki suatu pangkat yang lebih tinggi\n\ndaripada pangkat hakikinya,\n\ndan di akhir tempoh tugasan itu, pegawai atau askar-lasykar itu hendaklah kembali ke\n\npangkat hakiki yang disandangnya sebaik sebelum pemberian pangkat lokal itu.\n\n(2) Pemberian pangkat lokal dalam subperaturan (1) kepada mana-mana\n\npegawai atau askar-lasykar tidak boleh menjejaskan kekananan pegawai atau\n\naskar-lasykar itu, dan tidak boleh disifatkan sebagai suatu kenaikan pangkat.\n\nPertukaran anggota\n\n16. Seseorang anggota boleh ditukarkan daripada satu Perkhidmatan ke satu\n\nPerkhidmatan yang lain atau ke dalam Perkhidmatan yang sama, mengikut seksyen 13\n\ndan 22 Akta.\n\nPenempatan bertugas\n\n17. Penempatan bertugas bagi setiap anggota di sepanjang tempoh perkhidmatan\n\nhendaklah ditentukan, dalam hal—\n\n(a) pegawai, oleh pihak berkuasa yang layak; dan\n\n(b) askar-lasykar, oleh Ketua Perkhidmatan.\n\nGaji, elaun, pencen dan faedah lain, dsb.\n\n18. (1) Gaji, elaun dan apa-apa emolumen lain sebagaimana yang ditentukan dari\n\nsemasa ke semasa oleh pihak berkuasa yang layak boleh dibayar kepada seseorang\n\nanggota mengikut peraturan-peraturan yang dibuat di bawah seksyen 157 Akta.\n\n(2) Pencen, ganjaran dan faedah-faedah lain sebagaimana yang ditentukan\n\noleh pihak berkuasa yang layak boleh dibayar kepada anggota mengikut\n\nperaturan-peraturan yang dibuat di bawah seksyen 187 Akta.\n\nCuti\n\n19. Tiap-tiap anggota layak mendapat cuti mengikut Perintah Majlis Angkatan\n\nTentera.\n\nPertugasan atau pinjaman anggota\n\n20. (1) Pihak berkuasa yang layak boleh menugaskan secara sementara\n\nmana-mana anggota yang ditempatkan dalam suatu kor atau rejimen atau cawangan\n\natau Perkhidmatan tertentu, ke suatu kor atau rejimen atau cawangan atau\n\nPerkhidmatan yang lain, atau ke suatu unit yang lain dalam Perkhidmatan yang sama.\n\n(2) Majlis Angkatan Tentera boleh meminjamkan mana-mana anggota\n\nmengikut Perintah Majlis Angkatan Tentera.\n\nTempoh perkhidmatan anggota semasa pertugasan atau pinjaman di luar\n\nperkhidmatan\n\n21. (1) Mana-mana tempoh perkhidmatan seseorang anggota, yang ditugaskan\n\natau dipinjamkan berkhidmat di luar Perkhidmatan sama ada di dalam atau di luar\n\nMalaysia menurut seksyen 5A, 5B dan 5C Akta, hendaklah disifatkan sebagai suatu\n\ntempoh perkhidmatan di dalam Malaysia yang boleh diambil kira bagi maksud kenaikan\n\npangkat dan kekananan anggota itu.\n\n(2) Seseorang anggota yang ditugaskan atau dipinjamkan berkhidmat di luar\n\nPerkhidmatan sebagaimana yang dinyatakan dalam subperaturan (1) hendaklah layak\n\ndibayar gaji, elaun atau apa-apa emolumen lain sebagaimana yang ditentukan dari\n\nsemasa ke semasa oleh pihak berkuasa yang layak mengikut peraturan-peraturan yang\n\ndibuat di bawah seksyen 157 Akta.\n\n(3) Apa-apa tempoh perkhidmatan seseorang anggota yang ditugaskan atau\n\ndipinjamkan di luar Perkhidmatan hendaklah diiktiraf sebagai perkhidmatan yang\n\nboleh diambil kira.\n\nPakaian seragam\n\n22. (1) Tiap-tiap anggota hendaklah memakai pakaian seragam mengikut\n\nPerintah Majlis Angkatan Tentera.\n\n(2) Seseorang anggota boleh memakai atas pakaian seragamnya mana-mana\n\nlencana yang diberikan kepadanya mengikut Perintah Majlis Angkatan Tentera.\n\nLencana\n\n23. (1) Pihak berkuasa yang layak boleh, jika ia fikirkan wajar, memberi apa-apa\n\nlencana kepada mana-mana anggota yang layak.\n\n(2) Majlis Angkatan Tentera boleh menentukan jenis, kriteria dan kelayakan\n\nbagi pemakaian lencana dan apa-apa perkara lain yang berhubungan dengannya dalam\n\nPerintah Majlis Angkatan Tentera.\n\nAnggota boleh dikehendaki mengikuti kursus\n\n24. (1) Seseorang anggota hendaklah, apabila dikehendaki oleh pihak berkuasa\n\nyang layak, mengikuti kursus sama ada di dalam atau di luar Malaysia.\n\n(2) Pihak berkuasa yang layak boleh mengenakan syarat ke atas seseorang\n\nanggota, yang telah dikehendaki mengikuti mana-mana kursus di bawah\n\nsubperaturan (1), untuk menandatangani suatu perjanjian dalam borang yang\n\nditetapkan dalam Perintah Majlis Angkatan Tentera sebelum bermulanya kursus itu\n\nbagi maksud menentukan tempoh perjanjian yang perlu dipenuhi oleh anggota itu\n\nsebaik tamatnya kursus itu, dan tempoh perjanjian itu hendaklah merangkumi tempoh\n\nperkhidmatan sepenuh masanya yang sebenar.\n\n(3) Walau apa pun peruntukan dalam Peraturan-Peraturan ini, tiada seorang\n\npun anggota, selain pegawai tauliah jangka pendek, boleh mengikuti apa-apa kursus,\n\ntertakluk kepada syarat yang dikenakan di bawah subperaturan (2), melainkan jika dia\n\nmempunyai tempoh perkhidmatan yang mencukupi yang masih berkuat kuasa bagi\n\nmembolehkannya memenuhi kewajipan yang berbangkit daripada perjanjian yang\n\ndisebut dalam subperaturan (2).\n\nKeluarga boleh mengiringi anggota yang berkursus panjang di luar Malaysia\n\n25. Seseorang anggota yang dikehendaki mengikuti kursus panjang di luar Malaysia\n\nboleh diiringi oleh keluarganya di sepanjang tempoh pengajiannya, dan anggota itu\n\nlayak membuat apa-apa tuntutan yang berbangkit daripada apa-apa perbelanjaan yang\n\nditanggung olehnya sebagaimana yang diluluskan oleh pihak berkuasa yang layak,\n\nmengikut peraturan-peraturan yang dibuat di bawah seksyen 157 Akta dan Perintah\n\nMajlis Angkatan Tentera.\n\nPertukaran kepada simpanan\n\n26. Seseorang anggota yang telah bersara atau tamat tempoh perkhidmatannya\n\ndalam angkatan tetap hendaklah dipindahkan ke Simpanan Angkatan Tetap seperti\n\nyang ditubuhkan di bawah seksyen 189 Akta.\n\nPengiraan tempoh perkhidmatan\n\n27. Kaedah mengira perkhidmatan bagi maksud—\n\n(a) pemberhentian kerja atau pertugasan semula atau pertukaran kepada\n\nsimpanan hendaklah mengikut seksyen 34 Akta; dan\n\n(b) faedah persaraan dan faedah-faedah lain hendaklah mengikut peraturanperaturan yang dibuat di bawah seksyen 187 Akta.\n\nPersaraan, pemberhentian atau pengekalan dalam perkhidmatan yang melebihi\n\ntarikh persaraan atau pemberhentian kerja disebabkan alasan kesihatan\n\n28. (1) Tertakluk kepada peraturan 35, seseorang anggota yang didapati rendah\n\ndaripada tahap piawaian perubatan yang ditetapkan untuk menjalankan tugas tidak\n\nboleh dikekalkan dalam perkhidmatan selepas tarikh tamat tempoh perkhidmatannya\n\ntetapi hendaklah dibersarakan atau diberhentikan daripada perkhidmatan angkatan\n\ntetap.\n\n(2) Seseorang anggota hendaklah dibersarakan atau diberhentikan kerja jika,\n\ndalam tempoh lima bulan sebelum penamatan perkhidmatan, anggota itu jatuh sakit\n\natau mengalami kecederaan yang menyebabkan dia tidak hadir bertugas sehingga ke\n\nhari sebelum dia sepatutnya memulakan cuti sebelum persaraan atau pemberhentian\n\nkerja tersebut.\n\n(3) Seseorang anggota hendaklah diberhentikan kerja jika dia masih\n\nmempunyai tempoh perkhidmatan yang berbaki dan telah diisytiharkan oleh Lembaga\n\nPerubatan sebagai tidak sesuai untuk perkhidmatan selanjutnya disebabkan\n\nketidakupayaan.\n\nKursus peralihan\n\n29. Tertakluk kepada kelulusan Majlis Angkatan Tentera, seseorang anggota\n\nhendaklah, di akhir tempoh perkhidmatannya, mengikuti suatu kursus peralihan,\n\nmengikut Perintah Majlis Angkatan Tentera.\n\nBantuan guaman\n\n30. Seseorang anggota yang dikenakan tindakan undang-undang, semasa\n\nmenjalankan atau berbangkit daripada pelaksanaan tugas rasminya, boleh diberi\n\nbantuan guaman oleh pihak berkuasa yang layak mengikut Perintah Majlis Angkatan\n\nTentera.\n\nKenaikan pangkat dan kekananan anggota yang hilang semasa bertugas, dsb.\n\n31. Jika seseorang anggota didapati hilang semasa bertugas, peperangan, operasi\n\natau latihan, atau ditahan sebagai tawanan perang, dan kehilangan atau penahanannya\n\nitu bukanlah disebabkan ketidakpatuhan atau keingkaran atau kecuaian—\n\n(a) kekananan anggota itu hendaklah tidak terjejas sepanjang tempoh\n\nkehilangan atau penahanannya itu;\n\n(b) anggota itu hendaklah layak diberikan kenaikan pangkat, dalam hal—\n\n(i) pegawai, oleh Majlis Angkatan Tentera dengan persetujuan Yang\n\ndi-Pertuan Agong; dan\n\n(ii) askar-lasykar, oleh Ketua Perkhidmatan,\n\njika kenaikan pangkat itu boleh memanfaatkan angkatan tentera.\n\nAnggota yang tidak hadir bertugas kerana sakit\n\n32. (1) Seseorang anggota yang tidak hadir bertugas kerana sakit atas\n\npemerakuan pegawai perubatan hendaklah dibayar gaji penuh, elaun dan apa-apa\n\nemolumen lain sebagaimana yang ditentukan oleh pihak berkuasa yang layak.\n\n(2) Seseorang anggota yang dibenarkan bercuti sakit bagi suatu tempoh yang\n\nmelebihi lapan belas bulan atas pemerakuan Lembaga Perubatan tidak layak menerima\n\napa-apa gaji, elaun atau apa-apa emolumen lain, melainkan jika Lembaga Perubatan\n\nmemperakukan bahawa anggota itu mempunyai harapan untuk sembuh dan berupaya\n\nuntuk melaporkan diri apabila tamatnya tempoh cuti sakit itu.\n\nAnggota yang bercuti sakit dan tiada harapan untuk sembuh\n\n33. (1) Tertakluk kepada peraturan 34, jika seseorang anggota yang sakit, cedera\n\natau berpenyakit dibenarkan bercuti sakit bagi suatu tempoh yang melebihi lapan belas\n\nbulan, dan Lembaga Perubatan memperakukan bahawa anggota itu tidak mempunyai\n\nharapan untuk sembuh dan tidak berupaya untuk melaporkan diri apabila tamatnya\n\ntempoh cuti sakit itu, Ketua Perkhidmatannya hendaklah mengambil tindakan segera,\n\ndalam hal—\n\n(a) pegawai, untuk membersarakan atau menamatkan\n\nperkhidmatannya; atau\n\n(b) askar-lasykar, untuk memberhentikannya daripada perkhidmatan\n\nangkatan tetap,\n\natas alasan kesihatan.\n\n(2) Seseorang anggota yang dibenarkan bercuti sakit bagi suatu tempoh\n\nyang melebihi lapan belas bulan dan diperakukan oleh Lembaga Perubatan tidak\n\nmempunyai harapan untuk sembuh menurut subperaturan (1), tidak boleh dikekalkan\n\ndalam perkhidmatan melebihi tarikh tamat tempoh perkhidmatan yang ditetapkan\n\nbaginya, dan Ketua Perkhidmatannya hendaklah mengambil tindakan segera, dalam\n\nhal—\n\n(a) pegawai, untuk membersarakan atau menamatkan\n\nperkhidmatannya; atau\n\n(b) askar-lasykar, untuk memberhentikannya daripada perkhidmatan\n\nangkatan tetap,\n\nmasing-masing, mengikut tatacara yang dinyatakan di bawah peraturan 42, 43 dan 61.\n\n(3) Walau apa pun peruntukan dalam Peraturan-Peraturan ini, seseorang\n\nanggota yang terlibat dalam sesuatu kemalangan semasa bertugas dan mengalami\n\nkecederaan, kehilangan atau kecacatan mana-mana bahagian tubuh badannya atau\n\nderianya, hendaklah dikekalkan dalam perkhidmatan angkatan tetap, dan jika perlu,\n\nperkhidmatannya bolehlah dilanjutkan, dalam hal—\n\n(a) pegawai, oleh Yang di-Pertuan Agong atas syor Majlis Angkatan\n\nTentera; dan\n\n(b) askar-lasykar, oleh pihak berkuasa yang layak.\n\n(4) Apa-apa pelanjutan tempoh perkhidmatan yang dibuat di bawah\n\nsubperaturan (3) hendaklah tidak melebihi, dalam hal—\n\n(a) pegawai, umur persaraan wajib sebagaimana yang dinyatakan\n\ndalam peraturan 42; dan\n\n(b) askar-lasykar, tempoh perkhidmatan berterusan sepenuh masa\n\nsebagaimana yang ditentukan oleh pihak berkuasa yang layak.\n\nAnggota yang menjalani rawatan di hospital\n\n34. (1) Seseorang anggota yang disahkan sakit dan sedang menjalani rawatan di\n\nmana-mana hospital pada tarikh genapnya tempoh perkhidmatan yang ditetapkan\n\nbaginya hendaklah—\n\n(a) dikekalkan dalam perkhidmatan selepas tarikh itu; dan\n\n(b) dibayar gaji, elaun serta faedah lain sehingga perakuan Lembaga\n\nPerubatan yang dibuat di bawah subperaturan (2) diperoleh.\n\n(2) Suatu Lembaga Perubatan hendaklah ditubuhkan untuk mengkaji kes\n\nmana-mana anggota yang telah dimasukkan ke hospital bagi menjalani rawatan dan\n\ntempoh rawatan di hospital itu telah melebihi tempoh enam bulan atau mana-mana\n\ntempoh yang lebih awal daripada itu, khusus bagi menentukan sama ada—\n\n(a) anggota itu boleh disahkan sihat dan dibenarkan untuk keluar dari\n\nhospital; atau\n\n(b) rawatan di hospital itu masih lagi diperlukan dan wajar diteruskan\n\nbagi maksud pemulihan kesihatan anggota itu; atau\n\n(c) apa-apa rawatan yang patut untuk pemulihan anggota itu yang\n\nboleh didapati di mana-mana hospital di dalam atau di luar\n\nMalaysia.\n\n(3) Jika Lembaga Perubatan yang ditubuhkan di bawah subperaturan (2),\n\nsetelah mengkaji semula tahap kemajuan rawatan yang diberikan kepada anggota itu,\n\nmembuat suatu pemerakuan bahawa anggota itu tidak mempunyai harapan untuk\n\nsembuh daripada sakitnya dan tidak berupaya untuk melaporkan diri setelah tamat\n\ntempoh rawatannya selama lapan belas bulan, Ketua Perkhidmatan anggota hendaklah\n\nmengambil tindakan segera, dalam hal—\n\n(a) pegawai, untuk membersarakan atau menamatkan\n\nperkhidmatannya; atau\n\n(b) askar-lasykar, untuk memberhentikannya daripada perkhidmatan\n\nangkatan tetap,\n\natas alasan kesihatan mengikut tatacara yang dinyatakan masing-masing di bawah\n\nperaturan 42, 43 dan 61.\n\nRawatan pesakit di hospital\n\n35. (1) Seseorang anggota yang menjalani rawatan di hospital hendaklah\n\nmeneruskan rawatan itu sehingga tarikh tamat tempoh perkhidmatannya.\n\n(2) Bagi maksud subperaturan (1), Lembaga Perubatan hendaklah\n\nditubuhkan untuk menentukan sama ada rawatan di hospital perlu dihentikan atau\n\ntidak, setelah tamat tempoh lima bulan anggota tidak hadir bertugas atau mana-mana\n\ntempoh yang lebih awal.\n\n(3) Jika anggota menjalani rawatan di hospital, dia tidak akan diberhentikan\n\ndaripada perkhidmatan angkatan tetap sehingga pendapat daripada Lembaga\n\nPerubatan di bawah subperaturan 34(2) itu diperoleh.\n\nPemberhentian kerja atas alasan kesihatan\n\n36. (1) Tindakan hendaklah diambil untuk membersarakan atau\n\nmemberhentikan seseorang anggota daripada perkhidmatan angkatan tetap jika—\n\n(a) Lembaga Perubatan mendapati seseorang anggota yang sedang\n\nsakit, cedera atau berpenyakit, tidak mempunyai harapan untuk\n\nsembuh dan tidak berupaya melaporkan diri dalam tempoh lapan\n\nbelas bulan; atau\n\n(b) bertentangan dengan pendapat awal Lembaga Perubatan yang\n\ndibuat di bawah subperaturan 34(2) dan 35(2), Lembaga\n\nPerubatan mendapati bahawa, seseorang anggota yang telah\n\ndikekalkan dalam perkhidmatan tidak mempunyai harapan untuk\n\nsembuh setelah tamat tempoh lapan belas bulan.\n\n(2) Walau apa pun peruntukan dalam subperaturan (1), pihak berkuasa yang\n\nlayak boleh meluluskan, dengan pemerakuan Lembaga Perubatan, pengekalan\n\nperkhidmatan seseorang anggota yang mengalami kecederaan sewaktu menjalankan\n\ntugasnya yang mengakibatkan kehilangan atau kecacatan anggota tubuh badan atau\n\norgan deria penting dengan syarat bahawa perkhidmatan seseorang anggota itu\n\nbermanfaat untuk diteruskan.\n\nBAHAGIAN III\n\nPEGAWAI\n\nUmur minimum bagi tauliah\n\n37. Mana-mana orang yang berhasrat untuk memasuki perkhidmatan angkatan\n\ntetap hendaklah mencapai umur lapan belas tahun pada tarikh kemasukan itu sebelum\n\ndia boleh dikurniakan suatu tauliah sebagai seorang pegawai.\n\nPentauliahan pegawai\n\n38. (1) Mana-mana pegawai yang telah dikurniakan suatu tauliah oleh Yang\n\ndi-Pertuan Agong, atas syor Majlis Angkatan Tentera, hendaklah memasuki\n\nperkhidmatan sebagai seorang pegawai dalam Tentera Darat Malaysia, Tentera Laut\n\nDiraja Malaysia atau Tentera Udara Diraja Malaysia mengikut mana-mana yang\n\nberkenaan.\n\n(2) Suatu tauliah yang dikurniakan kepada seseorang pegawai hendaklah\n\ndibuat dalam bentuk Watikah Pentauliahan mengikut Perintah Majlis Angkatan\n\nTentera.\n\n(3) Seseorang pegawai boleh dibenarkan untuk—\n\n(a) memegang tauliah tetap dan hendaklah berkhidmat bagi suatu\n\ntempoh perkhidmatan yang tidak ditentukan; atau\n\n(b) memegang tauliah jangka pendek dan hendaklah berkhidmat bagi\n\nsuatu tempoh perkhidmatan tertentu,\n\ndalam Senarai Tugas Am, Senarai Tugas Ikhtisas atau Senarai Tugas Khas, sebagaimana\n\nyang ditentukan oleh pihak berkuasa yang layak.\n\nPelanjutan perkhidmatan pegawai tauliah jangka pendek\n\n39. (1) Tempoh tauliah bagi pegawai tauliah jangka pendek hendaklah mengikut\n\nPerintah Majlis Angkatan Tentera.\n\n(2) Seseorang pegawai tauliah jangka pendek boleh memohon, sebelum\n\ngenap tempoh perkhidmatannya yang ditetapkan, untuk melanjutkan perkhidmatannya\n\ndalam angkatan tetap.\n\n(3) Tempoh perkhidmatan bagi seseorang pegawai tauliah jangka pendek\n\nyang membuat permohonan di bawah subperaturan (2) boleh dilanjutkan oleh Yang\n\ndi-Pertuan Agong atas syor Majlis Angkatan Tentera jika difikirkan munasabah dan\n\nmemanfaatkan angkatan tetap.\n\nPertukaran tauliah\n\n40. (1) Seseorang pegawai tauliah jangka pendek boleh, sebelum genap tempoh\n\nperkhidmatannya yang ditetapkan, memohon melalui Ketua Perkhidmatannya untuk\n\nmenukarkan tauliahnya menjadi suatu tauliah tetap.\n\n(2) Yang di-Pertuan Agong boleh, atas syor Majlis Angkatan Tentera,\n\nmengurniakan tauliah tetap kepada pegawai tauliah jangka pendek yang memohon di\n\nbawah subperaturan (1), berkuat kuasa pada tarikh semasa.\n\nPembatalan tauliah\n\n41. (1) Yang di-Pertuan Agong boleh, atas syor Majlis Angkatan Tentera,\n\nmembatalkan tauliah mana-mana pegawai tanpa menyatakan apa-apa alasan.\n\n(2) Mana-mana pegawai yang pentauliahannya dibatalkan di bawah\n\nseksyen 9 Akta hendaklah dibersarakan daripada perkhidmatan angkatan tetap\n\nmengikut peraturan 42.\n\nPersaraan pegawai\n\n42. (1) Kecuali sebagaimana yang dikehendaki selainnya oleh Yang di-Pertuan\n\nAgong, seseorang pegawai hendaklah bersara daripada perkhidmatan apabila mencapai\n\numur persaraan paksa yang ditetapkan bagi pangkatnya sebagaimana yang dinyatakan\n\ndalam Jadual Ketiga.\n\n(2) Yang di-Pertuan Agong boleh menghendaki seseorang pegawai untuk\n\ndibersarakan daripada perkhidmatan angkatan tetap—\n\n(a) apabila atau selepas dia mencapai umur persaraan pilihan yang\n\nditetapkan bagi pangkatnya sebagaimana yang dinyatakan dalam\n\nJadual Keempat;\n\n(b) dalam keadaan khas, jika dia berpangkat Brigadier Jeneral atau ke\n\natas walaupun dia belum mencapai umur persaraan paksa\n\nsebagaimana yang dinyatakan dalam subperaturan (1) atau umur\n\npersaraan pilihan sebagaimana yang dinyatakan dalam\n\nperenggan (a);\n\n(c) atas alasan perubatan jika dia telah diperaku oleh suatu Lembaga\n\nPerubatan sebagai tidak sesuai dan tidak berupaya menjalankan\n\ntugasnya oleh sebab keuzuran minda atau tubuh badan yang\n\nberkemungkinan menjadi kekal, sama ada berkaitan dengan tugas\n\nsemasa perkhidmatan atau selainnya;\n\n(d) jika tidak ada jawatan yang sesuai atau tidak ada harapan untuk\n\nkenaikan pangkat atau pegawai itu diatasi kerana ketidaksesuaian\n\natau ketidakcekapan yang di luar kawalannya;\n\n(e) kerana ketidakcekapan atau sebab-sebab lain yang dalam\n\nkawalannya tetapi tidak terjumlah kepada salah laku;\n\n(f) demi kepentingan perkhidmatan, apabila dipertuduh atas suatu\n\nkesalahan yang tidak mengakibatkan dia disabitkan;\n\n(g) kerana salah laku;\n\n(h) pada bila-bila masa, jika pada pendapat Yang di-Pertuan Agong, hal\n\nkeadaan kes itu memerlukan sedemikian; atau\n\n(i) apabila dilantik, dengan kelulusan Majlis Angkatan Tentera, untuk\n\nberkhidmat dalam mana-mana organisasi yang dalamnya Kerajaan\n\natau mana-mana Kerajaan Negeri mempunyai kepentingan.\n\n(3) Yang di-Pertuan Agong boleh, atas permohonan seseorang pegawai\n\nbertauliah tetap, membenarkan pegawai itu bersara apabila atau selepas mencapai\n\numur persaraan pilihan yang ditetapkan.\n\n(4) Persaraan di bawah peraturan ini hendaklah diselaraskan bagi maksud\n\npenentuan pemberian pencen, ganjaran dan faedah lain sebagaimana yang\n\ndiperuntukkan dalam peraturan-peraturan yang dibuat di bawah seksyen 187 Akta.\n\nPenamatan perkhidmatan pegawai tauliah jangka pendek\n\n43. (1) Perkhidmatan seorang pegawai tauliah jangka pendek hendaklah\n\nditamatkan—\n\n(a) apabila genap tempoh perkhidmatannya yang ditetapkan; atau\n\n(b) jika tempoh tauliah jangka pendek dilanjutkan, setelah genap\n\ntempoh perkhidmatan yang dilanjutkan itu.\n\n(2) Yang di-Pertuan Agong boleh menamatkan perkhidmatan pegawai tauliah\n\njangka pendek—\n\n(a) jika dia tidak sesuai;\n\n(b) jika dia tidak cekap kerana sebab-sebab di luar kawalannya;\n\n(c) jika dia diperaku oleh Lembaga Perubatan sebagai tidak berupaya\n\nmenjalankan tugasnya oleh sebab keuzuran otak atau tubuh badan\n\nyang berkemungkinan menjadi kekal, sama ada berkaitan dengan\n\ntugas semasa perkhidmatan atau selainnya;\n\n(d) apabila dia mencapai umur persaraan paksa yang sesuai dengan\n\npangkatnya sebagaimana yang dinyatakan dalam\n\nsubperaturan 42(1);\n\n(e) kerana salah laku; atau\n\n(f) kerana ketidakcekapan atau sebab-sebab lain di dalam\n\nkawalannya sendiri tetapi tidak terjumlah kepada salah laku.\n\n(3) Penamatan perkhidmatan di bawah peraturan ini hendaklah diselaraskan\n\nbagi maksud pemberian penentuan pencen, ganjaran dan faedah-faedah lain\n\nsebagaimana diperuntukkan dalam peraturan-peraturan yang dibuat di bawah\n\nseksyen 187 Akta.\n\nPenanggungan kerja\n\n44. (1) Ketua Perkhidmatan boleh, jika dia fikirkan perlu, memberi kuasa kepada\n\nseseorang pegawai untuk menanggung kerja seseorang pegawai yang lain yang\n\nmenyandang suatu pangkat yang sama atau lebih tinggi daripada pangkat hakiki\n\npegawai itu sebagaimana yang ditentukan oleh pihak berkuasa yang layak mengikut\n\nperaturan-peraturan yang dibuat di bawah seksyen 157 Akta.\n\n(2) Tatacara dan apa-apa perkara lain yang berhubungan dengan\n\npenanggungan kerja hendaklah mengikut Perintah Majlis Angkatan Tentera.\n\nJawatan pemangkuan\n\n45. (1) Pihak berkuasa yang layak boleh, jika perlu, memberi kuasa kepada\n\nmana-mana pegawai untuk mengisi suatu jawatan yang membawa bersamanya suatu\n\npangkat yang lebih tinggi sebagaimana yang ditentukan oleh pihak berkuasa yang layak\n\nmengikut peraturan-peraturan yang dibuat di bawah seksyen 157 Akta.\n\n(2) Tempoh pemberian kuasa untuk mengisi jawatan yang membawa\n\nbersamanya suatu pangkat yang lebih tinggi boleh diambil kira bagi maksud kenaikan\n\npangkat.\n\n(3) Tatacara dan apa-apa perkara lain yang berkaitan dengan jawatan\n\npemangkuan hendaklah mengikut Perintah Majlis Angkatan Tentera.\n\nPangkat pemangku\n\n46. (1) Pihak berkuasa yang layak boleh, jika perlu, memberi kuasa kepada\n\nmana-mana pegawai untuk memangku suatu pelantikan yang membawa bersamanya\n\nsatu pangkat yang lebih tinggi daripada pangkat hakiki.\n\n(2) Tatacara dan apa-apa perkara lain yang berkaitan dengan pangkat\n\npemangku hendaklah mengikut Perintah Majlis Angkatan Tentera.\n\nKembalian kepada pangkat hakiki\n\n47. Seseorang pegawai yang menyandang pangkat pemangku boleh dikembalikan ke\n\npangkat hakiki sebagaimana yang diarahkan oleh pihak berkuasa yang layak atau Yang\n\ndi-Pertuan Agong, mengikut mana-mana yang berkenaan, dalam hal keadaan yang\n\ndiperuntukkan dalam Perintah Majlis Angkatan Tentera.\n\nKenaikan pangkat\n\n48. Bagi maksud seksyen 12 Akta, kelayakan dan kriteria bagi kenaikan pangkat\n\nseseorang pegawai hendaklah mengikut Perintah Majlis Angkatan Tentera.\n\nKelayakan khidmat pesuruh\n\n49. (1) Perkhidmatan seseorang pesuruh hendaklah disediakan seperti yang\n\nberikut:\n\n(a) tiga pesuruh bagi Panglima Angkatan Tentera;\n\n(b) dua pesuruh bagi setiap orang dalam hal Panglima Tentera Darat,\n\nPanglima Tentera Laut dan Panglima Tentera Udara;\n\n(c) seorang pesuruh bagi setiap orang dalam hal Brigadier Jeneral dan\n\nke atas; dan\n\n(d) seorang pesuruh bagi setiap orang dalam hal mana-mana pegawai\n\nyang memegang jawatan pegawai memerintah.\n\n(2) Bagi maksud peraturan ini, \"pesuruh\" ertinya seorang askar-lasykar, yang\n\nhendaklah bertanggungjawab menguruskan keperluan seseorang pegawai sebagaimana\n\nyang dinyatakan dalam subperaturan (1) berdasarkan tugasan yang ditentukan oleh\n\npihak berkuasa yang layak, dan tidak boleh disifatkan sebagai seorang pembantu\n\nperibadi.\n\nBAHAGIAN IV\n\nASKAR-LASYKAR\n\nPendaftaran anggota perantis\n\n50. (1) Seseorang yang berumur di bawah lapan belas tahun boleh didaftarkan\n\nsebagai anggota perantis.\n\n(2) Tempoh perkhidmatan permulaan seseorang anggota perantis hendaklah\n\ndikira apabila dia mencapai umur lapan belas tahun.\n\n(3) Terma dan syarat perkhidmatan bagi anggota perantis hendaklah\n\nmengikut Perintah Majlis Angkatan Tentera.\n\nLatihan asas\n\n51. Seorang askar-lasykar hendaklah, setelah didaftarkan, menjalani latihan rekrut\n\nasas selama tempoh enam bulan atau apa-apa tempoh latihan asas sebagaimana yang\n\nditentukan oleh pihak berkuasa yang layak.\n\nTempoh perkhidmatan\n\n52. (1) Tempoh perkhidmatan sepenuh masa bagi seseorang askar-lasykar dalam\n\nangkatan tetap hendaklah bermula dari tarikh pengakusaksiannya atau apabila dia\n\nmencapai umur lapan belas tahun, mengikut mana-mana yang lebih awal, dan tempoh\n\nperkhidmatan itu hendaklah dikira bagi maksud kenaikan pangkat dan kekananan\n\naskar-lasykar itu.\n\n(2) Seseorang askar-lasykar yang memasuki perkhidmatan angkatan tetap\n\npada atau selepas tarikh yang ditentukan hendaklah berkhidmat—\n\n(a) sepenuh masa selama tempoh dua belas tahun;\n\n(b) jika tempoh perkhidmatannya dilanjutkan, selama tempoh\n\npelanjutan yang ditentukan oleh pihak berkuasa yang layak; dan\n\n(c) selama tempoh lima tahun dalam simpanan, dengan syarat\n\numurnya tidak melebihi lima puluh lima tahun.\n\nPelanjutan perkhidmatan\n\n53. (1) Seseorang askar-lasykar yang mendaftar dalam angkatan tetap boleh,\n\nenam bulan sebelum tamat tempoh perkhidmatan sepenuh masa, memohon kepada\n\npihak berkuasa yang layak untuk melanjutkan perkhidmatan sepenuh masanya—\n\n(a) daripada tempoh dua belas tahun ke lima belas tahun, dan jika dia\n\nbelum mencapai umur lima puluh tahun, berkhidmat selama\n\ntempoh lima tahun dalam simpanan;\n\n(b) bagi meliputi tempoh kursus peralihan yang boleh diikutinya jika\n\ndia belum mencapai umur persaraan lima puluh lima tahun; atau\n\n(c) bagi menggenapkan tempoh perkhidmatan sepenuh masa untuk\n\nmerangkumi apa-apa tempoh perkhidmatannya yang tidak boleh\n\ndikira atas alasan tertentu, dengan syarat dia belum mencapai\n\numur persaraan lima puluh lima tahun.\n\n(2) Seseorang askar-lasykar yang mendaftar dalam angkatan tetap boleh,\n\nsekurang-kurangnya enam bulan sebelum tamat tempoh perkhidmatan sepenuh\n\nmasanya, memohon kepada pihak berkuasa yang layak untuk melanjutkan perkhidmatan\n\naskar-lasykar itu bagi—\n\n(a) ditugaskan semula selama tempoh perkhidmatan sepenuh masa\n\nyang dilanjutkan baginya;\n\n(b) menggenapkan tempoh perkhidmatan sepenuh masa yang\n\nberterusan selama dua puluh satu tahun; atau\n\n(c) membolehkannya untuk terus berkhidmat seolah-olah tempoh\n\nperkhidmatan sepenuh masanya masih belum tamat.\n\n(3) Pihak berkuasa yang layak bagi maksud subperaturan (1) dan (2) adalah\n\nseperti yang berikut:\n\n(a) Majlis Angkatan Tentera, berkenaan dengan pelanjutan tempoh\n\nperkhidmatan sepenuh masa yang berterusan bagi askar-lasykar\n\nyang telah mencapai umur lima puluh tahun tetapi belum\n\nmencapai umur persaraan lima puluh lima tahun;\n\n(b) Ketua Perkhidmatan, berkenaan dengan pelanjutan tempoh\n\nperkhidmatan sepenuh masa yang berterusan selama dua puluh\n\nsatu tahun;\n\n(c) Asisten Ketua Staf Perkhidmatan Anggota, berkenaan dengan\n\npelanjutan tempoh perkhidmatan sepenuh masa yang berterusan\n\nmelebihi tempoh dua puluh satu tahun, dengan syarat askarlasykar itu belum mencapai umur persaraan lima puluh lima\n\ntahun;\n\n(4) Walau apa pun peruntukan dalam Peraturan-Peraturan ini, tiada seorang\n\naskar-lasykar pun boleh melanjutkan tempoh perkhidmatan sepenuh masanya atau\n\ndibenarkan bertugas semula jika kesan pelanjutan atau pertugasan semula itu\n\nmenghendakinya berkhidmat selepas mencapai umur lima puluh lima tahun.\n\n(5) Kaedah dan tatacara yang berhubungan dengan pelanjutan perkhidmatan\n\ndan pertugasan semula hendaklah mengikut Perintah Majlis Angkatan Tentera.\n\nPengekalan dalam perkhidmatan\n\n54. (1) Walau apa pun peruntukan dalam Peraturan-Peraturan ini, seseorang\n\naskar-lasykar boleh dikekalkan dalam perkhidmatan angkatan tetap melebihi tempoh\n\nperkhidmatan sepenuh masanya bagi suatu tempoh yang tidak melebihi dua belas\n\nbulan.\n\n(2) Ketua Perkhidmatan hendaklah menyatakan tempoh sebenar pengekalan\n\nitu, dan selepas itu askar-lasykar itu hendaklah dipindahkan ke simpanan menurut\n\nseksyen 27 Akta.\n\nLatihan sebagai pegawai kadet\n\n55. (1) Seseorang askar-lasykar boleh dipilih oleh suatu Lembaga Pemilihan\n\nuntuk menjalani latihan sebagai pegawai kadet, dan dia hendaklah mematuhi apa-apa\n\nsyarat yang ditentukan bagi maksud itu oleh pihak berkuasa yang layak mengikut\n\nPerintah Majlis Angkatan Tentera.\n\n(2) Mana-mana askar-lasykar yang gagal dalam latihannya sebagai seorang\n\npegawai kadet hendaklah—\n\n(a) kembali bertugas sebagai askar-lasykar dan diberikan pangkat\n\nserta kekananan yang disandangnya sebaik sebelum menjalani\n\nlatihan sebagai pegawai kadet; dan\n\n(b) menggenapkan tempoh perkhidmatan yang ditetapkan baginya\n\npada tarikh pendaftarannya.\n\nKenaikan pangkat\n\n56. (1) Pihak berkuasa yang layak boleh menaikkan pangkat mana-mana askarlasykar ke suatu pangkat yang lebih tinggi bagi mengisi apa-apa kekosongan dalam\n\nangkatan tetap.\n\n(2) Kenaikan pangkat itu hendaklah daripada suatu pangkat hakiki ke suatu\n\npangkat lebih tinggi yang paling hampir, melainkan jika diputuskan selainnya oleh\n\nKetua Perkhidmatan yang berkenaan.\n\n(3) Kenaikan pangkat bagi seseorang askar-lasykar boleh berkuat kuasa\n\nsecara ke belakang mulai tarikh dia dibenarkan memangku pangkat yang lebih tinggi\n\nmenurut peraturan 58.\n\n(4) Kelayakan dan kriteria bagi kenaikan pangkat seseorang askar-lasykar\n\nhendaklah mengikut Perintah Majlis Angkatan Tentera.\n\n(5) Seseorang askar-lasykar boleh, tanpa dikehendaki memangku apa-apa\n\ntugasan dalam suatu pangkat yang lebih tinggi sebagaimana yang diperuntukkan di\n\nbawah peraturan 58, dilantik ke pangkat lans koperal oleh seorang pegawai\n\nmemerintah dengan kelulusan Ketua Perkhidmatan.\n\nPenanggungan kerja\n\n57. (1) Ketua Perkhidmatan seseorang askar-lasykar boleh, jika dia fikirkan\n\nperlu, memberi kuasa kepada seseorang askar-lasykar untuk menanggung kerja\n\ntugasan seseorang askar-lasykar lain yang menyandang suatu pangkat yang sama, atau\n\nlebih tinggi daripada pangkat askar-lasykar itu, dan sebagaimana yang ditentukan oleh\n\npihak berkuasa yang layak mengikut peraturan-peraturan yang dibuat di bawah\n\nseksyen 157 Akta.\n\n(2) Tempoh penanggungan kerja bagi askar-lasykar lain tidak boleh dikira\n\nbagi maksud kenaikan pangkat.\n\n(3) Tatacara dan apa-apa perkara lain yang berhubungan dengan\n\npenanggungan kerja hendaklah mengikut Perintah Majlis Angkatan Tentera.\n\nPangkat pemangku\n\n58. (1) Pihak berkuasa yang layak boleh, jika perlu, memberi kuasa kepada\n\nmana-mana askar-lasykar untuk memangku dalam suatu pelantikan yang membawa\n\nbersamanya suatu pangkat yang lebih tinggi daripada pangkat hakiki.\n\n(2) Tatacara dan apa-apa perkara lain yang berhubungan dengan pangkat\n\npemangku hendaklah mengikut Perintah Majlis Angkatan Tentera.\n\nKembalian kepada pangkat hakiki\n\n59. Seseorang askar-lasykar yang menyandang pangkat pemangku boleh\n\ndikembalikan ke pangkat hakiki sebagaimana yang diarahkan oleh pihak berkuasa yang\n\nlayak dalam hal keadaan yang diperuntukkan dalam Perintah Majlis Angkatan Tentera.\n\nPenurunan pangkat\n\n60. Tertakluk kepada seksyen 184 Akta, seseorang askar-lasykar boleh diturunkan\n\npangkat daripada pangkat hakiki yang sedang disandangnya ke suatu pangkat yang\n\nlebih rendah sebagaimana yang pihak berkuasa yang layak fikirkan patut.\n\nPemberhentian kerja\n\n61. (1) Pihak berkuasa yang layak boleh, pada bila-bila masa, memberhentikan\n\nkerja mana-mana askar-lasykar daripada perkhidmatan angkatan tetap atas alasan\n\nyang berikut:\n\n(a) dalam hal seorang rekrut, dia tidak mungkin menjadi seorang\n\naskar-lasykar yang cekap;\n\n(b) dalam hal seorang rekrut, apabila dia memohon untuk menebus\n\npemberhentian kerja menurut seksyen 31 Akta;\n\n(c) pendaftaran seorang askar-lasykar itu tidak diluluskan;\n\n(d) pendaftaran seorang askar-lasykar itu tidak dibuat dengan\n\nsempurna;\n\n(e) butiran yang tertulis dalam kertas pengakusaksian semasa\n\npendaftaran seorang askar-lasykar itu adalah palsu;\n\n(f) keihsanan;\n\n(g) keadaan kesihatan askar-lasykar itu lebih rendah daripada\n\npiawaian perubatan yang ditetapkan di bawah peraturan 11;\n\n(h) kekurangan jawatan yang sesuai atau ketiadaan harapan untuk\n\nkenaikan pangkat atau perkembangan kerjaya bagi askar-lasykar\n\nitu dalam angkatan tetap atau penghapusan mana-mana jawatan\n\ndalam angkatan tetap;\n\n(i) ketidaksesuaian atau ketidakcekapan askar-lasykar itu yang tidak\n\nterjumlah kepada salah laku;\n\n(j) salah laku yang dilakukan oleh askar-lasykar itu dan dia telah\n\ndisabitkan;\n\n(k) askar-lasykar itu dihukum buang kerja atau buang kerja dengan\n\nkeji oleh mahkamah tentera;\n\n(l) dilucutkan atau kehilangan taraf kewarganegaraan Malaysia;\n\n(m) perkhidmatan askar-lasykar itu tidak lagi dikehendaki;\n\n(n) demi kepentingan perkhidmatan;\n\n(o) dengan kelulusan Majlis Angkatan Tentera, apabila askar-lasykar\n\nitu dilantik untuk berkhidmat dalam apa-apa organisasi, yang\n\ndalamnya Kerajaan atau mana-mana Kerajaan Negeri mempunyai\n\nkepentingan;\n\n(p) askar-lasykar itu didapati terlibat dalam kegiatan politik\n\nsebagaimana yang dilarang dalam Perintah Majlis Angkatan\n\nTentera;\n\n(q) askar-lasykar itu telah menggenapkan tempoh perkhidmatan\n\nsepenuh masanya dalam angkatan tetap;\n\n(r) askar-lasykar telah dikurniakan suatu tauliah sebagai seorang\n\npegawai; atau\n\n(s) pada pendapat pihak berkuasa yang layak, sesuatu keadaan\n\ntertentu memerlukan sedemikian.\n\n(2) Walau apa pun apa-apa peruntukan Peraturan-Peraturan ini, seseorang\n\npegawai waran yang telah diturunkan pangkat ke suatu pangkat yang lebih rendah,\n\nboleh memohon untuk diberhentikan daripada perkhidmatan angkatan tetap, dan pihak\n\nberkuasa yang layak, setelah menimbang permohonan itu, bolehlah memberhentikan\n\nkerja pegawai waran itu menurut seksyen 32 Akta.\n\n(3) Pemberhentian kerja di bawah peraturan ini hendaklah diselaraskan bagi\n\nmaksud penentuan pemberian pencen, ganjaran dan faedah lain sebagaimana yang\n\ndiperuntukkan dalam peraturan-peraturan yang dibuat di bawah seksyen 187 Akta.\n\nBAHAGIAN V\n\nPEGAWAI KADET\n\nPelantikan\n\n62. (1) Seseorang warganegara Malaysia boleh dilantik sebagai seorang pegawai\n\nkadet oleh Majlis Angkatan Tentera.\n\n(2) Seseorang yang berumur kurang daripada tujuh belas tahun setengah\n\ntidak boleh dilantik sebagai pegawai kadet tanpa keizinan bertulis ibu bapa atau\n\npenjaganya.\n\nPembatalan pelantikan\n\n63. (1) Majlis Angkatan Tentera boleh, pada bila-bila masa tanpa memberi apaapa alasan, membatalkan pelantikan mana-mana pegawai kadet, dan pembatalan itu\n\nhendaklah berkuat kuasa pada tarikh yang diputuskan oleh Majlis Angkatan Tentera.\n\n(2) Seseorang pegawai kadet yang dibatalkan pelantikannya di bawah\n\nsubperaturan (1) hendaklah diberhentikan kerja pada tarikh yang ditetapkan oleh\n\nMajlis Angkatan Tentera.\n\n(3) Seseorang askar-lasykar yang telah dipilih sebagai pegawai kadet di\n\nbawah subperaturan 55(1) yang telah dibatalkan pelantikannya di bawah\n\nsubperaturan (1), hendaklah dikembalikan ke pelantikannya yang terdahulu sebagai\n\nseorang askar-lasykar.\n\nPemberhentian kerja\n\n64. Seseorang pegawai kadet, selain seorang askar-lasykar yang telah dilantik\n\nsebagai pegawai kadet—\n\n(a) sebelum tamat tempoh tiga bulan dari tarikh pelantikannya, boleh\n\nmemohon kepada pihak berkuasa yang layak untuk menebus\n\npemberhentian kerjanya mengikut seksyen 10A Akta; atau\n\n(b) selepas tiga bulan dari tarikh pelantikannya, boleh memohon kepada\n\npihak berkuasa yang layak bagi pemberhentian kerja mengikut Perintah\n\nMajlis Angkatan Tentera.\n\nKegagalan dalam pengajian di institusi pengajian tinggi\n\n65. (1) Seseorang pegawai kadet yang gagal dalam pengajiannya di mana-mana\n\ninstitusi pengajian tinggi hendaklah dibatalkan pelantikannya sebagai seorang pegawai\n\nkadet dan diberhentikan daripada perkhidmatan angkatan tetap, dan pihak berkuasa\n\nyang layak berhak menuntut pampasan daripada pegawai kadet itu.\n\n(2) Seseorang pegawai kadet yang—\n\n(a) mengikuti pengajian di institusi pengajian tinggi;\n\n(b) gagal dalam satu tahun akademik; dan\n\n(c) dibenarkan oleh pihak berkuasa institusi yang berkaitan dengan\n\npersetujuan pihak berkuasa yang layak untuk mengulangi\n\npengajiannya,\n\nhendaklah hilang kekananan dalam angkatan tetap, dikira mulai tarikh pentauliahannya\n\nsebagai seorang pegawai untuk tempoh pengulangan itu.\n\nPemakaian peruntukan tertentu dalam Bahagian II\n\n66. Peraturan 5, 6, 7, 8, 9, 10, 11, 12, 22, 24, 25, 27, 30 dan 32 dalam Bahagian II\n\nPeraturan-Peraturan ini hendaklah terpakai mutatis mutandis bagi seorang pegawai\n\nkadet.\n\nBAHAGIAN VI\n\nPELBAGAI\n\nPerintah Majlis Angkatan Tentera\n\n67. Apa-apa Perintah Majlis Angkatan Tentera yang dikeluarkan sebelum mula\n\nberkuat kuasanya Peraturan-Peraturan ini adalah sah dan hendaklah—\n\n(a) disifatkan sebagai telah dikeluarkan di bawah Peraturan-Peraturan ini;\n\ndan\n\n(b) terus berkuat kuasa bagi maksud yang ditetapkan sehingga dibatalkan\n\ndengan nyata.\n\nPemakaian dan rujukan kepada Queen's Regulations for the Royal Navy (QRRN)\n\n68. Pemakaian dan rujukan kepada Queen's Regulations for the Royal Navy (QRRN)\n\n(Terms of Service) 1957 bagi Tentera Laut Diraja Malaysia yang telah diluluskan oleh\n\npihak berkuasa yang layak hendaklah tamat apabila Peraturan-Peraturan ini mula\n\nberkuat kuasa.\n\nPembatalan dan peralihan\n\n69. (1) Peraturan-peraturan yang berikut dibatalkan:\n\n(a) Malay Regiment Regulations 1933 [G.N. 7425/1933];\n\n(b) Malay Regiment (Enlistment, Extension of Service and\n\nRe-Engagement) Regulations 1960 [L.N. 119/1960];\n\n(c) Army and Air Force (Terms of Service) Regulations 1961\n\n[L.N. 363/1961];\n\n(d) Air Force (Enlistment, Extension of Service and Re-Engagement)\n\nRegulations 1962 [L.N. 24/1962]; dan\n\n(e) Navy (Enlistment, Extension of Service and Re-Engagement)\n\nRegulations 1962 [L.N. 23/1962].\n\n(2) Walau apa pun yang terkandung dalam subperaturan (1), semua perintah\n\natau surat cara lain yang dibuat atau diterima pakai di bawah peraturan-peraturan yang\n\ndibatalkan, setakat yang tidak bertentangan dengan Peraturan-Peraturan ini hendaklah\n\nterus berkuat kuasa sehingga dibatalkan dengan nyata.\n\nJADUAL PERTAMA\n\n[Peraturan 4 dan subperaturan 14(1)]\n\nPANGKAT DALAM ANGKATAN TETAP\n\nPEGAWAI\n\nTENTERA DARAT MALAYSIA TENTERA LAUT DIRAJA\n\nMALAYSIA (TLDM)\n\nTENTERA UDARA\n\nDIRAJA MALAYSIA\n\n(TUDM)\n\n1. Pegawai Bertauliah\n\nFil Marsyal Laksamana Armada Marsyal Tentera Udara\n\nJeneral Laksamana Jeneral TUDM\n\nLeftenan Jeneral Laksamana Madya Leftenan Jeneral TUDM\n\nMejar Jeneral Laksamana Muda Mejar Jeneral TUDM\n\nBrigadier Jeneral Laksamana Pertama Brigadier Jeneral TUDM\n\nKolonel Kepten TLDM Kolonel TUDM\n\nLeftenan Kolonel Komander TLDM Leftenan Kolonel TUDM\n\nMejar Leftenan Komander\n\nTLDM\n\nMejar TUDM\n\nKapten Leftenan TLDM Kapten TUDM\n\nLeftenan Leftenan Madya TLDM Leftenan TUDM\n\nLeftenan Muda Leftenan Muda TLDM Leftenan Muda TUDM\n\n2. Pegawai Yang Dilantik\n\n- Pegawai Muda Laut -\n\nPegawai Kadet Pegawai Kadet Pegawai Kadet\n\nASKAR-LASYKAR\n\n3. Pegawai Waran\n\nPegawai Waran I Pegawai Waran I Pegawai Waran Udara I\n\nPegawai Waran II Pegawai Waran II Pegawai Waran Udara II\n\n4. Pegawai Tidak Bertauliah\n\nStaf Sarjan Bintara Kanan Flait Sarjan\n\nSarjan Bintara Muda Sarjan Udara\n\nKoperal Laskar Kanan Koperal Udara\n\n5. Pangkat lain\n\nLans Koperal Laskar Kelas I Lasykar Udara Kanan\n\n - - Lasykar Udara I\n\nPrebet Laskar Kelas II Lasykar Udara II\n\nRekrut Rekrut Rekrut\n\n JADUAL KEDUA\n\n [Subperaturan 13(3)]\n\n KERTAS PENGAKUSAKSIAN\n\n KERTAS PENGAKUSAKSIAN\n\n (Menjadi seorang anggota dalam Angkatan Tentera Malaysia)\n\n1. NO. KAD PENGENALAN AWAM 2. NO.\n\nTENTERA\n\nSOALAN-SOALAN YANG PERLU DIJAWAB\n\nAmaran:\n\nSekiranya pihak Angkatan Tentera Malaysia mendapati jawapan yang diberi dalam borang ini adalah palsu, dan\n\ntelah dibuat secara sedar atau sengaja, pihak Angkatan Tentera Malaysia mempunyai kuasa, pada bila-bila masa,\n\nmengambil tindakan undang-undang terhadap anda.\n\n3. NAMA PENUH (HURUF BESAR)\n\n4. NAMA LAIN (JIKA ADA)\n\n5. TARIKH LAHIR 6. ALAMAT TEMPAT LAHIR\n\n7. POSKOD 8. BANDAR\n\n9. NO. SIJIL\n\nKELAHIRAN\n\n10. NO. SIJIL\n\nKEWARGANEGARAAN\n\n11. KOD\n\nBANGSA\n\n12. KOD\n\nAGAMA\n\n13. KOD\n\nJANTINA\n\n14. KOD\n\nNEGERI\n\nGAMBAR\n\nBAT D87\n\n(Pindaan 1/2011)\n\n15. *PERKHIDMATAN\n\nSEBELUM INI\n\n16. TEMPOH 17. KELULUSAN PELAJARAN\n\nDARI HINGGA PMR TAHUN\n\nSWASTA SPM/\n\nSPMV TAHUN\n\nAGENSI KERAJAAN STPM TAHUN\n\nTENTERA/PDRM DIPLOMA TAHUN\n\nIJAZAH TAHUN\n\n18. KOD TARAF\n\nPERKAHWINAN\n\n19. TARIKH\n\nKAHWIN\n\n20. NAMA PENUH ISTERI/SUAMI\n\n21. NO. KAD\n\nPENGENALAN - -\n\nNO. KAD PENGENALAN\n\nTENTERA/POLIS\n\n22. NAMA PENUH BAPA\n\n23. NO. KAD\n\nPENGENALAN - -\n\nNO. KAD PENGENALAN\n\nTENTERA/POLIS\n\n24. NAMA PENUH IBU\n\n25. NO. KAD\n\nPENGENALAN - -\n\nNO. KAD PENGENALAN\n\nTENTERA/POLIS\n\n26. Adakah anda pernah disabitkan oleh mana-mana Mahkamah atas suatu kesalahan jenayah (jika ada)?\n\na. Kesalahan:\n\nb. Hukuman:\n\n27. Adakah anda pernah terlibat dengan kegiatan penyalahgunaan/pengedaran/pengambilan dadah haram?\n\n28. (a) Adakah anda pernah berkhidmat dalam Angkatan Tentera Malaysia (ATM)? YA/TIDAK\n\n(b) Adakah anda bersedia berkhidmat mengikut syarat-syarat perkhidmatan ATM? BERSEDIA/TIDAK BERSEDIA\n\n29. Adakah anda bersedia berkhidmat di mana sahaja apabila diperintah?\n\n30. Pernahkah anda atau ahli keluarga menerima rawatan sakit jiwa? Ya Tidak Jika Ya, siapa? Anda\n\nIbu bapa Adik-beradik\n\nPENGAKUAN YANG PERLU DIBUAT KE ATAS PENGAKUSAKSIAN\n\nBahawasanya saya ...................................................................................................................................................................................................\n\nNo. Kad Pengenalan ...................................................................................... dengan sesungguhnya mengaku bahawa segala\n\njawapan-jawapan yang dibuat oleh saya kepada soalan-soalan yang tersebut di atas adalah betul dan saya sanggup\n\nmemenuhi perjanjian yang telah dibuat di atas dan saya membuat akuan ini dengan kepercayaan bahawa apa-apa\n\nyang tersebut di dalamnya adalah benar dan faham tiap-tiap soalan yang ditanyakan dalam kertas pengakusaksian\n\nserta sedia didaftarkan sebagai seorang anggota tentera mengikut Akta Angkatan Tentera 1972.\n\nJANGKA PERKHIDMATAN\n\nJangka perkhidmatan anda adalah seperti berikut:\n\na. Tauliah Tetap.\n\nb. Tauliah Jangka Pendek selama.......................tahun.\n\nc. ...............tahun perkhidmatan penuh dan ....................tahun di dalam perkhidmatan simpanan.\n\nd. ...............tahun perkhidmatan penuh.\n\nSUMPAH YANG PERLU DILAFAZKAN OLEH ANGGOTA ATAS PENGAKUSAKSIAN\n\nSaya.......................................................................................................................................................................................................\n\nNo.KadPengenalan.:...................................................................... dengan ini, mengaku dan bersetuju bahawa saya akan\n\nberpegang teguh dan menumpukan taat setia yang sejati kepada DYMM Seri Paduka Baginda Yang di-Pertuan Agong\n\ndan kepada Negara dan bahawasanya saya akan, sebagai menunaikan kewajipan saya, saya dengan hati yang tulus\n\nikhlas dan setia akan mempertahankan kedaulatan DYMM Seri Paduka Baginda Yang di-Pertuan Agong dan Negara\n\ndaripada segala musuh, dan saya akan taat dan patuh terhadap segala titah DYMM Seri Paduka Baginda Yang diPertuan Agong dan perintah ke atas saya, dan saya bersedia untuk berkhidmat mengikut terma-terma perkhidmatan\n\nAngkatan Tentera Malaysia, dan sedia untuk berkhidmat di luar Malaysia, jika diperintahkan.\n\nTarikh: .........................................................................\n\n .......................................................................................\n\n Tandatangan Anggota\n\nDiperbuat dan dengan sesungguhnya diakui oleh yang\n\ntersebut namanya di atas iaitu ....................................................\n\n...................................................................................................... di\n\n..................................................................................................\n\ndalam Negeri ......................................................................................\n\npada...........................haribulan ...........................20.................\n\nDi hadapan saya,\n\n ...................................................................\n\n Tandatangan Majistret/ Pegawai Merekrut\n\n ..................................................................\n\n Tandatangan Anggota\n\nAKUAN DARIPADA PEGAWAI YANG MENGESAHKAN\n\n(Dipenuhkan oleh Jabatanarah Rekod dan Pencen)\n\nSaya dengan ini memperakui bahawa pengakusaksian anggota yang tersebut di atas adalah betul dan telah\n\ndisempurnakan dengan sewajarnya. Dengan yang demikian, saya meluluskan dan mengesahkan pendaftaran anggota\n\nini, tertakluk kepada terma-terma perkhidmatan yang berkuat kuasa sekarang.\n\nTarikh:......................................................................... ................................................................................\n\n Tandatangan Pegawai Yang Mengesahkan\n\nTempat:.........................................................................\n\n ……………………………………………………………..\n\n Pangkat dan Nama Penuh\n\n* Tulis mana yang berkenaan\n\nJADUAL KETIGA\n\n[Subperaturan 42(1)]\n\nUMUR PERSARAAN PAKSA\n\nPANGKAT UMUR\n\nLelaki Perempuan\n\n(a) Senarai Tugas Am/Khas\n\n Kolonel dan ke atas 60 tahun 60 tahun\n\n Leftenan Kolonel 57 tahun 57 tahun\n\n Mejar 55 tahun 55 tahun\n\n Kapten 52 tahun 52 tahun\n\n Leftenan dan Leftenan\n\nMuda\n\n50 tahun 50 tahun\n\n(b) Senarai Tugas Ikhtisas\n\n Semua pangkat 60 tahun 60 tahun\n\nJADUAL KEEMPAT\n\n[subperaturan 42(2)]\n\nUMUR PERSARAAN PILIHAN\n\n PANGKAT UMUR\n\nLelaki Perempuan\n\n (a) Senarai Tugas Am/Khas\n\n Kolonel dan ke atas 50 tahun 45 tahun\n\n Leftenan Kolonel 47 tahun 45 tahun\n\n Mejar 45 tahun 45 tahun\n\n Kapten dan ke bawah 40 tahun 40 tahun\n\n (b) Senarai Tugas Ikhtisas\n\n Semua pangkat 50 tahun 45 tahun\n\nDibuat 12 Jun 2013\n\n[KP/UNDG/013/179 Jil. 7; PN(PU2)140/XIII]\n\nDATO' SRI DR. HAJI ISMAIL BIN HAJI AHMAD\n\nSetiausaha Majlis Angkatan Tentera\n\nARMED FORCES ACT 1972\n\nARMED FORCES\n\n(TERMS OF SERVICE OF REGULAR FORCES) REGULATIONS 2013\n\n___________________________________\n\nARRANGEMENT OF REGULATIONS\n\n __________________________\n\nPART I\n\nGENERAL\n\nRegulation\n\n1. Citation\n\n2. Application\n\n3. Interpretation\n\n4. Equivalent rank\n\nPART II\n\nOFFICERS AND SERVICEMEN\n\n5. Qualification to enter into service\n\n6. Miscellaneous qualifications for entry into service\n\n7. Entry selection test\n\n8. Minimum medical standards for entry\n\n9. Medical examination\n\n10. Additional medical requirements for aircrew, submarine crew and seamen\n\n11. Medical standards while in service\n\n12. Security vetting\n\n13. Entry into service\n\n14. Rank, seniority and order of precedence\n\n15. Grant of local rank by Service Chief\n\nRegulation\n\n16. Transfer of a member\n\n17. Postings\n\n18. Pay, allowance, pension and other benefits, etc.\n\n19. Leave\n\n20. Attachment or secondment of a member\n\n21. Period of service of a member on attachment or secondment outside service\n\n22. Uniform\n\n23. Badge\n\n24. Member may be required to undergo courses\n\n25. Family may accompany member on long courses outside Malaysia\n\n26. Transfer to the reserve\n\n27. Reckoning of period of service\n\n28. Retirement, discharge or retention in service beyond the date for retirement or\n\ndischarge due to medical grounds\n\n29. Resettlement course\n\n30. Legal aid\n\n31. Promotion and seniority of a member who is missing while on duty, etc.\n\n32. Member who is absent from duties due to illness\n\n33. Member who is on medical leave and has no chance to recover\n\n34. Member who is undergoing treatment in a hospital\n\n35. In-patient hospital treatment\n\n36. Discharge on medical grounds\n\nPART III\n\nOFFICERS\n\n37. Minimum age for commission\n\n38. Commissioning of officers\n\n39. Extension of service of a short service commissioned officer\n\nRegulation\n\n40. Change of commission\n\n41. Cancellation of commission\n\n42. Retirement of officer\n\n43. Termination of service of a short service commissioned officer\n\n44. Covering of duties\n\n45. Acting appointment\n\n46. Acting rank\n\n47. Reversion to substantive rank\n\n48. Promotion\n\n49. Eligibility for batman\n\nPART IV\n\nSERVICEMEN\n\n50. Enlistment of apprentice member\n\n51. Basic training\n\n52. Period of service\n\n53. Extension of service\n\n54. Retention in service\n\n55. Training as an officer cadet\n\n56. Promotion\n\n57. Covering of duties\n\n58. Acting rank\n\n59. Reversion to substantive rank\n\n60. Reduction in rank\n\n61. Discharge from service\n\nPART V\n\nOFFICERS CADET\n\nRegulation\n\n62. Appointment\n\n63. Cancellation of appointment\n\n64. Discharge\n\n65. Failure in course in higher education institution\n\n66. Application of certain provisions in Part II\n\nPART VI\n\nMISCELLANEOUS\n\n67. Perintah Majlis Angkatan Tentera\n\n68. Application and reference to Queen's Regulations for the Royal Navy (QRRN)\n\n69. Revocation and transitional\n\nFIRST SCHEDULE\n\nSECOND SCHEDULE\n\nTHIRD SCHEDULE\n\nFOURTH SCHEDULE\n\nARMED FORCES ACT 1972\n\nARMED FORCES\n\n(TERMS OF SERVICE OF REGULAR FORCES) REGULATIONS 2013\n\nIN exercise of the powers conferred by sections 15 and 36 of the Armed Forces Act 1972\n\n[Act 77], the Armed Forces Council, with the approval of the Yang di-Pertuan Agong,\n\nmakes the following regulations:\n\nPART I\n\nGENERAL\n\nCitation\n\n1. These regulations may be cited as the Armed Forces (Terms of Service of\n\nRegular Forces) Regulations 2013.\n\nApplication\n\n2. These Regulations shall apply to all officers and servicemen of the regular forces.\n\nInterpretation\n\n3. In these Regulations, unless the context otherwise requires—\n\n\"Act\" means the Armed Forces Act 1972 [Act 77];\n\n\"child\" means a child of a member—\n\n(a) who is below the age of twenty-one years and includes—\n\n(i) a posthumous child, a dependant step-child or an\n\nillegitimate child conceived before the death of the\n\nmember; and\n\n(ii) a child adopted before the death of the member, under any\n\nwritten law, custom or usage; or\n\n(b) of any age, who is mentally retarded or physically and\n\npermanently incapacitated and incapable of supporting himself;\n\n\"member\" means an officer or a serviceman of the regular forces;\n\n\"submarine crew\" means a member who has passed the submarine qualifying\n\ncourse and has not been suspended or removed from his qualification, serves in a\n\nsubmarine or performs duties in relation to the duties of the submarine;\n\n\"aircrew\" includes a pilot, navigator, flight engineer, weapon sensor operator, air\n\ntactical coordinator, air quartermaster, air steward and air stewardess who performs\n\naviation duties in a unit of the Armed Forces of Malaysia;\n\n\"seaman branch\" means a branch in the Royal Malaysian Navy;\n\n\"medical leave\" means—\n\n(a) a period of leave not exceeding fourteen days granted to a member\n\nupon the recommendation of a medical officer; or\n\n(b) a period of leave exceeding fourteen days granted to a member\n\nupon the recommendation of a Medical Board;\n\n\"hospital\" means any Government hospital, Armed Forces Hospital and includes\n\nany university hospital, Government clinic and any Government medical institution;\n\n\"family\" means the husband or wife and children of a member;\n\n\"Selection Board\" means a board established by the Armed Forces Council which\n\nis responsible for the selection of members of the regular forces for any specific purpose\n\nin accordance with Perintah Majlis Angkatan Tentera;\n\n\"Medical Board\" means a board consisting of not less than two medical officers in\n\nthe related field established by the competent authority;\n\n\"enter into service\", in relation to—\n\n(a) an officer, means a person who is qualified to be commissioned\n\nunder section 6 of the Act; and\n\n(b) a serviceman, means a person who is qualified to be enlisted under\n\nsection 18 of the Act;\n\n\"substantive rank\" means a rank granted to an officer or a serviceman other than\n\nacting rank or local rank;\n\n\"local rank\" means a rank granted to an officer or a serviceman for the purpose\n\nof discharging duties in an appointment which requires a rank higher than his\n\nsubstantive rank;\n\n\"medical officer\" means a registered medical practitioner or a dental\n\npractitioner in the civil service or in the Armed Forces of Malaysia service;\n\n\"General Duty List Officer\" means any officer other than a Professional Duty List\n\nOfficer or a Special Duty List Officer;\n\n\"Professional Duty List Officer\" means an officer holding a professional\n\nqualification and commissioned into the Professional Duty List;\n\n\"Special Duty List Officer\" means a serviceman in a particular field of skill who\n\nhas been commissioned into the Special Duty List;\n\n\"seaman\" means a person who is registered in the seaman branch;\n\n\"guardian\", in relation to a child, means any person or association or persons,\n\nother than his natural parents, who has legal custody of the child according to the law;\n\n\"recruit\" means a person enlisted in accordance with the provisions of these\n\nRegulations who has not completed his basic training for a period of six months or any\n\nother period as determined by the competent authority;\n\n\"organisation\" includes a body or a corporation and any subsidiary of such body\n\nor corporation.\n\nEquivalent rank\n\n4. Any reference made to a rank in the Malaysian Army shall be construed as a\n\nreference to the equivalent rank in the Royal Malaysian Navy and the Royal Malaysian\n\nAir Force, as the case may be, as specified in the First Schedule.\n\nPART II\n\nOFFICERS AND SERVICEMEN\n\nQualification to enter into service\n\n5. (1) Any person who is a citizen of Malaysia may enter into the service of the\n\nregular forces:\n\n Provided that only persons being Malays shall be allowed to enter the Royal\n\nMalay Regiment.\n\n(2) No person who has been discharged with disgrace, discharged or\n\nterminated on the ground of discipline shall be commissioned, appointed, enlisted or reenlisted.\n\nMiscellaneous qualifications for entry into service\n\n6. (1) The miscellaneous qualifications for entry into the service of the regular\n\nforces shall be in accordance with Perintah Majlis Angkatan Tentera.\n\n(2) Notwithstanding anything contained in subregulation (1), the competent\n\nauthority may waive any or all of the miscellaneous qualifications for entry into service\n\nif a state of war exists between the Yang di-Pertuan Agong and any foreign power or\n\nwhile a Proclamation of Emergency issued by the Yang di-Pertuan Agong under Article\n\n150 of the Federal Constitution is in force.\n\nEntry selection test\n\n7. (1) Every person who wishes to enter into the service of the regular forces\n\nshall be required to undergo an entry selection test as determined by the competent\n\nauthority.\n\n(2) No person shall enter into the service of the regular forces unless that\n\nperson has passed the entry selection test as specified under subregulation (1).\n\n(3) This regulation shall not apply to a person or a class of persons exempted\n\nby the competent authority.\n\nMinimum medical standards for entry\n\n8. The minimum medical standards required for entry into the service of the\n\nregular forces shall be in accordance with Perintah Majlis Angkatan Tentera.\n\nMedical examination\n\n9. (1) Every person who wishes to enter into the service of the regular forces\n\nshall undergo a medical examination by a medical officer to determine whether or not\n\nhis physical fitness and state of health meets the minimum medical standards as\n\nspecified in regulation 8.\n\n(2) No person shall enter into the service of the regular forces unless he has\n\ncomplied with the minimum medical standards as specified under regulation 8.\n\n(3) Notwithstanding anything contained in subregulation (2), the Service\n\nChief may waive any or all of the minimum medical standards if a state of war exists\n\nbetween the Yang di-Pertuan Agong and any foreign power or while a Proclamation of\n\nEmergency issued by the Yang di-Pertuan Agong under Article 150 of the Federal\n\nConstitution is in force.\n\nAdditional medical requirements for aircrew, submarine crew and seamen\n\n10. (1) No person shall be an aircrew, submarine crew or a seaman unless he has\n\ncomplied with the additional medical requirements which shall be in accordance with\n\nPerintah Majlis Angkatan Tentera.\n\n(2) Failure to comply with subregulation (1) shall not automatically bar such\n\nperson from rendering his service in other duties other than as an aircrew, submarine\n\ncrew or a seaman.\n\nMedical standards while in service\n\n11. (1) Every serving member shall comply with the medical standards which\n\nshall be in accordance with Perintah Majlis Angkatan Tentera unless exempted\n\nspecifically by the Service Chief.\n\n(2) A Medical Board shall be established for the purpose of determining the\n\nstate of health, degree of illness, fitness and capability of a member to perform his\n\nofficial duties if the member does not comply with the medical standards specified in\n\nsubregulation (1).\n\n(3) The Medical Board shall, if necessary, submit a recommendation to the\n\nService Chief, in the case of—\n\n(a) an officer, for his retirement or termination of his service; or\n\n(b) a serviceman, for his discharge from the service of the regular\n\nforces,\n\npursuant to regulations 42, 43 and 61 respectively.\n\nSecurity vetting\n\n12. Every member shall, upon entering the service, undergo a security vetting, and if\n\nfound unfit, in the case of—\n\n(a) an officer, be retired or terminated; or\n\n(b) a serviceman, be discharged from the service of the regular forces,\n\nas the case may be, with immediate effect.\n\nEntry into service\n\n13. (1) The entry of a member into the service of the regular forces shall\n\ncommence in the case of—\n\n(a) an officer, on the date he is commissioned as an officer or\n\nappointed as an officer cadet; and\n\n(b) a serviceman, on the date he is enlisted.\n\n(2) A member upon entering the service–\n\n(a) of the Malaysian Army, in the case of—\n\n(i) an officer, shall be commissioned; or\n\n(ii) a serviceman, shall be enlisted to a corps or regiment of the\n\nMalaysian Army; or\n\n(b) of the Royal Malaysian Navy or of the Royal Malaysian Air Force,\n\n in the case of—\n\n(i) an officer, shall be commissioned; or\n\n(ii) a serviceman, shall be enlisted to a branch of the Royal\n\nMalaysian Navy or the Royal Malaysian Air Force, as the\n\ncase may be.\n\n(3) A person shall enter into the service of the regular forces as a member\n\nthrough enlistment and attestation in accordance with section 18 of the Act, as specified\n\nin the Second Schedule.\n\nRank, seniority and order of precedence\n\n14. (1) The ranks to be conferred upon an officer or a serviceman in the regular\n\nforces shall be as specified in the First Schedule.\n\n(2) The seniority of an officer or a serviceman in the same rank shall be\n\nreckoned from the date of his appointment to the substantive rank, or if he has been\n\ngranted an earlier date of seniority, his seniority shall be reckoned from the earlier date.\n\n(3) An officer or a serviceman shall take precedence in accordance with his\n\nsubstantive rank and his seniority in that rank.\n\nGrant of local rank by Service Chief\n\n15. (1) Notwithstanding any provisions in these Regulations, the Service Chief\n\nmay confer a local rank on any officer or serviceman—\n\n(a) for a specific period; or\n\n(b) to meet the needs that arise—\n\n(i) when a conferment of a higher rank is necessary for the\n\npurpose of status or seniority; or\n\n(ii) to enable the discharge of duties in an appointment which\n\nrequires a rank higher than his substantive rank,\n\nand at the end of such period of duty, such officer or serviceman shall be reverted to the\n\nsubstantive rank held by him previously before the conferment of that local rank.\n\n(2) The conferment of the local rank in subregulation (1) on any officer or\n\nserviceman shall not affect the seniority of that officer or serviceman, and shall not be\n\ndeemed to be a promotion.\n\nTransfer of a member\n\n16. A member may be transferred from one Service to another Service or within the\n\nsame Service in accordance with sections 13 and 22 of the Act.\n\nPostings\n\n17. The postings of each member throughout his period of service shall be\n\ndetermined in the case of—\n\n(a) an officer, by a competent authority; and\n\n(b) a serviceman, by the Service Chief.\n\nPay, allowance, pension and other benefits, etc.\n\n18. (1) The pay, allowance and any other emoluments as determined from time\n\nto time by the competent authority may be paid to a member in accordance with the\n\nregulations made under section 157 of the Act.\n\n(2) The pension, gratuity and other benefits as determined by the competent\n\nauthority may be paid to the members in accordance with the regulations made under\n\nsection 187 of the Act.\n\nLeave\n\n19. Every member is entitled for leave in accordance with Perintah Majlis Angkatan\n\nTentera.\n\nAttachment or secondment of a member\n\n20. (1) The competent authority may attach temporarily any member who is\n\nposted in a corps or regiment or branch or in a particular Service, to a corps or regiment\n\nor branch or another Service, or to another unit within the same Service.\n\n(2) The Armed Forces Council may second any member in accordance with\n\nPerintah Majlis Angkatan Tentera.\n\nPeriod of service of a member on attachment or secondment outside service\n\n21. (1) Any period of service of a member who is serving on attachment or\n\nsecondment outside the Service whether in or outside Malaysia pursuant to sections 5A,\n\n5B and 5C of the Act shall be deemed to be a reckonable period of service in Malaysia for\n\nthe purpose of promotion and the seniority of such member.\n\n(2) A member who is serving on attachment or secondment outside the\n\nService as specified in subregulation (1) shall be eligible for pay, allowance or any other\n\nemoluments as determined from time to time by the competent authority in accordance\n\nwith the regulations made under section 157 of the Act.\n\n(3) Any period of service of a member who is serving on attachment or\n\nsecondment outside the Service shall be recognized as a reckonable service.\n\nUniform\n\n22. (1) Every member shall wear uniforms in accordance with Perintah Majlis\n\nAngkatan Tentera.\n\n(2) A member may wear on his uniform any badge conferred upon him in\n\naccordance with Perintah Majlis Angkatan Tentera.\n\nBadge\n\n23. (1) The competent authority may, if it thinks reasonable, confer any badge to\n\nany member who is eligible.\n\n(2) The Armed Forces Council may determine the type, criteria and\n\nqualification for wearing of badges and any other matters relating to it in Perintah\n\nMajlis Angkatan Tentera.\n\nMember may be required to undergo courses\n\n24. (1) A member shall, when required by the competent authority, undergo\n\ncourses whether in or outside Malaysia.\n\n(2) The competent authority may impose conditions on a member who has\n\nbeen required to undergo any course under subregulation (1) to sign an agreement in\n\nthe form prescribed in Perintah Majlis Angkatan Tentera before the commencement of\n\nsuch course for the purpose of determining the contractual period required to be\n\nfulfilled by him upon the completion of such course, and such contractual period shall\n\ninclude his actual period of full-time service.\n\n(3) Notwithstanding any provisions in these Regulations, no member, other\n\nthan a short service commissioned officer, may undergo any course subject to the\n\ncondition imposed under subregulation (2) unless he has a sufficient period of service\n\nin force to enable him to fulfill the obligations arising out of the agreement referred to in\n\nsubregulation (2).\n\nFamily may accompany member on long courses outside Malaysia\n\n25. A member who is required to undergo a long course outside Malaysia may be\n\naccompanied by his family throughout his period of study, and the member shall be\n\neligible to make any claim arising out of any expenditure incurred by him as approved\n\nby the competent authority, in accordance with the regulations made under section 157\n\nof the Act and Perintah Majlis Angkatan Tentera.\n\nTransfer to the reserve\n\n26. A member who has retired or completed his period of service in the regular\n\nforces shall be transferred to the Regular Forces Reserve established under section 189\n\nof the Act.\n\nReckoning of period of service\n\n27. The rules for reckoning of service for the purpose of—\n\n(a) discharge or re-engagement or transfer to the reserve shall be in\n\naccordance with section 34 of the Act; and\n\n(b) retirement benefits and other benefits shall be in accordance with the\n\nregulations made under section 187 of the Act.\n\nRetirement, discharge or retention in service beyond the date of retirement or\n\ndischarge due to medical grounds\n\n28. (1) Subject to regulation 35, a member who is found below the prescribed\n\nmedical standards to perform his duties shall not be retained in the service after the\n\nexpiry date of his period of service but shall be retired or discharged from the service of\n\nthe regular forces.\n\n(2) A member shall be retired or discharged if, within five months prior to the\n\ndischarge, such member becomes ill or sustains injury which causes him to be absent\n\nfrom duties until the day before he is due for leave prior to the retirement or discharge.\n\n(3) A member shall be discharged if he still has a remaining period of service\n\nand is declared by a Medical Board to be unfit for further service due to disability.\n\nResettlement course\n\n29. Subject to the approval of the Armed Forces Council, a member shall, at the end\n\nof his period of service, undergo a resettlement course in accordance with Perintah\n\nMajlis Angkatan Tentera.\n\nLegal aid\n\n30. A member who has been initiated with legal proceeding, during the exercise, or\n\narising from the performance, of his official duties, may be granted a legal aid by the\n\ncompetent authority in accordance with Perintah Majlis Angkatan Tentera.\n\nPromotion and seniority of a member who is missing while on duty, etc.\n\n31. If a member is found missing while on duty, during a war, operation or training,\n\nor has been detained as a prisoner of war, and his disappearance or detention was not\n\ndue to his non-compliance, insubordination or negligence—\n\n(a) his seniority shall remain unaffected throughout his period of\n\ndisappearance or his detention;\n\n(b) the member shall be eligible to be promoted, in the case of—\n\n(i) an officer, by the Armed Forces Council with the consent of the\n\nYang di-Pertuan Agong; and\n\n(ii) a serviceman, by the Service Chief,\n\nif such promotion is beneficial to the armed forces.\n\nMember who is absent from duties due to illness\n\n32. (1) A member who is absent from duties because of illness shall upon the\n\ncertification of a medical officer, be eligible for full pay, allowance and any other\n\nemoluments as determined by the competent authority.\n\n(2) A member who is granted medical leave for a period exceeding eighteen\n\nmonths upon the certification of a Medical Board shall not be eligible to receive any pay,\n\nallowance or other emoluments, unless the Medical Board certifies that such member\n\nhas a chance to recover and is able to report for duty upon the expiry of such medical\n\nleave.\n\nMember who is on medical leave and has no chance to recover\n\n33. (1) Subject to regulation 34, if a member who becomes ill, sustains injury or\n\nsuffers from disease is granted medical leave for a period exceeding eighteen months,\n\nand a Medical Board certifies that the member has no chance to recover and is incapable\n\nof reporting for duty upon the expiry of such medical leave, his Service Chief shall take\n\nimmediate action, in the case of—\n\n(a) an officer, to retire or terminate his service; or\n\n(b) a serviceman, to discharge him from the service of the regular\n\nforces,\n\non medical grounds.\n\n(2) A member who is granted medical leave for a period exceeding eighteen\n\nmonths and is certified by a Medical Board to have no chance to recover pursuant to\n\nsubregulation (1) shall not be retained in service beyond the expiry date of his\n\nprescribed period of service, and his Service Chief shall take immediate action, in the\n\ncase of—\n\n(a) an officer, to retire or terminate his service; or\n\n(b) a serviceman, to discharge him from the service of the regular\n\nforces,\n\nin accordance with the procedures specified under regulations 42, 43 and 61\n\nrespectively.\n\n(3) Notwithstanding the provisions in these Regulations, a member who was\n\ninvolved in an accident while on duty and sustains injury, loss or deformity of any part\n\nof his body or senses, shall be retained in the service of the regular forces, and if\n\nnecessary, his service may be extended, in the case of—\n\n(a) an officer, by the Yang di-Pertuan Agong upon the\n\nrecommendation of the Armed Forces Council; and\n\n(b) a serviceman, by the competent authority.\n\n(4) Any extension of service made under subregulation (3) shall not exceed,\n\nin the case of—\n\n(a) an officer, the compulsory retirement age as specified in\n\nregulation 42; and\n\n(b) a serviceman, the period of full time continuous service as\n\ndetermined by the competent authority.\n\nMember who is undergoing treatment in a hospital\n\n34. (1) A member who has been certified as ill and is undergoing treatment in\n\nany hospital on the date of completion of his prescribed period of service shall be—\n\n(a) retained in the service after such date; and\n\n(b) eligible for pay, allowance and other benefits until the certification\n\nof a Medical Board made under subregulation (2) has been\n\nobtained.\n\n(2) A Medical Board shall be established to study the case of any member\n\nwho has been admitted in a hospital to undergo treatment and the period of treatment\n\nin such hospital exceeds six months or any such earlier period, particularly to determine\n\nwhether—\n\n(a) such member can be certified as fit and be permitted to be\n\ndischarged from the hospital; or\n\n(b) such treatment in the hospital is still required and is reasonable to\n\nbe continued for the purpose of recovery of health of such\n\nmember; or\n\n(c) any treatment necessary for the recovery of such member may be\n\nobtained from any hospital in or outside Malaysia.\n\n(3) If the Medical Board established under subregulation (2), upon studying\n\nthe progress of the treatment provided to such member, makes a certification that such\n\nmember has no chance to recover from his illness and is incapable of reporting for duty\n\nupon the expiry of the eighteen months of his period of treatment, his Service Chief shall\n\ntake immediate action, in the case of-\n\n(a) an officer, to retire or terminate his service; or\n\n(b) a serviceman, to discharge him from the service of the regular\n\nforces,\n\non medical grounds in accordance with the procedures specified under regulations 42,\n\n43 and 61 respectively.\n\nIn-patient hospital treatment\n\n35. (1) A member who is undergoing in-patient treatment in a hospital shall\n\ncontinue such treatment to the expiry date of his service.\n\n(2) For the purpose of subregulation (1), a Medical Board shall be established\n\nto determine whether the in-patient hospital treatment should be discontinued or\n\notherwise, upon the expiry of five months of a member's absence from duty or any such\n\nearlier period.\n\n(3) If a member is undergoing in-patient hospital treatment, he will not be\n\ndischarged from the service of the regular forces until an opinion of the Medical Board\n\nunder subregulation 34(2) is obtained.\n\nDischarge on medical grounds\n\n36. (1) Action shall be taken to retire or discharge a member from the service of\n\nthe regular forces if—\n\n(a) the Medical Board finds that a member who is ill, injured or\n\nsuffering from a disease, has no chance to recover and is incapable\n\nof reporting for duty within a period of eighteen months; or\n\n(b) contrary to the earlier opinion of the Medical Board made under\n\nsubregulations 34(2) and 35(2), the Medical Board finds that, a\n\nmember who has been retained in service has no chance to recover\n\nafter the expiry of the period of eighteen months.\n\n(2) Notwithstanding the provisions in subregulation (1), the competent\n\nauthority may approve, on the certification of the Medical Board, the retention of\n\nservice of a member who has sustained an injury while performing his duty which\n\nresults in the loss or impairment of his limbs or essential sensory organs provided that\n\nthe service of the member is useful to be continued.\n\nPART III\n\nOFFICERS\n\nMinimum age for commission\n\n37. Any person who wishes to enter into the service of the regular forces shall have\n\nattained the age of eighteen years on the date of such entry to be eligible to be granted a\n\ncommission as an officer.\n\nCommissioning of officers\n\n38. (1) Any officer granted a commission by the Yang di-Pertuan Agong, upon the\n\nrecommendation of the Armed Forces Council, shall enter service as an officer in the\n\nMalaysian Army, the Royal Malaysian Navy or the Royal Malaysian Air Force, as the case\n\nmay be.\n\n(2) A commission granted to an officer shall be made in the form of\n\nCommissioning Credentials in accordance with Perintah Majlis Angkatan Tentera.\n\n(3) An officer may be permitted to—\n\n(a) hold a regular commission and shall serve for an indefinite period\n\nof service; or\n\n(b) hold a short service commission and shall serve for a specified\n\nperiod of service,\n\nin the General Duty List, Professional Duty List or Special Duty List, as determined by\n\nthe competent authority.\n\nExtension of service of a short service commissioned officer\n\n39. (1) The period of commission for a short service commissioned officer shall\n\nbe in accordance with Perintah Majlis Angkatan Tentera.\n\n(2) A short service commissioned officer may apply, before the completion of\n\nhis prescribed period of service, to extend his service in the regular forces.\n\n(3) The period of service for a short service commissioned officer who makes\n\nan application under subregulation (2) may be extended by the Yang di-Pertuan Agong\n\non the recommendation of the Armed Forces Council if deemed reasonable and\n\nbeneficial to the regular forces.\n\nChange of commission\n\n40. (1) A short service commissioned officer may, before the completion of his\n\nprescribed period of service, apply through his Service Chief to change his commission\n\nto a regular commission.\n\n(2) The Yang di-Pertuan Agong may, on the recommendation of the Armed\n\nForces Council, grant a regular commission to a short service commissioned officer who\n\napplies under subregulation (1), effective from a current date.\n\nCancellation of commission\n\n41. (1) The Yang di-Pertuan Agong may, on the recommendation of the Armed\n\nForces Council, cancel the commission of any officer without assigning any reason\n\ntherefor.\n\n(2) Any officer whose commission has been cancelled under section 9 of the\n\nAct shall be retired from the service of the regular forces in accordance with\n\nregulation 42.\n\nRetirement of officer\n\n42. (1) Except as otherwise required by the Yang di-Pertuan Agong, an officer\n\nshall retire from service in the regular forces upon attaining the compulsory age of\n\nretirement prescribed for his rank as specified in the Third Schedule.\n\n(2) The Yang di-Pertuan Agong may require an officer to be retired from\n\nservice in the regular forces—\n\n(a) upon or after he has attained the optional age of retirement\n\nprescribed for his rank as specified in the Fourth Schedule;\n\n(b) in special circumstances, if he is of the rank of Brigadier General or\n\nabove although he has not attained the compulsory age of\n\nretirement as specified in subregulation (1) or the optional age of\n\nretirement as specified in paragraph (a);\n\n(c) on medical grounds if he has been certified by a Medical Board as\n\nunfit and incapable of discharging his duties by reason of infirmity\n\nof mind or body which may likely be permanent, whether\n\nconnected with duty during his service or otherwise;\n\n(d) if there is no suitable post or prospect of promotion or the officer\n\nis overwhelmed due to unsuitability or inefficiency beyond his\n\ncontrol;\n\n(e) due to his inefficiency or any other reasons within his own control\n\nbut not tantamount to a misconduct;\n\n(f) in the interest of the service, when he is charged for an offence\n\nwhich does not result in his conviction;\n\n(g) due to a misconduct;\n\n(h) at any time, if in the opinion of the Yang di-Pertuan Agong the\n\ncircumstances of the case so requires; or\n\n(i) upon him being appointed, with the approval of the Armed Forces\n\nCouncil, to serve in any organisation in which the Government or\n\nany State Government has an interest.\n\n(3) The Yang di-Pertuan Agong may, on the application of a regular\n\ncommissioned officer, allow such officer to retire upon or after the officer has attained\n\nthe prescribed optional retirement age.\n\n(4) The retirement under this regulation shall be in accord for the purpose of\n\ndetermining the grant of pension, gratuity and other benefits as provided in the\n\nregulations made under section 187 of the Act.\n\nTermination of service of a short service commissioned officer\n\n43. (1) The service of a short commissioned officer shall be terminated—\n\n(a) upon the completion of his prescribed period of service; or\n\n(b) if the short service commission period is extended, upon the\n\ncompletion of the extended period of service.\n\n(2) The Yang di-Pertuan Agong may terminate the service of a short service\n\ncommissioned officer—\n\n(a) if he is unfit;\n\n(b) if he is inefficient for reasons beyond his control;\n\n(c) if he is certified by a Medical Board as incapable of discharging his\n\nduties by reason of infirmity of mind or body which may likely be\n\npermanent, whether due to his service or otherwise;\n\n(d) upon attaining the compulsory age of retirement appropriate to his\n\nrank as specified in regulation 42(1);\n\n(e) due to a misconduct ; or\n\n(f) for inefficiency or other causes within his own control but not\n\namounting to misconduct.\n\n(3) The termination under this regulation shall be in accord for the purpose\n\nof determining the grant of pension, gratuity and other benefits as provided in the\n\nregulations made under section 187 of the Act.\n\nCovering of duties\n\n44. (1) The Service Chief may, if he thinks fit, confer authority to an officer to\n\ncover the duties of another officer holding an equivalent rank or a higher rank than the\n\nformer substantive rank as determined by the competent authority in accordance with\n\nthe regulations made under section 157 of the Act.\n\n(2) The procedures and any other matters relating to the covering of duties\n\nshall be in accordance with Perintah Majlis Angkatan Tentera.\n\nActing appointment\n\n45. (1) The competent authority may, if necessary, confer authority to any officer\n\nto fill an appointment which carries with it a higher rank as determined by the\n\ncompetent authority in accordance with the regulations made under section 157 of the\n\nAct.\n\n(2) The period of conferment of authority for filling an appointment which\n\ncarries with it a higher rank shall be reckoned for the purposes of promotion.\n\n(3) The procedures and any other matters relating to the acting appointment\n\nshall be in accordance with Perintah Majlis Angkatan Tentera.\n\nActing rank\n\n46. (1) The competent authority may, if necessary, confer authority to any officer\n\nto act in an appointment which carries with it a rank higher than the substantive rank.\n\n(2) The procedures and any others matter relating to the acting rank shall be\n\nin accordance with Perintah Majlis Angkatan Tentera.\n\nReversion to substantive rank\n\n47. An officer holding an acting rank may be reverted to the substantive rank as\n\ndirected by the competent authority or the Yang di-Pertuan Agong, as the case may be,\n\nin the circumstances provided in Perintah Majlis Angkatan Tentera.\n\nPromotion\n\n48. For the purpose of section 12 of the Act, the qualifications and criteria for the\n\npromotion of an officer shall be in accordance with Perintah Majlis Angkatan Tentera.\n\nEligibility for batman\n\n49. (1) The service of a batman shall be made available as follows:\n\n(a) three batmen for the Chief of Armed Forces;\n\n(b) two batmen for each person in the case of the Chief of the Army,\n\nthe Chief of the Navy and the Chief of the Air Force;\n\n(c) one batman for each person in the case of a Brigadier General and\n\nabove; and\n\n(d) one batman for each person in the case of any officer holding a\n\ncommanding officer appointment.\n\n(2) For the purpose of this regulation, \"a batman\" means a serviceman who\n\nshall be responsible to manage the needs of an officer as specified in subregulation (1)\n\nbased on the duties determined by the competent authority, and who shall not be\n\ndeemed as a personal servant.\n\nPART IV\n\nSERVICEMEN\n\nEnlistment of apprentice member\n\n50. (1) A person who is below the age of eighteen years may be enlisted as an\n\napprentice member.\n\n(2) The initial period of service of an apprentice member shall be reckoned\n\nupon him attaining the age of eighteen years.\n\n(3) The terms and conditions of service for an apprentice member shall be in\n\naccordance with Perintah Majlis Angkatan Tentera.\n\nBasic training\n\n51. A serviceman shall, after being enlisted, undergo basic recruit training for a\n\nperiod of six months or any other period of basic service as determined by the\n\ncompetent authority.\n\nPeriod of service\n\n52. (1) The period of full-time service of a serviceman in the regular forces shall\n\ncommence from the date of his attestation or when he attains the age of eighteen years,\n\nwhichever is the earlier, and such period of service shall be reckoned for the purpose of\n\npromotion and seniority of such serviceman.\n\n(2) A serviceman who enters into the service of the regular forces on or after\n\nthe appointed date shall serve—\n\n(a) full-time for a period of twelve years;\n\n(b) if the period of service is extended, for the extended period as\n\ndetermined by the competent authority; and\n\n(c) for a period of five years in the reserve, provided that his age does\n\nnot exceed fifty-five years.\n\nExtension of service\n\n53. (1) A serviceman enlisted in the regular forces may, six months before the\n\nexpiry of the period of full-time service, apply to the competent authority to extend his\n\nfull-time service—\n\n(a) from the period of twelve years to fifteen years, and if he has not\n\nattained the age of fifty years, serve for a period of five years in the\n\nreserve;\n\n(b) to cover the period of his resettlement course which he may enroll\n\nfor if he has not attained the retirement age of fifty-five years; or\n\n(c) to complete his period of full-time service to include any period of\n\nservice which cannot be reckoned on a particular ground, provided\n\nthat he has not attained the retirement age of fifty-five years.\n\n(2) A serviceman enlisted in the regular forces may, at least six months before\n\nthe expiry of his full-time service, apply to the competent authority to extend the service\n\nof such serviceman for—\n\n(a) re-engagement for the period of full-time service extended for\n\nhim;\n\n(b) completing his continuous period of full-time service for twenty\n\none years; or\n\n(c) enabling him to continue to serve as if his period of full-time\n\nservice has not expired.\n\n(3) The competent authority for the purpose of subregulations (1) and (2) are\n\nas follows:\n\n(a) the Armed Forces Council, in respect of the extension of\n\ncontinuous full-time service of a serviceman who has attained the\n\nage of fifty years but has not attained the retirement age of fiftyfive years;\n\n(b) the Service Chief, in respect of the extension of continuous\n\nfull-time service for twenty-one years;\n\n(c) the Assistant Chief of Staff of the Member's Service, in respect of\n\nthe extension of continuous full-time service exceeding\n\ntwenty-one years, provided that the serviceman has not attained\n\nthe retirement age of fifty-five years.\n\n(4) Notwithstanding the provisions in these Regulations, no serviceman may\n\nextend his period of full-time service or be permitted for re-engagement if the effect of\n\nsuch extension or re-engagement requires him to serve after attaining the age of fiftyfive years.\n\n(5) The rules and procedures relating to the extension of service and reengagement shall be in accordance with Perintah Majlis Angkatan Tentera.\n\nRetention in service\n\n54. (1) Notwithstanding any provisions in these Regulations, a serviceman may\n\nbe retained in the service of the regular forces exceeding his period of full-time service\n\nfor a term not exceeding twelve months.\n\n(2) The Service Chief shall specify the actual period of such retention and\n\nthereafter such serviceman shall be transferred to the reserve in accordance with\n\nsection 27 of the Act.\n\nTraining as an officer cadet\n\n55. (1) A serviceman may be selected by a Selection Board to undergo training as\n\nan officer cadet and he shall comply with any conditions determined for such purpose\n\nby the competent authority in accordance with Perintah Majlis Angkatan Tentera.\n\n(2) Any serviceman who fails in his training as an officer cadet shall—\n\n(a) be reverted on duty as a serviceman and be granted the rank and\n\nseniority previously held by him before undergoing the training as\n\nofficer cadet; and\n\n(b) complete the period of service prescribed for him upon his\n\nenlistment.\n\nPromotion\n\n56. (1) The competent authority may promote any serviceman to a higher rank to\n\nfill any vacancy in the regular forces.\n\n(2) The promotion shall be from a substantive rank to the next higher rank,\n\nunless decided otherwise by the respective Service Chief.\n\n(3) The promotion of a serviceman may take effect retrospectively\n\ncommencing from the date he was authorized to act in such higher rank pursuant to\n\nregulation 58.\n\n(4) The qualifications and criteria for promotion of a serviceman shall be in\n\naccordance with Perintah Majlis Angkatan Tentera.\n\n(5) A serviceman may, without being required to act in any duties of the\n\nhigher rank as provided under regulation 58, be appointed to the rank of a lance\n\ncorporal by a commanding officer with the approval of the Service Chief.\n\nCovering of duties\n\n57. (1) The Service Chief of a serviceman may, if he thinks necessary, confer\n\nauthority to a serviceman to perform the duties of another serviceman holding an\n\nequivalent rank, or a rank higher than the rank of such serviceman, and as determined\n\nby the competent authority in accordance with the regulations made under section 157\n\nof the Act.\n\n(2) The period of covering of duties of another serviceman shall not be\n\nreckoned for the purposes of promotion.\n\n(3) The procedures and any other matters relating to such covering of duties\n\nshall be in accordance with Perintah Majlis Angkatan Tentera.\n\nActing rank\n\n58. (1) The competent authority may, if necessary, confer authority to any\n\nserviceman to act in an appointment which carries with it a rank higher than a\n\nsubstantive rank.\n\n(2) The procedures and any other matters relating to an acting rank shall be\n\nin accordance with Perintah Majlis Angkatan Tentera.\n\nReversion to substantive rank\n\n59. A serviceman holding an acting rank may be reverted to his substantive rank as\n\ndirected by the competent authority in the circumstances provided in Perintah Majlis\n\nAngkatan Tentera.\n\nReduction in rank\n\n60. Subject to section 184 of the Act, a serviceman may be reduced in rank from the\n\nsubstantive rank currently held by him to a lower rank as the competent authority\n\nthinks fit.\n\nDischarge from service\n\n61. (1) The competent authority may, at any time, discharge any serviceman\n\nfrom the service of the regular forces on the following grounds:\n\n(a) in the case of a recruit, he is unlikely to become an efficient\n\nserviceman;\n\n(b) in the case of a recruit, upon him applying to purchase his\n\ndischarge pursuant to section 31 of the Act;\n\n(c) the enlistment of the serviceman is not approved;\n\n(d) the enlistment of the serviceman was not properly made;\n\n(e) the particulars written in the attestation paper during the\n\nenlistment of such serviceman are false;\n\n(f) mercy;\n\n(g) the state of health of such serviceman is lower than the medical\n\nstandards as determined under regulation 11;\n\n(h) the lack of a suitable post or the absence of prospects for\n\npromotion or career development for the serviceman in the\n\nregular forces or the abolition of any post in the regular forces;\n\n(i) unfitness or inefficiency of such serviceman which is not\n\ntantamount to a misconduct;\n\n(j) misconduct committed by the serviceman and he has been\n\nconvicted;\n\n(k) the serviceman has been sentenced to a discharge or discharge\n\nwith disgrace by court-martial;\n\n(l) renunciation or loss of Malaysian citizenship;\n\n(m) the service of the serviceman is no longer required;\n\n(n) in the interest of the service;\n\n(o) with the approval of the Armed Forces Council, upon the\n\nserviceman being appointed to serve in any organisation in which\n\nthe Government or any State Government has an interest;\n\n(p) the serviceman is found to be involved in political activities as\n\nprohibited in Perintah Majlis Angkatan Tentera;\n\n(q) the serviceman has completed his period of full-time service in the\n\nregular forces;\n\n(r) the serviceman has been granted a commission as an officer; or\n\n(s) in the opinion of the competent authority, a particular\n\ncircumstance requires so.\n\n(2) Notwithstanding any provisions in these Regulations, a warrant officer\n\nwho has been reduced to a lower rank may apply to be discharged from the service of\n\nthe regular forces and the competent authority, after considering his application, may\n\ndischarge such warrant officer pursuant to section 32 of the Act.\n\n(3) The discharge under this regulation shall be in accord for the purpose of\n\ndetermining the grant of pension, gratuity and other benefits as provided in the\n\nregulations made under section 187 of the Act.\n\nPART V\n\nOFFICERS CADET\n\nAppointment\n\n62. (1) A person who is a Malaysian citizen may be appointed as officer cadet by\n\nthe Armed Forces Council.\n\n(2) A person who is below the age of seventeen and a half years shall not be\n\nappointed as an officer cadet without the written consent of his parents or guardian.\n\nCancellation of appointment\n\n63. (1) The Armed Forces Council may, at any time without assigning any reasons\n\ntherefor, cancel the appointment of any officer cadet, and the cancellation shall take\n\neffect on the date determined by the Armed Forces Council.\n\n(2) An officer cadet whose appointment has been cancelled under\n\nsubregulation (1) shall be discharged on the date determined by the Armed Forces\n\nCouncil.\n\n(3) A serviceman who has been selected as an officer cadet under\n\nsubregulation 55(1) whose appointment has been cancelled under subregulation (1),\n\nshall be reverted to his previous appointment as a serviceman.\n\nDischarge\n\n64. An officer cadet, other than a serviceman who has been appointed as an officer\n\ncadet—\n\n(a) before the expiration of a period of three months from the date of his\n\nappointment, may apply to the competent authority to purchase his\n\ndischarge in accordance with section 10A of the Act; or\n\n(b) after the expiration of a period of three months from the date of\n\nappointment, may apply to the competent authority for discharge in\n\naccordance with Perintah Majlis Angkatan Tentera.\n\nFailure in course in higher education institution\n\n65. (1) An officer cadet who fails in his course in any institution of higher\n\neducation shall have his appointment as an officer cadet cancelled and be discharged\n\nfrom the service of the regular forces, and the competent authority shall be entitled to\n\nclaim for compensation from the officer cadet.\n\n(2) An officer cadet who—\n\n(a) is following a course in an institution of higher education;\n\n(b) fails in one academic year; and\n\n(c) is allowed by the relevant institutional authority, with the consent\n\nof the competent authority, to repeat his course,\n\nshall lose his seniority in the regular forces, reckoning the date of his commission as an\n\nofficer for the period of repetition.\n\nApplication of certain provisions in Part II\n\n66. Regulations 5, 6, 7, 8, 9, 10, 11, 12, 22, 24, 25, 27, 30 and 32 in Part II of these\n\nRegulations shall apply mutatis mutandis to an officer cadet.\n\nPART VI\n\nMISCELLANEOUS\n\nPerintah Majlis Angkatan Tentera\n\n67. Any Perintah Majlis Angkatan Tentera issued before the commencement of these\n\nRegulations is valid and shall—\n\n(a) be deemed to have been issued under these Regulations; and\n\n(b) remain in force for the specified purpose thereof until expressly revoked.\n\nApplication and reference to Queen's Regulations for the Royal Navy (QRRN)\n\n68. The application and reference to the Queen's Regulations for the Royal Navy\n\n(QRRN) (Terms of Service) 1957 to the Royal Malaysian Navy which was approved by\n\nthe competent authority shall cease on the coming into operation of these Regulations.\n\nRevocation and transitional\n\n69. (1) The following regulations are revoked:\n\n(a) the Malay Regiment Regulations 1933 [G.N. 7425/1933];\n\n(b) the Malay Regiment (Enlistment, Extension of Service and\n\nRe-Engagement) Regulations 1960 [L.N. 119/1960];\n\n(c) The Army and Air Force (Terms of Service) Regulations 1961\n\n[L.N. 363/1961];\n\n(d) The Air Force (Enlistment, Extension of Service and\n\nRe-Engagement) Regulations 1962 [L.N. 24/1962]; and\n\n(e) the Navy (Enlistment, Extension of Service and Re-Engagement)\n\nRegulations 1962 [L.N. 23/1962].\n\n(2) Notwithstanding anything contained in subregulation (1), all orders or\n\nother cause papers made or adopted under the revoked regulations, in so far as they are\n\nnot inconsistent with these Regulations shall remain in force until expressly revoked.\n\nFIRST SCHEDULE\n\n[regulation 4 and subregulation 14(1)]\n\nRANKS IN THE REGULAR FORCES\n\nOFFICERS\n\nMALAYSIAN ARMY MALAYSIAN ROYAL NAVY\n\n(RMN)\n\nMALAYSIAN ROYAL AIR FORCE\n\n(RMAF)\n\n1. Commissioned Officers\n\nField Marshall Admiral of the Fleet Marshall of the Air Force\n\nGeneral Admiral General RMAF\n\nLieutenant General Vice Admiral Lieutenant General RMAF\n\nMajor General Rear Admiral Major General RMAF\n\nBrigadier General First Admiral Brigadier General RMAF\n\nColonel Captain RMN Colonel RMAF\n\nLieutenant Colonel Commander RMN Lieutenant Colonel RMAF\n\nMajor Lieutenant Commander RMN Major RMAF\n\nCaptain Lieutenant RMN Captain RMAF\n\nLieutenant Sub Lieutenant RMN Lieutenant RMAF\n\nSecond Lieutenant Acting Sub Lieutenant RMN Second Lieutenant RMAF\n\n2. Appointed Officers\n\n - Midshipmen -\n\nOfficer Cadet Officer Cadet Officer Cadet\n\nSERVICEMEN\n\n3. Warrant Officers\n\nWarrant Officer I Warrant Officer I Warrant Officer I\n\nWarrant Officer II Warrant Officer II Warrant Officer II\n\n4. Non-Commissioned Officers\n\nStaff Sergeant Chief Petty Officer Flight Sergeant\n\nSergeant Petty Officer Air Sergeant\n\nCorporal Leading Rate Corporal\n\n5. Other Ranks\n\nLance Corporal Able Seaman Class I Senior Aircraftsman\n\n - - Aircraftsman I\n\nPrivate Able Seaman Class II Aircraftsman II\n\nRecruit Recruit Recruit\n\nSECOND SCHEDULE\n\n [subregulation 13(3)]\n\n ATTESTATION PAPER\n\n ATTESTATION PAPER\n\n(Becoming a member of the Armed Forces of Malaysia)\n\n1. CIVIL IDENTITY CARD NO. 2. ARMY\n\nNO.\n\n QUESTIONS TO BE ANSWERED\n\nWarning:\n\nIf the Armed Forces of Malaysia find that the answers provided in this form are false, and were made in full awareness\n\nor intentionally, the Armed Forces of Malaysia has the authority, at any time, to take legal action against you.\n\n3. FULL NAME (IN CAPITAL LETTERS))\n\n4. OTHER NAME (IF ANY)\n\n5. DATE OF BIRTH 6. ADDRESS OF PLACE OF BIRTH\n\n7. POSTCODE 8. TOWN\n\n9. BIRTH\n\nCERTIFICATE NO.\n\n10. CITIZENSHIP\n\nCERTIFICATE NO.\n\n11. RACE\n\nCODE\n\n12. RELIGION\n\nCODE\n\n13. SEX CODE 14. STATE\n\nCODE\n\nPhoto\n\nBAT D 87\n\n (Amendment 1/2011)\n\n15.*PREVIOUS SERVICE 16. PERIOD 17. ACADEMIC QUALIFICATION\n\nFROM UNTIL PMR YEAR\n\nPRIVATE SPM/SPMV YEAR\n\nGOVERNMENT STPM YEAR\n\nARMY/RMP DIPLOMA YEAR\n\nDEGREE YEAR\n\n18. MARITAL STATUS\n\nCODE\n\n19.DATE OF\n\nMARRIAGE\n\n20.FULL NAME OF THE WIFE/HUSBAND\n\n21. IDENTITY CARD\n\nNO.\n\n- -\n\nARMY/POLICE\n\nIDENTITY CARD NO.\n\n22.FULL NAME OF THE FATHER\n\n23. IDENTITY CARD\n\nNO.\n\n- -\n\nARMY/POLICE\n\nIDENTITY CARD NO.\n\n24.FULL NAME OF THE MOTHER\n\n25. IDENTITY CARD\n\nNO.\n\n- -\n\nARMY/POLICE\n\nIDENTITY CARD NO.\n\n26. Have you ever been convicted by any Court for a criminal offence (if any)?\n\na. Offence:\n\nb. Sentence:\n\n27. Have you ever been involved in drug abuse activities/distribution/the taking of illegal drugs?\n\n28. (a) Have you ever served in the Armed Forces of Malaysia (AFM)? YES/NO\n\n (b) Are you willing to serve in accordance with the terms of service of the AFM? WILLING/NOT WILLING\n\n29. Would you be willing to serve anywhere when ordered?\n\n30. Have you or your family members ever received treatment for mental illness? Yes No If Yes, who? You\n\nParents Siblings\n\n DECLARATION TO BE MADE ON ATTESTATION\n\nWhereas I ...............................................................................................................................................................................................................\n\nIdentity Card No. ...................................................................................... , do solemnly declare that the above answers made by me\n\nto the above questions are true and that I am willing to fulfill the engagement above made and I made this declaration\n\nwith the belief that anything contained therein is true and understand each question asked in the attestation paper and\n\nam willing to be enlisted as a member of the armed forces in accordance with the Armed Forces Act 1972.\n\nTERM OF SERVICE\n\nYour term of service is as follows:\n\na. Regular Commission.\n\nb. Short Service Commission for.......................years.\n\nc. ...............years of full time service and ....................years in the reserve service.\n\nd. ...............years of full time service.\n\nOATH TO BE TAKEN BY A MEMBER ON ATTESTATION\n\nI ................................................................................................................................................................................................................Identity Card\n\nNo.: ...................................................................... hereby declare and agree that I will be faithful and bear true allegiance to DYMM\n\nSeri Paduka Baginda Yang di-Pertuan Agong and to the Country and that I will as in duty bound honestly and faithfully\n\ndefend DYMM Seri Paduka Baginda Yang di-Pertuan Agong and the Country, against all enemies, and I will observe and\n\nobey all the orders of DYMM Seri Paduka Baginda Yang di-Pertuan Agong and the orders set upon me and I am willing\n\nto serve in accordance with the terms of service of the Armed Forces of Malaysia and willing to serve outside Malaysia,\n\nif so ordered.\n\nDate:.........................................................................\n\n .......................................................................................\n\n Signature of the Member\n\nMade and solemnly declared by the abovenamed....................................................................................................at\n\n.................................................................................................. in the\n\nState of........................................................................................ on\n\nthis...........................day of...........................20.......................\n\nBefore me,\n\n...................................................................\n\nSignature of Magistrate/Recruiting Officer\n\n..................................................................\n\n Signature of the Member\n\nCERTIFICATION BY THE APPROVING OFFICER\n\n(To be completed by the Department of Order Record and Pension)\n\nI hereby certify that the attestation of the above-mentioned member is true and duly completed. Therefore, I approve\n\nand certify the enlistment of this member, subject to the terms of service now in force.\n\nDate: ......................................................................... .......................................................................................\n\n Signature of the Approving Officer\n\nPlace: ......................................................................... ………………………………………………………….\n\n Rank and Full Name\n\n*Write whichever is applicable\n\nTHIRD SCHEDULE\n\n[subregulation 42(1)]\n\nCOMPULSORY AGE OF RETIREMENT\n\nRANK AGE\n\nMale Female\n\n(a) General/Special Duty List\n\nColonel and above 60 years 60 years\n\nLieutenant Colonel 57 years 57 years\n\nMajor 55 years 55 years\n\nCaptain 52 years 52 years\n\nLieutenant and Second\n\nLieutenant\n\n50 years 50 years\n\n(b) Professional Duty List\n\nAll ranks 60 years 60 years\n\nFOURTH SCHEDULE\n\n[Subregulation 42(2)]\n\nOPTIONAL AGE OF RETIREMENT\n\nMade 12 June 2013\n\n[KP/UNDG/013/179.Jil. 7; PN(PU2)140/XIII]\n\n DATO' SRI DR. HAJI ISMAIL BIN HAJI AHMAD\n\n Secretary of the Armed Forces Council\n\nRANK AGE\n\nMale Female\n\n(a) General/Special Duty List\n\nColonel and above 50 years 45 years\n\nLieutenant Colonel 47 years 45 years\n\nMajor 45 years 45 years\n\nCaptain and below 40 years 40 years\n\n(b) Professional Duty List\n\nAll ranks 50 years 45 years"
+   }
+  }
+ ]
+}

@@ -1,0 +1,492 @@
+{
+ "id": "ID-H082",
+ "title": {
+  "zh": "最高法院组织、职权与审判程序法",
+  "en": "Law on the Organisation, Powers and Judicial Procedure of the Supreme Court",
+  "id": "SUSUNAN, KEKUASAAN DAN JALAN-PENGADILAN MAHKAMAH AGUNG",
+  "orig": "SUSUNAN, KEKUASAAN DAN JALAN-PENGADILAN MAHKAMAH AGUNG",
+  "vi": "Luật về Tổ chức, Thẩm quyền và Trình tự Xét xử của Tòa án Tối cao",
+  "th": "พระราชบัญญัติว่าด้วยโครงสร้าง อำนาจ และวิธีพิจารณาของศาลฎีกา",
+  "ms": "Akta tentang Susunan, Kuasa dan Tatacara Kehakiman Mahkamah Agung"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02a",
+ "language": "id",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "1950",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU1-1950",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 32,
+ "chars": 62564,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": null
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\01_宪法与基础法\\印尼_WLD_1950_SUSUNAN, KEKUASAAN DAN JALAN-PENGADILAN MAHKAMAH AGUNG.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 156 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H082-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\n1. Mahkamah Agung Indonesia berkedudukan di\nIbukota Republik Indonesia Serikat atau di lain tempat yang\nditetapkan oleh Presiden.\n2. Mahkamah Agung Indonesia melaksanakan peradilan atas nama\nKeadilan."
+   }
+  },
+  {
+   "id": "ID-H082-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\n1. Mahkamah Agung Indonesia terdiri atas seorang\nKetua, sekurang-kurangnya seorang wakil Ketua dan\nsekurang-kurangnya empat orang\nanggota (Hakim-Agung), dibantu oleh\nseorang Panitera dan beberapa orang panitera-pengganti.\n2. Jika pada suatu waktu Mahkamah Agung kekurangan\nanggota untuk menjalankan suatu pekerjaan, maka Panitera dapat\nmelakukan pekerjaan\nanggota.\n3. Pada Mahkamah Agung adalah seorang Jaksa Agung\ndan dua orang Jaksa Agung-Muda."
+   }
+  },
+  {
+   "id": "ID-H082-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\n1. Mahkamah Agung memutus dengan tiga orang Hakim.\n2. Mahkamah Agung bersidang di tempat kedudukannya.\n3. Para Hakim dan Panitera Mahkamah Agung harus\nberdiam di kota tempat kedudukan Mahkamah Agung.\n4. Jika keadaan memaksa, Ketua Mahkamah Agung\ndapat menetapkan peraturan yang menyimpang dari yang termuat dalam\nayat (2) dan (3)."
+   }
+  },
+  {
+   "id": "ID-H082-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\nUntuk dapat menjadi Hakim Mahkamah Agung, Panitera Mahkamah Agung\ndan Jaksa Agung orang harus mempunyai ijazah penghabisan dari\nPerguruan\nTinggi bagian hukum, kecuali jika Presiden memberi\ndispensasi."
+   }
+  },
+  {
+   "id": "ID-H082-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\nHakim, Panitera dan Jaksa Agung harus seorang warga-negara\nIndonesia."
+   }
+  },
+  {
+   "id": "ID-H082-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\n1. Ketua, Wakil-Ketua dan anggota-anggota Mahkamah\nAgung diangkat oleh Presiden atas anjuran Dewan Perwakilan Rakyat\ndari sekurang-kurangnya\ndua calon bagi tiap-tiap pengangkatan\n(lowongan).\nPanitera dan Panitera pangganti Mahkamah Agung\ndiangkat oleh Presiden.\n2. Jaksa Agung dan Jaksa Agung Muda diangkat oleh Presiden.\n3. Para Hakim yang disebut dalam pasal ini,\nsebelum mulai menjalankan kewajiban dalam jabatannya, harus\nbersumpah atau menyatakan\nkesanggupan menurut cara agamanya sebagai\nberikut:\n\"Saya bersumpah (berjanji) bahwa saya akan setia\nkepada Negara dan kepada Konstitusi Negara Republik Indonesia\nSerikat;\n\"bahwa sesungguhnya saya tidak, baik dengan langsung, maupun tidak\nlangsung, dengan menggunakan nama atau cara apapun juga, untuk\nmemperoleh jabatan saya, telah atau akan memberi atau menjanjikan\nbarang sesuatu kepada barang-siapapun juga;\n\"bahwa saya tidak akan menerima pemberian atau hadiah dari orang,\nyang saya ketahui atau sangka, empunya atau akan empunya perkara,\nyang mungkin akan mengenai penglaksanaan jabatan saya;\n\"bahwa selanjutnya saya akan menjalankan jabatan saya dengan jujur,\nsaksama dan tidak berat-sebelah, dengan tidak membedabedakan\norang\ndan akan berlaku dalam menglaksanakan kewajiban saya, seperti\nselayaknya bagi seorang hakim (pegawai kehakiman) yang berbudi\nbaik\ndan jujur\".\nSumpah atau kesanggupan ini dilakukan oleh Ketua dan Wakil Ketua di\nhadapan Presiden; oleh anggota, Panitera dan Panitera-pangganti\nMahkamah Agung di hadapan Ketua Mahkamah Agung."
+   }
+  },
+  {
+   "id": "ID-H082-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\n1. Kekeluargaan karena kelahiran dan kekeluargaan\nkarena perkawinan sampai ketingkat ketiga tidak boleh bersama-sama\nmenjadi Hakim\ndan/atau Panitera Mahkamah Agung.\n2. Jika kekeluargaan karena perkawinan yang\ntermaksud dalam ayat 1 terjadi sesudah mereka menjabat hakim\ndan/atau Panitera Mahkamah\nAgung, maka salah seorang yang\nbersangkutan diberhentikan dari jabatannya, kecuali jika Presiden\nmengizinkan tetap pada jabatan mereka."
+   }
+  },
+  {
+   "id": "ID-H082-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\nPara Hakim, Panitera dan Panitera-pengganti Mahkamah Agung, Jaksa\nAgung dan para Jaksa Agung Muda dilarang memberi nasehat atau\npertolongan\nyang bersifat memihak kepada yang berkepentingan dalam\nperkara yang sedang diperiksa atau dapat dikirakirakan akan\ndiperiksa di muka\nMahkamah Agung."
+   }
+  },
+  {
+   "id": "ID-H082-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n1. Para Hakim Mahkamah Agung diberhentikan dengan\nhormat dari jabatannya oleh Presiden:\nke 1. apabila mereka ternyata tidak cakap, karena\nsakit rohani atau jasmani yang terus-menerus atau karena kekurangan\nkekuatan sebab\ntinggi usia;\nke 2. apabila mereka telah berumur 60 tahun, kecuali jika Presiden\nmemberi dispensasi untuk kepentingan Negara.\n2. Selain dari dengan alasan-alasan tersebut\nmereka hanya dapat diberhentikan dari jabatannya atas permintaan\nsendiri."
+   }
+  },
+  {
+   "id": "ID-H082-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\n1. Para Hakim Mahkamah Agung dapat dipecat:\nke 1. apabila mereka dihukum penjara, tutupan\natau kurungan karena menjalankan kejahatan;\nke 2. apabila mereka jatuh pailit atau dimasukkan penjara karena\ntidak membayar hutangnya;\nke 3. karena kelakuan tidak baik atau tidak sopan atau selalu alpa\ndalam jabatannya;\nke 4. apabila mereka melanggar larangan tersebut dalam pasal 8\nUndang-undang ini.\n2. Pemecatan ini dilakukan setelah yang\nbersangkutan diberi kesempatan untuk membela diri."
+   }
+  },
+  {
+   "id": "ID-H082-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\n1. Apabila terhadap para Hakim Mahkamah Agung ada\nperintah untuk ditangkap, atau untuk di tempatkan dalam rumah sakit\njiwa, atau untuk\nditahan dalam penjara oleh karena tidak membayar\nhutang, maka dengan sendirinya mereka diberhentikan dari jabatannya\nuntuk sementara\nwaktu.\n2. Apabila mereka dituntut di muka Hakim dalam\nperkara pidana tidak dengan ditangkap, atau apabila dan hal-hal\npenting yang mungkin\nberakibat pemberhentian dalam jabatannya,\nmereka dapat diberhentikan untuk sementara waktu.\nBAB II.\nKEKUASAAN MAHKAMAH AGUNG.\nBagian 1.\nPengawasan tertinggi atas berjalannya peradilan."
+   }
+  },
+  {
+   "id": "ID-H082-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB II. / Bagian 1."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n1. Mahkamah Agung Indonesia melakukan pengawasan\ntertinggi atas pengadilan-pengadilan federal, atas\npengadilan-pengadilan tertinggi\ndaerah-bagian dan - selama tidak\ndiadakan pengawasan tertinggi oleh suatu daerah bagian - juga atas\npengadilan-pengadilan lain daerah\nbagian itu.\n2. Mahkamah Agung menyelenggarakan akan berlakunya\nperadilan dengan saksama dan seyogya.\n3. Tingkah-laku perbuatan (pekerjaan)\npengadilan-pengadilan tersebut dan para Hakim di\npengadilan-pengadilan itu diawasi dengan cermat\noleh Mahkamah\nAgung. Guna kepentingan jawatan maka untuk itu Mahkamah Agung\nberhak memberi peringatan-peringatan, teguran dan petunjuk-petunjuk\nyang dipandang perlu dan berguna kepada pengadilan-pengadilan dan\npara Hakim tersebut, baik dengan surat tersendiri maupun dengan\nsurat edaran.\n4. Mahkamah Agung berkuasa meminta segala\nketerangan, pertimbangan dan nasehat dari segenap pengadilan, juga\ndari pengadilan tentara,\ndan dari para Hakim, begitu pula dari\nJaksa Agung dan dari para pegawai lainnya yang diserahi penuntutan\nperkara pidana. Guna ini\nMahkamah Agung berhak pula memerintahkan\npenyerahan atau pengiriman surat-surat yang bersangkutan dengan\nperkara-perkara yang akan\ndipertimbangkan."
+   }
+  },
+  {
+   "id": "ID-H082-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB II. / Bagian 1."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\nJika keadaan memaksa, maka Mahkamah Agung dapat menetapkan haknya\nuntuk sesuatu atau beberapa daerah pengawasan yang termaksud dalam\nPasal 12 supaya dijalankan oleh Pengadilan Tinggi masing-masing\nuntuk daerah hukum yang bersangkutan.\nBagian 2.\nKekuasaan mengadili."
+   }
+  },
+  {
+   "id": "ID-H082-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB II. / Bagian 2."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\nSelain daripada kekuasaan mengadili sebagai yang termuat dalam\nKonstitusi, maka Mahkamah Agung juga memutus pada tingkatan\nperadilan\npertama dan terakhir:\nI. semua perselisihan tentang kekuasaan mengadili:\nke 1. antara semua pengadilan yang tempat\nkedudukannya tidak sedaerah hukum sesuatu Pengadilan Tinggi;\nke 2. antara Pengadilan Tinggi dengan Pengadilan Tinggi;\nke 3. antara Pengadilan Tinggi dengan sesuatu pengadilan dalam\ndaerah hukumnya;\nke 4. antara pengadilan perkara hukuman perdata dan pengadilan\nperkara hukuman ketentaraan, kecuali perselisihan antara Mahkamah\nAgung sendiri dengan pengadilan perkara hukuman ketentaraan yang\ntertinggi; perselisihan ini diputus oleh Presiden.\nII. semua perselisihan yang ditimbulkan dari\nperampasan kapal, kapal udara dan muatannya oleh kapal perang,\ndengan berdasarkan atas\nperaturan yang berlaku pada hal itu."
+   }
+  },
+  {
+   "id": "ID-H082-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB II. / Bagian 2."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\nSelain daripada kekuasaan mengadili dalam tingkatan peradilan kedua\nsebagai yang termuat dalam Konstitusi, maka Mahkamah Agung juga\nmemutus pada tingkatan peradilan kedua atas putusan-putusan wasit\nyang ternyata mengenai nilai harga 25.000, - rupiah atau lebih."
+   }
+  },
+  {
+   "id": "ID-H082-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB II. / Bagian 2."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\nMahkamah Agung dapat melakukan kasasi, yaitu pembatalan atas\nputusan pengadilan-pengadilan lain dalam tingkatan peradilan yang\nterakhir\ndan penetapan dan perbuatan pengadilan-pengadilan lain dan\npara Hakim yang bertentangan dengan hukum, kecuali putusan\npengadilan\ndalam perkara. pidana yang mengandung pembebasan\nterdakwa dari segala tuntutan."
+   }
+  },
+  {
+   "id": "ID-H082-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB II. / Bagian 2."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\nKasasi dapat dilakukan atas permohonan pihak yang berkepentingan\natau atas permohonan Jaksa Agung karena jabatannya atau dalam hal\nyang dimaksudkan pada Pasal 158 ayat (3) Konstitusi juga atas\npermohonan Kepala Kejaksaan pada Pengadilan tertinggi dari daerah\nbagian,\ndengan pengertian bahwa kasasi atas permohonan pihak\nKejaksaan hanya semata-mata untuk kepentingan hukum dengan tidak\nmerugikan pihak-pihak\nyang berkepentingan."
+   }
+  },
+  {
+   "id": "ID-H082-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB II. / Bagian 2."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\nAlasan yang dapat dipakai untuk melakukan kasasi ialah\n1. apabila peraturan hukum tidak dilaksanakan atau\nada kesalahan pada melaksanakannya;\n2. apabila tidak dilaksanakan cara melakukan\nperadilan yang harus diturut menurut Undang-undang."
+   }
+  },
+  {
+   "id": "ID-H082-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB II. / Bagian 2."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\nPermohonan kasasi yang dimajukan oleh pihak yang berkepentingan\ntidak dapat diterima, jika mereka belum atau tidak mempergunakan\nhak melawan putusan pengadilan atau Hakim yang dijatuhkan di luar\nmereka hadir atau hak memohon ulangan pemeriksaan perkara oleh\npengadilan yang lebih tinggi."
+   }
+  },
+  {
+   "id": "ID-H082-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB II. / Bagian 2."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\nJika permohonan kasasi dikabulkan oleh Mahkamah Agung dengan\nalasan, bahwa pengadilan atau Hakim yang bersangkutan adalah tidak\nberkuasa\nmengadakan putusan penetapan atau perbuatan yang\nbersangkutan, maka Mahkamah Agung menyerahkan perkaranya kepada\npengadilan atau\nHakim yang berkuasa untuk diperiksa dan\ndiputuskan."
+   }
+  },
+  {
+   "id": "ID-H082-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB II. / Bagian 2."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\nJika permohonan kasasi dikabulkan oleh Mahkamah Agung dengan lain\nalasan dari yang termuat dalam pasal 20, maka Mahkamah Agung\nmemutus\nsendiri perkara itu.\nBAB III.\nJALAN-PENGADILAN DALAM PERKARA\nPERIHAL KETATANEGARAAN.\nBagian 1\nTentang perselisihan yang dimaksudkan\npada Pasal 48 dan Pasal 67 Konstitusi."
+   }
+  },
+  {
+   "id": "ID-H082-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB III. / Bagian 1"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\n1. Dalam hal-hal yang menurut Pasal-pasal 48 dan\n67 Konstitusi Republik Indonesia Serikat harus diputus oleh\nMahkamah Agung dalam\ntingkatan kesatu dan juga terakhir, maka\npemeriksaan perkara perihal ketatanegaraan itu dimulai dengan\nmemajukan surat permohonan\nkepada Mahkamah Agung yang antara lain\nmemuat hal-hal yang menjadi dasar permohonan hal-hal, supaya\ndiputuskan.\n2. Surat permohonan itu dimajukan untuk Pemerintah\nRepublik Indonesia Serikat oleh atau atas nama Jaksa Agung pada\nMahkamah Agung\nIndonesia; untuk Pemerintah daerah-bagian oleh\nKepala Kejaksaan pada Pengadilan tertinggi daerah-bagian itu dan\nuntuk Swapraja oleh\nPemerintah pusat daerah Swapraja yang\nbersangkutan atau oleh yang berhak mewakili Pemerintah itu menurut\nkuasa yang dilampirkan."
+   }
+  },
+  {
+   "id": "ID-H082-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB III. / Bagian 1"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\n1. Setelah surat permohonan oleh Panitera\ndituliskan dalam daftar perkara, maka atas perintah Ketua\ndikirimkan oleh Panitera sehelai\nturunan surat permohonan itu\nkepada pihak lawan, yang harus memberi jawaban dengan surat atas\nsurat permohonan itu kepada Mahkamah\nAgung; surat jawaban itu\nselambat-lambatnya satu bulan kemudian, terhitung dari menerimanya\nturunan surat permohonan, sudah diterima\ndalam kepaniteraan\nMahkamah Agung.\n2. Surat jawaban itu harus dimajukan dari pihak\nlawan oleh pejabat-pejabat, tersebut dalam Pasal 22 ayat (2)."
+   }
+  },
+  {
+   "id": "ID-H082-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB III. / Bagian 1"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 24\n1. Surat permohonan dan surat jawaban beserta\nsurat-surat lain yang mungkin dilampirkan kepadanya, disediakan\ndalam kepaniteraan Mahkamah\nAgung untuk dibaca oleh kedua belah\npihak dalam tempo yang ditetapkan oleh Ketua.\n2. Permulaan tempo ini diberitahukan atas perintah\nKetua oleh Panitera kepada kedua belah pihak.\n3. Dalam tempo tersebut dapat dimajukan oleh kedua\nbelah pihak penjelasan seperlunya dengan surat kepada Mahkamah\nAgung."
+   }
+  },
+  {
+   "id": "ID-H082-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB III. / Bagian 1"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\nTerserah kepada kebijaksanaan Mahkamah Agung apakah dan sampai di\nmanakah pemeriksaan perkara harus dilakukan secara mendengar kedua\nbelah pihak atau salah seorang dari mereka atau hanya secara\nmembaca surat-surat saja yang dimajukan oleh kedua belah pihak atau\nsalah seorang dari mereka."
+   }
+  },
+  {
+   "id": "ID-H082-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB III. / Bagian 1"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\nJika perlu membuktikan kebenaran sesuatu yang dimajukan oleh suatu\npihak, maka menetapkannya cara pembuktian dan kekuatan alat-alat\npembukti diserahkan kepada kebijaksanaan Mahkamah Agung."
+   }
+  },
+  {
+   "id": "ID-H082-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB III. / Bagian 1"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\nSebelum mengambil putusan, maka Mahkamah Agung dapat mendengarkan\nsiapapun juga dan dapat juga memerintahkan penyerahan surat-surat\nyang diperlukan oleh siapapun."
+   }
+  },
+  {
+   "id": "ID-H082-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB III. / Bagian 1"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\n1. Surat putusan ditanda tangani oleh para Hakim\nyang turut memutuskan dan oleh Panitera yang turut bersidang waktu\nputusan diumumkan.\n2. Turunan surat putusan ini dikirimkan oleh\nPanitera kepada kedua belah pihak."
+   }
+  },
+  {
+   "id": "ID-H082-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB III. / Bagian 1"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\n1. Apabila menurut Undang-undang suatu\ndaerah-bagian perselisihan, yang dimaksudkan dalam Pasal 67\nKonstitusi dalam tingkatan kesatu\nharus diputuskan oleh Pengadilan\ntertinggi dari daerah-bagian itu, maka oleh salah satu pihak dapat\ndimohonkan supaya pemeriksaan\nperkara diulangi oleh Mahkamah Agung\nIndonesia.\n2. Untuk itu maka pejabat yang bersangkutan\nsebagai yang tersebut dalam Pasal 22 ayat (2), harus memajukan\nkepada Mahkamah Agung suatu\nsuat permohonan, yang antara lain\nmemuat hal-hal yang menjadi dasar permohonan dan hal-hal yang\ndimohonkan supaya diputuskan.\n3. Surat permohonan ini harus disampaikan dalam\nwaktu satu bulan, terhitung dari hari pemberitahuan putusan dalam\ntingkatan pertama\nkepada pemohon, ke kepaniteraan pengadilan\ntertinggi daerah-bagian yang memutuskan dalam tingkatan pertama,\ndisertai dengan surat-surat\nyang dianggap perlu.\n4. Panitera pengadilan itu mengirimkan suatu\nturunan surat permohonan kepada pihak lawan, yang harus mengirimkan\nsurat jawaban kepada\nPanitera tersebut dalam waktu satu bulan\nsetelah menerima turunan itu 5. Kemudian dikirimkan oleh Panitera\ntersebut semua surat-surat\nyang bersangkutan, terhitung surat\ncatatan dari persidangan pemeriksaan dan turunan dari putusan pada\ntingkatan pertama, kepada Mahkamah\nAgung.\n6. Mahkamah Agung memutus perkaranya pada\ntingkatan kedua dan juga terakhir, berdasar atas surat-surat yang\ndikirimkan itu, jika perlu\nsetelah meminta penjelasan seperlunya\ndari kedua belah pihak."
+   }
+  },
+  {
+   "id": "ID-H082-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB III. / Bagian 1"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\n1. Surat putusan Mahkamah Agung ditanda tangani\noleh para Hakim yang turut memutuskan dan oleh Panitera yang turut\nbersidang, waktu\nputusan diumumkan.\n2. Turunan surat putusan itu dikirimkan oleh\nPanitera kepada kedua belah pihak, sedang surat-surat pemeriksaan\nyang oleh Panitera\nditerima dari pengadilan yang memeriksa\nperkaranya pada tingkatan pertama, dikirim kembali kepada\npengadilan itu beserta turunan\nsurat putusan Mahkamah Agung.\nBagian 2.\nTentang pernyataan tak menurut Konstitusi Republik Indonesia\nSerikat\nyang dimaksudkan pada Pasal 156 ayat (2) dan Pasal 157\nKonstitusi."
+   }
+  },
+  {
+   "id": "ID-H082-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB III. / Bagian 2."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\n1. Setelah surat permohonan yang dimaksudkan pada"
+   }
+  },
+  {
+   "id": "ID-H082-A156",
+   "no": 156,
+   "noLabel": {
+    "id": "Pasal 156 ayat (2) Konstitusi Republik I"
+   },
+   "chapter": {
+    "id": "BAB III. / Bagian 2."
+   },
+   "heading": {
+    "id": "ayat (2) Konstitusi Republik Indonesia Serikat diterima"
+   },
+   "text": {
+    "id": "Pasal 156 ayat (2) Konstitusi Republik Indonesia Serikat diterima\ndalam kepaniteraan\nMahkamah Agung dan oleh Panitera dituliskan\ndalam daftar yang diadakan untuk itu, maka Ketua Mahkamah Agung\nmenetapkan hari dan jam\nuntuk majelis pertimbangan; pada hal ini\nJaksa Agung dan Kepala Kejaksaan pada pengadilan tertinggi\ndaerah-bagian yang bersangkutan\ndipanggil untuk didengarkan\npendapatnya.\n2. Kalau dipandang perlu, maka Mahkamah Agung\ndapat memanggil lain orang untuk didengar pendapatnya dalam majelis\npertimbangan itu,\ndan dapat pula diminta segala surat-surat yang\ndiperlukan untuk mengambil putusan\nPasal 32\n1. Dalam hal yang menurut Pasal 157 Konstitusi\nRepublik Indonesia Serikat putusan suatu pengadilan yang mengandung\npernyataan tak\nmenurut Konstitusi harus disahkan oleh Mahkamah\nAgung, maka pengesahan itu harus diminta oleh pengadilan itu dalam\nsurat permohonan\nyang ditanda tangani oleh Ketua pengadilan\ntersebut.\n2. Surat permohonan itu harus disertai segala\nsurat-surat pemeriksaan perkara dan turunan putusan pengadilan\nitu.\n3. Kemudian berlakulah apa yang disebut pada Pasal 31.\nPasal 33\n1. Surat putusan Mahkamah Agung tentang hal yang\ndimaksudkan pada Pasal 31 dan Pasal 32 ditanda tangani oleh para\nHakim yang turut\nmemutuskan dan oleh Panitera yang turut bersidang\nwaktu putusan dijatuhkan.\n2. Turunan surat putusan ini dikirimkan oleh\nPanitera kepada Jaksa Agung dan Kepala Kejaksaan pada pengadilan\ntertinggi daerah-bagian\nyang bersangkutan, sedang dalam hal\nmengesahkan putusan pengadilan lain maka surat-surat pemeriksaan\nperkara, yang oleh Panitera\nditerima dari pengadilan itu,\ndikirimkan kembali kepada pengadilan itu beserta turunan surat\nputusan Mahkamah Agung.\nBAB IV.\nJALAN PENGADILAN DALAM TINGKATAN KESATU DALAM\nPERKARA HUKUMAN PERDATA.\nBagian 1.\nPengusutan dan penuntutan perkara.\nPasal 34\nPengusutan dan penuntutan perkara hukuman perdata yang menurut\nPasal 148 ayat (1) Konstitusi harus diadili oleh Mahkamah Agung\ndijalankan\nsecara yang berlaku untuk perkara-perkara hukuman\nperdata di muka Pengadilan Negeri, dengan pengertian, bahwa hal\npengusutan ini\nada di bawah pimpinan Jaksa Agung dan penuntutannya\ndilakukan oleh Jaksa Agung atau Jaksa Agung Muda, dengan\nmengirimkan surat-surat\npemeriksaan permulaan kepada Ketua Mahkamah\nAgung disertai surat penuntutan; dalam hal itu dibubuh penjelasan\ntentang perbuatan-perbuatan\nyang dituduhkan, terutama perihal\ntempat dan waktu dilakukan, serta keadaan-keadaan dan hal-hal yang\ndapat memberatkan atau meringankan\nkesalahan tersangka.\nBagian 2.\nPenyerahan perkara ke sidang Mahkamah Agung.\nPasal 35\nSesudah surat penuntutan dan surat-surat lain yang termaksud dalam\nPasal 34 diterima dalam kepaniteraan Mahkamah Agung, maka Ketua\natau salah seorang Hakim Mahkamah Agung selekas mungkin memeriksa\ndengan saksama surat-surat tersebut.\nPasal 36\n(1) Jika menurut pendapat Ketua atau Hakim,\ntersebut dalam Pasal 66, perkaranya harus diperiksa oleh pengadilan\nlain, maka dengan\nselembar surat keputusan yang menyebutkan\nalasan-alasannya, perkara itu diserahkan kepada pengadilan yang\nlain itu.\n(2) Bila tersangka ada dalam tahanan sementara dan\nperbuatan yang menyebabkan ia dituntut termasuk kejahatan yang\ntersangkanya menurut\nUndang-undang dapat ditahan sementara, maka\nKetua atau Hakim tersebut memerintahkan supaya tersangka terus\nditahan.\n(3) Jika dalam tempo 30 hari tiada perintah lain\nuntuk menahan sementara, maka tersangka harus dimerdekakan, kecuali\njika ia harus\ntetap dalam tahanan untuk perkara lain.\n(4) Dalam tempo 2 kali 24 jam dihitung dari\ntanggal surat keputusan termaksud dalam ayat (1), turunan surat\nkeputusan itu beserta\nsuat-surat pemeriksaan lain harus dikirimkan\nkepada Jaksa Agung, yang akan meneruskan surat surat itu kepada\nKejaksaan Pengadilan\nyang lain itu.\nPasal 37\nJika Ketua atau Hakim tersebut berpendapat, bahwa perkaranya\nternyata masuk kekuasaan Mahkamah Agung, akan tetapi masih ada\nhal-hal\nyang harus ditambah pada pemeriksaan permulaan, maka Ketua\natau Hakim itu mengirimkan kembali surat-surat yang bersangkutan\nkepada\nJaksa Agung dengan mengutarakan hal-hal tersebut.\nPasal 38\n(1) Jika Ketua atau Hakim berpendapat, bahwa\nperbuatan yang dituduhkan dalam surat tuntutan, tidak dapat\ndikenakan hukuman, atau surat-surat\npemeriksaan permulaan tidak\ndapat mengadakan alasan cukup untuk melanjutkan tuntutan, maka hal\nini harus dinyatakan dalam putusan\nKetua atau Hakim tersebut;\napabila tersangka ada dalam tahanan\" maka putusan itu harus memuat\nperintah untuk memerdekakannya seketika\nitu juga, kecuali jika ia\nharus tetap ada dalam tahanan untuk perkara lain.\n(2) Dalam tempo 2 kali 24 jam dihitung dari\ntanggal surat keputusan ini, turunan surat keputusan beserta\nsurat-surat pemeriksaan lain\nharus dikirimkan kepada Jaksa\nAgung.\nPasal 39\n(1) Jika Ketua atau Hakim berpendapat, bahwa\nperkaranya dapat dimajukan ke muka sidang pengadilan, maka ia\nmenyatakan hal ini dengan\nmenentukan hari tanggal sidang itu dan\nmemerintahkan supaya oleh Jaksa Agung atau oleh polisi Negara\ndengan perantaraan Kejaksaan\nterdakwa dan saksi-saksi yang\ndiperlukan harus dipanggil menghadap pengadilan dan supaya kepada\nterdakwa diberitahukan isi surat\ntuntutan.\n(2) Apabila hari tanggal sidang itu belum dapat\nditentukan, maka sebab-sebabnya harus disebut dalam surat\npernyataan, termaksud alam\nayat (1).\n(3) Jika perbuatan yang menjadi dasar tuntutan\ntermasuk kejahatan yang tersangkanya menurut Undang-undang dapat\nditahan sementara,\nmaka Ketua atau Hakim harus menentukan apakah\nterdakwa harus ditahan atau tidak.\n(4) Jika beberapa berkas surat-surat pemeriksaan\npermulaan hampir serempak diterima dalam Kepaniteraan Mahkamah\nAgung dan berkas-berkas\nitu mengenai perbuatan-perbuatan yang\ntersangkut-paut satu dengan lain, maka perkara-perkara itu dapat\ndigabungkan jadi satu.\n(5) Perbuatan-perbuatan itu dapat dianggap\nbersangkut-paut, jika perbuatan-perbuatan itu dilakukan:\nke-1. oleh lebih dari seorang, bersama-sama dan\nbersekutu;\nke-2. oleh lebih dari seorang pada waktu atau tempat yang\nberlain-lain tetapi menurut suatu permufakatan lebih dahulu;\nke-3. dengan maksud akan mendapat upaya untuk melakukan atau\nmemudahkan kejahatan lain, atau untuk menghindarkan dirinya dari\nhukuman\natas perbuatan lain.\nBagian 3.\nPemeriksaan dalam sidang Pengadilan.\nPasal 40\n(1) Pada hari yang ditentukan menurut Pasal 39\nayat (1), Mahkamah Agung duduk bersidang.\n(2) Ketua memimpin pemeriksaan dalam sidang; untuk\nkeperluan itu ia memberi perintah sepatutnya.\n(3) Terdakwa dipanggil masuk dan jika ia ada di\ndalam tahanan, maka ia harus dijaga baik-baik dan lepas dari segala\nikatan.\n(4) Jika terdakwa ada di luar tahanan dan walaupun\ntemyata telah dipanggil secara semestinya tidak datang menghadap\nsidang, maka Ketua\nboleh menyuruh menangkap orang itu.\n(5) Jika di dalam suatu perkara adalah lebih dari\nsatu orang terdakwa dan tidak semua terdakwa hadir pada hari\nsidang, maka pemeriksaan\nterhadap terdakwa yang datang menghadap\ndapat diteruskan.\n(6) Jika terdakwa yang tidak datang itu, setelah\nditangkap, dapat menyatakan, bahwa tidak datangnya itu karena sebab\nyang pantas,\nmaka Ketua segera memerintahkan supaya orang itu\ndimerdekakan lagi.\n(7) Jika orang itu tidak datang pada hari sidang\nyang kemudian ditetapkan, maka Ketua boleh menyuruh lagi\nmenangkapnya dan setelah\nditangkap, orang itu terus ditahan\nsementara.\nPasal 41\n(1) Dalam permulaan sidang Ketua menanyakan kepada\nterdakwa namanya, umurnya, tempat lahirnya, tempat tinggalnya dan\npekerjaannya;\nlagi pula memberi ingat kepada terdakwa supaya\ndiperhatikan segala sesuatu yang akan didengarnya dalam\nsidang.\n(2) Kemudian Ketua memberi perintah, supaya Jaksa\nAgung membacakan surat penuntutan dan surat penetapan Ketua yang\ntermasuk dalam\nPasal 39 ayat (1); atas penuntutan itu terdakwa\nharus memberi keterangan seperlunya.\nPasal 42\n(1) Apabila terdakwa atau pembelanya berpendapat,\nbahwa tuntutan semestinya harus dibatalkan atau tidak mungkin\ndilanjutkan, atau\nMahkamah Agung tidak berkuasa mengadili\nperkaranya, maka tangkisan ini dapat dimajukan dan dijelaskan\nsegera setelah pembacaan surat-surat\nyang termaksud dalam Pasal 41\nayat (2) selesai.\n(2) Setelah diberi kesempatan kepada Jaksa Agung\nuntuk mengeluarkan pendapatnya tentang tangkisan itu dan kepada\nterdakwa dan pembelanya\nuntuk menjawab, maka Mahkamah Agung\nmempertimbangkan tangkisan itu dan mengambil putusan tentang hal\nitu.\n(3) Pemeriksaan perkara dalam sidang diteruskan,\napabila Mahkamah Agung memutuskan, bahwa tangkisan ditolak atau\nbaru dapat memutuskan\ntentang tangkisan itu tergantung dari\npemeriksaan perkaranya sendiri.\n(4) Meskipun oleh terdakwa atau pembelanya tidak\ndimajukan tangkisan yang termaksud dalam ayat (1), maka Mahkamah\nAgung dapat mengambil\nputusan tentang hal-hal yang tersebut dalam\nayat (1) itu, akan tetapi lebih dulu Jaksa Agung dan terdakwa harus\ndidengar pendapatnya.\n(5) Berhubung dengan pembicaraan dalam sidang yang\ndimaksudkan dalam pasal ini, maka Jaksa Agung berhak mengubah surat\ntuntutan menurut\nsyarat syarat tersebut dalam Pasal 65.\nPasal 43\n(1) Ketua lalu memeriksa adakah semua saksi yang\ndipanggil hadir, dan memberi perintah seperlunya untuk menjaga,\nsupaya mereka jangan\nsampai dapat membicarakan perkaranya satu\ndengan lain, sebelum memberi keterangan.\n(2) Jika ada saksi yang tidak datang meskipun\ntelah dipanggil dengan patut dan Ketua ada cukup alasan untuk\nmenyangka, bahwa saksi\nitu tidak mau datang, maka Ketua boleh\nmemberi perintah, supaya saksi tersebut dibawa oleh polisi ke\npersidangan.\nPasal 44\n(1) Para saksi dipanggil ke dalam ruangan sidang\nseorang demi seorang menurut tertib yang dipandang sebaik-baiknya\noleh Ketua.\n(2) Ketua menanyakan kepada saksi itu namanya,\numurnya, pekerjaannya dan tempat tinggalnya; seterusnya apakah ia\nkenal kepada terdakwa,\nsebelum terdakwa ini melakukan perbuatan\nyang menjadi dasar penuntutan; apakah ia berkeluarga dengan\nterdakwa secara turunan atau\nperkawinan dan sampai berapa jauhnya,\ndan akhirnya apakah ia ada perhubungan majikan-buruh terhadap\nterdakwa.\n(3) Kemudian saksi bersanggup akan berkata benar\ndan tidak lain dari pada yang benar; setelah itu ia memberi\nketerangan dengan tidak\nboleh bertahan saja kepada keterangan yang\ndiberikannya dalam pemeriksaan permulaan.\n(4) Apabila Ketua memandang perlu, saksi dapat\ndiperintahkan supaya menguatkan keterangannya dengan sumpah secara\naturan agamanya,\nkecuali jika saksi masuk golongan yang agamanya\nmelarang sumpah itu atau jika saksi menurut keyakinan keagamaannya\nberkeberatan bersumpah.\n(5) Jika saksi dengan lain alasan dari pada yang\ntersebut dalam ayat (4) berkeberatan menguatkan keterangan dengan\nsumpah, maka Ketua\nmemerintahkan supaya saksi disumpah akan berkata\nbenar dan tidak lain dari pada yang benar, dan kemudian saksi itu\ndidengar lagi\nketerangannya dari permulaan.\nPasal 45\n(1) Jika seorang saksi dengan tiada sebab yang sah\nenggan bersumpah atau dengan menerangkan yang benar, maka Ketua\nboleh mempertangguhkan\nperkara itu selambat-lambatnya 14 hari\nkemudian.\n(2) Dalam hal itu atas perintah Ketua saksi\nditutup dalam penjara, dan pada hari yang telah ditentukan dibawa\nlagi menghadap sidang\nMahkamah Agung.\n(3) Jika seorang saksi melakukan kejahatan yang\ntersebut pada Pasal 224 Kitab Undang-undang Hukum Pidana, maka\nKetua memerintahkan\nPanitera mencatat kejadian itu dalam catatan\npemeriksaan persidangan dan mengirimkan petikan catatan itu kepada\nJaksa yang bersangkutan.\nPasal 46\n(1) Jika ada saksi yang sesudah memberi keterangan\ndalam pemeriksaan permulaan, meninggal dunia atau karena ada\nhalangan yang sah\ntidak dapat menghadap persidangan atau tidak\ndipanggil, oleh karena jauh tempat diam atau tempat tinggalnya,\natau karena ada sebab\nlain berhubung dengan kepentingan Negara,\nmaka dibacakanlah keterangan yang telah diberikannya itu.\n(2) Jika keterangan itu diberi dengan sumpah, maka\nketerangan itu disamakan harganya dengan keterangan saksi di-bawah\nsumpah di dalam\nsidang.\n(3) Membacakan keterangan ini dapat juga\ndilakukan, apabila untuk menyempurnakan pembuktian pendengaran\nsaksi itu di dalam sidang\ndianggap tidak perlu.\nPasal 47\n(1) Jika keterangan seorang saksi dalam sidang\nberbeda dari keterangan dalam pemeriksaan permulaan, maka Ketua\nmemperingatkan saksi\nitu serta minta keterangan tentang hal\nitu.\n(2) Kejadian ini dinyatakan dalam catatan pemeriksaan sidang.\nPasal 48\n(1) Setelah tiap-tiap saksi selesai memberi\nketerangan, maka Ketua menanyakan kepada terdakwa, adakah keberatan\natas keterangan itu.\n(2) Saksi tidak boleh diganggu pada waktu memberi\nketerangan, akan tetapi setelah selesai memberi keterangan itu,\nmaka terdakwa atau\npembelanya dan Jaksa Agung boleh memajukan\npertanyaan kepada saksi.\n(3) Ketua boleh minta kepada saksi dan terdakwa\nsegala keterangan yang dipandangnya perlu untuk mendapat\nkebenaran.\n(4) Ketua dapat melarang penjawaban pertanyaan\nyang dimajukan oleh terdakwa, pembela atau Jaksa Agung kepada\nsaksi.\nPasal 49\n(1) Pertanyaan yang bermaksud menjerat tidak boleh\ndimajukan baik kepada terdakwa maupun kepada saksi, dan Ketua tidak\nboleh mengindahkan\njawab pertanyaan yang demikian.\n(2) Jika dalam salah satu pertanyaan ada disebut\nsuatu perbuatan yang tidak diakui atau diberitahukan oleh terdakwa\natau saksi, tetapi\ndianggap seolah-olah telah diakui oleh mereka\nitu, maka pertanyaan itu harus dipandang sebagai bermaksud menjerat\njuga.\nPasal 50\n(1) Sesudah memberi keterangan maka tiap-tiap\nsaksi tinggal menghadiri persidangan, kecuali jika Ketua memberi\nizin kepadanya untuk\npergi.\n(2) Izin itu tidak diberikan jika Jaksa Agung atau\nterdakwa memajukan permintaan, supaya saksi itu terus menghadiri\npersidangan itu.\n(3) Para saksi dalam sidang tidak boleh bercakap-cakap satu dengan\nlain.\nPasal 51\nDengan memperhatikan yang ditentukan pada pasal yang berikut di\nbawah ini, maka tidak dapat diperiksa sebagai saksi dan boleh mohon\nkebebasan menjadi saksi:\nke 1. keluarga karena kelahiran atau keluarga karena kelahiran\ndalam garis turunan ke atas atau ke bawah terhadap terdakwa atau\nkawan\nterdakwa dalam satu perkara;\nke 2. saudara atau ipar terdakwa atau kawan terdakwa dalam satu\nperkara;\nke 3. laki atau isteri terdakwa atau kawan terdakwa dalam satu\nperkara, biarpun sudah dicerai;\nke 4. keluarga karena perkawinan atau keluarga karena perkawinan\ndalam turunan ke samping sampai tingkat ketiga terhadap terdakwa\natau kawan terdakwa dalam satu perkara.\nPasal 52\n(1) Jika Jaksa Agung dan terdakwa sama\nmengizinkan, maka orang yang tersebut dalam Pasal 51, kalau mereka\nsuka, boleh juga memberi\nketerangan.\n(2) Biarpun tidak dengan izin itu, maka orang itu\nboleh juga memberi keterangan di luar sumpah.\nPasal 53\n(1) Orang yang karena pekerjaan atau jabatannya\ndiwajibkan menyimpan rahasia, boleh mohon dibebaskan memberi\nketerangan, akan tetapi\nhanya tentang hal yang diberitahukan\nkepadanya karena pekerjaan atau jabatannya.\n(2) Mahkamah Agunglah yang memutuskan sah atau\ntidaknya segala sebab untuk mohon kebebasan itu.\nPasal 54\nYang hanya boleh diperiksa untuk memberi keterangan di luar sumpah,\nyaitu:\nke 1. anak-anak yang umurnya belum cukup lima belas tahun;\nke 2. orang gila, meskipun kadang-kadang ingatannya terang.\nPasal 55\n(1) Sesudah saksi memberi keterangan, maka\nterdakwa atau pembela dan Jaksa Agung boleh memohon, supaya saksi\nyang ditunjukkannya dikeluarkan\ndari persidangan, dan supaya\nseorang saksi atau lebih disuruh masuk kembali dan diperiksa lagi,\nbaik sendiri-sendiri, maupun di muka\nyang lain.\n(2) Ketua juga boleh memberi perintah tentang\nhal-hal yang tersebut pada ayat (1).\nPasal 56\nPada waktu seorang saksi diperiksa atau sesudah itu, maka Ketua\nboleh menyuruh terdakwa ke luar dari persidangan, dan menanyakan\nsaksi itu sendiri tentang beberapa hal, akan tetapi sesudah itu\npemeriksaan perkara tidak boleh diteruskan, sebelum kepada terdakwa\ndiberitahukan segala kejadian pada waktu ia tidak hadir.\nPasal 57\n(1) Jika keterangan saksi di hadapan persidangan\ndisangka palsu, maka Ketua memperingatkan kepadanya hukuman yang\nmungkin dijatuhkan\npadanya, jika ia tetap memberi keterangan yang\ntidak benar.\n(2) Jika saksi tetap pada keterangan yang disangka\npalsu itu, maka Ketua karena jabatannya atau atas permohonan Jaksa\nAgung atau terdakwa,\nboleh memberi perintah supaya saksi itu di\ntahan sementara, dan supaya diperlakukan pemeriksaan perkara pidana\nmenurut Undang-undang.\n(3) Dalam hal yang demikian segera dibuat oleh\nPanitera suatu catatan pemeriksaan sidang yang memuat keterangan\nsaksi itu dengan menyebutkan\nalasan untuk persangkaan, bahwa\nketerangan saksi itu adalah palsu; catatan itu harus ditanda\ntangani oleh Ketua dan Panitera dan\nsegera diserahkan kepada Jaksa\nAgung.\n(4) Jika perlu Ketua boleh mempertanggungkan\npersidangan dalam perkara semula sampai pada kesudahan pemeriksaan\nperkara pidana saksi\nitu.\nPasal 58\nJika terdakwa tidak menjawab atau enggan menjawab pertanyaan\nkepadanya, maka Ketua memperingatkan kepadanya kewajiban akan\nmenjawab,\ndan setelah itu meneruskan pemeriksaan perkara.\nPasal 59\nJika terdakwa karena kelakuannya yang tidak patut mengganggu tertib\npersidangan, maka Ketua menegornya, dan jika tidak berhasil,\nlalu\nmenyuruh membawanya ke luar tempat sidang, dan pemeriksaan perkara\nditeruskan dan perkara diputuskan di luar hadir terdakwa.\nPasal 60\n(1) Jika terdakwa atau saksi tidak paham akan\nbahasa Indonesia, maka Ketua boleh mengangkat seorang juru bahasa,\ndan menyuruh orang\nitu bersumpah akan menterjemahkan dengan benar\napa yang mesti diterjemahkan dari satu bahasa kepada bahasa yang\nlain.\n(2) Barang siapa tidak boleh menjadi saksi dalam\nsuatu perkara, tidak boleh pula menjadi juru bahasa dalam perkara\nitu.\nPasal 61\n(1) Jika terdakwa atau saksi bisu dan tuli dan\ntidak dapat menulis, maka Ketua mengangkat sebagai perantara orang\nyang lebih pandai\nbergaul dengan terdakwa atau saksi itu, asal saja\norang itu sudah cukup umurnya untuk menjadi saksi.\n(2) Jika orang yang bisu dan tuli itu pandai\nmenulis, maka Ketua menyuruh menuliskan segala pertanyaan atau\ntegoran kepadanya, dan\nmenyuruh menyampaikan tulisan itu kepada\nterdakwa atau saksi yang bisu dan tuli, dengan perintah akan\nmenuliskan jawabannya; kemudian\nsegala pertanyaan dan jawab mesti\ndibacakan.\nPasal 62\n(1) Segala aturan tersebut di atas bagi saksi\nberlaku juga bagi orang ahli, akan tetapi orang ahli bersumpah,\nbahwa ia akan memberi\nlaporan menurut kebenaran dan sepanjang\npengetahuannya yang sebaik-baiknya.\n(2) Tiap-tiap orang yang dipanggil sebagai ahli, wajib memenuhi\npanggilan itu.\n(3) Orang satu boleh diperiksa sebagai saksi dan\nsebagai ahli, asal saja sebelum disumpah diingatkan kepadanya kedua\nmacam sumpah\nitu.\nPasal 63\n(1) Selagi pemeriksaan dijalankan, maka Ketua\nboleh menyuruh memanggil orang lain dari pada saksi dan orang ahli\nyang sudah dipanggil,\npun juga dengan perintah akan menghadap\npersidangan dengan segera.\n(2) Berhubung dengan keterangan terdakwa dan saksi\ndalam persidangan, maka supaya mendapat keterangan lebih jelas\nKetua boleh meminta\nlaporan yang dikehendaki dari orang ahli dan\nmenyuruh memajukan surat keterangan baru.\nPasal 64\n(1) Ketua memperlihatkan kepada terdakwa segala\nbarang bukti dan menyatakan kepadanya, kenalkah ia akan barang\nitu.\n(2) Jika perlu maka barang-barang itu\ndiperlihatkan juga oleh Ketua kepada saksi.\nPasal 65\n(1) Jika dalam pemeriksaan dalam sidang ternyata\nada alasan untuk mengubah surat tuntutan, maka Jaksa Agung dengan\nkemauan sendiri\natau atas permintaan Ketua berkuasa mengubah surat\npenuntutan itu, asal saja dengan perubahan itu perbuatan yang\ndituduhkan tidak\nmenjadi perbuatan lain dalam arti yang dimaksudkan\npada Pasal 76 Kitab Undang-undang Hukum Pidana.\n(2) Ketua harus memberitahukan perubahan itu\nkepada terdakwa, yang diberi kesempatan untuk mengeluarkan\npendapatnya tentang hal itu.\n(3) Jika perlu, karena perubahan surat tuntutan\nini, maka atas permohonan terdakwa Ketua dapat mempertangguhkan\npemeriksaan sampai\nhari tanggal yang tertentu.\nPasal 66\n(1) Setelah pemeriksaan selesai, maka Jaksa Agung\nmengadakan requisitoirnya, yang kemudian harus diserahkan kepada\npengadilan.\n(2) Kemudian terdakwa dan pembelanya memajukan pembelaannya.\n(3) Jaksa Agung dapat berbicara lagi, tetapi.\nterdakwa dan pembelanya selalu boleh berbicara pada penghabisan\nkali.\n(4) Jika semua ini telah selesai, maka Ketua menutup\npemeriksaan.\n(5) Terdakwa, saksi dan penonton dikeluarkan, dan\nsetelah Jaksa Agung juga pergi dari ruangan sidang, maka pengadilan\nmempertimbangkan\nsegala sesuatu.\n(6) Putusan Mahkamah Agung dapat dijatuhkan pada\nhari itu juga atau pada hari lain yang harus diberitahukan kepada\nterdakwa.\nPasal 67\n(1) Jikalau dalam pemeriksaan dalam perkara\nkejahatan atau pelanggaran pada Mahkamah Agung terdakwa yang tidak\nditahan tidak hadir\npada hari sidang yang telah ditentukan, maka\nKetua memeriksa, apakah hari sidang itu diberitahukan kepada\nterdakwa dengan semestinya.\n(2) Jika terdakwa tidak diberitahukan dengan\nsemestinya, maka Ketua memerintahkan supaya terdakwa diberi tahu\nlagi untuk hadir pada\nhari sidang yang ditentukan oleh Ketua.\nPasal 68\n(1) Jikalau terdakwa tidak hadir biarpun ia telah\ndiberitahu semestinya, maka selain dari apa yang ditentukan pada\nPasal 40 ayat (4),\nMahkamah dapat juga memerintahkan supaya perkara\nterdakwa diperiksa dan diputuskan di luar hadir terdakwa.\n(2) Ketentuan tersebut pada ayat (1) berlaku juga\ndalam hal di dalam sesuatu perkara ada lebih dari seorang terdakwa\ndan tidak semua\nterdakwa hadir pada hari sidang.\nPasal 69\nApabila Mahkamah memberikan perintah tersebut pada Pasal 68 ayat\n(1), maka dengan menyimpang seperlunya dari acara pemeriksaan\ndengan\nberhadir terdakwa, saksi-saksi dan ahli-ahli yang hadir\ndapat didengar pada hari sidang yang ditentukan dalam perintah\nitu.\nPasal 70\n1. Jikalau terdakwa dihukum, maka setelah menerima\npetikan putusan dimaksudkan pada Pasal 94 ayat (2), atau surat\nketerangan dimaksudkan\npada Pasal 94 ayat (3), Jaksa Agung harus\ndengan selekas-lekasnya menyampaikan kepada terhukum sendiri\nputusan hukuman itu dan menerangkan\nkepadanya akan kemungkinan\nmemajukan perlawanan.\n2. Sesudah Jaksa Agung menyampaikan putusan itu\nkepada terhukum, maka hal ini harus dilaporkan kepada Ketua\nMahkamah Agung.\nPasal 71\nDalam tempo tujuh hari dihitung mulai hari berikutnya sesudah hari\nputusan disampaikan, terhukum dapat memajukan perlawanan kepada\nMahkamah Agung.\nPasal 72\n1. Perlawanan itu dimajukan dengan lisan kepada\nPanitera Mahkamah Agung, yang membuat catatan tentang hal\nitu.\n2. Catatan itu ditandatangani bersama-sama oleh pelawan dan\nPanitera.\n3. Bagi pelawan yang tidak pandai menulis,\npenandatanganan itu dapat dilakukan dengan cap jari.\n4. Oleh karena perlawanan itu, maka putusan\nhukuman di luar hadir terdakwa tidak berlaku lagi.\nPasal 73\n1. Ketua memberitahukan kepada Jaksa Agung\nperlawanan yang dimajukan seperti tersebut pada Pasal 72.\n2. Dalam pemberitahuan itu Ketua menentukan hari\nsidang bilamana perkara terdakwa akan diperiksa dan juga apakah\nsaksi-saksi dan ahli-ahli\ntersebut pada Pasal 69 akan didengar\nlagi.\nPasal 74\n1. Kecuali jika Mahkamah atas kebijaksanaan\nsendiri atau atas permintaan terdakwa memerintahkan supaya perkara\ndiperiksa menurut peraturan\npemeriksaan dengan berhadirnya\nterdakwa, maka perkara diputus setelah terdakwa didengar dan\nsetelah surat-surat pemeriksaan dibacakan\ndan terdakwa ditanya\napakah ia mengerti betul isi surat-surat itu.dan apakah jawabnya\natas itu.\n2. Keterangan saksi-saksi dan ahli-ahli tersebut\npada Pasal 73 yang dibacakan dalam sidang ini dianggap sebagai\ndiucapkan dalam sidang\nitu.\nPasal 75\nJikalau pada hari sidang yang ditentukan menurut Pasal 73 terdakwa\ntidak hadir, maka perlawanannya batal dan putusan hukuman di luar\nhadir terdakwa semula berlaku lagi; dan\nkesempatan untuk memajukan perlawanan tidak ada lagi.\nPasal 76\nDalam perkara tentang kejahatan yang diancam dengan hukuman mati,\nhukuman penjara seumur hidup dan setinggi-tinggi 20 tahun tidak\ndapat diadakan pemeriksaan di luar hadir terdakwa.\nBagian 4.\nPembuktian dan putusan.\nPasal 77\nTerdakwa hanya dapat dianggap terbukti melakukan perbuatan yang\ndituduhkan kepadanya, apabila Mahkamah sebagai hasil pemeriksaan\ndalam sidang mendapat keyakinan tentang hal itu dari isi alat-alat\nbukti yang sah.\nPasal 78\n1. Alat-alat bukti yang sah ialah:\nke 1. pengetahuan Hakim,\nke 2. keterangan terdakwa,\nke 3. keterangan saksi,\nke 4. keterangan orang ahli,\nke 5. surat-surat.\n2. Keadaan yang telah diketahui oleh umum, tidak perlu\ndibuktikan.\nPasal 79\nPengetahuan Hakim berarti penyaksian sendiri pada waktu sidang.\nPasal 80\n1. Keterangan terdakwa berarti pemberitahuannya\ndalam sidang tentang kejadian atau keadaan yang ia alami\nsendiri.\n2. Keterangan terdakwa hanya boleh dipakai sebagai bukti terhadap\nia sendiri.\n3. Keterangan terdakwa saja tidak cukup untuk\nmembuktikan, bahwa terdakwa melakukan perbuatan, yang dituduhkan\nkepadanya, melainkan\nharus dikuatkan oleh suatu alat bukti\nlain.\nPasal 81\n1. Keterangan saksi berarti pemberitahuannya dalam\nsidang tentang kejadian atau keadaan yang didengar, dilihat atau\ndialami oleh saksi\nitu sendiri.\n2. Keterangan seorang saksi saja tidak cukup untuk\nmembuktikan, bahwa terdakwa melakukan perbuatan yang dituduhkan\nkepadanya, melainkan\nharus dikuatkan oleh alat bukti lain.\nPasal 82\nKeterangan orang ahli berarti pendapat orang itu yang diberitahukan\ndalam sidang tentang yang diketahui menurut ilmu pengetahuannya\nterhadap soal yang dimintakan pendapatnya.\nPasal 83\nTermasuk surat-surat sebagai alat bukti:\nke 1. putusan secara yang sah diambil oleh badan pengadilan atau\nHakim;\nke 2. catatan dan surat-surat lain dibuat secara\nyang sah oleh pejabat yang berkuasa dan yang memuat pemberitahuan\nkeadaan-keadaan\nyang dialami oleh pejabat itu sendiri;\nke 3. surat-surat keterangan dibuat oleh pejabat\ntentang soal-soal yang masuk lingkungan jabatannya dan\ndiperuntukkan bagi membuktikan\nsesuatu keadaan;\nke 4. laporan orang-orang ahli yang memuat\npendapatnya tentang yang diketahui menurut ilmu pengetahuannya\nterhadap soal yang dimintakan\npendapatnya;\nke 5. surat-surat lain.\nPasal 84\nJikalau Mahkamah berpendapat bahwa perbuatan yang dituduhkan kepada\nterdakwa, tidak terbukti, maka terdakwa dibebaskan, dan jikalau\nia\nada di dalam tahanan, dengan perintah memerdekakannya seketika itu\njuga, kecuali jika ia harus tetap ditahan untuk perkara lain.\nPasal 85\n1. Jikalau Mahkamah berpendapat bahwa perbuatan\nyang dituduhkan kepada terdakwa, meskipun terbukti akan tetapi\ntidak merupakan kejahatan\natau pelanggaran atau yang terdakwa tidak\ndapat dihukum, maka terdakwa harus dilepaskan dari segala tuntutan\ntentang hal ini.\n2. Perintah untuk memerdekakan terdakwa dijalankan\ndengan segera, sesudah putusan dijatuhkan.\nPasal 86\n1. Jikalau Mahkamah berpendapat bahwa terdakwa\nbenar-benar bersalah, maka Mahkamah menjatuhkan hukuman atau\nmemerintahkan sesuatu\nmenurut hukum.\n2. Jikalau terdakwa dipersilahkan perihal suatu\nkejahatan yang dapat diadakan penahanan sementara, maka Mahkamah\ndapat memerintahkan\npenahanan terdakwa jikalau ia ada di luar\ntahanan, dan juga dapat memerintahkan supaya terdakwa dimerdekakan,\njikalau ia ada dalam\ntahanan; perintah itu harus dijalankan dengan\nsegera, sesudah putusan dijatuhkan.\nPasal 87\n1. Dalam putusan yang mengandung hukuman,\npembalasan, atau melepaskan dari tuntutan, Mahkamah harus\nmemerintahkan supaya barang-barang\nbukti dikembalikan kepada orang\nyang namanya disebutkan dalam surat putusan itu dan yang menurut\npendapat Mahkamah berhak atas barang-barang\ntersebut, kecuali jika\nmenurut peraturan hukum barang-barang itu harus dirampas atau\ndibinasakan atau dirusakkan sehingga tidak dapat\ndipakai\nlagi.\n2. Jikalau ditimbang perlu, Mahkamah boleh memberi\nperintah supaya barang-barang itu dikembalikan seketika sesudah\nhabis sidang.\n3. Pengembalian barang-barang bukti dapat disertai\ndengan perjanjian yang ditetapkan oleh Mahkamah.\n4. Dalam putusan dapat diperintahkan supaya\nbarang-barang yang diperbuat, atau diperbaiki atau dipakai untuk\nmelakukan perbuatan yang\nada ancaman hukuman, musti dibinasakan\natau dirusakkan sehingga tidak dapat dipakai lagi.\nPasal 88\nPutusan Mahkamah harus diucapkan oleh Ketua dalam sidang yang\nterbuka untuk umum.\nPasal 89\n1. Terdakwa yang berada dalam tahanan harus dibawa\nke dalam sidang supaya hadir pada waktu putusan diucapkan, kecuali\njika ia tidak\ndapat datang; dalam hal ini putusan oleh Panitera\ndiberitahukan kepadanya dalam rumah penjara, dan cara pemberitahuan\nini harus dicatat\ndi bawah surat putusan.\n2. Kecuali jika terdakwa dibebaskan dari tuntutan,\nmaka sesudah putusan itu diucapkan, Ketua mengingatkan terdakwa\nuntuk meminta,\nsupaya menjalankan putusan dipertangguhkan 14 hari\nlamanya, untuk tempo ia akan memasukkan permintaan grasi.\nPeringatan ini dijalankan oleh Panitera, jika\nputusan diberitahukan kepada terdakwa dalam penjara.\n3. Perbuatan yang dilakukan menurut ayat (2),\nharus dicatat dalam surat catatan pemeriksaan sidang.\nPasal 90\n1. Surat putusan harus memuat:\nke 1. nama, umur, tempat lahir, tempat tinggal\natau tempat diam dan pekerjaan terdakwa;\nke 2. keputusan tentang kesalahan terdakwa dengan\nmenyebutkan alasan keputusan itu dengan ringkas; termasuk juga isi\nalat-alat bukti\nyang menjadi dasar pembuktian;\nke 3. requisitoir Jaksa Agung;\nke 4. hukuman yang dijatuhkan kepada terdakwa yang\ndiputuskan berkesalahan dengan disebutkan pasal-pasal Undang-undang\nyang menjadi\ndasar hukuman;\nke 5. keputusan tentang ongkos perkara dan\nkeputusan tentang pengembalian barang-barang bukti dan, jika\ndidapat kepalsuan dalam surat-resmi,\nketerangan bahwa surat itu\npalsu seluruhnya atau bagian mana yang dipalsukan;\nke 6. hari tanggal menjatuhkan putusan dan nama\npara Hakim yang memutuskan, dan jika seorang Hakim itu berhalangan\nuntuk berhadir\npada waktu putusan diucapkan atau untuk\nmenandatangani putusan, dengan menyebutkan sebabnya berhalangan\nitu;\nke 7. perintah akan menahan terdakwa sementara\natau akan melepaskan dari tahanan dalam hal lain dari pada hal\ndibebaskan dengan menerangkan\nalasan perintah itu.\n2. Keputusan tentang sekalian terdakwa dalam satu\nperkara, yang serempak diputuskan perkaranya, dimuatkan dalam satu\nsurat putusan.\nPasal 91\nSurat putusan harus ditandatangani oleh para Hakim yang memutuskan\ndan oleh Panitera yang turut bersidang waktu putusan dijatuhkan,\nyaitu selambat-lambatnya 14 hari sesudah putusan diucapkan.\nPasal 92\nDalam hal surat-resmi yang palsu, maka Panitera melekatkan kepada\nsurat itu petikan putusan yang memuat keterangan termaksud pada\nPasal 90 angka 5, dan pada surat yang palsu atau yang dipalsukan\nitu Panitera menulis catatan yang menunjukkan kepada petikan\nputusan\nitu; turunan surat yang palsu atau yang dipalsukan itu\nharus disertai catatan tersebut.\nPasal 93\n1. Panitera membuat catatan persidangan dengan\nditulis segala syarat-syarat acara yang dipenuhi dan segala\nkejadian dalam persidangan\nitu.\n2. Catatan ini memuat juga isi yang penting dari\nketerangan saksi, orang ahli dan terdakwa, kecuali jika Ketua\nmenganggap, bahwa dalam\nhal ini cukuplah ditunjukkan saja kepada\nketerangan-keterangan yang termuat dalam catatan pemeriksaan\npermulaan dengan disebut perbedaan\nantara dua keterangan itu.\n3. Ketua boleh memerintahkan supaya sesuatu\nkeadaan atau keterangan dicatat dengan istimewa; catatan ini harus\ndiadakan apabila diminta\noleh Jaksa Agung atau terdakwa atau\npembela.\n4. Catatan persidangan ditandatangani oleh Ketua\ndan Panitera; jika mereka berhalangan, hal itu harus disebut dalam\ncatatan itu.\nBagian 5.\nTentang menjalankan putusan.\nPasal 94\n1. Putusan Mahkamah Agung yang memuat hukuman\nharus dijalankan oleh Jaksa Agung.\n2. Untuk itu Panitera mengirimkan kepada Jaksa\nAgung petikan dari putusan itu berangkap dua, dan dalamnya disebut:\nnama, umur, tempat\nlahir, pekerjaan, tempat tinggal atau tempat\ndiam terdakwa, putusan pengadilan, nama Hakim yang turut memberi\nputusan, dan lagi perintah\ntentang penahanan terdakwa.\n3. Kalau dari putusan Pengadilan belum dapat\ndibuat petikan sebagai yang dimaksudkan pada ayat (2), maka\nPanitera mengirimkan surat\nketerangan, yang ditandatangani oleh\nKetua dan Panitera dan dibuat secara petikan tersebut.\nPasal 95\n1. Kalau putusan Mahkamah memuat hukuman denda\natau hukuman merampas barang, maka Jaksa Agung menentukan tempo\nyang tidak melebihi\ndua bulan, dalam tempo mana denda harus dibayar\nlunas atau barang yang dirampas itu harus diserahkan ataupun\ndibayar harganya menurut\ntaksiran pada putusan itu.\n2. Tempo itu boleh diperpanjang beberapa kali,\ntetapi jumlahnya tidak boleh lebih lama dari satu tahun.\nPasal 96\nHukuman mati dijalankan dihadapan Jaksa Agung atau Jaksa Agung Muda\ndan selalu diusahakan supaya tidak dapat dilihat oleh orang\nbanyak.\nPasal 97\nJika orang yang dahulu sudah dapat hukuman penjara, tutupan atau\nkurungan dan kemudian dapat lagi hukuman seperti itu sebelum ia\nmenjalankan hukuman yang dijatuhkan lebih dulu itu, maka segala\nhukuman dijalankan berturut-turut, mulai dengan hukuman yang\nterberat.\nPasal 98\nHukuman membayar ongkos perkara dan hukuman membayar uang ganti\nkerugian kepada pihak yang mendapat rugi, dijalankan secara\nmenjalankan\nputusan pengadilan dalam perkara perdata.\nPasal 99\nSekalian orang yang bersama-sama dimajukan ke muka Hakim karena\nsatu perbuatan dan bersama-sama dihukum karena itu, menanggung\nsendiri-sendiri\nbayaran semua ongkos perkara yang diputuskan bagi\nmereka bersama-sama.\nBAB V.\nHAL MEMUTUSKAN PERSELISIHAN TENTANG\nKEKUASAAN MENGADILI\nBagian 1.\nDalam perkara perdata.\nPasal 100\n1. Jika ada perselisihan tentang kekuasaan\nmengadili dalam perkara perdata, yang harus diputus oleh Mahkamah\nAgung, maka salah satu\npihak yang berkepentingan dapat memasukkan\nsurat permohonan kepada Mahkamah Agung dengan diterangkan di\ndalamnya pendapat permohonan\ntentang hal ini serta\nalasan-alasannya, Dengan permohonan supaya Mahkamah memberi\nputusan.\n2. Setelah surat permohonan itu dituliskan oleh\nPanitera Mahkamah Agung dalam daftar perselisihan tentang kekuasaan\nmengadili dalam\nperkara perdata, maka Ketua memerintahkan supaya\nsehelai turunan surat permohonan dikirimkan kepada pihak yang lain\ndengan pemberitahuan,\nbahwa pihak itu dalam waktu yang tertentu dan\nyang tidak melebihi satu bulan, dapat memajukan surat kepada Ketua,\ndengan diterangkan\ndi dalamnya pendapatnya tentang hal ini serta\nalasan-asalannya.\n3. Kemudian Mahkamah Agung mengambil putusan,\nkalau perlu setelah memanggil pihak-pihak yang berkepentingan atau\nsaksi-saksi untuk\ndi dengar dalam sidang pengadilan.\nBagian 2.\nDalam perkara pidana.\nPasal 101\nPerselisihan tentang kekuasaan mengadili adalah terjadi:\nke 1. apabila suatu pengadilan mengatakan dirinya\nberkuasa akan mengadili suatu kejahatan atau pelanggaran, sedangkan\nada pengadilan\nlain yang juga mengatakan dirinya berkuasa mengadili\nkejahatan atau pelanggaran itu atau yang bersangkutpaut dengan\nkejahatan atau\npelanggaran itu dalam arti yang dimaksudkan pada\nPasal 39 ayat (5).\nke 2. apabila suatu pengadilan mengatakan dirinya\ntidak berkuasa akan mengadili suatu kejahatan atau pelanggaran dan\nmenunjukkan lain\npengadilan sebagai yang berkuasa mengadili,\nsedangkan pengadilan yang ditunjuk itu mengatakan dirinya pun tidak\nberkuasa mengadili.\nPasal 102\n1. Permohonan untuk memutus hal perselisihan itu\ndimajukan kepada Mahkamah Agung.\n2. Permohonan termaksud pada ayat 1 harus\ndilakukan dengan tulisan oleh Jaksa pada Kejaksaan yang ada di\nsamping salah satu pengadilan\nyang berselisihan atau oleh terdakwa\nyang bersangkutan.\nPasal 103\n1. Apabila permohonan dilakukan oleh Jaksa, maka\nJaksa itu harus mengirimkan surat permohonan beserta surat-surat\npemeriksaan perkara\nkepada Ketua Mahkamah Agung dan memberitahukan\nhal ini dalam satu minggu kepada pengadilan yang termaksud pada\nPasal 102 ayat (2).\n2. Kemudian Jaksa tersebut mengirimkan turunan\nsurat permohonan kepada Jaksa pada Kejaksaan yang ada di samping\npengadilan lain yang\nberselisihan.\n3. Jaksa yang tersebut di belakang ini harus\nmengirimkan surat-surat pemeriksaan perkara yang ada di tangannya\nbeserta pemandangannya\nkepada Ketua Mahkamah Agung, yaitu\nselambat-lambatnya satu bulan setelah menerima turunan\npermohonan.\n4. Jaksa tersebut pada ayat (1) juga harus\nmengirimkan turunan surat permohonan kepada terdakwa, yang berhak\nmengirimkan pendapatnya\nkepada Ketua Mahkamah Agung yaitu\nselambat-lambatnya satu bulan setelah menerima surat\npermohonan.\nPasal 104\n1. Apabila permohonan dilakukan oleh terdakwa,\nmaka terdakwa mengirimkan surat permohonan kepada Jaksa pada\nKejaksaan yang ada di\nsamping salah suatu pengadilan yang tersebut\npada Pasal 101, dan Jaksa itu harus melanjutkan surat permohonan\nitu beserta pemandangannya\ndan surat pemeriksaan perkara kepada\nKetua Mahkamah Agung.\n2. Jaksa ini juga mengirimkan turunan surat\npermohonan dan pemandangannya kepada Jaksa pada Kejaksaan yang ada\ndi samping pengadilan\nlain yang berselisihan.\n3. Jaksa yang tersebut dibelakangan ini harus\nmengirimkan surat-surat pemeriksaan perkara yang ada di tangannya\nbeserta pemandangannya\nkepada Ketua Mahkamah Agung, yaitu\nselambat-lambatnya satu bulan setelah menerima turunan surat\npermohonan.\nPasal 105\n1. Para Jaksa pada Kejaksaan-kejaksaan yang\nmasing-masing ada di samping pengadilan yang sama berperselisihan\nharus memberitahukan\nhal masuknya permohonan tersebut di atas\nkepada pengadilan-pengadilan itu.\n2. Dalam hal yang tersebut pada Pasal 101 ke satu,\nsetelah menerima pemberitahuan tersebut pada ayat (1), maka\npemeriksaan perkara\noleh pengadilan-pengadilan berperselisihan\nharus ditunda sehingga perselisihan diputuskan.\nPasal 106\n1. Mahkamah Agung dapat memerintahkan kepada salah\nsuatu pengadilan untuk memeriksa terdakwa tentang hal-hal yang\ndianggap perlu untuk\nmengambil putusan.\n2. Pengadilan yang diperintahkan ini harus selekas\nmungkin membuat catatan pemeriksaan dan mengirimkan catatan itu\nkepada Mahkamah\nAgung.\nPasal 107\n1. Kemudian perselisihan diputus oleh Mahkamah\nAgung, yaitu setelah mendengar keterangan Jaksa Agung.\n2. Jaksa Agung harus memberitahukan putusan itu\nkepada terdakwa dan Jaksa pada Kejaksaan yang ada di samping\npengadilan-pengadilan\nyang berperselisihan.\nBAB VI.\nJALAN - PENGADILAN PADA PERADILAN TINGKATAN KEDUA\nBAGI PUTUSAN-PUTUSAN WASIT.\nPasal 108\n1. Dari putusan wasit, yang menurut Pasal 15 dapat\ndimohonkan pemeriksaan pada tingkatan peradilan kedua, oleh salah\nsatu dari pihak-pihak\nyang berkepentingan dapat dimohonkan ulangan\npemeriksaan oleh Mahkamah Agung.\n2. Permohonan ini harus disampaikan dengan surat\nkepada Ketua Mahkamah Agung dalam tempo satu bulan setelah putusan\nwasit diberitahukan\nkepada pihak-pihak yang berkepentingan,\ndisertai turunan putusan wasit dan surat-surat lain yang dianggap\nperlu.\nPasal 109\n1. Permohonan pemeriksaan ulangan yang dapat\nditerima, dicatat oleh Panitera Mahkamah Agung di dalam\ndaftar.\n2. Panitera memberitahukan hal itu kepada pihak lawan.\n3. Kedua belah pihak boleh memasukkan surat-surat\nketerangan dan bukti kepada Panitera Mahkamah Agung, asal saja\nturunan surat-surat\nitu diberitahukan kepada pihak lawan.\nPasal 110\nKalau dipandang perlu, maka Mahkamah Agung sebelum mengambil\nputusan mendengar para pihak yang berperkara dalam sidang\npengadilan.\nPasal 111\nPutusan Mahkamah Agung tentang hal ini dapat dijalankan secara\nmenjalankan putusan Pengadilan Negeri dalam perkara perdata.\nBAB VII.\nJALAN - PENGADILAN DALAM PEMERIKSAAN KASASI.\nBagian 1.\nDalam perkara perdata.\nPasal 112\nDalam hal yang menurut Pasal-pasal 16-19 pada putusan\npengadilan-pengadilan dan para Hakim dalam perkara perdata boleh\ndimajukan\npermohonan pemeriksaan kasasi, maka para pihak dapat\nmemasukkan permohonan pemeriksaan kasasi oleh Mahkamah Agung.\nPasal 113\n1. Permohonan untuk pemeriksaan kasasi harus\ndisampaikan dengan surat atau dengan lisan oleh pemohon atau\nwakilnya, yang sengaja dikuasakan\nuntuk memajukan permohonan itu,\nkepada Panitera dari pengadilan atau Hakim yang mengadakan putusan,\npenetapan atau perbuatan, yang\ndimohonkan pemeriksaan kasasi, yaitu\ndi Jawa dan Madura dalam tempo tiga minggu dan di luar Jawa dan\nMadura dalam tempo enam minggu\nsesudah putusan yang kekuatannya\nsudah tetap, diberitahukan kepada pemohon.\n2. Permohonan itu oleh Panitera tersebut ditulis\ndalam sebuah surat keterangan yang ditandatangani oleh Panitera\ntersebut dan jika\ndapat juga pemohon atau wakilnya, surat\nketerangan mana harus dilampirkan pada surat-surat pemeriksaan\nperkara dan dicatat dalam\ndaftar.\n3. Permohonan itu harus selekas mungkin oleh\nPanitera diberitahukan kepada pihak lawan.\nPasal 114\n1. Selama surat-surat pemeriksaan perkara belum\ndikirim ke Mahkamah Agung, maka permohonan pemeriksaan kasasi dapat\ndicabut kembali\noleh pemohon.\n2. Pemeriksaan kasasi hanya dapat diadakan satu kali saja.\nPasal 115\n1. Pada waktu menyampaikan permintaan atau\nselambat-lambatnya dua minggu kemudian, pemohon pemeriksaan kasasi\nharus memajukan alasan-alasan\npermohonan kepada Panitera tersebut\npada Pasal 113 ayat (1).\n2. Jika apa yang disebut pada ayat (1) pasal ini\ndilalaikan, maka permohonan pemeriksaan kasasi dianggap tidak\nada.\n3. Pihak lawan berhak memajukan surat yang\nbermaksud melawan atau menyokong permohonan itu kepada Panitera\ntersebut pada ayat (1)\nselambat-lambatnya dua minggu terhitung\nmulai pada hari berikutnya hari pemberitahuan permohonan\npemeriksaan kasasi kepadanya.\nPasal 116\nSelambat-lambatnya satu bulan, terhitung mulai pada hari berikutnya\nhari menyampaikan permohonan pemeriksaan kasasi kepada Panitera\ntersebut pada Pasal 113 ayat (1), Panitera ini harus mengirimkan\nturunan surat putusan atau penetapan atau perbuatan lain dan\nsurat-surat\npemeriksaan serta surat bukti kepada Panitera Mahkamah\nAgung, yang seketika harus menulis permohonan ini dalam daftar dan\nmemberitahukan\nhal ini kepada Ketua Mahkamah Agung.\nPasal 117\nPemeriksaan kasasi dilakukan oleh Mahkamah Agung, jika dipandang\nperlu dengan mendengar sendiri para pihak atau saksi atau menyuruh\nmendengarkan para pihak atau saksi oleh Pengadilan Tinggi atau\nPengadilan Negeri yang dalam daerah hukumnya berdiam salah satu\npihak.\nPasal 118\nJika diputuskan oleh Mahkamah Agung bahwa permintaan kasasi\nditolak, maka hal ini harus diberitahukan kepada pemohon\npemeriksaan\nkasasi dan pihak lawannya dan surat-surat pemeriksaan\nperkara dikirimkan kembali kepada Panitera pengadilan yang\nbersangkutan.\nPasal 119\nDalam putusan sebagai yang tersebut dalam Pasal 20 dan Pasal 21\nMahkamah Agung tidak terikat kepada alasan-alasan yang dimajukan\noleh pemohon pemeriksaan kasasi melainkan dapat memakai\nalasan-alasan lain.\nPasal 120\n1. Putusan Mahkamah Agung dalam pemeriksaan kasasi\ndiucapkan dalam sidang terbuka untuk umum.\n2. Turunan surat putusan dikirimkan kepada Ketua pengadilan yang\nbersangkutan.\nBagian 2.\nDalam perkara pidana.\nPasal 121\nDalam hal yang menurut Pasal-pasal 16-19 pada putusan penetapan dan\nperbuatan pengadilan-pengadilan dan para Hakim dalam perkara\npidana\nboleh dimajukan permohonan pemeriksaan kasasi, maka terdakwa atau\nJaksa Agung dapat memasukkan permohonan pemeriksaan kasasi\noleh\nMahkamah Agung.\nPasal 122\n1. Permohonan untuk pemeriksaan kasasi harus\ndisampaikan dengan surat atau dengan lisan oleh pemohon atau\nwakilnya, yang sengaja dikuasakan\nuntuk memajukan permohonan itu,\nkepada Panitera pengadilan atau Hakim yang mengadakan putusan,\npenetapan atau perbuatan yang dimohonkan\npemeriksaan kasasi, yaitu\ndi Jawa dan Madura dalam tempo tiga minggu dan di luar Jawa dan\nMadura dalam tempo enam minggu sesudah\nputusan, yang kekuatannya\nsudah tetap diberitahukan kepada terdakwa.\n2. Permohonan itu oleh Panitera tersebut ditulis\ndalam sebuah surat keterangan yang ditandatangani oleh Panitera\ntersebut dan jika\ndapat, juga oleh pemohon atau wakilnya, dan pada\nsurat keterangan ini harus disertakan surat-surat pemeriksaan\nperkara dan juga dicatat\ndalam daftar.\nPasal 123\nJika Jaksa yang memasukkan permohonan pemeriksaan kasasi, maka hal\nitu harus selekas mungkin diberitahukan kepada terdakwa.\nPasal 124\n1. Selama surat-surat pemeriksaan perkara belum\ndikirim ke Mahkamah Agung, permohonan pemeriksaan kasasi dapat\ndicabut kembali oleh\npemohon, dan jika dicabut, tidak dapat\ndiulangi lagi.\n2. Pemeriksaan kasasi hanya dapat diadakan satu kali saja.\nPasal 125\n1. Pemohon pemeriksaan kasasi harus memajukan\nalasan-alasan permintaan, yaitu pada waktu menyampaikan permohonan\natau selambat-lambatnya\ndua minggu kemudian kepada panitera\ntersebut pada Pasal 122 ayat (1).\n2. Jika apa yang disebut pada ayat (1) pasal ini\ndilalaikan, maka permohonan pemeriksaan kasasi dianggap tidak\nada.\n3. Jika yang mohon pemeriksaan kasasi adalah Jaksa\nAgung, maka terdakwa berhak memajukan surat yang bermaksud melawan\natau menguatkan\npermintaan Jaksa Agung, kepada Panitera tersebut\npada ayat (1), selambat-lambatnya dua minggu, terhitung mulai pada\nhari berikutnya\nhari pemberitahuan permohonan pemeriksaan kasasi\nkepadanya.\nPasal 126\nSelambat-lambatnya satu bulan, terhitung mulai pada hari berikutnya\nhari penyampaian permohonan pemeriksaan kasasi kepada Panitera\ntersebut dalam Pasal 122 ayat (1), Panitera ini harus mengirimkan\nturunan surat putusan atau penetapan atau perbuatan lain dan surat\npemeriksaan serta surat-surat bukti kepada Panitera Mahkamah Agung,\nyang seketika harus menulis permohonan ini dalam daftar dan\nmemberitahukan\nhal ini kepada Ketua Mahkamah Agung surat yang\nbermaksud melawan atau menguatkan permohonan kasasi\nselambat-lambatnya dua minggu\nkemudian beserta surat-surat\ntersebut.\nPasal 127\nPemeriksaan kasasi dilakukan oleh Mahkamah Agung, jika dipandang\nperlu dengan mendengar sendiri terdakwa atau saksi atau menyuruh\nmendengarkan terdakwa atau saksi oleh Pengadilan Tinggi atau\nPengadilan Negeri, yang dalam daerah hukumnya bertempat tinggal\nterdakwa\natau saksi itu.\nPasal 128\nJika diputuskan oleh Mahkamah Agung, bahwa permohonan kasasi\nditolak, maka hal ini harus diberitahukan kepada pemohon\npemeriksaan\nkasasi dan Jaksa Agung dan surat-surat pemeriksaan\nperkara dikirim kembali kepada Panitera Pengadilan yang\nbersangkutan.\nPasal 129\nDalam putusan sebagai yang tersebut pada Pasal 20 dan Pasal 21\nMahkamah Agung tidak terikat kepada alasan-alasan yang dimajukan\noleh\npemohon pemeriksaan kasasi, melainkan dapat memakai\nalasan-alasan lain.\nPasal 130\n1. Putusan Mahkamah Agung dalam pemeriksaan kasasi\nharus ditandatangani oleh semua Hakim yang turut memeriksa dan oleh\nPanitera yang\nturut membantu pemeriksaan, kecuali jika mereka\nberhalangan, dan hal ini harus dicatat dalam surat putusan.\n2. Turunan surat putusan dikirimkan kepada Jaksa\nAgung dan Ketua pengadilan yang bersangkutan.\nBAB VIII.\nPERATURAN RUPA-RUPA.\nPasal 131\nJika dalam jalan-pengadilan ada soal yang tidak diatur dalam\nUndang-undang, maka Mahkamah Agung dapat menentukan sendiri secara\nbagaimana\nsoal itu harus diselesaikan.\nPasal 132\nMahkamah Agung wajib memberi laporan atau pertimbangan tentang\nsoal-soal yang berhubung dengan hukum, apabila hal itu diminta oleh\nPemerintah.\nPasal 133\nPengawasan tertinggi atas para notaris dan para pengacara dilakukan\noleh Mahkamah Agung.\nPasal 134\n1. Mahkamah Agung dapat menyuruh salah seorang\nanggota Mahkamah Agung supaya mengadakan pemeriksaan dalam rumah\npenjara di seluruh\nIndonesia dan memajukan laporan tentang hal\nitu.\n2. Sebagai akibat dari laporan itu Mahkamah Agung\ndapat memajukan pertimbangan seperlunya kepada Pemerintah.\nBAB IX.\nATURAN PERALIHAN.\nPasal 135\nSegala perkara yang masih sedang dalam pemeriksaan oleh Mahkamah\nAgung Republik Indonesia dan oleh Hooggerechtshof, dijalankan dan\ndiselesaikan oleh Mahkamah Agung Indonesia dengan pengertian, bahwa\ndalam menghitung tenggang-tenggang yang ditentukan tidak dihitung\ntenggang antara 27 Desember 1949 sampai mulai berlakunya\nUndang-undang ini.\nBAB X.\nNAMA UNDANG-UNDANG.\nPasal 136\nUndang-undang ini dapat disebut: \"UNDANG-UNDANG MAHKAMAH AGUNG\nINDONESIA\".\nBAB XI.\nMULAI BERLAKUNYA UNDANG-UNDANG.\nPasal 137\nUndang-undang ini mulai berlaku pada hari pengumumannya.\nAgar supaya setiap orang dapat mengetahuinya, kami memerintahkan\npengumuman Undang-undang ini dengan penempatan dalam Lembaran\nNegara\nRepublik Indonesia Serikat.\nDisahkan di Jakarta\npada tanggal 6 Mei 1950\nPRESIDEN REPUBLIK-INDONESIA SERIKAT\nSOEKARNO\nMENTERI KEHAKIMAN\nSOEPOMO\nDiumumkan di Jakarta\npada tanggal 9 Mei 1950\nSekretaris Kementerian Penerangan,\nMr. ABIMANJOE.\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1950 NOMOR 30"
+   }
+  }
+ ]
+}

@@ -1,0 +1,498 @@
+{
+ "id": "MY-H2260",
+ "title": {
+  "zh": "2011年国家洋麻与烟草局（洋麻及洋麻产品许可）条例",
+  "en": "NATIONAL KENAF AND TOBACCO BOARD (LICENSING OF KENAF AND KENAF PRODUCTS) REGULATIONS 2011",
+  "orig": "NATIONAL KENAF AND TOBACCO BOARD (LICENSING OF KENAF AND KENAF PRODUCTS) REGULATIONS 2011",
+  "ms": "Peraturan Lembaga Kenaf dan Tembakau Negara (Pelesenan Kenaf dan Produk Kenaf) 2011",
+  "vi": "Quy định về Ủy ban Kenaf và Thuốc lá Quốc gia (Cấp phép kenaf và sản phẩm kenaf) năm 2011",
+  "th": "ข้อบังคับคณะกรรมการปอแกนฟและยาสูบแห่งชาติ (การออกใบอนุญาตเคนาฟและผลิตภัณฑ์เคนาฟ) ค.ศ. 2011",
+  "id": "Peraturan Dewan Kenaf dan Tembakau Nasional (Perizinan Kenaf dan Produk Kenaf) Tahun 2011"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-5",
+ "language": "ms",
+ "level": "regulation",
+ "category": "04_劳工与行政法",
+ "status": "active",
+ "promulgatedDate": "2011",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "PUA198",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 38,
+ "chars": 47907,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-view.php?type=pua&no=P.U. (A) 198/2011&status=PRINCIPAL"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\04_劳工与行政法\\2011_P.U.(A)198-2011_NATIONAL KENAF AND TOBACCO BOARD (LICENSING OF KENAF AND KENAF PRODUCTS) REGULATIONS 2011.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 38 条；逐字未改写（源自厂商 OCR 文本）；已清除正文中的 4 个控制字符（C0/C1 区，法律文本中无合法用途，系 PDF 抽取/表单域残留）。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H2260-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "1. Nama dan permulaan kuat kuasa\n\nBAHAGIAN II\n\nLESEN"
+   }
+  },
+  {
+   "id": "MY-H2260-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "2. Kategori lesen"
+   }
+  },
+  {
+   "id": "MY-H2260-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "3. Permohonan bagi lesen"
+   }
+  },
+  {
+   "id": "MY-H2260-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "4. Butir lanjut, dsb."
+   }
+  },
+  {
+   "id": "MY-H2260-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "5. Permohonan secara fraud dan maklumat salah"
+   }
+  },
+  {
+   "id": "MY-H2260-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "6. Lesen sementara"
+   }
+  },
+  {
+   "id": "MY-H2260-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "7. Prosedur permohonan"
+   }
+  },
+  {
+   "id": "MY-H2260-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "8. Pemberitahuan keputusan"
+   }
+  },
+  {
+   "id": "MY-H2260-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "9. Pengeluaran lesen"
+   }
+  },
+  {
+   "id": "MY-H2260-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "10. Pematuhan kepada syarat, dsb. yang dikenakan ke atas lesen"
+   }
+  },
+  {
+   "id": "MY-H2260-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "11. Pindah milik lesen"
+   }
+  },
+  {
+   "id": "MY-H2260-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "12. Pembaharuan lesen"
+   }
+  },
+  {
+   "id": "MY-H2260-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "13. Kuasa Lembaga"
+   }
+  },
+  {
+   "id": "MY-H2260-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "14. Kuasa meminda dan mengubah lesen"
+   }
+  },
+  {
+   "id": "MY-H2260-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "15. Tunjuk sebab"
+   }
+  },
+  {
+   "id": "MY-H2260-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "16. Penggantungan dan pembatalan lesen"
+   }
+  },
+  {
+   "id": "MY-H2260-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "17. Penggantungan sementara\n\nPeraturan"
+   }
+  },
+  {
+   "id": "MY-H2260-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "18. Pemulangan lesen"
+   }
+  },
+  {
+   "id": "MY-H2260-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "19. Penyerahan semula lesen\n\nBAHAGIAN III\n\nKEWAJIPAN PEMEGANG LESEN"
+   }
+  },
+  {
+   "id": "MY-H2260-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "20. Penyenggaraan dan pengemukaan dokumen"
+   }
+  },
+  {
+   "id": "MY-H2260-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "21. Pemberitahuan perubahan maklumat yang diberikan"
+   }
+  },
+  {
+   "id": "MY-H2260-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "22. Pemberitahuan perubahan alamat"
+   }
+  },
+  {
+   "id": "MY-H2260-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "23. Penggantian lesen"
+   }
+  },
+  {
+   "id": "MY-H2260-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "24. Aktiviti dalam premis yang dinyatakan\n\nBAHAGIAN IV\n\nRAYUAN"
+   }
+  },
+  {
+   "id": "MY-H2260-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "25. Prosedur rayuan"
+   }
+  },
+  {
+   "id": "MY-H2260-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "26. Larangan permohonan yang sama sebelum penentuan rayuan\n\nBAHAGIAN V\n\nDAFTAR"
+   }
+  },
+  {
+   "id": "MY-H2260-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 27"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "27. Kewajipan menyimpan dan menyenggara daftar lesen"
+   }
+  },
+  {
+   "id": "MY-H2260-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 28"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "28. Pengeluaran nama daripada Daftar"
+   }
+  },
+  {
+   "id": "MY-H2260-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Section 29"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "29. Pengembalian nama dalam Daftar\n\nBAHAGIAN VI\n\nADUAN"
+   }
+  },
+  {
+   "id": "MY-H2260-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Section 30"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "30. Tatacara aduan"
+   }
+  },
+  {
+   "id": "MY-H2260-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Section 31"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "31. Pemberitahuan kepada pemegang lesen\n\nPeraturan"
+   }
+  },
+  {
+   "id": "MY-H2260-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Section 32"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "32. Siasatan awal terhadap aduan\n\nBAHAGIAN VII\n\nAM"
+   }
+  },
+  {
+   "id": "MY-H2260-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Section 33"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "33. Hak untuk memeriksa"
+   }
+  },
+  {
+   "id": "MY-H2260-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "Section 34"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "34. Menghalang pegawai yang diberi kuasa"
+   }
+  },
+  {
+   "id": "MY-H2260-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "Section 35"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "35. Menyamar sebagai pegawai yang diberi kuasa"
+   }
+  },
+  {
+   "id": "MY-H2260-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "Section 36"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "36. Salinan diakui sah"
+   }
+  },
+  {
+   "id": "MY-H2260-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "Section 37"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "37. Fi"
+   }
+  },
+  {
+   "id": "MY-H2260-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "Section 38"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "38. Borang\n\nJADUAL PERTAMA\n\nJADUAL KEDUA\n\nAKTA LEMBAGA KENAF DAN TEMBAKAU NEGARA 2009\n\nPERATURAN-PERATURAN LEMBAGA KENAF DAN TEMBAKAU NEGARA\n\n(PELESENAN KENAF DAN KELUARAN KENAF) 2011\n\nPADA menjalankan kuasa yang diberikan oleh perenggan 91(2)(a) Akta Lembaga Kenaf\n\ndan Tembakau Negara 2009 [Akta 692], Menteri membuat peraturan-peraturan yang\n\nberikut:\n\nBAHAGIAN I\n\nPERMULAAN\n\nNama dan permulaan kuat kuasa\n\n1. (1) Peraturan-peraturan ini bolehlah dinamakan Peraturan-Peraturan\n\nLembaga Kenaf dan Tembakau Negara (Pelesenan Kenaf dan Keluaran Kenaf)\n\n(2) Peraturan-Peraturan ini mula berkuat kuasa pada 1 Julai 2011.\n\nBAHAGIAN II\n\nLESEN\n\nKategori lesen\n\n2. (1) Lembaga boleh mengeluarkan lesen kepada pemohon bagi aktiviti-aktiviti\n\nyang berikut:\n\n(a) membeli kenaf;\n\n(b) menjual keluaran kenaf;\n\n(c) memproses kenaf;\n\n(d) mengilang kenaf atau keluaran kenaf; atau\n\n(e) mengimport atau mengeksport kenaf atau keluaran kenaf.\n\nPermohonan bagi lesen\n\n3. (1) Suatu permohonan bagi lesen hendaklah dibuat dalam borang yang\n\nditetapkan kepada Lembaga secara elektronik atau sebaliknya.\n\n(2) Pemohon boleh menarik balik permohonan pada bila-bila masa sebelum\n\nlesen dikeluarkan atau ditolak.\n\nButir lanjut, dsb.\n\n4. (1) Pada bila-bila masa selepas menerima permohonan dalam borang yang\n\nditetapkan, Lembaga boleh, jika Lembaga menghendaki butir-butir lanjut atau\n\nmaklumat atau dokumen lain, untuk membolehkan Lembaga mempertimbangkan\n\npermohonan secara adil, menghendaki pemohon untuk—\n\n(a) membekalkan butir, maklumat atau dokumen; atau\n\n(b) mematuhi apa-apa kehendak lain yang ditentukan oleh Lembaga.\n\n(2) Lembaga boleh enggan merekodkan, meneruskan dengan atau\n\nmendengar permohonan itu dan boleh menghendaki permohonan itu dipinda\n\nsewajarnya atau dilengkapkan dan dikemukakan semula atau suatu permohonan baru\n\ndikemukakan jika—\n\n(a) borang permohonan tidak dilengkapkan dengan sepatutnya oleh\n\nsebab apa-apa peninggalan atau salah perihalan;\n\n(b) borang permohonan mengandungi apa-apa kesilapan atau\n\npengubahan; atau\n\n(c) permohonan tidak mematuhi mana-mana kehendak yang\n\nditentukan oleh Lembaga.\n\n(3) Jika mana-mana maklumat atau dokumen yang dikehendaki di bawah\n\nsubperaturan (1) tidak dibekalkan oleh pemohon dalam masa yang dinyatakan,\n\npermohonan itu adalah disifatkan sebagai ditarik balik tanpa prasangka untuk\n\npermohonan baru dibuat oleh pemohon.\n\nPermohonan secara fraud dan maklumat salah\n\n5. (1) Tiada seseorang boleh membuat permohonan secara fraud atau\n\nmemberikan maklumat palsu dalam membuat permohonan kepada Lembaga.\n\n(2) Mana-mana orang yang melanggar subperaturan (1) melakukan suatu\n\nkesalahan dan boleh, apabila disabitkan, didenda tidak melebihi tiga puluh ribu ringgit\n\natau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya.\n\nLesen sementara\n\n6. (1) Lembaga boleh mengeluarkan lesen sementara mengikut borang yang\n\nditetapkan kepada pemohon.\n\n(2) Lembaga boleh membatalkan lesen sementara sekiranya Lembaga\n\nberpuas hati bahawa—\n\n(a) mana-mana peruntukan Akta ini atau mana-mana undang-undang\n\nbertulis yang lain atau mana-mana syarat, batasan atau sekatan\n\nlesen itu tidak dipatuhi;\n\n(b) pengeluaran lesen telah didorong oleh representasi palsu\n\nmengenai fakta oleh atau bagi pihak pemegang lesen; atau\n\n(c) pemegang lesen telah terhenti menjalankan atau mengendalikan\n\napa-apa aktiviti yang baginya lesen itu dikeluarkan.\n\n(3) Lesen sementara hendaklah sah bagi tempoh enam bulan atau sehingga\n\nlesen dikeluarkan oleh Lembaga, mengikut mana-mana yang lebih pendek.\n\n(4) Lembaga boleh melanjutkan tempoh kesahan lesen sementara\n\nsebagaimana yang difikirkannya patut.\n\nProsedur permohonan\n\n7. (1) Sekiranya permohonan dibuat melalui pos, tarikh pada cap pos di atas\n\nsampul surat hendaklah disifatkan sebagai tarikh yang baginya permohonan itu dibuat.\n\n(2) Walau apa pun subperaturan (1), sekiranya Ketua Pengarah tidak boleh\n\nmenentukan tarikh pada cap pos, permohonan itu hendaklah disifatkan sebagai telah\n\ndibuat tiga hari sebelum tarikh yang baginya permohonan itu diterima oleh Lembaga.\n\n(3) Tertakluk kepada subperaturan (4), sekiranya suatu permohonan dibuat\n\nsecara elektronik, tarikh pada cap masa yang ditera pada permohonan itu hendaklah\n\ndisifatkan sebagai tarikh yang baginya permohonan itu dibuat.\n\n(4) Jika tiada cap masa ditera pada permohonan itu atau Ketua Pengarah\n\ntidak dapat memastikan tarikh pada cap masa, permohonan itu hendaklah disifatkan\n\ntelah dibuat pada tarikh yang baginya permohonan itu diterima oleh Lembaga.\n\n(5) Lembaga hanya boleh mempertimbangkan borang permohonan yang\n\nlengkap.\n\nPemberitahuan keputusan\n\n8. (1) Setelah mempertimbangkan permohonan itu, Lembaga hendaklah\n\nmemberitahu pemohon keputusan Lembaga untuk meluluskan atau menolak\n\npermohonan itu secara bertulis.\n\n(2) Tiada seseorang boleh membuat permohonan selanjutnya berikutan\n\npenolakan permohonan oleh Lembaga bagi tempoh dua bulan dari tarikh penolakan\n\npermohonan itu.\n\n(3) Mana-mana orang yang melanggar subperaturan (2) melakukan suatu\n\nkesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima ribu ringgit atau\n\ndipenjarakan selama tempoh tidak melebihi enam bulan atau kedua-duanya.\n\nPengeluaran lesen\n\n9. (1) Lembaga hendaklah memberikan pemohon notis kelulusan bagi\n\npermohonan berserta suatu surat tawaran bagi pengeluaran lesen.\n\n(2) Pemohon hendaklah menghantar surat setuju terima berserta dengan fi\n\nyang ditetapkan kepada Lembaga.\n\n(3) Lembaga hendaklah mengeluarkan lesen dalam Borang 3 sebagaimana\n\nyang dinyatakan dalam Jadual Kedua selepas menerima surat setuju terima dan fi yang\n\nditetapkan.\n\n(4) Dalam hal suatu perkongsian—\n\n(a) lesen dikeluarkan dengan nama semua pekongsi dinyatakan di\n\ndalam lesen; dan\n\n(b) setiap pekongsi hendaklah disifatkan sebagai bertanggungan\n\nsecara bersesama dan berasingan bagi mana-mana tindakan atau\n\ntinggalan pekongsi lain.\n\n(5) Walau apa pun subperaturan (4), seorang pekongsi tidak bertanggungan\n\njika pekongsi itu membuktikan dengan memuaskan hati Mahkamah bahawa pekongsi\n\nitu bertindak secara suci hati dan tidak menyumbang secara langsung atau tidak\n\nlangsung kepada tindakan atau tinggalan itu.\n\nPematuhan kepada syarat, dsb. yang dikenakan ke atas lesen\n\n10. (1) Tiada seseorang boleh melanggar syarat, batasan atau sekatan yang\n\ndikenakan ke atas lesen oleh Lembaga.\n\n(2) Mana-mana orang yang melanggar subperaturan (1) melakukan suatu\n\nkesalahan dan boleh, apabila disabitkan, didenda tidak melebihi tiga puluh ribu ringgit\n\natau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya.\n\nPindah milik lesen\n\n11. (1) Suatu permohonan bagi memindah milik lesen hendaklah dibuat dalam\n\nBorang 4 sebagaimana yang dinyatakan dalam Jadual Kedua berserta fi yang ditetapkan\n\nkepada Lembaga, secara elektronik atau sebaliknya.\n\n(2) Setelah menimbangkan permohonan itu, Lembaga hendaklah\n\nmemberitahu pemohon keputusannya secara bertulis.\n\n(3) Setelah menerima kelulusan bertulis daripada Lembaga, pemohon\n\nhendaklah memulangkan lesen untuk diendorskan oleh Lembaga.\n\n(4) Pemohon boleh menarik balik permohonan pada bila-bila masa sebelum\n\npindah milik lesen itu diluluskan atau ditolak.\n\n(5) Walau apa pun subperaturan (4), apa-apa pembayaran fi yang ditetapkan\n\nyang telah dibuat tidak boleh dipulangkan.\n\n(6) Lembaga boleh membatalkan kelulusan bertulis jika Lembaga berpuas\n\nhati bahawa—\n\n(a) mana-mana peruntukan Akta ini atau mana-mana undang-undang\n\nbertulis yang lain atau mana-mana syarat, batasan atau sekatan\n\nlesen itu tidak dipatuhi;\n\n(b) pengeluaran lesen telah didorong oleh representasi palsu\n\nmengenai fakta oleh atau bagi pihak pemegang lesen; atau\n\n(c) pemegang lesen telah terhenti menjalankan atau mengendalikan\n\napa-apa aktiviti yang baginya lesen itu dikeluarkan.\n\nPembaharuan lesen\n\n12. (1) Suatu permohonan bagi membaharui lesen hendaklah dibuat dalam\n\nBorang 1 sebagaimana yang dinyatakan dalam Jadual Kedua berserta fi yang ditetapkan\n\nkepada Lembaga, secara elektronik atau sebaliknya.\n\n(2) Jika apa-apa permohonan bagi pembaharuan lesen dibuat kurang dari dua\n\nbulan sebelum tarikh habis tempoh lesen, Lembaga boleh memperbaharui lesen\n\ntertakluk kepada pengenaan penalti tidak melebihi lima ratus peratus daripada fi lesen\n\natau lima ribu ringgit, mana-mana yang lebih tinggi.\n\n(3) Mana-mana permohonan bagi pembaharuan lesen yang diterima oleh\n\nLembaga selepas habis tempoh pembaharuan lesen hendaklah dikira sebagai suatu\n\npermohonan baru.\n\nKuasa Lembaga\n\n13. Lembaga mempunyai kuasa untuk—\n\n(a) menyemak semula apa-apa lesen pada bila-bila masa;\n\n(b) meminda atau mengubah apa-apa lesen;\n\n(c) memanggil pemegang lesen untuk menunjukkan sebab; dan\n\n(d) menggantung atau membatalkan lesen.\n\nKuasa meminda dan mengubah lesen\n\n14. (1) Mana-mana pemegang lesen boleh membuat permohonan bagi meminda\n\natau mengubah lesen dalam Borang 5 sebagaimana yang dinyatakan dalam Jadual\n\nKedua kepada Lembaga, secara elektronik atau sebaliknya.\n\n(2) Selepas menimbangkan permohonan itu, Lembaga boleh meminda atau\n\nmengubah lesen dengan sewajarnya.\n\nTunjuk sebab\n\n15. (1) Lembaga boleh memanggil pemegang lesen untuk menunjukkan sebab\n\nmengapa suatu lesen tidak sepatutnya digantung, dibatalkan atau ditolak\n\npembaharuannya.\n\n(2) Lembaga hendaklah memberikan butiran mengenai dakwaan\n\npelanggaran atau ketidakpatuhan yang membabitkan penggantungan, pembatalan atau\n\npenolakan pembaharuan lesen itu dalam surat tunjuk sebab kepada pemegang lesen.\n\nPenggantungan dan pembatalan lesen\n\n16. (1) Lembaga boleh menggantung, membatalkan atau menolak untuk\n\nmembaharui lesen jika Lembaga berpendapat bahawa pemegang lesen gagal untuk\n\nmenunjukkan sebab mengapa suatu lesen tidak sepatutnya digantung, dibatalkan atau\n\nditolak pembaharuannya.\n\n(2) Lembaga hendaklah memaklumkan pemegang lesen keputusannya secara\n\nbertulis.\n\n(3) Jika lesen digantung, dibatalkan atau ditolak pembaharuannya, lesen\n\ntidak sah—\n\n(a) semasa tempoh penggantungan;\n\n(b) dari tarikh pembatalan; atau\n\n(c) apabila ditolak pembaharuannya.\n\n(4) Seseorang yang lesennya telah dibatalkan atau seseorang yang\n\npermohonannya bagi membaharui lesen telah ditolak tidak boleh dilesenkan semula\n\nselama tempoh tidak melebihi satu tahun dari tarikh pembatalan atau sebagaimana\n\nyang ditetapkan oleh Lembaga pada masa suatu keputusan dibuat.\n\nPenggantungan sementara\n\n17. (1) Lembaga boleh mengikut budi bicara mutlaknya menggantung manamana lesen apabila notis bertulis untuk menunjukkan sebab dikeluarkan sehingga\n\nprosiding ditentukan.\n\n(2) Walau apa pun subperaturan (1), Lembaga boleh menarik semula\n\npenggantungan lesen pada bila-bila masa.\n\nPemulangan lesen\n\n18. Seseorang hendaklah memulangkan lesen kepada Lembaga jika lesen itu\n\ndigantung, dibatalkan atau untuk lesen yang dipinda, untuk diendors.\n\nPenyerahan lesen\n\n19. (1) Seseorang pemegang lesen boleh menyerah lesennya dengan\n\nmengemukakannya kepada Lembaga berserta notis bertulis mengenai penyerahan itu.\n\n(2) Penyerahan itu hendaklah berkuat kuasa pada tarikh Lembaga menerima\n\nlesen dan notis itu atau pada tarikh terkemudian yang dinyatakan dalam notis itu.\n\n(3) Seseorang pemegang lesen tidak dibenarkan untuk menarik balik\n\npenyerahan lesen itu melainkan jika penyerahan itu dinyatakan untuk berkuat kuasa\n\npada tarikh terkemudian dan sebelum tarikh itu Lembaga melalui notis membenarkan\n\npenyerahan itu ditarik balik.\n\nBAHAGIAN III\n\nKEWAJIPAN PEMEGANG LESEN\n\nPenyenggaraan dan pengemukaan dokumen\n\n20. (1) Seseorang pemegang lesen hendaklah menyimpan, menyenggara atau\n\nmengeluarkan, mengikut mana-mana yang berkenaan, rekod yang sewajarnya\n\nmengenai pengeluaran, penjualan, pembelian, penyimpanan, stok, pengimportan,\n\npengeksportan, perkhidmatan yang diberikan, buku akaun dan dokumen lain yang\n\nberkaitan bagi kenaf atau keluaran kenaf sebagaimana yang dikehendaki dan dengan\n\ncara yang ditentukan oleh Lembaga.\n\n(2) Seseorang pemegang lesen hendaklah menyerahkan atau mengemukakan\n\ndokumen di bawah subperaturan (1) bagi pemeriksaan atau penyalinan dokumen itu\n\njika dikehendaki berbuat demikian oleh pegawai diberi kuasa.\n\n(3) Dokumen di bawah subperaturan (1) hendaklah dipegang oleh pemegang\n\nlesen tidak kurang daripada dua tahun dari tarikh kemasukan terakhir dan hendaklah\n\nsama ada dalam bahasa kebangsaan atau bahasa Inggeris.\n\n(4) Seseorang pemegang lesen yang tidak mematuhi peraturan ini melakukan\n\nsuatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi dua puluh ribu\n\nringgit atau dipenjarakan selama tempoh tidak melebihi enam bulan atau keduaduanya.\n\nPemberitahuan perubahan maklumat yang diberikan\n\n21. (1) Seseorang pemegang lesen hendaklah memberitahu Lembaga secara\n\nbertulis mengenai apa-apa perubahan dalam apa-apa maklumat yang diberikan kepada\n\nLembaga, selain perubahan alamat dalam masa empat belas hari bekerja berlakunya\n\nperubahan itu.\n\n(2) Jika apa-apa perubahan berlaku pada perkongsian, mana-mana pekongsi\n\nyang masih tinggal hendaklah memberitahu Lembaga secara bertulis mengenai apa-apa\n\nperubahan dalam masa empat belas hari bekerja berlakunya perubahan itu.\n\n(3) Mana-mana orang yang melanggar peraturan ini melakukan suatu\n\nkesalahan dan boleh, apabila disabitkan, didenda tidak melebihi sepuluh ribu ringgit\n\natau dipenjarakan selama tempoh tidak melebihi enam bulan atau kedua-duanya.\n\nPemberitahuan perubahan alamat\n\n22. (1) Seseorang pemegang lesen hendaklah memberitahu Lembaga secara\n\nbertulis mengenai apa-apa perubahan alamat dalam masa tujuh hari bekerja.\n\n(2) Mana-mana orang yang melanggar peraturan ini melakukan suatu\n\nkesalahan dan boleh, apabila disabitkan, didenda tidak melebihi sepuluh ribu ringgit\n\natau dipenjarakan selama tempoh tidak melebihi enam bulan atau kedua-duanya.\n\nPenggantian lesen\n\n23. (1) Seseorang pemegang lesen boleh memohon secara bertulis kepada\n\nLembaga bagi menggantikan lesen yang telah hilang berserta fi yang ditetapkan.\n\n(2) Suatu permohonan hendaklah disertakan dengan laporan polis oleh\n\npemegang lesen yang menyatakan bahawa lesen yang telah dikeluarkan kepada\n\npemegang lesen itu telah hilang.\n\n(3) Lembaga boleh mengeluarkan lesen pengganti kepada pemegang lesen\n\njika Lembaga berpuas hati bahawa salinan asal telah hilang.\n\nAktiviti dalam premis yang dinyatakan\n\n24. (1) Tiada seorang pemegang lesen boleh menjalankan aktiviti yang\n\ndinyatakan dalam lesen melainkan di dalam premis yang dinyatakan dalam lesen itu.\n\n(2) Mana-mana pemegang lesen yang melanggar peraturan ini melakukan\n\nsuatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi tiga puluh ribu\n\nringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya.\n\nBAHAGIAN IV\n\nRAYUAN\n\nProsedur rayuan\n\n25. (1) Seseorang yang terkilan dengan keputusan Lembaga boleh merayu\n\nkepada Menteri secara bertulis berserta fi yang ditetapkan.\n\n(2) Menteri boleh menubuhkan apa-apa jawatankuasa bagi tujuan\n\nmendengar rayuan dan menasihati Menteri mengenai penentuan yang sewajarnya\n\ndibuat terhadap rayuan itu.\n\n(3) Tiada anggota Lembaga boleh dilantik dalam jawatankuasa itu.\n\n(4) Anggota jawatankuasa itu boleh dibayar elaun sebagaimana yang\n\nditentukan oleh Menteri.\n\n(5) Menteri tidak terikat untuk menerima nasihat jawatankuasa tetapi boleh\n\nsetelah mempertimbangkan mana-mana rayuan dan nasihat jawatankuasa membuat\n\npenentuan terhadap rayuan itu sebagaimana yang Menteri fikir adil dan sesuai.\n\n(6) Jika Menteri membenarkan suatu rayuan terhadap keputusan\n\nmembatalkan lesen oleh Lembaga, kesahan lesen hendaklah dilanjutkan kepada suatu\n\ntempoh yang bersepadan dengan tempoh pembatalan, dan pelanjutan itu hendaklah\n\ndirekodkan di dalam lesen.\n\nLarangan permohonan yang sama sebelum penentuan rayuan\n\n26. (1) Jika seseorang pemohon merayu terhadap apa-apa penentuan Lembaga,\n\npemohon tidak boleh selepas itu membuat permohonan yang sama di bawah PeraturanPeraturan ini sehingga rayuan itu telah ditentukan oleh Menteri.\n\n(2) Walau apa pun subperaturan (1), jika mana-mana lesen telah diberikan\n\nhasil daripada permohonan yang sama, lesen yang diberikan itu hendaklah disifatkan\n\nsebagai terbatal.\n\nBAHAGIAN V\n\nDAFTAR\n\nKewajipan menyimpan dan menyenggara daftar lesen\n\n27. (1) Lembaga hendaklah menyimpan dan menyenggara suatu daftar lesen.\n\n(2) Mana-mana orang boleh memeriksa atau membuat salinan Daftar itu\n\nsemasa waktu pejabat apabila membuat bayaran fi yang ditetapkan.\n\nPengeluaran nama daripada Daftar\n\n28. (1) Lembaga boleh, sebagaimana yang difikirkannya patut, mengeluarkan\n\nnama pemohon daripada Daftar.\n\n(2) Walau apa pun subperaturan (1), Lembaga tidak boleh mengeluarkan\n\nnama pemohon jika kelakuan pemohon adalah perkara aduan di bawah Bahagian VI\n\nsehingga penentuan aduan itu.\n\nPengembalian nama dalam Daftar\n\n29. (1) Apa-apa permohonan oleh mana-mana orang supaya namanya\n\ndikembalikan ke dalam Daftar hendaklah dibuat secara bertulis berserta fi yang\n\nditetapkan.\n\n(2) Lembaga boleh, sebagaimana yang difikirkannya patut, mengembalikan\n\nke dalam Daftar nama mana-mana orang yang telah dikeluarkan daripada Daftar.\n\nBAHAGIAN VI\n\nADUAN\n\nTatacara aduan\n\n30. (1) Mana-mana orang boleh mengemukakan aduan bertulis kepada Lembaga\n\njika orang itu mempunyai apa-apa sebab untuk mempercayai bahawa\n\npemegang lesen—\n\n(a) telah disabitkan dengan kesalahan di bawah Akta ini;\n\n(b) tidak kompeten atau tidak layak untuk melaksanakan aktiviti\n\nberlesen; atau\n\n(c) telah mendapat lesen secara fraud atau salah nyataan.\n\n(2) Suatu aduan hendaklah menyatakan sebab kepercayaan yang menjadi\n\nasas aduan.\n\n(3) Setelah menerima aduan Lembaga hendaklah bermesyuarat dengan\n\nsegera dan memutuskan untuk mengadakan suatu siasatan atau tidak.\n\nPemberitahuan kepada pemegang lesen\n\n31. (1) Setelah mempertimbangkan aduan di bawah peraturan 30, Lembaga\n\nboleh mengadakan suatu siasatan terhadap aduan itu jika Lembaga fikirkan siasatan itu\n\nperlu dan patut.\n\n(2) Lembaga hendaklah memberikan pemegang lesen—\n\n(a) notis bertulis sekurang-kurangnya dua puluh satu hari mengenai\n\nmasa dan tempat siasatan itu;\n\n(b) sekurang-kurangya sepuluh hari sebelum siasatan itu suatu\n\nringkasan bertulis mengenai apa yang didakwa terhadap\n\npemegang lesen itu; dan\n\n(c) peluang yang munasabah untuk didengar atau untuk membuat\n\nrepresentasi bertulis.\n\n(3) Pemegang lesen itu boleh—\n\n(a) menghadiri siasatan itu;\n\n(b) diwakilkan; dan\n\n(c) memeriksa dan memeriksa balas saksi dan selainnya memberi\n\nketerangan.\n\n(4) Lembaga boleh mengadakan siasatan dalam apa cara sekali pun yang\n\ndifikirkan Lembaga sesuai dan saksama dan tidak terikat dengan kaedah keterangan.\n\n(5) Seseorang yang menghadiri siasatan untuk memberikan keterangan atau\n\nuntuk mengemukakan dokumen atau ekshibit lain adalah layak untuk mendapat\n\nbayaran bagi perbelanjaan dan kehilangan masa sebagaimana yang ditentukan oleh\n\nLembaga.\n\n(6) Jika pemegang lesen itu didapati bersalah ke atas aduan itu, Lembaga\n\nboleh mengenakan ke atas pemegang lesen itu salah satu atau mana-mana gabungan\n\ndua atau lebih yang berikut:\n\n(a) menggantung pemegang lesen;\n\n(b) mengeluarkan nama pemegang lesen dari Daftar;\n\n(c) membatalkan lesen pemegang lesen; atau\n\n(d) tidak melayakkan pemegang lesen untuk tempoh satu tahun.\n\n(7) Lembaga hendaklah memberitahu pemegang lesen dan pengadu\n\nmengenai penentuan itu secara bertulis.\n\nSiasatan awal terhadap aduan\n\n32. (1) Lembaga boleh menubuhkan suatu jawatankuasa untuk tujuan menyiasat\n\naduan dan untuk menasihati Lembaga mengenai penentuan yang sewajarnya dibuat\n\nterhadap aduan itu.\n\n(2) Tiada anggota Lembaga boleh dilantik dalam jawatankuasa itu.\n\n(3) Anggota jawatankuasa itu boleh dibayar elaun sebagaimana yang\n\nditentukan oleh Lembaga.\n\n(4) Lembaga tidak terikat untuk menerima nasihat jawatankuasa tetapi boleh\n\nsetelah mempertimbangkan mana-mana rayuan dan nasihat jawatankuasa membuat\n\npenentuan terhadap rayuan itu sebagaimana Lembaga fikirkan adil dan sesuai.\n\nBAHAGIAN VII\n\nAM\n\nHak untuk memeriksa\n\n33. Seseorang pemegang lesen hendaklah membenarkan premis yang dinyatakan\n\ndalam lesen untuk dimasuki dan diperiksa oleh pegawai yang diberi kuasa.\n\nMenghalang pegawai yang diberi kuasa\n\n34. (1) Tiada seseorang pun boleh menyerang, menghalang, menghindar atau\n\nmengganggu mana-mana pegawai yang diberi kuasa yang melaksanakan tugasnya di\n\nbawah Akta ini.\n\n(2) Mana-mana orang yang melanggar subperaturan (1) melakukan suatu\n\nkesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima puluh ribu ringgit\n\natau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya.\n\nMenyamar sebagai pegawai yang diberi kuasa\n\n35. (1) Tiada seseorang pun boleh menyamar sebagai pegawai yang diberi kuasa.\n\n(2) Mana-mana orang yang menyamar sebagai pegawai yang diberi kuasa\n\nmelakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi tiga\n\npuluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun atau\n\nkedua-duanya.\n\nSalinan diakui sah\n\n36. (1) Pemegang lesen atau pemegang perakuan kebenaran boleh memohon\n\nsecara bertulis kepada Lembaga bagi mendapatkan salinan diakui sah lesen atau\n\nperakuan kebenaran berserta fi yang ditetapkan.\n\n(2) Suatu permohonan di bawah subperaturan (1) hendaklah disertakan\n\ndengan suatu akuan berkanun atau laporan polis oleh pemegang lesen atau pemegang\n\nperakuan kebenaran bahawa lesen atau perakuan kebenaran yang dikeluarkan kepada\n\npemegang lesen atau pemegang perakuan kebenaran itu telah hilang, dimusnahkan atau\n\ndicacatkan, atau berserta suatu pernyataan yang menyatakan sebab bagi permohonan\n\nitu.\n\n(3) Lembaga boleh mengeluarkan atau menolak untuk mengeluarkan salinan\n\ndiakui sah lesen atau perakuan kebenaran kepada pemegang lesen atau pemegang\n\nperakuan kebenaran.\n\nFi\n\n37. (1) Fi untuk mengeluarkan atau membaharui lesen atau perakuan kebenaran\n\nhendaklah sebagaimana yang ditetapkan dalam Jadual Pertama.\n\n(2) Fi hendaklah dibayar kepada Lembaga dalam bentuk dan mengikut cara\n\nyang diarahkan oleh Lembaga.\n\n(3) Fi yang dipungut oleh Lembaga di bawah Peraturan-Peraturan ini\n\nhendaklah dibayar ke dalam Kumpulan Wang.\n\nBorang\n\n38. (1) Borang yang disenaraikan dalam Jadual Kedua hendaklah digunakan\n\nmasing-masingnya bagi maksud yang disebut dalam Borang itu.\n\n(2) Kandungan Borang yang disenaraikan dalam Jadual Kedua adalah\n\nsebagaimana yang ditentukan oleh Lembaga, dari masa ke semasa.\n\nJADUAL PERTAMA\n\nFI\n\n(Peraturan 37)\n\nPeraturan Perkara Fi\n\n(RM)\n\n1. Subperaturan 3(1) Permohonan bagi/pembaharuan lesen atau Perakuan\n\nKebenaran—\n\nJenis Lesen/Perakuan\n\n(a) membeli kenaf 150.00\n\n(b) menjual keluaran kenaf 150.00\n\n(c) memproses kenaf 150.00\n\n(d) mengilang kenaf atau keluaran kenaf 300.00\n\n(e) mengimport dan mengeksport kenaf atau keluaran\n\nkenaf\n\n300.00\n\n(f) Perakuan Kebenaran 50.00\n\n2. Peraturan 25 Rayuan kepada Menteri 1000.00\n\n3. Subperaturan 27(2) (a) Pemeriksaan Daftar\n\n(b) Membuat salinan Daftar\n\n5.00\n\n25.00\n\n4. Subperaturan 29(1) Permohonan pengembalian nama ke dalam Daftar 50.00\n\n5. Peraturan 36 Salinan diakui sah—\n\n(a) lesen\n\n(b) Perakuan Kebenaran\n\n50.00 bagi\n\nsatu salinan\n\n50.00 bagi\n\nsatu salinan\n\nJADUAL KEDUA\n\nBORANG\n\n(Peraturan 38)\n\nPeraturan Borang Tajuk\n\n1. Subperaturan 3(1) dan\n\n12(1)\n\nBorang 1 Permohonan bagi/pembaharuan lesen atau\n\nPerakuan Kebenaran\n\n2. Subperaturan 6(1) Borang 2 Lesen sementara\n\n3. Subperaturan 9(1) Borang 3 Lesen\n\n4. Subperaturan 11(1) Borang 4 Pindah milik lesen\n\n5. Subperaturan 14(1) Borang 5 Permohonan bagi meminda atau mengubah\n\nlesen\n\nDibuat 18 Mei 2011\n\n[KPPK (S)19(14)18/7; PN(PU2)679]\n\nTAN SRI BERNARD GILUK DOMPOK\n\nMenteri Perusahaan Perladangan dan Komoditi\n\nNATIONAL KENAF AND TOBACCO BOARD ACT 2009\n\nNATIONAL KENAF AND TOBACCO BOARD (LICENSING OF KENAF AND KENAF\n\nPRODUCTS) REGULATIONS 2011\n\n_________________________________\n\nARRANGEMENT OF REGULATIONS\n\n________________________________\n\nPART I\n\nPRELIMINARY\n\nRegulation\n\n1. Citation and commencement\n\nPART II\n\nLICENCE\n\n2. Categories of licence\n\n3. Application for licence\n\n4. Further particulars, etc.\n\n5. Fraudulent application and false information\n\n6. Temporary licence\n\n7. Application procedure\n\n8. Notification of decision\n\n9. Issuance of licence\n\n10. Compliance to the conditions, etc. imposed on licence\n\n11. Transfer of licence\n\n12. Renewal of licence\n\n13. Powers of the Board\n\n14. Power to amend and vary licence\n\n15. Show cause\n\nRegulation\n\n16. Suspension and cancellation of licence\n\n17. Provisional suspension\n\n18. Licence to be returned\n\n19. Surrender of licence\n\nPART III\n\nDUTY OF LICENSEE\n\n20. Maintenance and submission of documents\n\n21. Notification of change in information furnished\n\n22. Notification of change of address\n\n23. Replacement of licence\n\n24. Activities in specified premises\n\nPART IV\n\nAPPEAL\n\n25. Appeal procedure\n\n26. Prohibition of similar application pending determination of appeal\n\nPART V\n\nREGISTER\n\n27. Duty to keep and maintain a register for licence\n\n28. Removal of name from the Register\n\n29. Restoration of name to the Register\n\nPART VI\n\nCOMPLAINTS\n\nRegulation\n\n30. Complaint procedure\n\n31. Notification to the licensee\n\n32. Preliminary investigation of complaint\n\nPART VII\n\nGENERAL\n\n33. Right to inspect\n\n34. Obstructing authorized officer\n\n35. Impersonating authorized officer\n\n36. Certified copy\n\n37. Fees\n\n38. Forms\n\nFIRST SCHEDULE\n\nSECOND SCHEDULE\n\nNATIONAL KENAF AND TOBACCO BOARD ACT 2009\n\nNATIONAL KENAF AND TOBACCO BOARD\n\n(LICENSING OF KENAF AND KENAF PRODUCTS) REGULATIONS 2011\n\nIN exercise of the powers conferred by paragraph 91(2)(a) of the National Kenaf and\n\nTobacco Board Act 2009 [Act 692], the Minister makes the following regulations:\n\nPART I\n\nPRELIMINARY\n\nCitation and commencement\n\n1. (1) These regulations may be cited as the National Kenaf and Tobacco\n\nBoard (Licensing of Kenaf and Kenaf Products) Regulations 2011.\n\n(2) These Regulations come into operation on 1 July 2011.\n\nPART II\n\nLICENCE\n\nCategories of licence\n\n2. The Board may issue licence to an applicant for the following activities:\n\n(a) to purchase kenaf;\n\n(b) to sell kenaf products;\n\n(c) to process kenaf;\n\n(d) to manufacture kenaf or kenaf products; or\n\n(e) to import and export kenaf or kenaf products.\n\nApplication for licence\n\n3. (1) An application for a licence shall be made in the prescribed form to the\n\nBoard electronically or otherwise.\n\n(2) An applicant may withdraw an application at any time before the licence\n\nis issued or refused.\n\nFurther particulars, etc.\n\n4. (1) At any time after receiving an application in the prescribed form, the\n\nBoard may, if it requires further particulars or other information or documents to\n\nenable him to fairly consider the application, require the applicant—\n\n(a) to supply the particulars, information or documents; or\n\n(b) to comply with such other requirement as may be determined by\n\nthe Board.\n\n(2) The Board may refuse to record, proceed with or hear the application and\n\nmay require that the application be appropriately amended or completed and\n\nresubmitted or that a fresh application be submitted if—\n\n(a) the application form is not duly completed by reason of\n\nany omission or misdescription;\n\n(b) the application form contains any error or alteration; or\n\n(c) the application does not comply with any requirement as may be\n\ndetermined by the Board.\n\n(3) If any information or document required under subregulation (1) is not\n\nprovided by the applicant within the time specified, the application shall be deemed to\n\nbe withdrawn without prejudice to a fresh application being made by the applicant.\n\nFraudulent application and false information\n\n5. (1) No person shall make fraudulent application or to provide false\n\ninformation in making the application to the Board.\n\n(2) Any person who contravenes subregulation (1) commits an offence and\n\nshall, on conviction, be liable to a fine not exceeding thirty thousand ringgit or to\n\nimprisonment for a term not exceeding one year or to both.\n\nTemporary licence\n\n6. (1) The Board may issue temporary licence in the prescribed form to the\n\napplicant.\n\n(2) The Board may revoke the temporary licence if the Board is satisfied\n\nthat—\n\n(a) any provision of this Act or any other written law or any\n\nconditions, limitations or restrictions of the licence has not been\n\ncomplied with;\n\n(b) the issuance of the licence was induced by a false representation of\n\nfact by or on behalf of the licensee; or\n\n(c) the licensee has ceased to carry on or operate any activity for\n\nwhich the licence is issued.\n\n(3) The temporary licence shall be valid for a period of six months or until a\n\nlicence is issued by the Board, whichever is shorter.\n\n(4) The Board may extend the validity of the temporary licence, as the Board\n\ndeems fit.\n\nApplication procedure\n\n7. (1) If an application is made by post, the date on the postmark on the\n\nenvelope shall be deemed to be the date on which the application was made.\n\n(2) Notwithstanding subregulation (1), if the Director General is unable to\n\nascertain the date on the postmark, the application shall be deemed to have been made\n\nthree days before the date on which such application was received by the Board.\n\n(3) Subject to subregulation (4), if an application is made electronically, the\n\ndate on the time stamp affixed to the application shall be deemed to be the date on\n\nwhich the application was made.\n\n(4) If there is no time stamp affixed on the application or the Director General\n\nis unable to ascertain the date on the time stamp, on which the application shall be\n\ndeemed to have been made on the date the application was received by the Board.\n\n(5) Only a completed application form shall be considered by the Board.\n\nNotification of decision\n\n8. (1) After considering the application, the Board shall notify the applicant of\n\nits decision to approve or refuse the application in writing.\n\n(2) No person shall make further application following a refusal of\n\napplication by the Board for a period of two months from the date of the refusal of the\n\napplication.\n\n(3) Any person who contravenes subregulation (2) commits an offence and\n\nshall, on conviction, be liable to a fine not exceeding five thousand ringgit or to\n\nimprisonment for a term not exceeding six months or to both.\n\nIssuance of licence\n\n9. (1) The Board shall give the applicant a notice of approval for application\n\ntogether with an offer letter for the issuance of licence.\n\n(2) The applicant shall submit an acceptance letter together with the\n\nprescribed fee to the Board.\n\n(3) The Board shall issue the licence in Form 3 as specified in the Second\n\nSchedule after receiving the acceptance letter and the prescribed fee.\n\n(4) In the case of a partnership—\n\n(a) a licence is issued with the names of all the partners stated in the\n\nlicence; and\n\n(b) every partner shall be deemed to be liable jointly and severally for\n\nany act or omission of any other partner.\n\n(5) Notwithstanding subregulation (4), a partner is not liable if the partner\n\nproves to the satisfaction of the Court that he acted bona fide and in no way contributed\n\ndirectly or indirectly to that act or omission.\n\nCompliance to the conditions, etc. imposed on licence\n\n10. (1) No person shall breach the conditions, limitations or restrictions imposed\n\non the licence by the Board.\n\n(2) Any person who contravenes subregulation (1) commits an offence and\n\nshall, on conviction, be liable to a fine not exceeding thirty thousand ringgit or to\n\nimprisonment of a term not exceeding one year or to both.\n\nTransfer of licence\n\n11. (1) An application for the transfer of a licence shall be made in Form 4 as\n\nspecified in the Second Schedule together with the prescribed fee to the Board,\n\nelectronically or otherwise.\n\n(2) After considering the application, the Board shall notify the applicant of\n\nits decision in writing.\n\n(3) After receiving the written approval by the Board, the applicant shall\n\nreturn the licence to be endorsed by the Board.\n\n(4) An applicant may withdraw the application at any time before the\n\ntransfer is approved or refused.\n\n(5) Notwithstanding subregulation (4), the payment of the prescribed fee\n\nshall not be refundable.\n\n(6) The Board may revoke the written approval if the Board is satisfied that—\n\n(a) any provision of this Act or any other written law or any\n\nconditions, limitations or restrictions of the licence has not been\n\ncomplied with;\n\n(b) the issuance of the licence was induced by a false representation of\n\nfact by or on behalf of the licensee; or\n\n(c) the licensee has ceased to carry on or operate any activity for\n\nwhich the licence is issued.\n\nRenewal of licence\n\n12. (1) An application for the renewal of a licence shall be made in Form 1 as\n\nspecified in the Second Schedule together with the prescribed fee to the Board,\n\nelectronically or otherwise.\n\n(2) If any application for renewal of a licence is made less than two months\n\nbefore the expiry of the licence, the Board may renew the licence subject to an\n\nimposition of penalty not exceeding five hundred percent of the licence fee or five\n\nthousand ringgit, whichever is higher.\n\n(3) Any application for the renewal of licence which is received by the Board\n\nafter the expiry of the licence shall be treated as a new application.\n\nPowers of the Board\n\n13. The Board shall have the power to—\n\n(a) review any licence at any time;\n\n(b) amend or vary any licence;\n\n(c) call a licensee for a show cause; and\n\n(d) suspend or cancel licence.\n\nPower to amend and vary licence\n\n14. (1) Any licensee may make an application to amend or vary licence in Form 5\n\nas specified in the Second Schedule to the Board, electronically or otherwise.\n\n(2) After considering the application, the Board may amend or vary the\n\nlicence accordingly.\n\nShow cause\n\n15. (1) The Board may call upon the licensee to show cause why a licence should\n\nnot be suspended, cancelled or refused its renewal.\n\n(2) The Board shall provide particulars of the alleged contravention or noncompliance implicating the suspension, cancellation or refusal to renew the licence in\n\nthe show cause letter to the licensee.\n\nSuspension and cancellation of licence\n\n16. (1) The Board may suspend, cancel or refuse to renew the licence if the Board\n\nis of the opinion that the licensee has failed to show cause as to why the licence should\n\nnot be suspended, cancelled or refused its renewal.\n\n(2) The Board shall inform the licensee of its decision in writing.\n\n(3) If a licence has been suspended, cancelled or refused its renewal, it shall\n\nnot be valid—\n\n(a) during the period of suspension;\n\n(b) from the date of cancellation; or\n\n(c) upon refusal of its renewal.\n\n(4) A person whose licence has been cancelled or whose application for\n\nrenewal of licence has been refused shall not be licensed again for such period not\n\nexceeding one year from the date of the cancellation or as the Board shall determine at\n\nthe time of the decision is made.\n\nProvisional suspension\n\n17. (1) The Board may in its absolute discretion suspend any licence once a\n\nwritten notice of show cause is issued until the proceedings are determined.\n\n(2) Notwithstanding subregulation (1), the Board may withdraw the\n\nsuspension of any licence at any time.\n\nLicence to be returned\n\n18. A person shall return the licence to the Board if the licence is suspended,\n\ncancelled or for the amended licence, to be endorsed.\n\nSurrender of licence\n\n19. (1) A licensee may surrender his licence by forwarding it to the Board\n\ntogether with a written notice of the surrender.\n\n(2) The surrender shall take effect on the date the Board receives the licence\n\nand the notice or on a later date as specified in the notice.\n\n(3) The licensee is not allowed to withdraw the surrender of licence unless it\n\nis specified to take effect on a later date and before that date the Board by notice allows\n\nthe surrender to be withdrawn.\n\nPART III\n\nDUTY OF LICENSEE\n\nMaintenance and submission of documents\n\n20. (1) A licensee shall keep, maintain or issue, as the case may be, proper\n\nrecords of production, sale, purchase, storage, stock, import, export, services provided,\n\nbooks of account, and other relevant documents for kenaf or kenaf products as required\n\nand in the manner as determined by the Board.\n\n(2) A licensee shall submit or produce the documents under\n\nsubregulation (1) for examination or to make copies of such documents, if required to\n\ndo so by an authorized officer.\n\n(3) The documents under subregulation (1) shall be retained by a licensee for\n\nnot less than two years from the date of the last entry and shall be either in the national\n\nlanguage or the English language.\n\n(4) A licensee who fails to comply with this regulation commits an offence\n\nand shall, on conviction, be liable to a fine not exceeding twenty thousand ringgit or to\n\nimprisonment for a term not exceeding six months or to both.\n\nNotification of change in information furnished\n\n21. (1) A licensee shall inform the Board in writing of any change in any\n\ninformation furnished to the Board, other than a change of address, within fourteen\n\nworking days of such change.\n\n(2) If any change occurs on the partnership, any of the remaining partners\n\nshall inform the Board in writing of such change within fourteen working days of such\n\nchange.\n\n(3) Any person who contravenes this regulation commits an offence and\n\nshall, on conviction, be liable to a fine not exceeding ten thousand ringgit or to\n\nimprisonment for a term not exceeding six months or to both.\n\nNotification of change of address\n\n22. (1) A licensee shall notify the Board in writing of any change in his address\n\nwithin seven working days.\n\n(2) Any person who contravenes this regulation commits an offence and\n\nshall, on conviction, be liable to a fine not exceeding ten thousand ringgit or to\n\nimprisonment for a term not exceeding six months or to both.\n\nReplacement of licence\n\n23. (1) A licensee may apply in writing to the Board for a replacement of a lost\n\nlicence together with the prescribed fee.\n\n(2) An application shall be accompanied with a police report by the licensee\n\nto the effect that the licence issued to the licensee is lost.\n\n(3) The Board may issue a replacement licence to the licensee if the Board is\n\nsatisfied that the original copy has been lost.\n\nActivities in specified premises\n\n24. (1) No licensee shall carry out activities specified in the licence other than in\n\nthe premises specified in the licence.\n\n(2) Any licensee who contravenes this regulation commits an offence and\n\nshall, on conviction, be liable to a fine not exceeding thirty thousand ringgit or to\n\nimprisonment for a term not exceeding one year or to both.\n\nPART IV\n\nAPPEAL\n\nAppeal procedure\n\n25. (1) A person aggrieved by the decision of the Board may appeal to the\n\nMinister in writing accompanied with the prescribed fee.\n\n(2) The Minister may establish any committee for the purpose of hearing an\n\nappeal and of advising him as to the determination that should be made on the appeal.\n\n(3) No member of the Board shall be appointed to the committee.\n\n(4) Members of the committee may be paid such allowance as the Minister\n\nmay determine.\n\n(5) The Minister shall not be bound to accept the advice of the committee but\n\nmay after considering any appeal and the advice of the committee make such\n\ndetermination on the appeal as he thinks just and proper.\n\n(6) If the Minister allows an appeal against a determination to cancel a\n\nlicence by the Board, the validity of the licence shall be extended by a period\n\ncorresponding to the cancellation period and such extension shall be recorded in the\n\nlicence.\n\nProhibition of similar application pending determination of appeal\n\n26. (1) If an applicant appeals against any determination of the Board, he shall\n\nnot subsequently make a similar application under these Regulations until the appeal\n\nhas been determined by the Minister.\n\n(2) Notwithstanding subregulation (1), if any licence is granted as a result of\n\na similar application the licence so granted shall be deemed to be void.\n\nPART V\n\nREGISTER\n\nDuty to keep and maintain a register for licence\n\n27. (1) The Board shall keep and maintain a register for licence.\n\n(2) Any person may inspect or make a copy of the Register during office\n\nhours upon payment of the prescribed fee.\n\nRemoval of name from the Register\n\n28. (1) The Board may, if it thinks fit, remove the applicant's name from the\n\nRegister.\n\n(2) Notwithstanding subregulation (1), the Board shall not remove the\n\napplicant's name if the conduct of the applicant is the subject of complaint under Part VI\n\nuntil the determination of the complaint.\n\nRestoration of name to the Register\n\n29. (1) Any application for the name of any person to be restored to the Register\n\nshall be made in writing to the Board together with the prescribed fee.\n\n(2) The Board may, if it thinks fit, restore to the Register the name of any\n\nperson which has been removed from the Register.\n\nPART VI\n\nCOMPLAINTS\n\nComplaint procedure\n\n30. (1) Any person may lodge a written complaint to the Board if the person has\n\nany reason to believe that the licensee—\n\n(a) has been convicted of an offence under this Act;\n\n(b) is incompetent or unfit to perform the licensed activities; or\n\n(c) has obtained the licence by fraud or misrepresentation.\n\n(2) A complaint must specify the reasons to believe on which the complaint is\n\nbased.\n\n(3) After receiving a complaint the Board shall meet promptly and decide\n\nwhether to hold an inquiry.\n\nNotification to the licensee\n\n31. (1) After considering a complaint under regulation 30, the Board may hold an\n\ninquiry into the complaint if it thinks an inquiry is desirable and justified.\n\n(2) The Board shall give the licensee—\n\n(a) at least twenty one days written notice of time and place of the\n\ninquiry;\n\n(b) at least ten days before the inquiry a written summary of what is\n\nalleged against the licensee; and\n\n(c) a reasonable opportunity to be heard or make written\n\nrepresentations.\n\n(3) The licensee may—\n\n(a) attend the inquiry;\n\n(b) be represented; and\n\n(c) examine and cross-examine witnesses and otherwise offer\n\nevidence.\n\n(4) The Board may conduct an inquiry in whatever manner that it thinks\n\nappropriate and equitable and is not bound by the rules of evidence.\n\n(5) A person who attends an inquiry to give evidence or to produce a\n\ndocument or other exhibit is entitled to such sum for expenses and loss of time as the\n\nBoard may determine.\n\n(6) If the licensee is found guilty of the complaint, the Board may imposed on\n\nthe licensee any one or any combination of two or more of the following:\n\n(a) suspend the licensee;\n\n(b) remove the licensee's name from the Register;\n\n(c) cancel the licensee's licence; or\n\n(d) disqualify the licensee for a period of one year.\n\n(7) The Board shall notify the licensee and the complainant of the\n\ndetermination in writing.\n\nPreliminary investigation of complaint\n\n32. (1) The Board may establish a committee for the purpose of investigating a\n\ncomplaint and of advising the Board as to the determination that should be made on the\n\ncomplaint.\n\n(2) No member of the Board shall be appointed to the committee.\n\n(3) Members of the committee may be paid such allowance as the Board may\n\ndetermine.\n\n(4) The Board shall not be bound to accept the advice of the committee but\n\nmay after considering any complaint and the advice of the committee make such\n\ndetermination on the complaint as the Board thinks just and proper.\n\nPART VII\n\nGENERAL\n\nRight to inspect\n\n33. A licensee shall allow the premises specified in the licence to be entered and\n\ninspected by any authorized officer.\n\nObstructing authorized officer\n\n34. (1) No person shall assault, obstruct, impede or interfere with any authorized\n\nofficer in performing his duties under the Act.\n\n(2) Any person who contravenes subregulation (1) commits an offence and\n\nshall, on conviction, be liable to a fine not exceeding fifty thousand ringgit or to\n\nimprisonment for a term not exceeding one year or to both.\n\nImpersonating authorized officer\n\n35. (1) No person shall impersonate an authorized officer.\n\n(2) Any person who impersonates as an authorized officer commits an\n\noffence and shall, on conviction, be liable to a fine not exceeding thirty thousand ringgit\n\nor to imprisonment for a term not exceeding one year or to both.\n\nCertified copy\n\n36. (1) A licensee or certificate of authorization holder may apply in writing to\n\nthe Board for a certified copy of the licence or certificate of authorization together with\n\nthe prescribed fee.\n\n(2) An application under subregulation (1) shall be accompanied by a\n\nstatutory declaration or a police report by the licensee or the certificate of authorization\n\nholder to the effect that the licence or certificate of authorization issued to the licensee\n\nor certificate of authorization holder is lost, destroyed or mutilated or by a statement\n\nspecifying the reasons for the application.\n\n(3) The Board may issue or refuse to issue certified copy of the licence or\n\ncertificate of authorization to the licensee or the certificate of authorization holder.\n\nFees\n\n37. (1) The fees for the issue or renewal of licence or certificate of authorization,\n\nshall be as prescribed in the Schedule.\n\n(2) The fees shall be paid to the Board by such means and in such manner as\n\ndetermined by the Board.\n\n(3) The fees collected by the Board under these Regulations shall be paid into\n\nthe Fund.\n\nForms\n\n38. (1) The Forms listed in the Second Schedule shall be used for the purposes\n\nmentioned in the respective forms.\n\n(2) The contents of the Forms listed in the Second Schedule shall be such as\n\nmay from time to time, be determined by the Board.\n\nFIRST SCHEDULE\n\nFEES\n\n(Regulation 37)\n\nRegulation Matter Fees\n\n(RM)\n\n1. Subregulation 3(1) Application for/renewal of licence or Certificate of\n\nAuthorization—\n\nCategory of Licence/Certificate\n\n(a) purchase kenaf 150.00\n\n(b) sell kenaf products 150.00\n\n(c) process kenaf 150.00\n\n(d) manufacture kenaf or kenaf products 300.00\n\n(e) import and export kenaf or kenaf products 300.00\n\n(f) Certificate of Authorization 50.00\n\n2. Regulation 25 Appeal to the Minister 1000.00\n\n3. Subregulation 27(2) (a) Inspection of Register\n\n(b) Making a copy of Register\n\n5.00\n\n25.00\n\n4. Subregulation 29(1) Application of restoration of name in Register 50.00\n\n5. Regulation 36 Certified copy—\n\n(a) licence\n\n(b) Certificate of Authorization\n\n50.00 per\n\ncopy\n\n50.00 per\n\ncopy\n\nSECOND SCHEDULE\n\nFORMS\n\n(Regulation 38)\n\nRegulation Form Title\n\n1. Subregulations 3(1) and\n\n12(1)\n\nForm 1 Application for/renewal of licence or\n\nCertificate of Authorization\n\n2. Subregulation 6(1) Form 2 Temporary licence\n\n3. Subregulation 9(1) Form 3 Licence\n\n4. Subregulation 11(1) Form 4 Transfer of licence\n\n5. Subregulation 14(1) Form 5 Application to amend or vary licence\n\nMade 18 May 2011\n\n[KPPK(S)19(14)18/7; PN(PU2)679]\n\nTAN SRI BERNARD GILUK DOMPOK\n\nMinister of Plantation Industries and Commodities"
+   }
+  }
+ ]
+}

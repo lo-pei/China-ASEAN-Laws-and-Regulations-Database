@@ -1,0 +1,62 @@
+{
+ "id": "PH-H12811",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Section Seven of Act Numbered Five Hundred Amending 530. and thirty, Entitled \"An Act Defining the Jurisdiction of the Civil and of the Military Authorities Over Lands Reserved By the President of the United states for Military Purposes,\" By Providing for the Manner of Making Arrests and Serving Subpoenas on Military Reservations, or in Camps or Barracks.",
+  "orig": "An Act to Amend Section Seven of Act Numbered Five Hundred Amending 530. and thirty, Entitled \"An Act Defining the Jurisdiction of the Civil and of the Military Authorities Over Lands Reserved By the President of the United states for Military Purposes,\" By Providing for the Manner of Making Arrests and Serving Subpoenas on Military Reservations, or in Camps or Barracks."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1912-01-26",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2104",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 748,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1912/act_2104_1912.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02104_1912_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02104_1912_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12811-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section seven of Act Numbered Five hundred and thirty is hereby amended to read as follows:\n\"Section 7. No arrest of any officer, soldier, or civilian employee in the military service of the United States\nshall be made on any military reservation, or in any camp or barracks except on warrant in due form in\nwriting, copy of which shall be previously delivered to the commanding officer thereof; and no subpoena,\ndirected to any such officer, soldier, or civilian employee in the military service of the United States shall be\nserved on any military reservation, or in any camp or barracks without previously delivering a copy of such\nsubpoena to the commanding officer thereof.\""
+   }
+  },
+  {
+   "id": "PH-H12811-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, January 26, 1912."
+   }
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "id": "PH-H22121",
+ "title": {
+  "zh": null,
+  "en": "Amending Republic Act No. 1180 Entitled \"An Act to Regulate the Retail Business",
+  "orig": "Amending Republic Act No. 1180 Entitled \"An Act to Regulate the Retail Business"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1975-05-28",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 714",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1131,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_00714_1975_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_00714_1975_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22121-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section 4 of Republic Act No. 1180 is hereby amended to read as follows:\n\"Section 4. As used in this Act, the term 'retail business' shall mean any act, occupation or calling of\nhabitually selling direct to the general public merchandise, commodities or goods for consumption, but shall\nnot include:\n\"(a) a manufacturer, processor, laborer or worker selling to the general public the products manufactured,\nprocessed, or produced by him if his capital does not exceed five thousand pesos.\n\"(b) a farmer or agriculturist selling the product of his farm.\n\"(c) a manufacturer or processor selling to the industrial and commercial users or consumers who use the\nproducts bought by them to render service to the general public and/or to produce or manufacture goods which\nare in turn sold to them.\n\"(d) a hotel-owner or keeper operating a restaurant irrespective of the amount of capital, provided that the\nrestaurant is necessarily included in, or incidental to, the hotel business.\""
+   }
+  },
+  {
+   "id": "PH-H22121-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This decree shall take effect immediately.\nDONE in the City of Manila, this 28th day of May, in the year of Our Lord, nineteen hundred and\nseventy-five."
+   }
+  }
+ ]
+}

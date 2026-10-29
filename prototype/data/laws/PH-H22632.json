@@ -1,0 +1,62 @@
+{
+ "id": "PH-H22632",
+ "title": {
+  "zh": null,
+  "en": "Further Amending Section Eighty-Eight of Republic Act Numbered Two Hundred Sixty-Five, as Amended, Otherwise Known as the Central Bank",
+  "orig": "Further Amending Section Eighty-Eight of Republic Act Numbered Two Hundred Sixty-Five, as Amended, Otherwise Known as the Central Bank"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1978-01-16",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 1282",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1412,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_01282_1978_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_01282_1978_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22632-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section Eighty-eight of Republic Act Numbered Two Hundred Sixty-Five, as amended, is\nhereby amended to read as follows:\n\"Sec. 88. Loans to long-tern institutions.\n\"A. Under special circumstances in which the Monetary Board considers it advisable to promote or facilitate\nthe lending operations, or certain classes thereof, of banking institutions engaged in long-term financing, the\nCentral Bank may grant loans or advances to said institutions against pledge or assignment of payments,\ninstallments or amortizations of their borrowers. The Monetary Board shall prescribe the ceilings on said\nloans or advances based on the payments, installments, or amortizations pledged or assigned: Provided,\nhowever, That the Central Bank shall finance said loans from non-inflationary sources and shall establish\nadditional safeguards as it deems proper.\n\"In granting loans and advances under this subsection, the Central Bank shall first ascertain that the payments,\ninstallments and amortizations to be pledged or assigned to it are in no case currently in arrears and that said\npayments, installments and amortizations are related to credit operations which in every case are adequately\nsecured by mortgages. Said mortgages shall be assigned to the Central Bank.\""
+   }
+  },
+  {
+   "id": "PH-H22632-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Decree shall take effect immediately.\nDONE in the City of Manila, this 16th day of January, in the year of Our Lord, nineteen hundred and\nseventy-eight."
+   }
+  }
+ ]
+}

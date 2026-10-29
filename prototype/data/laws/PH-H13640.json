@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13640",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Section Sixteen Hundred and Sixty-Seven of Act Numbered Twenty-Seven Hundred and Eleven, Known as the Administrative Code, Charging the Attorney-General With the Administration of the Estates of the American Citizens Dying in the Philippine Islands, in Certain Cases.",
+  "orig": "An Act to Amend Section Sixteen Hundred and Sixty-Seven of Act Numbered Twenty-Seven Hundred and Eleven, Known as the Administrative Code, Charging the Attorney-General With the Administration of the Estates of the American Citizens Dying in the Philippine Islands, in Certain Cases."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1921-12-21",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2996",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1030,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1921/act_2996_1921.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02996_1921_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02996_1921_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13640-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section sixteen hundred and sixty-seven of Act Numbered Twenty-seven hundred and eleven is\nhereby amended to read as follows:\n\"Section 1667. Settlement of estates of American citizens.-When a citizen of the United States shall die\nleaving personal or real property in the Philippine Islands, the Attorney-General, if no regular administration\nof his estate is had and if there are no relatives applying for letters of administration, shall either in person or\nthrough a delegate designated by him take possession of the estate, make a complete inventory thereof, and\nfile the same with the Insular Auditor.\n\"He shall thereupon proceed to ascertain by the best means within his power the names and residences of the\npersons who are lawfully entitled to the estate and shall proceed to settle the same and to dispose of the assets\nin accordance herewith. He may charge for his work such fees as he may deem just, which shall be paid into\nthe Insular Treasury.\""
+   }
+  },
+  {
+   "id": "PH-H13640-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, December 21, 1921."
+   }
+  }
+ ]
+}

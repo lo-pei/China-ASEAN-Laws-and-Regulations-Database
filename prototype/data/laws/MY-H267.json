@@ -1,0 +1,66 @@
+{
+ "id": "MY-H267",
+ "title": {
+  "zh": "1986年图书馆资料交存法",
+  "en": "DEPOSIT OF LIBRARY MATERIAL ACT 1986",
+  "orig": "DEPOSIT OF LIBRARY MATERIAL ACT 1986",
+  "vi": "Luật về Nộp lưu chiểu tài liệu thư viện năm 1986",
+  "th": "พระราชบัญญัติการส่งมอบวัสดุห้องสมุด ค.ศ. 1986",
+  "id": "Undang-Undang Penyerahan Bahan Perpustakaan Tahun 1986",
+  "ms": "Akta Penyerahan Bahan Perpustakaan 1986"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-6",
+ "language": "en",
+ "level": "law",
+ "category": "04_劳工与行政法",
+ "status": "active",
+ "promulgatedDate": "1986",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "ACT331",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 2,
+ "chars": 392,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-detail.php?act=331&lang=BI"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\04_劳工与行政法\\1986_331_DEPOSIT OF LIBRARY MATERIAL ACT 1986.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 2 条；逐字未改写（源自厂商 OCR 文本）。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H267-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "1. Printed library material including books, serials        5\nmaps, charts and posters."
+   }
+  },
+  {
+   "id": "MY-H267-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "2. Non-printed library material including cinema-       2\ntograph films, microforms, phonorecords, video\nand audio recordings and other electronic media.\n\nSCHEDULE 2\n(Section 4 (1) and (2))\nDESCRIPTION OF BEST COPY OF LIBRARY MATERIAL\n\nLibrary material                                          Description"
+   }
+  }
+ ]
+}

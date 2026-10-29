@@ -1,0 +1,62 @@
+{
+ "id": "PH-H14157",
+ "title": {
+  "zh": null,
+  "en": "An Act to Appropriate the Sum of One Million Pesos for the Construction, Reconstruction or Repair of Public Works and Improvements in the Devastated Provinces.",
+  "orig": "An Act to Appropriate the Sum of One Million Pesos for the Construction, Reconstruction or Repair of Public Works and Improvements in the Devastated Provinces."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1929-02-24",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3524",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 744,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1929/act_3524_1929.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03524_1929_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03524_1929_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14157-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The sum of one million pesos is hereby appropriated, out of any funds in the Insular Treasury\nnot otherwise appropriated, for the construction, reconstruction, or repair of public works and improvements\nin the provinces affected by the calamities of the years nineteen hundred and twenty-eight and nineteen\nhundred and twenty-nine and to the date of the approval of this Act. This sum shall be distributed by the\nSecretary of Commerce and Communications, taking into consideration the official reports on file in the\nseveral departments of the Government: Provided, That no province shall receive more than one hundred\nthousand pesos of the appropriation made in this Act."
+   }
+  },
+  {
+   "id": "PH-H14157-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, February 21, 1929."
+   }
+  }
+ ]
+}

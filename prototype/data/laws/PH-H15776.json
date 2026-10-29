@@ -1,0 +1,72 @@
+{
+ "id": "PH-H15776",
+ "title": {
+  "zh": null,
+  "en": "An Act Authorizing the \"Manila Railroad Company of the Philippine Islands\" to Discontinue and Abandon Its Railroad Lines Between: (A) the Municipalities Ot Pasig (Rosario) and Montalban, Province of Rizal; (B) the Railroad station At Paco, Manila and the Municipality of Naic, Province of Cavite; (C) the Municipalities of Batangas and Bauan, Province of Batangas; and (D) the Municipalities of Legaspi and Tabaco, Province of Albay.",
+  "orig": "An Act Authorizing the \"Manila Railroad Company of the Philippine Islands\" to Discontinue and Abandon Its Railroad Lines Between: (A) the Municipalities Ot Pasig (Rosario) and Montalban, Province of Rizal; (B) the Railroad station At Paco, Manila and the Municipality of Naic, Province of Cavite; (C) the Municipalities of Batangas and Bauan, Province of Batangas; and (D) the Municipalities of Legaspi and Tabaco, Province of Albay."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1936-10-20",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 59",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1120,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00059_1936_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00059_1936_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H15776-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The Manila Railroad Company of the Philippine Islands is hereby authorized to discontinue and\nabandon the following lines of railroad: (1) between the -RizaI municipalities of Pasig (Rosario) and\nMontalban, in the Province of Rizal; (2) between the railroad station at Paco, Manila, and the municipality of\nNaic, in the Province of Cavite; (3) between the municipalities of Batangas and Bauan, in the Province of\nBatangas; and (4) between the municipalities of Legaspi and Tabaco, in the Province of Albay."
+   }
+  },
+  {
+   "id": "PH-H15776-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The Manila Railroad Company of the Philippine Islands is further authorized to dispose of the\npersonal and real property belonging to said lines in such form and subject to such conditions as the directors\nof the Company and the trustee of the mortgage on said property may consider most advantageous for the\ninterests of said company. The proceeds of the sale of said property in so far as the same is affected by the\nmortgage for the protection of the bondholders shall be applied in accordance with the provisions of the deed\nof mortgage."
+   }
+  },
+  {
+   "id": "PH-H15776-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, October 20, 1936."
+   }
+  }
+ ]
+}

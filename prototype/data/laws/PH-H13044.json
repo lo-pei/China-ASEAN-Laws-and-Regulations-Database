@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13044",
+ "title": {
+  "zh": null,
+  "en": "An Act Providing that Criminal Cases From Which An Appeal Has Been Taken to the Federal Supreme Court of the United states Shall Be Translated Into English Without Expense to the Appellant.",
+  "orig": "An Act Providing that Criminal Cases From Which An Appeal Has Been Taken to the Federal Supreme Court of the United states Shall Be Translated Into English Without Expense to the Appellant."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1914-02-27",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2340",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 452,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1914/act_2340_1914.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02340_1914_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02340_1914_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13044-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "It is hereby provided that all criminal cases decided by the Supreme Court of the Philippine\nIslands and carried in appeal to the Federal Supreme Court of the United States, shall, prior to being\nforwarded to the latter court, be translated into English by the office of the Attorney-General of the Insular\nGovernment of the Philippine Islands, without any expense to the appellant."
+   }
+  },
+  {
+   "id": "PH-H13044-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, February 27, 1914."
+   }
+  }
+ ]
+}

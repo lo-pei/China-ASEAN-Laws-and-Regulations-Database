@@ -1,0 +1,72 @@
+{
+ "id": "PH-H11461",
+ "title": {
+  "zh": null,
+  "en": "An Act Authorizing the Provincial Board of Albay to Loan Provincial Funds to Certain Municipalities of that Province.",
+  "orig": "An Act Authorizing the Provincial Board of Albay to Loan Provincial Funds to Certain Municipalities of that Province."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1903-05-16",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 748",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1054,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1903/act_748_1903.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_00748_1903_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_00748_1903_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H11461-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The provincial board of the Province of Albay is hereby authorized to loan two thousand dollars,\nlocal currency, to each of seven municipalities in that province, the inhabitants of which are in need of\nassistance. The loans made by the provincial board of Albay under this Act to said municipalities shall be used\nby the municipalities solely for the construction of highways coming under their jurisdiction and to give\ntemporary employment to the poor, such work to ha done under the supervision of the provincial supervisor.\nThe loans by this Act authorized shall be without interest and shall be paid by the municipalities into the\nprovincial treasury within one year from the date of the making of such loans."
+   }
+  },
+  {
+   "id": "PH-H11461-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The public good requiring the speedy enactment of this bill, the passage of the same is hereby\nexpedited in accordance with section two of \"An Act prescribing the order of procedure by the Commission in\nthe enactment of laws,\" passed September twenty-sixth, nineteen hundred."
+   }
+  },
+  {
+   "id": "PH-H11461-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, May 16, 1903."
+   }
+  }
+ ]
+}

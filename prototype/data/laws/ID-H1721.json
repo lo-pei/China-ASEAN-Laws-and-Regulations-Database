@@ -1,0 +1,700 @@
+{
+ "id": "ID-H1721",
+ "title": {
+  "zh": "电子信息和交易法",
+  "en": "Law on Electronic Information and Transactions",
+  "id": "INFORMASI DAN TRANSAKSI ELEKTRONIK",
+  "orig": "INFORMASI DAN TRANSAKSI ELEKTRONIK",
+  "vi": "Luật về Thông tin và Giao dịch Điện tử",
+  "th": "พระราชบัญญัติว่าด้วยข้อมูลข่าวสารและธุรกรรมทางอิเล็กทรอนิกส์",
+  "ms": "Akta tentang Maklumat dan Transaksi Elektronik"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02b",
+ "language": "id",
+ "level": "law",
+ "category": "02_民商事与经济法",
+ "status": "active",
+ "promulgatedDate": "2008",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU 11/2008",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 47,
+ "chars": 56865,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU%20Nomor%2011%20Tahun%202008.pdf&fl=P14552"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\02_民商事与经济法\\印尼_文本_2008_INFORMASI DAN TRANSAKSI ELEKTRONIK.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 54 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H1721-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\nDalam Undang-Undang ini yang dimaksud dengan:\n1. Informasi Elektronik adalah sd.tu atau sekumpulan data\nelektronik, termasuk tetapi tidak terbatas pada tulisan,\nsuara, gambar, peta, rancangan, foto, electronic data\ninterchange (8D4, surat elektronik (electronic mail),\ntelegram, teleks, telecopg atau sejenisnya, huruf, tanda,\nangka, Kode Akses, simbol, atau perforasi yang telah diolah\nyang memiliki arti atau dapat dipahami oleh orang yang\nmampu memahaminya.\n2. Transaksi Elektronik adalah perbuatan hukum yang\ndilakukan dengan menggunakan Komputer, jaringan\nKomputer, dan/atau media elektronik lainnya.\n3. Teknologi Informasi adalah suatu teknik untuk\nmengumpulkan, menyiapkan, menyimpan, memproses,\nmengumumkan, menganalisis, dan/atau menyebarkan\ninformasi.\n4. Dokumen Elektronik adalah setiap Informasi Elektronik\nyang dibuat, diteruskan, dikirimkan, diterima, atau\ndisimpan dalam bentuk analog, digital, elektromagnetik,\noptikal, atau sejenisnya, yang dapat dilihat, ditampilkan,\ndan/atau didengar melalui Komputer atau Sistem\nElektronik, termasuk tetapi tidak terbatas pada tulisan,\nsuara, gambar, peta, rancangan, foto atau sejenisnya,\nhuruf, tanda, angka, Kode Akses, simbol atau perforasi\nyang memiliki makna atau arti atau dapat dipahami oleh\norang yang mampu memahaminya.\n5.Sistem...\nPRESIDEI'l\nREPUBLIK INDONESIA\n5. Sistem Elektronik adalah serangkaian perangkat dan\nprosedur elektronik yang berfungsi mempersiapkan,\nmengumpulkan, mengolah, menganalisis, menyimpan,\nmenampilkan, mengumumkan, mengirimkan, danlatau\nmenyebarkan Informasi Elektronik.\n6. Penyelenggaraan Sistem Elektronik adalah pemanfaatan\nSistem Elektronik oleh penyelenggara negara, Orang, Badan\nUsaha, dan/atau masyarakat.\n7. Jaringan Sistem Elektronik adalah terhubungnya dua\nSistem Elektronik atau lebih, yang bersifat tertutup\nataupun terbuka.\n8. Agen Elektronik adalah perangkat dari suatu Sistem\nElektronik yang dibuat untuk melakukan suatu tindakan\nterhadap suatu Informasi Elektronik tertentu secara\notomatis yang diselenggarakan oleh Orang.\n9. Sertifikat Elektronik adalah sertifikat yang bersifat\nelektronik yang memuat Tanda Tangan Elektronik dan\nidentitas yang menunjukkan status subjek hukum para\npihak dalam Transaksi Elektronik yang dikeluarkan oleh\nPenyelenggara Sertifikasi Elektronik.\n10. Penyelenggara Sertifikasi Elektronik adalah badan hukum\nyang berfungsi sebagai pihak yang layak dipercaya, yang\nmemberikan dan mengaudit Sertifikat Elektronik.\n11. Lembaga Sertifikasi Keandalan adalah lembaga independen\nyang dibentuk oleh profesional yang diakui, disahkan, dan\ndiawasi oleh Pemerintah dengan kewenangan mengaudit\ndan mengeluarkan sertifikat keandalan dalam Transaksi\nElektronik.\n12. Tanda Tangan Elektronik adalah tanda tangan yang terdiri\natas Informasi Elektronik yang dilekatkan, terasosiasi atau\nterkait dengan Informasi Elektronik lainnya yang digunakan\nsebagai alat verifikasi dan autentikasi.\n13. Penanda Tangan adalah subjek hukum yang terasosiasikan\natau terkait dengan Tanda Tangan Elektronik.\n14. Komputer adalah alat untuk memproses data elektronik,\nmagnetik, optik, atau sistem yang melaksanakan fungsi\nlogika, aritmatika, dan penyimpanan.\n15. Akses adalah kegiatan melakukan interaksi dengan Sistem\nElektronik yang berdiri sendiri atau dalam jaringan.\n16. Kode Akses adalah angka, huruf, simbol, karakter lainnya\natau kombinasi di antaranya, yang merupakan kunci untuk\ndapat mengakses Komputer dan/atau Sistem Elektronik\nlainnya.\n17.Kontrak...\nPRLSIDEN\nREPUBLIK INIDONESIA\n17. Kontrak Elektronik adalah pe5janjian para pihak yang\ndibuat melalui Slstem Elektronik.\n18. Pengirim adalah subjek hukum yang mengirimkan\nInformasi Elektronik dan/atau Dokumen Elektronik.\n19. Penerima adalah subjek hukum yang menerima Informasi\nElektronik dan/atau Dokumen Elektronik dari Pengirim.\n20. Nama Domain adalah alamat internet penyelenggara\nnegara, Orang, Badan Usaha, dan/atau masyarakat, yang\ndapat digunakan dalam berkomunikasi melalui internet,\nyang berupa kode atau susunan karakter yang bersifat unik\nuntuk menunjukkan lokasi tertentu dalam internet.\n21. Orang adalah orang perseorangan, baik warga negara\nIndonesia, warga negara asing, maupun badan hukum.\n22. Badan Usaha adalah perusahaan perseorangan atau\nperusahaan persekutltan, baik yang berbadan hukum\nmaupun yang tidak berbadan hukum.\n23. Pemerintah adalah Menteri atau pejabat lainnya yang\nditunjuk oleh Presiden."
+   }
+  },
+  {
+   "id": "ID-H1721-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\nUndang-Undang ini berlaku untuk setiap Orang yang\nmelakukan perbuatan hukum sebagaimana diatur dalam\nUndang-Undang ini, baik yang berada di wilayah hukum\nIndonesia maupun di luar wilayah hukum Indonesia, yang\nmemiliki akibat hukum di wilayah hukum Indonesia dan/atau\ndi luar wilayah hukum Indonesia dan merugikan kepentingan\nIndonesia.\nBAB II\nASAS DAN TUJUAN"
+   }
+  },
+  {
+   "id": "ID-H1721-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\nPemanfaatan Teknologi Informasi dan Transaksi Elektronik\ndilaksanakan berdasarkan asas kepastian hukum, manfaat,\nkehati-hatian, iktikad baik, dan kebebasan memilih teknologi\natau netral teknologi."
+   }
+  },
+  {
+   "id": "ID-H1721-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\nPemanfaatan Teknologi Informasi dan Transaksi Elektronik\ndilaksanakan dengan tujuan untuk:\na. mencerdaskan kehidupan bangsa sebagai bagian dari\nmasyarakat informasi dunia;\nb. mengembangkan perdagangan dan perekonomian nasional\ndalam rangka meriingkatkan kesejahtiraan masyarakat;\nc. meningkatkan efektivitas dan efisiensi pelayanan publik;\nd. membuka kesempatan seluas-luasnya kepada setiap Orang\nuntuk memajukan pemikiran dan kemampuan di bidang\npenggunaan dan pemanfaatan Teknologi Informasi seoptimal\nmungkin dan bertanggung jawab; dan\ne. memberikan rasa aman, keadilan, dan kepastian hukum bagi\npengguna dan penyelenggara Teknologi Informasi.\nBAB III\nINFORMASI, DOKUMEN, DAN TANDA TANGAN ELEKTRONIK"
+   }
+  },
+  {
+   "id": "ID-H1721-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\n(1) Informasi Elektronik dan/atau Dokumen Elektronik\ndan/atau hasil cetaknya merupakan alat bukti hukum yang\nsah.\n(2) Informasi Elektronik dan/atau Dokumen Elektronik\ndan/atau hasil cetaknya sebagaimana dimaksud pada ayat\n(1) merupakan perluasan dari alat bukti yang sah sesuai\ndengan Hukum Acara yang berlaku di Indonesia.\n(3) Informasi Elektronik dan/atau Dokumen Elektronik\ndinyatakan sah apabila menggunakan Sistem Elektronik\nsesuai dengan ketentuan yang diatur dalam Undang-\nUndang ini.\n(41 Ketentuan mengenai Informasi Elektronik dan/atau\nDokumen Elektronik sebagaimana dimaksud pada ayat (1)\ntidak berlaku untuk:\na. surat yang menurut Undang-Undang harus dibuat\ndalam bentuk tertulis; dan\nb. surat beserta dokumennya yang menurut Undang-\nUndang harus dibuat dalam bentuk akta notaril atau\nakta yang dibuat oleh pejabat pembuat akta."
+   }
+  },
+  {
+   "id": "ID-H1721-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\nDalam hal terdapat ketentuan lain selain yang diatur dalam\nPasal 5 ayat (41 yang mensyaratkan bahwa suatu informasi\nharus berbentuk tertulis atau asli, Informasi Elektronik\ndan/atau Dokumen Elektronik dianggap sah sepanjang\ninformasi yang tercantum di dalamnya dapat diakses,\nditampilkan, dijamin keutuhannya, dan dapat\ndipertanggungjawabkan sehingga menerangkan suatu keadaan."
+   }
+  },
+  {
+   "id": "ID-H1721-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\nSetiap Orang yang menyatakan hak, memperkuat hak yang\ntelah ada, atau menolak hak Orang lain berdasarkan'adanya\nInformasi Elektronik dan/atau Dokumen Elektronik harus\nmemastikan bahwa Informasi Elektronik dan/atau Dokumen\nElektronik yang ada padanya berasal dari Sistem Elektronik\nyang memenuhi syarat berdasarkan Peraturan Perundang-\nundangan."
+   }
+  },
+  {
+   "id": "ID-H1721-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n(1) Kecuali diperjanjikan lain, waktu pengiriman suatu\nInformasi Elektronik dan/atau Dokumen Elektronik\nditentukan pada saat Informasi Elektronik dan/atau\nDokumen Etektronik telah dikirim dengan alamat yang\nbenar oleh Pengirim ke suatu Sistem Elektronik yang\nditunjuk atau dipergunakan Penerima dan telah memasuki\nSistem Elektronik yang berada di luar kendali Pengirim.\n(2) Kecuali diperjanjikan lain, waktu penerimaan suatu\nInformasi Elektronik dan/atau Dokumen Elektronik\nditentukan pada saat Informasi Elektronik dan/atau\nDokumen Elektronik memasuki Sistem Elektronik di bawah\nkendali Penerima yang berhak.\n(3) Dalam hal Penerima telah menunjuk suatu Sistem\nElektronik tertentu untuk menerima Informasi Elektronik,\npenerimaan terjadi pada saat Informasi Eiektronik\ndan/atau Dokumen Elektronik memasuki Sistem\nElektronik yang ditunjuk.\n(4) Dalarn hal terdapat dua atau lebih sistem informasi yang\ndigunakan dalam pengiriman atau penerimaan Informasi\nElektronik dan/atau Dokumen Elektronik, maka:\na. waktu pengiriman adalah ketika Informasi Elektronik\ndan/atau Dokumen Elektronik memasuki sistem\ninformasi pertama yang berada di luar kendali Pengirim;\nb. waktu\nPRESIDE N\nREPUBLIK INDONESIA\n-7\nb. waktu penerimaan adalah ketika Informasi Elektronik\ndan latau Dokumen Elektronik memasuki sistem\ninformasi terakhir yang berada di bawah kendali\nPenerima."
+   }
+  },
+  {
+   "id": "ID-H1721-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\nPelaku usaha yang menawarkan produk melalui Sistem\nElektronik harus menyediakan informasi yang lengkap dan\nbenar berkaitan dengan syarat kontrak, produsen, dan produk\nyang ditawarkan."
+   }
+  },
+  {
+   "id": "ID-H1721-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\n(1) Setiap pelaku usaha yang menyelenggarakan\nElektronik dapat disertifikasi oleh Lembaga\nKeandalan.\n(2) Ketentuan mengenai pembentukan Lembaga\nKeandalan sebagaimana dimaksud pada ayat\ndengan Peraturan Pemerintah.\nTransaksi\nSertifikasi\nSertifikasi\n(1) diatur\nPasal I 1\n(1) Tanda Tangan Elektronik memiliki kekuatan hukum dan\nakibat hukum yang sah selama memenuhi persyaratan\nsebagai berikut:\na. data pembuatan Tanda Tangan Elektronik terkait\nhanya kepada Penanda Tangan;\nb. data pembuatan Tanda Tangan Elektronik pada saat\nproses penandatanganan elektronik hanya berada\ndalam kuasa Penanda Tangan;\nc. segala perubahan terhadap Tanda Tangan Elektronik\nyang terjadi setelah waktu penandatanganan dapat\ndiketahui;\nd. segala perubahan terhadap Informasi Elektronik yang\nterkait dengan Tanda Tangan Elektronik tersebut\nsetelah waktu penandatanganan dapat diketahui;\ne. terdapat cara tertentu yang dipakai untuk\nmengidentifikasi siapa Penandatangannya; dan\nf. terdapat cara tertentu untuk menunjukkan bahwa\nPenanda Tangan telah memberikan persetujuan\nterhadap Informasi Elektronik yang terkait.\n(2) Ketentuan . .\nPRESIDEN\nREPUBLIK INDONESIA\n(21 Ketentuan lebih lanjut tentang Tanda Tangan Elektronik\nsebagaimana dimaksud pada ayat (1) diatur dengan\nPeraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H1721-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n(1) Setiap Orang yang terlibat dalam Tanda Tangan Elektronik\nberkewajiban memberikan pengamanan atas Tanda Tangan\nElektronik yang digunakannya.\n(2) Pengamanan Tanda Tangan Elektronik sebagaimana\ndimaksud pada ayat (1) sekurang-kurangnya meliputi:\na. sistem tidak dapat diakses oleh Orang lain yang tidak\nberhak;\nb. Penanda Tangan harus menerapkan prinsip kehati-\nhatian untuk menghindari penggunaan secara tidak\nsah terhadap data terkait pembuatan Tanda Tangan\nElektronik;\nc. Penanda Tangan harus tanpa menunda-nunda,\nmenggunakan cara yang dianjurkan oleh\npenyelenggara Tanda Tangan Elektronik ataupun cara\nlain yang layak dan sepatutnya harus segera\nmemberitahukan kepada seseorang yang oleh Penanda\nTangan dianggap memercayai Tanda Tangan Elektronik\natau kepada pihak pendukung layanan Tanda Tangan\nElektronik jika:\n1. Penanda Tangan mengetahui bahwa data\npembuAtan Tanda Tangan Elektronili telah\ndibobol; atau\n2. keadaan yang diketahui oleh Penanda Tangan\ndapat menimbulkan risiko yang berarti,\nkemungkinan akibat bobolnya data pembuatan\nTanda Tangan Elektronik; dan\nd. dalam hal Sertifikat Elektronik digunakan untuk\nmendukung Tanda Tangan Elektronik, Penanda\nTangan harus memastikan kebenaran dan keutuhan\nsemua informasi yang terkait dengan Sertifikat\nElektronik tersebut.\n(3) Setiap Orang yang melakukan pelanggaran ketentuan\nsebagaimana dimaksud pada ayat (1), bertanggung jawab\natas segala kerugian dan konsekuensi hukum yang timbul.\nBAB IV\nPRESIDE N\nREPUBLIK II.JDONESIA\nBAB IV\nPENYELENGGARAAN SERTIFIKASI ELEKTRONIK DAN SISTEM ELEKTRONIK\nBagian Kesatu\nPenyelenggaraan Sertifikasi Elektronik"
+   }
+  },
+  {
+   "id": "ID-H1721-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\n(1) Setiap Orang berhak menggunakan jasa Penyelenggara\nSertifikasi Elektronik untuk pembuatan Tanda Tangan\nElektronik.\n(2) Penyelenggara Sertifikasi Elektronik harus memastikan\nketerkaitan suatu Tanda Tangan Elektronik dengan\npemiliknya.\n(3) Penyelenggara Sertifikasi Elektronik terdiri atas:\na. Penyelenggara Sertifikasi Elektronik Indonesia; dan\nb. PenyelenggaraSertifikasiElektronikasing.\n(4) Penyelenggara ertifikasi Elektronik Indonesia berbadan\nhukum Indonesia dan berdomisili di Indonesia.\n(5) Penyelenggara Sertifikasi Elektronik asing yang beroperasi\ndi Indonesia harus terdaftar di Indonesia.\n(6) Ketentuan lebih lanjut mengenai Penyelenggara Sertifikasi\nElektronik sebagaimana dimaksud pada ayat (3) diatur\ndengan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H1721-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\nPenyelenggara Sertifikasi Elektronik sebagaimana dimaksud\ndalam Pasal 13 ayat (1) sampai dengan ayat (5) harus\nmenyediakan informasi yang akurat, jelas, dan pasti kepada\nsetiap pengguna jasa, yang meliputi:\na. metode yang digunakan untuk mengidentifikasi Penanda\nTangan;\nb. hal yang dapat digunakan untuk mengetahui data diri\npembuat Tanda Tangan Elektronik; dan\nc. hal yang dapat digunakan untuk menunjukkan\nkeberlakuan dan keamanan Tanda Tangan Elektronik.\nBagian Kedua\nPRESIDE N\nREPUBLIK INDONESIA\n10-\nBagian Kedua\nPenyelenggaraan Sistem Elektronik"
+   }
+  },
+  {
+   "id": "ID-H1721-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\n(1) Setiap Penyelenggara Sistem Elektronik harus\nmenyelenggarakan Sistem Elektronik secara andal dan\naman serta bertanggung jawab terhadap beroperasinya\nSistem Elektronik sebagaimana mestinya.\n(2) Penyelenggara Sistem Elektronik bertanggung jawab\nterhadap Penyelenggaraan Sistem Elektroniknya.\n(3) Ketentuan sebagaimana dimaksud pada ayat (2) tidak\nberlaku dalam hal dapat dibuktikan terjadinya keadaan\nmemaksa, kesalahan, dan/atau kelalaian pihak pengguna\nSistem Elektronik."
+   }
+  },
+  {
+   "id": "ID-H1721-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\n(1) Sepanjang tidak ditentukan lain oleh undang-undang\ntersendiri, setiap Penyelenggara Sistem Elektronik wajib\nmengoperasikan Sistem Elektronik yang memenuhi\npersyaratan minimum sebagai berikut:\na. dapat menampilkan kembali Informasi Elektronik\ndan/atau Dokumen Elektronik secara utuh sesuai\ndengan m.asa retensi yang ditetapkan . dengan\nPeraturan Perundang-undangan ;\nb. dapatmelindungi ketersediaan, keutuhan, keotentikan,\nkerahasiaan, dan keteraksesan Informasi Elektronik\ndalam Penyelenggaraan Sistem Elektronik tersebut;\nc. dapat beroperasi sesuai dengan prosedur atau\npetunjuk dalam Penyelenggaraan Sistem Elektronik\ntersebut;\nd. dilengkapi dengan prosedur atau petunjuk yang\ndiumumkan dengan bahasa, informasi, atau simbol\nyang dapat dipahami oleh pihak yang bersangkutan\ndengan Penyelenggaraan Sistem Elektronik tersebut;\ndan\ne. memiliki mekanisme yang berkelanjutan untuk\nmenjaga kebaruan, kejelasan, dan\nkebertanggungjawaban prosedur atau petunjuk.\n(2) Ketentuan lebih lanjut tentang Penyelenggaraan Sistem\nElektronik sebagaimana dimaksud pada ayat (1) diatur\ndengan Peraturan Pemerintah.\nBAB V\nPRESIDE N\nREI]UBLIK iNDONESIA\nBAB V\nTRANSAKSI ELEKTRONIK"
+   }
+  },
+  {
+   "id": "ID-H1721-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\n(1) Penyelenggaraan Transaksi Elektronik dapat dilakukan\ndalam lingkup publik ataupun privat.\n(21 Para pihak yang melakukan Transaksi Elektronik\nsebagaimana dimaksud pada ayat (1) wajib beriktikad baik\ndalam melakukan interaksi dan/atau pertukaran Informasi\nElektronik dan/atau Dokumen Elektronik selama transaksi\nberlangsung.\n(3) Ketentuan lebih lanjut mengenai penyelenggaraan\nTransaksi Elektronik sebagaimana dimaksud pada ayat (1)\ndiatur dengan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H1721-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\n(1) Transaksi Eiektronik yang dituangkan ke dalam Kontrak\nElektronik mengikat para pihak.\n(2) Para pihak memiliki kewenangan untuk memilih hukum\nyang berlaku bagi Transaksi Elektronik internasional yang\ndibuatnya,\n(3) Jika para pihak tidak melakukan pilihan hukum dalam\nTransaksi Elektronik internasional, hukum yang berlaku\ndidasarkan pada asas Hukum Perdata Internasional.\n(41 Para pihak memiliki kewenangan untuk menetapkan forum\npengadilan, arbitrase, atau lembaga penyelesaian sengketa\nalternatif lainnya yang berwenang menangani sengketa\nyang mungkin timbul dari Transaksi Elektronik\ninternasional yaqg dibuatnya.\n(5) Jika para pihak tidak melakukan pilihan forum\nsebagaimana dimaksud pada ayat (4)r, penetapan\nkewenangan pengadilan, arbitrase, atau lembaga\npenyelesaian sengketa alternatif lainnya yang berwenang\nmenangani sengketa yang mungkin timbul dari transaksi\ntersebut, didasarkan pada asas Hukum Perdata\nInternasional."
+   }
+  },
+  {
+   "id": "ID-H1721-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\nPara pihak yang melakukan Transaksi Elektronik harus\nmenggunakan Sistem Elektronik yang disepakati.\nPasal20...\nPRE SID E N\nREPUBLIK INDONESIA\n-t2-"
+   }
+  },
+  {
+   "id": "ID-H1721-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\n(1) Kecuali ditentukan lain oleh para pihak, Transaksi\nElektronik terjadi pada saat penawaran transaksi yang\ndikirim Pengirim telah diterima dan disetujui Penerima.\n(2) Persetujuan atas penawaran Transaksi Elektronik\nsebagaimana dimaksud pada ayat (1) harus dilakukan\ndengan pernyataan penerimaan secara elektronik."
+   }
+  },
+  {
+   "id": "ID-H1721-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\n(1) Pengirim atau Penerima dapat melakukan Transaksi\nElektronik sendiri, melalui pihak yang dikuasakan olehnya,\natau melalui Agen Elektronik.\n(2) Pihak yang bertanggung jawab atas segala akibat hukum\ndalam pelaksanaan Transaksi Elektronik sebagaimana\ndimaksud pada ayat (1) diatur sebagai berikut:\na. jika dilakukan sendiri, segala akibat hukum dalam\npelaksanaan Transaksi Elektronik menjadi tanggung\njawab para pihak yang bertransaksi;\nb. jika dilakukan melalui pemberian kuasa, segala akibat\nhukum daiam pelaksanaan Transaksi Elektronik\nmenjadi tanggung jawab pemberi kuasa; atau\nc. jika dilakukan melalui Agen Elektronik, segala akibat\nhukum dalam pelaksanaan Transaksi Elektronik\nmenjadi tanggung jawab penyelenggara Agen\nElektronik.\n(3) Jika kerugian Transaksi Elektronik disebabkan gagal\nberoperasinya Agen Elektronik akibat tindakan pihak ketiga\nsecara langsung terhadap Sistem Elektronik, segala akibat\nhukum menjadi tanggung jawab penyelenggara Agen\nElektronik.\n(4) Jika kerugian Transaksi Elektronik disebabkan gagal\nberoperasinya Agen Elektronik akibat kelalaian pihak\npengguna jasa layanan, segala akibat hukum menjadi\ntanggung jawa! pengguna jasa'layanan.\n(5) Ketentuan sebagaimana dimaksud pada ayat (2) tidak\nberlaku dalam hal dapat dibuktikan terjadinya keadaan\nmemaksa, kesalahan, danfatau kelalaian pihak pengguna\nSistem Elektronik."
+   }
+  },
+  {
+   "id": "ID-H1721-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\nPR IDEN\nREPUBLIK INDONESIA\nPasaL 22\n(1) Penyelenggara Agen Elektronik tertentu harus menyediakan\nfitur pada Agen Elektronik yang dioperasikannya yang\nmemungkinkan penggunanya melakukan perubahan\ninformasi yang masih dalam proses transaksi.\n(21 Ketentuan lebih lanjut mengenai penyelenggara Agen\nElektronik tertentu sebagaimana dimaksud pada ayat (1)\ndiatur dengan Peraturan Pemerintah.\nBAB VI\nNAMA DOMAIN, HAK KEKAYAAN INTELEKTUAL\nDAN PERLINDUNGAN HAK PRIBADI"
+   }
+  },
+  {
+   "id": "ID-H1721-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\n(1) Setiap penyelenggara negara, Orang, Badan Usaha,\ndan/atau masyarakat berhak memiliki Nama Domain\nberdasarkan prinsip pendaftar pertama.\n(2) Pemilikan dan penggunaan Nama Domain sebagaimana\ndimaksud pada ayat (1) harus didasarkan pada iktikad\nbaik, tidak melanggar prinsip persaingan usaha secara\nsehat, dan tidak melanggar hak Orang lain.\n(3) Setiap penyelenggara negara, Orang, Badan Usaha, atau\nmasyarakat yang dirugikan karena penggunaan Nama\nDomain secara tanpa hak oleh Orang lain, berhak\nmengajukan gugatan pembatalan Nama Domain dimaksud.\nPasai 24\n(1) Pengelola Nama Domain adalah Pemerintah dan/atau\nmasyarakat.\n(2) Dalam hal terjadi perselisihan pengelolaan Nama Domain\noleh masyarakat, Pemerintah berhak mengambil alih\nsementara pengelolaan Nama Domain yang diperselisihkan.\n(3) Pengelola Nama Domain yang berada di luar wilayah\nIndonesia dan Nama Domain yang diregistrasinya diakui\nkeberadaannya sepanjang tidak bertentangan dengan\nPeraturan Perundang-undangan.\n(4) Ketentuan lebih lanjut mengenai pengelolaan Nama Domain\nsebagaimana dimaksud pada ayat (1), ayat (2), dan ayat (3)\ndiatur dengan Poraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H1721-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\nPRESIDE N\nREPUBLIK .IDONESIA\n-L4-\nPasal 25\nInformasi Elektronik dan/atau Dokumen Elektronik yang\ndisusun menjadi karya intelektual, situs internet, dan karya\nintelektual yang ada di dalamnya dilindungi sebagai Hak\nKekayaan Intelektual berdasarkan ketentuan Peraturan\nPerundang-undangan."
+   }
+  },
+  {
+   "id": "ID-H1721-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\n(1) Kecuali ditentukan lain oleh Peraturan Perundang-\nundangan, penggunaan setiap informasi melalui media\nelektronik yang menyangkut data pribadi seseorang harus\ndilakukan atas persetujuan Orang yang bersangkutan.\n(2) Setiap Orang yang dilanggar haknya sebagaimana\ndimaksud pada ayat (1) dapat mengajukan gugatan atas\nkerugian yang ditimbulkan berdasarkan Undang-Undang\nini.\nBAB VII\nPERBUATAN YANG DILARANG\nPasal,27\n(1) Setiap Orang dengan sengaja dan tanpa hak\nmendistribusikan dan/atau mentransmisikan dan/atau\nmembuat dapat diaksesnya Informasi Elektronik danlatau\nDokumen Elektronik yang memiliki muatan yang melanggar\nkesusilaan.\n(2) Setiap Orang dengan sengaja dan tanpa hak\nmendistribusikan dan/atau mentransmisikan dan/atau\nmembuat dapat diaksesnya Informasi Elektronik danlatau\nDokumen Elektronik yang memiliki muatan perjudian.\n(3) Setiap Orang dengan sengaja dan tanpa hak\nmendistribusikan dan/atau mentransmisikan danlatau\nmembuat dapat diaksesnya Informasi Elektronik dan/atau\nDokumen Elektronik yang memiliki muatan penghinaan\ndan/atau pencemaran nama baik.\n(4) Setiap Orang dengan sengaja dan tanpa hak\nmendistribusikan dan/atau mentransmisikan dan/atau\nmembuat dapat diaksesnya Informasi Elektronik dan/atau\nDokumen Elektronik yang memiliki muatan pemerasan\ndan/atau pengancaman."
+   }
+  },
+  {
+   "id": "ID-H1721-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\n(1) Setiap Orang dengan sengaja dan tanpa hak menyebarkan\nberita bohong dan menyesatkan yang mengakibatkan\nkerugian konsumen dalam Transaksi Elektronik.\n(21 Setiap Orang dengan sengaja dan tanpa hak menyebarkan\ninformasi yang. ditujukan untuk menimbulkan rasa\nkebencian atau permusuhan individu dan/atau kelompok\nmasyarakat tertentu berdasarkan atas suku, agama, ras,\ndan antargolongan (SARA)."
+   }
+  },
+  {
+   "id": "ID-H1721-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\nSetiap Orang dengan sengaja dan tanpa hak mengirimkan\nInformasi Elektronik dan/atau Dokumen Elektronik yang berisi\nancaman kekerasan atau menakut-nakuti yang ditujukan\nsecara pribadi."
+   }
+  },
+  {
+   "id": "ID-H1721-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\n(1) Setiap Orang dengan sengaja dan tanpa hak atau melawan\nhukum mengakses Komputer dan latau Sistem Elektronik\nmilik Orang lain dengan cara apa pun.\n(2) Setiap Orang dengan sengaja dan tanpa hak atau melawan\nhukum mengakses Komputer dan f atau Sistem Elektronik\ndengan cara apa pun dengan tujuan untuk memperoleh\nInformasi Elektronik dan/atau Dokumen Elektronik.\n(3) Setiap Orang dengan sengaja dan tanpa hak atau melawan\nhukum mengakses Komputer dan/atau Sistem Elektronik\ndengan cara apa pun dengan melanggar, menerobos,\nmelampaui, atau menjebol sistem pengamanan."
+   }
+  },
+  {
+   "id": "ID-H1721-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\n(1) Setiap Orang dengan sengaja dan tanpa hak atau melawan\nhukum melakukan intersepsi atau penyadapan atas\nInformasi Elektronik dan/atau Dokumen Elektronik dalam\nsuatu Komputer dan/atau Sistem Elektronik tertentu milik\nOrang lain.\n(2) Setiap\nPRESIO E N\nREPUBLIK INDONESIA\n(21 Setiap Orang dengan sengaja dan tanpa hak atau melawan\nhukum melakukan intersepsi atas transmisi Informasi\nElektronik dan/atau Dokumen Elektronik yang tidak\nbersifat publik dari, ke, dan di dalam suatu Komputer\ndan/atau Sistem Elektronik tertentu milik Orang lain, baik\nyang tidak menyebabkan perubahan apa pun maupun yang\nmenyebabkan adanya perubahan, penghilangan, dan/atau\npenghentian Informasi Elektronik dan/atau Dokumen\nElektronik yang sedang ditransmisikan.\n(3) Kecuali intersepsi sebagaimana dimaksud pada ayat (1)\ndan ayat (2ll, intersepsi yang dilakukan dalam rangka\npenegakan hukum atas permintaan kepolisian, kejaksaan,\ndanlatau institusi penegak hukum lainnya yang ditetapkan\nberdasarkan undang-undang.\n(4) Ketentuan lebih lanjut mengenai tata cara intersepsi\nsebagaimana dimaksud pada ayat (3) diatur dengan\nPeraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H1721-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 32\n(1) Setiap Orang dengan sengaja dan tanpa hak atau melawan\nhukum dengan cara apa pun mengubah, menambah,\nmengurangi, melakukan transmisi, merusak,\nmenghilangkan, memindahkan, menyembunyikan suatu\nInformasi Elektronik dan/atau Dokumen Elektronik milik\nOrang lain atau milik publik.\n(2) Setiap Orang dengan sengaja dan tanpa hak atau melawan\nhukum dengan cara apa pun memindahkan atau\nmentransfer Informasi Elektronik dan/atau Dokumen\nElektronik kepada Sistem Elektronik Orang lain yang tidak\nberhak.\n(3) Terhadap perbuatan sebagaimana dimaksud pada ayat (1)\nyang mengakibatkan terbukanya suatu Informasi\nElektronik danlatau Dokumen Elektronik yang bersifat\nrahasia menjadi dapat diakses oleh publik dengan\nkeutuhan data yang tidak sebagaimana mestinya."
+   }
+  },
+  {
+   "id": "ID-H1721-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 33\nSetiap Orang dengan sengaja dan tanpa hak atau melawan\nhukum melakukan tindakan apa pun yang berakibat\nterganggunya Sistem Elektronik dan/atau mengakibatkan\nSistem Elektronik menjadi tidak bekerja sebagaimana mestinya."
+   }
+  },
+  {
+   "id": "ID-H1721-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 34\n(1) Setiap Orang dengan sengaja dan tanpa hak atau melawan\nhukum memproduksi, menjual, mengadakan untuk\ndigunakan, mengimpor, mendistribusikan, menyediakan,\natau memiliki:\na. perangkat keras atau perangkat lunak Komputer yang\ndirancang atau secara khusus dikembangkan untuk\nmemfasilitasi perbuatan sebagaimana dimaksud dalam\nPasal 27 sampai dengan Pasal 33;\nb. sandi lewat Komputer, Kode Akses, atau hal yang sejenis\ndengan itu yang ditujukan agar Sistem Elektronik\nmenjadi dapat diakses dengan tujuan memfasilitasi\nperbuatan sebagaimana dimaksud dalam Pasal 27\nsampai dengan Pasal 33.\n(2) Tindakan sebagaimana dimaksud pada ayat (1) bukan\ntindak pidana jika ditujukan untuk melakukan kegiatan\npenelitian, pengujian Sistem Elektronik, untuk\nperlindungan Sistem Elektronik itu sendiri secara sah dan\ntidak melawan hukum."
+   }
+  },
+  {
+   "id": "ID-H1721-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 35\nSetiap Orang dengan sengaja dan tanpa hak atau melawan\nhukum melakukan manipulasi, penciptaan, perubahan,\npenghilangan, pengrusakan Informasi Elektronik dan/atau\nDokumen Elektronik dengan tujuan agar Informasi Elektronik\ndan/atau Dokumen Elektronik tersebut dianggap seolah-olah\ndata yang otentik."
+   }
+  },
+  {
+   "id": "ID-H1721-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 36\nSetiap Orang dengan sengaja dan tanpa hak atau melawan\nhukum melakukan perbuatan sebagaimana dimaksud dalam\nPasal 27 sampai dengan Pasal 34 yang mengakibatkan kerugian\nbagi Orang lain."
+   }
+  },
+  {
+   "id": "ID-H1721-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 37\nSetiap Orang dengan sengaja melakukan perbuatan yang\ndilarang sebagaimana dimaksud dalam Pasal 27 sampai dengan\nPasal 36 di luar wilayah Indonesia terhadap Sistem Elektronik\nyang berada di wilayah yurisdiksi Indonesia.\nBAB VIII\nPRESIDE N\nREPUBLIK INDONESIA\nBAB VIII\nPENYELESAIAN SENGKETA"
+   }
+  },
+  {
+   "id": "ID-H1721-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 38\n(1) Setiap Orang dapat mengajukan gugatan terhadap pihak\nyang menyelenggarakan Sistem Elektronik dan/atau\nmenggunakan Teknologi Informasi yang menimbulkan\nkerugian.\n(21 Masyarakat dapat mengajukan gugatan secara perwakilan\nterhadap pihak yang menyelenggarakan Sistem Elektronik\ndan/atau menggunakan Teknologi Informasi yang berakibat\nmerugikan masyarakat, sesuai dengan ketentuan Peraturan\nPerundang-undangan.\n(1)"
+   }
+  },
+  {
+   "id": "ID-H1721-A39",
+   "no": 39,
+   "noLabel": {
+    "id": "Pasal 39"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 39\nGugatan perdata dilakukan sesuai dengan ketentuan\nPeraturan Perundang-undangan.\nSelain penyelesaian gugatan perdata sebagaimana\ndimaksud pada ayat (1), para pihak dapat menyelesaikan\nsengketa melalui arbitrase, atau lembaga penyelesaian\nsengketa alternatif lainnya sesuai dengan ketentuan\nPeraturan Perundang-undangan.\n(2)\nBAB IX\nPERAN PEMERINTAH DAN PERAN MASYARAKAT"
+   }
+  },
+  {
+   "id": "ID-H1721-A40",
+   "no": 40,
+   "noLabel": {
+    "id": "Pasal 40"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 40\n(1) Pemerintah memfasilitasi pemanfaatan Teknologi Informasi\ndan Transaksi Elektronik sesuai dengan ketentuan\nPeraturan Perundang-undangan.\n(21 Pemerintah melindungi kepentingan umum dari segala jenis\ngangguan sebagai akibat penyalahgunaan Informasi\nElektronik dan Transaksi Elektronik yang mengganggu\nketertiban umum, sesuai dengan ketentuan Peraturan\nPerundang-undangan.\n(3) Pemerintah menetapkan instansi atau institusi yang\nmemiliki data elektronik strategis yang wajib dilindungi'\n(4) Instansi atau institusi sebagaimana dimaksud pada ayat (3)\nharus membuat Dokumen Elektronik dan rekam cadang\nelektroniknya serta menghubungkannya ke pusat data\ntertentu untuk kepentingan pengamanan data.\n(5) Instansi\nPRESIDE N\nREPUBLIK INDONESIA\n(5) Instansi atau institusi lain selain diatur pada ayat (3)\nmembuat Dokumen Elektronik dan rekam cadang\nelektroniknya sesuai dengan keperluan perlindungan data\nyang dimilikinya.\n(6) Ketentuan lebih lanjut mengenai peran Pemerintah\nsebagaimana dimaksud pada ayat (1), ayat (2), dan ayat (3)\ndiatur dengan Peraturan Pemerintah.\nPasal 4 1\n(1) Masyarakat dapat berperan meningkatkan pemanfaatan\nTeknologi Informasi melalui penggunaan dan\nPenyelenggaraan Sistem Elektronik dan Transaksi\nElektronik sesuai dengan ketentuan Undang-Undang ini.\n(2) Peran masyarakat sebagaimana dimaksud pada ayat (1)\ndapat diselenggarakan melalui lembaga yang dibentuk oleh\nmasyarakat.\n(3) Lembaga sebagaimana dimaksud pada ayat (2) dapat\nmemiliki fungsi konsultasi dan mediasi.\nBAB X\nPENYIDIKAN\nPasal42\nPenyidikan terhadap tindak pidana sebagaimana dimaksud\ndalam Undang-Undang ini, dilakukan berdasarkan ketentuan\ndalam Hukum Acara Pidana dan ketentuan dalam Undang-\nUndang ini."
+   }
+  },
+  {
+   "id": "ID-H1721-A43",
+   "no": 43,
+   "noLabel": {
+    "id": "Pasal 43"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 43\n(1) Selain Penyidik Pejabat Polisi Negara Republik Indonesia,\nPejabat Pegawai Negeri Sipil tertentu di lingkungan\nPemerintah yang lingkup tugas dan tanggung jawabnya di\nbidang Teknologi Informasi dan Transaksi Elektronik diberi\nwewenang khusus sebagai penyidik sebagaimana dimaksud\ndalam Undang-Undang tentang Hukum Acara Pidana untuk\nmelakukan penyidikan tindak pidana di bidang Teknologi\nInformasi dan Transaksi Elektronik.\n(2) Penyidikan\nPRE SID E N\nREPUBLIK INDONESIA\n(21 Penyidikan di bidang Teknologi Informasi dan Transaksi\nElektronik sebagaimana dimaksud pada ayat (1) dilakukan\ndengan memperhatikan perlindungan terhadap privasi,\nkerahasiaan, kelancaran layanan publik, integritas data,\natau keutuhan data sesuai dengan ketentuan Peraturan\nPerundang-undangan.\n(3) Penggeledahan danlatau penyitaan terhadap sistem\nelektronik yang terkait dengan dugaan tindak pidana harus\ndilakukan atas izin ketua pengadilan negeri setempat.\n(4) Dalam melakukan penggeledahan dan/atau penyitaan\nsebagaimana dimaksud pada ayat (3), penyidik wajib\nmenjaga terpeliharanya kepentingan pelayanan umum.\n(5) Penyidik Pegawai Negeri Sipil sebagaimana dimaksud pada\nayat (1) berwenang:\na. menerima laporan atau pengaduan dari seseorang\ntentang adanya tindak pidana berdasarkan ketentuan\nUndang-Undang ini;\nb. memanggil setiap Orang atau pihak lainnya untuk\ndidengar dan/atau diperiksa sebagai tersangka atau\nsaksi sehubungan dengan adanya dugaan tindak pidana\ndi bidang terkait dengan ketentuan Undang-Undang ini;\nc. melakukan pemeriksaan atas kebenaran laporan atau\nketerangan berkenaan dengan tindak pidana\nberdasarkan ketentuan Undang-Undang ini;\nd. melakukan pemeriksaan terhadap Orang danlatau\nBadan Usaha yang patut diduga melakukan tindak\npidana berdasarkan Undang-Undang ini;\ne. melakukan pemeriksaan terhadap alat dan/atau sarana\nyang berkaitan dengan kegiatan Teknologi Informasi\nyang diduga digunakan untuk melakukan tindak pidana\nberdasarkan Undang-Undang ini;\nf. melakukan penggeledahan terhadap tempat tertentu\nyang diduga digunakan sebagai tempat untuk\nmelakukan tindak pidana berdasarkan ketentuan\nUndang-Unda,ng ini;\ng. melakukan p  dan penyitaan terhadap alat dan\natau sarana kegiatan Teknologi Informasi yang diduga\ndigunakan secara menyimpang dari ketentuan Peraturan\nPerundang-undangan;\nh. meminta . .\nPR ESID E N\nREPUBLIK INDONESIA\n-2t-\nh. meminta bantuan ahli yang diperlukan dalam\npenyidikan terhadap tindak pidana berdasarkan\nUndang-Undang ini; dan/atau\ni. mengadakan penghentian penyidikan tindak pidana\nberdasarkan Undang-Undang ini sesuai dengan\nketentuan hukum acara pidana yang berlaku.\n(6) Dalam hal melakukan penangkapan dan penahanan,\npenyidik melalui penuntut umum wajib meminta penetapan\nketua pengadilan negeri setempat dalam waktu satu kali\ndua puluh empat jam.\n(7) Penyidik Pegawai Negeri Sipil sebagaimana dimaksud pada\nayat (1) berkoordinasi dengan Penyidik Pejabat Polisi Negara\nRepublik Indonesia memberitahukan dimulainya\npenyidikan dan menyampaikan hasilnya kepada penuntut\numum.\n(8) Dalam rangka mengungkap tindak pidana Informasi\nElektronik dan Transaksi Elektronik, penyidik dapat\nberkerja sama dengan penyidik negara lain untuk berbagi\ninformasi dan alat bukti."
+   }
+  },
+  {
+   "id": "ID-H1721-A44",
+   "no": 44,
+   "noLabel": {
+    "id": "Pasal 44"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 44\nAlat bukti penyidikan, penuntutan dan pemeriksaan di sidang\npengadilan menurut ketentuan Undang-Undang ini adalah\nsebagai berikut:\na. alat bukti sebagaimana dimaksud dalam ketentuan\nPerundang-undangan; dan\nb. alat bukti lain berupa Informasi Elektronik dan/atau\nDokumen Elektronik sebagaimana dimaksud dalam Pasal 1\nangka 1 dan angka 4 serta Pasal 5 ayat (1), ayat (2), dan\nayat (3).\nBAB XI\nKETENTUAN PIDANA"
+   }
+  },
+  {
+   "id": "ID-H1721-A45",
+   "no": 45,
+   "noLabel": {
+    "id": "Pasal 45"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 45\n(1) Setiap Orang yang memenuhi unsur sebagaimana\ndimaksud dalam Pasal 27 ayat (1), ayat (2), ayat (3), atau\nayat (4) dipidana dengan pidana penjara paling lama 6\n(enam) tahun dan/atau .denda paling banyak\nRp1.000.000.00O,00 (satu miliar rupiah).\n(2) Setiap\nPRI-SIDE N\nREPUBLIK INDONESIA\n(2) Setiap Orang yang memenuhi unsur sebagaimana\ndimaksud dalam Pasal 28 ayat (1) atau ayat (2) 'dipidana\ndengan pidana penjara paling lama 6 (enam) tahun\ndan/atau denda paling banyak Rpl.000.000.000,00 (satu\nmiliar rupiah).\n(3) Setiap Orang yang memenuhi unsur sebagaimana\ndimaksud dalam Pasal 29 dipidana dengan pidana penjara\npaling lama 12 (dua belas) tahun dan/atau denda paling\nbanyak Rp2.000.000.000,00 (dua miliar rupiah).\nPasai 46\n(1) Setiap Orang yang memenuhi unsur sebagaimana\ndimaksud dalam Pasal 30 ayat (1) dipidana dengan pidana\npenjara paling lama 6 (enam) tahun dan/atau denda paling\nbanyak Rp600.000.000,00 (enam ratus juta rupiah).\n(2) Setiap Orang yang memenuhi unsur sebagaimana\ndimaksud dalam Pasal 30 ayat (2) dipidana dengan pidana\npenjara paling lama 7 (tujuh) tahun dan/atau denda paling\nbanyak Rp700.000.000,00 (tujuh ratus juta rupiah).\n(3) Setiap Orang yang memenuhi unsur sebagaimana\ndimaksud dalam Pasal 30 ayat (3) dipidana dengan pidana\npenjara paling lama 8 (delapan) tahun dan/atau denda\npaling banyak Rp800.000.000,00 (delapan ratus juta\nrupiah).\nPasal47\nSetiap Orang yang memenuhi unsur sebagaimana dimaksud\ndalam Pasal 31 ayat (1) atau ayat (2) dipidana dengan pidana\npenjara paling lama 10 (sepuluh) tahun dan/atau denda paling\nbanyak Rp800.000.000,00 (delapan ratus juta rupiah)."
+   }
+  },
+  {
+   "id": "ID-H1721-A48",
+   "no": 48,
+   "noLabel": {
+    "id": "Pasal 48"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 48\n(1) Setiap Orang yang memenuhi unsur sebagaimana\ndimaksud dalam Pasal 32 ayat (1) dipidana dengan pidana\npenjara paling lama 8 (delapan) tahun dan/atau denda\npaling banyak Rp2.000.00O.000,O0 (dua miliar rupiah).\n(2) Setiap\n;f RESID E I{\nREPUBLIK INDONESIA\n(2) Setiap Orang yang memenuhi unsur sebagaimana\ndimaksud dalam Pasal 32 ayat (2) dipidana dengan pidana\npenjara puiit g lama 9 (sembilan) tahun danlatau denda\npaling banyak Rp3.000.000.000,00 (tiga miliar rupiah)'\n(3) Setiap Orang yang memenuhi unsur sebagaimana\ndimaksud dalam Pasal 32 ayat (3) dipidana dengan pidana\npenjara paling lama 10 (sepuluh) tahun dan/atau denda\npaling banyak Rps.000.000.000,00 (lima miliar rupiah)."
+   }
+  },
+  {
+   "id": "ID-H1721-A49",
+   "no": 49,
+   "noLabel": {
+    "id": "Pasal 49"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 49\nSetiap Orang yang memenuhi unsur sebagaimana dimaksud\ndalam Pasal 33, dipidana dengan pidana penjara paling lama 10\n(sepuluh) tahun dan/atau denda paling banyak\nRp 10.000.000.000,00 (sepuluh miliar rupiah)."
+   }
+  },
+  {
+   "id": "ID-H1721-A50",
+   "no": 50,
+   "noLabel": {
+    "id": "Pasal 50"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 50\nSetiap Orang yang memenuhi unsur sebagaimana dimaksud\ndalam Pasal 34 ayat (1) dipidana dengan pidana penjara paling\nlama 10 (sepuluh) tahun dan/atau denda paling banyak\nRp 10.000.000.000,00 (sepuluh miliar rupiah).\n(1)\n(21"
+   }
+  },
+  {
+   "id": "ID-H1721-A51",
+   "no": 51,
+   "noLabel": {
+    "id": "Pasal 51"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 51\nSetiap Orang yang memenuhi unsur sebagaimana\ndimaksud dalam Pasal 35 dipidana dengan pidana penjara\npaling lama 12 (dua belas) tahun dan/atau denda paling\nUanyit Rp12.000.000.000,00 (dua belas miliar rupiah).\nSetiap Orang yang memenuhi unsur sebagaimana\ndimaksud dalam Pasal 36 dipidana dengan pidana penjara\npaling lama 12 (dua belas) tahun dan/atau denda paling\nbanyak Rp12.000.000.000,00 (dua belas miliar rupiah)."
+   }
+  },
+  {
+   "id": "ID-H1721-A52",
+   "no": 52,
+   "noLabel": {
+    "id": "Pasal 52"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 52\nDalam hat tindak pidana sebagaimana dimaksud dalam\nPasal 27 ayat (1) menyangkut kesusilaan atau eksploitasi\nseksual terhadap anak dikenakan pemberatan sepertiga\ndari pidana pokok.\n(1)\n(2) Dalam\nPRESIDE N\nREPUBLIK INDONESIA\n(21 Dalam hal perbuatan sebagaimana dimaksud dalam Pasal\n30 sampai dengan Pasal 37 ditujukan terhadap Komputer\ndan/atau Sistem Elektronik serta Informasi Elektronik\ndan/atau Dokumen Elektronik milik Pemerintah dan/atau\nyang digunakan untuk layanan publik dipidana dengan\npidana pokok ditambah sepertiga.\n(3) Dalam hal perbuatan sebagaimana dimaksud dalam Pasal\n30 sampai dengan Pasal 37 ditujukan terhadap Komputer\ndan/atau Sistem Elektronik serta Informasi Elektronik\ndan/atau Dokumen Elektronik milik Pemerintah dan/atau\nbadan strategis termasuk dan tidak terbatas pada lembaga\npertahanan, bank sentral, perbankan, keuangan, lembaga\ninternasional, otoritas penerbangan diancam dengan pidana\nmaksimal ancaman pidana pokok masing-masihg Pasal\nditambah dua pertiga.\n(4) Dalam hal tindak pidana sebagaimana dimaksud dalam\nPasal 27 sampai dengan Pasal 37 dilakukan oleh korporasi\ndipidana dengan pidana pokok ditambah dua pertiga.\nBAB XII\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H1721-A53",
+   "no": 53,
+   "noLabel": {
+    "id": "Pasal 53"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 53\nPada saat berlakunya Undang-Undang ini, semua Peraturan\nPerundang-undangan dan kelembagaan yang berhubungan\ndengan pemanfaatan Teknologi Informasi yang tidak\nbertentangan dengan Undang-Undang ini dinyatakan tetap\nberlaku.\nBAB XIII\nKETENTUAN PENUTUP\nPasai 54\n(1) Undang-Undang ini mulai berlaku pada tanggal\ndiundangkan.\n(2) Peraturan Pemerintah harus sudah ditetapkan paling lama\n2 (dua) tahun setelah diundangkannya Undang-Undang ini.\nAgar\nPRESIDE N\nREPUBLIK INDONESIA\nAgar setiap orang mengetahuinya,\npengundangan Undang-Undang ini dengan\ndalam Lembaran Negara Republik Indonesia.\nmemerintahkan\npenempatannya\nDisahkan di Jakarta\npada tanggal 21 April 2008\nPRESIDEN REPUBLIK INDONESIA,\nttd\nDR. H. SUSILO BAMBANG YUDHOYONO\nDiundangkan di Jakarta\npada tanggal 21 April 2008\nMENTERI HUKUM DAN HAK ASASI MANUSIA\nREPUBLIK INDONESIA,\nANDI MATTALATA\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2OO8 NOMOR 58\nttd\nSalinan sesuai dengan aslinya\nDEPUTI MENTERI SEKRETARIS NEGARA\nBI DANG PPiIVN OANG- UNDANGAN,\ni\n-MUHAMMAD SAPTA MURTI\nPRESIDEN\nREPUBLIK INDONESIA\nPENJELASAN\nATAS\nUNDANG-UNDANG REPUBLIK INDONESIA\nNOMOR 11 TAHUN 2OO8\nTENTANG\nINFORMASI DAN TRANSAKSI ELEKTRONIK\nI. UMUM\nPemanfaatan Teknologi Informasi, media, dan komunikasi telah mengubah\nbaik perilaku masyarakat maupun peradaban manusia secara global.\nPerkembangan teknologi informasi dan komunikasi telah pula menyebabkan\nhubungan dunia menjadi tanpa batas (borderless) dan menyebabkan\nperubahan sosial, ekonomi, dan budaya secara signifikan berlangsung\ndemikian cepat. Teknologi Informasi saat ini menjadi pedang bermata dua\nkarena selain memberikan kontribusi bagi peningkatan kesejahteraan,\nkemajuan, dan peradaban manusia, sekaligus menjadi sarana efektif\nperbuatan melawan hukum.\nSaat ini telah lahir suatu rezim hukum baru yang dikenal dengan hukum\nsiber atau hukum telematika. Hukum siber atau cyber law, secara\ninternasional digunakan untuk istilah hukum yang terkait dengan\npemanfaatan teknologi informasi dan komunikasi. Demikian pula, hukum\ntelematika yang merupakan perwujudan dari konvergensi hukum\ntelekomunikasi, hukum media, dan hukum informatika. Istilah lain yang\njuga digunakan adalah hukum teknologi informasi (law of information\ntechnology), hukum dunia maya (uirtual world law), dan hukum mayantara.\nIstilah-istilah tersebut lahir mengingat kegiatan yang dilakukan melalui\njaringan sistem komputer dan sistem komunikasi baik dalam lingkup lokal\nmaupun globat (lnternet) dengan memanfaatkan teknologi informasi berbasis\nsistem komputer yang merupakan sistem elektronik yang dapat dilihat\nsecara virtual. Permasalahan hukum yang seringkali dihadapi adalah ketika\nterkait dengan penyampaian informasi, komunikasi, danlatau transaksi\nsecara elektronik, khususnya dalam hal pembuktian dan hal yang terkait\ndengan perbuatan hukum yang dilaksanakan melalui sistem elektronik.\nYang dimaksud dengan sistem elektronik adalah sistem komputer dalam arti\nIuas, yang tidak hanya mencakup perangkat keras dan perangkat lunak\nkomputer, tetapi juga mencakup jaringan telekomunikasi dan/atau sistem\nkomunikasi elektronik. Perangkat lunak atau program komputer adalah\nsekumpulan instruksi yang diwujudkan dalam bentuk bahasa, kode, skema,\nataupun bentuk lain, yang apabila digabungkan dengan media yang dapat\ndibaca dengan komputer akan mampu membuat komputer bekerja untuk\nmelakukan fungsi khusus atau untuk mencapai hasil yang khusus,\ntermasuk persiapan dalam merancang instruksi tersebut.\nSistem . . .\nPRESIDE N\nREI]UBLIK INDONESIA\nSistem elektronik juga digunakan untuk menjelaskan keberadaan sistem\ninformasi yang merupakan penerapan teknologi informasi yang berbasis\njaringan telekomunikasi dan media elektronik, yang berfungsi merancang,\nmemproses, menganalisis, menampilkan, dan mengirimkan atau\nmenyebarkan informasi elektronik. Sistem informasi secara teknis dan\nmanajemen sebenarnya adalah perwujudan peneraparl produk teknologi\ninformasi ke dalam suatu bentuk organisasi dan manajemen sesuai dengan\nkarakteristik kebutuhan pada organisasi tersebut dan sesuai dengan tujuan\nperuntukannya. Pada sisi yang lain, sistem informasi secara teknis dan\nfungsional adalah keterpaduan sistem antara manusia dan mesin yang\nmencakup komponen perangkat keras, perangkat lunak, prosedur, sumber\ndaya manusia, dan substansi informasi yang dalam pemanfaatannya\nmencakup fungsi input, process, output, storage, dan communication.\nSehubungan dengan itu, dunia hukum sebenarnya sudah sejak lama\nmemperluas penafsiran asas dan normanya ketika menghadapi persoalan\nkebendaan yang tidak berwujud, misalnya dalam kasus pencurian listrik\nsebagai perbuatan pidana. Dalam kenyataan kegiatan siber tidak lagi\nsederhana karena kegiatannya tidak lagi dibatasi oleh teritori suatu negara,\nyang mudah diakses kapan pun dan dari mana pun. Kerugian dapat terjadi\nbaik pada pelaku transaksi maupun pada orang lain yang tidak pernah\nmelakukan transaksi, misalnya pencurian dana kartu kredit melalui\npembelanjaan di Internet. Di samping itu, pembuktian merupakan faktor\nyang sangat penting, mengingat informasi elektronik bukan saja belum\nterakomodasi dalam sistem hukum acara Indonesia secara komprehensif,\nmelainkan juga ternyata sangat rentan untuk diubah, disadap, dipalsukan,\ndan dikirim ke berbagai penjuru dunia dalam waktu hitungan detik. Dengan\ndemikian, dampak yang diakibatkannya pun bisa demikian kompleks dan\nrumit.\nPermasalahan yang lebih luas terjadi pada bidang keperdataan karena\ntransaksi elektronik untuk kegiatan perdagangan melalui sistem elektronik\n(electronic commerce) telah menjadi bagian dari perniagaan nasional dan\ninternasional. Kenyataan ini menunjukkan bahwa konvergensi d.i bidang\nteknologi informasi, media, dan' informatika (telematika) berkembang terus\ntanpa dapat dibendung, seiring dengan ditemukannya perkembangan baru\ndi bidang teknologi informasi, media, dan komunikasi.\nKegiatan melalui media sistem elektronik, yang disebut juga ruang siber\n(cyber space\\, meskipun bersifat virtual dapat dikategorikan sebagai\ntindakan atau perbuatan hukum yang nyata. Secara yuridis kegiatan pada\nruang siber tidak dapat didekati dengan ukuran dan kualifikasi hukum\nkonvensional saja sebab jika cara ini yang ditempuh akan terlalu banyak\nkesulitan dan hal yang lolos dari pemberlakuan hukum. Kegiatan dalam\nruang siber adalah kegiatan virtual yang berdampak sangat nyata meskipun\nalat buktinya bersifat elektronik.\nDengan . . .\nPRESID E N\nREPUBLIK INDONESIA\nDengan demikian, subjek pelakunya harus dikualifikasikan pula sebagai\nOrang yang telah melakukan perbuatan hukum secara nyata. Dalam\nkegiatan e-commerce antara lain dikenal adanya dokumen elektronik yang\nkedudukannya disetarakan dengan dokumen yang dibuat di atas kertas.\nBerkaitan dengan hal itu, perlu diperhatikan sisi keamanan dan kepastian\nhukum dalam pemanfaatan teknologi informasi, media, dan komunikasi\nagar dapat berkembang secara optimal. Oleh karena itu, terdapat tiga\npendekatan untuk menjaga keamanan di cgber space, yaitu pendekatan\naspek hukum, aspek teknologi, aspek sosial, budaya, dan etika. Untuk\nmengatasi gangguan keamanan dalam penyelenggaraan sistem secara\nelektronik, pendekatan hukum bersifat mutlak karena tanpa kepastian\nhukum, persoalan pemanfaatan teknologi informasi menjadi tidak optimal.\nII. PASAL DEMI PASAL\nPasal 1\nCukup jelas.\nPasal 2\nUndang-Undang ini memiliki jangkauan yurisdiksi tidak semata-mata\nuntuk perbuatan hukum yang berlaku di Indonesia dan/atau dilakukan\noleh warga negara Indonesia, tetapi juga berlaku untuk perbuatan\nhukum yang dilakukan di luar wilayah hukum (yurisdiksi) Indonesia\nbaik oleh warga negara Indonesia maupun warga negara asing atau\nbadan hukum Indonesia maupun badan hukum asing yang memiliki\nakibat hukum di Indonesia, mengingat pemanfaatan Teknologi\nInformasi untuk Informasi Elektronik dan Transaksi Elektronik dapat\nbersifat lintas teritorial atau universal.\nYang dimaksud dengan \"merugikan kepentingan Indonesia\" adalah\nmeliputi tetapi tidak terbatas pada merugikan kepentingan ekonomi\nnasional, perlindungan data strategis, harkat dan martabat bangsa,\npertahanan dan keamanan negara, kedaulatan negara, warga negara,\nserta badan hukum Indonesia.\nPasal 3\n\"Asas kepastian hukum\" berarti landasan hukum bagi pemanfaatan\nTeknologi Informasi dan Transaksi Elektronik serta segala sesuatu yang\nmendukung penyelenggarahnnya yang mendapatkan pengakuan\nhukum di dalam dan di luar pengadilan.\n\"Asas manfaat\" berarti asas bagi pemanfaatan Teknologi Informasi dan\nTransaksi Elektronik diupayakan untuk mendukung proses\nberinformasi sehingga dapat meningkatkan kesej ahteraan masyarakat.\n\"Asas\nPRESIDE N\nREPUBLIK INDONFSIA\n\"Asas kehati-hatian\" berarti landasan bagi pihak yang bersangkutan\nharus memperhatikan segenap aspek yang berpotensi mendatangkan\nkerugian, baik bagi dirinya maupun bagi pihak lain dalam pemanfaatan\nTeknologi Informasi dan Transaksi Elektronik.\n\"Asas iktikad baik\" berarti asas yang digunakan para pihak dalam\nmelakukan Transaksi Elektronik tidak bertujuan untuk secara sengaja\ndan tanpa hak atau melawan hukum mengakibatkan kerugian bagi\npihak lain tanpa sepengetahuan pihak lain tersebut.\n\"Asas kebebasan memilih teknologi atau netral teknologi\" berarti asas\npemanfaatan Teknologi Informasi dan Transaksi Elektronik tidak\nterfokus pada penggunaan teknologi tertentu sehingga dapat mengikuti\nperkembangan pada masa yang akan datang.\nPasal 4\nCukup jelas.\nPasal 5\nAyat 1\nCukup jelas.\nAyat 2\nCukup jelas\nAyat 3\nCukup jelas.\nAyat 4\nHuruf a\nSurat yang menurut undang-undang harus dibuat tertulis\nmeliputi tetapi tidak terbatas pada surat berharga, surat\nyang berharga, dan surat yang digunakan dalam proses\npenegakan hukum acara perdata, pidana, dan administrasi\nnegara.\nHuruf b\nCukup jelas.\nPasal 6\nSelama ini bentuk tertulis identik dengan informasi dan/atau dokumen\nyang tertuang di atas kertas semata, padahal pada hakikatnya\ninformasi dan/atau dokumen dapat dituangkan ke dalam media apa\nsaja, termasuk media elektronik. Dalam lingkup Sistem Elektronik,\ninformasi yang asli dengan salinannya tidak relevan lagi untuk\ndibedakan sebab Sistem Elektronik pada dasarnya beroperasi dengan\ncara penggandaan yang mengakibatkan informasi yang asli tidak dapat\ndibedakan lagi dari salinannya.\nPasal7...\nPRESID E N\nREPUBLIK II.IDONESIA\nPasal 7\nKetentuan ini dimaksudkein bahwa\ndan/atau Dokumen Elektronik dapat\ntimbulnya suatu hak.\ntu Informasi Blektronik\ndigunakan sebagai alasan\nPasal 8\nCukup jelas\nPasal 9\nYang dimaksud dengan \"informasi yang lengkap dan benar\" meliputi:\na. informasi yang memuat identitas serta status subjek hukum dan\nkompetensinya, baik sebagai produsen, pemasok, penyelenggara\nmaupun perantara;\nb. informasi lain yang menjelaskan hal tertentu yang menjadi syarat\nsahnya perjanjian serta menjelaskan barang dan/atau jasa yang\nditawarkan, seperti nama, alamat, dan deskripsi barang/jasa.\nPasal 10\nAyat (1)\nSertifikasi Keandalan dimaksudkan sebagai bukti bahwa pelaku\nusaha yang melakukan perdagangan secara elektronik layak\nberusaha setelah melalui penilaian dan audit dari badan yang\nberwenang. Bukti telah dilakukan Sertifikasi Keandalan\nditunjukkan dengan adanya logo sertifikasi berupa trust mark pada\nlaman (home page)pelaku usaha tersebut.\nAyat (2)\nCukup jelas.\nPasal I 1\nAyat (1)\nUndang-Undang ini memberikan pengakuan secara tegas bahwa\nmeskipun hanya merupakan suatu kode, Tanda Tangan Elektronik\nmemiliki kedudukan yang sama dengan tanda tangan manual pada\numumnya yang memiliki kekuatan hukum dan akibat hukum.\nPersyaratan sebagaimana dimaksud dalam Pasal ini merupakan\npersyaratan minimum yang harus dipenuhi dalam setiap Tanda\nTangan Elektronik. Ketentuan ini membuka kesempatan seluas-\nluasnya kepada siapa pun untuk mengembangkan metode, teknik,\natau proses pembuatan Tanda Tangan Elektronik.\nAyat (2)\nPeraturan Pemerintah dimaksud, antara lain, mengatur tentang\nteknik, metode, sarana, dan proses pembuatan Tanda Tangan\nElektronik.\nPasal 12. . .\nPRESIDEN\nR;PUBLIK INDONESIA\nPasal 12\nCukup jelas\nPasal 13\nCukup jelas\nPasal 14\nInformasi sebagaimana dimaksud dalam Pasal ini adalah inform si yang\nminimum harus dipenuhi oleh setiap penyelenggara Tanda Tangan\nElektronik.\nPasal 15\nAyat (1)\n\"Andal\" artinya Sistem Elektronik memiliki kemampuan yang\nsesuai dengan kebutuhan penggunaannya.\n'Aman\" artinya Sistem Elektronik terlindungi secara fisik dan\nnonfisik.\n\"Beroperasi sebagaimana mestinya\" artinya Sistem Elektronik\nmemiliki kemampuan sesuai dengan spesifikasinya.\nAyat (2)\n\"Bertanggung jawab\" artinya ada subjek hukum yang bertanggung\njawab secara hukum terhadap Penyelenggaraan Sistem Elektronik\ntersebut.\nAyat (3)\nCukup jelas.\nPasal 16\nCukup jelas.\nPasal 17\nAyat (1)\nUndang-Undang ini memberikan peluang terhadap pemanfaatan\nTeknologi Informasi oleh penyelenggara negara, Orang, Badan\nUsaha, dan/ atau masyarakat.\nPemanfaatan Teknologi Informasi harus dilakukan secara baik,\nbijaksana, bertanggung jawab, efektif, dan efisien agar dapat\ndiperoleh manfaat yang sebesar-besarnya bagi masyarakat.\nAyat (2)\nCukup jelas.\nAyat (3)\nCukup jelas.\nPasal 18.\nPRESIDEN\nREPUBLIK INDONIESIA\nPasal 18\nAyat (1)\nCukup jelas.\nAyat (2)\nPilihan hukum yang dilakukan oleh para pihak dalam kontrak\ninternasional termasuk yang dilakukan secara elektronik dikenal\ndengan choice of law. Hukum ini mengikat sebagai hukum yang\nberlaku bagi kontrak tersebut.\nPilihan hukum dalam Transaksi Elektronik hanya dapat dilakukanjika dalam kontraknya terdapat unsur asing dan penerapannya\nharus sejalan dengan prinsip hukum perdata internasional (HPI).\nAyat (3)\nDalam hal tidak ada pilihan hukum, penetapan hukum yang\nberlaku berdasarkan' prinsip atau asas hukum perdata\ninternasional yang akan ditetapkan sebagai hukum yang berlaku\npada kontrak tersebut.\nAyat (a)\nForum yang berwenang mengadili sengketa kontrak internasional,\ntermasuk yang dilakukan secara elektronik, adalah forum yang\ndipilih oleh para pihak. Forum tersebut dapat berbentuk\npengadilan, arbitrase, atau lembaga penyelesaian sengketa\nalternatif lainnya.\nAyat (5)\nDalam hal para pihak tidak melakukan pilihan forum, kewenangan\nforum berlaku berdasarkan prinsip atau asas hukum perdata\ninternasional. Asas tersebut dikenal dengan asas tempat tinggal\ntergugat (tlrc basis of presence) dan efektivitas yang menekankan\npada tempat harta benda tergugat berada (principle of effectiueness).\nPasal 19\nYang dimaksud dengan \"disepakati\" dalam pasal ini juga mencakup\ndisepakatinya prosedur yang terdapat dalam Sistem Elektronik yang\nbersangkutan.\nPasal 20\nAyat (1)\nTransaksi Elektronik terjadi pada saat kesepakatan antara para\npihak yang dapat berupa, antara lain pengecekan data, identitas,\nnomor identifi kasi pribad i (trtersonal identifi.cation number/ PI N ) atausandi lewat (trtassuord).\nAyat (2)\nCukup jelas.\nPasal 2 1\nPRESID E N\nREPUBLIK IT.IDONESIA\nPasal 2 1\nAyat (1)\nYang dimaksud dengan \"dikuasakan\"\nsebaiknya dinyatakan dalam surat kuasa.\nAyat (2)\nCukup jelas.\nAyat (3)\nCukup jelas.\nAyat (a)\nCukup jelas.\nAyat (5)\nCukup jelas.\ndalam ketentuan ini\nPasal 22\nAyat (1)\nYang dimaksud dengan \"fitur\" adalah fasilitas yang memberikan\nkesempatan kepada pengguna Agen Elektronik untuk melakukan\nperubahan atas informasi yang disampaikannya, misalnya fasilitas\npembatalan (cancel/, edit, dan konfirmasi ulang.\nAyat (2)\nCukup jelas.\nPasal 23\nAyat (1)\nNama Domain berupa alamat atau jati diri penyelenggara negara,\nOrang, Badan Usaha, dan/atau masyarakat, yang perolehannya\ndidasarkan pada prinsip pendaftar pertama lfirst come first serue).\nPrinsip pendaftar pertama berbeda antara ketentuan dalam Nama\nDomain dan dalam bidang hak kekayaan intelektual karena tidak\ndiperlukan pemeriksaan substantif, seperti pemeriksaan dalam\npendaftaran merek dan paten.\nAyat (21\nYang dimaksud dengan \"melanggar hak Orang lain\", misalnya\nmelanggar merek terdaftar, nama badan hukum terdaftar, nama\nOrang terkenal, dan nama sejenisnya yang pada intinya merugikan\nOrang lain.\nAyat (3)\nYang dimaksud dengan \"penggunaan Nama Domain secara tanpa\nhak\" adalah pendaftaran dan penggunaan Nama Domain yang\nsemata-mata ditujukan untuk menghalangi atau menghambat\nOrang lain untuk menggunakan nama yang intuitif dengan\nkeberadaan nama dirinya atau nama produknya, atau untuk\nmendompleng reputasi Orang yang sudah terkenal atau ternama,\natau untuk menyesatkan konsumen.\nPasal24...\nPRESIDE N\nREPUBLIK INDONESIA\nPasal 24\nCukup jelas.\nPasal 25\nInformasi Elektronik dan/atau Dokumen Elektronik yang disusun dan\ndidaftarkan sebagai karya intelektual, hak cipta, paten, merek, rahasia\ndagang, desain industri, dan sejenisnya wajib dilindungi oleh Undang-\nUndang ini dengan memperhatikan ketentuan Peraturan Perundang-\nundangan.\nPasal 26\nAyat (1)\nDalam pemanfaatan Teknologi Informasi, perlindungan data pribadi\nmerupakan salah satu bagian dari hak pribadi (priuacy rights). Hak\npribadi mengandung pengertian sebagai berikut:\na. Hak pribadi merupakan hak untuk menikmati kehidupan\npribadi dan bebas dari segala macam gangguan.\nb. Hak pribadi merupakan hak untuk dapat berkomunikasi\ndengan Orang lain tanpa tindakan memata-matai.\nc. Hak pribadi merupakan hak untuk mengawasi akses informasi\ntentang kehidupan pribadi dan data seseorang.\nAyat (2)\nCukup jelas.\nPasal 27\nCukup jelas\nPasal 28\nCukup jelas\nPasal 29\nCukup jelas.\nPasal 3O\nAyat (1)\nCukup jelas.\nAyat (2)\nSecara teknis perbuatan yang dilarang sebagaimana dimaksud\npada ayat ini dapat dilakukan, antara lain dengan:\na. melakukan komunikasi, mengirimkan, memancarkan atau\nsengaja berusaha mewujudkan hal-hal tersebut kepada siapa\npun yang tidak berhak untuk menerimanya; atau\nb.sengaja...\nPRESIDE N\nREPUBLIK INDONESIA\nb. sengaja menghalangi agar informasi dimaksud tidak dapat\natau gagal diterimh oleh yang berwenang menerimanya di\nlingkungan pemerintah dan/atau pemerintah daerah.\nAyat (3)\nSistem pengamanan adalah sistem yang\nKomputer atau melarang akses ke dalam\nberdasarkan kategorisasi atau klasifikasi\ntingkatan kewenangan yang ditentukan.\nmembatasi akses\nKomputer dengan\npengguna beserta\nPasal 31\nAyat (1)\nYang dimaksud dengan \"intersepsi atau penyadapan\" adalah\nkegiatan untuk mendengarkan, merekam, membelokkan,\nmengubah, menghambat, dan/atau mencatat transmisi Informasi\nElektronik dan/atau Dokumen Elektronik yang tidak bersifat\npublik, baik menggunakan jaringan kabel komunikasi maupun\njaringan nirkabel, seperti pancaran elektromagnetis atau radio\nfrekuensi.\nAyat (2)\nCukup jelas.\nAyat (3)\nCukup jelas.\nAyat (a)\nCukup jelas.\nPasal 32\nCukup jelas\nPasal 33\nCukup jelas\nPasal 34\nAyat (1)\nCukup jelas.\nAyat (2)\nYang dimaksud dengan \"kegiatan penelitian\" adalah penelitian yang\ndilaksanakan oleh lembaga penelitian yang memiliki izin.\nPasal 35\nCukup jelas\nPasal 36\nCukup jelas.\nPasal 37 ...\nPRESID E N\nREPUBLIK INDONESIA\nPasal 37\nCukup jelas\nPasal 38\nCukup jelas.\nPasal 39\nCukup jelas.\nPasal 40\nCukup jelas.\nPasal 41\nAyat (1)\nCukup jelas.\nAyat (2)\nYang dimaksud dengan \"lembaga yang dibentuk oleh masyarakat\"\nmerupakan lembaga yang bergerak di bidang teknologi informasi\ndan transaksi elektronik.\nAyat (3)\nCukup jelas.\nPasal 42\nCukup jelas.\nPasal 43\nAyat (1)\nCukup jelas.\nAyat (2)\nCukup jelas.\nAyat (3)\nCukup jelas.\nAyat (a)\nCukup jelas.\nAyat (5)\nHuruf a\nCukup jelas.\nHuruf b\nCukup jelas.\nHuruf c\nCukup jelas.\nHuruf d\nPRdSID E N\nREPUBLIK INDONESIA\nHuruf d\nCukup jelas.\nHuruf e\nCukup jelas.\nHuruf f\nCukup jelas.\nHuruf g\nCukup jelas.\nHuruf h\nYang dimaksud dengan \"ahli\" adalah seseorang yang\nmemiliki keahlian khusus di bidang Teknologi Informasi yang\ndapat dipertanggungjawabkan secara akademis maupun\npraktis mengenai pengetahuannya tersebut.\nHuruf i\nCukup jelas.\nAyat (6)\nCukup jelas.\nAyat (7)\nCukup jelas.\nAyat (8)\nCukup jelas.\nPasal 44\nCukup jelas.\nPasal 45\nCukup jelas.\nPasal 46\nCukup jelas\nPasal 47\nCukup jelas\nPasal 48\nCukup jelas.\nPasa-l 49\nCukup jelas.\nPasal 50\nCukup jelas.\nPasal 51\nPRLSID E N\nREPUBLIK INDONESIA\nPasal 51\nCukup jelas\nPasal 52\nAyat (1)\nCukup jelas.\nAyat (2)\nCukup jelas.\nAyat (3)\nCukup jelas.\nAyat (a)\nKetentuan ini dimaksudkan untuk menghukum setiap perbuatan\nmeiawan hukum yang memenuhi unsur sebagaimana dimaksud\ndalam Pasal 27 sampai dengan Pasal 37 yang dilakukan oleh\nkorporasi (corporate crime) dan/atau oleh pengurus dan/atau staf\nyang memiliki kapasitas untuk:\na. mewakili korporasi;\nb. mengambil keputusan dalam korporasi;\nc. melakukan pengawasan dan pengendalian dalam korporasi;\nd. melakukan kegiatan demi keuntungan korporasi.\nPasal 53\nCukup jelas"
+   }
+  },
+  {
+   "id": "ID-H1721-A54",
+   "no": 54,
+   "noLabel": {
+    "id": "Pasal 54"
+   },
+   "chapter": {
+    "id": "BAB XIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 54\nCukup jelas\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 4843"
+   }
+  }
+ ]
+}

@@ -1,0 +1,302 @@
+{
+ "id": "PH-H21473",
+ "title": {
+  "zh": null,
+  "en": "REPUBLIC OF THE PHILIPPINES NATIONAL TELECOMMUNICATIONS COMMISSION",
+  "orig": "REPUBLIC OF THE PHILIPPINES NATIONAL TELECOMMUNICATIONS COMMISSION"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p159",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Implementing agency",
+ "docNumber": "Implementing Rules and Regulations 11934",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 26,
+ "chars": 26762,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/02_共和国法令_RA/IRR_11934_2022.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 26 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 IRR_11934_2022.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H21473-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "SECTION 1"
+   },
+   "text": {
+    "en": "Title. These rules and regulations shall be known as the \"Implementing Rules\nand Regulations (IRR) of the SIM Registration Act\""
+   }
+  },
+  {
+   "id": "PH-H21473-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "SECTION 2"
+   },
+   "text": {
+    "en": "Scope. This Memorandum Circular prescribes the general rules and guidelines\nfor the registration of new and existing SIMs of end-users with the respective PTES."
+   }
+  },
+  {
+   "id": "PH-H21473-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "SECTION 3"
+   },
+   "text": {
+    "en": "Definition of Terms. For the purpose of this Memorandum Circular, the\nfollowing terms shall mean:\n\n(a) Act refers to Republic Act No. 11934, otherwise known as Subscriber Identity Module\n(SIM) Registration Act.\nAutomatic deactivation refers to the automated process of rendering a SIM incapable\nof being used for outgoing and incoming calls, internet access, or sending and receiving\nmessages, upon the expiration of the period for registration set forth under the Act and\nBarring or temporarily deactivating a SIM refers to the blocking of the SIM rendering it\nunusable for all incoming or outgoing calls and short messaging service (SMS) or any\nmobile data services without permanently deactivating the SIM.\nConsent refers to any freely given, specific, informed, indication of will whereby the\nsubscriber/end-user agrees to the processing of personal data about and/or relating to\nhim or her. Consent shall be evidenced by written, electronic, or recorded means. It may\nalso be given on behalf of the subscriber/end-user by an agent specifically authorized\nby the subscriber/end-user to do so.\nCompetent Authority refers to such law enforcement agencies, cybercrime prevention\nbodies, or prosecutorial offices, with subpoena powers, as established or created by\nlaws, and relevant orders, rules, circulars and regulations.\nDeactivated state refers to the condition or status of a SIM rendering it incapable of\nbeing used for outgoing and incoming calls, internet access, or sending and receiving\nmessages, except for exclusively enabling and informing such SIM to be registered.\n(g) End-userrefers to any existing subscriber; and/ or any individual or juridical entity which\npurchases a SIM from the PTEs, its agents, resellers, or any entity.\nPersons of Concern or POC refer to refugees, asylum seekers, stateless persons,\nstateless applicants, and populations at risk of statelessness as defined and covered\nunder the 1951 Convention Relating to the Status of Refugees and its 1967 Protocol,\nand the 1954 Convention Relating to the Status of Stateless Persons and the 1961\nConvention on the Reduction of Statelessness.\nPostpaid subscription refers to the subscription wherein service is provided by virtue\nof a prior arrangement with a public telecommunications entity, and the end-user thereof\nis billed at the end of the monthly billing cycle according to the use of mobile service.\nPrepaid subscription refers to the subscription wherein credit is purchased in advance\nof service use. The purchased credit is used to pay for mobile phone services at the\npoint the service is accessed or consumed. If there is no available credit, then access\nto the requested service is denied.\n\n(k) Public Telecommunications Entity or PTE refers to any person, natural or juridical,\ngovernment or private, engaged in the provision of telecommunications services to the\npublic for compensation, as defined under Republic Act No. 7925, as amended, or the\nPublic Telecommunications Policy Act of the Philippines.\nPurchase of SIM refers to the acquisition of a SIM by an end-user whether for\nconsideration or otherwise including through sale, barter, donation or other means.\n(m) Reseller refers to a person, natural or juridical, who dispenses or sells a SIM to an end-\nSerial Number refers to a unique PTE-generated registration reference or tracking\nnumber. This number is automatically generated in the SIM registration platform upon\nregistration of the SIM by the end-user.\n(0)\nSIM refers to the Subscriber Identity Module which is an embedded circuit that securely\nstores International Mobile Subscriber Identity (IMSI) and related keys or an electronic\nequivalent thereof, used to identify and authenticate subscribers on mobile devices,\nsuch as mobile phones and computers, and other electronic devices. For purposes of\nthe Act and this IRR, this shall include e-SIMs and other variations thereof.\nSIM Register refers to the secure digital database containing the required information\nunder Section 5 of the Act, for registered postpaid and prepaid subscribers or end-users,\nwhether commingled or kept separately in a secure physical or virtual location under\nthe control of the PTE.\n(q) Spoofing refers to the act of transmitting misleading or inaccurate information about\nthe source of the phone call or text message, with the intent to defraud, cause harm, or\nwrongfully obtain anything of value.\nSIM REGISTRATION AND REGISTRATION GUIDELINES"
+   }
+  },
+  {
+   "id": "PH-H21473-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "SIM Registration.\n(a) In order to regulate the registration and use of SIMs, all end-users shall be required to\nregister their SIMs with their respective PTEs as a pre-requisite to the activation thereof.\nAll covered SIMs, including embedded SIMs (SIMs), other variations/ technologies and\nother future technologies thereof, which are provisioned by any PTE to provide SMS,\nvoice, and/or data services are subject for registration. These include SIMs intended for\ndata-only or used for fixed wireless broadband modem and/or wireless local loop,\nmachine-to-machine (M2M) service and/or Internet of Things (loT).\n\n(b) An end-user who fails to comply with the requirements for registration shall result in\ntheir SIM not being activated.\nAll the SIMs to be sold and/or issued by the PTEs, its agents, resellers, or any entity\nshall be in a deactivated state as defined in Rule 1 Section 3(f) of this IRR. It shall only\nbe activated after the end-user completes the process of registration.\n(d) The SIMs that are registered for foreign national end-users visiting as tourists under\nSection 9(a) of Commonwealth Act No. 613, as amended, shall only be valid temporarily\nfor thirty (30) days, and shall automatically be deactivated upon expiration of the validity\nof the SIM. The validity of such SIM may be extended only upon presentation or\nsubmission by the said foreign national of an approved visa extension\n(e) Foreign nationals with other types of visas can acquire SIMs without the thirty (30)-dav\ntemporary validity period, and register the same following the respective PTE's\nregistration process.\nThe relevant government agencies, such as but not limited to the DICT, NTC,\nDepartment of the Interior and Local Government (DILG), and Department of Education\n(DepEd); and concerned PTEs shall facilitate all SIM registrations in remote areas with\nlimited telecommunication or internet access. The DICT and NTC shall initiate the\nnecessary coordination in such facilitation efforts. The registration facilities in remote\nareas shall be established within sixty (60) days from the effectivity of the Act.\n(g) SIM registration shall be implemented at no cost to the end-users."
+   }
+  },
+  {
+   "id": "PH-H21473-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "text": {
+    "en": "Registration of Existing Subscribers.\n(a) All existing SIM subscribers/end-users shall register within one hundred eighty (180)\ndavs from effectivity of the Act. The registration may be extended for a period not\nexceeding one hundred twenty (120) days. Failure to register the existing SIM within\nthe period prescribed shall result in the automatic deactivation of the SIM. The\ndeactivated SIM may only be reactivated after registration; provided, however, that\nreactivation shall be made not later than five (5) days after such automatic deactivation.\n(b) PTEs shall include the information and data of existing postpaid subscribers in the SIM\nregister to align with the registration requirement hereunder. To complete registration\nhowever, such existing postpaid subscribers shall be required to confirm their\ninformation and data included in the SIM Register, through the PTE's registration\nplatform or website established under the Act and this IRR."
+   }
+  },
+  {
+   "id": "PH-H21473-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "text": {
+    "en": "Registration Form and Registration Process.\n(a) The Registration Form shall be accomplished electronically through a secure platform\nor website to be provided by the PTEs to their respective subscribers. The same shall\ninclude a declaration by the end-user that the identification documents presented are\n\ntrue and correct, and that said person is the one who accomplished the registration\nThe platform or website to be used for the registration as well as the registration form\nshall give due consideration on the user interface, user experience, and accessibility.\nThe registration portal shall be easy to use and navigate, considering the needs of\nvarious end-users.\n(c) A privacy notice shall be made available on the platform or website. It shall explain the\ndetails of the processing of personal data for the SIM Register.\n(d) The registration process shall be guided by the following parameters:\n(i) Submission of the electronically and duly accomplished registration form with the\nfollowing data and information only:\nBy individual (natural person) end-user:\n(2) Date of Birth;\n(4) Present/ Official Address (Choice by end-user);\n(5) Type of ID Presented; and\n(6) ID Number Presented.\nBy juridical entity end-user:\n(1) Business Name;\n(2) Business Address; and\n(3) Full Name of Authorized Signatory.\nBy foreign national end-user:\n(2) Nationality;\n(3) Date of Birth;\n(5) Address in the Philippines;\n(6) For Persons of Concern or POCs, the Type of Travel or Admission\nDocument Presented; and\n(7) ID Number or Number of Document Presented.\n(ii) Presentation of valid government-issued identification (ID) card or other similar form\nof document with photo.\n(ili) Inputting of the assigned mobile number of the SIM with its serial number.\n(e) The PTEs shall be enjoined to include processes to verify the submitted information and\ndata, subject to the applicable provisions of the Data Privacy Act, its IRR, and other\nrelevant issuances of the National Privacy Commission."
+   }
+  },
+  {
+   "id": "PH-H21473-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7"
+   },
+   "text": {
+    "en": "Valid government-issued Identification (ID) cards or other similar forms of\ndocuments with photo that will verify the identity of the end-user.\n(a) For individual end-user, ANY of the following identification cards or documents with\nphoto shall be presented:\n(ii) Philippine Identification System ID, or the Philippine Identification Card;\n(iti) Social Security Service ID;\n(iv) Government Service Insurance System e-Card;\n(v) Driver's License;\n(vi) National Bureau of Investigation clearance;\n(vii Police clearance;\n(vili Firearms' License to Own and Possess ID;\n(ix) Professional Regulation Commission ID;\n(x) Integrated Bar of the Philippines ID;\n(xi) Overseas Workers Welfare Administration ID;\n(xii) Bureau of Internal Revenue ID;\n(xiii) Voter's ID;\n(xiv) Senior Citizen's card;\n(x) Unified Multi-purpose Identification Card;\n(xvi) Persons with Disabilities card; or\n(xvii) Other valid government-issued ID with photo.\n(b) For juridical entity end-user, ALL of the following shall be presented:\n(11)\nCertificate of Registration; and\nIn the case of corporations, duly adopted resolution designating the authorized\nrepresentative, and in the case of other juridical entities, a special power of\n(c) For minor end-user, the registration of a SIM shall be under the name of the minor's\nparent or guardian and ALL of the following shall be presented:\nANY of the identification (ID) cards identified in Section 7(a) of this IRR; and\nConsent of the minor's parent or guardian, to register the SIM.\n(d) For foreign national end-user visiting as tourists under Section 9(a) of Commonwealth\nAct No. 613, as amended, ALL of the following shall be presented:\nPassport (i.e. copy of the bio-page and pages where the current 9(a) visa is\nstamped or shown);\n(il) Proof of address in the Philippines (i.e., booking in a hotel or other type of\naccommodation, or in the absence thereof, an affidavit/letter from the owner of\nthe house or residence where such foreign national will stay); and\n\n(iii) Return ticket to own country of the tourist or any other ticket showing the date\nand time of departure from the Philippines.\n(e) For foreign national end-user with other types of visas, ALL of the following shall be\nPassport (i.e., copy of the bio-page and pages where the type of visa is stamped\nProof of address in the Philippines (ie., booking in a hotel or other type of\naccommodation, or in the absence thereof, an affidavit/letter from the owner of\nthe house or residence or contract of lease of residence/space where such\nforeign national will stay); and\n(ili) Other pertinent document, whichever is applicable:\n(1) Alien Employment Permit issued by the Department of Labor and\nEmplovment (DOLE);\n(2) Alien Certificate of Registration Identification Card (ACRI Card) issued by\nthe Bureau of Immigration (BI) or other types of official ID issued by any\nother visa-Issuing agency;\n(3) School registration and ID for students; or\n(4) For Persons of Concern or POCs, the type of travel or admission document\nvalidly issued by the Department of Justice."
+   }
+  },
+  {
+   "id": "PH-H21473-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8"
+   },
+   "text": {
+    "en": "SIM Register.\n(a) All PTEs shall maintain their own database containing information required under the\nAct. The database shall strictly serve as a SIM Register to be used by PTEs to process,\nactivate or deactivate a SIM or subscription and shall not be used for any other purpose,\nunless otherwise provided under the Act.\nThe successful submission and acceptance of the required registration form shall serve\nas the certification of registration by the end-user.\nOBLIGATIONS OF END-USERS"
+   }
+  },
+  {
+   "id": "PH-H21473-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9"
+   },
+   "text": {
+    "en": "Obligations of End-users. The end-users shall have the following obligations:\n(a) Undertake registration of their own SIMs within one hundred eighty (180) days from the\neffectivity of the Act, without prejudice to the possible extension by the DICT up to a\nmaximum period of one hundred twenty (120) days, as provided under the Act.\nImmediatelv report to their respective PTEs:\n(1) any change in the information supplied in their applications for SIM registration;\n(2) lost or stolen SIM by providing the following information:\n\n(iii) Date of Birth;\n(iv) Mobile Subscriber Number; and\n(v) Such other relevant and reasonable information as may be required by the\nPTE to fully establish ownership of the SIM.\n(c) In case of death of the end-user, the immediate family or relatives shall immediately\nreport said information to the respective PTE.\n(d) Submit to their respective PTEs any request for SIM activation/deactivation.\n(e) Undertake not to sell or transfer registered SiMs without complying with the registration\nrequirements under the Act and this IRR.\nOBLIGATIONS OF PTES"
+   }
+  },
+  {
+   "id": "PH-H21473-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10"
+   },
+   "text": {
+    "en": "Obligations of Public Telecommunications Entities. The PTEs shall have the\nfollowing obligations:\nEstablish their own secure online SIM registration platform. The online registration\nplatform shall be user-friendly and easy to use for the benefit of the registering\nsubscribers/end-users. PTEs shall also provide additional means to assist persons with\ndisabilities, senior citizens, pregnant women, and/or persons with special needs in\nregistering their respective SIMs. PTEs shall be enjoined to also include procedures to\nverify the data and information submitted and presented by the registering\nsubscribers/end-users.\n(b) Maintain a register of the SIMs of their respective end-users and include the data of\nexisting postpaid subscribers in the SIM register.\n(c) Send notice of successful submission and acceptance of registration form to the end-\nusers on the same day.\n(d) Effect any change in the information in their respective SIM registers requested by their\nrespective end-users within two (2) hours from receipt of such requests.\n(e) Deactivate the SIM within twenty-four (24) hours from receipt of information on the death\nof the end-user, loss or theft of a SIM, or request for deactivation.\nImmediately effect barring of any SIM reported as lost or stolen thereby rendering it\nunusable for any incoming or outgoing text, call and use of mobile data service. Such\nSIM will be permanently deactivated upon issuance of a new SIM to the verified end-\nuser or within twenty-four (24) hours as provided under Section 10(e) of this IRR,\nwhichever comes earlier.\n\n(g) Deactivate, temporarily or permanently, the SIM used for fraudulent text or call, upon\ndue investigation.\n(h) Deactivate all prepaid SIMs for sale to the public upon the effectivity of the Act.\nOtherwise, the concerned PTE shall be liable for the penalties prescribed under the Act.\nRetain for ten (10) ears from date of deactivation the relevant data and information of\nany deactivated SIM.\n(i) Treat as absolutely confidential and not to disclose to any person any information and\ndata obtained in the registration process.\nProvide user-friendly reporting mechanism for their respective end-users to report any\npotentially fraudulent text or call, change of information, lost or stolen SIM, or death of\na registered end-user.\n(1)\nEnsure that the end-users' data are secured, encrypted and protected at all times and\ncomply with the minimum information security standards prescribed by the DICT\nconsistent with internationally-accepted cybersecurity standards and relevant laws,\nrules and regulations.\n(m) Report to the DICT, within twenty-four (24) hours of detection, any incident of cyber-\nattack on the SIM register. In the event that the cyber-attack should also result in\npersonal data breach, PTs shall comply with the personal data breach notifications\nand other reportorial requirements pursuant to the provisions of the Data Privacy Act of\n2012 (DPA) and applicable issuances of the National Privacy Commission (NPC).\n(n) Allow DICT to perform an annual audit on the PTEs' compliance with information\nsecurity standards\n(o) Submit to the NTC, DICT, and both Houses of Congress, on or before the 30th day of\nApril of each year, an annual report on the implementation of the provisions of the Act\nand this IRR for the previous calendar year.\n(p) Facilitate, together with the relevant government agencies, the SIM registration process\nin remote areas with limited telecommunications or internet access.\n(q) Comply, at all times, with the requirements of the DPA of 2012 and issuances of the\nNPC such as, among others:\n( Conduct of mandatory privacy impact assessment on the respective SIM Registers\nprior to the entry of any personal data in the Registers, or within a reasonable time\nthereafter.\n\n(it) Implementation of reasonable and appropriate physical, organizational, and\ntechnical security measures to protect personal data of data subiects throughout\nthe data lifecycle of the SIM Register.\n(iv) Enable mechanisms for the exercise of the rights of end-users as data subjects\nunder the DPA of 2012.\n(v) Ensure that any processing of personal data submitted by the end-user in the\nregistration of their SIM shall have a legitimate purpose which is not contrary to law,\nmorals, public order, and public policy, and meets the criteria for lawful processing\nof personal data under the DPA.\nCONFIDENTIALITY CLAUSE AND DISCLOSURE OF INFORMATION"
+   }
+  },
+  {
+   "id": "PH-H21473-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11"
+   },
+   "text": {
+    "en": "Confidentiality Clause. Any information and data obtained in the registration\nprocess described under the Act shall be treated as absolutely confidential and shall not be\ndisclosed to any person.\nNotwithstanding this provision, the PTE shall disclose the full name and address of an end-\nuser in the following instances:\nIn compliance with any law obligating the PT to disclose such information in\naccordance with the provisions of Republic Act No. 10173 or the Data Privacy Act of\n2012;\n(b) In compliance with a court order or legal process upon finding of probable cause;\nIn compliance with Section 10 of the Act and Section 12 of this IRR; or\n(d) With the written consent of the subscriber: Such waiver of absolute confidentiality shall\nnot be made as a condition for the approval of subscription agreements with the PTEs:\nThe confidentiality clause in the SIM registration shall take effect at the point of activation and\nshall continue even after deactivation of the SIM and for as long as the end-user's data is still\nretained by the PTs. For this purpose, the point of activation shall mean the time when the\nconcerned PTE receives the required data or information from the registering subscriber/end-"
+   }
+  },
+  {
+   "id": "PH-H21473-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12"
+   },
+   "text": {
+    "en": "Disclosure of Information. Notwithstanding the provisions on confidentiality,\nthe PTEs shall be required to provide information obtained in the registration process only\nupon the issuance of a subpoena by a competent authority pursuant to an investigation based\non a sworn written complaint that a specific mobile number, was or is being used in the\ncommission of a crime or that it was utilized as a means to commit a malicious, fraudulent or\nunlawful act, and that the complainant is unable to ascertain the identity of the perpetrator.\n\nNo PTE shall be held administratively, civilly, or criminally liable on account of any disclosure\ndone in compliance with the Act.\nThe relevant data and information shall be kept by the PTEs for a period of ten (10) years\nfrom the time a particular subscriber/end-user's mobile number is deactivated, and solely for\nthe purpose discussed under Section 10 of the Act.\nPENAL PROVISIONS\nThe following penalties shall be imposed for violation of any provision of the Act"
+   }
+  },
+  {
+   "id": "PH-H21473-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13"
+   },
+   "text": {
+    "en": "For providing false or fictitious information or for using fictitious identities\nor fraudulent identification documents to register a SIM. The penalty of imprisonment\nranging from six (6) months to two (2) years, or a fine of not less than one hundred thousand\npesos (R100.000.00) but not more than three hundred thousand pesos (P300,000.00), or\nboth, shall be imposed upon anyone who provides false or fictitious information or who uses\na fictitious identity or fraudulent identification documents to register a SIM."
+   }
+  },
+  {
+   "id": "PH-H21473-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14"
+   },
+   "text": {
+    "en": "For sale or transfer of a registered SIM without complying with the required\nregistration. The penalty of imprisonment ranging from six (6) months to six (6) years, or a\nfine of one hundred thousand pesos (P100,000.00) to three hundred thousand pesos\n(P300,000.00), or both, shall be imposed upon anyone who sells or transfers a registered\nSIM without complying with the required registration under the Act."
+   }
+  },
+  {
+   "id": "PH-H21473-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15"
+   },
+   "text": {
+    "en": "For spoofing a registered SIM. The penalty of imprisonment of no less than six\n(6) years, or a fine of two hundred thousand pesos (P200,000.00), or both, shall be imposed\nupon anvone who causes to transmit misleading or inaccurate information about the source\nof the phone call or text message, with the intent to defraud, cause harm, or wrongfully obtain\nanything of value, unless such transmission is exempted in connection with: (1) authorized\nactivities of law enforcement agencies; or (2) a court order specifically authorizing the use of\ncaller ID manipulation."
+   }
+  },
+  {
+   "id": "PH-H21473-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16"
+   },
+   "text": {
+    "en": "For failure or refusal to register a SIM. The following fines shall be imposed\nupon the PTEs who shall fail or refuse to register a SIM, without a valid reason, despite\ncompliance by the end-user with the requirements for SIM registration under the Act:\n(a) First offense: a fine of not less than one hundred thousand pesos (P100.000.00) but\nnot more than three hundred thousand pesos (₽300,000.00);\nSecond offense: a fine of not less than three hundred thousand pesos (P300,000.00)\nbut not more than five hundred thousand pesos (P500,000.00); and\n\n(c) Third and subsequent offenses: a fine of not less than five hundred thousand pesos\n(P500,000.00) but not more than one million pesos (P1,000,000.00) for every offense"
+   }
+  },
+  {
+   "id": "PH-H21473-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17"
+   },
+   "text": {
+    "en": "For sale of a stolen SIM. Any PTE, its agents, resellers, or entity that shall\nengage in the sale of stolen SIMs shall be criminally liable under the Act. The penalty of\nimprisonment ranging from six (6) months to two (2) years, or a fine of not less than one\nhundred thousand pesos (P100,000.00) but not more than three hundred thousand pesos\n(P300,000.00), or both, shall be imposed upon the PTEs, its agents, resellers, or any entity\nthat will engage in the sale of stolen SIM.\nIf the offender is a corporation, partnership or any juridical person, the penalty shall be\nimposed upon the responsible officers, as the case may be, who participated in, or by their\ngross negligence, allowed the commission of the crime."
+   }
+  },
+  {
+   "id": "PH-H21473-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18"
+   },
+   "text": {
+    "en": "For breach of confidentiality. The penalty of a fine of not less than five hundred\nthousand pesos (P500,000.00) but not more than four million pesos (P4,000,000.00) shall be\nimposed upon PTEs, its agents or its employees who shall directly or indirectly reveal or\ndisclose any information or data of an end-user obtained during the registration requirement\nunder the Act, unless otherwise permitted by the Act or other laws."
+   }
+  },
+  {
+   "id": "PH-H21473-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19"
+   },
+   "text": {
+    "en": "For breach of confidentiality due to negligence. The penalty of a fine of not\nless than five hundred thousand pesos (P500,000.00) but not more than four million\npesos (P4,000,000.00) shall be imposed upon PTEs, its agents or its employees who, due\nto negligence, shall reveal or disclose any information or data of an end-user obtained during\nthe registration requirement under the Act."
+   }
+  },
+  {
+   "id": "PH-H21473-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20"
+   },
+   "text": {
+    "en": "Liability as Co-Principal and Liability Without Prejudice to any violation of\nthe Revised Penal Code, as amended, or special laws. Any person who abets or aids in\nthe commission of any of the offenses enumerated in the Act shall be held liable as a co-\nprincipal. A prosecution under the Act shall be without prejudice to any liability or violation of\nany provision of the Revised Penal Code, as amended, or special laws."
+   }
+  },
+  {
+   "id": "PH-H21473-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21"
+   },
+   "text": {
+    "en": "Filing of Complaint. Any complaint involving any of the above criminal offenses\nshall be filed by the proper party before the relevant agency, prosecution office or court having\ncompetent jurisdiction thereof.\nMISCELLANEOUS PROVISIONS"
+   }
+  },
+  {
+   "id": "PH-H21473-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22"
+   },
+   "text": {
+    "en": "Interpretation.\nAny doubt in the interpretation of any provision of this\nMemorandum Circular shall be construed in a manner that accords the highest respect for\nprivacy, and liberally interpreted in manner mindful of the rights and interest of SIM\nsubscribers/end-users"
+   }
+  },
+  {
+   "id": "PH-H21473-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23"
+   },
+   "text": {
+    "en": "Supplemental Issuances. The NTC may issue such orders, circulars,\nguidelines, and/or regulations in order to supplement the implementation of any particular\nprovision or group of provisions under this IRR"
+   }
+  },
+  {
+   "id": "PH-H21473-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24"
+   },
+   "text": {
+    "en": "Repealing Clause. Any circular, order, memoranda or parts thereof inconsistent\nherewith are deemed repealed or amended accordingly."
+   }
+  },
+  {
+   "id": "PH-H21473-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25"
+   },
+   "text": {
+    "en": "Separability Clause. If any clause, sentence, provision or section of this Circular\nis held unconstitutional or invalid, the other sections or provisions not otherwise affected shall\nremain in full force and effect."
+   }
+  },
+  {
+   "id": "PH-H21473-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26"
+   },
+   "text": {
+    "en": "Effectivity. This Memorandum Circular shall take effect fifteen (15) days after\npublication in a newspaper of general circulation and three (3) certified true copies furnished\nthe University of the Philippines Law Center.\nDone this 12th day of December 2022 in Quezon City, Philippines.\nJON PAULO V. SALVAHAN\nDeputy Commissioner\nELLA BLANCA/B. LOPEZ\nDeputy Commissioner\nOfficer-In-Charge\nPublished in The Philippine Star on 12\nFurnished UP Law Center on 12 December\n2022"
+   }
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "id": "PH-H15888",
+ "title": {
+  "zh": null,
+  "en": "An Act Adopting the Spanish Colonial Type of Architecture on All Buildings to Be Constructed, Altered, or Repaired in the District of Intramuros, City",
+  "orig": "An Act Adopting the Spanish Colonial Type of Architecture on All Buildings to Be Constructed, Altered, or Repaired in the District of Intramuros, City"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1936-11-12",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 171",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 797,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00171_1936_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00171_1936_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H15888-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "All plans of buildings to be constructed, altered, or repaired in the District of Intramuros, City of\nManila, shall be approved and passed upon, by the consulting architect of the National Government through\nthe city engineer of Manila. Said consulting architect shall require that all buildings to be constructed in said\ndistrict shall adopt the Spanish colonial type of architecture for its facade."
+   }
+  },
+  {
+   "id": "PH-H15888-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "In case any building in said district is desired to be altered or repaired, the Spanish colonial type\nof architecture shall likewise be adopted when the entire facade is affected by the alteration or repair,\notherwise, the repair or alteration shall be in conformity with the existing style of architecture of the building."
+   }
+  },
+  {
+   "id": "PH-H15888-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, November 12, 1936."
+   }
+  }
+ ]
+}

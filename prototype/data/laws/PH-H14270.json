@@ -1,0 +1,62 @@
+{
+ "id": "PH-H14270",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Section One of Act Numbered thirty-Five Hundred, and for Other Purposes",
+  "orig": "An Act to Amend Section One of Act Numbered thirty-Five Hundred, and for Other Purposes"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1929-12-07",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3637",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 930,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1929/act_3637_1929.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03637_1929_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03637_1929_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14270-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section one of Act Numbered Thirty-five hundred is hereby amended to read as follows:\n\"Section 1. The sum of five million pesos is hereby appropriated out of any funds in the Insular Treasury not\notherwise appropriated, to constitute a revolving fund for the construction of permanent bridges on insular or\nprovincial roads in the Philippines, which shall be expended under the supervision of the Secretary of\nCommerce and Communications. Said bridges shall be declared toll bridges for a period not exceeding fifteen\nyears and tolls shall be collected from all traffic using such bridges in accordance with rates to be fixed by a\nboard composed of the Secretary of Commerce and Communications as chairman, the Secretary of Finance,\nand the Secretary of the Interior, as members: Provided, however, That no toll charges shall be collected from\npedestrians.\""
+   }
+  },
+  {
+   "id": "PH-H14270-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, December 7, 1929."
+   }
+  }
+ ]
+}

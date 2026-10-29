@@ -1,0 +1,62 @@
+{
+ "id": "PH-H14497",
+ "title": {
+  "zh": null,
+  "en": "An Act Setting Aside An Appropriation of thirty-Five thousand Pesos for the Employment of Personnel in the Bureau of Lands to Verify the Surveys Executed By Private Land Surveyors, and for Other Purposes.",
+  "orig": "An Act Setting Aside An Appropriation of thirty-Five thousand Pesos for the Employment of Personnel in the Bureau of Lands to Verify the Surveys Executed By Private Land Surveyors, and for Other Purposes."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1931-11-13",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3866",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 532,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1931/act_3866_1931.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03866_1931_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03866_1931_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14497-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The sum of thirty-five thousand pesos is hereby appropriated out of any funds in the Insular\nTreasury not otherwise appropriated, for the employment of junior computers, junior draftsmen, and clerks at\nthe rate not to exceed six hundred pesos per annum each: Provided, however, That the payments made under\nthe authority given herein, shall not exceed the fees which may actually be collected under section one of Act\nNumbered Thirty-seven hundred and sixteen."
+   }
+  },
+  {
+   "id": "PH-H14497-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, November 13, 1931."
+   }
+  }
+ ]
+}

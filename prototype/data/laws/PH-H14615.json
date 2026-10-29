@@ -1,0 +1,62 @@
+{
+ "id": "PH-H14615",
+ "title": {
+  "zh": null,
+  "en": "An Act Granting to the \"Bacarra Electric Power Company\" a Franchise to Install, Operate and Maintain An Electric Light, Heat and Power System in the Municipality of Bacarra, Province of Ilocos Norte, Philippine Islands.",
+  "orig": "An Act Granting to the \"Bacarra Electric Power Company\" a Franchise to Install, Operate and Maintain An Electric Light, Heat and Power System in the Municipality of Bacarra, Province of Ilocos Norte, Philippine Islands."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1932-12-08",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 4024",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 588,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1932/act_4024_1932.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_04024_1932_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_04024_1932_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14615-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Subject to the rules and conditions established in Act Numbered Thirty-six hundred and\nthirty-six, there is hereby granted to the \"Bacarra Electric Power Company\", for a period of fifty years from\nthe approval of this Act, the right, privilege and authority to construct, maintain and operate an electric light,\nheat and power system for the purpose of generating and distributing electric light, heat and power, for sale\nwithin the limits of the municipality of Bacarra, Province of Ilocos Norte, Philippine Islands."
+   }
+  },
+  {
+   "id": "PH-H14615-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, December 8, 1932."
+   }
+  }
+ ]
+}

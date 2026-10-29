@@ -1,0 +1,328 @@
+{
+ "id": "MY-H565",
+ "title": {
+  "zh": "2012年囚犯国际移管法",
+  "en": "INTERNATIONAL TRANSFER OF PRISONERS ACT 2012",
+  "orig": "INTERNATIONAL TRANSFER OF PRISONERS ACT 2012",
+  "vi": "Luật về Chuyển giao phạm nhân quốc tế năm 2012",
+  "th": "พระราชบัญญัติการโอนตัวนักโทษระหว่างประเทศ ค.ศ. 2012",
+  "id": "Undang-Undang Pemindahan Narapidana Internasional Tahun 2012",
+  "ms": "Akta Pemindahan Banduan Antarabangsa 2012"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-12",
+ "language": "en",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "2012",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "ACT754",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 21,
+ "chars": 14683,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-detail.php?act=754&lang=BI"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\01_宪法与基础法\\2012_754_INTERNATIONAL TRANSFER OF PRISONERS ACT 2012.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 21 条；逐字未改写（AI 自行 OCR）；已清除正文中的 5 个控制字符（C0/C1 区，法律文本中无合法用途，系 PDF 抽取/表单域残留）。",
+ "textQuality": "ocr-ai",
+ "articles": [
+  {
+   "id": "MY-H565-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "1. (1) This Act may be cited as the International Transfer of\nPrisoners Act 2012.\n\n(2) This Act comes into operation on a date to be appointed\nby the Minister by notification in the Gazette.\n\nApplication"
+   }
+  },
+  {
+   "id": "MY-H565-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "2. This Act is applicable to prisoners sentenced by the courts\nestablished by or under Part IX of the Federal Constitution or\nsection 3 of the Subordinate Courts Act 1948 [Act 92], or by the\ncourts of the prescribed foreign State with similar jurisdiction.\n\nInterpretation"
+   }
+  },
+  {
+   "id": "MY-H565-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "3. In this Act, unless the context otherwise requires —\n\n\"prisoner\" means a person who is serving a sentence of\nimprisonment or under confinement in a prison pursuant to an\norder made upon a finding of guilt, including —\n\n(a) a prisoner released on parole; and\n(b) such person under the age of eighteen years;\n\n\"Commissioner General of Prison\" means the Commissioner\nGeneral of Prison appointed under subsection 10(1) of the Prison\nAct 1995 [Act 537];\n\n\"Minister\" means the Minister charged with the responsibility\nfor prisons and prisoners;\n\n\"prescribed foreign State\" means a foreign State declared by\nthe Minister, by an order made under section 4, as a prescribed\nforeign State;\n\n\"appropriate authority\" means a person or\nauthority in any prescribed foreign State whom the Minister\nis satisfied is authorized under the law of that prescribed\nforeign State as being the authority responsible for\nadministering the transfer of prisoners to and from\nsuch State.\n\nOrder of the Minister"
+   }
+  },
+  {
+   "id": "MY-H565-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "4. (1) The Minister may, by order to be published in the\nGazette, declare a foreign State to be a prescribed foreign State\nif there is in force a treaty or other agreement between Malaysia\nand that foreign State, under which that foreign State has\nagreed to provide for the transfer of prisoners to and from\nMalaysia.\nInternational Transfer of Prisoners 7\n\n(2) An order under this section may provide that the provisions\nof this Act shall apply to the foreign State subject to such\nrestrictions, limitations, exceptions, modifications, adaptations,\nconditions or qualifications as are specified in the order,\nand in that event the provisions of this Act shall apply\naccordingly.\n\n(3) An order made under this section shall be conclusive\nevidence that the treaty or other agreement referred to in the\norder complies with this Act, and that this Act applies to the\nprescribed foreign State referred to in the order.\n\n(4) The validity of the order made under this section shall not\nbe questioned in any legal proceedings.\n\n(5) The Minister may by a subsequent order vary or revoke\nany order previously made under this section.\n\nPart II\n\nTRANSFER\nEligibility for transfer from Malaysia"
+   }
+  },
+  {
+   "id": "MY-H565-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "chapter": {
+    "en": "Part II"
+   },
+   "heading": {},
+   "text": {
+    "en": "5. (1) A prisoner is eligible for transfer from Malaysia to a\nprescribed foreign State if the prisoner is a citizen of that State\nor has community ties with that State.\n\n(2) For the purpose of this section, a prisoner has community\nties with a prescribed foreign State if—\n\n(a) the prisoner's principal place of residence immediately\nbefore being sentenced to imprisonment in Malaysia was\nin the prescribed foreign State;\n\n(b) the prisoner's parent, grandparent or child has a\nprincipal place of residence in the prescribed foreign\nState; or\n\n(c) the prisoner is married to anyone whose principal place\nof residence is in the prescribed foreign State.\n\nEligibility for transfer to Malaysia"
+   }
+  },
+  {
+   "id": "MY-H565-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "chapter": {
+    "en": "Part II"
+   },
+   "heading": {},
+   "text": {
+    "en": "6. Aprisoner is eligible for transfer to Malaysia from a prescribed\nforeign State under this Act if the prisoner is a citizen of\nMalaysia.\n\nConditions for transfer"
+   }
+  },
+  {
+   "id": "MY-H565-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7"
+   },
+   "chapter": {
+    "en": "Part II"
+   },
+   "heading": {},
+   "text": {
+    "en": "7. (1) The conditions for transfer of a prisoner to or from\nMalaysia are fulfilled if—\n\n(a)\n\n(b)\n\n(c)\n\n(d)\n\n(e)\n\n(f)\n\nthe sentence of imprisonment of or the order made upon\nthe finding of guilt imposing a term of imprisonment\non the prisoner is not subject to appeal to any court or\ntribunal;\n\nthe acts or omissions constituting the offence on account\nof which the prisoner is serving the sentence in the\nsentencing State would, if the acts or omissions had\noccurred in the State to which transfer is sought, also\nhave constituted an offence in that State unless the Minister\nand the appropriate authority agree otherwise;\n\nat the time the application for the transfer is made at\nleast six months of the prisoner's sentence remains\nto be served, irrespective of whether the prisoner has\nbeen released on parole or otherwise, provided that the\nMinister and the appropriate authority may determine a\nshorter period;\n\nthe Minister and the appropriate authority have given\ntheir consent to the transfer;\n\nthe consent of the prisoner has been obtained, if such\nconsent is required by the treaty or other agreement\nbetween Malaysia and the prescribed foreign State, or\nany other treaty or agreement to which Malaysia or the\nprescribed foreign State is a party to; and\n\nany other requirements agreed to between Malaysia and\nthe prescribed foreign State are satisfied including\nconditions provided in or made under any treaty or\nagreement between Malaysia and the prescribed foreign\nState.\nInternational Transfer of Prisoners 9\n\n(2) For the transfer of a prisoner to or from Malaysia, the\nMinister may refuse the application for transfer or may not grant\nhis consent to the transfer if—\n\n(a) the prisoner has been sentenced to death;\n\n(b) such transfer would affect the sovereignty, security, public\norder or other essential public interest of Malaysia;\n\n(c) such transfer of the prisoner would impose an excessive\nburden on the resources of Malaysia; or\n\n(d) such transfer would require steps to be taken that would\nbe contrary to any written law.\n\nPart III\n\nTRANSFER FROM MALAYSIA\n\nPreliminary consideration for application for transfer from\nMalaysia"
+   }
+  },
+  {
+   "id": "MY-H565-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8"
+   },
+   "chapter": {
+    "en": "Part III"
+   },
+   "heading": {},
+   "text": {
+    "en": "8. (1) Where the Minister intends to apply for a transfer of\nprisoner to a prescribed foreign State —\n\n(a) the Minister shall inform such prescribed foreign State of\nMalaysia's intention to apply for transfer of the prisoner\nto the prescribed foreign State; and\n\n(b) the Minister shall request such prescribed foreign State to\nindicate its provisional views on the application, including\nthe method by which it is likely that the sentence of\nimprisonment would be enforced by the prescribed foreign\nState if, following a formal application for transfer, the\nprescribed foreign State consents to the transfer.\n\n(2) For the purposes of subsection (1), the Minister may\nprovide the prescribed foreign State with—\n\n(a) details of any request for extradition of the prisoner that\nhas been made under the Extradition Act 1992 [Act 479]\nor of any expression of interest in extradition made by\nanother State or of any State that, in the opinion of the\nMinister, may wish to extradite the prisoner; or\n\n(b) any other information the Minister considers may assist\nthe prescribed foreign State in giving its provisional\nviews on the proposed transfer.\n\nApplication for transfer from Malaysia"
+   }
+  },
+  {
+   "id": "MY-H565-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9"
+   },
+   "chapter": {
+    "en": "Part III"
+   },
+   "heading": {},
+   "text": {
+    "en": "9. (1) An application for transfer of a prisoner from Malaysia\nmay be made—\n\n(a) by the Minister to the appropriate authority of the prescribed\nforeign State; or\n\n(b) by the appropriate authority of the prescribed foreign\nState to the Minister.\n\n(2) The application for transfer under subsection (1) shall be\nmade in writing.\n\n(3) Every application for transfer under this section shall be\naccompanied by —\n\n(a) such documents as may be agreed by Malaysia and the\nprescribed foreign State for that purpose; and\n\n(b) any other documents or information which may be\nconsidered relevant to the application and that may\nappropriately be provided.\n\n(4) The Minister may notify the prisoner or the prisoner's\nrepresentative of the arrangement for transfer.\n\nWarrant for transfer from Malaysia"
+   }
+  },
+  {
+   "id": "MY-H565-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10"
+   },
+   "chapter": {
+    "en": "Part III"
+   },
+   "heading": {},
+   "text": {
+    "en": "10. (1) The Minister may, if a prisoner is eligible for transfer\nunder subsection 5(1) and the transfer conditions under section 7\nare fulfilled, issue a warrant for transfer in the form as prescribed\nby the Minister authorizing the transfer of the prisoner from\nMalaysia to the prescribed foreign State.\n\n(2) The Minister shall cause a copy of the warrant for transfer\nfrom Malaysia to be served on the Commissioner General of\nPrison.\nInternational Transfer of Prisoners 11\n\n(3) When issuing a warrant for transfer from Malaysia, the\nMinister shall have regard as to whether or not the prisoner is\nthe subject of any extradition request.\n\n(4) A warrant for transfer from Malaysia shall be deemed to\nbe sufficient authority for the Commissioner General of Prison\nto deliver such prisoner to any appropriate authority to receive\nsuch prisoner.\n\n(5) A warrant for transfer from Malaysia authorizes the prisoner\nfrom Malaysia to continue serving the sentence of imprisonment\nor the order of confinement in a prison in the prescribed foreign\nState in accordance with the treaty or other agreement between\nMalaysia and the prescribed foreign State.\n\n(6) If the prisoner is released on parole, the warrant for transfer\nfrom Malaysia—\n\n(a) shall specify any approval, authorization, permission or\nvariation to the parole or other order that has been made\nunder the laws of Malaysia; and\n\n(b) shall specify any procedure for the transfer of the prisoner\nto the prescribed foreign State that has been agreed\nupon with the prescribed foreign State and the necessary\nauthorizations and directions.\n\n(7) The effect of the issuance of a warrant for transfer from\nMalaysia is to suspend enforcement of the sentence of imprisonment\nor the order of confinement in a prison in Malaysia.\n\nPart IV\n\nTRANSFER TO MALAYSIA\n\nApplication for transfer to Malaysia"
+   }
+  },
+  {
+   "id": "MY-H565-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "11. (1) An application for transfer of a prisoner to Malaysia\nmay be made—\n\n(a) by the Minister to the appropriate authority of the prescribed\nforeign State; or\n\n(b) by the appropriate authority of the prescribed foreign\nState to the Minister.\n\n(2) An application for transfer under subsection (1) shall be\nmade in writing.\n\n(3) Every application for transfer under this section shall be\naccompanied by —\n\n(a) such documents as may be agreed by Malaysia and the\nprescribed foreign State for that purpose; and\n\n(b) any other documents or information which may be\nconsidered relevant to the application and that may\nappropriately be provided.\n\nWarrant for transfer to Malaysia"
+   }
+  },
+  {
+   "id": "MY-H565-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "12. (1) The Minister may, if a prisoner is eligible for transfer\nunder section 6 and the transfer conditions under section 7 are\nfulfilled, issue a warrant for transfer in the form as prescribed\nby the Minister authorizing the transfer of the prisoner from the\nprescribed foreign State to Malaysia.\n\n(2) A warrant for transfer to Malaysia authorizes the transfer\nof the prisoner from the prescribed foreign State to Malaysia to\ncontinue serving the sentence of imprisonment or the order of\nconfinement in a prison in accordance with the treaty or other\nagreement between Malaysia and the prescribed foreign State.\n\n(3) If the prisoner has been released on parole, the warrant for\ntransfer to Malaysia shall specify any procedure for such transfer\nthat has been agreed upon with the prescribed foreign State and\nthe necessary authorizations and directions.\n\n(4) The Commissioner General of Prison shall have the authority\nto confine such prisoner in prison for the period specified in the\nwarrant for transfer to Malaysia.\n\nRegistration of warrant or order issued in the prescribed\nforeign State"
+   }
+  },
+  {
+   "id": "MY-H565-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "13. Where, under the provisions of any law in force in the\nprescribed foreign State, a court or a tribunal has issued a warrant\nfor the execution of a sentence of imprisonment or an order made\nupon a finding of guilt imposing a term of imprisonment, on a\nInternational Transfer of Prisoners 13\n\nprisoner, a Sessions Court Judge in Malaysia shall register the\nwarrant or order, and the warrant or order may then be executed\non that prisoner as if the warrant or order was lawfully issued\nunder the laws of Malaysia.\n\nPart V\n\nVARIATION AND REVOCATION OF WARRANT\nVariation of warrant for transfer"
+   }
+  },
+  {
+   "id": "MY-H565-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "14. The Minister may, by a subsequent warrant for transfer, vary\nany warrant for transfer previously issued under subsection 10(1)\nor 12(1).\n\nRevocation of warrant for transfer"
+   }
+  },
+  {
+   "id": "MY-H565-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "15. The Minister may, at any time before the prisoner concerned\nis transferred, revoke the warrant for his transfer issued under\nsubsection 10(1) or 12(1) if—\n\n(a) the Minister considers it to be inappropriate to proceed\nwith the prisoner's transfer;\n\n(b) the prescribed foreign State withdraws consent to the\ntransfer; or\n\n(c) the prisoner, if required to give consent by the treaty or\nother agreement between Malaysia and the prescribed\nforeign State, or any other treaty or agreement to which\nMalaysia or the prescribed foreign State is a party to,\nwithdraws such consent.\n\nPart VI\n\nENFORCEMENT OF PUNISHMENT\nEnforcement of punishment"
+   }
+  },
+  {
+   "id": "MY-H565-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "16. The enforcement of the sentence of imprisonment or order\nof confinement in a prison imposed upon any prisoner who\nis transferred to Malaysia shall be governed by the laws of\nMalaysia.\n\nPeriod spent in custody in connection with the sentence of\nimprisonment or order of confinement in a prison"
+   }
+  },
+  {
+   "id": "MY-H565-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "17. Any period of the sentence of imprisonment or order of\nconfinement in a prison served or deemed to have been served\nin the prescribed foreign State by the prisoner shall be reckoned\nas period served by the prisoner in Malaysia.\n\nPart VII\n\nGENERAL\n\nPardon, commutation, etc. of sentence"
+   }
+  },
+  {
+   "id": "MY-H565-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "18. (1) In relation to a transfer of prisoner to Malaysia, this Act\nshall not restrict the power of the prescribed foreign State to grant\npardon, respite or reprieve in respect of the offence committed\nor remission, suspension or commutation of the sentence, to the\nprisoner, in accordance with the laws of such prescribed foreign\nState.\n\n(2) Where the prescribed foreign State has notified the Minister\nof a decision to grant a pardon, respite or reprieve in respect of\nthe offence committed or a remission, suspension or commutation\nof the sentence, to a prisoner, the Minister shall give effect to\nsuch decision.\n\n(3) In relation to a transfer of prisoner from Malaysia, this Act\nshall not restrict the power to grant pardon, respite or reprieve\nin respect of the offence committed or remission, suspension or\ncommutation of the sentence, to the prisoner, in accordance with\nthe laws of Malaysia.\n\nCosts"
+   }
+  },
+  {
+   "id": "MY-H565-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "19. The Minister may recover costs and expenses incurred in\ntransferring a prisoner.\nInternational Transfer of Prisoners 15\n\nDelegation"
+   }
+  },
+  {
+   "id": "MY-H565-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "20. (1) The Minister may, as he deems fit, delegate to a fit and\nproper person any of his powers under this Act except the power\nof delegation under this section.\n\n(2) A delegation under this section shall not preclude the\nMinister himself from exercising at any time any of the powers\nso delegated.\n\nRegulations"
+   }
+  },
+  {
+   "id": "MY-H565-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "21. The Minister may make such regulations as may be\n\nnecessary or expedient for giving full effect to the provisions\nof this Act."
+   }
+  }
+ ]
+}

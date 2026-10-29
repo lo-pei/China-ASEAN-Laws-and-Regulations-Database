@@ -1,0 +1,72 @@
+{
+ "id": "PH-H12026",
+ "title": {
+  "zh": null,
+  "en": "AN ACT APPROPRIATING THE SUM OF THREE MILLION DOLLARS IN GOLD COIN OF THE UNITED STATES, FROM THE GOLD-STANDARD FUND FOR THE PURPOSE OF PAYING THE PRINCIPAL OF THE THIRD SERIES OF CERTIFICATES OF INDEBTEDNESS ISSUED PURSUANT TO THE PROVISIONS OF ACT NUMBERED ONE THOUSAND AND FIFTY.",
+  "orig": "AN ACT APPROPRIATING THE SUM OF THREE MILLION DOLLARS IN GOLD COIN OF THE UNITED STATES, FROM THE GOLD-STANDARD FUND FOR THE PURPOSE OF PAYING THE PRINCIPAL OF THE THIRD SERIES OF CERTIFICATES OF INDEBTEDNESS ISSUED PURSUANT TO THE PROVISIONS OF ACT NUMBERED ONE THOUSAND AND FIFTY."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 1315",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1265,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_01315_1905_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_01315_1905_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12026-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Pursuant to the provisions of section one of Act Numbered Nine hundred and thirty-eight, which\ndeclares \"That whenever the public interest permits, there may be withdrawn from the old-standard fund\nsuch amount as the Philippine Government may deem proper to pay the principal and interest of all or any\npart of the certificates of indebtedness issued under section six of the said Act of Congress of March second,\nnineteen hundred and three,\" there is hereby appropriated from the gold-standard fund the sum of three\nmillion dollars, gold coin of the United States, for the payment in New York, upon maturity, of the principal\nof the third series of certificates of indebtedness, maturing May first, nineteen hundred and five, and issued\npursuant to the provisions of section six of said Act of Congress approved March second, nineteen hundred\nand three and Act Numbered One thousand and fifty of the Philippine Commission."
+   }
+  },
+  {
+   "id": "PH-H12026-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The public good requiring the speedy enactment of this bill, the passage of the same is hereby\nexpedited in accordance with section two of \"An Act prescribing the order of procedure by the Commission\nin the enactment of laws,\" passed September twenty-sixth, nineteen hundred."
+   }
+  },
+  {
+   "id": "PH-H12026-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, April 11, 1905."
+   }
+  }
+ ]
+}

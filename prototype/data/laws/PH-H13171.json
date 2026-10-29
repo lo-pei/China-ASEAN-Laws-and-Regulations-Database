@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13171",
+ "title": {
+  "zh": null,
+  "en": "An Act to Facilitate to Laborers the Exercise of their Rights in All Cases Falling Under the Provisions of Act Numbered Eighteen Hundred and Seventy-Four.",
+  "orig": "An Act to Facilitate to Laborers the Exercise of their Rights in All Cases Falling Under the Provisions of Act Numbered Eighteen Hundred and Seventy-Four."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1915-02-05",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2473",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 468,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1915/act_2473_1915.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02473_1915_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02473_1915_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13171-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "In all litigations instituted by a laborer or by his heirs and successors under the provisions oi Act\nNumbered Eighteen hundred and seventy-four of the Philippine Legislature, entitled \"An Act to extend and\nregulate the responsibility of employers for personal injuries and deaths suffered by their employees while at\nwork,\" neglect on the part of the employer shall constitute a presumption of law."
+   }
+  },
+  {
+   "id": "PH-H13171-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, February 5, 1915."
+   }
+  }
+ ]
+}

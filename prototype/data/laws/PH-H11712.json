@@ -1,0 +1,52 @@
+{
+ "id": "PH-H11712",
+ "title": {
+  "zh": null,
+  "en": "AN ACT APPROPRIATING THE SUM OF TWO HUNDRED AND THIRTY-FOUR THOUSAND PESOS, PHILIPPINE CURRENCY, FOR THE CONSTRUCTION AND REPAIR OF ROADS IN THE PROVINCE",
+  "orig": "AN ACT APPROPRIATING THE SUM OF TWO HUNDRED AND THIRTY-FOUR THOUSAND PESOS, PHILIPPINE CURRENCY, FOR THE CONSTRUCTION AND REPAIR OF ROADS IN THE PROVINCE"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 1000",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 1,
+ "chars": 522,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_01000_1903_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 1 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_01000_1903_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H11712-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The sum of two hundred and thirty-four thousand pesos, Philippine currency, or so much thereof\nas may be necessary, is hereby appropriated, out of any money in the Insular Treasury not otherwise\nappropriated, the same to be charged to the Congressional relief fund, for the purpose of constructing and\nrepairing the following roads in the Province of Cebu:\n(a) For the Carcar-Barili road, fifty-six thousand pesos, Philippine currency.\n(b) For the Sogod-Putad road, one hundred and seventy-eight thousand pesos, Philippine"
+   }
+  }
+ ]
+}

@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: id-p03
-   法规 7 部 / 译文 99 条
+   法规 8 部 / 译文 124 条
    由 _work/_ingest-2026-10-26/migrate_id_trans.py 从 id-en 回执迁入，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -550,6 +550,261 @@
         "noLabel": {
           "en": "Article 3"
         }
+      }
+    ]
+  };
+
+  TR["ID-H053"] = {
+    "lawId": "ID-H053",
+    "sourceLang": "id",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "DeepSeek-V4.1-Flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-26",
+    "reviewed": "machine",
+    "glossaryVersion": "id-en-2026-10",
+    "completenessNote": "从印尼语回执逐条入库，共 25 条；条号与原文一一对应。",
+    "articles": [
+      {
+        "no": 7,
+        "text": {
+          "en": "B paragraphs (1), (2), (3), (4), (5), (6) and (7); Article 7C, Article 8 paragraphs (1) and (2), Article 11\nparagraphs (2) and (3); Article 17 paragraph (4), Chapter VIIA, Article 22C paragraphs (1), (2), (3) and (4); Article 22D paragraphs (1), (2), (3) and (4); Chapter VIIB, Article 22E paragraphs (1), (2), (3), (4), (5) and (6); Article 23\nparagraphs (1), (2) and (3); Article 23A; Article 23C; Chapter VIIIA, Article 23E paragraphs (1), (2) and (3);"
+        },
+        "noLabel": {
+          "en": "Article 7"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "F paragraphs (1) and (2); Article 23G paragraphs (1) and (2); Article 24 paragraphs (1) and (2), Article 24A paragraphs (1), (2), (3), (4) and (5); Article 24B paragraphs (1), (2), (3) and (4); and Article 24C paragraphs\n(1), (2), (3), (4), (5) and (6) of the Constitution of the State of the Republic of Indonesia of 1945, so that they read in their entirety as follows:"
+        },
+        "noLabel": {
+          "en": "Article 23"
+        }
+      },
+      {
+        "no": 1,
+        "text": {
+          "en": "(2) Sovereignty is vested in the people and is exercised in accordance with the Constitution.\n(3) The State of Indonesia is a State based on law."
+        },
+        "noLabel": {
+          "en": "Article 1"
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "(1) The People's Consultative Assembly has the authority to amend and to enact the Constitution.\n(3) The People's Consultative Assembly inaugurates the President and/or the Vice President.\n(4) The People's Consultative Assembly may dismiss the President and/or the Vice President during his or her term of office only in accordance with the Constitution."
+        },
+        "noLabel": {
+          "en": "Article 3"
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "(1) A candidate for President and a candidate for Vice President must be a citizen of Indonesia since birth and must never have received another citizenship of his or her own accord, must never have betrayed the State, and must be spiritually and physically capable of performing the duties and obligations of President and Vice President.\n(2) The requirements for becoming President and Vice President are further regulated by law."
+        },
+        "noLabel": {
+          "en": "Article 6"
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "A\n(1) The President and the Vice President are elected as a single ticket directly by the people.\n(2) The ticket of candidates for President and Vice President is proposed by a political party or a coalition of political parties participating in the general election before the general election is held.\n(3) The ticket of candidates for President and Vice President that obtains more than fifty per cent of the total number of votes in the general election, with at least twenty per cent of the votes in each province distributed over more than half of the total number of provinces in Indonesia, is inaugurated as President and Vice President.\n(5) The procedure for conducting the election of the President and Vice President is further regulated by law."
+        },
+        "noLabel": {
+          "en": "Article 6A"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "A The President and/or the Vice President may be dismissed during his or her term of office by the People's Consultative Assembly upon the proposal of the House of Representatives, either where it is proven that he or she has committed a violation of law in the form of treason against the State, corruption, bribery, other serious criminal offence or a disgraceful act, or where it is proven that he or she no longer meets the requirements to serve as President and/or Vice President."
+        },
+        "noLabel": {
+          "en": "Article 7A"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "B\n(1) A proposal to dismiss the President and/or the Vice President may be submitted by the House of Representatives to the People's Consultative Assembly only after first submitting a request to the Constitutional Court to examine, adjudicate and decide on the opinion of the House of Representatives that the President and/or the Vice President has committed a violation of law in the form of treason against the State, corruption, bribery, other serious criminal offence or a disgraceful act; and/or the opinion that the President and/or the Vice President no longer meets the requirements to serve as President and/or Vice President.\n(2) The opinion of the House of Representatives that the President and/or the Vice President has committed such violation of law or no longer meets the requirements to serve as President and/or Vice President is expressed in the exercise of the oversight function of the House of Representatives.\n(3) The request of the House of Representatives to the Constitutional Court may be made only with the support of at least two thirds of the total number of members of the House of Representatives present at a plenary session attended by at least two thirds of the total number of members of the House of Representatives.\n(4) The Constitutional Court is obliged to examine, adjudicate and decide as fairly as possible on the said opinion of the House of Representatives at the latest within ninety days after the request of the House of Representatives is received by the Constitutional Court.\n(5) Where the Constitutional Court decides that the President and/or the Vice President is proven to have committed a violation of law in the form of treason against the State, corruption, bribery, other serious criminal offence or a disgraceful act; and/or is proven no longer to meet the requirements to serve as President and/or Vice President, the House of Representatives shall hold a plenary session in order to forward the proposal to dismiss the President and/or the Vice President to the People's Consultative Assembly.\n(6) The People's Consultative Assembly is obliged to hold a session in order to decide on the said proposal of the House of Representatives at the latest thirty days after the People's Consultative Assembly receives the proposal.\n(7) The decision of the People's Consultative Assembly on the proposal to dismiss the President and/or the Vice President must be taken at a plenary session of the People's Consultative Assembly attended by at least three quarters of the total number of members and approved by at least two thirds of the total number of members present, after the President and/or the Vice President has been given the opportunity to submit an explanation at the plenary session of the People's Consultative Assembly."
+        },
+        "noLabel": {
+          "en": "Article 7B"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "C The President may not freeze and/or dissolve the House of Representatives."
+        },
+        "noLabel": {
+          "en": "Article 7C"
+        },
+        "dupIndex": 4
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "(1) If the President dies, resigns, is dismissed or is unable to perform his or her duties during his or her term of office, he or she is replaced by the Vice President until the end of that term of office.\n(2) In the event of a vacancy in the office of Vice President, within at the latest sixty days the People's Consultative Assembly shall hold a session in order to elect a Vice President from two candidates proposed by the President."
+        },
+        "noLabel": {
+          "en": "Article 8"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "(2) In concluding other international treaties that give rise to extensive and fundamental consequences for the life of the people, that are related to the financial burden of the State and/or that require the amendment or the enactment of a law, the President must obtain the approval of the House of Representatives.\n(3) Further provisions on international treaties are regulated by law."
+        },
+        "noLabel": {
+          "en": "Article 11"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "(4) The establishment, amendment and dissolution of State Ministries are regulated by law.\nCHAPTER VIIA\nREGIONAL REPRESENTATIVES COUNCIL"
+        },
+        "noLabel": {
+          "en": "Article 17"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "C\n(1) The members of the Regional Representatives Council are elected from each province through general elections.\n(2) The members of the Regional Representatives Council from each province are equal in number and the total number of members of the Regional Representatives Council does not exceed one third of the total number of members of the House of Representatives.\n(3) The Regional Representatives Council sits at least once a year.\n(4) The structure and status of the Regional Representatives Council are regulated by law."
+        },
+        "noLabel": {
+          "en": "Article 22C"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "D\n(1) The Regional Representatives Council may submit to the House of Representatives a draft law relating to regional autonomy, the relationship between the centre and the regions, the formation and the expansion as well as the merger of regions, the management of natural resources and other economic resources, and matters relating to the financial balance between the centre and the regions.\n(2) The Regional Representatives Council participates in deliberating draft laws relating to regional autonomy; the relationship between the centre and the regions; the formation, expansion and merger of regions; the management of natural resources and other economic resources; and the financial balance between the centre and the regions; and gives consideration to the House of Representatives on the draft law on the State budget and on draft laws relating to taxes, education and religion.\n(3) The Regional Representatives Council may exercise oversight over the implementation of laws concerning: regional autonomy, the formation, expansion and merger of regions, the relationship between the centre and the regions, the management of natural resources and other economic resources, the implementation of the State budget, taxes, education and religion, and shall convey the results of that oversight to the House of Representatives as material for consideration for follow-up action.\n(4) Members of the Regional Representatives Council may be dismissed from office, the requirements and procedure for which are regulated by law.\nCHAPTER VIIB\nGENERAL ELECTIONS"
+        },
+        "noLabel": {
+          "en": "Article 22D"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "E\n(1) General elections are held directly, publicly, freely, secretly, honestly and fairly once every five years.\n(2) General elections are held in order to elect the members of the House of Representatives, the members of the Regional Representatives Council, the President and the Vice President and the members of the Regional House of Representatives.\n(3) The participants in a general election to elect the members of the House of Representatives and the members of the Regional House of Representatives are political parties.\n(4) The participants in a general election to elect the members of the Regional Representatives Council are individuals.\n(5) General elections are held by a general elections commission that is national, permanent and independent.\n(6) Further provisions on general elections are regulated by law."
+        },
+        "noLabel": {
+          "en": "Article 22E"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "(1) The State budget, as a manifestation of the management of State finances, is determined every year by law and is implemented openly and responsibly for the greatest possible prosperity of the people.\n(2) The draft law on the State budget is submitted by the President to be deliberated with the House of Representatives with due regard to the consideration of the Regional Representatives Council.\n(3) If the House of Representatives does not approve the draft State budget proposed by the President, the Government shall implement the State budget of the preceding year."
+        },
+        "noLabel": {
+          "en": "Article 23"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "A Taxes and other levies of a compulsory nature for the purposes of the State are regulated by law."
+        },
+        "noLabel": {
+          "en": "Article 23A"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "C Other matters concerning State finances are regulated by law.\nCHAPTER VIIIA\nAUDIT BOARD"
+        },
+        "noLabel": {
+          "en": "Article 23C"
+        },
+        "dupIndex": 4
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "E\n(1) In order to audit the management of and the accountability for State finances, a single Audit Board is established which is free and independent.\n(2) The results of the audit of State finances are submitted to the House of Representatives, the Regional Representatives Council and the Regional House of Representatives in accordance with their respective authority.\n(3) Those audit results are followed up by the representative institutions and/or bodies in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 23E"
+        },
+        "dupIndex": 5
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "F\n(1) The members of the Audit Board are elected by the House of Representatives with due regard to the consideration of the Regional Representatives Council and are inaugurated by the President.\n(2) The leadership of the Audit Board is elected from and by its members."
+        },
+        "noLabel": {
+          "en": "Article 23F"
+        },
+        "dupIndex": 6
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "G\n(1) The Audit Board is based in the capital city of the State and has a representative office in each province.\n(2) Further provisions concerning the Audit Board are regulated by law."
+        },
+        "noLabel": {
+          "en": "Article 23G"
+        },
+        "dupIndex": 7
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "(1) Judicial power is an independent power to administer justice in order to uphold law and justice.\n(2) Judicial power is exercised by a Supreme Court and the judicial bodies below it within the general judicature, the religious judicature, the military judicature and the State administrative judicature, and by a Constitutional Court."
+        },
+        "noLabel": {
+          "en": "Article 24"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "A\n(1) The Supreme Court has the authority to adjudicate at the level of cassation, to review regulations below a law against the law, and has other authority conferred by law.\n(2) A supreme judge must have integrity and an unblemished personality, be fair, be professional and be experienced in the field of law.\n(3) Candidates for supreme judge are proposed by the Judicial Commission to the House of Representatives in order to obtain approval and are thereafter appointed as supreme judges by the President.\n(4) The Chief Justice and the Deputy Chief Justice of the Supreme Court are elected from and by the supreme judges.\n(5) The structure, status, membership and procedural law of the Supreme Court and of the judicial bodies below it are regulated by law."
+        },
+        "noLabel": {
+          "en": "Article 24A"
+        },
+        "dupIndex": 2
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "B\n(1) The Judicial Commission is independent in character and has the authority to propose the appointment of supreme judges and has other authority in the context of maintaining and upholding the honour, the nobility of dignity and the conduct of judges.\n(2) The members of the Judicial Commission must have knowledge and experience in the field of law and must have integrity and an unblemished personality.\n(3) The members of the Judicial Commission are appointed and dismissed by the President with the approval of the House of Representatives.\n(4) The structure, status and membership of the Judicial Commission are regulated by law."
+        },
+        "noLabel": {
+          "en": "Article 24B"
+        },
+        "dupIndex": 3
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "C\n(1) The Constitutional Court has the authority to adjudicate at the first and final level, with decisions that are final, in order to review laws against the Constitution, to decide disputes over the authority of State institutions whose authority is conferred by the Constitution, to decide on the dissolution of political parties, and to decide disputes concerning the results of general elections.\n(2) The Constitutional Court is obliged to give a decision on the opinion of the House of Representatives concerning an alleged violation by the President and/or the Vice President under the Constitution.\n(3) The Constitutional Court has nine members of constitutional justices appointed by the President, three of whom are proposed by the Supreme Court, three by the House of Representatives and three by the President.\n(4) The Chief Justice and the Deputy Chief Justice of the Constitutional Court are elected from and by the constitutional justices.\n(5) A constitutional justice must have integrity and an unblemished personality, be fair, be a statesman who masters the constitution and constitutional government, and must not concurrently hold office as a State official.\n(6) The appointment and dismissal of constitutional justices, the procedural law and other provisions concerning the Constitutional Court are regulated by law.\nThis amendment text constitutes an inseparable part of the text of the Constitution of the State of the Republic of Indonesia of 1945.\nThat amendment was decided at the 7th Plenary Session (Continuation 2) of the People's Consultative Assembly of the Republic of Indonesia on 9 November 2001 at the Annual Session of the People's Consultative Assembly of the Republic of Indonesia, and took effect on the date of its enactment.\nEnacted in Jakarta on 9 November 2001 THE PEOPLE'S CONSULTATIVE ASSEMBLY OF THE REPUBLIC OF INDONESIA Chairman, Prof. Dr. H.M. Amien Rais Vice Chairman, Prof. Dr. Ir. Ginandjar Kartasasmita Vice Chairman, Ir. Sutjipto Vice Chairman, Prof. Dr. Jusuf Amir Feisal, S.Pd.\nVice Chairman,\nDrs. H.M. Husnie Thamrin\nVice Chairman,\nDrs. H.A. Nazri Adlani\nVice Chairman,\nAgus Widjojo"
+        },
+        "noLabel": {
+          "en": "Article 24C"
+        },
+        "dupIndex": 4
       }
     ]
   };

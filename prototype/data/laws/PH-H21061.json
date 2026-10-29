@@ -1,0 +1,62 @@
+{
+ "id": "PH-H21061",
+ "title": {
+  "zh": null,
+  "en": "MALACAÑAN PALACE EXECUTIVE ORDER NO. _800 AN ORDER TRANSFERRING THE ADMINISTRATIVE SUPERVISION OF THE SECURITIES AND EXCHANGE COMMISSION FROM THE DEPARTMENT OF FINANCE TO THE DEPARTMENT OF TRADE AND INDUSTRY",
+  "orig": "MALACAÑAN PALACE EXECUTIVE ORDER NO. _800 AN ORDER TRANSFERRING THE ADMINISTRATIVE SUPERVISION OF THE SECURITIES AND EXCHANGE COMMISSION FROM THE DEPARTMENT OF FINANCE TO THE DEPARTMENT OF TRADE AND INDUSTRY"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p159",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Executive Order No. 800",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 336,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/07_行政命令_EO/EO_00800_2009.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 EO_00800_2009.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H21061-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": ". The Securities and Exchange Commission Is hereby placed under the\nadministrative supervision of the Department of Trade and Industry."
+   }
+  },
+  {
+   "id": "PH-H21061-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Executive Order shall take effect immediately.\nDone In the City of Manila, this M day of MAY\nThousand and Nine.\nin the year of Our Lord, Two\nay the Fresident:\nEDUARDO R. ERMITA\nExecutive Secretary"
+   }
+  }
+ ]
+}

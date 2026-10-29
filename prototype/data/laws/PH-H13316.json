@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13316",
+ "title": {
+  "zh": null,
+  "en": "An Act Appropriating Funds for Sundry Expenses of the Philippine Senate.",
+  "orig": "An Act Appropriating Funds for Sundry Expenses of the Philippine Senate."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1916-10-19",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2665",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1022,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1916/act_2665_1916.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02665_1916_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02665_1916_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13316-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "There is hereby appropriated, out of any funds in the Insular Treasury not otherwise\nappropriated, the sum of one hundred thousand pesos, or so much thereof as may be necessary, to be expended\nby authority of the Philippine Senate for the following purposes: Salaries and compensations of subordinate\npersonnel; salaries and wages of officers and employees of other branches of the Government who, at the\nrequest of the President of the Philippine Senate and with the consent of their respective chiefs, render\nservices to the Senate in addition to their ordinary duties; traveling expenses of the President of the Senate and\ntransportation expenditures in Manila; rent of buildings; furniture; equipment, including uniforms of officers\nand messengers of the Senate; stationery; printing and binding; postage; telegrams and cablegrams; electric\ncurrent; telephones, and other incidental expenses in connection with the organization and operation of the"
+   }
+  },
+  {
+   "id": "PH-H13316-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nApproved, October 19, 1916."
+   }
+  }
+ ]
+}

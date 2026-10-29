@@ -1,0 +1,72 @@
+{
+ "id": "PH-H11843",
+ "title": {
+  "zh": null,
+  "en": "AN ACT MAKING THE GOVERNOR OF THE PROVINCE OF MINDORO A JUSTICE OF THE PEACE WITH JURISDICTION THROUGHOUT THE WHOLE OF THAT PROVINCE.",
+  "orig": "AN ACT MAKING THE GOVERNOR OF THE PROVINCE OF MINDORO A JUSTICE OF THE PEACE WITH JURISDICTION THROUGHOUT THE WHOLE OF THAT PROVINCE."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 1131",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 948,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_01131_1904_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_01131_1904_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H11843-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The governor of the Province of Mindoro is hereby made ex officio justice of the peace with\nauthority to perform all the duties of a justice of the peace throughout the whole of the Province of Mindoro.\nHis jurisdiction as justice of the peace shall be concurrent in every municipality and in every part of said\nprovince with that of the proper justice of the peace of the municipality. The fees that would accrue to a\njustice of the peace shall, in all cases where the provincial governor acts as justice of the peace, be covered\ninto the treasury of the province for the general purposes of the province."
+   }
+  },
+  {
+   "id": "PH-H11843-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The public good requiring the speedy enactment of this bill, the passage of the same is hereby\nexpedited in accordance with section two of \"An Act prescribing the order of procedure by the Commission\nin the enactment of laws,\" passed September twenty-sixth, nineteen hundred."
+   }
+  },
+  {
+   "id": "PH-H11843-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, April 28, 1904."
+   }
+  }
+ ]
+}

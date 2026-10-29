@@ -1,0 +1,62 @@
+{
+ "id": "PH-H12985",
+ "title": {
+  "zh": null,
+  "en": "An Act Restoring to the Public Domain Certain Lands in the Moro Province Reserved therefrom for Public Purposes By Executive Order of the Governor-General Numbered Ninety-three, Series of Nineteen Hundred and Eight.",
+  "orig": "An Act Restoring to the Public Domain Certain Lands in the Moro Province Reserved therefrom for Public Purposes By Executive Order of the Governor-General Numbered Ninety-three, Series of Nineteen Hundred and Eight."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1913-08-23",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2281",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 507,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1913/act_2281_1913.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02281_1913_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02281_1913_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12985-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "All of the public lands heretofore reserved for the use of the Moro Province by executive order\nof the Governor-General Numbered Ninety-three and dated September eighteenth, nineteen hundred and\neight, are hereby restored to the public domain and reopened for settlement and sale in accordance with the\nprovisions of Act Numbered Nine hundred and twenty-six, as amended, in a like manner and effect as if no\nsuch reservation had been made."
+   }
+  },
+  {
+   "id": "PH-H12985-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, August 23, 1913."
+   }
+  }
+ ]
+}

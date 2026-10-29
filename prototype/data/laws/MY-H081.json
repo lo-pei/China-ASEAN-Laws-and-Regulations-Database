@@ -1,14 +1,18 @@
 {
  "id": "MY-H081",
  "title": {
-  "zh": "土地法典（摘译）",
-  "en": null,
-  "orig": null
+  "zh": "土地法典 1965（摘译）",
+  "en": "National Land Code 1965 (Extracts)",
+  "orig": "National Land Code 1965 (Extracts)",
+  "vi": "Bộ luật Đất đai 1965 (trích lục)",
+  "th": "ประมวลกฎหมายที่ดิน ค.ศ. 1965 (บางส่วน)",
+  "id": "Kitab Undang-Undang Tanah 1965 (Kutipan)",
+  "ms": "Kanun Tanah Negara 1965 (Petikan)"
  },
  "country": "MY",
  "countryName": "马来西亚",
  "layer": "intl",
- "pack": "my-p04",
+ "pack": "my-2",
  "language": "zh",
  "level": "law",
  "category": null,

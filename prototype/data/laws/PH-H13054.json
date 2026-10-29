@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13054",
+ "title": {
+  "zh": null,
+  "en": "An Act Providing Funds for the Expenses of three Companies of Philippine Scouts Detailed on Rinderpest Quarantine Duty in the Province of Pampanga and for the Salary and Expenses of Two Live-stock Inspectors.",
+  "orig": "An Act Providing Funds for the Expenses of three Companies of Philippine Scouts Detailed on Rinderpest Quarantine Duty in the Province of Pampanga and for the Salary and Expenses of Two Live-stock Inspectors."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1914-02-28",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2350",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 373,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1914/act_2350_1914.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02350_1914_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02350_1914_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13054-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The sum of seven thousand five hundred pesos is hereby appropriated for the payment of the\nexpenses of three companies of Philippine Scouts, and the salary and traveling expenses of two live-stock\ninspectors, all detailed on rinderpest quarantine in the Province of Pampanga."
+   }
+  },
+  {
+   "id": "PH-H13054-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect March first, nineteen hundred and fourteen.\nEnacted, February 28, 1914."
+   }
+  }
+ ]
+}

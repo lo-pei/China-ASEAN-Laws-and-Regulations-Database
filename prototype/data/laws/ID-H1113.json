@@ -1,0 +1,868 @@
+{
+ "id": "ID-H1113",
+ "title": {
+  "zh": "大气污染防治法",
+  "en": "Law on Air Pollution Control",
+  "id": "PENGENDALIAN PENCEMARAN UDARA",
+  "orig": "PENGENDALIAN PENCEMARAN UDARA",
+  "vi": "Luật về Kiểm soát Ô nhiễm Không khí",
+  "th": "พระราชบัญญัติว่าด้วยการควบคุมมลพิษทางอากาศ",
+  "ms": "Akta tentang Kawalan Pencemaran Udara"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02b",
+ "language": "id",
+ "level": "law",
+ "category": "04_劳工与行政法",
+ "status": "active",
+ "promulgatedDate": "1999",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU41-1999",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 59,
+ "chars": 49152,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PP0411999.pdf&fl=P04182"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\04_劳工与行政法\\印尼_文本_1999_PENGENDALIAN PENCEMARAN UDARA.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 59 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H1113-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\nDalam Peraturan Pemerintah ini yang dimaksud dengan :\n1. Pencemaran udara adalah masuknya atau dimasukkannya zat, en ergi,\ndan/atau komponen lain ke dalam udara ambien oleh kegiatan\nmanusia, sehingga mutu udara ambien turun sampai ketingkat\ntertentu yang menyebabkan udara ambien tidak dapat memenuhi\nfungsinya;\n2. Pengendalian pencemaran udara adalah upaya pencegahan dan/ atau\npenanggulangan pencemaran udara serta pemulihan mutu udara;\n3. Sumber pencemar adalah setiap usaha dan/atau kegiatan yang\nmengeluarkan bahan pencemar ke udara yang menyebabkan udara\ntidak dapat berfungsi sebagaimana mestinya;\n4. Udara ambien adalah ud ara bebas dipermukaan bumi pada lapisan\ntroposfir yang berada di dalam wilayah yurisdiksi Republik\nIndonesia yang dibutuhkan dan mempengaruhi kesehatan manusia,\nmakhluk hidup dan unsur lingkungan hidup lainnya;\n5. Mutu udara ambien adalah kadar zat, energi, dan/atau komponen\nlain yang ada di udara bebas;\n6. Status mutu udara ambien adalah keadaan mutu udara di suatu\ntempat pada saat dilakukan inventarisasi;\n7. Baku mutu udara ambien adalah ukuran batas atau kadar zat, energi,\ndan/atau komponen yang ada ata u yang seharusnya ada dan/atau\nunsur pencemar yang ditenggang keberadaannya dalam udara\nambien;\n8. Perlindungan mutu udara ambien adalah upaya yang dilakukan agar\nudara ambien dapat memenuhi fungsi sebagaimana mestinya;\nPRESIDEN\nREPUBLIK INDONESIA\n9. Emisi adalah zat, energi dan/a tau komponen lain yang dihasilkan\ndari suatu kegiatan yang masuk dan/atau dimasukkannya ke dalam\nudara ambien yang mempunyai dan/atau tidak mempunyai dan/atau\ntidak mempunyai potensi sebagai unsur pencemar;\n10. Mutu emisi adalah emisi yang boleh dibuang ol eh suatu kegiatan ke\nudara ambien;\n11. Sumber emisi adalah setiap usaha dan/atau kegiatan yang\nmengeluarkan emisi dari sumber bergerak, sumber bergerak spesifik,\nsumber tidak bergerak maupun sumber tidak bergerak spesifik;\n12. Sumber bergerak adalah sumber emisi yang bergerak atau tidak tetap\npada suatu tempat yang berada dari kendaraan bermotor;\n13. Sumber bergerak spesifik adalah sumber emisi yang bergerak atau\ntidak tetap pada suatu tempat yang berasal dari kereta api, pesawat\nterbang, kapal laut dan ke ndaraan berat lainnya;\n14. Sumber tidak bergerak adalah sumber emisi yang tetap pada suatu\ntempat;\n15. Sumber tidak bergerak spesifik adalah sumber emisi yang tetap pada\nsuatu tempat yang berasal dari kebakaran hutan dan pembakaran\nsampah;\n16. Baku mutu em isi sumber tidak bergerak adalah batas kadar\nmaksimum dan/atau beban emisi maksimum myang diperbolehkan\nmasuk atau dimasukkan ke dalam udara ambien;\n17. Ambang batas emisi gas buang kendaraan bermotor adalah batas\nmaksimum zat atau bahan pencemar yang bole h dikeluarkan\nlangsung dari pipa gas buang kendaraan bermotor;\n18. Sumber gangguan adalah sumber pencemar yang menggunakan\nmedia udara atau padat untuk penyebarannya, yang berasal dari\nsumber bergerak, sumber bergerak spesifik, sumber tidak bergerak,\natau sumber tidak bergerak spesifik;\nPRESIDEN\nREPUBLIK INDONESIA\n19. Baku tingkat gangguan adalah batas kadar maksimum sumber\ngangguan yang diperbolehkan masuk ke udara dan/atau zat padat;\n20. Ambang batas kebisingan kendaraan bermotor adalah batas\nmaksimum energi suara yang boleh dikel uarkan langsung dari mesin\ndan/atau transmisi kendaraan bermotor;\n21. Kendaraan bermotor adalah kendaraan yang digerakkan oleh\nperalatan teknik yang berada pada kendaraan itu;\n22. Kendaraan bermotor tipe baru adalah kendaraan bermotor yang\nmenggunakan mesi n dan/atau transmisi tipe baru yang siap\ndiproduksi dan dipasarkan, atau kendaraan yang sudah beroperasi\ntetapi akan diproduksi ulang dengan perubahan desain mesin dan\nsistem transmisinya, atau kendaraan bermotor yang diimpor tetapi\nbelum beroperasi di jalan wilayah Republik Indonesia;\n23. Kendaraan bermotor lama adalah kendaraan yang sudah diproduksi,\ndirakit atau diimpor dan sudah beroperasi di jalan wilayah Republik\nIndonesia;\n24. Uji tipe emisi adalah pengujian emisi terhadap kendaraan bermotor\ntipe baru;\n25. Uji tipe kebisingan adalah pengujian tingkat kebisingan terhadap\nkendaraan bermotor tipe baru;\n26. Indeks Standar Pencemar Udara (ISPU) adalah angka yang tidak\nmempunyai satuan yang menggambarkan kondisi mutu udara ambien\ndi lokasi tertentu, yang d idasarkan kepada dampak terhadap\nkesehatan manusia, nilai estetika dan makhluk hidup lainnya;\n27. Inventarisasi adalah kegiatan untuk mendapatkan data dan informasi\nyang berkaitan dengan mutu udara;\n28. Instansi yang bertanggung jawab adalah instansi yang bertanggung\njawab di bidang pengendalian dampak lingkungan;\nPRESIDEN\nREPUBLIK INDONESIA\n29. Menteri adalah Menteri yang ditugasi untuk mengelola lingkungan\nhidup;\n30. Gubernur adalah Gubernur Kepala Daerah Tingkat I."
+   }
+  },
+  {
+   "id": "ID-H1113-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\nPengendalian pencemaran udara meliputi pengendalian da ri usaha\ndan/atau kegiatan sumber bergerak, sumber bergerak spesifik, sumber\ntidak bergerak, dan sumber tidak bergerak spesifik yang dilakukan\ndengan upaya pengendalian sumber emisi dan/atau sumber ganggunan\nyang bertujuan untuk mencegah turunnya mutu udara ambien.\nBAB II\nPERLINDUNGAN MUTU UDARA\nBagian Kesatu\nUmum"
+   }
+  },
+  {
+   "id": "ID-H1113-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\nPerlindungan mutu udara ambien didasarkan pada baku mutu udara\nambien, status mutu udara ambien, baku mutu emisi, ambang batas\nemisi gas buang, baku tingkat gangguan, ambang batas kebisi ngan dan\nIndeks Standar Pencemar Udara.\nBagian Kedua\nBaku Mutu Udara Ambien"
+   }
+  },
+  {
+   "id": "ID-H1113-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\n(1) Baku mutu udara ambien nasional ditetapkan sebagai batas\nmaksimum mutu udara ambien untuk mencegah terjadinya\npencemaran udara, sebagaimana terlampir dalam Peraturan\nPemerintah ini.\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Baku mutu udara ambien nasional sebagaimana dimaksud pada ayat\n(1) dapat ditinjau kembali setelah 5 (lima) tahun."
+   }
+  },
+  {
+   "id": "ID-H1113-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\n(1) Baku mutu udara ambien daerah ditetapkan berdasarkan\npertimbangan status mutu udara ambien di daerah yang\nbersangkutan.\n(2) Gubernur menetapkan baku mutu udara ambien daerah sebagaimana\ndimaksud pada ayat (1) berdasarkan baku mutu udara ambien\nnasional.\n(3) Baku mutu udara ambien daerah sebagaimana dimaksud pada ayat\n(1) ditetapkan dengan ketentuan sama dengan atau lebih ketat dari\nbaku mutu udara ambien nasional.\n(4) Apabila Gubernur belum menetapkan baku mutu udara ambien\ndaerah, maka berlaku baku mutu udara ambien nasional sebagaimana\ndimaksud dalam Pasal 4 ayat (1).\n(5) Baku mutu udara ambien daerah sebagaim ana dimaksud pada ayat\n(2) dapat ditinjau kembali setelah 5 (lima) tahun.\n(6) Kepala instansi yang bertanggung jawab menetapkan pedoman\nteknis penetapan baku mutu udara ambien daerah.\nBagian Ketiga\nStatus Mutu Udara Ambien"
+   }
+  },
+  {
+   "id": "ID-H1113-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\n(1) Status mutu udara am bien ditetapkan berdasarkan inventarisasi\ndan/atau penelitian terhadap mutu udara ambien, potensi sumber\npencemar udara, kondisi meteorologis dan geografis, serta tata guna\ntanah.\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Instansi yang bertanggung jawab di bidang pengendalian dampak\nlingkungan daerah melakukan kegiatan inventarisasi dan/atau\npenelitian sebagaimana dimaksud pada ayat (1).\n(3) Gubernur menetapkan status mutu udara ambien daerah berdasarkan\nhasil inventarisasi sebagaimana dimaksud pada ayat (2).\n(4) Kepala instansi yang bertangg ung jawab menetapkan pedoman\nteknis inventarisasi dan pedoman teknis penetapan status mutu udara\nambien."
+   }
+  },
+  {
+   "id": "ID-H1113-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\n(1) Apabila hasil inventarisasi dan/atau penelitian sebagaimana\ndimaksud dalam Pasal 6 ayat (2) menunjukkan status mutu udara\nambien daerah b erada di atas baku mutu udara ambien nasional\nGubernur menetapkan dan menyatakan status mutu udara ambien\ndaerah yang bersangkutan sebagai udara tercemar.\n(2) Dalam hal Gubernur menetapkan dan menyatakan status mutu udara\nambien daerah sebagaimana dimaksud pada ayat (1) Gubernur wajib\nmelakukan penanggulangan dan pemulihan mutu udara ambien.\nBagian Keempat\nBaku Mutu Emisi dan Ambang Batas Emisi Gas Buang"
+   }
+  },
+  {
+   "id": "ID-H1113-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n(1) Kepala instansi yang bertanggung jawab menetapkan baku mutu\nemisi sumber tidak bergerak d an ambang batas emisi gas buang\nkendaraan bermotor, tipe baru dan kendaraan bermotor lama.\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Baku mutu emisi sumber tidak bergerak dan ambang batas emisi gas\nbuang kendaraan bermotor sebagaimana dimaksud pada ayat (1)\nditetapkan dengan mempertimbangkan parameter dominan dan kritis,\nkualitas bahan bakar dan bahan baku, serta teknologi yang ada.\n(3) Baku mutu emisi sumber tidak bergerak dan ambang batas emisi gas\nbuang kendaraan bermotor sebagaimana dimaksud pada ayat (1)\ndapat ditinjau kembali setelah 5 (lima) tahun."
+   }
+  },
+  {
+   "id": "ID-H1113-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n(1) Instansi yang bertanggung jawab melakukan pengkajian terhadap\nbaku mutu emisi sumber tidak bergerak dan ambang batas emisi gas\nbuang kendaraan bermotor.\n(2) Kepala instansi yang bertanggung jawab menetapkan pedoman\nteknis penge ndalian pencemaran udara sumber tidak bergerak dan\nsumber bergerak.\nBagian Kelima\nBaku Tingkat Ganggunan dan Ambang Batas Kebisingan"
+   }
+  },
+  {
+   "id": "ID-H1113-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\n(1) Kepala instansi yang beranggung jawab menetapkan baku tingkat\ngangguan sumber tidak bergerak dan ambang bat as kebisingan\nkendaraan bermotor.\n(2) Baku tingkat gangguan sumber tidak bergerak sebagaimana\ndimaksud pada ayat (1) terdiri atas :\na. baku tingkat kebisingan;\nPRESIDEN\nREPUBLIK INDONESIA\nb. baku tingkat getaran;\nc. baku tingkat kebauan; dan\nd. bakku tingkat ganggunan lainnya.\n(3) Baku tingkat gangguan sumber tidak bergerak sebagaimana\ndimaksud pada ayat (1) ditetapkan dengan mempertimbangkan aspek\nkenyamanan terhadap manusia dan/atau aspek keselamatan sarana\nfisik serta kelestarian bangunan.\n(4) Ambang batas kebisingan kendara an bermotor sebagaimana\ndimaksud pada ayat (1) ditetapkan dengan mempertimbangkan aspek\nkenyamanan terhadap manusia dan/atau aspek teknologi.\n(5) Baku tingkat gangguan sumber tidak bergerak dan ambang batas\nkebisingan kendaraan bermotor sebagaimana dimaksud pada ayat (1)\ndapat ditinjau kembali setelah 5 (lima) tahun."
+   }
+  },
+  {
+   "id": "ID-H1113-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\n(1) Instansi yang bertanggung jawab melakukan pengkajian terhadap\nbaku tingkat gangguan sumber tidak bergerak dan ambang batas\nkebisingan kendaraan bermotor.\n(2) Kepala instansi yang bertanggung jawab menetapkan pedoman\nteknis pengendalian pencemaran udara sumber gangguan dari\nsumber tidak bergerak dan kebisingan dari sumber bergerak.\nBagian keenam\nIndeks Standar Pencemar Udara (ISPU)"
+   }
+  },
+  {
+   "id": "ID-H1113-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n(1) Kepala instansi yang bertanggung jawab menetapkan Indeks Standar\nPencemar Udara.\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Indeks Standar Pencemar Udara sebagaimana dimaksud pada ayat\n(1) ditetapkan dengan mempertimbangkan tingkat mutu udara\nterhadap kesehatan manusia, hewan, tumbuh -tumbuhan, bangunan,\ndan nilai estetika."
+   }
+  },
+  {
+   "id": "ID-H1113-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\nKepala instansi yang bertanggung jawab menetapkan pedoman teknis\nperhitungan dan pelaporan serta informasi Indeks Standar Pencemar\nUdara."
+   }
+  },
+  {
+   "id": "ID-H1113-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\n(1) Indeks Standar Pencemar Udara diperoleh dari pengoperasian stasiun\npemantau kualitas udara ambien secara otomatis dan\nberkesinambungan.\n(2) Indeks Standar Pencemar Udara sebagaimana dimaksud pada ayat\n(1) dapat dipergunakan untuk :\na. bakan informasi kepada masyarakat tentang kualitas udara\nambien di lokasi tertentu dan pada waktu tertentu;\nb. bahan pertimbangan pemerintahan pusat dan pemerintah daerah\ndalam melaksanakan pengendalian pencemaran udara."
+   }
+  },
+  {
+   "id": "ID-H1113-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\nIndeks Standar Pencemar Udara yang diperoleh dari pengoperasian\nstasiun kualitas udara ambien sebagaimana dimaksud dalam Pasal 14\nayat (1) diumumkan kepada masyarakat.\nPRESIDEN\nREPUBLIK INDONESIA\nBAB III\nPENGENDALIAN PENCEMARAN UDARA\nBagian Kesatu\nUmum"
+   }
+  },
+  {
+   "id": "ID-H1113-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\nPengendalian pencemaran udara meliputi pencegahan dan\npenanggulangan pencemaran. serta pemulihan mutu udara dengan\nmelakukann inventarisasi mutu udara ambien , pencegahan sumber\npencemar, baik dari sumber bergerak maupun sumber tidak bergerak\ntermasuk sumber gangguan serta penanggulangan keadaan darurat."
+   }
+  },
+  {
+   "id": "ID-H1113-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\n(1) Penyusunan dan pelaksanaan kebijaksanaan teknis pengendalian\npencemaran udara secara nasional ditetapkan oleh Kepala\ninstansi yang bertanggung jawab.\n(2) Kebijaksanaan teknis pengendalian pencemaran udara dan\npelaksanaannya sebagaimana dimaksud pada ayat (1) dapat ditinjau\nkembali setelah 5 (lima) tahun."
+   }
+  },
+  {
+   "id": "ID-H1113-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\n(1) Pelaksanaan operasional penge ndalian pencemaran udara di daerah\ndilakukan oleh Bupati/Walikotamadya Kepala Daerah Tingkat II.\n(2) Pelaksanaan koordinasi operasional pengendalian pencemaran udara\ndi daerah dilakukan oleh Gubernur.\n(3) Kebijaksanaan operasional pengendalian pencemaran u dara\nsebagaimana dimaksud pada ayat (1) dapat ditinjau kembali setelah 5\n(lima) tahun.\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H1113-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\n(1) Dalam rangka penyusunan dan pelaksanaan operasional\npengendalian pencemaran udara di daerah sebagaimana dimaksud\ndalam Pasal 18 ayat (1), daerah menyusun dan menetapkan program\nkerja daerah di bidang pengendalian pencemaran udara.\n(2) Ketentuan mengenai pedoman penyusunan dan pelaksanaan\noperasional pengendalian pencemaran udara di daerah sebagaimana\ndimaksud pada ayat (1) ditetapkan oleh Kepala instansi y ang\nbertanggung jawab.\nBagian Kedua\nPencegahan Pencemaran Udara dan\nPersyaratan Penaatan Lingkungan Hidup"
+   }
+  },
+  {
+   "id": "ID-H1113-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\nPencegahan pencemaran udara meliputi upaya -upaya untuk mencegah\nterjadinya pencemaran udara dengan cara :\na. penetapan baku mutu udara am bien, baku mutu emisi sumber tidak\nbergerak, baku tingkat gangguan, ambang batas emisi gas buang dan\nkebisingan kendaraan bermotor sebagaimana dimaksud dalam Bab II\nPeraturan Pemerintah ini;\nb. penetapan kebijaksanaan pengendalian pencemaran udara\nsebagaimana dimaksud dalam Pasal 17, 18 dan 19."
+   }
+  },
+  {
+   "id": "ID-H1113-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\nSetiap orang yang melakukan usaha dan/atau kegiatan yang\nmengeluarkan emisi dan/atau baku tingkat gangguan ke udara ambien\nwajib :\nPRESIDEN\nREPUBLIK INDONESIA\na. menaati baku mutu udara ambien, baku mutu emisi, dan baku tingkat\ngangguan yang ditetapkan untuk usaha dan/atau kegiatan yang\ndilakukannya;\nb. melakukan pencegahan dan/atau penanggulangan pencemaran udara\nyang diakibatkan oleh usaha dan/atau kegiatan yang dilakukannya;\nc. memberikan informasi yang benar dan akurat kepada ma syarakat\ndalam rangka upaya pengendalian pencemaran udara dalam\nlingkup usaha dan/atau kegiatannya."
+   }
+  },
+  {
+   "id": "ID-H1113-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\n(1) Setiap orang yang melakukan usaha dan/atau kegiatan sumber tidak\nbergerak yang mengeluarkan emisi dan/atau gangguan wajib\nmemenuhi persyarata n mutu emisi dan/atau gangguan yang\nditetapkan dalam izin melakukan usaha dan/atau kegiatan.\n(2) Izin melakukan usaha dan/atau kegiatan sebagaimana dimaksud pada\nayat (1) diterbitkan oleh pejabat yang berwenang sesuai dengan\nperaturan perundang-undangan yang berlaku."
+   }
+  },
+  {
+   "id": "ID-H1113-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\nSetiap udaha dan/atau kegiatan yang wajib memiliki analisis mengenai\ndampak lingkungan hidup dilarang membuang mutu emisi melampaui\nketentuan yang telah ditetapkan dalam izin melakukan usaha dan/atau\nkegiatan."
+   }
+  },
+  {
+   "id": "ID-H1113-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 24\n(1) Setiap usa ha dan/atau kegiatan yang tidak wajib memiliki analisis\nmengenai dampak lingkungan hidup, maka pejabat yang berwenang\nmenerbitkan izin usaha dan/atau kegiatan mewajibkan penanggung\njawab usaha dan/atau kegiatan yang mematuhi ketentuan baku mutu\nemisi dan/a tau baku tingkat gangguan untuk mencegah dan\nPRESIDEN\nREPUBLIK INDONESIA\nmenanggulangi pencemaran udara akibat dilaksanakannya rencana\nusaha dan/atau kegiatannya.\n(2) Ketentuan lebih lanjut mengenai persyaratan dan kewajiban\nmengenai baku mutu emisi dan/atau baku tingkat gangguan\nsebagaimana dimaksud pada ayat (1) ditetapkan oleh Kepala instansi\nyang bertanggung jawab.\n(3) Kewajiban sebagaimana dimaksud pada ayat (2) wajib dicantumkan\nsebagai ketentuan dalam izin melakukan usaha dan/atau kegiatan.\nBagian Ketiga\nPenanggulangan dan Pemulihan Pencemaran Udara"
+   }
+  },
+  {
+   "id": "ID-H1113-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\n(1) Setiap orang atau penanggungjawab usaha dan/atau kegiatan yang\nmenyebabkan terjadinya pencemaran udara dan/atau ganggunan\nwajib melakukan upaya penanggulangan dan pemulihannya.\n(2) Kepala instansi yang bertanggung jaw ab menetapkan pedoman\nteknis penanggulangan dan pemulihan pencemaran udara\nsebagaimana dimaksud pada ayat (1)\nParagraf 1\nKeadaan Darurat"
+   }
+  },
+  {
+   "id": "ID-H1113-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\n(1) Apabila hasil pemantauan menunjukan Indeks Standar Pencemar\nUdara mencapai nilai 300 atau lebih berarti udara dalam kategori\nberbahaya maka :\na. Menteri menetapkan dan mengumumkan keadaan darurat\npencemaran udara secara nasional;\nPRESIDEN\nREPUBLIK INDONESIA\nb. Gubernur menetapkan dan mengumumkan keadaan darurat\npencemaran udara di daerahnya\n(2) Pengumuman keadaan darurat sebagaiman a dimaksud pada ayat (1)\ndilakukan antara lain melalui media cetak dan/atau media elektronik."
+   }
+  },
+  {
+   "id": "ID-H1113-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\nKepala instansi yang bertanggung jawab menetapkan pedoman teknis\ntata cara penanggulangan dan pemulihan keadaan darurat pencemaran\nudara.\nParagraf 2\nSumber Tidak Bergerak"
+   }
+  },
+  {
+   "id": "ID-H1113-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\nPenanggulangan pencemaran udara sumber tidak bergerak meliputi\npengawasan terhadap penaatan baku mutu emisi yang telah ditetapkan\npemantauan emisi yang keluar dari kegiatan dan mutu udara ambien di\nsekitar lokasi kegiatan, dan pemeriksaan penaatan terhadap ketentuan\npersyaratan teknis pengendalian pencemaran udara."
+   }
+  },
+  {
+   "id": "ID-H1113-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\n(1) Instansi yang bertanggung jawab mengkoordinasikan pelaksanaan\npenanggulangan pencemaran udara dari sumber tidak bergerak.\n(2) Kepala instansi yang bertanggung jawab menetapkan pedoman\nteknis penanggulangan pencemaran udara sumber tidak bergerak.\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H1113-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\n(1) Setiap penanggung jawab usaha dan/atau kegiatan dari sumber tidak\nbergerak yang mengeluarkan emisi wajib menaati ketentuan baku\nmutu udara ambien, baku mutu emisi, dan baku tingkat gangguan.\n(2) Setiap penanggung jawab usaha dan/atau kegiatan dari sumber tidak\nbergerak yang mengeluarkan emisi wajib manaati ketentuan\npersyaratan teknis sebagaimana dimaksud dalam Pasal 9 ayat (2).\nParagraf 3\nSumber Bergerak"
+   }
+  },
+  {
+   "id": "ID-H1113-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\nPenanggulangan pencemaran udara dari sumber bergerak meliputi\npengawasan terhadap penaatan ambang batas emisi gas buang,\npemeriksaan emisi gas buang untuk kendaraan bermotor tipe baru dan\nkendaraan bermotor lama, pemantauan mutu ud ara ambien di sekitar\njalan, pemerksaan emisi gas buang kendaraan bermotor di jalan dan\npengadaan bahan bakar minyak bebas timah hitam serta solar berkadar\nbelerang rendah sesuai standar internasional."
+   }
+  },
+  {
+   "id": "ID-H1113-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 32\n(1) Instansi yang bertanggungjawab mengkoor dinasikan pelaksanaan\npenanggulangan pencemaran udara dari sumber bergerak.\n(2) Kepala instansi yang bertanggungjawab menetapkan pedoman teknis\npenanggulangan pencemaran udara dari kegiatan sumber bergerak.\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H1113-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 33\nKendaraan bermotor tipe baru dan k endaraan bermotor lama yang\nmengeluarkan emisi gas buang wajib memenuhi ambang batas emisi gas\nbuang kendaraan bermotor."
+   }
+  },
+  {
+   "id": "ID-H1113-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 34\n(1) Kendaraan bemotor tipe baru wajib menjalani uji tipe emisi.\n(2) Bagi kendaraan bemotor tipe baru yang dinyatakan lulus u ji tipe\nemisi sebagaimana dimaksud pada ayat (1) diberi tanda lulus uji tipe\nemisi.\n(3) Kepala instansi yang bertanggung jawab menetapkan tata cara dan\nmetode uji tipe emisi kendaraan bermotor tipe baru.\n(4) Uji tipe emisi sebagaimana dimaksud pada ayat (1 ) dilakukan oleh\ninstansi yang bertanggung jawab di bidang lalu lintas dan angkutan\njalan."
+   }
+  },
+  {
+   "id": "ID-H1113-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 35\n(1) Hasil uji tipe kendaraan bermotor tipe baru yang dilakukan oleh\ninstansi yang bertanggung jawab di bidang lalu llintas dan angkutan\njalan sebagaimana dimaksud dalam Pasal 34 ayat (4) wajib\ndisampaikan kepada Kepala instansi yang bertanggung jawab dan\npenanggung jawab usaha dan/atau kegiatan.\n(2) Penanggung jawab usaha dan/atau kegiatan wajib mengumumkan\nangka parameter -parameter polutan hasil uji tipe e misi kendaraan\nbermotor tipe baru sebagaimana dimaksud pada ayat (1).\nPRESIDEN\nREPUBLIK INDONESIA\n(3) Kepala instansi yang bertanggung jawab menetapkan pedoman\nteknis tata cara pelaporan hasil uji tipe emisi kendaraan bermotor\ntipe baru sebagaimana dimaksud pada ayat (1)."
+   }
+  },
+  {
+   "id": "ID-H1113-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 36\n(1) Setiap kendaraan bermotor lama wajib menjalani uji emisi berkala\nsesuai peraturan perundang-undangan yang berlaku.\n(2) Gubernur melaporkan hasil evaluasi uji emisi berkala kendaraan\nbermotor lama sebagaimana dimaksud pada ayat (1) setiap 1 (satu)\ntahun sekali kepada Kepala instansi yang bertanggung jawab.\nParagraf 4\nSumber Gangguan"
+   }
+  },
+  {
+   "id": "ID-H1113-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 37\nPenanggulangan pencemaran udara dari kegiatan sumebr gangguan\nmeliputi pengawasan terhadap penaatan baku tingkat gangguan,\npemantauan gangguan yang keluar dari kegiatannya dan pemerksaan\npenaatan terhadap ketentuan persyaratan teknis pengendalian\npencemaran udara."
+   }
+  },
+  {
+   "id": "ID-H1113-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 38\n(1) Instansi yang bertanggung jawba mengkoordinasikan pelaksanaan\npenanggulangan pencemaran udara dari sumber gangguan.\n(2) Kepala instansi yang bertanggung jawab menetapkan pedoman\nteknis penanggulangan pencemaran udara dari kegiatan sumber\ngangguan.\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H1113-A39",
+   "no": 39,
+   "noLabel": {
+    "id": "Pasal 39"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 39\n(1) Setiap penanggung jawab usaha dan/atau kegiatan dari sumber tidak\nbergerak yang mengeluarkan gangguan wajib menaati ketentuan\nbaku tingkat gangguan.\n(2) Setiap penanggung jawab usaha dan/atau kegiatan dari sumber tidak\nbergerak yang mengeluarkan gangguan wajib menaati ketentuan\npersyaratan teknis sebagaimana dimaksud dalam Pasal 11 ayat (2)."
+   }
+  },
+  {
+   "id": "ID-H1113-A40",
+   "no": 40,
+   "noLabel": {
+    "id": "Pasal 40"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 40\nKendaraan bermotor tipe baru dan kendaraan bermotor lama yang\nmengeluarkan kebisingan wajib memenuhi ambang batas kebisingan."
+   }
+  },
+  {
+   "id": "ID-H1113-A41",
+   "no": 41,
+   "noLabel": {
+    "id": "Pasal 41"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 41\n(1) Kendaraan bermotor tipe baru wajib menjalani uji tipe kebisingan.\n(2) Bagi kendaraan bermotor tipe baru yang dinyatakan lulus uji tipe\nkebisingan sebagaimana dimaksud pada ayat (1) diberi tanda lulus\nuji tipe kebisingan.\n(3) Kepala instansi yang bertanggung jawab menetapkan pedoman\nteknis tata cara dan metode uji tipe kebisingan kendaraan bermotor\ntipe baru.\n(4) Uji tipe kebisingan sebagaimana dim aksud pada ayat (1), dilakukan\noleh Instansi yang bertanggung jawab di bidang lalu lintas dan\nangkutan jalan."
+   }
+  },
+  {
+   "id": "ID-H1113-A42",
+   "no": 42,
+   "noLabel": {
+    "id": "Pasal 42"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 42\n(1) Hasil uji tipe kebisingan kendaraan bermotor tipe baru sebagaimana\ndimaksud dalam Pasal 41 ayat (4), wajib disampaikan kepada Kepala\ninstansi yang bertanggung jawab usaha dan/atau kegiatan.\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Penanggung jawab usaha dan/atau kegiatan wajib mengumumkan\nhasil uji tipe kebisingan kendaraan bermotor tipe baru sebagaimana\ndimaksud pada ayat (1).\n(3) Kepala instansi yang bertanggung jawab menetapkan pedoman\nteknis tata cara pelaporan hasil uji tipe kebisingan kendaraan\nbermotor tipe baru sebagaimana dimaksud pada ayat (1)."
+   }
+  },
+  {
+   "id": "ID-H1113-A43",
+   "no": 43,
+   "noLabel": {
+    "id": "Pasal 43"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 43\n(1) Setiap kendaraan bermotor lama wajib menjalani uji kebisingan\nberkala sesuai dengan peraturan perundang-undangan yang berlaku.\n(2) Gubernur melaporkan hasil evaluasi uji kebisingan berkala\nkendaraan bermotor lama sebagaimana dimaksud pada ayat (1) setiap\n1 (satu) tahun sekali kepada instansi yang bertanggung jawab.\nBAB IV\nPENGAWASAN"
+   }
+  },
+  {
+   "id": "ID-H1113-A44",
+   "no": 44,
+   "noLabel": {
+    "id": "Pasal 44"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 44\n(1) Menteri me lakukan pengawasan terhadap penaatan\npenanggungjawab usaha dan/atau kegiatan yang dapat menyebabkan\nterjadinya pencemaran udara.\n(2) Untuk melakukan pengawasan sebagaimana dimaksud pada ayat (1),\nMenteri dapat menetapkan pejabat yang berwenang melakukan\npengawasan."
+   }
+  },
+  {
+   "id": "ID-H1113-A45",
+   "no": 45,
+   "noLabel": {
+    "id": "Pasal 45"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 45\n(1) Dalam hal wewenang pengawasan diserahkan kepada Pemerintah\nDaerah, Gubernur/Bupati/Walikotamadya Kepala Daerah Tingkat II\ndapat melakukan pengawasan terhadap penaatan penanggungjawab\nusaha dan/atau kegiatan yang membuang emisi dan/atau gangguan.\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Untuk melakukan pengawasan sebagaimana dimaksud pada ayat (1)\nGubernur/Bupati/Walikotamdya Kepala Daerah Tingkat II dapat\nmenetapkan pejabat yang berwenang melakukan pengawasan."
+   }
+  },
+  {
+   "id": "ID-H1113-A46",
+   "no": 46,
+   "noLabel": {
+    "id": "Pasal 46"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 46\nHasil pemantauan yang dilakukan oleh pejabat pe ngawas sebagaimana\ndimaksud dalam Pasal 45 ayat (2) wajib dilaporkan kepada Kepala\ninstansi yang bertanggung jawab sekurang -kurangnya sekali dalam 1\n(satu) tahun."
+   }
+  },
+  {
+   "id": "ID-H1113-A47",
+   "no": 47,
+   "noLabel": {
+    "id": "Pasal 47"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 47\n(1) Dalam melaksanakan tugasnya, pengawas sebagaimana dimaksud\ndalam Pasal 44 ayat (2) dan Pasal 45 ayat (2) berwenang melakukan\npemantauan, meminta keterangan, membuat salinan dari dokumen\ndan/atau membuat catatan yang diperlukan, memasuki tempat\ntertentu, mengambil contoh mutu udara ambien dan/atau mutu emisi,\nmemeriksa peralatan, meme riksa instalasi serta meminta keterangan\ndari pihak yang bertanggung jawab atas usaha dan/atau kegiatan.\n(2) Penanggung jawab usaha dan/atau kegiatan yang diminta keterangan\nsebagaimana dimaksud pada ayat (1), wajib memenuhi permintaan\npetugas pengawas ses uai dengan ketentuan peraturan\nperundang-undangan yang berlaku.\n(3) Setiap pengawas wajib memperlihatkan surat tugas dan/atau tanda\npengenal serta wajib memperhatikan situasi dan kondisi tempat\npengawasan tersebut."
+   }
+  },
+  {
+   "id": "ID-H1113-A48",
+   "no": 48,
+   "noLabel": {
+    "id": "Pasal 48"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 48\nSetiap penanggung jawab usaha dan/atau kegiatan wajib :\nPRESIDEN\nREPUBLIK INDONESIA\na. mengizinkan pengawas memasuki lingkungan kerjanya dan\nmembantu terlaksananya tugas pengawasan tersebut;\nb. memberikan keterangan dengan benar baik secara lisan maupun\ntertulis apabila hal itu diminta pengawas;\nc. memberikan dokumen dan/atau data yang diperlukan oleh pengawas.\nd. mengizinkan pengawas untuk melakukan pengambilan contoh udara\nemisi dan/atau contoh udara ambien dan/atau lainnya yang\ndiperlukan pengawas, dan\ne. mengizinkan pengawas untuk melakukan pengambilan gamba r\ndan/atau melakukan pemotretan di lokasi kerjanya."
+   }
+  },
+  {
+   "id": "ID-H1113-A49",
+   "no": 49,
+   "noLabel": {
+    "id": "Pasal 49"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 49\nHasil inventarisasi dan pemantauan baku mutu udara ambien, baku mutu\nemisi, baku tingkat gangguan dan indeks standar pencemar udara yang\ndilakukan oleh pajabat pengawas sebagaimana dimaksud dalam Pasal 44\nayat (2) dan Pasal 45 ayat (2) wajib disimpan dan disebarluarkan kepada\nmasyarakat."
+   }
+  },
+  {
+   "id": "ID-H1113-A50",
+   "no": 50,
+   "noLabel": {
+    "id": "Pasal 50"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 50\n(1) Setiap orang atau penanggung jawab usaha dan/atau kegiatan wajib\nmenyampaikan laporan hasil pemantauan pengendalian laporan hasil\npemantauan penge ndalian pencemaran udara yang telah dilakukan\nkepada instansi yang bertanggung jawab, instansi teknis, dan instansi\nterkait lainnya.\n(2) Pedoman dan tata cara pelaporan sebagaimana dimaksud pada ayat\n(1) ditetapkan lebih lanjut oleh Kepala instansi yang be rtangung\njawab.\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H1113-A51",
+   "no": 51,
+   "noLabel": {
+    "id": "Pasal 51"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 51\n(1) Dalam rangka kegiatan pengawasan, masyarakat dapat melakukan\npemantauan terhadap mutu udara ambien.\n(2) Hasil pemantauan sebagaimana dimaksud pada ayat (1) dapat\ndisampaikan kepada instansi yang bertanggung jawab, instansi\nteknis, dan instansi terkait lainnya.\n(3) Hasil pemantau yang dilakukan oleh masyarakat sebagaimana\ndimaksud pada ayat (2) dapat digunakan oleh instansi yang\nbertanggung jawab, instansi teknis, dan instansi terkait lainnya\nsebagai bahan pertimbangan penetap an pengendalian pencemaran\nudara.\nBAB V\nPEMBIAYAAN"
+   }
+  },
+  {
+   "id": "ID-H1113-A52",
+   "no": 52,
+   "noLabel": {
+    "id": "Pasal 52"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 52\nSegala biaya yang timbul sebagai akibat dari upaya pengendalian\npencemaran udara dan/atau gangguan dari sumber tidak bergerak yang\ndilakukan oleh penanggung jawab usaha dan/atau kegiatan dibeb ankan\nkepada penanggung jawab usaha dan/atau kegiatan yang bersangkutan."
+   }
+  },
+  {
+   "id": "ID-H1113-A53",
+   "no": 53,
+   "noLabel": {
+    "id": "Pasal 53"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 53\nSegala biaya yang timbul sebagai akibat pengujian tipe emisi dan\nkebisingan kendaraan bermotor tipe baru dan pelaporannya dalam\nrangka pengendalian pencemaran udara dan/ata u gangguan dibebankan\nkepada perakit, pembuat, pengimpor kendaraan bermotor.\nPRESIDEN\nREPUBLIK INDONESIA\nBAB VI\nGANTI RUGI"
+   }
+  },
+  {
+   "id": "ID-H1113-A54",
+   "no": 54,
+   "noLabel": {
+    "id": "Pasal 54"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 54\n(1) Setiap orang atau penanggung jawab usaha dan/atau kegiatan yang\nmengakibatkan terjadinya pencemaran udara wajib menanggung\nbiaya penanggulangan pencemaran udara serta biaya pemulihannya.\n(2) Setiap orang atau penanggung jawab usaha dan/atau kegiatan yang\nmenimbulkan kerugian bagi pihak lain, akibat terjadinya pencemaran\nudara wajib membayar ganti rugi terhadap pihak yang dirugikan."
+   }
+  },
+  {
+   "id": "ID-H1113-A55",
+   "no": 55,
+   "noLabel": {
+    "id": "Pasal 55"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 55\nTata cara perhitungan biaya, penagihan dan pembayaran ganti rugi\nsebagaimana dimaksud dalam Pasal 54 ayat (2) ditetapkan lebih lanjut\noleh Menteri.\nBAB VII\nSANKSI"
+   }
+  },
+  {
+   "id": "ID-H1113-A56",
+   "no": 56,
+   "noLabel": {
+    "id": "Pasal 56"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 56\n(1) Barangsiapa melanggar ketentuan dalam Pasal 21, Pasal 22 ayat (1),\nPasal 23, Pa sal 24 ayat (1), Pasal 25 ayat (1), Pasal 30, Pasal 39,\nPasal 47 ayat (2), Pasal 48, dan Pasal 50 ayat (1) Peraturan\nPemerintah ini yang diduga dapat menimbulkan dan/atau\nmengakibatkan pencemaran udara dan/atau ganggugan diancam\ndengan pidana sebagaimana d iatur dalam Pasal 41, Pasal 42, Pasal\n43, Pasal 44, Pasal 45, Pasal 46 dan Pasal 47 Undang -undang Nomor\n23 Tahun 1997 tentang Pengolahan Lingkunga Hidup.\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Barangsiapa melanggar ketentuan dalam Pasal 33 yang berkaitan\ndengan kendaraan bermotor lama, Pa sal 36 ayat (1), Pasal 40 yang\nberkaitan dengan kendaraan bermotor lama, dan Pasal 43 ayat (1)\nPeraturan Pemerintah ini yang tidak memenuhi pesyaratan ambang\nbatas emisi gas buang, atau ambang batas kebisingan diancam\ndengan pidana sebagaimana diatur dalam Pasal 67 Undang -undang\nNomor 14 tahun 1992 tentang Lalu Lintas dan Angkutan Jalan.\nBAB VIII\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H1113-A57",
+   "no": 57,
+   "noLabel": {
+    "id": "Pasal 57"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 57\nSelambat-lambatnya 2 (dua) tahun sejak diundangkannya Peraturan\nPemerintah ini setiap usaha dan/atau kegiatan yang telah memiliki izin,\nwajib menyesuaikan menurut persyaratan berdasarkan Peraturan\nPemerintah ini.\nBAB IX\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H1113-A58",
+   "no": 58,
+   "noLabel": {
+    "id": "Pasal 58"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 58\nPada saat berlakunya Peraturan Pemerintah ini semua peraturan\nperundang-undangan tentang pengendalian pencemaran udara yang telah\ntetap Berlaku sepanjang tidak bertentangan dengan dan belum diganti\nberdasarkan Peraturan Pemerintah ini.\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H1113-A59",
+   "no": 59,
+   "noLabel": {
+    "id": "Pasal 59"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 59\nPeraturan Pemerintah Ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahui, memerintahkan pengundangan Peraturan\nPemerintah ini dengan penempatannya dalam Lembaran Republik\nIndonesia.\nDitetapkan di Jakarta\npada tanggal 26 Mei 1999\nPRESIDEN REPUBLIK INDONESIA\nttd\nBACHARUDDIN JUSUF HABIBIE\nDiundangakan di Jakarta\npada tanggal 26 Mei 1999\nMENTERI NEGARA SEKRETARIS NEGARA\nREPUBLIK INDONESIA\nttd.\nPROF. DR. H. MULADI, S.H.\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1999 NOMOR 86\nPRESIDEN\nREPUBLIK INDONESIA\nLAMPIRAN\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nNOMOR : 41 TAHUN 1999\nTANGGAL : 26 MEI 1999\nBAKU MUTU UDARA AMBIEN NASIONAL\nNo . Parameter WaktuPengukuran Baku Mutu MetodeAnalisis Peralatan\n1. SO2\n(Sulfur Dioksida)\n1 Jam\n24 Jam\n1 Thn\n900 ug/Nm3\n365 ug/Nm3\n60 ug/Nm3\nPararosanilin Spektrofotometer\n2. CO\n(Karbon\nMonoksida)\n1 Jam\n24 Jam\n1 Thn\n30.000 ug/Nm3\n10.000 ug/Nm3\n-\nNDIR NDIR Analyzer\n3. NO2\n(Nitrogen\nDioksida)\n1 Jam\n24 Jam\n1 Thn\n400 ug/Nm3\n150 ug/Nm3\n100 ug/Nm3\nSaltzman Spektrofotometer\n4. O3\n(Oksidan)\n1 Jam\n1 Thn\n235 ug/Nm3\n50 ug/Nm3\nChemiluminescent Spektrofotometer\n5. HC\n(Hidro Karbon)\n3 Jam 160 ug/Nm3 Flame lonization Gas Chromatogarfi\n6. PM10 (*)\n(Partikel<10 um)\n24 Jam 150 ug/Nm3 Gravimetric Hi – Vol\nPM2,5 (*)\n(Partikel<2,5um)\n24 Jam\n1 Thn\n65 ug/Nm3\n15 ug/Nm3\nGravimetric\nGravimetric\nHi – Vol\nHi – Vol\n7. TSP\n(Debu)\n24 Jam\n1 Thn\n230 ug/Nm3\n90 ug/Nm3\nGravimetric Hi – Vol\n8. Pb\n(Timah Hitam)\n24 Jam\n1 Thn\n2 ug/Nm3\n1 ug/Nm3\nGravimetric\nEkstraktif\nPengabuan\nHi – Vol\nAAS\n9 . Dustfall\n(Debu Jatuh)\n30 hari 10 Ton/km2/Bulan\n(Pemukiman)\n20 Ton/km2/Bulan\n(Industri)\nGravimetric Cannister\nCatatan : (*) PM2,5 mulai diberlakukan tahun 2002\nPRESIDEN\nREPUBLIK INDONESIA\nNo . Parameter WaktuPengukuran Baku Mutu MetodeAnalisis Peralatan\n10 . Total Fluorides\n(asF)\n24 Jam\n90 hari\n3 ug/Nm3\n0,5 ug/Nm3\nSpesific Ion\nElectrode\nImpinger atau\nCountinous\nAnalyzer\n11. Fluor Indeks 30 hari 40 ug/100 cm3\ndari kertas limed\nfilter\nColourimet ric Limed Filter Paper\n12. Khlorine &\nKhlorine Dioksida\n24 Jam 150 ug/Nm3 Spesific Ion\nElectrode\nImpinger atau\nCountinous\nAnalyzer\n13. Suphat Indeks 30 hari 1 mg SO3/100 cm3\nDari Lead\nPeroksida\nColourimet ric Lead\nParoxida Candle\nCatatan :\nNomor 10 s/d 13 Hanya diberlakukan untuk daerah/kawasan Industri Kimia Dasar\nContoh : - Industri Petro Kimia\n- Industri Pembuatan Asam Sulfat\nPRESIDEN REPUBLIK INDONESIA\nttd.\nBACHRADDIN JUSUF HABIBIE\nSalinan sesuai dengan aslinya\nSEKRETARIAT KABINET RI\nKepala Biro Peraturan\nPerundang-undangan I\nttd\nLambock V. Nahattands\nPRESIDEN\nREPUBLIK INDONESIA\nPENJELASAN\nATAS\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nNOMOR 41 TAHUN 1999\nTENTANG\nPENGENDALIAN PENCEMARAN UDARA\nUMUM\nUdara mempunyai arti yang sangat penting di dalam kehidupan makhluk hidup dan\nkeberadaan benda -benda lainnya. Sehingga udara merupakan sumber daya alam yang\nharus dilindungi untuk hidup dan kehidupan manusia dan makhluk hidup lainnya. Hal ini\nberarti bahwa pemanfaatannya harus dilakukan secara bijaksana dengan\nmemperhitungkan kepentingan generasi sekarang dan yang akan datang. Untuk\nmendapatkan udara sesuai dengan tingkat kualitas yang diinginkan maka pengendalian\npencemaran udara menjadi sangat penting untuk dilakukan.\nPencemaran udara diartikan dengan turunnya kualitas udara sehingga u dara mengalami\npenurunan mutu dalam penggunaannya yang akhirnya tidak dapat digunakan lagi\nsebagaimana mestinya sesuai dengan fungsinya. Dalam pencemaran udara selalu terkait\ndengan sumber yang menghasikan pencemaran udara yaitu sumber yang bergerak\n(umumnya kendaraan bermotor) dan sumber yang tidak bergerak (umumnya kegiatan\nindustri) sedangkan pengendalian selalu terkait dengan serangkaian kegiatan\npengendalian yang bermuara dari batasan baku mutu udara. Dengan adanya tolok ukur\nbaku mutu udara akan dapat dilakukan penyusunan dan penetapan kegiatan pengendalian\npencemaran udara. Penjabaran kegiatan pengendalian pencemaran udara nasional\nmerupakan arahan dan pedoman yang sangat penting untuk pengendalian pencemaran\nudara di daerah. Disamping sumber bergerak dan sumber tidak bergerak seperti tersebut\ndi atas, terdapat emisi yang spesifik yang penanganan upaya pengendalian masih belum\nada acuan baik di tingkat nasional maupun internasional. Sumber emisi ini adalah pesawat\nterbang, kapal laut, kereta api, dan k endaraan berat spesifik lainnya. Maka penggunaan\nsumber-sumber emisi spesifik tersebut di atas harus tetap mempertimbangkan\nkaidah-kaidah pengelolaan lingkung hidup.\nPRESIDEN\nREPUBLIK INDONESIA\nMengacu kepada Undang -undang Pengelolaan Lingkungan Hidup ditetapkan bahwa\nsasaran pengel olaan lingkungan hidup adalah tercapainya keselarasan, keserasian dan\nkeseimbangan antara manusia dan lingkungan hidup dengan mempertimbangkan generasi\nkini dan yang akan datang serta terkendalinya pemanfaatan sumber daya alam secara\nbijaksana. Pengendalia n pencemaran udara mengacu kepada sasaran tersebut sehingga\npola kegiatannya terarah dengan tetap mempertimbangkan hak dan kewajiban serta peran\nserta masyarakat.\nSelanjutnya ditegaskan pula bahwa hak setiap anggota masyarakat atas lingkungan hidup\nyang baik dan sehat yan gdiikuti dengan kewajiban untuk memelihara dan melestarikan\nfungsi lingkungan hidup. Sehingga setiap orang mempunyai peran yang jelas di dalam\nhak dan kewajibannya mengelola lingkungan hidup. Dalam peraturan pemerintah ini juga\ndiatur hak dan kewajiban setiap anggota masyarakat serta setiap pelaku usaha dan/atau\nkegiatan agar dalam setiap langkah kegiatannya tetap menjaga dan memelihara\nkelestarian fungsi lingkungan hidup.\nPengedalian pencemaran udara mencakup kegiatan-kegiatan yang berintikan :\na. inventarisasi kualitas udara daerah dengan mempertimbangkan berbagai kriteria yang\nada dalam pengendalian pencemaran udara;\nb. penetapan baku mutu udara ambien dan baku mutu emisi yang digunakan sebagai\ntolok ukur pengendalian pencemaran udara;\nc. penetapan mutu kualitas udara di suatu daerah termasuk perencanaan pengalokasian\nkegiatan yang berdampak mencemari udara;\nd. pemantaun kualitas udara baik ambien dan emisi yang diikuti dengan evaluasi dan\nanalisis;\ne. pengawasan terhadap penaatan peraturan pengendalian pencemaran udara;\nf. peran masyarakat dalam kepedulian terhadap pengendalian pencemaran udara;\ng. kebijaksan bahan bakar yang diikuti dengan serangkaian kegiatan terpadu dengan\nmengacu kepada bahan bakar bersih dan ramah lingkungan;\nh. penetapan kebijaksan dasar baik teknis maupun non teknis dalam pengendallian\npencemaran udara secara nasional.\nPRESIDEN\nREPUBLIK INDONESIA\nPASAL DEMI PASAL\nPasal 1\nAngka 1\nCukup jelas\nAngka 2\nCukup jelas\nAngka 3\nCukup jelas\nAngka 4\nCukup jelas\nAngka 5\nCukup jelas\nAngka 6\nCukup jelas\nAngka 7\nCukup jelas\nAngka 8\nYang dimaksud dengan udara ambien dapat memenuhi fungsi sebagaimana\nmestinya adalah udara ambien di luar lingkungan kerja yang sehat dan bersih\nyang aman untuk kesehatan dan keselamatan manusia dan makhluk hidup\nlainnya.\nAngka 9\nCukup jelas\nAngka 10\nCukup jelas\nAngka 11\nCukup jelas\nAngka 12\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nAngka 13\nCukup jelas\nAngka 14\nCukup jelas\nAngka 15\nCukup jelas\nAngka 16\nCukup jelas\nAngka 17\nCukup jelas\nAngka 18\nYang dimaksud dengan menggunaka n suatu media udara atau padat untuk\npenyebarannya adalah :\na. melalui media (perantara) udara untuk sumber gangguan kebisingan dan\nkebauan;\nb. melalui media (perantara) padatan untuk sumber gangguan getaran.\nAngka 19\nCukup jelas\nAngka 20\nCukup jelas\nAngka 21\nCukup jelas\nAngka 22\nYang dimaksud dengan diproduksi ulang adalah kegiatan rancang bangun\nkendaraan bermotor untuk menghasilkan kendaraan bermotor tipe baru yang\nmenyebabkan berubahnya kondisi mesin baik dari dimensi, transmisi daya\nmaupun teknologi pembakarannya. Sehingga pada akhirnya dapat mengubah\nemisi gas buang yang dihasilkannya.\nAngka 23\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nAngka 24\nCukup jelas\nAngka 25\nCukup jelas\nAngka 26\nCukup jelas\nAngka 27\nCukup jelas\nAngka 28\nCukup jelas\nAngka 29\nCukup jelas\nAngka 30\nCukup jelas\nPasal 2\nSehubungan dengan adanya keterbatasan teknis dalam penyusunan dan\npelaksanaan di lapangan, maka untuk saat ini pengendalian pencemaran udara dari\nsumber bergerak spesifik dan sumber tidak bergerak sepesifik belum diatur lebih\nlanjut dalam peraturan pemerintah ini.\nPasal 3\nCukup jelas\nPasal 4\nAyat (1)\nBaku mutu udara embien nasional ditetapkan sebagai batas maksimum kualitas\nudara ambien nasional yang diperbolehkan untuk di semua kawasan di seluruh\nIndonesia. Sehingga arah dan tujuan dari penetapan baku mutu ini adalah untuk\nmencegah pencemaran udara dalam rangka pengendalian pencemaran udara\nnasional.\nPRESIDEN\nREPUBLIK INDONESIA\nDalam penetapan baku mutu udara ambien nasional dilibatkan unsur -unsur\ninstansi terkait dan mempertimbangkan standar-standar internasional.\nAyat (2)\nPertimbangan peninjauan baku mutu udara ambien nasional paling cepat\nsetelah 5 (lima) tahun adalah untuk memberikan jaminan kepastian hukum\nkepada para investor.\nPasal 5\nAyat (1)\nStatus mutu udara ambien daerah adalah mutu udara ambien yang\nmenggambarkan keadaan kualitas udara ambien di suatu lokasi pada waktu\ntertentu. Langkah untuk penetapan status mutu udara ambien daerah adalah\ndengan mempertimbangkan kondisi -kondisi teknis tertentu saat dilakukannya\npengambilan sampel udara ambien. Dalam penetapan status mutu udara ambien\ndaerah terdapat beberapa kegiatan pokok yang harus diperhatikan, diantaranya :\na. Inventarisasi data -data Indeks Standar Pencemar Udara atau data -data\nkualitas udara ambien daerah;\nIndeks Sta ndar Pencemar Udara (ISPU) merupakan angka yang\nmenggambarkan kualitas udara ambien di suatu area pada waktu tertentu\ndengan peralatan pemantau kualitas udara secara kontinyu dan otomatis.\nDengan analisis data ini (bulanan dan tahunan) akan diketahui\nkecenderungan tentang kualitas udara di daerah yang bersangkutan.\nSedangkan data -data kualitas udara ambien diperoleh dari pengambilan\nsampel secara manual.\nb. Inventarisasi sumber-sumber pencemar dan potensi emisinya;\nPada dasarnya pencemaran yang terj adi ditimbulkan oleh berbagai\naktivitas. Aktivitas utama yang sangat berpengaruh bagi timbulnya\npencemaran adalah industri, transportasi, rumah tangga, pembakaran\nbuangan padat (sampah), pembukaan lahan -lahan lain -lain. Potensi\nmasing-masing sumber dalam mengemisikan pencemar perlu diketahui agar\nPRESIDEN\nREPUBLIK INDONESIA\ndapat dihitung besarnya emisi yang timbul serta kontribusi yang diberikan\noleh masing-masing aktivitas di setiap kota.\nc. Inventarisasi kondisi atmosfir di daerah;\nKondisi ini meliputi meteorologi dan topograf i dari daerah yang\nbersangkutan. Meteorologi memungkinkan terjadinya berbagai pergerakan\ndan reaksi polutan di atmosfer. Sedangkan topografi berpengaruh terhadap\nsifat penyebaran pencemar. Sehingga secara tidak langsung hal ini akan\nmempengaruhi dalam penentuan status mutu udara ambien.\nAyat (2)\nBaku mutu udara ambien daerah ditetapkan sebagai batas maksimum kualitas\nudara ambien daerah yang diperbolehkan dan berlaku diseluruh wilayah udara\ndiatas batas administratif daerah.\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nAyat (5)\nCukup jelas\nAyat (6)\nCukup jelas\nPasal 6\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 7\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 8\nAyat (1)\nCukup jelas\nAyat (2)\nParameter dominan dan kritis adalah parameter yang konsentrasinya relatif\ntinggi dibandingkan dengan parameter lain yang dikeluarkan dari cerobong\nindustri atau pipa gas buang kendaraan bermotor.\nSelanjutnya, kualitas bahan bakar yang dimaksudkan a dalah kadar parameter\ntertentu yang dalam proses pembakarannya akan mempengaruhi mutu emisi\nyang dikeluarkan.\nAyat (3)\nCukup jelas\nPasal 9\nAyat (1)\nPengkajian baku mutu emisi untuk kendaraan bermotor tipe baru akan\ndiperketat sesuai dengan kemampuan teknologi kendaraan bermotor yang\ntersedia saat ini, pilihan -pilihan teknologi pengendalian emisi gas buang\nkendaraan bermotor yang akan datang seperti penggunaan catalitic converter\n(suatu peralatan yang dapat mereduksi kadar polutan gas buang kendaraan\nbermotor sampai dengan 90%) serta penggunaan bahan bakar khususnya solar\ndengan kadar belerang (S) yang rendah serta bensin bebas Timah Hitam (Pb)\natau timbal.\nPRESIDEN\nREPUBLIK INDONESIA\nPengkajian baku mutu emisi untuk kendaraan bermotor lama akan\nsemakin diperketat setiap 5 (lim a) tahun disesuaikan dengan umur kendaraan\nbermotor. Hal ini untuk mengantisipasi penggunaan bensin bebas timbal di era\nperdagangan bebas dan ekspor ke negara -negara lain yang telah menggunakan\nbensin bebas timbal.\nAyat (2)\nCukup jelas.\nPasal 10\nAyat (1)\nCukup jelas\nAyat (2)\nHuruf a\nCukup jelas\nHuruf b\nCukup jelas\nHuruf c\nCukup jelas\nHuruf d\nBaku tingkat gangguan lainnya adalah baku tingkat gangguan\nelektromagnetik.\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nAyat (5)\nCukup jelas\nPasal 11\nAyat (1)\nPRESIDEN\nREPUBLIK INDONESIA\nBaku tingkat gangguan untuk sumber tidak bergerak akan dikaji sesuai dengan\nperkembangan teknologi pengendalian kebisingan, kebauan, dan getaran untuk\nsaat ini dan masa mendatang.\nAyat (2)\nukup jelas\nPasal 12\nAyat (2)\nIndeks Standar Pencemar Udara adalah indeks atau angka yang sudah baku\nyang diambil dari negara-negara maju.\nPenetapan pertimbangan tingkat mutu udara terhadap kesehatan manusia,\nhewan, tumbuh-tumbuhan, bangunan dan nilai estetika adalah sudah baku yang\ndiambil dari negara-negara maju.\nPasal 13\nCukup jelas\nPasal 14\nAyat (1)\nData Indeks Standar Pencemar Udara (ISPU) diperoleh dari statisun pemantau\nkualitas udara ambien secara otomatis sehingga dapat diperoleh :\na. data harian;\nb. data yang teal time (waktu nyata);\nc. data yang kontinyu dari waktu ke waktu.\nKetiga data di atas adalah data yang dipersyaratkan dalam pemakaian\nsistem Indeks Standar Pencemar Udara (ISPU).\nAyat (2)\nCukup jelas\nPasal 15\nPengumuman Indkes Standar Pencemar Udara (IS PU) dilakukan setiap hari secara\nPRESIDEN\nREPUBLIK INDONESIA\nnasional oleh Instansi yang bertanggung jawab. Sedangkan untuk wilayah tingkat\nII dilakukan oleh Bupati/Walikotamadya yang bersangkutan. Pengumuman ini\ndapat dilakukan melalui media cetak (surat kabar) dan/atau elektronik ( misalnya\ntelevisi, radio, dan internet).\nPasal 16\nPengendalian pencemaran udara yang unsur -unsurnya terdiri dari pencegahan,\npenanggulangan dan pemulihan kualitas udara berpijak pada 2 (dua) kegiatan\npokok yaitu penaatan baku mutu dan pemantauan mutu udar a baik emisi maupun\nambien. Sedangkan kegiatan penanggulangan dan pemulihan pada umumnya\ndilakukan setelah kedua kegiatan pokok di atas dilaksanakan.\nPasal 17\nAyat (1)\nKebijaksanaan teknis pengendalian pencemaran udara secara nasional berisikan\nkebijaksanaan tentang\na. penetapan dan pelaksanaan program kerja nasional di bidang pengendalian\npencemaran udara;\nb. pembinaan teknis di bidang pengendalian pencemaran udara kepada\nPemerintah Daerah;\nc. evaluasi terhadap pelaksanaan program kerja pengendali an pencemaran\nudara di daerah.\nPasal 18\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 19\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 20\nHuruf a\nCukup jelas\nHuruf b\nPenetapan kebijaksanaan dalam rangka pencegahan pencemaran udara,\nmisalnya penggunaan bahan bakar bersih, peningkatan peran masyarakat,\npenetapan pola pemasyarakatan program dan penetapan kebijaksanaan yang\nlain yang strategis.\nPasal 21\nHuruf a\nMenaati baku mutu (udara ambien, emisi dan gangguan) ber arti di bawah baku\nmutu untuk parameter -parameter tertentu dengan melihat jenis dan kondisi\nkegiatan.\nHuruf b\nCukup jelas\nHuruf c\nukup jelas\nPasal 22\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 23\nCukup jelas\nPasal 24\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nPasal 25\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 26\nAyat (1)\nAngka 300 merupakan suatu angka yang diperoleh dari penelitian yang telah\ndilakukan oleh berbagai lembaga penelitian internasional y ang menyatakan\nbahwa angka 300 berbahaya bagi kesehatan manusia, hewan, dan tumbuhan.\nAyat (2)\nPengumuman keadaan darurat kepada masyarakat dapat dilakukan melalui\nmedia cetak surat kabar) dan/atau media elektronik (misalnya televisi, radio,\ndan internet)\nPasal 27\nCukup jelas\nPasal 28\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 29\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 30\nAyat (1)\nCukup jelas\nAyat (2)\nYang dimaksud dengan persyaratan teknis adalah persyaratan pendukung\ndalam kaitannya dengan penaatan baku mutu e misi, ambien dan kebisingan.\nContohnya : persyaratan lubang sampling di cerobong asap, persyaratan titik\nsampling untuk udara ambien, persyaratan pelaporan dan persyaratan teknis\nlainnya.\nPasal 31\nKebijaksanaan dasar penanggulangan pencemaran udara untuk sumber bergerak\ndapat dilakukan dengan cara penggunaan bahan bakar bebas timbal dan kadar\nbelerang rendah untuk kendaraan bermotor baru dan lama, penggunaan catalitic\nconverter (peralatan yang dapat mereduksi polutan gas buang kendaraan bermotor\nsampai den gan 90 %), dan meningkatkan penggunaan bahan bakar gas serta\nmeningkatkan partisipasi swasta dan masyarakat untuk merawat kendaraan\nbermotor sehingga emisi gas buang menjadi rendah.\nPasal 32\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 33\nCukup jelas\nPasal 34\nAyat (1)\nUji tipe emisi terhadap kendaraan bermotor tipe baru dilakukan dengan cara\nsampling. Artinya, tidak setiap kendaraanbermotor tipe baru dilakukan uji tipe\nemisi melainkan untuk tiap sejumlah produk akan diambil satu sampel.\nSelanjutnya, pengujian kendaraan bermotor tipe baru dilakukan dengan alat\nChasis Dynamometer dengan suatu standar mode yang berbeda -beda untuk\nsetiap jenis dan berat kendaraan bermotor. Pengujian ini dilakukan oleh orang\nyang memiliki keahlian khusus untuk pengujian mode (Type approval).\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nPasal 35\nAyat (1)\nCukup jelas\nAyat (2)\nHasil uji tipe emisi gas buang kendaraan bermotor tipe baru diumumkan\nkepada masyarakat melalui media diantaranya, me dia cetak (surat kabar)\ndan/atau media elektronik (misalnya televisi, radio, dan internet).\nAyat (2)\nPedoman teknis dan tata cara hasil uji tipe emisi akan memuat hasil uji tipe\nemisi gas buang kendaraan bermotor sesuai dengan baku mutu emisinya,\nmetode pengujian yang digunakan dan mekanisme pengujiannya.\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 36\nAyat (1)\nBerbeda dengan kendaraan bermotor tipe baru, setiap kendaraan bermotor lama\nwajib menjalani uji emisi berkala. Uji emisi berkala terhadap kendaraan\nbermotor lama dapat dilakukan denga n dua cara, yaitu pertama, untuk\nkendaraan bermotor berbahan bakar bensin dilakkan pada kondisi mesin hidup\ndengan perseneling dalam keadaan netral (kondisi idle). Kedua, untuk\nkendaraan bermotor berbahan solar dilakukan pada kondisi percepatan bebas,\nyaitu kondisi mesin hidup dengan gas ditekan pada percepatan penuh.\nAyat (2)\nCukup jelas\nPasal 37\nCukup jelas\nPasal 38\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 39\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 40\nCukup jelas\nPasal 41\nAyat (1)\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nPasal 42\nAyat (1)\nCukup jelas\nAyat (2)\nHasil pengujian tipe kebisingan kendaraan bermotor tipe baru diumumkan\nkepada masyarakat melalui media diantaranya, media cetak (surat kabar)\ndan/atau media elektronik (misalnya televisi, radio, dan internet).\nAyat (3)\nCukup jelas\nPasal 43\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 44\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 45\nAyat (1)\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (2)\nCukup jelas\nPasal 46\nCukup jelas\nPasal 47\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nPasal 48\nCukup jelas\nPasal 49\nCukup jelas\nPasal 50\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 51\nAyat (1)\nPemantauan terhadap mut u udara ambien yang dilakukan oleh masyarakat\ndilakukan di luar area kegiatan.\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nPasal 52\nCukup jelas\nPasal 53\nCukup jelas\nPasal 54\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 55\nCukup jelas\nPasal 56\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 57\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 58\nCukup jelas\nPasal 59\nCukup jelas\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 3853"
+   }
+  }
+ ]
+}

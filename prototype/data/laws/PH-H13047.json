@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13047",
+ "title": {
+  "zh": null,
+  "en": "An Act Providing for the Transfer of Certain Property of the Committee Appointed to study the Causes of the Excessive Infant Mortality in the Philippines to the College of Medicine and Surgery of the University of the Philippines.",
+  "orig": "An Act Providing for the Transfer of Certain Property of the Committee Appointed to study the Causes of the Excessive Infant Mortality in the Philippines to the College of Medicine and Surgery of the University of the Philippines."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1914-02-28",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2343",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 352,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1914/act_2343_1914.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02343_1914_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02343_1914_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13047-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "All furniture and other property belonging to the committee to study the causes of the excessive\ninfant mortality in the Philippine Islands are hereby transferred to the College of Medicine and Surgery of the\nUniversity of the Philippines, without payment of any sort by the latter."
+   }
+  },
+  {
+   "id": "PH-H13047-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, February 28, 1914."
+   }
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "id": "PH-H14346",
+ "title": {
+  "zh": null,
+  "en": "An Act to Appropriate the Sum of Forty-Five thousand Pesos for the Maintenance and Operation of Dredges Used in Connection With the Improvement of the Port of Manila, and for Other Purposes.",
+  "orig": "An Act to Appropriate the Sum of Forty-Five thousand Pesos for the Maintenance and Operation of Dredges Used in Connection With the Improvement of the Port of Manila, and for Other Purposes."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1930-11-20",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3714",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 417,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1930/act_3714_1930.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03714_1930_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03714_1930_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14346-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "There is hereby appropriated out of any funds in the Insular Treasury not otherwise appropriated,\nthe sum of forty-five thousand pesos which shall be used for the maintenance and operation of dredges used in\nconnection with the improvement of the Port of Manila, under the control and supervision of the Secretary of\nCommerce and Communications."
+   }
+  },
+  {
+   "id": "PH-H14346-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, November 20, 1930."
+   }
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "id": "PH-H19729",
+ "title": {
+  "zh": null,
+  "en": "Delineating Jurisdictions Over Waterworks Systems",
+  "orig": "Delineating Jurisdictions Over Waterworks Systems"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p158",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1972-03-14",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Executive Order No. 385",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 1,
+ "chars": 730,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/07_行政命令_EO/EO_00385_1972_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 1 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 EO_00385_1972_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H19729-A1",
+   "no": 1,
+   "noLabel": {},
+   "text": {
+    "en": "EXECUTIVE ORDER NO. 385 March 14, 1972\nDELINEATING JURISDICTIONS OVER WATERWORKS SYSTEMS\nBy virtue of the powers vested in me by law, I, FERDINAND E. MARCOS, President of the Philippines, do\nhereby order:\nThe Metropolitan Waterworks and Sewerage Systems (MWSS) shall continue to administer waterworks\nsystems in the metropolitan and other areas as enumerated in Section 2 (c) of Republic Act No. 6234, creating\nthe MWSS, and such other systems still under it pursuant to the same law.\nAll other waterworks systems, including artesian wells, shall be under the jurisdiction and supervision of the\nBureau of Public Works.\nDone in the City of Manila, this 14th day of March, in the year of Our Lord, nineteen hundred and\nseventy-two."
+   }
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "id": "PH-H15992",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Section Twenty-Two of Act Numbered Twenty-One Hundred and Fifty-Two.",
+  "orig": "An Act to Amend Section Twenty-Two of Act Numbered Twenty-One Hundred and Fifty-Two."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1938-06-03",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 275",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 2189,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00275_1938_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00275_1938_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H15992-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section twenty-two of Act Numbered Twenty-one hundred and fifty-two is amended so as to\nread as follows:\n\"Section 22. The appropriator of water for power purposes for a small development shall pay to the\nCommonwealth of the Philippines an annual rental of twenty-five centavos Philippine currency per\nhorsepower for the first ten years, beginning on the first day of January after the plant is ready for operation.\nAfter this period, the rental shall become one peso Philippine currency per horsepower per year.\n\"The development of less than thirty horsepower shall be exempt from the rental provided in this section.\n\"The appropriator of water for power purposes for a large development shall pay to the Commonwealth of the\nPhilippines an annual rental of fifty centavos per horse power for the first ten years, beginning on the first day\nof January after the plant is ready for operation. At the end of the first ten years and of each ten-year period\nthereafter the Secretary of Public Works and Communications shall determine the rate of rental which shall be\ncharged for the succeeding ten years: Provided, That in no case shall the rental rate be less than one peso nor\nmore than two pesos per horsepower per year.\n\"The amount of power upon which rental shall be charged shall be determined from the name plate rating\nreduced to horsepower for each waterwheel installed, as given in the manufacturer's specifications or\ncertification which for the purpose of records of the Director of Public Works shall be furnished by the\napplicant before the first day of January after the plant is ready for operation: Provided, however, That in the\nabsence of such data on the waterwheel, the rating on each of the generators installed should prevail and the\ncomputation of the amount of power developed, in either case, should be as follows: KV.A. X 1.2 =\nHorsepower. (KV.A. = kilovolt ampere); And provided, further, That in the absence of either such data, the\nDirector of Public Works shall conduct the necessary and measurements to determine the maximum output, in\nhorsepower, of the waterwheels installed for the plant.”"
+   }
+  },
+  {
+   "id": "PH-H15992-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, June 3, 1938."
+   }
+  }
+ ]
+}

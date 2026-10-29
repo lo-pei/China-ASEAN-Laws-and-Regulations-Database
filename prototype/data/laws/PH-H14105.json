@@ -1,0 +1,62 @@
+{
+ "id": "PH-H14105",
+ "title": {
+  "zh": null,
+  "en": "An Act Amending Section Twelve Hundred and Eighteen of Act Numbered Twenty-Seven Hundred and Eleven, Known as the Administrative Code, Relative to Vessels Eligible for Bay and River License.",
+  "orig": "An Act Amending Section Twelve Hundred and Eighteen of Act Numbered Twenty-Seven Hundred and Eleven, Known as the Administrative Code, Relative to Vessels Eligible for Bay and River License."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1928-12-07",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3472",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1211,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1928/act_3472_1928.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03472_1928_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03472_1928_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14105-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section twelve hundred and eighteen of Act Numbered Twenty-seven hundred and eleven,\nknown as the Administrative Code, is hereby amended to read as follows:\n\"Section 1218. Vessels eligible for bay and river license.- To be eligible for the bay and river license, a vessel\nmust be built in the Philippine Islands or in the United States, and the ownership of such vessel must be vested\nin some one or more of the following classes of persons: (a) Citizens of the United States; (b) Citizens or\nresidents of the Philippine Islands; (c) Domestic corporations or companies; (d) Foreign corporations or\ncompanies lawfully engaged in business in the Philippine Islands.\nVessels actually engaged in the bay and river business in any port of the Philippine Islands on the\ntwenty-ninth day of April nineteen hundred and eight, may be licensed in the future for the same business,\nregardless of ownership or place of construction, subject in other respect to the same regulations and\nconditions as other vessels: Provided, however, That vessels of one hundred fifty gross tons or over may be\nlicensed regardless of the place of their construction.\""
+   }
+  },
+  {
+   "id": "PH-H14105-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, December 7, 1928."
+   }
+  }
+ ]
+}

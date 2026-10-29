@@ -1,0 +1,62 @@
+{
+ "id": "PH-H12857",
+ "title": {
+  "zh": null,
+  "en": "An Act Amending Section three of Act Numbered Seventeen Hundred and thirty-three, Entitled \"An Act to Provide Fire Protection in Municipalities Having No Paid Fire Department.",
+  "orig": "An Act Amending Section three of Act Numbered Seventeen Hundred and thirty-three, Entitled \"An Act to Provide Fire Protection in Municipalities Having No Paid Fire Department."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1912-02-06",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2151",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 906,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1912/act_2151_1912.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02151_1912_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02151_1912_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12857-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The first sentence of section three of Act Numbered Seventeen hundred and thirty-three,\nbeginning with the words \"The municipal council\" and ending with the words \"by the municipality\" is hereby\namended by substituting in lieu thereof the following:\n\"Section 3. The municipal council may provide for the enrollment and training of auxiliary volunteer firemen\namong the able-bodied male residents of the municipality, in a number not to exceed that of the police of the\nmunicipality, who shall be entitled to the privilege granted by this section, and where the number of the police\nis less than ten, a number of volunteer firemen not to exceed ten may be appointed.\""
+   }
+  },
+  {
+   "id": "PH-H12857-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The public good requiring the speedy enactment of this bill, the same shall take effect on its\npassage, in accordance with section one of Act Numbered Nineteen hundred and forty-five of the Philippine\nLegislature.\nEnacted, February 6, 1912."
+   }
+  }
+ ]
+}

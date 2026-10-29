@@ -1,0 +1,72 @@
+{
+ "id": "PH-H12699",
+ "title": {
+  "zh": null,
+  "en": "An Act Appropriating the Sum of Fifty thousand Pesos for the Relief of Sufferers From Public Calamities.",
+  "orig": "An Act Appropriating the Sum of Fifty thousand Pesos for the Relief of Sufferers From Public Calamities."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1910-04-19",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 1991",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 693,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1910/act_1991_1910.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_01991_1910_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_01991_1910_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12699-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The sum of fifty thousand pesos is hereby appropriated, out of any funds in the Insular Treasury\nnot otherwise appropriated, for the purposes set forth in Act Numbered Eighteen hundred and nine of the\nPhilippine Legislature and its amendments."
+   }
+  },
+  {
+   "id": "PH-H12699-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The said sum of fifty thousand pesos shall be available until totally expended, and shall be\ndisbursed in accordance with the provisions of the aforesaid Act Numbered Eighteen hundred and nine and its\namendments."
+   }
+  },
+  {
+   "id": "PH-H12699-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "The public good requiring the speedy enactment of this bill, the same shall take effect on its\npassage, in accordance with section one of Act Numbered Nineteen hundred and forty-five of the Philippine\nLegislature.\nEnacted, April 19, 1910."
+   }
+  }
+ ]
+}

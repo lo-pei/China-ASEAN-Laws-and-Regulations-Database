@@ -1,0 +1,72 @@
+{
+ "id": "PH-H12967",
+ "title": {
+  "zh": null,
+  "en": "An Act Making An Appropriation for Certain Expenses of a Commission Committee and An Assembly Committee to Go to the United states.",
+  "orig": "An Act Making An Appropriation for Certain Expenses of a Commission Committee and An Assembly Committee to Go to the United states."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1913-02-11",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2263",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1079,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1913/act_2263_1913.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02263_1913_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02263_1913_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12967-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The sum of sixty thousand pesos, or so much thereof as may be necessary, is hereby\nappropriated, out of any funds in the Insular Treasury not otherwise appropriated, to defray the expenses\nincidental to the performance of the duties of a Commission Committee or an Assembly Committee, or both,\nin going to Washington, at the request of the President of the United States. The Commission committee shall\nconsist of two members to be appointed by the President of said Commission. The Assembly committee shall\nconsist of not more than seven members, to be appointed by the Speaker of said Assembly. The appropriation\nhereby authorized shall be available for the payment of all expenses of the committees here authorized which\nthe chairman of either of said committees shall certify as necessarily incidental to the performance of the\nduties imposed."
+   }
+  },
+  {
+   "id": "PH-H12967-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Any balance of the appropriations made by this Act remaining unexpended on January first,\nnineteen hundred and fifteen, shall be returned to the Insular Treasury."
+   }
+  },
+  {
+   "id": "PH-H12967-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, February 11, 1913."
+   }
+  }
+ ]
+}

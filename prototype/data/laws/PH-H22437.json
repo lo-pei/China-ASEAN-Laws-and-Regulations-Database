@@ -1,0 +1,72 @@
+{
+ "id": "PH-H22437",
+ "title": {
+  "zh": null,
+  "en": "Granting of Cash Reward to Persons Instrumental in the Discovery and Seizure of Foreign Currencies Being Smuggled Out of the Country",
+  "orig": "Granting of Cash Reward to Persons Instrumental in the Discovery and Seizure of Foreign Currencies Being Smuggled Out of the Country"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1976-11-30",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 1056",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 595,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_01056_1976_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_01056_1976_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22437-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "That persons not in the government or the Armed Forces of the Philippines giving information\nleading to the discovery and seizure of convertible foreign currencies being smuggled out of the country shall\nbe entitled to a cash reward equivalent to twenty (20%) per centum of the total amount of the currency seized."
+   }
+  },
+  {
+   "id": "PH-H22437-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "All laws, acts, decrees, orders, and regulations inconsistent herewith are deemed repealed and/or\nmodified accordingly."
+   }
+  },
+  {
+   "id": "PH-H22437-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Decree shall take effect upon its approval.\nDone in the City of Manila, this 30th day of November, in the year of Our Lord, nineteen hundred and\nseventy-six."
+   }
+  }
+ ]
+}

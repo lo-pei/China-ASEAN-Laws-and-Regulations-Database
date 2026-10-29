@@ -1,0 +1,72 @@
+{
+ "id": "PH-H10774",
+ "title": {
+  "zh": null,
+  "en": "AN ACT AUTHORIZING THE CONSTRUCTION OF A HIGHWAY FROM THE VICINITY OF THE TOWN OF POZORUBIO, IN THE PROVINCE OF PANGASINAN, TO BAGUIO, IN THE PROVINCE OF BENGUET, AND APPROPRIATING SEVENTY-FIVE THOUSAND DOLLARS, MONEY OF THE UNITED STATES, FOR THAT PURPOSE.",
+  "orig": "AN ACT AUTHORIZING THE CONSTRUCTION OF A HIGHWAY FROM THE VICINITY OF THE TOWN OF POZORUBIO, IN THE PROVINCE OF PANGASINAN, TO BAGUIO, IN THE PROVINCE OF BENGUET, AND APPROPRIATING SEVENTY-FIVE THOUSAND DOLLARS, MONEY OF THE UNITED STATES, FOR THAT PURPOSE."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 61",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1127,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_00061_1900_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_00061_1900_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H10774-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The construction of a highway from the vicinity of the town of Pozorubio, in the Province of\nPangasinan, to the town of Baguio, in the Province of Benguet, is hereby authorized and directed, the same\nto be built under the general supervision of the Military Governor and the immediate direction of Captain\nCharles W. Mead, Thirty-sixth Infantry, United States Volunteers, who has been detailed by the Military\nGovernor for that purpose, along the general line of survey recently made by Captain Meade for a railroad\nbetween said towns. He is hereby authorized and empowered to make all contracts for assistants, labor,\nsupplies, and material necessary and proper for the performance of this work and will push the same to\ncompletion by July first, nineteen hundred and one."
+   }
+  },
+  {
+   "id": "PH-H10774-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The sum of seventy-five thousand dollars money of the United States, is hereby appropriated out\nof any money now in the Insular Treasury not otherwise appropriated, for the purpose of defraying the\nexpenses incident to the construction of the highway authorized in section one hereof."
+   }
+  },
+  {
+   "id": "PH-H10774-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, December 21, 1900."
+   }
+  }
+ ]
+}

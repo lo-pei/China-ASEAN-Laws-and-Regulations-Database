@@ -1,0 +1,62 @@
+{
+ "id": "PH-H16173",
+ "title": {
+  "zh": null,
+  "en": "An Act to Increase the Maximum Period Within Which the Payment of Loans of Municipal Funds May Be Made.",
+  "orig": "An Act to Increase the Maximum Period Within Which the Payment of Loans of Municipal Funds May Be Made."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1939-06-14",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 463",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1280,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00463_1939_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00463_1939_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H16173-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section twenty-one hundred and seventeen of the Administrative Code is amended to read as\n\"Section 2117. Loan of municipal funds for permanent public works and school purposes. - Not to exceed\ntwenty per centum of municipal funds deposited with the provincial treasurer and held in reserve may be\nloaned by the provincial treasurer to municipalities upon application by resolution of the municipal council of\nthe municipality desiring the loan for permanent public works and, upon recommendation of the division\nsuperintendent of schools, with the approval of the Director of Education, also for the following purposes: (a)\nthe erection of school buildings of strong materials; (b) the purchase of land for school purposes.\nOnly funds deposited by municipalities that have previously been authorized by resolution of their respective\ncouncils the use of such funds for loans of this kind, shall be available for the purposes hereof.\nSuch loans shall be paid in equal annual installments over a period of not to exceed ten years, and the\nprovincial treasurer shall withhold from the proceeds of tax collections of the municipality receiving the loan\nsufficient revenues to pay each installment as it falls due.\""
+   }
+  },
+  {
+   "id": "PH-H16173-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, June 14, 1939."
+   }
+  }
+ ]
+}

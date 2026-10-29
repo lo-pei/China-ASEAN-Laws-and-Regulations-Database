@@ -1,0 +1,72 @@
+{
+ "id": "PH-H14745",
+ "title": {
+  "zh": null,
+  "en": "An Act Appropriating the Sum of Fifty thousand Pesos for the Aid of the Unemployed and Other Persons Seeking Relief.",
+  "orig": "An Act Appropriating the Sum of Fifty thousand Pesos for the Aid of the Unemployed and Other Persons Seeking Relief."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1934-12-01",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 4154",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 546,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1934/act_4154_1934.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_04154_1934_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_04154_1934_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14745-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The sum of fifty thousand pesos is hereby appropriated out of any funds in the Insular Treasury,\nnot otherwise appropriated, to relieve and succor persons who are in distress due to unemployment, and other\npersons found deserving of material aid."
+   }
+  },
+  {
+   "id": "PH-H14745-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This amount shall be expended by the Director of Public Welfare or any relief agency under the\nsupervision of the Bureau of Public Welfare, subject to such rules and regulations as the Secretary of Public\nInstruction may approve."
+   }
+  },
+  {
+   "id": "PH-H14745-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, December 1, 1934."
+   }
+  }
+ ]
+}

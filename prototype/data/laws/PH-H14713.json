@@ -1,0 +1,62 @@
+{
+ "id": "PH-H14713",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend the Civil Code By Inserting Between Sections Fourteen Hundred and Fifty-Four and Fourteen Hundred and Fifty-Five, thereof a New Section, to Be Known as Section Fourteen Hundred and Fifty-Four-A.",
+  "orig": "An Act to Amend the Civil Code By Inserting Between Sections Fourteen Hundred and Fifty-Four and Fourteen Hundred and Fifty-Five, thereof a New Section, to Be Known as Section Fourteen Hundred and Fifty-Four-A."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1933-12-09",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 4122",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1086,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1933/act_4122_1933.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_04122_1933_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_04122_1933_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14713-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The Civil Code is hereby amended by inserting between sections fourteen hundred and fifty-four\nand fourteen hundred and fifty-five thereof a new section, to be known as section fourteen hundred and\nfifty-four-A, which shall read as follows:\n\"Section 1454-A. In a contract for the sale of personal property payable in installments, failure to pay two or\nmore installments shall confer upon the vendor the right to cancel the sale or foreclose the mortgage if one has\nbeen given on the property, without reimbursement to the purchaser of the installments already paid, if there\nbe an agreement to this effect.\n\"However, if the vendor has chosen to foreclose the mortgage he shall have no further action against the\npurchaser for the recovery of any unpaid balance owing by the same, and any agreement to the contrary shall\nbe null and void.\n\"The same rule shall apply to leases of personal property with option to purchase, when the lessor has chosen\nto deprive the lessee of the enjoyment of such personal property.\""
+   }
+  },
+  {
+   "id": "PH-H14713-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, December 9, 1933."
+   }
+  }
+ ]
+}

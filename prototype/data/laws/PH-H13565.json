@@ -1,0 +1,72 @@
+{
+ "id": "PH-H13565",
+ "title": {
+  "zh": null,
+  "en": "An Act Authorizing Certain Corporations to Hold in Lease Agricultural Land for Which they Have Made Application, Under Certain Conditions.",
+  "orig": "An Act Authorizing Certain Corporations to Hold in Lease Agricultural Land for Which they Have Made Application, Under Certain Conditions."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1920-03-24",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2921",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 2350,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1920/act_2921_1920.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02921_1920_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02921_1920_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13565-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "It shall be the duty of the Secretary of Agriculture and Natural Resources to continue to act, in\naccordance with existing law, upon applications for the lease of public agriculture land field prior to February\neighth, nineteen hundred and eighteen, by corporations organized under the laws of the Philippine Islands\nwhich can not hold public land in the Philippine Islands without express authorization by the Philippine\nLegislature for the reason that sixty-one per cent of their corporate capital is not owned by citizens of the\nPhilippine Islands or the United States, provided they fulfil the following conditions:\n1. That their application for the lease of agricultural land has been filed before said February eight, nineteen\nhundred and eighteen, in the form and subject to the conditions prescribed by laws then in force.\n2. That they have made improvements on the land applied for, after filing such application.\n3. That they have not violated the laws of the Philippine Islands in their organization and capitalization, and\nthat the petitioning corporation, has no interest in other agricultural corporations.\n4. The applicant must show to the full satisfaction of the Secretary of Agriculture and Natural Resources that\nit has not knowingly and willingly violated any order, regulation or instruction of said Department and of the\nBureau under its jurisdiction, and that the land by it applied for does not, after careful inspection, really appear\nto be more suitable for forest purposes than for agricultural purposes, and that it does not include any part of a\nproposed reservation of land for public purposes."
+   }
+  },
+  {
+   "id": "PH-H13565-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Before granting the application of any of the corporations above referred to, the Secretary of\nAgriculture and Natural Resources shall satisfy himself that the same have all the requisites above set forth\nand shall require them to pay all indebtedness they may have incurred towards the Government of the\nPhilippine Islands or any of the dependencies thereof, and upon compliance with all these conditions, said\nSecretary of Agriculture and Natural Resources shall grant the lease applied for, in accordance with and\nsubject to the laws and regulations now or hereafter in force in the Philippine Islands."
+   }
+  },
+  {
+   "id": "PH-H13565-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "The corporations to whom the lease is awarded are hereby authorized to hold said land as leases\nApproved, March 24, 1920."
+   }
+  }
+ ]
+}

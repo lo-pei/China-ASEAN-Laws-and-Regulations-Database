@@ -1,0 +1,90 @@
+{
+ "id": "MY-H211",
+ "title": {
+  "zh": "1980年养老金调整法",
+  "en": "PENSIONS ADJUSTMENT ACT 1980",
+  "orig": "PENSIONS ADJUSTMENT ACT 1980",
+  "vi": "Luật về Điều chỉnh lương hưu năm 1980",
+  "th": "พระราชบัญญัติการปรับเงินบำนาญ ค.ศ. 1980",
+  "id": "Undang-Undang Penyesuaian Pensiun Tahun 1980",
+  "ms": "Akta Pelarasan Pencen 1980"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-4",
+ "language": "en",
+ "level": "law",
+ "category": "04_劳工与行政法",
+ "status": "active",
+ "promulgatedDate": "1980",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "ACT238",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 4,
+ "chars": 2178,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-detail.php?act=238&lang=BI"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\04_劳工与行政法\\1980_238_PENSIONS ADJUSTMENT ACT 1980.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 4 条；逐字未改写（AI 自行 OCR）；已清除正文中的 1 个控制字符（C0/C1 区，法律文本中无合法用途，系 PDF 抽取/表单域残留）。",
+ "textQuality": "ocr-ai",
+ "articles": [
+  {
+   "id": "MY-H211-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "1. (a) Service pension to a pen-\nsionable officer\n\n(b) Service pension on retire-\nment due to abolition of\noffice or re-organisation of\noffice\n\n(c) Service pension on retire-\nment in the public interest"
+   }
+  },
+  {
+   "id": "MY-H211-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "2. Retiring allowance to a non-\npensionable officer\n\nthe date\n\nfollowing the date o\ndeath in service of th\nofficer\n\n(b) Derivative pension afte\nthe period of 124 yea\nfrom the date immediatel\nfollowing the date o\ndeath of the officer\n\nFormula\n\n1/600 x number of months\nof reckonable service (subject\nto not more than 300 months)\n\nX corresponding last drawn\nsalary.\n\n1/500 X number of months\n\nof reckonable service (subject\nto not more than 250 months)\nX corresponding last drawn\nsalary.\n\nSame as (a) but subject to\nany variation of rate imposed\nby the Yang di-Pertuan\nAgong at the time of granting\nthe pension.\n\n3/4 of [1/600 x number of\nmonths of reckonable service\n(subject to not more than\n300 months) X corresponding\nlast drawn salary].\n\nFormula\n\n1/600 xX number of months\nof reckonable service (subject\nto not more than 300 months)\nX corresponding last drawn\nsalary but subject to a mini-\nmum of not less than 1/5 of\nthe officer's corresponding\nlast drawn salary.\n\n70 per cent of the amount as\nin (a).\n\nLb -b-4 AL IDR\n\nOR SERVICE PENSION\nANCE\n[2nd Sch.]\n\nType of Benefit\n\n2. Derivative pension in th\ncase of death within the period\nof 124 years from the date of\nretirement of the officer—\n\n(a) for the period not ex-\nceeding the differenc\nbetween the period of 124\nyears and the retirement\nperiod of the deceased\nofficer;\n\n(b) after the period described\nin (a) above"
+   }
+  },
+  {
+   "id": "MY-H211-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "3. Derivative pension in the\ncase of death after the peri\nof 124 years from the date of\nretirement of the officer"
+   }
+  },
+  {
+   "id": "MY-H211-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "4. Derivative retiring allowance\n\nFormula\n\nSame amount as service pen.\nsion granted to the officer\nbefore his death,\n\n70 per cent of the amount\nas in (a).\n\n70 per cent of the service\npension granted to the officer\nbefore his death.\n\nAdjusted based on the same\nformula as in 1, 2 and 3\nabove but limited to 3/4 of\nthe amount so determined in\n\n7 each case.\nTHR WcHeruce\n\nKUALA LUMPUR\nDICETAK OLEH KETUA PENGARAH PERCETAKAN NEGARA DAN DITERBITKAN DENGAN PERINTAH PADA\n7HB OGOS 1980\n\nHarga: 50 sen"
+   }
+  }
+ ]
+}

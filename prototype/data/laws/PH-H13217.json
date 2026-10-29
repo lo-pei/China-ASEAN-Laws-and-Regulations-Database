@@ -1,0 +1,72 @@
+{
+ "id": "PH-H13217",
+ "title": {
+  "zh": null,
+  "en": "An Act Making Appropriation for the Reimbursement of H.C. Head for Improvements to Hotel Pines, Baguio, Under Certain Conditions.",
+  "orig": "An Act Making Appropriation for the Reimbursement of H.C. Head for Improvements to Hotel Pines, Baguio, Under Certain Conditions."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1916-01-10",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2546",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1282,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1916/act_2546_1916.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02546_1916_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02546_1916_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13217-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "There is hereby appropriated out of any funds in the Insular Treasury not otherwise appropriated,\nthe sum of sixteen thousand five hiundred eleven pesos and fifty seven centavos for the reimbursement of H.\nC. Heald for expenditures made by him in the improvement of the Hotel Pines in the city of Baguio, Mountain\nProvince, said Hotel being the property of the Insular Government."
+   }
+  },
+  {
+   "id": "PH-H13217-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The Insular Treasurer, before paying to the said H.C. Heald the sum approriated for his benefit in\nthe foregoing section, shall require of the said H.C. Heald, the execution of a bond with sufficient sureties in\nthe penal sum of fifteen thousand pesos, conditioned upon the payment by the said H.C. Heald of all claims\nfor labor and material purnished or used by him in the improvement of said The Hotel Pines in the city of\nBaguio, Mountain Province, and shall likewise require the said H.C. Heald to execute assignment in favor of\nthe Government of the Philippine Islands of all his rights or claims against the Hotel Pines, Limited, a\ncorporation organized under the laws of the Philippine Islands, and lessee of said The Hotel Pines, for the\npayment by the Hotel Pines, Limited, of improvements made upon the said hotel property."
+   }
+  },
+  {
+   "id": "PH-H13217-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, January 10. 1916."
+   }
+  }
+ ]
+}

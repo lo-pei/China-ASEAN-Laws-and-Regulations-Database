@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13538",
+ "title": {
+  "zh": null,
+  "en": "An Act Authorizing the Insular Treasurer and the Postal Savings Bank to Lend Money to the Metropolitan Water District Under Certain Conditions.",
+  "orig": "An Act Authorizing the Insular Treasurer and the Postal Savings Bank to Lend Money to the Metropolitan Water District Under Certain Conditions."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1920-02-24",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2890",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 883,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1920/act_2890_1920.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02890_1920_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02890_1920_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13538-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The Insular Treasurer and the Postal Savings Bank Board are hereby authorized, subject to the\napproval of the respective Department Heads, to lend to the Metropolitan Water District created by Act\nNumbered Twenty-eight hundred and thirty-two, out of the funds available for loans in the Insular Treasury\nand in the Postal Savings Bank, for a term of not to exceed ten years, sums of money the total amount whereof\nshall not exceed five hundred thousand pesos, such loans to be secured by bonds of said Metropolitan Water\nDistrict bearing interest at a rate not greater than five per centum per annum, for the purchase of the necessary\nequipment and material. Said loan shall constitute a lien on the property of the Metropolitan Water District,\nsubject only to prior liens thereon at the time such loan is made."
+   }
+  },
+  {
+   "id": "PH-H13538-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, February 24, 1920."
+   }
+  }
+ ]
+}

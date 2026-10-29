@@ -1,0 +1,72 @@
+{
+ "id": "PH-H13458",
+ "title": {
+  "zh": null,
+  "en": "An Act Authorizing the Creation of a Commission to Take Charge of the Preliminary Work for the Celebration of the Fourth Centennial of the Discovery of the Philippine Islands By Fernando Magellan, and Providing Funds for the Same.",
+  "orig": "An Act Authorizing the Creation of a Commission to Take Charge of the Preliminary Work for the Celebration of the Fourth Centennial of the Discovery of the Philippine Islands By Fernando Magellan, and Providing Funds for the Same."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1919-03-03",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2810",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1333,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1919/act_2810_1919.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02810_1919_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02810_1919_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13458-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The Governor-General is hereby authorized to appoint immediately upon the approval of this\nAct a commission with plenary powers to perform all the preliminary work for the celebration in the city of\nManila of the Fourth Centennial of the discovery of the Philippine Islands by Fernando Magellan. This\ncelebration may be in the form of an oriental exposition or otherwise. The Commission may appoint\nsubordinate personnel and fix the salaries of the same, and may, in the performance of its duties, communicate\nwith the governments and official or private persons or entities of foreign countries in the name and on behalf\nof the Philippine Government, for the purposes of this Act. At the next session of the Legislature, the\nCommission shall submit, for approval, a complete program for \" the celebration of the Fourth Centennial and\nits estimate of expenses.\nThe president and the secretary of the Commission may receive salaries or per diems, or, if public officers,\nadditional compensation, in the discretion of the Governor-General."
+   }
+  },
+  {
+   "id": "PH-H13458-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The sum of fifty thousand pesos, or so much thereof as may be necessary, is hereby\nappropriated, out of any funds in the Insular Treasury not otherwise appropriated, to be expended by the\nCommission for the purposes of this Act."
+   }
+  },
+  {
+   "id": "PH-H13458-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, March 3, 1919."
+   }
+  }
+ ]
+}

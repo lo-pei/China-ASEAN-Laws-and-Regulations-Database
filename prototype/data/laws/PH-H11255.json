@@ -1,0 +1,72 @@
+{
+ "id": "PH-H11255",
+ "title": {
+  "zh": null,
+  "en": "AN ACT TO AUTHORIZE THE PROVINCIAL BOARDS OF PROVINCES TO USE THE GENERAL FUNDS OF THE PROVINCE FOR THE SUPPRESSION OF LOCUSTS.",
+  "orig": "AN ACT TO AUTHORIZE THE PROVINCIAL BOARDS OF PROVINCES TO USE THE GENERAL FUNDS OF THE PROVINCE FOR THE SUPPRESSION OF LOCUSTS."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 542",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 689,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_00542_1902_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_00542_1902_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H11255-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "In addition to the powers now conferred by law upon provincial boards, the provincial board of\neach province shall have the power to take such steps as may seem necessary to suppress the pests of locusts,\nand for this purpose to offer and pay from the general funds of the province a fixed amount for locusts\ncaught and produced for destruction."
+   }
+  },
+  {
+   "id": "PH-H11255-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The public good requiring the speedy enactment of this bill, the passage of the same is hereby\nexpedited in accordance with section two of \"An Act prescribing the order of procedure by the Commission\nin the enactment of laws,\" passed September twenty-sixth, nineteen hundred."
+   }
+  },
+  {
+   "id": "PH-H11255-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, December 2, 1902."
+   }
+  }
+ ]
+}

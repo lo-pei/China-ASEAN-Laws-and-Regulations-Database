@@ -1,0 +1,82 @@
+{
+ "id": "PH-H13784",
+ "title": {
+  "zh": null,
+  "en": "An Act to Establish Justice of the Peace Courts in Certain Municipalities of the Batanes Islands, and to Appropriate Funds therefor",
+  "orig": "An Act to Establish Justice of the Peace Courts in Certain Municipalities of the Batanes Islands, and to Appropriate Funds therefor"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1924-03-06",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3140",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 469,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1924/act_3140_1924.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03140_1924_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03140_1924_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13784-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "It is hereby ordered that justice of the peace courts shall be established in the municipalities of\nItbayat, Uyugan, Sabtang, Ivana, and Mahatao, Province of Batanes."
+   }
+  },
+  {
+   "id": "PH-H13784-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The um of three thousand pesos is hereby appropriated, out of any funds in the Insular Treasury\nnot otherwise appropriated, to carry out the purposes of this Act."
+   }
+  },
+  {
+   "id": "PH-H13784-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "All acts or parts of acts inconsistent with this Act are hereby repealed."
+   }
+  },
+  {
+   "id": "PH-H13784-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, March 6, 1924."
+   }
+  }
+ ]
+}

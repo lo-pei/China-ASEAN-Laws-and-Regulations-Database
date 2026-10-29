@@ -1,0 +1,92 @@
+{
+ "id": "PH-H10984",
+ "title": {
+  "zh": null,
+  "en": "AN ACT AUTHORIZING THE HOLDING OF LAND BY RELIGIOUS CORPORATIONS OR ASSOCIATIONS OF WHATEVER SECT OR DENOMINATION.",
+  "orig": "AN ACT AUTHORIZING THE HOLDING OF LAND BY RELIGIOUS CORPORATIONS OR ASSOCIATIONS OF WHATEVER SECT OR DENOMINATION."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 271",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 5,
+ "chars": 1124,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_00271_1901_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 5 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_00271_1901_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H10984-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "It shall be lawful for all religions associations, of whatever sect or denomination, whether\nincorporated in the Philippine Islands or in some other country, or not incorporated at all, to hold land in the\nPhilippine Islands upon which to build churches, parsonages, or educational or charitable institutions."
+   }
+  },
+  {
+   "id": "PH-H10984-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Such religious institutions, if not incorporated, shall, hold the land in the name of three trustees\nfor the use of such associations; the trustees shall be selected by the directing body in the Philippine Islands\nfor such associations, and vacancies occurring among the trustees by death, resignation, or other cause shall\nbe filled in the same manner as the original selection."
+   }
+  },
+  {
+   "id": "PH-H10984-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "All laws in conflict with the provisions of sections one and two hereof are hereby repealed."
+   }
+  },
+  {
+   "id": "PH-H10984-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "The public good requiring the speedy enactment of this bill, the passage of the same is hereby\nexpedited in accordance with section two of \"An Act prescribing the order of procedure by the Commission\nin the enactment of laws,\" passed September twenty-sixth, nineteen hundred."
+   }
+  },
+  {
+   "id": "PH-H10984-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, October 19, 1901."
+   }
+  }
+ ]
+}

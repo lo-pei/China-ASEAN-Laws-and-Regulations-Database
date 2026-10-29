@@ -1,0 +1,52 @@
+{
+ "id": "PH-H12345",
+ "title": {
+  "zh": null,
+  "en": "AN ACT TO AMEND ACT NUMBERED FOURTEEN HUNDRED AND EIGHTEEN, PROVIDING FOR A LOAN OF THIRTY-FIVE THOUSAND PESOS TO THE PROVINCE OF ALBAY, BY INCREASING THE AMOUNT OF SAID LOAN TO SIXTY THOUSAND PESOS AND EXTENDING THE TIME OF REPAYMENT THEREOF.",
+  "orig": "AN ACT TO AMEND ACT NUMBERED FOURTEEN HUNDRED AND EIGHTEEN, PROVIDING FOR A LOAN OF THIRTY-FIVE THOUSAND PESOS TO THE PROVINCE OF ALBAY, BY INCREASING THE AMOUNT OF SAID LOAN TO SIXTY THOUSAND PESOS AND EXTENDING THE TIME OF REPAYMENT THEREOF."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 1635",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 1,
+ "chars": 1421,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_01635_1907_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 1 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_01635_1907_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12345-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Act Numbered Fourteen hundred and eighteen, entitled \"An Art providing for a loan of thirty-five\nthousand pesos to the Province of Albay,\" is hereby amended as follows:\n(a) \"By striking out section one of said Act and inserting in lieu thereof the following:\n\"Section 1. There is hereby appropriated, out of any funds in the Insular Treasury not otherwise\nappropriated, the sum of sixty thousand pesos, to be loaned to the Province of Albay and to be\nexpended by the provincial board of that province in altering, repairing, and making additions\nto the building at present occupied by the provincial government for the use of the provincial\noffices and Court of First Instance, such alterations, repairs, and additions to lie made in\naccordance with plans and specifications approved by the Tnsular Architect.\"\n(b) By striking out section two of said Act and inserting in lieu thereof the following:\n\"Section 2. The money appropriated by section one hereof shall be paid to the treasurer of the\nProvince of Albay upon the production by him to the Treasurer of the Philippine Islands of a\ncertified copy of a resolution by the provincial board of said province accepting said loan and\nagreeing to repay the same without interest in six installments, ten thousand pesos on or before\nJanuary first, nineteen hundred and eight, and ten thousand pesos each year thereafter until the\ntotal amount of said loan has been repaid.\""
+   }
+  }
+ ]
+}

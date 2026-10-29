@@ -1,0 +1,402 @@
+{
+ "id": "MY-H6176",
+ "title": {
+  "zh": "2025年线上安全（网络安全上诉法庭）条例",
+  "en": "ONLINE SAFETY (ONLINE SAFETY APPEAL TRIBUNAL) REGULATIONS 2025",
+  "orig": "ONLINE SAFETY (ONLINE SAFETY APPEAL TRIBUNAL) REGULATIONS 2025",
+  "ms": "Peraturan Keselamatan Dalam Talian (Tribunal Rayuan Keselamatan Dalam Talian) 2025",
+  "vi": "Quy định về An toàn trực tuyến (Tòa án Kháng nghị An toàn Trực tuyến) năm 2025",
+  "th": "ข้อบังคับความปลอดภัยออนไลน์ (ศาลอุทธรณ์ความปลอดภัยออนไลน์) ค.ศ. 2025",
+  "id": "Peraturan Keamanan Daring (Pengadilan Banding Keamanan Daring) Tahun 2025"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-14",
+ "language": "ms",
+ "level": "regulation",
+ "category": "04_劳工与行政法",
+ "status": "active",
+ "promulgatedDate": "2025",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "PUA478",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 30,
+ "chars": 67587,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-view.php?type=pua&no=P.U. (A) 478/2025&status=PRINCIPAL"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\04_劳工与行政法\\2025_P.U.(A)478-2025_ONLINE SAFETY (ONLINE SAFETY APPEAL TRIBUNAL) REGULATIONS 2025.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 30 条；逐字未改写（源自厂商 OCR 文本）。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H6176-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "1. Nama dan permulaan kuat kuasa"
+   }
+  },
+  {
+   "id": "MY-H6176-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "2. Tafsiran\n\nBAHAGIAN II\n\nPERMULAAN PROSIDING RAYUAN"
+   }
+  },
+  {
+   "id": "MY-H6176-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "3. Notis rayuan"
+   }
+  },
+  {
+   "id": "MY-H6176-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "4. Notis rayuan hendaklah ditandatangani dan dimeterai"
+   }
+  },
+  {
+   "id": "MY-H6176-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "5. Daftar Rayuan"
+   }
+  },
+  {
+   "id": "MY-H6176-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "6. Penyampaian notis rayuan kepada Suruhanjaya dan mana-mana pihak lain\n\nkepada rayuan"
+   }
+  },
+  {
+   "id": "MY-H6176-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "7. Penyerahan dokumen oleh Suruhanjaya kepada Tribunal"
+   }
+  },
+  {
+   "id": "MY-H6176-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "8. Rekod rayuan"
+   }
+  },
+  {
+   "id": "MY-H6176-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "9. Kemasukan rayuan dalam senarai rayuan"
+   }
+  },
+  {
+   "id": "MY-H6176-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "10. Penyampaian rekod rayuan"
+   }
+  },
+  {
+   "id": "MY-H6176-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "11. Notis pendengaran rayuan"
+   }
+  },
+  {
+   "id": "MY-H6176-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "12. Pindaan notis rayuan\n\nBAHAGIAN III\n\nPENDENGARAN RAYUAN\n\nPeraturan"
+   }
+  },
+  {
+   "id": "MY-H6176-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "13. Kuorum Tribunal"
+   }
+  },
+  {
+   "id": "MY-H6176-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "14. Persidangan Tribunal"
+   }
+  },
+  {
+   "id": "MY-H6176-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "15. Saman untuk hadir"
+   }
+  },
+  {
+   "id": "MY-H6176-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "16. Hak untuk hadir dan didengar dalam prosiding rayuan"
+   }
+  },
+  {
+   "id": "MY-H6176-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "17. Ketidakhadiran pihak-pihak"
+   }
+  },
+  {
+   "id": "MY-H6176-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "18. Rayuan boleh didengar bersama"
+   }
+  },
+  {
+   "id": "MY-H6176-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "19. Tatacara bagi pendengaran rayuan"
+   }
+  },
+  {
+   "id": "MY-H6176-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "20. Penangguhan"
+   }
+  },
+  {
+   "id": "MY-H6176-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "21. Penarikan balik rayuan"
+   }
+  },
+  {
+   "id": "MY-H6176-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "22. Keputusan Tribunal"
+   }
+  },
+  {
+   "id": "MY-H6176-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "23. Daftar keputusan Tribunal\n\nBAHAGIAN IV\n\nAM"
+   }
+  },
+  {
+   "id": "MY-H6176-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "24. Meterai rasmi"
+   }
+  },
+  {
+   "id": "MY-H6176-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "25. Pejabat Pendaftaran Tribunal"
+   }
+  },
+  {
+   "id": "MY-H6176-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "26. Pengerusi atau anggota Tribunal tidak dapat menyelesaikan prosiding rayuan"
+   }
+  },
+  {
+   "id": "MY-H6176-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 27"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "27. Perbelanjaan saksi"
+   }
+  },
+  {
+   "id": "MY-H6176-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 28"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "28. Ketidakpatuhan"
+   }
+  },
+  {
+   "id": "MY-H6176-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Section 29"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "29. Rekod prosiding"
+   }
+  },
+  {
+   "id": "MY-H6176-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Section 30"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "30. Pemulangan dokumen, dsb.\n\nJADUAL PERTAMA\n\nJADUAL KEDUA\n\nAKTA KESELAMATAN DALAM TALIAN 2025\n\nPERATURAN-PERATURAN KESELAMATAN DALAM TALIAN\n\n(TRIBUNAL RAYUAN KESELAMATAN DALAM TALIAN) 2025\n\nPADA menjalankan kuasa yang diberikan oleh perenggan 81(2)(g) dan (i) Akta\n\nKeselamatan dalam Talian 2025 [Akta 866], Menteri membuat peraturan-peraturan\n\nyang berikut:\n\nBAHAGIAN I\n\nPERMULAAN\n\nNama dan permulaan kuat kuasa\n\n1. (1) Peraturan-peraturan ini bolehlah dinamakan Peraturan-Peraturan\n\nKeselamatan dalam Talian (Tribunal Rayuan Keselamatan dalam Talian) 2025.\n\n(2) Peraturan-Peraturan ini mula berkuat kuasa pada 1 Januari 2026.\n\nTafsiran\n\n2. Dalam Peraturan-Peraturan ini, melainkan jika konteksnya menghendaki\n\nmakna yang lain—\n\n\"mana-mana pihak lain kepada rayuan\" ertinya mana-mana pihak,\n\nselain perayu, yang terkilan dengan suruhan bertulis, penentuan, arahan\n\natau keputusan Suruhanjaya yang dirayukan, jika ada;\n\n\"Pengerusi\" ertinya Pengerusi Tribunal yang dilantik di bawah\n\nperenggan 40(2)(a) Akta;\n\n\"perayu\" ertinya orang yang memfailkan notis rayuan;\n\n\"Setiausaha\" ertinya Setiausaha kepada Tribunal yang ditetapkan oleh Menteri\n\ndi bawah subseksyen 51(1) Akta;\n\n \"Tribunal\" ertinya Tribunal Rayuan Keselamatan dalam Talian yang\n\nditubuhkan di bawah seksyen 40 Akta.\n\nBAHAGIAN II\n\nPERMULAAN PROSIDING RAYUAN\n\nNotis rayuan\n\n3. (1) Suatu rayuan kepada Tribunal hendaklah dimulakan melalui suatu\n\nnotis rayuan dalam Borang A Jadual Pertama dan disertakan dengan fi sebagaimana\n\nyang dinyatakan dalam Jadual Kedua.\n\n(2) Notis rayuan yang disebut dalam subperaturan (1) hendaklah difailkan\n\ndengan Tribunal dalam tempoh empat puluh lima hari selepas tarikh penyampaian\n\npemberitahuan suruhan bertulis, penentuan, arahan atau keputusan daripada\n\nSuruhanjaya yang dirayu.\n\n(3) Suatu notis rayuan hendaklah disertakan dengan apa-apa dokumen\n\nsokongan sebagaimana yang ditentukan oleh Tribunal.\n\n(4) Bilangan salinan notis rayuan yang hendaklah difailkan adalah\n\nberdasarkan kehendak yang berikut:\n\n(a) satu salinan bagi maksud Tribunal;\n\n(b) satu salinan untuk disampaikan kepada Suruhanjaya;\n\n(c) seberapa banyak salinan untuk disampaikan kepada mana-mana\n\npihak lain kepada rayuan sebagaimana yang ditentukan oleh\n\nperayu; dan\n\n(d) seberapa banyak salinan bagi maksud perayu.\n\nNotis rayuan hendaklah ditandatangani dan dimeterai\n\n4. Apabila suatu notis rayuan diterima, Setiausaha hendaklah—\n\n(a) menandatangani semua salinan notis rayuan dan mencatatkan tarikh\n\nnotis rayuan itu ditandatangani; dan\n\n(b) menyebabkan semua salinan notis rayuan itu dimeterai dengan meterai\n\nTribunal berserta tarikh yang meterai Tribunal itu dicapkan.\n\nDaftar Rayuan\n\n5. (1) Setiausaha hendaklah menyebabkan butir-butir suatu rayuan yang\n\ndifailkan itu dimasukkan dalam Daftar Rayuan.\n\n(2) Daftar Rayuan yang disebut dalam subperaturan (1) hendaklah disimpan\n\ndan disenggara oleh Setiausaha dalam apa-apa bentuk sebagaimana yang difikirkannya\n\npatut.\n\n(3) Tiap-tiap rayuan hendaklah dibezakan melalui suatu nombor dan tahun\n\nyang rayuan itu difailkan.\n\n(4) Bagi maksud subperaturan (3), Setiausaha hendaklah menyebabkan\n\nbutir-butir sesuatu rayuan yang berikut dimasukkan dalam Daftar Rayuan:\n\n(a) nombor kes rayuan;\n\n(b) tarikh notis rayuan difailkan;\n\n(c) maklumat pihak-pihak kepada rayuan; dan\n\n(d) status kes rayuan.\n\nPenyampaian notis rayuan kepada Suruhanjaya dan mana-mana pihak lain\n\nkepada rayuan\n\n6. (1) Selepas butir-butir rayuan dimasukkan ke dalam Daftar Rayuan,\n\nSetiausaha hendaklah—\n\n(a) menyimpan satu salinan notis rayuan yang telah ditandatangani\n\ndan dimeterai; dan\n\n(b) menyebabkan semua salinan lain notis rayuan yang difailkan bagi\n\nmaksud perenggan 3(4)(b), (c) dan (d) yang telah ditandatangani\n\ndan dimeterai itu dikembalikan kepada perayu.\n\n(2) Perayu hendaklah menyampaikan satu salinan notis rayuan yang telah\n\nditandatangani dan dimeterai oleh Tribunal kepada Suruhanjaya dan mana-mana\n\npihak lain kepada rayuan dalam tempoh empat belas hari dari tarikh penerimaan\n\nsalinan notis rayuan itu daripada Setiausaha.\n\n(3) Suatu bukti penyampaian notis rayuan di bawah subperaturan (2)\n\nhendaklah difailkan oleh perayu kepada Setiausaha dalam Borang B Jadual Pertama.\n\nPenyerahan dokumen oleh Suruhanjaya kepada Tribunal\n\n7. Suruhanjaya hendaklah, dalam tempoh empat puluh lima hari selepas\n\ntarikh penyampaian notis rayuan kepada Suruhanjaya, menyerahkan kepada\n\nTribunal dokumen yang berikut:\n\n(a) suruhan bertulis, penentuan, arahan atau keputusan Suruhanjaya\n\nyang dirayukan;\n\n(b) suatu pernyataan fakta kes;\n\n(c) alasan bagi suruhan bertulis, penentuan, arahan atau keputusan\n\nSuruhanjaya yang dirayukan; dan\n\n(d) apa-apa dokumen lain yang berkaitan sebagaimana yang difikirkan sesuai\n\noleh Suruhanjaya.\n\nRekod rayuan\n\n8. (1) Setiausaha hendaklah, dalam tempoh empat belas hari dari tarikh\n\npenerimaan dokumen yang dinyatakan dalam peraturan 7, melengkapkan penyediaan\n\nsalinan rekod rayuan yang mencukupi bagi kegunaan Tribunal dan bagi penyampaian\n\nkepada perayu dan mana-mana pihak lain kepada rayuan.\n\n(2) Rekod rayuan itu hendaklah mengandungi dokumen yang berikut:\n\n(a) suatu salinan notis rayuan yang diperakui sah; dan\n\n(b) suatu salinan dokumen yang diperakui sah yang dinyatakan dalam\n\nperaturan 7.\n\n(3) Apabila rekod rayuan yang disebut dalam subperaturan (1) telah\n\ndisediakan dengan lengkap, Setiausaha hendaklah—\n\n(a) mengemukakan suatu notis rekod rayuan dalam Borang C\n\nJadual Pertama kepada perayu bagi memberitahu bahawa\n\nrekod rayuan telah lengkap; dan\n\n(b) meminta perayu untuk membuat pembayaran fi bagi rekod rayuan\n\nsebagaimana yang ditetapkan dalam ruang (3) Jadual Kedua dalam\n\ntempoh empat belas hari dari tarikh perayu menerima notis rekod\n\nrayuan di bawah perenggan (a) bagi menampung kos penyediaan\n\nrekod rayuan, melainkan jika diarahkan selainnya oleh Setiausaha.\n\n(4) Setiausaha hendaklah membekalkan salinan rekod rayuan yang\n\nmencukupi kepada perayu untuk disampaikan kepada Suruhanjaya dan mana-mana\n\npihak lain kepada rayuan selepas pembayaran fi bagi rekod rayuan telah dibuat\n\noleh perayu.\n\n(5) Jika perayu tidak membuat pembayaran fi bagi rekod rayuan sebagaimana\n\nyang ditetapkan dalam tempoh yang dinyatakan dalam perenggan (3)(b), rayuan itu\n\nhendaklah disifatkan telah ditarik balik oleh perayu.\n\nKemasukan rayuan dalam senarai rayuan\n\n9. Apabila rekod rayuan telah diserahkan kepada perayu di bawah peraturan 8,\n\nSetiausaha hendaklah—\n\n(a) memasukkan rayuan itu ke dalam senarai rayuan yang akan didengar\n\noleh Tribunal; dan\n\n(b) memberikan suatu pemberitahuan secara bertulis kepada perayu\n\ndan Suruhanjaya mengenai kemasukan rayuan itu ke dalam senarai\n\nrayuan yang akan didengar oleh Tribunal.\n\nPenyampaian rekod rayuan\n\n10. (1) Perayu hendaklah, dalam tempoh empat belas hari dari tarikh perayu\n\nmenerima rekod rayuan di bawah peraturan 8, menyampaikan rekod rayuan itu\n\nkepada Suruhanjaya dan mana-mana pihak lain kepada rayuan.\n\n(2) Suatu bukti penyampaian rekod rayuan di bawah subperaturan (1)\n\nhendaklah difailkan oleh perayu kepada Setiausaha dalam Borang B Jadual Pertama.\n\nNotis pendengaran rayuan\n\n11. (1) Setiausaha hendaklah, dalam tempoh empat belas hari dari tarikh\n\npenerimaan bukti penyampaian rekod rayuan di bawah subperaturan 10(2),\n\nmenetapkan tarikh, masa dan tempat pendengaran rayuan itu.\n\n(2) Tarikh pendengaran rayuan itu hendaklah tidak melewati satu ratus\n\nlima puluh hari dari tarikh notis rayuan difailkan di bawah subperaturan 3(1).\n\n(3) Setiausaha hendaklah menyampaikan suatu notis pendengaran rayuan\n\ndalam Borang D Jadual Pertama kepada perayu dan Suruhanjaya tidak kurang daripada\n\ndua puluh satu hari sebelum tarikh pendengaran rayuan itu.\n\n(4) Tribunal boleh, atas usulnya sendiri atau atas permohonan perayu\n\natau Suruhanjaya, menangguhkan tarikh pendengaran rayuan itu dengan memberikan\n\nsuatu notis yang munasabah kepada semua pihak yang terlibat dalam pendengaran\n\nrayuan itu.\n\n(5) Perayu hendaklah, dalam tempoh yang munasabah sebelum pendengaran\n\nrayuan itu, menyampaikan suatu notis pendengaran rayuan atau pemberitahuan\n\nmengenai penangguhan pendengaran rayuan kepada mana-mana pihak lain\n\nkepada rayuan.\n\nPindaan notis rayuan\n\n12. (1) Perayu boleh, pada bila-bila masa sebelum tarikh pendengaran rayuan itu,\n\nmemfailkan suatu permohonan untuk meminda notis rayuan kepada Tribunal.\n\n(2) Permohonan yang disebut dalam subperaturan (1) hendaklah disertakan\n\ndengan suatu salinan cadangan pindaan kepada notis rayuan itu.\n\n(3) Pengerusi boleh, menurut budi bicaranya, membenarkan atau menolak\n\nsuatu permohonan yang difailkan di bawah subperaturan (1).\n\n(4) Walau apa pun subperaturan (3), Pengerusi tidak boleh memberikan\n\nkebenaran untuk meminda notis rayuan yang difailkan di bawah peraturan 3,\n\njika Pengerusi berpuas hati bahawa alasan rayuan baharu yang dikemukakan\n\noleh perayu adalah—\n\n(a) berdasarkan apa-apa perkara fakta atau undang-undang yang\n\ndiketahui kepada perayu hanya selepas notis rayuan itu difailkan;\n\n(b) tidak praktik untuk dimasukkan dalam notis rayuan itu\n\napabila notis rayuan difailkan; atau\n\n(c) dimasukkan disebabkan oleh hal keadaan yang luar biasa.\n\n(5) Jika suatu kebenaran telah diberikan oleh Pengerusi di bawah\n\nsubperaturan (3), perayu hendaklah, dalam tempoh empat belas hari dari tarikh\n\nyang pindaan kepada notis rayuan itu dibenarkan oleh Pengerusi, memfailkan suatu notis\n\nrayuan terpinda kepada Tribunal untuk ditandatangani dan dimeterai oleh Setiausaha.\n\n(6) Setiausaha hendaklah menyebabkan notis rayuan terpinda itu\n\nditandatangani dan dimeterai, dan dikembalikan kepada perayu.\n\n(7) Apabila notis rayuan terpinda diterima oleh perayu di bawah\n\nsubperaturan (6), peraturan 6, 8, 10 dan 11 hendaklah terpakai secara mutatis\n\nmutandis, mengikut mana-mana yang berkenaan, berkenaan dengan notis rayuan\n\nterpinda itu.\n\nBAHAGIAN III\n\nPENDENGARAN RAYUAN\n\nKuorum Tribunal\n\n13. Pengerusi hendaklah menentukan komposisi kuorum bagi Tribunal dalam\n\nsemua prosiding di hadapan Tribunal dengan mengambil kira hal perkara rayuan\n\ndan kepakaran yang berkaitan bagi anggota-anggotanya.\n\nPersidangan Tribunal\n\n14. (1) Semua prosiding di hadapan Tribunal hendaklah terbuka kepada orang\n\nawam.\n\n(2) Semua prosiding di hadapan Tribunal hendaklah didengar di pejabat\n\nTribunal, melainkan jika diarahkan selainnya oleh Tribunal untuk diadakan\n\ndi mana-mana tempat yang sesuai bagi Tribunal.\n\n(3) Walau apa pun subperaturan (1), Pengerusi boleh jika difikirkannya patut,\n\npada mana-mana peringkat prosiding—\n\n(a) memerintahkan prosiding itu diadakan dalam suatu sesi tertutup;\n\natau\n\n(b) mengarahkan mana-mana orang awam atau mana-mana individu\n\ntertentu untuk tidak mempunyai akses kepada, atau berada\n\ndi dalam, tempat prosiding Tribunal sedang diadakan.\n\n(4) Jika mana-mana prosiding atau mana-mana bahagian mana-mana\n\nprosiding terjejas oleh suatu perintah yang dibuat oleh Pengerusi di bawah\n\nsubperaturan (3), Pengerusi boleh, jika pada pendapatnya keterangan atau bahan lain\n\nyang dikemukakan kepada Tribunal adalah bersifat sulit, mengarahkan supaya\n\nketerangan atau bahan lain itu tidak disiarkan atau penyiarannya dihadkan atau\n\nmembenarkan penyiarannya tetapi tanpa mendedahkan identiti pihak-pihak dalam\n\nprosiding itu.\n\nSaman untuk hadir\n\n15. (1) Mana-mana pihak kepada pendengaran sesuatu rayuan di hadapan\n\nTribunal boleh, tidak kurang daripada tujuh hari sebelum tarikh pendengaran rayuan itu,\n\nmemohon secara bertulis kepada Setiausaha untuk mengeluarkan suatu saman kepada\n\nmana-mana orang untuk hadir sebagai saksi untuk memberikan apa-apa keterangan\n\nberkenaan dengan rayuan itu di hadapan Tribunal.\n\n(2) Mana-mana orang yang disaman sebagai saksi di bawah subperaturan (1)\n\nboleh dikehendaki untuk mengemukakan apa-apa buku, kertas, rekod, dokumen\n\natau benda lain, sama ada dalam bentuk fizikal atau elektronik, yang ada dalam\n\nmilikannya atau di bawah kawalannya, berkenaan dengan rayuan itu.\n\n(3) Apabila suatu permohonan diterima di bawah subperaturan (1),\n\nSetiausaha hendaklah—\n\n(a) mengeluarkan suatu saman untuk hadir kepada mana-mana\n\norang yang dikehendaki untuk hadir sebagai saksi di hadapan\n\nTribunal dalam Borang E Jadual Pertama, yang hendaklah\n\nmengandungi tandatangan Setiausaha dan meterai Tribunal; dan\n\n(b) menyampaikan saman untuk hadir itu secara ke diri kepada orang\n\nyang disaman itu.\n\n(4) Jika orang yang disaman di bawah subperaturan (3) tidak mematuhi\n\nsaman itu, Tribunal boleh menjalankan kuasanya berkenaan dengan hukuman\n\nbagi penghinaan di bawah subseksyen 48(2) Akta.\n\nHak untuk hadir dan didengar dalam prosiding rayuan\n\n16. (1) Tiap-tiap pihak kepada sesuatu rayuan hendaklah berhak untuk hadir\n\ndan didengar pada pendengaran rayuan di hadapan Tribunal.\n\n(2) Pada pendengaran sesuatu rayuan di hadapan Tribunal—\n\n(a) Suruhanjaya boleh diwakili oleh mana-mana anggota Suruhanjaya,\n\natau mana-mana pekerjanya, atau peguam bela atau peguam\n\ncaranya; dan\n\n(b) perayu atau mana-mana pihak lain kepada rayuan boleh hadir\n\nbagi pihaknya sendiri, atau diwakili oleh mana-mana pekerjanya,\n\natau peguam bela atau peguam caranya.\n\n(3) Jika perayu, Suruhanjaya atau mana-mana pihak lain kepada rayuan\n\ndiwakili oleh peguam bela atau peguam cara lantikannya, perayu, Suruhanjaya\n\natau mana-mana pihak lain kepada rayuan, mengikut mana-mana yang berkenaan,\n\nhendaklah—\n\n(a) mengeluarkan suatu surat pemberian kuasa kepada peguam bela\n\natau peguam cara lantikannya; dan\n\n(b) mengemukakan surat pemberian kuasa itu kepada Tribunal\n\nsebelum tarikh pendengaran rayuan itu.\n\nKetidakhadiran pihak-pihak\n\n17. Jika mana-mana pihak kepada rayuan tidak hadir pada tarikh, masa dan di tempat\n\nyang ditetapkan untuk pendengaran sesuatu rayuan, Tribunal boleh, jika Tribunal\n\nberpuas hati bahawa suatu notis pendengaran rayuan itu telah disampaikan dengan\n\nsewajarnya kepada pihak yang tidak hadir itu di bawah subperaturan 11(5), mendengar\n\ndan memutuskan rayuan itu.\n\nRayuan boleh didengar bersama\n\n18. Tribunal boleh, atas permohonan perayu atau Suruhanjaya, memerintahkan\n\ndua atau lebih rayuan untuk didengar bersama jika Tribunal mendapati bahawa\n\nhal perkara rayuan itu—\n\n(a) berbangkit daripada suruhan bertulis, penentuan, arahan atau keputusan\n\nSuruhanjaya yang sama; atau\n\n(b) melibatkan isu yang sama atau serupa sifatnya berhubung dengan\n\nsuruhan bertulis, penentuan, arahan atau keputusan Suruhanjaya itu.\n\nTatacara bagi pendengaran rayuan\n\n19. Tatacara yang berikut hendaklah terpakai berhubung dengan pendengaran\n\nsesuatu rayuan di hadapan Tribunal:\n\n(a) perayu hendaklah memulakan dan hendaklah mempunyai hak untuk\n\nmemberikan jawapan penutup, melainkan jika Pengerusi mengarahkan\n\nselainnya;\n\n(b) Suruhanjaya dan mana-mana pihak lain kepada rayuan hendaklah\n\ndidengari mengikut susunan yang ditentukan oleh Pengerusi,\n\nmelainkan jika Pengerusi menentukan selainnya;\n\n(c) perayu dan Suruhanjaya hendaklah berhak untuk mendapatkan\n\nketerangan dan memeriksa balas orang yang memberi keterangan\n\ndan boleh berhujah kepada Tribunal berkenaan dengan semua perkara\n\nyang dibangkitkan dalam prosiding rayuan;\n\n(d) keterangan boleh diberikan secara lisan atau, jika perayu dan\n\nSuruhanjaya bersetuju atau Pengerusi memerintahkan sedemikian,\n\nmelalui afidavit, tetapi Pengerusi boleh pada mana-mana peringkat\n\nprosiding rayuan, membuat suatu perintah menghendaki saksi hadir\n\nsendiri untuk pemeriksaan dan pemeriksaan balas;\n\n(e) semua keterangan hendaklah, diberikan dengan sumpah atau ikrar,\n\nmelainkan jika diarahkan selainnya oleh Pengerusi dan sumpah\n\natau ikrar itu hendaklah dikendalikan oleh Setiausaha atau mana-mana\n\norang lain sebagaimana yang diberi kuasa oleh Pengerusi;\n\n(f) Tribunal boleh mengemukakan apa-apa soalan kepada mana-mana\n\nsaksi yang hadir di hadapannya dan boleh menghendakinya\n\nuntuk mengemukakan apa-apa dokumen yang kuasa untuk\n\nmengemukakannya ada pada saksi itu;\n\n(g) mana-mana penyataan bertulis atau keterangan dokumentar yang\n\ndikemukakan hendaklah ditandakan sebagai eksibit dan hendaklah\n\nmenjadi sebahagian daripada rekod prosiding rayuan itu;\n\n(h) Pengerusi hendaklah, mengambil atau menyebabkan supaya diambil,\n\nnota keterangan yang diberikan dan setakat mana yang didapati wajar,\n\nhujah yang dibuat oleh perayu dan Suruhanjaya;\n\n(i) Tribunal boleh memeriksa mana-mana tempat atau benda yang\n\nberkenaan dengan mana-mana soalan berbangkit dalam rayuan\n\ndan apa-apa perbelanjaan yang berhubungan dengannya hendaklah\n\nmenjadi kos dalam prosiding rayuan itu; dan\n\n(j) selepas selesai pendengaran rayuan atau pada tarikh lain sebagaimana\n\nyang ditentukan oleh Pengerusi, keputusan rayuan oleh Tribunal\n\nberserta alasan terperinci bagi keputusan rayuan itu hendaklah\n\ndikemukakan oleh Pengerusi.\n\nPenangguhan\n\n20. Tribunal boleh, dari semasa ke semasa, sama ada atas usulnya sendiri\n\natau atas suatu permohonan oleh perayu atau Suruhanjaya, menangguhkan\n\npendengaran sesuatu rayuan.\n\nPenarikan balik rayuan\n\n21. (1) Pada bila-bila masa sebelum Tribunal membuat suatu keputusan rayuan,\n\nperayu—\n\n(a) boleh memfailkan suatu notis penarikan balik rayuan dalam\n\nBorang F Jadual Pertama; dan\n\n(b) hendaklah menyampaikan satu salinan notis penarikan balik\n\nrayuan itu kepada Suruhanjaya dan mana-mana pihak lain kepada\n\nrayuan.\n\n(2) Setiausaha hendaklah menyebabkan rayuan itu dipotong daripada senarai\n\nrayuan apabila perayu memfailkan suatu notis penarikan balik rayuan dengan Tribunal\n\ndi bawah perenggan (1)(a).\n\n(3) Jika perayu memfailkan suatu notis penarikan balik rayuan di bawah\n\nperenggan (1)(a), perayu hendaklah bertanggungan untuk membayar semua\n\nperbelanjaan atau kos yang berhubungan dengan rayuan itu yang telah dilakukan\n\noleh Suruhanjaya dan mana-mana pihak lain kepada rayuan sebagaimana yang\n\nditentukan oleh Tribunal.\n\nKeputusan Tribunal\n\n22. (1) Selepas menimbangkan sesuatu rayuan, Tribunal boleh mengesahkan,\n\nmengubah, mengubah suai atau membatalkan suruhan bertulis, penentuan,\n\narahan atau keputusan Suruhanjaya yang menjadi hal perkara sesuatu rayuan.\n\n(2) Keputusan Tribunal berhubung dengan sesuatu rayuan hendaklah—\n\n(a) mengandungi alasan bagi keputusan itu; dan\n\n(b) dibuat secara bertulis, bertarikh, ditandatangani oleh\n\nanggota-anggota Tribunal yang membentuk kuorum rayuan itu\n\ndan dimeterai dengan meterai Tribunal.\n\n(3) Jika mana-mana anggota Tribunal yang telah membuat suatu keputusan\n\natas apa-apa rayuan tidak dapat menandatangani keputusan itu atas sebab mana-mana\n\nanggota Tribunal itu meninggal dunia, sakit, tidak hadir atau bagi apa-apa sebab lain,\n\nkeputusan itu hendaklah ditandatangani oleh anggota lain yang ada yang membentuk\n\nkuorum itu.\n\nDaftar keputusan Tribunal\n\n23. (1) Setiausaha hendaklah menyenggara suatu daftar bagi semua keputusan\n\nTribunal.\n\n(2) Daftar keputusan Tribunal hendaklah tersedia di Pejabat Pendaftaran\n\nTribunal untuk pemeriksaan oleh orang awam pada waktu pejabat.\n\nBAHAGIAN IV\n\nAM\n\nMeterai rasmi\n\n24. (1) Tribunal hendaklah mempunyai suatu meterai rasmi yang hendaklah\n\ndisimpan dalam jagaan Setiausaha.\n\n(2) Tiap-tiap saman, notis, award, perintah, keputusan atau dokumen lain\n\nyang dikeluarkan, dibuat atau diberikan oleh Tribunal hendaklah ditandatangani\n\noleh Pengerusi atau Setiausaha, dan dimeterai dengan meterai Tribunal.\n\nPejabat Pendaftaran Tribunal\n\n25. Pemfailan dan penyampaian apa-apa dokumen dan pembayaran fi, yang\n\nberhubungan dengan apa-apa rayuan oleh mana-mana pihak kepada rayuan\n\ndi hadapan Tribunal hendaklah dibuat di Pejabat Pendaftaran Tribunal atau melalui\n\ncara elektronik sebagaimana yang ditentukan oleh Setiausaha.\n\nPengerusi atau anggota Tribunal tidak dapat menyelesaikan prosiding rayuan\n\n26. (1) Jika Pengerusi atau mana-mana anggota Tribunal yang memulakan\n\npendengaran sesuatu rayuan dan yang selepas mendengar keseluruhan atau mana-mana\n\nbahagian prosiding rayuan itu tidak dapat meneruskan dan menyelesaikan prosiding\n\nrayuan itu atas sebab Pengerusi atau anggota Tribunal itu meninggal dunia, sakit,\n\nhabis tempoh jawatan atau bagi apa-apa sebab lain, Menteri boleh melantik Pengerusi\n\natau anggota Tribunal yang baharu bagi menggantikan Pengerusi atau anggota\n\nTribunal itu.\n\n(2) Jika Pengerusi atau anggota Tribunal baharu yang dilantik di bawah\n\nsubperaturan (1) dipilih untuk membentuk kuorum rayuan itu, Pengerusi atau anggota\n\nTribunal baharu itu boleh—\n\n(a) meneruskan prosiding rayuan itu untuk menimbangkan keterangan\n\nyang direkodkan dan meneruskan prosiding rayuan itu\n\ndari peringkat yang prosiding rayuan itu terhenti; atau\n\n(b) memulakan semula prosiding rayuan itu.\n\nPerbelanjaan saksi\n\n27. Perbelanjaan yang dibenarkan di bawah perenggan 48(1)(e) Akta bagi maksud\n\nmana-mana orang yang dipanggil oleh Tribunal hendaklah—\n\n(a) ditaksirkan oleh Setiausaha mengikut skala yang digunakan dalam\n\nprosiding sivil di mahkamah rendah; dan\n\n(b) dibayar oleh perayu, Suruhanjaya atau mana-mana pihak lain kepada\n\nrayuan, mengikut mana-mana yang berkenaan, sebagaimana yang\n\ndiarahkan oleh Tribunal.\n\nKetidakpatuhan\n\n28. Ketidakpatuhan terhadap mana-mana peraturan-peraturan ini tidak akan\n\nmenyebabkan mana-mana prosiding di hadapan Tribunal dan apa-apa saman,\n\nnotis, award, perintah, keputusan atau dokumen lain yang dikeluarkan, dibuat\n\natau diberikan oleh Tribunal boleh diketepikan atau dibatalkan, melainkan jika\n\nTribunal mengarahkan selainnya.\n\nRekod prosiding\n\n29. Setiausaha hendaklah menyimpan rekod semua prosiding Tribunal dengan\n\nmembuat catatan dalam fail rayuan masing-masing.\n\nPemulangan dokumen, dsb.\n\n30. (1) Selepas selesai sesuatu prosiding rayuan di hadapan Tribunal,\n\nTribunal boleh, memerintahkan supaya apa-apa buku, kertas, dokumen, rekod\n\natau benda lain yang dikemukakan semasa prosiding rayuan itu, diserahkan kepada\n\ntuan punya yang sah.\n\n(2) Setiausaha hendaklah mengeluarkan suatu notis secara bertulis\n\nmengenai apa-apa perintah yang dibuat oleh Tribunal di bawah subperaturan (1)\n\nkepada tuan punya yang sah bagi apa-apa buku, kertas, dokumen, rekod atau benda lain.\n\n(3) Jika tiada seorang pun mengambil penghantarserahan apa-apa buku,\n\nkertas, dokumen, rekod atau benda lain yang disebut dalam subperaturan (1)\n\nselepas habis tempoh enam bulan dari tarikh notis secara bertulis itu dikeluarkan,\n\npemunyaan buku, kertas, dokumen, rekod atau benda lain itu hendaklah disifatkan\n\ntelah berpindah kepada, dan terletak hak pada, Tribunal dan Tribunal boleh\n\nmenguruskannya mengikut apa-apa cara sebagaimana yang difikirkannya patut.\n\nJADUAL PERTAMA\n\nBORANG A\n\n[Subperaturan 3(1)]\n\nAKTA KESELAMATAN DALAM TALIAN 2025\n\nPERATURAN-PERATURAN KESELAMATAN DALAM TALIAN\n\n(TRIBUNAL RAYUAN KESELAMATAN DALAM TALIAN) 2025\n\nDALAM PERKARA TRIBUNAL RAYUAN KESELAMATAN DALAM TALIAN\n\nNO. RAYUAN ........... TAHUN 20....\n\nNama perayu: ………………….…………………………………………………………...................………………….\n\nNombor kad pengenalan/nombor pendaftaran syarikat*: ……………..……………………………….\n\nNombor dan jenis lesen (jika berkenaan): ………….……………………………………………..................\n\nAlamat perayu:....…………………………………………………………………………..................……...................\n\n……………………………………………………………………………………………………………………………………\n\nAlamat peguam bela dan peguam cara perayu (jika berkenaan): ....................................................\n\n.......................................................................................................................................................................................\n\nNombor telefon: …………………………………………………………………….......................…………………...\n\nNombor faks: ……………………………………………………………………...................…………………………..\n\nE-mel: ……………………………………………………………………….....................………………………………….\n\nNombor telefon bimbit: ……………………………………………………………..........................…...................\n\nNOTIS RAYUAN\n\nPerayu yang terkilan atau yang kepentingannya terjejas dengan suatu\n\nsuruhan bertulis/penentuan/arahan/keputusan* Suruhanjaya Komunikasi dan\n\nMultimedia Malaysia yang diberikan pada ………………………… hari bulan\n\n…………………… 20……… merayu kepada Tribunal Rayuan Keselamatan dalam Talian\n\nterhadap suruhan bertulis/penentuan/arahan/keputusan* Suruhanjaya tersebut.\n\nButir-butir rayuan adalah seperti yang berikut:\n\n(a) butir-butir suruhan bertulis/penentuan/arahan/keputusan* yang dirayukan:\n\n(perihal suruhan bertulis, penentuan, arahan atau keputusan dan butir-butir\n\nterperinci, isi kandungan suruhan bertulis, penentuan, arahan atau keputusan\n\nyang dirayukan, butir-butir khusus tentang perkara tersebut dan alasan rayuan\n\nyang disandarkan oleh perayu);\n\n(b) senarai dokumen sokongan berkaitan yang dilampirkan; dan\n\n(c) relief atau remedi yang dimohon.\n\nBertarikh pada ………………………… hari bulan………………………. 20………….\n\n ..........................................\n\n Perayu\n\n(METERAI)\n\n.........................................\n\nSetiausaha\n\nTribunal Rayuan\n\nKeselamatan dalam Talian\n\nKepada:\n\n(1) Suruhanjaya Komunikasi dan Multimedia Malaysia\n\n(2) Mana-mana pihak lain kepada rayuan, jika ada\n\nCATATAN:\n\n* Potong mana-mana yang tidak berkenaan\n\nBORANG B\n\n[Subperaturan 6(3) dan 10(2)]\n\nAKTA KESELAMATAN DALAM TALIAN 2025\n\nPERATURAN-PERATURAN KESELAMATAN DALAM TALIAN\n\n(TRIBUNAL RAYUAN KESELAMATAN DALAM TALIAN) 2025\n\nDALAM PERKARA TRIBUNAL RAYUAN KESELAMATAN DALAM TALIAN\n\nDI ......................................................................\n\nDI NEGERI .................................................. MALAYSIA\n\nNO. RAYUAN ........... TAHUN 20....\n\nPENGAKUTERIMAAN PENYAMPAIAN\n\n(1) Dokumen ini telah disampaikan dengan cara penyampaian ke diri kepada\n\n.............................................. (yang dikenali oleh saya) (atau yang telah ditunjukkan\n\nkepada saya oleh ..............................................) (atau yang telah mengaku kepada saya\n\nbahawa dia adalah orangnya) di ............................ pada ............................ hari bulan\n\n........................ 20......................... pada pukul............................ pagi/petang*.\n\n(2) Dokumen ini telah disampaikan dengan meninggalkan satu salinan di alamat\n\nkediaman atau tempat perniagaan terakhir yang diketahui\n\ndi …………………………………………………………………. dalam suatu sampul beralamat.\n\n(3) Dokumen ini telah disampaikan dengan cara pos berdaftar prabayar\n\nyang dialamatkan kepada ............................................... (di alamat penyampaiannya)\n\natau (alamat terakhir yang diketahui).\n\nBertarikh pada ......................... hari bulan................. 20.....\n\n ..........................................\n\n Tandatangan\n\nCATATAN:\n\n* Potong mana-mana yang tidak berkenaan\n\nBORANG C\n\n[Perenggan 8(3)(a)]\n\nAKTA KESELAMATAN DALAM TALIAN 2025\n\nPERATURAN-PERATURAN KESELAMATAN DALAM TALIAN\n\n(TRIBUNAL RAYUAN KESELAMATAN DALAM TALIAN) 2025\n\nDALAM PERKARA TRIBUNAL RAYUAN KESELAMATAN DALAM TALIAN\n\nDI ......................................................................\n\nDI NEGERI .................................................. MALAYSIA\n\nNO. RAYUAN ........... TAHUN 20.....\n\nNOTIS REKOD RAYUAN\n\nSILA AMBIL PERHATIAN bahawa rekod rayuan dalam prosiding yang disebut\n\ndi atas telah disediakan dengan lengkap dan bahawa kos bagi menyediakan rekod rayuan\n\nitu berjumlah RM ........................................* (Ringgit Malaysia) adalah kena dibayar\n\noleh tuan/puan.\n\nSILA AMBIL PERHATIAN bahawa jika tuan/puan tidak membayar jumlah\n\ntersebut dalam tempoh empat belas hari dari tarikh penyampaian notis ini,\n\nrayuan tuan/puan akan ditolak.\n\nBertarikh pada ………………… hari bulan ……………… 20…..\n\n(METERAI)\n\n..........................................\n\nSetiausaha\n\nTribunal Rayuan Keselamatan\n\ndalam Talian\n\nKepada: ..............................................................\n\n ...................................................................\n\n ...................................................................**\n\nCATATAN:\n\n* Masukkan amaun yang setepatnya. Jika tiada baki, sila tulis \"Tiada\"\n\n** Masukkan nama dan alamat perayu\n\nBORANG D\n\n[Subperaturan 11(3)]\n\nAKTA KESELAMATAN DALAM TALIAN 2025\n\nPERATURAN-PERATURAN KESELAMATAN DALAM TALIAN\n\n(TRIBUNAL RAYUAN KESELAMATAN DALAM TALIAN) 2025\n\nDALAM PERKARA TRIBUNAL RAYUAN KESELAMATAN DALAM TALIAN\n\nDI ......................................................................\n\nDI NEGERI .................................................. MALAYSIA\n\nNO. RAYUAN ........... TAHUN 20.....\n\nNOTIS PENDENGARAN RAYUAN\n\nSILA AMBIL PERHATIAN bahawa rayuan dalam perkara di atas\n\nakan didengar pada ………………….. hari bulan…………………… 20….....\n\ndi ………………………………………… (alamat tempat pendengaran rayuan)\n\npada pukul ……………………. pagi/petang* dan berterusan pada hari-hari\n\nberikutnya, jika perlu:\n\nBertarikh pada ……………. hari bulan ……………………. 20……\n\n(METERAI)\n\n..........................................\n\nSetiausaha\n\nTribunal Rayuan Keselamatan\n\ndalam Talian\n\nKepada:\n\n(1) Setiausaha kepada Tribunal Rayuan Keselamatan dalam Talian\n\n(2) Suruhanjaya Komunikasi dan Multimedia Malaysia\n\n(3) Mana-mana pihak lain kepada rayuan, jika ada\n\nCATATAN:\n\n* Potong mana-mana yang tidak berkenaan\n\nBORANG E\n\n[Perenggan 15(3)(a)]\n\nAKTA KESELAMATAN DALAM TALIAN 2025\n\nPERATURAN-PERATURAN KESELAMATAN DALAM TALIAN\n\n(TRIBUNAL RAYUAN KESELAMATAN DALAM TALIAN) 2025\n\nDALAM PERKARA TRIBUNAL RAYUAN KESELAMATAN DALAM TALIAN\n\nDI ......................................................................\n\nDI NEGERI .................................................. MALAYSIA\n\nNO. RAYUAN ........... TAHUN 20.....\n\n1. Perayu\n\n2. Suruhanjaya Komunikasi dan Multimedia Malaysia\n\n3. Mana-mana pihak lain kepada rayuan, jika ada\n\nSAMAN UNTUK HADIR\n\nKepada: ...................................................................................\n\n...................................................................................\n\n(Masukkan nama penuh dan alamat orang yang dipanggil\n\nuntuk hadir di hadapan Tribunal)\n\nBAHAWASANYA perayu telah memfailkan suatu rayuan bagi mendapatkan\n\nsuatu keputusan berhubung dengan suatu suruhan bertulis/penentuan/arahan/\n\nkeputusan* yang telah dibuat oleh Suruhanjaya Komunikasi dan Multimedia\n\nMalaysia dan didapati bahawa tuan/puan boleh memberikan keterangan yang\n\nmaterial bagi pihak perayu/Suruhanjaya Komunikasi dan Multimedia Malaysia*.\n\nTuan/puan dengan ini dipanggil untuk hadir di hadapan Tribunal Rayuan\n\nKeselamatan dalam Talian di ……………............................................................................\n\n(alamat tempat pendengaran rayuan) pada………….... hari bulan ………………. 20…....\n\npada pukul …………… pagi/petang* untuk memberikan keterangan bagi pihak\n\nperayu/Suruhanjaya Komunikasi dan Multimedia Malaysia* dan untuk kekal\n\nsemasa pendengaran rayuan sehingga Tribunal Rayuan Keselamatan dalam\n\nTalian mengarahkan selainnya.\n\nTuan/puan juga dikehendaki untuk membawa bersama tuan/puan\n\ndan mengemukakan pada masa dan di tempat yang disebut dokumen\n\nyang berikut**: (nyatakan dokumen untuk dikemukakan)\n\n........................................................................................................................................................................\n\n........................................................................................................................................................................\n\n.......................................................................................................................................................................\n\nBertarikh pada ……………………… hari bulan ………………….. 20……….\n\n(METERAI)\n\n..........................................\n\nSetiausaha\n\nTribunal Rayuan Keselamatan\n\ndalam Talian\n\nCATATAN:\n\n* Potong mana-mana yang tidak berkenaan\n\n** Jika tiada dokumen dikehendaki untuk dikemukakan, sila tulis \"Tiada\"\n\nBORANG F\n\n[Perenggan 21(1)(a)]\n\nAKTA KESELAMATAN DALAM TALIAN 2025\n\nPERATURAN-PERATURAN KESELAMATAN DALAM TALIAN\n\n(TRIBUNAL RAYUAN KESELAMATAN DALAM TALIAN) 2025\n\nDALAM PERKARA TRIBUNAL RAYUAN KESELAMATAN DALAM TALIAN\n\nDI ......................................................................\n\nDI NEGERI .................................................. MALAYSIA\n\nNO. RAYUAN ........... TAHUN 20.....\n\nNOTIS PENARIKAN BALIK RAYUAN\n\nSILA AMBIL PERHATIAN bahawa perayu menarik balik keseluruhan rayuan ini\n\nterhadap Suruhanjaya Komunikasi dan Multimedia Malaysia.\n\nBertarikh pada ………… hari bulan ……………………… 20……\n\n..........................................\n\nPerayu\n\nKepada:\n\n(1) Setiausaha kepada Tribunal Rayuan Keselamatan dalam Talian\n\n(2) Suruhanjaya Komunikasi dan Multimedia Malaysia\n\n(3) Mana-mana pihak lain kepada rayuan, jika ada\n\nJADUAL KEDUA\n\n[Subperaturan 3(1) dan perenggan 8(3)(b)]\n\nFI\n\n(1)\n\nBil.\n\n(2)\n\nPerihalan\n\n(3)\n\nFi (RM)\n\n1. Pemfailan notis rayuan 1,000.00\n\n2. Rekod rayuan 0.50 setiap muka surat\n\n3. Keputusan Tribunal 50.00 setiap satu salinan\n\n4. Salinan diperakui sah\n\n(a) suruhan bertulis/penentuan/arahan/\n\nkeputusan, mengikut mana-mana yang\n\nberkenaan, Suruhanjaya Komunikasi\n\ndan Multimedia Malaysia\n\n(b) pernyataan fakta kes\n\n(c) alasan Suruhanjaya Komunikasi dan\n\nMultimedia Malaysia berhubung\n\ndengan suruhan bertulis/penentuan/\n\narahan/keputusan, mengikut\n\nmana-mana yang berkenaan\n\n(d) dokumen lain yang berkaitan\n\n10.00 setiap satu salinan\n\nDibuat 29 Disember 2025\n\n[KKD.PUU.(S).100-1/2/20; PN(PU2)777]\n\nAHMAD FAHMI BIN MOHAMED FADZIL\n\nMenteri Komunikasi\n\nONLINE SAFETY ACT 2025\n\nONLINE SAFETY (ONLINE SAFETY APPEAL TRIBUNAL) REGULATIONS 2025\n\n________________________\n\nARRANGEMENT OF REGULATIONS\n\n_______________________\n\nPART I\n\nPRELIMINARY\n\nRegulation\n\n1. Citation and commencement\n\n2. Interpretation\n\nPART II\n\nCOMMENCEMENT OF APPEAL PROCEEDINGS\n\n3. Notice of appeal\n\n4. Notice of appeal to be signed and sealed\n\n5. Register of Appeal\n\n6. Service of notice of appeal on the Commission and any other party to the appeal\n\n7. Delivery of documents by the Commission to the Tribunal\n\n8. Record of appeal\n\n9. Entry of appeal in the list of appeal\n\n10. Service of record of appeal\n\n11. Notice of hearing of appeal\n\n12. Amendment of notice of appeal\n\nPART III\n\nHEARING OF APPEAL\n\nRegulation\n\n13. Quorum of Tribunal\n\n14. Sitting of Tribunal\n\n15. Summons to appear\n\n16. Right to attend and be heard in the appeal proceedings\n\n17. Non-appearance of parties\n\n18. Appeals may be heard together\n\n19. Procedure for hearing of appeal\n\n20. Adjournment\n\n21. Withdrawal of appeal\n\n22. Decision of Tribunal\n\n23. Register of decision of Tribunal\n\nPART IV\n\nGENERAL\n\n24. Official seal\n\n25. Tribunal Registry\n\n26. Chairman or member of Tribunal unable to conclude appeal proceedings\n\n27. Witness expenses\n\n28. Non-compliance\n\n29. Record of proceedings\n\n30. Return of documents, etc.\n\nFIRST SCHEDULE\n\nSECOND SCHEDULE\n\nONLINE SAFETY ACT 2025\n\nONLINE SAFETY (ONLINE SAFETY APPEAL TRIBUNAL) REGULATIONS 2025\n\nIN exercise of the powers conferred by paragraphs 81(2)(g) and (i) of the Online\n\nSafety Act 2025 [Act 866], the Minister makes the following regulations:\n\nPART I\n\nPRELIMINARY\n\nCitation and commencement\n\n1. (1) These regulations may be cited as the Online Safety (Online Safety\n\nAppeal Tribunal) Regulations 2025.\n\n(2) These Regulations come into operation on 1 January 2026.\n\nInterpretation\n\n2. In these Regulations, unless the context otherwise requires—\n\n\"any other party to the appeal\" means any party, other than the appellant,\n\nwho is aggrieved by the written instruction, determination, directions or decision\n\nof the Commission that is appealed against, if any;\n\n\"Chairman\" means the Chairman of the Tribunal appointed under\n\nparagraph 40(2)(a) of the Act;\n\n\"appellant\" means the person who filed the notice of appeal;\n\n\"Secretary\" means the Secretary to the Tribunal designated by the Minister\n\nunder subsection 51(1) of the Act;\n\n\"Tribunal\" means the Online Safety Appeal Tribunal established under section 40\n\nof the Act.\n\nPART II\n\nCOMMENCEMENT OF APPEAL PROCEEDINGS\n\nNotice of appeal\n\n3. (1) An appeal to the Tribunal shall be commenced by a notice of appeal\n\nin Form A of the First Schedule and accompanied by fees as specified in the\n\nSecond Schedule.\n\n(2) The notice of appeal referred to in subregulation (1) shall be filed\n\nwith the Tribunal within the period of forty-five days after the date of service\n\nof notification of the written instruction, determination, directions or decision\n\nfrom the Commission appealed against.\n\n(3) A notice of appeal shall be accompanied by such supporting documents\n\nas the Tribunal may determine.\n\n(4) The number of copies of the notice of appeal that shall be filed is based\n\non the following requirements:\n\n(a) one copy for the purposes of the Tribunal;\n\n(b) one copy to be served on the Commission;\n\n(c) as many copies to be served on any other party to the appeal\n\nas the appellant may determine; and\n\n(d) as many copies for the purposes of the appellant.\n\nNotice of appeal to be signed and sealed\n\n4. Upon receiving a notice of appeal, the Secretary shall—\n\n(a) sign all copies of the notice of appeal and record the date the notice\n\nof appeal is signed; and\n\n(b) cause all copies of the notice of appeal to be sealed with the seal of the\n\nTribunal together with the date on which the seal of the Tribunal is affixed.\n\nRegister of Appeal\n\n5. (1) The Secretary shall cause the particulars of an appeal filed to be entered\n\nin the Register of Appeal.\n\n(2) The Register of Appeal referred to in subregulation (1) shall be kept\n\nand maintained by the Secretary in such form as he thinks fit.\n\n(3) Every appeal shall be distinguished by a number and the year in which\n\nthe appeal is filed.\n\n(4) For the purposes of subregulation (3), the Secretary shall cause\n\nthe following particulars of an appeal to be entered in the Register of Appeal:\n\n(a) the appeal case number;\n\n(b) the date the notice of appeal is filed;\n\n(c) the information of the parties to the appeal; and\n\n(d) the status of the appeal case.\n\nService of notice of appeal on the Commission and any other party to the appeal\n\n6. (1) After the particulars of appeal have been entered in the Register of Appeal,\n\nthe Secretary shall—\n\n(a) keep a copy of the signed and sealed notice of appeal; and\n\n(b) cause all other copies of the notice of appeal filed for the purposes\n\nof paragraphs 3(4)(b), (c) and (d) which have been signed\n\nand sealed to be returned to the appellant.\n\n(2) The appellant shall serve a copy of the notice of appeal signed and sealed\n\nby the Tribunal on the Commission and any other party to the appeal within\n\nthe period of fourteen days from the date of receipt of such copies of the notice of appeal\n\nfrom the Secretary.\n\n(3) A proof of service of notice of appeal under subregulation (2) shall be\n\nfiled by the appellant to the Secretary in Form B of the First Schedule.\n\nDelivery of documents by the Commission to the Tribunal\n\n7. The Commission shall, within the period of forty-five days after the date\n\nof the service of the notice of appeal on the Commission, deliver to the Tribunal\n\nthe following documents:\n\n(a) the written instruction, determination, directions or decision of the\n\nCommission that is appealed against;\n\n(b) a statement of the facts of the case;\n\n(c) the grounds for the written instruction, determination, directions\n\nor decision of the Commission that is appealed against; and\n\n(d) such other relevant documents as the Commission thinks appropriate.\n\nRecord of appeal\n\n8. (1) The Secretary shall, within the period of fourteen days from the date\n\nof receipt of the documents specified in regulation 7, complete the preparation\n\nof sufficient copies of the record of appeal for the use of the Tribunal and for service\n\non the appellant and any other party to the appeal.\n\n(2) The record of appeal shall contain the following documents:\n\n(a) a certified true copy of the notice of appeal; and\n\n(b) a certified true copy of the documents specified in regulation 7.\n\n(3) Upon the record of appeal referred to in subregulation (1) has been\n\nprepared completely, the Secretary shall—\n\n(a) submit a notice of record of appeal in Form C of the First Schedule\n\nto the appellant to notify that the record of appeal has been\n\ncompleted; and\n\n(b) request the appellant to make the payment of fees for the record\n\nof appeal as prescribed in column (3) of the Second Schedule within\n\nthe period of fourteen days from the date the appellant receives\n\nthe notice of record of appeal under paragraph (a) to defray\n\nthe cost of preparing the record of appeal, unless otherwise directed\n\nby the Secretary.\n\n(4) The Secretary shall supply sufficient copies of the record of appeal\n\nto the appellant to be served on the Commission and any other party to the appeal\n\nafter the payment of fees for the record of appeal has been made by the appellant.\n\n(5) Where the appellant fails to make the payment of fees for the record\n\nof appeal as prescribed within the period specified in paragraph (3)(b), the appeal\n\nshall be deemed to have been withdrawn by the appellant.\n\nEntry of appeal in the list of appeal\n\n9. Upon the record of appeal has been delivered to the appellant under regulation 8,\n\nthe Secretary shall—\n\n(a) enter the appeal in the list of appeal which is to be heard by the Tribunal;\n\nand\n\n(b) give a notification in writing to the appellant and the Commission\n\nof the entry of appeal in the list of appeal which is to be heard\n\nby the Tribunal.\n\nService of record of appeal\n\n10. (1) The appellant shall, within the period of fourteen days from the date\n\non which the appellant receives the record of appeal under regulation 8,\n\nserve the record of appeal on the Commission and any other party to the appeal.\n\n(2) A proof of service of the record of appeal under subregulation (1)\n\nshall be filed by the appellant to the Secretary in Form B of the First Schedule.\n\nNotice of hearing of appeal\n\n11. (1) The Secretary shall, within the period of fourteen days from the date\n\nof receipt of proof of service of the record of appeal under subregulation 10(2),\n\nfix the date, time and place of hearing of the appeal.\n\n(2) The date of hearing of the appeal shall not be later than one hundred\n\nand fifty days from the date the notice of appeal is filed under subregulation 3(1).\n\n(3) The Secretary shall serve a notice of hearing of the appeal in Form D\n\nof the First Schedule to the appellant and the Commission not less than twenty-one\n\ndays before the date of hearing of the appeal.\n\n(4) The Tribunal may, on its own motion or on the application of the appellant\n\nor the Commission, adjourn the date of hearing of the appeal by giving a reasonable\n\nnotice to all parties involved in the hearing of the appeal.\n\n(5) The appellant shall, within a reasonable period before the hearing\n\nof the appeal, serve a notice of hearing of the appeal or notification of the adjournment\n\nof the hearing of the appeal to any other party to the appeal.\n\nAmendment of notice of appeal\n\n12. (1) The appellant may, at any time before the date of hearing of the appeal,\n\nfile an application to amend the notice of appeal to the Tribunal.\n\n(2) The application referred to in subregulation (1) shall be accompanied\n\nby a copy of the proposed amendment to the notice of appeal.\n\n(3) The Chairman may, at his discretion, allow or reject an application\n\nfiled under subregulation (1).\n\n(4) Notwithstanding subregulation (3), the Chairman shall not grant leave\n\nto amend the notice of appeal filed under regulation 3, if the Chairman is satisfied\n\nthat the new ground of appeal presented by the appellant is—\n\n(a) based on any matter of fact or law which is known to the appellant\n\nonly after the notice of appeal is filed;\n\n(b) impracticable to insert in the notice of appeal when the notice\n\nof appeal is filed; or\n\n(c) inserted due to exceptional circumstances.\n\n(5) Where a leave is granted by the Chairman under subregulation (3),\n\nthe appellant shall, within the period of fourteen days from the date on which\n\nthe amendment to the notice of appeal is allowed by the Chairman, file an amended\n\nnotice of appeal to the Tribunal to be signed and sealed by the Secretary.\n\n(6) The Secretary shall cause the amended notice of appeal to be signed\n\nand sealed, and to be returned to the appellant.\n\n(7) Upon the receipt of an amended notice of appeal by the appellant\n\nunder subregulation (6), regulations 6, 8, 10 and 11 shall apply mutatis mutandis,\n\nas the case may be, in respect of the amended notice of appeal.\n\nPART III\n\nHEARING OF APPEAL\n\nQuorum of Tribunal\n\n13. The Chairman shall determine the composition of the quorum for the Tribunal\n\nin all proceedings before the Tribunal by taking into consideration the subject matter\n\nof the appeal and the relevant expertise of the members.\n\nSitting of Tribunal\n\n14. (1) All proceedings before the Tribunal shall be open to the public.\n\n(2) All proceedings before the Tribunal shall be heard at the office\n\nof the Tribunal, unless otherwise directed by the Tribunal to be held at any convenient\n\nplace for Tribunal.\n\n(3) Notwithstanding subregulation (1), the Chairman may if he thinks fit,\n\nat any stage of the proceedings—\n\n(a) order the proceedings to be held in a closed session; or\n\n(b) direct any member of the public or any particular individual\n\nnot to have access to, or be in, the place where the proceedings\n\nof the Tribunal are being held.\n\n(4) Where any proceedings or such part of any proceedings are affected\n\nby an order made by the Chairman under subregulation (3), the Chairman may,\n\nif in his opinion the evidence or other material presented to the Tribunal\n\nis of a confidential nature, direct that such evidence or other material not to be\n\npublished or its publication to be restricted or authorize its publication\n\nbut without disclosing the identity of the parties in the proceedings.\n\nSummons to appear\n\n15. (1) Any party to the hearing of an appeal before the Tribunal may, not less than\n\nseven days before the date of hearing of the appeal, apply in writing to the Secretary\n\nto issue a summons to any person to attend as a witness to give any evidence\n\nin respect of the appeal before the Tribunal.\n\n(2) Any person summoned as a witness under subregulation (1) may be\n\nrequired to produce any book, paper, record, documents or other things, whether\n\nin physical or electronic form, which is in his possession or under his control,\n\nin respect of the appeal.\n\n(3) Upon receipt of an application under subregulation (1), the Secretary\n\nshall—\n\n(a) issue a summons to attend to any person required to attend\n\nas a witness before the Tribunal in Form E of the First Schedule,\n\nwhich shall bear the signature of the Secretary and the seal\n\nof the Tribunal; and\n\n(b) serve the summons to attend personally on the person so\n\nsummoned.\n\n(4) Where the person who is summoned under subregulation (3) fails\n\nto comply with the summons, the Tribunal may exercise its power in respect\n\nof the punishment for contempt under subsection 48(2) of the Act.\n\nRight to attend and be heard in the appeal proceedings\n\n16. (1) Every party to an appeal shall be entitled to attend and be heard\n\nat the hearing of the appeal before the Tribunal.\n\n(2) At the hearing of an appeal before the Tribunal—\n\n(a) the Commission may be represented by any member of the\n\nCommission, or any of its employees, or its advocate or solicitor; and\n\n(b) the appellant or any other party to the appeal may appear\n\non his own behalf, or be represented by any of his employees,\n\nor his advocate or solicitor.\n\n(3) Where the appellant, the Commission or any other party to the appeal\n\nis represented by his or its appointed advocate or solicitor, the appellant,\n\nthe Commission or any other party to the appeal, as the case may be, shall—\n\n(a) issue a letter of authorization to his or its appointed advocate\n\nor solicitor; and\n\n(b) submit the letter of authorization to the Tribunal before\n\nthe date of hearing of the appeal.\n\nNon-appearance of parties\n\n17. Where any party to the appeal does not appear on the date, time\n\nand at the place fixed for the hearing of an appeal, the Tribunal may, where the Tribunal\n\nis satisfied that a notice of hearing of the appeal has been duly served on the absent\n\nparty under subregulation 11(5), hear and determine the appeal.\n\nAppeals may be heard together\n\n18. The Tribunal may, on the application of the appellant or the Commission,\n\norder two or more appeals to be heard together if the Tribunal finds that the subject\n\nmatter of the appeal—\n\n(a) arises from the same written instruction, determination, directions\n\nor decision of the Commission; or\n\n(b) involves issues of the same or similar nature in relation to the written\n\ninstruction, determination, directions or decision of the Commission.\n\nProcedure for hearing of appeal\n\n19. The following procedure shall apply in relation to the hearing of an appeal\n\nbefore the Tribunal:\n\n(a) the appellant shall commence and shall have the right to give\n\na closing reply, unless the Chairman directs otherwise;\n\n(b) the Commission and any other party to the appeal shall be heard\n\nin the order determined by the Chairman, unless the Chairman determines\n\notherwise;\n\n(c) the appellant and the Commission shall be entitled to call for evidence\n\nand cross-examine the persons giving evidence and may submit\n\nto the Tribunal in respect of all matters raised in the appeal proceedings;\n\n(d) evidence may be given orally or, if the appellant and the Commission\n\nconsent or the Chairman so orders, by affidavit, but the Chairman\n\nmay at any stage of the appeal proceedings, make an order\n\nrequiring the personal attendance of the witness for examination\n\nand cross-examination;\n\n(e) all evidence shall, be given on oath or affirmation, unless otherwise\n\ndirected by the Chairman and such oath or affirmation shall be\n\nadministered by the Secretary or such other person as the Chairman\n\nmay authorize;\n\n(f) the Tribunal may put any question to any witness appearing before\n\nit and may require him to produce any document that is in his power\n\nto produce;\n\n(g) any written statement or documentary evidence tendered shall be marked\n\nas exhibits and shall form part of the record of the appeal proceedings;\n\n(h) the Chairman shall, take or cause to be taken, notes of the evidence\n\ngiven and so far as appears desirable, of the submissions made\n\nby the appellant and the Commission;\n\n(i) the Tribunal may inspect any place or thing in respect of any question\n\narises in the appeal and such expenses relating to it shall be costs\n\nin the appeal proceedings; and\n\n(j) after the completion of the hearing of the appeal or on such other\n\ndate as the Chairman may determine, the decision on the appeal\n\nby the Tribunal together with the detailed grounds for the decision\n\non the appeal shall be submitted by the Chairman.\n\nAdjournment\n\n20. The Tribunal may, from time to time, either on its own motion or upon\n\nan application by the appellant or the Commission, adjourn the hearing of an appeal.\n\nWithdrawal of appeal\n\n21. (1) At any time before the Tribunal makes a decision on the appeal,\n\nthe appellant—\n\n(a) may file a notice of withdrawal of appeal in Form F of the\n\nFirst Schedule; and\n\n(b) shall serve a copy of the notice of withdrawal of appeal on the\n\nCommission and any other party to the appeal.\n\n(2) The Secretary shall cause the appeal to be struck out from the list of appeal\n\nupon the appellant files a notice of withdrawal of appeal with the Tribunal\n\nunder paragraph (1)(a).\n\n(3) Where the appellant files a notice of withdrawal of appeal under\n\nparagraph (1)(a), the appellant shall be liable to pay for all expenses or costs relating\n\nto the appeal incurred by the Commission and any other party to the appeal\n\nas the Tribunal may determine.\n\nDecision of Tribunal\n\n22. (1) After considering an appeal, the Tribunal may confirm, vary, modify\n\nor revoke the written instruction, determination, directions or decision\n\nof the Commission which is the subject matter of an appeal.\n\n(2) The decision of the Tribunal in relation to an appeal shall—\n\n(a) contain the grounds for the decision; and\n\n(b) be made in writing, dated, signed by the members of the Tribunal\n\nconstituting the quorum of the appeal and sealed with the seal\n\nof the Tribunal.\n\n(3) Where any member of the Tribunal who has made a decision on any appeal\n\nis unable to sign the decision by reason of his death, illness, absence or for any other\n\ncause, the decision shall be signed by the remaining members who formed the quorum.\n\nRegister of decision of Tribunal\n\n23. (1) The Secretary shall maintain a register of all the decisions of the Tribunal.\n\n(2) The register of decisions of the Tribunal shall be made available\n\nat the Tribunal Registry for inspection by the public during office hours.\n\nPART IV\n\nGENERAL\n\nOfficial seal\n\n24. (1) The Tribunal shall have an official seal which shall be kept in the\n\ncustody of the Secretary.\n\n(2) Every summons, notice, award, order, decision or other documents issued,\n\nmade or given by the Tribunal shall be signed by the Chairman or the Secretary,\n\nand sealed with the seal of the Tribunal.\n\nTribunal Registry\n\n25. The filing and service of any document and payment of fees, relating to any appeal\n\nby any party to the appeal before the Tribunal shall be done at the Tribunal Registry\n\nor by electronic means as the Secretary may determine.\n\nChairman or member of Tribunal unable to conclude appeal proceedings\n\n26. (1) Where the Chairman or any member of the Tribunal who commenced\n\nthe hearing of an appeal and who after having heard the whole or any part of the appeal\n\nproceedings is unable to continue and complete the appeal proceedings by reason\n\nof his death, illness, expiry of term of appointment or for any other cause, the Minister\n\nmay appoint a new Chairman or member of the Tribunal to replace the Chairman\n\nor the member of the Tribunal.\n\n(2) Where the new Chairman or member of the Tribunal appointed\n\nunder subregulation (1) is chosen to form the quorum of the appeal, the new Chairman\n\nor member of the Tribunal may—\n\n(a) continue the appeal proceedings to consider the evidence recorded\n\nand continue the appeal proceedings from the stage at which\n\nthe appeal proceedings were left; or\n\n(b) recommence the appeal proceedings.\n\nWitness expenses\n\n27. The expenses allowed under paragraph 48(1)(e) of the Act for the purposes\n\nof any person summoned by the Tribunal shall—\n\n(a) be assessed by the Secretary in accordance with the scale used in civil\n\nproceedings in the subordinate court; and\n\n(b) be paid by the appellant, the Commission or any other party to the appeal,\n\nas the case may be, as the Tribunal may direct.\n\nNon-compliance\n\n28. Non-compliance to any of these regulations shall not cause any proceedings\n\nbefore the Tribunal and any summons, notice, award, order, decision or other\n\ndocuments issued, made or given by the Tribunal to be set aside or quashed,\n\nunless the Tribunal otherwise directs.\n\nRecord of proceedings\n\n29. The Secretary shall keep record of all proceedings of the Tribunal by making\n\nentries in the respective appeal file.\n\nReturn of documents, etc.\n\n30. (1) After the completion of an appeal proceedings before the Tribunal,\n\nthe Tribunal may, order that any book, paper, documents, record or other things\n\nproduced during the appeal proceedings, be delivered to the rightful owner.\n\n(2) The Secretary shall issue a notice in writing of any order made\n\nby the Tribunal under subregulation (1) to the rightful owner of any book, paper,\n\ndocuments, record or other things.\n\n(3) Where no person takes delivery of any book, paper, documents, record\n\nor other things referred to in subregulation (1) after the expiry of period of six months\n\nfrom the date the notice in writing is issued, the ownership in the book, paper, documents,\n\nrecord or other things shall be deemed to have passed to, and become vested in,\n\nthe Tribunal and the Tribunal may deal with it in accordance with such manner\n\nas it thinks fit.\n\nFIRST SCHEDULE\n\nFORM A\n\n[Subregulation 3(1)]\n\nONLINE SAFETY ACT 2025\n\nONLINE SAFETY (ONLINE SAFETY APPEAL TRIBUNAL) REGULATIONS 2025\n\nIN THE MATTER OF THE ONLINE SAFETY APPEAL TRIBUNAL\n\nAPPEAL NO. ........... YEAR 20....\n\nName of appellant: ……………………………………...........................................................................................\n\nIdentity card number/company registration number*: ………………….............................................\n\nNumber and licence type (if applicable): .................................................................................................\n\nAddress of appellant: …………………………………….......................................................................................\n\n......................................................................................................................................................................................\n\nAddress of advocate and solicitor of appellant (if applicable): ......................................................\n\n.....................................................................................................................................................................................\n\nTelephone number: ...........................................................................................................................................\n\nFax number: .........................................................................................................................................................\n\nE-mail: .....................................................................................................................................................................\n\nMobile phone number: .....................................................................................................................................\n\nNOTICE OF APPEAL\n\nAppellant who is aggrieved or whose interest is adversely affected by a written\n\ninstruction/determination/directions/decision* of the Malaysian Communications\n\nand Multimedia Commission given on the ................................... day of ......................... 20 ..........\n\nappeals to the Online Safety Appeal Tribunal against the written\n\ninstruction/determination/directions/decision* of the Commission.\n\nThe particulars of the appeal are as follows:\n\n(a) particulars of the written instruction/determination/directions/decision*\n\nappealed against:\n\n(description of the written instruction, determination, directions or decision\n\nand detailed particulars, the substance of the written instruction, determination,\n\ndirections or decision appealed against, specific particulars of the points\n\nand the grounds of appeal on which the appellant relies);\n\n(b) list of relevant supporting documents enclosed; and\n\n(c) relief or remedy sought.\n\nDated this ............ day of ......................... 20.....\n\n ..........................................\n\n Appellant\n\n(SEAL)\n\n.........................................\n\nSecretary\n\nOnline Safety Appeal\n\nTribunal\n\nTo:\n\n(1) Malaysian Communications and Multimedia Commission\n\n(2) Any other party to the appeal, if any\n\nNOTE:\n\n* Delete whichever is not applicable\n\nFORM B\n\n[Subregulations 6(3) and 10(2)]\n\nONLINE SAFETY ACT 2025\n\nONLINE SAFETY (ONLINE SAFETY APPEAL TRIBUNAL) REGULATIONS 2025\n\nIN THE MATTER OF THE ONLINE SAFETY APPEAL TRIBUNAL\n\nAT......................................................................\n\nIN THE STATE OF ..................................................MALAYSIA\n\nAPPEAL NO. ........... YEAR 20....\n\nACKNOWLEDGEMENT OF SERVICE\n\n(1) This document was served by way of personal service on ............................................\n\n(who is known to me) (or who was pointed out to me by ...............................................)\n\n(or who admitted to me that he was) at ................................................. on the .............\n\nday of ................ 20.......at. .............. o' clock in the morning/afternoon*.\n\n(2) This document was served by leaving a copy to the last-known address\n\nof residence or place of business at ………………………………………………………………….\n\nin an addressed envelope.\n\n(3) This document was served by way of prepaid registered post\n\naddressed to ............................................. (at his address of service) or (last-known\n\naddress).\n\nDated this ............... day of .......................... 20.....\n\n.............................................\n\n Signature\n\nNOTE:\n\n* Delete whichever is not applicable\n\nFORM C\n\n[Paragraph 8(3)(a)]\n\nONLINE SAFETY ACT 2025\n\nONLINE SAFETY (ONLINE SAFETY APPEAL TRIBUNAL) REGULATIONS 2025\n\nIN THE MATTER OF THE ONLINE SAFETY APPEAL TRIBUNAL\n\nAT......................................................................\n\nIN THE STATE OF .................................................. MALAYSIA\n\nAPPEAL NO. ........... YEAR 20....\n\nNOTICE OF RECORD OF APPEAL\n\nTAKE NOTICE that the record of appeal in the above referred proceedings\n\nis prepared completely and that the costs of preparing the record of appeal in the sum\n\nof RM ........................................* (Ringgit Malaysia) is due from you.\n\nTAKE NOTICE that if you fail to pay the said sum within the period of fourteen\n\ndays from the date of service of this notice, your appeal shall be dismissed.\n\nDated this ............... day of ............................... 20.....\n\n (SEAL)\n\n..........................................\n\nSecretary\n\nOnline Safety Appeal\n\nTribunal\n\nTo: ...................................................................\n\n...................................................................\n\n...................................................................**\n\nNOTE:\n\n* Insert the exact amount. If no balance, please state \"Nil\"\n\n** Insert name and address of the appellant\n\nFORM D\n\n[Subregulation 11(3)]\n\nONLINE SAFETY ACT 2025\n\nONLINE SAFETY (ONLINE SAFETY APPEAL TRIBUNAL) REGULATIONS 2025\n\nIN THE MATTER OF THE ONLINE SAFETY APPEAL TRIBUNAL\n\nAT ......................................................................\n\nIN THE STATE OF ................................................... MALAYSIA\n\nAPPEAL NO. ........... YEAR 20.....\n\nNOTICE OF HEARING OF APPEAL\n\nTAKE NOTICE that the appeal in the above matter will be\n\nheard on the .......................................... day of ........................ 20.......\n\nat ......................................................................................... (the address of the place of hearing\n\nof the appeal) at ............................................. o'clock in the morning/afternoon* and\n\ncontinuing on the following days, if necessary:\n\nDated this ............... day of ................................. 20.....\n\n (SEAL)\n\n..........................................\n\nSecretary\n\nOnline Safety Appeal\n\nTribunal\n\nTo:\n\n(1) Secretary to the Online Safety Appeal Tribunal\n\n(2) Malaysian Communications and Multimedia Commission\n\n(3) Any other party to the appeal, if any\n\nNOTE:\n\n* Delete whichever is not applicable\n\nFORM E\n\n[Paragraph 15(3)(a)]\n\nONLINE SAFETY ACT 2025\n\nONLINE SAFETY (ONLINE SAFETY APPEAL TRIBUNAL) REGULATIONS 2025\n\nIN THE MATTER OF THE ONLINE SAFETY APPEAL TRIBUNAL\n\nAT ......................................................................\n\nIN THE STATE OF .................................................. MALAYSIA\n\nAPPEAL NO. ........... YEAR 20.....\n\n1. Appellant\n\n2. Malaysian Communications and Multimedia Commission\n\n3. Any other party to the appeal, if any\n\nSUMMONS TO APPEAR\n\nTo: ...................................................................................\n\n...................................................................................\n\n(Insert full name and address of the person summoned to appear\n\nbefore the Tribunal)\n\nWHEREAS the appellant has filed an appeal to obtain a decision\n\nin relation to a written instruction/determination/directions/decision* which\n\nhas been made by the Malaysian Communications and Multimedia Commission\n\nand it appears that you may give material evidence for the appellant/Malaysian\n\nCommunications and Multimedia Commission*.\n\nYou are hereby summoned to appear before the Online Safety Appeal\n\nTribunal at .................................................................................... (the address of the place\n\nof hearing of the appeal) on the .................... day of ...................................... 20........\n\nat .......................... o'clock in the morning/afternoon* to give evidence\n\nfor the appellant/Malaysian Communications and Multimedia Commission*\n\nand to remain during the hearing of the appeal until the Online Safety Appeal\n\nTribunal directs otherwise.\n\nYou are also required to bring along with you and produce at the time\n\nand place aforesaid the following documents**:\n\n(specify the documents to be produced)\n\n........................................................................................................................................................................\n\n........................................................................................................................................................................\n\n.......................................................................................................................................................................\n\nDated this ............... day of .......................... 20.....\n\n(SEAL)\n\n..........................................\n\nSecretary\n\nOnline Safety Appeal\n\nTribunal\n\nNOTE:\n\n* Delete whichever is not applicable\n\n** If no documents are required to be produced, please state \"Nil\"\n\nFORM F\n\n[Paragraph 21(1)(a)]\n\nONLINE SAFETY ACT 2025\n\nONLINE SAFETY (ONLINE SAFETY APPEAL TRIBUNAL) REGULATIONS 2025\n\nIN THE MATTER OF THE ONLINE SAFETY APPEAL TRIBUNAL\n\nAT ......................................................................\n\nIN THE STATE OF ................................................... MALAYSIA\n\nAPPEAL NO. ........... YEAR 20....\n\nNOTICE OF WITHDRAWAL OF APPEAL\n\nTAKE NOTICE that the appellant wholly withdraws this appeal against\n\nthe Malaysian Communications and Multimedia Commission.\n\nDated this ............... day of .......................... 20…...\n\n..........................................\n\nAppellant\n\nTo:\n\n(1) Secretary to the Online Safety Appeal Tribunal\n\n(2) Malaysian Communications and Multimedia Commission\n\n(3) Any other party to the appeal, if any\n\nSECOND SCHEDULE\n\n[Subregulation 3(1) and paragraph 8(3)(b)]\n\nFEES\n\n(1)\n\nNo.\n\n(2)\n\nDescription\n\n(3)\n\nFees (RM)\n\n1. Filing notice of appeal 1,000.00\n\n2. Record of appeal 0.50 per page\n\n3. Decision of Tribunal 50.00 per copy\n\n4. Certified true copy\n\n(a) written instruction/determination/\n\ndirections/decision, as the case\n\nmay be, of the Malaysian\n\nCommunications and Multimedia\n\nCommission\n\n(b) statement of the facts of the case\n\n(c) grounds of Malaysian\n\nCommunications and Multimedia\n\nCommission in relation to written\n\ninstruction/determination/directions/\n\ndecision, as the case may be\n\n(d) other relevant documents\n\n10.00 per copy\n\nMade 29 December 2025\n\n[KKD.PUU.(S).100-1/2/20; PN(PU2)777]\n\nAHMAD FAHMI BIN MOHAMED FADZIL\n\nMinister of Communications"
+   }
+  }
+ ]
+}

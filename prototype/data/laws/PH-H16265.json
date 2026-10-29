@@ -1,0 +1,52 @@
+{
+ "id": "PH-H16265",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Section Four of Commonwealth Act Numbered Four Hunched and Sixty-Five, Otherwise Known as the Residence Tax Law.",
+  "orig": "An Act to Amend Section Four of Commonwealth Act Numbered Four Hunched and Sixty-Five, Otherwise Known as the Residence Tax Law."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1940-06-07",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 557",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 1,
+ "chars": 810,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00557_1940_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 1 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00557_1940_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H16265-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Four hundred and sixty-five is an ended to read as follows:\n\"Section 4. Exemptions. - The following shall not be taxed under this Act:\na. The United States High Commissioner and members of his staff;\nb. Commissioned officers of the United States Army end Navy;\nc. Enlisted soldiers, sailors and marines of the United States Army and Navy;\nd. Civilian officers and employees of the military, naval or any other branch of the United States Government\nwho are not Filipino citizens;\ne. Diplomatic and consular representatives and officers of foreign powers;\nf. Transient visitors when their stay in the Philippines does not exceed three months; and\ng. Barrio lieutenants and their substitutes while holding office as such: Provided, however, That they shall be\nliable to the payment of the annual additional tax.\""
+   }
+  }
+ ]
+}

@@ -1,0 +1,532 @@
+{
+ "id": "ID-H516",
+ "title": {
+  "zh": "特殊教育法",
+  "en": "Law on Special Education",
+  "id": "PENDIDIKAN LUAR BIASA",
+  "orig": "PENDIDIKAN LUAR BIASA",
+  "vi": "Luật về Giáo dục Đặc biệt",
+  "th": "พระราชบัญญัติว่าด้วยการศึกษาพิเศษ",
+  "ms": "Akta tentang Pendidikan Khas"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02a",
+ "language": "id",
+ "level": "law",
+ "category": "04_劳工与行政法",
+ "status": "active",
+ "promulgatedDate": "1991",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU72-1991",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 35,
+ "chars": 34114,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PP%20NO%2072%20TH%201991.pdf&fl=P03698"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\04_劳工与行政法\\印尼_文本_1991_PENDIDIKAN LUAR BIASA.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 35 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H516-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\n\nDalam Peraturan Pemerintah ini yang dimaksud dengan:\n1. Pendidikan luar biasa adal ah pendidikan yang khusus\ndiselenggarakan bagi peserta didik yang menyandang kelainan fisik\ndan/atau mental.\n2. Satuan pendidikan luar biasa adalah sekolah yang\nmenyelenggarakan pendidikan luar biasa.\n3. Rehabilitasi adalah upaya bant uan medik, sosial, pendidikan dan\nketerampilan yang terkoordinasi untuk melatih peserta didik yang\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nmenyandang kelainan agar dapat mencapai kemampuan\nfungsionalnya setinggi mungkin.\n4. Anak didik adalah peserta didik pada Taman Kanak-kanak Luar\nBiasa.\n5. Siswa adalah peserta didik pada Sekolah Dasar Luar Biasa, Sekolah\nLanjutan Tingkat Pertama Luar Biasa, dan Sekolah Menengah Luar\nBiasa.\n6. Orang tua adalah ayah dan/atau ibu atau wali peserta didik yang\nbersangkutan.\n7. Menteri adalah Menteri Pendidikan dan Kebudayaan.\n8. Menteri lain adalah Menteri yang bertanggung jawab atas\npenyelenggaraan satuan pendidikan luar biasa di luar lingkungan\nDepartemen Pendidikan dan Kebudayaan.\n\nBAB II\nTUJUAN PENDIDIKAN LUAR BIASA"
+   }
+  },
+  {
+   "id": "ID-H516-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\n\nPendidikan luar biasa bertujuan membantu peserta didik yang\nmenyandang kelainan fisik dan/atau mental agar mampu\nmengembangkan sikap, pengetahuan dan keterampilan sebagai pribadi\nmaupun anggota masyarakat dalam mengadakan hubungan\ntimbal-balik dengan lingkungan sosial, budaya dan alam sekitar serta\ndapat mengembangkan kemampuan dalam dunia kerja atau mengikuti\npendidikan lanjutan.\n\n\n\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nBAB III\nJENIS KELAINAN PESERTA DIDIK"
+   }
+  },
+  {
+   "id": "ID-H516-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\n\n(1) Jenis kelainan peserta didik terdiri atas kelainan fisik dan/atau\nmental dan/atau kelainan perilaku.\n(2) Kelainan fisik meliputi:\n 1. tuna netra;\n 2. tuna rungu;\n 3. tuna daksa;\n(3) Kelainan mental meliputi :\n 1. tuna grahita ringan;\n 2. tuna grahita sedang;\n(4) Kelainan perilaku meliputi tuna laras.\n(5) Kelainan peserta didik dapat juga berwujud sebagai kelainan\nganda.\n\nBAB IV\nBENTUK SATUAN DAN LAMA PENDIDIKAN"
+   }
+  },
+  {
+   "id": "ID-H516-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\n\nBentuk satuan pendidikan luar biasa terdiri atas :\n1. Sekolah Dasar Luar Biasa (SDLB);\n2. Sekolah Lanjutan Tingkat Pertama Luar Biasa (SLTPLB);\n3. Sekolah Menengah Luar Biasa (SMLB); dan\n4. Bentuk lain yang ditetapkan oleh Menteri.\n\n\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H516-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\n\nLama pendidikan pada:\n1. Sekolah Dasar Luar Biasa sekurang-kurangnya enam tahun;\n2. Sekolah Lanjutan Tingkat Pertama Luar Biasa sekurang-kurangnya\ntiga tahun; dan\n3. Sekolah Menengah Luar Biasa sekurang-kurangnya tiga tahun."
+   }
+  },
+  {
+   "id": "ID-H516-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\n\n(1) Pada pendidikan prasekolah, sa tuan pendidikan luar biasa dapat\ndiselenggarakan dalam Taman Kanak-kanak Luar Biasa.\n(2) Lama pendidikan Taman Kanak-kanak Luar Biasa satu sampai tiga\ntahun.\n\nBAB V\nSYARAT DAN TATA CARA PENDIRIAN"
+   }
+  },
+  {
+   "id": "ID-H516-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\n\n(1) Pendirian satuan pendidikan luar biasa yang diselenggarakan oleh\nPemerintah atau masyarakat harus memenuhi persyaratan :\n 1. sekurang-kurangnya lima orang peserta didik;\n 2. tenaga kependidikan terdiri atas sekurang-kurangnya seorang\nguru kelas, dan seorang tenaga ahli;\n 3. kurikulum didasarkan atas kurikulum nasional yang ditetapkan\noleh Menteri;\n 4. sumber dana tetap yang menjamin kelangsungan\npenyelenggaraan pendidikan dan tidak akan merugikan siswa;\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n 5. program rehabilitasi;\n 6. tempat belajar dan ruang rehabilitasi;\n 7. buku pelajaran dan peralatan pendidikan khusus;\n 8. buku pedoman guru; dan\n 9. peralatan rehabilitasi.\n(2) Pendirian satuan pendidikan luar biasa yang diselenggarakan oleh\nmasyarakat selain memenuhi ketentuan sebagaimana dimaksud\ndalam ayat (1) harus pula memenuhi persyaratan\npenyelenggaranya berbentuk yayasan.\n(3) Pelaksanaan ketentuan sebagaimana dimaksud dalam ayat (1)\ndan ayat (2) diatur oleh Menteri."
+   }
+  },
+  {
+   "id": "ID-H516-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n\n(1) Tata cara pendirian satuan pendidikan luar biasa yang\ndiselenggarakan oleh Pemerintah atau masyarakat meliputi:\n 1. pengajuan permohonan pendirian kepada Menteri yang disertai\npersyaratan pendirian;\n 2. penelaahan terhadap permohonan tersebut pada butir 1; dan\n 3. penetapan pendirian.\n(2) Pelaksanaan ketentuan sebagaimana dimaksud dalam ayat (1)\ndiatur oleh Menteri.\n\n\n\n\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nBAB VI\nPENYELENGGARAAN PENDIDIKAN"
+   }
+  },
+  {
+   "id": "ID-H516-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n\n(1) Satuan pendidikan luar biasa menyelenggarakan kegiatan\nbelajar-mengajar berdasarkan ketentuan sebagaimana dimaksud\ndalam Pasal 7.\n(2) Untuk membantu penyelenggaraan kegiatan pendidikan, pada\nsetiap satuan pendidikan luar biasa dapat dibentuk kelompok ahli\nuntuk membantu setiap penyelenggaraan pendidikan.\n(3) Pembentukan, susunan, tugas, dan fungsi serta pembinaan\nkelompok ahli sebagaimana dimaksud dalam ayat (2) diatur oleh\nMenteri.\n\nBAB VII\nPENGELOLAAN"
+   }
+  },
+  {
+   "id": "ID-H516-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\n\nPengelolaan pendidikan luar biasa sebagai bagian dari sistem\npendidikan nasional merupakan tanggung jawab Menteri."
+   }
+  },
+  {
+   "id": "ID-H516-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\n\n(1) Pengadaan, pendayagunaan dan pengembangan tenaga\nkependidikan/tenaga ahli, kurikulum, buku pelajaran, peralatan\npendidikan khusus, buku pedoman guru, tempat belajar dari\nruang rehabilitasi dari satuan pendidikan luar biasa yang\ndiselenggarakan oleh Pemerintah merupakan tanggung jawab\nMenteri.\n(2) Pengadaan, pendayagunaan dan pengembangan program\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nrehabilitasi dan peralatan rehabilitasi dari satuan pendidikan luar\nbiasa yang diselenggarakan oleh Pemerintah merupakan tanggung\njawab Menteri setelah mendengar pertimbangan Menteri lain.\n(3) Pengadaan, pemeliharaan dan perbaikan gedung serta\npenyediaan tanah untuk Sekolah Dasar Luar Biasa yang\ndiselenggarakan oleh Pemerintah merupakan tanggung jawab\nPemerintah Daerah.\n(4) Pengadaan, pemeliharaan dan perbaikan gedung serta\npenyediaan tanah untuk Sekolah Lanjutan Tingkat Pertama Luar\nBiasa dan Sekolah Menengah Luar Biasa yang diselenggarakan\noleh Pemerintah merupakan tanggung jawab Menteri.\n(5) Pengadaan dan pendayagunaan tenaga kependidikan dan tenaga\nahli, program rehabilitasi, buku pelajaran, peralatan pendidikan\nkhusus, buku pedoman guru, peralatan rehabilitasi, tempat\nbelajar, ruang rehabilitasi, tanah dan gedung beserta\npemeliharaannya dari satuan pendidikan luarbiasa yang\ndiselenggarakan oleh masyarakat merupakan tanggung jawab\nyayasan.\n(6) Pelaksanaan ketentuan sebagaimana dimaksud dalam ayat (1),\nayat (2) dan ayat (4) diatur oleh Menteri setelah mendengar\npertimbangan Menteri lain yang terkait.\n(7) Pelaksanaan ketentuan sebagaimana dimaksud dalam ayat (3)\ndiatur oleh Menteri Dalam Negeri setelah mendengar\npertimbangan Menteri."
+   }
+  },
+  {
+   "id": "ID-H516-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n\n(1) Satuan pendidikan luar biasa yang didirikan oleh Pemerintah\ndiselenggarakan oleh Menteri.\n(2) Satuan pendidikan luar biasa yang didirikan oleh masyarakat\ndiselenggarakan oleh yayasan.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n(3) Pelaksanaan ketentuan sebagaimana dimaksud dalam ayat (1)\ndan ayat (2) diatur oleh Menteri."
+   }
+  },
+  {
+   "id": "ID-H516-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\n\n(1) Kepala Sekolah dari Satuan Pendidikan Luar Biasa bertanggung\njawab atas penyelenggaraan kegiatan pendidikan, kegiatan\nrehabilitasi, administrasi sekolah, pembinaan guru dan tenaga\nkependidikan lainnya, tenaga ahli dan pendayagunaan serta\npemeliharaan sarana dan prasarana.\n(2) Kepala Sekolah dari Satuan Pendidikan Luar Biasa dapat dibantu\noleh scorang Wakil Kepala Sekolah dalam rangka melaksanakan\nketentuan ayat (1).\n(3) Pelaksanaan ketentuan sebagaimana dimaksud dalam ayat (1)\ndan ayat (2) diatur oleh Menteri."
+   }
+  },
+  {
+   "id": "ID-H516-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\n\n(1) Kepala Sekolah dari Satuan Pendidikan Luar Biasa yang\ndiselenggarakan oleh Pemerintah bertanggung jawab atas\npenyelenggaraan kegiatan pendidikan, kegiatan rehabilitasi,\nadministrasi sekolah, pembinaan guru dan tenaga kependidikan\nlainnya, tenaga ahli dan pendayagunaan serta pemeliharaan\nsarana dan prasarana kepada Menteri.\n(2) Kepala Sekolah dari Satuan Pendidikan Luar Biasa yang\ndiselenggarakan oleh masyarakat bertanggung jawab atas\npenyelenggaraan kegiatan pendidikan, kegiatan rehabilitasi,\nadministrasi sekolah, pembinaan guru dan tenaga kependidikan\nlainnya, tenaga ahli dan pendayagunaan serta pemeliharaan\nsarana dan prasarana kepada yayasan yang menyelenggarakan\nsatuan pendidikan luar biasa yang bersangkutan.\n(3) Kepala Sekolah Dasar Luar Biasa yang diselenggarakan oleh\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nPemerintah berlanggung jawab atas pemeliharaan dan perbaikan\ngedung serta pemeliharaan tanah kepada Pemerintah Daerah.\n(4) Kepala Sekolah Lanjutan Tingkat Pertama Luar Biasa dan Sekolah\nMenengah Luar Biasa yang diselenggarakan oleh Pemerintah\nbertanggung jawab atas pemeliharaan dan perbaikan gedung\nserta pemeliharaan tanah kepada Menteri.\n(5) Pelaksanaan ketentuan sebagaimana dimaksud dalam ayat (1),\nayat (2) dan ayat (4) diatur oleh Menteri.\n(6) Pelaksanaan ketentuan sebagaimana dimaksud dalam ayat (3)\ndiatur oleh Pemerintah Daerah.\n\nBAB VIII\nKURIKULUM"
+   }
+  },
+  {
+   "id": "ID-H516-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\n\n(1) Isi program kegiatan belajar pada Taman Kanak-kanak Luar Biasa\nsedapat mungkin disesuaikan dengan program kegiatan belajar\nTaman kanak-kanak dengan memperhatikan keterbatasan\nkemampuan belajar para anak didik yang bersangkutan.\n(2) Pelaksanaan ketentuan sebagaimana dimaksud dalam ayat (1)\ndiatur oleh Menteri dan yang berkenaan dengan bidang\npengembangan agama diatur oleh Menteri setelah mendengar\npertimbangan Menteri Agama."
+   }
+  },
+  {
+   "id": "ID-H516-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\n\n(1) Isi kurikulum Sekolah Dasar Luar  Biasa, Sekolah Lanjutan Tingkat\nPertama Luar Biasa dan Sekolah Menengah Luar Biasa merupakan\nbahan kajian dan pelajaran untuk mencapai tujuan pendidikan\nluar biasa.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n(2) Isi kurikulum Sekolah Dasar Luar Biasa sedapat mungkin\ndisesuaikan dengan kurikulum Sekolah Dasar dengan\nmemperhatikan keterbatasan kemampuan belajar para siswa\nyang bersangkutan.\n(3) Isi kurikulum Sekolah Lanjutan Tingkat Pertama Luar Biasa\nsedapat mungkin disesuaikan dengan kurikulum Sekolah Lanjutan\nTingkat Pertama dengan memperhatikan keterbatasan\nkemampuan belajar para siswa yang bersangkutan.\n(4) Isi kurikulum Sekolah Menengah Luar Biasa sedapat mungkin\ndisesuaikan dengan kurikulum Sekolah Menengah dengan\nmemperhatikan keterbatasan kemampuan belajar para siswa\nyang bersangkutan.\n(5) Kurikulum Sekolah Menengah Luar Biasa ditetapkan untuk\nmenyiapkan siswanya agar memiliki keterampilan yang dapat\nmenjadi bekal sumber mata pencaharian sehingga dapat mandiri\ndi masyarakat.\n(6) Pelaksanaan ketentuan sebagaimana dimaksud dalam ayat (2),\nayat (3) dan ayat (4) diatur ol eh Menteri dan yang berkenaan\ndengan bahan kajian dan pelajaran pendidikan agama diatur oleh\nMenteri setelah mendengar pertimbangan Menteri Agama.\n\nBAB IX\nPESERTA DIDIK"
+   }
+  },
+  {
+   "id": "ID-H516-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\n\n(1) Untuk dapat diterima sebagai anak didik pada Taman\nKanak-kanak Luar Biasa sekurang-kurangnya berusia tiga tahun.\n(2) Untuk dapat diterima sebagai siswa pada Sekolah Dasar Luar\nBiasa sekurang-kurangnya berusia enam tahun.\n(3) Untuk dapat diterima sebagai siswa Sekolah Lanjutan Tingkat\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nPertama Luar Biasa seseorang harus telah tamat Sekolah Dasar\nLuar Biasa atau satuan pendidikan yang sederajat atau setara.\n(4) Untuk dapat diterima sebagai siswa Sekolah Menengah Luar\nBiasa, seseorang harus telah tamat Sekolah Lanjutan Tingkat\nPertama Luar Biasa atau satuan pendidikan yang sederajat atau\nsetara.\n(5) Pelaksanaan ketentuan sebagaimana dimaksud dalam ayat (1),\nayat (2), ayat (3), dan ayat (4) diatur oleh Menteri."
+   }
+  },
+  {
+   "id": "ID-H516-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\n\n(1) Peserta didik mempunyai hak:\n 1. memperoleh perlakuan sesuai dengan bakat, minat,\nkemampuan, dan kelainannya;\n 2. memperoleh pendidikan agama sesuai dengan agama yang\ndianutnya;\n 3. mengikuti program pendidikan yang bersangkutan atas dasar\npendidikan berkelanjutan, baik untuk mengembangkan\nkemampuan diri maupun untuk memperoleh pengakuan tingkat\npendidikan tertentu yang telah dibakukan;\n 4. memperoleh bantuan fasilitas belajar, beasiswa, atau bantuan\nlain sesuai dengan kelainan yang disandang dan persyaratan\nyang berlaku;\n 5. pindah ke sekolah yang sejajar atau melanjutkan ke tingkat\nyang lebih tinggi sesuai dengan kelainan yang disandang dan\npersyaratan penerimaan siswa pada sekolah yang hendak\ndimasuki;\n 6. memperoleh penilaian hasil belajar;\n 7. menyelesaikan program pendidikan lebih awal dari waktu yang\nditentukan; dan\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n 8. memperoleh pelayanan khusus sesuai dengan jenis kelainan\nyang disandang.\n(2) Pelaksanaan ketentuan sebagaimana dimaksud dalam ayat (1)\ndiatur oleh Menteri."
+   }
+  },
+  {
+   "id": "ID-H516-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\n\n(1) Peserta didik sebatas kemampuannya berkewajiban untuk:\n 1. ikut menanggung biaya penyelenggaraan pendidikan, kecuali\nyang dibebaskan dari kewajiban tersebut;\n 2. mematuhi ketentuan peraturan yang berlaku;\n 3.  menghormati guru, tenaga kependidikan lainnya dan tenaga\nahli; dan\n 4. ikut memelihara sarana dan prasarana serta kebersihan,\nketertiban dan keamanan sekolah.\n(2) Pelaksanaan ketentuan sebagaimana dimaksud dalam ayat (1)\ndiatur oleh Menteri.\n\nBAB X\nTENAGA KEPENDIDIKAN"
+   }
+  },
+  {
+   "id": "ID-H516-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\n\n(1) Tenaga kependidikan pada satu an pendidikan luar biasa terdiri\natas tenaga pendidik, pengelola satuan pendidikan, pengawas,\npeneliti dan pengembang di bi dang pendidikan, pustakawan,\nlaboran dan teknisi sumber belajar.\n(2) Tenaga pendidik pada satuan pendidikan luar biasa merupakan\ntenaga kependidikan yang memiliki kualifikasi khusus sebagai\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nguru pada satuan pendidikan luar biasa.\n\n\nBAB XI\nPENILAIAN"
+   }
+  },
+  {
+   "id": "ID-H516-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\n\n(1) Penilaian pendidikan luar biasa diselenggarakan untuk\nmemperoleh keterangan tentang proses belajar-mengajar,\nkegiatan rehabilitasi, dan upaya pencapaian tujuan pendidikan\nluar biasa dalam rangka pembinaan dan pengembangannya, serta\nuntuk penentuan akreditasi satuan pendidikan yang\nbersangkutan.\n(2) Penilaian pendidikan luar biasa mencakup:\n 1. kegiatan rehabilitasi;\n 2. kemampuan belajar anak didik dan siswa;\n 3. pelaksanaan program belajar dan kurikulum;\n 4. guru, tenaga kependidikan lainnya dan tenaga ahli; dan\n 5. satuan pendidikan sebagai satu keseluruhan."
+   }
+  },
+  {
+   "id": "ID-H516-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\n\n(1) Penilaian kegiatan rehabilitasi dan kegiatan kemajuan belajar\npeserta didik dilakukan untuk mengetahui perkembangan dan\nhasil belajar peserta didik.\n(2) Penilaian hasil belajar siswa pada akhir pendidikan pada satuan\npendidikan luar biasa dilakukan untuk memberi Surat Tanda\nTamat Belajar.\n(3) Penilaian sebagaimana dimaksud dalam ayat (1) dilakukan untuk\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nmembantu perkembangan peserta didik dan memperoleh\nketerangan tentang mutu pendidikan luar biasa secara nasional.\n(4) Penilaian sebagaimana dimaksud dalam ayat (1) dilaksanakan\nberdasarkan tujuan dan isi kurikulum serta program rehabilitasi\nyang berlaku."
+   }
+  },
+  {
+   "id": "ID-H516-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\n\nPenilaian kurikulum dan program rehabilitasi dilakukan untuk\nmengetahui kesesuaian kurikulum pendidikan luar biasa dengan dasar,\nfungsi, dan tujuan pendidikan nasional, kemampuan siswa dan\nkesesuaiannya dengan tuntutan perkembangan yang terjadi dalam\nmasyarakat dan dilakukan secara berkala."
+   }
+  },
+  {
+   "id": "ID-H516-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 24\n\n(1) Penilaian terhadap guru, tenaga kependidikan lainnya dan tenaga\nahli dilakukan untuk mengetahui kemampuan dan kewenangan\nprofesional.\n(2) Hasil penilaian sebagaimana dimaksud pada ayat (1) digunakan\nuntuk:\n 1. pembinaan dan pengembangan guru, tenaga kependidikan\nlainnya dan tenaga ahli;\n 2. penyempurnaan kurikulum dan pengelolaan program\npendidikan guru, tenaga kependidikan lainnya dan tenaga ahli."
+   }
+  },
+  {
+   "id": "ID-H516-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\n\n(1) Penilaian satuan pendidikan luar biasa sebagai satu keseluruhan\ndilakukan untuk mengetahui kemampuan pengelolaan satuan\ndan/atau kegiatan pendidikan dan rehabilitasi.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n(2) Penilaian satuan pendidikan luar biasa sebagaimana dimaksud\ndalam ayat (1) meliputi segi-segi:\n 1. kelembagaan;\n 2. program belajar dan kurikulum;\n 3. program rehabilitasi;\n 4. anak didik dan siswa;\n 5. guru, tenaga kependidikan lainnya dan tenaga ahli;\n 6. sarana dan prasarana;\n 7. administrasi; dan\n 8. keadaan umum pada satuan pendidikan luar biasa yang\nbersangkutan.\n(3) Hasil penilaian sebagaimana di maksud dalam ayat (2) digunakan\nuntuk akreditasi dan pembinaan satuan pendidikan luar biasa\nyang bersangkutan."
+   }
+  },
+  {
+   "id": "ID-H516-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\n\n(1) Penilaian dilaksanakan oleh guru, kepala sekolah, pengawas,\ntenaga kependidikan lainnya, dan tenaga ahli serta aparat\nstruktural/fungsional yang berkaitan.\n(2) Guru berkewajiban menilai kegiatan kemajuan belajar anak didik\ndan siswa serta pelaksanaan program kegiatan belajar dan\nkurikulum yang berada dalam wewenang dan tanggung jawabnya.\n(3) Kepala Sekolah satuan pendidikan luar biasa berkewajiban\nmenilai kurikulum, guru, tenaga kependidikan lainnya, tenaga\nahli serta sarana dan prasarana dalam lingkungan satuan\npendidikan yang berada dalam wewenang dan tanggung\njawabnya.\n(4) Pengawas berkewajiban menilai segi  teknis pendidikan dan\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nadministrasi satuan pendidikan luar biasa yang berada dalam\nwewenang dan tanggung jawabnya.\n(5) Tenaga kependidikan lainnya yang terkait berkewajiban menilai\npelaksanaan kegiatan di bidang yang menjadi tanggung jawab\nmasing-masing.\n(6) Tenaga ahli berkewajiban menilai pelaksanaan kegiatan\nrehabilitasi yang menjadi tanggung jawab masing-masing.\n(7) Pejabat struktural/fungsional berkewajiban menilai perencanaan\ndan pelaksanaan pendidikan dan program rehabilitasi yang\nberkaitan dengan pembinaan dan pengembangan satuan\npendidikan luar biasa yang berada dalam wewenang dan\ntanggung jawabnya."
+   }
+  },
+  {
+   "id": "ID-H516-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\n\nPelaksanaan ketentuan sebagaimana dimaksud dalam Pasal 22, Pasal\n23, Pasal 24, Pasal 25, dan Pasal 26 diatur oleh Menteri, atau Menteri\nlain setelah berkonsultasi dengan Menteri.\n\n\nBAB XII\nBIMBINGAN DAN REHABILITASI"
+   }
+  },
+  {
+   "id": "ID-H516-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\n\n(1) Bimbingan merupakan bantuan yang diberikan kepada peserta\ndidik dalam rangka upaya menemukan pribadi, mengatasi\nmasalah yang disebabkan oleh kelainan yang disandang,\nmengenal lingkungan dan merencanakan masa depan.\n(2) Bimbingan diberikan oleh guru pembimbing.\n(3) Pelaksanaan ketentuan sebagaimana dimaksud dalam ayat (1)\ndan ayat (2) diatur oleh Menteri setelah mendengar\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nPertimbangan Menteri terkait."
+   }
+  },
+  {
+   "id": "ID-H516-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\n\n(1) Rehabilitasi merupakan upaya bantuan medik, sosial dan\nketerampilan yang diberikan kepada peserta didik agar mampu\nmengikuti pendidikan.\n(2) Rehabilitasi medik meliputi usaha penyembuhan/pemulihan\nkesehatan penyandang kelainan serta pemberian alat pengganti\ndan/atau alat pembantu tubuh.\n(3) Pelaksanaan rehabilitasi medik sebagaimana dimaksud dalam\nayat (2) diatur oleh Menteri ya ng bertanggung jawab di bidang\nkesehatan.\n(4) Rehabilitasi sosial meliputi usaha pemberian bimbingan sosial\nkepada peserta didik yang mencakup pcngarahan pada\npenyesuaian diri dan pengembangan pribadi secara wajar.\n(5) Pelaksanaan rehabilitasi sosial sebagaimana dimaksud dalam ayat\n(4) diatur oleh Menteri yang bertanggung jawab di bidang sosial.\n(6) Rehabilitasi diberikan oleh ahli terapi fisik, ahli terapi bicara,\ndokter umum, dokter spesialis, ahli psikologi, perawat dan\npekerja sosial.\n(7) Pelaksanaan ketentuan sebagaimana dimaksud dalam ayat (1),\nayat (2) dan ayat (4) diatur oleh Menteri setelah mendengar\npertimbangan Menteri yang terkait.\n\n\n\n\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nBAB XIII\nSUMBER DAYA"
+   }
+  },
+  {
+   "id": "ID-H516-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB XIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\n\n(1) Pemerintah atau badan penyelenggara satuan pendidikan luar\nbiasa bertanggung jawab atas biaya penyelenggaraan pendidikan\ndan satuan pendidikan yang bersangkutan.\n(2) Pembiayaan sebagaimana dimaksud dalam ayat (1) meliputi:\n 1. gaji guru, tenaga kependidikan  lainnya, tenaga ahli dan tenaga\nadministrasi;\n 2. pengadaan serta pemeliharaan sarana dan prasarana; dan\n 3. penyelenggaraan pendidikan dan rehabilitasi.\n\n\nBAB XIV\nPENGAWASAN"
+   }
+  },
+  {
+   "id": "ID-H516-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB XIV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\n\n(1) Pengawasan terhadap satuan pendidikan luar biasa yang\ndiselenggarakan oleh Pemerintah atau masyarakat dalam rangka\npembinaan, pengembangan, pelayanan, dan peningkatan mutu\nserta perlindungan bagi satuan pendidikan luar biasa dilakukan\noleh Menteri.\n(2) Pengawasan meliputi segi teknis kependidikan dan pelaksanaan\nkegiatan rehabilitasi pada satuan pendidikan luar biasa yang\nbersangkutan.\n(3) Pelaksanaan ketentuan sebagaimana dimaksud dalam ayat (1)\ndan ayat (2) diatur oleh Menteri.\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H516-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB XIV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 32\n\nMenteri berwenang mengambil tindakan administratif terhadap\npenyelenggara satuan pendidikan luar biasa yang melakukan\npelanggaran terhadap peraturan perundang-undangan yang berlaku.\n\nBAB XV\nPENGEMBANGAN"
+   }
+  },
+  {
+   "id": "ID-H516-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB XV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 33\n\n(1) Pada satuan pendidikan luar biasa dapat dilakukan upaya untuk\nmengembangkan gagasan baru yang diperlukan dalam rangka\npeningkatan pendidikan dan perbaikan pelayanan rehabilitasi.\n(2) Satuan pendidikan luar bias a dapat memberi peluang kepada\npara peneliti dan pengembang di bidang pendidikan untuk\nmelakukan penelitian dan/atau upaya lain dalam rangka\npenyempurnaan pendidikan luar biasa dan rehabilitasi.\n(3) Kegiatan sebagaimana dimaksud  dalam ayat (1) dan ayat (2)\ndilaksanakan dengan tidak mengurangi kelangsungan\npenyelenggaraan pendidikan dan rehabilitasi pada satuan\npendidikan luar biasa yang bersangkutan.\n(4) Pelaksanaan ketentuan sebagaimana dimaksud dalam ayat (1),\nayat (2) dan ayat (3) diatur oleh Menteri setelah mendengar\npertimbangan Menteri lain yang terkait.\n\n\n\n\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nBAB XVI\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H516-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB XVI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 34\n\nSemua ketentuan yang mengatur pendidikan luar biasa yang ada pada\nsaat diundangkannya Peraturan Pemerintah ini masih tetap berlaku\nsepanjang tidak bertentangan dan belum diganti berdasarkan\nPeraturan Pemerintah ini.\n\nBAB XVII\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H516-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB XVII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 35\n\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran\nNegara Republik Indonesia.\n\nDitetapkan di Jakarta\npada tanggal 31 Desember 1991\n\nPRESIDEN REPUBLIK INDONESIA\n\n    ttd\n\n          SOEHARTO\n\n\n\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nDiundangkan di Jakarta\npada tanggal 31 Desember 1991\n\nMENTERI/SEKRETARIS NEGARA\n   REPUBLIK INDONESIA\n\n        ttd\n\n         MOERDIONO\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nPENJELASAN\nATAS\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nNOMOR 72 TAHUN 1991\nTENTANG\nPENDIDIKAN LUAR BIASA\n\nUMUM\n\nDalam sistem pendidikan nasional diadakan pengaturan pendidikan\nkhusus yang diselenggarakan untuk peserta didik yang menyandang\nkelainan fisik dan/atau mental.\n\nPeserta didik yang menyandang kelainan demikian juga berhak\nmemperoleh pendidikan yang layak, sebagaimana diamanatkan dalam\nUndang-Undang Dasar 1945 yang dala m hal ini menyatakan dengan\nsingkat tapi jelas bahwa \"Tiap-tiap warga negara berhak mendapat\npengajaran\", dan yang ditegask an dalam Undang-undang Nomor 2\nTahun 1989 tentang Sistem Pendidikan Nasional yang menyatakan\nbahwa \"Setiap warga negara\", termasuk warga negara berkelainan,\n\"mempunyai hak yang sama untuk memperoleh pendidikan\".\n\nHak masing-masing warga negara untuk memperoleh pendidikan dapat\ndiartikan sebagai hak untuk \"memperoleh pengetahuan, kemampuan\ndan keterampilan yang sekurang-kurangnya setara dengan\npengetahuan, kemampuan dan keterampilan tamatan pendidikan\ndasar\".\n\nTentu saja kelainan yang disandang oleh peserta didik yang\nbersangkutan menurut penyelenggaraan pendidikan sekolah yang lain\ndaripada penyelenggaraan pendidikan  sekolah biasa. Oleh sebab itu,\njenis pendidikan yang diadakan bagi peserta didik yang berkelainan\ndisebut pendidikan luar biasa.\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nPada umumnya masing-masing peserta didik yang menyandang\nkelainan menuntut perhatian dan pelayanan pendidikan yang lebih\nkhusus dan upaya rehabilitasi dari pada peserta didik biasa. Upaya\nrehabilitasi yang seharusnya diadakan bagi peserta didik yang\nberkelainan disebut pendidikan luar biasa.\n\nPeraturan Pemerintah ini pada dasarnya dirumuskan secara umum\nagar terbuka keleluasaan bagi para tenaga kependidikan dan ahli\nrehabilitasi yang bersangkutan untuk menyesuaikan pelayanan\nmasing-masing dengan kebutuhan khas peserta didik yang menyandang\nkelainan.\n\nPeraturan Pemerintah ini juga diadakan agar keluarga, Pemerintah\ndan masyarakat mengetahui hak dan kewajiban masing-masing dalam\nupaya pengadaan, penyelenggaraan dan pengembangan pendidikan\nluar biasa di wilayah Republik Indonesia.\n\nPASAL DEMI PASAL\nPasal 1\n Cukup jelas\nPasal 2\n a. Pengembangan kehidupan anak didik dan siswa sebagai pribadi\nsekurang-kurangnya mencakup upaya:\n  1. memperkuat keimanan dan ketaqwaan;\n  2. membiasakan berperilaku yang baik;\n  3. memberikan pengetahuan dan keterampilan dasar;\n  4. memelihara kesehatan jasmani dan rohani;\n  5. memberikan kemampuan untuk belajar; dan\n  6. mengembangkan kepribadian yang mantap dan mandiri.\n b. Pengembangan kehidupan anak didik dan siswa sebagai anggota\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nmasyarakat sekurang-kurangnya mencakup upaya untuk:\n  1. memperkuat kesadaran hidup beragama dalam masyarakat;\n  2. menumbuhkan rasa tanggung jawab dalam lingkungan hidup;\ndan\n  3. memberikan pengetahuan dan keterampilan dasar yang\ndiperlukan untuk berperan serta dalam kehidupan\nbermasyarakat, berbangsa dan bernegara.\n c. Mempersiapkan siswa untuk dapat memiliki keterampilan sebagai\nbekal untuk memasuki dunia kerja.\n d. Mempersiapkan anak didik dan siswa untuk mengikuti pendidikan\nlanjutan dalam menguasai isi kurikulum yang diisyaratkan.\nPasal 3\n Ayat (1)\n  Dalam pengertian kelainan mental termasuk kelainan/gangguan\nsosial atau tuna laras.\n Ayat (2)\n  A n g k a  1\n  Tuna netra adalah kerusakan atau cacat mata yang\nmengakibatkan seseorang tidak dapat melihat/buta. Termasuk\ntuna netra adalah seseorang yang kurang daya penglihatannya.\n\n  A n g k a  2\n  Tuna rungu adalah kerusakan atau cacat pendengaran yang\nmengakibatkan seseorang tak dapat mendengar atau tuli atau\npekak. Termasuk disini seseorang yang kurang daya\npendengarannya.\n  A n g k a  3\n   Tuna daksa adalah cacat tubuh.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n  Ayat (3)\n  Tuna grahita adalah keterbelakangan mental, termasuk disini\nyang keterbelakangan mental ringan dan keterbelakangan\nmental sedang.\n  Ayat (4)\n  Tuna laras adalah gangguan atau hambatan atau kelainan\ntingkah laku sehingga kurang dapat menyesuaikan diri dengan\nbaik terhadap lingkungan keluarga, sekolah, dan masyarakat.\n  Ayat (5)\n   Kelainan ganda adalah gabungan kelainan fisik dan mental.\nPasal 4\n Angka 1\n  Sekolah Dasar Luar Biasa adalah bentuk satuan pendidikan bagi\npenyandang kelainan yang menyiapkan siswanya untuk dapat\nmengikuti program Sekolah Lanjutan Tingkat Pertama Luar Biasa\natau Sekolah Lanjutan Tingkat Pertama.\n Angka 2\n  Sekolah Lanjutan Tingkat Pertama Luar Biasa adalah bentuk\nsatuan pendidikan bagi penyandang kelainan yang menyiapkan\nsiswanya dalam kehidupan bermasyarakat dan memberi\nkemungkinan untuk melanjutkan pendidikan ke tingkat\nselanjutnya.\n Angka 3\n  Sekolah Menengah Luar Biasa adalah bentuk satuan pendidikan\nbagi penyandang kelainan yang menyiapkan siswanya agar\nmemiliki keterampilan yang dapat menjadi bekal sumber mata\npencaharian sehingga dapat mand iri di masyarakat atau untuk\ndapat melanjutkan ke jenjang pendidikan tinggi.\n Angka 4\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n  C u k u p  j e l a s\nPasal 5\n Angka 1\n  C u k u p  j e l a s\n Angka 2\n  C u k u p  j e l a s\n Angka 3\n  C u k u p  j e l a s\nPasal 6\n Ayat (1)\n  Taman Kanak-kanak Luar Biasa adalah bentuk satuan pendidikan\nbagi penyandang kelainan usia  tiga-enam tahun sebagai upaya\npelayanan secara dini agar mereka memperoleh kesiapan fisik,\nmental, sosial dan emosi untuk dapat mengikuti program\npendidikan pada Sekolah Dasar Luar Biasa.\n Ayat (2)\n  C u k u p  j e l a s\nPasal 7\n Ayat (1)\n  A n g k a  1\n   C u k u p  j e l a s\n  A n g k a  2\n   Bilamana dalam penyelenggaraan satuan pendidikan luar biasa\nbelum terdapat tenaga ahli, program rehabilitasi dapat\ndilakukan oleh seorang guru pendidikan luar biasa.\n  A n g k a  3\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n   C u k u p  j e l a s\n  A n g k a  4\n   C u k u p  j e l a s\n  A n g k a  5\n  Program rehabilitasi pada satuan pendidikan luar biasa\nmerupakan satu kesatuan program pendidikan.\n  A n g k a  6\n   C u k u p  j e l a s\n  A n g k a  7\n   C u k u p  j e l a s\n  A n g k a  8\n   C u k u p  j e l a s\n  A n g k a  9\n   C u k u p  j e l a s\n Ayat (2)\n  C u k u p  j e l a s\n Ayat (3)\n  Dalam membuat peraturan pelaksanaan, Menteri dapat\nmempertimbangkan kemungkinan pemberian kelonggaran bagi\ndaerah-daerah yang belum memenuhi persyaratan yang berlaku.\nPasal 8\n Ayat (1)\n  A n g k a  1\n   C u k u p  j e l a s\n  A n g k a  2\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n   C u k u p  j e l a s\n  A n g k a  3\n   C u k u p  j e l a s\n Ayat (2)\n  C u k u p  j e l a s\nPasal 9\n Ayat (1)\n  C u k u p  j e l a s\n Ayat (2)\n  C u k u p  j e l a s\n Ayat (3)\n  C u k u p  j e l a s\nPasal 10\n Cukup jelas\nPasal 11\n Ayat (1)\n  C u k u p  j e l a s\n Ayat (2)\n  C u k u p  j e l a s\n Ayat (3)\n  C u k u p  j e l a s\n Ayat (4)\n  C u k u p  j e l a s\n Ayat  (5)\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n  C u k u p  j e l a s\n Ayat (6)\n  C u k u p  j e l a s\n Ayat (7)\n  C u k u p  j e l a s\nPasal 12\n Ayat (1)\n  C u k u p  j e l a s\n Ayat (2)\n  C u k u p  j e l a s\n Ayat (3)\n  C u k u p  j e l a s\nPasal 13\n Ayat (1)\n  C u k u p  j e l a s\n Ayat (2)\n  C u k u p  j e l a s\n Ayat (3)\n  C u k u p  j e l a s\nPasal 14\n Ayat (1)\n  C u k u p  j e l a s\n Ayat (2)\n  C u k u p  j e l a s\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n Ayat (3)\n  C u k u p  j e l a s\n Ayat (4)\n  C u k u p  j e l a s\n Ayat (5)\n  C u k u p  j e l a s\n Ayat (6)\n  C u k u p  j e l a s\nPasal 15\n Ayat (1)\n  C u k u p  j e l a s\n Ayat (2)\n  C u k u p  j e l a s\nPasal 16\n Ayat (1)\n  C u k u p  j e l a s\n Ayat (2)\n  C u k u p  j e l a s\n Ayat (3)\n  Ketentuan ayat ini memberikan arah bahwa dalam menentukan\nkurikulum Sekolah Lanjutan Tingkat Pertama Luar Biasa\ndiupayakan sama dengan kurikulum yang ada pada Sekolah\nLanjutan Tingkat Pertama. Namun demikian dalam menetapkan\nisi kurikulum mengingat kenyataan tingkat kemampuan atau\nketerbatasan siswa sekolah Lanjutan Tingkat Pertama Luar Biasa\ndengan Siswa Sekolah Lanjutan Tingkat Pertama berbeda, maka\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nisi kurikulum tersebut harus tetap dibedakan sesuai dengan\nkemampuannya.\n Ayat (4)\n  Lihat penjelasan ayat (3)\n Ayat (5)\n  C u k u p  j e l a s\n Ayat (6)\n  C u k u p  j e l a s\nPasal 17\n Ayat (1)\n  C u k u p  j e l a s\n Ayat (2)\n  C u k u p  j e l a s\n Ayat (3)\n  Syarat tamat dari satuan pendidikan yang sederajad atau setara\ndisini, dimaksudkan untuk memungkinkan seseorang yang telah\ntamat pendidikan Paket A pada satuan pendidikan luar sekolah\natau pendidikan sekolah yang sederajad dengan sekolah dasar,\nmisalnya, madrasah ibtidaiyah mengikuti Sekolah Lanjutan\nTingkat Pertama Luar Biasa.\n Ayat (4)\n  C u k u p  j e l a s\n Ayat (5)\n  C u k u p  j e l a s\nPasal 18\n Ayat (1)\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n  A n g k a  1\n   C u k u p  j e l a s\n  A n g k a  2\n  Satuan pendidikan luar biasa yang memiliki kekhususan atas\ndasar agama tertentu tidak berkewajiban menyelenggarakan\npendidikan agama lain daripada agama yang merupakan\nkekhususan sekolah yang bersangkutan.\n  A n g k a  3\n   C u k u p  j e l a s\n  A n g k a  4\n   C u k u p  j e l a s\n  A n g k a  5\n   C u k u p  j e l a s\n  A n g k a  6\n   C u k u p  j e l a s\n  A n g k a  7\n   C u k u p  j e l a s\n  A n g k a  8\n   C u k u p  j e l a s\n Ayat (2)\n  C u k u p  j e l a s\nPasal 19\n Ayat (1)\n  A n g k a  1\n   C u k u p  j e l a s\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n  A n g k a  2\n   C u k u p  j e l a s\n  A n g k a  3\n   C u k u p  j e l a s\n  A n g k a  4\n   C u k u p  j e l a s\n Ayat (2)\n  C u k u p  j e l a s\nPasal 20\n Ayat (1)\n  C u k u p  j e l a s\n Ayat (2)\n  Tenaga pendidik yang dimaksud  pada ayat ini meliputi juga\nanggota masyarakat yang tidak dididik khusus sebagai tenaga\npendidik luar biasa tetapi mempunyai kemampuan (keahlian)\ntertentu yang dapat dimanfaatkan oleh peserta didik dalam\nkegiatan belajar.\nPasal 21\n Ayat (1)\n  C u k u p  j e l a s\n Ayat (2)\n  A n g k a  1\n   C u k u p  j e l a s\n  A n g k a  2\n   C u k u p  j e l a s\n  A n g k a  3\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n   C u k u p  j e l a s\n  A n g k a  4\n   C u k u p  j e l a s\n  A n g k a  5\n   C u k u p  j e l a s\nPasal 22\n Ayat (1)\n  C u k u p  j e l a s\n Ayat (2)\n  C u k u p  j e l a s\n Ayat (3)\n  C u k u p  j e l a s\n Ayat (4)\n  C u k u p  j e l a s\nPasal 23\n Penilaian pelaksanaan kurikulum mencakup penilaian sarana dan\nprasarana pendidikan serta sarana dan prasarana rehabilitasi.\nPasal 24\n Ayat (1)\n  Yang dimaksud dengan kewenangan profesional adalah\nkewenangan melakukan pekerjaan mengajar berdasarkan\nkepatutan yang diberikan oleh pejabat yang berwenang.\n Ayat (2)\n  A n g k a  1\n   C u k u p  j e l a s\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n  A n g k a  2\n  C u k u p  j e l a s\nPasal 25\n Ayat (1)\n  C u k u p  j e l a s\n Ayat (2)\n  A n g k a  1\n   C u k u p  j e l a s\n  A n g k a  2\n   C u k u p  j e l a s\n  A n g k a  3\n   C u k u p  j e l a s\n  A n g k a  4\n   C u k u p  j e l a s\n  A n g k a  5\n   C u k u p  j e l a s\n  A n g k a  6\n   C u k u p  j e l a s\n  A n g k a  7\n   C u k u p  j e l a s\n  A n g k a  8\n   C u k u p  j e l a s\n Ayat (3)\n  C u k u p  j e l a s\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nPasal 26\n Ayat (1)\n  C u k u p  j e l a s\n Ayat (2)\n  C u k u p  j e l a s\n Ayat (3)\n  C u k u p  j e l a s\n Ayat (4)\n  C u k u p  j e l a s\n Ayat (5)\n  C u k u p  j e l a s\n Ayat (6)\n  C u k u p  j e l a s\n Ayat (7)\n  C u k u p  j e l a s\n\nPasal 27\n Cukup jelas\nPasal 28\n Ayat (1)\n  C u k u p  j e l a s\n Ayat (2)\n  C u k u p  j e l a s\n Ayat (3)\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n  C u k u p  j e l a s\nPasal 29\n Ayat (1)\n  C u k u p  j e l a s\n Ayat (2)\n  C u k u p  j e l a s\n Ayat (3)\n  C u k u p  j e l a s\n Ayat (4)\n  C u k u p  j e l a s\n Ayat (5)\n  C u k u p  j e l a s\n Ayat (6)\n  Dokter spesialis terdiri atas dokt er ahli syaraf, dokter ahli mata,\ndokter ahli telinga, hidung dan tenggorokan, dokter ahli penyakit\njiwa, dan dokter ahli orthopedik (bedah tulang).\n Ayat (7)\n  C u k u p  j e l a s\nPasal 30\n Ayat (1)\n  C u k u p  j e l a s\n Ayat (2)\n  A n g k a  1\n   C u k u p  j e l a s\n  A n g k a  2\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n   C u k u p  j e l a s\n  A n g k a  3\n   C u k u p  j e l a s\nPasal 31\n Ayat (1)\n  C u k u p  j e l a s\n Ayat (2)\n  C u k u p  j e l a s\n Ayat (3)\n  C u k u p  j e l a s\nPasal 32\n Cukup jelas\n\nPasal 33\n Ayat (1)\n  C u k u p  j e l a s\n Ayat (2)\n  C u k u p  j e l a s\n Ayat (3)\n  C u k u p  j e l a s\n Ayat (4)\n  C u k u p  j e l a s\nPasal 34\n Cukup jelas\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nPasal 35\n Cukup jelas"
+   }
+  }
+ ]
+}

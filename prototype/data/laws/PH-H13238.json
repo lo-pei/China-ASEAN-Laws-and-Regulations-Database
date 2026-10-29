@@ -1,0 +1,72 @@
+{
+ "id": "PH-H13238",
+ "title": {
+  "zh": null,
+  "en": "An Act Punish Fraud Against the United states, and the Selling, Purchasing or Otherwise Acquiring Any Arms, Equipment, Ammunition, Clothes, Military stores or Other Public Property From Officers, Soldiers, Sailors or Other Persons Employed in the Military or Naval Service of the United states, or of the Philippine Constabulary.",
+  "orig": "An Act Punish Fraud Against the United states, and the Selling, Purchasing or Otherwise Acquiring Any Arms, Equipment, Ammunition, Clothes, Military stores or Other Public Property From Officers, Soldiers, Sailors or Other Persons Employed in the Military or Naval Service of the United states, or of the Philippine Constabulary."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1916-02-03",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2567",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 2544,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1916/act_2567_1916.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02567_1916_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02567_1916_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13238-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Whoever shall make or cause to be made, or present or cause to be presented, for payment or\napproval, to or by any person or officer in the civil, military, or naval service of the United States, any claim\nupon or against the Government of the United States, or any department or officer thereof, knowing such\nclaim to be false, fictitious, or fraudulent; or whoever, for the purpose of obtaining or aiding to obtain the\npayment or approval of such claim, shall make or use, or cause to be made or used, any false bill, receipt,\nvoucher, roll, account, claim, certificate, affidavit, or deposition, knowing the same to contain any fraudulent\nor fictitious statement or entry; or whoever shall enter into any agreement, combination, or conspiracy to\ndefraud the Government of the United States, or any department or officer thereof, by obtaining or aiding to\nobtain the payment or allowance of any false or fraudulent claim; or whoever, having charge, possession,\ncustody, or control of any money or other public property used or to be used in the military or naval service,\nwith intent to defraud the United States or willfully to conceal such money or other property, shall deliver or\ncause to be delivered, to any other person having authority to receive the same, any amount of such money or\nother property less than that for which he received a certificate or took a receipt; or whoever, being authorized\nto make or deliver any certificate, voucher, receipt, or other paper certifying the receipt of arms, ammunition,\nprovisions, clothing, or other property so used or to be used, shall make or deliver the same to any other\nperson with intent to defraud the United States, shall be fined not more than five thousand pesos, or\nimprisoned not more than five years, or both."
+   }
+  },
+  {
+   "id": "PH-H13238-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Whoever shall knowingly sell, purchase or receive in pledge, for any obligation or indebtedness\nfrom any soldier, officer, sailor, or other person called into or employed in the military or naval service or\nPhilippine Constabulary, any arms, equipment, ammunition, clothes, military stores, or other public property,\nwhether furnished to the soldier, sailor, officer, or person, under a clothing allowance or otherwise, such\nsoldier, sailor, officer, or other person not having the lawful right to pledge oi\nsell the same, shall be fined not more than one thousand pesos, or\nimprisoned not more than two years, or both in the discretion of the court."
+   }
+  },
+  {
+   "id": "PH-H13238-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "All Acts or parts of Acts inconsistent with the provisions of this Act are hereby repealed.\nEnacted, February 3, 1916."
+   }
+  }
+ ]
+}

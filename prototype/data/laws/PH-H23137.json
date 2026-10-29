@@ -1,0 +1,62 @@
+{
+ "id": "PH-H23137",
+ "title": {
+  "zh": null,
+  "en": "An Act Changing the Names of Certain Barrios in the Municipality of Sara, Province of Iloilo",
+  "orig": "An Act Changing the Names of Certain Barrios in the Municipality of Sara, Province of Iloilo"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1957-06-21",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 1733",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1086,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/02_共和国法令_RA/RA_01733_1957_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 RA_01733_1957_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H23137-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The names of the following barrios in the Municipality of Sara, Province of Iloilo, are changed\nBarrio Ilongbukid to barrio Bagaygay;\nBarrio Maremhon to barrio Villahermosa;\nBarrio Lawa-an to barrio Gildore;\nBarrio Bai-ran to barrio Castor;\nBarrio Batuan to barrio Aldeguer;\nBarrio Agsinapot to barrio Del Castillo;\nBarrio Maligayligay to barrio Malapaya;\nBarrio Samponongbolo to barrio Juaneza;\nBarrio Alabidhan to barrio Tady;\nBarrio Ambolong to barrio Lanciola;\nBarrio Busay to barrio Preciosa;\nBarrio Caburra to barrio Zerrudo;\nBarrio Asue Pabriaga to barrio Pabriaga;\nBarrio Balabago to barrio Apologista;\nBarrio Alawehao to barrio Pesadas;\nBarrio Quinasop-an to barrio Muyco;\nBarrio Bolod to barrio Padios;\nBarrio Aglahog to barrio Bacabac;\nBarrio Madarag to barrio Crespo;\nBarrio Serruco to barrio Ferraris;\nBarrio Salvacion to barrio Aranto;\nBarrio Ajuz to barrio Salcedo;\nBarrio Talisay to barrio Apolo;\nBarrio Masonson to barrio Devera;\nBarrio Quipot to barrio Aguirre, and\nBarrio Damasco to barrio Aspera."
+   }
+  },
+  {
+   "id": "PH-H23137-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 21, 1957."
+   }
+  }
+ ]
+}

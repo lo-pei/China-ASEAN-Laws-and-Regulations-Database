@@ -1,14 +1,18 @@
 {
  "id": "MY-H064",
  "title": {
-  "zh": "公司法_2016_en_2025修订",
-  "en": null,
-  "orig": null
+  "zh": "公司法 2016",
+  "en": "Companies Act 2016",
+  "orig": "Companies Act 2016",
+  "vi": "Luật Công ty 2016",
+  "th": "พระราชบัญญัติบริษัท 2016",
+  "id": "Undang-Undang tentang Perusahaan 2016",
+  "ms": "Akta Syarikat 2016"
  },
  "country": "MY",
  "countryName": "马来西亚",
  "layer": "intl",
- "pack": "my-p03",
+ "pack": "my-2",
  "language": "en",
  "level": "law",
  "category": null,

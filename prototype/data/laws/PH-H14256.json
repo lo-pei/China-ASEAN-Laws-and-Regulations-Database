@@ -1,0 +1,62 @@
+{
+ "id": "PH-H14256",
+ "title": {
+  "zh": null,
+  "en": "An Act to Make Obligatory the Translation of Municipal Ordinances Into the Native Dialect, Amending for this Purpose Section Twenty-Two Hundred and thirty-One of the Administrative Code.",
+  "orig": "An Act to Make Obligatory the Translation of Municipal Ordinances Into the Native Dialect, Amending for this Purpose Section Twenty-Two Hundred and thirty-One of the Administrative Code."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1929-12-05",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3623",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 763,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1929/act_3623_1929.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03623_1929_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03623_1929_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14256-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section twenty-two hundred and thirty-one of Act Numbered Twenty-seven hundred and eleven,\nknown as the Administrative Code, is hereby amended to read as follows:\n\"Section 2231. Translation of ordinance into native dialed.-In addition to the duties of the municipal secretary,\nas defined in section twenty-two hundred and twelve of this Act, it shall be his duty to translate into the dialect\nused by the majority of the people of the municipality, all ordinances immediately after their approval by the\nmunicipal council and to have them posted as translated into such dialect, at the main entrance of the\nmunicipal building and in other frequented public places in the town and its barrios."
+   }
+  },
+  {
+   "id": "PH-H14256-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, December 5, 1929."
+   }
+  }
+ ]
+}

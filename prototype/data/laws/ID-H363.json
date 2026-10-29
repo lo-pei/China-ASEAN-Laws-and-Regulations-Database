@@ -1,0 +1,66 @@
+{
+ "id": "ID-H363",
+ "title": {
+  "zh": "引渡法",
+  "en": "Law on Extradition",
+  "id": "EKSTRADISI",
+  "orig": "EKSTRADISI",
+  "vi": "Luật về Dẫn độ",
+  "th": "พระราชบัญญัติว่าด้วยการส่งผู้ร้ายข้ามแดน",
+  "ms": "Akta tentang Ekstradisi"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02b",
+ "language": "id",
+ "level": "law",
+ "category": "05_刑事与知识产权",
+ "status": "active",
+ "promulgatedDate": "1978",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "-",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 2,
+ "chars": 617,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": null
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\05_刑事与知识产权\\印尼_WLD_1978_EKSTRADISI.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 2 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H363-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\nMengesahkan Perjanjian antara Pemerintah Republik Indonesia dan\nPemerintah Kerajaan Thailand tentang Ekstradisi tertanggal 29 Juni\n1976, yang salinan naskahnya dilampirkan pada Undang-undang\nini."
+   }
+  },
+  {
+   "id": "ID-H363-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\nUndang-undang ini mulai berlaku pada tanggal diundangkannya.\nAgar supaya setiap orang mengetahuinya, memerintahkan\npengundangan Undang-undang ini dengan penempatannya dalam Lembaran\nNegara Republik\nIndonesia.\nDisahkan di Jakarta\npada tanggal 18 Maret 1978\nPRESIDEN REPUBLIK INDONESIA,\nSOEHARTO\nDiundangkan di Jakarta\npada tanggal 18 Maret 1978\nMENTERI/SEKRETARIS NEGARA\nREPUBLIK INDONESIA,\nSUDHARMONO, S.H."
+   }
+  }
+ ]
+}

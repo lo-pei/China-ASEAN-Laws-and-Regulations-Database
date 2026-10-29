@@ -1,0 +1,150 @@
+{
+ "id": "ID-H208",
+ "title": {
+  "zh": "义务法",
+  "en": "obligation Law",
+  "id": "kewajiban",
+  "orig": "KEWAJIBAN",
+  "vi": "Luật nghĩa vụ",
+  "th": "พระราชบัญญัติ หน้าที่",
+  "ms": "Akta kewajiban"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02c",
+ "language": "id",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "1962",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU2-1962",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 7,
+ "chars": 4709,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": null
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\01_宪法与基础法\\印尼_WLD_1962_KEWAJIBAN.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 7 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H208-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {},
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 1.\nSemua Perusahaan Minyak di Indonesia diwajibkan ikut-serta\nmemenuhi kebutuhan dalam negeri akan hasil-hasil pengolahan minyak\nbumi."
+   }
+  },
+  {
+   "id": "ID-H208-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {},
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 2.\nBagian masing-masing perusahaan dalam minyak bumi dan hasil\nhasilnya seperti tersebut dalam pasal 1 ditetapkan menurut sistim\nprorata\npenghasilan minyak mentah dari masing- masing Perusahaan\nMinyak."
+   }
+  },
+  {
+   "id": "ID-H208-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "Bagian masing-masing perusahaan dalam minyak bumi dan hasil"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 3.\n(1) Perusahaan-perusahaan yang mempunyai penyulingan sendiri\nwajib menerima dan mengolah minyak mentah dari\nperusahaan-perusahaan\nyang tidak mempunyai penyulingan, sepanjang\nminyak mentah itu menjadi bagiannya untuk memenuhi kewajibannya\nmenurut Undang-undang\nini.\n(2) Dalam hal perusahaan-perusahaan bersangkutan tidak dapat\nmemenuhi kewajibannya sendiri sebagai tersebut dalam pasal 1 dan 2,\nmaka\nperusahaan-perusahaan tersebut diwajibkan menyediakan gantinya\nsesuai dengan kewajibannya dengan mengutamakan pembelian minyak\nbumi\ndan hasil-hasilnya dari Perusahaan-perusahaan Minyak Negara\ndengan membayar nilainya dalam valuta asing."
+   }
+  },
+  {
+   "id": "ID-H208-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "Bagian masing-masing perusahaan dalam minyak bumi dan hasil"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 4.\nMenteri Perindustrian Dasar/Pertambangan mengambil\ntindakan-tindakan pelaksanaan agar supaya tiap Perusahaan Minyak\nmemenuhi kewajibanya\nseperti dimaksud dalam pasal 1, 2 dan 3."
+   }
+  },
+  {
+   "id": "ID-H208-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "Bagian masing-masing perusahaan dalam minyak bumi dan hasil"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 5.\nHasil yang belum cukup diatur dalam Undang-undang ini akan\nditetapkan lebih lanjut dengan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H208-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "Bagian masing-masing perusahaan dalam minyak bumi dan hasil"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 6.\nMenteri Perindustrian Dasar/Pertambangan berhak untuk mengambil\ntindakan-tindakan seperlunya baik dalam rangka mewujudkan\npelaksanaan\nkewajiban-kewajiban Perusahaan-perusahaan Minyak maupun\ndalam rangka pengamanan pelaksanaan kewajiban yang dimaksud dalam\nUndang-undang\nini, jikalau menurut pendapatnya Perusahaan Minyak\ndalam cara melakukan kewajiban-kewajibannya tersebut merugikan\nkepentingan-kepentingan\nnasional atau menghambat perkembangan\nindustri minyak yang sehat."
+   }
+  },
+  {
+   "id": "ID-H208-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "Bagian masing-masing perusahaan dalam minyak bumi dan hasil"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 7.\nUndang-undang ini mulai berlaku pada hari diundangkan dan\nmempunyai daya surut sampai tanggal 12 Mei 1962.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan\npengundangan Undang-undang ini dengan penempatan dalam\nLembaran-Negara\nRepublik Indonesia.\nDisahkan di Jakarta,\npada tanggal 2 Nopember 1962.\nPejabat Presiden Republik Indonesia,\nDJUANDA\nDiundangkan di Jakarta\npada tanggal 2 Nopember 1962\nPejabat Sekretaris Negara,\nA.W. SURJOADININGRAT.\nPENJELASAN\nATAS\nUNDANG-UNDANG No. 15 TAHUN 1962\nTENTANG\nPENETAPAN PERATURAN PEMERINTAH PENGGANTI\nUNDANG-UNDANG No. 2 TAHUN 1962 TENTANG KE-\nWAJIBAN PERUSAHAAN MINYAK MEMENUHI\nKEBUTUHAN DALAM NEGERI (LEMBARAN-\nNEGARA TAHUN 1962 No. 18), MENJADI\nUNDANG-UNDANG.\nI. UMUM.\nPemakaian minyak bumi dan hasil-hasilnya dinegara kita merupakan\nsoal penting karena pengaruhnya yang amat luas dalam bidang\nekonomi,\npolitik dan pertahanan.\nKarena itu Pemerintah menganggap perlu mengikut sertakan semua\nperusahaan minyak yang berada di Indonesia dalam memenuhi kebutuhan\ndalam negeri akan minyak bumi dan hasil-hasilnya.\nDalam memenuhi kebutuhan tersebut diatas, tiap-tiap perusahaan\nmemikul kewajiban yang perbandingannya disesuaikan dengan\nperbandingan\nhasil minyak mentahnya.\nPerusahaan-perusahaan minyak yang mempunyai penyulingan sendiri\nwajib menerima dan mengolah minyak mentah dari Perusahaan yang\ntidak\nmempunyai penyulingan dan segala ongkos penyulingan\nditanggung oleh Perusahaan yang tersebut terakhir.\nDalam hal suatu perusahaan berhubung dengan kapasitas\npenyulingannya tidak dapat memenuhi kewajibannya perusahaan\ntersebut harus\nmenggantikannya dengan membeli minyak bumi dan\nhasil-hasilnya dari perusahaan minyak dalam negeri dengan\nmengutamakan perusahaan\nnasional.\nDalam hal ada pembelian dari perusahaan lain dalam negeri,\nnilainya harus dibayar dalam valuta asing, dengan tidak mengurangi\nberlakunya\nperaturan-peraturan devisen yang ada.\nKewajiban yang ditentukan dalam pasal 1, 2 dan 3 hendaknya jangan\ndipakai alasan untuk mempengaruhi pertimbangan untuk menaikkan\nharga penjualan hasil-hasil pengolahan minyak bumi dan untuk\nmenaikkan tarip angkutan dan ongkos pengolahan minyak bumi dan\nhasil-hasilnya.\nDalam memenuhi kewajiban yang ditentukan oleh Undang-undang ini\nperusahaan-perusahaan minyak wajib tunduk kepada Undang-undang /\nPeraturan-peraturan Perburuhan.\nDalam memenuhi kewajiban-kewajiban tersebut dalam pasal 1, 2 dan\n3, perusahaan-perusahaan minyak harus memelihara keseimbangan\nantara\nkegiatan eksploitasi dengan kegiatan eksplorasi, sehingga\ntetap terjamin kelangsungan (continuitas) pertambangan minyak di\nIndonesia.\nII. PASAL DEMI PASAL.\nCukup jelas.\nDiketahui :\nPd. Sekretaris Negara,\nA. W. SURJOADININGRAT.\n--------------------------------\nCATATAN\nDisetujui DPR-GR dalam rapat pleno terbuka ke-5 pada hari Kamis\ntanggal 11 Oktober 1962, P. 228/1962\nKutipan: LEMBARAN NEGARA DAN TAMBAHAN LEMBARAN NEGARA TAHUN 1962\nYANG TELAH DICETAK ULANG"
+   }
+  }
+ ]
+}

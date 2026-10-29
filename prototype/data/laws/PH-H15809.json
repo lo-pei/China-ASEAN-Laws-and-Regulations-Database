@@ -1,0 +1,62 @@
+{
+ "id": "PH-H15809",
+ "title": {
+  "zh": null,
+  "en": "An Act Authorizing the Appointment of Register of Deeds for third, Fourth and Fifth-Class Provinces.",
+  "orig": "An Act Authorizing the Appointment of Register of Deeds for third, Fourth and Fifth-Class Provinces."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1936-10-27",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 92",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 950,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00092_1936_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00092_1936_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H15809-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section one hundred and ninety-two of the Revised Administrative Code, as amended by section\ntwenty-eight of Act Numbered Four thousand and seven, is hereby further amended to read as follows:\n\"Section 192. Office of the register of deeds.-There shall be a register of deeds for the City of Manila and one\nfor each of the first and second-class provinces, except the Mountain Province where there shall be two: one\nfor the Subprovince of Benguet, including the City of Baguio, and another for the rest of the province. There\nshall also be one for any of the other provinces, whenever the Secretary of Justice will certify to the\nadvisability of the appointment in the interest of the public service. In the third, fourth and fifth-class\nprovinces for which no register of deeds has been appointed, the provincial fiscal shall be the register of deeds\nex officio of the province.\""
+   }
+  },
+  {
+   "id": "PH-H15809-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, October 27, 1936."
+   }
+  }
+ ]
+}

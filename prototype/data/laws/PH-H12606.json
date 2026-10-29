@@ -1,0 +1,62 @@
+{
+ "id": "PH-H12606",
+ "title": {
+  "zh": null,
+  "en": "An Act Amending Subsection Four of Section One Hundred and Forty-Four of Act Numbered Eleven Hundred and Eighty-Nine, Known as \"the Internal Revenue Law of Nineteen Hundred and Four,\" Increasing the License Tax on Pawnbrokers.",
+  "orig": "An Act Amending Subsection Four of Section One Hundred and Forty-Four of Act Numbered Eleven Hundred and Eighty-Nine, Known as \"the Internal Revenue Law of Nineteen Hundred and Four,\" Increasing the License Tax on Pawnbrokers."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1909-05-17",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 1897",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 663,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1909/act_1897_1909.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_01897_1909_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_01897_1909_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12606-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Subsection number four of section one hundred and forty-four of Act Numbered Eleven hundred\nand eighty-nine, known as \"The Internal Revenue Law of Nineteen hundred and four,\" is hereby amended to\nread as follows:\n\"4. Every pawnbroker shall pay four hundred pesos. Every person, firm, or company whose business or\noccupation it is to take or receive by way of pledge or pawn, any goods, wares, or merchandise or any kind of\npersonal property whatever, except agricultural products, as security for the repayment of money loaned\nthereon, shall be regarded as a pawnbroker.\""
+   }
+  },
+  {
+   "id": "PH-H12606-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Acts shall take effect on July first, nineteen hundred and nine.\nEnacted, May 17, 1909."
+   }
+  }
+ ]
+}

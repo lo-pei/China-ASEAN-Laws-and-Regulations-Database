@@ -1,0 +1,316 @@
+{
+ "id": "ID-H1355",
+ "title": {
+  "zh": "设立帕加尔阿拉姆市法",
+  "en": "Law on the Establishment of Pagar Alam City",
+  "id": "PEMBENTUKAN KOTA PAGAR ALAM",
+  "orig": "PEMBENTUKAN KOTA PAGAR ALAM",
+  "vi": "Luật về Việc Thành lập Thành phố Pagar Alam",
+  "th": "พระราชบัญญัติว่าด้วยการจัดตั้งนครปาการ์อาลัม",
+  "ms": "Akta tentang Pembentukan Bandar Pagar Alam"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02c",
+ "language": "id",
+ "level": "law",
+ "category": "04_劳工与行政法",
+ "status": "active",
+ "promulgatedDate": "2001",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU8-2001",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 19,
+ "chars": 14232,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU_NO_8_TH_2001.pdf&fl=P01133"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\04_劳工与行政法\\印尼_文本_2001_PEMBENTUKAN KOTA PAGAR ALAM.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 19 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H1355-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\nDalam Undang-undang ini yang dimaksud dengan :\n1. Daerah adalah Daerah Otonom sebagaimana dimaksud dalam Pasal 1 huruf i Undang -undang Nomor\n22 Tahun 1999 tentang Pemerintahan Daerah.\n2. Propinsi Sumatera Selatan adalah Daerah Otonom sebagaimana dimaksud dalam Undang -undang\nNomor 25 Tahun 1959 tentang Pen etapan Peraturan Pemerintah Pengganti Undang -undang Nomor 3\nTahun 1950 tentang Pembentukan Daerah Tingkat I Sumatera Selatan dan Undang -undang Darurat\nNomor 16 Tahun 1955 Tentang Perubahan Peraturan Pemerintah Pengganti Undang -undang Nomor 3\nTahun 1950;\n3. Kabupaten Lahat adalah Daerah Otonom sebagaimana dimaksud dalam Undang -undang Nomor 28\nTahun 1959 tentang Pembentukan Daerah Tingkat II termasuk Kota Praja di Propinsi Sumatera\nSelatan.\n4. Kota Administratif Pagar Alam adalah Kota Administratif sebagaima na dimaksud dalam Peraturan\nPemerintah Nomor 63 Tahun 1991 tentang Pembentukan Kota Administratif Pagar Alam.\nBAB II\nPEMBENTUKAN DAN BATAS WILAYAH"
+   }
+  },
+  {
+   "id": "ID-H1355-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\nDengan undang-undang ini dibentuk Kota Pagar Alam di wilayah Propinsi Sumatera Selatan dalam Negar a\nKesatuan Republik Indonesia."
+   }
+  },
+  {
+   "id": "ID-H1355-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\nKota Pagar Alam berasal dari sebagian Kabupaten Lahat yang terdiri atas:\na. Kecamatan Pagar Alam Utara;\nb. Kecamatan Pagar Alam Selatan;\nPRESIDEN\nREPUBLIK INDONESIA\nc. Kecamatan Dempo Utara; dan\nd. Kecamatan Dempo Selatan."
+   }
+  },
+  {
+   "id": "ID-H1355-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4 …"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 4\nDengan terbentuknya Kota Pagar Alam, sebagaimana dimaksud dalam Pasal 2, wilayah Kabupaten Lahat\ndikurangi dengan wilayah Kota Pagar Alam sebagaimana dimaksud dalam Pasal 3."
+   }
+  },
+  {
+   "id": "ID-H1355-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\nDengan terbentuknya Kota Pagar Alam, Kota Administratif Pagar A lam dalam wilayah Kabupaten Lahat\ndihapus."
+   }
+  },
+  {
+   "id": "ID-H1355-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\n(1). Kota Pagar Alam mempunyai batas-batas wilayah:\na. sebelah utara dengan Kecamatan Pulau Pinang dan Kecamatan Fajar Bulan Kabupaten\nLahat;\nb. Sebelah timur dengan Kecamatan Pulau Pinang dan Kecamatan Fajar Bulan Kabupaten\nLahat;\nc. Sebelah selatan dengan Kecamatan Kota Agung Kabupaten Lahat; dan\nd. sebelah barat dengan Kecamatan Tanjung Sakti Kabupaten Lahat.\n(2) Batas wilayah sebagaimana dima ksud pada ayat (1) dituangkan dalam peta yang merupakan\nbagian tidak terpisahkan dari undang-undang ini.\n(3) Penentuan batas wilayah Kota Pagar Alam dan Kabupaten Lahat secara pasti di lapangan,\nsebagaimana dimaksud pada ayat (1), ditetapkan oleh Menteri D alam Negeri dan Otonomi Daerah."
+   }
+  },
+  {
+   "id": "ID-H1355-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\n(1). Dengan terbentuknya Kota Pagar Alam Pemerintah Kota Pagar Alam menetapkan Rencana Tata\nRuang Wilayah Kota Pagar Alam sesuai dengan peraturan perundang -undangan.\n(2) Penetapan Rencana Tata Ruang Wilayah Kota P agar Alam sebagaimana dimaksud pada ayat (1)\ndilakukan secara terpadu dan tidak terpisahkan dari Tata Ruang Wilayah Nasional, Propinsi, dan\nPRESIDEN\nREPUBLIK INDONESIA\nKabupaten/Kota di sekitarnya.\nBAB III …\nBAB III\nKEWENANGAN DAERAH"
+   }
+  },
+  {
+   "id": "ID-H1355-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n(1) Kewenangan Kota Pagar Alam sebagai daerah otonom mencakup seluruh kewenangan bidang\npemerintahan, termasuk kewenangan wajib, kecuali bidang politik luar negeri, pertahanan\nkeamanan, moneter dan fiskal, agama, serta kewenangan bidang lain sesuai dengan pera turan\nPerundang-undangan.\n(2) Kewenangan wajib, sebagaimana dimaksud pada ayat (1), terdiri atas pekerjaan umum,\nkesehatan, pendidikan dan kebudayaan, pertanian, perhubungan, industri dan perdagangan,\npenanaman modal, lingkungan hidup, pertanahan, koperasi dan tenaga kerja.\nBAB IV\nPEMERINTAHAN DAERAH\nBagian Pertama\nDewan Perwakilan Rakyat Daerah"
+   }
+  },
+  {
+   "id": "ID-H1355-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n(1) Dewan Perwakilan Rakyat Daerah Kota Pagar Alam dibentuk sesuai dengan peraturan\nperundang-undangan, selambat-lambatnya satu tahun setelah peresmian Kota Pagar Alam.\n(2) Pengisian keanggotaan Dewan Perwakilan Rakyat Daerah Kota Pagar Alam dilakukan dengan\ncara:\na. penetapan berdasarkan perimbangan hasil perolehan suara partai politik peserta\nPemilihan Umum Tahun 1999 yang dilaksanakan di daerah terseb ut; dan\nb. pengangkatan anggota Tentara Nasional Indonesia dan Kepolisian Republik Indonesia.\n(3) Jumlah dan tata cara pengisian keanggotaan Dewan Perwakilan Rakyat Daerah Kota Pagar Alam,\nsebagaimana dimaksud pada ayat (1), ditetapkan sesuai dengan peraturan perundang -undangan.\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H1355-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10 …"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 10\n(1) Dengan terbentuknya Kota Pagar Alam, jumla h anggota Dewan Perwakilan Rakyat Daerah\nKabupaten Lahat tidak berubah sampai dengan terbentuknya Dewan Perwakilan Rakyat Daerah\nsebagai hasil pemilihan umum berikutnya.\n(2) Anggota Dewan Perwakilan Rakyat Daerah Kabupaten Lahat, yang keanggotaannya mewaki li\nkecamatan yang termasuk dalam wilayah Kota Pagar Alam dengan sendirinya menjadi anggota\nDewan Perwakilan Rakyat Daerah Kota Pagar Alam.\n(3) Pengisian kekurangan anggota Dewan Perwakilan Rakyat Daerah Kabupaten Lahat ditetapkan\nberdasarkan jumlah dan komposisi anggota yang berpindah ke Kota Pagar Alam.\n(4) Pengisian Kekurangan anggota Dewan Perwakilan Rakyat Daerah Kabupaten Lahat sebagaimana\ndimaksud pada ayat (3), dilaksanakan setelah peresmian anggota Dewan Perwakilan Rakyat\nDaerah Kota Pagar Alam.\nBagian Kedua\nPemerintah Daerah"
+   }
+  },
+  {
+   "id": "ID-H1355-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\nUntuk memimpin jalannya pemerintahan di Kota Pagar Alam, dipilih dan disahkan seorang Walikota dan\nWakil Walikota, sesuai dengan peraturan perundang-undangan."
+   }
+  },
+  {
+   "id": "ID-H1355-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n(1) Pada saat terbentuknya Kota Pagar Alam, penjabat Walikota Pagar Alam diangkat oleh Menteri\nDalam Negeri dan Otonomi Daerah atas nama Presiden.\n(2) Walikota Adminstratif Pagar Alam diangkat sebagai penjabat Walikota Pagar Alam.\nPRESIDEN\nREPUBLIK INDONESIA\nBagian Ketiga …\nBagian Ketiga\nPerangkat Pemerintahan Daerah"
+   }
+  },
+  {
+   "id": "ID-H1355-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\nUntuk kelengkapan perangkat pemerintahan Kota Pagar Alam, dibentuk Sekretariat Dewan Perwakilan\nRakyat Daerah Kota, Sekretariat Kota, Dinas Kota, dan Lembaga Teknis Kota sesuai dengan peraturan\nperundang-undangan.\nBAB V\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H1355-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\n(1) Untuk kelancaran penyelenggaraan pemerintahan Kota Pagar Alam, Menteri/Kepala Lembaga\nPemerintah Non-Departemen yang terkait, Gubernur Sumatera Selatan, dan Bupati Lahat sesuai\ndengan kewenangannya menginvetarisasi dan menyerahkan kepada Pemerintah Kota Pagar Alam\nhal-hal yang meliputi :\na. pegawai yang karena tugasnya diperlukan oleh Pemerintah Kota Pagar Alam;\nb. barang milik/kekayaan negara/daerah yang berupa tanah, bangunan, barang bergerak dan\nbarang tidak bergerak lainnya yang dimiliki, dikuasai, dan/atau dimanfaatkan oleh\nPemerintah, Propinsi Sumatera Selatan dan Kabupaten Lahat yang berada di Kota Pagar\nAlam sesuai dengan peraturan perundang-undangan;\nc. Badan Usaha Milik Daerah Propinsi Sumater a Selatan dan Kabupaten Lahat yang\nkedudukan dan kegiatannya berada di Kota Pagar Alam;\nd. utang piutang Kabupaten Lahat yang kegunaannya untuk Kota Pagar Alam; dan\ne. dokumen dan arsip yang karena sifatnya diperlukan oleh Kota Pagar Alam.\n(2) Pelaksanaan penyerahan sebagaimana dimaksud pada ayat (1) selambat -lambatnya diselesaikan\nPRESIDEN\nREPUBLIK INDONESIA\ndalam waktu satu tahun, terhitung sejak pelantikan Penjabat Walikota Pagar Alam.\n(3) Tata cara inventarisasi dan penyerahan sebagaimana dimaksud pada ayat (1), diatur oleh Me nteri\nDalam Negeri dan Otonomi Daerah sesuai dengan peraturan perundang -undangan."
+   }
+  },
+  {
+   "id": "ID-H1355-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15 …"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 15\n(1) Pembiayaan yang diperlukan untuk pembentukan Kota Pagar Alam, sebagaimana dimaksud\ndalam Pasal 2, dibebankan kepada Anggaran Pendapatan dan Belanja Daerah Kabupaten Lahat.\n(2) Untuk kelancaran penyelengaraan pemerintahan, pelaksanaan pembangunan, dan pelayanan\nkemasyarakatan, terhitung sejak diresmikannya pembentukan Kota Pagar Alam, pembiayaan yang\ndiperlukan pada tahun pertama sebelum tersusun Anggaran Pendapatan dan Belanja Daerah\nKota Pagar Alam dibebankan Kepada Anggaran Pendapatan dan Belanja Daerah Kabupaten\nLahat berdasarkan hasil pendapatan yang diperoleh dari Kota Pagar Alam."
+   }
+  },
+  {
+   "id": "ID-H1355-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\nSemua perun dang-undangan yang saat ini berlaku bagi Kabupaten Lahat tetap berlaku bagi Kota Pagar\nAlam sebelum peraturan perundang -undangan dimaksud diubah, diganti, atau dicabut berdasarkan\nundang-undang ini.\nBAB VI\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H1355-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\nPada saat berlakunya undang -undang ini, semua peraturan perund ang-undangan yang bertentangan\ndengan undang-undang ini dinyatakan tidak berlaku.\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H1355-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\nKetentuan lebih lanjut yang diperlukan sebagai pelaksanaan undang -undang ini diatur sesuai dengan\nperaturan perundang-undangan."
+   }
+  },
+  {
+   "id": "ID-H1355-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19 …"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 19\nUndang-undang ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Undang -undang ini dengan\npenempatannya dalam Lembaran Negara Republik Indonesia.\nDisahkan di Jakarta\npada tanggal 21 Juni 2001\nPRESIDEN REPUBLIK INDONESIA\nttd\nABDURRAHMAN WAHID\nDiundangkan di Jakarta\npada tanggal 21 Juni 2001\nSEKRETARIS NEGARA REPUBLIK INDONESIA\nttd\nDJOHAN EFFENDI\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2001 NOMOR 88\nPRESIDEN\nREPUBLIK INDONESIA\nPRESIDEN\nREPUBLIK INDONESIA\nPENJELASAN\nATAS\nUNDANG-UNDANG REPUBLIK INDONESIA\nNOMOR 8 TAHUN 2001\nTENTANG\nPEMBENTUKAN KOTA PAGAR ALAM\nI. UMUM\nKota Administrasi Pagar Alam dengan luas wilayah keseluruhan mencapai 63.366 ha, yang\nmerupakan bagian dari Kabupaten Lahat sebagaimana dimaksud dalam Undang -undang Nomor\n28 Tahun 1959 tentang Pembentukan Daerah Tingkat II termasuk Kotapraja dalam\nLingkungan Daerah Tingkat I Sumatera Selatan, telah menunjukkan perkembangan yang pesat,\nkhususnya di bidang pelaksanaan pembangunan dan peningkatan jumlah penduduk, yang pada\ntahun 1990 berjumlah 102.500 jiwa dan pada tahun 2000 meningkat menjadi 107.731 jiwa dengan\npertumbuhan rata-rata 0,5 % per tahun. Hal ini mengakibatkan bertambahnya beban tugas dalam\npenyelengaraan pemerintahan, pelaksanaan pembangunan, dan pel ayanan kemasyarakatan.\nOleh karena itu, sangat diperlukan adanya peningkatan di bidang penyelenggaraan pemerintahan,\npelaksanaan pembangunan, dan pelayanan kemasyarakatan dalam rangka meningkatkan taraf\nhidup dan kesejahteraan masyarakat di wilayah Kota Ad ministratif Pagar Alam Kabupaten Lahat,\nsebagaimana diatur dalam Peraturan Pemerintah Nomor 63 Tahun 1991 tentang Pembentukan\nKota Administratif Pagar Alam.\nSecara Geografis wilayah Kota Administratif Pagar Alam mempunyai kedudukan strategis, baik\ndari segi ekonomi maupun sosial budaya. Dari segi potensi pertanian, industri dan perdagangan,\nserta pariwisata, Kota Administratif Pagar Alam mempunyai prospek yang baik bagi pemenuhan\nkebutuhan pasar di dalam dan luar negeri\nBerdasarkan hal tersebut diatas dan memperhatikan aspirasi masyarakat yang berkembang,\nwilayah Kota Administratif Pagar Alam yang meliputi Kecamatan Pagar Alam Utara, Kecamatan\nPagar Alam Selatan, Kecamatan Dempo Utara, dan Kecamatan Dempo Selatan perlu dibentuk\nmenjadi Kota Pagar Alam.\nDalam rangka mengembangkan wilayah dan potensi yang di miliki Kota Pagar Alam serta\nmemenuhi kebutuhan pada masa yang akan datang, terutama dalam hal peningkatan sarana dan\nprasarana serta kesatuan perencanaan dan pembinaan wilayah, maka sistem Tata Ruang Wilayah\nKota Pagar Alam harus dioptimalkan penataannya serta dikonsolidasikan jaringan sarana dan\nprasarananya dalam satu sistem kesatuan pengembangan terpadu dengan Propinsi Sumatera\nSelatan dan Kabupaten lainnya di Sumatera Selatan, khususnya Kabupaten L ahat.\nPRESIDEN\nREPUBLIK INDONESIA\nII. PASAL …\nII. PASAL DEMI PASAL\nPasal 1\nCukup jelas\nPasal 2\nCukup jelas\nPasal 3\nCukup jelas\nPasal 4\nCukup jelas\nPasal 5\nCukup jelas\nPasal 6\nAyat (1)\nCukup jelas\nAyat (2)\nPeta sebagaimana dimaksud pada ayat ini adalah peta wilayah Kota Pagar Alam\ndalam bentuk lampiran undang-undang ini.\nAyat (3)\nPenentuan batas wilayah secara pasti di lapangan antara Kabupaten Lahat dan\nKota Pagar Alam ditetapkan oleh Menteri Dalam N egeri dan Otonomi Daerah setelah\nmempertimbangkan usul Bupati Lahat dan Walikota Pagar Alam yang didasarkan atas hasil\npenelitian, pengukuran, dan pematokan dilapangan.\nPasal 7\nayat (1)\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (2) …\nAyat (2)\nDalam rangka pengembanga n Kota Pagar Alam sesuai dengan potensi daerah,\nkhususnya guna perencanaan dan penyelenggaraan pemerintahan, pelaksanaan pembangunan\npada masa yang akan datang, serta pengembangan sarana dan prasarana pemerintahan dan\npembangunan, diperlukan adanya kesatu an perencanaan pembangunan. Untuk itu, Rencana Tata\nRuang Wilayah Kota Pagar Alam harus serasi dan terpadu penyusunannya dalam suatu kesatuan\nRencana Tata Ruang Wilayah Nasional, Propinsi Sumatera Selatan, Kabupaten, dan Kota di\nsekitarnya.\nPasal 8\nAyat (1)\nYang dimaksud dengan kewenangan bidang lain adalah kewenangan\nsebagaimana yang diatur dalam Pasal 7 ayat (2) Undang -undang Nomor 22 Tahun 1999 tentang\nPemerintahan Daerah yang meliputi kebijakan nasional secara makro, dana perimbangan\nkeuangan, si stem administrasi negara dan lembaga perekonomian negara, pembinaan dan\npemberdayaan sumber daya manusia, pendayagunaan sumber daya alam serta teknologi tinggi\nyang strategis, konservasi, dan standarisasi nasional.\nSelain itu, yang termasuk pengecualian kewenangan wajib adalah kewenangan\nlintas Kabupaten dan Kota serta kewenangan yang tidak atau belum dapat dilaksanakan Daerah\nKabupaten dan Daerah Kota.\nAyat (2)\nCukup jelas.\nPasal 9\nAyat (1)\nCukup jelas.\nAyat (2)\nHuruf a\nYang dimaksud dengan daerah tersebut adalah Kecamatan Pagar Alam\nUtara, Kecamatan Pagar Alam Selatan, Kecamatan Dempo Utara, dan Kecamatan Dempo\nSelatan.\nPRESIDEN\nREPUBLIK INDONESIA\nHuruf b\nCukup jelas.\nAyat (3) …\nAyat (3)\nCukup jelas.\nPasal 10\nCukup jelas.\nPasal 11\nCukup jelas.\nPasal 12\nAyat (1)\nCukup jelas.\nAyat (2)\nUntuk menjamin kesinambungan penyelenggaraan pemerintahan, penjabat\nWalikota Pagar Alam melaksanakan tugas sampai dengan pelantikan Walikota dan Wakil Walikota\nPagar Alam hasil pemilihan Dewan Perwakilan Rakyat Daerah Kota Pagar Alam.\nPasal 13\nPembentukan Dinas Kota dan Lembaga Teknis Kota harus disesuaikan dengan kebutuhan\ndan kemampuan Kota.\nPasal 14\nCukup jelas.\nPasal 15\nAyat (1)\nYang dimaksud dengan pembiayaan adalah biaya yang diperuntukkan bagi\npembangunan gedung perkantoran, rumah dina s, perlengkapan kantor, sarana mobilitas, serta\nbiaya operasional bagi kelancaran penyelenggaraan pemerintahan, pelaksanaan pembangunan,\ndan pelayanan kemasyarakatan.\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (2)\nCukup jelas.\nPasal 16 …\nPasal 16\nCukup jelas.\nPasal 17\nCukup jelas.\nPasal 18\nCukup jelas.\nPasal 19\nCukup jelas.\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 4115"
+   }
+  }
+ ]
+}

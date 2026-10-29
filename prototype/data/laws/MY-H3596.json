@@ -1,0 +1,258 @@
+{
+ "id": "MY-H3596",
+ "title": {
+  "zh": "2012年脱氧核糖核酸（DNA）鉴定条例",
+  "en": "DEOXYRIBONUCLEIC ACID (DNA) IDENTIFICATION REGULATIONS 2012",
+  "orig": "DEOXYRIBONUCLEIC ACID (DNA) IDENTIFICATION REGULATIONS 2012",
+  "ms": "Peraturan Pengenalpastian Asid Deoksiribonukleik (DNA) 2012",
+  "vi": "Quy định về Giám định axit deoxyribonucleic (DNA) năm 2012",
+  "th": "ข้อบังคับการพิสูจน์เอกลักษณ์ด้วยกรดดีออกซีไรโบนิวคลีอิก (DNA) ค.ศ. 2012",
+  "id": "Peraturan Identifikasi Asam Deoksiribonukleat (DNA) Tahun 2012"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-8",
+ "language": "ms",
+ "level": "regulation",
+ "category": "05_其他及未分类",
+ "status": "active",
+ "promulgatedDate": "2012",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "PUA274",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 18,
+ "chars": 38349,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-view.php?type=pua&no=P.U. (A) 274/2012&status=PRINCIPAL"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\05_其他及未分类\\2012_P.U.(A)274-2012_DEOXYRIBONUCLEIC ACID (DNA) IDENTIFICATION REGULATIONS 2012.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 18 条；逐字未改写（源自厂商 OCR 文本）；已清除正文中的 6 个控制字符（C0/C1 区，法律文本中无合法用途，系 PDF 抽取/表单域残留）。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H3596-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "1. Nama dan permulaan kuat kuasa"
+   }
+  },
+  {
+   "id": "MY-H3596-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "2. Tafsiran"
+   }
+  },
+  {
+   "id": "MY-H3596-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "3. Kebenaran untuk mengambil sampel intim atau sampel bukan intim"
+   }
+  },
+  {
+   "id": "MY-H3596-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "4. Maklumat yang akan diberikan sebelum membuat suatu permintaan bagi\n\npengambilan sampel intim"
+   }
+  },
+  {
+   "id": "MY-H3596-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "5. Maklumat yang akan diberikan sebelum membuat suatu permintaan bagi\n\npengambilan sampel bukan intim"
+   }
+  },
+  {
+   "id": "MY-H3596-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "6. Keizinan yang berkenaan hendaklah diberi sebelum pengambilan sampel intim"
+   }
+  },
+  {
+   "id": "MY-H3596-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "7. Keizinan yang berkenaan hendaklah diberi sebelum pengambilan sampel intim\n\natau bukan intim yang diberikan secara sukarela"
+   }
+  },
+  {
+   "id": "MY-H3596-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "8. Tatacara bagi pengambilan sampel intim"
+   }
+  },
+  {
+   "id": "MY-H3596-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "9. Tatacara bagi pengambilan sampel bukan intim"
+   }
+  },
+  {
+   "id": "MY-H3596-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "10. Tatacara bagi pengambilan sampel intim atau bukan intim di tempat kejadian\n\njenayah"
+   }
+  },
+  {
+   "id": "MY-H3596-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "11. Penyimpanan dan penghantaran pakej DNA"
+   }
+  },
+  {
+   "id": "MY-H3596-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "12. Maklumat yang akan direkodkan apabila pakej DNA dihantar"
+   }
+  },
+  {
+   "id": "MY-H3596-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "13. Penyimpanan sampel intim dan sampel bukan intim"
+   }
+  },
+  {
+   "id": "MY-H3596-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "14. Memuat naik profil dan maklumat DNA ke dalam Bank Data DNA"
+   }
+  },
+  {
+   "id": "MY-H3596-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "15. Pelupusan sampel intim dan bukan intim"
+   }
+  },
+  {
+   "id": "MY-H3596-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "16. Penghapusan profil dan maklumat DNA daripada indeks orang yang disyaki"
+   }
+  },
+  {
+   "id": "MY-H3596-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "17. Penghapusan profil dan maklumat DNA daripada indeks sukarela"
+   }
+  },
+  {
+   "id": "MY-H3596-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "18. Pewujudan tatacara standard\n\nJADUAL PERTAMA\n\nJADUAL KEDUA\n\nJADUAL KETIGA\n\nJADUAL KEEMPAT\n\nJADUAL KELIMA\n\nAKTA IDENTIFIKASI ASID DEOKSIRIBONUKLEIK (DNA) 2009\n\nPERATURAN-PERATURAN IDENTIFIKASI ASID DEOKSIRIBONUKLEIK (DNA) 2012\n\nPADA menjalankan kuasa yang diberikan oleh seksyen 24 Akta Identifikasi Asid\n\nDeoksiribonukleik (DNA) 2009 [Akta 699], Menteri membuat peraturan-peraturan yang\n\nberikut:\n\nNama dan permulaan kuat kuasa\n\n1. (1) Peraturan-peraturan ini bolehlah dinamakan sebagai PeraturanPeraturan Identifikasi Asid Deoksiribonukleik (DNA) 2012.\n\n(2) Peraturan-Peraturan ini mula berkuat kuasa pada 1 September 2012.\n\nTafsiran\n\n2. Dalam Peraturan-Peraturan ini, melainkan jika konteksnya menghendaki makna\n\nyang lain—\n\n\"makmal DNA\" ertinya suatu makmal yang menjalankan analisis forensik DNA ke\n\natas sampel intim atau bukan intim yang diambil daripada tubuh badan manusia atau\n\ndari tempat kejadian jenayah, di Jabatan Kimia Malaysia atau Makmal Forensik Polis\n\nDiraja Malaysia atau mana-mana agensi atau badan sebagaimana yang dinamakan oleh\n\nMenteri menurut seksyen 5 Akta;\n\n\"pakej DNA\" ertinya pakej atau bekas yang mengandungi sampel intim atau bukan\n\nintim yang telah dilabel dengan tanda pengenalan dan dilak seperti yang dikehendaki di\n\nbawah peraturan 8 dan 9, mengikut mana-mana yang berkenaan.\n\nKebenaran untuk mengambil sampel intim atau sampel bukan intim\n\n3. Bagi maksud pengambilan sampel intim atau sampel bukan intim daripada manamana orang yang dirujuk di bawah seksyen 12 atau 13 Akta, pegawai diberi kuasa\n\nhendaklah memberikan kebenarannya secara bertulis dalam borang yang dinyatakan\n\ndalam Jadual Pertama.\n\nMaklumat yang akan diberikan sebelum membuat suatu permintaan bagi\n\npengambilan sampel intim\n\n4. Jika sesuatu sampel intim hendak diminta daripada seseorang, pegawai polis\n\nhendaklah memaklumi orang itu—\n\n(a) jenis sampel intim yang dikehendaki;\n\n(b) alasan dan tujuan sampel intim itu diminta;\n\n(c) bahawa keizinan hendaklah secara bertulis; dan\n\n(d) bahawa sampel intim hendaklah dianalisis dan keputusan analisis tersebut\n\nboleh digunakan sebagai keterangan di dalam penyiasatan jenayah,\n\npendakwaan atau bagi tujuan lain.\n\nMaklumat yang akan diberikan sebelum membuat suatu permintaan bagi\n\npengambilan sampel bukan intim\n\n5. Jika sesuatu sampel bukan intim hendak diminta daripada seseorang, pegawai\n\npolis hendaklah memaklumi orang itu—\n\n(a) jenis sampel bukan intim yang dikehendaki;\n\n(b) alasan dan tujuan sampel bukan intim itu diminta; dan\n\n(c) bahawa sampel bukan intim itu hendaklah dianalisis dan keputusan\n\nanalisis tersebut boleh digunakan sebagai keterangan di dalam penyiasatan\n\njenayah, pendakwaan atau bagi tujuan lain.\n\nKeizinan yang berkenaan hendaklah diberi sebelum pengambilan sampel intim\n\n6. Bagi maksud pengambilan sampel intim daripada—\n\n(a) seseorang yang semunasabahnya disyaki telah melakukan suatu kesalahan;\n\n(b) orang tahanan;\n\n(c) penagih dadah; atau\n\n(d) banduan,\n\nkeizinan yang berkenaan hendaklah diberi oleh orang yang daripadanya sampel intim\n\nitu diambil dalam borang yang dinyatakan dalam Jadual Kedua.\n\nKeizinan yang berkenaan hendaklah diberi sebelum pengambilan sampel intim\n\natau bukan intim yang diberikan secara sukarela\n\n7. Bagi maksud pengambilan sampel intim atau bukan intim yang diberikan secara\n\nsukarela, keizinan yang berkenaan hendaklah diberi oleh orang yang memberikan\n\nsampel intim atau bukan intim secara sukarela itu dalam borang yang dinyatakan di\n\ndalam Jadual Ketiga.\n\nTatacara bagi pengambilan sampel intim\n\n8. (1) Seseorang pegawai perubatan kerajaan yang mengambil sampel intim\n\ndaripada mana-mana orang hendaklah memastikan bahawa tatacara bagi pengambilan\n\nsampel intim itu dilaksanakan dengan suatu cara yang selaras dengan standard\n\nperubatan atau badan profesional yang berkaitan.\n\n(2) Pegawai perubatan kerajaan itu hendaklah memastikan bekas yang\n\nmengandungi sampel intim atau pakej yang mengandungi bekas sampel intim itu—\n\n(a) dilabel dengan suatu tanda pengenalan;\n\n(b) dilak; dan\n\n(c) diserahkan kepada pegawai polis yang bertanggungjawab bagi\n\npemungutan sampel intim tersebut.\n\n(3) Tanda pengenalan yang disebut dalam perenggan (2)(a) hendaklah\n\ntermasuk—\n\n(a) nama orang yang daripadanya suatu sampel intim diambil;\n\n(b) nombor kad pengenalan, nombor pasport atau apa-apa pengenalan\n\nlain orang itu, mengikut mana-mana yang berkenaan;\n\n(c) tarikh sampel intim itu diambil; dan\n\n(d) nombor laporan polis, jika berkenaan.\n\nTatacara bagi pengambilan sampel bukan intim\n\n9. (1) Seseorang pegawai perubatan kerajaan, pegawai polis atau ahli kimia yang\n\nmengambil suatu sampel bukan intim daripada mana-mana orang hendaklah\n\nmemastikan bahawa tatacara bagi pengambilan sampel bukan intim itu dilaksanakan\n\ndengan suatu cara yang selaras dengan standard perubatan atau badan profesional yang\n\nberkaitan.\n\n(2) Pegawai perubatan kerajaan, pegawai polis atau ahli kimia itu hendaklah\n\nmemastikan bekas yang mengandungi sampel bukan intim atau pakej yang\n\nmengandungi bekas sampel bukan intim itu—\n\n(a) dilabel dengan suatu tanda pengenalan;\n\n(b) dilak; dan\n\n(c) diserahkan kepada pegawai polis yang bertanggungjawab bagi\n\npemungutan sampel bukan intim itu.\n\n(3) Tanda pengenalan yang disebut dalam perenggan (2)(a) hendaklah\n\ntermasuk—\n\n(a) nama orang yang daripadanya suatu sampel bukan intim diambil;\n\n(b) nombor kad pengenalan, nombor pasport atau apa-apa pengenalan\n\nlain orang itu, mengikut mana-mana yang berkenaan;\n\n(c) tarikh sampel bukan intim itu diambil; dan\n\n(d) nombor laporan polis, jika berkenaan.\n\nTatacara bagi pengambilan sampel intim atau bukan intim di tempat kejadian\n\njenayah\n\n10. Apabila suatu sampel intim atau bukan intim ditemui—\n\n(a) pada apa-apa benda atau di mana-mana tempat suatu kesalahan\n\ndilakukan;\n\n(b) pada atau di dalam tubuh mangsa suatu kesalahan;\n\n(c) pada apa-apa benda yang dipakai atau dibawa oleh mangsa suatu\n\nkesalahan pada masa kesalahan itu dilakukan; atau\n\n(d) pada atau di dalam tubuh mana-mana orang yang semunasabahnya\n\ndisyaki melakukan suatu kesalahan,\n\npegawai polis yang mengambil sampel intim atau bukan intim dari tempat kejadian\n\njenayah hendaklah memastikan tatacara bagi pengambilan sampel intim atau bukan\n\nintim itu dilaksanakan dalam suatu cara yang selaras dengan Perintah Tetap, yang\n\ndikeluarkan oleh Ketua Polis Negara menurut seksyen 97 Akta Polis 1967 [Akta 344] .\n\nPenyimpanan dan penghantaran pakej DNA\n\n11. (1) Semua pakej DNA yang dipungut sebelum penghantaran ke makmal DNA\n\nhendaklah disimpan dengan selamat.\n\n(2) Pegawai polis yang bertanggungjawab bagi pemungutan sampel intim\n\natau bukan intim yang disebut dalam perenggan 8(2)(c) dan 9(2)(c) hendaklah\n\nmenghantar pakej DNA kepada makmal DNA dalam tempoh yang munasabah.\n\n(3) Pakej DNA yang diserahkan kepada makmal DNA untuk analisis forensik\n\nhendaklah disertakan bersama suatu surat permohonan daripada pegawai polis.\n\nMaklumat yang akan direkodkan apabila pakej DNA dihantar\n\n12. (1) Makmal DNA yang menerima pakej DNA untuk analisis ujian DNA hendaklah\n\nmemastikan bahawa pakej DNA itu dilak dengan sepatutnya, dilabel dan boleh dikenal\n\npasti.\n\n(2) Pakej DNA itu hendaklah didaftarkan menurut standard tatacara\n\npengendalian makmal DNA.\n\nPenyimpanan sampel intim dan sampel bukan intim\n\n13. (1) Ketua Bank Data DNA hendaklah memastikan sampel intim atau bukan intim\n\nyang diterima disimpan di lokasi selamat yang dinamakan di makmal DNA.\n\n(2) Ketua Bank Data DNA hendaklah mewujudkan dan menyenggara suatu\n\ndaftar bagi maksud menguruskan penyimpanan sampel intim dan bukan intim.\n\nMemuat naik profil dan maklumat DNA ke dalam Bank Data DNA\n\n14. (1) Sampel intim dan bukan intim hendaklah dianalisis dan disenggara mengikut\n\ntatacara makmal DNA yang standard.\n\n(2) Apabila mendapat notis penyerahan profil DNA dan apa-apa maklumat\n\nberhubung dengannya oleh makmal DNA, pegawai Bank Data DNA hendaklah terlebih\n\ndahulu menilai profil DNA dan apa-apa maklumat berhubung dengannya.\n\n(3) Pegawai Bank Data DNA hendaklah kemudiannya memuat naik profil DNA\n\ndan apa-apa maklumat berhubung dengannya ke dalam indeks Bank Data masingmasing.\n\n(4) Suatu daftar hendaklah disenggarakan untuk merekod maklumat berhubung\n\ndengan semua profil DNA dan apa-apa maklumat berhubung dengannya yang dimuat\n\nnaik ke dalam indeks Bank Data masing-masing.\n\nPelupusan sampel intim dan bukan intim\n\n15. (1) Ketua Bank Data DNA hendaklah, tanpa kelengahan, memusnahkan\n\nmana-mana bahagian sampel intim atau bukan intim yang tinggal mengikut tatacara\n\nmakmal yang standard.\n\n(2) Seseorang yang sampel intim atau bukan intim diambil, hendaklah\n\ndimaklumkan secara bertulis kepada alamat terakhirnya yang diketahui bahawa apaapa bahagian yang tinggal daripada sampelnya telah dilupuskan sekiranya Ketua Bank\n\nData fikirkan wajar.\n\nPenghapusan profil dan maklumat DNA daripada indeks orang yang disyaki\n\n16. (1) Tertakluk kepada seksyen 17 Akta, Ketua Polis Daerah hendaklah\n\nmemaklumkan Ketua Bank Data DNA bagi penghapusan profil DNA dan apa-apa\n\nmaklumat berhubung dengannya daripada indeks orang yang disyaki dalam borang\n\nyang dinyatakan dalam Jadual Keempat.\n\n(2) Orang yang disyaki itu hendaklah dimaklumkan secara bertulis di alamat\n\nterakhirnya yang diketahui bahawa sampel profil DNA dan apa-apa maklumat\n\nberhubung dengannya telah dihapuskan daripada Bank Data DNA.\n\nPenghapusan profil dan maklumat DNA daripada indeks sukarela\n\n17. (1) Apabila mana-mana orang yang secara sukarela memberikan sampel intim\n\natau bukan intimnya membuat permohonan secara bertulis untuk menarik balik\n\nkebenarannya, Ketua Bank Data DNA, apabila menerima permohonan itu, hendaklah\n\nmenghapuskan profil DNA dan apa-apa maklumat berhubung dengannya bagi orang itu\n\ndaripada indeks sukarela dalam tempoh enam bulan dari tarikh permohonan diterima.\n\n(2) Ketua Bank Data DNA hendaklah memaklumkan orang yang membuat\n\npermohonan di bawah subperaturan (1) dalam borang yang dinyatakan dalam Jadual\n\nKelima.\n\nPewujudan tatacara standard\n\n18. (1) Ketua Bank Data DNA boleh mewujudkan tatacara—\n\n(a) bagi pengambilan, penyimpanan dan penyebaran data berkaitan profil\n\nDNA mengikut standard profesional;\n\n(b) untuk mencegah akses tanpa kebenaran kepada Bank Data DNA;\n\n(c) untuk melepaskan profil DNA dan apa-apa maklumat berhubung\n\ndengannya daripada Bank Data DNA;\n\n(d) berhubung dengan pendedahan dalaman, akses atau penggunaan\n\nsampel profil DNA dan apa-apa maklumat berhubung dengannya di\n\ndalam makmal DNA;\n\n(e) berhubung dengan daftar bagi penyimpanan dan penghapusan\n\nsampel; atau\n\n(f) berhubung dengan daftar bagi penyimpanan dan penghapusan profil\n\nDNA dan apa-apa maklumat dengannya daripada Indeks Bank Data\n\nDNA.\n\n(2) Ketua Bank Data DNA boleh pada bila-bila masa menjalankan pemeriksaan\n\nke atas mana-mana makmal DNA berhubungan dengan penyimpanan dan penghapusan\n\nsampel.\n\nJADUAL PERTAMA\n\n(peraturan 3)\n\nBDDFM 01\n\nAKTA IDENTIFIKASI ASID DEOKSIRIBONUKLEIK (DNA) 2009\n\nKEBENARAN BAGI PENGAMBILAN SAMPEL INTIM/ SAMPEL BUKAN INTIM\n\nSaya,……………………………………………..…………..……………………………………………………,\n\npegawai diberi kuasa di bawah seksyen *12/13 Akta, mempunyai alasan yang\n\nmunasabah untuk mengesyaki ............................………………………………………………………………\n\n*No. Kad Pengenalan /No. Pasport ………………………………………….. telah melakukan suatu\n\nkesalahan di bawah seksyen …………………………………….................................................. dan\n\nmempunyai alasan yang munasabah untuk mempercayai bahawa suatu *sampel\n\nintim/bukan intim yang diambil adalah berkecenderungan untuk mengesahkan atau\n\nmembuktikan sebaliknya perlakuan kesalahan oleh orang seperti yang dinyatakan di\n\natas.\n\natau\n\nSaya,……………………………………………………………………………………………………………….pegawai\n\ndiberi kuasa di bawah seksyen *12/13 Akta, mengesahkan bahawa\n\n...............................………………………………........................................................No. Kad Pengenalan/\n\nNo. Pasport …………………………............—\n\n(a) suatu perintah tahanan atau tangkapan telah dibuat di bawah Akta Dadah\n\nBerbahaya (Langkah-Langkah Pencegahan Khas) 1985 [Akta 316] ke\n\natasnya; atau\n\n(b) suatu perintah atau keputusan telah dibuat menurut Akta Penagih\n\n(Rawatan dan Pemulihan) 1983 [Akta 283] terhadapnya.\n\nPada menjalankan kuasa yang diberikan oleh seksyen *12/13, saya mengeluarkan\n\nkebenaran ini untuk mengambil sampel *intim/bukan intim daripada orang yang\n\ndisebut di atas.\n\nTarikh : ….................................... .......…………………………………….\n\n (Pegawai yang diberi kuasa)\n\nNOTA:* Potong mana-mana yang tidak berkenaan\n\nJADUAL KEDUA\n\n(peraturan 6)\n\n BDDFM 02\n\nAKTA IDENTIFIKASI ASID DEOKSIRIBONUKLEIK (DNA) 2009\n\nBORANG KEIZINAN\n\nSaya, ...........................................................................................................................................................................\n\n(Nama * individu yang memberikan keizinan/ibu bapa/penjaga dan *No. Kad\n\nPengenalan/No. Pasport/Pengenalan diri yang lain)\n\ndari .............................................................................................................................................................................\n\n.......................................................................................................................................................................................\n\n(alamat)\n\nbersetuju untuk mengizinkan *sampel intim/bukan intim milik\n\n.......................................................................................................................................................................................\n\n.......................................................................................................................................................................................\n\n(nama orang yang memberi sampel)\n\ndiambil di bawah *seksyen 12 (pengambilan sampel intim)/seksyen 15 (sampel\n\nbanduan) Akta Identifikasi Asid Deoksiribonukleik (DNA) 2009 bagi tujuan analisis\n\nforensik DNA sepertimana yang dikehendaki di bawah perenggan\n\n*3(3)(b)/3(3)(c)/3(3)(d)/3(3)(e) Akta, oleh kerana permohonan yang dibuat oleh\n\n.......................................................................................................................................................................................\n\n(nama pegawai yang memohon)\n\nSaya telah *membaca/dimaklumkan dan memahami notis (BDDFM 02A) bagi\n\npermohonan ini.\n\nTarikh: ...................................... ………………………………………………………….\n\n*(Tandatangan orang yang memberikan\n\nkeizinan/ibu bapa/penjaga orang yang\n\nmemberikan keizinan)\n\nTarikh: .................................. …………………………………………………………................\n\n(Nama dan tandatangan pegawai yang\n\n memohon)\n\nTarikh: .................................. …………………………………………………………............\n\n(Nama dan tandatangan saksi)\n\nNOTA : * Potong mana yang tidak berkenaan\n\nBORANG INI HENDAKLAH DICETAK DI BAHAGIAN BELAKANG BDDFM 02\n\nBDDFM 02A\n\nPEMBERITAHUAN KEPADA ORANG YANG DISYAKI\n\nSila ambil perhatian bahawa:\n\n(1) Terdapat alasan yang munasabah untuk mempercayai bahawa *kamu/anak kamu/\n\norang di bawah jagaan kamu telah disyaki melakukan kesalahan jenayah\n\n………….............................................................................................................................. dan\n\n*kamu/anak kamu/orang di bawah jagaan kamu dikehendaki untuk memberikan\n\n*sampel intim/ sampel bukan intim bagi tujuan analisis forensik DNA di bawah\n\nAkta Identifikasi Asid Deoksiribonukleik 2009.\n\nAnalisis forensik DNA adalah cenderung untuk mengesahkan atau menafikan\n\npenglibatan atau perhubungan *kamu/anak kamu/orang di bawah jagaan kamu\n\ndalam perlakuan jenayah.\n\n(2) Sekiranya *kamu/anak kamu/orang di bawah jagaan kamu, yang daripadanya suatu\n\nsampel bukan intim akan diambil di bawah Akta ini enggan untuk memberikan\n\nsampel tersebut, atau enggan untuk membenarkan sampel tersebut diambil tanpa\n\nsebarang sebab yang munasabah, atau sampel tersebut tidak boleh diperoleh\n\nwalaupun setelah semua usaha yang sewajarnya telah diambil, *kamu/anak\n\nkamu/orang di bawah jagaan kamu boleh dibawa ke hadapan majistret dan\n\nmajistret boleh, sekiranya berpuas hati bahawa wujud sebab yang munasabah untuk\n\nmempercayai bahawa sampel tersebut cenderung untuk mengesahkan atau\n\nmenafikan perlakuan kesalahan jenayah oleh *kamu/anak kamu/orang di bawah\n\njagaan kamu, mengarahkan *kamu/anak kamu/orang di bawah jagaan kamu supaya\n\nmemberikan sampel bukan intim milik *kamu/dia.\n\nTarikh: .................................... ………………………………………………………….\n\n(Nama dan tandatangan pegawai yang\n\nmemohon)\n\nTarikh: ............................... ………………………………………………………….\n\n*(Tandatangan orang yang memberikan\n\nkeizinan/ibu bapa/penjaga orang yang\n\nmemberikan keizinan)\n\nTarikh: ............................... ………………………………………………………….\n\n(Nama dan tandatangan saksi)\n\nNOTA : * Potong mana yang tidak berkenaan\n\nJADUAL KETIGA\n\n(peraturan 7)\n\n BDDFM 03\n\nAKTA IDENTIFIKASI ASID DEOKSIRIBONUKLEIK (DNA) 2009\n\nBORANG KEIZINAN BAGI SAMPEL YANG DIBERIKAN SECARA SUKARELA\n\nSaya,……………….…………………………………………………………………..........................................................\n\n(Nama orang yang memberikan sampel dan *No. Kad Pengenalan/ No. Pasport/\n\nPengenalan diri yang lain)\n\ndari….……………………………………………………………………………………….................................................\n\n....................................................................……………………………………………………………………...…………..\n\n(alamat)\n\nmengizinkan untuk memberikan *sampel intim/ bukan intim di bawah seksyen 14 Akta\n\nIdentifikasi Asid Deoksiribonukleik (DNA) 2009 bagi tujuan analisis DNA forensik .\n\nSaya/ibu bapa/penjaga telah dimaklumi dan memahami tentang kesan pemberian\n\nsampel ini secara sukarela.\n\nTarikh: ...................................... ………………………………………………………….\n\n*(Tandatangan orang yang memberikan\n\nkeizinan/ibu bapa/penjaga yang\n\nmemberikan keizinan)\n\nNama:\n\n No. Kad Pengenalan/No. Pasport/Pengenalan\n\nDiri yang Lain:\n\nAlamat:\n\nJADUAL KEEMPAT\n\n(peraturan 16)\n\nBDDFM 04\n\nAKTA IDENTIFIKASI ASID DEOKSIRIBONUKLEIK (DNA) 2009\n\nPENGHAPUSAN PROFIL DAN MAKLUMAT DNA DARIPADA INDEKS ORANG YANG\n\nDISYAKI\n\nKepada:\n\nKETUA BANK DATA DNA\n\nMenurut seksyen 17 Akta Identifikasi Asid Deoksiribonukleik (DNA) 2009, sila\n\nhapuskan profil DNA dan apa-apa maklumat yang berhubungan dengannya orang yang\n\nseperti senarai yang dilampirkan daripada Bank Data DNA.\n\nTarikh : ………………… ……………..……………………………..\n\n (Nama dan tandatangan)\n\n KETUA POLIS DAERAH\n\nJADUAL KELIMA\n\n(peraturan 17)\n\nBDDFM 05\n\nAKTA IDENTIFIKASI ASID DEOKSIRIBONUKLEIK (DNA) 2009\n\nPENGHAPUSAN PROFIL DAN MAKLUMAT DNA DARIPADA INDEKS SUKARELA\n\nKepada:\n\n……………………………………………..\n\n………………………………………………\n\n….…………………………………………..\n\n………………………………………………\n\nMerujuk kepada permohonan tuan/puan bertarikh …………..., dengan ini\n\ndimaklumkan bahawa profil DNA milik tuan/puan dan apa-apa maklumat yang\n\nberhubungan dengannya telah dihapuskan daripada Bank Data DNA.\n\nTarikh : …………… …………………………………..\n\n (Nama dan tandatangan)\n\n KETUA BANK DATA DNA\n\nDibuat 11 Julai 2012\n\n[KDN(S):PS/03/709/3 Jld 3; PN(PU2)690/II]\n\nDATO' SERI HISHAMMUDDIN BIN TUN HUSSEIN\n\n Menteri Dalam Negeri\n\n[Akan dibentangkan di Dewan Rakyat menurut subseksyen 24(3) Akta Identifikasi Asid\n\nDeoksiribonukleik (DNA) 2009]\n\nDEOXYRIBONUCLEIC ACID (DNA) IDENTIFICATION ACT 2009\n\nDEOXYRIBONUCLEIC ACID (DNA) IDENTIFICATION REGULATIONS 2012\n\n_________________________________\n\nARRANGEMENT OF REGULATIONS\n\n________________________________\n\nRegulation\n\n1. Citation and commencement\n\n2. Interpretation\n\n3. Authorization for taking intimate or non-intimate sample\n\n4. Information to be given before making a request for taking intimate sample\n\n5. Information to be given before making a request for taking non-intimate sample\n\n6. Appropriate consent to be given before taking intimate sample\n\n7. Appropriate consent to be given before taking intimate or non-intimate sample\n\ngiven voluntarily\n\n8. Procedure for taking intimate sample\n\n9. Procedure for taking non-intimate sample\n\n10. Procedure for taking intimate or non-intimate sample at crime scene\n\n11. Storage and delivery of a DNA package\n\n12. Information to be recorded when a DNA package is delivered\n\n13. Storage of intimate and non-intimate sample\n\n14. Uploading of DNA profile and information into DNA Databank\n\n15. Disposal of intimate and non-intimate sample\n\n16. Removal of the DNA profile and information from suspected person's index\n\n17. Removal of the DNA profile and information from voluntary index\n\n18. Establishment of standard procedures\n\nFIRST SCHEDULE\n\nSECOND SCHEDULE\n\nTHIRD SCHEDULE\n\nFOURTH SCHEDULE\n\nFIFTH SCHEDULE\n\nDEOXYRIBONUCLEIC ACID (DNA) IDENTIFICATION ACT 2009\n\nDEOXYRIBONUCLEIC ACID (DNA) IDENTIFICATION REGULATIONS 2012\n\nIN exercise of the powers conferred by section 24 of the Deoxyribonucleic Acid (DNA)\n\nIdentification Act 2009 [Act 699], the Minister makes the following regulations:\n\nCitation and commencement\n\n1. (1) These regulations may be cited as the Deoxyribonucleic Acid (DNA)\n\nIdentification Regulations 2012.\n\n(2) These Regulations come into operation on 1 September 2012.\n\nInterpretation\n\n2. In these Regulations, unless the context otherwise requires—\n\n\"DNA laboratory\" means a laboratory that performs forensic DNA analysis on\n\nintimate or non-intimate sample taken from a human body or crime scene, in the\n\nChemistry Department of Malaysia or Forensic Laboratory of the Royal Malaysia Police\n\nor any agency or body as may be designated by the Minister pursuant to section 5 of the\n\nAct;\n\n\"DNA package\" means a package or receptacle containing intimate or non-intimate\n\nsample which has been labelled with an identifying mark and sealed as required under\n\nregulations 8 and 9, as the case may be.\n\nAuthorization for taking intimate or non-intimate sample\n\n3. For the purpose of taking intimate or non-intimate sample from any person\n\nreferred to under section 12 or 13 of the Act, the authorized officer shall give his\n\nauthorization in writing in the form specified in the First Schedule.\n\nInformation to be given before making a request for taking intimate sample\n\n4. Where an intimate sample shall be requested from a person, a police officer shall\n\ninform such person−\n\n(a) of the type of intimate sample required;\n\n(b) of the ground and purpose for requesting the intimate sample;\n\n(c) that the consent shall be in writing; and\n\n(d) that the intimate sample shall be analyzed and the result of the analysis\n\nmay be used as evidence in criminal investigation, prosecution or for\n\nother purpose.\n\nInformation to be given before making a request for taking non-intimate sample\n\n5. Where a non-intimate sample shall be requested from a person, a police officer\n\nshall inform such person−\n\n(a) of the type of non-intimate sample required;\n\n(b) of the ground and purpose for requesting the non-intimate sample; and\n\n(c) that the non-intimate sample shall be analyzed and the result of the\n\nanalysis may be used as evidence in criminal investigation, prosecution or\n\nfor other purpose.\n\nAppropriate consent to be given before taking intimate sample\n\n6. For the purpose of taking an intimate sample from—\n\n(a) a person reasonably suspected of having committed an offence;\n\n(b) a detainee;\n\n(c) a drug dependent; or\n\n(d) a prisoner,\n\nan appropriate consent shall be given by the person from whom the intimate sample is\n\ntaken in the form specified in the Second Schedule.\n\nAppropriate consent to be given before taking intimate or non-intimate sample\n\ngiven voluntarily\n\n7. For the purpose of taking an intimate or non-intimate sample given voluntarily,\n\nthe person giving the intimate or non-intimate sample voluntarily shall give his\n\nappropriate consent in the form specified in the Third Schedule.\n\nProcedure for taking intimate sample\n\n8. (1) A government medical officer who takes an intimate sample from any\n\nperson shall ensure that the procedure for obtaining the intimate sample is carried out\n\nin a manner consistent with the appropriate medical or other related professional body.\n\n(2) The government medical officer shall ensure that the receptacle\n\ncontaining the intimate sample or the package containing the receptacle of the intimate\n\nsample is—\n\n(a) labelled with an identifying mark;\n\n(b) sealed; and\n\n(c) handed over to the police officer who is responsible for\n\ncollection of the intimate sample.\n\n(3) The identifying mark mentioned in paragraph (2)(a) shall include—\n\n(a) the name of the person from whom the intimate sample\n\nwas taken;\n\n(b) the identification card number, passport number or any\n\nother identification of that person, as the case may be;\n\n(c) the date of collection of the intimate sample; and\n\n(d) police report number, if relevant.\n\nProcedure for taking non-intimate sample\n\n9. (1) A government medical officer, police officer or chemist who takes a\n\nnon-intimate sample from any person shall ensure that the procedure for obtaining the\n\nnon-intimate sample is carried out in a manner consistent with the medical or other\n\nrelated professional standard.\n\n(2) The government medical officer, police officer or chemist shall ensure that\n\nthe receptacle containing the non-intimate sample or the package containing the\n\nreceptacle of the non-intimate sample is—\n\n(a) labelled with an identifying mark;\n\n(b) sealed; and\n\n(c) handed over to the police officer who is responsible for collection\n\nof the non-intimate sample.\n\n (3) The identifying mark mentioned in paragraph (2)(a) shall include—\n\n(a) the name of the person from whom the non-intimate sample was\n\ntaken;\n\n (b) the identification card number, passport number or any other\n\nidentification of that person, as the case may be;\n\n (c) the date of collection of the non-intimate sample; and\n\n (d) police report number, if relevant.\n\nProcedure for taking intimate or non-intimate sample at crime scene\n\n10. When an intimate or non-intimate sample is found—\n\n(a) on any thing or at any place where an offence was committed;\n\n(b) on or within the body of a victim of an offence;\n\n(c) on any thing worn or carried by the victim of an offence at the time\n\nwhen the offence was committed; or\n\n(d) on or within the body of any person reasonably suspected of\n\nhaving committed an offence,\n\nthe police officer who takes an intimate or non-intimate sample from a crime scene shall\n\nensure that the procedure for taking the intimate or non-intimate sample is carried out\n\nin a manner consistent with the Standing Order, issued by the Inspector-General of\n\nPolice pursuant to section 97 of the Police Act 1967 [Act 344].\n\nStorage and delivery of a DNA package\n\n11. (1) Every DNA package collected prior to delivery to the DNA laboratory shall\n\nbe securely stored.\n\n(2) The police officer who is responsible for collection of the intimate or nonintimate sample mentioned in paragraphs 8(2)(c) and 9(2)(c) shall deliver the DNA\n\npackage to the DNA laboratory within a reasonable time.\n\n(3) The DNA package submitted to the DNA laboratory for forensic analysis\n\nshall be accompanied with a letter of request from a police officer.\n\nInformation to be recorded when a DNA package is delivered\n\n12. (1) The DNA laboratory which receives the DNA package for analysis shall\n\nensure that the DNA package is properly sealed, labeled and identifiable.\n\n(2) The DNA package shall be registered according to the standard operating\n\nprocedure of the DNA laboratory.\n\nStorage of intimate and non-intimate sample\n\n13. (1) The Head of DNA Databank shall ensure that the intimate or non-intimate\n\nsample received is stored in a designated secured location at the DNA laboratory.\n\n(2) The Head of DNA Databank shall establish and maintain a register for the\n\npurpose of dealing with the storage of intimate sample and non-intimate sample.\n\nUploading of DNA profile and information into DNA Databank\n\n14. (1) The intimate and non-intimate sample shall be analyzed and administered\n\naccording to the standard laboratory procedure.\n\n(2) Upon obtaining notice of submission of the DNA profile and any information\n\nin relation thereto by the DNA laboratory, the DNA Databank officer shall first evaluate\n\nthe DNA profile and any information in relation thereto.\n\n(3) The DNA Databank officer shall then up-load the DNA profile and any\n\ninformation in relation thereto into the respective indices of the Databank.\n\n(4) A register shall be maintained to record information relating to all DNA\n\nprofiles and any information in relation thereto that are uploaded into the respective\n\nindices of the Databank.\n\nDisposal of intimate and non-intimate sample\n\n15. (1) The Head of DNA Databank shall, without delay, destroy any remaining\n\nportion of intimate or non-intimate sample according to the standard laboratory\n\nprocedure.\n\n(2) The person whose intimate or non-intimate sample has been taken, shall be\n\ninformed in writing to his last known address that any remaining portions of his sample\n\nhas been disposed if the Head of DNA Databank considers appropriate.\n\nRemoval of the DNA profile and information from suspected person's index\n\n16. (1) Subject to section 17 of the Act, the Officer in Charge of a Police District shall\n\nnotify the Head of the DNA Databank for removal of the DNA profile and any\n\ninformation in relation thereto from suspected person's index in the form specified in\n\nthe Fourth Schedule.\n\n(2) The suspected person shall be informed in writing to his last known address\n\nthat his DNA profile and any information in relation thereto has been removed from the\n\nDNA Databank.\n\nRemoval of the DNA profile and information from voluntary index\n\n17. (1) When any person who voluntarily give his intimate or non-intimate sample\n\nmakes an application in writing to withdraw his consent, the Head of DNA Databank\n\nupon receiving such application, shall remove the DNA profile and any information of\n\nsuch person from voluntary index within six months from application received.\n\n(2) The Head of the DNA Databank shall inform the person who makes an\n\napplication under subregulation (1) in the form specified in the Fifth Schedule.\n\nEstablishment of standard procedures\n\n18. (1) The Head of DNA Databank may establish the procedures —\n\n(a) for collection, preservation, dissemination of data related to DNA\n\nprofile according to the professional standard;\n\n(b) to prevent unauthorized access to the DNA Databank;\n\n(c) to release DNA profile and any information in relation thereto from\n\nthe DNA Databank;\n\n(d) in relation to the internal disclosure, the access or use of a sample\n\nof the DNA profile and any information in relation thereto in a DNA\n\nlaboratory;\n\n(e) in relation to the register for the storage and the disposal of the\n\nsample; or\n\n(f) in relation to the register for the storage and and removal of the\n\nDNA profile and any information in relation thereto from the DNA\n\nDatabank indices.\n\n(2) The Head of DNA Databank may at anytime inspect any DNA laboratory in\n\nrelation to the storage and the disposal of the sample.\n\nFIRST SCHEDULE\n\n(regulation 3)\n\nFDDM 01\n\nDEOXYRIBONUCLEIC ACID (DNA) IDENTIFICATION ACT 2009\n\nAUTHORIZATION FOR THE TAKING OF INTIMATE/NON-INTIMATE SAMPLE\n\nI,………………………………………………………………………………………………………………………,\n\nan authorized officer mentioned under section *12/13 of the Act, have reasonable\n\ngrounds to suspect that ………………………………………………………………………\n\n*Identity Card No./Passport No. ………………………………………..……. has committed an\n\noffence under section ………………………… of …………………………………………………….. and\n\nhave reasonable grounds to believe that *an intimate/a non-intimate sample will tend\n\nto confirm or disprove the commission of the offence by the person mentioned above.\n\nor\n\nI ……………………………………………………….......................................................................................\n\nan authorized officer mentioned under section *12/13 of the Act, confirm that\n\n………………………………………………………………… *Identity Card No./Passport No.\n\n…………………………..—\n\n(a) a detention order or an arrest has been made under the Dangerous Drugs\n\n(Special Preventive Measures) Act 1985 [Act 316] against him; or\n\n(b) an order or a decision has been made pursuant to the Drug Dependants\n\n(Treatment and Rehabilitation) Act 1983 [Act 283] against him.\n\nIn exercise of the powers conferred by section *12/13, I issue this authorization to have\n\nthe * intimate/non intimate sample taken from the person mentioned above.\n\nDate: ………………… …….…………………………………\n\n (Authorizing officer)\n\nNOTE: * Delete whichever is not applicable\n\nSECOND SCHEDULE\n\n(regulation 6)\n\nFDDM 02\n\nDEOXYRIBONUCLEIC ACID (DNA) IDENTIFICATION ACT 2009\n\nCONSENT FORM\n\nI, ………………….…………………………………………………………………………………………………………….\n\n(Name of *person giving consent/parents/guardian name and *Identity Card\n\nNo./Passport No./Other Identification)\n\nof………………………………………………………………………………………………..…..…………………………\n\n…………………………………………………………………………………………………………………………………\n\n(address)\n\nconsent to allow the *intimate/non-intimate sample of…………………………………………………\n\n (name of person giving samples)\n\nto be taken under *section 12 (taking of intimate sample)/section 15 (sample of\n\nprisoner) of the Deoxyribonucleic Acid (DNA) Identification Act 2009 for forensic DNA\n\nanalysis as required under paragraphs *3(3)(b)/3(3)(c)/3(3)(d)/3(3)(e) of the Act,\n\nfurther to a request being made by …………..…..……………………………………………………......\n\n (name of police requesting officer)\n\nI have *read / been informed and understood the notice (FDDM 02A) for the request.\n\nDate: …………… …………………………………………\n\n (Signature of *person/parents of person/\n\n guardian of person giving consent)\n\nDate: ..….……… ….………………….…......................\n\n (Name and signature of requesting officer)\n\nDate: ..….……… …………………….…......................\n\n (Name and signature of witness)\n\nNOTE: * Delete whichever is not applicable\n\nTHIS FORM IS TO BE PRINTED AT THE BACK OF FDDM 02\n\n FDDM 02A\n\nNOTIFICATION TO SUSPECT\n\nPlease note that:\n\n(1) There are reasonable grounds for believing that *you/your child/the person under\n\nyour custody have been suspected of committing an offence of\n\n………………………………………………………………….............................. and *you/your\n\nchild/the person under your custody are required to give an *intimate/non-intimate\n\nsample for forensic DNA analysis under the Deoxyribonucleic Acid (DNA)\n\nIdentification Act 2009.\n\nThe forensic DNA analysis would tend to confirm or disprove *your/your child/\n\nthe person under your custody involvement in or association with the commission\n\nof the offence.\n\n(2) If *you/your child/the person under your custody, from whom a non-intimate\n\nsample is to be taken under this Act refuse to give the sample, or refuse to allow\n\nthe sample to be taken without good cause or the sample cannot be obtained\n\ndespite all reasonable efforts taken, *you/your child/the person under your\n\ncustody may be taken before a magistrate and the magistrate may, if satisfied that\n\nthere is reasonable cause to believe that the sample tends to confirm or disprove\n\nthe commission of an offence by *you/your child/the person under your custody,\n\norder *you/your child/the person under your custody to provide *your/his nonintimate sample.\n\nDate : ..….……… ………………….…......................\n\n(Name and signature of requesting officer)\n\nDate : …………… ………………...…………………………………………\n\n (Signature of *person/parents of person/\n\n guardian of person giving consent)\n\nDate : ..….……… ………………….…......................\n\n (Name and signature of witness)\n\nNOTE : * Delete whichever is not applicable\n\nTHIRD SCHEDULE\n\n(regulation 7)\n\nFDDM 03\n\nDEOXYRIBONUCLEIC ACID (DNA) IDENTIFICATION ACT 2009\n\nCONSENT FORM FOR SAMPLE GIVEN VOLUNTARILY\n\nI, ………………….………………………………………………………………………………………………………..\n\n(Name of person giving sample and *Identity Card No. /Passport No./Other\n\nIdentification)\n\nof………………………………………………………………………………………………..…..…………………………\n\n…………………………………………………………………………………………………………………………..…….\n\n(address)\n\nconsent to give the *intimate/non-intimate sample under section 14 of the\n\nDeoxyribonucleic Acid (DNA) Identification Act 2009 for forensic DNA analysis.\n\nI/parent/guardian have been informed and understood the consequences of giving the\n\nsample voluntarily.\n\nDate : …………… …………………………………………\n\n*(Signature of person/parents/\n\nguardian giving consent)\n\n Name:\n\n Identity Card No. /Passport No./Other\n\nIdentification:\n\nAdress:\n\nFOURTH SCHEDULE\n\n(regulation 16)\n\nFDDM 04\n\nDEOXYRIBONUCLEIC ACID (DNA) IDENTIFICATION ACT 2009\n\nREMOVAL OF DNA PROFILE AND INFORMATION FROM\n\nSUSPECTED PERSONS INDEX\n\nTo:\n\nHEAD OF DNA DATABANK\n\nPursuant to section 17 of the Deoxyribonucleic Acid (DNA) Identification Act\n\n2009, please remove the DNA profile and any information in relation thereto of the\n\nperson(s) as per attached list from the DNA Databank.\n\nDate : ………………… ….……………..……………………\n\n (Name and signature)\n\n OFFICER-IN-CHARGE OF POLICE DISTRICT\n\nFIFTH SCHEDULE\n\n(regulation 17)\n\nFDDM 05\n\nDEOXYRIBONUCLEIC ACID (DNA) IDENTIFICATION ACT 2009\n\nREMOVAL OF DNA PROFILE AND INFORMATION FROM VOLUNTARY INDEX\n\nTo:\n\n……………………………………………..\n\n………………………………………………\n\n….…………………………………………..\n\n………………………………………………\n\nWith reference to your application dated ……………..……, this is to inform you\n\nthat your DNA profile and any related information has been removed from the DNA\n\nDatabank.\n\nDate : …………… ………………………………….\n\n (Name and signature)\n\n HEAD OF DNA DATABANK\n\nMade 11 July 2012\n\n[KDN(S): PS/03/709/3 Jld 3; PN(PU2)690/II]\n\nDATO' SERI HISHAMMUDDIN BIN TUN HUSSEIN\n\nMinister of Home Affairs\n\n[To be laid before the Dewan Rakyat pursuant to subsection 24(3) of the Deoxyribonucleic\n\nAcid (DNA) Identification Act 2009]"
+   }
+  }
+ ]
+}

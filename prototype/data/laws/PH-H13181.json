@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13181",
+ "title": {
+  "zh": null,
+  "en": "An Act Further to Amend Act Numbered Eighteen Hundred and Seventy, By Authorizing the Board of Regents of the University of the Philippines to Receive in Trust Legacies, Gifts, and Donations of Real and Personal Property of Any Kind.",
+  "orig": "An Act Further to Amend Act Numbered Eighteen Hundred and Seventy, By Authorizing the Board of Regents of the University of the Philippines to Receive in Trust Legacies, Gifts, and Donations of Real and Personal Property of Any Kind."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1915-02-05",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2483",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 643,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1915/act_2483_1915.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02483_1915_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02483_1915_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13181-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section six of Act Numbered Eighteen hundred and seventy, as amended by Act Numbered Two\nthousand and twenty-four, is hereby further amended by adding thereto the following subsection:\n\" (i) To receive in trust legacies, gifts, and donations of real and personal property of all kinds and to\nadminister the same for the benefit of the University, or of a department thereof, or for aid to any student or\nstudents, in accordance with the direction or instructions of the donor, and, in default thereof, in such manner\nas the Board of Regents may in its discretion determine.\""
+   }
+  },
+  {
+   "id": "PH-H13181-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, February 5, 1915."
+   }
+  }
+ ]
+}

@@ -1,0 +1,506 @@
+{
+ "id": "VN-H462",
+ "title": {
+  "zh": "出口税与进口税法",
+  "en": "Law No. 45/2005/QH11 on export and import duties",
+  "vi": "Luật Thuế xuất khẩu, thuế nhập khẩu số 45/2005/QH11",
+  "orig": "Luật Thuế xuất khẩu, thuế nhập khẩu số 45/2005/QH11",
+  "th": "พระราชบัญญัติภาษีส่งออกและภาษีนำเข้า เลขที่ 45/2005/QH11",
+  "id": "Undang-Undang Bea Keluar dan Bea Masuk No. 45/2005/QH11",
+  "ms": "Akta Duti Eksport dan Duti Import No. 45/2005/QH11"
+ },
+ "country": "VN",
+ "countryName": "越南",
+ "layer": "intl",
+ "pack": "vn-p06",
+ "language": "vi",
+ "level": "law",
+ "category": "03_涉外投资与贸易",
+ "status": "active",
+ "promulgatedDate": "2005",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "国会",
+ "docNumber": "45/2005/QH11",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 29,
+ "chars": 26361,
+ "source": {
+  "name": "越南法律数据库（vbpl.vn 官方公报文本）",
+  "url": "https://vbpl.vn/van-ban/chi-tiet/luat-thue-xuat-khau-thue-nhap-khau-so-45-2005-qh11--18133"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\VN\\03_涉外投资与贸易\\2005_45 2005 QH11_Luật Thuế xuất khẩu, thuế nhập khẩu số 45 2005 QH11.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 29 条；逐字未改写（源自 VN）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "VN-H462-A1",
+   "no": 1,
+   "noLabel": {
+    "vi": "Điều 1"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Phạm vi điều chỉnh"
+   },
+   "text": {
+    "vi": "Điều 1. Phạm vi điều chỉnh\n\nLuật này quy định về thuế xuất khẩu, thuế nhập khẩu đối với hàng hóa xuất khẩu, nhập khẩu qua cửa khẩu, biên giới Việt Nam; hàng hóa mua bán, trao đổi của cư dân biên giới và hàng hóa mua bán, trao đổi khác được coi là hàng hóa xuất khẩu, nhập khẩu."
+   }
+  },
+  {
+   "id": "VN-H462-A2",
+   "no": 2,
+   "noLabel": {
+    "vi": "Điều 2"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Đối tượng chịu thuế"
+   },
+   "text": {
+    "vi": "Điều 2. Đối tượng chịu thuế\n\nTrừ hàng hoá quy định tại Điều 3 của Luật này, hàng hóa trong các trường hợp sau đây là đối tượng chịu thuế xuất khẩu, thuế nhập khẩu:\n\n1. Hàng hóa xuất khẩu, nhập khẩu qua cửa khẩu, biên giới Việt Nam;\n\n2. Hàng hóa được đưa từ thị trường trong nước vào khu phi thuế quan và từ khu phi thuế quan vào thị trường trong nước."
+   }
+  },
+  {
+   "id": "VN-H462-A3",
+   "no": 3,
+   "noLabel": {
+    "vi": "Điều 3"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Đối tượng không chịu thuế"
+   },
+   "text": {
+    "vi": "Điều 3. Đối tượng không chịu thuế\n\nHàng hoá trong các trường hợp sau đây là đối tượng không chịu thuế xuất khẩu, thuế nhập khẩu:\n\n1. Hàng hoá vận chuyển quá cảnh hoặc mượn đường qua cửa khẩu, biên giới Việt Nam, hàng hoá chuyển khẩu theo quy định của Chính phủ;\n\n2. Hàng hoá viện trợ nhân đạo, hàng hoá viện trợ không hoàn lại;\n\n3. Hàng hóa từ khu phi thuế quan xuất khẩu ra nước ngoài, hàng hóa nhập khẩu từ nước ngoài vào khu phi thuế quan và chỉ sử dụng trong khu phi thuế quan, hàng hóa đưa từ khu phi thuế quan này sang khu phi thuế quan khác;\n\n4. Hàng hoá là phần dầu khí thuộc thuế tài nguyên của Nhà nước khi xuất khẩu."
+   }
+  },
+  {
+   "id": "VN-H462-A4",
+   "no": 4,
+   "noLabel": {
+    "vi": "Điều 4"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Đối tượng nộp thuế"
+   },
+   "text": {
+    "vi": "Điều 4. Đối tượng nộp thuế\n\nTổ chức, cá nhân có hàng hóa xuất khẩu, nhập khẩu thuộc đối tượng chịu thuế quy định tại Điều 2 của Luật này là đối tượng nộp thuế xuất khẩu, thuế nhập khẩu."
+   }
+  },
+  {
+   "id": "VN-H462-A5",
+   "no": 5,
+   "noLabel": {
+    "vi": "Điều 5"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Giải thích từ ngữ"
+   },
+   "text": {
+    "vi": "Điều 5. Giải thích từ ngữ\n\nTrong Luật này, các từ ngữ dưới đây được hiểu như sau:\n\n1. Khu phi thuế quan là khu vực kinh tế nằm trong lãnh thổ Việt Nam, có ranh giới địa lý xác định, được thành lập theo Quyết định của Thủ tướng Chính phủ; quan hệ mua bán, trao đổi hàng hóa giữa khu này với bên ngoài là quan hệ xuất khẩu, nhập khẩu.\n\n2. Biện pháp về thuế để tự vệ là biện pháp được áp dụng đối với một loại hàng hóa nhất định được nhập khẩu quá mức vào Việt Nam nhằm ngăn ngừa hoặc hạn chế thiệt hại nghiêm trọng cho ngành sản xuất trong nước.\n\n3. Nhập khẩu hàng hoá quá mức là việc nhập khẩu hàng hoá với khối lượng, số lượng hoặc trị giá tăng một cách đột biến về số lượng tuyệt đối hoặc tương đối so với khối lượng, số lượng hoặc trị giá của hàng hoá tương tự hoặc hàng hoá cạnh tranh trực tiếp được sản xuất trong nước.\n\n4. Thuế tuyệt đối là thuế được ấn định bằng số tiền nhất định tính trên một đơn vị hàng hóa xuất khẩu, nhập khẩu.\n\n5. Tài sản di chuyển là đồ dùng, vật dụng phục vụ sinh hoạt, làm việc của cá nhân, gia đình, tổ chức mang theo khi thôi cư trú, chấm dứt hoạt động ở Việt Nam hoặc ở nước ngoài.\n\n6. Hàng hóa mua bán, trao đổi của cư dân biên giới là hàng hóa phục vụ sản xuất, sinh hoạt thường ngày của cư dân biên giới."
+   }
+  },
+  {
+   "id": "VN-H462-A6",
+   "no": 6,
+   "noLabel": {
+    "vi": "Điều 6"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "áp dụng điều ước quốc tế"
+   },
+   "text": {
+    "vi": "Điều 6. áp dụng điều ước quốc tế\n\nTrong trường hợp điều ước quốc tế mà Cộng hoà xã hội chủ nghĩa Việt Nam là thành viên có quy định về thuế xuất khẩu, thuế nhập khẩu khác với quy định của Luật này thì áp dụng quy định của điều ước quốc tế đó."
+   }
+  },
+  {
+   "id": "VN-H462-A7",
+   "no": 7,
+   "noLabel": {
+    "vi": "Điều 7"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Thuế đối với hàng hóa mua bán, trao đổi của cư dân biêngiới"
+   },
+   "text": {
+    "vi": "Điều 7. Thuế đối với hàng hóa mua bán, trao đổi của cư dân biêngiới\n\nCăn cứ vào quy định của Luật này, Chính phủ quy định việc áp dụng thuế xuất khẩu, thuế nhập khẩu đối với hàng hóa mua bán, trao đổi của cư dân biên giới phù hợp với từng thời kỳ.\n\nChương II\n\nCĂN CỨ TÍNH THUẾ VÀ BIỂU THUẾ"
+   }
+  },
+  {
+   "id": "VN-H462-A8",
+   "no": 8,
+   "noLabel": {
+    "vi": "Điều 8"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Căn cứ tính thuế, phương pháp tính thuế và đồng tiền nộpthuế"
+   },
+   "text": {
+    "vi": "Điều 8. Căn cứ tính thuế, phương pháp tính thuế và đồng tiền nộpthuế\n\n1. Căn cứ tính thuế xuất khẩu, thuế nhập khẩu là số lượng đơn vị từng mặt hàng thực tế xuất khẩu, nhập khẩu ghi trong tờ khai hải quan, giá tính thuế, thuế suất theo tỷ lệ phần trăm (%); đối với mặt hàng áp dụng thuế tuyệt đối thì căn cứ tính thuế là số lượng đơn vị từng mặt hàng thực tế xuất khẩu, nhập khẩu ghi trong tờ khai hải quan và mức thuế tuyệt đối quy định trên một đơn vị hàng hóa.\n\n2. Phương pháp tính thuế được quy định như sau:\n\na) Số thuế xuất khẩu, thuế nhập khẩu phải nộp bằng số lượng đơn vị từng mặt hàng thực tế xuất khẩu, nhập khẩu ghi trong tờ khai hải quan nhân với giá tính thuế và thuế suất của từng mặt hàng ghi trong Biểu thuế tại thời điểm tính thuế;\n\nb) Trong trường hợp mặt hàng áp dụng thuế tuyệt đối thì số thuế xuất khẩu, thuế nhập khẩu phải nộp bằng số lượng đơn vị từng mặt hàng thực tế xuất khẩu, nhập khẩu ghi trong tờ khai hải quan nhân với mức thuế tuyệt đối quy định trên một đơn vị hàng hoá tại thời điểm tính thuế.\n\n3. Đồng tiền nộp thuế là đồng Việt Nam; trong trường hợp được phép nộp thuế bằng ngoại tệ thì phải nộp bằng ngoại tệ tự do chuyển đổi."
+   }
+  },
+  {
+   "id": "VN-H462-A9",
+   "no": 9,
+   "noLabel": {
+    "vi": "Điều 9"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Giá tính thuế và tỷ giá tính thuế"
+   },
+   "text": {
+    "vi": "Điều 9. Giá tính thuế và tỷ giá tính thuế\n\n1. Giá tính thuế đối với hàng hoá xuất khẩu là giá bán tại cửa khẩu xuất theo hợp đồng.\n\n2. Giá tính thuế đối với hàng hóa nhập khẩu là giá thực tế phải trả tính đến cửa khẩu nhập đầu tiên theo hợp đồng, phù hợp với cam kết quốc tế.\n\n3. Tỷ giá giữa đồng Việt Nam với đồng tiền nước ngoài dùng để xác định giá tính thuế là tỷ giá hối đoái do Ngân hàng Nhà nước Việt Nam công bố tại thời điểm tính thuế.\n\nChính phủ quy định cụ thể việc xác định giá tính thuế quy định tại Điều này."
+   }
+  },
+  {
+   "id": "VN-H462-A10",
+   "no": 10,
+   "noLabel": {
+    "vi": "Điều 10"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Thuế suất"
+   },
+   "text": {
+    "vi": "Điều 10. Thuế suất\n\n1. Thuế suất đối với hàng hoá xuất khẩu được quy định cụ thể cho từng mặt hàng tại Biểu thuế xuất khẩu.\n\n2. Thuế suất đối với hàng hóa nhập khẩu gồm thuế suất ưu đãi, thuế suất ưu đãi đặc biệt và thuế suất thông thường:\n\na) Thuế suất ưu đãi áp dụng đối với hàng hóa nhập khẩu có xuất xứ từ nước, nhóm nước hoặc vùng lãnh thổ thực hiện đối xử tối huệ quốc trong quan hệ thương mại với Việt Nam;\n\nb) Thuế suất ưu đãi đặc biệt áp dụng đối với hàng hóa nhập khẩu có xuất xứ từ nước, nhóm nước hoặc vùng lãnh thổ thực hiện ưu đãi đặc biệt về thuế nhập khẩu với Việt Nam;\n\nc) Thuế suất thông thường áp dụng đối với hàng hóa nhập khẩu có xuất xứ từ nước, nhóm nước hoặc vùng lãnh thổ không thực hiện đối xử tối huệ quốc và không thực hiện ưu đãi đặc biệt về thuế nhập khẩu với Việt Nam. Thuế suất thông thường được quy định không quá 70% so với thuế suất ưu đãi của từng mặt hàng tương ứng do Chính phủ quy định."
+   }
+  },
+  {
+   "id": "VN-H462-A11",
+   "no": 11,
+   "noLabel": {
+    "vi": "Điều 11"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Biện pháp về thuế để tự vệ, chống bán phá giá, chống trợ cấp, chống phân biệt đối xử trong nhập khẩu hàng hóa"
+   },
+   "text": {
+    "vi": "Điều 11. Biện pháp về thuế để tự vệ, chống bán phá giá, chống trợ cấp, chống phân biệt đối xử trong nhập khẩu hàng hóa\n\nNgoài việc chịu thuế theo quy định tại khoản 2 Điều 10 của Luật này, hàng hóa nhập khẩu còn phải áp dụng một trong các biện pháp về thuế sau đây:\n\n1. Tăng mức thuế nhập khẩu đối với hàng hoá nhập khẩu quá mức vào Việt Nam theo quy định của pháp luật về tự vệ trong nhập khẩu hàng hóa nước ngoài vào Việt Nam;\n\n2. Thuế chống bán phá giá đối với hàng hóa bán phá giá nhập khẩu vào Việt Nam theo quy định của pháp luật về chống bán phá giá hàng hóa nhập khẩu vào Việt Nam;\n\n3. Thuế chống trợ cấp đối với hàng hóa được trợ cấp nhập khẩu vào Việt Nam theo quy định của pháp luật về chống trợ cấp hàng hóa nhập khẩu vào Việt Nam;\n\n4. Thuế chống phân biệt đối xử đối với hàng hóa được nhập khẩu vào Việt Nam có xuất xứ từ nước, nhóm nước hoặc vùng lãnh thổ mà ở đó có sự phân biệt đối xử về thuế nhập khẩu hoặc có biện pháp phân biệt đối xử khác theo quy định của pháp luật về đối xử tối huệ quốc và đối xử quốc gia trong thương mại quốc tế."
+   }
+  },
+  {
+   "id": "VN-H462-A12",
+   "no": 12,
+   "noLabel": {
+    "vi": "Điều 12"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Thẩm quyền ban hành biểu thuế, thuế suất"
+   },
+   "text": {
+    "vi": "Điều 12. Thẩm quyền ban hành biểu thuế, thuế suất\n\n1. Chính phủ trình Uỷ ban thường vụ Quốc hội ban hành Biểu thuế xuất khẩu theo danh mục nhóm hàng chịu thuế và khung thuế suất đối với từng nhóm hàng, Biểu thuế nhập khẩu ưu đãi theo danh mục nhóm hàng chịu thuế và khung thuế suất ưu đãi đối với từng nhóm hàng; quy định biện pháp về thuế để tự vệ, thuế chống bán phá giá, thuế chống trợ cấp, thuế chống phân biệt đối xử.\n\nThủ tướng Chính phủ quyết định mặt hàng áp dụng thuế tuyệt đối và mức thuế tuyệt đối trong trường hợp cần thiết.\n\n2. Căn cứ vào Biểu thuế xuất khẩu theo danh mục nhóm hàng chịu thuế và khung thuế suất đối với từng nhóm hàng, Biểu thuế nhập khẩu ưu đãi theo danh mục nhóm hàng chịu thuế và khung thuế suất ưu đãi đối với từng nhóm hàng do Uỷ ban thường vụ Quốc hội ban hành, Bộ trưởng Bộ Tài chính quy định áp dụng mức thuế suất thuế xuất khẩu, thuế nhập khẩu đối với từng mặt hàng theo thủ tục do Chính phủ quy định, bảo đảm các nguyên tắc sau đây:\n\na) Phù hợp với danh mục nhóm hàng chịu thuế và trong phạm vi khung thuế suất do Uỷ ban thường vụ Quốc hội ban hành;\n\nb) Góp phần bảo đảm nguồn thu ngân sách nhà nước và bình ổn thị trường;\n\nc) Bảo hộ sản xuất trong nước có chọn lọc, có điều kiện, có thời hạn phù hợp với điều ước quốc tế mà Cộng hoà xã hội chủ nghĩa Việt Nam là thành viên.\n\nChương III\n\nKÊ KHAI THUẾ, NỘP THUẾ"
+   }
+  },
+  {
+   "id": "VN-H462-A13",
+   "no": 13,
+   "noLabel": {
+    "vi": "Điều 13"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Trách nhiệm của đối tượng nộp thuế"
+   },
+   "text": {
+    "vi": "Điều 13. Trách nhiệm của đối tượng nộp thuế\n\nĐối tượng nộp thuế xuất khẩu, thuế nhập khẩu có trách nhiệm kê khai thuế đầy đủ, chính xác, minh bạch và chịu trách nhiệm trước pháp luật về nội dung kê khai; nộp tờ khai hải quan cho cơ quan hải quan, tính thuế và nộp thuế vào ngân sách nhà nước."
+   }
+  },
+  {
+   "id": "VN-H462-A14",
+   "no": 14,
+   "noLabel": {
+    "vi": "Điều 14"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Thời điểm tính thuế"
+   },
+   "text": {
+    "vi": "Điều 14. Thời điểm tính thuế\n\nThời điểm tính thuế xuất khẩu, thuế nhập khẩu là thời điểm đối tượng nộp thuế đăng ký tờ khai hải quan với cơ quan hải quan.\n\nThuế xuất khẩu, thuế nhập khẩu được tính theo thuế suất, giá tính thuế và tỷ giá dùng để tính thuế theo tỷ giá hối đoái do Ngân hàng Nhà nước Việt nam công bố tại thời điểm tính thuế."
+   }
+  },
+  {
+   "id": "VN-H462-A15",
+   "no": 15,
+   "noLabel": {
+    "vi": "Điều 15"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Thời hạn nộp thuế"
+   },
+   "text": {
+    "vi": "Điều 15. Thời hạn nộp thuế\n\n1. Thời hạn nộp thuế xuất khẩu, thuế nhập khẩu được quy định như sau:\n\na) Đối với hàng hóa xuất khẩu là ba mươi ngày, kể từ ngày đối tượng nộp thuế đăng ký tờ khai hải quan;\n\nb) Đối với hàng hoá nhập khẩu là hàng tiêu dùng thì phải nộp xong thuế trước khi nhận hàng; trường hợp có bảo lãnh về số tiền thuế phải nộp thì thời hạn nộp thuế là thời hạn bảo lãnh, nhưng không quá ba mươi ngày kể từ ngày đối tượng nộp thuế đăng ký tờ khai hải quan. Trách nhiệm của tổ chức bảo lãnh được thực hiện theo quy định tại điểm b khoản 2 Điều này;\n\nc) Đối với hàng hóa nhập khẩu là vật tư, nguyên liệu để sản xuất hàng hóa xuất khẩu thì thời hạn nộp thuế là hai trăm bảy mươi lăm ngày, kể từ ngày đối tượng nộp thuế đăng ký tờ khai hải quan; trường hợp đặc biệt thì thời hạn nộp thuế có thể dài hơn hai trăm bảy mươi lăm ngày phù hợp với chu kỳ sản xuất, dự trữ vật tư, nguyên liệu của doanh nghiệp theo quy định của Chính phủ;\n\nd) Đối với hàng hóa kinh doanh theo phương thức tạm nhập, tái xuất hoặc tạm xuất, tái nhập là mười lăm ngày, kể từ ngày hết thời hạn tạm nhập, tái xuất hoặc tạm xuất, tái nhập theo quy định của cơ quan nhà nước có thẩm quyền;\n\nđ) Ngoài các trường hợp quy định tại điểm c và điểm d khoản 1 Điều này thì thời hạn nộp thuế đối với hàng hoá nhập khẩu là ba mươi ngày, kể từ ngày đối tượng nộp thuế đăng ký tờ khai hải quan.\n\n2. Đối tượng nộp thuế có một trong hai điều kiện sau đây được áp dụng thời hạn nộp thuế quy định tại các điểm c, d và đ khoản 1 Điều này:\n\na) Có hoạt động xuất khẩu, nhập khẩu trong thời gian ít nhất là ba trăm sáu mươi lăm ngày tính đến ngày đăng ký tờ khai hải quan được cơ quan hải quan xác nhận không có hành vi gian lận thương mại, trốn thuế, không còn nợ thuế quá hạn, không còn nợ tiền phạt, chấp hành tốt chế độ báo cáo tài chính theo quy định của pháp luật;\n\nb) Được tổ chức tín dụng hoặc tổ chức khác hoạt động theo quy định của Luật các tổ chức tín dụng bảo lãnh về số tiền thuế phải nộp. Trong trường hợp được bảo lãnh thì thời hạn nộp thuế thực hiện theo thời hạn bảo lãnh, nhưng không quá thời hạn quy định tại các điểm c, d và đ khoản 1 Điều này. Hết thời hạn bảo lãnh hoặc thời hạn nộp thuế mà đối tượng nộp thuế chưa nộp thuế thì tổ chức bảo lãnh có trách nhiệm nộp số tiền thuế và tiền phạt chậm nộp thay cho đối tượng nộp thuế.\n\nTrường hợp đối tượng nộp thuế không có đủ điều kiện quy định tại khoản này thì phải nộp xong thuế trước khi nhận hàng.\n\nChương IV\n\nMIỄN THUẾ, GIẢM THUẾ, HOÀN THUẾ VÀ TRUY THU THUẾ"
+   }
+  },
+  {
+   "id": "VN-H462-A16",
+   "no": 16,
+   "noLabel": {
+    "vi": "Điều 16"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Miễn thuế"
+   },
+   "text": {
+    "vi": "Điều 16. Miễn thuế\n\nHàng hoá xuất khẩu, nhập khẩu trong các trường hợp sau đây được miễn thuế xuất khẩu, thuế nhập khẩu:\n\n1. Hàng hoá tạm nhập, tái xuất hoặc tạm xuất, tái nhập để tham dự hội chợ, triển lãm, giới thiệu sản phẩm; máy móc, thiết bị, dụng cụ nghề nghiệp tạm nhập, tái xuất hoặc tạm xuất, tái nhập để phục vụ công việc trong thời hạn nhất định;\n\n2. Hàng hoá là tài sản di chuyển theo quy định của Chính phủ;\n\n3. Hàng hoá xuất khẩu, nhập khẩu của tổ chức, cá nhân nước ngoài được hưởng quyền ưu đãi, miễn trừ ngoại giao tại Việt Nam theo định mức do Chính phủ quy định phù hợp với điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên;\n\n4. Hàng hóa nhập khẩu để gia công cho nước ngoài rồi xuất khẩu hoặc hàng hóa xuất khẩu cho nước ngoài để gia công cho Việt Nam rồi tái nhập khẩu theo hợp đồng gia công;\n\n5. Hàng hóa xuất khẩu, nhập khẩu trong tiêu chuẩn hành lý miễn thuế của người xuất cảnh, nhập cảnh do Chính phủ quy định;\n\n6. Hàng hóa nhập khẩu để tạo tài sản cố định của dự án khuyến khích đầu tư, dự án đầu tư bằng nguồn vốn hỗ trợ phát triển chính thức (ODA), bao gồm:\n\na) Thiết bị, máy móc;\n\nb) Phương tiện vận tải chuyên dùng trong dây chuyền công nghệ và phương tiện vận chuyển đưa đón công nhân;\n\nc) Linh kiện, chi tiết, bộ phận rời, phụ tùng, gá lắp, khuôn mẫu, phụ kiện đi kèm với thiết bị, máy móc, phương tiện vận tải chuyên dùng quy định tại điểm a và điểm b khoản này;\n\nd) Nguyên liệu, vật tư dùng để chế tạo thiết bị, máy móc nằm trong dây chuyền công nghệ hoặc để chế tạo linh kiện, chi tiết, bộ phận rời, phụ tùng, gá lắp, khuôn mẫu, phụ kiện đi kèm với thiết bị, máy móc quy định tại điểm a khoản này;\n\nđ) Vật tư xây dựng trong nước chưa sản xuất được;\n\ne) Hàng hóa là trang thiết bị nhập khẩu lần đầu theo danh mục do Chính phủ quy định của dự án đầu tư về khách sạn, văn phòng, căn hộ cho thuê, nhà ở, trung tâm thương mại, dịch vụ kỹ thuật, siêu thị, sân golf, khu du lịch, khu thể thao, khu vui chơi giải trí, cơ sở khám chữa bệnh, đào tạo, văn hoá, tài chính, ngân hàng, bảo hiểm, kiểm toán, dịch vụ tư vấn.\n\nViệc miễn thuế nhập khẩu đối với hàng hoá nhập khẩu quy định tại các điểm a, b, c, d và đ khoản này được áp dụng cho cả trường hợp mở rộng quy mô dự án, thay thế, đổi mới công nghệ;\n\n7. Hàng hóa nhập khẩu để phục vụ hoạt động dầu khí, bao gồm:\n\na) Thiết bị, máy móc, phụ tùng thay thế, phương tiện vận tải chuyên dùng cần thiết cho hoạt động dầu khí;\n\nb) Vật tư cần thiết cho hoạt động dầu khí trong nước chưa sản xuất được;\n\n8. Hàng hóa nhập khẩu để sử dụng trực tiếp vào hoạt động nghiên cứu khoa học và phát triển công nghệ, bao gồm máy móc, thiết bị, phụ tùng, vật tư, phương tiện vận tải trong nước chưa sản xuất được, công nghệ trong nước chưa tạo ra được; tài liệu, sách báo khoa học;\n\n9. Nguyên liệu, vật tư, linh kiện nhập khẩu để sản xuất của dự án thuộc Danh mục lĩnh vực đặc biệt khuyến khích đầu tư hoặc Danh mục địa bàn có điều kiện kinh tế - xã hội đặc biệt khó khăn được miễn thuế nhập khẩu trong thời hạn năm năm, kể từ khi bắt đầu sản xuất;\n\n10. Hàng hoá sản xuất, gia công, tái chế, lắp ráp tại khu phi thuế quan không sử dụng nguyên liệu, linh kiện nhập khẩu từ nước ngoài khi nhập khẩu vào thị trường trong nước; trường hợp có sử dụng nguyên liệu, linh kiện nhập khẩu từ nước ngoài thì khi nhập khẩu vào thị trường trong nước chỉ phải nộp thuế nhập khẩu trên phần nguyên liệu, linh kiện nhập khẩu cấu thành trong hàng hóa đó;\n\n11. Các trường hợp cụ thể khác do Thủ tướng Chính phủ quyết định."
+   }
+  },
+  {
+   "id": "VN-H462-A17",
+   "no": 17,
+   "noLabel": {
+    "vi": "Điều 17"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Xét miễn thuế"
+   },
+   "text": {
+    "vi": "Điều 17. Xét miễn thuế\n\nHàng hoá xuất khẩu, nhập khẩu trong các trường hợp sau đây được xét miễn thuế xuất khẩu, thuế nhập khẩu:\n\n1. Hàng hoá nhập khẩu chuyên dùng trực tiếp phục vụ quốc phòng, an ninh, giáo dục và đào tạo; hàng hóa nhập khẩu chuyên dùng trực tiếp phục vụ nghiên cứu khoa học, trừ trường hợp quy định tại khoản 8 Điều 16 của Luật này;\n\n2. Hàng hoá là quà biếu, quà tặng, hàng mẫu của tổ chức, cá nhân nước ngoài cho tổ chức, cá nhân Việt Nam hoặc ngược lại trong định mức do Chính phủ quy định."
+   }
+  },
+  {
+   "id": "VN-H462-A18",
+   "no": 18,
+   "noLabel": {
+    "vi": "Điều 18"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Giảm thuế"
+   },
+   "text": {
+    "vi": "Điều 18. Giảm thuế\n\nHàng hoá xuất khẩu, nhập khẩu đang trong quá trình giám sát của cơ quan hải quan nếu bị hư hỏng, mất mát được cơ quan, tổ chức có thẩm quyền giám định chứng nhận thì được xét giảm thuế.\n\nMức giảm thuế tương ứng với tỷ lệ tổn thất thực tế của hàng hoá."
+   }
+  },
+  {
+   "id": "VN-H462-A19",
+   "no": 19,
+   "noLabel": {
+    "vi": "Điều 19"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Hoàn thuế"
+   },
+   "text": {
+    "vi": "Điều 19. Hoàn thuế\n\n1. Đối tượng nộp thuế được hoàn thuế trong các trường hợp sau đây:\n\na) Hàng hoá nhập khẩu đã nộp thuế nhập khẩu nhưng còn lưu kho, lưu bãi tại cửa khẩu đang chịu sự giám sát của cơ quan hải quan, được tái xuất;\n\nb) Hàng hóa xuất khẩu, nhập khẩu đã nộp thuế xuất khẩu, thuế nhập khẩu nhưng không xuất khẩu, nhập khẩu;\n\nc) Hàng hóa đã nộp thuế xuất khẩu, thuế nhập khẩu nhưng thực tế xuất khẩu, nhập khẩu ít hơn;\n\nd) Hàng hóa là nguyên liệu, vật tư nhập khẩu đã nộp thuế nhập khẩu để sản xuất hàng hoá xuất khẩu;\n\nđ) Hàng hoá tạm nhập, tái xuất hoặc tạm xuất, tái nhập đã nộp thuế nhập khẩu, thuế xuất khẩu, trừ trường hợp được miễn thuế quy định tại khoản 1 Điều 16 của Luật này;\n\ne) Hàng hoá xuất khẩu đã nộp thuế xuất khẩu nhưng phải tái nhập;\n\ng) Hàng hoá nhập khẩu đã nộp thuế nhập khẩu nhưng phải tái xuất;\n\nh) Hàng hoá nhập khẩu là máy móc, thiết bị, dụng cụ, phương tiện vận chuyển của tổ chức, cá nhân được phép tạm nhập, tái xuất để thực hiện dự án đầu tư, thi công xây dựng, lắp đặt công trình, phục vụ sản xuất hoặc mục đích khác đã nộp thuế nhập khẩu.\n\n2. Trường hợp có sự nhầm lẫn trong kê khai thuế, tính thuế thì được hoàn trả số tiền thuế nộp thừa nếu sự nhầm lẫn đó xảy ra trong thời hạn ba trăm sáu mươi lăm ngày trở về trước, kể từ ngày kiểm tra phát hiện có sự nhầm lẫn."
+   }
+  },
+  {
+   "id": "VN-H462-A20",
+   "no": 20,
+   "noLabel": {
+    "vi": "Điều 20"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Trách nhiệm và thời hạn hoàn thuế"
+   },
+   "text": {
+    "vi": "Điều 20. Trách nhiệm và thời hạn hoàn thuế\n\n1. Trong thời hạn mười lăm ngày, kể từ ngày nhận đủ hồ sơ yêu cầu hoàn thuế, cơ quan nhà nước có thẩm quyền xét hoàn thuế có trách nhiệm hoàn thuế cho đối tượng được hoàn thuế; trường hợp không có đủ hồ sơ hoặc hồ sơ không đúng theo quy định của pháp luật để được hoàn thuế thì trong thời hạn năm ngày làm việc, kể từ ngày nhận hồ sơ yêu cầu hoàn thuế của đối tượng được hoàn thuế, cơ quan nhà nước có thẩm quyền xét hoàn thuế phải có văn bản yêu cầu bổ sung hồ sơ.\n\n2. Quá thời hạn quy định tại khoản 1 Điều này, nếu việc chậm hoàn thuế do lỗi của cơ quan nhà nước có thẩm quyền xét hoàn thuế thì ngoài số tiền thuế phải hoàn còn phải trả tiền lãi kể từ ngày chậm hoàn thuế cho đến ngày được hoàn thuế theo mức lãi suất tiền vay ngân hàng thương mại tại thời điểm phải hoàn thuế."
+   }
+  },
+  {
+   "id": "VN-H462-A21",
+   "no": 21,
+   "noLabel": {
+    "vi": "Điều 21"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Truy thu thuế"
+   },
+   "text": {
+    "vi": "Điều 21. Truy thu thuế\n\nĐối tượng nộp thuế có hàng hoá được miễn thuế, xét miễn thuế quy định tại Điều 16 và Điều 17 của Luật này, nhưng sau đó sử dụng khác với mục đích để được miễn thuế, xét miễn thuế thì phải nộp đủ thuế.\n\nChính phủ quy định cụ thể các trường hợp phải truy thu thuế, căn cứ để tính truy thu thuế và thời hạn kê khai nộp số thuế truy thu quy định tại Điều này.\n\nChương V\n\nKHIẾU NẠI VÀ XỬ LÝ VI PHẠM"
+   }
+  },
+  {
+   "id": "VN-H462-A22",
+   "no": 22,
+   "noLabel": {
+    "vi": "Điều 22"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Khiếu nại và giải quyết khiếu nại"
+   },
+   "text": {
+    "vi": "Điều 22. Khiếu nại và giải quyết khiếu nại\n\nTrong trường hợp đối tượng nộp thuế không đồng ý với quyết định của cơ quan hải quan về số tiền thuế, tiền phạt, hình thức xử phạt thì vẫn phải nộp đủ tiền thuế, tiền phạt, chấp hành hình thức xử phạt, đồng thời có quyền khiếu nại với cơ quan nhà nước có thẩm quyền theo quy định của pháp luật về khiếu nại, tố cáo."
+   }
+  },
+  {
+   "id": "VN-H462-A23",
+   "no": 23,
+   "noLabel": {
+    "vi": "Điều 23"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Xử lý vi phạm về thuế đối với đối tượng nộp thuế"
+   },
+   "text": {
+    "vi": "Điều 23. Xử lý vi phạm về thuế đối với đối tượng nộp thuế\n\nĐối tượng nộp thuế vi phạm quy định của Luật này thì bị xử lý như sau:\n\n1. Nộp chậm tiền thuế, tiền phạt so với ngày cuối cùng trong thời hạn quy định phải nộp hoặc ngày cuối cùng trong thời hạn được ghi trong quyết định xử lý về thuế thì ngoài việc phải nộp đủ tiền thuế, tiền phạt, mỗi ngày nộp chậm còn phải nộp phạt bằng 0,1% (một phần nghìn) số tiền chậm nộp; nếu thời hạn chậm nộp là quá chín mươi ngày thì bị cưỡng chế theo quy định tại khoản 4 Điều này;\n\n2. Không thực hiện kê khai thuế, nộp thuế theo đúng quy định của Luật này thì tùy theo tính chất, mức độ vi phạm mà bị xử lý vi phạm hành chính về thuế;\n\n3. Khai man thuế, trốn thuế thì ngoài việc phải nộp đủ tiền thuế theo quy định của Luật này thì tùy theo tính chất, mức độ vi phạm còn bị phạt tiền từ một đến năm lần số tiền thuế gian lận;\n\n4. Không nộp thuế, nộp phạt theo quyết định xử lý về thuế thì bị cưỡng chế thi hành bằng các biện pháp sau đây:\n\na) Trích tiền gửi của đối tượng nộp thuế tại ngân hàng, tổ chức tín dụng khác, Kho bạc Nhà nước để nộp thuế, nộp phạt. Ngân hàng, tổ chức tín dụng khác, Kho bạc Nhà nước có trách nhiệm trích tiền từ tài khoản tiền gửi của đối tượng nộp thuế để nộp thuế, nộp phạt vào ngân sách nhà nước theo quyết định xử lý về thuế của cơ quan hải quan hoặc cơ quan nhà nước có thẩm quyền;\n\nb) Cơ quan hải quan nơi đăng ký tờ khai hải quan được quyền tạm giữ hàng hóa hoặc kê biên tài sản theo quy định của pháp luật để bảo đảm thu đủ tiền thuế, tiền phạt còn thiếu. Sau thời hạn ba mươi ngày, kể từ ngày cơ quan hải quan có quyết định tạm giữ hàng hóa hoặc quyết định kê biên tài sản mà đối tượng nộp thuế vẫn chưa nộp đủ tiền thuế, tiền phạt thì cơ quan hải quan được bán đấu giá hàng hóa, tài sản theo quy định của pháp luật để thu đủ tiền thuế, tiền phạt;\n\nc) Cơ quan hải quan không làm thủ tục nhập khẩu cho chuyến hàng tiếp theo của đối tượng nộp thuế cho đến khi đối tượng đó nộp đủ tiền thuế, tiền phạt;\n\n5. Khi phát hiện có sự gian lận, trốn thuế, cơ quan hải quan có trách nhiệm truy thu tiền thuế, tiền phạt trong thời hạn năm năm trở về trước, kể từ ngày kiểm tra phát hiện có sự gian lận, trốn thuế; trường hợp nhầm lẫn về thuế, cơ quan hải quan có trách nhiệm truy thu hoặc hoàn trả tiền thuế đó trong thời hạn ba trăm sáu mươi lăm ngày trở về trước, kể từ ngày kiểm tra phát hiện có sự nhầm lẫn đó. Trong thời hạn sáu mươi ngày, kể từ ngày đăng ký tờ khai hải quan mà đối tượng nộp thuế tự phát hiện ra những sai sót, nhầm lẫn và chủ động nộp số tiền thuế còn thiếu vào ngân sách nhà nước thì được miễn áp dụng các hình thức xử phạt;\n\n6. Người có hành vi trốn thuế với số lượng lớn hoặc đã bị xử phạt vi phạm hành chính về hành vi trốn thuế mà còn vi phạm thì bị truy cứu trách nhiệm hình sự theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H462-A24",
+   "no": 24,
+   "noLabel": {
+    "vi": "Điều 24"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Xử lý vi phạm đối với công chức hải quan hoặc cá nhân khác có liên quan"
+   },
+   "text": {
+    "vi": "Điều 24. Xử lý vi phạm đối với công chức hải quan hoặc cá nhân khác có liên quan\n\n1. Công chức hải quan hoặc cá nhân khác lợi dụng chức vụ, quyền hạn để chiếm dụng, tham ô tiền thuế thì phải bồi thường cho Nhà nước toàn bộ số tiền thuế đã chiếm dụng, tham ô và tuỳ theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử phạt hành chính hoặc bị truy cứu trách nhiệm hình sự theo quy định của pháp luật.\n\n2. Công chức hải quan thiếu tinh thần trách nhiệm, cố ý làm trái, bao che cho người vi phạm hoặc có hành vi khác vi phạm quy định của Luật này thì tuỳ theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử phạt hành chính hoặc bị truy cứu trách nhiệm hình sự; nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.\n\nChương VI\n\nTỔ CHỨC THỰC HIỆN"
+   }
+  },
+  {
+   "id": "VN-H462-A25",
+   "no": 25,
+   "noLabel": {
+    "vi": "Điều 25"
+   },
+   "chapter": {
+    "vi": "Chương VI"
+   },
+   "heading": {
+    "vi": "Thẩm quyền và trách nhiệm của Chính phủ"
+   },
+   "text": {
+    "vi": "Điều 25. Thẩm quyền và trách nhiệm của Chính phủ\n\nChính phủ thống nhất quản lý công tác thu thuế xuất khẩu, thuế nhập khẩu; quy định thẩm quyền, thủ tục miễn thuế, xét miễn thuế, xét giảm thuế, hoàn thuế, truy thu thuế và xử lý vi phạm về thuế tại các điều 16, 17, 18, 19, 20, 21 và 23 của Luật này."
+   }
+  },
+  {
+   "id": "VN-H462-A26",
+   "no": 26,
+   "noLabel": {
+    "vi": "Điều 26"
+   },
+   "chapter": {
+    "vi": "Chương VI"
+   },
+   "heading": {
+    "vi": "Trách nhiệm của Bộ trưởng Bộ Tài chính và Chủ tịch Uỷ ban nhân dân tỉnh, thành phố trực thuộc trung ương"
+   },
+   "text": {
+    "vi": "Điều 26. Trách nhiệm của Bộ trưởng Bộ Tài chính và Chủ tịch Uỷ ban nhân dân tỉnh, thành phố trực thuộc trung ương\n\n1. Bộ trưởng Bộ Tài chính có trách nhiệm chỉ đạo tổ chức, quản lý thu thuế xuất khẩu, thuế nhập khẩu đối với hàng hoá xuất khẩu, nhập khẩu.\n\n2. Chủ tịch Uỷ ban nhân dân tỉnh, thành phố trực thuộc trung ương có trách nhiệm chỉ đạo việc phối hợp tổ chức thu thuế xuất khẩu, thuế nhập khẩu tại địa phương."
+   }
+  },
+  {
+   "id": "VN-H462-A27",
+   "no": 27,
+   "noLabel": {
+    "vi": "Điều 27"
+   },
+   "chapter": {
+    "vi": "Chương VI"
+   },
+   "heading": {
+    "vi": "Trách nhiệm của cơ quan hải quan"
+   },
+   "text": {
+    "vi": "Điều 27. Trách nhiệm của cơ quan hải quan\n\nCơ quan hải quan có trách nhiệm kiểm tra và thu thuế theo quy định của Luật này và Luật hải quan.\n\nChương VII\n\nĐIỀU KHOẢN THI HÀNH"
+   }
+  },
+  {
+   "id": "VN-H462-A28",
+   "no": 28,
+   "noLabel": {
+    "vi": "Điều 28"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {
+    "vi": "Hiệu lực thi hành"
+   },
+   "text": {
+    "vi": "Điều 28. Hiệu lực thi hành\n\n1. Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2006.\n\n2. Bãi bỏ Luật thuế xuất khẩu, thuế nhập khẩu năm 1991, Luật sửa đổi, bổ sung một số điều của Luật thuế xuất khẩu, thuế nhập khẩu năm 1993, Luật sửa đổi, bổ sung một số điều của Luật thuế xuất khẩu, thuế nhập khẩu năm 1998; bãi bỏ quy định về thuế xuất khẩu, thuế nhập khẩu tại Điều 25 của Luật khuyến khích đầu tư trong nước, Điều 47 của Luật đầu tư nước ngoài tại Việt Nam, khoản 2 Điều 42 của Luật khoa học và công nghệ và Điều 34 của Luật dầu khí.\n\n3. Dự án khuyến khích đầu tư đã được cấp giấy phép đầu tư, giấy chứng nhận ưu đãi đầu tư có mức ưu đãi về thuế xuất khẩu, thuế nhập khẩu cao hơn mức ưu đãi quy định tại Luật này thì tiếp tục thực hiện theo mức ưu đãi đó; trường hợp trong giấy phép đầu tư, giấy chứng nhận ưu đãi đầu tư quy định mức ưu đãi về thuế xuất khẩu, thuế nhập khẩu thấp hơn mức ưu đãi quy định tại Luật này thì được hưởng mức ưu đãi theo quy định của Luật này cho thời gian ưu đãi còn lại của dự án."
+   }
+  },
+  {
+   "id": "VN-H462-A29",
+   "no": 29,
+   "noLabel": {
+    "vi": "Điều 29"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {
+    "vi": "Quy định chi tiết và hướng dẫn thi hành"
+   },
+   "text": {
+    "vi": "Điều 29. Quy định chi tiết và hướng dẫn thi hành\n\nChính phủ quy định chi tiết và hướng dẫn thi hành Luật này.\n\nLuật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XI, kỳ họp thứ 7 thông qua ngày 14 tháng 6 năm 2005.\n\n1:{\"id\":\"18133\",\"docType\":{\"id\":\"11025e19-2dd6-4165-85ad-ab6241186a1a\",\"name\":\"Luật\",\"code\":\"Lu\",\"parentCode\":\"VBQPPL\",\"parentName\":null},\"docGroup\":\"VBQPPL\",\"docNum\":\"45/2005/QH11\",\"title\":\"Luật Thuế xuất khẩu, thuế nhập khẩu số 45/2005/QH11\",\"applicationNote\":\"Bị hết hiệu lực bởi Luật 107/2016/QH13 Thuế xuất khẩu, thuế nhập khẩu\",\"issueDate\":\"2005-06-14T00:00:00\",\"effFrom\":\"2006-01-01T00:00:00\",\"effTo\":\"2016-09-01T00:00:00\",\"publicDate\":\"2015-01-02T00:00:00\",\"effStatus\":{\"id\":\"f55c1469-4341-4274-93ef-32b283db4dbd\",\"name\":\"Hết hiệu lực toàn bộ\",\"code\":\"HHL\",\"parentCode\":null,\"parentName\":null},\"status\":\"Publish\",\"lang\":\"vi\",\"defaultLanguage\":\"VN\",\"updatedBy\":\"dungdvm_II.2\",\"updatedDate\":\"2026-01-16T17:33:21\",\"agencyName\":\"Quốc hội\",\"organization\":{\"id\":\"24183aa3-e7d7-47b2-958b-46b06599dff6\",\"code\":\"BCT\",\"name\":\"Bộ Công thương\",\"nameEn\":\"Bộ Công thương\",\"shortName\":\"BCT\",\"orgType\":\"0\"},\"isLw\":true,\"documentContent\":{\"id\":\"18133\",\"title\":null,\"content\":\"$2\"},\"documentContentEn\":null,\"documentContentFileName\":null,\"documentContentFileDocName\":\"45.2005.QH11.doc\",\"documentIssues\":[{\"id\":\"cb823e0e-d473-42b1-9e4f-67649144a30f\",\"agencyId\":\"55\",\"agencyName\":\"Quốc hội\",\"agencyNameEn\":\"National Assembly of Vietnam\",\"agencyCode\":\"QH\",\"personId\":\"146\",\"personName\":\"Nguyễn Văn An\",\"jobTitleId\":\"28da0087-8afd-420c-875c-b2369e212c3e\",\"jobTitleCode\":\"CTQH\",\"jobTitleName\":\"Chủ tịch Quốc hội\",\"orderIndex\":1}],\"documentMajors\":[],\"documentFields\":[{\"id\":\"76e2c0d5-e93e-4ee9-8c72-59dae1167432\",\"name\":\"Chưa phân loại\",\"code\":null,\"parentCode\":null,\"parentName\":null}],\"documentRelatedList\":[{\"id\":\"f96f4df0-7017-4f76-aa1d-8ad682e85cd1\",\"fileName\":\"18133_body_content.html\",\"relatedType\":\"MARKDOWN\",\"fileTitle\":\"18133_body_content.html\",\"fileOrder\":null}],\"provisionTree\":null,\"references\":null,\"isEffectAllDocument\":false,\"isOld\":true,\"reviewStatus\":\"INITIAL\",\"reviewed\":false,\"isTranslationDoc\":false,\"isConsolidatedDocument\":false,\"isConstitutionDocument\":false,\"isAdministrativeDocument\":false,\"viewCount\":60,\"showViewCount\":true,\"hasContent\":true,\"hasOriginalPdf\":null,\"hasAIProcessed\":false,\"hasClauseRelation\":true,\"aiResults\":[]}"
+   }
+  }
+ ]
+}

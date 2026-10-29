@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13453",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Act Numbered Twenty-Seven Hundred and Eleven, Known as the Administrative Code of the Philippine Islands, Authorizing the Postal Savings Bank, Under Certain Conditions, to Grant Loans to Municipalities and Provinces.",
+  "orig": "An Act to Amend Act Numbered Twenty-Seven Hundred and Eleven, Known as the Administrative Code of the Philippine Islands, Authorizing the Postal Savings Bank, Under Certain Conditions, to Grant Loans to Municipalities and Provinces."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1919-02-28",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2805",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1282,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1919/act_2805_1919.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02805_1919_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02805_1919_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13453-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section two thousand and twenty-nine of Act Numbered Twenty-seven hundred and eleven is\nhereby amended by adding, at the end thereof, the following subsection :\n\"(m) In loans to provincial and municipal governments, for the construction of permanent public\nimprovements: Provided, That these loans shall be repaid in not more than ten annual installments with\ninterest at not to exceed five per centum per annum, payable quarterly: Provided, further, That in case the\nprovince or municipality which has contracted the loan fails to pay the principal or interest of any installment,\nthe Director of Posts shall so notify the Collector of Internal Revenue, in the case of a province, or the\nprovincial treasurer, in the case of a municipality, and such Collector of Internal Revenue or provincial\ntreasurer, as the case may be, is hereby authorized and directed to retain from any revenues coming into his\npossession, belonging to the province or municipality that contracted the loan, an amount sufficient to satisfy\nthe sum due, and shall remit such sum to the Director of Posts: And provided, further, That such loans shall be\ngranted only under conditions to be established by the postal savings bank board.\""
+   }
+  },
+  {
+   "id": "PH-H13453-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, February 28, 1919."
+   }
+  }
+ ]
+}

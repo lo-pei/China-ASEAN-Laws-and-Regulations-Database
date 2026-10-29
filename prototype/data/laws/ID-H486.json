@@ -1,0 +1,546 @@
+{
+ "id": "ID-H486",
+ "title": {
+  "zh": "印度尼西亚共和国检察院法",
+  "en": "prosecution service Republic of Indonesia Law",
+  "id": "kejaksaan republik indonesia",
+  "orig": "KEJAKSAAN REPUBLIK INDONESIA",
+  "vi": "Luật viện kiểm sát Cộng hòa Indonesia",
+  "th": "พระราชบัญญัติ อัยการ สาธารณรัฐอินโดนีเซีย",
+  "ms": "Akta kejaksaan republik indonesia"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02a",
+ "language": "id",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "1991",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU5-1991",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 36,
+ "chars": 38336,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU_NO_5_TH_1991.pdf&fl=P00918"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\01_宪法与基础法\\印尼_文本_1991_KEJAKSAAN REPUBLIK INDONESIA.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 36 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H486-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\n\nDalam Undang-undang ini yang dimaksud dengan:\n1. Jaksa adalah pejabat yang diberi wewenang oleh Undang-undang ini\nuntuk bertindak sebagai penuntut umum serta melaksanakan\nputusan pengadilan yang telah memperoleh kekuatan hukum tetap.\n2. Penuntut umum adalah jaksa yang diberi wewenang oleh\nUndang-undang ini untuk melakukan penuntutan dan melaksanakan\npenetapan hakim.\n3. Penuntutan adalah tindakan penuntut umum untuk melimpahkan\nperkara ke Pengadilan Negeri yang berwenang dalam hal dan\nmenurut cara yang diatur dalam Hukum Acara Pidana dengan\npermintaan supaya diperiksa dan diputus oleh Hakim di sidang\npengadilan.\n4. Jabatan fungsional jaksa adalah jabatan yang bersifat keahlian\nteknis dalam organisasi kejaksaan yang karena fungsinya\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n3\nmemungkinkan kelancaran pelaksanaan tugas kejaksaan.\n\nBagian Kedua\nKedudukan"
+   }
+  },
+  {
+   "id": "ID-H486-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB I / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\n\n(1) Kejaksaan Republik Indonesia, selanjutnya dalam Undang-undang\nini disebut kejaksaan, adalah lembaga pemerintahan yang\nmelaksanakan kekuasaan negara di bidang penuntutan.\n(2) Kejaksaan adalah satu dan tidak terpisah-pisahkan dalam\nmelakukan penuntutan."
+   }
+  },
+  {
+   "id": "ID-H486-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB I / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\n\nPelaksanaan kekuasaan negara sebagaimana dimaksud dalam Pasal 2,\ndiselenggarakan oleh Kejaksanaan Agung, Kejaksaan Tinggi, dan\nKejaksaan Negeri.\n\n\nBagian Ketiga\nTempat Kedudukan"
+   }
+  },
+  {
+   "id": "ID-H486-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB I / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\n\n(1) Kejaksaan Agung berkedudukan di Ibukota Negara Republik\nIndonesia dan daerah hukumnya meliputi wilayah kekuasaan\nNegara Republik Indonesia.\n(2) Kejaksaan Tinggi berkedudukan di Ibukota propinsi dan daerah\nhukumnya meliputi wilayah propinsi.\n(3) Kejaksaan Negeri berkedudukan di ibukota kabupaten atau di\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n4\nkotamadya atau di kota administratif dan daerah hukumnya\nmeliputi wilayah kabupaten atau kotamadya dan atau kota\nadministratif.\n\nBAB II\nSUSUNAN KEJAKSAAN\n\nBagian Pertama\nUmum"
+   }
+  },
+  {
+   "id": "ID-H486-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\n\nSusunan kejaksaan terditi dari Kejaksaan Agung, Kejaksaan Tinggi, dan\nKejaksaan Negeri."
+   }
+  },
+  {
+   "id": "ID-H486-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\n\n(1) Susunan organisasi dan tata ke rja kejaksaan ditetapkan dengan\nKeputusan Presiden.\n(2) Kejaksaan Tinggi dan Kejaksaan Negeri dibentuk dengan\nKeputusan Presiden."
+   }
+  },
+  {
+   "id": "ID-H486-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\n\n(1) Dalam daerah hukum Kejaksaan Negeri dapat dibentuk Cabang\nKejaksaan Negeri.\n\n(2) Cabang Kejaksaan Negeri dibentuk dengan Keputusan Jaksa\nAgung setelah mendapat persetujuan dari Menteri yang\nbertanggung jawab di bidang pendayagunaan aparatur negera.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n5\n\nBagian Kedua\nJaksa"
+   }
+  },
+  {
+   "id": "ID-H486-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n\n(1) Jaksa adalah pejabat fungsional yang diangkat dan diberhentikan\noleh Jaksa Agung.\n(2) Dalam melakukan penuntutan jaksa bertindak untuk dan atas\nnama negara serta bertanggung jawab menurut saluran hierarki.\n(3) Demi keadilan dan kebenaran berdasarkan Ketuhan Yang Maha\nEsa, jaksa melakukan penuntutan dengan keyakinan berdasarkan\nalat bukti yang sah.\n(4) Dalam melaksanakan tugas dan wewenangnya, jaksa senantiasa\nbertindak berdasarkan hukum dan mengindahkan norma-norma\nkeagamaan, kesopanan, dan kesusilaan serta wajib menggali\nnilai-nilai kemanusiaan, hukum, dan keadilan yang hidup dalam\nmasyarakat."
+   }
+  },
+  {
+   "id": "ID-H486-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n\nSyarat-syarat untuk dapat diangkat menjadi jaksa adalah:\na. warganegara Indonesia;\nb. bertaqwa kepada Tuhan Yang Maha Esa;\nc. setia kepada Pancasila dan Undang-Undang Dasar 1945;\nd. bukan bekas anggota organisasi terlarang Partai Komunis Indonesia,\ntermasuk organisasi massanya atau bukan seseorang yang terlibat\nlangsung atau tidak langsung dalam \"Gerakan Kontra Revolusi G.\n30. S/PKI\" atau organisasi teriarang lainnya;\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n6\ne. pegawai negeri;\nf. sarjana hukum;\ng. berumur serendah-rendahnya 25 (dua puluh lima) tahun;\nh. berwibawa, jujur, adil, dan berkelakuan tidak tercela;\ni. lulus pendidikan dan latihan pembentukan jaksa."
+   }
+  },
+  {
+   "id": "ID-H486-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\n\n(1) Sebelum memangku jabatannya, jaksa wajib mengucapkan\nsumpah atau janji menurut agama atau kepercayaannya, yang\nberbunyi: \"Sayabersumpah/berjanji dengan sungguh-sungguh\nbahwa saya,untuk memperoleh jabatan saya ini, langsung atau\ntidak langsung dengan menggunakan nama atau cara apapun\njuga, tidak memberikan atau menjanjikan barang sesuatu kepada\nsiapapun juga\". \"Saya bersumpah/berjanji bahwa saya, untuk\nmelakukan atau tidak melakukan sesuatu dalam jabatan ini,\ntidak sekali-kali akan menerima langsung atau tidak langsung dari\nsiapapun juga suatu janji atau pemberian\" \"Saya\nbersumpah/berjanji bahwa saya, akan setia kepada dan akan\nmempertahankan serta mengamalkan Pancasila sebagai dasar\ndan ideologi negara, Undang-Undang Dasar 1945, dan segala\nundang-undang serta peraturan lain yang berlaku bagi Negara\nRepublik Indonesia\". \"Saya bersumpah/berjanji bahwa saya,\nsenantiasa akan menjalankan jabatan saya ini dengan jujur,\nseksama, dan dengan tidak membedabedakan orang dan akan\nberlaku dalam melaksanakan kewajiban saya sebaik-baiknya dan\nseadil-adilnya seperti layaknya bagi seorang jaksa yang berbudi\nbaik dan jujur dalam menegakkan hukum dan keadilan\".\n(2) Jaksa mengucapkan sumpah atau janjinya dihadapan Jaksa\nAgung.\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n7"
+   }
+  },
+  {
+   "id": "ID-H486-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\n\n(1) Kecuali ditentukan lain oleh atau berdasarkan undang-undang,\njaksa tidak boleh merangkap :\n a. menjadi pengusaha; atau\n b. menjadi penasihat hukum; atau\n c. melakukan pekerjaan lain yang dapat mempengaruhi martabat\njabatannya.\n(2) Jabatan/pekerjaan yang tidak boleh dirangkap oleh jaksa selain\njabatan/ pekerjaan sebagaimana dimaksud dalam ayat (1), diatur\nlebih lanjut dengan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H486-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n\nJaksa diberhentikan dengan hormat dari jabatannya karena :\na. permintaan sendiri; atau\nb. sakit jasmani atau rohani terus-menerus; atau\nc. telah berumur 58 (lima puluh delapan) tahun dan 60 (enam puluh)\ntahun bagi Kepala Kejaksaan Tinggi dan Wakil Kepala Kejaksaan\nTinggi alau jabatan yang dipersamakan dengan Kepala Kejaksaan\nTinggi dan Wakil Kepala Kejaksaan Tinggi; atau\nd. ternyata tidak cakap menjalankan tugas; atau\ne. meninggal dunia."
+   }
+  },
+  {
+   "id": "ID-H486-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\n\n(1) Jaksa diberhentikan tidak dengan  hormat dari jabatannya dengan\nalasan :\n a. dipidana karena bersalah melakukan tindak pidana kejahatan;\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n8\natau\n b. terus menerus melalaikan kewajiban dalam menjalankan\ntugas/ pekerjaannya; atau\n c. melanggar larangan yang dimaksud dalam Pasal 11; atau\n d. melanggar sumpah atau janji jabatan; atau\n e. melakukan perbuatan tercela.\n\n(2) Pengusulan pemberhentian tidak dengan hormat dengan alasan\nsebagaimana dimaksud dalam ayat  (1) huruf b, c, d, dan e,\ndilakukan setelah jaksa yang bersangkutan diberi kesempatan\nsecukupnya untuk membela diri dihadapan Majelis Kehormatan\nJaksa.\n(3) Pembentukan, susunan, dan tata kerja Majelis Kehormatan Jaksa\nserta tatacara pembelaan diri ditetapkan oleh Jaksa Agung."
+   }
+  },
+  {
+   "id": "ID-H486-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\n\n(1) Jaksa yang diberhentikan dari jabatan fungsional jaksa, tidak\ndengan sendirinya diberhentikan sebagai pegawai negeri.\n(2) Sebelum diberhentikan tidak dengan hormat sebagaimana\ndimaksud dalam Pasal 13 ayat (1), jaksa yang bersangkutan dapat\ndiberhentikan sementara dari jabatannya oleh Jaksa Agung.\n(3) Setelah seorang jaksa diberhentikan sementara dari jabatan\nfungsionalnya berlaku pula ketentuan sebagaimana dimaksud\ndalam Pasal 13 ayat (2) tentang kesempatan untuk membela\ndari."
+   }
+  },
+  {
+   "id": "ID-H486-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\n\n(1) Apabila terhadap seorang jaksa ada perintah penangkapan yang\ndiikuti dengan penahanan, dengan sendirinya jaksa tersebut\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n9\ndiberhentikan sementara dari jabatannya oleh Jaksa Agung.\n(2) Pemberhentian sementara dapat dilakukan oleh Jaksa Agung\ndalam hal jaksa dituntut di muka pengadilan dalam perkara\npidana sebagaimana dimaksud dalam Pasal 21 ayat (4)\nUndang-undang Nomor 8 Tahun 1981 tanpa ditahan."
+   }
+  },
+  {
+   "id": "ID-H486-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\n\nKetentuan lebih lanjut mengenai tata cara pemberhentian dengan\nhormat, pemberhentian tidak dengan hormat, dan pemberhentian\nsementara, serta hak-hak jabatan fungsional jaksa yang terkena\npemberhentian diatur dengan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H486-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\n\nTunjangan jabatan fungsional jaksa diatur dengan Keputusan Presiden.\n\nBagian Ketiga\nJaksa Agung, Wakil Jaksa Agung, dan Jaksa\nAgung Muda"
+   }
+  },
+  {
+   "id": "ID-H486-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\n\n(1) JaksaAgungadalahpimpinan dan penanggungjawab tertinggi\nkejaksaan yang mengendalikan pelaksanaan tugas dan wewenang\nkejaksaan.\n(2) Jaksa Agung dibantu oleh seorang Wakil Jaksa Agung dan\nbeberapa orang Jaksa Agung Muda.\n(3) Jaksa Agung dan Wakil Jaksa Agung merupakan kesatuan unsur\npimpinan.\n(4) Jaksa Agung Muda adalah unsur pembantu pimpinan.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n10"
+   }
+  },
+  {
+   "id": "ID-H486-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\n\nJaksa Agung diangkat dan diberhentikan oleh serta bertanggung jawab\nkepada Presiden."
+   }
+  },
+  {
+   "id": "ID-H486-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\n\n(1) Wakil Jaksa Agung diangkat dan diberhentikan oleh Presiden atas\nusul Jaksa Agung.\n(2)  Wakil Jaksa Agung bertanggung jawab kepada Jaksa Agung.\n(3) Yang dapat diangkat menjadi Wakil Jaksa Agung adalah Jaksa\nAgung Muda."
+   }
+  },
+  {
+   "id": "ID-H486-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\n\n(1) Jaksa Agung Muda diangkat dan diberhentikan oleh Presiden atas\nusul Jaksa Agung.\n(2) Yang dapat diangkat menjadi Jaksa Agung Muda adalah Jaksa\nsebagaimana dimaksud dalam Pasal 8, yang berpengalaman\nsebagai Kepala Kejaksaan Tinggi atau jabatan yang dipersamakan\ndengan jabatan Kepala Kejaksaan Tinggi.\n(3) Jaksa Agung Muda dapat  diangkat dari luar lingkungan kejaksaan\ndengan syarat mempunyai  keahlian tertentu.\n(4) Wakil Jaksa Agung dan Jaksa Agung Muda diberhentikan dengan\nhormat dari jabatannya karena :\n a. permintaan sendiri; atau\n b. sakit jasmani atau rohani terus menerus; atau\n c. telah berumur 60 (enam puluh) tahun; atau\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n11\n d. ternyata tidak cakap menjalankan tugas; atau\n c. meninggal dunia."
+   }
+  },
+  {
+   "id": "ID-H486-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\n\n(1) Dalam hal Wakil Jaksa Agung dan Jaksa Agung Muda dinilai\nmelakukan perbuatan yang dapat menyebabkan pemberhentian\ntidak dengan hormat sebagaimana dimaksud dalam Pasal 13 ayat\n(1), Presiden atas usul Jaksa Ag ung dapat memberhentikan untuk\nsementara dari jabatannya sebelum diambil tindakan\npemberhentian tersebut.\n(2) Ketentuan tentang pembelaan diri sebagaimana dimaksud dalam\nPasal 13 ayat (2), berlaku pula terhadap Wakil Jaksa Agung dan\nJaksa Agung Muda.\n\n\n\nBagian Keempat\nKepala Kejaksaan Tinggi, Wakil Kepala Kejaksaan\nTinggi,\nKepala Kejaksaan Negeri, dan Kepala Cabang\nKejaksaan Negeri"
+   }
+  },
+  {
+   "id": "ID-H486-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\n\n(1) Kepala Kejaksaan Tinggi adalah pimpinan Kejaksaan Tinggi yang\nmengendalikan pelaksanaan tugas dan wewenang kejaksaan di\ndaerah hukumnya serta melaksanakan kebijakan yang ditetapkan\noleh Jaksa Agung.\n(2) Kepala Kejaksaan Tinggi dibantu oleh seorang Wakil Kepala\nKejaksaan Tinggi sebagai kesatuan unsur pimpinan dan beberapa\norang unsur pembantu pimpinan.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n12"
+   }
+  },
+  {
+   "id": "ID-H486-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 24\n\n(1) Kepala Kejaksaan Negeri adalah pimpinan Kejaksaan Negeri yang\nmengendalikan pelaksanaan tugas dan wewenang kejaksaan di\ndaerah hukumnya.\n(2) Kepala Kejaksaan Negeri diba ntu oleh beberapa orang unsur\npembantu pimpinan dan unsur pelaksana.\n(3) Kepala Cabang Kejaksaan Negeri adalah pimpinan Cabang\nKejaksaan Negeri sebagaimana dimaksud dalam Pasal 7, yang\nmengendalikan pelaksanaan tugas dan wewenang kejaksaan di\nsebagian daerah hukum Kejaksaan Negeri yang\nmembawahkannya.\n(4) Kepala Cabang Kejaksaan Negeri dibantu oleh beberapa orang\nunsur pelaksana."
+   }
+  },
+  {
+   "id": "ID-H486-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\n\nYang dapat diangkat menjadi Kepala Kejaksaan Tinggi, Wakil, Kepala\nKejaksaan Tinggi, Kepala Kejaksaan Negeri, dan Kepala Cabang\nKejaksaan Negeri adalah jaksa yang memenuhi syarat-syarat yang\nditetapkan lebih lanjut oleh Jaksa Agung.\n\nBagian Kelima\nTenaga Ahli dan Tenaga Tata Usaha"
+   }
+  },
+  {
+   "id": "ID-H486-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\n\n(1) Pada kejaksaan dapat ditugaskan pegawai negeri yang tidak\nmenduduki jabatan fungsional jaksa yang diangkat dan\ndiberhentikan oleh Jaksa Agung menurut peraturan\nperundang-undangan yang berlaku.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n13\n(2) Pegawai negeri sebagaimana dimaksud dalam ayat (1), dapat\ndiangkat sebagai tenaga ahli atau tenaga tata usaha untuk\nmendukung pelaksanaan tugas dan wewenang kejaksaan.\n\nBAB III\nTUGAS DAN WEWENANG\nBagian Pertama\nUmum"
+   }
+  },
+  {
+   "id": "ID-H486-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\n\n(1) Di bidang pidana, kejaksaan mempunyai tugas dan wewenang\n a. melakukan penuntutan dalam perkara pidana;\n b. melaksanakan penetapan hakim dan putusan pengadilan,\n c. melakukan pengawasan terhadap pelaksanaan keputusanlepas\nbersyarat;\n d. melengkapi berkas perkara tertentu dan untuk itu dapat\nmelakukan pemeriksaan tambahan sebelum dilimpahkan ke\npengadilan yang dalam pelaksanaannya dikoordinasikan\ndengan penyidik.\n(2) Di bidang perdata dan tata usaha negara, kejaksaan dengan\nkuasa khusus dapat bertindak di dalam maupun di luar\npengadilan untuk dan atas nama negara atau pemerintah.\n(3) Dalam bidang ketertiban dan ketenteraman umum, kejaksaan\nturut menyelenggarakan kegiatan:\n a. peningkatan kesadaran hukum masyarakat;\n b. pengamanan kebijakan penegakan hukum;\n c. pengamanan peredaran barang cetakan;\n d. pengawasan aliran kepercayaan yang dapat membahayakan\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n14\nmasyarakat dan negara;\n e. pencegahan penyalahgunaan dan/atau penodaan agama;\n f. penelitian dan pengembangan hukum serta statistik kriminal."
+   }
+  },
+  {
+   "id": "ID-H486-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\n\nKejaksaan dapat meminta kepada hakim untuk menempatkan seorang\nterdakwa di rumah sakit atau tempat perawatan jiwa atau tempat lain\nyang layak karena yang bersangkutan tidak mampu berdiri sendiri atau\ndisebabkan oleh hal-hal yang dapat membahayakan orang lain,\nlingkungan atau dirinya sendiri."
+   }
+  },
+  {
+   "id": "ID-H486-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\n\nDi samping tugas dan wewenang tersebut dalam Undang-undang ini,\nkejaksaan dapat diserahi tugas dan wewenang lain berdasarkan\nundang-undang."
+   }
+  },
+  {
+   "id": "ID-H486-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\n\nDalam melaksanakan tugas dan wewenangnya, kejaksaan membina\nhubungan kerjasama dengan badan-badan penegak hukum dan\nkeadilan serta badan negara atau instansi lainnya."
+   }
+  },
+  {
+   "id": "ID-H486-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\n\nKejaksaan dapat memberikan pertimbangan dalam bidang hukum\nkepada instansi pemerintah lainnya.\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n15\nBagian Kedua\nKhusus"
+   }
+  },
+  {
+   "id": "ID-H486-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 32\n\nJaksa Agung mempunyai tugas dan wewenang:\na. menetapkan serta mengendalikan kebijakan penegakan hukum dan\nkeadilan dalam ruang lingkup tugas dan wewenang kejaksaan;\nb. mengkoordinasikan penanganan perkara pidana tertentu dengan\ninstansi terkait berdasarkan undang-undang yang pelaksanaan\nkoordinasinya ditetapkan oleh Presiden;\nc. menyampingkan perkara demi kepentingan umum;\nd. mengajukan kasasi demi kepentingan hukum kepada Mahkamah\nAgung dalam perkara pidana, perdata, dan tata usaha negara;\ne. mengajukan pertimbangan teknis hukum kepada Mahkamah Agung\ndalam pemeriksaan kasasi perkara pidana;\nf. menyampaikan pertimbangan kepada Presiden mengenai\npermohonan grasi dalam hal pidana mati;\ng. mencegah atau melarang orang-orang tertentu untuk masuk ke\ndalam atau meninggalkan wilayah kekuasaan Negara Republik\nIndonesia karena keterlibatannya dalam perkara pidana."
+   }
+  },
+  {
+   "id": "ID-H486-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 33\n\n(1) Jaksa Agung memberikan izin kepada seorang tersangka atau\nterdakwa dalam hal tertentu untuk berobat atau menjalani\nperawatan di rumah sakit baik di dalam maupun di luar negeri.\n(2) Izin secara tertulis untuk berobat atau menjalani perawatan di\ndalam negeri diberikan oleh Kepala Kejaksaan Negeri setempat\natas nama Jaksa Agung, sedangkan untuk berobat atau menjalani\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n16\nperawatan di rumah sakit di luar negeri hanya diberikan oleh\nJaksa Agung.\n(3) Izin sebagaimana dimaksud dalam ayat (1) dan (2), hanya\ndiberikan atas dasar rekomendasi dokter, dan dalam hal\ndiperlukannya perawatan di luar negeri rekomendasi tersebut\ndengan jelas menyatakan kebutuhan untuk itu yang dikaitkan\ndengan belum mencukupinya fasilitas perawatan tersebut di\ndalam negeri.\n\n\nBAB IV\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H486-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 34\n\nPada saat mulai berlakunya Undang-undang ini, semua peraturan\npelaksanaan yang telah ada mengenai kejaksaan dinyatakan tetap\nberlaku selama ketentuan baru berdasarkan Undang-undang ini belum\ndikeluarkan dan sepanjang peraturan itu tidak bertentangan dengan\nUndang-undang ini.\n\nBAB   V\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H486-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB   V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  35\n\nPada saat mulai berlakunya Undang -undang ini, maka Undang-undang\nNomor 15 Tahun 1961 tentang Ketentuan-ketentuan Pokok Kejaksaan\nRepublik Indonesia (Lembaran Negara Tahun 1961 Nomor 254,\nTambahan Lembaran Negara Nomo r 2298) dan Undang-undang Nomor\n16 Tahun 1961 tentang Pembentukan Kejaksaan Tinggi (Lembaran\nNegara Tahun 1961 Nomor 255, Tambah an Lembaran Negara Nomor\n2299) dinyatakan tidak berlaku.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n17"
+   }
+  },
+  {
+   "id": "ID-H486-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB   V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 36\n\nUndang-undang ini mulai berlaku pada tanggal diundangkan\n\n\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nUndang-undang ini dengan penempatannya dalam Lembaran Negara\nRepublik Indonesia.\n\nDisahkan di Jakarta\npada tanggal 22 Juli 1991\n\nPRESIDEN REPUBLIK INDONESIA\n\n     ttd\n\n          SOEHARTO\n\nDiundangkan di Jakarta\npada tanggal 22 Juli 1991\n\nMENTERI/SEKRETARIS NEGARA\n   REPUBLIK INDONESIA\n\n     ttd\n\n          MOERDIONO\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n18\nPENJELASAN\nATAS\nUNDANG-UNDANG REPUBLIK INDONESIA\nNOMOR 5 TAHUN 1991\nTENTANG\nKEJAKSAAN REPUBLIK INDONESIA\n\nI. UMUM\n\nPembangunan hukum nasional adalah bagian yang tak terpisahkan dari\nupaya mewujudkan masyarakat adil dan makmur berdasarkan\nPancasila dan Undang-Undang Dasar 1945.\n\nDalam rangka pembangunan hukum, upaya pembaharuan hukum dan\npemantapan kedudukan serta peranan badan-badan penegak hukum\nsecara terarah dan terpadu dibutuhkan untuk dapat mendukung\npembangunan di berbagai bidang sesuai dengan tuntutan\npembangunan serta kesadaran hukum dan dinamika yang berkembang\ndalam masyarakat.\n\n Sehubungan dengan itu berbagai peraturan perundang-undangan\ndan perangkat hukum yang dipandan g sudah tidak sesuai lagi, baik\ndengan kebutuhan pembangunan dan kesadaran hukum serta dinamika\nyang berkembang dalam masyarakat  maupun dengan prinsip negara\nberdasarkan atas hukum, perlu ditinjau dan diperbaharui.\n\n Undang-undang Nomor 15 Tahun 1961 tentang Ketentuan-ketentuan\nPokok Kejaksaan dan Undang-undang Nomor 16 Tahun 1961 tentang\nPembentukan Kejaksaan Tinggi yang mengatur dan menetapkan\nkedudukan, tugas, dan wewenang kejaksaan dalam kerangka sebagai\nalat revolusi dan menempatkan kejaksaan dalam struktur organisasi\ndepartemen sudah tidak sesuai lagi dengan sistem ketata-negaraan\nyang berlaku.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n19\n\nDemikian juga sejumlah tugas dan wewenang kejaksaan di bidang\npidana mengalami perubahan yang mendasar dalam kaitan dengan\nsistem peradilan pidana terpadu sebagaiman diatur dalam\nUndang-undang Nomor 8 Tahun 1981 tentang Hukum Acara Pidana.\n\nBerdasarkan kenyataan-kenyataan tersebut, maka Undang-undang\nNomor 15 Tahun 1961 tentang Ketentuan-ketentuan Pokok Kejaksaan\nRepublik Indonesia dan Undang-undang Nomor 16 Tahun 1961 tentang\nPembentukan Kejaksaan Tinggi yang semangat dan materi muatannya\ntidak lagi mencerminkan kenyataan yang ada dan sudah tidak\nmemenuhi kebutuhan pembangunan perlu diperbaharui.\n\nPembaharuan Undang-undang Kejaksaan Republik Indonesia diarahkan\ndan dimaksudkan untuk memantapkan kedudukan dan peranan\nkejaksaan agar lebih mampu dan berwibawa dalam melaksanakan\ntugas dan wewenangnya dalam negara hukum yang berdasarkan\nPancasila, sebagai negara yang sedang membangun.\n\nOleh karena itu kejaksaan wajib mengamankan dan mempertahankan\nPancasila sebagai falsafah hidup bangsa Indonesia terhadap\nusaha-usaha yang dapat menggoyahkan sendi-sendi kehidupan\nbermasyarakat, berbangsa, dan bernegara. Dalam melaksanakan tugas\ndan wewenangnya, kejaksaan harus mampu mewujudkan kepastian\nhukum, ketertiban hukum, keadilan dan kebernaran berdasarkan\nhukum dan mengindahkan norma-norma keagamaan, kesopanan dan\nkesusilaan serta wajib menggali nilai-nilai kemanusiaan, hukum dan\nkeadilan yang hidup dalam masyar akat. Kejaksaan juga harus mampu\nterlibat sepenuhnya dalam proses pembangunan antara  lain turut\nmenciptakan kondisi dan prasarana yang mendukung dan\nmengamankan pelaksanaan pembangunan untuk mewujudkan\nmasyarakat adil dan makmur berdasarkan Pancasila serta\nberkewajiban untuk turut menjaga dan menegakkan kewibawaan\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n20\npemerintah dan negara serta melindungi kepentingan rakyat melalui\npenegakan hukum.\n\nDalam rangka memantapkan kedudukan dan peranan kejaksaan sesuai\ndengan sistem pemerintahan berd asarkan Undang-Undang Dasar 1945,\nmaka Undang-undang ini menegaskan bahwa kedudukan kejaksaan\nadalah lembaga pemerintahan yang melaksanakan kekuasaan negara\nterutama di bidang penuntutan di lingkungan peradilan umum.\n\nKejaksaan sebagai lembaga pemerintahan terdiri dari Kejaksaan\nAgung, Kejaksaan Tinggi dan Kejaksaan Negeri. Kejaksaan adalah satu\ndan tidak terpisah-pisahkan yang dalam melaksanakan tugas dan\nwewenangnya bertindak demi keadilan dan kebenaran berdasarkan\nKetuhanan Yang Maha Esa dan senantiasa menjunjung tinggi prinsip\nbahwa setiap orang bersamaan kedudukannya di dalam hukum.\n\nKejaksaan dipimpin oleh Jaksa Agung yang mengendalikan pelaksanaan\ntugas dan wewenang kejaksaan. Dalam pelaksanaan tugas dan\nwewenangnya, Jaksa Agung dibantu oleh seorang Wakil Jaksa Agung\ndan beberapa orang Jaksa Agung Muda.\n\nGuna memungkinkan terlaksananya tugas dan wewenang kejaksaan\ndengan lebih baik dan untuk lebih mengembangkan profesionalisme\njaksa, maka jaksa ditetapkan sebagai pejabat fungsional. Dengan\nadanya jabatan fungsional memungkinkan jaksa berdasarkan\nprestasinya mencapai pangkat puncak.\n\nDisamping memantapkan kedudukan, organisasi, jabatan, tugas dan\nwewenang kejaksaan, Undang-undang ini menetapkan pula :\n\n1. Kewenangan kejaksaan untuk melengkapi berkas perkara tertentu\ndan untuk itu dapat melakukan pemeriksaan tambahan sebelum\nperkara dilimpahkan ke pengadilan, dengan\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n21\npembatasan-pembatasan tertentu.\nPemeriksana tambahan dilakukan untuk memperoleh kepastian\npenyelesaian perkara dalam rangka pelaksanaan asas peradilan\ncepat, sederhana, dan dengan biaya ringan serta menjamin\nkepastian hukum, hak-hak asasi pencari keadilan, baik tersangka,\nterdakwa, saksi korban, maupun kepentingan umum.\n\n2. Di bidang perdata dan tata us aha negara, kejaksaan dengan kuasa\nkhusus dapat bertindak untuk dan atas nama negara atau\npemerintah di dalam atau di luar pengadilan. Sebagai negara hukum\nyang menyelenggarakan kesejahteraan masyarakat akan banyak\nditemukan keterlibatan dan kepentingan hukum dari negara atau\npemerintah di bidang perdata dan tata usaha negara, baik dalam\nkedudukan sebagai tergugat maupun penggugat atau sebagai pihak\nyang mempunyai kepentingan hukum di luar pengadilan yang dapat\ndiwakilkan kepada kejaksaan.\n\n3. Di bidang ketertiban dan ketenteraman umum, kejaksaan turut\nmenyelenggarakan kegiatan seperti upaya meningkatkan kesadaran\nhukum masyarakat dan pengaman an kebijakan penegakan hukum.\nUpaya peningkatan kesadaran hukum masyarakat dilakukan antara\nlain dengan penyuluhan dan penerangan hukum. Sedangkan\npengamanan kebijakan penegakan hukum dapat dilakukan dengan\ntindakan-tindakan preventif dan represif melalui dukungan intelijen\nyustisial kejaksaan.\n\n4. Kejaksaan dapat diserahi tugas dan wewenang lain berdasarkan\nundang-undang.\n\nUndang-undang ini mengatur pula tugas dan wewenang Jaksa Agung\nmenetapkan serta mengendalikan kebijakan penegakan hukum dan\nkeadilan dalam ruang lingkup tugas wewenang kejaksaan,\nmenyampingkan perkara demi kepentingan umum, dan wewenang\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n22\nyang berkaitan dengan pemberian pertimbangan teknis hukum dalam\npenyelesaian kasasi, grasi, dan pencegahan atau larangan terhadap\norang-orang tertentu untuk masuk ke dalam atau meninggalkan\nwilayah kekuasaan negara Republik Indonesia karena keterlibatannya\ndalam perkara pidana. Selain itu karena jabatannya, Jaksa Agung\nberwenang mengkoordinasikan penanganan perkara pidana tertentu\ndengan instansi terkait berdasar kan undang-undang yang pelaksanaan\nkoordinasinya ditetapkan oleh Pres iden, dengan memperhatikan asas\nhukum yang berlaku.\n\n\n\n\nII. PASAL DEMI PASAL\n\n Pasal 1\n  C u k u p  j e l a s\n Pasal 2\n  Ayat (1)\n   Kejaksaan adalah satu-satunya lembaga pemerintahan\npelaksana kekuasaan negara yang mempunyai tugas dan\nwewenang di bidang penuntutan  dalam penegakan hukum dan\nkeadilan di lingkungan peradilan umum.\n  Ayat (2)\n   Yang dimaksud dengan \"Kejaksaan adalah satu dan tidak\nterpisah-pisahkan\" adalah satu landasan dalam pelaksanaan\ntugas dan wewenangnya di bidang penuntutan yang bertujuan\nmemelihara kesatuan kebijakan di bidang penuntutan sehingga\ndapat menampilkan ciri khas yang menyatu dalam tata pikir,\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n23\ntata laku, dan tata kerja kejaksaan.\n   Oleh karena itu kegiatan penuntutan di pengadilan oleh\nkejaksaan tidak akan berhenti hanya karena jaksa yang semula\nbertugas berhalangan. Dalam hal demikian tugas penuntutan\noleh kejaksaan akan tetap berlangsung sekalipun untuk itu\ndilakukan oleh jaksa lainnya sebagai pengganti.\n\n Pasal 3\n  C u k u p  j e l a s\n Pasal 4\n  Ayat (1)\n   C u k u p  j e l a s\n  Ayat (2)\n   Kejaksaan Tinggi Daerah Khusus Ibukota Jakarta berkedudukan\ndi Jakarta.\n  Ayat (3)\n   C u k u p  j e l a s .\n Pasal 5\n   C u k u p  j e l a s\n Pasal 6\n  Ayat (1)\n   Susunan organisasi kejaksaan pada dasarnya sama dengan\nsusunan organisasi pemerintahan lainnya yang terdiri dari\nunsur pimpinan, pembantu pimpinan, pelaksana operasional,\ndan pengawasan, yang membedakannya hanya ciri khusus\ndalam tugas dan wewenang kejaksaan.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n24\n  Ayat (2)\n   C u k u p  j e l a s\n Pasal 7\n  Ayat (1)\n   Pembentukan Cabang Kejaksaan Negeri dalam satu daerah\nhukum Kejaksaan Negeri dilakukan apabila dipandang perlu\ndalam rangka memberikan pelayanan hukum dan keadilan\nyang sebaik-baiknya kepada masyarakat. Hal ini didasarkan\natas pertimbangan perkembangan dan luas wilayah serta\npertambahan penduduk.\n  Ayat (2)\n   Persetujuan tersebut diberikan secara tertulis oleh Menteri\nyang betanggung jawab di bidang aparatur negara.\n Pasal 8\n  Ayat (1)\n   Jabatan Jaksa sebagai jabatan fungsional, terkait dengan\nfungsi yang secara khusus dijalankan oleh jaksa dalam bidang\npenuntutan sehingga memungkinkan organisasi kejaksaan\nmenjalankan tugas pokoknya.\n  Ayat (2)\n   Dalam melaksanakan jabatan fungsional di bidang penuntutan,\njaksa bertindak sebagai wakil negara dengan tetap\nmemperhatikan kepentingan masyarakat dan pemerintah. Oleh\nkarena itu pelaksanaan penuntutan harus berdasarkan hukum\ndan senantiasa mengindahkan rasa keadilan yang hidup dalam\nmasyarakat dengan memperhatikan kebijakan pemerintah\ndalam penanganan perkara pidana.\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n25\n   Dalam melaksanakan tugas yang diembannya, jaksa\nbertanggung jawab kepada pejabat kejaksaan yang secara\norganisatoris menjadi atasan langsung jaksa tersebut. Dalam\nhubungan ini Kepala Cabang Kejaksaan Negeri bertanggung\njawab kepada Kepala Kejaksaan Negeri, Kepala Kejaksaan\nNegeri bertanggung jawab kepada Kepala Kejaksaan Tinggi,\ndan Kepala Kejaksaan Tinggi bertanggung jawab kepada Jaksa\nAgung.\n  Ayat (3)\n   C u k u p  j e l a s\n  Ayat (4)\n   C u k u p  j e l a s\n\n Pasal 9\n  Penilaian terhadap pemenuhan syarat-syarat yang dicantumkan\ndalam huruf h Pasal ini, diberikan oleh pejabat yang berwenang\nmenurut peraturan perundang-udangan dalam bidang\nkepegawaian.\n Pasal 10\n  Ayat (1)\n   C u k u p  j e l a s\n  Ayat (2)\n   Apabila Jaksa Agung berhalangan, pengucapan sumpah atau\njanji dapat dilakukan di hadapan pejabat lain yang\nditunjuknya.\n Pasal 11\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n26\n  Ayat (1)\n   H u r u f  a\n    C u k u p  j e l a s\n  H u r u f  b\n   Yang dimaksud dengan penasihat hukum termasuk juga\nkonsultan hukum.\n  H u r u f  c\n    C u k u p  j e l a s\n Ayat (2)\n   C u k u p  j e l a s\n\n Pasal 12\n  Yang dimaksud dengan \"jabatannya\" dalam Pasal ini ialah jabatan\nfungsional.\n\n  H u r u f  a\n   C u k u p  j e l a s\n  H u r u f  b\n   Yang dimaksud dengan \"sakit jasmani atau rohani terus\nmenerus\" ialah sakit yang menyebabkan si penderita tidak\nmampu lagi melakukan tugas kewajibannya dengan baik sesuai\ndengan peraturan perundang-undangan yang berlaku.\n Huruf c\n   Batas usia pensiun jaksa dapa t diubah oleh atau berdasarkan\nUndang-undang tentang Kepegawaian.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n27\n\n Huruf d\n  Yang dimaksud dengan \"tidak cakap\" ialah misalnya yang\nbersangkutan banyak melakukan kesalahan besar dalam\nmenjalankan tugasnya.\n Huruf c\n  C u k u p  j e l a s .\n\n Pasal 13\nAyat (1)\n Huruf a\n  Yang dimaksud dengan \"dipidana\" ialah dijatuhi pidana penjara\nsekurang-kurangnya 3 (tiga) bulan.\n Huruf b\n  Yang dimaksud dengan \"terus-menerus melalaikan kewajibakan\ntugas pekerjaan\"ialah apabila dalam jangka waktu tertentu\nsesuai dengan peraturan perundang-undangan yang berlaku, yang\nbersangkutan tidak menyelesaikan tugas yang dibebankan\nkepadanya tanpa suatu alasan yang sah.\n Huruf c\n   C u k u p  j e l a s\n Huruf d\n   C u k u p  j e l a s\n Huruf e\n   Yang dimaksud dengan \"perbuatan tercela\" ialah sikap,\nperbuatan, dan tindakan jaksa yang bersangkutan baik pada\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n28\nsaat bertugas maupun tidak bertugas merendahkan martabat\njaksa atau kejaksaan.\n Ayat (2)\n   C u k u p  j e l a s\n Ayat (3)\n   C u k u p  j e l a s\n\nPasal 14\n Ayat (1)\n  Dalam hal keputusan pemberhentian sebagai jaksa dengan\nkualifikasi dengan hormat, maka yang bersangkutan\ndiberhentikan statusnya sebagai jaksa. Pemberhentian tersebut\ntidak menutup kemungkinan diambilnya tindakan susulan dalam\nbentuk pemberhentian sebagai pegawai negeri.\n  Dalam hal keputusan pemberhentian sebagai jaksa dengan\nkualifikasi tidak dengan hormat, maka jaksa yang bersangkutan\ndiberhentikan pula sebagai pegawai negeri, sesuai dengan\nperaturan perundang-undangan yang berlaku.\n Ayat (2)\n  Yang dimaksud dengan \"pemberhentian sementara\" ialah\ntindakan memberhentikan sementara waktu sebagai jaksa,\nsampai adanya keputusan definitif dari Jaksa Agung berdasarkan\nputusan pengadilan yang telah mempunyai kekuatan hukum tetap\natau keputusan Majelis Kehormatan Jaksa atas kesalahan jaksa\nyang bersangkutan.\n Ayat (3)\n   C u k u p  j e l a s\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n29\n\nPasal 15\n Ayat (1)\n  Dengan adanya surat perintah penangkapan dan penahanan oleh\npihak yang berwenang, maka Jaksa Agung segera menyusuli\ndengan surat keputusan pemberhentian sementara.\n\n Ayat (2)\n  Pasal 21 ayat (4) huruf b Undang-undang Nomor 8 Tahun 1981\ntentang Hukum Acara Pidana menetapkan tindak pidana tertentu\nyang memberi wewenang kepada penyidik, penuntut umum atau\npengadilan untuk melakukan tindakan penahanan atas pelaku\ntindak pidana tersebut. Dalam hal seorang Jaksa dituntut di\nmuka pengadilan karena melakukan salah satu tindak pidana\ntersebut, walaupun yang bersangkutan tidak ditahan, ia dapat\ndikenakan tindakan pemberhentian sementara.\n\n Pasal 16\n   C u k u p  j e l a s\n Pasal 17\n   C u k u p  j e l a s\n Pasal 18\n  Ayat (1)\n   Mengingat Jaksa Agung adalah pimpinan dan penanggung\njawab tertinggi kejaksaan yang mengendalikan pelaksanaan\ntugas dan wewenang kejaksaan, maka Jaksa Agung adalah juga\npimpinan dan penanggung jawab tertinggi dalam bidang\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n30\npenuntutan.\n  Ayat (2)\n   C u k u p  j e l a s\n  Ayat (3)\n   Yang dimaksud dengan \"kesatuan unsur pimpinan\" ialah wujud\nketerpaduan dan kebersamaan antara Jaksa Agung dan Wakil\nJaksa Agung dalam melaksanakan kebijakan yang ditetapkan\noleh Jaksa Agung.\n  Ayat (4)\n   C u k u p  j e l a s\n Pasal 19\n   C u k u p  j e l a s\n Pasal 20\n  Ayat (1)\n   Adanya jabatan Wakil Jaksa Agung akan sangat membantu\nJaksa Agung khususnya dalam pembinaan administrasi\nsehari-hari dan segi-segi teknis operasional lainnya. Karena\nsifat tugasnya tersebut, maka jabatan Wakil Jaksa Agung\nmerupakan jabatan karier dalam lingkungan kejaksaan.\n  Pengusulan pencalonan oleh Jaksa Agung harus memperhatikan\npembinaan karier di lingkungan kejaksaan.\n  Ayat (2)\n   C u k u p  j e l a s\n  Ayat (3)\n   C u k u p  j e l a s\n Pasal 21\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n31\n  Ayat (1)\n   C u k u p  j e l a s\n  Ayat (2)\n   Yang dimaksud dengan \"jabatan yang dipersamakan dengan\njabatan Kepala Kejaksaan Tinggi\" adalah jabatan Kepala\nDirektorat, Kepala Biro, atau jabatan lainnya yang setingkat.\n  Ayat (3)\n   Pada dasarnya jabatan Jaksa Agung Muda adalah jabatan\nkarier. Ketentuan dalam ayat ini memberikan kemungkinan\npengangkatan seorang Jaksa Agung Muda dari luar lingkungan\nkejaksaan. Sifatnya sangat selektif dan berdasarkan kebutuhan\nserta pejabat tersebut mempunyai keahlian tertentu yang\nbermanfaat bagi pelaksanaan tugas dan wewenang kejaksaan.\n  Ayat (4)\n   Lihat penjelasan Pasal 12 huruf b, c, dan d.\n Pasal 22\n  Ayat (1)\n   C u k u p  j e l a s\n  Ayat (2)\n   C u k u p  j e l a s\n\n Pasal 23\n  Ayat (1)\n   C u k u p  j e l a s\n  Ayat (2)\n   C u k u p  j e l a s\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n32\n Pasal 24\n  Ayat (1)\n   C u k u p  j e l a s\n  Ayat (2)\n   Yang dimaksud dengan \"unsur pembantu pimpinan\" dalam\nPasal ini adalah Kepala Seksi atau pejabat yang setingkat,\nsedangkan unsur pelaksana adalah jaksa sesuai dengan tugas\ndan wewenangnya.\n  Ayat (3)\n   C u k u p  j e l a s\n  Ayat (4)\n   C u k u p  j e l a s\n Pasal 25\n   C u k u p  j e l a s\n Pasal 26\n  Ayat (1)\n   Dalam kedudukan sebagai pegawai negeri, kepadanya\ndiberlakukan ketentuan mengenai pangkat, penghasilan, hak\nserta kewajiban lainnya sebagaimana diatur dalam peraturan\nperundang-undangan mengenai pegawai negeri.\n  Ayat (2)\n   Yang dimaksud dengan \"tenaga ahli\" ialah ahli-ahli dalam\nberbagai disiplin ilmu dan tidak dimaksudkan untuk\nmemberikan \"keterangan ahli\" dalam suatu persidangan,\nsebagaimana dimaksud dalam Pasal 1 butir 28 Undang-undang\nNomor 8 Tahun 1981 tentang Hukum Acara Pidana.\n Pasal 27\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n33\n  Ayat (1)\n   H u r u f  a\n    C u k u p  j e l a s\n   H u r u f  b\n    Dalam melaksanakan putusan pengadilan dan penetapan\nhakim, kejaksaan memperhatikan nilai-nilai hukum yang\nhidup dalam masyarakat dan peri kemanusiaan berdasarkan\nPancasila tanpa menyampingkan ketegasan dalam bersikap\ndan bertindak.\n    Melaksanakan putusan pengadilan termasuk juga\nmelaksanakan tugas dan wewenang mengendalikan\npelaksanaan hukuman mati dan putusan pengadilan\nterhadap barang rampasan yang telah dan akan disita untuk\nselanjutnya dijual lelang.\n  H u r u f  c\n   Yang dimaksud dengan \"keputusan lepas bersyarat\" adalah\nkeputusan yang dikeluarkan oleh Menteri Kehakiman.\n  H u r u f  d\n   Untuk melengkapi berkas perkara, pemeriksaan tambahan\ndilakukan dengan memperhatikan hal-hal sebagai berikut :\n1) tidak dilakukan terhadap tersangka;\n2) hanya terhadap perkara-perkara yang sulit pembuktiannya,\ndan/atau dapat meresahkan masyarakat, dan/atau yang\ndapat membayakan keselamatan Negara;\n3) harus dapat diselesaikan dalam waktu 14 (empat belas) hari\nsetelah dilaksanakan ketentuan Pasal 110 dan Pasal 138\nayat (2) Kitab Undang-undang Hukum Acara Pidana;\n4) prinsip koordinasi dan kerja sama dengan penyidik.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n34\n  Ayat (2)\n   C u k u p  j e l a s\n  Ayat (3)\n   Tugas dan wewenang kejaksaan dalam ayat ini bersifat\npreventif dan/atau edukatif sesuai dengan peraturan\nperundang-undangan yang belaku.\n   Yang dimaksud dengan \"turut menyelenggarakan\" adalah\nmencakup kegiatan-kegiatan membantu, turut serta, dan\nbekerja sama.\n   Dalam turut menyelenggarakan tersebut, kejaksaan senantiasa\nmemperhatikan koordinasi dengan instansi terkait.\n Pasal 28\n  C u k u p  j e l a s\n Pasal 29\n  C u k u p  j e l a s\n Pasal 30\n  Adalah menjadi kewajiban bagi setiap badan negara terutama\ndalam bidang penegakan hukum dan keadilan untuk\nmelaksanakan dan membina kerja sama yang dilandasi semangat\nketerbukaan, kebersamaan, dan keterpaduan dalam suasana\nkeakraban guna mewujudkan sistem peradilan pidana terpadu.\n  Hubungan kerja sama ini dilakukan melalui koordinasi horizontal\ndan vertikal secara berkala dan berkesinambungan dengan tetap\nmenghormati fungsi, tugas, dan wewenang masing-masing. Kerja\nsama antara kejaksaan dengan instansi penegak hukum lainnya\ndimaksudkan untuk memperlancar upaya penegakan hukum\nsesuai dengan asas cepat, sederhana dan biaya ringan serta\nbebas, jujur, dan tidak memihak dalam penyelesaian perkara.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n35\n Pasal 31\n  C u k u p  j e l a s\n Pasal 32\n  H u r u f  a\n   C u k u p  j e l a s\n\n Huruf b\n1) Yang dimaksud dengan \"perkara pidana tertentu\" adalah\nperkara-perkara pidana yang dapat meresahkan masyarakat\nluas, dan/atau dapat membahayakan keselamatan negara,\ndan/ atau dapat merugikan perekonomian negara;\n2) Yang dimaksud dengan \"instansi terkait\" adalah instansi yang\nsecara fungsional terkait dengan penangan perkara pidana\ntetentu, baik badan penegak hukum maupun instansi\npemerintah lainnya, dalam hal ini tidak termasuk badan\nperadilan;\n3) Penetapan oleh Presiden tentang pelaksanaan koordinasi sama\nsekali tidak mengurangi asas kekuasaan kehakiman yang\nmerdeka sebagaimana dimaksud dalam Undang-undang Nomor\n14 Tahun 1970 dan tetap memperhatikan asas-asas hukum\nyang berlaku demi kepastian hukum.\n Huruf c\n  Yang dimaksud dengan \"kepentingan umum\" adalah kepentingan\nbangsa dan negara dan/atau kepentingan masyarakat luas.\n\n  Menyampingkan perkara sebagaimana dimaksud dalam ketentuan\nini merupakan pelaksanaan asas oportunitas, hanya dapat\ndilakukan oleh Jaksa Agung setelah memperhatikan saran dan\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n36\npendapat dari badan-badan kekuasan negara yang mempunyai\nhubungan dengan masalah tersebut.\n\n  Sesuai dengan sifat dan bobot perkara yang disampingkan\ntersebut, Jaksa Agung dapat melaporkan terlebih dahulu rencana\npenyampingan perkara kepada Presiden, untuk mendapatkan\npetunjuk.\n Huruf d\n  Pengajuan kasasi demi kepentingan hukum ini adalah sesuai\ndengan ketentuan sebagaimana dimaksud dalam Undang-undang\nNomor 8 Tahun 1981 tentang Hukum Acara Pidana dan\nUndang-undang Nomor 14 Tahun 1985 tentang Mahkamah Agung.\n Huruf e\n   C u k u p  j e l a s\n Huruf f\n  Pertimbangan Jaksa Agung kepada Presiden melalui Mahkamah\nAgung sesuai dengan ketentuan yang diatur dalam Pasal 8 ayat(\n6) Undang-undang Nomor 3 Tahun 1950 tentang Permohonan\nGrasi.\n Huruf g\n  Tugas dan wewenang yang diatur dalam ayat ini semata-mata\ndalam perkara pidana. Mengingat pelaksanaan wewenang\ntersebut berkaitan dengan instansi lainnya seperti keimigrasian,\nmaka harus dikoordinasikan dengan instansi yang bersangkutan.\nPasal 33\n Ayat (1)\n  Untuk memperoleh izin sebagaimana dimaksud dalam ayat ini,\ntersangka atau terdakwa atau keluarganya mengajukan\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n37\npermohonan secara tertulis kepada Jaksa Agung atau pejabat\nyang ditunjuk sesuai dengan keputusan Jaksa Agung. Yang\ndimaksud dengan \"tersangka atau terdakwa\" adalah tersangka\natau terdakwa yang berada dalam tanggung jawab kejaksaan.\n  Ayat (2)\n   C u k u p  j e l a s\n  Ayat (3)\n   C u k u p  j e l a s\n Pasal 34\n  C u k u p  j e l a s\n Pasal 35\n  C u k u p  j e l a s\n Pasal 36\n  C u k u p  j e l a s"
+   }
+  }
+ ]
+}

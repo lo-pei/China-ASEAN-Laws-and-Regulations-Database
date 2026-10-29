@@ -1,0 +1,82 @@
+{
+ "id": "PH-H21798",
+ "title": {
+  "zh": null,
+  "en": "Amending Presidential Decree No. 252 \"Authorizing the Creation of a Philippine International Trading Corporation, Appropriating Funds Therefor, and for Other Purposes",
+  "orig": "Amending Presidential Decree No. 252 \"Authorizing the Creation of a Philippine International Trading Corporation, Appropriating Funds Therefor, and for Other Purposes"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p159",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1973-12-22",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 349",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 899,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_00349_1973_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_00349_1973_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H21798-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Paragraph 5 of Presidential Decree No. 252, entitled \"AUTHORIZING THE CREATION OF A\nPHILIPPINE INTERNATIONAL TRADING CORPORATION, APPROPRIATING FUNDS THEREFOR,\nAND FOR OTHER PURPOSES\", IS HEREBY amended to read as follows:\n\"WHEREAS, while developed economies have long relied on large trading houses, our economy has yet to\nadopt and benefit from such a trade assistance scheme;\""
+   }
+  },
+  {
+   "id": "PH-H21798-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Section 5 of Article III of the same decree is hereby deleted and Sections 6, 7, 8, 9, 10, 11, 12,\n13, 14, 15, 16, 17, 18, 19 and 20 are hereby renumbered as Sections 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17,"
+   }
+  },
+  {
+   "id": "PH-H21798-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "Repealing Clause. All laws, rules, regulations which are inconsistent herewith are hereby\nrepealed, modified and/or amended accordingly."
+   }
+  },
+  {
+   "id": "PH-H21798-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "Effectivity. This Decree shall take effect immediately.\nDONE in the City of Manila, this 22nd day of December, in the year of Our Lord, nineteen hundred and\nseventy-three."
+   }
+  }
+ ]
+}

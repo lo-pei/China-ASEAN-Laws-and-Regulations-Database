@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13025",
+ "title": {
+  "zh": null,
+  "en": "An Act Exempting the Amount of the Insurance on the Philippine Exposition Buildings From the Provisions of Act Numbered Seventeen Hundred and Twenty-Eight, and for Other Purposes.",
+  "orig": "An Act Exempting the Amount of the Insurance on the Philippine Exposition Buildings From the Provisions of Act Numbered Seventeen Hundred and Twenty-Eight, and for Other Purposes."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1914-02-03",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2321",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 985,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1914/act_2321_1914.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02321_1914_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02321_1914_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13025-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The amount of the insurance on the buildings of the Philippine Exposition of Nineteen hundred\nand fourteen, as created by Act Numbered Twenty-two hundred and twenty-four of the Philippine Legislature,\nis hereby exempted from the application of the provisions of section one of Act Numbered Seventeen hundred\nand twenty-eight, so that of the funds paid for the insurance of such buildings, not to exceed twenty-five\nthousand pesos shall be available for the general purposes of the Philippine Exposition including payment for\narticles loaned and destroyed by fire, the provisions of existing law to the contrary notwithstanding, and the\nrest of said funds, together with any balance left from the original appropriation and from the twenty-five\nthousand pesos aforementioned, and all receipts from sale 6i the plant or effects, shall be available for pro rata\nreimbursement to the provinces for exhibits lost by them."
+   }
+  },
+  {
+   "id": "PH-H13025-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, February 3, 1914."
+   }
+  }
+ ]
+}

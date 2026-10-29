@@ -1,0 +1,82 @@
+{
+ "id": "PH-H12121",
+ "title": {
+  "zh": null,
+  "en": "AN ACT PROVIDING FOR A LOAN OF SIX THOUSAND PESOS, PHILIPPINE CURRENCY, TO THE PROVINCE OF BATAAN.",
+  "orig": "AN ACT PROVIDING FOR A LOAN OF SIX THOUSAND PESOS, PHILIPPINE CURRENCY, TO THE PROVINCE OF BATAAN."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 1410",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 1203,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_01410_1905_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_01410_1905_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12121-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "There is hereby appropriated, out of any funds in the Insular Treasury not otherwise appropriated,\nthe sum of six thousand pesos, Philippine currency, to be loaned to the Province of Bataan and to be\nexpended by the provincial board of that province for the general expenses of the provincial government,\nincluding the repair of the provincial government building."
+   }
+  },
+  {
+   "id": "PH-H12121-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The money appropriated in the first section of this Act shall be paid to the supervisor-treasurer of\nBataan upon the production by him to the Treasurer of the Philippine Islands of a certified copy of a\nresolution of the provincial board of Bataan accepting such loan and agreeing to repay the money without\ninterest on or before the expiration of two years from the, date of the acceptance of the loan by the provincial\nboard of Bataan, the repayment to be made in two equal annual installments."
+   }
+  },
+  {
+   "id": "PH-H12121-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "The public good requiring the speedy enactment of this bill, the passage of the same is hereby\nexpedited in accordance with section two of An Act prescribing the order of procedure by the Commission in\nthe enactment of laws, passed September twenty-sixth, nineteen hundred."
+   }
+  },
+  {
+   "id": "PH-H12121-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, November 13, 1905."
+   }
+  }
+ ]
+}

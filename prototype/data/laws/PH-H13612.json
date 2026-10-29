@@ -1,0 +1,72 @@
+{
+ "id": "PH-H13612",
+ "title": {
+  "zh": null,
+  "en": "An Act Changing the Boundaries of the Regular Province of Misamis and the Special Provinces of Bukidnon and Agusan, Incorporating the North Part of the Latter in the Former, and for Other Purposes.",
+  "orig": "An Act Changing the Boundaries of the Regular Province of Misamis and the Special Provinces of Bukidnon and Agusan, Incorporating the North Part of the Latter in the Former, and for Other Purposes."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1921-02-21",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2968",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1201,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1921/act_2968_1921.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02968_1921_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02968_1921_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13612-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The boundary line between the regular Province of Misamis and the special provinces of\nBukidnon and Agusan is hereby established as follows:\nStarting from a point located at the intersection of a line running S. 70° E. from Salimbal with the boundary\nbetween Bukidnon and Lanao; thence in an easterly direction, passing over the summit of Mount Bitaug to the\nCagayan River; thence down-stream along the said Cagayan River to the intersection thereof with the\nMisamis-Bukidnon boundary in the N. W. E. angle of Mount Linai; thence along the present boundary, in an\neasterly direction, to a point 50 m. N. of Minsuro, placing the same in Bukidnon and Maribojoc in Misamis;\nthence N. 70' E., passing through a point 10 kilometers N. of Mindagat and 12 kilometers S. of Claveria, at\nthe head of the Pugan River; thence in an easterly direction to the intersection of the Bukidnon-Agusan\nboundary with the trail running from the sitio of Lias to Maasin; thence north, following the present boundary\nbetween Agusan and Misamis, to Diwata Point."
+   }
+  },
+  {
+   "id": "PH-H13612-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "All acts or parts of acts inconsistent with the provisions of this Act are hereby repealed."
+   }
+  },
+  {
+   "id": "PH-H13612-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, February 21, 1921."
+   }
+  }
+ ]
+}

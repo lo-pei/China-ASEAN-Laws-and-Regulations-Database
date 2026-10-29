@@ -1,0 +1,62 @@
+{
+ "id": "PH-H16318",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Commonwealth Act Numbered three Hundred and thirty, Entitled \"An Act Appropriating Ninety-Six Million three Hundred Fifty-One thousand and three Hundred Pesos for Public Works.",
+  "orig": "An Act to Amend Commonwealth Act Numbered three Hundred and thirty, Entitled \"An Act Appropriating Ninety-Six Million three Hundred Fifty-One thousand and three Hundred Pesos for Public Works."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1940-08-29",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 610",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 785,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00610_1940_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00610_1940_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H16318-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The following items of appropriation under section one, subsection C, paragraph (r), of\nCommonwealth Act Numbered Three hundred and thirty are amended so as to read as follows:\n\"10. For the road to barrio Martinez, Tibiao\n\"10a. For the Culasi-Camancihan barrio road, Culasi\n3,844.27\n\"29. For the Agugaddan barrio school, Pefiablanca\n500.00\n\"17. For the construction of a public bath and toilet at the corner of Ariston Bautista and Itaguyod and Kalahi\nstreets, Punta, Sta. Ana\n8,500.00\n\"34. For the construction of a public bath and toilet between Ariston Bautista and F. Roxas streets, Punta, Sta.\n8,500.00"
+   }
+  },
+  {
+   "id": "PH-H16318-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, August 29, 1940, with the exception of the following items: Section 1: Antique, items 10 and 10a;\nManila, items 17 and 34."
+   }
+  }
+ ]
+}

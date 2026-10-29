@@ -1,0 +1,82 @@
+{
+ "id": "PH-H13102",
+ "title": {
+  "zh": null,
+  "en": "An Act to Aid in the Harmonizing of the Non-Christian and the Christian Inhabitants of the Philippine Islands, Creating the Position of Delegate of the Secretary of the Interior for the Non-Christian People and Making Appropriation therefor.",
+  "orig": "An Act to Aid in the Harmonizing of the Non-Christian and the Christian Inhabitants of the Philippine Islands, Creating the Position of Delegate of the Secretary of the Interior for the Non-Christian People and Making Appropriation therefor."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1914-07-07",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2404",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 1090,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1914/act_2404_1914.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02404_1914_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02404_1914_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13102-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "There is hereby created the position of delegate of the Secretary of the Interior for the\nnon-Christian people who are under the exclusive jurisdiction of the Philippine Commission, with the\nexception of those within the Department of Mindanao and Sulu. Such delegate shall be Appointment,\nappointed by the Governor-General with the advice and consent of the Philippine Commission."
+   }
+  },
+  {
+   "id": "PH-H13102-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The duties of the said delegate shall be such as are assigned to him by the Secretary of the\nInterior with reference to such people and especially with reference to their relations with the Christian people\nof the Philippine Islands."
+   }
+  },
+  {
+   "id": "PH-H13102-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "The said delegate shall receive a salary not to compensation, exceed eight thousand pesos per\nannum, and there is hereby appropriated, out of any funds in the Insular Treasury not otherwise appropriated,\nthe sum of four thousand pesos, or Appropriation, so much thereof as may be necessary, for the payment of\nthe salary of such officer during the remainder of the new fiscal year nineteen hundred and fourteen."
+   }
+  },
+  {
+   "id": "PH-H13102-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, July 7, 1914."
+   }
+  }
+ ]
+}

@@ -1,0 +1,578 @@
+{
+ "id": "ID-H335",
+ "title": {
+  "zh": "侦查与起诉法",
+  "en": "Law on Investigation and Prosecution",
+  "id": "PENYIDIKAN DAN PENUNTUTAN",
+  "orig": "PENYIDIKAN DAN PENUNTUTAN",
+  "vi": "Luật về Điều tra và Truy tố",
+  "th": "พระราชบัญญัติว่าด้วยการสอบสวนและการฟ้องคดี",
+  "ms": "Akta tentang Siasatan dan Pendakwaan"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02c",
+ "language": "id",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "1971",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "-",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 38,
+ "chars": 45056,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": null
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\01_宪法与基础法\\印尼_WLD_1971_PENYIDIKAN DAN PENUNTUTAN.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 250 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H335-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 1.\nDihukum karena tindak pidana korupsi ialah:\n(1) a. barangsiapa dengan melawan hukum melakukan perbuatan\nmemperkaya diri sendiri atau orang lain, atau suatu Badan, yang\nsecara\nlangsung atau tidak langsung merugikan keuangan negara dan\natau perekonomian negara, atau diketahui atau patut disangka\nolehnya bahwa\nperbuatan tersebut merugikan keuangan negara atau\nperekonomian negara;\nb. barangsiapa dengan tujuan menguntungkan diri sendiri atau\norang lain atau suatu Badan, menyalahgunakan kewenangan, kesempatan\natau\nsarana yang ada padanya karena jabatan atau kedudukan, yang\nsecara langsung atau tidak langsung dapat merugikan keuangan negara\natau\nperekonomian negara;\nc. barangsiapa melakukan kejahatan tercantum dalam Pasal-pasal\n209, 210, 387, 388, 415, 416, 417, 418, 419, 420, 423, dan 435\nK.U.H.P.;\nd. barangsiapa memberi hadiah atau janji kepada pegawai negeri\nseperti dimaksud dalam Pasal 2 dengan mengingat sesuatu kekuasaan\natau\nsesuatu wewenang yang melekat pada jabatannya atau\nkedudukannya atau oleh sipemberi hadiah atau janji dianggap melekat\npada jabatan\natau kedudukan itu;\ne. barangsiapa tanpa alasan yang wajar, dalam waktu yang\nsesingkat-singkatnya setelah menerima pemberian atau janji yang\ndiberikan\nkepadanya, seperti yang tersebut dalam Pasal-pasal 418,\n419 dan 420 K.U.H.P. tidak melaporkan pemberian atau janji tersebut\nkepada\nyang berwajib.\n(2) barangsiapa melakukan percobaan atau permufakatan untuk\nmelakukan tindak pidana-tindak pidana tersebut dalam ayat (1) a, b,\nc,\nd, e pasal ini."
+   }
+  },
+  {
+   "id": "ID-H335-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\nPegawai negeri yang dimaksud oleh Undang-undang ini, meliputi\njuga orang-orang yang menerima gaji atau upah dari keuangan negara\natau\ndaerah atau yang menerima gaji atau upah dari suatu\nbadan/badan hukum yang menerima bantuan dari keuangan negara atau\ndaerah, atau\nbadan hukum lain yang mempergunakan modal dan\nkelonggaran-kelonggaran dari negara atau masyarakat.\nBAB II.\nTENTANG PENYIDIKAN DAN PENUNTUTAN\nTINDAK PIDANA KORUPSI."
+   }
+  },
+  {
+   "id": "ID-H335-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB II."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\nPenyidikan dan penuntutan tindak pidana korupsi dijalankan\nmenurut ketentuan-ketentuan yang berlaku, sekedar tidak ditentukan\nlain\ndalam Undang-undang ini."
+   }
+  },
+  {
+   "id": "ID-H335-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB II."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\nPerkara korupsi harus didahulukan dari perkara-perkara yang lain\nuntuk diajukan ke Pengadilan guna diperiksa dan diselesaikan dalam\nwaktu yang sesingkat-singkatnya."
+   }
+  },
+  {
+   "id": "ID-H335-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB II."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\nPenyidik wajib dengan inisiatif sendiri melakukan tindakan yang\ndianggap perlu untuk penyidikan, segera setelah ia menerima\nlaporan-laporan\natau timbul dugaan yang beralasan dari penyidik\ntentang adanya tindak pidana korupsi."
+   }
+  },
+  {
+   "id": "ID-H335-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB II."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\nSetiap tersangka wajib memberi keterangan tentang seluruh\nharta-bendanya dan harta-benda isteri/suami, anak dan setiap orang\nserta\nbadan yang diketahui atau yang diduga olehnya mempunyai\nhubungan dengan perkara yang bersangkutan apabila diminta oleh\npenyidik."
+   }
+  },
+  {
+   "id": "ID-H335-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB II."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\n(1) Kecuali ayah, ibu, nenek, kakek, saudara kandung,\nisteri/suami, anak cucu dari tersangka, maka setiap orang wajib\nmemberi keterangan\nmenurut pengetahuannya masing-masing sebagai\nsaksi atau ahli kepada petugas penyidik dalam perkara yang\nbersangkutan.\n(2) Orang yang dibebaskan dari memberi keterangan sebagai saksi\nseperti tersebut dalam ayat (1) pasal ini, dapat diperiksa sebagai\nsaksi apabila tersangka mengijinkan, dan orang itu sendiri\nmenghendakinya.\n(3) Sekalipun tanpa ijin dari tersangka, orang yang tersebut\ndalam ayat (2)pasal ini, dapat diperkenankan oleh penyidik untuk\nmemberi\nketerangan."
+   }
+  },
+  {
+   "id": "ID-H335-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB II."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\nKewajiban memberikan kesaksian yang dimaksud dalam Pasal 7\nUndang-undang ini, berlaku juga bagi mereka yang menurut\nketentuan-ketentuan\nhukum yang berlaku harus merahasiakan\npengetahuannya berhubung dengan martabat jabatan atau pekerjaannya,\nkecuali petugas agama."
+   }
+  },
+  {
+   "id": "ID-H335-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB II."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n(1) Dengan tidak mengurangi ketentuan-ketentuan hukum yang\nberlaku mengenai rahasia Bank seperti yang dimaksud Pasal 37 ayat\n(2) Undang-undang\ntentang Pokok-pokok Perbankan, maka dalam perkara\nkorupsi atas permintaan Jaksa Agung, Menteri Keuangan dapat memberi\nijin kepada\nJaksa untuk minta keterangan kepada Bank tentang\nkeadaan keuangan dari tersangka.\n(2) Dengan ijin Menteri Keuangan seperti tersebut dalam ayat\n(1), Bank wajib memperlihatkan surat-surat Bank, dan memberikan\nketerangan\ntentang keadaan keuangan dari tersangka.\n(3) Ketentuan mengenai perincian tersebut dalam kedua ayat (1)\ndan(2) diatas, harus diberikan dalam jangka waktu 14 (empat belas)\nhari sejak tanggal penerimaan permintaan ijin itu oleh Menteri\nKeuangan."
+   }
+  },
+  {
+   "id": "ID-H335-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB II."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\nDalam pemeriksaan pendahuluan saksi dilarang menyebut\nnama/alamat atau hal-hal lain yang memberi kemungkinan dapat\ndiketahuinya pelapor."
+   }
+  },
+  {
+   "id": "ID-H335-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB II."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\n(1) Untuk kelancaran serta keseksamaan pemeriksaan perkara yang\nbersangkutan, penyidik dapat setiap waktu meminta kepada tersangka\ndan setiap orang yang ada hubungannya dengan perkara itu untuk\nmemperlihatkan kepadanya segala surat dan barang-barang lain yang\ndipandang perlu untuk diperiksa dan penyidik dapat menyitanya.\n(2) Mereka yang menurut ketentuan-ketentuan hukum harus\nmerahasiakan pengetahuannya berhubung dengan martabat, jabatan atau\npekerjaannya\ntidak dapat menolak untuk memperlihatkan surat-surat\natau bagian surat-surat atau bagian surat-surat yang dimaksud dalam\nayat (1)\npasal ini kecuali petugas agama."
+   }
+  },
+  {
+   "id": "ID-H335-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB II."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\nPenyidik berhak membuka, memeriksa dan menyita surat-surat dan\nkiriman-kiriman melalui Badan Pos, Telekomunikasi dan lain-lainnya\nyang dicurigai mempunyai hubungan dengan perkara pidana korupsi\nyang sedang diperiksa."
+   }
+  },
+  {
+   "id": "ID-H335-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB II."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\n(1) Penyidik setiap waktu berwenang memasuki setiap tempat yang\ndipandangnya perlu dalam hubungannya dengan tugas pemeriksaa, dan\njika keadaan mengharuskannya, dibantu oleh alat kekuasaan\nnegara.\n(2) Dalam hal penghuni sebuah rumah menolak untuk dimasuki\nrumahnya, penyidik hanya dapat masuk bersama-sama dua orang saksi.\nDalam\nwaktu 2 X 24 jam tentang pemasukan rumah itu dibuat berita\nacaranya dan sehelai tembusannya disampaikan kepada penghuni rumah\nyang\nbersangkutan untuk kepentingannya.\n(3) Kewajiban untuk membuat berita-acara seperti tersebut diatas\nberlaku juga untuk pensitaan yang dimaksud dalam Pasal 64 ayat (2)\nR.I.B.\nBAB III.\nPEMERIKSAAN DIMUKA PENGADILAN."
+   }
+  },
+  {
+   "id": "ID-H335-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB III."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\nPerkara korupsi dan diadili oleh Pengadilan Negeri menurut\nUndang-undang dan Hukum Acara yang berlaku, sekedar dalam\nUndang-undang\nini tidak ditentukan lain."
+   }
+  },
+  {
+   "id": "ID-H335-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB III."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\nSurat tuduhan dibuat dengan perumusan secara singkat tentang\nperbuatan yang dituduhkan dengan menguraikan waktu dan tempat\nperbuatan\nitu dilakukan."
+   }
+  },
+  {
+   "id": "ID-H335-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB III."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\nBilamana pada permulaan sidang, tuduhan tidak dapat cukup\ndimengerti oleh terdakwa, maka Penuntut Umum atas permintaan Hakim\nwajib\nmemberi keterangan lebih lanjut atas surat tuduhan tersebut\napabila menurut pandangan Hakim terdakwa dapat dirugikan dalam\npembelaannya."
+   }
+  },
+  {
+   "id": "ID-H335-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB III."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\n(1) Hakim dapat memperkenankan terdakwa untuk kepentingan\npemeriksaan memberikan keterangan tentang pembaktian bahwa ia tidak\nbersalah\nmelakukan tindak pidana korupsi.\n(2) Keterangan tentang pembuktian yang dikemukakan oleh terdakwa\nbahwa ia tidak bersalah seperti dimaksud dalam ayat (1) hanya dapat\ndikerkenankan dalam hal:\na. apabila terdakwa menerangkan dalam pemeriksaan, bahwa\nperbuatannya itu menurut keinsyafan yang wajar tidak merugikan\nkeuangan\natau perekonomian negara, atau\nb. apabila terdakwa menerangkan dalam pemeriksaan, bahwa\nperbuatannya itu dilakukan demi kepentingan umum.\n(3) Dalam hal terdakwa dapat memberi keterangan tentang\npembuktian seperti dimaksud dalam ayat (1) maka keterangan tersebut\ndipergunakan\nsebagai hal yang setidak-tidaknya menguntungkan\nbaginya. Dalam hal demikian Penuntut Umum tetap mempunyai\nkewenangan untuk memberikan\npembuktian yang berlawanan.\n(4) Apabila terdakwa tidak dapat memberikan keterangan tentang\npembuktian seperti dimaksud dalam ayat (1) maka keterangan tersebut\ndipandang sebagai hal yang setidak-tidaknya merugikan baginya.\nDalam hal demikian Penuntut Umum tetap diwajibkan memberi\npembuktian\nbahwa terdakwa bersalah melakukan tindak pidana\nkorupsi."
+   }
+  },
+  {
+   "id": "ID-H335-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB III."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\n(1) Setiap terdakwa wajib memberi keterangan tentang seluruh\nharta-bendanya dan harta-benda isteri/suami, anak dan setiap orang,\nserta\nbadan yang diduga mempunyai hubungan dengan perkara yang\nbersangkutan apabila diminta oleh Hakim.\n(2) Bila terdakwa tidak dapat memberi keterangan yang memuaskan\nsidang pengadilan tentang sumber kekayaan yang tidak seimbang\ndengan\npenghasilannya atau sumber penambahan kekayaannya maka\nketerangan tersebut dapat digunakan untuk memperkuat keterangan\nsetiap saksi\nbahwa terdakwa telah melakukan tindak pidana\nkorupsi."
+   }
+  },
+  {
+   "id": "ID-H335-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB III."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\n(1) Dalam pemeriksaan dimuka Pengadilan saksi dilarang menyebut\nnama/alamat atau hal-hal yang memberi kemungkinan dapat\ndiketahuinya\npelapor.\n(2) Pada saat pemeriksaan akan dimulai, Hakim memberikan\nperingatan lebih dahulu kepada saksi tentang adanya larangan\ntersebut dalam\nayat (1) pasal ini."
+   }
+  },
+  {
+   "id": "ID-H335-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB III."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\n(1) Kecuali ayah, ibu, nenek, kakek, suadara kandung dan\nisteri/suami anak cucu dari terdakwa, maka setiap orang wajib\nmemberikan\nketerangan menurut pengetahuannya masing-masing sebagai\nsaksi atau ahli kepada Hakim dalam perkara bersangkutan.\n(2) Orang yang dibebaskan dari memberikan keterangan sebagai\nsaksi seperti tersebut dalam ayat (1) pasal ini dapat diperiksa\nsebagai\nsaksi dengan pintu tertutup apabila terdakwa dan Penuntut\nUmum mengijinkan, dan orang-orang itu sendiri menghendakinya.\n(3) Sekalipun tanpa ijin dari terdakwa dan Penuntut Umum, orang\nyang tersebut dalam ayat (2) pasal ini dapat diperkenankan oleh\nHakim\nuntuk memberi keterangan diluar sumpah dengan pintu\ntertutup."
+   }
+  },
+  {
+   "id": "ID-H335-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB III."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\nApabila Hakim meminta, kewajiban memberi kesaksian dalam Pasal\n20 ayat (1) Undang-undang ini, berlaku juga bagi mereka, yang\nmenurut\nketentuan hukum yang berlaku harus merahasiakan\npengetahuannya berhubung dengan martabat, jabatan atau\npekerjaannya, kecuali petugas\nagama."
+   }
+  },
+  {
+   "id": "ID-H335-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB III."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\n(1) Dengan tidak mengurangi ketentuan-ketentuan hukum yang\nberlaku mengenai rahasia Bank seperti yang dimaksud Pasal 37 ayat\n(2) Undang-undang\ntentang Pokok-pokok Perbankan, maka dalam perkara\nkorupsi atas permintaan Mahkamah Agung, Menteri Keuangan dapat\nmemberi ijin kepada\nHakim untuk minta keterangan kepada Bank\ntentang keadaan keuangan dari terdakwa.\n(2) Dengan ijin Menteri Keuangan seperti tersebut dalam ayat\n(1), Bank wajib memperlihatkan surat-surat Bank, dan memberikan\nketerangan\ntentang keadaan keuangan dari terdakwa.\n(3) Ketentuan-ketentuan mengenai perijinan tersebut dalam kedua\nayat (1)dan (2) diatas harus diberikan dalam jangka waktu 14 (empat\nbelas) hari sejak tanggal penerimaan ijin itu oleh Menteri\nKeuangan."
+   }
+  },
+  {
+   "id": "ID-H335-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB III."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\n(1) Jika terdakwa setelah dipanggil dengan semestinya tidak\nhadir dalam sidang pengadilan tanpa memberi alasan yang sah, maka\nperkara\ndapat diperiksa dan diputus oleh Hakim tanpa\nkehadirannya.\n(2) Bila terdakwa hadir pada sidang-sidang selanjutnya sebelum\nputusan dijatuhkan, ia wajib diperiksa/didengar dan sidang\ndilanjutkan.\n(3) Putusan Pengadilan diumumkan oleh Panitera dalam papan\npengumuman Pengadilan/Kantor Pemerintah Daerah.\n(4) Terhadap putusan Pengadilan yang dijatuhkan tanpa kehadiran\nterdakwa, terdakwa atau kuasanya dapat memajukan banding.\n(5) a. Jika ada alasan yang cukup menduga, bahwa seorang yang\nmeninggal dunia, sebelum atas perkaranya ada putusan yang tidak\ndapat\ndiubah lagi, telah melakukan suatu tindak pidana korupsi,\nmaka Hakim atas tuntutan Penuntut Umum, dengan putusan Pengadilan\ndapat\nmemutuskan perampasan barang-barang yang telah disita.\nb. Ketentuan tersebut pada ayat (4) tidak berlaku bagi orang yang\nmeninggal dunia dimaksud sub a.\n(6) Setiap orang yang berkepentingan dapat memajukan surat\nkeberatan kepada Pengadilan yang telah menjatuhkan putusan dimaksud\nayat\n(5) dalam waktu tiga bulan setelah pengumuman tersebut dalam\nayat (3).\nBAB IV.\nTENTANG MENGADILI ANGGOTA ANGKATAN\nBERSENJATA REPUBLIK INDONESIA."
+   }
+  },
+  {
+   "id": "ID-H335-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB IV."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 24\n(1) Penyidikan, penuntutan dan pemeriksaan disidang Pengadilan\nterhadap tindak pidana korupsi yang dilakukan oleh Anggota Angkatan\nBersenjata Republik Indonesia yang ada dibawah kekuasaan Pengadilan\nMiliter masing-masing dilakukan oleh petugas yang ditentukan\ndalam\naturan Acara Pidana masing-masing.\n(2) Penyidikan, penuntutan dan pemeriksaan disidang Pengadilan,\ndijalankan menurut Acara Pidana yang berlaku kecuali ditentukan\nlain\ndalam Undang-undang ini."
+   }
+  },
+  {
+   "id": "ID-H335-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB IV."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\n(1) Tindak Pidana Korupsi yang dilakukan oleh seorang yang harus\ndiadili oleh Pengadilan dalam lingkungan Peradilan Militer\nbersama-sama\ndengan seorang yang harus diadili oleh Pengadilan\ndalam lingkungan Peradilan Umum, diadili oleh Pengadilan dalam\nlingkungan Peradilan\nUmum dengan kekecualian yang ditetapkan dalam\nPasal 22 Undang-undang No. 14 tahun 1970 tentang\nKetentuan-ketentuan Pokok Kekuasaan\nKehakiman.\n(2) Dalam hal perkara tersebut dalam ayat (1) pasal ini diadili\noleh Pengadilan dalam lingkungan \"Peradilan Umum\", maka diangkat\nHakim\nAngkatan Bersenjata sebagai Hakim Anggota.\n(3) Dalam hal perkara tersebut dalam ayat (1) pasal ini diadili\noleh Pengadilan dalam lingkungan Peradilan Militer, maka diangkat\nHakim dari Pengadilan dalam lingkungan Peradilan Umum sebagai Hakim\nPerwira."
+   }
+  },
+  {
+   "id": "ID-H335-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB IV."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\nJaksa Agung selaku penegak Hukum dan Penuntut Umum tertinggi\nmemimpin/mengkoordineer tugas kepolisian represif/justisiel dalam\npenyidikan\nperkara-perkara korupsi yang diduga atau mengandung\npetunjuk telah dilakukan oleh seorang yang harus diadili oleh\nPengadilan dalam\nlingkungan Peradilan Militer maupun oleh seorang\nyang harus diadili oleh Pengadilan dalam lingkungan Peradilan\nMiliter maupun oleh\nseorang yang harus diadili oleh Pengadilan\ndalam lingkungan Peradilan Umum."
+   }
+  },
+  {
+   "id": "ID-H335-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB IV."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\nBila Jaksa Agung berpendapat bahwa ada cukup alasan untuk\nmengajukan perkara korupsi dimuka Pengadilan maka ketentuan\nsebagaimana\ntermaktub dalam Pasal 10 Undang-undang No. 1 Drt. tahun\n1958 tentang Perubahan Undang-undang No. 6 tahun 1950\n(Lembaran-Negara 1950\nNo.53) yang mengatur tentang Hukum Acara\nPidana pada Pengadilan Ketentaraan, tidak dipergunakan.\nBAB V.\nTENTANG KETENTUAN-KETENTUAN PIDANA."
+   }
+  },
+  {
+   "id": "ID-H335-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB V."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\nBarangsiapa melakukan tindak pidana korupsi yang dimaksud Pasal\n1 ayat (1) sub a, b, c, d, e dan ayat (2) Undang-undang ini,\ndihukum\ndengan hukuman penjara seumur hidup atau penjara\nselama-lamanya 20 tahun dan/ atau denda setinggi-tingginya 3 0\n(tiga puluh) juta\nrupiah.\nSelain dari pada itu dapat dijatuhkan juga hukuman tambahan\ntersebut dapat Pasal 34 sub a, b, dan c Undang-undang ini."
+   }
+  },
+  {
+   "id": "ID-H335-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB V."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\nBarangsiapa dengan sengaja menghalangi, mempersulit, secara\nlangsung tidak langsung penyidikan, penuntutan dan pemeriksaan\ndimuka\nPengadilan terhadap terdakwa maupun para saksi dalam perkara\nkorupsi diancam dengan hukuman penjara selama-lamanya 12 tahun\ndan/atau\ndenda setinggi-tingginya 5 (lima)juta rupiah."
+   }
+  },
+  {
+   "id": "ID-H335-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB V."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\nBarangsiapa yang menurut Pasal 6, 7, 8, 9, 18, 20, 21, dan 22\nUndang-undang ini wajib memberi keterangan dengan sengaja tidak\nmemberi\nketerangan atau memberi keterangan yang tidak benar,\ndiancam dengan hukuman penjara selama-lamanya 12 tahun dan/atau\ndenda setinggi-tingginya\n5 (lima) juta rupiah."
+   }
+  },
+  {
+   "id": "ID-H335-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB V."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\nSaksi yang tidak memenuhi ketentuan termaksud Pasal 10 dan 19\nUndang-undang ini diancam dengan hukuman penjara selama-lamanya 3\ntahun\ndan/atau denda setinggi-tingginya 2 (dua) juta rupiah."
+   }
+  },
+  {
+   "id": "ID-H335-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB V."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 32\nPelanggaran Pasal 220, 231, 421, 422, 429 dan Pasal 430 K.U.H.P.\ndalam perkara korupsi diancam dengan hukuman penjara selama-lamanya\n6 (enam) tahun dan/atau denda setinggi-tingginya 4 (empat)juta\nrupiah."
+   }
+  },
+  {
+   "id": "ID-H335-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB V."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 33\nPerbuatan-perbuatan yang diancam dengan hukuman yang tersebut\ndalam Pasal 28 sampai dengan Pasal 32 Undang-undang ini adalah\nkejahatan."
+   }
+  },
+  {
+   "id": "ID-H335-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB V."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 34\nSelain ketentuan-ketentuan Pidana yang dimaksud dalam K.U.H.P.\nmaka sebagai hukuman tambahan adalah:\na. perampasan barang-barang tetap maupun tak tetap yang berujud\ndan yang tak berujud, dengan mana atau mengenai mana tindak pidana\nitu dilakukan atau yang seluruhnya atau sebagian diperolehnya\ndengan tindak pidana korupsi itu, begitu pula harga lawan\nbarang-barang\nyang menggantikan barang-barang itu, baik apakah\nbarang-barang atau harga lawan itu kepunyaan sitem hukum ataupun\nbukan;\nb. Perampasan barang-barang tetap maupun tak tetap yang berujud\ndan tak berujud yang termaksud perusahaan siterhukum, dimana tindak\npidana korupsi itu dilakukan begitu pula harga lawan barang-barang\nyang menggantikan barang-barang itu, baik apakah barang-barang\natau\nharga lawan itu kepunyaan siterhukum ataupun bukan, akan tetapi\ntindak pidananya bersangkutan dengan barang-barang yang dapat\ndirampas menurut ketentuan tersebut sub a pasal ini.\nc. Pembayaran uang pengganti yang jumlahnya sebanyak-banyaknya\nsama dengan harta-benda yang diperoleh dari korupsi."
+   }
+  },
+  {
+   "id": "ID-H335-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB V."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 35\n(1) Perampasan barang-barang bukan kepunyaan sisterhukum tidak\ndijatuhkan, apabila hak-hak pihak ketiga dengan iktikad baik akan\nterganggu.\n(2) Jika di dalam putusan perampasan barang-barang itu termasuk\njuga barang-barang pihak ketiga yang mempunyai iktikad baik, maka\nmereka ini dapat mengajukan surat keberatan terhadap perampasan\nbarang-barangnya kepada Pengadilan yang bersangkutan, dalam waktu\ntiga bulan setelah pengumuman Hakim.\nDalam hal itu Jaksa diminta keterangannya, tetapi pihak yang\nberkepentingan harus pula didengar keterangannya.\nBAB VI.\nPERATURAN PERALIHAN."
+   }
+  },
+  {
+   "id": "ID-H335-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB VI."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 36\nTerhadap segala tindak pidana korupsi yang telah dilakukan sebelum\nsaat Undang-undang ini berlaku, tetapi diperiksa dan diadili\nsetelah Undang-undang ini berlaku maka diperlukan Undang-undang\nyang berlaku pada saat tindak pidana dilakukan.\nBAB VII.\nPERATURAN PENUTUP,"
+   }
+  },
+  {
+   "id": "ID-H335-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB VII."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 37\nUndang-undang ini disebut Undang-undang Pemberantasan Tindak\nPidana Korupsi tahun 1971 dan mulai berlaku pada hari\ndiundangkan.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan\npengundangan Undang-undang ini dengan penempatan dalam\nLembaran-Negara\nRepublik Indonesia.\nDisahkan di Jakarta,\npada tanggal 29 Maret 1971.\nPresiden Republik Indonesia,\nSOEHARTO\nJenderal T.N.I.\nDiundangkan di Jakarta,\npada tanggal 29 Maret 1971.\nSekretaris Negara Republik Indonesia,\nALAMSJAH\nLetnan Jenderal T.N.I.\nPENJELASAN ATAS\nUNDANG-UNDANG No. 3 TAHUN 1971\ntentang\nPEMBERANTASAN TINDAK PIDANA KORUPSI.\nA. UMUM.\nPeraturan yang menjadi dasar bagi pemberantasan tindak pidana\nkorupsi sebelum Undang-undang ini berlaku adalah Undang-undang No.\n24\nPrp. tahun 1960 tentang Pengusutan, Penuntutan dan Pemeriksaan\nTindak Pidana Korupsi. Ketentuan-ketentuan dalam Undang-undang\ntersebut\nberhubung dengan perkembangan masyarakat, khususnya dalam\nrangka penyelamatan keuangan dan perekonomian negara untuk\nterlaksananya\nprogram pembangunan Nasional, ternyata kurang\nmencukupi untuk dapat mencapai hasil yang diharapkan, hingga perlu\ndiganti dengan Undang-undang\nbaru tentang pemberantasan korupsi\nyang meliputi ketentuan-ketentuan tentang pengusutan, penuntutan\ndan pemeriksaan tindak pidana\nkorupsi.\nDengan perumusan tindak pidana korupsi dalam Undang-undang No.24\nPrp. tahun 1960, banyak perbuatan-perbuatan yang merugikan keuangan\ndan perekonomian negara serta pelaksanaan pembangunan Nasional,\nyang menurut perasaan keadilan masyarakat harus dituntut dan\ndipidana,\ntidak dapat dipidana karena perumusan tersebut\nmensyaratkan bagi tindak pidana korupsi, adanya suatu kejahatan\natau pelanggaran yang\ndilakukan oleh orang yang bersangkutan. Dalam\nkenyataan banyak perbuatan-perbuatan yang merugikan keuangan dan\nperekonomian negara,\ntidak selamanya didahului oleh suatu kejahatan\natau pelanggaran. Perbuatan-perbuatan tersebut yang sesungguhnya\nbersifat koruptif\ntidak dapat dipidana berdasarkan Undang-undang\nNo. 24 Prp. tahun 1960, oleh karena tidak termasuk dalam perumusan\ntindak pidana korupsi\nmenurut Undang-undang tersebut. Untuk\nmencakup perbuatan-perbuatan semacam itu rumusan tindak pidana\nkorupsi dirumuskan sedemikian\nrupa, hingga meliputi\nperbuatan-perbuatan perkaya diri-sendiri atau orang lain atau suatu\nbadan yang dilakukan secara \"melawan hukum\"\nyang secara langsung\natau tidak langsung dapat merugikan keuangan negara dan\nperekonomian negara, atau diketahui atau patut disangka\nbahwa\nperbuatan tersebut merugikan keuangan negara atau perekonomian\nnegara. Dengan mengemukakan sarana \"melawan hukum\", yang mengandung\npengertian formil maupun materil, maka dimaksudkan agar supaya\nlebih mudah memperoleh pembuktian tentang perbuatan yang dapat\ndihukum,\nyaitu \"memperkaya diri sendiri atau orang lain atau suatu\nbadan\", dari pada memenuhi ketentuan untuk membuktikan lebih dahulu\nadanya\nkejahatan/pelanggaran seperti disyaratkan oleh Undang-undang\nNo. 24 Prp. tahun 1960.\nDi samping perumusan tindak pidana korupsi yang mencakup\nperbuatan-perbuatan tercela dan merugikan keuangan/perekonomian\nnegara, maka\npengertian pegawai negeri dalam Undang-undang ini\nsebagai subyek tindak pidana korupsi, meliputi bukan saja\npengertian pegawai negeri\nmenurut perumusan seperti yang dimaksud\ndalam pasal 2, karena berdasarkan pengalaman-pengalaman selama ini,\norang-orang bukan pegawai\nnegeri menurut pengertian hukum\nAdministrasi, dengan menerima tugas tertentu dari suatu badan\nnegara, badan yang menerima bantuan\ndari Negara, dapat pula\nmelakukan perbuatan-perbuatan tercela seperti tersebut di atas.\nSelain dari perluasan perumusan tindak pidana korupsi dan\npengertian pegawai negeri sebagaimana tersebut di atas, perlu\ndiadakan ketentuan-ketentuan\nuntuk mempermudah pembuktian dan\nmempercepat prosedur (penyidikan, penuntutan dan pemeriksaan tindak\npidana korupsi) dari Hukum Acara\nyang berlaku.\nPenyimpangan-penyimpangan itu dimaksudkan untuk mempercepat\nprosedur dan mempermudah penyidikan, penuntutan serta pemeriksaan\ndi sidang, dalam mendapat bukti-bukti di dalam suatu perkara pidana\nkorupsi yang sukar didapatkannya. Meskipun diadakan\npenyimpangan-penyimpangan\nini tidak berarti bahwa hak azasi\ntersangka/terdakwa dalam tindak pidana korupsi tidak dijamin atau\ntidak dilindungi, tetapi diusahakan\nsedemikian rupa sehingga\npenyimpangan-penyimpangan itu tidak merupakan penghapusan\nseluruhnya hak azasi tersangka/terdakwa melainkan\nhanya sekedar\npengurangan yang terpaksa dilakukan demi untuk menyelamatkan bahaya\nyang ditimbulkan karena korupsi.\nKetentuan tersebut antara lain adalah sebagai berikut:\n1. Tersangka/terdakwa wajib memberi keterangan tentang seluruh\nharta bendanya dan harta benda isteri/suami, anak dan setiap orang,\nserta badan yang diduga mempunyai hubungan dengan perkara yang\nbersangkutan apabila diminta oleh penyidik/Hakim (Pasal 6 dan 18\nayat\n(1).\n2. Hakim dapat memperkenankan terdakwa untuk memberikan\nketerangan tentang pembuktian bahwa ia tidak bersalah melakukan\ntindak pidana\nkorupsi. Ketentuan tersebut tidak mengurangi\nkewajiban/kesempatan Jaksa untuk memberikan pembuktian tentang\nkesalahan terdakwa (Pasal\n17).\n3. a. Kecuali beberapa anggota keluarga dekat yang meliputi\nayah, ibu, nenek, kakak, saudara kandung, isteri/suami, anak, cucu\ndari\ntersangka/terdakwa, setiap orang wajib memberi keterangan\nsebagai saksi atau ahli kepada penyidik maupun Hakim (Pasal 7 dan\n20).\nb. Kecuali petugas agama, maka mereka yang menurut ketentuan\nhukum yang berlaku harus merahasiakan pengetahuannya berhubung\ndengan\nmartabat, jabatan, atau pekerjaannya, wajib memberi\nketerangan sebagai saksi kepada penyidik maupun Hakim (Pasal 8 dan\n21).\nc. Dalam pemeriksaan di muka pengadilan saksi dilarang menyebut\nnama/alamat atau hal-hal lain yang memberi kemungkinan dapat\ndiketahuinya\npelapor (Pasal 10 dan 19).\n4. Penyidik setiap waktu berwenang memasuki setiap tempat yang\ndipandang perlu dalam hubungannya dengan tugas pemeriksaan (Pasal\n13).\n5. Jika terdakwa setelah dipanggil dengan semestinya tidak hadir\ndalam sidang pengadilan tanpa memberi alasan yang sah, maka ia\ndapat\ndiperiksa dan diputus oleh Hakim di luar kehadirannya (Pasal\n23).\n6. Perkara korupsi harus didahulukan dari perkara-perkara yang\nlain untuk diajukan ke Pengadilan guna diperiksa dan diselesaikan\ndalam\nwaktu yang sesingkat-singkatnya (Pasal 4).\n7. Barang kepunyaan terhukum dapat dirampas dan di samping itu\nterhukum dapat dihukum untuk membayar uang pengganti yang jumlahnya\nsebanyak-banyaknya sama dengan nilai harta benda yang diperoleh\ndari korupsi (Pasal 34).\n8. Apabila terdakwa tidak dapat memberi keterangan ( Pasal 18\nayat (1)) yang memuaskan sidang pengadilan tentang sumber\nkekayaannya,\nmaka keterangan tersebut dapat digunakan untuk\nmemperkuat keterangan saksi lain, bahwa terdakwa telah melakukan\ntindak pidana korupsi\n(Pasal 18).\n9. Baik dalam pemeriksaan pendahuluan maupun dalam pemeriksaan\ndi muka pengadilan, saksi dilarang menyebut nama/alamat atau\nhal-hal\nlain yang memberi kemungkinan dapat diketahuinya pelapor\n(Pasal 10 dan 19).\nDalam Undang-undang ini masih tetap diikuti prinsip bahwa tindak\npidana korupsi yang dilakukan oleh orang yang tunduk di bawah\nkekuasaan\nlingkungan Peradilan Militer, diusut, dituntut dan\ndiperiksa oleh alat-alat Peradilan yang berlaku bagi mereka (Pasal\n24). Ketentuan\ntersebut masih bergerak dalam prinsip pemisahan yang\nberarti bahwa dalam perkara-perkara yang bukan koneksitas para\njustisiabel masing-masing\ndiadili oleh Pengadilan dalam lingkungan\nPeradilannya sendiri, yaitu justisiabel bukan militer diajukan ke\nhadapan Peradilan Umum,\nsedangkan justisiabel Militer ke hadapan\nPeradilan Militer.\nDalam koneksitas pada perkara korupsi yang dilakukan oleh seorang\nMiliter bersama-sama dengan seorang sipil menurut pasal 55 dan\n56\nK.U.H.P., maka pada prinsipnya Pengadilan Negeri-lah yang berwenang\nmengadili, dengan susunan Hakim dari Peradilan Umum dan Peradilan\nMiliter.\nUntuk kepentingan pemeriksaan maka Hakim Militer tersebut diambil\ndari Badan Peradilan yang mempunyai jurisdictie atas terdakwa\nA.B.R.I. tersebut. Sebagai pengecualian hal ini telah diatur dalam\npasal 22 Undang-undang No. 14 tahun 1970 tentang\nKetentuan-ketentuan\nPokok Kekuasaan Kehakiman. Dalam hal perkara\nkorupsi diadili oleh Pengadilan Militer, maka susunan Hakim adalah\ndari Peradilan Militer\ndan Peradilan Umum.\nUntuk mencapai hasil yang memuaskan dalam pengusutan perkara\nkorupsi, baik yang dilakukan oleh seorang Militer maupun yang bukan\nMiliter, maka dalam Undang-undang ini Jaksa Agung selaku penegak\nhukum dan penuntut umum tertinggi mempunyai wewenang untuk memimpin\ndan mengkoordinasi penyidikan terhadap pelaku-pelaku orang sipil\nmaupun anggota A.B.R.I. Kemudian apabila pada taraf penuntutan\nJaksa\nAgung setelah berkonsultasi dengan Panglima Angkatan\nBersenjata berpendapat, bahwa ada cukup alasan untuk mengajukan\nperkara korupsi\ntersebut di muka Pengadilan, maka demi pelaksanaan\npenegak hukum, wewenang Perwira Penyerah Perkara untuk tidak\nmenyerahkan perkara\ntersebut ke Pengadilan dengan menutup perkara\ntersebut atau dengan menyelesaikannya secara disipliner seperti\nyang diatur dalam Undang-undang\nNo. 1 Drt. tahun 1958 tentang\nPerubahan Undang-undang No. 6 tahun 1950 tentang Hukum Acara Pidana\npada Peradilan Ketentaraan tidak\ndipergunakan.\nB. PENJELASAN PASAL DEMI PASAL.\nPasal 1.\nTindak pidana korupsi pada umumnya memuat aktivitas yang\nmerupakan manifestasi dari perbuatan korupsi dalam arti yang luas\nmempergunakan\nkekuasaan atau pengaruh yang melekat pada seorang\npegawai negeri atau kedudukan istimewa yang dipunyai seseorang di\ndalam jabatan\numum yang secara tidak patut atau menguntungkan diri\nsendiri maupun orang yang menyuap sehingga dikwalifiseer sebagai\ntindak pidana\nkorupsi dengan segala akibat hukumnya yang\nberhubungan dengan Hukum Pidananya dan Acaranya.\nAyat (1)\nSub. a.\nAyat ini tidak menjadikan perbuatan melawan hukum sebagai suatu\nperbuatan yang dapat dihukum, melainkan melawan hukum ini adalah\nsarana untuk melakukan perbuatan yang dapat dihukum yaitu\n\"memperkaya diri sendiri\" atau \"orang lain\" atau \"suatu badan.\"\nPerkataan \"memperkaya diri sendiri\" atau \"orang lain\" atau \"suatu\nbadan\" dalam ayat ini dapat dihubungkan dengan Pasal 18 ayat (2),\nyang memberi kewajiban kepada terdakwa untuk memberikan keterangan\ntentang sumber kekayaannya sedemikian rupa, sehingga kekayaan\nyang\ntak seimbang dengan penghasilannya atau penambahan kekayaan\ntersebut, dapat digunakan untuk memperkuat keterangan saksi lain\nbahwa terdakwa telah melakukan tindak pidana korupsi. Keuangan\nnegara seperti yang dimaksud oleh Undang-undang ini meliputi juga\nkeuangan daerah atau suatu badan/badan hukum yang menggunakan modal\natau kelonggaran-kelonggaran dari negara atau masyarakat dengan\ndana-dana yang diperoleh dari masyarakat tersebut untuk kepentingan\nsosial, kemanusiaan dan lain-lain.\nTidak termasuk \"keuangan negara\" dalam undang-undang ini ialah\nkeuangan dari badan/badan hukum yang seluruhnya modal diperoleh\ndari\nswasta misalnya P.T., Firma, C.V. dan lain-lain.\nYang dimaksud dengan perbuatan-perbuatan yang dapat merugikan\nperekonomian negara ialah pelanggaran-pelanggaran pidana terhadap\nperaturan-peraturan\nyang dikeluarkan oleh Pemerintah dalam bidang\nkewenangannya seperti dimaksud dalam Ketetapan MPRS No.\nXXIII/MPRS/1966.\nSub. b.\nTindak pidana korupsi ini memuat sebagai perbuatan pidana unsur\n\"menyalah-gunakan kewenangan\" yang ia peroleh karena jabatannya,\nyang semuanya itu menyerupai unsur dalam Pasal 52 K.U.H.P. yang\nselain dari itu memuat pula unsur yang \"secara langsung atau tidak\nlangsung dapat merugikan keuangan negara\" serta dengan \"tujuan\nmenguntungkan diri sendiri atau orang lain atau suatu badan.\"\nKetentuan dalam sub b. ini adalah luas dalam rumusannya karena\nmempergunakan istilah umum \"menyalah-gunakan\" dan tidak mengadakan\nperincian seperti halnya dengan Pasal 52 K.U.H.P. dengan kata\n'.oleh karena melakukan tindak pidana.......... yang ia peroleh\nkarena\njabatannya.\"\nSub. c.\nDengan perumusan Pasal 1 ayat (1) a dan b, maka istilah korupsi\ndalam Undang-undang ini dipergunakan dalam arti yang luas, hingga\nadalah layak apabila Pasal-pasal K.U.H.P. seperti tersebut dalam\nsub. c., dikwalifikasikan sebagai tindak pidana korupsi.\nSub. d.\nDalam K.U.H.P. tidak diancam dengan hukuman orang-orang yang\nmemberi hadiah kepada pegawai yang dimaksud dalam Pasal 418\nK.U.H.P.,\njuga tidak diancam dengan hukuman orang-orang yang\nmemberi hadiah kepada pegawai negeri seperti dimaksud dalam\nPasal-pasal Undang-undang\nini.\nUntuk mengisi kekosongan itu maka diadakan tindak pidana korupsi\nyang tercantum dalam Pasal 1 ayat (1) d.\nSub. e.\nKetentuan dalam sub. c. ini dimaksudkan untuk memidanakan\nseseorang yang tidak melaporkan pemberian atau janji yang\ndiperolehya\ndengan melakukan tindak-pidana-tindak-pidana yang\ndimaksud dalam Pasal 418, 419, 420 K.U.H.P.\nApabila tidak semua unsur dari tindak pidana tersebut dipenuhi dan\npelaporan itu misalnya dilakukan dengan tujuan semata-mata agar\nsupaya diketahui tentang peristiwa penyuapan, maka ada kemungkinan\nbahwa sipenerima itu dapat dilepaskan dari penuntutan berdasarkan\npasal-pasal tersebut di atas. Hal demikian tidak berarti bahwa tiap\npelaporan tentang penerimaan pemberian/janji itu membebaskan\nterdakwa dari kemungkinan penuntutan, apabila semua unsur dari\ntindak pidana dalam Pasal 418, 419, 420 K.U.H.P. dipenuhi.\nAyat (2).\nKarena tindak pidana korupsi sangat merugikan\nkeuangan/perekonomian negara, maka percobaan untuk melakukan tindak\npidana tersebut\ndijadikan delik tersendiri dan diancam dengan\nhukuman sama dengan ancaman bagi tindak pidana itu sendiri yang\ntelah selesai dilakukan.\nDemikian pula mengingat sifat dari tindak pidana korupsi itu, maka\npermufakatan jahat untuk melakukan tindak pidana korupsi meskipun\nmasih merupakan tindakan persiapan sudah dapat dipidana penuh\nsebagai suatu tindak pidana tersendiri.\nPasal 2.\nPengertian pegawai negeri dalam pasal ini tidak hanya mencakup\npengertian pegawai negeri dalam Pasal 92 K.U.H.P. dan pengertian\npegawai\nnegeri menurut hukum Administrasi seperti diatur dalam\nUndang-undang No. 18 tahun 1961 tentang Ketentuan-ketentuan Pokok\nKepegawaian,\nyang meliputi orang-orang yang menerima gajih atau\nupah dari keuangan negara atau daerah, tetapi selain dari itu juga\nmeliputi orang-orang\nyang menerima gajih atau upah dari suatu\nbadan/badan-hukum yang menerima bantuan dari keuangan negara atau\ndaerah atau badan hukum\nlainnya yang mempergunakan modal dan\nkelonggaran-kelonggaran dari negara atau masyarakat dengan\ndana-dana yang diperoleh dari masyarakat\ntersebut untuk kepentingan\nsosial, kemanusiaan dan lain-lain.\nDalam rumusan pasal ini tidak termasuk orang-orang yang menerima\ngaji atau upah dari suatu Perseroan Terbatas, Firma, C.V. dan lain\nsebagainya yang seluruh modalnya dari modal swasta.\nPasal 3\nCukup jelas.\nPasal 4.\nMengingat sifat tindak pidana korupsi yang istimewa maka\ntindakan-tindakan pidana terhadap pelaku-pelaku tindak pidana\nkorupsi memang\nharus dilaksanakan dengan cepat dan effektif dalam\nbatas waktu yang wajar.\nPasal 5.\nKetentuan pasal ini adalah sesuai dengan ketentuan dalam R.I.B.\nyang juga mewajibkan seorang pejabat melakukan tindakan\npenyelidikan\napabila terdapat \"dugaan yang beralasan\" tentang\nadanya suatu tindak pidana.\nPasal 6.\nCukup jelas.\nPasal 7.\nAyat (1)\nBerlainan dengan ketentuan Pasal 274 R.I.B. yang membagi\norang-orang yang dikecualikan dari kewajiban pemberian keterangan\nsebagai\nsaksi dalam beberapa golongan, maka pasal ini membatasi\norang-orang yang dikecualikan itu pada mereka yang mempunyai\nhubungan terdekat\ndengan tersangka.\nAyat (2).\nKetentuan dalam ayat ini adalah sesuai dengan ketentuan Pasal 275\nR.I.B. ayat (1).\nAyat (3).\nKetentuan dalam ayat ini adalah sesuai dengan ketentuan Pasal 275\nR.I.B. ayat (2).\nPasal 8.\nPasal ini hanya menunjuk petugas agar khususnya petugas dalam\nagama Katolik (Imam) yang dimintakan bantuan kejiwaan, yang\ndipercayakan\nuntuk menyimpan rahasia.\nPada umumnya mereka yang harus menyimpan rahasia karena martabat,\njabatan atau, pekerjaannya ialah Dokter, Notaris, Advokat dan\npetugas agama mempunyai hak untuk membebaskan diri dari\nkesaksian.\nOleh karena itu di dalam Undang-undang Pemberantasan Tindak Pidana\nKorupsi ini sebagai Undang-undang yang ekseptionil sifatnya hak\nuntuk membebaskan diri dari kesaksian tersebut diberikan terbatas\nkepada petugas agama dalam arti tersebut di atas. Tetapi justru\nkarena hak-hak dari pejabat yang termasuk ketiga kategori lainnya\ntersebut di atas dikurangi, maka keterangan-keterangan kesaksian\ndari mereka ini hanya dimintakan sebagai upaya terakhir untuk\nmelengkapi pembuktian.\nPasal 9.\nAyat (1) dan (2)\nPada azasnya rahasia Bank dari para nasabah dipegang teguh seperti\napa yang diatur dalam Pasal 36 dari Undang-undang Pokok\nPerbankan.\nSesuai Dengan Pasal 37 ayat (2) Undang-undang Pokok Perbankan,\nketentuan dalam Pasal 9 Undang-undang ini memberikan kewenangan\nkepada\nMenteri Keuangan untuk memberi izin kepada Jaksa atas\npermintaan Jaksa Agung untuk minta keterangan tentang keadaan\nkeuangan dari\ntersangka dan memperlihatkan surat-surat Bank\ntersangka.\nAyat (3).\nUntuk mempercepat dan mempermudah terlaksananva penyelidikan dan\npenuntutan tindak pidana korupsi maka ketentuan perijinan seperti\ntersebut di atas perlu dibatasi hingga jangka waktu selama-lamanya\n14 (empat belas) hari sejak penerimaan permintaan ijin itu oleh\nMenteri keuangan.\nPasal 10.\nPasal ini dimaksud untuk memberikan perlindungan terhadap\npelapor ialah mereka yang memberikan keterangan maupun informasi\nmengenai\nsuatu tindak pidana korupsi, agar supaya pelapor tidak\ntakut-takut akan diketahui nama/alamatnya yang mungkin akan\nmembahayakan keselamatannya,\napabila ia dikenal oleh umum.\nKarena sangat diharapkan laporan-laporan tentang tindak pidana\nkorupsi yang telah dilakukan atau diduga telah dilakukan maka\nperlulah\ndiberikan perlindungan terhadap para pelapor tersebut yang\nsungguh-sungguh akan membantu usaha pemberantasan korupsi. Supaya\nperlindungan\nini dapat dijamin maka saksi wajib merahasiakan\nnama/alamat atau hal-hal yang memungkinkan dikenalnya pelapor baik\ndalam phase pemeriksaan\npendahuluan maupun dalam sidang pengadilan\n(Pasal 19).\nUntuk mencegah pelanggaran ketentuan ini maka ditentukan\nsanksinya, yang dimuat dalam Pasal 31.\nPasal 11.\nAyat (1).\nPasal ini menetapkan beberapa ketentuan apabila penyidik\nmenentukan keterangan-keterangan tentang keuangan dan/atau harta\nbenda\ntersangka.\nAyat (2).\nAlasan-alasan pengadaan pasal ini adalah sesuai dengan penjelasan\nPasal 8 dan dihubungkan dengan Pasal 9 di atas.\nPasal 12.\nDengan ditentukan bahwa surat-surat dan kiriman melalui Badan\nPos, Telekomunikasi dan lain-lainnya yang dapat dibuka dan\ndiperiksa\noleh penyidik itu diduga keras mempunyai hubungan dengan\nperkara pidana korupsi yang sedang diperiksa maka rahasia-rahasia\nsurat\nkiriman yang oleh si pengirim dipercayakan kepada Badan Pos.\nTelekomunikasi dan lain-lain-nya tetap terjamin.\nPasal 13.\nAyat (1).\nKetentuan ini memberi kewenangan kepada penyidik untuk baik dalam\nkeadaan yang sangat mendesak maupun tidak, dapat memasuki rumah\ntanpa ijin terlebih dahulu dari Hakim.\nAyat (2) dan (3).\nDalam hal penghuni sebuah rumah menolak untuk dimasuki rumahnya\nmaka penyidik dapat masuk bersama-sama dua orang saksi. Ketentuan\nini dibuat oleh karena mempunyai hubungan dengan hak azasi\nseseorang, maka dalam pelaksanaannya diadakan ketentuan yang\ndimaksud\nsupaya penyidik tersebut mempergunakan hak dan\nkewenangannya secara tanpa disalah-gunakan\nPasal 14.\nCukup jelas.\nPasal 15.\nMenyimpang dari ketentuan yang berlaku surat tuduhan berisi\nuraian singkat tentang pembuatan apa yang dituduhkan dengan\nmenyebut pasal\nyang bersangkutan.\nSelanjutnya diuraikan dalam bahasa yang mudah dimengerti oleh\ntersangka sambil menghindari pemakaian istilah-istilah tehnis yang\ntidak perlu memuat semua unsur inti bagi tindak pidana yang\ndimaksud, dengan disertai keterangan tentang kira-kira pada\nwaktu-waktu\ndan di tempat mana perbuatan itu dilakukan.\nSurat tuduhan dalam pasal ini tidak mensyaratkan penyebutan\nkeadaan pada waktu melakukan perbuatan itu terutama hal-hal yang\ndapat\nmeringankan atau memberatkan tersangka seperti dimaksud dalam"
+   }
+  },
+  {
+   "id": "ID-H335-A250",
+   "no": 250,
+   "noLabel": {
+    "id": "Pasal 250 ayat (4) R"
+   },
+   "chapter": {
+    "id": "BAB VII."
+   },
+   "heading": {
+    "id": "ayat (4) R.I.B."
+   },
+   "text": {
+    "id": "Pasal 250 ayat (4) R.I.B.\nPasal 16.\nUntuk menjamin terlindungnya hak-hak terdakwa untuk memberikan\npembelaannya, maka Penuntut Umum memberikan penambahan keterangan\natas\nsurat tuduhan secara singkat itu.\nHal ini hanya dapat dilakukan pada permulaan sidang secara\nlisan.\nPasal 17.\nAyat (1).\nAturan mengenai pembebanan pembuktian tidak diikuti sepenuhnya\nmeskipun hal ini tidak berarti bahwa pasal ini menghendaki suatu\npembuktian yang terbalik.\nPembuktian yang terbalik akan mengakibatkan Penuntut Umum\ndibebaskan. kan dari kewajiban untuk membuktikan terhadap salah\natau tidaknya\nseorang terdakwa, dan terdakwa sebaliknya dibebani\npembuktian tentang salah atau tidaknya.\nDalam pasal ini Hakim memperkenankan terdakwa memberi keterangan\ntentang pembuktian yang tidak merupakan alat bukti menurut hukum,\ntetapi segala sesuatu yang dapat lebih memberikan kejelasan membuat\nterang tentang duduknya suatu perkara.\nAyat (2).\nCukup jelas.\nAyat (3).\nKeterangan pembuktian itu adalah bahan penilaian bagi Hakim yang\ndapat dipandang sebagai hal yang menguntungkan atau merugikan\nterdakwa.\nKeterangan yang menguntungkan atau merugikan tersebut\nbukanlah suatu yang mengandung di dalamnya suatu penghukuman atau\npembebasan\ndari penghukuman.\nApabila terdakwa dapat memberikan keterangan tentang pembuktian,\nPenuntut Umum tetap mempunyai kewenangan untuk memberikan\npembuktian\nyang berlawanan (tegenbewijs).\nAyat (4).\nCukup jelas.\nPasal 18.\nKalau terdakwa dalam perkara pidana korupsi tidak dapat\nmemberikan keterangan yang memuaskan tentang sumber kekayaannya\nyang tidak\nseimbang dengan penghasilannya atau sumber penambahan\nkekayaannya maka keterangan tersebut selain dapat digunakan untuk\nmemperkuat\nketerangan saksi-saksi bahwa terdakwa telah melakukan\ntindak pidana korupsi juga dapat dipandang suatu petunjuk adanya\nperbuatan\nmemperkaya diri seperti dimaksud dalam Pasal 1 ayat (1)\nsub a.\nBerbeda dengan penilaian harta benda yang dahulu diselenggarakan\noleh Badan Koordinasi Penilik Harta Benda yang bersifat perdata\n(Civiel rechtelijk) maka kewajiban terdakwa memberi keterangan\ntentang sumber kekayaannya hanya dapat dilakukan dalam perkara\npidana,\nkorupsi.\nPasal 19.\nPenjelasan Pasal 10 berlaku di dalam pasal ini sekedar mengenai\npemeriksaan di muka Pengadilan.\nPasal 20.\nAyat (1).\nKetentuan yang tersebut di dalam Pasal 7 berlaku juga bagi\npemeriksaan di muka Pengadilan.\nAyat (2) dan (3).\nJiwa dari ketentuan dalam ayat (2) dan (3) ini adalah sesuai\nantara lain dengan Pasal 275 ayat (1) dan (2) R.I.B.\nPasal 21.\nKetentuan yang tersebut di dalam Pasal 8 beserta penjelasannya\nberlaku pula bagi pemeriksaan di muka Pengadilan.\nPasal 22.\nKetentuan di dalam Pasal, 9 beserta penjelasannya berlaku juga\nbagi pemeriksaan di muka Pengadilan.\nPasal 23.\nAyat (1).\nHal yang ditetapkan dalam Pasal ini adalah didasarkan pada\npemikiran bahwa seorang terdakwa itu mempunyai hak untuk hadir\ndalam\nsidang pengadilan guna mengajukan usaha-usaha pembelaannya\nataupun guna mengemukakan segala sesuatu yang ditanyakan oleh\npemeriksa.\nAkan tetapi bila terdakwa tidak menggunakan haknya itu\nmaka Pengadilan dapat melakukan pemeriksaan tanpa hadirnya terdakwa\ndalam\nsidang.\nAyat (2).\nBila dalam waktu pemeriksaan persidangan yang sedang berjalan dan\nbelum mencapai suatu putusan, terdakwa baru hadir pada\nsidang-sidang\nberikutnya ia wajib didengar dan diperiksa dan sidang\npengadilan berjalan terus.\nAyat (3).\nCukup jelas.\nAyat (4).\nLazimnya untuk putusan pengadilan yang dijatuhkan tanpa kehadiran\nterdakwa dibuka kemungkinan bagi terdakwa untuk mengajukan\nperlawanan\nakan tetapi dalam perkara korupsi untuk mempercepat\nprosedur, lembaga perlawanan tersebut ditiadakan. Terhadap putusan\npengadilan\ntersebut dapat langsung dimintakan banding menurut\nperaturan-peraturan yang berlaku.\nAyat (5).\nPutusan sebagai termaksud dalam Sub a. ayat ini dikeluarkan\nsebagai suatu penetapan Hakim (beschikking).\nAyat (6).\nKetentuan ini diperlukan karena orang yang berkepentingan tidak\nmempunyai hak banding terhadap putusan (penetapan) termaksud dalam\nayat (5) melainkan dapat mengajukan surat keberatan terhadap\nputusan (penetapan) tersebut.\nPasal 24.\nCukup jelas. Lihat Penjelasan Umum.\nPasal 25,\nCukup jelas. Lihat Penjelasan Umum.\nPasal 26.\nPenentuan dalam pasal ini bahwa di dalam menghadapi\nperkara-perkara korupsi yang pelakunya terdiri dari\norang/orang-orang yang harus\ndiadili oleh Pengadilan dalam\nlingkungan Peradilan Militer maupun orang/orang-orang yang harus\ndiadili oleh Pengadilan dalam lingkungan\nPeradilan Umum\nPimpinan/koordinasi penyidikan berada pada Jaksa Agung adalah suatu\npenjelmaan dari usaha keseragaman dalam penyidikan.\nPasal 27.\nSebagai kelanjutan dari ketentuan dalam Pasal 26 maka dalam hal\nJaksa Agung setelah berkonsultasi dengan panglima Angkatan\nBersenjata\nberpendapat bahwa ada cukup alasan untuk mengajukan\nperkara korupsi di muka Pengadilan Atasan.\nYang Berhak Menghukum/Perwira Penyerah Perkara tidak menggunakan\nwewenangnya sebagaimana tercantum dalam Pasal 10 ayat (1). b.,\nyaitu untuk menentukan bahwa perkara tersangka akan diselesaikan di\nluar Pengadilan dengan menutup perkara tersebut atau dengan\nmenyelesaikan\nsecara disipliner.\nPasal 28.\nKetentuan ini yang merupakan peningkatan dari ancaman pidana\ndalam Undang-undang No. 24 Prp. tahun 1960 diadakan berhubung\ndengan\nkerugian dan bahaya yang ditumbuhkan oleh tindak pidana\nkorupsi.\nPasal 29.\nOleh karena perbuatan menghalang-halangi, mempersulit, adalah\nmaknanya menguntungkan bagi tindak pidana korupsi, maka harus\ndiancam\ndengan pidana yang cukup berat,\nPasal 30.\nSama dengan penjelasan bagi Pasal 29.\nPasal 31.\nLihat penjelasan Pasal 10 dan Pasal 19.\nPasal 32.\nCukup jelas.\nPasal 33.\nCukup jelas.\nPasal 34.\nUntuk mendapatkan hasil yang maksimum dari usaha pengembalian\nkerugian keuangan negara ataupun kekacauan perekonomian negara,\nmaka\ndianggap perlu sekali atas perampasan barang-barang bukti pada\nperkara korupsi tidak terbatas pada yang dimaksud dalam Pasal 39\nK.U.H.P.,\nsehingga hukuman tambahan itu merupakan perluasan yang\ndiatur dalam K.U.H.P.\nApabila pembayaran uang pengganti tidak dapat dipenuhi oleh\nterdakwa maka berlakulah ketentuan-ketentuan mengenai pelaksanaan\npembayaran\nhukuman denda.\nPasal 35.\nKetentuan dalam pasal ini diadakan untuk melindungi pihak ketiga\nyang nyata-nyata mempunyai itikad baik.\nPasal 36.\nUntuk perkara-perkara yang dimaksud dalam pasal ini diperlakukan\nperundang-undangan yang ada pada saat tindak pidana korupsi\ndilakukan\ndengan maksud agar dapat diikuti azas legalitas yang\ntersebut dalam Pasal 1 ayat (1) K.U.H.P.\nAzas legalitas adalah unsur fundamental dalam negara hukum, di\nsamping pengakuan hak-hak azasi yang harus dijunjung tinggi dan\nunsur\nperadilan bebas.\nPenyampingan azas tersebut, yang mengakibatkan suatu\nperundang-undangan sebagai suatu keseluruhan mempunyai daya laku\nsurut (daya\nretro actief) dan dapat ditafsirkan secara analogis,\nkadang-kadang dilakukan oleh Pemerintah yang otoriter dan dalarn\nnegara hukum\nhanya dapat dibenarkan oleh hukum darurat.\nKetentuan-ketentuan dalam Pasal 36 khususnya berlaku untuk\nperkara-perkara transitoir, sehingga ketentuan-ketentuan dalam\nUndang-undang\ntentang Pemberantasan Tindak Pidana Korupsi ini\nberlaku sepenuhnya untuk perbuatan yang dilakukan sesudah\nUndang-undang ini ditetapkan.\nPasal 37.\nCukup jelas.\n(Termasuk Lembaran-Negara Republik Indonesia\ntahun 1971 No. 19).\n--------------------------------\nCATATAN\nKutipan: LEMBARAN NEGARA DAN TAMBAHAN LEMBARAN NEGARA TAHUN 1971\nYANG TELAH DICETAK ULANG"
+   }
+  }
+ ]
+}

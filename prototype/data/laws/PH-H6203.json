@@ -27,14 +27,14 @@
  "structureMode": "ARTICLE",
  "structure": null,
  "articleCount": 21,
- "chars": 16605,
+ "chars": 16603,
  "source": {
   "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
   "url": "https://lawphil.net/statutes/repacts/ra1994/ra_7722_1994.html"
  },
  "sourceFile": null,
  "fetchedAt": "2026-10-06",
- "completenessNote": "全文，共 20 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1994/ra_7722_1994.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。 条号自第 2 条起而非自 1 起（止于第 21 条）：本法为“修改型法条”，仅重述被修改的个别条文，条号承被修改法之后，属该体例使然。",
+ "completenessNote": "全文，共 20 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1994/ra_7722_1994.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。 条号自第 2 条起而非自 1 起（止于第 21 条）：本法为“修改型法条”，仅重述被修改的个别条文，条号承被修改法之后，属该体例使然；已清除正文中的 2 个控制字符（C0/C1 区，法律文本中无合法用途，系 PDF 抽取/表单域残留）。",
  "textQuality": null,
  "ocrNoisySections": null,
  "pdfs": null,
@@ -307,7 +307,7 @@
     "en": "Section 21."
    },
    "text": {
-    "en": "Section 21. Effectivity. - This Act shall take effect upon its approval.\nApproved,\nThis Act, which is a consolidation of Senate Bill No. 1453 and the House Bill No. 12200, was finally passed by the Senate and the House of Representatives on May 4, 1994 and May 17, 1994, respectively.\n(Sgd.) EDGARDO E. TUMANGAN\nSecretary of Senate\r\n(Sgd.) CAMILO L. SABIO\nSecretary General\nHouse of Representatives\r\nApproved: 18 May 1994\n(Sgd.) FIDEL V. RAMOS\nPresident of the Philippines\nSource:Commission on Higher Education"
+    "en": "Section 21. Effectivity. - This Act shall take effect upon its approval.\nApproved,\nThis Act, which is a consolidation of Senate Bill No. 1453 and the House Bill No. 12200, was finally passed by the Senate and the House of Representatives on May 4, 1994 and May 17, 1994, respectively.\n(Sgd.) EDGARDO E. TUMANGAN\nSecretary of Senate\n(Sgd.) CAMILO L. SABIO\nSecretary General\nHouse of Representatives\nApproved: 18 May 1994\n(Sgd.) FIDEL V. RAMOS\nPresident of the Philippines\nSource:Commission on Higher Education"
    },
    "heading": {
     "en": "Effectivity. - This Act shall take effect upon its approval."

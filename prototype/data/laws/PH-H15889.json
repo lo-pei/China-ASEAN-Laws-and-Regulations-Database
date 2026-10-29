@@ -1,0 +1,62 @@
+{
+ "id": "PH-H15889",
+ "title": {
+  "zh": null,
+  "en": "An Act Authorizing Defenders of the Department of Labor and Any Agent of the Bureau of Labor thereunto Especially Deputed By the Secretary of Labor, the Undersecretary of Director of Labor, to Administer Oaths, Issue Subpoenas and Take Testimony.",
+  "orig": "An Act Authorizing Defenders of the Department of Labor and Any Agent of the Bureau of Labor thereunto Especially Deputed By the Secretary of Labor, the Undersecretary of Director of Labor, to Administer Oaths, Issue Subpoenas and Take Testimony."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1936-11-12",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 172",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 413,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00172_1936_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00172_1936_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H15889-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Public defenders of the Deparment of Labor and any agent of the Bureau of Labor thereunto\nespecially deputed by the Secretary of Labor, the Undersecretary, or the Director of Labor, shall have\nauthority to administer oaths, issue subpoenas, and take testimony in connection with any case coming within\nthe scope of their official function."
+   }
+  },
+  {
+   "id": "PH-H15889-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproval, November 12, 1936."
+   }
+  }
+ ]
+}

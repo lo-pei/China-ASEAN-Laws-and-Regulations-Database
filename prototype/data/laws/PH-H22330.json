@@ -1,0 +1,62 @@
+{
+ "id": "PH-H22330",
+ "title": {
+  "zh": null,
+  "en": "Changing the Name of the Sto. Tomas-Batangas City-Nasugbu Road to \"President Laurel Highway",
+  "orig": "Changing the Name of the Sto. Tomas-Batangas City-Nasugbu Road to \"President Laurel Highway"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1976-06-10",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 943",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 334,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_00943_1976_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_00943_1976_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22330-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The name of the present road traversing Sto. Tomas, Batangas City, and Nasugbu, now called\nthe Sto. Tomas-Batangas City-Nasugbu Road, is hereby changed to \"PRESIDENT LAUREL HIGHWAY.\""
+   }
+  },
+  {
+   "id": "PH-H22330-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Decree shall take effect immediately.\nDone in the City of Manila, this 10th day of June, in the year of Our Lord, nineteen hundred and seventy-six."
+   }
+  }
+ ]
+}

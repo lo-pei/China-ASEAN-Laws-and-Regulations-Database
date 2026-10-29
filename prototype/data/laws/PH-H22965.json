@@ -1,0 +1,62 @@
+{
+ "id": "PH-H22965",
+ "title": {
+  "zh": null,
+  "en": "Amending the Provisions of Presidential Decree No. 1112 Entitled, \"Authorizing the Establishment of Toll Facilities on Public Improvements, Creating a Board for the Regulation Thereof and for Other Purposes\", Otherwise Known as the \"Toll Operation Decree",
+  "orig": "Amending the Provisions of Presidential Decree No. 1112 Entitled, \"Authorizing the Establishment of Toll Facilities on Public Improvements, Creating a Board for the Regulation Thereof and for Other Purposes\", Otherwise Known as the \"Toll Operation Decree"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1979-10-26",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 1649",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 790,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_01649_1979_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_01649_1979_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22965-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section 2 of Presidential Decree No. 1112 is hereby amended to read as follows:\n\"Sec. 2. Toll Regulatory Board. There is hereby created the Toll Regulatory Board hereinafter referred to as\nthe \"Board\" composed of the Minister of Transportation and Communications as Chairman, the Deputy\nDirector-General for Program and Projects of the National Economic and Development Authority, the Deputy\nMinister of Public Highways, the Deputy Minister of Finance and a representative from the private sector\npreferably a lawyer or an economist with adequate experience in public utilities regulation to be appointed by\nthe President as Members\"."
+   }
+  },
+  {
+   "id": "PH-H22965-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Decree shall take effect immediately.\nDONE in the City of Manila, this 26th day of October, in the year of Our Lord, nineteen hundred and\nseventy-nine."
+   }
+  }
+ ]
+}

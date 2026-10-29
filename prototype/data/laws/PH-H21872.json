@@ -1,0 +1,62 @@
+{
+ "id": "PH-H21872",
+ "title": {
+  "zh": null,
+  "en": "Providing for Pension or Gratuity of Officers Retired or Separated on or Before",
+  "orig": "Providing for Pension or Gratuity of Officers Retired or Separated on or Before"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p159",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1974-11-12",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 435",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 436,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_00435_1974_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_00435_1974_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H21872-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The monthly base pay prescribed for commissioned officers of the Armed Forces of the\nPhilippines under General Orders No. 11, dated October 1, 1972 shall be the basis of the retirement gratuity or\npensions of officers retired from the military service prior to October 1, 1972."
+   }
+  },
+  {
+   "id": "PH-H21872-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Decree shall take effect upon approval.\nDone in the City of Manila, this 12th day of November, in the year of Our Lord, nineteen hundred and\nseventy-four."
+   }
+  }
+ ]
+}

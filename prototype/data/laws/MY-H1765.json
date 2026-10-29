@@ -1,0 +1,378 @@
+{
+ "id": "MY-H1765",
+ "title": {
+  "zh": "2021年个人数据保护（上诉审裁处）条例",
+  "en": "PERSONAL DATA PROTECTION (APPEAL TRIBUNAL) REGULATIONS 2021",
+  "orig": "PERSONAL DATA PROTECTION (APPEAL TRIBUNAL) REGULATIONS 2021",
+  "ms": "Peraturan Perlindungan Data Peribadi (Tribunal Rayuan) 2021",
+  "vi": "Quy định về Bảo vệ dữ liệu cá nhân (Tòa án Phúc thẩm) năm 2021",
+  "th": "ข้อบังคับการคุ้มครองข้อมูลส่วนบุคคล (คณะตุลาการอุทธรณ์) ค.ศ. 2021",
+  "id": "Peraturan Perlindungan Data Pribadi (Tribunal Banding) Tahun 2021"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-4",
+ "language": "ms",
+ "level": "regulation",
+ "category": "02_民商事与经济法",
+ "status": "active",
+ "promulgatedDate": "2021",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "PUA168",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 28,
+ "chars": 51752,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-view.php?type=pua&no=P.U. (A) 168/2021&status=PRINCIPAL"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\02_民商事与经济法\\2021_P.U.(A)168-2021_PERSONAL DATA PROTECTION (APPEAL TRIBUNAL) REGULATIONS 2021.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 28 条；逐字未改写（源自厂商 OCR 文本）。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H1765-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "1.  Nama dan permulaan kuat kuasa"
+   }
+  },
+  {
+   "id": "MY-H1765-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "2.  Tafsiran\n\nBAHAGIAN II\n\nPERMULAAN RAYUAN"
+   }
+  },
+  {
+   "id": "MY-H1765-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "3.  Notis rayuan"
+   }
+  },
+  {
+   "id": "MY-H1765-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "4.  Notis rayuan hendaklah ditandatangani dan dimeterai"
+   }
+  },
+  {
+   "id": "MY-H1765-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "5. Daftar Rayuan"
+   }
+  },
+  {
+   "id": "MY-H1765-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "6. Penyampaian notis rayuan"
+   }
+  },
+  {
+   "id": "MY-H1765-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "7. Penyerahan dokumen"
+   }
+  },
+  {
+   "id": "MY-H1765-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "8. Rekod rayuan"
+   }
+  },
+  {
+   "id": "MY-H1765-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "9.  Penyampaian rekod rayuan"
+   }
+  },
+  {
+   "id": "MY-H1765-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "10.  Notis pendengaran rayuan"
+   }
+  },
+  {
+   "id": "MY-H1765-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "11.  Pindaan notis rayuan\n\nBAHAGIAN III\n\nPENDENGARAN RAYUAN"
+   }
+  },
+  {
+   "id": "MY-H1765-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "12.  Persidangan Tribunal Rayuan"
+   }
+  },
+  {
+   "id": "MY-H1765-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "13.  Saman untuk hadir"
+   }
+  },
+  {
+   "id": "MY-H1765-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "14.  Representasi dalam prosiding"
+   }
+  },
+  {
+   "id": "MY-H1765-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "15.  Ketidakhadiran pihak-pihak"
+   }
+  },
+  {
+   "id": "MY-H1765-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "16.  Rayuan boleh didengar bersama"
+   }
+  },
+  {
+   "id": "MY-H1765-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "17.  Tatacara bagi pendengaran rayuan"
+   }
+  },
+  {
+   "id": "MY-H1765-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "18.  Penangguhan"
+   }
+  },
+  {
+   "id": "MY-H1765-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "19.  Penarikan balik rayuan"
+   }
+  },
+  {
+   "id": "MY-H1765-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "20.  Keputusan Tribunal Rayuan"
+   }
+  },
+  {
+   "id": "MY-H1765-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "21.  Daftar keputusan Tribunal Rayuan\n\nBAHAGIAN IV\n\nPELBAGAI"
+   }
+  },
+  {
+   "id": "MY-H1765-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "22.  Meterai rasmi"
+   }
+  },
+  {
+   "id": "MY-H1765-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "23.  Pejabat Pendaftaran Tribunal Rayuan"
+   }
+  },
+  {
+   "id": "MY-H1765-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "24.  Pengerusi atau anggota Tribunal Rayuan tidak dapat menyelesaikan\nprosiding"
+   }
+  },
+  {
+   "id": "MY-H1765-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "25.  Perbelanjaan saksi"
+   }
+  },
+  {
+   "id": "MY-H1765-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "26. Kesan ketidakpatuhan"
+   }
+  },
+  {
+   "id": "MY-H1765-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 27"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "27.  Rekod prosiding"
+   }
+  },
+  {
+   "id": "MY-H1765-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 28"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "28.  Pelupusan dokumen, dsb.\n\nJADUAL PERTAMA\nJADUAL KEDUA\n\nAKTA PERLINDUNGAN DATA PERIBADI 2010\n\nPERATURAN-PERATURAN PERLINDUNGAN DATA PERIBADI\n(TRIBUNAL RAYUAN) 2021\n\nPADA menjalankan kuasa yang diberikan oleh seksyen 93 dan subseksyen  143(1)\nAkta Perlindungan Data Peribadi 2010 [ Akta 709 ], Menteri membuat\nperaturan-peraturan yang berikut:\n\nBAHAGIAN I\n\nPERMULAAN\n\nNama dan permulaan kuat kuasa\n1. (1) Peraturan-peraturan ini bolehlah dinamakan Peraturan-Peraturan\nPerlindungan Data Peribadi (Tribunal Rayuan) 2021.\n\n (2) Peraturan-Peraturan ini mula berkuat kuasa pada 15 April 2021.\n\nTafsiran\n2. Dalam Peraturan-Peraturan ini, melainkan jika konteksnya menghendaki makna\nyang lain―\n\n \"Pengerusi\" e rtinya Pengerusi Tribunal Rayuan yang dilantik oleh Menteri\ndi bawah perenggan 85(1)(a) Akta;\n\n \"Setiausaha\" e rtinya Setiausaha Tribunal Rayuan yang dilantik oleh Menteri\ndi bawah subseksyen 86(1) Akta.\n\nBAHAGIAN II\n\nPERMULAAN RAYUAN\n\nNotis rayuan\n3. (1) Mana-mana orang  boleh membuat s uatu permohonan kepada\nTribunal Rayuan melalui suatu notis rayuan dalam Borang A Jadual Pertama  dan\ndisertakan dengan fi sebagaimana yang dinyatakan dalam Jadual Kedua.\n\n (2) Permohonan kepada Tribunal Rayuan itu hendaklah disertakan dengan—\n\n(a) keputusan Pesuruhjaya  atau notis penguatkuasaan  yang\ndisampaikan kepada pengguna data  oleh Pesuruhjaya , mengikut\nmana-mana yang berkenaan; dan\n\n(b) suatu surat pelantikan peguam bela, jika ada, untuk mewakili\nperayu.\n\n (3) Permohonan itu hendaklah difailkan kepada Tribunal Rayuan—\n\n(a) dalam masa tiga puluh hari dari tarikh keputusan Pesuruhjaya; atau\n\n(b) dalam hal suatu notis penguatkuasaan , dalam masa tiga p uluh hari\ndari tarikh penyampaian notis penguatkuasaan itu kepada\npengguna data.\n\n (4) Notis rayuan itu hendaklah difailkan dalam—\n\n(a) satu salinan bagi Tribunal Rayuan;\n\n(b) satu salinan untuk disampaikan kepada Pesuruhjaya;\n\n(c) satu salinan untuk disampaikan kepada setiap pihak kepada rayuan;\ndan\n\n(d) satu salinan bagi perayu.\n\nNotis rayuan hendaklah ditandatangani dan dimeterai\n4. Apabila menerima notis rayuan, Setiausaha—\n\n(a) hendaklah menandatangani semua salinan notis rayuan itu; dan\n\n(b) hendaklah menyebabkan semua salinan notis rayuan itu dimeterai dengan\nmeterai Tribunal Rayuan.\n\nDaftar Rayuan\n5. (1) Setiausaha hendaklah m enyimpan dan menyenggara kan suatu d aftar\nrayuan dalam apa-apa bentuk yang difikirkan patut oleh Setiausaha.\n\n (2) Setiausaha hendaklah menyebabkan butir -butir notis rayuan itu\ndimasukkan dalam Daftar Rayuan.\n\n (3) Tiap-tiap rayuan hendaklah dibezakan melalui suatu nombor dan tahun\nyang rayuan itu difailkan.\n\nPenyampaian notis rayuan\n6. (1) Selepas butir -butir notis rayuan yang disebut dalam peraturan  5\ndimasukkan, Setiausaha hendaklah menyimpan satu salinan notis rayuan yang telah\nditandatangani dan dimeterai dan hendaklah menyebabkan s alinan lain notis rayuan\nyang telah ditandatangani dan dimeterai itu dikembalikan kepada perayu.\n\n (2) Apabila notis rayuan di bawah subperatu ran (1 ) diterima ,\nperayu hendaklah dalam masa empat belas hari menyampaikan notis rayuan itu kepada\nPesuruhjaya dan mana-mana pihak lain kepada rayuan.\n\n (3) Perayu hendaklah memfailkan bukti penyampaian notis rayuan di bawah\nsubperaturan (2) kepada Setiausaha dalam Borang B Jadual Pertama.\n\nPenyerahan dokumen\n7. Seseorang Pesuruhjaya yang telah disampaikan dengan notis rayuan di bawah\nsubperaturan 6(2) hendaklah dalam masa empat puluh lima hari dari tarikh penerimaan\nnotis rayuan itu menyerahkan kepada Setiausaha dokumen yang berikut:\n\n(a) keputusan Pesuruhjaya yang disebut dalam subseksyen 93(1) Akta;\n\n(b) suatu pernyataan fakta kes;\n\n(c) alasan bagi keputusan Pe suruhjaya yang disebut dalam seksyen 94 Akta;\ndan\n\n(d) dokumen lain yang berkaitan sebagaimana yang difikirkan sesuai oleh\nPesuruhjaya.\n\nRekod rayuan\n8. (1) Apabila dokumen yang dinyatakan dalam peraturan 7  diterima,\nSetiausaha hendaklah menyediakan salinan rekod rayuan yang mencukupi dalam masa\nempat belas hari dari tarikh penerimaan dokumen.\n\n (2)  Rekod rayuan itu hendaklah mengandungi dokumen yang berikut:\n\n(a) suatu salinan diakui sah notis rayuan; dan\n\n(b) suatu salinan diakui sah dokumen  yang dinyatakan dalam\nperaturan 7.\n\n (3) Apabila selesai penyediaan rekod rayuan di bawah subperaturan (1) ,\nSetiausaha hendaklah mengeluarkan suatu notis rekod rayuan dalam Borang C\nJadual Pertama kepada perayu.\n\n (4) Perayu hendaklah, dalam ma sa empat belas hari dari tarikh penerimaan\nnotis di  bawah subperaturan (3)  atau apa -apa tempoh lanjutan sebagaimana yang\ndiberikan oleh Pengerusi , membuat pembayaran  fi yang dinyatakan dalam\nJadual Kedua.\n\n (5)  Setiausaha hendaklah memberikan salinan rekod rayuan yang mencukupi\nkepada perayu dan memasukkan rayuan itu ke dalam senarai rayuan untuk didengar.\n\n (6) Jika perayu tidak mematuhi subperaturan (4 ), rayuan itu hendaklah\nditolak.\n\nPenyampaian rekod rayuan\n9. (1) Apabila rekod rayuan yang disebut dalam peraturan 8  diterima, perayu\nhendaklah dalam masa empat belas hari menyampaikan rekod rayuan  itu kepada\nPesuruhjaya dan mana-mana pihak lain kepada rayuan.\n\n (2) Perayu hendaklah memfailkan bukti penyampaian rekod rayuan di bawah\nsubperaturan (1) kepada Setiausaha dalam Borang B Jadual Pertama.\n\nNotis pendengaran rayuan\n10. (1) Pengerusi hendaklah menetapkan tarikh, masa da n tempat pendengaran\nrayuan itu.\n\n  (2) Pengerusi boleh, atas usulnya sendiri atau atas permohonan perayu atau\nPesuruhjaya, menangguhkan tarikh pendengaran rayuan itu.\n\n (3) Setiausaha hendaklah menyampaik an suatu notis pendengaran rayuan\nyang menyatakan tarikh, masa dan tempat pendengaran rayuan  itu kepada perayu dan\nPesuruhjaya dalam Borang D Jadual Pertama tidak kurang daripada dua puluh satu hari\nsebelum tarikh pendengaran rayuan itu.\n\n(4) Perayu hendaklah, dalam masa yang munasabah sebelum tarikh\npendengaran rayuan itu menyampaikan notis pendengaran rayuan kepada mana -mana\npihak lain kepada rayuan itu.\n\nPindaan notis rayuan\n11. (1) Perayu boleh, pada mana-mana peringkat prosiding sebelum tarikh\npendengaran rayuan  itu, meminda notis rayuan dengan kebenaran Tribunal Rayuan\ntertakluk kepada apa -apa terma dan arahan sebagaimana yang difikirkan perlu oleh\nTribunal Rayuan.\n\n  (2) Walau apa pun subperaturan (1), Tribunal Rayuan tidak boleh\nmemberikan kebenaran untuk meminda notis rayuan yang difailkan di bawah\nperaturan 3 melainkan jika Tribunal Rayuan berpuas hati bahawa—\n\n(a) alasan rayuan yang baharu itu berasa skan apa -apa perkara fakta\natau undang -undang yang diketahui oleh perayu hanya selepas\nnotis rayuan itu difailkan;\n\n(b) alasan rayuan yang baharu itu tidak praktik untuk dimasukkan\ndalam notis rayuan itu apabila ia difailkan; atau\n\n(c) alasan rayuan yang baharu itu dimasukkan oleh hal keadaan yang\nluar biasa.\n\n (3) Jika kebenar an diberikan di bawah subperaturan (1), perayu hendaklah\nmemfailkan notis rayuan terpinda itu dengan Tribunal Rayuan.\n\n  (4) Setiausaha hendaklah menyebabkan notis rayuan terpinda itu\nditandatangani dan dimeterai, dan dikembalikan kepada perayu.\n\n  (5) Apabila notis rayuan yang dipinda di bawah subperaturan (4)  diterima,\nperaturan 6, 8, 9 dan 10 hendaklah terpakai  mutatis mutandis, mengikut kehendak\nkeadaan, berkenaan dengan notis rayuan terpinda itu.\n\nBAHAGIAN III\n\nPENDENGARAN RAYUAN\n\nPersidangan Tribunal Rayuan\n12. (1) Semua prosiding di hadapan Tribunal Rayuan hendaklah terbuka kepada\norang awam.\n\n  (2) Walau apa pun subperaturan (1), Pengerusi boleh pada mana -mana\nperingkat prosiding memerintahkan prosiding itu diadakan dalam sesi tertutup.\n\n  (3)  Pengerusi pada mana -mana peringkat prosiding boleh, jika pada\npendapatnya bahawa ket erangan atau bahan lain yang dikemukakan kepada\nTribunal Rayuan adalah rahsia, mengarahkan supaya keterangan atau bahan itu tidak\ndisiarkan atau penyiarannya dihadkan atau membenarkan penyiarannya tetapi tanpa\nmendedahkan pihak-pihak kepada prosiding itu.\n\nSaman untuk hadir\n13. (1) Mana-mana pihak boleh, tidak kurang daripada tujuh hari sebelum tarikh\npendengaran rayuan itu , meminta secara bertulis kepada Setiausaha untuk\nmengeluarkan saman kepada mana -mana orang lain untuk hadir sebagai saksi  atau\nmengemukakan apa -apa keterangan dalam milikannya atau di bawah kawalannya\ndi hadapan Tribunal Rayuan.\n\n (2) Saman yang dikeluarkan di bawah subperaturan (1) hendaklah\ndalam Borang E Jadual Pertama dan hendaklah disampaikan secara ke diri  kepada\norang itu.\n\n (3) Jika orang yang dipanggil di bawah subperaturan (2) tidak mematuhi\nsaman itu, Tribunal Rayuan boleh menjalankan kuasanya berkenaan dengan hukuman\nkerana penghinaan di bawah subseksyen 84(2) Akta.\n\nRepresentasi dalam prosiding\n14. (1) Pada pendengaran apa-apa rayuan di hadapan Tribunal Rayuan—\n\n(a) Pesuruhjaya boleh diwakili oleh mana -mana pegawai Pesuruhjaya\natau peguam belanya; dan\n\n(b) perayu atau mana -mana pihak lain kepada rayuan itu  boleh hadir\nsendiri atau diwakili oleh mana -mana pegawainya atau\npeguam belanya.\n\n (2) Jika Pesuruhjaya , perayu atau mana-mana pihak lain kepada rayuan\ndiwakili oleh pegawainya atau peguam belanya, suatu surat yang memberikan kuasa\nkepada pegawai itu atau peguam belanya hendaklah dikemukakan kepada\nTribunal Rayuan sebelum tarikh pendengaran rayuan.\n\nKetidakhadiran pihak-pihak\n15. Jika mana -mana pihak kepada rayuan tidak hadir pada tarikh, masa dan\ndi tempat yang ditetapkan untuk pendengaran, Tribunal Rayuan boleh,\napabila berpuas hati bahawa notis pendengaran rayuan telah disampaikan dengan\nsewajarnya di bawah subperaturan 10(3), mendengar dan memutuskan rayuan itu.\n\nRayuan boleh didengar bersama\n16. Tribunal Rayuan boleh, atas permohonan perayu atau Pesuruhjaya,\nmemerintahkan dua atau lebih rayuan untuk didengar bersama  jika Tribunal Rayuan\nmendapati bahawa hal perkara rayuan itu—\n\n(a) timbul daripada keputusan yang sama Pesuruhjaya itu; atau\n\n(b) melibatkan isu yang sama atau serupa.\n\nTatacara bagi pendengaran rayuan\n17. Tatacara yang berikut hendaklah terpakai berhubung dengan pendengaran suatu\nrayuan  di hadapan Tribunal Rayuan:\n\n(a) perayu hendaklah memulakan dan hendaklah mempunyai hak untuk\nmemberikan jawapan penutup melainkan jika Pengerusi memutuskan\nselainnya;\n\n(b) perayu dan Pesuruhjaya adalah berhak untuk mendapatkan keterangan\ndan memeriksa balas orang yang memberi keterangan dan boleh berhujah\ndalam Tribunal Rayuan berkenaan dengan  semua perkara yang\ndibangkitkan dalam prosiding;\n\n(c) keterangan boleh diberikan secara lisan atau, jika perayu dan Pesuruhjaya\nbersetuju atau Pengerusi memerintahkan sedemikian, melalui afidavit,\ntetapi Pengerusi boleh pada mana -mana peringkat prosiding membuat\nsuatu perintah meng hendaki deponen hadir sendir i untuk pemeriksaan\ndan pemeriksaan balas;\n\n(d) semua keterangan yang diberikan hendaklah dengan sumpah melainkan\njika Pengerusi mengarahkan selainnya dan  sumpah atau ikrar itu\nhendaklah dikendalikan oleh  Setiausaha atau  mana-mana orang lain\nsebagaimana yang diberi kuasa oleh Pengerusi;\n\n(e) Tribunal Rayuan boleh menanyakan apa -apa soalan kepada mana -mana\nsaksi dan boleh menghendaki saksi itu  supaya mengemukakan apa -apa\ndokumen;\n\n(f) mana-mana pe rnyataan bertulis atau keterangan dokumentar yang\ndikemukakan hendaklah ditandakan sebagai eks hibit dan hendaklah\nmenjadi sebahagian rekod prosiding itu;\n\n(g) Pengerusi hendaklah mencatat atau menyebabkan supaya dicatatkan nota\nketerangan yang diberikan dan setakat mana didapati wajar, hujah yang\ndibuat oleh perayu dan Pesuruhjaya;\n\n(h) Tribunal Rayuan boleh memeriksa mana -mana tempat atau benda\nberkenaan dengan mana -mana soalan berbangkit dalam rayuan\ndan  semua perbelanjaan hendaklah menjadi kos dalam prosiding itu; dan\n\n(i) selepas selesai pendengaran atau pada tarikh lain yang ditentukan oleh\nPengerusi, Pengerusi hendaklah menyerahkan keputusan dan menyatakan\nsecara terperinci alasan bagi keputusan Tribunal Rayuan itu.\n\nPenangguhan\n18. Tribunal Rayuan boleh menangguhkan pendengaran rayuan  tertakluk kepada\napa-apa syarat yang difikirkan adil oleh Tribunal Rayuan.\n\nPenarikan balik rayuan\n19. (1) Perayu boleh pada bila -bila masa sebelum Tribunal Rayuan membuat\nsuatu keputusan, memfailkan suatu notis penarikan balik dalam Borang F\nJadual Pertama  dan hendaklah menyampaikan suatu salinan notis penarikan balik itu\nkepada Pesuruhjaya dan mana-mana pihak lain kepada rayuan.\n\n (2) Apabila notis difailkan di bawah subperaturan (1) , Setiausaha hendakla h\nmenyebabkan rayuan itu dikeluarkan daripada senarai rayuan.\n\n (3) Jika perayu memfailkan notis penarikan balik, perayu hendaklah\nbertanggungan untuk membayar semua perbelanjaan atau kos berhubung  dengan\nrayuan itu yang ditanggung oleh Pesuruhjaya atau mana-mana pihak lain kepada rayuan\nitu sebagaimana yang ditentukan oleh Tribunal Rayuan.\n\nKeputusan Tribunal Rayuan\n20. (1)  Tribunal Rayuan boleh mengesahkan, mengubah, mengubah suai atau\nmembatalkan keputusan Pesuruhjaya.\n\n  (2) Keputusan Tribunal Rayuan hendaklah—\n\n(a) secara bertulis, bertarikh,  ditandatangani oleh anggota\nTribunal Rayuan dan dimeterai; dan\n\n   (b) termasuk alasan bagi keputusannya.\n\n (3)  Jika mana-mana anggota Tribunal Rayuan yang telah membuat suatu\nkeputusan atas apa -apa rayuan tidak dapat menandatangani keputusan itu atas sebab\nmeninggal dunia, sakit, tidak hadir atau apa-apa sebab lain, keputusan itu hendak lah\nditandatangani oleh anggota lain yang ada.\n\nDaftar keputusan Tribunal Rayuan\n21. (1) Setiausaha hendaklah memasukkan butir -butir keputusan\nTribunal Rayuan dalam Daftar Rayuan.\n\n (2) Setiausaha hendaklah menyebabkan Daftar Rayuan itu tersedia\ndi Pejabat Pendaftaran Tribunal Rayuan untuk pemeriksaan awam semasa\nwaktu pejabat.\n\nBAHAGIAN IV\n\nPELBAGAI\n\nMeterai rasmi\n22. Tribunal Rayuan hendaklah mempunyai suatu meterai rasmi yang hendaklah\ndisimpan dalam jagaan Setiausaha.\n\nPejabat Pendaftaran Tribunal Rayuan\n23. Pemfailan dan penyampaian apa -apa dokumen dan pembayaran fi,\nyang berhubungan dengan apa -apa rayuan, oleh mana -mana pihak kepada rayuan\nkepada Tribunal Rayuan hendaklah dibuat di Pejabat Pendaftaran Tribunal Rayuan.\n\nPengerusi atau anggota Tribunal Rayuan tidak dapat menyelesaikan prosiding\n24. Jika Pengerusi atau mana -mana anggota Tribunal Rayuan yang memulakan\npendengaran dan yang setelah mendengar keseluruhan atau mana -mana bahagian\nprosiding itu tidak dapat, atas sebab  meninggal dunia, sakit, habis tempoh pelantikan\natau apa -apa sebab lain, m enyelesaikan prosiding itu dan Pengerusi atau anggota lain\nyang dilantik oleh Menteri untuk menggantikan Pengerusi atau anggota itu,\nTribunal Rayuan yang baharu ditubuhkan itu boleh terus menguruskan keterangan yang\ntelah direkodkan dan meneruskan prosidi ng itu pada peringkat yang prosiding itu\nterhenti, atau Tribunal Rayuan yang baharu ditubuhkan itu boleh memulakan semula\nprosiding itu.\n\nPerbelanjaan saksi\n25. Perbelanjaan yang dibenarkan di bawah perenggan 84(1)(e) Akta bagi maksud\nmana-mana orang yang dipanggil oleh Tribunal Rayuan he ndaklah ditaksirkan oleh\nSetiausaha mengikut skala yang digunakan dalam prosiding sivil di mahkamah rendah\ndan hendaklah dibayar oleh perayu, Pesuruhjaya atau mana -mana pihak lain kepada\nrayuan, sebagaimana yang diarahkan oleh Tribunal Rayuan.\n\nKesan ketidakpatuhan\n26. Ketidakpatuhan kepada mana -mana peraturan -peraturan ini tidak akan\nmenyebabkan mana -mana prosiding terbatal melainkan  jika Tribunal Rayuan\nmengarahkan selainnya.\n\nRekod prosiding\n27. Setiausaha hendaklah mencatatkan rekod semua prosiding Tribunal Rayuan\ndengan membuat catatan dalam fail rayuan yang berkenaan.\n\nPelupusan dokumen, dsb.\n28. (1)  Tribunal Rayuan boleh, selepas selesai prosiding, memerintahkan supaya\napa-apa buku, kertas, dokumen, rekod atau benda lain yang dikemukakan semasa\nprosiding, diserahkan kepada pemunya yang sah.\n\n (2) Setiausaha hendaklah mengeluarkan suatu notis apa-apa perintah yang\ndibuat di bawah subperaturan (1) kepada pemunya yang sah bagi buku, kertas, dokumen,\nrekod atau benda lain itu.\n\n (3) Jika tiada seorang pun mengambil penghantarserahan apa-apa buku,\nkertas, doku men, rekod atau benda lain yang dikemukakan semasa prosiding yang\ndisebut dalam subperaturan (1) selepas habis tempoh enam bulan dari tarikh notis\ndi bawah subperaturan (2) dikeluarkan, Tribunal Rayuan boleh mengambil milikan dan\nmenguruskan buku, kertas, dokumen, rekod atau benda lain yang dikemukakan semasa\nprosiding itu mengikut apa-apa cara yang difikirkan patut oleh Tribunal Rayuan.\n\nJADUAL PERTAMA\n\nBORANG A\n\n[Subperaturan 3(1)]\n\nAKTA PERLINDUNGAN DATA PERIBADI 2010\n\nPERATURAN-PERATURAN PERLINDUNGAN DATA PERIBADI\n(TRIBUNAL RAYUAN) 2021\n\nDALAM TRIBUNAL RAYUAN\n\nNO. RAYUAN: ……………. TAHUN ……\n\nNOTIS RAYUAN\n\nNama perayu: …………………………………………………………………….…………………...............................\nNo. kad pengenalan/pendaftaran syarikat perayu*: ……………………………………………………...\nNo. telefon: ….……………………………...……………………………………………………………………………....\nNo. faks: …..………………………………………………………………………………………………………………….\nE-mel:……………………………………………...………………………………………………………………………….\nAlamat perayu: ...……………………………..……………………………….………………………………………….\n……………………………………………………………………………………………………………………………………\nAlamat peguam bela (jika berkenaan):………………………………………………………………………….\n……………………………………………………………………………………………………………………………………\n\n Perayu yang terkilan dengan atau yang kepentingannya dimudaratkan oleh\nkeputusan Pesuruhjaya Perlindungan Data Peribadi yang diberikan pada\n…..…………………………….hari bulan…………………………..20…………………………. merayu kepada\nTribunal Rayuan terhadap keputusan Pesuruhjaya Perlindungan Data Peribadi.\n\nButir-butir rayuan adalah seperti yang berikut:\n\n(a) butir-butir keputusan Pesuruhjaya Perlindungan Data Peribadi;\n(keputusan Pesuruhjaya Perlindungan Data Peribadi , keputusan yang\ndirayu dan alasan bagi rayuan)\n\n(b) surat pelantikan peguam bela, jika ada, untuk mewakili perayu;\n\n(c) senarai dokumen sokongan berkaitan yang dilampirkan; dan\n\n(d)  relief atau remedi yang dipohon.\n\nBertarikh pada ……………………..hari bulan……………………20……......\n\n……………………………………..\n             Perayu/Peguam bela\n\n(METERAI)\n\n……………………………………..\n                        Setiausaha\n                  Tribunal Rayuan\n\nKepada:\n1. Pesuruhjaya Perlindungan Data Peribadi\n2. Mana-mana pihak lain kepada rayuan, jika ada\n\nCATATAN:\n* potong mana-mana yang tidak berkenaan\n\nBORANG B\n\n[Subperaturan 6(3) dan 9(2)]\n\nAKTA PERLINDUNGAN DATA PERIBADI 2010\n\nPERATURAN-PERATURAN PERLINDUNGAN DATA PERIBADI\n(TRIBUNAL RAYUAN) 2021\n\nDALAM TRIBUNAL RAYUAN\n\nNO. RAYUAN: ……………. TAHUN………..\n\nPENGAKUTERIMAAN PENYAMPAIAN\n\n1. Dokumen ini telah disampaikan dengan cara penyampaian ke diri kepada\n………………………………….......................................................................................................................................\n(yang dikenali  oleh saya ) (atau yang telah ditunjukkan kepada saya oleh\n………………………………...…………………………………………………………………………………………….....)\n(atau yang telah mengaku kep ada saya bahawa dialah orangnya\n………………………………..……………………………………………………………………………………………..) di\n…………………………………………………………………………………………………………………………………..\npada…..…………………………………………..….hari bulan….…..…………….…….20………………………….\npada pukul……………………pagi/petang*.\n\n2. Dokumen ini telah disampaikan dengan meninggalkan sesalinan ke alamat\nkediaman yang terakhir diketahui atau tempat perniagaan  di\n………………………………………..........…………………………………………………………………………………….\ndalam suatu sampul beralamat*.\n\n3. Dokumen ini telah disampaikan melalui surat berdaftar Akuan Terima yang\ndialamatkan kepada …………………………………………………………………………….………………………\n(alamat untuk penyampaian) atau (alamat terakhir yang diketahui)*.\n\nBertarikh pada ……………………..hari bulan……………………20……....\n\n                  …………………………………………..\n                                  Tandatangan\n\nCATATAN:\n* potong mana-mana yang tidak berkenaan\n\nBORANG C\n\n[Subperaturan 8(3)]\n\nAKTA PERLINDUNGAN DATA PERIBADI 2010\n\nPERATURAN-PERATURAN PERLINDUNGAN DATA PERIBADI\n(TRIBUNAL RAYUAN) 2021\n\nDALAM TRIBUNAL RAYUAN\n\nNO. RAYUAN: ……………. TAHUN ……\n\nNOTIS REKOD RAYUAN\n\n            AMBIL PERHATIAN bahawa rekod rayuan dalam prosiding yang disebut di atas\ntelah selesai dan kos bagi menyediakan rekod rayuan itu berjumlah RM………………………*\n(Ringgit Malaysia) kena dibayar oleh anda.\n\n            AMBIL PERHATIAN jika anda tidak menjelaskan bayaran yang disebut\ndi atas dalam masa empat belas hari /……………………………**(tempoh lanjutan yang\ndiberikan oleh Pengerusi ) dari tarikh penyampaian notis ini, rayuan anda hendaklah\nditolak.\n\nBertarikh pada…………………….hari bulan………20……….\n\n (METERAI)\n\n                                ……………………………………..\n                                                                                                   Setiausaha\n                                                                                                         Tribunal Rayuan\nKepada: ……………………..………………………………………\n                 ……………………………………………………………..\n                 ……………………………………………………………..\n                 (Masukkan nama dan alamat perayu)\n\nCATATAN:\n* Masukkan amaun yang tepat. Jika tiada baki, tulis \"Tiada\"\n** Masukkan jumlah tempoh lanjutan yang diberikan\n\nBORANG D\n\n[Subperaturan 10(3)]\n\nAKTA PERLINDUNGAN DATA PERIBADI 2010\n\nPERATURAN-PERATURAN PERLINDUNGAN DATA PERIBADI\n(TRIBUNAL RAYUAN) 2021\n\nDALAM TRIBUNAL RAYUAN\n\nNO. RAYUAN: ……………. TAHUN ……\n\nNOTIS PENDENGARAN RAYUAN\n\n AMBIL PERHATIAN bahawa rayuan dalam perkara di atas akan didengar\npada………………………………………..hari bulan……………………….……………….20…………………….\ndi….……………………………………………………………………………………………………………………………\n…...……………………………………………………………………………………………………………………………..\n(alamat tempat pendengaran) pada pukul ……………………………….pagi/petang*.\n\nBertarikh pada………………hari bulan……………20……….\n\n                 (METERAI)\n\n                 ………………………………………..\n                                                                                                                 Setiausaha\n                                                                                                         Tribunal Rayuan\n\nKepada:\n1. Pesuruhjaya Perlindungan Data Peribadi\n2. Mana-mana pihak lain kepada rayuan, jika ada\n\nCATATAN:\n* potong mana-mana yang tidak berkenaan\n\nBORANG E\n\n[Subperaturan 13(2)]\n\nAKTA PERLINDUNGAN DATA PERIBADI 2010\n\nPERATURAN-PERATURAN PERLINDUNGAN DATA PERIBADI\n (TRIBUNAL RAYUAN) 2021\n\nDALAM TRIBUNAL RAYUAN\n\nNO. RAYUAN: ……………. TAHUN ………\n\nSAMAN UNTUK HADIR\n\nKepada: ............................................................................................................\n                  ............................................................................................................\n                 (Masukkan nama dan alamat orang yang dipanggil)\n\n BAHAWASANYA perayu telah memfailkan suatu rayuan bagi mendapat kan\nkeputusan yang telah dibuat oleh Pesuruhjaya Perlindungan Data Peribadi dan didapati\nbahawa anda boleh memberi keterangan yang material bagi pihak perayu/Pesuruhjaya\nPerlindungan Data Peribadi*.\n\n Anda dengan ini dipanggil untuk hadir di hadapan Tribunal Rayuan\ndi………………………………………………………………………………………………………………………………...\n……………………………………………………………………………………………………………………………………\n(alamat tempat pendengaran) pada ……………………………. hari bulan …..………….20……….…..\npada pukul ……………………..………pagi/petang* untuk memberikan keterangan bagi pihak\nperayu / Pesuruhjaya Perlindungan Data Peribadi* dan untuk kekal semasa pendengaran\nrayuan sehingga Tribunal Rayuan mengarahkan selainnya.\n\n Anda juga dikehendaki membawa bersama dan mengemukakan pada masa dan\ntempat yang disebut dokumen-dokumen yang berikut**: (nyatakan dokumen yang akan\ndikemukakan)\n\n……………………………………………………………………………………………………………………………………\n……………………………………………………………………………………………………………………………………\n……………………………………………………………………………………………………………………………………\n\nBertarikh pada………………………. hari bulan …………..20……….\n\n   (METERAI)\n\n                 ……………………………………..\n                                                                                                 Setiausaha\n                                                                                                                Tribunal Rayuan\n\nCATATAN:\n Potong mana-mana yang tidak berkenaan\n** Potong jika tiada dokumen dikehendaki\n\nBORANG F\n\n[Subperaturan 19(1)]\n\nAKTA PERLINDUNGAN DATA PERIBADI 2010\n\nPERATURAN-PERATURAN PERLINDUNGAN DATA PERIBADI\n(TRIBUNAL RAYUAN) 2021\n\nDALAM TRIBUNAL RAYUAN\n\nNO. RAYUAN: ……………. TAHUN ……..\n\nNOTIS PENARIKAN BALIK\n\n AMBIL PERHATIAN bahawa perayu menarik balik keseluruhan rayuan terhadap\nPesuruhjaya Perlindungan Data Peribadi.\n\nBertarikh pada…………….. hari bulan…………….20……….\n\n                                 ……………………………………..\n                                                                                                      Perayu\n\nKepada:\n1.    Setiausaha Tribunal Rayuan\n2.    Pesuruhjaya Perlindungan Data Peribadi\n3.    Mana-mana pihak lain kepada rayuan, jika ada\n\nJADUAL KEDUA\n\n[Subperaturan 3(1) dan 8(4)]\n\nFI\n\nPerihalan Fi\n(RM)\nPemfailan notis rayuan 1,000.00\nSalinan rekod rayuan 0.50  setiap muka surat\nKeputusan Tribunal Rayuan 50.00 setiap satu\nsalinan\nSalinan diakui sah—\n(a)      keputusan Pesuruhjaya Perlindungan Data Peribadi\n(b)      pernyataan fakta kes\n(c)  alasan bagi keputusan Pesuruhjaya  Perlindungan\nData Peribadi\n(d)     dokumen lain yang berkenaan\n\n10.00 setiap satu\nsalinan\n\nDibuat 13 April 2021\n[KKMM.600-8/2/3(12); PN(PU2)712/III]\n\nDATO' SAIFUDDIN ABDULLAH\nMenteri Komunikasi dan Multimedia\n\nPERSONAL DATA PROTECTION ACT 2010\n\nPERSONAL DATA PROTECTION (APPEAL TRIBUNAL) REGULATIONS 2021\n\n________________________\n\nARRANGEMENT OF REGULATIONS\n________________________\n\nPART I\n\nPRELIMINARY\n\nRegulation\n1.  Citation and commencement\n2.  Interpretation\n\nPART II\n\nCOMMENCEMENT OF APPEAL\n\n3.  Notice of appeal\n4.  Notice of appeal to be signed and sealed\n5.  Register of Appeals\n6.  Service of notice of appeal\n7.  Delivery of documents\n8.  Record of appeal\n9.  Service of record of appeal\n10.  Notice of hearing of appeal\n11.  Amendment of notice of appeal\n\nPART III\n\nHEARING OF APPEAL\n\n12.  Sitting of Appeal Tribunal\n13.  Summons to appear\n14.  Representation in proceedings\n15.  Non-appearance of parties\n16.  Appeals may be heard together\n17.  Procedure for hearing of appeal\n18.  Adjournment\n19.  Withdrawal of appeal\n20.  Decision of Appeal Tribunal\n21.  Register of decision of Appeal Tribunal\n\nPART IV\n\nMISCELLANEOUS\n\n22.  Official seal\n23.  Appeal Tribunal Registry\n24.  Chairman or member of Appeal Tribunal not able to conclude proceedings\n25.  Witness's expenses\n26.  Effect of non-compliance\n27.  Record of proceedings\n28.  Disposal of document, etc.\n FIRST SCHEDULE\n SECOND SCHEDULE\n\nPERSONAL DATA PROTECTION ACT 2010\n\nPERSONAL DATA PROTECTION (APPEAL TRIBUNAL) REGULATIONS 2021\n\nIN exercise of the powers conferred by section 93 and subsection 143(1)  of the\nPersonal Data Protection Act 2010 [ Act 709 ], the Minister makes\nthe following regulations:\n\nPART I\n\nPRELIMINARY\n\nCitation and commencement\n1. (1) These regulations may be cited as the Personal Data Protection\n(Appeal Tribunal) Regulations 2021.\n\n (2) These Regulations come into operation on 15 April 2021.\n\nInterpretation\n2.  In these Regulations, unless the context otherwise requires—\n\n \"Chairman\" means the Chairman of the Appeal Tribunal appointed by the Minister\nunder paragraph 85(1)(a) of the Act;\n\n  \"Secretary\" means the Secretary of the Appeal Tribunal appointed by the Minister\nunder subsection 86(1) of the Act.\n\nPART II\n\nCOMMENCEMENT OF APPEAL\n\nNotice of appeal\n3.   (1) Any person may make an application to the Appeal Tribunal\nby a notice of appeal in Form A of the First Schedule and accompanied with the fee\nas specified in the Second Schedule.\n\n (2)        The application to the Appeal Tribunal shall be accompanied with—\n\n(a) the decision of the Commissioner or the enforcement notice served\nto the data user by the Commissioner, as the case may be; and\n\n(b) a letter of appointment of an advocate, if any, to represent\nthe appellant.\n\n(3)       The application shall be filed to the Appeal Tribunal—\n\n(a)   within thirty days from the date of the decision of the Commissioner;\nor\n\n(b)  in the case of an enforcement notice, within thirty days from\nthe date of service of the enforcement notice to the data user.\n\n (4)       The notice of appeal shall be filed in—\n\n(a) one copy for the Appeal Tribunal;\n\n(b) one copy to be served on the Commissioner;\n\n(c) one copy to be served on each party to the appeal; and\n\n(d) one copy for the appellant.\n\nNotice of appeal to be signed and sealed\n4. Upon receiving the notice of appeal, the Secretary—\n\n(a) shall sign all copies of the notice of appeal; and\n\n(b) shall cause all copies of the notice of appeal to be sealed with the seal\nof the Appeal Tribunal.\n\nRegister of Appeals\n5. (1)     The Secretary shall keep and maintain a register of appeals in any form\nas the Secretary thinks fit.\n\n (2) The Secretary shall cause the  particulars of the notice of appeal to be\nentered in the Register of Appeals.\n\n (3)    Every appeal shall be distinguished by a number and the year in which\nit is filed.\n\nService of notice of appeal\n6.    (1)   After the entry of the particulars of the notice of appeal referred\nto in regulation 5, the Secretary shall retain one copy of the signed and sealed of the notice\nof appeal and shall cause other copies of the signed and se aled of the notice of appeal\nto be returned to the appellant.\n\n (2) Upon receipt of the notice of appeal under subregulation (1),\nthe appellant shall within fourteen days serve the notice of appeal to the Commissioner\nand any other party to the appeal.\n\n (3)   The appellant shall file proo f of service of the notice of appeal under\nsubregulation (2) to the Secretary in Form B of the First Schedule.\n\nDelivery of documents\n7.  The Commissioner who has been served with the notice of appeal under\nsubregulation 6(2) shall within forty -five days from the date of receipt of such\nnotice of appeal deliver to the Secretary the following documents:\n\n(a) the decision of the Commissioner referred to in subsection 93(1) of the Act;\n\n(b) a statement of the facts of the case;\n\n(c) the grounds for the decision of the Commissioner referred to\nin section 94 of the Act; and\n\n(d) other relevant documents as the Commissioner thinks appropriate.\n\nRecord of appeal\n8.  (1)  Upon receipt of the documents specified in regulation 7, the Secretary shall\nprepare sufficient copies of the record of appeal within fourteen days from\nthe date of receipt of the documents.\n\n (2)  The record of appeal shall contain the following documents:\n\n(a) a certified true copy of the notice of appeal; and\n\n(b) a certified true copy of the documents specified in regulation 7.\n\n (3)  Upon completion of preparation of the record of appeal under\nsubregulation (1), the Secretary shall issue a notice  of the record of appeal in Form C\nof the First Schedule to the appellant.\n\n (4)  The appellant shall , within fourteen days from the date of receipt of the\nnotice under subregulation (3) or any extended time as the Chairman may grant,\nmake payment of fee specified in the Second Schedule.\n\n (5) The Secretary shall provide the appellant with sufficient copies\nof the record of appeal and enter the appeal into the list of appeals to be heard.\n\n (6)  If the appellant fails to comply with subregulation (4), the appeal\nshall be dismissed.\n\nService of record of appeal\n9. (1)     Upon receipt of the record of appeal referred to in regulation 8,\nthe appellant shall within fourteen days serve the record of appeal to the Commissioner\nand any other party to the appeal.\n\n (2)    The appellant shall file proof of service of the record of appeal under\nsubregulation (1) to the Secretary in Form B of the First Schedule.\n\nNotice of hearing of appeal\n10. (1)  The Chairman shall fix the date, time and place of hearing\nof the appeal.\n\n (2)  The Chairman may, on its own motion or on the application\nof the appellant or the Commissioner, postpone the date of hearing of the appeal.\n\n (3) The Secretary shall serve a notice of hearing of the appeal specifying\nthe date, time and place of hearing of the appeal to the appellant and the Commissioner\nin Form D of the First Schedule not less than twenty -one days before the date of hearing\nof the appeal.\n\n (4) The appellant shall, within a reasonable time before the date of hearing\nof the appeal serve the notice of hearing to any other party to the appeal.\n\nAmendment of notice of appeal\n11. (1)  The app ellant may, at any stage of the proceedings before the date\nof hearing of the appeal, amend the notice of appeal with the leave of the Appeal Tribunal\nsubject to any terms and directions as the Appeal Tribunal thinks necessary.\n\n (2)  Notwithstanding subregulation (1), the Appeal Tribunal shall not grant\nleave to amend the notice of appeal filed under regulation 3 unless the Appeal Tribunal\nis satisfied that—\n\n(a)  the new ground of appeal is based on any matter of fact or law which\nis known to the appellant only after the notice of appeal is filed;\n\n(b)  the new ground of appeal was not practicable to be inserted in\nthe notice of appeal when it was filed; or\n\n(c)  the new ground of appeal is inserted due to exceptional\ncircumstances.\n\n (3)  Where a leave is granted under subregulation (1), the appellant shall file\nthe amended notice of appeal with the Appeal Tribunal.\n\n (4)  The Secretary shall cause the amended notice of appeal to be signed and\nsealed, and to be returned to the appellant.\n\n (5) Upon receipt of the amended notice of appeal under subregulation (4) ,\nregulations 6, 8, 9 and 10 shall apply mutatis mutandis, as the case requires, in respect of\nthe amended notice of appeal.\n\nPART III\n\nHEARING OF APPEAL\n\nSitting of Appeal Tribunal\n12.  (1)  All proceedings before the Appeal Tribunal shall be open to the public.\n\n (2)  Notwithstanding subregulation (1), the Chairman may at any stage of the\nproceedings order the proceedings to be held in a closed session.\n\n (3)  The Chairman at any stage of the proceedings may, if in his opinion that\nthe evidence or other material presented to the Appeal Tribunal is confidential, direct\nthat such evidence or other material not to be published or its publication be  restricted\nor authorize its publication but without identifying the parties to the proceedings.\n\nSummons to appear\n13.  (1)  Any party may, not less than seven days before the date of hearing\nof the appeal, request in writing to the Secretary to issue summons to any other person\nto appear as a witness or to produce any evidence in his possession or under his control\nbefore the Appeal Tribunal.\n\n (2)  The summons issued under subregulation (1) shall be in Form E\nof the First Schedule and shall be served personally on such person.\n\n (3)  If the person who is summoned under subregulation (2) fails to comply\nwith the summons, the Appeal Tribunal may exercise its powers with regard\nto the punishment for contempt under subsection 84(2) of the Act.\n\nRepresentation in proceedings\n14. (1)      At the hearing of any appeal before the Appeal Tribunal—\n\n(a) the Commissioner may be represented by any officer of the\nCommissioner or his advocate; and\n\n(b) the appellant or any other party to the appeal may appear in person\nor be represented by any of his officer or his advocate.\n\n (2) Where the Commissioner, appellant or any other party to the appeal\nis represented by his officer or his advocate, a letter authorizing such officer\nor his advocate shall be issued to the Appeal Tribunal before the date of hearing\nof the appeal.\n\nNon-appearance of parties\n15.  Where any party to the appeal does not appear on the date, at the time and place\nfixed for the hearing, the Appeal Tribunal may, upon being satisfied that\nthe notice of hearing of the appeal has been duly served under subregulation 10(3) ,\nhear and determine the appeal.\n\nAppeals may be heard together\n16.  The Appeal Tribunal may, on the application of the appellant or the Commissioner,\norder two or more appeals to be heard together if it appears to the Appeal Tribunal that\nthe subject matter of the appeals—\n\n(a) arises from the same decision of the Commissioner; or\n\n(b) involves same or similar issues.\n\nProcedure for hearing of appeal\n17.  The following procedure shall apply in relation to the hearing of an appeal before\nthe Appeal Tribunal:\n\n(a) the appellant shall begin and shall have the final right of reply unless\nthe Chairman determine otherwise;\n\n(b) the appellant and the Commissioner shall be entitled to call for\nevidence and cross -examine the person giving evidence and may address\nthe Appeal Tribunal in respect of all matters raised in the proceedings;\n\n(c) evidence may be given orally or, if the appellant and the Commissioner\nconsent or the Chairman so orders, by affidavit, but the Chairman may\nat any stage of the proceedings make an order requiring the personal\nattendance of the deponent for examination and cross-examination;\n\n(d) all evidence given shall be on oath unless the Chairman directs otherwise\nand the oath or affirmation shall be  administered by the Secretary or such\nother person as the Chairman may authorize;\n\n(e)  the Appeal Tribunal may put any question to any witness and may require\nthe witness to produce any document;\n\n(f)  any written statement or documentary evidence tendered shall be marked\nas exhibit and shall form part of the record of proceedings;\n\n(g)  the Chairman shall take or cause to be taken notes of evidence given and\nso far as appears desirable, of the submissions  made by the appellant and\nthe Commissioner;\n\n(h)  the Appeal Tribunal may inspect any place or thing in respect of which any\nquestion arises in the appeal and all such expenses shall be costs\nin the proceedings; and\n\n(i)  at the conclusion of the hearing or at another date as determined\nby the Chairman, the Chairman shall deliver the decision and state\nconcisely the grounds for the decision of the Appeal Tribunal.\n\nAdjournment\n18.  The Appeal Tribunal may adjourn the hearing of the appeal  subject to such\nconditions as the Appeal Tribunal thinks just.\n\nWithdrawal of appeal\n19.  (1) An appellant may at any time before the Appeal Tribunal makes a decision,\nfile a notice of withdrawal in Form F of the First Schedule and shall serve\na copy of the notice of withdrawal to the Commissioner and any other party to the appeal.\n\n (2) Upon filing of the notice under subregulation (1), the Secretary shall cause\nthe appeal to be removed from the list of appeals.\n\n (3) Where the appellant files the notice of withdrawal, the appellant\nshall be liable to pay for all expenses or costs in relation to the appeal incurred\nby the Commissioner or any other party to the appeal as determined by\nthe Appeal Tribunal.\n\nDecision of Appeal Tribunal\n20.  (1)  The Appeal Tribunal may confirm, vary, modify or revoke the decision\nof the Commissioner.\n\n (2)  The decision of the Appeal Tribunal shall—\n\n(a)   be in writing, dated, signed by the members of the Appeal  Tribunal\nand sealed; and\n\n(b) include the grounds for its decision.\n\n (3)  If any member of the Appeal Tribunal who has made a decision on\nany appeal is unable to sign the decision by reason of death, illness, absence or any other\ncause, the decision shall be signed by the remaining members.\n\nRegister of decision of Appeal Tribunal\n21. (1) The Secretary shall enter particulars of the decisions of the Appeal Tribunal\nin the Register of Appeals.\n\n (2)  The Secretary shall cause the Register of Appeals  to be made available at\nthe Appeal Tribunal Registry for public inspection during office hours.\n\nPART IV\n\nMISCELLANEOUS\n\nOfficial seal\n22.  The Appeal Tribunal shall have an official seal which shall be kept in the custody\nof the Secretary.\n\nAppeal Tribunal Registry\n23.  The filing and service of any document and payment of fees, relating to any appeal,\nby any party to the appeal to the Appe al Tribunal shall be done at\nthe Appeal Tribunal Registry.\n\nChairman or member of Appeal Tribunal not able to conclude proceedings\n24.  Where the Chairman or any member of the Appeal Tribunal who commenced\na hearing and who after having heard the whole or any part of the proceedings is unable,\nby reason of death, illness, expiry of term of appointment or any other cause, to conclude\nthe proceedings and another Chairman or member is appointed by the Minister to replace\nthe Chairman or member, the newly constituted Appeal Tribunal may continue to deal\nwith the evidence already recorded and proceed with the proceedings from the stage\nat which it was left, or the newly constituted Appeal Tri bunal may recommence\nthe proceedings.\n\nWitness's expenses\n25.  The expenses allowed under paragraph 84(1)(e) of the Act for the purposes of any\nperson summoned by the Appeal Tribunal shall be assessed by the Secretary on the scale\nused in civil proceedings in a subordinate court and shall be paid by the appellant,\nthe Commissioner or any other party to the appeal,  as may be directed\nby the Appeal Tribunal.\n\nEffect of non-compliance\n26.  Non-compliance to any of these regulations does not render any proceedings void\nunless the Appeal Tribunal direct otherwise.\n\nRecord of proceedings\n27.  The Secretary shall keep records of all proceedings of the Appeal Tribunal\nby making entries in the respective appeal file.\n\nDisposal of document, etc.\n28.  (1)  The Appeal Tribunal may, at the conclusion of the proceedings, order that\nany book, paper, document, record or other thing s produced during the proceedings,\nbe delivered to the rightful owner.\n\n (2)  The Secretary shall issue a notice of any order made under\nsubregulation (1) to the rightful owner for the book, paper, document, record\nor other things.\n\n (3)  Where no person takes delivery of any book, paper , document, record\nor other thing s produced during the proceedings referred to in subregulation (1)\nafter the expiry of a period of six months from the date the notice under\nsubregulation (2) was issued, the Appeal Tribunal may take ownership and deal w ith\nsuch book, paper, document, record or other things produced during the proceedings\nin such manner as it thinks fit.\n\nFIRST SCHEDULE\n\nFORM A\n\n[Subregulation 3(1)]\n\nPERSONAL DATA PROTECTION ACT 2010\n\nPERSONAL DATA PROTECTION (APPEAL TRIBUNAL) REGULATIONS 2021\n\nIN THE APPEAL TRIBUNAL\n\nAPPEAL NO.: ……………. YEAR ……….\n\nNOTICE OF APPEAL\n\nName of appellant:...…………………………………………………………….…………………..............................\nIdentity card/company registration no.*:...……………………………………………………………………\nTelephone no. : ………………………………...…………………………………………………………………………\nFax no. : …..………………………………………………………………………………………………………………….\nE-mail: ...…………………………………………...…………………………………………………………………………\nAddress of appellant: .……………...…………………………………………………………………........................\n……………………………………………………………………………………………………………………………………\nAddress of advocate (if applicable): ……………………………………………………………………………..\n……………………………………………………………………………………………………………………………………\n\n Appellant who is aggrieved or whose interest is adversely affected by the decision\nof the Personal Data Protection Commissioner given on …..……………………………………..\nday of ……………………….. 20………… … appeals to the Appeal Tribunal against the decision\nof the Personal Data Protection Commissioner.\n\nThe particulars of the appeal are as follows:\n\n(a) particulars of the decision of the Personal Data Protection Commissioner;\n(the decision of the Personal Data Protection Commissioner, the decision\nappealed against and the grounds for the appeal)\n\n(b) a letter of appointment of an advocate, if any, to represent the appellant;\n\n(c) list of relevant supporting documents enclosed; and\n\n(d) relief or remedy sought.\n\nDated this ……………………..day of ……………………20……....\n\n……………………………………..\n               Appellant/Advocate\n\n(SEAL)\n\n……………………………………..\n                        Secretary\n                  Appeal Tribunal\n\nTo:\n1. The Personal Data Protection Commissioner\n2. Any other party to the appeal, if any\n\nNOTE:\n* delete whichever is not applicable\n\nFORM B\n\n[Subregulations 6(3) and 9(2)]\n\nPERSONAL DATA PROTECTION ACT 2010\n\nPERSONAL DATA PROTECTION (APPEAL TRIBUNAL) REGULATIONS 2021\n\nIN THE APPEAL TRIBUNAL\n\nAPPEAL NO.: ……………. YEAR………\n\nACKNOWLEDGEMENT OF SERVICE\n\n1. This document was served by way of personal service to …………………………\n.......................................................................................................................................................................................\n(who i s known to me)  (or who was pointed out t o me by ………………………….\n………………………………………………………………………………………………………...………........................)\n(or who admitted to me that he was ………………………………………………………………………...) at\n……………………………………………………………………………………………………………………………………\n………………………………………………………………………………………………...................................................\non.....................day of ...................... 20..............at................. o' clock in the morning/afternoon*.\n\n2. This document was served by leaving a copy to t he last -known address\nof residence or place of business at …………………………………………….…………………………………\nin a cover addressed*.\n\n3. This document was served by post in an A.R. registered letter addressed to\n……………………………………………………………………………………………. (address for service) or\n(last-known address)*.\n\nDated this ...............day of ......................... 20............\n\n         …………………………………………..\nSignature\nNOTE:\n* delete whichever is not applicable\n\nFORM C\n\n[Subregulation 8(3)]\n\nPERSONAL DATA PROTECTION ACT 2010\n\nPERSONAL DATA PROTECTION (APPEAL TRIBUNAL) REGULATIONS 2021\n\nIN THE APPEAL TRIBUNAL\n\nAPPEAL NO.: ……………. YEAR……..\n\nNOTICE OF RECORD OF APPEAL\n\n TAKE NOTICE that the record of appeal in the above proceedings is completed\nand the costs of preparing the record of appeal in the sum of RM ..................................................*\n(Ringgit Malaysia) is due from you.\n\n TAKE NOTICE that if you fail to pay the said sum within fourteen\ndays/……………………….**(extended time granted by the  Chairman) from the date\nof service of this notice, your appeal shall be dismissed.\n\nDated this ...............day of ............................... 20..........\n\n (SEAL)\n\n ……………………………………..\n                                                                                                   Secretary\n                                                                                                        Appeal Tribunal\n\nTo: ........................................................................................\n       ........................................................................................\n       .......................................................................................\n       (Insert name and address of the appellant)\n\nNOTE:\n* Insert the exact amount. If no balance, state \"Nil\"\n** Insert total extended time granted\n\nFORM D\n\n[Subregulation 10(3)]\n\nPERSONAL DATA PROTECTION ACT 2010\n\nPERSONAL DATA PROTECTION (APPEAL TRIBUNAL) REGULATIONS 2021\n\nIN THE APPEAL TRIBUNAL\n\nAPPEAL NO.: ……………. YEAR……\n\nNOTICE OF HEARING OF APPEAL\n\n TAKE NOTICE that the appeal in the above matter will be heard\non ................................................................the day of …… ......................................... 20…................................\nat………………………………………………………………………………………………………………………………...\n……………………………………………………………………………………………………………………………………\n(address of place of hearing) at ............................................... o'clock in the morning/afternoon*.\n\nDated this ...............day of ................................. 20...................\n\n                 (SEAL)\n\n                    ……………………………………..\n                                                                                                                     Secretary\n                                                                                                              Appeal Tribunal\n\nTo:\n1. The Personal Data Protection Commissioner\n2. Any other party to the appeal, if any\n\nNOTE:\n* delete whichever is not applicable\n\nFORM E\n\n[Subregulation 13(2)]\n\nPERSONAL DATA PROTECTION ACT 2010\n\nPERSONAL DATA PROTECTION (APPEAL TRIBUNAL) REGULATIONS 2021\n\nIN THE APPEAL TRIBUNAL\n\nAPPEAL NO.: ……………. YEAR………\n\nSUMMONS TO APPEAR\n\nTo: ............................................................................................................\n ............................................................................................................\n (Insert name and address of person summoned)\n\n WHEREAS the a ppellant has filed an appeal stated for the decision made\nby the Personal Data Protection Commissioner and it appears that you can give material\nevidence for the appellant/Personal Data Protection Commissioner*.\n\n You are hereby summoned to ap pear before the Appeal Tribunal\nat ………………...........................................................................................................................................................\n……………………………………………………………………………………………………………………………………\n(address of place of hearing) on ………………………….................. day of ............. .........................\n20..........................at.................................o'clock in the morning/afternoon* to give evidence for\nthe appellant/Personal Data Protection Commissioner* and to remain during the hearing\nuntil the Appeal Tribunal directs otherwise.\n\n You are also required to bring along with you and produce at the time and place\naforesaid the following documents**: (specify the documents to be produced)\n……………………………………………………………………………………………………………………………………\n……………………………………………………………………………………………………………………………………\n\n……………………………………………………………………………………………………………………………………\n\nDated this ............................. day of .......................... 20............\n\n                               (SEAL)\n\n                     ……………………………………..\n           Secretary\n                         Appeal Tribunal\n\nNOTE:\n* Delete whichever is not applicable\n** Delete if no documents are required\n\nFORM F\n\n[Subregulation 19(1)]\n\nPERSONAL DATA PROTECTION ACT 2010\n\nPERSONAL DATA PROTECTION (APPEAL TRIBUNAL) REGULATIONS 2021\n\nIN THE APPEAL TRIBUNAL\n\nAPPEAL NO.: ……………. YEAR.………\n\nNOTICE OF WITHDRAWAL\n\n TAKE NOTICE that the appellant wholly withdraws this appeal against\nthe Personal Data Protection Commissioner.\n\nDated this ...............day of .......................... 20........\n\n                    ……………………………………..\n                                                                                                                 Appellant\n\nTo:\n1. Secretary Appeal Tribunal\n2. Personal Data Protection Commissioner\n3. Any other party to the appeal, if any\n\nSECOND SCHEDULE\n\n[Subregulations 3(1) and 8(4)]\n\nFEES\n\nDescription Fee\n(RM)\nFiling of the notice of appeal 1,000.00\nCopy of the record of appeal 0.50  per page\nDecision of the Appeal Tribunal 50.00 per copy\nCertified true copy—\n(a) the decision of the Personal Data Protection\nCommissioner\n(b) statement of the facts of the case\n(c) grounds for the decision of the Personal Data\nProtection Commissioner\n(d) other relevant documents\n\n10.00 per copy\n\nMade 13 April 2021\n[KKMM.600-8/2/3(12); PN(PU2)712/III]\n\nDATO' SAIFUDDIN ABDULLAH\nMinister of Communications and Multimedia"
+   }
+  }
+ ]
+}

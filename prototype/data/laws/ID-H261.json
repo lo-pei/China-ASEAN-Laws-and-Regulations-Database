@@ -1,0 +1,698 @@
+{
+ "id": "ID-H261",
+ "title": {
+  "zh": "设立机构法",
+  "en": "Establishment body Law",
+  "id": "Pembentukan badan",
+  "orig": "PEMBENTUKAN BADAN",
+  "vi": "Luật Thành lập cơ quan",
+  "th": "พระราชบัญญัติ จัดตั้ง องค์กร",
+  "ms": "Akta Penubuhan badan"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02b",
+ "language": "id",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "1965",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU6-1964",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 41,
+ "chars": 33670,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": null
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\01_宪法与基础法\\印尼_WLD_1965_PEMBENTUKAN BADAN.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 43 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H261-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 1.\nPresiden sebagai Pemimpin Besar Revolusi memegang kekuasaan\npemeriksaan, pengawasan dan penelitian tertinggi atas penguasaan\ndan pengurusan\nkeuangan Negara, yang dalam pelaksanaannya\nsehari-hari dilakukan atas nama dan untuk beliau oleh Badan\nPemeriksa Keuangan."
+   }
+  },
+  {
+   "id": "ID-H261-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB I."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 2.\nBadan Pemeriksa Keuangan berbentuk Dewan dan merupakan suatu\nLembaga Negara Tertinggi di antara Lembaga-lembaga Negara Tertinggi\nlainnya."
+   }
+  },
+  {
+   "id": "ID-H261-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB I."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 3.\nYang dimaksud dengan keuangan Negara dalam Undang-undang ini\nadalah segala kekayaan Negara dalam bentuk apapun juga, baik\nterpisah\nmaupun tidak.\nBAB II.\nBENTUK DAN SUSUNAN BADAN PEMERIKSA KEUANGAN."
+   }
+  },
+  {
+   "id": "ID-H261-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB II."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 4.\nBadan Pemeriksa Keuangan merupakan badan kolektif yang\nmencerminkan kegotong-royongan Nasional Revolusioner berporoskan\nNASAKOM dengan\ndijiwai oleh Deklarasi Bogor dan beranggotakan\nsebanyak-banyaknya 21 orang yang terdiri dari:\n- Wakil-wakil Partai-partai;\n- Wakil-wakil Angkatan Bersenjata;\n- Wakil-wakil organisasi-masa revolusioner atau orang-orang yang\nmempunyai dukungan masyarakat yang terorganisasi yang ditunjuk\noleh\nPresiden.\nPasal. 5.\nBadan Pemeriksa Keuangan merupakan satu kesatuan dalam\nmelaksanakan tugas dan wewenangnya."
+   }
+  },
+  {
+   "id": "ID-H261-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB II."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 6.\n(1) Badan Pemeriksa Keuangan dipimpin oleh:\na. seorang Ketua yang ditunjuk dan diangkat oleh Presiden;\nb. sebanyak-banyaknya empat orang wakil Ketua yang diangkat oleh\nPresiden dari Anggota-anggota Badan Pemeriksa Keuangan.\n(2) Pimpinan Badan Pemeriksa Keuangan tersebut pada ayat (1)\nmerupakan satu kesatuan Pimpinan berkomposisikan NASAKOM."
+   }
+  },
+  {
+   "id": "ID-H261-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB II."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 7.\n(1) Ketua Badan Pemeriksa Keuangan menjabat sebagai Pemeriksa\nKeuangan Agung dan berkedudukan sebagai Menteri Koordinator.\n(2) Para Wakil Ketua Badan Pemeriksa Keuangan menjabat sebagai\nPemeriksa Keuangan Agung Muda dan berkedudukan sebagai Menteri."
+   }
+  },
+  {
+   "id": "ID-H261-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB II."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 8.\nApabila Ketua Badan Pemeriksa Keuangan/Pemeriksa Keuangan Agung\nberhalangan, maka ia menunjuk salah seorang Wakil Ketua Badan\nPemeriksa\nKeuangan/Pemeriksa Keuangan Agung Muda sebagai Pejabat\nketua Badan Pemeriksa Keuangan."
+   }
+  },
+  {
+   "id": "ID-H261-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB II."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 9.\n(1) Pemeriksa Keuangan Agung, Pemeriksa Keuangan Agung Muda dan\nAnggota Badan Pemeriksa Keuangan diangkat oleh Presiden untuk masa\njabatan lima tahun dengan mengingat syarat-syarat sebagai\nberikut:\na. berusia sekurang-kurangnya 35 tahun;\nb. berwarga-negara Indonesia;\nc. Manipolis dan Pancasilais sejati;\nd. setia terhadap Negara dan haluan Negara Kesatuan Republik\nIndonesia yang berdasarkan Pancasila;\ne. dapat mengikuti perkembangan tahap-tahap Revolusi\nIndonesia;\nf. mempunyai kecakapan dan/atau pengalaman di dalam bidang\nkeuangan, kebendaharaan dan/atau administrasi Negara;\ng. tidak diragukan tentang kejujurannya di segala bidang;\nh. mempunyai dukungan dari masyarakat yang terorganisasi\nberporoskan NASAKOM.\n(2) Pemeriksa Keuangan Agung, Pemeriksa Keuangan Agung Muda dan\nAnggota Badan Pemeriksa Keuangan diberhentikan oleh Presiden:\na. atas permohonan sendiri;\nb. apabila ternyata tidak mampu melakukan tugas kewajibannya;\nc. apabila yang bersangkutan melakukan atau tersangkut dalam\nperbuatan curang atau penyelewengan."
+   }
+  },
+  {
+   "id": "ID-H261-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB II."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 10.\n(1) Pemeriksa Keuangan Agung, Pemeriksa Keuangan Agung Muda dan\nAnggota Badan Pemeriksa Keuangan tidak boleh, baik langsung maupun\ntidak langsung, menjadi pemilik seluruh atau sebagian ataupun\nmenjadi penjamin suatu badan usaha yang berdasarkan perjanjian\ndengan\nanjuran untuk mendapat laba atau keuntungan dari Negara\nIndonesia atau Pemerintah Daerah atau Perusahaan Negara."
+   }
+  },
+  {
+   "id": "ID-H261-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB II."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 11.\n(1) Pemeriksa Keuangan Agung, Pemeriksa Keuangan Agung Muda dan\nAnggota Badan Pemeriksa Keuangan tidak dapat dikenakan penahanan\nsementara\nguna pemeriksaan sesuatu perkara, kecuali atas perintah\nJaksa Agung dengan ijin dan persetujuan terlebih dahulu dari\nPresiden.\n(2) Dalam hal Pemeriksa Keuangan Agung, Pemeriksa Keuangan Agung\nMuda atau seorang Anggota Badan Pemeriksa Keuangan tertangkap dalam\nkeadaan sedang melakukan sesuatu tindak pidana yang diancam dengan\nhukuman lebih dari satu tahun penjara, ia dapat dikenakan penahanan\nsementara pada seketika itu dengan ketentuan bahwa penahanan\ntersebut dalam waktu dua puluh empat jam harus dilaporkan kepada\nJaksa\nAgung, yang berkewajiban menyampaikan kepada presiden untuk\nmemperoleh ijin dan persetujuannya guna penahanan sementara lebih\nlanjut\nbila dianggap perlu.\nTanpa persetujuan Presiden, ia harus segera dibebaskan\nkembali."
+   }
+  },
+  {
+   "id": "ID-H261-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB II."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 12.\n(1) Pemeriksa Keuangan Agung, Pemeriksa Keuangan Agung Muda dan\nAnggota Badan Pemeriksa Keuangan tidak dapat dituntut di muka\nPengadilan\nkarena soal-soal yang dikatakannya dalam rapat atau yang\ndikemukakannya dengan surat kepada Badan Pemeriksa Keuangan.\n(2) Mereka dapat dituntut apabila mengumumkan yang dikemukakan\nsecara lisan atau tertulis dalam rapat tertutup menurut keputusan\nkolektif\nBadan Pemeriksa Keuangan harus dirahasiakan."
+   }
+  },
+  {
+   "id": "ID-H261-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB II."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 13.\nKedudukan hukum dan kedudukan keuangan Pemeriksa Keuangan Agung,\npemeriksa Keuangan.Agung Muda dan Anggota Badan Pemeriksa Keuangan\nAgung Muda dan Anggota Badan Pemeriksa Keuangan diatur oleh\nPresiden."
+   }
+  },
+  {
+   "id": "ID-H261-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB II."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 14.\n(1) Pegawai Badan Pemeriksa Keuangan adalah Pegawai Negeri.\n(2) Di samping gaji dan lain-lain tunjangan yang diatur dalam\nPeraturan Gaji Pegawai Negeri, kepada Pegawai Badan Pemeriksa\nKeuangan\ndiberikan tunjangan-tunjangan tambahan khusus yang\nditetapkan oleh Presiden atas usul Badan Pemeriksa Keuangan.\nBAB III.\nSUMPAH JABATAN."
+   }
+  },
+  {
+   "id": "ID-H261-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB III."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 15.\n(1) Sebelum memangku jabatannya, maka Pemeriksa Keuangan Agung,\npara Pemeriksa Keuangan Agung Muda dan para Anggota Badan Pemeriksa\nKeuangan mengucapkan sumpah menurut cara agama yang dipeluknya,\natau mengucapkan janji.\nUcapan sumpah dimulai dengan kata-kata \"Demi Allah\" bagi mereka\nyang beragama Islam, sedang bagi mereka yang beragama lain dari\nAgama\nIslam pemakaian kata-kata \"Demi Allah\" disesuaikan dengan\nkebiasaan Agamanya masing-masing.\n(2) Sumpah/janji termaksud pada ayat (1) selanjutnya berbunyi\nsebagai berikut:\n\"Saya bersumpah (saya berjanji) bahwa, untuk menjadi Pemeriksa\nKeuangan Agung/Pemeriksa Keuangan Agung Muda/ Anggota Badan\nPemeriksa\nKeuangan langsung atau tak langsung dengan nama atau\ndalih apapun, tidak memberikan atau menjanjikan ataupun tidak akan\nmemberikan\natau menjanjikan sesuatu kepada siapapun juga. Saya\nbersumpah (saya berjanji) bahwa saya, untuk melakukan atau tidak\nmelakukan sesuatu\ndalam jabatan ini, tidak akan menerima atau akan\nmenerima, langsung ataupun tak langsung dari siapapun juga sesuatu\njanji atau pemberian.\nSaya bersumpah (saya berjanji) setia kepada Undang-undang Dasar\ndan berusaha dengan sekuat tenaga menunaikan tugas pekerjaan saya\ndalam jabatan ini dengan penuh rasa tanggung-jawab pada diri\nsendiri dan terhadap Nusa dan Bangsa sesuai dengan haluan\nNegara\".\nBAB IV.\nTUGAS KEWAJIBAN BADAN PEMERIKSA KEUANGAN."
+   }
+  },
+  {
+   "id": "ID-H261-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB IV."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 16.\n(1) Dalam rangka menyelamatkan, mempertahankan dan melancarkan\nRevolusi Indonesia, Badan Pemeriksa Keuangan bertugas melakukan\npemeriksaan,\npengawasan dan penelitian atas penguasaan dan\npengurusan keuangan Negara guna meniadakan hambatan-hambatan\nseperti birokratisme,\nmissadministration dan korupsi.\n(2) Tugas di bidang pengawasan meliputi pula pengujian apakah\npenggunaan uang Negara terjadi menurut ketentuan-ketentuan Anggaran\nNegara dan dengan ketentuan-ketentuan mengenai penguasaan dan\npengurusan keuangan Negara di samping menilai kegunaannya dan\nkemanfaatannya\npengeluaran uang Negara atau penjualan milik\nNegara.\n(3) Tugas di bidang pengawasan meliputi pula pengawasan umum\nterhadap pelaksanaan daripada Anggaran Negara yang berbentuk\nAnggaran\nMoneter dan terdiri dari Anggaran Pendapatan dan Belanja\nRoutine, Anggaran Pendapatan dan Belanja Pembangunan, termasuk\nDaerah, Anggaran\nKredit dan Anggaran Devisa, termasuk pengawasan\natas segala pembelian, penyimpanan, penggunaan dan penjualan barang\nmilik Negara,\nPerusahaan- perusahaan Negara/Daerah dan Perusahaan\nCampuran Negara/ Daerah/Swasta serta pemborongan pekerjaan dan jasa\ndi bidang\nsipil dan militer.\n(4) Tugas di bidang penelitian meliputi pula pemeriksaan\nkontrol-akuntan dan penyelidikan-akuntan atas keuangan Negara serta\ntata-usaha\nsecara menyeluruh dengan tidak ada perkecualiannya."
+   }
+  },
+  {
+   "id": "ID-H261-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB IV."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 17.\nDalam rangka melaksanakan tugas sebagaimana ditetapkan dalam\npasal 16, Badan Pemeriksa Keuangan setiap waktu dapat memberi\npertimbangan\nkepada Presiden mengenai:\na. Rancangan pelaksanaan pembiayaan proyek-proyek;\nb. Kredit-kredit luar negeri dan pelaksanaan penggunaannya."
+   }
+  },
+  {
+   "id": "ID-H261-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB IV."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 18.\n(1) Badan Pemeriksa keuangan dapat menjalankan pemeriksaan atas\npelaksanaan Anggaran Pendapatan Negara pada umumnya, khususnya atas\npembinaan (management) Perusahaan-perusahaan Negara,\nPerusahaan-perusahaan Daerah, Perusahaan Campuran\nNegara/Daerah/Swasta dan atas\npelaksanaan penetapan pajak-pajak\nlangsung maupun tidak langsung dan pungutan-pungutan lainnya.\n(2) Badan Pemeriksa Keuangan mempunyai tugas melakukan\npemeriksaan terhadap seluruh kekayaan Negara, termasuk di dalamnya\nsegala bagian-bagian\nharta milik kekayaan itu dan segala hak serta\nkewajiban yang timbul karenanya, baik kekayaan itu berada dalam\npenguasaan dan pengurusan\npejabat-pejabat dan/ atau Lembaga-lembaga\nyang termasuk Pemerintah Umum maupun berada dalam penguasaan dan\npengurusan Bank-bank Pemerintah,\nYayasan-yayasan Pemerintah, dengan\nstatus hukum publik ataupun perdata, Perusahaan-perusahaan Negara\ndan perusahaan-perusahaan dan\nusaha-usaha di mana Pemerintah\nmempunyai kepentingan khusus serta dalam penguasaan dan pengurusan\nfihak lain manapun juga berdasarkan\nperjanjian dengan penyertaan\npartisipasi Pemerintah ataupun penunjukan oleh Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H261-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB IV."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 19.\nBadan Pemeriksa Keuangan mempunyai tugas pula melakukan\npemeriksaan pengawasan dan penelitian atas kekayaan fihak ketiga\nyang dipercayakan\nkepada dan/atau dikuasai dan atau diurus oleh\nNegara."
+   }
+  },
+  {
+   "id": "ID-H261-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB IV."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 20.\nBadan Pemeriksa Keuangan dapat menggunakan tenaga-tenaga di luar\nBadan tersebut untuk melaksanakan tugasnya."
+   }
+  },
+  {
+   "id": "ID-H261-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB IV."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 21.\n(1) Badan Pemeriksa Keuangan berkewajiban:\na. Menyusun laporan hasil pemeriksaan tentang perhitungan\nAnggaran.\nb. Menyusun laporan tahunan tentang hasil pekerjaannya.\nc. Menyusun laporan tentang keputusan-keputusan penting daripada\nhasil Pemeriksaan, pengawasan dan penelitian.\n(2) Laporan-laporan tersebut pada ayat (1) disampaikan kepada\nPresiden.\n(3) Presiden menyampaikan laporan-laporan tersebut pada ayat (1)\nkepada Dewan Perwakilan Rakyat.\npasal 22.\n(1) Badan Pemeriksa Keuangan setiap waktu dapat memberikan\npertimbangan-pertimbangan kepada Presiden tentang akibat-akibat\nsesuatu\ntindakan Pemerintah dalam bidang ekonomi dan keuangan.\n(2) Presiden dapat menyampaikan pertimbangan-pertimbangan pada\nayat (1) kepada Dewan Perwakilan Rakyat.\nBAB V.\nWEWENANG BADAN PEMERIKSA KEUANGAN,\nKETENTUAN-KETENTUAN PIDANA DAN\nTUNTUTAN GANTI RUGI."
+   }
+  },
+  {
+   "id": "ID-H261-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB V."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 23.\nSetiap orang dan semua instansi Negara, Perusahaan Negara/\nDaerah/Swasta, Bank Pemerintah Daerah/Swasta dan Perusahaan/ Bank\nCampuran\nNegara/Daerah/Swasta diwajibkan memberi keterangan yang\ndiminta oleh Badan Pemeriksa Keuangan berhubung dengan penunaian\ntugas Badan\ntersebut."
+   }
+  },
+  {
+   "id": "ID-H261-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB V."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 24.\n(1) Badan Pemeriksa Keuangan berwenang meminta keterangan\ntentang hasil pemeriksaan dari semua badan-badan dan instansi-\ninstansi\nyang mempunyai tugas pemeriksaan dan pengawasan atas\npengurusan dan penguasaan keuangan Negara dalam bidangnya\nmasing-masing.\n(2) Badan-badan dan instansi-instansi termaksud pada ayat (1)\nwajib memberi keterangan yang diminta oleh badan Pemeriksa\nKeuangan."
+   }
+  },
+  {
+   "id": "ID-H261-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB V."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 25.\nBadan Pemeriksa Keuangan berwenang mengusahakan keseragaman\ndalam pelaksanaan tugas pemeriksa dan pengawasan dari badan-badan\ndan\ninstansi-instansi yang mempunyai tugas pemeriksaan dan\npengawasan atas penguasaan dan pengurusan keuangan Negara dalam\nbidangnya\nmasing-masing."
+   }
+  },
+  {
+   "id": "ID-H261-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB V."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 26.\nBadan Pemeriksa Keuangan berwenang memberi keterangan kepada\nPresiden, Dewan Perwakilan Rakyat dan/atau Menteri-menteri yang\nbersangkutan\ntentang kekurangan-kekurangan dan\npenyelewengan-penyelewengan dalam penguasaan dan pengurusan\nkeuangan Negara yang perlu diketahuinya\nuntuk segera diakhiri dan\ndiambil tindakan-tindakan perbaikan."
+   }
+  },
+  {
+   "id": "ID-H261-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB V."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 27.\n(1) Badan Pemeriksa Keuangan dalam melaksanakan tugasnya\nberwenang meminta bantuan yang diperlukan dari instansi-instansi\nPemerintah\ndi manapun juga.\n(2) Instansi-instansi Pemerintah tersebut pada ayat (1) wajib\nmemberikan bantuannya kepada Badan Pemeriksa Keuangan."
+   }
+  },
+  {
+   "id": "ID-H261-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB V."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 28.\nSelain daripada pegawai-pegawai yang pada umumnya diwajibkan\nmenyidik tindak pidana, Badan Pemeriksa Keuangan berwenang juga\nuntuk\nmengadakan penyidikan tindakan-tindakan pidana yang\nditentukan dalam pasal 31."
+   }
+  },
+  {
+   "id": "ID-H261-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB V."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 29.\nDalam hal-hal mendesak menurut keputusan Badan Pemeriksa\nKeuangan, Badan segera dapat melakukan penyidikan dengan menyimpang\ndari\nketentuan-ketentuan pasal 30."
+   }
+  },
+  {
+   "id": "ID-H261-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB V."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 30.\n(1) Apabila pejabat-pejabat dari instansi Negara, Perusahaan\nNegara/Daerah dan Perusahaan-perusahaan Negara/Daerah-Swasta\nwalaupun\ntelah diperingatkan tiga kali oleh Badan Pemeriksa\nKeuangan belum juga memenuhi permintaan untuk memberi keterangan\nmenurut pasal\n23, maka sebelum Badan menjalankan hak penyidikannya\nmenurut pasal 28, Badan:\na. melaporkan hal itu kepada Presiden agar diambil tindakan jika\nyang tidak memberi keterangan adalah pejabat Negara;\nb. mengusulkan tindakan-tindakan tertentu yang mengikat, seperti\nditentukan dalam Undang-undang Pokok Kepegawaian kepada Menteri\natau pejabat yang berwenang untuk mengangkatnya, jika yang\nbersangkutan adalah pegawai Negeri;\nc. menjeratkan pada usul termaksud dalam sub b di atas suatu\njangka waktu dalam mana tindakan sudah harus dilaksanakan.\nApabila jangka waktu dilampaui, Badan Pemeriksa Keuangan\nberwenang melakukan penyidikan.\nJangka waktu itu tidak boleh lebih dari satu bulan.\n(2) Apabila yang bersangkutan adalah orang lain daripada yang\ntermaksud dalam ayat (1) sub a dan b, walaupun telah diberikan\nperingatan\ntiga kali, belum juga memenuhi permintaan untuk memberi\nketerangan kepada Badan Pemeriksa Keuangan, terhadap orang ini\nBadan menjalankan\nwewenang penyidikan menurut ketentuan pasal\n28."
+   }
+  },
+  {
+   "id": "ID-H261-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB V."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 31.\n(1) Barang siapa yang dengan melawan hukum menghindarkan diri\nuntuk memberikan keterangan termaksud pada pasal 23 dipidana dengan\nhukuman penjara selama-lamanya dua tahun dan dengan hukuman denda\nsetinggi-tingginya 20 juta rupiah.\n(2) Barang siapa dengan sengaja tidak memberikan keterangan\ntermaksud pada pasal 23 atau memberikan keterangan palsu, dipidana\ndengan\nhukuman penjara selama-lamanya lima tahun dan dengan hukuman\ndenda setinggi-tingginya 50 juta rupiah.\n(3) Perbuatan tersebut pada ayat (1) dan (2) adalah\nkejahatan."
+   }
+  },
+  {
+   "id": "ID-H261-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB V."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 32.\n(1) Barang siapa yang diangkat dalam sesuatu jabatan Negara oleh\nPresiden, Menteri, Badan Negara atau pejabat lain yang berwenang\nuntuk mengangkatnya, yang karena perbuatannya melanggar hukum atau\nmelalaikan kewajibannya sehingga merugikan Negara baik secara\nlangsung maupun tidak langsung, kerugian mana disebabkan karena\nperbuatan/kelalaian bukan sebagai bendaharawan, harus mengganti\nkerugian\nitu.\n(2) Tuntutan ganti-rugi termaksud pada ayat (1) dilakukan dan\ndiputuskan oleh Badan Pemeriksa Keuangan menurut\nketentuan-ketentuan\nyang ditetapkan dalam Peraturan Pemerintah.\n(3) Keputusan Badan Pemeriksa Keuangan termaksud pada ayat (2)\nmempunyai kekuatan sebagai keputusan pengadilan yang telah\nmempunyai\nkekuatan hukum yang tetap."
+   }
+  },
+  {
+   "id": "ID-H261-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB V."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 33.\nBarang siapa dengan sengaja mempergunakan keterangan yang\ndiperolehnya pada waktu menunaikan tugas Badan Pemeriksa Keuangan,\ndengan\nmelampaui batas tugas itu, dipidana dengan hukuman penjara\nselama-lamanya 6 tahun dan dengan hukuman denda setinggi-tingginya\n60\njuta rupiah."
+   }
+  },
+  {
+   "id": "ID-H261-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB V."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 34.\nSebelum diambil keputusan Badan Pemeriksa Keuangan memberi\nkesempatan kepada yang bersangkutan untuk membela diri.\nBAB VI.\nBAGIAN-BAGIAN DAN ALAT KELENGKAPAN BADAN PEMERIKSA KEUANGAN."
+   }
+  },
+  {
+   "id": "ID-H261-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB VI."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 35.\n(1) Dalam melaksanakan tugasnya Badan Pemeriksa Keuangan\nmempunyai Bagian-bagian yang bidangnya diselaraskan dengan susunan\nAnggaran\nMoneter.\n(2) Peraturan Tata-tertib dan Tata-kerja Badan Pemeriksa\nKeuangan ditetapkan dengan Peraturan Pemerintah.\n(3) Keputusan Badan Pemeriksa Keuangan diambil secara musyawarah\nuntuk mufakat sesuai dengan Ketetapan Majelis Permusyawaratan\nRakyat\nSementara No. VIII/MPRS/1965."
+   }
+  },
+  {
+   "id": "ID-H261-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB VI."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 36.\n(1) Badan Pemeriksa Keuangan mempunyai suatu Sekretariat yang\ndipimpin oleh seorang Sekretaris Umum yang diangkat dan\ndiberhentikan\noleh Presiden untuk masa jabatan lima tahun.\nSekretaris Umum sesudah masa jabatannya berakhir dapat diangkat\nkembali.\n(2) Susunan Sekretariat termaksud pada ayat (1) diatur dengan\nKeputusan Presiden.\nBAB VII.\nANGGARAN PENDAPATAN DAN BELANJA BADAN PEMERIKSA KEUANGAN."
+   }
+  },
+  {
+   "id": "ID-H261-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB VII."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 37.\nDalam Anggaran Pendapatan dan Belanja Negara disediakan bagian\nanggaran tersendiri bagi Badan Pemeriksa Keuangan yang\nkredit-kredit\nanggarannya cukup untuk melakukan tugas dan\nwewenangnya.\nBAB VIII.\nKETERANGAN KHUSUS."
+   }
+  },
+  {
+   "id": "ID-H261-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38"
+   },
+   "chapter": {
+    "id": "BAB VIII."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 38.\nAnggota alat kekuasaan Negara yang menahan seorang yang disangka\nmelakukan penyelewengan-penyelewengan dalam penguasaan dan\npengurusan\nkeuangan Negara dalam waktu 24 jam wajib melaporkan\npenahanan itu kepada Menteri-menteri yang bersangkutan dan Badan\nPemeriksa Keuangan.\nBAB IX.\nKETENTUAN PERALIHAN."
+   }
+  },
+  {
+   "id": "ID-H261-A39",
+   "no": 39,
+   "noLabel": {
+    "id": "Pasal 39"
+   },
+   "chapter": {
+    "id": "BAB IX."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 39.\nSelama susunan Badan Pemeriksa Keuangan belum memenuhi\nketentuan-ketentuan termaksud dalam pasal-pasal 4, 6 dan 9\nUndang-undang ini,\nmaka Badan Pemeriksa Keuangan yang ada pada\nwaktu mulai berlakunya Undang-undang ini menjalankan tugasnya\nsampai ada keputusan lebih\nlanjut dari Presiden.\nBAB X.\nKETENTUAN-KETENTUAN PENUTUP."
+   }
+  },
+  {
+   "id": "ID-H261-A40",
+   "no": 40,
+   "noLabel": {
+    "id": "Pasal 40"
+   },
+   "chapter": {
+    "id": "BAB X."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 40.\nHal-hal lain mengenai Badan Pemeriksa Keuangan yang belum diatur\ndengan Undang-undang ini diatur lebih lanjut dengan peraturan\nperundang-undangan\nmenurut pokok yang akan diatur."
+   }
+  },
+  {
+   "id": "ID-H261-A41",
+   "no": 41,
+   "noLabel": {
+    "id": "Pasal 41"
+   },
+   "chapter": {
+    "id": "BAB X."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 41.\nSemua ketentuan yang bertentangan dengan ketentuan-ketentuan\ndalam Undang-undang ini dengan sendirinya tidak berlaku lagi."
+   }
+  },
+  {
+   "id": "ID-H261-A42",
+   "no": 42,
+   "noLabel": {
+    "id": "Pasal 42"
+   },
+   "chapter": {
+    "id": "BAB X."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 42.\nSegala tindakan dan keputusan Badan Pemeriksa Keuangan yang\ndiambil mulai tanggal 12 Oktober sampai 17 Maret 1965 dinyatakan\nsah berdasarkan\nUndang-undang ini."
+   }
+  },
+  {
+   "id": "ID-H261-A43",
+   "no": 43,
+   "noLabel": {
+    "id": "Pasal 43"
+   },
+   "chapter": {
+    "id": "BAB X."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 43.\n(1) Undang-undang ini mulai berlaku pada hari\ndiundangkannya.\n(2) Undang-undang ini dapat disebut \"Undang-undang Badan\nPemeriksa Keuangan\".\nAgar supaya setiap orang dapat mengetahuinya memerintahkan\npengundangan Undang-undang ini dengan penempatannya dalam\nLembaran-Negara\nRepublik Indonesia.\nDisahkan di Jakarta\npada tanggal 23 Agustus 1965.\nPresiden Republik Indonesia,\nSUKARNO.\nDiundangkan di Jakarta\npada tanggal 23 Agustus 1965.\nSekretaris Negara,\nMOHD. ICHSAN.\nPENJELASAN\nATAS\nUNDANG-UNDANG No. 17 TAHUN 1965\ntentang\nPENETAPAN PERATURAN PEMERINTAH PENGGANTI\nUNDANG-UNDANG No. 6 TAHUN 1964 TENTANG\nPEMBENTUKAN BADAN PEMERIKSA KEUANGAN\n(LEMBARAN NEGARA TAHUN 1964 No. 41)\nMENJADI UNDANG-UNDANG.\nUMUM.\nKetentuan-ketentuan dalam Undang-undang Perbendaharaan Indonesia\n(Indiche Comtabiliteitswet) dan \"Instruksi serta\nketentuan-ketentuan\nlebih lanjut untuk Algemene Rekenkamer\" yang\nberlaku bagi Badan Pemeriksa Keuangan, sudah tidak sesuai lagi\ndengan perkembangan zaman.\nEkonomi terpimpin mengharuskan perencanaan dan pelaksanaan\nsecara teratur. Untuk itu diperlukan suatu Anggaran Pendapatan dan\nBelanja\nNegara dalam bentuk suatu Anggaran Moneter, yang terdiri\ndari Anggaran Pendapatan dan Belanja Routine, Anggaran Pendapatan\ndan Belanja\nPembangunan, Anggaran Devisa, Anggaran Kredit dan\nAnggaran Pendapatan dan Belanja Khusus. Selanjutnya dalam hubungan\npelaksanaan\nharus terjamin penyusunan progress report.\nPelaksanaan ekonomi terpimpin mengharuskan Pemerintah memegang\npimpinan dalam bidang ekonomi, dimana Perusahaan-perusahaan Negara\nharus diperkembangkan hingga mencapai kedudukan komando, yang\nkesemuanya itu menjamin perkembangan revolusi dari tahap nasional\ndemokratis\nuntuk memasuki tahap sosialisme Indonesia. Semuanya ini\nmengharuskan adanya suatu sistim pemeriksaan dan pengawasan yang\ndapat berkerja\nsecara represip maupun preventip, serta adanya suatu\naparatur Negara yang sebagai alat revolusi berkewajiban pula\nmenyelamatkan,\nmempertahankan dan melanjutkan revolusi Indonesia\ndengan meniadakan hambatan-hambatan seperti birokratisme,\nmis-administration dan\nkorupsi, serta mencegah\npemborosan-pemborosan yang merugikan Negara. Kalau hal-hal yang\nbertalian dengan tindakan-tindakan pemeriksaan\ndan pengawasan yang,\ndilakukan oleh Urusan Pengawasan Keuangan pada Departemen Anggaran\nNegara, yang bekerja secara pemeriksaan dan\npengawasan intern dalam\nlingkungan kekuasaan eksekutip sudah diatur dengan Keputusan\nPresiden Republik Indonesia No. 29 tahun 1963\ntentang Pengawasan\nKeuangan Negara, maka kedudukan dan wewenang aparatur Negara yang\ndiberi tugas untuk melaksanakan pemeriksaan\nyang bekerja secara\npemeriksaan yang bekerja secara pemeriksaan dan pengawasan extern\nitu kini perlu ditinjau kembali.\nKeinginan-keinginan untuk menyempurnakan Badan Pemeriksaan\nKeuangan antara lain terjamin di dalam Amanat-amanat Presiden,\nterutama\nwaktu berlangsungnya pelantikan para Pemeriksa Keuangan\nAgung Muda dan para Anggota Badan Pemeriksa Keuangan pada tanggal\n17 Maret\n1965, Deklarasi Ekonomi dan Pidato Ambeg Pararna Arta,\nserta didalam Ketetapan Majelis Permusyawaratan Rakyat Sementara\nNo. II/MPRS/1960\ndan Resolusi Majelis Permusyawaratan Rakyat\nSementara No. I/Res/MPRS/ 1963.\nDidalam pemikiran cara untuk memberikan wewenang yang cukup\nmenyeluruh kepada Badan Pemeriksa Keuangan, dianggap perlu dengan\nketentuan\nUndang-undang diberikan kepadanya Jaminan wewenang untuk\nmelakukan pemeriksaan dan pengawasan sedemikian rupa sehingga juga\nmeliputi\npenelitian dan penyelidikan terhadap tindakan-tindakan\npidana tertentu. Selanjutnya dalam hubungan penyusunan dan\npelaksanaan Anggaran\nPendapatan dan Belanja Negara, Badan Pemeriksa\nKeuangan secara aktip mengikuti sejak semula sebagai salah satu\nbentuk pengintegresian\nkontrol Bdan Pemeriksa Keuangan dibidang\nekonomi dan keuangan.\nUntuk memperbesar daya gerak, daya hasil dan daya guna Badan\nPemeriksa Keuangan dalam melaksanakan pemeriksaan, pengawasan dan\npenelitian\nyang menyeluruh, tokoh-tokoh rakyat yang mendapat\ndukungan masyarakat yang terorganisasi berporoskan NASAKOM duduk\ndidalam Badan\ntersebut hingga dengan demikian terjamin pula sosial\nsupport. sosial control dan sosial participation.\nPASAL DEMI PASAL.\nPasal 1.\nMengingat sangat vitalnya fungsi pemeriksaan dan pengawasan\ndalam rangka ekonomi terpimpin, maka dalam hubungan pembentukan\nsuatu\nBadan Pemeriksaan yang berwibawa, kekuasaan pemeriksaan,\npengawasan dan penelitian tertinggi dipegang langsung oleh Paduka\nYang Mulia\nPresiden/Pemimpin Besar Revolusi.\nPasal 2.\nSebagai dewan Badan Pemeriksa Keuangan merupakan satu badan\nkolektip. Penempatan Badan Pemeriksa Keuangan sebagai Lembaga\nNegara Tertinggi\ndiantara Lembaga Negara Tertinggi lainnya, seperti\nMajelis Permusyawaratan Rakyat, Dewan Perwakilan Rakyat dan Dewan\nPertimbangan\nAgung, dimaksud agar supaya Badan ini berdiri sendiri\ndan tidak terpengaruh oleh kekuasaan eksekutip dan agar supaya\ndapat melaksanakan\ntugas pemeriksaan, pengawasan dan penelitian\nyang efektip.\nPasal 3.\nDengan keuangan Negara tidak hanya dimaksud uang negara, tetapi\nseluruh kekayaan Negara, termasuk didalamnya segala bagian-bagian\nharta milik kekayaan itu dan segala hak serta kewajiban yang timbul\nkarenanya, baik kekayaan itu berada dalam penguasaan dan pengurusan\npada pejabat-pejabat dan /atau Lembaga-lembaga yang termasuk\nPemerintahan Umum maupun berada dalam penguasaan dan pengurusan\nBank-bank\nPemerintah, Yayasan-yayasan Pemerintah, dengan status\nhukum publik ataupun perdata, Perusahaan-perusahaan Negara dan\nperusahaan-perusahaan\ndan usaha-usaha dimana Pemerintah mempunyai\nkepentingan khusus serta dalam penguasaan dan pengurusan pihak lain\nmanapun juga berdasarkan\nperjanjian dengan penyertaan (partisipasi)\nPemerintah ataupun penunjukan dari Pemerintah.\nDisamping pemeriksaan, pengawasan dan penelitian atas penguasaan\ndan pengurusan kekayaan Negara, Badan Pemeriksa Keuangan melakukan\npula pemeriksaan, pengawasan dan penelitian atas kekayaan pihak\nketiga yang dipercayakan dan/atau dikuasai dan/atau diurus oleh\nNegara.\nPasal 4\nLihat penjelasan pasal 6 ayat (2).\nPasal 5.\nHakekat bentuk dewan bagi Badan Pemeriksa Keuangan adalah, bahwa\nBadan sebagai badan kolektip merupakan satu kesatuan dalam\nmelaksanakan\ntugas yang wewenangnya, oleh karenanya\nkeputusan-keputusan harus diambil secara kolektip.\nPasal 6.\n(1) Ketua yang ditunjuk dan diangkat oleh Presiden adalah Angota\nBadan Pemeriksa Keuangan.\n(2) Pokoknya prinsip-prinsip ayat ini meliputi tiga persoalan,\nyaitu :\na. komposisi dan jumlah anggota dari Badan Pemeriksa Keuangan\nkeseluruhannya yang merupakan kegotong-royongan Nasional\nberporoskan\nNASAKOM dan berjumlah sebanyak-banyaknya 21 orang;\nb. komposisi NASAKOM dari Pimpinan Badan Pemeriksa Keuangan itu\nsendiri;\nc. Pengintegrasian antara Pemerintah dan Rakyat yang terorganisasi\ndan antara Pimpinan Badan Pemeriksaan Keuangan dan para anggota\nBadan Pemeriksa Keuangan itu sendiri, sehingga merupakan satu\nkesatuan yang kolektip dan bulat serta mendapatkan dukungan dari\nmasyarakat.\nPasal 7.\n(1) Cukup jelas.\n(2) Cukup jelas.\nPasal 8.\nCukup jelas.\nPasal 9.\n(1) huruf c : Sifat dan watak Panca Sila, Sosialisme Indonesia\ndan Demokrasi Terpimpin justru selalu mendahulukan kepentingan\numum,\nkepentingan Negara,kepentingan obyektif daripada Revolusi,\nmemerangi kemaksiatan egosentrisme, yang menjadi dasar pandangan\nhidup\nindividualisme, liberalisme dan sistim demokrasi liberal,\nyang harus kita hancur leburkan sampai habis.\n(2) Cukup jelas.\nPasal 1O.\n(1) Cukup jelas.\n(2) Cukup jelas.\nPasal 11.\n(1) Cukup jelas.\n(2) Cukup jelas.\nPasal 12.\n(1) Cukup jelas.\n(2) Cukup jelas.\nPasal 13.\nCukup jelas.\nPasal 14.\n(1) Cukupjelas.\n(2) Dengan pemberian tunjangan tambahan berupa tunjangan khusus\nkepada para pegawai Badan Pemeriksa Keuangan diharapkan agar supaya\nmereka dapat bekerja dengan lebih baik, pun diharapkan agar\nproduktivitet mereka dapat meningkat, mengingat tugas kewajiban\nBadan\nPemeriksa Keuangan yang begitu berat dan luas.\nYang terpenting dalam pemberian tunjangan khusus ini adalah agar\nsupaya para pegawai Badan Pemeriksa Keuangan sendiri yang mempunyai\ntugas pemeriksa, mengawasi dan meneliti penguasaan dan pengurusan\nkeuangan Negara dapat menjalankan tugasnya dengan tenang.\nPasal 15.\n(1) Cukup jelas.\n(2) Cukup jelas.\nPasal 16.\n(1) Cukup jelas.\n(2) Cukup jelas.\n(3) Cukup jelas.\n(4) Cukup jelas.\nPasal 17.\nCukup jelas.\nPasal 18.\n(1) Cukupjelas.\n(2) Cukupjelas.\nPasal 19.\nCukup jelas.\nPasal 20.\nDengan tenaga-tenaga diluar Badan dimaksudkan tenaga-tenaga yang\ndiperlukan oleh Badan-badan baik dari instansi-instansi Negara\nmaupun\ndari kalangan masyarakat.\nPasal 21.\n(1) Cukup jelas.\n(2) Cukup jelas.\n(3) Cukup jelas.\nPasal 22.\n(1) Pada hakekatnya kebijaksanaan dalam bidang keuangan Negara\ntidak dapat dipisahkan dari kebijaksanaan dalam bidang ekonomi.\nSehubungan dengan itu pemeriksaan, pengawasan dan penelitian\nyang menjadi tugas Badan Pemeriksa Keuangan harus dilakukan dengan\nsempurna.\nKarenanya pelaksanaan tugas itu harus diintegrasikan\ndengan kebijaksanaan Negara dalam bidang Ekonomi dan Keuangan. Atas\ndasar itu\nmaka Badan Pemeriksa Keuangan diberi wewenang untuk\nsewaktu-waktu memberi pendapatnya kepada Presiden tentang\nakibat-akibat dari\ntindakan-tindakan Pemerintah dalam bidang\nEkonomi dan Keuangan.\n(2) Cukup jelas.\nPasal 23.\nCukup jelas.\nPasal 24.\n(1) Yang dimaksudkan dengan badan-badan dan instansi-instansi\ndalam pasal ini ialah antara lain yang dibentuk berdasarkan\nKeputusan\nPresiden No. 29 tahun 1963 dan Undang-undang No. 19 Prp\ntahun 1960.\n(2) Cukup jelas.\nPasal 25.\nTidak dapat disangkal bahwa masing-masing instansi hingga kini\nmempunyai cara-cara sendiri untuk melaksanakan tugas pemeriksaan\ndan\npengawasan. Oleh karena itu dianggap perlu untuk mengusahakan\nadanya keseragaman dalam pelaksanaan tugas pemeriksaan dan\npengawasan\ntersebut.\nPasal 26.\nPaduka Yang Mulia Presiden/Pemimpin Besar Revolusi dalam\namanatnya pada upacara pelantikan Anggota-anggota Badan Pemeriksa\nKeuangan\nmemerintahkan agar penyakit-penyakit revolusi, yaitu\nbirokratisme, misadministration dan korupsi disingkirkan dari\nrevolusi kita.\nDalam hubungan itu adalah wajar bahwa Badan\nPemeriksa Keuangan berwenang untuk memberikan pendapatnya kepada\nPresiden, Dewan Perwakilan\nRakyat dan/atau Menteri, bila dalam\nmenjalankan tugas pemeriksaan, pengawasan dan penelitian terdapat\nbukti-bukti yang meyakinkan,\nbahwa pada badan-badan dan\ninstansi-instansi yang bersangkutan ada terdapat\nkekurang-kekurangan dan/atau penyelewengan-penyelewengan\ndalam\npenguasaan dan pengurusan keuangan Negara yang perlu diketahuinya\nuntuk segera diakhiri dan diambil tindakan.\nPasal 27.\nYang dimaksud dengan bantuan dalam pasal ini ialah antara lain\nmerupakan pemberian fasilitas-fasilitas oleh instansi-instansi yang\nberwenang termasuk bantuan Angkatan Bersenjata untuk memungkinkan\nBadan Pemeriksa Keuangan menjalankan tugas dengan\nsebaik-baiknya.\nPasal 28.\nWewenang untuk menyelidik dianggap perlu diberikan kepada Badan\nPemeriksa Keuangan karena sifat khususnya dari tugas Badan ini\nsehingga\nmemerlukan tindakan-tindakan yang cepat dan tepat dalam\nmenghadapi penyelesaian tindakan pidana yang dimaksud dalam\npasal 31 Undang-undang ini.\nPasal 29.\nMungkin Badan Pemeriksa Keuangan pada suatu ketika menghadapi\nsuatu situasi yang tidak mengijinkan Badan demi kepentingan\npemeriksaan\nmengikuti prosedur melalui peringatan-peringatan\nseperti ditetapkan dalam pasal 30, misalnya apabila seseorang yang\ndimintakan keterangan\nberusaha untuk meninggalkan Indonesia.\nOleh karena itu dengan pasal ini diberi jaminan agar dalam\nhal-hal yang mengkhawatirkan semacam itu Badan dapat bertindak\nsecara cepat\ndan tepat.\nPasal 30.\n(1) Sebelum Badan Pemeriksa Keuangan menjalankan penyelidikan\nuntuk mendapatkan keterangan-keterangan seperti yang dimaksud pasal\n23 Badan menempuh prosedur memberi peringatan dengan jangka waktu\nyang pantas sampai tiga kali. Apabila peringatan yang ketiga\nkalinya\ntidak dihiraukan sebagaimana mestinya, maka Badan Pemeriksa\nKeuangan dengan jangka waktu yang tidak boleh lebih dari satu bulan\nmengusulkan\nkepada Menteri atau pejabat yang berwenang untuk\nmelakukan tindakan-tindakan administratip terhadap yang\nbersangkutan.\nDalam hal yang bersangkutan adalah Pejabat Negara (Menteri,\nAnggota-anggota Lembaga Negara Tertinggi yaitu Majelis\nPermusyawaratan\nRakyat. Dewan Perwakilan Rakvat, Dewan Pertimbangan\nAgung dan Badan Pemeriksa Keuangan), Badan Pemeriksa Keuangan\nmelaporkan hal\ntersebut kepada Presiden.\n(2) Cukup jelas.\nPasal 31.\n1) dan (2) :\nMengingat perlunya daya pencegah yang efektip, terhadap tindak\npidana yang merugikan Negara, maka agar supaya masyarakat insaf\nbenar,\nperbuatan-perbuatan yang sedemikian itu perlu diancam dengan\nhukuman yang berat.\n(3) Cukup jelas.\nPasal 32.\n(1) Pejabat bersangkutan baru dapat dituntut, apabila :\na. apa yang dipersalahkan kepadanya, yaitu perbuatan melanggar\nhukum atau melalaikan kewajiban, ada hubungannya dengan pelaksanaan\nfungsinya ataupun dengan statusnya sebagai pejabat;\nb. ia dalam hal ini bukan berkedudukan sebagai bendaharawan;\nc. Negara baik secara langsung maupun tidak langsung telah\ndirugikan oleh perbuatan kelalaian itu.\nDalam pada itu pejabat bersangkutan bukan saja bertanggung jawab\natau kerugian sebagai akibat kelalaiannya, yaitu dalam arti tidak\nmelakukan suatu tindakan yang diwajibkan, akan tetapi juga atas\ntindakan-tindakan yang salah ataupun kurang sempurna.\n(2) Sampai kini tuntutan ganti-rugi termaksud dilakukan dan\ndiputuskan oleh Menteri yang bersangkutan, sedangkan tuntutan\nbendaharawan\ndilakukan dan diputuskan oleh Badan Pemeriksa\nKeuangan.\nDipandang lebih tepat untuk menjatuhkan kedua tuntutan serta\nkeputusanya satu tangan, yaitu dalam tangan Badan Pemeriksa\nKeuangan.\n(3) Cukup jelas.\nPasal 33.\nKetentuan dalam pasal ini berlaku untuk seluruh anggota-anggota\ntermasuk Pimpinan Badan Pemeriksa Keuangan, pejabat-pejabat pada\nBadan\nPemeriksa Keuangan dan tenaga-tenaga yang ditugaskan dalam\nrangka pelaksanaan tugas Badan Pemeriksa Keuangan. Kata-kata\n\"dengan melampaui\nbatas\" diartikan bahwa seseorang- seperti\ntersebut diatas mengunakan keterangan-keterangan yang dimaksud,\nuntuk kepentingan-kepentingan\nyang merugikan kepentingan\npelaksanaan tugas Badan Pemeriksa Keuangan.\nPasal 34.\nPasal ini maksudnya tidak lain hanya, menekankan sekali lagi hak\nazasi daripada tiap-tiap orang untuk membela diri apabila ia\ndipersalahkan,/dituntut\nkarena sesuatu.\nPasal 35.\n(1) Kata \"diselaraskan\" dlama ayat ini, tidak berarti bahwa\nbagian-bagian dalam Badan Pemeriksa Keuangan sama seperti\nBagian-bagian\nAnggaran Moneter. Maksudnya ialah untuk memungkinkan\nBadan Pemeriksa Keuangan membangun satu aparatur kontrol yang baru\ndan yang\nbisa bekerja aktip, efektip dan efisien.\n(2) Cukup jelas.\n(3) Cukup jelas.\nPasal 36.\n(1) Cukup jelas.\n(2) Cukup jelas.\nPasal 37.\nMengingat kedudukan serta luasnya tugas dari Badan Pemeriksa\nKeuangan, maka sudah tepatlah bahwa Badan mempunyai bagian Anggaran\ntersendiri.\nPenguasaan atas kredit-kredit yang disediakan dalam bagian\nangaran yang termaksud dalam pasal ini, dilakukan dengan cara\nseperti yang\nberlaku bagi suatu Department.\nPasal 38.\nMenteri-menteri yang dimaksud dalam pasal ini adalah Menteri\ndari alat-alat kekuasaan Negara yang menahan dan Menteri dari\npejabat\nyang ditahan.\nPasal 39.\nCukup jelas.\nPasal 40.\nCukup jelas.\nPasal 41.\nCukup jelas.\nPasal 42.\nTanggal 12 Oktober 1963 adalah tanggal mulai berlakunya\nPeraturan Pemerintah Pengganti Undang-undang No. 7 tahun 1963 dan\ntanggal\n17 Maret 1965 adalah tanggal pelantikan anggota-anggota\nPimpinan dan para anggota Badan Pemeriksa Keuangan berdasarkan\nPeraturan\nPemerintah Pengganti Undang-undang No. 6 tahun 1964.\nPasal 43.\nCukup jelas.\nMengetabui\nSekretaris Negara,\nMOHD. ICHSAN.\n--------------------------------\nCATATAN\nKutipan: LEMBARAN NEGARA DAN TAMBAHAN LEMBARAN NEGARA TAHUN 1965\nYANG TELAH DICETAK ULANG"
+   }
+  }
+ ]
+}

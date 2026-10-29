@@ -1,0 +1,82 @@
+{
+ "id": "PH-H13004",
+ "title": {
+  "zh": null,
+  "en": "An Act Confirming Existing Legislation Prohibiting Slavery, Involuntary Servitude, and Peonage in the Philippine Islands, Subject to Modifications as Provided in Sections Two Hundred and Sixty-Eight, Two Hundred and Sixty-Nine, Two Hundred and Seventy, and Two Hundred and Seventy-One of the Act of the Congress of the United states Approved March Fourth, Nineteen Hundred and Nine, Entitled \"An Act to Codify, Revise, and Amend the Penal Laws of the United states,\" and Adopting Measures for Preventing VIolations of Said Laws.",
+  "orig": "An Act Confirming Existing Legislation Prohibiting Slavery, Involuntary Servitude, and Peonage in the Philippine Islands, Subject to Modifications as Provided in Sections Two Hundred and Sixty-Eight, Two Hundred and Sixty-Nine, Two Hundred and Seventy, and Two Hundred and Seventy-One of the Act of the Congress of the United states Approved March Fourth, Nineteen Hundred and Nine, Entitled \"An Act to Codify, Revise, and Amend the Penal Laws of the United states,\" and Adopting Measures for Preventing VIolations of Said Laws."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1913-11-28",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2300",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 3645,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1913/act_2300_1913.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02300_1913_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02300_1913_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13004-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Nothing provided in the existing legislation shall be understood or construed as directly or\nindirectly permitting slavery, involuntary servitude, and peonage in the Philippine Islands. Subject to the\nmodifications provided in the next following section, the provisions of law prohibiting and punishing slavery,\ninvoluntary servitude, and peonage contained in any laws, orders, ordinances, decrees, instructions or\nregulations promulgated during Spanish Government and applicable to the Philippine Islands, are hereby\nconfirmed and ratified."
+   }
+  },
+  {
+   "id": "PH-H13004-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The provisions of sections two hundred and sixty-eight, two hundred and sixty-nine, two\nhundred and seventy, and two hundred and seventy-one of the Act of the Congress of the United States\napproved on March fourth, nineteen hundred and nine, entitled \"An Act to codify, revise, and amend the penal\nlaws of the United States,\" are hereby adopted, with the necessary modifications, as if they had been enacted\nby the Philippine Legislature, to be in force within the territory subject to the jurisdiction of said Legislature,\nso that said sections, as modified, shall read as follows:\n(a) Whoever kidnaps or carries away any other person, with the intent that such other person be sold into\ninvoluntary servitude, or held as a slave; or who entices, persuades, or induces any other person to go on\nboard any vessel or to any other place with the intent that he may be made or held as a slave, or sent out of the\ncountry to be so made or held; or who in any way knowingly aids in causing any other person to be held, sold,\nor carried away to be held or sold as a slave, shall be fined not more than ten thousand pesos, or imprisoned\nnot more than five years, or both.\n(b) Whoever holds, arrests, returns, or causes to be held, arrested, be fined not more than ten thousand pesos,\nor imprisoned not more than five years, or both.\n(c) Whoever obstructs, or attempts to obstruct, or in any way interferes with or prevents the enforcement of\nthe section last preceding, shall be liable to the penalties therein prescribed.\n(d) Whoever shall knowingly and willfully bring into the Philippine Islands or any place subject to the\njurisdiction thereof, any person inveigled or forcibly kidnapped in any other country, with intent to hold such\nperson so inveigled or kidnapped in confinement or to any involuntary servitude; or whoever shall knowingly\nand willfully sell, or cause to be sold, into any condition of involuntary servitude, any other person for any\n\nterm whatever; or whoever shall knowingly and willfully hold to involuntary servitude any person so brought\nor sold, shall be fined not more than ten thousand pesos and imprisoned not more than five years."
+   }
+  },
+  {
+   "id": "PH-H13004-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "It shall be the duty of the provincial governor of every province organized under Act Numbered\nEighty-three of the Philippine Commission to obtain information and take all measures that in his judgment\nmay be proper to forestall and thereafter to prevent any violations of this Act, and in case such violations have\nbeen committed, to order immediate prosecution. It shall also be the duty of the provincial governor to order,\nwhere necessary, the institution of habeas corpus proceedings, and he may apply to the provincial fiscal, and\nin his default to the proper court, for the designation of a lawyer to protect the rights of the person or persons\nfor whose benefit the habeas corpus proceedings shall have been brought, and no fees shall be charged for\nsuch services and the costs shall in every case be de officio."
+   }
+  },
+  {
+   "id": "PH-H13004-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "The Courts of First Instance shall have original jurisdiction over all cases for violations of this\nEnacted, November 28, 1913."
+   }
+  }
+ ]
+}

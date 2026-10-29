@@ -1,0 +1,62 @@
+{
+ "id": "PH-H14848",
+ "title": {
+  "zh": null,
+  "en": "An Act Appropriating the Sum of Twenty-Five Thousand Pesos for the Expenses of the Inauguration of the Government of the Commonwealth of the Philippines.",
+  "orig": "An Act Appropriating the Sum of Twenty-Five Thousand Pesos for the Expenses of the Inauguration of the Government of the Commonwealth of the Philippines."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1935-11-06",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 4257",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 375,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1935/act_4257_1935.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_04257_1935_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_04257_1935_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14848-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The sum of twenty-five thousand pesos, or so much thereof as may be necessary, is hereby\nappropriated out of the general funds in the Insular Treasury not otherwise appropriated, to cover the expenses\nnecessary or incidental to the inauguration of the Government of the Commonwealth of the Philippines."
+   }
+  },
+  {
+   "id": "PH-H14848-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, November 6, 1935."
+   }
+  }
+ ]
+}

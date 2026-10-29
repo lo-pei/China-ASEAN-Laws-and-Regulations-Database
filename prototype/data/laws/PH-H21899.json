@@ -1,0 +1,1162 @@
+{
+ "id": "PH-H21899",
+ "title": {
+  "zh": null,
+  "en": "Enacting a Real Property Tax Code",
+  "orig": "Enacting a Real Property Tax Code"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p159",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1974-06-01",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 464",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 112,
+ "chars": 101584,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_00464_1974_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 112 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_00464_1974_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H21899-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Scope. This Code shall govern the appraisal and assessment of real property for purposes of\ntaxation by provinces, cities and municipalities, as well as the levy, collection and administration of real\nproperty tax."
+   }
+  },
+  {
+   "id": "PH-H21899-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Fundamental Principles. The appraisal and assessment of real property for taxation purposes\nshall be guided by the following fundamental principles:\n1) Real property shall be appraised at its current and fair market value;\n2) The appraisal of real property shall be uniform in each local political subdivision;\n3) Real property shall be classified for assessment purposes on the basis of its actual use;\n4) Real property shall be assessed on the basis of a uniform standard of value within each local political\nsubdivision;\n5) In no case shall the appraisal and assessment of real property for taxation purposes and the collection of the\nreal property tax be let to any private person; and\n6) The goal of property assessment shall be the equitable distribution of the tax burden."
+   }
+  },
+  {
+   "id": "PH-H21899-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "Definition of Terms. When used in this Code\na) Actual use shall refer to the purpose for which the property is principally or predominantly utilized by the\n\npersons in possession of the property.\nb) Ad Valorem tax is a levy on real property determined on the basis of a fixed proportion of the value of the\nc) Agricultural land devoted principally to the raising of crops such as rice, corn, sugar cane, tobacco,\ncoconut, etc., or to pasturing, dairying, inland fishery, salt making, and other agricultural uses, including\ntimberlands and forest lands.\nd) Appraisal is the act or process of determining the value of a property as of a specific date for a specific\ne) Assessment the act or process of determining the value of a property, or proportion thereof, subject to tax,\nincluding the discovery, listing and appraisal of properties.\nf) Assessment level is the percentage applied to the market value to determine the taxable or assessed value of\nthe property.\ng) Assessed Value the value placed on taxable property by the assessor for ad valorem tax purposes. The\nassessed value when multiplied by the tax rate will produce the amount of tax due. It is synonymous to\n\"taxable value.\"\nh) Commercial land devoted principally to commercial purposes, and generally for the object of profit.\ni) Depreciated Value the value remaining after deducting depreciation from either the replacement cost or the\nreproduction cost.\nj) Economic life the estimated period over which it is anticipated that a machinery may profitably be utilized.\nk) Improvements Is a valueable addition made to property or an amelioration in its condition, amounting to\nmore than more repairs or replacement of waste, costing labor or capital, and intended to enhance its value,\nbeauty or utility or to adapt it for new or further purposes.\nl) Industrial land developed principally to industry as capital investment.\nm) Machinery shall embrace machines, mechanical contrivances, instruments, appliances and apparatus\nattached to the real estate. It includes the physical facilities available for production, as well as the\ninstallations and appurtenant service facilities, together with all other equipment designed for or essential to\nits manufacturing, industrial or agricultural purposes.\nn) Market value is defined as \"the highest price estimated in terms of money which the property will buy if\nexposed for sale in the open market allowing a reasonable time to find a purchaser who buys with knowledge\nof all the uses to which it is adapted and for which it is capable of being used.\" It is also referred to as `the\nprice which a willing seller would sell and willing buyer would buy, neither being under abnormal pressure.\"\no) Mineral lands are those lands in which minerals exist in sufficient quantity or grade to justify the necessary\nexpenditures to be incurred in extracting and utilizing such minerals.\np) Original cost for newly acquired machinery not yet depreciated and appraised within the year of its\npurchase, refers to the actual cost of the machinery to its present owner (plus the cost of transportation,\nhandling and installation at the present site).\nq) Reassessment the assigning of new assessed values to property, particularly real estate, as the result of a\ngeneral, partial or individual reappraisal of the property.\nr) Remaining economic life the period of time (years) from the date of appraisal to the date when the\nmachinery becomes valueless.\ns) Remaining value the value corresponding to the remaining useful life of the machinery.\nt) Replacement or reproduction cost (new) the cost that would be incurred on the basis of current prices, in\nacquiring an equally desirable substitute property, or the cost of reproducing a new replica property on the\n\nbasis of current prices with the same or closely similar material.\nu) Residential land principally devoted to habitation."
+   }
+  },
+  {
+   "id": "PH-H21899-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "Administration of the Real Property Tax. The Department of Finance shall be primarily\nresponsible for the proper, efficient and effective administration of the real property tax and for this purpose it\na) Evolve a comprehensive system of real property appraisal that will ensure fair and realistic property\nvaluations for taxation purposes;\nb) Establish uniform assessment methods and procedures that will equalize property values in each local\npolitical subdivision:\nc) Ensure that the ad valorem tax on real property shall be just, uniform and equitable;\nd) Adopt the necessary measures that will promote maximum tax collection efficiency at the local levels;\ne) Provide for the optimum utilization by the local governments of the proceeds from the real property tax;\nf) Formulate and adopt policies and procedures that will improve technical skills and develop reasonable\nstandards of performance in the local assessment and treasury services.\nIn order to attain the foregoing objectives, the Secretary of Finance shall exercise direct executive supervision\nover all assessment and treasury officials and personnel in the local governments.\nAPPRAISAL AND ASSESSMENT OF REALPROPERTY"
+   }
+  },
+  {
+   "id": "PH-H21899-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "text": {
+    "en": "Appraisal of Real Property All real property, whether taxable or exempt, shall be appraised at the\ncurrent and fair market value prevailing in the locality where the property is situated."
+   }
+  },
+  {
+   "id": "PH-H21899-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "text": {
+    "en": "Declarations of Real Property by Owner or Administrator It shall be the duty of all persons,\nnatural or juridical, owning or administering real property, including the improvements therein, within a city\nor municipality, or their duly authorized representative, to prepare, or cause to be prepared, and file with the\nprovincial or city assessor, a sworn statement declaring the true value of their property, whether previously\ndeclared or undeclared, taxable or exempt, which shall be the current and fair market value of the property, as\ndetermined by the declarant. Such declaration shall contain a description of the property sufficient in detail to\nenable the assessor or his deputy to identify the same for assessment purposes. The sworn declaration of real\nproperty herein referred to shall be filed with the assessor concerned once every five years during the period\nfrom January first to June thirtieth, commencing with the calendar year 1977, unless required earlier by the\nSecretary of Finance."
+   }
+  },
+  {
+   "id": "PH-H21899-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7"
+   },
+   "text": {
+    "en": "Declaration of Real Property by the Assessor When any person, natural or juridical, by whom\nreal property is required to be declared under Section six hereof refuses or fails for any reason to make such\ndeclaration within the time prescribed, the provincial or city assessor shall himself declare the property in the\nname of the defaulting owner, if known, or against an unknown owner, as the case may be, and shall assess\nthe property for taxation in accordance with the provisions of this Code. No oath shall be required of a\ndeclaration thus made by the provincial or city assessor."
+   }
+  },
+  {
+   "id": "PH-H21899-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8"
+   },
+   "text": {
+    "en": "Listing of Real Property in the Assessment Rolls. In every province and city, there shall be\nprepared and maintained by the provincial or city assessor an assessment roll wherein shall be listed all real\nproperty, whether taxable or exempt, located within the province or city. Real property shall be listed and\nvalued in the name of the owner or administrator, or anyone having legal interest in the property.\nThe undivided real property of a deceased person may be listed and valued in the name of the estate, or of the\nheirs and devisee without designating them individually; and undivided real property other than owned by a\ndeceased may be listed and valued in the name of one or more co-owners; Provided; however, That such heir,\n\ndevisee or co-owner shall be liable severally for all obligations imposed by this Code and for the payment of\nthe real property tax with respect to the undivided property.\nThe real property of a corporation, partnership or association shall be entered and assessed in the same manner\nas that of an individual.\nReal property owned by the Republic of the Philippines, its political subdivisions and any government-owned\ncorporation so exempt by its charter, the beneficial use of which has been granted, for consideration or\notherwise, to a taxable person, shall be listed for purposes of taxation in the name of the grantee, or of the\npublic entity if such property has been acquired for resale or lease.\nThe assessment roll shall be prepared in accordance with rules and regulations prescribed by the Secretary of"
+   }
+  },
+  {
+   "id": "PH-H21899-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9"
+   },
+   "text": {
+    "en": "Proof of Exemption of Real Property from Taxation. Every person by or for whom real property\nis declared, who shall claim tax exemption for such property under this Code shall file with the provincial or\ncity assessor within thirty days from the date of the declaration of real property sufficient documentary\nevidence in support of such claim, including corporate charters, titles or ownerships, articles of incorporation,\nby-laws, contracts, affidavits and certifications and mortgage deeds, and similar documents.\nIf the required evidence is not submitted within the period herein prescribed, the property shall be listed as\ntaxable in the assessment roll. However, it shall be proven to be tax exempt the same shall be dropped from\nthe roll of taxable properties."
+   }
+  },
+  {
+   "id": "PH-H21899-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10"
+   },
+   "text": {
+    "en": "Real property Identification System. All declarations of real property made under the\nprovisions of this Code shall be kept and filed under a uniform identification system to be established by the\nprovincial of city assessors in accordance with the rules and regulations to be prescribed by the Secretary of"
+   }
+  },
+  {
+   "id": "PH-H21899-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11"
+   },
+   "text": {
+    "en": "Notification of Transfer of Real Property Ownership. Any person who shall transfer real\nproperty ownership to another shall notify the assessor of the province or city wherein the property is situated\nwithin sixty days from the date of such transfer. The notification shall include the particulars of the transfer,\ndescription of the property alienated, and the name and address of the transferee."
+   }
+  },
+  {
+   "id": "PH-H21899-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12"
+   },
+   "text": {
+    "en": "Duty of Register of Deeds to Apprise Assessor of Real Property Listed in Registry. To\nascertain whether or not any real property entered in the Registry of Property has escaped discovery and\nlisting for the purpose of taxation, the Register of Deeds shall prepare and submit to the provincial or city\nassessor, within two years from the date of approval of this Code an abstract of his registry, which shall\ninclude brief but sufficient description of the real properties entered therein, their present owners and the dates\nof their most recent transfer or alienation's accompanied by copies of corresponding deeds of sale, donation or\npartition or other form of alienation.\nIt shall also be the duty of the Register of Deeds to require every person who shall present for registration a\ndocument of transfer, alienation or encumbrance of real property to accompany the same with a certificate to\nthe effect that the real property subject of the transfer, alienation or encumbrance, as the case may be, has\nbeen fully paid of all real property taxes due thereon. Failure to provide such certificate shall be a valid cause\nfor the Register of Deeds to refuse the registration of the document."
+   }
+  },
+  {
+   "id": "PH-H21899-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13"
+   },
+   "text": {
+    "en": "Duty of Official Issuing Building Permit or Certificates of Registration of Machinery to\nTransmit Copy to Assessor. Any public official or employee who may now or hereafter be required by law or\nregulation to issue to any person a permit for the construction, addition, repair or renovation of a building or\npermanent improvement, on land, or a certificate or registration for any machinery, including machines,\nmechanical contrivances, and apparatus, attached or affixed on land, or to another real property shall transmit\na copy of such permit or certificate, within thirty days of its issuance, to the assessor of the province or city\nwherein the property is situated."
+   }
+  },
+  {
+   "id": "PH-H21899-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14"
+   },
+   "text": {
+    "en": "Duty of Surveyors to Furnish Copy of Plans to Assessors. It shall be the duty of all surveyors,\npublic or private, to furnish free of charge to the assessor of the province or city where the land is located with\na white or blue print copy of each of all approved original or subdivision plans or maps of surveys executed\nby them within thirty days from receipt of such plans from the Bureau of Land or Land Registration\nCommission or the National Urban Planning Commission, as the case may be."
+   }
+  },
+  {
+   "id": "PH-H21899-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15"
+   },
+   "text": {
+    "en": "Preparation of Schedule of Values. - Before any general revision of property assessments is\nmade, as provided in this Code, there shall be prepared for the province or city a Schedule of Market Values\nfor the different classes of real property therein situated in such form and detail as shall be prescribed by the\nSecretary of Finance.\nSaid schedule, together with an abstract of the data on which it is based, shall be submitted to the Secretary of\nFinance for review not later than the thirty-first day of December immediately preceding the calendar year the\ngeneral revision of assessments shall be undertaken. The Secretary of Finance shall have ninety days from the\ndate or receipt within which to review said schedule to determine whether it conforms with the provisions of"
+   }
+  },
+  {
+   "id": "PH-H21899-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16"
+   },
+   "text": {
+    "en": "Authority of Assessor to Take Evidence. For the purpose of obtaining information on which to\nbase the market value of any real property, the provincial or city assessor, or his deputy, may summon\nwitnesses, administer oaths and take deposition, concerning the property, its ownership, amount, nature and"
+   }
+  },
+  {
+   "id": "PH-H21899-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17"
+   },
+   "text": {
+    "en": "Amendment of Schedules of Market Values. For the correction of errors or inequalities in any\nschedule of market values, the provincial or city assessor shall, on his own initiative or upon the direction of\nthe Secretary of Finance, prepare an amendment designed to remedy such errors or inequalities. Such\namendments shall likewise be subject to review by the Secretary of Finance within ninety days from the date\nof receipt thereof."
+   }
+  },
+  {
+   "id": "PH-H21899-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18"
+   },
+   "text": {
+    "en": "Classes of Real Property for Assessment Purposes. For purposes of assessment, real property\nshall be classified as residential, agricultural, commercial or industrial and also as mineral in the case of lands.\nMineral lands shall be further classified as follows:\n(a) Metallic mineral lands, which shall include:\n(1) Patented lode mining claims, producing or non-producing;\n(2) Unpatented producing lode mining claims which may be patented;\n(3) Unpatented non-producing the lode mining claims which may be patented;\n(4) Patented placer mining claims, producing or non-producing;\n(5) Unpatented producing placer mining claims which may be patented; and\n(6) Unpatented non-producing placer mining claims which may be patented.\n(b) Non-metallic mineral lands, which shall include:\n(1) Patented, producing or non-producing;\n(2) Unpatented, producing which may be patented; and\n(3) Unpatented, non-producing, which may be patented.\nDefinition of Terms. \"Patented\" mineral lands are those lands covered by a duly issue mineral patent signed\nby the President of the Philippines.\n\"Unpatented\" mineral lands are those lands which were located as mining claims under the provisions of the\nPhilippine Bill of 1902 but are not yet covered by a mineral patent.\n\"Producing patented mineral claims\" are those claims producing minerals for commercial purposes.\n\n\"Non-producing patented mineral claims\" are those claims which are only in the stage of exploration and\ndevelopment and has not produced minerals for commercial production.\nA \"lode mineral claim\" is a parcel of mineral lands containing a vein, lode, ledge, lens, or mass of ore in place\nwhich has been located in accordance with law.\nA \"placer claim\" is that which does not come under the definition of \"lode mineral claim.\"\n\"Placer deposits\" are in loose, fragmentary or broken rocks, boulders, floats, beds or deposits.\n\"Metallic\" deposits are those which contain any of the metallic elements or minerals, or their combination,\nsuch as gold, silver, platinum, tin, chromium, iron, manganese, copper, nickel, lead, zinc cinnabar, tungsten\nand the like.\n\"Non-metallic\" deposits are all other deposits not covered by the above \"metallic\" deposits.\nIn case of conflict between the above definitions and those appearing in the Mining Act as amended, the latter\nshall prevail.\nSpecial Classes of Real Property.\nAll lands, buildings and other improvements thereon, actually, directly and exclusively used for educational,\ncultural, recreational or scientific purposes, as well as hospitals not owned and operated by the government or\nby any of its instrumentalities, shall be classified as special."
+   }
+  },
+  {
+   "id": "PH-H21899-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19"
+   },
+   "text": {
+    "en": "Actual Use of Real Property as Basis for Assessment. Real property shall be assessed on the\nbasis of its actual use regardless of where located and whoever uses it.\nThe Secretary of Finance shall issue guidelines for the proper implementation of the provisions of this"
+   }
+  },
+  {
+   "id": "PH-H21899-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20"
+   },
+   "text": {
+    "en": "Assessment Levels. The assessment levels to be applied to the current market values of real\nproperty for taxation purposes shall be as follows:\na) On Lands The assessment levels in the province or city shall be maintained at the current levels of thirty per\ncent for residential lands; forty per cent for agricultural lands; and fifty per cent for commercial or industrial\nb) Mineral Lands For purposes of taxation, mineral lands not covered by lease shall be appraised at fifty per\ncent of their market value to be determined by the Secretary of Finance upon consultation with the Director of\nMines: Provided, however, that mineral lands covered by leases shall be declared for taxation purposes either\nby the owner of the land or lessee and the assessment level thereof shall be maintained at the current level of\nfifty per cent.\nc) On Buildings, Machineries and other Improvements. The assessment levels now prevailing in the province\nor city shall be maintained but which shall in no case be lower than the assessment levels for lands\nhereinabove prescribed nor more than eighty per cent of the market value, except buildings used exclusively\nfor residential purpose, the assessment levels for which shall be as follows:\nAssessment levelMarket Value\n15% More thanP30,000.00-or less\n20% More than30,000.00but less thanP50,000.00\n25% More than50,000.00but less than75,000.00\n35% More than75,000.00but less than100,000.00\n45% More than100,000.00but less than150,000.00\n55% More than150,000.00but less than250,000.00\n65% More than250,000.00but less than50,000.00\n\n75% More than350,000.00but less than500,000.00\nd) Special Classes The assessment level for all lands, buildings and other improvement thereon, actually,\ndirectly and exclusively used for educational, cultural or scientific purposes, as well as hospitals not owned\nand operated by the government or by any of its instrumentalities shall be fifteen per cent of the market value\nof such property and for those exclusively used for recreational purposes, thirty per cent of their market value.\nFor the First general revision of assessments to be undertaken after the approval of this Code and every five\nyears thereafter, the assessment levels hereinabove prescribed for the different classes of real property may be\nincreased at rates to be fixed by the Secretary of Finance but in no case shall such increase in rates exceed ten\nper cent of the assessment levels herein prescribed for each class of real property."
+   }
+  },
+  {
+   "id": "PH-H21899-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21"
+   },
+   "text": {
+    "en": "General Revision of Assessments. Beginning with the calendar year 1978, the provincial or city\nassessor shall make a general revision of real property assessments in the province or city to take effect\nJanuary 1, 1979, and once every five years thereafter: Provided, however, That if property values in a\nprovince or city, or in any municipality, have greatly changed since the last general revision, the provincial or\ncity assessor may, with the approval of the Secretary of Finance or upon his direction, undertake a general\nrevision of assessments in the province or city, or in any municipality before the fifth year from the effectivity\nof the last general revision."
+   }
+  },
+  {
+   "id": "PH-H21899-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22"
+   },
+   "text": {
+    "en": "Valuation of Real Property. Upon the discovery of real property or during the general revision\nof property assessments as provided in Section twenty-one of this Code or at any time when requested by the\nperson in whose name the property is declared, the provincial or city assessor or his authorized deputy shall\nmake an appraisal and assessment in accordance with Section five hereof of the real property listed and\ndescribed in the declaration irrespective of any previous assessment or taxpayer's valuation thereon: Provided;\nhowever, That the assessment of real property shall not be increased oftener than once every five years in the\nabsence of new improvements increasing the value of said property or of any change in its use, except as\notherwise provided in this Code."
+   }
+  },
+  {
+   "id": "PH-H21899-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23"
+   },
+   "text": {
+    "en": "Certification of Revised Values to the Secretary of Finance. When the provincial or city\nassessor shall have finished a general revision of property assessments for any province, municipality or city,\nhe shall so certify to the Secretary of Finance and the assessments shall become effective and taxes shall\naccrue and be payable thereunder in accordance with the provisions of this Code."
+   }
+  },
+  {
+   "id": "PH-H21899-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24"
+   },
+   "text": {
+    "en": "Date of Effectivity of Assessment or Reassessment. All assessments or reassessments made\nafter the first day of January of any year shall take effect on the first day of January of the succeeding year:\nProvided, however, That the reassessment of real property due to its partial or total destruction, or to a major\nchange in its actual use, or to any great and sudden inflation or deflation of real property values, or to the\ngross illegality of the assessment when made or to any other abnormal cause, shall be made within ninety days\nfrom the date any such cause or causes occurred, the same to take effect at the beginning of the quarter next\nfollowing the reassessment."
+   }
+  },
+  {
+   "id": "PH-H21899-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25"
+   },
+   "text": {
+    "en": "Assessment of Property Subject to Back Taxes. Real property declared for the first time shall\nhave back taxes assessed against it for the period during which it would have been liable if assessed from the\nfirst in proper course but in no case for more than ten years prior to the year of initial assessment; Provided,\nhowever, that the back taxes shall be computed on the basis of the applicable schedule of values in force\nduring the corresponding period.\nIf said taxes are paid before the expiration of the tax collection period next ensuing, no penalty for\ndelinquency shall be imposed, otherwise the taxes shall be subject to all the penalties to which they would\nhave been liable and had they originally become delinquent after assessment of the property in the usual"
+   }
+  },
+  {
+   "id": "PH-H21899-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26"
+   },
+   "text": {
+    "en": "Binding effect of Assessment or Reassessment. All assessments and reassessments made under\n\nthe provisions of this Code shall be valid and binding on all persons having legal interest on the property."
+   }
+  },
+  {
+   "id": "PH-H21899-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 27"
+   },
+   "text": {
+    "en": "Notification of New or Revised Assessments. When real property is assessed for the first time\nor when an exercising assessment is increased or decreased, the province or city shall within thirty days give\nwritten notice of such new or revised assessment to the person in whose name the property is declared. The\nnotice may be delivered personally to such person or to the occupant in possession, if any, or by mail to the\nlast known address of the person to be served, or through the assistance of the barrio captain."
+   }
+  },
+  {
+   "id": "PH-H21899-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 28"
+   },
+   "text": {
+    "en": "Appraising Machinery. The current market value of the machinery shall be determined on the\nbasis of the original cost in the case of newly acquired machinery not yet depreciated and is appraised within\nthe year of its purchase. In the case of all others, the current market value shall be determined by dividing the\nremaining economic life of the machinery by its economic life and multiplied by the replacement or\nreproduction cost (new) of said machinery.\nIf the machinery is imported, replacement or reproduction cost (new) shall be the original acquisition cost\nwhich would normally include such costs as freight and insurance charges, brokerage, arrastre and handling,\ncustoms duties and taxes plus cost of inland transportation and handling, and significant installation charges at\nthe present site. The cost in foreign currency of imported machinery shall be converted to peso cost on the\nbasis of foreign currency exchange rates as fixed by the Central Bank of the Philippines."
+   }
+  },
+  {
+   "id": "PH-H21899-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Section 29"
+   },
+   "text": {
+    "en": "Depreciation Allowance for Machinery. For purposes of assessment, a depreciation allowance\nshall be made for machinery at a rate not exceeding ten per cent of its original cost or its replacement or\nreproduction cost (new), as the case may be, for each year of use: Provided, That the remaining value for all\nkinds of machinery shall be fixed at not less than twenty per cent of such original or replacement cost for so\nlong as the machinery is useful and in operation.\nCHAPTER III\nASSESSMENT APPEALS"
+   }
+  },
+  {
+   "id": "PH-H21899-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Section 30"
+   },
+   "text": {
+    "en": "Local Board of Assessment Appeals. Any owner who is not satisfied with the action of the\nprovincial or city assessor in the assessment of his property may, within sixty days from the date of receipt by\nhim of the written notice of assessment as provided in this Code, appeal to the Board of Assessment appeals\nof the province or city, by filing with it a petition under oath using the form prescribed for the purpose,\ntogether with copies of the tax declarations and such affidavit or documents submitted in support of the"
+   }
+  },
+  {
+   "id": "PH-H21899-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Section 31"
+   },
+   "text": {
+    "en": "Organization, Powers and Functions of the local Board of Assessment Appeals. The Local\nBoard of Assessment Appeals shall be composed of three members: the Register of Deeds, as Chairman, the\nProvincial of City Auditor and the Provincial or City Engineer, as Members, who shall serve as such in an\nex-officio capacity without additional compensation. In provinces or cities without Provincial or City\nEngineers, the Highway District Engineer shall serve as member of the Board, likewise in an ex-officio\ncapacity without additional compensation. In the absence of a regular appointee, the officer performing the\nduties of the Register of Deeds, or the Provincial or City Auditor, or the Provincial, City or Highway District\nEngineer whether in an acting capacity or as a duly-designated officer-in-charge shall automatically become\nthe Chairman or member of the said Board, as the case may be.\nThe Chairman of the Board shall have the power to designate any government employee of the province or\ncity to serve as Secretary of the Board also without additional compensation.\nThe Chairman and members of the Local Board shall enter into the duties of their respective positions without\nneed of further appointment or special designation immediately upon approval of this Code. The members of\nthe Board shall each take the following oath, copy of which shall be furnished the Secretary of Finance:\n\"I ____________, having been appointed to the position of __________, hereby solemnly swear that I will\nwell and faithfully discharge to the best of my ability and duties of my present position and of all others I may\nhereafter hold under the Republic of the Philippines, and that I will support and defend the Constitution of the\n\nPhilippines; and that I will obey the laws, legal orders, and decrees promulgated by the duly constituted\nauthorities of the Republic of the Philippines; and that I will well and truly hear and determine all matters and\nissues between taxpayers and the provincial or city assessor submitted for my decision, and that I impose this\nobligation upon myself voluntarily, without mental reservation or purpose of evasion.\nSo help me God.\nSUBSCRIBED AND SWORN to before as this ______ day of __________ A.D. _________ at\n____________ Philippines.\n___________________Signature of Officer administering oath\""
+   }
+  },
+  {
+   "id": "PH-H21899-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Section 32"
+   },
+   "text": {
+    "en": "Meetings. The local Board shall hold sessions at least once a month, and as often as may be\nnecessary for the prompt disposition of the appealed cases pending before it. No member of the Board shall be\nentitled to per diems or travelling expenses for his attendance in Board sessions, except when conducting an\nocular inspection in connection with a case under appeal."
+   }
+  },
+  {
+   "id": "PH-H21899-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Section 33"
+   },
+   "text": {
+    "en": "Expenses of the Board. All expenses of the Local Board of Assessment Appeals shall be\ncharged against the general fund of the province or city, as the case may be. Local Boards and councils shall\nappropriate the necessary funds to enable the Board of Assessment Appeals in their respective localities to\noperate effectively."
+   }
+  },
+  {
+   "id": "PH-H21899-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "Section 34"
+   },
+   "text": {
+    "en": "Action by the Local Board of Assessment Appeals. The Local Board of Assessment Appeals\nshall decide the appeal within one hundred and twenty days from the date of receipt of such appeal. The\ndecision rendered must be based on substantial evidence presented at the hearing or at least contained in the\nrecord and disclosed to the parties or such relevant evidence as a reasonable mind might accept as adequate to\nsupport the conclusion.\nIn the exercise of its appellate jurisdiction, the Board shall have the power to summon witnesses, administer\noaths, conduct ocular inspection, take depositions, and issue subpoena and subpoena duces tecum. The\nproceedings of the Board shall be conducted solely for the purpose of ascertaining the truth without\nnecessarily adhering to technical rules applicable in judicial proceedings.\nThe Secretary of the Board shall furnish the property owner and the Provincial or City Assessor with a copy\neach of the decision of the Board. In case the provincial or city assessor concurs in the revision or the\nassessment, it shall be his duty to notify the property owner of such fact using the form prescribed for the\npurpose. The owner or administrator of the property of the assessor who is not satisfied with the decision of\nthe Board of Assessment Appeals, may, within thirty days after receipt of the decision of the Local Board,\nappeal to the Central Board of Assessment Appeals by filing his appeal under oath with the Secretary of the\nproper provincial or city Board of Assessment Appeals using the prescribed form stating therein the grounds\nand the reasons for the appeal, and attaching thereto any evidence pertinent to the case. A copy of the appeal\nshould be also furnished the Central Board of Assessment Appeals, through its Chairman, by the appellant.\nWithin ten (10) days from receipt of the appeal, the Secretary of the Board of Assessment Appeals concerned\nshall forward the same and all papers related thereto, to the Central Board of Assessment Appeals through the\nChairman thereof."
+   }
+  },
+  {
+   "id": "PH-H21899-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "Section 35"
+   },
+   "text": {
+    "en": "Central Board of Assessment Appeals, its Organization. The Central Board of Assessment\nAppeals shall be composed of the Secretary of Finance, as Chairman, the Secretary of Justice and the\nSecretary of Local Government and Community Development, as Members, who shall serve without\nadditional compensation.\nThe Central Board of Assessment Appeals shall be assisted by a Board of Hearing Commissioners and a staff,\nwhich shall be initially composed of the following positions with compensation at the minimum rates\nindicated hereunder:\n\nAnnual Salary\n1.\nOne Central Board Chief Hearing Commissioner\n2.\nFour Central Board Hearing Commissioners\n3.\nOne Central Board Secretary\n4.\nFour Central Board Stenographers\n5.\nThree Central Board Docket and Filing Clerks\nThe annual appropriations for the salaries of the abovementioned positions and for such other positions as the\nCentral Board may deem necessary to create hereafter, as well as sufficient appropriations for other\noperational requirements of the Board of Hearing Commissioners and its staff, shall henceforth be included in\nthe annual budgets of the Department of Finance in the corresponding General Appropriations Decree or laws.\nAny provision of law to the contrary notwithstanding, appointment to the positions of Central Board Chief\nHearing Commissioner, Central Board Hearing Commissioners and Central Board Secretary shall be exempt\nfrom the requirements and restrictions of the Civil Service Law, rules and regulations as well as those\npertaining to position-item classifications and salary standardization. Any government retiree may be\nappointed to the Board of Hearing Commissioners and upon his appointment, he shall not be required to\nreimburse or refund any gratuity received from the government nor shall any pension or annuity to which he is\nentitled be suspended or reduced on account of his employment. A member of the Board of Hearing\nCommissioners shall serve until he reaches the age of seventy unless he chooses to retire from the service or\nsooner removed for cause, as provided by law. The members of the Board of Hearing Commissioners shall be\nmembers of the bar, civil or mechanical engineers, or certified public accountants with at least five years\nsupervisory and-or field experience in real property assessment work.\nThe Secretary of Finance, as Chairman of the Central Board of Assessment Appeals, shall appoint the\nmembers of the Board of Hearing Commissioners and its staff.\nThe initial sum of one hundred twenty five thousand pesos is hereby appropriated from the General Fund in\nthe National Treasury, not otherwise appropriated, to finance the operations of the Central Board of\nAssessment Appeals. For every fiscal year thereafter, such sums as may be necessary for the operations of the\nsaid Board shall be included in the appropriations of the Department of Finance in the corresponding General\nAppropriations Decree or laws.\nThe Chairman and Members of the Central Board shall enter into the duties of their respective positions,\nwithout need of further appointment or special designation, immediately upon approval of this Code."
+   }
+  },
+  {
+   "id": "PH-H21899-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "Section 36"
+   },
+   "text": {
+    "en": "Scope of Powers and Functions. The Central Board of Assessment Appeals shall have\n\njurisdiction, over appealed assessment cases decided by the Local Board of Assessment Appeals. The said\nBoard shall decide cases brought on appeal within twelve (12) months from the date of receipt, which decision\nshall become final and executory after the lapse of fifteen (15) days from the date of receipt of a copy of the\ndecision by the appellant.\nIn the exercise of its appellate jurisdiction, the Central Board of Assessment Appeals, or upon express\nauthority, the Hearing Commissioner, shall have the power to summon witnesses, administer oaths, take\ndepositions, and issue subpoenas and subpoenas duces tecum.\nThe Central Board of Assessment Appeals shall adopt and promulgate rules of procedure relative to the\nconduct of its business."
+   }
+  },
+  {
+   "id": "PH-H21899-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "Section 37"
+   },
+   "text": {
+    "en": "Effect of Appeals on the Payment of the Real Property Tax. Appeals on assessments of real\nproperty made under the provisions of this Code shall, in no case, suspend the collection of the corresponding\nrealty taxes on the property involved as assessed by the provincial or city assessor, without prejudice to\nsubsequent adjustment depending upon the final outcome of the appeal.\nIMPOSITION OF REAL PROPERTY TAX"
+   }
+  },
+  {
+   "id": "PH-H21899-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "Section 38"
+   },
+   "text": {
+    "en": "Incidence of Real Property Tax. There shall be levied, assessed and collected in all provinces,\ncities and municipalities an annual ad valorem tax on real property, such as land, buildings, machinery and\nother improvements affixed or attached to real property not hereinafter specifically exempted."
+   }
+  },
+  {
+   "id": "PH-H21899-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "Section 39"
+   },
+   "text": {
+    "en": "Rates of Levy. The provincial, city or municipal board or council shall fix a uniform rate of real\nproperty tax applicable to their respective localities as follows:\n(1) In the case of a province, the tax shall be fixed by ordinance of the provincial board at the rate of not less\nthan one fourth of one percent but not more than one-half of one percent of the assessed value of real property.\n(2) In the case of a city, the tax shall be fixed by ordinance of the municipal board or city council at the rate of\nnot less than one-half of one percent but not more than two percent of the assessed value of real property.\nThe ordinance fixing the rate of real property tax shall be enacted by the local board or council not later than\nfifteenth day of September of the year next preceding the year the tax shall begin to accrue. Within five days\nafter enactment, the board or council secretary shall forward the ordinance to the local chief executive for his\napproval and signature. If he considers any such ordinance prejudicial to the public welfare, he may veto it by\nsignifying to the local board or council concerned his disapproval thereof in writing. The local board or\ncouncil may, by a two-thirds (2/3) vote of all its members and within fifteen days from the date of receipt of a\ncopy of the vetoed ordinance, repass the same over the veto, in which case it shall be deemed approved\nwithout the local chief executive's approval or signature. If the local chief executive fails to approve or veto\nthe ordinance within ten days after receipt of a copy thereof, it shall likewise be deemed approved.\nThe ordinance fixing the rate of real property tax shall remain in full force and effect unless amended on or\nbefore September fifteenth of the year next preceding the one in which the amendment is to take effect. Any\nordinance reducing the existing rates of real property tax shall be subject to review by the Secretary of\nFinance who shall act thereon within sixty days upon receipt of a copy thereof; otherwise, the reduced rates\nshall be deemed effective on the first day of January of the succeeding year."
+   }
+  },
+  {
+   "id": "PH-H21899-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "Section 40"
+   },
+   "text": {
+    "en": "Exemptions from Real Property Tax. The exemption shall be as follows:\n(a) Real property owned by the Republic of the Philippines or any of its political subdivisions and any\ngovernment-owned corporation so exempt by its charter: Provided; however, That this exemption shall not\napply to real property of the abovenamed entities the beneficial use of which has been granted, for\nconsideration or otherwise, to a taxable person.\n(b) Non-profit cemeteries or burial grounds.\n\n(c) Charitable institutions, churches, personages or convents appurtenant thereto, mosques, and all land,\nbuildings, and improvements actually, directly and exclusively used for religious or charitable purposes.\n(d) Real property in any one city or municipality belonging to a single owner the entire assessed valuation of\nwhich is not in excess of five hundred pesos: Provided, however, That the property so exempt shall be\nassessed and records thereof kept as in other cases.\n(e) Land acquired by grant, purchase or lease from the public domain for conversion into dairy farms for a\nperiod of five years from the time of such conversion; and machinery of a new and preferred industry as\ncertified by the Board of Investments used or operated for industrial, agricultural, manufacturing or mining\npurposes, during the first three years of the operation of the machinery.\n(f) Perennial trees and plants of economic value, except where the land upon which they grow is planted\nprincipally to such growth.\n(g) Real property exempt under other laws.\nSPECIAL LEVIES ON REAL PROPERTY"
+   }
+  },
+  {
+   "id": "PH-H21899-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "Section 41"
+   },
+   "text": {
+    "en": "An additional one per cent tax on real property for the Special Education Fund. There is hereby\nimposed an annual tax of one per cent on real property to accrue to the Special Education Fund created under\nRepublic Act No. 5447, which shall be in addition to the real property tax which local governments are\nauthorized to levy, assess and collect under this Code; Provided, however, That when the entire total assessed\nvaluation of real property situated in a province or city assessable to any one person does not exceed three\nthousand pesos, the additional one per cent tax herein imposed shall not be collected."
+   }
+  },
+  {
+   "id": "PH-H21899-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "Section 42"
+   },
+   "text": {
+    "en": "Additional ad valorem tax on idle lands. The President of the Philippines, at his discretion or\nupon recommendation of the Secretary of Finance, may authorize provinces, cities and municipalities to levy,\nassess and collect an additional real property tax on idle private lands at a rate of not exceeding two per cent\nper annum based on the prevailing assessed value of the property."
+   }
+  },
+  {
+   "id": "PH-H21899-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "Section 43"
+   },
+   "text": {
+    "en": "Idle lands, coverage. For purposes of this Code, idle lands shall include the following:\n(a) Agricultural lands more than five hectares in area suitable for cultivation, dairying, inland fishery and\nother agricultural uses, three-fourths of which remain uncultivated or unimproved as certified to by the\nprovincial agriculturist. In the case of agricultural lands planted to permanent or perennial crops with at least\none hundred trees to a hectare shall not be considered idle land. Lands actually used for grazing purposes shall\nnot also be considered idle land:\n(b) Urban lands in chartered cities and municipalities exceeding five thousand square meters in area,\ntwo-thirds of which remain unutilized or unimproved as certified to by the provincial or city assessor. This\nsection shall likewise apply to residential lots or subdivisions duly approved by proper authorities, the\nownership of which has been transferred to individual owners. If the acquired lots, however, remain idle\nbecause the subdivision itself is not developed in accordance with its subdivision plans, the tax imposable\nunder Section forty-two of this Code on the individual lots shall be assessed on the subdivision and paid for by\nthe subdivision owner. Individual lots of such subdivisions, the ownership of which has not been transferred\nto the buyer shall be considered as forming part of the subdivision."
+   }
+  },
+  {
+   "id": "PH-H21899-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "Section 44"
+   },
+   "text": {
+    "en": "Idle lands exempt from tax. The special levy on idle lands shall not apply to landowners who\nare unable to improve, utilize or cultivate their lands due to any of the following causes:\n(a) Adverse peace and order conditions as certified to by the provincial commander, unless, upon restoration\nof the peace and order in any locality duly certified by the said provincial commander and if within one year\nfrom the date of such certification the idle land has not been improved, utilized or cultivated, a tax may be\nimposed thereon pursuant to Section forty-two hereof.\n\n(b) Financial loss of the landowner due to fire, flood, typhoon, earthquake and other causes of similar nature\nduly attested by the owner in an affidavit to be submitted to the provincial or city assessor stating the ground\nor grounds therein, unless the idle land is not improved to the extent prescribed in the next proceeding Section\nwithin two years from the date of the occurrence of the loss, in which case, the tax imposable under Section\nforty-two hereof may be levied.\n(c) Existing court litigations involving the land subject to tax mentioned in this chapter as certified by the\nCourt under which the case is pending unless said land is not improved within one year after the final\nadjudication of the case, to the extent provided in the next proceeding Section, in which case, the tax\nimposable under Section forty-two hereof may be levied.\n(d) Necessity to leave the land in a fallow state as certified to by the provincial agriculturist stating, among\nothers, the length of time after which the land shall be considered ready for production, unless the idle land is\nnot improved to the extent prescribed in the next preceding Section within one year after the termination of\nthe period, in which case, the tax imposable under Section forty-two hereof may be levied.\n(e) Unfavorable physical factors, such as rocky nature of ground and uneven topography in the case of\nagricultural land, which render the land unsuitable for cultivation, as certified to by the provincial\nagriculturist.\nIn all cases the landowner shall be duly notified by the provincial or city assessor, as the case may be, of the\nimposition of the tax."
+   }
+  },
+  {
+   "id": "PH-H21899-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "Section 45"
+   },
+   "text": {
+    "en": "Application for exemption. Within two years from the approval of this code, any person having\nlegal interest on the land, desiring to avail of the exemption under Section 44 hereof, shall file the\ncorresponding application therefor with the assessor of the province or city where the land is situated. The\napplication shall state the ground or grounds under which the exemption is being claimed.\nThe Secretary of Finance shall promulgate rules and regulations for the proper implementation of the\nprovisions of this Section."
+   }
+  },
+  {
+   "id": "PH-H21899-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "Section 46"
+   },
+   "text": {
+    "en": "Listing of idle lands by the assessor. The provincial or city assessor shall make and keep an\nupdated record of idle lands within one year after the approval of this Code and every year thereafter. For\npurposes of collection, the provincial or city assessor shall furnish a copy thereof to the provincial, city or\nmunicipal treasurer, as the case may be, who shall notify on the basis of such record the person having legal\ninterest on the lands of the imposition of the additional tax."
+   }
+  },
+  {
+   "id": "PH-H21899-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "Section 47"
+   },
+   "text": {
+    "en": "Special levy by local governments. The provincial, city, municipal boards or councils may, by\nordinance, provide for the imposition and collection of a special levy on the lands comprised within the\nprovince, city, or municipality or parts thereof especially benefited by the laying out, opening, constructing,\nstraightening, widening, grading, paying, curbing, walling, deepening, or otherwise establishing, repairing,\nenlarging, or improving public avenues, roads, streets, alleys, sidewalks, parks, plazas, bridges, landing\nplaces, wharves, piers, docks, levees, reservoirs, waterworks, water courses, esteros, canals, drains, and\nsewers: Provided, however, That the special levy herein authorized shall correspond only to a part not\nexceeding sixty per cent of the costs of said improvements or infrastructures financed by the province, city or\nmunicipality, as the case may be, including the costs of acquiring land and such other real property in\nconnection therewith. Within the meaning of this Section, all lands comprised within the district benefited,\nexcept lands exempt from the real property tax under Section forty hereof, shall be subject to the payment of\nthe special levy."
+   }
+  },
+  {
+   "id": "PH-H21899-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "Section 48"
+   },
+   "text": {
+    "en": "Ordinance imposing a special levy. Tax ordinance providing for the levying and collection of a\nspecial levy shall describe with reasonable accuracy the nature, extent and location of the work to be\nundertaken; the probable cost of the proposed work so established, the limits whereof shall be stated by\nmonuments and lines, and the number of annual installments, which shall not be less than five nor more than\nten, in which said special levy shall be payable. The provincial board, municipal board or city council, or\n\nmunicipal council shall not be obliged, in the apportionment and computation of the special levy, to establish\na uniform percentage of all lands subject to the payment of the tax for the entire district, but it may fix\ndifferent rates for different parts or sections thereof, depending on whether such land is more or less benefited\nby the proposed work; nor shall the provincial board, the municipal board or city council, or municipal council\nbe required to follow the percentage limitations imposed by Section thirty-nine of this Code.\nThe provincial, city or municipal engineer shall make the plans, specifications and estimates of the proposed"
+   }
+  },
+  {
+   "id": "PH-H21899-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "Section 49"
+   },
+   "text": {
+    "en": "Publication of proposed ordinance imposing a special levy. The proposed special levy or\nordinance shall be published, with the list of the owners of the land affected thereby, once a week for four\nconsecutive weeks in any newspaper published in the locality, one in English, and one in the local dialect, if\nthere be any, and in default of local papers, in any newspaper of general circulation in the province, city or\nmunicipality. The said ordinance in English, and in the local dialect, shall also be posted in the city or\nmunicipality and places affected by said improvement, and shall also be published once a week during four\nconsecutive weeks by crier.\nThe provincial, city or municipal secretary, shall, on application, furnish a copy of the proposed ordinance to\neach landowner affected, or his agent, and shall if possible, send to all a copy of said proposed ordinance by\nmail or messenger."
+   }
+  },
+  {
+   "id": "PH-H21899-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "Sec 50"
+   },
+   "text": {
+    "en": "Protest against special levy. Not later than thirty days after the last publication of the ordinance and\nlist of landowners included in the zone subject to special levy, a protest may be submitted to the provincial,\nmunicipal, or city board or council, signed by a majority of the landowners affected by the proposed work,\nsetting forth the addresses of the signers and arguments in support of their objection or protest against the\nimprovement to be made or against the special levy imposed by ordinance. If no protest is filed within the\ntime and under the conditions above specified, the provincial, city or municipal ordinance shall become final\nand effective in all points after its approval by the corresponding board or council."
+   }
+  },
+  {
+   "id": "PH-H21899-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "Section 51"
+   },
+   "text": {
+    "en": "Hearing a protest. The board or council, shall designate a date and place for the hearing of the\nprotest filed in accordance with the next preceding Section and shall give reasonable time to all protestants\nwho have given their address and to all landowners affected by any protest, and shall order the publication\nonce a week, during two consecutive weeks in any newspaper of the locality, if there be one, of general\ncirculation in the province, city or municipality, or a notice in English or in the local dialect, of the place and\ndate of the hearing to be held. Said notice shall likewise be posted in the city or municipality and places\naffected by the improvement. After the proper hearing, the board or city council, shall render its final decision\nconfirming, modifying or revoking its ordinance, and shall send notice of its decision, to all interested parties\nwho have given their addresses, and shall order the publication of such decision, together with a list of the\nparcels of land affected by the special levy, three times weekly, for two consecutive weeks, in the manner\nhereinabove specified. The decision of the municipal council shall become final, if, before, expiration of thirty\ndays from the date of its last publication, no appeal is filed with the provincial board against the proposed\nimprovement or against the special levy, signed by at least a majority of the landowners affected. The\nappellant or appellants shall immediately give the municipal council a written notice of the appeal. In the case\nof the province or city, the decision of the provincial board or city council is not appealable but shall become\nfinal after the expiration of thirty days from its last publication."
+   }
+  },
+  {
+   "id": "PH-H21899-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "Section 52"
+   },
+   "text": {
+    "en": "Decision of the appeal. If an appeal is taken from the decision of the municipal council in the\nmanner provided for in the next preceding Section, the said council shall forward to the provincial board an\nexcerpt from the minutes of said council relative to the proposed improvement and all other documents in\nconnection therewith, within ten days after receipt of the notice of appeal. The provincial board shall\ndesignate the place and set a date which shall be within thirty days following receipt of the board of the\ndocuments from the municipal council, for the hearing of the appeal, giving both parties notice thereof.\nDuring the hearing of the appeal, the municipal council shall be represented and heard, and the provincial\n\nboard shall examine de novo all points involved in the protest filed, and its decision thereon shall be final."
+   }
+  },
+  {
+   "id": "PH-H21899-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "Section 53"
+   },
+   "text": {
+    "en": "Fixing the amount of special levy. The special levy authorized under Section forty-seven hereof\nshall be apportioned, computed, and assessed according to the assessed valuation of such lands, as shown by\nthe books of the assessor, or its current assessed value as fixed by said officer in the first instance if the\nproperty does not appear of record in his books. Upon the approval of the ordinance, the provincial or city\nassessor shall forthwith proceed to determine the annual amount of special tax assessed against each parcel of\nland compromised within the district especially benefited and shall send to each landowner a written notice\nthereof by ordinary mail. If upon completion of work it should appear that the cost thereof is smaller or\ngreater than the estimated cost of the work, the provincial or city assessor shall without delay proceed to\ncorrect the assessment by increasing or decreasing, as the case may be, the special tax on each parcel of land\naffected, for the balance of the unpaid annual installments. If all annual installments have already been paid,\nthe provincial or city treasurer shall fix the amount of credit to be allowed to, or the additional special tax to\nbe levied upon the land, as the case may be. In all cases, he shall give notice of such rectifications to the\nparties interested."
+   }
+  },
+  {
+   "id": "PH-H21899-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "Section 54"
+   },
+   "text": {
+    "en": "Payment of special levy. all sums due from any landowner or owners as payment of special\nlevy shall be payable to the provincial or city treasurer or his deputy in the same manner as the annual\nordinary tax levied upon real property, in accordance with the provisions of the preceding sections, shall be\nsubject to the same penalties for delinquency and be enforced by the same means as said annual ordinary tax;\nand all said sums together with any of said penalties shall, from the dates on which they were assessed,\nconstitute special liens upon the land concerned and shall have preference over other liens there may be on\nsaid lands with the sole exception of the lien for non-payment of the ordinary real property tax."
+   }
+  },
+  {
+   "id": "PH-H21899-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "Section 55"
+   },
+   "text": {
+    "en": "Special levy by the National Government. The Secretary of Finance may, by Department Order\nissued for the purpose, provide for the imposition and collection of a special levy on lands especially benefited\nby public works projects financed by the National government corresponding to a part not exceeding sixty\npercent of the costs thereof as certified by the Secretary of Public Works, Transportation and\nCommunications, the proceeds of which shall accrue to the general fund of the National Government. The\nspecial levy shall be apportioned, computed, and assessed according to the assessed valuation of such lands as\nshown by the books of the assessor, or its current assessed value as fixed by said officer if the property does\nnot appear of record in this books. The tax shall be collected by the local treasurers who shall remit their\ncollections to the National Treasurer in accordance with the rules and regulations issued by the Secretary of\nFinance for the purpose of implementing this Section.\nThe Special levy herein authorized may within sixty days from the date of publication of the Department\nOrder in the Official Gazette be protested with the Secretary of Finance and if not reconsidered or rescinded\nmay thereafter be appealed to the proper court for decision.\nCOLLECTION OF REAL PROPERTY TAX"
+   }
+  },
+  {
+   "id": "PH-H21899-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "Section 56"
+   },
+   "text": {
+    "en": "Date of accrual of tax. The real property tax for any year shall attach and become due and\npayable on the first day of January and from the same date said tax and all penalties subsequently accruing\nthereto shall constitute a lien upon the property subject to such tax. Said lien shall be superior to all other\nliens, mortgages, or encumbrances of any kind whatsoever, shall be enforceable against the property whether\nin the possession of the delinquent or any subsequent owner or possessor, and shall be removable only by the\npayment of the delinquent taxes and penalties.\nThe real property tax on properties actually, directly, and exclusively used for educational purposes as\nprovided under Presidential Decree No. 261 shall begin to accrue on January 1, 1975."
+   }
+  },
+  {
+   "id": "PH-H21899-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "Section 57"
+   },
+   "text": {
+    "en": "Collection of tax to be the responsibility of treasurers. The collection of the real property tax\nand all penalties accruing thereto, and the enforcement of the remedies provided for in this Code or any\n\napplicable laws, shall be the responsibility of the treasurer of the province, city or municipality where the\nproperty is situated."
+   }
+  },
+  {
+   "id": "PH-H21899-A58",
+   "no": 58,
+   "noLabel": {
+    "en": "Section 58"
+   },
+   "text": {
+    "en": "Assessor to furnish treasurer with assessment roll. The provincial or city assessor shall prepare\nand submit to the treasurer of the province, city or municipality, on or before the thirty-first day of December\nof each year, an assessment roll containing a list of all persons to whom real properties have been newly\nassessed or reassessed and the values of such taxable properties."
+   }
+  },
+  {
+   "id": "PH-H21899-A59",
+   "no": 59,
+   "noLabel": {
+    "en": "Section 59"
+   },
+   "text": {
+    "en": "Notice of time for collection of tax. The provincial or city treasurer shall, on or before the\nthirty-first of January each year, cause notice of the periods during which real property tax may be paid\nwithout penalty in their respective jurisdiction to be posted at the main entrance of the provincial building or\ncity hall and of all municipal buildings and in a public conspicuous place in each barrio, and published in a\nnewspaper and announced by crier at least three times.\nThe form and detail of the notice shall be prescribed by the Secretary of Finance: Provided, however, That in\nlieu of or in addition to such notice, the Secretary of Finance may require notification in any province,\nmunicipality, or city to be accomplished through the mailing of individual tax bills which shall estate the exact\namount of the annual tax due, the amount of quarterly installment, its due date, the delinquency, and the\napplicable penalty."
+   }
+  },
+  {
+   "id": "PH-H21899-A60",
+   "no": 60,
+   "noLabel": {
+    "en": "Section 60"
+   },
+   "text": {
+    "en": "Payment of real property taxes in installments. Real property taxes may, in the discretion of the\ntaxpayer, be paid without penalty in four equal installments; the first installment to be due and payable on or\nbefore March thirty-first; the second installment, on or before June thirty; the third installment, on or before\nSeptember thirty; and the last installment, on or before December thirty-first, except the special levies\nauthorized under Sections forty-seven and fifty-five of this Code which shall be governed by the local\nordinance or Department Order issued by the Secretary of Finance, as the case may be.\nAny person who is in any provincial, city or municipal treasurer's office on the last day of any period\nestablished for the payment of the real property tax without penalty, ready and prepared to pay but is unable to\ndo so because of the great number of taxpayers, shall be given a suitable card entitling him to pay the tax\nwithout penalty on the next business day."
+   }
+  },
+  {
+   "id": "PH-H21899-A61",
+   "no": 61,
+   "noLabel": {
+    "en": "Section 61"
+   },
+   "text": {
+    "en": "Tax discount. If the basic and additional real property tax levied for the Special Education Fund\nor any quarterly installment thereof is paid in full within the prescribed period of payment, the taxpayer shall\nbe granted a discount on the tax due as follows: twenty per cent on the tax due and payable during the year\n1974; fifteen per cent on the tax due and payable during the year 1975; ten per cent on the tax due and payable\nduring the year 1976; and five per cent on the tax due and payable during the year 1977; Provided, further,\nThat only lands without any delinquency shall be granted the same; and Provided, finally, That the discounted\ntax shall not be lower than the tax corresponding to the next preceding tax year.\nBeginning with the calendar year 1978 and thereafter, the President of the Philippines may, at his discretion or\nupon recommendation of the Secretary of Finance, authorize the grant of discounts on taxes due on real\nproperty at such rates and for such periods as he may fix, if he deems that the public interest so requires."
+   }
+  },
+  {
+   "id": "PH-H21899-A62",
+   "no": 62,
+   "noLabel": {
+    "en": "Section 62"
+   },
+   "text": {
+    "en": "Payment under protest. (a) When a taxpayer desires for any reason to pay his tax under protest,\nhe shall indicate the amount or portion thereof he is contesting and such thereon the words \"paid under\nprotest\". Verbal protests shall be confirmed in writing, with a statement of the ground, therefor, within thirty\ndays. The tax may be paid under protest, and in such case it shall be the duty of the Provincial, City or\nMunicipal Treasurers to annotate the ground or grounds therefor on the receipt.\n(b) In case of payments made under protest, the amount or portion of the tax contested shall be held in trust by\nthe treasurer and the difference shall be treated as revenue.\n(c) In the event that the protest is finally decided in favor of the government, the amount or portion of the tax\nheld in trust by the treasurer shall accrue to the revenue account, but if the protest shall be decided finally in\nfavor of the protestant, the amount or portion of the tax protested against may either be refunded to the\n\nprotestant or applied as tax credit to any other existing or future tax liability of the said protestant."
+   }
+  },
+  {
+   "id": "PH-H21899-A63",
+   "no": 63,
+   "noLabel": {
+    "en": "Section 63"
+   },
+   "text": {
+    "en": "Repayment of excessive collections. When it appears that an assessment of real property was\nerroneous and unjust when made and the same is reduced because of such error or injustice, and not by reason\nof damage incurred or deterioration suffered by such property subsequent to the date of original assessment,\nthe taxpayer shall be entitled to the proper refund for taxes and penalties paid by him for not more than three\nTimely notice shall be given by the Provincial or City Treasurer to every taxpayer whose assessment is so\nreduced and he shall be furnished a certificate showing the amount of refund to which he is entitled for\npayment already made."
+   }
+  },
+  {
+   "id": "PH-H21899-A64",
+   "no": 64,
+   "noLabel": {
+    "en": "Section 64"
+   },
+   "text": {
+    "en": "Restriction upon power of court to impeach tax. No court shall entertain any suit assailing the\nvalidity of tax assessed under this Code until the taxpayer shall have paid, under protest, the tax assessed\nagainst him nor shall any court declare any tax invalid by reason of irregularities or informalities in the\nproceedings of the officers charged with the assessment or collection of taxes, or of failure to perform their\nduties within this time herein specified for their performance unless such irregularities, informalities or failure\nshall have impaired the substantial rights of the taxpayer; nor shall any court declare any portion of the tax\nassessed under the provisions of Code invalid except upon condition that the taxpayer shall pay the just\namount of the tax, as determined by the court in the pending proceeding."
+   }
+  },
+  {
+   "id": "PH-H21899-A65",
+   "no": 65,
+   "noLabel": {
+    "en": "Section 65"
+   },
+   "text": {
+    "en": "Notice of delinquency in the payment of the real property tax. Upon the real property tax or any\ninstallment thereof becoming delinquent, the provincial or city treasurer shall immediately cause notice of the\nfact to be posted at the main entrance of the provincial building and of all municipal buildings or municipal or\ncity hall and in a public and conspicuous place in each barrio of the municipality of the province or city as the\ncase may be. The notice of delinquency shall also be published once a week for three consecutive weeks, in a\nnewspaper of general circulation in the province or city, if any there be, and announced by a crier at the\nmarket place for at least three market days.\nSuch notice shall specify the date upon which tax became delinquent, and shall state that personal property\nmay be seized to effect payment. It shall also state that, at any time, before the seizure of personal property,\npayment may be made with penalty in accordance with the next following section, and further, that unless the\ntax and penalties be paid before the expiration of the year for which the tax is due, or the tax shall heave been\njudicially set aside, the entire delinquent real property will be sold at public auction, and that thereafter the full\ntitle to the property will be and remain with the purchaser, subject only to the right of delinquent taxpayer or\nany other person in his behalf to redeem the sold property within one year from the date of sale."
+   }
+  },
+  {
+   "id": "PH-H21899-A66",
+   "no": 66,
+   "noLabel": {
+    "en": "Section 66"
+   },
+   "text": {
+    "en": "Penalty for delinquency. Failure to pay the real property tax before the expiration of the period\nfor the payment without penalty of the quarterly installments thereof shall subject the taxpayer to the payment\nof a penalty of two per centum on the amount of the delinquent tax for each month of delinquency or fraction\nthereof, until the delinquent tax shall be fully paid: Provided, That in no case shall the total penalty exceed\ntwenty-four per centum of the delinquent tax. The rate of penalty for tax delinquency fixed herein shall be\nuniformly applied in all provinces and cities."
+   }
+  },
+  {
+   "id": "PH-H21899-A67",
+   "no": 67,
+   "noLabel": {
+    "en": "Section 67"
+   },
+   "text": {
+    "en": "Remedies cumulative, simultaneous and unconditional. Collection of the real property tax may\nbe enforced through any or all of the remedies provided under this Code, and the use or non-use of one\nremedy shall not be a bar against the institution of the others. Formal demand for the payment of the\ndelinquent taxes and penalties due need not be made before any of such remedies may be resorted to; notice of\ndelinquency as required in Section sixty-five hereof shall be sufficient for the purpose."
+   }
+  },
+  {
+   "id": "PH-H21899-A68",
+   "no": 68,
+   "noLabel": {
+    "en": "Section 68"
+   },
+   "text": {
+    "en": "Distraint of personal property for delinquency. After delinquency in the payment of such tax\nmay be enforced by distraining the personal property including the crops growing on land of the delinquent\ntaxpayer. In such case, the provincial or city treasurer or his deputy shall issue a duly authenticated certificate,\nbased upon the records of his office, showing the fact of the delinquency and the amount of tax and penalty\n\ndue, and this shall be sufficient warrant for the seizure of any non-exempt personal property belonging to the\ndelinquent taxpayer in question. Such process may be executed by the provincial or city treasurer, his deputy,\nor any officer authorized to execute legal process."
+   }
+  },
+  {
+   "id": "PH-H21899-A69",
+   "no": 69,
+   "noLabel": {
+    "en": "Section 69"
+   },
+   "text": {
+    "en": "Personal property exempt from distraint or levy. The following property shall be exempt from\ndistraint and the levy of attachment or execution for delinquency in the payment of the real property tax:\n(a) Tools and the implements necessarily used by the delinquent taxpayer in his trade or employment.\n(b) One horse, cow, carabao, or other beast of burden, such as the delinquent taxpayer may select, and\nnecessarily used by him in his ordinary occupation.\n(c) His necessary clothing, and that of all his family.\n(d) Household furniture and utensils necessary for housekeeping, and used for that purpose by the delinquent\ntaxpayers, such as he may select, of a value not exceeding three thousand pesos.\n(e) Provisions, including crops, actually provided for individual or family use sufficient for four months.\n(f) The professional libraries of lawyers, judges, clergymen, doctors, school teachers, and music teachers, not\nexceeding five thousand pesos in value.\n(g) One fishing boat and net, not exceeding the total value of five thousand pesos, the property of any\nfisherman, by the lawful use of which he earn a livelihood.\n(h) Any material or article forming part of a house or improvement of any real property."
+   }
+  },
+  {
+   "id": "PH-H21899-A70",
+   "no": 70,
+   "noLabel": {
+    "en": "Section 70"
+   },
+   "text": {
+    "en": "Sale of distrained personal property. Property seized upon process under Section sixty-eight\nhereof shall, after due advertisement, be exposed for sale at public auction to the bidder, and so much of the\nproperty shall be thus sold as may be necessary to satisfy the tax, penalty, and cost of the seizure and sale. The\npurchaser at such sale shall acquire an indefeasible title to the property.\nAdvertisement in such cases shall be given by notice stating the name of the owner of the property to be sold,\ndate, time, place and cause of the sale, posted for twenty days before the date of the auction at the main\nentrance of the city or municipal hall, or municipal building, and at a public and conspicuous place in the\nbarrio or street where the property was seized, and announced by crier at the market place at least three market\ndays before the auction sale.\nThe sale shall take place, in the discretion of the provincial or city treasurer or his deputy, either at the main\nentrance of the municipal building or city or municipal hall or at the place where the property was seized. If\nno satisfactory bid or no bid at all is received in the place mentioned, the distrained property may be sold\nanywhere in the province or city at public auction, after the advertisement and due notice to the owner of the"
+   }
+  },
+  {
+   "id": "PH-H21899-A71",
+   "no": 71,
+   "noLabel": {
+    "en": "Section 71"
+   },
+   "text": {
+    "en": "Redemption of distrained property The owner of personal property seized for non-payment of\ntaxes may redeem the same property from the collecting officer at any time after seizure and before sale by\ntendering to him the amount of tax, penalty and costs incurred up to the time of tender. The costs to be\ncharged in making such seizure and sale shall only embrace the actual expenses of seizure and preservation of\nthe property pending the same, but no charges shall be imposed for the services of the collecting officer or his"
+   }
+  },
+  {
+   "id": "PH-H21899-A72",
+   "no": 72,
+   "noLabel": {
+    "en": "Section 72"
+   },
+   "text": {
+    "en": "Return of officer and disposition of proceeds. The officer conducting a sale under Section\nseventy hereof shall make immediate return of his proceedings and a memorandum thereof shall be entered by\nthe provincial or city treasurer in his records. The excess, if any, of the proceeds of the sale of the distrained\npersonal property over the tax, penalty and costs of sale and seizure and any of the property remaining unsold\nin the hands of the officer, shall be returned to the taxpayer."
+   }
+  },
+  {
+   "id": "PH-H21899-A73",
+   "no": 73,
+   "noLabel": {
+    "en": "Section 73"
+   },
+   "text": {
+    "en": "Advertisement of sale of real property at public auction. After the expiration of the year for\nwhich the tax is due, the provincial or city treasurer shall advertise the sale at public auction of the entire\n\ndelinquent real property, except real property mentioned in subsection (a) of Section forty hereof, to satisfy all\nthe taxes and penalties due and the costs of sale. Such advertisement shall be made by posting a notice for\nthree consecutive weeks at the main entrance of the provincial building and of all municipal buildings in the\nprovince, or at the main entrance of the city or municipal hall in the case of cities, and in a public and\nconspicuous place in barrio or district wherein the property is situated, in English, Spanish and the local\ndialect commonly used, and by announcement at least three market days at the market by crier, and, in the\ndiscretion of the provincial or city treasurer, by publication once a week for three consecutive weeks in a\nnewspaper of general circulation published in the province or city.\nThe notice, publication, and announcement by crier shall state the amount of the taxes, penalties and costs of\nsale; the date, hour, and place of sale, the name of the taxpayer against whom the tax was assessed; and the\nkind or nature of property and, if land, its approximate areas, lot number, and location stating the street and\nblock number, district or barrio, municipality and the province or city where the property to be sold is situated.\nCopy of the notice shall forthwith be sent either by registered mail or by messenger, or through the barrio\ncaptain, to the delinquent taxpayer, at his address as shown in the tax rolls or property tax record cards of the\nmunicipality or city where the property is located, or at his residence, if known to said treasurer or barrio\ncaptain: Provided, however, That a return of the proof of service under oath shall be filed by the person\nmaking the service with the provincial or city treasurer concerned."
+   }
+  },
+  {
+   "id": "PH-H21899-A74",
+   "no": 74,
+   "noLabel": {
+    "en": "Section 74"
+   },
+   "text": {
+    "en": "Stay of sale of real property. At any time during or before the sale the taxpayers may stay all\nproceedings by paying the taxes and penalties due on the real property up to the time of tender and costs to the\nprovincial or city treasurer or his deputy conducting the sale."
+   }
+  },
+  {
+   "id": "PH-H21899-A75",
+   "no": 75,
+   "noLabel": {
+    "en": "Section 75"
+   },
+   "text": {
+    "en": "Discretion of provincial or city treasure to buy real property in behalf of province or city. In\ncase there is no bidder at the public auction of the delinquent real property, or if the highest bid is for an\namount not sufficient to pay the taxes, penalties or costs of sale, the provincial or city treasurer may, in his\ndiscretion, buy the delinquent real property in the name of the province or the city for the amount of taxes,\npenalties due thereon, and the costs of sale."
+   }
+  },
+  {
+   "id": "PH-H21899-A76",
+   "no": 76,
+   "noLabel": {
+    "en": "Section 76"
+   },
+   "text": {
+    "en": "Certificate of sale to be issued purchaser, province or city. The purchaser at public auction of\ndelinquent property shall receive from the provincial or city treasurer, or his deputy, a certificate setting forth\nthe proceedings had at the sale, a description of the property sold, the name of the purchaser, the sale price, as\nwell as the exact amount of the taxes and penalties due and the costs of sale. The person in whose name the\nproperty is listed and assessed shall be furnished with a copy of the sale certificate."
+   }
+  },
+  {
+   "id": "PH-H21899-A77",
+   "no": 77,
+   "noLabel": {
+    "en": "Section 77"
+   },
+   "text": {
+    "en": "Report of sale to provincial or municipal board or city council. The provincial or city treasurer\non his deputy shall make a report to the provincial or municipal board or city council of the sale within thirty\ndays thereafter, and shall make the same appear in his records."
+   }
+  },
+  {
+   "id": "PH-H21899-A78",
+   "no": 78,
+   "noLabel": {
+    "en": "Section 78"
+   },
+   "text": {
+    "en": "Redemption of real property after sale. Within the term of one year from the date of the\nregistration of sale of the property, the delinquent taxpayer or his representative, or in his absence, any person\nholding a lien or claim over the property, shall have the right to redeem the same by paying the provincial or\ncity treasurer or his deputy the total amount of taxes and penalties due up to the date of redemption, the costs\nof sale and the interest at the rate of twenty per centum on the purchase price, and such payment shall\ninvalidate the sale certificate issued to the purchaser and shall entitle the person making the same to a\ncertificate from the provincial or city treasurer or his deputy, stating that he had redeemed the property.\nThe provincial or city treasurer or his deputy shall, upon surrender by the purchaser of the certificate of sale\npreviously issued to him, forthwith return to the latter the entire purchase price paid by him plus the interest at\ntwenty per centum per annum herein provided for, the portion of the cost of the sale and other legitimate\nexpenses incurred by him, and said property shall thereafter be free from the lien of said taxes and penalties."
+   }
+  },
+  {
+   "id": "PH-H21899-A79",
+   "no": 79,
+   "noLabel": {
+    "en": "Section 79"
+   },
+   "text": {
+    "en": "Possession and usufruct of real property within one year from due date of sale. After the sale\nand before redemption, or before the expiration of the term of one year fixed in Section seventy-eight hereof\n\nfor such redemption, the real property shall remain in the possession of the delinquent tax payer, who shall\nhave the right to the usufruct thereof."
+   }
+  },
+  {
+   "id": "PH-H21899-A80",
+   "no": 80,
+   "noLabel": {
+    "en": "Section 80"
+   },
+   "text": {
+    "en": "Issuance of final bill of sale. In case the delinquent taxpayer or his representative, or any person\nholding a lien or claim over the property, fails to redeem the same within the period of one year from the date\nof sale as provided in Section seventy-eight hereof, the provincial or city treasurer shall make an instrument\nsufficient in form and effect to convey to the purchaser the property purchased by him, free from any\nencumbrance or third party claim whatsoever, and the said instrument shall succinctly set forth all proceedings\nupon which the validity of the sale depends. Any balance of the proceeds of the sale left after deducting the\namount of the taxes and penalties due and the costs of sale, shall be returned to the owner or his\nrepresentative."
+   }
+  },
+  {
+   "id": "PH-H21899-A81",
+   "no": 81,
+   "noLabel": {
+    "en": "Section 81"
+   },
+   "text": {
+    "en": "Disposition of real property acquired by province or city. The provincial or city treasurer shall\nhave charge of the delinquent real property acquired by the province or city under the provisions of Section\nseventy-five during which time the delinquent taxpayer shall have possession and usufruct of such property in\naccordance with Section seventy-nine hereof. Said treasurer shall take steps within one year from the date of\nissuance of final bill of sale to dispose of the delinquent real property at public auction; but at any time before\nthe auction sale, any person in his own right may repurchase such property by paying the total amount of the\ntaxes and penalties due up to the time of repurchase, the costs of sale, and other legitimate expenses incurred\nby the province or city with respect to the property, and an additional penalty of twenty per cent on the\npurchase price: Provided, however, That the right of the delinquent taxpayer or his representative or any\nperson holding lien or claim over the property to further redeem said property within one year from the date of\nacquisition by the province or city, in the manner provided in Section seventy- eight hereof; and, Provided,\nfurther That if the treasurer has entered into a contract for the lease of the property in the meantime, any\nrepurchase made hereunder shall be subject to such contract."
+   }
+  },
+  {
+   "id": "PH-H21899-A82",
+   "no": 82,
+   "noLabel": {
+    "en": "Section 82"
+   },
+   "text": {
+    "en": "Collection of real property tax through the courts. The delinquent real property tax shall\nconstitute a lawful indebtedness of the taxpayer to the province or city and collection of the tax may be\nenforced by civil action in any court of competent jurisdiction. The civil action shall be filed by the Provincial\nor City fiscal within fifteen days after receipt of the statement of delinquency certified to by the provincial or\ncity treasurer. This remedy shall be in addition to all other remedies provided by law."
+   }
+  },
+  {
+   "id": "PH-H21899-A83",
+   "no": 83,
+   "noLabel": {
+    "en": "Section 83"
+   },
+   "text": {
+    "en": "Suits assailing validity of tax sale. No court shall entertain any suit assailing the validity of a\ntax sale of real estate under this Chapter until the taxpayer shall have paid into court the amount for which the\nreal property was sold, together with interests of twenty per centum per annum upon that sum from the date of\nsale to the time of instituting suit. The money so paid into court shall belong to the purchaser at the tax sale if\nthe deed is declared invalid, but shall be returned to the depositor if the action fails.\nNeither shall any court declare a sale invalid by reason of irregularities or informalities in the proceedings\ncommitted by the officer charged with the duty of making sale, or by reason of failure by him to perform his\nduties within the time herein specified for their performance, unless it shall have been proven that such\nirregularities, informalities or failure have impaired the substantial rights of the taxpayer."
+   }
+  },
+  {
+   "id": "PH-H21899-A84",
+   "no": 84,
+   "noLabel": {
+    "en": "Section 84"
+   },
+   "text": {
+    "en": "Payment of delinquent taxes on property subject of controversy. In any suit involving the\nownership or possession of, or succession to, real property, the court shall, on its own motion or upon\nrepresentation of the provincial, city or municipal treasurer or his deputy, condition the award of such\nownership, possession or succession to any party to the controversy upon the payment to the court of the taxes\nand penalties due on the property and all the costs that may have accrued to the treasurer by reason of his\nrepresentation."
+   }
+  },
+  {
+   "id": "PH-H21899-A85",
+   "no": 85,
+   "noLabel": {
+    "en": "Section 85"
+   },
+   "text": {
+    "en": "Treasurer to certify delinquencies Remaining uncollected The provincial, city or municipal\ntreasurer shall prepare a certified list of all real property tax delinquencies remaining uncollected or\nunsatisfied for at least one year in his jurisdiction, and a statement of the reason or reasons for such\nnon-collection or non-satisfaction, and shall submit the same to the Secretary of Finance on or before\n\nDecember thirty-first of the year immediately succeeding that in which the delinquencies have occurred with a\nrequest for assistance in the enforcement of the remedies for collection provided hereunder.\nCHAPTER VII\nDISPOSITION OF PROCEEDS"
+   }
+  },
+  {
+   "id": "PH-H21899-A86",
+   "no": 86,
+   "noLabel": {
+    "en": "Section 86"
+   },
+   "text": {
+    "en": "Distribution of proceeds. (a) The proceeds of the real property tax, except as otherwise\nprovided in this Code, shall accrue to the province, city or municipality where the property subject to the tax is\nsituated and shall be applied by the respective local government unit for its own use and benefit.\n(b) Barrio shares in real property tax collection. The annual shares of the barrios in real property tax collection\nshall be as follows:\n(1) Five percent of the real property tax collection of the province and another five per cent of the collections\nof the municipality shall accrue to the barrio where the property is situated.\n(2) In the case of the city, ten per cent of the collections of the tax shall likewise accrue to the barrio where the\nproperty is situated.\nThirty per cent of the barrio shares herein referred to may be spent for salaries or per diems of the barrio\nofficials and other administrative expenses, while the remaining seventy per cent shall be utilized for\ndevelopment projects approved by the Secretary of Local Government and Community Development or by\nsuch committee created, or representatives designated, by him."
+   }
+  },
+  {
+   "id": "PH-H21899-A87",
+   "no": 87,
+   "noLabel": {
+    "en": "Section 87"
+   },
+   "text": {
+    "en": "Application of proceeds. (a) The proceeds of the real property tax pertaining to the city and to\nthe municipality shall accrue entirely to their respective general funds. In the case of the province, one-fourth\nthereof shall accrue to its road and bridge fund and the remaining three-fourths, to its general fund.\n(b) The entire proceeds of the additional one per cent real property tax levied for the Special Education Fund\ncreated under R.A. No. 5447 collected in the province or city on real property situated in their respective\nterritorial jurisdictions shall be distributed as follows:\n(1) Collections in the provinces: Fifty per cent shall accrue to the municipality where the property subject to\nthe tax is situated; twenty per cent shall be remitted to the province; and thirty per cent shall be remitted to the\nTreasurer of the Philippines to be expended exclusively for stabilizing the Special Education Fund in\nmunicipalities, cities and provinces in accordance with the provisions of Section seven of R.A. No. 5447.\n(2) Collections in the cities: Sixty per cent shall be retained by the city; and forty per cent shall be remitted to\nthe Treasure of the Philippines to be expended exclusively for stabilizing the Special Education Fund in\nmunicipalities, cities and provinces as provided under Section 7 of R.A. No. 5447.\nHowever, any increase in the shares of provinces, cities and municipalities from said additional tax accruing\nto their respective local school boards commencing with fiscal year 1973-74 over what has been actually\nrealized during the fiscal year 1971-72 which, for purposes of this Code, shall remain as the base year, shall\nbe divided equally between the general fund and the special education fund of the local government units\nconcerned. The Secretary of Finance may, however, at his discretion, increase to not more than seventy-five\nper cent the amount that shall accrue annually to the local general fund.\n(c) The proceeds of all delinquent taxes and penalties, as well as the income realized from the use, lease or\nother disposition of the real property acquired by the province or city at a public auction in accordance with\nthe provisions of this Code, and the proceeds of the sale of the delinquent real property or of the redemption\nthereof, shall accrue to the province, city or municipality in the same manner and proportions as if the tax or\ntaxes had been paid in regular course.\n(d) The proceeds of the additional real property tax on idle private lands shall accrue to the respective general\nfunds of the province, city and municipality where the land subject to the tax is situated.\nCHAPTER VIII\n\nORGANIZATION, FUNCTIONS ANDSUPERVISION"
+   }
+  },
+  {
+   "id": "PH-H21899-A88",
+   "no": 88,
+   "noLabel": {
+    "en": "Section 88"
+   },
+   "text": {
+    "en": "Provincial or city assessor, his assistant and deputies and their appointments. There shall be a\ndistinct and separate assessment office in every province or city under the charge of a provincial or city\nassessor, who shall be appointed by the President of the Philippines in the manner prescribed by law. The\nposition of provincial or city assessor shall belong to the competitive service and its salary shall be as fixed by\nThere shall be an Assistant Provincial or City Assessor in each assessment office, who shall be appointed by\nthe provincial or city assessor in conformity with the provisions of the Civil Service Law, subject to the\napproval of the Secretary of Finance. The salaries of the Assistant Provincial or City Assessor shall likewise\nbe as fixed by law.\nUpon the approval of this Code no person shall be appointed to the position of provincial or city assessor, or\nthe position of assistant provincial or city assessor, unless he possesses a degree in law, civil or mechanical\nengineering, commerce, or any other related college course, has qualified in an appropriate Civil Service\nexamination, and has acquired at least five years experience in real property assessment work. For every year\nlacking in educational attainment, a two-year experience in assessment work in addition to the foregoing\nfive-year requirement may be substituted: Provided, That he shall have completed at least two years of any of\nthe college courses aforementioned.\nUpon the effectivity of this Code, vacant positions of provincial and city assessors and of assistant provincial\nand city assessors shall be filled in accordance with the provisions of this Section.\nThe other employees in the Assessment office, whose number and salaries shall be fixed by the Provincial\nBoard or Municipal Board or City Council, shall be appointed by the Provincial Governor or City Mayor upon\nrecommendation of the provincial or city assessor, in conformity with the provisions of the Civil Service Law:\nProvided, That there shall be in each provincial or city assessment office at least three deputy assessors to\nperform full-time field assessment work. Any person with at least two years college education and two years\nexperience in assessment work and who possesses an appropriate civil service eligibility shall be deemed\nqualified for appointment as a deputy assessor.\nThe oath of office of provincial or city assessors and assistant provincial or city assessors shall contain a\nstatement to the effect that the affiant shall appraise real property subject to assessment at its current market\nvalue in accordance with this Code."
+   }
+  },
+  {
+   "id": "PH-H21899-A89",
+   "no": 89,
+   "noLabel": {
+    "en": "Section 89"
+   },
+   "text": {
+    "en": "Powers and duties of provincial or city assessor. The provincial or city assessor shall:\n(a) Establish a systematic method of assessment in the manner prescribed herein and in accordance with rules\nand regulations issued by the Secretary of Finance.\n(b) Install and maintain a real property identification and accounting system conforming to the standards\nprescribed by the Secretary of Finance.\n(c) Prepare, install and maintain a system of tax mapping showing graphically all property subject to\nassessment in his province or city and gather all necessary data concerning the same.\n(d) Make frequent physical surveys to check and determine whether all real property within the locality are\nproperly listed in the assessment rolls.\n(e) Appraise all items of real property at current market value in accordance with this Code and conduct\nregular ocular inspection trips to determine if all properties are assessed correctly.\n(f) Keep a record of all transfers, leases and mortgages of real property, rentals, insurance, and cost of\nconstruction of buildings and other improvements on land, and land income for assessment purposes.\n(g) Apply uniformly the assessment levels fixed in Section twenty hereof to the current market value of all\nproperty subject to assessment.\n\n(h) Cancel all of the assessments, in case several assessments are made for the same property, except the one\nproperty make, but if any assessee or his representative shall object to the cancellation of the assessment made\nin his name, such assessment shall not be cancelled but the fact shall be noted on the tax declaration and\nassessment rolls and other property books of record. Preference, however, shall be given to the assessment of\nthe person who has the best title to the property, or in default thereof, of the person who has possession of the\n(i) Eliminate from the assessment of taxable property such properties which have been destroyed or which,\nbeing exempt, have been improperly included in the same; decrease the assessment where the property\npreviously assessed has suffered a permanent loss of value by reason of storm, flood, fire, or other calamity;\nand increase the assessment where improvement have been made upon the property subsequent to the last\nassessment.\n(j) Attend personally or thru his duly authorized representative all sessions of the Local Board of Assessment\nAppeals and present any information or record in his possession as may be required by the Board in\ndetermining the correct assessment of the real property under appeal.\n(k) Issue certificates pertaining to or certified copies of the assessment records of real property and all other\nrecords relative to its assessment, upon payment of a service charge or fee fixed therefor by the local board or\n(l) Perform such other acts as may be required of provincial or city assessor under this Code or other related"
+   }
+  },
+  {
+   "id": "PH-H21899-A90",
+   "no": 90,
+   "noLabel": {
+    "en": "Section 90"
+   },
+   "text": {
+    "en": "The Municipal Deputy Assessor. There is hereby created in every municipality the position of\nmunicipal deputy assessor, who shall be appointed by the provincial assessor with the approval of the\nSecretary of Finance. The salary of the municipal deputy assessor shall be equal to the basic salary authorized\nby law for the municipal treasurer of the same municipality, one-third of the annual rate to be paid from the\nprovincial general fund and two-thirds, from the municipal general fund. Within one year from the date of\napproval of this Code, the position of Municipal Deputy Assessor shall be created and provided for in the\ncorresponding provincial and municipal budgets and filed in accordance with the provisions of this Section.\nAny person with a bachelor's degree in law, civil or mechanical engineering, commerce or business\nadministration, or any other related collegiate course and who possesses an appropriate civil service eligibility\nshall be deemed qualified for appointment as municipal deputy assessor. A two-year experience in assessment\nwork may be substituted for every year lacking in the educational requirement: Provided, however, That the\nappointee shall have completed at least two years of any of the college courses abovementioned.\nThe Municipal Deputy Assessor shall perform all the duties and functions related to the appraisal and\nassessment for taxation purposes of real property situated within the municipality under the direct and\nimmediate supervision of the provincial assessor.\nIn the municipalities belonging to the fourth class category or lower, the municipal treasurer may be appointed\nex-officio deputy assessor by the provincial assessor upon recommendation of the provincial treasurer:\nProvided, however, That such municipal treasurer possesses the minimum qualification requirements\nprescribed herein; Provided, further, That no ex-officio appointment shall extend beyond twelve months from\nthe date of issue unless renewed by the appointing authority; and Provided, finally, That the appointment of a\nregular municipal treasurer as ex-officio deputy assessor shall cease and be considered terminated upon the\nappointment of a regular municipal deputy assessor as herein provided.\nA municipal treasurer appointed as ex-officio deputy assessor shall receive additional compensation\nequivalent to not more than twenty per cent of his basic salary payable by the municipality. In no case\nhowever shall his basic salary plus such additional compensation exceed the basic salary authorized for a\nmunicipal treasurer of the next higher class of municipality.\nMunicipal treasurers who at the time of approval of this Code are already appointed as ex-officio deputy\n\nassessors shall continue in such capacity until the appointment of a regular municipal deputy assessor in\naccordance with this Code."
+   }
+  },
+  {
+   "id": "PH-H21899-A91",
+   "no": 91,
+   "noLabel": {
+    "en": "Section 91"
+   },
+   "text": {
+    "en": "Supervision over local assessment offices. The Secretary of Finance shall exercise direct\nexecutive supervision over local assessment affairs and the assessment offices of provincial, city and\nmunicipal governments and, for this purpose, there is hereby created a division in the Department of Finance\nwhich shall discharge all powers, duties and functions that may be deemed necessary in, or are pertinent to,\nthe administration of the real property tax and the implementation of the provisions of this Code.\nThe head of this division shall in no case receive compensation and/or emoluments lower than those\nauthorized for the regular division chiefs of the Department. Sufficient funds for the operation and\nmaintenance of said division shall be included in the annual appropriations of the Department.\nSPECIAL PROVISIONS"
+   }
+  },
+  {
+   "id": "PH-H21899-A92",
+   "no": 92,
+   "noLabel": {
+    "en": "Section 92"
+   },
+   "text": {
+    "en": "Basis for payment of just compensation in expropriation proceedings. In determining just\ncompensation when private property is acquired by the government for public use, the basis shall be the\nmarket value declared by the owner or administrator or anyone having legal interest in the property, or such\nmarket value as determined by the assessor, whichever is lower."
+   }
+  },
+  {
+   "id": "PH-H21899-A93",
+   "no": 93,
+   "noLabel": {
+    "en": "Section 93"
+   },
+   "text": {
+    "en": "Educational institutions exempt from the real property tax. Non-stock or non-profit educational\ninstitutions owning real property, the total assessed value of which does not exceed thirty thousand pesos, as\nwell as Education Foundations organized under Republic Act No. 6055, shall be exempt from the payment of\nrealty taxes provided for under this Code."
+   }
+  },
+  {
+   "id": "PH-H21899-A94",
+   "no": 94,
+   "noLabel": {
+    "en": "Section 94"
+   },
+   "text": {
+    "en": "Assessment revolving fund. The sum of ten million pesos is hereby appropriated out of any\nfunds in the National treasury not otherwise appropriated to constitute a special fund to be known as the\nAssessment Revolving Fund to finance the periodic general revision of real property assessments in provinces\nand cities. Such fund shall be administered by the Secretary of Finance and shall be loaned without interest to\nprovinces and cities under such terms and conditions as he may impose."
+   }
+  },
+  {
+   "id": "PH-H21899-A95",
+   "no": 95,
+   "noLabel": {
+    "en": "Section 95"
+   },
+   "text": {
+    "en": "General assessment revision, expenses incident thereto. Provincial, city and municipal boards\nor councils shall provide the necessary appropriations to underwrite or defray expenses incident to general\nrevision of real property assessments, using for the purpose any unappropriated balances in the general, road\nand bridge and/or permanent public improvement funds, or any underestimated revenues accruing thereto, or\nreversions of authorized appropriations in their respective budgets which are not otherwise urgently needed,\nany provision of existing laws to the contrary notwithstanding.\nAll expenses incident to a general revision of property assessments shall be divided equally between the\nprovince and the municipality.\nMISCELLANEOUS PROVISIONS"
+   }
+  },
+  {
+   "id": "PH-H21899-A96",
+   "no": 96,
+   "noLabel": {
+    "en": "Section 96"
+   },
+   "text": {
+    "en": "Remission of tax by provincial or city board or council. In case of a general failure of crops or\ngreat decrease in the price of products, or similar widespread disaster in any city or municipality or\nmunicipalities of a province, the provincial of city board or council of the same, by resolution passed prior to\nthe first day of January of any year may remit, wholly or partially, the real property tax or the penalties\nthereon for the succeeding year in the city or municipality or municipalities effected by the disaster, but a\nresolution so disposing must clearly state the reason or reasons for such remission and shall not take effect\nuntil approved by the Secretary of Finance."
+   }
+  },
+  {
+   "id": "PH-H21899-A97",
+   "no": 97,
+   "noLabel": {
+    "en": "Section 97"
+   },
+   "text": {
+    "en": "Remission or reduction of tax by the President of the Philippines. The President of the\nPhilippines, may, in his discretion, remit or reduce the real property tax for any year in my city, municipality\nor province if he deems that public interest so requires."
+   }
+  },
+  {
+   "id": "PH-H21899-A98",
+   "no": 98,
+   "noLabel": {
+    "en": "Section 98"
+   },
+   "text": {
+    "en": "Duty of offers to assist the provincial or city assessor. It shall be the duty of every officer and\nemployee of the provincial, city and municipal governments to render all necessary assistance to the\nprovincial or city assessor. It shall likewise be the duty of registers of deeds and notaries public to furnish the\nprovincial or city assessors with copies of all contracts conveying, leasing, or mortgaging real property\nreceived by, or acknowledged before, them."
+   }
+  },
+  {
+   "id": "PH-H21899-A99",
+   "no": 99,
+   "noLabel": {
+    "en": "Section 99"
+   },
+   "text": {
+    "en": "Insurance companies to furnish information. Insurance companies, whenever requested, shall\nfurnish in each particular case to the provincial or city assessor copies of any contract or policy insurance on\nbuildings, structures and improvements insured by them which may be necessary for the proper assessment"
+   }
+  },
+  {
+   "id": "PH-H21899-A100",
+   "no": 100,
+   "noLabel": {
+    "en": "Section 100"
+   },
+   "text": {
+    "en": "Fees in court actions. All court actions, criminal or civil, instituted at the instance of the\nprovincial or city treasurer or assessor under the provisions of this Code, shall be exempt from the payment of\ncourt and sheriff's fees."
+   }
+  },
+  {
+   "id": "PH-H21899-A101",
+   "no": 101,
+   "noLabel": {
+    "en": "Section 101"
+   },
+   "text": {
+    "en": "Fees in registration of papers or documents on sale of delinquent real property to province or\ncity. All certificates, documents, or papers covering the sale of delinquent property to the province or city, if\nregistered in the Registry of Property, shall be exempt from registration fees."
+   }
+  },
+  {
+   "id": "PH-H21899-A102",
+   "no": 102,
+   "noLabel": {
+    "en": "Section 102"
+   },
+   "text": {
+    "en": "Promulgation of rules by the Secretary of Finance. The Secretary of Finance shall promulgate\nthe rules and regulations and prescribe the forms to be used and the procedures to be followed in carrying out\nproperly and effectively the provisions of this Code."
+   }
+  },
+  {
+   "id": "PH-H21899-A103",
+   "no": 103,
+   "noLabel": {
+    "en": "Section 103"
+   },
+   "text": {
+    "en": "Real property assessment notices or owner's copies of the tax declarations to be exempt from\npostal charges or fees. All real property assessment notices or owner's copies of tax declarations sent thru the\nmails by the assessor shall be exempt from the payment of postal charges or fees.\nPENAL PROVISIONS"
+   }
+  },
+  {
+   "id": "PH-H21899-A104",
+   "no": 104,
+   "noLabel": {
+    "en": "Section 104"
+   },
+   "text": {
+    "en": "Failure to file declaration and other prohibited acts. Any person required under the provisions\nof this Code to declare real property whether taxable or exempt; who shall intentionally fail to file such\ndeclaration under the terms and conditions prescribed therefor, shall upon conviction be punished by a fine of\nnot more than one thousand pesos or by imprisonment of not more than one year or both at the discretion of\nThe same penalty shall be imposed upon any person who shall intentionally file a false declaration, or shall\notherwise conceal, remove or misrepresent the ownership, control, or tax liability of real property subject to a\ndeclaration.\nIf any of the acts abovementioned is committed in relation to property not exempt from taxation, the person\nconvicted thereof shall, moreover, forfeit his right to appeal the assessment of such property."
+   }
+  },
+  {
+   "id": "PH-H21899-A105",
+   "no": 105,
+   "noLabel": {
+    "en": "Section 105"
+   },
+   "text": {
+    "en": "Acts committed in behalf of corporations. An individual who shall commit any of the\nviolations penalized in the preceding section acting under the authority and in behalf of a corporation,\npartnership or association shall be punished by the fine and/or imprisonment therein provided, and the other\nliabilities and shall attach to the corporation, partnership or association to whom the real property is required\nto be listed for purposes of taxation or exemption. The corporation, partnership or association, shall in\naddition, pay a fine of not less than two thousand pesos nor more than five thousand pesos at the discretion of"
+   }
+  },
+  {
+   "id": "PH-H21899-A106",
+   "no": 106,
+   "noLabel": {
+    "en": "Section 106"
+   },
+   "text": {
+    "en": "Omission of property from assessment or tax rolls by officers and other acts. Any officer\ncharged with the duty of assessing real property, who shall willfully fail to assess, or shall intentionally omit\nfrom the assessment or tax roll, any real property which he knows to be lawfully taxable or shall wilfully or\nthrough gross negligence underassess any real property or shall intentionally violate or fail to perform any\nduty imposed upon him by law relating to the assessment of taxable and real property, shall upon conviction\n\nbe punished by a fine or not more than one thousand pesos or my imprisonment of not more than one year, or\nboth, at the discretion of the court.\nThe same penalty shall be imposed upon any officer charged with the duty of collecting the tax due on real\nproperty who shall willfully fail to collect the tax and institute the necessary proceedings for the collection of\nAny other officer required by this code to perform acts relating to the administration of the real property tax,\nor to assist the assessor or treasurer in such administration, who shall willfully fail to discharge such duties,\nshall upon conviction, be punished by a fine or not exceeding five hundred pesos or by imprisonment of not\nmore than six months, or both, at the discretion of the court."
+   }
+  },
+  {
+   "id": "PH-H21899-A107",
+   "no": 107,
+   "noLabel": {
+    "en": "Section 107"
+   },
+   "text": {
+    "en": "Government agents delaying assessment of real property and assessment appeals. Any\ngovernment official who shall intentionally and deliberately delay the assessment of real property, or the filing\nof any appeal against its assessment, if such is patently indicated, shall, upon conviction, be punished by a fine\nof not more than five hundred pesos or by imprisonment of not more than one year, or both, at the discretion\nof the court."
+   }
+  },
+  {
+   "id": "PH-H21899-A108",
+   "no": 108,
+   "noLabel": {
+    "en": "Section 108"
+   },
+   "text": {
+    "en": "Violation of other provisions of this Code or of rules and regulations in general. Any person\nwho shall violate any provision of this Code or any rule or regulations of the Department of Finance made in\nconformity thereto, for which violation no specific penalty is provided by law, shall be punished by a fine of\nnot more than three hundred pesos, or by imprisonment of not more than six months, or both, at the discretion\nof the court. In the case of a corporation, partnership, or association, the penalty shall be fine of not less than\ntwo thousand pesos nor more than five thousand pesos at the discretion of the court.\nCHAPTER XII\nTRANSITORY PROVISIONS"
+   }
+  },
+  {
+   "id": "PH-H21899-A109",
+   "no": 109,
+   "noLabel": {
+    "en": "Section 109"
+   },
+   "text": {
+    "en": "Sale and forfeiture before effectivity of Code. All sales and forfeitures of delinquent real\nproperties and tax delinquencies existing before the effective date of this Code shall be governed by the\nprovisions of laws then in force."
+   }
+  },
+  {
+   "id": "PH-H21899-A110",
+   "no": 110,
+   "noLabel": {
+    "en": "Section 110"
+   },
+   "text": {
+    "en": "Turn over of pending assessment cases, records, supplies and equipment of the Board of\nAssessment Appeals. All assessment cases pending before the Board of Assessment Appeals created under\nCommonwealth Act No. 470 and the charters of all cities including all their records, supplies and equipment\nshall be turned over by its outgoing Chairman to the local Board of Assessment Appeals in their respective\nlocalities created under Presidential Decree No. 76. Such cases shall be decided pursuant to and in accordance\nwith the provisions of this Code."
+   }
+  },
+  {
+   "id": "PH-H21899-A111",
+   "no": 111,
+   "noLabel": {
+    "en": "Section 111"
+   },
+   "text": {
+    "en": "Repealing Clause. Commonwealth Act Numbered Four Hundred Seventy, as amended; the\npertinent provisions of the charters of all cities; Section two thousand ninety-two of the Revised\nAdministrative Code; and all acts, laws or decrees or parts of acts, laws or decrees inconsistent with the\nprovisions of this Code are hereby repealed or modified accordingly."
+   }
+  },
+  {
+   "id": "PH-H21899-A112",
+   "no": 112,
+   "noLabel": {
+    "en": "Section 112"
+   },
+   "text": {
+    "en": "Effectivity of Code. This Code shall take effect on June 1, 1974.\nDone in the City of Manila, this 20th day of May, in the year of Our Lord Nineteen Hundred and\nSeventy-four."
+   }
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "id": "MY-H6195",
+ "title": {
+  "zh": "2025年网络安全（豁免）令",
+  "en": "CYBER SECURITY (EXEMPTION) ORDER 2025",
+  "orig": "CYBER SECURITY (EXEMPTION) ORDER 2025",
+  "ms": "Perintah Keselamatan Siber (Pengecualian) 2025",
+  "vi": "Lệnh về An ninh mạng (Miễn trừ) năm 2025",
+  "th": "คำสั่งความมั่นคงปลอดภัยไซเบอร์ (การยกเว้น) ค.ศ. 2025",
+  "id": "Perintah Keamanan Siber (Pembebasan) Tahun 2025"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-14",
+ "language": "ms",
+ "level": "regulation",
+ "category": "02_民商事与经济法",
+ "status": "active",
+ "promulgatedDate": "2025",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "PUA47",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 2,
+ "chars": 933,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-view.php?type=pua&no=P.U. (A) 47/2025&status=PRINCIPAL"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\02_民商事与经济法\\2025_P.U.(A)47-2025_CYBER SECURITY (EXEMPTION) ORDER 2025.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 2 条；逐字未改写（源自厂商 OCR 文本）。原文马来文/英文双语并置，已分别落 text.ms 与 text.en。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H6195-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "1. (1) Perintah ini bolehlah dinamakan Perintah Keselamatan Siber\n(Pengecualian) 2025.\n\n (2) Perintah ini mula berkuat kuasa pada 1 Februari 2025.\n\nPengecualian"
+   }
+  },
+  {
+   "id": "MY-H6195-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "2. Menteri mengecualikan orang yang berikut daripada semua peruntukan Akta:\n\n(a) Amazon Data Services Malaysia Sdn. Bhd.;\n(b) Amazon Web Services Malaysia Sdn. Bhd.;\n(c) Google Asia Pacific Pte. Ltd.;\n(d) Google Cloud Malaysia Sdn. Bhd.;\n(e) Google Malaysia Sdn. Bhd.;\n(f) Microsoft Knowledge Capital Centre Sdn. Bhd.;\n(g) Microsoft (Malaysia) Sdn. Bhd.;\n(h) Microsoft Payments (Malaysia) Sdn. Bhd.; dan\n(i) Pearl Computing Malaysia Sdn. Bhd.\n\nDibuat 28 Januari 2025\n[MKN(S).600-2/1/6(S); PN(PU2)768]\n\nDATO' SERI ANWAR BIN IBRAHIM\nPerdana Menteri\n\n CYBER SECURITY ACT 2024\n\nCYBER SECURITY (EXEMPTION) ORDER 2025\n\nIN exercis e of the powers conferred by section 6 1 of the\nCyber Security Act 2024 [Act 854], the Minister makes the following order:\n\nCitation and commencement"
+   }
+  }
+ ]
+}

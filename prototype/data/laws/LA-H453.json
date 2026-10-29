@@ -1,9 +1,13 @@
 {
  "id": "LA-H453",
  "title": {
-  "zh": "gaz_p2",
-  "en": null,
-  "orig": "gaz_p2"
+  "zh": "老挝官方公报 · 决议列表页（第 2 页）",
+  "en": "Lao Official Gazette — Listing of Decisions (Page 2)",
+  "orig": "ຈົດໝາຍເຫດທາງລັດຖະການ ແຫ່ງ ສປປ ລາວ — ລາຍການ ຂໍ້ຕົກລົງ (ໜ້າ 2)",
+  "vi": "Công báo chính thức của Lào — Danh mục nghị quyết (trang 2)",
+  "th": "ราชกิจจานุเบกษาแห่ง สปป. ลาว — รายการมติ (หน้า 2)",
+  "id": "Berita Resmi Laos — Daftar Keputusan (Halaman 2)",
+  "ms": "Warta Rasmi Laos — Senarai Resolusi (Halaman 2)"
  },
  "country": "LA",
  "countryName": "老挝",
@@ -21,7 +25,7 @@
  "docNumber": null,
  "officialCode": null,
  "topics": [],
- "coverage": "full",
+ "coverage": "fragment",
  "structureMode": "WHOLE",
  "structure": null,
  "articleCount": 1,
@@ -32,8 +36,8 @@
  },
  "sourceFile": null,
  "fetchedAt": "2026-10-08",
- "completenessNote": "全文，共 1 条；经《东盟法律分类》归档原件重新校核切分，逐字未改写。（本件原文语种为 lo）（本次由归档原件补录入库）",
- "textQuality": null,
+ "completenessNote": "本条并非单部法规正文，而是老挝官方公报网站「ຂໍ້ຕົກລົງ（决议）」栏目列表页第 2 页的抓取件：正文为栏目菜单与条目列表（含 10 条决议的标题、发布机关与生效日期），不含任何法规条文。原 completenessNote 所记「全文，共 1 条」不适用，已更正。建议后续以列表中的正式决议单独入库后剔除本条。",
+ "textQuality": "web-listing-page",
  "ocrNoisySections": null,
  "pdfs": null,
  "duplicateOf": null,
@@ -49,5 +53,5 @@
    }
   }
  ],
- "titleFilledFrom": "来源：source.name（2026-10-24 补）"
+ "titleFilledFrom": "来源：正文自描述（2026-10-26 核校，非源自法规标题）"
 }

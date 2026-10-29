@@ -1,0 +1,140 @@
+{
+ "id": "ID-H100",
+ "title": {
+  "zh": "大雅加达治理法",
+  "en": "Law on the Government of Greater Jakarta",
+  "id": "PEMERINTAHAN JAKARTA RAYA SEBAGAI UNDANG UNDANG",
+  "orig": "PEMERINTAHAN JAKARTA RAYA SEBAGAI UNDANG UNDANG",
+  "vi": "Luật về Chính quyền Jakarta Raya",
+  "th": "พระราชบัญญัติว่าด้วยการปกครองจาการ์ตารายา",
+  "ms": "Akta tentang Pemerintahan Jakarta Raya"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02a",
+ "language": "id",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "1956",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU20-1950",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 7,
+ "chars": 4977,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": null
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\01_宪法与基础法\\印尼_WLD_1956_PEMERINTAHAN JAKARTA RAYA SEBAGAI UNDANG UNDANG.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 7 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H100-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {},
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 1.\n*1100(1)Pemerintahan Kota Jakarta, sebagai satuan pemerintahan\nyang lingkungannya ditetapkan dalam Keputusan Presiden Republik\nIndonesia\nSerikat No. 125 tahun 1950, dijalankan atas nama\nPemerintahan Republik Indonesia oleh seorang Walikota.(2)Walikota\nJakarta menjalankan\ntugas pemerintahan itu dengan memperhatikan\npetunjuk-petunjuk Menteri dalam Negeri."
+   }
+  },
+  {
+   "id": "ID-H100-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {},
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 2.\nPemerintahan Kota Jakarta, sebagai satuan kenegaraan yang\nmengurus rumah-tangganya sendiri, yang daerahnya ditetapkan baru\nmenurut\nKeputusan Presiden Republik Indonesia Serikat No. 125 tahun\n1950, disebut \"Kotapraja Jakarta-Raya\", dijalankan menurut\naturan-aturan\ntermaktub dalam pasal-pasal berikut."
+   }
+  },
+  {
+   "id": "ID-H100-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {},
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 3.\nKekuasaan-kekuasaan kewajiban-kewajiban dan\npekerjaan-pekerjaan:,\na.yang menurut peraturan-peraturan umum atau peraturan-peraturan\nyang telah ditetapkan dahulu oleh Dewan Propinsi atau \"College van\nGedeputeerden\" Propinsi Jawa Barat yang telah dibubarkan, seberapa\nperaturan-peraturan itu hingga kini masih berlaku dahulu berada.\ndalam tangan Dewan' Propinsi atau \"College van Gedeputeerden\"\nPropinsi Jawa Barat dahulu.\nb.yang menurut \"Stadsgemeente-ordonnantie\" dahulu berada dalam\ntangan Gubernur.\nc.yang menurut \"Ordonnantie tijdelijke voorzieningen stadsgemeenten\nJaya\" dipegang oleh \"Secretaris van Staat voor Bin nenlandse\nZaken\"\ndahulu.\ndiserahkan dalam tangan Menteri Dalam Negeri."
+   }
+  },
+  {
+   "id": "ID-H100-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {},
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 4.\nDengan tidak mengurangi kekuasaan-kekuasaan, kewajiban-kewajiban\ndan pekerjaan-pekerjaan, yang menurut peraturan-peraturan yang\nsampai\nkini berlaku, sudah diletakkan dalam tangan Walikota\nJakarta-Raya, maka kepada Walikota Jakarta-Raya dibebankan pula\nkekuasaan-kekuasaan,\nkewajiban-kewajiban dan pekerjaan-pekerjaan\nyang menurut \"Ordonnantie bestuurs-organisatie Batavia en\nOmmelanden\" (Staatsblad 1949\nNo. 63) dahulu dipegang oleh:\na.Gubernur Daerah Jakarta dan Sekitarnya, sepanjang tidak\nmengenai kekuasaan militer dan kecuali yang dimaksud dalam pasal 3\ndi atas\nini;\nb.Residen Daerah Sekitar Jakarta."
+   }
+  },
+  {
+   "id": "ID-H100-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {},
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 5.\nPeraturan-peraturan dan keputusan-keputusan mengenai\npenyelenggaraan tugas-pemerintahan yang telah ditetapkan oleh:\na.Gubernur Daerah Jakarta dan Sekitarnya.\nb.Residen Daerah Sekitar Jakarta.tetap berlaku sampai pada waktu\ndiubahnya atau dicabutnya oleh *1101 pengusaha yang berwajib."
+   }
+  },
+  {
+   "id": "ID-H100-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {},
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 6.\nPeraturan-peraturan dan ketentuan-ketentuan dalam:\na.Ordonnantie bestuursorganisatie Batavia en Ommelanden\"\n(Staatsblad 1949 No. 63).\nb.Ordonnantie tijdelijke voorzieningen bestuur stadsgemeenten\"\n(Staatsblad 1948 No. 195).tetap berlaku, selama dan sekedar\nperaturan-peraturan\ndan ketentuan-ketentuan itu tidak diubah atau\ntidak bertentangan dengan peraturan-peraturan dan\nketentuan-ketentuan dalam undang-undang\nini, segala sesuatunya itu\ntidak mengurangi ketetapan dalam pasal 142 Undang-undang Dasar\nSementara."
+   }
+  },
+  {
+   "id": "ID-H100-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {},
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 7.\nUndang-undang ini dinamakan \"Undang-undang Pemerintahan\nJakarta-Raya\".\nPASAL II.\nUndang-undang ini mulai berlaku pada hari diundangkan.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan\npengundangan undang-undang ini dengan penempatan dalam\nLembaran-Negara\nRepublik Indonesia.\nDisahkan di Jakarta,pada tanggal 7 Pebruari 1956.Presiden\nRepublik Indonesia,\nSOEKARNO.\nDiundangkanpada tanggal 10 Pebruari 1956.Menteri\nKehakiman,LOEKMAN WIRIADINATA.\nMenteri Dalam Negeri a.i.,\nSUROSO\nMEMORI PENJELASAN.ATASUNDANG-UNDANG REPUBLIK INDONESIANOMOR 1\nTAHUN 1956TENTANGPENETAPAN \"UNDANG-UNDANG DARURAT REPUBLIK\nINDONESIA\nSERIKAT NO.20TAHUN 1950 (LEMBARAN-NEGARA NO.31 TAHUN\n1950) TENTANGPEMERINTAHAN JAKARTA RAYA\" SEBAGAI UNDANG-UNDANG\nUndang-undang ini adalah penetapan Undang-undang Darurat\nRepublik Indonesia Serikat No. 20 tahun 1950 (Lembaran-Negara\nRepublik Indonesia\nSerikat tahun 1950 No. 31) sebagai undang-undang\ndengan satu perubahan. *1102 Perubahan ini ialah, bahwa kata-kata\n\"kekuasaan kepolisian\"\ndidalam pasal 4 huruf a dari pada\nUndang-undang Darurat Republik Indonesia Serikat No. 20 tahun 1950\nditiadakan. Kekuasaan kepolisian\ntersebut, yang sebelumnya\npenyerahan kedaulatan dari Pemerintah Hindia Belanda kepada\nPemerintah Indonesia ada pada tangan Gubernur\nDaerah Jakarta dan\nSekitarnya dahulu, sebagai tersebut dalam Ordonnantie\nbestuurs-organisatie Batavia en Ommelanden\" (Staatsblad\n1949 No.\n63), pada waktu berlakunya undang-undang darurat tersebut tidak\ndibebankan kepada Walikota Jakarta-Raya. Kini dianggap sudah\nwaktunya untuk memberikan kekuasaan tersebut kepada Walikota\nKotapraja Jakarta-Raya, sehingga perlu mengadakan perubahan dalam\nketentuan\ntersebut diatas. Perubahan tersebut dimaksudkan untuk\nlebih melancarkan jalannya pemerintahan Kotapraja Jakarta-Raya.\nTermasuk Lembaran-Negara No. 2 tahun 1956.\n--------------------------------\nCATATAN\nRALAT\nDalam Kepala Lembaran-Negara No. 2 tahun 1956, baris pertama\nterdapat salah cetak, yakni:\n\"PEMERINTAH\" seharusnya \"PEMERINTAHAN\".\nSekretaris Kementerian Kehakiman\nMr. SOEDARJO.\nDisetujui D.P.R. dalam rapat pleno terbuka ke-4 pada hari Rabu\ntanggal 18 Januari, P.37/1955\nDICETAK ULANG"
+   }
+  }
+ ]
+}

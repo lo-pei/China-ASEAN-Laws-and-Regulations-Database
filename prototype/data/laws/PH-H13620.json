@@ -1,0 +1,82 @@
+{
+ "id": "PH-H13620",
+ "title": {
+  "zh": null,
+  "en": "An Act Appropriating the Sum of Ten thousand Pesos for the Work of Enlightening the Public on the Subject of Cancer and Its Dangers, and to Furnish, Timely and Adequate Treatment to Cancer Patients.",
+  "orig": "An Act Appropriating the Sum of Ten thousand Pesos for the Work of Enlightening the Public on the Subject of Cancer and Its Dangers, and to Furnish, Timely and Adequate Treatment to Cancer Patients."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1921-02-21",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2976",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 1182,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1921/act_2976_1921.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02976_1921_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02976_1921_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13620-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The sum of ten thousand pesos, or so much thereof as may be necessary, is hereby appropriated,\nout of any funds in the Insular Treasury not otherwise appropriated, to carry on the work of the Committee on\nCancer of the Medical Association of the Philippine Islands."
+   }
+  },
+  {
+   "id": "PH-H13620-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The funds appropriated by this Act shall be disbursed exclusively for the purchase or preparation\nof material for the dissemination of knowledge regarding cancer; for the payment of the transportation of poor\npatients from their places of residence to Manila or other places where they may receive suitable treatment;\nfor the actual and necessary expenses of volunteer lecturers in connection with said propaganda, and, if\ndeemed necessary by the Committee, for the employment of a temporary secretary, with an annual\ncompensation not to exceed six hundred pesos."
+   }
+  },
+  {
+   "id": "PH-H13620-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This sum shall be payable by the Insular Treasurer, subject to the orders of the Committee on\nCancer of the Medical Association of the Philippine Islands, upon the signature of the chairman thereof:\nProvided, That not more than five thousand pesos shall be paid out in any one year."
+   }
+  },
+  {
+   "id": "PH-H13620-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, February 21, 1921."
+   }
+  }
+ ]
+}

@@ -1,0 +1,700 @@
+{
+ "id": "ID-H621",
+ "title": {
+  "zh": "电影法",
+  "en": "Law on Film",
+  "id": "PERFILMAN",
+  "orig": "PERFILMAN",
+  "vi": "Luật về Điện ảnh",
+  "th": "พระราชบัญญัติว่าด้วยภาพยนตร์",
+  "ms": "Akta tentang Perfileman"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02a",
+ "language": "id",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "1992",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU8-1992",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 47,
+ "chars": 46132,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU__NO_8_TH_1992.pdf&fl=P00928"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\01_宪法与基础法\\印尼_文本_1992_PERFILMAN.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 47 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H621-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\n\nDalam Undang-undang ini yang dimaksud dengan:\n1. Film adalah karya cipta seni dan budaya yang merupakan media\nkomunikasi massa pandang-dengar yang dibuat berdasarkan asas\nsinematografi dengan direkam pada pita seluloid, pita video,\npiringan video, dan/atau bahan hasil penemuan teknologi lainnya\ndalam segala bentuk, jenis, dan ukuran melalui proses kimiawi,\nproses elektronik, atau proses la innya, dengan atau tanpa suara,\nyang dapat dipertunjukkan dan/atau ditayangkan dengan sistem\nproyeksi mekanik, elektronik, dan/atau lainnya;\n2. Perfilman adalah seluruh kegiatan yang berhubungan dengan\npembuatan, jasa teknik, pengeksporan, pengimporan, pengedaran,\npertunjukan, dan/atau penayangan film;\n3. Jasa teknik film adalah penyedi aan jasa tenaga profesi, dan/atau\nperalatan yang diperlukan dalam proses pembuatan film serta usaha\npembuatan reklame film;\n4. Sensor film adalah penelitian dan penilaian terhadap film dan\nreklame film untuk menentukan dapat atau tidaknya sebuah film\ndipertunjukkan dan/atau ditayangkan kepada umum, baik secara\nutuh maupun setelah peniadaan bagian gambar atau suara tertentu.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nBAB  II\nDASAR, ARAH, DAN TUJUAN"
+   }
+  },
+  {
+   "id": "ID-H621-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB  II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\n\nPenyelenggaraan perfilman di Indonesia dilaksanakan berdasarkan\nPancasila dan Undang-Undang Dasar 1945."
+   }
+  },
+  {
+   "id": "ID-H621-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB  II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\n\n Sesuai dengan dasar penyelenggaraan sebagaimana dimaksud dalam\nPasal 2, perfilman di Indonesia diarahkan kepada:\n a. pelestarian dan pengembangan nilai budaya bangsa;\n b. pembangunan watak dan kepribadian bangsa serta peningkatan\nharkat dan martabat manusia;\n c. pembinaan persatuan dan kesatuan bangsa;\n d. peningkatan kecerdasan bangsa;\n e. pengembangan potensi kreatif di bidang perfilman;\n f. keserasian dan keseimbangan di antara berbagai kegiatan dan jenis\nusaha perfilman;\n g. terpeliharanya ketertiban umum dan rasa kesusilaan;\n h. penyajian hiburan yang sehat sesuai dengan norma-norma\nkehidupan bermasyarakat, berbangsa, dan bernegara;\n dengan tetap berpedoman pada asas usaha bersama dan kekeluargaan,\nasas adil dan merata, asas perikehidupan dalam keseimbangan, dan\nasas kepercayaan pada diri sendiri.\n\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H621-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB  II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\n\nPerfilman di Indonesia dilaksanakan dalam rangka memelihara dan\nmengembangkan budaya bangsa dengan tujuan menunjang\nterwujudnya tujuan pembangunan nasional.\n\nBAB III\nFUNGSI DAN LINGKUP"
+   }
+  },
+  {
+   "id": "ID-H621-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\n\nFilm sebagai media komunikasi massa pandang-dengar mempunyai\nfungsi penerangan, pendidikan, pengembangan budaya bangsa,\nhiburan, dan ekonomi."
+   }
+  },
+  {
+   "id": "ID-H621-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\n\nLingkup Undang-undang ini meliputi seluruh film, kecuali film berita\nyang ditayangkan melalui media elektronik."
+   }
+  },
+  {
+   "id": "ID-H621-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\n\n(1) Film merupakan karya cipta seni dan budaya yang dilindungi\nberdasarkan Undang-undang Nomor 6 Tahun 1982 tentang Hak\nCipta sebagaimana telah diubah dengan Undang-undang Nomor 7\nTahun 1987 tentang Perubahan atas Undang-undang Nomor 6\nTahun 1982 tentang Hak Cipta.\n(2) Film terikat kewajiban serah simpan berdasarkan Undang-undang\nNomor 4 Tahun 1990 tentang Serah Simpan Karya Cetak dan\nKarya Rekam.\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nBAB IV\nUSAHA PERFILMAN\nBagian Pertama\nUmum"
+   }
+  },
+  {
+   "id": "ID-H621-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n\n(1) Usaha perfilman dilaksanakan atas asas usaha bersama dan\nkekeluargaan serta asas adil dan  merata guna mencegah\ntimbulnya pemusatan dan penguasaan usaha perfilman pada satu\ntangan atau satu kelompok.\n(2) Usaha perfilman meliputi:\n a. pembuatan film;\n b. jasa teknik film;\n c. ekspor film;\n d. impor film;\n e. pengedaran film;\n f. pertunjukan dan/atau penayangan film."
+   }
+  },
+  {
+   "id": "ID-H621-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n\n(1) Usaha perfilman di Indonesia hanya dapat dilakukan oleh warga\nnegara Indonesia dalam bentuk badan usaha yang berstatus\nbadan hukum Indonesia yang bergerak di bidang usaha perfilman.\n(2) Badan usaha sebagaimana dimaksud dalam ayat (1) wajib\nmemiliki izin usaha perfilman.\n(3) Izin usaha perfilman berlaku selama badan usaha yang\nbersangkutan masih melakukan kegiatan di bidang perfilman.\n(4) Ketentuan mengenai syarat dan tata cara untuk memperoleh izin\nusaha perfilman diatur lebih lanjut dengan Peraturan\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nPemerintah."
+   }
+  },
+  {
+   "id": "ID-H621-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\n\nUsaha perfilman sebagaimana dimaksud dalam Pasal 9 ayat (1),\ndilakukan dengan memperhatikan kode etik yang disusun dan\nditetapkan oleh masyarakat perfilman sesuai dengan dasar, arah, dan\ntujuan penyelenggaraan perfilman."
+   }
+  },
+  {
+   "id": "ID-H621-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\n\nDalam melakukan kegiatan, perusahaan perfilman wajib menggunakan\nkemampuan nasional yang telah tersedia."
+   }
+  },
+  {
+   "id": "ID-H621-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n\n(1) Dalam rangka pengembangan perfilman Indonesia, perusahaan\nperfilman dapat melakukan kerjasama dengan perusahaan\nperfilman asing atas dasar izin.\n(2) Kerjasama sebagaimana dimaksud dalam ayat (1) adalah\nkerjasama dalam pembuatan film, termasuk penyediaan jasa\ntertentu di bidang teknik film, ataupun penggunaan artis dan\nkaryawan film asing.\n(3) Ketentuan lebih lanjut sebagaim ana dimaksud dalam.ayat (1) dan\nayat (2), termasuk syarat dan tata cara memperoleh izin\nkerjasama, diatur dengan Peraturan Pemerintah.\n\n\n\n\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nBagian Kedua\nPembuatan Film"
+   }
+  },
+  {
+   "id": "ID-H621-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\n\n(1) Pembuatan film didasarkan atas kebebasan berkarya yang\nbertanggung jawab.\n(2) Kebebasan berkarya dalam pembuatan film sebagaimana\ndimaksud dalam ayat (1), dilakukan sesuai dengan arah dan\ntujuan penyelenggaraan perfilman dengan memperhatikan kode\netik dan nilai-nilai keagamaan yang berlaku di Indonesia."
+   }
+  },
+  {
+   "id": "ID-H621-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\n\n(1) Usaha pembuatan film hanya dapat dilakukan oleh perusahaan\npembuatan film yang memiliki izin sebagaimana dimaksud dalam\nPasal 9 ayat (2).\n(2) Pembuatan film untuk tujuan k husus dikecualikan dari ketentuan\ndalam ayat (1).\n(3) Pembuatan film  oleh pihak asing yang menggunakan lokasi di\nIndonesia dapat dilakukan atas dasar izin.\n(4) Ketentuan lebih lanjut mengenai pembuatan film sebagaimana\ndimaksud dalam ayat (1) dan ayat (2) serta syarat dan tata cara\nuntuk memperoleh izin sebagaim ana dimaksud dalam ayat (3),\ndiatur lebih lanjut dengan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H621-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\n\n(1) Pembuatan reklame film dapat dilakukan, baik oleh perusahaan\npembuatan film atau perusahaan lain yang bergerak di bidang\nreklame film maupun oleh perseorangan.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n(2) Pembuatan reklame film dilakukan sesuai dengan ketentuan\nsebagaimana dimaksud dalam Pasal 13 ayat (2) serta\nmemperhatikan kesesuaiannya dengan isi film yang\ndireklamekan."
+   }
+  },
+  {
+   "id": "ID-H621-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\n\nDalam pembuatan film, artis dan karyawan film berhak mendapatkan\njaminan sosial dan perlindungan hukum lainnya sesuai dengan\nketentuan peraturan perundang-undangan yang berlaku sehubungan\ndengan kegiatan dan peran yang dilakukan berdasarkan perjanjian\nkerja yang dibuatnya dengan perusahaan pembuatan film.\n\nBagian Ketiga\nJasa Teknik Film"
+   }
+  },
+  {
+   "id": "ID-H621-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\n\nUsaha jasa teknik film hanya dapat dilakukan oleh perusahaan jasa\nteknik film dan perusahaan pembuatan film yang memiliki izin\nsebagaimana dimaksud dalam Pasal 9 ayat (2)."
+   }
+  },
+  {
+   "id": "ID-H621-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\n\nUsaha jasa teknik film meliputi:\n a. studio pengambilan gambar;\n b. sarana pembuatan film;\n c. laboratorium pengolahan film;\n d. sarana penyuntingan film;\n e. sarana pengisian suara film;\n f. sarana pemberian teks film;\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n g. sarana pencetakan/penggandaan film;\n h. sarana lainnya yang mendukung pembuatan film.\n\nBagian Keempat\nEkspor Film"
+   }
+  },
+  {
+   "id": "ID-H621-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\n\nUsaha ekspor film dapat dilakukan ol eh perusahaan ekspor film atau\nperusahaan pembuatan film atau perusahaan pengedar film yang\nmemiliki izin sebagaimana dimaksud dalam Pasal 9 ayat (2), dengan\nmemenuhi ketentuan peraturan perundang-undangan yang berlaku.\n\nBagian Kelima\nImpor Film"
+   }
+  },
+  {
+   "id": "ID-H621-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\n\nUsaha impor film hanya dapat dilakukan oleh perusahaan impor film\nyang memiliki izin sebagaimana dimaksud dalam Pasal 9 ayat (2),\ndengan memenuhi ketentuan peraturan perundang-undangan yang\nberlaku."
+   }
+  },
+  {
+   "id": "ID-H621-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\n\n(1) Impor film merupakan pelengkap untuk memenuhi keperluan\npertunjukan dan penayangan film di dalam negeri yang\njumlahnya harus seimbang dengan peningkatan produksi film\nIndonesia.\n(2) Film impor isinya harus bermutu baik dan selaras dengan arah\ndan tujuan penyelenggaraan perfilman serta memperhatikan\nnilai-nilai keagamaan dan norma-norma yang berlaku di\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nIndonesia."
+   }
+  },
+  {
+   "id": "ID-H621-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\n\nImpor film dilakukan melalui kantor pabean di tempat kedudukan\nlembaga sensor film."
+   }
+  },
+  {
+   "id": "ID-H621-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\n\n(1) Film yang dimasukkan ke Indonesia oleh perwakilan diplomatik\natau badan-badan internasional yang diakui Pemerintah hanya\ndiperuntukkan bagi kepentingan perwakilan yang bersangkutan\ndan tidak dapat dipertunjukkan dan/atau ditayangkan kepada\numum, kecuali atas dasar izin.\n(2) Film yang dimasukkan ke Indo nesia untuk tujuan khusus hanya\ndapat dilakukan berdasarkan izin.\n(3) Ketentuan lebih lanjut mengen ai pemasukan film, syarat, dan\ntata cara untuk memperoleh izin pertunjukan dan/atau\npenayangan sebagaimana dimaksud dalam ayat (1) dan ayat (2),\ndiatur dengan Peraturan Pemerintah.\n\nBagian Keenam\nPengedaran Film"
+   }
+  },
+  {
+   "id": "ID-H621-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 24\n\nUsaha pengedaran film hanya dapat dilakukan oleh perusahaan\npengedar film dan perusahaan pembuatan film yang memiliki izin\nsebagaimana dimaksud dalam Pasal 9 ayat (2).\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H621-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\n\nFilm yang dapat diedarkan hanya fi lm yang telah dinyatakan lulus\nsensor oleh lembaga sensor film."
+   }
+  },
+  {
+   "id": "ID-H621-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\n\n(1) Kegiatan pengedaran film dilakukan dengan memperhatikan\nnilai-nilai keagamaan dan sosial budaya yang hidup di kalangan\nmasyarakat di daerah yang bersangkutan.\n(2) Pengaturan mengenai pengedaran film sebagaimana dimaksud\ndalam ayat (1), ditetapkan lebih lanjut dengan Peraturan\nPemerintah.\n\nBagian Ketujuh\nPertunjukan dan Penayangan Film"
+   }
+  },
+  {
+   "id": "ID-H621-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal  27\n\n(1) Usaha pertunjukan film hanya dapat dilakukan oleh perusahaan\npertunjukan film yang memiliki izin sebagaimana dimaksud\ndalam Pasal 9 ayat (2).\n(2) Usaha penayangan film hanya dapat dilakukan olch perusahaan\npenayangan film yang memiliki izin usaha perfilman sesuai\ndengan ketentuan peraturan perundang-undangan yang berlaku."
+   }
+  },
+  {
+   "id": "ID-H621-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\n\n(1) Pertunjukan film hanya dapat dilakukan dalam gedung atau\ntempat yang diperuntukkan bagi pertunjukan film.\n(2) Pertunjukan film, selain di tempat sebagaimana dimaksud dalam\nayat (1) dan bukan oleh perusahaan sebagaimana dimaksud\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\ndalam Pasal 27 ayat (1), hanya dapat dilakukan untuk tujuan\ntertentu.\n(3) Penayangan film dilakukan melalui stasiun pemancar penyiaran\natau perangkat clektronik lainny a yang khusus ditujukan untuk\nmenjangkau khalayak pemirsa.\n(4) Ketentuan mengenai pertunjukan dan penayangan film\nsebagaimana dimaksud dalam ayat (2) dan ayat (3), diatur lebih\nlanjut dengan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H621-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\n\n(1) Pertunjukan film sebagaimana dimaksud dalam Pasal 28 ayat (1)\ndan ayat (2), dilakukan dengan memperhatikan ketentuan\npenggolongan usia penonton yang telah ditetapkan bagi film yang\nbersangkutan.\n(2) Penayangan film sebagaimana dimaksud dalam Pasal 28 ayat (3),\ndilakukan dengan memperhatikan ketentuan penggolongan usia\npenonton yang penayangannya disesuaikan dengan waktu yang\ntepat."
+   }
+  },
+  {
+   "id": "ID-H621-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\n\nPertunjukan dan penayangan reklame film selain memperhatikan\nketentuan Pasal 29, harus memperhatikan kesesuaiannya dengan isi\nfilm yang direklamekan."
+   }
+  },
+  {
+   "id": "ID-H621-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\n\n(1) Pemerintah dapat menarik suatu film apabila dalam peredaran\ndan/atau pertunjukan dan/atau penayangannya ternyata\nmenimbulkan gangguan terhadap keamanan, ketertiban,\nketenteraman, atau' keselarasan hidup masyarakat.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n(2) Produser atau pemilik film yang terkena tindakan sebagaimana\ndimaksud dalam ayat (1), dapat melakukan pembelaan melalui\nsaluran hukum."
+   }
+  },
+  {
+   "id": "ID-H621-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 32\n\nFilm sebagaimana dimaksud dalam Pasal 23 ayat (1), hanya dapat\ndipertunjukkan dan/atau ditayangkan untuk masyarakat apabila:\n a. telah lulus sensor;\n b. tidak dipungut bayaran.\n\nBAB V\nSENSOR FILM"
+   }
+  },
+  {
+   "id": "ID-H621-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 33\n\n(1) Untuk mewujudkan arah dan tujuan penyelenggaraan perfilman\nsebagaimana dimaksud dalam Pasal 3 dan Pasal 4, setiap film dan\nreklame film yang akan diedarkan, diekspor, dipertunjukkan,\ndan/atau ditayangkan wajib disensor.\n(2) Penyensoran dapat mengakibatkan bahwa sebuah film:\n a. diluluskan sepenuhnya;\n b. dipotong bagian gambar tertentu;\n c. ditiadakan suara tertentu;\n d. ditolaknya seluruh film; untuk diedarkan, diekspor,\ndipertunjukkan, dan/atau ditayangkan.\n(3) Sensor film dilakukan, baik terhadap film dan reklame film yang\ndihasilkan oleh perusahaan pembuatan film maupun terhadap\nfilm impor.\n(4) Film dan reklame film yang telah lulus sensor diberi tanda lulus\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nsensor oleh lembaga sensor film.\n(5) Selain tanda lulus sensor, lemb aga sensor film juga menetapkan\npenggolongan usia penonton bagi film yang bersangkutan.\n(6) Film, reklame film, atau potongannya yang ditolak oleh lembaga\nsensor film dilarang diedarkan, diekspor, dipertunjukkan,\ndan/atau ditayangkan, kecuali untuk kepentingan penelitian\ndan/atau penegakan hukum.\n(7) Terhadap film yang ditolak oleh  lembaga sensor film, perusahaan\nfilm atau pemilik film dapat mengajukan keberatan atau\npembelaan kepada badan yang berfungsi memberikan\npertimbangan dalam masalah perfilman."
+   }
+  },
+  {
+   "id": "ID-H621-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 34\n\n(1) Penyensoran film dan reklame film sebagaimana dimaksud dalam\nPasal 33, dilakukan oleh sebuah lembaga sensor film.\n(2) Penyelenggaraan sensor film dan reklame film dilakukan\nberdasarkan pedoman dan kriteria penyensoran.\n(3) Pembentukan, kedudukan, susunan keanggotaan, tugas, dan\nfungsi lembaga sensor film, serta pedoman dan kriteria\npenyensoran diatur lebih lanjut dengan Peraturan Pemerintah.\n\nBAB VI\nPERANSERTA MASYARAKAT"
+   }
+  },
+  {
+   "id": "ID-H621-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 35\n\n(1) Setiap warga negara Indonesia mempunyai hak yang sama dan\nkesempatan yang seluas-luasnya untuk berperanserta dalam\nberkreasi, berkarya, dan berusaha di bidang perfilman.\n(2) Peranserta warga negara dan/atau kelompok masyarakat dapat\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\ndiwujudkan dalam bentuk peningkatan dan pengembangan mutu\nperfilman, kemampuan profesi insan perfilman, apresiasi\nmasyarakat, dan penangkalan berbagai pengaruh negatif di\nbidang perfilman nasional.\n\nBA13 VII\nPEMBINAAN PERFILMAN"
+   }
+  },
+  {
+   "id": "ID-H621-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 36\n\n(1) PemerinLah melakukan pembinaan dan pembimbingan yang\ndiperlukan dengan melaksanakan berbagai kegiatan yang\nbermanfaat bagi perkembangan perfilman.\n(2) Pemerintah melakukan pembinaan terhadap perfilman Indonesia\nuntuk:\n a. mewujudkan iklim usaha yang mampu meningkatkan\nkemampuan produksi dan mutu perfilman;\n b. menghindarkan persaingan yang tidak sehat dan mencegah\ntimbulnya pemusatan dan penguasaan usaha perfilman pada\nsatu tangan atau satu kelompok yang merugikan usaha dan\nperkembangan perfilman pada umumnya;\n c. melindungi pertumbuhan dan perkembangan perfilman\nIndonesia dalam arti yang seluas-luasnya;\n d. menjaga agar perkembangan perfilman Indonesia dapat tetap\nberjalan sesuai dengan arah penyelenggaraan perfilman\nsebagaimana dimaksud dalam Pasal 3;\n e. meningkalkan sumber daya masyarakat perfilman yang\nprofesional melalui pendidikan, sarana, dan prasarana\nperfilman sehingga tercipta suasana yang mendorong\nmeningkatnya kreativitas yang mampu melahirkan karya film\nyang bermutu.\n\n\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H621-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 37\n\n(1) Dalam rangka pembinaan perfilman, Pemerintah membentuk\nbadan yang berfungsi memberikan pertimbangan dalam masalah\nperfilman sesuai dengan kebutuhan dan perkembangan serta\nmemberikan putusan atas keberatan terhadap film yang ditolak\nsebagaimana dimaksud dalam Pasal 33 ayat (7).\n(2) Susunan keanggotaan badan sebagaimana dimaksud dalam ayat\n(1), terdiri dari unsur Pemerintah , masyarakat perfilman, para\nahli di bidang pendidikan, kebu dayaan, agama, dan perfilman,\nserta wakil organisasi perfilman dan organisasi kemasyarakatan\nlainnya yang dipandang perlu.\n(3) Ketentuan mengenai pembentukan, kedudukan, tugas, fungsi,\ndan susunan keanggotaan badan sebagaimana dimaksud dalam\nayat (1) dan ayat (2), ditetapkan dengan Peraturan Pemerintah.\n\nBAB VIII\nPENYERAHAN URUSAN"
+   }
+  },
+  {
+   "id": "ID-H621-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 38\n\n(1) Pemerintah dapat menyerahkan sebagian urusan pemerintahan di\nbidang perfilman kepada Pemerintah Daerah.\n(2) Ketentuan mengenai penyerahan sebagian urusan sebagaimana\ndimaksud dalam ayat (1), diatur lebih lanjut dengan Peraturan\nPemerintah.\n\n\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nBAB IX\nPENYIDIKAN"
+   }
+  },
+  {
+   "id": "ID-H621-A39",
+   "no": 39,
+   "noLabel": {
+    "id": "Pasal 39"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 39\n\n(1) Selain penyidik pejabat Polisi Negara Republik Indonesia, juga\npejabat Pegawai Negeri Sipil tertentu di lingkungan departemen\nyang lingkup tugas dan tanggung jawabnya meliputi pembinaan\nperfilman diberi wewenang khusus sebagai penyidik sebagaimana\ndimaksud dalam Undang-undang Nomor 8 Tahun 1981 tentang\nHukum Acara Pidana, untuk melakukan penyidikan tindak pidana\ndi bidang perfilman sebagaimana diatur dalam Undang-undang\nini.\n(2) Penyidik Pegawai Negeri Sipil sebagaimana dimaksud dalam ayat\n(1), berwenang:\n a. melakukan pemeriksaan atas kebenaran laporan atau\nketerangan berkenaan dengan tindak pidana di bidang\nperfilman;\n b. melakukan pemeriksaan terhadap orang yang diduga\nmelakukan tindak pidana di bidang perfilman;\n c. meminta keterangan dan bahan bukti dari orang atau badan\nsehubungan dengan peristiwa tindak pidana di bidang\nperfilman;\n d. memeriksa orang untuk didengar keterangannya sebagai saksi;\n e. melakukan pemeriksaan atas alat-alat atau bahan dan barang\nlain yang berkenaan dengan tindak pidana di bidang perfilman;\n f. melakukan pemeriksaan di tempat tertentu yang diduga\nterdapat bahan bukti, serta melakukan penyitaan terhadap\nbahan dan barang hasil pelanggaran yang dapat dijadikan bukti\ndalam perkara tindak pidana di bidang perfilman;\n g. meminta bantuan ahli dalam rangka pelaksanaan tugas\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\npenyidikan tindak pidana di bidang perfilman.\n(3) Pelaksanaan lebih lanjut dari kewenangan sebagaimana dimaksud\ndalam ayat (2) dilakukan sesuai dengan ketentuan\nUndang-undang Nomor 8 Tahun 1981 tentang Hukum Acara\nPidana.\n\nBAB X\nKETENTUAN PIDANA"
+   }
+  },
+  {
+   "id": "ID-H621-A40",
+   "no": 40,
+   "noLabel": {
+    "id": "Pasal 40"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 40\n\nDipidana penjara paling lama 5 (lima) tahun dan/atau denda paling\nbanyak Rp. 50.000.000,00 (lima puluh juta rupiah) :\na. barang siapa dengan sengaja mengedarkan, mengekspor,\nmempertunjukkan dan/atau menayangkan film dan/atau reklame\nfilm yang ditolak oleh lembaga sensor film sebagaimana dimaksud\ndalam Pasal 33 ayat (6); atau\nb. barang siapa dengan sengaja mengedarkan, mengekspor,\nmempertunjukkan dan/atau menayangkan potongan film dan/atau\nsuara tertentu yang ditolak oleh lembaga sensor film sebagaimana\ndimaksud dalam Pasal 33 ayat (6); atau\nc. barang siapa dengan sengaja mengedarkan, mengekspor,\nmempertunjukkan dan/atau menayangkan film yang tidak disensor\nsebagaimana dimaksud dalam Pasal 33 ayat (1)."
+   }
+  },
+  {
+   "id": "ID-H621-A41",
+   "no": 41,
+   "noLabel": {
+    "id": "Pasal 41"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 41\n\n(1) Dipidana kurungan paling la ma 1 (satu) tahun dan/atau denda\npaling banyak Rp. 40.000.000,00 (empat puluh juta rupiah)  :\na. barang siapa melakukan usaha perfilman tanpa izin (usaha\nperfilman) sebagaimana dimaksud dalam Pasal 14 ayat (1),\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nPasal 17, Pasal 19, Pasal 20, Pasal 24, dan Pasal 27; atau\nb. barang siapa mengedarkan, mengekspor, mempertunjukkan\natau menayangkan reklame film yang tidak disensor\nsebagaimana dimaksud dalam Pasal 33 ayat (1); atau\nc. barang siapa melakukan kerjasama dengan perusahaan\nperfilman asing tanpa izin sebagaimana dimaksud dalam Pasal\n12 ayat (1).\n(2) Ancaman pidana sebagaimana di maksud dalam ayat (1) ditambah\nsepertiga jika perusahaan perfilman yang tidak memiliki izin\nusaha perfilman, mengedarkan, mengekspor, mempertunjukkan,\ndan/atau menayangkan film dan/atau reklame film yang tidak\nmemiliki tanda lulus sensor."
+   }
+  },
+  {
+   "id": "ID-H621-A42",
+   "no": 42,
+   "noLabel": {
+    "id": "Pasal 42"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 42\n\n(1) Atas perintah pengadilan, film sebagaimana dimaksud dalam\nPasal 40 huruf a dan b, disita untuk dimusnahkan, sedangkan film\nsebagaimana dimaksud dalam Pasal 40 huruf c dan reklame film\nsebagaimana dimaksud dalam Pasa l 41 ayat (1) huruf b, dapat\ndisita untuk negara.\n(2) Film dan reklame film yang disita untuk negara dapat disimpan\nsesuai dengan ketentuan Undang-undang Nomor 4 Tahun 1990\ntentang Serah Simpan Karya Cetak dan Karya Rekam."
+   }
+  },
+  {
+   "id": "ID-H621-A43",
+   "no": 43,
+   "noLabel": {
+    "id": "Pasal 43"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 43\n\n(1) Tindak pidana sebagaimana dimaksud dalam Pasal 40 adalah\nkejahatan.\n(2) Tindak pidana sebagaimana dimaksud dalam Pasal 41 adalah\npelanggaran.\n\n\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H621-A44",
+   "no": 44,
+   "noLabel": {
+    "id": "Pasal 44"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 44\n\n(1) Dengan tidak mengurangi ketentuan pidana sebagaimana\ndimaksud dalam Pasal 40 dan Pasal 41, terhadap\nperusahaan/badan usaha yang tidak memenuhi\nketentuan-ketentuan dalam Pasal 11, Pasal 14 ayat (3), Pasal 15\nayat (2), Pasal 29 ayat (1) dan ayat (2) jo. Pasal 33 ayat (5)\nUndang-undang ini dan peraturan pelaksanaannya, dikenakan\nsanksi denda dan/atau sanksi administratif.\n(2) Ketentuan lebih lanjut tentang sanksi administratif, akan diatur\ndengan Peraturan Pemerintah.\n\nBAB XI\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H621-A45",
+   "no": 45,
+   "noLabel": {
+    "id": "Pasal 45"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 45\n\nDengan berlakunya Undang-undang ini, segala peraturan pelaksanaan\ndi bidang perfilman yang dikeluarkan berdasarkan Filmordonnantie\n1940 (Staatsblad Tahun 1940 Nomor 507)  dan Undang-undang Nomor 1\nPnps Tahun 1964 tentang Pembinaan Perfilman (Lembaran Negara\nTahun 1964 Nomor 11, Tambahan Lembaran Negara Nomor 2622) serta\nbadan atau lembaga yang telah ada, tetap berlaku atau tetap\nmenjalankan fungsinya sepanjang tidak bertentangan atau belum\ndiganti dengan yang baru berdasarkan Undang-undang ini.\n\n\n\n\n\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nBAB XII\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H621-A46",
+   "no": 46,
+   "noLabel": {
+    "id": "Pasal 46"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 46\n\nPada saat berlakunya Undang-undang ini, Filmordonnantie 1940\n(Staatsblad Tahun 1940 Nomor 507) da n Undang-undang Nomor 1 Pnps\nTahun 1964 tentang Pembinaan Perfilman (Lembaran Negara Tahun\n1964 Nomor 11, Tambahan Lembaran Negara Nomor 2622) dinyatakan\ntidak berlaku lagi."
+   }
+  },
+  {
+   "id": "ID-H621-A47",
+   "no": 47,
+   "noLabel": {
+    "id": "Pasal 47"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 47\n\nUndang-undang ini mulai berlaku pada tanggal diundangkan.\n\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nUndang-undang ini dengan penempatannya dalam Lembaran Negara\nRepublik Indonesia.\n\n\nDisahkan di Jakarta\npada tanggal 30 Maret 1992\n\nPRESIDEN REPUBLIK INDONESIA\n\n     ttd\n\n           SOEHARTO\n\n\n\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nDiundangkan di Jakarta\npada tanggal 30 Maret 1992\n\nMENTERI/SEKRETARIS NEGARA\n   REPUBLIK INDONESIA\n\n        ttd\n\n          MOERDIONO\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nPENJELASAN\nATAS\nUNDANG-UNDANG REPUBLIK INDONESIA\nNOMOR 8 TAHUN 1992\nTENTANG\nPERFILMAN\n\nUMUM\n\nDalam Garis-Garis Besar Haluan Negara ditegaskan bahwa kebudayaan\nnasional yang berlandaskan Pancasila adalah perwujudan cipta, rasa\ndan karsa bangsa Indonesia dan merupakan keseluruhan daya upaya\nmanusia Indonesia untuk mengembangkan harkat dan martabat\nsebagai bangsa serta diarahkan untuk memberikan wawasan dan\nmakna pada pembangunan nasional dalam segenap kehidupan bangsa.\n\nBudaya bangsa yang merupakan pencerminan nilai-nilai luhur bangsa\nterus dipelihara, dibina dan dikembangkan guna. memperkuat\npenghayatan dan pengamalan Pancasila, meningkatkan kualitas hidup,\nmempertebal rasa harga diri dan kebanggaan nasional, serta\nmemperkokoh jiwa persatuan dan kesatuan.\n\nFilm sebagai karya cipta seni dan budaya yang merupakan media\nkomunikasi massa pandang-dengar, pembinaan dan pengembangannya\ndiarahkan untuk mampu memantapkan nilai-nilai budaya bangsa,\nmenggelorakan semangat pengabdian dan perjuangan bangsa,\nmemperkokoh persatuan dan kesatuan, mempertebal kepribadian dan\nmencerdaskan bangsa, serta meningkatkan kualitas sumber daya\nmanusia, yang pada gilirannya akan memantapkan ketahanan nasional.\n\nDengan bertolak dari pedoman tersebut, maka pengaturan perfilman\nsebagai hasil dan sekaligus cerminan budaya perlu diarahkan sehingga\nmampu memperkuat upaya pembinaan kebudayaan nasional.\nPengaturan perfilman bukan saja dimaksudkan untuk meningkatkan\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\njumlah dan kualitas produksi film Indonesia dalam fungsinya sebagai\nkomoditi ekonomi, tetapi juga me ngukuhkan fungsinya sebagai sarana\npenerangan, pendidikan, dan hiburan.\n\nMasalah ini menjadi semakin penting, terutama apabila dikaitkan\ndengan kenyataan bahwa peraturan perundang-undangan yang\ndigunakan sebagai landasan pembinaan dan pengembangan perfilman\nIndonesia sudah tidak memadai karena hanya mengatur segi-segi\ntertentu dalam kegiatan perfilman secara terpisah, yang seringkali\ntidak berkaitan satu dengan yang lain. Maka, berdasarkan hal\ntersebut, disusunlah Undang-undang tentang Perfilman.\n\nMelalui Undang-undang ini, upaya pengaturan perfilman Indonesia\ndiusahakan agar tidak saja menj angkau seluruh aspek perfilman,\ntetapi juga diarahkan pada perwuj udan tatanan kehidupan perfilman\nsecara utuh. Pengaturan perfilman dalam Undang-undang ini disusun\nberdasarkan pokok-pokok pemikiran sebagai berikut :\n1. Menegaskan secara jelas bahwa Pancasila dan Undang-Undang Dasar\n1945 sebagai landasan filosofis dan konstitusional yang merupakan\npanduan dalam menumbuhkan dan mengembangkan perfilman di\nIndonesia sehingga sebagai salah satu sarana pengembangan budaya\nbangsa, film tetap mampu memperkuat kebudayaan nasional dan\nmencerminkan pandangan hidup bangsa serta nilai budaya bangsa.\n2. Tersusunnya landasan yuridis dan sosiologis yang mampu menjaga\nkeseimbangan antara aspek idiil sebagaimana diarahkan oleh GBHN\ndan aspek ekonomi dalam usaha perfilman yang dalam\npengembangannya harus tetap sesuai dengan jiwa Pasal 33 ayat (1)\nUndang-Undang Dasar 1945.\n3. Dalam upaya mewujudkan iklim yang sehat bagi perfilman\nIndonesia, pembinaan dan pengembangan perfilman dilakukan\nterhadap berbagai kegiatan perfilman secara menyeluruh dan\nterpadu sejak tahap produksi sampai dengan tahap pertunjukan\natau penayangannya dalam suatu mata rantai yang\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nberkesinambungan dengan memperhatikan berbagai kepentingan,\nmelalui berbagai perizinan sehingga tercapai hasil yang optimal\nsejalan dengan dasar, arah, dan tujuan penyelenggaraan perfilman.\n Termasuk dalam pembinaan dan pengembangan ini adalah upaya\nmenciptakan iklim yang dapat memacu pertumbuhan produksi film\nIndonesia serta bimbingan dan perlindungan agar penyelenggaraan\nusaha dapat berlangsung secara harmonis, saling mengisi, dan\nmencegah adanya tindakan yang menjurus pada persaingan yang\ntidak sehat ataupun pemusatan pada satu tangan atau satu\nkelompok.\n4. Untuk menjaga agar kehidupan dan pertumbuhan perfilman dapat\ntetap berjalan seiring dengan pandangan hidup dan kebudayaan\nbangsa, serta melindungi masyarakat akan dampak negatif yang\ndiakibatkan, maka setiap film yang akan diedarkan, diekspor,\ndipertunjukkan, dan/atau ditayangkan harus disensor terlebih\ndahulu.\n5. Mengingat dampak yang dapat diakibatkan oleh film, maka tindak\npidana di bidang perfilman diberi sanksi yang cukup berat.\n\nDengan latar belakang pemikiran tadi, Filmordonnantie 1940\n(Staatsblad Tahun 1940 Nomor 507) da n Undang-undang Nomor 1 Pnps\nTahun 1964 tentang Pembinaan Perfilman (Lembaran Negara Tahun\n1964 Nomor 11, Tambahan Lembaran Negara Nomor 2622) dinyatakan\ntidak berlaku lagi.\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nPASAL DEMI PASAL\n\nPasal 1\n\n Angka 1\n\n  Yang termasuk film sebagai media komunikasi massa\npandang-dengar (audio-visual) dalam Undang-undang ini ialah :\n  a. yang dibuat dengan bahan baku pita seluloid melalui proses\nkimiawi, yang lazim disebut film;\n  b. yang dibuat dengan bahan pita video atau piringan video\nmelalui proses elektronik, yang lazim disebut rekaman video;\n  c. yang dibuat dengan bahan baku lainnya atau melalui proses\nlainnya sebagai hasil perkembangan teknologi, dikelompokkan\nsebagai media komunikasi massa pandang-dengar.\n\n Angka 2\n  C u k u p  j e l a s\n\n Angka 3\n  C u k u p  j e l a s\n\n Angka 4\n  C u k u p  j e l a s\n\nPasal 2\n\n Cukup jelas\n\nPasal 3\n\n Arah dalam Pasal ini dimaksudkan untuk memberikan wawasan agar\nperfilman Indonesia dapat tumbuh dan berkembang secara\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\noptimal sesuai dengan fungsinya.\n\n  Dengan arah tersebut, perfilman Indonesia dibina dan\ndikembangkan sehingga terhindar dari ciri-ciri yang merendahkan\nnilai budaya, mengganggu upaya pembangunan watak dan\nkepribadian, memecah kesatuan dan persatuan bangsa,\nmengandung unsur pertentangan antar suku, agama, ras, dan\nasal-usul, ataupun menimbulkan gangguan terhadap ketertiban\ndan rasa kesusilaan pada umumnya. Dengan arah itu pula,\nsebaliknya diupayakan agar potensi nasional di bidang perfilman\ndapat berkembang dan maju dalam kerangka keserasian dan\nkeseimbangan usaha antar unsur perfilman pada umumnya.\n\nPasal 4\n\n Film sebagai produk seni dan budaya mempunyai peranan yang\npenting bagi pengembangan budaya bangsa; untuk itu, perlu terus\ndipelihara, dibina, dan dikembangkan sehingga mampu menjadi\nsalah satu sarana penunjang pembangunan nasional.\n\nPasal 5\n\n Undang-undang ini mengakui adanya fungsi-fungsi film tersebut\nsebagai kenyataan dan keperluan. Lihat pula Penjelasan Umum.\nOleh karena itu, fungsi-fungsi tersebut dikembangkan secara\nseimbang.\n\nPasal 6\n\n Yang dimaksud dengan film berita adalah rekaman\nkejadian/peristiwa aktual yang dibuat dalam bentuk film dan\nditayangkan melalui media elektronik.\n Pengaturan lebih lanjut mengenai film berita diatur dalam\nperaturan perundang-undangan yang berlaku.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\nPasal 7\n\n Ayat (1)\n  C u k u p  j e l a s\n\n Ayat (2)\n\n  Sesuai dengan ketentuan dalam Undang-undang tentang Serah\nSimpan Karya Cetak dan Karya Rekam, film merupakan salah satu\njenis karya rekam yang salinan rekamannya (copynya) wajib\ndiserahkan kepada instansi/lembaga penyimpan yang ditunjuk\ndalam undang-undang tersebut.\n\nPasal 8\n\n Ayat (1)\n  C u k u p  j e l a s\n\n Ayat (2)\n  C u k u p  j e l a s\n\nPasal 9\n\n Ayat (1)\n\n  Pada hakikatnya, usaha perfilman dilakukan oleh badan hukum,\nyaitu perseroan terbatas atau koperasi atau bentuk lainnya\nberdasarkan peraturan perundang-undangan yang berlaku. Untuk\nusaha-usaha perfilman berskala kecil seperti usaha pertunjukan\nfilm secara berkeliling dan usaha penjualan dan/atau penyewaan\nrekaman dalam bahan pita video atau piringan video, disesuaikan\ndengan ketentuan peraturan perundang-undangan yang berlaku.\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n Ayat (2)\n\n  Izin usaha perfilman dimaksud adalah izin yang dikeluarkan oleh\nMenteri yang lingkup tugas dan tanggung jawabnya meliputi\npembinaan perfilman.\n\n Ayat (3)\n  C u k u p  j e l a s\n\n Ayat (4)\n  C u k u p  j e l a s\n\nPasal 10\n\n Oleh karena banyaknya unsur yang terlibat dalam kegiatan\nperfilman dan eratnya keterkaitan antara satu dengan yang lain,\nwajarlah apabila kegiatan masyarakat perfilman itu berlandaskan\nkode etik yang harus ditaati bersama.\n\n Hal ini penting karena terkaitnya aspek usaha dan aspek keahlian\nsaling melengkapi dan tidak sepenuhnya dapat dijangkau oleh\nketentuan yang bersifat formal.\n\n Masyarakat perfilman adalah himpunan sekelompok warga negara\nIndonesia berdasarkan kesamaan profesi dan/atau kegiatan di\nbidang perfilman.\n\n Kode etik adalah norma dan asas yang disepakati dan diterima oleh\nmasyarakat perfilman secara tertulis sebagai landasan dan ukuran\ntingkah laku yang harus dipatuhi oleh insan perfilman dalam\nmenjalankan profesinya masing-masing.\n\nPasal 11\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n Yang dimaksud dengan kemampuan nasional adalah sumber daya,\nbaik manusia, potensi, maupun fasilitas yang tersedia di Indonesia.\nSumber daya manusia, antara lain, terdiri dari produser, karyawan\nfilm, dan artis film. Potensi dan fasi litas, antara lain, dapat berupa\nkekayaan dan keindahan alam, jasa teknik, dan hasil budaya\nbangsa. Ketentuan ini dimaksudkan agar perusahaan perfilman\nmenghargai, ikut memiliki, serta ikut memelihara dan mencintai\nkemampuan nasional yang tersedia.\n\nPasal 12\n\n Ayat (1)\n\n  Sekalipun ketentuan ini tidak memberikan kesempatan kepada\nwarga negara asing, tidak tertutup kemungkinan adanya\nkerjasama di bidang pembuatan film atau kegiatan lainnya, yang\npada dasarnya tidak dalam arti membentuk perusahaan\npatungan.\n\n Ayat (2)\n  C u k u p  j e l a s\n\n Ayat (3)\n  C u k u p  j e l a s\n\nPasal 13\n\n Ayat (1)\n\n  Yang dimaksud dengan kebebasan berkarya adalah kebebasan\nuntuk menghasilkan karya berdasarkan kemampuan imajinasi,\ndaya cipta, rasa, ataupun karsa, baik dalam bentuk, makna,\nataupun caranya. Dengan kebebasan berkarya, diharapkan\nmampu mengembangkan kreativitas perfilman dalam rangka\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\npengembangan budaya bangsa.\n  Yang dimaksud dengan bertanggung jawab adalah mengacu pada\nakibat yang ditimbulkan oleh hasil karya tersebut dalam\nkaitannya dengan arah dan tujuan penyelenggaraan perfilman\nsebagaimana dimaksud dalam Pasal 3 dan Pasal 4.\n\n Ayat (2)\n\n  Yang dimaksud dengan nilai-nilai keagamaan adalah nilai-nilai\nuniversal yang terdapat dalam setiap agama. Pancantuman\nnilai-nilai keagamaan itu tidak dimaksudkan untuk menghambat\nkreativitas dalam berkarya sebagaimana dimaksud dalam ayat\n(1).\n\nPasal 14\n\n Ayat (1)\n\n  Yang dimaksud dengan pembuatan film meliputi kegiatan\nmembuat film sebagaimana dimaksud dalam Pasal 1 angka 1,\nbaik dalam bentuk film cerita maupun film noncerita.\n\n Ayat (2)\n\n  Film untuk tujuan khusus adalah film yang dibuat oleh instansi\nPemerintah, lembaga, atau organisasi dalam rangka pelaksanaan\ntugas dan fungsinya, seperti film-film penyuluhan pertanian,\nkesehatan, atau film yang dibuat oleh kelompok orang atau\nperseorangan; misalnya, film-film acara perkawinan dan ulang\ntahun.\n\n Ayat (3)\n\n  Pembuatan film oleh pihak asing yang menggunakan lokasi di\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nIndonesia, baik sebagian maupun seluruhnya dapat dilakukan atas\ndasar izin dari Menteri yang lingkup tugas dan tanggung jawabnya\nmeliputi pembinaan perfilman. Dalam pembuatan film dimaksud,\ndiusahakan sedapat mungkin untuk mengikutsertakan\ntenaga-tenaga Indonesia di tempat lokasi.\n\n Ayat (4)\n  C u k u p  j e l a s\n\nPasal 15\n\n Ayat (1)\n\n  Yang dimaksud dengan reklame film adalah sarana publikasi dan\npromosi film, baik yang berbentuk iklan, poster, stillphoto, slide,\nklise, triler, banner, pamflet, brosur, ballyhoo, folder, plakat\nmaupun sarana publikasi dan promosi lainnya.\n  Pembuatan reklame film dilakukan oleh perusahaan pembuatan\nfilm atau perusahaan lain yang bergerak di bidang reklame film.\nMengingat beberapa jenis dan bentuk reklame film pada\nkenyataannya dibuat oleh perseorangan berdasarkan keahlian,\npembuatan reklame film dapat pula dilakukan oleh usaha-usaha\nberskala kecil ataupun perseorangan.\n\n Ayat (2)\n\n  Pembuatan reklame film wajib memperhatikan kesesuaian isi\nfilm yang direklamekan; dimaksudkan agar masyarakat\nbenar-benar dapat menikmati film yang isinya sesuai dengan\nreklame film yang bersangkutan.\n\nPasal 16\n\n Artis film adalah tenaga profesi yang mendapatkan penghasilan dari\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nkegiatan yang berhubungan dengan pemeranan tokoh-tokoh dalam\ncerita film.\n\n Karyawan film adalah tenaga profesi yang mendapatkan penghasilan\nkarena melakukan karya kreatif dan artistik dalam pembuatan film\ndan reklame film.\n\n Hubungan hukum antara artis dan karyawan film dengan perusahaan\npembuatan film dilakukan berdasarkan perjanjian kerja di antara\nmereka.\n\n Ketentuan ini memberikan penegasan mengenai perlunya jaminan\ndan perlindungan hukum, seperti jaminan sosial dan asuransi bagi\nartis dan karyawan berkenaan dengan hal-hal yang bertalian dengan\nsegi-segi profesi ataupun peran yang dimainkannya. Dengan\ndemikian, setiap perjanjian kerja antara artis atau karyawan dan\nperusahaan pembuatan film harus memuat tentang jaminan sosial\ntersebut sesuai dengan peraturan perundang-undangan yang\nberlaku.\n\n Adapun bentuk perlindungan hukum lainnya, misalnya, apabila\nseorang artis merasa bahwa peran dalam suatu adegan bukanlah\nkarya yang dimainkannya dan hal tersebut dinilainya merugikan\ndirinya secara profesi atau moral, maka artis yang bersangkutan\ndapat melakukan tuntutan berdasarkan perjanjian kerja yang\ndimilikinya.\n\nPasal 17\n\n Pada dasarnya, usaha jasa teknik dilakukan oleh perusahaan jasa\nteknik, namun perusahaan pembuatan film dapat pula melakukan\nusaha jasa teknik untuk film produksinya sendiri.\n\nPasal 18\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\n Huruf a\n  C u k u p  j e l a s\n\n Huruf b\n  C u k u p  j e l a s\n\n Huruf c\n\n  Yang dimaksud dengan laboratorium pengolahan film adalah\ntempat memproses pita seluloid yang telah berisi rekaman\ngambar (exposed) sehingga menjadi film negatif induk.\n\n Huruf d\n  C u k u p  j e l a s\n\n Huruf e\n  C u k u p  j e l a s\n\n Huruf f\n  C u k u p  j e l a s\n\n Huruf g\n\n  Yang dimaksud dengan pencetakan film adalah perbanyakan dari\nfilm negatif induk menjadi sejumlah salinan rekaman (copy)\npositif.\n  Penggandaan film adalah perbanyakan pita video atau piringan\nvideo dan/atau hasil penemuan teknologi lainnya.\n\n Huruf h\n\n  Pencantuman sarana lainnya di sini dimaksudkan untuk\nmenampung perkembangan usaha jasa teknik pada masa yang\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nakan datang sesuai dengan perkembangan teknologi.\n\nPasal 19\n\n Ketentuan ini dimaksudkan untuk memberikan kemudahan dan\nkelancaran ekspor film yang sudah lulus sensor, baik oleh\nperusahaan ekspor maupun oleh pe rusahaan yang menjualnya atau\nperusahaan yang berusaha di bidang pengedaran film.\n\n Di samping memenuhi ketentuan perizinan di bidang perfilman,\nperusahaan tersebut tetap harus memenuhi ketentuan perizinan\nuntuk ekspor.\n\nPasal 20\n\n Berbeda dengan usaha ekspor film, usaha impor film hanya dapat\ndilakukan oleh perusahaan impor yang memiliki izin usaha\nperfilman.\n\n Hal ini disebabkan karena impor hanya dilakukan atas dasar\npertimbangan tertentu sebagaimana dimaksud dalam Pasal 21.\n\n\n\nPasal 21\n\n Ayat (1)\n  C u k u p  j e l a s\n\n Ayat (2)\n\n  Dengan mengimpor film yang bermutu baik dan selaras dengan\narah dan tujuan perfilman diharapkan dapat merangsang\npertumbuhan produksi dan peningkatan mutu film Indonesia.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\nPasal 22\n\n Dalam ketentuan ini yang dimaksudkan dengan di tempat\nkedudukan lembaga sensor film adalah di Ibukota Negara Republik\nIndonesia.\n\nPasal 23\n\n Ayat (1)\n  C u k u p  j e l a s\n\n Ayat (2)\n\n  Yang dimaksud dengan film unt uk tujuan khusus adalah film\nuntuk tujuan tertentu seperti film pendidikan, film instruksi, film\nuntuk keperluan seminar, atau festival yang tidak bersifat\nkomersial.\n\n Ayat (3)\n  C u k u p  j e l a s\n\n\nPasal 24\n\n Ketentuan ini dimaksudkan untuk memberikan kemudahan dan\nkelancaran pengedaran film secara langsung oleh perusahaan\npembuatan film untuk produksinya sendiri. Yang dimaksud dengan\npengedaran meliputi kegiatan penyebarluasan film dan reklame film\nkepada konsumen.\n\nPasal 25\n\n Film yang dimaksud meliputi film dan reklame film, baik hasil\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nproduksi perusahaan pembuatan film dalam negeri maupun film\nimpor.\n\nPasal 26\n\n Ayat (1)\n\n  Ketentuan ini dimaksudkan agar film yang diedarkan tidak\nmenimbulkan dampak negatif yang terkait dengan nilai-nilai\nkeagamaan dan nilai-nilai sosial budaya masyarakat di daerah\nyang bersangkutan.\n\n Ayat (2)\n  C u k u p  j e l a s\n\nPasal 27\n\n Ayat (1)\n\n  Pertunjukan film adalah pemutaran film dalam bentuk pita\nseluloid yang dilakukan melalui proyektor mekanik dalam gedung\natau tempat yang diperuntukkan bagi pertunjukan film.\n\n Ayat (2)\n\n  Penayangan film adalah pemutaran film dalam bentuk pita\nseluloid, pita video, dan piringan video yang dilakukan melalui\nproyektor elektronik dari stasi un pemancar penyiaran dan/atau\nperangkat elektronik lainnya.\n\nPasal 28\n\n Ayat (1)\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n  Gedung yang dibangun untuk pertunjukan film lazim disebut\ngedung bioskop. Yang dimaksud dengan tempat adalah ruang\nyang bukan gedung, yang diperuntukkan bagi pertunjukan film.\n\n Ayat (2)\n\n  Ketentuan ini lebih bersifat kelonggaran yang diberikan bagi\nkeperluan tertentu seperti:\n  a. kegiatan sosial masyarakat , acara keluarga, acara perkawinan,\ndan kegiatan lainnya untuk penerangan/penyuluhan dan\nhiburan yang dilakukan oleh Pemerintah atau\nbadan-badan/organisasi lainnya dengan tidak memungut\nbayaran;\n  b. pertunjukan film secara berkeliling dengan memungut\nbayaran.\n\n Ayat (3)\n  C u k u p  j e l a s\n\n\n Ayat (4)\n  C u k u p  j e l a s\n\nPasal 29\n\n Ayat (1)\n  C u k u p  j e l a s\n\n Ayat (2)\n\n  Pengaturan penayangan film sesuai dengan penggolongan usia\npenonton dilakukan sesuai dengan waktu yang tepat dan diatur\ndalam peraturan perundang-undangan yang berlaku.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\nPasal 30\n\n Cukup jelas\n\nPasal 31\n\n Ayat (1)\n\n  Maksud ketentuan ini adalah untuk memungkinkan Pemerintah\ndapat menarik suatu film dari peredaran, pertunjukan, dan/atau\npenayangan terhadap film yang telah lulus sensor apabila film\nyang bersangkutan ternyata menimbulkan gangguan keamanan,\nketertiban, ketenteraman, atau keselarasan hidup masyarakat.\n\n Ayat (2)\n\n  Ayat ini dimaksudkan untuk memberikan kesempatan kepada\nproduser atau pemilik film yang merasa dirugikan untuk membela\nhaknya dengan mengajukan gugatan terhadap pemerintah\nmelalui peradilan.\n\nPasal 32\n\n Untuk dapat dipertunjukkan dan/atau ditayangkan bagi masyarakat\nIndonesia, diperlukan izin dari departemen yang membidangi\npembinaan perfilman.\n\n Apabila pertunjukan dan/atau penayangan di luar lingkungan\nperwakilan asing, diperlukan izin keramaian dan pertunjukan sesuai\ndengan ketentuan peraturan perundang-undangan yang berlaku.\n\nPasal 33\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n Ayat (1)\n\n  Film dan reklame film yang wajib disensor dalam ketentuan ini\ntermasuk yang akan ditayangkan oleh stasiun penyiaran televisi.\nPengertian reklame film mencakup film iklan yang\nmemublikasikan/mempromosikan barang dan jasa kepada\nkhalayak.\n  Tujuan sensor film adalah untuk melindungi masyarakat dari\nkemungkinan dampak negatif pertunjukan dan/atau penayangan\nfilm serta reklame film yang ternyata tidak sesuai dengan arah\ndan tujuan penyelenggaraan perfilman.\n\n Ayat (2)\n  C u k u p  j e l a s\n\n Ayat (3)\n\n  Penyensoran terhadap film dan reklame film, baik produksi\nnasional (termasuk yang akan diekspor) maupun film impor\ndiperlakukan dengan pedoman dan kriteria penyensoran yang\nsama.\n\n Ayat (4)\n\n  Tanda lulus sensor, baik untuk  film produksi nasional maupun\nfilm impor, diberikan dengan cara dan bentuk yang sama yang\nakan diatur oleh lembaga sensor film.\n\n Ayat (5)\n\n  Penggolongan usia penonton bagi suatu film dimaksudkan untuk\nmelindungi masyarakat dari dampak negatif dalam rangka\npembinaan keluarga.\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n Ayat (6)\n\n  Film impor yang ditolak diumumkan di kantor lembaga sensor\nfilm.\n  Film nasional yang ditolak tidak diumumkan. Sebelum film itu\nditolak, lembaga sensor film memberikan kesempatan untuk\nmemperbaiki film tersebut dan kemudian dapat diajukan kembali\nuntuk disensor.\n\n Ayat (7)\n\n  Pengajuan keberatan atau pembelaan terhadap film atau\nreklame film yang ditolak oleh lembaga sensor hanya berlaku\nbagi perusahaan pembuatan film nasional.\n\nPasal 34\n\n Ayat (1)\n\n  Kata sebuah dalam ketentuan ini diartikan bahwa lembaga sensor\nmerupakan lembaga tunggal (satu-satunya) yang sifatnya\nnasional.\n\n Ayat (2)\n\n  Pedoman dan kriteria tersebut dimaksudkan selain untuk\nobjektivitas penilaian juga agar lembaga sensor mempunyai\npegangan dalam melaksanakan tugasnya.\n\n Ayat. (3)\n\n  Lembaga sensor film yang dibentuk oleh Pemerintah bersifat\nnonstruktural. Susunan keanggotaannya terdiri dari wakil\nPemerintah dan wakil masyarakat.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\nPasal 35\n\n Ayat (1)\n  C u k u p  j e l a s\n Ayat (2)\n\n  Wujud peranserta masyarakat dalam pengembangan mutu dan\nkemampuan profesi insan perfilman, misalnya dalam\npembentukan lembaga pendidikan dan kritik film. Bentuk\npeningkatan apresiasi masyarakat, misalnya festival film dan\npekan film.\n\nPasal 36\n Ayat (1)\n\n  Yang dimaksud dengan pembinaan adalah upaya yang dilakukan\nsecara terus-menerus dan berkesinambungan dalam arti yang\nseluas-luasnya terhadap kegiatan perfilman.\n  Pembimbingan diberikan melalui berbagai kebijaksanaan dan\nupaya yang mendorong pengembangan dan kemajuan perfilman\nIndonesia, seperti meningkatkan manfaat keberadaan organisasi\nprofesi perfilman, lembaga pendidikan, pengarsipan film, festival\nfilm, kineklub, dan kegiatan lain yang bertujuan untuk\nmeningkatkan apresiasi masyarakat terhadap film.\n\n Ayat (2)\n\n  Tugas dan tanggung jawab untuk menciptakan iklim dan suasana\nyang menguntungkan segi pertumbuhan dan pengembangan\nbidang usaha perfilman ini pada dasarnya berada pada\nPemerintah.\n  Melalui pembinaan, Pemerintah mencegah timbulnya persaingan\nyang tidak sehat, tidak jujur, at au curang dalam usaha perfilman\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nsehingga perfilman Indonesia dapat berkembang sesuai dengan\narah pembinaannya.\n  Dalam pelaksanaannya, kegiatan pembinaan usaha perfilman\ndilakukan oleh Pemerintah secara seimbang, terpadu, dan\nterarah untuk mewujudkan arah dan tujuan pembinaan\nperfilman.\n\nPasal 37\n\n Ayat (1)\n\n  Pembentukan badan yang dimaksud dalam Undang-undang ini\nsebagai penjabaran perlunya interaksi positif antara masyarakat\nperfilman, Pemerintah, dan masy arakat pada umumnya. Badan\nini bersifat nonstruktural dan berfungsi sebagai pemberi\npertimbangan yang berkenaan dengan masalah-masalah\nperfilman kepada Menteri yang lingkup tugas dan tanggung\njawabnya meliputi pembinaan perfilman.\n\n Ayat (2)\n  C u k u p  j e l a s\n Ayat (3)\n  C u k u p  j e l a s\n\nPasal 38\n\n Ayat (1)\n\n  Sebagian urusan pemerintahan yang dapat diserahkan adalah\nterutama di bidang pembinaan dan perizinan untuk usaha\nperfilman tertentu, misalnya izin usaha perfilman di bidang\npertunjukan dan/atau penayangan.\n  Apabila terjadi suatu film dapat menimbulkan gangguan\nkeamanan, ketertiban, ketenteraman, atau keselarasan\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nkehidupan masyarakat di daerah tertentu, Pemerintah Daerah\ndapat melarang film tersebut diedarkan, dipertunjukkan,\ndan/atau ditayangkan di seluruh atau sebagian wilayah\nadministratifnya setelah terlebih dahulu mendapat pertimbangan\ndari instansi yang terkait.\n\n Ayat (2)\n  C u k u p  j e l a s\n\nPasal 39\n\n Ayat (1)\n  C u k u p  j e l a s\n\n Ayat (2)\n  C u k u p  j e l a s\n\n Ayat (3)\n  C u k u p  j e l a s\n\nPasal 40\n\n Cukup jelas\n\nPasal 41\n\n Ayat (1)\n  C u k u p  j e l a s\n\n Ayat (2)\n  C u k u p  j e l a s\n\nPasal 42\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n Ayat (1)\n  C u k u p  j e l a s\n\n Ayat (2)\n\n  Perlakuan terhadap film dan reklame film yang disita untuk\nnegara cukup jelas, sedangkan film dan reklame film yang tidak\ndisita untuk negara hanya dapat diedarkan, dipertunjukkan, dan/\natau ditayangkan setelah lulus sensor serta memenuhi ketentuan\nperaturan perundang-undangan yang berlaku.\n\nPasal 43\n\n Ayat (1)\n  C u k u p  j e l a s\n\n Ayat (2)\n  C u k u p  j e l a s\n\nPasal 44\n\n Ayat (1)\n  C u k u p  j e l a s\n\n Ayat (2)\n  C u k u p  j e l a s\n\nPasal 45\n\n Dalam pengertian ini termasuk segala izin yang telah dikeluarkan\nberdasarkan peraturan pelaksanaan tersebut.\n\nPasal 46\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n Cukup jelas\n\nPasal 47\n\n Cukup jelas"
+   }
+  }
+ ]
+}

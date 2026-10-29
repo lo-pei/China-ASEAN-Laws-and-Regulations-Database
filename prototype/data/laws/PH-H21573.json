@@ -1,0 +1,92 @@
+{
+ "id": "PH-H21573",
+ "title": {
+  "zh": null,
+  "en": "Regulating the Issuance of License Plates of All Motor Vehicles",
+  "orig": "Regulating the Issuance of License Plates of All Motor Vehicles"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p159",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1973-01-15",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 98",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 5,
+ "chars": 963,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_00098_1973_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 5 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_00098_1973_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H21573-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The Bureau of Land Transportation shall cause reflective number plates to be prepared and\nissued to owners of motor vehicles and trailers registered under R.A. 4136, charging for each pair, including\nthe numerals indicating the year of registry, a fee of not more than 15% higher than the acquisition cost."
+   }
+  },
+  {
+   "id": "PH-H21573-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "All motor vehicles exempted from payment of registration fees, motor vehicles for hire and\nprivately-owned motor vehicles shall bear plates so designed and reflectorized with different colors as to\ndistinguished one class from another."
+   }
+  },
+  {
+   "id": "PH-H21573-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "No two license plate numbers bearing the same numerals shall be issued to any motor vehicles\nregardless of the place of issue or the type, kind or ownership of the motor vehicle."
+   }
+  },
+  {
+   "id": "PH-H21573-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "Republic Act No. 4136 is hereby amended accordingly and Republic Act No. 5715 is hereby"
+   }
+  },
+  {
+   "id": "PH-H21573-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "text": {
+    "en": "This Decree shall take effect immediately.\nDone in the City of Manila, this 15th day of January, in the year of Our Lord, nineteen hundred and\nseventy-three."
+   }
+  }
+ ]
+}

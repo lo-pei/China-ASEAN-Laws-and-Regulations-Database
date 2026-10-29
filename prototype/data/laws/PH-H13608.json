@@ -1,0 +1,82 @@
+{
+ "id": "PH-H13608",
+ "title": {
+  "zh": null,
+  "en": "An Act to Make the Province of Mindoro a Regularly Organized Province.",
+  "orig": "An Act to Make the Province of Mindoro a Regularly Organized Province."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1921-02-20",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2964",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 715,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1921/act_2964_1921.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02964_1921_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02964_1921_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13608-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "All the provisions of laws now applicable or which may hereafter be applicable to the regularly\norganized provinces are hereby extended and applied to the Province of Mindoro."
+   }
+  },
+  {
+   "id": "PH-H13608-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The provisions of Act Numbered Twenty-eight hundred and twenty-nine regulating the salaries\nof the provincial officers are likewise made applicable to the Province of Mindoro: Provided, That the salary\nof the provincial fiscal of Mindoro shall not be less than three thousand pesos per annum, any provision of law\nto the contrary notwithstanding."
+   }
+  },
+  {
+   "id": "PH-H13608-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "All acts or parts of acts inconsistent with the provisions of this Act are hereby repealed."
+   }
+  },
+  {
+   "id": "PH-H13608-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "This Act shall take effect on July first, nineteen hundred and twenty-one.\nApproved, February 20, 1921."
+   }
+  }
+ ]
+}

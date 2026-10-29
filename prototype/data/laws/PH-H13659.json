@@ -1,0 +1,72 @@
+{
+ "id": "PH-H13659",
+ "title": {
+  "zh": null,
+  "en": "An Act to Appropriate the Sum of Twenty thousand Pesos, Out of Any Funds in the Insular Treasury Not Otherwise Appropriated, for the Establishment of An Intermediate School in the Municipality of Santo Tomas, Province of Batangas, as a Memorial to General Miguel Malvar, and a Like Sum for the Construction of a Central School in the Municipality of General Trias, Cavite, to Be Denominated \"General Trias Central School,\" or for the Reconstruction of the Present School",
+  "orig": "An Act to Appropriate the Sum of Twenty thousand Pesos, Out of Any Funds in the Insular Treasury Not Otherwise Appropriated, for the Establishment of An Intermediate School in the Municipality of Santo Tomas, Province of Batangas, as a Memorial to General Miguel Malvar, and a Like Sum for the Construction of a Central School in the Municipality of General Trias, Cavite, to Be Denominated \"General Trias Central School,\" or for the Reconstruction of the Present School"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1922-03-08",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3015",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 881,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1922/act_3015_1922.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03015_1922_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03015_1922_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13659-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The sum of twenty thousand pesos is hereby appropriated, out of any funds in the Insular\nTreasury not otherwise appropriated, for the construction of an intermediate school in the municipality of\nSanto Tomas, Province of Batangas, as a memorial to General Miguel Malvar, and a like sum is appropriated,\nout of any funds in the Insular Treasury not otherwise appropriated, for the construction of a central school in\nthe municipality of General Trias, Cavite, to be denominated \"General Trias Central School,\" or for the\nreconstruction of the present school."
+   }
+  },
+  {
+   "id": "PH-H13659-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The building to be constructed at Santo Tomas shall have on its facade, in bust or relief, the\neffigy of General Miguel Malvar, and the one to be constructed at General Trias shall bear on its facade, in\nbust or relief, the effigy of General Mariano Trias."
+   }
+  },
+  {
+   "id": "PH-H13659-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, March 8, 1922."
+   }
+  }
+ ]
+}

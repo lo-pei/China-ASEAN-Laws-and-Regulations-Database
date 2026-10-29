@@ -1,0 +1,82 @@
+{
+ "id": "PH-H12602",
+ "title": {
+  "zh": null,
+  "en": "An Act Defining Fraudulent Enlistment in the Philippines Constabulary, and Providing the Punishment therefor.",
+  "orig": "An Act Defining Fraudulent Enlistment in the Philippines Constabulary, and Providing the Punishment therefor."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1909-05-14",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 1893",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 878,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1909/act_1893_1909.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_01893_1909_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_01893_1909_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12602-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "It shall be unlawful for any person to enlist in the Philippines Constabulary under an assumed\nname, or upon enlistment therein to make any willfully and intentionally false representation as to his\nnationality, age, parents, or guardian."
+   }
+  },
+  {
+   "id": "PH-H12602-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "It shall be unlawful for any person who has been dishonorably discharged from the military or\nnaval service of the United States, or from the Philippines Constabulary, to enlist or reenlist in said\nPhilippines Constabulary."
+   }
+  },
+  {
+   "id": "PH-H12602-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "Any person who shall violate any provision of this Act shall be guilty of fraudulent enlistment\nand, upon conviction thereof by a court of competent jurisdiction, shall be punished by imprisonment for a\nterm not exceeding six months, or by a fine not exceeding five hundred pesos, or by both such imprisonment\nand fine, in the discretion of the court.."
+   }
+  },
+  {
+   "id": "PH-H12602-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, May 14, 1909."
+   }
+  }
+ ]
+}

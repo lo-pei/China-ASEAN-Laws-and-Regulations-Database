@@ -1,0 +1,924 @@
+{
+ "id": "VN-H368",
+ "title": {
+  "zh": "人民议会与人民委员会组织法",
+  "en": "Law on organisation of People's Councils and People's Committees",
+  "vi": "Luật Tổ chức Hội đồng nhân dân và Uỷ ban nhân dân",
+  "orig": "Luật Tổ chức Hội đồng nhân dân và Uỷ ban nhân dân số Không số",
+  "th": "พระราชบัญญัติการจัดตั้งสภาประชาชนและคณะกรรมการประชาชน",
+  "id": "Undang-Undang Susunan Dewan Perwakilan Rakyat Daerah dan Komite Rakyat",
+  "ms": "Akta Organisasi Majlis Rakyat dan Jawatankuasa Rakyat"
+ },
+ "country": "VN",
+ "countryName": "越南",
+ "layer": "intl",
+ "pack": "vn-p06",
+ "language": "vi",
+ "level": "law",
+ "category": "05_其他及未分类",
+ "status": "active",
+ "promulgatedDate": "1994",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "国会",
+ "docNumber": "Không số",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 63,
+ "chars": 40615,
+ "source": {
+  "name": "越南法律数据库（vbpl.vn 官方公报文本）",
+  "url": "https://vbpl.vn/van-ban/chi-tiet/luat-to-chuc-hoi-dong-nhan-dan-va-uy-ban-nhan-dan-so-khong-so--10420"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\VN\\05_其他及未分类\\1994_Không số_Luật Tổ chức Hội đồng nhân dân và Uỷ ban nhân dân số Không số.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 63 条；逐字未改写（源自 VN）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "VN-H368-A1",
+   "no": 1,
+   "noLabel": {
+    "vi": "Điều 1"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 1\n\nHội đồng nhân dân là cơ quan quyền lực Nhà nước ở địa phương, đại diện cho ý chí, nguyện vọng và quyền làm chủ của nhân dân, do nhân dân địa phương bầu ra, chịu trách nhiệm trước nhân dân địa phương và cơ quan Nhà nước cấp trên.\n\nHội đồng nhân dân thực hiện những nhiệm vụ, quyền hạn theo quy định của Hiến pháp và pháp luật, bảo đảm sự lãnh đạo thống nhất của trung ương đồng thời phát huy quyền chủ động, sáng tạo của địa phương."
+   }
+  },
+  {
+   "id": "VN-H368-A2",
+   "no": 2,
+   "noLabel": {
+    "vi": "Điều 2"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 2\n\nUỷ ban nhân dân do Hội đồng nhân dân bầu là cơ quan chấp hành của Hội đồng nhân dân, cơ quan hành chính Nhà nước ở địa phương, chịu trách nhiệm chấp hành Hiến pháp, luật, các văn bản của cơ quan Nhà nước cấp trên, nghị quyết của Hội đồng nhân dân cùng cấp."
+   }
+  },
+  {
+   "id": "VN-H368-A3",
+   "no": 3,
+   "noLabel": {
+    "vi": "Điều 3"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 3\n\nHội đồng nhân dân và Uỷ ban nhân dân tổ chức và hoạt động theo nguyên tắc tập trung dân chủ.\n\nTrong phạm vi nhiệm vụ, quyền hạn của mình, Hội đồng nhân dân và Uỷ ban nhân dân quản lý địa phương theo Hiến pháp, luật, các văn bản của cơ quan Nhà nước cấp trên, phát huy quyền làm chủ của nhân dân, tăng cường pháp chế xã hội chủ nghĩa, ngăn ngừa và chống các biểu hiện quan liêu, vô trách nhiệm, hách dịch, cửa quyền, tham nhũng, lãng phí và các biểu hiện tiêu cực khác trong cơ quan, cán bộ, viên chức Nhà nước và trong bộ máy chính quyền địa phương."
+   }
+  },
+  {
+   "id": "VN-H368-A4",
+   "no": 4,
+   "noLabel": {
+    "vi": "Điều 4"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 4\n\nHội đồng nhân dân và Uỷ ban nhân dân được tổ chức ở các đơn vị hành chính sau đây:\n\n- Tỉnh, thành phố trực thuộc trung ương (gọi chung là cấp tỉnh);\n\n- Huyện, quận, thị xã, thành phố thuộc tỉnh (gọi chung là cấp huyện);\n\n- Xã, phường, thị trấn (gọi chung là cấp xã).\n\nSố lượng đại biểu Hội đồng nhân dân và thể thức bầu cử đại biểu Hội đồng nhân dân các cấp do Luật bầu cử đại biểu Hội đồng nhân dân quy định."
+   }
+  },
+  {
+   "id": "VN-H368-A5",
+   "no": 5,
+   "noLabel": {
+    "vi": "Điều 5"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 5\n\nHội đồng nhân dân cấp tỉnh, cấp huyện có Thường trực Hội đồng nhân dân và các ban của Hội đồng nhân dân.\n\nHội đồng nhân dân cấp xã có Chủ tịch, Phó Chủ tịch Hội đồng nhân dân."
+   }
+  },
+  {
+   "id": "VN-H368-A6",
+   "no": 6,
+   "noLabel": {
+    "vi": "Điều 6"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 6\n\nNhiệm kỳ của mỗi khoá Hội đồng nhân dân các cấp là năm năm.\n\nNhiệm kỳ Thường trực Hội đồng nhân dân, Uỷ ban nhân dân cấp tỉnh, cấp huyện, của Chủ tịch, Phó Chủ tịch Hội đồng nhân dân, Uỷ ban nhân dân cấp xã theo nhiệm kỳ của Hội đồng nhân dân cùng cấp. Khi Hội đồng nhân dân hết nhiệm kỳ, Thường trực Hội đồng nhân dân, Uỷ ban nhân dân cấp tỉnh, cấp huyện, Chủ tịch, Phó Chủ tịch Hội đồng nhân dân, Uỷ ban nhân dân cấp xã tiếp tục làm nhiệm vụ cho đến khi Hội đồng nhân dân khoá mới bầu ra Thường trực Hội đồng nhân dân, Uỷ ban nhân dân cấp tỉnh, cấp huyện, Chủ tịch, Phó Chủ tịch Hội đồng nhân dân, Uỷ ban nhân dân cấp xã."
+   }
+  },
+  {
+   "id": "VN-H368-A7",
+   "no": 7,
+   "noLabel": {
+    "vi": "Điều 7"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 7\n\nHội đồng nhân dân và Uỷ ban nhân dân thực hiện nhiệm vụ, quyền hạn theo quy định tại Chương IX của Hiến pháp năm 1992 và theo quy định của Luật này.\n\nNhiệm vụ, quyền hạn cụ thể của Hội đồng nhân dân và Uỷ ban nhân dân ở mỗi cấp do Chính phủ trình Uỷ ban thường vụ Quốc hội quy định."
+   }
+  },
+  {
+   "id": "VN-H368-A8",
+   "no": 8,
+   "noLabel": {
+    "vi": "Điều 8"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 8\n\nHội đồng nhân dân chịu sự giám sát và hướng dẫn hoạt động của Uỷ ban thường vụ Quốc hội, chịu sự hướng dẫn và kiểm tra của Chính phủ trong việc thực hiện các văn bản của cơ quan Nhà nước cấp trên theo quy định của Uỷ ban Thường vụ Quốc hội."
+   }
+  },
+  {
+   "id": "VN-H368-A9",
+   "no": 9,
+   "noLabel": {
+    "vi": "Điều 9"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 9\n\nHiệu quả hoạt động của Hội đồng nhân dân cấp tỉnh, cấp huyện được bảo đảm bằng hiệu quả của các kỳ họp Hội đồng nhân dân, hiệu quả hoạt động của Thường trực Hội đồng nhân dân, Uỷ ban nhân dân, các ban của Hội đồng nhân dân và của các đại biểu Hội đồng nhân dân.\n\nHiệu quả hoạt động của Hội đồng nhân dân cấp xã được bảo đảm bằng hiệu quả của các kỳ họp Hội đồng nhân dân, hiệu quả hoạt động của Chủ tịch, Phó Chủ tịch Hội đồng nhân dân, Uỷ ban nhân dân và của các đại biểu Hội đồng nhân dân."
+   }
+  },
+  {
+   "id": "VN-H368-A10",
+   "no": 10,
+   "noLabel": {
+    "vi": "Điều 10"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 10\n\nTrong hoạt động của mình, Hội đồng nhân dân, Thường trực Hội đồng nhân dân, Uỷ ban nhân dân, các ban của Hội đồng nhân dân cấp tỉnh, cấp huyện, Hội đồng nhân dân, Chủ tịch, Phó Chủ tịch Hội đồng nhân dân, Uỷ ban nhân dân cấp xã và các đại biểu Hội đồng nhân dân phối hợp chặt chẽ với Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận, các tổ chức xã hội khác chăm lo và bảo vệ lợi ích của nhân dân, vận động nhân dân tham gia vào việc quản lý Nhà nước và thực hiện các nghĩa vụ đối với Nhà nước.\n\nCHƯƠNG II\n\nHỘI ĐỒNG NHÂN DÂN\n\nMỤC I\n\nNHIỆM VỤ, QUYỀN HẠN CỦA HỘI ĐỒNG NHÂN DÂN"
+   }
+  },
+  {
+   "id": "VN-H368-A11",
+   "no": 11,
+   "noLabel": {
+    "vi": "Điều 11"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 11\n\nCăn cứ vào chức năng, nhiệm vụ, quyền hạn của cấp mình và xuất phát từ lợi ích chung của đất nước, của nhân dân địa phương, Hội đồng nhân dân:\n\n1- Quyết định những chủ trương và biện pháp quan trọng để phát huy tiềm năng của địa phương, xây dựng và phát triển địa phương về kinh tế - xã hội, củng cố quốc phòng, an ninh, không ngừng cải thiện đời sống vật chất và tinh thần của nhân dân địa phương, làm tròn nghĩa vụ của địa phương đối với cả nước. Khi quyết định những vấn đề thuộc nhiệm vụ, quyền hạn của mình, Hội đồng nhân dân ra nghị quyết; những nghị quyết về các vấn đề mà pháp luật quy định thuộc quyền phê chuẩn của cấp trên thì trước khi thi hành phải được cấp trên phê chuẩn;\n\n2- Giám sát hoạt động của Thường trực Hội đồng nhân dân, Uỷ ban nhân dân, Toà án nhân dân, Viện kiểm sát nhân dân cùng cấp; giám sát việc thực hiện các nghị quyết của Hội đồng nhân dân về các lĩnh vực được quy định tại các điều 12, 13, 14, 15, 16, 17 và 18 của Luật này; giám sát việc tuân theo pháp luật của cơ quan Nhà nước, tổ chức kinh tế, tổ chức xã hội, đơn vị vũ trang nhân dân và của công dân ở địa phương."
+   }
+  },
+  {
+   "id": "VN-H368-A12",
+   "no": 12,
+   "noLabel": {
+    "vi": "Điều 12"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 12\n\nTrong lĩnh vực kinh tế, Hội đồng nhân dân quyết định:\n\n1- Kế hoạch phát triển kinh tế - xã hội; chủ trương, biện pháp nhằm phát huy mọi tiềm năng của các thành phần kinh tế ở địa phương, bảo đảm quyền tự chủ sản xuất, kinh doanh của các cơ sở kinh tế theo quy định của pháp luật, dự toán và phê chuẩn quyết toán ngân sách của địa phương;\n\n2- Chủ trương, biện pháp phân bổ lao động và dân cư ở địa phương;\n\n3- Biện pháp quản lý, sử dụng đất đai, rừng núi, sông hồ, nguồn nước, tài nguyên trong lòng đất, nguồn lợi ở vùng biển, bảo vệ tài nguyên thiên nhiên ở địa phương theo quy định của pháp luật;\n\n4- Biện pháp thực hiện chính sách tiết kiệm trong hoạt động quản lý Nhà nước, trong sản xuất, kinh doanh và tiêu dùng, chống tham nhũng, chống buôn lậu."
+   }
+  },
+  {
+   "id": "VN-H368-A13",
+   "no": 13,
+   "noLabel": {
+    "vi": "Điều 13"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 13\n\nTrong lĩnh vực văn hoá, xã hội và đời sống, Hội đồng nhân dân quyết định:\n\n1- Chủ trương, biện pháp phát triển sự nghiệp giáo dục, văn hoá, văn nghệ, thể dục, thể thao, phát thanh, truyền hình, giáo dục thanh niên, bảo vệ, chăm sóc, giáo dục thiếu niên, nhi đồng , xây dựng nếp sống văn minh, giáo dục truyền thống đạo đức tốt đẹp, giữ gìn thuần phong mỹ tục của dân tộc, chống các tệ nạn xã hội và những biểu hiện không lành mạnh trong đời sống xã hội ở địa phương;\n\n2- Chủ trương, biện pháp giải quyết việc làm và cải thiện điều kiện làm việc, sinh hoạt của người lao động; cải thiện đời sống nhân dân ở địa phương;\n\n3- Chủ trương, biện pháp bảo vệ sức khoẻ nhân dân, bảo vệ, chăm sóc người già, bà mẹ, trẻ em, thực hiện chính sách dân số và kế hoạch hoá gia đình;\n\n4- Chủ trương, biện pháp thực hiện chính sách ưu đãi, chăm sóc và giúp đỡ thương binh, bệnh binh, gia đình liệt sĩ, những người và gia đình có công với nước, thực hiện chính sách bảo hiểm xã hội, cứu tế xã hội."
+   }
+  },
+  {
+   "id": "VN-H368-A14",
+   "no": 14,
+   "noLabel": {
+    "vi": "Điều 14"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 14\n\nTrong lĩnh vực khoa học, công nghệ và môi trường, Hội đồng nhân dân quyết định:\n\n1- Chủ trương, biện pháp nhằm khuyến khích việc nghiên cứu, phát huy sáng kiến cải tiến kỹ thuật, ứng dụng các tiến bộ khoa học và công nghệ phục vụ sản xuất và đời sống ở địa phương;\n\n2- Chủ trương, biện pháp bảo vệ và cải thiện môi trường ở địa phương theo quy định của pháp luật;\n\n3- Biện pháp thực hiện các quy định của pháp luật về tiêu chuẩn đo lường và chất lượng sản phẩm, ngăn chặn việc sản xuất và lưu hành hàng giả tại địa phương, bảo vệ lợi ích của người tiêu dùng."
+   }
+  },
+  {
+   "id": "VN-H368-A15",
+   "no": 15,
+   "noLabel": {
+    "vi": "Điều 15"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 15\n\nTrong lĩnh vực quốc phòng, an ninh, trật tự, an toàn xã hội, Hội đồng nhân dân quyết định:\n\n1- Biện pháp thực hiện nhiệm vụ xây dựng lực lượng vũ trang và quốc phòng toàn dân, bảo đảm thực hiện chế độ nghĩa vụ quân sự, thực hiện nhiệm vụ hậu cần tại chỗ, thực hiện nhiệm vụ động viên, chính sách hậu phương quân đội và chính sách đối với các lực lượng vũ trang nhân dân ở địa phương;\n\n2- Biện pháp thực hiện nhiệm vụ giữ gìn an ninh, trật tự, an toàn xã hội, đấu tranh phòng ngừa và chống tội phạm và các hành vi vi phạm pháp luật khác ở địa phương."
+   }
+  },
+  {
+   "id": "VN-H368-A16",
+   "no": 16,
+   "noLabel": {
+    "vi": "Điều 16"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 16\n\nTrong việc thực hiện chính sách dân tộc và chính sách tôn giáo, Hội đồng nhân dân quyết định:\n\n1- Biện pháp bảo đảm thực hiện chính sách dân tộc, cải thiện đời sống vật chất và tinh thần, nâng cao dân trí của đồng bào các dân tộc, bảo đảm thực hiện quyền bình đẳng giữa các dân tộc, giữ gìn, tăng cường khối đoàn kết và tương trợ giữa các dân tộc ở địa phương;\n\n2- Biện pháp bảo đảm thực hiện chính sách tôn giáo, quyền bình đẳng giữa các tôn giáo trước pháp luật, quyền tự do tín ngưỡng, tôn giáo của nhân dân ở địa phương theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H368-A17",
+   "no": 17,
+   "noLabel": {
+    "vi": "Điều 17"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 17\n\nTrong lĩnh vực thi hành pháp luật, Hội đồng nhân dân quyết định:\n\n1- Biện pháp bảo đảm việc thi hành Hiến pháp, luật và các văn bản của cơ quan Nhà nước cấp trên trong cơ quan Nhà nước, tổ chức kinh tế, tổ chức xã hội, đơn vị vũ trang nhân dân và đối với công dân ở địa phương;\n\n2- Biện pháp bảo hộ tính mạng, tài sản, tự do, danh dự, nhân phẩm, các quyền và lợi ích hợp pháp khác của công dân;\n\n3- Biện pháp bảo vệ tài sản, lợi ích của Nhà nước, bảo hộ tài sản của tổ chức kinh tế, tổ chức xã hội ở địa phương;\n\n4- Biện pháp bảo đảm việc giải quyết khiếu nại, tố cáo và kiến nghị của công dân theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H368-A18",
+   "no": 18,
+   "noLabel": {
+    "vi": "Điều 18"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 18\n\nTrong lĩnh vực xây dựng chính quyền địa phương và quản lý địa giới hành chính, Hội đồng nhân dân:\n\n1- Bầu, miễn nhiệm, bãi nhiệm Chủ tịch, Phó Chủ tịch Hội đồng nhân dân, Chủ tịch, Phó Chủ tịch và các thành viên khác của Uỷ ban nhân dân, Trưởng ban và các thành viên khác của các ban của Hội đồng nhân dân; bầu, miễn nhiệm, bãi nhiệm Hội thẩm nhân dân của Toà án nhân dân cùng cấp theo quy định của pháp luật;\n\n2- Bãi bỏ những quyết định sai trái của Uỷ ban nhân dân cùng cấp, những nghị quyết sai trái của Hội đồng nhân dân cấp dưới trực tiếp;\n\n3- Quyết định giải tán Hội đồng nhân dân cấp dưới trực tiếp trong trường hợp Hội đồng nhân dân đó làm thiệt hại nghiêm trọng đến lợi ích của nhân dân. Nghị quyết giải tán Hội đồng nhân dân phải được sự phê chuẩn của Hội đồng nhân dân cấp trên trực tiếp trước khi thi hành. Nghị quyết của Hội đồng nhân dân cấp tỉnh giải tán Hội đồng nhân dân cấp dưới trực tiếp phải được sự phê chuẩn của Uỷ ban thường vụ Quốc hội trước khi thi hành;\n\n4- Thông qua đề án phân vạch, điều chỉnh địa giới các đơn vị hành chính ở địa phương để đề nghị cấp trên xét.\n\nMỤC II\n\nĐẠI BIỂU HỘI ĐỒNG NHÂN DÂN"
+   }
+  },
+  {
+   "id": "VN-H368-A19",
+   "no": 19,
+   "noLabel": {
+    "vi": "Điều 19"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 19\n\nĐại biểu Hội đồng nhân dân là người đại diện cho ý chí, nguyện vọng của nhân dân địa phương, gương mẫu chấp hành pháp luật, chính sách của Nhà nước, tuyên truyền, vận động nhân dân thực hiện pháp luật, chính sách và tham gia vào việc quản lý Nhà nước."
+   }
+  },
+  {
+   "id": "VN-H368-A20",
+   "no": 20,
+   "noLabel": {
+    "vi": "Điều 20"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 20\n\nNhiệm kỳ của đại biểu Hội đồng nhân dân mỗi khoá bắt đầu từ kỳ họp thứ nhất của Hội đồng nhân dân khoá đó đến kỳ họp thứ nhất của Hội đồng nhân dân khoá sau.\n\nĐại biểu Hội đồng nhân dân được bầu bổ sung bắt đầu làm nhiệm vụ đại biểu từ kỳ họp sau cuộc bầu cử bổ sung đến kỳ họp thứ nhất của Hội đồng nhân dân khoá sau."
+   }
+  },
+  {
+   "id": "VN-H368-A21",
+   "no": 21,
+   "noLabel": {
+    "vi": "Điều 21"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 21\n\nĐại biểu Hội đồng nhân dân có nhiệm vụ tham dự đầy đủ các kỳ họp, phiên họp của Hội đồng nhân dân, tham gia thảo luận và biểu quyết các vấn đề thuộc nhiệm vụ, quyền hạn của Hội đồng nhân dân.\n\nĐại biểu nào không tham dự được kỳ họp phải có lý do và phải báo cáo trước với Chủ tịch Hội đồng nhân dân.\n\nĐại biểu nào không tham dự được phiên họp phải có lý do và phải báo cáo với Chủ toạ phiên họp."
+   }
+  },
+  {
+   "id": "VN-H368-A22",
+   "no": 22,
+   "noLabel": {
+    "vi": "Điều 22"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 22\n\nĐại biểu Hội đồng nhân dân phải liên hệ chặt chẽ với cử tri ở đơn vị bầu ra mình, chịu sự giám sát của cử tri, phải thu thập và phản ánh trung thực ý kiến, nguyện vọng của cử tri, bảo vệ quyền và lợi ích hợp pháp của cử tri, thực hiện chế độ tiếp xúc và ít nhất mỗi năm một lần báo cáo với cử tri về hoạt động của mình và của Hội đồng nhân dân, trả lời những yêu cầu và kiến nghị của cử tri.\n\nSau mỗi kỳ họp Hội đồng nhân dân, các đại biểu Hội đồng nhân dân phải báo cáo với cử tri về kết quả của kỳ họp, phổ biến và giải thích các nghị quyết của Hội đồng nhân dân, vận động và cùng với nhân dân thực hiện các nghị quyết đó."
+   }
+  },
+  {
+   "id": "VN-H368-A23",
+   "no": 23,
+   "noLabel": {
+    "vi": "Điều 23"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 23\n\nĐại biểu Hội đồng nhân dân nhận được yêu cầu, kiến nghị của cử tri phải có trách nhiệm trả lời cử tri.\n\nKhi nhận được khiếu nại, tố cáo của nhân dân, đại biểu Hội đồng nhân dân có trách nhiệm xem xét và yêu cầu thủ trưởng các cơ quan, tổ chức hữu quan giải quyết và theo dõi, đôn đốc việc giải quyết, báo cho người đã khiếu nại, tố cáo biết kết quả."
+   }
+  },
+  {
+   "id": "VN-H368-A24",
+   "no": 24,
+   "noLabel": {
+    "vi": "Điều 24"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 24\n\nĐại biểu Hội đồng nhân dân có quyền chất vấn Chủ tịch Hội đồng nhân dân, Chủ tịch và các thành viên khác của Uỷ ban nhân dân, Chánh án Toà án nhân dân, Viện trưởng Viện kiểm sát nhân dân và thủ trưởng các cơ quan chuyên môn thuộc Uỷ ban nhân dân cùng cấp. Người bị chất vấn phải trả lời về những vấn đề mà đại biểu Hội đồng nhân dân chất vấn.\n\nTrong thời gian Hội đồng nhân dân họp, đại biểu Hội đồng nhân dân cấp tỉnh, cấp huyện gửi chất vấn đến Thường trực Hội đồng nhân dân cùng cấp, đại biểu Hội đồng nhân dân cấp xã gửi chất vấn đến Chủ tịch Hội đồng nhân dân. Người bị chất vấn phải trả lời trước Hội đồng nhân dân tại kỳ họp đó. Trong trường hợp cần điều tra, xác minh thì Hội đồng nhân dân có thể quyết định cho trả lời tại kỳ họp sau của Hội đồng nhân dân hoặc cho trả lời bằng văn bản gửi đại biểu đã chất vấn và Thường trực Hội đồng nhân dân cấp tỉnh, cấp huyện hoặc Chủ tịch Hội đồng nhân dân cấp xã.\n\nTrong thời gian giữa hai kỳ họp Hội đồng nhân dân, chất vấn của đại biểu Hội đồng nhân dân cấp tỉnh, cấp huyện được gửi đến Thường trực Hội đồng nhân dân cùng cấp, chất vấn của đại biểu Hội đồng nhân dân cấp xã được gửi đến Chủ tịch Hội đồng nhân dân để chuyển đến cơ quan hoặc người bị chất vấn và quyết định thời hạn trả lời chất vấn.\n\nNếu đại biểu không đồng ý với nội dung trả lời thì có quyền đề nghị Thường trực Hội đồng nhân dân cấp tỉnh, cấp huyện hoặc Chủ tịch Hội đồng nhân dân cấp xã đưa ra thảo luận tại kỳ họp Hội đồng nhân dân.\n\nKhi cần thiết, Hội đồng nhân dân ra nghị quyết về việc trả lời chất vấn và trách nhiệm của người bị chất vấn."
+   }
+  },
+  {
+   "id": "VN-H368-A25",
+   "no": 25,
+   "noLabel": {
+    "vi": "Điều 25"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 25\n\nĐại biểu Hội đồng nhân dân có quyền yêu cầu cơ quan Nhà nước, tổ chức kinh tế, tổ chức xã hội, đơn vị vũ trang nhân dân kịp thời chấm dứt những việc làm trái pháp luật, chính sách của Nhà nước trong cơ quan, tổ chức, đơn vị hoặc của nhân viên cơ quan, tổ chức, đơn vị đó.\n\nKhi đại biểu Hội đồng nhân dân yêu cầu gặp người phụ trách của cơ quan Nhà nước, tổ chức kinh tế, tổ chức xã hội, đơn vị vũ trang nhân dân thì người đó có trách nhiệm tiếp.\n\nĐại biểu Hội đồng nhân dân có quyền kiến nghị với cơ quan Nhà nước về việc thi hành pháp luật, chính sách của Nhà nước và về những vấn đề thuộc lợi ích chung. Cơ quan hữu quan có trách nhiệm trả lời kiến nghị của đại biểu."
+   }
+  },
+  {
+   "id": "VN-H368-A26",
+   "no": 26,
+   "noLabel": {
+    "vi": "Điều 26"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 26\n\nUỷ ban nhân dân các cấp, các cơ quan, viên chức Nhà nước và cán bộ trong bộ máy chính quyền ở địa phương, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm tạo điều kiện thuận lợi cho hoạt động của các đại biểu Hội đồng nhân dân như cung cấp tư liệu, thông tin, bảo đảm nơi tiếp xúc với cử tri, các phương tiện đi lại.\n\nUỷ ban Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận giúp đỡ đại biểu Hội đồng nhân dân cùng cấp làm nhiệm vụ đại biểu, tạo điều kiện cho đại biểu tiếp xúc với cử tri, thu thập ý kiến, nguyện vọng và kiến nghị của nhân dân với Hội đồng nhân dân."
+   }
+  },
+  {
+   "id": "VN-H368-A27",
+   "no": 27,
+   "noLabel": {
+    "vi": "Điều 27"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 27\n\nTrong thời gian Hội đồng nhân dân họp nếu không được sự đồng ý của Chủ toạ kỳ họp thì không được bắt giữ đại biểu Hội đồng nhân dân. Nếu vì phạm pháp quả tang hoặc trong trường hợp khẩn cấp mà đại biểu Hội đồng nhân dân bị tạm giữ thì cơ quan ra lệnh tạm giữ phải báo cáo ngay với Chủ toạ kỳ họp.\n\nGiữa hai kỳ họp Hội đồng nhân dân, nếu cơ quan Nhà nước có thẩm quyền ra lệnh tạm giữ đại biểu Hội đồng nhân dân thì phải thông báo cho Chủ tịch Hội đồng nhân dân và Chủ tịch Uỷ ban nhân dân cùng cấp."
+   }
+  },
+  {
+   "id": "VN-H368-A28",
+   "no": 28,
+   "noLabel": {
+    "vi": "Điều 28"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 28\n\nĐại biểu Hội đồng nhân dân có thể xin thôi làm nhiệm vụ đại biểu vì lý do sức khoẻ hoặc vì lý do khác. Việc chấp nhận đại biểu Hội đồng nhân dân xin thôi làm nhiệm vụ đại biểu do Hội đồng nhân dân cùng cấp xét và quyết định."
+   }
+  },
+  {
+   "id": "VN-H368-A29",
+   "no": 29,
+   "noLabel": {
+    "vi": "Điều 29"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 29\n\nĐại biểu Hội đồng nhân dân nào không còn xứng đáng với sự tín nhiệm của nhân dân thì tuỳ mức độ phạm sai lầm mà bị Hội đồng nhân dân hoặc cử tri bãi nhiệm. ở cấp tỉnh, cấp huyện Thường trực Hội đồng nhân dân và Uỷ ban nhân dân, ở cấp xã Chủ tịch Hội đồng nhân dân và Uỷ ban nhân dân quyết định việc đưa ra Hội đồng nhân dân hoặc cử tri bãi nhiệm đại biểu Hội đồng nhân dân theo đề nghị của Uỷ ban Mặt trận Tổ quốc Việt Nam cùng cấp.\n\nTrong trường hợp Hội đồng nhân dân bãi nhiệm đại biểu Hội đồng nhân dân thì việc bãi nhiệm phải được hai phần ba tổng số đại biểu Hội đồng nhân dân biểu quyết tán thành.\n\nTrong trường hợp cử tri bãi nhiệm đại biểu Hội đồng nhân dân thì việc bãi nhiệm được tiến hành theo thể thức do Uỷ ban Thường vụ Quốc hội quy định."
+   }
+  },
+  {
+   "id": "VN-H368-A30",
+   "no": 30,
+   "noLabel": {
+    "vi": "Điều 30"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 30\n\nĐại biểu Hội đồng nhân dân phạm tội, bị Toà án kết án và bản án đã có hiệu lực pháp luật thì mất quyền đại biểu Hội đồng nhân dân.\n\nMỤC III\n\nKỲ HỌP HỘI ĐỒNG NHÂN DÂN"
+   }
+  },
+  {
+   "id": "VN-H368-A31",
+   "no": 31,
+   "noLabel": {
+    "vi": "Điều 31"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 31\n\nHội đồng nhân dân thảo luận và ra nghị quyết về các vấn đề thuộc nhiệm vụ, quyền hạn của mình tại các kỳ họp của Hội đồng nhân dân. Nghị quyết của Hội đồng nhân dân phải được quá nửa tổng số đại biểu Hội đồng nhân dân biểu quyết tán thành, trừ trường hợp bãi nhiệm đại biểu Hội đồng nhân dân được quy định tại Điều 29 của Luật này. Hội đồng nhân dân quyết định việc biểu quyết bằng cách giơ tay, bỏ phiếu kín hoặc bằng cách khác theo đề nghị của Chủ toạ phiên họp.\n\nHội đồng nhân dân các cấp họp thường lệ mỗi năm hai kỳ. Trong trường hợp cần thiết, ở cấp tỉnh, cấp huyện, theo yêu cầu của Chủ tịch Hội đồng nhân dân, của Chủ tịch Uỷ ban nhân dân cùng cấp hoặc khi có ít nhất một phần ba tổng số đại biểu Hội đồng nhân dân cùng cấp yêu cầu thì Thường trực Hội đồng nhân dân quyết định triệu tập kỳ họp bất thường; ở cấp xã, theo yêu cầu của Uỷ ban nhân dân hoặc khi có ít nhất một phần ba tổng số đại biểu Hội đồng nhân dân yêu cầu thì Chủ tịch Hội đồng nhân dân quyết định triệu tập kỳ họp bất thường.\n\nHội đồng nhân dân họp công khai. Khi cần thiết, Hội đồng nhân dân quyết định họp kín theo đề nghị của Chủ toạ kỳ họp hoặc của Chủ tịch Uỷ ban nhân dân cùng cấp.\n\nNgày họp, nơi họp và chương trình của kỳ họp Hội đồng nhân dân phải được thông báo cho nhân dân biết, chậm nhất là năm ngày, trước ngày khai mạc kỳ họp.\n\nKỳ họp Hội đồng nhân dân được tiến hành khi có ít nhất hai phần ba tổng số đại biểu Hội đồng nhân dân tham gia.\n\nĐại biểu Quốc hội, đại biểu Hội đồng nhân dân cấp trên đã được bầu ở địa phương, Chủ tịch Uỷ ban Mặt trận Tổ quốc Việt Nam và người đứng đầu các đoàn thể nhân dân ở địa phương được mời tham dự kỳ họp Hội đồng nhân dân, được phát biểu ý kiến, nhưng không biểu quyết.\n\nTài liệu cần thiết của kỳ họp Hội đồng nhân dân phải được gửi đến đại biểu Hội đồng nhân dân trước ngày khai mạc kỳ họp."
+   }
+  },
+  {
+   "id": "VN-H368-A32",
+   "no": 32,
+   "noLabel": {
+    "vi": "Điều 32"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 32\n\nKỳ họp thứ nhất của mỗi khoá Hội đồng nhân dân được triệu tập chậm nhất là ba mươi ngày sau khi bầu xong đại biểu Hội đồng nhân dân. Ở miền núi, nơi nào đi lại khó khăn, thì kỳ họp thứ nhất của Hội đồng nhân dân tỉnh được triệu tập chậm nhất là bốn mươi lăm ngày, sau khi bầu xong đại biểu Hội đồng nhân dân.\n\nKỳ họp thứ nhất của mỗi khoá Hội đồng nhân dân do Chủ tịch Hội đồng nhân dân khoá trước triệu tập và chủ toạ cho đến khi Hội đồng nhân dân bầu được Chủ tịch Hội đồng nhân dân khoá mới."
+   }
+  },
+  {
+   "id": "VN-H368-A33",
+   "no": 33,
+   "noLabel": {
+    "vi": "Điều 33"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 33\n\nNghị quyết và biên bản các phiên họp Hội đồng nhân dân phải do Chủ tịch Hội đồng nhân dân ký chứng thực.\n\nChậm nhất là mười ngày, kể từ ngày bế mạc kỳ họp, nghị quyết và biên bản của kỳ họp phải được gửi lên Thường trực Hội đồng nhân dân, Uỷ ban nhân dân cấp trên trực tiếp, nghị quyết và biên bản của kỳ họp Hội đồng nhân dân cấp tỉnh phải được gửi lên Uỷ ban Thường vụ Quốc hội và Chính phủ."
+   }
+  },
+  {
+   "id": "VN-H368-A34",
+   "no": 34,
+   "noLabel": {
+    "vi": "Điều 34"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 34\n\n1- Tại phiên họp đầu tiên của kỳ họp thứ nhất của mỗi khoá, Hội đồng nhân dân bầu Ban thẩm tra tư cách đại biểu Hội đồng nhân dân theo sự giới thiệu của Chủ toạ kỳ họp Hội đồng nhân dân. Căn cứ báo cáo của Ban thẩm tra tư cách đại biểu, Hội đồng nhân dân ra nghị quyết xác nhận tư cách các đại biểu Hội đồng nhân dân hoặc tuyên bố việc bầu đại biểu nào đó là không có giá trị. Trong nhiệm kỳ, nếu có bầu cử bổ sung đại biểu thì Hội đồng nhân dân thành lập Ban thẩm tra tư cách đại biểu mới để xác nhận tư cách đại biểu được bầu bổ sung. Ban thẩm tra tư cách đại biểu hết nhiệm vụ khi việc thẩm tra tư cách đại biểu đã hoàn thành.\n\n2- Tại kỳ họp thứ nhất của mỗi khoá, Hội đồng nhân dân bầu:\n\na) Chủ tịch Hội đồng nhân dân trong số các đại biểu Hội đồng nhân dân theo sự giới thiệu của Chủ toạ kỳ họp;\n\nb) Phó Chủ tịch Hội đồng nhân dân, Trưởng ban và các thành viên khác của các ban của Hội đồng nhân dân trong số các đại biểu Hội đồng nhân dân theo sự giới thiệu của Chủ tịch Hội đồng nhân dân;\n\nc) Chủ tịch Uỷ ban nhân dân trong số các đại biểu Hội đồng nhân dân theo sự giới thiệu của Chủ tịch Hội đồng nhân dân;\n\nd) Phó Chủ tịch và các thành viên khác của Uỷ ban nhân dân theo sự giới thiệu của Chủ tịch Uỷ ban nhân dân;\n\nđ) Thư ký kỳ họp của mỗi khoá Hội đồng nhân dân, theo sự giới thiệu của Chủ toạ kỳ họp.\n\n3- Đại biểu Hội đồng nhân dân có quyền giới thiệu và ứng cử vào các chức vụ quy định tại Điều này. Việc bầu cử các chức vụ quy định tại khoản 2 Điều này được tiến hành bằng cách bỏ phiếu kín theo danh sách đề cử chức vụ từng người.\n\nMỤC IV\n\nTHƯỜNG TRỰC HỘI ĐỒNG NHÂN DÂN VÀ CÁC BAN CỦA HỘI ĐỒNG NHÂN DÂN\n\nCẤP TỈNH, CẤP HUYỆN;\n\nCHỦ TỊCH, PHÓ CHỦ TỊCH HỘI ĐỒNG NHÂN DÂN CẤP XÃ"
+   }
+  },
+  {
+   "id": "VN-H368-A35",
+   "no": 35,
+   "noLabel": {
+    "vi": "Điều 35"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 35\n\nThường trực Hội đồng nhân dân cấp tỉnh, cấp huyện gồm có Chủ tịch, Phó Chủ tịch Hội đồng nhân dân. Số Phó Chủ tịch Hội đồng nhân dân ở mỗi cấp do Uỷ ban thường vụ Quốc hội quy định theo đề nghị của Chính phủ.\n\nThành viên của Thường trực Hội đồng nhân dân cấp tỉnh, cấp huyện, Chủ tịch, Phó Chủ tịch Hội đồng nhân dân cấp xã không thể đồng thời là thành viên của Uỷ ban nhân dân cùng cấp."
+   }
+  },
+  {
+   "id": "VN-H368-A36",
+   "no": 36,
+   "noLabel": {
+    "vi": "Điều 36"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 36\n\nThường trực Hội đồng nhân dân cấp tỉnh, cấp huyện có những nhiệm vụ và quyền hạn sau đây:\n\n1- Triệu tập và chủ toạ các kỳ kọp của Hội đồng nhân dân; phối hợp với Uỷ ban nhân dân trong việc chuẩn bị kỳ họp của Hội đồng nhân dân;\n\n2- Đôn đốc, kiểm tra Uỷ ban nhân dân cùng cấp và các cơ quan Nhà nước khác ở địa phương thực hiện các nghị quyết của Hội đồng nhân dân;\n\n3- Điều hoà, phối hợp hoạt động của các ban của Hội đồng nhân dân, giữ mối liên hệ với các đại biểu Hội đồng nhân dân;\n\n4- Tiếp dân, đôn đốc, kiểm tra và xem xét tình hình giải quyết các kiến nghị, khiếu nại, tố cáo của công dân; tổng hợp ý kiến và nguyện vọng của nhân dân để báo cáo tại kỳ họp của Hội đồng nhân dân;\n\n5- Phối hợp với Uỷ ban nhân dân quyết định việc đưa ra Hội đồng nhân dân hoặc đưa ra cử tri bãi nhiệm đại biểu Hội đồng nhân dân phạm sai lầm theo đề nghị của Uỷ ban Mặt trận Tổ quốc Việt Nam cùng cấp;\n\n6- Báo cáo về hoạt động của Hội đồng nhân dân cùng cấp lên Hội đồng nhân dân và Uỷ ban nhân dân cấp trên trực tiếp; Thường trực Hội đồng nhân dân cấp tỉnh báo cáo về hoạt động của Hội đồng nhân dân cấp mình lên Uỷ ban thường vụ Quốc hội và Chính phủ;\n\n7- Giữ mối liên hệ và phối hợp công tác với Uỷ ban Mặt trận Tổ quốc Việt Nam cùng cấp; mỗi năm hai lần thông báo cho Uỷ ban Mặt trận Tổ quốc Việt Nam cùng cấp về hoạt động của Hội đồng nhân dân."
+   }
+  },
+  {
+   "id": "VN-H368-A37",
+   "no": 37,
+   "noLabel": {
+    "vi": "Điều 37"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 37\n\nChủ tịch Hội đồng nhân dân cấp xã có những nhiệm vụ và quyền hạn sau đây:\n\n1- Triệu tập và chủ toạ các kỳ họp của Hội đồng nhân dân; phối hợp với Uỷ ban nhân dân trong việc chuẩn bị kỳ họp Hội đồng nhân dân;\n\n2-Đôn đốc ,kiểm tra việc thực hiện các nghị quyết của Hội đồng nhân dân;\n\n3- Tổ chức việc tiếp dân, đôn đốc, kiểm tra việc giải quyết các kiến nghị, khiếu nại, tố cáo của nhân dân;\n\n4- Giữ mối liên hệ với các đại biểu Hội đồng nhân dân; báo cáo tình hình hoạt động của Hội đồng nhân dân lên Hội đồng nhân dân và Uỷ ban nhân dân cấp trên trực tiếp;\n\n5- Phối hợp với Uỷ ban nhân dân quyết định việc đưa ra Hội đồng nhân dân hoặc đưa ra cử tri bãi nhiệm đại biểu Hội đồng nhân dân phạm sai lầm theo đề nghị của Uỷ ban Mặt trận Tổ quốc Việt Nam cùng cấp;\n\n6- Giữ mối liên hệ và phối hợp công tác với Uỷ ban Mặt trận Tổ quốc Việt Nam cùng cấp; mỗi năm hai lần thông báo cho Uỷ ban Mặt trận Tổ quốc Việt Nam cùng cấp về hoạt động của Hội đồng nhân dân.\n\nPhó Chủ tịch Hội đồng nhân dân cấp xã giúp Chủ tịch Hội đồng nhân dân làm nhiệm vụ và thay Chủ tịch Hội đồng nhân dân khi vắng mặt."
+   }
+  },
+  {
+   "id": "VN-H368-A38",
+   "no": 38,
+   "noLabel": {
+    "vi": "Điều 38"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 38\n\nHội đồng nhân dân cấp tỉnh thành lập ba ban: Ban kinh tế và ngân sách, Ban văn hoá - xã hội, Ban pháp chế; nơi nào có nhiều dân tộc thì có thể thành lập Ban dân tộc.\n\nHội đồng nhân dân cấp huyện thành lập hai ban: Ban kinh tế - xã hội, Ban pháp chế.\n\nSố lượng thành viên của mỗi ban do Hội đồng nhân dân cùng cấp quyết định. Thành viên của các ban của Hội đồng nhân dân không thể đồng thời là thành viên của Uỷ ban nhân dân cùng cấp. Trưởng ban của Hội đồng nhân dân cấp tỉnh có thể hoạt động chuyên trách; Trưởng ban của Hội đồng nhân dân cấp huyện không hoạt động chuyên trách. Trưởng ban của Hội đồng nhân dân cấp tỉnh, cấp huyện không thể đồng thời là thủ trưởng của các cơ quan chuyên môn của Uỷ ban nhân dân, Viện trưởng Viện kiểm sát nhân dân, Chánh án Toà án nhân dân cùng cấp."
+   }
+  },
+  {
+   "id": "VN-H368-A39",
+   "no": 39,
+   "noLabel": {
+    "vi": "Điều 39"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 39\n\nCác ban của Hội đồng nhân dân có những nhiệm vụ và quyền hạn sau đây:\n\n1- Tham gia chuẩn bị các kỳ họp của Hội đồng nhân dân;\n\n2- Thẩm tra các báo cáo, đề án do Hội đồng nhân dân hoặc Thường trực Hội đồng nhân dân phân công;\n\n3- Giúp Hội đồng nhân dân giám sát hoạt động của Uỷ ban nhân dân và các cơ quan chuyên môn thuộc Uỷ ban nhân dân, hoạt động của Toà án nhân dân, Viện kiểm sát nhân dân cùng cấp;\n\n4- Giúp Hội đồng nhân dân giám sát cơ quan Nhà nước, tổ chức kinh tế, tổ chức xã hội, đơn vị vũ trang nhân dân và công dân trong việc thi hành Hiến pháp, luật, các văn bản của cơ quan Nhà nước cấp trên và các nghị quyết của Hội đồng nhân dân cùng cấp.\n\nTrong khi thi hành nhiệm vụ, các ban của Hội đồng nhân dân có quyền yêu cầu Uỷ ban nhân dân, các cơ quan chuyên môn thuộc Uỷ ban nhân dân, Toà án nhân dân, Viện kiểm sát nhân dân cùng cấp, cơ quan Nhà nước, tổ chức kinh tế, tổ chức xã hội ở địa phương cung cấp thông tin, tài liệu cần thiết liên quan đến hoạt động của mình."
+   }
+  },
+  {
+   "id": "VN-H368-A40",
+   "no": 40,
+   "noLabel": {
+    "vi": "Điều 40"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 40\n\nKinh phí hoạt động của Hội đồng nhân dân do Hội đồng nhân dân quyết định và ghi vào ngân sách địa phương theo quy định của Chính phủ.\n\nCHƯƠNG III\n\nUỶ BAN NHÂN DÂN\n\nMỤC I\n\nNHIỆM VỤ, QUYỀN HẠN CỦA UỶ BAN NHÂN DÂN"
+   }
+  },
+  {
+   "id": "VN-H368-A41",
+   "no": 41,
+   "noLabel": {
+    "vi": "Điều 41"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 41\n\nUỷ ban nhân dân tổ chức và chỉ đạo việc thi hành Hiến pháp, luật, các văn bản của cơ quan Nhà nước cấp trên và nghị quyết của Hội đồng nhân dân cùng cấp.\n\nUỷ ban nhân dân cấp trên chỉ đạo hoạt động của Uỷ ban nhân dân cấp dưới trực tiếp.\n\nTrong phạm vi nhiệm vụ, quyền hạn do pháp luật quy định, Uỷ ban nhân dân ra quyết định, chỉ thị và tổ chức thực hiện, kiểm tra việc thi hành các văn bản đó."
+   }
+  },
+  {
+   "id": "VN-H368-A42",
+   "no": 42,
+   "noLabel": {
+    "vi": "Điều 42"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 42\n\nUỷ ban nhân dân cấp tỉnh, cấp huyện phối hợp với Thường trực Hội đồng nhân dân và các ban của Hội đồng nhân dân cùng cấp chuẩn bị nội dung các kỳ họp Hội đồng nhân dân, xây dựng đề án trình Hội đồng nhân dân xét và quyết định.\n\nUỷ ban nhân dân cấp xã phối hợp với Chủ tịch Hội đồng nhân dân chuẩn bị nội dung các kỳ họp Hội đồng nhân dân."
+   }
+  },
+  {
+   "id": "VN-H368-A43",
+   "no": 43,
+   "noLabel": {
+    "vi": "Điều 43"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 43\n\nNhiệm vụ và quyền hạn của Uỷ ban nhân dân trong việc thực hiện quản lý Nhà nước:\n\n1- Quản lý Nhà nước ở địa phương trong các lĩnh vực nông nghiệp, lâm nghiệp, ngư nghiệp, công nghiệp, tiểu thủ công nghiệp, thương mại, dịch vụ, văn hoá, giáo dục, y tế, khoa học, công nghệ và môi trường, thể dục, thể thao, báo chí, phát thanh, truyền hình và các lĩnh vực xã hội khác, quản lý Nhà nước về đất đai và các nguồn tài nguyên thiên nhiên khác, quản lý việc thực hiện tiêu chuẩn đo lường chất lượng sản phẩm hàng hoá;\n\n2- Tuyên truyền, giáo dục pháp luật, kiểm tra việc chấp hành Hiến pháp, luật, các văn bản của cơ quan Nhà nước cấp trên và nghị quyết của Hội đồng nhân dân cùng cấp trong cơ quan Nhà nước, tổ chức kinh tế, tổ chức xã hội, đơn vị vũ trang nhân dân và công dân ở địa phương;\n\n3- Bảo đảm an ninh chính trị, trật tự, an toàn xã hội; thực hiện nhiệm vụ xây dựng lực lượng vũ trang và xây dựng quốc phòng toàn dân; thực hiện chế độ nghĩa vụ quân sự, nhiệm vụ hậu cần tại chỗ, nhiệm vụ động viên, chính sách hậu phương quân đội và chính sách đối với các lực lượng vũ trang nhân dân ở địa phương, quản lý hộ khẩu, hộ tịch ở địa phương, quản lý việc cư trú, đi lại của người nước ngoài ở địa phương;\n\n4- Phòng chống thiên tai, bảo vệ tài sản của Nhà nước, tổ chức kinh tế, tổ chức xã hội, bảo vệ tính mạng, tự do, danh dự, nhân phẩm, tài sản, các quyền và lợi ích hợp pháp khác của công dân; chống tham nhũng, chống buôn lậu, làm hàng giả và các tệ nạn xã hội khác;\n\n5- Quản lý công tác tổ chức, biên chế, lao động tiền lương, đào tạo đội ngũ viên chức Nhà nước và cán bộ cấp xã, bảo hiểm xã hội theo sự phân cấp của Chính phủ;\n\n6- Tổ chức và chỉ đạo công tác thi hành án ở địa phương theo quy định của pháp luật;\n\n7- Tổ chức, thực hiện việc thu, chi ngân sách của địa phương theo quy định của pháp luật; phối hợp với các cơ quan hữu quan để bảo đảm thu đúng, thu đủ, thu kịp thời các loại thuế và các khoản thu khác ở địa phương."
+   }
+  },
+  {
+   "id": "VN-H368-A44",
+   "no": 44,
+   "noLabel": {
+    "vi": "Điều 44"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 44\n\nUỷ ban nhân dân thực hiện việc quản lý địa giới đơn vị hành chính, xây dựng đề án phân vạch, điều chỉnh địa giới đơn vị hành chính ở địa phương đưa ra Hội đồng nhân dân cùng cấp thông qua để trình cấp trên xét."
+   }
+  },
+  {
+   "id": "VN-H368-A45",
+   "no": 45,
+   "noLabel": {
+    "vi": "Điều 45"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 45\n\nUỷ ban nhân dân chịu trách nhiệm và báo cáo công tác trước Hội đồng nhân dân cùng cấp và Uỷ ban nhân dân cấp trên.\n\nUỷ ban nhân dân cấp tỉnh chịu trách nhiệm và báo cáo công tác trước Hội đồng nhân dân cùng cấp và Chính phủ.\n\nMỤC II\n\nTỔ CHỨC VÀ HOẠT ĐỘNG CỦA UỶ BAN NHÂN DÂN"
+   }
+  },
+  {
+   "id": "VN-H368-A46",
+   "no": 46,
+   "noLabel": {
+    "vi": "Điều 46"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 46\n\nUỷ ban nhân dân do Hội đồng nhân dân cùng cấp bầu ra gồm có Chủ tịch, Phó Chủ tịch và uỷ viên. Chủ tịch Uỷ ban nhân dân là đại biểu Hội đồng nhân dân. Các thành viên khác của Uỷ ban nhân dân không nhất thiết phải là đại biểu Hội đồng nhân dân.\n\nKết quả bầu các thành viên của Uỷ ban nhân dân phải được Chủ tịch Uỷ ban nhân dân cấp trên trực tiếp phê chuẩn; kết quả bầu các thành viên của Uỷ ban nhân dân cấp tỉnh phải được Thủ tướng Chính phủ phê chuẩn."
+   }
+  },
+  {
+   "id": "VN-H368-A47",
+   "no": 47,
+   "noLabel": {
+    "vi": "Điều 47"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 47\n\nSố lượng thành viên của Uỷ ban nhân dân mỗi cấp được quy định như sau:\n\n1- Uỷ ban nhân dân cấp tỉnh có từ chín đến mười một thành viên; Uỷ ban nhân dân thành phố Hà Nội và Uỷ ban nhân dân thành phố Hồ Chí Minh có không quá mười ba thành viên;\n\n2- Uỷ ban nhân dân cấp huyện có từ bẩy đến chín thành viên;\n\n3- Uỷ ban nhân dân cấp xã có từ năm đến bẩy thành viên.\n\nSố Phó Chủ tịch Uỷ ban nhân dân của mỗi cấp do Chính phủ quy định."
+   }
+  },
+  {
+   "id": "VN-H368-A48",
+   "no": 48,
+   "noLabel": {
+    "vi": "Điều 48"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 48\n\nUỷ ban nhân dân mỗi tháng họp ít nhất một lần.\n\nCác quyết định của Uỷ ban nhân dân phải được quá nửa tổng số thành viên Uỷ ban nhân dân biểu quyết tán thành."
+   }
+  },
+  {
+   "id": "VN-H368-A49",
+   "no": 49,
+   "noLabel": {
+    "vi": "Điều 49"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 49\n\nUỷ ban nhân dân thảo luận tập thể và quyết định theo đa số các vấn đề sau đây:\n\n1- Chương trình làm việc của Uỷ ban nhân dân;\n\n2- Kế hoạch đầu tư phát triển kinh tế - xã hội, dự toán ngân sách, quyết toán ngân sách hàng năm và quỹ dự trữ của địa phương trình Hội đồng nhân dân;\n\n3- Các biện pháp thực hiện nghị quyết của Hội đồng nhân dân về kinh tế - xã hội, thông qua báo cáo của Uỷ ban nhân dân trước Hội đồng nhân dân;\n\n4- Đề án thành lập mới, sáp nhập, giải thể các cơ quan chuyên môn thuộc Uỷ ban nhân dân và việc phân vạch, điều chỉnh địa giới đơn vị hành chính ở địa phương."
+   }
+  },
+  {
+   "id": "VN-H368-A50",
+   "no": 50,
+   "noLabel": {
+    "vi": "Điều 50"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 50\n\nChủ tịch Uỷ ban Mặt trận Tổ quốc Việt Nam và người đứng đầu các đoàn thể nhân dân ở địa phương được mời dự các phiên họp của Uỷ ban nhân dân cùng cấp khi bàn đến các vấn đề có liên quan.\n\nUỷ ban nhân dân tạo điều kiện thuận lợi để Mặt trận Tổ quốc Việt Nam và các đoàn thể nhân dân tổ chức, động viên nhân dân tham gia xây dựng và củng cố chính quyền nhân dân, tổ chức, thực hiện các chủ trương, chính sách, pháp luật của Nhà nước, giám sát hoạt động của cơ quan Nhà nước, đại biểu dân cử, cán bộ và viên chức Nhà nước.\n\nUỷ ban nhân dân thực hiện chế độ thông báo tình hình mọi mặt của địa phương cho Mặt trận Tổ quốc Việt Nam và các đoàn thể nhân dân.\n\nUỷ ban nhân dân và các thành viên của Uỷ ban nhân dân có trách nhiệm giải quyết và trả lời các kiến nghị của Mặt trận Tổ quốc Việt Nam và các đoàn thể nhân dân."
+   }
+  },
+  {
+   "id": "VN-H368-A51",
+   "no": 51,
+   "noLabel": {
+    "vi": "Điều 51"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 51\n\nChủ tịch Uỷ ban nhân dân là người lãnh đạo và điều hành công việc của Uỷ ban nhân dân, chịu trách nhiệm cá nhân về việc thực hiện nhiệm vụ, quyền hạn của mình quy định tại Điều 52 của Luật này, cùng với tập thể Uỷ ban nhân dân chịu trách nhiệm về hoạt động của Uỷ ban nhân dân trước Hội đồng nhân dân cùng cấp và trước cơ quan Nhà nước cấp trên.\n\nChủ tịch Uỷ ban nhân dân phân công công tác cho Phó Chủ tịch và các thành viên khác của Uỷ ban nhân dân; người được phân công phải chịu trách nhiệm trước Chủ tịch Uỷ ban nhân dân.\n\nMỗi thành viên của Uỷ ban nhân dân chịu trách nhiệm cá nhân về phần công tác của mình trước Hội đồng nhân dân, Uỷ ban nhân dân cùng cấp và cùng với các thành viên khác chịu trách nhiệm tập thể về hoạt động của Uỷ ban nhân dân trước Hội đồng nhân dân cấp mình và trước cơ quan Nhà nước cấp trên."
+   }
+  },
+  {
+   "id": "VN-H368-A52",
+   "no": 52,
+   "noLabel": {
+    "vi": "Điều 52"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 52\n\nChủ tịch Uỷ ban nhân dân có những nhiệm vụ và quyền hạn sau đây:\n\n1- Lãnh đạo công tác của Uỷ ban nhân dân, các thành viên của Uỷ ban nhân dân, các cơ quan chuyên môn thuộc Uỷ ban nhân dân:\n\na) Đôn đốc, kiểm tra công tác của các cơ quan chuyên môn thuộc Uỷ ban nhân dân cấp mình và Uỷ ban nhân dân cấp dưới trong việc thực hiện Hiến pháp, luật, các văn bản của cơ quan Nhà nước cấp trên, nghị quyết của Hội đồng nhân dân và quyết định của Uỷ ban nhân dân cùng cấp;\n\nb) Quyết định về các vấn đề thuộc nhiệm vụ, quyền hạn của của Uỷ ban nhân dân cấp mình, trừ các vấn đề quy định tại Điều 49 của Luật này;\n\nc) áp dụng các biện pháp nhằm cải tiến lề lối làm việc; quản lý và điều hành bộ máy hành chính hoạt động có hiệu quả; ngăn ngừa và kiên quyết đấu tranh chống các biểu hiện quan liêu, vô trách nhiệm, hách dịch, cửa quyền, tham nhũng, lãng phí và các biểu hiện tiêu cực khác trong cơ quan, cán bộ, viên chức Nhà nước và trong bộ máy chính quyền địa phương;\n\nd) Tổ chức việc tiếp dân; xét và giải quyết các kiến nghị, khiếu nại, tố cáo của nhân dân theo quy định của pháp luật;\n\n2- Triệu tập và chủ toạ các phiên họp của Uỷ ban nhân dân.\n\n3- Phê chuẩn kết quả bầu các thành viên của Uỷ ban nhân dân cấp dưới trực tiếp; điều động, miễn nhiệm, cách chức Chủ tịch, Phó Chủ tịch Uỷ ban nhân dân cấp dưới trực tiếp; phê chuẩn việc miễn nhiệm, bãi nhiệm các thành viên khác của Uỷ ban nhân dân cấp dưới trực tiếp; bổ nhiệm, miễn nhiệm, điều động, cách chức, khen thưởng, kỷ luật cán bộ, viên chức Nhà nước theo sự phân cấp quản lý.\n\n4- Đình chỉ việc thi hành hoặc bãi bỏ những văn bản sai trái của cơ quan chuyên môn thuộc Uỷ ban nhân dân cấp mình và những văn bản sai trái của Uỷ ban nhân dân, Chủ tịch Uỷ ban nhân dân cấp dưới.\n\n5- Đình chỉ việc thi hành nghị quyết sai trái của Hội đồng nhân dân cấp dưới trực tiếp và đề nghị Hội đồng nhân dân cấp mình bãi bỏ.\n\nMỤC III\n\nCÁC CƠ QUAN CHUYÊN MÔN THUỘC UỶ BAN NHÂN DÂN"
+   }
+  },
+  {
+   "id": "VN-H368-A53",
+   "no": 53,
+   "noLabel": {
+    "vi": "Điều 53"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 53\n\nCác cơ quan chuyên môn thuộc Uỷ ban nhân dân giúp Uỷ ban nhân dân cùng cấp thực hiện chức năng quản lý Nhà nước ở địa phương và bảo đảm sự thống nhất quản lý của ngành hoặc lĩnh vực công tác từ trung ương đến cơ sở."
+   }
+  },
+  {
+   "id": "VN-H368-A54",
+   "no": 54,
+   "noLabel": {
+    "vi": "Điều 54"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 54\n\nCác cơ quan chuyên môn thuộc Uỷ ban nhân dân chịu sự chỉ đạo và quản lý về tổ chức, biên chế và công tác của Uỷ ban nhân dân cấp mình, đồng thời chịu sự chỉ đạo về nghiệp vụ của cơ quan chuyên môn cấp trên. Thủ trưởng cơ quan chuyên môn thuộc Uỷ ban nhân dân chịu trách nhiệm và báo cáo công tác trước Uỷ ban nhân dân và cơ quan chuyên môn cấp trên và khi cần thiết thì báo cáo công tác trước Hội đồng nhân dân."
+   }
+  },
+  {
+   "id": "VN-H368-A55",
+   "no": 55,
+   "noLabel": {
+    "vi": "Điều 55"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 55\n\nChính phủ quy định tổ chức và hoạt động của các cơ quan chuyên môn thuộc Uỷ ban nhân dân.\n\nCHƯƠNG IV\n\nNHỮNG QUY ĐỊNH VỀ TỔ CHỨC TRONG TRƯỜNG HỢP\n\nTHAY ĐỔI CẤP HOẶC ĐỊA GIỚI CỦA CÁC ĐƠN VỊ HÀNH CHÍNH\n\nVÀ TRONG TRƯỜNG HỢP ĐẶC BIỆT"
+   }
+  },
+  {
+   "id": "VN-H368-A56",
+   "no": 56,
+   "noLabel": {
+    "vi": "Điều 56"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 56\n\nTrong trường hợp nhiều đơn vị hành chính sáp nhập thành một đơn vị hành chính mới thì Hội đồng nhân dân của các đơn vị hành chính cũ được nhập thành Hội đồng nhân dân của đơn vị hành chính mới và tiếp tục hoạt động cho đến khi hết nhiệm kỳ.\n\nHội đồng nhân dân của đơn vị mới bầu ra Chủ tịch, Phó chủ tịch Hội đồng nhân dân, Chủ tịch, Phó chủ tịch và các thành viên khác của Uỷ ban nhân dân, Trưởng ban và các thành viên khác của các ban của Hội đồng nhân dân và hoạt động cho đến khi hết nhiệm kỳ."
+   }
+  },
+  {
+   "id": "VN-H368-A57",
+   "no": 57,
+   "noLabel": {
+    "vi": "Điều 57"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 57\n\nTrong trường hợp một đơn vị hành chính được chia thành nhiều đơn vị hành chính mới, các đại biểu Hội đồng nhân dân đã được bầu hoặc công tác ở địa hạt thuộc đơn vị hành chính mới nào thì hợp thành Hội đồng nhân dân của đơn vị hành chính đó và tiếp tục hoạt động cho đến khi hết nhiệm kỳ.\n\nHội đồng nhân dân mới bầu ra Chủ tịch, Phó chủ tịch Hội đồng nhân dân, Chủ tịch, Phó chủ tịch và các thành viên khác của Uỷ ban nhân dân, Trưởng ban và các thành viên khác của các ban của Hội đồng nhân dân và tiếp tục hoạt động cho đến khi hết nhiệm kỳ.\n\nTrong trường hợp số lượng đại biểu Hội đồng nhân dân ở các đơn vị hành chính mới không đủ theo quy định của Luật bầu cử đại biểu Hội đồng nhân dân thì có thể tiến hành bầu cử bổ sung theo quy định của Luật bầu cử đại biểu Hội đồng nhân dân."
+   }
+  },
+  {
+   "id": "VN-H368-A58",
+   "no": 58,
+   "noLabel": {
+    "vi": "Điều 58"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 58\n\nTrong trường hợp một đơn vị hành chính được thay đổi cấp quản lý hành chính hoặc trong trường hợp thành lập một đơn vị hành chính mới, thì Chủ tịch Uỷ ban nhân dân cấp trên trực tiếp chỉ định Uỷ ban nhân dân lâm thời để đảm nhiệm công tác cho đến khi Hội đồng nhân dân và Uỷ ban nhân dân mới được bầu ra; ở đơn vị hành chính cấp tỉnh thì Thủ tướng Chính phủ chỉ định Uỷ ban nhân dân lâm thời."
+   }
+  },
+  {
+   "id": "VN-H368-A59",
+   "no": 59,
+   "noLabel": {
+    "vi": "Điều 59"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 59\n\nTrong trường hợp một phần địa phận và dân cư của đơn vị hành chính này được điều chỉnh về một đơn vị hành chính khác thì những đại biểu Hội đồng nhân dân thuộc địa phận đó sẽ là đại biểu Hội đồng nhân dân ở đơn vị mới tương đương và tiếp tục hoạt động cho đến khi hết nhiệm kỳ."
+   }
+  },
+  {
+   "id": "VN-H368-A60",
+   "no": 60,
+   "noLabel": {
+    "vi": "Điều 60"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 60\n\nTrong trường hợp một tập thể dân cư được điều động di chuyển đi nơi khác thì đại biểu Hội đồng nhân dân nào chuyển theo tập thể đó sẽ là đại biểu Hội đồng nhân dân cấp tương đương và tiếp tục hoạt động ở đơn vị mới cho đến khi hết nhiệm kỳ."
+   }
+  },
+  {
+   "id": "VN-H368-A61",
+   "no": 61,
+   "noLabel": {
+    "vi": "Điều 61"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 61\n\nTrong trường hợp Hội đồng nhân dân bị giải tán hoặc trong trường hợp đặc biệt khác, thì Chủ tịch Uỷ ban nhân dân cấp trên trực tiếp chỉ định Uỷ ban nhân dân lâm thời để đảm nhiệm công tác cho đến khi Hội đồng nhân dân và Uỷ ban nhân dân mới được bầu ra; đối với cấp tỉnh thì Thủ tướng Chính phủ chỉ định Uỷ ban nhân dân lâm thời.\n\nCHƯƠNG V\n\nĐIỀU KHOẢN THI HÀNH"
+   }
+  },
+  {
+   "id": "VN-H368-A62",
+   "no": 62,
+   "noLabel": {
+    "vi": "Điều 62"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 62\n\nLuật này thay thế Luật Tổ chức Hội đồng nhân dân và Uỷ ban nhân dân ngày 30 tháng 6 năm 1989.\n\nNhững quy định trước đây trái với Luật này đều bãi bỏ."
+   }
+  },
+  {
+   "id": "VN-H368-A63",
+   "no": 63,
+   "noLabel": {
+    "vi": "Điều 63"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 63\n\nUỷ ban thường vụ Quốc hội, Chính phủ quy định chi tiết thi hành Luật này.\n\nLuật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá IX kỳ họp thứ 5 thông qua ngày 21 tháng 6 năm 1994.\n\n1:{\"id\":\"10420\",\"docType\":{\"id\":\"11025e19-2dd6-4165-85ad-ab6241186a1a\",\"name\":\"Luật\",\"code\":\"Lu\",\"parentCode\":\"VBQPPL\",\"parentName\":null},\"docGroup\":\"VBQPPL\",\"docNum\":\"Không số\",\"title\":\"Luật Tổ chức Hội đồng nhân dân và Uỷ ban nhân dân số Không số\",\"applicationNote\":\"Bị thay thế bởi Luật 11/2003/QH11 Tổ chức Hội đồng nhân dân và Uỷ ban nhân dân\",\"issueDate\":\"1994-06-21T00:00:00\",\"effFrom\":\"1994-07-05T00:00:00\",\"effTo\":\"2003-12-10T00:00:00\",\"publicDate\":null,\"effStatus\":{\"id\":\"f55c1469-4341-4274-93ef-32b283db4dbd\",\"name\":\"Hết hiệu lực toàn bộ\",\"code\":\"HHL\",\"parentCode\":null,\"parentName\":null},\"status\":\"Publish\",\"lang\":\"vi\",\"defaultLanguage\":\"VN\",\"updatedBy\":\"dungdvm_II.2\",\"updatedDate\":\"2026-01-16T17:33:21\",\"agencyName\":\"Quốc hội\",\"organization\":{\"id\":\"e1e1ef48-0054-4da3-bc4d-3d9921c03883\",\"code\":\"BNV\",\"name\":\"Bộ Nội vụ\",\"nameEn\":\"Bộ Nội vụ\",\"shortName\":\"BNV\",\"orgType\":\"0\"},\"isLw\":true,\"documentContent\":{\"id\":\"10420\",\"title\":null,\"content\":\"$2\"},\"documentContentEn\":null,\"documentContentFileName\":null,\"documentContentFileDocName\":null,\"documentIssues\":[{\"id\":\"81a5deb0-d1a5-41ca-ac0e-84d57c92fab7\",\"agencyId\":\"55\",\"agencyName\":\"Quốc hội\",\"agencyNameEn\":\"National Assembly of Vietnam\",\"agencyCode\":\"QH\",\"personId\":\"184\",\"personName\":\"Nông Đức Mạnh\",\"jobTitleId\":\"28da0087-8afd-420c-875c-b2369e212c3e\",\"jobTitleCode\":\"CTQH\",\"jobTitleName\":\"Chủ tịch Quốc hội\",\"orderIndex\":1}],\"documentMajors\":[],\"documentFields\":[{\"id\":\"76e2c0d5-e93e-4ee9-8c72-59dae1167432\",\"name\":\"Chưa phân loại\",\"code\":null,\"parentCode\":null,\"parentName\":null}],\"documentRelatedList\":[{\"id\":\"24886f26-817d-46da-b6dd-2c10d6a5489b\",\"fileName\":\"10420_body_content.html\",\"relatedType\":\"MARKDOWN\",\"fileTitle\":\"10420_body_content.html\",\"fileOrder\":null}],\"provisionTree\":null,\"references\":null,\"isEffectAllDocument\":false,\"isOld\":true,\"reviewStatus\":\"INITIAL\",\"reviewed\":false,\"isTranslationDoc\":false,\"isConsolidatedDocument\":false,\"isConstitutionDocument\":false,\"isAdministrativeDocument\":false,\"viewCount\":61,\"showViewCount\":true,\"hasContent\":true,\"hasOriginalPdf\":null,\"hasAIProcessed\":false,\"hasClauseRelation\":null,\"aiResults\":[]}"
+   }
+  }
+ ]
+}

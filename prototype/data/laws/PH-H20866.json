@@ -1,0 +1,72 @@
+{
+ "id": "PH-H20866",
+ "title": {
+  "zh": null,
+  "en": "Central Bank Rediscount Rates Policy",
+  "orig": "Central Bank Rediscount Rates Policy"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p159",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1981-06-25",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Executive Order No. 698",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 739,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/07_行政命令_EO/EO_00698_1981_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 EO_00698_1981_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H20866-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Sec 1"
+   },
+   "text": {
+    "en": "The ceilings, loan values and rediscount rates of the Central Bank for preferential rediscounting and\nthe lending rates that may be charged by banks on paper rediscounted with the Central Bank, which are\nprescribed or fixed in Letters of Instructions and other executive issuances shall be directory and such\nceilings, loan values and rates may be modified by the Monetary Board whenever warranted by prevailing\neconomic conditions, in accordance with the provisions of its Charter."
+   }
+  },
+  {
+   "id": "PH-H20866-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Sec 2"
+   },
+   "text": {
+    "en": "All issuances, and regulations inconsistent herewith are hereby repealed or modified accordingly."
+   }
+  },
+  {
+   "id": "PH-H20866-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Sec 3"
+   },
+   "text": {
+    "en": "This Executive Order shall take effect immediately.\nDone in the City of Manila, this 25th day of June, in the year of Our Lord, nineteen hundred and eighty-one."
+   }
+  }
+ ]
+}

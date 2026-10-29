@@ -1,0 +1,570 @@
+{
+ "id": "MY-H2529",
+ "title": {
+  "zh": "2024年伊斯兰法律专业（联邦直辖区）（纪律程序）规则",
+  "en": "SYARIE LEGAL PROFESSION (FEDERAL TERRITORIES) (DISCIPLINARY PROCEEDINGS) RULES 2024",
+  "orig": "SYARIE LEGAL PROFESSION (FEDERAL TERRITORIES) (DISCIPLINARY PROCEEDINGS) RULES 2024",
+  "ms": "Kaedah Profesion Guaman Syarie (Wilayah-Wilayah Persekutuan) (Prosiding Tatatertib) 2024",
+  "vi": "Quy tắc về Nghề luật Shariah (Các lãnh thổ liên bang) (Thủ tục kỷ luật) năm 2024",
+  "th": "กฎวิชาชีพกฎหมายชารีอะห์ (เขตสหพันธรัฐ) (กระบวนการทางวินัย) ค.ศ. 2024",
+  "id": "Tata Tertib Profesi Hukum Syariah (Wilayah-Wilayah Persekutuan) (Proses Disipliner) Tahun 2024"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-6",
+ "language": "ms",
+ "level": "regulation",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "2024",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "PUA212",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 44,
+ "chars": 84962,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-view.php?type=pua&no=P.U. (A) 212/2024&status=PRINCIPAL"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\01_宪法与基础法\\2024_P.U.(A)212-2024_SYARIE LEGAL PROFESSION (FEDERAL TERRITORIES) (DISCIPLINARY PROCEEDINGS) RULES 2024.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 44 条；逐字未改写（源自厂商 OCR 文本）。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H2529-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "1. Nama"
+   }
+  },
+  {
+   "id": "MY-H2529-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "2. Tafsiran\n\nBAHAGIAN II\nPENUBUHAN LEMBAGA TATATERTIB DAN URUS SETIA ADUAN"
+   }
+  },
+  {
+   "id": "MY-H2529-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "3. Penubuhan Lembaga Tatatertib"
+   }
+  },
+  {
+   "id": "MY-H2529-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "4. Kuorum Lembaga Tatatertib"
+   }
+  },
+  {
+   "id": "MY-H2529-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "5. Urus Setia Aduan\n\nBAHAGIAN III\nADUAN"
+   }
+  },
+  {
+   "id": "MY-H2529-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "6. Kandungan aduan"
+   }
+  },
+  {
+   "id": "MY-H2529-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "7. Yuran pemprosesan"
+   }
+  },
+  {
+   "id": "MY-H2529-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "8. Had masa"
+   }
+  },
+  {
+   "id": "MY-H2529-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "9. Kewajipan Pengarah apabila menerima aduan"
+   }
+  },
+  {
+   "id": "MY-H2529-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "10. Penarikan balik aduan"
+   }
+  },
+  {
+   "id": "MY-H2529-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "11. Majlis Peguam Syarie boleh meneruskan aduan yang ditarik balik"
+   }
+  },
+  {
+   "id": "MY-H2529-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "12. Daftar Aduan"
+   }
+  },
+  {
+   "id": "MY-H2529-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "13. Daftar Aduan Ditolak"
+   }
+  },
+  {
+   "id": "MY-H2529-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "14. Penentuan merit aduan\n\nKaedah"
+   }
+  },
+  {
+   "id": "MY-H2529-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "15. Kuasa Lembaga Tatatertib untuk menguruskan aduan secara terus"
+   }
+  },
+  {
+   "id": "MY-H2529-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "16. Penyiasatan aduan\n\nBAHAGIAN IV\nPENJALANAN PROSIDING"
+   }
+  },
+  {
+   "id": "MY-H2529-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "17. Rekod aduan"
+   }
+  },
+  {
+   "id": "MY-H2529-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "18. Tarikh, masa dan tempat pendengaran"
+   }
+  },
+  {
+   "id": "MY-H2529-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "19. Notis pendengaran"
+   }
+  },
+  {
+   "id": "MY-H2529-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "20. Hak diwakili di sisi undang-undang"
+   }
+  },
+  {
+   "id": "MY-H2529-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "21. Kuorum prosiding Lembaga Tatatertib"
+   }
+  },
+  {
+   "id": "MY-H2529-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "22. Prosiding Lembaga Tatatertib"
+   }
+  },
+  {
+   "id": "MY-H2529-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "23. Penangguhan pendengaran"
+   }
+  },
+  {
+   "id": "MY-H2529-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "24. Ketidakhadiran pihak di hadapan Lembaga Tatatertib"
+   }
+  },
+  {
+   "id": "MY-H2529-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "25. Rekod prosiding di hadapan Lembaga Tatatertib"
+   }
+  },
+  {
+   "id": "MY-H2529-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "26. Keputusan majoriti disifatkan sebagai keputusan Lembaga Tatatertib"
+   }
+  },
+  {
+   "id": "MY-H2529-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 27"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "27. Laporan Lembaga Tatatertib\n\nBAHAGIAN V\nPENGGANTUNGAN AMALAN PEGUAM SYARIE DI BAWAH SEKSYEN 83 AKTA"
+   }
+  },
+  {
+   "id": "MY-H2529-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 28"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "28. Penggantungan amalan Peguam Syarie di bawah seksyen 83 Akta\n\nBAHAGIAN VI\nPROSIDING RAYUAN TATATERTIB"
+   }
+  },
+  {
+   "id": "MY-H2529-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Section 29"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "29. Notis rayuan"
+   }
+  },
+  {
+   "id": "MY-H2529-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Section 30"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "30. Notis rayuan balas"
+   }
+  },
+  {
+   "id": "MY-H2529-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Section 31"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "31. Nota keterangan dan penghakiman"
+   }
+  },
+  {
+   "id": "MY-H2529-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Section 32"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "32. Alasan rayuan"
+   }
+  },
+  {
+   "id": "MY-H2529-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Section 33"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "33. Rekod rayuan jika perayu diwakili"
+   }
+  },
+  {
+   "id": "MY-H2529-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "Section 34"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "34. Rekod rayuan jika perayu tidak diwakili\nKaedah"
+   }
+  },
+  {
+   "id": "MY-H2529-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "Section 35"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "35. Penarikan balik rayuan"
+   }
+  },
+  {
+   "id": "MY-H2529-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "Section 36"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "36. Notis pendengaran rayuan"
+   }
+  },
+  {
+   "id": "MY-H2529-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "Section 37"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "37. Daftar Rayuan"
+   }
+  },
+  {
+   "id": "MY-H2529-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "Section 38"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "38. Penyampaian dokumen dan notis"
+   }
+  },
+  {
+   "id": "MY-H2529-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "Section 39"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "39. Penggantungan pelaksanaan sementara menunggu rayuan"
+   }
+  },
+  {
+   "id": "MY-H2529-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "Section 40"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "40. Penghakiman hendaklah menyatakan alasan"
+   }
+  },
+  {
+   "id": "MY-H2529-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "Section 41"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "41. Rayuan terhadap keputusan Mahkamah Tinggi Syariah\n\nBAHAGIAN VII\nPELBAGAI"
+   }
+  },
+  {
+   "id": "MY-H2529-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "Section 42"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "42. Kesan ketidakpatuhan dan ketidakteraturan tidak membatalkan prosiding"
+   }
+  },
+  {
+   "id": "MY-H2529-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "Section 43"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "43. Penandatanganan notis pendengaran dan dokumen lain"
+   }
+  },
+  {
+   "id": "MY-H2529-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "Section 44"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "44. Kematian\n\nJADUAL PERTAMA\nJADUAL KEDUA\nJADUAL KETIGA\nJADUAL KEEMPAT\nJADUAL KELIMA\nJADUAL KEENAM\n\nAKTA PROFESION GUAMAN SYARIE (WILAYAH-WILAYAH PERSEKUTUAN) 2019\n\nKAEDAH-KAEDAH PROFESION GUAMAN SYARIE\n(WILAYAH-WILAYAH PERSEKUTUAN) (PROSIDING TATATERTIB) 2024\n\nPADΑ menjalankan kuasa yang diberikan oleh seksyen 85\nAkta Profesion Guaman Syarie (Wilayah -Wilayah Persekutuan)  2019 [Akta 814 ],\nMajlis Peguam Syarie membuat kaedah-kaedah yang berikut:\n\nBAHAGIAN I\nPERMULAAN\n\nNama\n1. Kaedah-kaedah ini bolehlah dinamakan Kaedah-Kaedah Profesion Guaman\nSyarie (Wilayah-Wilayah Persekutuan) (Prosiding Tatatertib) 2024.\n\nTafsiran\n2. Dalam Kaedah-Kaedah ini—\n\n\"aduan\" ertinya suatu aduan bertulis yang dibuat di bawah kaedah 6\nyang berhubungan dengan salah laku Peguam Syarie yang berkenaan;\n\n \"akuan berkanun\" ertinya suatu akuan yang dibuat di bawah\nAkta Akuan Berkanun 1960 [Akta 13];\n\n\"Daftar Aduan\" ertinya daftar yang disimpan dan disenggara oleh Pengarah\ndi bawah kaedah 12;\n\n\"Daftar Aduan Ditolak\" ertinya daftar yang disimpan dan disenggara oleh\nPengarah di bawah kaedah 13;\n\n\"Lembaga Tatatertib\" ertinya Lembaga Tatatertib yang ditubuhkan di bawah\nkaedah 3;\n\n\"Peguam Syarie yang berkenaan\" ertinya Peguam Syarie termasuk pelati h\nyang terhadapnya suatu aduan atau perintah, mengikut mana -mana yang berkenaan,\ntelah dibuat di bawah Akta;\n\n\"pengadu\" ertinya mana -mana orang, sama ada sebenar atau di sisi\nundang-undang, yang telah membuat suatu aduan, sama ada secara sendiri atau mel alui\npegawainya atau seorang Peguam Syarie, dan termasuklah Majlis Peguam Syarie\ndan orang atau badan yang disebut dalam subseksyen 78(2) Akta;\n\n\"Pengarah\" ertinya Pengarah Urus Setia Aduan ya ng dilantik di bawah\nsubkaedah 5(2);\n\n\"Pengerusi\" ertinya Pengerusi Lembaga Tatatertib;\n\n\"salah laku\" mempunyai erti yang diberikan kepadanya di bawah\nsubseksyen 77(4) Akta.\n\nBAHAGIAN II\nPENUBUHAN LEMBAGA TATATERTIB DAN URUS SETIA ADUAN\n\nPenubuhan Lembaga Tatatertib\n3. (1) Suatu Lembaga Tatatertib hendaklah ditubuhkan bagi maksud prosiding\ntatatertib di bawah Akta.\n\n(2) Lembaga Tatatertib hendaklah terdiri daripada anggota yang berikut:\n\n(a) seorang Pengerusi Lembaga Tatatertib yang dilantik oleh\nMajlis Peguam Syarie dalam kalangan orang yang pernah\nberkhidmat sebagai seorang Hakim Mahkamah Tinggi Syariah\natau Hakim Mahkamah Rayuan Syariah atau mana -mana orang\nyang layak menjadi Hakim Mahkamah Tinggi Syariah atau\nHakim Mahkamah Rayuan Syariah;\n\n(b) Presiden Badan Peguam Syarie atau mana -mana ahli\nMajlis Peguam Syarie sebagai wakilnya; dan\n\n(c) sembilan orang anggota pengamal Badan Peguam Syarie\nyang dilantik oleh Majlis Peguam Syarie dalam kalangan orang\nyang telah beramal sebagai Peguam Syarie, s ama ada\ndi Wilayah -Wilayah Persekutuan sahaja atau\ndi Wilayah -Wilayah Persekutuan dan di mana -mana Negeri,\ntidak kurang daripada lima belas tahun.\n\n(3) Pelantikan di bawah subkaedah (2) hendaklah bagi tempoh tiga tahun\ndan boleh dilanjutkan bagi tempoh maksimum selama tiga tahun.\n\n(4) Pengerusi Lembaga Tatatertib hendaklah mempengerusikan mesyuarat\nLeınbaga Tatatertib dan jika Pengerusi menarik diri menurut subkaedah (6)\natau ji ka Pengerusi tidak dapat, oleh s ebab sakit atau apa -apa s ebab yang lain,\nhadir mesyuarat, Presiden Badan Peguam Syarie atau wakilnya hendaklah\nmempengerusikan mesyuarat itu.\n\n(5) Jika Presiden Badan Peguam Syarie atau wakilnya juga menarik diri\nmenurut subkaedah (6) atau tidak dapat, oleh sebab sakit ata u apa-apa sebab yang lain,\nhadir mesyuarat, anggota yang hadir hendaklah memilih seorang dalam kalangan mereka\nuntuk mempengerusikan mesyuarat itu.\n\n(6) Pengerusi Lembaga Tatatertib, Presiden Badan Peguam Syarie atau\nwakilnya dan mana -mana anggota Lembaga Tatatertib lain yang dilantik di bawah\nperenggan (2) (c) hendaklah, jika perlu, demi kepentingan keadilan, menarik diri\ndaripada menimbang teliti apa -apa aduan sekiranya terdapat percanggahan\nkepentingan.\n\n(7) Lembaga Tatatertib boleh menentukan tatacaranya sendiri.\n\nKuorum Lembaga Tatatertib\n4. Kuorum Lembaga Tatatertib ialah lima orang.\n\nUrus Setia Aduan\n5. (1) Pentadbiran harian aduan terhadap Peguam Syarie yang berkenaan\nhendaklah diuruskan oleh Urus Setia Aduan.\n\n (2) Urus Setia Aduan hendaklah terdiri daripada seorang Pengarah\ndan beberapa bilangan kakitangan yang dilantik oleh Majlis Peguam Syarie\ndalam kalangan orang yang difikirkan layak oleh Majlis Peguam Syarie.\n\n (3) Pengarah hendaklah menjadi Setiausaha Lembaga Tatatertib.\n\n (4) Majlis Peguam Syarie boleh, pada bila-bila masa, membatalkan pelantikan\nPengarah atau kakitangan yang dilantik di bawah subkaedah (2).\n\nBAHAGIAN III\nADUAN\n\nKandungan aduan\n6. (1) Semua aduan hendaklah dikemukakan kepada Pengarah beserta dengan\nyuran pemprosesan yang disebut dalam subkaedah 7(1).\n\n (2) Suatu aduan hendaklah dibuat dalam borang sebagaimana yang ditetapkan\ndalam Jadual Pertama.\n\n(3) Jika Majlis Peguam Syarie ialah  pengadu, aduan itu hendaklah\nditandatangani oleh Pengerusi Majlis Peguam Syarie.\n\n(4) Aduan yang dibuat oleh seseorang pengadu  itu hendaklah mengandungi\nbutir-butir Peguam Syarie yang berkenaan dan fakta aduan yang mencukupi.\n\nYuran pemprosesan\n7. (1) Pengadu hendaklah membayar kepada Pengarah suatu yuran\npemprosesan yang berjumlah dua ratus ringgit atau apa-apa jumlah yang ditentukan oleh\nLembaga Tatatertib.\n\n (2) Subkaedah (1) tidak terpakai jika pengadu ialah Majlis Peguam Syarie,\nMajlis Peguam Syari e Negeri atau mana -mana orang atau badan yang disebut dalam\nsubseksyen 78(2) Akta.\n\n(3) Semua amaun yang dibayar di bawah kaedah ini hendaklah dibayar\nke dalam Kumpulan Wang Tatatertib dan tidak boleh dikembalikan.\n\nHad masa\n8. Tiada aduan berhubung dengan kelakuan mana -mana Peguam Syarie\nyang berkenaan atau firma guaman syarie ditubuhkan di bawah Akta boleh dikemukakan\noleh pengadu selepas tempoh enam tahun dari masa hak untuk membawa aduan terakru\natau apabila pengadu mula men dapat tahu berkenaan salah laku tersebut\natau berlakunya salah laku yang terakhir y ang memberi hak kepadanya untuk\nmengemukakan aduan.\n\nKewajipan Pengarah apabila menerima aduan\n9. (1) Apabila menerima aduan, Pengarah hendaklah—\n\n(a) mengecap tarikh penerimaan aduan itu; dan\n\n(b) mendaftarkan aduan dalam Daftar Aduan.\n\n(2) Jika pengadu tidak mematuhi kehendak kaedah 6, Pengarah hendaklah\ndengan secepat yang mungkin menghantar suatu permintaan bertulis kepada pengadu\nuntuk mengemukakan butir-butir yang dikehendaki.\n(3) Walau apa pun subkaedah (2), jika ketidakpatuhan itu berhubung dengan\nketiadaan nama atau alamat pengadu atau kedua -duanya, Pengarah hendaklah menolak\naduan itu dan merekodkan fakta sedemikian dalam Daftar Aduan Ditolak.\n\n(4) Pengadu hendaklah mengemuk akan butir -butir yang dikehendaki\ndalam masa dua puluh satu hari dari tarikh penerimaan permintaan bertulis di bawah\nsubkaedah (2).\n\n(5) Jika pengadu gagal mematuhi kehendak subkaedah (4),\nPengarah hendaklah menolak aduan itu dan merekodkannya dalam Daft ar Aduan\nDitolak.\n\n(6) Jika Pengarah menolak apa -apa aduan di bawah kaedah ini,\nPengarah hendaklah memaklumkan secara bertulis kepada pengadu mengenai\npenolakan aduan itu.\n\n(7) Pengarah hendaklah menghantar aduan yang didaftarkan dalam\nDaftar Aduan dan dalam Daftar Aduan Ditolak kepada Lembaga Tatatertib.\n\nPenarikan balik aduan\n10. (1) Pengadu boleh, pada bila-bila masa sebelum keputusan muktamad dibuat\noleh Lembaga Tatatertib, menarik balik aduan melalui notis secara bertulis kepada\nLembaga Tatatertib dan satu salinan notis itu hendaklah dihantar kepada Pengarah.\n\n(2) Apabila menerima notis penarikan balik di bawah subkaedah (1),\nPengarah hendaklah—\n\n(a) tanpa menyentuh kaedah 9, merekodkan penarikan balik aduan itu\ndalam Daftar Aduan; dan\n\n(b) memaklumkan Pengerusi Majlis Peguam Syarie secara bertul is\ntentang penarikan balik itu.\n\n(3) Jika pengadu telah menarik balik aduannya di bawah subkaedah (1),\npenarikan balik itu hendaklah menjadi penghalang kepada apa -apa aduan selanjutnya\noleh pengadu yang sama atas fakta yang sama.\n\nMajlis Peguam Syarie boleh meneruskan aduan yang ditarik balik\n11. (1) Walau apa pun kaedah 10 dan tanpa menjejaskan haknya untuk membuat\naduan sendiri, Majlis Peguam Syarie boleh, pada bila -bila masa sebelum keputusan\nmuktamad dibuat o leh Lembaga Tatatertib, jika Majlis Peguam Syarie  berpendapat\nbahawa aduan yang ditarik balik di bawah kaedah 10 mempunyai merit, meneruskan\naduan itu seolah-olah aduan itu telah dibuat oleh Majlis Peguam Syarie.\n\n(2) Jika Majlis Peguam Syarie memutuskan untuk meneruskan aduan di bawah\nsubkaedah (1)—\n\n(a) Majlis Peguam Syarie hendaklah memaklumkan kepada\nLembaga Tatatertib melalui notis secara bertulis tentang\nkeputusannya untuk meneruskan aduan itu dan kehendak\nkaedah 6 hendaklah disifatkan telah dipenuhi; dan\n\n(b) Pengarah hendaklah merekodkan keputusan Majlis Peguam Syarie\nitu dalam Daftar Aduan dan memaklumkan secara bertulis\ndalam tempoh yang munasabah  kepada pengadu mengenai\npenerusan aduan itu oleh Majlis Peguam Syarie.\n\nDaftar Aduan\n12. Pengarah hendaklah menyimpan dan menyenggara suatu Daftar Aduan\nyang hendaklah mengandungi butir-butir yang berikut:\n\n(a) tarikh penerimaan aduan;\n\n(b) nama penuh dan nombor kad pengenalan atau pasport pengadu;\n\n(c) alamat pengadu;\n(d) nama dan alamat orang yang dibenarkan oleh Lembaga Tatatertib\nuntuk mewakili pengadu, jika ada;\n\n(e) nama penuh Peguam Syarie yang berkenaan;\n\n(f) penarikan balik aduan, jika berkaitan;\n\n(g) penerusan aduan yang ditarik balik oleh Majlis Peguam Syarie,\njika berkaitan;\n\n(h) tarikh dan keputusan Lembaga Tatatertib;\n\n(i) tarikh keputusan Lembaga Tatatertib diserahkan kepada pengadu\natau orang yang dibenarkan oleh Lembaga Tatatertib untuk mewakili\npengadu; dan\n\n(j) tarikh keputusan Lembaga Tatatertib diserahkan kepada Peguam Syarie\nyang berkenaan.\n\nDaftar Aduan Ditolak\n13. Pengarah hendaklah menyimpan dan menyenggara suatu Daftar Aduan Ditolak\nyang hendaklah mengandungi butir-butir yang berikut:\n\n(a) tarikh penerimaan aduan;\n\n(b) tarikh permintaan bertulis di bawah subkaedah 9(2), jika ada;\n\n(c) tarikh penjelasan bertulis yang diberikan oleh Peguam Syarie\nyang berkenaan, jika ada;\n\n(d) sebab penolakan aduan; dan\n(e) tarikh penolakan aduan dimaklumkan kepada pengadu.\n\nPenentuan merit aduan\n14. (1) Jika sesuatu aduan dirujuk kepada Lembaga Tatatertib,\nLembaga Tatatertib hendaklah, jika ia berpuas hati bahawa—\n\n(a) aduan itu tidak mempunyai merit, menolak aduan itu dan\nmemberitahu pengadu dan Peguam Syarie yang berkenaan tentang\nkeputusannya; atau\n\n(b) aduan itu mempunyai merit—\n\n(i) menyerahkan kepada Peguam Syarie yang berkenaan\nsesalinan aduan itu berserta semua dokumen sokongan,\njika ada, yang diberikan kepadanya; dan\n\n(ii) meminta Peguam Syarie yang berkenaan untuk memberikan\npenjelasan bertulisnya dalam empat salinan bersekali\ndengan dokumen sokongan, jika ada, dalam tempoh\nempat belas hari dari tarikh permintaan itu atau dalam masa\nyang lebih lama sebagaimana yang dibenarkan oleh\nLembaga Tatatertib.\n\n(2) Jika Peguam Syarie telah memberikan penjelasan bertulisnya yang diminta\ndi bawah subperenggan (1)(b)(ii) atau, jika Peguam Syarie tidak memberikan penjelasan\nbertulisnya, selepas tamat tempoh yang ditetapkan atau dalam tempoh yang lebih lama\nsebagaimana yang dibenarkan oleh Lembaga Tataterti b di bawah\nsubperenggan (1) (b)(ii), Lembaga Tatatertib hendaklah meneruskan\nuntuk mempertimbangkan aduan itu.\n\n(3) Lembaga Tatatertib boleh, menurut kuasa yang diperuntukkan dalam\nseksyen 81 Akta, menghendaki pengemukaan apa -apa dokumen atau penjelasan l anjut\ndaripada pengadu, Peguam Syarie yang berkenaan atau mana -mana orang lain\nsebagaimana yang dikehendaki oleh Lembaga Tatatertib sebelum membuat apa -apa\nkeputusan tentang sesuatu aduan.\n\nKuasa Lembaga Tatatertib untuk menguruskan aduan secara terus\n15. (1) Jika, selepas mempertimbangkan sesuatu aduan di bawah\nsubkaedah 14(2), Lembaga Tatatertib berpendapat bahawa—\n\n(a) Peguam Syarie yang berkenaan telah mengakui salah laku itu\natau fakta material yang membuktikan salah laku itu;\n\n(b) tiada sebab yang mencukupi wuj ud untuk penyiasatan formal\ntetapi Peguam Syarie yang berkenaan wajar tertakluk kepada\npenalti yang disebut dalam perenggan 82(1)(a) atau (b) Akta; atau\n\n(c) fakta material yang membuktikan salah laku itu adalah jelas\ndan tidak memerlukan siasatan lanjut,\n\nLembaga Tatatertib boleh menguruskan aduan itu dengan segera dan mengenakan\npenalti atau hukuman yang sesuai yang diperuntukkan dalam subseksyen 82(1) Akta.\n\n(2) Walau apa pun subkaedah (1), Lembaga Tatatertib juga boleh membuat\nperintah restitusi sebagaimana yang diperuntukkan dalam subseksyen 82(2) Akta.\n\n(3) Lembaga Tatatertib hendaklah, sebelum mengenakan apa -apa penalti\natau hukuman di bawah subkaedah (1) atau membuat apa -apa perintah restitusi\ndi bawah subkaedah (2), memberitahu Peguam Syarie yang b erkenaan tentang niatnya\nuntuk berbuat demikian dan memberi peluang yang munasabah kepada Peguam Syarie\nyang berkenaan untuk didengar.\n\nPenyiasatan aduan\n16. Jika, selepas mempertimbangkan sesuatu aduan di bawah subkaedah 14(2)\ndan Lembaga Tatatertib berpuas hati bahawa subkaedah 15(1) tidak terpakai,\n\nLembaga Tatatertib hendaklah menjalankan prosiding tatatertib berhubung dengan\naduan itu menurut Bahagian IV.\n\nBAHAGIAN IV\nPENJALANAN PROSIDING\n\nRekod aduan\n17. (1) Pengarah hendaklah mengumpul dokumen yang berikut yang membentuk\nrekod aduan:\n\n(a) suatu salinan aduan atau apa -apa permohonan yang dibuat oleh\nMajlis Peguam Syarie di bawah seksyen 83 Akta,\nmengikut mana -mana yang berkenaan, berserta dengan apa -apa\ndokumen sokongan dan akuan berkanun, jika ada;\n\n(b) suatu salinan penjelasan bertulis daripada Peguam Syarie\nyang berkenaan dan dokumen sokongan, jika ada;\n\n(c) jika aduan itu ditarik balik di bawah kaedah 10\nsebelum Lembaga Tatatertib memulakan siasatannya\ndan diteruskan di bawah kaedah 11, suatu salinan notis\npenarikan balik oleh pengadu dan notis untuk meneruskan aduan\nyang dikeluarkan oleh Majlis Peguam Syarie; dan\n\n(d) apa-apa dokumen lain yang berhubungan dengan dokumen\nyang disebut dalam perenggan (a), (b) atau (c), jika ada.\n\n(2) Suatu salinan rekod aduan hendaklah disampaikan kepada pengadu\ndan Peguam Syarie yang berkenaan sebelum Lembaga Tatatertib memulakan\nsiasatannya.\n\nTarikh, masa dan tempat pendengaran\n18. (1) Lembaga Tatatertib hendaklah menjalankan prosidingnya pada tarikh ,\nmasa dan tempat yang ditetapkan oleh Pengerusi Lembaga Tatatertib.\n\n (2) Apa-apa prosiding yang diadakan menurut subkaedah (1) boleh diadakan\nmelalui suatu rangkaian video secara langsung, rangkaian televisyen secara langsung\natau apa-apa cara komunikasi elektronik yang lain.\n\n (3) Bagi tujuan kaedah ini, rujukan kepada \"tempat\" adalah termasuk\nruang siber, tempat maya atau ruang maya.\n\nNotis pendengaran\n19. (1) Lembaga Tatatertib hendaklah menyerahkan notis pendengaran kepada\npengadu dan Peguam Syarie yang berkenaan sekurang -kurangnya tujuh hari\nsebelum pendengaran itu dijalankan.\n\n(2) Suatu notis di bawah subkaedah (1) hendaklah menyatakan tarikh, masa\ndan tempat pendengaran dan hendaklah dalam bentuk atau cara yang ditentukan oleh\nLembaga Tatatertib.\n\nHak diwakili di sisi undang-undang\n20. Peguam Syarie yang berkenaan berhak untuk diwakili oleh Peguam Syarie\npilihannya dalam mana-mana pendengaran di bawah Kaedah-Kaedah ini.\n\nKuorum prosiding Lembaga Tatatertib\n21. Kuorum prosiding Lembaga Tatatertib ialah tiga orang.\n\nProsiding Lembaga Tatatertib\n22. (1) Pada permulaan pendengaran, Pengerusi hendaklah merekodkan nama\npihak yang hadir.\n\n(2) Melainkan jika dibenarkan oleh Pengerusi, hanya pengadu, Peguam Syarie\nyang berkenaan dan wakil di sisi undang-undang, jika ada, boleh hadir semasa prosiding.\n(3) Jika pengadu ialah sebuah pertubuhan perbadanan atau organisasi,\npengadu boleh hadir melalui wakil yang diberi kuasa.\n\n(4) Jika pengadu atau wakil di sisi undang -undangnya hadir,\nPengerusi hendaklah mengarahkan pengadu atau wakil di sisi undang -undangnya\nuntuk membentangkan kesnya.\n\n(5) Semua keterangan hendaklah diberikan secara berasingan dan secara\nbersumpah.\n\n(6) Pada mana-mana pendengaran di hadapan Lembaga Tatatertib—\n\n(a) Peguam Syarie yang berkenaan boleh memeriksa balas pengadu\ndan saksinya yang telah memberikan keterangan mereka\nberhubung dengan aduan itu; dan\n\n(b) pengadu boleh memeriksa balas Peguam Syarie yang berkenaan\ndan saksinya yang telah memberikan keterangan mereka\nberhubung dengan aduan itu.\n\n(7) Pengerusi atau anggota Lembaga Tatatertib boleh bertanya apa -apa\nsoalan, atau meminta mana -mana orang untuk hadir seba gai saksi atau untuk\nmengemukakan apa -apa perkara atau dokumen sebagaimana yang difikirkan relevan\ndengan siasatan itu oleh Lembaga Tatatertib.\n\n(8) Jika aduan adalah berdasarkan salah laku yang berhubungan dengan\nwang dalam jagaan atau kawalan Peguam Sya rie yang berkenaan, beban hendaklah\nterletak pada Peguam Syarie yang berkenaan untuk memberikan penjelasan\nyang memuaskan berhubung dengan aduan itu.\n\n(9) Pengerusi Lembaga Tatatertib hendaklah memanggil Peguam Syarie\nyang berkenaan untuk menjawab aduan itu pada penutupan kes pengadu.\n\n(10) Pengerusi Lembaga Tatatertib boleh memanggil pihak -pihak untuk\nmembuat hujahan muktamad mereka pada penutupan prosiding, dengan Peguam Syarie\nyang berkenaan membuat hujahan pertama.\n\n(11) Lembaga Tatatertib hendaklah m erekodkan semua keterangan\nyang diberikan kepadanya.\n\nPenangguhan pendengaran\n23. (1) Lembaga Tatatertib boleh menangguhkan pendengaran dari semasa ke\nsemasa sebagaimana yang difikirkan sesuai oleh Lembaga Tatatertib.\n\n(2) Lembaga Tatatertib hendaklah menyampaikan notis tentang penangguhan\npendengaran kepada pihak -pihak kepada prosiding dalam tempoh tujuh hari\ndari tarikh penangguhan itu diberikan.\n\n(3) Subkaedah (2) tidak terpakai jika penangguhan itu diberikan\ndengan kehadiran pihak-pihak kepada prosiding itu.\n\nKetidakhadiran pihak di hadapan Lembaga Tatatertib\n24. Jika pengadu atau Peguam Syarie yang berkenaan atau kedua -duanya tidak hadir\ndi hadapan Lembaga Tatatertib pada tarikh yang ditetapkan untuk pendengaran aduan\nitu, Lembaga Tatatertib boleh, setelah berpuas hati bahawa kaedah 19 telah dipatuhi—\n\n(a) menangguhkan pendengaran mengikut kaedah 23; atau\n\n(b) meneruskan untuk mendengar aduan itu dan membuat apa-apa keputusan\nyang difikirkannya patut tanpa kehadiran orang itu dan tanpa memberikan\napa-apa notis lanjut kepada orang itu.\n\nRekod prosiding di hadapan Lembaga Tatatertib\n25. Lembaga Tatatertib hendaklah menyediakan rekod prosiding yang mengandungi\nsemua keterangan yang diberikan termasuk keterangan dokumentar.\n\nKeputusan majoriti disifatkan sebagai keputusan Lembaga Tatatertib\n26. Jika Lembaga Tatatertib tidak sebulat suara dalam apa-apa persoalan atau perkara\nyang perlu diputuskan, keputusan majoriti hendaklah disifatkan sebagai keputusan\nLembaga Tatatertib.\n\nLaporan Lembaga Tatatertib\n27. (1) Laporan Lembaga Tatatertib hendaklah menyatakan dapatan dan alasan\nbagi dapatan itu.\n\n(2) Jika—\n\n(a) Lembaga Tatatertib sebulat suara dalam dapatannya, laporan itu\nhendaklah ditandatangani oleh Pengerusi Lembaga Tatatertib; atau\n\n(b) Lembaga Tatatertib tidak sebulat suara dalam dapatannya—\n\n(i) dapatan majoriti hendaklah disifatkan sebagai dapatan\nLembaga Tatatertib;\n\n(ii) alasan bagi dapatan anggota majoriti dan minoriti hendaklah\ndirekodkan; dan\n\n(iii) laporan itu hendaklah ditandatangani oleh semua anggota\nLembaga Tatatertib.\n\n(3) Laporan Lembaga Tatatertib berserta rekod prosiding hendaklah dihantar\nkepada Pengarah.\n\n(4) Laporan Lembaga Tatatertib di bawah kaedah ini adalah muktamad\nbagi prosiding Lembaga Tatatertib.\n\nBAHAGIAN V\nPENGGANTUNGAN AMALAN PEGUAM SYARIE DI BAWAH SEKSYEN 83 AKTA\n\nPenggantungan amalan Peguam Syarie di bawah seksyen 83 Akta\n28. (1) Jika Majlis Peguam Syarie membuat permohonan kepada\nLembaga Tatatertib di bawah seksyen 83 Akta bagi suatu perintah untuk menggantung\nseseorang Peguam Syarie daripada menjalankan amalan, Lembaga Tatatertib hendaklah\nmeminta Peguam Syarie itu untuk mengemukakan suatu penjelasan bertulis\nmengenainya sebelum Lembaga Tatatertib membuat keputusan tentang permohonan itu.\n\n(2) Lembaga Tatatertib hendaklah memaklumkan secara bertulis\nkeputusan tentang permohonan penggantungan itu k epada Majlis Peguam Syarie\ndan Peguam Syarie yang terhadapnya permohonan penggantungan itu dibuat.\n\nBAHAGIAN VI\nPROSIDING RAYUAN TATATERTIB\n\nNotis rayuan\n29. (1) Sesuatu rayuan terhadap keputusan Lembaga Tatatertib hendaklah dibuat\nkepada Mahkamah Tinggi Syariah.\n\n(2) Rayuan hendakla h dibuat dengan memfailkan suatu  notis rayuan\nsebagaimana yang ditetapkan dalam Jadual Kedua dalam masa tiga puluh hari\ndari tarikh keputusan Lembaga Tatatertib diumumkan.\n\n(3) Pihak yang merayu dikenali sebagai \"perayu\" dan pihak yang terhadapnya\nrayuan itu dibuat dikenali sebagai \"responden\".\n\n(4) Perayu boleh merayu terhadap kesemua atau mana -mana bahagian\nsesuatu ke putusan dan notis rayuan itu hendaklah menyatakan sama ada rayuan itu\nadalah terhadap kesemua atau sebahagian sahaja, dan jika sedemikian, hendaklah\nmenyatakan bahagian keputusan yang terhadapnya rayuan dibuat.\n\n(5) Sesalinan notis rayuan hendaklah disampaikan oleh perayu dalam masa\nyang dihadkan untuk memfailkan rayuan kepada semua pihak yang terlibat dalam rayuan\nitu atau Peguam Syarie masing-masing, Lembaga Tatatertib dan Majlis Peguam Syarie.\n\nNotis rayuan balas\n30. Seseorang responden dalam mana -mana rayuan boleh, dalam masa tujuh hari\ndari tarikh penyampaian notis rayuan kepadanya—\n\n(a) memfailkan di Mahkamah Tinggi Syariah yang mendengar rayuan itu; dan\n\n(b) menyampaikan kepada perayu,\n\nsuatu notis sebagaimana yang ditetapkan dalam Jadual Ketiga tentang niatnya untuk\nmengemukakan pada pendengaran rayuan bahawa keputusan yan g terhadapnya\nrayuan itu dibuat patut diubah.\n\nNota keterangan dan penghakiman\n31. (1) Pengarah hendaklah, apabila menerima notis rayuan dan tertakluk kepada\npematuhan subkaedah (3), membekalkan kepada perayu suatu salinan terperaku\nnota keterangan dan alasan penghakiman.\n\n (2) Bagi maksud subkaedah (1), Pengarah hendaklah memberitahu perayu\nmelalui borang sebagaimana yang ditetapkan dalam Jadual Keempat sebaik sahaja\nsalinan terperaku nota keterangan dan alasan penghakiman itu siap.\n\n (3) Dalam masa empat belas hari dari tarikh penerimaan pemberitahuan\ndi bawah subkaedah (2), perayu hendaklah—\n\n(a) mendepositkan kepada Lembaga Tatatertib sejumlah wang\nyang pada pendapat Lembaga Tatatertib dapat menampung—\n\n(i) kos menyediakan nota keterangan dan alasan penghakiman;\ndan\n(ii) kos menyediakan bilangan salinan rekod rayuan yang\nmencukupi untuk kegunaan Mahkamah Tinggi Syariah\nyang mendengar rayuan dan pihak -pihak dalam rayuan itu,\njika berkenaan; dan\n\n(b) menyerah simpan di Lembaga Tatatertib sejumlah wang\nsebagaimana yang diarahkan ol eh Lembaga Tatatertib\nsebagai jaminan untuk kos rayuan.\n\n (4) Deposit yang disebut dalam perenggan (3)(a) tidak akan dikembalikan.\n\n(5) Dalam masa tiga puluh hari dari tarikh penerimaan deposit yang dibuat\ndi bawah perenggan (3) (a), Pengarah hendaklah membekalkan kepada perayu\nsalinan terperaku nota keterangan dan alasan penghakiman.\n\n(6) Subkaedah (3) tidak terpakai jika perayu ialah Majlis Peguam Syarie ,\nmana-mana mahkamah syariah, Hakim Mahkamah Syariah atau Pendakwa Raya Syariah.\n\n(7) Tiada dokumen boleh dibekalkan jika perayu tidak mematuhi\nsubkaedah (3).\n\nAlasan rayuan\n32. (1) Dalam masa empat belas hari dari tarikh penerimaan pemberitahuan\ndi bawah subkaedah 3 1(2), perayu hendaklah mengemukakan kepada Pengarah\nalasan rayuan dalam lima salinan yang dialamatkan kepada Mahkamah Tinggi Syariah\nyang mendengar rayuan itu.\n\n(2) Tiap-tiap alasan rayuan hendaklah menyatakan dengan ringkas\nisi keputusan yang dirayukan itu dan hendaklah mengandungi butir -butir yang jelas\ntentang perkara undang-undang atau fakta yang berkenaan dengannya rayuan itu dibuat.\n\n(3) Kecuali dengan kebenaran Mahkamah Tinggi Syariah yang mendengar\nrayuan itu, perayu tidak boleh dibenarkan semasa pendengaran rayuan itu\nbergantung kepada apa -apa alasan selain al asan-alasan yang dinyatakan dalam\nalasan rayuan itu.\n\nRekod rayuan jika perayu diwakili\n33. (1) Perayu yang diwakili oleh Peguam Syarie hendaklah, setelah mematuhi\nkehendak-kehendak kaedah 3 1 dan 3 2, menyediakan bilangan salinan rekod rayuan\nyang dikehendaki yang hendaklah mengandungi salinan—\n\n(a) aduan dan semua dokumen yang menyokong aduan itu;\n\n(b) penjelasan bertulis yang dibuat oleh Peguam Syarie yang berkenaan\nberhubung dengan aduan itu;\n\n(c) nota keterangan dan alasan penghakiman prosiding di hadapan\nLembaga Tatatertib;\n\n(d) notis rayuan;\n\n(e) alasan rayuan;\n\n(f) semua ekshibit dokumentar; dan\n\n(g) senarai ekshibit bukan dokumentar, jika ada, yang diserah simpan\ndi Lembaga Tatatertib.\n\n(2) Perayu hendaklah , dalam masa enam minggu selepas penerimaan\npemberitahuan di bawah subkaedah 31(2)—\n\n(a) memfailkan dua salinan rekod rayuan di Mahkamah Tinggi Syariah\nyang mendengar rayuan itu; dan\n\n(b) menyampaikan suatu salinan rekod rayuan kepada setiap pihak\nyang kepadanya notis rayuan itu telah disampaikan.\n\nRekod rayuan jika perayu tidak diwakili\n34. (1) Jika perayu yang telah mematuhi kehendak -kehendak kaedah 3 1 dan 32\ntidak diwakili oleh Peguam Syarie, Pengarah he ndaklah menyediakan bilangan sa linan\nrekod rayuan yang dikehendaki yang hendaklah mengandungi sa linan\ndokumen-dokumen yang disebut dalam subkaedah 32(1).\n\n(2) Sebaik sahaja rekod rayuan itu siap, Pengarah hendaklah menyampaikan\nkepada perayu suatu notis sebagaimana yang ditetapkan dalam Jadual Kelima.\n\n(3) Atas permintaan perayu dan , jika deposit yang disebut dalam\nperenggan 3 1(3)(a) tidak mencukupi, apabila dibayar oleh perayu sejumlah wang\ntambahan yang mencukupi untuk membayar kos bagi men yediakan rekod rayuan,\nPengarah hendaklah—\n\n(a) membekalkan kepada perayu suatu salinan rekod rayuan\ndan salinan tambahan yang mencukupi untuk penyampaian kepada\nresponden atau responden-responden; dan\n\n(b) menghantar kepada Mahkamah Tinggi Syariah yang mendengar\nrayuan itu baki salinan rekod itu.\n\n(4) Perayu hendaklah, dalam masa enam minggu dari penerimaan\npemberitahuan di bawah subkaedah (2), menyampaikan suatu salinan rekod rayuan itu\nkepada setiap pihak yang kepadanya notis rayuan telah disampaikan.\n\nPenarikan balik rayuan\n35. (1) Perayu boleh, dengan kebenaran Mahkamah Tinggi Syariah, menarik balik\nrayuannya pada bila -bila masa sebelum penghakiman dengan memfailkan\ndi Mahkamah Tinggi Syariah notis penarikan balik rayuan sebagaimana yang ditetapkan\ndalam Jadual Keenam.\n(2) Perayu hendaklah men yampaikan suatu salinan notis penar ikan balik\nrayuan itu kepada setiap pihak yang kepadanya notis rayuan telah disampaikan.\n\n(3) Jika perayu menarik balik rayuannya di bawah subkaedah (1),\nresponden adalah berhak kepada kos prosiding.\n\nNotis pendengaran rayuan\n36. Notis pendengaran rayuan atau apa -apa penangguhan mengenainya hendaklah\ndihantar oleh Mahkamah Tinggi Syariah kepada perayu, responden, Pengarah\ndan Majlis Peguam Syarie.\n\nDaftar Rayuan\n37. Pengarah hendaklah menyimpan dan menyenggara suatu Daftar Rayuan\nyang hendaklah mengandungi butir-butir yang berikut:\n\n(a) tarikh penerimaan notis rayuan;\n\n(b) tarikh keputusan Mahkamah Tinggi Syariah; dan\n\n(c) jika rayuan ditarik balik, tarikh penarikan balik.\n\nPenyampaian dokumen dan notis\n38. (1) Tertakluk kepada kaedah 19, jika apa-apa dokumen atau notis dikehendaki\ndisampaikan di bawah Kaedah -Kaedah ini, p enyampaian dokumen atau notis itu\nhendaklah dilaksanakan melalui penyampaian ke diri ke alamat yang terakhir diketahui\norang yang kepadanya dokumen atau notis itu dikehendaki untuk disampaikan.\n\n(2) Jika atas apa -apa sebab yang mencukupi dokumen atau notis itu tidak\nboleh disampaikan melalui penyampaian ke diri, dokumen atau notis itu hendaklah\ndisampaikan melalu i pos berdaftar ke alamat yang terakhir diketahui orang yang\nkepadanya dokumen atau notis itu dikehendaki untuk disampaikan.\n\n(3) Penyampaian yang dilaksanakan mengikut subkaedah (2) adalah berkesan\nsebagaimana penyampaian ke diri.\n\n(4) Penyampaian dokumen atau notis di bawah kaedah ini hendaklah\ndibuktikan melalui suatu affidavit serahan  yang diikrarkan oleh orang yang\nmelaksanakan penyampaian itu.\n\n(5) Orang yang terhadapnya dokumen atau notis itu disampaikan melalui\npenyampaian ke diri di bawah subkaedah (1) hendaklah menandatangani\nsuatu akuan penerimaan penyampaian.\n\n(6) Walau apa pun subkaedah (5), keengganan atau ketidakupayaan untuk\nmenandatangani akuan penerimaan penyampaian yang d isebut dalam subkaedah (5)\ntidak menjejaskan kesahan penyampaian itu.\n\nPenggantungan pelaksanaan sementara menunggu rayuan\n39. Pemfailan sesuatu notis rayuan tidaklah berkuat kuasa sebagai penggantungan\npelaksanaan, tetapi Lembaga Tatatertib boleh, atas permohonan dan apabila sebab yang\nmencukupi ditunjukkan, menggantung pelaksanaan atas apa -apa terma yang\ndifikirkannya patut.\n\nPenghakiman hendaklah menyatakan alasan\n40. Mahkamah Tinggi Syariah yang mendengar rayuan h endaklah menyatakan\nalasan penghakimannya secara bertulis.\n\nRayuan terhadap keputusan Mahkamah Tinggi Syariah\n41. Suatu rayuan terhadap keputusan Mahkamah Tinggi Syariah hendaklah dibuat\nkepada Mahkamah Rayuan Syariah mengikut Bahagian XVII Akta Tatacara Mal\nMahkamah Syariah (Wilayah-Wilayah Persekutuan) 1998 [Akta 585].\n\nBAHAGIAN VII\nPELBAGAI\n\nKesan ketidakpatuhan dan ketidakteraturan tidak membatalkan prosiding\n42. Lembaga Tatatertib boleh bertindak walaupun terdapat apa-apa kekosongan\ndalam keanggotaannya dan prosidingnya tidak boleh terbatal oleh—\n\n(a) apa-apa kecacatan yang ditemui selepas itu dalam pela ntikan atau\nkelayakan seseorang anggota;\n\n(b) apa-apa ketidakteraturan kecil dalam mengadakan atau menjalankan\nmesyuarat; atau\n\n(c) kehadiran atau penyertaan seseorang yang tidak berhak untuk hadir atau\nmengambil bahagian.\n\nPenandatanganan notis pendengaran dan dokumen lain\n43. Suatu notis pendengaran di hadapan Lembaga Tatatertib dan apa -apa dokumen\nbertulis yang lain yang berkaitan dengannya hend aklah ditandatangani oleh Pengerusi\nLembaga Tatatertib atau mana -mana anggota  Lembaga Tatatertib yang lain\nyang diberi kuasa oleh Pengerusi Lembaga Tatatertib.\n\nKematian\n44. (1) Jika Peguam Syarie yang berkenaan meninggal dunia sebelum prosiding\nterhadapnya tamat, aduan itu hendaklah terhenti tanpa menjejaskan apa -apa remedi\nyang pengadu mungkin ada terhadap harta pusaka Peguam Syarie yang mati itu.\n\n(2) Jika pengadu meninggal dunia sebelum tamatnya prosiding, aduan itu\nboleh diteruskan oleh waris kadim atau wakil diri di sisi undang-undang pengadu.\n\n(3) Jika waris kadim atau wakil diri di sisi undang -undang tidak memberi\nmaklum balas dalam tempoh tiga bulan selepas dimaklumkan oleh Pengarah tentang hak\nmereka untuk meneruskan aduan, Pengarah hendaklah merujuk  aduan itu kepada\nMajlis Peguam Syarie dan Majlis Peguam Syarie boleh, jika difikirkannya patut,\nmeneruskan aduan itu.\n\n(4) Jika Majlis Peguam Syarie memutuskan untuk meneruskan aduan di bawah\nsubkaedah (3)—\n\n(a) Majlis Peguam Syarie hendaklah memaklumkan kepada\nLembaga Tatatertib melalui notis secara bertulis tentang\nkeputusannya untuk meneruska n aduan itu dan kehendak\nkaedah 6 hendaklah disifatkan telah dipenuhi; dan\n\n(b) Pengarah hendaklah merekodkan keputusan Majlis Peguam Syarie\nitu dalam Daftar Aduan dan memaklumkan waris kadim atau\nwakil diri di sisi undang -undang pengadu mengenai\npenerusan aduan itu oleh Majlis Peguam Syarie.\n\nJADUAL PERTAMA\n[Subkaedah 6(2)]\n\nADUAN\n\nKepada:\nPengarah Urus Setia Aduan\nLembaga Tatatertib Peguam Syarie\n(alamat)\n\n1.  Butir-butir pengadu\n\n1.1.  Nama penuh (seperti yang dinyatakan di dalam Kad Pengenalan/Pasport):\n_____________________________________________________________________________________________\n_____________________________________________________________________________________________\n\n1.2  Alamat rumah:\n_______________________________________________________________________________________________\n_______________________________________________________________________________________________\n_______________________________________________________________________________________________\nAlamat e-mel: ______________________________________________________________________________\nNo. Telefon: _________________________ No. Telefon Bimbit: _________________________________\nMajikan: ____________________________________________________________________________________\n\n1.3  Alamat pejabat:\n_____________________________________________________________________________________________\n_____________________________________________________________________________________________\n_____________________________________________________________________________________________\nNo. Telefon: _______________________________________________________________________________\n\n1.4  Alamat surat-menyurat semasa:\n_____________________________________________________________________________________________\n_____________________________________________________________________________________________\n_____________________________________________________________________________________________\n\n1.5  Nama orang yang boleh dihubungi:\n _____________________________________________________________________________________________\nAlamat:\n_____________________________________________________________________________________________\n_____________________________________________________________________________________________\n_____________________________________________________________________________________________\nNo. Telefon: _______________________________________________________________________________\n\n1.6  Maklumat Peguam Syarie yang mewakili pengadu (jika ada):\n_____________________________________________________________________________________________\n_____________________________________________________________________________________________\n_____________________________________________________________________________________________\n_____________________________________________________________________________________________\n\n1.7  Butir-butir pembayaran yuran pemprosesan. Sila tandakan di ruangan yang\nbersesuaian.\n\n No. Cek: _________________________________ Bank: _________________________________\n No. Kiriman Wang Pos: _________________________________________________________\n Wang Tunai: _____________________________________________________________________\n\n1.8  Sila nyatakan sama ada anda atau mana-mana orang lain ada mengemukakan aduan\nkepada Lembaga Tatatertib berdasarkan fakta yang sama/berkaitan. Jika ya,\nsila nyatakan no. aduan\n_______________________________________________________________________________________________\n\n2.  Butir-butir Peguam Syarie yang berkenaan dan/atau firma\n\n2.1  Nama penuh Peguam Syarie yang berkenaan dan/atau firma:\n_______________________________________________________________________________________________\n\n2.2  Nama dan alamat firma ketika salah laku yang didakwa berlaku:\n_____________________________________________________________________________________________\n_____________________________________________________________________________________________\n_____________________________________________________________________________________________\n_____________________________________________________________________________________________\n\n2.3  Nama dan alamat terkini firma jika berbeza daripada 2.2:\n_____________________________________________________________________________________________\n_____________________________________________________________________________________________\n_____________________________________________________________________________________________\nPekan/Bandar:___________________________________________________________________________\nNegeri:_____________________________________________________________________________________\nNo. Telefon:________________________________________________________________________________\n\n2.4  Bilakah anda melantik Peguam Syarie dan/atau firma yang di bawahnya\nPeguam Syarie itu menjalankan amalan (jika berkenaan) ?\n_____________________________________________________________________________________________\n\n2.5  Apakah arahan anda kepada Peguam Syarie dan/atau firma yang di bawahnya\nPeguam Syarie itu menjalankan amalan?\n_____________________________________________________________________________________________\n_____________________________________________________________________________________________\n_____________________________________________________________________________________________\nSila gunakan lembaran berasingan sekiranya ruangan yang disediakan tidak\nmencukupi.\n\n2.6  Sila nyatakan butir-butir aduan anda.\n_____________________________________________________________________________________________\n_____________________________________________________________________________________________\n_____________________________________________________________________________________________\nSila gunakan lembaran berasingan sekiranya ruangan yang disediakan tidak\nmencukupi.\n\n2.7  Senarai dokumen yang mesti dilampirkan:\n\n(a)  Akuan Berkanun pengadu yang diikrarkan di hadapan Pesuruhjaya Sumpah\nmengesahkan fakta aduan;\n\n(b)  sesalinan kad pengenalan/pasport; dan\n\n(c)  cek atau kiriman wang pos.\n\n2.8  Dokumen-dokumen sokongan lain:\n(1)  _____________________________________________________________________________________\n(2)  _____________________________________________________________________________________\n(3)  _____________________________________________________________________________________\n\n2.9  Tandatangan pengadu:__________________________________________\nTarikh: ______________________\n\nSila kembalikan borang yang telah dilengkapkan dengan sempurna\ndan semua dokumen yang relevan dalam tiga (3) salinan kepada:\n\nPengarah Urus Setia Aduan\nLembaga Tatatertib Peguam Syarie\n(alamat)\n(No. Telefon)\n(No. Faks)\n(alamat e-mel)\nJADUAL KEDUA\n[Subkaedah 29(2)]\n\nNOTIS RAYUAN\n(Tajuk Am)\n\nAmbil perhatian bahawa ............................................................ pengadu (atau Peguam Syarie\nyang berkenaan) yang dinamakan di atas yang tidak berpuas hati dengan keputusan\nLembaga Tatatertib di ........................................ yang diberikan pada ........................ hari bulan\n.......…………….......................... 20........................ merayu kepad a Mahkamah Tinggi Syariah\nterhadap keseluruhan keputusan tersebut (atau apa -apa bahagian daripada keputusan\ntersebut) yang memutuskan bahawa, ………………………………………………………..\n(nyatakan butir-butir terperincinya)\n\nBertarikh ............... hari bulan .............................. 20.......\n\n........................................................\nPerayu (atau Peguam\nSyarie bagi Perayu)\n\nKepada:\nPendaftar Mahkamah Tinggi Syariah dan kepada:\n\nJADUAL KETIGA\n[Kaedah 30]\n\nNOTIS RAYUAN BALAS\n(Tajuk Am)\n\nAmbil perhatian bahawa, pada pendengaran rayuan di atas, responden yang dinamakan\ndi atas akan menghujahkan bahawa keputusan Lembaga Tatatertib\nyang diberikan pada ................................. hari bulan ................................. 20.......... ......\npatut diubah atas alasan-alasan yang berikut:\n\n(Nyatakan dalam perenggan bernombor—\n(a) jenis relief yang dituntut; dan/atau\n(b) alasan-alasan yang menjadi sandaran.)\n\nBertarikh ................ hari bulan ....................... 20..........\n\nKepada Pendaftar dan perayu.\n…................................................\nResponden (atau Peguam\nSyarie bagi Responden)\nJADUAL KEEMPAT\n[Subkaedah 31(2)]\n\nNOTIS BAHAWA SALINAN TERPERAKU BAGI NOTA KETERANGAN\nDAN PENGHAKIMAN SUDAH SIAP\n(Tajuk Am)\n\nAmbil perhatian bahawa salinan terperaku bagi nota keterangan dan penghakiman\nsudah siap dan bahawa sejumlah wang sebanyak RM ...............................................................\nkena dibayar oleh anda sebagai kos menyediakan salinan-salinan terperaku itu.\n\nKepada:\n.......................................................\n.......................................................\n\nBertarikh .............. hari bulan ........................... 20.........\n\n................…………...............\nPengarah\nJADUAL KELIMA\n[Subkaedah 34(2)]\n\nNOTIS BAHAWA REKOD RAYUAN SUDAH SIAP\n(Tajuk Am)\n\nAmbil perhatian bahawa rekod rayuan prosiding yang disebut di atas sudah siap\ndan bahawa sejumlah wang sebanyak RM ...................................... kena diba yar oleh anda\nsebagai kos menyediakan rekod itu.\n\nKepada:\n\nBertarikh ............. hari bulan ........................ 20 .............\n\n................…………...............\nPengarah\n\nJADUAL KEENAM\n[Subkaedah 35(1)]\n\nNOTIS PENARIKAN BALIK RAYUAN\n(Tajuk Am)\n\nAmbil perhatian bahawa perayu menarik balik keseluruhan (atau nyatakan bahagian)\nrayuan ini terhadap responden.\n\nBertarikh ................ hari bulan ..................... 20............\n\n........................................................\nPerayu (atau Peguam\nSyarie bagi Perayu)\n\nKepada:\n\n(1)  Pengarah.\n(2)  Responden (atau Peguam Syarie bagi responden).\n\nDibuat 1 Ogos 2024\n[JAKIM.(S).600-1/2/11; PN(PU2)764/JLD.2]\n\nDATO' ZAINUL RIJAL BIN ABU BAKAR\nPengerusi Majlis Peguam Syarie\n\nSYARIE LEGAL PROFESSION (FEDERAL TERRITORIES) ACT 2019\n\nSYARIE LEGAL PROFESSION (FEDERAL TERRITORIES)\n(DISCIPLINARY PROCEEDINGS) RULES 2024\n\nARRANGEMENT OF RULES\n\nPART I\nPRELIMINARY\n\nRule\n1. Citation\n2. Interpretation\n\nPART II\nESTABLISHMENT OF DISCIPLINARY BOARD AND COMPLAINTS SECRETARIAT\n\n3. Establishment of Disciplinary Board\n4. Quorum of Disciplinary Board\n5. Complaints Secretariat\n\nPART III\nCOMPLAINTS\n\n6. Contents of complaints\n7. Processing fees\n8. Limitation period\n9. Duty of Director on receipt of complaint\n10. Withdrawal of complaint\n11. Majlis Peguam Syarie may proceed with complaint withdrawn\n12. Complaints Register\n13. Rejected Complaints Register\n14. Determination of merits of complaint\n15. Power of Disciplinary Board to deal with complaints summarily\nRule\n16. Investigation of complaints\n\nPART IV\nCONDUCT OF PROCEEDINGS\n\n17. Record of complaint\n18. Date, time and place of hearing\n19. Notice of hearing\n20. Right to legal representation\n21. Quorum of proceedings of Disciplinary Board\n22. Proceedings of Disciplinary Board\n23. Adjournment of hearing\n24. Absence of parties before Disciplinary Board\n25. Record of proceedings before Disciplinary Board\n26. Decision of majority to be deemed as decision of Disciplinary Board\n27. Report of Disciplinary Board\n\nPART V\nSUSPENSION OF PRACTICE OF PEGUAM SYARIE UNDER SECTION 83 OF ACT\n\n28. Suspension of practice of Peguam Syarie under section 83 of Act\n\nPART VI\nDISCIPLINARY PROCEEDING APPEAL\n\n29. Notice of appeal\n30. Notice of counter appeal\n31. Notes of evidence and judgment\n32. Grounds of appeal\n33. Appeal record where appellant is represented\n34. Appeal record where appellant is not represented\n35. Withdrawal of appeal\nRule\n36. Notice of hearing of appeal\n37. Appeals Register\n38. Service of documents and notices\n39. Stay of execution pending appeal\n40. Judgment to state grounds\n41. Appeals against decision of Syariah High Court\n\nPART VII\nMISCELLANEOUS\n\n42. Effect of non-compliance and irregularities not to vitiate proceedings\n43. Signing of notice of hearing and other documents\n44. Death\n\nFIRST SCHEDULE\nSECOND SCHEDULE\nTHIRD SCHEDULE\nFOURTH SCHEDULE\nFIFTH SCHEDULE\nSIXTH SCHEDULE\n\nSYARIE LEGAL PROFESSION (FEDERAL TERRITORIES) ACT 2019\n\nSYARIE LEGAL PROFESSION (FEDERAL TERRITORIES)\n(DISCIPLINARY PROCEEDINGS) RULES 2024\n\nIN exercise of the powers conferred by section 85 of the\nSyarie Legal Profession (Federal Territories) Act 2019 [Act 814], the Majlis Peguam Syarie\nmakes the following rules:\n\nPART I\nPRELIMINARY\n\nCitation\n1. These rules may be cited as the Syarie Legal Profession\n(Federal Territories) (Disciplinary Proceedings) Rules 2024.\n\nInterpretation\n2. In these Rules—\n\n\"complaint\" means a written complaint made under rule 6 relating to\nthe misconduct of the Peguam Syarie concerned;\n\n\"statutory declaration\" means a declaration made under the Statutory Declaration\nAct 1960 [Act 13];\n\n\"Complaints Register\" means a register kept and maintained by the Director\nunder rule 12;\n\n\"Rejected Complaints Register\" means a register kept and maintained by\nthe Director under rule 13;\n\n\"Disciplinary Board\" means the Disciplinary Board established under rule 3;\n\n\"Peguam Syarie  concerned\" means the Peguam Syarie  including a pupil\nagainst whom a complaint or an order, as the case may be, has been made under the Act;\n\n\"complainant\" means any person, whether natural or legal, who has made\na complaint, whether personally or through its officer or a Peguam Syarie, and includes\nthe Majlis Peguam Syarie  and the person or body mentioned in subsection 78(2)\nof the Act;\n\n\"Director\" means the Director of the Complaint s Secretariat appointed under\nsubrule 5(2);\n\n\"Chairman\" means the Chairman of the Disciplinary Board;\n\n\"misconduct\" has the meaning assigned to it under subsection 77(4) of the Act.\n\nPART II\nESTABLISHMENT OF DISCIPLINARY BOARD AND COMPLAINTS SECRETARIAT\n\nEstablishment of Disciplinary Board\n3. (1) A Disciplinary Board shall be established for the purpose of\ndisciplinary proceeding under the Act.\n\n(2) The Disciplinary Board shall consist of the following members:\n\n(a) a Chairman of the Disciplinary Board appointed by\nthe Majlis Peguam Syarie  from among  persons who have served\nas a Judge of a Syariah High Court or Judge of the Syariah Appeal\nCourt or any person qualified to be a Judge of a Syariah High Court\nor Judge of the Syariah Appeal Court;\n\n(b) President of the Badan Peguam Syarie  or any me mber of\nthe Majlis Peguam Syarie as his representative; and\n(c) nine practicing members of the Badan Peguam Syarie appointed by\nthe Majlis Peguam Syarie  from among those who have been\npractising as Peguam Syarie, either in the Federal Territories only\nor in t he Federal Territories and any State, for not less than\nfifteen years.\n\n(3) The appointment under subrule (2) shall be for a period of three years and\nmay be extended for a maximum period of three years.\n\n(4) The Chairman of the Disciplinary Board shall preside at the meeting of the\nDisciplinary Board and if the Chairman withdraws pursuant to subrule (6) or if the\nChairman is unable, due to illness or any other reason, to attend the meeting,\nthe President of t he Badan Peguam Syarie  or his representative shall preside\nover the meeting.\n\n(5) If the President of the Badan Peguam Syarie  or his representative\nwithdraws pursuant to subrule (6) or is unable, due to illness or any other reason,\nto attend the meeting, the members present shall elect from among themselves to preside\nover the meeting.\n\n(6) The Chairman of the Disciplinary Board, the President of the Badan Peguam\nSyarie or his representative and any other member of the Disciplinary Board appointed\nunder p aragraph (2) (c) shall, if necessary, in the interests of justice, withdraw from\nconsidering any complaint if there is any conflict of interests.\n\n(7) The Disciplinary Board may determine its own procedure.\n\nQuorum of Disciplinary Board\n4. The quorum of the Disciplinary Board shall be five.\n\nComplaints Secretariat\n5. (1) The daily administration of complaints against a Peguam Syarie concerned\nshall be dealt with by the Complaints Secretariat.\n(2) The Complaints Secretariat shall consist of a Director and a number of\nemployees appointed by the Majlis Peguam Syarie amongst those who\nthe Majlis Peguam Syarie thinks fit.\n\n(3) The Director shall be the Secretary of the Disciplinary Board.\n\n(4) Majlis Peguam Syarie  may, at any time, revoke the appointment of the\nDirector or employees appointed under subrule (2).\n\nPART III\nCOMPLAINTS\n\nContents of complaints\n6. (1) All complaints shall be lodge to the Director accompanied with the\nprocessing fees mentioned in subrule 7(1).\n\n (2) A complaint shall be made in the form as prescribed in the First Schedule.\n\n(3) Where the Majlis Peguam Syarie is the complainant, the complaint shall be\nsigned by the Chairman of the Majlis Peguam Syarie.\n\n(4)  The complaint made by a complain ant shall contain sufficient particulars\nof the Peguam Syarie concerned and the facts of the complaint.\n\nProcessing fees\n7. (1) A complainant shall pay to the Director the processing fee in the sum of\ntwo hundred ringgit or any other sum as the Disciplinary Board may determine.\n\n (2) Subrule (1) shall not apply where the complainant is\nthe Majlis Peguam Syarie, a State Majlis Peguam Syarie or any person or bodies mentioned\nin subsection 78(2) of the Act.\n\n (3) All sums paid under this rule shall be paid into the Discipline Fund\nand shall not be refundable.\n\nLimitation period\n8. No complaint relating to the alleged misconduct of any Peguam Syarie concerned\nor the syarie legal firm established under the Act shall be lodged by the complainant\nafter the expiration of six years from the time when the right to bring the complaint\naccrued or when the  complainant first became aware of the  misconduct or the last\nof the misconduct complained of had occurred entitling him to lodge a complaint.\n\nDuty of Director on receipt of complaint\n9. (1) Upon receipt of a complaint, the Director shall—\n\n(a) stamp the date of its receipt of the complaint; and\n\n(b) register the complaint in the Complaints Register.\n\n(2) Where the complainant has not complied with the requirement s of rule 6,\nthe Director shall as soon as possible send a written request to the complainant to submit\nthe particulars required.\n\n(3) Notwithstanding subrule (2), if the non -compliance in relation to the\nomission of the name or address of the complainant or both, the Director shall reject the\ncomplaint and record such fact in the Rejected Complaints Register.\n\n(4) The complainant shall submit the particulars required within twenty -one\ndays from the date of receipt of the written request under subrule (2).\n\n(5) Where the complainant fails to comply with the requirement of subrule (4),\nthe Director shall reject the complaint and record it in the Rejected Complaints Register.\n\n(6) If the Director rejects any complaint und er this rule, the Director shall\ninform the complainant in writing of the rejection of the complaint.\n(7) The Director shall send the complaint registered in the Complaints Register\nand in the Register of Rejected Complaints to the Disciplinary Board.\n\nWithdrawal of complaint\n10. (1) A complainant may, at any time before a final decision is made by the\nDisciplinary Board, withdraw the complaint by notice in writing to the Disciplinary Board\nand a copy of such notice shall be sent to the Director.\n\n(2) Upon receipt of the notice of withdrawal under subrule (1), the Director\nshall—\n\n(a) without prejudice to rule 9, record the withdrawal of the complaint\nin the Complaints Register; and\n\n(b) notify the Chairman of the Majlis Peguam Syarie in writing of such\nwithdrawal.\n\n(3) Where the complainant has withdrawn his complaint under subrule (1),\nthe withdrawal shall constitute a bar to any further complaint by the same complainant\non the same facts.\n\nMajlis Peguam Syarie may proceed with complaint withdrawn\n11. (1) Notwithstanding rule 10 and without prejudice to its right to make\na complaint on its own, the Majlis Peguam Syarie may, at any time before the final decision\nis made by the Disciplinary Board, if the Majlis Peguam Syarie  is of the opinion that\nthere is merit in the  complaint withdrawn under rule 10, proceed with the complaint\nas if the complaint was made by the Majlis Peguam Syarie.\n\n(2) Where the Majlis Peguam Syarie  decides to proceed with the complaint\nunder subrule (1)—\n\n(a) the Majlis Peguam Syarie  shall inform the Disciplinary Board\nby notice in writing of its decision to proceed with the complaint\nand the requirements of rule 6 shall be deemed to have been\nsatisfied; and\n\n(b) the Director shall record the decision of the Majlis Peguam Syarie\nin the Complaints Register and inform the complainant in writing\nwithin reasonable period of the continuation of the complaint\nby the Majlis Peguam Syarie.\n\nComplaints Register\n12. The Director shall keep and maintain a Complaints Register which shall contai n\nthe following particulars:\n\n(a) date of receipt of a complaint;\n\n(b) full name and the identity card or passport number of the complainant;\n\n(c) address of the complainant;\n\n(d) name and address of the person permitted by the Disciplinary Board to\nrepresent the complainant, if any;\n\n(e) full name of the Peguam Syarie concerned;\n\n(f) withdrawal of the complaint, where applicable;\n\n(g) continuance of the complaint withdrawn by the Majlis Peguam Syarie ,\nwhere applicable;\n\n(h) date and decision of the Disciplinary Board;\n\n(i) date on wh ich the Disciplinary Board's decision is delivered to the\ncomplainant or the person permitted by the Disciplinary Board to\nrepresent the complainant; and\n\n(j) date on which the Disciplinary Board's decision is delivered to\nthe Peguam Syarie concerned.\n\nRejected Complaints Register\n13. The Director shall keep and maintain a Rejected Complaints Register which shall\ncontain the following particulars:\n\n(a) date of receipt of a complaint;\n\n(b) date of the written request under subrule 9(2), if any;\n\n(c) date of the written explanation given by the Peguam Syarie  concerned,\nif any;\n\n(d) the reason for the rejection of the complaint; and\n\n(e) date on which the rejection of the complaint is notified to the complainant.\n\nDetermination of merits of complaint\n14. (1) Where a complaint is referred to the Disciplinary Board,\nthe Disciplinary Board shall, if it is satisfied that—\n\n(a) there is no merit in the complaint, dismiss the complaint and notify\nthe complainant and the Peguam Syarie concerned of its decision; or\n\n(b) there is merit in the complaint—\n\n(i) serve to the Peguam Syarie  concerned a copy of the\ncomplaint together with all supporting documents, if any,\nfurnished to it; and\n\n(ii) request the Peguam Syarie concerned to furnish his written\nexplanation in quadruplicate tog ether with supporting\ndocuments, if any, within fourteen days from the date of\nrequest or within such longer time as the Disciplinary Board\nmay allow.\n\n(2) Where the Peguam Syarie has furnished his written explanation requested\nunder subparagraph (1) (b)(ii) or, if the Peguam Syarie  does not furnish his written\nexplanation, after the expiry of the period stipulated or within such longer period as may\nbe allowed by the Disciplinary Board under subparagraph (1) (b)(ii), the Disciplinary\nBoard shall proceed to consider the complaint.\n\n(3) The Disciplinary Board may, by virtue of the power provided in section 81\nof the Act, require the production of any further documents or explanation from the\ncomplainant, the Peguam Syarie  concerned or such other person as the D isciplinary\nBoard may require before making any decision on a complaint.\n\nPower of Disciplinary Board to deal with complaints summarily\n15. (1) Where, after considering a complaint under subrule 14(2), it appears to the\nDisciplinary Board that—\n\n(a) the Peguam Syarie concerned has admitted to the misconduct or\nto the material facts establishing the misconduct;\n\n(b) no sufficient cause exists for a formal investigation but the\nPeguam Syarie  concerned should be subjected to the penalty\nmentioned in paragraph 82(1)(a) or (b) of the Act; or\n\n(c) the material facts establishing the  misconduct are obvious\nand do not warrant further investigation,\n\nthe Disciplinary Board may deal with the complaint immediately and impose the\nappropriate penalty or punishment provided for in subsection 82 (1) of the Act.\n\n (2) Notwithstanding subrule (1), the Disciplinary Board may also make\nan order of restitution as provided for in subsection 82(2) of the Act.\n\n(3) The Disciplinary Board shall, before imposing any penalty or punishment\nunder subrule (1) or making any order of restitution under subrule (2),\nnotify the Peguam Syarie concerned of its intention to do so and give the Peguam Syarie\nconcerned a reasonable opportunity to be heard.\n\nInvestigation of complaints\n16. Where, after consid ering a complaint under subrule  14(2) and the Disciplinary\nBoard is satisfied that subrule 15(1) does not apply, the Disciplinary Board shall conduct\na disciplinary proceeding with regard to the complaint pursuant to Part IV.\n\nPART IV\nCONDUCT OF PROCEEDINGS\n\nRecord of complaint\n17. (1) The Director shall compile the following documents which constitute\nthe record of a complaint:\n\n(a) a copy of the complaint or any application made by\nthe Majlis Peguam Syarie  under section 83 of the Act,\nas the case may be, together with any supporting document\nand statutory declaration, if any;\n\n(b) a copy of the written explanation from the Peguam Syarie concerned\nand supporting documents, if any;\n(c) where the co mplaint is withdrawn under rule 10 before the\nDisciplinary Board commences its inquiry a nd is proceeded with\nunder rule 11, a copy of the notice of withdrawal by the complainant\nand the notice to proceed with the complaint issued by\nthe Majlis Peguam Syarie; and\n\n(d) any other documents relating to the documents mentioned\nin paragraph (a), (b) or (c), if any.\n\n(2) A copy of the record of complaint shall be served to the complainant and\nthe Peguam Syarie concerned before the Disciplinary Board commences its inquiry.\n\nDate, time and place of hearing\n18. (1) The Disciplinary Board shall conduct its proceedings on such date, time and\nplace as determined by the Chairman of the Disciplinary Board.\n\n (2) Any proceeding conducted pursuant to subrule (1) may be conducted\nthrough a live video telecast, live televi sion telecast or any other means of electronic\ncommunication.\n\n (3) For the purposes of this r ule, a reference to a \"place\" includes virtual\ncyberspace, virtual place or virtual space.\n\nNotice of hearing\n19. (1) The Disciplinary Board shall serve a notice of the hearing to the\ncomplainant and the Peguam Syarie concerned at least seven days before the hearing is\nto be conducted.\n\n(2) A notice under subrule (1) shall specify the date, time and place of the\nhearing and shall be in the form or manner as determined by the Disciplinary Board.\n\nRight to legal representation\n20. The Peguam Syarie concerned shall have the right to be represented by\na Peguam Syarie of his choice in any hearing under these Rules.\n\nQuorum of proceedings of Disciplinary Board\n21. The quorum of the Disciplinary Board proceedings shall be three.\n\nProceedings of Disciplinary Board\n22. (1) At the commencement of the hearing, the Chairman shall record the names\nof the parties present.\n\n(2) Unless permitted by the Chairman, only the complainant,\nthe Peguam Syarie  concerned and their legal representatives, if any, shall be present\nduring the proceedings.\n\n(3) Where the complainant is a body corporate or an organization,\nthe complainant may appear through an authorized representative.\n\n(4) If the complainant or his legal representative is present, the Chairman shall\ndirect the complainant or his legal representative to present his case.\n\n(5) All evidence shall be given separately and under oath.\n\n(6) At any hearing before the Disciplinary Board—\n\n(a) the Peguam Syarie concerned may cross -examine the complainant\nand his witness who have given their evidence in relation to\nthe complaint; and\n\n(b) the complainant may cross -examine the Peguam Syarie concerned\nand his witness who have given their evidence in relation to\nthe complaint.\n\n(7) The Chairman or members of the Disciplinary Board may ask any question,\nor request the attendance of any person as a witness or for the production of any thing or\ndocuments as the Disciplinary Board may think is relevant to the inquiry.\n\n(8) If the complaint is based on a misconduct relating to monies in the custody\nor control of the Peguam Syarie  concerned, the burden shall be on the Peguam Syarie\nconcerned to provide a satisfactory explanation in relation to the complaint.\n\n(9) The Chairman of the Disciplinary Board shall call upon the Peguam Syarie\nconcerned to respond to the complaint at the close of the complainant's case.\n\n(10) The Chairman of the Disciplinary Board may call upon the parties to make\ntheir final submissions at the close of the proceedings, with the Peguam Syarie concerned\nmaking the first submission.\n\n(11) The Disciplinary Board shall record all evidence given to it.\n\nAdjournment of hearing\n23. (1) The Disciplinary Board may adjourn the hearing from time to time\nas the Disciplinary Board thinks appropriate.\n\n(2) The Disciplinary Board shall serve a notice of the adjournment of the\nhearing to the parties to the proceedings within seven days from the date\nthe adjournment is granted.\n\n(3) Subrule (2) shall not apply where the adjournment is granted\nin the presence of the parties to the proceedings.\n\nAbsence of parties before Disciplinary Board\n24. Where the complainant or the Peguam Syarie concerned or both fail to appear\nbefore the Disciplinary Board on the date fixed for the hearing of the complaint,\nthe Disciplinary Board may, upon being satisfied that rule 19 has been complied with—\n\n(a) adjourn the hearing in accordance with rule 23; or\n\n(b) proceed to hear the complaint and make  any decision as it thinks fit\nin the absence of such person and without giving any  further notice\nto such person.\n\nRecord of proceedings before Disciplinary Board\n25. The Disciplinary Board shall prepare a record of proceedings consisting of\nall evidence given including documentary evidence.\n\nDecision of majority to be deemed as decision of Disciplinary Board\n26. Where the Disciplinary Board is not unanimous on any question or matter to be\ndecided, the decision of the majority shall be deemed to be the decision\nof the Disciplinary Board.\n\nReport of Disciplinary Board\n27. (1) The report of the Disciplinary Board shall state the findings and reasons\nfor the findings.\n\n(2) Where—\n\n(a) the Disciplinary Board is unanimous in its findings, the report shall\nbe signed by the Chairman of the Disciplinary Board; or\n\n(b) the Disciplinary Board is not unanimous in its findings—\n\n(i) the findings of the majority shall be deemed to be\nthe findings of the Disciplinary Board;\n\n(ii) the reasons for the findings of the majority and minority\nmembers shall be recorded; and\n\n(iii) the report shall be signed by all members of the Disciplinary\nBoard.\n\n(3) The report of the Disciplinary Board together with the record of the\nproceedings shall be sent to the Director.\n\n(4) The r eport of the Disciplinary Board under this rule shall be conclusive\nof the proceedings of the Disciplinary Board.\n\nPART V\nSUSPENSION OF PRACTICE OF PEGUAM SYARIE UNDER SECTION 83 OF ACT\n\nSuspension of practice of Peguam Syarie under section 83 of Act\n28. (1) Where the Majlis Peguam Syarie  makes an application to\nthe Disciplinary Board under section 83 of the Act for an order to suspend\na Peguam Syarie  from practicing, the Disciplinary Board shall request\nthe Peguam Syarie to submit a written explanation thereon before the Disciplinary Board\nmakes a decision on the application.\n\n (2) The Disciplinary Board shall notify in writing the decision on the\napplication for suspension to the Majlis Peguam Syarie  and the Peguam Syarie  against\nwhom the application for suspension is made.\n\nPART VI\nDISCIPLINARY PROCEEDING APPEAL\n\nNotice of appeal\n29. (1) An appeal against the decision of the Disciplinary Board shall be made\nto the Syariah High Court.\n\n(2) An appeal shall be made by filing a notice of appeal as prescribed in the\nSecond Schedule within thirty days from the date  on which the decision of the\nDisciplinary Board was pronounced.\n(3) The party who appeals is known as \"appellant\" and the party against whom\nthe appeal is made is known as \"respondent\".\n\n(4) An appellant may appeal against the whole or any part of a decis ion and\nthe notice of appeal shall state whether the appeal is against the whole or part only,\nand if so, shall specify the part of the decision appealed against.\n\n(5) A copy of the notice of appeal shall be served by the appellant within\nthe time limited for filing the appeal on all parties involved in the appeal\nor their respective Peguam Syarie, the Disciplinary Board and the Majlis Peguam Syarie.\n\nNotice of counter appeal\n30. A respondent in any appeal may, within seven days from the date of the service of\nthe notice of appeal on him—\n\n(a) file in the Syariah High Court hearing the appeal; and\n\n(b) serve on the appellant,\n\na notice as prescribed in the Third Schedule of his intention to submit at the hearing of\nthe appeal that the decision appealed against should be varied.\n\nNotes of evidence and judgment\n31. (1) The Director shall, upon receipt of the notice of appeal and subject to the\ncompliance of subrule (3), supply to the appellant a certified copy of the notes of evidence\nand grounds of judgment.\n\n(2) For the purposes of subrule (1), the Director shall notify the appellant\nin the form as prescribed in the Fourth Schedule as soon as the certified copies of the\nnotes of evidence and grounds of judgment are ready.\n\n(3) Within fourteen days from the  date of receipt of the notification\nunder subrule (2), the appellant shall—\n\n(a) deposit to the Disciplinary Board a sum of money which in the\nopinion of the Disciplinary Board will cover—\n\n(i) the costs of preparing the notes of evidence and grounds of\njudgment; and\n\n(ii) the costs of preparing a sufficient number of copies of the\nappeal record for the use of the Syariah High Court hearing\nthe appeal and the parties to the appeal, if applicable; and\n\n(b) lodge in the Disciplinary Board a sum of money as the Disciplinary\nBoard may direct as a security for the costs of the appeal.\n\n(4) The deposit referred to in paragraph (3)(a) is non-refundable.\n\n(5) Within thirty days from the date of receipt of the deposit made under\nparagraph (3) (a), the Director shall supply to the appellant the certified copies of the\nnotes of evidence and grounds of judgment.\n\n(6) Subrule (3) is not applicable if the appellant is the Majlis Peguam Syarie ,\nany syariah court, Syariah Court Judge or Syariah Prosecutor.\n\n(7) No document shall be supplied if the appellant does not comply with\nsubrule (3).\n\nGrounds of appeal\n32. (1) Within fourteen days from the date of receipt of the notification under\nsubrule 31(2), the appellant shall lodge with the Director grounds of appeal in five copies\naddressed to the Syariah High Court hearing the appeal.\n\n(2) Every ground of appeal shall state briefly the substance of the decision\nappealed against and shall contain definite particulars of the point of law or fact in respect\nof which the appeal is made.\n\n(3) Except with the leave of the Syariah High Court hearing the appeal,\nthe appellant shall not be permitted on the hearing of the appeal to rely on any ground\nother than those set out in the grounds of appeal.\n\nAppeal record where appellant is represented\n33. (1) The appellant who is represented by a Peguam Syarie  shall, having\ncomplied with the requirements of rules 3 1 and 3 2, prepare the requisite number of\ncopies of the appeal record which shall contain copies of—\n\n(a) the complaint and all documents which support the complaint;\n\n(b) the written explanation made by the Peguam Syarie  concerned\nin relation to a complaint;\n\n(c) the notes of evidence and grounds of judgment of the proceedings\nbefore the Disciplinary Board;\n\n(d) the notice of appeal;\n\n(e) the grounds of appeal;\n\n(f) all documentary exhibits; and\n\n(g) the list of non -documentary exhibits, if any, lodged in the\nDisciplinary Board.\n\n(2) The appellant shall, within six weeks of the receipt of the notification under\nsubrule 31(2)—\n\n(a) file two copies of the appeal record in the Syariah High Court\nhearing the appeal; and\n\n(b) serve a copy of the appeal record on each party who has been served\nwith the notice of appeal.\n\nAppeal record where appellant is not represented\n34. (1) Where the a ppellant who has complied with the requirements of\nrules 3 1 and 3 2 is not represented by a Peguam Syarie , the Director shall prepare\nthe requisite number of copies of the appeal record which shall contain copies of\nthe documents mentioned in subrule 32(1).\n\n(2) As soon as the appeal record is ready, the Director shall serve on the\nappellant a notice as prescribed in the Fifth Schedule.\n\n(3) Upon request by the appellant an d, if the deposit mentioned\nin paragraph 31(3)(a) is insufficient, upon payment b y the appellant of a further sum\nsufficient to pay the costs of preparing the appeal record, the Director shall—\n\n(a) supply the appellant with a copy of the appeal record and sufficient\nadditional copies for service on the respondent or respondents; and\n\n(b) forward to the Syariah High Court hearing the appeal the remaining\ncopies of the record.\n\n(4) The appellant shall, within six weeks from the receipt of the notification\nunder subrule (2), serve a copy of the appeal record on each party who has been served\nwith the notice of appeal.\n\nWithdrawal of appeal\n35. (1) An appellant may, with the leave of the Syariah High Court, withdraw his\nappeal at any time before judgment by filing in the Syariah High Court a notice of\nwithdrawal of the appeal as prescribed in the Sixth Schedule.\n(2) The appellant shall serve a copy of the notice of withdrawal of appeal\non each party who has been served with the notice of appeal.\n\n(3) Where the appellant withdraws his appeal under subrule (1),\nthe respondent shall be entitled to the costs of the proceedings.\n\nNotice of hearing of appeal\n36. A notice of hearing of the appeal or any adjournment thereof shall be sent by the\nSyariah High Court to the appellant, the respondent, the Director and\nthe Majlis Peguam Syarie.\n\nAppeals Register\n37. The Director shall keep and maintain an Appeals Register which shall contain\nthe following particulars:\n\n(a) the date of receipt of the notice of appeal;\n\n(b) the date of the decision of the Syariah High Court; and\n\n(c) where the appeal is withdrawn, the date of withdrawal.\n\nService of documents and notices\n38. (1) Subject to rule 19, where any document or notice is required to be served\nunder these Rules, the service of the document or notice shall be effected by personal\nservice to the last known address of the person to whom such document or notice\nis required to be served.\n\n(2) Where for any sufficient reason the document or notice cannot be served\nby personal service, the document or notice shall be served by registered post to the last\nknown address of the person to whom such document or notice is required to be served.\n\n(3) Service effected in accordance with subrule (2) shall be as effectual\nas personal service.\n(4) Service of the document or notice under this rule shall be proved by a n\naffidavit of service  affirmed by the person who effected the service.\n\n(5) The person against whom the document or notice is served by personal\nservice under subrule (1) shall sign an acknowledgement of service.\n\n(6) Notwithstanding subrule (5), the refusal or inability to sign the\nacknowledgement of service referred to in subrule (5) shall not affect the validity of the\nservice.\n\nStay of execution pending appeal\n39. The filing of a notice of appeal shall not operate as a stay of execution, but the\nDisciplinary Board may, on application and on sufficient cause being shown, stay\nexecution on such terms as it may think fit.\n\nJudgment to state grounds\n40. The Syariah High Court hearing the appeal shall state the grounds of its judgment\nin writing.\n\nAppeals against decision of Syariah High Court\n41. An appeal against the decision of the Syariah High Court shall be made to the\nSyariah Appeal Court in accordance with Part XVII of the Syariah Court Civil Procedure\n(Federal Territories) Act 1998 [Act 585].\n\nPART VII\nMISCELLANEOUS\n\nEffect of non-compliance and irregularities not to vitiate proceedings\n42. The Disciplinary Board may act notwithstanding any vacancy in its membership\nand its proceedings shall not be invalidated by—\n\n(a) any defect afterwards discovered in the appointment or qualification\nof a member;\n(b) any minor irregularity in the convening or conduct of a meeting; or\n\n(c) the presence or participation of a person not entitled to be present or\nparticipate.\n\nSigning of notice of hearing and other documents\n43. A notice of hearing before the Disciplinary Board and any other written document\nconnected therewith shall be signed by the Chairman of the Disciplinary Board\nor any other member of the Disciplinary Board authorized by the Chairman\nof the Disciplinary Board.\n\nDeath\n44. (1) Where the Peguam Syarie  concerned dies before the conclusion of the\nproceedings against him, the complaint shall abate without prejudice to any remedies\nthat the complainant may have against the estate of the deceased Peguam Syarie.\n\n(2) Where the complainant dies before the conclusion of the proceedings,\nthe complaint may be continued by the next of kin or legal personal representative\nof the complainant.\n\n(3) If the next of kin or the legal personal representative does not respond\nwithin three months of being notified by the Director of their right to continue with the\ncomplaint, the Director shall refer the complaint to the Majlis Peguam Syarie  and the\nMajlis Peguam Syarie may, if it thinks appropriate, proceed with the complaint.\n\n(4) If the Majlis Peguam Syarie decides to proceed with the complaint under\nsubrule (3)—\n\n(a) the Majlis Peguam Syarie  shall notify the Disciplinary Board\nby notice in writing of its decision to proceed with the complaint\nand the requirements of rule 6 shall be deemed to have been\nsatisfied; and\n\n(b) the Director shall record the decision of the Majlis Peguam Syarie\nin the Complaints Register and notify the next of kin\nor legal personal representative of the complainant\nof the continuation of the complaint by the Majlis Peguam Syarie.\n\nFIRST SCHEDULE\n[Subrule 6(2)]\n\nCOMPLAINT\n\nTo:\nDirector of Complaints Secretariat\nPeguam Syarie Disciplinary Board\n(address)\n\n1.  Particulars of complainant\n\n1.1.  Full name (as stated in the Identity Card/Passport):\n_____________________________________________________________________________________________\n_____________________________________________________________________________________________\n\n1.2  Home address:\n_____________________________________________________________________________________________\n_____________________________________________________________________________________________\n_____________________________________________________________________________________________\nE-mail address: ___________________________________________________________________________\nTelephone No.: _____________________________ Mobile No.: ________________________________\nEmployer:_________________________________________________________________________________\n\n1.3  Office address:\n_____________________________________________________________________________________________\n_____________________________________________________________________________________________\n_____________________________________________________________________________________________\nTelephone No.: ___________________________________________________________________________\n\n1.4  Current correspondence address:\n_____________________________________________________________________________________________\n_____________________________________________________________________________________________\n_____________________________________________________________________________________________\n\n1.5  Name of contact person:\n _____________________________________________________________________________________________\nAddress:\n_____________________________________________________________________________________________\n_____________________________________________________________________________________________\n_____________________________________________________________________________________________\nTelephone No.: __________________________________________________________________________\n\n1.6  Particulars of the Peguam Syarie representing the complainant (if any):\n_____________________________________________________________________________________________\n_____________________________________________________________________________________________\n_____________________________________________________________________________________________\n_____________________________________________________________________________________________\n\n1.7  Particulars of payment for processing fees. Please tick at the appropriate column.\n\n Cheque No.: _________________________________ Bank: ____________________________\n Money order No.: _______________________________________________________________\n Cash: _____________________________________________________________________________\n\n1.8  Please state whether you or any other person have lodged a complaint\nto the Disciplinary Board based on similar/related facts. If yes, please state\nthe complaint no.\n_______________________________________________________________________________________________\n\n2.  Particulars of the Peguam Syarie concerned and/or the firm\n\n2.1  Full name of the Peguam Syarie concerned and/or the firm:\n______________________________________________________________________________________________\n2.2  Name and address of the firm at the time the alleged misconduct occurred:\n_____________________________________________________________________________________________\n_____________________________________________________________________________________________\n_____________________________________________________________________________________________\n_____________________________________________________________________________________________\n\n2.3  Name and current address of the firm if different from 2.2:\n_____________________________________________________________________________________________\n_____________________________________________________________________________________________\n_____________________________________________________________________________________________\nTown/City:________________________________________________________________________________\nState:_______________________________________________________________________________________\nTelephone No.:____________________________________________________________________________\n\n2.4  When did you appoint the Peguam Syarie  and/or the firm under which\nthe Peguam Syarie practicing (if applicable) ?\n_____________________________________________________________________________________________\n\n2.5  What were your instructions to the Peguam Syarie  and/or the firm under which\nthe Peguam Syarie practicing ?\n_____________________________________________________________________________________________\n_____________________________________________________________________________________________\n_____________________________________________________________________________________________\nPlease use a separate sheet if the allocated space is not sufficient.\n\n2.6  Please set out the details of your complaint.\n_____________________________________________________________________________________________\n_____________________________________________________________________________________________\n_____________________________________________________________________________________________\nPlease use a separate sheet if the allocated space is not sufficient.\n\n2.7  List of documents that must be attached:\n\n(a)  the Statutory Declaration of the complainant affirmed before\na Commissioner of Oaths verifying the fact of the complaint;\n\n(b)  a copy of identity card/passport; and\n\n(c)  cheque or money order.\n\n2.8  Other supporting documents:\n(1)  _____________________________________________________________________________________\n(2)  _____________________________________________________________________________________\n(3)  _____________________________________________________________________________________\n\n2.9  Complainant's signature: __________________________________________\nDate: ______________________\n\nPlease return the duly completed form and all the relevant documents\nin three (3) sets to:\n\nDirector of Complaints Secretariat\nPeguam Syarie Disciplinary Board\n(address)\n(Telephone No.)\n(Facsimile No.)\n(email address)\n\nSECOND SCHEDULE\n[Subrule 29(2)]\n\nNOTICE OF APPEAL\n(General Title)\n\nTake notice that ............................................................ the abovenamed complainant\n(or Peguam Syarie concerned) being dissatisfied with the decision of\nthe Disciplinary Board at ........................................ given on the ........................ day of\n.......…………….......................... 20........................ appeals to the Syariah High Court against\nthe whole of the said decision (or such part of the said decision) as decides that,\n…………………………………………………………… (set out details)\n\nDated this ............... day of .............................. 20.......\n\n........................................................\nAppellant (or Peguam\nSyarie for Appellant)\n\nTo:\nThe Registrar of Syariah High Court and to:\n\nTHIRD SCHEDULE\n[Rule 30]\n\nNOTICE OF COUNTER APPEAL\n(General Title)\n\nTake notice that, on the hearing of the above appeal, the respondent abovenamed\nwill contend that the decision of the Disciplinary Board given on the ................................. day\nof ................................. 20................ ought to be varied on the following grounds:\n\n(Set out in numbered paragraphs—\n(a)  the nature of the relief claimed; and/or\n(b)  the grounds relied upon.)\n\nDated this ................ day of ....................... 20..........\n\nTo the Registrar and the appellant.\n\n…................................................\nRespondent (or Peguam\nSyarie for the Respondent)\n\nFOURTH SCHEDULE\n[Subrule 31(2)]\n\nNOTICE THAT CERTIFIED COPIES OF NOTES OF EVIDENCE AND JUDGMENT\nARE READY\n(General Title)\n\nTake notice that the certified copies of notes of evidence and judgment are ready\nand that a sum of RM ............................................................... is liable to be paid by you\nas to the costs of preparing the certified copies.\n\nTo:\n.......................................................\n.......................................................\n\nDated this .............. day of ........................... 20.........\n\n................…………...............\nDirector\n\nFIFTH SCHEDULE\n[Subrule 34(2)]\n\nNOTICE THAT APPEAL RECORD IS READY\n(General Title)\n\nTake notice that the appeal record in the abovementioned proceedings is ready\nand a sum of RM ...................................... is liable to be paid by you for the  cost of preparing\nsuch record.\n\nTo:\n\nDated this ............. day of ........................ 20 .............\n\n................…………...............\nDirector\n\nSIXTH SCHEDULE\n[Subrule 35(1)]\n\nNOTICE OF WITHDRAWAL OF APPEAL\n(General Title)\n\nTake notice that the appellant wholly (or specify the part) withdraws this appeal against\nthe respondent.\n\nDated this ................ day of ..................... 20............\n\n........................................................\nAppellant (or Peguam\nSyarie for the Appellant)\n\nTo:\n\n(1)  The Director.\n(2)  The respondent (or Peguam Syarie for the respondent).\n\nMade 1 August 2024\n[JAKIM.(S).600-1/2/11; PN(PU2)764/JLD.2]\n\nDATO' ZAINUL RIJAL BIN ABU BAKAR\nChairman of Majlis Peguam Syarie"
+   }
+  }
+ ]
+}

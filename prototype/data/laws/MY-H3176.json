@@ -1,0 +1,330 @@
+{
+ "id": "MY-H3176",
+ "title": {
+  "zh": "2018年法院规则（修正）",
+  "en": "RULES OF COURT (AMENDMENT) 2018",
+  "orig": "RULES OF COURT (AMENDMENT) 2018",
+  "ms": "Kaedah Mahkamah (Pindaan) 2018",
+  "vi": "Quy tắc Tòa án (Sửa đổi) năm 2018",
+  "th": "ข้อบังคับศาล (การแก้ไข) ค.ศ. 2018",
+  "id": "Tata Tertib Mahkamah (Perubahan) Tahun 2018"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-7",
+ "language": "ms",
+ "level": "regulation",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "2018",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "PUA24",
+ "topics": [],
+ "summary": null,
+ "coverage": "partial",
+ "structureMode": "ARTICLE",
+ "articleCount": 24,
+ "chars": 37164,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-view.php?type=pua&no=P.U. (A) 24/2018&status=AMENDMENT"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\01_宪法与基础法\\2018_P.U.(A)24-2018_RULES OF COURT (AMENDMENT) 2018.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 26 条；逐字未改写（源自厂商 OCR 文本）。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H3176-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "1. Dalam Aturan ini—\n\n\"kod pengesahan\" ertinya apa -apa kod pengenalan atau kenal pasti,  kata\nlaluan atau apa -apa cara atau tatacara pengesahan lain yang diberikan oleh\nPendaftar bagi maksud mengenal pasti dan mengesahkan akses kepada d an\npengguna Sistem e-Lelong;\n\n\"nama pengenalan\" ertinya nama pengenalan  yang diberikan oleh\nPendaftar menurut  subkaedah 5(1);\n\n\"pengguna berdaftar\" ertinya mana -mana orang atau entiti yang\ndidaftarkan oleh Pendaftar untuk mendapatkan akses kepada dan menggunakan\nSistem e-Lelong menurut kaedah 4;\n\n\"Pusat Operasi e-Lelong\" ertinya Unit Pentadbir Sistem yang diketuai oleh\nPendaftar yang diberi kan kuasa yang diwujudkan menurut kaedah 3 bagi\nmaksud pentadbiran Sistem e-Lelong;\n\n\"Sistem e -Lelong\" ertinya suatu sistem lelongan awam berpusat secara\nelektronik bagi jualan harta tak alih yang diwujudkan menurut kaedah 2.\n\nPewujudan Sistem e-Lelong (A. 31A, k.2)"
+   }
+  },
+  {
+   "id": "MY-H3176-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "2. Pendaftar boleh, dengan kelulusan Ketua Hakim Negara, mewujudkan\nsuatu sistem lelongan awam berpusat secara elektronik yang dikenali sebagai\nSistem e -Lelong bagi jualan harta  tak alih dan bagi perkara yang berkaitan\ndengannya.\n\nPewujudan Pusat Operasi e-Lelong (A. 31A, k.3)"
+   }
+  },
+  {
+   "id": "MY-H3176-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "3. Suatu pusat operasi bagi jualan harta tak alih yang dikenali sebagai Pusat\nOperasi e-Lelong diwujudkan.\n\nPengguna Berdaftar (A.31A, k.4)"
+   }
+  },
+  {
+   "id": "MY-H3176-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "4. (1) Mana-mana orang atau entiti boleh memohon kepada Pendaftar\nuntuk menjadi pengguna b erdaftar mengikut apa -apa tatacara dan atas\npembayaran apa -apa fi sebagaimana yang ditetapkan dalam apa -apa arahan\namalan yang dikeluarkan oleh Pendaftar.\n\n(2) Permohonan untuk men jadi pengguna b erdaftar adalah tertakluk\nkepada terma dan syarat serta apa -apa sekatan yang berkaitan dengan\nSistem e-Lelong.\n\nKod Pengesahan (A.31A, k.5)"
+   }
+  },
+  {
+   "id": "MY-H3176-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "5. (1) Sebelum menggunakan Sistem e -Lelong, pengguna b erdaftar\nhendaklah memohon kepada Pendaftar untuk nama pengenalan dan kod\npengesahan yang diberikan kepadanya.\n\n(2) Pengguna b erdaftar hendaklah mendaftarkan butir -butirnya\ndengan Pendaftar dan mengakui secara bertulis penerimaan selamat nama\npengenalan dan kod pengesahan yang diberikan kepadanya oleh Pendaftar.\n\n(3) Pengguna b erdaftar hendaklah memaklumkan Pendaftar secara\nbertulis tentang apa-apa perubahan dalam butir-butirnya.\n\nKeselamatan kod pengesahan (A.31A, k.6)"
+   }
+  },
+  {
+   "id": "MY-H3176-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "6. Pengguna Berdaftar hendaklah memastikan kerahsiaan dan keselamatan\nkod pengesahannya dan tidak boleh─\n\n(a) mendedahkan kod pengesahannya kepada mana -mana orang lain;\natau\n\n(b) membenarkan mana -mana orang lain untuk menggunakan kod\npengesahannya.\n\nSistem e-Lelong   (A.31A, k.7)"
+   }
+  },
+  {
+   "id": "MY-H3176-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "7. (1) Jika dalam apa -apa kausa atau perkara yang berhubungan dengan\napa-apa harta tak alih yang ternyata perlu atau suai manfaat bagi maksud kausa\natau perkara harta tak alih atau mana -mana bahagiannya yang patut dijual,\nMahkamah boleh memerintahkan agar jualan hendaklah melalui\nSistem e-Lelong.\n\n(2) Mana-mana pihak yang terikat dengan perintah Mahkamah\ndi bawah subkaedah (1) dan harta tak alih atau sebahagian daripada harta tak\nalih itu dalam milikannya, atau dalam menerima sewa dan keuntungannya, boleh\ndipaksa untuk menyerahkan milik an itu atau penerimaan kepada pembeli atau\nkepada mana-mana orang lain sebagaimana yang diperintahkan oleh Mahkamah.\n\n (3) Jika perintah Mahkamah dibuat, sama ada di dalam Mahkamah\natau di dalam Kamar, memerintahkan mana -mana harta tak alih dijual,\nMahkamah boleh memerintahkan harta tak alih itu dijual dalam apa -apa cara\nsebagaimana yang boleh diperintahkan atau diarahkan kemudiannya oleh\nMahkamah bagi harga terbaik yang boleh didapatkan, dan semua pihak yang\npatut hendaklah menyertai dalam penjualan dan pe mindahhakan sebagaimana\nyang diperintahkan atau diarahkan oleh Mahkamah.\n\n(4) Tanpa menjeja skan keluasan perkataan jualan harta tak alih\nmelalui Sistem e -Lelong, Mahkamah boleh memberikan apa -apa perintah atau\narahan sebagaimana yang difikirkannya patut un tuk melaksanakan jualan itu,\ntermasuk ─\n(a) menetapkan cara jualan;\n\n(b) menetapkan harga rizab atau harga minimum;\n\n(c) menghendaki pembayaran wang belian ke dalam\nMahkamah atau kepada pemegang amanah atau orang lain;\n\n(d) menyelesaikan butir-butir dan syarat jualan;\n\n(e) mendapatkan keterangan tentang nilai harta; dan\n\n(f) menghendaki hakmilik yang dirujuk kepada peguam  untuk\npendapatnya mengenai hak milik itu dan menyelesaikan\nbutir-butir dan syarat jualan.\n\n(5) Melainkan jika Pendaftar mengarahkan selain nya, semua jualan\nhendaklah dibuat melalui Sistem e -Lelong an tara jam 9.00 pagi\nhingga 4.00 petang dan suatu notis  mengenai hari, waktu dan tempat bagi\napa-apa jualan yang diniatkan hendaklah tujuh hari sebelum jualan─\n\n(a) dimuat naik ke laman sesawang e-Lelong; dan\n\n(b) diiklankan sekali dalam surat khabar tempatan dan  setakat\nyang praktik di lokasi harta yang diniatkan untuk dijual.\n\n(6) Bentuk atau format apa -apa dokumen tertentu yang berkaitan\ndengan Sistem e -Lelong hendaklah sebagaimana yang ditetapkan dalam arahan\namalan yang dikeluarkan oleh Pendaftar, dan dalam ketiadaan apa -apa\n\npreskripsi itu hendaklah dalam borang yang ditetapkan dalam Aturan 1,\nkaedah 7.\n\nFi pelaksanaan (A.31, k.8)"
+   }
+  },
+  {
+   "id": "MY-H3176-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "8. Plaintif henda klah membayar fi pelaksanaan bersamaan dengan\ntiga peratus daripada harga rizab harta tak alih itu atau pada kadar tertentu\nsebagaimana yang boleh ditentukan oleh  Ketua Hakim Negara dari semasa\nke semasa.\".\n\nPindaan Aturan 55 Kaedah 3\n4. Aturan 55 Kaedah-Kaedah ibu  dipinda dalam  kaedah 3 dengan memotong\nsubkaedah (3).\n\nAturan baharu 69A\n5. Kaedah-Kaedah ini dipinda dengan memasukkan selepas Aturan 69 Aturan yang\nberikut:\n\n\"Aturan 69A\n\nPROSIDING ADJUDIKASI\nTafsiran (A.69A, k. 1)\n1. (1) Dalam Aturan ini, \"Akta\" ertinya Akta Pembayaran dan Adjudikasi\nIndustri Pembinaan 2012 [Akta 746].\n\n(2) Ungkapan yang digunakan dalam Aturan ini yang digunakan dalam\nAkta mempunyai erti yang sama dalam Aturan sebagaimana dalam Akta.\n\n(3) Aturan ini terpakai bagi prosiding di Mahkamah Tinggi.\n\nPermohonan di bawah Akta (A.69A, k.2)\n2. (1) Suatu permohonan yang Aturan ini terpakai boleh dibuat melalui\nsaman pemula dalam Borang 5 yang hendaklah—\n\n(a) menyatakan dalam huraiannya mana-mana peruntukan\nKaedah-Kaedah ini dan mana-mana peruntukan Akta\ndi bawah mana Mahkamah sedang usulkan;\n\n(b) termasuk suatu pernyataan ringkas yang lengkap bagi—\n\n(i) remedi yang dituntut; dan\n\n(ii) apa-apa persoalan yang pemohon meminta\nkeputusan Mahkamah;\n\n(c) menyatakan alasan yang menyokong saman pemula;\n\n(d) menunjukkan bahawa apa -apa keperluan statutori telah\ndipenuhi;\n\n(e) menyatakan seksyen dalam Akta yang di bawahnya\npermohonan itu dibuat;\n\n(f) menyatakan responden yang kepadanya saman pemula itu\nhendak disampaikan, menyatakan pera nan mereka dalam\nadjudikasi; dan\n\n(g) mengenal pasti terhadap mana -mana, jika ada, responden\nbagi suatu perintah untuk kos yang dipohon.\n\n(2) Pemohon hendaklah memfailk an melalui  afidavit, keterangan\n bertulis yang di atasnya  dia bercadang untuk bergantung kepada apabila dia\nmemfailkan saman pemulanya.\n\n(3) Melainkan jika Mahkamah memerintahkan selainnya, suatu s aman\npemula dan afidavit hendaklah disampaikan kepada responden yang dinyatakan\ndalam subperenggan (1)(f), dalam masa tiga puluh hari dari tarikh dikeluarkan.\n\n(4) Jika berkaitan, kaedah 3 hingga 5 hendaklah juga terpakai.\n\nPermohonan untuk mengetepikan keputusan adjudikasi (A. 69A, k. 3)\n3. (1) Dalam tiap -tiap permohonan untuk mengetepikan suatu\nkeputusan adjudikasi di bawah seksyen 15 Akta, saman pemula he ndaklah,\nsebagai tambahan kepada perkara yang dinyatakan dalam subkaedah 2(1)─\n\n(a) memberikan butir-butir keputusan adjudikasi yang dicabar;\n\n(b) mengenal pasti bahagian atau bahagian -bahagian\nkeputusan adjudikasi yang dicabar; dan\n\n(c) menyatakan alasan kepada perkara yang dipertikaikan\nbahawa keputusan adjudikasi itu perlu diketepikan.\n\n(2) Pemohon hendaklah memfailkan melalui  afidavit, keterangan\nbertulis yang dia bercadang  hendak bergantung apabila dia memfailkan saman\npemulanya, termasuk sesalinan keputusan adjudikasi.\n\n(3) Saman pemula dan afidavit hendaklah disampaikan kepada\nresponden dan noti s hendaklah diberi kepada Pengarah KLRCA dan adjudikator\ndi bawah kaedah 7.\n\n(4) Suatu permohonan untuk mengetepikan keputusan adjudikasi\nhendaklah difailkan dalam Mahkamah sebelum permohonan bagi\npenguatkuasaan keputusan adjudikasi di bawah kaedah 5  telah selepas\ndilupuskan oleh Mahkamah Tinggi.\n\nPermohonan bagi penggantungan keputusan adjudikasi (A.69A, k. 4)\n4. (1) Suatu permohonan bagi penggantungan  keputusan adjudikas i\ndi bawah seksyen 16 Akta hendaklah  disokong oleh suatu afidavit yang\nhendaklah—\n\n(a) mengekshibitkan kepadanya se salinan keputusan\nadjudikasi dan apa -apa dokumen lain yang kepadanya\npemohon bergantung;\n\n(b) menunjukkan bahawa suatu permohonan untuk\nmengetepikan keputusan adjudikasi di baw ah seksyen 15\ntelah dibuat atau  hal perkara ke putusan adjudikasi sedang\nmenunggu penentuan oleh timbang tara atau Mahkamah;\n\n(c) menyatakan alasan  di mana ia menegaskan  bahawa\nkeputusan adjudikasi hendaklah digantung; dan\n\n(d) menyatakan keterangan yang kepadanya pemohon\nbergantung.\n\n (2) Suatu permohonan yang kaedah ini terpakai adalah—\n\n(a) jika suatu tindakan di bawah kaedah 3 belum selesai,\nmelalui notis permohonan; dan\n\n(b) bagi mana-mana kes lain, melalui saman pemula.\n\nPermohonan untuk menguatkuasakan keputusan adjudikasi (A.69A, k. 5)\n5. (1) Suatu permohonan untuk menguatkuasakan keputusan adjudikasi,\nsama ada sepenuhnya atau sebahagiannya, dengan cara yang sama sebagaimana\nsuatu penghakiman atau perintah oleh Mahkamah Tinggi di bawah seksyen 28\nAkta boleh dibuat melalui saman pemula dalam Borang 5.\n\n(2) Saman pemula hendaklah, sebagai tambahan kepada perkara yang\ndinyatakan dalam subkaedah 2(1)—\n\n(a) menyatakan nama dan tempat perniagaan yang biasa atau\ntempat perniagaan terakhir yang diketahui bagi pemohon\ndan responden terhadap siapa ia hendak men guatkuasakan\nkeputusan adjudikasi, masing-masing; dan\n\n(b) menyatakan sama ada keputusan adjudikasi itu masih\nbelum dipatuhi atau setakat mana  ia masih belum dipatuhi\npada tarikh permohonan.\n\n(3) Pemohon hendaklah memfailkan melalui afidavit, keterangan\nbertulis yang dia bercadang untuk bergantung apabila dia memfailkan saman\npemulanya, termasuk mengekshibitkan keputusan adjudikasi yang asal atau\nsalinan yang telah diakui sah dan sekiranya keputusan adjudikasi adalah dalam\nbahasa selain daripada bahasa kebangsaan atau b ahasa Ingge ris, suatu\nterjemahannya dalam b ahasa Inggeris, yang diperakui sebagai suatu\nterjemahan yang betul oleh penterjemah bersumpah.\n\n(4) Saman pemula dan afidavit hendaklah disampaikan kepada\nresponden.\n\nPenyampaian di luar bidang kuasa (A.69A, k. 6)\n6. (1) Mahkamah boleh memberikan kebenaran untuk menyampaikan\nsuatu saman pemula di luar bidang kuasa  berkenaan apa-apa permohonan yang\ndibuat di bawah Akta.\n\n(2) Suatu permohonan untuk mendapatkan kebenaran di bawah\nsubkaedah (1) hendaklah disokong dengan keterangan bertulis—\n\n(a) menyatakan alasan permohonan itu dibuat; dan\n\n(b) menyatakan tempat atau negara mana orang yang hendak\ndisampaikan itu dapat dijumpai atau mungkin boleh\ndijumpai.\n\n(3) Aturan 11, kaedah 5, 6 dan  8 hendaklah terpakai berhubung\ndengan penyampaian bagi saman pemula di luar bidang kuasa yang dibuat\ndi bawah Akta, atau apa-apa perintah yang dibuat dalam permohonan itu.\n\nNotis (A.69A, k. 7)\n7. Jika notis hendak diberi kepada seorang adjudikator atau Pengarah\nKLRCA, notis itu boleh diberikan dengan menghantar kepadanya sesalinan—\n\n(a) saman pemula; dan\n\n(b) apa-apa afidavit atau keterangan bertulis sokongan.\".\n\nPenggantian Lampiran C\n6. Kaedah-Kaedah ibu dipinda dengan menggantikan Lampiran C dengan lampiran\nyang berikut:\n\n\"LAMPIRAN C\nSENARAI UNDANG-UNDANG YANG DIKECUALIKAN\n\n(1)\nNo.\n(2)\nProsiding\n\n(3)\nUndang-Undang bertulis\n\n1. Prosiding kebankrapan Akta Insolvensi 1967 [Akta 360]\n2. Prosiding yang berhubungan dengan penggulungan syarikat dan\npengurangan modal\n\nAkta Syarikat 2016 [Akta 777]\n3. Prosiding jenayah Kanun Tatacara Jenayah                        [Akta 593]\n\n(1)\nNo.\n(2)\nProsiding\n\n(3)\nUndang-Undang bertulis\n\n4. Prosiding di bawah Akta Kesalahan Pilihan Raya 1954 Akta Kesalahan Pilihan Raya 1954 [Akta 5]\n\n5. Prosiding hal ehwal suami isteri Akta Membaharui Undang-Undang (Perkahwinan dan Perceraian)\n1976 [Akta 164]\n\n6. Rujukan tanah Akta Pengambilan Tanah 1960 [Akta 486]\n\n7. Penerimaan masuk ke Bar Akta Profesion Undang -Undang 1976 [Akta 166]\nOrdinan Peguam Bela Sabah\n[Sabah Bab. 2]\nOrdinan Peguam  Bela Sarawak\n[Sarawak Bab. 110]\n\n8. Prosiding di bawah Akta Cukai Pendapatan 1967 Akta Cukai Pendapatan 1967   [Akta 53]"
+   }
+  },
+  {
+   "id": "MY-H3176-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "9. Prosiding di bawah Ordinan Pemegang Amanah (Perbadanan)\n1951 Sabah\nOrdinan Pemegang Amanah\n(Perbadanan) 1951  Sabah\n[Bab. 148]"
+   }
+  },
+  {
+   "id": "MY-H3176-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "10. Prosiding di bawah Ordinan Probet dan Pentadbiran 1947 Sabah  Ordinan Probet dan Pentadbiran 1947 Sabah [Bab. 109]"
+   }
+  },
+  {
+   "id": "MY-H3176-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "11. Prosiding di bawah Akta Cukai Keuntungan Harta Tanah 1976 Akta Cukai Keuntungan Harta Tanah 1976 [Akta 169]"
+   }
+  },
+  {
+   "id": "MY-H3176-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "12. Prosiding di bawah Akta Petroleum (Cukai Pendapatan) 1967 Akta Petroleum (Cukai Pendapatan) 1967 [Akta 543]"
+   }
+  },
+  {
+   "id": "MY-H3176-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "13. Prosiding di bawah Akta Institusi Kewangan Pembangunan 2002 Akta Institusi Kewangan Pembangunan 2002 [Akta 618]"
+   }
+  },
+  {
+   "id": "MY-H3176-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "14. Prosiding di bawah Akta Syarika t Amanah 1949 Akta Syarikat Amanah 1949       [Akta 100]"
+   }
+  },
+  {
+   "id": "MY-H3176-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "15. Prosiding di bawah Akta (Larangan) Kumpulan Wang Kutu 1971  Akta (Larangan) Kumpulan Wang Kutu 1971 [Akta 28]\n\n      \".\n\nDibuat 7 Februari 2018\n[PKPMP.BD/100-1/4/5; PN(PU2)119/III]\n\nJawatankuasa Kaedah-Kaedah:\n\nTUN MD RAUS BIN SHARIF\nKetua Hakim Negara, Malaysia\n\nTAN SRI DATO' SERI ZULKEFLI BIN AHMAD MAKINUDIN\nPresiden Mahkamah Rayuan, Malaysia\n\nTAN SRI DATUK WIRA AHMAD BIN HJ. MAAROP\nHakim Besar Mahkamah Tinggi di Malaya\n\nTAN SRI DATUK SERI PANGLIMA RICHARD MALANJUM\nHakim Besar Mahkamah Tinggi di Sabah dan Sarawak\n\nTAN SRI DATO' SRI HAJI MOHAMED APANDI BIN ALI\nPeguam Negara, Malaysia\n\nTAN SRI ZAHARAH BINTI IBRAHIM\nHakim Mahkamah Persekutuan\n\nDATO' SETIA HAJI MOHD ZAWAWI BIN SALLEH\nHakim Mahkamah Rayuan\n\nDATUK HAJAH AZIZAH BINTI HJ. NAWAWI\nHakim Mahkamah Tinggi di Malaya\n\nTUAN RAVINTHRAN N.PARAMAGU\nHakim Mahkamah Tinggi di Sabah dan Sarawak\n\nTUAN AHMAD KAMAR BIN JAMALUDIN\nHakim Kanan Mahkamah Sesyen, Kuala Lumpur\n\nENCIK GEORGE VARUGHESE\nPeguam bela, Semenanjung Malaysia\n\nENCIK BRENNDON KEITH SOH\nPeguam bela, Sabah\n\nENCIK RANBIR SINGH SANGHA\nPeguam bela, Sarawak\n\nJawatankuasa Kaedah-Kaedah Mahkamah Rendah:\n\nTUN MD RAUS BIN SHARIF\nKetua Hakim Negara, Malaysia\n\nTAN SRI DATO' SERI ZULKEFLI BIN AHMAD MAKINUDIN\nPresiden Mahkamah Rayuan, Malaysia\n\nTAN SRI DATUK WIRA AHMAD BIN HJ. MAAROP\nHakim Besar Mahkamah Tinggi di Malaya\n\nTAN SRI DATUK SERI PANGLIMA RICHARD MALANJUM\nHakim Besar Mahkamah Tinggi di Sabah dan Sarawak\n\nTAN SRI DATO' SRI HAJI MOHAMED APANDI BIN ALI\nPeguam Negara, Malaysia\n\nTAN SRI ZAHARAH BINTI IBRAHIM\nHakim Mahkamah Persekutuan\n\nDATO' SETIA HAJI MOHD ZAWAWI BIN SALLEH\nHakim Mahkamah Rayuan\n\nDATUK HAJAH AZIZAH BINTI HJ. NAWAWI\nHakim Mahkamah Tinggi di Malaya\n\nTUAN RAVINTHRAN N. PARAMAGU\nHakim Mahkamah Tinggi di Sabah dan Sarawak\n\nTUAN AHMAD KAMAR BIN JAMALUDIN\nHakim Kanan Mahkamah Sesyen, Kuala Lumpur\n\nENCIK GEORGE VARUGHESE\nPeguam bela, Semenanjung Malaysia\n\nENCIK BRENNDON KEITH SOH\nPeguam bela, Sabah\n\nENCIK RANBIR SINGH SANGHA\nPeguam bela, Sarawak\n\n[Akan dibentangkan di Dewan Rakyat menurut subseksyen 17(5) Akta Mahkamah\nKehakiman 1964 dan seksyen 8 Akta Kaedah-Kaedah Mahkamah Rendah 1955]\n\n           COURTS OF JUDICATURE ACT 1964\n\nSUBORDINATE COURTS RULES ACT 1955\n\nRULES OF COURT (AMENDMENT) 2018\n\nIN exercise of the powers conferred by section 17 of the\nCourts of Judicature Act 1964 [Act 91] and section 4 of the Subordinate Courts Rules  Act\n1955 [Act 55], and with the consent of the Chief Judge of the High Court in Malaya and\nthe Chief Judge of the High Court in Sabah and Sarawak, the Rules Committee and the\nSubordinate Courts Rules Committee make the following rules:\n\nCitation and commencement\n1. (1) These rules may be cited as the Rules of Court (Amendment) 2018.\n\n(2) These Rules come into operation on 1 March 2018.\n\nAmendment of Order 15\n2. The Rules of Court 2012 [ P.U. (A) 205/2012 ], which are referred to as the\n\"principal Rules\" in these Rules, is amended in Order 15 by inserting after rule 17 the\nfollowing rule:\n\n\"Petition to sue, defend or proceed as a pauper (O. 15, r. 18)"
+   }
+  },
+  {
+   "id": "MY-H3176-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "18. (1) Any poor person, before commencing or defending any action or\ninstituting any other proceeding in the Court in his own right, or becoming poor\nduring the progress thereof, may apply to the Court or a Judge  by orginating\nsummons for leave to sue, defend or proceed as a pauper.\n\n(2) The application shall set forth fully all the material facts of the case\nand shall state that the applicant is not possessed of property (excluding wearing\napparel and the subject matter of the proceedings) exceeding one thousand\nringgit in value, and shall be verified by the oath of the applicant.\n\n(3)  The Judge shall make such enquiry as he may think proper as to\nthe means of the applicant and may require him to attend to answer questions on\noath or affirmation.\n\n(4) A copy of the application shall be served on the other party to the\naction or proceeding, or on the intended opposite party to the projected action or\nproceeding, as the case may be, and he shall be entitled to be heard thereon.\n\n(5) If satisfied that the  applicant's means are as alleged in the\napplication, the Court or a Judge may refer the application to a solicitor who shall\nmake a report in writing, addressed to the Judge, stating whether in his opinion\nthe applicant has a good cause of action or a good defence, as the case may be.\n\n(6) On receipt of such report, the Court or a Judge  may admit the\npetitioner applicant (here inafter called the \"pauper\") to sue or defend, as the\ncase may be, as a pauper and shall thereupon appoint a solicitor (hereinafter\ncalled the \"pauper's solicitor\") to represent such pauper.\n\n(7)  A pauper's solicitor shall not refuse to act unless he satisfies th e\nCourt or a Judge that he has good reason for refusal.\n\nNo Court fees to be charged (O. 15, r. 19)"
+   }
+  },
+  {
+   "id": "MY-H3176-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "19. (1) No Court fees shall be charged in respect of any application under\nrule 18, nor, except as is hereinafter provided, shall any pauper be liable for any\nCourt fees.\n\n  (2) When costs have been awarded to be paid to a  pauper, the fees of\nthe Court which would have been payable by him if not a pauper shall be a first\ncharge upon any sums recovered by him in the action.\n\n  (3) When any sum has been recover ed by him and not applied in\npayment of such fees of Court as aforesaid, the Judge may refuse to allow any\n\nfurther proceedings on behalf of such pauper to be taken in such action until the\nsum recovered has been applied in payment of such fees.\n\nPauper's solicitor not to take fees (O. 15, r. 20)"
+   }
+  },
+  {
+   "id": "MY-H3176-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "20. (1) Subject to the provisions of rules 23 and 24 of this Order, a\npauper's solicitor shall not take or agree to take or seek to obtain from the\npauper any fee, profit or reward for the conduct of the proceedings in the cause\nor matter.\n\n  (2) If it appears to the Court or a Judge  that any pauper has given or\nagreed to give any such fee, profit or reward, he shall be forthwith dispaupered\nand shall not afterwards be admitted to sue or defend as a pauper in the same\ncause or matter.\n\nLeave of Court or Judge to di scontinue, settle or compromise proceeding\n(O. 15, r. 21)"
+   }
+  },
+  {
+   "id": "MY-H3176-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "21. (1) No pauper and no pauper's solicitor in any proceedi ngs shall\ndiscontinue, settle or  compromise such proceedings without the leave of t he\nCourt or a Judge.\n\n  (2) No pauper shall discharge his solicitor without the leave of the\n Court or a Judge.\n\n(3) No pauper's solicitor shall be at liberty to discontinue his services\nunless he satisfies the Court or a Judge  that he has reasonable grounds f or so\ndiscontinuing.\n\nOriginating summons to be signed by solicitor (O. 15, r. 22)"
+   }
+  },
+  {
+   "id": "MY-H3176-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "22. Every application on behalf of a pauper (except an application for the\ndischarge of his solicitor) shall be signed by his solicitor.\n\nCosts (O. 15, r. 23)"
+   }
+  },
+  {
+   "id": "MY-H3176-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "23. (1) Unless the Court or a Judge  shall otherwise order, no pauper shall\nbe liable to pay costs to any other party, or be entitled to receive from any other\nparty any profit costs or charges,  and where costs are ordered to be paid to a\npauper they shall be taxed, and on  such taxation the Judge may allow any out -of-\npocket expenses (but not office expenses) properly incurred in the course of the\nproceedings.\n\n  (2) Where it appears to the Court or a Judge that the special\ncircumstances of the case require it, the Court or a Judge  may order that such\ncosts shall include profit costs and charges, but not fees to counsel.\n\nSolicitor's fees out of any money received by pauper (O. 15, r. 24)"
+   }
+  },
+  {
+   "id": "MY-H3176-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "24. The Court or a Judge may order payment to the pauper's solicitor, out of\nany money recei ved by the pauper in the cause, or may charge in favour of the\npauper's solicitor any property so recovered by a pauper, of or with such sum in\nrespect of costs (not including fees of counsel) as would have been allowed to the\npauper's solicitor on taxatio n between himself and his client if he had been\nretained by his client in the ordinary manner (less such amount as may be\nrecovered from any other party) or such other sum in respect of costs as to the\nCourt or a Judge may seem fit, provided that the total  amount so to be paid out\nfor profit costs, or so charged upon the said property for profit costs, shall not in\neither case exceed one fourth of the amount or value recovered and remaining\nafter the deduction of all proper disbursements made by the pauper's solicitor.\n\nAppeal as a pauper (O. 15, r. 25)"
+   }
+  },
+  {
+   "id": "MY-H3176-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "25. The preceding rules relating to paupers shall apply to persons who, not\nhaving sued or defended as paupers in a Court of first instance, desire to appeal\nas paupers to the  appellate Court , and to paupers who are respondents to any\nappeal, but no person who has been admitted to sue or defend as a pauper in any\nproceedings shall be admitted to appeal as a pauper to the appellate Court\nwithout the leave of a appellate Court , and in case of his being so admitted, he\nshall not be required to give security for costs of the appeal.\n\nDeprivation of privilege as a pauper (O. 15, r. 26)"
+   }
+  },
+  {
+   "id": "MY-H3176-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "26. (1) Any person admitted under these R ules to sue or defend as a\npauper in any Court may for any sufficient reason be deprived by the Cour t\nbefore whom the proceedings are pending of all the privileges of such admission.\n\n  (2) Any such order may be made of the Court's own motion or on\napplication by another party to the proceedings.\".\n\nNew Order 31A\n3. The principal Rules are amended by inserting after Order 31 the following Order:\n\n\"Order 31A\ne-LELONG SYSTEM\n\nDefinition (O. 31A, r. 1)\n1. In this Order—\n\n\"authentication code\" means any identification or identifying code,\npassword or any other authentication method or procedure which has been\nassigned b y the Registrar for the purpose of identifying and authenticating the\naccess to, and use of the e-Lelong System;\n\n\"identification name\" means the identification name assigned by the\nRegistrar pursuant to subrule 5(1);\n\n\"registered user\" means any person o r entity who has been registered by\nthe Registrar to gain access to and to use the e-Lelong System pursuant to rule 4;\n\n\"e-Lelong Operation Centre\" means a System Administrator Unit headed\nby the Registrar authorized to be established in pursuance of rule 3 for the\npurpose of administration of the e-Lelong System;\n\n\"e-Lelong System\" means a centralized system of electronic public auction\nfor the sales of immovable property established in pursuant to rule 2.\n\nEstablishment of e-Lelong System (O. 31A, r.2)\n2. The Registrar may, with the approval of the Chief Justice, establish\na centralized system of electronic public auction to be known as e-Lelong System\nfor sales of immovable property and for matters connected therewith.\n\nEstablishment of e-Lelong Operation Centre (O. 31A, r.3)\n3. An operation centre for the sales of immovable property t o be known as\ne-Lelong Operation Centre is established.\n\nRegistered User (O.31A, r.4)\n4. (1) Any person or entity may apply to the Registrar to be a registere d\nuser in accordance with any procedures and on payment of such fees as may be\nprescribed in any practice directions issued by the Registrar.\n\n(2) An application to become a registered u ser is subject to terms and\nconditions and any restrictions relating to e-Lelong System.\n\nAuthentication Code (O.31A, r.5)\n5. (1) Before using the e –Lelong System, the registered u ser shall apply\nto the Registrar for identification names and authentication codes to be assigned\nto him.\n\n(2) The registered user shall register his particulars with the Registrar\nand acknowledge in writing safe receipt of the identification name and\nauthentication code assigned to him by the Registrar.\n\n(3) The registered u ser shall inform the Registrar in writing of any\nchange of his particulars.\n\nSecurity of authentication code (O.31A, r.6)\n6. The Registered User shall ensure the confidentiality and security of his\nauthentication code and shall not —\n\n(a) divulge his authentication code to any other person; or\n\n(b) permit any other person to use his authentication code.\n\ne-Lelong System (O.31A, r.7)\n7. (1) In any cause or matter relating to any immovable property where\nit appears necessary or expedient for the purposes of the cause or matter that\nthe immovable property or any part thereof should be so ld, the Court may order\nthat the sale shall be by way of e-Lelong System.\n\n(2) Any party bound by the Court's order under subrule (1) and in\npossession of that immovable property or part of that immovable property, or in\nreceipt of the rents and profits th ereof, may be compelled to deliver up such\npossession or receipt to the purchaser or to such other person as the Court\nmay order.\n\n(3) Where the Court's order is made, whether in Court or in Chambers,\nordering any immovable property to be sol d, the Court may order that the\nimmovable property be sold in such manner as the Court may order or direct\nsubsequently for the best price that can be obtained, and all proper parties shall\njoin in the sale and conveyance as the Court may order or direct.\n\n(4) Without prejudice to the generality of the words sale of immovable\nproperty by way of e -Lelong System, the Court may give such orders or\ndirections as it thinks fit for the purpose of effecting the sale, including—\n\n(a) fixing the manner of sale;\n\n(b) fixing a reserve or minimum price;\n\n(c) requiring payment of the purchase money into Court or to\ntrustees or other persons;\n\n(d) settling the particulars and conditions of sale;\n\n(e) obtaining evidence of the value of the property; and\n\n(f) requiring the title to be referred to a solicitor for his\nopinion thereon and to settle the particulars and condition\nof sale.\n\n(5) Unless the Registrar otherwise directs, all sales shall be by  way of\ne-Lelong System between the hours of 9 a.m. to 4 p.m. and a notice of the day,\nhour and place of any intended sale shall be seven days before the sale —\n\n(a) uploaded on the e-Lelong website; and\n\n(b) advertised once in the local newspaper and so far as\npracticable at the place of the intended sale.\n\n (6) The form or format of any specified documents relating to e-Lelong\nSystem shall be as prescribed in the practice directions issued by the Registrar,\nand shall in the absence of such prescription, be in the form as prescribed by\nOrder 1, rule 7.\n\nExecution fee (O.31A, r.8)\n8.  The Plaintiff shall pay  an execution fee equivalent to three per centum of\nthe reserved price of the immovable property or at such rate as the Chief Justice\nmay from time to time determined.\".\n\nAmendment of Order 55 rule 3\n4. Order 55 of the principal Rules is amended in rule 3 by deleting subrule (3).\n\nNew Order 69A\n5. The principal Rules are amended by inserting after Order 69 the following Order:\n\n\"Order 69A\nADJUDICATION PROCEEDINGS\n\nInterpretation (O.69A, r. 1)\n1. (1) In this Order, \"Act\" means the  Construction Industry Payment and\nAdjudication Act 2012 [Act 746].\n\n  (2) Expressions used in this Order which are used in the Act have the\nsame meanings in this Order as in the Act.\n\n(3) This Order applies to proceedings in the High Court.\n\nApplication under the Act (O.69A, r.2)\n2. (1) An applicat ion to which this Order applies may be made by\noriginating summons in Form 5 which shall—\n\n(a) state in its intitulement any provision of these Rules and\nany provision of the Act under which the Court is being\nmoved;\n\n(b) include a concise statement of—\n\n(i) the remedy claimed; and\n\n(ii) any question on which the applicant seeks the\ndecision of the Court;\n\n(c) state the grounds in support of the originating summons;\n\n(d) show that any statutory requirements have been met;\n\n(e) specify the section of the Act under which the application is\nmade;\n\n(f) specify the respondents on whom the originating summons\nis to be served, stating their role in the adjudication; and\n\n(g) identify against which, if any, respondents an order of costs\nis sought.\n\n  (2) The applicant shall file by affidavit, written evidence on which he\nintends to rely when he files his originating summons.\n\n(3) Unless the Court orders otherwise, an originating summons and\nthe affidavit shall be served on the respondents specified in subparagraph (1) (f),\nwithin thirty days from the date of issue.\n\n  (4) Where relevant, rules 3 to 5 shall additionally apply.\n\nApplication to set aside an adjudication decision (O. 69A, r. 3)\n3. (1) In every application to set aside an adjudication decision under\nsection 15 of the Act, the originating summons shall, in addition to the matters\nstated in subrule 2(1)—\n\n(a) give details of the adjudication decision challenged;\n\n(b) identify which part or parts of the adjudication decision are\nchallenged; and\n\n(c) specify the grounds on which it  is contended that the\nadjudication decision should be set aside.\n\n(2) The applicant shall file by affidavit, written evidence on which he\nintends to rely when he files his originating summons, including a copy of the\nadjudication decision.\n\n(3) The originating su mmons and affidavit must be served on the\nrespondent and notice shall be given to the Director of the KLRCA and the\nadjudicator under rule 7.\n\n (4) An application to set aside an adjudication decision shall be filed in\nCourt before the application for enfo rcement of the adjudication decision under\nrule 5 has been disposed of by the High Court.\n\nApplication to stay an adjudication decision (O.69A, r. 4)\n4. (1) An application for a stay of an adjudication decision under\nsection 16 of the Act must be supported by an affidavit which must—\n\n(a) have exhibited to it a copy of the adjudication decision and\nany other document relied on by the applicant;\n\n(b) show that an application to set aside the adjudication\ndecision under section 15 has been made  or the subject\nmatter of the adjudication decision is pending\ndetermination by arbitration or the Court;\n\n(c) state the grounds on which it is contended that the\nadjudication decision should be stayed; and\n\n(d) set out the evidence relied on by the applicant.\n\n(2) An application to which this rule applies must be made —\n\n(a) where an action under rule 3 is pending, by way of notice of\napplication in the action; and\n\n(b) in any other case, by originating summons.\n\nApplication for the enforcement of an adjudication decision (O.69A, r. 5)\n5. (1) An application for permission to enforce an adjudication decision,\neither wholly or partly, in the same manner as a judgment or an order of the High\nCourt under section 28 of the Act may be made by originating summons i n\nForm 5.\n\n(2) The originating summons shall, in addition to the matters stated in\nsubrule 2(1)—\n\n(a) state the name and the usual or last known place of\nbusiness of the applicant and the respondent against whom\nit is sought to enforce the adjud ication decision,\nrespectively; and\n\n(b) state either the adjudication decision has not been complied\nwith or the extent to which it has not been complied with at\nthe date of the application.\n\n(3) The applicant shall file by affidavit, written evidence on whic h he\nintends to rely when he files his originating summons, including exhibiting the\noriginal adjudication decision or a certified true copy and if  the adjudication\ndecision i s in a language other than the n ational l anguage or in English\nlanguage, a transl ation of it in the English language, duly certified as a correct\ntranslation by a sworn translator.\n\n(4) The originating summons and affidavit must be served on the\nrespondent.\n\nService out of the jurisdiction (O.69A, r. 6)\n6. (1) The Court may give permi ssion to serve an originating summons\nout of the jurisdiction in respect of any application made under the Act.\n\n(2) An application for permission under subrule (1) shall be supported\nby written evidence—\n\n(a) stating the grounds on which the application is made; and\n\n(b) stating the place or country the person to be served is to be\nfound or probably may be found.\n\n(3) Order 11, rules 5, 6 and 8 shall apply in relation to the service out\nof jurisdiction of the originating summons made under the Act, or any orde r\nmade in such application.\n\nNotice (O.69A, r. 7)\n7. Where notice shall be given to an adjudicator or the Director of KLRCA,\nthe notice may be given by sending him a copy of—\n\n(a) the originating summons; and\n\n(b) any affidavit or written evidence in support.\".\n\nSubstitution of Appendix C\n6. The principal Rules  are amended by substituting for Appendix C the following\nappendix:\n\n\"APPENDIX C\nLIST OF EXEMPTED LAWS\n\n(1)\nNo.\n\n(2)\nProceedings\n\n(3)\nWritten Law\n1. Bankruptcy proceedings\n\nInsolvency Act 1967 [Akta 360]\n2. Proceedings relating to the winding\nup of companies and capital reduction\n\nCompanies Act 2016 [Act 777]\n\n(1)\nNo.\n\n(2)\nProceedings\n\n(3)\nWritten Law\n3. Criminal proceedings\n\nCriminal Procedure Code [Act 593]\n4. Proceedings under the Elections\nOffences Act 1954\n\nElections Offences Act 1954 [Act 5]\n5. Matrimonial proceedings Law Reform (Marriage and\nDivorce) Act 1976 [Act 164]\n\n6. Land reference Land Acquisition Act 1960\n[Act 486]\n\n7. Admission to the Bar Legal Profession Act 1976\n[Act 166]\nAdvocates Or dinance of Sabah\n[Sabah Cap. 2]\nAdvocates Ordinance of Sarawak\n[Sarawak Cap. 110]\n\n8. Proceedings under the Income\nTax Act 1967\n\nIncome Tax Act 1967 [Act 53]\n9. Proceedings under the Sabah\nTrustees (Incorporation) Ordinance\n\nSabah Trustees (Incorpor ation)\nOrdinance 1951 [Cap. 148]\n\n10. Proceedings under the Sabah Probate\nand Administration Ordinance 1947\n\nSabah Probate and Administration\nOrdinance 1947 [Cap. 109]\n11. Proceedings under the Real Property\nGains Tax Act 1976\nReal Property Gains Tax Ac t 1976\n[Act 169]\n\n12. Proceedings under the Petroleum\n(Income Tax) Act 1967\n\nPetroleum (Income Tax) Act 1967\n[Act 543]\n13. Proceedings under the Development\nFinancial Institutions Act 2002\n\nDevelopment Financial\nInstitutions Act 2002 [Act 618]\n14. Proceedings under the Trust\nCompanies Act 1949\n\nTrust Companies Act 1949\n[Act 100]\n15. Proceedings under the Kootu Funds\n(Prohibition) Act 1971\nKootu Funds (Prohibition) Act\n1971 [Act 28]\n\".\n\nMade 7 February 2018\n[PKPMP.BD/100-1/4/5; PN(PU2)119/III]\n\nRules Committee:\n\nTUN MD RAUS BIN SHARIF\nChief Justice, Malaysia\n\nTAN SRI DATO' SERI ZULKEFLI BIN AHMAD MAKINUDIN\nPresident of the Court of Appeal, Malaysia\n\nTAN SRI DATUK WIRA AHMAD BIN HJ. MAAROP\nChief Judge of the High Court in Malaya\n\nTAN SRI DATUK SERI PANGLIMA RICHARD MALANJUM\nChief Judge of the High Court in Sabah and Sarawak\n\nTAN SRI DATO' SRI HAJI MOHAMED APANDI BIN ALI\nAttorney General, Malaysia\n\nTAN SRI ZAHARAH BINTI IBRAHIM\nJudge of the Federal Court\n\nDATO' SETIA HAJI MOHD ZAWAWI BIN SALLEH\nJudge of the Court of Appeal\n\nDATUK HAJAH AZIZAH BINTI HJ. NAWAWI\nJudge of the High Court in Malaya\n\nTUAN RAVINTHRAN PARAMAGU\nJudge of the High Court in Sabah and Sarawak\n\nTUAN AHMAD KAMAR BIN JAMALUDIN\nSenior Sessions Court Judge, Kuala Lumpur\n\nENCIK GEORGE VARUGHESE\nAdvocate, Peninsular Malaysia\n\nENCIK BRENNDON KEITH SOH\nAdvocate, Sabah\n\nENCIK RANBIR SINGH SANGHA\nAdvocate, Sarawak\n\nSubordinate Courts Rules Committee:\n\nTUN MD RAUS BIN SHARIF\nChief Justice, Malaysia\n\nTAN SRI DATO' SERI ZULKEFLI BIN AHMAD MAKINUDIN\nPresident of the Court of Appeal, Malaysia\n\nTAN SRI DATUK WIRA AHMAD BIN HJ. MAAROP\nChief Judge of the High Court in Malaya\n\nTAN SRI DATUK SERI PANGLIMA RICHARD MALANJUM\nChief Judge of the High Court in Sabah and Sarawak\n\nTAN SRI DATO' SRI HAJI MOHAMED APANDI BIN ALI\nAttorney General, Malaysia\n\nTAN SRI ZAHARAH BINTI IBRAHIM\nJudge of the Federal Court\n\nDATO' SETIA HAJI MOHD ZAWAWI BIN SALLEH\nJudge of the Court of Appeal\n\nDATUK HAJAH AZIZAH BINTI HJ. NAWAWI\nJudge of the High Court in Malaya\n\nTUAN RAVINTHRAN N.PARAMAGU\nJudge of the High Court in Sabah and Sarawak\n\nTUAN AHMAD KAMAR BIN JAMALUDIN\nSenior Sessions Court Judge, Kuala Lumpur\n\nENCIK GEORGE VARUGHESE\nAdvocate, Peninsular Malaysia\n\nENCIK BRENNDON KEITH SOH\nAdvocate, Sabah\n\nENCIK RANBIR SINGH SANGHA\nAdvocate, Sarawak\n\n[To be laid before the Dewan Rakyat pursuant to subsection 17(5) of the\nCourts of Judicature Act 1964 and section 8 of the Subordinate Courts Rules Act 1955]"
+   }
+  }
+ ]
+}

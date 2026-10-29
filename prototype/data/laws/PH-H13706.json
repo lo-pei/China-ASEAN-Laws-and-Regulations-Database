@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13706",
+ "title": {
+  "zh": null,
+  "en": "An Act to Provide Additional Penalties for Habitual Delinquents",
+  "orig": "An Act to Provide Additional Penalties for Habitual Delinquents"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1923-02-17",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3062",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 663,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1923/act_3062_1923.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03062_1923_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03062_1923_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13706-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Any person who has twice or oftener been convicted of the crime of theft or robbery the day on\nwhich he completed service of his last sentence, shall be deemed a habitual delinquent and shall suffer the\npenalty provided by law for the last crime committed and an additional penalty equivalent to one-half of the\npenalty imposed therefor, and the penalty herein provided shall be imposed upon such habitual delinquent\nevery time thereafter he shall commit either of said misdemeanors prior to the expiration of ten years from and\nafter the date on which he completed serving his last sentence."
+   }
+  },
+  {
+   "id": "PH-H13706-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, February 17, 1923"
+   }
+  }
+ ]
+}

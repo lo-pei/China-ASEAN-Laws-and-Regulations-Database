@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13159",
+ "title": {
+  "zh": null,
+  "en": "An Act to Prevent the Spread of Hydrophobia or Rabies and Providing Punishment for Infraction of the Provisions of this Act.",
+  "orig": "An Act to Prevent the Spread of Hydrophobia or Rabies and Providing Punishment for Infraction of the Provisions of this Act."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1915-02-04",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2461",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1331,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1915/act_2461_1915.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02461_1915_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02461_1915_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13159-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "When it shall appear to the Director of Health that rabies exists among dogs or other animals in\nany community in such a degree as to constitute a grave menace to the public health, he shall, with the\napproval of the Secretary of the Interior, give publicity to such fact by publication of a notice in a local\nnewspaper, if any there be, and also by posting the same in one or more prominent places in the community.\nSuch notice shall describe the locality of infection, and it shall advise the owners of dogs or other animals\nliable to contract or convey the disease effectually to muzzle or otherwise restrain said animals for such period\nof time as shall be defined in said notice.\nNotice so published shall have the same legal effect as a sanitary regulation of the Bureau of Health, and any\nowner or person having control or possession of any dog or other animal referred to in said notice who shall\nfail to muzzle or restrain the same as above required shall be punished by imprisonment of not more than six\nmonths or by a fine of not to exceed two hundred pesos, or both, without prejudice to civil liability for any\ndamage that may be done to the person or property of another by reason of rabies or hydrophobia having been\ncommunicated from such animal."
+   }
+  },
+  {
+   "id": "PH-H13159-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, February 4, 1915."
+   }
+  }
+ ]
+}

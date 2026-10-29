@@ -1,0 +1,72 @@
+{
+ "id": "PH-H10733",
+ "title": {
+  "zh": null,
+  "en": "AN ACT TO REORGANIZE THE OFFICE OF THE AUDITOR OF THE ISLANDS.",
+  "orig": "AN ACT TO REORGANIZE THE OFFICE OF THE AUDITOR OF THE ISLANDS."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 20",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1600,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_00020_1900_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_00020_1900_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H10733-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Until further provision shall be made by law, the Office of the Auditor of the Islands shall be\nconducted by the following officers and employees at the following salaries stated in money of the United\n1. The Auditor for the Islands at an annual salary of four thousand dollars.\n2. One First Assistant Auditor at an annual salary of three thousand dollars.\n3. One Second Assistant Auditor at an annual salary of two thousand seven hundred and fifty dollars.\n4. One first-class clerk and statistician at an annual salary of one thousand eight hundred dollars.\n5. One chief bookkeeper at an annual salary of one thousand five hundred dollars.\n6. Three examiners at annual salaries of one thousand four hundred dollars each.\n7. One assistant bookkeeper at an annual salary of one thousand two hundred dollars.\n8. Three stenographers at annual salaries of one thousand two hundred dollars each.\n9. Three clerks at annual salaries of one thousand two hundred dollars each.\n10. Three clerks at annual salaries of six hundred dollars each."
+   }
+  },
+  {
+   "id": "PH-H10733-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "In addition to other duties required by law the Auditor shall, for statistical and other purposes,\nprovide and keep books and records, showing in detail and by tabular analysis the source of the revenues of\nthe Military Government of the Islands and the objects to which the same have been appropriated and\ndisbursed as taken from the vouchers on file in bis office and shall make monthly, quarterly, and annual\nreports of the same to the Commission for its guidance in making future appropriations."
+   }
+  },
+  {
+   "id": "PH-H10733-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, October 10, 1900."
+   }
+  }
+ ]
+}

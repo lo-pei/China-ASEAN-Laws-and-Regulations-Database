@@ -1,0 +1,72 @@
+{
+ "id": "PH-H11733",
+ "title": {
+  "zh": null,
+  "en": "AN ACT APPROPRIATING THE SUM OF TWENTY THOUSAND DOLLARS, IN MONEY OF THE UNITED STATES, TO BE DISBURSED BY THE DISBURSING AGENT OF THE GOVERNMENT OF THE PHILIPPINE ISLANDS RESIDENT IN WASHINGTON, DISTRICT OF COLUMBIA.",
+  "orig": "AN ACT APPROPRIATING THE SUM OF TWENTY THOUSAND DOLLARS, IN MONEY OF THE UNITED STATES, TO BE DISBURSED BY THE DISBURSING AGENT OF THE GOVERNMENT OF THE PHILIPPINE ISLANDS RESIDENT IN WASHINGTON, DISTRICT OF COLUMBIA."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 1021",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 919,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_01021_1903_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_01021_1903_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H11733-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "There is hereby appropriated, out of any funds in the Insular Treasury not otherwise appropriated,\nthe sum of twenty thousand dollars, in money of the United States, to be paid to the disbursing agent of the\nGovernment of the Philippine Islands, resident in Washington, District of Columbia, appointed under Act\nNumbered One hundred and twenty-nine. The sum hereby appropriated shall be devoted to the payment of\nsuch bills of the Civil Government of the Philippine Islands as may be, or may have been, approved by the\nSecretary of War, or ordered paid by the Civil Governor."
+   }
+  },
+  {
+   "id": "PH-H11733-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The public good requiring the speedy enactment of this bill, the passage of the same is hereby\nexpedited in accordance with section two of \"An Act prescribing the order of procedure by the Commission\nin the enactment of laws,\" passed September twenty-sixth, nineteen hundred."
+   }
+  },
+  {
+   "id": "PH-H11733-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, December 7, 1903."
+   }
+  }
+ ]
+}

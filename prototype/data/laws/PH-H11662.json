@@ -1,0 +1,92 @@
+{
+ "id": "PH-H11662",
+ "title": {
+  "zh": null,
+  "en": "AN ACT APPROPRIATING THE SUM OF TWO THOUSAND FIVE HUNDRED PESOS, PHILIPPINE CURRENCY, TO BE USED IN THE SUPPRESSION OF EPIDEMIC OR CONTAGIOUS DISEASES IN THE PROVINCE OF CEBU, AND APPROPRIATING THE SUM OF SIX HUNDRED PESOS, PHILIPPINE CURRENCY, TOWARD THE CARE AND SUPPORT OF LEPERS IN THE PROVINCE OF OCCIDENTAL NEGROS.",
+  "orig": "AN ACT APPROPRIATING THE SUM OF TWO THOUSAND FIVE HUNDRED PESOS, PHILIPPINE CURRENCY, TO BE USED IN THE SUPPRESSION OF EPIDEMIC OR CONTAGIOUS DISEASES IN THE PROVINCE OF CEBU, AND APPROPRIATING THE SUM OF SIX HUNDRED PESOS, PHILIPPINE CURRENCY, TOWARD THE CARE AND SUPPORT OF LEPERS IN THE PROVINCE OF OCCIDENTAL NEGROS."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 949",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 5,
+ "chars": 1577,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_00949_1903_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 5 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_00949_1903_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H11662-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The sum of two thousand five hundred pesos, Philippine currency, or so much thereof as may be\nnecessary, is hereby appropriated out of any moneys in the Insular Treasury not otherwise appropriated, to be\nused by the Board of Health for the Philippine Islands in preventing and suppressing contagious or epidemic\ndiseases in the Province of Cebu; said sum to be disbursed by the provincial treasurer of the Province of\nCebu on vouchers approved by a committee to be appointed by the Board of Health for the Philippine Islands\nas its representative in immediate charge of the public health in said province."
+   }
+  },
+  {
+   "id": "PH-H11662-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "There is hereby appropriated, out of any funds in the Insular Treasury not otherwise appropriated,\nthe sum of six hundred pesos, Philippine currency, to be disbursed by the provincial treasurer of Occidental\nNegros on vouchers approved by the provincial board toward the care and support, of lepers in the province\nduring the fiscal year nineteen hundred and four."
+   }
+  },
+  {
+   "id": "PH-H11662-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "The moneys herein appropriated shall be withdrawn from the Insular Treasury on the requisition\nof the Commissioner of Public Health in favor of the provincial treasurers mentioned, and shall be accounted\nfor by them to the Insular Auditor as insular disbursements."
+   }
+  },
+  {
+   "id": "PH-H11662-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "The public good requiring the speedy enactment of this bill, the passage of the same is hereby\nexpedited in accordance with section two of \"An Act prescribing the order of procedure by the Commission\nin the enactment of laws,\" passed September twenty-sixth, nineteen hundred."
+   }
+  },
+  {
+   "id": "PH-H11662-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, October 20, 1903."
+   }
+  }
+ ]
+}

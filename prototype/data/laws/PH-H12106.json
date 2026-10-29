@@ -1,0 +1,72 @@
+{
+ "id": "PH-H12106",
+ "title": {
+  "zh": null,
+  "en": "AN ACT AUTHORIZING THE REMISSION OF THE LAND TAX FOR THE YEAR NINETEEN HUNDRED AND FIVE IN THE PROVINCE OF CEBU, EXCEPT IN THAT PORTION OF THE MUNICIPALITY OF CEBU NOT INCLUDED IN THE SO-CALLED \" BURNT AREA.",
+  "orig": "AN ACT AUTHORIZING THE REMISSION OF THE LAND TAX FOR THE YEAR NINETEEN HUNDRED AND FIVE IN THE PROVINCE OF CEBU, EXCEPT IN THAT PORTION OF THE MUNICIPALITY OF CEBU NOT INCLUDED IN THE SO-CALLED \" BURNT AREA."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 1395",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1060,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_01395_1905_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_01395_1905_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12106-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The land tax for the year nineteen hundred and five-in the Province of Cebu is hereby remitted:\nProvided, That there is excepted from the operation of this Act that portion of the municipality of Cebu not\nincluded in what is known as the \"burnt area,\" upon which excepted portion taxes as now assessed shall be\npaid and collected.\nSection 1. In all cases in which the land tax for the year nineteen hundred and five has been paid upon\nproperty upon which said tax is hereby remitted, it shall be the duty of the treasurer of said province to credit\nthe amount of such payment to the persons making the payment, and to apply these credits to taxes due for\nthe year nineteen hundred and six or some subsequent year."
+   }
+  },
+  {
+   "id": "PH-H12106-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "The public good requiring the speedy enactment of this bill, the passage of the same is hereby\nexpedited in accordance with section two of \"An Act prescribing the order of procedure by the Commission\nin the enactment of laws,\" passed September twenty-sixth, nineteen hundred."
+   }
+  },
+  {
+   "id": "PH-H12106-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\n\nEnacted, September 13, 1905."
+   }
+  }
+ ]
+}

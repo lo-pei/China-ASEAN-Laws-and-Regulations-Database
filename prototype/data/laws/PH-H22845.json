@@ -1,0 +1,72 @@
+{
+ "id": "PH-H22845",
+ "title": {
+  "zh": null,
+  "en": "Providing for Succession to the Offices of the President and the Prime Minister in the Implementation of the Constitutional Provisions on the Matter",
+  "orig": "Providing for Succession to the Offices of the President and the Prime Minister in the Implementation of the Constitutional Provisions on the Matter"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1978-06-11",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 1514",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 864,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_01514_1978_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_01514_1978_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22845-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "In case of permanent disability, death or resignation of the President (Prime Minister), the\nSpeaker of the Interim Batasang Pambansa shall act as President and perform the duties under Article VII of\nthe Constitution, and the Deputy Prime Minister, or if there be more than one, the Senior Deputy Prime\nMinister, shall act as Prime Minister, with the powers and functions prescribed under the Constitution, until\nthe Interim Batasang Pambansa elects from among its members a President and a Prime Minister."
+   }
+  },
+  {
+   "id": "PH-H22845-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The Speaker shall immediately convene or call to session the Interim Batasang Pambansa which\nshall elect a President and a Prime Minister in accordance with Articles VII, VIII and IX of the Constitution."
+   }
+  },
+  {
+   "id": "PH-H22845-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Decree shall take effect immediately.\nDone in the City of Manila, this 11th day of June, in the year of Our Lord, nineteen hundred and\nseventy-eight."
+   }
+  }
+ ]
+}

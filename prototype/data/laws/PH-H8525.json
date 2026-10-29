@@ -3,7 +3,11 @@
  "title": {
   "zh": "2010 年有机农业法",
   "en": "Organic Agriculture Act of 2010",
-  "orig": "Organic Agriculture Act of 2010 An Act Providing for the Development and Promotion of Organic Agriculture in the Philippines and for Other Purposes"
+  "orig": "Organic Agriculture Act of 2010 An Act Providing for the Development and Promotion of Organic Agriculture in the Philippines and for Other Purposes",
+  "vi": "Đạo luật Nông nghiệp Hữu cơ năm 2010",
+  "th": "พระราชบัญญัติเกษตรกรรมอินทรีย์ ค.ศ. 2010",
+  "id": "Undang-Undang Pertanian Organik Tahun 2010",
+  "ms": "Akta Pertanian Organik 2010"
  },
  "country": "PH",
  "countryName": "菲律宾",
@@ -28,14 +32,14 @@
  "structureMode": "ARTICLE",
  "structure": null,
  "articleCount": 32,
- "chars": 26870,
+ "chars": 26869,
  "source": {
   "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
   "url": "https://lawphil.net/statutes/repacts/ra2010/ra_10068_2010.html"
  },
  "sourceFile": null,
  "fetchedAt": "2026-10-06",
- "completenessNote": "全文，共 13 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra2010/ra_10068_2010.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。 源文条号不连续（自第 8 条起，止于第 32 条，缺 9、10、11、12、13、14、15、16、17、18、19、20）：经逐条比对原始页面，该处原文没有对应的 “Section N.” 抬头行，系来源页自身的编号跳跃或条文以“续段”形式并入前条，非抽取遗漏，故未擅自补号。",
+ "completenessNote": "全文，共 13 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra2010/ra_10068_2010.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。 源文条号不连续（自第 8 条起，止于第 32 条，缺 9、10、11、12、13、14、15、16、17、18、19、20）：经逐条比对原始页面，该处原文没有对应的 “Section N.” 抬头行，系来源页自身的编号跳跃或条文以“续段”形式并入前条，非抽取遗漏，故未擅自补号；已清除正文中的 1 个控制字符（C0/C1 区，法律文本中无合法用途，系 PDF 抽取/表单域残留）。",
  "textQuality": null,
  "ocrNoisySections": null,
  "pdfs": null,
@@ -347,7 +351,7 @@
     "en": "Section 24."
    },
    "text": {
-    "en": "Section 24. Incentives. - The government shall extend incentives for the production and propagation of organic farm inputs by maximizing their use in all government and government supported agricultural production, research and demonstration programs. Incentive shall also be provided to farmers whose farms have been duly certified as compliant to the Philippine National Standards (PNS). Further, the DA may give cash reward in recognition of the best organic farm in the country. The DA, the DAR, the DOST, the DILG, the Department of Trade and Industry (DTI), the DepED, the Department of Finance (DOF), the Land Bank of the Philippine (LBP), and other government lending and non-lending institutions shall also assist organic input producers and organic farmers through the provision of adequate financial, technical, marketing and other services and resources. These include, but shall not be limited to, the following:\n(a) Exemption from the payment of duties on the importation of agricultural equipment, machinery and implements as provided under Republic Act No. 9281, which amends Republic Act No. 8435 or the Agriculture and Fisheries Modernization Act (AFMA);\n(b) Identification by LGUs of local taxes that may be offered as incentives to organic input production and utilization;\n(c) Provision of preferential rates and special window to organic input producers and users by the LBP;\n(d) Subsidies for certification fees and other support services to facilitate organic certification;\n(e) Zero-rated value-added tax (VAT) on transactions involving the sale/purchase of bio-organic products, whether organic inputs or organic produce; and\n(f) Income tax holiday and exemption for seven (7) years, starting from the date of registration of organic food and organic input producers on all income taxes levied by the National Government.\r\nThe tax incentives shall be given only to purely organic agriculture entities/farmers and shall be subject to the accreditation of the BAFPS and periodic reporting by the BAFPS to the DOF: Provided, That the said incentives shall be available only to micro, small and medium enterprises as defined under Section 3 of Republic Act No. 9501 or the Magna Carta for Micro, Small and Medium Enterprises."
+    "en": "Section 24. Incentives. - The government shall extend incentives for the production and propagation of organic farm inputs by maximizing their use in all government and government supported agricultural production, research and demonstration programs. Incentive shall also be provided to farmers whose farms have been duly certified as compliant to the Philippine National Standards (PNS). Further, the DA may give cash reward in recognition of the best organic farm in the country. The DA, the DAR, the DOST, the DILG, the Department of Trade and Industry (DTI), the DepED, the Department of Finance (DOF), the Land Bank of the Philippine (LBP), and other government lending and non-lending institutions shall also assist organic input producers and organic farmers through the provision of adequate financial, technical, marketing and other services and resources. These include, but shall not be limited to, the following:\n(a) Exemption from the payment of duties on the importation of agricultural equipment, machinery and implements as provided under Republic Act No. 9281, which amends Republic Act No. 8435 or the Agriculture and Fisheries Modernization Act (AFMA);\n(b) Identification by LGUs of local taxes that may be offered as incentives to organic input production and utilization;\n(c) Provision of preferential rates and special window to organic input producers and users by the LBP;\n(d) Subsidies for certification fees and other support services to facilitate organic certification;\n(e) Zero-rated value-added tax (VAT) on transactions involving the sale/purchase of bio-organic products, whether organic inputs or organic produce; and\n(f) Income tax holiday and exemption for seven (7) years, starting from the date of registration of organic food and organic input producers on all income taxes levied by the National Government.\nThe tax incentives shall be given only to purely organic agriculture entities/farmers and shall be subject to the accreditation of the BAFPS and periodic reporting by the BAFPS to the DOF: Provided, That the said incentives shall be available only to micro, small and medium enterprises as defined under Section 3 of Republic Act No. 9501 or the Magna Carta for Micro, Small and Medium Enterprises."
    },
    "heading": {
     "en": "Incentives. - The government shall extend incentives for the production and propagation of organic farm inputs by maximi"

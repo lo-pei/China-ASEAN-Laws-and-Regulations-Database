@@ -1,0 +1,546 @@
+{
+ "id": "ID-H557",
+ "title": {
+  "zh": "公共银行法",
+  "en": "bank general Law",
+  "id": "bank umum",
+  "orig": "BANK UMUM",
+  "vi": "Luật ngân hàng công cộng",
+  "th": "พระราชบัญญัติ ธนาคาร ทั่วไป",
+  "ms": "Akta bank umum"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02c",
+ "language": "id",
+ "level": "law",
+ "category": "02_民商事与经济法",
+ "status": "active",
+ "promulgatedDate": "1992",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU70-1992",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 36,
+ "chars": 23181,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PP%20NO%2070%20TH%201992.pdf&fl=P03773"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\02_民商事与经济法\\印尼_文本_1992_BANK UMUM.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 37 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H557-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\n\n(1) Bank Umum hanya dapat di dirikan dan menjalankan usaha\ndengan izin Menteri Keuangan setelah mendengar pertimbangan\nBank Indonesia.\n(2) Bank Umum hanya dapat didirikan oleh:\n a. warga negara Indonesia; dan/atau\n b. badan hukum Indonesia yang sepenuhnya dimiliki warga negara\nIndonesia dan/atau badan hukum Indonesia; atau\n c. Bank Umum yang pendirinya pihak-pihak sebagaimana\ndimaksud dalam huruf a dan/atau huruf b dengan bank yang\nberkedudukan di luar negeri.\n(3) Bank Umum sebagaimana dima ksud dalam ayat (2) huruf c\ndisebut Bank Campuran."
+   }
+  },
+  {
+   "id": "ID-H557-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n(1) Modal disetor untuk mendirikan Bank Umum sebagaimana\ndimaksud dalam Pasal 1 ayat (2) huruf a dan/atau huruf b\nditetapkan sekurang-kurangnya Rp. 50.000.000.000,- (lima puluh\nmilyar rupiah).\n(2) Modal disetor untuk mendirik an Bank Campuran ditetapkan\nsekurang-kurangnya Rp. 100.000.000.000,- (seratus milyar\nrupiah).\n(3) Penyertaan pihak bank yang-ber kedudukan di luar negeri dalam\nBank Campuran ditetapkan sebesar-besarnya 85% (delapan puluh\nlima perseratus) dari modal disetor."
+   }
+  },
+  {
+   "id": "ID-H557-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\n\n(1) Bank Umum yang dapat ikut serta mendirikan Bank Campuran\nadalah bank sebagaimana dimaksud dalam Pasal 1 ayat (2) huruf\na dan/atau huruf b yang telah memenuhi persyaratan tingkat\nkesehatan dan permodalan bank yang ditetapkan oleh Menteri\nKeuangan setelah mendengar pertimbangan Bank Indonesia.\n(2) Bank yang berkedudukan di luar negeri dapat ikut serta\nmendirikan Bank Campuran apabila negara tempat kedudukan\nbank tersebut menganut asas resiprositas, dan bank yang\nberkedudukan di luar negeri tersebut memenuhi persyaratan lain\nyang ditetapkan oleh Menteri Keuangan setelah mendengar\npertimbangan Bank Indonesia.\n(3) Bank Campuran sebagaimana dimaksud dalarn Pasal 2 ayat (3)\nharus memiliki perjanjian antarpemegang saham pendiri yang\nmemuat kesepakatan mengenai rencana peningkatan kepemilikan\nsaham pihak Indonesia.\n\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H557-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\n\nPemberian izin usaha Bank Umum sebagaimana dimaksud dalam Pasal\n1 ayat (1) dilakukan dalam 2 tahap:\na. persetujuan prinsip, yaitu persetujuan untuk melakukan persiapan\npendirian Bank Umum;\nb. izin usaha, yaitu izin yang diberikan untuk melakukan usaha setelah\npersiapan sebagaimana dimaksud dalam huruf a selesai dilakukan."
+   }
+  },
+  {
+   "id": "ID-H557-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\n\n(1) Permohonan untuk mendapatkan persetujuan prinsip\nsebagaimana dimaksud dalam Pasal 4 huruf a, wajib dilampiri\ndengan:\n a. rancangan anggaran dasar;\n b. daftar calon pemegang saham, susunan direksi dan dewan\nkomisaris;\n c. rencana susunan organisasi;\n d. rencana kerja; dan\n e. bukti penyetoran sekurang-kurangnya sebesar 30% (tiga puluh\nperseratus) dari modal disetor sebagaimana dimaksud dalam\nPasal 2 ayat (1) atau ayat (2).\n(2) Permohonan untuk mendapatkan persetujuan prinsip Bank\nCampuran wajib dilampiri pula kesepakatan tertulis untuk\nmendirikan Bank Campuran dan perjanjian sebagaimana\ndimaksud dalam Pasal 3 ayat (2).\n(3) Bank Umum yang beroperasi berdasarkan prinsip bagi hasil,\ndalam rancangan anggaran dasar dan rencana kerja harus secara\ntegas mencantumkan kegiatan usaha bank yang semata-mata\nberdasarkan prinsip bagi hasil.\n\n\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H557-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\n\nUntuk mendapatkan izin usaha sebagaimana dimaksud dalam Pasal 4\nhuruf b, pemohon wajib menyampaik an laporan kesiapan pendirian\nbank dengan melampirkan:\na. anggaran dasar yang telah disahkan oleh instansi yang berwenang;\nb. daftar pemegang saham, susunan direksi dan dewan komisaris;\nc. susunan organisasi, sistem dan prosedur kerja; dan\nd. bukti pelunasan seluruh modal disetor sebagaimana dimaksud dalam\nPasal 2 ayat (1) atau ayat (2)."
+   }
+  },
+  {
+   "id": "ID-H557-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\n\nAnggota direksi dan dewan komisaris Bank Umum harus:\na. warga negara Indonesia  untuk Bank Umum sebagaimana dimaksud\ndalam Pasal 1 ayat (2) huruf a dan/atau huruf b;\nb. warga negara Indonesia dan warga negara asing, atau seluruhnya\nwarga negara Indonesia atau Bank Campuran;\nc. tidak pernah melakukan tindakan tercela di bidang perbankan\ndan/atau dihukum karena terbukti melakukan tindak pidana di\nbidang perbankan dan perekonomian;\nd. memiliki akhlak dan moral yang baik."
+   }
+  },
+  {
+   "id": "ID-H557-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n\n(1) Jumlah anggota direksi Bank Umum sekurang-kurangnya 2 (dua)\norang.\n(2) Sekurang-kurangnya 50% (lima puluh perseratus) dari anggota\ndireksi harus berpengalaman operasional di bidang perbankan\nsekurang-kurangnya 3 (tiga) tahun.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n(3) Anggota direksi Bank Umum dilarang merangkap jabatan sebagai\nanggota direksi atau jabatan eksekutif lainnya pada perusahaan\nlain."
+   }
+  },
+  {
+   "id": "ID-H557-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n\nBank Umum yang jumlah anggota direksinya belum memenuhi\nketentuan sebagaimana dimaksud dalam Pasal 8 ayat (1) wajib\nmenyesuaikan dengan ketentuan tersebut selambat-lambatnya dalam\njangka waktu 2 (dua) tahun sejak berlakunya Peraturan Pemerintah\nini."
+   }
+  },
+  {
+   "id": "ID-H557-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\n\n(1) Mayoritas anggota direksi dilarang mempunyai hubungan keluarga\nsampai derajat kedua menurut garis lurus maupun ke samping\ndengan anggota direksi lain atau dengan anggota dewan\nkomisaris.\n(2) Anggota direksi dilarang secara sendiri-sendiri atau\nbersama-sama memiliki saham melebihi 25% (dua puluh lima\nperseratus) pada suatu perusahaan lain."
+   }
+  },
+  {
+   "id": "ID-H557-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\n\n(1) Di antara anggota dewan komisaris harus ada anggota yang tidak\nmemiliki hubungan keluarga sampai derajat kedua menurut garis\nlurus maupun ke samping.\n(2) Seseorang hanya dapat menjadi anggota dewan komisaris\nsebanyak-banyaknya pada 3 (tiga) Bank Umum.\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H557-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n\nKetentuan lebih lanjut mengenai persyaratan dan tata cara perizinan\npendirian Bank Umum ditetapkan oleh Menteri Keuangan setelah\nmendengar pertimbangan Bank Indonesia.\n\nBAB II\nKEPEMILIKAN"
+   }
+  },
+  {
+   "id": "ID-H557-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\n\nSuatu badan hukum dapat memiliki saham Bank Umum\nsebanyak-banyaknya sebesar modal sendiri bersih badan hukum yang\nbersangkutan."
+   }
+  },
+  {
+   "id": "ID-H557-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\n\n(1) Warga negara asing dan/atau badan hukum asing dapat membeli\nsaham Bank Umum yang dijual melalui bursa efek di Indonesia\nsebanyak-banyaknya 49 % (empat puluh sembilan perseratus) dari\nsaham yang dicatatkan pada bursa efek di Indonesia.\n(2) Khusus bagi Bank Umum milik negara, maksimum saham yang\ndapat dicatatkan pada bursa efek di Indonesia adalah sebesar\n49% (empat puluh sembilan perseratus) dari modal disetor.\n\nBAB III\nMERGER, KONSOLIDASI DAN AKUISISI"
+   }
+  },
+  {
+   "id": "ID-H557-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\n\n(1) Merger atau konsolidasi hanya dapat dilakukan setelah\nmemperoleh izin Menteri Keuangan setelah mendengar\npertimbangan Bank Indonesia.\n(2) Merger atau konsolidasi dapat dilakukan oleh Bank Umum\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\ndengan:\n a. Bank Umum lainnya; dan/atau\n b. Bank Perkreditan Rakyat.\n(3) Merger atau konsolidasi bagi Bank Umum milik negara hanya\ndapat dilakukan antar Bank Umum milik negara."
+   }
+  },
+  {
+   "id": "ID-H557-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\n\nMerger atau konsolidasi antara Bank Umum dengan Bank Perkreditan\nRakyat sebagaimana dimaksud dalam Pasal 15 ayat (2) huruf b, hanya\ndapat dilakukan semata-mata untuk mengatasi masalah kesehatan\nBank Perkreditan Rakyat yang bersangkutan."
+   }
+  },
+  {
+   "id": "ID-H557-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\n\nMerger atau konsolidasi antar bank hanya dapat dilakukan dengan\nketentuan:\na. salah satu Bank Umum memenuhi persyaratan membuka kantor\ncabang;\nb. telah mendapat persetujuan rapat umum pemegang saham bagi\nbank yang berbentuk hukum Perseroan Tebatas atau rapat anggota\nbagi bank yang berbentuk hukum Koperasi atau rapat sejenis bagi\nbank yang berbentuk hukum lainnya;\nc. tingkat kesehatan bank hasil merger atau konsolidasi\nsekurang-kurangnya cukup sehat;\nd. segala hak dan kewajiban bank yang melakukan merger atau\nkonsolidasi beralih dan menjadi tanggung jawab bank hasil merger\natau konsolidasi;\ne. pada saat terjadinya merger at au konsolidasi jumlah aktiva bank\nhasil merger atau konsolidasi tersebut tidak melebihi 20% (dua\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\npuluh perseratus) dari jumlah akti va (asset) seluruh Bank Umum di\nIndonesia."
+   }
+  },
+  {
+   "id": "ID-H557-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\n\nPermohonan untuk memperoleh izin merger atau konsolidasi diajukan\nkepada Menteri Keuangan dengan tembusan kepada Bank Indonesia\ndengan melampirkan:\na. notulen rapat umum pemegang saham atau rapat anggota koperasi\nbank yang bersangkutan;\nb. rancangan akta jual beli saha m bank yang akan merger atau\nrancangan akta perjanjian merger atau konsep surat perjanjian\nkonsolidasi dan penetapan status dari bank-bank yang akan\ndikonsolidasi;\nc. rancangan anggaran dasar dari bank hasil merger atau konsolidasi;\nd. rencana susunan pengurus dan pemegang saham bank hasil merger\natau konsolidasi."
+   }
+  },
+  {
+   "id": "ID-H557-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\n\nAkuisisi Bank Umum yang dilakukan oleh Bank Umum maupun pihak\nlain wajib mendapat izin terlebih dahulu dari Menteri Keuangan\nsetelah mendengar pertimbangan Bank  Indonesia, apabila  akuisisi\ntersebut mengakibatkan penguasaan lebih dari 50% (lima puluh\nperseratus) saham Bank Umum yang diambil alih."
+   }
+  },
+  {
+   "id": "ID-H557-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\n\nKetentuan lebih lanjut mengenai pe rsyaratan dan tata cara, merger,\nkonsolidasi dan akuisisi diatur oleh Menteri Keuangan setelah\nmendengar pertimbangan Bank Indonesia.\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nBAB IV\nPENGGUNAAN TENAGA ASING"
+   }
+  },
+  {
+   "id": "ID-H557-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\n\n(1) Bank Umum dapat menggunaka n tenaga asing sebagai tenaga\nahli, penasehat dan/atau konsultan, yang penggunaannya :\n a. hanya untuk melaksanakan proy ek atau program tertentu yang\nberkaitan dengan kegiatan operasional bank; dan\n b. jangka waktu penggunaan tenaga asing untuk proyek atau\nprogram sebagaimana dimaksud dalam huruf a paling lama 5\n(lima) tahun.\n(2) Bank Campuran dan kantor bank dari bank yang berkedudukan di\nluar negeri dapat menggunakan tenaga asing sebagai tenaga\neksekutip di luar anggota direksi dan anggota dewan komisaris\ndengan memenuhi ketentuan sebagai berikut:\n a. tenaga asing tersebut menduduki jabatan yang belum dapat\ndiisi oleh tenaga kerja warga negara Indonesia; dan\n b. mempunyai program Indonesianisasi yang jelas melalui\npendidikan dan latihan.\n(3) Di samping persyaratan sebagaimana dimaksud dalam ayat (1)\ndan ayat (2), penggunaan tenaga  kerja asing serta tata cara\npenggunaannya mengikuti peraturan perundang-undangan di\nbidang ketenagakerjaan.\n\n\n\n\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nBAB V\nPENYESUAIAN LEMBAGA KEUANGAN BUKAN BANK\nMENJADI BANK UMUM"
+   }
+  },
+  {
+   "id": "ID-H557-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\n\n(1) Penyesuaian kegiatan usaha Lembaga Keuangan Bukan Bank\nmenjadi Bank Umum harus dilakukan selambat-lambatnya\ntanggal 25 Maret 1993 dengan memenuhi persyaratan dan tata\ncara yang ditetapkan oleh Menteri Keuangan setelah mendengar\npertimbangan Bank Indonesia.\n(2) Lembaga Keuangan Bukan Bank yang pada saat memperoleh izin\nusaha sebagai Bank Umum belum memenuhi persyaratan\nkepemilikan sebagaimana dimaksud dalam Pasal 1 ayat (2), wajib\nmenyesuaikan kepemilikannya dalam jangka waktu\nselambat-lambatnya 5 (lima) tahun sejak saat penyesuaian\nkegiatan usahanya."
+   }
+  },
+  {
+   "id": "ID-H557-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\n\nDalam menyesuaikan kegiatan usahanya sebagaimana dimaksud dalam\nPasal 22 ayat (1), Lembaga Keuangan Bukan Bank dapat memilih\nmenjadi Bank Umum devisa atau Bank Umum bukan bank devisa."
+   }
+  },
+  {
+   "id": "ID-H557-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 24\n\n(1) Bagi Lembaga Keuangan Bukan Bank yang akan menyesuaikan\nkegiatan usahanya menjadi Bank Umum devisa, ditetapkan modal\ndisetor sekurang-kurangnya sebesar Rp. 50.000.000.000,-(lima\npuluh milyar rupiah).\n(2) Bagi Lembaga Keuangan Bukan Bank yang akan menyesuaikan\nkegiatan usahanya menjadi Bank Umum bukan devisa, ditetapkan\nmodal disetor sekurang-kurangnya Rp. 10.000.000.000,-(sepuluh\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nmilyar rupiah).\n(3) Pemenuhan persyaratan permodalan sebagaimana dimaksud\ndalam ayat (1) dan ayat (2), wajib dilakukan selambat-lambatnya\ndalam jangka waktu 3 (tiga) tahun sejak saat penyesuaian\nkegiatan usahanya."
+   }
+  },
+  {
+   "id": "ID-H557-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\n\nPelanggaran terhadap ketentuan Pasal 22 ayat (2) dan Pasal 23 dapat\ndikenakan sanksi sesuai dengan ketentuan Pasal 52 Undang-undang\nNomor 7 Tahun 1992 tentang Perbankan.\n\nBAB VI\nPENUGASAN KHUSUS BAGI BANK UMUM"
+   }
+  },
+  {
+   "id": "ID-H557-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\n\nBank Umum selain bank sebagaimana dimaksud dalam Pasal 27 wajib\nmenyalurkan sebagian kreditnya untuk pengembangan kegiatan\nkoperasi dan pengusaha golongan ekonomi lemah/pengusaha kecil."
+   }
+  },
+  {
+   "id": "ID-H557-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\n\nBank Campuran dan kantor cabang dari bank yang berkedudukan di\nluar negeri wajib menyalurkan se bagian kreditnya untuk membiayai\nkegiatan ekspor non migas."
+   }
+  },
+  {
+   "id": "ID-H557-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\n\nBank Umum yang memberi kredit dalam valuta asing wajib\nmenyalurkan sebagian kredit valuta asingnya untuk membiayai\nkegiatan ekspor non migas.\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H557-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\n\nDalam melaksanakan kewajiban sebagaimana dimaksud dalam Pasal\n26, Pasal 27 dan Pasal 28, Bank Umum wajib melakukan penilaian\nterhadap pemenuhan syarat-syarat kelayakan usaha debitur.\n\nPasal 3O\n\nBank Umum yang berasal dari Lembaga Keuangan Bukan Bank yang\nmelakukan penyesuaian usaha, wajib memenuhi ketentuan\nsebagaimana dimaksud dalam Pasal 26, Pasal 27 dan Pasal 28\nselambat-lambatnya dalam jangka waktu 2 (dua) tahun sejak\nmemperoleh izin rusaha sebagai Bank Umum."
+   }
+  },
+  {
+   "id": "ID-H557-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\n\nPelaksanaan lebih lanjut mengenai penugasan khusus bagi Bank Umum\ndiatur oteh Menteri Keuangan setelah mendengar pertimbangan Bank\nIndonesia.\n\nBAB VII\nKETENTUAN LAIN-LAIN"
+   }
+  },
+  {
+   "id": "ID-H557-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 32\n\n(1) Bank Perkreditan Rakyat dapat ditingkatkan menjadi Bank Umum\ndengan memenuhi persyaratan dan tata cara pendirian Bank\nUmum.\n(2) Pelaksanaan lebih lanjut dari ketentuan sebagaimana dimaksud\ndalam ayat (1) diatur oleh Menteri Keuangan.\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nBAB VIII\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H557-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 33\n\nKetentuan mengenai Kredit Usaha Kecil dan Kredit Ekspor yang\nberlaku pada saat diberlakukannya Peraturan Pemerintah ini, masih\ntetap berlaku sebagai pelaksanaan ketentuan Pasal 26, Pasal 27 dan\nPasal 28 sampai ditetapkan ketentuan lebih lanjut oleh Bank\nIndonesia."
+   }
+  },
+  {
+   "id": "ID-H557-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 34\n\nBank Campuran yang pada saat berlakunya Peraturan Pemerintah ini\nbelum memenuhi persyaratan kepemilikan sebagaimana diatur dalam\nPasal 1 ayat (2) huruf c, waji b menyesuaikan kepemilikannya\nselambat-lambatnya dalam jangka waktu 5 (lima) tahun sejak\nberlakunya Peraturan Pemerintah ini."
+   }
+  },
+  {
+   "id": "ID-H557-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 35\n\n(1) Persetujuan prinsip dan izin usaha sebagai Bank Umum yang\ndiberikan sebelum berlakunya Peraturan Pemerintah ini,\ndinyatakan tetap berlaku.\n(2) Ketentuan tentang besarnya modal disetor sebagaimana\ndimaksud dalam Pasal 2 tidak berlaku bagi pendirian Bank Umum\nyang telah memperoleh persetujuan prinsip atau izin usaha\nsebagaimana dimaksud dalam ayat (1).\n\n\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nBAB IX\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H557-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 36\n\nDengan berlakunya Peraturan Pemerintah ini, semua peraturan\nperundang-undangan tentang Bank Umum yang bertentangan dengan\nPeraturan Pemerintah ini dinyatakan tidak berlaku lagi."
+   }
+  },
+  {
+   "id": "ID-H557-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 37\n\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\n\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran\nNegara Republik Indonesia.\n\nDitetapkan di Jakarta\npada tanggal 30 Oktober 1992\n\nPRESIDEN REPUBLIK INDONESIA\n\n      ttd\n\n            SOEHARTO\n\n\n\n\n\n\n\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nDiundangkan di Jakarta\npada tanggal 30 Oktober 1992\n\nMENTERI/SEKRETARIS NEGARA\n   REPUBLIK INDONESIA\n\n     ttd\n\n    MOERDIONO\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nPENJELASAN\nATAS\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nNOMOR 70 TAHUN 1992\nTENTANG\nBANK UMUM\n\nUMUM\n\nBank Umum merupakan bagian dari perbankan nasional yang memiliki\nfungsi utama sebagai penghimpun dan penyalur dana masyarakat serta\npemberi jasa dalam lalu lintas pembayaran.Dengan fungsi utama yang\ndemikian, Bank Umum memiliki peranan yang strategis dalam\nmenyerasikan, menyelaraskan da n menyeimbangkan unsur-unsur\npemerataan pembangunan dan hasil-hasil pembangunan, pertumbuhan\nekonomi dan stabilitas nasional guna menunjang pelaksanaan\npembangunan nasional.\n\nMemperhatikan peranan Bank Umum yang demikian strategis\nperkembangan Bank Umum yang semakin pesat dan\ntantangan-tantangan yang dihadapi Bank Umum yang semakin luas dan\nbersifat internasional, maka landasan hukum Bank Umum perlu\ndiperkokoh melalui penyempurnaan ketentuan-ketentuan yang\nmengatur Bank Umum dan penerapan prinsip-prinsip kehati-hatian.\n\nDengan landasan hukum yang semakin kokoh tersebut, maka Bank\nUmum diharapkan akan lebih mampu melindungi kepentingan\nmasyarakat dan mampu melaksanakan kegiatan-kegiatan tertentu\nyang memiliki peran strategis dalam menunjang pelaksanaan\npembangunan nasional.\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nPASAL DEMI PASAL\n\nPasal 1\n Ayat (1)\n  C u k u p  j e l a s\n Ayat (2)\n  C u k u p  j e l a s\n Ayat (3)\n  C u k u p  j e l a s\n\nPasal 2\n Ayat (1)\n  Yang dimaksud dengan modal disetor untuk Bank Umum yang\nberbentuk hukum Koperasi adalah simpanan pokok, simpanan\nwajib dan modal penyertaan sebagaimana diatur dalam\nUndang-undang Perkoperasian.\n Ayat (2)\n  C u k u p  j e l a s\n Ayat (3)\n  C u k u p  j e l a s\n\nPasal 3\n Ayat (1)\n  Tingkat kesehatan dan permodalan bank adalah sesuai dengan\npenilaian yang dilakukan oleh Bank Indonesia.\n Ayat (2)\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n  C u k u p  j e l a s\n Ayat (3)\n  Dalam rangka peningkatan kepemilikan saham pihak Indonesia\nsebagaimana, dimaksud dalam ayat ini, dapat ditempuh\nlangkah-langkah antara lain melalui penjualan saham dari pihak\nasing kepada pihak Indonesia, peningkatan penyertaan modal\npihak Indonesia, dan/atau penjualan saham melalui bursa efek di\nIndonesia.\n\nPasal 4\n Pihak yang mendapat persetujuan prinsip tidak diperkenankan\nmelakukan kegiatan usaha apapun di bidang perbankan sebelum\nmendapat ijin usaha.\n\nPasal 5\n Ayat (1)\n  C u k u p  j e l a s\n Ayat (2)\n  C u k u p  j e l a s\n Ayat (3)\n  Yang dimaksud dengan Bank Um um berdasarkan prinsip bagi hasil\nadalah bank sebagaimana dimaksud dalam peraturan\nperundang-undangan tentang bank berdasarkan prinsip bagi hasil.\n\nPasal 6\n Cukup jelas\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nPasal 7\n Pengertian direksi dan dewan komisaris bagi Bank Umum yang\nberbentuk hukum koperasi adalah pejabat pimpinan yang setingkat\ndireksi dan dewan komisaris bagi Bank Umum yang berbentuk\nhukum Perseroan Terbatas.\n\n huruf a\n  C u k u p  j e l a s\n huruf b\n  Jumlah maksimum anggota dewan komisaris dan direksi asing\ntidak boleh melebihi proporsi penyertaannya dan dimungkinkan\npula seluruhnya warga negara Indonesia.\n huruf c\n  Penilaian mengenai kegiatan tercela di bidang perbankan, dapat\ndiperoleh dari catatan Bank Indonesia mengenai dilakukannya\npraktek yang tidak sehat di bidang perbankan.\n huruf d\n  Penilaian mengenai akhlak dan moral yang baik didasarkan pada\ninformasi yang diketahui secara umum tentang perilaku tertentu\nseperti penjudi atau penipu yang dapat membahayakan bank.\n\nPasal 8\n Ayat (1)\n  Ketentuan ini dimaksudkan agar pengelolaan bank dapat\ndilakukan dengan baik untuk meningkatkan kehati-hatian dalam\npengelolaan dana masyarakat.\n Ayat (2)\n  C u k u p  j e l a s\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n Ayat (3)\n  Yang dimaksud dengan jabatan eksekutip pada perusahaan lain\nadalah jabatan yang memerlukan tanggung jawab penuh sebagai\npimpinan atau pelaksana pada perusahaan lain.\n\nPasal 9\n Cukup jelas\n\nPasal 10\n Ayat (1)\n  Pengertian mayoritas dalam ayat ini adalah lebih dari 50% (lima\npuluh perseratus). Misalnya, apabila Bank Umum yang jumlah\nanggota direksinya 5 (lima) orang maka sekurang-kurangnya 3\n(tiga) orang diantaranya dilarang mempunyai hubungan keluarga\nsampai dengan derajat kedua dengan anggota direksi lainnya.\nHubungan keluarga dalam ketentuan ini termasuk isteri/suami,\nmertua, ipar, dan menantu.\n Ayat (2)\n  Ketentuan ini juga berlaku bagi direksi bank yang berbentuk\nhukum Koperasi.\n\nPasal 11\n Ayat (1)\n  C u k u p  j e l a s\n Ayat (2)\n  Ketentuan ini dimaksudkan agar anggota dewan komisaris dapat\nmengkonsentrasikan diri pada bank tempat yang bersangkutan\nmenjadi anggota dewan komisaris, sehingga pengawasan dapat\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nberjalan secara efektif.\n\nPasal 12\n Cukup jelas\n\nPasal 13\n Yang dimaksud dengan modal sendiri bersih adalah modal disetor\nditambah cadangan dan ditambah laba atau dikurangi kerugian.\nKetentuan dalam Pasal ini berlaku juga bagi Yayasan. Dengan\nketentuan ini, upaya pemilikan saham Bank Umum oleh badan\nhukum tidak boleh dengan menggunakan dana pinjaman.\n\nPasal 14\n Dengan ketentuan dalam pasal ini, maka jumlah saham Bank Umum\nmilik negara yang dapat dibeli melalui bursa efek oleh pihak asing\nsebanyak-banyaknya adalah 49% (empat puluh sembilan perseratus)\nsaham yang dicatatkan pada bursa efek.\n\nPasal 15\n Ayat (1)\n  C u k u p  j e l a s\n Ayat (2)\n  C u k u p  j e l a s\n Ayat (3)\n  C u k u p  j e l a s\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nPasal 16\n Cukup jelas\n\nPasal 17\n huruf a\n  C u k u p  j e l a s\n huruf b\n  C u k u p  j e l a s\n huruf c\n  C u k u p  j e l a s\n huruf d\n  C u k u p  j e l a s\n huruf e\n  Mengingat peranan lembaga perbankan yang demikian strategis\ndalam pembangunan nasional, maka agar peranan perbankan\ntidak dikendalikan oleh satu bank hasil merger atau konsolidasi,\nperlu diadakan pembatasan terhadap jumlah aktiva (asset) hasil\nmerger, atau konsolidasi sebesar maksimum 20% (dua puluh\nperseratus) dari jumlah aktiva seluruh Bank Umum pada saat\ndilakukan merger dan konsolidasi.\n\nPasal 18\n Cukup jelas\n\nPasal 19\n Yang dimaksud dengan penguasaan saham dalam Pasal ini adalah\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\npenguasaan saham oleh perorangan atau group (kelompok).\nSedangkan saham yang dimaksud dalam Pasal ini adalah saham yang\nmempunyai hak suara.\n\nPasal 20\n Cukup jelas\n\nPasal 21\n Ayat (1)\n  Ketentuan tentang penggunaan tenaga ahli, penasehat dan\nkonsultan ini berlaku pula bagi Bank Campuran.\n Ayat (2)\n  C u k u p  j e l a s\n Ayat (3)\n  C u k u p  j e l a s\n\nPasal 22\n Ayat (1)\n  C u k u p  j e l a s\n Ayat (2)\n  Penyesuaian kepemilikan dapat dilakukan dengan cara\npengalihan saham atau dengan emisi saham di bursa.\n  Persyaratan kepemilikan bagi Lembaga Keuangan Bukan Bank\nyang menjadi Bank Campuran meliputi persyaratan pihak-pihak\nyang dapat memiliki saham bank dan persyaratan tentang\nbesarnya prosentase kepemilikan oleh pihak asing pada Bank\nCampuran.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\nPasal 23\n Yang dimaksud dengan Bank Umum devisa adalah Bank Umum yang\nmelakukan kegiatan usaha perbankan dalam valuta asing dengan\nmemenuhi ketentuan Bank Indonesia. Lembaga Keuangan Bukan\nBank yang menyesuaikan kegiatan usahanya menjadi Bank Umum\nbukan bank devisa wajib melepaskan kegiatan devisanya.\n\nPasal 24\n Ayat (1)\n  C u k u p  j e l a s\n Ayat (2)\n  C u k u p  j e l a s\n Ayat (3)\n  C u k u p  j e l a s\n\nPasal 25\n Cukup jelas\n\nPasal 26\n Cukup jelas\n\nPasal 27\n Cukup jelas\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nPasal 28\n Cukup jelas\n\nPasal 29\n Pemenuhan syarat-syarat kelayakan usaha debitur, didasarkan pada\npenilaian bank terhadap faktor-faktor permodalan, karakter,\nkemampuan, prospek usaha dan agunan yang dimiliki debitur.\n\nPasal 30\n Ketentuan ini dimaksudkan agar Lembaga Keuangan Bukan Bank\ndiberikan tenggang waktu yang cukup agar dapat secara bertahap\nmenyesuaikan dengan ketentuan tentang penugasan Bank Umum.\n\nPasal 31\n Cukup jelas\n\nPasal 32\n Ayat (1)\n  C u k u p  j e l a s\n Ayat (2)\n  C u k u p  j e l a s\n\nPasal 33\n Cukup jelas\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\nPasal 34\n Sebagaimana ditetapkan dalam Pasal 3, bank campuran hanya dapat\ndidirikan oleh Bank Umum sebagaimana dimaksud dalam Pasal 1\nAyat (2) huruf a, huruf b da n huruf c dengan bank yang\nberkedudukan  di luar negeri. Bagi bank campuran yang\npendiriannya tidak berdasarkan ketentuan ini, diberikan jangka\nwaktu 5 (lima) tahun untuk menyesuaikan pendirian/\nkepemilikannya sesuai dengan ketentuan ini.\n\nPasal 35\n Cukup jelas\n\nPasal 36\n Cukup jelas\n\nPasal 37\n Cukup jelas"
+   }
+  }
+ ]
+}

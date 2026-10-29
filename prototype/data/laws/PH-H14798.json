@@ -1,0 +1,62 @@
+{
+ "id": "PH-H14798",
+ "title": {
+  "zh": null,
+  "en": "An Act Amending Section One Thousand and Forty-Five of Act Numbered Twenty-Seven Hundred and Eleven Otherwise Known as the Administrative Code.",
+  "orig": "An Act Amending Section One Thousand and Forty-Five of Act Numbered Twenty-Seven Hundred and Eleven Otherwise Known as the Administrative Code."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1935-08-01",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 4207",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1335,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1935/act_4207_1935.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_04207_1935_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_04207_1935_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14798-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section one thousand and forty-five of Act Numbered Twenty-seven hundred and eleven, known\nas the Administrative Code, is hereby amended to read as follows:\n\"Section 1045. Payment of expenses incident to care of insane person.-The expense of sending an insane\nperson to a hospital or other place for the insane, and of his maintenance therein, shall be paid by the guardian\nfrom the property of such insane person, if any there be, or by the person whose duty it is to care for such\ninsane person. In all cases where the insane patient, or the person responsible for his support, is unable wholly\nor in part to pay the expenses of the patient's transportation to the hospital and return, or for his maintenance\nand care while at the hospital, the same, or such part thereof as may remain unpaid, shall be paid by the\nBureau of Health: Provided, That whenever a person is found to be insane and it is determined that he is a\ndanger to himself or to others or that he requires hospitalization, he shall be transferred immediately from his\nhome community to a provincial or other Government Hospital, or to the Insular Psychopathic Hospital, and\nhis traveling expenses shall be paid by the Bureau of Health, any other provisions of law to the contrary\nnotwithstanding.\""
+   }
+  },
+  {
+   "id": "PH-H14798-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, August 1, 1935."
+   }
+  }
+ ]
+}

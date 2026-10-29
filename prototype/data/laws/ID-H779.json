@@ -1,0 +1,1892 @@
+{
+ "id": "ID-H779",
+ "title": {
+  "zh": "有限责任公司法",
+  "en": "limited liability company Law",
+  "id": "perseroan terbatas",
+  "orig": "PERSEROAN TERBATAS",
+  "vi": "Luật công ty trách nhiệm hữu hạn",
+  "th": "พระราชบัญญัติ บริษัทจำกัด",
+  "ms": "Akta perseroan terbatas"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02b",
+ "language": "id",
+ "level": "law",
+ "category": "02_民商事与经济法",
+ "status": "active",
+ "promulgatedDate": "1995",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU1-1995",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 129,
+ "chars": 107519,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU0011995.pdf&fl=P00965"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\02_民商事与经济法\\印尼_文本_1995_PERSEROAN TERBATAS.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 129 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H779-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\nDalam Undang-undang ini yang dimaksud dengan:\n1. Perseroan Terbatas yang selanjutnya disebut perseroan adalah badan\nhukum yang didirikan berdasarkan perjanjian, melakukan kegiatan\nusaha dengan modal dasar yang seluruhnya terbagi dalam saham,\ndan memenuhi persyaratan ya ng ditetapkan dalam Undang -undang\nini serta peraturan pelaksanaannya.\n2. Organ Perseroan adalah Rapat Umum Pemegang Saham, Direksi,\ndan Komisaris.\n3. Rapat…\nPRESIDEN\nREPUBLIK INDONESIA\n3. Rapat Umum Pemegang Saham yang selanjutnya disebut RUPS\nadalah organ perseroan yang memegang kekuasaan tertinggi dalam\nperseroan dan memegang segala wewenang yang tidak diserahkan\nkepada Direksi atau Komisaris.\n4. Direksi adalah organ perseroan yang bertanggung jawab penuh atas\npengurusan perseroan untuk kepentingan dan tujuan perseroan serta\nmewakili perseroan baik di dalam maupun di luar pengadilan sesuai\ndengan ketentuan Anggaran Dasar.\n5. Komisaris adalah organ perseroan yang bertugas melakukan\npengawasan secara umum dan atau khusus serta memberikan\nnasihat kepada Direksi dalam menjalankan perseroan.\n6. Perseroan Terbuka adalah perseroan yang modal dan jumlah\npemegang sahamnya memenuhi kriteria tertentu atau perseroan\nyang melakukan penawaran umum, sesuai dengan peraturan\nperundang-undangan di bidang pasar modal.\n7. Menteri adalah Menteri Kehakiman Republik Indonesia."
+   }
+  },
+  {
+   "id": "ID-H779-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\nKegiatan perseroan harus sesuai dengan maksud dan tujuannya serta\ntidak bertentangan dengan peraturan perundang -undangan, ketertiban\numum, dan atau kesusilaan."
+   }
+  },
+  {
+   "id": "ID-H779-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\n(1) Pemegang saham perseroan tidak bertanggung ja wab secara pribadi\natas perikatan yang dibuat atas nama perseroan dan tidak\nbertanggung jawab atas kerugian perseroan melebihi nilai saham\nyang telah diambilnya.\n(2) Ketentuan...\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Ketentuan sebagaimana dimaksud dalam ayat (1) tidak berlaku\napabila:\na. persyaratan perseroan sebagai badan hukum belum atau tidak\nterpenuhi;\nb. pemegang saham yang bersangkutan baik langsung maupun tidak\nlangsung dengan itikad buruk memanfaatkan perseroan\nsemata-mata untuk kepentingan pribadi;\nc. pemegang saham yang be rsangkutan terlibat dalam perbuatan\nmelawan hukum yang dilakukan oleh perseroan; atau\nd. pemegang saham yang bersangkutan baik langsung maupun tidak\nlangsung secara melawan hukum menggunakan kekayaan\nperseroan, yang mengakibatkan kekayaan perseroan menja di\ntidak cukup untuk melunasi utang perseroan."
+   }
+  },
+  {
+   "id": "ID-H779-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\nTerhadap perseroan berlaku Undang -undang ini, Anggaran Dasar\nperseroan, dan peraturan perundang-undangan lainnya."
+   }
+  },
+  {
+   "id": "ID-H779-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\nPerseroan mempunyai tempat kedudukan dalam wilayah Negara\nRepublik Indonesia yang ditentukan dalam Anggaran Dasar."
+   }
+  },
+  {
+   "id": "ID-H779-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\nPerseroan didirikan untuk jangka waktu yang ditentukan dalam Anggaran\nDasar.\nBAB II…\nPRESIDEN\nREPUBLIK INDONESIA\nBAB II\nPENDIRIAN, ANGGARAN DASAR,\nPENDAFTARAN, DAN PENGUMUMAN\nBagian Pertama\nPendirian"
+   }
+  },
+  {
+   "id": "ID-H779-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\n(1) Perseroan didirikan oleh 2 (dua) orang atau lebih dengan akta\nnotaris yang dibuat dalam bahasa Indonesia.\n(2) Setiap pendiri perseroan wajib mengambil bagian saham pada saat\nperseroan didirikan.\n(3) Dalam hal setelah perseroan disahkan pemegang saham menjadi\nkurang dari 2 (dua) orang, maka dalam waktu paling lama 6 (enam)\nbulan terhitung sejak keadaan tersebut pemegang saham yang\nbersangkutan wajib mengalihkan sebagian sahamnya kepada orang\nlain.\n(4) Dalam hal setelah lampau jangka waktu sebagaimana dimaksud\ndalam ayat (3), pemegang saham tetap kurang dari 2(dua) orang,\nmaka pemegang saham bertanggung jawab secara pribadi atas\nsegala perikatan atau kerugian perseroan, dan atas permohonan\npihak yang berkepentingan, Pengadilan Negeri dapat membubarkan\nperseroan tersebut.\n(5) Ketentuan yang mewajibkan perseroan didirikan oleh 2 (dua) orang\natau lebih sebagaimana dimaksud dalam ayat (1), dan ketentuan\ndalam ayat (3), serta ayat (4) tidak berlaku bagi perseroan yang\nmerupakan Badan Usaha Milik Negara.\n(6) Perseroan...\nPRESIDEN\nREPUBLIK INDONESIA\n(6) Perseroan memperoleh status badan hukum setelah Akta Pendirian\nsebagaimana dimaksud dalam ayat (1) disahkan oleh Menteri.\n(7) Dalam pembuatan Akta Pendirian, pendiri dapat diwakili oleh orang\nlain berdasarkan surat kuasa."
+   }
+  },
+  {
+   "id": "ID-H779-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n(1) Akta Pendirian memuat Anggaran Dasar dan keterangan lain,\nsekurang-kurangnya:\na. nama lengkap, tempat dan tanggal lahir, pekerjaan, tempat\ntinggal, dan kewarganegaraan pendiri;\nb. susunan, nama lengkap, tempat dan tanggal lahir, pekerjaan,\ntempat tinggal, dan kewarganegaraan anggota Direksi dan\nKomisaris yang pertama kali diangkat; dan\nc. nama pemegang saham yang telah mengambil bagian saham,\nrincian jumlah saham, dan nilai nominal atau nilai yang\ndiperjanjikan dari saham yang telah ditempatkan dan disetor pada\nsaat pendirian.\n(2) Akta Pendirian tidak boleh memuat:\na. ketentuan tentang penerimaan bunga tetap atas saham; dan\nb. ketentuan tentang pemberian keuntungan pribadi kepada pendiri\natau pihak lain."
+   }
+  },
+  {
+   "id": "ID-H779-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n(1) Untuk memperoleh pengesahan sebagaimana dimaksud dalam Pasal\n7 ayat (6) para pendiri bersama -sama atau kuasanya, mengajukan\npermohonan tertulis dengan melampirkan Akta Pendirian perseroan.\n(2) Pengesahan...\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Pengesahan sebagaimana dimaksud dalam ayat (1) diberikan dalam\nwaktu paling lama 60 (enam puluh) hari setelah permohonan\nditerima.\n(3) Dalam hal permohonan ditolak, penolakan tersebut harus\ndiberitahukan kepada pemohon secara tertulis beserta alasannya\ndalam waktu sebagaimana dimaksud dalam ayat (2)."
+   }
+  },
+  {
+   "id": "ID-H779-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\n(1) Perbuatan hukum yang berkaitan dengan susunan dan penyertaan\nmodal serta susunan saham perseroan, yang dilakukan oleh pendiri\nsebelum perseroan didirikan, harus dicantumkan dalam Akta\nPendirian.\n(2) Naskah asli atau salinan resmi akta otentik mengenai perb uatan\nhukum sebagaimana dimaksud dalam ayat (1) diletakkan pada Akta\nPendirian.\n(3) Dalam hal ketentuan sebagaimana dimaksud dalam ayat (1) dan\nayat (2) tidak dipenuhi, maka perbuatan hukum tersebut tidak\nmenimbulkan hak dan kewajiban bagi perseroan."
+   }
+  },
+  {
+   "id": "ID-H779-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\n(1) Perbuatan hukum yang dilakukan para pendiri untuk kepentingan\nperseroan sebelum perseroan disahkan, mengikat perseroan setelah\nperseroan menjadi badan hukum apabila:\na. perseroan secara tegas menyatakan menerima semua perjanjian\nyang dibuat oleh pendiri atau orang lain yang ditugaskan pendiri\ndengan pihak ketiga.\nb. Perseroan...\nPRESIDEN\nREPUBLIK INDONESIA\nb. Perseroan secara tegas menyatakan mengambil alih semua hak\ndan kewajiban yang timbul dari perjanjian yang dibuat pendiri\natau orang lain yang ditugaskan pendiri, w alaupun perjanjian\ntidak dilakukan atas nama perseroan; atau\nc. perseroan mengukuhkan secara tertulis semua perbuatan hukum\nyang dilakukan atas nama perseroan.\n(2) Dalam hal perbuatan hukum sebagaimana dimaksud dalam ayat (1)\ntidak diterima, tidak diambil alih, atau tidak dikukuhkan oleh\nperseroan, maka masing -masing pendiri yang melakukan perbuatan\nhukum tersebut bertanggung jawab secara pribadi atas segala akibat\nyang timbul.\nBagian Kedua\nAnggaran Dasar"
+   }
+  },
+  {
+   "id": "ID-H779-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\nAnggaran Dasar memuat sekurang-kurangnya:\na. nama dan tempat kedudukan perseroan;\nb. maksud dan tujuan serta kegiatan usaha perseroan yang sesuai\ndengan peraturan perundang-undangan yang berlaku;\nc. jangka waktu berdirinya perseroan;\nd. besarnya jumlah modal dasar, modal yang ditempatka n, dan modal\nyang disetor;\ne. jumlah saham, jumlah klasifikasi saham apabila ada berikut jumlah\nsaham untuk tiap klasifikasi, hak -hak yang melekat pada setiap\nsaham, dan nilai nominal setiap saham;\nf. susunan, jumlah, dan nama anggota Direksi dan Komisaris;\ng. penetapan…\nPRESIDEN\nREPUBLIK INDONESIA\ng. penetapan tempat dan tata cara penyelesaian RUPS;\nh. tata cara pemilihan, pengangkatan, penggantian, dan pemberhentian\nanggota Direksi dan Komisaris;\ni. tata cara penggunaan laba dan pembagian dividen; dan\nj. ketentuan-ketentuan lain menurut Undang-undang ini."
+   }
+  },
+  {
+   "id": "ID-H779-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\n(1) Perseroan tidak boleh menggunakan nama yang:\na. telah dipakai secara sah oleh perseroan lain atau mirip dengan\nnama perseroan lain; atau\nb. bertentangan dengan ketertiban umum, dan atau kesusilaan.\n(2) Nama perseroan harus didahului dengan perkataan \"Perseroan\nTerbatas\" atau disingkat \"PT\".\n(3) Dalam hal Perseroan Terbuka selain berlaku ketentuan sebagaimana\ndimaksud dalam ayat (2), pada akhir nama perseroan ditambah\nsingkatan kata \"Tbk\".\n(4) Ketentuan mengenai pemakaian nama perseroan diatur lebih lanjut\ndengan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H779-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\n(1) Perubahan Anggaran Dasar ditetapkan oleh RUPS.\n(2) Usul adanya perubahan Anggaran Dasar dicantumkan dalam surat\npanggilan atau pengumuman untuk mengadakan RUPS."
+   }
+  },
+  {
+   "id": "ID-H779-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15…"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 15\n(1) Perubahan tertentu Anggaran Dasar harus mendapat persetujuan\nMenteri dan didaftarkan dalam Daftar Perusahaan serta diumumkan\nsesuai dengan ketentuan dalam Undang-undang ini.\n(2) Perubahan tertentu sebagaimana dimaksud dalam ayat (1) meliputi:\na. nama perseroan;\nb. maksud dan tujuan perseroan;\nc. kegiatan usaha perseroan;\nd. jangka waktu berdirinya perseroan, apabila Anggaran Dasar\nmenetapkan jangka waktu tertentu;\ne. besarnya modal dasar;\nf. pengurangan modal ditempatkan dan disetor; atau\ng. status Perseroan Tertutup menjadi Perseroan Terbuka atau\nsebaliknya.\n(3) Perubahan Anggaran Dasar selain sebagaimana dimaksud dalam\nayat (2) cukup dilaporkan kepada Menteri dalam waktu paling\nlambat 14 (e mpat belas) hari terhitung sejak keputusan RUPS, dan\ndidaftarkan dalam Daftar Perusahaan sesuai dengan ketentuan\nsebagaimana dimaksud dalam Pasal 21."
+   }
+  },
+  {
+   "id": "ID-H779-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\nPerubahan Anggaran Dasar sebagaimana dimaksud dalam Pasal 15 ayat\n(2) dan ayat (3) dibuat dengan akta notaris dalam bahasa Indonesia."
+   }
+  },
+  {
+   "id": "ID-H779-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17…"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 17\n(1) Perubahan Anggaran Dasar sebagaimana dimaksud dalam Pasal 15\nayat (2) mulai berlaku sejak tanggal persetujuan diberikan.\n(2) Perubahan Anggaran Dasar sebagaimana dimaksud dalam Pasal 15\nayat (3) mulai berlaku sejak tanggal pendaftaran."
+   }
+  },
+  {
+   "id": "ID-H779-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\nPerubahan Anggaran Dasar tidak dapat dilakukan pada saat perseroan\ndinyatakan pailit kecuali dengan persetujuan kurator."
+   }
+  },
+  {
+   "id": "ID-H779-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\nPermohonan persetujuan atas perubahan Anggaran Dasar sebagaimana\ndimaksud dalam Pasal 15 ayat (2) ditolak apabila:\na. bertentangan dengan ketentuan mengenai tata cara perubahan\nAnggaran Dasar;\nb. isi perubahan bertentangan dengan peraturan perundang undangan ,\nketertiban umum, dan atau kesusilaan; atau\nc. ada sanggahan dari kreditor atas keputusan RUPS mengenai\npengurangan modal."
+   }
+  },
+  {
+   "id": "ID-H779-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\nTata Cara pengajuan permohonan, pemberian persetujuan, dan penolakan\natas perubahan Anggaran Dasar dilakukan sesuai denga n ketentuan\nsebagaimana dimaksud dalam Pasal 9.\nBagian…\nPRESIDEN\nREPUBLIK INDONESIA\nBagian Ketiga\nPendaftaran dan Pengumuman"
+   }
+  },
+  {
+   "id": "ID-H779-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\n(1) Direksi perseroan wajib mendaftarkan dalam Daftar Perusahaan:\na. Akta Pendirian beserta surat pengesahan Menteri sebagaimana\ndimaksud dalam Pasal 7 ayat (6);\nb. akta perubahan Anggaran Dasar beserta surat persetujuan\nMenteri sebagaimana dimaksud dalam Pasal 15 ayat (2); atau\nc. akta perubahan Anggaran Dasar beserta la poran kepada Menteri\nsebagaimana dimaksud dalam Pasal 15 ayat (3).\n(2) Pendaftaran sebagaimana dimaksud dalam ayat (1) wajib dilakukan\ndalam waktu paling lambat 30 (tiga puluh) hari setelah pengesahan\natau persetujuan diberikan atau setelah tanggal penerimaan laporan."
+   }
+  },
+  {
+   "id": "ID-H779-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\n(1) Perseroan yang telah didaftar sebagaimana dimaksud dalam Pasal\n21 diumumkan dalam Tambahan Berita Negara Republik Indonesia.\n(2) Permohonan pengumuman perseroan sebagaimana dimaksud dalam\nayat (1) dilakukan Direksi dalam waktu p aling lambat 30 (tiga\npuluh) hari terhitung sejak pendaftaran.\n(3) Tata cara pengajuan permohonan pengumuman dilakukan sesuai\ndengan peraturan perundang-undangan yang berlaku."
+   }
+  },
+  {
+   "id": "ID-H779-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23…"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 23\nSelama pendaftaran dan pengumuman sebagaimana dimaksud dalam\nPasal 21 dan Pasal 22 belum dilakukan, maka Direksi secara tanggung\nrenteng bertanggung jawab atas segala perbuatan hukum yang dilakukan\nperseroan.\nBAB III\nMODAL DAN SAHAM\nBagian Pertama\nModal"
+   }
+  },
+  {
+   "id": "ID-H779-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 24\n(1) Modal dasar perseroan terdiri atas seluruh nilai nominal saham.\n(2) Saham sebagaimana dimaksud dalam ayat (1) dapat dikeluarkan\natas nama dan atau atas tunjuk."
+   }
+  },
+  {
+   "id": "ID-H779-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\n(1) Modal dasar perseroan paling sedikit Rp. 20.000.000, - (dua puluh\njuta rupiah).\n(2) Undang-undang atau peraturan pelaksanaan yang mengatur bidang\nusaha tertentu dapat menentukan jumlah minimum modal dasar\nperseroan yang berbeda dari ketentuan sebagaimana dimaksud\ndalam ayat (1).\n(3) Perubahan...\nPRESIDEN\nREPUBLIK INDONESIA\n(3) Perubahan besarnya modal dasar sebagaimana dimaksud dalam ayat\n(1), dan penentuan besarnya modal dasar Perseroan Terbuka beserta\nperubahannya, ditetapkan dengan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H779-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\n(1) Pada saat pendirian perseroan, paling sedikit 25 % (dua pulu h lima\npersen) dari modal dasar sebagaimana dimaksud dalam Pasal 25\nharus telah ditempatkan.\n(2) Setiap penempatan modal sebagaimana dimaksud dalam ayat (1)\nharus telah disetor paling sedikit 50 % (lima puluh persen) dari nilai\nnominal setiap saham yang dikeluarkan.\n(3) Seluruh saham yang telah dikeluarkan harus disetor penuh pada saat\npengesahan perseroan dengan bukti penyetoran yang sah.\n(4) Pengeluaran saham lebih lanjut setiap kali harus disetor penuh."
+   }
+  },
+  {
+   "id": "ID-H779-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\n(1) Penyetoran atas saham dapat dilakukan dalam bentuk uang dan atau\ndalam bentuk lainnya.\n(2) Dalam hal penyetoran saham dilakukan dalam bentuk lain\nsebagaimana dimaksud dalam ayat (1), penilaian harga ditetapkan\noleh ahli yang tidak terikat pada perseroan.\n(3) Penyetoran saham dalam bentuk ben da tidak bergerak harus\ndiumumkan dalam 2 (dua) surat kabar harian.\n(4) Bagi Perseroan Terbuka setiap pengeluaran saham harus telah\ndisetor penuh dengan tunai."
+   }
+  },
+  {
+   "id": "ID-H779-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28…"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 28\n(1) Pemegang saham yang mempunyai tagihan terhadap perseroan tidak\ndapat menggunakan hak tagihannya sebagai kompensasi kewajiban\npenyetoran atas harga sahamnya.\n(2) Bentuk-bentuk tagihan tertentu selain tagihan sebagaimana\ndimaksud dalam ayat (1) yang dapat di kompensasikan sebagai\nsetoran saham, diatur lebih lanjut dengan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H779-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\n(1) Perseroan dilarang mengeluarkan saham untuk dimiliki sendiri.\n(2) Larangan pemilikan saham sebagaimana dimaksud dalam ayat (1)\nberlaku juga bagi anak perus ahaan terhadap saham yang\ndikeluarkan oleh induk perusahaannya.\nBagian Kedua\nPerlindungan Modal dan\nKekayaan Perseroan"
+   }
+  },
+  {
+   "id": "ID-H779-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\n(1) Perseroan dapat membeli kembali saham yang telah dikeluarkan\ndengan ketentuan:\na. dibayar dari laba bersih sepanjang tid ak menyebabkan kekayaan\nbersih perseroan menjadi lebih kecil dari jumlah modal yang\nditempatkan ditambah cadangan yang diwajibkan sesuai dengan\nketentuan Undang-undang ini; dan\nb. jumlah...\nPRESIDEN\nREPUBLIK INDONESIA\nb. jumlah nilai nominal seluruh saham yang dimiliki perseroan\nbersama dengan yang dimiliki oleh anak perusahaan dan gadai\nsaham yang dipegang, tidak melebihi 10 % (sepuluh persen) dari\njumlah modal yang ditempatkan.\n(2) Perolehan saham, baik secara langsung maupun tidak langsung yang\nbertentangan dengan ayat (1) batal demi hukum dan pembayaran\nyang telah diterima oleh pemegang saham harus dikembalikan\nkepada perseroan.\n(3) Direksi secara tanggung renteng bertanggung jawab atas semua\nkerugian yang diderita peme gang saham yang beritikad baik, yang\ntimbul akibat batal demi hukum sebagaimana dimaksud dalam ayat\n(2)."
+   }
+  },
+  {
+   "id": "ID-H779-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\n(1) Pembelian kembali saham sebagaimana dimaksud dalam Pasal 30\nayat (1) atau pengalihannya lebih lanjut hanya dapat dilakukan\nberdasarkan keputusan RUPS.\n(2) Keputusan RUPS sebagaimana dimaksud dalam ayat (1) sah apabila\ndihadiri oleh pemegang saham yang mewakili paling sedikit 2/3\n(dua pertiga) bagian dari jumlah seluruh saham dengan hak suara\nyang sah, dan disetujui oleh paling sedikit 2/3 (dua pertiga) bagian\ndari jumlah suara tersebut."
+   }
+  },
+  {
+   "id": "ID-H779-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 32\n(1) RUPS dapat menyerahkan kewenangan untuk memberikan\npersetujuan sebagaimana dimaksud dalam Pasal 31 kepada organ\nlain untuk waktu paling lama 5 (lima) tahun.\n(2) Penyerahan...\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Penyerahan kewenangan sebagaimana dimaksud dalam ayat (1)\nsetiap kali dapat diperpanjang untuk waktu paling lama 5 (lima)\ntahun.\n(3) Penyerahan kewenangan sebagaimana dimaksud dalam ayat (1)\nsewaktu-waktu dapat ditarik kembali oleh RUPS."
+   }
+  },
+  {
+   "id": "ID-H779-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 33\n(1) Saham yang dibeli kembali oleh perseroan sebagaimana dimaksud\ndalam Pasal 30, tidak dapat digunakan untuk mengeluarkan suara\ndalam RUPS dan tidak diperhitungkan dalam menentukan jumlah\nkorum yang harus dicapai sesuai dengan ketentuan dalam\nUndang-undang ini dan atau Anggaran Dasar.\n(2) Saham induk perusahaan yang dibeli oleh anak perusahaannya juga\ntidak dapat digunakan untuk mengeluarkan suara dalam RUPS dan\ntidak diperhitungkan dalam menentukan jumlah korum yang harus\ndicapai sesuai dengan ketentuan dalam Un dang-undang ini dan atau\nAnggaran Dasar.\nBagian Ketiga\nPenambahan Modal"
+   }
+  },
+  {
+   "id": "ID-H779-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 34\n(1) Penambahan modal perseroan hanya dapat dilakukan berdasarkan\nkeputusan RUPS.\n(2) RUPS dapat menyerahkan kewenangan untuk memberikan\npersetujuan sebagaimana dimaksud dal am ayat (1) kepada\nKomisaris untuk waktu paling lama 5 (lima) tahun.\n(3) Penyerahan...\nPRESIDEN\nREPUBLIK INDONESIA\n(3) Penyerahan kewenangan sebagaimana dimaksud dalam ayat (2)\nsewaktu-waktu dapat ditarik kembali oleh RUPS."
+   }
+  },
+  {
+   "id": "ID-H779-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 35\nKeputusan RUPS sebagaimana dimaksud dalam Pasal 34 ayat (1) sah\napabila dilakukan sesuai dengan ketentuan mengenai panggilan rapat,\nkorum, dan jumlah suaru untuk perubahan Anggaran Dasar sesuai dengan\nketentuan dalam Undang-undang ini dan atau Anggaran Dasar."
+   }
+  },
+  {
+   "id": "ID-H779-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 36\n(1) Dalam hal Anggaran Dasar tidak menentukan lain, seluruh saham\nyang dikeluarkan dalam penambahan modal harus terlebih dahulu\nditawarkan kepada setiap pemegang saham seimbang dengan\npemilikan saham untuk klasifikasi saham yang sama.\n(2) Dalam hal pemegang saham tidak menggunakan hak untuk membeli\nsaham sebagaimana dimaksud dalam ayat (1), setelah lewat waktu\n14 (empat belas) hari terhitung sejak penawaran, perseroan\nmenawarkan kepada karyawan mendahului penawaran kepada\norang lain untuk membeli jumlah tertentu atas saham tersebut.\n(3) Ketentuan mengenai saham yang ditawarkan kepada karyawan\nsebagaimana dimaksud dalam ayat (2) diatur lebih lanjut dengan\nPeraturan Pemerintah.\nBagian…\nPRESIDEN\nREPUBLIK INDONESIA\nBagian Keempat\nPengurangan Modal"
+   }
+  },
+  {
+   "id": "ID-H779-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 37\n(1) Pengurangan modal persero an hanya dapat dilakukan berdasarkan\nkeputusan RUPS yang dilaksanakan sesuai dengan ketentuan\nsebagaimana dimaksud dalam Pasal 35.\n(2) Direksi wajib memberitahukan secara tertulis keputusan\nsebagaimana dimaksud dalam ayat (1) kepada semua kreditor dan\nmengumumkan dalam Berita Negara Republik Indonesia serta 2\n(dua) surat kabar harian paling lambat 7 (tujuh) hari terhitung sejak\ntanggal keputusan."
+   }
+  },
+  {
+   "id": "ID-H779-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 38\n(1) Dalam waktu 60 (enam puluh) hari terhitung sejak pengumuman\nsebagaimana dimaksud dalam Pasal 37 ayat (2), kreditor dapat\nmengajukan keberatan secara tertulis disertai alasannya kepada\nperseroan atas keputusan pengurangan modal dengan tembusan\nkepada Menteri.\n(2) dalam waktu 30 (tiga puluh) hari terhitung sejak keberatan\nsebagimana dimaksud dalam ayat (1) diterima, perseroan wajib\nmemberikan jawaban atas keberatan yang diajukan disertai\nalasannya.\n(3) Dalam...\nPRESIDEN\nREPUBLIK INDONESIA\n(3) Dalam hal perseroan menolak keberatan atau tidak memberikan\npenyelesaian yang disepakati kreditor, maka da lam waktu 30 (tiga\npuluh) hari terhitung sejak jawaban perseroan diterima kreditor\ndapat mengajukan gugatan ke Pengadilan Negeri yang daerah\nhukumnya meliputi tempat kedudukan perseroan."
+   }
+  },
+  {
+   "id": "ID-H779-A39",
+   "no": 39,
+   "noLabel": {
+    "id": "Pasal 39"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 39\n(1) Pengurangan modal berlaku setelah perubahan Anggaran D asar\nmendapat persetujuan Menteri.\n(2) Persetujuan menteri atas perubahan Anggaran Dasar sebagaimana\ndimaksud dalam ayat (1) hanya diberikan apabila:\na. tidak terdapat keberatan tertulis dari kreditor dalam jangka waktu\nsebagaimana dimaksud dalam Pasal 38 ayat(1);\nb. telah dicapai penyelesaian atas keberatan yang diajukan kreditor;\natau\nc. gugatan kreditor telah mendapat putusan pengadilan yang telah\nmempunyai kekuatan hukum tetap."
+   }
+  },
+  {
+   "id": "ID-H779-A40",
+   "no": 40,
+   "noLabel": {
+    "id": "Pasal 40"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 40\nPerubahan Anggaran Dasar disertai persetujuan Menteri tentang\npengurangan modal harus didaftarkan dan diumumkan sesuai dengan\nketentuan dalam Pasal 21 dan Pasal 22."
+   }
+  },
+  {
+   "id": "ID-H779-A41",
+   "no": 41,
+   "noLabel": {
+    "id": "Pasal 41…"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 41\n(1) Pengurangan modal harus dilakukan atas setiap saham atau atas\nsemua saham dari klasifikasi saham yang sama secara seimbang.\n(2) Dalam hal terdapat lebih dari satu klasifikasi saham, keputusan\npengurangan modal hanya dapat diambil sepanjang sesuai dengan\nkeputusan yang telah terlebih dahulu diambil dalam rapat pemegang\nsaham dari klasifikasi tersebut yang halnya dirugikan oleh\nkeputusan pengurangan modal.\nBagian Kelima\nSaham"
+   }
+  },
+  {
+   "id": "ID-H779-A42",
+   "no": 42,
+   "noLabel": {
+    "id": "Pasal 42"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 42\n(1) Nilai nominal saham harus dicantumkan dalam mata uang Republik\nIndonesia.\n(2) Saham tanpa nilai nominal tidak dapat dikeluarkan.\n(3) Saham atas tunjuk hanya dapat dikeluarkan apabila nilai no minal\nsaham atau nilai yang diperjanjikan disetor penuh."
+   }
+  },
+  {
+   "id": "ID-H779-A43",
+   "no": 43,
+   "noLabel": {
+    "id": "Pasal 43"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 43\n(1) Perseroan wajib mengadakan dan menyimpan Daftar Pemegang\nSaham, yang sekurang-kurangnya memuat:\na. nama dan alamat pemegang saham;\nb. jumlah,...\nPRESIDEN\nREPUBLIK INDONESIA\nb. jumlah, nomor, dan tanggal perolehan saham yang dimiliki\npemegang saham dan apabila dikeluarkan lebih dari satu\nklasifikasi saham, tiap-tiap klasifikasi saham tersebut;\nc. jumlah yang disetor atas setiap saham;\nd. nama dan alamat dari orang perseorangan atau badan hukum\nyang mempunyai hak gadai atas saham dan tanggal perolehan\nhak gadai tersebut; dan\ne. keterangan penyetoran saham dalam bentuk lain sebagaimana\ndimaksud dalam Pasal 27 ayat (2).\n(2) Selain Daftar Pemegang Saham sebagaimana dimaksud dalam a yat\n(1), perseroan wajib mengadakan dan menyimpan Daftar Khusus\nyang memuat keterangan mengenai kepemilikan saham anggota\nDireksi dan Komisaris beserta keluarganya pada perseroan tersebut\ndan atau pada perseroan lain serta tanggal saham itu diperoleh.\n(3) Dalam hal perseroan mengeluarkan saham atas tunjuk, maka dalam\nDaftar Pemegang Saham dan Daftar Khusus sebagaimana dimaksud\ndalam ayat (2) dicatat tanggal, jumlah, dan nomor saham atas tunjuk\nyang dikeluarkan.\n(4) Dalam Daftar Pemegang Saham dan Daftar Khu sus sebagaimana\ndimaksud dalam ayat (1) dan ayat (2) dicatat pula setiap perubahan\nkepemilikan saham.\n(5) Dalam Pemegang Saham dan Daftar Khusus sebagaimana dimaksud\ndalam ayat (1) dan ayat (2) disediakan di tempat kedudukan\nperseroan agar dapat dilihat oleh para pemegang saham."
+   }
+  },
+  {
+   "id": "ID-H779-A44",
+   "no": 44,
+   "noLabel": {
+    "id": "Pasal 44"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 44\nKepada pemegang saham diberikan bukti pemilikan saham untuk saham\nyang dimilikinya."
+   }
+  },
+  {
+   "id": "ID-H779-A45",
+   "no": 45,
+   "noLabel": {
+    "id": "Pasal 45…"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kelima"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 45\n(1) Setiap saham memberikan kepada pemiliknya hak yang tidak dapat\ndibagi.\n(2) Dalam hal 1 (satu) saham dimiliki oleh lebih dari 1 (satu) orang,\nmaka hak yang timbul dari saham tersebut hanya dapat digunakan\ndengan cara menunjuk 1 (satu) orang wakil bersama."
+   }
+  },
+  {
+   "id": "ID-H779-A46",
+   "no": 46,
+   "noLabel": {
+    "id": "Pasal 46"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 46\n(1) Anggaran Dasar menetapkan 1 (satu) klasifikasi saham atau lebih.\n(2) Setiap saham dalam klasifikasi yang sama memberikan kepada\npemegangnya hak yang sama.\n(3) Dalam hal terdapat lebih dari 1 (satu) klasifikasi saham, maka\nAnggaran Dasar menetapkan 1 (satu) klasifikasi sebagai saham\nbiasa.\n(4) Selain klasifikasi saha m sebagaimana dimaksud dalam ayat (3),\ndalam Anggaran Dasar dapat ditetapkan 1 (satu) klasifikasi saham\natau lebih:\na. Dengan hak suara khusus, bersyarat, terbatas, atau tanpa hak\nsuara;\nb. yang setelah jangka waktu tertentu dapat ditarik kembali atau\ndapat ditukar dengan klasifikasi saham lain;\nc. yang memberikan hak kepada pemegangnya untuk menerima\npembagian dividen secara kumulatif atau non kumulatif; dan atau\nd. yang memberikan hak kepada pemegangnya untuk menerima\nlebih dahulu dari pemegang saham klasifikasi lain atas\npembagian dividen dan sisa kekayaan perseroan dalam likuidasi."
+   }
+  },
+  {
+   "id": "ID-H779-A47",
+   "no": 47,
+   "noLabel": {
+    "id": "Pasal 47…"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kelima"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 47\n(1) Anggaran Dasar dapat menentukan pecahan nilai nominal saham.\n(2) Pemegang pecahan nilai nominal saham tidak diberikan hak suara\nperseorangan, kecuali pemegang pecahan nilai nominal saham baik\nsendiri atau bersama pemegang pecahan nilai nominal saham\nlainnya yang sejenis memiliki nilai nominal sebesar 1 (satu)\nnominal saham dari klasifikasi tersebut."
+   }
+  },
+  {
+   "id": "ID-H779-A48",
+   "no": 48,
+   "noLabel": {
+    "id": "Pasal 48"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 48\nDalam Anggaran Dasar perseroan ditentukan cara pemindahan hak atas\nsaham sesuai dengan peraturan perundang-undangan yang berlaku."
+   }
+  },
+  {
+   "id": "ID-H779-A49",
+   "no": 49,
+   "noLabel": {
+    "id": "Pasal 49"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 49\n(1) Pemindahan hak atas saham atas nama dilakukan dengan akta\npemindahan hak.\n(2) Akta pemindahan hak sebagaimana dimaksud dalam ayat (1) atau\nsalinannya disampaikan secara tertulis kepada perseroan.\n(3) Direksi wajib mencatat pemindahan hak atas saham atas nama,\ntanggal dan hari pemindahan hak tersebut dalam Daftar Pemegang\nSaham atau Daftar Khusus sebagaimana dimaksud dalam Pasal 43\nayat (1) dan ayat (2).\n(4) Pemindahan hak atas saham atas tunjuk dilakukan dengan\npenyerahan surat saham.\n(5) Bentuk dan tata cara pemindahan hak atas saham atas nama dan\nsaham atas tunjuk yang diperdagangkan di pasar modal diatur dalam\nperaturan perundang-undangan di bidang pasar modal."
+   }
+  },
+  {
+   "id": "ID-H779-A50",
+   "no": 50,
+   "noLabel": {
+    "id": "Pasal 50…"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kelima"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 50\nDalam Anggaran Dasar dapat diatur ketentuan pembatasan pemindahan\nhak atas saham yaitu:\na. keharusan menawarkan terlebih dahulu kepada kelompok pemegang\nsaham tertentu atau pemegang saham lainnya; dan atau\nb. keharusan mendapatkan persetujuan terlebih dahulu dari organ\nperseroan."
+   }
+  },
+  {
+   "id": "ID-H779-A51",
+   "no": 51,
+   "noLabel": {
+    "id": "Pasal 51"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 51\n(1) Dalam hal Anggaran Dasar mengharuskan pemegang saham\nmenawarkan terlebih dahulu sahamnya kepada kelompok pemegang\nsaham tertentu atau pemegang saham lain yang tidak dipi lihnya\nsendiri, perseroan wajib menjamin bahwa semua saham yang\nditawarkan dibeli dengan harga yang wajar dan dibayar tunai dalam\nwaktu 30 (tiga puluh) hari terhitung sejak penawaran dilakukan.\n(2) Dalam hal perseroan tidak dapat menjamin terlaksananya ket entuan\nsebagaimana dimaksud dalam ayat (1), pemegang saham dapat\nmenawarkan dan menjual sahamnya kepada karyawan mendahului\npenawaran kepada orang lain.\n(3) Setiap pemegang saham yang diharuskan menawarkan sahamnya\nsebagaimana dimaksud dalam ayat (1) berha k menarik kembali\npenawaran tersebut setelah lampaunya jangka waktu sebagaimana\ndimaksud dalam ayat (1).\n(4) Penawaran saham terlebih dahulu kepada kelompok pemegang\nsaham tertentu atau pemegang saham lainnya hanya dapat dilakukan\nsatu kali.\n(5) Ketentuan...\nPRESIDEN\nREPUBLIK INDONESIA\n(5) Ketentuan mengenai penawaran dan penjualan saham kepada\nkaryawan sebagaimana dimaksud dalam ayat (2) diatur lebih lanjut\ndengan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H779-A52",
+   "no": 52,
+   "noLabel": {
+    "id": "Pasal 52"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 52\n(1) Pemberian persetujuan atau penolakan pemindahan hak atas saham\nyang memerlukan pers etujuan organ perseroan harus diberikan\nsecara tertulis dalam waktu paling lama 90 (sembilan puluh) hari\nterhitung sejak organ perseroan menerima permintaan pemindahan\nhak tersebut.\n(2) Dalam hal jangka waktu sebagaimana dimaksud dalam ayat (1)\ntelah lampa u dan organ perseroan tidak memberikan pernyataan\ntertulis, maka organ perseroan dianggap menyetujui pemindahan\nhak atas saham tersebut.\n(3) Dalam hal pemindahan hak atas saham atas nama disetujui oleh\norgan perseroan, harus dilakukan sesuai dengan ketentu an\nsebagaimana dimaksud dalam Pasal 49 dan dilakukan dalam waktu\npaling lama 90 (sembilan puluh) hari terhitung sejak persetujuan\ndiberikan.\n(4) Dalam hal pemindahan hak atas saham ditolak, maka organ\nperseroan harus menunjuk calon pembeli lain sesuai dengan\npersyaratan sebagaimana dimaksud dalam Pasal 51 ayat (1).\n(5) Dalam hal pemindahan hak atas saham ditolak sebagaimana\ndimaksud dalam ayat (4) tidak disertai penunjukan, maka berlaku\nketentuan sebagaimana dimaksud dalam ayat (2)."
+   }
+  },
+  {
+   "id": "ID-H779-A53",
+   "no": 53,
+   "noLabel": {
+    "id": "Pasal 53…"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kelima"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 53\n(1) Saham atas tunjuk dapat digadaikan.\n(2) Saham atas nama dapat digadaikan sepanjang tidak ditentukan lain\ndalam Anggaran Dasar.\n(3) Gadai saha m harus dicatat dalam Daftar Pemegang Saham dan\nDaftar Khusus sebagaimana dimaksud dalam Pasal 43.\n(4) Hak suara atas saham yang digadaikan tetap ada pada pemegang\nsaham."
+   }
+  },
+  {
+   "id": "ID-H779-A54",
+   "no": 54,
+   "noLabel": {
+    "id": "Pasal 54"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 54\n(1) Saham merupakan benda bergerak dan memberikan hak\nkepemilikan kepada pemegangnya.\n(2) Setiap pemegang saham berhak mengajukan gugatan terhadap\nperseroan ke Pengadilan Negeri, apabila dirugikan karena tindakan\nperseroan yang dianggap tidak adil dan tanpa alasan wajar sebagai\nakibat keputusan RUPS, Direksi atau Komisaris.\n(3) Gugatan sebagaimana dimaksud dalam ayat (2) diajukan ke\nPengadilan Negeri yang daerah hukumnya meliputi tempat\nkedudukan perseroan."
+   }
+  },
+  {
+   "id": "ID-H779-A55",
+   "no": 55,
+   "noLabel": {
+    "id": "Pasal 55"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 55\n(1) Setiap pemegang saham berhak meminta kepada perseroan agar\nsahamnya dibeli dengan harga yang wajar, apabila yang\nbersangkutan tidak menyetujui tindakan perseroan yang merugikan\npemegang saham atau perseroan, berupa:\na. perubahan...\nPRESIDEN\nREPUBLIK INDONESIA\na. perubahan Anggaran Dasar;\nb. penjualan, penjaminan, pertukaran sebagian besar atau seluruh\nkekayaan perseroan; atau\nc. penggabungan, peleburan, atau pengambil alihan perseroan.\n(2) Dalam hal saham yang diminta untuk dibeli sebagaimana dimaksud\ndalam ayat (1) melebihi batas ketentuan pembelian kembali saham\noleh perseroan sebagaimana dimaksud dalam Pasal 30 ayat (1),\nmaka perseroan wajib mengusahakan agar sisa saham dibeli oleh\npihak lain.\nBAB IV\nLAPORAN TAHUNAN DAN\nPENGGUNAAN LABA\nBagian Pertama\nLaporan Tahunan"
+   }
+  },
+  {
+   "id": "ID-H779-A56",
+   "no": 56,
+   "noLabel": {
+    "id": "Pasal 56"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 56\nDalam waktu 5 (lima) bulan setelah tahun buku perseroan ditutup,\nDireksi menyusun laporan tahunan untuk diajukan kepada RUPS, yang\nmemuat sekurang-kurangnya:\na. perhitungan tahunan yang terdiri dari neraca akhir tahun buku yang\nbaru lampau dan perhitungan laba rugi dari tahun buku yang\nbersangkutan serta penjelasan atas dokumen tersebut;\nb. neraca gabungan dari perseroan yang tergabung dalam satu grup, di\nsamping neraca dari masing-masing perseroan tersebut;\nc. laporan…\nPRESIDEN\nREPUBLIK INDONESIA\nc. laporan mengenai keadaan dan jalannya perseroan serta hasil yang\ntelah dicapai;\nd. kegiatan utama perseroan dan perubahan selama tahun buku;\ne. rincian masalah yang timbul selama tahun buku yang\nmempengaruhi kegiatan perseroan;\nf. nama anggota Direksi dan Komisaris; dan\ng. gaji dan tunjangan lain bagi anggota Direksi dan Komisaris."
+   }
+  },
+  {
+   "id": "ID-H779-A57",
+   "no": 57,
+   "noLabel": {
+    "id": "Pasal 57"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 57\n(1) Laporan tahunan sebagaiman a dimaksud dalam Pasal 56\nditandatangani oleh semua anggota Direksi dan Komisaris.\n(2) Dalam hal ada anggota Direksi atau Komisaris tidak\nmenandatangani laporan sebagaimana dimaksud dalam ayat (1)\nharus disebutkan alasannya secara tertulis."
+   }
+  },
+  {
+   "id": "ID-H779-A58",
+   "no": 58,
+   "noLabel": {
+    "id": "Pasal 58"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 58\n(1) Perhitungan tahunan dibuat sesuai dengan Standar Akuntansi\nKeuangan.\n(2) Dalam hal Standar Akuntansi Keuangan sebagaimana dimaksud\ndalam ayat (1) tidak dapat dilaksanakan sebagaimana mestinya\nharus diberikan penjelasan serta alasannya."
+   }
+  },
+  {
+   "id": "ID-H779-A59",
+   "no": 59,
+   "noLabel": {
+    "id": "Pasal 59"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 59\n(1) Direksi wajib menyerahkan perhitungan tahunan perseroan kepada\nakuntan publik untuk diperiksa apabila:\na. bidang...\nPRESIDEN\nREPUBLIK INDONESIA\na. bidang usaha perseroan berkaitan dengan pengerahan dana\nmasyarakat;\nb. perseroan mengeluarkan surat pengakuan utang; atau\nc. perseroan merupakan Perseroan Terbuka.\n(2) Dalam hal kewajiban sebagaimana dimaksud dalam ayat (1) tidak\ndipenuhi, perhitungan tahunan tidak boleh disahkan oleh RUPS.\n(3) Laporan atas hasil pemeriksaan akuntan publik sebagaimana\ndimaksud dalam ayat (1) disampaika n secara tertulis kepada RUPS\nmelalui Direksi.\n(4) Perhitungan tahunan sebagaimana dimaksud dalam ayat (1), setelah\nmendapat pengesahan RUPS diumumkan dalam 2 (dua) surat kabar\nharian."
+   }
+  },
+  {
+   "id": "ID-H779-A60",
+   "no": 60,
+   "noLabel": {
+    "id": "Pasal 60"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 60\n(1) Persetujuan laporan tahunan dan pengesahan perhitungan t ahunan\ndilakukan oleh RUPS.\n(2) Keputusan atas persetujuan laporan tahunan dan pengesahan\nperhitungan tahunan sebagaimana dimaksud dalam ayat (1) diambil\nsesuai dengan ketentuan dalam Undang -undang ini dan atau\nAnggaran Dasar.\n(3) Dalam hal dokumen perhitu ngan tahunan yang disediakan ternyata\ntidak benar dan atau menyesatkan, anggota Direksi dan Komisaris\nsecara tanggung renteng bertanggungjawab terhadap pihak yang\ndirugikan.\n(4) Anggota Direksi dan Komisaris dibebaskan dari tanggung jawab\nsebagaimana dimak sud dalam ayat (3) apabila terbukti bahwa\nkeadaan tersebut bukan karena kesalahannya.\nBagian…\nPRESIDEN\nREPUBLIK INDONESIA\nBagian Kedua\nPenggunaan Laba"
+   }
+  },
+  {
+   "id": "ID-H779-A61",
+   "no": 61,
+   "noLabel": {
+    "id": "Pasal 61"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 61\n(1) Setiap tahun buku, perseroan wajib menyisihkan jumlah tertentu\ndari laba bersih untuk cadangan.\n(2) Penyisihan laba bersih sebagaimana dimaksud dalam ayat (1)\ndilakukan sampai cadangan mencapai sekurang -kurangnya 20%\n(dua puluh persen) dari modal yang ditempatkan.\n(3) Cadangan sebagaimana dimaksud dalam ayat (1) yang belum\nmencapai jumlah sebagaimana dim aksud dalam ayat (2) hanya\ndapat dipergunakan untuk menutup kerugian yang tidak dapat\ndipenuhi oleh cadangan lain.\n(4) Ketentuan mengenai penyisihan laba bersih untuk cadangan dan\npenggunaannya diatur lebih lanjut dengan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H779-A62",
+   "no": 62,
+   "noLabel": {
+    "id": "Pasal 62"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 62\n(1) Penggunaan laba bersih termasuk penentuan jumlah penyisihan\nuntuk cadangan sebagaimana dimaksud dalam Pasal 61 ayat (1)\ndiputuskan oleh RUPS.\n(2) Dalam hal RUPS tidak menentukan lain, seluruh laba bersih setelah\ndikurangi penyisihan untuk cadangan sebagaimana dimaksud dalam\nPasal 61 ayat (1) dibagikan kepada pemegang saham sebagai\ndividen.\n(3) Setelah 5 (lima) tahun, dividen yang tidak diambil dimasukkan ke\ndalam cadangan yang diperuntukkan untuk itu.\n(4) Pengambilan...\nPRESIDEN\nREPUBLIK INDONESIA\n(4) Pengambilan dividen s ebagaimana dimaksud dalam ayat (3) diatur\ndalam Anggaran Dasar.\nBAB V\nRAPAT UMUM PEMEGANG SAHAM"
+   }
+  },
+  {
+   "id": "ID-H779-A63",
+   "no": 63,
+   "noLabel": {
+    "id": "Pasal 63"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 63\n(1) RUPS mempunyai segala wewenang yang tidak diberikan kepada\nDireksi atau Komisaris dalam batas yang ditentukan dalam\nUndang-undang ini dan atau Anggaran Dasar.\n(2) RUPS berhak memperoleh segala keterangan yang berkaitan dengan\nkepentingan perseroan dari Direksi dan atau Komisaris."
+   }
+  },
+  {
+   "id": "ID-H779-A64",
+   "no": 64,
+   "noLabel": {
+    "id": "Pasal 64"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 64\n(1) RUPS diadakan di tempat kedudukan perseroan atau tempat\nperseroan melakukan kegiata n usahanya, kecuali ditentukan lain\ndalam Anggaran Dasar.\n(2) Tempat sebagaimana dimaksud dalam ayat (1) harus terletak di\nwilayah Negara Republik Indonesia."
+   }
+  },
+  {
+   "id": "ID-H779-A65",
+   "no": 65,
+   "noLabel": {
+    "id": "Pasal 65"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 65\n(1) RUPS terdiri atas RUPS tahunan dan RUPS lainnya.\n(2) RUPS tahunan diadakan dalam waktu paling lambat 6 (enam) bulan\nsetelah tahun buku.\n(3) Dalam...\nPRESIDEN\nREPUBLIK INDONESIA\n(3) Dalam RUPS tahunan harus diajukan semua dokumen perseroan\nsebagaimana dimaksud dalam Pasal 56.\n(4) RUPS lainnya dapat diadakan sewaktu -waktu berdasarkan\nkebutuhan."
+   }
+  },
+  {
+   "id": "ID-H779-A66",
+   "no": 66,
+   "noLabel": {
+    "id": "Pasal 66"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 66\n(1) Direksi menyelenggarakan RUPS tahunan dan untuk kepentingan\nperseroan berwenang menyelenggarakan RUPS lainnya.\n(2) Penyelenggaraan RUPS sebagaimana dimaksud dalam ayat (1)\ndapat juga dilakukan atas permintaan 1 (satu) pemegang saham atau\nlebih yang bersama -sama mewakil i 1/10 (satu persepuluh) bagian\ndari jumlah seluruh saham dengan hak suara yang sah, atau suatu\njumlah yang lebih kecil sebagaimana ditentukan dalam Anggaran\nDasar perseroan yang bersangkutan.\n(3) Permintaan sebagaimana dimaksud dalam ayat (2) diajukan kepada\nDireksi atau Komisaris dengan surat tercatat disertai alasannya.\n(4) RUPS sebagaimana dimaksud dalam ayat (2) hanya dapat\nmembicarakan masalah yang berkaitan dengan alasan sebagaimana\ndimaksud dalam ayat (3)."
+   }
+  },
+  {
+   "id": "ID-H779-A67",
+   "no": 67,
+   "noLabel": {
+    "id": "Pasal 67"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 67\n(1) Ketua Pengadila n Negeri yang daerah hukumnya meliputi tempat\nkedudukan perseroan dapat memberikan izin kepada pemohon\nuntuk:\na.melakukan...\nPRESIDEN\nREPUBLIK INDONESIA\na.melakukan sendiri pemanggilan RUPS tahunan, atas permohonan\npemegang saham apabila Direksi atau Komisaris tidak\nmenyelenggarakan RUPS tahunan pada waktu yang telah\nditentukan; atau\nb.melakukan sendiri pemanggilan RUPS lainnya, atas permohonan\npemegang saham sebagaimana dimaksud dalam Pasal 66 ayat\n(2), apabila Direksi atau Komisaris setelah lewat waktu 30 (tiga\npuluh) hari t erhitung sejak permintaan tidak melakukan\npemanggilan RUPS lainnya.\n(2) Ketua Pengadilan Negeri sebagaimana dimaksud dalam ayat (1)\ndapat menetapkan bentuk, isi, dan jangka waktu pemanggilan RUPS\nserta menunjuk ketua rapat tanpa terikat pada ketentuan\nUndang-undang ini atau Anggaran Dasar.\n(3) Dalam hal RUPS diselenggarakan sebagaimana dimaksud dalam\nayat (1) Ketua Pengadilan Negeri dapat memerintahkan Direksi dan\natau Komisaris untuk hadir.\n(4) Penetapan Ketua Pengadilan Negeri mengenai pemberian izin\nsebagaimana dimaksud dalam ayat (1) merupakan penetapan\ninstansi pertama dan terakhir."
+   }
+  },
+  {
+   "id": "ID-H779-A68",
+   "no": 68,
+   "noLabel": {
+    "id": "Pasal 68"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 68\n(1) Untuk menyelenggarakan RUPS Direksi melakukan pemanggilan\nkepada pemegang saham.\n(2) Dalam hal -hal tertentu yang ditetapkan dalam Anggaran Dasar,\npemanggilan RUPS sebagaimana dimaksud dalam ayat (1) dapat\ndilakukan oleh Komisaris."
+   }
+  },
+  {
+   "id": "ID-H779-A69",
+   "no": 69,
+   "noLabel": {
+    "id": "Pasal 69 …"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 69\n(1) Pemanggilan RUPS dilakukan paling lambat 14 (empat belas) hari\nsebelum RUPS diadakan.\n(2) Pemanggilan RUPS dilakukan dengan surat tercatat.\n(3) Pemanggilan RUPS untuk Perseroan Terbuka dilakukan dalam 2\n(dua) surat kabar harian.\n(4) Dalam panggilan RUPS dicantumkan tanggal, waktu, tempat, dan\nacara rapat disertai pemberitahuan bahwa bahan yang ak an\ndibicarakan dalam RUPS tersedia di kantor perseroan mulai hari\ndilakukan pemanggilan RUPS sampai dengan hari RUPS diadakan.\n(5) Perseroan wajib memberikan salinan bahan sebagaimana dimaksud\ndalam ayat (4) kepada pemegang saham secara cuma-cuma.\n(6) Dalam hal pemanggilan tidak sesuai dengan ketentuan sebagaimana\ndimaksud dalam ayat (1) dan ayat (2), keputusan tetap sah apabila\nRUPS dihadiri oleh seluruh pemegang saham yang mewakili saham\ndengan hak suara yang sah dan disetujui dengan suara bulat."
+   }
+  },
+  {
+   "id": "ID-H779-A70",
+   "no": 70,
+   "noLabel": {
+    "id": "Pasal 70"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 70\n(1) Bagi Perseroan Terbuka, sebelum pemanggilan RUPS dilakukan\nwajib didahului dengan pengumuman mengenai akan diadakan\npemanggilan RUPS dalam 2 (dua) surat kabar harian.\n(2) Pengumuman sebagaimana dimaksud dalam ayat (1) dilakukan\npaling lambat 14 (empat belas) hari sebelum pemanggilan RUPS."
+   }
+  },
+  {
+   "id": "ID-H779-A71",
+   "no": 71,
+   "noLabel": {
+    "id": "Pasal 71 …"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 71\n(1) Pemegang saham dengan hak suara yang sah, baik sendiri maupun\ndengan kuasa tertulis berhak menghadiri RUPS dan menggunakan\nhak suaranya.\n(2) Dalam pemungutan suara, anggota Direksi, anggota Komisaris, dan\nkaryawan perseroan yang bersangkutan dilarang bertindak sebagai\nkuasa dari pemegang saham sebagaimana dimaksud dalam ayat (1)."
+   }
+  },
+  {
+   "id": "ID-H779-A72",
+   "no": 72,
+   "noLabel": {
+    "id": "Pasal 72"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 72\n(1) Setiap saham yang dikeluarkan mempunyai satu hak suara kecuali\nAnggaran Dasar menentukan lain.\n(2) Saham perseroan yang dimiliki oleh perseroan itu sendiri tidak\nmempunyai hak suara.\n(3) Saham induk perusahaan yang dimiliki oleh anak perusahaannya\njuga tidak mempunyai hak suara."
+   }
+  },
+  {
+   "id": "ID-H779-A73",
+   "no": 73,
+   "noLabel": {
+    "id": "Pasal 73"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 73\n(1) RUPS dapat dilangsungkan apab ila dihadiri oleh pemegang saham\nyang mewakili lebih dari 1/2 (satu perdua) bagian dari jumlah\nseluruh saham dengan hak suara yang sah, kecuali Undang -undang\nini dan atau Anggaran Dasar menentukan lain.\n(2) Dalam hal korum sebagaimana dimaksud dalam ayat ( 1) tidak\ntercapai, diadakan pemanggilan RUPS kedua.\n(3) Pemanggilan sebagaimana dimaksud dalam ayat (2) harus dilakukan\npaling lambat 7 (tujuh) hari sebelum RUPS kedua diselenggarakan.\n(4) RUPS...\nPRESIDEN\nREPUBLIK INDONESIA\n(4) RUPS kedua diselenggarakan paling cepat 10 (sepuluh) hari dan\npaling lambat 21 (dua puluh satu) hari dari RUPS pertama.\n(5) RUPS kedua sebagaimana dimaksud dalam ayat (4) sah dan berhak\nmengambil keputusan apabila dihadiri oleh pemegang saham yang\nmewakili paling sedikit 1/3 (satu pertiga) bagian dari jumlah\nseluruh saham dengan hak suara yang sah.\n(6) Dalam hal korum RUPS kedua sebagaimana dimaksud dalam ayat\n(5) tidak tercapai, atas permohonan perseroan korum ditetapkan\noleh Ketua Pengadilan Negeri."
+   }
+  },
+  {
+   "id": "ID-H779-A74",
+   "no": 74,
+   "noLabel": {
+    "id": "Pasal 74"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 74\n(1) Keputusan RUPS diambil berdasarkan musyawarah untuk mufakat.\n(2) Dalam hal keputusan berdasarkan musyawarah untuk mufakat\nsebagaimana dimaksud dalam ayat (1) tidak tercapai, keputusan\ndiambil berdasarkan suara terbanyak biasa dari jumlah suara y ang\ndikeluarkan secara sah, kecuali Undang -undang ini dan atau\nAnggaran Dasar menentukan bahwa keputusan harus diambil\nberdasarkan suara yang lebih besar dari suara terbanyak biasa."
+   }
+  },
+  {
+   "id": "ID-H779-A75",
+   "no": 75,
+   "noLabel": {
+    "id": "Pasal 75"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 75\n(1) Keputusan RUPS untuk mengubah Anggaran Dasar sah apabila\ndihadiri oleh pemegang saham yang mewakili paling sedikit 2/3\n(dua pertiga) bagian dari jumlah seluruh saham dengan hak suara\nyang sah dan disetujui oleh paling sedikit 2/3 (dua pertiga) bagian\ndari jumlah suara tersebut.\n(2) Dalam...\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Dalam hal korum sebagaimana dimaksud dalam ayat (1) tidak\ntercapai, maka dalam RUPS kedua keputusan sah apabila dihadiri\noleh pemegang saham yang mewakili paling sedikit 2/3 (dua\npertiga) bagian dari jumlah seluruh saham dengan hak suara yang\nsah dan disetujui oleh suara terbanyak dari jumlah suara tersebut."
+   }
+  },
+  {
+   "id": "ID-H779-A76",
+   "no": 76,
+   "noLabel": {
+    "id": "Pasal 76"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 76\nDalam hal penggabungan, peleburan, pengambil alihan, kepailitan dan\npembubaran perseroan, keputusan RUPS sah apabila dihadiri oleh\npemegang saham yang mewakili paling sedikit 3/4 (tiga perempat) bagian\ndari jumlah seluruh saham dengan hak suara yang sah dan disetujui oleh\npaling sedikit 3/4 (tiga perempat) bagian dari jumlah suara tersebut."
+   }
+  },
+  {
+   "id": "ID-H779-A77",
+   "no": 77,
+   "noLabel": {
+    "id": "Pasal 77"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 77\nSetiap penyelenggaraan RUPS wajib dibuat risalah dan dibubuhi\ntandatangan ketua rapat dan paling sedikit 1 (satu) orang pemegang\nsaham yang ditunjuk dari dan oleh peserta RUPS."
+   }
+  },
+  {
+   "id": "ID-H779-A78",
+   "no": 78,
+   "noLabel": {
+    "id": "Pasal 78"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 78\n(1) Dalam Anggaran Dasar perseroan dapat ditentukan bahwa\nkeputusan RUPS dapat diambil dengan cara lain dari rapat.\n(2) Dalam hal Anggaran Dasar mengatur ketentuan sebagaimana\ndimaksud dalam ayat (1), keputusan dapat diambil apabila semua\npemegang saham dengan hak suara yang sah telah menyetujui\nsecara tertulis baik mengenai cara maupun keputusan yang diambil.\nBAB VI…\nPRESIDEN\nREPUBLIK INDONESIA\nBAB VI\nDIREKSI DAN KOMISARIS\nBagian Pertama\nDireksi"
+   }
+  },
+  {
+   "id": "ID-H779-A79",
+   "no": 79,
+   "noLabel": {
+    "id": "Pasal 79"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 79\n(1) Kepengurusan perseroan dilakukan oleh Direksi.\n(2) Perseroan yang bidang usahanya mengerahkan dana masyarakat,\nperseroan yang menerbitkan surat pengakuan utang atau Perseroan\nTerbuka wajib mempunyai paling sedikit 2 (dua) orang anggota\nDireksi.\n(3) Yang dapat diangkat menjadi anggota Direksi adalah orang\nperseorangan yang mampu melaksanakan perbuatan hukum dan\ntidak pernah dinyatakan pailit atau menjadi anggota Direksi atau\nKomisaris yang dinyatakan bersalah menyebabkan suatu perseroan\ndinyatakan pailit, atau orang yang pernah dihukum karena\nmelakukan tinda k pidana yang merugikan keuangan negara dalam\nwaktu 5 (lima) tahun sebelum pengangkatan."
+   }
+  },
+  {
+   "id": "ID-H779-A80",
+   "no": 80,
+   "noLabel": {
+    "id": "Pasal 80"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 80\n(1) Anggota Direksi diangkat oleh RUPS.\n(2) Untuk pertama kali pengangkatan anggota Direksi dilakukan\ndengan mencantumkan susunan dan nama anggota Direksi dalam\nAkta Pendirian sebagaimana dimaksud dalam Pasal 8 ayat (1) huruf\nb.\n(3) Anggota...\nPRESIDEN\nREPUBLIK INDONESIA\n(3) Anggota Direksi diangkat untuk jangka waktu tertentu dengan\nkemungkinan diangkat kembali.\n(4) Anggaran Dasar mengatur tata cara pencalonan, pengangkatan, dan\npemberhentian anggota Direksi tanpa mengurangi hak pemegang\nsaham dalam pencalonan."
+   }
+  },
+  {
+   "id": "ID-H779-A81",
+   "no": 81,
+   "noLabel": {
+    "id": "Pasal 81"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 81\n(1) Peraturan tentang pembagian tugas dan wewenang setiap anggota\nDireksi serta besar dan jenis penghasilan Direksi ditetapkan oleh\nRUPS.\n(2) Dalam Anggaran Dasar dapat ditetapkan bahwa kewenangan RUPS\nsebagaimana dimaksud dalam ayat (1) dilakukan oleh Komisaris\natas nama RUPS."
+   }
+  },
+  {
+   "id": "ID-H779-A82",
+   "no": 82,
+   "noLabel": {
+    "id": "Pasal 82"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 82\nDireksi bertanggungjawab penuh atas pengurusan perseroan untu k\nkepentingan dan tujuan perseroan serta mewakili perseroan baik di dalam\nmaupun di luar pengadilan."
+   }
+  },
+  {
+   "id": "ID-H779-A83",
+   "no": 83,
+   "noLabel": {
+    "id": "Pasal 83"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 83\n(1) Dalam hal anggota Direksi terdiri lebih dari 1 (satu) orang, maka\nyang berwenang mewakili perseroan adalah setiap anggota Direksi\nkecuali ditentukan lain dalam Undang -undang ini dan atau\nAnggaran Dasar.\n(2) Anggaran...\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Anggaran Dasar dapat menentukan pembatasan wewenang anggota\nDireksi sebagaimana dimaksud dalam ayat (1)."
+   }
+  },
+  {
+   "id": "ID-H779-A84",
+   "no": 84,
+   "noLabel": {
+    "id": "Pasal 84"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 84\n(1) Anggota Direksi tidak berwenang mewakili perseroan apabila:\na. terjadi perkara di depan pengadilan antara perseroan dengan\nanggota Direksi yang bersangkutan; atau\nb. anggota Direksi yang bersangkutan mempunyai kepentingan\nyang bertentangan dengan kepentingan perseroan.\n(2) Dalam Anggaran Dasar ditetapkan yang berhak mewakili perseroan\napabila terdapat keadaan sebagaimana dimaksud dalam ayat (1).\n(3) Dalam hal Anggara n Dasar tidak menetapkan ketentuan\nsebagaimana dimaksud dalam ayat (2), RUPS mengangkat 1 (satu)\norang pemegang saham atau lebih untuk mewakili perseroan."
+   }
+  },
+  {
+   "id": "ID-H779-A85",
+   "no": 85,
+   "noLabel": {
+    "id": "Pasal 85"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 85\n(1) Setiap anggota Direksi wajib dengan itikad baik dan penuh\ntanggung jawab menjalankan tugas untuk kepentingan dan usaha\nperseroan.\n(2) Setiap anggota Direksi bertanggungjawab penuh secara pribadi\napabila yang bersangkutan bersalah atau lalai menjalankan tugasnya\nsesuai dengan ketentuan sebagaimana dimaksud dalam ayat (1).\n(3) Atas...\nPRESIDEN\nREPUBLIK INDONESIA\n(3) Atas nama perseroan, pemegang saham yang mewakili paling\nsedikit 1/10 (satu persepuluh) bagian dari jumlah seluruh saham\ndengan hak suara yang sah dapat mengajukan gugat an ke\nPengadilan Negeri terhadap anggota Direksi yang karena kesalahan\natau kelalaiannya menimbulkan kerugian pada perseroan."
+   }
+  },
+  {
+   "id": "ID-H779-A86",
+   "no": 86,
+   "noLabel": {
+    "id": "Pasal 86"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 86\n(1) Direksi wajib:\na. membuat dan memelihara Daftar Pemegang Saham, risalah\nRUPS, dan risalah rapat Direksi; dan\nb. menyelenggarakan pembukuan perseroan.\n(2) Daftar Pemegang Saham, risalah dan pembukuan sebagaimana\ndimaksud dalam ayat (1) disimpan di tempat kedudukan perseroan.\n(3) Atas Permohonan tertulis dari pemegang saham, Direksi memberi\nizin kepada pemegang saham untuk memeriksa dan mendapatkan\nsalinan Daftar Pemegang Saham, risalah dan pembukuan\nsebagaimana dimaksud dalam ayat (1)."
+   }
+  },
+  {
+   "id": "ID-H779-A87",
+   "no": 87,
+   "noLabel": {
+    "id": "Pasal 87"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 87\nAnggota Direksi wajib melaporkan kepada perseroan mengenai\nkepemilikan sahamnya dan atau keluarganya pada perseroan terseb ut dan\nperseroan lain."
+   }
+  },
+  {
+   "id": "ID-H779-A88",
+   "no": 88,
+   "noLabel": {
+    "id": "Pasal 88 …"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Pertama"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 88\n(1) Direksi wajib meminta persetujuan RUPS untuk mengalihkan atau\nmenjadikan jaminan utang seluruh atau sebagian besar kekayaan\nperseroan.\n(2) Perbuatan hukum sebagaimana dimaksud dalam ayat (1) tidak boleh\nmerugikan pihak ketiga yang beritikad baik.\n(3) Keputusan RUPS untuk mengalihkan atau menjadikan jaminan\nutang seluruh atau sebagian besar kekayaan perseroan sah apabila\ndihadiri oleh pemegan g saham yang mewakili paling sedikit 3/4\n(tiga perempat) bagian dari jumlah seluruh saham dengan hak suara\nyang sah dan disetujui oleh paling sedikit 3/4 (tiga perempat) bagian\ndari jumlah suara tersebut.\n(4) Perbuatan hukum sebagaimana dimaksud dalam ayat (1)\ndiumumkan dalam 2 (dua) surat kabar harian paling lambat 30 (tiga\npuluh) hari terhitung sejak perbuatan hukum tersebut dilakukan."
+   }
+  },
+  {
+   "id": "ID-H779-A89",
+   "no": 89,
+   "noLabel": {
+    "id": "Pasal 89"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 89\nDireksi dapat memberi kuasa tertulis kepada 1 (satu) orang karyawan\nperseroan atau lebih atau orang lain untu k dan atas nama perseroan\nmelakukan perbuatan hukum tertentu."
+   }
+  },
+  {
+   "id": "ID-H779-A90",
+   "no": 90,
+   "noLabel": {
+    "id": "Pasal 90"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 90\n(1) Direksi hanya dapat mengajukan permohonan ke Pengadilan Negeri\nagar perseroan dinyatakan pailit berdasarkan keputusan RUPS.\n(2) Dalam...\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Dalam hal kepailitan terjadi karena kesalahan atau kelalaian Direksi\ndan kekayaan perseroan tidak cukup untuk menutup kerugian akibat\nkepailitan tersebut, maka setiap anggota Direksi secara tanggung\nrenteng bertanggung jawab atas kerugian itu.\n(3) Anggota Direksi yang dapat membuktika n bahwa kepailitan bukan\nkarena kesalahan atau kelalaiannya tidak bertanggungjawab secara\ntanggung renteng atas kerugian tersebut."
+   }
+  },
+  {
+   "id": "ID-H779-A91",
+   "no": 91,
+   "noLabel": {
+    "id": "Pasal 91"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 91\n(1) Anggota Direksi dapat sewaktu -waktu diberhentikan berdasarkan\nkeputusan RUPS dengan menyebutkan alasannya.\n(2) Keputusan untuk memberhentikan anggota Direksi sebagaimana\ndimaksud dalam ayat (1) hanya dapat diambil setelah yang\nbersangkutan diberi kesempatan untuk membela diri dalam RUPS.\n(3) Dengan keputusan pemberhentian sebagaimana dimaksud dalam\nayat (2), maka kedudukannya sebagai anggota Direksi berakhir."
+   }
+  },
+  {
+   "id": "ID-H779-A92",
+   "no": 92,
+   "noLabel": {
+    "id": "Pasal 92"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 92\n(1) Anggota Direksi dapat diberhentikan untuk sementara oleh RUPS\natau Komisaris dengan menyebutkan alasannya.\n(2) Pemberhentian sementara sebagaimana dimaksud dalam ayat (1)\ndiberitahukan secara tertulis kepada Direksi yang bersangkutan.\n(3) Anggota Direksi yang diberhentikan sementara sebagaimana\ndimaksud dalam ayat (1) tidak berwenang melakukan tugasnya.\n(4) Dalam waktu paling lambat 30 (tiga puluh) hari setelah tanggal\npemberhentian sementara harus diadakan RUPS.\n(5) Dalam...\nPRESIDEN\nREPUBLIK INDONESIA\n(5) Dalam RUPS sebagaimana dimaksud dalam ayat (4) anggota\nDireksi yang bersangkutan diberi kesempatan untuk membela diri.\n(6) RUPS dapat mencabut keputusan pemberhentian sementara tersebut\natau memberhentikan anggota Direksi yang bersangkutan.\n(7) Apabila dalam waktu 30 (tiga puluh) hari tidak diadakan RUPS\nsebagaimana dimaksud dalam ayat (4), pemberhentian sementara\ntersebut batal."
+   }
+  },
+  {
+   "id": "ID-H779-A93",
+   "no": 93,
+   "noLabel": {
+    "id": "Pasal 93"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 93\nDalam Anggaran Dasar diatur ketentuan mengenai pengisian sementara\njabatan Direksi yang kosong atau dalam hal Direksi diberhentikan untuk\nsementara atau berhalangan.\nBagian Kedua\nKomisaris"
+   }
+  },
+  {
+   "id": "ID-H779-A94",
+   "no": 94,
+   "noLabel": {
+    "id": "Pasal 94"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 94\n(1) Perseroan memiliki Komisaris yang wewenang dan kewajibannya\nditetapkan dalam Anggaran Dasar.\n(2) Perseroan yang bidang usahanya mengerahkan dana masyarakat,\nperseroan yang menerbitkan surat pengakuan utang, atau Perseroan\nTerbuka wajib mempunyai paling sedikit 2 (dua) orang Komisaris.\n(3) Dalam hal terdapat lebih dari 1 (satu) orang Komisaris, mereka\nmerupakan sebuah majelis."
+   }
+  },
+  {
+   "id": "ID-H779-A95",
+   "no": 95,
+   "noLabel": {
+    "id": "Pasal 95 …"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kedua"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 95\n(1) Komisaris diangkat oleh RUPS.\n(2) Untuk pertama kali pengangkatan Komisaris dilakukan dengan\nmencantumkan susunan dan nama Komisaris dalam Akta Pendirian\nsebagaimana dimaksud dalam Pasal 8 ayat (1) huruf b.\n(3) Komisaris diangkat untuk jangka waktu tertentu dengan\nkemungkinan diangkat kembali.\n(4) Anggaran Dasar mengatur tata cara pencalonan, pengangkatan, dan\npemberhentian Komisaris tanpa mengurangi hak pemegang saham\ndalam pencalonan."
+   }
+  },
+  {
+   "id": "ID-H779-A96",
+   "no": 96,
+   "noLabel": {
+    "id": "Pasal 96"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 96\nYang dapat diangkat menjadi Komisaris adalah orang perseorangan yang\nmampu melaksanakan perbu atan hukum dan tidak pernah dinyatakan\npailit atau menjadi anggota Direksi atau Komisaris yang dinyatakan\nbersalah menyebabkan suatu perseroan dinyatakan pailit, atau orang yang\npernah dihukum karena melakukan tindak pidana yang merugikan\nkeuangan negara dalam waktu 5 (lima) tahun sebelum pengangkatan."
+   }
+  },
+  {
+   "id": "ID-H779-A97",
+   "no": 97,
+   "noLabel": {
+    "id": "Pasal 97"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 97\nKomisaris bertugas mengawasi kebijaksanaan Direksi dalam\nmenjalankan perseroan serta memberikan nasihat kepada Direksi."
+   }
+  },
+  {
+   "id": "ID-H779-A98",
+   "no": 98,
+   "noLabel": {
+    "id": "Pasal 98 …"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kedua"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 98\n(1) Komisaris wajib dengan itikad baik dan penuh tanggung jawab\nmenjalankan tugas untuk kepentingan dan usaha perseroan.\n(2) Atas nama perseroan, pemegang saham yang mewakili paling\nsedikit 1/10 (satu persepuluh) bagian dari jumlah seluruh saham\ndengan hak sua ra yang sah dapat mengajukan gugatan ke\nPengadilan Negeri terhadap Komisaris yang karena kesalahan atau\nkelalaiannya menimbulkan kerugian pada perseroan."
+   }
+  },
+  {
+   "id": "ID-H779-A99",
+   "no": 99,
+   "noLabel": {
+    "id": "Pasal 99"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 99\nKomisaris wajib melaporkan kepada perseroan mengenai kepemilikan\nsahamnya dan atau keluarg anya pada perseroan tersebut dan perseroan\nlain."
+   }
+  },
+  {
+   "id": "ID-H779-A100",
+   "no": 100,
+   "noLabel": {
+    "id": "Pasal 100"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 100\n(1) Dalam Anggaran Dasar dapat ditetapkan pemberian wewenang\nkepada Komisaris untuk memberikan persetujuan atau bantuan\nkepada Direksi dalam melakukan perbuatan hukum tertentu.\n(2) Berdasarkan A nggaran Dasar atau keputusan RUPS, Komisaris\ndapat melakukan tindakan pengurusan perseroan dalam keadaan\ntertentu untuk jangka waktu tertentu.\n(3) Bagi Komisaris yang dalam keadaan tertentu untuk jangka waktu\ntertentu melakukan tindakan pengurusan sebagai mana dimaksud\ndalam ayat (2) berlaku semua ketentuan mengenai hak, wewenang\ndan kewajiban Direksi terhadap perseroan dan pihak ketiga."
+   }
+  },
+  {
+   "id": "ID-H779-A101",
+   "no": 101,
+   "noLabel": {
+    "id": "Pasal 101 …"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kedua"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 101\n(1) Anggota Komisaris dapat diberhentikan atau diberhentikan\nsementara oleh RUPS.\n(2) Ketentuan mengenai pemberhentian dan pemberhentian sementara\nanggota Direksi sebagaimana di maksud dalam Pasal 91 dan Pasal\n92 ayat (2), ayat (3), ayat (4), ayat (5), ayat (6) dan ayat (7) berlaku\npula terhadap Komisaris.\nBAB VII\nPENGGABUNGAN, PELEBURAN,\nDAN PENGAMBIL ALIHAN"
+   }
+  },
+  {
+   "id": "ID-H779-A102",
+   "no": 102,
+   "noLabel": {
+    "id": "Pasal 102"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 102\n(1) Satu perseroan atau lebih dapat menggabungkan diri menjadi satu\ndengan perseroan yang telah ada atau meleburkan diri dengan\nperseroan lain dan membentuk perseroan baru.\n(2) Rencana penggabungan atau peleburan sebagaiman a dimaksud\ndalam ayat (1) dituangkan dalam Rancangan Penggabungan atau\nPeleburan yang disusun bersama oleh Direksi dari perseroan yang\nakan melakukan penggabungan atau peleburan, yang memuat\nsekurang-kurangnya:\na. nama perseroan yang akan melakukan pengga bungan atau\npeleburan;\nb. alasan serta penjelasan masing -masing Direksi perseroan yang\nakan melakukan penggabungan atau peleburan dan persyaratan\npenggabungan atau peleburan;\nc.tata...\nPRESIDEN\nREPUBLIK INDONESIA\nc.tata cara konversi saham dari masing -masing perseroan yang\nakan melakukan penggabungan atau peleburan terhadap saham\nperseroan hasil penggabungan atau peleburan;\nd.rancangan perubahan Anggaran Dasar perseroan hasil\npenggabungan apabila ada, atau rancangan Akta Pendirian\nperseroan baru hasil peleburan;\ne.neraca, per hitungan laba rugi yang meliputi 3 (tiga) tahun buku\nterakhir dari semua perseroan yang akan melakukan\npenggabungan atau peleburan; dan\nf. hal-hal lain yang perlu diketahui oleh pemegang saham\nmasing-masing perseroan.\n(3) Penggabungan atau peleburan seba gaimana dimaksud dalam ayat\n(1) hanya dapat dilakukan apabila Rancangan Penggabungan atau\nPeleburan sebagaimana dimaksud dalam ayat (2) disetujui oleh\nRUPS masing-masing perseroan."
+   }
+  },
+  {
+   "id": "ID-H779-A103",
+   "no": 103,
+   "noLabel": {
+    "id": "Pasal 103"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 103\n(1) Pengambil alihan perseroan dapat dilakukan oleh badan hukum atau\norang perseorangan.\n(2) Pengambilalihan sebagaimana dimaksud dalam ayat (1) dapat\ndilakukan melalui pengambilalihan seluruh atau sebagian besar\nsaham yang dapat mengakibatkan beralihnya pengendalian terhadap\nperseroan tersebut.\n(3) Dalam hal pengambilalihan dilakukan oleh perseroan, maka berlaku\nketentuan sebagai berikut:\na. Rencana pengambilalihan dituangkan dalam Rancangan\nPengambilalihan yang disusun oleh Direksi perseroan yang akan\nmengambil alih dan yang akan diambil alih, yang memuat\nPRESIDEN\nREPUBLIK INDONESIA\nsekurang-kurangnya:\n1) nama perseroan yang mengambil alih dan yang diambil alih;\ndan\n2) alasan serta penjelasan Direksi perseroan masing masing\nmengenai persyaratan serta tata cara pengabilalihan saha m\nperseroan yang diambil alih.\nb. Pengambilalihan dilakukan dengan persetujuan RUPS masing -\nmasing atas Rancangan Pengambilalihan yang diajukan oleh\nDireksi masing-masing perseroan.\n(4) Dalam hal pengambilalihan dilakukan oleh badan hukum yang\nbukan perseroan, maka berlaku ketentuan sebagai berikut :\na. Rencana pengambilalihan dituangkan dalam Rancangan\nPengambialihan yang disusun oleh Direksi perseroan yang akan\ndiambil alih dan Badan Pengurus badan hukum yang bukan\nperseroan yang akan mengambil alih, mem uat sekurang -\nkurangnya :\n1). Nama perseroan yang akan diambil alih dan nama badan\nhukum yang bukan perseroan yang akan mengambil alih; dan\n2). Alasan serta penjelasan Direksi perseroan yang akan diambil\nalih dan badan hukum yang bukan perseroan yang ak an\nmengambil alih mengenai persyaratan serta tata cara\npengambilalihan saham perseroan yang diambil alih.\nb.Pengambilalihan dilakukan dengan persetujuan RUPS perseroan\nyang diambil alih dan persetujuan Anggota atau Badan Pengurus\ndari badan hukum yang bukan perseroan yang mengambil alih.\n(5) Dalam hal pengambilalihan dilakukan orang perseorangan, maka\nberlaku ketentuan sebagai berikut:\na.Rencana...\nPRESIDEN\nREPUBLIK INDONESIA\na.Rencana pengambilali han dituangkan dalam Rancangan\nPengambilalihan yang disusun oleh Direksi perseroan yang akan\ndiambil alih dan orang perseorangan yang akan mengambil alih,\nyang memuat sekurang-kurangnya:\n1) nama perseroan yang akan diambil alih dan orang\nperseorangan yang akan mengambil alih; dan\n2) alasan serta penjelasan Direksi perseroan yang akan diambil\nalih mengenai persyaratan dan tata cara pengambilalihan\nsaham.\nb. Pengambilalihan dilakukan dengan persetujuan RUPS perseroan\nyang akan diambil alih atas Rancang an yang diajukan Direksi\nperseroan yang akan diambil alih dan orang perseorangan yang\nakan mengambil alih.\n(6) Ketentuan sebagaimana dimaksud dalam ayat (1) tidak membatasi\nbadan hukum atau orang perseorangan untuk mengambil alih saham\nperseroan lain langsung dari pemegang saham."
+   }
+  },
+  {
+   "id": "ID-H779-A104",
+   "no": 104,
+   "noLabel": {
+    "id": "Pasal 104"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 104\n(1) Perbuatan hukum penggabungan, peleburan, dan pengambilalihan\nperseroan harus memperhatikan:\na.kepentingan perseroan, pemegang saham minoritas dan karyawan\nperseroan; dan\nb.kepentingan masyarakat dan persaingan s ehat dalam melakukan\nusaha.\n(2) Penggabungan, peleburan, dan pengambilalihan perseroan tidak\nmengurangi hak pemegang saham minoritas untuk menjual\nsahamnya dengan harga yang wajar."
+   }
+  },
+  {
+   "id": "ID-H779-A105",
+   "no": 105,
+   "noLabel": {
+    "id": "Pasal 105…"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 105\n(1) Keputusan RUPS mengenai penggabungan, peleburan, dan\npengambilalihan perseroan sah apabila diambil sesuai dengan\nketentuan Pasal 74 ayat (1) dan Pasal 76.\n(2) Direksi wajib mengumumkan dalam 2 (dua) surat kabar harian\nmengenai rencana penggabungan, pelebur an, dan pengambilalihan\nperseroan paling lambat 14 (empat belas) hari sebelum pemanggilan\nRUPS."
+   }
+  },
+  {
+   "id": "ID-H779-A106",
+   "no": 106,
+   "noLabel": {
+    "id": "Pasal 106"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 106\n(1) Rancangan Penggabungan perseroan yang telah mendapat\npersetujuan RUPS dilampirkan pada permohonan perubahan\nAnggaran Dasar perseroan untuk menda patkan persetujuan Menteri\nsebagaimana dimaksud dalam Pasal 15 ayat (1).\n(2) Rancangan Penggabungan perseroan yang telah mendapat\npersetujuan RUPS baik yang tidak disertai perubahan Anggaran\nDasar maupun yang disertai perubahan Anggaran Dasar dilaporkan\nkepada Menteri sebagaimana dimaksud dalam Pasal 15 ayat (3).\n(3) Rancangan Peleburan perseroan yang telah mendapat persetujuan\nRUPS dilampirkan pada permohonan pengesahan Akta Pendirian\nperseroan hasil peleburan untuk mendapat pengesahan Menteri\nsebagaimana dimaksud dalam Pasal 7 ayat (6).\n(4) Rancangan Pengambilalihan perseroan yang telah mendapat\npersetujuan RUPS dilaporkan kepada Menteri sebagaimana\ndimaksud dalam Pasal 15 ayat (3).\n(5) Ketentuan...\nPRESIDEN\nREPUBLIK INDONESIA\n(5) Ketentuan sebagaimana dimaksud dalam Pasal 21 dan P asal 22\nberlaku pula bagi penggabungan, peleburan, dan pengambilalihan\nperseroan."
+   }
+  },
+  {
+   "id": "ID-H779-A107",
+   "no": 107,
+   "noLabel": {
+    "id": "Pasal 107"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 107\n(1) Dalam hal terjadi penggabungan atau peleburan, maka perseroan\nyang menggabungkan diri atau meleburkan diri menjadi bubar.\n(2) Pembubaran perseroan sebagaimana dimaksud dalam ayat (1) dapat\ndilakukan dengan atau tanpa terlebih dahulu mengadakan likuidasi.\n(3) Dalam hal pembubaran perseroan sebagaimana dimaksud dalam\nayat (1) tidak didahului dengan likuidasi, maka:\na. aktiva dan pasiva perseroan yang digabungkan atau yang\nmeleburkan diri, beralih karena hukum kepada perseroan hasil\npenggabungan atau peleburan; dan\nb. pemegang saham perseroan yang digabungkan atau yang\nmeleburkan diri menjadi pemegang saham perseroan hasil\npenggabungan atau peleburan."
+   }
+  },
+  {
+   "id": "ID-H779-A108",
+   "no": 108,
+   "noLabel": {
+    "id": "Pasal 108"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 108\n(1) Direksi perseroan hasil penggabungan atau peleburan wajib\nmengumumkan hasil penggabungan atau peleburan tersebut dalam\n2 (dua) surat kabar harian paling lambat 30 (tiga puluh) hari\nterhitung sejak penggabungan, atau peleburan selesai dilakukan.\n(2) Ketentuan sebagaimana dimaksud dalam ayat (1) berlaku pula\nterhadap Direksi perseroan yang melakukan pengambilalihan\nsebagaimana dimaksud dalam Pasal 103 ayat (1)."
+   }
+  },
+  {
+   "id": "ID-H779-A109",
+   "no": 109,
+   "noLabel": {
+    "id": "Pasal 109…"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 109\nKetentuan mengenai penggabungan, peleburan, dan pengambilalihan\nperseroan diatur lebih lanjut dengan Peraturan Pemerintah.\nBAB VIII\nPEMERIKSAAN TERHADAP PERSEROAN"
+   }
+  },
+  {
+   "id": "ID-H779-A110",
+   "no": 110,
+   "noLabel": {
+    "id": "Pasal 110"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 110\n(1) Pemeriksaan terhadap perseroan dapat dilakukan dengan tujuan\nuntuk mendapatkan data atau keterangan dalam hal terdapat dugaan\nbahwa:\na. perseroan melakukan perbuatan melawan hukum yang merugikan\npemegang saham atau pihak ketiga; atau\nb. anggota Direksi atau Komisaris melakukan perbuatan melawan\nhukum yang merugikan perseroan atau pemegang saham atau\npihak ketiga.\n(2) Pemeriksaan sebagaimana dimaksud dalam ayat (1) dilakukan\ndengan mengajukan permohonan secara tertulis beserta alasannya\nke Pengadilan Negeri yang daerah hukumnya meliputi tempat\nkedudukan perseroan.\n(3) Permohonan sebagaimana dimaksud dalam ayat (2) hanya dapat\ndilakukan oleh:\na. pemegang saham atas nama diri sendiri atau atas nama perseroan\napabila mewakili paling sedikit 1/10 (satu persepuluh) bagian\ndari jumlah seluruh saham dengan hak suara yang sah;\nb. pihak...\nPRESIDEN\nREPUBLIK INDONESIA\nb. pihak lain yang dalam Anggaran D asar perseroan atau perjanjian\ndengan perseroan diberi wewenang untuk mengajukan\npermohonan pemeriksaan; atau\nc.Kejaksaan dalam hal mewakili kepentingan umum."
+   }
+  },
+  {
+   "id": "ID-H779-A111",
+   "no": 111,
+   "noLabel": {
+    "id": "Pasal 111"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 111\n(1) Ketua Pengadilan Negeri berhak menolak atau mengabulkan\npermohonan sebagaimana dimaksud dalam Pasal 110.\n(2) Ketua Pengadilan Negeri sebagaimana dimaksud dalam ayat (1)\nmenolak permohonan apabila permohonan tersebut tidak didasarkan\natas alasan yang wajar.\n(3) Dalam hal permohonan dikabulkan, Ketua Pengadilan Negeri\nmengeluarkan pene tapan bagi pemeriksaan dan pengangkatan\npaling banyak 3 (tiga) orang ahli untuk melakukan pemeriksaan.\n(4) Setiap anggota Direksi, Komisaris, karyawan perseroan, dan\nakuntan publik yang telah ditunjuk oleh perseroan sebagaimana\ndimaksud dalam Pasal 59 ayat (1) tidak dapat diangkat sebagai ahli\nsebagaimana dimaksud dalam ayat (3).\n(5) Pemeriksa berhak memeriksa semua dokumen dan kekayaan\nperseroan yang dianggap perlu untuk diketahui.\n(6) Direksi, Komisaris, dan semua karyawan perseroan wajib\nmemberikan segala keterangan yang diperlukan untuk pelaksanaan\npemeriksaan.\n(7) Pemeriksa dilarang mengumumkan hasil pemeriksaan kepada pihak\nlain."
+   }
+  },
+  {
+   "id": "ID-H779-A112",
+   "no": 112,
+   "noLabel": {
+    "id": "Pasal 112…"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 112\n(1) Laporan hasil pemeriksaan disampaikan oleh pemeriksa kepada\nKetua Pengadilan Negeri.\n(2) Ketua Pengadilan Negeri memberikan salinan laporan hasil\npemeriksaan hanya kepada pemohon dan perseroan yang\nbersangkutan."
+   }
+  },
+  {
+   "id": "ID-H779-A113",
+   "no": 113,
+   "noLabel": {
+    "id": "Pasal 113"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 113\n(1) Dalam hal permohonan untuk melakukan pemeriksaan dikabulkan,\nmaka ketua Pengadilan Negeri menentukan jumlah maksimum\nbiaya pemeriksaan.\n(2) Biaya sebagaimana dimaksud dibayar oleh perseroan.\n(3) Ketua Pengadilan Negeri atas permohonan perseroan dapat\nmenetapkan penggantian seluruh atau sebagian biaya pemeriksaan\nsebagaimana dimaksud dalam ayat (2) kepada pemohon, anggota\nDireksi, dan atau Komisaris.\nBAB IX\nPEMBUBARAN PERSEROAN DAN LIKUIDASI"
+   }
+  },
+  {
+   "id": "ID-H779-A114",
+   "no": 114,
+   "noLabel": {
+    "id": "Pasal 114"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 114\nPerseroan bubar karena:\na. keputusan RUPS;\nb. jangka waktu berdirinya yang ditetapkan dalam Anggaran Dasar\ntelah berakhir;\nc. penetapan…\nPRESIDEN\nREPUBLIK INDONESIA\nc. penetapan Pengadilan."
+   }
+  },
+  {
+   "id": "ID-H779-A115",
+   "no": 115,
+   "noLabel": {
+    "id": "Pasal 115"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 115\n(1) Direksi dapat mengajukan usul pembubaran perseroan kepada\nRUPS.\n(2) Keputusan RUPS tentang pembubaran perseroan sah apabila\ndiambil sesuai dengan ketentuan sebagaimana dimaksud dalam\nPasal 74 ayat (1) dan Pasal 76.\n(3) Perseroan bubar pada saat yang ditetapkan dalam keputusan RUPS.\n(4) Pembubaran perseroan sebagaimana dimaksud dalam ayat (3)\ndiikuti dengan likuidasi oleh likuidator."
+   }
+  },
+  {
+   "id": "ID-H779-A116",
+   "no": 116,
+   "noLabel": {
+    "id": "Pasal 116"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 116\n(1) Dalam hal perseroan bubar karena jangka waktu berdirinya berakhir\nsebagaimana ditetapkan dalam Anggaran Dasar, Menteri atas\npermohonan Direksi dapat memperpanjang jangka waktu tersebut.\n(2) Permohonan memperpanjang jangka waktu sebagaimana dimaksud\ndalam ayat (1) hanya dapat dilakukan berdasarkan keputusan RUPS\nyang dihadiri oleh pemegang saham yang mewakili paling sedikit\n3/4 (tiga perempat) bagian dari jumlah seluruh saham dengan hak\nsuara yang sah dan disetujui paling sedikit oleh 3/4 (tiga perempat)\nbagian dari jumlah suara tersebut.\n(3) Permohonan memperpanjang jangka waktu sebagaimana dimaksud\ndalam ayat (1) dan permohonan persetujuan perubahan Anggaran\nDasar, diajukan kepada Menteri paling lambat 90 (sembilan puluh)\nhari sebelum jangka waktu berdirinya perseroan berakhir.\n(4) Keputusan...\nPRESIDEN\nREPUBLIK INDONESIA\n(4) Keputusan Menteri atas permohonan sebagaimana dimaksud dalam\nayat (1) diberitakan paling lambat 30 (tiga puluh) hari terhitung\nsejak permohonan diterima.\n(5). Dalam hal jangka waktu berdirinya perseroan berakhir dan RUPS\nmemutuskan tidak memperpanjang jang ka waktu tersebut, maka\nproses likuidasinya dilakukan sesuai dengan ketentuan dalam Bab\nini."
+   }
+  },
+  {
+   "id": "ID-H779-A117",
+   "no": 117,
+   "noLabel": {
+    "id": "Pasal 117"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 117\n(1) Pengadilan Negeri dapat membubarkan perseroan atas:\na. permohonan kejaksaan berdasarkan alasan kuat perseroan\nmelanggar kepentingan umum;\nb. permohonan 1 (satu) orang pemegang saham atau lebih yang\nmewakili paling sedikit 1/10 (satu persepuluh) bagian dari\njumlah seluruh saham dengan hak suara yang sah;\nc. permohonan kreditor berdasarkan alasan:\n1) perseroan tidak mampu membayar utangnya setelah\ndinyatakan pailit; atau\n2) harta kekayaan perseroan tidak cukup untuk melunasi seluruh\nutangnya setelah pernyataan pailit dicabut; atau\nd. permohonan pihak yang berkepentingan berdasarkan alasan\nadanya cacat hukum dalam Akta Pendirian perseroan.\n(2) Dalam penetapan pengadilan ditetapkan pula penunjukan likuidator."
+   }
+  },
+  {
+   "id": "ID-H779-A118",
+   "no": 118,
+   "noLabel": {
+    "id": "Pasal 118…"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 118\n(1) Dalam hal perseroan bubar, likuidator dalam waktu paling lambat\n30 (tiga puluh) hari wajib:\na. mendaftarkan dalam daftar sebagaimana dimaksud dalam Pasal\n21;\nb. mengajukan permohonan untuk diumumkan dalam Berita Negara\nRepublik Indonesia;\nc. mengumumkan dalam 2 (dua) surat kabar harian; dan\nd. memberitahukan kepada Menteri.\n(2) Selama pendaftaran dan pengumuman sebagaimana dimaksud\ndalam ayat (1) huruf a, hur uf b, dan huruf c belum dilakukan,\nbubarnya perseroan tidak berlaku bagi pihak ketiga.\n(3) Dalam hak likuidator lalai mendaftarkan sebagaimana dimaksud\ndalam ayat (1) huruf a, maka likuidator secara tanggung renteng\nbertanggung jawab atas kerugian yang diderita pihak ketiga.\n(4) Dalam pendaftaran dan pengumuman sebagaimana dimaksud dalam\nayat (1) wajib disebutkan nama dan alamat likuidator."
+   }
+  },
+  {
+   "id": "ID-H779-A119",
+   "no": 119,
+   "noLabel": {
+    "id": "Pasal 119"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 119\n(1) Dalam hal perseroan bubar, maka perseroan tidak dapat melakukan\nperbuatan hukum kecuali diperlukan unt uk membereskan\nkekayaannya dalam proses likuidasi.\n(2) Tindakan pemberesan sebagaimana dimaksud dalam ayat (1)\nmeliputi:\na. pencatatan dan pengumpulan kekayaan perseroan;\nb. penentuan...\nPRESIDEN\nREPUBLIK INDONESIA\nb. penentuan tata cara pembagian kekayaan;\nc. pembayaran kepada para kreditor;\nd. pembayaran sisa kekayaan hasil likuidasi kepada pemegang\nsaham; dan\ne. tindakan-tindakan lain yang perlu dilakukan dalam pelaksanaan\npemberesan kekayaan.\n(3) Dalam hal perseroan sedang dalam proses likuidasi, maka pada\nsurat keluar dicantumkan kata -kata \"dalam likuidasi\" di belakang\nnama perseroan."
+   }
+  },
+  {
+   "id": "ID-H779-A120",
+   "no": 120,
+   "noLabel": {
+    "id": "Pasal 120"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 120\n(1) Likuidator dari perseroan yang telah bubar wajib memberitahukan\nkepada semua kreditornya dengan surat tercatat mengenai bubarnya\nperseroan.\n(2) Pemberitahuan sebagaimana dimaksud dalam ayat (1) memuat:\na. nama dan alamat likuidator;\nb. tata cara pengajuan tagihan; dan\nc. jangka waktu mengajukan tagihan yang tidak boleh lebih dari\n120 (seratus dua puluh) hari terhitung sejak surat pemberitahuan\nditerima.\n(3) Kreditor yang mengajukan tagihan sesuai dengan ketentuan\nsebagaimana dimaksud dalam ayat (2) huruf b dan huruf c, dan\nkemudian ditolak, dapat mengajukan gugatan ke Pengadilan Negeri\npaling lambat 90 (sembilan puluh) hari terhitung sejak tanggal\npenolakan."
+   }
+  },
+  {
+   "id": "ID-H779-A121",
+   "no": 121,
+   "noLabel": {
+    "id": "Pasal 121…"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 121\n(1) Kreditor yang tidak mengajukan tagihannya sesuai dengan\nketentuan Pasal 120 ayat (2) huruf c, dapat mengajukan tagihannya\nmelalui Pengadilan Negeri dalam waktu 2 (dua) tahun terhitung\nsejak bubarnya perseroan didaftarkan dan diumumkan sebagaimana\ndimaksud dalam Pasal 118.\n(2) Tagihan yang diajukan kreditor sebagaimana dimaksud dalam ayat\n(1) hanya dapat dilakukan terhadap sisa kekayaan perseroan yang\nbelum dibagikan kepada pemegang saham."
+   }
+  },
+  {
+   "id": "ID-H779-A122",
+   "no": 122,
+   "noLabel": {
+    "id": "Pasal 122"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 122\n(1) Dalam hal tidak ditunjuk likuidator, maka Direksi bertindak selaku\nlikuidator.\n(2) Ketentuan mengenai pengangkatan, pemberhentian sementara,\npemberhentian, wewenang, kewajiban, tanggung jawab, dan\npengawasan terhadap Direksi berlaku pula bagi likuidator."
+   }
+  },
+  {
+   "id": "ID-H779-A123",
+   "no": 123,
+   "noLabel": {
+    "id": "Pasal 123"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 123\nAtas permohonan 1 (satu) orang atau lebih yang berkepentingan atau atas\npermohonan kejaksaan, Ketua Pengadilan Negeri dapat mengangkat\nlikuidator baru dan memberhentikan likuidator lama karena yang\nbersangkutan tidak melaksanakan tu gas sebagaimana mestinya atau\ndalam hal utang perseroan melebihi kekayaan perseroan."
+   }
+  },
+  {
+   "id": "ID-H779-A124",
+   "no": 124,
+   "noLabel": {
+    "id": "Pasal 124…"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 124\n(1) Likuidator bertanggung jawab kepada RUPS atas likuidasi yang\ndilakukan.\n(2) Sisa kekayaan hasil likuidasi diperuntukkan bagi para pemegang\nsaham.\n(3) Likuidator wajib mendaftarkan dan mengumumkan hasil akhir\nproses likuidasi sesuai dengan ketentuan Pasal 21 dan Pasal 22 serta\nmengumumkannya dalam 2 (dua) surat kabar harian.\nBAB X\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H779-A125",
+   "no": 125,
+   "noLabel": {
+    "id": "Pasal 125"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 125\n(1) Akta Pendirian perseroan yang telah disahkan atau Anggaran Dasar\nyang perubahannya telah disetujui sebelum Undang -undang ini\nberlaku, tetap berlaku sepanjang tidak bertentangan dengan\nUndang-undang ini.\n(2) Akta Pendiri an perseroan yang belum disahkan atau Anggaran\nDasar yang perubahannya belum disetujui oleh Menteri pada saat\nberlakunya Undang-undang ini, wajib disesuaikan dengan ketentuan\nUndang-undang ini.\n(3) Dalam waktu 2 (dua) tahun terhitung sejak Undang -undang in i\nmulai berlaku, semua perseroan yang didirikan dan telah disahkan\nberdasarkan Kitab Undang -undang Hukum Dagang (Wetboek van\nKoophandel, Staatsblad 1847:23), harus telah disesuaikan dengan\nketentuan Undang-undang ini."
+   }
+  },
+  {
+   "id": "ID-H779-A126",
+   "no": 126,
+   "noLabel": {
+    "id": "Pasal 126…"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 126\n(1) Dalam wak tu 3 (tiga) tahun terhitung sejak berlakunya\nUndang-undang ini, badan hukum yang didirikan berdasarkan\nOrdonansi Maskapai Andil Indonesia (Ordonnantie op de\nIndonesische Maatschappij op aandeelen, staatsblad 1939:569 jo\n717), wajib mengajukan permohonan pe ngesahan atas Akta\nPendirian dan Anggaran Dasarnya kepada Menteri.\n(2) Terhadap badan hukum sebagaimana dimaksud dalam ayat (1) yang\nAnggaran Dasarnya telah memperoleh pengesahan Menteri, berlaku\nketentuan Undang-undang ini.\nBAB XI\nKETENTUAN LAIN-LAIN"
+   }
+  },
+  {
+   "id": "ID-H779-A127",
+   "no": 127,
+   "noLabel": {
+    "id": "Pasal 127"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 127\nBagi perseroan yang melakukan kegiatan tertentu di bidang pasar modal\nberlaku ketentuan Undang -undang ini, sepanjang tidak diatur lain dalam\nperaturan perundang-undangan di bidang pasar modal.\nBAB XII…\nPRESIDEN\nREPUBLIK INDONESIA\nBAB XII\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H779-A128",
+   "no": 128,
+   "noLabel": {
+    "id": "Pasal 128"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 128\n(1) Dengan berlakunya Undang -undang ini, Buku Kesatu Titel Ketiga\nBagian Ketiga Pasal 36 sampai dengan Pasal 56 Kitab\nUndang-undang Hukum Dagang (Wetboek van Koophandel,\nStaatsblad 1847: 23) yang mengatur mengenai Perseroan Terbatas\nberikut segala perub ahannya, terakhir dengan Undang -undang\nNomor 4 Tahun 1971, dinyatakan tidak berlaku.\n(2) Segala peraturan pelaksanaan dari Buku Kesatu Titel Ketiga Bagian\nKetiga Pasal 36 sampai dengan Pasal 56 Kitab Undang -undang\nHukum Dagang (Wetboek van Koophandel, Staatsblad 1847: 23)\nyang mengatur mengenai Perseroan Terbatas berikut segala\nperubahannya, terakhir dengan Undang -undang Nomor 4 Tahun\n1971 dinyatakan tetap berlaku sepanjang tidak bertentangan atau\nbelum diganti dengan yang baru berdasarkan Undang-undang ini.\n(3) Terhitung 3 (tiga) tahun sejak berlakunya Undang -undang ini,\nOrdonansi Maskapai Andil Indonesia (Ordonnantie op de\nIndonesische Maatschappij op Aandeelen, Staatsblad 1939: 569 jo\n717) dinyatakan tidak berlaku."
+   }
+  },
+  {
+   "id": "ID-H779-A129",
+   "no": 129,
+   "noLabel": {
+    "id": "Pasal 129"
+   },
+   "chapter": {
+    "id": "BAB XII / Bagian Ketiga Pasal 36 sampai dengan Pasal 56 Kitab"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 129\nUndang-undang ini mulai berlaku 1 (satu) tahun terhitung sejak tanggal\ndiundangkan.\nAgar...\nPRESIDEN\nREPUBLIK INDONESIA\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nUndang-undang ini dengan penempatannya dalam Lembaran Negara\nRepublik Indonesia.\nDisahkan di Jakarta\npada tanggal 7 Maret 1995\nPRESIDEN REPUBLIK INDONESIA\nttd\nSOEHARTO\nDiundangkan di Jakarta\npada tanggal 7 Maret 1995\nMENTERI NEGARA SEKRETARIS NEGARA\nREPUBLIK INDONESIA\nttd\nMOERDIONO\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1995 NOMOR 13\nSalinan sesuai dengan aslinya\nSEKRETARIAT KABINET R.I\nKepala Biro Hukum\nDan Perundang-undangan\nPlt.\nttd\nLambock V.Nahattands, S.H.\nPRESIDEN\nREPUBLIK INDONESIA\nPENJELASAN\nATAS\nUNDANG-UNDANG REPUBLIK INDONESIA\nNOMOR 1 TAHUN 1995\nTENTANG\nPERSEROAN TERBATAS\nUMUM\nGaris-garis Besar Haluan Negara menegaskan bahwa \"sasaran Pembangunan Jangka\nPanjang Kedua adalah terciptanya kualitas manusia dan kualitas masyarakat Indonesia\nyang maju dan mandiri dalam suasana tenter am dan sejahtera lahir dan batin, dalam tata\nkehidupan masyarakat, bangsa dan negara yang berdasarkan Pancasila, dalam suasana\nkehidupan bangsa Indonesia yang serba berkesinambungan dan selaras dalam hubungan\nantara sesama manusia, manusia dengan masyaraka t, manusia dengan alam dan\nlingkungannya, manusia dengan Tuhan Yang Maha Esa\".\nDi bidang ekonomi, sasaran umum pembangunan tersebut antara lain diarahkan kepada\npeningkatan kemakmuran rakyat yang makin merata.\nUntuk mencapai sasaran tersebut, diperlukan berbagai sarana penunjang antara lain\ntatanan hukum yang mendorong, menggerakkan, dan mengendalikan berbagai kegiatan\npembangunan di bidang ekonomi.\nSalah satu materi hukum yang diperlukan dalam menunjang pembangunan ekonomi\nadalah ketentuan -ketentuan di bidang Perseroan Terbatas yang menggantikan ketentuan\nhukum lama.\nDengan ketentuan-ketentuan baru ini, diharapkan Perseroan Terbatas dapat menjadi salah\nsatu pilar pembangunan ekonomi nasional yang berasaskan kekeluargaan menurut\ndasar-dasar demokrasi ekon omi sebagai pengejawantahan dari Pancasila dan\nUndang-Undang Dasar 1945.\nMemperhatikan peran yang diberikan kepada Perseroan Terbatas dalam tata ekonomi\nnasional sebagaimana dimaksud di atas, maka kebutuhan akan penataan seluruh peraturan\nperundang-undangan Perseroan Terbatas dirasakan sangat mendesak.\nKetentuan tentang Perseroan Terbatas yang diatur dalam Kitab Undang -undang Hukum\nDagang sudah tidak lagi dapat mengikuti dan memenuhi kebutuhan perkembangan\nperekonomian dan dunia usaha yang sangat pesat de wasa ini. Oleh karena itu dibutuhkan\nkebijaksanaan baru, misalnya dalam hal devisa, bantuan luar negeri, penanaman modal\nasing, peningkatan kerjasama internasional, sistem perbankan, pasar modal dan lain\nsebagainya.\nPerkembangan…\nPRESIDEN\nREPUBLIK INDONESIA\nPerkembangan baru tersebut makin mengaitkan perekonomian Indonesia dengan\nperekonomian dunia, sehingga perekonomian Indonesia tidak dapat menutup diri terhadap\npengaruh dan tuntutan globalisasi. Namun pengaturan di bidang Perseroan Terbatas yang\nbaru harus tetap bersumber dan setia pada asas perekonomian yang digariskan dalam\nUndang-Undang Dasar 1945, yaitu asas kekeluargaan.\nMengingat Perseroan Terbatas sebagai badan usaha berbentuk badan hukum yang\nmodalnya terdiri dari saham-saham sehingga merupakan persekutuan modal, maka dalam\nUndang-undang ini ditetapkan bahwa semua saham yang ditempatkan harus disetor penuh\nagar dalam melaksanakan usahanya mampu berfungsi secara sehat, berdaya guna dan\nberhasil guna.\nDi samping itu Undang -undang ini harus tetap dapa t melindungi kepentingan setiap\npemegang saham, kreditor, dan pihak lain yang terkait serta kepentingan Perseroan\nTerbatas itu sendiri. Hal ini penting, sebab pada kenyataannya dalam suatu Perseroan\nterbatas dapat terjadi pertentangan kepentingan antara pemegang saham dengan Perseroan\nTerbatas, atau kepentingan antara para pemegang saham minoritas dengan pemegang\nsaham mayoritas. Dalam benturan kepentingan tersebut kepada pemegang saham\nminoritas diberikan kewenangan tertentu, antara lain hak untuk meminta Rapat Umum\nPemegang Saham dan memohon diadakan pemeriksaan terhadap jalannya perseroan\ndengan penetapan Ketua Pengadilan Negeri.\nUntuk mencegah terjadinya persaingan yang tidak sehat akibat menumpuknya kekuatan\nekonomi pada sekelompok kecil pelaku ekonom i serta sejauh mungkin mencegah\nmonopoli dan monopsoni dalam segala bentuknya yang merugikan masyarakat, maka\ndalam Undang -undang ini diatur pula persyaratan dan tata cara untuk melakukan\npenggabungan, peleburan, dan pengambilalihan perseroan.\nDemikian pu la dalam rangka perlindungan kreditor dan pihak ketiga, ditetapkan\npersyaratan mengenai pengurangan modal, pembelian kembali saham dan pembubaran\nperseroan.\nTanpa mengurangi upaya untuk memberikan perlindungan terhadap pemegang saham\nminoritas tersebut, d iperhatikan juga perlindungan kepentingan umum dan kepentingan\nperseroan itu sendiri, antara lain dengan menegaskan tugas, wewenang, dan tanggung\njawab organ perseroan.\nPASAL DEMI PASAL\nPasal 1\nCukup jelas\nPasal 2\nCukup jelas\nPasal 3…\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 3\nAyat (1)\nKetentuan dalam Pasal ini mempertegas ciri perseroan terbatas, bahwa\npemegang saham hanya bertanggung jawab sebesar nilai saham yang\ndiambilnya dan tidak meliputi harta kekayaan pribadinya.\nAyat (2)\nDalam hal tertentu, tidak tertutup kemungkin an hapusnya tanggungjawab\nterbatas tersebut.\nHal-hal tertentu dimaksud antara lain apabila terbukti bahwa terjadi\npembauran harta kekayaan pribadi pemegang saham dan harta kekayaan\nperseroan, sehingga perseroan didirikan semata -mata sebagai alat yang\ndipergunakan pemegang saham untuk memenuhi tujuan pribadinya.\nPasal 4\nBerlakunya Undang -undang ini, Anggaran Dasar Perseroan dan peraturan\nperundang-undangan lainnya, tidak mengurangi pula kewajiban setiap perseroan\nuntuk menaati asas itikad baik, asas kepatutan dalam menjalankan perseroan.\nYang dimaksud dengan \"peraturan perundang -undangan lainnya\" adalah semua\nperaturan perundang -undangan yang berkaitan dengan keberadaan dan jalannya\nperseroan, termasuk ketentuan -ketentuan dalam Kitab Undang -undang Hukum\nPerdata (Staatsblad 1847 : 23), dan Kitab Undang -undang Hukum Dagang\n(Staatsblad 1847 : 23), sepanjang tidak dicabut atau ditentukan lain dalam\nUndang-undang ini.\nPasal 5\nTempat kedudukan perseroan sekaligus merupakan kantor pusat perseroan.\nPerseroan wajib memilih alamat di tempat kedudukannya yang harus disebutkan\nantara lain dalam surat menyurat dan melalui alamat tersebut perseroan dapat\ndihubungi\nPasal 6\nKetentuan ini menegaskan bahwa pada dasarnya jangka waktu berdirinya\nperseroan tidak terbatas. Akan tetapi, apabila jangka waktu tersebut ingin\nditentukan, maka hal tersebut harus ditegaskan dalam Anggaran Dasar.\nPasal 7\nAyat (1)\nYang dimaksud dengan \"orang\" adalah orang perseorangan atau badan\nhukum.\nKetentuan ini menegaskan prinsip yang berl aku berdasarkan\nUndang-undang ini bahwa pada dasarnya sebagai badan hukum, perseroan\ndibentuk berdasarkan perjanjian, dan karena itu mempunyai lebih dari 1\n(satu) orang pemegang saham.\nAyat (2)…\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nAyat (5)\nKarena status dan karakteristiknya yang khusus, maka persyaratan jumlah\npendiri Badan Usaha Milik Negara (BUMN) diatur dalam peraturan\nperundang-undangan tersendiri.\nAyat (6)\nCukup jelas\nAyat (7)\nCukup jelas\nPasal 8\nAyat (1)\nHuruf a\nDalam mendirikan perseroan diperlukan kejelasan mengenai\nkewarganegaraan pendiri. Pada dasarnya badan hukum Indonesia\nyang berbentuk perseroan didirikan oleh warga negara Indonesia,\nnamun demikian kepada warga negara asing diberi kesempatan\nuntuk mendirikan badan hukum Indonesia yang berbentuk perseroan\nsepanjang Undang -undang yang mengatur bidang usaha perseroan\ntersebut memungkinkan, atau pendirian perseroan tersebut diatur\ndengan Undang-undang tersendiri.\nHuruf b\nCukup jelas\nHuruf c\nYang dimaksud dengan \"mengambil bagian saham\" adalah jumlah\nsaham yang diambil oleh pemegang saham pada saat pendirian\nperseroan.\nAyat (2)\nCukup jelas\nPasal 9…\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 9\nAyat (1)\nYang dimaksud dengan \"kuasa\" dalam ayat ini adalah Notaris atau orang\nlain yang ditunjuk berdasarkan surat kuasa khusus.\nAyat (2)\nJangka waktu 60 (enam puluh) hari terhitung sejak permohonan yang\ndiajukan dinyatakan telah memenuhi syarat dan kelengkapan yang\ndiperlukan sesuai dengan ketentuan yang berlaku.\nAyat (3)\nCukup jelas\nPasal 10\nAyat (1)\nPerbuatan hukum yang dimaksud antara lain mengenai penyetoran saham\ndalam bentuk atau cara lain dari uang tunai.\nAyat (2)\nYang dimaksud dengan \"dilekatkan\" adalah semua dokumen yang memuat\nperbuatan hukum yan g terkait dengan pendirian perseroan yang\nbersangkutan harus ditempatkan sebagai satu kesatuan dengan Akta\nPendirian.\nPenyatuan dilakukan dengan cara melekatkan atau menjahitkan dokumen\ntersebut sebagai satu kesatuan dengan Akta Pendirian.\nAyat (3)\nDalam hal perbuatan hukum sebagaimana dimaksud dalam ayat (1) tidak\ndicantumkan dalam Akta Pendirian dan atau tidak dilampirkan sesuai\nketentuan ayat (2), maka perbuatan hukum tersebut hanya mengikat\nperseroan apabila dikukuhkan menurut ketentuan Pasal 11.\nPasal 11\nAyat (1)\nKetentuan ini mengatur tata cara yang harus ditempuh untuk mengalihkan\nkepada perseroan hak dan atau tanggung jawab yang timbul dari perbuatan\nhukum pendiri yang dibuat setelah perseroan didirikan tetapi belum\ndisahkan menjadi badan huk um, melalui penerimaan secara tegas,\npengambilalihan hak serta tanggung jawab dan pengukuhan perbuatan\nhukum dimaksud.\nAyat (2)…\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (2)\nKewenangan perseroan untuk mengukuhkan perbuatan hukum sebagaimana\ndimaksud dalam ayat (1) ada pada RUPS.\nTetapi mengingat bahwa RUPS biasanya belum dapat diselenggarakan\nsegera setelah perseroan disahkan maka pengukuhan dilakukan oleh seluruh\npendiri, pemegang saham dan Direksi.\nSelama belum dikukuhkan, baik karena perseroan tidak jadi didirikan atau\ndisahkan ataupun karena perseroan tidak melakukan pengukuhan, maka\nperseroan tidak terikat.\nPasal 12\nHuruf a\nCukup jelas\nHuruf b\nYang dimaksud dengan \"kegiatan usaha perseroan\" adalah kegiatan yang\ndilakukan perseroan dalam rangka mewujudkan maksud dan tujuan\ntersebut.\nHuruf c\nLihat penjelasan Pasal 6\nHuruf d\nCukup jelas\nHuruf e\nCukup jelas\nHuruf f\nCukup jelas\nHuruf g\nCukup jelas\nHuruf h\nCukup jelas\nHuruf i\nCukup jelas\nHuruf j\nCukup jelas\nPasal 13…\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 13\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nDalam hal tidak ada tulisan singkatan \"Tbk\" berarti Perseroan Tertutup.\nAyat (4)\nCukup jelas\nPasal 14\nCukup jelas\nPasal 15\nCukup jelas\nPasal 16\nCukup jelas\nPasal 17\nAyat (1)\nCukup jelas\nAyat (2)\nPendaftaran hanya dapat dilakukan setelah perubahan Anggaran Dasar\ndilaporkan kepada Menteri.\nPasal 18\nDimungkinkan adanya perubahan Anggaran Dasar suatu perseroan yang\ndinyatakan pailit atas persetujuan kurator, dimaksudkan sebagai upaya yang dapat\nditempuh untuk membebaskan perseroan dari keadaan pailit, misalnya perubahan\nyang berkaitan dengan penambahan modal, penggantian Direksi dan atau\nKomisaris atau perubahan manajemen.\nPerubahan-perubahan tersebut harus dengan persetujuan kurator, atau hanya dapat\ndilakukan setelah mendapat persetujuan kurator.\nHal ini sesuai dengan prinsip-prinsip kepailitan, antara lain semua perubahan\nhukum dalam keadaan pailit hanya dapat dilakukan oleh atau dengan persetujuan\nkurator.\nPasal 19…\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 19\nCukup jelas\nPasal 20\nCukup jelas\nPasal 21\nAyat (1)\nYang dimaksud dengan \"Daftar Perusahaan\" adalah daftar perusahaan\nsebagaimana dimaksud dalam Undang -undang Nomor 3 Tahun 1982\ntentang Wajib Daftar Perusahaan.\nAyat (2)\nCukup jelas\nPasal 22\nCukup jelas\nPasal 23\nSelain sanksi pidana yang diatur dalam U ndang-undang tentang Wajib Daftar\nPerusahaan, Pasal ini mengatur sanksi perdata dalam hal kewajiban sebagaimana\ndimaksud dalam Pasal 21 dan 22 tidak dipenuhi.\nPasal 24\nAyat (1)\nCukup jelas\nAyat (2)\nSaham atas nama adalah saham yang mencantumkan nam a pemegang atau\npemiliknya.\nSaham atas tunjuk adalah saham yang tidak mencantumkan nama pemegang\natau pemiliknya.\nPasal 25\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nKetentuan dalam ayat ini diperlukan mengantisipasi perubahan keadaan\nperekonomian.\nPasal 26…\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 26\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nKetentuan ini menegaskan bahwa sejak tanggal pengesahan tidak\ndimungkinkan penyetoran atas saham secara mengangsur. Kemungkinan\nmengangsur saham hanya dilakukan sebelum pengesahan diberikan.\nPasal 27\nAyat (1)\nPada umumnya penyetoran saham adalah dalam bentuk uang. Namun\ndemikian, tidak ditutup kemung kinan penyetoran saham dalam bentuk lain\nbaik berupa benda berwujud atau benda tidak berwujud yang dapat dinilai\ndengan uang. Penyetoran atas saham dilakukan pada saat pendirian atau\nsesudah perseroan memperoleh pengesahan sebagai badan hukum.\nPenyetoran saham dalam bentuk lain selain uang yang dilakukan pada saat\npendirian dicantumkan dalam Akta Pendirian. Sedangkan penyetoran dalam\nbentuk lain yang dilakukan sesudah pengesahan perseroan sebagai badan\nhukum dilakukan dengan persetujuan RUPS atau organ lai n yang ditunjuk\noleh RUPS.\nPenyetoran saham dalam bentuk lain selain uang harus disertai rincian yang\nmenerangkan nilai atau harga, jenis atau macam, status, tempat kedudukan\ndan lain -lain yang dianggap perlu demi kejelasan mengenai penyetoran\ntersebut.\nAyat (2)\nYang dimaksud dengan \"ahli yang tidak terikat pada perseroan\" adalah\norang perseorangan atau badan hukum yang disahkan oleh pemerintah, yang\nberdasarkan keahlian atau pengetahuannya mempunyai kemampuan untuk\nmenilai harga benda tersebut.\nAyat (3)…\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (3)\nMaksud diumumkannya penyetoran saham dalam bentuk benda tidak\nbergerak dalam 2 (dua) surat kabar harian adalah agar diketahui umum dan\nmemberikan kesempatan keberatan atas penyerahan benda tidak bergerak\ntersebut sebagai setoran saham . Pengumuman mengenai penyetoran saham\ndalam bentuk benda tidak bergerak dilakukan dalam surat kabar harian\nberbahasa Indonesia yang terbit atau beredar di tempat kedudukan di tempat\nkedudukan perseroan dan surat kabar harian berbahasa Indonesia dengan\nperedaran nasional. Pengumuman tersebut memuat jumlah penyetoran\nsaham dalam bentuk benda tidak bergerak serta rinciannya sebagaimana\ndimaksud dalam penjelasan Pasal 27 ayat (1). Penyetoran saham dalam\nbentuk lain dicatat dalam Daftar Pemegang Saham.\nAyat (4)\nCukup jelas\nPasal 28\nAyat (1)\nCukup jelas\nAyat (2)\nYang dimaksud dengan \"tagihan tertentu\" antara lain \"convertible bonds\"\nsedangkan bentuk -bentuk tagihan lain sesuai dengan perkembangan dunia\nusaha diatur lebih lanjut dengan Peraturan Pemerintah.\nPasal 29\nPada prinsipnya, pengeluaran saham adalah suatu upaya pengumpulan modal,\nmaka kewajiban penyetoran atas saham seharusnya dibebankan kepad a pihak lain.\nDemi kepastian, Pasal ini menentukan bahwa perseroan tidak boleh mengeluarkan\nsaham untuk dimiliki sendiri.\nLarangan memiliki sendiri saham yang dikeluarkan suatu induk perusahaan\nberlaku juga bagi anak perusahaan.\nLarangan bagi anak perusaha an memiliki saham yang dikeluarkan oleh induk\nperusahaan didasarkan pada pertimbangan bahwa pemilikan saham oleh anak\nperusahaan tidak dapat dipisahkan dari pemilikan oleh induk perusahaannya.\nyang dimaksud dengan \"anak perusahaan\" adalah perseroan yang me mpunyai\nhubungan khusus dengan perseroan lainnya yang terjadi karena:\na. lebih dari 50% (lima puluh persen) sahamnya dimiliki oleh induk\nperusahaannya;\nb. lebih dari 50% (lima puluh persen) suara dalam RUPS dikuasai oleh induk\nperusahaannya; dan atau\nc. kontrol atas jalannya perseroan, pengangkatan, dan pemberhentian Direksi dan\nKomisaris sangat dipengaruhi oleh induk perusahaannya.\nPasal 30…\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 30\nAyat (1)\nPembelian kembali saham perseroan tidak menyebabkan ditariknya saham\ntersebut, kecuali dalam hal pengurangan modal.\nHuruf a\nYang dimaksud dengan \"kekayaan bersih\" adalah kekayaan bersih\nmenurut neraca terbaru yang disahkan dalam waktu 6 (enam) bulan\nterakhir.\nHuruf b\nCukup jelas\nAyat (2)\nKarena pemegang saham d iwajibkan mengembalikan uang yang diterima,\nmaka perseroan juga diwajibkan mengembalikan saham yang telah dibeli\ntersebut kepada pemegang saham.\nAyat (3)\nCukup jelas\nPasal 31\nCukup jelas\nPasal 32\nAyat (1)\nPada dasarnya pembelian kembali hanya dapat dilakukan atas persetujuan\nRUPS. Pasal ini memberi kemungkinan bahwa pemberian persetujuan\ntersebut dapat dilimpahkan kepada organ perseroan lainnya, yaitu Direksi\natau Komisaris.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nPasal 33\nCukup jelas\nPasal 34…\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 34\nAyat (1)\nYang dimaksud dengan \"modal perseroan\" adalah modal dasar, modal\nditempatkan dan modal disetor.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nPasal 35\nCukup jelas\nPasal 36\nAyat (1)\nCukup jelas\nAyat (2)\nJangka waktu 14 (empat belas) hari berlaku bagi semua perseroan. Karena\nitu Anggaran Dasar perseroan tidak boleh menentukan jangka waktu yang\nlain dari pada 14 (empat belas) hari.\nAyat (3)\nCukup jelas\nPasal 37\nAyat (1)\nYang dimaksud dengan \"pengurangan modal\" adalah pengurangan modal\ndasar, modal ditempat dan modal disetor.\nAyat (2)\nCukup jelas\nPasal 38\nAyat (1)\nCukup jelas\nAyat (2)\nYang dimaksud dengan \"alasannya\" antara lain berupa jaminan bahwa\nperseroan akan memenuhi kewajiban-kewajibannya kepada kreditor.\nAyat (3)…\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (3)\nCukup jelas\nPasal 39\nCukup jelas\nPasal 40\nCukup jelas\nPasal 41\nAyat (1)\nKetentuan ini dimaksudkan untuk mencapai keseimbangan diantara\npemegang saham, sebagai akibat pengurangan modal.\nPenarikan tersebut mematikan saham yang telah dibeli sehingga tidak dapat\ndikeluarkan kembali.\nAyat (2)\nCukup jelas\nPasal 42\nCukup jelas\nPasal 43\nAyat (1)\nCukup jelas\nAyat (2)\nDaftar Khusus tersebut merupakan salah satu sumber informasi mengenai\nbesarnya kepemilikan dan kepentingan pengurus perseroan pada perseroan\nyang bersangkutan atau perseroan lain, sehingga pertentangan kepent ingan\nyang mungkin timbul dapat ditekan sekecil mungkin.\nYang dimaksud dengan \"keluarganya\" adalah isteri/suami dan\nanak-anaknya.\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nAyat (5)\nCukup jelas\nPasal 44…\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 44\nBukti pemilikan saham atas tunjuk berupa surat saham. Bukti pemilikan saham\natas nama diserahkan kepada para pihak dan ditetapkan dalam Anggaran Dasar\nsesuai kebutuhan.\nPasal 45\nAyat (1)\nPasal ini memuat ketentuan bahwa para pemegang saham tidak\ndiperkenankan membagi-bagi hak atas saham menurut kehendaknya sendiri.\nAyat (2)\nPembagian hak atas saham hanya dapat dilakukan dengan bantuan\nperseroan sebagaimana ditetapkan dalam Pasal 47. Jika Anggaran Dasar\nmemungkinkan, maka bagian tersebut dinamakan pecahan saham.\nPasal 46\nAyat (1)\nYang dimaksud dengan \"klasifikasi saham\" adalah kelompok saham yang\nsatu sama lain mempunyai karakteristik yang sama, dan karakteristik mana\nmembedakannya dengan saham yang merupakan kelompok saham dari\nklasifikasi yang berbeda.\nAyat (2)\nCukup jelas\nAyat (3)\nYang dimaksud dengan \"saham biasa\" adalah saham yang memberikan hak\nsuara untuk mengambil keputusan dalam RUPS mengenai segala hal yang\nberkaitan dengan pengurusan perseroan, hak menerima pembagian dividen\ndan sisa kekayaan dalam proses likuidasi.\nHak suara yang dimiliki oleh pemegang saham biasa dapat dimiliki juga\noleh pemegang saham klasifikasi lain.\nAyat (4)\nBermacam-macam unsur klasifikasi saham ini tidak selalu menunjukkan\nbahwa klasifikasi tersebut masing -masing berdiri sendiri terpisah satu sama\nlain. Suatu klasifikasi dapat merupakan gabungan antara 2 (dua) atau lebih\nunsur-unsur klasifikasi tersebut.\nPasal 47…\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 47\nAyat (1)\nPecahan saham hanya dapat dikeluarkan berdasarkan ketentuan dalam\nAnggaran Dasar. Pengaturan dalam Anggaran Dasar untuk kemungkinan\npemecahan saham tidak memberikan hak kepada pemegang saham untuk\nmelakukan sendiri pemecahan saham.\nAyat (2)\nCukup jelas\nPasal 48\nCukup jelas\nPasal 49\nAyat (1)\nYang dimaksud de ngan \"akta\", baik berupa akta yang dibuat dihadapan\nNotaris maupun akta dibawah tangan.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nAyat (5)\nCukup jelas\nPasal 50\nCukup jelas\nPasal 51\nAyat (1)\nYang dimaksud dengan \"harga yang wajar\" dapat berupa harga pasar atau\nharga yang ditetapkan oleh ahli penilai harga saham yang tidak terikat pada\nperseroan.\nPenetapan jangka waktu 30 (tigapuluh) hari dimaksudkan agar terdapat\nkepastian bahwa setelah jangk a waktu tersebut saham mempunyai\nkebebasan untuk menawarkan saham tersebut kepada pihak lain.\nAyat (2)…\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (2)\nPemilikan saham oleh karyawan berdasarkan ayat ini tidak mengubah status\nsaham tersebut menjadi saham karyawan.\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nAyat (5)\nCukup jelas\nPasal 52\nCukup jelas\nPasal 53\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nKetentuan ini dimaksudkan agar perseroan atau pihak lain yang\nberkepentingan dapat mengetahui status saham tersebut.\nAyat (4)\nCukup jelas\nPasal 54\nAyat (1)\nKepemilikan atas saham sebagai benda bergerak memberikan hak\nkebendaan kepada pemegangnya. H ak tersebut dapat dipertahankan\nterhadap setiap orang.\nAyat (2)\nGugatan yang diajukan pada dasarnya berisikan permohonan agar perseroan\nmenghentikan tindakan yang merugikan tersebut dan mengambil\nlangkah-langkah tertentu baik untuk mengatasi akibat yang sudah timbul\nmaupun untuk mencegah tindakan serupa dikemudian hari.\nAyat (3)\nCukup jelas\nPasal 55…\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 55\nCukup jelas\nPasal 56\nHuruf a\nCukup jelas\nHuruf b\nYang dimaksud dengan \"neraca gabungan adalah neraca konsolidasi, sesuai\ndengan Standar Akuntansi Keuangan yang berlaku.\nHuruf c\nTermasuk hal yang harus dilaporkan adalah perkiraan mengenai\nperkembangan perseroan untuk waktu yang akan datang.\nHuruf d\nCukup jelas\nHuruf e\nCukup jelas\nHuruf f\nCukup jelas\nHuruf g\nCukup jelas\nPasal 57\nAyat (1)\nCukup jelas\nAyat (2)\nLaporan Tahunan yang diajukan kepada RUPS harus ditandatangani oleh\nsemua anggota Direksi dan Komisaris, karena laporan ini merupakan\nbentuk pertanggungjawaban mereka dalam melaksanakan tugasnya.\nApabila ada di antara anggota Direksi atau Komisaris tidak\nmenandatanganinya, maka alasan atau penyebab hal ini perlu dijelaskan\nsecara tertulis kepada RUPS agar RUPS dapat menggunakannya sebagai\nsalah satu bahan pertimbangan dalam memberikan penilaian terhadap\nlaporan tersebut.\nPasal 58…\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 58\nAyat (1)\nYang dimaksudkan dengan \"Standar Akuntansi Keuangan\" adalah\nprinsip-prinsip akuntansi yang telah diakui dan disetujui oleh kalangan\nakuntan Indonesia bersama instansi Pemerintah yang berwenang.\nAyat (2)\nCukup jelas\nPasal 59\nAyat (1)\nKewajiban untuk menyerahkan perhitungan tahunan kepada akuntan publik\nuntuk diperiksa timbul dari sifat perseroan yang bersangkutan.\nKewajiban untuk menyerahkan perhitungan tahunan kepada pengawasan\nekstern dibenarkan dengan asumsi bahwa kepercayaan masyaraka t tidak\nboleh dikecewakan. Demikian pula bagi perseroan yang untuk\npembiayaannya mengharapkan dana dari pasar modal.\nHuruf a\nYang dimaksud dengan \"perseroan yang bidang usahanya berkaitan\ndengan pengerahan dana dari masyarakat antara lain Bank, Asurans i\ndan Reksa Dana.\nHuruf b\nYang dimaksud dengan \"surat pengakuan utang\" antara lain\nObligasi.\nHuruf c\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nKetentuan ini menegaskan bahwa akuntan publik tersebut bertanggung\njawab atas hasil pemeriksaan yang dilakukannya.\nAyat (4)\nLihat penjelasan Pasal 27 ayat (3)\nPasal 60\nAyat (1)\nCukup jelas\nAyat (2)…\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (2)\nCukup jelas\nAyat (3)\nPerhitungan tahunan yang dihasilkan harus mencerminkan keadaan yang\nsebenarnya dari aktiva, kewajiban, modal dan hasil usaha dari perseroan.\nDireksi dan Komisaris mempunyai tanggung jawab penuh akan kebenaran\nisi perhitungan tahunan perseroan pada khususnya dan lapora n tahunan\npada umumnya.\nAyat (4)\nCukup jelas\nPasal 61\nCukup jelas\nPasal 62\nAyat (1)\nBerdasarkan ketentuan ini RUPS dapat menetapkan bahwa sebagian atau\nseluruh laba bersih akan digunakan untuk pembagian dividen kepada\npemegang saham, atau pembagian lain seperti tansiem (tantieme) untuk\nDireksi dan Komisaris, bonus untuk karyawan, cadangan dana sosial dan\nlain-lain, atau penempatan laba bersih tersebu t dalam cadangan perseroan\nyang antara lain diperuntukkan bagi perluasan usaha perseroan.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nPasal 63\nCukup jelas\nPasal 64\nAyat (1)\nDalam Anggaran Dasar dapat ditetapkan tempat R UPS yang dapat\ndilakukan di luar tempat kedudukan perseroan.\nAyat (2)\nCukup jelas\nPasal 65…\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 65\nCukup jelas\nPasal 66\nCukup jelas\nPasal 67\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nKetentuan ini dimaksudkan agar pelaksanaan RUPS tidak tertunda.\nPasal 68\nAyat (1)\nCukup jelas\nAyat (2)\nPemanggilan RUPS adalah kewajiban Direksi. Namun dalam hal Direksi\nberhalangan atau ada pertentangan kepentingan antara Direksi dan\nperseroan, pemanggilan RUPS dapat dilakukan oleh Komisaris.\nPasal 69\nAyat (1)\nCukup jelas\nAyat (2)\nKetentuan ini untuk memastikan panggilan tersebut telah dilakukan dan\nditujukan ke alamat pemegang saham.\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nAyat (5)…\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (5)\nCukup jelas\nAyat (6)\nCukup jelas\nPasal 70\nAyat (1)\nPengumuman dimaksudkan untuk memberikan kesempatan kepada\npemegang saham memberi usul kepada Direksi untuk menambah RUPS.\nAyat (2)\nCukup jelas\nPasal 71\nCukup jelas\nPasal 72\nAyat (1)\nKetentuan dalam ayat sejalan dengan ketentuan Pasal 46, yaitu perseroan\ndapat mengeluarkan satu atau lebih klasifikasi saham.\nKebebasan untuk menerbitkan saham dalam beberapa klasifikasi memberi\nkemungkinan diberikan atau tidaknya hak suara pada saham yang\nditerbitkan, termasuk dalam hal ini variasi dari hak suara itu sendiri.\nAyat (2)\nDengan ketentuan ini, saham perseroa n yang dimiliki oleh perseroan\ntersebut, baik secara langsung maupun tidak langsung tidak mempunyai hak\nsuara dan tidak dihitung dalam penentuan kuorum.\nAyat (3)\nCukup jelas\nPasal 73\nAyat (1)\nPenyimpangan aha ketentuan Pasal 73 ayat (1) hanya dimungkinkan dalam\nhal yang ditentukan Undang -undang ini. Anggaran Dasar tidak boleh\nmenentukan korum yang lebih kecil korum yang ditentukan oleh\nUndang-undang ini.\nAyat (2)\nKarena panggilan RUPS ini se bagai akibat dari tidak tercapainya kuorum\ndalam RUPS pertama, maka acara RUPS kedua sama seperti acara RUPS\npertama.\nAyat (3)…\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nAyat (5)\nCukup jelas\nAyat (6)\nDalam ha Ketua Pengadilan Negeri berhalangan, penetapan dilakukan oleh\npejabat lain yang mewakili Ketua.\nPasal 74\nPada dasarnya semua keputusan RUPS harus dicapai melalui musyawarah untuk\nmufakat. Apabila setelah diusahakan musyawarah untuk mufakat tidak dapat\ndicapai, keputusan RUPS dapat diambil melalui pemungutan suara dengan suara\nterbanyak. Secara umum, suara terbanyak yang diperlukan adalah suara terbanyak\nbiasa yaitu jumlah suara yang lebih banyak dari kelompok suara lain tanpa harus\nmencapai lebih dari setengah keseluruhan suara dalam pemungutan suara tersebut.\nNamun demikian, dalam hal -hal tertentu keputusan RUPS yang berkaitan dengan\nsesuatu yang sangat mendasar bagi keberadaan, kelangsungan atau sifat suatu\nperseroan, Undang -undang ini atau Angg aran Dasar dapat menetapkan suara\nterbanyak yang lebih besar dari pada suara terbanyak biasa, yaitu suara terbanyak\nmutlak (absolute majority) atau suara terbanyak khusus (qualified/special\nmajority). Suara terbanyak mutlak adalah suara terbanyak yang lebi h dari 1/2 (satu\nperdua) dari seluruh jumlah suara dalam pemungutan suara tersebut.\nSedangkan suara terbanyak khusus adalah suara terbanyak yang ditentukan secara\npasti jumlahnya seperti 2/3 (dua pertiga), 3/4 (tiga perempat), 3/5 (tiga perlima)\ndan sebagainya.\nPasal 75\nCukup jelas\nPasal 76\nCukup jelas\nPasal 77\nPenandatanganan oleh 1 (satu) orang pemegang saham yang ditunjuk dari dan oleh\npeserta RUPS dimaksudkan untuk menjamin kepastian dan kebenaran isi risalah\nRUPS tersebut.\nDalam hal risalah RUPS tersebut dibuat oleh Notaris maka kewajiban\nmenandatangani tersebut tidak diperlukan.\nPasal 78…\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 78\nAyat (1)\nPengambilan keputusan RUPS dengan \"cara lain\" adalah keputusan yang\ndiambil dengan cara tertulis usul yang akan diputu skan kepada semua\nsaham dan keputusan ini hanya sah apabila semua pemegang saham\nmenyetujui secara tertulis cara pengambilan keputusan dan usul tersebut.\nCara lain ini tidak berlaku bagi perseroan yang mengeluarkan saham atas\ntunjuk.\nAyat (2)\nCukup jelas\nPasal 79\nAyat (1)\nKetentuan ini menugaskan Direksi untuk mengurus perseroan yang antara\nlain meliputi sehari-hari dari perseroan.\nAyat (2)\nCukup jelas\nAyat (3)\nJangka waktu 5 (lima) tahun terhitung sejak yang bersangkutan dinyatakan\nbersalah menyebabkan perseroan pailit atau apabila dihukum terhitung sejak\nselesai menjalani hukuman.\nPasal 80\nCukup jelas\nPasal 81\nCukup jelas\nPasal 82\nCukup jelas\nPasal 83\nAyat (1)\nUndang-udang ini memilih sistem perwakilan kolegial, tetapi untuk\nkepentingan praktis masing -masing anggota Direksi berwenang mewakili\nperseroan.\nAyat (2)\nCukup jelas\nPasal 84\nCukup jelas\nPasal 85…\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 85\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nDalam hal tindakan Direksi merugikan perseroan, maka pemegang saham\nyang memenuhi persyaratan sebagaimana ditetapkan dalam ayat ini dapat\nmewakili perseroan untuk melakukan tuntutan atau gugatan terhadap\nDireksi melalui Pengadilan.\nPasal 86\nAyat (1)\nHuruf a\nDaftar Pemegang Saham dibuat sesuai dengan ketentuan\nsebagaimana dimaksud dalam Pasal 43.\nHuruf b\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nPasal 87\nSetiap perubahan dalam kepemilikan saham tersebut wajib pula dilaporkan.\nLaporan Direksi mengenai ini dicatat dalam Daftar Khusus sebagaimana dimaksud\ndalam Pasal 43 ayat (2).\nYang dimaksud dengan \"keluarganya\", lihat Penjelasan Pasal 43 ayat (2).\nPasal 88\nCukup jelas\nPasal 89\nCukup jelas\nPasal 90\nCukup jelas\npasal 91…\nPRESIDEN\nREPUBLIK INDONESIA\npasal 91\nAyat (1)\nCukup jelas\nAyat (2)\nApabila yang bersangkutan tidak hadir, maka RUPS dapat memberhentikan\ntanpa kehadirannya.\nAyat (3)\nCukup jelas\nPasal 92\nAyat (1)\nMengingat bahwa pemberhentian hanya dapat dilakukan dalam RUPS yang\nmemerlukan waktu untuk pelaksanaannya, maka untuk kepentingan\nperseroan tidak dapat ditunggu sampai diadakan RUPS. Oleh karena itu\nwajar kepada Komisaris sebagai organ pengawas diberi kewe nangan untuk\nmelakukan pemberhentian sementara.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nPanggilan RUPS harus dilakukan oleh organ perseroan yang\nmemberhentikan sementara tersebut.\nAyat (5)\nCukup jelas\nAyat (6)\nCukup jelas\nAyat (7)\nCukup jelas\nPasal 93\nCukup jelas\nPasal 94…\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 94\nAyat (1)\nPerkataan \"Komisaris\" mengandung pengertian baik sebagai \"organ\"\nmaupun sebagai \"orang perseroan\". Sebagai \"organ\", Komisaris lazim juga\ndisebut \"Dewan Komisaris\", sedangkan sebagai \"orang perseroan\" disebut\n\"anggota Komisaris\".\nSebagai \"organ\", dalam Undang -undang ini pengertian \"Komisaris\"\ntermasuk juga badan -badan l ain yang menjalankan tugas pengawasan\nkhusus dibidang tertentu.\nAyat (2)\nUntuk perseroan yang dalam kegiatan usahanya melakukan pengerahan\ndana masyarakat, diperlukan pengawasan yang lebih besar karena\nmenyangkut kepentingan masyarakat.\nAyat (3)\nBerbeda dengan Direksi, dalam hal terdapat lebih dari 1 (satu) orang\nKomisaris, maka sebagai majelis, Komisaris tidak dapat bertindak\nsendiri-sendiri untuk mewakili perseroan.\nPasal 95\nCukup jelas\nPasal 96\nLihat Penjelasan Pasal 79 ayat (3).\nPasal 97\nCukup jelas\nPasal 98\nCukup jelas\nPasal 99\nSetiap perubahan dalam kepemilikan saham tersebut wajib pula dilaporkan.\nLaporan Komisaris mengenai hal ini dicatat dalam Daftar Khusus sebagaimana\ndimaksud dalam Pasal 43 (2)\nYang dimaksud dengan \"keluarganya\", lihat Penjelasan Pasal 43 ayat (2).\nPasal 100\nAyat (1)\nCukup jelas\nAyat (2)…\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (2)\nKetentuan ini memberi wewenang kepada Komisaris untuk melakukan\npengurusan perseroan yang sebenarnya hanya dapat dilakukan o leh Direksi\ndalam hal Direksi tidak ada. Apabila ada Direksi, Komisaris hanya dapat\nmelakukan tindakan tertentu yang secara tegas ditentukan dalam\nUndang-undang ini.\nAyat (3)\nCukup jelas\nPasal 101\nCukup jelas\nPasal 102\nAyat (1)\nCukup jelas\nAyat (2)\nHuruf a\nCukup jelas\nHuruf b\nCukup jelas\nHuruf c\nDalam tata cara konversi selain perbandingan penukaran saham\ntermasuk juga penentuan jumlah pembayaran uang kepada para\npemegang saham dari perseroan yang menggabungkan atau\nmeleburkan diri. Pembayaran uang kepada para pemegang saham\ndari perseroan yang menggabungkan atau meleburkan diri adalah\nmerupakan ganti rugi kepada para pemegang saham yang tidak\nmenghendaki penggabungan atau peleburan tersebut. Dalam hal\ndilakukan pembayaran ke pada para pemegang saham tersebut\ndengan uang, agar diperhitungkan harga sahamnya menurut nilai\nyang wajar.\nHuruf d\nCukup jelas\nHuruf e\nCukup jelas\nHuruf f…\nPRESIDEN\nREPUBLIK INDONESIA\nHuruf f\nCukup jelas\nAyat (3)\nCukup jelas\nPasal 103\nPengambilalihan yang dimaksud dalam pasal ini tidak mengurangi ketentuan\nsebagaimana di maksud dalam Pasal 7.\nPasal 104\nAyat (1)\nKetentuan ini menegaskan bahwa penggabungan, peleburan dan\npengambilalihan tidak dapat dilakukan kalau akan merugikan kepen tingan\npihak-pihak tertentu.\nSelanjutnya dalam penggabungan, peleburan, dab pengambilalihan harus\npula dicegah kemungkinan terjadinya monopoli, atau monopsoni dalam\nberbagai bentuk yang merugikan masyarakat.\nAyat (2)\nPemegang saham minoritas mempunyai hak untuk menjual sahamnya sesuai\ndengan harga yang wajar. Dalam hal hak tersebut tidak dapat terlaksana,\nmaka pemegang saham minoritas dapat tidak menyetujui rencana\npenggabungan, peleburan dan pegambilalihan yang diajukan oleh Direksi\ndan melaksanakan haknya sebagaimana dimaksud dalam Pasal 55.\nPasal 105\nAyat (1)\nCukup jelas\nAyat (2)\nPengumuman disini dimaksudkan memberi kesempatan kepada pihak-pihak\nyang bersangkutan mengetahui adanya rencana tersebut. Apabila mereka\nmerasa kepentingannya dirugikan jika rencana dilaksanakan, mereka dapat\nmengambil langkah-langkah tertentu guna membela kepentingannya.\nPasal 106\nCukup jelas\nPasal 107\nCukup jelas\nPasal 108…\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 108\nPengumuman dimaksudkan agar pihak ketiga yang berkepe ntingan mengetahui\nbahwa telah dilakukan penggabungan, peleburan, atau pengambilalihan.\nDalam hal ini pengumuman wajib dilakukan paling lambat 30 (tiga puluh) hari\nterhitung sejak tanggal :\na. persetujuan Menteri atas perubahan Anggaran Dasar dalam hal t erjadi\npenggabungan;\nb. laporan diterima Menteri baik dalam hal terjadi perubahan Anggaran dasar\nsebagaimana dimaksud dalam Pasal 15 ayat (3) maupun yang tidak disertai\nperubahan Anggaran Dasar;\nc. pengesahan Menteri atas Akta Pendirian perseroan dalam hal terjadi peleburan.\nPasal 109\nCukup jelas\nPasal 110\nAyat (1)\nSebelum melakukan tindakan ini pemohon telah terlebih dahulu meminta\nlangsung kepada perseroan data atau keterangan yang dibutuhka nnya.\nDalam hal perseroan menolak atau tidak memperhatikan permintaan\ntersebut, maka Undang-undang memberikan upaya ini sebagai jalan keluar.\nAyat (2)\nCukup jelas\nAyat (3)\nHuruf a\nCukup jelas\nHuruf b\nCukup jelas\nHuruf c\nCukup jelas\nPasal 111\nAyat (1)\nCukup jelas\nAyat (2)…\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (2)\nCukup jelas\nAyat (3)\nYang dimaksud dengan \"ahli\" adalah orang mempunyai keahlian dalam\nbidang yang akan diperiksa.\nAyat (4)\nCukup jelas\nAyat (5)\nYang dimaksud dengan \"dokumen\" adalah semu a buku, catatan, dan surat\nyang berkaitan dengan kegiatan perseroan.\nAyat (6)\nCukup jelas\nAyat (7)\nCukup jelas\nPasal 112\nCukup jelas\nPasal 113\nAyat (1)\nDalam menetapkan biaya pemeriksaan bagi pemeriksa, Ketua Pengadilan\nNegeri mendasarkannya atas keahlian pemeriksa dan dalam batas\nkemampuan perseroan.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nPasal 114\nCukup jelas\nPasal 115\nCukup jelas\nPasal 116\nCukup jelas\nPasal 117…\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 117\nAyat (1)\nHuruf a\nCukup jelas\nHuruf b\nCukup jelas\nHuruf c\nDiperlukan permohonan kreditor tersebut karena kepailitan tidak\ndengan sendirinya mengakibatkan bubar.\nHuruf d\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 118\nAyat (1)\nJangka waktu 30 (tiga puluh) hari terhitung sejak :\na. dalam hal perseroan dibubarkan oleh RUPS, jangka waktu dihitung\nsejak tanggal pembubaran oleh RUPS; atau\nb. dalam hal perseroan dibubarkan berdasarkan penetapan Pengadilan,\njangka waktu dihitung sejak tanggal penetapan pengadilan memperoleh\nkekuatan hukum tetap.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nPasal 119\nAyat (1)\nSelama dalam proses likuidasi, Anggaran Dasar perseroan dengan segala\nperubahannya yang berlaku pada saat perseroan berakhir tetap berlaku\nsampai pada hari likuidator dibebaskan dati tanggungjawabnya oleh RUPS.\nAyat (2)\nCukup jelas\nAyat (3)…\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (3)\nCukup jelas\nPasal 120\nCukup jelas\nPasal 121\nAyat (1)\nKetentuan ini hanya berlaku bagi kreditor yang tidak diketahui identitasnya\nmaupun alamatnya pada saat proses likuidasi berlangsung.\nAyat (2)\nCukup jelas\nPasal 122\nCukup jelas\nPasal 123\nCukup jelas\nPasal 124\nCukup jelas\nPasal 125\nCukup jelas\nPasal 126\nCukup jelas\nPasal 127\nPada dasarnya terhadap perseroan yang melakukan kegiatan tertentu di bidang\npasar modal berlaku ketentuan dalam Undang -undang ini. Namun demikian\nmengingat kegia tan perseroan tersebut mempunyai sifat tertentu yang berbeda\ndengan perseroan pada umumnya, maka perlu dibuka kemungkinan adanya\npengaturan khusus terhadap perseroan tersebut.\nPengaturan khusus dimaksud antara lain mengenai sistem penyetoran modal, hal\nyang berkaitan dengan pembelian kembali saham perseroan dan hak suara serta\npenyelenggaraan RUPS.\nPasal 128\nCukup jelas\nPasal 129\nCukup jelas\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 3587"
+   }
+  }
+ ]
+}

@@ -1,0 +1,828 @@
+{
+ "id": "ID-H736",
+ "title": {
+  "zh": "签证、入境许可与移民许可法",
+  "en": "Law on Visa, Entry Permits and Immigration Permits",
+  "id": "VISA, IZIN, MASUK, DAN IZIN KEIMIGRASIAN",
+  "orig": "VISA, IZIN, MASUK, DAN IZIN KEIMIGRASIAN",
+  "vi": "Luật về Thị thực, Giấy phép Nhập cảnh và Giấy phép Xuất nhập cảnh",
+  "th": "พระราชบัญญัติว่าด้วยวีซ่า การอนุญาตเข้าเมือง และการอนุญาตคนเข้าเมือง",
+  "ms": "Akta tentang Visa, Permit Masuk dan Permit Imigresen"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02b",
+ "language": "id",
+ "level": "law",
+ "category": "04_劳工与行政法",
+ "status": "active",
+ "promulgatedDate": "1994",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU32-1994",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 55,
+ "chars": 28572,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PP0321994.pdf&fl=P03870"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\04_劳工与行政法\\印尼_文本_1994_VISA, IZIN, MASUK, DAN IZIN KEIMIGRASIAN.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 56 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H736-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\n(1) Visa dapat digolongkan ke dalam beberapa jenis yang meliputi:\n1. Visa Diplomatik;\n2. Visa Dinas;\n3. Visa Singgah;\n4. Visa Kunjungan; dan\n5. Visa Tinggal Terbatas.\n(2) Masing-masing jenis Visa sebagaimana dimaksud dalam ayat (1)\nperuntukannya adalah sebagai berikut :\na. Visa Diplomatik bagi mereka yang tugasnya bersifat diplomatik;\nb. Visa Dinas bagi mereka yang melaksanakan tugas resmi dari\nPemerintah Asing yang bersangkutan atau diutus oleh Organisasi\nInternasional, tetapi tugas tersebut tidak bersifat diplomatik;\nc. Visa Singgah bagi mereka yang bermaksud singgah di wilayah\nNegara Republik Indonesia untuk meneruskan perjalanan ke\nnegara lain atau kembali ke negara asal;\nd. Visa Kunjungan bagi mereka yang bermaksud melakukan\nkunjungan dalam rangka tugas pemerintahan, pariwisata,\nkegiatan sosial budaya dan usaha;\ne. Visa…\nPRESIDEN\nREPUBLIK INDONESIA\ne. Visa Tinggal Terbatas bagi mereka yang bermaksud untuk :\n1) menanamkan modal;\n2) bekerja;\n3) melaksanakan tugas sebagai Rochaniwan;\n4) mengikuti pendidikan dan latihan atau melakukan penelitian\nilmiah;\n5) menggabungkan diri dengan suami dan at au orang tua bagi\nisteri dan atau anak sah dari seorang Warga Negara Indonesia;\n6) menggabungkan diri dengan suami dan atau orang tua bagi\nisteri dan anak -anak sah di bawah umur dari Orang Asing\nsebagaimana dimaksud dalam huruf e angka 1), angka), angka\n3) dan angka 4);\n7) Repatriasi."
+   }
+  },
+  {
+   "id": "ID-H736-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB I / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\nVisa sebagaimana dimaksud dalam Pasal 1 ayat (1) dapat berbentuk cap\ndinas, lembaran yang dilekatkan atau dilampirkan pada paspor, kartu\nbiasa atau kartu elektronik.\nBagian Kedua\nPermintaan Visa"
+   }
+  },
+  {
+   "id": "ID-H736-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB I / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\n(1) Visa sebagaimana dimaksud dalam Pasal 1 ayat (1) dapat diberikan\nberdasarkan permintaan.\n(2) Permintaan…\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Permintaan Visa Diplomatik atau Visa Dinas wajib disertai nota\ndiplomatik atau nota dinas."
+   }
+  },
+  {
+   "id": "ID-H736-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB I / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\nPermintaan Visa selain Visa sebagaimana dimaks ud dalam Pasal 3 ayat\n(2) pengurusannya dapat dikuasakan kepada pihak lain."
+   }
+  },
+  {
+   "id": "ID-H736-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB I / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\nPermintaan Visa diajukan kepada Kepala Perwakilan Republik Indonesia\ndi luar negeri atau kepada pejabat di tempat lain yang ditetapkan oleh\nPemerintah Republik Indonesia."
+   }
+  },
+  {
+   "id": "ID-H736-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB I / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\n(1) Visa yang telah diberikan harus dipergunakan dalam waktu 90\n(sembilan puluh) hari terhitung sejak tanggal Visa tersebut\ndikeluarkan.\n(2) Dalam hal jangka waktu sebagaimana dimaksud dalam ayat (1)\ndilampaui, orang asing yang berkepentingan dap at mengajukan\npermintaan ulang.\nBagian Ketiga\nPemberian atau Penolakan\nPemberian Visa"
+   }
+  },
+  {
+   "id": "ID-H736-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB I / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\n(1) Kepala Perwakilan Republik Indonesiia di luar negeri berwenang\nmemberikan atau menolak memberikan Visa Diplomatik atau Visa\nDinas.\n(2) Dalam…\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Dalam Keadaan tertentu pemberian atau penolakan pemberian Visa\nsebagaimana dimaksud dalam ayat (1) dilakukan setelah mendapat\npersetujuan dari Menteri Luar Negeri atau pejabat yang ditunjuk."
+   }
+  },
+  {
+   "id": "ID-H736-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB I / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\nVisa Diplomatik atau Visa Dinas hanya dapat diberikan k epada\npemegang Paspor Diplomatik atau Paspor Dinas."
+   }
+  },
+  {
+   "id": "ID-H736-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB I / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n(1) Kepala Perwakilan Republik Indonesia di luar Negeri atau pejabat\nsebagaimana dimaksud dalam Pasal 5 berwenang memberikan atau\nmenolak memberikan Visa Singgah, Visa Kunjungan, dan Visa\nTinggal Terbatas setelah mendapat persetujuan dari Menteri\nKehakiman.\n(2) Menteri Kehakiman dapat memberikan kewenangan kepada Kepala\nPerwakilan Republik Indonesia di luar negeri atau kepada pejabat\nsebagaimana dimaksud dalam Pasal 5 atas kuasa sendiri untuk\nmemberikan atau menolak Visa Singgah dan Visa Kunjungan."
+   }
+  },
+  {
+   "id": "ID-H736-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB I / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\nDalam keadaan tertentu Visa Singgah dan Visa Kunjungan dapat\ndiberikan di Tempat Pemeriksaan Imigrasi.\nPRESIDEN\nREPUBLIK INDONESIA\nBagian…\nBagian Keempat\nJangka Waktu Visa"
+   }
+  },
+  {
+   "id": "ID-H736-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB I / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\nVisa Singga h diberikan kepada orang asing untuk singgah di wilayah\nNegara Republik Indonesia paling lama 14 (empat belas) hari terhitung\nsejak tanggal diberikannya izin masuk di wilayah Negara Republik\nIndonesia."
+   }
+  },
+  {
+   "id": "ID-H736-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB I / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n(1) Visa Kunjungan diberikan kepada orang a sing untuk berkunjung di\nwilayah Negara Republik Indonesia paling lama 60 (enam puluh)\nhari terhitung sejak tanggal diberikannya izin masuk di wilayah\nNegara Republik Indonesia.\n(2) Dalam hal orang asing sebagaimana dimaksud dalam ayat (1)\nberkunjung di wi layah Negara Republik Indonesia untuk tujuan\ntertentu dapat diberikan multipel Visa.\n(3) Ketentuan mengenai pemberian multipel visa untuk tujuan tertentu\nsebagaimana dimaksud dalam ayat (2) diatur lebih lanjut dengan\nKeputusan Menteri Kehakiman."
+   }
+  },
+  {
+   "id": "ID-H736-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB I / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\nVisa Tinggal Terbatas diberikan kepada orang asing untuk tinggal di\nwilayah Negara Republik Indonesia paling lama satu tahun terhitung\nsejak tanggal diberikannya izin masuk di wilayah Negara Republik\nIndonesia.\nPRESIDEN\nREPUBLIK INDONESIA\nBagian…\nBagian Kelima\nTata Cara Permintaan, Pemberian\natau Penolakan Pemberian Visa"
+   }
+  },
+  {
+   "id": "ID-H736-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB I / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\n(1) Permintaan Visa diajukan kepada Kepala Perwakilaan Republik\nIndonesia di luar negeri atau pejabat sebagaimana dimaksud dalam\nPasal 5 dengan mengisi formulir yang telah ditentukan.\n(2) Permintaan visa sebagaimana dimaksud dalam ayat (1) diajukan\ndengan melampirkan :\na. Paspor;\nb. tiket untuk keberangkatan dan tiket untuk kembali, atau tiket\nuntuk melanjutkan perjalanan ke negara tujuan;\nc. pas photo; dan\nd. keterangan jaminan te rsedianya biaya hidup selama berada di\nwilayah Negara Republik Indonesia.\n(3) Ketentuan sebagaimana dimaksud dalam ayat (2) huruf b,c dan\ntidak berlaku apabila permintaan Visa diajukan untuk keperluan\ndiplomatik atau Dinas."
+   }
+  },
+  {
+   "id": "ID-H736-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB I / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\n(1) Permintaan Visa sebagaimana dimaksud dalam Pasal 14 dikenakan\nbiaya.\n(2) Besarnya biaya permintaan Visa sebagaimana dimaksud dalam ayat\n(1) ditetapkan dengan Keputusan Menteri Kehakiman setelah\nmendapat persetujuan Menteri Keuangan.\nPRESIDEN\nREPUBLIK INDONESIA\n(3) Ketentuan…\n(3) Ketentuan sebagaimana dimaksud dalam ayat (1) tidak berlaku\ndalam permintaan Visa Diplomatik atau Visa Dinas."
+   }
+  },
+  {
+   "id": "ID-H736-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB I / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\n(1) Permintaan Visa disetujui apabila orang asing yang bersangkutan:\na. telah memenuhi persyaratan sebagaimana dimaksud dalam Pasal\n14 dan Pasal 15; dan\nb. tidak termasuk orang asing sebagaimana dimaksud dalam Pasal\n17 Undang-undang Nomor 9 Tahun 1992 tentang Keimigrasian.\n(2) Permintaan Visa ditolak apabila orang asing yang bersangkutan:\na. tidak memenuhi persyaratan sebagaimana dimaks ud dalam Pasal\n14 dan Pasal 15;\nb. termasuk orang asing sebagaimana dimaksud dalam Pasal 17\nUndang-undang Nomor 9 Tahun 1992 tentang Keimigrasian; dan\nc. berasal dari negara yang tidak mempunyai hubungan diplomatik\ndengan Pemerintah Republik Indonesia, kecuali ditentukan lain\nberdasarkan Keputusan Menteri Kehakiman."
+   }
+  },
+  {
+   "id": "ID-H736-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB I / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\nKetentuan mengenai bentuk, tata cara permintaan, pemberian atau\npenolakan pemberian atau penolakan pemberian Visa diatur lebih lanjut\ndengan Keputusan Menteri Kehakimana, kecuali untuk Visa Diplomatik\ndan Visa Dinas diatur lebih lanjut dengan Keputusan Menteri Luar\nNegeri.\nPRESIDEN\nREPUBLIK INDONESIA\nBAB II…\nBAB II\nIZIN MASUK DAN IZIN MASUK KEMBALI"
+   }
+  },
+  {
+   "id": "ID-H736-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\n(1) Setiap orang asing yang masuk ke wilayah Negara Republik\nIndonesia wajib mendapat Izin Masuk.\n(2) Izin Masuk sebagaimana dimaksud dalam ayat (1) dilakukan\ndengan cara menerakan izin pada Visa atau surat perjalanan orang\nasing yang bersangkutan."
+   }
+  },
+  {
+   "id": "ID-H736-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\n(1) Pemberian atau penolakan pemberian Izin Masuk dilakukan oleh\nPejabat Imigrasi yang bertugas di Tempat Pemeriksaan Imigrasi.\n(2) Izin Masuk diberikan sesuai dengan jenis Visa yang dimiliki oleh\norang asing yang bersangkutan."
+   }
+  },
+  {
+   "id": "ID-H736-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\n(1) Izin Masuk sebagaimana dimaksud dalam Pasal 18 diberikan juga\nkepada pemegang Izin Masuk Kembali tersebut masih berlaku.\n(2) Izin Masuk Kembali diberikan oleh Kepala Kantor Imigrasi yang\nwilayah kerjanya meliputi domisili orang asing yang bersangkutan.\n(3) Dalam hal tertentu Izin Masuk Kembali dapat juga diberikan oleh\nKepala Kantor Imigrasi selain yang dimaksud dalam ayat (2).\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H736-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21…"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 21\nPejabat Imigrasi yang bertugas di Tempat Pemeriksaan Imigrasi dalam\nhal-hal tertentu sebelum memberi Izin Masuk wajib memeriksa orang\nasing yang bersangkutan mengenai hal -hal sebagaimana dimaksud dalam\nPasal 14 ayat (2) huruf b dan d, kecuali pemegang Visa Diplomatik dan\nVisa Dinas."
+   }
+  },
+  {
+   "id": "ID-H736-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\n(1) Pemegang Visa Diplomatik dan Visa Dinas yang akan bertugas di\nIndonesia dan telah diberi Izin Masuk, wajib mengurus Izin Tinggal\nDiplomatik atau Izin Tinggal Dinas.\n(2) Izin Tinggal sebagaimana dimaksud dalam ayat (1) tidak berlaku\nbagi pemegang Visa Diplomatik atau Visa Dinas dalam rangka\nkunjungan singkat di wilayah Negara Republik Indonesia.\n(3) Permintaan Izin Tinggal Diplomatik atau Izi n Tinggal Dinas\nsebagaimana dimaksud dalam ayat (1) diajukan kepada Menteri\nLuar Negeri atau Pejabat yang ditunjuk.\n(4) Permintaan Izin Tinggal sebagaimana dimaksud dalam ayat (3)\ndiajukan paling lambat 60 (enam puluh) hari terhitung sejak tanggal\ndiberlakukannya Izin Masuk."
+   }
+  },
+  {
+   "id": "ID-H736-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\nIzin Masuk bagi pemegang Visa singgah atau Visa Kunjungan berlaku\njuga sebagai Izin Singgah atau Izin Kunjungan.\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H736-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24…"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 24\n(1) Pemegang Visa Tinggal Terbatas yang telah memperoleh Izin\nMasuk, Wajib mengurus Izin Tinggal Terbatas.\n(2) Permintaan Izin Tinggal Terbatas sebagaimana dimaksud dalam\nayat (1) diajukan kepada Direktur Jenderal Imigrasi atau pejabat\nImigrasi yang ditunjuk.\n(3) Permintaan Izin Tinggal Terbatas sebagaimana dimaksud dalam\nayat (2) diajukan paling lambat tujuh hari terhitung sejak tanggal\ndiberikannya Izin Masuk di wilayah Negara Republik Indonesia."
+   }
+  },
+  {
+   "id": "ID-H736-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\n(1) Orang asing warga negara dari negara yang berdas arkan Keputusan\nPresiden tidak diwajibkan memiliki Visa, Izin Masuk yang\ndiberikan berlaku juga sebagai izin Kunjungan.\n(2) Ketentuan sebagaimana dimaksud dalam ayat (1) berlaku juga\nterhadap orang asing yang bertugas sebagai awak alat angkut yang\nsedang berlabuh atau berada di wilayah Negara Republik Indonesia."
+   }
+  },
+  {
+   "id": "ID-H736-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\nKetentuan mengenai bentuk, tata cara pemberian atau penolakan\npemberian Izin Masuk dan Izin Masuk Kembali diatur lebih lanjut\ndengan Keputusan Menteri Kehakiman.\nPRESIDEN\nREPUBLIK INDONESIA\nBAB III…\nBAB III\nIZIN KEIMIGRASIAN\nBagian Pertama\nJenis Izin Keimigrasian"
+   }
+  },
+  {
+   "id": "ID-H736-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\nIzin Keimigrasian terdiri dari :\n1. Izin Singgah;\n2. Izin Kunjungan;\n3. Izin Tinggal Terbatas Terbatas; dan\n4. Izin Tinggal Tetap."
+   }
+  },
+  {
+   "id": "ID-H736-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\nIzin Singgah sebagaimana dimaksud dalam Pasal 27 angka 1, diberikan\nkepada orang asing yang memerlukan singgah di wilayah Negara\nRepublik Indonesia untuk meneruskan perjalanan ke negara lain atau\nkembali ke negara asal."
+   }
+  },
+  {
+   "id": "ID-H736-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\nDalam hal tertentu Izin Singgah dapat juga diberikan kepada orang asing\nselain orang asing sebagaimana dimaksud dalam Pasal 28.\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H736-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30…"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 30\nIzin Kunjungan sebagaimana dimaksud dalam Pasal 27 angka 2,\ndiberikan kepada orang asing dalam rangka kunjungan untuk :\n1. tugas pemerintahan;\n2. pariwisata;\n3. kegiatan sosial budaya; atau\n4. usaha."
+   }
+  },
+  {
+   "id": "ID-H736-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\nIzin Tinggal Terbatas sebagaimana dimaksud dalam Pasal 27 angka 3,\ndapat diberikan kepada orang asing pemegang Vi sa Tinggal Terbatas dan\norang asing pemegang Visa Terbatas dan orang asing sebagaimana\ndimaksud dalam pasal 45 ayat (2) serta Pasal 53 ayat (2) untuk tinggal di\nwilayah Negara Republik Indonesia dalam jangka waktu yang terbatas."
+   }
+  },
+  {
+   "id": "ID-H736-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 32\nIzin Tinggal Tetap sebagaimana dimaksud dalam Pasal 27 angka 4, dapat\ndiberikan kepada :\n1. orang asing sebagaimana dimaksud dalam Pasal 55 ayat (2); dan\n2. orang asing sebagaimana dimaksud dalam Pasal 31 yang telah\nmemenuhi persyaratan Pasal 49 dan Pasal 50.\nPRESIDEN\nREPUBLIK INDONESIA\nBagian…\nBagian Kedua\nPemberian atau Penolakan Pemberian\nIzin Keimigrasian"
+   }
+  },
+  {
+   "id": "ID-H736-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 33\nKewenangan pemberian atau penolakan pemberian Izin Keimigrasian ada\npada :\n1. Menteri Luar Negeri atau pejabat yang ditunjuk dalam hal Izin\nTinggal Diplomatik atau Izin Tinggal Dinas bagi pemegang Paspor\nDiplomatik atau pemegang Paspor Dinas.\n2. Menteri Kehakiman atau pejabat yang ditunjuk dalam hal Izin\nTinggal Tetap.\n3. Direktur J enderal Imigrasi atau pejabat Imigrasi yang ditunjuk\ndalam hal Izin Tinggal Terbatas.\n4. Pejabat Imigrasi yang bertugas di Tempat Pemeriksaan Imigrasi\ndalam hal :\na. Izin Kunjungan Diplomatik atau Dinas; dan\nb. Izin Singgah atau Izin Kunjungan.\nBagian Ketiga\nJangka Waktu Izin Keimigrasian"
+   }
+  },
+  {
+   "id": "ID-H736-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 34\nIzin Singgah diberikan kepada orang asing untuk singgah di wilayah\nNegara Republik Indonesia paling lambat 14 (empat belas) hari terhitung\nsejak tanggal diberikannya Izin Masuk di Wilayah Negara Republik\nPRESIDEN\nREPUBLIK INDONESIA\nIndonesia."
+   }
+  },
+  {
+   "id": "ID-H736-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35…"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 35\n(1) Izin Kunjungan diberikan kepada orang asing untuk berkunjung ke\nwilayah Negara Republik Indonesia untuk jangka waktu 60 (enam\npuluh) hari terhitung sejak tanggal diberikannya Izin Masuk di\nwilayah Negara Republik Indonesia.\n(2) Izin sebagaimana dimaksud dalam ayat (1) dapat diperpanjang\npaling banyak lima kali berturut -turut, setiap kali perpanjangan\nuntuk jangka waktu 30 (tiga puluh) hari.\n(3) Dalam hal Izin Kunjungan untuk keperluan wisata, jangka waktu 60\n(enam puluh) hari tidak dapat diperpanjang.\n(4) Ketentuan mengenai tata cara dan persyaratan perpanjangan Izin\nKunjungan sebagaimana dimaksud dalam ayat (2) diatur lebih lanjut\ndengan Keputusan Menteri Kehakimana."
+   }
+  },
+  {
+   "id": "ID-H736-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 36\nIzin Tinggal Diplomatik atau Izin Tinggal Dinas diberikan kepada orang\nasing untuk jangka waktu yang ditetapkan dengan Keputusan Menteri\nLuar Negeri."
+   }
+  },
+  {
+   "id": "ID-H736-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 37\n(1) Izin Tinggal Terbatas diberikan untuk jangka waktu paling lama\nsatu tahun dan dapat diperpanjang paling banyak lima kali\nberturut-turut.\n(2) Setiap kali perpanjangan sebagaimana dimaksud dalam ayat (1)\nPRESIDEN\nREPUBLIK INDONESIA\ndiberikan untuk jangka waktu paling lama satu tahun."
+   }
+  },
+  {
+   "id": "ID-H736-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38…"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 38\n(1) Izin Tinggal Tetap diberikan kepada orang asing jangka waktu lima\ntahun sejak diterbitkannya izin tersebut.\n(2) Izin sebagaimana dimaksud dalam ayat (1) dapat diperpanjang\nsetiap lima tahun sekali selama yang bersangkutan menetap di\nwilayah Negara Republik Indonesia.\nBagian Keempat\nTata Cara Permintaan, Pemberian atau\nPenolakan Pemberian Izin Keimigrasi"
+   }
+  },
+  {
+   "id": "ID-H736-A39",
+   "no": 39,
+   "noLabel": {
+    "id": "Pasal 39"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 39\nPermintaan Izin Keimigrasian dilakukan dengan cara mengisi formulir\nyang telah ditentukan."
+   }
+  },
+  {
+   "id": "ID-H736-A40",
+   "no": 40,
+   "noLabel": {
+    "id": "Pasal 40"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 40\n(1) Permintaan Izin Keimigrasian sebagaimana dimaksud dalam Pasal\n39 dikenakan biaya.\n(2) Besarnya biaya izin Keimigrasian sebagaimana dimaksud dalam\nayat (1) ditetapkan dengan Keputusan Menteri Kehakiman setelah\nmendapat persetujuan Menteri Keuangan."
+   }
+  },
+  {
+   "id": "ID-H736-A41",
+   "no": 41,
+   "noLabel": {
+    "id": "Pasal 41"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 41\nPRESIDEN\nREPUBLIK INDONESIA\nPermintaan Izin Keimigrasian diberikan apabila orang asing yang\nbersangkutan telah memenuhi persyaratan sebagaimana dimaksud dalam\nPasal 39 dan Pasal 40."
+   }
+  },
+  {
+   "id": "ID-H736-A42",
+   "no": 42,
+   "noLabel": {
+    "id": "Pasal 42…"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 42\n(1) Permintaan Izin Keimigrasian ditolak apabila orang asing yang\nbersangkutan tidak memenuhi persyaratan sebagaimana dimaksud\ndalam Pasal 39 dan Pasal 40.\n(2) Penolakan permintaan Izin Keimigrasian dimaksud dalam ayat (1)\nharus disertai alasan penolakan."
+   }
+  },
+  {
+   "id": "ID-H736-A43",
+   "no": 43,
+   "noLabel": {
+    "id": "Pasal 43"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 43\nKetentuan mengenai persyaratan, tata cara permintaan, pemberian, atau\npenolakan pemberian Izin Keimigrasian diatur lebih lanjut dengan\nKeputusan Menteri Kehakiman.\nBagian Kelima\nKedudukan Istri dan Anak"
+   }
+  },
+  {
+   "id": "ID-H736-A44",
+   "no": 44,
+   "noLabel": {
+    "id": "Pasal 44"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 44\nIsteri dapat mengikuti status Izin Tinggal Tetap suaminya."
+   }
+  },
+  {
+   "id": "ID-H736-A45",
+   "no": 45,
+   "noLabel": {
+    "id": "Pasal 45"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 45\n(1) Anak yang berumur di bawah 18 (delapan belas) tahun dan belum\nkawin dapat mengikuti status Izin Tinggal orang tuanya.\n(2) Anak yang lahir di Indonesia berumur di bawah 18 (delapan be las)\ntahun dan belum kawin dari ibu Warga Negara Indonesia dan\nayahnya tidak atau belum memiliki Izin Keimigrasian, dapat\nPRESIDEN\nREPUBLIK INDONESIA\ndiberikan Izin Tinggal Terbatas."
+   }
+  },
+  {
+   "id": "ID-H736-A46",
+   "no": 46,
+   "noLabel": {
+    "id": "Pasal 46…"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kelima"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 46\nIzin Tinggal Terbatas setelah orang asing sebagaimana dimaksud dalam\nPasal 44 dan Pasal 45 berada secara sah atau lahir di wilayah Negara\nRepublik Indonesia.\nBagian Keenam\nAlih Status Izin Keimigrasian"
+   }
+  },
+  {
+   "id": "ID-H736-A47",
+   "no": 47,
+   "noLabel": {
+    "id": "Pasal 47"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 47\nIzin Keimigrasian yang dapat dialihkan statusnya adalah :\n1. Izin Kunjungan menjadi Izin Tinggal Terbatas; dan\n2. Izin Tinggal Terbatas menjadi Izin Tinggal Tetap, kecuali orang\nasing sebagaimana dimaksud dalam Pasal 53."
+   }
+  },
+  {
+   "id": "ID-H736-A48",
+   "no": 48,
+   "noLabel": {
+    "id": "Pasal 48"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 48\n(1) Izin Kunjungan dapat dialihkan statusnya menjadi Izin Tinggal\nTerbatas.\n(2) Pengalihan status sebagaimana dimaksud dalam ayat (1) dibe rikan\natas dasar permintaan orang asing yang bersangkutan dan\nsponsornya, dengan syarat telah berada di wilayah Negara Republik\nIndonesia sekurang-kurangnya empat bulan berturut -turut terhitung\nsejak tanggal diberikannya Izin Masuk di wilayah Negara Republ ik\nIndonesia.\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H736-A49",
+   "no": 49,
+   "noLabel": {
+    "id": "Pasal 49…"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keenam"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 49\n(1) Izin Tinggal Terbatas dapat dialihkan statusnya menjadi Izin\nTinggal Tetap.\n(2) Pengalihan status sebagaimana dimaksud dalam ayat (1) diberikan\natas dasar permintaan orang asing yang bersangkutan, dengan syarat\ntelah berada di wilayah Negara Republik Indonesia\nsekurang-kurangnya lima tahun berturut -turut terhitung sejak\ntanggal diberikannya Izin Tinggal Terbatas."
+   }
+  },
+  {
+   "id": "ID-H736-A50",
+   "no": 50,
+   "noLabel": {
+    "id": "Pasal 50"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 50\nKetentuan mengenai syarat dan tata cara pengalihan status Izin\nKeimigrasian sebagaimana dimaksud dalam Pasal 48 dan 49 diatur lebih\nlanjut dengan Keputusan Menteri Kehakiman.\nBagian Ketujuh\nGugurnya Izin Tinggal Terbatas\ndan Izin Tinggal Tetap"
+   }
+  },
+  {
+   "id": "ID-H736-A51",
+   "no": 51,
+   "noLabel": {
+    "id": "Pasal 51"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 51\nIzin Tinggal Terbatas bagi orang asing gugur karena yang bersangkutan.\n1. melepaskan hak Izin Tinggal Terbatasnya atas kemauan sendiri;\n2. berada di luar wilayah Negara Republik Indonesia ter us menerus\ndan telah melebihi batas waktu Izin Masuk Kembali ke wilayah\nPRESIDEN\nREPUBLIK INDONESIA\nNegara Republik Indonesia;\n3. dikenakan…\n3. dikenakan tindakan keimigrasian sebagaimana dimaksud dalam\nPasal 42 ayat (1) dan ayat (2) huruf a dan b Undang -undang Nomor\n9 Tahun 1992 tentang Keimigrasian.\nBAB IV\nKEMUDAHAN KHUSUS KEIMIGRASIAN"
+   }
+  },
+  {
+   "id": "ID-H736-A53",
+   "no": 53,
+   "noLabel": {
+    "id": "Pasal 53"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 53\n(1) Orang asing yang bekerja sebagai nakhoda, anak buah kapal di\nkapal atau alat apung atau sebagai tenaga ahli pada kapal atau alat\napung yang langsung bekerja di perairan nusantara, laut teritorial\natau pada instalasi landas kontinen atau pada zone ekonomi\neksklusif dapat diberikan kemudahan khusus keimigrasian.\n(2) Izin Keimigrasian yang diberikan kepada orang asing sebagaimana\ndimaksud dalam ayat (1) adalah Izin Tinggal Terbatas."
+   }
+  },
+  {
+   "id": "ID-H736-A54",
+   "no": 54,
+   "noLabel": {
+    "id": "Pasal 54"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 54\nKetentuan mengenai tata cara pemberian atau penolakan pemberian Izi n\nTinggal Terbatas sebagaimana dimaksud dalam Pasal 53 ayat (2) diatur\nlebih lanjut dengan Keputusan Menteri Kehakiman.\nPRESIDEN\nREPUBLIK INDONESIA\nBAB V…\nBAB V\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H736-A55",
+   "no": 55,
+   "noLabel": {
+    "id": "Pasal 55"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 55\n(1) Pada saat Peraturan Pemerintah ini mulai berlaku semua peraturan\npelaksanaan ya ng berkaitan dengan Visa, Izin Masuk, dan Izin\nKeimigrasian, tetap berlaku sepanjang belum diatur kembali\nberdasarkan Peraturan Pemerintah ini.\n(2) Izin Keimigrasian yang telah diberikan berdasarkan Undang-undang\nNomor 9 Tahun 1955 tentang Kependudukan Ora ng Asing\ndiberikan Izin Keimigrasian berdasarkan Peraturan Pemerintah ini\nyang akan diatur lebih lanjut dengan Keputusan Menteri\nKehakiman.\nBAB VI\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H736-A56",
+   "no": 56,
+   "noLabel": {
+    "id": "Pasal 56"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 56\nPeraturan Pemerintah ini mulai berlaku sejak tanggal diundangkan.\nPRESIDEN\nREPUBLIK INDONESIA\nAgar...\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran\nNegara Republik Indonesia.\nDitetapkan di Jakarta\npada tanggal 14 Oktober 1994\nPRESIDEN REPUBLIK INDONESIA,\nttd.\nSOEHARTO\nDiundangkan di Jakarta\npada tanggal 14 Oktober 1994\nMENTERI NEGARA SEKRETARIS NEGARA\nREPUBLIK INDONESIA,\nttd.\nMOERDIONO\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1994 NOMOR 55\nPRESIDEN\nREPUBLIK INDONESIA\nPENJELASAN\nATAS\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nNOMOR 32 TAHUN 1994\nTENTANG\nVISA, IZIN MASUK, DAN IZIN KEIMIGRASIAN\nUMUM\nAgar Undang-undang Nomor 9 Tahun 1992 tentang Keimigrasian berlaku secara efektif\ndi masyarakat, perlu ditetapkan Peraturan Pemerintah sebagai peraturan pelaksanaan dari\nUndang-undang tersebut.\nDalam Undang -undang Nomor 9 Tahun 1992 tentang Keimigrasian tersebut, ter dapat\nbeberapa ketentuan yang perlu diatur dengan Peraturan Pemerintah.\nJenis materi yang ditentukan untuk diatur dalam Peraturan Pemerintah ada\nbermacam-macam. Dengan demikian tidak memungkinkan untuk diatur dalam satu\nPeraturan Pemerintah.\nUntuk materi yang secara yuridis mempunyai kekhususan perlu diatur dalam satu\nPeraturan Pemerintah tersendiri. Berdasarkan kenyataan tersebut, maka diperlukan\nbeberapa Peraturan Pemerintah sebagai peraturan Pelaksanaan dari Undang -undang\nNomor 9 Tahun 1992 tentang Keimigrasian tersebut.\nSalah satu dari Peraturan Pemerintah yang perlu ditetapkan adalah Peraturan Pemerintah\ntentang Visa, Izin Masuk dan Izin Keimigrasian.\nDalam Peraturan Pemerintah ini diatur mengenai :\na. Jenis Visa, Izin Masuk dan Izin Masuk Kembali, serta Jenis Izin Keimigrasian;\nb. Pemberian atau penolakan pemberian Visa, Izin Masuk, dan Izin Keimigrasian;\nc. Jangka waktu Visa dan Izin Keimigrasian;\nd. Tata…\nPRESIDEN\nREPUBLIK INDONESIA\nd. Tata cara permintaan, pemberian atau penolakan pemberian Visa dan Izin\nKeimigrasian;\ne. Status Isteri dan Anak;\nf. Alih status Izin Keimigrasian;\ng. Gugurnya Izin Tinggal Terbatas dan Izin Tinggal Tetap;\nh. Kemudahan khusus keimigrasian;\ni. Ketentuan Peralihan.\nPASAL DEMI PASAL\nPasal 1\nAyat (1)\nCukup jelas\nAyat (2)\nJenis Visa sebagaimana tercantum dalam ayat (2) huruf c, d dan e merupakan\njenis Visa biasa.\nPasal 2\nCukup jelas\nPasal 3\nCukup jelas\nPasal 4\nYang dimaksud dengan \"pihak lain\" adalah orang perorangan atau Biro Jasa.\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 5…\nPasal 5\nDitunjukan pejabat di tempat lain yang ditetapkan oleh Pemerintah Republik\nIndonesia, karena di tempat tersebut tidak terdapat Kantor Perwakilan Republik\nIndonesia, pejabat tersebut misalnya pejabat Imigrasi di Tempat Pemeriksaan\nImigrasi.\nPasal 6\nCukup jelas\nPasal 7\nAyat (1)\nCukup jelas\nAyat (2)\nYang dimaksud dengan \"keadaan tertentu\" adalah dalam hal pemegang paspor\nberasal dari negara yang sedang bergejolak, atau yang menurut pertimbangan\nKepala Perwakilan Republik Indonesia di luar negeri dimana permintaan\ntersebut diajukan pemberian atau penolakannya perlu mendapat persetujuan\ndari Menteri Luar Negeri.\nPasal 8\nCukup jelas\nPasal 9\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 10…\nPasal 10\nyang dimaksud dengan \"keadaan tertentu\" adala h dalam keadaan mendesak antara\nlain untuk melaksanakan tugas pemerintah yang sifatnya mendadak atau menghadiri\nseminar, konferensi, olah raga yang diadakan dalam rangka kerjasama antar\npemerintah atau badan internasional.\nPasal 11\nCukup jelas\nPasal 12\nAyat (1)\nCukup jelas\nAyat (2)\nYang dimaksud dengan \"multipel visa\" adalah Visa Kunjungan untuk beberapa\nkali melakukan perjalanan dari dan ke wilayah Negara Republik Indonesia\ndalam rangka kegiatan usaha.\nAyat (3)\nCukup jelas\nPasal 13\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 14…\nPasal 14\nAyat (1)\nCukup jelas\nAyat (2)\nHuruf a\nDalam hal permintaan Visa, termasuk pengertian paspor antara lain :\nCertificate of Identity.\nHuruf b\nCukup jelas\nHuruf c\nCukup jelas\nHuruf d\nYang dimaksud dengan \"keterangan jaminan tersedianya biaya hidup\"\ndalam ayat ini adalah keterangan yang menyatakan tersedianya dana\ndalam jumlah tertentu untuk biaya hidup selama berada di wilayah\nNegara Republik Indonesia, baik yang dibawa dari negara as al atau yang\ndisediakan oleh pihak tertentu yang berada di wilayah Negara Republik\nIndonesia.\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (3)…\nAyat (3)\nPengecualian berlakunya ketentuan sebagaimana dimaksud dalam ayat (2)\nhuruf b,c dan d, mengingat belum diketahui dengan pasti untuk berapa lama\norang mengajukan permintaan Visa Dinas dan Diplomatik akan tinggal di\nwilayah Negara Republik Indonesia, sehingg a apabila kedua hal tersebut\ndisyaratkan akan berlebihan.\nPasal 15\nCukup jelas\nPasal 16\nCukup jelas\nPasal 17\nCukup jelas\nPasal 18\nAyat (1)\nCukup jelas\nAyat (2)\nYang dimaksud dengan \"menerakan\" izin pada Visa, Surat Perjalanan adalah\nmemberikan tanda yang dapat dibaca, dapat berupa Cap Dinas atau kartu biasa\natau kartu elektronik, lembaran yang dilekatkan atau lembaran yang\ndilampirkan pada paspor.\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 19…\nPasal 19\nAyat (1)\nCukup jelas\nAyat (2)\nYang dimaksud dengan \"izin masuk diberikan sesuai jenis visa\", misalnya\norang asing pemegang paspor atau Visa untuk tugas diplomatik tidak\ndibenarkan untuk digunakan kegiatan lainnya di luar kegiatan diplomatik.\nPasal 20\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nYang dimaksud dengan \"dalam hal tertentu\" adalah apabila orang asing\ntersebut tidak memungkinkan untuk mengajukan permintaan Izin Masuk\nKembali di tempat yang bersangkutan berdomisili.\nPasal 21\nYang dimaksud dengan \"dalam hal tertentu\" adalah apabila menurut pengamatan\ndan penilaian pejabat imigrasi orang asing yang bersngkutan disangsikan\nkemampuannya untuk memenuhi biaya hidup selama berada di wilayah Negara\nRepublik Indonesia dan tersedianya tiket untuk meninggalkan wil ayah Negara\nPRESIDEN\nREPUBLIK INDONESIA\nRepublik Indonesia.\nPasal 22…\nPasal 22\nKewajiban mengurus izin tinggal dimaksudkan untuk mewujudkan untuk tertib\nadministrasi dalam rangka pengawasan orang asing yang berada di wilayah Negara\nRepublik Indonesia.\nPasal 23\nKemudahan pemberian izin masuk sekaligus sebagai izin kunjungan bagi pemegang\nVisa Singgah atau Visa Kunjungan, mengingat keberadaan orang asing yang\nbersangkutan relatif singkat di wilayah Negara Republik Indonesia serta dalam\nrangka ikut menggalakkan bid ang pariwisata, pendidikan, perdagangan dan bidang\nlain yang bermanfaat bagi negara, dengan tanpa mengenyampingkan faktor\nkeamanan bagi negara.\nPasal 24\nCukup jelas\nPasal 25\nAyat (1)\nCukup jelas\nAyat (2)\nYang dimaksud dengan \"awak alat angkut\" adalah awak alat angkut atau awak\nkapal perang asing yang route perjalanan atau pelayarannya melintasi wilayah\nNegara Republik Indonesia baik darat, laut maupun udara dengan menyinggahi\nsalah satu Tempat Pemeriksaan Imigrasi.\nAyat (3)\nPRESIDEN\nREPUBLIK INDONESIA\nCukup jelas\nPasal 26…\nPasal 26\nCukup jelas\nPasal 27\nCukup jelas\nPasal 28\nCukup jelas\nPasal 29\nYang dimaksud dengan \"dalam hal tertentu\" misalnya antara lain kerusakan yang\nsangat serius pada alat angkut dari orang asing yang bersangkutan, atau keadaan\ncuaca yang sangat buruk sehingga tidak memungkinkan untuk segera meninggalkan\nwilayah Negara Republik Indonesia. Hal tersebut merupakan keadaan darurat di luar\nkemampuan orang asing tersebut.\nPasal 30\nCukup jelas\nPasal 31\nCukup jelas\nPasal 32\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 33…\nPasal 33\nCukup jelas\nPasal 34\nDalam hal batas waktu yang ditentukan terlampaui, sedangkan orang asing yang\nbersangkutan belum dapat meneruskan perjalanannya karena suatu keadaan\nmemaksa di luar kemampuan orang asing tersebut (misalnya karena jatuh sakit yang\nmemerlukan perawatan atau kendaraan yang mengangkut belum bisa berangkat),\nmaka kepada orang asing tersebut diberikan batas waktu untuk tetap singgah di\nIndonesia sampai keadaan memungkinkan untuk meninggalkan wilayah Negara\nRepublik Indonesia.\nPasal 35\nCukup jelas\nPasal 36\nYang dimaksud dengan \"orang asing\" dalam Pasal ini adalah orang asing pemegang\nPaspor dan Visa Diplomatik atau pemegang Paspor dan Visa Dinas dalam rangka\ntugas pemerintahan.\nPasal 37\nCukup jelas\nPasal 38\nCukup jelas\nPasal 39\nPRESIDEN\nREPUBLIK INDONESIA\nCukup jelas\nPasal 40…\nPasal 40\nCukup jelas\nPasal 41\nCukup jelas\nPasal 42\nCukup jelas\nPasal 43\nCukup jelas\nPasal 44\nYang dimaksud dengan kata \"dapat\" dalam Pasal ini dalam arti status isteri tidak\nsecara otomatis mengikuti status suami, tetapi harus memenuhi per syaratan tertentu\nsesuai ketentuan peraturan perundang-undangan yang berlaku.\nPasal 45\nLihat penjelasan Pasal 44\nPasal 46\nYang dimaksud dengan \"secara sah\" adalah sesuai dengan ketentuan peraturan\nperundang-undangan yang berlaku.\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 47…\nPasal 47\nCukup jelas\nPasal 48\nCukup jelas\nPasal 49\nCukup jelas\nPasal 50\nCukup jelas\nPasal 51\nYang dimaksud dengan kata \"gugur\" dalam Pasal ini adalah hapus secara otomatis\ndan sah menurut hukum.\nPasal 52\nCukup jelas\nPasal 53\nYang dimaksud dengan \"kemudahan khusus keimigrasian\" adalah merupakan\nfasilitas yang diberikan kepada orang asing yang bekerja sebagai tenaga ahli,\nnakhoda atau awak kapal pada kapal atau pada alat apung yang beroperasi bekerja di\nperairan Nusantara, laut teritorial atau pada instalasi landas kontinen serta pada\nPRESIDEN\nREPUBLIK INDONESIA\nZona Ekonomi Eksklusif Indonesia antara lain :\n1. dibebaskan…\n1. dibebaskan dari kewajiban memiliki Visa jika memasuki wilayah Negara\nRepublik Indonesia dengan kapal atau alat apungnya;\n2. dibebankan dari kewajiban memiliki Izin Masuk Kembali jika ke luar atau\nmasuk wilayah Negara republik Indonesia dengan kapal atau alat apung;\n3. dibebankan dari kewajiban sidik jari pada pendaftaran orang asing.\nYang dimaksud dengan alat apung antara lain :\n- Rick;\n- Storage;\n- Barge.\nPasal 54\nCukup jelas\nPasal 55\nCukup jelas\nPasal 56\nCukup jelas\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 3563"
+   }
+  }
+ ]
+}

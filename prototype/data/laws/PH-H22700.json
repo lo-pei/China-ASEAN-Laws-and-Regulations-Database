@@ -1,0 +1,62 @@
+{
+ "id": "PH-H22700",
+ "title": {
+  "zh": null,
+  "en": "Amending Section 24(B) (2) of the National Internal Revenue Code to Provide a Statutory Definition of the Term \"Gross Philippine Billings.",
+  "orig": "Amending Section 24(B) (2) of the National Internal Revenue Code to Provide a Statutory Definition of the Term \"Gross Philippine Billings."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1978-04-21",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 1355",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1174,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_01355_1978_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_01355_1978_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22700-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section 24 (b) (2) of the National Internal Revenue Code is hereby amended by adding a\ndefinition of the term \"gross Philippine billings\" as follows:\n\". . . \"Gross Philippine billings\" includes gross revenue realized from uplifts anywhere in the world by any\ninternational carrier doing business in the Philippines of passage documents sold therein, whether for\npassenger, excess baggage or mail, provided the cargo or mail originates from the Philippines. The gross\nrevenue realized from the said cargo or mail shall include the gross freight charge up to final destination.\nGross revenues from chartered flights originating from the Philippines shall likewise from part of \"gross\nPhilippine billings\" regardless of the place of sale or payment of the passage documents. For purposes of\ndetermining the taxability of revenues from chartered flights, the term \"originating from the Philippines\" shall\ninclude flight of passengers who stay in the Philippines for more than forty-eight (48) hours prior to\nembarkation.\""
+   }
+  },
+  {
+   "id": "PH-H22700-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Decree shall take effect upon approval.\nDone in the City of Manila, this 21st day of April, in the year of Our Lord, nineteen hundred and\nseventy-eight."
+   }
+  }
+ ]
+}

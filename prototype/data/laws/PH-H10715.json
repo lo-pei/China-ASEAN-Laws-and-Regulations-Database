@@ -1,0 +1,72 @@
+{
+ "id": "PH-H10715",
+ "title": {
+  "zh": null,
+  "en": "AN ACT APPROPRIATING FIVE THOUSAND DOLLARS, MEXICAN, FOR THE PURPOSE OF MAKING A SURVEY TO ASCERTAIN THE MOST ADVANTAGEOUS ROUTE FOR A RAILROAD INTO THE MOUNTAINS OF BENGUET, ISLAND OF LUZON, AND THE PROBABLE COST",
+  "orig": "AN ACT APPROPRIATING FIVE THOUSAND DOLLARS, MEXICAN, FOR THE PURPOSE OF MAKING A SURVEY TO ASCERTAIN THE MOST ADVANTAGEOUS ROUTE FOR A RAILROAD INTO THE MOUNTAINS OF BENGUET, ISLAND OF LUZON, AND THE PROBABLE COST"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 640,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_00002_1900_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_00002_1900_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H10715-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The sum of five thousand dollars, Mexican, or so much thereof as may be necessary, is hereby\nappropriated out of any funds in the Insular Treasury, not otherwise appropriated, for the purpose of making\na survey to ascertain the most advantageous route for a railroad into the mountains of Benguet, Island of\nLuzon, and the probable cost thereof."
+   }
+  },
+  {
+   "id": "PH-H10715-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The disbursing officer of the Commission is authorized and directed to draw his warrant for the\namount appropriated by this bill, or so much thereof as may be necessary, and the Insular Treasurer is\ndirected to pay the same."
+   }
+  },
+  {
+   "id": "PH-H10715-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, September 12, 1900."
+   }
+  }
+ ]
+}

@@ -1,0 +1,642 @@
+{
+ "id": "MY-H6321",
+ "title": {
+  "zh": "2016年雇员社会保障（一般规定）（修正）条例",
+  "en": "EMPLOYEES’ SOCIAL SECURITY (GENERAL) (AMENDMENT) REGULATONS 2016",
+  "orig": "EMPLOYEES’ SOCIAL SECURITY (GENERAL) (AMENDMENT) REGULATONS 2016",
+  "vi": "Quy định về An sinh xã hội cho người lao động (Quy định chung) (Sửa đổi) năm 2016",
+  "th": "ข้อบังคับ ประกันสังคมลูกจ้าง (บททั่วไป) (การแก้ไข) ค.ศ. 2016",
+  "id": "Peraturan Jaminan Sosial Karyawan (Ketentuan Umum) (Perubahan) Tahun 2016",
+  "ms": "Peraturan Keselamatan Sosial Pekerja (Am) (Pindaan) 2016"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-14",
+ "language": "en",
+ "level": "law",
+ "category": "04_劳工与行政法",
+ "status": "active",
+ "promulgatedDate": "2016",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "PUA52",
+ "topics": [],
+ "summary": null,
+ "coverage": "partial",
+ "structureMode": "ARTICLE",
+ "articleCount": 50,
+ "chars": 49021,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-view.php?type=pua&no=P.U. (A) 52/2016&status=AMENDMENT"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\04_劳工与行政法\\2016_P.U.(A)52-2016_EMPLOYEES' SOCIAL SECURITY (GENERAL) (AMENDMENT) REGULATONS 2016.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 79 条；逐字未改写（源自厂商 OCR 文本）。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H6321-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "1. Kuala Lumpur Hospital Kuala Lumpur,\n\nWilayah Persekutuan Kuala Lumpur.\n\nHospital Ampang,\n\nAmpang,\n\nSelangor.\n\nHospital Putrajaya,\n\nWilayah Persekutuan Putrajaya.\n\nHospital Rehabilitasi Cheras\n\nCheras,\n\nWilayah Persekutuan Kuala Lumpur.\n\n(1) (2) (3)\n\nBil. Kawasan Keselamatan Sosial Tempat Jemaah Doktor"
+   }
+  },
+  {
+   "id": "MY-H6321-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "2. Rawang Hospital Kuala Kubu Bharu,\n\nKuala Kubu Bharu,\n\nSelangor.\n\nHospital Selayang,\n\nSelayang,\n\nSelangor.\n\nHospital Tanjung Karang,\n\nTanjung Karang,\n\nSelangor.\n\nHospital Sungai Buloh,\n\nSungai Buloh,\n\nSelangor.\n\nHospital Tengku Ampuan Jemaah,\n\nSabak Bernam,\n\nSelangor."
+   }
+  },
+  {
+   "id": "MY-H6321-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "3. Petaling Jaya Pusat Perubatan UM,\n\nPetaling Jaya,\n\nSelangor.\n\nHospital Kajang,\n\nKajang,\n\nSelangor.\n\nHospital Serdang,\n\nSerdang,\n\nSelangor."
+   }
+  },
+  {
+   "id": "MY-H6321-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "4. Klang Hospital Tengku Ampuan Rahimah,\n\nKlang,\n\nSelangor.\n\nHospital Banting,\n\nBanting,\n\nSelangor."
+   }
+  },
+  {
+   "id": "MY-H6321-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "5. Johor Bahru Hospital Sultanah Aminah,\n\nJohor Bahru,\n\nJohor.\n\nHospital Sultan Ismail,\n\nJohor Bahru,\n\nJohor.\n\n(1) (2) (3)\n\nBil. Kawasan Keselamatan Sosial Tempat Jemaah Doktor\n\nHospital Kota Tinggi,\n\nKota Tinggi,\n\nJohor.\n\nHospital Pontian,\n\nPontian,\n\nJohor.\n\nHospital Permai,\n\nJohor Bahru,\n\nJohor.\n\nHospital Temenggung Seri Maharaja,\n\nKulai,\n\nJohor."
+   }
+  },
+  {
+   "id": "MY-H6321-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "6. Kluang Hospital Kluang,\n\nKluang,\n\nJohor.\n\nHospital Mersing,\n\nMersing,\n\nJohor."
+   }
+  },
+  {
+   "id": "MY-H6321-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "7. Muar Hospital Pakar Sultanah Fatimah,\n\nMuar,\n\nJohor.\n\nHospital Tangkak,\n\nTangkak,\n\nJohor."
+   }
+  },
+  {
+   "id": "MY-H6321-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "8. Batu Pahat Hospital Sultanah Nora Ismail,\n\nBatu Pahat,\n\nJohor."
+   }
+  },
+  {
+   "id": "MY-H6321-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "9. Segamat Hospital Segamat,\n\nSegamat,\n\nJohor."
+   }
+  },
+  {
+   "id": "MY-H6321-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "10. Kuala Pilah Hospital Tuanku Ampuan Najihah,\n\nKuala Pilah,\n\nNegeri Sembilan."
+   }
+  },
+  {
+   "id": "MY-H6321-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "11. Seremban Hospital Tuanku Ja'afar,\n\nSeremban,\n\nNegeri Sembilan.\n\n(1) (2) (3)\n\nBil. Kawasan Keselamatan Sosial Tempat Jemaah Doktor\n\nHospital Port Dickson,\n\nPort Dickson,\n\nNegeri Sembilan.\n\nHospital Jelebu,\n\nJelebu,\n\nNegeri Sembilan.\n\nHospital Jempol,\n\nBandar Seri Jempol,\n\nNegeri Sembilan.\n\nHospital Tampin,\n\nTampin,\n\nNegeri Sembilan."
+   }
+  },
+  {
+   "id": "MY-H6321-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "12. Melaka Hospital Melaka,\n\nMelaka.\n\nHospital Alor Gajah,\n\nAlor Gajah,\n\nMelaka.\n\nHospital Jasin,\n\nJasin,\n\nMelaka."
+   }
+  },
+  {
+   "id": "MY-H6321-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "13. Alor Setar Hospital Sultanah Bahiyah,\n\nAlor Setar,\n\nKedah.\n\nHospital Jitra,\n\nJitra,\n\nKedah.\n\nHospital Kuala Nerang,\n\nKuala Nerang,\n\nKedah."
+   }
+  },
+  {
+   "id": "MY-H6321-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "14. Sungai Petani Hospital Sultan Abdul Halim,\n\nSungai Petani,\n\nKedah.\n\nHospital Baling,\n\nBaling,\n\nKedah.\n\n(1) (2) (3)\n\nBil. Kawasan Keselamatan Sosial Tempat Jemaah Doktor\n\nHospital Sik,\n\nSik,\n\nKedah.\n\nHospital Yan,\n\nYan,\n\nKedah."
+   }
+  },
+  {
+   "id": "MY-H6321-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "15. Kulim Hospital Kulim,\n\nKulim,\n\nKedah."
+   }
+  },
+  {
+   "id": "MY-H6321-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "16. Pulau Langkawi Hospital Langkawi,\n\nLangkawi,\n\nKedah."
+   }
+  },
+  {
+   "id": "MY-H6321-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "17. Kangar Hospital Tuanku Fauziah,\n\nKangar,\n\nPerlis."
+   }
+  },
+  {
+   "id": "MY-H6321-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "18. Taiping Hospital Taiping,\n\nTaiping,\n\nPerak.\n\nHospital Parit Buntar,\n\nParit Buntar,\n\nPerak.\n\nHospital Selama,\n\nSelama,\n\nPerak."
+   }
+  },
+  {
+   "id": "MY-H6321-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "19. Teluk Intan Hospital Teluk Intan,\n\nTeluk Intan,\n\nPerak."
+   }
+  },
+  {
+   "id": "MY-H6321-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "20. Tapah Hospital Tapah,\n\nTapah,\n\nPerak.\n\nHospital Slim River,\n\nSlim River,\n\nPerak.\n\nHospital Sultanah Hajjah Kalsom,\n\nCameron Highlands,\n\nPahang.\n\n(1) (2) (3)\n\nBil. Kawasan Keselamatan Sosial Tempat Jemaah Doktor"
+   }
+  },
+  {
+   "id": "MY-H6321-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "21. Kuala Kangsar Hospital Kuala Kangsar,\n\nKuala Kangsar,\n\nPerak.\n\nHospital Seri Manjung,\n\nSeri Manjung,\n\nPerak.\n\nHospital Gerik,\n\nGrik,\n\nPerak.\n\nHospital Sungai Siput,\n\nSungai Siput,\n\nPerak."
+   }
+  },
+  {
+   "id": "MY-H6321-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "22. Ipoh Hospital Raja Permaisuri Bainun,\n\nIpoh,\n\nPerak.\n\nHospital Batu Gajah,\n\nBatu Gajah,\n\nPerak.\n\nHospital Changkat Melintang,\n\nBota,\n\nPerak.\n\nHospital Kampar,\n\nKampar,\n\nPerak."
+   }
+  },
+  {
+   "id": "MY-H6321-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "23. Kuala Krai Hospital Kuala Krai,\n\nKuala Krai,\n\nKelantan.\n\nHospital Gua Musang,\n\nGua Musang,\n\nKelantan."
+   }
+  },
+  {
+   "id": "MY-H6321-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "24. Kota Bharu Hospital Raja Perempuan Zainab II,\n\nKota Bharu,\n\nKelantan.\n\nHospital Tengku Anis,\n\nPasir Puteh,\n\nKelantan.\n\n(1) (2) (3)\n\nBil. Kawasan Keselamatan Sosial Tempat Jemaah Doktor\n\nHospital Tumpat,\n\nTumpat,\n\nKelantan.\n\nHospital Pasir Mas,\n\nPasir Mas,\n\nKelantan.\n\nHospital Jeli,\n\nJeli,\n\nKelantan.\n\nHospital Machang,\n\nMachang,\n\nKelantan.\n\nHospital Tanah Merah,\n\nTanah Merah,\n\nKelantan."
+   }
+  },
+  {
+   "id": "MY-H6321-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "25. Dungun Hospital Dungun,\n\nDungun,\n\nTerengganu."
+   }
+  },
+  {
+   "id": "MY-H6321-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "26. Kuala Terengganu Hospital Sultanah Nur Zahirah,\n\nKuala Terengganu,\n\nTerengganu.\n\nHospital Setiu,\n\nSetiu,\n\nTerengganu.\n\nHospital Hulu Terengganu,\n\nKuala Berang,\n\nTerengganu.\n\nHospital Besut,\n\nBesut,\n\nTerengganu."
+   }
+  },
+  {
+   "id": "MY-H6321-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 27"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "27. Kemaman Hospital Kemaman,\n\nKemaman,\n\nTerengganu."
+   }
+  },
+  {
+   "id": "MY-H6321-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 28"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "28. Temerloh Hospital Sultan Hj. Ahmad Shah,\n\nTemerloh,\n\nPahang.\n\n(1) (2) (3)\n\nBil. Kawasan Keselamatan Sosial Tempat Jemaah Doktor\n\nHospital Jengka,\n\nMaran,\n\nPahang.\n\nHospital Jerantut,\n\nJerantut,\n\nPahang."
+   }
+  },
+  {
+   "id": "MY-H6321-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Section 29"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "29. Bentong Hospital Bentong,\n\nBentong,\n\nPahang."
+   }
+  },
+  {
+   "id": "MY-H6321-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Section 30"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "30. Raub Hospital Kuala Lipis,\n\nKuala Lipis,\n\nPahang.\n\nHospital Raub,\n\nRaub,\n\nPahang."
+   }
+  },
+  {
+   "id": "MY-H6321-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Section 31"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "31. Kuantan Hospital Tengku Ampuan Afzan,\n\nKuantan,\n\nPahang.\n\nHospital Muadzam Shah,\n\nRompin,\n\nPahang.\n\nHospital Pekan,\n\nPekan,\n\nPahang."
+   }
+  },
+  {
+   "id": "MY-H6321-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Section 32"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "32. Butterworth Hospital Seberang Jaya,\n\nPerai,\n\nPulau Pinang.\n\nHospital Bukit Mertajam,\n\nBukit Mertajam,\n\nPulau Pinang.\n\nHospital Sungai Bakap,\n\nSungai Jawi,\n\nPulau Pinang.\n\nHospital Kepala Batas,\n\nKepala Batas,\n\nPulau Pinang.\n\n(1) (2) (3)\n\nBil. Kawasan Keselamatan Sosial Tempat Jemaah Doktor"
+   }
+  },
+  {
+   "id": "MY-H6321-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Section 33"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "33. Pulau Pinang Hospital Pulau Pinang,\n\nPulau Pinang.\n\nHospital Balik Pulau,\n\nBalik Pulau,\n\nPulau Pinang."
+   }
+  },
+  {
+   "id": "MY-H6321-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "Section 34"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "34. Sandakan Hospital Duchess of Kent,\n\nSandakan,\n\nSabah.\n\nHospital Beluran,\n\nBeluran,\n\nSabah.\n\nHospital Kinabatangan,\n\nKinabatangan,\n\nSabah."
+   }
+  },
+  {
+   "id": "MY-H6321-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "Section 35"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "35. Tawau Hospital Tawau,\n\nTawau,\n\nSabah.\n\nHospital Kunak,\n\nKunak,\n\nSabah.\n\nHospital Semporna,\n\nSemporna,\n\nSabah."
+   }
+  },
+  {
+   "id": "MY-H6321-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "Section 36"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "36. Lahad Datu Hospital Datin Seri Endon,\n\nLahad Datu,\n\nSabah."
+   }
+  },
+  {
+   "id": "MY-H6321-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "Section 37"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "37. Keningau Hospital Keningau,\n\nKeningau,\n\nSabah.\n\nHospital Tambunan,\n\nTambunan,\n\nSabah.\n\nHospital Tenom,\n\nTenom,\n\nSabah.\n\n(1) (2) (3)\n\nBil. Kawasan Keselamatan Sosial Tempat Jemaah Doktor"
+   }
+  },
+  {
+   "id": "MY-H6321-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "Section 38"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "38. Kota Kinabalu Hospital Queen Elizabeth,\n\nKota Kinabalu,\n\nSabah.\n\nHospital Queen Elizabeth II,\n\nKota Kinabalu,\n\nSabah.\n\nHospital Kota Belud,\n\nKota Belud,\n\nSabah.\n\nHospital Kota Marudu,\n\nKota Marudu,\n\nSabah.\n\nHospital Kuala Penyu,\n\nKuala Penyu,\n\nSabah.\n\nHospital Mesra Bukit Padang,\n\nKota Kinabalu,\n\nSabah.\n\nHospital Papar,\n\nPapar,\n\nSabah.\n\nHospital Pitas,\n\nPitas,\n\nSabah.\n\nHospital Ranau,\n\nRanau,\n\nSabah.\n\nHospital Sipitang,\n\nSipitang,\n\nSabah.\n\nHospital Tuaran,\n\nTuaran,\n\nSabah."
+   }
+  },
+  {
+   "id": "MY-H6321-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "Section 39"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "39. Labuan Hospital Labuan,\n\nWilayah Persekutuan Labuan.\n\n(1) (2) (3)\n\nBil. Kawasan Keselamatan Sosial Tempat Jemaah Doktor"
+   }
+  },
+  {
+   "id": "MY-H6321-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "Section 40"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "40. Beaufort Hospital Beaufort,\n\nBeaufort,\n\nSabah."
+   }
+  },
+  {
+   "id": "MY-H6321-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "Section 41"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "41. Kudat Hospital Kudat,\n\nKudat,\n\nSabah."
+   }
+  },
+  {
+   "id": "MY-H6321-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "Section 42"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "42. Miri Hospital Miri,\n\nMiri,\n\nSarawak.\n\nHospital Marudi,\n\nMarudi,\n\nSarawak."
+   }
+  },
+  {
+   "id": "MY-H6321-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "Section 43"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "43. Bintulu Hospital Bintulu,\n\nBintulu,\n\nSarawak."
+   }
+  },
+  {
+   "id": "MY-H6321-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "Section 44"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "44. Sibu Hospital Sibu,\n\nSibu,\n\nSarawak.\n\nHospital Mukah,\n\nMukah,\n\nSarawak.\n\nHospital Daro,\n\nDaro,\n\nSarawak.\n\nHospital Kanawit,\n\nKanawit,\n\nSarawak.\n\nHospital Dalat,\n\nDalat,\n\nSarawak."
+   }
+  },
+  {
+   "id": "MY-H6321-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "Section 45"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "45. Sri Aman Hospital Sri Aman,\n\nSri Aman,\n\nSarawak.\n\nHospital Betong,\n\nBetong,\n\nSarawak.\n\n(1) (2) (3)\n\nBil. Kawasan Keselamatan Sosial Tempat Jemaah Doktor\n\nHospital Saratok,\n\nSantok,\n\nSarawak."
+   }
+  },
+  {
+   "id": "MY-H6321-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "Section 46"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "46. Limbang Hospital Limbang,\n\nLimbang,\n\nSarawak.\n\nHospital Lawas,\n\nLawas,\n\nSarawak."
+   }
+  },
+  {
+   "id": "MY-H6321-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "Section 47"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "47. Kapit Hospital Kapit,\n\nKapit,\n\nSarawak."
+   }
+  },
+  {
+   "id": "MY-H6321-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "Section 48"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "48. Kuching Hospital Umum Kuching,\n\nKuching,\n\nSarawak.\n\nHospital Rajah Charles Brooke Memorial,\n\nKuching,\n\nSarawak.\n\nHospital Sentosa,\n\nSentosa,\n\nSarawak.\n\nHospital Serian,\n\nSerian,\n\nSarawak.\n\nHospital Simunjan,\n\nSimunjan,\n\nSarawak.\n\nHospital Bau,\n\nBau,\n\nSarawak.\n\nHospital Lundu,\n\nLundu,\n\nSarawak."
+   }
+  },
+  {
+   "id": "MY-H6321-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "Section 49"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "49. Sarikei Hospital Sarikei,\n\nSarikei,\n\nSarawak.\n\nJadual V\n\n[Subperaturan 79A(2)]\n\n(1) (2) (3)\n\nBil. Kawasan Keselamatan Sosial Tempat Jemaah Doktor Khas\n\n1. Kuala Lumpur Hospital Kuala Lumpur,\n\nWilayah Persekutuan Kuala Lumpur.\n\nHospital Ampang,\n\nAmpang,\n\nSelangor.\n\nHospital Putrajaya,\n\nWilayah Persekutuan Putrajaya.\n\nHospital Rehabilitasi Cheras,\n\nCheras,\n\nWilayah Persekutuan Kuala Lumpur.\n\n2. Rawang Hospital Kuala Kubu Bharu,\n\nKuala Kubu Bharu,\n\nSelangor.\n\nHospital Selayang,\n\nSelayang,\n\nSelangor.\n\nHospital Tanjung Karang,\n\nTanjung Karang,\n\nSelangor.\n\nHospital Sungai Buloh,\n\nSungai Buloh,\n\nSelangor.\n\nHospital Tengku Ampuan Jemaah,\n\nSabak Bernam,\n\nSelangor.\n\n3. Petaling Jaya Pusat Perubatan UM,\n\nPetaling Jaya,\n\nSelangor.\n\nHospital Kajang,\n\nKajang,\n\nSelangor.\n\n(1) (2) (3)\n\nBil. Kawasan Keselamatan Sosial Tempat Jemaah Doktor Khas\n\nHospital Serdang,\n\nSerdang,\n\nSelangor.\n\n4. Klang Hospital Tengku Ampuan Rahimah,\n\nKlang,\n\nSelangor.\n\nHospital Banting,\n\nBanting,\n\nSelangor.\n\n5. Johor Bahru Hospital Sultanah Aminah,\n\nJohor Bahru,\n\nJohor.\n\nHospital Sultan Ismail,\n\nJohor Bahru,\n\nJohor.\n\nHospital Kota Tinggi,\n\nKota Tinggi,\n\nJohor.\n\nHospital Pontian,\n\nPontian,\n\nJohor.\n\nHospital Permai,\n\nJohor Bahru,\n\nJohor.\n\nHospital Temenggung Seri Maharaja,\n\nKulai,\n\nJohor.\n\n6. Kluang Hospital Kluang,\n\nKluang,\n\nJohor.\n\nHospital Mersing,\n\nMersing,\n\nJohor.\n\n7. Muar Hospital Pakar Sultanah Fatimah,\n\nMuar,\n\nJohor.\n\n(1) (2) (3)\n\nBil. Kawasan Keselamatan Sosial Tempat Jemaah Doktor Khas\n\nHospital Tangkak,\n\nTangkak,\n\nJohor.\n\n8. Batu Pahat Hospital Sultanah Nora Ismail,\n\nBatu Pahat,\n\nJohor.\n\n9. Segamat Hospital Segamat,\n\nSegamat,\n\nJohor.\n\n10. Kuala Pilah Hospital Tuanku Ampuan Najihah,\n\nKuala Pilah,\n\nNegeri Sembilan.\n\n11. Seremban Hospital Tuanku Ja'afar,\n\nSeremban,\n\nNegeri Sembilan.\n\nHospital Port Dickson,\n\nPort Dickson,\n\nNegeri Sembilan.\n\nHospital Jelebu,\n\nJelebu,\n\nNegeri Sembilan.\n\nHospital Jempol,\n\nBandar Seri Jempol,\n\nNegeri Sembilan.\n\nHospital Tampin,\n\nTampin,\n\nNegeri Sembilan.\n\n12. Melaka Hospital Melaka,\n\nMelaka.\n\nHospital Alor Gajah,\n\nAlor Gajah,\n\nMelaka.\n\nHospital Jasin,\n\nJasin,\n\nMelaka.\n\n(1) (2) (3)\n\nBil. Kawasan Keselamatan Sosial Tempat Jemaah Doktor Khas\n\n13. Alor Setar Hospital Sultanah Bahiyah,\n\nAlor Setar,\n\nKedah.\n\nHospital Jitra,\n\nJitra,\n\nKedah.\n\nHospital Kuala Nerang,\n\nKuala Nerang,\n\nKedah.\n\n14. Sungai Petani Hospital Sultan Abdul Halim,\n\nSungai Petani,\n\nKedah.\n\nHospital Baling,\n\nBaling,\n\nKedah.\n\nHospital Sik,\n\nSik,\n\nKedah.\n\nHospital Yan,\n\nYan,\n\nKedah.\n\n15. Kulim Hospital Kulim,\n\nKulim,\n\nKedah.\n\n16. Pulau Langkawi Hospital Langkawi,\n\nLangkawi,\n\nKedah.\n\n17. Kangar Hospital Tuanku Fauziah,\n\nKangar,\n\nPerlis.\n\n18. Taiping Hospital Taiping,\n\nTaiping,\n\nPerak.\n\nHospital Parit Buntar,\n\nParit Buntar,\n\nPerak.\n\n(1) (2) (3)\n\nBil. Kawasan Keselamatan Sosial Tempat Jemaah Doktor Khas\n\nHospital Selama,\n\nSelama,\n\nPerak.\n\n19. Teluk Intan Hospital Teluk Intan,\n\nTeluk Intan,\n\nPerak.\n\n20. Tapah Hospital Tapah,\n\nTapah,\n\nPerak.\n\nHospital Slim River,\n\nSlim River,\n\nPerak.\n\nHospital Sultanah Hajjah Kalsom,\n\nCameron Highlands,\n\nPahang.\n\n21. Kuala Kangsar Hospital Kuala Kangsar,\n\nKuala Kangsar,\n\nPerak.\n\nHospital Seri Manjung,\n\nSeri Manjung,\n\nPerak.\n\nHospital Gerik,\n\nGrik,\n\nPerak.\n\nHospital Sungai Siput,\n\nSungai Siput,\n\nPerak.\n\n22. Ipoh Hospital Raja Permaisuri Bainun,\n\nIpoh,\n\nPerak.\n\nHospital Batu Gajah,\n\nBatu Gajah,\n\nPerak.\n\nHospital Changkat Melintang,\n\nBota,\n\nPerak.\n\n(1) (2) (3)\n\nBil. Kawasan Keselamatan Sosial Tempat Jemaah Doktor Khas\n\nHospital Kampar,\n\nKampar,\n\nPerak.\n\n23. Kuala Krai Hospital Kuala Krai,\n\nKuala Krai,\n\nKelantan.\n\nHospital Gua Musang,\n\nGua Musang,\n\nKelantan.\n\n24. Kota Bharu Hospital Raja Perempuan Zainab II,\n\nKota Bharu,\n\nKelantan.\n\nHospital Tengku Anis,\n\nPasir Puteh,\n\nKelantan.\n\nHospital Tumpat,\n\nTumpat,\n\nKelantan.\n\nHospital Pasir Mas,\n\nPasir Mas,\n\nKelantan.\n\nHospital Jeli,\n\nJeli,\n\nKelantan.\n\nHospital Machang,\n\nMachang,\n\nKelantan.\n\nHospital Tanah Merah,\n\nTanah Merah,\n\nKelantan.\n\n25. Dungun Hospital Dungun,\n\nDungun,\n\nTerengganu.\n\n26. Kuala Terengganu Hospital Sultanah Nur Zahirah,\n\nKuala Terengganu,\n\nTerengganu.\n\n(1) (2) (3)\n\nBil. Kawasan Keselamatan Sosial Tempat Jemaah Doktor Khas\n\nHospital Setiu,\n\nSetiu,\n\nTerengganu.\n\nHospital Hulu Terengganu,\n\nKuala Berang,\n\nTerengganu.\n\nHospital Besut,\n\nBesut,\n\nTerengganu.\n\n27. Kemaman Hospital Kemaman,\n\nKemaman,\n\nTerengganu.\n\n28. Temerloh Hospital Sultan Hj. Ahmad Shah,\n\nTemerloh,\n\nPahang.\n\nHospital Jengka,\n\nMaran,\n\nPahang.\n\nHospital Jerantut,\n\nJerantut,\n\nPahang\n\n29. Bentong Hospital Bentong,\n\nBentong,\n\nPahang.\n\n30. Raub Hospital Kuala Lipis,\n\nKuala Lipis,\n\nPahang.\n\nHospital Raub,\n\nRaub,\n\nPahang.\n\n31. Kuantan Hospital Tengku Ampuan Afzan,\n\nKuantan,\n\nPahang.\n\nHospital Muadzam Shah,\n\nRompin,\n\nPahang.\n\n(1) (2) (3)\n\nBil. Kawasan Keselamatan Sosial Tempat Jemaah Doktor Khas\n\nHospital Pekan,\n\nPekan,\n\nPahang.\n\n32. Butterworth Hospital Seberang Jaya,\n\nPerai,\n\nPulau Pinang.\n\nHospital Bukit Mertajam,\n\nBukit Mertajam,\n\nPulau Pinang.\n\nHospital Sungai Bakap,\n\nSungai Jawi,\n\nPulau Pinang.\n\nHospital Kepala Batas,\n\nKepala Batas,\n\nPulau Pinang.\n\n33. Pulau Pinang Hospital Pulau Pinang,\n\nPulau Pinang.\n\nHospital Balik Pulau,\n\nBalik Pulau,\n\nPulau Pinang.\n\n34. Sandakan Hospital Duchess of Kent,\n\nSandakan,\n\nSabah.\n\nHospital Beluran,\n\nBeluran,\n\nSabah.\n\nHospital Kinabatangan,\n\nKinabatangan,\n\nSabah.\n\n35. Tawau Hospital Tawau,\n\nTawau,\n\nSabah.\n\nHospital Kunak,\n\nKunak,\n\nSabah.\n\n(1) (2) (3)\n\nBil. Kawasan Keselamatan Sosial Tempat Jemaah Doktor Khas\n\nHospital Semporna,\n\nSemporna,\n\nSabah.\n\n36. Lahad Datu Hospital Datin Seri Endon,\n\nLahad Datu,\n\nSabah.\n\n37. Keningau Hospital Keningau,\n\nKeningau,\n\nSabah.\n\nHospital Tambunan,\n\nTambunan,\n\nSabah.\n\nHospital Tenom,\n\nTenom,\n\nSabah.\n\n38. Kota Kinabalu Hospital Queen Elizabeth,\n\nKota Kinabalu,\n\nSabah.\n\nHospital Queen Elizabeth II,\n\nKota Kinabalu,\n\nSabah.\n\nHospital Kota Belud,\n\nKota Belud,\n\nSabah.\n\nHospital Kota Marudu,\n\nKota Marudu,\n\nSabah.\n\nHospital Kuala Penyu,\n\nKuala Penyu,\n\nSabah.\n\nHospital Mesra Bukit Padang,\n\nKota Kinabalu,\n\nSabah.\n\nHospital Papar,\n\nPapar,\n\nSabah.\n\n(1) (2) (3)\n\nBil. Kawasan Keselamatan Sosial Tempat Jemaah Doktor Khas\n\nHospital Pitas,\n\nPitas,\n\nSabah.\n\nHospital Ranau,\n\nRanau,\n\nSabah.\n\nHospital Sipitang,\n\nSipitang,\n\nSabah.\n\nHospital Tuaran,\n\nTuaran,\n\nSabah.\n\n39. Labuan Hospital Labuan,\n\nWilayah Persekutuan Labuan.\n\n40. Beaufort Hospital Beaufort,\n\nBeaufort,\n\nSabah.\n\n41. Kudat Hospital Kudat,\n\nKudat,\n\nSabah.\n\n42. Miri Hospital Miri,\n\nMiri,\n\nSarawak.\n\nHospital Marudi,\n\nMarudi,\n\nSarawak.\n\n43. Bintulu Hospital Bintulu,\n\nBintulu,\n\nSarawak.\n\n44. Sibu Hospital Sibu,\n\nSibu,\n\nSarawak.\n\nHospital Mukah,\n\nMukah,\n\nSarawak.\n\n(1) (2) (3)\n\nBil. Kawasan Keselamatan Sosial Tempat Jemaah Doktor Khas\n\nHospital Daro,\n\nDaro,\n\nSarawak.\n\nHospital Kanawit,\n\nKanawit,\n\nSarawak.\n\nHospital Dalat,\n\nDalat,\n\nSarawak.\n\n45. Sri Aman Hospital Sri Aman,\n\nSri Aman,\n\nSarawak.\n\nHospital Betong,\n\nBetong,\n\nSarawak.\n\nHospital Saratok,\n\nSantok,\n\nSarawak.\n\n46. Limbang Hospital Limbang,\n\nLimbang,\n\nSarawak.\n\nHospital Lawas,\n\nLawas,\n\nSarawak.\n\n47. Kapit Hospital Kapit,\n\nKapit,\n\nSarawak.\n\n48. Kuching Hospital Umum Kuching,\n\nKuching,\n\nSarawak.\n\nHospital Rajah Charles Brooke Memorial,\n\nKuching,\n\nSarawak.\n\nHospital Sentosa,\n\nSentosa,\n\nSarawak.\n\n(1) (2) (3)\n\nBil. Kawasan Keselamatan Sosial Tempat Jemaah Doktor Khas\n\nHospital Serian,\n\nSerian,\n\nSarawak.\n\nHospital Simunjan,\n\nSimunjan,\n\nSarawak.\n\nHospital Bau,\n\nBau,\n\nSarawak.\n\nHospital Lundu,\n\nLundu,\n\nSarawak.\n\n49. Sarikei Hospital Sarikei,\n\nSarikei,\n\nSarawak.\n\nJadual VI\n\n[Subperaturan 79B(2)]\n\n(1) (2) (3)\n\nBil. Kawasan Keselamatan Sosial Tempat Jemaah Doktor Rayuan bagi\n\nSemenanjung Malaysia\n\n1. Kuala Lumpur Hospital Kuala Lumpur,\n\nWilayah Persekutuan Kuala Lumpur.\n\nHospital Ampang,\n\nAmpang,\n\nSelangor.\n\nHospital Putrajaya,\n\nWilayah Persekutuan Putrajaya.\n\nHospital Rehabilitasi Cheras,\n\nCheras,\n\nWilayah Persekutuan Kuala Lumpur.\n\n2. Rawang Hospital Kuala Kubu Bharu,\n\nKuala Kubu Bharu,\n\nSelangor.\n\n(1) (2) (3)\n\nBil. Kawasan Keselamatan Sosial Tempat Jemaah Doktor Rayuan bagi\n\nSemenanjung Malaysia\n\nHospital Selayang,\n\nSelayang,\n\nSelangor.\n\nHospital Tanjung Karang,\n\nTanjung Karang,\n\nSelangor.\n\nHospital Sungai Buloh,\n\nSungai Buloh,\n\nSelangor.\n\nHospital Tengku Ampuan Jemaah,\n\nSabak Bernam,\n\nSelangor.\n\n3. Petaling Jaya Pusat Perubatan UM,\n\nPetaling Jaya,\n\nSelangor.\n\nHospital Kajang,\n\nKajang,\n\nSelangor.\n\nHospital Serdang,\n\nSerdang,\n\nSelangor.\n\n4. Klang Hospital Tengku Ampuan Rahimah,\n\nKlang,\n\nSelangor.\n\nHospital Banting,\n\nBanting,\n\nSelangor.\n\n5. Johor Bahru Hospital Sultanah Aminah,\n\nJohor Bahru,\n\nJohor.\n\nHospital Sultan Ismail,\n\nJohor Bahru,\n\nJohor.\n\n(1) (2) (3)\n\nBil. Kawasan Keselamatan Sosial Tempat Jemaah Doktor Rayuan bagi\n\nSemenanjung Malaysia\n\nHospital Kota Tinggi,\n\nKota Tinggi,\n\nJohor.\n\nHospital Pontian,\n\nPontian,\n\nJohor.\n\nHospital Permai,\n\nJohor Bahru,\n\nJohor.\n\nHospital Temenggung Seri Maharaja,\n\nKulai,\n\nJohor.\n\n6. Kluang Hospital Kluang,\n\nKluang,\n\nJohor.\n\nHospital Mersing,\n\nMersing,\n\nJohor.\n\n7. Muar Hospital Pakar Sultanah Fatimah,\n\nMuar,\n\nJohor.\n\nHospital Tangkak,\n\nTangkak,\n\nJohor.\n\n8. Batu Pahat Hospital Sultanah Nora Ismail,\n\nBatu Pahat,\n\nJohor.\n\n9. Segamat Hospital Segamat,\n\nSegamat,\n\nJohor.\n\n10. Kuala Pilah Hospital Tuanku Ampuan Najihah,\n\nKuala Pilah,\n\nNegeri Sembilan.\n\n(1) (2) (3)\n\nBil. Kawasan Keselamatan Sosial Tempat Jemaah Doktor Rayuan bagi\n\nSemenanjung Malaysia\n\n11. Seremban Hospital Tuanku Ja'afar,\n\nSeremban,\n\nNegeri Sembilan.\n\nHospital Port Dickson,\n\nPort Dickson,\n\nNegeri Sembilan.\n\nHospital Jelebu,\n\nJelebu,\n\nNegeri Sembilan.\n\nHospital Jempol,\n\nBandar Seri Jempol,\n\nNegeri Sembilan.\n\nHospital Tampin,\n\nTampin,\n\nNegeri Sembilan.\n\n12. Melaka Hospital Melaka,\n\nMelaka.\n\nHospital Alor Gajah,\n\nAlor Gajah,\n\nMelaka.\n\nHospital Jasin,\n\nJasin,\n\nMelaka.\n\n13. Alor Setar Hospital Sultanah Bahiyah,\n\nAlor Setar,\n\nKedah.\n\nHospital Jitra,\n\nJitra,\n\nKedah.\n\nHospital Kuala Nerang,\n\nKuala Nerang,\n\nKedah.\n\n14. Sungai Petani Hospital Sultan Abdul Halim,\n\nSungai Petani,\n\nKedah.\n\n(1) (2) (3)\n\nBil. Kawasan Keselamatan Sosial Tempat Jemaah Doktor Rayuan bagi\n\nSemenanjung Malaysia\n\nHospital Baling,\n\nBaling,\n\nKedah.\n\nHospital Sik,\n\nSik,\n\nKedah.\n\nHospital Yan,\n\nYan,\n\nKedah.\n\n15. Kulim Hospital Kulim,\n\nKulim,\n\nKedah.\n\n16. Pulau Langkawi Hospital Langkawi,\n\nLangkawi,\n\nKedah.\n\n17. Kangar Hospital Tuanku Fauziah,\n\nKangar,\n\nPerlis.\n\n18. Taiping Hospital Taiping,\n\nTaiping,\n\nPerak.\n\nHospital Parit Buntar,\n\nParit Buntar,\n\nPerak.\n\nHospital Selama,\n\nSelama,\n\nPerak.\n\n19. Teluk Intan Hospital Teluk Intan,\n\nTeluk Intan,\n\nPerak.\n\n20. Tapah Hospital Tapah,\n\nTapah,\n\nPerak.\n\n(1) (2) (3)\n\nBil. Kawasan Keselamatan Sosial Tempat Jemaah Doktor Rayuan bagi\n\nSemenanjung Malaysia\n\nHospital Slim River,\n\nSlim River,\n\nPerak.\n\nHospital Sultanah Hajjah Kalsom,\n\nCameron Highlands,\n\nPahang.\n\n21. Kuala Kangsar Hospital Kuala Kangsar,\n\nKuala Kangsar,\n\nPerak.\n\nHospital Seri Manjung,\n\nSeri Manjung,\n\nPerak.\n\nHospital Gerik,\n\nGrik,\n\nPerak.\n\nHospital Sungai Siput,\n\nSungai Siput,\n\nPerak.\n\n22. Ipoh Hospital Raja Permaisuri Bainun,\n\nIpoh,\n\nPerak.\n\nHospital Batu Gajah,\n\nBatu Gajah,\n\nPerak.\n\nHospital Changkat Melintang,\n\nBota,\n\nPerak.\n\nHospital Kampar,\n\nKampar,\n\nPerak.\n\n23. Kuala Krai Hospital Kuala Krai,\n\nKuala Krai,\n\nKelantan.\n\n(1) (2) (3)\n\nBil. Kawasan Keselamatan Sosial Tempat Jemaah Doktor Rayuan bagi\n\nSemenanjung Malaysia\n\nHospital Gua Musang,\n\nGua Musang,\n\nKelantan.\n\n24. Kota Bharu Hospital Raja Perempuan Zainab II,\n\nKota Bharu,\n\nKelantan.\n\nHospital Tengku Anis,\n\nPasir Puteh,\n\nKelantan.\n\nHospital Tumpat,\n\nTumpat,\n\nKelantan.\n\nHospital Pasir Mas,\n\nPasir Mas,\n\nKelantan.\n\nHospital Jeli,\n\nJeli,\n\nKelantan.\n\nHospital Machang,\n\nMachang,\n\nKelantan.\n\nHospital Tanah Merah,\n\nTanah Merah,\n\nKelantan.\n\n25. Dungun Hospital Dungun,\n\nDungun,\n\nTerengganu.\n\n26. Kuala Terengganu Hospital Sultanah Nur Zahirah,\n\nKuala Terengganu,\n\nTerengganu.\n\nHospital Setiu,\n\nSetiu,\n\nTerengganu.\n\n(1) (2) (3)\n\nBil. Kawasan Keselamatan Sosial Tempat Jemaah Doktor Rayuan bagi\n\nSemenanjung Malaysia\n\nHospital Hulu Terengganu,\n\nKuala Berang,\n\nTerengganu.\n\nHospital Besut,\n\nBesut,\n\nTerengganu.\n\n27. Kemaman Hospital Kemaman,\n\nKemaman,\n\nTerengganu.\n\n28. Temerloh Hospital Sultan Hj. Ahmad Shah,\n\nTemerloh,\n\nPahang.\n\nHospital Jengka,\n\nMaran,\n\nPahang.\n\nHospital Jerantut,\n\nJerantut,\n\nPahang.\n\n29. Bentong Hospital Bentong,\n\nBentong,\n\nPahang.\n\n30. Raub Hospital Kuala Lipis,\n\nKuala Lipis,\n\nPahang.\n\nHospital Raub,\n\nRaub,\n\nPahang.\n\n31. Kuantan Hospital Tengku Ampuan Afzan,\n\nKuantan,\n\nPahang.\n\nHospital Muadzam Shah,\n\nRompin,\n\nPahang.\n\n(1) (2) (3)\n\nBil. Kawasan Keselamatan Sosial Tempat Jemaah Doktor Rayuan bagi\n\nSemenanjung Malaysia\n\nHospital Pekan,\n\nPekan,\n\nPahang.\n\n32. Butterworth Hospital Seberang Jaya,\n\nPerai,\n\nPulau Pinang.\n\nHospital Bukit Mertajam,\n\nBukit Mertajam,\n\nPulau Pinang.\n\nHospital Sungai Bakap,\n\nSungai Jawi,\n\nPulau Pinang.\n\nHospital Kepala Batas,\n\nKepala Batas,\n\nPulau Pinang.\n\n33. Pulau Pinang Hospital Pulau Pinang,\n\nPulau Pinang.\n\nHospital Balik Pulau,\n\nBalik Pulau,\n\nPulau Pinang.\n\nJadual VII\n\n[Subperaturan 79C(2)]\n\n(1) (2) (3)\n\nBil. Kawasan Keselamatan Sosial Tempat Jemaah Doktor Rayuan bagi Sabah\n\ndan Sarawak\n\n1. Sandakan Hospital Duchess of Kent,\n\nSandakan,\n\nSabah.\n\nHospital Beluran,\n\nBeluran,\n\nSabah.\n\nHospital Kinabatangan,\n\nKinabatangan,\n\nSabah.\n\n(1) (2) (3)\n\nBil. Kawasan Keselamatan Sosial Tempat Jemaah Doktor Rayuan bagi Sabah\n\ndan Sarawak\n\n2. Tawau Hospital Tawau,\n\nTawau,\n\nSabah.\n\nHospital Kunak,\n\nKunak,\n\nSabah.\n\nHospital Semporna,\n\nSemporna,\n\nSabah.\n\n3. Lahad Datu Hospital Datin Seri Endon,\n\nLahad Datu,\n\nSabah.\n\n4. Keningau Hospital Keningau,\n\nKeningau,\n\nSabah.\n\nHospital Tambunan,\n\nTambunan,\n\nSabah.\n\nHospital Tenom,\n\nTenom,\n\nSabah.\n\n5. Kota Kinabalu Hospital Queen Elizabeth,\n\nKota Kinabalu,\n\nSabah.\n\nHospital Queen Elizabeth II,\n\nKota Kinabalu,\n\nSabah.\n\nHospital Kota Belud,\n\nKota Belud,\n\nSabah.\n\nHospital Kota Marudu,\n\nKota Marudu,\n\nSabah.\n\n(1) (2) (3)\n\nBil. Kawasan Keselamatan Sosial Tempat Jemaah Doktor Rayuan bagi Sabah\n\ndan Sarawak\n\nHospital Kuala Penyu,\n\nKuala Penyu,\n\nSabah.\n\nHospital Mesra Bukit Padang,\n\nKota Kinabalu,\n\nSabah.\n\nHospital Papar,\n\nPapar,\n\nSabah.\n\nHospital Pitas,\n\nPitas,\n\nSabah.\n\nHospital Ranau,\n\nRanau,\n\nSabah.\n\nHospital Sipitang,\n\nSipitang,\n\nSabah.\n\nHospital Tuaran,\n\nTuaran,\n\nSabah.\n\n6. Labuan Hospital Labuan,\n\nWilayah Persekutuan Labuan.\n\n7. Beaufort Hospital Beaufort,\n\nBeaufort,\n\nSabah.\n\n8. Kudat Hospital Kudat,\n\nKudat,\n\nSabah.\n\n9. Miri Hospital Miri,\n\nMiri,\n\nSarawak.\n\nHospital Marudi,\n\nMarudi,\n\nSarawak.\n\n(1) (2) (3)\n\nBil. Kawasan Keselamatan Sosial Tempat Jemaah Doktor Rayuan bagi Sabah\n\ndan Sarawak\n\n10. Bintulu Hospital Bintulu,\n\nBintulu,\n\nSarawak.\n\n11. Sibu Hospital Sibu,\n\nSibu,\n\nSarawak.\n\nHospital Mukah,\n\nMukah,\n\nSarawak.\n\nHospital Daro,\n\nDaro,\n\nSarawak.\n\nHospital Kanawit,\n\nKanawit,\n\nSarawak.\n\nHospital Dalat,\n\nDalat,\n\nSarawak.\n\n12. Sri Aman Hospital Sri Aman,\n\nSri Aman,\n\nSarawak.\n\nHospital Betong,\n\nBetong,\n\nSarawak.\n\nHospital Saratok,\n\nSantok,\n\nSarawak.\n\n13. Limbang Hospital Limbang,\n\nLimbang,\n\nSarawak.\n\nHospital Lawas,\n\nLawas,\n\nSarawak.\n\n(1) (2) (3)\n\nBil. Kawasan Keselamatan Sosial Tempat Jemaah Doktor Rayuan bagi Sabah\n\ndan Sarawak\n\n14. Kapit Hospital Kapit,\n\nKapit,\n\nSarawak.\n\n15. Kuching Hospital Umum Kuching,\n\nKuching,\n\nSarawak.\n\nHospital Rajah Charles Brooke Memorial,\n\nKuching,\n\nSarawak.\n\nHospital Sentosa,\n\nSentosa,\n\nSarawak.\n\nHospital Serian,\n\nSerian,\n\nSarawak.\n\nHospital Simunjan,\n\nSimunjan,\n\nSarawak.\n\nHospital Bau,\n\nBau,\n\nSarawak.\n\nHospital Lundu,\n\nLundu,\n\nSarawak.\n\n16. Sarikei Hospital Sarikei,\n\nSarikei,\n\nSarawak.\n\nPembatalan\n\n5. Penubuhan Jemaah Doktor [P.U. (B) 143/2006] dan [P.U. (B) 40/2008],\n\nPenubuhan Jemaah Khas Doktor [P.U. (B) 537/1987], Perlantikan dan Pembatalan\n\nPerlantikan Jemaah Doktor Rayuan [P.U. (B) 538/1987], Perlantikan dan Pembatalan\n\nPerlantikan Jemaah Doktor Rayuan [P.U. (B) 539/1987] dan Perlantikan dan Pembatalan\n\nPerlantikan Jemaah Doktor Rayuan [P.U. (B) 540/1987] dibatalkan.\n\nDibuat 1 Mac 2016\n\n[KSM/PUU/(S)/600-1/6/1/20; PN(PU2)58/XX]\n\nDATO' SRI RICHARD RIOT ANAK JAEM\n\nMenteri Sumber Manusia\n\nEMPLOYEES' SOCIAL SECURITY ACT 1969\n\nEMPLOYEES' SOCIAL SECURITY (GENERAL) (AMENDMENT) REGULATONS 2016\n\nIN exercise of the powers conferred by section 105 of\n\nthe Employees' Social Security Act 1969 [Act 4], the Minister makes the following\n\nregulations:\n\nCitation and commencement\n\n1. (1) These regulations may be cited as the Employees' Social Security\n\n(General) (Amendment) Regulations 2016.\n\n(2) These Regulations come into operation on 8 March 2016.\n\nSubstitution of regulation 79\n\n2. The Employees' Social Security (General) Regulations 1971 [P.U. (A) 99/1971],\n\nwhich are referred to as the \"principal Regulations\" in these Regulations, are amended\n\nby substituting for regulation 79 the following regulation:\n\n\"Constitution\n\nof Medical\n\nBoard."
+   }
+  },
+  {
+   "id": "MY-H6321-A79",
+   "no": 79,
+   "noLabel": {
+    "en": "Section 79"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "79. (1) For the purposes of the Act, a Medical Board\n\nshall consist of the following members:\n\n(a) the Hospital Director or his\n\nrepresentative, as Chairman; and\n\n(b) two members from amongst the\n\nMedical Specialists or Medical Officers.\n\n(2) The Medical Board shall be constituted at the\n\nsocial security area and location as specified in Schedule IV.\".\n\nNew regulations 79A, 79B and 79C\n\n3. The principal Regulations are amended by inserting after regulation 79 the\n\nfollowing regulations:\n\n\"Constitution of\n\nSpecial Medical\n\nBoard.\n\n79A. (1) For the purposes of the Act, a Special\n\nMedical Board shall consist of the following members:\n\n(a) the Hospital Director or his\n\nrepresentative, as Chairman; and\n\n(b) two Medical Specialists in the relevant\n\nmedical field.\n\n(2) The Special Medical Board shall be constituted\n\nat the social security area and location as specified in\n\nSchedule V.\n\nConstitution of\n\nAppellate\n\nMedical Board\n\nfor Peninsular\n\nMalaysia.\n\n79B. (1) For the purposes of the Act, an Appellate\n\nMedical Board for Peninsular Malaysia shall consist of the\n\nfollowing members:\n\n(a) the Director General of Health or his\n\nrepresentative, as Chairman; and\n\n(b) two Consultant Specialists in the relevant\n\nmedical field.\n\n(2) The Appellate Medical Board for Peninsular\n\nMalaysia shall be constituted at the social security area and\n\nlocation as specified in Schedule VI.\n\nConstitution of\n\nAppellate\n\nMedical Board\n\nfor Sabah and\n\nSarawak.\n\n79C. (1) For the purposes of the Act, an Appellate Medical\n\nBoard for Sabah and Sarawak shall consist of the following\n\nmembers:\n\n(a) the State Director of Health or his\n\nrepresentative, as Chairman; and\n\n(b) two Consultant Specialists in the\n\nrelevant medical field.\n\n(2) The Appellate Medical Board for Sabah and\n\nSarawak shall be constituted at the social security area and\n\nlocation as specified in Schedule VII.\".\n\nNew Schedules IV, V, VI and VII\n\n4. The principal Regulations are amended by inserting after Schedule III the\n\nfollowing Schedules:\n\n\"Schedule IV\n\n[Subregulation 79(2)]\n\n(1) (2) (3)\n\nNo. Social Security Area Location of Medical Board\n\n1. Kuala Lumpur Hospital Kuala Lumpur,\n\nWilayah Persekutuan Kuala Lumpur.\n\nHospital Ampang,\n\nAmpang,\n\nSelangor.\n\nHospital Putrajaya,\n\nWilayah Persekutuan Putrajaya.\n\nHospital Rehabilitasi Cheras,\n\nCheras,\n\nWilayah Persekutuan Kuala Lumpur.\n\n2. Rawang Hospital Kuala Kubu Bharu,\n\nKuala Kubu Bharu,\n\nSelangor.\n\n(1) (2) (3)\n\nNo. Social Security Area Location of Medical Board\n\nHospital Selayang,\n\nSelayang,\n\nSelangor.\n\nHospital Tanjung Karang,\n\nTanjung Karang,\n\nSelangor.\n\nHospital Sungai Buloh,\n\nSungai Buloh,\n\nSelangor.\n\nHospital Tengku Ampuan Jemaah,\n\nSabak Bernam,\n\nSelangor.\n\n3. Petaling Jaya Pusat Perubatan UM,\n\nPetaling Jaya,\n\nSelangor.\n\nHospital Kajang,\n\nKajang,\n\nSelangor.\n\nHospital Serdang,\n\nSerdang,\n\nSelangor.\n\n4. Klang Hospital Tengku Ampuan Rahimah,\n\nKlang,\n\nSelangor.\n\nHospital Banting,\n\nBanting,\n\nSelangor.\n\n5. Johor Bahru Hospital Sultanah Aminah,\n\nJohor Bahru,\n\nJohor.\n\nHospital Sultan Ismail,\n\nJohor Bahru,\n\nJohor.\n\nHospital Kota Tinggi,\n\nKota Tinggi,\n\nJohor.\n\n(1) (2) (3)\n\nNo. Social Security Area Location of Medical Board\n\nHospital Pontian,\n\nPontian,\n\nJohor.\n\nHospital Permai,\n\nJohor Bahru,\n\nJohor.\n\nHospital Temenggung Seri Maharaja,\n\nKulai,\n\nJohor.\n\n6. Kluang Hospital Kluang,\n\nKluang,\n\nJohor.\n\nHospital Mersing,\n\nMersing,\n\nJohor.\n\n7. Muar Hospital Pakar Sultanah Fatimah,\n\nMuar,\n\nJohor.\n\nHospital Tangkak,\n\nTangkak,\n\nJohor.\n\n8. Batu Pahat Hospital Sultanah Nora Ismail,\n\nBatu Pahat,\n\nJohor.\n\n9. Segamat Hospital Segamat,\n\nSegamat,\n\nJohor.\n\n10. Kuala Pilah Hospital Tuanku Ampuan Najihah,\n\nKuala Pilah,\n\nNegeri Sembilan.\n\n11. Seremban Hospital Tuanku Ja'afar,\n\nSeremban,\n\nNegeri Sembilan.\n\nHospital Port Dickson,\n\nPort Dickson,\n\nNegeri Sembilan.\n\n(1) (2) (3)\n\nNo. Social Security Area Location of Medical Board\n\nHospital Jelebu,\n\nJelebu,\n\nNegeri Sembilan.\n\nHospital Jempol,\n\nBandar Seri Jempol,\n\nNegeri Sembilan.\n\nHospital Tampin,\n\nTampin,\n\nNegeri Sembilan.\n\n12. Melaka Hospital Melaka,\n\nMelaka.\n\nHospital Alor Gajah,\n\nAlor Gajah,\n\nMelaka.\n\nHospital Jasin,\n\nJasin,\n\nMelaka.\n\n13. Alor Setar Hospital Sultanah Bahiyah,\n\nAlor Setar,\n\nKedah.\n\nHospital Jitra,\n\nJitra,\n\nKedah.\n\nHospital Kuala Nerang,\n\nKuala Nerang,\n\nKedah.\n\n14. Sungai Petani Hospital Sultan Abdul Halim,\n\nSungai Petani,\n\nKedah.\n\nHospital Baling,\n\nBaling,\n\nKedah.\n\nHospital Sik,\n\nSik,\n\nKedah.\n\n(1) (2) (3)\n\nNo. Social Security Area Location of Medical Board\n\nHospital Yan,\n\nYan,\n\nKedah.\n\n15. Kulim Hospital Kulim,\n\nKulim,\n\nKedah.\n\n16. Pulau Langkawi Hospital Langkawi,\n\nLangkawi,\n\nKedah.\n\n17. Kangar Hospital Tuanku Fauziah,\n\nKangar,\n\nPerlis.\n\n18. Taiping Hospital Taiping,\n\nTaiping,\n\nPerak.\n\nHospital Parit Buntar,\n\nParit Buntar,\n\nPerak.\n\nHospital Selama,\n\nSelama,\n\nPerak.\n\n19. Teluk Intan Hospital Teluk Intan,\n\nTeluk Intan,\n\nPerak.\n\n20. Tapah Hospital Tapah,\n\nTapah,\n\nPerak.\n\nHospital Slim River,\n\nSlim River,\n\nPerak.\n\nHospital Sultanah Hajjah Kalsom,\n\nCameron Highlands,\n\nPahang.\n\n21. Kuala Kangsar Hospital Kuala Kangsar,\n\nKuala Kangsar,\n\nPerak.\n\n(1) (2) (3)\n\nNo. Social Security Area Location of Medical Board\n\nHospital Seri Manjung,\n\nSeri Manjung,\n\nPerak.\n\nHospital Gerik,\n\nGrik,\n\nPerak.\n\nHospital Sungai Siput,\n\nSungai Siput,\n\nPerak.\n\n22. Ipoh Hospital Raja Permaisuri Bainun,\n\nIpoh,\n\nPerak.\n\nHospital Batu Gajah,\n\nBatu Gajah,\n\nPerak.\n\nHospital Changkat Melintang,\n\nBota,\n\nPerak.\n\nHospital Kampar,\n\nKampar,\n\nPerak.\n\n23. Kuala Krai Hospital Kuala Krai,\n\nKuala Krai,\n\nKelantan.\n\nHospital Gua Musang,\n\nGua Musang,\n\nKelantan.\n\n24. Kota Bharu Hospital Raja Perempuan Zainab II,\n\nKota Bharu,\n\nKelantan.\n\nHospital Tengku Anis,\n\nPasir Puteh,\n\nKelantan.\n\nHospital Tumpat,\n\nTumpat,\n\nKelantan.\n\n(1) (2) (3)\n\nNo. Social Security Area Location of Medical Board\n\nHospital Pasir Mas,\n\nPasir Mas,\n\nKelantan.\n\nHospital Jeli,\n\nJeli,\n\nKelantan.\n\nHospital Machang,\n\nMachang,\n\nKelantan.\n\nHospital Tanah Merah,\n\nTanah Merah,\n\nKelantan.\n\n25. Dungun Hospital Dungun,\n\nDungun,\n\nTerengganu.\n\n26. Kuala Terengganu Hospital Sultanah Nur Zahirah,\n\nKuala Terengganu,\n\nTerengganu.\n\nHospital Setiu,\n\nSetiu,\n\nTerengganu.\n\nHospital Hulu Terengganu,\n\nKuala Berang,\n\nTerengganu.\n\nHospital Besut,\n\nBesut,\n\nTerengganu.\n\n27. Kemaman Hospital Kemaman,\n\nKemaman,\n\nTerengganu.\n\n28. Temerloh Hospital Sultan Hj. Ahmad Shah,\n\nTemerloh,\n\nPahang.\n\nHospital Jengka,\n\nMaran,\n\nPahang.\n\n(1) (2) (3)\n\nNo. Social Security Area Location of Medical Board\n\nHospital Jerantut,\n\nJerantut,\n\nPahang.\n\n29. Bentong Hospital Bentong,\n\nBentong,\n\nPahang.\n\n30. Raub Hospital Kuala Lipis,\n\nKuala Lipis,\n\nPahang.\n\nHospital Raub,\n\nRaub,\n\nPahang.\n\n31. Kuantan Hospital Tengku Ampuan Afzan,\n\nKuantan,\n\nPahang.\n\nHospital Muadzam Shah,\n\nRompin,\n\nPahang.\n\nHospital Pekan,\n\nPekan,\n\nPahang.\n\n32. Butterworth Hospital Seberang Jaya,\n\nPerai,\n\nPulau Pinang.\n\nHospital Bukit Mertajam,\n\nBukit Mertajam,\n\nPulau Pinang.\n\nHospital Sungai Bakap,\n\nSungai Jawi,\n\nPulau Pinang.\n\nHospital Kepala Batas,\n\nKepala Batas,\n\nPulau Pinang.\n\n33. Pulau Pinang Hospital Pulau Pinang,\n\nPulau Pinang.\n\n(1) (2) (3)\n\nNo. Social Security Area Location of Medical Board\n\nHospital Balik Pulau,\n\nBalik Pulau,\n\nPulau Pinang.\n\n34. Sandakan Hospital Duchess of Kent,\n\nSandakan,\n\nSabah.\n\nHospital Beluran,\n\nBeluran,\n\nSabah.\n\nHospital Kinabatangan,\n\nKinabatangan,\n\nSabah.\n\n35. Tawau Hospital Tawau,\n\nTawau,\n\nSabah.\n\nHospital Kunak,\n\nKunak,\n\nSabah.\n\nHospital Semporna,\n\nSemporna,\n\nSabah.\n\n36. Lahad Datu Hospital Datin Seri Endon,\n\nLahad Datu,\n\nSabah.\n\n37. Keningau Hospital Keningau,\n\nKeningau,\n\nSabah.\n\nHospital Tambunan,\n\nTambunan,\n\nSabah.\n\nHospital Tenom,\n\nTenom,\n\nSabah.\n\n38. Kota Kinabalu Hospital Queen Elizabeth,\n\nKota Kinabalu,\n\nSabah.\n\n(1) (2) (3)\n\nNo. Social Security Area Location of Medical Board\n\nHospital Queen Elizabeth II,\n\nKota Kinabalu,\n\nSabah.\n\nHospital Kota Belud,\n\nKota Belud,\n\nSabah.\n\nHospital Kota Marudu,\n\nKota Marudu,\n\nSabah.\n\nHospital Kuala Penyu,\n\nKuala Penyu,\n\nSabah.\n\nHospital Mesra Bukit Padang,\n\nKota Kinabalu,\n\nSabah.\n\nHospital Papar,\n\nPapar,\n\nSabah.\n\nHospital Pitas,\n\nPitas,\n\nSabah.\n\nHospital Ranau,\n\nRanau,\n\nSabah.\n\nHospital Sipitang,\n\nSipitang,\n\nSabah.\n\nHospital Tuaran,\n\nTuaran,\n\nSabah.\n\n39. Labuan Hospital Labuan,\n\nWilayah Persekutuan Labuan.\n\n40. Beaufort Hospital Beaufort,\n\nBeaufort,\n\nSabah.\n\n(1) (2) (3)\n\nNo. Social Security Area Location of Medical Board\n\n41. Kudat Hospital Kudat,\n\nKudat,\n\nSabah.\n\n42. Miri Hospital Miri,\n\nMiri,\n\nSarawak.\n\nHospital Marudi,\n\nMarudi,\n\nSarawak.\n\n43. Bintulu Hospital Bintulu,\n\nBintulu,\n\nSarawak.\n\n44. Sibu Hospital Sibu,\n\nSibu,\n\nSarawak.\n\nHospital Mukah,\n\nMukah,\n\nSarawak.\n\nHospital Daro,\n\nDaro,\n\nSarawak.\n\nHospital Kanawit,\n\nKanawit,\n\nSarawak.\n\nHospital Dalat,\n\nDalat,\n\nSarawak.\n\n45. Sri Aman Hospital Sri Aman,\n\nSri Aman,\n\nSarawak.\n\nHospital Betong,\n\nBetong,\n\nSarawak.\n\nHospital Saratok,\n\nSantok,\n\nSarawak.\n\n(1) (2) (3)\n\nNo. Social Security Area Location of Medical Board\n\n46. Limbang Hospital Limbang,\n\nLimbang,\n\nSarawak.\n\nHospital Lawas,\n\nLawas,\n\nSarawak.\n\n47. Kapit Hospital Kapit,\n\nKapit,\n\nSarawak.\n\n48. Kuching Hospital Umum Kuching,\n\nKuching,\n\nSarawak.\n\nHospital Rajah Charles Brooke Memorial,\n\nKuching,\n\nSarawak.\n\nHospital Sentosa,\n\nSentosa,\n\nSarawak.\n\nHospital Serian,\n\nSerian,\n\nSarawak.\n\nHospital Simunjan,\n\nSimunjan,\n\nSarawak.\n\nHospital Bau,\n\nBau,\n\nSarawak.\n\nHospital Lundu,\n\nLundu,\n\nSarawak.\n\n49. Sarikei Hospital Sarikei,\n\nSarikei,\n\nSarawak.\n\nSchedule V\n\n[Subregulation 79A(2)]\n\n(1) (2) (3)\n\nNo. Social Security Area Location of Special Medical Board\n\n1. Kuala Lumpur Hospital Kuala Lumpur,\n\nWilayah Persekutuan Kuala Lumpur.\n\nHospital Ampang,\n\nAmpang,\n\nSelangor.\n\nHospital Putrajaya,\n\nWilayah Persekutuan Putrajaya.\n\nHospital Rehabilitasi Cheras,\n\nCheras,\n\nWilayah Persekutuan Kuala Lumpur.\n\n2. Rawang Hospital Kuala Kubu Bharu,\n\nKuala Kubu Bharu,\n\nSelangor.\n\nHospital Selayang,\n\nSelayang,\n\nSelangor.\n\nHospital Tanjung Karang,\n\nTanjung Karang,\n\nSelangor.\n\nHospital Sungai Buloh,\n\nSungai Buloh,\n\nSelangor.\n\nHospital Tengku Ampuan Jemaah,\n\nSabak Bernam,\n\nSelangor.\n\n3. Petaling Jaya Pusat Perubatan UM,\n\nPetaling Jaya,\n\nSelangor.\n\nHospital Kajang,\n\nKajang,\n\nSelangor.\n\n(1) (2) (3)\n\nNo. Social Security Area Location of Special Medical Board\n\nHospital Serdang,\n\nSerdang,\n\nSelangor.\n\n4. Klang Hospital Tengku Ampuan Rahimah,\n\nKlang,\n\nSelangor.\n\nHospital Banting,\n\nBanting,\n\nSelangor.\n\n5. Johor Bahru Hospital Sultanah Aminah,\n\nJohor Bahru,\n\nJohor.\n\nHospital Sultan Ismail,\n\nJohor Bahru,\n\nJohor.\n\nHospital Kota Tinggi,\n\nKota Tinggi,\n\nJohor.\n\nHospital Pontian,\n\nPontian,\n\nJohor.\n\nHospital Permai,\n\nJohor Bahru,\n\nJohor.\n\nHospital Temenggung Seri Maharaja,\n\nKulai,\n\nJohor.\n\n6. Kluang Hospital Kluang,\n\nKluang,\n\nJohor.\n\nHospital Mersing,\n\nMersing,\n\nJohor.\n\n7. Muar Hospital Pakar Sultanah Fatimah,\n\nMuar,\n\nJohor.\n\n(1) (2) (3)\n\nNo. Social Security Area Location of Special Medical Board\n\nHospital Tangkak,\n\nTangkak,\n\nJohor.\n\n8. Batu Pahat Hospital Sultanah Nora Ismail,\n\nBatu Pahat,\n\nJohor.\n\n9. Segamat Hospital Segamat,\n\nSegamat,\n\nJohor.\n\n10. Kuala Pilah Hospital Tuanku Ampuan Najihah,\n\nKuala Pilah,\n\nNegeri Sembilan.\n\n11. Seremban Hospital Tuanku Ja'afar,\n\nSeremban,\n\nNegeri Sembilan.\n\nHospital Port Dickson,\n\nPort Dickson,\n\nNegeri Sembilan.\n\nHospital Jelebu,\n\nJelebu,\n\nNegeri Sembilan.\n\nHospital Jempol,\n\nBandar Seri Jempol,\n\nNegeri Sembilan.\n\nHospital Tampin,\n\nTampin,\n\nNegeri Sembilan.\n\n12. Melaka Hospital Melaka,\n\nMelaka.\n\nHospital Alor Gajah,\n\nAlor Gajah,\n\nMelaka.\n\nHospital Jasin,\n\nJasin,\n\nMelaka.\n\n(1) (2) (3)\n\nNo. Social Security Area Location of Special Medical Board\n\n13. Alor Setar Hospital Sultanah Bahiyah,\n\nAlor Setar,\n\nKedah.\n\nHospital Jitra,\n\nJitra,\n\nKedah.\n\nHospital Kuala Nerang,\n\nKuala Nerang,\n\nKedah.\n\n14. Sungai Petani Hospital Sultan Abdul Halim,\n\nSungai Petani,\n\nKedah.\n\nHospital Baling,\n\nBaling,\n\nKedah.\n\nHospital Sik,\n\nSik,\n\nKedah.\n\nHospital Yan,\n\nYan,\n\nKedah.\n\n15. Kulim Hospital Kulim,\n\nKulim,\n\nKedah.\n\n16. Pulau Langkawi Hospital Langkawi,\n\nLangkawi,\n\nKedah.\n\n17. Kangar Hospital Tuanku Fauziah,\n\nKangar,\n\nPerlis.\n\n18. Taiping Hospital Taiping,\n\nTaiping,\n\nPerak.\n\nHospital Parit Buntar,\n\nParit Buntar,\n\nPerak.\n\n(1) (2) (3)\n\nNo. Social Security Area Location of Special Medical Board\n\nHospital Selama,\n\nSelama,\n\nPerak.\n\n19. Teluk Intan Hospital Teluk Intan,\n\nTeluk Intan,\n\nPerak.\n\n20. Tapah Hospital Tapah,\n\nTapah,\n\nPerak.\n\nHospital Slim River,\n\nSlim River,\n\nPerak.\n\nHospital Sultanah Hajjah Kalsom,\n\nCameron Highlands,\n\nPahang.\n\n21. Kuala Kangsar Hospital Kuala Kangsar,\n\nKuala Kangsar,\n\nPerak.\n\nHospital Seri Manjung,\n\nSeri Manjung,\n\nPerak.\n\nHospital Gerik,\n\nGrik,\n\nPerak.\n\nHospital Sungai Siput,\n\nSungai Siput,\n\nPerak.\n\n22. Ipoh Hospital Raja Permaisuri Bainun,\n\nIpoh,\n\nPerak.\n\nHospital Batu Gajah,\n\nBatu Gajah,\n\nPerak.\n\nHospital Changkat Melintang,\n\nBota,\n\nPerak.\n\n(1) (2) (3)\n\nNo. Social Security Area Location of Special Medical Board\n\nHospital Kampar,\n\nKampar,\n\nPerak.\n\n23. Kuala Krai Hospital Kuala Krai,\n\nKuala Krai,\n\nKelantan.\n\nHospital Gua Musang,\n\nGua Musang,\n\nKelantan.\n\n24. Kota Bharu Hospital Raja Perempuan Zainab II,\n\nKota Bharu,\n\nKelantan.\n\nHospital Tengku Anis,\n\nPasir Puteh,\n\nKelantan.\n\nHospital Tumpat,\n\nTumpat,\n\nKelantan.\n\nHospital Pasir Mas,\n\nPasir Mas,\n\nKelantan.\n\nHospital Jeli,\n\nJeli,\n\nKelantan.\n\nHospital Machang,\n\nMachang,\n\nKelantan.\n\nHospital Tanah Merah,\n\nTanah Merah,\n\nKelantan.\n\n25. Dungun Hospital Dungun,\n\nDungun,\n\nTerengganu.\n\n26. Kuala Terengganu Hospital Sultanah Nur Zahirah,\n\nKuala Terengganu,\n\nTerengganu.\n\n(1) (2) (3)\n\nNo. Social Security Area Location of Special Medical Board\n\nHospital Setiu,\n\nSetiu,\n\nTerengganu.\n\nHospital Hulu Terengganu,\n\nKuala Berang,\n\nTerengganu.\n\nHospital Besut,\n\nBesut,\n\nTerengganu.\n\n27. Kemaman Hospital Kemaman,\n\nKemaman,\n\nTerengganu.\n\n28. Temerloh Hospital Sultan Hj. Ahmad Shah,\n\nTemerloh,\n\nPahang.\n\nHospital Jengka,\n\nMaran,\n\nPahang.\n\nHospital Jerantut,\n\nJerantut,\n\nPahang.\n\n29. Bentong Hospital Bentong,\n\nBentong,\n\nPahang.\n\n30. Raub Hospital Kuala Lipis,\n\nKuala Lipis,\n\nPahang.\n\nHospital Raub,\n\nRaub,\n\nPahang.\n\n31. Kuantan Hospital Tengku Ampuan Afzan,\n\nKuantan,\n\nPahang.\n\nHospital Muadzam Shah,\n\nRompin,\n\nPahang.\n\n(1) (2) (3)\n\nNo. Social Security Area Location of Special Medical Board\n\nHospital Pekan,\n\nPekan,\n\nPahang.\n\n32. Butterworth Hospital Seberang Jaya,\n\nPerai,\n\nPulau Pinang.\n\nHospital Bukit Mertajam,\n\nBukit Mertajam,\n\nPulau Pinang.\n\nHospital Sungai Bakap,\n\nSungai Jawi,\n\nPulau Pinang.\n\nHospital Kepala Batas,\n\nKepala Batas,\n\nPulau Pinang.\n\n33. Pulau Pinang Hospital Pulau Pinang,\n\nPulau Pinang.\n\nHospital Balik Pulau,\n\nBalik Pulau,\n\nPulau Pinang.\n\n34. Sandakan Hospital Duchess of Kent,\n\nSandakan,\n\nSabah.\n\nHospital Beluran,\n\nBeluran,\n\nSabah.\n\nHospital Kinabatangan,\n\nKinabatangan,\n\nSabah.\n\n35. Tawau Hospital Tawau,\n\nTawau,\n\nSabah.\n\nHospital Kunak,\n\nKunak,\n\nSabah.\n\n(1) (2) (3)\n\nNo. Social Security Area Location of Special Medical Board\n\nHospital Semporna,\n\nSemporna,\n\nSabah.\n\n36. Lahad Datu Hospital Datin Seri Endon,\n\nLahad Datu,\n\nSabah.\n\n37. Keningau Hospital Keningau,\n\nKeningau,\n\nSabah.\n\nHospital Tambunan,\n\nTambunan,\n\nSabah.\n\nHospital Tenom,\n\nTenom,\n\nSabah.\n\n38. Kota Kinabalu Hospital Queen Elizabeth,\n\nKota Kinabalu,\n\nSabah.\n\nHospital Queen Elizabeth II,\n\nKota Kinabalu,\n\nSabah.\n\nHospital Kota Belud,\n\nKota Belud,\n\nSabah.\n\nHospital Kota Marudu,\n\nKota Marudu,\n\nSabah.\n\nHospital Kuala Penyu,\n\nKuala Penyu,\n\nSabah.\n\nHospital Mesra Bukit Padang,\n\nKota Kinabalu,\n\nSabah.\n\nHospital Papar,\n\nPapar,\n\nSabah.\n\n(1) (2) (3)\n\nNo. Social Security Area Location of Special Medical Board\n\nHospital Pitas,\n\nPitas,\n\nSabah.\n\nHospital Ranau,\n\nRanau,\n\nSabah.\n\nHospital Sipitang,\n\nSipitang,\n\nSabah.\n\nHospital Tuaran,\n\nTuaran,\n\nSabah.\n\n39. Labuan Hospital Labuan,\n\nWilayah Persekutuan Labuan.\n\n40. Beaufort Hospital Beaufort,\n\nBeaufort,\n\nSabah.\n\n41. Kudat Hospital Kudat,\n\nKudat,\n\nSabah.\n\n42. Miri Hospital Miri,\n\nMiri,\n\nSarawak.\n\nHospital Marudi,\n\nMarudi,\n\nSarawak.\n\n43. Bintulu Hospital Bintulu,\n\nBintulu,\n\nSarawak.\n\n44. Sibu Hospital Sibu,\n\nSibu,\n\nSarawak.\n\nHospital Mukah,\n\nMukah,\n\nSarawak.\n\n(1) (2) (3)\n\nNo. Social Security Area Location of Special Medical Board\n\nHospital Daro,\n\nDaro,\n\nSarawak.\n\nHospital Kanawit,\n\nKanawit,\n\nSarawak.\n\nHospital Dalat,\n\nDalat,\n\nSarawak.\n\n45. Sri Aman Hospital Sri Aman,\n\nSri Aman,\n\nSarawak.\n\nHospital Betong,\n\nBetong,\n\nSarawak.\n\nHospital Saratok,\n\nSantok,\n\nSarawak.\n\n46. Limbang Hospital Limbang,\n\nLimbang,\n\nSarawak.\n\nHospital Lawas,\n\nLawas,\n\nSarawak.\n\n47. Kapit Hospital Kapit,\n\nKapit,\n\nSarawak.\n\n48. Kuching Hospital Umum Kuching,\n\nKuching,\n\nSarawak.\n\nHospital Rajah Charles Brooke Memorial,\n\nKuching,\n\nSarawak.\n\nHospital Sentosa,\n\nSentosa,\n\nSarawak.\n\n(1) (2) (3)\n\nNo. Social Security Area Location of Special Medical Board\n\nHospital Serian,\n\nSerian,\n\nSarawak.\n\nHospital Simunjan,\n\nSimunjan,\n\nSarawak.\n\nHospital Bau,\n\nBau,\n\nSarawak.\n\nHospital Lundu,\n\nLundu,\n\nSarawak.\n\n49. Sarikei Hospital Sarikei,\n\nSarikei,\n\nSarawak.\n\nSchedule VI\n\n[Subregulation 79B(2)]\n\n(1) (2) (3)\n\nNo. Social Security Area Location of Appellate Medical Board for\n\nPeninsular Malaysia\n\n1. Kuala Lumpur Hospital Kuala Lumpur,\n\nWilayah Persekutuan Kuala Lumpur.\n\nHospital Ampang,\n\nAmpang,\n\nSelangor.\n\nHospital Putrajaya,\n\nWilayah Persekutuan Putrajaya.\n\nHospital Rehabilitasi Cheras,\n\nCheras,\n\nWilayah Persekutuan Kuala Lumpur.\n\n2. Rawang Hospital Kuala Kubu Bharu,\n\nKuala Kubu Bharu,\n\nSelangor.\n\n(1) (2) (3)\n\nNo. Social Security Area Location of Appellate Medical Board for\n\nPeninsular Malaysia\n\nHospital Selayang,\n\nSelayang,\n\nSelangor.\n\nHospital Tanjung Karang,\n\nTanjung Karang,\n\nSelangor.\n\nHospital Sungai Buloh,\n\nSungai Buloh,\n\nSelangor.\n\nHospital Tengku Ampuan Jemaah,\n\nSabak Bernam,\n\nSelangor.\n\n3. Petaling Jaya Pusat Perubatan UM,\n\nPetaling Jaya,\n\nSelangor.\n\nHospital Kajang,\n\nKajang,\n\nSelangor.\n\nHospital Serdang,\n\nSerdang,\n\nSelangor.\n\n4. Klang Hospital Tengku Ampuan Rahimah,\n\nKlang,\n\nSelangor.\n\nHospital Banting,\n\nBanting,\n\nSelangor.\n\n5. Johor Bahru Hospital Sultanah Aminah,\n\nJohor Bahru,\n\nJohor.\n\nHospital Sultan Ismail,\n\nJohor Bahru,\n\nJohor.\n\n(1) (2) (3)\n\nNo. Social Security Area Location of Appellate Medical Board for\n\nPeninsular Malaysia\n\nHospital Kota Tinggi,\n\nKota Tinggi,\n\nJohor.\n\nHospital Pontian,\n\nPontian,\n\nJohor.\n\nHospital Permai,\n\nJohor Bahru,\n\nJohor.\n\nHospital Temenggung Seri Maharaja,\n\nKulai,\n\nJohor.\n\n6. Kluang Hospital Kluang,\n\nKluang,\n\nJohor.\n\nHospital Mersing,\n\nMersing,\n\nJohor.\n\n7. Muar Hospital Pakar Sultanah Fatimah,\n\nMuar,\n\nJohor.\n\nHospital Tangkak,\n\nTangkak,\n\nJohor.\n\n8. Batu Pahat Hospital Sultanah Nora Ismail,\n\nBatu Pahat,\n\nJohor.\n\n9. Segamat Hospital Segamat,\n\nSegamat,\n\nJohor.\n\n10. Kuala Pilah Hospital Tuanku Ampuan Najihah,\n\nKuala Pilah,\n\nNegeri Sembilan.\n\n(1) (2) (3)\n\nNo. Social Security Area Location of Appellate Medical Board for\n\nPeninsular Malaysia\n\n11. Seremban Hospital Tuanku Ja'afar,\n\nSeremban,\n\nNegeri Sembilan.\n\nHospital Port Dickson,\n\nPort Dickson,\n\nNegeri Sembilan.\n\nHospital Jelebu,\n\nJelebu,\n\nNegeri Sembilan.\n\nHospital Jempol,\n\nBandar Seri Jempol,\n\nNegeri Sembilan.\n\nHospital Tampin,\n\nTampin,\n\nNegeri Sembilan.\n\n12. Melaka Hospital Melaka,\n\nMelaka.\n\nHospital Alor Gajah,\n\nAlor Gajah,\n\nMelaka.\n\nHospital Jasin,\n\nJasin,\n\nMelaka.\n\n13. Alor Setar Hospital Sultanah Bahiyah,\n\nAlor Setar,\n\nKedah.\n\nHospital Jitra,\n\nJitra,\n\nKedah.\n\nHospital Kuala Nerang,\n\nKuala Nerang,\n\nKedah.\n\n14. Sungai Petani Hospital Sultan Abdul Halim,\n\nSungai Petani,\n\nKedah.\n\n(1) (2) (3)\n\nNo. Social Security Area Location of Appellate Medical Board for\n\nPeninsular Malaysia\n\nHospital Baling,\n\nBaling,\n\nKedah.\n\nHospital Sik,\n\nSik,\n\nKedah.\n\nHospital Yan,\n\nYan,\n\nKedah.\n\n15. Kulim Hospital Kulim,\n\nKulim,\n\nKedah.\n\n16. Pulau Langkawi Hospital Langkawi,\n\nLangkawi,\n\nKedah.\n\n17. Kangar Hospital Tuanku Fauziah,\n\nKangar,\n\nPerlis.\n\n18. Taiping Hospital Taiping,\n\nTaiping,\n\nPerak.\n\nHospital Parit Buntar,\n\nParit Buntar,\n\nPerak.\n\nHospital Selama,\n\nSelama,\n\nPerak.\n\n19. Teluk Intan Hospital Teluk Intan,\n\nTeluk Intan,\n\nPerak.\n\n20. Tapah Hospital Tapah,\n\nTapah,\n\nPerak.\n\n(1) (2) (3)\n\nNo. Social Security Area Location of Appellate Medical Board for\n\nPeninsular Malaysia\n\nHospital Slim River,\n\nSlim River,\n\nPerak.\n\nHospital Sultanah Hajjah Kalsom,\n\nCameron Highlands,\n\nPahang.\n\n21. Kuala Kangsar Hospital Kuala Kangsar,\n\nKuala Kangsar,\n\nPerak.\n\nHospital Seri Manjung,\n\nSeri Manjung,\n\nPerak.\n\nHospital Gerik,\n\nGrik,\n\nPerak.\n\nHospital Sungai Siput,\n\nSungai Siput,\n\nPerak.\n\n22. Ipoh Hospital Raja Permaisuri Bainun,\n\nIpoh,\n\nPerak.\n\nHospital Batu Gajah,\n\nBatu Gajah,\n\nPerak.\n\nHospital Changkat Melintang,\n\nBota,\n\nPerak.\n\nHospital Kampar,\n\nKampar,\n\nPerak.\n\n23. Kuala Krai Hospital Kuala Krai,\n\nKuala Krai,\n\nKelantan.\n\n(1) (2) (3)\n\nNo. Social Security Area Location of Appellate Medical Board for\n\nPeninsular Malaysia\n\nHospital Gua Musang,\n\nGua Musang,\n\nKelantan.\n\n24. Kota Bharu Hospital Raja Perempuan Zainab II,\n\nKota Bharu,\n\nKelantan.\n\nHospital Tengku Anis,\n\nPasir Puteh,\n\nKelantan.\n\nHospital Tumpat,\n\nTumpat,\n\nKelantan.\n\nHospital Pasir Mas,\n\nPasir Mas,\n\nKelantan.\n\nHospital Jeli,\n\nJeli,\n\nKelantan.\n\nHospital Machang,\n\nMachang,\n\nKelantan.\n\nHospital Tanah Merah,\n\nTanah Merah,\n\nKelantan.\n\n25. Dungun Hospital Dungun,\n\nDungun,\n\nTerengganu.\n\n26. Kuala Terengganu Hospital Sultanah Nur Zahirah,\n\nKuala Terengganu,\n\nTerengganu.\n\nHospital Setiu,\n\nSetiu,\n\nTerengganu.\n\n(1) (2) (3)\n\nNo. Social Security Area Location of Appellate Medical Board for\n\nPeninsular Malaysia\n\nHospital Hulu Terengganu,\n\nKuala Berang,\n\nTerengganu.\n\nHospital Besut,\n\nBesut,\n\nTerengganu.\n\n27. Kemaman Hospital Kemaman,\n\nKemaman,\n\nTerengganu.\n\n28. Temerloh Hospital Sultan Hj. Ahmad Shah,\n\nTemerloh,\n\nPahang.\n\nHospital Jengka,\n\nMaran,\n\nTerengganu.\n\nHospital Jerantut,\n\nJerantut,\n\nPahang.\n\n29. Bentong Hospital Bentong,\n\nBentong,\n\nPahang.\n\n30. Raub Hospital Kuala Lipis,\n\nKuala Lipis,\n\nPahang.\n\nHospital Raub,\n\nRaub,\n\nPahang.\n\n31. Kuantan Hospital Tengku Ampuan Afzan,\n\nKuantan,\n\nPahang.\n\nHospital Muadzam Shah,\n\nRompin,\n\nPahang.\n\n(1) (2) (3)\n\nNo. Social Security Area Location of Appellate Medical Board for\n\nPeninsular Malaysia\n\nHospital Pekan,\n\nPekan,\n\nPahang.\n\n32. Butterworth Hospital Seberang Jaya,\n\nPerai,\n\nPulau Pinang.\n\nHospital Bukit Mertajam,\n\nBukit Mertajam,\n\nPulau Pinang.\n\nHospital Sungai Bakap,\n\nSungai Jawi,\n\nPulau Pinang.\n\nHospital Kepala Batas,\n\nKepala Batas,\n\nPulau Pinang.\n\n33. Pulau Pinang Hospital Pulau Pinang,\n\nPulau Pinang.\n\nHospital Balik Pulau,\n\nBalik Pulau,\n\nPulau Pinang.\n\nSchedule VII\n\n[Subregulation 79C(2)]\n\n(1) (2) (3)\n\nNo. Social Security Area Location of Appellate Medical Board for\n\nSabah and Sarawak\n\n1. Sandakan Hospital Duchess of Kent,\n\nSandakan,\n\nSabah.\n\nHospital Beluran,\n\nBeluran,\n\nSabah.\n\nHospital Kinabatangan,\n\nKinabatangan,\n\nSabah.\n\n(1) (2) (3)\n\nNo. Social Security Area Location of Appellate Medical Board for\n\nSabah and Sarawak\n\n2. Tawau Hospital Tawau,\n\nTawau,\n\nSabah.\n\nHospital Kunak,\n\nKunak,\n\nSabah.\n\nHospital Semporna,\n\nSemporna,\n\nSabah.\n\n3. Lahad Datu Hospital Datin Seri Endon,\n\nLahad Datu,\n\nSabah.\n\n4. Keningau Hospital Keningau,\n\nKeningau,\n\nSabah.\n\nHospital Tambunan,\n\nTambunan,\n\nSabah.\n\nHospital Tenom,\n\nTenom,\n\nSabah.\n\n5. Kota Kinabalu Hospital Queen Elizabeth,\n\nKota Kinabalu,\n\nSabah.\n\nHospital Queen Elizabeth II,\n\nKota Kinabalu,\n\nSabah.\n\nHospital Kota Belud,\n\nKota Belud,\n\nSabah.\n\nHospital Kota Marudu,\n\nKota Marudu,\n\nSabah.\n\n(1) (2) (3)\n\nNo. Social Security Area Location of Appellate Medical Board for\n\nSabah and Sarawak\n\nHospital Kuala Penyu,\n\nKuala Penyu,\n\nSabah.\n\nHospital Mesra Bukit Padang,\n\nKota Kinabalu,\n\nSabah.\n\nHospital Papar,\n\nPapar,\n\nSabah.\n\nHospital Pitas,\n\nPitas,\n\nSabah.\n\nHospital Ranau,\n\nRanau,\n\nSabah.\n\nHospital Sipitang,\n\nSipitang,\n\nSabah.\n\nHospital Tuaran,\n\nTuaran,\n\nSabah.\n\n6. Labuan Hospital Labuan,\n\nWilayah Persekutuan Labuan.\n\n7. Beaufort Hospital Beaufort,\n\nBeaufort,\n\nSabah.\n\n8. Kudat Hospital Kudat,\n\nKudat,\n\nSabah.\n\n9. Miri Hospital Miri,\n\nMiri,\n\nSarawak.\n\nHospital Marudi,\n\nMarudi,\n\nSarawak.\n\n(1) (2) (3)\n\nNo. Social Security Area Location of Appellate Medical Board for\n\nSabah and Sarawak\n\n10. Bintulu Hospital Bintulu,\n\nBintulu,\n\nSarawak.\n\n11. Sibu Hospital Sibu,\n\nSibu,\n\nSarawak.\n\nHospital Mukah,\n\nMukah,\n\nSarawak.\n\nHospital Daro,\n\nDaro,\n\nSarawak.\n\nHospital Kanawit,\n\nKanawait,\n\nSarawak.\n\nHospital Dalat,\n\nDalat,\n\nSarawak.\n\n12. Sri Aman Hospital Sri Aman,\n\nSri Aman,\n\nSarawak.\n\nHospital Betong,\n\nBetong,\n\nSarawak.\n\nHospital Saratok,\n\nSantok,\n\nSarawak.\n\n13. Limbang Hospital Limbang,\n\nLimbang,\n\nSarawak.\n\nHospital Lawas,\n\nLawas,\n\nSarawak.\n\n(1) (2) (3)\n\nNo. Social Security Area Location of Appellate Medical Board for\n\nSabah and Sarawak\n\n14. Kapit Hospital Kapit,\n\nKapit,\n\nSarawak.\n\n15. Kuching Hospital Umum Kuching,\n\nKuching,\n\nSarawak.\n\nHospital Rajah Charles Brooke Memorial,\n\nKuching,\n\nSarawak.\n\nHospital Sentosa,\n\nSentosa,\n\nSarawak.\n\nHospital Serian,\n\nSerian,\n\nSarawak.\n\nHospital Simunjan,\n\nSimunjan,\n\nSarawak.\n\nHospital Bau,\n\nBau,\n\nSarawak.\n\nHospital Lundu,\n\nLundu,\n\nSarawak.\n\n16. Sarikei Hospital Sarikei,\n\nSarikei,\n\nSarawak.\n\nRevocation\n\n5. The Constitution of Medical Boards [P.U. (B) 143/2006] and [P.U. (B) 40/2008],\n\nthe Constitution of Special Medical Boards [P.U. (B) 537/1987], the Appointment and\n\nRevocation of Appointment of Appellate Medical Board [P.U. (B) 538/1987],\n\nthe Appointment and Revocation of Appointment of Appellate Medical Board\n\n[P.U. (B) 539/1987] and the Appointment and Revocation of Appointment of Appellate\n\nMedical Board [P.U. (B) 540/1987] are revoked.\n\nMade 1 March 2016\n\n[KSM/PUU/(S)/600-1/6/1/20; PN(PU2)58/XX]\n\nDATO' SRI RICHARD RIOT ANAK JAEM\n\nMinister of Human Resources"
+   }
+  }
+ ]
+}

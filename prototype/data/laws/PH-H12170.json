@@ -1,0 +1,102 @@
+{
+ "id": "PH-H12170",
+ "title": {
+  "zh": null,
+  "en": "AN ACT PROVIDING FOR THE FORMATION AND ORGANIZATION OF CORPORATIONS, DEFINING THEIR POWERS, FIXING THE DUTIES OF DIRECTORS AND OTHER OFFICERS THEREOF, DECLARING THE RIGHTS AND LIABILITIES OF SHAREHOLDERS AND MEMBERS, PRESCRIBING THE CONDITIONS UNDER WHICH SUCH CORPORATIONS MAY TRANSACT BUSINESS, AND REPEALING CERTAIN ARTICLES OF THE CODE OF COMMERCE AND ALL LAWS OR PARTS OF LAWS IN CONFLICT OR INCONSISTENT WITH THIS ACT.",
+  "orig": "AN ACT PROVIDING FOR THE FORMATION AND ORGANIZATION OF CORPORATIONS, DEFINING THEIR POWERS, FIXING THE DUTIES OF DIRECTORS AND OTHER OFFICERS THEREOF, DECLARING THE RIGHTS AND LIABILITIES OF SHAREHOLDERS AND MEMBERS, PRESCRIBING THE CONDITIONS UNDER WHICH SUCH CORPORATIONS MAY TRANSACT BUSINESS, AND REPEALING CERTAIN ARTICLES OF THE CODE OF COMMERCE AND ALL LAWS OR PARTS OF LAWS IN CONFLICT OR INCONSISTENT WITH THIS ACT."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 1459",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 6,
+ "chars": 3824,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_01459_1906_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 6 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_01459_1906_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12170-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The short title of this Act shall be \"The Corporation Law.\""
+   }
+  },
+  {
+   "id": "PH-H12170-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "A corporation is an artificial being created by operation of law, having the right of succession and\nthe powers, attributes, and properties expressly authorized by law or incident to its existence."
+   }
+  },
+  {
+   "id": "PH-H12170-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "Corporations may be public or private. Public corporations are those formed or organized for the\ngovernment of a portion of the state. Private corporations are those formed for some private purpose, benefit,\naim, or end. as distinguished from public corporations which have for their purpose the general good, and\nwelfare. Private corporations are divided into stock corporations and nonstock corporations. Corporations\nwhich have a capital stock divided into shares and are authorized to distribute to the holders of such shares\ndividends or allotments of the surplus profits on the basis of the shares held are stock corporations. All other\nprivate corporations are non-stock corporations."
+   }
+  },
+  {
+   "id": "PH-H12170-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "Corporators of a corporation are those who compose the corporation, whether stockholders or\nmembers or both. Incorporators are those members or stockholders or both mentioned in the articles of\nincorporation as originally forming and composing the corporation."
+   }
+  },
+  {
+   "id": "PH-H12170-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "text": {
+    "en": "The owners of shares in a corporation which has capital stock are called stockholders or\nshareholders. Corporators of a corporation which has no capital stock and corporators of a corporation who\ndo not own capital stock are members."
+   }
+  },
+  {
+   "id": "PH-H12170-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "text": {
+    "en": "Five or more persons, not exceeding fifteen, a majority of whom are residents of the Philippine\nIslands, may form a private corporation for any lawful purpose by filing with the Division of Archives,\nPatents, Copyrights, and Trade-Marks of the Executive Bureau articles of incorporation duly executed and\nacknowledged before a notary public, setting forth:\n1. The name of the corporation ;\n2. The purpose for which the corporation is formed ;\n3. The place where the principal office of the corporation is to be established or located, which\nplace must be within the Philippine Islands;\n4. The term for which it is to exist, not exceeding fifty years, except as hereinafter provided ;\n5. The names and residences of the incorporators;\n6. Unless otherwise provided by this Act, the number of directors of the corporation, not less\nthan five nor more than eleven. The directors named in the articles of incorporation shall be the\ndirectors until their successors are elected and qualified as provided by the by-laws: Provided,\nhowever, That at any time during the existence of the corporation the number of directors may\nbe increased to any number not exceeding fifteen or diminished to any number not less than\nfive in the case of a nonstock corporation by the formal assent of a majority of the members at\na regular or special meeting of the membership, and in the case of a stock corporation the\nnumber of directors may be increased to any number not exceeding eleven or diminished to any\nnumber not less than five by the formal assent of the stockholders of the corporation at a\nregular or special meeting of stockholders representing or holding a majority of the stock: And\nprovided further, That a certificate selling out such increase or diminution in the numbers of\ndirectors of any corporation shall be duly signed and sworn to by the president, managing\nagent, secretary or clerk, or treasurer of such corporation and forthwith filed in the Division of\nArchives, Patents, Copyrights, and Trade-Marks of the Executive Bureau;\n7. If it be a stock corporation, the amount of its capital stock, in Philippine currency, and the\nnumber of shares into which it is divided;\n8. If it be a stock corporation, the amount of capital stock actually subscribed, the names and\nresidences of the persons subscribing, the amount subscribed by each, and the sum paid by\neach on his subscription."
+   }
+  }
+ ]
+}

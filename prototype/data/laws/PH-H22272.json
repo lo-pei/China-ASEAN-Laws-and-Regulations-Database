@@ -1,0 +1,62 @@
+{
+ "id": "PH-H22272",
+ "title": {
+  "zh": null,
+  "en": "Amending the Provisions of Section 316 of the Revised Administrative Code, on Persons Bondable in the Discretion of the Auditor",
+  "orig": "Amending the Provisions of Section 316 of the Revised Administrative Code, on Persons Bondable in the Discretion of the Auditor"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1976-02-02",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 883",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 548,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_00883_1976_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_00883_1976_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22272-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section 316, sub-paragraph (e) of the Revised Administrative Code is hereby amended to read as\n\"Sec. 316. Persons bondable in discretion of the Commission on Audit. The fidelity of the following officers\nshall be insured in the fidelity fund only when the Commission on Audit, shall in its discretion so direct;\n\"(e) Officers whose accountability is in an amount less than two thousand pesos.\""
+   }
+  },
+  {
+   "id": "PH-H22272-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Decree shall take effect immediately.\nDone in the City of Manila, this 2nd day of February, in the year of Our Lord, nineteen hundred and\nseventy-six."
+   }
+  }
+ ]
+}

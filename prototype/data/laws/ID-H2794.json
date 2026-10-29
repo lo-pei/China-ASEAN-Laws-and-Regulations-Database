@@ -1,0 +1,926 @@
+{
+ "id": "ID-H2794",
+ "title": {
+  "zh": "宗教高等教育法",
+  "en": "Law on Religious Higher Education",
+  "id": "PENDIDIKAN TINGGI KEAGAMAAN",
+  "orig": "PENDIDIKAN TINGGI KEAGAMAAN",
+  "vi": "Luật về Giáo dục Đại học Tôn giáo",
+  "th": "พระราชบัญญัติว่าด้วยการอุดมศึกษาทางศาสนา",
+  "ms": "Akta tentang Pendidikan Tinggi Keagamaan"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02a",
+ "language": "id",
+ "level": "law",
+ "category": "04_劳工与行政法",
+ "status": "active",
+ "promulgatedDate": "2019",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "PP 46/2019",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 63,
+ "chars": 42882,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PP%20Nomor%2046%20Tahun%202019%20-%20Salinan.pdf&fl=P18627"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\04_劳工与行政法\\印尼_文本_2019_PENDIDIKAN TINGGI KEAGAMAAN.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 67 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H2794-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\nDalam Peraturan Pemerintah ini yang dimaksud\ndengan:\n1. Pendidikan adalah usaha sadar dan terencana\nuntuk mewujudkan suasana belajar dan proses\npembelajaran agar mahasiswa secara aktif\nmengembangkan potensi dirinya untuk memiliki\nkekuatan spiritual keagamaan, pengendalian diri,\nkepribadian, kecerdasan, akhlak mulia, serta\nketerampilan yang diperlukan dirinya, masyarakat,\nbangsa, dan negara.\n2. Pendidikan Tinggi adalah jenjang pendidikan setelah\npendidikan menengah yang mencakup program\ndiploma, program sarjana, program magister,\nprogram doktor, dan program profesi, serta program\nspesialis, yang diselenggarakan oleh perguruan\ntinggi berdasarkan k dayaan bangsa Indonesia.\n3. Pendidikan Tinggi Keagamaan adalah Pendidikan\nTinggi yang diselenggarakan untuk mengkaji dan\nmengembangkan rumpun ilmu agama serta berbagai\nrumpun ilmu pengetahuan.\n4. Perguruan Tinggi Keagamaan yang selanjutnya\ndisingkat PTK adalah satuan pendidikan yang\nmenyelenggarakan Pendidikan Tinggi Keagamaan.\n5. Perguruan Tinggi Keagamaan Negeri yang\nselanjutnya disingkat PTKN adalah PTK yang\ndidirikan dan/atau diselenggarakan oleh\nPemerintah.\n6. Perguruan\nPRES I DEN\nREPUBLIK INDONESIA\n6. Perguruan Tinggi Keagamaan Swasta yang\nselanjutnya disingkat PTKS adalah FrIK yang\ndidirikan dan/atau diselenggarakan oleh\nmasyarakat.\n7. Universitas keagamaan adalah PTK yang\nmenyelenggarakan pendidikan akademik dalam\nrumpun ilmu agama serta berbagai rumpun ilmu\npengetahuan dan/atau teknologi dan dapat\nmenyelenggarakan pendidikan vokasi dalam rumpun\nilmu agama, dan jika memenuhi syarat dapat\nmenyelenggarakan pendidikan profesi.\n8. Institut keagamaan adalah PTK yang\nmenyelenggarakan pendidikan akademik dan dapat\nmenyelenggarakan pendidikan vokasi dalam rumpun\nilmu agama dan sejumlah rumpun ilmu\npengetahuan dan f atau teknologi tertentu, dan jika\nmemenuhi syarat dapat menyelenggarakan\npendidikan profesi.\n9. Sekolah Tinggi keagamaan adalah PIK yang\nmenyelenggarakan pendidikan akademik dan dapat\nmenyelenggarakan pendidikan vokasi dalam rumpun\nilmu agama, dan jika memenuhi syarat dapat\nmenyelenggarakan pendidikan profesi.\n10. Ma'had AIA adalah PTK yang menyelenggarakan\npendidikan akademik dalam bidang penguasaan\nilmu agama Islam (tafaqquh fiddin) berbasis kitab\nkuning (turats) dan dirasah islamiyah.\n11. Pasraman adalah lembaga pendidikan yang\nmenyelenggarakan PTK Hindu dengan pola\npengasramaan dan pengasuhan berbasis\nkeagamaan.\n12. Seminari adalah lembaga pendidikan yang\nmenyelenggarakan PTK Katolik dengan pola\npengasramaan dan pengasuhan berbasis gereja\nKatolik.\n13. Program\nPRES I DEN\nREPUBLIK INDONESIA\n13. Program Studi adalah kesatuan kegiatan pendidikan\ndan pembelajaran yang memiliki kurikulum dan\nmetode pembelajaran tertentu dalam satu jenis\npendidikan akademik, pendidikan profesi, dan/atau\npendidikan vokasi.\n14. Tridharma Perguruan Tinggi yang selanjutnya\ndisebut Tridharma adalah kewajiban perguruan\ntinggi yang menyelenggarakan pendidikan,\npenelitian, dan pengabdian kepada masyarakat.\n15. Sivitas Akademika adalah masyarakat akademik\nyang terdiri atas dosen dan mahasiswa.\n16. Statuta Perguruan Tinggi Keagamaan adalah\nperaturan dasar pengelolaan perguruan tinggi\nkeagamaan yang digunakan sebagai landasan\npenyusunan peraturan dan prosedur operasional\nperguruan tinggi keagamaan.\n17. Standar Nasional Pendidikan Tinggi adalah satuan\nstandar yang meliputi standar nasional pendidikan,\nditambah dengan standar penelitian, dan standar\npengabdian kepada masyarakat.\n18. Badan Penyelenggara PIKS yang selanjutnya disebut\nBadan Penyelenggara adalah yayasan, perkumpulan,\natau badan hukum nirlaba lain sesuai dengan\nketentuan peraturan perundang-undangan.\n19. Kementerian adalah perangkat pemerintah yang\nmembidangi urusan pemerintahan di bidang agama.\n20. Kementerian Lain adalah perangkat pemerintah yang\nmembidangi urusan pemerintahan di luar bidang\nagama.\n21. Menteri adalah menteri yang menyelenggarakan\nurusan pemerintahan di bidang agama."
+   }
+  },
+  {
+   "id": "ID-H2794-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\nRuang lingkup Peraturan Pemerintah ini meliputi:\na. penyelenggaraan\nBAB II\nPENYELENGGARAAN PENDIDIKAN TINGGI KEAGAMAAN\nBagian Kesatu\nTanggung Jawab, Tugas, Fungsi, dan Wewenang"
+   }
+  },
+  {
+   "id": "ID-H2794-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\nPRES IDEN\nREPUBLIK INDONESIA\na. penyelenggaraan Pendidikan Tinggi Keagamaan; dan\nb. pengelolaan PTK.\nMenteri bertanggung jawab, bertugas, dan berwenang\natas penyelenggaraan Pendidikan Tinggi Keagamaan."
+   }
+  },
+  {
+   "id": "ID-H2794-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\nTanggung jawab Menteri atas penyelenggaraan\nPendidikan Tinggi Keagamaan sebagaimana dimaksud\ndalam Pasal 3 mencakup:\na. pengaturan;\nb. perencanaan;\nc. pengawasan, pemantauan, dan evaluasi; dan\nd. pembinaan dan koordinasi."
+   }
+  },
+  {
+   "id": "ID-H2794-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\n(1) Dalam melaksanakan tanggung jawab di bidang\npengaturan sebagaimana dimaksud dalam Pasal 4\nhuruf a, Menteri memiliki tugas dan wewenang\nmengatur mengenai:\na. sistem Pendidikan Tinggi Keagamaan;\nb. anggaran Pendidikan Tinggi Keagamaan;\nc. hak mahasiswa;\nd. akses yang berkeadilan;\ne. mutu Pendidikan Tinggi Keagamaan;\nf. relevansi\nPRES I DEN\nREPUBLIK INDONESIA\nf. relevansi hasil Pendidikan Tinggi Keagamaan;\ndan\ng. ketersediaan PTK.\n(2) Ketentuan lebih lanjut mengenai pengaturan\nsebagaimana dimaksud pada ayat (1) diatur dengan\nPeraturan Menteri."
+   }
+  },
+  {
+   "id": "ID-H2794-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\n(1) Dalam melaksanakan tanggung jawab di bidang\nperencanaan sebagaimana dimaksud dalam Pasal 4\nhuruf b, Menteri memiliki tugas dan wewenang\nmeliputi:\na. men1rusun dan menetapkan kebijakan umum\nnasional dalam pengembangan dan koordinasi\nPendidikan Tinggi Keagamaan;\nb. men1rusun dan menetapkan kebijakan umum\ndalam penghimpunan dan pendayagunaan\npotensi masyarakat untuk mengembangkan\nPendidikan Tinggi Keagamaan; dan\nc. mengembangkan Pendidikan Tinggi Keagamaan\nberdasarkan kebijakan rlmrlm, sebagaimana\ndimaksud pada huruf a dan huruf b yang terdiri\natas:\n1. rencana pengembangan jangka panjang 25\n(dua puluh lima) tahun;\n2. rencana pengembangan jangka menengah\natau rencana strategis 5 (lima) tahun; dan\n3. rencana kerja tahunan,\nsesuai dengan ketentuan peraturan perundang-\nundangan.\n(2) Ketentuan mengenai perencarraar, sebagaimana\ndimaksud pada ayat (1) berlaku untuk:\na. Badan Penyelenggara; dan\nb. PTK.\n(3) Ketentuan\nPRES IDEN\nREPUBLIK INDONESIA\n(3) Ketentuan lebih lanjut mengenai perencanaan\nsebagaimana dimaksud pada ayat (1) dan ayat (2)\ndiatur dengan Peraturan Menteri."
+   }
+  },
+  {
+   "id": "ID-H2794-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\n(1) Dalam melaksanakan tanggung jawab di bidang\npengawasan, pemantarran, dan evaluasi\nsebagaimana dimaksud dalam Pasal 4 huruf c,\nMenteri memiliki tugas dan wewenang men)rusun\ndan menetapkan sistem penjaminan mutu\nPendidikan Tinggi Keagamaan.\n(21 Ketentuan lebih lanjut mengenai pengawasan,\npemantarlan, dan evaluasi sebagaimana dimaksud\npada ayat (1) diatur dengan Peraturan Menteri."
+   }
+  },
+  {
+   "id": "ID-H2794-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n(1) Dalam melaksanakan tanggung jawab di bidang\npembinaan dan koordinasi sebagaimana dimaksud\ndalam Pasal 4 huruf d, Menteri memiliki tugas dan\nwewenang meliputi:\na. pemberian dan pencabutan rzin pendirian PTK\ndan izin pembukaan Program Studi, yang\nmeliputi:\nf . izin pendirian dan perubahan PTKS serta\npencabutan tzin PTKS; dan\n2. izin pembukaan Program Studi dan\npencabutan izin Program Studi rumpun\nilmu agama;\nb. pemantapan dan peningkatan kapasitas\npengelolaan akademik dan pengelolaan sumber\ndaya PTK, melalui evaluasi berkala pelaksanaan\nStandar Nasional Pendidikan Tinggi oleh PTK;\nc. peningkatan\nPRES I DEN\nREPUBLIK INDONESIA\nc. peningkatan relevansi, keterjangkauan,\npemerataan yang berkeadilan, dan akses pada\nPendidikan Tinggi Keagamaan secara\nberkelanjutan, yang meliputi:\n1. penyelarasan pengembangan Pendidikan\nTinggi Keagamaan dengan kebutuhan\npembangunan nasional dan daerah;\n2. penetapan biaya operasional Pendidikan\nTinggi Keagamaan dan subsidi kepada\nPTKN;\n3. pemberian kesempatan yang lebih luas\nkepada calon mahasiswa yang kurang\nmampu secara ekonomi dan calon\nmahasiswa dari daerah terdepan, terluar,\ndan tertinggal; dan\n4. peningkatan angka partisipasi kasar untuk\nPendidikan Tinggi Keagamaan secara\nnasional;\nd. pembentukan dewan, majelis, komisi, dan/atau\nkonsorsium yang melibatkan masyarakat untuk\nmerumuskan kebijakan pengembangan\nPendidikan Tinggi Keagamaan, meliputi\npengembangan:\n1. Tridharma; dan\n2. rumpun ilmu agama.\n(2) Ketentuan lebih lanjut mengenai pembinaan dan\nkoordinasi sebagaimana dimaksud pada ayat (1)\ndiatur dengan Peraturan Menteri.\nBagian Kedua\nJenis Pendidikan Tinggi Keagamaan"
+   }
+  },
+  {
+   "id": "ID-H2794-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\nJenis Pendidikan Tinggi Keagamaan meliputi pendidikan\nakademik, vokasi, dan profesi."
+   }
+  },
+  {
+   "id": "ID-H2794-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {
+    "id": ". . ."
+   },
+   "text": {
+    "id": "Pasal 10\nPendidikan akademik sebagaimana dimaksud dalam\nPasal 9 merupakan Pendidikan Tinggi Keagamaan\nprogram sarjana dan/atau program pascasarjana yang\ndiarahkan pada penguasaan dan pengembangan\nrumpun ilmu agama, serta berbagai rumpun ilmu\npengetahuan dan teknologi.\nPasal 1 1\nPendidikan vokasi sebagaimana dimaksud dalam Pasal\n9 merupakan Pendidikan Tinggi program diploma yang\nmenyiapkan mahasiswa untuk pekerjaan dengan\nkeahlian terapan tertentu."
+   }
+  },
+  {
+   "id": "ID-H2794-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n(1) Pendidikan profesi sebagaimana dimaksud dalam\nPasal 9 merupakan Pendidikan Tinggi setelah\nprogram sarjana yang menyiapkan mahasiswa\ndalam pekerjaan yang memerlukan persyaratan\nkeahlian khusus.\n(2) Pendidikan profesi sebagaimana dimaksud pada\nayat (1) dapat diselenggarakan oleh PTK bekerja\nsama dengan kementerian/lembaga dan/atau\norganisasi profesi yang bertanggung jawab atas\nmutu layanan.\n(3) Pendidikan profesi sebagaimana dimaksud pada\nayat (1) dapat diselenggarakan dalam bentuk\npendidikan profesi bidang keagamaan.\nBagian Ketiga\nPRES I DEN\nREPUBLIK INDONESIA\nBagian Ketiga\nPendirian, Perubahan Bentuk dan Perubahan Status, dan Pembubaran\nPerguruan Tinggi Keagamaan\nParagraf 1\nPendirian Perguruan Tinggi Keagamaan"
+   }
+  },
+  {
+   "id": "ID-H2794-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\n(1) Pemerintah atau masyarakat dapat\nmenyelenggarakan Pendidikan Tinggi Keagamaan\ndengan mendirikan PTK.\n(2) PTK sebagaimana dimaksud pada ayat (1) terdiri\natas PTKN dan PTKS.\n(3) PTK sebagaimana dimaksud pada ayat (1)\nberbentuk universitas, institut, sekolah tinggi,\nakademi, serta ma'had alA, pasraman, seminari,\ndan bentuk lain yang sejenis."
+   }
+  },
+  {
+   "id": "ID-H2794-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\n(1) Pendirian PTKN berbentuk universitas dan institut\nsebagaimana dimaksud dalam Pasal 13 ayat (2) dan\nayat (3) ditetapkan dengan Peraturan Presiden atas\nusul Menteri setelah mendapat pertimbangan\ntertulis dari menteri yang menyelenggarakan\nurusan pemerintahan di bidang aparatur negara.\n(2) Pendirian PTKN berbentuk sekolah tinggi dan\nakademi sebagaimana dimaksud dalam Pasal 13\nayat (2) dan ayat (3) ditetapkan dengan Peraturan\nMenteri setelah mendapat pertimbangan tertulis\ndari menteri yang menyelenggarakan urusan\npemerintahan di bidang aparatur negara."
+   }
+  },
+  {
+   "id": "ID-H2794-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\n(1) Pendirian PTK sebagaimana dimaksud dalam Pasal\n13 dan Pasal 14 harus memenuhi persyaratan:\na. kelayakan prasarana dari aspek tata ruang,\ngeografis, dan ekologis;\nb. kelayakan potensi calon mahasiswa;\nc. ketersediaan pendidik dan tenaga\nkependidikan;\nd. kemampuan pembiayaan;\ne. kebutuhan PTK untuk mendukung\npembangunan; dan\nf. kelayakan sosial dan budaya.\n(2) Selain harus memenuhi persyaratan sebagaimana\ndimaksud pada ayat (1), pendirian PTK harus\nmelampirkan rencana induk pengembangan PTK.\n(3) Ketentuan lebih lanjut mengenai persyaratan\npendirian dan rencana induk pengembangan PTK\nsebagaimana dimaksud pada ayat (1) dan ayat (2)\ndiatur dengan Peraturan Menteri."
+   }
+  },
+  {
+   "id": "ID-H2794-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\n(1) Pendirian PTKS yang berbentuk universitas,\ninstitut, sekolah tinggi, dan akademi sebagaimana\ndimaksud dalam Pasal 13 ayat (21 dan ayat (3)\nharus memperoleh izin Menteri.\n(2) Pendirian PTKS yang berbentuk universitas atau\ninstitut sebagaimana dimaksud pada ayat (1) harus\nmemperoleh rekomendasi dari Menteri.\n(3) Izin pendirian PTKS sebagaimana dimaksud pada\nayat (1) diberikan dengan mengajukan\npermohonan.\n(4) Permohonan\nPRES I DEN\nREPUBLIK INDONESIA\n_12_\n(4) Permohonan izin pendirian PTKS sebagaimana\ndimaksud pada ayat (3) diajukan oleh Badan\nPenyelenggara kepada Menteri dengan\nmelampirkan dokumen persyaratan pendirian PTKS\nsebagaimana dimaksud dalam Pasal 15.\n(5) Dalam hal permohonan pendirian PTKS\nsebagaimana dimaksud pada ayat (3) memenuhi\npersyaratan, Menteri memberikan izin pendirian\nPTKS.\n(6) Ketentuan lebih lanjut mengenai tata cara\npendirian PTKS diatur dengan Peraturan Menteri."
+   }
+  },
+  {
+   "id": "ID-H2794-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\n(1) PTK yang berbentuk Universitas atau institut dapat\nmenyelenggarakan Program Studi rumpun ilmu\nlain, selain rumpun ilmu agama.\n(2) Penyelenggaraan Program Studi rumpun ilmu lain,\nselain rumpun ilmu agama setelah mendapatkan\ntzin dan menteri yang menyelenggarakan urusan\npemerintahan di bidang pendidikan tinggi.\n(3) Penyelenggaraan Program Studi rumpun ilmu lain\nsebagaimana dimaksud pada ayat (1) jumlahnya\ntidak lebih banyak dari Program Studi rumpun\nilmu agama."
+   }
+  },
+  {
+   "id": "ID-H2794-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\n(1) Pendirian PTKS berbentuk ma'had aly, pasraman,\nseminari, dan bentuk lain yang sejenis\nsebagaimana dimaksud dalam Pasal 13 ayat (3)\ndilakukan dengan izin Menteri.\n(2) Izin pendirian PTKS sebagaimana dimaksud pada\nayat (1) dilakukan dengan mengajukan\npermohonan.\n(3) Permohonan\nPRES I DEN\nREPUBLIK INDONESIA\n(3) Permohonan izin pendirian PTKS sebagaimana\ndimaksud pada ayat (21 diajukan oleh pemrakarsa\nsesuai dengan persyaratan dan tata cara yang\nditetapkan oleh Menteri.\n(4) Ketentuan lebih lanjut mengenai pendirian dan\npenyelenggaraan ma'had aly, pasraman, seminari,\ndan bentuk lain yang sejenis diatur dengan\nPeraturan Menteri.\nParagraf 2\nPerubahan Bentuk dan Perubahan Status Perguruan Tinggi Keagamaan"
+   }
+  },
+  {
+   "id": "ID-H2794-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\n(1) Pemerintah dapat mengubah PTKN yang berbentuk\nakademi, sekolah tinggi, institut, dan universitas\nsesuai dengan kebutuhan.\n(2) Perubahan bentuk PTKN dari akademi menjadi\nsekolah tinggi sebagaimana dimaksud pada ayat (1)\nditetapkan dengan Peraturan Menteri setelah\nmendapat pertimbangan tertulis dari menteri yang\nmenyelenggarakan urusan pemerintahan di bidang\naparatur negara.\n(3) Perubahan bentuk PTKN dari sekolah tinggi\nmenjadi institut dan dari institut menjadi\nuniversitas sebagaimana dimaksud pada ayat (1)\nditetapkan dengan Peraturan Presiden atas usul\nMenteri setelah mendapat persetujuan tertulis dari\nmenteri yang menyelenggarakan urusan\npemerintahan di bidang aparatur negara."
+   }
+  },
+  {
+   "id": "ID-H2794-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\n(1) Menteri dapat mengubah bentuk PTKS dari sekolah\ntinggi menjadi institut dan/atau dari institut\nmenjadi universitas.\n(2) Perubahan .\nPRES I DEN\nREPUBLIK INDONESIA\n(2) Perubahan bentuk PTKS sebagaimana dimaksud\npada ayat (1) dilakukan melalui permohonan dari\nBadan Penyelenggara kepada Menteri.\n(3) Perubahan bentuk PTKS sebagaimana dimaksud\npada ayat (21 harus memenuhi persyaratan dan\ntata cara yang ditetapkan oleh Menteri."
+   }
+  },
+  {
+   "id": "ID-H2794-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\n(1\n(2\nPTKS dapat berubah status menjadi PTKN.\nDalam hal PTKS berubah statusnya menjadi PTKN,\nsemua kekayaan PTKS menjadi milik negara.\nDosen dan tenaga kependidikan pada PTKS yang\ntelah berubah menjadi PTKN diatur sesuai dengan\nketentuan peraturan perundang-undangan di\nbidang kepegawaian.\n(3)\nParagraf 3\nPembubaran"
+   }
+  },
+  {
+   "id": "ID-H2794-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\n(1) Pemerintah dapat membubarkan PTKN yang\nberbentuk universitas, institut, sekolah tinggi, dan\nakademi sesuai dengan kebutuhan.\n(2) Pembubaran PTKN yang berbentuk universitas dan\ninstitut ditetapkan dengan Peraturan Presiden\nsetelah mendapat pertimbangan tertulis dari\nmenteri yang menyelenggarakan urusan\npemerintahan di bidang aparatur Negara.\n(3) Pembubaran PTKN yang berbentuk sekolah tinggi,\ndan akademi ditetapkan dengan Peraturan Menteri\nsetelah mendapat pertimbangan tertulis dari\nmenteri yang menyelenggarakan urusan\npemerintahan di bidang aparatur Negara."
+   }
+  },
+  {
+   "id": "ID-H2794-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\nPembubaran PTKN sebagaimana dimaksud dalam Pasal\n22 dllak:ukan dengan alasan:\na. perubahan .\nPRES I DEN\nREPUBLIK INDONESIA\na. perubahan kebijakan Pemerintah\nperaturan perundang-undangan ;\nb. tidak memenuhi persyaratan sebagai\ntinggi; dan/atau\nc. dikenai sanksi administratif berat.\ndan/atau\nperguruan\nPasal24\nMenteri mencabut rzin PTKS yang tidak memenuhi\npersyaratan sebagai perguruan tinggi."
+   }
+  },
+  {
+   "id": "ID-H2794-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\nKetentuan lebih lanjut mengenai persyaratan dan tata\ncara perubahan bentuk PTKN dan PTKS sebagaimana\ndimaksud dalam Pasal 19 dan Pasal 20, perubahan\nstatus PTKS menjadi PTKN sebagaimana dimaksud\ndalam Pasal 21, pembubaran PTKN sebagaimana\ndimaksud dalam Pasal 22, dan pencabutan rzin PTKS\nsebagaimana dimaksud dalam Pasal 24 diatur dengan\nPeraturan Menteri.\nBagian Keempat\nPenyelenggaraan Program Pendidikan"
+   }
+  },
+  {
+   "id": "ID-H2794-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\n(1) Program Pendidikan pada PTK diselenggarakan oleh\nfakultas, jurusan, dan Program Studi.\n(2) Fakultas sebagaimana dimaksud pada ayat (1)\ndapat dibentuk apabila memenuhi sejumlah\njurusan dalam 1 (satu) atau beberapa bidang ilmu.\n(3) Jurusan sebagaimana dimaksud pada ayat (1)\ndapat dibentuk apabila memenuhi sejumlah\nProgram Studi dalam 1 (satu) bidang ilmu.\n(4) Program . .\nPRES I DEN\nREPUBLIK INDONESIA\n-t6-\n(4) Program Studi sebagaimana dimaksud pada ayat\n(1) dapat dibentuk untuk 1 (satu) cabang ilmu\ntertentu apabila telah memiliki bangunan keilmuan\nsecara epistimologis dan berbeda dari cabang ilmu\nlainnya.\n(5) Pembidangan atau perumpunan ilmu ke dalam\nfakultas, jurusan, dan Program Studi menjadi\ndasar bagi pemberian gelar akademik.\n(6) Ketentuan lebih lanjut mengenai pembentukan\nfakultas, jurusan, dan Program Studi sebagaimana\ndimaksud pada ayat(2), ayat (3), dan ayat (4) diatur\ndengan Peraturan Menteri."
+   }
+  },
+  {
+   "id": "ID-H2794-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\n(1) Program Studi sebagaimana dimaksud dalam Pasal\n26 ayat (4) diselenggarakan atas izin Menteri\nsetelah memenuhi kriteria akreditasi yang\nditetapkan oleh Badan Akreditasi Nasional\nPerguruan Tinggi.\n(2) Program Studi sebagaimana dimaksud pada ayat\n(1) memiliki kurikulum yang menjadi karakteristik\nprogram studi."
+   }
+  },
+  {
+   "id": "ID-H2794-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\n( 1) Program Studi dalam rumpun ilmu humaniora,\nsosial, alam, formal, dan terapan yang\ndiselenggarakan oleh PTK harus memperoleh izin\ndari menteri yang menyelenggarakan urusan\npemerintahan di bidang pendidikan tinggi.\n(2) Program studi dalam rumpun ilmu agama yang\ndiselenggarakan oleh perguruan tinggi yang dibina\noleh selain Kementerian harus memperoleh tzin\ndari Menteri.\n(3) Ketentuan\nPRES IDEN\nREPUBLIK INDONESIA\n-t7-\n(3) Ketentuan lebih lanjut mengenai tata cara\npemberian izin penyelenggaraan Program Studi\nilmu agama sebagaimana dimaksud pada ayat (21\ndiatur dengan Peraturan Menteri.\nBagian Kelima\nKurikulum"
+   }
+  },
+  {
+   "id": "ID-H2794-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\nKurikulum Pendidikan Tinggi Keagamaan memuat\nseperangkat rencana dan pengaturan mengenai tujuan,\nisi, dan bahan ajar serta cara yang digunakan sebagai\npedoman penyelenggaraan kegiatan pembelajaran untuk\nmencapai tujuan Pendidikan Tinggi Keagamaan."
+   }
+  },
+  {
+   "id": "ID-H2794-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\n(1) Kurikulum Pendidikan Tinggi Keagamaan untuk\nsetiap Program Studi di PTK, ditetapkan dan\ndikembangkan oleh satuan PTK masing-masing\ndengan mengacu pada Standar Nasional\nPendidikan Tinggi untuk setiap Program Studi yang\nmencakup pengembangan kecerdasan intelektual,\nakhlak mulia, dan keterampilan.\n(2) Kurikulum Pendidikan Tinggi Keagamaan\nsebagaimana dimaksud pada ayat (1) dilaksanakan\ndengan berbasis kompetensi.\n(3) Kompetensi sebagaimana dimaksud pada ayat (21\nmeliputi:\na. kompetensi utama;\nb. kompetensi pendukung; dan\nc. kompetensi lain.\n(4) Ketentuan .\nPRES IDEN\nREPUBLIK INDONESIA\n_18_\n(4) Ketentuan lebih lanjut mengenai kurikulum\nPendidikan Tinggi Keagamaan sebagaimana\ndimaksud pada ayat (1), ayat (2), dan ayat (3) diatur\ndengan Peraturan Menteri.\nBagian Keenam\nGelar, ljazah, dan Sertifikat Profesi"
+   }
+  },
+  {
+   "id": "ID-H2794-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\n(1) Gelar yang diperoleh di PTK harus menggunakan\nbahasa Indonesia.\n(21 Penulisan gelar yang diperoleh dari PTK harus\nmengikuti kaidah bahasa Indonesia.\n(3) Gelar yang diperoleh dari perguruan tinggi luar\nnegeri digunakan sesuai dengan cara penulisan\ndan penempatan yang berlaku di negara asal.\n(41 Ketentuan lebih lanjut mengenai sebutan gelar dan\ntata cara penulisan gelar sebagaimana dimaksud\npada ayat (1), ayat (2), dan ayat (3) diatur dengan\nPeraturan Menteri."
+   }
+  },
+  {
+   "id": "ID-H2794-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 32\n(1) Ijazah diberikan kepada mahasiswa yang telah\nmenyelesaikan proses pembelajaran dalam suatu\nprogram pendidikan dan dinyatakan lulus oleh PTK\nyang bersangkutan sesuai dengan ketentuan\nperaturan perundang-undangan.\n(2) Ijaza}:, sebagaimana dimaksud pada ayat (1) wajib\nditulis dalam bahasa Indonesia.\n(3) ljazah sebagaimana dimaksud pada ayat (1) harus\ndilampiri Surat Keterangan Pendamping ljazah."
+   }
+  },
+  {
+   "id": "ID-H2794-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 33\nPRES IDEN\nREPUBLIK INDONESIA\n-t9-\nPasal 33\n(1) Surat Keterangan Pendamping ljazah sebagaimana\ndimaksud dalam Pasal 32 ayat (3) diterbitkan oleh\nPTK yang memberikan rjazah pendidikan akademik,\nvokasi, dan profesi.\n(21 Surat Keterangan Pendamping ljazah sebagaimana\ndimaksud pada ayat (1) harus ditulis dalam bahasa\nIndonesia dan dapat disertai terjemahannya dalam\nbahasa Inggris atau bahasa Arab.\n(3) Surat Keterangan Pendamping ljazah sebagaimana\ndimaksud pada ayat (21 disahkan oleh pimpinan\nPTK."
+   }
+  },
+  {
+   "id": "ID-H2794-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 34\nKetentuan lebih lanjut mengenai format ljazah,\nkesetaraan, dan/atau terjemahan rjazah luar negeri\nsebagaimana dimaksud dalam Pasal 32 dan Pasal 33\ndiatur dengan Peraturan Menteri."
+   }
+  },
+  {
+   "id": "ID-H2794-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 35\n(1)\n(2)\n(s)\nLulusan pendidikan profesi diberi sertifikat profesi.\nSertifikat profesi sebagaimana dimaksud pada ayat\n(1) merupakan bentuk pengakuan untuk\nmelakukan praktik profesi.\nSertifikat profesi sebagaimana dimaksud pada ayat\n(1) diterbitkan oleh PTK bersama dengan\nKementerian, Kementerian Lain, lembaga\npemerintah nonkementerian, dan/atau organisasi\nprofesi."
+   }
+  },
+  {
+   "id": "ID-H2794-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 36\nPRES IDEN\nREPUBLIK INDONESIA\n_20_\nPasal 36\nKetentuan lebih lanjut mengenai bentuk, isi, dan tata\ncara pemberian sertifikat profesi sebagaimana dimaksud\ndalam Pasal 35 diatur dengan Peraturan Menteri.\nBAB III\nPENGELOLAAN PERGURUAN TINGGI KEAGAMAAN\nBagian Kesatu\nUmum"
+   }
+  },
+  {
+   "id": "ID-H2794-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kesatu"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 37\nPengelolaan PTK meliputi\na. otonomi PTK;\nb. pola pengelolaan PTK;\nc. tata kelola PTK; dan\nd. akuntabilitas publik.\nBagian Kedua\nOtonomi Perguruan Tinggi Keagamaan"
+   }
+  },
+  {
+   "id": "ID-H2794-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 38\n(1) PTK memiliki otonomi untuk mengelola sendiri\nlembaganya sebagai pusat penyelenggaraan\nTridharma.\n(2) PTK sebagaimana dimaksud pada ayat (1) meliputi:\na. PTKN;\nb. PTKN Badan Hukum; dan\nc. PTKS.\n(3) Otonomi pengelolaan PTK sebagaimana dimaksud\npada ayat (1) terdiri atas:\na. otonomi di bidang akademik yang meliputi\npenetapan norma dan kebijakan operasional\nserta pelaksanaan:\n1. pendidikan;\n2. penelitian\nPRES I DEN\nREPUBLIK INDONESIA\n2. penelitian; dan\n3. pengabdian kepada masyarakat,\nsesuai dengan ketentuan peraturan perundang-\nundangan.\nb. otonomi di bidang nonakademik yang meliputi\npenetapan norma dan kebijakan operasional\nserta pelaksanaan:\n1. organisasi;\n2. keuangan;\n3. kemahasiswaan;\n4. ketenagaan; dan\n5. sarana prasarana,\nsesuai dengan ketentuan peraturan perundang-\nundangan."
+   }
+  },
+  {
+   "id": "ID-H2794-A39",
+   "no": 39,
+   "noLabel": {
+    "id": "Pasal 39"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 39\nOtonomi pengelolaan pada PTKN meliputi:\na. bidang akademik terdiri atas:\n1. penetapan norma, kebijakan operasional, dan\npelaksanaan pendidikan terdiri atas:\na) persyaratan akademik mahasiswa yang akan\nditerima;\nb) kurikulum dan Program Studi;\nc) proses pembelajaran;\nd) penilaian hasil belajar;\ne) persyaratan kelulusan; dan\n0 wisuda.\n2. penetapan norma, kebijakan operasional, serta\npelaksanaan penelitian dan pengabdian kepada\nmasyarakat.\nb. bidang nonakademik terdiri atas:\n1. penetapan norma, kebijakan operasional, dan\npelaksanaan organisasi terdiri atas:\na) rencana strategis dan rencana kerja tahunan;\ndan\nb) sistem penjaminan mutu internal.\n2. penetapan\nPRES I DEN\nREPUBLIK INDONESIA\n2. penetapan norma, kebijakan operasional, dan\npelaksanaan keuangan terdiri atas:\na) membuat perjanjian dengan pihak ketiga\ndalam lingkup Tridharma; dan\nb) sistem pencatatan dan pelaporan keuangan,\nsesuai dengan ketentuan peraturan perundang-\nundangan.\n3. penetapan norma, kebijakan operasional, dan\npelaksanaan kemahasiswaan terdiri atas:\na) kegiatan kemahasiswaan intrakurikuler dan\nekstrakurikuler;\nb) organisasi kemahasiswaan; dan\nc) pembinaan bakat dan minat mahasiswa.\n4. penetapan norma, kebijakan operasional, dan\npelaksanaan ketenagaan terdiri atas:\na) penugasan dan pembinaan sumber daya\nmanusia; dan\nb) penyusunan target kerja dan jenjang karir\nsumber daya manusia.\n5. penetapan norma, kebijakan operasional, dan\npelaksanaan pemanfaatan sarana dan prasarana\nterdiri atas:\na) penggunaan sarana dan prasarana;\nb) pemeliharaan sarana dan prasarana; dan\nc) pemanfaatan sarana dan prasarana,\nsesuai dengan ketentuan peraturan perundang-\nundangan."
+   }
+  },
+  {
+   "id": "ID-H2794-A40",
+   "no": 40,
+   "noLabel": {
+    "id": "Pasal 40"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 40\n(1) Kekayaan awal PIKN Badan Hukum berasai dari\nkekayaan negara yang dipisahkan kecuali tanah.\n(2) Nilai kekayaan awal sebagaimana dimaksud pada\nayat (1) ditetapkan oleh menteri yang\nmenyelenggarakan urusan pemerintahan di bidang\nkeuangan.\n(3) Penatausahaan\nPRES I DEN\nREPUBLIK INDONESIA\n(3) Penatausahaan pemisahan kekayaan negara untuk\nditempatkan menjadi kekayaan awal PTKN Badan\nHukum diselenggarakan oleh menteri yang\nmenyelenggarakan urusan pemerintahan di bidang\nkeuangan.\n(4) Tanah sebagaimana dimaksud pada ayat (1)\ndibukukan dalam neraca PTKN Badan Hukum\ndengan pengungkapan yang memadai dalam\ncatatan atas laporan keuangan."
+   }
+  },
+  {
+   "id": "ID-H2794-A41",
+   "no": 41,
+   "noLabel": {
+    "id": "Pasal 41"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 41\nOtonomi pengelolaan pada PTKN Badan Hukum\nmeliputi:\na. bidang akademik terdiri atas:\n1. penetapan norma, kebijakan operasional, dan\npelaksanaan pendidikan terdiri atas:\na) persyaratan akademik mahasiswa yang akan\nditerima;\nb) kurikulum dan Program Studi;\nc) proses pembelajaran;\nd) penilaian hasil belajar;\ne) persyaratan kelulusan; dan\n0 wisuda.\n2. penetapan norma, kebijakan operasional, serta\npelaksanaan penelitian dan pengabdian kepada\nmasyarakat.\nb. bidang nonakademik terdiri atas:\n1. penetapan norma, kebijakan operasional, dan\npelaksanaan organisasi terdiri atas:\na) rencana strategis dan operasional;\nb) struktur organisasi dan tata kerja;\nc) sistem pengendalian dan pengawasan\ninternal; dan\nd) sistem penjaminan mutu internal.\n2. penetapan norma, kebijakan operasional, dan\npelaksanaan keuangan terdiri atas:\na) perencanaan.\nPRES IDEN\nREPUBLIK INDONESIA\na) perencanaan dan pengelolaan anggaran\njangka pendek dan jangka panjang;\nb) tarif setiap jenis layanan pendidikan;\nc) penerimaan, pembelanjaan, dan pengelolaan\nuang;\nd) melakukan investasi jangka pendek dan\njangka panjang sesuai dengan ketentuan\nperaturan perundan g-undan gan ;\ne) membuat perjanjian dengan pihak ketiga\ndalam lingkup Tridharma;\n0 memiliki utang dan piutang jangka pendek\ndan jangka panjang; dan\ng) sistem pencatatan dan pelaporan keuangan.\n3. penetapan norma, kebijakan operasional, dan\npelaksanaan ketenagaan terdiri atas:\na) kegiatan kemahasiswaan intrakurikuler dan\nekstrakurikuler;\nb) organisasi kemahasiswaan; dan\nc) pembinaan bakat dan minat mahasiswa.\n4. penetapan norma, kebijakan operasional, dan\npelaksanaan keten agaar, terdiri atas :\na) persyaratan dan prosedur penerimaan\nsumber daya manusia;\nb) penugasan, pembinaan, dan pengembangan\nsumber daya manusia;\nc) penyusunan target kerja dan jenjang karir\nsumber daya manusia; dan\nd) pemberhentian sumber daya manusia.\n5. penetapan norma, kebijakan operasional, dan\npelaksanaan sarana prasarana terdiri atas:\na) pemilikan sarana dan prasarana;\nb) penggunaan sarana dan prasarana;\nc) pemanfaatan sarana dan prasarana; dan\nd) pemeliharaan sarana dan prasarana.\nPasal42.\nPRES I DEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H2794-A42",
+   "no": 42,
+   "noLabel": {
+    "id": "Pasal 42"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 42\nOtonomi pengelolaan pada PTKS termasuk yang\nberbentuk ma'had aly, pasraman, seminari, dan bentuk\nlain yang sejenis diatur oleh Badan Penyelenggara\nsesuai dengan ketentuan peraturan perundang-\nundangan.\nBagian Ketiga\nPola Pengelolaan Perguruan Tinggi Keagamaan"
+   }
+  },
+  {
+   "id": "ID-H2794-A43",
+   "no": 43,
+   "noLabel": {
+    "id": "Pasal 43"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 43\n(1) Pola pengelolaan PTKN terdiri atas:\na. PTKN dengan pola pengelolaan keuangan\nnegara pada umumnya;\nb. PTKN dengan pola pengelolaan keuangan badan\nlayanan umum; atau\nc. PTKN badan hukum.\n(2) Penetapan dan perubahan pola pengelolaan\nkeuangan PTKN sebagaimana dimaksud pada ayat\n(1) dilakukan berdasarkan evaluasi kinerja oleh\nMenteri terhadap PTKN.\n(3) Penetapan PTKN dengan pola pengelolaan\nkeuangan badan layanan umum sebagaimana\ndimaksud pada ayat (1) huruf b dilakukan dengan\npenetapan menteri yang menyelenggarakan urusan\npemerintahan di bidang keuangan atas usul\nMenteri.\n(41 Penetapan PIKN badan hukum sebagaimana\ndimaksud pada ayat (1) huruf c dilakukan dengan\nPeraturan Pemerintah.\n(5) Evaluasi kinerja terhadap PTKN sebagaimana\ndimaksud pada ayat (2) dilakukan oleh tim\nindependen yang dibentuk oleh dan bertanggung\njawab kepada Menteri.\n(6) Ketentuan\nPRES IDEN\nREPUBLIK INDONESIA\n(6) Ketentuan mengenai kriteria dan prosedur evaluasi\nkinerja terhadap PTKN sebagaimana dimaksud\npada ayat (4) diatur dengan Peraturan Menteri.\nPasal44\nPola pengelolaan keuangan PTKS termasuk yang\nberbentuk ma'had aly, pasraman, seminari, dan bentuk\nlain yang sejenis ditetapkan oleh Badan Penyelenggara\nsesuai dengan ketentuan peraturan perundang-\nundangan.\nBagian Keempat\nTata Kelola Perguruan Tinggi Keagamaan\nParagraf 1\nOrganisasi Penyelenggara Perguruan Tinggi Keagamaan"
+   }
+  },
+  {
+   "id": "ID-H2794-A45",
+   "no": 45,
+   "noLabel": {
+    "id": "Pasal 45"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 45\n(1) Organisasi penyelenggara merupakan unit kerja\nPTK yang secara bersama melaksanakan kegiatan\nTridharma dan fungsi manajemen sumber daya.\n(2) Organisasi penyelenggara PTK sebagaimana\ndimaksud pada ayat (1) paling sedikit terdiri atas\nunsur:\na. penyusun kebijakan;\nb. pelaksana akademik;\nc. pengawas dan penjaminan mutu;\nd. penunjang akademik atau sumber belajar; dan\ne. pelaksana administrasi atau tata usaha.\nParagraf 2\nOrgan dan Tata Kelola Perguruan Tinggi Keagamaan Negeri"
+   }
+  },
+  {
+   "id": "ID-H2794-A46",
+   "no": 46,
+   "noLabel": {
+    "id": "Pasal 46"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 46\nOrgan penyelenggara PTKN paling sedikit terdiri atas:\na. senat;\nb. pemimpin .\nPRES I DEN\nREPUBLIK INDONESIA\nb. pemimpin;\nc. satuan pengawas internal; dan\nd. dewan penyantun atau nama lain"
+   }
+  },
+  {
+   "id": "ID-H2794-A47",
+   "no": 47,
+   "noLabel": {
+    "id": "Pasal 47"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 47\n(1) Senat sebagaimana dimaksud dalam Pasal 46\nhuruf a merupakan unsur penyusun kebijakan\nsebagaimana dimaksud dalam Pasal 45 ayat (2)\nhuruf a yang menjalankan fungsi penetapan dan\npertimbangan pelaksanaan kebijakan akademik.\n(2) Senat sebagaimana dimaksud pada ayat (1)\nmemiliki anggota wakil dari dosen yang mewakili\nbidang ilmu agama dan/atau bidang ilmu lain yang\ndikembangkan di PTKN."
+   }
+  },
+  {
+   "id": "ID-H2794-A48",
+   "no": 48,
+   "noLabel": {
+    "id": "Pasal 48"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 48\n(1) Pemimpin sebagaimana dimaksud dalam Pasal 46\nhuruf b merupakan unsur pelaksana akademik\nsebagaimana dimaksud dalam Pasal 45 ayat (2)\nhuruf b yang menjalankan kebijakan akademik\nserta menetapkan dan menjalankan kebijakan\nnonakademik dalam pengelolaan PTKN.\n(21 Pemimpin sebagaimana dimaksud pada ayat (1)\ndiangkat dan diberhentikan oleh Menteri."
+   }
+  },
+  {
+   "id": "ID-H2794-A49",
+   "no": 49,
+   "noLabel": {
+    "id": "Pasal 49"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 49\n(1) Pemimpin sebagaimana dimaksud dalam Pasal 48\ndibantu oleh paling sedikit 2 (dua) orang, terdiri\natas:\na. wakil pemimpin bidang akademik; dan\nb. wakil pemimpin bidang nonakademik\n(2) Wakil pemimpin PTKN sebagaimana dimaksud\npada ayat (1) diangkat dan diberhentikan oleh\npemimpin PTKN."
+   }
+  },
+  {
+   "id": "ID-H2794-A50",
+   "no": 50,
+   "noLabel": {
+    "id": "Pasal 50"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 50\n(1) Satuan pengawas internal sebagaimana dimaksud\ndalam Pasal 46 huruf c merupakan unsur\npengawas sebagaimana dimaksud dalam Pasal 45\nayat (2) huruf c yang menjalankan fungsi\npengawasan nonakademik untuk dan atas nama\nPemimpin PTKN.\n(2) Satuan pengawas internal sebagaimana dimaksud\npada ayat (1) dapat menjalankan fungsi\npengawasan kinerja.\n(3) Fungsi pengawasan kinerja sebagaimana dimaksud\npada ayat (21wajib diatur dalam statuta PTKN.\n(41 Satuan pengawas internal sebagaimana dimaksud\npada ayat (1) paling sedikit memiliki anggota yang\nmenguasai:\na. pencatatan dan pelaporan keuangan;\nb. tata kelola perguruan tinggi;\nc. peraturan perundang-undangan di bidang\nPendidikan Tinggi Keagamaan; dan\nd. pengelolaan barang milik negara."
+   }
+  },
+  {
+   "id": "ID-H2794-A51",
+   "no": 51,
+   "noLabel": {
+    "id": "Pasal 51"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 51\nKetentuan mengenai unsur penjaminan mutu, unsur\npenunjang akademik atau sumber belajar, dan unsur\npelaksana administrasi atau tata usaha sebagaimana\ndimaksud dalam Pasal 45 ayat (2) huruf c, huruf d, dan\nhuruf e, serta unsur lain yang menjalankan fungsi\nkomplementer diatur dengan Peraturan Menteri."
+   }
+  },
+  {
+   "id": "ID-H2794-A52",
+   "no": 52,
+   "noLabel": {
+    "id": "Pasal 52"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 52\n(1) Dewan penyantun atau nama lain sebagaimana\ndimaksud dalam Pasal 46 huruf d menjalankan\nfungsi pertimbangan nonakademik dan fungsi lain\nyang ditetapkan dalam statuta.\n(2) Dewan\nPRES I DEN\nREPUBLIK INDONESIA\n(2) Dewan Penyantun atau nama lain sebagaimana\ndimaksud pada ayat (1) paling sedikit memiliki\nanggota yang memiliki:\na. komitmen untuk memajukan perguruan tinggi;\ndan\nb. pengalaman mengelola perguruan tinggi."
+   }
+  },
+  {
+   "id": "ID-H2794-A53",
+   "no": 53,
+   "noLabel": {
+    "id": "Pasal 53"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 53\n(1) Organ penyelenggara PTKN sebagaimana dimaksud\ndalam Pasal 46 sampai dengan Pasal 52\nmenjalankan fungsi masing-masing dengan saling\nmenilik dan mengimbangi satu terhadap yang lain.\n(2) Ketentuan lebih lanjut mengenai organisasi\npenyelenggara PTKN sebagaimana dimaksud dalam\nPasal 46 sampai dengan pasal 52 diatur dengan\nPeraturan Menteri.\nParagraf 3\nOrgan dan Tata Kelola Perguruan Tinggi Keagamaan Negeri Badan Hukum"
+   }
+  },
+  {
+   "id": "ID-H2794-A54",
+   "no": 54,
+   "noLabel": {
+    "id": "Pasal 54"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 54\nOrgan penyelenggara PTKN Badan Hukum paling sedikit\nterdiri atas:\na. majelis wali amanat sebagai unsur penyusun\nkebijakan sebagaimana dimaksud dalam Pasal 45\nayat (21huruf a yang menjalankan fungsi penetapan,\npertimbangan pelaksanaan kebijakan rlmum, dan\npengawasan nonakademik;\nb. pemimpin PTKN sebagai unsur pelaksana akademik\nsebagaimana dimaksud dalam Pasal 45 ayat (2)\nhuruf b yang menjalankan fungsi Pengelolaan PTK\ndan bertanggung jawab kepada wali amanat; dan\nc. senat akademik yang menjalankan fungsi penetapan\nkebijakan, peffiberian pertimbangan, dan\npengawasan di bidang akademik."
+   }
+  },
+  {
+   "id": "ID-H2794-A55",
+   "no": 55,
+   "noLabel": {
+    "id": "Pasal 55"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 55\n(1) Majelis wali amanat sebagaimana dimaksud dalam\nPasal 54 huruf a membentuk komite audit atau\nnama lain sebagai unsur pengawas sebagaimana\ndimaksud dalam Pasal 45 ayat (2) huruf c, untuk\nmenjalankan fungsi pengawasan nonakademik.\n(2) Majelis wali amanat dapat memiliki anggota yang\nberasal dari:\na. unsur Pemerintah;\nb. unsur dosen;\nc. unsur masyarakat; dan\nd. unsur lain."
+   }
+  },
+  {
+   "id": "ID-H2794-A56",
+   "no": 56,
+   "noLabel": {
+    "id": "Pasal 56"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 56\nPemimpin PTKN sebagaimana dimaksud dalam Pasal 54\nhuruf b dibantu oleh paling sedikit 2 (dua) orang terdiri\natas:\na. wakil pemimpin bidang akademik; dan\nb. wakil pemimpin bidang nonakademik."
+   }
+  },
+  {
+   "id": "ID-H2794-A57",
+   "no": 57,
+   "noLabel": {
+    "id": "Pasal 57"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 57\nSenat akademik sebagaimana dimaksud dalam Pasal 54\nhuruf c memiliki anggota wakil dari dosen yang\nmewakili bidang ilmu agama dan/atau bidang ilmu lain\nyang dikembangkan di PTKN."
+   }
+  },
+  {
+   "id": "ID-H2794-A58",
+   "no": 58,
+   "noLabel": {
+    "id": "Pasal 58"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 58\nUnsur pengawas dan penjaminan mutu, unsur\npenunjang akademik atau sumber belajar, dan unsur\npelaksana administrasi atau tata usaha sebagaimana\ndimaksud dalam Pasal 45 huruf c, huruf d, dan huruf e\ndi dalam organisasi penyelenggara PTKN Badan Hukum,\nserta organ lain yang menjalankan fungsi komplementer\nditetapkan dalam statuta masing-masing PTKN Badan\nHukum."
+   }
+  },
+  {
+   "id": "ID-H2794-A59",
+   "no": 59,
+   "noLabel": {
+    "id": "Pasal 59"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 59\nParagraf 4\nOrgan dan Tata Kelola Perguruan Tinggi Keagamaan Swasta"
+   }
+  },
+  {
+   "id": "ID-H2794-A61",
+   "no": 61,
+   "noLabel": {
+    "id": "Pasal 61"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 61\nPRES I DEN\nREPUBLIK INDONESIA\nPasal 59\nKomite audit sebagaimana dimaksud dalam Pasal 55\nayat (1) paling sedikit memiliki anggota yang menguasai:\na. pencatatan dan pelaporan keuangan;\nb. tata kelola PTKN;\nc. peraturan perundang-undangan di bidang\nPendidikan Tinggi Keagamaan; dan\nd. pengelolaan barang milik negara.\nPasal 60\n(1) Organ penyelenggara PTKN Badan Hukum\nsebagaimana dimaksud dalam Pasal 54 sampai\ndengan Pasal 59 menjalankan fungsi masing-\nmasing dengan saling menilik dan mengimbangi\nsatu terhadap yang lain.\n(2) Ketentuan lebih lanjut mengenai organisasi\npenyelenggara PTKN Badan Hukum sebagaimana\ndimaksud dalam Pasal 54 sampai dengan Pasal 59\ndiatur dalam Statuta PTKN Badan Hukum.\n(1) Organ PTKS serta ma'had aly, pasraman, seminari,\ndan bentuk lain yang sejenis ditetapkan oleh Badan\nPenyelenggara sesuai dengan ketentuan peraturan\nperundang-undangan.\n(2) Ketentuan mengenai organisasi dan tata kelola\nPTKS serta ma'had aly, pasraman, seminari, dan\nbentuk lain yang sejenis sebagaimana dimaksud\npada ayat (1) diatur dalam statuta PTKS dan\nditetapkan dengan peraturan Badan Penyelenggara\nsesuai dengan ketentuan peraturan perundang-\nundangan.\nParagraf 5\nPRES I DEN\nREPUBLIK INDONESIA\nParagraf 5\nStatuta"
+   }
+  },
+  {
+   "id": "ID-H2794-A62",
+   "no": 62,
+   "noLabel": {
+    "id": "Pasal 62"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 62\n(1) Statuta PTKN ditetapkan oleh Menteri.\n(2) Statuta PTKN Badan Hukum ditetapkan dalam\nPeraturan Pemerintah.\n(3) Statuta PTKN dan PTKN Badan Hukum\nsebagaimana dimaksud pada ayat (1) dan ayat (2)\npaling sedikit memuat:\na. ketentuan umum;\nb. identitas;\nc. penyelenggaraan Tridharma;\nd. sistem pengelolaan;\ne. sistem penjaminan mutu internal;\nf. bentuk dan tata cara penetapan peraturan;\ng. pendanaan dan kekayaan;\nh. ketentuan peralihan; dan\ni. ketentuan penutup.\n(4\\ Substansi dan sistematika statuta sebagaimana\ndimaksud pada ayat (1) dan ayat (2) disesuaikan\ndengan kebutuhan PTKN dan PTKN Badan Hukum.\n(5) Ketentuan lebih lanjut mengenai tata cara\npenyusunan statuta PTKN dan PTKN Badan\nHukum sebagaimana dimaksud pada ayat (1) dan\nayat (2) diatur dengan Peraturan Menteri.\nBagian Kelima\nAkuntabilitas Publik Perguruan Tinggi Keagamaan"
+   }
+  },
+  {
+   "id": "ID-H2794-A63",
+   "no": 63,
+   "noLabel": {
+    "id": "Pasal 63"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 63\n(1) Akuntabilitas publik PTK diwujudkan melalui\npemenuhan atas:\na. kewajiban menjalankan visi dan misi\nPendidikan Tinggi Keagamaan sesuat rzin WK\ndan izin Program Studi;\nb. target kinerja yang ditetapkan oleh:\n1. Menteri\nPRES IDEN\nREPUBLIK INDONESIA\n1. Menteri bagi PTKN;\n2. majelis wali amanat bagi PTKN Badan\nHukum; atau\n3. Badan Penyelenggara sesuai dengan\nketentuan peraturan perundang-undangan\nbagi PTKS.\nc. Standar Nasional Pendidikan Tinggi melalui\npenerapan sistem penjaminan mutu Pendidikan\nTinggi Keagamaan yang ditetapkan oleh\nMenteri.\n(2) Pemenuhan akuntabilitas publik PTK sebagaimana\ndimaksud pada ayat (1) disusun dalam bentuk\nlaporan tahunan.\n(3) Laporan tahunan sebagaimana dimaksud pada\nayat (2) disampaikan kepada Menteri, senat, atau\nBadan Penyelenggara sesuai dengan kewenangan\nmasing-masing.\n(4) Ringkasan laporan tahunan PTK sebagaimana\ndimaksud pada ayat (3) wajib diumumkan paling\nsedikit dalam 1 (satu) media cetak nasional dan 1\n(satu) media cetak lokal serta dalam situs web PTK.\n(5) Ketentuan mengenai akuntabilitas publik PTK\nsebagaimana dimaksud pada ayat (1) sampai\ndengan ayat (4) diatur dalam statuta PTK.\nBAB IV\nKETENTUAN LAIN-LAIN"
+   }
+  },
+  {
+   "id": "ID-H2794-A64",
+   "no": 64,
+   "noLabel": {
+    "id": "Pasal 64"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 64\n(1) Penilaian dan penetapan angka kredit dari jabatan\nasisten ahli pangkat/golongan penata muda, IIIla,\nsampai dengan lektor, penata tingkat I, \\I I d, dinilai\ndan ditetapkan oleh rektor atau ketua.\n(2) Penilaian. . .\nPRES I DEN\nREPUBLIK INDONESIA\n(2) Penilaian dan penetapan angka kredit jabatan\nlektor kepala pangkatlgolongan pembina, lY la,\nsampai dengan pembina utama muda, IY f c, dan\njabatan profesor pangkat/golongan pembina utama\nmadya, IV/d sampai dengan pembina utama, IV le,\nuntuk rumpun ilmu agama dinilai dan ditetapkan\noleh Menteri.\nBAB V\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H2794-A65",
+   "no": 65,
+   "noLabel": {
+    "id": "Pasal 65"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 65\nPada saat Peraturan Pemerintah ini mulai berlaku,\nsemua peraturan perundang-undangan yang terkait\ndengan penyelenggaraan Pendidikan Tinggi Keagamaan\ndan pengelolaan PTK dinyatakan tetap berlaku\nsepanjang tidak bertentangan dan belum diganti\nberdasarkan Peraturan Pemerintah ini.\nBAB VI\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H2794-A66",
+   "no": 66,
+   "noLabel": {
+    "id": "Pasal 66"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 66\nSemua peraturan pelaksanaan dari Peraturan\nPemerintah ini harus ditetapkan paling larna 2 (dua)\ntahun terhitung sejak Peraturan Pemerintah ini\ndiundangkan."
+   }
+  },
+  {
+   "id": "ID-H2794-A67",
+   "no": 67,
+   "noLabel": {
+    "id": "Pasal 67"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 67\nPeraturan Pemerintah ini mulai berlaku pada tanggal\ndiundangkan.\nAgar\nPRES IDEN\nREPUBLIK INDONESIA\nAgar setiap orang mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan\npenempatannya dalam Lembaran Negara Republik\nInd\nDitetapkan di Jakarta\npada tanggal 3 Juli 2OI9\nPRESIDEN REPUBLIK INDONESIA,\nJOKO WIDODO\nDiundangkan di Jakarta\npada tanggal 8 Juli 2Ol9\nMENTERI HUKUM DAN HAK ASASI MANUSIA\nREPUBLIK INDONESIA,\nYASONNA H. LAOLY\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2OI9 NOMOR 120\nSalinan sesuai dengan aslinya\nKEMENTERIAN SEKRETARIAT NEGARA\nREPUBLIK INDONESIA\nti Bidang Hukum dan\ndang-undangan,\nttd\nttd\nvanna Djaman\nPRESIDEN\nREPUBLIK INDONESIA\nPENJELASAN\nATAS\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nNOMOR 46 TAHUN 2OT9\nTENTANG\nPENDIDIKAN TINGGI KEAGAMAAN\nI. UMUM\nPendidikan Tinggi Keagamaan merupakan jenjang Pendidikan Tinggi\nsetelah pendidikan menengah yang bertujuan mengembangkan\npotensi mahasiswa untuk mengkaji ilmu agama yang berwawasan\nintegrasi ilmu, memiliki kekuatan spiritual keagamaan, pengendalian\ndiri, kepribadian, kecerdasan, akhlak mulia, serta keterampilan yang\ndiperlukan dirinya, masyarakat, bangsa, dan negara.\nMisi utama PIK adalah mencari, menemukan, menyebarluaskan, dan\nmenjunjung tinggi kebenaran. Agar misi tersebut dapat diwujudkan,\nmaka perguruan tinggi sebagai penyelenggara Pendidikan Tinggi harus\nbebas dari pengaruh, tekanan, dan kontaminasi apapun seperti\nkekuatan politik dan/atau kekuatan ekonomi, sehingga Tridharma\nPerguruan Tinggi, yaitu pendidikan, penelitian, dan pengabdian\nkepada masyarakat dapat dilaksanakan berdasarkan kebebasan\nakademik dan otonomi keilmuan.\nT\\rgas utama negara di dalam penyelenggaraan Pendidikan Tinggi\nadalah menjamin mutu Pendidikan Tinggi sehingga kepentingan\nmasyarakat tidak dirugikan. Sedangkan tugas utama negara dalam\npengelolaan perguruan tinggi adalah untuk menjamin agar otonomi\nperguruan tinggi dapat diwujudkan.\nBerdasarkan . . .\nPRES I DEN\nREPUBLIK INDONESIA\nBerdasarkan kerangka berpikir di atas, Peraturan Pemerintah ini\ndirancang dan ditetapkan untuk mengatur tugas dan wewenang serta\npelaksanaan tugas negara tersebut oleh Pemerintah.\nII. PASAL DEMI PASAL\nPasal 1\nCukup jelas.\nPasal 2\nCukup jelas.\nPasal 3\nCukup jelas.\nPasal 4\nCukup jelas.\nPasal 5\nCukup jelas.\nPasal 6\nCukup jelas.\nPasal 7\nCukup jelas.\nPasal 8\nCukup jelas.\nPasal 9\nCukup jelas.\nPasal 10\nCukup jelas.\nPasal 1 1\nCukup jelas.\nPasal 12\nCukup jelas.\nPasal 13\nPRES IDEN\nREPUBLIK INDONESIA\nPasal 13\nCukup jelas.\nPasal 14\nCukup jelas.\nPasal 15\nCukup jelas.\nPasal 16\nCukup jelas.\nPasal 17\nCukup jelas.\nPasal 18\nCukup jelas.\nPasal 19\nCukup jelas.\nPasal 20\nCukup jelas.\nPasal 21\nCukup jelas.\nPasal 22\nCukup jelas.\nPasal 23\nCukup jelas.\nPasal24\nCukup jelas.\nPasal 25\nCukup jelas.\nPasal 26\nCukup jelas.\nPasal 27\nCukup jelas.\nPasal 28\nPRES IDEN\nREPUBLIK INDONESIA\nPasal 28\nCukup jelas.\nPasal 29\nCukup jelas.\nPasal 30\nAyat (1)\nCukup jelas.\nAyat (2)\nYang dimaksud dengan \"kurikulum Pendidikan Tinggi\nKeagamaan berbasis kompetensi\" adalah kurikulum yang\nmenekankan pada pengembangan kemampuan melakukan\ntugas-tugas dengan standar performansi tertentu untuk\nmengembangkan pengetahuan, pemahaman, kemampuan,\nnilai, sikap, dan minat mahasiswa agar dapat melakukan\nsesuatu dengan mahir, tepat, berhasil, dan penuh tanggung\njawab.\nAyat (3)\nCukup jelas.\nAyat (a)\nCukup jelas.\nPasal 31\nCukup jelas.\nPasal 32\nAyat (1)\nCukup jelas.\nAyat (2)\nCukup jelas.\nAyat (3)\nPRES I DEN\nREPUBLIK INDONESIA\nAyat (3)\nYang dimaksud dengan \"Surat Keterangan Pendamping\nIjazah\" adalah penjelasan mengenai kompetensi dan capaian\npembelajaran peserta didik baik dalam maupun di luar\nProgram Studi.\nPasal 33\nCukup jelas.\nPasal 34\nCukup jelas.\nPasal 35\nCukup jelas.\nPasal 36\nCukup jelas.\nPasal 37\nCukup jelas.\nPasal 38\nAyat (1)\nCukup jelas.\nAyat (2)\nCukup jelas.\nAyat (3)\nHuruf a\nCukup jelas.\nHuruf b\nAngka 1\nCukup jelas.\nAngka 2\nCukup jelas.\nAngka 3\nCukup jelas.\nAngka 4\nPasal 39\nCukup jelas.\nPasal 40\nCukup jelas.\nPasal 41\nCukup jelas.\nPasal 42\nCukup jelas.\nPasal 43\nCukup jelas.\nPasal 44\nCukup jelas.\nPasal 45\nCukup jelas.\nPasal 46\nCukup jelas.\nPasal 47\nCukup jelas.\nPasal 48\nCukup jelas.\nPasal 49\nCukup jelas.\nPasal 50\nCukup jelas.\nPRES I DEN\nREPUBLIK INDONESIA\nAngka 4\nYang dimaksud dengan \"ketenagaan\" terdiri atas\ndosen dan tenaga kependidikan.\nAngka 5\nCukup jelas.\nPasal 51\nPRES I DEN\nREPUBLIK INDONESIA\nPasal 51\nCukup jelas.\nPasal 52\nCukup jelas.\nPasal 53\nCukup jelas.\nPasal 54\nCukup jelas.\nPasal 55\nCukup jelas.\nPasal 56\nCukup jelas.\nPasal 57\nCukup jelas.\nPasal 58\nCukup jelas.\nPasal 59\nCukup jelas.\nPasal 60\nCukup jelas.\nPasal 61\nCukup jelas.\nPasal 62\nCukup jelas.\nPasal 63\nCukup jelas.\nPasal 64\nCukup jelas.\nPasal 65\nCukup jelas.\nPasal 66\nPRES I DEN\nREPUBLIK INDONESIA\nPasal 66\nCukup jelas.\nPasal 67\nCukup jelas.\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR"
+   }
+  }
+ ]
+}

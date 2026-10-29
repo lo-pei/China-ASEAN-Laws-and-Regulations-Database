@@ -1,0 +1,62 @@
+{
+ "id": "PH-H15814",
+ "title": {
+  "zh": null,
+  "en": "An Act to Regulate the Commercial Use of Airplanes Operated By Aviation Schools and By Companies Holding a Franchise.",
+  "orig": "An Act to Regulate the Commercial Use of Airplanes Operated By Aviation Schools and By Companies Holding a Franchise."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1936-10-27",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 97",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 640,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00097_1936_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00097_1936_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H15814-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Aviation schools duly recognized by the Government of the Philippines and air service\ncompanies operating under a franchise duly granted may be issued a permit by the Secretary of Public Works\nand Communications to rent their airplanes for purposes of air photography, land survey or exploration,\nadvertising and sanitary control, and for occasional trips between points not served by an air service operating\nwith a franchise, or between such points as are covered by a franchise in the event of inability on the part of\nthe operating concern to furnish the service."
+   }
+  },
+  {
+   "id": "PH-H15814-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, October 27, 1936."
+   }
+  }
+ ]
+}

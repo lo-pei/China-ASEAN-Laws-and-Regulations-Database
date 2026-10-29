@@ -1,0 +1,72 @@
+{
+ "id": "PH-H14008",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Section three Hundred Twenty-Two of the Administrative Code So as to Exempt Bonded Officials of the Government From the Payment of Premiums and for Other Purposes.",
+  "orig": "An Act to Amend Section three Hundred Twenty-Two of the Administrative Code So as to Exempt Bonded Officials of the Government From the Payment of Premiums and for Other Purposes."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1927-12-03",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3373",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 714,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1927/act_3373_1927.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03373_1927_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03373_1927_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14008-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section three hundred twenty-two of the Administrative Code is hereby amended to read as\n\"Section 322. Payment of premium.-The bureau, office, province, municipality, or other branch of the\nGovernment to which the officer insured pertains shall pay the whole premium on his bond. When an official\nis acting in a bonded capacity for two or more governmental units the premium on his bond shall be paid by\nthe respective units served in such proportion and in such manner as the Insular Auditor shall determine.\""
+   }
+  },
+  {
+   "id": "PH-H14008-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The provisions of sections three hundred twenty-three and three hundred twenty-four of the\nAdministrative Code are hereby repealed."
+   }
+  },
+  {
+   "id": "PH-H14008-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, December 3, 1927."
+   }
+  }
+ ]
+}

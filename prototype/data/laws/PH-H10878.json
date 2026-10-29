@@ -1,0 +1,92 @@
+{
+ "id": "PH-H10878",
+ "title": {
+  "zh": null,
+  "en": "AN ACT PRESCRIBING CERTAIN DUTIES FOR COLLECTORS OF CUSTOMS, COLLECTORS OF INTERNAL REVENUE, AND PROVINCIAL TREASURERS WITH REFERENCE TO THE COLLECTION OF TAXES ON FOREST PRODUCTS.",
+  "orig": "AN ACT PRESCRIBING CERTAIN DUTIES FOR COLLECTORS OF CUSTOMS, COLLECTORS OF INTERNAL REVENUE, AND PROVINCIAL TREASURERS WITH REFERENCE TO THE COLLECTION OF TAXES ON FOREST PRODUCTS."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 165",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 5,
+ "chars": 1575,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_00165_1901_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 5 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_00165_1901_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H10878-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Any person who desires to ship forest products of whatever sort to a foreign port shall produce to\nthe collector of customs at the port of shipment a receipt from a forestry official showing that the forestry\ntaxes on these products have been paid, unless such products are taken from private land the title to which\nhas been properly registered in the office of the Forestry Bureau at Manila, in which case a shipper shall\nproduce a certificate from a forestry official to this effect."
+   }
+  },
+  {
+   "id": "PH-H10878-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "No collector of customs shall clear a vessel having on board forest products of any sort from any\nport of the Philippine Islands for a foreign port until the shipper of such products has complied with the\nprovisions of section one of this Act."
+   }
+  },
+  {
+   "id": "PH-H10878-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "Every collector of internal revenue and every provincial treasurer in the Philippine Islands shall\nmake to the Chief of the Forestry Bureau an itemized monthly report of all moneys received by him for taxes\non forest products, giving for each payment the date when made, the name of the payor, the number of the\nforestry officials' order under which the payment is made, the nature of the product on which the payment is\nmade, the name of the province in which is was taken, and the amount of the payment."
+   }
+  },
+  {
+   "id": "PH-H10878-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "The public good requiring the speedy enactment of this bill, the passage of the same is hereby\nexpedited in accordance with section two of \"An Act prescribing the order of procedure by the Commission\nin the enactment of laws,\" passed September twenty-sixth, nineteen hundred."
+   }
+  },
+  {
+   "id": "PH-H10878-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, July 13, 1901."
+   }
+  }
+ ]
+}

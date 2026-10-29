@@ -1,0 +1,1302 @@
+{
+ "id": "MY-H276",
+ "title": {
+  "zh": "1967年警察法",
+  "en": "POLICE ACT 1967",
+  "orig": "POLICE ACT 1967",
+  "vi": "Luật về Cảnh sát năm 1967",
+  "th": "พระราชบัญญัติตำรวจ ค.ศ. 1967",
+  "id": "Undang-Undang Kepolisian Tahun 1967",
+  "ms": "Akta Polis 1967"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-6",
+ "language": "en",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "1967",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "ACT344",
+ "topics": [],
+ "summary": null,
+ "coverage": "partial",
+ "structureMode": "ARTICLE",
+ "articleCount": 90,
+ "chars": 90508,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-detail.php?act=344&lang=BI"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\01_宪法与基础法\\1967_344_POLICE ACT 1967.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 100 条；逐字未改写（源自厂商 OCR 文本）。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H276-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {
+    "en": "PART I"
+   },
+   "heading": {},
+   "text": {
+    "en": "1. Short title, application and commencement.\n\nPart II\nINTERPRETATION"
+   }
+  },
+  {
+   "id": "MY-H276-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {
+    "en": "Part II"
+   },
+   "heading": {},
+   "text": {
+    "en": "2. Interpretation.\n\nPart III\nTHE ROYAL MALAYSIA POLICE"
+   }
+  },
+  {
+   "id": "MY-H276-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "chapter": {
+    "en": "Part III"
+   },
+   "heading": {},
+   "text": {
+    "en": "3. Constitution of the Police Force."
+   }
+  },
+  {
+   "id": "MY-H276-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "chapter": {
+    "en": "Part III"
+   },
+   "heading": {},
+   "text": {
+    "en": "4. Control of the Force."
+   }
+  },
+  {
+   "id": "MY-H276-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "chapter": {
+    "en": "Part III"
+   },
+   "heading": {},
+   "text": {
+    "en": "5. Appointment of Inspector-General, etc."
+   }
+  },
+  {
+   "id": "MY-H276-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "chapter": {
+    "en": "Part III"
+   },
+   "heading": {},
+   "text": {
+    "en": "6. Control of Royal Malaysia Police in a State, etc."
+   }
+  },
+  {
+   "id": "MY-H276-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7"
+   },
+   "chapter": {
+    "en": "Part III"
+   },
+   "heading": {},
+   "text": {
+    "en": "7. Employment of Force in time of emergency.\nPart IV\nEXTRA POLICE OFFICERS AND WATCH\nCONSTABLES"
+   }
+  },
+  {
+   "id": "MY-H276-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "8. Extra Police Officers."
+   }
+  },
+  {
+   "id": "MY-H276-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "9. Watch Constables.\n\nPart V\nSERVICE OUTSIDE THE FEDERATION AND\nSERVICE OF POLICE OF OTHER TERRITORIES\nIN THE FEDERATION"
+   }
+  },
+  {
+   "id": "MY-H276-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "10. The Yang di-Pertuan Agong may direct the Royal Malaysia\nPolice to serve outside Malaysia."
+   }
+  },
+  {
+   "id": "MY-H276-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "11. Officers serving outside Malaysia shall be subject to this\nAct."
+   }
+  },
+  {
+   "id": "MY-H276-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "12. Reciprocal treatment.\n\n[Arrangement of Sections]\n\n4.                      41 oF 1967\nPART VI\nAPPOINTMENT, SERVICE, ETC.\nSection"
+   }
+  },
+  {
+   "id": "MY-H276-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13"
+   },
+   "chapter": {
+    "en": "PART VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "13. Declaration by police officer on appointment."
+   }
+  },
+  {
+   "id": "MY-H276-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14"
+   },
+   "chapter": {
+    "en": "PART VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "14. Certificate of appointment."
+   }
+  },
+  {
+   "id": "MY-H276-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15"
+   },
+   "chapter": {
+    "en": "PART VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "15. Retirement or resignation in time of war or emergency."
+   }
+  },
+  {
+   "id": "MY-H276-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16"
+   },
+   "chapter": {
+    "en": "PART VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "16. Resignation while pending disciplinary proceedings."
+   }
+  },
+  {
+   "id": "MY-H276-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17"
+   },
+   "chapter": {
+    "en": "PART VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "17. Arms, accoutrements, etc., to be delivered up on ceasing\nto belong to the Force."
+   }
+  },
+  {
+   "id": "MY-H276-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18"
+   },
+   "chapter": {
+    "en": "PART VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "18. Police officers subject to provisions applicable to public\nofficers.\nPart VII\nDUTIES AND POWERS OF POLICE OFFICERS"
+   }
+  },
+  {
+   "id": "MY-H276-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "19. Police officer to be deemed on duty."
+   }
+  },
+  {
+   "id": "MY-H276-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "20. General duties of police officers."
+   }
+  },
+  {
+   "id": "MY-H276-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "21. Duty on public roads.\n22, Unclaimed property."
+   }
+  },
+  {
+   "id": "MY-H276-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "23. Unclaimed estates."
+   }
+  },
+  {
+   "id": "MY-H276-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "24. Power of police officers to inspect licences, vehicles, etc."
+   }
+  },
+  {
+   "id": "MY-H276-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "25. Power to detain and search aircraft."
+   }
+  },
+  {
+   "id": "MY-H276-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "26. Power to erect road barriers."
+   }
+  },
+  {
+   "id": "MY-H276-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 27"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "27. Power to regulate assemblies, meetings and processions."
+   }
+  },
+  {
+   "id": "MY-H276-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 28"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "28. Power to regulate the playing of music in public places."
+   }
+  },
+  {
+   "id": "MY-H276-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Section 29"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "29. Power to make rules and orders for the control of traffic."
+   }
+  },
+  {
+   "id": "MY-H276-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Section 30"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "30.  Power to make orders for the control of display of flags,\netc."
+   }
+  },
+  {
+   "id": "MY-H276-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Section 31"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "31. Power to make orders to require persons to remain indoors."
+   }
+  },
+  {
+   "id": "MY-H276-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Section 32"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "32. Non-liability for act done under authority of warrant."
+   }
+  },
+  {
+   "id": "MY-H276-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Section 33"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "33. Exemption in respect of civil process.\nPART VIII\nROYAL MALAYSIA POLICB VOLUNTEER RESERVE"
+   }
+  },
+  {
+   "id": "MY-H276-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "Section 34"
+   },
+   "chapter": {
+    "en": "PART VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "34. Establishment of Volunteer Reserve."
+   }
+  },
+  {
+   "id": "MY-H276-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "Section 35"
+   },
+   "chapter": {
+    "en": "PART VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "35. Members of the Volunteer Reserve."
+   }
+  },
+  {
+   "id": "MY-H276-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "Section 36"
+   },
+   "chapter": {
+    "en": "PART VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "36. Appointment of volunteer reserve police officers, etc."
+   }
+  },
+  {
+   "id": "MY-H276-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "Section 37"
+   },
+   "chapter": {
+    "en": "PART VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "37. Ranks of volunteers appointed into the Volumteer Reserve.\n\n[Arrangement of Sections]\n\nPOLICE                        5\nSection"
+   }
+  },
+  {
+   "id": "MY-H276-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "Section 38"
+   },
+   "chapter": {
+    "en": "PART VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "38. Volunteer reserve officers may be required to resign."
+   }
+  },
+  {
+   "id": "MY-H276-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "Section 39"
+   },
+   "chapter": {
+    "en": "PART VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "39. Declaration by volunteer reserve. police officers."
+   }
+  },
+  {
+   "id": "MY-H276-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "Section 40"
+   },
+   "chapter": {
+    "en": "PART VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "40. Certificate of appointment."
+   }
+  },
+  {
+   "id": "MY-H276-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "Section 41"
+   },
+   "chapter": {
+    "en": "PART VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "41. Resignation."
+   }
+  },
+  {
+   "id": "MY-H276-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "Section 42"
+   },
+   "chapter": {
+    "en": "PART VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "42. Pay and allowances."
+   }
+  },
+  {
+   "id": "MY-H276-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "Section 43"
+   },
+   "chapter": {
+    "en": "PART VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "43. Mobilisation of the Volunteer Reserve."
+   }
+  },
+  {
+   "id": "MY-H276-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "Section 44"
+   },
+   "chapter": {
+    "en": "PART VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "44. Inspector-General may employ volunteer reserve police\nofficers on police duty."
+   }
+  },
+  {
+   "id": "MY-H276-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "Section 45"
+   },
+   "chapter": {
+    "en": "PART VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "45. Power of volunteer reserve police officers."
+   }
+  },
+  {
+   "id": "MY-H276-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "Section 46"
+   },
+   "chapter": {
+    "en": "PART VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "46. Reinstatement in civilian employment.\nPart IX\nAUXILIARY POLICE"
+   }
+  },
+  {
+   "id": "MY-H276-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "Section 47"
+   },
+   "chapter": {
+    "en": "Part IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "47. Appointment of auxiliary police officers."
+   }
+  },
+  {
+   "id": "MY-H276-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "Section 48"
+   },
+   "chapter": {
+    "en": "Part IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "48. Declaration to be taken by auxiliary police officers."
+   }
+  },
+  {
+   "id": "MY-H276-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "Section 49"
+   },
+   "chapter": {
+    "en": "Part IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "49. Certificate of appointment.\n49A. Pay and allowancés."
+   }
+  },
+  {
+   "id": "MY-H276-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "Section 50"
+   },
+   "chapter": {
+    "en": "Part IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "50. Duties and: powers, etc.\nPart X\nROYAL MALAYSIA POLICE RESERVE"
+   }
+  },
+  {
+   "id": "MY-H276-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "Section 51"
+   },
+   "chapter": {
+    "en": "Part X"
+   },
+   "heading": {},
+   "text": {
+    "en": "51. Royal Malaysia Police Reserve."
+   }
+  },
+  {
+   "id": "MY-H276-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "Section 52"
+   },
+   "chapter": {
+    "en": "Part X"
+   },
+   "heading": {},
+   "text": {
+    "en": "52. Liability to serve in the Reserve."
+   }
+  },
+  {
+   "id": "MY-H276-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "Section 53"
+   },
+   "chapter": {
+    "en": "Part X"
+   },
+   "heading": {},
+   "text": {
+    "en": "53. Retired police officers not liable to serve may opt to serve."
+   }
+  },
+  {
+   "id": "MY-H276-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "Section 54"
+   },
+   "chapter": {
+    "en": "Part X"
+   },
+   "heading": {},
+   "text": {
+    "en": "54. Period of service in the Reserve."
+   }
+  },
+  {
+   "id": "MY-H276-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "Section 55"
+   },
+   "chapter": {
+    "en": "Part X"
+   },
+   "heading": {},
+   "text": {
+    "en": "55. Mobilisation of thé Reserve."
+   }
+  },
+  {
+   "id": "MY-H276-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "Section 56"
+   },
+   "chapter": {
+    "en": "Part X"
+   },
+   "heading": {},
+   "text": {
+    "en": "56. Reservists to report."
+   }
+  },
+  {
+   "id": "MY-H276-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "Section 57"
+   },
+   "chapter": {
+    "en": "Part X"
+   },
+   "heading": {},
+   "text": {
+    "en": "57. Powers of police officers when mobilised."
+   }
+  },
+  {
+   "id": "MY-H276-A58",
+   "no": 58,
+   "noLabel": {
+    "en": "Section 58"
+   },
+   "chapter": {
+    "en": "Part X"
+   },
+   "heading": {},
+   "text": {
+    "en": "58. Rank in the Reserve."
+   }
+  },
+  {
+   "id": "MY-H276-A59",
+   "no": 59,
+   "noLabel": {
+    "en": "Section 59"
+   },
+   "chapter": {
+    "en": "Part X"
+   },
+   "heading": {},
+   "text": {
+    "en": "59. Pay and allowance."
+   }
+  },
+  {
+   "id": "MY-H276-A60",
+   "no": 60,
+   "noLabel": {
+    "en": "Section 60"
+   },
+   "chapter": {
+    "en": "Part X"
+   },
+   "heading": {},
+   "text": {
+    "en": "60. Leave."
+   }
+  },
+  {
+   "id": "MY-H276-A61",
+   "no": 61,
+   "noLabel": {
+    "en": "Section 61"
+   },
+   "chapter": {
+    "en": "Part X"
+   },
+   "heading": {},
+   "text": {
+    "en": "61. Retention of pension."
+   }
+  },
+  {
+   "id": "MY-H276-A62",
+   "no": 62,
+   "noLabel": {
+    "en": "Section 62"
+   },
+   "chapter": {
+    "en": "Part X"
+   },
+   "heading": {},
+   "text": {
+    "en": "62. Release from the Reserve.\n\n[Arrangement of Sections)\n\nSection\n\n41 oF 1967\n\nDischarge from the Reserve and appeal.\nTermination of service during mobilisation.\nUniform and equipment.\n\nReinstatement in civilian employment of police officers in\nthe Reserve.\n\nPenalty.\n\nPart XI\nROYAL MALAYSIA POLICE CADET CORPS\nEstablishment of Cadet Corps.\nMembers of the Cadet Corps.\n\nAppointment, promotion and dismissal of Cadet Officers\nand Cadets.\n\nResignation.\nPay and allowances.\nDisbandment.\nPart XII\nDISCIPLINE\n\nPolice officers subject to disciplinary regulations.\nFines to be recovered by stoppage from pay.\n\nFull pay not to accrue during absence without leave or\nimprisonment.\n\nLoss of or damage to arms, equipment, etc., to be made\ngood by stoppage from pay.\n\nInterdiction from duty.\n\nDepartmental Committee of Enquiry into the death or\ninjury of any police officer or into loss or damage of\n\nproperty.\n\nPower of senior police officer holding enquiry to summon\nwitnesses.\n\nPart XII\nPOLICE FUND\nPolice Fund.\nPolice Fund and purposes of Fund.\n\nTransfer of funds.\nInterpretation.\n\nSection\n\n93,\n\n[Arrangement of Sections]\n\nPOLICE                                  7\n\nParT XIV\nGENERAL\n\nCarrying of arms.\n\nDesertion.\n\nMutiny.\n\nPenalty for causing disaffection.\n\nUnlawful possession, manufacture, sale or supply of\narticles supplied to police officers and unauthorised use\nof police uniform.\n\nDisorderly conduct in police station.\n\nPolice officer may atrest without warrant for offences\nunder sections 31 (2), 86, 87, 89 and 90.\n\nPolice officer not to be member of Trade Union.\nPolice Associations.\n\nGeneral penalty.\n\nRules.\n\nPolice Regulations.\n\nStanding Orders.\n\nRepeal and Saving.\n\nTransitional.\n\nModification of other laws.\n\nFIRST SCHEDULE   ... Police Ranks.\nSECOND SCHEDULE ... Declaration of Office.\n\nTHIRD SCHEDULE ... Repeal and Saving.\n\nPS prs\n\n\"              ‘\n—                              :\n-       -\n:         ;\n.            >         ~                 >\"\na]                             -                                *\n.                .       N        -          j       -\na     .\n-\nme     Q        e\nNi\nC\n°\n‘\n:              '\n'\nRA                              :\n*        .      .             ui                                     !                                   -\n\nBelewdauk Hi de Mey i\\\nSuperseded by Reriseg Act NO. any\n\nPOLICE ACT 1967\n(No. 41 of 1967)\n\nDm.  Anos sar\n\nAn Act to consolidate and amend the law relating to .\n\nthe organisation, discipline, powers and duties of the\nRoyal Malaysia Police and to provide for matters\nincidental thereto.\n\n[29th August 1967.]\n\nBE IT ENACTED by the Duli Yang Maha Mulia\nSeri Paduka Baginda Yang di-Pertuan Agong with the\nadvice and consent of the Dewan Negara and Dewan\nRakyat in Parliament assembled, and by the authority\nof the same, as follows:\n\nPART I\nPRELIMINARY\n\n1, (1) This Act may be cited as the Police Act 1967,\nand shall apply throughout the Federation.\n\n:(2) This Act shall come into force on such date as\nthe Minister may by notification in the Gazette appoint,\nsuch date not being earlier than that on which the\nnotificatiton is published.\n\nPARI IT\nINTERPRETATION\n\n2. (1) In  this Act unless the context otherwise\nrequires—              |\n\n\"ammunition\": means ammunition for any arm, and\nincludes. grenades, bombs | and other. like» missiles,\nwhether capable. of: use! with arms or not, and any\nammunition containing, or| designed or adapted to\ncontain, any noxious liquid, (gas or other thing;\n\n\"arms\" includes ammunition;\n\n\"Chief Police Officer\" means any police officer vested\nby the Inspector-General with the control of the Royal\nMalaysia Police in respect of any area or State under\nerator and designated as such by the Inspector-\n\neneral;\n\n(P.U. 385A |\n67).\n\nShort title,\napplication\nand com-\nmencement.\n\nInterpreta-\ntion.\n\n(Am. Act\nA516.]        1\n\n(Pt, Il, S. 2)\n10             41 oF 1967\n\n\"Commanding Officer\" means any police officer\nvested by the Inspector-General with the control of the\nRoyal Malaysia Police in respect of any State, area,\nplace, formation or police district under section 6 and\ndesignated as such by the Inspector-General;\n\n\"Commissioner\". means a Commissioner of Police\nappointed under section 5;\n\n\"constable\" means a police officer below the rank\nof Corporal and includes a Recruit;\n\n\"Deputy Inspector-General\" means the Deputy\nInspector-General of Police appointed under section 5;\n\n\"Inspector-General\" means the Inspector-General of\nPolice appointed under section 5;\n\n\"junior police officer\" means a police officer of any\nrank from and including a Sub-Inspector down to and\nincluding a Corporal;                       D\n\n\"Minister\" means the Minister charged with the\nresponsibility for the police;\n\n\"police district\" or \"police division\" means any area\ndesignated as such by. the Inspector-General under\nsection 6 (b) and unless and until areas are so desig-\nnated, means any area constituted or recognised as a\npolice district or police division at: the commencement\nof this Act;\n\n\"police officer\" means any member of the Royal\nMalaysia Police;\n\n\"senior police officer\" means a police officer of any\nrank from and including the Inspector-General down\n_to and including an Inspector on probation.\n\nLddeds a     *(2) Any reference in this Act and any other written\nctA516.]\" Jaw to a police officer of a certain rank shall include\nany police officer: who is acting, or on probation or\ncadetship, in such rank and: this subsection shall. be\ndeemed to have been an) integral part of this Act as\n\nfrom the commencement of the Act.\n\n*See—Section 3 of Act A516—Police (Amendment) Act 1981—\n\nPrevious      3. All acts which previous to the commencement of this\nts'be validly Act have been done by any police officer while acting,\nand lawfully Or On probation or cadetship, in any rank in pursuance\ndone.         of any power under any written law conferred upon police\n.        Officers of such rank shall be'deemed to have been validly\n\nand lawfully done.                            LIT\n\n2 uh) (47 &\n\n[Pt. III, S.\n\nPOLICE                 11\n\nPART III\nTHE ROYAL MALAYSIA POLICE\n\n3. (1) All persons who are immediately before the com-\nmencement of this Act members of the Royal Malaysia\nPolice established under the Royal Malaysia Police Act\n1963, shall upon the commencement of this Act become\nmembers of the Royal Malaysia Police under this Act\n(hereinafter referred to as \"the Force\") with corres-\nponding ranks and in corresponding capacities.\n\n(2) Every person aforesaid shall be employed on the\nsame terms and conditions as were applicable to them\nimmediately before the commencement of this Act.\n\n(3) The Force shall subject to the provisions of this\nAct be employed in and throughout the Federation\n(including the territorial waters thereof) for the\nmaintenance of law and order, the preservation of the\npeace and security of the Federation, the prevention and\ndetection of crime, the apprehension and prosecution\nof offenders and the collection of security intelligence.\n\n4. (1) The Force shall be under the command of an\nInspector-General who shall be a police officer and shall\nbe responsible to the Minister for the control and\ndirection of the Force and all other persons appointed\nor engaged for police duties, and who shall have all\nthe powers conferred on a Commissioner or a Chief\nPolice Officer.                           |\n\n(2) There shall be appointed a Deputy Inspector-\nGeneral who shall be a police officer and shall be under\nthe direction of the Inspector-General.\n\n(3) The Deputy Inspector-General shall have all the\npower conferred on a Commissioner or a Chief Police\nOfficer.\n\n(4) Any act or thing which may be done, ordered or\nperformed by the Inspector-General under this or any\nother law may subject to his orders and direction, be\ndone, ordered or performed by the Deputy Inspector-\nGeneral, a Commissioner, a Deputy Commissioner, a\nSenior Assistant Commissioner, or an Assistant Com-\nmissioner generally or specially authorised in that\nbehalf ‘by the Inspector-General; and in the event of\nhis absence from Malaysia or in his incapacity or when\n\n3-41\n\nConstitution\nof the Police\nForce.\n\n30 of 1963.\n\nControl of\nthe Force.\n\n(Pt.\n\nAppoint-\nment of\nInspector-\nGeneral, etc.\n\nControl of\nRoyal\nMalaysia\nPolice in a\nState, etc.\n\nEmploy-\nment of\nForce in\ntime of\nemergency.\n\nExtra Police\nOfficers.\n\nIII-IV, S. 4-8]\n12             41 or 1967\n\nhe is on leave, his functions under this or any other\nlaw may be discharged by the Deputy Inspector-\nGeneral or such other police officer not below the\nrank of Commissioner as may be authorised by the\nYang di-Pertuan Agong.\n\n5. (1) There shall be appointed an Inspector-General, a\nDeputy Inspector-General and such Commissioners and\nDeputy Commissioners and such senior police officers\nand junior police officers and constables as may be\ndeemed necessary for the purpose of carrying out the\nprovisions of this Act.\n\n(2) The ranks of Senior Police Officers and Junior\nPolice Officers are as set out in the First Schedule.\n\n6. The members of the Force shall in relation to—\n\n(a) any area or State as the Minister may deter-\nmine, be controlled by a Commissioner or Chief\nPolice Officer; and\n\n(b) any formation, police district or police division\nor area thereof or any place, be controlled by\nsuch police officer as the Inspector-General may\nspecify either by name or office.\n\n7. (1) The Yang di-Pertuan Agong may, in time of war\nor other emergency, employ the Force or any part\nthereof to serve in conjunction with the Armed Forces\nof the Federation or any Local Forces established\n\n‘under any law, or otherwise in the defence of the\n\nFederation:\n\nProvided that any part of the Force so employed\nshall continue to be under the command of the\nInspector-General or such other police officer as may\nhave been appointed for the purpose.\n\n(2) For the purpose of this section the expression\n\"the Force\" includes all bodies established or raised for\npolice duties under the provisions of this Act.\n\nPART IV\nEXTRA POLICE OFFICERS AND WATCH CONSTABLES\n\n8. (1) A Commissioner or Chief Police Officer may,\nwith the approval of the Inspector-General, employ\npersons to serve temporarily as extra police officers of\nor below the rank of Sergeant Major.\n\n(Pt. IV, S.\n\nPOLICE                                            13\n\n(2) An extra police officer shall be deemed to be\nunder engagement to serve from month to month, every\nsuch engagement being held to commence on the first\nand to be terminable on the last day of each successive\nmonth.\n\n(3) An extra police officer, may be discharged or may\nresign on being given or giving, by or to the Com-\nmissioner or Chief Police Officer one month's notice in\nwriting.\n\n(4) ‘An extra police officer shall ‘have and may\nexercise all the powers and privileges of, and shall be\nsubject to the same authority and discipline‘ as, a\nmember of the Force of corresponding rank, and shall\nobey all lawful directions in respect of the execution\nof his duties which he may from time to time receive\nfrom his superior officers.\n\n9. (1) A Commissioner or Chief Police. Officer may,\nwith the approval of the Inspector-General, on the\napplication of any person (hereinafter in this section\nreferred to as \"the applicant') for a constable to be\nemployed on special duties, engage any suitable person\nas a watch constable for the purposes of such special\nduties: only: Such' watch' constable shall be employed\nat the expense of the ‘applicant, who shall provide such\naccommodation and sustenance for such' watch const-\nable as the Commissioner or Chief: Police Officer may\nrequire, and, may also: be required to pay for any\nuniform. supplied to, such .watch constable or such\nproportion thereof as the Commissioner or Chief Police\nOfficer may determine:                   nei\n\nProvided. that the applicant may, on: giving one\nmonth's notice to, the Commissioner or Chief Police\nOfficer, require | that such watch constable be with-\ndrawn from such special duties, and, in such case, such\napplicant shall not be liable for any expense in connec-\ntion with the employment of such watch constable\nincurred after the last day of the month following that\nin which the notice is given.\n\n(2) Any amount due from an applicant under the\nprovisions of this section may be recovered by the Com-\nmissioner or Chief Police Officer as a debt, and, when\nreceived, shall be paid into the general revenues of the\nFederation. 9: 0! |                Bice\n\n8-9)\n\nWatch\nConstables.\n\n[Pt. 1V-V, S. 9-12]\n\nThe Yang\ndi-Pertuan\nAgong may\ndirect the\nRoyal\nMalaysia\nPolice to\nserve outside\nMalaysia.\n\nOfficers\nserving\noutside\nMalaysia\nshall be\nsubject to\nthis Act.\n\nReciprocal\ntreatment.\n\n14                   41 oF 1967\n\n(3) A watch constable shall have and may exercise\nall the powers and privileges of, and shall be subject\nto the same authority and discipline as, a constable of\nthe Force.\n\nPART V\n\nSERVICE OUTSIDE THE FEDERATION AND SERVICE OF\nPOLICE OF OTHER TERRITORIES IN THE FEDERATION\n\n10. (1) The Yang di-Pertuan Agong may, on a request\nin that behalf being made by a Government of a\nterritory outside the Federation, by order direct such\npart of the Royal Malaysia Police as to him seems\nexpedient to carry out police duties in such territory\nand he shall in such order specify the purposes for\nwhich such direction is made.\n\n(2) No order under this section shall be made unless\nthe Yang di-Pertuan Agong is satisfied that adequate\nprovisions have been or will immediately be made in\nthe law of that territory aforesaid—\n\n(a) for enforcing in that territory any contract of\nservice entered into between members of the\nRoyal Malaysia Police and the Government of\nthe Federation;\n\n(b) for giving police officers of the Royal Malaysia\nPolice serving in that territory under this section\nthe powers and duties of police officers in that\nterritory; and\n\n(c) to ensure that there is accorded to the Govern-\nment of the Federation a reciprocal treatment.\n\n(3) Subject to the provisions of subsection (2), no\npolice officer shall be sent outside the Federation under\nthe provisions of this Part unless the Minister is satis-\nfied that appropriate arrangements have been made for\nthe service of police officers of the Federation with the\nauthorities of the territory aforesaid.\n\n11. All police officers serving in a territory outside the\nFederation pursuant to subsection (1) of section 10\nshall be subject to the provisions of this Act.\n\n12. (1) Whenever at the request of the Government of\nthe Federation and in pursuance of an order made by\nthe Government of another territory members of. the\npolice force of that territory are sent to the Federation\n\n[Pt. V-VI, S. 12-15)\n\n\" POLICE                                 15\n\nto carry out police duties in the Federation, such mem-\nbers shall subject to subsection (3) be under the orders\nof their own senior officers present with them and shall\nbe subject to the same regulations as when on service\nin such territory.\n\n(2) Whenever any member of the police force of\nanother territory is, pursuant to subsection (1), present\nin the Federation any contract of service made between\nany member of such body and the Government of such\nterritory may be enforced in the Federation in the\nsame manner and with the like effect as if such contract\nhad. been made between such member and the Govern-\nment of the Federation.\n\n(3) Any member of the police force of another\nterritory present in the Federation as aforesaid shall\nhave and may exercise the powers, and shall be liable\nto perform the duties, ofa police officer of the Force;\nand such member. of the police force of such territory\nshall be subject to the overall control of a senior police\nofficer of the Force.                         :\n\nPART  VI\nAPPOINTMENT, SERVICE, ETC.\n\n13. Every police officer and extra police officer.shall, on\nfirst joining the. Force or before entering on the, duties\nof his office, make before a senior police officer of or\nabove the rank of Superintendent the declaration: set\nout in the Second Schedule in such manner as he may\n‘declare to be most binding on his conscience...\n\n14. A certificate of appointment, in such form as may\n\n_be prescribed. by Police Regulations, signed. by a Com-\nmanding Officer or a senior police officer. authorised by\nhim in that behalf, shall be issued to every police officer,\nextra police officer, and .watch-constable and shall be\nevidence of his appointment under this. Act.. :\n\n15. No police officer may retire or resign from the Force\nduring war or whilst a Proclamation of Emergency is\nin. force:    a\n\nProvided that a police officer may be retired or\n\nallowed to resign if:so recommended by the Inspector-\nGeneral.                 |\n\nDeclaration\nby police\nofficer on\nappoint-\nment.\n\nCertificate\nof appoint-\nment.\n\nRetirement\nor resigna-\ntion in time\nof war or\nemergency.\n\n(Pt. VI, S. 16-18)\n\nResignation\nwhile\npending\ndisciplinary\nproceedings.\n\nArms,\naccoutre-\nments, etc.\n\nto\ndelivered\nup on\nceasing to\nbelong to\nthe Force.\n\nPolice\nOfficers\nsubject to\nprovisions\napplicable\nto public\nOfficers.\n\n16                      41 oF 1967\n\n16. Notwithstanding the provisions of section 15, no\npolice officer shall, without the permission m writing of\nthe Inspector-General, resign from the Force during\nthe pendency of any disciplinary proceedings or prose-\ncution instituted against him in respect of any offence\nof which he may be accused.\n\n17. (1) When a police officer ceases to be a member of\nthe Force he shall forthwith deliver to the person\nappointed by the Inspector-General for that purpose,\nor to the police officer in charge of any part of the\nForce at the place at which he was last stationed, his\ncertificate of appointment and all arms, ammunition,\naccoutrements, uniform and other equipment which\nhave been supplied to him and which are public\n\nproperty :\n\nProvided that the Inspector-General may, subject to\nany Rules made under this Act, in special cases authorise\nthe retention of specific articles, other than arms and\nammunition, on such conditions as may be prescribed\nby Standing Orders.\n\n(2) Any police officer who having ceased to be a\nmember of the Force, without good cause fails to\ncomply with the provisions of: subsection (1) shall be\nguilty of an offence and shall be liable to a fine not\nexceeding one hundred ringgit or to imprisonment for\na term not exceeding three months or to both such fine\nand imprisonment, and, in addition thereto, shall be\nliable to pay the value of the property not delivered up,\nand such value may be ascertained by the court in a\nsummary manner and shall be recoverable as a fine.\n\n(3) In sections 15 and 16 and this section the expres-\nsion \"police officer\" includes all persons appointed or\nengaged for police duties under the provisions of this\nAct; and the expression \"the Force\" includes all bodies\nestablished or raised for police duties under the provi-\nsions of this Act.\n\n18, Save as otherwise provided in this Act and in the\nRules and Police Regulations made thereunder, every\npolice officer shall unless expressly excluded be subject\nto the same provisions as are applicable to other public\nofficers of corresponding status in the service of the\nGovernment of the Federation.\n\n[Pt. VII, S. 19-20)\n\nPOLICE                 17\n\nPart VII\nDUTIES AND POWERS OF POLICE OFFICERS\n\n19, Every police officer, extra police officer and watch\nconstable shall, for the purposes of this Act, be deemed\nto be always on duty when required to act as such\nand shall perform the duties and exercise the powers\ngranted to him under this Act or any other law at\nany place in the Federation where he may be doing\nduty.\n\n20. (1) Every police officer shall perform such duties\nand exercise such powers as are by law imposed or\nconferred upon a police officer, and shall obey all\nlawful directions in respect of the execution of his\noffice which he may from time to time receive from\nhis superior officers in the Force.\n\n(2) Where any duty, power or discretion is imposed\nor conferred by or under this Act or any other law\non a police officer of any specified rank or holding\nany specified office, such police officer shall, in the\nperformance of such duty or the exercise of such\npower or discretion, be subject to the orders and\ndirections of any police officer to whom he is directly\nsubordinate, and any such last mentioned police officer,\nif the occasion arises and he deems it expedient so to\ndo, shall himself perform any such duty or exercise\nany such power or discretion.\n\n(3) Without prejudice to the generality of the fore-\ngoing provisions or the provisions of any other law,\nit shall be the duty of a police officer to carry out the\npurposes mentioned in subsection (3) of section 3; and\nhe may take such lawful measures and do such lawful\nacts as may be necessary in connection therewith,\nincluding—                                   |\n\n(a) apprehending all persons whom he is by law\nauthorised to apprehend;\n\n(b) processing security intelligence;\n\n(c) conducting prosecutions;\n\n(d) giving assistance in the carrying out of the\nprovisions of any law relating to revenue,\nexcise, sanitation, quarantine, immigration and\nregistration;\n\nPolice\nOfficer to\nbe deemed\non duty.\n\nGeneral\nduties of\npolice\nOfficers.\n\n[Pt. VII, S. 20-21]\n18                          41 oF 1967\n\n(e) giving assistance in the preservation of order\nin the ports, harbours and airports of the\nFederation, and in enforcing maritime and\n\"port regulations;         i\n\n(f) executing summonses, subpoenas, warrants,\ncommitments and other process lawfully\nissued by any competent authority;\n\n(g) exhibiting information;\n\n(h) protecting unclaimed and lost property and\nfinding the owners thereof;\n\n(i) seizing stray animals and placing them in a\npublic pound;       |          |\n\nAj) giving assistance in the protection of life and\nproperty;\n\n(k) protecting public property from loss or injury;\n\n(D) attending the criminal courts and, if specially\nordered, the civil courts, and keeping order\ntherein; and     |     |             |\n\n(m) escorting and guarding. prisoners and other\npersons in the custody of the police.\n\n(4) A police officer shall when performing the duties\nmentioned. in \"paragraph (m) of subsection (3) be\ndeemed to be a prison officer, and shall have all the\npowers, protection and privileges attaching to a prison\nOfficer.                     |             |\n\nDutyon 21. (1) It shall be the duty of police officers—\n\npublic                           :\n\nroads.         (a) to regulate, control and divert any traffic;\n\n(b) to. keep order on public roads, streets,\norgugntares and landing places, and at\n\n_ other places of public resort and places to\nwhich the public have access; and\n\n(c) to prevent obstruction on the occasions of\nassemblies and processions on public roads\nand streets, and in any case, when any road,\nstreet, thoroughfare, landing place or ferry\nmay be thronged or liable to be obstructed.\n\n(2) Any person who obstructs, opposes or disobeys\nany reasonable direction given by any. police officer in\nthe performance of his duties under this section shall\nbe guilty of an offence' and shall be liable on\nconviction to a fine not exceeding two hundred ringgit\nor to imprisonment for a term not exceeding three\nmonths or to both such fine and imprisonment.\n\n(Pt. VII, S. 21-22]\nPOLICE                                 19\n\n(3) Any person who commits an offence under this\nsection may be arrested without warrant unless he\ngives his name and address and otherwise satisfies\nthe police officer that he will duly answer any summons\nor other proceedings that may be taken against him.\n\n22. (1) Subject to subsection (2), it shall be the duty Unclaimed\nof every police officer to take charge of unclaimed PP\nmovable property which is handed by any person to,\n\nor found by, him; and he shall deliver such property\n\nto the officer in charge of the nearest police station,\n\nwho shall cause to be posted in some conspicuous\n\nplace at the police station a notice specifying such\nproperty and calling upon any person who may have\n\nany claim thereto within two months from the date of\n\nsuch notice to appear and establish his claim.\n\n(2) If the property aforesaid is of a perishable nature\nthe officer in charge may cause it to be sold forthwith\nand shall forward to the Officer in Charge of the Police\nDistrict the proceeds of such sale; and such proceeds\nshall, after the deduction of any expenses reasonably\nincurred, be paid to the person who within the period\nspecified in subsection (1) establishes his claim thereto.\n\n(3) Any property aforesaid which is not claimed\nwithin the period specified in subsection (1) may be\nsold or otherwise disposed of or destroyed in such\nmanner as.the Commanding Officer may direct; and\nthe proceeds of any sale of such property shall, after\nthe deduction of any expenses. reasonably incurred in\nsuch sale, be apportioned in the following manner—\n\n(a) such proportion as. the Commanding Officer\nmay direct may be paid to the finder of the\nproperty;\n\n(b) the first fifty ringgit of the balance, if any, shall\nbe paid into the Police Fund established under\nPart XIII and the remainder shall be paid into\nthe general revenues of the Federation.\n\n(4) No police officer or extra police officer shall\npurchase any property sold under this section; and\nany police officer or extra police officer who contravenes\nthe provision of this subsection shall be guilty of an\noffence against discipline.\n\n(Pt. VII, S. 23-241\n20              41 oF 1967\n\nUnclaimed 23, (1) Whenever any person dies leaving in the Fede-\n\n=   ration movable property which by reason of the\nabsence of any person entitled thereto or the absence\nof any claim to such property for the purpose of\nadministration, is taken charge of by a police officer\nfor the purpose of safe custody, the Commanding\nOfficer shall forthwith notify the Official Administrator,\nProbate Officer or Administrator in the State wherein\nthe property is situated that it is in his charge; and\npending the directions of the Official Administrator,\nProbate Officer or Administrator, the Commanding\nOfficer shall retain the property in safe custody.\n\n(2) In the case of property which is of a perishable\nnature or likely to deteriorate in value, a Commanding\nOfficer or any officer authorised by him in writing may\norder it to be sold and the proceeds of such sale shall\nbe handed to the Official Administrator, Probate Officer\nor Administrator.\n\nPowerof 24, (1) Any police officer may—\n\nSa. A       (a) stop and detain any person—\nlicences,       |    (i) whom he sees doing any act or who is\nVehicle, Pie;           in possession of any thing; or\n\n(ii) whom he has reasonable grounds for\nsuspecting is doing any act or is in\npossession of any thing;\n\nfor which a licence, permit or authority is\nrequired under the provisions of any law in\nforce, for the purpose of requiring such person\nto produce such licence, permit or authority;\n\n(b) stop and search without warrant any vehicle or\nvessel which he has reasonable grounds for\nsuspecting is being used in the commission of\nany offence against any law in force:\n\nProvided that such vehicle or vessel shall not,\nsubject to the provisions of subsection (4), be\ndetained longer than is reasonably necessary to\ncomplete such search.\n\n(2) Any person who fails to produce a licence, permit\nor authority under subsection (1) (a) when called upon\nby a police officer so to do may be arrested without\nwarrant unless he gives his name and address and\n\n[Pt. VII, S. 24-28)\n\nPOLICE                                   21\n\notherwise satisfies the police officer that he will duly\nanswer any summons or other proceedings that may\nbe taken against him.\n\n(3) Any person who fails to obey any reasonable\nsignal of a police officer, requiring any person to stop\nany vehicle or vessel under the provisions of subsection\n(1) or who obstructs any police officer in the execution\nof his duty being exercised under the provisions of that\nsubsection, shall be guilty of an offence under this Act\nand any police officer may, without warrant, arrest any\nsuch person unless he gives his name and address and\notherwise satisfies the police officer that he will duly\nanswer any summons or other proceedings that may be\ntaken against him.\n\n(4) Any police officer may cause any vehicle or\nvessel, which he has reasonable grounds to suspect has\nbeen used in the commission of an offence against any\nlaw in force or to be evidence of the commission of\nany such offence, to be moved to the nearest Police\nDistrict headquarters or other convenient place, and\nthe Officer in Charge of such Police District may there-\nupon cause such vehicle or vessel there to be detained,\npending enquiries, for a period not exceeding forty-\neight hours, or if, within that period, there are\ncommenced proceedings in respect of any such offence\nin which the vehicle or vessel is liable to forfeiture under\nany law or may properly be produced in evidence,\nuntil the final determination of those proceedings:\n\nProvided that the Officer in Charge of such Police\nDistrict may, notwithstanding the provisions of this\nsubsection, direct the release of any such vehicle or\nvessel where he is satisfied that the owner or person in\ncharge of such vehicle or vessel will duly produce such\nvehicle or vessel before the court when required, and\nfor such purpose may require such owner or person\nto execute such bond or deposit such security as he may\ndeem reasonable.\n\n25. (1) Subject to subsection (2), any senior police\nofficer may at any aerodrome or at any other place in\nthe Federation detain and without warrant search any\naircraft (not being an: aircraft belonging to, . or\nexclusively employed in the service of, the Govern-\nment or of any foreign State); and in relation to any\n\nPower to\ndetain and\nsearch\naircraft.\n\n(Pt. VII, S. 25]\n22              41 oF 1967\n\nsuch aircraft which is in motion at any aerodrome or\nat any other place in, or is in flight over, the Federation,\na senior police officer may, subject as aforesaid, order\nsuch aircraft to stop or to land at any aerodrome or       |\nother place specified by him.                          |\n\n(2) The power conferred on a senior police officer\nunder subsection (1) shall not be exercised by him\nexcept—\n\n(a) where he has reasonable grounds to believe\nthat the aircraft mentioned in that subsection\nis being or has been used in the commission\nof a seizable offence; or\n\n(b) for the purpose of arresting any person reason-\nably suspected of having committed a seizable\noffence.\n\n(3) Any order to stop or to land given under sub-\nsection (1) shall be transmitted to an aircraft by the\nofficer for the time being in charge of air traffic control;\nbut no aircraft shall be ordered to land at any\naerodrome or at any other place which, in the opinion\nof the officer for the time being in charge of air traffic\ncontrol, is unsafe for use by such aircraft.\n\n(4) The provisions of section 24 relating to the\nmoving, detention and release of any vehicle and\nvessel detained under that section shall apply to an\naircraft detained under this section as if references\ntherein—\n\n(a) to ‘any police officer shall be construed as\nreferences to a senior police officer;\n\n(b) to the nearest Police District headquarters or\nto any Officer in Charge of such Police District\nwere construed as references to the nearest      |\naerodrome and to the Officer in Charge of the\nPolice District in which such 'aerodrome is\nsituated.            |\n\n(5) Any person who fails without reasonable cause\nto comply with an order given under: subsection (1)\nshall be guilty of an offence under this Act.\n\n[Pt. VII, S. 26-27)\nto]\n\n. POLICE                                           23\n\n26. (1) Notwithstanding anything contained in any\nother law, any/senior police officer may, if he considers\nit necessary so to do for the maintenance and pre-\nservation of law and order or for the prevention or\ndetection of crime, erect or place or cause to be\nerected or placed any barriers on or across any public\nroad or street or in any public place in such manner\nas he may think fit; and-any police officer may take\nall reasonable steps to prevent any person from\npassing or any vehicle from being driven ‘past any\nsuch barrier.\n\n(2) Any person who fails to comply with any\nreasonable signal of a police officer requiring ' such\nperson or vehicle to stop before reaching any such\nbarrier shall be guilty of an offence and shall be liable\nto imprisonment: for a' term not exceeding twelve\nmonths or to a fine not exceeding ‘one' thousand\nringgit or to both such fine and imprisonment; and\nany police officer may, without warrant, arrest such\nperson unless he gives his name and address and\notherwise satisfies the police officer that he will duly\nanswer any summons or other proceedings. that' may\nbe taken against him.            A      .\n\n(3) No police officer shall be liable for, any loss,\ninjury or damage caused to any person or property\nconsequent upon his taking the steps mentioned in\nsubsection (1).\n\n27. (1) Any Officer in Charge of a Police District or\nanysenier police officer duly authorised in writing\nby him may direct, in such manner as he may deem fit,\nthe conduct in public places in such Police District of\nall assemblies, meetings and processions, whether of\npersons or of vehicles and may prescribe the route by,\nand the time at, which such assemblies or meetings\nmay be held or such procession may pass.\n\n(2) Any person intending to convene or collect any\nassembly or meeting or to form a procession in any\npublic place aforesaid, shall before convening, collect-\ning or forming such assembly, meeting or procession\nmake to the Officer-in-Charge of the Police. District\nin which such assembly, meeting or procession is to\nbe held an application for a licence in that behalf, and\nif such police officer is ‘satisfied that the assembly,\nmeeting or procession is not likely to be prejudicial\n\nPower to\n\nbarriers, A O( AAG2S\n\nmene A\n\nPower to                        ; AN\nregulate AD/RA GSS          )\nassemblies,                            )       |\nmeetings                                N      1\nand proces-                             we\nsions.                                      Ana\n\n[Pt. VII, S. 27)\n\nAACSS\n\nAAESS\n\nLatondi        ound\nad   ee) ? |\n\n(adces)\nYor conemed\n(AhG8s)\n\n— (981026) C9E\n\n44                          41 OF 1967\n\nto the interest of the security of the Federation or\nany part thereof or to excite a disturbance of the\npeace, he shall issue a licence in such form as may be\nprescribed specifying the name of the licensee and\ndefining the conditions upon which such assembly,\nmeeting or procession is permitted :\n\nProvided that such police officer may at any time\non any ground for which the issue of a licence under\n\nthis subsection may spe refused, cancel such licence.\n\n(3) Any police officer may stop any assembly,\nmeeting or procession in respect of which a licence\nhas not been issued or having been issued was sub-\nsequently cancelled under subsection (2) or which\ncontravenes any of the conditions of any licence\nissued in respect thereof under that subsection; and\nany such police officer may order the persons com-\nprising such assembly, meeting or procession to\ndisperse.\n\n(4) Any person who\n\n(a) disobeys any order given under the provisions\nof subsection (1) or subsection (3); or\n\n(b) contravenes any| condition of a licence issued\nunder the provisions of subsection (2),\n\nshall be guilty of an offence.\n(HA)\n\n—_    ee ih\n\n(5) Any assembly, meeting or procession—\n\n(a) which takes place without a licence issued\nunder the provisions of subsection (2); or\n\n(b) in which three or more persons taking part\nneglect or refuse to obey any order given under\nthe provisions of subsection (1) or subsection\n\n,\n\nshall be deemed to be an unlawful assembly, and all\npersons /taking part in such assembly, meeting or\nprocession and, in the case of an assembly, meeting or\nprocession for which no licence has been issued, all\npersons taking partjin convening, collecting or directing\nsuch assembly, meeting or procession, shall be guilty\n\na...\n\n(6) Any ‘police officer may, without warrant, arrest\nany person reasonably suspected of committing any\noffence under this section.          |\n\n(Pt. VII, S. 27-29)\n\nPOLICE                                   25\n\n(7) Any person aggrieved by the refusal of the\nOfficer-in-Charge of a Police District to issue a licence\nunder subsection (2) may within forty-eight hours of\nsuch refusal appeal in writing to the Commissioner or\nChief Police Officer; and the decision of the said\nCommissioner or Chief Police Officer thereon shall be\n\nfinal.\n\n(8) Any person who is Silty of an offence under\nthis section shall be liable on conviction to a fine not\nexceeding five hundred ringgit or imprisonment for\na term not exceeding six mqnths or to both such fine\nang imprisonment yy see axe... =\n28. Any Officer-in-Charge of a Police District or a\nsenior police officer in that District may, in such\nmanner as he may deem fit, regulate the extent to\nwhich musical instruments may be played in public\nplaces in such Police District.\n\n29. (1) A Commissioner or a Chief Police Officer may\nin respect of a State, with the approval of the Mentri\nBesar or the Chief Minister of that State, as the case\nmay be, make rules for—\n\n(a) keeping order and preventing obstruction or\ninconvenience on public roads, _ streets,\nthoroughfares, landing places and ferries and\nat public places and at places of public resort\n(whether such places are on State land or\notherwise);\n\n(b) prohibiting the use of specified public roads,\nstreets, thoroughfares, landing places and\nferries either absolutely or conditionally.\n\n(2) A Commissioner or a Chief Police Officer may\nmake orders prescribing the routes by which vehicles\nshall, for the purpose of setting down and taking up\npersons, drive up to and leave any landing place,\nferry or place of assembly or of public resort, and the\nplaces where and the order in which such vehicles\nshall wait for the purposes aforesaid:\n\nProvided that.no order for the parking of vehicles\nupon land in private ownership under this subsection\nshall be made except with the consent of the owner\nor occupier of such land.\n\n(3) There may be annexed to the breach of any of\nthe rules or orders aforesaid a penalty not exceeding\ntwo hundred ringgit.\n\nbe AALES\n\nPower to\nregulate the\nplaying of\nmusic in\npublic\nplaces.\n\nPower to\nmake rules\nand orders\nfor the\ncontrol of\ntraffic.\n\nAAGKS\nAAGSS\n\npf pdnes\n\nIPt. VII, S. 30-31]\n\nPower to\nmake orders\n* for the\ncontrol of\ndisplay of\nflags, etc.\n\nPower to\nmake orders\nto require\npersons to\nremain\nindoors.\n\n26                      41 oF 1967\n\n30. (1) A Commissioner or a Chief Police Officer may,\nwith-the-approval-of-the-Minister, by order, generally\nor in respect of specified times or places or in specified\ncircumstances, prohibit in the State—\n\n(a) the flying, exhibition or display of any flag,\nbanner, emblem or placard or other devices;\n\n(b) the use of any loud speakers, amplifiers or other\nappliances;\n\nin a manner likely to excite a disturbance of the peace;\nand any police officer may remove any flag, banner,\nemblem, placard or other device or any loud speaker,\namplifier, or other appliance flying, exhibited, displayed\nor used in contravention of the said order or in\ncircumstances likely to excite a disturbance of the\npeace.\n\n(2) Any person who contravenes an order made under\nsubsection (1) shall be guilty of an offence under this\nAct.\n\n31. (1) A Commissioner or a Chief Police Officer may,\nif he considers it necessary in the interest of the security\nof the Federation or any part thereof or public order,\nby order require, subject to such conditions or exemp-\ntions as he may deem expedient, every person within\nsuch area of his jurisdiction as may be prescribed in\nthe order to remain within doors between such hours\nas may be specified therein; and the Commissioner or\nthe Chief Police Officer shall in such manner as he\ndeems fit bring or cause to be brought to the notice of\nall persons likely to be affected thereby the contents\nof such order.\n\n(2) A person remaining out of doors during the hours\nspecified in the order shall be guilty of an offence\nunder this Act unless such person possesses a written\npermit in that behalf from—\n\n(a) the Commissioner or the Chief Police Officer\naforesaid;\n\n(b) a police officer not below the rank of Sub-\nInspector directly under the command of the\n\nCommissioner or the Chief Police Officer afore-\nsaid; or\n\n(Pt. VII, S, 31-32)\n\nPOLICE                                27\n\n(c) a public officer authorised in writing by the\nCommissioner or the Chief Police Officer afore-\nsaid to issue such written permits.\n\n(3) No order under subsection (1) shall apply to—\n\n(a) the Yang di-Pertuan Agong, a Ruler, a Yang\ndi-Pertua Negeri;\n\n(b) any police officer or any member of any naval,\nmilitary or air forces established or serving in\nthe Federation when on duty; or\n\n(c) any person or class of persons specified in the\norder as being persons exempted from the\nprovisions of the order.\n\n(4) No order made under the provisions of sub-\nsection (1) shall remain in force for more than twenty-\nfour hours from the making thereof:\n\nProvided that the Minister may, on or before the\nexpiration of any such order, direct that the order shall\ncontinue in force for such further period not exceeding\nfourteen days as he may specify and, upon the making\nof any such direction, the order shall continue in force\nfor such further period.\n\n(5) The provisions of subsection (1) relating to the\ngiving of notice-of the contents of an order made under\nthat subsection shall apply to.a direction of the\nMinister made under subsection (4).\n\n32. (1) Where the defence to any suit instituted against\na police officer, an extra police officer, volunteer reserve\npolice officer or an auxiliary police officer is that the\nact complained of was done in obedience to a warrant\npurporting to be issued by any competent authority,\nthe court shall, upon production of the warrant\ncontaining the signature of such authority and upon\nproof that the act complained of was done in obedience\nto such warrant, enter judgment in favour of such\npolice' officer, extra police. officer, volunteer reserve\npolice officer or auxiliary police officer.\n\n(2) No proof of the signature of such authority shall\nbe required unless the court has reason to doubt the\ngenuineness thereof; and where it is proved that such\nsignature is not genuine, judgment shall nevertheless\n\n(Am.\nAct A354;\nAct A514.)\n\nNon-\nliability\n\nfor act\ndone under\nauthority of\nwarrant.\n\n(Pi. VII-VIII, S. 32-34]\n28             41 oF 1967\n\nbe given in favour of such police officer or extra police\noflicer if it is proved that, at the time when the act\ncomplained of was committed, he believed on reason-\nable grounds that such signature was genuine.\n\nExemption 33. (1) Subject to the provisions of subsection (2)—\n\na cee         (a) the pay and allowances of a junior police officer\nprocess.               or constable shall not be assignable or transfer-\n\nable or liable to be attached, sequestered or\nlevied upon for, or in respect of, any debt or\nclaim whatsoever;\n\n(b) no junior police officer or constable shall be\nliable to be imprisoned under an order of any\ncourt by reason of non-payment of any debt\nwhich he may have incurred or for which he\nmay become liable.\n\n(2) The provisions of subsection (1) shall not apply\nto—\n(a) a debt due to any Government in the Federa-\ntion;\n(b) a fine imposed under any law;\n(c) an order for the payment of dowry, alimony\nor maintenance made under any law.\n\n(3) The pay and allowances of a junior police officer\nor constable shall not pass to the Official Assignee on\nthe bankruptcy of such police officer nor shall they form\npart of his estate for the purposes of any law in force\nin the Federation relating to bankruptcy.\n\nPART VIII\nROYAL MALAYSIA POLICE VOLUNTEER RESERVE\n\nEstablish- 34. (1) There shall be established in and for the Federa-\nSent Ok    tion a body to be known as the Royal Malaysia Police\nReserve.   Volunteer Reserve (hereinafter referred to as \"the\nVolunteer Reserve\") which shall consist of such\nnumber of senior volunteer reserve police officers,\njunior volunteer reserve police officers and volunteer\nreserve constables as the Yang di-Pertuan Agong may\n\nfrom time to time sanction.\n\n(2) For the purpose of this Part the expression\n\"volunteer reserve police officer\" means any member\nof the Volunteer Rerserve.\n\n[Pt. VIII, S. 35-39]\nPOLICE                                29\n\n35, Any person (not being a member of the Armed Members\nForces of the Federation or any Force established ofthe\nunder any written law) not below the age of eighteen Reserve.\"\nor over the age of fifty years, and is in possession of\n\nsuch qualifications as may be prescribed may volunteer\n\nand be accepted for appointment in the Volunteer\nReserve.\n\n36. (1) Senior volunteer reserve police officers of and Appoint-\nabove the rank of Assistant Superintendent may be (Orme,\nappointed, promoted or dismissed by the Inspector- reserve\nGeneral, with the concurrence of the Minister, on behalf PSI\n\n!                                Officers, etc.\nof the Yang di-Pertuan Agong.\n\n(2) Senior volunteer reserve police officers of and\nbelow the rank of Chief Inspector may be appointed,\npromoted or dismissed by the Inspector-General.\n\n(3) Junior volunteer reserve police officers and\nvolunteer reserve constables may be appointed, pro-\nmoted or dismissed by a Commanding Officer.\n\n(4) The appointment, promotion, resignation, dis-\ncharge or dismissal of every senior volunteer reserve\npolice officer of or above the rank of Assistant Superin-\ntendent shall be published in the Federal Gazette.\n\n37. Persons appointed into the Volunteer Reserve may Ranks of\nhold the rank of senior volunteer reserve police officers, en\"\njunior volunteer reserve police officers or volunteer into the\n\nreserve constables, as the case may be, according to Yolunieer\n\n-                ,           J                                                                                                    Reserve.\ntheir qualifications.\n\n38. A volunteer reserve police officer may be required volunteer\nto resign by the appointing authority if it appears to reserve |\nhim that such officer is for any reason unable to Bs equired\ndischarge efficiently the duties which he is or may be toresisn.\ncalled upon to perform as a member of the Volunteer\n\nReserve.\n\n39. Every volunteer reserve police officer shall, before Declaration\nassuming the duties of his office, make before a senior DY volunteer\npolice officer not below the rank of Assistant Superin- police\ntendent in such manner as he may declare to be most °ficers.\nbinding on his conscience the declaration set out in\n\nthe Second Schedule.\n\nIPt. VII, S. 40-44]\n\nCertificate\nof appoint-\nment,\n\nResignation.\n\nPay and\nallowances.\n\nMobilisation\nof the\nVolunteer\nReserve.\n\nInspector-\nGeneral\nmay employ\nvolunteer\nreserve\npolice\nOfficers on\npolice duty.\n\n30                         41 oF 1967\n\n40. A certificate of appointment, in such form as may\nbe prescribed, shall be issued to every volunteer reserve\npolice officer and shall be evidence of his appointment\nunder this Act.\n\n41. A volunteer reserve police officer may resign from\nthe Volunteer Reserve by giving one month's notice in\nwriting to a Commanding Officer:\n\nProvided that when the Volunteer Reserve or any\npart thereof is: mobilised, a volunteer reserve police\nofficer shall not resign unless expressly authorised in\nwriting so to do by a Commanding Officer.\n\n42. (1) Subject to the provisions of subsection (2), a\nvolunteer reserve police officer shall serve voluntarily\nand shall not be entitled to claim any remuneration for\n\nhis services, save for. such allowances as may be\n\nprescribed.\n\n(2) When mobilised, a volunteer reserve police officer\nshall receive such pay and ‘allowances as, may be\nprescribed for a police officer of corresponding rank\nand seniority in such rank.\n\n43. (1) For any purpose connected with the peace and\ngood order of the Federation or any part thereof the\nInspector-General may, with the prior approval of the\nMinister, mobilise for police duties the Volunteer\nReserve or any part thereof; and such mobilisation shall\nnot cease'to have effect until otherwise provided by an\norder made by the Inspector-General with the prior\napproval of the Minister.\n\n(2) Every volunteer reserve police officer mobilised\nunder the provisions. of subsection (1) shall assemble\nat such place as the Inspector-General shall direct.\n\n(3) A volunteer reserve police officer mobilised under\nthe provisions of subsection (1) who without reasonable\ncause, the onus of proof of which shall rest with him,\nrefuses or neglects to serve shall be guilty of an offence\nunder this Act.\n\n44, When the Volunteer Reserve is not mobilised, the\nInspector-General may employ a volunteer reserve\npolice officer on such police duties as he may direct.\n\n[Pt. VIII, S, 45-46)\n\nPOLICE |                             31\n\n45, A volunteer reserve police officer when performing\npolice duties shall have the same powers and duties and\nthe same protection and immunities and shall be\nsubject to the same authority and discipline as a police\nofficer of corresponding rank.\n\n46. (1) It shall be the duty of the employer by whom\nany volunteer reserve police officer was employed for\na period of at least three months immediately preceding\nthe day on which such officer was mobilised under this\nPart to re-employ him on the completion of active\nservice pursuant to such mobilisation, including any\nleave earned by such service in an occupation and under\nconditions not less favourable than those which would\n\nhave been applicable to him had he not been mobilised.\n\n(2) Any employer failing to re-employ any volunteer\nreserve police officer under subsection (1) shall be\nguilty of an offence and shall subject as hereinafter\nprovided, be liable on conviction to a fine not exceed-\ning one thousand ringgit or to' imprisonment for a\nterm not exceeding six months or to both such fine\nand imprisonment:\n\nProvided that in any proceeding under this sub-\nsection it shall be a defence for the employer to show\nthat the volunteer' reserve \"police officer formerly\nemployed by him did not,' before the expiration of\none month after completion of ‘active service, apply to\nthe employer for re-employment or that, having been\noffered re-employment. by him, such officer failed\nwithout. reasonable excuse to. present himself, for\nemployment at the time and place notified to him by\nthe employer, or that by reason of a change of circum-\nstances (other than the engagement of some other\nperson to replace him)—\n\n(a). it is not practicable to re-employ him; or\n\n(b) his re-employment in an occupation and under\nconditions not less favourable to him than those\nwhich would have been applicable to him had\nhe not been mobilised is impracticable, and that\nthe employer has offered to re-employ him in\nthe most.favourable occupation and under the\nmost favourable conditions reasonably practi-\ncable under the circumstances.\n\nPower of\nvolunteer\nreserve\npolice\nOfficers.\n\nReinstate-\nment in\ncivilian\nemploy-\nment.\n\n[Pt. IX, S. 47-50)\n\nAppoint-\nment of\nauxiliary\npolice\nofficers.\n\nDeclaration\nto be taken\nby auxiliary\npolice\nOfficers.\n\nCertificate\nof appoint-\nment.\n\nPay and\nallowances.\n[Added\nAct A347.)\n\nDuties and\npowers, etc.\n\n32                      41 oF 1967\n\nPART IX\nAUXILIARY POLICE\n\n47. (1) The Inspector-General may, with the concur-\nrence of the Minister, appoint or promote any person\nto serve in the Auxiliary Police as a senior auxiliary\npolice officer with the honorary rank of Superintendent,\nDeputy Superintendent, Assistant Superintendent or\nInspector, and may prescribe the area in which he shall\nserve.\n\n(2) A Commanding Officer or any police officer\nauthorised by him in that behalf, may, with or without\nwritten engagement, appoint or promote any person to\nserve in the Auxiliary Police as a junior auxiliary\npolice officer with the honorary rank of sub-inspector,\nSergeant-major, sergeant or corporal or as an auxiliary\npolice constable, and may prescribe the area in which\nhe shall serve.\n\n(3) For the purpose of this Part the expression\n\"auxiliary police officer' means any. member of the\nAuxiliary Police.\n\n48. Every auxiliary police officer shall, before entering\non the duties of his office, make before a senior police\nofficer not below the rank of Assistant Superintendent\nthe declaration set out in the Second Schedule to this\nAct in such manner as he may declare to be most\nbinding on his conscience.\n\n49. A certificate of appointment in such form as may be\nprescribed by Police Regulations, signed by a senior\npolice officer not below the rank of Assistant Superin-\ntendent authorised in that behalf by a Commanding\nOfficer, shall be issued to every auxiliary police officer\nand shall be evidence of his appointment under this Act.\n\n49a. An auxiliary police officer shall serve voluntarily\nand shall not be entitled to any remuneration for such\nservice, save for such allowances as may be prescribed\nby the Minister from time to time in relation to specific\nduties.\n\n50. The Yang di-Pertuan Agong may by rules or regula-\ntions prescribe the duties, powers and privileges of an\nauxiliary police officer and the area within which such\nduties, powers and privileges may be exercised or\nenjoyed by such officer.\n\n[Pt. X, S, 51-55)\nPOLICE                                  33\n\nPART X\nROYAL MALAYSIA POLICE RESERVE\n\n51. (1) There shall be established a Royal Malaysia Royal .\nPolice Reserve (hereinafter referred to as \"the Malaysia\nReserve\").                                 Reserve.\n\n(2) The Reserve shall consist of such police officers\nwho become members of the Reserve under the provi-\nsions of this Part.\n\n52. (1) Every retired police officer shall be a member of Liability to\nthe Reserve if he is appointed as a police officer on or Qrveinthe\nafter the coming into force of the Act and he is a citizen\nat the time of his retirement.\n\n(2) This section shall not apply to any police officer\nwho has been retired on grounds of ill health or physical\nor other disability.\n\n53. (1) Notwithstanding section 52 a police officer who Retired\nis not liable to serve in the Reserve on the grounds Police\nthat his appointment to the Force was before the date jiable to\nreferred to in that section may be enrolled as a member serve may\n\ntt     !\nof the Reserve:                                  opt to serve\n\nProvided that no police officer shall be enrolled as a\nmember of the Reserve if he has been on retirement for\na period of ten years or has attained the age of five\nyears greater than the age for compulsory retirement,\nwhichever is the earlier.\n\n(2) The provisions of the following sections of this\nPart shall apply to a police officer enrolled as a member\nof the Reserve under this section as they apply to a\npolice officer liable to serve in the Reserve.\n\n54. Every member of the Reserve (hereinafter referred period of\nto as \"a reserve police officer\") shall, subject to the service in\nprovisions of sections 62, 63 and 64, serve in the Reserve '** Reserve.\nfor a period of ten years from the date of his retirement\n\nor until he reaches an age five years greater than the\n\nage for compulsory retirement, whichever is the earlier.\n\n55. (1) The Reserve or any part thereof may be mobi- Mobilisation\nlised by an order of the Yang di-Pertuan Agong at any- ofthe\ntime when the security of the Federation is threatened ~*~\n\nor when a Proclamation of Emergency is issued.\n\n[Pt, X, S. 55-62]\n\nReservists\nto report.\n\nPowers of\npolice\nofficers\nwhen\nmobilised.\n\nRank in the\nReserve.\n\nPay and\nallowance.\n\nLeave.\n\nRetention\nof pension.\n\nRelease\n\n, from the\n\nReserve.\n\n34                     41 oF 1967\n\n(2) The provisions of subsection (1) shall not affect\nany reserve police officer who is a Member of Parlia-\nment or of the Legislative Assembly of a State or who\nholds a salaried appointment in the Government of the\nFederation or of any State, for so long as he is such\na Member or holds such appointment.\n\n56. Every reserve police officer mobilised under section\n55 shall report in person at such place and at such time\nas the Inspector-General or an officer duly authorised\nby him may order.\n\n57. A reserve police officer when mobilised shall have\nthe same powers and duties and the same protection\nand immunities as a police officer of corresponding rank\nand shall be subject in all respects to the provisions of\nthis Act, and of any rules, regulations and standing\norders made thereunder.                          }\n\n58. A reserve police officer shall not be required to\nserve in the Reserve in a rank lower than that held by\nhim on retirement.\n\n59. The pay and allowance of a reserve police officer\nwho is mobilised to serve in the Force shall be the pay\nand allowance which may from time to time be pres-\ncribed for an officer who has been granted a pension\nunder any law relating.to pensions and. who is re-\nemployed in the public service.                            |\n\n60. A reserve police officer shall; during the period he\nis mobilised, earn full pay leave at the same rate as a\npolice officer of corresponding rank.                       |\n\n61. A reserve police officer shall during the period he\nis mobilised continue to draw the full pension to which\nhe is entitled, but the period during which he. is' so\nmobilised shall not be treated as pensionable service.\n\n62. A reserve police officer may be released from the\nReserve—                               aos\n\n(a) if he takes up permanent residence outside the\nFederation; or                   hf\n\n(b) if he is certified by a Government Medical\nOfficer to be permanently unfit for duty.\n\n(PI. X, S. 63-66]\n‘POLICE                              35"
+   }
+  },
+  {
+   "id": "MY-H276-A63",
+   "no": 63,
+   "noLabel": {
+    "en": "Section 63"
+   },
+   "chapter": {
+    "en": "PART X"
+   },
+   "heading": {},
+   "text": {
+    "en": "63. (1) A reserve police officer who by his conduct has Discharge\nshown himself unsuitable for further service may be fromthe\ndismissed, and any reserve police officer whose services and appeal.\nare for any reason no longer required may be dis-\n\ncharged, from the Reserve by the Inspector-General :\n\nProvided that a reserve police officer who has been\nmobilised for service under section 55 shall not be\ndismissed or discharged except by the Police Force\nCommission.\n\n(2) Any reserve police officer who is aggrieved by his\ndismissal or discharge (except where the dismissal or\ndischarge is by the Police Force Commission) may\nappeal to the Minister against such dismissal or dis-\nnates and the decision of the Minister thereon shall\n\ne final.\n\n64, Notwithstanding sections 15 and 54 but subject to Termination\nsection 62 every reserve police officer shall during any ot eves\nperiod of emergency or war continue to serve in the mobilisation.\n\nReserve—\n(a) for so long as the emergency or war lasts;\n\n(b) until he has completed his fifteenth year of\nretirement from the Force; or\n\n(c) until he has attained the age of sixty-five years,\nwhichever of the events mentioned is the earliest."
+   }
+  },
+  {
+   "id": "MY-H276-A65",
+   "no": 65,
+   "noLabel": {
+    "en": "Section 65"
+   },
+   "chapter": {
+    "en": "PART X"
+   },
+   "heading": {},
+   "text": {
+    "en": "65. (1) A reserve police officer shall retain in his posses- Uniform and\nsion and.maintain in good order such articles of °t™pmen.\nuniform and equipment as may be prescribed; and such\n\narticles of uniform and equipment shall not: be worn\n\nsave when the said Reserve is mobilised or on special\n\noccasions, for which specific permission is granted by\n\nthe Inspector-General.\n\n(2) The provisions' of subsections (1) and (2) of\nsection 17 shall apply to a reserve police officer on his\nceasing to be a member 'of the Reserve.\n\n66; (1) It shall be the duty of the employer by whom Reinstate-\nany reserve police officer was employed for a period mentin\nof at least three months immediately preceding the day employment '\n\non which such officer was mobilised under this Part to of police.\nre-employ him. on the completion of active service the Reserve.\n\npursuant to such mobilisation including any leave\n\nPenalty.\n\n[Pt. X, S. 66-67)\n\n36                        41 oF 1967\n\nearned by such service in an occupation and under\nconditions not less favourable than those which would\nhave been applicable to him had he not been so\nmobilised.\n\n(2) Any employer failing to re-employ any reserve\npolice officer under subsection (1) shall be guilty of an\noffence and shall, subject as hereinafter provided, be\nliable on conviction to a fine not exceeding one\nthousand ringgit or to imprisonment for a term not\nexceeding six months or to both such fine and\nimprisonment :\n\nProvided that in  any. proceeding under this sub-\nsection it shall be a defence for the employer to show\nthat the reserve police officer formerly employed by him\ndid not, before the expiration of one month after com-\npletion of active service, apply to the employer for re-\nemployment or that, having been offered re-employment\nby him, such officer failed without reasonable excuse to\npresent himself for employment at the time and place\nnotified to him by the employer, or that by reason of a\nchange of circumstances (other than the engagement of\nsome other person to replace him)—\n\n(a) it is not practicable to re-employ him; or\n\n(b) his re-employment in an occupation and under\nconditions not less favourable to him than\nthose which would have been applicable to\nhim had he not been mobilised is impracticable,\nand that the employer has offered to re-employ\nhim in the most favourable occupation and\nunder the most favourable conditions reason-\nably practicable under the circumstances."
+   }
+  },
+  {
+   "id": "MY-H276-A67",
+   "no": 67,
+   "noLabel": {
+    "en": "Section 67"
+   },
+   "chapter": {
+    "en": "PART X"
+   },
+   "heading": {},
+   "text": {
+    "en": "67. A reserve police officer mobilised under the provi-\nsions of section 55 who without reasonable cause, the\nonus of proof of which shall rest on him, fails to\nreport at the place and at the time specified in an\norder made under section 56, properly uniformed and\nequipped to the scale prescribed. shall be guilty of an\noffence and shall on conviction be liable to imprison-\nment for a term not exceeding one year or to a fine\nnot exceeding one thousand ringgit or to both such\nfine and imprisonment.\n\n(Pt. XI, S. 68-701\n\nPOLICE                                37\n\nPART XI\nROYAL MALAYSIA POLICE CADET CORPS"
+   }
+  },
+  {
+   "id": "MY-H276-A68",
+   "no": 68,
+   "noLabel": {
+    "en": "Section 68"
+   },
+   "chapter": {
+    "en": "PART XI"
+   },
+   "heading": {},
+   "text": {
+    "en": "68. (1) There shall be established in and for any area in\nthe Federation as the Minister may by order declare,\na body to be known as Royal Malaysia Police Cadet\nCorps (hereinafter referred to as \"the Cadet Corps')\nwhich shall consist of such number of. senior Cadet\nCorps officers, junior Cadet Corps officers and cadets\nas may from time to time be sanctioned by the Yang\ndi-Pertuan Agong.\n\n(2) The Cadet Corps shall be organised in such\ndivisions, sub-divisions and units as may from time to\ntime be prescribed.\n\n' (3) The Cadet Corps shall be affiliated to the Force\nbut members of the Cadet Corps shall not be police\nofficers within the meaning of this Act."
+   }
+  },
+  {
+   "id": "MY-H276-A69",
+   "no": 69,
+   "noLabel": {
+    "en": "Section 69"
+   },
+   "chapter": {
+    "en": "PART XI"
+   },
+   "heading": {},
+   "text": {
+    "en": "69. (1) Any person (not being a member of the Armed\nForces of the Federation or any force established\nunder any written law), not below the age of twenty-\none or above the age of fifty years, who is in possession\nof such qualifications as may be prescribed, may offer\nhimself and may be accepted for appointment as a\nsenior Cadet Corps officer.\n\n(2) Any person, who is undergoing full time\neducation in such school as may be prescribed by the\nMinister, may enrol and be accepted in the Cadet\nCorps as a cadet."
+   }
+  },
+  {
+   "id": "MY-H276-A70",
+   "no": 70,
+   "noLabel": {
+    "en": "Section 70"
+   },
+   "chapter": {
+    "en": "PART XI"
+   },
+   "heading": {},
+   "text": {
+    "en": "70. (1) Cadet officers may be appointed to the rank of\nsenior Cadet Corps or junior Cadet Corps officers, as\nthe case may be according to their qualifications.\n\n(2) Senior Cadet Corps officers of or above the rank\nof Assistant Superintendent may with the concurrence\nof the Minister be appointed, promoted or dismissed\nby the Inspector-General. .'\n\n(3) Senior Cadet Corps officers of or below the rank\nof Chief Inspector may be appointed, promoted or\ndismissed by the Inspector-General.\n\nEstablish-\nment of\nCadet Corps.\n\nMembers of\nthe Cadet\nCorps,\n\nAppoint- .\nment,\npromotion\n\nCadet\nOfficers and\nadets.\n\n[Pt. XI-XII, S, 70-75)\n38             41 or 1967\n\n(4) Junior Cadet Corps officers and cadets may be\nappointed, promoted or dismissed by a Commanding\nOfficer :\n\nProvided that the person empowered to appoint any\ncadet officer or cadet under this section shall have the\npower to require the said cadet officer or cadet to\nresign if it appears to such person that the cadet officer\nor cadet is for any reason unable to discharge efficiently\nthe duties which he is or may be called upon to\nperform as a cadet officer or cadet.\n\nResignation. 71, Any member of the Cadet Corps may resign from\nthe Cadet Corps on giving to a Commanding Officer\none month's notice in writing.\n\nPayand 72, A member of the Cadet Corps shall serve volun-\n\nallowances. tarjly and shall not be entitled to any remuneration\nfor such service. save for such allowances as may be\nprescribed.\n\nDisband- 73. Whenever it may appear to him to be expedient so\n\nae    to do, the Minister may, with the approval of the\nYang di-Pertuan Agong, disband or discontinue the\nCadet Corps or any part thereof.\n\nParT XII\nDISCIPLINE\n\nPolice     74. All members of the Force shall be subject to the\n\nSibject to  provisions.of regulations relating to discipline as may\n\ndisciplinary from time to time be made by the Yang di-Pertuan\n\nregulations. A song under Article 132 (2) of the Federal Constitution\nor under section 96 of this Act.\n\nFinestobe 75, All fines imposed by or under the authority of the\nepee Disciplinary Authority in respect of offences against\nfrom pay. discipline shall be recovered by stoppage from the pay,\n\nless allowances and trade pay, due, or to become due,\n\nto the offender:\n\nProvided that such stoppage shall not in any case\nexceed one seventh of the monthly pay, less allowances\nand trade pay, of the offender, and, if more than one\norder of stoppage of pay is in force at one time against\nthe offender, so much only of his pay shall be stopped\nas shall leave him at least three-quarters of such pay,\nnot including allowances and trade pay.\n\n[Pt. XI, 5. 76-78)\n\nPOLICE                                  39"
+   }
+  },
+  {
+   "id": "MY-H276-A76",
+   "no": 76,
+   "noLabel": {
+    "en": "Section 76"
+   },
+   "chapter": {
+    "en": "ParT XII"
+   },
+   "heading": {},
+   "text": {
+    "en": "76. No pay or allowance, including trade pay but exclu-\nding rent allowance shall accrue to any police officer\nin respect of any period during which he is absent\nfrom duty without leave or good cause, or is under-\ngoing any sentence of imprisonment :\n\nProvided that the Disciplinary Authority may, in its\ndiscretion, authorise the payment of such proportion\nof pay, allowances and trade pay, not being more than\none half, as it may think fit."
+   }
+  },
+  {
+   "id": "MY-H276-A77",
+   "no": 77,
+   "noLabel": {
+    "en": "Section 77"
+   },
+   "chapter": {
+    "en": "ParT XII"
+   },
+   "heading": {},
+   "text": {
+    "en": "77. Notwithstanding anything contained in any other\nlaw, if any police officer pawns, sells, loses by neglect,\nmakes away with or wilfully or negligently damages\nany firearms, ammunition, accoutrement, uniform or\nother article being property entrusted to or lawfully in\nthe possession of the Force and supplied to him, or\nany property committed to his charge in the course of\nhis duty, or any property seized or taken charge of by\nhim in the course of his duty, he may, in addition to\nor in lieu of any other penalty, be ordered to make\ngood, either wholly or partially, the value of such\nproperty or the amount of such loss or damage, as the\ncase may be, and such value or such amount may be\nrecovered by stoppage from his pay, ‘including\nallowances, other than rent allowance and trade pay."
+   }
+  },
+  {
+   "id": "MY-H276-A78",
+   "no": 78,
+   "noLabel": {
+    "en": "Section 78"
+   },
+   "chapter": {
+    "en": "ParT XII"
+   },
+   "heading": {},
+   "text": {
+    "en": "78. (1) If it deems necessary in the public interest that\na police officer should cease to exercise the powers and\nfunctions of his office instantly, the Disciplinary\nAuthority may interdict from duty such police officer,\npending any enquiry: into-the conduct of such police\nofficer under the provisions of this Act or of any Police\nRegulations made thereunder or of any regulation or\norder applicable to other officers of corresponding\nstatus in. the public service.\n\n(2) The powers, privileges and benefits vested in a\npolice officer interdicted under subsection (1) shall\nduring his interdiction be in abeyance:\n\nProvided that such police officer shall continue to be\nsubject to the same authority and discipline as if he\nhad not been interdicted and he shall not by reason\nonly of such interdiction cease to be a police officer.\n\n(3) During any period in which a police officer is\nunder interdiction awaiting trial or disciplinary pro-\nceeding resulting in a conviction or a finding of guilt\n\nFull pay not\nto accrue\nduring\nabsence\nwithout\nleave or\nimprison-\nment.\n\nLoss of or\ndamage to\narms, equip-\nment, etc.,\nto be made\ngood by\nstoppage\nfrom pay.\n\nInterdiction\nfrom duty.\n\n[Pt. XII, S. 78-79)\n\nDepart-\nmental\nCommittee\nof Enquiry\ninto the\ndeath or\ninjury of\nany police\nofficer or\ninto loss or\ndamage of\nproperty.\n\n40                         41 oF 1967\n\nhe shall receive one half of his pay and allowances,\nsave that rent allowances shall be paid in full. No trade\npay shall accrue during any period of interdiction:\n\nProvided that the Disciplinary Authority may, in its\ndiscretion, authorise the payment of such higher pro-\nportion of pay and allowances as it shall think fit."
+   }
+  },
+  {
+   "id": "MY-H276-A79",
+   "no": 79,
+   "noLabel": {
+    "en": "Section 79"
+   },
+   "chapter": {
+    "en": "ParT XII"
+   },
+   "heading": {},
+   "text": {
+    "en": "79. (1) A Commanding Officer may convene a Com-\nmittee of Enquiry to enquire into the death or injury\nof any police officer or into the loss of or damage to\nany property entrusted to or lawfully in the possession\nof the Force. Such Committee of Enquiry shall consist\nof a President, who shall be a senior police officer not\nbelow the rank of Assistant Superintendent, and one\nor more members, as the Commanding Officer may\ndirect.\n\n(2) A Committee of Enquiry convened under. the\nprovision of subsection (1) to enquire into the death or\ninjury of a police officer shall be empowered to make\nfindings and recommendations as follows:\n\n(a) whether the deceased or injured person was on\nduty at the time of such death or injury;\n\n(b) whether the death or injury was directly attri-\nbutable to the nature of the duty on which the\ndeceased or injured person was engaged;\n\n(c) whether the death or injury was due to the\ndefault of the deceased or injured person;\n\n(d) whether a pension, gratuity or allowance should\nbe paid in accordance with the provisions of\nRules made under this Act or the provisions of\nany other written law;\n\n(e) whether any action is necessary to prevent the\nfuture occurrence of similar death or injury to\nother police officers. _\n\n(3) A Committee of Enquiry convened under the\nprovisions of subsection (1) to enquire into any loss\nof or damage to any property entrusted to or lawfully\nin the possession of the Force shall make findings and\nrecommendations to the Commanding Officer as\nfollows:\n\n(a) estimated cost of loss or damage;\n\n(5) individual responsibility for such loss or\ndamage;\n\n[Pt. XII, S. 79-80)\n\nPOLICE                                          41\n\n(c) action necessary to prevent the future occur-\nrence of similar loss or damage;\n\n(d) the manner in which the cost of such loss or\ndamage may be recovered or made good to the\nlawful owner of such proper,\n\n,\n\n(4) In this section the expression \"police officer'\nincludes all persons appointed or engaged for police\nduties under the provisions of this Act; and the\nexpression \"the Force\" includes all bodies established\nor raised for police duties under the provisions of this\nAct."
+   }
+  },
+  {
+   "id": "MY-H276-A80",
+   "no": 80,
+   "noLabel": {
+    "en": "Section 80"
+   },
+   "chapter": {
+    "en": "ParT XII"
+   },
+   "heading": {},
+   "text": {
+    "en": "80. (1) A senior police officer authorised to make an\nenquiry into an offence against discipline and the\nPresident of any Committee of Enquiry convened under\nthe provisions of' section 79 may apply to a Magistrate\nfor a summons to secure the attendance before such\npolice officer, as a witness, of any person who appears\nto be acquainted with the circumstances. of the case.\nThereupon the Magistrate may issue a summons\naccordingly and the witness shall be bound to answer\ntruly all questions relating to such case as may be put\nto him by such police officer, and shall produce all\ndocuments relevant to such case.\n\n(2) Any person summoned as a witness under: the\nprovisions ‘of subsection (1) who fails to attend at the\ntime and place mentioned in the summons or on\nadjournment, or refuses. to answer any question that is\nlawfully. put to him or to produce any such document\nwhich it is in his power to produce, shall be guilty of\nan Offence under this Act and shall be liable to a fine\nof one hundred. ringgit or to imprisonment for a term\nnot exceeding one month or to both such fine and\nimprisonment:\n\nProvided that nothing contained in this section shall\nrender any person compellable to answer any question\nor produce any document in respect of any matter\nwhich would have been protected from disclosure on\nthe ground of privilege if the proceedings had been\nheld.in any court.\n\nPower of\nsenior police\nofficer\nholding\nenquiry\n\nto summon\nwitnesses.\n\n(Pt XIII, S. 81-82)\n42                          41 oF 1967\n\nPart XII\nPOLICE FUND\n\n     . 81. (1) There shall be established a fund to be known\nPauses  as ike Police Fund which shall be operated as a Trust\nAccount within the Federal Consolidated Fund.\n\n(2) The Police Fund (in this Part referred to as \"the\nFund\") shall consist of—\n\n(a) fines inflicted on police officers in any discipli-\nnary proceedings;\n\n(b) one-half of the sums paid for extra or special\nservices of police officers;\n\n(c) all sums of monies and other property offered\nto police officers and forfeited by an order of\ncourt;\n\n(d) any sums paid to the Fund under the provisions\nof section 22;\n\n(e) donations or rewards offered to the Fund or to\nindividual members of the Force respectively\nand accepted by the Inspector-General; and\n\n(f) income arising from. disposal of. property\npurchased or arising from investments from the\nmonies of the Fund.\n\nPolice Fund 82. (1) The Fund shall be controlled by the Inspector-\nand purposes General subject to any rules or regulations made under\nofFund. this Act\n\n(2) The Fund shall be applied for the purpose of—\n\n(a) rewarding police officers for extra or special\nservices rendered by them;\n\n(b) procuring for police officers who are serving or\nwho have retired or have been discharged on\npension, gratuity or allowance such comforts,\nconveniences or other amenities or advantages\nnot chargeable to public revenue; and\n\n(c) granting loans on terms prescribed by the rules\nto police officers who are serving or have retired\nor had been discharged on pension or gratuity\nor to the dependants of deceased police officers.\n\n[Pt. XII-X1Y, S. 83-87)\nPOLICE                                43"
+   }
+  },
+  {
+   "id": "MY-H276-A83",
+   "no": 83,
+   "noLabel": {
+    "en": "Section 83"
+   },
+   "chapter": {
+    "en": "Part XII"
+   },
+   "heading": {},
+   "text": {
+    "en": "83. All monies and other assets or properties if any Transfer of\ncomprised in or held under or on behalf of any police \"4°\nfund constituted or established under the provisions of\n\nany law repealed by this Act including any interest\n\naccrued thereon if any immediately before the com-\nmencement of this Act shall upon the commencement\n\nof this Act be deemed to be transferred to and shall\n\nform part of the Fund established under this Part."
+   }
+  },
+  {
+   "id": "MY-H276-A84",
+   "no": 84,
+   "noLabel": {
+    "en": "Section 84"
+   },
+   "chapter": {
+    "en": "Part XII"
+   },
+   "heading": {},
+   "text": {
+    "en": "84. In this Part the expression \"police officer\" includes | Interpreta-\nan extra police officer, a member of the Police Reserve, \"°\"\n\nthe Police Volunteer Reserve and the Auxiliary Police\n\nand any member of the police force of any territory\n\npresent in the Federation under the provisions of this\n\nAct.\n\nPART XIV\n\nj                          GENERAL"
+   }
+  },
+  {
+   "id": "MY-H276-A85",
+   "no": 85,
+   "noLabel": {
+    "en": "Section 85"
+   },
+   "chapter": {
+    "en": "PART XIV"
+   },
+   "heading": {},
+   "text": {
+    "en": "85. A police officer may in the performance of his duties Carrying\ncarry arms.                                                             of arms."
+   }
+  },
+  {
+   "id": "MY-H276-A86",
+   "no": 86,
+   "noLabel": {
+    "en": "Section 86"
+   },
+   "chapter": {
+    "en": "PART XIV"
+   },
+   "heading": {},
+   "text": {
+    "en": "86. (1) Any police officer who, without reasonable Desertion.\ncause, the onus of proof whereof shall rest with him,\n\nabsents himself from duty for a continuous period of\ntwenty-one days or in circumstances which show that\n\nhe has the intention of not returning to his duty shall\n\nbe deemed to have deserted, and shall be guilty of an\n\noffence and shall be liable on conviction to imprison-\n\nment for a term not exceeding twelve months.\n\n(2) Where a person has been convicted under this\nsection, the Disciplinary Authority may direct that all\narrears of pay due to such person be forfeited.\n\n(3) In subsection (1) the expression \"police officer\"\nincludes an extra police officer, a member of the Police\nReserve and Police Volunteer Reserve when mobilised\nunder the provisions of this Act and any member of the\npolice force of another territory present in the Federa-\ntion under the provisions of this Act."
+   }
+  },
+  {
+   "id": "MY-H276-A87",
+   "no": 87,
+   "noLabel": {
+    "en": "Section 87"
+   },
+   "chapter": {
+    "en": "PART XIV"
+   },
+   "heading": {},
+   "text": {
+    "en": "87. Any police officer who causes, incites, or joins in Mutiny.\nany mutiny or disaffection in the Force or conspires\nwith any other person to cause such mutiny or disaffec-\ntion, or does not use his utmost endeavour to suppress\nany such mutiny or disaffection or, having knowledge\n\n[Pt. XIV, S, 87-89]\n\nPenalty for\ncausing\ndisaffection.\n\nUnlawful\nPossession,\nmanufacture,\nsale or\nsupply of\narticles\nsupplied to\npolice\nofficers and\nunauthorised\nuse of police\nuniform.\n\nd4                   41 oF 1967\n\nof any mutiny or disaffection or intended mutiny or\ndisaffection, does not, without delay, give information\nthereof to the police officer to whom he is subordinate,\nshall be guilty of an offence and shall be liable on\nconviction to imprisonment for a term not exceeding\nfive years."
+   }
+  },
+  {
+   "id": "MY-H276-A88",
+   "no": 88,
+   "noLabel": {
+    "en": "Section 88"
+   },
+   "chapter": {
+    "en": "PART XIV"
+   },
+   "heading": {},
+   "text": {
+    "en": "88. (1) Any person who causes or attempts to cause or\ndoes any act calculated to cause disaffection amongst\nthe members of the Force or induces or attempts to\ninduce any such member to withhold his services or\nto commit a breach of discipline shall be guilty of an\noffence and shall be liable on conviction to imprison-\nment for a term not exceeding two years or to a fine\nnot exceeding one thousand ringgit or to both such\nfine and imprisonment. Any senior police officer may,\nwithout warrant, arrest any person who is reasonably\nsuspected of having committed an offence under this\nsection.\n\n(2) In section 87 and this section the expression\n\"police officer\" includes all persons appointed or\nengaged for police duties under the provisions of this\nAct and any member of the police force of another\nterritory present in the Federation under the provisions\nof this Act; and the expression \"the Force\" includes\nall bodies established or raised for police duties under\nthe provisions of this Act and the police force of\nanother territory of which any member may be present\nin the Federation under the provisions of this Act."
+   }
+  },
+  {
+   "id": "MY-H276-A89",
+   "no": 89,
+   "noLabel": {
+    "en": "Section 89"
+   },
+   "chapter": {
+    "en": "PART XIV"
+   },
+   "heading": {},
+   "text": {
+    "en": "89. Any person, not being a police officer, who—\n\n(a) is found in possession of any article which has\nbeen supplied to any police officer for the\nexecution of his duty, or any medal or decora-\ntion granted to any police officer for gallantry,\nservice or good conduct, and who fails to\naccount satisfactorily for his possession thereof,\nor who, without lawful authority, purchases or\nreceives any such article, medal or decoration\nor who aids or abets any police officer in selling\nor disposing of any such article, medal or\ndecoration;\n\nPOLICE                        45\n\n(b) without lawful authority, manufactures, sells or\nsupplies, or offers to sell or supply, a reasonable\nfacsimile of any badge or device used to indicate\nthat a person is a member of the Force or of\nany body established or raised for police duties\nunder the provisions of this Act, or a reason-\nable facsimile of any badge or device used to\nindicate the rank of a member of the Force or\nof a member of any body established or raised\nfor police duties under the provisions of this\nAct, or a reasonable facsimile of any medal or\ndecoration  granted to any police officer for\ngallantry, service or good conduct or who aids\nor abets any person in manufacturing, selling, or\nsupplying such facsimiles; or\n\n(c) without the permission of a  Commanding\nOfficer, unlawfully , wears,- uses or. displays\notherwise than in the course of a Stage play or\nother theatrical. performance, any, uniform - of\nthe Force or any badge or device' to: indicate\nthat he is a member of the Force or: of any\nother body established or raised for police\nduties under the provisions of this Act, or any\ndress having the appeardnce of or: bearing the\n‘distinctive marks of such uniform,\n\nshall be guilty of an offence under this Act. ."
+   }
+  },
+  {
+   "id": "MY-H276-A90",
+   "no": 90,
+   "noLabel": {
+    "en": "Section 90"
+   },
+   "chapter": {
+    "en": "PART XIV"
+   },
+   "heading": {},
+   "text": {
+    "en": "90. Any person who, in a police station, behaves in a Disorderly\nriotous, indecent, disorderly or insulting manner shall conductin\nbe guilty of an offence under this Act...             station."
+   }
+  },
+  {
+   "id": "MY-H276-A91",
+   "no": 91,
+   "noLabel": {
+    "en": "Section 91"
+   },
+   "chapter": {
+    "en": "PART XIV"
+   },
+   "heading": {},
+   "text": {
+    "en": "91. Any police officer may, without warrant, arrest any Police officer\nperson who contravenes or who is reasonably suspected Without\nof having committed any offence under the provisions warrant for\nof sections 31 (2), 86, 87, 89 and 90.              okenyes\n              sections\n31 (2), 86, 87,\n(                            89 and 90."
+   }
+  },
+  {
+   "id": "MY-H276-A92",
+   "no": 92,
+   "noLabel": {
+    "en": "Section 92"
+   },
+   "chapter": {
+    "en": "PART XIV"
+   },
+   "heading": {},
+   "text": {
+    "en": "92. (1) Notwithstanding -  adiyttithie  contained in any Police officer\nother  law, any police ‘officer who, subject to the nottobe .\nprovisions of this Act, becomes or after the expiration Trade\nof one month, from the coming into force of this Act ~\"°™\nremains, a member of any trade, union, or of any\nassociation with: political objects, or any political party\n‘shall be guilty of an offence under this Act.\n\nPolice .\nAssociations.\n\nGeneral\npenalty.\n\nRules.\n\n46                     41 oF 1967\n\n(2) For the purpose of this section any question\nwhether any body is a trade union or association to\nwhich this section applies shall be determined by the\nMinister.\n\n(3) In this section the expression \"police officer'\nincludes an extra police officer and any member of the\npolice force of another territory present in the Federa-\ntion under the provisions of this Act.\n\n'"
+   }
+  },
+  {
+   "id": "MY-H276-A93",
+   "no": 93,
+   "noLabel": {
+    "en": "Section 93"
+   },
+   "chapter": {
+    "en": "PART XIV"
+   },
+   "heading": {},
+   "text": {
+    "en": "93. For the purpose of enabling police officers to con-\nsider and bring to the notice of the Government all\nmatters affecting their welfare and efficiency, including\npay, pensions and conditions of service, other than\nquestions of promotion affecting individuals and of\ndiscipline, there may be established one or more asso-\nciations which shall operate and be administered in\naccordance with rules. Any such association and any\nbranch thereof shall be entirely independent of and\nunassociated with any body or person outside the Force,\nand shall be exempt from the provisions of any law\nrelating to the registration of societies."
+   }
+  },
+  {
+   "id": "MY-H276-A94",
+   "no": 94,
+   "noLabel": {
+    "en": "Section 94"
+   },
+   "chapter": {
+    "en": "PART XIV"
+   },
+   "heading": {},
+   "text": {
+    "en": "94. Any person who is guilty of an offence under this\nAct for which no other penalty is expressly provided\nshall be liable to a fine not exceeding five hundred\nringgit or to, imprisonment for a term not exceeding\nsix months or to both such fine and imprisonment."
+   }
+  },
+  {
+   "id": "MY-H276-A95",
+   "no": 95,
+   "noLabel": {
+    "en": "Section 95"
+   },
+   "chapter": {
+    "en": "PART XIV"
+   },
+   "heading": {},
+   "text": {
+    "en": "95. (1) The Yang di-Pertuan Agong may make rules,\nnot inconsistent with the provisions of this Act, for\ncarrying out the purposes of this Act.\n\n(2) In particular and without prejudice to the\ngenerality of the foregoing, the Yang di-Pertuan\nAgong may' make rules relating to all or any of the\nfollowing matters—            |\n\n(a) the classification and seniority of the various\n\ngrades, ranks and appointments in the Force\n\n- and in all other bodies established. or raised\n\nfor police duties under the provisions of this\nAct;\n\n(b) the grant in special cases of honorary rank to\nany person and the occasions on which such\nperson may wear the uniform of such honorary\nrank;      |                                 |\n\n[Pt. XIV, 5. 95-96]\n\nPOLICE                                  47\n\n(c) the payment of pensions and gratuities, pay\nand allowances and compensation of members\nof the Force and of members of all other\nbodies established or raised for police duties\nunder the provisions of this Act;\n\n(d) the administration of the Police Fund;\n\n(e) all matters which, under the provisions of this\nAct, may be provided for or prescribed by\nrules;\n\n(A generally for the good order and government\nof the Force and of all other bodies established\nor raised for police duties under the provisions\nof this Act."
+   }
+  },
+  {
+   "id": "MY-H276-A96",
+   "no": 96,
+   "noLabel": {
+    "en": "Section 96"
+   },
+   "chapter": {
+    "en": "PART XIV"
+   },
+   "heading": {},
+   "text": {
+    "en": "96. (1) The Yang di-Pertuan Agong may make regula-\ntions to be called \"Police Regulations\" not inconsistent\nwith the provisions of this Act.\n\nPolice\nRegulations.\n\n(2) In particular and without prejudice to. the :\n\ngenerality of the foregoing, the Yang di-Pertuan Agong\nmay make Police Regulations, relating to all or any of\nthe following matters—\n\n(a) promotions and reductions in rank;\n\n(b) discipline, including the definition of discipli-\nnary offences, disciplinary procedure and the\nregulation and carrying out of punishment;\n\n(c) promotion and proficiency examination;\n\n(d) the description and issue of arms, ammunition,\naccoutrements, uniforms and necessaries to be\nsupplied to members of the Force and to\nmembers of all other bodies established or\nraised for police duties under the provisions of\nthis Act;\n\n(e) leave of absence;\n\n(f) the fees to be charged to members of the\npublic or statutory authorities for extra or\nspecial police services and for. copies of\nreports, plans and photographs made by police\nofficers;                 |\n\n(g) all matters which, under the provisions of this\nAct, may be provided for or prescribed by\nPolice Regulations.       |\n\n(Am. Act\nA454\n\n[Pt. XIV, S. 97-99]\n\nStanding\nOrders,\n\nRepeal and\nSaving.\n\nTransitional.\n\n1 of 1951.\n\n48                         41 or 1967"
+   }
+  },
+  {
+   "id": "MY-H276-A97",
+   "no": 97,
+   "noLabel": {
+    "en": "Section 97"
+   },
+   "chapter": {
+    "en": "PART XIV"
+   },
+   "heading": {},
+   "text": {
+    "en": "97. The Inspector-General may issue administrative\norders, to be called \"Standing Orders\", not inconsistent\nwith the provisions of this Act or of rules or Police\nRegulations made thereunder, for the general control,\ndirection and information of the Force and of all\nbodies established or raised for police duties under\nthe provisions of this Act."
+   }
+  },
+  {
+   "id": "MY-H276-A98",
+   "no": 98,
+   "noLabel": {
+    "en": "Section 98"
+   },
+   "chapter": {
+    "en": "PART XIV"
+   },
+   "heading": {},
+   "text": {
+    "en": "98. The laws specified in the Third Schedule are hereby\nrepealed :\n\nProvided that any rules, regulations or orders made\nunder the provisions of the laws repealed under this\nsection in so far as they are not inconsistent with the\nprovisions of this Act shall remain in force and\ncontinue to have effect until replaced or revoked by\nrules, regulations or orders made under the provisions\nof this Act."
+   }
+  },
+  {
+   "id": "MY-H276-A99",
+   "no": 99,
+   "noLabel": {
+    "en": "Section 99"
+   },
+   "chapter": {
+    "en": "PART XIV"
+   },
+   "heading": {},
+   "text": {
+    "en": "99. (1) With respect to members of the Force as consti-\n\ntuted under this Act, the following provisions shall\n\nhave effect—\n\n(a) except as provided in paragraph (b) for the\npurpose of the payment of pensions, gratuities,\nor other allowances to members of the Force\nthe Pensions Ordinance, 1951, of the States of\nMalaya and any rules, regulations and orders\nfor the time being in force in the States of\nMalaya shall apply to such members; and for\nthe purpose of this paragraph the Ordinance,\nrules, regulations and orders aforesaid shall be\nextended to the States of Sabah and Sarawak\nwith such modifications as may be necessary\n\n er put the provisions of this paragraph into\neffect;                       |\n\n(b) members of the Force to whom the provisions\nof any other laws relating to pensions, gratuities\nand other.allowances apply immediately before\n\n‘the commencement of this Act shall continue\nto be governed by the provisions of such laws;\nand where any such law is repealed by this\nAct such law shall notwithstanding such repeal\nand for the purpose only of this paragraph\ncontinue to be operative and to have effect on\nsuch members;\n\nPOLICE                       49\n\n(c) as respects members of the Force in the States\nof Sabah and Sarawak nothing in this section\nshall affect or take away from any such mem-\nbers any such terms or conditions of service\nconferred upon or enjoyed or acquired by\nthem immediately before the commencement\nof this Act.\n\n(2) With respect to members of any auxiliary bodies\nestablished or raised under any of the laws repealed\nby this Act such members shall notwithstanding such\nrepeal continue to be members of such bodies as if\nsuch bodies were established or raised under this Act\nuntil discharged or appointed in accordance with the\nprovisions of this Act."
+   }
+  },
+  {
+   "id": "MY-H276-A100",
+   "no": 100,
+   "noLabel": {
+    "en": "Section 100"
+   },
+   "chapter": {
+    "en": "PART XIV"
+   },
+   "heading": {},
+   "text": {
+    "en": "100. Any reference in any other laws to ranks provided Modification\nfor or allowed by any law repealed by this Act shall ef other\nafter the commencement of this Act be modified and\nconstrued as the equivalent rank provided for or\n\nallowed by the provisions of this Act.\n\nFirst SCHEDULE\n(Sections 2 and 5 (2))\nPOLICE RANKS"
+   }
+  }
+ ]
+}

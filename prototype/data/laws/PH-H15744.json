@@ -1,0 +1,66 @@
+{
+ "id": "PH-H15744",
+ "title": {
+  "zh": null,
+  "en": "An Act Changing the Name of the Barrio of San Francisco, Municipality of Zaragoza, Province of Nueva Ecija, to that of General Luna.",
+  "orig": "An Act Changing the Name of the Barrio of San Francisco, Municipality of Zaragoza, Province of Nueva Ecija, to that of General Luna.",
+  "vi": "Đạo luật đổi tên Barrio San Francisco, Thị trấn Zaragoza, Tỉnh Nueva Ecija thành General Luna",
+  "th": "พระราชบัญญัติเปลี่ยนชื่อบาริโอ San Francisco, เทศบาล Zaragoza, จังหวัด Nueva Ecija เป็น General Luna",
+  "id": "Undang-Undang mengubah nama Barrio San Francisco, Kotamadya Zaragoza, Provinsi Nueva Ecija menjadi General Luna",
+  "ms": "Akta menukar nama Barrio San Francisco, Perbandaran Zaragoza, Wilayah Nueva Ecija kepada General Luna"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1936-09-08",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 27",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 241,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00027_1936_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00027_1936_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H15744-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The name of the barrio of San Francisco, of the municipality of Zaragoza, Province of Nueva\nEcija, is hereby changed to that of General Luna."
+   }
+  },
+  {
+   "id": "PH-H15744-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nEnacted, without Executive approval, September 8, 1936"
+   }
+  }
+ ]
+}

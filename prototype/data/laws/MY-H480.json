@@ -1,0 +1,612 @@
+{
+ "id": "MY-H480",
+ "title": {
+  "zh": "2001年能源委员会法",
+  "en": "ENERGY COMMISSION ACT 2001",
+  "orig": "ENERGY COMMISSION ACT 2001",
+  "vi": "Luật về Ủy ban Năng lượng năm 2001",
+  "th": "พระราชบัญญัติคณะกรรมการพลังงาน ค.ศ. 2001",
+  "id": "Undang-Undang Komisi Energi Tahun 2001",
+  "ms": "Akta Suruhanjaya Tenaga 2001"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-10",
+ "language": "en",
+ "level": "law",
+ "category": "04_劳工与行政法",
+ "status": "active",
+ "promulgatedDate": "2001",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "ACT610",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 41,
+ "chars": 32407,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-detail.php?act=610&lang=BI"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\04_劳工与行政法\\2001_610_ENERGY COMMISSION ACT 2001.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 41 条；逐字未改写（源自厂商 OCR 文本）。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H480-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "1. (1) This Act may be cited as the Energy Commission Act\n\n(2) This Act comes into operation on a date to be appointed by\n\nthe Minister by notification in the Gazette.\n\n(3) This Act applies throughout Malaysia.\n\n(4) The Minister may by order published in the Gazette suspend\n\nthe operation of the whole or any of the provisions of this Act in any\n\npart of Malaysia.\n\nInterpretation"
+   }
+  },
+  {
+   "id": "MY-H480-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "2. In this Act, unless the context otherwise requires—\n\n\"energy supply activities\" includes—\n\n(a) in relation to electricity—\n\n(i) the supply and use of electricity to which the electricity\n\nsupply laws apply; and\n\n(ii) the generation, transmission and distribution of\n\nelectricity for the supply and use of electricity under\n\nsubparagraph (i);\n\n(b) in relation to gas—\n\n(i) the supply and use of gas to which the gas supply\n\nlaws apply; and\n\n(ii) the delivery, transportation, distribution and\n\nreticulation of gas for the supply and use of gas\n\nunder subparagraph (i); and\n\n(c) any other activity regulated under the energy supply laws;\n\n\"member\" means the Chairman and other members of the\n\nCommission appointed under section 5;\n\n\"electricity\" means electrical energy or electrical power when\n\ngenerated, produced, transmitted, distributed, supplied or utilised\n\nfor any purpose except for the transmission of any communication\n\nor signal;\n\n\"gas\" means methane, ethane, propane, butane or hydrocarbons\n\nwhich may consist of one or more of any of those gases, either in the\n\nform of gas or liquid;\n\n\"appointed day\" means the day on which this Act comes into\n\noperation;\n\n\"committee\" means any committee established by the Commission\n\nunder section 12;\nEnergy Commission 7\n\n\"Chief Executive Officer\" means the Chief Executive Officer of\n\nthe Commission, being the Chairman, and having the duties described\n\nin section 18;\n\n\"Fund\" means the fund established under section 24;\n\n\"Minister\" means the Minister for the time being charged with the\n\nresponsibility for matters relating to electricity supply or gas supply,\n\nas the case may be, except—\n\n(a) in Parts II and IV, in relation to the appointment, revocation\n\nof appointment or resignation of the Chairman and members\n\nof the Commission, means the Minister for the time being\n\ncharged with the responsibility for matters relating to\n\nelectricity supply with the concurrence of the Minister for\n\nthe time being charged with the responsibility for matters\n\nrelating to gas supply; and\n\n(b) in Part V, means the Minister for the time being charged\n\nwith the responsibility for matters relating to electricity\n\nsupply;\n\n\"Minister of Finance\" means the Minister for the time being\n\ncharged with the responsibility for finance;\n\n\"officer\" means any officer, servant or employee of the Commission\n\nappointed under this Act;\n\n\"Chairman\" means the Chairman of the Commission appointed\n\nunder paragraph 5(1)(a);\n\n\"installation\"—\n\n(a) in relation to electricity, has the meaning assigned to it by\n\nthe electricity supply laws; and\n\n(b) in relation to gas, has the meaning assigned to it by the gas\n\nsupply laws;\n\n\"Commission\" means the Commission established under section\n\n3;\n\n\"renewable energy\" means energy which is not depleted when\n\nused and includes energy obtained from energy sources such as\n\nbiomass, hydro power, solar power, geothermal power, wind power,\n\nwaves and tides;\n\n\"non-renewable energy\" means energy which depletes when used\n\nand includes energy from energy sources such as coal, oil shale, tar\n\nsands, crude oil, oil, natural gas and nuclear power;\n\n\"electricity supply laws\" means the Electricity Supply Act 1990\n\n[Act 447] and includes—\n\n(a) any subsidiary legislation made under the Electricity Supply\n\nAct 1990; and\n\n(b) any other legislation relating to electricity under which\n\nthe Commission is to exercise any function, including\n\nany subsidiary legislation made under such\n\nlegislation;\n\n\"gas supply laws\" means the Gas Supply Act 1993 [Act 501] and\n\nincludes—\n\n(a) any subsidiary legislation made under the Gas Supply Act\n\n1993; and\n\n(b) any other legislation relating to gas under which\n\nthe Commission is to exercise any function, including\n\nany subsidiary legislation made under such\n\nlegislation;\n\n \"energy supply laws\" means—\n\n(a) this Act and any subsidiary legislation made under this\n\nAct;\n\n(b) the electricity supply laws;\n\n(c) the gas supply laws; and\n\n(d) any other written law under which the Commission is to\n\nexercise any function.\nEnergy Commission 9\n\nPART II\n\nENERGY COMMISSION\n\nEstablishment of Commission"
+   }
+  },
+  {
+   "id": "MY-H480-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "chapter": {
+    "en": "PART II"
+   },
+   "heading": {},
+   "text": {
+    "en": "3. (1) There is hereby established a body corporate by the name of\n\n\"Suruhanjaya Tenaga\" with perpetual succession and a common\n\nseal, and which may sue and be sued in its corporate name.\n\n(2) Subject to and for the purposes of this Act, the Commission\n\nmay enter into contracts and may acquire, purchase, take, hold, and\n\nenjoy movable and immovable property of every description and\n\nmay convey, assign, surrender, yield up, charge, mortgage, demise,\n\nreassign, transfer, or otherwise dispose of, or deal with, any movable\n\nor immovable property or any interest vested in the Commission\n\nupon such terms as it deems fit.\n\nCommon seal"
+   }
+  },
+  {
+   "id": "MY-H480-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "chapter": {
+    "en": "PART II"
+   },
+   "heading": {},
+   "text": {
+    "en": "4. (1) The Commission shall have a common seal which shall bear\n\na device approved by the Commission and the seal may from time to\n\ntime be broken, changed, altered and made anew as the Commission\n\nmay think fit.\n\n(2) Until a seal is provided by the Commission, a stamp bearing\n\nthe words \"Suruhanjaya Tenaga\" may be used and shall be deemed\n\nto be the common seal of the Commission.\n\n(3) The common seal shall be kept in the custody of the Chairman\n\nor any other person authorized by the Commission, and shall be\n\nauthenticated by either the Chairman or such person as may be\n\nauthorized by the Chairman in writing.\n\n(4) All deeds, documents and other instruments purporting to be\n\nsealed with the seal and duly authenticated shall, until the contrary\n\nis proven, be deemed to have been validly executed.\n\n(5) Any deed, document or other instrument which, if executed\n\nby a person not being a body corporate, is not required to be under\n\nseal may in like manner be executed by a member of the Commission\n\nor any other person authorized by the Commission on behalf of the\n\nCommission.\n\n(6) The common seal of the Commission shall be officially and\n\njudicially noticed.\n\nMembership of Commission"
+   }
+  },
+  {
+   "id": "MY-H480-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "chapter": {
+    "en": "PART II"
+   },
+   "heading": {},
+   "text": {
+    "en": "5. (1) The Commission shall consist of the following members\n\nwho shall be appointed by the Minister:\n\n(a) a Chairman;\n\n(b) two members representing the Government; and\n\n(c) not less than two but not more than four other members.\n\n(2) The Minister may appoint temporarily any member of the\n\nCommission to act as the Chairman for the period—\n\n(a) when the office of the Chairman is vacant;\n\n(b) when the Chairman is absent from duty or from Malaysia;\n\nor\n\n(c) when the Chairman is, for any other reason, unable to\n\nperform the duties of his office.\n\nApproval to hold other office"
+   }
+  },
+  {
+   "id": "MY-H480-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "chapter": {
+    "en": "PART II"
+   },
+   "heading": {},
+   "text": {
+    "en": "6. The Chairman shall not, while holding such office, hold any\n\nother office or employment, whether remunerated or not, without\n\nthe Minister's prior written approval.\n\nTenure of office"
+   }
+  },
+  {
+   "id": "MY-H480-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7"
+   },
+   "chapter": {
+    "en": "PART II"
+   },
+   "heading": {},
+   "text": {
+    "en": "7. (1) A member of the Commission shall hold office for a term\n\nnot exceeding three years.\n\n(2) A member of the Commission shall be eligible for reappointment\n\nbut no member shall hold office for more than two consecutive\n\nterms.\nEnergy Commission 11\n\nRemuneration and allowances"
+   }
+  },
+  {
+   "id": "MY-H480-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8"
+   },
+   "chapter": {
+    "en": "PART II"
+   },
+   "heading": {},
+   "text": {
+    "en": "8. (1) The Chairman shall be paid such remuneration and allowances\n\nas the Minister may determine, after consultation with the Minister\n\nof Finance.\n\n(2) All other members of the Commission shall be paid such\n\nallowances at such rates as the Minister may determine, after\n\nconsultation with the Minister of Finance.\n\nRevocation of appointment and resignation"
+   }
+  },
+  {
+   "id": "MY-H480-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9"
+   },
+   "chapter": {
+    "en": "PART II"
+   },
+   "heading": {},
+   "text": {
+    "en": "9. (1) The Minister may, at any time, revoke the appointment of\n\nany member of the Commission without assigning any reason for the\n\nrevocation.\n\n(2) A member of the Commission may, at any time, resign from\n\nhis appointment by giving a notice in writing to the Minister.\n\nVacation of office"
+   }
+  },
+  {
+   "id": "MY-H480-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10"
+   },
+   "chapter": {
+    "en": "PART II"
+   },
+   "heading": {},
+   "text": {
+    "en": "10. The office of a member of the Commission shall be vacated—\n\n(a) if he dies;\n\n(b) if there has been proved against him, or he has been\n\nconvicted on, a charge in respect of—\n\n(i) an offence involving fraud, dishonesty or moral\n\nturpitude;\n\n(ii) an offence under any law relating to corruption; or\n\n(iii) any other offence punishable with imprisonment (in\n\nitself only or in addition to or in lieu of a fine) for\n\nmore than two years;\n\n(c) if his conduct, whether in connection with his duties as a\n\nmember of the Commission or otherwise, has been such as\n\nto bring discredit on the Commission;\n\n(d) if he becomes a bankrupt;\n\n(e) if he is of unsound mind or is otherwise incapable of\n\ndischarging his duties;\n\n(f) in the case of the Chairman, if he absents himself from\n\nthree consecutive meetings of the Commission without\n\nleave of the Minister;\n\n(g) in the case of a member of the Commission other than the\n\nChairman, if he absents himself from three consecutive\n\nmeetings of the Commission without leave of the Chairman;\n\n(h) if his appointment is revoked by the Minister; or\n\n(i) if his resignation is accepted by the Minister.\n\nStatutory declaration by members of Commission"
+   }
+  },
+  {
+   "id": "MY-H480-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11"
+   },
+   "chapter": {
+    "en": "PART II"
+   },
+   "heading": {},
+   "text": {
+    "en": "11. (1) No person shall be appointed as a member of the Commission\n\nunless before such appointment such person makes a statutory\n\ndeclaration whether he has any interest, financial or otherwise, in\n\nany undertaking involving energy supply activities.\n\n(2) If a member of the Commission acquires any interest, financial\n\nor otherwise, in any undertaking involving energy supply activities\n\nhe shall, within one month after such acquisition, give notice in\n\nwriting to the Minister specifying the interest acquired, and the\n\nMinister may, after taking the matter into consideration, if he thinks\n\nfit, declare that the person has vacated his office.\n\nCommission may establish committee"
+   }
+  },
+  {
+   "id": "MY-H480-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12"
+   },
+   "chapter": {
+    "en": "PART II"
+   },
+   "heading": {},
+   "text": {
+    "en": "12. (1) The Commission may establish any committee as it considers\n\nnecessary or expedient to assist it in the performance of its functions\n\nunder the energy supply laws.\n\n(2) The Commission may elect any of its members to be the\n\nchairman of a committee.\n\n(3) The Commission may appoint any person to a committee.\n\n(4) A member of a committee shall hold office for such term as\n\nmay be specified in his letter of appointment and is eligible for\n\nreappointment.\nEnergy Commission 13\n\n(5) The Commission may revoke the appointment of any\n\nmember of a committee without assigning any reason for the revocation.\n\n(6) A member of a committee may, at any time, resign by giving\n\na notice in writing to the chairman of the committee.\n\n(7) The Commission may, at any time, discontinue or alter the\n\nconstitution of a committee.\n\n(8) A committee may regulate its own procedure.\n\n(9) A committee shall be subject to, and act in accordance with,\n\nany direction given to it by the Commission.\n\n(10) The meetings of a committee shall be held at such times and\n\nplaces as the chairman of the committee may determine.\n\n(11) A committee may invite any person to attend any of its\n\nmeetings for the purpose of advising it on any matter under discussion\n\nbut that person shall not be entitled to vote at the meeting.\n\n(12) The members of a committee and any person invited under\n\nsubsection (11) shall be paid such allowances and other expenses as\n\nthe Commission may determine.\n\nSchedule"
+   }
+  },
+  {
+   "id": "MY-H480-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13"
+   },
+   "chapter": {
+    "en": "PART II"
+   },
+   "heading": {},
+   "text": {
+    "en": "13. (1) The Schedule applies to members of the Commission.\n\n(2) The Minister may amend the Schedule by order published in\n\nthe Gazette.\n\nPART III\n\nFUNCTIONS AND POWERS OF COMMISSION\n\nFunctions and powers of Commission"
+   }
+  },
+  {
+   "id": "MY-H480-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14"
+   },
+   "chapter": {
+    "en": "PART III"
+   },
+   "heading": {},
+   "text": {
+    "en": "14. (1) The Commission shall have all the functions imposed on\n\nit under the energy supply laws and shall also have the following\n\nfunctions:\n\n(a) to advise the Minister on all matters concerning the national\n\npolicy objectives for energy supply activities;\n\n(b) to advise the Minister on all matters relating to the generation,\n\nproduction, transmission, distribution, supply and use of\n\nelectricity as provided under the electricity supply\n\nlaws;\n\n(c) to advise the Minister on all matters relating to the supply\n\nof gas through pipelines and the use of gas as provided\n\nunder the gas supply laws;\n\n(d) to implement and enforce the energy supply laws;\n\n(e) to regulate all matters relating to the electricity supply\n\nindustry and to protect any person from dangers arising\n\nfrom the generation, production, transmission, distribution,\n\nsupply and use of electricity as provided under the electricity\n\nsupply laws;\n\n(f) to regulate all matters relating to the supply of gas through\n\npipelines and to protect any person from dangers arising\n\nfrom the supply of gas through pipelines and the use of gas\n\nas provided under the gas supply laws;\n\n(g) to promote efficiency, economy and safety in the generation,\n\nproduction, transmission, distribution, supply and use of\n\nelectricity and in the supply of gas through pipelines and\n\nthe use of gas supplied through pipelines;\n\n(h) to promote and safeguard competition and fair and efficient\n\nmarket conduct or, in the absence of a competitive market,\n\nto prevent the misuse of monopoly or market power in\n\nrespect of the generation, production, transmission,\n\ndistribution and supply of electricity and the supply of gas\n\nthrough pipelines;\n\n(i) to promote the use of renewable energy and the conservation\n\nof non-renewable energy;\n\n(j) to promote research into, and the development and the use\n\nof, new techniques relating to—\n\n(i) the generation, production, transmission, distribution,\n\nsupply and use of electricity; and\n\n(ii) the supply of gas through pipelines and the use of\n\ngas supplied through pipelines;\nEnergy Commission 15\n\n(k) to encourage and promote the development of the electricity\n\nsupply industry and the supply of gas through pipelines\n\nincluding in the area of training;\n\n(l) to encourage and promote self-regulation in the electricity\n\nsupply industry and the supply of gas through pipelines;\n\n(m) to carry out any function conferred by or under the energy\n\nsupply laws;\n\n(n) to review the energy supply laws and to make the necessary\n\nrecommendations to the Minister; and\n\n(o) to carry on all such activities as may appear to the Commission\n\nrequisite, advantageous or convenient for the purpose of\n\ncarrying out or in connection with the performance of its\n\nfunctions under the energy supply laws.\n\n(2) The Commission shall have all such powers as may be\n\nnecessary for, or in connection with, or reasonably incidental to, the\n\nperformance of its functions under the energy supply laws.\n\nDelegation of Commission's functions or powers"
+   }
+  },
+  {
+   "id": "MY-H480-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15"
+   },
+   "chapter": {
+    "en": "PART III"
+   },
+   "heading": {},
+   "text": {
+    "en": "15. (1) The Commission may, in writing, delegate any of its\n\nfunctions or powers, other than its power to make subsidiary legislation,\n\nto—\n\n(a) the Chairman of the Commission;\n\n(b) a member of the Commission;\n\n(c) a committee established by the Commission; or\n\n(d) an officer of the Commission.\n\n(2) A person or committee, as the case may be, delegated with\n\nsuch function or power shall be bound to observe and have regard to\n\nall conditions and restrictions imposed by the Commission and all\n\nrequirements, procedures and matters specified by the Commission.\n\n(3) A function or power delegated under this section shall be\n\nperformed and exercised in the name and on behalf of the Commission.\n\n(4) A delegation under this section shall not preclude the\n\nCommission itself from performing or exercising at any time any of\n\nthe delegated functions or powers.\n\nDirection by Minister"
+   }
+  },
+  {
+   "id": "MY-H480-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16"
+   },
+   "chapter": {
+    "en": "PART III"
+   },
+   "heading": {},
+   "text": {
+    "en": "16. (1) The Commission shall be responsible to the Minister.\n\n(2) The Minister may give to the Commission directions of a\n\ngeneral character, consistent with the energy supply laws, relating\n\nto the performance of the functions and powers of the Commission\n\nand the Commission shall give effect to such directions.\n\nCommission to furnish information"
+   }
+  },
+  {
+   "id": "MY-H480-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17"
+   },
+   "chapter": {
+    "en": "PART III"
+   },
+   "heading": {},
+   "text": {
+    "en": "17. The Commission shall furnish to the Minister, and any public\n\nauthority as may be specified by the Minister, such returns, reports,\n\naccounts and information with respect to its activities, its finances\n\nand the policy it is pursuing or proposes to pursue in the performance\n\nof any of its functions under the energy supply laws as the Minister\n\nmay require from time to time.\n\nPART IV\n\nOFFICERS OF THE COMMISSION\n\nChief Executive Officer"
+   }
+  },
+  {
+   "id": "MY-H480-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18"
+   },
+   "chapter": {
+    "en": "PART IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "18. (1) Without prejudice to the other provisions of this Act, the\n\nChairman shall also be the Chief Executive Officer of the Commission.\n\n(2) The Commission shall vest in the Chief Executive Officer\n\nsuch power and impose upon him such duties as may be determined\n\nby the Commission.\n\n(3) The Chief Executive Officer shall be responsible for the\n\noverall administration and management of the functions and the day\n\nto day affairs of the Commission.\n\n(4) The Chief Executive Officer shall have general control of the\n\nother officers of the Commission.\nEnergy Commission 17\n\n(5) The Chief Executive Officer shall perform such further\n\nduties as the Minister and the Commission may direct from time to\n\ntime.\n\n(6) In discharging his duties, the Chief Executive Officer shall\n\nact under the general authority and directions of the Commission.\n\nAppointment of officers of Commission"
+   }
+  },
+  {
+   "id": "MY-H480-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19"
+   },
+   "chapter": {
+    "en": "PART IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "19. The Commission may appoint such number of officers as it\n\nthinks desirable and necessary, who shall be paid such remuneration,\n\nallowances and benefits, and whose appointment shall be, on such\n\nterms as the Commission considers appropriate, for carrying out the\n\npurposes of the energy supply laws.\n\nConditions of service"
+   }
+  },
+  {
+   "id": "MY-H480-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20"
+   },
+   "chapter": {
+    "en": "PART IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "20. The Commission may, with the approval of the Minister,\n\ndetermine the conditions of service of its officers.\n\nLoans and advances"
+   }
+  },
+  {
+   "id": "MY-H480-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21"
+   },
+   "chapter": {
+    "en": "PART IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "21. The Commission may grant loans and make advances to its\n\nofficers for such purposes and on such terms as the Commission may\n\ndetermine.\n\nPayment of retirement benefits, etc."
+   }
+  },
+  {
+   "id": "MY-H480-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22"
+   },
+   "chapter": {
+    "en": "PART IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "22. The Commission may make arrangements for the payment to\n\nits officers and their dependants of such retirement benefits, gratuities\n\nand other allowances as the Commission may determine.\n\nCommission may adopt regulations, etc."
+   }
+  },
+  {
+   "id": "MY-H480-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23"
+   },
+   "chapter": {
+    "en": "PART IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "23. In making any regulations under this Part, the Commission\n\nmay, with the approval of the Minister, adopt with such modifications\n\nas it deems fit any regulations, rules, policies, circulars and directives\n\nenacted or issued by the Federal Government.\n\nPART V\n\nFINANCE\n\nFund"
+   }
+  },
+  {
+   "id": "MY-H480-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24"
+   },
+   "chapter": {
+    "en": "PART V"
+   },
+   "heading": {},
+   "text": {
+    "en": "24. (1) There is hereby established, for the purposes of the energy\n\nsupply laws, a Fund to be administered and controlled by the\n\nCommission.\n\n(2) The Fund shall consist of—\n\n(a) such sums as may be provided by Parliament for the\n\npurposes of the energy supply laws from time to time;\n\n(b) all or any part of the licence or other fees, administration\n\ncharges, levies or other charges imposed by or payable\n\nto the Commission under the energy supply laws;\n\n(c) all monies derived as income from investments by the\n\nCommission;\n\n(d) all monies derived from the sale, disposal, lease or hire\n\nof, or any other dealing with, any property, mortgages,\n\ncharges or debentures vested in or acquired by the\n\nCommission;\n\n(e) all monies earned from consultancy and advisory services\n\nand any other service provided by the Commission;\n\n(f) all other monies and property which may in any manner\n\nbecome payable to or vested in the Commission in respect\n\nof any matter incidental to its functions and powers;\n\n(g) sums borrowed by the Commission under section 29;\n\nand\n\n(h) all other monies lawfully received by the Commission,\n\nincluding interest.\n\n(3) For the purpose of paragraph 24(2)(b), all monies collected\n\nwhich are in excess of the financial requirements of the Commission\n\nfor the performance of its functions under this Act may be paid\n\ninto the Consolidated Fund.\nEnergy Commission 19\n\nExpenditure to be charged on Fund"
+   }
+  },
+  {
+   "id": "MY-H480-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25"
+   },
+   "chapter": {
+    "en": "PART V"
+   },
+   "heading": {},
+   "text": {
+    "en": "25. The Fund shall be expended for the following purposes:\n\n(a) paying any expenditure lawfully incurred by the\n\nCommission including legal fees and costs and other\n\nfees and costs;\n\n(b) paying for the remuneration, allowances and other\n\nexpenses of the members of the Commission,\n\nmembers of committees, and officers of the Commission,\n\nincluding the granting of loans and advances,\n\nsuperannuation allowances, retirement benefits, pensions\n\nand gratuities;\n\n(c) paying any other expenses, costs, expenditure, grants or\n\nother payments properly incurred, accepted or deemed\n\nfit by the Commission in the performance of its functions\n\nor the exercise of its powers under the energy supply\n\nlaws;\n\n(d) purchasing or hiring equipment, machinery and any other\n\nmaterials, acquiring land and any assets, and erecting\n\nbuildings, and carrying out any other works and\n\nundertakings in the performance of its functions or the\n\nexercise of its powers under the energy supply laws;\n\n(e) repaying any monies borrowed under section 29 and the\n\ninterest due on such monies; and\n\n(f) generally, paying any expenses for carrying into effect\n\nthe provisions of the energy supply laws.\n\nConservation of Fund"
+   }
+  },
+  {
+   "id": "MY-H480-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26"
+   },
+   "chapter": {
+    "en": "PART V"
+   },
+   "heading": {},
+   "text": {
+    "en": "26. It shall be the duty of the Commission to conserve the Fund\n\nby so performing its functions and exercising its power under this\n\nAct as to secure that the total revenue of the Commission are\n\nsufficient to meet all sums properly chargeable to its revenue\n\naccount including depreciation and interest on capital taking one\n\nyear with another.\n\nExpenditure and preparation of estimates"
+   }
+  },
+  {
+   "id": "MY-H480-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 27"
+   },
+   "chapter": {
+    "en": "PART V"
+   },
+   "heading": {},
+   "text": {
+    "en": "27. (1) The expenditure of the Commission up to such amount\n\nas may be authorized by the Minister for any one year shall be\n\ndefrayed out of the Fund.\n\n(2) Before 1 September each year, the Commission shall submit\n\nto the Minister an estimate of its expenditure (including the\n\nexpenditure for research and development programmes) for the\n\nfollowing year in such form and containing such particulars as\n\nthe Minister may direct.\n\n(3) The Minister shall, before 1 January the following year,\n\nnotify the Commission of the amount authorized for expenditure\n\ngenerally or of the amount authorized for each description of\n\nexpenditure based on the estimate prepared under subsection (2).\n\n(4) The Commission may, at any time, submit to the Minister\n\na supplementary estimate of its expenditure for any one year and\n\nthe Minister may allow the whole or any part of the additional\n\nexpenditure included therein.\n\nBank accounts"
+   }
+  },
+  {
+   "id": "MY-H480-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 28"
+   },
+   "chapter": {
+    "en": "PART V"
+   },
+   "heading": {},
+   "text": {
+    "en": "28. The Commission shall open and maintain an account or accounts\n\nwith such financial institution or institutions in Malaysia as the\n\nCommission thinks fit, after consulting the Minister; and every\n\nsuch account shall be operated upon as far as practicable by cheques\n\nsigned by such person or persons as may be authorized by the\n\nCommission from time to time.\n\nPower to borrow"
+   }
+  },
+  {
+   "id": "MY-H480-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Section 29"
+   },
+   "chapter": {
+    "en": "PART V"
+   },
+   "heading": {},
+   "text": {
+    "en": "29. The Commission may, from time to time, borrow in such\n\nform and at such rate of interest and for such period and upon\n\nsuch terms as to the time and method of repayment and otherwise,\n\nas the Minister may, with the concurrence of the Minister of\n\nFinance, approve, any money required by the Commission for\n\nmeeting any of its obligations or discharging any of its duties.\nEnergy Commission 21\n\nInvestment"
+   }
+  },
+  {
+   "id": "MY-H480-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Section 30"
+   },
+   "chapter": {
+    "en": "PART V"
+   },
+   "heading": {},
+   "text": {
+    "en": "30. The monies of the Commission shall, in so far as they are\n\nnot immediately required to be expended by the Commission under\n\nthis Act, be invested in such manner as the Minister may, with\n\nthe concurrence of the Minister of Finance, approve.\n\nFinancial procedure"
+   }
+  },
+  {
+   "id": "MY-H480-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Section 31"
+   },
+   "chapter": {
+    "en": "PART V"
+   },
+   "heading": {},
+   "text": {
+    "en": "31. Subject to this Act and the approval of the Minister, the\n\nCommission shall determine its own financial procedure.\n\nFinancial year"
+   }
+  },
+  {
+   "id": "MY-H480-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Section 32"
+   },
+   "chapter": {
+    "en": "PART V"
+   },
+   "heading": {},
+   "text": {
+    "en": "32. The financial year of the Commission shall begin on 1 January\n\nand end on 31 December of each year.\n\nAccounts"
+   }
+  },
+  {
+   "id": "MY-H480-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Section 33"
+   },
+   "chapter": {
+    "en": "PART V"
+   },
+   "heading": {},
+   "text": {
+    "en": "33. (1) The Commission shall cause proper accounts of the Fund\n\nto be kept and shall, as soon as practicable after the end of each\n\nfinancial year, cause to be prepared for that financial year a statement\n\nof accounts of the Commission which shall include a balance\n\nsheet and an account of income and expenditure.\n\n(2) The Commission shall cause the statement of accounts to\n\nbe audited by independent auditors appointed by the Commission.\n\n(3) The Commission shall as soon as possible send a copy of\n\nthe statement of accounts certified by the auditors and a copy of\n\nthe auditor's report to the Minister who shall cause them to be\n\nlaid before both Houses of Parliament, together with a report\n\ndealing with the activities of the Commission for the preceding\n\nfinancial year.\n\nNon-application of Statutory Bodies (Accounts and Annual\n\nReports) Act 1980"
+   }
+  },
+  {
+   "id": "MY-H480-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "Section 34"
+   },
+   "chapter": {
+    "en": "PART V"
+   },
+   "heading": {},
+   "text": {
+    "en": "34. The Statutory Bodies (Accounts and Annual Reports) Act\n\n1980 [Act 240] shall not apply to the Commission.\n\nPART VI\n\nGENERAL\n\nProsecution"
+   }
+  },
+  {
+   "id": "MY-H480-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "Section 35"
+   },
+   "chapter": {
+    "en": "PART VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "35. No prosecution shall be instituted for any offence under this\n\nAct without the consent in writing of the Public Prosecutor.\n\nPublic servant"
+   }
+  },
+  {
+   "id": "MY-H480-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "Section 36"
+   },
+   "chapter": {
+    "en": "PART VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "36. All members of the Commission and of any of its committees,\n\nand all officers and agents of the Commission, while discharging\n\ntheir duties under this Act as such members, officers or agents,\n\nshall be deemed to be public servants within the meaning of the\n\nPenal Code [Act 574].\n\nPublic Authorities Protection Act 1948"
+   }
+  },
+  {
+   "id": "MY-H480-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "Section 37"
+   },
+   "chapter": {
+    "en": "PART VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "37. The Public Authorities Protection Act 1948 [Act 198] shall\n\napply to any action, suit, prosecution or proceedings against the\n\nCommission or a member of the Commission, a member of a\n\ncommittee, and an officer or agent of the Commission in respect\n\nof any act, neglect or default done or committed by him in good\n\nfaith or any omission omitted by him in good faith, in such capacity.\n\nPower to employ"
+   }
+  },
+  {
+   "id": "MY-H480-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "Section 38"
+   },
+   "chapter": {
+    "en": "PART VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "38. The Commission may employ and pay agents and technical\n\nadvisers, including advocates and solicitors and other persons, in\n\nthe performance of its functions, the exercise of its powers or for\n\nthe better carrying into effect of the purposes of this Act.\n\nObligation of secrecy"
+   }
+  },
+  {
+   "id": "MY-H480-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "Section 39"
+   },
+   "chapter": {
+    "en": "PART VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "39. (1) Except for any of the purposes of this Act or for the\n\npurpose of any civil or criminal proceedings under any written\n\nlaw or where otherwise authorized by the Commission—\n\n(a) no member of the Commission or any of its committees\n\nor any officer or agent of the Commission or any person\nEnergy Commission 23\n\nattending any meeting of the Commission or any of its\n\ncommittees, whether during his tenure of office or during\n\nhis employment or after that, shall disclose any information\n\nwhich has been obtained by him in the course of\n\nperforming his functions and which is not published in\n\npursuance of this Act; and\n\n(b) no other person who has by any means access to any\n\ninformation or document relating to the affairs of the\n\nCommission shall disclose such information or document.\n\n(2) Any person who contravenes subsection (1) commits an\n\noffence and shall, on conviction, be liable to a fine not exceeding\n\nten thousand ringgit or to imprisonment for a term not exceeding\n\nsix months or to both.\n\nRepresentation in civil proceedings"
+   }
+  },
+  {
+   "id": "MY-H480-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "Section 40"
+   },
+   "chapter": {
+    "en": "PART VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "40. Notwithstanding any other written law—\n\n(a) in any civil proceedings by or against the Commission;\n\nor\n\n(b) in any other civil proceedings in which the Commission\n\nis required or permitted by the court to be represented,\n\nor to be heard, or is otherwise entitled to be represented\n\nor to be heard,\n\nany person authorized by the Commission for that purpose may,\n\non behalf of the Commission, institute such proceedings or appear\n\nin such proceedings and may make all appearances and applications\n\nand do all acts in respect of the proceedings on behalf of the\n\nCommission.\n\nThings done in anticipation of the enactment of this Act"
+   }
+  },
+  {
+   "id": "MY-H480-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "Section 41"
+   },
+   "chapter": {
+    "en": "PART VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "41. All things done by any person or public authority on behalf\n\nof the Commission in the preparation of and towards the proper\n\nimplementation of this Act, and any expenditure incurred in relation\n\nthereto, in anticipation of the enactment of this Act shall be deemed\n\nto have been authorized by this Act, and all rights acquired or\n\nobligations incurred on behalf of the Commission from anything\n\nso done shall upon the coming into operation of this Act be deemed\n\nto be the rights and obligations of the Commission.\n\nSCHEDULE\n\n[Section 13]\n\nTimes and places of meetings\n\n1. (1) The Commission is to hold as many meetings as are necessary for the\n\nefficient performance of its functions and such meetings are to be held at such\n\nplaces and times as the Chairman may decide, provided that the Chairman\n\nshall not allow more than two months to lapse between meetings.\n\n(2) The Chairman shall call for a meeting if requested to do so in writing\n\nby the Minister or by at least two members of the Commission.\n\nQuorum\n\n2. The quorum of the Commission shall be half or more than half of the\n\nnumber of members of the Commission.\n\nCasting vote\n\n3. If on any question to be determined by the Commission there is an equality\n\nof votes, the Chairman shall have a casting vote in addition to his deliberative\n\nvote.\n\nCommission may invite others to meetings\n\n4. (1) The Commission may invite any person to attend any meeting or\n\ndeliberation of the Commission for the purpose of advising it on any matter\n\nunder discussion, but any person so attending shall have no right to vote at\n\nthe meeting or deliberation.\n\n(2) A person invited under subparagraph (1) shall be paid such allowances\n\nas may be determined by the Commission.\n\nResolutions without meetings\n\n5. (1) A resolution is taken to have been passed at a meeting of the Commission\n\nif—\n\n(a) all members of the Commission have been informed of the proposed\n\nresolution, or reasonable efforts have been made to inform all members\n\nof the Commission of the proposed resolution; and\nEnergy Commission 25\n\n(b) without meeting, a majority of the members of the Commission indicate\n\nagreement with the resolution in accordance with the method determined\n\nby the Commission under subparagraph (2).\n\n(2) Subparagraph (1) applies only if the Commission—\n\n(a) decides that subparagraph (1) applies; and\n\n(b) decides the method by which members of the Commission are to\n\nindicate agreement with resolutions.\n\nMinutes\n\n6. (1) The Commission and every committee shall cause minutes of all their\n\nmeetings to be maintained and kept in a proper form.\n\n(2) A committee shall cause copies of the minutes of all its meetings to\n\nbe submitted to the Commission as soon as practicable.\n\n(3) Any minutes made of meetings of the Commission or a committee, if\n\nduly signed, shall be admissible in any legal proceedings as prima facie evidence\n\nof the facts stated in them without further proof and every meeting of the\n\nCommission or committee in respect of the proceedings of which minutes have\n\nbeen so made shall be deemed to have been duly convened and held and all\n\nmembers at the meeting to have been duly qualified to act.\n\nProcedure\n\n7. The Commission may regulate its own procedure.\n\nDisclosure of interest\n\n8. (1) A member of the Commission or any committee having any interest in\n\nany matter under discussion by the Commission or committee shall disclose\n\nto the Commission or committee, as the case may be, the fact of his interest\n\nand its nature.\n\n(2) For the purpose of subparagraph (1), a member of the Commission or\n\ncommittee shall be deemed to have an interest in the matter under discussion\n\nif he has interest in any company carrying on activities similar or related to\n\nthe matter under discussion.\n\n(3) A disclosure under subparagraph (1) shall be recorded in the minutes\n\nof the Commission or committee, as the case may be, and, after the disclosure,\n\nthe member having an interest in the matter—\n\n(a) shall not take part nor be present in any deliberation or decision of\n\nthe Commission or committee, as the case may be; and\n\n(b) shall be disregarded for the purpose of constituting a quorum of the\n\nCommission or committee, as the case may be.\n\n(4) No act or proceedings of the Commission or any committee shall be\n\ninvalidated on the ground that any member of the Commission or committee\n\nhas contravened the provisions of this paragraph.\n\nValidity of acts and proceedings\n\n9. No act done or proceeding taken under this Act shall be questioned on\n\nthe ground of—\n\n(a) any vacancy in the membership of, or any defect in the constitution\n\nof, the Commission;\n\n(b) a contravention by any member of the Commission or a committee\n\nof the provisions of paragraph 8; or\n\n(c) any omission, defect or irregularity not affecting the merits of the\n\ncase.\n\nMembers to devote time to business of Commission\n\n10. The members of the Commission shall devote such time to the business\n\nof the Commission as is necessary to discharge their duties effectively.\n\nDICETAK OLEH\n\nPERCETAKAN NASIONAL MALAYSIA BERHAD,\n\nCAWANGAN KUALA LUMPUR\n\nBAGI PIHAK DAN DENGAN PERINTAH KERAJAAN MALAYSIA"
+   }
+  }
+ ]
+}

@@ -1,0 +1,924 @@
+{
+ "id": "ID-H1333",
+ "title": {
+  "zh": "机场法",
+  "en": "Law on Airports",
+  "id": "KEBANDARUDARAAN",
+  "orig": "KEBANDARUDARAAN",
+  "vi": "Luật về Sân bay",
+  "th": "พระราชบัญญัติว่าด้วยท่าอากาศยาน",
+  "ms": "Akta tentang Lapangan Terbang"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02c",
+ "language": "id",
+ "level": "law",
+ "category": "04_劳工与行政法",
+ "status": "active",
+ "promulgatedDate": "2001",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU70-2001",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 62,
+ "chars": 71668,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PP%20NO%2070%20TH%202001.pdf&fl=P04465"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\04_劳工与行政法\\印尼_文本_2001_KEBANDARUDARAAN.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 62 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H1333-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\nDalam Peraturan Pemerintah ini yang dimaksud dengan :\n1. Bandar Udara adalah lapangan terbang yang dipergunakan untuk mendarat dan lepas landas\npesawat udara, naik turun penumpang, dan/atau bongkar muat kargo dan/atau pos, serta\ndilengkapi dengan fasilitas keselamatan penerbangan dan sebagai tempat perpindahan antar\nmoda transportasi;\n2. Kebandarudaraan meliputi segala sesuatu yang berkaitan dengan kegiatan penyelenggaraan\nbandar udara dan kegiatan lainnya dalam melaksanakan fungsi bandar udara untuk menunjang\nkelancaran, keamanan, dan ketertiban arus lalu lintas pesawat udara, penumpang, kargo dan/atau\npos, keselamatan penerbangan, tempat perpindahan intra dan/atau antar moda serta mendorong\nperekonomian nasional dan daerah;\n3. Pangkalan udara adalah kawasan di daratan dan/atau di perairan dalam wilayah Republik\nIndonesia yang dipergunakan untuk kegiatan penerbangan Tentara Nasional Indonesia;\n4. Tatanan Kebandarudaraan Nasional adalah suatu sistem kebandar -udaraan nasional yang\nmemuat tentang hirarki, peran, fungsi, klasifikasi, jenis, penyelenggaraan, kegiatan, keterpaduan\nintra dan antar moda serta keterpaduan dengan sektor lainnya;\n5. Kawasan Keselamatan Operasi Penerbangan adalah wilayah daratan dan/atau perairan dan ruang\nudara di sekitar bandar udara yang dipergunakan untuk kegiatan operasi penerbangan dalam\nrangka menjamin keselamatan penerbangan;\nPRESIDEN\nREPUBLIK INDONESIA\n6. Daerah …\n6. Daerah Lingkungan Kerja Bandar Udara adalah wilayah daratan dan/atau perairan yang\ndipergunakan secara langsung untuk kegiatan bandar udara;\n7. Bandar Udara Umum adalah bandar udara yang dipergunakan untuk melayani kepentingan umum;\n8. Bandar Udara Khusus adalah bandar udara yang penggunaannya hanya untuk menunjang\nkegiatan tertentu dan tidak dipergunakan untuk umu m;\n9. Penyelenggara Bandar Udara Umum adalah Unit Pelaksana Teknis/Satuan Kerja Bandar Udara\natau Badan Usaha Kebandarudaraan;\n10. Unit Pelaksana Teknis/Satuan Kerja Bandar Udara adalah unit organisasi Pemerintah, Pemerintah\nPropinsi, dan Pemerintah Kabupaten/Kota;\n11. Badan Usaha Kebandarudaraan adalah Badan Usaha Milik Negara dan/atau Badan Usaha Milik\nDaerah yang khusus didirikan untuk mengusahakan jasa kebandarudaraan;\n12. Badan Hukum Indonesia adalah badan usaha milik negara, badan usaha milik daerah, swasta, dan\nkoperasi;\n13. Pemerintah adalah Pemerintah Pusat;\n14. Menteri adalah Menteri yang bertanggung jawab di bidang penerbangan;\n15. Gubernur adalah Kepala Daerah Propinsi sebagaimana dimaksud dalam peraturan\nperundang-undangan mengenai Otonomi Daerah;\n16. Bupati adalah Kepala Daerah Kabupaten sebagaimana dimaksud dalam peraturan\nperundang-undangan mengenai Otonomi Daerah;\n17. Walikota adalah Kepala Daerah Kota sebagaimana dimaksud dalam peraturan\nperundang-undangan mengenai Otonomi Daerah.\nBAB II\nTATANAN KEBANDARUDARAAN NASIONAL"
+   }
+  },
+  {
+   "id": "ID-H1333-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\n(1) Bandar udara sebagai salah satu unsur dalam penyelenggaraan penerbangan, merupakan tempat\nuntuk menyelenggarakan pelayanan jasa kebandarudaraan, pelaksanaan kegiatan pemerintahan\ndan kegiatan ekonomi lainnya, d itata secara terpadu guna mewujudkan penyediaan jasa\nkebandarudaraan sesuai dengan tingkat kebutuhan.\n(2) Bandar udara sebagaimana dimaksud dalam ayat (1) ditata dalam satu kesatuan tatanan\nkebandarudaraan nasional guna mewujudkan penyelenggaraan penerbang an yang andal dan\nberkemampuan tinggi dalam rangka menunjang pembangunan nasional dan daerah.\n(3) Tatanan Kebandarudaraan Nasional sebagaimana dimaksud dalam ayat (2) ditetapkan oleh\nPRESIDEN\nREPUBLIK INDONESIA\nMenteri."
+   }
+  },
+  {
+   "id": "ID-H1333-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3 …"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 3\n(1) Penyusunan Tatanan Kebandarudaraan Nasio nal sebagaimana dimaksud dalam Pasal 2 ayat (2)\ndilakukan dengan memperhatikan :\na. rencana tata ruang;\nb. pertumbuhan ekonomi;\nc. kelestarian lingkungan; dan\nd. keamanan dan keselamatan penerbangan.\n(2) Tatanan Kebandarudaraan Nasional sebagaimana dim aksud dalam ayat (1) sekurang -kurangnya\nmemuat :\na. fungsi, penggunaan, klasifikasi, status, penyelenggaraan, dan kegiatan bandar udara;\nb. keterpaduan intra dan antar moda transportasi; dan\nc. keterpaduan dengan sektor pembangunan lainnya."
+   }
+  },
+  {
+   "id": "ID-H1333-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\n(1) Bandar udara menurut fungsinya sebagaimana dimaksud dalam Pasal 3 ayat (2) huruf a\nmerupakan :\na. simpul dalam jaringan transportasi udara sesuai dengan hirarki fungsinya;\nb. pintu gerbang kegiatan perekonomian nasional dan internasional;\nc. tempat kegiatan alih moda transportasi.\n(2) Bandar udara menurut penggunaannya sebagaimana dimaksud dalam Pasal 3 ayat (2) huruf a\ndibedakan atas:\na. bandar udara yang terbuka untuk melayani angkutan udara ke/dari luar negeri;\nb. bandar udara yang tidak terbuka untuk melayani angkutan udara ke/dari luar negeri.\n(3) Bandar udara menurut klasifikasinya sebagaimana dimaksud dalam Pasal 3 ayat (2) huruf a\ndibedakan dalam beberapa kelas berdasarkan fasilitas dan kegiatan operasional bandar udara dan\njenis pengendalian ruang udara di sekitarnya.\n(4) Bandar udara menurut statusnya sebagaimana dimaksud dalam Pasal 3 ayat (2) huruf a terdiri\natas:\na. bandar udara umum yang digunakan untuk melayani kepentingan umum;\nb. bandar udara khusus yang digunakan untuk melayani ke pentingan sendiri guna\nmenunjang kegiatan tertentu.\nPRESIDEN\nREPUBLIK INDONESIA\n(5) Bandar udara …\n(5) Bandar udara menurut penyelenggaraannya sebagaimana dimaksud dalam Pasal 3 ayat (2) huruf\na dibedakan atas :\na. bandar udara umum yang diselenggarakan oleh Pemerintah, Pemerintah Propinsi,\nPemerintah Kabupaten/Kota atau badan usaha kebandarudaraan;\nb. bandar udara khusus yang diselenggarakan oleh Pemerintah, Pemerintah Propinsi,\nPemerintah Kabupaten/Kota dan Badan Hukum Indonesia.\n(6) Bandar udara menurut kegiatannya sebagaimana dimaksud dalam Pasal 3 ayat (2) huruf a terdiri\ndari bandar udara yang melayani kegiatan :\na. pendaratan dan lepas landas pesawat udara untuk melayani kepentingan angkutan udara;\nb. pendaratan dan lepas landas helikopter untuk melayani kepentingan angkutan udara.\n(7) Ketentuan lebih lanjut mengenai fungsi, penggunaaan, klasifikasi, status, penyelenggaraan dan\nkegiatan bandar udara sebagaimana dimaksud dalam ayat (1), ayat (2), ayat (3), aya t (4), ayat (5),\ndan ayat (6) diatur dengan Keputusan Menteri."
+   }
+  },
+  {
+   "id": "ID-H1333-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\n(1) Bandar udara menurut hirarki fungsi sebagaimana dimaksud dalam Pasal 4 ayat (1) huruf a\ndibedakan atas :\na. bandar udara pusat penyebaran; dan\nb. bandar udara bukan pusat penyebaran.\n(2) Pembedaan bandar udara sebagaimana dimaksud dalam ayat (1) ditentukan berdasarkan\npenilaian atas kriteria sebagai berikut :\na. Status kota dalam Rencana Tata Ruang Wilayah Nasional (RTRWN) yang meliputi:\n1) Pusat Kegiatan Nasional (PKN);\n2) Pusat Kegiatan Wilayah (PKW);\n3) Pusat Kegiatan Lokal (PKL).\nb. Status Penggunaan Bandar Udara yang meliputi :\n1) Internasional;\n2) Domestik.\nc. Jumlah kepadatan penumpang yang meliputi :\n1) Datang dan berangkat;\n2) Transit;\nPRESIDEN\nREPUBLIK INDONESIA\n3) Frekuensi penerbangan.\nd. Rute …\nd. Rute penerbangan yang meliputi :\n1) Rute penerbangan dalam negeri;\n2) Rute penerbangan luar negeri;\n3) Rute dalam negeri yang menjadi cakupannya.\n(3) Penilaian atas kriteria bandar udara sebagaimana dimaksud d alam ayat (2) diatur dengan\nKeputusan Menteri.\n(4) Bandar udara berdasarkan hirarki fungsi sebagaimana dimaksud dalam ayat (1) ditetapkan dengan\nKeputusan Menteri."
+   }
+  },
+  {
+   "id": "ID-H1333-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\nJenis pengendalian ruang udara disekitar bandar udara sebagaimana dimaksud dalam P asal 4 ayat (3)\ndibagi atas:\na. Ruang udara yang dikendalikan; dan\nb. Ruang udara yang tidak dikendalikan."
+   }
+  },
+  {
+   "id": "ID-H1333-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\n(1) Menteri melakukan pembinaan kebandarudaraan yang meliputi aspek pengaturan, pengawasan\ndan pengendalian terhadap kegiatan pembangunan, pendayagunaan dan pengembangan bandar\nudara guna mewujudkan Tatanan Kebandarudaraan Nasional sebagaimana dimaksud dalam\nPasal 2 ayat (2).\n(2) Kegiatan pengaturan sebagaimana dimaksud dalam ayat (1) meliputi kegiatan penetapan\nkebijaksanaan di bidang kebandarudaraan.\n(3) Kegiatan pengawasan sebagaimana dimaksud dalam ayat (1) meliputi :\na. pemantauan dan penilaian terhadap pelaksanaan kebijaksanaan di bidang\nkebandarudaraan ;\nb. tindakan korektif terhadap pelaksanaan kebijaksanaan di bidang kebandarudaraan.\n(4) Kegiatan pengendalian sebagaimana dimaksud dalam ayat (1) meliputi :\na. pemberian arahan dan petunjuk dalam pelaksanaan kebijaksanaan di bidang\nkebandarudaraan;\nPRESIDEN\nREPUBLIK INDONESIA\nb. pemberian bimbingan dan p enyuluhan kepada masyarakat mengenai hak dan kewajiban\nmasyarakat pengguna jasa kebandarudaraan, dalam pelaksanaan kebijaksanaan di bidang\nkebandarudaraan.\n(5) Untuk …\n(5) Untuk kelancaran pelaksanaan pembinaan kebandarudaraan oleh Menteri sebagaimana di maksud\ndalam ayat (1), Menteri dapat meminta kepada Gubernur untuk melakukan koordinasi terhadap\npengelolaan bandar udara dan beberapa kewenangan yang diserahkan kepada Bupati/Walikota\nsebagaimana dimaksud dalam Pasal 10 ayat (3) dan ayat (5), Pasal 13, Pa sal 15 ayat (3), Pasal\n18 ayat (3), Pasal 19 ayat (3), Pasal 22 ayat (3), Pasal 38 ayat (2), dan Pasal 39 ayat (2).\nBAB III\nPENETAPAN LOKASI, PENGUASAAN DAN PENGGUNAAN TANAH,\nPERAIRAN SERTA RUANG UDARA DI BANDAR UDARA UMUM"
+   }
+  },
+  {
+   "id": "ID-H1333-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n(1) Penetapan lokasi tanah dan/atau perairan, serta ruang udara untuk penyelenggaraan ba ndar\nudara umum ditetapkan oleh Menteri.\n(2) Penetapan lokasi sebagaimana dimaksud dalam ayat (1), dilakukan dengan memperhatikan:\na. Rencana Tata Ruang Wilayah Daerah Pro pinsi dan Rencana Tata Ruang Wilayah Daerah\nKabupaten/Kota;\nb. pertumbuhan ekonomi;\nc. kelayakan ekonomis dan teknis pembangunan dan pengoperasian bandar udara umum;\nd. kelestarian lingkungan;\ne. keamanan dan keselamatan penerbangan;\nf. keterpaduan intra dan antar moda; dan\ng. pertahanan keamanan negara.\n(3) Ketentuan lebih lanjut mengenai penetapan lokasi bandar udara umum sebagaimana dimaksud\ndalam ayat (2) diatur dengan Keputusan Menteri."
+   }
+  },
+  {
+   "id": "ID-H1333-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n(1) Penyelenggara bandar udara umum harus menguasa i tanah dan/atau perairan dan ruang udara\npada lokasi yang telah ditetapkan sebagaimana dimaksud dalam Pasal 8 ayat (1) untuk keperluan\nPRESIDEN\nREPUBLIK INDONESIA\npelayanan jasa kebandarudaraan, pelayanan keselamatan operasi penerbangan, dan fasilitas\npenunjang bandar udara umum.\n(2) Penetapan …\n(2) Penetapan luas tanah dan/atau perairan dan ruang udara sebagaimana dimaksud dalam ayat (1)\nharus didasarkan pada penatagunaan tanah dan/atau perairan dan ruang udara yang menjamin\nkeserasian dan keseimbangan dengan kegi atan dalam bidang lain di kawasan letak bandar udara\numum.\n(3) Pengadaan tanah untuk kepentingan pembangunan bandar udara umum dan pemberian hak atas\ntanahnya dilaksanakan sesuai dengan peraturan perundang -undangan yang berlaku."
+   }
+  },
+  {
+   "id": "ID-H1333-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\n(1) Untuk penyel enggaraan bandar udara umum, ditetapkan daerah lingkungan kerja dan kawasan\nkeselamatan operasi penerbangan di sekitar bandar udara umum.\n(2) Menteri menetapkan daerah lingkungan kerja sebagaimana dimaksud dalam ayat (1) setelah\nmendapat rekomendasi dari Gubernur dan Bupati/Walikota, untuk :\na. Bandar Udara Pusat Penyebaran;\nb. Bandar Udara Bukan Pusat Penyebaran yang ruang udara di sekitarnya dikendalikan.\n(3) Bupati/Walikota menetapkan daerah lingkungan kerja sebagaimana dimaksud dalam ayat (1),\nuntuk Bandar Udara Bukan Pusat Penyebaran yang ruang udara di sekitarnya tidak dikendalikan.\n(4) Menteri menetapkan kawasan keselamatan operasi penerbangan sebagaimana dimaksud dalam\nayat (1), untuk :\na. Bandar Udara Pusat Penyebaran;\nb. Bandar Udara Bukan Pusat Penyebaran yang ruang udara di sekitarnya dikendalikan.\n(5) Bupati/Walikota menetapkan kawasan keselamatan operasi penerbangan sebagaimana dimaksud\ndalam ayat (1), untuk Bandar Udara Bukan Pusat Penyebaran yang ruang udara di sekitarnya\ntidak dikendalikan.\n(6) Penetapan Daerah Lingkungan Kerja dan Kawasan Keselamatan Operasi Penerbangan\nsebagaimana dimaksud dalam ayat (3) dan ayat (5) didasarkan pada kebijakan, standar, norma,\nkriteria, prosedur dan pedoman yang ditetapkan oleh Menteri."
+   }
+  },
+  {
+   "id": "ID-H1333-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\nPRESIDEN\nREPUBLIK INDONESIA\n(1) Daerah lingkungan kerja sebagaimana dimaksud dalam Pasal 10 ayat (1) digunakan untuk:\na. fasilitas pokok di bandar udara, yang meliputi :\n1) fasilitas sisi udara;\n2) fasilitas sisi darat;\n3) fasilitas …\n3) fasilitas navigasi penerbangan;\n4) fasilitas alat bantu pendaratan visual;\n5) fasilitas komunikasi penerbangan.\nb. fasilitas penunjang bandar udara, yang meliputi :\n1) fasilitas penginapan/hotel;\n2) fasilitas penyediaan toko dan restoran;\n3) fasilitas penempatan kendaraan bermotor;\n4) fasilitas perawatan pada umumnya;\n5) fasilitas lainnya yang menunjang secara langsung atau tidak langsung kegiatan\nbandar udara.\n(2) Kawasan keselamatan operasi penerbangan di sekitar bandar udara umum sebagaimana\ndimaksud dalam Pasal 10 ayat (1) meliputi:\na. kawasan pendekatan dan lepas landas;\nb. kawasan kemungkinan bahaya kecelakaan;\nc. kawasan di bawah permukaan horizontal-dalam;\nd. kawasan di bawah permukaan horizontal-luar;\ne. kawasan di bawah permukaan kerucut;\nf. kawasan di bawah permukaan transisi; dan\ng. kawasan di sekitar penempatan alat bantu navigasi penerbangan.\n(3) Kawasan keselamatan operasi penerbangan sebagaimana dimaksud dalam ayat (2) ditetapkan\ndengan batas-batas tertentu yang bebas dari penghalang."
+   }
+  },
+  {
+   "id": "ID-H1333-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\nTanah yang terletak di daerah lingkungan kerja bandar udara umum diberikan kepada penyelenggara\nbandar udara dengan hak pengelolaan sesuai peraturan perundang -undangan yang berlaku."
+   }
+  },
+  {
+   "id": "ID-H1333-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\nPRESIDEN\nREPUBLIK INDONESIA\nBupati atau Walikota memberikan izin mendirikan bangu nan (IMB) untuk bangunan -bangunan yang bukan\nfasilitas pokok bandar udara dan berada di atas tanah yang terletak di dalam daerah lingkungan kerja\nbandar udara dengan mempertimbangkan saran teknis dari penyelenggara bandar udara."
+   }
+  },
+  {
+   "id": "ID-H1333-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14 …"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 14\n(1) Tanah dan/atau perairan dan ruang udara di sekitar bandar udara umum yang merupakan\nkawasan keselamatan operasi penerbangan sebagaimana dimaksud dalam Pasal 10 ayat (1),\ndapat dipergunakan oleh umum dengan memenuhi persyaratan keselamatan operasi\npenerbangan.\n(2) Ketentuan lebih lanjut mengenai persyaratan keselamatan operasi penerbangan sebagaimana\ndimaksud dalam ayat (1) diatur dengan Keputusan Menteri."
+   }
+  },
+  {
+   "id": "ID-H1333-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\n(1) Perencanaan dan penetapan penggunaan tanah yang terletak di sekitar bandar udara umu m\ndilakukan dengan memperhatikan tingkat kebisingan.\n(2) Menteri menetapkan tingkat kebisingan sebagaimana dimaksud dalam ayat (1), untuk :\na. Bandar Udara Pusat Penyebaran;\nb. Bandar Udara Bukan Pusat Penyebaran yang ruang udara di sekitarnya dikendalik an.\n(3) Bupati/Walikota menetapkan tingkat kebisingan sebagaimana dimaksud dalam ayat (1), untuk\nBandar Udara Bukan Pusat Penyebaran yang ruang udara di sekitarnya tidak dikendalikan.\n(4) Penetapan tingkat kebisingan sebagaimana dimaksud dalam ayat (3) did asarkan pada kebijakan,\nstandar, norma, kriteria, prosedur dan pedoman yang ditetapkan oleh Menteri.\nBAB IV\nPELAKSANAAN KEGIATAN DI BANDAR UDARA UMUM"
+   }
+  },
+  {
+   "id": "ID-H1333-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\n(1) Pelaksana kegiatan di bandar udara umum terdiri dari pelaksana fungsi Pemerintah,\npenyelenggara bandar udara dan Badan Hukum Indonesia, yang memberikan pelayanan jasa\nPRESIDEN\nREPUBLIK INDONESIA\nkebandarudaraan berkaitan dengan lalu lintas pesawat udara, penumpang, kargo dan pos.\n(2) Pelaksana fungsi Pemerintah, sebagaimana dimaksud dalam ayat (1) merupakan pemegang\nfungsi:\na. keamanan dan keselamatan serta kelancaran penerbangan;\nb. bea dan cukai;\nc. imigrasi;\nd. keamanan dan ketertiban di bandar udara;\ne. karantina.\n3) Penyelenggara …\n3) Penyelenggara bandar udara sebagaimana dimaksud dalam ayat (1) merupakan :\na. Unit Pelaksana Teknis/Satuan Kerja bandar udara, pada bandar udara umum yang\ndiselenggarakan oleh Pemerintah, Pemerintah Propinsi atau Pemerintah Kabupaten/Kota;\nb. Unit Pelaksana dari Badan Usaha Kebandarudaraan, pada bandar udara umum yang\ndiselenggarakan oleh Badan Usaha Kebandarudaraan.\n(4) Badan Hukum Indonesia sebagaimana dimaksud dalam ayat (1) merupakan Badan Hukum\nIndonesia yang melakukan kegiatan di Bandar Udara umum."
+   }
+  },
+  {
+   "id": "ID-H1333-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\n(1) Pelaksanaan kegiatan fungsi Pemerintah dan pelayanan jasa ke bandarudaraan di bandar udara\numum yang diselenggarakan oleh Pemerintah, Pemerintah Propinsi, Pemerintah Kabupaten/ Kota,\ndikoordinasikan oleh Kepala Bandar Udara.\n(2) Pelaksanaan kegiatan fungsi Pemerintah dan pelayanan jasa kebandarudaraan di bandar udar a\numum yang diselenggarakan oleh Badan Usaha Kebandarudaraan dikoordinasikan oleh Pejabat\nyang ditunjuk oleh Menteri.\n(3) Pejabat pemegang fungsi koordinasi sebagaimana dimaksud dalam ayat (1) dan ayat (2) harus\nmemenuhi persyaratan jabatan yang diatur dengan Keputusan Menteri.\n(4) Pejabat pemegang fungsi koordinasi sebagaimana dimaksud dalam ayat (1) dan ayat (2)\nmempunyai wewenang sebagai berikut :\na. mengkoordinasikan kegiatan fungsi pemerintahan terkait dan kegiatan pelayanan jasa\nkebandarudaraan guna menjamin kelancaran kegiatan operasional di bandar udara;\nb. menyelesaikan masalah -masalah yang dapat mengganggu kelancaran kegiatan\nPRESIDEN\nREPUBLIK INDONESIA\noperasional bandar udara yang tidak dapat diselesaikan oleh instansi Pemerintah, badan\nusaha kebandarudaraan dan Badan Hukum Indonesia atau unit kerja terkait lainnya secara\nsendiri-sendiri.\n(5) Ketentuan lebih lanjut mengenai koordinasi pelaksanaan kegiatan di bandar udara umum\nsebagaimana dimaksud dalam ayat (1), ayat (2) dan ayat (3) diatur dengan Keputusan Menteri.\nBAB V …\nBAB V\nPENYELENGGARAAN BANDAR UDARA UMUM\nBagian Pertama\nPerencanaan, Pembangunan, dan Pengoperasian\nBandar Udara Umum"
+   }
+  },
+  {
+   "id": "ID-H1333-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\n(1) Dalam penyelenggaraan bandar udara umum, Menteri menetapkan:\na. standar prosedur pembuatan/persyaratan rencana induk bandar udara;\nb. standar rancang bangun dan/atau rekayasa fasilitas dan peralatan bandar udara;\nc. standar keandalan fasilitas dan peralatan bandar udara;\nd. standar operasional bandar udara.\n(2) Menteri menetapkan Rencana Induk Bandar Udara untuk :\na. Bandar Udara Pusat Penyebaran;\nb. Bandar Udara Bukan Pusat Penyebaran yang ruang udara di sekitarnya dikendalikan.\n(3) Bupati/Walikota menetapkan Rencana Induk Bandar Udara Bukan Pusat Penyebaran yang ruang\nudara di sekitarnya tidak dikendalikan.\n(4) Penetapan Rencana Induk Bandar Udara sebagaimana dimaksud dalam ayat (3) didasarkan pada\nkebijakan, standar, norma, kriteria, prosedur dan pedoman yang ditetapkan oleh Menteri."
+   }
+  },
+  {
+   "id": "ID-H1333-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\n(1) Pembangunan bandar udara umum dilakukan setelah memenuhi persyaratan :\nPRESIDEN\nREPUBLIK INDONESIA\na. administrasi;\nb. memiliki penetapan lokasi untuk penyelenggaraan bandar udara umum sebagaimana\ndimaksud dalam Pasal 8 ayat (1);\nc. memiliki rencana induk bandar udara;\nd. rancangan teknis bandar udara umum meliputi pembuatan rancangan awal dan rancangan\nteknik terinci yang mengacu pada standar yang berlaku; dan\ne. kelestarian lingkungan.\n(2) Dalam hal persyaratan sebagaimana dimaksud dalam ayat (1) telah dipenuhi, Menteri menetapkan\nKeputusan Pelaksanaan Pembangunan untuk:\na. Bandar Udara Pusat Penyebaran;\nb. Bandar Udara Bukan Pusat Penyebaran yang ruang udara di sekitarnya dikendalikan.\n(3) Dalam …\n(3) Dalam hal persyaratan sebagaimana dimaksud dalam ayat (1) telah dipenuhi, Bupati/Walikota\nmenetapkan Keputusan Pelaksanaan Pembangunan Bandar Udara Bukan Pusat Penyebaran\nyang ruang udara di sekitarnya tidak dikendalikan.\n(4) Ketentuan lebi h lanjut mengenai pembangunan bandar udara umum sebagaimana dimaksud\ndalam ayat (1) dan ayat (2) diatur dengan Keputusan Menteri."
+   }
+  },
+  {
+   "id": "ID-H1333-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\nPemerintah Propinsi dan/atau Pemerintah Kabupaten/Kota dapat membangun bandar udara baru\nberdasarkan kepada Tatanan Kebandarudaraan Nasional dan memenuhi ketentuan yang diatur dalam\nPeraturan Pemerintah ini."
+   }
+  },
+  {
+   "id": "ID-H1333-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\nPenyelenggara bandar udara umum dalam melaksanakan pembangunan bandar udara umum diwajibkan:\na. mentaati peraturan perundang -undangan dan ketentuan di b idang kebandarudaraan, lalu lintas\nangkutan udara, keamanan dan keselamatan penerbangan serta pengelolaan lingkungan;\nb. bertanggung jawab terhadap dampak yang timbul selama pelaksanaan pembangunan bandar\nudara umum yang bersangkutan;\nc. melaksanakan pekerjaan pembangunan bandar udara umum paling lambat 1 (satu) tahun sejak\nkeputusan pelaksanaan pembangunan ditetapkan;\nd. melaksanakan pekerjaan pembangunan bandar udara umum sesuai jadwal yang ditetapkan; dan\ne. melaporkan kegiatan pembangu nan bandar udara umum setiap bulan kepada Menteri atau\nPRESIDEN\nREPUBLIK INDONESIA\nBupati/Walikota sesuai kewenangannya."
+   }
+  },
+  {
+   "id": "ID-H1333-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\n(1) Pengoperasian bandar udara umum dilakukan setelah memenuhi persyaratan;\na. pembangunan bandar udara umum telah selesai dilaksanakan sesuai dengan p ersyaratan\npembangunan sebagaimana dimaksud dalam Pasal 19 dan Pasal 20;\nb. keamanan dan keselamatan penerbangan;\nc. tersedia fasilitas untuk menjamin kelancaran arus penumpang, kargo dan pos;\nd. pengelolaan lingkungan; dan\ne. tersedia pelaksana kegiatan di bandar udara.\n(2) Dalam …\n(2) Dalam hal persyaratan sebagaimana dimaksud dalam ayat (1) telah dipenuhi dan telah memiliki\nSertifikat Operasi Bandar Udara yang dikeluarkan berdasarkan peraturan perundang -undangan\nyang berlaku, Menteri menetapkan Keputusan Pelaksanaan Pengoperasian untuk :\na. Bandar Udara Pusat Penyebaran;\nb. Bandar Udara Bukan Pusat Penyebaran yang ruang udara di sekitarnya dikendalikan.\n(3) Dalam hal persyaratan sebagaimana dimaksud dalam ayat (1) telah dipenuhi dan telah memilik i\nSertifikat Operasi Bandar Udara yang dikeluarkan berdasarkan peraturan perundang -undangan\nyang berlaku, Bupati/Walikota menetapkan Keputusan Pelaksanaan Pengoperasian Bandar Udara\nBukan Pusat Penyebaran yang ruang udara di sekitarnya tidak dikendalikan.\n(4) Ketentuan lebih lanjut mengenai pengoperasian bandar udara umum sebagaimana dimaksud\ndalam ayat (1) dan ayat (2) diatur dengan Keputusan Menteri."
+   }
+  },
+  {
+   "id": "ID-H1333-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\n(1) Penyelenggara bandar udara umum dalam melaksanakan pengoperasian bandar udara umum\ndiwajibkan :\na. mentaati peraturan perundang -undangan dan ketentuan yang berlaku di bidang\npenerbangan serta kelestarian lingkungan;\nb. bertanggung jawab sepenuhnya atas p engoperasian bandar udara umum yang\nbersangkutan; dan\nc. melaporkan kegiatan operasional setiap bulan kepada Menteri atau Bupati/Walikota sesuai\nkewenangannya.\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Ketentuan lebih lanjut mengenai tata cara pelaporan sebagaimana dimaksud dalam ayat (1) hur uf\nc diatur dengan Keputusan Menteri.\nBagian Kedua\nPelayanan Jasa Kebandarudaraan di\nBandar Udara Umum"
+   }
+  },
+  {
+   "id": "ID-H1333-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 24\n(1) Pelayanan jasa kebandarudaraan di bandar udara umum dilakukan untuk kepentingan pelayanan\numum, guna menunjang keamanan dan keselamatan p enerbangan, kelancaran dan ketertiban lalu\nlintas pesawat udara, penumpang dan/atau kargo dan pos.\n(2) Pelayanan …\n(2) Pelayanan jasa kebandarudaraan di bandar udara umum sebagaimana dimaksud dalam ayat (1)\ndilakukan oleh :\na. Unit Pelaksana Teknis/Satuan Kerja bandar udara pada bandar udara umum yang\ndiselenggarakan oleh Pemerintah, Pemerintah Propinsi atau Pemerintah Kabupaten/Kota;\natau\nb. Unit Pelaksana dari Badan Usaha Kebandarudaraan pada bandar udara umum yang\ndiselenggarakan oleh Badan Usaha Kebandarudaraan."
+   }
+  },
+  {
+   "id": "ID-H1333-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\nJenis pelayanan jasa kebandarudaraan sebagaimana dimaksud dalam Pasal 24 meliputi :\na. penyediaan, pengusahaan dan pengembangan fasilitas untuk kegiatan pelayanan pendaratan,\nlepas landas, manuver, parkir dan penyimpanan pesawat udara;\nb. penyediaan, pengusahaan dan pengembangan fasilitas terminal untuk pelayanan angkutan\npenumpang, kargo dan pos;\nc. penyediaan, pengusahaan dan pengembangan fasilitas elektronika, listrik, air dan instalasi limbah\nbuangan;\nd. jasa kegiatan penunjang bandar udara;\ne. penyediaan lahan untuk bangunan, lapangan dan industri serta gedung atau bangunan yang\nberhubungan dengan kelancaran angkutan udara;\nf. penyediaan jasa konsultasi, pendidikan dan pelatihan yang berkaitan dengan ke bandarudaraan;\nPRESIDEN\nREPUBLIK INDONESIA\ndan\ng. penyediaan jasa lainnya yang dapat menunjang pelayanan jasa kebandarudaraan."
+   }
+  },
+  {
+   "id": "ID-H1333-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\n(1) Pelayanan jasa kebandarudaraan di bandar udara umum yang dilakukan oleh unit pelaksana\nteknis/satuan kerja bandar udara umum dapat dilimpahkan kepada Badan Usaha\nKebandarudaraan.\n(2) Pelimpahan pelayanan jasa kebandarudaraan sebagaimana dimaksud dalam ayat (1) dilakukan\nsetelah memenuhi kriteria yang meliputi :\na. aspek keuangan;\nb. aspek fasilitas bandar udara; dan\nc. aspek operasional.\n(3) Ketentuan …\n(3) Ketentuan lebih lanjut mengenai kriteria sebagaimana dimaksud dalam ayat (2) diatur dengan\nKeputusan Menteri.\nBAB VI\nKEGIATAN PENUNJANG BANDAR UDARA"
+   }
+  },
+  {
+   "id": "ID-H1333-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\n(1) Dalam rangka menunjang kelancaran pelayanan jasa untuk kepentingan umum di bandar udara\numum, dapat dilakukan kegiatan penunjang bandar udara.\n(2) Kegiatan penunjang bandar udara sebagaimana dimaksud dalam ayat (1) terdiri dari :\na. pelayanan jasa penunjang kegiatan penerbangan, dapat meliputi:\n1) penyediaan hanggar pesawat udara;\n2) perbengkelan pesawat udara;\n3) pergudangan;\n4) jasa boga pesawat udara;\n5) jasa pelayanan teknis penanganan pesawat udara di darat;\n6) jasa pelayanan penumpang dan bagasi;\n7) jasa penanganan kargo;\n8) jasa penunjang lainnya yang secara langsung menunjang kegiatan penerbangan.\nPRESIDEN\nREPUBLIK INDONESIA\nb. pelayanan jasa penunjang kegiatan bandar uda ra, dapat meliputi :\n1) jasa penyediaan penginapan/hotel dan transit hotel;\n2) jasa penyediaan toko dan restoran;\n3) jasa penempatan kendaraan bermotor;\n4) jasa perawatan pada umumnya;\n5) jasa lainnya yang menunjang secara langsung atau tidak lang sung kegiatan\nbandar udara.\n(3) Ketentuan lebih lanjut mengenai kegiatan penunjang bandar udara sebagaimana dimaksud dalam\nayat (2) diatur dengan Keputusan Menteri."
+   }
+  },
+  {
+   "id": "ID-H1333-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\nKegiatan penunjang bandar udara sebagaimana dimaksud dalam Pasal 27 dapat dilaks anakan oleh:\na. Unit Pelaksana Teknis/Satuan Kerja bandar udara, pada bandar udara yang diselenggarakan oleh\nPemerintah, Pemerintah Propinsi dan Pemerintah Kabupaten/Kota;\nb. Unit …\nb. Unit Pelaksana dari Badan Usaha Kebandarudaraan, pada bandar udara yang diselenggarakan\noleh Badan Usaha Kebandarudaraan; atau\nc. Badan Hukum Indonesia atau perorangan."
+   }
+  },
+  {
+   "id": "ID-H1333-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\n(1) Pelaksana kegiatan penunjang bandar udara sebagaimana dimaksud dalam Pas al 28 diwajibkan :\na. menjaga ketertiban dan kebersihan wilayah bandar udara yang dipergunakan;\nb. menghindarkan terjadinya gangguan keamanan dan hal lain yang dapat membahayakan\nkeamanan dan keselamatan penerbangan serta mengganggu kelancaran kegiatan\noperasional bandar udara; dan\nc. menjaga kelestarian lingkungan.\n(2) Ketentuan lebih lanjut mengenai kewajiban sebagaimana dimaksud dalam ayat (1) diatur dengan\nKeputusan Menteri.\nBAB VII\nKERJA SAMA"
+   }
+  },
+  {
+   "id": "ID-H1333-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\nPRESIDEN\nREPUBLIK INDONESIA\n(1) Dalam penyelenggaraan bandar udara umum, B adan Usaha Kebandarudaraan dapat\nmengikutsertakan Pemerintah Propinsi, Pemerintah Kabupaten/Kota dan Badan Hukum Indonesia\nlainnya melalui kerja sama.\n(2) Kerja sama Badan Usaha Kebandarudaraan dengan Pemerintah Propinsi dan/atau Pemerintah\nKabupaten/Kota sebagaimana dimaksud dalam ayat (1) harus dilakukan secara menyeluruh dan\nbersifat nasional.\n(3) Dalam pelaksanaan kerja sama sebagaimana dimaksud dalam ay at (1) Badan Usaha\nKebandarudaraan harus memperhatikan kepentingan umum dan saling menguntungkan.\n(4) Mekanisme kerja sama sebagaimana dimaksud dalam ayat (2) diatur lebih lanjut dengan\nKeputusan Menteri."
+   }
+  },
+  {
+   "id": "ID-H1333-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\n(1) Kerja sama dalam penyelenggaraan band ar udara umum sebagaimana dimaksud dalam Pasal 30\ndapat dilakukan untuk kegiatan :\na. penyediaan, pengusahaan dan pengembangan fasilitas untuk kegiatan pelayanan\npendaratan, lepas landas, manuver, parkir dan penyimpanan pesawat udara;\nb. penyediaan …\nb. penyediaan, pengusahaan dan pengembangan fasilitas terminal untuk pelayanan\nangkutan penumpang, kargo dan pos;\nc. penyediaan, pengusahaan dan pengembangan fasilitas elektronika, listrik, air dan instalasi\nlimbah buangan;\nd. penyediaan lahan untuk bangu nan, lapangan dan industri serta gedung atau bangunan\nyang berhubungan dengan kelancaran angkutan udara;\ne. penyediaan jasa konsultasi, pendidikan dan pelatihan yang berkaitan dengan\nkebandarudaraan; dan\nf. penyediaan jasa lainnya yang dapat menunjang pe layanan jasa kebandarudaraan.\n(2) Kerja sama sebagaimana dimaksud dalam ayat (1) dapat dilaksanakan untuk satu jenis kegiatan\natau lebih sesuai peraturan perundang-undangan yang berlaku.\nBAB VIII\nTARIF JASA KEBANDARUDARAAN"
+   }
+  },
+  {
+   "id": "ID-H1333-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 32\nPRESIDEN\nREPUBLIK INDONESIA\nTarif jasa ke bandarudaraan di bandar udara umum ditetapkan berdasarkan pada struktur dan golongan\ntarif serta dengan memperhatikan :\na. kepentingan pelayanan umum;\nb. peningkatan mutu pelayanan jasa;\nc. kepentingan pemakai jasa;\nd. peningkatan kelancaran pelayanan;\ne. pengembalian biaya; dan\nf. pengembangan usaha."
+   }
+  },
+  {
+   "id": "ID-H1333-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 33\n(1) Struktur tarif jasa kebandarudaraan merupakan kerangka tarif yang dikaitkan dengan tatanan\nwaktu dan satuan ukuran dari setiap jenis jasa yang diberikan oleh penyelenggara bandar udara.\n(2) Golongan tarif jasa kebandarudaraan merupakan penggolongan tarif yang ditetapkan berdasarkan\njenis pelayanan jasa kebandarudaraan, klasifikasi, dan fasilitas yang tersedia di bandar udara.\n(3) Ketentuan …\n(3) Ketentuan lebih lanjut mengenai struktur dan golongan tarif jasa kebandarudaraan sebagaimana\ndimaksud dalam ayat (1) dan ayat (2) ditetapkan dengan Keputusan Menteri."
+   }
+  },
+  {
+   "id": "ID-H1333-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 34\n(1) Besaran tarif jasa kebandarudaraan pada bandar udara umum yang diselenggar akan oleh\nPemerintah ditetapkan dengan Peraturan Pemerintah.\n(2) Besaran tarif jasa kebandarudaraan pada bandar udara umum yang diselenggarakan oleh\nPemerintah Propinsi ditetapkan dengan Peraturan Daerah.\n(3) Besaran tarif jasa kebandarudaraan pada bandar udara umum yang diselenggarakan oleh\nPemerintah Kabupaten/Kota ditetapkan dengan Peraturan Daerah.\n(4) Besaran tarif jasa kebandarudaraan pada bandar udara umum yang diselenggarakan oleh Badan\nUsaha Kebandarudaraan ditetapkan oleh Badan Usaha Kebandarudara an setelah dikonsultasikan\ndengan Menteri.\nBAB IX\nBANDAR UDARA KHUSUS\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H1333-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 35\n(1) Pengelolaan bandar udara khusus dapat dilakukan oleh Pemerintah, Pemerintah Propinsi dan\nPemerintah Kabupaten/Kota atau Badan Hukum Indonesia untuk kepentingan sendiri gu na\nmenunjang kegiatan tertentu.\n(2) Pengelolaan bandar udara khusus sebagaimana dimaksud dalam ayat (1) dapat dilakukan apabila:\na. bandar udara umum yang ada tidak dapat melayani sesuai dengan yang dibutuhkan\nkarena keterbatasan kemampuan/ fasilitas yang tersedia;\nb. berdasarkan pertimbangan ekonomis dan teknis operasional, akan lebih efektif dan efisien\nserta lebih menjamin keselamatan penerbangan apabila membangun dan mengoperasikan\nbandar udara khusus."
+   }
+  },
+  {
+   "id": "ID-H1333-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 36\n(1) Bandar udara khusus sebagaimana dimaksud dalam Pasal 4 ayat (4) huruf b harus berada di luar\nkawasan keselamatan operasi penerbangan bandar udara umum dan pangkalan udara.\n(2) Wilayah bandar udara khusus meliputi daratan dan/atau perairan dan ruang udara.\n(3) Penggunaan …\n(3) Penggunaan wilayah daratan dan/atau perairan dan ruang udara pada bandar udara khusus\ndilaksanakan oleh pengelola bandar udara khusus sesuai ketentuan keamanan dan keselamatan\npenerbangan.\n(4) Pengelola bandar udara khusus wajib menyediakan dan memelihara:\na. fasilitas pendaratan, lepas landas dan parkir pesawat udara;\nb. fasilitas keamanan dan keselamatan penerbangan; dan\nc. fasilitas lainnya yang sesuai dengan kebutuhan operasional.\n(5) Ketentuan lebih lanjut mengenai penyediaan d an pemeliharaan fasilitas sebagaimana dimaksud\ndalam ayat (4) diatur dengan Keputusan Menteri."
+   }
+  },
+  {
+   "id": "ID-H1333-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 37\n(1) Dilarang menggunakan bandar udara khusus untuk melayani kepentingan umum, selain dalam\nkeadaan tertentu dengan izin Menteri.\n(2) Keadaan tertentu sebagaimana dimaksud dalam ayat (1) dapat berupa :\nPRESIDEN\nREPUBLIK INDONESIA\na. dalam hal bandar udara umum tidak dapat melayani permintaan jasa kebandarudaraan\noleh karena keterbatasan kemampuan fasilitas yang tersedia;\nb. terjadi bencana alam atau keadaan darur at lainnya sehingga mengakibatkan tidak\nberfungsinya bandar udara umum;\nc. pada daerah yang bersangkutan tidak terdapat bandar udara umum dan belum ada moda\ntransportasi lain yang memadai.\n(3) Izin penggunaan bandar udara khusus sebagaimana dimaksud dalam ayat (1) hanya diberikan\napabila fasilitas yang terdapat di bandar udara tersebut dapat menjamin keamanan dan\nkeselamatan penerbangan.\n(4) Dalam hal bandar udara khusus digunakan untuk pelayanan umum sebagaimana dimaksud dalam\nayat (1) diberlakukan ketent uan tarif jasa kebandarudaraan pada bandar udara umum yang\ndiselenggarakan oleh Pemerintah, Pemerintah Propinsi atau Pemerintah Kabupaten/Kota.\n(5) Penggunaan bandar udara khusus untuk pelayanan umum sebagaimana dimaksud dalam ayat (1)\nbersifat sementara d an apabila bandar udara umum telah berfungsi untuk memberikan pelayanan\numum, izin penggunaan bandar udara khusus untuk pelayanan umum dicabut.\n(6) Ketentuan lebih lanjut mengenai penggunaan bandar udara khusus untuk melayani kepentingan\numum sebagaimana d imaksud dalam ayat (1), ayat (2), ayat (3), dan ayat (4) diatur dengan\nKeputusan Menteri."
+   }
+  },
+  {
+   "id": "ID-H1333-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38 …"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 38\n(1) Pembangunan bandar udara khusus dilakukan setelah mendapat izin Menteri untuk :\na. Bandar udara yang melayani pesawat udara berkapasitas lebih dari 30 (tiga puluh) tempat\nduduk;\nb. Bandar udara yang melayani pesawat udara berkapasitas sama atau kurang dari 30 (tiga\npuluh) tempat duduk yang ruang udara di sekitarnya dikendalikan.\n(2) Pembangunan bandar udara khusus dilakukan setelah mendapat izin Bupati/Walikota untuk\nbandar udara yang melayani pesawat udara berkapasitas sama atau kurang dari 30 tempat duduk\nyang ruang udara di sekitarnya tidak dikendalikan.\n(3) Izin pembangunan bandar udara khusus sebagaimana dimaksud dalam ayat (1) dan ayat (2)\ndiberikan setelah memenuhi persyaratan :\na. administrasi;\nb. memiliki penetapan lokasi bandar udara;\nc. memiliki rencana induk bandar udara;\nPRESIDEN\nREPUBLIK INDONESIA\nd. rancangan teknis bandar udara khusus yang mel iputi rancangan awal dan rancangan\nteknik terinci, yang mengacu pada standar yang berlaku; dan\ne. kelestarian lingkungan.\n(4) Ketentuan lebih lanjut mengenai pembangunan bandar udara khusus sebagaimana dimaksud\ndalam ayat (1) diatur dengan Keputusan Menteri."
+   }
+  },
+  {
+   "id": "ID-H1333-A39",
+   "no": 39,
+   "noLabel": {
+    "id": "Pasal 39"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 39\n(1) Pengoperasian bandar udara khusus dilakukan setelah mendapat izin operasi dari Menteri untuk :\na. Bandar udara yang melayani pesawat udara berkapasitas lebih dari 30 (tiga puluh) tempat\nduduk.\nb. Bandar udara yang melayani pesawat udar a berkapasitas sama atau kurang dari 30 (tiga\npuluh) tempat duduk yang ruang udara di sekitarnya dikendalikan.\n(2) Pengoperasian bandar udara khusus dilakukan setelah mendapat izin operasi dari Bupati/Walikota\nuntuk Bandar udara yang melayani pesawat udara berkapasitas sama atau kurang dari 30 (tiga\npuluh) tempat duduk yang ruang udara di sekitarnya tidak dikendalikan.\n(3) Untuk memperoleh izin operasi bandar udara khusus sebagaimana dimaksud dalam ayat (1) dan\nayat (2), harus memenuhi persyaratan :\na. pembangunan bandar udara khusus telah selesai dilaksanakan sesuai izin pembangunan\nyang telah diberikan sebagaimana dimaksud dalam Pasal 38;\nb. keamanan …\nb. keamanan dan keselamatan penerbangan;\nc. pengelolaan lingkungan;\nd. tersedia pelaksana kegiatan di bandar udara khusus; dan\ne. memiliki Sertifikat Operasi Bandar Udara yang dikeluarkan berdasarkan peraturan\nperundang-undangan yang berlaku.\n(4) Izin operasi sebagaimana dimaksud dalam ayat (1) dan ayat (2) berlaku selama pe nyelenggara\nbandar udara khusus masih menjalankan usaha pokoknya.\n(5) Ketentuan lebih lanjut mengenai pengoperasian bandar udara khusus sebagaimana dimaksud\ndalam ayat (1) diatur dengan Keputusan Menteri."
+   }
+  },
+  {
+   "id": "ID-H1333-A40",
+   "no": 40,
+   "noLabel": {
+    "id": "Pasal 40"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 40\n(1) Permohonan izin pembangunan dan izin operasi bandar udara khusus sebagaimana dimaksud\ndalam Pasal 38 dan Pasal 39 diajukan secara tertulis kepada Menteri atau Bupati/Walikota sesuai\nPRESIDEN\nREPUBLIK INDONESIA\nkewenangannya.\n(2) Pemberian atau penolakan atas permohonan izin pembangunan dan izin operasi bandar udara\nkhusus sebagaimana dimaksud dalam ayat (1) diberikan dalam jangka waktu 14 (empat belas) hari\nkerja sejak permohonan diterima secara lengkap.\n(3) Penolakan permohonan izin pembangunan dan izin operasi sebagaimana dimaksud dalam ayat (2)\ndiberikan secara tertulis disertai alasan penolakan."
+   }
+  },
+  {
+   "id": "ID-H1333-A41",
+   "no": 41,
+   "noLabel": {
+    "id": "Pasal 41"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 41\nPemegang izin pembangunan bandar udara khusus dalam melaksanakan pembangunan bandar udara\nkhusus diwajibkan :\na. mentaati peraturan perundang -undangan dan ketentuan di bidang kebandarudaraan, keamanan\ndan keselamatan penerbangan serta pengelolaan lingkungan;\nb. mentaati peraturan perundang -undangan dari instansi pemerintah lainnya yang berhubungan\ndengan bidang tugas/usaha pokoknya;\nc. bertanggung jawab terhadap damp ak yang timbul selama pelaksanaan pembangunan bandar\nudara khusus yang bersangkutan;\nd. melaksanakan pekerjaan pembangunan bandar udara khusus sesuai dengan rencana induk\nbandar udara;\ne. melaksanakan pekerjaan pembangunan bandar udara khusus paling lambat 1 (satu) tahun sejak\nizin pembangunan diterbitkan;\nf. melaksanakan …\nf. melaksanakan pekerjaan pembangunan bandar udara khusus sesuai dengan jadwal yang\nditetapkan; dan\ng. melaporkan perkembangan kegiatan pembangunan bandar udara khusus setiap bulan kep ada\nMenteri atau Bupati/Walikota sesuai kewenangannya."
+   }
+  },
+  {
+   "id": "ID-H1333-A42",
+   "no": 42,
+   "noLabel": {
+    "id": "Pasal 42"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 42\n(1) Pemegang izin operasi bandar udara khusus diwajibkan :\na. mentaati peraturan perundang -undangan dan ketentuan di bidang penerbangan serta\nkelestarian lingkungan;\nb. mentaati peraturan perundang-undangan dari instansi Pemerintah lainnya yang\nberhubungan dengan bidang tugas/ usaha pokoknya;\nc. bertanggung jawab sepenuhnya atas pengoperasian bandar udara khusus yang\nPRESIDEN\nREPUBLIK INDONESIA\nbersangkutan; dan\nd. melaporkan kegiatan operasional setiap bulan kepada Menteri atau Bupati/Walikota sesuai\nkewenangannya.\n(2) Ketentuan lebih lanjut mengenai tata cara pelaporan sebagaimana dimaksud dalam ayat (1) huruf\nd diatur dengan Keputusan Menteri."
+   }
+  },
+  {
+   "id": "ID-H1333-A43",
+   "no": 43,
+   "noLabel": {
+    "id": "Pasal 43"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 43\nDalam hal usaha pokok tidak lagi dilaksanakan oleh pengelola bandar udara khusus, izin operasi bandar\nudara khusus dinyatakan tidak berlaku lagi."
+   }
+  },
+  {
+   "id": "ID-H1333-A44",
+   "no": 44,
+   "noLabel": {
+    "id": "Pasal 44"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 44\n(1) Izin operasi bandar udara khusus dapat dialihkan kepada pihak lain bersamaan dengan usaha\npokoknya.\n(2) Pengalihan izin operasi bandar udara khusus sebagaimana dimaksud dalam ayat (1) wajib\ndilaporkan kepada Menteri, Bupati/Walikota sesuai kewenangannya.\n(3) Ketentuan lebih lanjut mengenai pelaporan sebagaimana dimaksud dalam ayat (2) diatur dengan\nKeputusan Menteri."
+   }
+  },
+  {
+   "id": "ID-H1333-A45",
+   "no": 45,
+   "noLabel": {
+    "id": "Pasal 45 …"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 45\n(1) Izin pembangunan bandar udara khusus dicabut apabila pemegang izin tidak melaksanakan\nkewajiban sebagaimana dimaksud dalam Pasal 41.\n(2) Izin operasi bandar udara khusus dicabut apabila pemegang izin tidak melaksanakan kewajiban\nsebagaimana dimaksud dalam Pasal 42 dan Pasal 44.\n(3) Pencabutan izin pembangunan dan/atau izin operasi bandar udara khusus sebagaimana dimaksud\ndalam ayat (1) dan ayat (2) dilakukan melalui proses peringatan tertulis sebanyak 3 (tiga) kali\nberturut-turut dengan tenggang waktu masing-masing 1 (satu) bulan.\n(4) Apabila telah diberikan peringatan sebagaimana dimaksud dalam ayat (3), pengelola bandar udara\nkhusus tidak melakukan usaha perbaikan atas peringatan yang telah diberikan, maka izin\npembangunan dan/atau izin operasi bandar udara khusus dicabut.\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H1333-A46",
+   "no": 46,
+   "noLabel": {
+    "id": "Pasal 46"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 46\nIzin pembangunan dan izin operasi bandar udara khusus dapat dicabut tanpa melalui proses peringatan\ndalam hal pengelola bandar udara khusus yang bersangkutan terbukti :\na. melakukan kegiatan yang membahayakan pertahanan keamanan negara; atau\nb. memperoleh izin pembangunan atau izin operasi bandar udara khusus dengan cara tidak sah.\nBAB X\nPELAYANAN BANDAR UDARA\nKE/DARI LUAR NEGERI"
+   }
+  },
+  {
+   "id": "ID-H1333-A47",
+   "no": 47,
+   "noLabel": {
+    "id": "Pasal 47"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 47\n(1) Bandar udara umum dan bandar udara khusus dapat ditetapkan sebagai bandar udara yang\nterbuka untuk melayani angkutan udara ke/dari luar negeri.\n(2) Kegiatan bandar udara sebagaimana dimaksud dalam ayat (1) meliputi kegi atan lalu lintas pesawat\nudara, penumpang, kargo dan pos.\n(3) Bandar udara yang terbuka untuk melayani angkutan udara ke/dari luar negeri dapat disinggahi\npesawat udara berkebangsaan Indonesia atau asing yang melakukan kegiatan angkutan udara\nke/dari luar negeri."
+   }
+  },
+  {
+   "id": "ID-H1333-A48",
+   "no": 48,
+   "noLabel": {
+    "id": "Pasal 48 …"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 48\n(1) Penetapan bandar udara umum dan bandar udara khusus yang terbuka untuk melayani angkutan\nudara ke/dari luar negeri dilakukan dengan mempertimbangkan :\na. pertumbuhan dan perkembangan pariwisata serta ekonomi daerah yang mengakibatkan\nmeningkatnya mobilitas orang, kargo dan pos ke/dari luar negeri;\nb. kepentingan pengembangan kemampuan angkutan udara nasional yaitu dengan\nmeningkatnya kerja sama antara peru sahaan penerbangan nasional dengan perusahaan\npenerbangan asing dalam rangka melayani angkutan udara ke/dari luar negeri;\nPRESIDEN\nREPUBLIK INDONESIA\nc. pengembangan ekonomi nasional yang telah meningkatkan peran serta swasta dan\nmasyarakat dalam pembangunan nasional, sehingga menun tut pengembangan pelayanan\nangkutan udara yang memiliki jangkauan pelayanan yang lebih luas dengan kualitas yang\nmakin baik;\nd. keamanan dan keselamatan penerbangan serta kelancaran operasi penerbangan; dan\ne. kepentingan nasional lainnya yang mendorong sektor pembangunan lainnya.\n(2) Ketentuan lebih lanjut mengenai pembukaan bandar udara umum dan bandar udara khusus\nsebagai bandar udara yang terbuka untuk melayani angkutan udara ke/dari luar negeri\nsebagaimana dimaksud dalam ayat (1) diatur lebih lanjut dengan Keputusan Menteri."
+   }
+  },
+  {
+   "id": "ID-H1333-A49",
+   "no": 49,
+   "noLabel": {
+    "id": "Pasal 49"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 49\n(1) Menteri menetapkan bandar udara yang terbuka untuk melayani angkutan udara ke/dari luar\nnegeri sebagaimana dimaksud dalam Pasal 47.\n(2) Penetapan bandar udara yang terbuka untuk melayani angkutan udara ke/dari luar negeri\nsebagaimana dimaksud dalam ayat (1) dilakukan setelah mendapat pertimbangan dari Menteri\nyang bertanggung jawab di bidang keimigrasian serta Menteri yang bertanggung jawa b di bidang\nbea dan cukai.\nBAB XI …\nBAB XI\nFASILITAS PENGELOLAAN LIMBAH\nDI BANDAR UDARA"
+   }
+  },
+  {
+   "id": "ID-H1333-A50",
+   "no": 50,
+   "noLabel": {
+    "id": "Pasal 50"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 50\n(1) Pada setiap bandar udara wajib disediakan fasilitas pengelolaan limbah sebagai akibat\npengoperasian bandar udara dan/atau pesawat udara untuk mence gah terjadinya pencemaran.\n(2) Fasilitas pengelolaan limbah sebagaimana dimaksud dalam ayat (1), disediakan oleh\npenyelenggara bandar udara umum atau pengelola bandar udara khusus, sesuai dengan\nPRESIDEN\nREPUBLIK INDONESIA\nketentuan peraturan perundang-undangan yang berlaku.\n(3) Badan Hukum Indonesia dan/atau Warga Negara Indonesia dapat melaksanakan usaha\npengelolaan limbah dengan persetujuan penyelenggara bandar udara umum atau pengelola\nbandar udara khusus.\n(4) Ketentuan lebih lanjut mengenai fasilitas pengelolaan limbah di bandar udara sebagaimana\ndimaksud dalam ayat (1) dan ayat (2) diatur dengan Keputusan Menteri.\nBAB XII\nPENGGUNAAN BERSAMA BANDAR UDARA ATAU\nPANGKALAN UDARA"
+   }
+  },
+  {
+   "id": "ID-H1333-A51",
+   "no": 51,
+   "noLabel": {
+    "id": "Pasal 51"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 51\n(1) Bandar udara atau pangkalan udara dapat digunakan secara bersama untuk penerbangan sipil\ndan penerbangan militer.\n(2) Penggunaan bersama suatu bandar udara atau pangkalan udara sebagaimana dimaksud dalam\nayat (1) dilakukan dengan memperhatikan:\na. keamanan dan keselamatan penerbangan;\nb. kelancaran operasi penerbangan;\nc. keamanan dan pertahanan pangkalan udara; dan\nd. kepentingan penerbangan sipil dan militer."
+   }
+  },
+  {
+   "id": "ID-H1333-A52",
+   "no": 52,
+   "noLabel": {
+    "id": "Pasal 52 …"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 52\n(1) Penggunaan bersama bandar udara atau pangkalan udara untuk pene rbangan sipil dan\npenerbangan militer ditetapkan dengan Keputusan Presiden.\n(2) Dalam penetapan penggunaan bersama bandar udara atau pangkalan udara sebagaimana\ndimaksud dalam ayat (1) sekurang-kurangnya memuat :\na. hak, kewajiban, tanggung jawab dan wewenang dari masing -masing pihak;\nb. status kepemilikan/penguasaan aset pada bandar udara atau pangkalan udara yang\nPRESIDEN\nREPUBLIK INDONESIA\ndigunakan bersama;\nc. sistim dan prosedur penggunaan bersama bandar udara atau pangkalan udara;\nd. jenis kegiatan yang dominan dalam penerbangan."
+   }
+  },
+  {
+   "id": "ID-H1333-A53",
+   "no": 53,
+   "noLabel": {
+    "id": "Pasal 53"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 53\nDalam hal suatu bandar udara atau pangkalan udara tidak lagi digunakan bersama untuk penerbangan\nsipil dan penerbangan militer, maka status bandar udara atau pangkalan udara yang digunakan bersama\nkembali kepada status sebelum digunakan secara bersama yang ditetapkan dengan Keputusan Presiden.\nBAB XIII\nKETENTUAN LAIN-LAIN"
+   }
+  },
+  {
+   "id": "ID-H1333-A54",
+   "no": 54,
+   "noLabel": {
+    "id": "Pasal 54"
+   },
+   "chapter": {
+    "id": "BAB XIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 54\n(1) Bandar Udara umum yang saat ini diselenggarakan oleh Pemerintah (Unit Pelaksana\nTeknis/Satuan Kerja) penyelenggaraannya dapat dilimpahkan atau diserahkan kepada:\na. Pemerintah Propinsi;\nb. Pemerintah Kabupaten/Kota.\n(2) Penyelenggaraan bandar udara umum dapat dilimpahkan kepada Pemerintah Propinsi\nsebagaimana dimaksud dalam ayat (1) huruf a, merupakan tugas dekonsentrasi.\n(3) Penyelenggaraan bandar udara umum dapat diserahkan kepada Pemerintah Kabupaten/Kota\nsebagaimana dimaksud dalam ayat (1) huruf b, merupakan tugas desentralisasi."
+   }
+  },
+  {
+   "id": "ID-H1333-A55",
+   "no": 55,
+   "noLabel": {
+    "id": "Pasal 55 …"
+   },
+   "chapter": {
+    "id": "BAB XIII"
+   },
+   "heading": {
+    "id": "…"
+   },
+   "text": {
+    "id": "Pasal 55\n(1) Pelimpahan atau penyerahan penyelenggaraan bandar udara umum sebagaimana dimaksud\ndalam Pasal 54, dilakukan berda sarkan hirarki fungsi Bandar udara dan jenis pengendalian ruang\nudara di sekitarnya.\n(2) Bandar udara yang dilimpahkan atau diserahkan sebagaimana dimaksud dalam ayat (1), lebih\nPRESIDEN\nREPUBLIK INDONESIA\nlanjut ditetapkan oleh Menteri ."
+   }
+  },
+  {
+   "id": "ID-H1333-A56",
+   "no": 56,
+   "noLabel": {
+    "id": "Pasal 56"
+   },
+   "chapter": {
+    "id": "BAB XIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 56\nDalam hal Pemerintah Kabupaten/K ota tidak dapat menyelenggarakan bandar udara yang diserahkan\nsebagaimana dimaksud dalam Pasal 54 ayat (3), Pemerintah Kabupaten/Kota dapat melakukan kerja\nsama penyelenggaraan bandar udara dengan Badan Usaha Kebandarudaraan yang telah ada dan/atau\nmengembalikan penyelenggaraannya kepada Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H1333-A57",
+   "no": 57,
+   "noLabel": {
+    "id": "Pasal 57"
+   },
+   "chapter": {
+    "id": "BAB XIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 57\nPelayanan navigasi penerbangan dilakukan oleh Pemerintah dan pelaksanaannya dapat dilimpahkan\nkepada badan usaha milik negara yang didirikan untuk maksud tersebut berdasarkan peraturan\nperundang-undangan yang berlaku."
+   }
+  },
+  {
+   "id": "ID-H1333-A58",
+   "no": 58,
+   "noLabel": {
+    "id": "Pasal 58"
+   },
+   "chapter": {
+    "id": "BAB XIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 58\nBandar Udara yang telah diselenggarakan oleh Badan Usaha Kebandarudaraan, penyelenggaraannya\ntetap diselenggarakan oleh Badan Usaha Kebandarudaraan.\nBAB XIV …\nBAB XIV\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H1333-A59",
+   "no": 59,
+   "noLabel": {
+    "id": "Pasal 59"
+   },
+   "chapter": {
+    "id": "BAB XIV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 59\n(1) Pelimpahan atau penyerahan penyelenggaraan bandar udara umum (Unit Pelaksana\nTeknis/Satuan Kerja) oleh Pemerintah kepada Pemerintah Propinsi atau Pemerintah\nPRESIDEN\nREPUBLIK INDONESIA\nKabupaten/Kota, disesuaikan dengan hirarki fungsi bandar udara dan jenis pengendalian ruang\nudara di sekitarnya, d apat dimulai pada tahun 2002 sepanjang telah disediakan anggaran dan\npernyataan kesanggupan dari Pemerintah Propinsi atau Pemerintah Kabupaten/Kota untuk\npengoperasian bandar udara umum tersebut.\n(2) Dengan berlakunya Peraturan Pemerintah ini, semua banda r udara umum dan bandar udara\nkhusus yang telah ada dan beroperasi tetap dapat beroperasi, dengan ketentuan\nselambat-lambatnya dalam jangka waktu 1 (satu) tahun sejak Peraturan Pemerintah ini berlaku\nwajib menyesuaikan dengan ketentuan yang diatur dalam Pe raturan Pemerintah ini.\nBAB XV\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H1333-A60",
+   "no": 60,
+   "noLabel": {
+    "id": "Pasal 60"
+   },
+   "chapter": {
+    "id": "BAB XV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 60\nDengan berlakunya Peraturan Pemerintah ini, semua peraturan perundang -undangan yang lebih rendah\ndari Peraturan Pemerintah ini yang mengatur mengenai kebandarudaraan, dinyatakan tetap berlaku\nsepanjang tidak bertentangan dengan Peraturan Pemerintah ini ."
+   }
+  },
+  {
+   "id": "ID-H1333-A61",
+   "no": 61,
+   "noLabel": {
+    "id": "Pasal 61"
+   },
+   "chapter": {
+    "id": "BAB XV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 61\nDengan berlakunya Peraturan Pemerintah ini, maka Peraturan P emerintah Nomor 71 Tahun 1996 tentang\nKebandarudaraan (Lembaran Negara Republik Indonesia Tahun 1996 Nomor 108, Tambahan Lembaran\nNegara Nomor 3662), dinyatakan tidak berlaku."
+   }
+  },
+  {
+   "id": "ID-H1333-A62",
+   "no": 62,
+   "noLabel": {
+    "id": "Pasal 62"
+   },
+   "chapter": {
+    "id": "BAB XV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 62\nPeraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.\nAgar …\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan\npenempatannya dalam Lembaran Negara Republik Indonesia.\nDitetapkan di Jakarta\npada tanggal 17 Oktober 2001\nPRESIDEN\nREPUBLIK INDONESIA\nPRESIDEN REPUBLIK INDONESIA,\nttd\nMEGAWATI SOEKARNOPUTRI\nDiundangkan di Jakarta\npada tanggal 17 Oktober 2001\nSEKRETARIS NEGARA REPUBLIK INDONESIA,\nttd\nBAMBANG KESOWO\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2001 NOMOR 128\nPRESIDEN\nREPUBLIK INDONESIA\nPENJELASAN\nATAS\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nNOMOR 70 TAHUN 2001\nTENTANG\nKEBANDARUDARAAN\nI. UMUM\nBandar udara sebagai satu unsur dalam penyelenggaraan penerbangan memiliki peranan yang\nsangat penting dan strategis sehingga penyelenggaraannya dikuasai oleh negara dan pembinaannya\ndilakukan oleh pemerintah dengan tujuan untuk m ewujudkan penyelenggaraan penerbangan yang\nselamat, aman, cepat, lancar, tertib, dan teratur, nyaman dan berdaya guna, menunjang pemerataan,\npertumbuhan dan stabilitas, sebagai pendorong, penggerak dan penunjang pembangunan nasional.\nPembinaan kebandarudaraan yang meliputi aspek -aspek pengaturan, pengendalian dan pengawasan\nharus ditujukan untuk mencapai tujuan sebagaimana tersebut di atas. Di samping itu dalam\nmelakukan pembinaan kebandarudaraan juga harus memperhatikan sebesar -besarnya kepentingan\numum d an kemampuan masyarakat, kelestarian lingkungan, koordinasi antar wewenang pusat dan\nwewenang daerah serta antar instansi, sektor, dan antar unsur terkait serta pertahanan keamanan\nnegara, sekaligus dalam rangka mewujudkan Tatanan Kebandarudaraan Nasional dalam satu\nkesatuan sistem transportasi nasional yang andal dan terpadu.\nDengan ditetapkannya Undang -undang Nomor 22 Tahun 1999 tentang Pemerintahan Daerah dan\nPeraturan Pemerintah Nomor 25 Tahun 2000 tentang Kewenangan Pemerintah dan Kewenangan\nPropinsi sebagai Daerah Otonom, perlu dilakukan penataan dan pengaturan kembali ketentuan\nmengenai kebandarudaraan yang telah ditetapkan dengan Peraturan Pemerintah Nomor 71 Tahun\n1996 tentang Kebandarudaraan.\nDalam rangka menampung otonomi daerah tersebut, tidak menghilangkan peranan pembinaan\nmengenai kebandarudaraan yang dilakukan oleh Pemerintah Pusat yang berlaku secara nasional\ndengan tetap mempertimbangkan norma -norma ketentuan kebandarudaraan yang berlaku secara\ninternasional.\nUntuk …\nPRESIDEN\nREPUBLIK INDONESIA\nUntuk kepentingan tersebut di atas maka dalam Peraturan Pemerintah ini diatur ketentuan -ketentuan\nmengenai Tatanan Kebandarudaraan Nasional, penetapan lokasi tanah dan/atau perairan serta ruang\nudara untuk penyelenggaraan bandar udara, pelaksanaan kegiatan di bandar udara,\npenyelenggaraan bandar udara umum yang meliputi perencanaan, pembangunan dan\npengoperasian, usaha penunjang kegiatan bandar udara, hal -hal menyangkut kerja sama dalam\npenyelenggaraan bandar udara, tarif jasa pelayanan kebandarudaraan, pen gelolaan bandar udara\nkhusus, pelayanan bandar udara ke/ dari luar negeri, fasilitas pengelolaan limbah, dan penggunaan\nbersama bandar udara atau pangkalan udara, untuk mengakomodasi pengaturan mengenai otonomi\ndaerah di bidang bandar udara yang keseluruha nnya merupakan unsur penting dalam\npenyelenggaraan bandar udara berdaya guna dan berhasil guna.\nII. PASAL DEMI PASAL\nPasal 1\nCukup jelas\nPasal 2\nAyat (1)\nCukup jelas\nAyat (2)\nMaksud dan tujuan p enyusunan Tatanan Kebandarudaraan Nasional adalah\ntertatanya bandar udara dalam peta geografis sesuai dengan peran yang diembannya dalam\nmempertahankan dan memelihara identitas dan integritas bangsa dan negara serta terciptanya\nefisiensi pelayanan umum yan g berskala nasional sebagai perwujudan dari kewenangan\nPemerintah dalam rangka perencanaan nasional dan pengendalian pembangunan secara makro di\nbidang kebandarudaraan.\nDengan tersusunnya Tatanan Kebandarudaraan Nasional dapat diciptakan\njaringan transp ortasi udara yang menghubungkan lokasi bandar udara satu dengan yang lainnya\nsehingga seluruh wilayah tanah air dapat dijangkau melalui transportasi udara dan/atau\ndikombinasi dengan moda transportasi lain.\nPRESIDEN\nREPUBLIK INDONESIA\nTatanan …\nTatanan Kebandaru daraan Nasional dimaksud adalah sebagai pedoman dasar\ndalam perencanaan pembangunan dan pengembangan bandar udara -bandar udara di seluruh\nIndonesia, baik bandar udara umum maupun bandar udara khusus agar terjalin suatu jaringan\nprasarana bandar udara secar a terpadu, serasi dan harmonis agar bersinergi dan tidak saling\nmengganggu yang bersifat dinamis.\nAyat (3)\nCukup jelas\nPasal 3\nAyat (1)\nHuruf a\nRencana Tata Ruang adalah tata ruang wilayah nasional, tata ruang\nwilayah Daerah Propinsi dan t ata ruang wilayah Daerah Kabupaten/Kota, termasuk tata ruang\npertahanan keamanan negara dan lingkungan hidup.\nHuruf b\nCukup jelas\nHuruf c\nCukup jelas\nHuruf d\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 4\nAyat (1)\nHuruf a\nYang dimaksud sesuai dengan hirarki fungsinya ialah penataan bandar\nudara yang didasarkan pada fungsinya, yaitu sebagai pusat penyebaran dan bukan pusat\npenyebaran.\nPRESIDEN\nREPUBLIK INDONESIA\nHuruf b …\nHuruf b\nCukup jelas\nHuruf c\nCukup jelas\nAyat (2)\nHuruf a\nBerdasarkan peraturan perundang -undangan tentang Penerbangan,\nbandar udara yang dimaksud adalah bandar udara internasional.\nHuruf b\nBerdasarkan peraturan perundang -undangan tentang Penerbangan,\nbandar udara yang dimaksud adalah bandar udara domestik.\nAyat (3)\nYang dimaksud dengan fasilitas, antara lain, berupa prasarana bandar udara dan\nalat bantu pendaratan. Sedangkan kegiatan operasional, antara lain, kegiata n pelayanan\npergerakan pesawat udara, penumpang, dan kargo.\nAyat (4)\nHuruf a\nCukup jelas\nHuruf b\nKegiatan tertentu meliputi, antara lain, kegiatan di bidang pertambangan,\nperindustrian, pertanian, pariwisata, atau yang secara khusus digun akan untuk kegiatan\npemerintahan, penelitian, pendidikan dan latihan serta sosial.\nAyat (5)\nHuruf a\nPenyelenggaraan bandar udara oleh Pemerintah Propinsi adalah bandar\nudara yang dibangun atas prakarsa dan biaya Pemerintah Propinsi. Penyelenggara an bandar\nPRESIDEN\nREPUBLIK INDONESIA\nudara oleh Pemerintah Kabupaten/Kota adalah bandar udara yang dibangun atas prakarsa dan\nbiaya Pemerintah Kabupaten/Kota.\nPenyelenggaraan …\nPenyelenggaraan bandar udara oleh badan usaha kebandarudaraan\ndidasarkan pada pelimpahan sebagian wew enang Pemerintah dalam penyelenggaraan bandar\nudara, kecuali aspek pengendalian serta pengawasan yang tetap dilaksanakan oleh Pemerintah.\nHuruf b\nCukup jelas\nAyat (6)\nHuruf a\nCukup jelas\nHuruf b\nBandar udara sebagai tempat pendaratan dan lepas landas helikopter\ndisebut sebagai heliport, helipad, dan helideck.\nAyat (7)\nCukup jelas\nPasal 5\nAyat (1)\nHuruf a\nBandar Udara Pusat Penyebaran adalah bandar udara yang mempunyai\ncakupan pela yanan yang luas, melayani penumpang dalam jumlah besar, mempengaruhi\nperkembangan ekonomi secara nasional atau berbagai propinsi, berperan dalam transportasi antar\nnegara dan memiliki fasilitas penerbangan dengan teknologi tinggi yang perlu diharmonisasi\ndengan negara lain serta memberikan pelayanan minimal yang disesuaikan dengan standar\ninternasional.\nHuruf b\nBandar Udara Bukan Pusat Penyebaran adalah bandar udara yang\nmempunyai cakupan pelayanan dan mempengaruhi perkembangan ekonomi relatif terba tas.\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (2)\nCukup jelas\nAyat (3) …\nAyat (3)\nPenilaian atas kriteria bandar udara dilakukan dengan pembobotan baik dari segi\nstatus kota di mana bandar udara tersebut berada dalam Rencana Tata Ruang Wilayah Nasional\n(RTRWN), status penggunaan bandar udara, jumlah kepadatan penumpang, dan rute\npenerbangan.\nAyat (4)\nCukup jelas\nPasal 6\nRuang udara yang dikendalikan (controlled Airspace) adalah ruang udara yang ditetapkan\nbatas-batasnya, yang di dalamnya diberikan pelayanan lalu lintas udara (Air Traffic Control\nService) dan pelayanan informasi penerbangan (Flight Information Service) serta pelayanan\nkesiagaan (Alerting Service).\nRuang udara yang tidak dikendalikan (Uncontrolled Airspace) adalah ruang udara yang\nditetapkan batas -batasnya yang di dalamnya diberikan pelayanan informasi penerbang an (Flight\nInformation Service) dan pelayanan kesiagaan (Alerting Service).\nPasal 7\nCukup jelas\nPasal 8\nAyat (1)\nLokasi tanah dan/atau perairan serta ruang udara ditetapkan dengan batas -batas\nyang ditentukan secara jelas.\nPenyelenggaraan band ar udara meliputi kegiatan perencanaan, pembangunan,\npengoperasian, perawatan, pengawasan dan pengendalian.\nAyat (2)\nHuruf a\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nHuruf b\nCukup jelas\nHuruf c …\nHuruf c\nKelayakan ekonomis dan teknis pembangunan ditinjau dari efisiensi dan\nefektivitas pembangunan dan pengoperasian bandar udara guna mewujudkan keterpaduan intra\ndan antar moda transportasi.\nHuruf d\nCukup jelas\nHuruf e\nCukup jelas\nHuruf f\nCukup jelas\nHuruf g\nCukup jelas\nAyat (3)\nCukup jelas\nPasal 9\nCukup jelas\nPasal 10\nCukup jelas\nPasal 11\nAyat (1)\nHuruf a\n1) Fasilitas sisi udara, antara lain, berupa landasan pacu, taxiway,\nPRESIDEN\nREPUBLIK INDONESIA\napron, airstrip.\n2) Fasilitas sisi darat, antara lain, berupa terminal penumpang,\nbangunan operasi, menara pengawas lalu lintas udara, dan depo\npengisian bahan bakar pesawat udara.\n3) Fasilitas …\n3) Fasilitas navigasi penerbangan, antara lain, berupa Non\nDirectional Beacon (NDB), Doppler VHF Omni Range (DVOR),\nInstrument Landing System (ILS), Radio Detection and Ranging\n(RADAR).\n4) Fasilitas alat bantu pendaratan visual, antara lain, berupa Runway\nLighting, Taxiway Lighting, Visual Approach Slope Indicator\n(VASI), dan Precision Approach Path Indicator (PAPI).\n5) Fasilitas komunikasi penerbangan, antara lain, berupa komunikasi\nantar stasiun penerbangan, Automatic Message Switching Center\n(AMSC), komunikasi lalu lintas penerbangan.\nHuruf b\nCukup jelas\nAyat (2)\nHuruf a\nKawasan Pendekatan dan Lepas Landas adalah suatu kawasan\nperpanjangan kedua ujung landasan, di bawah lintasan pesawat udara setelah lepas landas atau\nakan mendarat, yang dibatasi oleh ukuran panjang dan lebar tertentu.\nHuruf b\nKawasan K emungkinan Bahaya Kecelakaan adalah sebagian dari\nkawasan pendekatan yang berbatasan langsung dengan ujung -ujung landasan dan mempunyai\nukuran tertentu, sebagai kawasan kemungkinan terjadinya kecelakaan.\nHuruf c\nKawasan di Bawah Permukaan Horizonta l-Dalam adalah bidang datar di\natas dan di sekitar bandar udara yang dibatasi oleh radius dan ketinggian dengan ukuran tertentu\nuntuk kepentingan pesawat udara melakukan terbang rendah pada waktu akan mendarat atau\nPRESIDEN\nREPUBLIK INDONESIA\nsetelah lepas landas.\nHuruf d\nKawasan di Bawah Permukaan Horizontal -Luar adalah bidang datar di\nsekitar bandar udara yang dibatasi oleh radius dan ketinggian dengan ukuran tertentu untuk\nkepentingan keselamatan dan efisiensi operasi penerbangan antara lain pada waktu pesawat\nmelakukan pen dekatan untuk mendarat dan gerakan setelah tinggal landas atau gerakan dalam\nhal mengalami kegagalan dalam pendaratan.\nHuruf e …\nHuruf e\nKawasan di Bawah Permukaan Kerucut adalah bidang dari suatu kerucut\nyang bagian bawahnya dibatasi oleh garis per potongan dengan permukaan horizontal dalam dan\nbagian atasnya dibatasi oleh garis perpotongan dengan permukaan horizontal luar, masing -masing\ndengan radius dan ketinggian tertentu dihitung dari titik referensi yang ditentukan.\nHuruf f\nKawasan di Ba wah Permukaan Transisi adalah bidang dengan\nkemiringan tertentu sejajar dengan dan berjarak tertentu dari sumbu landasan, pada bagian bawah\ndibatasi oleh titik perpotongan dengan garis -garis datar yang ditarik tegak lurus pada sumbu\nlandasan dan pada bagia n atas dibatasi oleh garis perpotongan dengan permukaan horizontal\ndalam.\nHuruf g\nKawasan di Sekitar Penempatan Alat Bantu Navigasi Penerbangan\nadalah kawasan di sekitar penempatan alat bantu navigasi penerbangan di dalam dan/atau di luar\ndaerah li ngkungan kerja bandar udara, yang penggunaannya harus memenuhi persyaratan\ntertentu guna menjamin kinerja/efisiensi alat bantu navigasi penerbangan dan keselamatan\npenerbangan.\nAyat (3)\nCukup jelas\nPasal 12\nPeraturan perundang -undangan yang berlaku adalah peraturan perundang -undangan di\nbidang pertanahan.\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 13\nUntuk bangunan yang merupakan fasilitas pokok bandar udara, izin untuk mendirikan\nbangunan melekat pada penetapan Menteri mengenai Keputusan Pelaksanaan Pembanguna n\ndan Pengoperasian Bandar Udara.\nSedangkan pelaksanaan pemberian Izin Mendirikan Bangunan (IMB) sebagaimana\ndimaksud dalam Pasal ini, berlaku terhadap bangunan yang akan dibangun setelah\ndiberlakukannya Peraturan Pemerintah ini. Untuk Izin Mendirikan Ba ngunan (IMB) yang sudah\ndiberikan sebelum dikeluarkan Peraturan Pemerintah ini dinyatakan tetap berlaku.\nPasal 14 …\nPasal 14\nAyat (1)\nYang dimaksud umum adalah pemegang hak atas tanah dan/atau perairan\nbeserta ruang udara.\nSedangkan yang dimaks ud dengan memenuhi persyaratan keselamatan operasi\npenerbangan adalah penggunaannya memenuhi persyaratan, antara lain, batas ketinggian pada\nkawasan keselamatan operasi penerbangan dan pemberian tanda atau pemasangan lampu pada\nbangunan atau benda lainnya.\nAyat (2)\nCukup jelas\nPasal 15\nAyat (1)\nPada dasarnya tanah dan ruang udara di sekitar bandar udara dapat\ndimanfaatkan untuk berbagai kegiatan. Namun demikian agar kegiatan tersebut dapat terlaksana\ndengan baik, jenis kegiatan tersebut perlu disesuaikan dengan tingkat kebisingan yang terjadi.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (4)\nUntuk efisiensi dan kelancaran penetapan tingkat kebisingan oleh Bupati/\nWalikota, Menteri memberikan bimbingan dan arahan teknis.\nPasal 16\nAyat (1)\nCukup jelas\nAyat (2)\nPenempatan unit pelaksana teknis/satuan kerja instansi Pemerintah sebagaimana\ndimaksud pada huruf b dan huruf c dilakukan sesuai dengan kebutuhan.\nAyat (3) …\nAyat (3)\nBandar Udara yang diselenggarakan oleh Pemerintah Propinsi adalah bandar\nudara yang diban gun oleh Pemerintah Propinsi sebagaimana dimaksud dalam Pasal 20. Bandar\nudara yang diselenggarakan oleh Pemerintah Kabupaten/Kota adalah bandar udara yang\ndibangun oleh Pemerintah Kabupaten/Kota sebagaimana dimaksud dalam Pasal 20.\nAyat (4)\nCukup jelas\nPasal 17\nAyat (1)\nPelaksanaan kegiatan fungsi Pemerintah dilakukan sesuai dengan fungsi, tugas,\nkewenangan dan tanggung jawabnya masing -masing berdasarkan peraturan perundang-undangan\nyang berlaku.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nHuruf a\nPRESIDEN\nREPUBLIK INDONESIA\nPejabat pemegang fungsi koordinasi dalam mengkoordinasikan kegiatan\nfungsi Pemerintahan terkait dan kegiatan pelayanan jasa kebandar -udaraan memperhatikan\ndengan sungguh -sungguh upaya untuk mencegah terjadinya kegi atan/tindakan yang dapat\nmengakibatkan terganggunya kelancaraan operasional bandar udara.\nPejabat pemegang fungsi koordinasi dalam menjalankan wewenangnya\ntidak mencampuri kewenangan bidang teknis dari instansi Pemerintah terkait serta pelayanan jasa\nkebandarudaraan oleh penyelenggara bandar udara.\nHuruf b\nCukup jelas\nAyat (5)\nCukup jelas\nPasal 18 …\nPasal 18\nCukup jelas\nPasal 19\nAyat (1)\nHuruf a\nPersyaratan administrasi termasuk rekomendasi yang diberikan oleh\ninstansi terkait.\nHuruf b\nCukup jelas\nHuruf c\nCukup jelas\nHuruf d\nRancangan teknis bandar udara umum disesuaikan d engan rencana\nperuntukan bandar udara yang bersangkutan, dalam kaitan dengan kemampuannya menampung\npesawat-pesawat terbang yang akan lepas landas dari bandar udara tersebut.\nHuruf e\nPersyaratan kelestarian lingkungan dibuktikan dengan dokumen studi\nPRESIDEN\nREPUBLIK INDONESIA\nanalisis mengenai dampak lingkungan.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nMengingat bandar udara menurut kegiatannya adalah untuk melayani pendaratan\ndan lepas landas pesawat terbang atau helikopter, maka dalam Keputusan Menteri, ketentuan\nmengenai persyaratan pembangunan bandar udara untuk melayani pendaratan dan lepas landas\nhelikopter dapat diatur secara khusus sesuai dengan kebutuhan.\nPasal 20 …\nPasal 20\nPembangunan bandar udara umum baru harus berdasarkan kepada Tatanan\nKebandarudaraan Nasional. Oleh karena itu, Menteri terlebih dahulu menetapkan lokasi\npenyelenggaraan bandar udara berdasarkan tatanan tersebut.\nBandar udara umum baru yang dibangun oleh Pemerintah, Pemerintah Propinsi,\nPemerintah Kabupaten/Kota kepemilikannya oleh Pemerintah, Pemerintah Propinsi, Pemerintah\nKabupaten/Kota.\nPasal 21\nHuruf a\nCukup jelas\nHuruf b\nBertangggung jawab terhadap dampak yang timbul termasuk tanggung jawab\nperdata.\nHuruf c\nCukup jelas\nHuruf d\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nHuruf e\nPelaporan kegiatan pembangunan dilakukan selama masa pembangunan.\nPasal 22\nAyat (1)\nHuruf a\nCukup jelas\nHuruf b\nPemenuhan persyaratan keamanan dan keselamatan penerbangan\nantara lain berupa dilengkapiny a bandar udara dengan fasilitas pengamanan dan fasilitas\npenanggulangan terhadap keadaan gawat darurat di bandar udara.\nHuruf c …\nHuruf c\nFasilitas untuk menjamin kelancaran arus penumpang, kargo dan pos,\nantara lain, berupa dilengkapinya bandar udara dengan fasilitas terminal penumpang, fasilitas\nuntuk turun naik penumpang, orang sakit dan penyandang cacat serta bongkar muat kargo dan\npos dari dan ke pesawat udara.\nHuruf d\nPersyaratan pengelolaan lingkungan adalah persyaratan yang diperlukan\nuntuk pencegahan dan/atau pengendalian pencemaran, antara lain, pemasangan alat pemantau\ntingkat kebisingan di bandar udara tertentu.\nHuruf e\nCukup jelas\nAyat (2) dan Ayat (3)\nSertifikat operasi bandar udara (Airport Operation Certificate/AOC) dikeluarkan\nsetelah memenuhi persyaratan sebagaimana ditetapkan dalam peraturan perundang -undangan\nbidang keamanan dan keselamatan penerbangan.\nAyat (4)\nPRESIDEN\nREPUBLIK INDONESIA\nMengingat bandar udara menurut kegiatannya ialah untuk melayani pendaratan\nlepas landas pesawat terbang atau helikopter, maka dalam Keputusan Menteri, ketentuan\nmengenai persyaratan pengo perasian bandar udara untuk melayani pendaratan dan lepas landas\nhelikopter dapat diatur secara khusus sesuai dengan kebutuhan.\nPasal 23\nCukup jelas\nPasal 24\nAyat (1)\nCukup jelas\nAyat (2)\nHuruf a\nUnit Pelaksana Teknis/Satuan Kerja band ar udara dimaksud berada di\nbawah Pemerintah, Pemerintah Propinsi, atau Pemerintah Kabupaten/Kota.\nHuruf b …\nHuruf b\nPelayanan jasa kebandarudaraan oleh Unit Pelaksana dari Badan Usaha\nKebandarudaraan didasarkan pada pelimpahan sebagian wewenang Pem erintah dalam\npenyelenggaraan bandar udara, kecuali aspek pengendalian dan pengawasan yang tetap\ndilaksanakan oleh Pemerintah.\nPasal 25\nHuruf a\nCukup jelas\nHuruf b\nCukup jelas\nHuruf c\nCukup jelas\nHuruf d\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nHuruf e\nCukup jelas\nHuruf f\nCukup jelas\nHuruf g\nPenyediaan jasa lainnya dapat berupa penyediaan fasilitas telekomunikasi untuk\numum, tempat penitipan barang, dan lain-lain yang menunjang pelayanan jasa kebandarudaraan.\nPasal 26\nCukup jelas\nPasal 27\nCukup jelas\nPasal 28 …\nPasal 28\nHuruf a\nCukup jelas\nHuruf b\nCukup jelas\nHuruf c\nBadan Hukum Indonesia atau perorangan untuk dapat melakukan kegiatan\npenunjang bandar udara harus mengadakan perjanjian/kesepakatan bersama denga n\npenyelenggara bandar udara berdasarkan prinsip saling menguntungkan dengan\nmempertimbangkan kelancaran operasional bandar udara dan kelancaran penerbangan.\nPasal 29\nCukup jelas\nPasal 30\nAyat (1)\nPRESIDEN\nREPUBLIK INDONESIA\nCukup jelas\nAyat (2)\nPelaksanaan kerja sama secara menyeluruh dan bersifat nasional dilakukan\nmengingat tingkat kemampuan/kinerja keuangan bandar udara berbeda -beda sehingga\nmemerlukan subsidi silang.\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nPasal 31\nCukup jelas\nPasal 32\nCukup jelas\nPasal 33 …\nPasal 33\nAyat (1)\nSatuan ukuran adalah satuan yang digunakan untuk menghitung antara lain\nukuran berat, volume, dan luas.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nPasal 34\nAyat (1)\nJasa kebandarudaraan adalah pelayanan Jasa Pendaratan, Penempatan dan\nPenyimpanan Pesawat Udara (PJP4U), Pelayanan Jasa Penumpang Pesawat Udara (PJP2U),\nPelayanan Jasa Pemakaian Counter, dan Pelayanan Jasa Pemakaian Garbarata.\nAyat (2)\nPRESIDEN\nREPUBLIK INDONESIA\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nPasal 35\nCukup jelas\nPasal 36\nAyat (1)\nCukup jelas\nAyat (2)\nWilayah bandar udara khusus ad alah wilayah daratan dan atau perairan dan\nruang udara yang dipergunakan untuk kegiatan operasi bandar udara khusus dan untuk menjamin\nkeamanan dan keselamatan penerbangan.\nAyat (3) …\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nAyat (5)\nCukup jelas\nPasal 37\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (3)\nCukup jelas\nAyat (4)\nPungutan tarif jasa kebandarudaraan dilakukan oleh penyelenggara bandar udara\nuntuk umum yang ditetapkan Menteri, dengan memperhatikan hak dan kepentingan pengelola\nbandar udara khusus.\nAyat (5)\nCukup jelas\nAyat (6)\nCukup jelas\nPasal 38\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3) …\nAyat (3)\nHuruf a\nPersyaratan administrasi termasuk rekomenda si yang diberikan oleh\ninstansi terkait.\nHuruf b\nCukup jelas\nHuruf c\nCukup jelas\nHuruf d\nCukup jelas\nHuruf e\nPRESIDEN\nREPUBLIK INDONESIA\nCukup jelas\nAyat (4)\nCukup jelas\nPasal 39\nAyat (1)\nCukup jelas.\nAyat (2)\nCukup jelas\nAyat (3)\nHuruf a\nCukup jelas\nHuruf b\nPersyaratan keamanan dan keselamatan penerbangan antara lain berupa\ndilengkapinya bandar udara dengan fasilitas pengamanan dan fasilitas penanggulangan terhadap\nkeadaan gawat darurat di bandar udara.\nHuruf c …\nHuruf c\nCukup jelas\nHuruf d\nCukup jelas\nHuruf e\nSertifikat operasi bandar udara (Airport Operation Certificate/AOC)\ndikeluarkan setelah memenuhi persyaratan sebagaimana ditetapkan dal am peraturan\nperundang-undangan di bidang keamanan dan keselamatan penerbangan.\nAyat (4)\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nAyat (5)\nCukup jelas\nPasal 40\nCukup jelas\nPasal 41\nHuruf a\nCukup jelas\nHuruf b\nCukup jelas\nHuruf c\nBertanggung jawab terhadap dampak yang timbul termasuk tanggung jawab\nperdata.\nHuruf d\nCukup jelas\nHuruf e\nCukup jelas\nHuruf f …\nHuruf f\nCukup jelas\nHuruf g\nPelaporan kegiatan pembangunan dilakukan selama masa pembangunan.\nPasal 42\nCukup jelas\nPasal 43\nYang dimaksud dalam hal usaha pokok tidak lagi dilaksanakan adalah izin usaha\npokoknya tidak berlaku lagi atau selama 1 (satu) tahun berturut -turut tidak lagi menjalankan usaha\npokoknya.\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 44\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nDalam Keputusan Menteri diatur mengenai prosedur dan tata cara serta dokumen\nyang perlu dilampirkan dalam laporan.\nPasal 45\nCukup jelas\nPasal 46\nCukup jelas\nPasal 47\nAyat (1)\nCukup jelas\nAyat (2) …\nAyat (2)\nKegiatan pelayanan bandar udara ke/dari luar negeri pada bandar udara khusus,\nterbatas pada kegiatan lalu lintas pesawat udara, penumpang, kargo, dan pos untuk kepentingan\nsendiri, dalam rangka menunjang kegiatan/usaha pokoknya.\nAyat (3)\nCukup jelas\nPasal 48\nAyat (1)\nHuruf a\nPRESIDEN\nREPUBLIK INDONESIA\nCukup jelas\nHuruf b\nKepentingan pengembangan kemampuan angkutan udara nasional\nantara lain meliputi perolehan pangsa muatan yang wajar dan perwujudan iklim usaha yang sehat.\nHuruf c\nCukup jelas\nHuruf d\nCukup jelas\nHuruf e\nKepentingan nasional lainnya antara lain meliputi kepentingan di bidang\npertahanan keamanan negara.\nAyat (2)\nCukup jelas\nPasal 49\nCukup jelas\nPasal 50\nCukup jelas\nPasal 51 …\nPasal 51\nCukup jelas\nPasal 52\nCukup jelas\nPasal 53\nDalam pengertian kembali kepada status semula sebelum digunakan secara bersama\nialah termasuk status aset bandar udara atau pangkalan udara yang dimiliki/dikuasai oleh\nmasing-masing pihak kecuali apabila ditetapkan secara khusus dalam Keputusan Presiden.\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 54\nAyat (1)\nHuruf a\nCukup jelas\nHuruf b\nPenyelenggaraan bandar udara yang dilaksanakan oleh Pemerintah\nKabupaten/Kota apabila terdapat perubahan terhadap hirarki fungsi bandar udara dan/atau jenis\npengendalian ruang udara di sekitarnya, maka penyelenggaraannya tetap dilaksanakan oleh\nPemerintah Kabupaten/Kota.\nSedangkan kewenangan sebagaimana dimaksud dalam Pasal 10 ayat (3)\ndan ayat (5), Pasal 15 ayat (3), Pasal 18 ayat (3), Pasal 19 ayat (3) menjadi kewenangan\nPemerintah.\nAyat (2)\nCukup jelas\nAyat (3)\nPenyerahan penyelenggaraan bandar udara disertai dengan penyerahan\nkepemilikan bandar udara sesuai dengan peraturan perundang -undangan yang berlaku.\nPasal 55\nCukup jelas\nPasal 56 …\nPasal 56\nCukup jelas\nPasal 57\nCukup jelas\nPasal 58\nCukup jelas\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 59\nAyat (1)\nPenyediaan anggaran biasanya diproses 1 (satu) tahun sebelumnya, oleh sebab\nitu diperlukan kepastian terhadap tersedianya anggaran dan pernyataan kemampuan untuk\nmengoperasikan.\nAyat (2)\nCukup jelas\nPasal 60\nCukup jelas\nPasal 61\nCukup jelas\nPasal 62\nCukup jelas\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 4146"
+   }
+  }
+ ]
+}

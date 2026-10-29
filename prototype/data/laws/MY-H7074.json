@@ -1,0 +1,434 @@
+{
+ "id": "MY-H7074",
+ "title": {
+  "zh": "1981年估值师、评估师及房地产代理法",
+  "en": "VALUERS, APPRAISERS AND ESTATE AGENTS ACT 1981",
+  "orig": "VALUERS, APPRAISERS AND ESTATE AGENTS ACT 1981",
+  "vi": "Luật về Định giá viên, Thẩm định viên và Đại lý Bất động sản năm 1981",
+  "th": "พระราชบัญญัติผู้ประเมินราคา ผู้ประเมินทรัพย์สิน และตัวแทนอสังหาริมทรัพย์ ค.ศ. 1981",
+  "id": "Undang-Undang Penilai, Penaksir, dan Agen Properti Tahun 1981",
+  "ms": "Akta Penilai, Pentaksir dan Ejen Harta Tanah 1981"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-16",
+ "language": "en",
+ "level": "law",
+ "category": "04_劳工与行政法",
+ "status": "active",
+ "promulgatedDate": "1981",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "ACT242",
+ "topics": [],
+ "summary": null,
+ "coverage": "partial",
+ "structureMode": "ARTICLE",
+ "articleCount": 28,
+ "chars": 36030,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-detail.php?act=242&lang=BI"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\04_劳工与行政法\\1981_242_VALUERS, APPRAISERS AND ESTATE AGENTS ACT 1981.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 45 条；逐字未改写（AI 自行 OCR）；已清除正文中的 20 个控制字符（C0/C1 区，法律文本中无合法用途，系 PDF 抽取/表单域残留）。",
+ "textQuality": "ocr-ai",
+ "articles": [
+  {
+   "id": "MY-H7074-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {
+    "en": "ParT I"
+   },
+   "heading": {},
+   "text": {
+    "en": "1. Citation and application."
+   }
+  },
+  {
+   "id": "MY-H7074-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {
+    "en": "ParT I"
+   },
+   "heading": {},
+   "text": {
+    "en": "2. Interpretation.\nPart Il\nAPPOINTMENT, DUTIES AND POWERS OF\nDIRECTOR GENERAL OF VALUATION AND\nPROPERTY SERVICES AND OTHER OFFICERS\nDirector General and other officers.\nFunctions and duties of Director General.\nAccess to lands, buildings, etc.\nSubmission of relevant information.\n\nPower of delegation.\n\nMinister may make rules.\n\nPart\nBOARD-OF-VALUERS-AND-APPRATSERS*"
+   }
+  },
+  {
+   "id": "MY-H7074-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10"
+   },
+   "chapter": {
+    "en": "Part Il"
+   },
+   "heading": {},
+   "text": {
+    "en": "10. Functions of the Board."
+   }
+  },
+  {
+   "id": "MY-H7074-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11"
+   },
+   "chapter": {
+    "en": "Part Il"
+   },
+   "heading": {},
+   "text": {
+    "en": "11. Examiners and other staff."
+   }
+  },
+  {
+   "id": "MY-H7074-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12"
+   },
+   "chapter": {
+    "en": "Part Il"
+   },
+   "heading": {},
+   "text": {
+    "en": "12. Fund of the Board."
+   }
+  },
+  {
+   "id": "MY-H7074-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13"
+   },
+   "chapter": {
+    "en": "Part Il"
+   },
+   "heading": {},
+   "text": {
+    "en": "13. Auditing of accounts,\n\nPart IV\n\nTHE REGISTER OF VALUERS AND APPRAISERS\nAND THE REGISTRAR"
+   }
+  },
+  {
+   "id": "MY-H7074-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "14. Register."
+   }
+  },
+  {
+   "id": "MY-H7074-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "15. Registrar."
+   }
+  },
+  {
+   "id": "MY-H7074-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "16. Authority to practise.\n[Arrangement of Sections]\n\n4 Acr 242\n\nPart V\n\nVALUERS AND APPRAISERS\nSection"
+   }
+  },
+  {
+   "id": "MY-H7074-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "17. Registration of valucrs and appraisers."
+   }
+  },
+  {
+   "id": "MY-H7074-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "18. Qualifications —"
+   }
+  },
+  {
+   "id": "MY-H7074-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "19. Valuation practice."
+   }
+  },
+  {
+   "id": "MY-H7074-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "20. Restriction on registered appraisers."
+   }
+  },
+  {
+   "id": "MY-H7074-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "21. Restrictions on valuation practice."
+   }
+  },
+  {
+   "id": "MY-H7074-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "22. Special authority.\n\nPayot VA\nFirms Part VI\n\nVALUATION PRACTICE |BY PARTNERSHIP OR\nBODY CORPORATE\n\nParT VII\n\nDISCIPLINARY AND OTHER PROCEEDINGS"
+   }
+  },
+  {
+   "id": "MY-H7074-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24"
+   },
+   "chapter": {
+    "en": "ParT VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "24. Cancellation, suspension and admonishment."
+   }
+  },
+  {
+   "id": "MY-H7074-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25"
+   },
+   "chapter": {
+    "en": "ParT VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "25. Removal from Register."
+   }
+  },
+  {
+   "id": "MY-H7074-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26"
+   },
+   "chapter": {
+    "en": "ParT VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "26. Reinstatement."
+   }
+  },
+  {
+   "id": "MY-H7074-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 27"
+   },
+   "chapter": {
+    "en": "ParT VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "27. Appeal."
+   }
+  },
+  {
+   "id": "MY-H7074-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 28"
+   },
+   "chapter": {
+    "en": "ParT VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "28. Appeal Board."
+   }
+  },
+  {
+   "id": "MY-H7074-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Section 29"
+   },
+   "chapter": {
+    "en": "ParT VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "29. Procedure for appeal.\n\nParT VIII\n\nGENERAL"
+   }
+  },
+  {
+   "id": "MY-H7074-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Section 30"
+   },
+   "chapter": {
+    "en": "ParT VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "30. Offences. ‘"
+   }
+  },
+  {
+   "id": "MY-H7074-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Section 31"
+   },
+   "chapter": {
+    "en": "ParT VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "31. Penalty for other offences."
+   }
+  },
+  {
+   "id": "MY-H7074-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Section 32"
+   },
+   "chapter": {
+    "en": "ParT VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "32. Board may make rules."
+   }
+  },
+  {
+   "id": "MY-H7074-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Section 33"
+   },
+   "chapter": {
+    "en": "ParT VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "33. Saving as to right of Government."
+   }
+  },
+  {
+   "id": "MY-H7074-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "Section 34"
+   },
+   "chapter": {
+    "en": "ParT VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "34. Consequential amendments to the Registration of\nSurveyors Act 1967."
+   }
+  },
+  {
+   "id": "MY-H7074-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "Section 35"
+   },
+   "chapter": {
+    "en": "ParT VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "35. Repeal.\n\nSCHEDULE.\nAn 480 74\nnA 1056 /49\n\nLAWS OF MALAYSIA\n\nAct 242 -\nAND ESTATES AGENTS\n\nVALUERS, AND APPRAISERS ACT 1981\n\nAn Act to provide for the appointment of a Director AA 599\nGeneral of Valuation and Property Services and for\nthe registration of valuers, and appraisers, and for Keagents\nmatters connected therewith.\n\nrf 6 2 &f |\n\nBE IT ENACTED by the Duli Yang Maha Mulia\nSeri Paduka Baginda Yang di-Pertuan Agong with the\nadvice and consent of the Dewan Negara and Dewan\nRakyat in Parliament assembled, and by the authority\nof the same, as follows:\n\nParT I\n\nPRELIMINARY pond Eorete gen PAY\n\n1, This Act may be cited as the Valuers,and Apprai- eton'sna \"1°\n\nsersyAct 1981 and shall apply throughout Malaysia, *PPlication.\n\n2. In this Act, unless the context otherwise requires— Tiere\nation.\n\n\"Appeal Board\" means the Appeal Board estab-\nlished under section 28;\n\nkK ‘authority to practiSe\" means a certificate or written C—- subAngeo\nauthority, as the case may be, to practise as a registered\nvaluer or appraiser under section 17 or as a Specially\n\n; : or as 9 res red esferse ALYY\nauthorised valuer under section 2%, Sogenf a oe poder 75\n\n\"Board\" means the Board of Valuers, and Appraisers a Eotale Agents\nestablished under section 9;\n\n\"Director General\" means the Director General of\nValuation and Property Services appointed under sub-\nsectio (1) of section 3;\n1@ agency achce\" - ~~ MA S99\n\"fund\" means the Fund of the Board of Valuers, AAG 6\nand Appraisersy established under subsection (1) of\n\nsection 12: R.\n[Pt\n\nAATSE\n\nAAvo +\n\nI-ll, §. 2-4]\n6 Act 242\n\n\"member\" means a Member of the Board; /\n\n\"Minister\" means the Minister for the time being\ncharged with the responsibility for finance;\n\n\"prescribed\" means prescribed by rules made by the\nMinister orfby the Board; |\n\n(A578) _, Subs aacro> \"Register\" awl the Register of Valuers and\n\nor nh Rep vter\nLo forgfe Ap en7s\n\nLh 598\n\nSubs AAO\n\nyond Bofafe\n‘io Agen 73\n\nDirector\nGeneral\nand other\nofficers.\n\nFunctions\nand duties\nof Director\nGeneral.\n\ngeadl 1056,\n\ndl] AA 790 —>\nJas. AASLD\n\nAppraisers, kept in gecordance with section 14;\n\n\"registered. appraisér\" means a person whose name\nhas been placed on|the Register and who has been\ngiven authority to practise by the Board under section\n\na regiMered estate agtat\"\n\n\"registered valuer\"| means a person whose name has\nbeen placed on the Register and who has been given\nauthority to practise |py the Board under section 17;\n\n\"Registrar\" means the Registrar of Valuers, and\nAppraisers, appointed under section 15.\n\nPart II\n\nAPPOINTMENT, DUTIES AND POWERS OF DIRECTOR\nGENERAL OF VALUATION AND PROPERTY SERVICES\nAND OTHER OFFICERS\n\n3. (1). There shall be appointed within the Ministry of\nFinance an officer to be styled as the Director General\nof Valuation and Property Services and such number\nof Deputy Directors General, Directors and officers\nas may be required for the administration of this Act.\n\n(2) After a date fixed by order of the Minister\npublished in the Gazette no person shall be appointed\nto the office of Director General, Deputy Director\nGeneral or Director unless he is a registered valuer.\n\n4. (1) The functions of the Director General shall be—\n\n(a) to carry out the duties conferred on him by\nthis Act;\n\n(b) to collect and collate such information as he\nthinks necessary to assist officers and valuers in\n(1) the making of valuation; and\n— \\)--tph) -. Coe. -\n\nIns D0 4Q56 — (C) generally. to investigate and report to the\n\ndof\n\nk Sub angen\n\nMinister on any matter he considers likely to\nimprove the standards of valuation,in Malaysia.\n(Pt. 11, 8,\nVALUERS AND APPRAISERS 7\n\n(2)|}At the requegt of the Government or of any\nState Government, 4 local authority, a statutory body\nor any other person as the Minister may determine,\nthe Director Genergl may—\n\n(a) do the valuation of all lands and buildings\nincluding furniture, fixtures, trade stocks, plant\nor machinery and other effects;\n\n(b) do the valuation of lands and buildings required\nfor feasibility studies, court proceedings, arbi-\ntration or other purposes;\n\n(c) act as estate agent including negotiating for\nsales, purchases, rentals and lettings by agree-\nment, auction or tender; and\n\n(dq) do property management, project manage-\nment and the making or checking of inventories\nof furniture, fixtures, trade stocks, plant or\nmachinery and other effects.\n\n(3) (a) With regard tofparagraph (b) of subsection\n(1) the Director General may supply any person or\nclass of persons, as may be prescribed by the Minister,\ninformation in his possession as to the details of any\nsale or transfer of land or of an interest in land upon\npayment of such fees as may be prescribed by the\nMinister.\n\n(b) With regard to subsection (2), except for any\nservice rendered to the Government, the Director\nGeneral may charge such fees as may be prescribed\nby the Minister for any service rendered.\n\n(c) The prescribed fees may be reduced, waived or\nee as the Ministerhinks fit.\n4) G) --\n\n5, (1) The Director General or any officer authorised\nby him may—\n\n(a) when reasonably necessary for the purposes of\njany—work_undertaken_by him-in accordance\n-with this Act, enter at all reasonable hours\ninto and upon any land, building or premises,\nand inspect the same without liability for\ntrespass;\n\n45]\n\nGul RAID\n\nDas AAYRO\n\nAccess to\nlands,\nbuildings,\netc.\n[Pt. Ul, S. 5-7]\n8 Acr 242\n\n(b) put either verbally or in writing to the owner\nor his agent or the person in occupation or\ncharge of that land, building or premises any\nrelevant questions to enable him to perform\nhis werk professionally; and\n\n(c) inspect any books, documents and papers in\nthe charge of any person, including a public\nofficer, for the purpose of such—werk and\nwithout charge take extracts therefrom.\n\nSal. VALOHG\n\nSub. PPODL\n\n(2) If after being informed of the purpose in desiring\nto enter and inspect the land, building or premises, or\nin putting the questions or in seeking to inspect such\nbooks, documents or papers relevant to the performance\n\nSb -hhtosk of hisfwerk, the agent or person refuses or fails to\nallow such entry or inspection, or refuses or wilfully\nomits to answer to the best of his knowledge or belief\nany such question either verbally or in writing as the\nquestioner may have requested, or wilfully makes any\nfalse statement in reply to that question, or refuses to\nallow such books, documents or papers to be inspected\nor extracts taken therefrom, he commits an offence and,..\nis liable on conviction to a fine not exceeding five-\nthousand ringgit or to a term of imprisonment not gw\nexceeding three months or to both.\n\nSubnuienon 6. (1) The Director-General may require the submis-\n\no formation, sion to him by any person of any relevant information\nnecessary for.his-work-on a form within a stated period,\nsuch form and period to be prescribed by the Minister. _\n\n; _ (2) Such information réquired shall include details of\nSub-AAIOSE sales, purchases, results off auctions and tenders, lettings\nand leases.\n\n(3) If after being informed of the purpose in requiring\n\nthe information and of the authority so to do, any\n\nthat pe\"Son person refuses to submit%such—form within the pres-\nGa AAIOSE cribed period or wilfully supplies any false information,\nS ie commits an offence and is liable on conviction to a\nSub PAGO Fine not exceeding five thousand ringgit or to a term of\nimprisonment not exceeding three months or to both.\n\nPower of 7. (1) For the purposes of carrying out the objects and\neleeation. purposes of this Act and exercising his powers, duties\nand functions, the Director General may, with the\napproval of the Minister, delegate to any officer under\n[Pt. I-TM, §, 7-9)\nVALUBRS AND APPRAISERS 9\n\nhis administrative control any of his powers, duties and\nfunctions under this Act.\n\n(2) Any such delegation may be made in respect of\nany particular matter or any class of matters or gene-\nrally or may be limited to any part of Malaysia and\nmay be made subject to such terms and conditions as\nthe Director General thinks fit.\n\n(3) Any delegation under this section shall be revo-\ncable at will and shall not prevent the exercise or\nperformance of any powers, duties or functions by the\nDirector General.\n\n8. The Minister may make rules as may be necessary Minister\nfor the better carrying out or giving effect to the pro- make\nvisions of this Part.\n\nPart Ill\nAND ESTATE AGENTS\nBOARD OF VALUERS, AND- APPRAISERS,\n\n9. (1) There shall be established a board to be called pare.\nthe Board of Valuers, and Appraisers,which shall be a Arar\nbody corporate with perpetual succession and a COM- ne Eo?ate\n\nmon seal and which may sue and be sued. A thents\n\n(2) The Board shall consist of the following members\nto be appointed by the Minister:\n\n(a) the Director General who shall be the President\nof the Board;\n\n‘(b) four registered valuers from the public service;\n\n(c) four registered valuers who have had at least\nsix years' professional experience as valuers and\nhave been nominated by the Institution of\nSurveyors (Malaysia) or other professional body\nthat the Board may from time to time recognise\nto represent valuers; and \"ase\n\n(a) one member off the nomination of the Board\n\nof Surveyors from among members of that ™\nBoard established under the Registration of 67/07.\n\nSurveyors Act 4967. wide}, tet) and td)\n\n(3) The persons referred to in paragraph (c)/of sub- ions\nsection (2) shall be citizens and practising their pro-\nfession in Malaysia. /\n\nSub AAqed\n[Pt. I, S. 9-10]\n10 Act 242\n\n(4) If the body referred to in paragraph (c) of sub-\nsection (2) fails to submit the panel of valuers within\nthree months after being so requested in writing by the\nMinister or there is no professional body representing\nvaluers, the Minister may make the appointments\nreferred to in that paragraph on the advice of the\nDirector General.\n\n(5) In the case of the first appointees to the Board\nsuch appointees shall within six months of the Board\nbeing first established be registered under the relevant\nprovisions of this Act as registered valuers.\n\nAA STS (SA) - - -\n(6) The members of the Board appointed under the\nLee) amel ) provisions of paragraphs (b),and (c)yof subsection (2)\nshall hold office for three years or for such shorter\nperiod as the Minister may specify and shall be eligible\nfor re-appointment.\n\n(7) If any member of the Board dies or resigns or\nhas his appointment revoked, a new member shall as\nsoon as practicable be appointed in his place and the\nmember so appointed shall hold office for the remainder\nof the term for which his predecessor was appointed.\n\n(8) The First Schedule shall have effect with respect\nto the Board.\n\nEuseiions 10. The functions of the Board shall be—\nBoard. (a) to keep and mons a Register of Valuers and\n\nKA SYS cach BAKED Appraisers; andl ¢ Register f L£9feh€ Agents\non, (b) to approve or reject applications for registration\ng condtlions cad under this Act or to approve any such applica-\n3ng-A9RO tion subject to suchjrestrictions as it may deem\n\nfit to impose;\n\n(c) to hold disciplinary proceedings in accordance\nwith Part VII;\n\n(d) to hold or cause to be held examinations of\npersons who desire to qualify themselves for\nregistratior#/-as-valuers, oF appraisers,\n\n(e) to prescribe from time to time with the approval\nof the Ministefj the scales of fees to be charged\n\nof estate age ofs by registered valuers, ef appraisers, for profes-\n\n4 sional advice or services rendered;\n\nA\n\nx had Abs Avy\n(Pt. 11, S$. 10-12]\nVALUERS AND APPRAISERS 8]\n\n(f) to hear and determine disputes relating to the\n\n__ professional conduct or ethics of valuers, anck <7 esfote\nappraisersor to appoint a committee or arbitra- ao\ntor to hear and determine such disputes;\n\n(g) to determine and regulate the professional , aad esate\nconduct and ethics of valuers,and appraisers; A age4 h\n\n(h) to award scholarships to persons who under-\n\nDm\ntake professional courses in valuation; and- 7 \"°@** eer\")\nthd Quy in -waunguons A 1)\n\n(i) generally, to do all such acts, matters and\nthings as are necessary to carry out the\nprovisions of Part III to Part VHF \\||\\ bub ANAK O\n\nji. (1) The Board may appoint examiners and such Examiners\nother officers and employees as it considers necessary 24,°\"hr\n| for the discharge of its functions.\n\n(2) The examiners and other officers and employees\nshall hold office for such period, receive such salaries\nand allowances, and be subject to such other terms\nand conditions of service as may be determined by\nthe Board.\n\n12. (1) All fees ;payable-and—all monies due to the Fundof —\\n4k0\nBoard under the provisions of this Act and such other ‘he Board.\n\n| sums as may be paid to the Board shall be credited\nto the Fund of the Board of Valuers, and- Appraisers: Estate #zcots\n\n(2) The Fund may be applied for—\n\n(a) the payment of the salaries, remuneration and\nallowances of the staff employed by the Board;\n\n(b) the payment for professional and other services\nrequired by and rendered to the Board;\n\n(c) the payment for office equipment, stationery,\npb and other things required by the\nBoard; /\n\nor\n(d) the payment to members of the Board .& Sub. AAO\nAppeal Board of fees and reasonable travelling\nand subsistence allowances for attendance at\nmeetings of the Board or Appeal Board as\nmay from time to time be approved by the\nMinister;\n(Pe. TY, S. 12-14]\n1? Acr 242\n\n(e) the payment of the expenses of registration\nand other expenses of administration, the\nexpenses of any research, investigation, study,\nconference or seminar conducted by the Board\nand the expenses for the printing or publication\nof forms, journals, brochures, pamphlets,\nadvertisements and other documents connected\n\nlanag with the Board's functions or duties; -and\n\n(f) the payment of rents, fees, dues, rates, pre-\nmiums, compensations and other monies that\nthe Board may be required to pay;\n\n(4), Ch),0)\n(3) Monies not me required may be invested\n\n}\n\nin immovable property ar in such trustee securities as\nthe Board may from time to time determine.\n\nAuditing of 3, The accounts of the Board shall be audited not\n‘accounts; Jess than once in a year by an auditor appointed by\n\nthe Board.\nPart. IV\nMASTS he REGISTER OF B9IRKTE AGENTS\nCah, DARD THE REGISTER OF VALUERS AND APPRAISERS AND\nTHE REGISTRAR\n\nRegisters. 14, (1) The Board shall keep and maintain a Register\nof Valuers and Appraisers which shall be in two\nParts:\n\n(a) Part I which shall dontain the names, business\naddresses, qualifications and other particulars\nof registered valuerg; and\n\n(b) Part II which shall contain the names, business\naddresses, qualifications and other particulars\nof registered apprajsers.\n\n~ 46-899 — 3 ——\n\n(2) The Registers shall be kept and maintained at\nthe office of the Board and shall be open to inspection\nby an person on payment of a fee prescribed by the\nBoard.\n\nSih. AATEC\n\n(3) No amendment or alteration shall be made in\nthe Registers without the matter having been decided\nupon at a meeting of the Board and the decision\nrecorded in the minutes of such meeting and all amend-\nments or alterations in the Registers shall be initialled\n\nby the President Registrar\nrw AAYKD\n[Pt. LV, S. 14-16]\nVALUERS AND APPRAISERS 13\n\n(4) In the event of an order or decision cancelling,\nsuspending or reinstating, or of any other order or\ndecision affecting, the registration of any valuer, Or sor esfate\nappraiser, under the provisions of this Act, the Board = °°7°°\"%\nshall cause an entry to be made in the/Register. | \"?preprcte\n\n(5 -- AAS 20\n15. (1) The Board, with the approval of the Minister, Registrar.\nshall appoint a Registrar of Valuers, and Appraisers,on _, ancf sxe\nsuch terms and conditions of service as it deems fit. Agents\n\n(2) The Registrar shall be under the general direction\nof the Board and shall sign all authorities to practise\nand record all entries required to be entered in the\nRegisters.\n\nISA-\n\n16. (1) The Registrar shall, upon receipt of a fee Authority to\nprescribed by the Board with the approval of the Practise.\nMinister, issue to every applicant, whose application\n\nhas been approved, an authority to practise in the form\nprescribed by the Board.\n\n(2) The authority to practise shall, subject to the\nprovisions of this Act, expire on the 3lst day of\nDecember of the year in which it is issued and shall\nthereafter be renewable annually upon payment of the —‘ins-ameo\nprescribed feel\n\n(3) A certificate of registration issued under the\nRegistration of Surveyors Act 1967 which before the 67/07.\ncoming into force of this Act was issued to a\nregistered Surveyor (General Practice) shall, subject to\nsubsection (2) of section 17, be replaced by the Board\nwith an authority to practise without payment of the\nprescribed fee.\n\n(4) An authority to practise which has been issued | G4 ,ss,005\nwith errors orj-ommissions may be recalled by the h Angee\nRegistrar and a fresh one issued without charge.\n\n(5) A duplicate authority to practise may be issued\nby the Board on application being made by a registered\nvaluer, ef appraiser,and on payment of a fee prescribed\nby the Board and such application shall be accompanied\nby a statement setting out the reasons for the applica-\ntion.\n\n(6) A duplicate authority to practise shall be clearly\nmarked \"Duplicate\" and shall contain all particulars\nshown on the original copy.\n\nIng. HAVO\n\nreal estate ager}\n[Pt TV-V, S. 16-17]\n\n\\4 Act 242\n: or esfafe agen?\n(7) Every registered valtter, or appraiser, shall notify\nthe Registrar of any chang¢ in his business address and\n\nsuch change shall be enterefl in the Registers.\nIhs AAR CIA)» OR) =. , :\n(8) The Registrar may annually publish and offer for\n\nsale copies of the Registers.\n\nGoad PAIR\n\nPart V\nVALUERS AND APPRAISERS\nRegistration 17, (1) Subject to the provisions of this Act every\n\nof valuers person shall be entitled to have his name\nappraisers. Register} upon making application to the Board and\n\n/ proving to its satisfaction that—\n\n/ oe:\n> SCHR\nee (a) he has attained the age of 21 years and is' of\n\"ASTe) sound mind, good character and haséver been\nduring the frre ycers convicted of any offence involving fraud or\nKimora) refesuing dishonesty or moral turpitudes\nFO PEM BV Ke satisfies the requirements of section 18;\n\n(c) he has made a declaration in the form an\nmanner prescribed by the Board;\n\n(d) he has paid the fees prescribed by the Board;\nand\n\n; vrelratin er es fof eney\n\n(¢) he is not under suspension from practice nét"
+   }
+  },
+  {
+   "id": "MY-H7074-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "Section 45"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "45. ppd , has his name been cancelled fromthe Register.\n\n(2) Any registered Surveyor (General Practice) who,\n\nimmediately before the coming into force of this Act,\n\n67/67, had his name registered under the Registration of\n\nSurveyors Act 1967 shall have, upon the coming into\n\nsepbiadiees auel force of this Act, his name transferred to Part I of the\nVepacoisers Registey without payment of any fee:\n\nll fA Provided that for one year after the coming into force\nof this Act such person shall continue to practise under\nthe provisions of the Registration of Surveyors Act\n\n(3) Any person who applies within twelve months\nfrom the date of the coming into force of this Act for\nregistration under Part II of the Register#shall be\nentitled to have his name so registered if he-~\n\n(a) immediately before the date of the coming into\nforce of this Act had been a licensed appraiser\nunder any of the various laws relating to the\nlicensing of appraisers in Malaysia and that,\nVALUBRS AND APPRAISERS 15\n\ngenerally his business as a licensed appraiser\nhad been his principal calling apart from his\nbusiness as an estate agent, and that he had\nserved his clients generally to their satisfaction;\nand\n\n(b) satisfies or complies with the provisions of\nparagraphs (a), (c), (d) and (e) of subsection (1).\n\n(4) In order to be satisfied of any of the matters\nmentioned in subsections (1) and (3) the Board may\ncall upon the applicant to submit to it such documents\nas it considers relevant.\n\n18. Except for persons efftitled to be placed under ag\n\nPart Il of the Register under subsection (3) of section nS WEL ers end\n17, before a person can be| considered for registration Lb popre ra'ser s\nas a valuer or appraiser he|shall have passed—\n\n(a) the examinations set by the Board and com-\npleted such period] of pre-qualifying or post-\nqualifying practical| training and experience as\nthe Board may prescribe;\n\nation of an institution of\nhigher learning either in Malaysia or overseas 9 -b #A4S0\nrecognised by the|Board as qualifying for\nexemption and has|completed such period of\npre-qualifying or | post-qualifying practical\ntraining and experience as the Board may\nprescribe; or\n\n(c) passed a professional examination either in\nMalaysia or overseas recognised by the Board\nas qualifying for exémption and has completed\na period of pre-qualifying or post-qualifying\npractical training and experience as the Board\nmay prescribe.\n\n19. Subject to the provisions of this Act a registered Valuation\nvaluer or appraiser who has been issued with an autho- Pats\nrity to practise by the Board shall be entitled to\npractise his profession and shall be authoriséd to\nundertake—\n\n(a) valuation of all lands and buildings including\nfurniture, fixtures, trade stocks, plant or\nmachinery and other effects;\n[M. V, S. 19-22]\n16 Act 242\n\n(b) valuation of lands and buildings required for\npr wo | | feasibility studies,(court proceedings, arbitration\n‘ or other purposes, and\n(c) property management and the making or\nchecking of inventories of furniture, fixtures,\ntrade stocks, plant or machinery and other\neffects, /\n\nRestriction 20, (1) A registered appraiser ts authorised to undertake\n\novvcuere' work subject to a total capital value and upon terms\nand conditions fixed by the Board from time to time\nwith the approval of the Minister.\n\n(2) The total capital value is deemed to be the total\namount undertaken under one specific instruction.\n\n(3) The Board may restrict the practice of the regis-\ntered appraiser to a particular State or States.\n\n— 21(°No person shall unless he is a registered valuer or\n\npractice, appraise\n\n(a) practise or carry on business or take up employ-\n\na AF V8C ment as-a-valuer-or-appraises under any name,\nstyle or title containing the words \"Valuer\",\n\n\"Appraiser\", \"Land Economist\", \"Property\n\nConsultant\", \"Property Manager\" or the equi-\n\nvalent thereto in any language or bearing any\n\nother word whatsoever in any language which\n\nmay reasonably be construed to imply that he\n\nlf Tegistered valuer or appraiser;\nAA) ) (Ab\n\n(b) use or display anyfsign board, card or other\ndevice representing| or implying that he is a\nregistered valuer orlappraiser;\n\nor other (c) undertake for a feejany of the work enumerated\n» Considecaton in section 19; or\n\n(d) be entitled to recover in any court any fee,\n\ncharge or remuneration for any professional\n\nadvice or services rendered as a valuer or\n\nafar A180 ea appraiser,\n\nSpecial 22. (1) Subject to subsection (2) and such policy as the\n‘uthority. — Board may from time to time adopt, the President may\nfrom time to time with the approval of the Board, upon\npayment of the fees prescribed by the Board and on\nsuch conditions or with such restrictions as he thinks fit\nto impose, in writing authorise any person who is not\n\nSub: BRIO\nVALUBRS AND APPRAISERS 17\n\na registered valuer to do any act or thing that the person\nwould, but for the authorisation, be prohibited or not\nbe entitled to do and may at any time, without assigning\nany reason therefor, withdraw the authorisation by\nnotice served on the person.\n\n(2) No person shall be authorised under this section\nto do any such act or thing for more than a total period\nof one hundred and cighty days in any one calendar\nyear.\n\n(3) A person who does any such act or thing under\nand in accordance with an authorisation under sub-\nsection (1) shall, notwithstanding any provision of this\nAct to the contrary, be deemed to be permitted to do\nthat act or thing as if he were a registered valuer.\n\nPART VA AA SGR\nParT VI\nAND ESTATE AGEA/CY\nVALUATION PRACTICE By PARTNERSHIP OR Mae\nA BODY CORPORATE —\n23. The Board may appyove, subject to. such con- Practfée of\nditions or restrictions as if may deem fit to impose, a Beyogrhie\npartnership or body corpprate to practise valuation, corporate.\n_with the right to charge and be charged and to recover\nin any court any fee, charge or remuneration for any\nprofessional advice or services rendered by it pursuant\nto its practice provided that—\n(a) the partners or Board of Directors, as the\ncase may be,.of the partnership. or. body 'cor-\nporate. consists entirely of registered -valuers, 7\noF registered apprajsers°\" \"egt#feree! estate ayers 4478\n\n(b) the shares in the pagtnership or body corporate\n\nare held entirely |by registered valuers, oF.\n\nregistered appraisers: and\n\n(c) the partnership or hody corporate accepts the\n\nobligation to furnish|to the Board a true written\n\n_ report of any change in the composition of its\n\norganisation or in shareholding thereof within\ntwo weeks of the octurrence of such change,\n\nbut not otherwise.\n\nSub dA ye?\n[Pt. VII, S. 24]\n\n18 Act 242\n\nAMARD Part VII\nor ectose qgendy DISCIPLINARY AND OTHER PROCEEDINGS\n\nCancellation, 24, (1) Subject to the provisions of this Part, if a\nsuspension\n\nand valuer er appraiser, whose name has been placed in the\nadmonish- RegisteiL-\nment,\n\nm4g0 (a): has been convicted of any offence involving\nfraud or dishonesty or moral turpitude;\n\n(b) has been found to have obtained his registration\nor authority to practice under this Act by fraud\n\n_ or _misrepresentation; \"iia\n\n(c) has his qualification under section 18;withdrawn\nor cancelled by the authority through which it\n-was acquired or by which it was awarded;\n\n(d) has contravened or failed to comply with any\nof the provisions of this Act or of any of the\nrules made thereunder;\n\n(e) has not observed any restrictions subject to\nwhich he is registered;\n\nMlnagge (f) has zepeatedly refused or neglected to comply\n_ with any order of the Board acting under any\nof the. provisions of this Act or of any of the\n\n_. Tules, made thereunder; or\n(g) has been found guilty by the Board of any\nprofessional misconduct or of any act or con-\n‘duct which in the opinion of the Board is\n\ninfamous or disgraceful,\n\nthe Board may make an order—\n\"as. (AVEO  @) cancelling his registratior;\nol 09960 (ji) suspending his practice for a period not exceed-\ning three years; -or\nSub. pAIgO : (iii) nt eee\nFue. paged bi? WN) = -\n\" —2h'\"The Board shall not make any order under sub-\nhor (in) section (1), unless—\n\nInd PngwO _ (a) there has been a hearing at which not less than\ncab: AAIBD -two-thirds-of the total number of members of\nthe Board are present; and\n\n(b) an opportunity of being heard, with or without\nthe assistance of counsel, has been given to the\n[or esistagy tt so idd values or appraised tating disciplinary\nbub: PAGO action. o\n(2A)- No ocdec of --:\n[Pt. Vil, 9. 24-26]\n\nVALUERS AND APPRAISERS 19\n\n(3) Any order made by the Board under paragraphs\n(i) and (ii) of subsection (1) shall be published in such\nnewspaper as the Board may deem fit if no appeal\nagainst the order has been lodged under sections 27 and\n29 within forty days of the date of the making of the\norder.\n\n(4) If an appeal has been lodged and subsequently\nwithdrawn the order shall be published within/ten days\nof the date of the receipt of the notice withdrawing the\nappeal.\n\n(5) If the appeal is pursued and the decision of the\nAppeal Board contains a cancellation of registration or\nsuspension of practice order such order shall be\npublished withinjtea days of the order made.\n\n|\nSun MAZE\n\n25. (1) There shall be removed from the Register}the Removal\nname and particulars of any registered valuer, OF Feit\n\nappraisep—°\" =#/* opt\n\n(a) who has applied in writing for such removal;\n(b) who has died;\n\n(c) who has been certified by the proper authority\nto be of unsound mind or has been adjudged a\nbankrupt;\n\n(d) who has failed to renew his authority to practise\nwithin three months of the expiry thereof; or\n\n(e) whose registration has been cancelled under\nsection 24,\n\n(2) Any person whose name is removed from the\nRegister/shall, within fourteen days after the date of\nnotification of the Board's decision by registered post,\nsupperiegt to the Board his authority to practise,\n\nas Ange c\n\nIng aANTEO\n\n26. (1) Any person whose name has been removed Reinstate\nfrom the Register{pursuant to.an order under para- ™t-\n\ngraph (i) of subsection (1) of section 24 shall, if his\nappeal has been allowed, forthwith be reinstated.\n\n(2) Any person whose practice has been suspended\nunder paragraph (ii) of subsection (1) of section 24\nand who has been admonished under paragraph (iii)\nof subsection (1) of section 24 shall, if his appeal has\nbeen allowed, forthwith have the particulars of the\nsuspension or the admonishment removed from the\nRegister}\n\nLas Anda\n(Pt. VIL, S. 26-28]\n20 Act 242\n\n(3) Any person whose name has been removed from\nthe Register, under paragraph (c) of subsection (1) of\nsection 24 shall be reinstated if he has notified the\nBoard and the Board is satisfied with the change of\ncircumstances removing his disability under that para-\ngraph.\n\n(4) Any person whose name has gen removed from\nthe Registerylunder paragraphs (a)and (d) of subsection\n(1) of section 25 skal \"be reinstated as soon as he has\napplied to be reinstated and upon payment of such\nfees, arrears and charges) as may be prescribed by the\nBoard.\n\nAppeal. 27. (1) Any person—\n\n(a2) who has been refused registration by the\nBoard;\n\n(b) who has been registered but is dissatisfied with\nany/restriction imposed by the Board; -or\n\n(c) who having been registered is dissatisfied with\nany order made by the Board under section 24,;0c\n\nmay Onin thirty days of being notified of such refusal,\nrestriction or order, appeal to the Appeal Board which\nmay thereupon make such orders as it may deem just\nor proper including any directions as to the cost of\nthe appeal.\n\n(2) The Board shall give effect to any order made\nby the Appeal Board.\n\nBug HARD\n\nSub AAGO\n\nThs AAILO\n\nAppeal 28. (1) For the purpose of this Act there shall be\n\nBoard. established an Appeal Board consisting of a person\nqualified for appointment as a Judge of a High Court\nas Chairman who shall be appointed by the Yang\ndi-Pertuan Agong after consultation with thejberd\nPresident. and two other persons//appointed by the\nYang di-Pertuan Agong.\n\n(2) A member of the Appeal Board shall unless he\nsooner resigns his office or has his appointment\nrevoked, hold office for such term as may be specified\nin the instrument appointing him and shall be eligible\nfor re-appointment.\n\n(3) The Board shall provide the Appeal Board with\nsuch secretarial services as are necessary for the\nAppeal Board to fulfil its functions.\n[Pt. VII-VII, 8. 29-30)\n\nVALUERS AND APPRAISERS 21\n\n29. (1) A notice of appeal referred to in section 27\nshall be made in writing.\n\n(2) On receipt of the notice of appeal the President\nof the Board or in his absence, the member delegated\nby the President so to do, shall cause to be prepared\na record of the proceedings of the Board and a state-\nment setting out the grounds on which the Board\narrived at its decision.\n\n(3) Upon receiving the record of proceedings and the\ngrounds of decision of the Board the Chairman of the\nAppeal Board shall convene a meeting of the Appeal\nBoard to hear the appeal.\n\n(4) The Appeal Board after hearing the appeal may,\non a majority decision, confirm or vary the decision\nof the Board.\n\n(5) The Appeal Board shall at its discretion deter-\nmine its own procedure and the costs of and incidental\nto the appeal.\n\n(6) The decision of the Appeal Board shall be final.\n\nPart VIII\nGENERAL\n30. Any person who—\n\n(a) procures or attempts to procure registration\nor an authority to practise under this Act by\nknowingly making or producing or causing to\nbe made or produced any false or fraudulent\ndeclaration, certificate, application or represen-\ntation whether in writing or otherwise;\n\n(b) wilfully makes or causes to be made any falsi-\nfication in the Register;\n\n(c) forges, alters or counterfeits any certificate,\ntestimonial, order or authority to practise under\nthis Act;\n\n(d) utters or uses any forged, altered or counterfeit\nauthority to practise under this Act knowing\nthe same to be forged, altered or counterfeited;\n\n(e) impersonates a registered valuer, or appraiser, °\"\n(f) buys or fraudulently obtains an authority to\n\npractise under this Act issued to another\nperson;\n\nProcedure\nfor appeal.\n\nANAGD\n\nOffences,\n\nestefe agent\n(Pt, VEEL, 8. 30-35)\n\nsul, AP ng\n\nww eadnfe acpent\na an 4\n\nJag. AA 4RO\nPenaltyfor 31, (1) Any person who commits any offence under\n\nother\n\noffences.\n\n. Wk ‘\n\n2? Acr 242\n\n(¢) sells any authority td practise issued under this\nAct; or\n\n(h) not being a person acting under the immediate\npersonal direction and supervision of a regis-\ntered valuer, of appraisery carries out or under-\ntakes to carry out any work provided under\n.. section 19er924 5 or\n\nUl) ~- K :\n\ncommits an offence and is liable on conviction to a fine\nnot exceeding-+five-thousand—ringeit-and.to a further\npenalty of five hundred ringgit for each day during the\ncontinuance of such offence.\n\nOA, 508, 400 --\n\nthis Act for which no other penalty is expressly provided _\nis liable on conviction to a fine not exceeding two\nthousand ringgit.\n\nA\\\\\n(2) If a partnership or body corporate fails to comply .\nwith any of the provisions of this Act the principal\" ~\nevery partner and every director, manager,secretary or >\nother similar officer thereof commits the same offence ~\nand is liable to the same penalty as the partnérshi\nbedy-corporate unless he proves that the offence was\ncommitted without his knowledge, consent or conni-\nvance or was not attributable to any neglect on his part.\n\n/\n\n41 A\nBoard may 32, The Board may with the approval of the Minister\n\nmake rules,\n\nSoy 480\n\nmake rules as may be necessary for the better carrying\nout or giving effect to the provisions of Part III to Part\nVEEVII|\n\nSavingas 33, Nothing in this Act contained shall apply to any-\n\nto right of\nGovernment,\n\nthing done or omitted to be done by or under the\nauthority of the Government or of any State Govern-\nment.\n\nConsequen- 34, The Registration of Surveyors Act 1967 shall be\n\nie) ane amended in the manner specified in the Second Schedule\n\nRegistration One year after the coming into force of this Act.\n\nof Surveyors\n\nAct 1967.\n\n67/67.\n\nRepeal. 35, The written laws specified in the Third Schedule\nshall be repealed to the extent specified therein one year\nafter the coming into force of this Act. /\n\nbru 31A..No acho Y wowodre sil lie afar] te bad 4\n\nisvind Wwewlvev 4 ‘the wid faany ATA MOF ONG\n\nunvuruis ae les Wade Uncllr tne Arp unlerd IED.\nboved tothe aut Nut the at a-tulleuse Join vcs [pm\n[Ist Schedule]\n\nVALUBRS AND APPRAISERS 23\n\nFirst SCHEDULE\n[Subsection (8) of section 9]"
+   }
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "id": "PH-H16186",
+ "title": {
+  "zh": null,
+  "en": "An Act to Repeal Act Numbered Sixteen Hundred and thirty-Nine.",
+  "orig": "An Act to Repeal Act Numbered Sixteen Hundred and thirty-Nine."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1939-06-18",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 476",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 464,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00476_1939_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00476_1939_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H16186-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Act Numbered Sixteen hundred and thirty-nine, entitled \"An Act to prohibit the sale, gift or\nother disposal of any intoxicating liquor, other than the so-called native wines and liquors, to any member of a\nnon-Christian tribe within the meaning of Act Numbered Thirteen and ninety-seven, and to prohibit the use of\nsuch liquor by any member of such tribe.\" is repealed."
+   }
+  },
+  {
+   "id": "PH-H16186-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nEnacted, without Executive approval, June 18, 1939."
+   }
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13352",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Section Two Hundred and Forty-Two of Act Numbered Twenty-Six Hundred and Fifty-Seven, Known as the Administrative Code.",
+  "orig": "An Act to Amend Section Two Hundred and Forty-Two of Act Numbered Twenty-Six Hundred and Fifty-Seven, Known as the Administrative Code."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1917-03-09",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2702",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 987,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1917/act_2702_1917.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02702_1917_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02702_1917_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13352-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section two hundred and forty-two of Act Numbered Twenty-six hundred and fifty-seven,\nknown as the Administrative Code, is hereby amended to read as follows:\n\"Section 242. Filling of vacancy in office of justice of the peace.-When a vacancy occurs in the office of any\njustice of the peace, except in the city of Manila, the judge of the Court of First Instance of the district shall\nforward to the Governor-General a list of names of persons qualified to fill said vacancy, accompanied by all\nthe applications presented by persons desirous of appointment. The Governor-General, with the advice and\nconsent of the Philippine Senate, shall make the respective appointments from said list: Provided, however,\nThat he may also appoint to the position any qualified person not included in the list and not an applicant for\nthe place, without preferences of any kind, when he deems such course to be in the public interest.\""
+   }
+  },
+  {
+   "id": "PH-H13352-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, March 9, 1917."
+   }
+  }
+ ]
+}

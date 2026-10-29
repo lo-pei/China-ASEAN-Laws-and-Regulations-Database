@@ -1,0 +1,66 @@
+{
+ "id": "MY-H6832",
+ "title": {
+  "zh": "1969年危险药品令",
+  "en": "DANGEROUS DRUGS ORDER 1969",
+  "orig": "DANGEROUS DRUGS ORDER 1969",
+  "vi": "Lệnh về Thuốc nguy hiểm năm 1969",
+  "th": "คำสั่งยาเสพติดให้โทษ ค.ศ. 1969",
+  "id": "Perintah Obat Berbahaya Tahun 1969",
+  "ms": "Perintah Dadah Berbahaya 1969"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-15",
+ "language": "en",
+ "level": "regulation",
+ "category": "05_其他及未分类",
+ "status": "active",
+ "promulgatedDate": "1969",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "PUA85",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 2,
+ "chars": 672,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-view.php?type=pua&no=P.U. (A) 85/1969&status=IBU"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\05_其他及未分类\\1969_P.U.(A)85-1969_DANGEROUS DRUGS ORDER 1969.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 2 条；逐字未改写（源自厂商 OCR 文本）。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H6832-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "1. This order may be cited as the Dangerous Drugs Order 1969.        Citation."
+   }
+  },
+  {
+   "id": "MY-H6832-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "2. Part III of the First Schedule to the Dangerous Drugs Ordinance yy, 336/56,\n1952 is hereby amended by inserting in item 17 thereof immediately yy, 195/59.\nafter the words \"Pethedine intermediate-C; and it salts (1-methyl-2 1. 165/61.\nphenylpiperidine-4 carboxylic acid)\" the following:                 L.N. 60/63.\n\"J.(3-cyano-3, 3-diphenylpropyl)-4-(2-oxo-3-propionyl-1 benzimida-\nzolinyl)-piperidine (the proposed international non-proprietary name\nof which is bezitramide).\"\n\nMade this 12th day of February, 1969.\n[M. of H. 4542. AG. 250/54 SF. 106.]\nDaTo' GANIE GILONG,\nMinister of Health"
+   }
+  }
+ ]
+}

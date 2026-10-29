@@ -1,0 +1,62 @@
+{
+ "id": "PH-H12755",
+ "title": {
+  "zh": null,
+  "en": "An Act Authorizing the Selection of Additional Teachers to Receive the Benefits of Act Numbered Nineteen Hundred and Eighty-Four, Providing that the Classes thereby Provided for May Be Held At Other Points than the City of Manila, and Making An Annual Appropriation for Carrying Out the Provisions of Said Act.",
+  "orig": "An Act Authorizing the Selection of Additional Teachers to Receive the Benefits of Act Numbered Nineteen Hundred and Eighty-Four, Providing that the Classes thereby Provided for May Be Held At Other Points than the City of Manila, and Making An Annual Appropriation for Carrying Out the Provisions of Said Act."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1911-02-03",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2048",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 856,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1911/act_2048_1911.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02048_1911_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02048_1911_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12755-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Authority is hereby given for the selection of thirty additional teachers to receive the benefits of\nAct Numbered Nineteen hundred and eighty-four, entitled \"An Act authorizing the creation of special classes\nof superior instruction for municipal or Insular teachers and appropriating the sum of fifty thousand pesos for\nsuch purpose,\" and for carrying out the purposes of said Act there is hereby annually appropriated, beginning\nwith the fiscal year nineteen hundred and twelve, out of any funds in the Insular Treasury not otherwise\nappropriated, the sum of fifty thousand pesos."
+   }
+  },
+  {
+   "id": "PH-H12755-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The special classes provided for by said Act Numbered Nineteen hundred and eighty-four may\nin future be held in the city of Manila or elsewhere in the Philippine Islands, subject to conditions which the\nSecretary of Public Instruction may require.\nEnacted, February 3, 1911."
+   }
+  }
+ ]
+}

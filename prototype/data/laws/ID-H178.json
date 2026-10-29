@@ -1,0 +1,84 @@
+{
+ "id": "ID-H178",
+ "title": {
+  "zh": "1960年第4号法",
+  "en": "Law No. 4 of 1960 Law",
+  "id": "Undang-Undang Nomor 4 Tahun 1960",
+  "orig": "Undang-Undang Nomor 4 Tahun 1960",
+  "vi": "Luật Luật số 4 năm 1960",
+  "th": "พระราชบัญญัติ พระราชบัญญัติ ฉบับที่ 4 พ.ศ. 2503",
+  "ms": "Akta Akta Bilangan 4 1960"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02c",
+ "language": "id",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "1960",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU4-1960",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 3,
+ "chars": 772,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": null
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\01_宪法与基础法\\印尼_WLD_1960_Undang-Undang Nomor 4 Tahun 1960.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 3 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H178-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {},
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 1.\nPerjanjian Persahabatan antara Republik Indonesia dan\nPersekutuan Tanah Melayu tertanggal 17 April 1959, yang salinannya\ndilampirkan\npada Undang-undang ini, dengan ini disetujui."
+   }
+  },
+  {
+   "id": "ID-H178-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {},
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 2.\nPerjanjian tersebut diatas mulai berlaku pada tanggal pertukaran\nsurat-surat pengesahan di Jakarta.\nDisetujui D.P.R. dalam rapat terbuka ke 8 pada tanggal 16\nOktober 1959 pada hari Jum'at P.2/1959."
+   }
+  },
+  {
+   "id": "ID-H178-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {},
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 3.\nUndang-undang ini mulai berlaku pada hari diundangkan.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan\npengundangan Undang-undang ini dengan penempatan dalam\nLembaran-Negara\nRepublik Indonesia.\nDisahkan di Jakarta\npada tanggal 8 Pebruari 1960.\nPresiden Republik Indonesia,\nSOEKARNO.\nDiundangkan\npada tanggal 8 Pebruari 1960.\nMenteri Muda Kehakiman,\nSAHARDJO."
+   }
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "id": "MY-H5256",
+ "title": {
+  "zh": "2001年上诉法院章程令",
+  "en": "Constitution of the Court of Appeal Order 2001",
+  "orig": "Constitution of the Court of Appeal Order 2001",
+  "ms": "Perintah Perlembagaan Mahkamah Rayuan 2001",
+  "vi": "Lệnh về Quy chế của Tòa Phúc thẩm năm 2001",
+  "th": "คำสั่งข้อกำหนดของศาลอุทธรณ์ ค.ศ. 2001",
+  "id": "Perintah Anggaran Dasar Pengadilan Banding Tahun 2001"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-11",
+ "language": "ms",
+ "level": "constitution",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "2001",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "PUA378",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 2,
+ "chars": 652,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-view.php?type=pua&no=P.U. (A) 378/2001&status="
+ },
+ "sourceFile": "MY\\en\\TXT文本\\01_宪法与基础法\\2001_P.U.(A)378-2001_Constitution of the Court of Appeal Order 2001.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 2 条；逐字未改写（源自厂商 OCR 文本）。原文马来文/英文双语并置，已分别落 text.ms 与 text.en。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H5256-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "1. (1) Perintah ini bolehlah dinamakan Perintah Keanggotaan Mahkamah\nRayuan 2001.\n\n(2) Perintah ini hendaklah mula berkuat kuasa pada 1 Januari 2002.\n\nBilangan hakim lain Mahkamah Rayuan"
+   }
+  },
+  {
+   "id": "MY-H5256-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "2. Bilangan hakim lain Mahkamah Rayuan tidak boleh melebihi lima belas\norang.\n\nDibuat 4 Disember 2001.\n[PM(BK)R. 11030/2 Jld. 2; PN(PU?)1714/I1]\n\nDengan Titah Perintah,\n\nTan SRI SAMSUDIN BIN OSMAN\nSetiausaha Jemaah Menteri\n\nFEDERAL CONSTITUTION\nCONSTITUTION OF THE Court OF APPEAL ORDER 2001\n\nIn exercise of the powers conferred by Clause (1Yof Article 1224 of the Federal\nConstitution, the Yang di-Pertuan Agong makes the following order:\n\nCitation and commencement"
+   }
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13610",
+ "title": {
+  "zh": null,
+  "en": "An Act Authorizing Juan Javier, Mansueto Javier, and Agustin Guerra, their Heirs or Legal Representatives to Bring Suit Against the Government of the Philippine Islands, and Authorizing the Attorney-General to Appear in Said Suit on Behalf of the Said Government.",
+  "orig": "An Act Authorizing Juan Javier, Mansueto Javier, and Agustin Guerra, their Heirs or Legal Representatives to Bring Suit Against the Government of the Philippine Islands, and Authorizing the Attorney-General to Appear in Said Suit on Behalf of the Said Government."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1921-02-20",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2966",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 907,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1921/act_2966_1921.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02966_1921_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02966_1921_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13610-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Juan Javier, Mansueto Javier, and Agustin Guerra, their heirs and legal representatives are\nhereby authorized to bring suit in the Court of First Instance of Manila or Tayabas against the Government of\nthe Philippine Islands, or include the Government of the Philippine Islands as defendant in any suit already\ninstituted by them, within six months from and after the approval of this Act, to determine their right, if any,\nto various portions of land expropriated and occupied by the Insular Government upon the opening of the\ninterprovincial road between Batangas and Tayabas which connects the municipalities of Bolboc and\nCandelaria, and the Attorney-General is authorized to appear at said trial, either himself or through a delegate,\non the behalf of the Government of the Philippine Islands to defend said Government at the same."
+   }
+  },
+  {
+   "id": "PH-H13610-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, February 20, 1921"
+   }
+  }
+ ]
+}

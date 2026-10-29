@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13216",
+ "title": {
+  "zh": null,
+  "en": "An Act Extending to and Making Applicable in the Territory Inhabited By Moros and Other Non-Christian People the Provisions of Act Numbered Twenty-Five Hundred and Fforty-One, Entitled \"An Act to Amend Act Numbered Twenty-three Hundred and thirty-Nine, Known as the Internal Revenue Law of Nineteen Hundred and Fourteen, By Changing the Rates of Taxes and Additional Taxes, Creating New Taxes, Abolishing Others, and for Other Purposes.",
+  "orig": "An Act Extending to and Making Applicable in the Territory Inhabited By Moros and Other Non-Christian People the Provisions of Act Numbered Twenty-Five Hundred and Fforty-One, Entitled \"An Act to Amend Act Numbered Twenty-three Hundred and thirty-Nine, Known as the Internal Revenue Law of Nineteen Hundred and Fourteen, By Changing the Rates of Taxes and Additional Taxes, Creating New Taxes, Abolishing Others, and for Other Purposes."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1916-01-08",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2545",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1031,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1916/act_2545_1916.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02545_1916_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02545_1916_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13216-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Act Numbered Twenty-five hundred and forty-one, enacted December twenty-first, nineteen\nhundred and fifteen, and entitled \"An Act to amend Act Numbered Twenty-three hundred and thirty-nine,\nknown as the Internal Revenue Law of Nineteen hundred and fourteen, by changing the rates of taxes and\nadditional taxes, creating new taxes, abolishing others, and for other purposes,\" is herebby extended to and\nmade applicable in the territory inhabited by Moros and other non-Christian people: Provided, That the\nfollowing persons shall be exempt from the corresponding Internal-Revenue taxes:\n(a) Retail dealers in tuba, basi, and tapuy;\n(b) Retail dealers in leaf tobacco;\n(c) Merchants, the value of whose merchandise does not exceed twenty-five pesos.\nProvided further, That the city council of Baguio may exercise the powers vested in provincial boards by\nsection forty-eight of Act Numbered Twenty-three hundred and thirty-nine."
+   }
+  },
+  {
+   "id": "PH-H13216-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effects as of January first, nnineteen hundred and sixteen.\nEnacted, January 8, 1916."
+   }
+  }
+ ]
+}

@@ -1,0 +1,123 @@
+{
+ "id": "ID-H222",
+ "title": {
+  "zh": null,
+  "en": null,
+  "id": "PEMUNGUTAN_2",
+  "orig": "PEMUNGUTAN_2"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02a",
+ "language": "id",
+ "level": "law",
+ "category": "02_民商事与经济法",
+ "status": "active",
+ "promulgatedDate": "1963",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU14-1962",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 7,
+ "chars": 4384,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": null
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\02_民商事与经济法\\印尼_WLD_1963_PEMUNGUTAN_2.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 7 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H222-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\nDalam Undang-undang ini dan dalam peraturan pelaksanaan yang\ndidasarkan padanya yang dimaksudkan dengan :\na. kendaraan bermotor : alat-alat kendaraan beroda dua atau lebih\nyang mempunyai daya penggerak sendiri dan yang tidak berjalan\ndiatas rel, termasuk juga yang tidak seluruhnya lengkap, baik dalam\nkeadaan ckd (completely knocked down);\nb. daerah pabean : bagian-bagian dari Republik Indonesia yang\nmerupakan wilayah dimana dipungut bea masuk dan bea keluar;\nc. impor: pemasukan untuk dipakai kedalam daerah pabean."
+   }
+  },
+  {
+   "id": "ID-H222-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\n(1) Atas kendaraan bermotor yang diimpor dari luar pabean\ndipungut \"Sumbangan Wajib Istimewa\" sebanyak :\na. 25% dari harga entrepot, jika mengenai kendaraan bermotor yang\nberoda dua atau tiga dan kendaraan bermotor truck dan bus untuk\n14\norang atau lebih dan mobil penarik montage, tanki, penyiram,\npenyapu kotoran dan faccali;\nb. 100% dari harga entrepot, jika mengenai kendaraan bermotor\nlainnya.\n(2) Semua ketentuan dari atau berdasarkan Undang-undang Tarip\nBea Indonesia (Lembaran-Negara tahun 1924 No. 87) sebagaimana telah\ndiubah dan ditambah mengenai pemungutan dan pengembalian bea masuk\nberlaku terhadap sumbangan Wajib Istimewa yang dimaksud dalam\nayat\n1 pasal ini."
+   }
+  },
+  {
+   "id": "ID-H222-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\nSumbangan Wajib Istimewa atas kendaraan bermotor yang diimpor\noleh orang atau badan yang mengimpor kendaraan bersangkutan."
+   }
+  },
+  {
+   "id": "ID-H222-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\n(1) Dari pemungutan Sumbangan Wajib Istimewa itu\ndikecualikan:\na. kendaraan ambulance, orang sakit, jenazah dan pemadam kebakan.\ntraktor-traktor dan forklif;\nb. kendaraan bermotor yang diimpor untuk keperluan Pemerintah\nPusat/Daerah;\nc. kendaraan bermotor yang atas dasar hubungan international\nmenghendaki demikian.\n(2) Pengencualian yang dimaksud pada ayat 1 huruf b dan c pasal\nini tidak berlaku apabila kendaraan bermotor bersangkutan dalam\njangka\nwaktu 5 tahun terhitung dari tanggal pengimporannya\ndiserrahkan dalam hak milik kepada pihak yang tidak termasuk b dan\nc tersebut\npada ayat 1 diatas.\nDalam hal demikian Sumbangan Wajib Istimewa dibayar segera oleh\npihak penerima kendaraan bermotor bersangkutan."
+   }
+  },
+  {
+   "id": "ID-H222-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\nMenteri Urusan Pendapatan, Pembiayaan dan Pengawasan menetapkan\nperaturan-peraturan lebih lanjut tentang pelaksanaan Undang-undang\nini guna menjamin dibayarnya Sumbangan Wajib Istimewa ini kepada\nNegara."
+   }
+  },
+  {
+   "id": "ID-H222-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\n(1) Pelanggaran dari ketentuan-ketentuan Undang-undang ini atau\nperaturan pelaksanaan yang didasarkan atas Undang-undang ini\ndikenakan\nhukuman administratip serupa denda setinggi-tingginya\nseratus ribu rupiah.\n(2) Barang-barang yang terhadapnya dilakukan pelanggaran itu\ntermasuk bungkusannya disita dengan tidak menggindahkan apakah\nbarang-barang\nitu kepunyaan terhukum atau tidak."
+   }
+  },
+  {
+   "id": "ID-H222-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\nUndang-undang ini mulai berlaku pada hari diundangkan dan\nmempunyai daya surut sampai tanggal 3 Agustus 1962.\nAgar supaya setiap orang dapat mengetahuinya memerintahkan\npengundangan Undang-undang ini dengan penempatan dalam\nLembaran-Negara\nRepublik Indonesia.\nDisahkan di Jakarta\npada tanggal 12 Juni 1963.\nPj. Presiden Republik Indonesia,\nDJUANDA.\nDiundangkan di Jakarta\npada tanggal 22 Juni 1963.\nSekretaris Negara,\nA.W. SURJOADININGRAT (S.H.).\nPENJELASAN\nATAS\nUNDANG-UNDANG No. 4 TAHUN 1963\nTENTANG\nPEMUNGUTAN \"SUMBANGAN WAJIB ISTIMEWA\"\nATAS KENDARAAN YANG DIIMPOR KEDALAM\nPABEAN - PABEAN\nI. UMUM\nPada pemasukan untuk dipakai dari kendaraan bermotor kedalam\ndaerah pabean tidak lagi dikenakan pajak masuk. Juga terdapat\npengecualian\ndari bea balik nama dari kendaraan bermotor itu.\nBerhubung dengan keuangan Negara dewasa ini, Pemerintah memandang\nperlu mengadakan pemungutan \"Sumbangan Wajib Istimewa\" atas semua\nkendaraan bermotor, yang dimasukkan untuk dipakai kedalam daerah\npabean. Pengecualian diberikan untuk beberapa kendaraan bermotor\nsaja yang ditentukan dalam peraturan ini. Berhubung pemungutan\ndilakukan pada waktu pemasukan kedalam daerah pabean, maka\npelaksanaannya\ndiserahkan kepada Jawatan Bea dan Cukai, yang untuk\nitu menggunakan Peraturan tentang bea masuk sebagai pedoman,\nmisalnya tentang\npenetapan nilai entrepot dari kendaraan bermotor,\ntentang cara pemungutan jumlah yang terhutang dan lain\nsebagainya.\nII. PASAL DEMI PASAL\nCukup jelas.\nTermasuk dalam Lembaran-Negara tahun 1963 No. 71.\nMengetahui :\nPejabat Sekretaris Negara,\nA.W. SURJOADININGRAT (S.H.).\n--------------------------------\nCATATAN\nKutipan: LEMBARAN NEGARA DAN TAMBAHAN LEMBARAN NEGARA TAHUN 1963\nYANG TELAH DICETAK ULANG"
+   }
+  }
+ ]
+}

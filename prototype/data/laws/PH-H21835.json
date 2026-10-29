@@ -1,0 +1,72 @@
+{
+ "id": "PH-H21835",
+ "title": {
+  "zh": null,
+  "en": "Granting Emergency Cost of Living Allowance to Employees of the National Government and Appropriating the Necessary Funds Thereof",
+  "orig": "Granting Emergency Cost of Living Allowance to Employees of the National Government and Appropriating the Necessary Funds Thereof"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p159",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1974-02-17",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 390",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 928,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_00390_1974_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_00390_1974_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H21835-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Any provision of law, decree, executive order, letter of instruction, or rule or regulation to the\ncontrary notwithstanding, all employees of the National Government whose salaries or wages are less than or\nbelow six hundred pesos (P600) per month shall be given, in addition to their respective salaries or wages, the\namount of fifty (P50) per month as emergency cost of living allowance: Provided, That, no employee covered\nby this emergency allowance scheme shall, by reason of the receipt of this allowance, receive more than six\nhundred pesos (P600) per month as straight time pay."
+   }
+  },
+  {
+   "id": "PH-H21835-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "So much amount as is necessary to pay the emergency cost of living allowance and the\nadjustment as provided for in the preceding section is hereby appropriated."
+   }
+  },
+  {
+   "id": "PH-H21835-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Decree shall take effect and shall be implemented immediately.\nDone in the City of Manila, this 17th day of February, in the year of Our Lord, nineteen hundred and\nseventy-four."
+   }
+  }
+ ]
+}

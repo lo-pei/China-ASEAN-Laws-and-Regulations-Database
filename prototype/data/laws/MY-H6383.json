@@ -1,0 +1,666 @@
+{
+ "id": "MY-H6383",
+ "title": {
+  "zh": "2021年传染病预防与控制（疫区地方措施）（行动管制）（第2号）（修正）（第6号）条例",
+  "en": "PREVENTION AND CONTROL OF INFECTIOUS DISEASES (MEASURES WITHIN INFECTED LOCAL AREAS) (MOVEMENT CONTROL) (NO. 2) (AMENDMENT) (NO. 6) REGULATIONS 2021",
+  "orig": "PREVENTION AND CONTROL OF INFECTIOUS DISEASES (MEASURES WITHIN INFECTED LOCAL AREAS) (MOVEMENT CONTROL) (NO. 2) (AMENDMENT) (NO. 6) REGULATIONS 2021",
+  "ms": "Peraturan Pencegahan dan Kawalan Penyakit Berjangkit (Langkah dalam Kawasan Tempatan Berjangkit) (Kawalan Pergerakan) (Bilangan 2) (Pindaan) (Bilangan 6) 2021",
+  "vi": "Quy định về Phòng chống bệnh truyền nhiễm (Các biện pháp trong khu vực bị nhiễm bệnh) (Kiểm soát di chuyển) (số 2) (Sửa đổi) (số 6) năm 2021",
+  "th": "ข้อบังคับการป้องกันและควบคุมโรคติดต่อ (มาตรการในท้องที่ที่ติดเชื้อ) (การควบคุมการเคลื่อนย้าย) (ฉบับที่ 2) (การแก้ไข) (ฉบับที่ 6) ค.ศ. 2021",
+  "id": "Peraturan Pencegahan dan Pengendalian Penyakit Menular (Tindakan di Wilayah Lokal Terinfeksi) (Pengendalian Mobilitas) (Nomor 2) (Perubahan) (Nomor 6) Tahun 2021"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-14",
+ "language": "ms",
+ "level": "regulation",
+ "category": "05_其他及未分类",
+ "status": "active",
+ "promulgatedDate": "2021",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "PUA56",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 52,
+ "chars": 9494,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-view.php?type=pua&no=P.U. (A) 56/2021&status=AMENDMENT"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\05_其他及未分类\\2021_P.U.(A)56-2021_PREVENTION AND CONTROL OF INFECTIOUS DISEASES (MEASURES WITHIN INFECTED LOCAL AREAS) (MOVEMENT.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 52 条；逐字未改写（源自厂商 OCR 文本）。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H6383-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "1. Negeri Johor 5.2.2021 – 18.2.2021"
+   }
+  },
+  {
+   "id": "MY-H6383-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "2. Negeri Kedah 5.2.2021 – 18.2.2021"
+   }
+  },
+  {
+   "id": "MY-H6383-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "3. Negeri Kelantan 5.2.2021 – 18.2.2021"
+   }
+  },
+  {
+   "id": "MY-H6383-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "4. Negeri Melaka 5.2.2021 – 18.2.2021"
+   }
+  },
+  {
+   "id": "MY-H6383-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "5. Negeri Sembilan 5.2.2021 – 18.2.2021"
+   }
+  },
+  {
+   "id": "MY-H6383-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "6. Negeri Pahang 5.2.2021 – 18.2.2021"
+   }
+  },
+  {
+   "id": "MY-H6383-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "7. Negeri Pulau Pinang 5.2.2021 – 18.2.2021"
+   }
+  },
+  {
+   "id": "MY-H6383-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "8. Negeri Perak 5.2.2021 – 18.2.2021"
+   }
+  },
+  {
+   "id": "MY-H6383-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "9. Negeri Perlis 5.2.2021 – 18.2.2021"
+   }
+  },
+  {
+   "id": "MY-H6383-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "10. Negeri Sabah 5.2.2021 – 18.2.2021"
+   }
+  },
+  {
+   "id": "MY-H6383-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "11. Negeri Selangor 5.2.2021 – 18.2.2021"
+   }
+  },
+  {
+   "id": "MY-H6383-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "12. Negeri Terengganu 5.2.2021 – 18.2.2021"
+   }
+  },
+  {
+   "id": "MY-H6383-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "13. Wilayah Persekutuan Kuala Lumpur 5.2.2021 – 18.2.2021"
+   }
+  },
+  {
+   "id": "MY-H6383-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "14. Wilayah Persekutuan Putrajaya 5.2.2021 – 18.2.2021"
+   }
+  },
+  {
+   "id": "MY-H6383-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "15. Wilayah Persekutuan Labuan 5.2.2021 – 18.2.2021\".\n\nPenggantian Jadual Kedua\n\n3. Peraturan-Peraturan ibu dipinda dengan menggantikan Jadual Kedua dengan\n\njadual yang berikut:\n\n\"JADUAL KEDUA\n\nPERKHIDMATAN PERLU\n\n[Peraturan 3]\n\nPengilangan dan Pembuatan\n\n1. Aeroangkasa (komponen dan maintenance, repair and overhaul (MRO))\n\n2. Automotif (kenderaan dan komponen)\n\n3. Makanan dan minuman\n\n4. Pembungkusan dan percetakan\n\n5. Barang-barang rumah dan penjagaan diri, dan bahan pencuci\n\n6. Keluaran penjagaan kesihatan dan perubatan termasuk penokok diet\n\n7. Kelengkapan perlindungan diri dan peralatan keselamatan kebakaran\n\n8. Komponen bagi peranti perubatan\n\n9. Barang-barang elektrikal dan elektronik\n\n10. Minyak dan gas\n\n11. Keluaran petrokimia\n\n12. Keluaran bahan kimia\n\n13. Mesin dan peralatan\n\n14. Acuan seramik bagi pembuatan sarung tangan\n\n15. Besi dan keluli"
+   }
+  },
+  {
+   "id": "MY-H6383-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "16. Tekstil"
+   }
+  },
+  {
+   "id": "MY-H6383-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "17. Perabot"
+   }
+  },
+  {
+   "id": "MY-H6383-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "18. Bahan api dan pelincir\n\nPerkhidmatan"
+   }
+  },
+  {
+   "id": "MY-H6383-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "19. Automotif (penyelenggaraan dan pembaikan)"
+   }
+  },
+  {
+   "id": "MY-H6383-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "20. Keselamatan dan pertahanan"
+   }
+  },
+  {
+   "id": "MY-H6383-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "21. Kewangan"
+   }
+  },
+  {
+   "id": "MY-H6383-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "22. Institusi kewangan termasuk perbankan, insurans, takaful, bursa\n\ndan institusi lain yang dilesenkan, diluluskan atau didaftarkan oleh\n\nBank Negara Malaysia"
+   }
+  },
+  {
+   "id": "MY-H6383-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "23. Entiti pasaran modal yang dilesenkan, didaftarkan atau dikawal selia\n\noleh Suruhanjaya Sekuriti Malaysia"
+   }
+  },
+  {
+   "id": "MY-H6383-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "24. Perbandaran dan kerajaan tempatan"
+   }
+  },
+  {
+   "id": "MY-H6383-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "25. Pengurusan sisa pepejal dan pembetungan"
+   }
+  },
+  {
+   "id": "MY-H6383-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "26. Pembersihan awam"
+   }
+  },
+  {
+   "id": "MY-H6383-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 27"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "27. Pembersihan dan sanitasi premis"
+   }
+  },
+  {
+   "id": "MY-H6383-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 28"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "28. Komunikasi termasuk telekomunikasi dan internet, pos dan kurier,\n\ndan penyiaran"
+   }
+  },
+  {
+   "id": "MY-H6383-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Section 29"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "29. Teknologi maklumat termasuk perkhidmatan perniagaan global dan\n\npusat panggilan"
+   }
+  },
+  {
+   "id": "MY-H6383-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Section 30"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "30. E-dagang termasuk e-marketplace, pembayaran digital dan pusat\n\nperkhidmatan e-dagang setempat"
+   }
+  },
+  {
+   "id": "MY-H6383-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Section 31"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "31. Pembangunan kandungan kreatif"
+   }
+  },
+  {
+   "id": "MY-H6383-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Section 32"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "32. Pajak gadai dan syarikat peminjam wang berlesen"
+   }
+  },
+  {
+   "id": "MY-H6383-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Section 33"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "33. Hotel dan penginapan"
+   }
+  },
+  {
+   "id": "MY-H6383-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "Section 34"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "34. Pertanian, perikanan dan penternakan termasuk perkhidmatan veterinar"
+   }
+  },
+  {
+   "id": "MY-H6383-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "Section 35"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "35. Pengurusan ladang, sarang burung walit, ladang kuda, loji pemprosesan\n\nhaiwan, rumah sembelihan, ternakan, kilang makanan haiwan ternakan,\n\nkedai haiwan kesayangan"
+   }
+  },
+  {
+   "id": "MY-H6383-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "Section 36"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "36. Pengawalan penyakit dan pengawalseliaan pengeluaran ternakan hidup,\n\npengawalseliaan input ternakan dan keluaran berkaitan industri ternakan\n\ntermasuk eksport dan import"
+   }
+  },
+  {
+   "id": "MY-H6383-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "Section 37"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "37. Pengurusan kesihatan haiwan"
+   }
+  },
+  {
+   "id": "MY-H6383-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "Section 38"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "38. Utiliti termasuk perkhidmatan keselamatan bekalan, pembaikan,\n\npenyelenggaraan dan bacaan meter air dan tenaga"
+   }
+  },
+  {
+   "id": "MY-H6383-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "Section 39"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "39. Perkhidmatan profesional dalam bidang saintifik, penyelidikan dan\n\npembangunan, teknikal dan penyenggaraan termasuk akauntan, peguam,\n\nauditor, jurutera dan arkitek"
+   }
+  },
+  {
+   "id": "MY-H6383-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "Section 40"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "40. Kawalan keselamatan"
+   }
+  },
+  {
+   "id": "MY-H6383-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "Section 41"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "41. Pengangkutan melalui darat, air atau udara"
+   }
+  },
+  {
+   "id": "MY-H6383-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "Section 42"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "42. Perkhidmatan dan pengusahaan pelabuhan, limbungan dan lapangan\n\nterbang termasuk pemunggahan dan pemindahan kargo, pemaliman,\n\npenyimpanan atau pemukalan komoditi"
+   }
+  },
+  {
+   "id": "MY-H6383-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "Section 43"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "43. Perkhidmatan kehakiman dan perundangan\n\nPembinaan"
+   }
+  },
+  {
+   "id": "MY-H6383-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "Section 44"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "44. Kerja penyelenggaraan dan pembaikan kritikal"
+   }
+  },
+  {
+   "id": "MY-H6383-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "Section 45"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "45. Kerja pembinaan infrastruktur awam utama"
+   }
+  },
+  {
+   "id": "MY-H6383-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "Section 46"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "46. Kerja pembinaan bangunan yang menyediakan penginapan pekerja yang\n\nlengkap di tapak bina atau kuarters pekerja berpusat\n\nPerdagangan Pengedaran"
+   }
+  },
+  {
+   "id": "MY-H6383-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "Section 47"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "47. Penggudangan dan logistik"
+   }
+  },
+  {
+   "id": "MY-H6383-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "Section 48"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "48. Penjualan dan penghantaran makanan dan minuman"
+   }
+  },
+  {
+   "id": "MY-H6383-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "Section 49"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "49. Peruncitan, pengedaran dan pemborongan\n\nPerladangan dan Komoditi"
+   }
+  },
+  {
+   "id": "MY-H6383-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "Section 50"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "50. Pertanian, perikanan dan penternakan"
+   }
+  },
+  {
+   "id": "MY-H6383-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "Section 51"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "51. Perladangan dan komoditi\n\nLain-Lain"
+   }
+  },
+  {
+   "id": "MY-H6383-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "Section 52"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "52. Apa apa perkhidmatan, kerja, industri atau perniagaan sebagaimana yang\n\nditentukan oleh Menteri Kesihatan selepas berunding dengan pihak\n\nberkuasa yang mengawal selia perkhidmatan, kerja, industri dan\n\nperniagaan itu\".\n\nDibuat 11 Februari 2021\n\n[KKM.600-29/4/146 Jld.2 (30); PN(PU2)470/IV]\n\n DATO' SRI DR. ADHAM BIN BABA\n\n Menteri Kesihatan\n\nPREVENTION AND CONTROL OF INFECTIOUS DISEASES ACT 1988\n\nPREVENTION AND CONTROL OF INFECTIOUS DISEASES\n\n(MEASURES WITHIN INFECTED LOCAL AREAS) (MOVEMENT CONTROL) (NO. 2)\n\n(AMENDMENT) (NO. 6) REGULATIONS 2021\n\nIN exercise of the powers conferred by subsection 11(2) of the\n\nPrevention and Control of Infectious Diseases Act 1988 [Act 342], the Minister makes\n\nthe following regulations:\n\nCitation and commencement\n\n1. (1) These regulations may be cited as the Prevention and Control\n\nof Infectious Diseases (Measures within Infected Local Areas) (Movement Control)\n\n(No. 2) (Amendment) (No. 6) Regulations 2021.\n\n(2) Regulation 2 comes into operation on 15 February 2021.\n\n(3) Regulation 3 comes into operation on 12 February 2021.\n\nSubstitution of First Schedule\n\n2. The Prevention and Control of Infectious Diseases (Measures within\n\nInfected Local Areas) (Movement Control) (No. 2) Regulations 2021 [P.U. (A) 21/2021],\n\nwhich are referred to as the \"principal Regulations\" in these Regulations, are amended by\n\nsubstituting for the First Schedule the following schedule:\n\n\"FIRST SCHEDULE\n\nAPPLICATION\n\n[Regulation 2]\n\n(1)\n\nInfected Local Area/Division/District\n\n(2)\n\nPeriod\n\n1. State of Johore 5.2.2021 – 18.2.2021\n\n2. State of Kedah 5.2.2021 – 18.2.2021\n\n3. State of Kelantan 5.2.2021 – 18.2.2021\n\n4. State of Malacca 5.2.2021 – 18.2.2021\n\n5. State of Negeri Sembilan 5.2.2021 – 18.2.2021\n\n6. State of Pahang 5.2.2021 – 18.2.2021\n\n7. State of Penang 5.2.2021 – 18.2.2021\n\n8. State of Perak 5.2.2021 – 18.2.2021\n\n9. State of Perlis 5.2.2021 – 18.2.2021\n\n10. State of Sabah 5.2.2021 – 18.2.2021\n\n11. State of Selangor 5.2.2021 – 18.2.2021\n\n12. State of Terengganu 5.2.2021 – 18.2.2021\n\n13. Federal Territory of Kuala Lumpur 5.2.2021 – 18.2.2021\n\n14. Federal Territory of Putrajaya 5.2.2021 – 18.2.2021\n\n15. Federal Territory of Labuan 5.2.2021 – 18.2.2021\".\n\nSubstitution of Second Schedule\n\n3. The principal Regulations are amended by substituting for the Second Schedule\n\nthe following schedule:\n\n\"SECOND SCHEDULE\n\nESSENTIAL SERVICES\n\n[Regulation 3]\n\nManufacturing and Production\n\n1. Aerospace (component and maintenance, repair and overhaul (MRO))\n\n2. Automotive (vehicles and components)\n\n3. Food and beverages\n\n4. Packaging and printing\n\n5. Household and personal care goods, and cleaning materials\n\n6. Healthcare products and medical care including dietary supplement\n\n7. Personal protective equipment and fire safety equipment\n\n8. Components for medical devices\n\n9. Electrical and electronics goods\n\n10. Oil and gas\n\n11. Petrochemical products\n\n12. Chemical products\n\n13. Machines and equipment\n\n14. Ceramic mould for the production of hand gloves\n\n15. Iron and steel\n\n16. Textile\n\n17. Furniture\n\n18. Fuel and lubricants\n\nServices\n\n19. Automotive (maintenance and repair)\n\n20. Security and defence\n\n21. Financial\n\n22. Financial institutions including banking, insurance, takaful, bursa and\n\nother institutions licensed, approved or registered by Bank Negara\n\nMalaysia\n\n23. Capital market entities licensed, registered or regulated by the\n\nSecurities Commission Malaysia\n\n24. Municipal council and local government\n\n25. Solid waste management and sewerage\n\n26. Public cleansing\n\n27. Cleaning and sanitation of premises\n\n28. Communications including telecommunications and internet, postal and\n\ncourier, and broadcasting\n\n29. Information technology including global business services and call center\n\n30. E-commerce including e-marketplace, digital payment and local\n\ne-commerce services center\n\n31. Creative content development\n\n32. Pawnbroker and licensed moneylender companies\n\n33. Hotel and lodging\n\n34. Agricultural, fishery and husbandry including veterinary services\n\n35. Farm, swiftlet bird nest, horse farm, animal processing plant,\n\nslaughterhouse, livestock, livestock food factory, pet shop management\n\n36. Control of diseases and regulation of livestock production, regulation\n\nof livestock input and livestock industry related products including export\n\nand import\n\n37. Animal health management\n\n38. Utilities including safety of supply, improvement, maintenance and\n\nmeter reading of water and energy services\n\n39. Professional services in scientific, research and development, technical\n\nand maintenance field including accountant, lawyer, auditor, engineer\n\nand architect\n\n40. Security control\n\n41. Transportation by land, water or air\n\n42. Port, dock and airport services and undertakings including stevedoring\n\nand transferring of cargo, pilotage, storing or bulking commodity\n\n43. Judicial and legal services\n\nConstruction\n\n44. Critical maintenance and repair works\n\n45. Major public infrastructure construction works\n\n46. Building construction works that provide complete workers'\n\naccommodation on construction sites or centralized labour quarters\n\nDistribution Trading\n\n47. Warehousing and logistics\n\n48. Sales and delivery of food and beverages\n\n49. Retailing, distribution and wholesaling\n\nFarming and Commodity\n\n50. Agriculture, fisheries and husbandry\n\n51. Farming and commodity\n\nOthers\n\n52. Any service, work, industry or business as determined by the Minister of\n\nHealth after consulting the authority that regulates the service, work,\n\nindustry and business\".\n\nMade 11 February 2021\n\n[KKM.600-29/4/146 Jld.2 (30); PN(PU2)470/IV]\n\nDATO' SRI DR. ADHAM BIN BABA\n\nMinister of Health"
+   }
+  }
+ ]
+}

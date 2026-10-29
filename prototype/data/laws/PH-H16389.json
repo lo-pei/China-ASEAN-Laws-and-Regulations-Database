@@ -1,0 +1,62 @@
+{
+ "id": "PH-H16389",
+ "title": {
+  "zh": null,
+  "en": "An Act to Appropriate Funds for the Immediate Rehabilitation of the Philippine Tuberculosis Society, Including the Quezon Institute, and of Other Agencies Engaged in the Fight Against and the Control of Tubercolosis.",
+  "orig": "An Act to Appropriate Funds for the Immediate Rehabilitation of the Philippine Tuberculosis Society, Including the Quezon Institute, and of Other Agencies Engaged in the Fight Against and the Control of Tubercolosis."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1945-09-24",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 681",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 569,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00681_1945_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00681_1945_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H16389-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "There is hereby appropriated, out of any funds in the National Treasury not otherwise\nappropriated, the sum of one million pesos which shall be given as aid for the immediate rehabilitation of the\nPhilippine Tubercolosis Society, including the Quezon Institute as well as of other agencies engaged in the\nfight against and the control of tubercolosis: Provided, That the amount of eight hundred thousand pesos shall\nbe set aside for the Philippine Tubercolosis Society and the Quezon Institute."
+   }
+  },
+  {
+   "id": "PH-H16389-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, September 24, 1945."
+   }
+  }
+ ]
+}

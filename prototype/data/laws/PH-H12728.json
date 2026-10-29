@@ -1,0 +1,62 @@
+{
+ "id": "PH-H12728",
+ "title": {
+  "zh": null,
+  "en": "An Act Appropriating the Sum of Twelve thousand three Hundred and Ninety-One Pesos and Seventy-three Centavos, Out of Any Funds in the Insular Treasury Not Otherwise Appropriated, to Reimburse the Appropriation of the Executive Bureau for Expenses Incident to the VIsit of the Secretary of War to the Philippine Islands During the Year Nineteen Hundred and Ten.",
+  "orig": "An Act Appropriating the Sum of Twelve thousand three Hundred and Ninety-One Pesos and Seventy-three Centavos, Out of Any Funds in the Insular Treasury Not Otherwise Appropriated, to Reimburse the Appropriation of the Executive Bureau for Expenses Incident to the VIsit of the Secretary of War to the Philippine Islands During the Year Nineteen Hundred and Ten."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1911-01-26",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2020",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 478,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1911/act_2020_1911.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02020_1911_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02020_1911_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12728-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The sum of twelve thousand three hundred and ninety-one pesos and seventy-three centavos is\nhereby appropriated, out of any funds in the Insular Treasury not otherwise appropriated, to reimburse the\nappropriation of the Executive Bureau for expenditures made by that Bureau incident to the visit of the\nSecretary of War to the Philippine Islands during July, August, and September of the year nineteen hundred"
+   }
+  },
+  {
+   "id": "PH-H12728-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, January 26, 1911."
+   }
+  }
+ ]
+}

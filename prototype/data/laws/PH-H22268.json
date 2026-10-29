@@ -1,0 +1,72 @@
+{
+ "id": "PH-H22268",
+ "title": {
+  "zh": null,
+  "en": "Dividing Region No. 4 of the Administrative Field Organization of the Various Departments and Agencies of the Government Into Region No.",
+  "orig": "Dividing Region No. 4 of the Administrative Field Organization of the Various Departments and Agencies of the Government Into Region No."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1976-01-23",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 879",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1010,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_00879_1976_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_00879_1976_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22268-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Any provision of law to the contrary notwithstanding, Region No. 4 is hereby divided into two\nregions to be known as Region No. 4 and Region No. 4-A.\nRegion No. 4 shall comprise the Metropolitan Manila area as contemplated in Presidential Decree No. 824,\nwith the regional center either in Manila or Quezon City.\nRegion No. 4-A shall comprise the towns of Rizal not included in Metropolitan Manila and the provinces of\nCavite, Laguna, Batangas, Quezon, Aurora (sub-province), Marinduque, Oriental Mindoro, Occidental\nMindoro, Romblon and Palawan, and the cities of Batangas, Cavite, Lipa, Lucena, San Pablo, Tagaytay, Trece\nMartires and Puerto Princesa. Until otherwise decreed, the regional center for Region No. 4-A shall be in\nMetropolitan Manila."
+   }
+  },
+  {
+   "id": "PH-H22268-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "All laws, decrees, order or regulations inconsistent herewith are hereby amended or repealed\naccordingly."
+   }
+  },
+  {
+   "id": "PH-H22268-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Decree shall take effect immediately.\nDone in the City of Manila, this 23rd day of January, in the year of Our Lord, nineteen hundred and\nseventy-six."
+   }
+  }
+ ]
+}

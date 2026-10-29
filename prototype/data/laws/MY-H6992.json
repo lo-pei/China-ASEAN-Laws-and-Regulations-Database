@@ -1,0 +1,830 @@
+{
+ "id": "MY-H6992",
+ "title": {
+  "zh": null,
+  "en": "FEDERAL ROADS (PRIVATE MANAGEMENT) (COLLECTION OF TOLLS) (JURU-JALAN DUTA-BUKIT RAJA EXPRESSWAY, NORTH SOUTH EXPRESSWAY CENTRAL LINK AND KUALA LUMPUR-JOHORE BAH",
+  "orig": "FEDERAL ROADS (PRIVATE MANAGEMENT) (COLLECTION OF TOLLS) (JURU-JALAN DUTA-BUKIT RAJA EXPRESSWAY, NORTH SOUTH EXPRESSWAY CENTRAL LINK AND KUALA LUMPUR-JOHORE BAH"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-16",
+ "language": "en",
+ "level": "law",
+ "category": "05_其他及未分类",
+ "status": "active",
+ "promulgatedDate": "2018",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "PUA95",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 66,
+ "chars": 34491,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-view.php?type=pua&no=P.U. (A) 95/2018&status=AMENDMENT"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\05_其他及未分类\\2018_P.U.(A)95-2018_FEDERAL ROADS (PRIVATE MANAGEMENT) (COLLECTION OF TOLLS) (JURU-JALAN DUTA-BUKIT RAJA EXPRESSWAY.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 66 条；逐字未改写（源自厂商 OCR 文本）。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H6992-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "1. Juru 51.80 77.60 103.50 25.90 38.80"
+   }
+  },
+  {
+   "id": "MY-H6992-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "2. Bukit Tambun 50.90 76.30 101.80 25.40 38.20"
+   }
+  },
+  {
+   "id": "MY-H6992-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "3. Bandar Cassia 50.40 75.50 100.70 25.20 37.80"
+   }
+  },
+  {
+   "id": "MY-H6992-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "4. Jawi 49.30 73.90 98.50 24.60 36.90"
+   }
+  },
+  {
+   "id": "MY-H6992-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "5. Bandar Baharu 47.40 71.10 94.80 23.70 35.60"
+   }
+  },
+  {
+   "id": "MY-H6992-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "6. Alor Pongsu 46.80 70.20 93.60 23.40 35.10"
+   }
+  },
+  {
+   "id": "MY-H6992-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "7. Bukit Merah 45.10 67.50 90.10 22.50 33.80"
+   }
+  },
+  {
+   "id": "MY-H6992-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "8. Taiping Utara 43.60 65.30 87.10 21.80 32.70"
+   }
+  },
+  {
+   "id": "MY-H6992-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "9. Changkat Jering 41.40 62.10 82.80 20.70 31.10"
+   }
+  },
+  {
+   "id": "MY-H6992-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "10. Kuala Kangsar 38.50 57.70 77.00 19.20 28.90"
+   }
+  },
+  {
+   "id": "MY-H6992-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "11. Ipoh Selatan 35.00 52.50 69.90 17.50 26.20"
+   }
+  },
+  {
+   "id": "MY-H6992-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "12. Simpang Pulai 33.40 50.00 66.70 16.70 25.00"
+   }
+  },
+  {
+   "id": "MY-H6992-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "13. Gopeng 32.00 48.00 64.00 16.00 24.00"
+   }
+  },
+  {
+   "id": "MY-H6992-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "14. Tapah 27.90 41.90 55.80 14.00 20.90"
+   }
+  },
+  {
+   "id": "MY-H6992-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "15. Bidor 26.10 39.20 52.30 13.10 19.60"
+   }
+  },
+  {
+   "id": "MY-H6992-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "16. Sungkai 24.20 36.30 48.50 12.10 18.20"
+   }
+  },
+  {
+   "id": "MY-H6992-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "17. Slim River 21.70 32.50 43.30 10.80 16.20"
+   }
+  },
+  {
+   "id": "MY-H6992-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "18. Behrang 19.60 29.30 39.10 9.80 14.70"
+   }
+  },
+  {
+   "id": "MY-H6992-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "19. Tanjong Malim 18.00 27.00 36.00 9.00 13.50"
+   }
+  },
+  {
+   "id": "MY-H6992-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "20. Lembah Beringin 16.70 25.00 33.40 8.30 12.50"
+   }
+  },
+  {
+   "id": "MY-H6992-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "21. Bukit Tagar 15.80 23.70 31.60 7.90 11.90"
+   }
+  },
+  {
+   "id": "MY-H6992-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "22. Bukit Beruntung 14.20 21.30 28.30 7.10 10.60"
+   }
+  },
+  {
+   "id": "MY-H6992-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "23. Sungai Buaya 13.40 20.00 26.70 6.70 10.00"
+   }
+  },
+  {
+   "id": "MY-H6992-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "24. Rawang 12.20 18.30 24.40 6.10 9.20"
+   }
+  },
+  {
+   "id": "MY-H6992-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "25. Rawang Selatan 11.50 17.20 22.90 5.70 8.60"
+   }
+  },
+  {
+   "id": "MY-H6992-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "26. Sungai Buloh Utara 10.80 16.20 21.50 5.40 8.10"
+   }
+  },
+  {
+   "id": "MY-H6992-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 27"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "27. Sungai Buloh 10.40 15.60 20.90 5.20 7.80"
+   }
+  },
+  {
+   "id": "MY-H6992-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 28"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "28. Jalan Duta 11.10 16.70 22.20 5.60 8.30"
+   }
+  },
+  {
+   "id": "MY-H6992-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Section 29"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "29. Kota Damansara 9.70 14.50 19.40 4.80 7.30"
+   }
+  },
+  {
+   "id": "MY-H6992-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Section 30"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "30. Damansara 9.40 14.10 18.80 4.70 7.10"
+   }
+  },
+  {
+   "id": "MY-H6992-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Section 31"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "31. Subang 8.90 13.30 17.70 4.40 6.70"
+   }
+  },
+  {
+   "id": "MY-H6992-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Section 32"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "32. Setia Alam 9.40 14.10 18.80 4.70 7.10"
+   }
+  },
+  {
+   "id": "MY-H6992-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Section 33"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "33. Bukit Raja 9.50 14.30 19.10 4.80 7.20"
+   }
+  },
+  {
+   "id": "MY-H6992-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "Section 34"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "34. Shah Alam 8.30 12.40 16.60 4.10 6.20"
+   }
+  },
+  {
+   "id": "MY-H6992-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "Section 35"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "35. Ebor 7.50 11.30 15.10 3.80 5.60"
+   }
+  },
+  {
+   "id": "MY-H6992-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "Section 36"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "36. Seafield 7.50 11.20 15.00 3.70 5.60"
+   }
+  },
+  {
+   "id": "MY-H6992-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "Section 37"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "37. USJ 6.90 10.40 13.90 3.50 5.20\n\n(1)\n\nPlaza Tol Keluar\n\n(2)\n\nTol Kena Dibayar (RM) Mengikut Kelas Kenderaan\n\nKelas 1 Kelas 2 Kelas 3 Kelas 4 Kelas 5"
+   }
+  },
+  {
+   "id": "MY-H6992-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "Section 38"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "38. Putra Heights 6.40 9.60 12.80 3.20 4.80"
+   }
+  },
+  {
+   "id": "MY-H6992-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "Section 39"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "39. Bandar Saujana Putra 5.80 8.80 11.70 2.90 4.40"
+   }
+  },
+  {
+   "id": "MY-H6992-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "Section 40"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "40. Putrajaya 6.30 9.40 12.60 3.10 4.70"
+   }
+  },
+  {
+   "id": "MY-H6992-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "Section 41"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "41. KLIA 4.80 7.00 9.10 2.70 3.70"
+   }
+  },
+  {
+   "id": "MY-H6992-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "Section 42"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "42. Sungai Besi 2.90 4.40 5.90 1.50 2.20"
+   }
+  },
+  {
+   "id": "MY-H6992-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "Section 43"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "43. UPM 1.50 2.20 3.00 0.70 1.10"
+   }
+  },
+  {
+   "id": "MY-H6992-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "Section 44"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "44. Kajang 1.20 1.80 2.40 0.60 0.90"
+   }
+  },
+  {
+   "id": "MY-H6992-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "Section 45"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "45. Bangi 0.40 0.60 0.80 0.20 0.30"
+   }
+  },
+  {
+   "id": "MY-H6992-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "Section 46"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "46. Putra Mahkota 0.90 1.30 1.80 0.40 0.70"
+   }
+  },
+  {
+   "id": "MY-H6992-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "Section 47"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "47. Nilai 1.80 2.70 3.50 0.90 1.30"
+   }
+  },
+  {
+   "id": "MY-H6992-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "Section 48"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "48. Bandar Ainsdale 3.80 5.70 7.60 1.90 2.90"
+   }
+  },
+  {
+   "id": "MY-H6992-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "Section 49"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "49. Seremban 4.20 6.30 8.40 2.10 3.20"
+   }
+  },
+  {
+   "id": "MY-H6992-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "Section 50"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "50. Port Dickson 4.70 7.00 9.40 2.30 3.50"
+   }
+  },
+  {
+   "id": "MY-H6992-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "Section 51"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "51. Senawang 5.20 7.90 10.50 2.60 3.90"
+   }
+  },
+  {
+   "id": "MY-H6992-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "Section 52"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "52. Pedas Linggi 7.40 11.10 14.80 3.70 5.60"
+   }
+  },
+  {
+   "id": "MY-H6992-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "Section 53"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "53. Simpang Ampat 10.50 15.80 21.10 5.30 7.90"
+   }
+  },
+  {
+   "id": "MY-H6992-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "Section 54"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "54. Ayer Keroh 13.50 20.20 26.90 6.70 10.10"
+   }
+  },
+  {
+   "id": "MY-H6992-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "Section 55"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "55. Jasin 15.70 23.60 31.40 7.90 11.80"
+   }
+  },
+  {
+   "id": "MY-H6992-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "Section 56"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "56. Tangkak 17.10 25.60 34.10 8.50 12.80"
+   }
+  },
+  {
+   "id": "MY-H6992-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "Section 57"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "57. Bukit Gambir 18.80 28.10 37.50 9.40 14.10"
+   }
+  },
+  {
+   "id": "MY-H6992-A58",
+   "no": 58,
+   "noLabel": {
+    "en": "Section 58"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "58. Pagoh 20.90 31.30 41.70 10.40 15.70"
+   }
+  },
+  {
+   "id": "MY-H6992-A59",
+   "no": 59,
+   "noLabel": {
+    "en": "Section 59"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "59. Yong Peng Utara 26.70 40.10 53.40 13.40 20.00"
+   }
+  },
+  {
+   "id": "MY-H6992-A60",
+   "no": 60,
+   "noLabel": {
+    "en": "Section 60"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "60. Air Hitam 29.30 43.90 58.60 14.70 22.00"
+   }
+  },
+  {
+   "id": "MY-H6992-A61",
+   "no": 61,
+   "noLabel": {
+    "en": "Section 61"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "61. Machap 30.30 45.50 60.60 15.20 22.70"
+   }
+  },
+  {
+   "id": "MY-H6992-A62",
+   "no": 62,
+   "noLabel": {
+    "en": "Section 62"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "62. Simpang Renggam 32.20 48.30 64.40 16.10 24.20"
+   }
+  },
+  {
+   "id": "MY-H6992-A63",
+   "no": 63,
+   "noLabel": {
+    "en": "Section 63"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "63. Sedenak 34.80 52.20 69.60 17.40 26.10"
+   }
+  },
+  {
+   "id": "MY-H6992-A64",
+   "no": 64,
+   "noLabel": {
+    "en": "Section 64"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "64. Kulai 36.60 54.80 73.10 18.30 27.40"
+   }
+  },
+  {
+   "id": "MY-H6992-A65",
+   "no": 65,
+   "noLabel": {
+    "en": "Section 65"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "65. Senai Utara 37.80 56.70 75.60 18.90 28.40"
+   }
+  },
+  {
+   "id": "MY-H6992-A66",
+   "no": 66,
+   "noLabel": {
+    "en": "Section 66"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "66. Skudai 38.20 57.30 76.40 19.10 28.70\n\nPlaza Tol Keluar: Southville City\n\n(1)\n\nPlaza Tol Masuk\n\n(2)\n\nTol Kena Dibayar (RM) Mengikut Kelas Kenderaan\n\nKelas 1 Kelas 2 Kelas 3 Kelas 4 Kelas 5\n\n1. Juru 51.80 77.60 103.50 25.90 38.80\n\n2. Bukit Tambun 50.90 76.30 101.80 25.40 38.20\n\n3. Bandar Cassia 50.40 75.50 100.70 25.20 37.80\n\n4. Jawi 49.30 73.90 98.50 24.60 36.90\n\n5. Bandar Baharu 47.40 71.10 94.80 23.70 35.60\n\n6. Alor Pongsu 46.80 70.20 93.60 23.40 35.10\n\n7. Bukit Merah 45.10 67.50 90.10 22.50 33.80\n\n8. Taiping Utara 43.60 65.30 87.10 21.80 32.70\n\n9. Changkat Jering 41.40 62.10 82.80 20.70 31.10\n\n10. Kuala Kangsar 38.50 57.70 77.00 19.20 28.90\n\n(1)\n\nPlaza Tol Masuk\n\n(2)\n\nTol Kena Dibayar (RM) Mengikut Kelas Kenderaan\n\nKelas 1 Kelas 2 Kelas 3 Kelas 4 Kelas 5\n\n11. Ipoh Selatan 35.00 52.50 69.90 17.50 26.20\n\n12. Simpang Pulai 33.40 50.00 66.70 16.70 25.00\n\n13. Gopeng 32.00 48.00 64.00 16.00 24.00\n\n14. Tapah 27.90 41.90 55.80 14.00 20.90\n\n15. Bidor 26.10 39.20 52.30 13.10 19.60\n\n16. Sungkai 24.20 36.30 48.50 12.10 18.20\n\n17. Slim River 21.70 32.50 43.30 10.80 16.20\n\n18. Behrang 19.60 29.30 39.10 9.80 14.70\n\n19. Tanjong Malim 18.00 27.00 36.00 9.00 13.50\n\n20. Lembah Beringin 16.70 25.00 33.40 8.30 12.50\n\n21. Bukit Tagar 15.80 23.70 31.60 7.90 11.90\n\n22. Bukit Beruntung 14.20 21.30 28.30 7.10 10.60\n\n23. Sungai Buaya 13.40 20.00 26.70 6.70 10.00\n\n24. Rawang 12.20 18.30 24.40 6.10 9.20\n\n25. Rawang Selatan 11.50 17.20 22.90 5.70 8.60\n\n26. Sungai Buloh Utara 10.80 16.20 21.50 5.40 8.10\n\n27. Sungai Buloh 10.40 15.60 20.90 5.20 7.80\n\n28. Jalan Duta 11.10 16.70 22.20 5.60 8.30\n\n29. Kota Damansara 9.70 14.50 19.40 4.80 7.30\n\n30. Damansara 9.40 14.10 18.80 4.70 7.10\n\n31. Subang 8.90 13.30 17.70 4.40 6.70\n\n32. Setia Alam 9.40 14.10 18.80 4.70 7.10\n\n33. Bukit Raja 9.50 14.30 19.10 4.80 7.20\n\n34. Shah Alam 8.30 12.40 16.60 4.10 6.20\n\n35. Ebor 7.50 11.30 15.10 3.80 5.60\n\n36. Seafield 7.50 11.20 15.00 3.70 5.60\n\n37. USJ 6.90 10.40 13.90 3.50 5.20\n\n38. Putra Heights 6.40 9.60 12.80 3.20 4.80\n\n39. Bandar Saujana Putra 5.80 8.80 11.70 2.90 4.40\n\n40. Putrajaya 6.30 9.40 12.60 3.10 4.70\n\n41. KLIA 4.80 7.00 9.10 2.70 3.70\n\n42. Sungai Besi 2.90 4.40 5.90 1.50 2.20\n\n43. UPM 1.50 2.20 3.00 0.70 1.10\n\n44. Kajang 1.20 1.80 2.40 0.60 0.90\n\n45. Bangi 0.40 0.60 0.80 0.20 0.30\n\n46. Putra Mahkota 0.90 1.30 1.80 0.40 0.70\n\n47. Nilai 1.80 2.70 3.50 0.90 1.30\n\n48. Bandar Ainsdale 3.80 5.70 7.60 1.90 2.90\n\n49. Seremban 4.20 6.30 8.40 2.10 3.20\n\n50. Port Dickson 4.70 7.00 9.40 2.30 3.50\n\n51. Senawang 5.20 7.90 10.50 2.60 3.90\n\n52. Pedas Linggi 7.40 11.10 14.80 3.70 5.60\n\n53. Simpang Ampat 10.50 15.80 21.10 5.30 7.90\n\n54. Ayer Keroh 13.50 20.20 26.90 6.70 10.10\n\n55. Jasin 15.70 23.60 31.40 7.90 11.80\n\n56. Tangkak 17.10 25.60 34.10 8.50 12.80\n\n(1)\n\nPlaza Tol Masuk\n\n(2)\n\nTol Kena Dibayar (RM) Mengikut Kelas Kenderaan\n\nKelas 1 Kelas 2 Kelas 3 Kelas 4 Kelas 5\n\n57. Bukit Gambir 18.80 28.10 37.50 9.40 14.10\n\n58. Pagoh 20.90 31.30 41.70 10.40 15.70\n\n59. Yong Peng Utara 26.70 40.10 53.40 13.40 20.00\n\n60. Air Hitam 29.30 43.90 58.60 14.70 22.00\n\n61. Machap 30.30 45.50 60.60 15.20 22.70\n\n62. Simpang Renggam 32.20 48.30 64.40 16.10 24.20\n\n63. Sedenak 34.80 52.20 69.60 17.40 26.10\n\n64. Kulai 36.60 54.80 73.10 18.30 27.40\n\n65. Senai Utara 37.80 56.70 75.60 18.90 28.40\n\n66. Skudai 38.20 57.30 76.40 19.10 28.70\n\nBAHAGIAN B\n\nKADAR TOL BAGI TEMPOH DARI 1 JUN 2018 HINGGA 31 DISEMBER 2018\n\nBAGI PERSIMPANGAN BERTINGKAT SOUTHVILLE CITY\n\nPlaza Tol Masuk: Southville City\n\n(1)\n\nPlaza Tol Keluar\n\n(2)\n\nTol Kena Dibayar (RM) Mengikut Kelas Kenderaan\n\nKelas 1 Kelas 2 Kelas 3 Kelas 4 Kelas 5\n\n1. Juru 51.80 77.60 103.50 25.90 38.80\n\n2. Bukit Tambun 50.90 76.30 101.80 25.40 38.20\n\n3. Bandar Cassia 50.40 75.50 100.70 25.20 37.80\n\n4. Jawi 49.30 73.90 98.50 24.60 36.90\n\n5. Bandar Baharu 47.40 71.10 94.80 23.70 35.60\n\n6. Alor Pongsu 46.80 70.20 93.60 23.40 35.10\n\n7. Bukit Merah 45.10 67.50 90.10 22.50 33.80\n\n8. Taiping Utara 43.60 65.30 87.10 21.80 32.70\n\n9. Changkat Jering 41.40 62.10 82.80 20.70 31.10\n\n10. Kuala Kangsar 38.50 57.70 77.00 19.20 28.90\n\n11. Ipoh Selatan 35.00 52.50 69.90 17.50 26.20\n\n12. Simpang Pulai 33.40 50.00 66.70 16.70 25.00\n\n13. Gopeng 32.00 48.00 64.00 16.00 24.00\n\n14. Tapah 27.90 41.90 55.80 14.00 20.90\n\n15. Bidor 26.10 39.20 52.30 13.10 19.60\n\n16. Sungkai 24.20 36.30 48.50 12.10 18.20\n\n17. Slim River 21.70 32.50 43.30 10.80 16.20\n\n18. Behrang 19.60 29.30 39.10 9.80 14.70\n\n19. Tanjong Malim 18.00 27.00 36.00 9.00 13.50\n\n20. Lembah Beringin 16.70 25.00 33.40 8.30 12.50\n\n21. Bukit Tagar 15.80 23.70 31.60 7.90 11.90\n\n22. Bukit Beruntung 14.20 21.30 28.30 7.10 10.60\n\n23. Sungai Buaya 13.40 20.00 26.70 6.70 10.00\n\n(1)\n\nPlaza Tol Keluar\n\n(2)\n\nTol Kena Dibayar (RM) Mengikut Kelas Kenderaan\n\nKelas 1 Kelas 2 Kelas 3 Kelas 4 Kelas 5\n\n24. Rawang 12.20 18.30 24.40 6.10 9.20\n\n25. Rawang Selatan 11.50 17.20 22.90 5.70 8.60\n\n26. Sungai Buloh Utara 10.80 16.20 21.50 5.40 8.10\n\n27. Sungai Buloh 10.40 15.60 20.90 5.20 7.80\n\n28. Jalan Duta 11.10 16.70 22.20 5.60 8.30\n\n29. Kota Damansara 9.70 14.50 19.40 4.80 7.30\n\n30. Damansara 9.40 14.10 18.80 4.70 7.10\n\n31. Subang 8.90 13.30 17.70 4.40 6.70\n\n32. Setia Alam 9.40 14.10 18.80 4.70 7.10\n\n33. Bukit Raja 9.50 14.30 19.10 4.80 7.20\n\n34. Shah Alam 8.30 12.40 16.60 4.10 6.20\n\n35. Ebor 7.50 11.30 15.10 3.80 5.60\n\n36. Seafield 7.50 11.20 15.00 3.70 5.60\n\n37. USJ 6.90 10.40 13.90 3.50 5.20\n\n38. Putra Heights 6.40 9.60 12.80 3.20 4.80\n\n39. Bandar Saujana Putra 5.80 8.80 11.70 2.90 4.40\n\n40. Putrajaya 6.30 9.40 12.60 3.10 4.70\n\n41. KLIA 4.80 7.00 9.10 2.70 3.70\n\n42. Sungai Besi 2.10 3.20 4.20 1.10 1.60\n\n43. UPM 1.50 2.20 3.00 0.70 1.10\n\n44. Kajang 1.20 1.80 2.40 0.60 0.90\n\n45. Bangi 0.40 0.60 0.80 0.20 0.30\n\n46. Putra Mahkota 0.90 1.30 1.80 0.40 0.70\n\n47. Nilai 1.80 2.70 3.50 0.90 1.30\n\n48. Bandar Ainsdale 3.80 5.70 7.60 1.90 2.90\n\n49. Seremban 4.20 6.30 8.40 2.10 3.20\n\n50. Port Dickson 4.70 7.00 9.40 2.30 3.50\n\n51. Senawang 5.20 7.90 10.50 2.60 3.90\n\n52. Pedas Linggi 7.40 11.10 14.80 3.70 5.60\n\n53. Simpang Ampat 10.50 15.80 21.10 5.30 7.90\n\n54. Ayer Keroh 13.50 20.20 26.90 6.70 10.10\n\n55. Jasin 15.70 23.60 31.40 7.90 11.80\n\n56. Tangkak 17.10 25.60 34.10 8.50 12.80\n\n57. Bukit Gambir 18.80 28.10 37.50 9.40 14.10\n\n58. Pagoh 20.90 31.30 41.70 10.40 15.70\n\n59. Yong Peng Utara 26.70 40.10 53.40 13.40 20.00\n\n60. Air Hitam 29.30 43.90 58.60 14.70 22.00\n\n61. Machap 30.30 45.50 60.60 15.20 22.70\n\n62. Simpang Renggam 32.20 48.30 64.40 16.10 24.20\n\n63. Sedenak 34.80 52.20 69.60 17.40 26.10\n\n64. Kulai 36.60 54.80 73.10 18.30 27.40\n\n65. Senai Utara 37.80 56.70 75.60 18.90 28.40\n\n66. Skudai 38.20 57.30 76.40 19.10 28.70\n\nPlaza Tol Keluar: Southville City\n\n(1)\n\nPlaza Tol Masuk\n\n(2)\n\nTol Kena Dibayar (RM) Mengikut Kelas Kenderaan\n\nKelas 1 Kelas 2 Kelas 3 Kelas 4 Kelas 5\n\n1. Juru 51.80 77.60 103.50 25.90 38.80\n\n2. Bukit Tambun 50.90 76.30 101.80 25.40 38.20\n\n3. Bandar Cassia 50.40 75.50 100.70 25.20 37.80\n\n4. Jawi 49.30 73.90 98.50 24.60 36.90\n\n5. Bandar Baharu 47.40 71.10 94.80 23.70 35.60\n\n6. Alor Pongsu 46.80 70.20 93.60 23.40 35.10\n\n7. Bukit Merah 45.10 67.50 90.10 22.50 33.80\n\n8. Taiping Utara 43.60 65.30 87.10 21.80 32.70\n\n9. Changkat Jering 41.40 62.10 82.80 20.70 31.10\n\n10. Kuala Kangsar 38.50 57.70 77.00 19.20 28.90\n\n11. Ipoh Selatan 35.00 52.50 69.90 17.50 26.20\n\n12. Simpang Pulai 33.40 50.00 66.70 16.70 25.00\n\n13. Gopeng 32.00 48.00 64.00 16.00 24.00\n\n14. Tapah 27.90 41.90 55.80 14.00 20.90\n\n15. Bidor 26.10 39.20 52.30 13.10 19.60\n\n16. Sungkai 24.20 36.30 48.50 12.10 18.20\n\n17. Slim River 21.70 32.50 43.30 10.80 16.20\n\n18. Behrang 19.60 29.30 39.10 9.80 14.70\n\n19. Tanjong Malim 18.00 27.00 36.00 9.00 13.50\n\n20. Lembah Beringin 16.70 25.00 33.40 8.30 12.50\n\n21. Bukit Tagar 15.80 23.70 31.60 7.90 11.90\n\n22. Bukit Beruntung 14.20 21.30 28.30 7.10 10.60\n\n23. Sungai Buaya 13.40 20.00 26.70 6.70 10.00\n\n24. Rawang 12.20 18.30 24.40 6.10 9.20\n\n25. Rawang Selatan 11.50 17.20 22.90 5.70 8.60\n\n26. Sungai Buloh Utara 10.80 16.20 21.50 5.40 8.10\n\n27. Sungai Buloh 10.40 15.60 20.90 5.20 7.80\n\n28. Jalan Duta 11.10 16.70 22.20 5.60 8.30\n\n29. Kota Damansara 9.70 14.50 19.40 4.80 7.30\n\n30. Damansara 9.40 14.10 18.80 4.70 7.10\n\n31. Subang 8.90 13.30 17.70 4.40 6.70\n\n32. Setia Alam 9.40 14.10 18.80 4.70 7.10\n\n33. Bukit Raja 9.50 14.30 19.10 4.80 7.20\n\n34. Shah Alam 8.30 12.40 16.60 4.10 6.20\n\n35. Ebor 7.50 11.30 15.10 3.80 5.60\n\n36. Seafield 7.50 11.20 15.00 3.70 5.60\n\n37. USJ 6.90 10.40 13.90 3.50 5.20\n\n38. Putra Heights 6.40 9.60 12.80 3.20 4.80\n\n39. Bandar Saujana Putra 5.80 8.80 11.70 2.90 4.40\n\n40. Putrajaya 6.30 9.40 12.60 3.10 4.70\n\n41. KLIA 4.80 7.00 9.10 2.70 3.70\n\n42. Sungai Besi 2.10 3.20 4.20 1.10 1.60\n\n43. UPM 1.50 2.20 3.00 0.70 1.10\n\n44. Kajang 1.20 1.80 2.40 0.60 0.90\n\n45. Bangi 0.40 0.60 0.80 0.20 0.30\n\n(1)\n\nPlaza Tol Masuk\n\n(2)\n\nTol Kena Dibayar (RM) Mengikut Kelas Kenderaan\n\nKelas 1 Kelas 2 Kelas 3 Kelas 4 Kelas 5\n\n46. Putra Mahkota 0.90 1.30 1.80 0.40 0.70\n\n47. Nilai 1.80 2.70 3.50 0.90 1.30\n\n48. Bandar Ainsdale 3.80 5.70 7.60 1.90 2.90\n\n49. Seremban 4.20 6.30 8.40 2.10 3.20\n\n50. Port Dickson 4.70 7.00 9.40 2.30 3.50\n\n51. Senawang 5.20 7.90 10.50 2.60 3.90\n\n52. Pedas Linggi 7.40 11.10 14.80 3.70 5.60\n\n53. Simpang Ampat 10.50 15.80 21.10 5.30 7.90\n\n54. Ayer Keroh 13.50 20.20 26.90 6.70 10.10\n\n55. Jasin 15.70 23.60 31.40 7.90 11.80\n\n56. Tangkak 17.10 25.60 34.10 8.50 12.80\n\n57. Bukit Gambir 18.80 28.10 37.50 9.40 14.10\n\n58. Pagoh 20.90 31.30 41.70 10.40 15.70\n\n59. Yong Peng Utara 26.70 40.10 53.40 13.40 20.00\n\n60. Air Hitam 29.30 43.90 58.60 14.70 22.00\n\n61. Machap 30.30 45.50 60.60 15.20 22.70\n\n62. Simpang Renggam 32.20 48.30 64.40 16.10 24.20\n\n63. Sedenak 34.80 52.20 69.60 17.40 26.10\n\n64. Kulai 36.60 54.80 73.10 18.30 27.40\n\n65. Senai Utara 37.80 56.70 75.60 18.90 28.40\n\n66. Skudai 38.20 57.30 76.40 19.10 28.70\n\nKELAS KENDERAAN\n\nKelas 1: Kenderaan yang mempunyai dua gandar dan tiga atau empat roda\n\n(kecuali teksi dan bas)\n\nKelas 2: Kenderaan yang mempunyai dua gandar dan lima atau enam roda\n\n(kecuali bas)\n\nKelas 3: Kenderaan yang mempunyai tiga gandar atau lebih (kecuali bas)\n\nKelas 4: Teksi\n\nKelas 5: Bas\n\nBagi maksud mengira bilangan gandar dan roda sesebuah kenderaan, gandar dan\n\nroda mana-mana treler yang ditarik oleh kenderaan itu hendaklah dikira sebagai\n\nsebahagian daripada gandar dan roda kenderaan itu.\".\n\nPenggantian Jadual Ketiga Belas\n\n4. Perintah ibu dipinda dengan menggantikan Jadual Ketiga Belas dengan\n\nJadual yang berikut:\n\n\"JADUAL KETIGA BELAS\n\nPETA LEBUH RAYA JURU-JALAN DUTA-BUKIT RAJA, LEBUH RAYA\n\nUTARA SELATAN HUBUNGAN TENGAH DAN LEBUH RAYA\n\nKUALA LUMPUR-JOHOR BAHRU\n\n\" .\n\nU\n\nTERENGGANU\n\nP. RAWA\n\nP. TI0MAN\n\nPAHANG\n\nNEGERI SEMBILAN\n\nKELANTAN\n\nPULAU\n\nPINANG\n\nKEDAH\n\nKUALA\n\nLUMPUR\n\nJOHOR MELAKA\n\nSELAT MELAKA\n\nPLAZA TOL MASUK/KELUAR\n\nBUKIT TAMBUN\n\nPLAZA TOL MASUK/KELUAR\n\nBUKIT MERAH\n\nPLAZA TOL MASUK/KELUAR\n\nJURU\n\nPLAZA TOL MASUK/KELUAR\n\nJAWI\n\nPLAZA TOL MASUK/KELUAR\n\nBANDAR BAHARU\n\nPLAZA TOL KELUAR\n\nIPOH UTARA\n\nPLAZA TOL MASUK/KELUAR\n\nSIMPANG PULAI\n\nPLAZA TOL MASUK/KELUAR\n\nTAIPING UTARA\n\nPLAZA TOL MASUK/KELUAR\n\nGOPENG\n\nPLAZA TOL MASUK/KELUAR\n\nTAPAH\n\nPLAZA TOL MASUK/KELUAR\n\nBIDOR\n\nPLAZA TOL MASUK/KELUAR\n\nSUNGKAI\n\nPLAZA TOL MASUK/KELUAR\n\nSLIM RIVER\n\nPLAZA TOL MASUK/KELUAR\n\nBEHRANG\n\nPLAZA TOL MASUK/KELUAR\n\nTANJUNG MALIM\n\nPLAZA TOL MASUK/KELUAR\n\nLEMBAH BERINGIN\n\nPLAZA TOL MASUK\n\nIPOH SELATAN\n\nPLAZA TOL MASUK/KELUAR\n\nBUKIT BERUNTUNG\n\nPLAZA TOL MASUK/KELUAR\n\nSUNGAI BUAYA\n\nPLAZA TOL MASUK/KELUAR\n\nRAWANG\n\nPLAZA TOL MASUK/KELUAR\n\nSUNGAI BESI\n\nPLAZA TOL MASUK/KELUAR\n\nUPM\n\nPLAZA TOL MASUK/KELUAR\n\nKAJANG\n\nPLAZA TOL MASUK/KELUAR\n\nBANGI\n\nPERSIMPANGAN BERTINGKAT\n\nPLAZA TOL MASUK/KELUAR\n\nPEDAS LINGGI\n\nPLAZA TOL MASUK/KELUAR\n\nSIMPANG AMPAT\n\nPLAZA TOL MASUK/KELUAR\n\nAYER KEROH\n\nPLAZA TOL MASUK/KELUAR\n\nJASIN\n\nPLAZA TOL MASUK/KELUAR\n\nPAGOH\n\nPLAZA TOL MASUK/KELUAR\n\nJALAN DUTA\n\nPUTRA MAHKOTA\n\nPLAZA TOL MASUK/KELUAR\n\nPLAZA TOL MASUK/KELUAR\n\nNILAI\n\nPLAZA TOL MASUK/KELUAR\n\nTANGKAK\n\nPLAZA TOL MASUK/KELUAR\n\nYONG PENG UTARA\n\nPLAZA TOL KELUAR\n\nYONG PENG SELATAN\n\nPLAZA TOL MASUK/KELUAR\n\nSENAI UTARA\n\nPLAZA TOL MASUK/KELUAR\n\nAIR HITAM\n\nPLAZA TOL MASUK/KELUAR\n\nMACHAP\n\nPLAZA TOL MASUK/KELUAR\n\nSIMPANG RENGGAM\n\nPLAZA TOL MASUK/KELUAR\n\nSEDENAK\n\nPLAZA TOL MASUK/KELUAR\n\nKULAI\n\nPLAZA TOL MASUK/KELUAR\n\nSKUDAI\n\nPLAZA TOL MASUK/KELUAR\n\nKEMPAS\n\nPLAZA TOL MASUK/KELUAR\n\nBUKIT GAMBIR\n\nPLAZA TOL MASUK/KELUAR\n\nSENAWANG\n\nPLAZA TOL MASUK/KELUAR\n\nPORT DICKSON\n\nPLAZA TOL MASUK/KELUAR\n\nSEREMBAN\n\nPLAZA TOL MASUK/KELUAR\n\nKLIA\n\nPERSIMPANGAN BERTINGKAT\n\nPLAZA TOL MASUK/KELUAR\n\nPUTRAJAYA\n\nPLAZA TOL MASUK/KELUAR\n\nBANDAR SAUJANA PUTRA\n\nPLAZA TOL MASUK/KELUAR\n\nPUTRA HEIGHT\n\nPLAZA TOL MASUK/KELUAR\n\nUSJ\n\nPLAZA TOL MASUK/KELUAR\n\nSEAFIELD\n\nPLAZA TOL KELUAR\n\nEBOR SELATAN\n\nPLAZA TOL MASUK\n\nEBOR UTARA\n\nPLAZA TOL MASUK/KELUAR\n\nBUKIT RAJA\n\nPLAZA TOL MASUK/KELUAR\n\nSETIA ALAM\n\nPLAZA TOL MASUK/KELUAR\n\nSHAH ALAM\n\nPLAZA TOL MASUK/KELUAR\n\nSUBANG SELANGOR\n\nPLAZA TOL MASUK/KELUAR\n\nDAMANSARA\n\nPLAZA TOL MASUK/KELUAR\n\nKOTA DAMANSARA\n\nPLAZA TOL MASUK/KELUAR\n\nSUNGAI BULOH\n\nPLAZA TOL MASUK/KELUAR\n\nSUNGAI BULOH UTARA\n\nPLAZA TOL MASUK/KELUAR\n\nRAWANG SELATAN\n\nPLAZA TOL MASUK/KELUAR\n\nBUKIT TAGAR\n\nPERAK\n\nPLAZA TOL KELUAR\n\nIPOH SELATAN\n\nPLAZA TOL MASUK\n\nIPOH UTARA\n\nPLAZA TOL MASUK/KELUAR\n\nKUALA KANGSAR\n\nPLAZA TOL MASUK/KELUAR\n\nCHANGKAT JERING\n\nPETUNJUK : -\n\nLEBUH RAYA UTARA SELATAN\n\nLEBUH RAYA UTARA SELATAN\n\nHUBUNGAN TENGAH\n\nSEMPADAN NEGERI\n\nCATATAN: TIDAK MENGIKUT SKALA\n\nPERSIMPANGAN BERTINGKAT\n\nNILAI UTARA\n\nJOHOR BAHRU\n\nKLIA\n\nPLAZA TOL MASUK/KELUAR\n\nBANDAR AINSDALE\n\nPLAZA TOL MASUK/KELUAR\n\nBANDAR CASSIA\n\nDibuat 6 April 2018\n\n[KKR.PUU.110-1/7/1 Jld.19; PN(PU2)426/LXV]\n\nDATO' SRI HAJI FADILLAH BIN HAJI YUSOF\n\nMenteri Kerja Raya\n\nFEDERAL ROADS (PRIVATE MANAGEMENT) ACT 1984\n\nFEDERAL ROADS (PRIVATE MANAGEMENT) (COLLECTION OF TOLLS)\n\n(JURU-JALAN DUTA-BUKIT RAJA EXPRESSWAY, NORTH SOUTH EXPRESSWAY\n\nCENTRAL LINK AND KUALA LUMPUR-JOHORE BAHRU EXPRESSWAY)\n\n(AMENDMENT) ORDER 2018\n\nIN exercise of the powers conferred by section 2 of\n\nthe Federal Roads (Private Management) Act 1984 [Act 306], the Minister makes\n\nthe following order:\n\nCitation and commencement\n\n1. (1) This order may be cited as the Federal Roads\n\n(Private Management) (Collection of Tolls) (Juru-Jalan Duta-Bukit Raja\n\nExpressway, North South Expressway Central Link and Kuala Lumpur-Johore\n\nBahru Expressway) (Amendment) Order 2018.\n\n (2) This Order comes into operation on 10 April 2018.\n\nAmendment of paragraph 2\n\n2. The Federal Roads (Private Management) (Collection of Tolls)\n\n(Juru-Jalan Duta-Bukit Raja Expressway, North South Expressway Central Link\n\nand Kuala Lumpur-Johore Bahru Expressway) Order 2002 [P.U. (A) 171/2002],\n\nwhich is referred to as the \"principal Order\" in this Order, is amended—\n\n(a) in subparagraph 2(1), by substituting for the words \"Third Schedule E\"\n\nthe words \"Third Schedule F\"; and\n\n(b) in subsubparagraph 2(2)(a), by substituting for the words\n\n\"Third Schedule E\" the words \"Third Schedule F\".\n\nNew Third Schedule F\n\n3. The principal Order is amended by inserting after Third Schedule E\n\nthe following Schedule:\n\n\"THIRD SCHEDULE F\n\nPART A\n\nRATES OF TOLL FOR THE PERIOD FROM 10 APRIL 2018 UNTIL 31 MAY 2018\n\nFOR SOUTHVILLE CITY INTERCHANGE\n\nEntry Toll Plaza: Southville City\n\n(1)\n\nExit Toll Plaza\n\n(2)\n\nToll Payable (RM) According to Classes of Vehicles\n\nClass 1 Class 2 Class 3 Class 4 Class 5\n\n1. Juru 51.80 77.60 103.50 25.90 38.80\n\n2. Bukit Tambun 50.90 76.30 101.80 25.40 38.20\n\n3. Bandar Cassia 50.40 75.50 100.70 25.20 37.80\n\n4. Jawi 49.30 73.90 98.50 24.60 36.90\n\n5. Bandar Baharu 47.40 71.10 94.80 23.70 35.60\n\n6. Alor Pongsu 46.80 70.20 93.60 23.40 35.10\n\n7. Bukit Merah 45.10 67.50 90.10 22.50 33.80\n\n8. Taiping North 43.60 65.30 87.10 21.80 32.70\n\n9. Changkat Jering 41.40 62.10 82.80 20.70 31.10\n\n10. Kuala Kangsar 38.50 57.70 77.00 19.20 28.90\n\n11. Ipoh South 35.00 52.50 69.90 17.50 26.20\n\n12. Simpang Pulai 33.40 50.00 66.70 16.70 25.00\n\n13. Gopeng 32.00 48.00 64.00 16.00 24.00\n\n14. Tapah 27.90 41.90 55.80 14.00 20.90\n\n15. Bidor 26.10 39.20 52.30 13.10 19.60\n\n16. Sungkai 24.20 36.30 48.50 12.10 18.20\n\n17. Slim River 21.70 32.50 43.30 10.80 16.20\n\n18. Behrang 19.60 29.30 39.10 9.80 14.70\n\n19. Tanjong Malim 18.00 27.00 36.00 9.00 13.50\n\n20. Lembah Beringin 16.70 25.00 33.40 8.30 12.50\n\n21. Bukit Tagar 15.80 23.70 31.60 7.90 11.90\n\n22. Bukit Beruntung 14.20 21.30 28.30 7.10 10.60\n\n23. Sungai Buaya 13.40 20.00 26.70 6.70 10.00\n\n24. Rawang 12.20 18.30 24.40 6.10 9.20\n\n25. Rawang South 11.50 17.20 22.90 5.70 8.60\n\n26. Sungai Buloh North 10.80 16.20 21.50 5.40 8.10\n\n27. Sungai Buloh 10.40 15.60 20.90 5.20 7.80\n\n28. Jalan Duta 11.10 16.70 22.20 5.60 8.30\n\n29. Kota Damansara 9.70 14.50 19.40 4.80 7.30\n\n30. Damansara 9.40 14.10 18.80 4.70 7.10\n\n31. Subang 8.90 13.30 17.70 4.40 6.70\n\n32. Setia Alam 9.40 14.10 18.80 4.70 7.10\n\n33. Bukit Raja 9.50 14.30 19.10 4.80 7.20\n\n34. Shah Alam 8.30 12.40 16.60 4.10 6.20\n\n35. Ebor 7.50 11.30 15.10 3.80 5.60\n\n36. Seafield 7.50 11.20 15.00 3.70 5.60\n\n37. USJ 6.90 10.40 13.90 3.50 5.20\n\n38. Putra Heights 6.40 9.60 12.80 3.20 4.80\n\n(1)\n\nExit Toll Plaza\n\n(2)\n\nToll Payable (RM) According to Classes of Vehicles\n\nClass 1 Class 2 Class 3 Class 4 Class 5\n\n39. Bandar Saujana Putra 5.80 8.80 11.70 2.90 4.40\n\n40. Putrajaya 6.30 9.40 12.60 3.10 4.70\n\n41. KLIA 4.80 7.00 9.10 2.70 3.70\n\n42. Sungai Besi 2.90 4.40 5.90 1.50 2.20\n\n43. UPM 1.50 2.20 3.00 0.70 1.10\n\n44. Kajang 1.20 1.80 2.40 0.60 0.90\n\n45. Bangi 0.40 0.60 0.80 0.20 0.30\n\n46. Putra Mahkota 0.90 1.30 1.80 0.40 0.70\n\n47. Nilai 1.80 2.70 3.50 0.90 1.30\n\n48. Bandar Ainsdale 3.80 5.70 7.60 1.90 2.90\n\n49. Seremban 4.20 6.30 8.40 2.10 3.20\n\n50. Port Dickson 4.70 7.00 9.40 2.30 3.50\n\n51. Senawang 5.20 7.90 10.50 2.60 3.90\n\n52. Pedas Linggi 7.40 11.10 14.80 3.70 5.60\n\n53. Simpang Ampat 10.50 15.80 21.10 5.30 7.90\n\n54. Ayer Keroh 13.50 20.20 26.90 6.70 10.10\n\n55. Jasin 15.70 23.60 31.40 7.90 11.80\n\n56. Tangkak 17.10 25.60 34.10 8.50 12.80\n\n57. Bukit Gambir 18.80 28.10 37.50 9.40 14.10\n\n58. Pagoh 20.90 31.30 41.70 10.40 15.70\n\n59. Yong Peng North 26.70 40.10 53.40 13.40 20.00\n\n60. Air Hitam 29.30 43.90 58.60 14.70 22.00\n\n61. Machap 30.30 45.50 60.60 15.20 22.70\n\n62. Simpang Renggam 32.20 48.30 64.40 16.10 24.20\n\n63. Sedenak 34.80 52.20 69.60 17.40 26.10\n\n64. Kulai 36.60 54.80 73.10 18.30 27.40\n\n65. Senai North 37.80 56.70 75.60 18.90 28.40\n\n66. Skudai 38.20 57.30 76.40 19.10 28.70\n\nExit Toll Plaza: Southville City\n\n(1)\n\nEntry Toll Plaza\n\n(2)\n\nToll Payable (RM) According to Classes of Vehicles\n\nClass 1 Class 2 Class 3 Class 4 Class 5\n\n1. Juru 51.80 77.60 103.50 25.90 38.80\n\n2. Bukit Tambun 50.90 76.30 101.80 25.40 38.20\n\n3. Bandar Cassia 50.40 75.50 100.70 25.20 37.80\n\n4. Jawi 49.30 73.90 98.50 24.60 36.90\n\n5. Bandar Baharu 47.40 71.10 94.80 23.70 35.60\n\n6. Alor Pongsu 46.80 70.20 93.60 23.40 35.10\n\n7. Bukit Merah 45.10 67.50 90.10 22.50 33.80\n\n8. Taiping North 43.60 65.30 87.10 21.80 32.70\n\n9. Changkat Jering 41.40 62.10 82.80 20.70 31.10\n\n10. Kuala Kangsar 38.50 57.70 77.00 19.20 28.90\n\n(1)\n\nEntry Toll Plaza\n\n(2)\n\nToll Payable (RM) According to Classes of Vehicles\n\nClass 1 Class 2 Class 3 Class 4 Class 5\n\n11. Ipoh South 35.00 52.50 69.90 17.50 26.20\n\n12. Simpang Pulai 33.40 50.00 66.70 16.70 25.00\n\n13. Gopeng 32.00 48.00 64.00 16.00 24.00\n\n14. Tapah 27.90 41.90 55.80 14.00 20.90\n\n15. Bidor 26.10 39.20 52.30 13.10 19.60\n\n16. Sungkai 24.20 36.30 48.50 12.10 18.20\n\n17. Slim River 21.70 32.50 43.30 10.80 16.20\n\n18. Behrang 19.60 29.30 39.10 9.80 14.70\n\n19. Tanjong Malim 18.00 27.00 36.00 9.00 13.50\n\n20. Lembah Beringin 16.70 25.00 33.40 8.30 12.50\n\n21. Bukit Tagar 15.80 23.70 31.60 7.90 11.90\n\n22. Bukit Beruntung 14.20 21.30 28.30 7.10 10.60\n\n23. Sungai Buaya 13.40 20.00 26.70 6.70 10.00\n\n24. Rawang 12.20 18.30 24.40 6.10 9.20\n\n25. Rawang South 11.50 17.20 22.90 5.70 8.60\n\n26. Sungai Buloh North 10.80 16.20 21.50 5.40 8.10\n\n27. Sungai Buloh 10.40 15.60 20.90 5.20 7.80\n\n28. Jalan Duta 11.10 16.70 22.20 5.60 8.30\n\n29. Kota Damansara 9.70 14.50 19.40 4.80 7.30\n\n30. Damansara 9.40 14.10 18.80 4.70 7.10\n\n31. Subang 8.90 13.30 17.70 4.40 6.70\n\n32. Setia Alam 9.40 14.10 18.80 4.70 7.10\n\n33. Bukit Raja 9.50 14.30 19.10 4.80 7.20\n\n34. Shah Alam 8.30 12.40 16.60 4.10 6.20\n\n35. Ebor 7.50 11.30 15.10 3.80 5.60\n\n36. Seafield 7.50 11.20 15.00 3.70 5.60\n\n37. USJ 6.90 10.40 13.90 3.50 5.20\n\n38. Putra Heights 6.40 9.60 12.80 3.20 4.80\n\n39. Bandar Saujana Putra 5.80 8.80 11.70 2.90 4.40\n\n40. Putrajaya 6.30 9.40 12.60 3.10 4.70\n\n41. KLIA 4.80 7.00 9.10 2.70 3.70\n\n42. Sungai Besi 2.90 4.40 5.90 1.50 2.20\n\n43. UPM 1.50 2.20 3.00 0.70 1.10\n\n44. Kajang 1.20 1.80 2.40 0.60 0.90\n\n45. Bangi 0.40 0.60 0.80 0.20 0.30\n\n46. Putra Mahkota 0.90 1.30 1.80 0.40 0.70\n\n47. Nilai 1.80 2.70 3.50 0.90 1.30\n\n48. Bandar Ainsdale 3.80 5.70 7.60 1.90 2.90\n\n49. Seremban 4.20 6.30 8.40 2.10 3.20\n\n50. Port Dickson 4.70 7.00 9.40 2.30 3.50\n\n51. Senawang 5.20 7.90 10.50 2.60 3.90\n\n52. Pedas Linggi 7.40 11.10 14.80 3.70 5.60\n\n53. Simpang Ampat 10.50 15.80 21.10 5.30 7.90\n\n54. Ayer Keroh 13.50 20.20 26.90 6.70 10.10\n\n55. Jasin 15.70 23.60 31.40 7.90 11.80\n\n56. Tangkak 17.10 25.60 34.10 8.50 12.80\n\n(1)\n\nEntry Toll Plaza\n\n(2)\n\nToll Payable (RM) According to Classes of Vehicles\n\nClass 1 Class 2 Class 3 Class 4 Class 5\n\n57. Bukit Gambir 18.80 28.10 37.50 9.40 14.10\n\n58. Pagoh 20.90 31.30 41.70 10.40 15.70\n\n59. Yong Peng North 26.70 40.10 53.40 13.40 20.00\n\n60. Air Hitam 29.30 43.90 58.60 14.70 22.00\n\n61. Machap 30.30 45.50 60.60 15.20 22.70\n\n62. Simpang Renggam 32.20 48.30 64.40 16.10 24.20\n\n63. Sedenak 34.80 52.20 69.60 17.40 26.10\n\n64. Kulai 36.60 54.80 73.10 18.30 27.40\n\n65. Senai North 37.80 56.70 75.60 18.90 28.40\n\n66. Skudai 38.20 57.30 76.40 19.10 28.70\n\nPART B\n\nRATES OF TOLL FOR THE PERIOD FROM 1 JUNE 2018 UNTIL 31 DECEMBER 2018\n\nFOR SOUTHVILLE CITY INTERCHANGE\n\nEntry Toll Plaza: Southville City\n\n(1)\n\nExit Toll Plaza\n\n(2)\n\nToll Payable (RM) According to Classes of Vehicles\n\nClass 1 Class 2 Class 3 Class 4 Class 5\n\n1. Juru 51.80 77.60 103.50 25.90 38.80\n\n2. Bukit Tambun 50.90 76.30 101.80 25.40 38.20\n\n3. Bandar Cassia 50.40 75.50 100.70 25.20 37.80\n\n4. Jawi 49.30 73.90 98.50 24.60 36.90\n\n5. Bandar Baharu 47.40 71.10 94.80 23.70 35.60\n\n6. Alor Pongsu 46.80 70.20 93.60 23.40 35.10\n\n7. Bukit Merah 45.10 67.50 90.10 22.50 33.80\n\n8. Taiping North 43.60 65.30 87.10 21.80 32.70\n\n9. Changkat Jering 41.40 62.10 82.80 20.70 31.10\n\n10. Kuala Kangsar 38.50 57.70 77.00 19.20 28.90\n\n11. Ipoh South 35.00 52.50 69.90 17.50 26.20\n\n12. Simpang Pulai 33.40 50.00 66.70 16.70 25.00\n\n13. Gopeng 32.00 48.00 64.00 16.00 24.00\n\n14. Tapah 27.90 41.90 55.80 14.00 20.90\n\n15. Bidor 26.10 39.20 52.30 13.10 19.60\n\n16. Sungkai 24.20 36.30 48.50 12.10 18.20\n\n17. Slim River 21.70 32.50 43.30 10.80 16.20\n\n18. Behrang 19.60 29.30 39.10 9.80 14.70\n\n19. Tanjong Malim 18.00 27.00 36.00 9.00 13.50\n\n20. Lembah Beringin 16.70 25.00 33.40 8.30 12.50\n\n21. Bukit Tagar 15.80 23.70 31.60 7.90 11.90\n\n22. Bukit Beruntung 14.20 21.30 28.30 7.10 10.60\n\n23. Sungai Buaya 13.40 20.00 26.70 6.70 10.00\n\n(1)\n\nExit Toll Plaza\n\n(2)\n\nToll Payable (RM) According to Classes of Vehicles\n\nClass 1 Class 2 Class 3 Class 4 Class 5\n\n24. Rawang 12.20 18.30 24.40 6.10 9.20\n\n25. Rawang South 11.50 17.20 22.90 5.70 8.60\n\n26. Sungai Buloh North 10.80 16.20 21.50 5.40 8.10\n\n27. Sungai Buloh 10.40 15.60 20.90 5.20 7.80\n\n28. Jalan Duta 11.10 16.70 22.20 5.60 8.30\n\n29. Kota Damansara 9.70 14.50 19.40 4.80 7.30\n\n30. Damansara 9.40 14.10 18.80 4.70 7.10\n\n31. Subang 8.90 13.30 17.70 4.40 6.70\n\n32. Setia Alam 9.40 14.10 18.80 4.70 7.10\n\n33. Bukit Raja 9.50 14.30 19.10 4.80 7.20\n\n34. Shah Alam 8.30 12.40 16.60 4.10 6.20\n\n35. Ebor 7.50 11.30 15.10 3.80 5.60\n\n36. Seafield 7.50 11.20 15.00 3.70 5.60\n\n37. USJ 6.90 10.40 13.90 3.50 5.20\n\n38. Putra Heights 6.40 9.60 12.80 3.20 4.80\n\n39. Bandar Saujana Putra 5.80 8.80 11.70 2.90 4.40\n\n40. Putrajaya 6.30 9.40 12.60 3.10 4.70\n\n41. KLIA 4.80 7.00 9.10 2.70 3.70\n\n42. Sungai Besi 2.10 3.20 4.20 1.10 1.60\n\n43. UPM 1.50 2.20 3.00 0.70 1.10\n\n43. Kajang 1.20 1.80 2.40 0.60 0.90\n\n45. Bangi 0.40 0.60 0.80 0.20 0.30\n\n46. Putra Mahkota 0.90 1.30 1.80 0.40 0.70\n\n47. Nilai 1.80 2.70 3.50 0.90 1.30\n\n48. Bandar Ainsdale 3.80 5.70 7.60 1.90 2.90\n\n49. Seremban 4.20 6.30 8.40 2.10 3.20\n\n50. Port Dickson 4.70 7.00 9.40 2.30 3.50\n\n51. Senawang 5.20 7.90 10.50 2.60 3.90\n\n52. Pedas Linggi 7.40 11.10 14.80 3.70 5.60\n\n53. Simpang Ampat 10.50 15.80 21.10 5.30 7.90\n\n54. Ayer Keroh 13.50 20.20 26.90 6.70 10.10\n\n55. Jasin 15.70 23.60 31.40 7.90 11.80\n\n56. Tangkak 17.10 25.60 34.10 8.50 12.80\n\n57. Bukit Gambir 18.80 28.10 37.50 9.40 14.10\n\n58. Pagoh 20.90 31.30 41.70 10.40 15.70\n\n59. Yong Peng North 26.70 40.10 53.40 13.40 20.00\n\n60. Air Hitam 29.30 43.90 58.60 14.70 22.00\n\n61. Machap 30.30 45.50 60.60 15.20 22.70\n\n62. Simpang Renggam 32.20 48.30 64.40 16.10 24.20\n\n63. Sedenak 34.80 52.20 69.60 17.40 26.10\n\n64. Kulai 36.60 54.80 73.10 18.30 27.40\n\n65. Senai North 37.80 56.70 75.60 18.90 28.40\n\n66. Skudai 38.20 57.30 76.40 19.10 28.70\n\nExit Toll Plaza: Southville City\n\n(1)\n\nEntry Toll Plaza\n\n(2)\n\nToll Payable (RM) According to Classes of Vehicles\n\nClass 1 Class 2 Class 3 Class 4 Class 5\n\n1. Juru 51.80 77.60 103.50 25.90 38.80\n\n2. Bukit Tambun 50.90 76.30 101.80 25.40 38.20\n\n3. Bandar Cassia 50.40 75.50 100.70 25.20 37.80\n\n4. Jawi 49.30 73.90 98.50 24.60 36.90\n\n5. Bandar Baharu 47.40 71.10 94.80 23.70 35.60\n\n6. Alor Pongsu 46.80 70.20 93.60 23.40 35.10\n\n7. Bukit Merah 45.10 67.50 90.10 22.50 33.80\n\n8. Taiping North 43.60 65.30 87.10 21.80 32.70\n\n9. Changkat Jering 41.40 62.10 82.80 20.70 31.10\n\n10. Kuala Kangsar 38.50 57.70 77.00 19.20 28.90\n\n11. Ipoh South 35.00 52.50 69.90 17.50 26.20\n\n12. Simpang Pulai 33.40 50.00 66.70 16.70 25.00\n\n13. Gopeng 32.00 48.00 64.00 16.00 24.00\n\n14. Tapah 27.90 41.90 55.80 14.00 20.90\n\n15. Bidor 26.10 39.20 52.30 13.10 19.60\n\n16. Sungkai 24.20 36.30 48.50 12.10 18.20\n\n17. Slim River 21.70 32.50 43.30 10.80 16.20\n\n18. Behrang 19.60 29.30 39.10 9.80 14.70\n\n19. Tanjong Malim 18.00 27.00 36.00 9.00 13.50\n\n20. Lembah Beringin 16.70 25.00 33.40 8.30 12.50\n\n21. Bukit Tagar 15.80 23.70 31.60 7.90 11.90\n\n22. Bukit Beruntung 14.20 21.30 28.30 7.10 10.60\n\n23. Sungai Buaya 13.40 20.00 26.70 6.70 10.00\n\n24. Rawang 12.20 18.30 24.40 6.10 9.20\n\n25. Rawang South 11.50 17.20 22.90 5.70 8.60\n\n26. Sungai Buloh North 10.80 16.20 21.50 5.40 8.10\n\n27. Sungai Buloh 10.40 15.60 20.90 5.20 7.80\n\n28. Jalan Duta 11.10 16.70 22.20 5.60 8.30\n\n29. Kota Damansara 9.70 14.50 19.40 4.80 7.30\n\n30. Damansara 9.40 14.10 18.80 4.70 7.10\n\n31. Subang 8.90 13.30 17.70 4.40 6.70\n\n32. Setia Alam 9.40 14.10 18.80 4.70 7.10\n\n33. Bukit Raja 9.50 14.30 19.10 4.80 7.20\n\n34. Shah Alam 8.30 12.40 16.60 4.10 6.20\n\n35. Ebor 7.50 11.30 15.10 3.80 5.60\n\n36. Seafield 7.50 11.20 15.00 3.70 5.60\n\n37. USJ 6.90 10.40 13.90 3.50 5.20\n\n38. Putra Heights 6.40 9.60 12.80 3.20 4.80\n\n39. Bandar Saujana Putra 5.80 8.80 11.70 2.90 4.40\n\n40. Putrajaya 6.30 9.40 12.60 3.10 4.70\n\n41. KLIA 4.80 7.00 9.10 2.70 3.70\n\n42. Sungai Besi 2.10 3.20 4.20 1.10 1.60\n\n43. UPM 1.50 2.20 3.00 0.70 1.10\n\n44. Kajang 1.20 1.80 2.40 0.60 0.90\n\n(1)\n\nEntry Toll Plaza\n\n(2)\n\nToll Payable (RM) According to Classes of Vehicles\n\nClass 1 Class 2 Class 3 Class 4 Class 5\n\n45. Bangi 0.40 0.60 0.80 0.20 0.30\n\n46. Putra Mahkota 0.90 1.30 1.80 0.40 0.70\n\n47. Nilai 1.80 2.70 3.50 0.90 1.30\n\n48. Bandar Ainsdale 3.80 5.70 7.60 1.90 2.90\n\n49. Seremban 4.20 6.30 8.40 2.10 3.20\n\n50. Port Dickson 4.70 7.00 9.40 2.30 3.50\n\n51. Senawang 5.20 7.90 10.50 2.60 3.90\n\n52. Pedas Linggi 7.40 11.10 14.80 3.70 5.60\n\n53. Simpang Ampat 10.50 15.80 21.10 5.30 7.90\n\n54. Ayer Keroh 13.50 20.20 26.90 6.70 10.10\n\n55. Jasin 15.70 23.60 31.40 7.90 11.80\n\n56. Tangkak 17.10 25.60 34.10 8.50 12.80\n\n57. Bukit Gambir 18.80 28.10 37.50 9.40 14.10\n\n58. Pagoh 20.90 31.30 41.70 10.40 15.70\n\n59. Yong Peng North 26.70 40.10 53.40 13.40 20.00\n\n60. Air Hitam 29.30 43.90 58.60 14.70 22.00\n\n61. Machap 30.30 45.50 60.60 15.20 22.70\n\n62. Simpang Renggam 32.20 48.30 64.40 16.10 24.20\n\n63. Sedenak 34.80 52.20 69.60 17.40 26.10\n\n64. Kulai 36.60 54.80 73.10 18.30 27.40\n\n65. Senai North 37.80 56.70 75.60 18.90 28.40\n\n66. Skudai 38.20 57.30 76.40 19.10 28.70\n\nCLASSES OF VEHICLES\n\nClass 1: Vehicles having two axles and three or four wheels (excluding taxis and\n\nbuses)\n\nClass 2: Vehicles having two axles and five or six wheels (excluding buses)\n\nClass 3: Vehicles having three axles or more (excluding buses)\n\nClass 4: Taxis\n\nClass 5: Buses\n\nFor the purposes of calculating the number of axles and wheels of a vehicle,\n\nthe axles and wheels of any trailer towed by the vehicle shall be calculated as part\n\nof the axles and wheels of the vehicle.\".\n\nSubstitution of Thirteenth Schedule\n\n4. The principal Order is amended by substituting for the Thirteenth Schedule\n\nthe following Schedule:\n\n\"THIRTEENTH SCHEDULE\n\nMAP OF JURU-JALAN DUTA-BUKIT RAJA EXPRESSWAY, NORTH SOUTH EXPRESSWAY\n\nCENTRAL LINK AND KUALA LUMPUR-JOHORE BAHRU EXPRESSWAY\n\nN\n\nTERENGGANU\n\nP. RAWA\n\nP. TI0MAN\n\nPAHANG\n\nNEGERI SEMBILAN\n\nKELANTAN\n\nPULAU\n\nPINANG\n\nKEDAH\n\nKUALA\n\nLUMPUR\n\nJOHOR MELAKA\n\nSELAT MELAKA\n\nBUKIT TAMBUN ENTRY/EXIT\n\nTOLL PLAZA\n\nBUKIT MERAH ENTRY/EXIT\n\nTOLL PLAZA\n\nJURU ENTRY/EXIT\n\nTOLL PLAZA\n\nJAWI ENTRY/EXIT\n\nTOLL PLAZA\n\nBANDAR BAHARU ENTRY/EXIT\n\nTOLL PLAZA\n\nIPOH NORTH EXIT\n\nTOLL PLAZA\n\nSIMPANG PULAI ENTRY/EXIT\n\nTOLL PLAZA\n\nTAIPING NORTH ENTRY/EXIT\n\nTOLL PLAZA\n\nGOPENG ENTRY/EXIT\n\nTOLL PLAZA\n\nTAPAH ENTRY/EXIT\n\nTOLL PLAZA\n\nBIDOR ENTRY/EXIT\n\nTOLL PLAZA\n\nSUNGKAI ENTRY/EXIT\n\nTOLL PLAZA\n\nSLIM RIVER ENTRY/EXIT\n\nTOLL PLAZA\n\nBEHRANG ENTRY/EXIT\n\nTOLL PLAZA\n\nTANJUNG MALIM ENTRY/EXIT\n\nTOLL PLAZA\n\nLEMBAH BERINGIN ENTRY/EXIT\n\nTOLL PLAZA\n\nIPOH SOUTH ENTRY\n\nTOLL PLAZA\n\nBUKIT BERUNTUNG ENTRY/EXIT\n\nTOLL PLAZA\n\nSUNGAI BUAYA ENTRY/EXIT\n\nTOLL PLAZA\n\nRAWANG ENTRY/EXIT\n\nTOLL PLAZA\n\nSUNGAI BESI ENTRY/EXIT\n\nTOLL PLAZA\n\nUPM ENTRY/EXIT\n\nTOLL PLAZA\n\nKAJANG ENTRY/EXIT\n\nTOLL PLAZA\n\nBANGI ENTRY/EXIT\n\nTOLL PLAZA\n\nNILAI NORTH INTERCHANGE\n\nPEDAS LINGGI ENTRY/EXIT\n\nTOLL PLAZA\n\nSIMPANG AMPAT ENTRY/EXIT\n\nTOLL PLAZA\n\nAYER KEROH ENTRY/EXIT\n\nTOLL PLAZA\n\nJASIN ENTRY/EXIT\n\nTOLL PLAZA\n\nPAGOH ENTRY/EXIT\n\nTOLL PLAZA\n\nJALAN DUTA ENTRY/EXIT\n\nTOLL PLAZA\n\nPUTRA MAHKOTA ENTRY/EXIT\n\nTOLL PLAZA\n\nNILAI ENTRY/EXIT\n\nTOLL PLAZA\n\nTANGKAK ENTRY/EXIT\n\nTOLL PLAZA\n\nYONG PENG NORTH ENTRY/EXIT\n\nTOLL PLAZA\n\nYONG PENG SOUTH EXIT\n\nTOLL PLAZA\n\nSENAI NORTH ENTRY/EXIT\n\nTOLL PLAZA\n\nAIR HITAM ENTRY/EXIT\n\nTOLL PLAZA\n\nMACHAP ENTRY/EXIT\n\nTOLL PLAZA\n\nSIMPANG RENGGAM ENTRY/EXIT\n\nTOLL PLAZA\n\nSEDENAK ENTRY/EXIT\n\nTOLL PLAZA\n\nKULAI ENTRY/EXIT\n\nTOLL PLAZA\n\nSKUDAI ENTRY/EXIT\n\nTOLL PLAZA\n\nKEMPAS ENTRY/EXIT\n\nTOLL PLAZA\n\nBUKIT GAMBIR ENTRY/EXIT\n\nTOLL PLAZA\n\nSENAWANG ENTRY/EXIT\n\nTOLL PLAZA\n\nPORT DICKSON ENTRY/EXIT\n\nTOLL PLAZA\n\nSEREMBAN ENTRY/EXIT\n\nTOLL PLAZA\n\nKLIA ENTRY/EXIT\n\nTOLL PLAZA\n\nKLIA INTERCHANGE\n\nPUTRAJAYA ENTRY/EXIT\n\nTOLL PLAZA\n\nBANDAR SAUJANA PUTRA\n\nENTRY/EXIT TOLL PLAZA\n\nPUTRA HEIGHT ENTRY/EXIT\n\nTOLL PLAZA\n\nUSJ ENTRY/EXIT\n\nTOLL PLAZA\n\nSEAFIELD ENTRY/EXIT\n\nTOLL PLAZA\n\nEBOR SOUTH EXIT\n\nTOLL PLAZA\n\nEBOR NORTH ENTRY\n\nTOLL PLAZA\n\nBUKIT RAJA ENTRY/EXIT\n\nTOLL PLAZA\n\nSETIA ALAM ENTRY/EXIT\n\nTOLL PLAZA\n\nSHAH ALAM ENTRY/EXIT\n\nTOLL PLAZA\n\nSUBANG ENTRY/EXIT\n\nTOLL PLAZA SELANGOR\n\nDAMANSARA ENTRY/EXIT\n\nTOLL PLAZA\n\nKOTA DAMANSARA ENTRY/EXIT\n\nTOLL PLAZA\n\nSUNGAI BULOH ENTRY/EXIT\n\nTOLL PLAZA\n\nSUNGAI BULOH NORTH\n\nENTRY/EXIT TOLL PLAZA\n\nRAWANG SOUTH ENTRY/EXIT\n\nTOLL PLAZA\n\nBUKIT TAGAR ENTRY/EXIT\n\nTOLL PLAZA\n\nPERAK\n\nIPOH SOUTH EXIT\n\nTOLL PLAZA\n\nIPOH NORTH ENTRY\n\nTOLL PLAZA\n\nKUALA KANGSAR ENTRY/EXIT\n\nTOLL PLAZA\n\nCHANGKAT JERING ENTRY/EXIT\n\nTOLL PLAZA\n\nLEGEND : -\n\nNORTH SOUTH EXPRESSWAY\n\nNORTH SOUTH EXPRESSWAY\n\nCENTRAL LINK\n\nSTATE BOUNDARY\n\nNOTE: NOT TO SCALE\n\nJOHOR BAHRU\n\nINTERCHANGE\n\nBANDAR AINSDALE ENTRY/EXIT\n\nTOLL PLAZA\n\nBANDAR CASSIA ENTRY/EXIT\n\nTOLL PLAZA\n\n\".\n\nMade 6 April 2018\n\n[KKR.PUU.110-1/7/1 Jld.19; PN(PU2) 426/LXV]\n\nDATO' SRI HAJI FADILLAH BIN HAJI YUSOF\n\nMinister of Works"
+   }
+  }
+ ]
+}

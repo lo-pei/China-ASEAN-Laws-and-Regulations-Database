@@ -1,0 +1,72 @@
+{
+ "id": "PH-H13604",
+ "title": {
+  "zh": null,
+  "en": "An Act Authorizing the Governor-General to Purchase, on Behalf of the Government of the Philippine Islands, Ten thousand Shares of the Capital stock of the Manila Railroad Company of the Philippine Islands, and Appropriating Funds for Paying for Said Shares.",
+  "orig": "An Act Authorizing the Governor-General to Purchase, on Behalf of the Government of the Philippine Islands, Ten thousand Shares of the Capital stock of the Manila Railroad Company of the Philippine Islands, and Appropriating Funds for Paying for Said Shares."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1921-02-20",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2960",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 511,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1921/act_2960_1921.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02960_1921_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02960_1921_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13604-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The Governor-General is hereby authorized and directed to subscribe to and purchase, on behalf\nof the Government of the Philippine Islands, ten thousand shares of the capital stock of the Manila Railroad\nCompany of the Philippine Islands, of the par value of two million pesos."
+   }
+  },
+  {
+   "id": "PH-H13604-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The sum of two million pesos is hereby appropriated, out of any funds in the Insular Treasury\nnot otherwise appropriated, to carry out the provisions of this Act."
+   }
+  },
+  {
+   "id": "PH-H13604-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, February 20, 1921."
+   }
+  }
+ ]
+}

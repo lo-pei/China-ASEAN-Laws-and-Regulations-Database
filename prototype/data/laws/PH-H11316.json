@@ -1,0 +1,72 @@
+{
+ "id": "PH-H11316",
+ "title": {
+  "zh": null,
+  "en": "AN ACT AMENDING ACT NUMBERED NINETY-EIGHT, ENTITLED \"AN ACT TO REGULATE COMMERCE IN THE PHILIPPINE ISLANDS.",
+  "orig": "AN ACT AMENDING ACT NUMBERED NINETY-EIGHT, ENTITLED \"AN ACT TO REGULATE COMMERCE IN THE PHILIPPINE ISLANDS."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 603",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1157,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_00603_1903_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_00603_1903_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H11316-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section one of Act Numbered Ninety-eight, entitled \"An Act to regulate commerce in the\nPhilippine Islands,\" is hereby amended by adding at the end of said section the following words:\n\"Provided, nevertheless, That nothing in this Act contained shall be deemed to prohibit a person or\ncorporation engaged as a common carrier of passengers or property from granting a special rate to officers\nand employees of the Insular and provincial governments in the Philippine Islands, or to officers, soldiers,\nand sailors of the Army or Navy of the United State in the Philippine Islands, for transportation for\nthemselves, their families, and personal household effects when traveling at their own expenses. Such special\nrate, if granted to any, shall be uniform as to all such officers, employees, soldiers, and sailors.\""
+   }
+  },
+  {
+   "id": "PH-H11316-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The public good requiring the speedy enactment of this bill, the passage of the same is hereby\nexpedited in accordance with section two of \"An Act prescribing the order of procedure by the Commission\nin the enactment of laws,\" passed September twenty-sixth, nineteen hundred."
+   }
+  },
+  {
+   "id": "PH-H11316-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This act shall take effect on its passage.\nEnacted, January 28, 1903."
+   }
+  }
+ ]
+}

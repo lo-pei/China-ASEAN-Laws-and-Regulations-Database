@@ -1,0 +1,62 @@
+{
+ "id": "PH-H12819",
+ "title": {
+  "zh": null,
+  "en": "An Act Authorizing the Director of Forestry, During the Period From April First, Nineteen Hundred and Twelve, to June thirtieth, Nineteen Hundred and Twelve, to Provide for the Salaries, Traveling Expenses, and Per Diems of the students Who Have Completed the Course in the Forest School, and Appropriating the Sum of Four thousand Five Hundred and Sixty Pesos for Such Purpose.",
+  "orig": "An Act Authorizing the Director of Forestry, During the Period From April First, Nineteen Hundred and Twelve, to June thirtieth, Nineteen Hundred and Twelve, to Provide for the Salaries, Traveling Expenses, and Per Diems of the students Who Have Completed the Course in the Forest School, and Appropriating the Sum of Four thousand Five Hundred and Sixty Pesos for Such Purpose."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1912-02-01",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2112",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 563,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1912/act_2112_1912.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02112_1912_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02112_1912_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12819-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "During the period from April first, nineteen hundred and twelve, to June thirtieth, nineteen\nhundred and twelve, the Director of Forestry is authorized to provide for the salaries, traveling expenses, and\nper diems of the students who have completed the course in the Forest School in an amount not to exceed four\nthousand five hundred and sixty pesos, which sum is hereby appropriated out of any funds in the Insular\nTreasury not otherwise appropriated."
+   }
+  },
+  {
+   "id": "PH-H12819-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on the first day of April, nineteen hundred and twelve.\nEnacted, February 1, 1912."
+   }
+  }
+ ]
+}

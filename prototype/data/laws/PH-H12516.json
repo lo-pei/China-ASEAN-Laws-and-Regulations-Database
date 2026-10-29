@@ -1,0 +1,62 @@
+{
+ "id": "PH-H12516",
+ "title": {
+  "zh": null,
+  "en": "AN ACT PROHIBITING THE HOLDING OF HORSE RACES IN THE CITY OF MANILA ON FEBRUARY SECOND, NINETEEN HUNDRED AND EIGHT, DESIGNATING ANOTHER DATE THEREFOR, AND FOR OTHER PURPOSES.",
+  "orig": "AN ACT PROHIBITING THE HOLDING OF HORSE RACES IN THE CITY OF MANILA ON FEBRUARY SECOND, NINETEEN HUNDRED AND EIGHT, DESIGNATING ANOTHER DATE THEREFOR, AND FOR OTHER PURPOSES."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 1807",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 392,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_01807_1908_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_01807_1908_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12516-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "No horse races shall be held in the city of Manila substitute day, on February second, nineteen\nhundred and eight. In lieu thereof, horse races may be held in the said city on February ninth, nineteen\nhundred and eight, anything in Act Numbered Fifteen hundred and thirty-seven, as amended, to the contrary\nnotwithstanding."
+   }
+  },
+  {
+   "id": "PH-H12516-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, February 1, 1908."
+   }
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "id": "PH-H22600",
+ "title": {
+  "zh": null,
+  "en": "Setting An Additional Day for Registration of Qualified Voters in the Voting Centers",
+  "orig": "Setting An Additional Day for Registration of Qualified Voters in the Voting Centers"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1977-11-18",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 1244",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 1418,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_01244_1977_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_01244_1977_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22600-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Additional day for registration in voting centers. Qualified voters who have not registered shall\nregister in the voting centers on November 27, 1977 from seven o'clock in the morning to seven o'clock in the\nevening: Provided, however, That for purposes of this Decree, in cities, municipalities and municipal districts\nwhere the number of still unregistered voters may be listed under the continuing system without resort to the\nregistration in the voting centers, the Commission on Elections is authorized to order the use of the continuing\nsystem only: Provided, Further, Where there are still a large number of applicants for registration in the\npremises of the voting center at the time of closing the Citizens Registration Committee may extend\nregistration beyond seven o'clock in the evening until all the persons therein present are registered."
+   }
+  },
+  {
+   "id": "PH-H22600-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Voting Centers. The registration of voters herein provided shall be undertaken in the same\nbarangay registration centers and by Citizen's Registration Committees that functioned in the previous\nregistration days under Presidential Decree No. 1187, as amended."
+   }
+  },
+  {
+   "id": "PH-H22600-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "Rules and Regulations. The Commission on Elections is hereby authorized to promulgate the\nrules and regulations to implement this decree."
+   }
+  },
+  {
+   "id": "PH-H22600-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "Effectivity. This decree shall take effect immediately.\nDone in the City of Manila, this 18th day of November, in the year of Our Lord nineteen hundred and\nseventy-seven."
+   }
+  }
+ ]
+}

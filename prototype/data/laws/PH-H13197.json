@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13197",
+ "title": {
+  "zh": null,
+  "en": "An Act Appropriating the Sum of thirty-Five thousand Pesos for Agricultural and Industrial Advancement, Sanitation and Irrigation in the Mountain Province, and for Other Purposes.",
+  "orig": "An Act Appropriating the Sum of thirty-Five thousand Pesos for Agricultural and Industrial Advancement, Sanitation and Irrigation in the Mountain Province, and for Other Purposes."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1915-08-26",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2526",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 643,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1915/act_2526_1915.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02526_1915_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02526_1915_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13197-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The sum of thirty-five thousand pesos is hereby appropriated for the Mountain Province out of\nany funds in the Insular Treasury not otherwise appropriated, to be expended under the direction of the\nSecretary of the Interior for agricultural and industrial advancement, sanitation, education, and irrigation,\nincluding salaries and wages, traveling expenses, and purchase of supplies and material and other incidental\nexpenses: Provided, That expenditures from this fund are hereby authorized for the construction of irrigation\nditches for townships and groups of individuals."
+   }
+  },
+  {
+   "id": "PH-H13197-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, August 26, 1915."
+   }
+  }
+ ]
+}

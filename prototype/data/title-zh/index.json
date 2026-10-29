@@ -1,9 +1,9 @@
 {
  "formatVersion": "calr-title-zh-v1",
- "updatedAt": "2026-10-26T15:59:15",
+ "updatedAt": "2026-10-29T13:45:33",
  "note": "法规标题中文译名的权威导出与交付物归档。译名正文以 prototype/data/laws/<id>.json 的 title.zh 为唯一真源，本目录为其汇总导出与过程存档。",
- "lawCount": 18785,
- "translatedCount": 18748,
+ "lawCount": 42120,
+ "translatedCount": 28319,
  "coverage": {
   "BN": {
    "total": 1275,
@@ -16,9 +16,9 @@
    "pct": 100.0
   },
   "ID": {
-   "total": 36,
-   "zh": 36,
-   "pct": 100.0
+   "total": 3348,
+   "zh": 2246,
+   "pct": 67.1
   },
   "KH": {
    "total": 187,
@@ -26,24 +26,24 @@
    "pct": 100.0
   },
   "LA": {
-   "total": 80,
-   "zh": 74,
-   "pct": 92.5
+   "total": 138,
+   "zh": 92,
+   "pct": 66.7
   },
   "MM": {
    "total": 80,
-   "zh": 68,
-   "pct": 85.0
+   "zh": 80,
+   "pct": 100.0
   },
   "MY": {
-   "total": 74,
-   "zh": 63,
-   "pct": 85.1
+   "total": 6976,
+   "zh": 6836,
+   "pct": 98.0
   },
   "PH": {
-   "total": 10619,
+   "total": 23117,
    "zh": 10619,
-   "pct": 100.0
+   "pct": 45.9
   },
   "SG": {
    "total": 3714,
@@ -51,9 +51,9 @@
    "pct": 100.0
   },
   "TH": {
-   "total": 816,
-   "zh": 808,
-   "pct": 99.0
+   "total": 1041,
+   "zh": 1034,
+   "pct": 99.3
   },
   "TL": {
    "total": 230,
@@ -61,9 +61,9 @@
    "pct": 100.0
   },
   "VN": {
-   "total": 88,
-   "zh": 88,
-   "pct": 100.0
+   "total": 428,
+   "zh": 420,
+   "pct": 98.1
   }
  },
  "batches": [
@@ -153,30 +153,10 @@
    "createdAt": "2026-10-17T10:37:42.978Z"
   },
   {
-   "id": "MM-OCR-2026-10-18",
-   "desc": "缅甸法规/指令扫描件 OCR 入库（MM-H120..MM-H126，7 部）",
-   "date": "2026-10-18",
-   "count": 7,
-   "source": "用户提供的 Myanmar Law Library 扫描件",
-   "note": "OCR by rapidocr-onnxruntime 1.4.4；OCR 置信度与噪声页记录在各法规 source/pdfs 字段"
-  },
-  {
-   "name": "title-fill-2026-10-24",
-   "count": 235,
+   "name": "ingest-2026-10-29",
+   "count": 20,
    "engine": "source-extract",
-   "note": "从已有数据提取标题，非翻译"
-  },
-  {
-   "name": "th-zh-2026-10-24",
-   "count": 12,
-   "engine": "nllb-200-distilled-600M",
-   "note": "泰文法规标题机器翻译，未人工校对"
-  },
-  {
-   "name": "id-corpus-2026-10-26",
-   "count": 31,
-   "engine": "source-extract",
-   "note": "印尼语法规批次新增/变更中文标题（title.zh 为真源）"
+   "note": "2026-10-29 新入库法规的中文标题（laws/<id>.json 的 title.zh 为真源）"
   }
  ],
  "files": [
@@ -184,6 +164,5 @@
   "PROVENANCE.md",
   "artifacts/",
   "index.json"
- ],
- "generatedAt": "2026-10-18"
+ ]
 }

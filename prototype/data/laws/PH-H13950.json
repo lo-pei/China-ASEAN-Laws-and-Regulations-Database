@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13950",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Section One Hundred and Fourteen of Act Numbered Four Hundred and Ninety-Six, Entitled \"the Land Registration Act,\" as Amended, Fixing a New Schedule of Fees for Clerks of Courts and Registers of Deeds.",
+  "orig": "An Act to Amend Section One Hundred and Fourteen of Act Numbered Four Hundred and Ninety-Six, Entitled \"the Land Registration Act,\" as Amended, Fixing a New Schedule of Fees for Clerks of Courts and Registers of Deeds."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1926-12-03",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3315",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 643,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1926/act_3315_1926.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03315_1926_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03315_1926_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13950-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section one hundred and fourteen of Act Numbered Four hundred and ninety-six, entitled \"The\nLand Registration Act,\" as amended, is hereby further amended by inserting at the end thereof, the following\nadditional clause:\n\"Notwithstanding the rates hereinabove provided, in all other contracts where the actual value of the\nencumbrance or real right sought to be registered is not fixed in the contract or cannot be determined from the\nterms thereof, the basis for fixing the registration fees shall be the assessed value during the current year of the\nproperty affected.\""
+   }
+  },
+  {
+   "id": "PH-H13950-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, December 3, 1926."
+   }
+  }
+ ]
+}

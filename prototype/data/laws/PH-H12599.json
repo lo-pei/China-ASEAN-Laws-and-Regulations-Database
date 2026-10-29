@@ -1,0 +1,62 @@
+{
+ "id": "PH-H12599",
+ "title": {
+  "zh": null,
+  "en": "An Act Authorizing the Governor-General to Convey or Lease to the Provinces and Municipalities the Private Property of the Insular Government.",
+  "orig": "An Act Authorizing the Governor-General to Convey or Lease to the Provinces and Municipalities the Private Property of the Insular Government."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1909-05-10",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 1890",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1148,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1909/act_1890_1909.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_01890_1909_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_01890_1909_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12599-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "In all cases in which the Insular Government owns real property in any province or municipality\nof the Philippine Islands, and in which the provincial or municipal authorities, as the case may be, desire to\nacquire or lease the said property, or to exchange for it property belonging to the province of the municipality\nthe Governor-General is hereby authorized and empowered to donate, sell, lease, exchange or in any other\nmanner convey the said property of the Insular Government, or any part thereof, to any province or\nmunicipality wherein it may be situated, and upon such terms and conditions as in his discretion may be most\nconvenient for the interest of the Insular government any contracts, deeds, leases, or other instruments which\nmay be necessary to execute the donation, sale, lease, exchange or other conveyance whatsoever of the said\nproperty, as aforesaid: Provided however, That this Act shall not be construed to modify or repeal any existing\nActs that provide for the sale or lease under certain conditions of public property belonging to the Insular\nGovernment."
+   }
+  },
+  {
+   "id": "PH-H12599-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, May 10, 1909."
+   }
+  }
+ ]
+}

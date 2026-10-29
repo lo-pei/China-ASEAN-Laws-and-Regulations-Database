@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13322",
+ "title": {
+  "zh": null,
+  "en": "An Act to Appropriate the Sum of One Hundred and Fifty thousand Pesos or So Much thereof as May Be Necessary, for Charitable Purposes.",
+  "orig": "An Act to Appropriate the Sum of One Hundred and Fifty thousand Pesos or So Much thereof as May Be Necessary, for Charitable Purposes."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1917-01-10",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2671",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 785,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1917/act_2671_1917.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02671_1917_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02671_1917_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13322-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "There is hereby appropriated, out of any funds in the Insular Treasury not otherwise\nappropriated, the sum of one hundred and fifty, thousand pesos, or so much thereof as may be necessary, to be\ndisbursed, in the discretion of the Secretary of the Interior, in connection with the care and treatment of\npatients in the several hospitals of Manila and the provinces, the maintenance of beds for advanced cases of\ntuberculosis, the usual dispensing of free medicine at the several dispensaries, the maintenance and care of\ninvalids, orphans, and indigent insane, and in general, for such other work or expenditures related to public\nbeneficence and charity as said Secretary of the Interior may authorize and direct."
+   }
+  },
+  {
+   "id": "PH-H13322-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, January 10, 1917."
+   }
+  }
+ ]
+}

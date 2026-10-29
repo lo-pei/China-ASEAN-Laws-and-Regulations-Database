@@ -1,0 +1,72 @@
+{
+ "id": "PH-H16358",
+ "title": {
+  "zh": null,
+  "en": "An Act Amending Section One of Commonwealth Act Numbered Two Hundred and Twenty-three and Appropriating three Hundred thousand Pesos as Additional Fund for the Award of Increased Air Mail Contracts.",
+  "orig": "An Act Amending Section One of Commonwealth Act Numbered Two Hundred and Twenty-three and Appropriating three Hundred thousand Pesos as Additional Fund for the Award of Increased Air Mail Contracts."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1941-06-16",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 650",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1622,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00650_1941_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00650_1941_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H16358-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section one of Commonwealth Act Numbered Two hundred and twenty-three is amended to\nread as follows:\n\"Section 1. The Secretary of Public Works and Communications, with the approval of the President of the\nPhilippines, is authorized to enter, from time to time, into contracts for the transportation of mails by air\nbetween any points within the Philippines for periods not to exceed five years. The base rate of pay in\nawarding such contract shall in no case exceed one peso per airplane mile for transporting a mail load not to\nexceed three hundred pounds. In fixing the base rate of pay, the passenger capacity of the planes carrying the\nmails should be taken into consideration. Payment for transportation shall be at the base rate fixed in the\ncontract for the first three hundred pounds of mail, or fraction thereof, plus one-tenth of such base rate for\neach additional one hundred pounds of mail or fraction thereof, computed at the end of each calendar month\non the basis of the average mail load carried by mile over the route during such months."
+   }
+  },
+  {
+   "id": "PH-H16358-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "There is appropriated, out of any funds in the Philippine Treasury not otherwise appropriated,\nthe sum of three hundred thousand pesos as additional fund for the extension of air routes and for the increase\nin base rate of the air mail contracts: Provided, That in subsequent years the sum of four hundred and fifty\nthousand pesos shall be included in the Appropriation Act. The unexpended balance at the end of such year\nshall revert to the unappropriated general funds in the Philippine Treasury."
+   }
+  },
+  {
+   "id": "PH-H16358-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nAPPROVED, June 16, 1941."
+   }
+  }
+ ]
+}

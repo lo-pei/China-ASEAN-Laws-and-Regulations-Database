@@ -1,0 +1,650 @@
+{
+ "id": "VN-H301",
+ "title": {
+  "zh": "土地改革法",
+  "en": "Law on land reform",
+  "vi": "Luật Cải cách ruộng đất",
+  "orig": "Luật Cải cách ruộng đất số Không số",
+  "th": "พระราชบัญญัติการปฏิรูปที่ดิน",
+  "id": "Undang-Undang Reformasi Agraria",
+  "ms": "Akta Pembaharuan Tanah"
+ },
+ "country": "VN",
+ "countryName": "越南",
+ "layer": "intl",
+ "pack": "vn-p06",
+ "language": "vi",
+ "level": "law",
+ "category": "05_其他及未分类",
+ "status": "active",
+ "promulgatedDate": "1953",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "国会",
+ "docNumber": "Không số",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 38,
+ "chars": 17398,
+ "source": {
+  "name": "越南法律数据库（vbpl.vn 官方公报文本）",
+  "url": "https://vbpl.vn/van-ban/chi-tiet/luat-cai-cach-ruong-dat-so-khong-so--1105"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\VN\\05_其他及未分类\\1953_Không số_Luật Cải cách ruộng đất số Không số.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 38 条；逐字未改写（源自 VN）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "VN-H301-A1",
+   "no": 1,
+   "noLabel": {
+    "vi": "Điều 1"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG I"
+   },
+   "heading": {
+    "vi": "- Mục đích và ý nghĩa cải cách ruộng đất là:"
+   },
+   "text": {
+    "vi": "Điều 1. - Mục đích và ý nghĩa cải cách ruộng đất là:\n\nThủ tiêu quyền chiếm hữu ruộng đất của thực dân Pháp và của đế quốc xâm lược khác ở Việt Nam, xoá bỏ chế độ phong kiến chiếm hữu ruộng đất của giai cấp địa chủ,\n\nĐể thực hiện chế độ sở hữu ruộng đất của nông dân,\n\nĐể giải phóng sức sản xuất ở nông thôn, đẩy mạnh sản xuất nông nghiệp và mở đường cho công thương nghiệp phát triển,\n\nĐể cải thiện đời sống của nông dân, bồi dưỡng lực lượng của nhân dân, lực lượng của kháng chiến,\n\nĐể đẩy mạnh kháng chiến, hoàn thành giải phóng dân tộc, củng cố chế độ dân chủ nhân dân, phát triển công cuộc kiến quốc.\n\nChương II\n\nTỊCH THU, TRƯNG THU, TRƯNG MUA RUỘNG ĐẤT\n\nMỤC I\n\nĐỐI VỚI RUỘNG ĐẤT VÀ TÀI SẢN CỦA THỰC DÂN PHÁP VÀ CỦA ĐẾ QUỐC\n\nXÂM LƯỢC KHÁC; CỦA ĐỊA CHỦ VIỆT GIAN, PHẢN ĐỘNG,\n\nCƯỜNG HÀO GIAN ÁC."
+   }
+  },
+  {
+   "id": "VN-H301-A2",
+   "no": 2,
+   "noLabel": {
+    "vi": "Điều 2"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "- Tịch thu toàn bộ ruộng đất và tài sản của thực dân Pháp và của đề quốc xâm lược khác."
+   },
+   "text": {
+    "vi": "Điều 2. - Tịch thu toàn bộ ruộng đất và tài sản của thực dân Pháp và của đề quốc xâm lược khác."
+   }
+  },
+  {
+   "id": "VN-H301-A3",
+   "no": 3,
+   "noLabel": {
+    "vi": "Điều 3"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "- Đối với địa chủ Việt gian, phản động, cường hào gian ác, thì tuỳ tội nặng nhẹ mà tịch thu toàn bộ hoặc một phần ruộng đất, trâu bò, nông cụ, lương thực thừa, nhà cửa thừa và tài sản khác."
+   },
+   "text": {
+    "vi": "Điều 3. - Đối với địa chủ Việt gian, phản động, cường hào gian ác, thì tuỳ tội nặng nhẹ mà tịch thu toàn bộ hoặc một phần ruộng đất, trâu bò, nông cụ, lương thực thừa, nhà cửa thừa và tài sản khác.\n\nPhần không tịch thu thì trưng thu.\n\nMỤC II\n\nĐỐI VỚI RUỘNG ĐẤT VÀ TÀI SẢN CỦA NHÂN SĨ DÂN CHỦ, ĐỊA CHỦ\n\nKHÁNG CHIẾN, ĐỊA CHỦ THƯỜNG."
+   }
+  },
+  {
+   "id": "VN-H301-A4",
+   "no": 4,
+   "noLabel": {
+    "vi": "Điều 4"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "- Đối với nhân sĩ dân chủ, địa chủ kháng chiến, địa chủ thường, thì:"
+   },
+   "text": {
+    "vi": "Điều 4. - Đối với nhân sĩ dân chủ, địa chủ kháng chiến, địa chủ thường, thì:\n\nTrưng thu toàn bộ ruộng đất hiện có cùng trâu bò và nông cụ.\n\nKhông đụng đến tài sản khác.\n\nGiá trưng mua ruộng đất là giá sản lượng trung bình hàng năm của ruộng đất trưng mua.\n\nGiá trưng mua trâu bò, nông cụ là giá thị trường ở địa phương.\n\nGiá trưng mua được trả bằng một loại công phiếu riêng.\n\nCông phiếu ấy được trả lãi 1,5 phần trăm mỗi năm.\n\nSau thời hạn mười năm sẽ hoàn vốn.\n\nMỤC 3\n\nĐỐI VỚI RUỘNG ĐẤT CỦA ĐỊA CHỦ ĐÃ PHÂN TÁN."
+   }
+  },
+  {
+   "id": "VN-H301-A5",
+   "no": 5,
+   "noLabel": {
+    "vi": "Điều 5"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "- Từ ngày ban hành sắc lệnh giảm tô (14 tháng 7 năm 1949) đến ngày ban hành sắc lệnh phát động quần chúng triệt để giảm tô (12 tháng 4 năm 1953), việc phân tán ruộng đất của địa chủ với mục đích trốn tránh sắc lệnh giảm tô và sắc lệnh thuế nông nghiệp, là không chính đáng."
+   },
+   "text": {
+    "vi": "Điều 5. - Từ ngày ban hành sắc lệnh giảm tô (14 tháng 7 năm 1949) đến ngày ban hành sắc lệnh phát động quần chúng triệt để giảm tô (12 tháng 4 năm 1953), việc phân tán ruộng đất của địa chủ với mục đích trốn tránh sắc lệnh giảm tô và sắc lệnh thuế nông nghiệp, là không chính đáng.\n\nĐối với ruộng đất của địa chủ đã phân tán trong trường hợp kể trên, thì xử trí như sau:\n\n1) Ruộng đất đã phân tán vào tay địa chủ thì tịch thu, trưng thu hoặc trưng mua tuỳ trường hợp, như đã quy định ở điều 3 và điều 4.\n\nGiá trưng mua ruộng đất phân tán nói trên là nguyên giá lúc mua.\n\nGiá trưng mua đó được trả cho địa chủ đã mua ruộng đất phân tán bằng công phiếu.\n\n2) Ruộng đất đã phân tán vào tay phú nông thì trưng mua theo nguyên giá lúc mua.\n\nGiá trưng mua sẽ trả dần trong thời hạn không quá năm năm, bằng tiền hay hiện vật.\n\n3) Ruộng đất đã phân tán vào tay trung nông thì coi đó là việc trong nội bộ nông dân lao động, dùng lối thuyết phục mà dàn xếp một cách thoả thuận, để trung nông tự động nhường lại cho nông dân không có ruộng đất hoặc thiếu ruộng đất.\n\nKhi trung nông nhường lại, thì phải đảm bảo cho họ còn số diện tích không dưới mức bình quân chiến hữu hiện nay của trung nông trong xã.\n\nTrung nông nhường ruộng đất được Chính phủ đền bù bằng tiền hay hiện vật theo nguyên giá lúc mua.\n\n4) Ruộng đất đã phân tán vào tay bần cố nông thì không đụng đến.\n\n5) Ruộng đất đã phân tán vào tay tư sản dân tộc thì trưng mua theo nguyên giá lúc mua.\n\nGiá trưng mua sẽ trả dần trong thời hạn không quá năm năm, bằng tiền hay hiện vật.\n\n6) Ruộng đất đã phân tán vào tay các tầng lớp tiểu tư sản, thì thuyết phục họ tự động nhường lại cho nông dân không có ruộng đất hoặc thiếu ruộng đất.\n\nNếu họ không đủ sống với nghề chính, thì phải để lại cho họ một phần ruộng đất để bù cho họ đủ sống.\n\nNgười nhường ruộng đất được Chính phủ đến bù bằng tiền hay hiện vật theo nguyên giá lúc mua."
+   }
+  },
+  {
+   "id": "VN-H301-A6",
+   "no": 6,
+   "noLabel": {
+    "vi": "Điều 6"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "- Từ ngày ban hành sắc lệnh phát động quần chúng thực hiện giảm tô (12 tháng 4 năm 1953), những việc phân tán ruộng đất trái phép của địa chủ đều không được thừa nhận."
+   },
+   "text": {
+    "vi": "Điều 6. - Từ ngày ban hành sắc lệnh phát động quần chúng thực hiện giảm tô (12 tháng 4 năm 1953), những việc phân tán ruộng đất trái phép của địa chủ đều không được thừa nhận.\n\nRuộng đất địa chủ phân tán trái phép bị tịch thu.\n\nĐịa chủ trái phép phải bồi thường thiệt hại cho người đã nhận ruộng đất phân tán đó."
+   }
+  },
+  {
+   "id": "VN-H301-A7",
+   "no": 7,
+   "noLabel": {
+    "vi": "Điều 7"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "- Nay xó bỏ nợ mà nông dân lao động và các tầng lớp nghèo ở nông thôn đã vay của địa chủ."
+   },
+   "text": {
+    "vi": "Điều 7. - Nay xó bỏ nợ mà nông dân lao động và các tầng lớp nghèo ở nông thôn đã vay của địa chủ."
+   }
+  },
+  {
+   "id": "VN-H301-A8",
+   "no": 8,
+   "noLabel": {
+    "vi": "Điều 8"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "- Nay xoá bỏ độc quyền mặt biển và khúc sông."
+   },
+   "text": {
+    "vi": "Điều 8. - Nay xoá bỏ độc quyền mặt biển và khúc sông.\n\nMỤC 4\n\nĐỐI VỚI RUỘNG ĐẤT CÔNG VÀ NỬA CÔNG NỬA TƯ\n\nVÀ RUỘNG ĐẤT CỦA TÔN GIÁO."
+   }
+  },
+  {
+   "id": "VN-H301-A9",
+   "no": 9,
+   "noLabel": {
+    "vi": "Điều 9"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "- Trưng thu:"
+   },
+   "text": {
+    "vi": "Điều 9. - Trưng thu:\n\n- Công điền, công thổ;\n\n- Ruộng phe, ruộng giáp, ruộng xóm; ruộng tư văn, tư vũ, lộc điền; ruộng hậu, ruộng họ, ruộng môm sinh, v.v..\n\n- Ruộng đất của các đoàn thể."
+   }
+  },
+  {
+   "id": "VN-H301-A10",
+   "no": 10,
+   "noLabel": {
+    "vi": "Điều 10"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "- Ruộng đất của tôn giáo (Nhà Chung, nhà chùa, thánh thất, tu viên, v.v...) thì trưng thu và trưng mua."
+   },
+   "text": {
+    "vi": "Điều 10. - Ruộng đất của tôn giáo (Nhà Chung, nhà chùa, thánh thất, tu viên, v.v...) thì trưng thu và trưng mua.\n\nTrường hợp có mua chính đáng thì trưng mua.\n\nMỤC 5\n\nĐỐI VỚI CÁC LOẠI RUỘNG ĐẤT VÀ TÀI SẢN KHÁC.\n\nRUỘNG ĐẤT VÀ TÀI SẢN CỦA ĐỊA CHỦ KIÊM NHÀ CÔNG THƯƠNG NGHIỆP\n\nVÀ CỦA NHÀ CÔNG THƯƠNG NGHIỆP KIÊM ĐỊA CHỦ."
+   }
+  },
+  {
+   "id": "VN-H301-A11",
+   "no": 11,
+   "noLabel": {
+    "vi": "Điều 11"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "- Để khuyến khích sản xuất và phát triển kinh tế quốc dân, công thương nghiệp được bảo hộ."
+   },
+   "text": {
+    "vi": "Điều 11. - Để khuyến khích sản xuất và phát triển kinh tế quốc dân, công thương nghiệp được bảo hộ.\n\nKhông đụng đến công thương nghiệp của địa chủ.\n\nKhông đụng đến đất đại trực tiếp dùng vào việc kinh doanh công thương nghiệp.\n\nNhững ruộng đất khác của địa chủ kiêm nhà công thương nghiệp và của nhà công thương nghiệp kiêm địa chủ thì trưng mua.\n\nRuộng đất và tài sản của những người có ít ruộng đất phát canh hoặc thuê người làm."
+   }
+  },
+  {
+   "id": "VN-H301-A12",
+   "no": 12,
+   "noLabel": {
+    "vi": "Điều 12"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "- Những người có ít ruộng đất, nhưng vì tham gia công tác kháng chiến, vì thiếu sức lao động, vì bận làm nghề khác mà phải phát canh hoặc thuê người làm, thì không coi là địa chủ."
+   },
+   "text": {
+    "vi": "Điều 12. - Những người có ít ruộng đất, nhưng vì tham gia công tác kháng chiến, vì thiếu sức lao động, vì bận làm nghề khác mà phải phát canh hoặc thuê người làm, thì không coi là địa chủ.\n\nKhông đụng đến ruộng đất và tài sản của họ.\n\nRuộng đất và tài sản của phú nông."
+   }
+  },
+  {
+   "id": "VN-H301-A13",
+   "no": 13,
+   "noLabel": {
+    "vi": "Điều 13"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "- Kinh tế phú nông được bảo tồn."
+   },
+   "text": {
+    "vi": "Điều 13. - Kinh tế phú nông được bảo tồn.\n\nKhông đụng đến ruộng đất, trâu bò, nông cụ và tài sản khác của phú nông.\n\nRuộng đất và tài sản của trung nông"
+   }
+  },
+  {
+   "id": "VN-H301-A14",
+   "no": 14,
+   "noLabel": {
+    "vi": "Điều 14"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "- Bảo hộ ruộng đất, trâu bò, nông cụ và tài sản khác của trung nông."
+   },
+   "text": {
+    "vi": "Điều 14. - Bảo hộ ruộng đất, trâu bò, nông cụ và tài sản khác của trung nông.\n\nTrung nông thiếu ruộng đất được chia thêm ruộng đất.\n\nMỤC 6\n\nĐỐI VỚI RUỘNG VẮNG CHỦ VÀ RUỘNG ĐẤT BỎ HOANG\n\nRUỘNG ĐẤT VẮNG CHỦ"
+   }
+  },
+  {
+   "id": "VN-H301-A15",
+   "no": 15,
+   "noLabel": {
+    "vi": "Điều 15"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "- Trưng thu ruộng đất của địa chủ không rõ tông tích."
+   },
+   "text": {
+    "vi": "Điều 15. - Trưng thu ruộng đất của địa chủ không rõ tông tích."
+   }
+  },
+  {
+   "id": "VN-H301-A16",
+   "no": 16,
+   "noLabel": {
+    "vi": "Điều 16"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "- Đối với ruộng đất của địa chủ vắng mặt vì tham gia công tác kháng chiến và của địa chủ tản cư ở vùng tự do mà không phải là Việt gian, phản động, cường hào gian ác, thì trưng mua."
+   },
+   "text": {
+    "vi": "Điều 16. - Đối với ruộng đất của địa chủ vắng mặt vì tham gia công tác kháng chiến và của địa chủ tản cư ở vùng tự do mà không phải là Việt gian, phản động, cường hào gian ác, thì trưng mua."
+   }
+  },
+  {
+   "id": "VN-H301-A17",
+   "no": 17,
+   "noLabel": {
+    "vi": "Điều 17"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "- Đối với ruộng đất ở vùng tự do của địa chủ hiện nay ở vùng tạm bị chiếm, thì tuỳ thái độ chính trị của từng người mà tịch thu, trưng thu hoặc trưng mua."
+   },
+   "text": {
+    "vi": "Điều 17. - Đối với ruộng đất ở vùng tự do của địa chủ hiện nay ở vùng tạm bị chiếm, thì tuỳ thái độ chính trị của từng người mà tịch thu, trưng thu hoặc trưng mua.\n\nNếu là Việt gian, phản động, cường hào gian ác, thì xử trí như đã quy định ở điều 3.\n\nNếu không phải là Việt gian, phản động, cường hào gian ác, thì trưng mua, như đã quy định ở điều 4.\n\nRUỘNG ĐẤT BỎ HOANG"
+   }
+  },
+  {
+   "id": "VN-H301-A18",
+   "no": 18,
+   "noLabel": {
+    "vi": "Điều 18"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "- Trưng thu ruộng đất của địa chủ bỏ hoang bất cứ vì lý do gì."
+   },
+   "text": {
+    "vi": "Điều 18. - Trưng thu ruộng đất của địa chủ bỏ hoang bất cứ vì lý do gì.\n\nRuộng đất không phải của địa chủ mà bỏ hoang quá hai năm không có lý do chính đáng thì trưng thu.\n\nMỤC 7\n\nĐỐI VỚI RUỘNG ĐẤT VÀ TÀI SẢN CỦA NGOẠI KIỀU."
+   }
+  },
+  {
+   "id": "VN-H301-A19",
+   "no": 19,
+   "noLabel": {
+    "vi": "Điều 19"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "- Về nguyên tắc, ngoại kiều không có quyền chiếm hữu ruộng đất ở Việt Nam."
+   },
+   "text": {
+    "vi": "Điều 19. - Về nguyên tắc, ngoại kiều không có quyền chiếm hữu ruộng đất ở Việt Nam.\n\nNgoại kiều được phép sử dụng ruộng đất ở Việt Nam.\n\nNgoại kiều nông dân từ trước đến nay sống ở nông thôn về nghề cày cấy, trồng trọt, nếu làm mọi bổn phận như người Việt Nam thì được quyền sở hữu ruộng đất."
+   }
+  },
+  {
+   "id": "VN-H301-A20",
+   "no": 20,
+   "noLabel": {
+    "vi": "Điều 20"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "- Đối với địa chủ ngoại kiều hợp tác với địch hoặc là phản động, cường hào gian ác, thì tịch thu toàn bộ hoặc một phần ruộng đất và tài sản, tuỳ tội nặng nhẹ."
+   },
+   "text": {
+    "vi": "Điều 20. - Đối với địa chủ ngoại kiều hợp tác với địch hoặc là phản động, cường hào gian ác, thì tịch thu toàn bộ hoặc một phần ruộng đất và tài sản, tuỳ tội nặng nhẹ.\n\nPhần không tịch thu thì trưng mua.\n\nĐối với địa chủ ngoại kiều không hợp tác với địch, không phải là phản động, cường hào gian ác, thì trưng mua toàn bộ ruộng đất, trâu bò và nông cụ.\n\nCHƯƠNG III\n\nCÁCH CHIA RUỘNG ĐẤT\n\nMỤC 1\n\nRUỘNG ĐẤT, TÀI SẢN CHIA, VÀ RUỘNG ĐẤT, TÀI SẢN KHÔNG CHIA."
+   }
+  },
+  {
+   "id": "VN-H301-A21",
+   "no": 21,
+   "noLabel": {
+    "vi": "Điều 21"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {
+    "vi": "- Trừ trường hợp quy định ở điều 22, những thứ tịch thu, trưng thu, trưng mua đều chia cho công dân:"
+   },
+   "text": {
+    "vi": "Điều 21. - Trừ trường hợp quy định ở điều 22, những thứ tịch thu, trưng thu, trưng mua đều chia cho công dân:\n\n1) Ruộng đất, trâu bò, nông cụ và tài sản khác.\n\n2) Đồi, vườn trồng cây ăn quả, trồng chè, chẩu, cọ, sơn, dó, v.v. ..\n\nGặp trường hợp chia mà có hại cho sản xuất thì không chia.\n\nNếu không chia, thi do chính quyền quản lý, hoặc chính quyền giao cho chủ cũ quản lý."
+   }
+  },
+  {
+   "id": "VN-H301-A22",
+   "no": 22,
+   "noLabel": {
+    "vi": "Điều 22"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {
+    "vi": "- Những thứ không chia:"
+   },
+   "text": {
+    "vi": "Điều 22. - Những thứ không chia:\n\n1) Ruộng đất trồng trọt bằng máy móc; đồn điền trồng cà phê, cao su hoặc trồng cây công nghiệp khác; vườn trồng cây ăn quả bằng kỹ thuật tiến bộ; đồn điền thí nghiệm, bãi phi lao ở bờ biển, v.v. ..\n\n2) Rừng núi lớn, hầm mỏ; hồ lớn, sông ngòi, công trình thuỷ lợi, đê điều; đất ở ven đường xe lửa, đường xá, đất thuộc các đô thị, thị trấn, đất dùng vào các công trình lợi ích chung, v.v...\n\n3) Cảnh vật có tiếng trong lịch sử, hoặc có giá trị về văn hoá, lâu đài, đền, miếu; sách vở tài liệu chính trị và văn hoá, v. v..., nghĩa địa và lăng tẩm, v.v...\n\nĐất đai, nhà cửa và tài sản kể trên là của nhà nước và của chung nhân dân, do chính quyền quản lý."
+   }
+  },
+  {
+   "id": "VN-H301-A23",
+   "no": 23,
+   "noLabel": {
+    "vi": "Điều 23"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {
+    "vi": "- Trong khi chia phải để lại ở mỗi xã một số ruộng đất để dùng vào những việc sau đây: đón thương binh về làng; dự phòng sau này chia cho những người ở xa về; làm trụ sở cho cơ quan, làm trường học v.v..."
+   },
+   "text": {
+    "vi": "Điều 23. - Trong khi chia phải để lại ở mỗi xã một số ruộng đất để dùng vào những việc sau đây: đón thương binh về làng; dự phòng sau này chia cho những người ở xa về; làm trụ sở cho cơ quan, làm trường học v.v..."
+   }
+  },
+  {
+   "id": "VN-H301-A24",
+   "no": 24,
+   "noLabel": {
+    "vi": "Điều 24"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {
+    "vi": "- Ruộng đất do nông dân và các tầng lớp nhân dân lao động khác khai phá từ Cách mạng Tháng Tám thuộc quyền sở hữu của những người đã có công khai phá."
+   },
+   "text": {
+    "vi": "Điều 24. - Ruộng đất do nông dân và các tầng lớp nhân dân lao động khác khai phá từ Cách mạng Tháng Tám thuộc quyền sở hữu của những người đã có công khai phá.\n\nKhông được đụng đến ruộng đất đó.\n\nMỤC 2\n\nNGƯỜI ĐƯỢC CHIA."
+   }
+  },
+  {
+   "id": "VN-H301-A25",
+   "no": 25,
+   "noLabel": {
+    "vi": "Điều 25"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {
+    "vi": "- Những người sau đây được chia:"
+   },
+   "text": {
+    "vi": "Điều 25. - Những người sau đây được chia:\n\n1) Nông dân không có ruộng đất hoặc thiếu ruộng đất: bần cố nông và trung nông thiếu ruộng đất.\n\nPhú nông làm tá điền thiếu ruộng đất cũng được chia.\n\n2) Đối với những tầng lớp nghèo ở nông thôn (người làm nghề thủ công, người làm hàng xay hàng xáo, người buôn thúng, bán mẹt, người làm nghề đánh cá, người làm nghề tự do, v.v. ..), nếu không đủ sống và có sức cày cấy, thì được chia một phần để bù thêm cho đủ sống.\n\n3) Những người sau đây, nếu gia đình họ ở nông thôn và thuộc hạng được chia, thì được chia một phần ngang với phần chia cho nông dân:\n\na) Liệt sĩ, quân nhân cách mạng, thương binh, bệnh binh.\n\nb) Cán bộ chính quyền và đoàn thể; nhân viên phục vụ kháng chiến, công nhân các xí nghiệp quốc doanh.\n\n4) Công nhân thất nghiệp, và gia đình họ ở nông thôn, nếu không có nghề khác để sống và có sức cày cấy, thì được chia.\n\n5) Những người tản cư về nông thôn, nếu không đủ sống, có sức cày cấy, yêu cầu được chia, và nông dân nơi họ tản cư đồng ý, thì cũng được chia.\n\nHọ chỉ được phép sử dụng mà không có quyền sở hữu ruộng đất được chia.\n\n6) Nhà Chung, nhà chùa, từ đường họ, và các cơ quan tôn giáo khác, được để lại một phần ruộng đất để dùng vào việc thờ cúng.\n\nPhần ruộng đất ấy do nhân dân địa phương bình nghị và Uỷ ban Kháng chiến Hành chính tỉnh xét định.\n\nTrường hợp đặc biệt quan trọng do cấp trên quyết định.\n\nNhững người làm nghề tôn giáo, nếu không đủ sống, có sức cày cấy và yêu cầu, thì được chia một phần ruộng đất ở nơi họ hoạt động, hoặc ở quê quán họ.\n\n7) Nhân sĩ dân chủ, địa chủ kháng chiến, địa chủ thường, và gia đình của họ, được chia một phần xấp xỉ với phần chia cho nông dân.\n\nNhân sĩ dân chủ, địa chủ kháng chiến được chiếu cố một cách thích đáng.\n\n8) Việt gian, phản động, cường hào gian ác bị xử phạt trên năm năm tù thì không được chia; từ năm năm tù trờ xuống thì được chia.\n\nGia đình họ vẫn được chia.\n\n9) Gia đình ngụy binh ở nông thôn thuộc hạng được chia, thì cũng được chia.\n\nNgụy binh cũng được chia một phần ruộng đất. Nhưng khi họ chưa bỏ hàng ngũ ngụy quân trở về với Tổ quốc, thì ruộng đất ấy do Uỷ ban Kháng chiến Hành chính hay Nông Hội xã tạm giữ.\n\n10) Ngoại kiều và gia đình họ, nếu không có nghề đủ sống, có sức cày cấy, và yêu cầu, thì được chia một phần ruộng đất.\n\nMỤC 3\n\nNGUYÊN TẮC CHIA."
+   }
+  },
+  {
+   "id": "VN-H301-A26",
+   "no": 26,
+   "noLabel": {
+    "vi": "Điều 26"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {
+    "vi": "- Nguyên tắc chia là:"
+   },
+   "text": {
+    "vi": "Điều 26. - Nguyên tắc chia là:\n\n- Thiếu nhiều chia nhiều, thiếu ít chia ít, không thiếu không chia;\n\n- Chia trên cơ sở nguyên canh, rút nhiều bù ít, rút tốt bù xấu, rút gần bù xa;\n\n- Chia theo nhân khẩu chứ không theo sức lao động;\n\n- Lấy số diện tích bình quân và số sản lượng bình quân ở địa phương làm tiêu chuẩn để chia;\n\n- Chia theo đơn vị xã; song nếu xã ít người nhiều ruộng, thì có thể san sẻ một phần cho xã khác ít ruộng nhiều người, sau khi đã chia đủ cho nông dân trong xã."
+   }
+  },
+  {
+   "id": "VN-H301-A27",
+   "no": 27,
+   "noLabel": {
+    "vi": "Điều 27"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {
+    "vi": "- Trong khi chia ruộng đất, phải chiếu cố đến quyền lợi của tá điền trung nông."
+   },
+   "text": {
+    "vi": "Điều 27. - Trong khi chia ruộng đất, phải chiếu cố đến quyền lợi của tá điền trung nông.\n\nKhi rút phần ruộng đất mà tá điền trung nông đang cày cấy, thì phải để lại cho họ một phần; phần ruộng đất để lại cộng với số ruộng đất tư của họ phải nhiều hơn số bình quân được chia một ít và không quá số bình quân chiếm hữu của mỗi nhân khẩu trong xã."
+   }
+  },
+  {
+   "id": "VN-H301-A28",
+   "no": 28,
+   "noLabel": {
+    "vi": "Điều 28"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {
+    "vi": "- Liệt sĩ, quân nhân cách mạng, thương binh, bệnh binh được ưu đãi trong khi chia."
+   },
+   "text": {
+    "vi": "Điều 28. - Liệt sĩ, quân nhân cách mạng, thương binh, bệnh binh được ưu đãi trong khi chia.\n\nGia đình của họ được chiếu cố."
+   }
+  },
+  {
+   "id": "VN-H301-A29",
+   "no": 29,
+   "noLabel": {
+    "vi": "Điều 29"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {
+    "vi": "- Đối với những nhà nông dân nghèo chỉ có một hai người mà có sức lao động, nếu xã có đủ ruộng đất thì có thể chia cho họ nhiều hơn phần của những người khác."
+   },
+   "text": {
+    "vi": "Điều 29. - Đối với những nhà nông dân nghèo chỉ có một hai người mà có sức lao động, nếu xã có đủ ruộng đất thì có thể chia cho họ nhiều hơn phần của những người khác."
+   }
+  },
+  {
+   "id": "VN-H301-A30",
+   "no": 30,
+   "noLabel": {
+    "vi": "Điều 30"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {
+    "vi": "- Để khuyến khích tăng gia sản xuất, ruộng đất vỡ hoang chưa quá ba năm của nông dân không tính vào số ruộng đất của họ trong khi chia."
+   },
+   "text": {
+    "vi": "Điều 30. - Để khuyến khích tăng gia sản xuất, ruộng đất vỡ hoang chưa quá ba năm của nông dân không tính vào số ruộng đất của họ trong khi chia.\n\nMỤC 4\n\nQUYỀN CỦA NGƯỜI ĐƯỢC CHIA."
+   }
+  },
+  {
+   "id": "VN-H301-A31",
+   "no": 31,
+   "noLabel": {
+    "vi": "Điều 31"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG III"
+   },
+   "heading": {
+    "vi": "- Người được chia ruộng đất có quyền sở hữu ruộng đất đó, và không phải trả cho địa chủ hay chính quyền bất cứ một khoản nào."
+   },
+   "text": {
+    "vi": "Điều 31. - Người được chia ruộng đất có quyền sở hữu ruộng đất đó, và không phải trả cho địa chủ hay chính quyền bất cứ một khoản nào.\n\nChính quyền cấp giấy chứng nhận quyền sở hữu ấy cho người được chia. Mọi khế ước cũ đều huỷ bỏ.\n\nNgười được chia có quyền chia gia tài, cầm, bán, cho, v.v. .. ruộng đất được chia.\n\nChương IV\n\nCƠ QUAN CHẤP HÀNH VÀ PHƯƠNG PHÁP\n\nTHỰC HIỆN CẢI CÁCH RUỘNG ĐẤT."
+   }
+  },
+  {
+   "id": "VN-H301-A32",
+   "no": 32,
+   "noLabel": {
+    "vi": "Điều 32"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "- Trong thời gian cải cách ruộng đất, sẽ lập Uỷ ban cải cách ruộng đất ở Trung ương, khu và tỉnh."
+   },
+   "text": {
+    "vi": "Điều 32. - Trong thời gian cải cách ruộng đất, sẽ lập Uỷ ban cải cách ruộng đất ở Trung ương, khu và tỉnh.\n\nDưới sự lãnh đạo của chính quyền, Uỷ ban cải cách ruộng đất có nhiệm vụ thi hành luật cải cách ruộng đất, và lãnh đạo cụ thể cuộc phát động quần chúng thực hiện cải cách ruộng đất."
+   }
+  },
+  {
+   "id": "VN-H301-A33",
+   "no": 33,
+   "noLabel": {
+    "vi": "Điều 33"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "- ở cấp xã, hội nghị đại biểu nông dân toàn xã, ban chấp hành Nông Hội xã là những cơ quan hợp pháp chấp hành luật cải cách ruộng đất."
+   },
+   "text": {
+    "vi": "Điều 33. - ở cấp xã, hội nghị đại biểu nông dân toàn xã, ban chấp hành Nông Hội xã là những cơ quan hợp pháp chấp hành luật cải cách ruộng đất."
+   }
+  },
+  {
+   "id": "VN-H301-A34",
+   "no": 34,
+   "noLabel": {
+    "vi": "Điều 34"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "- Khi phân định thành phần giai cấp, phải theo đúng điều lệ phân định thành phần giai cấp ở nông thôn do Chính phủ quy định."
+   },
+   "text": {
+    "vi": "Điều 34. - Khi phân định thành phần giai cấp, phải theo đúng điều lệ phân định thành phần giai cấp ở nông thôn do Chính phủ quy định.\n\nThành phần giai cấp do hội nghị đại biểu nông dân bình nghị và quyết định. Người đương sự phải được dự hội nghị để tham gia bàn định.\n\nQuyết định của xã về thành phần giai cấp phải do Uỷ ban Kháng chiến Hành chính tỉnh duyệt y, hoặc do cơ quan được Uỷ ban Kháng chiến Hành chính tỉnh uỷ quyền, duyệt y.\n\nGặp trường hợp tranh chấp, thì phải đưa ra Toà án Nhân dân Đặc biệt xét định."
+   }
+  },
+  {
+   "id": "VN-H301-A35",
+   "no": 35,
+   "noLabel": {
+    "vi": "Điều 35"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "- Nghiêm cấm mọi hành động chống lại hoặc phá hoại phong trào phát động quần chúng cải cách ruộng đất."
+   },
+   "text": {
+    "vi": "Điều 35. - Nghiêm cấm mọi hành động chống lại hoặc phá hoại phong trào phát động quần chúng cải cách ruộng đất.\n\nTừ lúc ban hành luật cải cách ruộng đất đến lúc tuyên bố kết thúc cuộc cải cách ruộng đất, tuyệt đối cấm địa chủ chuyển dịch ruộng đất, trâu bò, nông cụ bằng bất cứ hình thức nào.\n\nKẻ phạm pháp do Toà án Nhân dân Đặc biệt xét xử."
+   }
+  },
+  {
+   "id": "VN-H301-A36",
+   "no": 36,
+   "noLabel": {
+    "vi": "Điều 36"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "- ở những nơi phát động quần chúng thực hiện cải cách ruộng đất, sẽ lập Toà án Nhân dân Đặc biệt."
+   },
+   "text": {
+    "vi": "Điều 36. - ở những nơi phát động quần chúng thực hiện cải cách ruộng đất, sẽ lập Toà án Nhân dân Đặc biệt.\n\nToà án Nhân dân Đặc biệt có nhiệm vụ:\n\n1) Xét xử Việt gian, phản động, cường hào gian ác và những kẻ chống lại hoặc phá hoại cải cách ruộng đất;\n\n2) Xét xử những vụ tranh chấp về ruộng đất và tài sản có liên quan đến cải cách ruộng đất;\n\n3) Xét xử những vụ tranh chấp về phân định thành phần giai cấp.\n\nĐối với kẻ phạm pháp thì xét xử theo pháp luật.\n\nNghiêm cấm bắt bớ và giết chóc trái phép, đánh đập, tra tấn hoặc dùng mọi thứ nhục hình khác.\n\nĐiều lệ tổ chức Toà án Nhân dân Đặc biệt do Chính phủ, quy định.\n\nCHƯƠNG V\n\nĐIỀU KHOẢN THI HÀNH"
+   }
+  },
+  {
+   "id": "VN-H301-A37",
+   "no": 37,
+   "noLabel": {
+    "vi": "Điều 37"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG V"
+   },
+   "heading": {
+    "vi": "- Luật cải cách ruộng đất này định cho toàn quốc."
+   },
+   "text": {
+    "vi": "Điều 37. - Luật cải cách ruộng đất này định cho toàn quốc.\n\nVùng tự do có đủ điều kiện thì thi hành trước. Các vùng khác chưa đủ điều kiện, thì thi hành sau.\n\nChính phủ sẽ định trong vùng tự do, nơi nào thi hành trước, nơi nào thi hành sau.\n\nĐối với những vùng dân tộc thiểu số, tuỳ theo tình hình, Chính phủ sẽ quy định riêng."
+   }
+  },
+  {
+   "id": "VN-H301-A38",
+   "no": 38,
+   "noLabel": {
+    "vi": "Điều 38"
+   },
+   "chapter": {
+    "vi": "CHƯƠNG V"
+   },
+   "heading": {
+    "vi": "- Chủ tịch nước Việt Nam Dân chủ Cộng hoà ban bố luật cải cách ruộng đất."
+   },
+   "text": {
+    "vi": "Điều 38. - Chủ tịch nước Việt Nam Dân chủ Cộng hoà ban bố luật cải cách ruộng đất.\n\nChính phủ quy định chi tiết và chịu trách nhiệm thi hành luật cải cách ruộng đất này.\n\nLuật này do Quốc hội nước Việt Nam dân chủ cộng hoà thông qua trong khoá họp lần thứ III ngày 4 tháng 12 năm 1953\n\n CHỦ TỊCH NƯỚC\n\n (Đã ký)\n\n Hồ Chí Minh\n\n1:{\"id\":\"1105\",\"docType\":{\"id\":\"11025e19-2dd6-4165-85ad-ab6241186a1a\",\"name\":\"Luật\",\"code\":\"Lu\",\"parentCode\":\"VBQPPL\",\"parentName\":null},\"docGroup\":\"VBQPPL\",\"docNum\":\"Không số\",\"title\":\"Luật Cải cách ruộng đất số Không số\",\"applicationNote\":null,\"issueDate\":\"1953-12-04T01:00:00\",\"effFrom\":\"1953-12-19T01:00:00\",\"effTo\":null,\"publicDate\":null,\"effStatus\":{\"id\":\"1419f6be-4a15-44a7-97ac-ea042770a514\",\"name\":\"Còn hiệu lực\",\"code\":\"CHL\",\"parentCode\":null,\"parentName\":null},\"status\":\"Publish\",\"lang\":\"vi\",\"defaultLanguage\":\"VN\",\"updatedBy\":\"dungdvm_II.2\",\"updatedDate\":\"2026-04-04T11:39:15\",\"agencyName\":\"Quốc hội\",\"organization\":{\"id\":\"783ea33b-f8f2-4b76-b9e3-3350273eb0b0\",\"code\":\"BNNVMT\",\"name\":\"Bộ Nông nghiệp và Môi trường\",\"nameEn\":\"Bộ Nông nghiệp và Môi trường\",\"shortName\":\"BNNVMT\",\"orgType\":\"0\"},\"isLw\":true,\"documentContent\":{\"id\":\"1105\",\"title\":null,\"content\":\"$2\"},\"documentContentEn\":null,\"documentContentFileName\":null,\"documentContentFileDocName\":\"Khong so.doc\",\"documentIssues\":[{\"id\":\"80bb77be-699c-4e55-bf01-88ae76c00888\",\"agencyId\":\"55\",\"agencyName\":\"Quốc hội\",\"agencyNameEn\":\"National Assembly of Vietnam\",\"agencyCode\":\"QH\",\"personId\":\"303\",\"personName\":\"Hồ Chí Minh\",\"jobTitleId\":\"ddf1368c-1720-4af8-a79e-d09e04ff6f55\",\"jobTitleCode\":\"CTN\",\"jobTitleName\":\"Chủ tịch nước\",\"orderIndex\":1}],\"documentMajors\":[],\"documentFields\":[{\"id\":\"76e2c0d5-e93e-4ee9-8c72-59dae1167432\",\"name\":\"Chưa phân loại\",\"code\":null,\"parentCode\":null,\"parentName\":null}],\"documentRelatedList\":[{\"id\":\"216c9ffe-74c7-4004-a346-21b4fecb2b0b\",\"fileName\":\"1105_body_content.html\",\"relatedType\":\"MARKDOWN\",\"fileTitle\":\"1105_body_content.html\",\"fileOrder\":null}],\"provisionTree\":null,\"references\":null,\"isEffectAllDocument\":false,\"isOld\":true,\"reviewStatus\":\"FPT_RV_DONE\",\"reviewed\":true,\"isTranslationDoc\":false,\"isConsolidatedDocument\":false,\"isConstitutionDocument\":false,\"isAdministrativeDocument\":false,\"viewCount\":108,\"showViewCount\":true,\"hasContent\":true,\"hasOriginalPdf\":null,\"hasAIProcessed\":false,\"hasClauseRelation\":null,\"aiResults\":[]}"
+   }
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "id": "PH-H14817",
+ "title": {
+  "zh": null,
+  "en": "An Act Appropriating Funds to Cover the Deficit Incurred By the Constitutional Convention.",
+  "orig": "An Act Appropriating Funds to Cover the Deficit Incurred By the Constitutional Convention."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1935-08-09",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 4226",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 935,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1935/act_4226_1935.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_04226_1935_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_04226_1935_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14817-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The sum of one hundred and sixty-eighty thousand and five hundred pesos is hereby\nappropriated, out of general funds not otherwise appropriated, to cover the deficit incurred by the\nConstitutional Convention, as itemized below:\nFor payment of the expenses of the election of Delegates to the Constitutional Convention P122,000\nFor printing the Journal and other documents of the Constitutional Convention 25,000\nFor extra compensation for employees of the Philippine Legislature who rendered service to the Constitutional\nConvention during the months of January and February, 1935, any provision to the contrary notwithstanding\n10,000\nFor payment of bills rendered by Bureaus and offices, including miscellaneous expenses 7,500\nFor traveling expenses of the Delegates coming from and returning to their respective districts after the\nsessions of the Convention 4,000"
+   }
+  },
+  {
+   "id": "PH-H14817-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, August 9, 1935."
+   }
+  }
+ ]
+}

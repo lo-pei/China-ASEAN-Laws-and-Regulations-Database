@@ -1,0 +1,72 @@
+{
+ "id": "PH-H21787",
+ "title": {
+  "zh": null,
+  "en": "Amending Certain Provisions of Presidential Decree No. 251 Which Amended Republic Act 3840, as Amended",
+  "orig": "Amending Certain Provisions of Presidential Decree No. 251 Which Amended Republic Act 3840, as Amended"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p159",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1973-11-22",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 338",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1024,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_00338_1973_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_00338_1973_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H21787-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The second paragraph of Sec. 98 of Republic Act 3844 as amended by Sec. 21 of Presidential\nDecree 251 is further amended to read as follows:\n\"The exemption authorized in the preceding paragraph of this section shall apply to all property of the Bank,\nto the resources, receipts, expenditures, profits and income of the Bank, as well as to all contracts, deeds,\ndocuments and transactions related to the conduct of the business of the Bank: Provided, however, That said\nexemptions shall apply only to such taxes and assessments for which the Bank itself would otherwise be liable\nand shall not apply to taxes or assessments payable by persons or other entities doing business with the Bank.\""
+   }
+  },
+  {
+   "id": "PH-H21787-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Repealing Clause. All laws, executive orders, rules and regulations or parts thereof inconsistent\nwith this Decree are hereby repealed and/or modified accordingly."
+   }
+  },
+  {
+   "id": "PH-H21787-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "Effectivity. This Decree shall take effect immediately.\nDone in the City of Manila, this 22nd day of November, in the year of Our Lord, nineteen hundred and\nseventy-three."
+   }
+  }
+ ]
+}

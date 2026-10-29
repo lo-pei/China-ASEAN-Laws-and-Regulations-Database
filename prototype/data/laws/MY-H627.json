@@ -1,0 +1,1030 @@
+{
+ "id": "MY-H627",
+ "title": {
+  "zh": "2024年能效与节能法",
+  "en": "ENERGY EFFICIENCY AND CONSERVATION ACT 2024",
+  "orig": "ENERGY EFFICIENCY AND CONSERVATION ACT 2024",
+  "vi": "Luật về Hiệu quả năng lượng và tiết kiệm năng lượng năm 2024",
+  "th": "พระราชบัญญัติประสิทธิภาพพลังงานและการอนุรักษ์พลังงาน ค.ศ. 2024",
+  "id": "Undang-Undang Efisiensi dan Konservasi Energi Tahun 2024",
+  "ms": "Akta Kecekapan dan Pemuliharaan Tenaga 2024"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-14",
+ "language": "en",
+ "level": "law",
+ "category": "04_劳工与行政法",
+ "status": "active",
+ "promulgatedDate": "2024",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "ACT861",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 71,
+ "chars": 88124,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-detail.php?act=861&lang=BI"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\04_劳工与行政法\\2024_861_ENERGY EFFICIENCY AND CONSERVATION ACT 2024.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 71 条；逐字未改写（源自厂商 OCR 文本）。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H627-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "1. (1) This Act may be cited as the Energy Efficiency and\n\nConservation Act 2024.\n\n(2) This Act comes into operation on a date to be appointed by\n\nthe Minister by notification in the Gazette and the Minister may\n\nappoint different dates for the coming into operation of different\n\nprovisions of this Act.\n\n(3) This Act shall apply to Peninsular Malaysia and\n\nthe Federal Territory of Labuan.\n\nLAWS OF MALAYSIA\n\nAct 861\n\nENERGY EFFICIENCY AND CONSERVATION\n\nACT 2024\n\nInterpretation"
+   }
+  },
+  {
+   "id": "MY-H627-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "2. In this Act, unless the context otherwise requires—\n\n\"this Act\" includes any subsidiary legislation made under\n\nthis Act;\n\n\"energy audit\" means a systematic and objective assessment\n\nof the energy needs, consumption and efficiency;\n\n\"building\" means any building or premises where energy\n\nis consumed including building or premises built or used for\n\nresidential, institutional, commercial or industrial purposes;\n\n\"prescribed\" means prescribed by the Minister by regulations\n\nmade under this Act;\n\n\"guidelines\" means the guidelines issued by the Commission\n\nunder section 67;\n\n\"registered training institution\" means any training institution\n\nwhich is registered and holds a valid practising certificate under\n\nthis Act;\n\n\"energy intensity\" means the indicator of energy efficiency;\n\n\"energy auditor\" means a person who conducts energy audit;\n\n\"registered energy auditor\" means any energy auditor who is\n\nregistered and holds a valid practising certificate under this Act;\n\n\"energy efficiency\" means the efficiency in consumption of\n\nenergy or energy resources which results in increase in the net\n\nbenefit per unit of energy;\n\n\"energy intensity label\" means an energy intensity label issued\n\nunder section 10;\n\n\"Minister\" means the Minister for the time being charged with\n\nthe responsibility for matters relating to supply of electricity;\n\n\"person in charge of a building\" means the owner of a building\n\nor any other person having the charge, management or control\n\nof a building;\nEnergy Efficiency and Conservation 9\n\n\"authorized officer\" means any officer of the Commission\n\nauthorized in writing by the Minister under section 41;\n\n\"energy efficiency rating\" means energy efficiency rating for\n\na building indicated through star rating;\n\n\"energy consumer\" means a person who, for the purpose\n\nof carrying out his activity, business or trade, is supplied with\n\nenergy or energy resources and consumes the energy or energy\n\nresources supplied;\n\n\"manufacturer\" means a manufacturer who manufactures any\n\nenergy-using product;\n\n\"registered manufacturer\" means any manufacturer registered\n\nunder Part V;\n\n\"importer\" means an importer who imports any energy-using\n\nproduct;\n\n\"registered importer\" means any importer registered under Part V;\n\n\"energy manager\" means a person who manages energy efficiency\n\nand conservation for an energy consumer;\n\n\"registered energy manager\" means any energy manager who is\n\nregistered and holds a valid practising certificate under this Act;\n\n\"certificate of energy efficiency\" means the certificate of energy\n\nefficiency issued in respect of a class of energy-using product;\n\n\"energy-using product\" means any equipment, device, appliance\n\nor article which uses energy or energy resources;\n\n\"energy management system\" means a set of interrelated or\n\ninteracting elements to establish an energy policy and energy\n\nobjectives, and the processes and procedures to achieve\n\nthe energy objectives;\n\n\"minimum energy performance standards\" means the specification\n\nof the minimum energy efficiency levels for a class of energy-using\n\nproduct;\n\n\"energy resources\" means the energy resources specified in\n\nthe First Schedule;\n\n\"Commission\" means the Energy Commission established under\n\nthe Energy Commission Act 2001 [Act 610];\n\n\"energy\" means the energy specified in the Second Schedule.\n\nApplication"
+   }
+  },
+  {
+   "id": "MY-H627-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "3. (1) This Act shall apply to—\n\n(a) any energy consumer whose energy consumption for a\n\nperiod of twelve consecutive months equals to or exceeds\n\nthe energy consumption threshold as may be prescribed;\n\n(b) any building as described in the Third Schedule; and\n\n(c) any energy-using product as specified in the guidelines.\n\n(2) The Commission shall, on the basis of any information or\n\nevidence available to the Commission and in accordance with\n\nthe guidelines, ascertain—\n\n(a) whether a person is an energy consumer to whom\n\nthis Act applies under paragraph (1)(a); and\n\n(b) whether a building is a building to which this Act applies\n\nunder paragraph (1)(b).\n\n(3) The Commission shall, having ascertained that a person is\n\nan energy consumer to whom to this Act applies, issue a written\n\nnotice to such person notifying that he is an energy consumer to\n\nwhom this Act applies.\n\n(4) The Commission shall, having ascertained that a building\n\nis a building to which this Act applies, issue a written notice to\n\nthe person in charge of the building notifying that the building\n\nis a building to which this Act applies.\n\n(5) For the purposes of paragraph (1)(a), the energy consumption\n\nshall be in respect of an activity, business or trade of the energy\n\nconsumer carried out in one place.\nEnergy Efficiency and Conservation 11\n\nPart II\n\nFUNCTIONS AND POWERS OF THE COMMISSION\n\nFunctions and powers of the Commission"
+   }
+  },
+  {
+   "id": "MY-H627-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "chapter": {
+    "en": "Part II"
+   },
+   "heading": {},
+   "text": {
+    "en": "4. (1) The Commission shall have the following functions:\n\n(a) to advise the Minister on all matters relating to energy\n\nefficiency and conservation;\n\n(b) to recommend to the Government any policy, laws,\n\naction and measures relating to energy efficiency and\n\nconservation;\n\n(c) to promote, develop or implement policies and initiatives\n\nrelating to energy efficiency and conservation;\n\n(d) to exercise regulatory functions under this Act;\n\n(e) to devise the nature of test to be employed and\n\nto recommend to the Minister the minimum qualifications\n\nand practical experience for any purpose pursuant to\n\nthis Act;\n\n(f) to promote private sector investments in energy efficiency\n\nand conservation;\n\n(g) to carry out or cause to be carried out studies, research\n\nor assessments in energy efficiency and conservation;\n\n(h) to collate, analyze and publish information, statistics and\n\nfactors influencing or relevant to the development of\n\nenergy efficiency and conservation;\n\n(i) to recognize as the Commission deems fit, trainings or\n\nother programmes relating to the development of human\n\nresources and capacity building in the energy efficiency\n\nand conservation sector;\n\n(j) to encourage and promote public participation and\n\nto improve public awareness on matters relating to energy\n\nefficiency and conservation;\n\n(k) to set targets and ensure compliance for such targets for\n\nthe improvement in energy efficiency and conservation;\n\nand\n\n(l) to do such other things as the Commission deems fit\n\nto enable the Commission to perform its functions\n\neffectively or which are incidental to the performance\n\nof its functions.\n\n(2) The Commission shall have the power to do all\n\nthings expedient or reasonably necessary for or incidental to\n\nthe performance of its functions.\n\n(3) Without prejudice to the generality of subsection (2),\n\nthe powers of the Commission shall include the power—\n\n(a) to carry out all activities which appear to the Commission\n\nto be requisite, advantageous or convenient for or\n\nin connection with the performance of its functions; and\n\n(b) to impose fees, costs or charges for any service rendered\n\nin the exercise of its powers and the performance of its\n\nfunctions.\n\n(4) The functions and powers of the Commission under\n\nthis Act are in addition to, and not in derogation of, the functions\n\nand powers of the Commission under the Energy Commission\n\nAct 2001.\n\nPart III\n\nDUTIES OF ENERGY CONSUMER\n\nAppointment of registered energy manager"
+   }
+  },
+  {
+   "id": "MY-H627-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "chapter": {
+    "en": "Part III"
+   },
+   "heading": {},
+   "text": {
+    "en": "5. (1) An energy consumer to whom this Act applies shall appoint\n\na registered energy manager within the period and in such manner\n\nas may be prescribed.\n\n(2) A registered energy manager appointed by the energy\n\nconsumer under this section shall carry out such functions and\n\nduties as follows:\n\n(a) to collect and analyze the data on energy of and energy\n\nconsumption by, the energy consumer;\nEnergy Efficiency and Conservation 13\n\n(b) to ensure that the energy consumer implement the energy\n\nmanagement system;\n\n(c) to monitor the implementation of the energy management\n\nsystem by the energy consumer;\n\n(d) to prepare the energy efficiency and conservation report\n\nfor the energy consumer;\n\n(e) to ensure the accuracy of information provided in\n\nthe energy efficiency and conservation report;\n\n(f) to advise the energy consumer on any other energy saving\n\nmeasures which may be implemented by the energy\n\nconsumer and to monitor the implementation of such\n\nmeasures; and\n\n(g) to carry out such other duties as may be determined by\n\nthe Commission.\n\n(3) Any energy consumer who contravenes subsection (1)\n\ncommits an offence and shall, on conviction, be liable to a fine\n\nnot exceeding fifty thousand ringgit.\n\n(4) Any registered energy manager who contravenes subsection (2)\n\ncommits an offence and shall, on conviction, be liable to a fine\n\nnot exceeding twenty thousand ringgit.\n\nEnergy management system"
+   }
+  },
+  {
+   "id": "MY-H627-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "chapter": {
+    "en": "Part III"
+   },
+   "heading": {},
+   "text": {
+    "en": "6. (1) In ensuring energy efficiency in carrying out his activity,\n\nbusiness or trade, an energy consumer to whom this Act applies\n\nshall develop an energy management system within the period\n\nas may be prescribed and implement the energy management\n\nsystem.\n\n(2) The energy consumer shall develop and implement\n\nthe energy management system in accordance with the guidelines.\n\n(3) Any energy consumer who contravenes subsection (1)\n\ncommits an offence and shall, on conviction, be liable to a fine\n\nnot exceeding fifty thousand ringgit.\n\n(4) Any energy consumer who contravenes subsection (2)\n\ncommits an offence and shall, on conviction, be liable to a fine\n\nnot exceeding twenty thousand ringgit.\n\nEnergy efficiency and conservation report"
+   }
+  },
+  {
+   "id": "MY-H627-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7"
+   },
+   "chapter": {
+    "en": "Part III"
+   },
+   "heading": {},
+   "text": {
+    "en": "7. (1) A registered energy manager appointed by an energy\n\nconsumer to whom this Act applies under subsection 5(1) shall\n\nprepare an energy efficiency and conservation report for\n\nthe energy consumer which shall contain the following information:\n\n(a) the description of the energy management system\n\nimplemented by the energy consumer;\n\n(b) the details on the total amount and purpose of consumption\n\nof energy and energy resources by the energy consumer;\n\n(c) the proposed measures for improving the energy efficiency\n\nand conservation by the energy consumer;\n\n(d) the details of any other energy efficiency and conservation\n\nmeasures which have already been implemented and\n\nmeasures that are yet to be implemented on the date of\n\nthe energy efficiency and conservation report; and\n\n(e) any other information required by the Commission\n\nas may be specified in the guidelines.\n\n(2) The energy consumer in respect of whom the energy efficiency\n\nand conservation report has been prepared under subsection (1)\n\nshall submit such energy efficiency and conservation report to\n\nthe Commission within the period and in such manner as may\n\nbe prescribed.\n\n(3) Any registered energy manager who contravenes subsection (1)\n\ncommits an offence and shall, on conviction, be liable to a fine\n\nnot exceeding twenty thousand ringgit.\n\n(4) Any energy consumer who contravenes subsection (2)\n\ncommits an offence and shall, on conviction, be liable to a fine\n\nnot exceeding fifty thousand ringgit.\n\nEnergy audit"
+   }
+  },
+  {
+   "id": "MY-H627-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8"
+   },
+   "chapter": {
+    "en": "Part III"
+   },
+   "heading": {},
+   "text": {
+    "en": "8. (1) An energy consumer to whom this Act applies shall from\n\ntime to time cause to be conducted an energy audit in respect of\n\nhis activity, business or trade so as to comply with the requirements\n\nrelating to the submission of energy audit report under subsection 9(2).\nEnergy Efficiency and Conservation 15\n\n(2) The energy consumer shall appoint a registered energy\n\nauditor to conduct the energy audit under subsection (1).\n\n(3) The energy audit shall be conducted in such manner as\n\nthe registered energy auditor may determine.\n\n(4) Any energy consumer who contravenes subsection (2)\n\ncommits an offence and shall, on conviction, be liable to a fine\n\nnot exceeding fifty thousand ringgit.\n\nEnergy audit report"
+   }
+  },
+  {
+   "id": "MY-H627-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9"
+   },
+   "chapter": {
+    "en": "Part III"
+   },
+   "heading": {},
+   "text": {
+    "en": "9. (1) A registered energy auditor appointed by an energy consumer\n\nto whom this Act applies under subsection 8(2) shall prepare\n\nan energy audit report based on the energy audit conducted under\n\nsubsection 8(1) in accordance with the guidelines.\n\n(2) The energy consumer in respect of whom the energy audit\n\nreport has been prepared under subsection (1) shall submit such\n\nenergy audit report to the Commission within the period and\n\nin such manner as may be prescribed.\n\n(3) The energy consumer may, after submitting his first\n\nenergy audit report and within the period as may be prescribed,\n\napply to the Commission to be exempted from submitting\n\nthe subsequent energy audit reports within the period as may be\n\nprescribed under subsection (2) if the energy consumer is able to\n\nshow to the satisfaction of the Commission that after a considerable\n\nperiod of time he has implemented significant energy efficiency\n\nand conservation measures and such implementation of measures\n\nhas resulted in improvement in energy efficiency in carrying out\n\nhis activity, business or trade.\n\n(4) Upon receipt of the application under subsection (3) and\n\nbeing satisfied with the application for exemption, the Commission\n\nmay approve such application and issue a written notice of\n\nexemption to the energy consumer.\n\n(5) The exemption given under subsection (4) shall take effect\n\nfrom the date specified in the written notice of exemption.\n\n(6) Upon receipt of an energy audit report from the energy\n\nconsumer under subsection (2), the Commission may request\n\nthe energy consumer to give any additional information, particulars\n\nor document relating to the energy audit report as the Commission\n\nthinks necessary and if the energy consumer fails to give such\n\nadditional information, particulars or document, the energy audit\n\nreport may be refused by the Commission.\n\n(7) Upon perusal of the energy audit report and if—\n\n(a) the Commission finds that the energy audit report\n\nhas not been prepared in accordance with the guidelines; or\n\n(b) in the opinion of the Commission, the content of\n\nthe energy audit report is insufficient,\n\nthe Commission may direct the energy consumer to rectify\n\nthe energy audit report within the period and in such manner\n\nas may be determined by the Commission.\n\n(8) Where the Commission directs the energy consumer\n\nto rectify the energy audit report under subsection (7) and\n\nthe energy consumer fails to rectify the energy audit report as\n\ndirected by the Commission, the Commission shall further direct\n\nthe energy consumer to submit a new energy audit report within\n\nthe period as may be determined by the Commission.\n\n(9) Subsection (1) shall apply in respect of the preparation of\n\nthe new energy audit report under subsection (8).\n\n(10) Any energy consumer who fails to submit the energy\n\naudit report under subsection (2) or (8) commits an offence\n\nand shall, on conviction, be liable to a fine not exceeding\n\nfifty thousand ringgit.\n\nPart IV\n\nDUTIES OF PERSON IN CHARGE OF BUILDING\n\nEnergy intensity label"
+   }
+  },
+  {
+   "id": "MY-H627-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "10. (1) A person in charge of a building to which this Act\n\napplies shall, within the period and in such manner as may be\n\nprescribed, apply to the Commission for an energy intensity label\n\nto be issued in respect of the building.\nEnergy Efficiency and Conservation 17\n\n(2) Any person in charge of a building who fails to apply for\n\nthe energy intensity label within the period as may be prescribed\n\nunder subsection (1) shall pay a prescribed late fee.\n\n(3) An application for an energy intensity label under subsection (1)\n\nshall be accompanied by payment of the prescribed fee and such\n\ninformation, particulars or document as may be determined by\n\nthe Commission.\n\n(4) After considering the application, the Commission may—\n\n(a) approve the application and issue in respect of\n\nthe building an energy intensity label in such form\n\nas may be determined by the Commission; or\n\n(b) refuse the application, stating the grounds for refusal.\n\n(5) The energy intensity label issued under this section shall\n\nbe valid for a period as may be prescribed.\n\nDisplay of energy intensity label"
+   }
+  },
+  {
+   "id": "MY-H627-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "11. (1) A person in charge of a building to which this Act applies\n\nshall at all times display in a conspicuous part of the building\n\nthe energy intensity label issued under section 10 in respect of\n\nthe building.\n\n(2) Any person in charge of a building who contravenes\n\nsubsection (1) commits an offence and shall, on conviction,\n\nbe liable to a fine not exceeding fifty thousand ringgit.\n\nAlteration, forgery, etc., of energy intensity label"
+   }
+  },
+  {
+   "id": "MY-H627-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "12. (1) No person shall—\n\n(a) alter, forge, mutilate, deface or destroy any energy intensity\n\nlabel;\n\n(b) use any energy intensity label which to his knowledge\n\nhas been so altered, forged, mutilated, defaced,\n\ndestroyed or expired for whatever purpose; or\n\n(c) display any energy intensity label which to his knowledge\n\nhas been so altered, forged, mutilated, defaced or expired.\n\n(2) Any person who contravenes subsection (1) commits\n\nan offence and shall, on conviction, be liable to a fine not\n\nexceeding fifty thousand ringgit or to imprisonment for a term\n\nnot exceeding two years or to both.\n\nEnergy intensity performance"
+   }
+  },
+  {
+   "id": "MY-H627-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "13. (1) A person in charge of a building to which this Act applies\n\nshall ensure that the energy intensity performance of the building\n\ncomply with the energy efficiency rating as may be prescribed.\n\n(2) In ensuring that the energy intensity performance of\n\nthe building comply with the energy efficiency rating as required\n\nunder subsection (1), the person in charge of the building shall\n\ncomply with such manner to that effect as may be prescribed.\n\n(3) In ascertaining whether the energy intensity performance of\n\nthe building is in compliance with the energy efficiency rating,\n\nthe Commission shall use any information or evidence available\n\nto the Commission and adhere to the guidelines.\n\n(4) Where the Commission finds that the energy intensity\n\nperformance of the building does not comply with the energy\n\nefficiency rating, the Commission shall issue a written notice of\n\nnon-compliance to the person in charge of the building.\n\n(5) Upon receipt of the written notice of non-compliance under\n\nsubsection (4), the person in charge of the building shall cause\n\nto be conducted an energy audit to improve the energy intensity\n\nperformance of the building so as to comply with the energy\n\nefficiency rating.\n\n(6) The person in charge of the building shall appoint a registered\n\nenergy auditor to conduct the energy audit under subsection (5).\n\n(7) The energy audit shall be conducted in such manner as\n\nthe registered energy auditor may determine.\n\n(8) Any person in charge of a building who contravenes\n\nsubsection (5) or (6) commits an offence and shall, on conviction,\n\nbe liable to a fine not exceeding fifty thousand ringgit.\nEnergy Efficiency and Conservation 19\n\nEnergy audit report in respect of building"
+   }
+  },
+  {
+   "id": "MY-H627-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "14. (1) A registered energy auditor appointed by a person\n\nin charge of a building to which this Act applies under\n\nsubsection 13(6) shall prepare an energy audit report based on\n\nthe energy audit conducted under subsection 13(7) in accordance\n\nwith the guidelines.\n\n(2) The person in charge of the building in respect of which\n\nthe energy audit report has been prepared under subsection (1)\n\nshall submit such energy audit report together with the energy\n\nefficiency improvement plan prepared under section 15 to\n\nthe Commission within one year from the date of the written notice\n\nof non-compliance issued to him under subsection 13(4).\n\n(3) Upon receipt of the energy audit report from the person\n\nin charge of the building under subsection (2), the Commission\n\nmay request the person in charge of the building to give any\n\nadditional information, particulars or document relating to\n\nthe energy audit report as the Commission thinks necessary and if\n\nthe person in charge of the building fails to give such additional\n\ninformation, particulars or document, the energy audit report may\n\nbe refused by the Commission.\n\n(4) Upon perusal of the energy audit report and if—\n\n(a) the Commission finds that the energy audit report\n\nhas not been prepared in accordance with the guidelines; or\n\n(b) in the opinion of the Commission, the content of\n\nthe energy audit report is insufficient,\n\nthe Commission may direct the person in charge of the building\n\nto rectify the energy audit report within the period and in such\n\nmanner as may be determined by the Commission.\n\n(5) Where the Commission directs the person in charge of\n\nthe building to rectify the energy audit report under subsection (4)\n\nand the person in charge of the building fails to rectify the energy\n\naudit report as directed by the Commission, the Commission shall\n\nfurther direct the person in charge of the building to submit\n\na new energy audit report within the period as may be determined\n\nby the Commission.\n\n(6) Subsection (1) shall apply in respect of the preparation of\n\nthe new energy audit report under subsection (5).\n\n(7) Any person in charge of a building who fails to submit\n\nthe energy audit report under subsection (2) or (5) commits\n\nan offence and shall, on conviction, be liable to a fine not\n\nexceeding fifty thousand ringgit.\n\nEnergy efficiency improvement plan"
+   }
+  },
+  {
+   "id": "MY-H627-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "15. (1) A person in charge of a building in respect of which\n\nthe energy audit report is required to be prepared and submitted\n\nunder section 14 shall prepare an energy efficiency improvement\n\nplan based on the energy audit report in such manner as may be\n\ndetermined by the Commission.\n\n(2) The person in charge of the building shall submit\n\nthe energy efficiency improvement plan prepared under subsection (1)\n\nto the Commission for the Commission's approval together with\n\nthe energy audit report under subsection 14(2).\n\n(3) After considering the energy efficiency improvement plan,\n\nthe Commission may approve or refuse the energy efficiency\n\nimprovement plan.\n\n(4) Where the Commission approves the energy efficiency\n\nimprovement plan, the person in charge of the building shall\n\nimplement the approved energy efficiency improvement plan\n\nin respect of the building.\n\n(5) Where the Commission refuses the energy efficiency\n\nimprovement plan, the Commission shall direct the person\n\nin charge of the building to revise the energy efficiency improvement\n\nplan within the period and in such manner as may be determined\n\nby the Commission.\n\n(6) If the person in charge of the building fails to revise\n\nthe energy efficiency improvement plan as directed by the Commission\n\nunder subsection (5), the Commission shall further direct\n\nthe person in charge of the building to submit a new energy\n\nefficiency improvement plan within the period as may be determined\n\nby the Commission.\nEnergy Efficiency and Conservation 21\n\n(7) Subsection (1) shall apply in respect of the preparation of\n\nthe new energy efficiency improvement plan under subsection (6).\n\n(8) Any person in charge of a building who fails to implement\n\nthe approved energy efficiency improvement plan under\n\nsubsection (4) commits an offence and shall, on conviction,\n\nbe liable to a fine not exceeding fifty thousand ringgit.\n\n(9) Any person in charge of a building who fails to submit\n\nthe energy efficiency improvement plan under subsection (2)\n\nor (6) commits an offence and shall, on conviction, be liable to\n\na fine not exceeding fifty thousand ringgit.\n\nNon-application of sections 13, 14 and 15"
+   }
+  },
+  {
+   "id": "MY-H627-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "16. Sections 13, 14 and 15 shall not apply in respect of a building\n\nwhere the person in charge of the building is also an energy\n\nconsumer to whom this Act applies.\n\nPart V\n\nPROVISIONS RELATING TO ENERGY-USING PRODUCT\n\nSelling, etc., energy-using product"
+   }
+  },
+  {
+   "id": "MY-H627-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "17. (1) No person shall sell, offer to sell, display, advertise or\n\nlease any energy-using product to which this Act applies unless\n\nthe energy-using product is affixed with an energy efficiency\n\nrating label issued under subsection 21(5).\n\n(2) Any person who contravenes subsection (1) commits\n\nan offence and shall, on conviction, be liable to a fine not exceeding\n\nfifty thousand ringgit.\n\nDistributing energy-using product"
+   }
+  },
+  {
+   "id": "MY-H627-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "18. (1) Neither a manufacturer nor an importer shall distribute\n\nany energy-using product to which this Act applies unless\n\nthe manufacturer or importer is registered with the Commission\n\nunder section 19 and a certificate of energy efficiency has been\n\nissued by the Commission in respect of the energy-using product\n\nunder section 21.\n\n(2) Any manufacturer or importer who contravenes subsection (1)\n\ncommits an offence and shall, on conviction, be liable to a fine\n\nnot exceeding fifty thousand ringgit or to imprisonment for\n\na term not exceeding two years or to both.\n\nRegistration of manufacturer or importer"
+   }
+  },
+  {
+   "id": "MY-H627-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "19. (1) An application for registration by a manufacturer or\n\nimporter who intends to distribute an energy-using product to which\n\nthis Act applies shall be made to the Commission in such\n\nmanner as may be determined by the Commission.\n\n(2) An application under subsection (1) shall be accompanied by\n\nthe prescribed fee and such information, particulars or document\n\nas may be determined by the Commission.\n\n(3) After considering the application, the Commission may—\n\n(a) approve the application and issue to the applicant a certificate\n\nof registration in such form as may be determined by\n\nthe Commission; or\n\n(b) refuse the application, stating the grounds for refusal.\n\n(4) The certificate of registration issued under subsection (3)\n\nshall be valid for a period as may be specified in the certificate\n\nof registration.\n\nCancellation of certificate of registration of registered\n\nmanufacturer and registered importer"
+   }
+  },
+  {
+   "id": "MY-H627-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "20. (1) The Commission may, by written notice to the registered\n\nmanufacturer or registered importer, as the case may be, cancel\n\nthe certificate of registration issued under subsection 19(3)\n\nif the registered manufacturer or registered importer—\n\n(a) has contravened any provision of this Act;\n\n(b) has ceased to carry on the business in respect of which\n\nit is registered under this Act;\n\n(c) has misused or cause to be misused the certificate of\n\nregistration;\nEnergy Efficiency and Conservation 23\n\n(d) has altered the certificate of registration; or\n\n(e) has obtained the certificate of registration by making or\n\ncausing to be made, or by producing or causing to be\n\nproduced, a false or fraudulent declaration, certificate,\n\napplication, representation or information, either in\n\nwriting or otherwise.\n\n(2) Upon cancellation of the certificate of registration,\n\nthe certificate of registration shall cease to be valid from the date\n\nof the written notice issued by the Commission under subsection (1)\n\nand the manufacturer or importer shall not be allowed to file any\n\nfresh application to be registered under this Act.\n\nApplication for certificate of energy efficiency"
+   }
+  },
+  {
+   "id": "MY-H627-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "21. (1) An application by a manufacturer or importer who\n\nintends to distribute an energy-using product to which this Act\n\napplies for a certificate of energy efficiency in respect of\n\nthe energy-using product shall be made to the Commission in such\n\nmanner as may be determined by the Commission.\n\n(2) An application under subsection (1) shall be accompanied by\n\nthe prescribed fee and such information, particulars or document\n\nas may be determined by the Commission.\n\n(3) After considering the application, the Commission may—\n\n(a) approve the application if—\n\n(i) the energy-using product conforms to\n\nthe testing methodology of an energy-using product,\n\nthe calculation of energy efficiency and\n\nthe energy efficiency rating as specified in\n\nthe guidelines; and\n\n(ii) the energy-using product meets the minimum\n\nenergy performance standards as may be\n\nprescribed; or\n\n(b) refuse the application, stating the grounds for refusal.\n\n(4) Where the Commission approves the application,\n\nthe Commission shall, upon payment of a prescribed fee, issue\n\na certificate of energy efficiency in respect of the energy-using\n\nproduct in such form as may be determined by the Commission.\n\n(5) Upon the issuance of a certificate of energy efficiency\n\nunder subsection (4), the Commission shall also issue an energy\n\nefficiency rating label in respect of the energy-using product\n\nin such form as may be determined by the Commission.\n\n(6) The certificate of energy efficiency issued under subsection (4)\n\nshall be valid for a period of one year from the date of its issuance.\n\nRenewal of certificate of energy efficiency"
+   }
+  },
+  {
+   "id": "MY-H627-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "22. (1) A registered manufacturer or registered importer may\n\napply to renew the certificate of energy efficiency issued\n\nin respect of an energy-using product under section 21 before\n\nthe date of expiration of the certificate of energy efficiency within\n\nsuch period and in such manner as may be determined by\n\nthe Commission.\n\n(2) An application under subsection (1) shall be accompanied by\n\nthe prescribed fee and such information, particulars or document\n\nas may be determined by the Commission.\n\n(3) After considering the application, the Commission may—\n\n(a) approve the application and renew the certificate of energy\n\nefficiency upon payment of a prescribed fee; or\n\n(b) refuse the application, stating the grounds for refusal.\n\n(4) Any registered manufacturer or registered importer who\n\nintends to apply for the renewal of the certificate of energy\n\nefficiency but fails to apply for the renewal before the date of\n\nexpiration of the certificate of energy efficiency shall submit\n\na new application for the certificate of energy efficiency under\n\nsection 21.\n\n(5) Subject to the provisions of this Act, the non-renewal of\n\nthe certificate of energy efficiency or refusal by the Commission\n\nto renew the certificate of energy efficiency in respect of an\n\nenergy-using product under this section shall not affect the validity\n\nof the energy efficiency rating label which has already been issued\n\nin respect of the product under subsection 21(5).\nEnergy Efficiency and Conservation 25\n\nCancellation of certificate of energy efficiency"
+   }
+  },
+  {
+   "id": "MY-H627-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "23. (1) The Commission may, by written notice to the registered\n\nmanufacturer or registered importer, as the case may be, cancel\n\nthe certificate of energy efficiency issued in respect of an energy-using\n\nproduct under section 21 in any of the following circumstances:\n\n(a) the components of the energy-using product has been\n\nvaried, substituted or changed;\n\n(b) upon inspection by the Commission during market\n\nsurveillance, the Commission finds that the energy-using\n\nproduct as placed in the market no longer meets\n\nthe minimum energy performance standards as may be\n\nprescribed;\n\n(c) the registered manufacturer or registered importer has\n\nmisused or cause to be misused the certificate of energy\n\nefficiency; or\n\n(d) the registered manufacturer or registered importer has\n\nobtained the certificate of energy efficiency in respect\n\nof the energy-using product by making or causing to\n\nbe made, or by producing or causing to be produced,\n\na false or fraudulent declaration, certificate, application,\n\nrepresentation or information, either in writing or otherwise.\n\n(2) Upon cancellation of the certificate of energy efficiency,\n\nthe certificate of energy efficiency shall cease to be valid from the date\n\nof the written notice issued by the Commission under subsection (1)\n\nand the registered manufacturer or registered importer shall\n\nrecall and cause to be removed from the market the energy-using\n\nproduct in respect of which the cancelled certificate of energy\n\nefficiency has been issued within the period as specified in\n\nthe written notice.\n\n(3) Any registered manufacturer or registered importer who\n\ncontravenes subsection (2) commits an offence and shall,\n\non conviction, be liable to a fine not exceeding fifty thousand ringgit.\n\nDuty to keep records and documents by registered manufacturer\n\nand registered importer"
+   }
+  },
+  {
+   "id": "MY-H627-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "24. (1) A registered manufacturer or registered importer shall\n\nkeep and retain in safe custody for a period of seven years\n\nfrom the date of the certificate of registration issued to him\n\nunder subsection 19(3) a copy of an energy performance testing\n\nreport or assessment letter issued by a conformity assessment\n\nbody or laboratory recognized by the Commission in relation to\n\nthe energy-using product in respect of which the certificate of\n\nenergy efficiency was issued.\n\n(2) Any registered manufacturer or registered importer\n\nwho contravenes subsection (1) commits an offence and\n\nshall, on conviction, be liable to a fine not exceeding\n\nfifty thousand ringgit.\n\nPart VI\n\nREGISTRATION OF ENERGY MANAGER AND ENERGY AUDITOR\n\nRequirement for registration of energy manager and energy\n\nauditor"
+   }
+  },
+  {
+   "id": "MY-H627-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "25. (1) No energy manager shall carry out any functions or\n\nduties under this Act unless he is registered under this Act and\n\nholds a valid practising certificate issued under this Act.\n\n(2) No energy auditor shall conduct any energy audit under\n\nthis Act unless he is registered under this Act and holds a valid\n\npractising certificate issued under this Act.\n\n(3) Any person who contravenes subsection (1) or (2) commits\n\nan offence and shall, on conviction, be liable to a fine not\n\nexceeding twenty thousand ringgit.\n\nQualifications for registration of energy manager and energy\n\nauditor"
+   }
+  },
+  {
+   "id": "MY-H627-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "26. Any energy manager or energy auditor may apply to be\n\nregistered under this Act if—\n\n(a) he is a Malaysian citizen;\n\n(b) he holds any qualification as may be prescribed;\nEnergy Efficiency and Conservation 27\n\n(c) he fulfils other prerequisite requirements as may be\n\ndetermined by the Commission, including requirement\n\nfor training; and\n\n(d) he has not been convicted of an offence involving fraud,\n\ndishonesty or corruption.\n\nApplication for registration of energy manager and energy\n\nauditor"
+   }
+  },
+  {
+   "id": "MY-H627-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 27"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "27. (1) An application for registration of an energy manager and\n\nenergy auditor shall be made to the Commission in such manner\n\nas may be determined by the Commission.\n\n(2) An application under subsection (1) shall be accompanied by\n\nthe prescribed fee and such information, particulars or document\n\nas may be determined by the Commission.\n\n(3) After considering the application, the Commission may—\n\n(a) approve the application and issue to the applicant upon\n\npayment of a prescribed fee a certificate of registration\n\nin such form as may be determined by the Commission;\n\nor\n\n(b) refuse the application, stating the grounds for refusal.\n\nApplication for practising certificate of registered energy\n\nmanager and registered energy auditor"
+   }
+  },
+  {
+   "id": "MY-H627-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 28"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "28. (1) An application for a practising certificate by an energy\n\nmanager or energy auditor who has been registered under section 27\n\nshall be made to the Commission in such manner as may be\n\ndetermined by the Commission.\n\n(2) An application under subsection (1) shall be accompanied by\n\nthe prescribed fee and such information, particulars or document\n\nas may be determined by the Commission.\n\n(3) After considering the application, the Commission may—\n\n(a) approve the application and issue to the applicant upon\n\npayment of a prescribed fee a practising certificate in\n\nsuch form as may be determined by the Commission;\n\nor\n\n(b) refuse the application, stating the grounds for refusal.\n\n(4) A practising certificate issued under subsection (3) shall be\n\nvalid for a period as may be specified in the practising certificate.\n\nRenewal of practising certificate of registered energy manager\n\nand registered energy auditor"
+   }
+  },
+  {
+   "id": "MY-H627-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Section 29"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "29. (1) A registered energy manager or registered energy\n\nauditor may apply to renew his practising certificate issued under\n\nsubsection 28(3) before the date of expiration of the practising\n\ncertificate within the period and in such manner as may be\n\ndetermined by the Commission.\n\n(2) A registered energy manager or registered energy auditor\n\nwho applies for the renewal of the practising certificate after\n\nthe date of expiration of the practising certificate shall pay\n\na prescribed late fee.\n\n(3) An application under subsection (1) shall be accompanied by\n\nthe prescribed fee and such information, particulars or document\n\nas may be determined by the Commission.\n\n(4) Where the application for the renewal of a practising\n\ncertificate is made by a registered energy manager, in addition\n\nto the prescribed fee and information, particulars or document\n\nas determined by the Commission under subsection (3), such\n\napplication shall be accompanied by any proof that the registered\n\nenergy manager has attended sufficient continuous development\n\nprogrammes carried out by a registered training institution as\n\nrequired by the Commission.\n\n(5) After considering the application, the Commission may—\n\n(a) approve the application and renew the practising certificate\n\nupon payment of a prescribed fee; or\n\n(b) refuse the application, stating the grounds for refusal.\nEnergy Efficiency and Conservation 29\n\nCancellation of certificate of registration of registered energy\n\nmanager and registered energy auditor"
+   }
+  },
+  {
+   "id": "MY-H627-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Section 30"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "30. (1) The Commission may, by written notice to the registered\n\nenergy manager or registered energy auditor, as the case\n\nmay be, cancel the certificate of registration of the registered energy\n\nmanager or registered energy auditor issued under subsection 27(3)\n\nif the registered energy manager or registered energy auditor—\n\n(a) has contravened any provision of this Act;\n\n(b) has misused or cause to be misused the certificate of\n\nregistration;\n\n(c) has altered the certificate of registration;\n\n(d) has obtained the certificate of registration by making or\n\ncausing to be made, or by producing or causing to be\n\nproduced, a false or fraudulent declaration, certificate,\n\napplication, representation or information, either in\n\nwriting or otherwise; or\n\n(e) has been convicted of an offence involving fraud, dishonesty\n\nor corruption.\n\n(2) Upon cancellation of the certificate of registration, both\n\nthe certificate of registration and practising certificate issued under\n\nsubsections 27(3) and 28(3) respectively, shall cease to be valid\n\nfrom the date of the written notice issued by the Commission\n\nunder subsection (1) and the energy manager or energy auditor\n\nshall not be allowed to file any fresh application to be registered\n\nunder this Act.\n\nPart VII\n\nREGISTRATION OF TRAINING INSTITUTION\n\nRequirement for registration of training institution"
+   }
+  },
+  {
+   "id": "MY-H627-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Section 31"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "31. (1) No training institution shall—\n\n(a) conduct a training course for any person who intends\n\nto be a registered energy manager; or\n\n(b) carry out a continuous development programme for a\n\nregistered energy manager under this Act,\n\nunless the training institution is registered under this Act and\n\nholds a valid practising certificate issued under this Act.\n\n(2) Any training institution which contravenes subsection (1)\n\ncommits an offence and shall, on conviction, be liable to a fine\n\nnot exceeding fifty thousand ringgit.\n\nQualifications for registration of training institution"
+   }
+  },
+  {
+   "id": "MY-H627-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Section 32"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "32. Any training institution may apply to be registered under\n\nthis Act if the training institution—\n\n(a) is a company, limited liability partnership, firm, society\n\nor other body of persons incorporated or established\n\nunder any written law;\n\n(b) fulfils other prerequisite requirements as may be determined\n\nby the Commission; and\n\n(c) has not been convicted of an offence involving fraud,\n\ndishonesty or corruption.\n\nApplication for registration of training institution"
+   }
+  },
+  {
+   "id": "MY-H627-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Section 33"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "33. (1) An application for registration of a training institution\n\nshall be made to the Commission in such manner as may be\n\ndetermined by the Commission.\n\n(2) An application under subsection (1) shall be accompanied by\n\nthe prescribed fee and such information, particulars or document\n\nas may be determined by the Commission.\n\n(3) After considering the application, the Commission may—\n\n(a) approve the application and issue to the applicant upon\n\npayment of a prescribed fee a certificate of registration\n\nin such form as may be determined by the Commission;\n\nor\n\n(b) refuse the application, stating the grounds for refusal.\nEnergy Efficiency and Conservation 31\n\nApplication for practising certificate of registered training\n\ninstitution"
+   }
+  },
+  {
+   "id": "MY-H627-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "Section 34"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "34. (1) An application for a practising certificate by a training\n\ninstitution which has been registered under section 33 shall be\n\nmade to the Commission in such manner as may be determined\n\nby the Commission.\n\n(2) An application under subsection (1) shall be accompanied by\n\nthe prescribed fee and such information, particulars or document\n\nas may be determined by the Commission.\n\n(3) After considering the application, the Commission may—\n\n(a) approve the application and issue to the applicant upon\n\npayment of a prescribed fee a practising certificate\n\nin such form as may be determined by the Commission;\n\nor\n\n(b) refuse the application, stating the grounds for refusal.\n\n(4) A practising certificate issued under subsection (3) shall be\n\nvalid for a period as may be specified in the practising certificate.\n\nRenewal of practising certificate of registered training institution"
+   }
+  },
+  {
+   "id": "MY-H627-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "Section 35"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "35. (1) A registered training institution may apply to renew\n\nits practising certificate issued under subsection 34(3) before\n\nthe date of expiration of the practising certificate within such period\n\nand in such manner as may be determined by the Commission.\n\n(2) A registered training institution which applies for\n\nthe renewal of the practising certificate after the date of expiration\n\nof the practising certificate shall pay a prescribed late fee.\n\n(3) An application under subsection (1) shall be accompanied by\n\nthe prescribed fee and such information, particulars or document\n\nas may be determined by the Commission.\n\n(4) After considering the application, the Commission may—\n\n(a) approve the application and renew the practising certificate\n\nupon payment of a prescribed fee; or\n\n(b) refuse the application, stating the grounds for refusal.\n\nCancellation of certificate of registration of registered training\n\ninstitution"
+   }
+  },
+  {
+   "id": "MY-H627-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "Section 36"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "36. (1) The Commission may, by written notice to the registered\n\ntraining institution, cancel the certificate of registration of\n\nthe registered training institution issued under subsection 33(3)\n\nif the registered training institution—\n\n(a) has contravened any provision of this Act;\n\n(b) has ceased to carry on the business in respect of which\n\nit is registered under this Act;\n\n(c) has misused or cause to be misused the certificate of\n\nregistration;\n\n(d) has altered the certificate of registration;\n\n(e) has obtained the certificate of registration by making or\n\ncausing to be made, or by producing or causing to be\n\nproduced, a false or fraudulent declaration, certificate,\n\napplication, representation or information, either in\n\nwriting or otherwise; or\n\n(f) has been convicted of an offence involving fraud, dishonesty\n\nor corruption.\n\n(2) Upon cancellation of the certificate of registration,\n\nboth the certificate of registration and practising certificate issued\n\nunder subsections 33(3) and 34(3) respectively, shall cease to be\n\nvalid from the date of the written notice issued by the Commission\n\nunder subsection (1) and the training institution shall not be\n\nallowed to file any fresh application to be registered under\n\nthis Act.\nEnergy Efficiency and Conservation 33\n\nPart VIII\n\nINFORMATION GATHERING POWERS\n\nReview and audit of energy consumer, etc."
+   }
+  },
+  {
+   "id": "MY-H627-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "Section 37"
+   },
+   "chapter": {
+    "en": "Part VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "37. (1) The Commission may—\n\n(a) carry out or cause to be carried out a review or an audit on\n\nany energy consumer to whom this Act applies,\n\nperson in charge of a building to which this Act applies,\n\nregistered manufacturer, registered importer, registered\n\nenergy manager, registered energy auditor or registered\n\ntraining institution or any other person as may be\n\ndetermined by the Commission on their compliance\n\nwith the provisions of this Act, on any information,\n\nparticulars or document furnished by them to the Commission\n\nor on any other matters as may be directed by the\n\nCommission; or\n\n(b) require any energy consumer to whom this Act applies,\n\nperson in charge of a building to which this Act applies,\n\nregistered manufacturer, registered importer,\n\nregistered energy manager, registered energy auditor or\n\nregistered training institution to appoint, at their own cost,\n\nan independent expert, with qualifications as may be\n\ndetermined by the Commission to carry out a review or\n\nan audit on their compliance with the provisions of this\n\nAct, on any information, particulars or document furnished\n\nby them to the Commission or on any other matters\n\nas may be directed by the Commission.\n\n(2) The review and audit under this section shall be carried out\n\nin accordance with the guidelines.\n\n(3) An energy consumer, person in charge of a building,\n\nregistered manufacturer, registered importer, registered energy\n\nmanager, registered energy auditor or registered training institution\n\nor any other person as determined by the Commission who or\n\nwhich—\n\n(a) fails to furnish any information, particulars or documents\n\nas may be required by the Commission for the purposes\n\nof this section;\n\n(b) intentionally alters, suppresses or destroys any information,\n\nparticulars or document which has been required by\n\nwritten notice issued by the Commission to be produced\n\nfor the purposes of this section; or\n\n(c) refuses to assist or facilitate, or obstructs the Commission\n\nor officers of the Commission, or the independent expert\n\nin carrying out the review or audit under this section,\n\ncommits an offence and shall, on conviction, be liable to a fine\n\nnot exceeding one hundred thousand ringgit or to imprisonment\n\nfor a term not exceeding two years or to both.\n\nPower to require provision of information, etc."
+   }
+  },
+  {
+   "id": "MY-H627-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "Section 38"
+   },
+   "chapter": {
+    "en": "Part VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "38. (1) Notwithstanding any other written law, if the Commission\n\nhas reasonable grounds to believe that any person—\n\n(a) has any information, particulars or document that is relevant\n\nto the performance of the Commission's functions and\n\npowers under this Act; or\n\n(b) is capable of giving any evidence which the Commission\n\nhas reasonable grounds to believe is relevant to\n\nthe performance of the Commission's functions and\n\npowers under this Act,\n\nthe Commission may, by written notice, direct that person—\n\n(A) to give any such information or particulars to an authorized\n\nofficer in the manner and form and within the period\n\nas specified in the notice or such extended period as\n\nthe Commission may grant;\n\n(B) to produce any such document, whether in physical\n\nform or in electronic media, to an authorized officer\n\nin the manner and within the period as specified in the notice\n\nor such extended period as the Commission may grant;\n\n(C) to make copies of any such document and to produce\n\nthose copies to an authorized officer in the manner\n\nand within the period as specified in the notice or such\n\nextended period as the Commission may grant;\nEnergy Efficiency and Conservation 35\n\n(D) if the person is an individual, to appear before\n\nan authorized officer at a time and place specified\n\nin the notice to give any evidence, either orally or\n\nin writing, and produce any document, whether in physical\n\nform or in electronic media, in the manner and within\n\nthe period as specified in the notice or such extended\n\nperiod as the Commission may grant;\n\n(E) if the person is a body corporate or a public body,\n\nto cause a competent officer of the body to appear before\n\nan authorized officer at a time and place specified in\n\nthe notice to give any evidence, either orally or in\n\nwriting, and produce any document, whether in physical\n\nform or in electronic media, in the manner and within\n\nthe period as specified in the notice or such extended\n\nperiod as the Commission may grant; or\n\n(F) if the person is a partnership, to cause an individual\n\nwho is a partner in the partnership or an employee of\n\nthe partnership to appear before an authorized officer\n\nat a time and place specified in the notice to give any\n\nevidence, either orally or in writing, and produce any\n\ndocument, whether in physical form or in electronic\n\nmedia, in the manner and within the period as specified\n\nin the notice or such extended period as the Commission\n\nmay grant.\n\n(2) Where the Commission directs any person to produce\n\nany document under subsection (1) and the document is not in\n\nthe custody of that person, that person shall—\n\n(a) state, to the best of his knowledge and belief, where\n\nthe document may be found; and\n\n(b) identify, to the best of his knowledge and belief, the last\n\nperson who had custody of the document and to state,\n\nto the best of his knowledge and belief, where that\n\nlast-mentioned person may be found.\n\n(3) Any person directed to give or produce any information,\n\nparticulars or documents or copies of any document under\n\nsubsection (1) shall ensure that the information, particulars or\n\ndocuments or copies of the document given or produced are true,\n\naccurate and complete and such person shall provide an express\n\nrepresentation to that effect, including a declaration that he is\n\nnot aware of any other information, particulars or document which\n\nwould make the information, particulars or document given or\n\nproduced untrue or misleading.\n\n(4) Any person who fails to comply with the direction of\n\nthe Commission under subsection (1) commits an offence\n\nand shall, on conviction, be liable to a fine not exceeding\n\none hundred thousand ringgit or to imprisonment for a term not\n\nexceeding two years or to both.\n\n(5) Any person who contravenes subsection (2) or (3)\n\ncommits an offence and shall, on conviction, be liable to a fine\n\nnot exceeding one hundred thousand ringgit.\n\nCommission may retain documents"
+   }
+  },
+  {
+   "id": "MY-H627-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "Section 39"
+   },
+   "chapter": {
+    "en": "Part VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "39. (1) The Commission may take and retain for such duration\n\nas the Commission deems necessary, any document obtained under\n\nthis Part.\n\n(2) The person who provides the document is entitled to\n\nbe supplied, as soon as practicable, with a copy certified by\n\nthe Commission to be a true copy of the document.\n\n(3) Notwithstanding any other written law, the certified copy\n\nof the document shall be admissible as evidence as if it were\n\nthe original document.\n\n(4) Until a certified copy of the document is supplied,\n\nthe Commission shall, at such times and places as the Commission\n\ndeems appropriate, permit the person who provides the document\n\nor a person authorized by the person to inspect and make copies\n\nof or take extracts from the original document.\n\n(5) If the Commission is satisfied that it is no longer necessary\n\nto retain the document, the Commission may return the documents\n\nto the person who provided the document as soon as practicable.\n\nAccess to records"
+   }
+  },
+  {
+   "id": "MY-H627-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "Section 40"
+   },
+   "chapter": {
+    "en": "Part VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "40. (1) A person shall, if at any time requested by the Commission\n\nby written notice, allow the Commission or its authorized officers\n\nor any other person specified by the Commission in the written\n\nnotice, access to his or its records for the purpose of carrying\n\nout the Commission's functions and powers under this Act.\nEnergy Efficiency and Conservation 37\n\n(2) Any person who fails to comply with the written notice\n\nunder subsection (1) commits an offence and shall, on conviction,\n\nbe liable to a fine not exceeding twenty thousand ringgit.\n\nPart IX\n\nENFORCEMENT\n\nAuthorized officer"
+   }
+  },
+  {
+   "id": "MY-H627-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "Section 41"
+   },
+   "chapter": {
+    "en": "Part IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "41. (1) The Minister may, in writing, authorize any officer of\n\nthe Commission to exercise the powers of enforcement under this\n\nAct.\n\n(2) Any officer of the Commission authorized under\n\nsubsection (1) shall be deemed to be a public servant within\n\nthe meaning of the Penal Code [Act 574].\n\nAuthority card"
+   }
+  },
+  {
+   "id": "MY-H627-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "Section 42"
+   },
+   "chapter": {
+    "en": "Part IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "42. (1) The Commission shall issue to each authorized officer\n\nan authority card which shall be signed by the Chief Executive\n\nOfficer of the Commission.\n\n(2) Whenever such authorized officer exercises any of\n\nthe powers of enforcement under this Act, he shall, on demand,\n\nproduce to the person against whom the power is being exercised\n\nthe authority card issued to him under subsection (1).\n\nPower of investigation"
+   }
+  },
+  {
+   "id": "MY-H627-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "Section 43"
+   },
+   "chapter": {
+    "en": "Part IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "43. (1) An authorized officer shall have all the powers necessary\n\nto carry out an investigation in relation to the commission of\n\nan offence under this Act.\n\n(2) In any case relating to the commission of an offence under\n\nthis Act, any authorized officer carrying out an investigation may\n\nexercise all or any of the powers relating to police investigation,\n\nexcept the power to arrest without warrant, given by\n\nthe Criminal Procedure Code [Act 593].\n\nPower to enter premises and inspect, etc., document,\n\nrecord, etc."
+   }
+  },
+  {
+   "id": "MY-H627-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "Section 44"
+   },
+   "chapter": {
+    "en": "Part IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "44. Any authorized officer may, at all reasonable hours, exercise\n\nthe following powers:\n\n(a) to enter any premises other than premises used only for\n\nresidential;\n\n(b) to inspect or verify any document, record, computerized data,\n\ndigitalized data, plan, drawing, material, plant, equipment,\n\nmachinery, goods, energy-using product, product, label,\n\nitem or thing found in the premises;\n\n(c) to take samples of any document, record, computerized data,\n\ndigitalized data, plan, drawing, material, plant, equipment,\n\nmachinery, goods, energy-using product, product, label,\n\nitem or thing found in the premises for the purpose of\n\nascertaining, by testing or otherwise, whether an offence\n\nhas been committed;\n\n(d) to make copies of or extract any document, record,\n\ncomputerized data, digitalized data, plan, drawing or\n\nthing found in the premises; and\n\n(e) to require, but only if and to the extent that it is reasonably\n\nnecessary in order to secure that the provisions of\n\nthis Act and of any order or directions made under this Act\n\nare duly observed, any person having authority to do\n\nso to break open any container or open any vending\n\nmachine, and if that person does not comply with\n\nthe requirement, the authorized officer may do so himself.\n\nSearch and seizure with warrant"
+   }
+  },
+  {
+   "id": "MY-H627-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "Section 45"
+   },
+   "chapter": {
+    "en": "Part IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "45. (1) If it appears to a Magistrate, upon written information\n\non oath from an authorized officer and after such inquiry as he\n\nconsiders necessary, that there is reasonable cause to believe that\n\nan offence under this Act is being or has been committed in any\n\npremises, so that any evidence or thing which is necessary to\n\nthe conduct of an investigation into an offence may be found in any\n\npremises, the Magistrate may issue a warrant authorizing any\n\nauthorized officer named in the warrant to enter the premises at\n\nany time, with or without assistance, and if need be by force to\n\nsearch for and seize any such evidence or thing.\nEnergy Efficiency and Conservation 39\n\n(2) An authorized officer entering any premises under\n\nthis section may take with him such other persons and such equipment\n\nas may appear to him necessary and on leaving any premises\n\nwhich he has entered by virtue of a warrant under the preceding\n\nsubsection he shall, if the premises are unoccupied or the occupier\n\nis temporarily absent, leave them as effectively secured against\n\ntrespassers as he found them.\n\n(3) Without affecting the generality of subsection (1), the warrant\n\nissued by the Magistrate may authorize the search and seizure of\n\nany document, record, computerized data, digitalized data, plan,\n\ndrawing, material, plant, equipment, machinery, goods, energy-using\n\nproduct, product, label, item or thing which contains or\n\nis reasonably suspected to contain information as to any offence\n\nsuspected to have been committed or is otherwise necessary\n\nto conduct an investigation into any offence.\n\n(4) An authorized officer conducting a search under subsection (1)\n\nmay, for the purpose of investigating into the offence, search any\n\nperson who is in or on the premises.\n\n(5) The authorized officer making a search of a person under\n\nsubsection (4) or section 46 may seize, or take possession of, and\n\nplace in safe custody all things other than the necessary clothing,\n\nfound upon the person, and any other things, for which there is\n\nreason to believe were the instruments or other evidence of the\n\noffence, and they may be detained until an order by the court\n\nis issued for its disposal.\n\n(6) No person shall be searched except by another person of\n\nthe same gender, and such search shall be conducted with strict\n\nregard to decency.\n\n(7) If, by the reason of its nature, size or amount, it is not\n\npracticable to remove any document, record, computerized data,\n\ndigitalized data, plan, drawing, material, plant, equipment, machinery,\n\ngoods, energy-using product, product, label, item or thing seized\n\nunder this section, the authorized officer who effected the seizure\n\nshall by any means seal such document, record, computerized data,\n\ndigitalized data, plan, drawing, material, plant, equipment,\n\nmachinery, goods, energy-using product, product, label, item or\n\nthing in the premises or container in which it is found.\n\n(8) A person who, without lawful authority, breaks, tampers\n\nwith or damages the seal referred to in subsection (7) or removes\n\nany document, record, computerized data, digitalized data, plan,\n\ndrawing, material, plant, equipment, machinery, goods, energy-using\n\nproduct, product, label, item or thing under seal or attempts to do\n\nso commits an offence and shall, on conviction, be liable to a fine\n\nnot exceeding one hundred thousand ringgit or to imprisonment\n\nfor a term not exceeding two years or to both.\n\nSearch and seizure without warrant"
+   }
+  },
+  {
+   "id": "MY-H627-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "Section 46"
+   },
+   "chapter": {
+    "en": "Part IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "46. If an authorized officer is satisfied upon information received\n\nthat he has reasonable cause to believe that by reason of delay\n\nin obtaining a search warrant under section 45 the investigation\n\nwould be adversely affected or evidence of the commission of\n\nan offence is likely to be tampered with, removed, damaged or\n\ndestroyed, the authorized officer may enter the premises and\n\nexercise in, upon and in respect of the premises all the powers\n\nreferred to in section 45 in as full and ample a manner as if he\n\nwere authorized to do so by a warrant issued under that section.\n\nAccess to recorded information or computerized data, etc."
+   }
+  },
+  {
+   "id": "MY-H627-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "Section 47"
+   },
+   "chapter": {
+    "en": "Part IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "47. (1) Any authorized officer exercising his powers under\n\nsections 44, 45 and 46 shall be given access to any recorded\n\ninformation or computerized data or digitalized data, whether\n\nstored in a computer or otherwise.\n\n(2) In exercising his powers, the authorized officer—\n\n(a) may inspect and check the operation of any computer\n\nand any associated apparatus or material which he\n\nhas reasonable cause to suspect is or has been used\n\nin connection with that information or data; and\n\n(b) may require—\n\n(i) the person, by whom or on whose behalf,\n\nthe authorized officer has reasonable cause to\n\nsuspect the computer is or has been so used\n\nin connection with the information or data; or\nEnergy Efficiency and Conservation 41\n\n(ii) the person having charge of, or is otherwise\n\nconcerned with, the operation of the computer,\n\napparatus or material in connection with\n\nthe information or data,\n\nto provide him with such reasonable assistance as he may\n\nrequire for the purposes of this section.\n\n(3) The authorized officer may make copies or take extracts\n\nof the recorded information or computerized data or digitalized data,\n\nif he deems necessary.\n\n(4) For the purposes of this section, \"access\" includes being\n\nprovided with the necessary password, encryption code, decryption\n\ncode, software or hardware and any other means required\n\nto enable comprehension of recorded information or computerized data\n\nor digitalized data.\n\n(5) Any person who fails to give access to any authorized\n\nofficer to any recorded information or computerized data or\n\ndigitalized data under subsection (1) commits an offence and\n\nshall, on conviction, be liable to a fine not exceeding one hundred\n\nthousand ringgit.\n\nTipping-off"
+   }
+  },
+  {
+   "id": "MY-H627-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "Section 48"
+   },
+   "chapter": {
+    "en": "Part IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "48. (1) Any person who—\n\n(a) knows or has reasonable grounds to suspect that\n\nan authorized officer is acting, or is proposing to act,\n\nin connection with an investigation which is being,\n\nor is about to be, conducted under or for the purposes of\n\nthis Act and discloses to any other person information\n\nor any other matter which is likely to prejudice that\n\ninvestigation or proposed investigation; or\n\n(b) knows or has reasonable grounds to suspect that a disclosure\n\nhas been made to an authorized officer and discloses to\n\nany other person information or any other matter which\n\nis likely to prejudice any investigation which might be\n\nconducted following the disclosure,\n\ncommits an offence and shall, on conviction, be liable to a fine\n\nnot exceeding one hundred thousand ringgit or to imprisonment\n\nfor a term not exceeding two years or to both.\n\n(2) Nothing in subsection (1) makes it an offence for an advocate\n\nand solicitor or his employee to disclose any information or other\n\nmatter—\n\n(a) to his client or the client's representative in connection\n\nwith the giving of advice to the client in the course and\n\nfor the purposes of the professional employment of\n\nthe advocate and solicitor; or\n\n(b) to any person in contemplation of, or in connection with\n\nand for the purpose of, any legal proceedings.\n\n(3) Subsection (2) does not apply in relation to any information\n\nor other matter which is disclosed with a view to furthering any\n\nillegal purpose.\n\n(4) In any proceedings against a person for an offence under\n\nthis section, it is a defence to prove that—\n\n(a) he did not know or suspect that the disclosure made under\n\nparagraph (1)(b) was likely to prejudice the investigation;\n\nor\n\n(b) he had lawful authority or reasonable excuse for making\n\nthe disclosure.\n\n(5) An authorized officer or any other person does not commit\n\nan offence under this section in respect of anything done by him\n\nin the course of acting in connection with the enforcement or\n\nintended enforcement, of this Act.\n\nSearch warrant valid notwithstanding defects"
+   }
+  },
+  {
+   "id": "MY-H627-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "Section 49"
+   },
+   "chapter": {
+    "en": "Part IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "49. A search warrant issued under this Act shall be valid and\n\nenforceable notwithstanding any defect, mistake or omission in\n\nthe search warrant or in the application for such search warrant and\n\nany document, record, computerized data, digitalized data, plan,\n\ndrawing, material, plant, equipment, machinery, goods, energy-using\n\nproduct, product, label, item or thing seized under such search\n\nwarrant shall be admissible in evidence in any proceedings under\n\nthis Act.\nEnergy Efficiency and Conservation 43\n\nList of seized documents, etc."
+   }
+  },
+  {
+   "id": "MY-H627-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "Section 50"
+   },
+   "chapter": {
+    "en": "Part IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "50. (1) Except as provided in subsection (2), where any document,\n\nrecord, computerized data, digitalized data, plan, drawing,\n\nmaterial, plant, equipment, machinery, goods, energy-using\n\nproduct, product, label, item or thing is seized under this Part,\n\nthe authorized officer who effected the seizure shall as soon as\n\npracticable prepare a list of the document, record, computerized data,\n\ndigitalized data, plan, drawing, material, plant, equipment,\n\nmachinery, goods, energy-using product, product, label, item or\n\nthing seized and immediately deliver a copy of the list signed\n\nby him to the occupier of the premises which has been searched,\n\nor to his agent or servant, at the premises.\n\n(2) Where the premises are unoccupied, the authorized officer\n\nwho effected the seizure shall wherever possible post a list of\n\nthe things seized conspicuously on the premises.\n\nForfeiture of seized documents, etc."
+   }
+  },
+  {
+   "id": "MY-H627-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "Section 51"
+   },
+   "chapter": {
+    "en": "Part IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "51. (1) Any document, record, computerized data, digitalized\n\ndata, plan, drawing, material, plant, equipment, machinery, goods,\n\nenergy-using product, product, label, item or thing seized\n\nin exercise of any power conferred under this Act shall be liable\n\nto forfeiture.\n\n(2) An order for the forfeiture or for the release of any\n\ndocument, record, computerized data, digitalized data, plan,\n\ndrawing, material, plant, equipment, machinery, goods, energy-using\n\nproduct, product, label, item or thing seized in exercise of any\n\npower conferred under this Act shall be made by the court before\n\nwhich the prosecution with regard thereto it has been held and an\n\norder for the forfeiture of the document, record, computerized data,\n\ndigitalized data, plan, drawing, material, plant, equipment,\n\nmachinery, goods, energy-using product, product, label, item\n\nor thing shall be made if it is proved to the satisfaction of\n\nthe court that an offence under this Act has been committed and that\n\nthe document, record, computerized data, digitalized data, plan,\n\ndrawing, material, plant, equipment, machinery, goods, energy-using\n\nproduct, product, label, item or thing were the subject matter of\n\nor were used in the commission of the offence notwithstanding\n\nthat no person may have been convicted of such offence.\n\n(3) If there is no prosecution with regard to any document,\n\nrecord, computerized data, digitalized data, plan, drawing, material,\n\nplant, equipment, machinery, goods, energy-using product,\n\nproduct, label, item or thing seized in exercise of any power\n\nconferred under this Act, such document, record, computerized\n\ndata, digitalized data, plan, drawing, material, plant, equipment,\n\nmachinery, goods, energy-using product, product, label, item or\n\nthing shall be taken and deemed forfeited at the expiration of\n\nthree calendar months from the date of seizure unless a claim to\n\nsuch document, record, computerized data, digitalized data, plan,\n\ndrawing, material, plant, equipment, machinery, goods, energy-using\n\nproduct, product, label, item or thing is made before the date\n\nin the manner set out in subsections (4), (5) and (6).\n\n(4) Any person asserting that he is the owner of such document,\n\nrecord, computerized data, digitalized data, plan, drawing, material,\n\nplant, equipment, machinery, goods, energy-using product, product,\n\nlabel, item or thing and that the document, record, computerized\n\ndata, digitalized data, plan, drawing, material, plant, equipment,\n\nmachinery, goods, energy-using product, product, label, item or\n\nthing are not liable to forfeiture may personally or by his agent\n\nauthorized in writing give written notice to an authorized officer\n\nthat he claims the document, record, computerized data, digitalized\n\ndata, plan, drawing, material, plant, equipment, machinery, goods,\n\nenergy-using product, product, label, item or thing.\n\n(5) Upon receipt of such notice under subsection (4),\n\nthe authorized officer shall refer the claim to the Commission\n\nwhich may direct that such document, record, computerized\n\ndata, digitalized data, plan, drawing, material, plant, equipment,\n\nmachinery, goods, energy-using product, product, label, item or\n\nthing be released or forfeited or may direct the authorized officer\n\nto refer the matter to a court for decision.\n\n(6) The court to which the matter is referred shall issue a\n\nsummons requiring the person asserting that he is the owner of\n\nthe document, record, computerized data, digitalized data, plan,\n\ndrawing, material, plant, equipment, machinery, goods, energy-using\n\nproduct, product, label, item or thing and the person from whom\n\nthe document, record, computerized data, digitalized data, plan,\n\ndrawing, material, plant, equipment, machinery, goods, energy-using\n\nproduct, product, label, item or thing was seized to appear before\n\nthe court and upon his appearance or default to appear, due\n\nservice of the summons being proved, the court shall proceed to\n\nthe examination of the matter and on proof that an offence under\n\nthis Act has been committed and that such document, record,\nEnergy Efficiency and Conservation 45\n\ncomputerized data, digitalized data, plan, drawing, material, plant,\n\nequipment, machinery, goods, energy-using product, product,\n\nlabel, item or thing were the subject matter or were used in\n\nthe commission of such offence shall order the document, record,\n\ncomputerized data, digitalized data, plan, drawing, material, plant,\n\nequipment, machinery, goods, energy-using product, product,\n\nlabel, item or thing to be forfeited or may in the absence of such\n\nproof order for the release of the document, record, computerized\n\ndata, digitalized data, plan, drawing, material, plant, equipment,\n\nmachinery, goods, energy-using product, product, label, item or\n\nthing.\n\n(7) Any document, record, computerized data, digitalized data,\n\nplan, drawing, material, plant, equipment, machinery, goods,\n\nenergy-using product, product, label, item or thing forfeited or\n\ndeemed forfeited shall be delivered to the authorized officer who\n\nshall dispose the document, record, computerized data, digitalized\n\ndata, plan, drawing, material, plant, equipment, machinery, goods,\n\nenergy-using product, product, label, item or thing in accordance\n\nwith the directions of the Commission.\n\nRelease of seized documents, etc."
+   }
+  },
+  {
+   "id": "MY-H627-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "Section 52"
+   },
+   "chapter": {
+    "en": "Part IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "52. (1) If any document, record, computerized data, digitalized\n\ndata, plan, drawing, material, plant, equipment, machinery,\n\ngoods, energy-using product, product, label, item or thing\n\nhas been seized under this Act, the authorized officer who effected\n\nthe seizure may at any time after that, with the consent of\n\nthe Public Prosecutor, release the document, record, computerized\n\ndata, digitalized data, plan, drawing, material, plant, equipment,\n\nmachinery, goods, energy-using product, product, label, item or\n\nthing to the person as he determines to be lawfully entitled to\n\nthe document, record, computerized data, digitalized data, plan,\n\ndrawing, material, plant, equipment, machinery, goods, energy-using\n\nproduct, product, label, item or thing, if he is satisfied that\n\nthe document, record, computerized data, digitalized data,\n\nplan, drawing, material, plant, equipment, machinery, goods,\n\nenergy-using product, product, label, item or thing is not otherwise\n\nrequired for the purpose of any proceedings under this Act, or for\n\nthe purpose of any prosecution under any other written law, and\n\nin such event, neither the authorized officer effecting the seizure,\n\nnor the Government, the Commission or any person acting on\n\nbehalf of the Government or the Commission shall be liable to\n\nany proceedings by any person if the seizure and the release of\n\nthe document, record, computerized data, digitalized data, plan, drawing,\n\nmaterial, plant, equipment, machinery, goods, energy-using product,\n\nproduct, label, item or thing had been effected in good faith.\n\n(2) A record in writing shall be made by the authorized officer\n\neffecting the release of any document, record, computerized\n\ndata, digitalized data, plan, drawing, material, plant, equipment,\n\nmachinery, goods, energy-using product, product, label, item or\n\nthing under subsection (1) specifying in detail the circumstances\n\nof, and the reason for, the release, and he shall send a copy of\n\nthe record to the Public Prosecutor within seven days of the release.\n\nCost of holding seized document, etc."
+   }
+  },
+  {
+   "id": "MY-H627-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "Section 53"
+   },
+   "chapter": {
+    "en": "Part IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "53. Where any document, record, computerized data, digitalized\n\ndata, plan, drawing, material, plant, equipment, machinery, goods,\n\nenergy-using product, product, label, item or thing seized under this\n\nAct is held in the custody of the Government or the Commission\n\npending completion of any proceedings in respect of an offence\n\nunder this Act, the cost of holding such document, record,\n\ncomputerized data, digitalized data, plan, drawing, material, plant,\n\nequipment, machinery, goods, energy-using product, product, label,\n\nitem or thing in custody shall, in the event of any person being\n\nfound guilty of an offence, be a debt due to the Government or\n\nthe Commission, as the case may be, by such person and shall\n\nbe recoverable accordingly.\n\nNo cost or damages arising from seizure to be recoverable"
+   }
+  },
+  {
+   "id": "MY-H627-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "Section 54"
+   },
+   "chapter": {
+    "en": "Part IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "54. No person shall, in any proceedings before any court in respect of\n\nany document, record, computerized data, digitalized data,\n\nplan, drawing, material, plant, equipment, machinery, goods,\n\nenergy-using product, product, label, item or thing seized\n\nin the exercise or the purported exercise of any power conferred\n\nunder this Act, be entitled to the costs of such proceedings or\n\nto any damages or other relief unless such seizure was made\n\nwithout reasonable cause.\n\nPower to require attendance of persons acquainted with case"
+   }
+  },
+  {
+   "id": "MY-H627-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "Section 55"
+   },
+   "chapter": {
+    "en": "Part IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "55. (1) An authorized officer making an investigation under\n\nthis Act may, by order in writing, require the attendance before\n\nhimself of any person who appears to him to be acquainted with\n\nthe facts and circumstances of the case, and such person shall\n\nattend as so required.\nEnergy Efficiency and Conservation 47\n\n(2) If any such person refuses or fails to attend as required\n\nby an order made under subsection (1), the authorized officer\n\nmay report his refusal or failure to a Magistrate who shall issue\n\na warrant to secure the attendance of such person as may be\n\nrequired by the order.\n\nObstruction"
+   }
+  },
+  {
+   "id": "MY-H627-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "Section 56"
+   },
+   "chapter": {
+    "en": "Part IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "56. Any person who—\n\n(a) refuses to give any authorized officer access to any\n\npremises which the authorized officer is entitled to have\n\nunder this Act or in the execution of any duty imposed\n\nor power conferred by this Act;\n\n(b) assaults, obstructs, hinders or delays any authorized officer\n\nin effecting any entry which the authorized officer is\n\nentitled to effect under this Act or in the execution of\n\nany duty imposed or power conferred by this Act;\n\n(c) refuses to give any authorized officer any information\n\nrelating to an offence or suspected offence under\n\nthis Act or any other information or documents which\n\nmay reasonably be required of him and which he has\n\nin his knowledge or power to give;\n\n(d) refuses to give any other officer of the Commission any\n\ninformation which may reasonably be required of him\n\nand which he has in his knowledge or power to give\n\nrelating to any matter under the functions and powers\n\nof the Commission under section 4; or\n\n(e) gives information or documents that he knows or has\n\nreason to believe is false or misleading, in response to\n\na direction issued by the Commission,\n\ncommits an offence and shall, on conviction, be liable to a fine\n\nnot exceeding one hundred thousand ringgit or to imprisonment\n\nfor a term not exceeding two years or to both.\n\nEvidence of agent provocateur admissible"
+   }
+  },
+  {
+   "id": "MY-H627-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "Section 57"
+   },
+   "chapter": {
+    "en": "Part IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "57. (1) Notwithstanding any rule of law or the provisions of\n\nthis Act or any other written law to the contrary, no agent provocateur\n\nshall be presumed to be unworthy of credit by reason only of\n\nhis having attempted to abet or abetted the commission of an offence\n\nby any person under this Act if the attempt to abet or abetment\n\nwas for the sole purpose of securing evidence against such person.\n\n(2) Notwithstanding any rule of law or the provisions of this\n\nAct or any other written law to the contrary, any statement,\n\nwhether oral or in writing made to the agent provocateur by any\n\nperson who subsequently is charged with an offence under\n\nthis Act shall be admissible as evidence at his trial.\n\nTaking of samples"
+   }
+  },
+  {
+   "id": "MY-H627-A58",
+   "no": 58,
+   "noLabel": {
+    "en": "Section 58"
+   },
+   "chapter": {
+    "en": "Part IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "58. (1) Where any document, record, computerized data,\n\ndigitalized data, plan, drawing, material, plant, equipment,\n\nmachinery, goods, energy-using product, product, label, item or\n\nthing which are the subject matter of an offence under this Act\n\nare found in two or more packages or receptacles of the same\n\ndescription, it shall be presumed until the contrary is proved that\n\nall the packages or receptacles contain the document, record,\n\ncomputerized data, digitalized data, plan, drawing, material, plant,\n\nequipment, machinery, goods, energy-using product, product, label,\n\nitem or thing of the same nature, quantity and quality.\n\n(2) Where packages or receptacles containing document, record,\n\ncomputerized data, digitalized data, plan, drawing, material, plant,\n\nequipment, machinery, goods, energy-using product, product, label,\n\nitem or thing which contravene the provisions of this Act or are\n\notherwise liable to seizure have been seized, it shall be sufficient\n\nonly to open and examine one per centum or not less than\n\nfive samples, whichever is the lesser, of the contents of each package\n\nor receptacle seized.\n\n(3) The court shall presume that the remaining samples\n\ncontained in the package or receptacle is of the same nature as\n\nthose samples examined.\nEnergy Efficiency and Conservation 49\n\nDestruction, concealment, mutilation and alteration of\n\ndocument, etc."
+   }
+  },
+  {
+   "id": "MY-H627-A59",
+   "no": 59,
+   "noLabel": {
+    "en": "Section 59"
+   },
+   "chapter": {
+    "en": "Part IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "59. Any person who—\n\n(a) destroys, conceals, mutilates or alters; or\n\n(b) sends or attempts to send or conspires with any other\n\nperson to remove from his premises or send out of\n\nMalaysia,\n\nany document, record, computerized data, digitalized data, plan,\n\ndrawing, material, plant, equipment, machinery, goods, energy-using\n\nproduct, product, label, item or thing kept or maintained to defraud\n\nthe authorized officer or the Commission or to prevent, delay or\n\nobstruct the carrying out of an investigation or the exercise of any\n\npower by the authorized officer or the Commission under this Act\n\ncommits an offence and shall, on conviction, be liable to a fine\n\nnot exceeding one hundred thousand ringgit or to imprisonment\n\nfor a term not exceeding two years or to both.\n\nPart X\n\nGENERAL\n\nInstitution of prosecution"
+   }
+  },
+  {
+   "id": "MY-H627-A60",
+   "no": 60,
+   "noLabel": {
+    "en": "Section 60"
+   },
+   "chapter": {
+    "en": "Part X"
+   },
+   "heading": {},
+   "text": {
+    "en": "60. No prosecution for an offence under this Act shall be instituted\n\nexcept by or with the written consent of the Public Prosecutor.\n\nCompounding of offences"
+   }
+  },
+  {
+   "id": "MY-H627-A61",
+   "no": 61,
+   "noLabel": {
+    "en": "Section 61"
+   },
+   "chapter": {
+    "en": "Part X"
+   },
+   "heading": {},
+   "text": {
+    "en": "61. (1) T h e M i n i s t e r m a y, w i t h t h e a p p r o v a l o f\n\nthe Public Prosecutor, make regulations prescribing—\n\n(a) any offence under this Act as an offence which may be\n\ncompounded; and\n\n(b) the method and procedure for compounding such offence.\n\n(2) The Commission may, with the consent in writing of the\n\nPublic Prosecutor, at any time before a prosecution is being\n\ninstituted, compound any offence prescribed as an offence\n\nwhich may be compounded by making a written offer to the\n\nperson reasonably suspected of having committed the offence\n\nto compound the offence upon payment to the Commission of a\n\nsum of money not exceeding fifty per centum of the amount of\n\nthe maximum fine to which the person would have been liable to\n\nif he had been convicted of the offence, within such time as may\n\nbe specified in the written offer.\n\n(3) A written offer under subsection (2) may be made at\n\nany time after the offence has been committed but before any\n\nprosecution for it has been instituted, and where the amount\n\nspecified in the offer is not paid within the time specified in\n\nthe offer, or such extended time as the Commission may grant,\n\nprosecution for the offence may be instituted at any time after\n\nthat against the person to whom the offer was made.\n\n(4) Where an offence has been compounded under subsection (2),\n\nno prosecution shall be instituted in respect of the offence\n\nagainst the person to whom the offer to compound was made,\n\nand the Commission may forfeit or return any document, record,\n\ncomputerized data, digitalized data, plan, drawing, material, plant,\n\nequipment, machinery, goods, energy-using product, product, label,\n\nitem or thing seized in connection with the offence, subject to\n\nsuch terms as the Commission thinks fit.\n\n(5) All sums of money received by the Commission under\n\nthis section shall be paid into the Federal Consolidated Fund.\n\nLiability of director, etc., of company, etc."
+   }
+  },
+  {
+   "id": "MY-H627-A62",
+   "no": 62,
+   "noLabel": {
+    "en": "Section 62"
+   },
+   "chapter": {
+    "en": "Part X"
+   },
+   "heading": {},
+   "text": {
+    "en": "62. Where any person who commits an offence under this Act\n\nis a company, limited liability partnership, firm, society or other\n\nbody of persons, a person who at the time of the commission of\n\nthe offence was a director, compliance officer, partner, manager,\n\nsecretary or other similar officer of the company, limited liability\n\npartnership, firm, society or other body of persons or was\n\npurporting to act in the capacity or was in any manner or to any\n\nextent responsible for the management of any of the affairs of\n\nthe company, limited liability partnership, firm, society or other\n\nbody of persons or was assisting in its management—\nEnergy Efficiency and Conservation 51\n\n(a) may be charged severally or jointly in the same proceedings\n\nwith the company, limited liability partnership, firm,\n\nsociety or the body of persons; and\n\n(b) if the company, limited liability partnership, firm, society\n\nor other body of persons is found guilty of the offence,\n\nshall be deemed to be guilty of that offence and shall be\n\nliable to the same punishment or penalty as an individual\n\nunless, having regard to the nature of his functions in\n\nthat capacity and to all circumstances, he proves—\n\n(i) that the offence was committed without his\n\nknowledge; and\n\n(ii) that the offence was committed without his\n\nconsent or connivance and that he had taken all\n\nreasonable precautions and exercised due diligence\n\nto prevent the commission of the offence.\n\nLiability of person for act, etc., of employee, etc."
+   }
+  },
+  {
+   "id": "MY-H627-A63",
+   "no": 63,
+   "noLabel": {
+    "en": "Section 63"
+   },
+   "chapter": {
+    "en": "Part X"
+   },
+   "heading": {},
+   "text": {
+    "en": "63. Where any person would be liable to any punishment or\n\npenalty under this Act for any act, omission, neglect or default\n\ncommitted—\n\n(a) by that person's employee in the course of his employment;\n\n(b) by that person's agent when acting on behalf of that\n\nperson; or\n\n(c) by the employee of that person's agent when acting in\n\nthe course of his employment by the person's agent\n\nor otherwise on behalf of the person's agent acting on\n\nbehalf of that person,\n\nthat person shall be liable to the same punishment or penalty\n\nfor every such act, omission, neglect or default of that person's\n\nemployee or agent, or of the employee of that person's agent.\n\nProtection against suits and legal proceedings"
+   }
+  },
+  {
+   "id": "MY-H627-A64",
+   "no": 64,
+   "noLabel": {
+    "en": "Section 64"
+   },
+   "chapter": {
+    "en": "Part X"
+   },
+   "heading": {},
+   "text": {
+    "en": "64. No action, suit, prosecution or other proceedings shall be\n\nbrought, instituted or maintained in any court against—\n\n(a) the Commission, authorized officer or any other person\n\nfor or on account of or in respect of any act ordered\n\nor done for the purpose of carrying into effect this Act;\n\nand\n\n(b) any other person for or on account of or in respect of\n\nany act done or purported to be done by him under\n\nthe order, direction or instruction of the Commission or\n\nauthorized officer,\n\nif the act was done in good faith and in a reasonable belief that\n\nit was necessary for the purpose intended to be served by it.\n\nRegisters"
+   }
+  },
+  {
+   "id": "MY-H627-A65",
+   "no": 65,
+   "noLabel": {
+    "en": "Section 65"
+   },
+   "chapter": {
+    "en": "Part X"
+   },
+   "heading": {},
+   "text": {
+    "en": "65. (1) The Commision shall keep and maintain the following\n\nregisters in such form as the Commission may determine:\n\n(a) register of registered energy managers;\n\n(b) register of registered energy auditors;\n\n(c) register of registered manufacturers and registered importers;\n\nand\n\n(d) register of registered training institutions.\n\n(2) The Commission shall remove from the registers the name\n\nand other particulars—\n\n(a) of any registered energy manager or registered energy\n\nauditor—\n\n(i) who has died;\n\n(ii) who is unsound mind or is otherwise incapable\n\nof discharging his duties; or\nEnergy Efficiency and Conservation 53\n\n(iii) whose certificate of registration has been cancelled\n\nunder section 30; and\n\n(b) of any registered manufacturer, registered importer or\n\nregistered training institution—\n\n(i) which has gone into liquidation or has been\n\nwound up or otherwise dissolved; or\n\n(ii) whose certificate of registration has been cancelled\n\nunder sections 20 and 36 respectively.\n\nService of notice"
+   }
+  },
+  {
+   "id": "MY-H627-A66",
+   "no": 66,
+   "noLabel": {
+    "en": "Section 66"
+   },
+   "chapter": {
+    "en": "Part X"
+   },
+   "heading": {},
+   "text": {
+    "en": "66. (1) Every notice or any other documents required to be\n\nserved on any person under this Act may be served—\n\n(a) personally upon the person;\n\n(b) by sending it to the person by registered post; or\n\n(c) by electronic means.\n\n(2) The notice or other documents sent by registered post to\n\na person shall be deemed to have been served on that person at\n\nthe time at which it would have been delivered to that person in\n\nthe ordinary course of the post if the notice or other document\n\nwas addressed—\n\n(a) in the case of a company, limited liability partnership,\n\nfirm, society or other body of persons—\n\n(i) to its registered office;\n\n(ii) to its last-known address; or\n\n(iii) to any person authorized by it to accept service\n\nof process; and\n\n(b) in the case of an individual, to his last known address.\n\n(3) Where a person has given his consent for a notice or\n\ndocument to be served on him through electronic means,\n\nthe notice or document shall be deemed to have been served at\n\nthe time when the electronic notice or document is transmitted\n\nto his account through the electronic means.\n\nPower to issue guidelines and directions"
+   }
+  },
+  {
+   "id": "MY-H627-A67",
+   "no": 67,
+   "noLabel": {
+    "en": "Section 67"
+   },
+   "chapter": {
+    "en": "Part X"
+   },
+   "heading": {},
+   "text": {
+    "en": "67. (1) The Commission may issue any guidelines as may be\n\nexpedient or necessary for the better carrying out of the provisions\n\nof this Act.\n\n(2) The Commission may issue such directions as the Commission\n\nconsiders necessary for the purpose of ensuring compliance with\n\nthis Act.\n\n(3) The Commission may revoke, vary, revise or amend\n\nthe whole or any part of any guidelines or directions issued under\n\nthis section.\n\nPower to exempt"
+   }
+  },
+  {
+   "id": "MY-H627-A68",
+   "no": 68,
+   "noLabel": {
+    "en": "Section 68"
+   },
+   "chapter": {
+    "en": "Part X"
+   },
+   "heading": {},
+   "text": {
+    "en": "68. The Minister may, by order published in the Gazette,\n\nsubject to such conditions or restrictions as he may consider\n\nnecessary or expedient to impose, exempt any building or class\n\nof building, any manufacturer or importer or class of manufacturer\n\nor importer or any energy-using product or class of energy-using\n\nproduct from any or all of the provisions of this Act.\n\nPower to make regulations"
+   }
+  },
+  {
+   "id": "MY-H627-A69",
+   "no": 69,
+   "noLabel": {
+    "en": "Section 69"
+   },
+   "chapter": {
+    "en": "Part X"
+   },
+   "heading": {},
+   "text": {
+    "en": "69. (1) The Minister may make such regulations as may be\n\nexpedient or necessary for giving full effect or the better carrying\n\nout of the provisions of this Act.\n\n(2) Without prejudice to the generality of subsection (1),\n\nregulations may be made for the following purposes:\n\n(a) to prescribe the energy consumption threshold for\n\nthe purpose of ascertaining the application of this Act\n\nto an energy consumer to whom this Act applies;\nEnergy Efficiency and Conservation 55\n\n(b) to prescribe the period and manner for the appointment\n\nof a registered energy manager;\n\n(c) to prescribe the period for the development of an energy\n\nmanagement system by an energy consumer to whom\n\nthis Act applies;\n\n(d) to prescribe the period and manner for the submission\n\nof an energy efficiency and conservation report by\n\nan energy consumer to whom this Act applies;\n\n(e) to prescribe the period and manner for the submission of\n\nan energy audit report by an energy consumer to whom\n\nthis Act applies;\n\n(f) to prescribe the period for an application for exemption\n\nfrom submitting the subsequent energy audit reports by\n\nan energy consumer to whom this Act applies;\n\n(g) to prescribe the period and manner for the application\n\nof an energy intensity label in respect of a building\n\nto which this Act applies, including the validity of\n\nthe energy intensity label;\n\n(h) to prescribe the energy efficiency rating in relation to\n\nthe energy intensity performance to be complied with\n\nby a building to which this Act applies, including\n\nthe manner to comply with the energy efficiency rating;\n\n(i) to prescribe the minimum energy performance standards\n\nto be met by an energy-using product to which this Act\n\napplies;\n\n(j) to prescribe the qualifications for registration of\n\nenergy manager and energy auditor under this Act;\n\n(k) to prescribe the offences which may be compounded and\n\nthe forms to be used and the method and procedure for\n\ncompounding the offences for the purposes of section 61;\n\n(l) to prescribe the fees payable under this Act, including\n\nthe late fees; and\n\n(m) to prescribe any other matter required to be prescribed\n\nunder this Act.\n\n(3) Any regulations made under this Act may prescribe\n\nan act or omission in contravention of the regulations to be\n\nan offence and may prescribe for penalties of a fine not exceeding\n\ntwenty thousand ringgit for such offence.\n\nPower to amend Schedules"
+   }
+  },
+  {
+   "id": "MY-H627-A70",
+   "no": 70,
+   "noLabel": {
+    "en": "Section 70"
+   },
+   "chapter": {
+    "en": "Part X"
+   },
+   "heading": {},
+   "text": {
+    "en": "70. The Minister may, upon the recommendation of the Commission,\n\nby order published in the Gazette, amend the Schedules to\n\nthis Act.\n\nSaving"
+   }
+  },
+  {
+   "id": "MY-H627-A71",
+   "no": 71,
+   "noLabel": {
+    "en": "Section 71"
+   },
+   "chapter": {
+    "en": "Part X"
+   },
+   "heading": {},
+   "text": {
+    "en": "71. (1) Any person who holds a valid certificate of registration as\n\nan electrical energy manager issued under the Electricity Supply\n\nAct 1990 [Act 447] before the date of the coming into operation\n\nof this Act shall, on the date of the coming into operation of\n\nthis Act, be deemed to be a registered energy manager under\n\nthis Act and may carry out the functions and duties of a registered\n\nenergy manager under this Act until the date of the expiry of\n\nthe certificate of registration, provided that such person has made\n\nan application to be registered as an energy manager under this Act.\n\n(2) Any energy-using product in respect of which a valid\n\ncertificate of approval under the Electricity Supply Act 1990\n\nhas been issued before the date of the coming into operation\n\nof this Act shall, on the date of the coming into operation of\n\nthis Act, be deemed to have been issued in its respect a certificate\n\nof energy efficiency under this Act until the date of the expiry\n\nof the certificate of approval, provided that an application for\n\na certificate of energy efficiency in respect of the energy-using\n\nproduct has been made under this Act.\n\nFirst Schedule\n\n[Section 2]\n\nENERGY RESOURCES"
+   }
+  }
+ ]
+}

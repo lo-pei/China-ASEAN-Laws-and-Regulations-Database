@@ -1,0 +1,82 @@
+{
+ "id": "PH-H12823",
+ "title": {
+  "zh": null,
+  "en": "An Act Creating a Committee to Investigate the Causes of the Excessive Infant Mortality in the Philippine Islands and the Measures Which Should He Adopted to Decrease It, and Appropriating the Sum of Ten thousand Pesos or Such Part thereof as May Be Necessary for Said Purpose.",
+  "orig": "An Act Creating a Committee to Investigate the Causes of the Excessive Infant Mortality in the Philippine Islands and the Measures Which Should He Adopted to Decrease It, and Appropriating the Sum of Ten thousand Pesos or Such Part thereof as May Be Necessary for Said Purpose."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1912-02-01",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2116",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 1955,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1912/act_2116_1912.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02116_1912_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02116_1912_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12823-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "A committee of three members, to be appointed by the Governor-General with the advice and\nconsent of the Philippine Commission, is hereby created for the purpose of investigating the causes of the\nexcessive infant mortality in the Philippine Islands and the methods which should be adopted to decrease it.\nThe committee shall be immediately organized and elect a chairman from among its members, and each\nmember shall receive as compensation twenty pesos for each day of session actually attended by him:\nProvided, however, That if a Government officer is appointed on said committee he shall not receive the per\ndiems provided for by this Act."
+   }
+  },
+  {
+   "id": "PH-H12823-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "To be appointed a member of this committee it shall be necessary:\n(a) To be a citizen of the Philippine Islands or of the United States;\n(b) To be a doctor or licentiate of medicine and surgery of some properly accredited medical college;\n(c) To have practiced the medical profession in the Philippine Islands for five years at least or have been\nemployed during the same time in the Bureau of Health, Medical School, or Bureau of Science."
+   }
+  },
+  {
+   "id": "PH-H12823-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "The committee is hereby authorized to employ a secretary, who shall be a typewriter and a\nstenographer. The Director of Health shall furnish such additional subordinate personnel and such stationery\nand offices as may be necessary for the committee hereby created. The committee shall present to the Third\nLegislature, on or before its first regular session, a detailed report of its work and of its conclusions and\nrecommendations in connection therewith. On the same date the committee shall dissolve and be relieved of\nits functions."
+   }
+  },
+  {
+   "id": "PH-H12823-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "The sum of ten thousand pesos, or so much thereof as may be necessary, is hereby appropriated,\nout of any funds in the Insular Treasury not otherwise appropriated, to be expended by the chairman of the\ncommittee for the payment of the per diems and any other necessary expenses for carrying out the purpose of\nEnacted, February 1, 1912."
+   }
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13521",
+ "title": {
+  "zh": null,
+  "en": "An Act Granting to the National Development Company Certain Powers With Regard to Public Land, Mines or Mining Claims, Any Legal Provision to the Contrary Notwithstanding.",
+  "orig": "An Act Granting to the National Development Company Certain Powers With Regard to Public Land, Mines or Mining Claims, Any Legal Provision to the Contrary Notwithstanding."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1919-11-24",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2873",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1197,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1919/act_2873_1919.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02873_1919_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02873_1919_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13521-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "If, for the proper attainment of its purposes, the National Development Company should find it\nnecessary to acquire, hold and manage, alienate or encumber lands, mines or mining claims in excess, of the\nlimit as to area established by law, said company is hereby authorized to acquire, hold, manage, alienate, arid\nencumber such lands, mines or mining claims during a period of ten years from and after the date of their\nacquisition, possession, or administration, in order to prepare and facilitate the alienation or other disposal of\nthe same. The Governor-General may, however, extend this time from year to year, whenever necessary in\norder to facilitate the sale or disposal of such agricultural lands, mines or mining claims, provided the total of\nsuch extensions shall not exceed ten years."
+   }
+  },
+  {
+   "id": "PH-H13521-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval by the President of the United States, in accordance\nwith section nine of the act commonly known as the Jones Law, entitled \"An Act to declare the purpose of the\npeople of the United States as to the future political status of the people of the Philippine Islands, and to\nprovide a more autonomous government for those Islands.\"\nApproved, November 24, 1919."
+   }
+  }
+ ]
+}

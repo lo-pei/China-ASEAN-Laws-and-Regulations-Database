@@ -1,0 +1,72 @@
+{
+ "id": "PH-H12541",
+ "title": {
+  "zh": null,
+  "en": "Acts No. 1832  An Act Abolishing the Special Tax of One Per Centum on the Assessed Value of Undeclared Property.",
+  "orig": "Acts No. 1832  An Act Abolishing the Special Tax of One Per Centum on the Assessed Value of Undeclared Property."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1908-05-21",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 1832",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 474,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (HTML full text only)  |  https://lawphil.net/statutes/acts/act1908/act_1832_1908.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_01832_1908_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_01832_1908_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12541-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The special tax of one per centum on the assessed value of undeclared property, established by\nsubsection (c) of section three of Act Numbered Fourteen hundred and fifty-five, as amended, is hereby"
+   }
+  },
+  {
+   "id": "PH-H12541-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall have retroactive effect, in such manner that the special tax collectible on property\ncovered by the laws cited in the preceding section and still pending payment siiall be remitted, as provided for"
+   }
+  },
+  {
+   "id": "PH-H12541-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, May 21, 1908."
+   }
+  }
+ ]
+}

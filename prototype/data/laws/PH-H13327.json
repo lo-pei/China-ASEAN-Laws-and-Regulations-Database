@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13327",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Section Four Hundred and Seventy-Two of the Administrative Code, Authorizing the Remission of the Land Tax in Certain Cases.",
+  "orig": "An Act to Amend Section Four Hundred and Seventy-Two of the Administrative Code, Authorizing the Remission of the Land Tax in Certain Cases."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1917-03-09",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2676",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 739,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1917/act_2676_1917.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02676_1917_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02676_1917_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13327-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section four hundred and seventy-two of the Administrative Code is hereby amended to read as\n\"Section 472. Remission of tax by provincial board.-In case of a general failure of crops or similar widespread\ndisaster in any municipality or municipalities of a province, the provincial board of the same, by resolution\npassed prior to the first of January of any year, may remit, wholly or partially, the real-property tax or the\npenalties thereon for the succeeding year in the municipalities affected by the disaster; but a resolution so\ndisposing must clearly state the reasons for such remission and shall not take effect until approved by the\nSecretary of the Interior.\""
+   }
+  },
+  {
+   "id": "PH-H13327-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, March 9, 1917."
+   }
+  }
+ ]
+}

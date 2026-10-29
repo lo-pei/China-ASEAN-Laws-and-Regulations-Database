@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13720",
+ "title": {
+  "zh": null,
+  "en": "An Act to Relieve the Province of Palawan From the Payment of Its Indebtedness to the Insular Government Incurred in the Year Nineteen Hundred and Eighteen in Connection With the Repair of the Provincial Launch Palawan",
+  "orig": "An Act to Relieve the Province of Palawan From the Payment of Its Indebtedness to the Insular Government Incurred in the Year Nineteen Hundred and Eighteen in Connection With the Repair of the Provincial Launch Palawan"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1923-03-16",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3076",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 460,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1923/act_3076_1923.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03076_1923_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03076_1923_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13720-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The indebtedness of the Province of Palawan to the Insular Government, amounting to\nthirty-three thousand and twenty-four pesos and fifty-one centavos and incurred by said province in\nconnection with the repair of its provincial launch Palawan in the year nineteen hundred and eighteen, is\nhereby remitted and cancelled, and the Province of Palawan is declared relieved from said obligation."
+   }
+  },
+  {
+   "id": "PH-H13720-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, March 16, 1923."
+   }
+  }
+ ]
+}

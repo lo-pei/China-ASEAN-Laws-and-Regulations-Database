@@ -1,0 +1,182 @@
+{
+ "id": "ID-H878",
+ "title": {
+  "zh": "机动车燃油税法",
+  "en": "Law on the Motor Vehicle Fuel Tax",
+  "id": "PAJAK BAHAN BAKAR KENDARAAN BERMOTOR",
+  "orig": "PAJAK BAHAN BAKAR KENDARAAN BERMOTOR",
+  "vi": "Luật về Thuế Nhiên liệu Xe Cơ giới",
+  "th": "พระราชบัญญัติว่าด้วยภาษีเชื้อเพลิงยานยนต์",
+  "ms": "Akta tentang Cukai Bahan Bakar Kenderaan Bermotor"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02a",
+ "language": "id",
+ "level": "law",
+ "category": "02_民商事与经济法",
+ "status": "active",
+ "promulgatedDate": "1997",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU21-1997",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 10,
+ "chars": 5149,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PP0211997.pdf&fl=P04030"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\02_民商事与经济法\\印尼_文本_1997_PAJAK BAHAN BAKAR KENDARAAN BERMOTOR.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 10 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H878-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\nDalam Peraturan Pemerintah ini yang dimaksud dengan :\n1. Pajak adalah Pajak Daerah menurut Undang -undang Nomor 18\nTahun 1997 tentang Pajak Daerah dan Retribusi Daerah;\n2. Kendaraan Bermotor adalah semua kendaraan beroda dua atau lebih\nbeserta gandengannya yang digunakan dijalan umum, dan digerakan\noleh peralatan teknik berupa motor atau peralatan lainnya yang\nberfungsi untuk mengubah suatu sumber energi tertentu menjadi\ntenaga gerak kendaraan bermotor yang bersangkutan, tidak\ntermasuk alat-alat berat atau alat-alat besar;\n3. Bahan…\nPRESIDEN\nREPUBLIK INDONESIA\n3. Bahan Bakar Kendaraan Bermotor adalah bahan bakar yang\ndigunakan untuk menggerakkan kendaraan bermotor.\nBAB II\nOBJEK, SUBJEK, DASAR PENGENAAN, DAN TARIF PAJAK BAHAN BAKAR\nKENDARAAN BERMOTOR"
+   }
+  },
+  {
+   "id": "ID-H878-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\n(1) Objek Pajak Bahan Bakar Kendaraan Bermotor adalah bahan bakar\nkendaraan bermotor yang disediakan atau dianggap digunakan\nuntuk kendaraan bermotor.\n(2) Bahan bakar kendaraan bermotor sebagaimana dimaksud pada ayat\n(1) adalah bensin, solar, dan gas."
+   }
+  },
+  {
+   "id": "ID-H878-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\n(1) Subjek Pajak Bahan Bakar Kendaraan Bermotor adalah konsumen\nbahan bakar kendaraan bermotor.\n(2) Wajib Pajak Bahan Bakar Kendaraan Bermotor adalah penyedia\nbahan bakar kendaraan bermotor."
+   }
+  },
+  {
+   "id": "ID-H878-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\nDasar pengenaan Pajak Bahan Bakar Kendaraan Bermotor a dalah harga\njual bahan bakar kendaraan bermotor."
+   }
+  },
+  {
+   "id": "ID-H878-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\nTarif Pajak Bahan Bakar Kendaraan Bermotor ditetapkan sebesar 5%\n(lima persen)."
+   }
+  },
+  {
+   "id": "ID-H878-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\nBesarnya Pajak Bahan Bakar Kendaraan Bermotor yang terutang dihitung\ndengan cara mengalikan tarif pajak sebagaimana dimaksud dalam Pasal 5\ndengan dasar pengenaan pajak sebagaimana dimaksud dalam Pasal 4."
+   }
+  },
+  {
+   "id": "ID-H878-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\n(1) Hasil Penerimaan Pajak Bahan Bakar Ken daraan Bermotor\ndiserahkan kepada Daerah Tingkat II setelah dikurangi sebesar 10%\n(sepuluh persen) untuk Daerah Tingkat I yang bersangkutan.\n(2) Bagian...\nPRESIDEN\nREPUBLIK INDONESIA\n(2) Bagian penerimaan Daerah Tingkat II sebesar 90% (sembilan puluh\npersen) sebagaimana dimaksud pad a ayat (1) dibagikan kepada\nDaerah Tingkat II dengan pembagian sebagai berikut:\na. 50% (lima puluh persen) berdasarkan panjang jalan pada Daerah\nTingkat II yang bersangkutan;\nb. 50% (lima puluh persen) dibagi rata untuk seluruh daerah\nTingkat II."
+   }
+  },
+  {
+   "id": "ID-H878-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\nTata cara pemungutan dan pembagian Pajak Bahan Bakar Kendaraan\nBermotor ditetapkan oleh Menteri Dalam Negeri dengan pertimbangan\nMenteri Keuangan."
+   }
+  },
+  {
+   "id": "ID-H878-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\nKetentuan mengenai Peraturan Daerah tentang Pajak Bahan Bakar\nKendaraan Bermotor dilakukan sesua i ketentuan dalam Peraturan\nPemerintah yang mangatur Pajak Daerah.\nBAB III\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H878-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\nPemberlakuan Peraturan pemerintah ini ditetapkan dengan Keputusan\nPresiden.\nAgar…\nPRESIDEN\nREPUBLIK INDONESIA\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nPeraturan Pemerintah ini dengan penempatannya dalam Lembaran\nNegara Republik Indonesia.\nDitetapkan di Jakarta\npada tanggal 4 Juli 1997\nPRESIDEN REPUBLIK INDONESIA,\nttd.\nSOEHARTO\nDiundangkan di Jakarta\npada tanggal 4 Juli 1997\nMENTERI NEGARA SEKRETARIS NEGARA\nREPUBLIK INDONESIA,\nttd.\nMOERDIONO\nPRESIDEN\nREPUBLIK INDONESIA\nPENJELASAN\nATAS\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nNOMOR 21 TAHUN 1997\nTENTANG\nPAJAK BAHAN BAKAR KENDARAAN BERMOTOR\nUMUM\nDalam rangka mendukung perkembangan otonomi daerah yang nyata, dinamis, serasi dan\nbertanggung jawab, pembiayaan pemerintahan dan pembangunan daerah yang bersumber\ndari pendapatan asli daerah, khususnya yang berasal dari pajak daerah, perlu ditingkatkan.\nSejalan dengan semakin meningkatnya pelaksanaan pembangunan dan pemberian\npelayanan kepada masyarakat serta usaha peningkatan pertumbuhan perekonomian\ndaerah, diperlukan penyediaan sumber -sumber pendapatan asli da erah yang hasilnya\nsemakin meningkat pula. Upaya peningkatan penyediaan dana dari sumber -sumber\ntersebut antara lain dilakukan dengan peningkatan kinerja pemungutannya serta\npenyederhanaan, penyempurnaan, dan penambahan jenis pajak, melalui Undang -undang\nNomor 18 Tahun 1997 tentang Pajak daerah dan Retribusi Daerah. Langkah -langkah ini\ndiharapkan akan meningkatkan efektivitas dan efisiensi pemungutan pajak daerah serta\nmeningkatkan mutu dan jenis pelayanan kepada masyarakat. Wajib Pajak dapat dengan\nmudah memahami dan memenuhi kewajiban perpajakannya.\nPeraturan Pemerintah tetang Pajak Bahan Bakar Kendaraan Bermotor ini dimaksudkan\nsebagai pelaksanaan ketentuan Undang -undang Nomor 18 Tahun 1997 tentang Pajak\ndaerah dan Retribusi Daerah.\nPASAL DEMI PASAL\nPasal 1\nCukup jelas\nPasal 2\nAyat (1)\nYang dimaksud dengan dianggap digunakan untuk kendaraan bermotor\nadalah bahan bakar yang diperoleh melalui antara lain Stasiun Bahan Bakar\nUmum (SPBU).\nAyat (2)\nTermasuk dalam pengertian bensin adalah premium dan premix.\nPasal 3…\nPRESIDEN\nREPUBLIK INDONESIA\nPasal 3\nAyat (1)\nCukup jelas\nAyat (2)\nYang dimaksud dengan penyedia bahan bakar kendaraan bermotor adalah\nprodusen bahan bakar kendaraan bermotor yaitu Pertamina dan atau\nprodusen bahan bakar lainnya.\nPasal 4\nYang dimaksud dengan harga jual adalah harga jual tidak termasuk Pajak\nPertambahan Nilai (PPN).\nPasal 5\nCukup jelas\nPasal 6\nCukup jelas\nPasal 7\nCukup jelas\nPasal 8\nCukup jelas\nPasal 9\nCukup jelas\nPasal 10\nCukup jelas"
+   }
+  }
+ ]
+}

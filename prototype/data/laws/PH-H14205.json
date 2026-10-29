@@ -1,0 +1,82 @@
+{
+ "id": "PH-H14205",
+ "title": {
+  "zh": null,
+  "en": "An Act to Prohibit the Cutting of Tindalo, Akle, or Molave Trees, Under Certain Conditions, and to Penalize VIolations thereof.",
+  "orig": "An Act to Prohibit the Cutting of Tindalo, Akle, or Molave Trees, Under Certain Conditions, and to Penalize VIolations thereof."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1929-11-26",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3572",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 1008,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1929/act_3572_1929.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03572_1929_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03572_1929_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14205-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The cutting in the public forests of tindalo, akle, or molave trees less than sixty centimeters in\ndiameter measured at a height of four feet from the ground (breast high) is hereby prohibited."
+   }
+  },
+  {
+   "id": "PH-H14205-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Any person, company, or corporation violating the provisions of this Act shall be punished by a\nfine of not more than fifty pesos or imprisonment for not more than fifteen days, or both, and to pay, besides,\ntwo times the amount of the tax on the timber cut: Provided, That in the case of a company or corporation, the\npresident or manager shall be directly responsible for the acts of his employees or laborers if it is proven that\nthe latter acted with his knowledge; otherwise the responsibility will extend only as far as fine is concerned:\nProvided, further, That all tindalo, akle or molave timber cut in violation of this Act shall be forfeited to the\nGovernment."
+   }
+  },
+  {
+   "id": "PH-H14205-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "All acts and provisions of law inconsistent herewith are hereby repealed."
+   }
+  },
+  {
+   "id": "PH-H14205-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, November 26, 1929."
+   }
+  }
+ ]
+}

@@ -1,0 +1,922 @@
+{
+ "id": "LA-H465",
+ "title": {
+  "zh": "反洗钱和反恐怖融资法",
+  "en": "Law on Anti-Money Laundering and Counter-Financing of Terrorism",
+  "orig": "Law on Anti-Money Laundering and Counter-Financing of Terrorism",
+  "vi": "Luật Phòng chống rửa tiền và chống tài trợ khủng bố",
+  "th": "พระราชบัญญัติป้องกันและปราบปรามการฟอกเงินและการต่อต้านการสนับสนุนทางการเงินแก่การก่อการร้าย",
+  "id": "Undang-Undang Pencegahan Pencucian Uang dan Pemberantasan Pendanaan Terorisme",
+  "ms": "Akta Pencegahan Pengubahan Wang Haram dan Penentangan Pembiayaan Keganasan"
+ },
+ "country": "LA",
+ "countryName": "老挝",
+ "layer": "intl",
+ "pack": "la-p02",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "repealed",
+ "promulgatedDate": "2014-07-21",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": "已废止（源目录「已废止法规」）",
+ "issuingBody": "National Assembly",
+ "docNumber": "Law No. 752",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 73,
+ "chars": 49335,
+ "source": {
+  "name": "老挝法律数据库（英译本，非官方）",
+  "url": null
+ },
+ "sourceFile": "已废止法规/02_法律_Law/LAW_20140721_752_ກົດໝາຍວ່າດ້ວຍ_ການຕ້ານ_ສະກັດກັ້ນ_ການຟອກເງິນ_ແລະ_ການສະໜອງທຶນ_ໃ.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 73 条；英文译本（源包「翻译版」，非官方译本）",
+ "textQuality": "official-translation",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "LA-H465-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Article 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "The Law on Anti-Money Laundering and Counter-Financing of Terrorism is hereby\npromulgated."
+   }
+  },
+  {
+   "id": "LA-H465-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Article 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "This decree is effective from the date it is signed.\nPresident of the Lao People’s Democratic Republic\n[Seal and Signature]\nChoummaly XAYASONE\nLAO PEOPLE’S DEMOCRATIC REPUBLIC\nPEACE INDEPENDENCE DEMOCRACY UNITY PROSPERITY\nNational Assembly\nNo. 08/NA\nRESOLUTION\nOf the\nNational Assembly\nOf the\nLao People’s Democratic Republic\nOn the Approval of the\nLaw on Anti-Money Laundering and Counter-Financing of Terrorism\n________________\nPursuant to Article 53, point 2 of the Constitution and Article 3, point 1 of the Law on\nNational Assembly of the Lao People’s Democratic Republic in relation to the rights and duties of\nthe National Assembly.\nAfter the 4thOrdinary Session of the VII National Assembly Legislature, wide studies and\nconsiderations were undertaken and agreement was reached on the content of the Law on Anti-\nMoney Laundering and Counter-Financing of Terrorism in the agenda of the afternoon session of\n21 July 2014;\nThe Meeting resolved that:\nArticle 1. The Law on Anti-Money Laundering and Counter-Financing of Terrorism is approved by\nmajority votes.\nArticle 2. This Resolution is effective from the date it is signed.\nVientiane Capital, dated 21 July 2014\nPresident of the National Assembly\n[Seal and Signature]\nPany YATHOTOU\nLao People’s Democratic Republic\nPeace Independence Democracy Unity Prosperity\nNational Assembly\nNo. 50/NA\nVientiane Capital, dated 21 July 2014\nLaw on\nAnti-Money Laundering and Counter-Financing of Terrorism\nPart I\nGeneral Provision\nArticle 1: Objective\nThis law sets principles, regulations and measures relating to the managing, monitoring,\ninspecting the campaign of anti-money laundering and counter-financing of terrorism (herein after\ncalled “AML/CFT”) to make it efficient aimed at combating, preventing, curbing and eliminating\nthese offences. Making the economic and financial system strong and sound, creating peace and\norder in society, integrating it regionally and internationally, and contributing to national socio-\neconomic development.\nArticle 2: Money Laundering\nMoney laundering is the transformation, utilisation, displacement, exchange, acquisition,\npossession, transfer of true ownership of funds or other properties of an natural person, legal person\nor organisation that knows, knew or suspects that the properties are derived from the predicate\noffences to conceal or disguise their characteristics, origin, and location. This is aimed at legalising\nthe funds or properties."
+   }
+  },
+  {
+   "id": "LA-H465-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Article 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Financing of terrorism\nThe financing of terrorism is an intentional act, both direct and indirect, of an natural person,\nlegal persons or organisations that attempt to give, collect, acquire funds or properties, legally or\nillegally, wholly or partially, to supply funds to terrorism, terrorist or linked to a specific terrorism\nact whether the funds or properties are used in the actions or not."
+   }
+  },
+  {
+   "id": "LA-H465-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Article 4"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Anti-money laundering\nThe combat and interception of money laundering is an act of natural persons, legal persons\nand organisations that are directly tasked to finding, combating, preventing, curbing, and\neliminating money laundering as defined in article 2 of this law. It is an offence that endangers\nnational security, causes damages to the national socio-economic basis."
+   }
+  },
+  {
+   "id": "LA-H465-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Article 5"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Counter-financing of terrorism\nThe counter-financing of terrorism is an act of natural persons, legal persons and\norganisations whose direct tasks are to find, combat, intercept, curb, and eliminate financing of\nterrorism as defined in article 3 of this law. It is an offence that endangers the economic system and\naffects the national political regime."
+   }
+  },
+  {
+   "id": "LA-H465-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Article 6"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Actions of money laundering\nActions of money laundering are as follows:\n1. Conversion, transfer of funds or properties with an aim of concealing or disguising the\nproceeds of crime, giving assistance to predicate offenders to avoid the legal\nconsequences e.g. the prosecution;\n2. Conceal or disguise origin, location, transfer, possession, movement or ownership of\nrights to the funds or properties;\n3. Acquisition, possession, use of funds or properties derived from predicate offences such\nas illicit loan release or other properties, use of illicit funds and properties in direct\ninvestment;\n4. Involvement in conspiracy, attempts or aid, promotion, facilitation or giving advice on\noffences as defined in subparagraph 1, 2 and 3 above.\nIn addition to the above, money laundering is demonstrated as follows:\n1. Acknowledgement with intent of committing money laundering based on objective\ncauses;\n2. An act or evidence not necessarily judged by the court as a predicate act to prove the\nfunds or properties derived from the offence.\nIn addition to criminal cases against violators who launder money, there must criminal\ncases brought against the original violator, as well."
+   }
+  },
+  {
+   "id": "LA-H465-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Article 7"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Acts of terrorism\nActs of terrorism are actions of natural persons, groups of people, organisations or terrorist\norganisation within or outside of the territory of the Lao PDR with funds provided to the act of\nterrorism as follow:\n1. Actions that aim to cause effects on the  national security, socio-economic basis, foreign\nand international organisations, cause problems to international relations of the Lao PDR\nor cause chaos to people in society;\n2. Actions that affect lives, health, freedom, or physical and psychological intimidation;\n3. Seizure, damage of properties, break-in, attack, obstruction, causing damage and chaos\nto computers and communications, internet systems or digital instruments of state\norganisations, legal persons and natural persons;\n4. Processing, production, utilisation, packaging, collecting, transportation of explosives,\nradioactive substance, toxics, inflammables, and\nweapons trafficking, equipment,\nvehicles including advice for certain actions with aims defined in subparagraph 1 and\npoint 2 of this article;\n5. Disseminating, influencing, encouraging, imposing, hiring or creating conditions, aiding\nfor the actions defined in subparagraph 1, 2, 3, 4, 7and 8 of this article;\n6. Organizing, financing, participating and attempting to participate in the organisation,\nteaching, training for the target(s) to conduct actions defined insubparagraph1, 2, 3, 4, 5,\n7and 8of this article;\n7. Acknowledgment of actions to be evidence of terrorism based on objective causes.\n8. Other terrorist-held offences as defined in international agreements or treaties which the\nLao PDR is party to."
+   }
+  },
+  {
+   "id": "LA-H465-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Article 8"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Definitions\nThe terms used in this law have the following meaning:\n1. Predicate offences are all criminal offences which are the cause of money laundering\nincluding offences committed outside the territory of the Lao PDR that cause proceeds of\ncrime. These include frauds, robbery or theft, murder and grievous bodily injury, kid\nnapping, illegal restraint and hostage-taking, illicit trafficking in stolen and other goods,\ncounterfeiting currency, forgery, counterfeiting and piracy of products, corruption and\nbribery, sexual exploitation including sexual exploitation of child, trafficking human being\nand migrant smuggling, illicit trafficking in narcotic drugs and psychotropic substances,\nillicit trafficking of war arms and explosives, participation in an organized criminal group\nand racketeering, terrorism including financing of terrorism, environmental crime, tax\ncrimes, insider trading and market manipulation, smuggling (including in relation to\ncustoms), extortion, piracy and others.\n2. Proceeds of crime refers to money or properties earned directly or indirectly from the\npredicate offences, properties transformed or changed, wholly or partially, to other\nproperties including returns from investment.\n3. Terrorist refers to natural persons, groups of people, organisations or terrorist organisation\ncommitted actions defined in article 7 of this law;\n4. Terrorist organisation means any group of terrorists having an intention, attempting to\ncommit, participating in, co-operating, organising, leading to commit terrorist acts, directly\nor indirectly and acts of terrorism as defined in Article 7 of this law;\n5. Funds or properties are referred to tangible and intangible properties, movable or\nimmovable assets and all documents or financial tools of all forms either in electronic or\ndigital format, certificates of ownership, or benefits from funds or properties;\n6. Financed funds refer to funds or properties which natural persons, organisations or terrorist\norganisation supply or use in terrorist activities;\n7. Financial institutions refer to commercial banks, micro-finance institutes, loan-credit\nreleasing companies of all types, pawnshops, leasing companies, money transfer service\ncompanies, currency exchange shops, insurance companies, stock companies, asset\nmanagement companies or others;\n8. Designated non-financial businesses and professions (herein after called “DNFBPs”)\nrefer to companies or distribution representatives and (services of) financial payment tools\nmanagement, agents of real estate companies, businesses of valuables goods and antiques,\nbar association or law enterprises, notary agencies, audit companies, casinos or others;\n9. Transactions refer to conducting an activity concerning account opening, depositing,\nwithdrawal, transfer of money, currency exchange, precious metals transaction, goods or\nother services;\n10. Suspicious transactions refer to transactions that do not conform with the background,\noccupation, and status of customers;\n11. Beneficiary means natural person(s) who ultimately benefits from a business operation,\nactivity or transaction includes those persons who exercise ultimate effective control over a\nlegal person;\n12. Politically exposed persons (herein after called “PEPs”) means foreign politicians, state\nofficials, and officials of international organisations;\n13. Foreign politicians refer to persons who are or were in positions, gain trust, and play\nimportant roles in domestic and foreign affairs, including members of their families or\npersons with close connections with these people;\n14. State officials refer to persons who are or were in important positions, trusted and play a\nrole in the Lao PDR, including members of the executive board, executive members of state\nenterprises or joint venture, including their family members or those with close connections\nwith them;\n15. Officials of international organisations refer to people who take or took the position of\nmember of the executive board, management member, gain trust, and play a role in the\ninternational organisation, including their family members or those with close connections\nwith them;\n16. Shell banks mean the banks that do not have tangible address in the country where they are\nauthorised to operate or are not lawful companies in the financial institution group;\n17. Non-profit organisations refer to legal persons or organisations that carry out main\nactivities for the causes of charity, religions, culture, education, environment, public health,\nsports-physical education, humanitarian and social work, vocational promotion, with no\nreturns;\n18. Corresponding banks refer to a representative bank or intermediate in the settlement\namong banks both in the country and abroad;\n19. Wire transfer means the transaction on behalf of a natural person, legal persons or\norganisation via a financial institution by way of electronic transfer, which the beneficiary\nwill get the sum of money at other financial institution;\n20. Seizing means keeping the properties or moveable objects as evidence by the order of\nrelated authoritative organisations;\n21. Freezing means the prohibition of transfer, offer, transaction, exchange, pawn, security,\ndestruction or change, movement or activity of funds, immoveable or moveable assets,\nincluding deposit bank accounts, by the order of related authoritative organisation;\n22. Confiscation means the nationalisation of properties or objects, wholly or partially, owned\nby offenders in accordance with a court decision.\n23. Resolution of the UN Security Council means are solution on a list of names of terrorism-\nrelated natural persons, group of people, legal persons and organisations as defined in\nChapter VII of such resolution;\n24. Anonymous account means a deposit account in which its data differs or cannot verify the\naccount owner’s details such as name, surname, date of birth, address, age and occupation;\n25. Customer means natural persons, legal persons or organisations that use the services of the\nreporting entities.\n26. Bearer negotiable instruments meant bank cheques, traveller’s cheques, money orders,\nbonds, bank drafts and others;\n27. Organized criminal group and racketeering means group of persons that impose and\nmenace to illegally extorting funds or properties from natural person, legal persons or\norganisation;\n28. Environmental crimes meant an offence that cause great damage to the environment such\nas illicit traffic of protected wildlife and aquatic animals, unlawful exploitation of natural\nresources, destruction of forests, destruction of crops, illegal hunting, illegal fishing."
+   }
+  },
+  {
+   "id": "LA-H465-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Article 9"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Policies on AML/CFT\nThe state supports, encourages natural persons, legal persons or organisations of all sectors\nto participate in the combat, prevention, curbing and elimination of money laundering and financing\nof terrorism.\nThe state pays attention to the dissemination and training of the general public to be aware\nof the effects of money laundering and financing of terrorism, which damage national security,\nsocial peace and orderliness, and the national, regional and international economic systems.\nThe state supports and encourages the campaign of AML/CFT by supplying budget,\npersonnel, means/vehicles and modern techniques and equipment to relevant competent authorities\nfor their effective performance."
+   }
+  },
+  {
+   "id": "LA-H465-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Article 10"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Principles of AML/CFT\nThe campaign of AML/CFT shall observe the following main principles:\n1. Ensure national sovereignty, security, and peace and normal socio-economic activities;\n2. Ensure the protection of legitimate rights and benefits of natural persons, legal persons\nor organisations;\n3. Oppose all the phenomena of abuse of power, application of excessive authority, which\ndamage the legitimate rights and benefits of natural persons, legal persons or\norganisations;\n4. Ensure the compliance with the laws, international agreements and treaties which the\nLao PDR is party to."
+   }
+  },
+  {
+   "id": "LA-H465-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Article 11"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Protection\nThe staff and authorities working on AML/CFT including those participating in the work\nsuch as informants, information gatherers, witnesses, experts and their families, will be protected in\naccordance with laws against revenge, threats against life, health, freedom and damage to their\ndignity, reputation or private properties."
+   }
+  },
+  {
+   "id": "LA-H465-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Article 12"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Obligations in AML/CFT\nNatural persons, legal entities and organisations are obliged to render co-operation and\nparticipate in the combat and interception of money laundering and financing of terrorism."
+   }
+  },
+  {
+   "id": "LA-H465-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Article 13"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Scope of the law enforcement\nThis law applies to natural persons, legal persons and organisations, both local and foreign,\nrunning business operations inside and outside of the territory of Lao PDR involved in money\nlaundering and financing of terrorism."
+   }
+  },
+  {
+   "id": "LA-H465-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Article 14"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "International co-operation\nThe state encourages the relations and co-operation with foreign countries, regions and\ninternational community in AML/CFT through exchange of lessons, information, seminars, upgrade\nof technical knowledge and capacity building, technical assistance, and implementation of\ninternational agreements and treaties, which the Lao PDR is party to.\nPart II\nCampaign of AML/CFT\nChapter 1\nActivities of AML/CFT"
+   }
+  },
+  {
+   "id": "LA-H465-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Article 15"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Activities of anti-money laundering\nThe activities of anti-money laundering are the activities of reporting entities and relevant\nparties to combating, preventing, curbing, and eliminating of behaviour of legalising illicit funds\nand properties.\nThe details of the said activities are defined in separate regulation."
+   }
+  },
+  {
+   "id": "LA-H465-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Article 16"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Activities of counter-financing of terrorism\nThe activities of counter-financing of terrorism are the activities of reporting entities and\nrelevant parties to combating, preventing, curbing, and eliminating behaviour of terrorism\nfinancing.\nThe details of the said activities are defined in separate regulation.\nChapter 2\nReporting entities"
+   }
+  },
+  {
+   "id": "LA-H465-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Article 17"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Reporting entities\nReporting entities are legal persons and organisations which have the obligation to report\ninformation or suspicious activities of being money laundering and financing of terrorism to the\nAnti-Money Laundering Intelligence Office (herein after called “AMLIO”).\nReporting entities which consists of financial institutions and DNFBPs as defined in\nsubparagraph 7 and 8 of article 8."
+   }
+  },
+  {
+   "id": "LA-H465-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Article 18"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Rights and Obligations of reporting entities\nThe reporting entities have the following rights and obligations:\n1. Establish AML/CFT Programme\n2. Implementation of risk assessment and risk based approach ;\n3. Implement Know Your Customer measures;\n4. Customer Due Diligence measures;\n5. Gather detailed information on customers;\n6. Gather information about customers’ transactions;\n7. Dealings with PEPs;\n8. Dealings with corresponding banks;\n9. Collect data on wire transfer;\n10. Data recordkeeping;\n11. Postponement of transactions;\n12. Reporting;\n13. Suspicious transaction report\n14. Confidentiality.\nOverseas branches and companies in the group of the reporting entities are obliged to fulfil\narticles19 to 32 of this law.\nIn case the laws of the country where the branches and group companies are situated do not\nallow the application of these obligations, the reporting entities shall notify the supervisory agency\nwhich are under its management."
+   }
+  },
+  {
+   "id": "LA-H465-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Article 19"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Establish AML/CFT Programme\nThe reporting entities must establish and implement AML/CFT programmes as follows:\n1. Policies and procedures, follow-up and control, procedures for the recruitment of\nqualified staff;\n2. Training plans, and on-going training for staff;\n3. Internal control on the implementation of this Law and other related laws and\nregulations;\n4. Assessment of the campaign of AML/CFT.\nThe reporting entities must appoint officials at executive level or qualified senior official\nwith experience in AML/CFT to take charge of data collection and reporting and the work\nstipulated in paragraph 1 of this article, who will also serve as a co-ordinator with the AMLIO."
+   }
+  },
+  {
+   "id": "LA-H465-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Article 20"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Implementation of risk assessment and risk based approach\nThe reporting entities shall implement risk assessment and risk based approach of money\nlaundering and financing of terrorism by determining, assessing, monitoring and mitigating the\nrisks.\nThe mechanism of implementation of risk assessment risk based approach is defined in a\nseparate regulation."
+   }
+  },
+  {
+   "id": "LA-H465-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Article 21"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Know Your Customer measures\nThe reporting entities must know about customers by requesting them to show their\nidentification papers such ID card, household registration book, passport, enterprise registration\nlicence or other official papers that can justify the customers’ identity or their representatives. Their\ninformation will be recorded, their papers duplicated and kept carefully.\nThe mechanism of Know Your Customer is defined in a separate regulation."
+   }
+  },
+  {
+   "id": "LA-H465-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Article 22"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Customer Due Diligence measures\nThe reporting entities must apply CDD measures to customers for the following cases:\n1. Provide services or establishing business relations with new customers;\n2. Carrying out occasional transactions, one time or several times that leads to suspicion;\n3. The transactions are complex, of high value, and shows irregular character;\n4. The transactions are suspected of money laundering or financing of terrorism;\n5. The data/information about customers is not complete or suspected to be incorrect;\nIn addition, the reporting entities must pay continual attention to customers to ensure the\ndata and information provided in the past is still true presently and ensure that the customers’\nbusiness operations accord with the business operation records including efforts to learn about the\nsource of funds or properties, if necessary.\nThe reporting entities must pay special attention to business relations or transactions with\nnatural persons, legal persons or organisations in the country where the law on AML/CFT is not\navailable. Or if available, the enforcement of the law is not strict yet.\nThe mechanism for the implementation of Customer Due Diligence measures is defined in a\nseparate regulation."
+   }
+  },
+  {
+   "id": "LA-H465-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Article 23"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Collection of detailed data on customers\nThe reporting entities must collect, verify and confirm the data on customers who are natural\npersons such as names and surnames, date of birth, nationality, address and occupation of\ncustomers.\nFor customers who are legal entities, the reporting entities must collect, verify and confirm\nthe data on name and address of companies, the identity paper of the director, information on\nstakeholders, operations and size of the business.\nIn case it is incapable of gathering detailed data on customers as defined in paragraphs one\nand two of this article, the reporting entities must cease service or business relations with that\ncustomer and must consider it is suspected and report it to the AMLIO as defined in article 30 and\n31 of this Law."
+   }
+  },
+  {
+   "id": "LA-H465-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Article 24"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Data Collection on customers’ transactions\nThe reporting entities must collect data on aims and objectives of customers in using the\nservice or establishing business relations with their institutes.\nThe reporting entities must try to find if the customers’ business ties are for their own behalf\nor for others. This is to find the real beneficial owner such as fund or property owners as well as\nfunds used in the establishment of the enterprise."
+   }
+  },
+  {
+   "id": "LA-H465-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Article 25"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Dealings with PEPs\nThe reporting entities must have an appropriate system of risk management to find if\ncustomers or beneficiaries are PEPs.\nIn addition to articles 19 to 32 of this Law, the reporting entities shall also observe as\nfollows:\n1. Report to their board of directors or their senior executives officers to request for\npermission before initial operation or continuing the business operation or transaction\nwith the customer;\n2. Take appropriate measures to find out the source of funds or properties;\n3. Follow up the business ties and transactions of customers continually."
+   }
+  },
+  {
+   "id": "LA-H465-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Article 26"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Dealings with corresponding banks\nFinancial institutions which maintain business ties or other similar ties with a corresponding\nbank shall act as follows:\n1. Review the legal person status of the corresponding bank they are doing business with;\n2. Gather data on the nature of business operation of the corresponding bank;\n3. Assess the creditability, management and audit of the corresponding bank based on the\ndata provided for the public;\n4. Assess the implementation of the campaign of AML/CFT of the corresponding bank;\n5. Observe the law relating to the business relations with corresponding banks.\nIf corresponding banks have business ties or transactions with anonymous banks or\ncompanies in the group, the reporting entities shall not establish or continue business ties with the\ncorresponding banks or companies within the group."
+   }
+  },
+  {
+   "id": "LA-H465-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Article 27"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Data collection on wire transfer\nIn each service of wire transfer, the financial institution must gather and check the\ninformation about name and surname, address, account number, and purpose of the transferor’s\ntransfer.\nIn case of acting as the medium of the transfer, the financial institution must ensure that the\ninformation about the transfer or and details about the transfer are collected correctly and\ncompletely before further delivery to the beneficiary.\nIn case the financial institution receives the transferred money with no information or\nmissing information on the transferor, it has to check and find the missing information from the\ntransferring institute or the beneficiary. If it is not provided, the financial institution receiving the\ntransfer shall refuse the payment to the beneficiary and transfer the money back to the transferring\nfinancial institution and report the case to the AMLIO in due time.\nThe management of domestic and foreign transfer is defined in a separate regulation."
+   }
+  },
+  {
+   "id": "LA-H465-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Article 28"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Data record-keeping\nThe reporting entities shall carefully keep information on customers, documents on business\nties and transactions of customers for further supply to the AMLIO and other related organisations.\nIn keeping the information, it is advised to do as follows:\n1. Duplicate the certificates of customers and beneficiaries from the transactions and keep\nthem for at least ten years after the end of the business ties with the customers;\n2. The data on the transactions of customers shall be kept for at least five years from the\nday they are achieved."
+   }
+  },
+  {
+   "id": "LA-H465-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Article 29"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Postpone the transactions\nWhen it is suspected that the customers’ transactions are activities of money laundering or\nfinancing of terrorism, the reporting entities must postpone the transactions for three working days\nand then report the cases to the AMLIO for consideration."
+   }
+  },
+  {
+   "id": "LA-H465-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Article 30"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Reporting\nThe reporting entities must report to the AMLIO in case the customer request to do the\nfollowing transactions:\n1. Cash Transaction Reports;\n2. Wire Transfer Reports;\n3. Other transactions according to the stipulations of the AMLIO.\nThe Bank of the Lao PDR is responsible for setting the value of cash transactions, money\ntransfer which are required for reporting, and issuing legislations on reporting."
+   }
+  },
+  {
+   "id": "LA-H465-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Article 31"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Suspicious transaction report\nIn the case of suspicion or act of customer leading to suspicion that a transaction may be\nfrom predicate offence, related and connected to money laundering and financing of terrorism,\nreporting entities shall report the transaction to AMLIO within three days. This includes attempts to\nprocess the transaction successfully or unsuccessfully, with no limit of transaction amount."
+   }
+  },
+  {
+   "id": "LA-H465-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Article 32"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Confidentiality\nThe executives and staff of the reporting entities shall keep secret the reporting of the\ntransactions suspected of being acts of money laundering or financing of terrorism, or information\nreported to the AMLIO.\nMaintaining customers’ confidentiality by the reporting entities as defined in their statute or\nagreement shall comply with this law.\nThe executives’ officers and staff of the reporting entities will not be taken disciplinary or\ncriminal actions against for disclosing customers’ secrets, if the reporting or the provision of\ninformation is done with sincerity, in compliance with this law, and will not face any legal\nramifications.\nChapter 3\nObligations on declaring cash, valuable goods and bearer negotiable instruments"
+   }
+  },
+  {
+   "id": "LA-H465-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Article 33"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Declaration of cash, valuable goods and bearer negotiable instruments at border\ncrossings\nNatural persons who take cash, valuable materials goods and bearer negotiable instruments\nin and out of the Lao PDR, whose value exceeds the limit fixed by the Bank of the Lao PDR at each\nperiod, need to declare them to customs officers at border checkpoints. Customs officers will be\nfurther reported to the AMLIO."
+   }
+  },
+  {
+   "id": "LA-H465-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "Article 34"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Examination by customs officers at border crossings\nCustoms authorities at border checkpoints are responsible for checking the correct\ndeclaration of cash, valuable goods and bearer negotiable instruments of natural persons\nentering/exiting of the Lao PDR in accordance with the Law.\nIn case the customs authorities on the cross border detect or suspect that there is non-\ndeclaration or underreporting of cash, valuable goods and bearer negotiable instruments related\nmoney laundering and financing of terrorism, they will be seized or sequestrated immediately and\nreported to the AMLIO along with being investigated and interrogated to determine their source.\nIn case if there is incorrect declaration, in accurate amount, non-declaration or false\ndeclaration related to cash, valuable goods and bearer negotiable instruments on the cross border\nwill be fined in accordance with the relevant regulations.\nChapter 4\nActivities of legal persons or organisations and non-profit organisations"
+   }
+  },
+  {
+   "id": "LA-H465-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "Article 35"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Activities of legal persons or organisations\nLegal persons or organisations set up and operating business in the Lao PDR shall strictly\napply this law and related regulations to ensure that their activities will not serve as a tool of money\nlaundering and as a source of financing of terrorism."
+   }
+  },
+  {
+   "id": "LA-H465-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "Article 36"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Activities of non-profit organisations\nNon-profit organisations set up and operating in the Lao PDR shall strictly apply this law\nand related regulations and be monitored, and inspected on a regular basis to avoid being used as a\ntool of money laundering and as a source of financing of terrorism."
+   }
+  },
+  {
+   "id": "LA-H465-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "Article 37"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Transparency of legal persons, organisations and non-profit organisations\nLegal persons, organisations and non-profit organisations must operate within the scope of\ntheir rights and duties especially on supplying data on ownership, real beneficiaries, and data on\ntheir internal management while ensuring transparency, clarity, completeness and accuracy in each\nperiod.\nRelevant authorities which grant licences to legal entities, organisations and non-profit\norganisations shall gather those pieces of information as stipulated in article 28 of this law.\nInvestigation agencies, supervisory agencies of the reporting entities, the AMLIO, and other\nrelevant authorities can have access to the information at any time.\nChapter 5\nProvisional Measures"
+   }
+  },
+  {
+   "id": "LA-H465-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "Article 38"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Use of provisional measures\nCompetent authorities are eligible to take provisional measures to seize or freeze funds or\nproperties in case they detect, find or suspect that money is being laundered or financing terrorism.\nTaking provisional measures must be in conformity with the laws of the Lao PDR. In the\nmeantime, it must ensure the rights and benefits of the third person and shall not affect regular\noperation of the financial and monetary system. But this must be reported to the People’s Prosecutor\nGeneral within twenty-four hours.\nThe procedures of the implementation of provisional measures are defined in a separate\nregulation."
+   }
+  },
+  {
+   "id": "LA-H465-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "Article 39"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Freeze without advance warning\nCompetent authorities have right to freeze funds or properties related financing of terrorism\nwithout advance warning to the beneficiary of the funds or properties to prevent transfer or further\ndelivery to terrorist."
+   }
+  },
+  {
+   "id": "LA-H465-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "Article 40"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Seizure, Freeze of funds or properties of terrorists\nThe funds or properties of persons and entities including terrorists, groups of terrorism\nfinanciers and international terrorist organisations stipulated in resolutions S/RES/1267 (1999),\nS/RES/1373 (2001) and its successors of the UN Security Council shall be seized and freeze\nwithout delay.\nThe procedures of the implementation of seizure, freeze of funds or properties of terrorists\nmust follow specific legislation."
+   }
+  },
+  {
+   "id": "LA-H465-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "Article 41"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Confiscation of funds or properties\nIn case there is enough evidence for the funds or properties to be involved in predicate\noffences, money laundering, financing of terrorism and each offence, the court shall pass a decision\nfor the confiscation of funds or properties as follows:\n1. funds or properties derived from predicate offences including properties gained from\ninvestment or from exchange or value of the properties related to the activities;\n2. funds or properties to be used in committing the offence;\n3. funds or properties and other benefits which are income from funds or properties of\ncriminal actions;\n4. financial instruments related to offences;\n5. funds or properties defined in subparagraph 1 and 4 whose rights to ownership are\ntransferred to a natural person, except the court views that the owner of the funds or\nproperties acquire them from the transactions legally or are granted their ownership\nlegally.\nThe court decision ordering the confiscation must point out the nature, quantity, value and\nother necessary details of the funds or properties.\nPart III\nInternational Co-operation in AML/CFT"
+   }
+  },
+  {
+   "id": "LA-H465-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "Article 42"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Principle of international co-operation\nInternational co-operation in AML/CFT between organisations of the Lao PDR and foreign\norganisations shall follow the principle of respect for independence, sovereignty and territorial\nintegrity, non-interference in each other’s domestic affairs, mutual benefit, conformity with\ninternational agreements and treaties which the Lao PDR is party to."
+   }
+  },
+  {
+   "id": "LA-H465-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "Article 43"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Content of international co-operation\nInternational co-operation in AML/CFT shall do as follows:\n1. gather, study, and exchange of information, technologies and lessons on money\nlaundering and financing of terrorism;\n2. sign agreements with foreign countries or adhere as party to the international treaties and\nagreements on AML/CFT;\n3. mutual assistance in developing and training officials in professional skills and training\nfor upgrading the capacity of related staff and officials;\n4. Execute the international agreements and treaties which the Lao PDR is party to."
+   }
+  },
+  {
+   "id": "LA-H465-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "Article 44"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Mutual Legal Assistance\nMutual Legal Assistances aimed at the requests, co-operate for investigation, seizure and\nfreeze funds or properties of the accused, defendant, offenders, use of other measures of Law,\nextradition, request for additional information and evidence related to offences.\nThe mechanism and procedures of Mutual Legal Assistance follows the related laws of the\nLao PDR."
+   }
+  },
+  {
+   "id": "LA-H465-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "Article 45"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Content of the request for Mutual Legal Assistance\nRequest for Mutual Legal Assistance shall include the following items:\n1. Official letter from the relevant authority of requesting state;\n2. Name and surname, position of the official of\nrequesting state\nwho is in charge of\nconducting the investigation, engaged in, prosecution or proceedings\n3. Name and surname, position of the official of requested state who is in charge of\nconducting the investigation, engaged in a lawsuit in court against, or considering the\ncase;\n4. The purpose and the reasons of the request;\n5. The facts in support of the request;\n6. Any known details that may facilitate identification of the person concerned, in\nparticular name and surname, marital status, nationality, address and location,\noccupation and other necessary details;\n7. Any important information necessary for identifying and tracing the natural persons,\nfunds or properties, taking provisional measures, according to the request;\n8. Legislative reference towards offences of the accused and the suspect.\nIn addition, Mutual Legal Assistance must observe the content of each case as follows:\n1. In the case of requests for provisional measures, a description of the requested measures\nsought\n2. In the case of requests for the issuance of a seizure order or confiscation order, a\nstatement of the relevant facts, disputes and arguments to enable the competent\nauthorities to issuing the order;\nIn the case of a request for the enforcement of an order relating to seize or freeze the\nfollowing:\n1). A certified copy of the order, and a statement of the grounds for issuing the order if\nthey are not indicated in the order itself;\n2).The order is enforceable and not subject to ordinary means of appeal;\n3). Where necessary and if possible, any documents and information concerning third-\nparty rights of claim on the funds or property.\nIn the case of requests for extradition, if the natural person has been convicted of an offence,\nthe original or a certified copy of the judgment or any other document setting out the conviction and\nthe sentence imposed, the fact that the sentence is enforceable and the extent to which the sentence\nremains to be served, can be provided according to the request."
+   }
+  },
+  {
+   "id": "LA-H465-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "Article 46"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Request for additional information\nThe People’s Prosecutor General or competent authorities may request for additional\ninformation from the requesting state if necessary, in facilitation of actions according to the request\nfor Mutual Legal Assistance."
+   }
+  },
+  {
+   "id": "LA-H465-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "Article 47"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Requirement of confidentiality\nThe Competent authority of the Lao PDR must ensure the confidentiality of requests from\nthe related states."
+   }
+  },
+  {
+   "id": "LA-H465-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "Article 48"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Delays in notification\nIn case there will be delays or difficulties in taking provisional measures or investigation of\nactions in response to the requests for mutual legal assistance, there will be a need to notify the\ncause or give advice to competent authorities."
+   }
+  },
+  {
+   "id": "LA-H465-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "Article 49"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Requests refusal\nThe competent authority of the Lao PDR may refuse the requests defined in articles 43 and\n44 of this Law, if such request is not consistent with article 42 of this Law.\nChapter 5\nProhibitions"
+   }
+  },
+  {
+   "id": "LA-H465-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "Article 50"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "General prohibitions\nNatural persons, legal persons and organisations related to the AML/CFT are prohibited\nfrom the following behaviours:\n1. Having dealings related to, being involved in money laundering or financing of\nterrorism;\n2. Maintaining relations in all forms and giving any type of assistance in money laundering\nor financing of terrorism;\n3. Giving bribes to staff or competent authorities;\n4. Falsifying documentation or official seals;\n5. Concealing, disusing, threatening, impeding and obstructing the functions of competent\nauthorities;\n6. Opening or using anonymous accounts or accounts under the using name of natural\npersons, legal persons or intangible organisations;\n7. Other activities that contravene laws and legal regulations;"
+   }
+  },
+  {
+   "id": "LA-H465-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "Article 51"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Prohibitions for staff and competent authorities\nRelated staff and competent authorities are prohibited related to AML/CFT from the\nfollowing behaviours:\n1. Abusing rights, functions and position, use of violence, coercion or threats for personal\nbenefit;\n2. Disclose confidential information to unrelated natural person, legal persons or\norganisations;\n3. Collusion, requesting, demanding  and receiving bribes;\n4. Being unresponsive towards ones responsibilities, impeding transaction paper work\ninvolved in transactions;\n5. Other activities that contravene laws and legal regulations."
+   }
+  },
+  {
+   "id": "LA-H465-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "Article 52"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Prohibitions for reporting entities\nReporting entities are prohibited related to AML/CFT from the following behaviours:\n1. Having dealings with anonymous banks, financial institutions, legal persons or\norganisations;\n2. Having dealings with banks abroad that do not have regulations on AML/CFT;\n3. Opening anonymous accounts;\n4. Having business dealings or performing transactions with natural persons, legal persons\nor organisations on the United Nations security council list;\n5. Other activities that contravene legal regulations.\nPart V\nManagement Body and Inspection of the Campaign of AML/CFT\nChapter1\nManagement"
+   }
+  },
+  {
+   "id": "LA-H465-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "Article 53"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Management body of AML/CFT\nThe Government is to manage the AML/CFT activities centrally and unanimously in the\nnation, by assigning the National Coordination Committee (herein after called “NCC”) which is\ndirectly responsible for managing, monitoring, inspecting on the basis of co-ordination with other\nconcerned authorities and related local administrations.\nThe Management body of AML/CFT is the NCC that has the role of chief of staff for the\nGovernment in implementation of this law and international standards relating to this work and\nattaining achievement.\nThe NCC on AML/CFT which is non-permanent body consists of: Chairman, Deputy\nChairman and a number of members who will be appointed or removed by the Prime Minister.\nDeputy Prime Minister is the Chairman of NCC on AML/CFT, Governor of Bank of Lao\nPDR is the first deputy chairman and act as standing member of the committee, Deputy Minister of\nMinistry of Public Security is the second deputy chairman and other members with equivalent-\nranking of Deputy Minister from relevant ministries and Deputy Head of related organizations.\nThe organizational structure, activities and budget of the NCC for AML/CFT is set out in\nspecific regulations."
+   }
+  },
+  {
+   "id": "LA-H465-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "Article 54"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Rights and Duties of NCC\nThe NCC for AML/CFT has the following rights and duties:\n1. Study, form, amend national strategies, policies and regulations  regarding AML/CFT\nfor the Government’s consideration;\n2. Transpose the national strategies, policies, and regulations regarding AML/CFT into\nwork plans, programmes, and projects as well  as implement in each period to conform\nwith regional and international standards;\n3. Endorse action plans for AML/CFT and solve pending problems of AML/CFT systems;\n4. Direct, stimulate, manage and monitor the implementation and dissemination of national\npolicy, programmes, and laws and regulations regarding AML/CFT of terrorism of the\nAMLIO, supervisory agencies and other relevant agencies;\n5. Train, upgrade professional skills of staff about AML/CFT;\n6. Take administrative measures against natural persons, legal entities or organisations that\nbreach this law;\n7. Co-ordinate with various sectarian authorities, local government administrations, and\nrelevant parties related to AML/CFT in nationwide;\n8. Relate with, co-operate with foreign countries, regionally and internationally on\nAML/CFT;\n9. Summarize and report on its activities to the Government on a regular basis;\n10. Perform rights and duties as defined in the laws and assigned by the Government."
+   }
+  },
+  {
+   "id": "LA-H465-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "Article 55"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Anti-Money Laundering Office\nThe AMLIO is one organisation in the organisational structure of the Bank of Lao PDR and\nhas the operational independence concerning his activities.\nThe AMLIO has main roles and tasks in data collection, analysis, dissemination, co-\nordination with related parties both domestically and internationally for the combat and prevent of\nmoney laundering and terrorism financing.\nThe AMLIO uses the budget of the Bank of the Lao PDR.\nOrganisational structure and activities of the AMLIO are defined in separate regulation."
+   }
+  },
+  {
+   "id": "LA-H465-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "Article 56"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Working Regime\nThe NCC for AML/CFT operates according to the meeting regime. The meetings of the\nNCC for AML/CFT consist of ordinary meeting and extraordinary meeting.\nOrdinary meeting is held every three months with of more than half of the quorum of\nmembers.\nExtraordinary meeting may be held as needed upon convocation of the Chairman of NCC or\nupon proposal of more than half of members.\nThe meetings of the NCC for AML/CFT can agree on issues by the majority of the members\nattending the meetings. In case the votes are equal, the vote of the Chairman of the National\nCommittee for AML/CFT will be decisive.\nChapter 2\nInspection"
+   }
+  },
+  {
+   "id": "LA-H465-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "Article 57"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Inspection body for AML/CFT\nThe Inspection body for AML/CFT include:\n1. Internal Audit Organisation: is the same organisation with the Management body of\nAML/CFT as defined in article 53 of this law;\n2. External Audit Organisation includes the National Assembly, the Government\nInspection and Anti-Corruption Organisation, and the State Audit Organisation, Lao\nConstruction Front, Mass organizations, Mass media and the people."
+   }
+  },
+  {
+   "id": "LA-H465-A58",
+   "no": 58,
+   "noLabel": {
+    "en": "Article 58"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Content of the inspection\nThe campaign of AML/CFT will be inspected on the following accounts:\n1. The implementation of this law and other related laws;\n2. The performance and responsibility of staff or related competent authorities."
+   }
+  },
+  {
+   "id": "LA-H465-A59",
+   "no": 59,
+   "noLabel": {
+    "en": "Article 59"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Forms of Inspection\nThe inspection of activities in the areas of combating and prevention of money\nlaundering and financing of terrorism has the content as follow:\n1. Inspection on regular basis;\n2. Inspection with advance notification;\n3. Ad hoc inspection.\nRegular inspection is any inspection carried out in accordance to regular plans within\ncertain time periods.\nInspection with advance notification is any unplanned inspection carried out when it is\ndeem necessary and it is carried out with advance notification given to the person to be\ninspected.\nAd hoc inspection is any inspection carried out urgently without providing advance\nnotice.\nThe operation of activities in combating and preventing money laundering and\nfinancing of terrorism arrived out by the inspection authorities shall be in line with the laws\nand regulations in strict manners.\nPart VI\nPolicy on good performance and measures against violators"
+   }
+  },
+  {
+   "id": "LA-H465-A60",
+   "no": 60,
+   "noLabel": {
+    "en": "Article 60"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Policies on good performance\nAny natural person, legal person or organisation producing notable results in the\nperformance of this law primarily in the areas of cooperation or supply information on\nbehaviours or activities suspected of being money laundering and financing of terrorism shall\nreceive commendation and benefits derived from other policies in accordance with legal\nregulations."
+   }
+  },
+  {
+   "id": "LA-H465-A61",
+   "no": 61,
+   "noLabel": {
+    "en": "Article 61"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Measures against violators\nAny natural person, legal person or organization violating a statute of this law shall\nundergo re-education measures, discipline, fines or criminal sanctions in accordance with the\nseverity of the violation and shall make compensation for damages incurred."
+   }
+  },
+  {
+   "id": "LA-H465-A62",
+   "no": 62,
+   "noLabel": {
+    "en": "Article 62"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Re-education Measures\nAny person, legal person or organisation violating a statute of this law that have incurred\nminor damages principally a delayed submission of a suspicious transaction report, not taking\nadequate care in regards to the confidentiality of a suspicious transaction report shall undergo\nre-education measures."
+   }
+  },
+  {
+   "id": "LA-H465-A63",
+   "no": 63,
+   "noLabel": {
+    "en": "Article 63"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Disciplinary Measures\nAny staff personnel, officials committing an infringement of this law that is not a\ncriminal offence and has incurred minor damages but are not sincere in making report, avoiding\ntheir duties, shall undergo disciplinary measures according to the severity of the case."
+   }
+  },
+  {
+   "id": "LA-H465-A64",
+   "no": 64,
+   "noLabel": {
+    "en": "Article 64"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Fining Measures\nA natural person, legal person or any organization, which violates the prohibition as\nspecified in article 50, 51 and 52 of this law in each case which not will be an criminal offence\nwill be fined according to the light or heavy punishment.\nThe penalty in each case is specified in the separate regulation."
+   }
+  },
+  {
+   "id": "LA-H465-A65",
+   "no": 65,
+   "noLabel": {
+    "en": "Article 65"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Measures against Reporting Entities\nReporting Entities shall be subject to the following measures:\n1. There is a violation or lack of implementation of its rights and obligations as article 18\nof this law will be:\n1.1 Such person shall be warned in writing and take action to comply with the rights\nand obligations;\n1.2 Shall be fined as specified in the separate regulation.\n2. There is violated the prohibition as specified in article 50 and 52 of this law will be:\n2.1 Administrators shall be suspended or removed;\n2.2 Withdrawing of business licenses or business registration certificates;\n2.3 Shall be subject to legal proceedings of criminal and shell be fined with\n100,000,000 up to 2,000,000,000 kip."
+   }
+  },
+  {
+   "id": "LA-H465-A66",
+   "no": 66,
+   "noLabel": {
+    "en": "Article 66"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Criminal measures for the offence of Money Laundering\nAny natural person who commits a money laundering offence:\n1. Below the amount of 1,000,000,000 Kip will be punished by detention from three to\nseven years and will be fined with 300,000,000 Kip\nup to 500,000,000 Kip and the\nproperties will be confiscated.\n2. From 1,000,000,000 Kip will be punished by detention from seven to ten years and will\nbe fined with 500,000,000 Kip up to 700,000,000 Kip and the properties will be\nconfiscated.\nIn the case of organized group or habitual offender, offenders will be punished by\ndetention from ten to twelve years and shall be fined with 700,000,000 Kip up to 900,000,000\nKip and the properties will be confiscated.\nThe act of preparation and attempting to commit offence shall also be penalized."
+   }
+  },
+  {
+   "id": "LA-H465-A67",
+   "no": 67,
+   "noLabel": {
+    "en": "Article 67"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Criminal measures for the offence of financing terrorism\nAny natural person who commits the offence of financing of terrorism:\n1. Below the amount 1,000,000,000 Kip will be punished by detention from five to eight\nyears and will be fined with 500,000,000 Kip up to 800,000,000 Kip and the properties\nwill be confiscated.\n2. From 1,000,000,000 Kip will be punished by detention from eight to twelve years and\nshall be fined with 800,000,000 Kip up to 1,000,000,000 Kip and the properties will be\nconfiscated.\nIn the case of organized group or habitual offender, offenders will be punished by\ndetention from twelve to twenty years and will be fined with 800,000,000 Kip up to\n1,000,000,000 Kip and the properties will be confiscated.\nThe act of preparation and attempting to commit offence shall also be penalized."
+   }
+  },
+  {
+   "id": "LA-H465-A68",
+   "no": 68,
+   "noLabel": {
+    "en": "Article 68"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Criminal measures for the offence of insider trading and market manipulation\noffences\nAny natural person who commits insider trading and market manipulation offences will be\nsubject to imprisonment of six month to three years and shall be fined with 300,000,000 Kip up\nto 500,000,000 Kip and the properties will be confiscated.\nIn the case of organized group or habitual offender or cause serious damages, offenders\nwill be punished by detention five to seven years and will be fined with 500,000,000 Kip up to\n700,000,000 Kip and the properties will be confiscated.\nThe act of preparation and attempting to commit offence shall also be penalized."
+   }
+  },
+  {
+   "id": "LA-H465-A69",
+   "no": 69,
+   "noLabel": {
+    "en": "Article 69"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Criminal measures for the offence of participation in an organized criminal group\nand racketeering\nAny natural person who commits an offence by participation in an organized criminal\ngroup and racketeering will be punished to imprisonment of three to six years and will be fined\nof 30,000,000 Kip up to 60,000,000 Kip and the properties will be confiscated.\nThe act of preparation and attempting to commit offence shall also be penalized."
+   }
+  },
+  {
+   "id": "LA-H465-A70",
+   "no": 70,
+   "noLabel": {
+    "en": "Article 70"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Criminal measures for the offence of extortion\nAny natural person who commits the offence of extortion will be punished to\nimprisonment of two to five years and will be fined with 20,000,000 Kip up to 50,000,000 Kip\nand the properties will be confiscated.\nThe act of attempting to commit crime shall also be penalized."
+   }
+  },
+  {
+   "id": "LA-H465-A71",
+   "no": 71,
+   "noLabel": {
+    "en": "Article 71"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Criminal measures for the offence of environmental crime\nAny natural person who commits the offence of environmental crime will be punished\naccording to the severity of the case as defined in Penal Law and other law that defined\ncriminal penalties.\nPart VII\nFinal provisions"
+   }
+  },
+  {
+   "id": "LA-H465-A72",
+   "no": 72,
+   "noLabel": {
+    "en": "Article 72"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Implementation\nThis law shall be implemented by the Government of the Lao People’s Democratic\nRepublic."
+   }
+  },
+  {
+   "id": "LA-H465-A73",
+   "no": 73,
+   "noLabel": {
+    "en": "Article 73"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "Validity\nThis law shall come into force upon the date of promulgation by the President of the Lao\nPeople’s Democratic Republic and after 15 days of notification of an official gazette.\nAny regulations, provision conflicting with this law are hereby cancelled.\nPresident of the National Assembly\n[Seal and Signature]\nPany YATHOTOU"
+   }
+  }
+ ]
+}

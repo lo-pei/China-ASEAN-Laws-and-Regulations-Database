@@ -1,0 +1,72 @@
+{
+ "id": "PH-H11181",
+ "title": {
+  "zh": null,
+  "en": "AN ACT AUTHORIZING THE PROVINCIAL BOARD OF THE PROVINCE OF CAPIZ TO DIVERT TEN THOUSAND DOLLARS, LOCAL CURRENCY, OF THE FUNDS LOANED TO THAT PROVINCE BY THE INSULAR GOVERNMENT BY VIRTUE OF ACT NUMBERED ONE HUNDRED AND NINETY-SIX, AS LOANS TO THE MUNICIPALITIES OF THE PROVINCE FOR THE PREVENTION AND SUPPRESSION OF THE CHOLERA EPIDEMIC.",
+  "orig": "AN ACT AUTHORIZING THE PROVINCIAL BOARD OF THE PROVINCE OF CAPIZ TO DIVERT TEN THOUSAND DOLLARS, LOCAL CURRENCY, OF THE FUNDS LOANED TO THAT PROVINCE BY THE INSULAR GOVERNMENT BY VIRTUE OF ACT NUMBERED ONE HUNDRED AND NINETY-SIX, AS LOANS TO THE MUNICIPALITIES OF THE PROVINCE FOR THE PREVENTION AND SUPPRESSION OF THE CHOLERA EPIDEMIC."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 468",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1133,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_00468_1902_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_00468_1902_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H11181-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The provincial board of the Province of Capiz is hereby authorized to divert ten thousand dollars,\nlocal currency, of the funds loaned to that province by the Insular Government, by virtue of Act Numbered\nOne hundred and ninety-six, as loans to the municipalities of the province for the prevention and suppression\nof the epidemic of cholera. The loans made by the province to the municipalities under this Act shall be used\nby the municipalities solely for the prevention and suppression of the cholera epidemic, and shall be\nexpended under the direction and supervision of the provincial board of health; such loans to the\nmunicipalities shall be without interest, and shall be paid by the latter to the province within two years from\nthe date of the making of such loans by the province."
+   }
+  },
+  {
+   "id": "PH-H11181-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The public good requiring the speedy enactment of this bill, the passage of the same is hereby\nexpedited in accordance with section two of \"An Act prescribing the order of procedure by the Commission\nin the enactment of laws,\" passed September twenty-sixth, nineteen hundred."
+   }
+  },
+  {
+   "id": "PH-H11181-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, October 6, 1902."
+   }
+  }
+ ]
+}

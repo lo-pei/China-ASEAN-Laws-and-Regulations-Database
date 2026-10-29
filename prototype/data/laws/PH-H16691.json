@@ -1,0 +1,50 @@
+{
+ "id": "PH-H16691",
+ "title": {
+  "zh": null,
+  "en": "Description and Specification of the Filipino Flag",
+  "orig": "Description and Specification of the Filipino Flag"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p157",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1936-03-25",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Executive Order No. 23",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 1,
+ "chars": 2207,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (HTML full text only)  |  https://lawphil.net/executive/execord/eo1936/eo_23_1936.html"
+ },
+ "sourceFile": "菲律宾/法律原文/07_行政命令_EO/EO_00023_1936_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 1 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 EO_00023_1936_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H16691-A1",
+   "no": 1,
+   "noLabel": {},
+   "text": {
+    "en": "MALACAÑAN PALACE\nBY THE PRESIDENT OF THE PHILIPPINES\n[ EXECUTIVE ORDER NO. 23, March 25, 1936 ]\nDESCRIPTION AND SPECIFICATION OF THE FILIPINO FLAG\nWHEREAS, section one, Article XIII of the Constitution prescribes what the Philippine National Flag should\nbe without giving descriptions;\nWHEREAS, Act Numbered Two thousand nine hundred and twenty-eight describes the construction of the\nFilipino Flag without the necessary specifications of the different elements of the flag;\nWHEREAS, compliance with this Act has not been uniformly carried out and has caused the making of\nFilipino flags in disproportionate sizes with incorrect proportions of the different allegorical symbols of the\nWHEREAS, to avoid irregularities and discrepancies, it is necessary to follow the Constitutional provisions\nand Act Numbered Two thousand nine hundred and twenty-eight with uniformity;\nNOW, THEREFORE, I, MANUEL L. QUEZON, President of thePhilippines, do hereby promulgate and\norder that the following specifications for the Philippine National Flag be strictly observed by all civil and\nmilitary branches of the Government:\n1. The maximum length of the flag is twice its width; the minimum length is twice the altitude of the\nequilateral triangle.\n2. Any side of the equilateral triangle is as long as the width of the flag.\n3. (See accompanying illustration.) Solid golden sunburst without any markings?Sun with eight rays, equally\nspaced; Arc x with Sun ray = Free arc y; two opposite rays in horizontal axis and two in vertical axis; sun’s\ndiameter D=w/5; each ray has one major beam, twice as broad as the minor beam on either side; length of\nmajor beam R=5/9 D; length of minor beam r = 4/5 R.\n[Illustration - Flag of the Philippines]\n4. Three five-pointed golden stars of equal size, each star with one point directed to the vertex of the angle\nenclosing it; diameter of circumscribed circle of each star = 5/9 D diameter of inscribed circle of each star =\n2/9 D; distance from each corner = D/2.\n5. Canvas-trimmed edge to the left of the triangle is approximately D/5 wide = not counted in measuring\nlength of flag.\n6. Flags made of silk will be trimmed on three edges with a knotted fringe of yellow silk D/5 wide."
+   }
+  }
+ ]
+}

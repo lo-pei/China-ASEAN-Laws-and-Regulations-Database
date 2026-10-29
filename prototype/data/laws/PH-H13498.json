@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13498",
+ "title": {
+  "zh": null,
+  "en": "An Act to Appropriate the Sum of One Hundred thousand Pesos, Out of Any Insular Funds Not Otherwise Appropriated, for Continuing the Food Campaign.",
+  "orig": "An Act to Appropriate the Sum of One Hundred thousand Pesos, Out of Any Insular Funds Not Otherwise Appropriated, for Continuing the Food Campaign."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1919-03-11",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2850",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 577,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1919/act_2850_1919.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02850_1919_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02850_1919_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13498-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "There is hereby appropriated, out of any funds in the Insular Treasury not otherwise\nappropriated, the sum of one hundred thousand pesos, or so much thereof as may be necessary, to be disbursed\nby the Secretary of Agriculture and Natural Resources in accordance with the provisions of Act Numbered\nTwenty-seven hundred and twenty-three, entitled \"An Act providing for the adoption of necessary and\nefficacious measures for increasing the agricultural production of foodstuffs and appropriating funds for this"
+   }
+  },
+  {
+   "id": "PH-H13498-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, March 11, 1919."
+   }
+  }
+ ]
+}

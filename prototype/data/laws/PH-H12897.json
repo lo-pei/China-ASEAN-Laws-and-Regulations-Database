@@ -1,0 +1,62 @@
+{
+ "id": "PH-H12897",
+ "title": {
+  "zh": null,
+  "en": "An Act Making Immediately Available the Sum of Fifty-Seven thousand Pesos of the Amount Appropriated By Act Numbered Twenty-One Hundred and Eighty-Five for the Construction of Wireless Telegraph stations in that Part of the Philippine Islands Inhabited By Moros or Other Non-Christian Tribes.",
+  "orig": "An Act Making Immediately Available the Sum of Fifty-Seven thousand Pesos of the Amount Appropriated By Act Numbered Twenty-One Hundred and Eighty-Five for the Construction of Wireless Telegraph stations in that Part of the Philippine Islands Inhabited By Moros or Other Non-Christian Tribes."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1912-10-08",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2191",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 644,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1912/act_2191_1912.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02191_1912_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02191_1912_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12897-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Of the money appropriated by Act Numbered Twenty-one hundred and eighty-five, entitled \"An\nAct appropriating funds for the construction of wireless telegraph stations in that part of the Philippine Islands\ninhabited by Moros or other non-Christian tribes, provided a like amount shall be appropriated by the\nCongress of the United States and made available for use in connection with the money herein appropriated,\"\nthe sum of fifty-seven thousand pesos is hereby made immediately available for expenditure by the Secretary\nof Commerce and Police for the purposes of said Act."
+   }
+  },
+  {
+   "id": "PH-H12897-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, October 8, 1912."
+   }
+  }
+ ]
+}

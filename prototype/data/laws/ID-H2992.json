@@ -1,0 +1,104 @@
+{
+ "id": "ID-H2992",
+ "title": {
+  "zh": "将公营有限公司努山塔拉渔业公司并入公营有限公司印尼渔业公司法",
+  "en": "Law on the Consolidation of Perusahaan Perseroan (PERSERO) PT Perikanan Nusantara into Perusahaan Perseroan (PERSERO) PT Perikanan Indonesia",
+  "id": "PENGGABUNGAN PERUSAHAAN PERSEROAN (PERSERO) PT PERIKANAN NUSANTARA KE DALAM PERUSAHAAN PERSEROAN (PERSERO) PT",
+  "orig": "PENGGABUNGAN PERUSAHAAN PERSEROAN (PERSERO) PT PERIKANAN NUSANTARA KE DALAM PERUSAHAAN PERSEROAN (PERSERO) PT",
+  "vi": "Luật về Việc Hợp nhất Công ty TNHH Nhà nước (PERSERO) PT Perikanan Nusantara vào Công ty TNHH Nhà nước (PERSERO) PT Perikanan Indonesia",
+  "th": "พระราชบัญญัติว่าด้วยการรวมบริษัทจำกัดของรัฐ (PERSERO) PT Perikanan Nusantaraเข้าเป็นบริษัทจำกัดของรัฐ (PERSERO) PT Perikanan Indonesia",
+  "ms": "Akta tentang Penggabungan Perusahaan Perseroan (PERSERO) PT Perikanan Nusantara ke dalam Perusahaan Perseroan (PERSERO) PT Perikanan Indonesia"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02a",
+ "language": "id",
+ "level": "law",
+ "category": "02_民商事与经济法",
+ "status": "active",
+ "promulgatedDate": "2021",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "-",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 5,
+ "chars": 2421,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": null
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\02_民商事与经济法\\印尼_文本_2021_PENGGABUNGAN PERUSAHAAN PERSEROAN (PERSERO) PT PERIKANAN NUSANTARA KE DALAM PERUSAHAAN PERSEROAN (PERSERO) PT.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 5 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H2992-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\nPerusahaan Perseroan (Persero) PT Perikanan Nusantara yang\ndidirikan berdasarkan Peraturan Pemerintah Nomor 37 Tahun\n1973 tentang Penyertaan Modal Negara Republik Indonesia\nuntuk Pendirian Perusahaan Perseroan di Bidang Perikanan\nLaut di Sorong (lrian Jaya) digabungkan ke dalam Perusahaan\nPerseroan (Persero) PT Perikanan Indonesia yang statusnya\nsebagai Perusahaan Perseroan (Persero) ditetapkan\nberdasarkan Peraturan Pemerintah Nomor 76 Tahun 2O2l\ntentang Perubahan Bentuk Badan Hukum Perusahaan Umum\n(Perum) Perikanan Indonesia menjadi Perusahaan Perseroan\n(Persero).\n2\n3\nSK No 097516 A"
+   }
+  },
+  {
+   "id": "ID-H2992-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2 "
+   },
+   "chapter": {},
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 2 .\nPRESIDEN\nREPUELIK INDONESIA\no-rl-\nPasal 2\n(1) Dengan penggabungan sebagaimana dimaksud dalam\nPasal 1, Perusahaan Perseroan (Persero) PT Perikanan\nNusantara dinyatakan bubar tanpa likuidasi dengan\nketentuan segala hak dan kewajiban serta kekayaan\nPerusahaan Perseroan (Persero) PT Perikanan Nusantara\nberalih karena hukum kepada Perusahaan Perseroan\n(Persero) PT Perikanan Indonesia.\n{21 Besarnya nilai kekayaan sebagaimana dimaksud pada\nayat (1) ditetapkan oleh Menteri Keuangan berdasarkan\nusulan Menteri Badan Usaha Milik Negara."
+   }
+  },
+  {
+   "id": "ID-H2992-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\nPenggabungan sebagaimana dimaksud dalam Pasai 1\ndilaksanakan Menteri Badan Usaha Milik Negara dan Menteri\nKeuangan sesuai dengan kewenangan masing-masing\nberdasarkan ketentuan peraturan perundang-undangan."
+   }
+  },
+  {
+   "id": "ID-H2992-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\nTerhitung sejak tanggal mulai berlakunya penggabungan\nsebagaimana dimaksud dalam Pasal 1, Peraturan\nPemerintah Nomor 37 Tahun 1973 tentang Penyertaan Modal\nNegara Republik Indonesia untuk Pendirian Perusahaan\nPerseroan di Bidang Perikanan Laut di Sorong (Irian Jaya)\n(Lembaran Negara Republik Indonesia Tahun 1973 Nomor\n47), dicabut dan dinyatakan tidak berlaku."
+   }
+  },
+  {
+   "id": "ID-H2992-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\nPeraturan Pemerintah ini\ndiundangkan.\nmulai berlaku pada tanggal\nSK No 097517 A\nAgar\nPRESIDEN\nREPUBLIK INDONESIA\nAgar setiap\npengundangan\npenempatannya\nIndoncsia.\norang mengetahuinya, memerintahkan\nPeraturan Pemerintah ini dengan\ndalam Lembaran Negara Republik\nDitetapkan di Jakarta\npada tanggal 15 September 2O2l\nPRESIDEN REPUBLIK INDONESIA,\nJOKO WIDODO\nDiundangkan di Jakarta\npada tanggal 15 September 2O2l\nMENTERI HUKUM DAN HAK ASASI MANUSIA\nREPUBLIK INDONESIA,\nttd\nYASONNA H. LAOLY\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2021 NOMOR 220\nSalinan sesuai dengan aslinya\nKEMENTERIAN SEKRETARIAT NEGARA\nREPUBLIK INDONESIA\ndang-undangan dan\nsi Hukum,\nrtd\n*.\n..,:\nsK [r,!o 057590 A\nanna Djaman"
+   }
+  }
+ ]
+}

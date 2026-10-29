@@ -1,0 +1,62 @@
+{
+ "id": "PH-H22985",
+ "title": {
+  "zh": null,
+  "en": "Amending the 1978 Election Code By Providing That the Investigation, Prosecution and Disposition of Cases Involving Violations of Election Laws Shall Be Given Preference and Priority.",
+  "orig": "Amending the 1978 Election Code By Providing That the Investigation, Prosecution and Disposition of Cases Involving Violations of Election Laws Shall Be Given Preference and Priority."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1980-02-19",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 1676",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1002,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_01676_1980_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_01676_1980_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22985-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The 1978 Election Code is hereby amended by adding a next session to be known as \"Section\n184-A\" which shall read as follows:\n\"Sec. 184-A. Preferential Disposition of Election Offenses. The investigation and prosecution of cases\ninvolving violations of the elections laws shall be given preference and priority by the Commission on\nElections and prosecuting officials. Their investigation shall be commenced without delay, and shall be\nresolved by the investigation officer within (5) days from its submission for resolution. The courts shall\nlikewise give preference to election offices over all other cases, except petitions for writ of habeas corpus.\nTheir trial shall likewise be commenced without delay, and shall be conducted continuously until terminated,\nand the case shall be decided within thirty (30) days from its submission for decision.\""
+   }
+  },
+  {
+   "id": "PH-H22985-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This decree shall take effect immediately.\nDone in the City of Manila, this 19th day of February, in the year of Our Lord, nineteen hundred and eighty."
+   }
+  }
+ ]
+}

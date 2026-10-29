@@ -1,0 +1,62 @@
+{
+ "id": "PH-H10743",
+ "title": {
+  "zh": null,
+  "en": "AN ACT AUTHORIZING AN INCREASE OF THE SALARY OF THE INTERPRETER AND TRANSLATOR IN THE OFFICE OF THE SUPERINTENDENT OF POLICE FOR THE CITY OF",
+  "orig": "AN ACT AUTHORIZING AN INCREASE OF THE SALARY OF THE INTERPRETER AND TRANSLATOR IN THE OFFICE OF THE SUPERINTENDENT OF POLICE FOR THE CITY OF"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 30",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 304,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_00030_1900_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_00030_1900_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H10743-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The salary of the chief interpreter and translator in the office of the Superintendent of Police in the\ncity of Manila is hereby increased to one hundred dollars per month, in money of the United States."
+   }
+  },
+  {
+   "id": "PH-H10743-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on the first day of November, nineteen hundred.\nEnacted, October 24, 1900."
+   }
+  }
+ ]
+}

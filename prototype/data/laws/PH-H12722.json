@@ -1,0 +1,62 @@
+{
+ "id": "PH-H12722",
+ "title": {
+  "zh": null,
+  "en": "An Act Extending to that Part of the Philippine Islands Inhabited By Moros or Other Non-Christian Tribes the Provisions of Acts Numbered Two thousand and Eleven and Two thousand and Twelve of the Philippine Legislature.",
+  "orig": "An Act Extending to that Part of the Philippine Islands Inhabited By Moros or Other Non-Christian Tribes the Provisions of Acts Numbered Two thousand and Eleven and Two thousand and Twelve of the Philippine Legislature."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1911-01-18",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2014",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 910,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1911/act_2014_1911.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02014_1911_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02014_1911_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12722-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "There are hereby extended to and placed in force throughout that part of the Philippine Islands\ninhabited by Moros or other non-Christian tribes the provisions of the following Acts of the Legislature:\nNo. 2011; passed January 12, 1911; entitled \"An Act amending section thirty-nine of Act Numbered Four\nhundred and ninety-six, entitled 'The Land Registration Act,' so as to extend to Government irrigation canals\nand laterals thereof the exemptions established in favor of public highways.\"\nNo. 2012; passed January 13, 1911; entitled \"An Act to amend section eighteen of Act Numbered Fourteen\nhundred and fifty-nine. entitled 'The Corporation Law,' by providing for the collection of fees for filing\ncopies of amended articles of incorporation, and for other purposes.\""
+   }
+  },
+  {
+   "id": "PH-H12722-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect as to each of said Acts simultaneously with the taking effect of the Act\nin question.\nEnacted, January 18, 1911."
+   }
+  }
+ ]
+}

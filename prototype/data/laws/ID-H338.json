@@ -1,0 +1,520 @@
+{
+ "id": "ID-H338",
+ "title": {
+  "zh": "1971年第8号法",
+  "en": "Law No. 8 of 1971 Law",
+  "id": "Undang-Undang Nomor 8 Tahun 1971",
+  "orig": "Undang-Undang Nomor 8 Tahun 1971",
+  "vi": "Luật Luật số 8 năm 1971",
+  "th": "พระราชบัญญัติ พระราชบัญญัติ ฉบับที่ 8 พ.ศ. 2514",
+  "ms": "Akta Akta Bilangan 8 1971"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02c",
+ "language": "id",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "1971",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU8-1971",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 33,
+ "chars": 36511,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": null
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\01_宪法与基础法\\印尼_WLD_1971_Undang-Undang Nomor 8 Tahun 1971.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 34 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H338-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\n(1) Dengan tidak mengurangi tugas dan wewenang\nDepartemen-departemen dalam bidangnya masing-masing, maka\ntata-usaha, pengawasan pekerjaan\ndan pelaksanaan pengusahaan\npertambangan minyak dan gas bumi serta pengawasan hasil\npertambangannya dipusatkan pada Departemen yang\nlapangan tugasnya\nmeliputi pertambangan minyak dan gas bumi.\n(2) Pengawasan termaksud pada ayat (1) pasal ini meliputi\npengawasan produksi, pengawasan keselamatan kerja dan\nkegiatan-kegiatan\nlainnya dalam pertambangan minyak dan gas bumi\nyang menyangkut kepentingan umum.\n(3) Cara pengawasan dan pengaturan keselamatan kerja yang\nditujukan untuk keamanan, keselamatan kerja dan effisiensi\npekerjaan dari\npada pelaksanaan usaha pertambangan minyak dan gas\nbumi, diatur dengan Peraturan Pemerintah.\nBAB II\nKETENTUAN PENDIRIAN"
+   }
+  },
+  {
+   "id": "ID-H338-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\n(1) Dengan nama Perusahaan Pertambangan Minyak dan Gas Bumi\nNegara, disingkat PERTAMINA, selanjutnya dalam Undang-undang ini\ndisebut\nPerusahaan, didirikan suatu perusahaan pertambangan minyak\ndan gas bumi, yang dimiliki Negara Republik Indonesia.\n(2) Perusahaan termaksud pada ayat (1) pasal ini adalah badan\nhukum yang berhak melakukan usaha-usahanya berdasarkan\nUndang-undang\nini.\n(3) Definisi Perusahaan Negara yang tercantum dalam\nUndang-undang Nomor 44 Prp. Tahun 1960 Pasal 1 (Lembaran Negara\nTahun 1960 Nomor\n133, Tambahan Lembaran Negara Nomor 2070) harus\ndibaca Perusahaan dalam pengertian Undang-undang ini."
+   }
+  },
+  {
+   "id": "ID-H338-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\nDengan tidak mengurangi ketentuan-ketentuan dalam Undang-undang\nini terhadap Perusahaan berlaku hukum Indonesia."
+   }
+  },
+  {
+   "id": "ID-H338-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\nPerusahaan berkedudukan dan berkantor pusat di Jakarta.\nBAB III\nTUJUAN DAN LAPANGAN USAHA"
+   }
+  },
+  {
+   "id": "ID-H338-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\nTujuan Perusahaan adalah membangun dan melaksanakan pengusahaan\nminyak dan gas bumi dalam arti seluas-luasnya untuk sebesar-besar\nkemakmuran Rakyat dan Negara serta menciptakan Ketahanan\nNasional."
+   }
+  },
+  {
+   "id": "ID-H338-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\n(1) Perusahaan bergerak di bidang pengusahaan minyak dan gas\nbumi yang meliputi eksplorasi, eksploitasi, pemurnian dan\npengolahan,\npengangkutan dan penjualan.\n(2) Dengan persetujuan Presiden dapat dilakukan perluasan\nbidang-bidang usaha, sepanjang masih ada hubungan dengan\npengusahaan minyak\ndan gas bumi termaksud pada ayat (1) pasal ini,\nserta didasarkan pada anggaran perusahaan, rencana kerja tahunan\ndan rencana investasi\nperusahaan.\nBAB IV\nMODAL"
+   }
+  },
+  {
+   "id": "ID-H338-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\n(1) Modal Perusahaan adalah kekayaan Negara yang dipisahkan dari\nAnggaran Pendapatan dan Belanja Negara sebesar yang ditanam dalam\nP.N. PERTAMINA sampai saat pembubarannya, yang jumlahnya tercantum\ndalam Neraca Pembukaan yang akan disahkan oleh Menteri\nKeuangan.\n(2) Penambahan modal termaksud pada ayat (1) pasal ini,\nditetapkan dengan Undang-undang.\n(3) Modal Perusahaan tidak terbagi atas saham-saham."
+   }
+  },
+  {
+   "id": "ID-H338-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n(1) Perusahaan mempunyai cadangan umum yang dipergunakan untuk\nmenutupi kerugian yang mungkin timbul atas modal Perusahaan.\n(2) Perusahaan membentuk cadangan tujuan.\n(3) Cadangan-cadangan yang diadakan oleh Perusahaan dinyatakan\ndengan jelas dalam pembukuan Perusahaan.\n(4) Perusahaan tidak mengadakan cadangan diam dan cadangan\nrahasia.\nTGPT NAME=\"ps9\">Pasal 9.\n(1) Cara mengurus dan menggunakan cadangan umum ditentukan\ndengan Peraturan Pemerintah.\n(2) Cara mengurus dana penyusutan dan cadangan tujuan ditentukan\noleh Dewan Komisaris Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H338-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\n(1) Perusahaan dapat memperoleh dan menggunakan dana-dana yang\ndiperlukan untuk mengembangkan usahanya melalui pengeluaran\nobligasi.\n(2) Keputusan untuk mengeluarkan obligasi diatur dengan\nPeraturan Pemerintah.\nBAB V\nKUASA PERTAMBANGAN"
+   }
+  },
+  {
+   "id": "ID-H338-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\n(1) Kepada Perusahaan disediakan seluruh wilayah hukum\npertambangan Indonesia, sepanjang mengenai pertambangan minyak dan\ngas bumi.\n(2) Kepada Perusahaan diberikan Kuasa Pertambangan yang\nbatas-batas wilayahnya serta syarat-syaratnya ditetapkan oleh\nPresiden atas\nusul Menteri."
+   }
+  },
+  {
+   "id": "ID-H338-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n(1) Perusahaan dapat mengadakan kerjasama dengan pihak lain\ndalam bentuk \"Kontrak Production Sharing\".\n(2) Syarat-syarat kerjasama termaksud pada ayat (1) pasal ini\nakan diatur dengan Peraturan Pemerintah.\n(3) Perjanjian termaksud pada ayat (1) pasal ini mulai berlaku\nsetelah disetujui oleh Presiden.\nBAB VI\nTUGAS DAN KEWAJIBAN PERUSAHAAN"
+   }
+  },
+  {
+   "id": "ID-H338-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\nTugas Perusahaan adalah :\na. melaksanakan pengusahaan minyak dan gas bumi dengan\nmemperoleh hasil yang sebesar-besarnya bagi kemakmuran Rakyat dan\nNegara;\nb. menyediakan dan melayani kebutuhan bahan bakar minyak dan gas\nbumi untuk dalam negeri yang pelaksanaannya diatur dengan Peraturan\nPemerintah."
+   }
+  },
+  {
+   "id": "ID-H338-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\n(1) Dalam melaksanakan pengusahaan pertambangan minyak dan gas\nbumi sesuai dengan ketentuan-ketentuan yang tercantum dalam\nUndang-undang\nini Perusahaan wajib menyetor kepada Kas Negara,\njumlah-jumlah sebagai berikut :\na. enam puluh persen dari penerimaan bersih usaha (net operating\nincome) atas hasil operasi Perusahaan sendiri;\nb. enam puluh persen dari penerimaan bersih usaha (net operating\nincome) atas hasil Kontrak Production Sharing sebelum dibagi antara\nPerusahaan dan Kontraktor;\nc. seluruh hasil yang diperoleh dari Perjanjian Karya termaksud\ndalam Undang-undang Nomor 14 Tahun 1963;\nd. enam puluh persen dari penerimaan-penerimaan bonus Perusahaan\nyang diperoleh dari hasil Kontrak Production Sharing.\n(2) Untuk memudahkan pelaksanaan ayat (1) sub a dan b pasal ini\ndengan Peraturan Pemerintah dapat ditetapkan suatu persentase\ntertentu\ndari nilai penjualan atau suatu jumlah pungutan tertentu\nuntuk setiap satuan volume dari seluruh produksi.\n(3) Pada setiap akhir tahun diadakan penyesuaian agar jumlah\nyang disetorkan menurut ayat (2) pasal ini sama dengan jumlah yang\ndiperhitungkan\nmenurut ayat (1) sub a dan b pasal ini."
+   }
+  },
+  {
+   "id": "ID-H338-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\nPenyetoran kepada Kas Negara sebagaimana tercantum pada ayat (1)\nsub a dan b pasal 14 Undang-undang ini, membebaskan Perusahaan dan\nKontraktor, serta merupakan pembayaran dari :\na. Pajak Perseroan termaksud dalam Ordonantie Pajak Perseroan\n(Staatsblad 1925 Nomor 319) sebagaimana telah diubah dan\nditambah;\nb. Iuran pasti, iuran eksplorasi, iuran eksploitasi dan\npembayaran-pembayaran lainnya yang berhubungan dengan pemberian\nKuasa Pertambangan\ntermaksud dalam Undang-undang Nomor 44 Prp.\nTahun 1960;\nc. Pungutan atas ekspor minyak dan gas bumi serta hasil-hasil\npemurnian dan pengolahan;\nTGPT NAME=\"ps15(d)\">d. Bea masuk termaksud dalam Indische\nTariefwet 1873 (Staatsblad 1873 Nomor 35) sebagaimana telah\nditambah\ndan dirubah dan Pajak Penjualan atas impor termaksud dalam\nUndang-undang Nomor 19 Drt. Tahun 1951 (Lembaran Negara Tahun 1951\nNomor\n94, Tambahan Lembaran Negara Nomor 157) yo. Undang-undang\nNomor 2 Tahun 1968 (Lembaran Negara tahun 1968 Nomor 14, Tambahan\nLembaran\nNegara Nomor 2847) sebagaimana telah dirubah dan ditambah\ndari pada semua barang-barang yang dipergunakan dalam operasi\nPerusahaan,\nyang pelaksanaannya akan diatur dengan Peraturan\nPemerintah;\ne. Iuran Pembangunan Daerah.\nBAB VII\nDEWAN KOMISARIS PEMERINTAH"
+   }
+  },
+  {
+   "id": "ID-H338-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\n(1) Dewan Komisaris Pemerintah menetapkan kebijaksanaan umum\nPerusahaan, mengawasi pengurusan Perusahaan dan mengusulkan kepada\nPemerintah\nlangkah yang perlu diambil dalam rangka menyempurnakan\npengurusan Perusahaan, termasuk susunan Direksi Perusahaan.\n(2) Dewan Komisaris Pemerintah bertanggung-jawab kepada\nPresiden.\n(3) Dewan Komisaris Pemerintah terdiri atas 3 (tiga) orang\nanggota, yaitu Menteri dalam bidang pertambangan sebagai Ketua\nmerangkap\nanggota, Menteri Keuangan sebagai wakil Ketua merangkap\nanggota serta Ketua Badan Perencanaan Pembangunan Nasional sebagai\nanggota.\n(4) Apabila dipandang perlu, Presiden dapat menambah\nsebanyak-banyaknya 2 (dua) orang Menteri dalam bidang lainnya\nsebagai anggota.\n(5) Dewan Komisaris Pemerintah berhak meminta segala keterangan\nyang diperlukan kepada Direksi.\n(6) Dewan Komisaris Pemerintah diangkat dan diberhentikan oleh\nPresiden.\n(7) Tata-tertib dan cara menjalankan tugas Dewan Komisaris\nPemerintah diatur dalam suatu peraturan yang ditetapkan\nolehnya."
+   }
+  },
+  {
+   "id": "ID-H338-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\n(1) Dewan Komisaris Pemerintah mengadakan sidang setiap waktu\ndiperlukan dengan sekurang-kurangnya 1 (satu) kali dalam\nsebulan.\n(2) Keputusan-keputusan Dewan Komisaris Pemerintah diambil atas\ndasar musyawarah untuk mufakat.\n(3) Dalam hal tidak tercapai kesepakatan pendapat terhadap\nmasalah-masalah yang dibicarakan dalam Dewan Komisaris Pemerintah\nmaka\nmasanya diajukan kepada Presiden untuk mendapat keputusan\nlebih lanjut."
+   }
+  },
+  {
+   "id": "ID-H338-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\n(1) Untuk memperlancar tugas administrasi dari Dewan Komisaris\nPemerintah dibentuk suatu Sekretariat Dewan Komisaris Pemerintah\nyang\ndipimpin oleh seorang Sekretaris Dewan Komisaris\nPemerintah.\n(2) Sekretaris Dewan Komisaris Pemerintah diangkat dan\ndiberhentikan oleh Presiden atas usul Dewan Komisaris\nPemerintah.\n(3) Untuk memperlancar pelaksanaan tugasnya Dewan Komisaris\nPemerintah dapat menunjuk tenaga-tenaga ahli dan atau badan yang\ndiperlukannya.\nTGPT NAME=\"ps18(4)\">(4) Uang jasa Anggota Dewan Komisaris\nPemerintah dan Sekretaris Dewan Komisaris Pemerintah diatur dengan\nPeraturan\nPemerintah.\n(5) Segala biaya yang diperlukan Dewan Komisaris Pemerintah\ndalam pelaksanaan tugasnya dibebankan kepada Perusahaan.\nBAB VIII\nDIREKSI"
+   }
+  },
+  {
+   "id": "ID-H338-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\nTGPT NAME=\"ps19(1)\">(1) Perusahaan dipimpin dan diurus oleh\nsuatu Direksi yang terdiri dari seorang Direktur Utama dan\nsebanyak-banyaknya\n5 (lima ) orang Direktur.\n(2) Direksi bertanggung-jawab kepada Dewan Komisaris Pemerintah\ndan Direktur Utama Perusahaan mewakili Direksi dalam\npertanggungan-jawab\ntersebut.\n(3) Berdasarkan pasal 1 Bab I Undang-undang ini Direksi\nbertanggung-jawab kepada Menteri Pertambangan sejauh menyangkut\nsegi-segi\npengusahaan.\n(4) Tata-tertib dan cara menjalankan pekerjaan Direksi diatur\ndalam suatu peraturan yang ditetapkan oleh Dewan Komisaris\nPemerintah.\n(5) Gaji dan penghasilan lain daripada Anggota Direksi\nditetapkan oleh Dewan Komisaris Pemerintah sesuai dengan\nketentuan-ketentuan\nyang berlaku.\n(6) Keputusan-keputusan Direksi diambil atas dasar musyawarah\nuntuk mufakat.\n(7) Dalam hal tidak tercapai kesepakatan pendapat terhadap\nmasalah-masalah yang dibicarakan dalam Direksi, maka keputusan\ndiambil\ndengan pemungutan suara.\n(8) Dalam hal pemungutan suara tidak menghasilkan keputusan,\nmaka Direktur Utama Perusahaan mengambil keputusan."
+   }
+  },
+  {
+   "id": "ID-H338-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\n(1) Tugas Direksi adalah :\na. memimpin dan mengurus serta mengendalikan Perusahaan sesuai\ndengan tujuan Perusahaan sebagaimana diatur dalam Undang-undang\nini;\nb. melaksanakan kebijaksanaan umum dalam mengurus Perusahaan yang\ntelah ditentukan oleh Dewan Komisaris Pemerintah;\nc. menyiapkan rencana kerja tahunan Perusahaan;\nd. menyiapkan anggaran Perusahaan berdasarkan rencana kerja\ntahunan Perusahaan;\ne. mengurus dan memelihara kekayaan Perusahaan;\nf. menyiapkan susunan organisasi Perusahaan serta anak-anak dan\natau cabang-cabang Perusahaan, dengan memperhatikan ketentuan\nperundang-undangan\nyang berlaku;\ng. memberikan segala keterangan yang diperlukan Dewan Komisaris\nPemerintah dan Departemen Pertambangan;\nh. mengangkat dan memberhentikan Pegawai Perusahaan menurut\nperaturan kepegawaian Perusahaan dengan memperhatikan ketentuan\nperundang-undangan\nyang berlaku;\nj. menetapkan gaji, pensiun dan atau penghasilan lain dari pada\npegawai Perusahaan sesuai dengan ketentuan-ketentuan yang\nberlaku.\n(2) Dalam menetapkan peraturan gaji dan penghasilan lain dari\npada pegawai Perusahaan termaksud pada ayat (1) huruf i pasal ini\nDireksi\nharus mendapat persetujuan Dewan Komisaris Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H338-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\n(1) Anggota Direksi diangkat dan diberhentikan oleh Presiden\nuntuk jangka waktu selama-lamanya 5 (lima) tahun. Setelah masa\njabatan\ntersebut berakhir yang bersangkutan dapat diangkat\nkembali.\n(2) Syarat-syarat untuk pengangkatan Anggota Direksi termaksud\npada ayat (1) pasal ini ditetapkan dengan Peraturan Pemerintah.\n(3) Presiden dapat memberhentikan Anggota Direksi setelah\nmendengar Dewan Komisaris Pemerintah, meskipun masa jabatan yang\nbersangkutan\nbelum berakhir dalam hal-hal tersebut di bawah ini\na. atas permintaan sendiri;\nb. karena melakukan tindakan atau menunjukkan sikap yang merugikan\nPerusahaan atau bertentangan dengan kepentingan Negara;\nc. karena menjadi anggota sesuatu organisasi terlarang;\nd. karena sesuatu hal yang menyebabkan tidak dapat melaksanakan\ntugasnya dengan baik;\ne. karena meninggal dunia.\n(4) Dalam hal terdapat tuduhan termaksud pada ayat (3)\nhuruf-huruf b dan c pasal ini, maka Anggota Direksi yang\nbersangkutan dapat\ndiberhentikan untuk sementara dari tugasnya oleh\nDewan Komisaris Pemerintah. Pemberhentian sementara tersebut\ndiberitahukan secara\ntertulis kepada yang bersangkutan disertai\nalasan-alasan yang menyebabkan tindakan tersebut.\n(5) Kepada Anggota Direksi yang dikenakan pemberhentian\nsementara diberikan kesempatan untuk membela diri secara tertulis\nkepada Presiden\ndalam jangka waktu 2 (dua) minggu setelah yang\nbersangkutan diberitahukan tentang keputusan tersebut.\n(6) Apabila dalam jangka waktu 2 (dua) bulan sejak tanggal\npemberhentian sementara tidak ada pengesahan atau keputusan\nPresiden tentang\nhal tersebut, maka pemberhentian sementara\ntersebut menjadi batal.\n(7) Apabila pelanggaran sebagaimana tersebut pada ayat (3)\nhuruf-huruf b dan c pasal ini merupakan suatu pelanggaran hukum\npidana,\nmaka pemberhentian tersebut merupakan pemberhentian tidak\ndengan hormat."
+   }
+  },
+  {
+   "id": "ID-H338-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 22.\n(1) Anggota Direksi adalah warga negara Indonesia.\n(2) Antara para Anggota Direksi tidak boleh ada hubungan\nkeluarga sampai derajat ketiga, baik menurut garis lurus maupun\nmenurut garis\nke samping termaksud menantu dan ipar. Jadi sesudah\npengangkatannya mereka masuk hubungan keluarga yang terlarang itu,\nmaka salah\nseorang di antara mereka tidak boleh melanjutkan\njabatannya, kecuali diijinkan oleh Presiden.\n(3) Anggota Direksi tidak boleh merangkap jabatan lain kecuali\ndengan ijin Dewan Komisaris atau untuk jabatan yang dipikulkan oleh\nPemerintah kepadanya.\n(4) Anggota Direksi tidak boleh mempunyai kepentingan pribadi\nlangsung atau tidak langsung dalam perkumpulan/perusahaan lain yang\nbertujuan mencari laba, kecuali dengan ijin Presiden."
+   }
+  },
+  {
+   "id": "ID-H338-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\n(1) Direktur Utama mewakili Perusahaan di dalam dan di luar\npengadilan.\n(2) Direktur Utama dapat menyerahkan kekuasaan termaksud pada\nayat (1) pasal ini kepada seorang atau beberapa orang Direktur yang\nkhusus ditunjuk untuk hal tersebut atau seorang atau beberapa orang\npegawai Perusahaan, baik sendiri maupun bersama-sama atau kepada\norang/badan lain."
+   }
+  },
+  {
+   "id": "ID-H338-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 24\nPeraturan-peraturan tentang tuntutan ganti rugi terhadap pegawai\nnegeri bukan Bendaharawan berlaku juga terhadap Anggota Direksi dan\nPegawai Perusahaan.\nBAB IX\nTAHUN BUKU"
+   }
+  },
+  {
+   "id": "ID-H338-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\nTahun buku Perusahaan adalah tahun takwin, kecuali jika\nditetapkan lain oleh Pemerintah.\nBAB X\nANGGARAN PERUSAHAAN"
+   }
+  },
+  {
+   "id": "ID-H338-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\n(1) Selambat-lambatnya dalam jangka waktu 3 (tiga) bulan sebelum\ntahun buku baru mulai berlaku, Direksi diwajibkan menyampaikan\nkepada\nDewan Komisaris Pemerintah anggaran Perusahaan yang disusun\nsedemikian rupa, sehingga:\na. menggambarkan dengan jelas kegiatan Perusahaan serta kegiatan\nanak-anak Perusahaan dan penyertaan-penyertaannya;\nb. mencakup rencana kerja kegiatan operasi dan rencana investasi\nPerusahaan;\nc. dalam rangka kerjasama dengan kontraktor-kontraktor Kontrak\nProduction Sharing, maka Perusahaan diwajibkan untuk mengajukan\nanggaran\ntersendiri mengenai hal tersebut.\n(2) Anggaran Perusahaan termaksud pada ayat (1) pasal ini baru\nmulai berlaku setelah mendapat persetujuan Dewan Komisaris\nPemerintah.\n(3) Apabila sampai permulaan tahun buku Dewan Komisaris\nPemerintah tidak mengemukakan-keberatannya, maka anggaran\nPerusahaan dan rencana\nkerja Perusahaan berlaku sepenuhnya.\n(4) Tiap perobahan atas anggaran Perusahaan dan rencana kerja\nPerusahaan yang terjadi dalam tahun buku yang bersangkutan harus\nmendapat\npersetujuan dari Dewan Komisaris Pemerintah.\n(5) Setiap 3 (tiga) bulan sekali Direksi menyampaikan laporan\nmengenai pelaksanaan dari pada anggaran Perusahaan dan laporan\nkegiatan\nlainnya kepada Dewan Komisaris Pemerintah dan Departemen\nPertambangan."
+   }
+  },
+  {
+   "id": "ID-H338-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 27.\nUntuk hal-hal tersebut di bawah ini Direksi diwajibkan meminta\npersetujuan lebih dahulu dari Dewan Komisaris Pemerintah:\na. Tindakan-tindakan yang mengikat kekayaan Perusahaan sebagai\njaminan;\nb. Melakukan pinjaman yang melebihi sesuatu jumlah yang akan\nditetapkan oleh Dewan Komisaris Pemerintah;\nc. Mendirikan anak-anak Perusahaan atau mengadakan penyertaan,\nd. Mengadakan perjanjian/kontrak pembelian dan penjualan yang\nsifat dan besarnya akan ditetapkan oleh Dewan Komisaris\nPemerintah."
+   }
+  },
+  {
+   "id": "ID-H338-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 28.\nSemua alat liquide pada dasarnya disimpan dalam Bank milik\nNegara, tetapi untuk kelancaran jalannya Perusahaan dapat pula\ndisimpan\npada Bank-bank lain dengan persetujuan Dewan Komisaris\nPemerintah.\nBAB XI.\nLAPORAN PERHITUNGAN TAHUNAN."
+   }
+  },
+  {
+   "id": "ID-H338-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB XI."
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\n(1) Selambat-lambatnya dalam jangka waktu 6 (enam) bulan setelah\ntahun buku berakhir Direksi diwajibkan menyampaikan laporan\nperhitungan\ntahunan yang terdiri dari neraca dan perhitungan laba\ndan rugi Perusahaan kepada Dewan Komisaris Pemerintah untuk\ndisahkan. Perhitungan\ntahunan yang telah disahkan tersebut\ndisampaikan oleh Direksi kepada Badan Pemeriksa Keuangan, Menteri\ndalam bidang Pertambangan\ndan Menteri Keuangan.\n(2) Apabila dalam jangka waktu 3 (tiga) bulan setelah menerima\nperhitungan tahunan Dewan Komisaris Pemerintah tidak mengemukakan\nkeberatannya,\nmaka perhitungan tahunan tersebut dianggap telah\ndisahkan.\n(3) Pengesahan tersebut pada ayat (2) pasal ini memberikan\npembebasan tanggung-jawab kepada Direksi terhadap segala sesuatu\nyang termuat\ndalam perhitungan tahunan tersebut.\n(4) Direktorat Akuntan Negara bertugas mengadakan pemeriksaan\n(audit) terhadap perhitungan tahunan.\n(5) Neraca dan perhitungan laba-rugi Perusahaan yang telah\ndisahkan oleh Dewan Komisaris Pemerintah diumumkan secara luas.\nCara pengumuman tersebut ditentukan oleh Dewan Komisaris\nPemerintah.\nTGPT NAME=\"ps29(6)\">(6) Penggunaan dan penetapan laba\nPerusahaan diatur lebih lanjut dengan Peraturan Pemerintah.\nBAB XII.\nPEMBUBARAN."
+   }
+  },
+  {
+   "id": "ID-H338-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB XII."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 30.\n(1) Pembubaran Perusahaan dan penunjukkan likwidaturnya\nditetapkan dengan Undang-undang.\n(2) Semua kekayaan Perusahaan setelah diadakan likwidasi menjadi\nmilik negara.\n(3) Likwidaturnya bertanggung-jawab kepada Pemerintah atas\npelaksanaan likwidasi Perusahaan.\nBAB XIII\nKETENTUAN PERALIHAN."
+   }
+  },
+  {
+   "id": "ID-H338-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB XIII"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 31.\n(1) Pada saat mulai berlakunya Undang-undang ini Perusahaan\nNegara Pertambangan Minyak dan Gas Bumi Nasional (P.N. PERTAMINA)\nyang\ndidirikan dengan Peraturan Pemerintah No. 27 tahun 1968\n(Lembaran-Negara tahun 1968 No. 44) dinyatakan bubar dan semua hak,\nkewajiban,\nkekayaan termasuk cadangan-cadangan, perlengkapan\ntermasuk para pegawai dan usaha-usaha P.N. PERTAMINA beralih kepada\nPerusahaan.\n(2) Segala hak dan kewajiban serta akibat-akibat yang timbul\ndari suatu perjanjian/kontrak antara P.N. PERTAMINA dengan fihak\nlain\nyang beralih menjadi hak dan kewajiban Perusahaan."
+   }
+  },
+  {
+   "id": "ID-H338-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB XIII"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 32.\n(1) Sebelum diangkat Direksi sebagaimana termaksud dalam pasal\n21 Undang-undang ini, maka Direksi P.N. PERTAMINA yang ada pada\nsaat\nmulai berlakunya Undang-undang ini bertindak sebagai Direksi\nPerusahaan.\n(2) Dalam jangka waktu 3 (tiga) bulan setelah berlakunya\nUndang-undang ini, Pemerintah menetapkan Direksi dan Dewan\nKomisaris Pemerintah,\nsesuai dengan Ketentuan-ketentuan dalam\nUndang-undang ini.\nBAB XIV.\nKETENTUAN PENUTUP."
+   }
+  },
+  {
+   "id": "ID-H338-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB XIV."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 33.\n(1) Hal-hal yang belum cukup diatur dalam Undang-undang ini\nditetapkan lebih lanjut dengan Peraturan Pemerintah.\n(2) Dengan berlakunya Undang-undang ini, maka Peraturan\nPemerintah No. 27 tahun 1968 (Lembaran-Negara tahun 1968 No. 44)\ndinyatakan\ntidak berlaku."
+   }
+  },
+  {
+   "id": "ID-H338-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB XIV."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 34.\n(1) Undang-undang ini disebut \"Undang-undang PERTAMINA\".\n(2) Undang-undang ini mulai berlaku pada hari tanggal\ndiundangkan.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan\npengundangan Peraturan Pemerintah ini dengan penempatannya dalam\nLembaran-Negara\nRepublik Indonesia.\nDitetapkan di Jakarta\npada tanggal 15 Deseember 1971.\nPresiden Republik Indonesia,\nSOEHARTO\nJenderal T.N.I.\nDiundangkan di Jakarta\npada tanggal 15 Desember 1971.\nSekretaris Negara Republik Indonesia,\nALAMSJAH.\nLetnan Jenderal T.N.I.\nPENJELASAN\nATAS\nUNDANG-UNDANG REPUBLIK INDONESIA\nNOMOR 8 TAHUN 1971\ntentang\nPERUSAHAAN PERTAMBANGAN MINYAK DAN GAS BUMI NEGARA.\nI. PENJELASAN UMUM.\nMinyak dan gas bumi merupakan bahan galian yang strategis dan\nmerupakan kekayaan Nasional yang terbesar dewasa ini.\nKekayaan ini sekali ditambang dari perut bumi tidak dapat\ndiperbaharui lagi, karena itu dalam menetapkan kebijaksanaan\nperminyakan\ndan pelaksanaan kebijaksanaan tersebut selalu harus\nberpedoman kepada jiwa pasal 33 ayat (3) Undang-undang Dasar\n1945.\nSudah semestinyalah, bahwa kekayaan Nasional yang besar tersebut\nharus dimanfaatkan untuk pembangunan perekonomian negara yang dapat\nmembawa kesejahteraan seluruh rakyat Indonesia.\nDalam pada itu, perusahaan pertambangan minyak dan gas bumi harus\ndilakukan secara ekonomis, sehingga merupakan sumber pembiayaan\nyang penting bagi Pembangunan ekonomi Negara.\nBerhubung dengan pentingnya bahan galian minyak dan gas bumi, baik\nbagi kesejahteraan rakyat maupun untuk pertahanan dan keamanan\nNasional, maka dalam Undang-undang No. 44 Prp. tahun 1960 telah\nditentukan bahwa pengusahaan minyak dan gas bumi hanya dapat\ndiselenggarakan\noleh negara dan pelaksanaan pengusahaannya hanya\ndapat dilakukan oleh Perusahaan Negara.\nPerusahaan Negara Pertambangan Minyak dan Gas Bumi Nasional (P.N.\nPERTAMINA) yang didirikan dengan Peraturan Pemerintah No. 27 tahun\n1968 (Lembaran-Negara tahun 1968 No. 44) sampai pada saat\nberlakunya Undang-undang ini adalah satu-satunya Perusahaan Negara\nyang\ntelah ditugaskan untuk menampung dan melaksanakan semua\nkegiatan pengusahaan minyak dan gas bumi di Indonesia, yang pada\nwaktu ini\ntelah berkembang dan telah mencapai suatu tingkat\nkesatuan usaha yang meliputi berbagaibagai cabang pengusahaan\nminyak dan gas bumi\n(suatu Integrated State Oil Company) di\nIndonesia.\nMemperhatikan pengalaman serta hasil-hasil yang telah dicapai oleh\nP.N. PERTAMINA hingga saat ini, serta pula untuk menjamin\nkelancaran\nperkembangan usaha selanjutnya bagi suatu perusahaan\npertambangan minyak dan gas bumi negara yang sanggup dan mampu\nmengadakan kompetisi\nsecara internasional, sehingga dapat\nmemberikan manfaat yang sebesar-besarnya bagi rakyat dan negara,\nmaka perlu disiapkan dasar-dasar\ndan landasan kerja yang memadai,\nyang tidak cukup diatur dengan perundang-undangan yang telah\nada.\nBerdasarkan pertimbangan-pertimbangan tersebut di atas itulah,\nmaka dengan Undang-undang ini didirikan Perusahaan Pertambangan\nMinyak\ndan Gas Bumi Negara, disingkat Undang-undang PERTAMINA, yang\ndiharapkan akan dapat merupakan sarana (hukum) untuk meningkatkan\ndan\nlebih menjamin suksesnya pengusahaan minyak dan gas bumi, yang\nselama ini dilaksanakan oleh P.N. PERTAMINA.\nDi samping itu dalam Undang-undang PERTAMINA ini diatur lebih\njelas dan terperinci cara-cara pengurusan perusahaan khusus\nmengenai\nminyak dan gas bumi yang strategis itu, serta diatur\ndengan jelas pula hak-hak dan kewajiban-kewajiban perusahaan,\nsehingga dapat\ndiharapkan akan lebih terjamin kelancaran\npelaksanaan usaha, sedangkan pemberian bimbingan dan pengawasan\nakan dapat dilaksanakan\npula oleh Pemerintah dengan lebih teratur\ndan terarah.\nII. PENJELASAN PASAL DEMI PASAL\nPasal 1.\nAyat (1).\nDalam pasal 16 Undang-undang No. 44 Prp. tahun 1960 ditegaskan\nbahwa tata-usaha dan pengawasan pekerjaan-pekerjaan pertambangan\ndan pelaksanaan pengusahaan minyak dan gas bumi dilakukan oleh\nDepartemen/Instansi Pemerintah yang lapangan tugasnya meliputi\nurusan\npertambangan minyak dan gas bumi.\nOleh karena itu dengan tidak mengurangi tugas dan wewenang\nMenteri-menteri dalam bidangnya masing-masing, maka pengusahaan\nminyak\ndan gas bumi di Indonesia diatur, dibina dan diawasi oleh\nMenteri tersebut di atas. Pengaturan, pembinaan dan pengawasan\npertambangan\nminyak dan gas bumi tersebut dilakukan dalam rangka\nkewenangan Menteri tersebut di atas dalam bidang hukum publik.\nAyat (2) Cukup jelas.\nAyat (3).\nBahwa pelaksanaan pengusahaan minyak dan gas bumi itu merupakan\nproses yang terus-menerus dan memerlukan peralatan yang khusus dan\nmenghadapi kemungkinan bahaya yang mempunyai frequency yang begitu\nbesar maka perlu diadakan penyelenggaraan keselamatan kerja yang\nlebih effisien dan effektif. Oleh karena pada Departemen\nPertambangan tersedia personil peralatan yang khusus untuk\nmenyelenggarakan\nkeselamatan kerja tersebut maka perlu wewenang\nuntuk menyelenggarakan keselamatan kerja di bidang pelaksanaan\npengusahaan minyak\ndan gas bumi yang dimaksud dalam undang-undang\nNo. 1 tahun 1970 tentang keselamatan kerja dilimpahkan kepada\nDepartemen Pertambangan.\nPasal 2.\nCukup jelas.\nPasal 3.\nCukup jelas.\nPasal 4.\nCukup jelas.\nPasal 5.\nKemakmuran rakyat dan Negara dapat dicapai dengan melaksanakan\npembangunan perekonomian Negara; dengan demikian aktivitas\nperusahaan\nakan selalu memperhatikan dan bahkan berpedoman kepada\npembangunan perekonomian tersebut.\nPasal 6.\nAyat (1) Cukup jelas.\nAyat (2).\nSebagaimana pelaksana pengusahaan minyak dan gas bumi yang bidang\nusahanya bersifat khusus, Perusahaan memerlukan ruang gerak yang\ncukup yang meliputi usaha-usaha lain yang bersangkutan dengan itu,\nsehingga usahanya dapat berjalan seeffiein mungkin dan dapat\nterjamin\nkelancaran masing-masing bidang usahanya.\nPerluasan usaha selalu harus didasarkan kepada perhitungan\nekonomis.\nWalaupun demikian tidak dapat dianggap wajar andaikata perusahaan\nmengadakan perluasan usaha dalam bidang yang tidak ada hubungan\nlangsung dengan usaha pokoknya. Semua daya dan dana seharusnya\npertama-tama dipergunakan untuk usaha pokok; setelah usaha pokok\nini\nterlaksana dan menurut perhitungan ekonomis memberikan atau\nmenyebabkan keuntungan yang lebih besar dalam usaha Perusahaan\nbarulah\nperluasan usaha dapat dilaksanakan dengan seijin Presiden.\nDengan sendirinya Presiden hanya akan menyetujuinya setelah Dewan\nKomisaris\nPemerintah mengijinkan Perusahaan untuk mengadakan usaha\nbaru tersebut.\nAyat (1).\nYang dimaksud dengan modal Perusahaan sebesar yang ditanam dalam\nP.N. PERTAMINA adalah modal yang terdiri dari seluruh kekayaan\nP.N.\nPERTAMINA yang ada semenjak didirikan hingga saat pembubarannya dan\nyang telah dinyatakan dalam Neraca Penutupan dan Neraca\nPembukaan.\nAyat (2) Cukup jelas.\nAyat (3).\nSebagai badan hukum berdasarkan Undang-undang ini, maka Perusahaan\nmempunyai modal yang merupakan kekayaan negara yang dipisahkan,\nsedangkan modal tersebut tidak terbagi atas saham-saham.\nKetentuan ini dimaksudkan untuk mempertegas kedudukan modal\nPerusahaan, sehingga tidak memungkinkan adanya Partisipasi modal\ndari\nluar dalam Perusahaan (partisipasi pasif). Penyertaan modal\ndari Perusahaan untuk perluasan usaha (partisipasi aktif)\ndilaksanakan\nsesuai dengan ketentuan dalam Pasal 6 ayat (2)\nUndang-undang ini.\nPasal 8.\nAyat (1). Cukup jelas.\nAyat (2). Cadangan tujuan dimaksudkan untuk digunakan sebagai\npembiayaan tujuan-tujuan tertentu, seperti pembaharuan, perluasan\ndan sebagainya.\nTiap-tiap cadangan tujuan tersebut harus dijelaskan dalam\npembukuan untuk tujuan-tujuan apa.\nAyat (3) Cukup jelas.\nAyat (4) Cukup jelas.\nPasal 9.\nPengurusan dan penggunaan dana-dana dari pada penyusutan dan\ncadangan-cadangan perlu diatur lebih lanjut, terutama untuk\nmencegah\npenggunaan dana-dana tersebut untuk: tujuan-tujuan yang\nmenyimpang dari pada semula. Demikian pula dapat diatur untuk\nmemanfaatkan\ndana-dana tersebut selama tidak dipakai.\nKarena cadangan umum dimaksudkan untuk melindungi modal\nPerusahaan, sedang modal Perusahaan adalah milik Negara, maka\nsewajarnyalah\nbahwa pengurusan dana termaksud diatur oleh Peraturan\nPemerintah. Lain halnya dengan pengurusan dana penyusutan dan\ncadangan tujuan\nyang dapat diatur oleh Dewan Komisaris\nPemerintah.\nPasal 10.\nPengeluaran obligasi oleh Perusahaan memerlukan pemikiran yang\nteliti apakah rentabilitas dari investasi yang dilakukan dengan\nhasil\npenjualan obligasi cukup tinggi sehingga dapat menutup bunga\nobligasi yang harus dibayar setiap tahunnya.\nDemikian juga apakah akan tersedia dana pada waktu dibutuhkan\nuntuk pelunasan.\nKarena itu keputusan untuk mengeluarkan obligasi harus dilakukan\ndengan Peraturan Pemerintah.\nPasal 11.\nDengan pasal ini tidak berarti bahwa semua wilayah hukum\npertambangan telah diberikan kepada perusahaan.\nPasal 12.\nDalam mengadakan kerja sama ini harus diusahakan syarat-syarat\nyang paling menguntungkan bagi Negara.\nDengan sendirinya Pemerintah hanya akan menyetujui kerjasama ini\nsetelah Dewan Komisaris Pemerintah mengijinkan Perusahaan\nmengadakan\nkerja sama.\nSetiap Kontrak Production Sharing yang telah disetujui oleh\nPresiden diberitahukan kepada Dewan Perwakilan Rakyat.\nPasal 13.\nDalam melaksanakan tugas untuk menyediakan dan melayani kebutuhan\nbahan bakar minyak dan gas bumi kebutuhan dalam negeri, terutama\nminyak tanah sebagai salah satu bahan pokok, Perusahaan mentaati\nketentuan-ketentuan dan petunjuk yang diberikan oleh\nPemerintah.\nPasal 14.\nAyat (1).\na. Yang dimaksud dengan net operating income di sini ialah hasil\n(revenue) dikurangi dengan biaya-biaya (general cost). Untuk ini\ndipergunakan cara-cara perhitungan seperti yang dimuat dalam\nUndang-undang No. 14 tahun 1963.\nb. Pembagian dari hasil Production Sharing adalah sebagai\nberikut:\nMisalkan suatu Production Sharing operation\nmenghasilkan : 100 X\nBiaya yang dikeluarkan oleh kontraktor : 40 X (masimum)\nNet operating income 60 X\nyang harus disetor ke Kas Negara : 60% dari 60 X = 36 X.\nJika biaya yang dikeluarkan kontraktor lebih kecil, maka\npembagiannya akan menjadi sebagai berikut :\nMisalkan suatu Production Sharing operation\nmenghasilkan : 100 X\nBiaya yang dikeluarkan kontraktor : 20 X\n80 X\nyang harus disetor ke Kas Negara :60% dari 80 X 48 X.\nDari pembagian ini terlihat bahwa makin baik syarat-syarat\nkontrak untuk fihak Indonesia makin besar bagian untuk\nPerusahaan.\nSewajarnyalah Perusahaan mendapatkan fee yang lebih besar dari\nusahanya yang lebih baik.\nDengan pembagian ini Perusahaan harus dapat menutup biaya-biaya\npelaksanaan Production Sharing yang dikeluarkan sendiri.\nc. Cukup jelas.\nd. Yang dimaksud bonus Perusahaan adalah bonus produksi yang\nharus dibayar oleh kontraktor kepada PERTAMINA dalam rangka\nkontrak-kontrak\nProduction Sharing dan mulai berlaku pada saat\nberlakunya Undang-undang ini.\nAyat (2) Cukup jelas.\nAyat (3) Cukup jelas.\nPasal 15.\nKhusus mengenai Iuran Pembangunan Daerah (IPEDA), oleh karena hal\nini menyangkut kepentingan Daerah, maka pelaksanaannya dibayar\noleh\nPemerintah Pusat kepada Pemerintah Daerah dari hasil yang harus\ndisetorkan Perusahaan kepada Kas Negara. Iuran Pembangunan Daerah\n(IPEDA) dengan demikian tetap ada dan tidak dihapuskan.\nPasal 16.\nAyat (1). Kebijaksanaan umum yang dimaksud dalam ayat ini adalah\ngaris-garis kebijaksanaan yang ditetapkan oleh Dewan Komisaris\nPemerintah sebagai pedoman pelaksanaan kerja dari Deireksi\nPerusahaan yakni antara lain seperti menetapkan Anggaran Belanja,\nrencana\nkerja, rencana investasi, pedoman dalam mengurus dan\nmemelihara kekayaan perusahaan dan lain sebagainya yang dipandang\nperlu oleh\nDewan tersebut.\nAdapun pengawasan yang dimaksud di sini dilaksanakan oleh Dewan\nantara lain dengan cara penetapan pedoman dan cara-cara tertentu di\ndalam melakukan pengelolaan atas kekayaan Perusahaan yang harus\ndiindahkan oleh Direksi, baik secara aktif Dewan tersebut melakukan\npemeriksaan maupun secara pasif dengan menerima laporan-laporan\nsecara berkala, dan lain sebagainya yang dipandang perlu oleh Dewan\ntersebut.\nAyat (2) Cukup jelas.\nAyat (3) Cukup jelas.\nAyat (4) Cukup jelas.\nAyat (5). Dengan sendirinya Dewan Komisaris Pemerintah berhak\nuntuk memeriksa segenap Buku, surat-surat dan bukti-bukti, serta\ndapat\npula meminta bantuan akhli untuk memeriksa Buku, surat-surat\ndan bukti-bukti tersebut.\nAyat (6) Cukup jelas.\nAyat (7). Di dalam peraturan tata-tertib dan cara menjalan tugas\nDewan dicantumkan segala hak-hak, kewajiban dan prosedure kerja\nyang dipandang perlu oleh Dewan agar ia dapat bekerja secara\neffisien dan effectif.\nPasal 17.\nCukup jelas.\nPasal 18.\nCukup jelas.\nPasal 19.\nAyat (1). \"Dipimpin dan diurus\" yang dimaksud dalam ayat ini ialah\nsemua fungsi management yang ada dalam suatu Perusahaan Modern.\nAyat (2). Cukup jelas.\nAyat (3). Cukup jelas.\nAyat (4). Di dalam peraturan tata-tertib dan cara menjalankan\npekerjaan Direksi dicantumkan tentang pembagian tugas antara\nDireksi,\nprosedure kerja dan lain sebagainya yang dipandang perlu\noleh Dewan Komisaris Pemerintah.\nAyat (5) Cukup jelas.\nAyat (6) Cukup jelas.\nAyat (7) Cukup jelas.\nAyat (8) Cukup jelas.\nPasal 20.\nCukup jelas.\nPasal 21.\nPada pasal 16 ayat (1) Undang-undang ini antara lain ditentukan\nbahwa dalam rangka penyempurnaan pengurusan Perusahaan Dewan\nKomisaris\nPemerintah mengusulkan susunan keanggotaan Direksi\nPerusahaan kepada Presiden.\nDengan tidak mengurangi ketentuan tersebut, maka sebelum Direksi\ntersebut diangkat dan diberhentikan, Presiden dapat mendengar\npertimbangan/pendapat\nMenteri Pertambangan sebagai pembantu\nPresiden yang disertai tanggung-jawab dalam pengusahaan minyak dan\ngas bumi.\nAyat (2). Syarat-syarat untuk pengangkatan anggota Direksi\nselain dari yang telah ditetapkan dalam Undang-undang ini (pasl 22)\nakan\nditambah dengan ketentuan-ketentuan/persyaratan lain yang umum\nberlaku seperti mempunyai kecakapan/keahlian yang dibutuhkan,\nbertaqwa\nkepada Tuhan Yang Maha Esa, setia kepada Panca Sila dan\nUndang-undang Dasar 1945, mempunyai moral yang baik, berwibawa,\njujur, adil\nserta tidak terlibat baik langsung maupun tidak\nlangsung dalam gerakan G.30.S./P.K.I. dan atau\norganisasi-organisasi terlarang lainnya.\nAyat (3) Cukup jelas.\nAyat (4) Cukup jelas.\nAyat (5) Cukup jelas.\nAyat (6) Cukup jelas.\nAyat (7) Cukup jelas.\nPasal 22.\nAyat (1). Cukup jelas.\nAyat (2). Kecuali ada ijin Presiden maka apabila antara\nanggota-anggota Direksi tersebut terjadi hubungan keluarga, maka\nsalah seorang\ndi antaranya tidak boleh melanjutkan jabatan\nlagi.\nUntuk pemilihannya didasarkan atas pertimbangan obyektif sesuai\ndengan kepentingan Perusahaan.\nAyat (3). Jabatan ini demikian pentingnya, sehingga haruslah\ndibatasi adanya jabatan rangkap.\nAyat (4). Larangan ini dimaksudkan untuk menghindarkan adanya\npertentangan kepentingan dan terjaminnya obyektivitas dari\nKeputusan\nDireksi.\nPasal 23.\nCukup jelas.\nPasal 24.\nCukup jelas.\nPasal 25.\nCukup jelas.\nPasal 26.\nAyat (1).\nUntuk menyelenggarakan pekerjaan Pengurusan Perusahaan dengan baik\ndiperlukan adanya anggaran Perusahaan.\nDari Anggaran Perusahaan tersebut harus jelas digambarkan kegiatan\nPerusahaan sendiri, hasil dari kegiatan anak-anak Perusahaan\ndan\npenyertaan-penyertaan lainnya, rencana investasi dan hal-hal lain\nyang berhubungan dengan itu.\nDi samping itu harus pula dijelaskan sumber-sumber yang diharapkan\nuntuk membiayai kegiatan-kegiatan tersebut di atas. Kegiatan\ndalam\nrangka Production Sharing diajukan dalam anggaran tersendiri.\nDalam pengolahan Anggaran Perusahaan oleh Dewan Komisaris\nPemerintah, semua aparatur Deprtemen Pertambangan harus\ndipergunakan seeffectif-effectifnya.\nAyat (2).\nPersetujuan Dewan Komisaris Pemerintah terhadap Anggaran tersebut\ndi atas tidak mengurangi kewajiban Direksi untuk memenuhi ketentuan\nPasal 27 Undang-undang ini.\nAyat (3) Cukup jelas.\nAyat (4) Cukup jelas.\nAyat (5) Cukup jelas.\nPasal 27.\nCukup jelas.\nPasal 28.\nSesuai dengan sifat-sifat khusus Peusahaan di mana antara lain\nkarena banyaknya transaksi yang harus dilakukan dengan fihak asing,\nmaka untuk kelancaran usahanya, Perusahaan menggunakan bank milik\nNegara dan apa bila diperlukan dapat juga menggunakan bank-bank\nlain dengan persetujuan Dewan Komisaris Pemerintah.\nPasal 29.\nAyat (1).\nPerhitungan tahunan digunakan sebagai dasar dari Dewan Komisaris\nPemerintah untuk memberikan pengesahannya terhadap tindakan\npengurusan\nPerusahaan oleh Direksi.\nAyat (2) Cukup jelas.\nAyat (3) Cukup jelas.\nAyat (4) Cukup jelas.\nAyat (5) Cukup jelas.\nAyat (6).\nDalam menetapkan penggunaan laba Perusahaan, harus diperhatikan\npula pembentukan cadangan umum dan cadangan tujuan.\nPasal 30.\nAyat (1) Cukup jelas.\nAyat (2) Cukup jelas.\nAyat (3).\nDengan pengesahanpertanggungan-jawab likwidasi yang dilakukan oleh\nlikwidatur kepada Pemerintah sekaligus memberikan pembebasan\ntanggung jawab mengenai pekerjaan yang telah dilakukan oleh\nlikwidatur.\nPasal 31.\nCukup jelas.\nPasal 32.\nCukup jelas.\nPasal 33.\nCukup jelas.\nPasal 34.\nAyat (1). Cukup jelas.\nAyat (2).\nPelaksanaan dari Undang-undang ini secara effectif diatur dengan\nPeraturan Pemerintah.\n(Termasuk Lembaran-Negara Republik Indonesia\ntahun 1971 No. 76).\n--------------------------------\nCATATAN\nKutipan : LEMBARAN NEGARA DAN TAMBAHAN LEMBARAN NEGARA TAHUN\n1971 YANG TELAH DICETAK ULANG"
+   }
+  }
+ ]
+}

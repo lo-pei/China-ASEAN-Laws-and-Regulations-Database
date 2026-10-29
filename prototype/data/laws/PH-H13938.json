@@ -1,0 +1,72 @@
+{
+ "id": "PH-H13938",
+ "title": {
+  "zh": null,
+  "en": "An Act Appropriating One Hundred thousand Pesos for the Construction of Building and Other Permanent Improvements in the College of Agriculture of the University of the Philippines",
+  "orig": "An Act Appropriating One Hundred thousand Pesos for the Construction of Building and Other Permanent Improvements in the College of Agriculture of the University of the Philippines"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1926-12-02",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3303",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 545,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1926/act_3303_1926.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03303_1926_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03303_1926_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13938-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The sum of one hundred thousand pesos is hereby appropriated, out of any funds in the Insular\nTreasury not appropriated for other purposes, for the construction of buildings and other permanent\nimprovements in the College of Agriculture of the University of the Philippines."
+   }
+  },
+  {
+   "id": "PH-H13938-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The sum herein appropriated shall be at the disposal of the Board of Regents of the University of\nthe Philippines and shall be expended by resolution of the same for the purpose indicated in this Act."
+   }
+  },
+  {
+   "id": "PH-H13938-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, December 2, 1926."
+   }
+  }
+ ]
+}

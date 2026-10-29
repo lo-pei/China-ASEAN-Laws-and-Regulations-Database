@@ -1,0 +1,154 @@
+{
+ "id": "ID-H273",
+ "title": {
+  "zh": "卫生法",
+  "en": "Law on Hygiene",
+  "id": "HYGIENE.",
+  "orig": "HYGIENE.",
+  "vi": "Luật về Vệ sinh",
+  "th": "พระราชบัญญัติว่าด้วยสุขลักษณะ",
+  "ms": "Akta tentang Kebersihan"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02b",
+ "language": "id",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "1966",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "-",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 7,
+ "chars": 6669,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": null
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\01_宪法与基础法\\印尼_WLD_1966_HYGIENE..txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 8 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H273-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 1.\nMaksud dan tujuan Undang-undang ini ialah untuk menetapkan\nketentuan-ketentuan dasar di bidang hygiene dalam rangka\nPelaksanaan Undang-undang\ntentang Pokok-pokok Kesehatan\n(Undang-undang Tahun 1960 No. 9; Lembaran Negara Tahun 1960 No.\n131).\nBAB II.\nKETENTUAN UMUM.\nPASAL 2.\nYang dimaksud dalam Undang-undang ini dengan hygiene ialah\nkesehatan masyarakat yang khusus meliputi segala usaha untuk\nmelindungi,\nmemelihara dan mempertinggi derajat kesehatan badan dan\njiwa, baik untuk umum, maupun untuk perseorangan, dengan tujuan\nmemberi dasar-dasar\nkelanjutan hidup yang sehat serta mempertinggi\nkesejahteraan dan dayaguna peri kehidupan manusia.\nBAB III.\nUSAHA-USAHA."
+   }
+  },
+  {
+   "id": "ID-H273-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB III."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 3.\nUntuk mencapai keadaan kesehatan masyarakat yang dimaksud dalam\npasal 2, Pemerintah melakukan usaha-usaha sebagai berikut:\na. Pendidikan dan penerangan mengenai hygiene kepada rakyat.\nb. Menyelenggarakan tindakan-tindakan demi kepentingan hygiene\nbagi umum maupun bagi perseorangan.\nc. Menyelenggarakan bimbingan, tindakan, di bidang kesehatan jiwa\ndan pencegahan gangguan-gangguan yang merugikan kesejahteraan\njiwa\nmasyarakat.\nd. Memperkembangkan perlengkapan masyarakat, agar dapat terjamin\ntingkat hidup yang sebaik-baiknya bagi setiap anggota masyarakat\ndalam keadaan yang sehat, sejahtera, adil dan makmur."
+   }
+  },
+  {
+   "id": "ID-H273-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB III."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 4.\nPelaksanaan usaha-usaha yang disebut dalam pasal 3 meliputi:\n1. Memberikan bimbingan bagi pemeliharaan dan perbaikan kesehatan\nbadan dan jiwa.\n2. Menyelenggarakan kesehatan lingkungan.\n3. Menyelenggarakan tindakan-tindakan untuk mencegah\nberjangkitnya, menularnya dan menyebarnya penyakit.\n4. Menyelenggarakan pemeriksaan dan pengobatan demi pencegahan\npenularan dan penyebaran penyakit.\n5. Dan lain-lain usaha yang dipandang perlu."
+   }
+  },
+  {
+   "id": "ID-H273-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB III."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 5.\n(1) Kegotong-royongan masyarakat merupakan suatu unsur yang\nsangat penting dalam usaha di bidang kesehatan masyarakat yang\ndimaksud\ndalam pasal 3 dan 4.\n(2) Untuk melaksanakan ketentuan dalam ayat (1) Pemerintah perlu\nmengikutsertakan masyarakat."
+   }
+  },
+  {
+   "id": "ID-H273-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB III."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 6.\nPelaksanaan ketentuan-ketentuan dalam pasal 3 dan 4 diatur lebih\nlanjut dengan atau berdasarkan peraturan perundangan.\nBAB IV."
+   }
+  },
+  {
+   "id": "ID-H273-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB IV."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 7.\nUndang-undang ini dapat disebut \"Undang-undang Hygiene tahun\n1966\"."
+   }
+  },
+  {
+   "id": "ID-H273-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB IV."
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 8.\nUndang-undang ini mulai berlaku pada hari diundangkannya.\nAgar supaya setiap orang dapat mengetahuinya, memerintahkan\npengundangan Undang-undang ini dengan menempatkannya dalam Lembaran\nNegara\nRepublik Indonesia.\nDisahkan di Jakarta\npada tanggal 11 Juni 1966.\nPRESIDEN REPUBLIK INDONESIA,\nSUKARNO.\nDiundangkan di Jakarta\npada tanggal 11 Juni 1966.\nSEKRETARIS NEGARA,\nMOHD. ICHSAN.\nPENJELASAN\nATAS\nUNDANG-UNDANG No. 2 TAHUN 1966.\nTENTANG\nHYGIENE.\nDengan Undang-undang Tahun 1962 No. 11 Lembaran Negara No. 48\ntelah ditetapkan Undang-undang tentang Hygiene untuk usaha-usaha\nbagi\numum\nIstilah Hygiene dipergunakan untuk mencakup seluruh usaha\nmanusia maupun masyarakat yang perlu dijalankan guna mempertahankan\ndan\nmemperkembangkan kesejahteraannya di dalam lingkungannya yang\nbersifat badan dan jiwa, maupun sosial.\nAgar Pemerintah dapat melakukan usaha-usaha dalam lapangan\nhygiene yang lebih luas, maka Undang-undang ini, yang menetapkan\nhal-hal\nyang pokok mengenai hygiene, dapat dipergunakan sebagai\ndasar hukum untuk mengadakan usaha-usaha lebih lanjut. Untuk\nmemberi tanda\npengenal pada semua peraturan-peraturan perundangan\nyang mengatur usaha-usaha itu dikemudian hari, maka nama peraturan\ntersebut akan\nmenggunakan kata \"Hygiene\". Umpamanya: \"Undang-undang\ntentang Hygiene Perusahaan\", Peraturan Pemerintah tentang Hygiene\nBangunan-bangunan\nUmum\", \"Peraturan Menteri Kesehatan tentang\nHygiene Air\" dan lain sebagainya.\nUndang-undang ini tidak mengurangi beraneka faham tentang isi\ndan makna daripada apa yang dimaksud dengan hygiene dalam ilmu\nkedokteran.\nKesehatan masyarakat adalah syarat mutlak untuk melaksanakan\nkeadaan kesehatan disuatu negara dimana tiap warganegara berhak\nakan\nkesehatan badan, jiwa dan sosial yang setinggi-tingginya\nsebagai dimaksud dalam pasal 1 Undang-undang tentang Pokok-pokok\nKesehatan.\nPASAL DEMI PASAL.\nPasal 1.\nCukup jelas.\nPasal 2.\nPerumusan pasal 2 ini membayangkan, bahwa pada hakekatnya yang\ndikehendaki oleh Undang-undang ini yalah: Perwujudan suatu\nmasyarakat\nyang adil, makmur dan sehat. Kecuali daripada itu\nkiranya perumusan kesehatan masyarakat dalam pasal ini cukup\nmemberi gambaran luasnya\nbidang kesehatan masyarakat.\nPasal 3 dan 4.\nDalam pasal 3 dan 4 ini dinyatakan secara konkrit usaha-usaha\nuntuk mencapai tujuan yang dimaksud dalam pasal 2.\nPenelitian setiap usaha menunjukkan, bahwa pelaksanaannya\nmemerlukan ikut-sertanya seluruh masyarakat dengan bimbingan dan\npimpinan\nyang tertentu. Pendidikan dan penerangan mengenai hygiene\nkepada rakyat ditujukan agar rakyat memiliki adat kebiasaan yang\nmenguntungkan\nderajat kesehatannya.\nSalah satu contoh daripada pasal 3 huruf b, yalah:\nPengawasan Air-Minum.\nDalam kata-kata \"Perlengkapan Masyarakat\" tersebut dalam pasal 3\nhuruf d, termasuk fasilitas-fasilitas bagi masyarakat.\nPenjelasan pasal 3 dan 4 dipadukan karena ketentuan- ketentuan\nperincian daripada usaha-usaha dibidang hygiene di dalam\nUndang-undang\nini mempunyai hubungan satu sama lain.\nAdapun inti-sari daripada ketentuan-ketentuan di dalam kedua\npasal itu dapat didasarkan atas 3 syarat asasi, ialah\n1. Rakyat harus mengerti dan sadar akan pentingnya keadaan yang\nsehat, baik kesehatan pribadi, maupun kesehatan masyarakat.\n2. Pemerintah harus memberikan service dibidang kesehatan bagi\nRakyat.\n3. Perihal syarat 1 dan 2 Pemerintah menetapkan peraturan-\nperaturan tertentu.\nDalam memperkembangkan perlengkapan masyarakat diatur keperluan\nperlengkapan yang perlu diadakan untuk melindungi, memelihara dan\nmempertinggi derajat kesehatan masyarakat yang menghadapi suatu\nancaman gangguan kesehatan, umpamanya pembuatan sistem-sistem air\nminum dan pembuangan kotoran industri dan laboratorium zat-zat\nradio aktif.\nPasal 5.\nSesuai dengan ketentuan dalam pasal 1 Undang-undang tentang\nPokok-pokok Kesehatan justru dalam soal-soal hygiene ini perlu\nmasyarakat\ndiikut-sertakan sebaik-baiknya. Dalam pelaksanaannya\ndibentuk Panitia-panitia (umpamanya : \"Panitia Kesehatan\"), yang\nterdiri dari\nPejabat-pejabat Pemerintah, ahli-ahli, wakil-wakil\ndari organisasi Rakyat D.P.R.-G.R., D.P.R.D.-G.R. dan\nlain-lain.\nLembaga-lembaga seperti Lembaga Hygiene, Lembaga-Sosial Desa dan\nsebagainya, dapat juga diikut-sertakan.\nPasal 6 s/d 8.\nSoal-soal mengenai urusan kesehatan jiwa akan ditetapkan dengan\nUndang-undang tersendiri, yaitu Undang-undang tentang Kesehatan\nJiwa.\n--------------------------------\nCATATAN\nKutipan: LEMBARAN NEGARA DAN TAMBAHAN LEMBARAN NEGARA TAHUN 1966\nYANG TELAH DICETAK ULANG"
+   }
+  }
+ ]
+}

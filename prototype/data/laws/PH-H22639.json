@@ -1,0 +1,50 @@
+{
+ "id": "PH-H22639",
+ "title": {
+  "zh": null,
+  "en": "Repealing Presidential Decree No. 1052",
+  "orig": "Repealing Presidential Decree No. 1052"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1978-01-25",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 1290",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 1,
+ "chars": 899,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_01290_1978_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 1 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_01290_1978_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22639-A1",
+   "no": 1,
+   "noLabel": {},
+   "text": {
+    "en": "MALACAÑANG\nPRESIDENTIAL DECREE No. 1290 January 25, 1978\nREPEALING PRESIDENTIAL DECREE NO. 1052\nWHEREAS, Presidential Decree No. 1052 disqualifies persons who have been detained upon a finding of\nprobable cause for subversion and other crimes against national security and public order from exercising their\nright of suffrage;\nWHEREAS, the move to return to normalcy requires that political rights, including the right of suffrage, be\nenjoined by every citizen who has not been found guilty by final judgment of any of the crimes mentioned in\nNOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers\nvested in me by the Constitution, do hereby order and decree the repeal of Presidential Decree No. 1052.\nThis Decree shall take effect immediately.\nDone in the City of Manila, this 25th day of January, in the year of Our Lord, nineteen hundred and\nseventy-eight."
+   }
+  }
+ ]
+}

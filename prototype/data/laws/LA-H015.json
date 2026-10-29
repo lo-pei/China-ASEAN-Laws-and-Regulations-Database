@@ -3,13 +3,17 @@
  "title": {
   "zh": "外汇管理法",
   "en": "Law on Foreign Exchange Management",
-  "orig": null
+  "orig": "Law on Foreign Exchange Management",
+  "vi": "Luật Quản lý ngoại hối",
+  "th": "พระราชบัญญัติการบริหารเงินตราต่างประเทศ",
+  "id": "Undang-Undang Pengelolaan Valuta Asing",
+  "ms": "Akta Pengurusan Pertukaran Asing"
  },
  "country": "LA",
  "countryName": "老挝",
  "layer": "intl",
  "pack": "la-p01",
- "language": "lo",
+ "language": "en",
  "level": "law",
  "category": null,
  "status": "amended",
@@ -50,7 +54,7 @@
     "lo": "Purposes"
    },
    "text": {
-    "lo": "This law defines the principles, regulations and measures regarding to the effectiveness and accuracy of  activities, management, and monitoring of foreign exchange businesses and transactions to ensure the stability of the Lao Kip, to promote the circulation of domestic goods and currency, and to expand economic cooperation with foreign nations, as well as to contribute to the national socio-economic development of the Lao PDR."
+    "en": "This law defines the principles, regulations and measures regarding to the effectiveness and accuracy of  activities, management, and monitoring of foreign exchange businesses and transactions to ensure the stability of the Lao Kip, to promote the circulation of domestic goods and currency, and to expand economic cooperation with foreign nations, as well as to contribute to the national socio-economic development of the Lao PDR."
    },
    "chapter": {
     "zh": "Chapter 1 Possession, Payment and Currencies Exchange in the Lao PDR"
@@ -66,7 +70,7 @@
     "lo": "Foreign Exchange Management"
    },
    "text": {
-    "lo": "Foreign exchange is a foreign country’s currency in which comprise of  banknotes, coins, check, credit/debit cards, bills of exchange, government bonds, corporate bonds, share s, other payment instruments and gold bars that are used internationally for payment between countries.\nForeign exchange management is the management of foreign exchange  businesses and transactions of resident s and non -residents of the Lao PDR in acc ordance with the laws and regulations relating to foreign exchange."
+    "en": "Foreign exchange is a foreign country’s currency in which comprise of  banknotes, coins, check, credit/debit cards, bills of exchange, government bonds, corporate bonds, share s, other payment instruments and gold bars that are used internationally for payment between countries.\nForeign exchange management is the management of foreign exchange  businesses and transactions of resident s and non -residents of the Lao PDR in acc ordance with the laws and regulations relating to foreign exchange."
    },
    "chapter": {
     "zh": "Chapter 1 Possession, Payment and Currencies Exchange in the Lao PDR"
@@ -82,7 +86,7 @@
     "lo": "Definitions"
    },
    "text": {
-    "lo": "Terms used in this law are defined as follows:\n1. Currency consists of the Lao Kip and foreign exchange;\n2. Exchange rate means price of one currency in compare with another currency;\n3. Reference rate means the exchange rate, defined by the Bank of the Lao PDR, to form the basis for  the exchange rate used by  commercial ba nks and currency exchange bureaus;\n4. Trade credit means an agreement where a customer purchase s goods or services from a supplier/service provider on credit;\n5. Currency ex change bureau means a business unit  that provide currency exchange services to a customer;\n6. Possession means currency held by any entity;\n7. Resident of the Lao PDR means:\n− Lao citizen residing in the Lao PDR;\n− Lao citizen studying, traveling, visiting or receiving a medical treatment abroad;\n− Government entit y or government official  working at the Lao emba ssy, Lao consulate  and international organization in abroad;\n− Lao citizen residing abroad for less than one year;\n− Government organization and association of the Lao PDR operating inside and outside the Lao PDR;\n− Lao and foreign individual  and legal entit y, residing in the Lao PDR , who has operated and registered business  in compliance with the law of the Lao PDR , and also including the Lao representative office located oversea for less than one year;\n− Foreigner; who are not embassy official or staff, foreign consular official, or member of the staff of international organization; working in the Lao PDR for more than one year;\n− Alien  or non-nationality individual residing and working permanently in the Lao PDR.\n8. Non-resident of the Lao PDR means:\n− Foreign individual and entity residing abroad;\n− Foreigner studying, traveling, visiting or receiving medical treatment in the Lao PDR;\n− Staff or official  of foreign embassy, consulate, or international organization, and consultant or expert working in the Lao PDR, including their family member;\n− Foreigner living in the Lao PDR for less than one year;\n− Representative office of foreign legal entity in the Lao PDR for less than one year;\n− Lao citizen living abroad for more than one year not for studying or medical treatment.\n9. Transaction means activities related to selling-buying, exchange, loan , transfer, deposit, withdrawal, payment, import-export and other activities."
+    "en": "Terms used in this law are defined as follows:\n1. Currency consists of the Lao Kip and foreign exchange;\n2. Exchange rate means price of one currency in compare with another currency;\n3. Reference rate means the exchange rate, defined by the Bank of the Lao PDR, to form the basis for  the exchange rate used by  commercial ba nks and currency exchange bureaus;\n4. Trade credit means an agreement where a customer purchase s goods or services from a supplier/service provider on credit;\n5. Currency ex change bureau means a business unit  that provide currency exchange services to a customer;\n6. Possession means currency held by any entity;\n7. Resident of the Lao PDR means:\n− Lao citizen residing in the Lao PDR;\n− Lao citizen studying, traveling, visiting or receiving a medical treatment abroad;\n− Government entit y or government official  working at the Lao emba ssy, Lao consulate  and international organization in abroad;\n− Lao citizen residing abroad for less than one year;\n− Government organization and association of the Lao PDR operating inside and outside the Lao PDR;\n− Lao and foreign individual  and legal entit y, residing in the Lao PDR , who has operated and registered business  in compliance with the law of the Lao PDR , and also including the Lao representative office located oversea for less than one year;\n− Foreigner; who are not embassy official or staff, foreign consular official, or member of the staff of international organization; working in the Lao PDR for more than one year;\n− Alien  or non-nationality individual residing and working permanently in the Lao PDR.\n8. Non-resident of the Lao PDR means:\n− Foreign individual and entity residing abroad;\n− Foreigner studying, traveling, visiting or receiving medical treatment in the Lao PDR;\n− Staff or official  of foreign embassy, consulate, or international organization, and consultant or expert working in the Lao PDR, including their family member;\n− Foreigner living in the Lao PDR for less than one year;\n− Representative office of foreign legal entity in the Lao PDR for less than one year;\n− Lao citizen living abroad for more than one year not for studying or medical treatment.\n9. Transaction means activities related to selling-buying, exchange, loan , transfer, deposit, withdrawal, payment, import-export and other activities."
    },
    "chapter": {
     "zh": "Chapter 1 Possession, Payment and Currencies Exchange in the Lao PDR"
@@ -98,7 +102,7 @@
     "lo": "State Policy on Foreign Exchange Management"
    },
    "text": {
-    "lo": "State manages the foreign exchange centrally and unanimously over the country to ensure the stability of the National Currency by determining monetary policy, facilitating staff’s capacity building, and providing financial and material support to concerned authority as appropriate.\nThe State encourages individual, legal entity and all sector to participate and govern the foreign exchange activity.\nThe State promotes, disseminates and provides information to the public in many forms to raise awareness regarding to use the Lao Kip and foreign exchange in accordance with the relevant law and regulation."
+    "en": "State manages the foreign exchange centrally and unanimously over the country to ensure the stability of the National Currency by determining monetary policy, facilitating staff’s capacity building, and providing financial and material support to concerned authority as appropriate.\nThe State encourages individual, legal entity and all sector to participate and govern the foreign exchange activity.\nThe State promotes, disseminates and provides information to the public in many forms to raise awareness regarding to use the Lao Kip and foreign exchange in accordance with the relevant law and regulation."
    },
    "chapter": {
     "zh": "Chapter 1 Possession, Payment and Currencies Exchange in the Lao PDR"
@@ -114,7 +118,7 @@
     "lo": "Principles of Foreign Exchange Management"
    },
    "text": {
-    "lo": "The foreign exchange management shall follow these main principles:\n1. Ensure foreign currency management centrally and uniformly through nationwide;\n2. Ensure the stability of National currency;\n3. Ensure the independence of National currency;\n4. Ensure the mobility of domestic and international settlement."
+    "en": "The foreign exchange management shall follow these main principles:\n1. Ensure foreign currency management centrally and uniformly through nationwide;\n2. Ensure the stability of National currency;\n3. Ensure the independence of National currency;\n4. Ensure the mobility of domestic and international settlement."
    },
    "chapter": {
     "zh": "Chapter 1 Possession, Payment and Currencies Exchange in the Lao PDR"
@@ -130,7 +134,7 @@
     "lo": "Obligation of Foreign Exchange Management"
    },
    "text": {
-    "lo": "Individual, legal entity, national and international organization operating business and/or conducting transaction in the Lao PDR are  obligated to comply with, cooperate with, and contribute to the implementation of foreign exchange management."
+    "en": "Individual, legal entity, national and international organization operating business and/or conducting transaction in the Lao PDR are  obligated to comply with, cooperate with, and contribute to the implementation of foreign exchange management."
    },
    "chapter": {
     "zh": "Chapter 1 Possession, Payment and Currencies Exchange in the Lao PDR"
@@ -146,7 +150,7 @@
     "lo": "Scope of the Law"
    },
    "text": {
-    "lo": "This law enforces against individual, legal entity, and national and international organization operating foreign exchange business and/or conducting transaction in the Lao PDR."
+    "en": "This law enforces against individual, legal entity, and national and international organization operating foreign exchange business and/or conducting transaction in the Lao PDR."
    },
    "chapter": {
     "zh": "Chapter 1 Possession, Payment and Currencies Exchange in the Lao PDR"
@@ -162,7 +166,7 @@
     "lo": "International Cooperation"
    },
    "text": {
-    "lo": "The State supports regional and international cooperation on foreign exchange management activities through sharing information, experience, technology, and human resource development and by complying with treaty and international agreement  to which the Lao PDR is bound.\nPart II\nForeign Exchange Activities\nChapter 1 Possession, Payment and Currencies Exchange in the Lao PDR"
+    "en": "The State supports regional and international cooperation on foreign exchange management activities through sharing information, experience, technology, and human resource development and by complying with treaty and international agreement  to which the Lao PDR is bound.\nPart II\nForeign Exchange Activities\nChapter 1 Possession, Payment and Currencies Exchange in the Lao PDR"
    },
    "chapter": {
     "zh": "Chapter 1 Possession, Payment and Currencies Exchange in the Lao PDR"
@@ -178,7 +182,7 @@
     "lo": "Foreign Exchange Possession"
    },
    "text": {
-    "lo": "Resident and non-resident of the Lao PDR are able to possess foreign exchange fr om their legal earning by holding and/or opening bank account at commercial bank within the Lao PDR.\nArticle10 Payment\nNational and foreign individual, legal entity, and organization operating business and/or conducting transaction in the Lao PDR are able to make payment in foreign exchange for the following purposes:\n1. to pay for imported good;\n2. to pay for international tr ade in s ervice such as transportation, insurance, transi t warehousing charge and other service;\n3. to pay for external debt service;\n4. to assist foreign country as approved by the Government;\n5. to transfer financial profit, dividend, capital, interest and other service charge of foreign investor, and wage of foreigner, back to his/her country or to a third country;\n6. to transfer money to invest abroad;\n7. to finance the study, travel, visit or medical treatment abroad; and\n8. other purposes in accordance with the Bank of the Lao PDR regulation.\nIndividual, legal entity and organization shall receive and make payment in Lao Kip for good and service, debt, salary, tax, fee and other transaction. All price tag, media advertisement, and other good and service published shall be stated in Lao Kip unless an exemption has been obtained from the relevant authority."
+    "en": "Resident and non-resident of the Lao PDR are able to possess foreign exchange fr om their legal earning by holding and/or opening bank account at commercial bank within the Lao PDR.\nArticle10 Payment\nNational and foreign individual, legal entity, and organization operating business and/or conducting transaction in the Lao PDR are able to make payment in foreign exchange for the following purposes:\n1. to pay for imported good;\n2. to pay for international tr ade in s ervice such as transportation, insurance, transi t warehousing charge and other service;\n3. to pay for external debt service;\n4. to assist foreign country as approved by the Government;\n5. to transfer financial profit, dividend, capital, interest and other service charge of foreign investor, and wage of foreigner, back to his/her country or to a third country;\n6. to transfer money to invest abroad;\n7. to finance the study, travel, visit or medical treatment abroad; and\n8. other purposes in accordance with the Bank of the Lao PDR regulation.\nIndividual, legal entity and organization shall receive and make payment in Lao Kip for good and service, debt, salary, tax, fee and other transaction. All price tag, media advertisement, and other good and service published shall be stated in Lao Kip unless an exemption has been obtained from the relevant authority."
    },
    "chapter": {
     "zh": "Chapter 1 Possession, Payment and Currencies Exchange in the Lao PDR"
@@ -194,7 +198,7 @@
     "lo": "Currency Exchange"
    },
    "text": {
-    "lo": "Individual, legal entity, and national and international organization operating business and/or conducting transaction in the Lao PDR shall make currency exchange at commercial bank or licensed currency exchange bureau.\nThe Ministry of Finance can make currency exchange  through the banking system for international settlement purpose.\nArticle12 Exchange Rate\nThe Bank of the Lao PDR applies the market-based foreign exchange system managed by the Government by setting the daily reference rate for commercial banks and licensed currency exchange bureau to define their exchange rates.\nChapter2\nForeign Exchange Transfer and Carrying Cash In and Out of the Lao PDR"
+    "en": "Individual, legal entity, and national and international organization operating business and/or conducting transaction in the Lao PDR shall make currency exchange at commercial bank or licensed currency exchange bureau.\nThe Ministry of Finance can make currency exchange  through the banking system for international settlement purpose.\nArticle12 Exchange Rate\nThe Bank of the Lao PDR applies the market-based foreign exchange system managed by the Government by setting the daily reference rate for commercial banks and licensed currency exchange bureau to define their exchange rates.\nChapter2\nForeign Exchange Transfer and Carrying Cash In and Out of the Lao PDR"
    },
    "chapter": {
     "zh": "Chapter 1 Possession, Payment and Currencies Exchange in the Lao PDR"
@@ -210,7 +214,7 @@
     "lo": "Foreign Exchange Transfer"
    },
    "text": {
-    "lo": "Residents and non-residents of the Lao PDR are able to  transfer an unlimited amount of foreign exchange to the Lao PDR. Transferring foreign exchange out of Laos shall comply with regulations mentioned in first paragraph of Article 10 of this law.\nArticle14 Carrying Cash In and Out of the Lao PDR\nResidents and non -residents of the Lao PDR are able to  carry cash to the Lao PDR in accordance with the amount determined by The Bank of the  Lao PDR, and shall declare at a customs check point if the carrying amounts is exceeded the limit in order  to get clearance documents.\nResidents and non-residents of the Lao PDR are able to carry cash out of the Lao PDR in accordance with the amount determined by  The Bank of the Lao PDR . If the amount exceeded the limit, it shall be approved by the Bank of the Lao PDR. In case the exporter obtained a Cash In clearance document authoriz ed, he/she is able to declare the document  in order to carry the cash out.\nChapter 3 Bank Account Opening and Currencies Account operation"
+    "en": "Residents and non-residents of the Lao PDR are able to  transfer an unlimited amount of foreign exchange to the Lao PDR. Transferring foreign exchange out of Laos shall comply with regulations mentioned in first paragraph of Article 10 of this law.\nArticle14 Carrying Cash In and Out of the Lao PDR\nResidents and non -residents of the Lao PDR are able to  carry cash to the Lao PDR in accordance with the amount determined by The Bank of the  Lao PDR, and shall declare at a customs check point if the carrying amounts is exceeded the limit in order  to get clearance documents.\nResidents and non-residents of the Lao PDR are able to carry cash out of the Lao PDR in accordance with the amount determined by  The Bank of the Lao PDR . If the amount exceeded the limit, it shall be approved by the Bank of the Lao PDR. In case the exporter obtained a Cash In clearance document authoriz ed, he/she is able to declare the document  in order to carry the cash out.\nChapter 3 Bank Account Opening and Currencies Account operation"
    },
    "chapter": {
     "zh": "Chapter 3 Bank Account Opening and Currencies Account operation"
@@ -223,7 +227,7 @@
     "lo": "第 15 条"
    },
    "text": {
-    "lo": "Bank Account Opening and Currencies Account Operation in the Lao PDR Residents and non -resident of the Lao PDR are able  to open bank accounts, deposit, withdraw and gain interest on their deposits in foreign currency from commercial bank in the Lao PDR.\nNon-resident of the Lao PDR who has foreign currency is able to open a bank account in Lao Kip through the foreign exchange at commercial bank , and withdraw and gain interest on his/her deposit in Lao Kip, and exchange that money into foreign currency."
+    "en": "Bank Account Opening and Currencies Account Operation in the Lao PDR Residents and non -resident of the Lao PDR are able  to open bank accounts, deposit, withdraw and gain interest on their deposits in foreign currency from commercial bank in the Lao PDR.\nNon-resident of the Lao PDR who has foreign currency is able to open a bank account in Lao Kip through the foreign exchange at commercial bank , and withdraw and gain interest on his/her deposit in Lao Kip, and exchange that money into foreign currency."
    },
    "chapter": {
     "zh": "Chapter 3 Bank Account Opening and Currencies Account operation"
@@ -236,7 +240,7 @@
     "lo": "第 16 条"
    },
    "text": {
-    "lo": "Opening Bank Accounts Abroad.\nResident of the Lao PDR is able to open bank accounts abroad under approval of the Bank of the Lao PDR for the following purposes of:\n1. Cross border business on: land, air and water transportations, postal service, insurance, tourism, labor emigration and project procession;\n2. Secure and repay external debt, as well as trade credit;\n3. Establishment of branch or representative office abroad as approved by the authority concerned;\n4. External Investment;\n5. Other purpose in accordance with the Bank of the Lao PDR regulation.\nStudent, diplomat, and official assigned to work oversea are exempted from the requirement to obtain permission from the Bank of the Lao PDR, and can open up bank account freely."
+    "en": "Opening Bank Accounts Abroad.\nResident of the Lao PDR is able to open bank accounts abroad under approval of the Bank of the Lao PDR for the following purposes of:\n1. Cross border business on: land, air and water transportations, postal service, insurance, tourism, labor emigration and project procession;\n2. Secure and repay external debt, as well as trade credit;\n3. Establishment of branch or representative office abroad as approved by the authority concerned;\n4. External Investment;\n5. Other purpose in accordance with the Bank of the Lao PDR regulation.\nStudent, diplomat, and official assigned to work oversea are exempted from the requirement to obtain permission from the Bank of the Lao PDR, and can open up bank account freely."
    },
    "chapter": {
     "zh": "Chapter 3 Bank Account Opening and Currencies Account operation"
@@ -252,7 +256,7 @@
     "lo": "Foreign Currency Income"
    },
    "text": {
-    "lo": "Resident of the Lao PDR  who operate business with foreigner and earn income in foreign currency must transfer the income to their accounts at commercial bank in the Lao PDR.\nAll State revenue collected in foreign currency must be deposited at the Bank of the Lao PDR. When it needs to be made payment  in domestic, the foreign currency must be s old to the Bank of the Lao PDR in daily exchange rate set by the bank.\nChapter 4 Operation of Foreign Exchange Business"
+    "en": "Resident of the Lao PDR  who operate business with foreigner and earn income in foreign currency must transfer the income to their accounts at commercial bank in the Lao PDR.\nAll State revenue collected in foreign currency must be deposited at the Bank of the Lao PDR. When it needs to be made payment  in domestic, the foreign currency must be s old to the Bank of the Lao PDR in daily exchange rate set by the bank.\nChapter 4 Operation of Foreign Exchange Business"
    },
    "chapter": {
     "zh": "Chapter 4 Operation of Foreign Exchange Business"
@@ -268,7 +272,7 @@
     "lo": "Foreign Exchange Business"
    },
    "text": {
-    "lo": "Foreign exchange business  consists of currency exchange business and businesses of importing-exporting gold which is international payment instrument."
+    "en": "Foreign exchange business  consists of currency exchange business and businesses of importing-exporting gold which is international payment instrument."
    },
    "chapter": {
     "zh": "Chapter 4 Operation of Foreign Exchange Business"
@@ -284,7 +288,7 @@
     "lo": "Application for a Foreign Exchange Business License"
    },
    "text": {
-    "lo": "Individual or legal entity who intends to operate a foreign exchange business shall submit an application form to the Ministry of Industry and Commerce  for registration and must be licensed for foreign exchange business by the Bank of the Lao PDR.\nRequirement for establishing a foreign exchange business are  determined in another regulation."
+    "en": "Individual or legal entity who intends to operate a foreign exchange business shall submit an application form to the Ministry of Industry and Commerce  for registration and must be licensed for foreign exchange business by the Bank of the Lao PDR.\nRequirement for establishing a foreign exchange business are  determined in another regulation."
    },
    "chapter": {
     "zh": "Chapter 4 Operation of Foreign Exchange Business"
@@ -300,7 +304,7 @@
     "lo": "Consideration of Foreign Exchange Business Application"
    },
    "text": {
-    "lo": "Upon receipt of an application with its attachment  from the Ministry of Industry and Commerce, the Bank of the Lao PDR shall consider and respond to the applicant  within fifteen working days for a currency exchange business and th irty working days for a gold bar import-export business from the date of the application and all necessary document have been submitted and comply with regulation.\nPart III\nLoan, Grant and Taking Capital In and Out the Lao PDR chapter 1 Loans and Grants"
+    "en": "Upon receipt of an application with its attachment  from the Ministry of Industry and Commerce, the Bank of the Lao PDR shall consider and respond to the applicant  within fifteen working days for a currency exchange business and th irty working days for a gold bar import-export business from the date of the application and all necessary document have been submitted and comply with regulation.\nPart III\nLoan, Grant and Taking Capital In and Out the Lao PDR chapter 1 Loans and Grants"
    },
    "chapter": {
     "zh": "Chapter 4 Operation of Foreign Exchange Business"
@@ -316,7 +320,7 @@
     "lo": "The Government External Loan"
    },
    "text": {
-    "lo": "Ministry of Finance is authorized to execute external loan contract  or issue government guarantee on behalf of the Government. The Ministry is responsible for supervising, monitoring and inspect ing the implementation of  external loan contract  and using the loan , and opening Government bank account abroad, and it shall give written notice to the Bank of the Lao PDR.\nGovernment External loan shall be deposited in the account of Ministry of Finance or the government’s project account opened at the Bank of the Lao PDR. The government loan may be directly used for international settlement or to exchange to Lao Kip at the Bank of the Lao PDR for domestic settlement."
+    "en": "Ministry of Finance is authorized to execute external loan contract  or issue government guarantee on behalf of the Government. The Ministry is responsible for supervising, monitoring and inspect ing the implementation of  external loan contract  and using the loan , and opening Government bank account abroad, and it shall give written notice to the Bank of the Lao PDR.\nGovernment External loan shall be deposited in the account of Ministry of Finance or the government’s project account opened at the Bank of the Lao PDR. The government loan may be directly used for international settlement or to exchange to Lao Kip at the Bank of the Lao PDR for domestic settlement."
    },
    "chapter": {
     "zh": "Chapter 4 Operation of Foreign Exchange Business"
@@ -332,7 +336,7 @@
     "lo": "Grants Management"
    },
    "text": {
-    "lo": "Ministry of Finance is in charge  of management centrally and corporate with other authorities to  compile the total external grant s from both foreign governments and non - government organizations in form of money and material. The grants shall be centrally deposited the Ministry’s account opened at the Bank of the Lao PDR.\nThe Ministry of Finance shall monitor, inspect and compile grants given to foreign countries by the Government, legal entities and organization including civil society organization s of the Lao PDR."
+    "en": "Ministry of Finance is in charge  of management centrally and corporate with other authorities to  compile the total external grant s from both foreign governments and non - government organizations in form of money and material. The grants shall be centrally deposited the Ministry’s account opened at the Bank of the Lao PDR.\nThe Ministry of Finance shall monitor, inspect and compile grants given to foreign countries by the Government, legal entities and organization including civil society organization s of the Lao PDR."
    },
    "chapter": {
     "zh": "Chapter 4 Operation of Foreign Exchange Business"
@@ -348,7 +352,7 @@
     "lo": "External Loans and Trade Credit"
    },
    "text": {
-    "lo": "Providing or borrowing external loans of Residents of Lao PDR shall be approved by the Bank of Lao PDR and operated through the banking system, and the lender or borrower shall report on debt repayment to the Bank of the Lao PDR on a regular basis until the loan or trade credit contract has been done. chapter 2 Capitals Import and Export"
+    "en": "Providing or borrowing external loans of Residents of Lao PDR shall be approved by the Bank of Lao PDR and operated through the banking system, and the lender or borrower shall report on debt repayment to the Bank of the Lao PDR on a regular basis until the loan or trade credit contract has been done. chapter 2 Capitals Import and Export"
    },
    "chapter": {
     "zh": "Chapter 4 Operation of Foreign Exchange Business"
@@ -364,7 +368,7 @@
     "lo": "Import Capital for Investment"
    },
    "text": {
-    "lo": "Individual and foreign legal entity investing in the Lao PDR shall transfer capital through the banking system and open account at commercial bank based in the Lao PDR . The import of capital in foreign currency and physical capital shall be supported with documents to present to the Bank of the Lao PDR according to relevant regulation.\nPhysical capital is the value of equipment that investor purchased and paid in overseas and legally imports into the Lao PDR for direct business purpose . Imported materials or equipment purchased by money from the Lao PDR shall not be regarded as physical capital.  Document relating to equipment i mport issued by the concerning authority according to the relevant regulation shall be submitted with the declaration of physical Capital Those importing capital in cash shall have a certificate of cash declaration issued by the customs authority at a border check point and any other relevant document required by regulation."
+    "en": "Individual and foreign legal entity investing in the Lao PDR shall transfer capital through the banking system and open account at commercial bank based in the Lao PDR . The import of capital in foreign currency and physical capital shall be supported with documents to present to the Bank of the Lao PDR according to relevant regulation.\nPhysical capital is the value of equipment that investor purchased and paid in overseas and legally imports into the Lao PDR for direct business purpose . Imported materials or equipment purchased by money from the Lao PDR shall not be regarded as physical capital.  Document relating to equipment i mport issued by the concerning authority according to the relevant regulation shall be submitted with the declaration of physical Capital Those importing capital in cash shall have a certificate of cash declaration issued by the customs authority at a border check point and any other relevant document required by regulation."
    },
    "chapter": {
     "zh": "Chapter 4 Operation of Foreign Exchange Business"
@@ -380,7 +384,7 @@
     "lo": "Export Capital for Investment"
    },
    "text": {
-    "lo": "Exported Capital for Investment of Residents of the Lao PDR shall be approved by the Bank of the Lao PDR based on the agreement of the authority concerned.\nPart IV\nBalance of Payment"
+    "en": "Exported Capital for Investment of Residents of the Lao PDR shall be approved by the Bank of the Lao PDR based on the agreement of the authority concerned.\nPart IV\nBalance of Payment"
    },
    "chapter": {
     "zh": "Chapter 4 Operation of Foreign Exchange Business"
@@ -396,7 +400,7 @@
     "lo": "Balance of Payment"
    },
    "text": {
-    "lo": "The b alance of payment is the economic activities exchange between resident and non - resident of the Lao PDR, including trade in good and service, grant transfer, transfer of property and debt, loan and reimbursement, outflow and inflow capitals between countries during a given period."
+    "en": "The b alance of payment is the economic activities exchange between resident and non - resident of the Lao PDR, including trade in good and service, grant transfer, transfer of property and debt, loan and reimbursement, outflow and inflow capitals between countries during a given period."
    },
    "chapter": {
     "zh": "Chapter 4 Operation of Foreign Exchange Business"
@@ -412,7 +416,7 @@
     "lo": "Balance of Payment Statistic Compilation and plan"
    },
    "text": {
-    "lo": "The B ank of the Lao PDR is in charge of  statistic  compilation and plan the balance of payment of National economy in order to manage m acro economy coordinating with other sectors concerned.\nResident and non -resident who have  revenue and expenditure  in foreign currency  shall compile required information  and submit reports  to, the Bank of the Lao PDR.\nPart V\nProhibition"
+    "en": "The B ank of the Lao PDR is in charge of  statistic  compilation and plan the balance of payment of National economy in order to manage m acro economy coordinating with other sectors concerned.\nResident and non -resident who have  revenue and expenditure  in foreign currency  shall compile required information  and submit reports  to, the Bank of the Lao PDR.\nPart V\nProhibition"
    },
    "chapter": {
     "zh": "Chapter 4 Operation of Foreign Exchange Business"
@@ -428,7 +432,7 @@
     "lo": "General Prohibition"
    },
    "text": {
-    "lo": "Individual, legal entity and organization operating business and processing transaction in the Lao PDR are prohibited from the following acts:\n1. Making or receiving payment in foreign currency for good and service, debt, salary, tax, and fee or other reasons without permission. All price tag and media advertisement must express values in Lao Kip;\n2. Operating a foreign exchange business without permission;\n3. Exchanging currency with individual or legal entity who do not have a valid license to operate foreign exchange activity in accordance with the law and regulation;\n4. Setting their own exchange rate without permission from the Bank of the Lao PDR;\n5. Manipulating the exchange rate to cause negative effect to the national economic system;\n6. Importing cash exceeding the permitted amount without declaration to authorit y concerned , or exporting cash exceeding the permitted amount without  permission;\n7. Opening account abroad without compliance with Article 16number 1 to 5 of this law;\n8. Providing or obtaining external loan or trade credit without permission from the Bank of the Lao PDR;\n9. Concealing or colluding in any offense concerned to currency transaction;\n10. Intentionally obstructing or refusing to cooperate with authorities in the implementation of foreign exchange management regulations;\n11. Other actions that violate the law or regulations."
+    "en": "Individual, legal entity and organization operating business and processing transaction in the Lao PDR are prohibited from the following acts:\n1. Making or receiving payment in foreign currency for good and service, debt, salary, tax, and fee or other reasons without permission. All price tag and media advertisement must express values in Lao Kip;\n2. Operating a foreign exchange business without permission;\n3. Exchanging currency with individual or legal entity who do not have a valid license to operate foreign exchange activity in accordance with the law and regulation;\n4. Setting their own exchange rate without permission from the Bank of the Lao PDR;\n5. Manipulating the exchange rate to cause negative effect to the national economic system;\n6. Importing cash exceeding the permitted amount without declaration to authorit y concerned , or exporting cash exceeding the permitted amount without  permission;\n7. Opening account abroad without compliance with Article 16number 1 to 5 of this law;\n8. Providing or obtaining external loan or trade credit without permission from the Bank of the Lao PDR;\n9. Concealing or colluding in any offense concerned to currency transaction;\n10. Intentionally obstructing or refusing to cooperate with authorities in the implementation of foreign exchange management regulations;\n11. Other actions that violate the law or regulations."
    },
    "chapter": {
     "zh": "Chapter 4 Operation of Foreign Exchange Business"
@@ -444,7 +448,7 @@
     "lo": "Prohibition for Foreign Exchange Business Operator"
    },
    "text": {
-    "lo": "The operator of a foreign exchange business is prohibited from the following acts:\n1. Operating foreign exchange business  incompliance to the law and regulations or the scope of licensed business;\n2. Offering bribes to official;\n3. Concealing inaccurately reporting or falsifying documents related to the  foreign exchange business;\n4. Other actions that violate the law or regulations."
+    "en": "The operator of a foreign exchange business is prohibited from the following acts:\n1. Operating foreign exchange business  incompliance to the law and regulations or the scope of licensed business;\n2. Offering bribes to official;\n3. Concealing inaccurately reporting or falsifying documents related to the  foreign exchange business;\n4. Other actions that violate the law or regulations."
    },
    "chapter": {
     "zh": "Chapter 4 Operation of Foreign Exchange Business"
@@ -460,7 +464,7 @@
     "lo": "Prohibition for Authority or Official"
    },
    "text": {
-    "lo": "Official is prohibited from the following acts:\n1. Operating, providing private advice to, or engaging in a foreign exchange business that is related to his/her duty;\n2. Disclosing confidential information of individual, legal entity or organization under his/her supervision without permission;\n3. Soliciting bribe, acting in a biased way s, retaining, colluding with others, or falsifying documents on foreign exchange management activity;\n4. Abusing their positions for personal and collective  benefit from foreign exchange business operation;\n5. Neglecting his/her duty to foreign exchange business operators’ offense;\n6. Other actions that violate the law or regulation.\nPart VI\nDispute Resolution"
+    "en": "Official is prohibited from the following acts:\n1. Operating, providing private advice to, or engaging in a foreign exchange business that is related to his/her duty;\n2. Disclosing confidential information of individual, legal entity or organization under his/her supervision without permission;\n3. Soliciting bribe, acting in a biased way s, retaining, colluding with others, or falsifying documents on foreign exchange management activity;\n4. Abusing their positions for personal and collective  benefit from foreign exchange business operation;\n5. Neglecting his/her duty to foreign exchange business operators’ offense;\n6. Other actions that violate the law or regulation.\nPart VI\nDispute Resolution"
    },
    "chapter": {
     "zh": "Chapter 4 Operation of Foreign Exchange Business"
@@ -476,7 +480,7 @@
     "lo": "Dispute Resolution Method"
    },
    "text": {
-    "lo": "Disputes relating to  foreign exchange  shall be resolved by any of the following methods:\n1. Conciliation;\n2. Administrative resolution;\n3. Resolution by the Centre for Economic Dispute Resolution;\n4. Resolution by the People’s Court;\n5. International resolution method."
+    "en": "Disputes relating to  foreign exchange  shall be resolved by any of the following methods:\n1. Conciliation;\n2. Administrative resolution;\n3. Resolution by the Centre for Economic Dispute Resolution;\n4. Resolution by the People’s Court;\n5. International resolution method."
    },
    "chapter": {
     "zh": "Chapter 4 Operation of Foreign Exchange Business"
@@ -492,7 +496,7 @@
     "lo": "Conciliation"
    },
    "text": {
-    "lo": "The parties involved are to settle any dispute by negotiation , consultation , and conciliation to reach  agreement  which benefits all parties."
+    "en": "The parties involved are to settle any dispute by negotiation , consultation , and conciliation to reach  agreement  which benefits all parties."
    },
    "chapter": {
     "zh": "Chapter 4 Operation of Foreign Exchange Business"
@@ -508,7 +512,7 @@
     "lo": "Administrative Resolution"
    },
    "text": {
-    "lo": "Parties are entitled to submit disputes relating to foreign exchange to the Bank of the Lao PDR and sectors concerned to resolve the matter in accordance with the laws."
+    "en": "Parties are entitled to submit disputes relating to foreign exchange to the Bank of the Lao PDR and sectors concerned to resolve the matter in accordance with the laws."
    },
    "chapter": {
     "zh": "Chapter 4 Operation of Foreign Exchange Business"
@@ -524,7 +528,7 @@
     "lo": "Resolution by the Centre for Economic Dispute Resolution"
    },
    "text": {
-    "lo": "Parties are entitled to submit disputes relating to foreign exchange to the Centre for Economic Dispute Resolution for consideration in accordance with the laws."
+    "en": "Parties are entitled to submit disputes relating to foreign exchange to the Centre for Economic Dispute Resolution for consideration in accordance with the laws."
    },
    "chapter": {
     "zh": "Chapter 4 Operation of Foreign Exchange Business"
@@ -540,7 +544,7 @@
     "lo": "Resolution by People’s Court"
    },
    "text": {
-    "lo": "Parties are entitled to submit disputes relating to foreign exchange to the People’s Court for judgment in accordance with the laws."
+    "en": "Parties are entitled to submit disputes relating to foreign exchange to the People’s Court for judgment in accordance with the laws."
    },
    "chapter": {
     "zh": "Chapter 4 Operation of Foreign Exchange Business"
@@ -556,7 +560,7 @@
     "lo": "International Resolution Method"
    },
    "text": {
-    "lo": "International methods for resolution of disputes relating to  foreign exchange  shall be in compliance  with the laws of the Lao PDR and the treaties and international agreements to which the Lao PDR is a party.\nPart VII\nSupervision and Inspection of Foreign Exchange Activities chapter 1 Supervision of Foreign Exchange Activities"
+    "en": "International methods for resolution of disputes relating to  foreign exchange  shall be in compliance  with the laws of the Lao PDR and the treaties and international agreements to which the Lao PDR is a party.\nPart VII\nSupervision and Inspection of Foreign Exchange Activities chapter 1 Supervision of Foreign Exchange Activities"
    },
    "chapter": {
     "zh": "Chapter 4 Operation of Foreign Exchange Business"
@@ -572,7 +576,7 @@
     "lo": "Foreign Exchange Supervisory Authority"
    },
    "text": {
-    "lo": "The government of the Lao PDR  manages foreign exchange activities centrally and unanimously nationwide  by authorizing the Bank of the Lao PDR to directly supervise foreign exchange activities and act as the central agency to cooperate with Ministry of Finance, Ministry of Industry and Commerce , Ministry of Planning and Investment , Ministry of Public Se curity, and other sectors and local authorities concerned."
+    "en": "The government of the Lao PDR  manages foreign exchange activities centrally and unanimously nationwide  by authorizing the Bank of the Lao PDR to directly supervise foreign exchange activities and act as the central agency to cooperate with Ministry of Finance, Ministry of Industry and Commerce , Ministry of Planning and Investment , Ministry of Public Se curity, and other sectors and local authorities concerned."
    },
    "chapter": {
     "zh": "Chapter 4 Operation of Foreign Exchange Business"
@@ -588,7 +592,7 @@
     "lo": "Rights and Duties of the Bank of the Lao PDR"
    },
    "text": {
-    "lo": "The rights and duties of the Bank of the Lao PDR are to:\n1. Define a strategic plan, policy, and law relating to foreign exchange management and propose them to the Government for consideration and adoption;\n2. license, suspend or dissolve the operation of foreign exchange business es, approve the opening of bank account  in oversea ,and external lending or/and borrowing ac tivities including trade credit;\n3. Promote and disseminate law and regulation relating to foreign exchange management and promote the public awareness in using Lao Kip;\n4. Provide capacity building for  its official and related authorities on foreign exchange management;\n5. Collect and compile information on foreign exchange activities;\n6. Cooperate with the related sectors on the  implementation of foreign exchang e management law and regulation;\n7. Cooperate with region al and international organizations  on the foreign exchange management;\n8. Report the i mplementation of foreign exchange management on a regular basis to the Government;\n9. Perform rights and duties as defined in the relevant laws and regulations."
+    "en": "The rights and duties of the Bank of the Lao PDR are to:\n1. Define a strategic plan, policy, and law relating to foreign exchange management and propose them to the Government for consideration and adoption;\n2. license, suspend or dissolve the operation of foreign exchange business es, approve the opening of bank account  in oversea ,and external lending or/and borrowing ac tivities including trade credit;\n3. Promote and disseminate law and regulation relating to foreign exchange management and promote the public awareness in using Lao Kip;\n4. Provide capacity building for  its official and related authorities on foreign exchange management;\n5. Collect and compile information on foreign exchange activities;\n6. Cooperate with the related sectors on the  implementation of foreign exchang e management law and regulation;\n7. Cooperate with region al and international organizations  on the foreign exchange management;\n8. Report the i mplementation of foreign exchange management on a regular basis to the Government;\n9. Perform rights and duties as defined in the relevant laws and regulations."
    },
    "chapter": {
     "zh": "Chapter 4 Operation of Foreign Exchange Business"
@@ -601,7 +605,7 @@
     "lo": "第 39 条"
    },
    "text": {
-    "lo": "Rights and Duties of Ministries, other sectors and Local Authorities Ministries and Local Authorities shall have rights and duties to supervise foreign exchange activities as follows:\n1. Ministry of Finance is authorized to supervise, monitor and inspect the implementation of government loan contracts, loan guarantees, grants and cash imports and exports. The Ministry has the right to impose necessary measures against those who act against the law or regulations on foreign exchange management.\n2. Ministry of Industry and Commerce is authorized to supervise and monitor the prices of goods, services and other charges denominated in Lao Kip. The Ministry has the right to impose  measures against those who violate the law s on foreign exchange management.\n3. Ministry of Planning and Investment is authoriz ed to supervise and monitor the capital inflow of foreign investors and the outflow of investments abroad by residents of  the Lao PDR in accordance with this law and other relevant laws.\n4. Ministry of Public Security is authorized to supervise and monitor those who carry out foreign exchange activities without prior permission from the Bank of the Lao PDR and impose measures on those who violate the law or other related laws.\n5. Local Authorities and other sectors are authorized to contribute in management of activities, to observe foreign exchange activities in their respective areas , p roviding information and to cooperate with  the Bank of the Lao PDR and other ministries as mentioned in Article 37 of this law. chapter 2 Inspection of Foreign Exchange Activity"
+    "en": "Rights and Duties of Ministries, other sectors and Local Authorities Ministries and Local Authorities shall have rights and duties to supervise foreign exchange activities as follows:\n1. Ministry of Finance is authorized to supervise, monitor and inspect the implementation of government loan contracts, loan guarantees, grants and cash imports and exports. The Ministry has the right to impose necessary measures against those who act against the law or regulations on foreign exchange management.\n2. Ministry of Industry and Commerce is authorized to supervise and monitor the prices of goods, services and other charges denominated in Lao Kip. The Ministry has the right to impose  measures against those who violate the law s on foreign exchange management.\n3. Ministry of Planning and Investment is authoriz ed to supervise and monitor the capital inflow of foreign investors and the outflow of investments abroad by residents of  the Lao PDR in accordance with this law and other relevant laws.\n4. Ministry of Public Security is authorized to supervise and monitor those who carry out foreign exchange activities without prior permission from the Bank of the Lao PDR and impose measures on those who violate the law or other related laws.\n5. Local Authorities and other sectors are authorized to contribute in management of activities, to observe foreign exchange activities in their respective areas , p roviding information and to cooperate with  the Bank of the Lao PDR and other ministries as mentioned in Article 37 of this law. chapter 2 Inspection of Foreign Exchange Activity"
    },
    "chapter": {
     "zh": "Chapter 4 Operation of Foreign Exchange Business"
@@ -617,7 +621,7 @@
     "lo": "Foreign Exchange Inspection Authority"
    },
    "text": {
-    "lo": "The foreign exchange inspection authorities are:\n1. Internal Inspection Authority that determined as the foreign exchange supervising organizations in Article 37 of this law;\n2. External Inspection Authorities which consist of  the National Assembly , the Governmental Inspection and Anti-Corruption Agency, the State Audit Agency, the Lao Front for National Construction , the Mass and Social Organizations , the Mass Media, and general public."
+    "en": "The foreign exchange inspection authorities are:\n1. Internal Inspection Authority that determined as the foreign exchange supervising organizations in Article 37 of this law;\n2. External Inspection Authorities which consist of  the National Assembly , the Governmental Inspection and Anti-Corruption Agency, the State Audit Agency, the Lao Front for National Construction , the Mass and Social Organizations , the Mass Media, and general public."
    },
    "chapter": {
     "zh": "Chapter 4 Operation of Foreign Exchange Business"
@@ -633,7 +637,7 @@
     "lo": "Inspection Content"
    },
    "text": {
-    "lo": "The main elements inspection content of foreign exchange activities are:\n1. Implementation of the law related to foreign exchange management and other relevant laws;\n2. Performance of rights and duties as supervisory organizations as well as enforcement of lawful sanctions against violators.\n3. Businesses and transactions operations of foreign exchange."
+    "en": "The main elements inspection content of foreign exchange activities are:\n1. Implementation of the law related to foreign exchange management and other relevant laws;\n2. Performance of rights and duties as supervisory organizations as well as enforcement of lawful sanctions against violators.\n3. Businesses and transactions operations of foreign exchange."
    },
    "chapter": {
     "zh": "Chapter 4 Operation of Foreign Exchange Business"
@@ -649,7 +653,7 @@
     "lo": "Form  of Inspection"
    },
    "text": {
-    "lo": "There are three forms of inspection below:\n1. Regular Inspection conducted on a regular and periodic basis;\n2. Advance notification Inspection which is unplanned operation in case of necessary;\n3. Emergency Inspection which is an urgent inspection without advance notification.\nThe inspection of foreign exchange activities shall be strictly carried out in accordance with the law and regulations.\nDuring the inspection, the concerned official perform full  rights to interrogate, review documents related to the foreign exchange business as they deem necessary."
+    "en": "There are three forms of inspection below:\n1. Regular Inspection conducted on a regular and periodic basis;\n2. Advance notification Inspection which is unplanned operation in case of necessary;\n3. Emergency Inspection which is an urgent inspection without advance notification.\nThe inspection of foreign exchange activities shall be strictly carried out in accordance with the law and regulations.\nDuring the inspection, the concerned official perform full  rights to interrogate, review documents related to the foreign exchange business as they deem necessary."
    },
    "chapter": {
     "zh": "Chapter 4 Operation of Foreign Exchange Business"
@@ -662,7 +666,7 @@
     "lo": "第 43 条"
    },
    "text": {
-    "lo": "Rights and Duties of the Foreign Exchange Inspection Authority The foreign exchange inspection authorities have right and duty to inspect in accordance with contents stipula te in Article 41  of this law  by cooperating with local administrative authorities and officials concerned."
+    "en": "Rights and Duties of the Foreign Exchange Inspection Authority The foreign exchange inspection authorities have right and duty to inspect in accordance with contents stipula te in Article 41  of this law  by cooperating with local administrative authorities and officials concerned."
    },
    "chapter": {
     "zh": "Chapter 4 Operation of Foreign Exchange Business"
@@ -678,7 +682,7 @@
     "lo": "Inspection Results Report"
    },
    "text": {
-    "lo": "All commercial banks, financial institutions and legal entities operating  foreign exchange businesses shall report their foreign exchange activit ies and transactions to the Bank of the Lao PDR in accordance with regulations.\nThe Bank of the Lao PDR is responsible for collect ing and compiling information on the implementation of foreign exchange activities of organizations concerned, and for reporting to the Government on a regular basis.\nPart VIII\nReward and Measures"
+    "en": "All commercial banks, financial institutions and legal entities operating  foreign exchange businesses shall report their foreign exchange activit ies and transactions to the Bank of the Lao PDR in accordance with regulations.\nThe Bank of the Lao PDR is responsible for collect ing and compiling information on the implementation of foreign exchange activities of organizations concerned, and for reporting to the Government on a regular basis.\nPart VIII\nReward and Measures"
    },
    "chapter": {
     "zh": "Chapter 4 Operation of Foreign Exchange Business"
@@ -694,7 +698,7 @@
     "lo": "Reward"
    },
    "text": {
-    "lo": "Individual, legal entity and organization that have strictly complied with and contributed to the successful implementation of this law shall be entitled to receive awards and other benefits in accordance with regulations."
+    "en": "Individual, legal entity and organization that have strictly complied with and contributed to the successful implementation of this law shall be entitled to receive awards and other benefits in accordance with regulations."
    },
    "chapter": {
     "zh": "Chapter 4 Operation of Foreign Exchange Business"
@@ -710,7 +714,7 @@
     "lo": "Measures"
    },
    "text": {
-    "lo": "Individual , legal entit y and organization  that violate the law or other relevant regulations on foreign exchange management to cause  damage to the state and public may subject to reeducation, disciplinary action, fines or sentence s for civil damages or criminal convictions, depending on the severity of the case."
+    "en": "Individual , legal entit y and organization  that violate the law or other relevant regulations on foreign exchange management to cause  damage to the state and public may subject to reeducation, disciplinary action, fines or sentence s for civil damages or criminal convictions, depending on the severity of the case."
    },
    "chapter": {
     "zh": "Chapter 4 Operation of Foreign Exchange Business"
@@ -726,7 +730,7 @@
     "lo": "Educational Measure"
    },
    "text": {
-    "lo": "Individual, legal entit y and organization  that violate the law and regulations on foreign exchange management for the first time with minor offenses may subject to be reeducated and warned by the authorities concerned. A permanent record of the warning shall be made."
+    "en": "Individual, legal entit y and organization  that violate the law and regulations on foreign exchange management for the first time with minor offenses may subject to be reeducated and warned by the authorities concerned. A permanent record of the warning shall be made."
    },
    "chapter": {
     "zh": "Chapter 4 Operation of Foreign Exchange Business"
@@ -742,7 +746,7 @@
     "lo": "Disciplinary Measure"
    },
    "text": {
-    "lo": "Government official who violate the prohibitions as defined in Article 30 of the law , or relevant regulations on foreign exchange in ways that are not considered criminal offenses may subject to be conducted the following disciplinary measures:\n1. Written warning, with a permanent record in their personal file;\n2. Suspension of promotion, salary increment or other rewards;\n3. Demotion or degrade revocation;\n4. Dismissal from the civil servant without any pension.\nThe individual subjected to disciplinary measures may return all  illegitimate assets procession to authorities concerned."
+    "en": "Government official who violate the prohibitions as defined in Article 30 of the law , or relevant regulations on foreign exchange in ways that are not considered criminal offenses may subject to be conducted the following disciplinary measures:\n1. Written warning, with a permanent record in their personal file;\n2. Suspension of promotion, salary increment or other rewards;\n3. Demotion or degrade revocation;\n4. Dismissal from the civil servant without any pension.\nThe individual subjected to disciplinary measures may return all  illegitimate assets procession to authorities concerned."
    },
    "chapter": {
     "zh": "Chapter 4 Operation of Foreign Exchange Business"
@@ -758,7 +762,7 @@
     "lo": "Fine"
    },
    "text": {
-    "lo": "Individual, legal entit y and organization that violate the law and relevant regulation  on foreign exchange management may be fined by the authorities concerned:\n1. Price tag labeling in foreign currency in the Lao PDR may be fined one million Lao Kip (1.000.000) per offense;\n2. Receiving and making Payment in foreign currency for goods and services, debts, salaries, or  tax and fees  to the Government  without Permission may be fined three million Lao Kip (3.000.000) per offense;\n3. Conducting foreign exchange business or exchanging foreign currencies without a license may be fined thirty million Lao Kip (30.000.000);\n4. Setting the exchange rate of commercial banks , currency exchange bureau s or related service places incompliant with regulations may be fined five mill ion Lao Kip (5.000.000) per offense;\n5. Opening bank accounts abroad without permission from the Bank of the Lao PDR may be fined twenty million Lao Kip (20.000.000);\n6. Incompliance with Article 27 of the law or reporting inaccurate data may be fined five million Lao Kip (5.000.000) per offense;\n7. Providing or borrowing external loan and trade credit without permission for the first time may be fined zero point one percent ( 0.1%) of the total external loan and trade credit;\n8. Importing and exporting cash exceeding the limit without declaration at a customs check point or permission from the Bank of the Lao PDR for the first time may be fined fifty percent (50%) of the value involved.\nAny repetitive violation or offense in each case may be fined double of the previous fine."
+    "en": "Individual, legal entit y and organization that violate the law and relevant regulation  on foreign exchange management may be fined by the authorities concerned:\n1. Price tag labeling in foreign currency in the Lao PDR may be fined one million Lao Kip (1.000.000) per offense;\n2. Receiving and making Payment in foreign currency for goods and services, debts, salaries, or  tax and fees  to the Government  without Permission may be fined three million Lao Kip (3.000.000) per offense;\n3. Conducting foreign exchange business or exchanging foreign currencies without a license may be fined thirty million Lao Kip (30.000.000);\n4. Setting the exchange rate of commercial banks , currency exchange bureau s or related service places incompliant with regulations may be fined five mill ion Lao Kip (5.000.000) per offense;\n5. Opening bank accounts abroad without permission from the Bank of the Lao PDR may be fined twenty million Lao Kip (20.000.000);\n6. Incompliance with Article 27 of the law or reporting inaccurate data may be fined five million Lao Kip (5.000.000) per offense;\n7. Providing or borrowing external loan and trade credit without permission for the first time may be fined zero point one percent ( 0.1%) of the total external loan and trade credit;\n8. Importing and exporting cash exceeding the limit without declaration at a customs check point or permission from the Bank of the Lao PDR for the first time may be fined fifty percent (50%) of the value involved.\nAny repetitive violation or offense in each case may be fined double of the previous fine."
    },
    "chapter": {
     "zh": "Chapter 4 Operation of Foreign Exchange Business"
@@ -774,7 +778,7 @@
     "lo": "Civil Measure"
    },
    "text": {
-    "lo": "Individual, legal entit y and organization  that violate the law to cause damage to the economic or financial system of the Lao PDR shall compensate for the actual damages cost."
+    "en": "Individual, legal entit y and organization  that violate the law to cause damage to the economic or financial system of the Lao PDR shall compensate for the actual damages cost."
    },
    "chapter": {
     "zh": "Chapter 4 Operation of Foreign Exchange Business"
@@ -790,7 +794,7 @@
     "lo": "Penalty"
    },
    "text": {
-    "lo": "Individual who Violate the law, constituted criminal offenses, and to cause damages to the economic, financial and currency system of the Lao PDR, and individual violate the law, shall be punished in accordance with the Penal Law and other laws as determined by the Penal Law."
+    "en": "Individual who Violate the law, constituted criminal offenses, and to cause damages to the economic, financial and currency system of the Lao PDR, and individual violate the law, shall be punished in accordance with the Penal Law and other laws as determined by the Penal Law."
    },
    "chapter": {
     "zh": "Chapter 4 Operation of Foreign Exchange Business"
@@ -806,7 +810,7 @@
     "lo": "Penalty for habitual fine"
    },
    "text": {
-    "lo": "Individual who have been fined habitually may be considered as criminal offenders and may be imprisoned from six months to two years and fined from three million to ten million Lao Kip (3.000.000 to 10.000.000) .\nPart IX\nFinal Provision"
+    "en": "Individual who have been fined habitually may be considered as criminal offenders and may be imprisoned from six months to two years and fined from three million to ten million Lao Kip (3.000.000 to 10.000.000) .\nPart IX\nFinal Provision"
    },
    "chapter": {
     "zh": "Chapter 4 Operation of Foreign Exchange Business"
@@ -822,7 +826,7 @@
     "lo": "Implementation"
    },
    "text": {
-    "lo": "The Government of the Lao People’s Democratic Republic implements the law."
+    "en": "The Government of the Lao People’s Democratic Republic implements the law."
    },
    "chapter": {
     "zh": "Chapter 4 Operation of Foreign Exchange Business"
@@ -838,7 +842,7 @@
     "lo": "Effectiveness"
    },
    "text": {
-    "lo": "The law shall be effective after the decree is issued by the President of  the Lao PDR, and fifteen days after it has been disseminated on official gazette.\nAny previous regulations and provisions which contradict the law shall be deemed null and void.\nPresident of the National Assembly\nPany YATHOTOU"
+    "en": "The law shall be effective after the decree is issued by the President of  the Lao PDR, and fifteen days after it has been disseminated on official gazette.\nAny previous regulations and provisions which contradict the law shall be deemed null and void.\nPresident of the National Assembly\nPany YATHOTOU"
    },
    "chapter": {
     "zh": "Chapter 4 Operation of Foreign Exchange Business"

@@ -1,0 +1,72 @@
+{
+ "id": "PH-H11210",
+ "title": {
+  "zh": null,
+  "en": "AN ACT TO REPEAL ALL LAWS IMPOSING A TAX ON SALARIES.",
+  "orig": "AN ACT TO REPEAL ALL LAWS IMPOSING A TAX ON SALARIES."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 497",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1013,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_00497_1902_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_00497_1902_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H11210-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Paragraph two of Tariff Number One of the Decree of His Majesty the King of Spain, issued at\nMadrid June nineteenth, eighteen hundred and ninety, imposing a tax upon salaries in the Philippine Islands,\nand which reads as follows: \"The following will pay two and one-half per centum: The employees of banks,\nstock companies, insurance, and collection companies, enterprises, banking and private firms, whenever the\nsalary is six hundred dollars yearly, or more,\" and all amendments and modifications thereof, and military\norders or parts of military orders, imposing a tax upon the salaries of the employees therein named, are\nhereby repealed."
+   }
+  },
+  {
+   "id": "PH-H11210-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The public good requiring the speedy enactment of this bill, the passage of the same is hereby\nexpedited in accordance with section two of \"An Act prescribing the order of procedure by the Commission\nin the enactment of laws,\" passed September twenty-sixth, nineteen hundred."
+   }
+  },
+  {
+   "id": "PH-H11210-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect January first, nineteen hundred and three.\nEnacted, November 6, 1902."
+   }
+  }
+ ]
+}

@@ -1,0 +1,92 @@
+{
+ "id": "PH-H22585",
+ "title": {
+  "zh": null,
+  "en": "Calling a Referendum Asking the People to Vote on Whether or Not the President Should Continue in Office",
+  "orig": "Calling a Referendum Asking the People to Vote on Whether or Not the President Should Continue in Office"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1977-10-30",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 1229",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 5,
+ "chars": 1137,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_01229_1977_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 5 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_01229_1977_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22585-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "A referendum shall be conducted throughout the Philippines on the 17th day of December, 1977,\non the following question:\n\"DO YOU VOTE THAT PRESIDENT FERDINAND E. MARCOS CONTINUE IN OFFICE AS\nINCUMBENT PRESIDENT AND BE PRIME MINISTER AFTER THE ORGANIZATION OF THE\nINTERIM BATASANG PAMBANSA AS PROVIDED FOR IN AMENDMENT NO. 3 OF THE 1976\nAMENDMENTS TO THE CONSTITUION?\""
+   }
+  },
+  {
+   "id": "PH-H22585-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The conduct of the referendum shall be under the supervision of the Commission on Elections.\nThe Commission on Elections shall properly canvass the votes, and certify and proclaim the results."
+   }
+  },
+  {
+   "id": "PH-H22585-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "The laws, rules and regulations that governed past referenda shall be applicable to this\nreferendum, particularly those providing for free discussion and debate."
+   }
+  },
+  {
+   "id": "PH-H22585-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "The Commission on Elections is hereby authorized to promulgate rules and regulations for the\nproper implementation of this Decree."
+   }
+  },
+  {
+   "id": "PH-H22585-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "text": {
+    "en": "The sum of Ten Million Pesos (P10,000,000.00) is hereby appropriated out of funds in the\nNational Treasury not otherwise appropriated to carry on the purpose of this Decree.\nDone in the City of Manila, this 30th day of October, in the year of Our Lord nineteen hundred and\nseventy-seven."
+   }
+  }
+ ]
+}

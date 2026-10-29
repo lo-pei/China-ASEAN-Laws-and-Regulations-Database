@@ -1,0 +1,1064 @@
+{
+ "id": "VN-H317",
+ "title": {
+  "zh": "兵役义务法",
+  "en": "Law on military service",
+  "vi": "Luật Nghĩa vụ quân sự",
+  "orig": "Luật Nghĩa vụ quân sự số Không số",
+  "th": "พระราชบัญญัติการรับราชการทหาร",
+  "id": "Undang-Undang Wajib Militer",
+  "ms": "Akta Perkhidmatan Ketenteraan"
+ },
+ "country": "VN",
+ "countryName": "越南",
+ "layer": "intl",
+ "pack": "vn-p06",
+ "language": "vi",
+ "level": "law",
+ "category": "05_其他及未分类",
+ "status": "active",
+ "promulgatedDate": "1981",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "国会",
+ "docNumber": "Không số",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 73,
+ "chars": 26964,
+ "source": {
+  "name": "越南法律数据库（vbpl.vn 官方公报文本）",
+  "url": "https://vbpl.vn/van-ban/chi-tiet/luat-nghia-vu-quan-su-so-khong-so--3871"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\VN\\05_其他及未分类\\1981_Không số_Luật Nghĩa vụ quân sự số Không số.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 73 条；逐字未改写（源自 VN）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "VN-H317-A1",
+   "no": 1,
+   "noLabel": {
+    "vi": "Điều 1"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 1\n\nBảo vệ Tổ quốc xã hội chủ nghĩa là nghĩa vụ thiêng liêng và quyền cao quý của công dân.\n\nCông dân có bổn phận làm nghĩa vụ quân sự và tham gia xây dựng quốc phòng toàn dân."
+   }
+  },
+  {
+   "id": "VN-H317-A2",
+   "no": 2,
+   "noLabel": {
+    "vi": "Điều 2"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 2\n\nNghĩa vụ quân sự là nghĩa vụ vẻ vang của công dân phục vụ trong Quân đội nhân dân Việt Nam.\n\nLàm nghĩa vụ quân sự bao gồm phục vụ tại ngũ và phục vụ trong ngạch dự bị của quân đội.\n\nCông dân phục vụ tại ngũ gọi là quân nhân tại ngũ.\n\nCông dân phục vụ trong ngạch dự bị gọi là quân nhân dự bị."
+   }
+  },
+  {
+   "id": "VN-H317-A3",
+   "no": 3,
+   "noLabel": {
+    "vi": "Điều 3"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 3\n\nCông dân nam giới, không phân biệt dân tộc, thành phần xã hội, tín ngưỡng tôn giáo, trình độ văn hoá, nghề nghiệp, nơi cư trú, có nghĩa vụ phục vụ tại ngũ trong Quân đội nhân dân Việt Nam."
+   }
+  },
+  {
+   "id": "VN-H317-A4",
+   "no": 4,
+   "noLabel": {
+    "vi": "Điều 4"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 4\n\nPhụ nữ có chuyên môn cần cho quân đội, trong thời bình, phải đăng ký nghĩa vụ quân sự và được gọi huấn luyện; nếu tự nguyện thì có thể được phục vụ tại ngũ.\n\nTrong thời chiến theo quyết định của Hội đồng bộ trưởng, phụ nữ được gọi nhập ngũ và đảm nhiệm công tác thích hợp."
+   }
+  },
+  {
+   "id": "VN-H317-A5",
+   "no": 5,
+   "noLabel": {
+    "vi": "Điều 5"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 5\n\nNhững người sau đây không được làm nghĩa vụ quân sự:\n\n1- Người đang trong thời kỳ bị pháp luật hoặc Toà án nhân dân tước quyền phục vụ trong các lực lượng vũ trang nhân dân;\n\n2- Người đang bị giam giữ."
+   }
+  },
+  {
+   "id": "VN-H317-A6",
+   "no": 6,
+   "noLabel": {
+    "vi": "Điều 6"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 6\n\nQuân nhân tại ngũ và quân nhân dự bị gồm có sĩ quan, quân nhân chuyên nghiệp, hạ sĩ quan và binh sĩ.\n\nChế độ phục vụ của sĩ quan do Luật về sĩ quan Quân đội nhân dân Việt Nam quy định."
+   }
+  },
+  {
+   "id": "VN-H317-A7",
+   "no": 7,
+   "noLabel": {
+    "vi": "Điều 7"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 7\n\nQuân nhân tại ngũ và quân nhân dự bị được phong cấp bậc quân hàm tương ứng với chức vụ.\n\nHệ thống cấp bậc quân hàm của Quân đội nhân dân Việt Nam do Hội đồng Nhà nước quy định.\n\nViệc phong, thăng, giáng và tước cấp bậc quân hàm của sĩ quan do Luật về sĩ quan Quân đội nhân dân Việt Nam quy định.\n\nViệc phong, thăng, giáng và tước cấp bậc quân hàm của quân nhân chuyên nghiệp do Hội đồng bộ trưởng quy định.\n\nViệc phong, thăng, giáng và tước cấp bậc quân hàm của hạ sĩ quan và binh sĩ do Bộ trưởng Bộ quốc phòng quy định."
+   }
+  },
+  {
+   "id": "VN-H317-A8",
+   "no": 8,
+   "noLabel": {
+    "vi": "Điều 8"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 8\n\nQuân nhân tại ngũ và quân nhân dự bị phải tuyên thệ trung thành với Tổ quốc, nhân dân và Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam."
+   }
+  },
+  {
+   "id": "VN-H317-A9",
+   "no": 9,
+   "noLabel": {
+    "vi": "Điều 9"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 9\n\nQuân nhân tại ngũ, quân nhân dự bị trong thời gian tập trung huấn luyện, có quyền và nghĩa vụ của công dân quy định trong Hiến pháp và pháp luật của nước Cộng hoà xã hội chủ nghĩa Việt Nam."
+   }
+  },
+  {
+   "id": "VN-H317-A10",
+   "no": 10,
+   "noLabel": {
+    "vi": "Điều 10"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 10\n\nCác cơ quan Nhà nước, Mặt trận Tổ quốc Việt Nam, Tổng công đoàn Việt Nam, Đoàn thanh niên Cộng sản Hồ Chí Minh, Hội liên hiệp phụ nữ Việt Nam, Hội liên hiệp nông dân tập thể Việt Nam, các tổ chức xã hội khác, nhà trường và gia đình, trong phạm vi chức năng của mình, có nhiệm vụ động viên, giáo dục, tổ chức và tạo điều kiện cho công dân làm tròn nghĩa vụ quân sự."
+   }
+  },
+  {
+   "id": "VN-H317-A11",
+   "no": 11,
+   "noLabel": {
+    "vi": "Điều 11"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 11\n\nĐịa phương, đoàn thể, cơ quan, đơn vị, gia đình hoặc cá nhân có nhiều thành tích trong việc thi hành chế độ nghĩa vụ quân sự quy định trong Luật này thì được Nhà nước khen thưởng.\n\nChương II\n\nVIỆC PHỤC VỤ TẠI NGŨ CỦA HẠ SĨ QUAN VÀ BINH SĨ"
+   }
+  },
+  {
+   "id": "VN-H317-A12",
+   "no": 12,
+   "noLabel": {
+    "vi": "Điều 12"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 12\n\nCông dân nam giới đủ 18 tuổi được gọi nhập ngũ; lứa tuổi gọi nhập ngũ từ đủ 18 tuổi đến hết 27 tuổi."
+   }
+  },
+  {
+   "id": "VN-H317-A13",
+   "no": 13,
+   "noLabel": {
+    "vi": "Điều 13"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 13\n\nCông dân nam giới đến 17 tuổi, có nguyện vọng phục vụ lâu dài trong quân đội, có đủ tiêu chuẩn theo quy định của Bộ trưởng Bộ quốc phòng, thì có thể được nhận vào học ở trường quân sự và được công nhận là quân nhân dân tại ngũ."
+   }
+  },
+  {
+   "id": "VN-H317-A14",
+   "no": 14,
+   "noLabel": {
+    "vi": "Điều 14"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 14\n\nThời gian phục vụ tại ngũ của hạ sĩ quan và binh sĩ quy định như sau:\n\n1- Ba năm, đối với hạ sĩ quan và binh sĩ;\n\n2- Bốn năm, đối với hạ sĩ quan, binh sĩ chuyên môn, kỹ thuật do quân đội đào tạo, hạ sĩ quan và binh sĩ trên tàu hải quân;\n\n3- Hai năm, đối với hạ sĩ quan và binh sĩ đã tốt nghiệp cao đẳng hoặc đại học;\n\n4- Hai năm, đối với hạ sĩ quan và binh sĩ thuộc một số dân tộc do Hội đồng bộ trưởng quy định."
+   }
+  },
+  {
+   "id": "VN-H317-A15",
+   "no": 15,
+   "noLabel": {
+    "vi": "Điều 15"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 15\n\nKhi cần thiết, Bộ trưởng Bộ quốc phòng được quyền giữ hạ sĩ quan và binh sĩ phục vụ tại ngũ thêm một thời gian không quá sáu tháng so với thời hạn quy định ở Điều 14 của Luật này."
+   }
+  },
+  {
+   "id": "VN-H317-A16",
+   "no": 16,
+   "noLabel": {
+    "vi": "Điều 16"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 16\n\nViệc tính thời điểm bắt đầu và kết thúc thời hạn phục vụ tại ngũ của hạ sĩ quan và binh sĩ do Bộ trưởng Bộ quốc phòng quy định.\n\nThời gian chịu kỷ luật ở đơn vị của quân đội và thời gian đào ngũ không được tính vào thời hạn tại ngũ.\n\nChương III\n\nVIỆC CHUẨN BỊ CHO THANH NIÊN PHỤC VỤ TẠI NGŨ"
+   }
+  },
+  {
+   "id": "VN-H317-A17",
+   "no": 17,
+   "noLabel": {
+    "vi": "Điều 17"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 17\n\nThanh niên nam giới, trước khi đến tuổi nhập ngũ và trước khi nhập ngũ, phải được huấn luyên theo chương trình quân sự phổ thông, bao gồm giáo dục chính trị, huấn luyện quân sự, rèn luyện ý thức tổ chức và kỷ luật, và rèn luyện về thể lực.\n\nViệc huấn luyện quân sự phổ thông cho học sinh ở trường phổ thông trung học, trường dạy nghề, trường trung học chuyên nghiệp, trường cao đẳng và trường đại học thuộc chương trình chính khoá.\n\nĐối với thanh niên không học ở các trường thì được huấn luyện quân sự phổ thông ở các lớp huấn luyện tổ chức tại xã, phường, thị trấn, cơ quan, xí nghiệp và các đơn vị cơ sở khác.\n\nChủ tịch Uỷ ban nhân dân xã, phường, thị trấn, hiệu trưởng các trường, thủ trưởng các cơ quan, xí nghiệp và các đơn vị cơ sở khác có trách nhiệm tổ chức huấn luyện quân sự phổ thông cho thanh niên thuộc cơ sở mình.\n\nNội dung huấn luyện quân sự phổ thông do Bộ trưởng Bộ quốc phòng quy định."
+   }
+  },
+  {
+   "id": "VN-H317-A18",
+   "no": 18,
+   "noLabel": {
+    "vi": "Điều 18"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 18\n\nCác Bộ, Uỷ ban Nhà nước, các cơ quan khác thuộc Hội đồng bộ trưởng, Uỷ ban chỉ đạo giáo dục quốc phòng nhân dân, Uỷ ban nhân dân tỉnh, thành phố trực thuộc trung ương và cấp tương đương có trường dạy nghề, trường trung học chuyên nghiệp, trường cao đẳng, trường đại học có trách nhiệm đào tạo cán bộ, nhân viên chuyên môn, kỹ thuật cho quân đội, theo kế hoạch của Bộ quốc phòng đã được Hội đồng bộ trưởng phê chuẩn."
+   }
+  },
+  {
+   "id": "VN-H317-A19",
+   "no": 19,
+   "noLabel": {
+    "vi": "Điều 19"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 19\n\nKhu vực chuẩn bị cho thanh niên phục vụ tại ngũ và gọi công dân là huyện, quận, thị xã, thành phố thuộc tỉnh.\n\nTháng 1 hàng năm, hiệu trưởng các trường dạy nghề, trường trung học chuyên nghiệp, trường cao đẳng, trường đại học, thủ trưởng các cơ quan, xí nghiệp và các đơn vị cơ sở khác phải báo cáo danh sách công dân nam giới đủ 17 tuổi trong năm đó cho Ban chỉ huy quân sự huyện, quận, thị xã, thành phố thuộc tỉnh nơi mình đóng."
+   }
+  },
+  {
+   "id": "VN-H317-A20",
+   "no": 20,
+   "noLabel": {
+    "vi": "Điều 20"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 20\n\nTháng 4 hàng năm, theo lệnh gọi của chỉ huy trưởng quân sự huyện, quận, thị xã, thành phố thuộc tỉnh, công dân nam giới đủ 17 tuổi trong năm đó phải đến cơ quan quân sự để đăng ký nghĩa vụ quân sự.\n\nViệc kiểm tra sức khoẻ cho những người đăng ký nghĩa vụ quân sự do cơ quan y tế huyện, quận, thị xã, thành phố thuộc tỉnh phụ trách.\n\nNgười đã đăng ký nghĩa vụ quân sự được gọi là người sẵn sàng nhập ngũ.\n\nChương IV\n\nVIỆC NHẬP NGŨ VÀ XUẤT NGŨ\n\nMục 1\n\nVIỆC GỌI NHẬP NGŨ"
+   }
+  },
+  {
+   "id": "VN-H317-A21",
+   "no": 21,
+   "noLabel": {
+    "vi": "Điều 21"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 21\n\nHàng năm, việc gọi công dân nhập ngũ được tiến hành từ một đến hai lần, vào tháng 2 - tháng 3 và tháng 8 - tháng 9.\n\nSố lượng công dân nhập ngũ trong năm do Hội đồng bộ trưởng quyết định.\n\nViệc gọi công dân nhập ngũ được tiến hành theo lệnh của Bộ trưởng Bộ quốc phòng.\n\nUỷ ban nhân dân các cấp có trách nhiệm chỉ đạo thực hiện việc gọi công dân nhập ngũ trong địa phương mình.\n\nTheo quyết định của Uỷ ban nhân dân, chỉ huy trưởng quân sự huyện, quận, thị xã, thành phố thuộc tỉnh gọi từng công dân nhập ngũ. Lệnh gọi nhập ngũ phải được đưa trước 15 ngày.\n\nĐối với địa phương gặp thiên tai nặng, thì Bộ trưởng Bộ quốc phòng được quyền điều chỉnh thời gian gọi công dân nhập ngũ cho địa phương đó."
+   }
+  },
+  {
+   "id": "VN-H317-A22",
+   "no": 22,
+   "noLabel": {
+    "vi": "Điều 22"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 22\n\nNgười được gọi nhập ngũ phải có mặt đúng thời gian và địa điểm ghi trong lệnh gọi nhập ngũ; nếu không thể đến đúng thời hạn thì phải có giấy chứng nhận của Uỷ ban nhân dân.\n\nNgười không chấp hành lệnh gọi nhập ngũ đã bị xử lý theo điểm 1, Điều 69 của Luật này vẫn nằm trong diện được gọi nhập ngũ cho đến khi hết 35 tuổi."
+   }
+  },
+  {
+   "id": "VN-H317-A23",
+   "no": 23,
+   "noLabel": {
+    "vi": "Điều 23"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 23\n\nUỷ ban nhân dân xã, phường, thị trấn, thủ trưởng cơ quan, xí nghiệp và các đơn vị cơ sở khác có trách nhiệm:\n\n1- Tổ chức tiễn đưa và tạo điều kiện cho người được gọi nhập ngũ của cơ sở mình có mặt đúng thời gian và địa điểm quy định;\n\n2- Thực hiện nghiêm chỉnh các chế độ, chính sách đối với gia đình quân nhân.\n\nMục 2\n\nHỘI ĐỒNG NGHĨA VỤ QUÂN SỰ"
+   }
+  },
+  {
+   "id": "VN-H317-A24",
+   "no": 24,
+   "noLabel": {
+    "vi": "Điều 24"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 24\n\nUỷ ban nhân dân các cấp thành lập Hội đồng nghĩa vụ quân sự ở cấp mình để giúp Uỷ ban thực hiện công tác nghĩa vụ quân sự ở địa phương.\n\nHội đồng nghĩa vụ quân sự các cấp gồm có Chủ tịch là Chủ tịch Uỷ ban nhân dân, Phó Chủ tịch là chỉ huy trưởng quân sự, các uỷ viên là người phụ trách chính các ngành kế hoạch, lao động, công an, y tế, văn hoá, Uỷ ban Mặt trận Tổ quốc, Công đoàn, Đoàn thanh niên Cộng sản Hồ Chí Minh, Hội liên hiệp phụ nữ, và Hội liên hiệp nông dân tập thể.\n\nHội đồng nghĩa vụ quân sự ở các cấp làm việc theo nguyên tắc tập thể; Nghị quyết của Hội đồng phải được quá nửa tổng số thành viên biểu quyết tán thành."
+   }
+  },
+  {
+   "id": "VN-H317-A25",
+   "no": 25,
+   "noLabel": {
+    "vi": "Điều 25"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 25\n\nHội đồng nghĩa vụ quân sự xã, phường, thị trấn có nhiệm vụ giúp Uỷ ban nhân dân:\n\n1- Tổ chức việc tuyên truyền, giáo dục nhân dân nghiêm chỉnh thi hành nghĩa vụ quân sự;\n\n2- Đôn đốc công dân đăng ký nghĩa vụ quân sự;\n\n3- Đề nghị danh sách công dân được gọi nhập ngũ, hoãn gọi nhập ngũ, và miễn làm nhiệm vụ quân sự;\n\n4- Đôn đốc công dân thực hiện lệnh gọi nhập ngũ;\n\n5- Đôn đốc các cơ quan và tổ chức hữu quan chấp hành chính sách hậu phương quân đội ở địa phương."
+   }
+  },
+  {
+   "id": "VN-H317-A26",
+   "no": 26,
+   "noLabel": {
+    "vi": "Điều 26"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 26\n\nHội đồng nghĩa vụ quân sự huyện, quận, thị xã, thành phố thuộc tỉnh có nhiệm vụ giúp Uỷ ban nhân dân:\n\n1- Tổ chức việc khám sức khoẻ cho những người trong diện được gọi nhập ngũ;\n\n2- Lập danh sách công dân được gọi nhập ngũ, hoãn gọi nhập ngũ, và miễn làm nghĩa vụ quân sự;\n\n3- Đôn đốc các cơ quan và tổ chức hữu quan chấp hành chính sách hậu phương quân đội ở địa phương;\n\n4- Chỉ đạo hoạt động của Hội đồng nghĩa vụ quân sự xã, phường, thị trấn."
+   }
+  },
+  {
+   "id": "VN-H317-A27",
+   "no": 27,
+   "noLabel": {
+    "vi": "Điều 27"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 27\n\nHội đồng nghĩa vụ quân sự tỉnh, thành phố trực thuộc trung ương và cấp tương đương có nhiệm vụ giúp Uỷ ban nhân dân:\n\n1- Chỉ đạo hoạt động của Hội đồng nghĩa vụ quân sự huyện, quận, thị xã, thành phố thuộc tỉnh;\n\n2- Xem xét và giải quyết các khiếu nại, tố cáo của công dân đối với quyết định của uỷ ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh về việc gọi, hoãn gọi công dân nhập ngũ, và miễn làm nghĩa vụ quân sự.\n\nCác khiếu nại, tố cáo phải được giải quyết chậm nhất không quá một tháng kể từ ngày nhận; đối với việc cần điều tra lâu hơn thì phải giải quyết chậm nhất không quá hai tháng.\n\nTrong khi các khiếu nại, tố cáo của công dân đang được xem xét thì quyết định của Uỷ ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh vẫn được thi hành."
+   }
+  },
+  {
+   "id": "VN-H317-A28",
+   "no": 28,
+   "noLabel": {
+    "vi": "Điều 28"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 28\n\nViệc khám sức khoẻ cho những người trong diện được gọi nhập ngũ do Hội đồng khám sức khoẻ huyện, quận, thị xã, thành phố thuộc tỉnh phục trách.\n\nKết quả khám sức khoẻ phải được công bố.\n\nMục 3\n\nVIỆC HOÃN GỌI NHẬP NGŨ, VIỆC MIỄN LÀM NGHĨA VỤ QUÂN SỰ"
+   }
+  },
+  {
+   "id": "VN-H317-A29",
+   "no": 29,
+   "noLabel": {
+    "vi": "Điều 29"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 29\n\nĐược hoãn gọi nhập ngũ:\n\n1- Người chưa đủ sức khoẻ phục vụ tại ngũ theo kết luận của Hội đồng khám sức khoẻ.\n\nHàng năm, những người này phải được kiểm tra lại sức khoẻ, để hoặc gọi nhập ngũ, hoặc chuyển sang ngạch dự bị, hoặc miễn làm nghĩa vụ quân sự.\n\n2- Người là lao động duy nhất phải trực tiếp nuôi người khác trong gia đình không còn sức lao động hoặc chưa đến tuổi lao động mà không có nơi nương tựa.\n\n3- Người con trai còn lại duy nhất của gia đình liệt sĩ.\n\n4- Người đang nghiên cứu công trình khoa học cấp Nhà nước được Bộ trưởng, Chủ nhiệm Uỷ ban Nhà nước, thủ trưởng các cơ quan khác thuộc Hội đồng bộ trưởng, hoặc người có chức vụ tương đương chứng nhận.\n\n5- Người đang học ở trường phổ thông trung học, trường dạy nghề; người đang được đào tạo dài hạn ở trường trung học chuyên nghiệp, trường cao đẳng hoặc trường đại học.\n\nHàng năm, những người trong trường hợp nói ở các điểm 2, 3, 4, 5 phải được xem xét lại; nếu không còn lý do hoãn thì được gọi nhập ngũ; nếu hết 27 tuổi mà vẫn còn được hoãn thì chuyển sang ngạch dự bị."
+   }
+  },
+  {
+   "id": "VN-H317-A30",
+   "no": 30,
+   "noLabel": {
+    "vi": "Điều 30"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 30\n\nNgười tàn tật, người mắc bệnh tâm thần hoặc bệnh mãn tính khác theo danh mục bệnh tật do Bộ trưởng Bộ Y tế và Bộ trưởng Bộ quốc phòng quy định thì được miễn làm nghĩa vụ quân sự."
+   }
+  },
+  {
+   "id": "VN-H317-A31",
+   "no": 31,
+   "noLabel": {
+    "vi": "Điều 31"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 31\n\nViệc hoãn gọi nhập ngũ và miễn làm nghĩa vụ quân sự theo Điều 29 và Điều 30 của Luật này do Uỷ ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh quyết định.\n\nDanh sách những người được hoãn gọi nhập ngũ và những người được miễn làm nghĩa vụ quân sự phải được công bố.\n\nMục 4\n\nVIỆC XUẤT NGŨ"
+   }
+  },
+  {
+   "id": "VN-H317-A32",
+   "no": 32,
+   "noLabel": {
+    "vi": "Điều 32"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 32\n\nHạ sĩ quan và binh sĩ đã phục vụ tại ngũ đủ thời hạn quy định ở Điều 14 của Luật này thì được xuất ngũ.\n\nTheo lệnh của Bộ trưởng Bộ quốc phòng, người chỉ huy đơn vị từ cấp trung đoàn trở lên có trách nhiệm thực hiện việc xuất ngũ cho hạ sĩ quan và binh sĩ thuộc quyền.\n\nPhải thông báo thời gian xuất ngũ của hạ sĩ quan và binh sĩ cho địa phương, đơn vị cơ sở, và bản thân quân nhân biết một tháng trước khi hết hạn phục vụ tại ngũ."
+   }
+  },
+  {
+   "id": "VN-H317-A33",
+   "no": 33,
+   "noLabel": {
+    "vi": "Điều 33"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 33\n\nHạ sĩ quan và binh sĩ tại ngũ có thể được xuất ngũ trước thời hạn trong những trường hợp sau đây:\n\n1- Được Hội đồng giám định y khoa quân sự kết luận là không đủ sức khoẻ để tiếp tục phục vụ tại ngũ;\n\n2- Có hoàn cảnh gia đình như quy định ở điểm 2 và điểm 3, Điều 29 của Luật này."
+   }
+  },
+  {
+   "id": "VN-H317-A34",
+   "no": 34,
+   "noLabel": {
+    "vi": "Điều 34"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 34\n\nHạ sĩ quan và binh sĩ đã hết hạn phục vụ tại ngũ có thể tình nguyện ở lại phục vụ trên hạn định thêm một thời gian ít nhất là một năm.\n\nChế độ phục vụ tại ngũ trên hạn định của hạ sĩ quan và binh sĩ do Bộ trưởng Bộ quốc phòng quy định."
+   }
+  },
+  {
+   "id": "VN-H317-A35",
+   "no": 35,
+   "noLabel": {
+    "vi": "Điều 35"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 35\n\nHạ sĩ quan và binh sĩ xuất ngũ khi về đến nơi cư trú, trong thời hạn mười lăm ngày, phải đến Ban chỉ huy quân sự xã, phường, thị trấn và Ban chỉ huy quân sự huyện, quận, thị xã, thành phố thuộc tỉnh để đăng ký vào ngạch dự bị."
+   }
+  },
+  {
+   "id": "VN-H317-A36",
+   "no": 36,
+   "noLabel": {
+    "vi": "Điều 36"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 36\n\nUỷ ban nhân dân xã, phường, thị trấn, thủ trưởng các cơ quan, xí nghiệp và các đơn vị cơ sở khác có trách nhiệm:\n\n1- Tổ chức đón tiếp những quân nhân xuất ngũ trở về;\n\n2- Tạo điều kiện cho quân nhân xuất ngũ nhanh chóng ổn định đời sống.\n\nChương V\n\nVIỆC PHỤC VỤ CỦA HẠ SĨ QUAN VÀ BINH SĨ DỰ BỊ"
+   }
+  },
+  {
+   "id": "VN-H317-A37",
+   "no": 37,
+   "noLabel": {
+    "vi": "Điều 37"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 37\n\nHạ sĩ quan và binh sĩ dự bị chia thành quân nhân dự bị hạng 1 và quân nhân dự bị hạng 2.\n\nQuân nhân dự bị hạng 1 gồm hạ sĩ quan và binh sĩ đã phục vụ tại ngũ đủ thời hạn hoặc trên hạn định; hạ sĩ quan và binh sĩ xuất ngũ trước thời hạn, nhưng đã phục vụ tại ngũ trên 1 năm; hạ sĩ quan và binh sĩ đã trải qua chiến đấu.\n\nQuân nhân dự bị hạng 2 gồm hạ sĩ quan và binh sĩ đã phục vụ tại ngũ dưới 1 năm; công dân nam giới chưa phục vụ tại ngũ vì lý do nói ở Điều 29 của Luật này và đã được chuyển sang ngạch dự bị; phụ nữ đã đăng ký nghĩa vụ quân sự theo Điều 4 của Luật này.\n\nQuân nhân nam giới thuộc loại dự bị hạng 2, nếu đã qua huấn luyện tập trung 12 tháng, thì được chuyển lên quân nhân dự bị hạng 1."
+   }
+  },
+  {
+   "id": "VN-H317-A38",
+   "no": 38,
+   "noLabel": {
+    "vi": "Điều 38"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 38\n\nHạn tuổi phục vụ của hạ sĩ quan và binh sĩ ở ngạch dự bị quy định như sau:\n\nNam giới, đến hết 50 tuổi;\n\nPhụ nữ, đến hết 40 tuổi."
+   }
+  },
+  {
+   "id": "VN-H317-A39",
+   "no": 39,
+   "noLabel": {
+    "vi": "Điều 39"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 39\n\nCăn cứ vào lứa tuổi, quân nhân dự bị nam giới ở mỗi hạng được chia thành 3 nhóm:\n\nNhóm A gồm những người đến hết 35 tuổi;\n\nNhóm B gồm những người từ 36 tuổi đến hết 45 tuổi;\n\nNhóm C gồm những người từ 46 tuổi đến hết 50 tuổi."
+   }
+  },
+  {
+   "id": "VN-H317-A40",
+   "no": 40,
+   "noLabel": {
+    "vi": "Điều 40"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 40\n\nViệc huấn luyện cho quân nhân dự bị quy định như sau:\n\n1- Trong thời gian ở nhóm A, quân nhân dự bị hạng 1 được huấn luyện nhiều nhất là bốn lần, mỗi lần từ 2 tháng đến 3 tháng; quân nhân dự bị hạng 2 được huấn luyện nhiều nhất là 5 lần, mỗi lần từ 2 tháng đến 3 tháng;\n\n2- Trong thời gian ở nhóm B, quân nhân dự bị hạng 1 và hạng 2 được huấn luyện từ 1 đến 2 lần, mỗi lần từ 1 tháng đến 2 tháng;\n\n3- Trong thời gian ở nhóm C, quân nhân dự bị hạng 1 và hạng 2 được huấn luyện một lần, thời gian là 1 tháng."
+   }
+  },
+  {
+   "id": "VN-H317-A41",
+   "no": 41,
+   "noLabel": {
+    "vi": "Điều 41"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 41\n\nGiữa các lần huấn luyện, Bộ trưởng Bộ quốc phòng được quyền gọi tập trung quân nhân dự bị để kiểm tra tình trạng sẵn sàng chiến đấu, trong thời gian không quá 7 ngày."
+   }
+  },
+  {
+   "id": "VN-H317-A42",
+   "no": 42,
+   "noLabel": {
+    "vi": "Điều 42"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 42\n\nViệc gọi quân nhân dự bị tập trung để huấn luyện hoặc kiểm tra tình trạng sẵn sàng chiến đấu theo thời hạn nói ở Điều 40 và Điều 41 của Luật này do Bộ trưởng Bộ quốc phòng quyết định.\n\nKhi cần thiết, Bộ trưởng Bộ quốc phòng được quyền giữ quân nhân dự bị ở lại lớp huấn luyện thêm một thời gian không quá 2 tháng hoặc tăng số lần huấn luyện của quân nhân dự ở nhóm A và nhóm B, nhưng tổng số thời gian của các lần huấn luyện không vượt quá thời gian đã quy định ở Điều 40 và Điều 41 của Luật này."
+   }
+  },
+  {
+   "id": "VN-H317-A43",
+   "no": 43,
+   "noLabel": {
+    "vi": "Điều 43"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 43\n\nViệc kiểm tra sức khoẻ cho quân nhân dự bị do cơ quan y tế huyện, quận, thị xã, thành phố thuộc tỉnh phụ trách."
+   }
+  },
+  {
+   "id": "VN-H317-A44",
+   "no": 44,
+   "noLabel": {
+    "vi": "Điều 44"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 44\n\nHạ sĩ quan và binh sĩ dự bị hết hạn tuổi hoặc không còn đủ sức khoẻ phục vụ ở ngạch dự bị thì được giải ngạch theo quyết định của Chỉ huy trưởng quân sự huyện, quận, thị xã, thành phố thuộc tỉnh.\n\nChương VI\n\nVIỆC PHỤC VỤ CỦA QUÂN NHÂN CHUYÊN NGHIỆP"
+   }
+  },
+  {
+   "id": "VN-H317-A45",
+   "no": 45,
+   "noLabel": {
+    "vi": "Điều 45"
+   },
+   "chapter": {
+    "vi": "Chương VI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 45\n\nQuân nhân chuyên nghiệp là quân nhân có trình độ chuyên môn, kỹ thuật cần thiết cho các công tác chỉ huy, chiến đấu, bảo đảm chiến đấu, xây dựng quân đội, và tình nguyện phục vụ lâu dài trong quân đội."
+   }
+  },
+  {
+   "id": "VN-H317-A46",
+   "no": 46,
+   "noLabel": {
+    "vi": "Điều 46"
+   },
+   "chapter": {
+    "vi": "Chương VI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 46\n\nHạ sĩ quan và binh sĩ hết hạn phục vụ tại ngũ hoặc đang ở ngạch dự bị, có trình độ chuyên môn, kỹ thuật nếu tự nguyện thì có thể được nhận làm quân nhân chuyên nghiệp."
+   }
+  },
+  {
+   "id": "VN-H317-A47",
+   "no": 47,
+   "noLabel": {
+    "vi": "Điều 47"
+   },
+   "chapter": {
+    "vi": "Chương VI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 47\n\nQuân nhân chuyên nghiệp có thể phục vụ tại ngũ từng thời hạn hoặc dài hạn cho đến 50 tuổi.\n\nĐiều lệ phục vụ tại ngũ của quân nhân chuyên nghiệp do Hội đồng bộ trưởng quy định."
+   }
+  },
+  {
+   "id": "VN-H317-A48",
+   "no": 48,
+   "noLabel": {
+    "vi": "Điều 48"
+   },
+   "chapter": {
+    "vi": "Chương VI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 48\n\nQuân nhân chuyên nghiệp xuất ngũ thì chuyển sang phục vụ ở ngạch dự bị, theo các quy định đối với hạ sĩ quan và binh sĩ dự bị.\n\nNgười có đủ tiêu chuẩn thì được phong quân hàm sĩ quan và đăng ký vào ngạch dự bị của sĩ quan.\n\nChương VII\n\nNGHĨA VỤ, QUYỀN LỢI CỦA QUÂN NHÂN CHUYÊN NGHIỆP, HẠ SĨ QUAN, BINH SĨ TẠI NGŨ VÀ DỰ BỊ"
+   }
+  },
+  {
+   "id": "VN-H317-A49",
+   "no": 49,
+   "noLabel": {
+    "vi": "Điều 49"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 49\n\nQuân nhân chuyên nghiệp, hạ sĩ quan, binh sĩ tại ngũ và dự bị có nghĩa vụ:\n\n1- Tuyệt đối trung thành với Tổ quốc, nhân dân và Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam, nêu cao tinh thần cảnh giác cách mạng, sẵn sàng chiến đấu hy sinh bảo vệ vững chắc Tổ quốc Việt Nam xã hội chủ nghĩa và hoàn thành mọi nhiệm vụ được giao;\n\n2- Tôn trọng quyền làm chủ tập thể của nhân dân, kiên quyết bảo vệ tài sản xã hội chủ nghĩa, bảo vệ tính mạng, tài sản của nhân dân;\n\n3- Gương mẫu chấp hành đường lối, chính sách của Đảng, pháp luật của Nhà nước, điều lệnh, điều lệ của quân đội;\n\n4- Ra sức học tập chính trị, quân sự, văn hoá, kỹ thuật, nghiệp vụ, rèn luyện tính tổ chức, tính kỷ luật và thể lực, không ngừng nâng cao bản lĩnh chiến đấu."
+   }
+  },
+  {
+   "id": "VN-H317-A50",
+   "no": 50,
+   "noLabel": {
+    "vi": "Điều 50"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 50\n\nQuân nhân chuyên nghiệp, hạ sĩ quan và binh sĩ tại ngũ và dự bị được gọi tập trung huấn luyện hoặc kiểm tra tình trạng sẵn sàng chiến đấu nếu có thành tích trong chiến đấu, công tác, huấn luyện, thì tuỳ theo công trạng mà được tặng thưởng huân chương, huy chương, danh hiệu vinh dự Nhà nước hoặc các hình thức khen thưởng khác."
+   }
+  },
+  {
+   "id": "VN-H317-A51",
+   "no": 51,
+   "noLabel": {
+    "vi": "Điều 51"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 51\n\nTrong thời gian tại ngũ, quân nhân chuyên nghiệp hưởng chế độ lương, hạ sĩ quan và binh sĩ hưởng chế độ cung cấp theo quy định của Hội đồng bộ trưởng."
+   }
+  },
+  {
+   "id": "VN-H317-A52",
+   "no": 52,
+   "noLabel": {
+    "vi": "Điều 52"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 52\n\nQuân nhân chuyên nghiệp, hạ sĩ quan và binh sĩ dự bị, trong thời gian tập trung huấn luyện và kiểm tra tình trạng sẵn sàng chiến đấu, được hưởng chế độ đãi ngộ do Hội đồng bộ trưởng quy định."
+   }
+  },
+  {
+   "id": "VN-H317-A53",
+   "no": 53,
+   "noLabel": {
+    "vi": "Điều 53"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 53\n\nQuân nhân chuyên nghiệp, hạ sĩ quan và binh sĩ tại ngũ:\n\n1- Được bảo đảm đời sống vật chất và tinh thần;\n\n2- Được tính nhân khẩu ở gia đình khi gia đình được phân phối nhà ở hoặc được điều chỉnh đất ở và đất canh tác dành cho kinh tế phụ gia đình;\n\n3- Được tính thời gia phục vụ tại ngũ vào thời gian công tác;\n\n4- Được ưu tiên mua vé khi đi lại bằng các phương tiện giao thông công cộng;\n\n5- Được hưởng ưu đãi về bưu phí theo quy định của Hội đồng bộ trưởng."
+   }
+  },
+  {
+   "id": "VN-H317-A54",
+   "no": 54,
+   "noLabel": {
+    "vi": "Điều 54"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 54\n\nGia đình của quân nhân tại ngũ được chính quyền và các tổ chức xã hội ở địa phương chăm sóc, giúp đỡ; được hưởng chế độ ưu đãi do Hội đồng bộ trưởng quy định."
+   }
+  },
+  {
+   "id": "VN-H317-A55",
+   "no": 55,
+   "noLabel": {
+    "vi": "Điều 55"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 55\n\nHạ sĩ quan và binh sĩ khi xuất ngũ được hưởng phụ cấp xuất ngũ, tiền tàu xe, phụ cấp đi đường và được cấp quân trang theo quy định của Bộ trưởng Bộ quốc phòng."
+   }
+  },
+  {
+   "id": "VN-H317-A56",
+   "no": 56,
+   "noLabel": {
+    "vi": "Điều 56"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 56\n\n1- Hạ sĩ quan và binh sĩ phục vụ tại ngũ đủ thời hạn hoặc trên hạn định, khi xuất ngũ về địa phương, được chính quyền các cấp giải quyết ưu tiên trong tuyển sinh, tuyển dụng, hoặc trong việc sắp xếp việc làm.\n\n2- Hạ sĩ quan và binh sĩ, trước lúc nhập ngũ đã làm việc ở cơ sở nào, thì khi xuất ngũ được về làm việc tại cơ sở đó.\n\nNếu cơ sở cũ đã giải thể thì cơ quan cấp trên trực tiếp có trách nhiệm tiếp nhận.\n\n3- Hạ sĩ quan và binh sĩ, trước lúc nhập ngũ đã tốt nghiệp các trường dạy nghề, trung học chuyên nghiệp, cao đẳng hoặc đại học, nhưng chưa được phân phối công tác, thì khi xuất ngũ được ưu tiên phân phối công tác và được miễn chế độ tập sự.\n\n4- Hạ sĩ quan và binh sĩ, trước lúc nhập ngũ có giấy gọi vào học ở các trường dạy nghề, trung học chuyên nghiệp, cao đẳng hoặc đại học, thì khi xuất ngũ được vào học ở các trường đó."
+   }
+  },
+  {
+   "id": "VN-H317-A57",
+   "no": 57,
+   "noLabel": {
+    "vi": "Điều 57"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 57\n\nQuân nhân chuyên nghiệp, hạ sĩ quan, binh sĩ tại ngũ và dự bị, nếu bị thương, bị bệnh hoặc chết trong khi làm nhiệm vụ bảo vệ Tổ quốc hoặc thực hiện nhiệm vụ quân sự, thì bản thân và gia đình được hưởng chế độ ưu đãi theo quy định của Hội đồng bộ trưởng.\n\nChương VIII\n\nVIỆC ĐĂNG KÝ NGHĨA VỤ QUÂN SỰ"
+   }
+  },
+  {
+   "id": "VN-H317-A58",
+   "no": 58,
+   "noLabel": {
+    "vi": "Điều 58"
+   },
+   "chapter": {
+    "vi": "Chương VIII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 58\n\nViệc đăng ký quân nhân dự bị và người sẵn sàng nhập ngũ được tiến hành tại nơi họ cư trú theo hai cấp:\n\n1- Đăng ký ở xã, phường, thị trấn do Ban chỉ huy quân sự xã, phường, thị trấn phụ trách;\n\n2- Đăng ký ở huyện, quận, thị xã, thành phố thuộc tỉnh do Ban chỉ huy quân sự huyện, quận, thị xã, thành phố thuộc tỉnh phụ trách."
+   }
+  },
+  {
+   "id": "VN-H317-A59",
+   "no": 59,
+   "noLabel": {
+    "vi": "Điều 59"
+   },
+   "chapter": {
+    "vi": "Chương VIII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 59\n\nQuân nhân dự bị và người sẵn sàng nhập ngũ, khi chuyển chỗ ở đến địa phương khác, phải đến Ban chỉ huy quân sự xã, phường, thị trấn và Ban chỉ huy quân sự huyện, quận, thị xã, thành phố thuộc tỉnh để xoá tên trong sổ đăng ký; khi đến nơi ở mới, trong thời hạn bảy ngày, phải đến Ban chỉ huy quân sự xã, phường, thị trấn và trong thời hạn mười ngày, phải đến Ban chỉ huy quân sự huyện, quận, thị xã, thành phố thuộc tỉnh để ghi tên vào sổ đăng ký."
+   }
+  },
+  {
+   "id": "VN-H317-A60",
+   "no": 60,
+   "noLabel": {
+    "vi": "Điều 60"
+   },
+   "chapter": {
+    "vi": "Chương VIII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 60\n\nKhi quân nhân dự bị và người sẵn sàng nhập ngũ có thay đổi về địa chỉ nơi làm việc hoặc nơi học tập, về chức vụ công tác, về trình độ văn hoá, thì trong thời hạn mười ngày, phải đến Ban chỉ huy quân sự xã, phường, thị trấn để đăng ký bổ sung."
+   }
+  },
+  {
+   "id": "VN-H317-A61",
+   "no": 61,
+   "noLabel": {
+    "vi": "Điều 61"
+   },
+   "chapter": {
+    "vi": "Chương VIII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 61\n\nThủ trưởng cơ quan, xí nghiệp và các tổ chức khác của cấp trên đóng ở huyện, quận, thị xã, thành phố thuộc tỉnh phải thống kê quân nhân dự bị và người sẵn sàng nhập ngũ của cơ sở mình và gửi đến Ban chỉ huy quân sự huyện, quận, thị xã, thành phố thuộc tỉnh, theo quy định của Bộ trưởng Bộ quốc phòng."
+   }
+  },
+  {
+   "id": "VN-H317-A62",
+   "no": 62,
+   "noLabel": {
+    "vi": "Điều 62"
+   },
+   "chapter": {
+    "vi": "Chương VIII"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 62\n\nToà án nhân dân, Viện kiểm sát nhân dân, cơ quan Công an và các cơ quan hữu quan khác, trong phạm vi chức năng của mình, có trách nhiệm phối hợp với cơ quan quân sự cùng cấp trong việc thực hiện các quy định về quản lý người sẵn sàng nhập ngũ và quân nhân dự bị.\n\nChương IX\n\nVIỆC NHẬP NGŨ THEO LỆNH TỔNG ĐỘNG VIÊN HOẶC LỆNH ĐỘNG VIÊN CỤC BỘ, VIỆC XUẤT NGŨ THEO LỆNH PHỤC VIÊN"
+   }
+  },
+  {
+   "id": "VN-H317-A63",
+   "no": 63,
+   "noLabel": {
+    "vi": "Điều 63"
+   },
+   "chapter": {
+    "vi": "Chương IX"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 63\n\nKhi có lệnh tổng động viên hoặc lệnh động viên cục bộ, việc gọi nhập ngũ theo các lệnh đó, và những lần gọi tiếp được tiến hành theo quyết định của Hội đồng bộ trưởng và lệnh của Bộ trưởng Bộ quốc phòng."
+   }
+  },
+  {
+   "id": "VN-H317-A64",
+   "no": 64,
+   "noLabel": {
+    "vi": "Điều 64"
+   },
+   "chapter": {
+    "vi": "Chương IX"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 64\n\nKhi có lệnh tổng động viên hoặc lệnh động viên cục bộ thì:\n\n1- Việc xuất ngũ sẽ đình lại đối với quân nhân hết thời hạn phục vụ tại ngũ;\n\n2- Quân nhân dự bị phải có mặt đúng thời gian và địa điểm ghi trong lệnh gọi nhập ngũ."
+   }
+  },
+  {
+   "id": "VN-H317-A65",
+   "no": 65,
+   "noLabel": {
+    "vi": "Điều 65"
+   },
+   "chapter": {
+    "vi": "Chương IX"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 65\n\nViệc miễn gọi nhập ngũ trong thời chiến do Hội đồng bộ trưởng quy định."
+   }
+  },
+  {
+   "id": "VN-H317-A66",
+   "no": 66,
+   "noLabel": {
+    "vi": "Điều 66"
+   },
+   "chapter": {
+    "vi": "Chương IX"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 66\n\nTrong thời chiến, gia đình quân nhân được hưởng chế độ ưu đãi do Hội đồng bộ trưởng quy định."
+   }
+  },
+  {
+   "id": "VN-H317-A67",
+   "no": 67,
+   "noLabel": {
+    "vi": "Điều 67"
+   },
+   "chapter": {
+    "vi": "Chương IX"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 67\n\nKhi có lệnh phục viên quân đội sau chiến tranh, việc cho quân nhân xuất ngũ được tiến hành theo quyết định của Hội đồng bộ trưởng và lệnh của Bộ trưởng Bộ quốc phòng."
+   }
+  },
+  {
+   "id": "VN-H317-A68",
+   "no": 68,
+   "noLabel": {
+    "vi": "Điều 68"
+   },
+   "chapter": {
+    "vi": "Chương IX"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 68\n\nQuân nhân xuất ngũ nói ở Điều 67 được hưởng các quyền lợi như quy định ở Điều 55 và Điều 56 của Luật này.\n\nChương X\n\nVIỆC XỬ LÝ CÁC VI PHẠM"
+   }
+  },
+  {
+   "id": "VN-H317-A69",
+   "no": 69,
+   "noLabel": {
+    "vi": "Điều 69"
+   },
+   "chapter": {
+    "vi": "Chương X"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 69\n\n1- Người nào đang ở lứa tuổi làm nghĩa vụ quân sự mà không chấp hành đúng những quy định về đăng ký nghĩa vụ quân sự, không chấp hành lệnh gọi nhập ngũ, lệnh gọi tập trung huấn luyện thì tuỳ mức độ nhẹ hoặc nặng mà bị xử lý bằng biện pháp hành chính, bị phạt cải tạo không giam giữ từ ba tháng đến hai năm, hoặc bị phạt tù từ ba tháng đến hai năm.\n\nPhạm tội trong thời chiến hoặc có tình tiết tăng nặng khác thì bị phạt tù từ sáu tháng đến năm năm.\n\n2- Người nào lợi dụng chức vụ, quyền hạn, làm trái các quy định về đăng ký nghĩa vụ quân sự, gọi nhập ngũ, gọi tập trung huấn luyện, thì tuỳ mức độ nhẹ hoặc nặng mà bị xử lý theo kỷ luật hành chính, hoặc bị phạt tù từ sáu tháng đến năm năm.\n\n3- Người nào có hành vi cản trở việc đăng ký nghĩa vụ quân sự, việc thi hành lệnh gọi nhập ngũ, lệnh gọi tập trung huấn luyện, thì tuỳ mức độ nhẹ hoặc nặng mà bị xử lý bằng biện pháp hành chính, hoặc bị phạt tù từ ba tháng đến ba năm.\n\nPhạm những tội nói ở điểm 2 và điểm 3 trong thời chiến hoặc có tình tiết tăng nặng khác, thì bị phạt tù đến mười năm."
+   }
+  },
+  {
+   "id": "VN-H317-A70",
+   "no": 70,
+   "noLabel": {
+    "vi": "Điều 70"
+   },
+   "chapter": {
+    "vi": "Chương X"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 70\n\nQuân nhân đào ngũ thì bị xử lý theo điều lệnh kỷ luật của quân đội, hoặc bị phạt tù từ sáu tháng đến ba năm.\n\nPhạm tội trong thời chiến hoặc có tình tiết tăng nặng khác thì bị phạt tù đến mười lăm năm."
+   }
+  },
+  {
+   "id": "VN-H317-A71",
+   "no": 71,
+   "noLabel": {
+    "vi": "Điều 71"
+   },
+   "chapter": {
+    "vi": "Chương X"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 71\n\nNgười nào bao che người phạm tội nói ở điểm 1, Điều 69, và ở Điều 70 của Luật này thì tuỳ theo mức độ nhẹ hoặc nặng mà bị xử lý theo kỷ luật hành chính, hoặc bị phạt tù từ ba tháng đến ba năm.\n\nChương XI\n\nĐIỀU KHOẢN CUỐI CÙNG"
+   }
+  },
+  {
+   "id": "VN-H317-A72",
+   "no": 72,
+   "noLabel": {
+    "vi": "Điều 72"
+   },
+   "chapter": {
+    "vi": "Chương XI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 72\n\nLuật này thay thế Luật nghĩa vụ quân sự ngày 15 tháng 4 năm 1960, và các Luật sửa đổi và bổ sung Luật nghĩa vụ quân sự ngày 26 tháng 10 năm 1962 và ngày 10 tháng 4 năm 1965."
+   }
+  },
+  {
+   "id": "VN-H317-A73",
+   "no": 73,
+   "noLabel": {
+    "vi": "Điều 73"
+   },
+   "chapter": {
+    "vi": "Chương XI"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 73\n\nHội đồng bộ trưởng quy định chi tiết thi hành Luật này.\n\nLuật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá VII, kỳ họp thứ 2, thông qua ngày 30 tháng 12 năm 1981.\n\n1:{\"id\":\"3871\",\"docType\":{\"id\":\"11025e19-2dd6-4165-85ad-ab6241186a1a\",\"name\":\"Luật\",\"code\":\"Lu\",\"parentCode\":\"VBQPPL\",\"parentName\":null},\"docGroup\":\"VBQPPL\",\"docNum\":\"Không số\",\"title\":\"Luật Nghĩa vụ quân sự số Không số\",\"applicationNote\":\"Bị hết hiệu lực bởi Luật 78/2015/QH13 Nghĩa vụ quân sự\",\"issueDate\":\"1981-12-30T00:00:00\",\"effFrom\":\"1982-01-10T00:00:00\",\"effTo\":\"2016-01-01T00:00:00\",\"publicDate\":\"1991-01-03T00:00:00\",\"effStatus\":{\"id\":\"f55c1469-4341-4274-93ef-32b283db4dbd\",\"name\":\"Hết hiệu lực toàn bộ\",\"code\":\"HHL\",\"parentCode\":null,\"parentName\":null},\"status\":\"Publish\",\"lang\":\"vi\",\"defaultLanguage\":\"VN\",\"updatedBy\":\"dungdvm_II.2\",\"updatedDate\":\"2026-03-29T11:13:07\",\"agencyName\":\"Quốc hội\",\"organization\":{\"id\":\"93724a75-0d15-4e7b-a4df-4282a2bea6a0\",\"code\":\"BQP\",\"name\":\"Bộ Quốc phòng\",\"nameEn\":\"Bộ Quốc phòng\",\"shortName\":\"BQP\",\"orgType\":\"0\"},\"isLw\":true,\"documentContent\":{\"id\":\"3871\",\"title\":null,\"content\":\"$2\"},\"documentContentEn\":null,\"documentContentFileName\":null,\"documentContentFileDocName\":null,\"documentIssues\":[{\"id\":\"6474f4c2-12e8-4fd9-b61a-2127f97e954e\",\"agencyId\":\"55\",\"agencyName\":\"Quốc hội\",\"agencyNameEn\":\"National Assembly of Vietnam\",\"agencyCode\":\"QH\",\"personId\":\"667\",\"personName\":\"Nguyễn Hữu Thọ\",\"jobTitleId\":\"28da0087-8afd-420c-875c-b2369e212c3e\",\"jobTitleCode\":\"CTQH\",\"jobTitleName\":\"Chủ tịch Quốc hội\",\"orderIndex\":1}],\"documentMajors\":[],\"documentFields\":[{\"id\":\"76e2c0d5-e93e-4ee9-8c72-59dae1167432\",\"name\":\"Chưa phân loại\",\"code\":null,\"parentCode\":null,\"parentName\":null}],\"documentRelatedList\":[{\"id\":\"c51627f5-fb29-4940-b927-eb25a84fbef0\",\"fileName\":\"3871_body_content.html\",\"relatedType\":\"MARKDOWN\",\"fileTitle\":\"3871_body_content.html\",\"fileOrder\":null}],\"provisionTree\":null,\"references\":null,\"isEffectAllDocument\":false,\"isOld\":true,\"reviewStatus\":\"INITIAL\",\"reviewed\":false,\"isTranslationDoc\":false,\"isConsolidatedDocument\":false,\"isConstitutionDocument\":false,\"isAdministrativeDocument\":false,\"viewCount\":45,\"showViewCount\":true,\"hasContent\":true,\"hasOriginalPdf\":null,\"hasAIProcessed\":false,\"hasClauseRelation\":true,\"aiResults\":[]}"
+   }
+  }
+ ]
+}

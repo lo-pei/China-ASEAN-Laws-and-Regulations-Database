@@ -1,0 +1,180 @@
+{
+ "id": "MY-H262",
+ "title": {
+  "zh": "1957年选举委员会法",
+  "en": "ELECTION COMMISSION ACT 1957",
+  "orig": "ELECTION COMMISSION ACT 1957",
+  "vi": "Luật về Ủy ban Bầu cử năm 1957",
+  "th": "พระราชบัญญัติคณะกรรมการการเลือกตั้ง ค.ศ. 1957",
+  "id": "Undang-Undang Komisi Pemilihan Tahun 1957",
+  "ms": "Akta Suruhanjaya Pilihan Raya 1957"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-6",
+ "language": "en",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "1957",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "ACT31",
+ "topics": [],
+ "summary": null,
+ "coverage": "partial",
+ "structureMode": "ARTICLE",
+ "articleCount": 10,
+ "chars": 6464,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-detail.php?act=31&lang=BI"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\01_宪法与基础法\\1957_31_ELECTION COMMISSION ACT 1957.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 11 条；逐字未改写（源自厂商 OCR 文本）。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H262-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "1. This Ordinance may be cited as the Election\nCommission Ordinance, 1957, and shall subject to the\nprovisions of Clause (1) of Article 7 of the Constitution,\nbe deemed to have come into force on Merdeka Day.\n\nPART II\n\nPRIVILEGES AND PROTECTION"
+   }
+  },
+  {
+   "id": "MY-H262-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {
+    "en": "PART II"
+   },
+   "heading": {},
+   "text": {
+    "en": "2. No person shall in any legal proceedings be per-\nmitted or compelled to produce or disclose any\ncommunication written or oral which has taken place\nbetween the Election Commission or any member of\nthe Commission and the Government or any Minister\nor public officer or any communication between mem-\nbers of the Election Commission in exercise of or in\nconnection with the exercise of the functions of the\nCommission unless the Yang di-Pertuan Agong shall\nin writing consent to such production or disclosure."
+   }
+  },
+  {
+   "id": "MY-H262-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "chapter": {
+    "en": "PART II"
+   },
+   "heading": {},
+   "text": {
+    "en": "3. Every member of the Election Commission shall\nhave such and like protection and privileges in case\nof any action or suit brought against him for any act\ndone or omitted to be done by him when acting in the\nexecution of his office as is by law given to any\nMagistrate acting in the execution of his office.\n\nPart III\nOFFENCES\n\n4, Any person who, in connection with the exercise\nby the Election Commission of any of its functions,\nwilfully gives to the Commission or to any member\nthereof or to any person or body of persons appointed\n\nELECTION COMMISSION                    511\n\nby the Commission to assist in the exercise of its\nfunctions any information which is false or misleading\nin any material particular shall be guilty of an offence\nand shall be liable to imprisonment for a term of two\nyears or to a fine of two thousand dollars or to both\nsuch imprisonment and fine."
+   }
+  },
+  {
+   "id": "MY-H262-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "chapter": {
+    "en": "Part III"
+   },
+   "heading": {},
+   "text": {
+    "en": "5. (1) No member of the Election Commission nor\nany other person shall, without the written permission\nof the Yang di-Pertuan Agong, publish or disclose to\nany unauthorised person or otherwise than in the course\nof duty the contents or any part of the contents of any\ndocuments, communication or information whatsoever\nwhich has come to his knowledge in the course of his\nduty as such member in respect of any matters relating\nto the exercise by the Commission of any of its\nfunctions, and any person who knowingly acts in con-\ntravention of the provisions of this sub-section shall\nbe guilty of an offence and shall be liable to imprison-\nment for a term of one year or to a fine of one thousand\ndollars or to both such imprisonment and fine.\n\n(2) If any person having possession of any informa-\ntion which to his knowledge has been disclosed in\ncontravention of the provisions of this section publishes\nor communicates such information to any person\notherwise than for the purpose of a prosecution under\nthis Ordinance, he shall be guilty of an offence and shall\nbe liable to imprisonment for a term of one year or to\na fine of one thousand dollars or to both such imprison-\nment and fine."
+   }
+  },
+  {
+   "id": "MY-H262-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "chapter": {
+    "en": "Part III"
+   },
+   "heading": {},
+   "text": {
+    "en": "6. Every person who, otherwise than in the course\nof his duty, directly or indirectly by himself or by any\nother person in any manner whatsoever influences or\nattempts to influence any decision of the Election\nCommission or any member thereof shall be guilty of\nan offence and shall be liable to imprisonment for a\nterm of two years or to a fine of two thousand dollars\nor to both such fine and imprisonment:\n\nProvided that nothing in this section shall prohibit\nany person from supplying any information or assis-\ntance upon formal request made by the Commission."
+   }
+  },
+  {
+   "id": "MY-H262-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7"
+   },
+   "chapter": {
+    "en": "Part III"
+   },
+   "heading": {},
+   "text": {
+    "en": "7. Every member, officer and servant of the Election\nCommission shall be deemed to be a public servant\nwithin the meaning of the Penal Code.\n\nUnautho-\nrised publi-\ncation and\ndisclosure\nof informa-\ntion.\n\nInfluencing\nor attemp-\nting to\ninfluence\nCommission.\n\nMembers,\nofficers and\nservants of\nCommission\ndeemed\npublic\nservants\nunder the\nPenal Code,\nF.M.S.\n\nCap. 45.\n\nConscnt of\nPublic\nProsccutor\nto prosecu-\ntions.\n\nRemune-\nration.\n\nProvision\nagainst\ndouble\nsalary.\n\nCharge of\nsalary.\n\n512           No. 76 oF 1957"
+   }
+  },
+  {
+   "id": "MY-H262-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8"
+   },
+   "chapter": {
+    "en": "Part III"
+   },
+   "heading": {},
+   "text": {
+    "en": "8. A prosecution under this Ordinance shall not be\ninstituted except by or with the consent of the Public\nProsecutor.\n\nPart IV\nREMUNERATION"
+   }
+  },
+  {
+   "id": "MY-H262-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "9. (1) The remuneration of the members of the\nElection Commission shall consist of the salary,\nallowances and privileges prescribed in the Schedule.\n\n(2) The salary of each member of the Election\nCommission shall—\n(a) commence from the date of his appointment;\n(b) accrue from day to day; and\n(c) be payable monthly on the last day of each\nmonth, or on such other day as the Minister\nof Finance may from time to time determine."
+   }
+  },
+  {
+   "id": "MY-H262-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "10. A person to whom salary is payable under this\nOrdinance or for whose salary as the holder of any\nother office provision is made by any other written law\nshall be entitled to receive only one such salary, but\nif he is the holder of two or more offices in respect of\nwhich salary is so payable and there is a difference in\nthe salaries payable in respect of those offices, the office\nin respect of which salary is payable to him shall be\nthat in respect of which the highest salary is payable."
+   }
+  },
+  {
+   "id": "MY-H262-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "11. (1) The sum required for the remuneration\npayable under this Ordinance shall be charged on the\nConsolidated Fund.\n\n(2) Until the coming into operation of Part VII of\nthe Federal Constitution the sum charged by sub-\nsection (1) on the Consolidated Fund shall be charged\non and paid out of the revenues of the Federation.\n\nSCHEDULE\n(Section 9)\n\n1. SALARY:\n1. Chairman                  $2,500 per month.\n2, Member             A salary of $750 per\n\nmonth together with\na sum of $50 in\nrespect of each day\non which the mem-\nber attends a meet-\ning of the Commis-\nsion: provided that\nsuch salary shall not\nexceed $1,750 in any\none month.\n\n<p\n\nELECTION COMMISSION                     513\n\nSUBSISTENCE ALLOWANCE:\n_ Allowance at the same rate as that payable to officers\nin Division I of the general public service shall be paid.\nQUARTERS:\n\nFurnished quarters as for officers in Division I of the\ngeneral public service shall, if available, be provided at\nthe rates payable by such officers, or a house allowance\nof $100 per month shall be paid in lieu thereof.\n\nx\nMEDICAL FACILITIES:\nThe same facilities shall be provided as for officers in\nDivision I of the general public service.\nLEAVE:\nOne month's vacation leave in respect of each complete\nyear of service with the Commission shall be granted.\nMILEAGB ALLOWANCE:\n\nA mileage allowance, at the rate payable to officers in\nDivision I of the general public service shall be paid for\njourneys on official duty (journeys between house and\noffice excepted)."
+   }
+  }
+ ]
+}

@@ -1,0 +1,102 @@
+{
+ "id": "MY-H921",
+ "title": {
+  "zh": "2016年最低工资令",
+  "en": "MINIMUM WAGES ORDER 2016",
+  "orig": "MINIMUM WAGES ORDER 2016",
+  "ms": "Perintah Upah Minimum 2016",
+  "vi": "Lệnh về Tiền lương tối thiểu năm 2016",
+  "th": "คำสั่งค่าจ้างขั้นต่ำ ค.ศ. 2016",
+  "id": "Perintah Upah Minimum Tahun 2016"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-17",
+ "language": "ms",
+ "level": "regulation",
+ "category": "04_劳工与行政法",
+ "status": "active",
+ "promulgatedDate": "2016",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "PUA116",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 5,
+ "chars": 1681,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-view.php?type=pua&no=P.U. (A) 116/2016&status=PRINCIPAL"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\04_劳工与行政法\\2016_P.U.(A)116-2016_MINIMUM WAGES ORDER 2016.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 5 条；逐字未改写（源自厂商 OCR 文本）。原文马来文/英文双语并置，已分别落 text.ms 与 text.en。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H921-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "1. (1) Perintah ini bolehlah dinamakan Perintah Gaji Minimum 2016.\n\n(2) Perintah ini mula berkuat kuasa pada 1 Julai 2016.\n\nKetidakpakaian"
+   }
+  },
+  {
+   "id": "MY-H921-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "2. Perintah ini tidak terpakai bagi pekhidmat domestik sebagaimana yang\n\nditakrifkan di bawah seksyen 2 Akta Kerja 1955 [Akta 265], seksyen 2 Ordinan Buruh\n\nSabah [Bab 67] dan seksyen 2 Ordinan Buruh Sarawak [Bab 76].\n\nKadar gaji minimum"
+   }
+  },
+  {
+   "id": "MY-H921-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "3. Kadar gaji minimum yang kena dibayar kepada seseorang pekerja hendaklah\n\nseperti yang berikut:\n\nKawasan wilayah\n\nKadar gaji minimum\n\nBulanan Harian Setiap jam\n\nSemenanjung Malaysia RM1,000\n\nBilangan hari bekerja\n\ndalam seminggu\n\n6 RM38.46 RM4.81\n\n5 RM46.15\n\n4 RM57.69\n\nSabah, Sarawak dan\n\nWilayah Persekutuan\n\nLabuan\n\nRM920\n\n6 RM35.38\n\n5 RM42.46 RM4.42\n\n4 RM53.08\n\nKadar gaji bagi pekerja yang dibayar hanya berdasarkan upah ikut kerja, berat\n\ntan, dsb."
+   }
+  },
+  {
+   "id": "MY-H921-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "4. Berhubung dengan seseorang pekerja yang tidak dibayar gaji pokok tetapi\n\ndibayar gaji hanya berdasarkan upah ikut kerja, berat tan, tugasan, perjalanan atau\n\nkomisen, kadar gaji bulanan yang kena dibayar kepada pekerja itu hendaklah tidak\n\nkurang daripada kadar yang berikut:\n\nKawasan wilayah Kadar gaji\n\n(Bulanan)\n\nSemenanjung Malaysia RM1,000\n\nSabah, Sarawak dan Wilayah\n\nPersekutuan Labuan RM920\n\nPembatalan"
+   }
+  },
+  {
+   "id": "MY-H921-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "5. Perintah Gaji Minimum 2012 [P.U. (A) 214/2012] dibatalkan.\n\nDibuat 27 April 2016\n\n[KSM/PUU(R) 600-1/2/17/1; PN(PU2)700/IV]\n\nDATO' SRI RICHARD RIOT ANAK JAEM\n\nMenteri Sumber Manusia\n\nNATIONAL WAGES CONSULTATIVE COUNCIL ACT 2011\n\nMINIMUM WAGES ORDER 2016\n\nIN exercise of the powers conferred by section 23 of the National Wages Consultative\n\nCouncil Act 2011 [Act 732], the Minister makes the following order:\n\nCitation and commencement"
+   }
+  }
+ ]
+}

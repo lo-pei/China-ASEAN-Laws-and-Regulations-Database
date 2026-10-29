@@ -1,0 +1,82 @@
+{
+ "id": "PH-H14266",
+ "title": {
+  "zh": null,
+  "en": "An Act Appropriating the Sum of One Hundred thousand Pesos as Contribution for the Promotion of Tourist Travel to and in the Philippine Islands.",
+  "orig": "An Act Appropriating the Sum of One Hundred thousand Pesos as Contribution for the Promotion of Tourist Travel to and in the Philippine Islands."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1929-12-06",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3633",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 1263,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1929/act_3633_1929.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03633_1929_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03633_1929_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14266-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "There is hereby appropriated from any unappropriated funds in the Insular Treasury, the sum of\none hundred thousand pesos, or so much thereof as may be necessary, as a contribution for the promotion of\ntourist travel to and in the Philippine Islands."
+   }
+  },
+  {
+   "id": "PH-H14266-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Out of this fund there shall be paid to the Philippine Tourist Association, with the approval of\nthe Secretary of Commerce and Communications, amounts equal to the contributions which may be paid from\ntime to time by private persons and organizations to the Philippine Tourist Association for the promotion of\ntourist travel: Provided, That no part of the sum paid out of the Insular Treasury shall be spent except with the\napproval of the Secretary of Commerce and Communications who shall be furnished from time to time with\nan itemized statement of the expenditures made: And provided, further, That no part of the aforesaid sum shall\nbe set up on the books of the Insular Auditor until such time as it becomes necessary to make the payments\nauthorized by this Act."
+   }
+  },
+  {
+   "id": "PH-H14266-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "The Philippine Tourist Association shall submit a report to the Philippine Legislature each year,\non work undertaken by it, results obtained therefrom, and expenditures made."
+   }
+  },
+  {
+   "id": "PH-H14266-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, December 6, 1929."
+   }
+  }
+ ]
+}

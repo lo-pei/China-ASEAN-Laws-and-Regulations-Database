@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13095",
+ "title": {
+  "zh": null,
+  "en": "An Act Appropriating the Sum of One Hundred and thirty-Five thousand Pesos, for the Construction and Reconstruction of that Part of the Naguilian-Baguio Road, Including Bridges and Culverts, Lying Within the Mountain Province, and for the Necessary Bridges, Ferries, or Cable Crossings Over the Ripsuan River.",
+  "orig": "An Act Appropriating the Sum of One Hundred and thirty-Five thousand Pesos, for the Construction and Reconstruction of that Part of the Naguilian-Baguio Road, Including Bridges and Culverts, Lying Within the Mountain Province, and for the Necessary Bridges, Ferries, or Cable Crossings Over the Ripsuan River."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1914-03-10",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2397",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 580,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1914/act_2397_1914.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02397_1914_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02397_1914_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13095-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The sum of one hundred and thirty-five thou- Appropriation, sand pesos, or so much thereof as\nmay be necessary, is hereby appropriated, out of any funds in the Insular Treasury not otherwise appropriated,\nto be expended under the direction of the Secretary of Commerce and Police for the construction and\nreconstruction of that part of the Naguilian-Baguio Road, including bridges and culverts, lying within the\nMountain Province, and for the necessary bridges, ferries, or cable crossings over the Ripsuan River."
+   }
+  },
+  {
+   "id": "PH-H13095-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, March 10, 1914."
+   }
+  }
+ ]
+}

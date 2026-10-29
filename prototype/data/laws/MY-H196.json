@@ -1,0 +1,66 @@
+{
+ "id": "MY-H196",
+ "title": {
+  "zh": "1950年生存推定法",
+  "en": "PRESUMPTION OF SURVIVORSHIP ACT 1950",
+  "orig": "PRESUMPTION OF SURVIVORSHIP ACT 1950",
+  "vi": "Luật về Suy đoán còn sống năm 1950",
+  "th": "พระราชบัญญัติการสันนิษฐานการมีชีวิตอยู่ ค.ศ. 1950",
+  "id": "Undang-Undang Praduga Hidup Lebih Lama Tahun 1950",
+  "ms": "Akta Anggapan Hidup Lebih Lama 1950"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-4",
+ "language": "en",
+ "level": "law",
+ "category": "05_其他及未分类",
+ "status": "active",
+ "promulgatedDate": "1950",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "ACT205",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 2,
+ "chars": 441,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-detail.php?act=205&lang=BI"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\05_其他及未分类\\1950_205_PRESUMPTION OF SURVIVORSHIP ACT 1950.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 2 条；逐字未改写（源自厂商 OCR 文本）。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H196-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "1. This Ordinance may be cited As the Presumption\nof Survivorship Ordinance, 1950"
+   }
+  },
+  {
+   "id": "MY-H196-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "2. In all cases where two of more persons die in\ncircumstances rendering it ufcertain which of them\nsurvived the other or others, Such deaths shall (subject\nto any order of the Court)/for all purposes affecting\nthe title to property be pyesumed to have occurred in\norder of seniority and a¢cordingly the younger shall\nbe deemed to have surv}  ed the elder.\n\n(/"
+   }
+  }
+ ]
+}

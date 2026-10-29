@@ -1,0 +1,72 @@
+{
+ "id": "PH-H11441",
+ "title": {
+  "zh": null,
+  "en": "AN ACT AUTHORIZING THE PROVINCIAL BOARD OF THE PROVINCE OF AMBOS CAMARINES TO MAINTAIN A FORCE OF VOLUNTEERS DURING THE OPERATIONS AGAINST LADRONES IN THE PROVINCE OF ALBAY.",
+  "orig": "AN ACT AUTHORIZING THE PROVINCIAL BOARD OF THE PROVINCE OF AMBOS CAMARINES TO MAINTAIN A FORCE OF VOLUNTEERS DURING THE OPERATIONS AGAINST LADRONES IN THE PROVINCE OF ALBAY."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 728",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 925,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_00728_1903_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_00728_1903_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H11441-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The provincial board of the Province of Ambos Camarines is hereby authorized to make provision\nfor the pay and subsistence of a force of volunteers organized for the purpose oi protecting the boundary line\nbetween the Provinces of Albay and Ambos Camarines during the active operation against ladrones in the\nProvince of Albay, and for other expenses incidental to such campaign. The provincial treasurer of the\nProvince of Ambos Camarines is hereby authorized to make payment out of provincial funds for such\nexpenditures, pursuant to appropriation duly made by the provincial board."
+   }
+  },
+  {
+   "id": "PH-H11441-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The public good requiring the speedy enactment of this bill, the passage of the same is hereby\nexpedited in accordance with section two of \"An Act prescribing the order of procedure by the Commission\nin the enactment of laws,\" passed September twenty-sixth, nineteen hundred."
+   }
+  },
+  {
+   "id": "PH-H11441-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, April 7, 1903."
+   }
+  }
+ ]
+}

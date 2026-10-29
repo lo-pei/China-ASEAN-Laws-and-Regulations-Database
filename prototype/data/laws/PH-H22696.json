@@ -1,0 +1,72 @@
+{
+ "id": "PH-H22696",
+ "title": {
+  "zh": null,
+  "en": "Allowing Applicants for Naturalization as Citizens of the Philippines to Conditionally Take Any Board Examination, Except the Bar Examinations, If Otherwise Qualified, Pending Approval of Their Said Applications",
+  "orig": "Allowing Applicants for Naturalization as Citizens of the Philippines to Conditionally Take Any Board Examination, Except the Bar Examinations, If Otherwise Qualified, Pending Approval of Their Said Applications"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1978-04-17",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 1350",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1021,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_01350_1978_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_01350_1978_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22696-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Any provision of existing laws to the contrary notwithstanding, any alien who has filed an\napplication for naturalization as citizen of the Philippines by decree may, pending approval thereof, be\nallowed to take any examination given by the various Boards of Examiners for the different professions,\nexcept the bar examinations, if said alien is otherwise qualified to take the examination: Provided, That in case\nhe passes the examination the results thereof shall be withheld insofar as he is concerned and he shall not be\nissued the certificate of registration to practice the particular profession until his application for naturalization\nis approved and he takes his oath as citizen of the Philippines."
+   }
+  },
+  {
+   "id": "PH-H22696-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "All laws, decrees, orders, rules and regulations or parts thereof inconsistent with the provisions\nof this Decree are hereby repealed or modified accordingly."
+   }
+  },
+  {
+   "id": "PH-H22696-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Decree shall take effect immediately.\nDone in the City of Manila, this 17th day of April, in the year of Our Lord, nineteen hundred and\n\nseventy-eight."
+   }
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "id": "PH-H22505",
+ "title": {
+  "zh": null,
+  "en": "Amending Presidential Decree Numbered Eleven Hundred Thirty-Seven By Adding a New Section Five After Section Four Thereof",
+  "orig": "Amending Presidential Decree Numbered Eleven Hundred Thirty-Seven By Adding a New Section Five After Section Four Thereof"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1977-05-28",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 1143",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 557,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_01143_1977_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_01143_1977_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22505-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "A new Section Five is hereby added and inserted after Section Four of Presidential Decree No.\n1137 which shall read as follows:\n\"Sec. 5. All acts, decree, orders, rules and regulations, or parts thereof, which are contrary to or inconsistent\nwith the provisions of this Decree are hereby repealed, amended or modified accordingly.\""
+   }
+  },
+  {
+   "id": "PH-H22505-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Section five of the same Decree is renumbered accordingly as Section six."
+   }
+  },
+  {
+   "id": "PH-H22505-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Decree shall take effect immediately.\nDone in the City of Manila, this 28th day of May, in the year of Our Lord, nineteen hundred and\nseventy-seven."
+   }
+  }
+ ]
+}

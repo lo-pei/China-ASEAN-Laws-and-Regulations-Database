@@ -1,0 +1,62 @@
+{
+ "id": "PH-H14179",
+ "title": {
+  "zh": null,
+  "en": "An Act Excluding National Banks Organized Under the Laws of the United states From the Prohibition of Using the Word \"National\" as a Portion of their Name or",
+  "orig": "An Act Excluding National Banks Organized Under the Laws of the United states From the Prohibition of Using the Word \"National\" as a Portion of their Name or"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1929-11-22",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3546",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 402,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1929/act_3546_1929.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03546_1929_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03546_1929_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14179-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Any law or part of a law heretofore enacted prohibiting the use of the word \"national\" by any\nbank, corporation, firm or partnership shall not apply to any national bank organized under the laws of the\nUnited States, the name of which is so distinctive that it could not reasonably be confused with the Philippine\nNational Bank."
+   }
+  },
+  {
+   "id": "PH-H14179-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, November 22, 1929."
+   }
+  }
+ ]
+}

@@ -1,0 +1,840 @@
+{
+ "id": "VN-H326",
+ "title": {
+  "zh": "婚姻家庭法",
+  "en": "Law on marriage and family",
+  "vi": "Luật Hôn nhân và gia đình",
+  "orig": "Luật Hôn nhân và gia đình số Không số",
+  "th": "พระราชบัญญัติการสมรสและครอบครัว",
+  "id": "Undang-Undang Perkawinan dan Keluarga",
+  "ms": "Akta Perkahwinan dan Keluarga"
+ },
+ "country": "VN",
+ "countryName": "越南",
+ "layer": "intl",
+ "pack": "vn-p06",
+ "language": "vi",
+ "level": "law",
+ "category": "02_民商事与经济法",
+ "status": "active",
+ "promulgatedDate": "1986",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "国会",
+ "docNumber": "Không số",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 57,
+ "chars": 17897,
+ "source": {
+  "name": "越南法律数据库（vbpl.vn 官方公报文本）",
+  "url": "https://vbpl.vn/van-ban/chi-tiet/luat-hon-nhan-va-gia-dinh-so-khong-so--2798"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\VN\\02_民商事与经济法\\1986_Không số_Luật Hôn nhân và gia đình số Không số.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 57 条；逐字未改写（源自 VN）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "VN-H326-A1",
+   "no": 1,
+   "noLabel": {
+    "vi": "Điều 1"
+   },
+   "chapter": {
+    "vi": "Chương 1:"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 1\n\nNhà nước bảo đảm thực sự chế độ hôn nhân tự nguyện, tiến bộ, một vợ một chồng, vợ chồng bình đẳng, nhằm xây dựng gia đình dân chủ, hoà thuận, hạnh phúc, bền vững.\n\nHôn nhân giữa công dân Việt Nam thuộc các dân tộc các tôn giáo khác nhau, giữa người theo tôn giáo với người không theo tôn giáo được tôn trọng và bảo vệ."
+   }
+  },
+  {
+   "id": "VN-H326-A2",
+   "no": 2,
+   "noLabel": {
+    "vi": "Điều 2"
+   },
+   "chapter": {
+    "vi": "Chương 1:"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 2\n\nVợ chồng có nghĩa vụ thực hiện sinh đẻ có kế hoạch.\n\nCha mẹ có nghĩa vụ nuôi dạy con thành những công dân có ích cho xã hội.\n\nCon có nghĩa vụ kính trọng, chăm sóc, nuôi dưỡng cha mẹ."
+   }
+  },
+  {
+   "id": "VN-H326-A3",
+   "no": 3,
+   "noLabel": {
+    "vi": "Điều 3"
+   },
+   "chapter": {
+    "vi": "Chương 1:"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 3\n\nNhà nước và xã hội bảo vệ bà mẹ và trẻ em, giúp đỡ các bà mẹ thực hiện tốt chức năng cao quý của người mẹ."
+   }
+  },
+  {
+   "id": "VN-H326-A4",
+   "no": 4,
+   "noLabel": {
+    "vi": "Điều 4"
+   },
+   "chapter": {
+    "vi": "Chương 1:"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 4\n\nCấm tảo hôn, cưỡng ép kết hôn, cản trở hôn nhân tự nguyện, tiến bộ, yêu sách của cải trong việc cưới hỏi ; cấm cưỡng ép ly hôn.\n\nCấm người đang có vợ, có chồng kết hôn hoặc chung sống như vợ chồng với người khác.\n\nCấm ngược đãi, hành hạ cha, mẹ, vợ, chồng, con cái.\n\nChương 2:\n\nKẾT HÔN"
+   }
+  },
+  {
+   "id": "VN-H326-A5",
+   "no": 5,
+   "noLabel": {
+    "vi": "Điều 5"
+   },
+   "chapter": {
+    "vi": "Chương 2:"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 5\n\nNam từ 20 tuổi trở lên, nữ từ 18 tuổi trở lên mới được kết hôn."
+   }
+  },
+  {
+   "id": "VN-H326-A6",
+   "no": 6,
+   "noLabel": {
+    "vi": "Điều 6"
+   },
+   "chapter": {
+    "vi": "Chương 2:"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 6\n\nViệc kết hôn do nam nữ tự nguyện quyết định, không bên nào được ép buộc bên nào, không ai được cưỡng ép hoặc cản trở."
+   }
+  },
+  {
+   "id": "VN-H326-A7",
+   "no": 7,
+   "noLabel": {
+    "vi": "Điều 7"
+   },
+   "chapter": {
+    "vi": "Chương 2:"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 7\n\nCấm kết hôn trong những trường hợp sau đây :\n\na) Đang có vợ hoặc có chồng ;\n\nb) Đang mắc bệnh tâm thần không có khả năng nhận thức hành vi của mình ; đang mắc bệnh hoa liễu ;\n\nc) Giữa những người cùng dòng máu về trực hệ ; giữa anh chị em cùng cha mẹ, cùng cha khác mẹ hoặc cùng mẹ khác cha ; giữa những người khác có họ trong phạm vi ba đời ;\n\nd) Giữa cha, mẹ nuôi với con nuôi."
+   }
+  },
+  {
+   "id": "VN-H326-A8",
+   "no": 8,
+   "noLabel": {
+    "vi": "Điều 8"
+   },
+   "chapter": {
+    "vi": "Chương 2:"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 8\n\nViệc kết hôn do Uỷ ban nhân dân xã, phường, thị trấn nơi thường trú của một trong hai người kết hôn công nhận và ghi vào sổ kết hôn theo nghi thức do Nhà nước quy định.\n\nViệc kết hôn giữa công dân Việt Nam với nhau ở ngoài nước do cơ quan đại diện ngoại giao của nước Cộng hoà xã hội chủ nghĩa Việt Nam công nhận.\n\nMọi nghi thức kết hôn khác đều không có giá trị pháp lý."
+   }
+  },
+  {
+   "id": "VN-H326-A9",
+   "no": 9,
+   "noLabel": {
+    "vi": "Điều 9"
+   },
+   "chapter": {
+    "vi": "Chương 2:"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 9\n\nViệc kết hôn vi phạm một trong các Điều 5, 6, 7 của Luật này là trái pháp luật.\n\nMột hoặc hai bên đã kết hôn trái pháp luật, vợ, chồng hoặc con của người đang có vợ, có chồng mà kết hôn với người khác, Viện kiểm sát nhân dân, Hội liên hiệp phụ nữa Việt Nam, Đoàn thanh niên cộng sản Hồ Chí Minh, Công đoàn Việt Nam có quyền yêu cầu Toà án nhân dân huỷ việc kết hôn trái pháp luật.\n\nTài sản của những người mà hôn nhân bị huỷ được giải quyết theo nguyên tắc : tài sản riêng của ai thì vẫn thuộc quyền sở hữu của người ấy ; tài sản chung được chia căn cứ vào công sức đóng góp của mỗi bên ; quyền lợi chính đáng của bên bị lừa dối hoặc bị cưỡng ép kết hôn được bảo vệ.\n\nQuyền lợi của con được giải quyết như trong trường hợp cha mẹ ly hôn.\n\nChương 3:\n\nNGHĨA VỤ VÀ QUYỀN CỦA VỢ, CHỒNG"
+   }
+  },
+  {
+   "id": "VN-H326-A10",
+   "no": 10,
+   "noLabel": {
+    "vi": "Điều 10"
+   },
+   "chapter": {
+    "vi": "Chương 3:"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 10\n\nVợ, chồng có nghĩa vụ và quyền ngang nhau về mọi mặt trong gia đình."
+   }
+  },
+  {
+   "id": "VN-H326-A11",
+   "no": 11,
+   "noLabel": {
+    "vi": "Điều 11"
+   },
+   "chapter": {
+    "vi": "Chương 3:"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 11\n\nVợ, chồng có nghĩa vụ chung thuỷ với nhau, thương yêu, quý trọng, chăm sóc, giúp đỡ nhau tiến bộ, cùng nhau thực hiện sinh đẻ có kế hoạch.\n\nChồng có nghĩa vụ tạo điều kiện cho vợ thực hiện tốt chức năng của người mẹ."
+   }
+  },
+  {
+   "id": "VN-H326-A12",
+   "no": 12,
+   "noLabel": {
+    "vi": "Điều 12"
+   },
+   "chapter": {
+    "vi": "Chương 3:"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 12\n\nVợ, chồng có quyền tự do chọn nghề nghiệp chính đáng, tham gia các công tác chính trị, kinh tế, văn hoá và xã hội."
+   }
+  },
+  {
+   "id": "VN-H326-A13",
+   "no": 13,
+   "noLabel": {
+    "vi": "Điều 13"
+   },
+   "chapter": {
+    "vi": "Chương 3:"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 13\n\nChỗ ở của vợ chồng do vợ chồng lựa chọn, không bị ràng buộc bởi phong tục, tập quán."
+   }
+  },
+  {
+   "id": "VN-H326-A14",
+   "no": 14,
+   "noLabel": {
+    "vi": "Điều 14"
+   },
+   "chapter": {
+    "vi": "Chương 3:"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 14\n\nTài sản chung của vợ chồng gồm tài sản do vợ hoặc chồng tạo ra, thu nhập về nghề nghiệp và những thu nhập hợp pháp khác của vợ chồng trong thời kỳ hôn nhân, tài sản mà vợ chồng được thừa kế chung hoặc được cho chung."
+   }
+  },
+  {
+   "id": "VN-H326-A15",
+   "no": 15,
+   "noLabel": {
+    "vi": "Điều 15"
+   },
+   "chapter": {
+    "vi": "Chương 3:"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 15\n\nTài sản chung được sử dụng để bảo đảm những nhu cầu chung của gia đình.\n\nVợ, chồng có quyền và nghĩa vụ ngang nhau đối với tài sản chung. Việc mua bán, đổi, cho, vay, mượn, và những giao dịch khác có quan hệ đến tài sản mà có giá trị lớn thì phải được sự thoả thuận của vợ, chồng."
+   }
+  },
+  {
+   "id": "VN-H326-A16",
+   "no": 16,
+   "noLabel": {
+    "vi": "Điều 16"
+   },
+   "chapter": {
+    "vi": "Chương 3:"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 16\n\nĐối với tài sản mà vợ hoặc chồng có trước khi kết hôn, tài sản được thừa kế riêng hoặc được cho riêng trong thời kỳ hôn nhân thì người có tài sản đó có quyền nhập hoặc không nhập vào khối tài sản chung của vợ chồng."
+   }
+  },
+  {
+   "id": "VN-H326-A17",
+   "no": 17,
+   "noLabel": {
+    "vi": "Điều 17"
+   },
+   "chapter": {
+    "vi": "Chương 3:"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 17\n\nKhi một bên chết trước, nếu cần chia tài sản chung của vợ chồng thì chia đôi. Phần tài sản của người chết được chia theo quy định của pháp luật về thừa kế.\n\nVợ, chồng có quyền thừa kế tài sản của nhau."
+   }
+  },
+  {
+   "id": "VN-H326-A18",
+   "no": 18,
+   "noLabel": {
+    "vi": "Điều 18"
+   },
+   "chapter": {
+    "vi": "Chương 3:"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 18\n\nKhi hôn nhân tồn tại, nếu một bên yêu cầu và có lý do chính đáng, thì có thể chia tài sản chung của vợ chồng theo quy định ở Điều 42 của Luật này.\n\nChương 4:\n\nNGHĨA VỤ VÀ QUYỀN CỦA CHA MẸ VÀ CON"
+   }
+  },
+  {
+   "id": "VN-H326-A19",
+   "no": 19,
+   "noLabel": {
+    "vi": "Điều 19"
+   },
+   "chapter": {
+    "vi": "Chương 4:"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 19\n\nCha mẹ có nghĩa vụ thương yêu, nuôi dưỡng, giáo dục con, chăm lo việc hoặc tập và sự phát triển lành mạnh của con về thể chất, trí tuệ và đạo đức.\n\nCha mẹ không được phân biệt đối xử giữa các con.\n\nCha mẹ phải làm gương tốt cho con về mọi mặt, và phối hợp chặt chẽ với nhà trường và các tổ chức xã hội trong việc giáo dục con."
+   }
+  },
+  {
+   "id": "VN-H326-A20",
+   "no": 20,
+   "noLabel": {
+    "vi": "Điều 20"
+   },
+   "chapter": {
+    "vi": "Chương 4:"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 20\n\nCha mẹ có nghĩa vụ nuôi dưỡng con đã thành niên mà không có khả năng lao động để tự nuôi mình."
+   }
+  },
+  {
+   "id": "VN-H326-A21",
+   "no": 21,
+   "noLabel": {
+    "vi": "Điều 21"
+   },
+   "chapter": {
+    "vi": "Chương 4:"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 21\n\nCác con có nghĩa vụ và quyền ngang nhau trong gia đình.\n\nCon có nghĩa vụ kính trọng, chăm sóc, nuôi dưỡng cha mẹ, lắng nghe những lời khuyên bảo của cha mẹ."
+   }
+  },
+  {
+   "id": "VN-H326-A22",
+   "no": 22,
+   "noLabel": {
+    "vi": "Điều 22"
+   },
+   "chapter": {
+    "vi": "Chương 4:"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 22\n\nCon đã thành niên còn ở chung với cha mẹ có quyền lựa chọn nghề nghiệp, tham gia các công tác chính trị, kinh tế, văn hoá và xã hội."
+   }
+  },
+  {
+   "id": "VN-H326-A23",
+   "no": 23,
+   "noLabel": {
+    "vi": "Điều 23"
+   },
+   "chapter": {
+    "vi": "Chương 4:"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 23\n\nCon có quyền có tài sản riêng.\n\nCon từ 16 tuổi trở lên còn ở chung với cha mẹ có nghĩa vụ chăm lo đời sống chung của gia đình, và nếu có thu nhập riêng thì phải đóng góp vào nhu cầu của gia đình."
+   }
+  },
+  {
+   "id": "VN-H326-A24",
+   "no": 24,
+   "noLabel": {
+    "vi": "Điều 24"
+   },
+   "chapter": {
+    "vi": "Chương 4:"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 24\n\nCha mẹ đại diện cho con chưa thành niên trước pháp luật.\n\nCha mẹ quản lý tài sản của con chưa thành niên."
+   }
+  },
+  {
+   "id": "VN-H326-A25",
+   "no": 25,
+   "noLabel": {
+    "vi": "Điều 25"
+   },
+   "chapter": {
+    "vi": "Chương 4:"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 25\n\nCha mẹ chịu trách nhiệm bồi thường các thiệt hại do hành vi trái pháp luật của con dưới 16 tuổi gây ra. Trong trường hợp cha mẹ không có khả năng mà con có tài sản riêng thì lấy tài sản của con để bồi thường.\n\nCon chưa thành niên từ 16 tuổi trở lên chịu trách nhiệm bồi thường bằng tài sản riêng của mình đối với các thiệt hại do hành vi trái pháp luật của mình gây ra. Nếu con không có tài sản riêng thì cha mẹ phải bồi thường."
+   }
+  },
+  {
+   "id": "VN-H326-A26",
+   "no": 26,
+   "noLabel": {
+    "vi": "Điều 26"
+   },
+   "chapter": {
+    "vi": "Chương 4:"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 26\n\nNgười cha, người mẹ nào bị xử phạt về một trong các tội xâm phạm thân thể, nhân phẩm của con chưa thành niên, ngược đãi nghiêm trọng hoặc hành hạ con chưa thành niên, thì có thể bị Toà án nhân dân quyết định không cho trông giữ, giáo dục con, quản lý tài sản của con hoặc đại diện cho con trong thời hạn từ một năm đến năm năm. Đối với người đã sửa chữa, Toà án nhân dân có thể rút ngắn thời hạn này.\n\nNgười cha, người mẹ nói trên vẫn có nghĩa vụ đóng góp phí tổn nuôi dạy con."
+   }
+  },
+  {
+   "id": "VN-H326-A27",
+   "no": 27,
+   "noLabel": {
+    "vi": "Điều 27"
+   },
+   "chapter": {
+    "vi": "Chương 4:"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 27\n\nÔng, bà có nghĩa vụ nuôi dưỡng, giáo dục cháu chưa thành niên trong trường hợp cháu không còn cha mẹ. Cháu đã thành niên có nghĩa vụ nuôi dưỡng ông bà trong trường hợp ông bà không còn con. Anh chị em có nghĩa vụ đùm bọc lẫn nhau trong trường hợp không còn cha mẹ.\n\nChương 5:\n\nXÁC ĐỊNH CHA, MẸ CHO CON"
+   }
+  },
+  {
+   "id": "VN-H326-A28",
+   "no": 28,
+   "noLabel": {
+    "vi": "Điều 28"
+   },
+   "chapter": {
+    "vi": "Chương 5:"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 28\n\nCon sinh ra trong thời kỳ hôn nhân hoặc do người vợ có thai trong thời kỳ đó là con chung của vợ chồng.\n\nTrong trường hợp có yêu cầu xác định lại vấn đề này thì phải có chứng cứ khác."
+   }
+  },
+  {
+   "id": "VN-H326-A29",
+   "no": 29,
+   "noLabel": {
+    "vi": "Điều 29"
+   },
+   "chapter": {
+    "vi": "Chương 5:"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 29\n\nNgười được khai là cha, là mẹ một đứa trẻ có thể xin xác định đứa trẻ đó không phải là con mình.\n\nNgười không được khai là cha, là mẹ một đứa trẻ có thể xin xác định đứa trẻ đó là con của mình."
+   }
+  },
+  {
+   "id": "VN-H326-A30",
+   "no": 30,
+   "noLabel": {
+    "vi": "Điều 30"
+   },
+   "chapter": {
+    "vi": "Chương 5:"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 30\n\nViệc cha mẹ nhận con ngoài giá thú do Uỷ ban nhân dân xã, phường, thị trấn nơi thường trú của người con công nhận và ghi vào sổ khai sinh."
+   }
+  },
+  {
+   "id": "VN-H326-A31",
+   "no": 31,
+   "noLabel": {
+    "vi": "Điều 31"
+   },
+   "chapter": {
+    "vi": "Chương 5:"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 31\n\nCon ngoài giá thú có quyền xin nhận cha, mẹ kể cả trong trường hợp cha. mẹ đã chết.\n\nNgười mẹ, người cha hoặc người đỡ đầu có quyền yêu cầu xác định cha, mẹ cho người con ngoài giá thú chưa thành niên.\n\nViện kiểm sát nhân dân, Hội liên hiệp phụ nữ Việt Nam, Đoàn thanh niên Cộng sản Hồ Chí Minh, Công đoàn Việt Nam có quyền yêu cầu xác định cha, mẹ cho người con ngoài giá thú chưa thành niên."
+   }
+  },
+  {
+   "id": "VN-H326-A32",
+   "no": 32,
+   "noLabel": {
+    "vi": "Điều 32"
+   },
+   "chapter": {
+    "vi": "Chương 5:"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 32\n\nCon ngoài giá thú được cha, mẹ nhận hoặc được Toà án nhân dân cho nhận cha, mẹ có mọi quyền và nghĩa vụ như con trong giá thú."
+   }
+  },
+  {
+   "id": "VN-H326-A33",
+   "no": 33,
+   "noLabel": {
+    "vi": "Điều 33"
+   },
+   "chapter": {
+    "vi": "Chương 5:"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 33\n\nCác tranh chấp về nhận con, nhận cha, mẹ do Toà án nhân dân nơi thường trú của người con xét xử.\n\nChương 6:\n\nNUÔI CON NUÔI"
+   }
+  },
+  {
+   "id": "VN-H326-A34",
+   "no": 34,
+   "noLabel": {
+    "vi": "Điều 34"
+   },
+   "chapter": {
+    "vi": "Chương 6:"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 34\n\nViệc nuôi con nuôi nhằm gắn bó tình cảm giữa người nuôi và con nuôi trong quan hệ cha mẹ và con cái, bảo đảm người con nuôi chưa thành niên được nuôi dưỡng, chăm sóc, giáo dục tốt.\n\nGiữa người nuôi và con nuôi có những nghĩa vụ và quyền của cha mẹ và con quy định ở các Điều từ 19 đến 25 của Luật này."
+   }
+  },
+  {
+   "id": "VN-H326-A35",
+   "no": 35,
+   "noLabel": {
+    "vi": "Điều 35"
+   },
+   "chapter": {
+    "vi": "Chương 6:"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 35\n\nNgười từ 15 tuổi trở xuống mới được nhận làm con nuôi. Trong trường hợp con nuôi là thương binh, người tàn tật hoặc làm con nuôi người già yếu cô đơn thì con nuôi có thể trên 15 tuổi.\n\nNgười nuôi phải hơn con nuôi từ 20 tuổi trở lên."
+   }
+  },
+  {
+   "id": "VN-H326-A36",
+   "no": 36,
+   "noLabel": {
+    "vi": "Điều 36"
+   },
+   "chapter": {
+    "vi": "Chương 6:"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 36\n\nViệc nhận nuôi con nuôi phải được sự thoả thuận của hai vợ chồng người nuôi, của cha mẹ đẻ hoặc người đỡ đầu của người con nuôi chưa thành niên. Nếu nhận nuôi người từ 9 tuổi trở lên thì còn phải được sự đồng ý của người đó."
+   }
+  },
+  {
+   "id": "VN-H326-A37",
+   "no": 37,
+   "noLabel": {
+    "vi": "Điều 37"
+   },
+   "chapter": {
+    "vi": "Chương 6:"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 37\n\nViệc nhận nuôi con nuôi do Uỷ ban nhân dân xã, phường, thị trấn nơi thường trú của người nuôi hoặc con nuôi công nhận và ghi vào sổ hộ tịch."
+   }
+  },
+  {
+   "id": "VN-H326-A38",
+   "no": 38,
+   "noLabel": {
+    "vi": "Điều 38"
+   },
+   "chapter": {
+    "vi": "Chương 6:"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 38\n\nNhà nước và xã hội khuyến khích việc nhận các trẻ em mồ côi làm con nuôi.\n\nCon liệt sĩ được nhận làm con nuôi vẫn hưởng mọi quyền lợi của con liệt sĩ."
+   }
+  },
+  {
+   "id": "VN-H326-A39",
+   "no": 39,
+   "noLabel": {
+    "vi": "Điều 39"
+   },
+   "chapter": {
+    "vi": "Chương 6:"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 39\n\nViệc nuôi con nuôi có thể chấm dứt khi người nuôi hoặc con nuôi hoặc cả hai người có hành vi nghiêm trọng xâm phạm thân thể, nhân phẩm của nhau hoặc những hành vi khác làm cho tình cảm giữa người nuôi và con nuôi không còn nữa.\n\nViệc chấm dứt nuôi con nuôi do Toà án nhân dân quyết định theo yêu cầu của con nuôi hoặc của người nuôi. Trong trường hợp người con nuôi chưa thành niên thì cha mẹ đẻ hoặc người đỡ đầu của con nuôi, Viện kiểm sát nhân dân, Hội liên hiệp phụ nữ Việt Nam, Đoàn thanh niên cộng sản Hồ Chí Minh, Công đoàn Việt Nam có quyền yêu cầu chấm dứt việc nuôi con nuôi.\n\nChương 7:\n\nLY HÔN"
+   }
+  },
+  {
+   "id": "VN-H326-A40",
+   "no": 40,
+   "noLabel": {
+    "vi": "Điều 40"
+   },
+   "chapter": {
+    "vi": "Chương 7:"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 40\n\nKhi vợ hoặc chồng, hoặc cả hai vợ chồng có đơn xin ly hôn thì Toà án nhân dân tiến hành điều tra và hoà giải.\n\nTrong trường hợp cả hai vợ chồng xin ly hôn, nếu hoà giải không thành và nếu xét đúng là hai bên thật sự tự nguyện ly hôn, thì Toà án nhân dân công nhận cho thuận tình ly hôn.\n\nTrong trường hợp một bên vợ hoặc chồng xin ly hôn, nếu hoà giải không thành thì Toà án nhân dân xét xử. Nếu xét thấy tình trạng trầm trọng, đời sống chung không thể kéo dài, mục đích của hôn nhân không đạt được thì Toà án nhân dân xử cho ly hôn."
+   }
+  },
+  {
+   "id": "VN-H326-A41",
+   "no": 41,
+   "noLabel": {
+    "vi": "Điều 41"
+   },
+   "chapter": {
+    "vi": "Chương 7:"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 41\n\nTrong trường hợp vợ có thai, chồng chỉ có thể xin ly hôn sau khi vợ đã sinh con được một năm.\n\nĐiều hạn chế này không áp dụng đối với việc xin ly hôn của người vợ."
+   }
+  },
+  {
+   "id": "VN-H326-A42",
+   "no": 42,
+   "noLabel": {
+    "vi": "Điều 42"
+   },
+   "chapter": {
+    "vi": "Chương 7:"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 42\n\nKhi ly hôn, việc chia tài sản do hai bên thoả thuận, và phải được Toà án nhân dân công nhận. Nếu hai bên không thoả thuận được với nhau thì Toà án nhân dân quyết định.\n\nViệc chia tài sản khi ly hôn, về nguyên tắc, phải theo những quy định dưới đây:\n\na) Tài sản riêng của bên nào thì vẫn thuộc quyền sở hữu của bên ấy;\n\nb) Tài sản chung của vợ chồng được chia đôi, nhưng có xem xét một cách hợp lý đến tình hình tài sản, tình trạng cụ thể của gia đình và công sức đóng góp của mỗi bên;\n\nc) Trong trường hợp vợ chồng do còn sống chung với gia đình mà tài sản của bản thân vợ chồng không xác định được thì vợ hoặc chồng được chia một phần trong khối tài sản chung của gia đình, căn cứ vào công sức của người được chia đóng góp vào việc duy trì và phát triển khối tài sản chung, cũng như vào đời sống chung của gia đình. Lao động trong gia đình được coi như lao động sản xuất;\n\nd) Khi chia tài sản, phải bảo vệ quyền lợi của người vợ và của người con chưa thành niên, bảo vệ lợi ích chính đáng của sản xuất và nghề nghiệp."
+   }
+  },
+  {
+   "id": "VN-H326-A43",
+   "no": 43,
+   "noLabel": {
+    "vi": "Điều 43"
+   },
+   "chapter": {
+    "vi": "Chương 7:"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 43\n\nKhi ly hôn, nếu bên túng thiếu yêu cầu cấp dưỡng thì bên kia phải cấp dưỡng theo khả năng của mình.\n\nKhoản cấp dưỡng và thời gian cấp dưỡng do hai bên thoả thuận. Nếu hai bên không thoả thuận được với nhau thì Toà án nhân dân quyết định.\n\nKhi hoàn cảnh thay đổi, người được cấp dưỡng hoặc người phải cấp dưỡng có thể yêu cầu sửa đổi mức hoặc thời gian cấp dưỡng. Nếu người cấp dưỡng kết hôn với người khác thì không được cấp dưỡng nữa."
+   }
+  },
+  {
+   "id": "VN-H326-A44",
+   "no": 44,
+   "noLabel": {
+    "vi": "Điều 44"
+   },
+   "chapter": {
+    "vi": "Chương 7:"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 44\n\nVợ chồng đã ly hôn vẫn có mọi nghĩa vụ và quyền đối với con chung."
+   }
+  },
+  {
+   "id": "VN-H326-A45",
+   "no": 45,
+   "noLabel": {
+    "vi": "Điều 45"
+   },
+   "chapter": {
+    "vi": "Chương 7:"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 45\n\nKhi ly hôn, việc giao con chưa thành niên cho ai trông nom, nuôi dưỡng, giáo dục phải căn cứ vào quyền lợi về mọi mặt của con. Về nguyên tắc, con còn bú được giao cho người mẹ nuôi giữ.\n\nNgười không nuôi giữ con có nghĩa vụ và quyền thăm nom, chăm sóc con và phải đóng góp phí tổn nuôi dưỡng, giáo dục con. Nếu trì hoãn hoặc lẩn tránh việc đóng góp, thì Toà án nhân dân quyết định khấu trừ vào thu nhập hoặc buộc phải nộp những khoản phí tổn đó.\n\nVì lợi ích của con, khi cần thiết, có thể thay đổi việc nuôi giữ con hoặc mức đóng góp phí tổn nuôi dưỡng, giáo dục con.\n\nChương 8:\n\nCHẾ ĐỘ ĐỠ ĐẦU"
+   }
+  },
+  {
+   "id": "VN-H326-A46",
+   "no": 46,
+   "noLabel": {
+    "vi": "Điều 46"
+   },
+   "chapter": {
+    "vi": "Chương 8:"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 46\n\nViệc đỡ đầu được thực hiện trong trường hợp cần bảo đảm việc chăm nom, giáo dục và bảo vệ quyền lợi của người chưa thành niên mà cha mẹ đã chết, hoặc tuy cha mẹ còn sống nhưng không có điều kiện để làm những nhiệm vụ đó."
+   }
+  },
+  {
+   "id": "VN-H326-A47",
+   "no": 47,
+   "noLabel": {
+    "vi": "Điều 47"
+   },
+   "chapter": {
+    "vi": "Chương 8:"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 47\n\nCha mẹ có thể cử người đỡ đầu cho con chưa thành niên. Nếu cha mẹ không cử được thì những người thân thích có thể cử người đỡ đầu cho người đó. Việc cử người đỡ đầu do Uỷ ban nhân dân xã, phường, thị trấn công nhận.\n\nTrong trường hợp cha mẹ hoặc những người thân thích không cử được người đỡ đầu thì cơ quan Nhà nước có chức năng hoặc tổ chức xã hội đảm nhiệm việc đỡ đầu người con chưa thành niên."
+   }
+  },
+  {
+   "id": "VN-H326-A48",
+   "no": 48,
+   "noLabel": {
+    "vi": "Điều 48"
+   },
+   "chapter": {
+    "vi": "Chương 8:"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 48\n\nCông dân làm người đỡ đầu phải là người từ 21 tuổi trở lên, có tư cách đạo đức tốt và có điều kiện thực tế để làm người đỡ đầu."
+   }
+  },
+  {
+   "id": "VN-H326-A49",
+   "no": 49,
+   "noLabel": {
+    "vi": "Điều 49"
+   },
+   "chapter": {
+    "vi": "Chương 8:"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 49\n\nCông dân hoặc tổ chức làm người đỡ đầu có những nhiệm vụ và quyền hạn sau đây :\n\na) Chăm sóc, giáo dục người được đỡ đầu;\n\nb) Quản lý tài sản của người được đỡ đầu;\n\nc) Đại diện cho người được đỡ đầu trước pháp luật và bảo vệ quyền lợi của người đó."
+   }
+  },
+  {
+   "id": "VN-H326-A50",
+   "no": 50,
+   "noLabel": {
+    "vi": "Điều 50"
+   },
+   "chapter": {
+    "vi": "Chương 8:"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 50\n\nCông dân làm người đỡ đầu chịu sự giám sát của Uỷ ban nhân dân xã, phường, thị trấn về công việc đỡ đầu.\n\nNgười thân thích của người được đỡ đầu, Viện kiểm sát nhân dân,\n\nHội liên hiệp phụ nữ Việt Nam, Đoàn thanh niên cộng sản Hồ Chí Minh, Công đoàn Việt Nam có quyền yêu cầu Uỷ ban nhân dân xã, phường, thị trấn thay người đỡ đầu, nếu người này không làm tròn nhiệm vụ, gây thiệt hại nghiêm trọng đến quyền lợi của người đỡ đầu.\n\nCông dân làm người đỡ đầu có thể yêu cầu cử người thay, nếu thấy mình không còn đủ điều kiện làm người đỡ đầu."
+   }
+  },
+  {
+   "id": "VN-H326-A51",
+   "no": 51,
+   "noLabel": {
+    "vi": "Điều 51"
+   },
+   "chapter": {
+    "vi": "Chương 8:"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 51\n\nViệc đỡ đầu chấm dứt khi người chưa thành niên được giao lại cho cha mẹ, được nhận làm con nuôi, hoặc đủ 18 tuổi.\n\nChương 9:\n\nQUAN HỆ HÔN NHÂN VÀ GIA ĐÌNH CỦA CÔNG DÂN VIỆT NAM VỚI NGƯỜI NƯỚC NGOÀI"
+   }
+  },
+  {
+   "id": "VN-H326-A52",
+   "no": 52,
+   "noLabel": {
+    "vi": "Điều 52"
+   },
+   "chapter": {
+    "vi": "Chương 9:"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 52\n\nTrong việc kết hôn giữa công dân Việt Nam với người nước ngoài, mỗi bên tuân theo những quy định của pháp luật nước mình về kết hôn.\n\nNếu việc kết hôn giữa công dân Việt Nam với người nước ngoài tiến hành ở Việt Nam thì người nước ngoài còn phải tuân theo các quy định ở Điều 5, Điều 6, Điều 7 của Luật này. Thủ tục kết hôn do Hội đồng bộ trưởng quy định."
+   }
+  },
+  {
+   "id": "VN-H326-A53",
+   "no": 53,
+   "noLabel": {
+    "vi": "Điều 53"
+   },
+   "chapter": {
+    "vi": "Chương 9:"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 53\n\nNhững vấn đề về quan hệ vợ chồng, quan hệ tài sản, quan hệ cha mẹ và con, huỷ việc kết hôn, ly hôn, nuôi con nuôi và đỡ đầu giữa công dân Việt Nam với người nước ngoài do Hội đồng Nhà nước quy định."
+   }
+  },
+  {
+   "id": "VN-H326-A54",
+   "no": 54,
+   "noLabel": {
+    "vi": "Điều 54"
+   },
+   "chapter": {
+    "vi": "Chương 9:"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 54\n\nTrong trường hợp đã có hiệp định tương trợ tư pháp và pháp lý về hôn nhân và gia đình giữa Việt Nam và nước ngoài, thì tuân theo những quy định của các hiệp định đó.\n\nChương 10:\n\nĐIỀU KHOẢN CUỐI CÙNG"
+   }
+  },
+  {
+   "id": "VN-H326-A55",
+   "no": 55,
+   "noLabel": {
+    "vi": "Điều 55"
+   },
+   "chapter": {
+    "vi": "Chương 10:"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 55\n\nĐối với dân tộc thiểu số, Hội đồng Nhà nước căn cứ Luật này và tình hình cụ thể mà có những quy định thích hợp."
+   }
+  },
+  {
+   "id": "VN-H326-A56",
+   "no": 56,
+   "noLabel": {
+    "vi": "Điều 56"
+   },
+   "chapter": {
+    "vi": "Chương 10:"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 56\n\nHội đồng bộ trưởng, Toà án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, trong phạm vi chức năng của mình, có trách nhiệm hướng dẫn thi hành Luật này.\n\nMặt trận Tổ quốc Việt Nam, Hội liên hiệp phụ nữ Việt Nam, Đoàn thanh niên cộng sản Hồ Chí Minh, Công đoàn Việt Nam giáo dục, vận động nhân dân thi hành nghiêm chỉnh Luật này."
+   }
+  },
+  {
+   "id": "VN-H326-A57",
+   "no": 57,
+   "noLabel": {
+    "vi": "Điều 57"
+   },
+   "chapter": {
+    "vi": "Chương 10:"
+   },
+   "heading": {},
+   "text": {
+    "vi": "Điều 57\n\nLuật này thay thế Luật hôn nhân và gia đình năm 1959.\n\nLuật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá VII, kỳ họp thứ 12, thông qua ngày 29 tháng 12 năm 1986.\n\nTrường Chinh\n\n(Đã ký)\n\n1:{\"id\":\"2798\",\"docType\":{\"id\":\"11025e19-2dd6-4165-85ad-ab6241186a1a\",\"name\":\"Luật\",\"code\":\"Lu\",\"parentCode\":\"VBQPPL\",\"parentName\":null},\"docGroup\":\"VBQPPL\",\"docNum\":\"Không số\",\"title\":\"Luật Hôn nhân và gia đình số Không số\",\"applicationNote\":\"Bị thay thế bởi Luật 22/2000/QH10 Hôn nhân và gia đình\",\"issueDate\":\"1986-12-29T00:00:00\",\"effFrom\":\"1987-01-03T00:00:00\",\"effTo\":\"2001-01-01T00:00:00\",\"publicDate\":null,\"effStatus\":{\"id\":\"f55c1469-4341-4274-93ef-32b283db4dbd\",\"name\":\"Hết hiệu lực toàn bộ\",\"code\":\"HHL\",\"parentCode\":null,\"parentName\":null},\"status\":\"Publish\",\"lang\":\"vi\",\"defaultLanguage\":\"VN\",\"updatedBy\":\"dungdvm_II.2\",\"updatedDate\":\"2026-01-16T17:33:21\",\"agencyName\":\"Quốc hội\",\"organization\":{\"id\":\"506a0f37-34ee-454c-b40f-1313f572f54f\",\"code\":\"BTP\",\"name\":\"Bộ Tư pháp\",\"nameEn\":\"Bộ Tư pháp\",\"shortName\":\"BTP\",\"orgType\":\"0\"},\"isLw\":true,\"documentContent\":{\"id\":\"2798\",\"title\":null,\"content\":\"$2\"},\"documentContentEn\":null,\"documentContentFileName\":null,\"documentContentFileDocName\":\"21.LCT.HDNN7.doc\",\"documentIssues\":[{\"id\":\"83092519-900f-443c-b61e-4ce1589d8e12\",\"agencyId\":\"55\",\"agencyName\":\"Quốc hội\",\"agencyNameEn\":\"National Assembly of Vietnam\",\"agencyCode\":\"QH\",\"personId\":\"667\",\"personName\":\"Nguyễn Hữu Thọ\",\"jobTitleId\":\"28da0087-8afd-420c-875c-b2369e212c3e\",\"jobTitleCode\":\"CTQH\",\"jobTitleName\":\"Chủ tịch Quốc hội\",\"orderIndex\":1}],\"documentMajors\":[{\"id\":\"nganh_65\",\"name\":\"Tư pháp\",\"code\":null,\"parentCode\":null,\"parentName\":null}],\"documentFields\":[{\"id\":\"6750\",\"name\":\"Hộ tịch, quốc tịch, chứng thực\",\"code\":null,\"parentCode\":null,\"parentName\":null},{\"id\":\"6692\",\"name\":\"Nuôi con nuôi\",\"code\":null,\"parentCode\":null,\"parentName\":null}],\"documentRelatedList\":[{\"id\":\"96106f7a-28fa-43fc-ba9e-e8b80b42f0d5\",\"fileName\":\"2798_body_content.html\",\"relatedType\":\"MARKDOWN\",\"fileTitle\":\"2798_body_content.html\",\"fileOrder\":null}],\"provisionTree\":null,\"references\":null,\"isEffectAllDocument\":false,\"isOld\":true,\"reviewStatus\":\"INITIAL\",\"reviewed\":false,\"isTranslationDoc\":false,\"isConsolidatedDocument\":false,\"isConstitutionDocument\":false,\"isAdministrativeDocument\":false,\"viewCount\":65,\"showViewCount\":true,\"hasContent\":true,\"hasOriginalPdf\":null,\"hasAIProcessed\":false,\"hasClauseRelation\":null,\"aiResults\":[]}"
+   }
+  }
+ ]
+}

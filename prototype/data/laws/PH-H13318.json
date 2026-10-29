@@ -1,0 +1,92 @@
+{
+ "id": "PH-H13318",
+ "title": {
+  "zh": null,
+  "en": "An Act Adopting An Uniform Enacting Clause for the Acts and An Uniform Resolving Clause for the Joint S Passed By the Philippine Legislature.",
+  "orig": "An Act Adopting An Uniform Enacting Clause for the Acts and An Uniform Resolving Clause for the Joint S Passed By the Philippine Legislature."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1916-11-18",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2667",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 5,
+ "chars": 1239,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1916/act_2667_1916.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02667_1916_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 5 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02667_1916_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13318-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The enacting clause of all Acts hereafter passed by the Philippine Legislature shall be conceived\nin the following terms: \"Be it enacted by the Senate and House of Representatives of the Philippines in\nLegislature assembled and by the authority of the same:\" (El Senado y la Cdmara de Representantes de\nFilipinas constituidos en Legislatura y por autoridad de la misma decretan:)."
+   }
+  },
+  {
+   "id": "PH-H13318-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The resolving clause of all Joint Resolutions hereafter passed by the Philippine Legislature shall\nbe conceived in the following terms: \"Be it resolved by the Senate and House of Representatives of the\nPhilippines in\nLegislature assembled and by the authority of the same:\" (El Senado y la Cdmara de Representantes de\nFilipinas constituidos en Legislatura y por autoridad de la misma resuelven:)."
+   }
+  },
+  {
+   "id": "PH-H13318-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "The enacting clause, as herein prescribed, shall be written before the whole body of the Act, and\nthe resolving clause shall be written before the whole body of the Joint Resolution, and neither shall be\nrepeated in each section of the Act or Resolution."
+   }
+  },
+  {
+   "id": "PH-H13318-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "Section six of Act Numbered Twenty-six hundred and fifty-seven, entitled \"An Act constituting\nan Administrative Code,\" is hereby repealed."
+   }
+  },
+  {
+   "id": "PH-H13318-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, November 18, 1916"
+   }
+  }
+ ]
+}

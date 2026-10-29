@@ -1,0 +1,168 @@
+{
+ "id": "ID-H1027",
+ "title": {
+  "zh": "外汇流动与汇率制度法",
+  "en": "Law on Foreign Exchange Flows and the Exchange Rate System",
+  "id": "LALU LINTAS DEVISA DAN SISTEM NILAI TUKAR",
+  "orig": "LALU LINTAS DEVISA DAN SISTEM NILAI TUKAR",
+  "vi": "Luật về Luồng Ngoại hối và Hệ thống Tỷ giá",
+  "th": "พระราชบัญญัติว่าด้วยการหมุนเวียนเงินตราต่างประเทศและระบบอัตราแลกเปลี่ยน",
+  "ms": "Akta tentang Aliran Pertukaran Asing dan Sistem Kadar Pertukaran"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02a",
+ "language": "id",
+ "level": "law",
+ "category": "03_涉外投资与贸易",
+ "status": "active",
+ "promulgatedDate": "1999",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU24-1999",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 9,
+ "chars": 9094,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU241999.pdf&fl=P01055"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\03_涉外投资与贸易\\印尼_文本_1999_LALU LINTAS DEVISA DAN SISTEM NILAI TUKAR.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 9 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H1027-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\n\nDalam Undang-undang ini yang dimaksud dengan :\n1. Lalu Lintas Devisa adalah perp indahan aset dan kewajiban finansial\nantara penduduk dan buka n penduduk termasuk perpindahan aset\ndan kewajiban finansial luar negeri antar  penduduk;\n2. Devisa adalah aset dan kewa jiban finansial ya ng digunakan dalam\ntransaksi internasional;\n3. Penduduk adalah ora ng, badan hukum, atau badan lainnya, yang\nberdomisili atau berencana berdom isili di Indonesia sekur (satu)\ntahun, termasuk perwakilan dan staf  diplomatik Republik Indonesia\ndi luar negeri;\n4. Sistem Nilai Tukar adal ah sistem yang digunakan untuk\npembetunkan harga mata uang rupiah terhadap mata uang asing.\n\nBAB II\nLALU LINTAS DEVISA"
+   }
+  },
+  {
+   "id": "ID-H1027-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\n\n(1) Setiap Penduduk dapat dengan bebas memiliki dan menggunakan\nDevisa.\n(2) Penggunaan Devisa sebagaiman a dimaksud pada ayat (1) untuk\nkeperluan transaksi di dalam negeri, wajib memperhatikan ketentuan\nmengenai alat pembayaran yang sah sebagaimana diatur dalam\nUndang-undang tentang Bank Indonesia.\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H1027-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\n\n(1) Bank Indonesia berwenang memint a keterangan dan data mengenai\nkegiatan lalu lintas Devisa yang dilakukan oleh Penduduk.\n(2) Setiap Penduduk wajib memberikan keterangan dan data mengenai\nkegiatan Lalu Lintas Devisa yang dilakukannya, secara langsung\natau melalui pihak lain yang ditetapkan oleh Bank Indonesia.\n(3) Pelaksanaan ketentuan sebagaim ana dimaksud pada ayat (1) dan\nayat (2) ditetapkan dengan peraturan Bank Indonesia."
+   }
+  },
+  {
+   "id": "ID-H1027-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB II"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\n(1) Dalam rangka penerapan prin sip kehati-hatian, Bank Indonesia\nmenetapkabn ketentuan atas berbag ai jenis transaksi Devisa yang\ndilakukan oleh bank.\n(2) Pelaksanaan ketentuan sebaga imana dimaksud pada ayat (1)\nditetapkan dengan Peraturan Bank Indonesia.\n\nBAB III\nSISTEM NILAI TUKAR"
+   }
+  },
+  {
+   "id": "ID-H1027-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\n(1) Bank Indonesia mengajukan Sistem Nilai Tukar untuk ditetapkan\noleh Pemerintah.\n(2) Bank Indonesia melaksanakan ke bijakan nilai tukar berdasarkan\nSistem Nilai Tukar sebagaimana dimaksud pada ayat (1).\n(3) Pelaksaaan ketentuan sebagaimana dimaksud pada ayat (2)\nditetapkan dengan Peraturan Bank Indonesia.\n\nBAB IV\nKETENTUAN PIDANA DAN SANKSI ADMINISTRATIF"
+   }
+  },
+  {
+   "id": "ID-H1027-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\nBarangsiapa dengan sengaja tidak memenuhi kewajiban sebagaimana\ndimaksud dalam Pasal 3 ayat (2 ) diancam dengan pidana denda\nsekurang-kurangnya Rp  250.000.000,00 (dua ra tus lima puluh juta\nrupiah) dan paling banyak Rp 1.000.000.000,00 (satu miliar rupiah).\n\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA"
+   }
+  },
+  {
+   "id": "ID-H1027-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\n(1) Dengan tidak mengurangi ketent uan pidana sebagaimana dimaksud\ndalam Pasal 6, Bank Indonesia berwenang menetapkan sanksi\nadministratif terhadap Penduduk sebagaimana dimaksud dalam Pasal\n3 ayat (2).\n(2) Sanksi administratif sebagaiman a dimaksud pada ayat (1) dapat\nberupa :\n a. teguran tertulis; atau\n b. denda; atau\n c. pencabutan atau pembatalan  izin usaha oleh instansi yang\nberwenang apabila pelanggaran dilakukan oleh badan usaha.\n(3) Ketentuan lebih lanjut mengena i sanksi administratif sebagaimana\ndimaksud pada ayat (2) dite tapkan dengan Peraturan Bank\nIndonesia.\n\nBAB V\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H1027-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\nDengan berlakunya U ndang-undang ini, Undang-undang Nomor 32\nTahun 1964 tentang Peraturan Lalu Li ntas Devisa (Lembaran Negara\nTahun 1964 Nomor 131, Tambahan Lembaran Negara Nomor 2717)\ndinyatakan tidak berlaku.\n\n\nBAB VI\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H1027-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB VI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n\nUndang-undang ini mulai berlaku pada tanggal diundangkan.\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n\nAgar setiap orang mengetahui nya, memerintahkan pengundangan\nUndang-undang ini dengan penempata nnya dalam Lembaran Negara\nRepublik Indonesia.\n\n\n Disahkan di Jakarta\n pada tanggal 17 Mei 1999\n PRESIDEN REPUBLIK INDONESIA,\n\n  ttd.\n\n BACHARUDDIN JUSUF HABIBIE\nDiundangkan di Jakarta\npada tanggal 17 Mei 1999\nMENTERI NEGARA SEKRETARIS NEGARA\nREPUBLIK INDONESIA\n\nttd.\n\nPROF. DR. H. MULADI, S.H.\n\n\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1999 NOMOR 67\n\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\nPENJELASAN\nATAS\nUNDANG-UNDANG REPUBLIK INDONESIA\nNOMOR 24 TAHUN 1999\nTENTANG\nLALU LINTAS DEVISA DAN SISTEM NILAI TUKAR\n\nUMUM\n\nPembangunan nasional yang dilaksanakan oleh Bangsa Indonesi a untuk mewujudkan\nmasyarakat adil dan makmur berdasarka n Pancasila dan Unda ng-Undang Dasar 1945.\nDalam mendorong pembangunan e konomi nasional, salah sa tu alat dan sumber\npembiayaan yang sangat penti ng adalah Devisa. Untuk meni ngkatkan Devisa tersebut,\nsejak tahun 1970 Pemerintah telah menerapkan sistem Devisa bebas.\nPenerapan sistem Devisa beba s tanpa diikuti dengan kebijakan pemantauan Lalu Lintas\nDevisa dan penentuan Sistem  Nilai Tukar dapat menimbul kan dampak negatif bagi\nperekonomian nasional. Untuk mencegah dampak  negatif tersebut, sistem Devisa perlu\nditopang dengan undang-undang baru yang memadai, sekaligus menghapuskan\nketidakpuasan hukum yang telah berla ngsung selama ini dengan mencabut\nUndang-undang Nomor 32 Tahun 1964.\nPelaksaaan kebijakan sistem Devisa dan Sistem Nilai Tukar dilakukan oleh Bank\nIndonesia sebagai otoritas moneter yang bertanggungjawab dalam memelihara kestabilan\nnilai rupiah. Upaya itu perlu didukung oleh suat u sistem pemantauan Lalu Lintas Devisa\nyang efektif.\nUntuk itu, Bank Indonesia dibe ri wewenang meminta kete rangan dan data mengenai\nkegiatan Lalu Lintas Devisa dan menetapkan kete ntuan mengenai kegiatan Devisa yang\ndidasarkan atas prinsip kehati-hatian.\n\nPASAL DEMI PASAL\nPasal 1\n Angka 1\n  Cukup jelas\n Angka 2\n  Cukup jelas\n Angka 3\n  Cukup jelas\n Angka 4\n  Cukup jelas\n\nPasal 2\n Ayat (1)\n  Yang dimaksud dengan bebas me miliki Devisa adalah bahwa  Penduduk yang\nmemperoleh dan memiliki devisa tidak wajib menjualnya kepada negara.\n  Yang dimaksud dengan bebas mengguna kan Devisa adalah bahwa Penduduk\ndapat secara bebas melakukan kegiatan De visa antara lain untuk perdagangan\ninternasional, transaksi di pasar uang, dan transaksi pasar modal.\n Ayat (2)\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n  Cukup jelas\n\nPasal 3\n Ayat (1)\n  Dalam melaksanakan kewenangannya  Bank Indonesia secara aktif meminta\nketerangan dan data mengena i kegiatan Lalu Lintas Devisa yang dilakukan oleh\nPenduduk.\n  Dalam hal keterangan da n data yang disampaikan diragukan kebenarannya, Bank\nIndonesia meneliti kebenaran keterangan dan data yang diminta tersebut, termasuk\nmeminta bukti pembukuan, catatan, dan dokumen yang berkaitan dengan\npelaporan kegiatan Lalu Lintas Devisa.\n Ayat (2)\n  Keterangan dan data mengenai kegiatan lalu Lintas Devi sa sekurang-kurangnya\nmeliputi nilai dan jenis transaksi, tujuan atau maksud transaksi, pelaku transaksi,\ndan negara tujuan atau asal pelaku transaksi.\n  Yang dimaksud dengan pihak lain adalah pihak-pihak yang terkait dalam kegiatan\nLalu Lintas Devisa seperti bank,  lembaga keuangan bukan bank, dan\npenyelenggara jasa transaksi internasional.\n Ayat (3)\n  Pokok-pokok ketentuan yang akan dite tapkan dengan Peratu ran Bank Indonesia\nmemuat antara lain :\n  a. Prosedur dan tata cara penyampaian keterangan dan data;\n  b. pihak-pihak yang harus me nyampaikan keterangan dan data;\n  c. keterangan dan data mengenai kegi atan Lalu Lintas Devisa yang harus\ndisampaikan;\n  d. sanksi pelanggaran.\n\nPasal 4\n Ayat (1)\n  Yang dimaksud dengan prinsip kehati- hatian adalah salah satu upaya untuk\nmeminimalkan risiko usaha dalam pengelola an bank, baik melalui ketentuan yang\nditetapkan oleh Bank Indonesia maupun ketentuan intern bank yang bersangkutan.\n Ayat (2)\n  Pokok-pokok ketentuan yang akan dite tapkan dengan Peratu ran Bank Indonesia\nantara lain dapat berupa :\n  a. standar pedoman kebijakan dan prosedur keiatan transaksi Devisa;\n  b. rasio posisi Devisa neto;\n  c. pembatasan kerugian potensial dan aktual terhadap modal.\n\nPasal 5\n Ayat (1)\n  Penetapan Sistem Nilai Tukar sebaga imana dimaksud dalam ayat ini dilakukan\ndengan Keputusan Presiden Republik Indonesia.\n  Bank Indonesia mengkaji Sistem Nilai Tukar yang diajukan ke pada Pemerintah\nsecaran hati-hati.\n  Sistem Nilai Tukar tersebut antara lain berupa :\n  a. Sistem Nilai Tukar tetap; atau\n\n\nPRESIDEN\nREPUBLIK INDONESIA\n\n\n\n  b. Sistem Nilai Tukar mengambang; atau\n  c. Sistem Nilai Tukar mengambang terkendali.\n Ayat (2)\n  Cukup jelas\n Ayat (3)\n  Pokok-pokok ketentuan yang akan dite tapkan dalam Peratu ran Bank Indonesia\nantara lain berupa :\n  a. develuasi atau revaluasi rupiah terhadap mata uang asing;\n  b. penetapan nilai tukar harian serta pe netapan lebar pita intervensi (intervention\nband);\n  c. arah apresiasi atau depresiasi rupiah;\n  d. kegiatan intervensi Bank Indonesia.\n\nPasal 6\n Cukup jelas\n\nPasal 7\n Ayat (1)\n  Cukup jelas\n Ayat (2)\n  Yang dimaksud dengan denda adalah kewajiban untuk membayar uang dalam\njumlah tertentu sebagai akibat tidak dipenuhinya ketentuan dalam Undang-undang\nini. Sanksi denda ini dapat dikenakan te rhadap pelanggaran antara lain atas\nketerlambatan, ketidaklengkapan, atau kelalaian penyampaian laporan.\n Ayat (3)\n  Pokok-pokok ketentuan sanksi administratif  yang akan ditetapkan dalam Peraturan\nBank Indonesia memuat antara lain :\n  a. tata cara pengenaan sanksi;\n  b. jenis-jenis pelanggara n yang dapat dikenakan sanksi;\n  c. besarnya denda.\n\nPasal 8\n Cukup jelas\n\nPasal 9\n Cukup jelas\n\n\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 3844"
+   }
+  }
+ ]
+}

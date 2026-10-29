@@ -1,0 +1,62 @@
+{
+ "id": "PH-H22886",
+ "title": {
+  "zh": null,
+  "en": "Amending Section 16 of Presidential Decree No. 97, Entitled \"Regulating the Practice of the Marine Profession in the Philippines",
+  "orig": "Amending Section 16 of Presidential Decree No. 97, Entitled \"Regulating the Practice of the Marine Profession in the Philippines"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1978-06-11",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 1560",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1043,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_01560_1978_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_01560_1978_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22886-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section sixteen, paragraph (d) of Presidential Decree No. 97 dated January 13, 1973, is hereby\namended to read as follows:\n\"Sec. 16. Requirements of Deck Officers\n\"(d) Third Mate Applicant must be a holder of a degree of Bachelor of Science on Marine Transportation\nmajor in Navigation and Seamanship after completion of a nautical curriculum of academic and theoretical\nstudies, and twelve months of practical apprenticeship which must be served on merchant marine vessels of\nnot less than two hundred fifty gross tons registered for foreign or coastwise trade to qualify for Third Mate\nlicense. The certification of service is issued by the Master and Chief Mate of the vessel and duly\nauthenticated by the ship owner or by the ship representative of the vessel. The apprenticeship shall be under\nthe supervision of a permanent staff of the institution assigned solely for such purpose.\""
+   }
+  },
+  {
+   "id": "PH-H22886-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Decree shall take effect immediately.\nDone in the City of Manila, this 11th day of June, in the Year of Our Lord, nineteen hundred and\nseventy-eight."
+   }
+  }
+ ]
+}

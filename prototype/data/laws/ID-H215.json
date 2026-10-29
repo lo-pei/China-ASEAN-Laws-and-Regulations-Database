@@ -1,0 +1,88 @@
+{
+ "id": "ID-H215",
+ "title": {
+  "zh": "1962年第10号法",
+  "en": "Law No. 10 of 1962 Law",
+  "id": "Undang-Undang Nomor 10 Tahun 1962",
+  "orig": "Undang-Undang Nomor 10 Tahun 1962",
+  "vi": "Luật Luật số 10 năm 1962",
+  "th": "พระราชบัญญัติ พระราชบัญญัติ ฉบับที่ 10 พ.ศ. 2505",
+  "ms": "Akta Akta Bilangan 10 1962"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02b",
+ "language": "id",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "1962",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU10-1962",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 3,
+ "chars": 1291,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": null
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\01_宪法与基础法\\印尼_WLD_1962_Undang-Undang Nomor 10 Tahun 1962.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 3 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H215-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {},
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 1.\nAnggaran bagian-bagian perusahaan Negara berdasarkan\nUndang-undang Perusahaan Indonesia (U.P.I.) yakni ;\nBagian U.P.I. IV : Perusahaan Percetakan Negara ;\nBagian U.P.I. XVI : Jawatan Kereta Api;\nBagian U.P.I. XVII : Perusahaan Reproduksi dari Jawatan Topografi\ndari anggaran Republik Indonesian untuk tahun 1962 ditetapkan\nseperti dimuat dalam daftar-daftar lampiran Undang-undang ini."
+   }
+  },
+  {
+   "id": "ID-H215-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "Bagian U.P.I. IV : Perusahaan Percetakan Negara ; / Bagian U.P.I. XVII : Perusahaan Reproduksi dari Jawatan Topografi"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 2.\nPembiayaan anggaran perusahaan-perusahaan berdasarkan\nUndang-undang Perusahaan Indonesia tersebut dalam pasal 1 yang\nmengenai penanaman\nmodal dilakukan oleh Bank Pembangunan\nIndonesia."
+   }
+  },
+  {
+   "id": "ID-H215-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "Bagian U.P.I. IV : Perusahaan Percetakan Negara ; / Bagian U.P.I. XVII : Perusahaan Reproduksi dari Jawatan Topografi"
+   },
+   "heading": {
+    "id": "."
+   },
+   "text": {
+    "id": "Pasal 3.\nUndang-undang ini mulai berlaku pada hari diundangkan dan\nmempunyai daya surut sampai tanggal 1 Januari 1962.\nAgar setiap orang dapat mengetahuinya, memerintahkan\npengundangan Undang-undang ini dengan penempatan dalam\nLembaran-Negara Republik\nIndonesia.\nDisahkan di Jakarta.\npada tanggal 18 Juni 1962.\nPresiden Republik Indonesia,\nSUKARNO.\nDiundangkan di Jakarta\npada tanggal 18 Juni 1962.\nSekretaris Negara,\nMOHD.ICHSAN.\n--------------------------------\nCATATAN\nDi dalam dokumen ini terdapat lampiran dalam format gambar.\nTGPT NAME=\"\"> Disetujui DPR-GR dalam rapat pleno terbuka ke-19\npada hari Sabtu tanggal 25 MEI 1962, P. 224/1962\nKutipan: LEMBARAN NEGARA TAHUN 1962 YANG TELAH DICETAK ULANG"
+   }
+  }
+ ]
+}

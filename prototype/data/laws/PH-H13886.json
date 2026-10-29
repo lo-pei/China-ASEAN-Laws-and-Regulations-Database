@@ -1,0 +1,72 @@
+{
+ "id": "PH-H13886",
+ "title": {
+  "zh": null,
+  "en": "An Act to Prohibit the Exportation to Foreign Countries of Seeds of Abaca and Its Derivatives",
+  "orig": "An Act to Prohibit the Exportation to Foreign Countries of Seeds of Abaca and Its Derivatives"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1925-12-01",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3251",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 514,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1925/act_3251_1925.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03251_1925_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03251_1925_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13886-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "It shall be unlawful for any person, corporation, or association to export seeds of the plant\ncommonly known as \"abaca\" and its derivatives."
+   }
+  },
+  {
+   "id": "PH-H13886-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Violations of this Act shall be punished by imprisonment for not less than one month nor more\nthan one year, or by a fine of not less than fifty pesos nor more than two thousand, or both, in the discretion of\nthe court, and the seeds which it is attempted to export shall be forfeited to the Government."
+   }
+  },
+  {
+   "id": "PH-H13886-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, December 1, 1925."
+   }
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "id": "PH-H14021",
+ "title": {
+  "zh": null,
+  "en": "An Act to Provide for the Organization of the Municipal Districts of Sudipen, Santol, San Gabriel, and Pugo, Province of La Union, Into Regular Municipalties.",
+  "orig": "An Act to Provide for the Organization of the Municipal Districts of Sudipen, Santol, San Gabriel, and Pugo, Province of La Union, Into Regular Municipalties."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1927-12-03",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3386",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 732,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1927/act_3386_1927.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03386_1927_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03386_1927_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14021-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The Governor-General is hereby authorized to organize the municipal districts of Sudipen,\nSantol, San Gabriel, and Pugo, Province of La Union, into regular municipalities in accordance with the\nprovisions of chapter fifty-seven of the Administrative Code, when in his judgment such organization would\nbe for the best interests of the inhabitants thereof."
+   }
+  },
+  {
+   "id": "PH-H14021-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Upon the organization of said municipal districts into municipalities as provided in the preceding\nsection, the present officials thereof shall continue to perform the duties of their respective offices until their\nsuccessors shall have been duly elected and qualified in accordance with the Election Law."
+   }
+  },
+  {
+   "id": "PH-H14021-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, December 3, 1927."
+   }
+  }
+ ]
+}

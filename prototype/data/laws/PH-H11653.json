@@ -1,0 +1,82 @@
+{
+ "id": "PH-H11653",
+ "title": {
+  "zh": null,
+  "en": "AN ACT DECLARING THE BARRIOS OF MONTUFAR AND MANLABONG, NOW A PART OF THE MUNICIPALITY OF BACON, AND THE BARRIO OF CALAO, NOW A PART OF THE MUNICIPALITY OF GUBAT, ALL OF THE PROVINCE OF SORSOGON, TO BE A NEW MUNICIPALITY UNDER THE NAME OF PRIETO DIAZ.",
+  "orig": "AN ACT DECLARING THE BARRIOS OF MONTUFAR AND MANLABONG, NOW A PART OF THE MUNICIPALITY OF BACON, AND THE BARRIO OF CALAO, NOW A PART OF THE MUNICIPALITY OF GUBAT, ALL OF THE PROVINCE OF SORSOGON, TO BE A NEW MUNICIPALITY UNDER THE NAME OF PRIETO DIAZ."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 940",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 1372,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_00940_1903_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_00940_1903_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H11653-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The barrios of Montufar and Manlabong, now a part of the municipality of Bacon, and the barrio\nof Calao, now a part of the municipality of Gubat, all of the Province of Sorsogon, are hereby separated, each\nfrom its corresponding municipality, and shall be organized as a new municipality under the name of Prieto"
+   }
+  },
+  {
+   "id": "PH-H11653-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The municipal election in the new municipality of Prieto Diaz shall be held in accordance with the\nrules contained in Act Numbered Seven hundred and thirty, as amended by Act Numbered Nine hundred and\ntwenty-eight, and when the officers chosen at the election shall have qualified, then the organization of the\nmunicipality created in section one shall be deemed effected and its jurisdiction as a municipality shall begin.\nThe elections in the municipalities of Bacon and Gubat shall take place as provided by law except that\nelectors of the barrios united in the first section hereof to form the municipality of Prieto Diaz shall not vote\nat such elections, but shall vote for the officers of the new municipality."
+   }
+  },
+  {
+   "id": "PH-H11653-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "The public good requiring the speedy enactment of this bill, the passage of the same is hereby\nexpedited in accordance with section two of \"An Act prescribing the order of procedure by the Commission\nin the enactment of laws,\" passed September twenty-sixth, nineteen hundred."
+   }
+  },
+  {
+   "id": "PH-H11653-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, October 12, 1903."
+   }
+  }
+ ]
+}

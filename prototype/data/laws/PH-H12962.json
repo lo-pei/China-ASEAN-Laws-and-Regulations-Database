@@ -1,0 +1,72 @@
+{
+ "id": "PH-H12962",
+ "title": {
+  "zh": null,
+  "en": "An Act Amending Sections Two and three of Act Numbered Eighteen Hundred and Sixty-Eight, Entitled \"An Act Creating the Bureau of Labor, Under the Department of Commerce and Police,\" By Providing for the Punishment of Persons Obstructing or Resisting the Director of Labor or His Deputies in the Performance of their Duties, and for Other Purposes.",
+  "orig": "An Act Amending Sections Two and three of Act Numbered Eighteen Hundred and Sixty-Eight, Entitled \"An Act Creating the Bureau of Labor, Under the Department of Commerce and Police,\" By Providing for the Punishment of Persons Obstructing or Resisting the Director of Labor or His Deputies in the Performance of their Duties, and for Other Purposes."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1913-02-11",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2258",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1019,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1913/act_2258_1913.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02258_1913_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02258_1913_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12962-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section two of Act Numbered Eighteen hundred and sixty-eight, entitled \"An Act creating the\nBureau of Labor, under the Department of Commerce and Police,\" is hereby amended by adding, after\nsubsection (e) thereof, the following paragraph:\n\" (f) Any person obstructing or resisting the Director of Labor or his deputies m their compliance with the\nduties prescribed in subsections (6) and (c) of this section, shall, upon conviction thereof, be punished by a\nfine of not less than fifty pesos nor more than two hundred pesos for each offense.\""
+   }
+  },
+  {
+   "id": "PH-H12962-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Section three of Act Numbered Eighteen hundred and sixty-eight, is hereby amended to read as\n\"Section 3. By and with the approval of the Governor-General, the Director of Labor or his deputies shall have\npower to administer oaths, to issue subpoenas and subpoenas duces tecum, and to receive and take affidavits\nand the testimony of witnesses and experts, when making investigations authorized by this Act.\""
+   }
+  },
+  {
+   "id": "PH-H12962-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, February 11, 1913."
+   }
+  }
+ ]
+}

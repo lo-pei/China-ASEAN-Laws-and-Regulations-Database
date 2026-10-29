@@ -1,0 +1,82 @@
+{
+ "id": "PH-H15928",
+ "title": {
+  "zh": null,
+  "en": "An Act to Fix A. Minimum Daily Wage for Laborers Employed in Public Work, and Providing Penalties for the VIolation thereof.",
+  "orig": "An Act to Fix A. Minimum Daily Wage for Laborers Employed in Public Work, and Providing Penalties for the VIolation thereof."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1936-11-21",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 211",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 1603,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00211_1936_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00211_1936_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H15928-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "All laborers employed by corporation, person, or persons in any public work shall receive a\nminimum daily wage of one peso. In the ease of provincial and municipal public works, the province or\nmunicipality may pay lower wages, if financial conditions of the province or municipality so demand."
+   }
+  },
+  {
+   "id": "PH-H15928-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The contractor and each subcontractor shall keep, or cause to be kept, an accurate record\nshowing the names and occupations of all laborers employed by him, in connection with the said public work,\nand showing also the actual daily wage paid to each of such workers. Said record shall be open during all\nreasonable hours to the inspection of the public body awarding the contract and its officers and agents."
+   }
+  },
+  {
+   "id": "PH-H15928-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "Any officer, agent, or representative of the Government of the Philippines, or of any political\nsubdivision thereof, who shall willfully violate or omit to comply with any of the provisions of this Act, and\nany contractor or subcontractor, or agent or representative thereof, doing public work as aforesaid, who shall\nviolate this Act or neglect to keep, or cause to be kept, an accurate record of the names, occupation, and actual\nwages paid to each laborer employed by him in connection with the said public work or who shall refuse to\nallow access to same at any reasonable hour to any person authorized to inspect same under this Act, shall be\npunished by a fine of not exceeding one thousand pesos, or by imprisonment for not exceeding six months, or\nboth, in the discretion of the court."
+   }
+  },
+  {
+   "id": "PH-H15928-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "This Act shall take effect on January first, nineteen hundred and thirty-seven.\nApproved, November 21, 1936."
+   }
+  }
+ ]
+}

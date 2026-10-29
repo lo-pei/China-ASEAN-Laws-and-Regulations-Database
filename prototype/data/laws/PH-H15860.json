@@ -1,0 +1,62 @@
+{
+ "id": "PH-H15860",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Act Numbered Twenty-Seven Hundred and Eleven, Commonly Known as the Administrative Code of Nineteen Hundred and Seventeen, By Inserting Section Twenty-Five Hundred and Sixty-One (A) Between Sections Twenty-Five Hundred and Sixty-One and Twenty-Five Hundred and Sixty-Two thereof.",
+  "orig": "An Act to Amend Act Numbered Twenty-Seven Hundred and Eleven, Commonly Known as the Administrative Code of Nineteen Hundred and Seventeen, By Inserting Section Twenty-Five Hundred and Sixty-One (A) Between Sections Twenty-Five Hundred and Sixty-One and Twenty-Five Hundred and Sixty-Two thereof."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1936-11-07",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 143",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 680,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00143_1936_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00143_1936_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H15860-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "A new section is hereby inserted between sections twenty-five hundred and sixty-one and\ntwenty-five hundred and sixty-two of Act Numbered twenty-seven hundred and eleven, which shall read as\n\"Section 2561 (A). The city attorney and assistant city attorney shall receive compensation to be paid out of\nthe city treasury not exceeding five thousand pesos and three thousand pesos per annum, respectively:\nProvided, That with the approval of the Secretary of the Interior first had, the city council may, in its\ndiscretion, provide quarters for said officials or commute the same, in addition to their salary.”"
+   }
+  },
+  {
+   "id": "PH-H15860-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, November 7, 1936."
+   }
+  }
+ ]
+}

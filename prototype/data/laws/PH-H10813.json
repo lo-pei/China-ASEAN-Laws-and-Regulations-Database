@@ -1,0 +1,62 @@
+{
+ "id": "PH-H10813",
+ "title": {
+  "zh": null,
+  "en": "AN ACT EMPOWERING THE MILITARY GOVERNOR AND HIS PROPER SUBORDINATES TO ORGANIZE TOWN GOVERNMENTS NOT ALREADY ORGANIZED IN PROVINCES TO WHICH THE PROVINCIAL GOVERNMENT ACT HAS NOT BEEN EXTENDED.",
+  "orig": "AN ACT EMPOWERING THE MILITARY GOVERNOR AND HIS PROPER SUBORDINATES TO ORGANIZE TOWN GOVERNMENTS NOT ALREADY ORGANIZED IN PROVINCES TO WHICH THE PROVINCIAL GOVERNMENT ACT HAS NOT BEEN EXTENDED."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 100",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 779,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_00100_1901_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_00100_1901_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H10813-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "In all provinces to which the provisions of the Provincial Government Act have not been\nextended, the Military Governor, or his proper subordinates, shall have power to organize town governments\nnot already organized under General Order Number Forty, series of nineteen hundred, Office of the Military\nGovernor of the Philippine Islands, or the Municipal Code, in accordance with the provision of General\nOrder Number Forty-three, series of eighteen hundred and ninety-nine, Headquarters Division of the\nPhilippines. Such organization shall be provisional and shall remain in force only until the Commission shall\nestablish a municipal government in accordance with the terms and provisions of the Municipal Code."
+   }
+  },
+  {
+   "id": "PH-H10813-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, March 9, 1901."
+   }
+  }
+ ]
+}

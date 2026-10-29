@@ -1,0 +1,62 @@
+{
+ "id": "PH-H18354",
+ "title": {
+  "zh": null,
+  "en": "MALACANANG PLEt\\SE CITE:,E BY THE PRESIDENT OF THE PHILIPPINES",
+  "orig": "MALACANANG PLEt\\SE CITE:,E BY THE PRESIDENT OF THE PHILIPPINES"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p157",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Executive Order No. 183",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 699,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/07_行政命令_EO/EO_00183_1999.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 EO_00183_1999.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H18354-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "SECTION 1"
+   },
+   "text": {
+    "en": "The percentage of net earnings to be declared and\nremitted by PPA as dividend to the National Government, as provided for\nunder Section 3 of Republic Act No. 7656, is hereby adjusted from fifty\npercent (50%) to fifteen percent (15%).\n2.\nsection is only applicable\nto the 1999 net earnings\n\nany amount saved under its reduced dividend obligation\nfor 1999 shall be used exclusively for the construction,\nexpansion and\nmaintenance of ports under PPA's jurisdiction."
+   }
+  },
+  {
+   "id": "PH-H18354-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "SEC 3"
+   },
+   "text": {
+    "en": "This Executive Order shall take effect immediately.\nDONE in the City of Manila this\n10th day of December in the year\nof Our Lord, Nineteen Hundred and Ninety-Nine.\n/11\n(\n/\"\nBy the President:\nRONALDO B. ZAMORA\nExecutive Secretary\n~:;~\n~\n."
+   }
+  }
+ ]
+}

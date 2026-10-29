@@ -1,0 +1,930 @@
+{
+ "id": "MY-H619",
+ "title": {
+  "zh": "2024年网络安全法",
+  "en": "CYBER SECURITY ACT 2024",
+  "orig": "CYBER SECURITY ACT 2024",
+  "vi": "Luật về An ninh mạng năm 2024",
+  "th": "พระราชบัญญัติความมั่นคงปลอดภัยไซเบอร์ ค.ศ. 2024",
+  "id": "Undang-Undang Keamanan Siber Tahun 2024",
+  "ms": "Akta Keselamatan Siber 2024"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-14",
+ "language": "en",
+ "level": "law",
+ "category": "02_民商事与经济法",
+ "status": "active",
+ "promulgatedDate": "2024",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "ACT854",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 64,
+ "chars": 73872,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-detail.php?act=854&lang=BI"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\02_民商事与经济法\\2024_854_CYBER SECURITY ACT 2024.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 64 条；逐字未改写（源自厂商 OCR 文本）。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H619-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "1. (1) This Act may be cited as the Cyber Security Act 2024.\n (2) This Act comes into operation on a date to be appointed\nby the Minister by notification in the Gazette .\nLaws of Malaysia8\nAct 854\nThis Act binds the Federal Government and State Governments"
+   }
+  },
+  {
+   "id": "MY-H619-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "2. (1) This Act shall bind the Federal Government and State\nGovernments.\n (2) Nothing in this Act shall render the Federal Government\nand State Governments liable to prosecution for any offence under\nthis Act.\nExtra-territorial application"
+   }
+  },
+  {
+   "id": "MY-H619-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "3. (1) This Act shall, in relation to any person, whatever his\nnationality or citizenship, have effect outside as well as within\nMalaysia, and where an offence under this Act is committed by\nany person in any place outside Malaysia, he may be dealt with\nin respect of such offence as if the offence was committed at\nany place within Malaysia.\n (2) For the purposes of subsection (1), this Act shall apply\nif for the offence in question, the national critical information\ninfrastructure is wholly or partly in Malaysia.\nInterpretation"
+   }
+  },
+  {
+   "id": "MY-H619-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "4. In this Act, unless the context otherwise requires—\n \"this Act\" includes any subsidiary legislation made under\nthis Act;\n \"cyber security threat\" means an act or activity carried out\non or through a computer or computer system, without lawful\nauthority, that may imminently jeopardize or may adversely affect\nthe cyber security of that computer or computer system or another\ncomputer or computer system;\n \"directive\" means a directive issued by the Chief Executive\nunder section 13;\n \"prescribed\" means prescribed by Minister by regulations made\nunder this Act;\nCyber Security 9\n \"national critical information infrastructure entity\" means any\nGovernment Entity or person designated as a national critical\ninformation infrastructure entity under section 17 or 18;\n \"Government Entity\" means—\n (a) any ministry, department, office, agency, authority,\ncommission, committee, board, council or other body,\nof the Federal Government, or of any of the State\nGovernments, established under any written law or\notherwise; and\n (b) any local authority;\n \"national critical information infrastructure\" means a computer\nor computer system which the disruption to or destruction of the\ncomputer or computer system would have a detrimental impact\non the delivery of any service essential to the security, defence,\nforeign relations, economy, public health, public safety or public\norder of Malaysia, or on the ability of the Federal Government or\nany of the State Governments to carry out its functions effectively;\n \"cyber security incident\" means an act or activity carried out\non or through a computer or computer system, without lawful\nauthority, that jeopardizes or adversely affects the cyber security\nof that computer or computer system or another computer or\ncomputer system;\n \"Committee\" means the National Cyber Security Committee\nestablished under section 5;\n \"cyber security\" means the state in which a computer or\ncomputer system is protected from any attack or unauthorized\naccess, and because of that state—\n (a) the computer or computer system continues to be available\nand operational;\n (b) the integrity of the computer or computer system is\nmaintained; and\n (c) the integrity and confidentiality of information stored in,\nprocessed by or transmitted through, the computer or\ncomputer system is maintained;\nLaws of Malaysia10\nAct 854\n \"Chief Executive\" means the Chief Executive of the National Cyber\nSecurity Agency;\n \"national critical information infrastructure sector lead\" means\nany Government Entity or person appointed as a national critical\ninformation infrastructure sector lead under section 15;\n \"computer\" means an electronic, magnetic, optical, electrochemical,\nor other data processing device performing logical, arithmetic,\nstorage or display function, and includes any data storage facility\nor communications facility directly related to or operating in\nconjunction with such device, but does not include an automated\ntypewriter or typesetter, or a portable hand held calculator or\nother similar device which is non-programmable or which does\nnot contain any data storage facility;\n \"Minister\" means the Minister charged with the responsibility\nfor cyber security;\n \"authorized officer\" means any police officer of whatever rank\nor any public officer authorized under section 36;\n \"cyber security service provider\" means a person who provides\na cyber security service;\n \"cyber security service\" means the cyber security service as\nmay be prescribed under subsection 27(2);\n \"national critical information infrastructure sector\" means\nthe national critical information infrastructure sector specified in\nthe Schedule;\n \"computer system\" means an arrangement of interconnected\ncomputers that is designed to perform one or more specific\nfunctions, and includes—\n (a) an information technology system; and\n (b) an operational technology system such as an industrial\ncontrol system, a programmable logic controller,\na supervisory control and data acquisition system, or\na distributed control system;\n \"code of practice\" means the code of practice referred to in\nsection 25.\nCyber Security 11\nPart II\nNATIONAL CYBER SECURITY COMMITTEE\nEstablishment of Committee"
+   }
+  },
+  {
+   "id": "MY-H619-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "chapter": {
+    "en": "Part II"
+   },
+   "heading": {},
+   "text": {
+    "en": "5. (1) A committee by the name of \"National Cyber Security\nCommittee\" is established.\n (2) The Committee shall consist of the following members:\n (a) the Prime Minister who shall be the Chairman;\n (b) the Minister charged with the responsibility for finance;\n (c) the Minister charged with the responsibility for foreign\naffairs;\n (d) the Minister charged with the responsibility for defence;\n (e) the Minister charged with the responsibility for home\naffairs;\n (f) the Minister charged with the responsibility for\ncommunications;\n (g) the Minister charged with the responsibility for digital\nrelated matters;\n (h) the Chief Secretary to the Government;\n (i) the Chief of Defence Force;\n (j) the Inspector General of Police;\n (k) the Director General of National Security; and\n (l) not more than two other persons who shall be appointed\nby the Committee from among persons of standing and\nexperience in cyber security.\nLaws of Malaysia12\nAct 854\n (3) The Chairman shall appoint from among the members of\nthe Committee a Deputy Chairman.\n (4) The Chief Executive shall be the secretary to the Committee.\nFunctions of Committee"
+   }
+  },
+  {
+   "id": "MY-H619-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "chapter": {
+    "en": "Part II"
+   },
+   "heading": {},
+   "text": {
+    "en": "6. (1) The Committee shall have the following functions:\n (a) to plan, formulate and decide on policies relating to\nnational cyber security;\n (b) to decide on approaches and strategies in addressing\nmatters relating to national cyber security;\n (c) to monitor the implementation of policies and strategies\nrelating to national cyber security;\n (d) to advise and make recommendations to the Federal\nGovernment on policies and strategic measures to\nstrengthen national cyber security;\n (e) to give directions to the Chief Executive and national\ncritical information infrastructure sector leads on matters\nrelating to national cyber security;\n (f) to oversee the effective implementation of this Act; and\n (g) to do such other things arising out of or consequential to\nthe functions of the Committee under this Act consistent\nwith the purposes of this Act.\n (2) The Committee shall have all such powers as may be\nnecessary for, or in connection with, or reasonably incidental to,\nthe performance of its functions under this Act.\nMeetings of Committee"
+   }
+  },
+  {
+   "id": "MY-H619-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7"
+   },
+   "chapter": {
+    "en": "Part II"
+   },
+   "heading": {},
+   "text": {
+    "en": "7. (1) The Committee shall convene its meeting as often as the\nChairman may determine and the meeting shall be held at the\ntime and place as determined by the Chairman.\nCyber Security 13\n (2) The Chairman shall preside at all meetings of the Committee.\n (3) If the Chairman is absent from any meeting of the Committee,\nhe may direct the Deputy Chairman to replace him as the chairman\nof the meeting.\n (4) The quorum of the Committee shall be five.\n (5) The Chairman may authorize the use of a live video link,\nlive television link or any other electronic means of communication\nfor the purposes of any meeting of the Committee.\n (6) The Committee may determine its own procedure.\nCommittee may invite others to attend meetings"
+   }
+  },
+  {
+   "id": "MY-H619-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8"
+   },
+   "chapter": {
+    "en": "Part II"
+   },
+   "heading": {},
+   "text": {
+    "en": "8. The Committee may invite any person to attend meetings\nof the Committee to advise the Committee on any matter under\ndiscussion.\nCommittee may establish subcommittees"
+   }
+  },
+  {
+   "id": "MY-H619-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9"
+   },
+   "chapter": {
+    "en": "Part II"
+   },
+   "heading": {},
+   "text": {
+    "en": "9. (1) The Committee may establish any subcommittee as the\nCommittee considers necessary or expedient to assist the Committee\nin the performance of its functions.\n (2) The Committee may appoint any person to be a member\nof any subcommittee established under subsection (1).\n (3) The Committee may appoint any of its members or any\nother person to be the chairman of the subcommittee established\nunder subsection (1).\n (4) The subcommittee shall be subject to and act in accordance\nwith any directions given by the Committee.\n (5) The subcommittee shall meet as often as may be necessary\nat the time and place as the chairman of the subcommittee may\ndetermine.\nLaws of Malaysia14\nAct 854\n (6) The subcommittee may invite any person to attend meetings\nof the subcommittee to advise the subcommittee on any matter\nunder discussion.\n (7) The chairman of the subcommittee may authorize the use\nof a live video link, live television link or any other electronic\nmeans of communication for the purposes of any meeting of the\nsubcommittee.\nPart III\nDUTIES AND POWERS OF CHIEF EXECUTIVE\nDuties and powers of Chief Executive"
+   }
+  },
+  {
+   "id": "MY-H619-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10"
+   },
+   "chapter": {
+    "en": "Part III"
+   },
+   "heading": {},
+   "text": {
+    "en": "10. (1) The Chief Executive shall have the following duties:\n (a) to advise and make recommendations to the Committee\non policies, strategies and strategic measures relating to\nnational cyber security;\n (b) to implement the policies, strategies and strategic measures\nmade and directions given by the Committee or the Federal\nGovernment on matters relating to national cyber security;\n (c) to coordinate and monitor the implementation of policies,\nstrategies and strategic measures on national cyber\nsecurity by the national critical information infrastructure\nsector leads, national critical information infrastructure\nentities, Government Entities or any other person;\n (d) to collect and coordinate the data, information or\nintelligence relating to national cyber security received\nfrom the national critical information infrastructure\nsector leads, national critical information infrastructure\nentities, Government Entities or any other person, and\nto evaluate or correlate such data, information or\nintelligence;\n (e) to disseminate the information and intelligence referred\nto in paragraph (d) to the national critical information\ninfrastructure sector leads or national critical information\ninfrastructure entities if the Chief Executive thinks\nit is essential to do so in the interest of national cyber security;\nCyber Security 15\n (f) to issue directives to the national critical information\ninfrastructure sector leads, national critical information\ninfrastructure entities, Government Entities or any other\nperson on matters relating to national cyber security; or\n (g) to carry out any other duties imposed upon him under\nthis Act or as directed by the Committee.\n (2) The Chief Executive shall have all such powers as may be\nnecessary for, or in connection with, or reasonably incidental to,\nthe carrying out of his duties under this Act.\nNational Cyber Coordination and Command Centre System"
+   }
+  },
+  {
+   "id": "MY-H619-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11"
+   },
+   "chapter": {
+    "en": "Part III"
+   },
+   "heading": {},
+   "text": {
+    "en": "11. (1) The Chief Executive shall establish and maintain\na national cyber security system known as the \"National Cyber\nCoordination and Command Centre System\" for the purpose\nof dealing with cyber security threats and cyber security\nincidents.\n (2) The National Cyber Coordination and Command Centre\nSystem may contain any data or information on cyber security\nobtained or kept by the Chief Executive in the course of carrying\nout his duties under this Act.\n (3) The Chief Executive may, in the interest of national cyber\nsecurity and subject to such terms and conditions as he thinks fit,\nauthorize any person to have access to the National Cyber\nCoordination and Command Centre System.\nAppointment of cyber security expert"
+   }
+  },
+  {
+   "id": "MY-H619-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12"
+   },
+   "chapter": {
+    "en": "Part III"
+   },
+   "heading": {},
+   "text": {
+    "en": "12. The Chief Executive may in writing appoint any qualified\nexpert in cyber security as a cyber security expert for a period\nas determined by the Chief Executive in the course of, or\nin connection with, or reasonably incidental to, the performance\nof the Chief Executive's duties under this Act.\nLaws of Malaysia16\nAct 854\nDirective of Chief Executive"
+   }
+  },
+  {
+   "id": "MY-H619-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13"
+   },
+   "chapter": {
+    "en": "Part III"
+   },
+   "heading": {},
+   "text": {
+    "en": "13. (1) The Chief Executive may issue such directive as the\nChief Executive considers necessary for the purpose of ensuring\ncompliance with this Act.\n (2) The Chief Executive may revoke, vary, revise or amend\nthe whole or any part of any directive issued under this section.\nPower to gather information"
+   }
+  },
+  {
+   "id": "MY-H619-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14"
+   },
+   "chapter": {
+    "en": "Part III"
+   },
+   "heading": {},
+   "text": {
+    "en": "14. (1) Notwithstanding any other written law, if the Chief\nExecutive has reasonable grounds to believe that any person—\n (a) has any information, particulars or document that is\nrelevant to the performance of the Chief Executive's\nduties and powers under this Act; or\n (b) is capable of giving any evidence which the Chief\nExecutive has reasonable grounds to believe is relevant\nto the performance of the Chief Executive's duties and\npowers under this Act,\nthe Chief Executive may, by notice in writing, direct that person—\n (A)  to give any such information or particulars to the Chief\nExecutive in the form and manner and within the period\nas specified in the notice or such extended period as\nthe Chief Executive may grant;\n (B) to produce any such document, whether in physical form\nor in electronic media, to the Chief Executive in the\nmanner and within the period as specified in the notice\nor such extended period as the Chief Executive may\ngrant;\n (C)  to make copies of any such document and to produce\nthose copies to the Chief Executive in the manner and\nwithin the period as specified in the notice or such\nextended period as the Chief Executive may grant;\nCyber Security 17\n (D) if the person is an individual, to appear before an authorized\nofficer at the time and place specified in the notice\nto give any evidence, either orally or in writing, and\nproduce any document, whether in physical form or\nin electronic media, in the manner and within the period\nas specified in the notice or such extended period as\nthe Chief Executive may grant;\n (E)  if the person is a body corporate or a public body, to cause\na competent officer of the body corporate or public body\nto appear before an authorized officer at the time and\nplace specified in the notice to give any evidence, either\norally or in writing, and produce any document, whether\nin physical form or in electronic media, in the manner\nand within the period as specified in the notice or such\nextended period as the Chief Executive may grant; or\n (F)  if the person is a partnership, to cause an individual who\nis a partner in the partnership or an employee of the\npartnership to appear before an authorized officer\nat the time and place specified in the notice to give any\nevidence, either orally or in writing, and produce any\ndocument, whether in physical form or in electronic\nmedia, in the manner and within the period as specified\nin the notice or such extended period as the Chief\nExecutive may grant.\n (2) Where the Chief Executive directs any person to produce\nany document under subsection (1) and the document is not\nin the custody of that person, that person shall—\n (a) state, to the best of his knowledge and belief, where the\ndocument may be found; and\n (b) identify, to the best of his knowledge and belief, the last\nperson who had custody of the document and state,\nto the best of his knowledge and belief, where that\nlast-mentioned person may be found.\n (3) Any person directed to give or produce any information,\nparticulars or documents or copies of any document under\nsubsection (1), shall ensure that the information, particulars or\ndocuments or copies of the document given or produced are true,\naccurate and complete and such person shall provide an express\nLaws of Malaysia18\nAct 854\nrepresentation to that effect, including a declaration that he is not\naware of any other information, particulars or document which\nwould make the information, particulars or document given or\nproduced untrue or misleading.\n (4) Where any person discloses any information or particulars\nor produces any document in response to a notice in writing\nunder this section, such person, his agent or employee, or any\nother person acting on his behalf or under his directions,\nshall not, by reason only of such disclosure or production,\nbe liable to prosecution for any offence under any written law,\nor to any proceedings or claim by any person under any law or\nunder any contract, agreement or arrangement, or otherwise.\n (5) Subsection (4) shall not bar, prevent or prohibit the institution\nof any prosecution for any offence as provided by this section\nor the disclosure or production of false information or document\nin relation to a notice in writing under this section furnished to\nthe Chief Executive pursuant to this section.\n (6) Any person who fails to comply with the directions of the\nChief Executive under subsection (1) commits an offence and\nshall, on conviction, be liable to a fine not exceeding two hundred\nthousand ringgit or to imprisonment for a term not exceeding\nthree years or to both.\n (7) Any person who contravenes subsection (2) or (3) commits\nan offence and shall, on conviction, be liable to a fine not\nexceeding two hundred thousand ringgit or to imprisonment for\na term not exceeding three years or to both.\nPart IV\nNATIONAL CRITICAL INFORMATION INFRASTRUCTURE SECTOR\nLEAD AND NATIONAL CRITICAL INFORMATION INFRASTRUCTURE\nENTITY\nAppointment of national critical information infrastructure\nsector lead"
+   }
+  },
+  {
+   "id": "MY-H619-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "15. (1) The Minister may, upon the recommendation of the\nChief Executive, appoint any Government Entity or person to be\nthe national critical information infrastructure  sector lead\nfor each of the national critical information infrastructure sectors.\nCyber Security 19\n (2) The Minister may appoint more than one national critical\ninformation infrastructure  sector lead for any of the national\ncritical information infrastructure sectors.\n (3) The names of the national critical information infrastructure\nsector leads appointed under this section shall be published in\nthe official website of the National Cyber Security Agency.\nFunctions of national critical information infrastructure sector lead"
+   }
+  },
+  {
+   "id": "MY-H619-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "16. The national critical information infrastructure sector lead\nshall, in respect of the national critical information infrastructure\nsector for which it is appointed, have the following functions:\n (a)  to designate a national critical information infrastructure\nentity under section 17;\n (b) to prepare a code of practice as required under section 25;\n (c) to implement the decisions of the Committee and directives\nunder this Act;\n (d) to monitor and ensure that actions required of and duties\nimposed on the national critical information infrastructure\nentities under this Act are carried out by the national\ncritical information infrastructure entities;\n (e) to prepare and maintain guidelines on best practices in\nrelation to cyber security management;\n (f) to prepare and submit to the Chief Executive a situational\nreport whether on its own initiative or as required by\nthe Chief Executive where a cyber security threat or\ncyber security incident has affected a national critical\ninformation infrastructure within its national critical\ninformation infrastructure sector; and\n (g) to carry out such other functions under this Act.\nDesignation of national critical information infrastructure entity"
+   }
+  },
+  {
+   "id": "MY-H619-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "17. (1) A national critical information infrastructure sector lead\nmay, in respect of the national critical information infrastructure\nsector for which it is appointed, designate in such manner as may\nLaws of Malaysia20\nAct 854\nbe determined by the Chief Executive, any Government Entity\nor person as a national critical information infrastructure entity\nif the national critical information infrastructure sector lead is\nsatisfied that the Government Entity or person owns or operates\na national critical information infrastructure.\n (2) For the purposes of subsection (1), the national critical\ninformation infrastructure sector lead may require the Government\nEntity or person to produce any information, particulars or\ndocument as may be determined by the national critical information\ninfrastructure sector lead including information relating to the\nfunction and design of the computer or computer system owned\nor operated by the Government Entity or person.\n (3) No Government Entity shall be designated as a national\ncritical information infrastructure entity by a national critical\ninformation infrastructure sector lead which is not a Government\nEntity.\n (4) The national critical information infrastructure sector\nlead shall notify the Chief Executive of the designation of the\nnational critical information infrastructure entity made under\nsubsection (1) together with particulars relating to the national\ncritical information infrastructure owned or operated by the\nnational critical information infrastructure entity in the manner\nas may be determined by the Chief Executive.\n (5) The national critical information infrastructure sector lead\nshall keep and maintain a register of the national critical information\ninfrastructure entities which have been designated under this section\nin such manner as may be determined by the Chief Executive.\n (6) The national critical information infrastructure entity which\nhas been designated under this section shall by notice in writing\nnotify its national critical information infrastructure sector lead\nwithout delay if—\n (a) the national critical information infrastructure entity is\nof the opinion that the computer or computer system\nowned or operated by the national critical information\ninfrastructure entity has ceased to be a national critical\ninformation infrastructure; or\n (b) the national critical information infrastructure entity no\nlonger owns or operates any national critical information\ninfrastructure.\nCyber Security 21\nDesignation of national critical information infrastructure\nsector lead as national critical information infrastructure\nentity"
+   }
+  },
+  {
+   "id": "MY-H619-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "18. (1) The Chief Executive may designate a national critical\ninformation infrastructure sector lead as a national critical information\ninfrastructure entity in such manner as he may determine if the\nChief Executive is satisfied that the national critical information\ninfrastructure sector lead owns or operates a national critical\ninformation infrastructure.\n (2) For the purposes of subsection (1), the Chief Executive\nmay require the national critical information infrastructure\nsector lead to produce any information, particulars or document\nas may be determined by the Chief Executive including\ninformation relating to the function and design of the computer or\ncomputer system owned or operated by the national critical\ninformation infrastructure sector lead.\n (3) The Chief Executive shall keep and maintain a register of\nthe national critical information infrastructure sector leads which\nhave been designated as national critical information infrastructure\nentities under this section in such manner as may be determined\nby the Chief Executive.\n (4) The national critical information infrastructure sector lead\nwhich has been designated as a national critical information\ninfrastructure entity under this section shall by notice in writing\nnotify the Chief Executive without delay if—\n (a) the national critical information infrastructure sector lead\nis of the opinion that the computer or computer system\nowned or operated by the national critical information\ninfrastructure sector lead has ceased to be a national\ncritical information infrastructure; or\n (b) the national critical information infrastructure sector\nlead no longer owns or operates any national critical\ninformation infrastructure.\nLaws of Malaysia22\nAct 854\nRevocation of designation of national critical information\ninfrastructure entity"
+   }
+  },
+  {
+   "id": "MY-H619-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "19. (1) A national critical information infrastructure sector lead\nmay by notice in writing to the national critical information\ninfrastructure entity, revoke the designation of the national critical\ninformation infrastructure entity made under section 17, if the\nnational critical information infrastructure sector lead is satisfied\nthat the national critical information infrastructure entity no longer\nowns or operates any national critical information infrastructure.\n (2) The revocation of the designation made under subsection (1)\nshall take effect from the date specified in the notice.\n (3) The national critical information infrastructure sector lead\nshall notify the Chief Executive of the revocation made under\nsubsection (1).\n (4) The Chief Executive may by notice in writing to the national\ncritical information infrastructure sector lead which has been\ndesignated as a national critical information infrastructure entity\nunder section 18, revoke the designation of the national critical\ninformation infrastructure sector lead if the Chief Executive is\nsatisfied that the national critical information infrastructure sector\nlead no longer owns or operates any national critical information\ninfrastructure.\n (5) The revocation of the designation made under subsection (4)\nshall take effect from the date specified in the notice and shall\nnot affect the appointment of the national critical information\ninfrastructure sector lead under section 15.\nDuty to provide information relating to national critical\ninformation infrastructure"
+   }
+  },
+  {
+   "id": "MY-H619-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "20. (1) The national critical information infrastructure sector\nlead may request a national critical information infrastructure\nentity in respect of the national critical information infrastructure\nsector for which it is appointed to provide information relating to\nthe national critical information infrastructure owned or operated\nby the national critical information infrastructure entity in such\nmanner as may be determined by the national critical information\ninfrastructure sector lead and the national critical information\ninfrastructure entity shall comply with the request.\nCyber Security 23\n (2) Where the national critical information infrastructure\nentity procures or has come into possession or control of any\nadditional computer or computer system which in the opinion\nof the national critical information infrastructure entity that the\ncomputer or computer system is a national critical information\ninfrastructure, the national critical information infrastructure\nentity shall provide such information to its national critical\ninformation infrastructure sector lead regardless whether there\nis a request under subsection (1).\n (3) If a material change is made to the design, configuration,\nsecurity or operation of the national critical information infrastructure\nowned or operated by the national critical information infrastructure\nentity after the information on such national critical information\ninfrastructure has been provided under subsection (1), the national\ncritical information infrastructure entity shall notify its national\ncritical information infrastructure sector lead of the material change\nwithin thirty days from the date the change was completed.\n (4) For the purposes of subsection (3), a change is a material\nchange if the change affects or may affect the cyber security of\nthe national critical information infrastructure or the ability of\nthe national critical information infrastructure entity to respond\nto a cyber security threat or cyber security incident.\n (5) The national critical information infrastructure sector lead\nshall notify the Chief Executive of any information received under\nsubsections (2) and (3) in the manner as may be determined by\nthe Chief Executive.\n (6) Any national critical information infrastructure entity which\ncontravenes subsection (1), (2) or (3) commits an offence and\nshall, on conviction, be liable to a fine not exceeding one hundred\nthousand ringgit or to imprisonment for a term not exceeding\ntwo years or to both.\n (7) Any national critical information infrastructure sector lead\nwhich contravenes subsection (5) commits an offence and shall,\non conviction, be liable to a fine not exceeding one hundred\nthousand ringgit.\nLaws of Malaysia24\nAct 854\nDuty to implement code of practice"
+   }
+  },
+  {
+   "id": "MY-H619-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "21. (1) A national critical information infrastructure entity shall\nimplement the measures, standards and processes as specified in\nthe code of practice to ensure the cyber security of the national\ncritical information infrastructure owned or operated by the\nnational critical information infrastructure entity.\n (2) Notwithstanding subsection (1), the national critical information\ninfrastructure entity may implement any alternative measures,\nstandards and processes if the national critical information\ninfrastructure entity proves to the satisfaction of the Chief\nExecutive that the alternative measures, standards and processes\nprovide equal or higher level of protection to the national critical\ninformation infrastructure owned or operated by the national\ncritical information infrastructure entity.\n (3) A national critical information infrastructure entity may,\nin addition to the measures, standards and processes referred\nto in subsection (1) or (2), establish and implement the measures,\nstandards and processes on cyber security based on internationally\nrecognized  standards or framework .\n (4) Where a national critical information infrastructure entity\nimplements measures, standards and processes to ensure the cyber\nsecurity of the national critical information infrastructure owned\nor operated by the national critical information infrastructure\nentity as required under any other written law, the national\ncritical information infrastructure entity shall be deemed\nto have complied with this section provided that such measures,\nstandards and processes are not in contravention with the code\nof practice.\n (5) Any national critical information infrastructure entity\nwhich contravenes subsection (1) commits an offence and shall,\non conviction, be liable to a fine not exceeding five hundred\nthousand ringgit or to imprisonment for a term not exceeding\nten years or to both.\nCyber Security 25\nDuty to conduct cyber security risk assessment and audit"
+   }
+  },
+  {
+   "id": "MY-H619-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "22. (1) A national critical information infrastructure entity shall\nwithin the period as may be prescribed—\n (a) conduct a cyber security risk assessment in respect of\nthe national critical information infrastructure owned or\noperated by the national critical information infrastructure\nentity in accordance with the code of practice and\ndirective; and\n (b) cause to be carried out an audit by an auditor approved\nby the Chief Executive to determine the compliance of\nthe national critical information infrastructure entity with\nthis Act.\n (2) The national critical information infrastructure entity shall,\nwithin the period of thirty days after the completion of the cyber\nsecurity risk assessment or audit under subsection (1), submit the cyber\nsecurity risk assessment report or audit report to the Chief Executive.\n (3) Where it appears to the Chief Executive from the cyber\nsecurity risk assessment report submitted under subsection (2) that\nthe result of the cyber security risk assessment is not satisfactory,\nthe Chief Executive may direct the national critical information\ninfrastructure entity to take further initiatives to re-evaluate the\ncyber security risk to such national critical information infrastructure\nwithin the period as may be determined by the Chief Executive.\n (4) Where the Chief Executive finds that the audit report\nsubmitted under subsection (2) is insufficient, the Chief Executive\nmay direct the national critical information infrastructure entity to\nrectify the audit report within the period as may be determined\nby the Chief Executive.\n (5) Upon receipt of the information from the national critical\ninformation infrastructure sector lead under subsection 20(5)\non the material change made to the design, configuration, security\nor operation of a national critical information infrastructure,\nthe Chief Executive may by notice in writing direct the national\ncritical information infrastructure entity which owns or operates\nthe national critical information infrastructure to conduct a cyber\nsecurity risk assessment or cause to be carried out an audit\nin respect of the national critical information infrastructure regardless\nwhether a cyber security risk assessment or audit has been\nconducted or carried out under subsection (1) in respect of such\nnational critical information infrastructure.\nLaws of Malaysia26\nAct 854\n (6) The Chief Executive may direct a national critical information\ninfrastructure entity to conduct a cyber security risk assessment\nor cause to be carried out an audit in addition to the cyber security\nrisk assessment or audit under subsection (1) or (5).\n (7) Any national critical information infrastructure entity which\ncontravenes subsection (1) or (2) commits an offence and shall,\non conviction, be liable to a fine not exceeding two hundred\nthousand ringgit or to imprisonment for a term not exceeding\nthree years or to both.\n (8) Any national critical information infrastructure entity which\nfails to comply with the directions of the Chief Executive under\nsubsection (3), (4), (5) or (6) commits an offence and shall,\non conviction, be liable to a fine not exceeding one hundred\nthousand ringgit.\nDuty to give notification on cyber security incident"
+   }
+  },
+  {
+   "id": "MY-H619-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "23. (1) If it comes to the knowledge of a national critical\ninformation infrastructure entity that a cyber security incident\nhas or might have occurred in respect of the national critical\ninformation infrastructure owned or operated by the national\ncritical information infrastructure entity, the national critical\ninformation infrastructure entity shall notify the Chief Executive\nand its national critical information infrastructure sector lead of\nsuch information within the period and in such manner as may\nbe prescribed.\n (2) Any national critical information infrastructure entity\nwhich contravenes this section commits an offence and shall,\non conviction, be liable to a fine not exceeding five hundred\nthousand ringgit or to imprisonment for a term not exceeding\nten years or to both.\nCyber security exercise"
+   }
+  },
+  {
+   "id": "MY-H619-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24"
+   },
+   "chapter": {
+    "en": "Part IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "24. (1) The Chief Executive may conduct a cyber security\nexercise for the purpose of assessing the readiness of any national\ncritical information infrastructure entity in responding to any\ncyber security threat or cyber security incident.\nCyber Security 27\n (2) The Chief Executive shall, before carrying out any cyber\nsecurity exercise under subsection (1), issue a notice in writing\nto the national critical information infrastructure entity concerned\nnotifying his intention to carry out such cyber security exercise\nin respect of the national critical information infrastructure entity.\n (3) The Chief Executive may give any directions to the national\ncritical information infrastructure entity as the Chief Executive\nthinks fit for the purpose of the cyber security exercise\ncarried out under this section.\n (4) Any national critical information infrastructure entity which\nfails to comply with the directions of the Chief Executive under\nsubsection (3) commits an offence and shall, on conviction,\nbe liable to a fine not exceeding one hundred thousand ringgit.\nPart V\nCODE OF PRACTICE\nCode of practice"
+   }
+  },
+  {
+   "id": "MY-H619-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "25. (1) A national critical information infrastructure sector lead\nshall prepare a code of practice to be endorsed by the\nChief Executive containing measures, standards and processes\nin ensuring the cyber security of a national critical information\ninfrastructure within the national critical information\ninfrastructure sector for which it is appointed.\n (2) The national critical information infrastructure sector lead\nshall, in preparing the code of practice under subsection (1),\nconsider among others the following matters:\n (a) the functions of the relevant national critical information\ninfrastructure entities;\n (b) provisions relating to cyber security under any other\nwritten law applicable to the national critical information\ninfrastructure sector lead;\n (c) the views of the relevant national critical information\ninfrastructure entities; and\n (d) the views of the relevant regulatory authority, if any,\nwhich the national critical information infrastructure\nentity is subject to.\nLaws of Malaysia28\nAct 854\n (3) The Chief Executive may endorse the code of practice\nprepared under subsection (1) if the Chief Executive is satisfied\nthat—\n (a) the measures, standards and processes specified in the\ncode of practice are consistent with or above the minimum\nrequirements specified in the directive;\n (b) the matters as set out in subsection (2) have been given\ndue consideration; and\n (c) the code of practice is consistent with the provisions of\nthis Act.\n (4) The code of practice under this section shall take effect\non the date of the endorsement of the code of practice by the\nChief Executive.\n (5) If the Chief Executive refuses to endorse the code of\npractice, the Chief Executive shall notify the national critical\ninformation infrastructure sector lead concerned of his decision\nin writing and provide the reasons for it.\n (6) Any national critical information infrastructure sector lead\nwhich contravenes subsection (1) commits an offence and shall,\non conviction, be liable to a fine not exceeding one hundred\nthousand ringgit.\nDirections under other written law shall be consistent with\ncode of practice"
+   }
+  },
+  {
+   "id": "MY-H619-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26"
+   },
+   "chapter": {
+    "en": "Part V"
+   },
+   "heading": {},
+   "text": {
+    "en": "26. Where a national critical information infrastructure sector lead\ndirects any national critical information infrastructure entity to\nimplement measures, standards and processes to ensure the cyber\nsecurity of the national critical information infrastructure owned or\noperated by the national critical information infrastructure entity\nunder any other written law, the national critical information\ninfrastructure sector lead shall ensure that the directions given\nare consistent with the code of practice.\nCyber Security 29\nPart VI\nCYBER SECURITY SERVICE PROVIDER\nLicensing of cyber security service provider"
+   }
+  },
+  {
+   "id": "MY-H619-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 27"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "27. (1) No person shall—\n (a) provide any cyber security service; or\n (b) advertise, or in any way hold himself out as a provider\nof a cyber security service,\nunless he holds a licence to provide a cyber security service\nissued under this Part.\n (2) The Minister may prescribe any cyber security service\nin respect of which a licence shall be obtained under this Part.\n (3) This Part shall not apply in the case where the cyber security\nservice is provided by a company to its related company.\n (4) In this section, \"related company\" has the meaning assigned\nto it in the Companies Act 2016 [ Act 777 ].\n (5) Any person who contravenes subsection (1) commits an\noffence and shall, on conviction, be liable to a fine not exceeding\nfive hundred thousand ringgit or to imprisonment for a term not\nexceeding ten years or to both.\nQualifications for application of licence"
+   }
+  },
+  {
+   "id": "MY-H619-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 28"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "28. Any person may apply for a licence under this Part if the\nperson—\n (a) fulfils prerequisite requirements as may be determined\nby the Chief Executive; and\n (b) has not been convicted of an offence involving fraud,\ndishonesty or moral turpitude.\nLaws of Malaysia30\nAct 854\nApplication for licence"
+   }
+  },
+  {
+   "id": "MY-H619-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Section 29"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "29. (1) An application for a licence to provide cyber security\nservice shall be made to the Chief Executive in such manner as\nmay be prescribed.\n (2) The application under subsection (1) shall be accompanied\nby payment of the prescribed fee and such information, particulars\nor document as may be determined by the Chief Executive.\n (3) After considering the application, the Chief Executive\nmay—\n (a) approve the application and issue to the applicant upon\npayment of the prescribed fee a licence in such form\nas may be determined by the Chief Executive; or\n (b) refuse the application, stating the grounds for refusal.\n (4) A licence issued under this section shall be valid for\na period as specified in the licence.\nRenewal of licence"
+   }
+  },
+  {
+   "id": "MY-H619-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Section 30"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "30. (1) A licensee may apply to renew its licence issued under\nsection 29 at least thirty days before the date of expiration of\nthe licence in such manner as may be prescribed.\n (2) The application under subsection (1) shall be accompanied\nby payment of the prescribed fee and such information, particulars\nor document as may be determined by the Chief Executive.\n (3) After considering the application, the Chief Executive\nmay—\n (a) approve the application and renew the licence upon\npayment of the prescribed fee; or\n (b) refuse the application, stating the grounds for refusal.\nCyber Security 31\nConditions of licence"
+   }
+  },
+  {
+   "id": "MY-H619-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Section 31"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "31. (1) A licence to provide a cyber security service may be issued\nsubject to such conditions as the Chief Executive thinks fit to impose.\n (2) The Chief Executive may at any time vary or revoke the\nconditions imposed on a licence under subsection (1).\n (3) Any person who contravenes any conditions of a licence\nimposed under subsection (1) commits an offence and shall,\non conviction, be liable to a fine not exceeding one hundred\nthousand ringgit or to imprisonment for a term not exceeding\ntwo years or to both.\nDuty to keep and maintain record"
+   }
+  },
+  {
+   "id": "MY-H619-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Section 32"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "32. (1) A licensee shall, on each occasion where the licensee\nis engaged to provide cyber security service, keep and maintain\nthe following records:\n (a) the name and address of the person engaging the licensee\nfor the cyber security service;\n (b) the name of the person providing the cyber security\nservice on behalf of the licensee, if any;\n (c) the date and time of cyber security service that was provided\nby the licensee or other person on behalf of the licensee;\n (d) details of the type of cyber security service provided;\nand\n (e) such other particulars as may be determined by the\nChief Executive.\n (2) The information referred to in subsection (1) shall be—\n (a) kept and maintained in the manner as may be determined\nby the Chief Executive;\n (b) retained for a period of not less than six years from the\ndate the cyber security service was provided; and\n (c) produced to the Chief Executive at any time as the\nChief Executive may direct.\nLaws of Malaysia32\nAct 854\n (3) Any person who contravenes subsection (1) or (2) commits\nan offence and shall, on conviction, be liable to a fine not\nexceeding one hundred thousand ringgit or to imprisonment for\na term not exceeding two years or to both.\nRevocation or suspension of licence"
+   }
+  },
+  {
+   "id": "MY-H619-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Section 33"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "33. The Chief Executive may revoke or suspend the licence\nissued under section 29 if the Chief Executive is satisfied that—\n (a) the licensee has failed to comply with any conditions of\nthe licence;\n (b) the licence has been obtained by fraud or misrepresentation;\n (c) a circumstance existed at the time the licence was issued\nor renewed that the Chief Executive was unaware of,\nwhich would have caused the Chief Executive to refuse\nto issue or renew the licence if the Chief Executive had\nbeen aware of the circumstance at that time;\n (d) the licensee has ceased to carry on the business in respect\nof which he is licenced under this Act;\n (e) the licensee has been adjudged a bankrupt or has gone\ninto liquidation or is being wound up;\n (f) the licensee has been convicted of an offence under this\nAct or an offence involving fraud, dishonesty or moral\nturpitude; or\n (g) the revocation or suspension is in the interest of the\npublic or national security.\nTransfer or assignment of licence"
+   }
+  },
+  {
+   "id": "MY-H619-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "Section 34"
+   },
+   "chapter": {
+    "en": "Part VI"
+   },
+   "heading": {},
+   "text": {
+    "en": "34. (1) A licence shall not be transferred or assigned to any\nother person.\nCyber Security 33\n (2) Any person who contravenes subsection (1) commits an\noffence and shall, on conviction, be liable to a fine not exceeding\ntwo hundred thousand ringgit or to imprisonment for a term not\nexceeding three years or to both.\n (3) Notwithstanding subsection (1), a licence may be transferred\nto any other person with the approval of the Chief Executive—\n (a) if an application in writing is made to the Chief Executive\nby the licensee; and\n (b) if the Chief Executive is satisfied that the person to whom\nthe licence is to be transferred has the necessary financial\nand technical resources to comply with the conditions\nof the licence.\nPart VII\nCYBER SECURITY INCIDENT\nCyber security incident"
+   }
+  },
+  {
+   "id": "MY-H619-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "Section 35"
+   },
+   "chapter": {
+    "en": "Part VII"
+   },
+   "heading": {},
+   "text": {
+    "en": "35. (1) Upon receipt of the notification on cyber security incident\nfrom a national critical information infrastructure entity under\nsection 23 or if it comes to the knowledge of the Chief Executive\nthat a cyber security incident in respect of a national critical\ninformation infrastructure has or might have occurred, the\nChief Executive shall instruct an authorized officer to investigate\ninto the matter.\n (2) The investigation carried out under this Part shall be for\nthe purposes of—\n (a) ascertaining whether a cyber security incident has occurred;\nor\n (b) in the case where a cyber security incident has occurred,\ndetermining the measures necessary to respond to or\nrecover from the cyber security incident and preventing\nsuch cyber security incident from occurring in the future.\nLaws of Malaysia34\nAct 854\n (3) Upon completion of the investigation by the authorized\nofficer under this Part—\n (a) if the authorized officer finds that no cyber security\nincident has occurred, the authorized officer shall notify\nthe Chief Executive about such findings and the Chief\nExecutive shall notify the national critical information\ninfrastructure entity which owns or operates the national\ncritical information infrastructure referred to in subsection (1)\naccordingly and dismiss the matter; or\n (b) if the authorized officer finds that a cyber security\nincident has occurred, the authorized officer shall\nnotify the Chief Executive about such findings and the\nChief Executive shall notify the national critical\ninformation infrastructure entity which owns or operates\nthe national critical information infrastructure referred\nto in subsection (1) accordingly.\n (4) Upon being notified by the authorized officer under\nparagraph (3) (b) that a cyber security incident has occurred,\nthe Chief Executive may issue a directive to the national\ncritical information infrastructure entity which owns or operates\nthe national critical information infrastructure concerned\non the measures necessary to respond to or recover from\nthe cyber security incident and to prevent such cyber security\nincident from occurring in the future.\n (5) Any national critical information infrastructure entity which\nfails to comply with the directive of the Chief Executive under\nsubsection (4) commits an offence and shall, on conviction,\nbe liable to a fine not exceeding two hundred thousand ringgit or\nto imprisonment for a term not exceeding three years or to both.\nPart VIII\nENFORCEMENT\nAuthorization of public officer"
+   }
+  },
+  {
+   "id": "MY-H619-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "Section 36"
+   },
+   "chapter": {
+    "en": "Part VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "36. The Minister may, in writing, authorize any public officer\nto exercise the powers of enforcement under this Act.\nCyber Security 35\nAuthority card"
+   }
+  },
+  {
+   "id": "MY-H619-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "Section 37"
+   },
+   "chapter": {
+    "en": "Part VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "37. (1) There shall be issued to each authorized officer an\nauthority card to be signed by the Minister.\n (2) Whenever such authorized officer exercises any of the\npowers under this Act, he shall, on demand, produce to the person\nagainst whom the power is being exercised the authority card\nissued to him under subsection (1).\nPower of investigation"
+   }
+  },
+  {
+   "id": "MY-H619-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "Section 38"
+   },
+   "chapter": {
+    "en": "Part VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "38. (1) An authorized officer shall have all the powers necessary\nto carry out an investigation in relation to any cyber security\nincident under this Act.\n (2) An authorized officer shall have the powers of a police\nofficer of whatever rank as provided for under the Criminal\nProcedure Code [ Act 593 ] in relation to investigation into any\noffence under this Act, and such powers shall be in addition to\nand not in derogation of, the powers provided for under this Act.\nSearch and seizure with warrant"
+   }
+  },
+  {
+   "id": "MY-H619-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "Section 39"
+   },
+   "chapter": {
+    "en": "Part VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "39. (1) Where it appears to a Magistrate, upon written information\non oath from an authorized officer and after such inquiry as the\nMagistrate considers necessary, that there is reasonable cause to\nbelieve that—\n (a) any premises have been used in; or\n (b) there is in any premises evidence necessary to the\ncarrying out of an investigation into,\nthe commission of an offence under this Act, the Magistrate may\nissue a warrant authorizing the authorized officer named in the\nwarrant, at any reasonable time by day or by night and with or\nwithout assistance, to enter the premises and if need be by force.\nLaws of Malaysia36\nAct 854\n (2) Without affecting the generality of subsection (1), the\nwarrant issued by the Magistrate may authorize the search and\nseizure of—\n (a) copies of any book, account or other document, including\ncomputerized data, which contain or are reasonably\nsuspected to contain information as to any offence so\nsuspected to have been committed;\n (b) any signboard, card, letter, pamphlet, leaflet or notice\nrepresenting or implying that the person has a licence\nissued under this Act; or\n (c) any other document, facility, apparatus, vehicle, equipment,\ndevice or matter that is reasonably believed to furnish\nevidence of the commission of the offence.\n (3) An authorized officer conducting a search under subsection (1)\nmay, for the purpose of investigating into the offence, search any\nperson who is in or on the premises.\n (4) An authorized officer making a search of a person under\nsubsection (3) may seize or take possession of, and place in safe\ncustody all things, other than the necessary clothing, found upon\nthe person, and any other things, for which there is a reason to\nbelieve that they are the instruments or other evidence of the\ncrime, and they may be detained until the discharge or acquittal\nof the person.\n (5) No person shall be searched except by another person of\nthe same gender, and such search shall be conducted with strict\nregard to decency.\n (6) If, by reason of its nature, size and amount, it is not\npracticable to remove any object, book, account, document,\ncomputerized data, signboard, card, letter, pamphlet, leaflet,\nnotice, facility, apparatus, vehicle, equipment, device, thing or matter\nseized under this section, the authorized officer who effected\nthe seizure shall, by any means, seal such object, book, account,\ndocument, computerized data, signboard, card, letter, pamphlet,\nleaflet, notice, facility, apparatus, vehicle, equipment, device,\nthing or matter in or on the premises in which it is found.\nCyber Security 37\n (7) Any person who, without lawful authority, breaks, tampers\nwith or damages the seals referred to in subsection (6) or removes\nany object, book, account, document, computerized data, signboard,\ncard, letter, pamphlet, leaflet, notice, facility, apparatus, vehicle,\nequipment, device, thing or matter under seals or attempts to do\nso commits an offence and shall, on conviction, be liable to a fine\nnot exceeding one hundred thousand ringgit or to imprisonment\nfor a term not exceeding two years or to both.\nSearch and seizure without warrant"
+   }
+  },
+  {
+   "id": "MY-H619-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "Section 40"
+   },
+   "chapter": {
+    "en": "Part VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "40. If an authorized officer is satisfied upon information received\nthat he has reasonable cause to believe that by reason of delay\nin obtaining a search warrant under section 39 the investigation\nwould be adversely affected or evidence of the commission of\nan offence is likely to be tampered with, removed, damaged or\ndestroyed, the authorized officer may enter the premises and\nexercise in, upon and in respect of the premises all the powers\nreferred to in section 39 in as full and ample a manner as if he\nwere authorized to do so by a warrant issued under that section.\nList of seized objects, etc."
+   }
+  },
+  {
+   "id": "MY-H619-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "Section 41"
+   },
+   "chapter": {
+    "en": "Part VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "41. (1) Where any seizure is made under this Act, an authorized\nofficer making the seizure shall prepare a list of the object, book,\naccount, document, computerized data, signboard, card, letter,\npamphlet, leaflet, notice, facility, apparatus, vehicle, equipment,\ndevice, thing or matter seized and shall sign the list.\n (2) The list prepared in accordance with subsection (1) shall\nbe delivered immediately to the owner or person in control or\nin charge of the premises which has been searched, or to such\nowner's or person's agent or employee, at that premises.\nCost of holding seized object, etc."
+   }
+  },
+  {
+   "id": "MY-H619-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "Section 42"
+   },
+   "chapter": {
+    "en": "Part VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "42. Where any object, book, account, document, computerized\ndata, signboard, card, letter, pamphlet, leaflet, notice, facility,\napparatus, vehicle, equipment, device, thing or matter seized\nunder this Act is held in the custody of the Federal Government\nLaws of Malaysia38\nAct 854\npending completion of any proceedings in respect of an offence\nunder this Act, the cost of holding it in custody shall, in the event\nof any person being convicted of such offence, be a debt due to\nthe Federal Government by such person and shall be recoverable\naccordingly.\nRelease of seized object, etc."
+   }
+  },
+  {
+   "id": "MY-H619-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "Section 43"
+   },
+   "chapter": {
+    "en": "Part VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "43. (1) Where any object, book, account, document, computerized\ndata, signboard, card, letter, pamphlet, leaflet, notice, facility,\napparatus, vehicle, equipment, device, thing or matter has been\nseized under this Act, any authorized officer, may at any time,\nafter referring to the Deputy Public Prosecutor, release the\nobject, book, account, document, computerized data, signboard,\ncard, letter, pamphlet, leaflet, notice, facility, apparatus, vehicle,\nequipment, device, thing or matter to the person as he determines\nto be lawfully entitled to the object, book, account, document,\ncomputerized data, signboard, card, letter, pamphlet, leaflet,\nnotice, facility, apparatus, vehicle, equipment, device, thing or\nmatter if he is satisfied that the object, book, account, document,\ncomputerized data, signboard, card, letter, pamphlet, leaflet, notice,\nfacility, apparatus, vehicle, equipment, device, thing or matter is\nnot liable to forfeiture under this Act and is not otherwise required\nfor the purposes of any proceedings under this Act, or for the\npurposes of any prosecution under any other written law, and in\nsuch event neither the authorized officer effecting the seizure,\nnor the Federal Government or any person acting on behalf of\nthe Federal Government, shall be liable to any proceedings by\nany person if the seizure and the release of the object, book,\naccount, document, computerized data, signboard, card, letter,\npamphlet, leaflet, notice, facility, apparatus, vehicle, equipment,\ndevice, thing or matter had been effected in good faith.\n (2) A record in writing shall be made by the authorized officer\neffecting the release of the object, book, account, document,\ncomputerized data, signboard, card, letter, pamphlet, leaflet, notice,\nfacility, apparatus, vehicle, equipment, device, thing or matter\nunder subsection (1) specifying in detail the circumstances of\nand the reason for the release, and he shall send a copy of the\nrecord to the Deputy Public Prosecutor as soon as practicable.\nCyber Security 39\nForfeiture of seized object, etc."
+   }
+  },
+  {
+   "id": "MY-H619-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "Section 44"
+   },
+   "chapter": {
+    "en": "Part VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "44. (1) Any object, book, account, document, computerized data,\nsignboard, card, letter, pamphlet, leaflet, notice, facility, apparatus,\nvehicle, equipment, device, thing or matter seized in exercise of\nany power conferred under this Act shall be liable to forfeiture.\n (2) An order for the forfeiture of any object, book, account,\ndocument, computerized data, signboard, card, letter, pamphlet,\nleaflet, notice, facility, apparatus, vehicle, equipment, device,\nthing or matter shall be made if it is proved to the satisfaction\nof the court that an offence under this Act has been committed\nand that the object, book, account, document, computerized data,\nsignboard, card, letter, pamphlet, leaflet, notice, facility, apparatus,\nvehicle, equipment, device, thing or matter was the subject matter\nof or was used in the commission of the offence, even though\nno person has been convicted of such offence.\n (3) Where there is no prosecution with regard to any object,\nbook, account, document, computerized data, signboard, card,\nletter, pamphlet, leaflet, notice, facility, apparatus, vehicle,\nequipment, device, thing or matter seized under this Act, such\nobject, book, account, document, computerized data, signboard,\ncard, letter, pamphlet, leaflet, notice, facility, apparatus, vehicle,\nequipment, device, thing or matter shall be taken and deemed to\nbe forfeited at the expiration of a period of one calendar month\nfrom the date of service of a notice to the last known address\nof the person from whom the object, book, account, document,\ncomputerized data, signboard, card, letter, pamphlet, leaflet, notice,\nfacility, apparatus, vehicle, equipment, device, thing or matter was\nseized indicating that there is no prosecution in respect of such\nobject, book, account, document, computerized data, signboard,\ncard, letter, pamphlet, leaflet, notice, facility, apparatus, vehicle,\nequipment, device, thing or matter unless before the expiration\nof that period a claim thereto is made in the manner set out\nin subsections (4), (5), (6) and (7).\n (4) Any person asserting that he is the owner of the object,\nbook, account, document, computerized data, signboard, card, letter,\npamphlet, leaflet, notice, facility, apparatus, vehicle, equipment,\ndevice, thing or matter referred to in subsection (3) and that it is\nLaws of Malaysia40\nAct 854\nnot liable to forfeiture may personally or by his agent authorized\nin writing, give written notice to the authorized officer in whose\npossession such object, book, account, document, computerized\ndata, signboard, card, letter, pamphlet, leaflet, notice, facility,\napparatus, vehicle, equipment, device, thing or matter is held\nthat he claims the object, book, account, document, computerized\ndata, signboard, card, letter, pamphlet, leaflet, notice, facility,\napparatus, vehicle, equipment, device, thing or matter.\n (5) On receipt of the notice referred to in subsection (4), the\nauthorized officer shall refer the claim to a Magistrate for his\ndecision.\n (6) The Magistrate to whom a matter is referred under\nsubsection (5) shall issue a summons requiring the person asserting\nthat he is the owner of the object, book, account, document,\ncomputerized data, signboard, card, letter, pamphlet, leaflet,\nnotice, facility, apparatus, vehicle, equipment, device, thing or\nmatter and the person from whom it was seized to appear before\nhim, and when they appear or they fail to appear, due service of\nthe summons having been proved, the Magistrate shall proceed\nto the examination of the matter.\n (7) If it is proved that an offence under this Act has been\ncommitted and that the object, book, account, document, computerized\ndata, signboard, card, letter, pamphlet, leaflet, notice, facility,\napparatus, vehicle, equipment, device, thing or matter referred\nto in subsection (6) was the subject matter of or was used\nin the commission of such offence, the Magistrate shall order the\nobject, book, account, document, computerized data, signboard,\ncard, letter, pamphlet, leaflet, notice, facility, apparatus, vehicle,\nequipment, device, thing or matter to be forfeited, and shall,\nin the absence of such proof, order its release.\n (8) Any object, book, account, document, computerized\ndata, signboard, card, letter, pamphlet, leaflet, notice, facility,\napparatus, vehicle, equipment, device, thing or matter forfeited or\ndeemed to be forfeited shall be delivered to the Chief Executive\nand shall be disposed of in such manner as the Chief Executive\nthinks fit.\nCyber Security 41\nProperty in forfeited object, etc."
+   }
+  },
+  {
+   "id": "MY-H619-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "Section 45"
+   },
+   "chapter": {
+    "en": "Part VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "45. Any object, book, account, document, computerized\ndata, signboard, card, letter, pamphlet, leaflet, notice, facility,\napparatus, vehicle, equipment, device, thing or matter forfeited\nor deemed to be forfeited under this Act shall be the property\nof the Federal Government.\nAccess to computerized data"
+   }
+  },
+  {
+   "id": "MY-H619-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "Section 46"
+   },
+   "chapter": {
+    "en": "Part VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "46. (1) Any authorized officer conducting a search under this\nAct shall be given access to computerized data whether stored\nin computer or otherwise.\n (2) For the purposes of this section, an authorized officer\nshall be provided with the necessary password, encryption code,\ndecryption code, software or hardware and any other means\nrequired to enable comprehension of the computerized data.\nNo cost or damage arising from seizure to be recoverable"
+   }
+  },
+  {
+   "id": "MY-H619-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "Section 47"
+   },
+   "chapter": {
+    "en": "Part VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "47. No person shall, in any proceedings before any court in\nrespect of any object, book, account, document, computerized\ndata, signboard, card, letter, pamphlet, leaflet, notice, facility,\napparatus, vehicle, equipment, device, thing or matter seized in\nthe exercise or the purported exercise of any power conferred\nunder this Act, be entitled to the costs of such proceedings or\nto any damages or other relief unless such seizure was made\nwithout reasonable cause.\nPower to require attendance of person acquainted with case"
+   }
+  },
+  {
+   "id": "MY-H619-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "Section 48"
+   },
+   "chapter": {
+    "en": "Part VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "48. (1) An authorized officer making an investigation under\nthis Part may, by order in writing, require the attendance before\nhimself of any person who appears to him to be acquainted with\nthe facts and circumstances of the case, and such person shall\nattend as so required.\nLaws of Malaysia42\nAct 854\n (2) If any such person refuses or fails to attend as required by\nan order made under subsection (1), the authorized officer may\nreport such refusal or failure to a Magistrate who shall issue\na warrant to secure the attendance of such person as may be\nrequired by the order.\nExamination of person acquainted with case"
+   }
+  },
+  {
+   "id": "MY-H619-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "Section 49"
+   },
+   "chapter": {
+    "en": "Part VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "49. (1) An authorized officer making an investigation under this\nAct may examine orally any person supposed to be acquainted\nwith the facts and circumstances of the case.\n (2) Such person shall be bound to answer all questions relating\nto the case put to him by the authorized officer, but he may refuse\nto answer any question the answer which would have a tendency\nto expose him to a criminal charge or penalty or forfeiture.\n (3) A person making a statement under this section shall be\nlegally bound to state the truth, whether or not such statement\nis made wholly or partly in answer to questions.\n (4) The authorized officer examining a person under subsection (1)\nshall first inform that person of the provision of subsections (2) and (3).\n (5) A statement made by any person under this section shall,\nwhenever possible, be reduced into writing and signed by the person\nmaking it or affixed with his thumbprint, as the case may be—\n (a) after it has been read to him in the language in which\nhe made it; and\n (b) after he has been given an opportunity to make any\ncorrection he may wish.\nAdmissibility of statement in evidence"
+   }
+  },
+  {
+   "id": "MY-H619-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "Section 50"
+   },
+   "chapter": {
+    "en": "Part VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "50. (1) Except as provided in this section, no statement made by\nany person to an authorized officer in the course of an investigation\nmade under this Act shall be used in evidence.\nCyber Security 43\n (2) When any witness is called for the prosecution or for the\ndefence, other than the accused, the court shall, on the request of\nthe accused or the prosecutor, refer to any statement made by that\nwitness to an authorized officer in the course of an investigation\nunder this Act and may then, if the court thinks fit in the interest\nof justice, direct the accused to be furnished with a copy of the\nstatement and the statement may be used to impeach the credit of the\nwitness in the manner provided by the Evidence Act 1950 [ Act 56].\n (3) Where the accused had made a statement during the course\nof an investigation, such statement may be admitted in evidence\nin support of his defence during the course of the trial.\n (4) Nothing in this section shall be deemed to apply to any\nstatement made in the course of an identification parade or\nfalling within section 27 or paragraphs 32(1) (a), (i) and (j) of\nthe Evidence Act 1950.\n (5) When any person is charged with any offence in relation\nto the making or the contents of any statement made by him\nto an authorized officer in the course of an investigation made\nunder this Act, that statement may be used as evidence in the\nprosecution's case.\nAdditional powers"
+   }
+  },
+  {
+   "id": "MY-H619-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "Section 51"
+   },
+   "chapter": {
+    "en": "Part VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "51. (1) An authorized officer shall, for the purposes of the\nexecution of this Act, have the powers to do all or any of the\nfollowing:\n (a) to require the production of any computer, book, record,\ncomputerized data, document or other article and to\ninspect, examine and make copy of any of them;\n (b) to require the production of any identification document\nfrom any person in relation to any act or offence under\nthis Act; and\n (c) to make such inquiries as may be necessary to ascertain\nwhether the provisions of this Act have been complied\nwith.\nLaws of Malaysia44\nAct 854\n (2) Any person who fails to comply with the requirement made\nunder subsection (1) commits an offence and shall, on conviction,\nbe liable to a fine not exceeding one hundred thousand ringgit or\nto imprisonment for a term not exceeding two years or to both.\nObstruction"
+   }
+  },
+  {
+   "id": "MY-H619-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "Section 52"
+   },
+   "chapter": {
+    "en": "Part VIII"
+   },
+   "heading": {},
+   "text": {
+    "en": "52. Any person who assaults, impedes, obstructs or interferes\nwith, or refuses access to any premises or computerized data\nto, the Chief Executive or authorized officer in the performance\nof his duties under this Act commits an offence and shall,\non conviction, be liable to a fine not exceeding one hundred\nthousand ringgit or to imprisonment for a term not exceeding\ntwo years or to both.\nPart IX\nGENERAL\nAppeal"
+   }
+  },
+  {
+   "id": "MY-H619-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "Section 53"
+   },
+   "chapter": {
+    "en": "Part IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "53. (1) Any person aggrieved—\n (a) by the refusal of the Chief Executive to issue to him a\nlicence under this Act; or\n (b) by the revocation or suspension of his licence,\nmay, within thirty days after being informed in writing of the\nrefusal, revocation or suspension, appeal in writing against such\ndecision to the Minister.\n (2) The Minister may, after considering the appeal made under\nsubsection (1), confirm or set aside the decision appealed against.\nService of document"
+   }
+  },
+  {
+   "id": "MY-H619-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "Section 54"
+   },
+   "chapter": {
+    "en": "Part IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "54. (1) Subject to subsection (2), the Chief Executive may allow\nany information, particulars or document required to be submitted\nor furnished under this Act to be submitted or furnished by an\nelectronic medium or by way of an electronic transmission.\nCyber Security 45\n (2) The conditions and specifications under which the information,\nparticulars or document referred to in subsection (1) are to be\nsubmitted or furnished shall be as determined by the Chief Executive.\n (3) The information, particulars or document referred to in\nsubsection (1) shall be deemed to have been submitted or furnished\nby a person to the Chief Executive on the date the acknowledgement\nof receipt of such documents is transmitted electronically by the\nChief Executive to the person.\n (4) The acknowledgment of receipt by the Chief Executive of\nthat information, particulars or document submitted or furnished\npursuant to subsection (3) shall be admissible as evidence in any\nproceedings.\nObligation of secrecy"
+   }
+  },
+  {
+   "id": "MY-H619-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "Section 55"
+   },
+   "chapter": {
+    "en": "Part IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "55. (1) Except for any of the purposes of this Act or for the\npurposes of any civil or criminal proceedings under any written\nlaw or where otherwise authorized by the Committee, any member\nof the Committee, the Chief Executive or any authorized officer,\nwhether during or after his tenure of office or employment, shall\nnot disclose any information obtained by him in the course of\nhis duties.\n (2) Any person who contravenes subsection (1) commits an\noffence and shall, on conviction, be liable to a fine not exceeding\none hundred thousand ringgit or to imprisonment for a term not\nexceeding two years or to both.\nProtection against suit and legal proceedings"
+   }
+  },
+  {
+   "id": "MY-H619-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "Section 56"
+   },
+   "chapter": {
+    "en": "Part IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "56. No action, suit, prosecution or other proceedings shall\nbe brought, instituted or maintained in any court against the\nMinister, any member of the Committee, the Chief Executive or\nany authorized officer on account of or in respect of any act,\nneglect or default done or omitted by him in the course of\ncarrying out his duties under this Act unless it can be proven that\nthe act, neglect or default was done or omitted in bad faith\nand without reasonable cause.\nLaws of Malaysia46\nAct 854\nProsecution"
+   }
+  },
+  {
+   "id": "MY-H619-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "Section 57"
+   },
+   "chapter": {
+    "en": "Part IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "57. No prosecution for an offence under this Act shall be instituted\nexcept by or with the written consent of the Public Prosecutor.\nLiability of director, etc., of company, etc."
+   }
+  },
+  {
+   "id": "MY-H619-A58",
+   "no": 58,
+   "noLabel": {
+    "en": "Section 58"
+   },
+   "chapter": {
+    "en": "Part IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "58. Where any person who commits an offence under this\nAct is a company, limited liability partnership, firm, society or\nother body of persons, a person who at the time of the commission\nof the offence was a director, compliance officer, partner,\nmanager, secretary or other similar officer of the company,\nlimited liability partnership, firm, society or other body of\npersons or was purporting to act in the capacity or was in any\nmanner or to any extent responsible for the management of\nany of the affairs of the company, limited liability partnership,\nfirm, society or other body of persons or was assisting in its\nmanagement—\n (a) may be charged severally or jointly in the same proceedings\nwith the company, limited liability partnership, firm,\nsociety or other body of persons; and\n (b) if the company, limited liability partnership, firm,\nsociety or other body of persons is found guilty of the\noffence, shall be deemed to be guilty of the offence\nand shall be liable to the same punishment or penalty\nas an individual unless, having regard to the nature of\nhis functions in that capacity and to all circumstances,\nhe proves—\n (i)  that the offence was committed without his\nknowledge; or\n (ii) that the offence was committed without his\nconsent or connivance and that he had taken all\nreasonable precautions and exercised due diligence\nto prevent the commission of the offence.\nCyber Security 47\nLiability of person for act, etc., of employee, etc."
+   }
+  },
+  {
+   "id": "MY-H619-A59",
+   "no": 59,
+   "noLabel": {
+    "en": "Section 59"
+   },
+   "chapter": {
+    "en": "Part IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "59. Where any person would be liable to any punishment or\npenalty under this Act for any act, omission, neglect or default\ncommitted—\n (a) by that person's employee in the course of his employment;\n (b) by that person's agent when acting on behalf of that\nperson; or\n (c) by the employee of that person's agent when acting in\nthe course of his employment with that person's agent or\notherwise on behalf that person's agent acting on behalf\nof that person,\nthat person shall be liable to the same punishment or penalty\nfor every such act, omission, neglect or default of that person's\nemployee or agent, or of the employee of that person's agent.\nCompounding of offences"
+   }
+  },
+  {
+   "id": "MY-H619-A60",
+   "no": 60,
+   "noLabel": {
+    "en": "Section 60"
+   },
+   "chapter": {
+    "en": "Part IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "60. (1) The Minister may, with the approval of the Public\nProsecutor, make regulations prescribing—\n (a) any offence under this Act as an offence which may be\ncompounded; and\n (b) the method and procedure for compounding such offence.\n (2) The Chief Executive may, with the consent in writing of\nthe Public Prosecutor, compound any offence committed by any\nperson under this Act prescribed to be a compoundable offence by\nmaking a written offer to the person suspected to have committed\nthe offence to compound the offence upon payment to the Chief\nExecutive of an amount of money not exceeding fifty per centum\nof the amount of maximum fine for that offence within such time\nas may be specified in his written offer.\nLaws of Malaysia48\nAct 854\n (3) An offer under subsection (2) may be made at any time\nafter the offence has been committed but before any prosecution\nfor it has been instituted.\n (4) If the amount specified in the offer is not paid within the time\nspecified in the offer, or such extended time as the Chief Executive\nmay grant, prosecution for the offence may be instituted at any time\nafter that against the person to whom the offer was made.\n (5) Where an offence has been compounded under this section—\n (a) no prosecution shall be instituted in respect of the offence\nagainst the person to whom the offer to compound was\nmade; and\n (b) any document or thing seized in connection with the\noffence may be released by the Chief Executive,\nsubject to such terms as the Chief Executive thinks fit.\n (6) All sums of money received by the Chief Executive under\nthis section shall be paid into and form part of the Federal\nConsolidated Fund.\nPower to exempt"
+   }
+  },
+  {
+   "id": "MY-H619-A61",
+   "no": 61,
+   "noLabel": {
+    "en": "Section 61"
+   },
+   "chapter": {
+    "en": "Part IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "61. The Minister may, by order published in the Gazette , subject\nto such conditions or restrictions as he may consider necessary\nor expedient to impose, exempt any person or class of persons\nfrom any or all of the provisions of this Act.\nPower to amend Schedule"
+   }
+  },
+  {
+   "id": "MY-H619-A62",
+   "no": 62,
+   "noLabel": {
+    "en": "Section 62"
+   },
+   "chapter": {
+    "en": "Part IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "62. The Minister may, upon recommendation of the Chief\nExecutive, by order published in the Gazette , amend the Schedule\nto this Act.\nPower to make regulations"
+   }
+  },
+  {
+   "id": "MY-H619-A63",
+   "no": 63,
+   "noLabel": {
+    "en": "Section 63"
+   },
+   "chapter": {
+    "en": "Part IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "63. (1) The Minister may make regulations as may be necessary\nor expedient for the purpose of carrying into effect the provisions\nof this Act.\nCyber Security 49\n (2) Without prejudice to the generality of subsection (1), the\nMinister may make regulations to prescribe—\n (a) the period for the conduct of a cyber security risk\nassessment and the carrying out of audit;\n (b) the period and manner in which the information relating\nto a cyber security incident shall be notified to\nthe Chief Executive and the national critical information\ninfrastructure sector lead;\n (c) the cyber security service in respect of which a licence\nshall be obtained under this Act before it can be provided;\n (d) the manner for the application of licence and renewal of\nlicence under this Act;\n (e) the fees payable under this Act;\n (f) the offences which may be compounded and the forms to\nbe used and the method and procedure for compounding\nthe offences under this Act;\n (g) any other matters required by this Act to be prescribed.\n (3) The regulations made under this Act may prescribe an act\nor omission in contravention of the regulations to be an offence\nand may prescribe penalties of a fine not exceeding two hundred\nthousand ringgit or to imprisonment for a term not exceeding\nthree years or to both.\nSaving"
+   }
+  },
+  {
+   "id": "MY-H619-A64",
+   "no": 64,
+   "noLabel": {
+    "en": "Section 64"
+   },
+   "chapter": {
+    "en": "Part IX"
+   },
+   "heading": {},
+   "text": {
+    "en": "64. On the date of the coming into operation of this Act, any\nmeasures, standards and processes which have been implemented\nto ensure the cyber security of a national critical information\ninfrastructure and imposed on any Government Entity or person under\nDirective of the National Security Council No. 26 shall, so long as\nit is consistent with the provisions of this Act, continue to remain\nin force until it is revoked under the National Security Council\nAct 2016 [ Act 776 ].\nLaws of Malaysia50\nAct 854\nSchedule\n[Section 4]\nNATIONAL CRITICAL INFORMATION INFRASTRUCTURE SECTOR"
+   }
+  }
+ ]
+}

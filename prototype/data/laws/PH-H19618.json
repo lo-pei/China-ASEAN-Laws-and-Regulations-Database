@@ -1,0 +1,72 @@
+{
+ "id": "PH-H19618",
+ "title": {
+  "zh": null,
+  "en": "A  Amending Executive Order No. 367 Dated January 18, 1972, Entitled \"Modifyingthe Rates of Imports Duty on Certain Imported Articles as Provided Under Republic Act No. 1937, Otherwise Known asthe Tariff and Customs Code ofthe Philippines, as Amended.",
+  "orig": "A  Amending Executive Order No. 367 Dated January 18, 1972, Entitled \"Modifyingthe Rates of Imports Duty on Certain Imported Articles as Provided Under Republic Act No. 1937, Otherwise Known asthe Tariff and Customs Code ofthe Philippines, as Amended."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p158",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1972-01-21",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Executive Order No. 367",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 863,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/07_行政命令_EO/EO_00367_1972_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 EO_00367_1972_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H19618-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Sec 2"
+   },
+   "text": {
+    "en": "After the expiration of thirty (30) days from the issuance of this Order, all the above described articles\nentered of withdrawn from warehouse, in the Philippines, for consumption shall be subject to the rate of\nimport duty herein prescribed."
+   }
+  },
+  {
+   "id": "PH-H19618-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Sec 3"
+   },
+   "text": {
+    "en": "The articles whose rates of duty are increased by this Order are those that are described and classified\nas Unclassified Consumer Goods (UC), Semi-Unclassified Consumer Goods (SUC) and Non-Essential\nConsumer Goods (NEC) by the Central Bank of the Philippines in accordance with Central Bank Circular\nnumbered 289, dated February 21, 1970, as amended."
+   }
+  },
+  {
+   "id": "PH-H19618-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Sec 4"
+   },
+   "text": {
+    "en": "Any unwarranted increase in the prices of local products benefited by these tariff changes may be\nsufficient ground for the revocation of such tariff changes.\nDone in the City of Manila, this 21st day of January, in the year of Our Lord, nineteen hundred and\nseventy-two."
+   }
+  }
+ ]
+}

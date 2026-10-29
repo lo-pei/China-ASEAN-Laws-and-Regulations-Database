@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13891",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Section One, Subsection (X), Item Five, of Act Numbered thirty-Two Hundred and thirteen",
+  "orig": "An Act to Amend Section One, Subsection (X), Item Five, of Act Numbered thirty-Two Hundred and thirteen"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1925-12-03",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3256",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 347,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1925/act_3256_1925.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03256_1925_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03256_1925_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13891-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section one, subsection (x), item five, of Act Numbered Thirty-two hundred and thirteen, known\nas the Public Works Act of nineteen hundred and twenty-five, is hereby amended to read as follows:\n\"5. For the maintenance and improvement of Capiz port works and wharf, Province of"
+   }
+  },
+  {
+   "id": "PH-H13891-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, December 3, 1925."
+   }
+  }
+ ]
+}

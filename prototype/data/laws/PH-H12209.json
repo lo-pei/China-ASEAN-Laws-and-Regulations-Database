@@ -1,0 +1,122 @@
+{
+ "id": "PH-H12209",
+ "title": {
+  "zh": null,
+  "en": "AN ACT REMOVING FROM THE JURISDICTION OF THE PROVINCE OF PALAWAN ALL LAND RESERVED FOR A LEPER COLONY AND A GOVERNMENT STOCK FARM BY EXECUTIVE ORDER NUMBERED THIRTY-FIVE, DATED THE TWENTY-SECOND OF AUGUST, NINETEEN HUNDRED AND FOUR; ESTABLISHING A COURT OF JUSTICE OF THE PEACE FOR CULION ISLAND, AND DEFINING THE CONDITIONS UNDER WHICH IT SHALL BE LAWFUL FOR VESSELS OR BOATS TO LAND CARGO OR PASSENGERS ON CULION ISLAND OR TO CLEAR FROM SAID ISLAND.",
+  "orig": "AN ACT REMOVING FROM THE JURISDICTION OF THE PROVINCE OF PALAWAN ALL LAND RESERVED FOR A LEPER COLONY AND A GOVERNMENT STOCK FARM BY EXECUTIVE ORDER NUMBERED THIRTY-FIVE, DATED THE TWENTY-SECOND OF AUGUST, NINETEEN HUNDRED AND FOUR; ESTABLISHING A COURT OF JUSTICE OF THE PEACE FOR CULION ISLAND, AND DEFINING THE CONDITIONS UNDER WHICH IT SHALL BE LAWFUL FOR VESSELS OR BOATS TO LAND CARGO OR PASSENGERS ON CULION ISLAND OR TO CLEAR FROM SAID ISLAND."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 1498",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 8,
+ "chars": 2970,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_01498_1906_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 8 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_01498_1906_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12209-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The Island of Culion having been set apart and reserved by Executive Order Numbered Thirty-\nfive, dated the twenty-second of August, nineteen hundred and four, for the purpose of establishing a leper\ncolony and a Government stock farm, the same is hereby removed from the jurisdiction of the provincial it\ngovernment of the Province of Palawan, and shall be under the direction and control of the Secretary of the\nInterior, who shall have authority to make, promulgate, and enforce such rules and the regulations as may be\nnecessary for the efficient control, protection, and management of the Culion leper colony: Provided, That\nnothing in this section shall be construed as affecting the jurisdiction of the Court of First Instance for the\nProvince of Palawan."
+   }
+  },
+  {
+   "id": "PH-H12209-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The chief of the Culion leper colony division of the Bureau of Health is hereby made ex officio\njustice of the peace with authority to perform all the duties of a justice of the peace throughout the whole of\nthe Island of Culion. The fees that would accrue to a justice of the peace shall, in all cases where the chief of\nthe Culion leper colony division of the Bureau of Health acts as justice of the peace, be covered into the\nInsular Treasury."
+   }
+  },
+  {
+   "id": "PH-H12209-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "All fees, costs, fines, and other moneys received by the chief of the Culion leper colony division\nof the Bureau of Health in his capacity as justice of the peace, or as notary public, shall be deposited in the\nInsular Treasury and accounted for as provided by law."
+   }
+  },
+  {
+   "id": "PH-H12209-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "It shall be unlawful for any owner, master, or other person in charge of any vessel, boat, or other\nwater craft to land passengers, discharge cargo, or receive passengers or cargo, or permit s the same to be\n\ndone at any place on or within the jurisdiction of Culion Island until a permit therefor in writing has been\nobtained from the chief of the Culion leper colony division of the Bureau of Health; and it shall be unlawful\nfor any person to land on or visit within the jurisdiction of Culion Island without permission from said chief\nof the Culion leper colony division."
+   }
+  },
+  {
+   "id": "PH-H12209-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "text": {
+    "en": "Any person violating any provision of this Act or any p rule or regulation made in conformity\nherewith shall, upon conviction, be punished for each offense by a fine of not more than two hundred pesos\nor by imprisonment for not more than six months, or by both such fine and imprisonment, in the discretion of"
+   }
+  },
+  {
+   "id": "PH-H12209-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "text": {
+    "en": "All persons imprisoned under the terms of this Act shall, unless otherwise directed by the\nSecretary of Public Instruction, be required to serve their sentence in the custody of the chief of the Culion\nleper colony division of the Bureau of Health."
+   }
+  },
+  {
+   "id": "PH-H12209-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7"
+   },
+   "text": {
+    "en": "The public good requiring the speedy enactment of this bill, the passage of the same is hereby\nexpedited in accordance with section two of \"An Act prescribing the order of procedure by the Commission\nin the enactment of laws,\" passed September twenty-sixth, nineteen hundred."
+   }
+  },
+  {
+   "id": "PH-H12209-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8"
+   },
+   "text": {
+    "en": "This Act shall take effect on July first, nineteen hundred and six.\nEnacted, May 29, 1906."
+   }
+  }
+ ]
+}

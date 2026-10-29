@@ -1,0 +1,72 @@
+{
+ "id": "PH-H22222",
+ "title": {
+  "zh": null,
+  "en": "Amending the Judiciary Act By Changing the Permanent Stations of District Judges of the Court of First Instance of Cavite",
+  "orig": "Amending the Judiciary Act By Changing the Permanent Stations of District Judges of the Court of First Instance of Cavite"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1975-11-14",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 827",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1553,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_00827_1975_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_00827_1975_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22222-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section 52 of Judiciary Act of 1958 (Republic Act No. 296) as amended, is hereby further\namended with respect to the five branches of the Court of First Instance of Cavite, to read as follows:\n\"Sec. 52. Permanent Stations of District Judges. — . . .\n\"For the Seventh Judicial District, fifteen judges (Branches I, II, VI, VIII, X, XI, XIII, XIX, XX, XXI, XXII,\nXXIII, XXIV, XXV and XXVI) shall be stationed in the Municipality of Pasig, Province of Rizal; six judges\n(Branches III, VII, XXVII, XXVIII, XXIX and XXX) shall be stationed in Pasay City; seven judges\n(Branches IV, V, IX, XVI, XVII, XVIII and XXXI) in Quezon City; six judges (Branches XII, XIV, XXXII,\nXXXIII, XXXIV and XXXV) in Caloocan City; two judges (Branches XV and XXXVI) in the Municipality\nof Makati, Province of Rizal; two judges (Branches I and II) in the City of Puerto Princesa; one judge (Branch\nIII) in the Municipality of Brooke's Point, Province of Palawan; one judge (Branch IV) in the Municipality of\n\nCoron, same province; two judges (Branches II and III) in the City of Cavite; one judge (Branch I) in the\nMunicipality of Naic; one judge (Branch IV) in Tagaytay City and one judge (Branch V) in the Municipality\nof Bacoor, Province of Cavite.\""
+   }
+  },
+  {
+   "id": "PH-H22222-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "All provisions of existing laws, decrees, rules and regulations, contrary or inconsistent with the\nprovisions of this Decree are hereby repealed or modified accordingly."
+   }
+  },
+  {
+   "id": "PH-H22222-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Decree shall take effect immediately.\nDone in the City of Manila, this 17th day of November, in the year of Our Lord, nineteen hundred and\nseventy-five."
+   }
+  }
+ ]
+}

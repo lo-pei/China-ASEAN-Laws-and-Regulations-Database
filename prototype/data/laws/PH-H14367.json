@@ -1,0 +1,62 @@
+{
+ "id": "PH-H14367",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Section Four of Act Numbered Twenty-Five Hundred and Eighty-Four Entitled \"An Act Regulating Sponge Fisheries in the Philippine Islands.",
+  "orig": "An Act to Amend Section Four of Act Numbered Twenty-Five Hundred and Eighty-Four Entitled \"An Act Regulating Sponge Fisheries in the Philippine Islands."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1930-11-22",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3735",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1034,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1930/act_3735_1930.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03735_1930_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03735_1930_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14367-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section four of Act Numbered Twenty-five hundred and eighty-four is hereby amended to read\n\"Section 4. The annual concession fee shall be twelve pesos per square kilometer. Concessions granted in\naccordance with this Act shall be for the sponging privilege exclusively, shall run for a period of not to exceed\nten years, and shall not interfere with the free passage over the area under concession of boats or vessels, nor\nin any way prevent the unrestricted fishing, by other persons over the said area, for marine forms other than\nsponges: Provided, however, That subject to confirmation by the Secretary of Agriculture and Natural\nResources, the Director of the Bureau of Science or his authorized representatives may select from any\nconcession, without charge, adequate areas of foreshore and waters for the cultivation of sponges or other\nmarine forms for the purpose of any Government experiment station or school located on or adjacent to any\nconcession.\""
+   }
+  },
+  {
+   "id": "PH-H14367-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, November 22, 1930."
+   }
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "id": "PH-H10775",
+ "title": {
+  "zh": null,
+  "en": "AN ACT AUTHORIZING THE PROVOST-MARSHAL-GENERAL TO ESTABLISH POLICE AND HEALTH REGULATIONS IN THE NATURE OF MUNICIPAL ORDINANCES FOR THE CITY OF",
+  "orig": "AN ACT AUTHORIZING THE PROVOST-MARSHAL-GENERAL TO ESTABLISH POLICE AND HEALTH REGULATIONS IN THE NATURE OF MUNICIPAL ORDINANCES FOR THE CITY OF"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 62",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 799,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_00062_1900_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_00062_1900_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H10775-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The Provost-Marshal-General shall have power, subject to the approval of the Military Governor,\nto make and issue police and health regulations in the nature of municipal ordinances for the city of Manila,\nnot in violation of existing orders of the Military Governor or legislation of the Commission, which he shall,\nafter their issue, report to the Commission through the Military Governor."
+   }
+  },
+  {
+   "id": "PH-H10775-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Provision may be made in said regulations for the hearing and punishment of violations of said\nregulations in the inferior or superior provost courts of Manila, but the punishment for any such violation\nshall not exceed one hundred pesos or three months imprisonment, or both."
+   }
+  },
+  {
+   "id": "PH-H10775-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "The Commission may suspend, amend, or repeal said regulations."
+   }
+  },
+  {
+   "id": "PH-H10775-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, December 21, 1900."
+   }
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "id": "PH-H20035",
+ "title": {
+  "zh": null,
+  "en": "MALACANANG PMS LIBRARY \"PROVIDING FOR THE REORGANIZATION ADMINISTRATIVE REGIONS IN MINDANAO, AND FOR OTHER",
+  "orig": "MALACANANG PMS LIBRARY \"PROVIDING FOR THE REORGANIZATION ADMINISTRATIVE REGIONS IN MINDANAO, AND FOR OTHER"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p158",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Executive Order No. 439",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 533,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/07_行政命令_EO/EO_00439_1990.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 EO_00439_1990.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H20035-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "SECTION 1"
+   },
+   "text": {
+    "en": "Section 2 of Executive Order No. 429 dated 12 October 1990\nis hereby amended to read as follows:\n\"SEC. 2. REGION X, to be known as NORTHERN\nMINDANAO, shall include the following provinces and cities:\nAgusan del Norte\nAgusan del Sur\nMisatis Oriental\nSurigao del Norte\nCagayan de Oro\nThe City of Cagayan de Oro shall serve as the regional"
+   }
+  },
+  {
+   "id": "PH-H20035-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "SEC 2"
+   },
+   "text": {
+    "en": "This Executive Order shall take effect immediately.\nDONE in the City of Manila, this 7th day of December, in the year\nof Our Lord, nineteen hundred and ninety.\nBy the President:\nExecutive Secretary"
+   }
+  }
+ ]
+}

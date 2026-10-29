@@ -1,0 +1,82 @@
+{
+ "id": "PH-H13343",
+ "title": {
+  "zh": null,
+  "en": "An Act to Appropriate the Sum of Twenty-Five thousand Pesos to Aid in the Maintenance of Primary Schools Established in Municipalities Where there Are Lands Commonly Known as Friar Estates and of those Which May Hereafter Be Established in the Philippine Islands, and for Other Purposes.",
+  "orig": "An Act to Appropriate the Sum of Twenty-Five thousand Pesos to Aid in the Maintenance of Primary Schools Established in Municipalities Where there Are Lands Commonly Known as Friar Estates and of those Which May Hereafter Be Established in the Philippine Islands, and for Other Purposes."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1917-03-09",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2693",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 885,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1917/act_2693_1917.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02693_1917_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02693_1917_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13343-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The sum of twenty-five thousand pesos is hereby appropriated, out of any funds in the Insular\nTreasury not otherwise appropriated, to aid in the maintenance of the primary schools established in the\nmunicipalities where there are lands commonly known as friar estates, and of those which may hereafter be\nestablished in the Philippine Islands and the expenses of the maintenance of which are paid by voluntary\ncontributions or out of funds of the municipalities."
+   }
+  },
+  {
+   "id": "PH-H13343-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "All books required in the grades from the fifth to the seventh, inclusive, shall be furnished free of\ncharge to the pupils, and the Director of Education is directed to set aside the necessary sum for the purchase\nof said books out of the funds appropriated by this Act."
+   }
+  },
+  {
+   "id": "PH-H13343-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This sum shall be disbursed in the discretion of the Secretary of Public Instruction."
+   }
+  },
+  {
+   "id": "PH-H13343-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, March 9, 1917."
+   }
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "id": "PH-H22403",
+ "title": {
+  "zh": null,
+  "en": "Amending Section Nine of Presidential Decree Numbered Nine Hundred Ninety-Five",
+  "orig": "Amending Section Nine of Presidential Decree Numbered Nine Hundred Ninety-Five"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1976-09-22",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 1021",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 585,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_01021_1976_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_01021_1976_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22403-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section nine of Presidential Decree No. 995 is hereby amended to read as follows:\n\"SEC. 9. Appropriations. - To meet the organizational as well as other expenses of the Batasan Bayan, the\namount of Two Million Pesos is hereby appropriated out of any funds in the National Treasury not otherwise\nappropriated. Thereafter, such sum as may be necessary for the purpose shall be included in the annual\nGeneral Appropriations Decree.\""
+   }
+  },
+  {
+   "id": "PH-H22403-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Decree shall take effect immediately.\nDone in the City of Manila, this 22nd day of September in the year of Our Lord, nineteen hundred and\nseventy-six."
+   }
+  }
+ ]
+}

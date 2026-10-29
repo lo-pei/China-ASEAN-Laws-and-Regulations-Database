@@ -3,12 +3,16 @@
  "title": {
   "zh": "不动产利得税法",
   "en": "Real Property Gains Tax Act 1976",
-  "orig": null
+  "orig": "Real Property Gains Tax Act 1976",
+  "vi": "Luật Thuế thu nhập từ bất động sản 1976",
+  "th": "พระราชบัญญัติภาษีกำไรอสังหาริมทรัพย์ ค.ศ. 1976",
+  "id": "Undang-Undang Pajak Keuntungan Harta Tanah 1976",
+  "ms": "Akta Cukai Keuntungan Harta Tanah 1976"
  },
  "country": "MY",
  "countryName": "马来西亚",
  "layer": "intl",
- "pack": "my-p02",
+ "pack": "my-2",
  "language": "en",
  "level": "law",
  "category": null,
@@ -21,106 +25,748 @@
  "docNumber": null,
  "officialCode": null,
  "topics": [],
- "coverage": "full",
+ "coverage": "partial",
  "structureMode": "ARTICLE",
  "structure": null,
- "articleCount": 8,
- "chars": 13655,
+ "articleCount": 52,
+ "chars": 133145,
  "source": {
   "name": "马来西亚官方发布渠道",
   "url": null
  },
- "sourceFile": null,
+ "sourceFile": "MY\\en\\TXT文本\\02_民商事与经济法\\1976_169_REAL PROPERTY GAINS TAX ACT 1976.txt",
  "fetchedAt": "2026-10-04",
- "completenessNote": "全文，共 8 条；经《东盟法律分类》归档原件重新校核切分，逐字未改写。",
- "textQuality": null,
+ "completenessNote": "全文：第 1 条至第 59 条；逐字未改写（源自厂商 OCR 文本）。",
+ "textQuality": "ocr-vendor",
  "ocrNoisySections": null,
  "pdfs": null,
  "duplicateOf": null,
  "articles": [
   {
-   "id": "MY-H032-A10",
-   "no": 10,
-   "noLabel": {
-    "en": "Article 10"
-   },
-   "text": {
-    "en": "(Deleted by Act A431)."
-   }
-  },
-  {
-   "id": "MY-H032-A11",
-   "no": 11,
-   "noLabel": {
-    "en": "Article 11"
-   },
-   "text": {
-    "en": "(Deleted by Act A431)."
-   }
-  },
-  {
-   "id": "MY-H032-A12",
-   "no": 12,
-   "noLabel": {
-    "en": "Article 12"
-   },
-   "text": {
-    "en": "Where a gain accrues or a loss is suffered in respect of the disposal of a building which is only partly occupied as a private residence, the portion of the gain which is not chargeable or, as the case may be, the portion of the loss  which is not allowable shall be arrived at as follows:\n(a) where the building is divided into parcels each of which is capable  of being occupied as a self -contained dwelling or self -contained business premises, the gain or loss shall be divided by the total number of  parcels and the resulting sum shall be deemed to be the gain or loss  attributable to each parcel, including the parcel so occupied;\n(b) where the building is not so divided then, unless the disposer can  satisfy the Director General that some other method of computation  is more equitable, the portion of the gain or loss attributable to the part so occupied Real Property Gains Tax 105 shall be a portion having the same relation to the whole gain or loss as the floor area of the part so occupied has to the total floor area of the building."
-   }
-  },
-  {
-   "id": "MY-H032-A13",
-   "no": 13,
-   "noLabel": {
-    "en": "Article 13"
-   },
-   "text": {
-    "en": "(1) Subject to subparagraph (2), where a part of the land attac hing to a private residence as its gardens or grounds is disposed of without the residence,  then—\n(a) if the land on which the residence stands was acquired by the disposer without the residence, the acquisition price of the part disposed of shall be deemed to be a sum bearing the same proportion to the  acquisition price of the total area of the land as the area of the part disposed of bears to that total area, and any gain or loss accruing or  suffered in respect of the disposal shall be chargeable or allowable, as the case may be;\n(b) if the land on which the residence stands was acquired by the disposer with the residence and the total area of that land exceeds one acre—\n(i) the acquisition price of the land without the residence shall be deemed to be one -third of the acquisition price of the land with  the residence;\n(ii) the acquisition price of the part disposed of shall be deemed  to be a sum bearing the same proportion to the acquisition price of the land without the residence as the area of the part disposed of bears to that total area; and\n(iii) any gain or loss accruing or suffered in respect of the disposal  shall be chargeable or allowable, as the case may be;\n(c) if the land on which the residence stands was acquired by the disposer with the residence and the total area of that land is one acre or less,  there shall be deemed to accrue to the disposer a chargeable gain  consisting of a sum bearing the same proportion to the disposal price  as the area of the part disposed of bears to that total area.\n(2) Where the acquisition by the disposer referred to in subsubparagraphs  (1)(a) and (b) was made prior to 1 January 2013, in applying the formula  specified in subsubparagraphs (1)(a) and (b), there shall be substituted for the  acquisition price of the total area of the land referred to in subsubparagraph (1)(a) and the acquisition price of the land with the residence referred in  subsubparagraph (1) (b) the market value of the land as at 1 January 2013.\n106 Laws of Malaysia ACT 169 SCHEDULE 4 [Section 9] EXEMPTIONS"
-   }
-  },
-  {
-   "id": "MY-H032-A1",
+   "id": "MY-H180-A1",
    "no": 1,
    "noLabel": {
-    "en": "Article 1"
+    "en": "Section 1"
    },
+   "chapter": {},
+   "heading": {},
    "text": {
-    "en": "A gain accruing in respect of the disposal of a chargeable asset before the date of coming into force of this Act."
-   },
-   "partIndex": 2
+    "en": "1. This Act may be cited as the Real Property Gains Tax short title\nAct, 1976, and shall be deemed to have come into force on andcom:\n7th November, 1975.                                                   |"
+   }
   },
   {
-   "id": "MY-H032-A2",
+   "id": "MY-H180-A2",
    "no": 2,
    "noLabel": {
-    "en": "Article 2"
+    "en": "Section 2"
    },
+   "chapter": {},
+   "heading": {},
    "text": {
-    "en": "An amount of ten thousand ringgit or ten per cent of the chargeable gain, whichever is greater, in respect of a chargeable gain accruing to an individual on the disposal of a chargeable asset or where the chargeable asset is partly disposed, the amount to be allowed in respect of such disposal shall be ascertained in accordance with the following formula:\n(a) relating to the disposal of real property— A × C –– B where A is part of the area of the chargeable asset disposed;\nB is the total area of the chargeable asset;\nC is ten thousand; or ten per cent of the chargeable gain, whichever is greater;\n(b) relating to the disposal of shares— A × C –– B where A is the num ber of shares deemed to be a chargeable asset under paragraph 34 or 34 A of Schedule 2 disposed;\nB is the total number of issued shares deemed to be a chargeable asset in relation to shares deemed to be chargeable asset under paragraph 34 or 34 A of Schedule 2;\nC is ten thousand; or ten per cent of the chargeable gain, whichever is greater."
-   },
-   "partIndex": 2
+    "en": "2. (1) In this Act, unless the context otherwise requires—  Interprata\n\n\"accountant\" means an accountant as defined in/para-{sactien 153(2)\n© the Income Tax Act, 1967;         of    Aq 337\n;   .     subja Ao Bubsechon Cd ;               fot 337\n\"acquire\" ee quire by way of purchase, grant,\nexchange, gift, settlement or otherwise;\n\n\"allowable loss\" has the meaning assigned by section 7;\n\nce                9\n\nassessment—means—Aany—assessment Hadeunde    et; oubs.\n\nAd 303\n\n\"asset\" includes an interest or right in or over an asset;\n\n\"authorised officer\" means an officer appointed or\nauthorised under section 45 to exercise any function of the\nDirector General or to exercise or assist in exercising any\nsuch function;\n\n\"body of persons\" means an unincorporated body of\npersons (not being a company) including a Hindu joint\nfamily but excluding a partnership;\n\n(Pt. I, S, 2)\n\nIJ4/ — >\n\nAck 337.\n\nSubs. A420\n\nAck ssI—>\n\n8          |              Act 16\n\nAN includes profession, vocation and trade and\nany manufacture, adventure or concer in the nature of\ntrade;\n\n\"chargeable gain\" has the meaning assigned by section 7;\n\n\"chargeable person\" means a person chargeable with the\ntax;\n\"company\" means a body corporate and includes any\n\nbody of persons established with a separate legal identity\nby or under the laws of a territory outside Malaysia;\n\n\"consideration\" means consideration in money or\nmoney's worth;\n\n\"control\", in relation to a company, means control of the\nkind described in section 139 of the Income Tax Act, 1967;\n\n\"Director General\" means the Director General of Inland\n\nRevenue or any authorised, officer; CA)\n(      ,\n\nsubse\n\"dispose\" means elk convey, transfer, assign, settle or\nalienate whether by agreement or by force of law;\n\n\"executor\" means the executor, administrator or other\nperson administering the estate of a deceased person;\n\n\"gain\" means gain other than gain or profit chargeable\nwith or exempted from income tax under the income tax\nlaw;\n\n\"Hindu joint family\" means what in any system of law\nprevailing in India is known as a Hindu joint family or a\ncoparcenary;\n\n\"incapacitated person\" means a minor or a person\nadjudged under any law to be in a state of unsoundness of\nmind (however described);\n\n\"income tax\" includes any tax of a substantially similar\ncharacter (by whatever name called) imposed in Malaysia;\n\n\"income tax law\" means the law in force in Malaysia\nregulating income tax;\n\"land\" includes—\n(a) the surface of the earth and all substances forming\nthat surface;\n(b) the earth below the surface and substances therein;\n(c) buildings on land and anything attached to land or\npermanently fastened to any thing attached to land\n(whether on or below the surface);\n\n(Pt. I, S. 2)\n\nREAL PROPERTY GAINS TAX             9\n\n(d) standing timber, trees, crops and other vegetation\ngrowing on land; and\n\n(e) land covered by water;\n\n\"option\" includes an option in a case where—\n\n(a) the grantor binds himself to sell what he does not\nown and, because the option is abandoned, never\nhas occasion to own; and\n\n(b) the grantor binds himself to buy what, because the\noption is abandoned, he does not acquire;\n\n\"partnership\" means an association of any kind (including\njoint adventures, syndicates and cases where a party to the\nassociation is itself a partnership) between parties who have\nagreed to combine any of their rights, powers, property,\nlabour or skill for the purpose of carrying on a business and\nsharing the profits therefrom, but excludes a Hindu joint\nfamily although such a family may be a partner in a\npartnership; .\n\n\"Person Tson'  cludes. a company, a partnership, a body of\npersons and a corporation sole;\n\n\"prescribed\" means prescribed by rules made under\nsection 58 or, in relation to a form, prescribed under section\n57;\n\n\"precedent partner\" has the meaning assigned by section\n86 (1) (a) of the Income Tax Act, 1967;\n\n\"real property\" means any land situated in Malaysia and\nany interest, option or other right in or over such land;\n\n\"resident\" means resident in Malaysia for the purposes of\nthe Income Tax Act, 1967, except that references to basis\nyear or basis year for a year of assessment in that Act shall\nbe read as references to a year of assessment under this Act;\n\n\"shares\" means all or any of the following—\n(a) stock and shares in a company;\n\n(b) loan stock and debentures issued by a company or\nany other corporate body, wherever incorporated;\n\n(c) a member's interest in a company not limited by\nshares whether or not it has a share capital;\n\n(d) any option or other right in, over or relating to\nshares as defined in paragraphs (a) to (c);\n\n<— G24\n\n[Pt. I-II, S. 2-4]\n\n10                                        Act 169\n\n\"Special Commissioners\" means the Special Commis-\nsioners of Income Tax appointed under section 98 of the\nIncome Tax Act, 1967;\n\n\"tax\" means the tax imposed by this Act;\n\n\"valuer\" means any person lawfully carrying on the\nbusiness of valuing or appraising the value of real property;\n\n\"wife\" means a woman who (whether or not she has gone\nthrough any religious or other ceremony) is regarded by\nvirtue of any law or custom as the wife of a man or as one\nof his wives;\n\n\"year of assessment\" has the meaning assigned by section\n\n(2) References in this Act to this Act or to any other\nwritten law includes references to any subsidiary legislation\nmade thereunder.\n\n(3) Unless the context otherwise requires, a reference in\nthis Act to the acquisition or disposal of a building includes\na reference to the acquisition or disposal of the land on\nwhich the building stands.\n\nAct 337 — (4)\n\nPart II\nIMPOSITION OF THE TAX\n\nTaxationof 3, (1) A tax, to be called real property gains tax, shall be\n\nchargeable\ngains.\n\nRate of tax.\n\ncharged in accofdance with this Act in respect of chargeable\ngain accruing on the disposal of any real property (herein-\nafter referred to as \"chargeable asset\").\n\n(2) Subject to this Act, the tax shall be charged on every\nringgit of the total amount of chargeable gains accruing to a\nchargeable person in a year of assessment in respect of each\ncategory of disposal of chargeable assets specified in\nSchedule 5."
+   }
   },
   {
-   "id": "MY-H032-A3",
-   "no": 3,
-   "noLabel": {
-    "en": "Article 3"
-   },
-   "text": {
-    "en": "A gain accruing to the Government, a State Government or a local authority.\nReal Property Gains Tax 107"
-   },
-   "partIndex": 2
-  },
-  {
-   "id": "MY-H032-A4",
+   "id": "MY-H180-A4",
    "no": 4,
    "noLabel": {
-    "en": "Article 4"
+    "en": "Section 4"
    },
+   "chapter": {
+    "en": "Part II"
+   },
+   "heading": {},
    "text": {
-    "en": "A gain equal to the amount of estate duty payable under any law relating to estate duty applicable in Malaysia on an estate of a deceased person accruing  in respect of a disposal of a chargeable asset from that estate where the Director  General is satisfied that the disposer is compelled to dispose the property in  order to pay the estate duty.\nSCHEDULE 5 [Section 4 and Subsection 7(4)] RATES OF TAX PART I Except where Part II or Part III is applicable, the following rates of tax shall apply:\nCategory of disposal Rate of tax Disposal within three years after the date of  acquisition of the chargeable asset 30 per cent Disposal in the fourth year after the date of acquisition of the chargeable asset 20 per cent Disposal in the fifth year after the date of acquisition of the chargeable asset 15 per cent Disposal in the sixth year after the date of acquisition of the chargeable asset or thereafter Nil PART II In the case where the disposer is a company incorporated in Malaysia or a trustee of a trust or body of persons registered under any written law in Malaysia the following rates of tax shall apply:\nCategory of disposal Rate of tax Disposal within three years after the date of acquisition of the chargeable asset 30 per cent 108 Laws of Malaysia ACT 169 Disposal in the fourth year after the date of acquisition of the chargeable asset 20 per cent Disposal in the fifth year after the date of acquisition of the chargeable asset 15 per cent Disposal in the sixth year after the date of acquisition of the chargeable asset or thereafter 10 per cent PART III In the case of a disposer who is n ot a citizen and not a permanent resident, or an executor of the estate of a deceased person who is not a citizen and not a permanent resident, or a company not incorporated in Malaysia Category of disposal Rate of tax Disposal within five years after the date of acquisition of the chargeable asset 30 per cent Disposal in the sixth year after the date of acquisition of the chargeable asset or thereafter 10 per cent 109 LAWS OF MALAYSIA Act 169 REAL PROPERTY GAINS TAX ACT 1976 LIST OF AMENDMENTS Amending law Short title In force from Act A431 Real Property Gains Tax (Amendment) Act 1978\nsection 2, subsections 3(2), 3(3), 3(4), paragraph 3(5)(a), subsections 3(6), 3(7) and 4(5): 07- 11-1975; subsection 3(1), paragraph  3(5)(b), subsections 4(1), 4(2), 4(3), 4(4), 4(6), sections 5 and 6:\n29-10-1977 Act 241 Finance Act 1981 18-10-1980 except sections 24, 25 and 26:\n07-11-1975 Act 264 Finance Act 1982 23-10-1981 except paragraph 14(i):\n07-11-1975 Act 293 Finance Act 1983 The year of assessment 1984 and subsequent years of assessment Act 309 Finance Act 1984 19-10-1984 110 Laws of Malaysia ACT 169 Amending law Short title In force from Act 323 Finance (No. 2) Act 1985 01-01-1986 except paragraphs 39(a), 39(c), 39(d), 39(e), 39(g) and 39(l): 01-07-1983; paragraph 39(g):\n01-01-1986 except subparagraph 15B(2):\n01-07-1983 Act 328 Finance Act 1986 24-10-1986 Act 337 Finance Act 1987 paragraph 18(a):\n24-10-1986; paragraphs 18(b) and\n(c) and section 19:\n23-10-1987 Act 364 Finance Act 1988 21-10-1988 Act 420 Finance Act 1990 01-01-1989 Act 476 Finance Act 1992 01-11-1991 Act 544 Finance Act 1996 27-10-1995 Act 557 Finance Act 1997 25-10-1996 except sections 33, 34, 35, 36 and 37:\n02-08-1996 Act 578 Finance Act 1998 20-03-1998 except section 30:\n01-01-1999; sections31 and 32:\n17-10-1998 Act A1028 Tax Laws (Amendment) Act 1998 02-07-1998 Act 591 Finance (No. 2) Act 1998 01-01-1999 Act 608 Finance (No. 2) Act 2000 01-01-2001 Act 639 Finance Act 2004 11-09-2004 Real Property Gains Tax 111 Amending law Short title In force from Act 644 Finance Act 2005 01-01-2006: except sections 40, 48 and 49:\n01-10-2005; sections 42 and 43:\n01-01-2006 Act 661 Finance Act 2006 01-01-2007 except section 36:\n01-10-2005;\nsection 38:\n02-09-2006 Act 702 Finance Act 2010 01-01-2010: sections 39 until 57 Act 719 Finance Act 2011 sections 34 and 35:\n28-01-2011;\nsection 36: The year of assessment 2011 and subsequent years of assessment Act 742 Finance Act 2012 The year of assessment 2012 Act 755 Finance Act 2013 See section 55 of Finance Act 2013 Act 761 Finance Act 2014 See section 44 of Finance Act 2014 Act 764 Finance (No.2) Act 2014 01-01-2015 Act 773 Finance Act 2015 sections 40 and 42:\nThe year of assessment 2015 and subsequent years of assessment; sections 41and 43:\n31-12-2015 Act 785 Finance Act 2017 See section 34 of Finance Act 2017 112 Laws of Malaysia ACT 169 Amending law Short title In force from Act 801 Finance (No. 2) Act 2017 See section 15 of Finance (No. 2) Act 2017 Act 812 Finance Act 2018 01-01-2019 Act 823 Finance Act 2019 See section 22 of Finance Act 2019 Act 831 Finance Act 2020 01-01-2021 Act 833 Finance Act 2021 01-01-2022 Act 845 Finance Act 2023 01-06-2023 Act 851 Finance (No. 2) Act 2023 See section 35 of Finance (No. 2) Act 2023 113 LAWS OF MALAYSIA Act 169 REAL PROPERTY GAINS TAX ACT 1976 LIST OF SECTIONS AMENDED Section Amending authority In force from 2 Act 241 Act 323 Act 337 Act 420 Act 557 Act 755 Act 773 Act 851 18-10-1980 01-01-1986 01-01-1988 01-01-1989 25-10-1996 26-12-2012 Year of assessment 2015 and subsequent years of assessment 01-01-2025 7 Act 702 01-01-2010 8 Act 241 18-10-1980 9 Act 644 Act 661 01-10-2005 01-01-2007 12 Act A431 Act 323 07-11-1975 01-01-1986 13 Act 323 Act 702 Act 755 Act 785 Act 851 01-01-1986 01-01-2010 See section 55 of Finance Act 2013 See section 34 of Finance Act 2017 01-01-2025 13A Act 851 01-01-2025 114 Laws of Malaysia ACT 169 Section Amending authority In force from 14 Act 323 Act 719 Act 755 Act 761 Act 831 Act 851 01-01-1986 28-01-2011 See section 55 of Finance Act 2013 24-01-2014 01-01-2021 01-01-2025 15 Act 578 Act 644 Act 661 Act 755 Act 761 Act 831 Act 851 01-01-1999 01-01-2006 01-01-2007 See section 55 of Finance Act 2013 24-01-2014 01-01-2021 01-01-2025 15A Act 851 01-01-2025 16 Act 323 Act 476 Act 702 01-01-1986 01-11-1991 01-01-2010 16A Act 851 01-01-2025 17 Act 323 Act 476 Act 702 Act 851 01-01-1986 01-11-1976 01-01-2010 01-01-2025 18 Act 608 01-01-2001 19 Act 755 Act 851 See section 55 of Finance Act 2013 01-01-2025 19A Act 851 01-01-2025 20 Act 702 Act 851 01-01-2010 01-01-2025 21 Act 851 01-01-2025 21A Act 323 Act 702 01-01-1986 01-01-2010 Real Property Gains Tax 115 Section Amending authority In force from 21B Act 323 Act 476 Act 702 Act 755 Act 764 Act 801 Act 823 Act 831 Act 833 01-01-1986 01-11-1991 01-01-2010 See section 5 of Finance Act 2013 01-01-2015 See section 15 of Finance (No. 2) Act 2017 See section 22 of Finance Act 2019 01-01-2021 01-01-2022 21C Act 831 01-01-2021 22 Act 702 Act 831 01-01-2010 01-01-2021 24 Act 323 Act 644 Act 702 Act 719 Act 755 01-01-1986 01-01-2006 01-01-2010 28-01-2011 See section 55 of Finance Act 2013 24A Act 644 01-01-2006 27 Act 323 01-01-1986 28A Act 851 01-01-2025 28B Act 851 01-01-2025 28C Act 851 01-01-2025 29 Act 323 Act 761 Act 773 01-01-1986 24-01-2014 31-12-2015 32 Act 833 01-01-2022 39 Act A1028 02-07-1998 116 Laws of Malaysia ACT 169 Section Amending authority In force from 45 Act 328 Act 557 Act 644 24-10-1986 25-10-1996 01-01-2006 46 Act 557 25-10-1996 47 Act 241 Act 557 07-11-1975 25-10-1996 48A Act 702 01-01-2010 52 Act 702 01-01-2010 53 Act 591 Act 702 01-11-1999 01-01-2010 54 Act 557 25-10-1996 55 Act 644 Act 702 01-01-2006 01-01-2010 56 Act 644 01-01-2006 57A Act 702 Act 831 Act 851 01-01-2010 01-01-2021 01-01-2025 57B Act 833 01-01-2022 Schedule 1 Act 241 Act 755 Act 761 07-11-1975 See section 55 of Finance Act 2013 24-01-2014 Schedule 2 Act A431 Act 241 Act 264 Act 293 Act 323 Act 328 Act 337 Act 364 Act 476 Act 557 29-10-1977 07-11-1975 23-10-1981 Year of assessment 1984 and subsequent years of assessment 01-07-1983 24-10-1986 01-01-1988 21-10-1988 01-11-1991 25-10-1996 Real Property Gains Tax 117 Section Amending authority In force from Act 578 Act 639 Act 661 Act 702 Act 785 Act 719 Act 742 Act 764 Act 773 Act 785 Act 801 Act 812 Act 823 Act 833 Act 845 Act 851 17-10-1999 11-09-2004 02-09-2006 01-01-2010 See section 34 of Finance Act 2017 Year of assessment 2011 and subsequent years of assessment Year of assessment 2012 01-01-2015 Year of assessment 2015 and subsequent years of assessment See section 34 of Finance Act 2017 See section 15 of Finance (No. 2) Act 2017 01-01-2019 See section 22 of Finance Act 2019 01-01-2022 01-06-2023 01-01-2024 Schedule 3 Act A431 Act 323 Act 644 Act 812 Act 823 29-10-1977 01-01-1986 01-10-2005 01-01-2019 See section 22 of Finance Act 2019 Schedule 4 Act A431 Act 241 Act 293 29-10-1977 18-10-1980 Year of assessment 1984 and subsequent years 118 Laws of Malaysia ACT 169 Section Amending authority In force from Act 323 Act 328 Act 364 Act 702 Act 755 Act 773 Act 833 of assessment 01-01-1986 24-10-1986 21-10-1988 01-01-2010 See section 55 of Finance Act 2013 31-12-2015 01-01-2022 Schedule 5 Act A431 Act 241 Act 264 Act 309 Act 328 Act 544 Act 578 Act 702 Act 761 Act 801 Act 812 Act 823 Act 831 Act 833 29-10-1977 18-10-1980 23-10-1981 19-10-1984 24-10-1986 27-10-1995 17-10-1999 01-01-2010 01-01-2014 See section 15 of Finance (No. 2) Act 2017 01-01-2019 See section 22 of Finance Act 2019 01-01-2021 01-01-2022"
+    "en": "4. (1) The tax shall be charged at the appropriate rate\nspecified in Schedule 5 in respect of each category of\ndisposal stated therein.\n\n(2) The Minister, where he is satisfied that it is the\nintention of the Government to promote the introduction\nof a Bill to vary in any particular way the rate of tax, may by\nstatutory order declare the rate to be varied in that way,\n\n(Pt. Il, S.\n\nREAL PROPERTY GAINS TAX           11\n\nand, where he does so, then, subject to subsections (3) and (4),\nthis Act shall have effect as if the rate as so varied had\ncome into force at the beginning of the first year of assess-\nment for which the Bill seeks to vary that rate.\n\n(3) Every order made under subsection (2) shall be laid\nbefore the Dewan Rakyat as soon as may be after it has\nbeen made and shall cease to have effect—\n\n(a) at the expiration of three months (or such longer\nperiod as may be specified by resolution of the\nDewan Rakyat) beginning on the date when the\norder was made; or\n\n(b) on the coming into force (after the date when the\norder was made) of an Act varying the rate of tax,\n\nwhichever is the earlier.\n\n(4) Where an order made under subsection (2) ceases to\nhave effect pursuant to subsection (3)—\n\n(a) the amount of any tax which—\n\n(i) has been charged by any assessment by\nreference to the order; and\n\n(ii) is payable (whether or not it is due or due and\npayable) but not paid at the date when the\norder ceases to have effect,\n\nshall be taken to be amended to the amount which\nwould have been payable if the order had not been\nmade; and\n\n(6) so much of any tax paid by any person in con-\nsequence of the order as exceeds the tax payable\nunder the law in force immediately after the date\nwhen the order ceases to have effect shall be repaid\nby the Director General if that person—\n\n(i) makes a claim therefor in the prescribed form\nwithin one year after that date; and\n\n(ii) furnishes to the Director General such further\nparticulars of the claim as the Director General\nmay require."
+   }
+  },
+  {
+   "id": "MY-H180-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
    },
-   "partIndex": 2
+   "chapter": {
+    "en": "Part II"
+   },
+   "heading": {},
+   "text": {
+    "en": "5. (1) The situation of interests, options and other rights\nin or over land is that of the land.\n\n(2) The term \"rights in or over\" includes rights to\npurchase.\n\n4-5)\n\nSituation of\ninterests,\noptions,\netc.\n\n(Pt. II, S. 6-7)\n\nChargeable\npersons.\n\nChargeable\ngains,\nallowable\nlosses and\ntax relief\n\nfor\nallowable\nlosses.\n\n12                        Acr 169"
+   }
+  },
+  {
+   "id": "MY-H180-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "chapter": {
+    "en": "Part II"
+   },
+   "heading": {},
+   "text": {
+    "en": "6. (1) Subject to this Act, every person whether or not\nresident in Malaysia for a year of assessment shall be\nchargeable with the tax in respect of a chargeable gain\naccruing to him in that year on the disposal of any charge-\nable asset.\n\n(2) The supplementary provisions in Schedule 1 shall have\neffect with respect to persons chargeable with the tax."
+   }
+  },
+  {
+   "id": "MY-H180-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7"
+   },
+   "chapter": {
+    "en": "Part II"
+   },
+   "heading": {},
+   "text": {
+    "en": "7. (1) Where a chargeable asset is disposed of, then—\n\n(a) if the disposal price exceeds the acquisition price,\nthere is a chargeable gain;\n\n(b) if the disposal price is less than the acquisition price,\nthere is an allowable loss; and\n\n(c) if the disposal price is equal to the acquisition price,\nthere is neither a chargeable gain nor an allowable\nloss.\n\n(2) In this section, an allowable loss means a loss suffered\non the disposal of a chargeable asset which, if it had been a\ngain, would have been chargeable with the tax.\n\n(3) Subsection (1) shall be subject in its operation to\nSchedule 2, which shall have effect for computing acquisition\nand disposal prices and otherwise as provided therein.\n\n(4) (a) Where there is an allowable loss in respect of a\ndisposal, tax relief shall be allowed in respect of\nsuch allowable loss in an amount equal to the sum\narriyed at by applying to every ringgit of such\nallowable loss the appropriate rate of tax specified\nin Schedule 5 in respect of the category of disposal\ngiving rise to that allowable loss as a deduction\nfrom the total tax assessed for the year of assess-\nment in which the disposal was made; and\n\n(b) where, by reason of an insufficiency or absence of\ntotal tax assessed for the year of assessment in\nwhich the allowable loss arose, effect cannot be\ngiven or cannot be given in full to paragraph (a),\nthe tax relief which has not been so allowed (or so\nmuch thereof as has not been so allowed for that\nyear) shall be allowed for the first subsequent year\nof assessment for which there is total tax assessed\nand so on for subsequent years of assessment until\nthe whole amount of the tax relief to be allowed\nhas been allowed.\n\n(Pt. U-Ill, S. 8-12)\n\nREAL PROPERTY GAINS TAX            13"
+   }
+  },
+  {
+   "id": "MY-H180-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8"
+   },
+   "chapter": {
+    "en": "Part II"
+   },
+   "heading": {},
+   "text": {
+    "en": "8. Subject to Schedule 3, a gain shall be exempt from the\ntax if 1t accrues to an individuakin respect of the disposal\nby him of his private residence.\n\nPrivate\nresidence.\n\n(A42)"
+   }
+  },
+  {
+   "id": "MY-H180-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9"
+   },
+   "chapter": {
+    "en": "Part II"
+   },
+   "heading": {},
+   "text": {
+    "en": "9. (1) Notwithstanding any other provision of this Act, the Exemptions.\n\ngains specified in Schedule 4 shall be exempt from the tax.\n\n(2) The Dewan Rakyat may by resolution delete any item\nin Schedule 4 or add any further item or items thereto.\n\n(3) The Minister may by statutory order exempt any\nperson or class of persons from all or any of the provisions\nof this Act.\n\n(4) Any order made under subsection (3) shall be laid\nbefore the Dewan Rakyat.\n\nPART III\nASSESSMENT AND COLLECTION"
+   }
+  },
+  {
+   "id": "MY-H180-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10"
+   },
+   "chapter": {
+    "en": "PART III"
+   },
+   "heading": {},
+   "text": {
+    "en": "10. The first year of assessment shall be a period beginning\non 7th November, 1975 and ending on 31st December, 1976\nand thereafter the year of assessment shall be the calendar\nyear starting with the calendar year 1977."
+   }
+  },
+  {
+   "id": "MY-H180-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11"
+   },
+   "chapter": {
+    "en": "PART III"
+   },
+   "heading": {},
+   "text": {
+    "en": "11. A chargeable person shall be assessed for any year of\nassessment in respect of the total amount of his chargeable\ngains as acertained under section 3 (2) in that year.\n\n, 12. (1) In a case to which this Section applies, a disposer of\na chargeable asset and an acquirer of the asset shall within\nthirty days after the making of an agreement for the disposal\nof that asset each send to the Director General—\n\n(a) a notification of the disposal (or, as the case may be,\nthe acquisition) in the prescribed form with all such\nparticulars as are called for thereby;\n\n(b) where the market value of the asset is to be taken\nfor the purposes of this Act, a written valuation of\nthe asset by a valuer;}and\n\n(c) if he is a nominee, sufficient information to identify\nthe person on whose behalf he is acting.\n\n(2) On receipt of a notification under subsection (1) from\na disposer or an acquirer, the Director General shall—\n\n(a) determine whether any|chargeable gain has accrued\n\nor will accrue to the| disposer in respect of the\ntransaction to which the notification relates;\n\nYear of\nassessment,\n\nChargeable\nperson to be\nassessed on\nchargeable\ngains.\n\nPayment in\n\nadvance of\nassessment.\n\nDeboked by\nAct 323\n\n(Pt. III, S. 12]\n14                  Acr 169\n\n(b) compute the amount of the tax which is or will be\npayable under this Act in respect of any such gain\n(taking no account of anyi allowable loss suffered\nby the disposer in respect of any other transaction\nin the year of assessment in which the notification\nis received or in any earlier year); and\n\n(c) serve upon the disposer a written requisition in the\nprescribed form calling upon him to pay the amount\nso computed.\n\n(3) Any sum demanded by a requisition under subsection\n(2) shall be paid by the disposer} on the service of the\nrequisition.\n\n(4) The Director General shall send both to the disposer\nand to the acquirer in a case to which this section applies\na certificate of clearance in the prescribed form—\n\n(a) on payment being made in accordance with sub-\n\nsection (3); or\n\n(b) where he is satisfied that no chargeable gain has\narisen, on being so satisfied\n\n(5) Where on a disposal to which this section applies the\nconsideration consists wholly or partly of money—\n\n(a) the acquirer shall, until he receives the Director\n\nGeneral's certificate of clearance under subsection\n\n(4), retain the whole of that money (subject to the\n\nreservation that the money setained shall not exceed\na/maximum-consisting-of-a -proportion of the total\n\nPLY 23               value-of the-consideratio     culated-at the-rate at\nwhich-the-tax-is_for the time-being chargeable); and\n\n(b) the Director General may, at any time, before he\nsends the certificate of clearance, require the whole\nor any part of the sum retained under paragraph (a)\n(or, where the acquirer has failed to comply with\nthat paragraph, the sum which should have been so\nretained) to be delivered to him by the acquirer\nwithin a time specified in the requisition.\n\n(6) Any sum due to the Director General from a disposer\nor an acquirer under this section shall be regarded as the\ntax and may be recovered accordingly.\n\n(Pt. III, S. 12-13}\n\nREAL PROPERTY GAINS TAX            15\n\n(7) An acquirer who is required under this section to\ndeliver to the Director General a sum which he should have,\nbut has not, retained under |subsection (5) (a), shall, on\ncomplying with the requisition, be deemed for the purposes\nof section 16 (3) to have beem assessed in that sum under\nsection 16 (1) and to have paid that sum in pursuance of\nthat assessment.\n\n(8) In this section—\n\n\"acquirer\", \"acquisition\", | \"disposer\" and \"disposal\"\ninclude intending acquirer, intended acquisition, intending\ndisposer and intended disposal."
+   }
+  },
+  {
+   "id": "MY-H180-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13"
+   },
+   "chapter": {
+    "en": "PART III"
+   },
+   "heading": {},
+   "text": {
+    "en": "13. (1) Every chargeable person who disposes of a charge-\nable asset shall, within three months (or such further period\nas the Director General may allow on a written request\nbeing made to him) after the end of the year of assessment\nin which the disposal takes place, make a return of all dis-\nposals of chargeable assets (including disposals affected by\nsection 12) made by him during that year—\n\n(a) specifying in respect of each asset disposed of the\nacquisition price, the] disposal price and the gain\nor loss on the dispos\n\n(5) furnishing all information necessary to determine\n\nthe acquisition price|and disposal price of each\nasset disposed of; and\n\n(c) including a statement jof any payment made under\nsection 12,\n\nand shall send with the return the receipt for any such\npayment.\n\n(2) Every nominee shall, within three months (or such\nfurther period as the Director General may allow on a\nwritten request being made to him) after the end of any\nyear of assessment in which he makes a disposal of a charge-\nable asset on behalf of amy person, make a return\nspecifying—\n\n(a) the name and address of the person on whose behalf\nthe disposal was mad\n(b) the asset disposed of;|and\n\n(c) the date on which he first began to hold that asset\n\nas nominee for that person.\na\n\nReturns.\n\noubs Aci 892\n\nAssess-\nments.\n\nAck 323\n\n(Pt. III, S. 13-14}\n\n16                          Act 169\n\n(3) Where any assets acquired—\n\n(a) from any person by a company controlled by that\nperson, by his wife or by him jointly with his wife\nor a connected person; or\n\n(b) with the approval of the Director General under\nparagraph 17 of Schedule 2, by a company from\nanother company in the same group,\n\nare transferred by the acquiring company to its stock in\ntrade, the acquiring company shall within thirty days after\nthe transfer make a return giving particulars of the assets\ntransferred.\n\n(4) Where a person makes a return under this Act, the\nreturn shall be in the prescribed form:\n\nProvided that, where the person making the return is a\nnominee, the return shall be made to the income tax office\nnearest to the nominee's principal place of business or abode\nin Malaysia or if he has no place of business or abode in\nMalaysia, to the office of the Director General in Kuala\nLumpur.\n\n(5) Where a person is required to make a return for the\npurposes of the income tax law, he shall make a declaration\nin that return whether or not he has made a disposal of\nchargeable assets in the year immediately preceding the year\nof assessment for which that return is made."
+   }
+  },
+  {
+   "id": "MY-H180-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14"
+   },
+   "chapter": {
+    "en": "PART III"
+   },
+   "heading": {},
+   "text": {
+    "en": "14. (1) Where a person makes a return under section 13 (1),\nthe Director General may—\n\n(a) accept the return and make an assessment accor-\ndingly; or\n\n(b) make an assessment after making such adjustments\n\nas he considers necessary/ > or\n\n(2) Where a person does not make a return under section\n13 (1), the Director General, if he is of the opinion that\nthat person is chargeable with the tax, may make an\nassessment accordingly:\n\nProvided that the making of an assessment in respect of\na person under this subsection shall not affect any liability\notherwise incurred by that person by reason of his failure to\nmake the return.\n\n(Pt. III, S. 14-16)\nREAL PROPERTY GAINS TAX            17\n\n(3) The Director General, where it appears to him\ndesirable, either because a chargeable person is about to\nleave Malaysia or for any other reason, that an assessment\nshould be made forthwith, may at any time make whatever\nassessment he considers appropriate; and any assessment so\nmade shall, when the year of assessment to which it relates\nand the time allowed under section 13 (1) for making a\nreturn of disposals have expired, be adopted with such\nrevision (if any) as the Director General thinks necessary\nas the assessment for that year.\n\n(4) The death of a chargeable person shall not prevent\nthe making of an assessment in respect of disposals by him\nbefore his death, and where any such assessment is made—\n\n(a) the notice of assessment under section 17 may be\nserved on the executor of the deceased person; and\n\n(b) the assessment shall have the same effect as regards\nimposing a liability on the estate of the deceased\nperson as it would have had if it had been made\nduring his life time:\n\nProvided that no such assessment shall be made more\nthan three years after the end of the year of assessment in\nwhich the death took place."
+   }
+  },
+  {
+   "id": "MY-H180-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15"
+   },
+   "chapter": {
+    "en": "PART III"
+   },
+   "heading": {},
+   "text": {
+    "en": "15. (1) The Director General, where in respect of any year Additional\nOf assessment it appears to him that no or no sufficient 2ss¢ssments.\nassessment has been made on a person chargeable with the ix\ntax, may within/twelve—years after the end of that year of  Lan $78\nassessment make on that person whatever assessment or\nadditional assessment he considers to be appropriate.\n\n(2) The Director General, where it appears to him that a\nperson chargeable with the tax has been guilty of any form\nof fraud or wilful default in connection with or in relation\nto the tax, may at any time make an assessment in respect\nof that person for the purpose of making good any loss of\nthe tax attributable to the fraud or wilful default.\ngubs Act 333"
+   }
+  },
+  {
+   "id": "MY-H180-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16"
+   },
+   "chapter": {
+    "en": "PART III"
+   },
+   "heading": {},
+   "text": {
+    "en": "16. (1) Where in a case to which section 12 applies—      Cases\n\nwher\n(a) the consideration on the disposal of a chargeab'e acquirer\nasset consists of another asset (whether chargeable mee.\n\nor not); or\n\n(b) there is a failure by| both the disposer and the\nacquirer to notify the Director General of the\nintended disposal of a|chargeable asset as required\nby section 12; or\n\n[Pt. III, S. 16-17]\n18                   Acr 169\n\n(c) the consideration on the disposal of a chargeable\nasset is for the purposes |of this Act the market value\nof the asset,\n\nthe Director General may make on the acquirer an assess-\nment of an amount equal to the amount of the tax payable\nby the disposer and shall include in the assessment a sum\nequal to ten per cent of that amount, which shall be deemed\nto be an increase of the kind mentioned in section 21 (4):\n\nProvided that such sum shall not be included in the assess-\nment made pursuant to paragraph (a) or (c) unless the\n\ndisposer has failed to make payment under section 12 (3).\nAck 1G —  (IA)- --                  ¥\n\n(2) An assessment made under this section shall for all\nthe purposes of this Act have effect and be treated as though\nit were an assessment made on a person disposing of a\nchargeable asset:\n\nProvided that—\n\n(a) the acquirer assessed under this section shall not be\nentitled to any deduction from the tax assessed for\nany tax relief for allowable losses suffered by the\ndisposer; and\n\n(b) in relation to the notice of assessment, section 17\n\nM/A H16          €4- (b) shall have effect as if it did not contain a\nreference to allowable losses.\n\n(3) An acquirer of a chargeable asset who is assessed\nunder this section shall be entitled—\n\n(a) to recover as a debt due to him from the disposer\nthe amount of any payment made in pursuance of\nthe assessment; and\n\n(b) for that purpose to require the Director General to\nfurnish a certificate specifying the amount paid,\n\nand any certificate so furnished shall be conclusive evidence\nof the facts stated therein.\nD/A 323                      :\nNoticeof 17. 44)-The Director General shall cause to be served on\nassessment. every person assessed a notice of assessment indicating—\n\n(a) the year of assessment to which the assessment\nrelates;\n\n(b) the chargeable gains and allowable losses taken into\naccount in making the assessment:\n\n(Pt. III, S. 17-18)\n\nREAL PROPERTY GAINS TAX            19\n\n(c) subject to subsection (2)—\n\n(i) the amount of the chargeable gains on which\nthe tax has been assessed;\n\n(ii) the amount of the tax assessed;\n\n(iii) the amount of the tax relief allowed for allow-\nable losses;\n\n(iv) the amount of the tax payable; and\n\n(v) the place at which and the time within which\npayment is to be made; and\n\n(d) the existence of the right of appeal conferred by\nsection 18.\n\nea\n\n(2) Where the tax is not payable, the notice of assessment\nshall contain, instead of the matters referred to in subsection\n(1) (c), a statement that no tax is payable for the year of\nassessment in question and a statement of the amount (if\n\nany) by which—\n(a) for that year, the tax jelief for allowable losses\n\nexceeds the amount of the tax assessed; or\n\n(b) any payment under sectibn 12 in respect of a gain\nwhich is to be taken into account in assessing the\ntax payable for that year exceeds the tax so payable."
+   }
+  },
+  {
+   "id": "MY-H180-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18"
+   },
+   "chapter": {
+    "en": "PART III"
+   },
+   "heading": {},
+   "text": {
+    "en": "18. (1) A person aggrieved by an assessment made on him\nmay appeal to the Special Commissioners against the\nassessment in the same manner as an appeal against an\nassessment of income tax made under the Income Tax Act,\n1967, and the provisions of sections 99, 100, 101Mand 102 of\nthat Act, as far as they are applicable and with the necessary\nmodifications, shall apply to an appeal against an assessment\nmade under this Act as if—\n\n(a) every reference in those sections to income tax or to\ntax were a reference to real property gains tax; and\n\n(b) every reference in those sections to income were a\nreference to chargeable gains.\n\n(2) The provisions of Schedule 5 to the Income Tax Act,\n1967, shall apply with necessary modifications to the hearing\nof appeals to the Special Commissioners and to the hearing\nof further appeals.\n\n(3) Where a person appeals under this Act, he shall not be\nentitled in the appeal to re-open any issue which has been\nfinally and conclusively settled by virtue of section 20 (1)\nunless it is an issue already re-opened by the Director\nGeneral.\n\np/Ac\\ 323\n\nDs\nKL\n\nRight of\nappeal.\n\nAG)\nee\nCL\nAck 699\n\n(Pt. III, S. 19-21)\n\nError or\nmistake.\n\nFinality of\nassessment.\n\nPayment\nof the tax.\n\n20                                         Act 169"
+   }
+  },
+  {
+   "id": "MY-H180-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19"
+   },
+   "chapter": {
+    "en": "PART III"
+   },
+   "heading": {},
+   "text": {
+    "en": "19. (1) A person upon whom a notice of assessment is\nserved may within six years after the end of the year of\nassessment in which the assessment was made apply in\nwriting to the Director General for a revision of the assess-\nment on the ground that the assessment is excessive by\nreason of an error or mistake in a return or other statement\nmade by that person for the purposes of the assessment.\n\n(2) No relief shall be given under subsection (1) in respect\nof an error or mistake as to the basis on which the liability\nof the person concerned ought to have been computed where\nthe return containing the error or mistake was in fact made\non the basis of or in accordance with the practice of the\nDirector General generally prevailing at the time when the\nreturn was made.\n\n(3) An application under subsection (1) shall be, as nearly\nas may be, in the same form as a notice of appeal under\nsection 18 (indicating as the grounds of appeal the error or\nmistake relied on), and shall be deemed to be, and shall be\ndisposed of as if it were, an appeal under that section, the\napplication itself being taken as the notice of appeal."
+   }
+  },
+  {
+   "id": "MY-H180-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20"
+   },
+   "chapter": {
+    "en": "PART III"
+   },
+   "heading": {},
+   "text": {
+    "en": "20. (1) Subject to this section, an assessment shall become\nfinal and conclusive for all the purposes of this Act as\nregards the amount of the tax assessed under it or the tax\nrelief for allowable losses indicated in it, as the case may\nbe—\n(a) on the expiry of the time for appeal against the\nassessment; or\n(5) where an appeal is made, on the appeal being finally\ndisposed of.\n\n(2) Subsection (1)—\n(a) shall not apply to an assessment made under section\n14 (3) until it is adopted as the assessment for the\nyear of assessment to which it relates;\n\n(b) shall not prevent the Director General from making\nin respect of any year of assessment—\n(i) an assessment under section 15 (1) or (2); or\n(ii) a revision under section 19 (1)."
+   }
+  },
+  {
+   "id": "MY-H180-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21"
+   },
+   "chapter": {
+    "en": "PART III"
+   },
+   "heading": {},
+   "text": {
+    "en": "21. (1) Subject to this section, the tax payable under an\nassessment shall, on the service of the notice of assessment\non the person assessed, be due and payable at the place\nspecified in that notice whether or not that person appeals\nagainst the assessment.\n\n(Pt. III, S. 21-22}\n\nREAL PROPERTY GAINS TAX            21\n\n(2) Where the tax payable under an assessment is\nincreased on appeal the additional tax payable by virtue of\nthe increased assessment shall, on the service of the notice of\nthe increased assessment on the person assessed, be due and\npayable at the place specified in that notice.\n\n(3) Where any tax is payable in accordance with sub-\nsection (1) or (2) the Director General may allow the tax\nto be paid by instalments in such amounts and on such dates\nas he may determine.\n\n(4) Subject to subsection (3), where any tax due and\npayable on the service of a notice in accordance with\nsubsection (1) or (2) has not been paid within thirty days\nafter the service of that notice (or within such longer period\nas may be allowed by the Director General), so much of the\ntax as is unpaid upon the expiration of those days or that\nperiod, as the case may be, shall without any further notice\nbeing served on him be increased by a sum equal to ten per\ncent of the tax so unpaid, and that sum shall be recoverable\nas if it were tax due and payable under this Act:\n\nProvided that—\n\n(a) if the tax payable is reduced on appeal or otherwise,\nthe sum paid or payable by way of increase shall be\nreduced proportionately; and\n\n(b) the Director General may in his discretion for any\ngood cause shown remit the whole or any part of\nany increase in the tax payable under this subsection.\n\naA and DIB----                         —"
+   }
+  },
+  {
+   "id": "MY-H180-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22"
+   },
+   "chapter": {
+    "en": "PART III"
+   },
+   "heading": {},
+   "text": {
+    "en": "22. (1) The Director General, where he is of the opinion\nthat any person is about or likely to leave Malaysia without\n\npaying—\n\n(a) all the tax payable by him (whether or not due or\ndue and payable); and\n\n(5) all sums payable by him under section 21 (4),\n\nmay issue to any Commissioner of Police or Director of\nImmigration a certificate containing particulars of the tax\nand sums so payable with a request for that person to be\nprevented from leaving Malaysia unless and until he pays\nall the tax and sums so payable or furnishes security to the\nsatisfaction of the Director General for their payment.\n\nAq 323\n\nRecovery\nfrom\npersons\nleaving\nMalaysia.\n\n(Pt. III, S. 221\n22                  Act 169\n\n(2) Subject to any order issued or made under any written\nlaw relating to banishment or immigration, any Commis-\nsioner of Police or Director of Immigration who receives a\nrequest under subsection (1) in respect of any person shall\ntake or cause to be taken all such measures (including the\nuse of reasonable force and the seizure, removal or retention\nof any certificate of identity and any passport, exit permit\nor other travel document relating to that person) as may be\nnecessary to give effect to it.\n\n(3) The Director General shall cause notice of the issue\nof a certificate under subsection (1) to be served personally\nor by registered post on the person to whom the certificate\nrelates :\n\nProvided that the non-receipt of the notice by that person\nshall not invalidate anything done under this section.\n\n(4) Where a person in respect of whom a certificate has\nbeen issued under subsection (1)—\n\n(a) produces a written statement signed on or after the\ndate of the certificate by the Director General or\nan authorised officer to the effect that all the tax\nand sums specified in the certificate have been paid\nor that security has been furnished for their pay-\nment; or\n\n(b) pays all the tax and sums specified in the certificate\nto the officer in charge of a police station or to an\nimmigration officer,\n\nthe statement or the payment, as the case may be, shall be\nsufficient authority for allowing that person to leave\nMalaysia.\n\n(5) No legal proceedings shall be instituted or maintained\nagainst the Government, a State Government, a police officer\nor any other public officer in respect of anything lawfully\ndone under this section or section 32 (2).\n\n(6) In this section—\n\n\"Commissioner of Police\" includes a Chief Police\nOfficer;\n\n\"Director of Immigration\" means the Director of\nImmigration in any part of Malaysia;\n\n\"immigration officer\" means a public officer having\nOfficial duties in connection with the control of immi-\ngration into Malaysia or any part of Malaysia.\n\nRBAL PROPERTY GAINS TAX            23"
+   }
+  },
+  {
+   "id": "MY-H180-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23"
+   },
+   "chapter": {
+    "en": "PART III"
+   },
+   "heading": {},
+   "text": {
+    "en": "23. (1) Tax due and payable may be recovered by the Recovery\nGovernment by civil proceedings as a debt due to the ysut\n\nGovernment.\n\n(2) The Director General and all authorised officers shall\nbe deemed to be public officers authorised by the Minister\n\nunder section 25 (1) of the Government Proceedings 58/56.\n\nOrdinance, 1956, in respect of all proceedings under this\nsection.\n\n(3) In any proceedings under this section the court shall\nnot entertain any plea that the amount of tax sought to be\nrecovered is excessive, incorrectly assessed, under appeal or\nincorrectly increased under section 21 (4)."
+   }
+  },
+  {
+   "id": "MY-H180-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24"
+   },
+   "chapter": {
+    "en": "PART III"
+   },
+   "heading": {},
+   "text": {
+    "en": "24. (1) Subject to this section, where it is proved to the Refundof\n\nsatisfaction of the Director General that any person has\npaid tax for any year of assessment in excess of the amount\npayable under this Act, that person shall be entitled to have\nthe excess refunded by the Government.\n\n(2) Where in a case of the kind mentioned in subsection\n\n(1) the excess has been paid (or is deemed under sectiony2\\B (3)\n\n124? to have been paid) by the acquirer of a chargeable\nassest in pursuance of an assessment made on him under\nsection 16 (1), the excess—\n\n(a) shall not be refunded to the acquirer unless he\nsatisfies the Director General that he has not under\nsection 16 (3) recovered it from the disposer;\n\n(b) shall be refunded to the disposer if he satisfies the\nDirector General that the acquirer has under section\n16 (3) recovered it from him;\n\n(c) shall be retained by the Government if the Director\nGeneral is not so satisfied.\n\n(3) No claim for repayment under this section shall be\nvalid unless it is made within six years after the end of the\nyear of assessment to which the claim relates.\n\n(4) Nothing in this section shall operate—\n\n(a) to extend any time limit for appeal, validate any\nappeal which is otherwise invalid or authorise the\nrevision of any assessment or other matter which\nhas become final and conclusive;\n\n(b) to compel the Government to refund the excess\namount of tax paid in respect of an assessment\nunless the assessment has been finally determined.\n\nAq 3\n\nbl\n\n(Pt. III, S. 24-25)\n\nAct 323\n\nAnti-\navoidance\n\nprovisions.\n\n24                                         Acr 169\n\n(5) The representative of a disabled or deceased person\nshall be entitled to a refund under subsection (1) for the\nbenefit of that person or his estate of any excess payment\nwithin the meaning of that subsection.\n\n(6) The Director General shall—\n\n(a) certify the amount of any sum repayable under\nthis section; and\n\n(b) cause repayment to be made forthwith,\n\nand the sum required for making the repayment shall be\ncharged to the Consolidated Fund.\n\n(7) For the purposes of this section—\n\n(a) references to payment of the tax includes references\nto payment of the amount payable in pursuance of\nsection/ 12; and\n\n(b) a payment of the tax by the representative of a\ndisabled or deceased person shall be deemed to\nhave been made by that person.\n\n(8) In this section—\n\n\"disabled person\" means a person who through\nincapacity, bankruptcy or liquidation, or for any other\nreason is unable to manage his own affairs;\n\n\"representative\" means, in the case of a deceased\nperson, his executor, and, in the case of a disabled\nperson, the trustee, guardian, committee or other person\nwho manages his affairs."
+   }
+  },
+  {
+   "id": "MY-H180-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25"
+   },
+   "chapter": {
+    "en": "PART III"
+   },
+   "heading": {},
+   "text": {
+    "en": "25. (1) Where a chargeable asset which is disposed of was\npreviously acquired by the disposer for a consideration\nwholly or substantially provided by a connected person\nwithin the meaning of Schedule 2 (otherwise than as a bona\nfide loan made in the course of carrying on business as a\nmoneylender), the asset shall be deemed to have been\ndisposed of by that person and not by the disposer:\n\nProvided that, where the asset disposed of was acquired\nby the disposer from that person, that person shall, for the\npurpose of computing any gain accruing to or loss suffered\nby him by the operation of this subsection, be deemed to\n\n(Pt. III, S. 25-26}\n\nREAL PROPERTY GAINS TAX            25\n\nhave acquired the asset at an acquisition price equal to the\nconsideration which, by virtue of paragraphs 9 and 23 (1) of\nSchedule 2, he is deemed to have received when the asset was\nacquired by the disposer.\n\n(2) The Director General, where he has reason to believe\nthat any transaction has the direct or indirect effect of—\n\n(a) altering the incidence of tax which is payable or\nsuffered by or which would otherwise have been\npayable or suffered by any person;\n\n(b) relieving any person from any liability which has\narisen or which would otherwise have arisen to pay\ntax or to make a return;\n\n(c) evading or avoiding any duty or liability which is\nimposed or would otherwise have been imposed on\nany person by this Act; or\n\n(d) hindering or preventing the operation of this Act in\nany respect,\n\nmay, without prejudice to such validity as it may have in any\nother respect or for any other purpose, disregard or vary\nthe transaction and make such assessments as he considers\njust and proper in the circumstances.\n\n(3) In this section \"transaction\" means any trust, grant,\ncovenant, agreement, arrangement or other disposition or\ntransaction made or entered into (whether before or after\nthe commencement of this Act), and includes a transaction\nentered into by two or more persons with another person\nor persons."
+   }
+  },
+  {
+   "id": "MY-H180-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26"
+   },
+   "chapter": {
+    "en": "PART III"
+   },
+   "heading": {},
+   "text": {
+    "en": "26. (1) The tax paid or payable by any person may be\nremitted, wholly or in part—\n\n(a) on grounds of poverty, by the Director General;\n\n(b) on grounds of undue hardship or justice and equity,\nby the Minister.\n\n(2) Where a person granted remission under subsection\n(1) has paid any of the tax to which the remission relates, he\nshall be entitled to have the amount which he has paid\nrefunded to him as if it were an overpayment to which\nsection 24 applies,\n\nRemission.\n\n(Pt. IV, S. 27)\n\n26                  Acr 169\nPART IV\nINVESTIGATORY AND PENAL\nPower to     7. (1) The Director General may by notice in writing\npkr    a any person to furnish within fourteen days or such\n\ntion,ete. further period as may be specified in the notice any informa-\ntion respecting any matter as to which a-notification under\np/Ack 393      S             a return under this Act has been made or is\nws a  ;          required to be made:\n\nProvided that, where that person is a public officer or an\nofficer in the employment of a local authority or other public\nbody, he shall not be obliged to disclose any particulars as\nto which he is under a statutory obligation to observe\nsecrecy.\n\n(2) For the purpose of obtaining full information as to\nany person's liability to the tax, the Director General may\nrequire that or any other person by notice in writing—\n\n(a) to complete and deliver to the Director General\nwithin a time specified in the notice (not being less\nthan fourteen days from the date of service of the\nnotice) any return specified in the notice; or\n\n(b) to attend personally before the Director General and\nproduce for examination all books, accounts, returns\nand other documents which the Director General\nconsiders necessary.\n\n(3) The Director General may by notice in writing require\nany person to furnish within a time specified in the notice\n(not being less than thirty days from the date of service of\nthe notice) a statement containing particulars of—\n\n(a) all banking accounts (whether current or deposit,\nbusiness or private or in his own name, the name of\nhis wife or any other name)—\n\n(i) in which he is or has been interested jointly | or\nsolely; or\n(ii) on which he has or has had power to operate\njointly or solely,\nbeing accounts which are in existence or have been\nin existence at any time during a period specified in\nthe notice;\n\n(b) all savings and loan accounts, deposits, building\nsociety accounts and co-operative society accounts\nin regard to which he has or has had any interest\n\n(Pt. IV, S. 27-28)\n\nREAL PROPERTY GAINS TAX             27\n\nor power to operate jointly or solely during that\nperiod;\n\n(c) all assets other than those referred to in paragraphs\n(a) and (b) which he has possessed during that\nperiod;\n\n(d) all moneys receivable by him during that period\notherwise than from the sources mentioned in para-\ngraphs (a) to (c); and\n\n(e) all facts bearing upon his present or past liability to\nthe tax."
+   }
+  },
+  {
+   "id": "MY-H180-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 28"
+   },
+   "chapter": {
+    "en": "PART IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "28. (1) For the purposes of this Act the Director General\nshall at all times have full and free access to all lands,\nbuildings and other places and to all books and other\ndocuments and may search such lands, buildings and places\nand may inspect, copy or make extracts from any such\nbooks or documents without making any payment by way\nof fee or reward.\n\n(2) The Director General may take possession of any\nbooks or documents to which he has access under sub-\nsection (1) where in his opinion—\n\n(a) the inspection of them, the copying of them or the\nmaking of extracts from them cannot reasonably\nbe undertaken without taking possession of them;\nor\n\n(b) they may be interfered with or destroyed unless he\ntakes possession of them; or\n\n(c) they may be needed as evidence in any legal pro-\nceedings instituted under or in connection with this\nAct.\n\n(3) Where in the opinion of the Director General it is\nnecessary for the purpose of this Act to examine any\nbook, account, record or other document which is—\n\n(a) made or kept by, or in the possession or under\nthe control of, a person liable to the tax; and\n(b) made or kept in a language other than the national\nlanguage,\nhe may by notice in writing require that person to furnish\na translation in the national language:\n\nProvided that in Sarawak this subsection shall have effect\nas if the words \"or English\" were inserted after the words\n\"national language\" wherever they occur.\n\nPower of\naccess to\nbuildings\nand docu-\nments, etc.\n\n(Pt. IV, S. 29-30)\n\nFailure to ?\nnotify or\nvi  323 make return\n\n: eh        of disposal.\n1&6)\n\nD/A 323\neb.\nle. )\n\nIncorrect\nreturns, etc.\n\n28                            Act 169\n\n29, (1) Any person who, without reasonable excuse, fails\n\ntion~12-or- fails to\nmake a return required by section 13 (1) or fails to make a\ndeclaration under section 13 (5), shall be guilty of an offence\nand on conviction shall be liable to a fine not exceeding\nfive thousand ringgit or to imprisonment for a term not\nexceeding twelve months or to both.\n\n(2) In any prosecution under subsection (1) the burden\nof proving that a return has been made or a notification\ngiven or a declaration made shall be upon the accused\nperson.\n\n(3) Where in ae to a year of assessment a person\n\nfails\n\nto make a return Teqnited by section 13 (1) or fails to\n\nmake a declaration under section 13 (5) and no prosecution\n\nunder subsection (1) has been instituted in relation to that\nfailure—\n\n(a) the Director General may require that person to\npay a penalty equal to treble the amount of the\ntax which is payable for that year; and\n\n(b) if that person pays that penalty (or, where the\npenalty is abated or remitted under section 40 (3)\nso much, if any, of the penalty as has not been\nabated or remitted), he shall not be liable to be\ncharged on the same facts with an offence under\nsubsection (1)."
+   }
+  },
+  {
+   "id": "MY-H180-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Section 30"
+   },
+   "chapter": {
+    "en": "PART IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "30. (1) Any person who—\n\n(a) makes an incorrect return on behalf of himself or\nanother person by omitting any particulars required\nby this Act relating to any disposal of chargeable\nassets, understating any chargeable gains -or\noverstating any allowable loss; or\n\n(b) gives any other incorrect information in relation to\nany other matter affecting his own or any other\nperson's liability to the tax,\n\nshall, unless he satisfies the court that the incorrect return\nor other incorrect information was made or given in good\nfaith, be guilty of an offence and on conviction shall be\nliable to a fine not exceeding five thousand ringgit, and\nshall pay a special penalty of double the amount of the\ntax which has been undercharged in consequence of the\n\n(Pt. IV, S. 30-31)\n\nREAL PROPERTY GAINS TAX            29\n\nincorrect return or other information or Which would have\nbeen undercharged if the return or information had been\naccepted as correct.\n\n(2) Where a person makes an incorrect return or gives\nother incorrect information in the manner described in\nsubsection (1) (a) or (b), the Director General may, if no\nprosecution under subsection (1) has been instituted in\nrelation to the incorrect return or incorrect information,\nrequire that person to pay a penalty equal to the amount\nof the tax which has been undercharged in consequence of\nthe incorrect return or information or which would have\nbeen undercharged if the return or information had been\naccepted as correct, and if that person pays that penalty\n(or, where the penalty is abated or remitted under section\n40 (3), so much, if any, of the penalty as has not been abated\nor remitted), he shall not be liable to be charged on the\nsame facts with an offence under subsection (1)."
+   }
+  },
+  {
+   "id": "MY-H180-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Section 31"
+   },
+   "chapter": {
+    "en": "PART IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "31. (1) Any person who wilfully and with intent to evade\nor assist any other person to evade the tax—\n\n(a) omits from a return under this Act any particulars\nrequired under this Act relating to any disposal\nof a chargeable asset; or\n\n(b) makes a false statement or entry in a return made\nunder this Act; or\n\n(c) gives a false answer (orally or in writing) to a\nquestion asked or request for information made\nunder this Act; or\n\n(d) prepares or maintains or authorises the prepara-\ntion or maintenance of any false books of account\nor other false records; or\n\n(e) falsifies or authorises the falsification of any books\nof account or other records; or\n\n(f) produces or allows or authorises the production of,\nbooks of accounts which he knows to be false; or\n(g) makes use or authorises the use of any fraud, art or\ncontrivance; or\n(h) makes in respect of the tax a fraudulent claim for\nrepayment,\nshall be guilty of an offence and on conviction shall be\n\nliable to imprisonment for a term not exceeding three years\nor to a fine not exceeding ten thousand ringgit or to both,\n\nWilful\nevasion.\n\n(Pt. IV, S. 31-33)\n\nLeaving\nMalaysia\nwithout\npayment\nof tax.\n\nObstruc-\ntion of\nofficers.\n\n30                                   Act 169\n\nand shall pay a special penalty of treble the amount of the\ntax which has been undercharged in consequence of the\noffence or which would have been undercharged if the offence\nhad not been detected.\n\n(2) Where in any proceedings under this section it is\nproved that a false statement or false entry (whether by\nomission or otherwise) has been made in a return made\nunder this Act by or on behalf of any person or in any\nbooks of account or other records maintained by or on\nbehalf of any person, that person shall be presumed until\nthe contrary is proved to have made that false statement\nor entry with intent to evade the tax."
+   }
+  },
+  {
+   "id": "MY-H180-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Section 32"
+   },
+   "chapter": {
+    "en": "PART IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "32. (1) Any person who, knowing that a certificate has\nbeen issued in respect of him under section 22, voluntarily\nleaves or attempts to leave Malaysia without paying all the\ntax payable by him or furnishing security to the satisfaction\nof the Director General for its payment shall be guilty of\nan offence and on conviction shall be liable to imprisonment\nfor a term not exceeding two years or to a fine not exceeding\nfive thousand ringgit or to both.\n\n(2) A police officer or immigration officer may arrest\nwithout warrant any person whom he reasonably suspects\nto be committing or about to commit an offence under this\nsection."
+   }
+  },
+  {
+   "id": "MY-H180-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Section 33"
+   },
+   "chapter": {
+    "en": "PART IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "33. Any person who—\n\n(a) obstructs or refuses to permit the entry of the\nDirector General or an authorised officer into any\nland, building or place in pursuance of section 28;\nor\n\n(b) obstructs the Director General or an authorised\nofficer in the exercise of his functions under this\nAct; or\n\n(c) refuses to produce any books or other documents\nin his custody or under his control on being required\nto do so by the Director General or an authorised\nofficer for the purposes of this Act; or\n\n(d) fails to give reasonable assistance to the Director\nGeneral or an authorised officer for any of those\npurposes; or\n\n(Pt. IV, S. 33-35)\n\nREAL PROPERTY GAINS TAX            31\n\n(e) refuses to answer any question relating to any of\nthose purposes lawfully asked of him by the Director\nGeneral or an authorised officer,\n\nshall be guilty of an offence and on conviction shall be liable\nto a fine not exceeding five thousand ringgit or to imprison-\nment for a term not exceeding two years or to both."
+   }
+  },
+  {
+   "id": "MY-H180-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "Section 34"
+   },
+   "chapter": {
+    "en": "PART IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "34. Any person having any official function under this Act\nwho—\n\n(a) having possession of or control over any information\nor any return or other document relating to the\nchargeable gains or allowable losses of any person,\nat any time, otherwise than for the purposes of this\nAct or another tax law within the meaning of\nsection 47 or otherwise than with the express\nauthority of the Minister—\n\n(i) communicates or attempts to communicate\nthe information or anything contained in the\nreturn or other document to any other person;\nor\n\n(ii) suffers or permits any other person to have\naccess to the information or to anything\ncontained in the return or other document; or\n\n(b) aids, abets or incites any other person to contravene\nparagraph (a),\n\nshall be guilty of an offence and on conviction shall be\nliable to imprisonment for a term not exceeding one year\nor to a fine not exceeding two thousand ringgit or to both."
+   }
+  },
+  {
+   "id": "MY-H180-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "Section 35"
+   },
+   "chapter": {
+    "en": "PART IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "35. Any person who—\n\n(a) being a person having any official function under\nthis Act—\n(i) otherwise than in good faith, demands from\nany person an amount in excess of the tax or\npenalties due under this Act; or\n\n(ii) withholds for his own use or otherwise any\nportion of the amount of the tax collected; or\n\n(iii) defrauds any person, embezzles any money\nor otherwise uses his position so as to deal\nwrongfully with the Director General or any\nother person; or\n\nBreach of\nsecrecy.\n\nOffences by\nofficials\nand un-\nauthorised\ncollection.\n\n(Pt. IV, S. 35-40)\n\nOther\noffences.\n\nAdditional\nprovisions\nasto\noffences\nunder\nsection 30,\n32, 33 or 36.\n\nTax payable\nnotwith-\nstanding\nprocee-\ndings.\n\nAla AIOIS\nSanction\nfor prose-\ncution.\n\nCompound-\ning of\noffences\nand abate-\nment of\npenalties.\n\n32                               Acr 169\n\n(b) not being authorised under this Act to do so,\ncollects or attempts to collect the tax,\n\nshall be guilty of an offence and on conviction shall be\nliable to imprisonment for a term not exceeding three years\nor to a fine not exceeding ten thousand ringgit or to both."
+   }
+  },
+  {
+   "id": "MY-H180-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "Section 36"
+   },
+   "chapter": {
+    "en": "PART IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "36. Any person who, without reasonable excuse, fails to\ncomply with—\n(a) the requirements of section 13 (2) or (3); or\n\n(b) the requirements of a notice given under section 27\nor 28 (3),\n\nshall be guilty of an offence and on conviction shall be liable\nto imprisonment for a term not exceeding one year or to\na fine not exceeding two thousand ringgit or to both."
+   }
+  },
+  {
+   "id": "MY-H180-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "Section 37"
+   },
+   "chapter": {
+    "en": "PART IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "37. (1) No criminal proceedings for an offence under\nsection 30, 32, 33 or 36 shall be instituted more than twelve\nyears after the offence was committed.\n\n(2) Any person who aids, abets or incites another person\nto commit an offence under section 30, 32, 33 or 36 shall\nbe deemed to have committed the same offence and shall\nbe liable to the same penalty."
+   }
+  },
+  {
+   "id": "MY-H180-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "Section 38"
+   },
+   "chapter": {
+    "en": "PART IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "38. The institution of proceedings or the imposition of a\npenalty, fine or term of imprisonment under this Part shall\nnot relieve any person from liability for the payment of any\namount of the tax for which he is or may be liable or from\nrege to make any return which he is required by this Act\nto make."
+   }
+  },
+  {
+   "id": "MY-H180-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "Section 39"
+   },
+   "chapter": {
+    "en": "PART IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "39. Subject to Article 145 (3) of the Federal Constitution,\nno prosecution for an offence under this Part shall be\ninstituted except—\n\n(i) in the case of offences| under sections 30 to 35, with\nthe sanction of the Public Prosecutor; and\n\n(ii) in any other case, with the sanction of the Director\nGeneral."
+   }
+  },
+  {
+   "id": "MY-H180-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "Section 40"
+   },
+   "chapter": {
+    "en": "PART IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "40. (1) Where any person has committed any offence under\nthis Act, the Director General may at any time before\nconviction compound the offence and order that person to\npay such sum of money, not exceeding the amount of the\nmaximum fine and any special penalty to which that person\n\n(Pt. IV, S. 40]\nREAL PROPERTY GAINS TAX            33\n\nwould have been liable if he had been convicted of the\noffence, as he thinks fit:\n\nProvided that the Director General shall not exercise his\npowers under this section unless that person in writing\nadmits that he has committed the offence and requests the\nDirector General to deal with the offence under this section.\n\n(2) Where under this section the Director General com-\npounds an offence committed by any person and makes an\norder accordingly—\n\n(a) the order shall be made in writing under the hand\nof the Director General and there shall be attached\nto it the written admission and request referred to\nin subsection (1);\n\n(b) the order shall specify—\n\n(i) the offence committed;\n\n(ii) the sum of money ordered to be paid; and\n\n(ili) the date on which the payment is to be made\nor the dates on which instalments of that sum\nare to be paid, as the case may be, and, where\nthe order provides for payment by instalments\nand there is default in payment of any instal-\nment, the whole of  the  balance then out-\nStanding shall become due and payable\nforthwith;\n\n(c) a copy of the order shall be given, if he so requests,\nto the person who committed the offence;\n\n(d) that person shall not be liable to any prosecution\nor, as the case may be, any further prosecution in\nrespect of the offence and, if any such prosecution\nor further prosecution is brought, it shall be a good\ndefence for that person to prove that the offence\nhas been compounded under this section;\n\n(e) the order shall be final and shall not be subject to\nany appeal;\n\n(f) the order may be enforced in the same way as the\njudgment of a subordinate court (as defined in\nSchedule 5 to the Income Tax Act, 1967) for the\npayment of the amount stated in the order or the\namount outstanding, as the case may be; and\n\n(g) the order shall, on production to any court, be\ntreated as proof of the commission of the offence by\nthat person and of the other matters set out therein.\n\n(Pt. IV-V, S. 40-45)\n\nRecovery of\npenalties.\n\nJurisdic-\ntion of\nsubordinate\ncourt.\n\nThe\nDirector\nGeneral.\n\nPower of\nMinister\n\nto give\ndirections\nto Director\nGeneral.\n\nDelegation\nof Director\nGeneral's\nfunctions.\n\n34                           Act 169\n\n(3) The Director General may abate or remit any penalty\nimposed under this Act except a penalty imposed on\nconviction."
+   }
+  },
+  {
+   "id": "MY-H180-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "Section 41"
+   },
+   "chapter": {
+    "en": "PART IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "41. (1) The special penalties imposed by sections 30 (1) and\n31 (1) shall be recoverable in the same way as fines imposed\non conviction.\n\n(2) Any penalty imposed on any person by section 29 (3),\n30 (2) or paragraph 5 (3) of Schedule 1 shall be collected as\nif it were part of the tax payable by that person."
+   }
+  },
+  {
+   "id": "MY-H180-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "Section 42"
+   },
+   "chapter": {
+    "en": "PART IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "42. Notwithstanding any other written law, a subordinate\ncourt (as defined in Schedule 5 to the Income Tax Act, 1967)\nshall have power to try any offence under this Act and on\nconviction to impose the full penalty therefor.\n\nPART V\nADMINISTRATIVE AND SUPPLEMENTAL"
+   }
+  },
+  {
+   "id": "MY-H180-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "Section 43"
+   },
+   "chapter": {
+    "en": "PART V"
+   },
+   "heading": {},
+   "text": {
+    "en": "43. The Director General of Inland Revenue appointed\nunder the law in force relating to income tax shall have the\ncare and management of the tax.\n\n44, The Minister may give to the Director General\ndirections of a general character (not inconsistent with this\nAct) as to the exercise of the functions of the Director\nGeneral under this Act; and the Director General shall give\neffect to any directions so given."
+   }
+  },
+  {
+   "id": "MY-H180-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "Section 45"
+   },
+   "chapter": {
+    "en": "PART V"
+   },
+   "heading": {},
+   "text": {
+    "en": "45. (1) Any function of the Director General under this Act\n(not being a function exercisable by statutory order or a\nfunction exercisable under section 57) may be exercised by a\nDeputy Director General appointed under the law relating\nto income tax.\n\n(2) The Director of Inland Revenue, Sabah, appointed\nunder the law relating to income tax, and the Director of\nInland Revenue, Sarawak, similarly appointed, , may\nexercise any function of the Director General under this Act\n(not being a function exercisable by statutory order or a\nfunction exercisable under section 57).\n\n(3) The Assistant Directors General of Inland Revenue\nappointed under the law relating to income tax may exercise\nany function of the Director General under this' Act (not\nbeing a function exercisable by statutory order or a function\nexercisable under sections 46 and 57).\n\n[Pt. V, S. 45-46}\nRBAL PROPBRTY GAINS TAX            35\n(4) Senior Assistant and Assistant Directors of Inland\n\nRevenue appointed under the law relating to income tax\nmay exercise any function of the Director General under\n\nthis Act (not being a function exercisable by statutory      Ang\norder or a function exercisable under sections 46 and 57)       AlAproat\ni     j           ton-39, le                       Ac 22%\n\n—    At 3a\n\n(5) Any public officer/who is authorised under section\n136 (5) of the Income Tax Act, 1967, to exercise or assist in\nexercising any function of the Director General under that\nAct shall be deemed to be an officer authorised to exercise\nor assist in exercising any function of the Director General\nunder this Act which is exercisable under subsection (4)\nby a Senior Assistant Director or Assistant Director.\n\n(6) Where a public officer/exetcises under this Act any AA 557\nof the Director General's functions by virtue of any provi-\nsion of subsections (1) to (5), he shall do so subject to the\npelt supervision, direction and control of the Director\n\neneral.\n\nLae S57\n\n(7) The delegation by or under any provision of sub-\nsections (1) to (5) of the exercise of any function of the\nDirector General shall not prevent the exercise of that\nfunction by the Director General himself.\n\n(8) References in this Act to the Director General shall\nbe construed, in relation to any case where a public officer, 44% 557\nis authorised or deemed to have been authorised by any\nprovision of subsections (1) to (5) to exercise the functions\n\nof the Director General, as including references to that \"Zor emp\\ouce\nofficer?                                                       Nek SS)"
+   }
+  },
+  {
+   "id": "MY-H180-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "Section 46"
+   },
+   "chapter": {
+    "en": "PART V"
+   },
+   "heading": {},
+   "text": {
+    "en": "46. (1) Any person exercising the right of access or the Identifica-\nright to take possession conferred by section 28 shall carry denai\n\na warrant in the prescribed form issued by the Director ~~\nGeneral which shall identify the holder and his office and\n\nshall be produced by the holder on demand to any person\n\nhaving reasonable grounds to make the demand.\n\n(2) Where a person purporting to be a public officer, Act ss\nexercising functions under this Act produces a warrant in\nthe form prescribed under subsection (1) or any written\nidentification or authority, then, until the contrary is\nproved, the warrant, identification or authority shall be\npresumed to be genuine and he shall be presumed to be the\nperson referred to therein.\n\nCertain\nmaterials\nto be\ntreated as\nconfiden-\ntial.\n\n. V, S. 46-47)\n\n36                                  Act 169\n\n(3) A warrant issued to any person by the Director\nGeneral under section 137 of the Income Tax Act, 1967,\nshall be deemed to be a warrant issued for the purposes of\nthis section."
+   }
+  },
+  {
+   "id": "MY-H180-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "Section 47"
+   },
+   "chapter": {
+    "en": "PART V"
+   },
+   "heading": {},
+   "text": {
+    "en": "47. (1) Subject to this section, every classified person shall\nregard and deal with classified material as confidential; and,\nif he is an official, he shall make. and subscribe before the\nprescribed authority a declaration in the prescribed form\nthat he will do so:\n\nProvided that a person who has made and subscribed a\ncorresponding declaration or oath under the income tax\nlaw shall be deemed to have made and subscribed the\ndeclaration required by this subsection.\n\n(2) No classified material shall be produced or used in\ncourt or otherwise except—\n\n(a) for the purposes of this Act or another tax law;\n\n(b) in order to institute or assist in the course of a\nprosecution for any offence committed in relation\nto the tax or in relation to any tax or duty imposed\nby another tax law; or\n\n(c) with the wirtten authority of the Minister or of the\nperson to whose affairs it relates.\n\n(3) No official shall be required by any court—\n\n(a) to produce or disclose classified material which has\nbeen supplied to him or another official otherwise\nthan by or on behalf of the person to whose affairs\nit relates; or\n\n(b) to identify the person who supplied that material.\n\n(4) Nothing in this section shall prevent—\n\n(a) the production or disclosure of classified material\nto the Auditor-General (or to public officers under\nhis direction and control) or the use of classified\nmaterial by the Auditor-General, to such an extent\nas is necessary or expedient for the proper exercise\nof the functions of his office;\n\n(b) the Director General from publicising, from time\nto time in any manner as he may deem fit, the\nfollowing particulars in respect of a person who has\nbeen found guilty or convicted of any offence under\n\n[Pt. V, S. 47]\nREAL PROPERTY GAINS TAX           37\n\nthis Act or dealt with under subsection (2) of section\n30 or section 40—\n\n(i) the name, address and occupation or other\ndescription of the person;\n\n(ii) such particulars of the offence or evasion as\nthe Director General may think fit;\n\n(iii) the year or years of assessment to which the\noffence or evasion relates;\n\n(iv) the disposal of any chargeable aset or the\namount of the chargeable gain not disclosed;\n\n(v) the aggregate of the amount of the tax evaded\nand penalty (if any) charged or imposed;\n\n(vi) the sentence imposed or other order made:\n\nProvided that the Director General may refrain from\npublicising any particulars of any person to whom this\nparagraph applies if the Director General is satisfied that,\nbefore any investigation or inquiry has been commenced in\nrespect of any offence or evasion falling under section 30 or\n31, that person has voluntarily disclosed to the Director\nGeneral or to any authorised officer complete information\nand full particulars relating to such offence or evasion.\n\n(5) In this section—\n\n\"another tax law\" means the Income Tax Act, 1967\nand any written law repealed by that Act, the Petroleum\n(Income Tax) Act, 1967, the Land Speculation Tax\nAct, 1974 and any written law relating to stamp duty,\nestate duty and film hire duty and any written law\ndeclared by the Minister by statutory order to be\nanother tax law for the purposes of this section;\n\n\"classified material\" means any return or other\ndocument made for the purposes of this Act and relating\nto the gains of any person and any information or other\nmatter or thing which comes to the notice of a classified\nperson in his capacity as such;\n\n\"classified person\" means—\n(a) an official;\n\n[Pt. V, S. 47-48)\n\n3/241\n\n(KA SS\n\npen 6s1 D\n\nP.U. (A)\n38/70.\n\nEvidential\nprovisions.\n\nAct 56.\n\n38                               Acr 169\n\n(b) the Auditor-General and public officers under\nhis direction and control; -or-\n\n(c) any person advising or acting for a person who\nis or may be chargeable to the tax and any\nemployee of a person so acting or advising if he\nis an employee who in his capacity as such has\naccess to classified material; &4-\n\nkn means a person having an official duty\nunder or employed in carrying out the provisions of\nthis Act;\n\n\"prescribed authority\" means the persons specified\nin the Second Schedule to the Income Tax (Official\nDeclaration) Rules, 1970."
+   }
+  },
+  {
+   "id": "MY-H180-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "Section 48"
+   },
+   "chapter": {
+    "en": "PART V"
+   },
+   "heading": {},
+   "text": {
+    "en": "48. (1) In a suit under section 23 a certificate signed by the\nDirector General giving the name and address of the\ndefendant and the amount of the tax due from him shall be\nsufficient evidence of the amount so due and sufficient\nauthority for the court to give judgment for that amount.\n\n(2) A transcript of any particulars contained in a return\nor other document relating to the tax, if it is certified by\nor on behalf of the Director General or an authorised officer\nto be a true copy of the particulars, shall be admissible in\nevidence as proof of those particulars.\n\n(3) No statement made or document produced by or on\nbehalf of any person shall be inadmissible in evidence\nagainst that person in any proceedings against him for an\noffence under section 29, 30 or 31 or for the recovery of any\nsum due by way of tax or penalty, by reason only of the\nfact that he was or may have been induced to make the\nstatement or produce the document by any lawful induce-\nment or promise proceeding from the Director General or\nan authorised officer.\n\n(4) (a) Save as provided in paragraph (b) nothing in this\nAct shall—\n\n(i) affect the operation of Chapter IX of Part III\nof the Evidence Act, 1950; or\n\n[Pt. V, S. 48-50]\n\nREAL PROPERTY GAINS TAX           39\n\n(ii) be construed as requiring or permitting any\nperson to produce or give to a court, the\nSpecial Commissioners, the Director General\nor any other person any document, thing or\ninformation which by that Chapter or those\nprovisions he would not be required or\npermitted to produce or give to a court.\n\n(b) Notwithstanding the provisions of any other\nwritten law, where any document, thing, matter,\ninformation, communication or advice consists\nwholly or partly of, or relates wholly or partly to,\nthe receipts, payments, income, expenditure, or\nfinancial transactions or dealings of any person\n(whether an advocate and solicitor, his client, or\nany other person), it shall not be privileged from\ndisclosure to a court, the Special Commissioners,\nthe Director General or any authorised officer if\nit is contained in, or comprises the whole or part\nof, any book, account, statement, or other record\nprepared or kept by any practitioner or firm of\npractitioners in connection with any client or\nclients of the practitioner or firm of practitioners\nor any other person.\n\n(c) Paragraph (b) shall also apply with respect to any\ndocument, thing, matter, information, communi-\ncation or advice made or brought into existence\nbefore the commencement of that paragraph."
+   }
+  },
+  {
+   "id": "MY-H180-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "Section 49"
+   },
+   "chapter": {
+    "en": "PART V"
+   },
+   "heading": {},
+   "text": {
+    "en": "49. A return, statement or other similar document\npurporting to be made for the purposes of this Act by or\non behalf of any person shall be presumed to have been\nmade by that person or on his authority, as the case may be,\nuntil the contrary is proved; and any person signing such a\nreturn, statement or document shall be deemed to be\ncognizant of its contents."
+   }
+  },
+  {
+   "id": "MY-H180-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "Section 50"
+   },
+   "chapter": {
+    "en": "PART V"
+   },
+   "heading": {},
+   "text": {
+    "en": "50. Unless otherwise provided in Schedule 1, returns under\nthis Act on behalf of a person shall be made by the person\nresponsible under the income tax law for making a return\nof the income of that person, or, if that person is not\nresident in Malaysia, by the trustee, guardian, committee,\nattorney, factor, agent, receiver, branch or manager of that\nperson in Malaysia.\n\nReturns,\netc.,\npresumed\nto be made\nwith due\nauthority.\n\nPersons\nby whom\nreturns to\nbe made.\n\n[Pt. V, S. 51-52]\n\nPower to\nappoint\nagent.\n\nErrors and\ndefects in\nassess-\nments, etc.\n\n40                                  Act 169"
+   }
+  },
+  {
+   "id": "MY-H180-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "Section 51"
+   },
+   "chapter": {
+    "en": "PART V"
+   },
+   "heading": {},
+   "text": {
+    "en": "51. (1) The Director General may by notice in writing, if he\nthinks it necessary, declare any person to be the agent of\nany other person, and the person so declared the agent shall\nbe the agent of that other person for the purposes of this\nAct and may be required to pay any tax due from any\nmoney (including pensions, salary, wages or any other\nremuneration) which may be held by him for, or due by him\nto, the person whose agent he has been declared to be; and\nin default of payment the tax shall be recoverable from him\nin the manner provided in section 23.\n\n(2) For the purposes of this section the Director General\nmay require any person to give him information as to any\nmoneys, funds or other assets which may be held by him\nfor, or of any moneys due by him to, any other person.\n\n(3) Where a person declared under subsection (1) to be\nthe agent of another person is aggrieved by the declaration,\nhe may appeal under section 18 as if the declaration were\nan assessment."
+   }
+  },
+  {
+   "id": "MY-H180-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "Section 52"
+   },
+   "chapter": {
+    "en": "PART V"
+   },
+   "heading": {},
+   "text": {
+    "en": "52. (1) No assessment, requisition, notice or other docu-\nment purporting to be made or issued for the purposes of\nthis Act shall be quashed or deemed to be void or voidable\nfor want of form, or be affected by any mistake, defect or\nomission therein, if—\n\n(a) it is in substance and effect in conformity with or\naccording to the intent and meaning of this Act; and\n\n(b) the person to whom it is addressed and any other\nperson referred to therein are designated according\nto common intent and understanding.\n\n(2) A requisition or notice of assessment shall not be\nimpeached or affected by reason of a mistake therein as to—\n\n(a) the name of the person liable; or\n\n(b) Ma description of any chargeable gain or allowable\nOSS,\n\nso long as the requisition or notice of assessment is duly\nserved on the person on whom it was intended to be served\nand contains in substance and effect the particulars on\nwhich the requisition or assessment is founded.\n\n(Pt. V, S. 53]\n\nREAL PROPERTY GAINS TAX            41"
+   }
+  },
+  {
+   "id": "MY-H180-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "Section 53"
+   },
+   "chapter": {
+    "en": "PART V"
+   },
+   "heading": {},
+   "text": {
+    "en": "53. (1) Subject to any express provision of this Act, notices\nor requisitions may be served for the purposes of this Act\neither personally or by ordinary or registered post.\n\n(2) A notice or requisition relating to the tax which is sent\nby ordinary or registered post shall be deemed to have been\nserved on the person to whom it is addressed on the day\nsucceeding the day on which the notice or requisition would\nhave been received in the ordinary course of post if it is\naddressed—\n\n(a) in the case of a company, partnership or body of\npersons having a tegistered office in Malaysia, to\nthat registered office;\n\n(b) in the case of a company, partnership or body of\npersons not having a registered office in Malaysia—\n\n(i) to any registered office of the company,\npartnership or body of persons (wherever\nthat office may be situated);\n\n(ii) to the principal place of business or other\nactivity of the company, partnership or body\n(wherever that place may be situated); or\n\n(iii) to any individual authorised (by or under the\nlaw of any place where the company, partner-\nship or body is incorporated, registered or\nestablished) to accept service of process; and\n\n(c)in the case of an individual, to his last known\naddress.\n\n(3) Where a person to whom there has been addressed a\nregistered letter containing a notice or requisition under this\nAct—\n\n(a) is informed that there is a registered letter awaiting\nhim at a post office; and\n\n(b) refuses or neglects to take delivery of the letter,\n\nthe notice or requisition shall be deemed to have been\nserved upon him on the date on which he was informed that\nthe letter was awaiting him.\n\nService of\nnotices and\nrequisi-\ntions.\n\nAm SA)\n\nAr\n\n(Pt. V, S. 53-56}\n\nPower to\ndirect\nwhere\nreturns,\netc., are to\nbe sent.\n\n$$?\n\nAuthentica-\n\ntion of\nnotices\nand other\n\ndocuments.\n\nFree\npostage.\n\n42                                      Act 169\n\n(4) For the purposes of subsection (3), an affidavit by the\nofficer in charge of a post office stating that to the best of\nhis knowledge and belief there has been delivered to the\naddress appearing on the registered letter a post office\nnotification informing the addressee that there is a registered\nletter awaiting him shall, until the contrary is proved, be\nevidence that the addressee has been so informed.\n\n54, The Director General may by statutory order direct\nthat any information, return, notification or document\nrequired to be supplied, sent or delivered to the Director\nGeneral for the purposes of this Act shall, subject to any\nconditions contained in the order, be supplied, sent or\ndelivered to such public officer/ or to such address as may\nbe specified in the order."
+   }
+  },
+  {
+   "id": "MY-H180-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "Section 55"
+   },
+   "chapter": {
+    "en": "PART V"
+   },
+   "heading": {},
+   "text": {
+    "en": "55. (1) Subject to subsection (2), every notice, requisition or\nother document issued, served or given for the purposes of\nthis Act by the Director General or an authorised officer\nshall be sufficiently authenticated if the name and office of\nthe Director General, the Director of Inland Revenue,\nSabah or the Director of Inland Revenue, Sarawak, is\nprinted, stamped or otherwise written thereon.\n\n(2) Where this Act provides for a notice, requisition,\ncertificate or other document to be under the hand of any\nofficer, the notice, requisition, certificate or document shall\nbe signed in manuscript by that officer.\n\n(3) A notice, requisition, certificate or other document\nissued, made, served or given for the purposes of this Act\nand purporting to be signed in manuscript by the Director\nGeneral or an authorised officer shall be presumed, until\nthe contrary is proved, to have been so signed."
+   }
+  },
+  {
+   "id": "MY-H180-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "Section 56"
+   },
+   "chapter": {
+    "en": "PART V"
+   },
+   "heading": {},
+   "text": {
+    "en": "56. All returns made under this Act and all remittances of\nthe tax (and any correspondence resulting from or connected\nwith any such return or remittance) may, if posted in\nMalaysia in envelopes marked \"Real Property Gains Tax\",\nbe sent free of postage to the Director General, to the\n\nREAL PROPERTY GAINS TAX           43\n\nDirector of Inland Revenue, Sabah, to the Director of\nInland Revenue, Sarawak, or to an officer or address\nspecified in an order made under section 54:\n\nProvided that the Director General may in certain cases\nby notice in writing require any person to send any return,\nremittance or correspondence by registered post."
+   }
+  },
+  {
+   "id": "MY-H180-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "Section 57"
+   },
+   "chapter": {
+    "en": "PART V"
+   },
+   "heading": {},
+   "text": {
+    "en": "57. (1) The Director General may prescribe forms to be\nused for the purposes of this Act and may authorise the use\nof a suitable substitute for any form so prescribed.\n\n(2) Where in order to comply with any provision of this\nAct a person is required to use a prescribed form, he shall\nnot be regarded as complying with that provision unless he\nuses all reasonable diligence to procure and use—\n\n(a) a printed copy of the form so prescribed under\nsubsection (1); or\n\n(b) a copy of any substitute for the form authorised\nunder subsection (1), being a printed copy unless\nthe authorisation provides otherwise."
+   }
+  },
+  {
+   "id": "MY-H180-A58",
+   "no": 58,
+   "noLabel": {
+    "en": "Section 58"
+   },
+   "chapter": {
+    "en": "PART V"
+   },
+   "heading": {},
+   "text": {
+    "en": "58. (1) The Minister may make rules for facilitating the\noperation of this Act.\n\n(2) Without prejudice to the generality of subsection (1),\nthe Minister may make rules—\n\n(a) providing for returns to be made in cases other than\nthose referred to in section 13 and specifying the\npersons by whom the returns are to be made and\nthe information to be contained therein;\n\n(b) prescribing, except where section 57 (1) applies, any\nother thing required by this Act to be prescribed.\n\n(3) Any rules made under subsection (1) shall be laid\nbefore the Dewan Rakyat."
+   }
+  },
+  {
+   "id": "MY-H180-A59",
+   "no": 59,
+   "noLabel": {
+    "en": "Section 59"
+   },
+   "chapter": {
+    "en": "PART V"
+   },
+   "heading": {},
+   "text": {
+    "en": "59. (1) The Land Speculation Tax Act, 1974 is hereby\nrepealed with effect from 7th November, 1975, but without\nprejudice to the right of the Director General to take any\naction which he was empowered to take under that Act so\nrepealed to assess and enforce payment of land speculation\ntax for the years of assessment 1974 and 1975 which at the\ndate of the said repeal remains to be assessed or collected\nfor those years.\n\nForms.\n\nPower to\nmake rules.\n\nRepeal of\nAct 126.\n\n(Pt. V, S. 59, Sch. 1, Para. 1-4)\n44                   Acr 169\n\n(2) For the purpose of that Act so repealed, the year of\nassessment 1975 shall be the period commencing on Ist\nJanuary, 1975 and ending on 6th November, 1975.\n\n(3) The Minister, at any time, may by statutory order\nmake such transitional or saving provisions as he considers\nnecessary or expedient.\n\nSCHEDULE 1\n(Section 6)\nCHARGEABLE PERSONS\nBody of      1. (1) A partnership or a body of persons and not the persons consti-\n\ntt,    tuting it shall, subject to paragraph 9, be assessable and chargeable with\nang co pepek, the tax in respect of any chargeable gains accruing on the disposal of\n\")\n\nany chargeable asset of the partnership or the body of persons.\n\n(2) Any person who at the time of disposal of a chargeable asset of\na partnership or a body of persons is the precedent partner or the\nmanager, the secretary or the treasurer, as the case may be, shall be\nassessable and chargeable with the tax payable by the partnership or\nthe body of persons under this Act.\n\n3)\n\nIncapacitated 2, A receiver appointed by the court and a trustee, guardian, curator\n—    or committee having the direction, control or management of any\n\nproperty on behalf of an incapacitated person shall be assessable and\nchargeable with the tax to the same extent as the incapacitated person\nwould be assessable and chargeable if he were not incapacitated.\n\nNon-      3. A person who is absent from Malaysia shall be assessable and\nresidents.      chargeable with the tax either directly or in the name of his attorney,\nfactor, agent, receiver or manager in Malaysia.\n\nRulers and    4. (1) Subject to this paragraph any person nominated by a Ruler or\n\nChiets,       Ruling Chief for the purposes of this Act as the person executing the\nfunctions of administrator of the private property of the Ruler or\nRuling Chief shall be assessable and chargeable with the tax on behalf\nof the Ruler or Ruling Chief.\n\n(2) The administrator may pay the tax out of any private property\nin his hands or under his control belonging to the Ruler or Ruling\nChief and may, to the extent that he pays any such tax out of his own\nproperty, recover it from any such private property.\n\n(3) The administrator shall not be personally liable in respect of\nthe tax except to the extent that he—\n\n(a) has in his possession, custody or control any private property\nbelonging to the Ruler or Ruling Chief; or\n\n(b) had any such private property in his possession, custody or\ncontrol at any time after receiving notice of the tax having\nbecome due.\n\n[Sch. 1, Para. 4-10]\n\nREAL PROPERTY GAINS TAX             45\n\n(4) Unless the sanction of the Attorney-General is first obtained, no\nprosecution, suit or other legal proceedings shall be instituted against\nthe administrator on the ground of any offence or default by him in\nrespect of any act, matter or thing for which he was responsible under\nthis paragraph.\n\n(5) In this paragraph \"Ruler or Ruling Chief\" means—\n(a) the Yang di-Pertuan Agong;\n(b) the Raja Permaisuri Agong;\n\n(c) the Timbalan Yang di-Pertuan Agong or other Ruler exercising\nthe functions of the Yang di-Pertuan Agong;\n\n(d) a State Authority or any person exercising the functions of a\nState Authority;\n\n(e) the Undang of Sungai Ujong, the Undang of Jelebu, the Undang\nof Johol, the Undang of Rembau or the Tunku Besar of Tampin.\n\n5. (1) The manager or other principal officer in Malaysia, the directors\nor the secretary, of a company shall be jointly and severally assessable\nand chargeable with the tax payable by the company under this Act.\n\n(2) The liquidator of a company which is being wound up shall be\nresponsible for the payment of any tax which he knows or might\nreasonably be expected to be payable by the company under this Act;\nand shall not distribute any of the assets of the company to its share-\nholders unless he has made provision for the payment of such tax.\n\n(3) Any liquidator who fails to comply with this paragraph shall be\nliable to pay a penalty equal to the amount of the tax to which the\nfailure relates.\n\n6. The manager or karta of a Hindu joint family shall be assessable\nand chargeable with the tax in respect of any chargeable gains accruing\nto the family.\n\n7. The executor of the estate of a deceased person shall be assessable\nand chargeable with the tax in respect of any chargeable gains accruing\non the disposal by the executor of any chargeable asset of the estate.\n\n8. A trustee (other than the trustee of an incapacitated person) shall\nbe assessable and chargeable with the tax in respect of any chargeable\ngains accruing on the disposal of any chargeable asset of the trust.\n\n9, Where two or more persons act in the capacity of trustees of a\ntrust or executors of the estate of a deceased person, they shall be\njointly and severally liable for the payment of the tax payable on any\nchargeable gains accruing to the trust or estate, as the case may be.\n\n10. Where this Act specifies a person to be chargeable or assessable\nand chargeable with the tax under this Act, the person so specified\nshall, subject to this Act, be responsible for paying the tax payable by\nthe chargeable person or body of persons in question and for all\nmatters required to be done by virtue of this Act for or in connection\nwith making the return or assessing the tax so payable.\n\nCompanies.\n\nHindu joint\nfamily.\n\nExecutor.\n\nTrustecs.\n\nJoint and\nseveral\nliability of\ntrustees and\nexecutors.\n\nResponsibility\nof specified\npersons,\n\n[Arrangement of Paragraphs}\n\n46                  Act 169\nSCHEDULB 2\n(Section 7)\nCHARGEABLE GAINS AND ALLOWABLE LOSSES\nARRANGEMENT OF PARAGRAPHS\nParagraph\n1. Interpretation.\n2. Acquisition and disposal generally.\n3. Transactions in which disposal price is deemed equal to acquisi-\ntion price.\n4, Acquisition price.\n5. Disposal price.\n6. Incidental costs.\n7. Excluded expenditure.\n8. Effect of acquisition of capital sum in certain cases,\n9. Certain transactions deemed to be at market value,\n10. Subsequent disposal of asset deemed to be acquired at market\nvalue.\n11. Definition of market value.\n12. Gifts.\n13. Exchanges.\n14. Time of accrual of chargeable gains.\n15. Date of disposal and acquisition generally,\n16. Conditional contracts.\n17. Transfer of assets between companies in same group.\n18. Acquirer's default in payment.\n19. Acquisition price in particular cases,\n20. Incumbrances.\n21. Part disposals.\n22. Distribution of assets of partnership, etc.\n23. Connected persons.\n24. Certain acquisitions before coming into force of Act.\n\nLeases.\n\n[Arrangement of Paragraphs}\n\nREAL PROPERTY GAINS TAX            47\n\nParagraph\n\nContingent liabilities.\n\nOptions,\n\nDealings by nominees and certain trustees.\nDealings for enforcement of security.\nExclusion of reimbursed expenditure.\n\nProhibition of deduction for tax relief for allowable losses from\ntax assessed for earlier years.\n\nDeductions allowable only once.\n\nCertain losses not to be allowable.\nTransfer of assets to controlled companies.\nTrustees and partners.\n\nConclusiveness of inocme tax decisions.\n\n[Sch. 2, Para. 1-3]\n\n48                                       Act 169\n\nCHARGEABLE GAINS AND ALLOWABLE LOSSES\n\nInterpretation. |, (1) In this Schedule, unless the context otherwise requires—\n\"asset\" means a chargeable asset;\n\n\"child\" means a legitimate child, a step-child or a child adopted by\nan individual or the husband or wife of the individual in accordance with\nany law;\n\n\"connected person'  ' has the meaning assigned by paragraph 23;\n4 323          —) \"Islamic bat\"\n\"lease\" means a _— over land, and includes a sub-lease, tenancy or\nlicence, an agreement for a lease, sub-lease, tenancy or licence;\n\n\"legatee\" includes any person entitled under a testamentary disposition\nor on an intestacy or partial intestacy;\n\n\"permitted expenses\" means the expenditure specified in paragraph 5\n(1) (@) and (6);\n\n\"relative\" means child, brother, sister, unele—aunt,nephew,—niece,\nAlAck SST      cousin; ancestor or lineal descendant.\n\n(2) For the purposes of this Schedule, a principal company and all its\nsubsidiaries form a group and, where a principal company is a member\nof another group as being itself a subsidiary, both groups shall be treated\nas one group for those purposes,\n\n(3) References to a disposal of an asset include, except where the\ncontext otherwise requires, references to a part disposal of an asset.\n# 3093        — cH =\n\n323      am: (5\nAcquisition     . Subject to this Schedule, every method, scheme or arrangement by'\n\nLoti a   which the ownership of an asset is transferred from one person to\nanother fincluding—compulsory acquisition under any law) shall con-\nYank          stitute an acquisition of the asset by the transferee and a disposal of\n\nthe asset by the transferor.\n\nTransactions 3, In the following cases the disposal price shall be deemed to be\n\nhn SA   equal to the acquisition price, that is to say—\nis deemed\nCat et         (a) the devolution of the assets of a deceased person on his\nprice.               executor or legatee under a will or intestacy or on the trustees\noff trust trust pega under   his will;\n(b)fthe trang     MN a pa by an individual, by his wife or\n\nby an individual jointly with his wife or with a connected\nperson to a company (whether or not resident in Malaysia)\ncontrolled by the individual, by his wife or by the individual\njointly with his wife or with a connected persong\n\n(c) acquisitions from or disposals to a nominee or trustee resident\nin Malaysia by an individual or his wife or by both being\nabsolutely entitled as against the nominee or trustee;\n\n[Sch. 2, Para. 3-4]\nREAL PROPERTY GAINS TAX            49\n\n(d) the conveyance or transfer of an asset by way of security, or\nthe transfer of a subsisting interest or right by way of security\nin or over an asset (including re-transfer on the redemption of\nthe security);\n(e) gifts made to the Government, a State Government, a local\nauthority or a charity exempt from income tax under the\nC   income tax law.                                                 hac\n\n4. (1) Subject to sub-paragraphs (2), (3) and (4) and the other provi- Acquisition\nsions of this Schedule, the acquisition price of an asset is the amount °°\"\n\nor value of the consideration in money or money's worth given by or\n\non behalf of the owner wholly and exclusively for the acquisition of\n\npie asset (together with the incidental costs to him of the acquisition)\n\ness—\n\n(a) any sum received by him by way of compensation for any\nkind of damage or injury to the asset or for the destruction or\ndissipation of the asset or for any depreciation or risk of\ndepreciation of the asset;\n\n(b) any sum received by him under a policy of insurance for any\nkind of damage or injury to or the loss, destruction or\ndepreciation of the asset; and\n\n(c) any sum forfeited to him as a deposit made in connection\nwith an intended transfer of the asset.\n\n(2) Subject to sub-paragraph (3), where any sum of the kind men-\ntioned in sub-paragraph (1) (@), (b) or (c) which is received by the\nowner of an asset exceeds the consideration and incidental costs\nreferred to in that sub-paragraph, the amount of the excess shall\nconstitute a chargeable gain accruing to the owner at the time when\nhe receives the sum.\n\na\n\n(3) Where an asset, which is ‘disposed of, was acquired by the\ndisposer prior to Ist January, 1970, the market value of the asset as OubS Act 323\nat lst January, 1970 shall be substituted for—\n\n(a) the consideration and incidental costs of the kind mentioned\nin sub-paragraph (1); or\n\n(b) the value of the asset for ¢state duty purposes referred to in\nparagraph 19 (1) and (3); or\n\n(c) the amount of the legacy of the value of the asset for estate\nduty purposes, whichever js the lower mentioned in para-\ngraph 19 (2),\n\nas the case may be, and the sum} of the kind referred to in sub-\nparagraph (1) (a), (b) or (c) which relates to the period prior to\nIst January, 1970 shall be disregarded.\n\n(4) Where—\n\n(a) on the transfer of an asset the acquisition price paid for the\nasset by the transferor plus the permitted expenses incurred by\nhim or, if the asset was acquired by that transferor prior to\nIst January, 1970, the market value of that asset as at\nIst January, 1970 plus the permitted expenses incurred by that\ntransferor as from Ist January, 1970 less the sum of the kind\nreferred to in paragraph 4 (1) (a), (b) or (c) received by or\n\n(Sch. 2, Para. 4-61\n\n50                                    Acr 169\n\nforfeited as the case may be to that transferor as from Ist\nJanuary, 1970 are to be taken for the purposes of this Schedule\nas the acquisition price paid by the transferee; and\n\n(b) subsequently to the transfer, the transferee receives any sum\nof the kind mentioned in sub-paragraph (1) (a), (5) or (c),\n\nthat sum shall be deducted from the acquisition price taken to have\nbeen paid by the transferee to the same extent as it would have been\ndeducted from that transferor's acquisition price if it had been received\nby that transferor before the transfer:\n\nProvided that where that sum exceeds the acquisition price taken to\nhave been paid by the transferee, the amount of the excess shall\nconstitute a chargeable gain accruing to the transferee at the time\nwhen he receives that sum.\n\n(5) Where by virtue of sub-paragraph (2) or the proviso to sub-\nparagraph (4) any sum constitutes a chargeable gain accruing to a\nperson in respect of an asset, his acquisition price for that asset shall,\nin relation to any subsequent disposal of that asset by him, be taken\nas nil.\n\nDisposal     5. (1) Subject to sub-paragraph (2), the disposal price of an asset is\n—       the amount or value of the consideration in money or money's worth\nfor the disposal of the asset less—\n\n(a) the amount of any expenditure wholly and exclusively incurred\non the asset at any time after its acquisition by or on behalf\nof the disposer for the purpose of enhancing or preserving the\nvalue of the asset, being expenditure reflected in the state or\nnature of the asset at the time of the disposal;\n\n(b) the amount of any expenditure wholly and exclusively incurred\nat any time after his acquisition of the asset by the disposer\nin establishing, preserving or defending his title to, or to a\nright over, the asset; and\n\n(c) the incidental costs to the disposer of making the disposal.\n\n(2) Where an asset which is disposed of was acquired by the disposer\nprior to 1st January, 1970, the amount of the expenditure of the kind\nmentioned in sub-paragraph (1) (a) and (b) which relates to the period\nprior to 1st January, 1970 shall be disregarded.\n\nIncidental     6. (1) For the purposes of paragraphs 4 and 5 the incidental costs of\n\nas          the acquisition or disposal of an asset shall consist of expenditure wholly\nand exclusively incurred by the disposer for the purposes of the\nacquisition or (as the case may be) the disposal, being—\n\n(a) fees, commission or remuneration paid for the professional\nservices of any surveyor, valuer, accoyntant, agent or legal\nadviser;\n\n(b) costs of transfer (including stamp duty);\n\n(c) in the case of an acquisition, the cost of advertising to find a\nseller and, subject to sub-paragraph (2), any interest paid on\ncapital employed to acquire the asset; and\n\n(d) in the case of a disposal, the cost of advertising to find a buyer\nand costs reasonably incurred for the purposes of this Act in\nmaking any valuation or in ascertaining market value.\n\n[Sch. 2, Para.\n\nREAL PROPERTY GAINS TAX           51\n\n(2) Where the interest paid on capital employed to acquire an asset\nis expenditure of the kind mentioned in paragrah 7 (a), (b) or (c), it\nshall be disregarded for the purposes of sub-paragraph (1) (c).\n\n7. There shall not to be taken into account in computing the acquisi-\ntion price or disposal price of an asset—\n\n(a) any outgoings and expenses allowable as a deduction in com-\nputing any adjusted income or adjusted loss for income tax\n\npurposes;\n\n(b) any outgoings and expenses which would have been allowable\nfor income tax purposes, but for an exemption or insufficiency\nof gross income; and\n\n(c) without prejudice to the preceding provisions of this sub-\nparagraph, any outgoings and expenses which, if the asset on or\nin respect of which they were incurred was and had at all times\nbeen held or used as part of the fixed capital of a business the\nprofits or gains of which were chargeable with income tax,\nwould be allowable as a deduction in computing the adjusted\nincome or adjusted loss of the business for income tax purposes.\n\n8. (1) There shall be deemed to be a disposal of assets by their owner\nwhere any capital sum not being a sum of the kind mentioned in\nparagraph 4 (1) (a), (0) or (c) is derived in respect of assets notwith-\nstanding that no asset is acquired by the person paying the capital sum, cases\nand this paragraph applies in particular to—\n\n(a) capital sums received in return for forfeiture or surrender of\nrights, or for refraining from exercising rights; and\n\n(D) capital sums received as consideration for use or exploitation\nof assets,\n\n(2) In the case of a disposal within the meaning of sub-paragraph (1)\nthe time of the disposal shall be the time when the capital sum is\nreceived and the sum received shall constitute a chargeable gain\naccruing at that time.\n\n6-9]\n\nExcluded\nexpenditure,\n\nEffect of\nacquisition\nof capital\nsum\ncertain\n\n9. The acquisition or disposal of an asset by a person shall be deemed Certain\n\nto be for a consideration equal to the market value of the asset—\n\n(a) where he acquires or disposes of the asset otherwise than by way\nof a bargain made at arm's length and, in particular, where he\nacquires or disposes of it by way of gift; or\n\n_ (b) where he acquires or disposes of the asset wholly or partly—\n(i) for a consideration that cannot be valued; or\n\n(ii) in connection with his own or another's loss of office or\nemployment or diminution of emoluments; or\n\n(iii) in consideration for or recognition of his or another's\nservices or past services in any office or employment or\nof any other service rendered or to be rendered by him\nor another; or\n\ntransactions\ndeemed to be\nat market\nvalue.\n\n(Sch.\n\nAc} 264\nSubsequent\ndisposal of\nasset deemed\nto be acquired\nat market\nvalue.\n\nDefinition\nof market\nvalue.\n\ngubs, Act 337\nGifts.\n\nYaya\n\nYA, Along! Ne:\n4A 42¢/%)\n\nAnal\nExchanges.\n\n2, Para. 9-13}\n\n52                                     Act 169\n\n(c) where he acquires an asset as trustee for the creditors of any\npetson in full or part satisfaction of any debt due from that\nperson or where he transfers an asset as trustee for the creditors\nof any person to the creditors in full or part satisfaction of any\ndebt due to the creditors; or\n\n(d) where he acquires or disposes of an asset in a transaction for\n\nthe transfer of a business for a lump sum consideration; ) or\n@ whee seclion 26C>5 applivs\n\n10. Where a person—\n\n(a) is deemed for the purposes of this Act to acquire an asset at\nits market value; and\n\n(b) subsequently disposes of the asset, the market value at which\nhe is deemed to have acquired the asset shall be adopted as the\nacquisition price for the purpose of computing any gain accruing\nto or loss suffered by him on the disposal.\n\n11. (1) Subject to this paragraph, the market value of an asset, which\nis acquired or disposed of is the price which it would fetch if it were\nsold in a transaction between independent persons dealing at arm's\nlength at the time of the acquisition or disposal.\n(2) If—\n(a) the parties to the disposal of an asset are unable to agree on\nits market value; or\n(b) there is only one party to the disposal of an asset; or\n\n(c) the Director General is of the opinion that the market value of\nan asset as agreed on by the parties to its disposal is incorrect,\n\nthe market value in question shall be determined by the Director\nGeneral.\n\n12.) Where an asset is disposed of b¥{means of a gift, the disposal shall\nbe deemed to be a disposal at the market value of the asset:\n\nProvided that, where the donor and recipient are-of-full-age-and are\nhusband and wife, parent and child or grandparent and grandchild, they\nithi                      ed     £ the-gift jointly elect to have the\ndisposal treated as a disposal on which the donor receives no gain and\nthereupon be deemed to have\nacquired the asset at an acquisition price equal to the acquisition price\npaid by the donor plus the permitted expenses incurred by the donor\nor, if the asset was acquired by the donor prior to 1st January, 1970,\nthe market value of the asset as at 1st| January, 1970 plus the permitted\nexpenses incurred by the donor as from Ist January, 1970 less the sum\nof the kind referred to in paragraph 4 (1) (a), (b) or (c) received by or\nforiched as the case may be to the donert as from Ist January, 1970.\nA @)..--\n\n13. Where an asset is disposed of by being exchanged for another\nasset (whether chargeable or not) the market value of the asset received\nby the disposer shall be taken as the consideration for the disposal:\n\nProvided that, if the asset received by the disposer has no market\nvalue, the Director General may take the market value of the asset\ndisposed of as the consideration for the disposal.\n\n(Sch. 2, Para. 14-17)\n\nREAL PROPERTY GAINS TAX           53\n14. Subject to this Schedule, where an asset is disposed of, the\nchargeable gain or allowable loss is deemed to accrue to or suffered by\nthe disposer at the time of the disposal whether the consideration is\npayable by instalments or not.\n\n15. (1) Except where this Schedule provides otherwise, a disposal of\nan asset shall be deemed to take place—\n\n(a) where there is/an- agreement for the disposal of the asset, on\n.. the date of such agreement; or\n\n(b) where there is no/agreement, on the date of completion of the\ndisposal of the asset.\n\n(2) Except where this Schedule provides otherwise, where there is\na disposal of an asset, the date of acquisition of the asset by the\nacquirer shall be deemed to coincide with the date of disposal of that\nasset by the disposer to that acquirer.\n\n(3) For the purposes of this Schedule—\n\n(a) the date of completion of a disposal means—\n(i) the date on which the ownership of the asset disposed\nof is transferred by the disposer; or\n(ii) the date on which the whole of the amount or value of the\nconsideration (in money or money's worth) for the transfer\nhas been received by the disposer,\n\nwhichever is the earlier;\n\n(b) a transfer of ownership of an asset is deemed to take place on\nthe date when the last of all such things shall have been done\nunder any written law as are necessary for the transfer of\nownership of the asset.\n\niG6A, \\66---\n16. Where—\n(a) a contract for the disposal of an asset is conditional; and\n\n(b) the condition is satisfied (by the exercise of a right under an\noption or otherwise),\n\nthe acquisition and disposal of the asset shall be regarded as taking\nplace at the time the contract was made, unless the amount of the\nconsideration depends wholly or mainly on the value of the asset at the\ntime when the condition is satisfied in which case the acquisition and\ndisposal shall be regarded as taking place when the condition is\nsatisfied.\n\n—\n\n17. (1) Subject to this paragraph, where with the prior approval of\nthe Director General an asset is transferred between companies in the\nsame group of companies with the purpose of bringing about greater\nefficiency in the operation of the group, the acquisition price of the\ntransferred asset plus the permitted expenses incurred by the transferor\ncompany shall be adopted as the disposal price of the asset.\n\n(2) Where in a-transfer of the kind mentioned in sub-paragraph (1)—\n\n(a) the asset is \"taken into the trading stock of the transferee\ncompany on or after the coming into force of this Act; and\n\nTime of\naccrual of\nchargeable\ngains.\n\nDate of\ndisposal and\nacquisition\ngencrally,   ‘\nZar r+ en\nAck SS?\nx,  mor ve ren\nAct SS?\nAG 82\nConditional\ncontracts.\nTransfer\nof assets\n\nbetween\n\ncompanies\nin same    pbs 44 a3¢/\ngroup.\n\n[Sch. 2, Para. 17-19)\n\nAA).\n\nHk FAR    aly\n\nAcquirer's\ndefault in\npayment.\n\nAcquisition\nprice in\nparticular\ncases.\n\n\\of 393\n\n\\ ck 393\n\n54                                   Act 169\n\n(b) the value at which the asset is so taken in exceeds the acquisition\nprice paid by the transferor company plus the permitted\nexpenses incurred by the transferor company or, if the asset\nwas acquired by that transferor company prior to 1st January,\n1970, the market value of the asset as at 1st January, 1970 plus\nthe permitted expenses incurred by that transferor company as\nfrom Ist January, 1970 less the sum of the kind referred to in\nparagraph 4 (1) (a), (b) or (c) received by or forfeited as the case\nmay be to that transferor company as from 1st January, 1970,\n\nthe taking in shall be deemed to be a disposal of the asset by the\ntransferee company and the excess shall constitute a chargeable gain\naccruing to the transferee company at the date when the asset or part\nthereof was taken into stock.\n\n(3) The Director General may withdraw any approval for a transfer\ngiven under sub-paragraph (1) within three years after giving it if—\n\n(a) it appears to him that the transfer was made wholly or partly\n\nfor some purpose other than the purpose mentioned in that\n\nsub-paragraph; o      /\n;      aovel ncey Ah       wy,\n(b) the Hankins odds ceases to Coe the same group of\ncompanies as the transferor company; or\n(c) the transferee company ceases to be resident in Malaysia.\n\n(4) Where approval of a transfer is withdrawn under sub-paragraph\n3)—\n\n(a) the provisions of sub-paragraph (1) as to the acquisition and\ndisposal prices shall cease to have effect; and\n\n(b) the Director General shall make such assessment on the trans-\nferor or transferee company as he considers proper in the\nCs) circumstances.\n\n18. Where the disposer of an asset satisfies the Director General that\nby reason of the acquirer's default the consideration for the disposal\n(or part thereof) has not been received by the disposer, the chargeable\ngain accruing in respect of the disposal shall be reduced by an amount\nequal to the value of so much of the consideration as has not been\nreceived, and the Director General shall make such adjustment by way\nof repayment of the tax or otherwise as the circumstances require:\n\nProvided that any subsequent receipts of any kind relating to the\ndisposal by the disposer shall be brought into account as part of the\nchargeable gain and may be assessed by the Director General accordingly.\n\n19. (1) Subject to paragraph 4 (3), in the case of a gift of an asset on\ndeath, there shall be deemed to be an acquisition of the asset by the\nrecipient at an acquisition price equal to the—vahie—ofthe—asset-for,\nestake-diity-suspases /ess the sum of the kind referred to in paragraph\n4 (1) (a), (5) or (Cc) received by or forfeited as the case may be to that\nrecipient.\n\n(2) Subject to paragraph 4 (3), where a legatee accepts an asset in\nplace of a money legacy, there shall be deemed to be acquisition of the\nasset by the legatee at an acquisition price equal to the amount of the\nlegacy or/the-value-of _the-asset_for-estate-duty—purposes, whichever is\nthe lower less the sum of the kind referred to in paragraph 4 (1) (a), (b)\nor (c) received by or forfeited as the case may be to that legatee.\n\n[Sch. 2, Para. 19-20]\n\nREAL PROPERTY GAINS TAX           55\n\n(3) Subject to paragraph 4 (3), where an asset of a deceased person\nis disposed of (otherwise than to a legatee) by his executors or by the\ntrustees of a trust created under his will, such executors or trustees\nshall be deemed to have acquired it at an acquisition price equal to\nthe [value-of-the-asset-for-estate-duty_purposes less the sum of the kind\nreferred to in paragraph 4 (1) (a), (b) or (c) received by or forfeited as\nthe fee may be to such executors or trustees,\n\n—\n(4) Where an asset which with the prior approval of the Director\nGeneral under. paragraph 17 has been transferred from one company\nto another in—the-same-group is subsequently disposed of outside—the\ngroup, the disposer shall be deemed to have acquired the asset at an\nacquisition price equal to the acquisition price paid for the asset by the\ntransferor within-the-group plus the permitted expenses incurred by the\ntransferor within-the-group-or, if the asset was acquired by the -trans-\nferor within-the-group prior to 1st January, 1970, the market value\nof the asset as at Ist January, 1970 plus the permitted expenses\nincurred by the transferor within_the-group-. as from Ist January, 1970\nless the sum of the kind referred to in paragraph 4 (1) (a), (b) or (c)\nreceived by or forfeited as the case may be to the transferor within-the\ngroup-as from Ist January, 1970.\n\n(5) Where an asset which has been trfnsferred by an individual, by\nhis wife or by an individual jointly with his wife or a connected person\nto a company controlled by him or hig wife or by him jointly with\nhis wife or a connected person /is subsequently disposed of by the\ncompany, the disposer shall be deemed|to have acquired the asset at\nan acquisition price equal to the acquisition price paid by the transferor\nplus the permitted expenses incurred by| the transferor or, if the asset\nwas acquired by the transferor prior to |1st January, 1970, the market\nvalue of the asset as at 1st January, 1970 plus the permitted expenses\nincurred by the transferor as from 1st January, 1970 less the sum of\nthe kind referred to in paragraph 4 (1) (a), (b) or (c) received by or\nforfeited as the case may be to the transferor as from Ist January, 1970.\n\n(6) Where an asset on being transferred to a company in the circum-\nstances mentioned in sub-paragraph (5) is taken into the trading stock\nof the company at a value which exceeds the acquisition price paid\nby the transferor plus the permitted expenses incurred by him or, if\nthe asset was acquired iby the transferor prior to Ist January, 1970,\nthe market value of the asset as at Ist January, 1970 plus the permitted\nexpenses incurred by the transferor as from 1st January, 1970 less\nthe sum of the kind referred to in paragraph 4 (1) (a), (b) or (c)\nreceived by or forfeited as the case may be to the transferor as from\nIst January, 1970, the taking in shall be deemed to be a disposal of\nthe asset by the company and the excess shall constitute a chargeable\ngain accruing to the company at the time when the asset or part\nre eof is men ae stock.                             Pa\n\n---    -\n\n20. (1) Where an asset is acquired subject to a subsisting charge or\nincumbrance, any payment made by the acquirer on account of the\ncharge or incumbrance shall be deemed to form part of the acquisi-\ntion price.\n\n(2) Where an asset is disposed of subject to a subsisting charge or\nincumbrance, the full amount of the liability assumed by the acquirer\nshall be deemed to form part of the disposal price.\n\nAber WG\n\nAct 32:\n\naja 436/74\n\nOnde' 400709--\n£ ma Kn\n\n(0431/22)\n\nSubs\n()- 964)\n\nAct 337\n\nIncumbrances.\n\nKe? 393\n\n(Sch. 2, Para. 21-23}\n\nPart disposals.\n\nDistribution\nof assets of\npartnership,\netc\n\nConnected\npersons,\n\n56                                    Act 169\n\n21. (1) There is a part disposal of an asset where, on a person making\na disposal, any description of property derived from the asset remains\nundisposed of.\n\n(2) Subject to sub-paragraph (3) and the other provisions of this\nAct, where at any time the owner of an asset disposes of a part of\nthat asset, whenever necessary, the acquisition price of the asset and\nthe amounts of all such additions and deductions as would have fallen\nto be made under paragraphs 4 and 5 (1) (a) and (b) if the asset had\nbeen disposed of at that time shall each be apportioned between\nthat part of the asset and the remainder thereof on whatever basis is\nmost appropriate, and so much of that price and of those amounts\nas are so apportioned to the part of the asset disposed of shall be\ntaken in applying paragraphs 4 and 5 (1) (a) and (5) to the acquisition\nand disposal of that part.\n\n(3) Where an asset consists of a lease and part of the asset becomes\nsubject to a sub-lease for which a premium is paid, a fraction of the\nacquisition price of the asset bearing the same proportion to the whole\nprice as the multiple of the duration of the sub-lease and the area\nsub-leased bears to the multiple of the duration and area of the lease\nshall be taken as the acquisition price paid by the disposer for the\npart sub-leased.\n\n22. Where an investment club, an investment trust, a unit trust or\n(notwithstanding paragraph 23 (1) and (4)) a partnership makes a\ndistribution of any of its assets among all its members who are entitled\nto share in its profits, each member shall be deemed to acquire the\nassets received by him at an acquisition price equal to the acquisition\nprice paid for those assets (plus the permitted expenses incurred) by\nthe investment club, investment trust, unit trust or parnership or, if\nthe asset was acquired by the investment club, investment trust, unit\ntrust or partnership prior to Ist January, 1970, the market value of\nthe asset as at Ist January, 1970 plus the permitted expenses incurred\nby the investment club, investment trust, unit trust or partnership as\nfrom Ist January, 1970 less the sum of the kind referred to in para-\ngraph 4 (1) (a), (b) or (c) received by or forfeited as the case may\nbe to the investment club, investment trust, unit trust or partnership\nas from Ist January, 1970.\n\n23. (1) An asset acquired as the result of a transaction between\nconnected persons is acquired otherwise than by way of a bargain\nmade at arm's length.\n\n(2) A person is connected with an individual if that person is the\nindividual's husband or wife or is a relative (or the husband or wife\nof a relative) of the individual or of the individual's husband or wife.\n\n(3) A person in his capacity of trustee is connected with any\nindividual who in relation to the trust is a settlor and with any person\nwho is connected with such an individual.\n\n(4) A person is connected with any person with whom he is in\npartnership, and with the husband, wife or relative of any individual\nwith whom he is in partnership.\n\nREAL PROPERTY GAINS TAX           57\n\n(5) A company is connected with another company—\n\n(a) if the same person has control of both, or a person has\ncontrol of one and persons connected with him (or he and\npersons connected with him) have control over the other; or\n\n(b) if two or more groups of persons have control of each company\nand the groups either consist of the same persons or could\nbe regarded as consisting of the same persons by treating (in\none or more cases) a member of either group as replaced by\na person with whom he is connected.\n\n(6) A company is connected with another person if that person has\ncontrol of it or if that person and persons connected with him together\nhave control of it.\n\n(7) Any two or more persons acting together to secure or exercise\ncontrol of a company shall be treated in relation to that company as\nconnected with one another and with any person acting on the directions\nof any of them to secure or exercise contro] of the company.\n\n(8) Any reference in sub-paragraphs (2) to (7) to a person being\nconnected with another shall be taken as meaning that they are\nconnected persons.\n\n24. (1) Where in the case of an asset consisting of land—\n\n(a) the land was acquired before the date of coming into force of\nthis Act; and    —\n\n(b) the construction of a building on the land was either—\n(i) begun on or after the date of coming into force of this\nAct; or\n(ii) begun before that date but left unfinished; or\n(iii) begun before that date but finished on or after that date,\n\nthen, without prejudice to any right the owner may have under para-\ngraph 5 (1) (a) or (b) to deduct the cost of construction or any other\npermitted expenses from the disposal price on any subsequent disposal,\nthe asset shall be deemed to have been acquired on the date the\nconstruction was begun in a case where sub-paragraph (1) (b) (i) or (ii)\napplies or on the date the construction was finished in a case where\nsub-paragraph (1) (5) (iii) applies at a price equal to the acquisition\nprice of the land:\n\nProvided that this sub-paragraph shall not apply where the Director\nGeneral is satisfied that the building in question has been constructed\nfor the purpose of working an estate, plantation, farm, mine or forest\nor for the provision of accommodation to employees in an estate,\nplantation, farm, mine or forest and in all such cases the cost of\nconstruction of the building is not substantially reflected in the state\nor nature of the asset at the time of disposal by the owner.\n\n(2) Where, under an agreement made before the date of coming into\nforce of this Act for the disposal of an asset, payment for the asset is\nto be in instalments, the date of disposal and_acquisition shall be the\naa on which the ownership of the asset is transferred to the purchaser,\nunless—\n\n(a) all the instalments were paid|before the date of coming into\nforce of this Act, in which case the disposal shall be treated\n\nCertain\nacquisitions\nbefore\ncoming\ninto force\nof Act\n\nA. Aga a\n\nGA /\n\n[Sch. 2, Para. 24-27}\n\n—_>\nLeases.\n\nContingent\nliabilities.\n\nOptions.\n\n58                            Act 169\n\nas having taken place before tha{ date, and the acquisition shall\nbe treated as having taken place! on the date of the transfer, of\nownership or where the asset is subsequently disposed of by\nthe acquirer before the date of transfer of ownership, the\nacquisition shall be deemed to have taken place on the date of\nthis subsequent disposal;\n\n(b) all the instalments were paid after the date of coming into force\nof this Act, in which case the disposal and acquisition shall\n\nGB) be treated as having been made after that date.\n\n25. (1) The grant of a lease is the disposal of an asset, namely, the\n\nlease.\n\n(2) Where a lessee transfers a lease for which he has paid a premium,\na fraction of the premium paid by him, arrived at by dividing the\nnumber of years of the unexpired term by the number of years of the\nfull term, shall replace the full premium in the computation of the\nacquisition price of the lease.\n\n(3) Where a lease for which a premium has been paid is transferred\nwithout consideration or for a consideration which is of only nominal\nvalue, the premium (or, in the case to which sub-paragraph (2) applies,\nthe fraction mentioned in that sub-paragraph) shall be disregarded in\ncomputing the acquisition price of the lease on the subsequent disposal\nof the lease by the transferee.\n\n(4) The question whether a consideration is of only nominal value\nfor the purposes of sub-paragraph (3) shall be decided by the Director\nGeneral, whose decision shall be final and not subject to appeal.\n\n(5) A person who disposes of land which is or has been leased to\na lessee shall not be entitled to deduct from the disposal price under\nparagraph 5 any expenditure incurred by the lessee in erecting buildings\non or otherwise improving the land.\n\n26. (1) Subject to sub-paragraph (2), no allowance shall be made in the\ncomputation of a disposal price—\n\n(a) in the case of a disposal by way of transferring a lease, for any\nliability remaining with or assumed by the disposer which is\ncontingent on a default in respect of liabilities assumed by the\nacquirer under the terms and conditions of the lease; or\n\n(b) for any contingent liability of the disposer in respect of any\ncovenant for quiet enjoyment or other obligation assumed by\nthe transferor of the asset; or\n\n(c) for any contingent liability in respect of a warranty or represen-\ntation made on a disposal of the asset.\n\n(2) If after a disposal of the kind mentioned in sub-paragraph (1) it\nis shown to the satisfaction of the Director General that a liability of\nthe kind mentioned in that sub-paragraph has become enforceable and\nis being or has been enforced, he shall make such adjustment by way\nof repayment of the tax or otherwise as the circumstances require,\n\n27. (1) The grant of an option over a chargeable asset is the disposal\nof a chargeable asset, namely, the option.\n\n[Sch. 2, Para, 27-33]\n\nREAL PROPERTY GAINS TAX            59\n\n(2) Where a right under an option is exercised so that the assct to\nwhich the option relates is disposed of to the person exercising the\nright, the grant of the option and the disposal shall be regarded as\none transaction and the amount paid for the option shall be deemed\nto be part of the consideration for the disposal of the asset.\n\n(3) Where a right under an option is disposed of at a loss by the\nperson entitled to exercise the right, the loss shall not be taken as an\nallowable loss suffered by that person unless the right is subsequently\nexercised by the person acquiring the right or his successors.\n\n28. In relation to assets held by a person as nominee for another\nperson, or as trustee for another person absolutely entitled as against\nthe trustee (or for two or more persons jointly so entitled), this Act\nshall apply as if the assets were vested in, and the acts of the nominee\nor trustee in relation to the assets were the acts of the person or\npersons for whom he is the nominee or trustee (acquisitions from or\ndisposals to the nominee or trustee by that person or those persons\nbeing disregarded accordingly).\n\n29. Where a person entitled to an asset by way of security or to the\nbenefit of a charge or incumbrance on an asset deals with the asset for\nthe purpose of enforcing or giving effect to the security, charge or\nincumbrance, his dealings with it shall be treated as if they were done\nthrough him as nominee by the person entitled to the asset subject to\nthe security, charge or incumbrance; and this paragraph shall apply\nto the dealings of any person appointed to enforce or give effect to\nthe security, charge or incumbrance as receiver and manager as it\napplies to the dealings of the person so entitled.\n\n30. Expenditure in respect of which a disposer has been or is to be\ndirectly or indirectly reimbursed by any other person or by any\ngovernment or other authority shall not be taken into account as\nexpenditure for the purposes of paragraph 5 (1) (a) or (b) and where\nthe expenditure is reimbursed after the disposer has been assessed the\nDirector General may vary the assessment so as to take account of\nthe reimbursement:\n\nProvided that the receipt of a sum of the kind described in para-\ngraph 4 (1) (a) or (b) shall not be regarded as a reimbursement for\nthe purposes of this paragraph.\n\n31. Tax relief for any-allowable loss suffered in a year of assessment\nshall not be allowed as a deduction from the tax assessed on charge-\nable gains accruing in any earlier year of assessment.\n\n32. No amount given by way of a deduction shall be allowable on\nthe disposal of an asset by any person in a computation under this\nSchedule more than once.\n\n33. A loss suffered in respect of a disposal shall not be allowable if—\n\n(a) the date of the disposal was before the date of coming into\nforce of this Act; or\n\nDealings by\nnominees and\ncertain\ntrustees.\n\nDealings for\nenforcement\nof security.\n\nExclusion of\nreimbursed\nexpenditure.\n\nProhibition\nof deduction\nfor tax\nrelief for\nallowable\nlosses from\ntax assessed\nfor earlier\nyears,\n\nDeductions\nallowable\nonly once\n\nCertain\nlosses\n\nnot to be\nallowable.\n\n[Sch. 2, Para. 33-35]\n\ncub. ACh Sey\n\n60                                    Act 169\n\n(b) any gain accruing in respect of the disposal would have been\nexempt from the tax under this Act; or\n\n(c) the disposal is not included in a return made under section 13\n(1) or D5 ey\n\nACA Xu D ec ee ee\n\nTransfer of\nassets to\ncontrolled\ncompanies.\n\nAck Boy —\n\nTrustees and\npartners.\n\n34. (1)/Where-an-asset-is-transferred-to-a company. (whether or nol-\n-resident-in—Malaysia)-by—a-persen-havying-control-over-the-company-\n(or-by_the-wife-of such-a—person—orby-such-a—person—jointly_with—his—\nwife—or—with—a—connected_person)_for_a_consideration —consisting—of\nshares-in-the company or for a-consideration-consisting_partly_of-shares-\nin_the-company—and—partly-efe—money—payment, the acquisition price\npaid for the asset by the transferor, plus the permitted expenses\nincurred by him and minus the amount of any money payment or, if\nthe asset was acquired by the transferor prior to 1st January, 1970,\nthe market value of the asset as at Ist January, 1970 plus the permitted\nexpenses incurred by the transferor as from 1st January, 1970 less the\nsum of the kind referred to in paragraph 4 (1) (a), (b) or (c) received\nby or forfeited as the case may be to the transferor as from Ist\nJanuary, 1970 and minus the amount of any money payment, shall be\ntaken as the acquisition price of the shares:\n\nProvided that, where the money payment exceeds the acquisition\nprice paid for the asset by the transferor plus the permitted expenses\nincurred by him or, if the asset was acquired by the transferor prior\nto 1st January, 1970, the market value of the asset as at Ist January,\n1970 plus the permitted expenses incurred by the transferor as from\nIst January, 1970 less the sum of the kind referred to in paragraph 4\n(1) (a), (b) or (c) received by or forfeited as the case may be to the\ntransferor as from Ist January, 1970, the acquisition price of the shares\nshall be deemed to be nil and, if the payment was made on or after\nthe date of coming into force of this Act, the excess shall constitute a\nchargeable gain accruing to the transferor.\n\n(2) A disposal of any of the shares acquired by the transferor under\nsub-paragraph (1) shall be deemed to be a disposal of a chargeable\nasset by the transferor.\n\nBeh. ----\n\n35. (1) Where an asset is an asset of a trust or partnership, then in\nwhatever persons the ownership of the asset is vested, any acquisition\nor disposal of the asset shall be treated as an acquisition or disposal\nby the trustee or the partnership, as the case may be, at the price at\nwhich the asset was in fact acquired or disposed of, and any gain or\nloss in respect of a disposal shall be assessed on or attributed to the\ntrustee or the partnership.\n\n(2) Where a person who is the owner of an asset—\n(a) is a member of a partnership; or.\n\n(b) becomes a member of a partnership on its formation or in any\nother way,\n\nand transfers the asset to the partnership, the partnership shall be\ndeemed to have acquired the asset at an acquisition price equal to the\nacquisition price paid by that person plus the permitted expenses\nincurred by that person before he so transferred it or, if the asset was\nacquired by that person prior to Ist January, 1970, the market value\n\n(Sch. 2, Para. 35-36, Sch. 3, Para.\n\nREAL PROPERTY GAINS TAX           61\n\nof the asset as at Ist January, 1970 plus the permitted expenses incurred\nby that person as from Ist January, 1970 less the sum of the kind\nreferred to in paragraph 4 (1) (a), (b) or (c) received by or forfeited\nas the case may be to that person as from Ist January, 1970.\n\n(3) Where one partnership is succeeded by another and at least one\nperson who was a member of the succeeded partnership is a member of\nthe succeeding partnership, both partnerships shall be treated for the\npurposes of this Act as one continuing partnership.\n\n(4) Where on the dissolution of a partnership a person who was a\nmember of the partnership immediately before its dissolution carries on\nthe business formerly carried on by the dissolved partnership and\nacquires any assets which were formerly assets of the dissolved partner-\nship, he shall be deemed to have acquired those assets at the price at\nwhich the partnership acquired or is deemed to have acquired them\nor, if the asset was acquired by the partnership prior to Ist January,\n1970, at the market value of the asset as at Ist January, 1970 plus the\npermitted expenses incurred by the partnership as from 1st January,\n1970 less the sum of the kind referred to in paragraph 4 (1) (a), (b) or\n(c) received by or forfeited as the case may be to the partnership as\nfrom 1st January, 1970.\n\n(5) Where after the death of a member of a partnership his executor\nor legatee withdraws from the partnership and thereby causes any asset\nof the partnership (or any interest in such an asset) to cease to be an\nasset or interest of the partnership, there shall be deemed to be a\ndisposal of the asset or interest by the paruerahip at a price equal to\nits acquisition price.\n\n36. Any decision of the Special Commissioners or the court on any\nmatter for income tax purposes shall be conclusive so far as under this ;,\nAct liability to the tax or any other matter relating to the tax depends\non the provisions of the income tax law.\n\nSCHEDULE 3\n(Section 8)\nPRIVATE RESIDENCES\n\n1. In this Schedule \"the exemption\" means the exemption provided\nby section 8.\n\n2. Subject to paragraph 3, a building or a part of a building is not\nowned by any person for the purposes of this Schedule unless he is\nregistered under the law relating to the registration of title to land as\nproprietor of the land on which it stands or as the holder of a lease of\nthat land or he was the purchaser of that land under an agreement for\nthe purchase and sale of that land.\n\nQ pak\n3. (1)/A/residence owned and occupied by an individual's wife or by\nan individual and his wife jointly shall, for the purposes of this Schedule\nonly, be deemed to be owned and occupied by the individual.\n\n(A). -\n\n1-3]\n\nConelasive-\nness Oo:\n\nme  tax\n\ndecisions.\n\nMasi\n\nDod:  had 3i/\n\n(Sch. 3, Para. 3-9]\n\nale\nCTTZTED)\n\npads: Mn)\n\nD RARSI  B\n\ntha  Mej\n\n62                                       Acr 169\n\n(2) Where an individual receives the benefit of the exemption on a\ngain accruing in respect of the disposal of a/residence to which sub-\nparagraph (1) applies, nothing in that sub-paragraph or in any other\nprovision of this Act shall operate so as to render his wife chargeable\nwith the tax on the same gain.\n\n4. Subject to this Schedule, a private|residence is a building or part\nof a building owned by an individual and occupied by him immediately\nbefore the time of its disposal as his only place of residence in Malaysia.\n\n5. Except as provided in this Schedule] the exemption shall not apply\nin respect of an individual who owns and is occupying two or more\nprivate residences in Malaysia on the coming into force of this Act.\n\n6. (1) A qualified private residence shall continue to be a qualified\nprivate residence notwithstanding that the individual who owns and\noccupies it acquires any further private residences.\n\n(2) In this paragraph \"qualified private residence\" means a private\nresidence owned and occupied in such circumstances that a gain\naccruing in respect of its disposal would qualify for the exemption.\n\n7. An individual who is occupying two or more private residences in\nMalaysia on the coming into force of this Act may nominate one of\nthese residences for the purposes of the exemption, and any residence\nsO nominated in accordance with this Schedule shall be treated as the\nindividual's only private residence in Malaysia.\n\n8. An individual who—\n\n(a) owned and occupied one private residence only on the coming\ninto force of this Act; or\n\n(6) has nominated a private residence under this Schedule,\n\nshall not be entitled to treat any other residence as his private residence\nfor the purposes of the exemption unless the residence owned and\noccupied on the coming into force of this Act, or the residence so\nnominated, as the case may be, was in fact owned by his wife and\nin consequence of a dissolution of marriage or separation of spouses is\nno longer occupied by him.\n\n9. An individual is entitled to the exemption under section 8 if—\n\n(a) in the case of an employee (not being |the director of a company\ncontrolled by him or by his wife of by him jointly with his\nwife or a connected person) he satisfies the Director General\nthat he was compelled to dispose of his private residence in\norder—\n\n(i) to acquire another private residence nearer to his place\nof employment as a result of being transferred by his\nemployer to another part of Malaysia or as a result of\ntaking up a new employment in another part of Malaysia;\nor\n\n(ii) to acquire another private residence in another part of\nMalaysia immediately following his retirement from\nfurther gainful employment; or\n\n(Sch. 3, Para. 9-12)\n\nREAL PROPERTY GAINS TAX            63\n\n(b) in the case of a person other than an employee, he satisfies\nthe Director General that he/was compelled to dispose of his\nprivate residence in order to jacquire another private residence\nin another part of Malaysia immediately following his retire-\nment from business.\n\n10. Where an individual owning antl occupying two or more private\nresidences in Malaysia on the coming into force of this Act fails to\nnominate a private residence in aecprdance with this Schedule, the\nexemption shall not apply to a gain accruing in respect of the disposal\n\nof any of those residences:\n\nProvided that, if after disposing of|one or more of those residences\nat any time after the coming into forde of this Act—\n\n(a) the individual nominates in the! manner provided in paragraph 11\none of those residences which remain in his ownership and\noccupation; or\n\n(b) only one of those residence\noccupation,\n\nthe exemption shall apply, subject to this Schedule, to a gain accruing\nin respect of the disposal of the residence so nominated or, where\nonly one of those residences remains in his ownership and occupation,\nthat residence.\n\nremains in his ownership and\n\n11. (1) Every nomination of a privafe residence for the purposes of\nthe exemption shall be made in writing addressed to the Director\nGeneral—\n\n(a) where an individual occupies more than one private residence\non the date of the coming into force of this Act, within three\nmonths after that date;\n\n(b) where a marriage is dissolved lor spouses separate, within three\nmonths after the dissolution om separation; and\n\n(c) where an individual makes the nomination in pursuance of the\nthe proviso (a) to paragraph] 10, within three months after\nhe becomes entitled to do so,\n\nand shall contain sufficient information to identify the situation of the\nresidence and of the nominator's other residences in Malaysia.\n\n(2) The period of three months mentioned in sub-paragraph (1) (a),\n(b) and (c) may be extended by the Director General in any particular\ncase by such further period as he thinks fit.\n\n12, Where a gain accrues or a loss is suffered in respect of the\ndisposal of a building which is only partly occupied as a private\nresidence by-the-disposer; the portion of the gain which is not charge-\nable or, as the case may be, the portion of the loss which is not\nallowable shall be arrived at as follows—\n\n(a) where the building is divided into parcels each of which is\ncapable of being occupied as a self-contained dwelling or self-\n\ncontained business premises at\nF-the—buildi       -    4   his ori    sence,\nthe gain or loss shall be divided by the total‘number of parcels\n\nYor,   4\n\nYaanz/fp\n\nD P Bey\n\n[Sch. 3, Para. 12-13]\n\n64                                   Act 169\n\nand the resulting sum shall be deemed to be the gain or loss\nattributable to each parcel, including the parcel so occupied\n\nby—the-disposer;\nnny 3                   =\n(b) where the building is not so divided and—not—more-t.\nRAMD                per-cent of the building is occupied primarily as-his Erivate\nD/&ci Sey      esidenee, then, unless the disposer can satisfy the Director\n\nGeneral that some other method of computation is more equit-\nable, the portion of the gain or loss attributable to the part so\noccupied by—the-disposer shall be a portion having the same\n\nSafa?           relation to the whole gain or loss as the floor area of the\npart so occupied by the disposer- has to the total floor area\nof the building.\n\n13. (1) Subject to sub-paragraph (2), where a part of the land attaching\nlo a private residence as its gardens or grounds 1s disposed of without\nthe residence, then—\n\n(a) if the land on which the residence stands was acquired by the\ndisposer without the residence, the acquisition price of the\npart disposed of shall be deemed to be a sum bearing the\nsame proportion to the acquisition price of the total area of\nthe land as the area of the part disposed of bears to that\ntotal area, and any gain or loss accruing or suffered in respect\nof the disposal shall be chargeable or allowable, as the case\nmay be;\n\n(b) if the land on which the residence stands was acquired by the\n\ndisposer with the residence and the total area of that land\nexceeds one acre—\n\n(i) the acquisition price of the land without the residence\nshall be deemed to be one-third of the acquisition price\nof the land with the residence;\n\n(ii) the acquisition price of the part disposed of shall be\ndeemed to be a sum bearing the same proportion to the\nacquisition price of the land without the residence as\nthe area of the part dispoed of bears to that total area;\nand\n\n(iii) any gain or loss accruing or suffered in respect of the\ndisposal shall be chargeable or allowable, as the case\nmay be;\n\n(c) if the land on which the residence stands was acquired by the\ndisposer with the residence and the total area of that land\nis one acre or less, there shall be deemed to accrue to the\ndisposer a chargeable gain consisting of a sum bearing the\nsame proportion to the disposal price as the area of the part\ndisposed of bears to that total area.\n\n(2) Where the acquisition by the disposer referred to in sub-paragraph\n\n(1) (a) and (5) was made prior to Ist January, 1970, in applying the\n\nformula specified in sub-paragraph (1) (a) and (bd) there shall be sub-\n\nstituted for the acquisition price of the total area of the land referred\n\nto in sub-paragraph (1) (a) and the acquisition price of the land without\n\nania] R        the residence referred in sub-paragraph (1) (b) thé market value of the\nland as at Ist January, 1970.\n\n[Sch. 4, Para. 1-3, Sch. 5}\n\nREAL PROPERTY GAINS TAX           65\n\nSCHEDULE 4\n(Section 9)\nEXEMPTIONS\n\n1. A gain accruing in respect of the disposal of a chargeable asset\nbefore the date of coming into force of this Act.\n\n2. A gain accruing in respect of the} disposal of a chargeable asset if        tne\nthe amount or value of the consideraltion for the disposal of the asset           Way\nis less than fifty thousand ringgit:\n\nProvided that the asset disposed of is not or was not a part of a\nlarger chargeable asset the market value of which was at the time\nof the disposal fifty thousand ringgit or more.\n\n3. A gain accruing to the Government, a State Government or a local\nauthority.\n\nSCHEDULE 5                        BA. Pt 30s\n(Sections 4]}and 7 (4))\nRATES OF TAX\n\nPARTI!                                      —        ID\nCategory of disposal                                  Rate oftax ~             iain\n\nDisposal within two yan after the date of kan    4\nof the chargeable asset .        -                             per cent\n\nDisposal in the third year | after the    te of sequiston    2\nof the chargeable asset .        ‘                    ‘   46- per cent\n\nDisposal in the fourth year \"after the   ate i acquisition     20\n\nof the chargeable asset .        a                        30 per cent         AANS)?\n\nDisposal in the fifth year after the d ts of acquisition    /\n\nof the chargeable asset .        33                         36 per cent\n\nDisposal in the sixth year after the d te of acquisition     5              d[Act ay\n\nof the chargeable asset or-thereafter] ...    ‘      .... TO per cent     (eh 98\n\n— Pangan    See                                                                           4)\n\nPART | I!                        A P\nP\n\nKUALA LUMPUR\nDICETAK OLEH PEMANGKU KETUA PENGARAH PERCETAKAN DAN DITERBITKAN DENGAN PERINTAH PADA\n25HB MAC, 1976\n\nHarga: $1"
+   }
   }
- ]
+ ],
+ "replacedAt": "2026-10-28",
+ "replaceNote": "2026-10-28 以新版扫描件 OCR 全文替换：条数 8 → 52"
 }

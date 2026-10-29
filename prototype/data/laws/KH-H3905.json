@@ -1,9 +1,13 @@
 {
  "id": "KH-H3905",
  "title": {
-  "zh": "ក្រមរដ្ឋប្បវេណីនៃព្រះរាជាណាចក្រកម្ពុជា",
-  "en": null,
-  "orig": "ក្រមរដ្ឋប្បវេណីនៃព្រះរាជាណាចក្រកម្ពុជា"
+  "zh": "柬埔寨王国民法典",
+  "en": "Civil Code of the Kingdom of Cambodia",
+  "orig": "ក្រមរដ្ឋប្បវេណីនៃព្រះរាជាណាចក្រកម្ពុជា",
+  "vi": "Bộ luật Dân sự Vương quốc Campuchia",
+  "th": "ประมวลกฎหมายแพ่งและพาณิชย์แห่งราชอาณาจักรกัมพูชา",
+  "id": "Kitab Undang-Undang Hukum Perdata Kerajaan Kamboja",
+  "ms": "Kanun Undang-Undang Sivil Kerajaan Kemboja"
  },
  "country": "KH",
  "countryName": "柬埔寨",
@@ -32,8 +36,8 @@
  },
  "sourceFile": null,
  "fetchedAt": "2026-10-08",
- "completenessNote": "全文，共 1 条；经《东盟法律分类》归档原件重新校核切分，逐字未改写。（本件原文语种为 km）（本次由归档原件补录入库）",
- "textQuality": null,
+ "completenessNote": "全文，共 1 条；经《东盟法律分类》归档原件重新校核切分，逐字未改写。（本件原文语种为 km）（本次由归档原件补录入库）；正文为高棉文私有字体（字形映射到 ASCII 区，如 Rkmrdæb,evNI…），非 Unicode 高棉文，检索与引用均不可用；需按原版 PDF 重新 OCR 或用字体映射表还原。",
+ "textQuality": "legacy-font",
  "ocrNoisySections": null,
  "pdfs": null,
  "duplicateOf": null,
@@ -49,5 +53,6 @@
    }
   }
  ],
- "titleFilledFrom": "来源：source.name（2026-10-24 补）"
+ "titleFilledFrom": "来源：source.name（2026-10-24 补）",
+ "transNote": "2026-10-27 源文质量标记：正文为旧版高棉字体（Limon/ABC）映射码位或 OCR 扫描垃圾，无法直接翻译，需重新抓取官方 Unicode 文本。"
 }

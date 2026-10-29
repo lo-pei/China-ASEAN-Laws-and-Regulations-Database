@@ -1,0 +1,1904 @@
+{
+ "id": "ID-H454",
+ "title": {
+  "zh": "专利法",
+  "en": "Law on Patents",
+  "id": "PATEN",
+  "orig": "PATEN",
+  "vi": "Luật về Sáng chế",
+  "th": "พระราชบัญญัติว่าด้วยสิทธิบัตร",
+  "ms": "Akta tentang Paten"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02b",
+ "language": "id",
+ "level": "law",
+ "category": "05_刑事与知识产权",
+ "status": "active",
+ "promulgatedDate": "1989",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU6-1989",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 133,
+ "chars": 142165,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": null
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\05_刑事与知识产权\\印尼_WLD_1989_PATEN.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 134 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H454-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\n1. Paten adalah hak khusus yang diberikan Negara\nkepada penemu atas hasil penemuannya di bidang teknologi, untuk\nselama waktu tertentu\nmelaksanakan sendiri penemuannya tersebut\natau memberikan persetujuannya kepada orang lain untuk\nmelaksanakannya.\n2. Penemuan adalah kegiatan pemecahan masalah\ntertentu di bidang teknologi, yang dapat berupa proses atau hasil\nproduksi atau penyempurnaan\ndan pengembangan proses atau hasil\nproduksi.\n3. Penemu adalah seorang atau beberapa orang yang\nsecara bersama-sama atau badan hukum yang melaksanakan kegiatan\nyang menghasilkan\npenemuan.\n4. Pemegang Paten adalah penemu sebagai pemilik\npaten atau orang yang menerima hak tersebut dari pemilik paten atau\norang lain yang\nmenerima lebih lanjut hak dari orang tersebut di\natas, yang terdattar dalam Daftar Umum Paten.\n5. Pemeriksa Paten adalah pejabat yang karena\nkeahliannya diangkat oleh Menteri dan ditugasi untuk melakukan\npemeriksaan terhadap\npermintaan paten.\n6. Pemeriksa Paten adalah pejabat yang karena\nkeahliannya diangkat oleh Menteri dan ditugasi untuk melakukan\npemeriksaan terhadap\npermintaan paten.\n7. Menteri adalah Menteri yang lingkup tugas dan\ntanggung jawabnya meliputi pembinaan paten.\n8. Kantor Paten adalah unit organisasi di\nlingkungan departemen pemerintahan yang melaksanakan tugas dan\nkewenangan di bidang paten.\nBAB II\nLINGKUP PATEN\nBagian Pertama\nPenemuan Yang Dapat Diberikan Paten"
+   }
+  },
+  {
+   "id": "ID-H454-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\n(1) Paten diberikan untuk penemuan yang baru,\nmengandung langkah inventif dan dapat diterapkan dalam\nindustri.\n(2) Suatu penemuan mengandung langkah inventif,\njika penemuan tersebut bagi seorang yang mempunyai keahlian biasa\nmengenai teknik\nmerupakan hal yang tidak dapat diduga\nsebelumnya.\n(3) Penilaian bahwa suatu penemuan merupakan hal\nyang tidak dapat diduga harus dilakukan dengan memperhatikan\nkeahlian yang ada pada\nsaat diajukan permintaan paten atau yang\ntelah ada pada saat diajukan permintaan pertama dalam hal\npermintaan itu diajukan dengan\nhak prioritas."
+   }
+  },
+  {
+   "id": "ID-H454-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\n(1) Suatu penemuan tidak dianggap baru, jika pada\nsaat pengajuan permintaan paten:\na. penemuan tersebut telah diumumkan di Indonesia\natau di luar Indonesia dalam satu tulisan yang sedemikian rupa\nsehingga memungkinkan\nseorang ahli untuk melaksanakan penemuan\ntersebut; atau\nb. penemuan tersebut telah diumumkan di Indonesia\ndengan penguraian lisan atau melalui peragaan penggunaannya atau\ndengan cara lain\nsedemikian rupa sehingga memungkinkan seorang ahli\nuntuk melaksanakan penemuan tersebut."
+   }
+  },
+  {
+   "id": "ID-H454-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\nSuatu penemuan tidak dianggap telah diumumkan jika dalam jangka\nwaktu paling lama 6 (enam) bulan sebelum Permintaan paten\ndiajukan:\na. penemuan itu telah dipertunjukkan dalam suatu\npameran internasional di Indonesia atau di luar negeri yang resmi\natau diakui sebagai\nresmi atau dalam suatu pameran nasional di\nIndonesia yang resmi atau diakui sebagai resmi;\nb. penemuan itu telah digunakan di Indonesia oleh\npenemunya dalam rangka percobaan dengan tujuan penelitian dan\npengembangan."
+   }
+  },
+  {
+   "id": "ID-H454-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\nSuatu penemuan dapat diterapkan dalam industri jika penemuan\ntersebut dapat diproduksi atau dapat digunakan dalam berbagai jenis\nindustri."
+   }
+  },
+  {
+   "id": "ID-H454-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\nSetiap penemuan berupa benda, alat atau hasil produksi yang baru\nyang tidak memiliki kualitas sebagai penemuan tetapi mempunyai\nnilai\nkegunaan praktis disebabkan karena bentuk, konfigurasi,\nkonstruksi atau komponennya dapat memperoleh perlindungan hukum\ndalam bentuk\nPaten Sederhana atas penemuan yang sederhana\ntersebut.\nBagian Kedua\nPenemuan Yang Tidak Dapat Diberikan Paten\ndan Yang Ditunda"
+   }
+  },
+  {
+   "id": "ID-H454-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\nPaten tidak diberikan untuk:\na. penemuan tentang proses atau hasil produksi\nyang pengumuman dan penggunaan atau pelaksanaannya bertentangan\ndengan peraturan perundang-undangan\nyang berlaku, ketertiban umum\natau kesusilaan;\nb. penemuan tentang proses atau hasil produksi\nmakanan dn minuman, termasuk hasil produksi makanan dan minuman,\ntermasuk hasil produksi\nberupa bahan yang dibuat melalui proses\nkimia dengan tujuan untuk membuat makanan dan minuman guna\ndikonsumsi manusia dan atau hewan;\nc. penemuan tentang jenis atau varietas baru\ntanaman atau hewan, atau tentang proses apapun yang dapat digunakan\nbagi pembiakan tanaman\natau hewan beserta hasilnya;\nd. penemuan tentang metoda pemeriksaan, perawatan,\npengobatan dan pembedahan yang diterapkan terhadap manusia dan\nhewan tetapi tidak\nmenjangkau produk apapun yang digunakan atau\nberkaltan dengan metoda tersebut;\ne. penemuan tentang teori dan metoda di bidang\nilmu pengetahuan dan matematika."
+   }
+  },
+  {
+   "id": "ID-H454-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n(1) Dengan Keputusan Presiden dapat ditetapkan\nbahwa penemuan tertentu baik yang berupa proses maupun hasil\nproduksi ditunda pemberian\npatennya dalam jangka waktu paling lama\nlima tahun, dengan ketentuan bahwa penetapan tersebut tidak berlaku\nterhadap:\na. penemuan yang pada saat itu telah memperoleh\natau diberi paten;\nb. penemuan yang pada saat dikeluarkannya\nKeputusan Presiden dapat dimintakan paten berdasarkan hak\nprioritas.\n(2) Setelah berakhirnya jangka waktu penundaan\nsebagaimana dimaksud dalam ayat (1), Permintaan paten langsung\ndiumumkan dan pemeriksaan\nsubstantif dilakukan setelah berakhirnya\njangka waktu pengumuman sebagaimana diatur dalam Undang-undang\nini.\nBagian Ketiga\nJangka Waktu Paten"
+   }
+  },
+  {
+   "id": "ID-H454-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\n(1) Paten diberikan untuk jangka waktu selama\nempat belas tahun terhitung sejak tanggal penerimaan Permintaan\npaten.\n(2) Tanggal mulai dan berakhirnya jangka waktu\npaten dicatat dalam Daftar Umum Paten dan diumumkan dalam Berita\nResmi Paten."
+   }
+  },
+  {
+   "id": "ID-H454-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\nPaten Sederhana diberikan untuk jangka waktu selama lima tahun\nterhitung sejak tanggal diberikannya Surat Paten Sederhana.\nBagian Keempat\nSubyek Paten"
+   }
+  },
+  {
+   "id": "ID-H454-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\n(1) Yang berhak memperoleh paten adalah penemu\natau yang menerima lebih lanjut hak penemu itu.\n(2) Jika suatu penemuan dihasilkan oleh beberapa\norang secara bersama-sama maka yang menerima lebih lanjut hak\nmereka, secara bersama-sama\nberhak atas penemuan tersebut."
+   }
+  },
+  {
+   "id": "ID-H454-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\n(1) Kecuali terbukti sebaliknya, yang dianggap\nsebagai penemu adalah mereka yang untuk pertama kali mengajukan\nPermintaan paten.\n(2) Mereka yang mengajukan permintaan paten\nsebagaimana dimaksud dalam ayat (1) tidak diberikan paten, jika isi\nPermintaannya memuat\nsalinan yang diambil dari uraian dan atau\ngambar mengenai penemuan orang lain yang sedang dimintakan atau\ntelah memperoleh paten."
+   }
+  },
+  {
+   "id": "ID-H454-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\n(1) Kecuali diperjanjikan lain dalam suatu\nperjanjian kerja maka yang berhak memperoleh paten atas suatu\npenemuan yang dihasilkan\nadalah orang yang memberikan pekerjaan\nitu.\n(2) Ketentuan sebagaimana dimaksud dalam ayat (1)\njuga berlaku terhadap penemuan yang dihasilkan baik oleh karyawan\nmaupun pekerja\nyang menggunakan data dan sarana yang tersedia dalam\npekerjaannya, sekalipun perjanjian kerja itu tidak mengharuskannya\nuntuk menghasilkan\npenemuan.\n(3) Penemu sebagaimana dimaksud dalam ayat (1) dan\nayat (2) berhak untuk mendapatkan imbalan yang layak dengan\nmemperhatikan manfaat\nekonomi yang dapat diperoleh dari penemuan\ntersebut.\n(4) Imbalan sebagaimana dimaksud dalam ayat (3) dapat\ndibayarkan:\na. dalam jumlah tertentu dan sekaligus; atau\nb. prosentase; atau\nc. gabungan antara jumlah tertentu dan sekaligus\ndengan hadiah atau bonus: atau d. gabungan antara prosentase dengan\nhadiah atau bonus;\nyang besarnya ditetapkan sendiri oleh pihak-pihak yang\nbersangkutan.\n(5) Dalam hal tidak terdapat kesesuaian mengenai\ncara perhitungan dan penetapan besarnya imbalan, keputusan untuk\nitu dimintakan kepada\nPengadilan Negeri setempat.\n(6) Ketentuan sebagaimana dimaksud dalam ayat (1),\nayat (2) dan ayat (3) sama sekali tidak menghapuskan hak penemu\nuntuk tetap dicantumkan\nnamanya dalam surat pemberian paten."
+   }
+  },
+  {
+   "id": "ID-H454-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\n(1) Seseorang yang melaksanakan suatu penemuan\npada saat atas penemuan serupa dimintakan paten, tetap berhak\nmelaksanakan penemuan\ntersebut sebagai penemu terdahulu, sekalipun\nterhadap penemuan yang serupa tersebut kemudian diberikan\npaten.\n(2) Ketentuan sebagaimana dimaksud dalam ayat (1)\njuga berlaku terhadap Permintaan paten yang diajukan dengan hak\nprioritas."
+   }
+  },
+  {
+   "id": "ID-H454-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\nKetentuan sebagaimana dimaksud dalam Pasal 14 tidak berlaku\nbilamana orang yang melaksanakan penemuan tersebut melakukannya\ndengan\nmenggunakan pengetahuan tentang penemuan tersebut dari\nuraian, gambar atau keterangan lainnya dari penemuan yang\ndimintakan paten."
+   }
+  },
+  {
+   "id": "ID-H454-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\n(1) Seseorang yang melaksanakan suatu penemuan\nsebagaimana dimaksud dalam Pasal 14, dapat diakui sebagai penemu\nterdahulu apabila\nsetelah diberikannya paten terhadap penemuan yang\nserupa ia mengajukan Permintaan untuk itu kepada Kantor\nPaten.\n(2) Permintaan pengakuan sebagai penemu terdahulu\nwajib disertai bukti bahwa pelaksanaan penemuan tersebut tidak\ndilakukan dengan\nmenggunakan uraian, gambar, contoh atau keterangan\nlainnya dari penemuan yang dimintakan paten.\n(3) Pengakuan sebagai penemu terdahulu diberikan\noleh Kantor Paten dalam bentuk Surat Keterangan Penemu Terdahulu\ndengan membayar\nbiaya untuk itu.\n(4) Surat Keterangan Penemu Terdahulu berakhir\npada saat yang bersamaan dengan saat berakhirnya paten atas\npenemuan yang serupa tersebut.\nBagian Kelima\nHak dan Kewajiban Pemegang Paten"
+   }
+  },
+  {
+   "id": "ID-H454-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\nPemegang Paten memiliki hak khusus untuk melaksanakan secara\nperusahaan atas patennya baik secara sendiri maupun dengan\nmemberikan\npersetujuan kepada orang lain, yaitu:\na. membuat, menjual, mengimpor, menyewakan,\nmenyerahkan, memakai, menyediakan untuk dijual atau disewakan atau\ndiserahkan hasil produksi\nyang diberi paten;\nb. menggunakan proses produksi yang diberi paten\nuntuk membuat barang dan tindakan lainnya sebagaimana dimaksud\ndalam huruf a."
+   }
+  },
+  {
+   "id": "ID-H454-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\nPemegang Paten waiib melaksanakan patennya di wilayah Negara\nRepublik Indonesia."
+   }
+  },
+  {
+   "id": "ID-H454-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\nUntuk pengelolaan kelangsungan berlakunya paten dan pencatatan\nlisensi, Pemegang Paten atau Pemegang Lisensi suatu paten wajib\nmembayar\nbiaya pemeliharaan yang disebut biaya tahunan.\nBagian Keenam\nPengecualian Terhadap Pelaksanaan\ndan Pelanggaran Paten"
+   }
+  },
+  {
+   "id": "ID-H454-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\nImpor atas hasil produksi yang diberi paten atau dibuat dengan\nproses yang diberi paten tidak merupakan pelaksanaan paten."
+   }
+  },
+  {
+   "id": "ID-H454-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\nImpor atas hasil produksi yang diberi paten atau dibuat dengan\nproses yang diberi paten atau padanannya, yang dilakukan oleh orang\nselain Pemegang Paten tidak merupakan pelanggaran atas paten yang\nbersangkutan, keculai dalam hal-hal tertentu yang diatur lebih\nlanjut dengan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H454-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\nPemakaian penemuan baik yang berupa proses maupun hasil produksi,\npenjualan, penyewaan atau penyerahan hasil pemakaian penemuan yang\ntelah berlangsung pada saat atau sebelum diberikannya paten untuk\npenemuan yang bersangkutan, tidak merupakan pelanggaran terhadap\npaten tersebut.\nBAB III\nPERMINTAAN PATEN\nBagian Pertama\nUmum"
+   }
+  },
+  {
+   "id": "ID-H454-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\nPaten diberikan atas dasar Permintaan."
+   }
+  },
+  {
+   "id": "ID-H454-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 24\nSetiap Permintaan paten hanya dapat diajukan untuk satu\npenemuan."
+   }
+  },
+  {
+   "id": "ID-H454-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\nPermintaan paten diajukan dengan membayar biaya kepada Kantor Paten\nyang besarnya ditetapkan Menteri."
+   }
+  },
+  {
+   "id": "ID-H454-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\n(1) Apabila Permintaan paten diajukan oleh orang\nyang bukan penemu, Permintaan tersebut harus disertai pernyataan\nyang dilengkapi\nbukti yang cukup bahwa ia berhak atas penemuan yang\nbersangkutan.\n(2) Kantor Paten wajib mengirimkan salinan\npernyataan sebagaimana dimaksud dalam ayat (1) kepada penemu.\n(3) Penemu dapat meneliti surat Permintaan paten\nyang diajukan oleh orang yang bukan penemu sebagaimana dimaksud\ndalam ayat (1) dan\natas biayanya sendiri dapat meminta salinan\ndokumen Permintaan tersebut."
+   }
+  },
+  {
+   "id": "ID-H454-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\n(1) Permintaan paten dapat diajukan melalui\nKonsultan Paten di lndonesia selaku kuasa, kecuali dalam hal\ntertentu yang diatur lain\ndalam Undang-undang ini.\n(2) Konsultan Paten sebagaimana dimaksud dalam\nayat (l) adalah konsultan yang telah terdaftar dalam Daftar\nKonsultan Paten di Kantor\nPaten.\n(3) Terhitung sejak tanggal penerimaan kuasa,\nKonsultan Paten berkewajiban menjaga kerahasiaan penemuan dan\nseluruh dokumen Permintaan\npaten, sampai dengan tanggal\ndiumumkannya Permintaan paten yang bersangkutan.\n(4) Ketentuan mengenai syarat-syarat untuk dapat\ndidaftar sebagai Konsultan Paten, diatur dengan Peraturan\nPemerintah."
+   }
+  },
+  {
+   "id": "ID-H454-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\n(1) Permintaan paten yang diajukan oleh penemu\natau yang berhak atas penemuan yang tidak bertempat tinggal atau\nberkedudukan tetap\ndi wilayah Negara Republik Indonesia harus\ndiajukan melalui Konsultan Paten di Indonesia selaku kuasa.\n(2) Penemu atau yang berhak atas penemuan\nsebagaimana dimaksud dalam ayat (1) harus menyatakan dan memilih\ntempat tinggal atau kedudukan\nhukum di Indonesia untuk kepentingan\nPermintaan paten tersebut."
+   }
+  },
+  {
+   "id": "ID-H454-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\n(1) Permintaan paten yang diajukan dengan\nmenggunakan hak prioritas sebagaimana diatur dalam konvensi\ninternasional mengenai perlindungan\npaten yang diikuti oleh Negara\nRepublik lndonesia, harus diajukan dalam waktu dua belas bulan\nterhitung sejak tanggal Permintaan\npaten yang pertama kali diterima\ndi negara manapun yang juga ikut serta dalam konvensi\ntersebut.\n(2) Dengan tetap memperhatikan ketentuan\nUndang-undang ini mengenai syarat-syarat yang harus dipenuhi dalam\nsurat Permintaan paten,\nPermintaan paten dengan hak prioritas\nsebagaimana dimaksud dalam ayat (l) wajib dilengkapi dengan salinan\nsurat Permintaan paten\nyang pertama kali yang disahkan oleh pihak\nyang berwenang di negara yang bersangkutan dalam waktu enam bulan\nterhitung sejak tanggal\nsurat Permintaan tersebut, dengan ketentuan\nbahwa seluruhnya tidak melampaui batas waktu sebagaimana dimaksud\ndalam ayat (l).\n(3) Apabila syarat sebagaimana dimaksud dalam ayat\n(l) dan ayat (2) tidak dipenuhi, Permintaan paten tidak dapat\ndiajukan dengan menggunakan\nhak prioritas."
+   }
+  },
+  {
+   "id": "ID-H454-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\n(1) Permintaan paten diajukan secara tertulis\ndalam bahasa Indonesia kepada Kantor Paten.\n(2) Surat Permintaan paten harus memuat:\na. tanggal, bulan dan tahun surat Permintaan;\nb. alamat lengkap dan jelas orang yang mengajukan\npermintaan termaksud huruf a;\nc. nama lengkap dan kewarganegaraan penemu;\nd. dalam hal Permintaan diajukan orang lain selaku\nkuasa dilengkapi pula nama lengkap dan alamat lengkap kuasa yang\nbersangkutan;\ne. surat kuasa khusus, dalam hal Permintaan diajukan oleh\nkuasa;\nf. Permintaan untuk diberi paten;\ng. judul penemuan;\nh. klaim yang terkandung dalam penemuan;\ni. deskripsi tertulis tentang penemuan, yang\nsecara lengkap memuat keterangan tentang cara melaksanakan\npenemuan;\nj. gambar yang disebut dalam deskripsi yang diperlukan untuk\nmemperjelas.\nk. abstraksi mengenai penemuan.\n(3) Ketentuan lebih lanjut tentang pelaksanaan\npengajuan Permintaan paten diatur oleh Menteri.\nBagian Kedua\nPermintaan Paten Dengan Hak Prioritas"
+   }
+  },
+  {
+   "id": "ID-H454-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\n(1) Selain salinan surat Permintaan sebagaimana\ndimaksud dalam Pasal 29 ayat (2), Kantor Paten dapat meminta agar\nPermintaan paten\nyang diajukan dengan menggunakan hak prioritas\ntersebut dilengkapi pula dengan:\na. salinan yang sah surat-surat yang bertalian\ndengan hasil pemeriksaan yang dilakukan terhadap Permintaan paten\nyang pertama kali\ndi luar negeri;\nb. salinan yang sah dokumen paten yang telah\ndiberikan sehubungan dengan Permintaan yang pertama kali di luar\nnegeri;\nc. salinan yang sah keputusan mengenai penolakan\natas Permintaan paten yang pertama kali di luar negeri bilamana\nPermintaan tersebut\nditolak;\nd. salinan yang sah keputusan pembatalan paten\nyang bersangkutan yang pernah dikeluarkan di luar negeri, bilamana\npaten tersebut pernah\ndibatalkan;\ne. lain-lain dokumen yang diperlukan untuk\nmempermudah penilaian bahwa penemuan yang dimintakan paten memang\nmerupakan penemuan yang\nbaru dan benar-benar mengandung langkah\nyang inventif.\n(2) Penyampaian salinan dokumen-dokumen\nsebagaimana dimaksud dalam ayat (1) dapat disertai tambahan\npenjelasan secara terpisah oleh\norang yang mengajukan Permintaan\npaten."
+   }
+  },
+  {
+   "id": "ID-H454-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 32\nKetentuan lebih lanjut mengenai Permintaan paten yang diajukan\ndengan hak prioritas diatur dengan Peraturan Pemerintah.\nBagian Ketiga\nWaktu Penerimaan Permintaan Paten"
+   }
+  },
+  {
+   "id": "ID-H454-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 33\n(1) Permintaan paten dianggap diajukan pada\ntanggal penerimaan surat Permintaan paten oleh Kantor Paten,\nsetelah diselesaikannya pembayaran\nbiaya sebagaimana dimaksud dalam\nPasal 25.\n(2) Tanggal penerimaan Permintaan paten adalah\ntanggal pada saat Kantor Paten menerima surat Permintaan paten yang\ntelah memenuhi\nsyarat-syarat sebagaimana dimaksud dalam Pasal 30\ndan dalam hal permintaan paten berdasarkan hak prioritas telah pula\nmemenuhi syarat-syarat.\n(3) Tanggal penerimaan surat Permintaan paten\ndicatat secara khusus oleh Kantor Paten."
+   }
+  },
+  {
+   "id": "ID-H454-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 34\n(1) Apabila ternyata terdapat kekurangan pemenuhan\nsyarat-syarat sebagaimana dimaksud dalam Pasal 30, Kantor Paten\nmeminta agar kekurangan\ntersebut dipenuhi dalam waktu tiga bulan\nterhitung sejak tanggal pengiriman surat pengiriman pemenuhan\nkekurangan tersebut oleh Kantor\nPaten.\n(2) Berdasarkan alasan yang disetujui Kantor\nPaten, jangka waktu sebagaimana dimaksud dalam ayat (l) dapat\ndiperpanjang untuk paling\nlama tiga bulan atas Permintaan orang\nyang mengajukan Permintaan paten."
+   }
+  },
+  {
+   "id": "ID-H454-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 35\nDalam hal terdapat kekurangan sebagaimana dimaksud dalan Pasal 34,\ntanggal penerimaan Permintaan paten adalah tanggal diterimanya\npemenuhan terakhir kekurangan tersebut oleh Kantor Paten."
+   }
+  },
+  {
+   "id": "ID-H454-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 36\nApabila kekurangan tidak dipenuhi dalam jangka waktu sebagaimana\ndimaksud dalam Pasal 34, Kantor Paten memberitahukan secara\ntertulis\nkepada orang yang mengajukan Permintaan paten bahwa\nPermintaan paten dianggap ditarik kembali."
+   }
+  },
+  {
+   "id": "ID-H454-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 37\nApabila selama pemeriksaan awal ditemukan adanya dua atau lebih\nPermintaan paten untuk penemuan yang sama dan salah satu\ndiantaranya\ndiajukan dengan hak prioritas oleh orang yang sama\npula, Kantor Paten berhak menolak Permintaan tersebut atas dasar\nalasan bahwa\nuntuk satu penemuan hanya dapat diajukan satu\nPermintaan paten."
+   }
+  },
+  {
+   "id": "ID-H454-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 38\n(1) Apabila untuk satu penemuan yang sama ternyata\ndiajukan lebih dari satu Permintaan paten oleh orang yang berbeda\nhanya Permintaan\nyang diajukan pertama atau terlebih dahulu yang\ndapat diterima.\n(2) Apabila Permintaan paten sebagaimana dimaksud\ndalam ayat (1) diajukan pada tanggal yang sama, maka Kantor Paten\nminta dengan surat\nkepada orang-orang yang mengajukan Permintaan\ntersebut untuk berunding guna memutuskan Permintaan mana yang\ndiajukan dan menyampaikan\nhasil keputusan itu kepada Kantor Paten\nselambat-lambatnya enam bulan terhitung sejak tanggal pengiriman\nsurat tersebut.\n(3) Apabila tidak tercapai persetujuan atau\nkeputusan diantara orang-orang yang mengajukan Permintaan paten\natau tidak dimungkinkan\ndilakukannya perundingan atau hasil\nperundingan tidak disampaikan kepada Kantor Paten dalam waktu yang\nditentukan sebagaimana dimaksud\ndalam ayat (2), maka Permintaan\npaten tersebut ditolak dan Kantor Paten memberitahukan hal tersebut\nsecara tertulis kepada orang-orang\nyang mengajukanPermintaan paten\ntersebut.\nBagian Keempat\nPerubahan Permintaan Paten"
+   }
+  },
+  {
+   "id": "ID-H454-A39",
+   "no": 39,
+   "noLabel": {
+    "id": "Pasal 39"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 39\n(1) Permintaan paten dapat diubah dengan cara\nketentuan bahwa perubahan tersebut tidak memperluas lingkup\nperlindungan yang telah\ndiajukan dalam Permintaan semula.\n(2) Perubahan Permintaan sebagaimana dimaksud\ndalam ayat (1) dianggap diajukan pada tanggal yang sama dengan\nPermintaan semula."
+   }
+  },
+  {
+   "id": "ID-H454-A40",
+   "no": 40,
+   "noLabel": {
+    "id": "Pasal 40"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 40\n(1) Perubahan Permintaan sebagaimana dimaksud\ndalam Pasal 39 dapat diajukan secara terpisah dalam satu Permintaan\natau lebih, tetapi\ndengan ketentuan bahwa lingkup perlindungan yang\ndimintakan dalam setiap Permintaan tersebut tidak melebihi lingkup\nperlindungan\nyang telah diajukan dalam Permintaan semula.\n(2) Dalam hal perubahan tersebut berupa pemecahan\nPermintaan sebagaimana dimaksud dalam ayat (1), Permintaan tersebut\ndianggap diajukan\npada tanggal yang sama dengan tanggal pengajuan\nPermintaan semula.\nBagian Kelima\nPenarikan Kembali Permintaan Paten"
+   }
+  },
+  {
+   "id": "ID-H454-A41",
+   "no": 41,
+   "noLabel": {
+    "id": "Pasal 41"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 41\n(1) Surat Permintaan paten dapat ditarik kembali\ndengan mengajukan secara tertulis kepada Kantor Paten.\n(2) Ketentuan lebih lanjut mengenai penarikan\nkembali surat Permintaan paten diatur dengan Peraturan\nPemerintah.\nBagian Keenam\nPerpanjangan Jangka Waktu Paten"
+   }
+  },
+  {
+   "id": "ID-H454-A42",
+   "no": 42,
+   "noLabel": {
+    "id": "Pasal 42"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 42\nAtas permintaan Pemegang Paten, jangka waktu paten dapat\ndiperpanjang satu kali untuk selama dua tahun."
+   }
+  },
+  {
+   "id": "ID-H454-A43",
+   "no": 43,
+   "noLabel": {
+    "id": "Pasal 43"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 43\n(1) Permintaan perpanjangan jangka waktu paten\nsebagaimana dimaksud dalam Pasal 42 harus memenuhi ketentuan\nsebagai berikut:\na. permintaan harus diajukan secara tertulis dalam\nwaktu tidak lebih dari dua belas bulan dan sekurang-kurangnya enam\nbulan sebelum\njangka waktu paten berakhir;\nb. pemegang paten harus menyampaikan bukti yang\nmeyakinkan Kantor Paten, bahwa:\n1. penghasilan yang diperoleh dari pelaksanaan\npaten belum dapat menutup seluruh biaya kegiatan penelitian dan\npengembangan yang menghasilkan\npenemuan yang diberi paten\ntersebut;\n2. paten tersebut telah secara terus menerus\ndilaksanakan secukupnya di Indonesia dan akan terus dilaksanakan\nuntuk memenuhi kebutuhan\ndi Indonesia ataupun untuk keperluan\nekspor.\n(2) Keputusan tentang persetujuan atau penolakan\natas permintaan perpanjangan jangka waktu paten tersebut\ndisampaikan secara tertulis\nkepada Pemegang Paten.\n(3) Dalam hal permintaan tersebut ditolak, maka\nalasan penolakan dijelaskan dalam surat pemberitahuan."
+   }
+  },
+  {
+   "id": "ID-H454-A44",
+   "no": 44,
+   "noLabel": {
+    "id": "Pasal 44"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 44\nKeputusan tentang persetujuan atau penolakan permintaan\nperpanjangan jangka waktu paten dicatat dalam Daftar Umum Paten dan\ndiumumkan\ndalam Berita Resmi Paten.\nBagian Ketujuh\nLarangan Mengajukan Permintaan Paten dan\nKewajiban Menjaga Kerahasiaan"
+   }
+  },
+  {
+   "id": "ID-H454-A45",
+   "no": 45,
+   "noLabel": {
+    "id": "Pasal 45"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 45\nSelama masih terikat dinas aktif hingga selama satu tahun sesudah\npensiun atau berhenti karena sebab apapun dari Kantor Paten,\npegawai\nKantor Paten atau orang yang karena penugasannya bekerja\nuntuk dan atas nama Kantor Paten, dilarang mengajukan Permintaan\npaten,\nmemperoleh paten atau dengan cara apapun memperoleh hak atau\nmemegang hak yang berkaitan dengan paten kecuali bila pemilikan\npaten\nitu diperoleh karena warisan."
+   }
+  },
+  {
+   "id": "ID-H454-A46",
+   "no": 46,
+   "noLabel": {
+    "id": "Pasal 46"
+   },
+   "chapter": {
+    "id": "BAB III / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 46\nTerhitung sejak tanggal penerimaan surat Permintaan paten, seluruh\naparat Kantor Paten berkewajiban menjaga kerahasiaan penemuan\ndan\nseluruh dokumen Permintaan paten, sampai dengan tanggal\ndiumumkannya paten yang bersangkutan.\nBAB IV\nPEMERIKSAAN\nBagian Pertama\nPengumuman Permintaan Paten"
+   }
+  },
+  {
+   "id": "ID-H454-A47",
+   "no": 47,
+   "noLabel": {
+    "id": "Pasal 47"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 47\n(1) Kantor Paten mengumumkan Permintaan paten yang\ntelah memenuhi ketentuan Pasal 29, Pasal 30 dan Pasal 31 serta\nPermintaan tidak\nditarik kembali.\n(2) Pengumuman dilakukan selambat-lambatnya:\na. enam bulan setelah tanggal penerimaan\nPermintaan paten;\nb. dua belas bulan setelah tanggal penerimaan\nPermintaan paten yang pertama kali dalam, hal ini Permintaan paten\ndengan hak prioritas."
+   }
+  },
+  {
+   "id": "ID-H454-A48",
+   "no": 48,
+   "noLabel": {
+    "id": "Pasal 48"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 48\n(1) Pengumuman berlangsung selama enam bulan dan dilakukan\ndengan:\na. menempatkan pada papan pengumuman yang khusus\ndisediakan untuk itu dan dapat dengan mudah serta jelas dilihat\noleh masyarakat,\ndan b. menempatkannya dalam Berita Resmi Paten\nyang diterbitkan secara berkala oleh Kantor Paten.\n(2) Tanggal mulai diumumkannya Permintaan paten\ndicatat oleh Kantor Paten dalam daftar pengumuman."
+   }
+  },
+  {
+   "id": "ID-H454-A49",
+   "no": 49,
+   "noLabel": {
+    "id": "Pasal 49"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 49\nPengumuman dilakukan dengan mencantumkan:\na. nama dan alamat lengkap penemu atau yang berhak\natas penemuan dan kuasa apabila pemintaan diajukan melalui\nkuasa;\nb. jumlah permintaan paten;\nc. judul penemuan;\nd. tanggal pengajuan Permintaan paten atau dalam\nhal Permintaan paten dengan hak prioritas: tanggal, nomor dan\nnegara di mana Permintaan\npaten yang pertama kali diajukan;\ne. abstraksi."
+   }
+  },
+  {
+   "id": "ID-H454-A50",
+   "no": 50,
+   "noLabel": {
+    "id": "Pasal 50"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 50\nKantor Paten menyediakan tempat yang khusus untuk memberikan\nkesempatan kepada anggota masyarakat yang berkepentingan untuk\nmelihat\ndokumen Permintaan paten yang diumumkan."
+   }
+  },
+  {
+   "id": "ID-H454-A51",
+   "no": 51,
+   "noLabel": {
+    "id": "Pasal 51"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 51\n(1) Selama jangka waktu pengumuman, setiap orang\nsetelah melihat pengumuman Permintaan paten dapat mengajukan secara\ntertulis pandangan\natau keberatannya atas Permintaan yang\nbersangkutan dengan mencantumkan alasannya.\n(2) Dalam hal terdapat pandangan atau keberatan\nsebagaimana dimaksud daiam ayat (l), Kantor Paten segera\nmengirimkan salinan surat\nyang berisikan pandangan atau keberatan\ntersebut kepada orang yang mengajukan Permintaan paten.\n(3) Orang yang mengajukan Permintaan paten berhak\nmengajukan secara tertulis sanggahan dan penjelasan terhadap\npandangan atau keberatan\ntersebut kepada Kantor Paten.\n(4) Kantor Paten menggunakan pandangan atau\nkeberatan, sanggahan dan penjelasan sebagaimana dimaksud dalam ayat\n(l) dan ayat (3) sebagai\ntambahan bahan pertimbangan dalam tahap\npemeriksaan atas Permintaan paten yang bersangkutan."
+   }
+  },
+  {
+   "id": "ID-H454-A52",
+   "no": 52,
+   "noLabel": {
+    "id": "Pasal 52"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 52\n(1) Dengan persetujuan Menteri, Kantor Paten dapat\nmenetapkan untuk tidak mengumumkan sesuatu Permintaan paten,\napabila menurut pertimbangannya\npenemuan tersebut dan pengumumannya\ndiperkirakan akan dapat mengganggu atau bertentangan dengan\nkepentingan pertahanan keamanan Negara.\n(2) Ketetapan untuk tidak mengumumkan Permintaan\npaten sebagaimana dimaksud dalam ayat (1) diberitahukan secara\ntertulis oleh Kantor\nPaten kepada orang yang mengajukan Permintaan\npaten, dengan tembusan kepada penemu atau yang berhak atas penemuan\napabila Permintaan\npaten diajukan oleh kuasanya.\n(3) Terhadap Permintaan paten yang tidak\ndiumumkan, tidak berlaku ketentuan sebagaimana dimaksud dalam Pasal\n48 dan Pasal 49.\n(4) Konsultasi yang dilakukan Kantor Paten dengan\ninstansi Pemerintah lainnya, termasuk penyampaian informasi\nmengenai penemuan yang\ndimintakan paten, yang kemudian berakhir\ndengan ketetapan tidak diumumkannya Permintaan paten, tidak\ndianggap sebagai pelanggaran\nkewajiban untuk menjaga kerahasiaan\npenemuan dan dokumen Permintaan paten yang bersangkutan.\n(5) Ketentuan sebagaimana dimaksud dalam ayat (4)\ntidak mengurangi kewajiban instansi Pemerintah yang bersangkutan\nbeserta aparatnya\nuntuk tetap menjaga kerahasiaan penemuan dan\ndokumen Permintaan paten yang dikonsultasikan kepadanya terhadap\npihak ketiga manapun."
+   }
+  },
+  {
+   "id": "ID-H454-A53",
+   "no": 53,
+   "noLabel": {
+    "id": "Pasal 53"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 53\n(1) Terhadap Permintaan paten yang tidak\ndiumumkan, dilakukan pemeriksaan mengenai dapat diberi atau tidak\ndapat diberikannya paten,\napabila:\na. telah lewat waktu enam bulan terhitung mulai\ntanggal penetapan Kantor Paten mengenai tidak diumumkannya\nPermintaan paten yang bersangkutan;\nb. Permintaan paten tersebut tidak ditarik kembali.\n(2) Pemeriksaan terhadap Permintaan paten\nsebagaimana dimaksud dalam ayat (1) dilakukan oleh Pemerintah tanpa\nmembebani biaya pemeriksaan\nkepada orang yang mengajukan Permintaan\npaten."
+   }
+  },
+  {
+   "id": "ID-H454-A54",
+   "no": 54,
+   "noLabel": {
+    "id": "Pasal 54"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 54\nKetentuan lebih lanjut mengenai penyelenggaraan pengumuman diatur\noleh Menteri.\nBagian Kedua\nPemeriksaan"
+   }
+  },
+  {
+   "id": "ID-H454-A55",
+   "no": 55,
+   "noLabel": {
+    "id": "Pasal 55"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 55\n(1) Permintaan pemeriksaan atas Permintaan paten\nharus diajukan kepada Kantor Paten secara tertulis dan dengan\nmembayar biaya yang\nbesarnya ditetapkan oleh Menteri.\n(2) Permintaan sebagaimana dimaksud dalam ayat (1)\nadalah pemeriksaan yang bersifat substantif.\n(3) Bentuk dan syarat-syarat Permintaan\npemeriksaan diatur lebih lanjut oleh Menteri."
+   }
+  },
+  {
+   "id": "ID-H454-A56",
+   "no": 56,
+   "noLabel": {
+    "id": "Pasal 56"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 56\n(1) Permintaan untuk dilakukannya pemeriksaan\nsubstantif harus diajukan paling lambat dalam waktu 36 (tiga puluh\nenam) bulan sejak\ntanggal penerimaan Permintaan paten, tetapi tidak\nlebih awal dari tanggal berakhirnya pengumuman sebagaimana dimaksud\ndalam Pasal\n48.\n(2) Apabila Permintaan pemeriksaan tidak dilakukan\nsetelah batas waktu sebagaimana dimaksud dalam ayat (1) lewat, atau\nbiaya untuk\nitu tidak dibayar, Permintaan paten dianggap telah\nditarik kembali.\n(3) Kantor Paten memberitahukan secara tertulis\nanggapan mengenai ditariknya kembali Permintaan paten tersebut\nkepada orang yang mengajukanPermintaan\npaten, dengan tembusan\nkepada penemu atau yang berhak atas penemuan apabila Permintaan\npaten diajukan oleh kuasanya."
+   }
+  },
+  {
+   "id": "ID-H454-A57",
+   "no": 57,
+   "noLabel": {
+    "id": "Pasal 57"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 57\nDengan tidak mengurangi seluruh ketentuan terdahulu mengenai\npemeriksaan, terhadap Permintaan paten yang tidak diumumkan tidak\nberlaku\nketentuan Pasal 51."
+   }
+  },
+  {
+   "id": "ID-H454-A58",
+   "no": 58,
+   "noLabel": {
+    "id": "Pasal 58"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 58\n(1) Untuk keperluan pemeriksaan substantif, Kantor\nPaten dapat meminta bantuan ahli dan atau menggunakan fasilitas\nyang diperlukan\nkepada instansi Pemerintah lainnya.\n(2) Penggunaan bantuan ahli atau fasilitas atau\nPemeriksa Paten pada Kantor Paten lain sebagaimana dimaksud dalam\nayat (1) tetap dilakukan\ndengan memperhatikan ketentuan mengenai\nkewajiban untuk menjaga kerahasiaan penemuan yang dimintakan\npaten."
+   }
+  },
+  {
+   "id": "ID-H454-A59",
+   "no": 59,
+   "noLabel": {
+    "id": "Pasal 59"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 59\n(1) Pemeriksaan substantif dilaksanakan oleh\nPemeriksa Paten pada Kantor Paten atau instansi Pemerintah lainnya\nyang memiliki kualifikasi\nsebagai Pemeriksa Paten.\n(2) Pemeriksa Paten pada Kantor Paten berkedudukan\nsebagai pejabat fungsional dan diangkat oleh Menteri berdasarkan\nsyarat-syarat\ntertentu.\n(3) Kepada Pemeriksa Paten sebagaimana dimaksud\ndalam ayat (2) diberikan jenjang dan tunjangan fungsional disamping\nhak lainnya sesuai\ndengan peraturan perundang- undangan yang\nberlaku."
+   }
+  },
+  {
+   "id": "ID-H454-A60",
+   "no": 60,
+   "noLabel": {
+    "id": "Pasal 60"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 60\n(1) Dalam hal Pemeriksa Paten melaporkan bahwa\npenemuan yang dimintakan paten ternyata mengandung ketidakjelasan\natau kekurangan lain\nyang dinilai penting, Kantor Paten\nmemberitahukan secara tertulis hasil pemeriksaan tersebut kepada\norang yang mengajukan Permintaan\npaten.\n(2) Pemberitahuan hasil pemeriksaan harus secara\njelas dan rinci mencantumkan hal yang dinilai tidak jelas atau\nkekurangan lain yang\ndinilai penting dengan disertai alasan dan\nacuan atau referensi yang digunakan dalam pemeriksaan serta\npendapat dan saran kepada\norang yang mengajukan permintaan paten\ntermasuk kemungkinan perubahan atau perbaikan yang perlu\ndilakukannya, berikut jangka waktu\npemenuhannya.\n(3) Apabila setelah pemberitahuan sebagaimana\ndimaksud dalam ayat (1) orang yang mengajukan Permintaan paten\ntidak memberikan penjelasan\natau memenuhi kekurangan termasuk\nmelakukan perbaikan atau perubahan terhadap pemintaan yang telah\ndiajukannya dalam waktu yang ditentukan,\nKantor Paten menolak\nPermintaan paten tersebut.\nBagian Ketiga\nPemberian atau Penolakan Permintaan Paten"
+   }
+  },
+  {
+   "id": "ID-H454-A61",
+   "no": 61,
+   "noLabel": {
+    "id": "Pasal 61"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 61\nKantor Paten berkewajiban memberikan keputusan untuk menyetujui\nPermintaan paten dan dengan demikian memberi paten, atau\nmenolaknya,\ndalam waktu selambat-lambatnya dua puluh empat bulan\nterhitung sejak tanggal diterimanya surat permmtaan pemeriksaan\nsubstantif."
+   }
+  },
+  {
+   "id": "ID-H454-A62",
+   "no": 62,
+   "noLabel": {
+    "id": "Pasal 62"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 62\n(1) Apabila hasil pemeriksaan yang dilakukan oleh\nPemeriksa Paten menunjukkan bahwa penemuan yang dimintakan paten\ntidak memenuhi\nketentuan Pasal 2, Pasal 3, Pasal 5, Kantor Paten\nmenolak Permintaan paten tersebut dan memberitahukannya secara\ntertulis kepada\norang yang mengajukan Permintaan paten.\n(2) Dalam hal Permintaan paten diajukan oleh\nkuasa, maka salinan surat pemberitahuan sebagaimana dimaksud dalam\nayat (1) diberikan\npula kepada penemu atau yang berhak atas\npenemuan tersebut.\n(3) Surat Pemberitahuan yang berisikan penolakan\nPermintaan paten harus dengan jelas mencantumkan pula alasan dan\npertimbangan yang\nmenjadi dasar penolakan."
+   }
+  },
+  {
+   "id": "ID-H454-A63",
+   "no": 63,
+   "noLabel": {
+    "id": "Pasal 63"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 63\nDi samping ketentuan pasal 62, permintaan paten juga ditolak\napabila penemuan tersebut dan pelaksanaannya bertentang dengan\nperaturan\nperundang-undangan, ketertiban umum serta kesusilaan."
+   }
+  },
+  {
+   "id": "ID-H454-A64",
+   "no": 64,
+   "noLabel": {
+    "id": "Pasal 64"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 64\n(1) Apabila laporan tentang hasil pemeriksaan atas\npenemuan yang dimintakan paten yang dilakukan Pemeriksa Paten\nmenyimpulkan bahwa\npenemuan tersebut sesuai dengan ketentuan Pasal\n2, Pasal 3, Pasal 5 dan ketentuan lain dalam Undang-undang ini,\nKantor Paten memberikan\nsecara resmi Surat Paten untuk penemuan\nyang bersangkutan kepada orang yang mengajukan Permintaan paten\natau dalam hal Permintaan\npaten diajukan oleh kuasa maka salinan\nSurat Paten tersebut diberikan pula kepada penemu atau yang berhak\natas penemuan tersebut.\n(2) Paten yang telah diberikan dicatat dalam\nDaftar Umum Paten dan diumumkan dalam Berita Resmi Paten.\n(3) Kantor Paten dapat memberikan salinan dokumen\npaten kepada anggota masyarakat yang memerlukan dengan membayar\nbiaya salinan dokumen\nyang besarnya ditetapkan oleh Menteri."
+   }
+  },
+  {
+   "id": "ID-H454-A65",
+   "no": 65,
+   "noLabel": {
+    "id": "Pasal 65"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 65\n(1) Surat Paten merupakan bukti pemberian paten\noleh Kantor Paten dan dicatat dalam Buku Daftar Umum Paten.\n(2) Surat yang berisikan penolakan Permintaan\npaten, dicatat dalam Buku Resmi Paten yang mencatat Permintaan\npaten yang bersangkutan.\n(3) Pemberian Surat Paten dan penolakan Permintaan\npaten diumumkan oleh Kantor Paten dengan cara yang sama seperti\nhalnya pengumuman\nPermintaan paten."
+   }
+  },
+  {
+   "id": "ID-H454-A66",
+   "no": 66,
+   "noLabel": {
+    "id": "Pasal 66"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 66\nPaten mulai berlaku pada tanggal diberikan dan berlaku surut sejak\ntanggal penerimaan Permintaan paten."
+   }
+  },
+  {
+   "id": "ID-H454-A67",
+   "no": 67,
+   "noLabel": {
+    "id": "Pasal 67"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 67\n(1) Ketentuan lebih lanjut mengenai pemberian\nSurat Paten, berikut bentuk dan isinya diatur dengan Peraturan\nPemerintah.\n(2) Ketentuan lain mengenai pencatatan dan\nPermintaan salinan dokumen paten diatur oleh Menteri.\nBagian Keempat\nPermintaan Banding"
+   }
+  },
+  {
+   "id": "ID-H454-A68",
+   "no": 68,
+   "noLabel": {
+    "id": "Pasal 68"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 68\n(1) Permintaan banding dapat diajukan terhadap\npenolakan Permintaan paten yang berkaitan dengan alasan dan dasar\npertimbangan mengenai\nhal-hal yang bersifat substantif sebagaimana\ndimaksud dalam Pasal 62 ayat (l).\n(2) Permintaan banding diajukan secara tertulis\noleh orang yang mengajukan Permintaan paten atau kuasanya kepada\nKomisi Banding Paten,\ndengan tembusan yang disampaikan kepada\nKantor Paten.\n(3) Komisi Banding Paten adalah badan khusus yang\ndiketuai secara tetap oleh seorang ketua merangkap anggota dan\nberada di lingkungan\ndepartemen yang dipimpin Menteri.\n(4) Anggota Komisi Banding Paten berjum|ah ganjil\nsekurang-kurangnya tiga orang, terdiri dari beberapa ahli di bidang\nyang diperlukan\ndan pemeriksa paten senior yang tidak melakukan\npemeriksaan substan terhadap Permintaan paten yang\nbersangkutan.\n(5) Ketua dan anggota Komisi Banding Paten\ndiangkat dan diberhentikan oleh Menteri."
+   }
+  },
+  {
+   "id": "ID-H454-A69",
+   "no": 69,
+   "noLabel": {
+    "id": "Pasal 69"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 69\n(1) Permintaan banding diajukan dengan menguraikan\nsecara lengkap keberatan terhadap penolakan Permintaan paten\nberikut alasannya.\n(2) Alasan sebagaimana dimaksud dalam ayat (1)\nharus tidak merupakan alasan atau penjelasan atau bukti yang baru\natau merupakan perbaikan\natau penyempurnaan Permintaan paten yang\nditolak."
+   }
+  },
+  {
+   "id": "ID-H454-A70",
+   "no": 70,
+   "noLabel": {
+    "id": "Pasal 70"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 70\n(1) Permintaan banding harus diajukan\nselambat-lambatnya dalam waktu tiga bulan terhitung sejak tanggal\nsurat pemberitahuan penolakan\nPermintaan paten.\n(2) Apabila jangka waktu Permintaan banding\ntersebut telah lewat tanpa adanya Permintaan banding, maka\npenolakan Permintaan paten\ndianggap diterima oleh orang yang\nmengajukan Permintaan paten.\n(3) Dalam hal penolakan Permintaan paten telah\ndianggap diterima sebagaimana dimaksud dalam ayat (2), Kantor Paten\nmencatatnya dalam\nBuku Resmi Paten."
+   }
+  },
+  {
+   "id": "ID-H454-A71",
+   "no": 71,
+   "noLabel": {
+    "id": "Pasal 71"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 71\n(1) Keputusan Komisi Banding Paten atas permintaan\nbanding diberikan selambat-lambatnya dua belas bulan sejak tanggal\npenerimaan Permintaan\nbanding.\n(2) Keputusan Komisi Banding Paten bersifat final.\n(3) Dalam hal Komisi Banding Paten menerima\nPermintaan banding, Kantor Paten memberikan Surat Paten sebagaimana\ndiatur dalam Undang-undang\nini.\n(4) Apabila Komisi Banding Paten menolak\nPermintaan banding Kantor Paten segera memberitahukan penolakan\ntersebut."
+   }
+  },
+  {
+   "id": "ID-H454-A72",
+   "no": 72,
+   "noLabel": {
+    "id": "Pasal 72"
+   },
+   "chapter": {
+    "id": "BAB IV / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 72\nSusunan organisasi, tata kerja Komisi Banding Paten, tata cara\nPermintaan dan pemeriksaan banding serta penyelesaiannya diatur\nlebih\nlanjut dengan Peraturan Pemerintah.\nBAB V\nPENGALIHAN PATEN\nBagian Pertama\nPengalihan Pemilikan"
+   }
+  },
+  {
+   "id": "ID-H454-A73",
+   "no": 73,
+   "noLabel": {
+    "id": "Pasal 73"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 73\n(1) Paten atau pemilikan paten dapat beralih atau\ndialihkan baik seluruhnya maupun sebagian karena:\na. pewarisan;\nb. hibah;\nc. wasiat;\nd. perjanjian, dengan ketentuan bahwa perjanjian\nitu harus dibuat dalam bentuk Akta Notaris;\ne. sebab-sebab lain yang dibenarkan oleh Undang-undang.\n(2) Pengalihan paten sebagaimana dimaksud dalam\nayat (1) huruf a, b dan c, harus disertai dengan dokumen paten\nberikut hak lain yang\nberkaitan dengan paten itu.\n(3) Segala bentuk pengalihan paten sebagaimana\ndimaksud dalam ayat (1) wajib didaftarkan pada Kantor Paten dan\ndicatat dalam Daftar\nUmum Paten dengan membayar biaya yang besarnya\nditetapkan oleh Menteri.\n(4) Pelaksanaan pengalihan yang tidak sesuai\ndengan ketentuan Pasal ini adalah tidak sah dan tidak\nberlaku.\n(5) Syarat dan tata cara pendaftaran dan\npencatatan pengalihan paten diatur lebih lanjut oleh Menteri."
+   }
+  },
+  {
+   "id": "ID-H454-A74",
+   "no": 74,
+   "noLabel": {
+    "id": "Pasal 74"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 74\n(1) Kecuali dalam hal pewarisan dan dalam hal\npemindahan atau pengalihan yang dilakukan bersamaan dengan sebagian\natau seluruh usahanya,\nhak sebagai pencmu terdahulu tidak dapat\ndipindahkan atau dialihkan kepada orang lain.\n(2) Pemindahan atau pengalihan hak sebagai penemu\nterdahulu wajib didaftarkan pada Kantor Paten, yang selanjutnya\nmencatatnya dalam\nDaftar Umum Paten.\n(3) Kantor Paten mengumumkan pemindahan atau\npengalihan hak sebagaimana dimaksud dalam ayat (2) dalam Berita\nResmi Paten."
+   }
+  },
+  {
+   "id": "ID-H454-A75",
+   "no": 75,
+   "noLabel": {
+    "id": "Pasal 75"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 75\nPeralihan pemilikan paten tidak menghapus hak penemu untuk tetap\ndicantumkan nama dan identitas lainnya dalam paten yang\nbersangkutan.\nBagian Kedua\nLisensi"
+   }
+  },
+  {
+   "id": "ID-H454-A76",
+   "no": 76,
+   "noLabel": {
+    "id": "Pasal 76"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 76\n(1) Pemegang Paten berhak memberi lisensi kepada\norang lain berdasarkan surat perjanjian lisensi untuk melaksanakan\nperbuatan sebagaimana\ndimaksud dalam Pasal 17.\n(2) Kecuali jika diperjanjikan lain, maka lingkup\nlisensi sebagaimana dimaksud dalam ayat (1) meliputi semua\nperbuatan sebagaimana\ndimaksud dalam Pasal 17, berlangsung selama\njangka waktu lisensi diberikan dan berlaku untuk seluruh wilayah\nNegara Republik Indonesia."
+   }
+  },
+  {
+   "id": "ID-H454-A77",
+   "no": 77,
+   "noLabel": {
+    "id": "Pasal 77"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 77\nKecuali jika diperjanjikan lain, maka Pemegang Paten tetap boleh\nmelaksanakan sendiri atau memberi lisensi kepada pihak ketiga\nlainnya\nuntuk melaksanakan perbuatan sebagaimana dimaksud dalam\nPasal 17."
+   }
+  },
+  {
+   "id": "ID-H454-A78",
+   "no": 78,
+   "noLabel": {
+    "id": "Pasal 78"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 78\n(1) Perjanjian lisensi dilarang memuat ketentuan\nyang langsung maupun tidak langsung dapat menimbulkan akibat yang\nmerugikan perekonomian\nIndonesia atau memuat pembatasan yang\nmenghambat kemampuan bangsa Indonesia dalam menguasai dan\nmengembangkan teknologi pada umumnya\ndan yang berkaitan dengan\npenemuan yang diberi paten tersebut pada khususnya.\n(2) Pendaftaran dan Permintaan pencatatan\nperjanjian lisensi yang memuat ketentuan sebagaimana dimaksud dalam\nayat (1) harus ditolak\noleh Kantor Paten."
+   }
+  },
+  {
+   "id": "ID-H454-A79",
+   "no": 79,
+   "noLabel": {
+    "id": "Pasal 79"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 79\n(1) Perjanjian lisensi wajib didaftarkan pada\nKantor Paten dan dicatat dalam Daftar Umum Paten dengan membayar\nbiaya yang besarnya\nditetapkan dengan Menteri.\n(2) Syarat dan tata cara pencatatan perjanjian\nlisensi diatur lebih lanjut dengan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H454-A80",
+   "no": 80,
+   "noLabel": {
+    "id": "Pasal 80"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 80\nKetentuan lebih lanjut mengenai perjanjian lisensi diatur dengan\nPeraturan Pemerintah.\nBagian Ketiga\nLisensi Wajib"
+   }
+  },
+  {
+   "id": "ID-H454-A81",
+   "no": 81,
+   "noLabel": {
+    "id": "Pasal 81"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 81\nLisensi Wajib adalah lisensi untuk melaksanakan suatu paten yang\ndiberikan oleh Pengadilan Negeri setelah mendengar Pemegang Paten\nyang bersangkutan."
+   }
+  },
+  {
+   "id": "ID-H454-A82",
+   "no": 82,
+   "noLabel": {
+    "id": "Pasal 82"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 82\n(1) Setiap orang setelah lewat Jangka waktu 36\n(tiga puluh enam) bulan terhitung sejak tanggal pemberian paten,\ndapat mengajukan Permintaan\nLisensi Wajib kepada Pengadilan Negeri\nuntuk melaksanakan paten yang bersangkutan.\n(2) Permintaan Lisensi Wajib sebagaimana dimaksud\ndalam ayat (1) hanya dapat dilakukan dengan alasan bahwa paten yang\nbersangkutan\ntidak dilaksanakan di Indonesia oleh Pemegang Paten\npadahal kesempatan untuk melaksanakannya secara komersial\nsepatutnya ditempuh.\n(3) Dengan memperhatikan kemampuan dan\nperkembangan keadaan, Pemerintah dapat menetapkan bahwa pada tahap\nawal pelaksanaan Undang-undang\nini Permintaan Lisensi Wajib\ndiajukan kepada Pengadilan Negeri tertentu."
+   }
+  },
+  {
+   "id": "ID-H454-A83",
+   "no": 83,
+   "noLabel": {
+    "id": "Pasal 83"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 83\n(1) Selain kebenaran alasan sebagaimana dimaksud\ndalam Pasal 82 ayat (2), Lisensi Wajib hanya dapat diberikan\napabila:\na. orang yang mengajukan Permintaan tersebut dapat\nmenunjukkan bukti yang meyakinkan bahwa ia:\n(1) mempunyai kemampuan untuk melaksanakan sendiri\npaten yang bersangkutan secara penuh.\n(2) mempunyai sendiri fasilitas untuk melaksanakan\npaten yang bersangkutan secepatnya.\nb. Pengadilan Negeri berpendapat bahwa paten\ntersebut dapat dilaksanakan di Indonesia dalam skala ekonomi yang\nlayak dan dapat memberi\nkemanfaatan kepada sebagian besar\nmasyarakat.\n(2) Pemeriksaan atas Permintaan Lisensi Waiib\ndilakukan oleh Pengadilan Negeri dalam suatu persidangan dengan\nmendengarkan pula pendapat\nahli dari Kantor Paten dan Pemegang\nPaten yang bersangkutan.\n(3) Lisensi Wajib diberikan untuk jangka waktu\nyang tidak lebih lama dari jangka waktu pelaksanaan paten yang\ndiatur lebih lanjut\ndengan Peraturan Pemerintah."
+   }
+  },
+  {
+   "id": "ID-H454-A84",
+   "no": 84,
+   "noLabel": {
+    "id": "Pasal 84"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 84\nApabila berdasarkan bukti serta pendapat sebagaimana dimaksud dalam\nPasal 83 Pengadilan Negeri memperoleh keyakinan bahwa jangka\nwaktu\nsebagaimana dimaksud dalam Pasal 82 belum cukup bagi Pemegang Paten\nuntuk melaksanakannya secara komersial di Indonesia, Pengadilan\nNegeri dapat menetapkan penundaan untuk sementara waktu proses\npersidangan tersebut atau menolaknya."
+   }
+  },
+  {
+   "id": "ID-H454-A85",
+   "no": 85,
+   "noLabel": {
+    "id": "Pasal 85"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 85\n(1) Pelaksanaan Lisensi Wajib disertai dengan\npemberian pembayaran royalti oleh Pemegang Lisensi Wajib kepada\nPemegang Paten.\n(2) Besarnya royalti yang harus dibayarkan dan\ncara pembayarannya, ditetapkan Pengadilan Negeri yang memberikan\nLisensi Wajib.\n(3) Penetapan besarnya royalti dilakukan dengan\nmemperhatikan tata cara yang lazim digunakan dalam perjanjian\nlisensi paten atau yang\nlainnya yang sejenis."
+   }
+  },
+  {
+   "id": "ID-H454-A86",
+   "no": 86,
+   "noLabel": {
+    "id": "Pasal 86"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 86\nDalam putusan Pengadilan Negeri mengenai pemberian Lisensi Wajib\ndicantumkan hal-hal sebagai berikut:\na. alasan pemberian Lisensi Wajib;\nb. bukti termasuk keterangan atau penjelasan yang\ndiyakini untuk dijadikan dasar pemberian Lisensi Wajib;\nc. jangka waktu Lisensi Wajib;\nd. besarnya royalti yang harus dibayarkan Pemegang\nLisensi Wajib kepada Pemegang Paten dan cara pembayarannya;\ne. syarat berakhirnya Lisensi Wajib dan hal yang dapat\nmembatalkannya;\nf. lain-lain yang diperlukan untuk menjaga\nkepentingan para pihak yang bersangkutan secara adil."
+   }
+  },
+  {
+   "id": "ID-H454-A87",
+   "no": 87,
+   "noLabel": {
+    "id": "Pasal 87"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 87\n(1) Pemegang Lisensi Wajib berkewajiban\nmendaftarkan Lisensi Wajib yang diterimanya pada Kantor Paten dan\ndicatat dalam Daftar Umum\nPaten.\n(2) Lisensi Wajib yang telah didaftarkan\nsecepatnya diumumkan oleh Kantor Paten dalam Berita Resmi\nPaten.\n(3) Atas pendaftaran Lisensi Wajib dikenakan biaya\nyang besarnya ditetapkan Menteri.\n(4) Lisensi Wajib baru dapat dilaksanakan setelah\ndidaftarkan dan dibayarnya biaya sebagaimana dimaksud dalam ayat\n(3).\n(5) Pelaksanaan Lisensi Wajib dianggap sebagai pelaksanaan\npaten."
+   }
+  },
+  {
+   "id": "ID-H454-A88",
+   "no": 88,
+   "noLabel": {
+    "id": "Pasal 88"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 88\n(1) Lisensi Wajib dapat pula sewaktu-waktu\ndimintakan oleh Pemegang Paten atas dasar alasan bahwa pelaksanaan\npatennya tidak mungkin\ndapat dilakukan tanpa melanggar paten\nlainnya yang telah ada.\n(2) Permintaan Lisensi Wajib sebagaimana dimaksud\ndalam ayat (1) hanya dapat dipertimbangkan apabila paten yang akan\ndilaksanakan\nbenar-benar mengandung unsur pembaharuan teknologi\nyang nyata-nyata lebih maju daripada paten yang telah ada\ntersebut.\n(3) Ketentuan mengenai pengajuan Permintaan kepada\nPengadilan Negeri, pembayaran royalti, isi putusan pengadilan,\npendaftaran dan\npencatatan, serta jangka waktu atau pembatalan\nLisensi Wajib yang diatur dalam Bagian Ketiga Bab ini berlaku pula\ndalam hal Permintaan\nLisensi Wajib sebagaimana dimaksud dalam ayat\n(1) dan ayat (2) kecuali ketentuan mengenai jangka waktu pengajuan\nPermintaan sebagaimana\ndiatur dalam Pasal 82 ayat (1)."
+   }
+  },
+  {
+   "id": "ID-H454-A89",
+   "no": 89,
+   "noLabel": {
+    "id": "Pasal 89"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 89\n(1) Atas Permintaan Pemegang Paten, Pengadilan\nNegeri dapat membatalkan Lisensi Wajib yang semula diberikannya\napabila:\na. alasan yang dijadikan dasar bagi pemberian\nLisensi Wajib tidak ada lagi;\nb. Penerima Lisensi Waiib ternyata tidak\nmelaksanakan Lisensi Wajib tersebut atau tidak melakukan usaha\npersiapan yang sepantasnya\nuntuk segera melaksanakannya;\nc. Penerima Lisensi Wajib tidak lagi mentaati\nsyarat dan ketentuan lainnya termasuk kewajiban pembayaran royalti\nyang ditetapkan dalam\npemberian Lisensi Wajib.\n(2) Dalam hal Pengadilan Negeri memutuskan\npembatalan Lisensi Wajib, selambat-lambatnya 14 (empat belas) hari\nsejak tanggal putusan\nPengadilan Negeri wajib menyampaikan salinan\nputusan tersebut kepada Kantor Paten untuk dicatat dalam Daftar\nUmum Paten dan diumumkan\ndalam Berita Resmi Paten.\n(3) Kantor Paten wajib memberitahukan pencatatan\ndan pengumuman putusan Pengadilan Negeri sebagaimana dimaksud dalam\nayat (2) kepada\nPemegang Paten, Pemegang Lisensi Wajib yang\ndibatalkan dan Pengadilan Negeri yang memutuskan pembatalan\ntersebut selambat-lambatnya\n14 (empat belas) hari sejak Kantor\nPaten menerima salinan putusan Pengadilan Negeri tersebut."
+   }
+  },
+  {
+   "id": "ID-H454-A90",
+   "no": 90,
+   "noLabel": {
+    "id": "Pasal 90"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 90\n(1) Lisensi Wajib berakhir dengan selesainya\njangka waktu yang ditetapkan dalam pemberiannya, dibatalkan atau\ndalam hal Pemegang Lisensi\nWajib menyerahkan kembali lisensi yang\ndiperolehnya kepada Kantor Paten sebelum jangka waktu tersebut\nberakhir.\n(2) Kantor Paten mencatat Lisensi Wajib yang telah\nberakhir jangka waktunya dalam buku Daftar Umum Paten, mengumumkan\ndalam Berita\nResmi Paten dan memberitahukannya secara tertulis\nkepada Pemegang Paten serta Pengadilan Negeri yang memutuskan\npemberiannya.\nPasal 9l\nBatal atau berakhirnya Lisensi Wajib sebagaimana dimaksud dalam\nPasal 89 dan Pasal 90 berakibat pulihnya hak Pemegang Paten atas\npaten yang bersangkutan terhitung sejak tanggal pencatatannya dalam\nDaltar Umun Paten."
+   }
+  },
+  {
+   "id": "ID-H454-A92",
+   "no": 92,
+   "noLabel": {
+    "id": "Pasal 92"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 92\n(1) Lisensi Wajib tidak dapat dialihkan kecuali karena\npewarisan.\n(2) Lisensi Wajib yang beralih karena pewarisan\ntetap terikat oleh syarat pemberianya dan ketentuan lainnya\nterutama mengenai jangka\nwaktu dan harus dilaporkan kepada Kantor\nPaten untuk dicatat dan dimuat dalam Daftar Umum Paten."
+   }
+  },
+  {
+   "id": "ID-H454-A93",
+   "no": 93,
+   "noLabel": {
+    "id": "Pasal 93"
+   },
+   "chapter": {
+    "id": "BAB V / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 93\nKetentuan lebih lanjut mengenai Lisensi Wajib diatur dengan\nPeraturan Pemerintah.\nBAB VI\nPEMBATALAN PATEN\nBagian Pertama\nPaten Yang Batal Demi Hukum"
+   }
+  },
+  {
+   "id": "ID-H454-A94",
+   "no": 94,
+   "noLabel": {
+    "id": "Pasal 94"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 94\n(1) Paten dinyatakan batal demi hukum oleh Kantor Paten dalam\nhal:\na. tidak dilaksanakan dalam jangka waktu empat\npuluh delapan bulan sejak tanggal pemberian paten.\nb. Tidak dipenuhi kewajiban membayar biaya tahunan\ndalam jangka waktu yang diatur dalam Undang-undang ini.\n(2) Dikecualikan dari ketentuan ayat (1) adalah\npaten sebagaimana dimaksud dalam Pasal 105 ayat (2)."
+   }
+  },
+  {
+   "id": "ID-H454-A95",
+   "no": 95,
+   "noLabel": {
+    "id": "Pasal 95"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 95\n(1) Batalnya paten demi hukum diberitahukan secara\ntertulis oleh Kantor Paten kepada Pemegang Paten dan Pemegang\nLisensi Paten yang\nbersangkutan serta mulai berlaku sejak tanggal\npemberitahuan tersebut.\n(2) Batalnya Paten dengan alasan sebagaimana\ndimaksud dalam Pasal ayat (1) dicatat dalam Daftar Umum Paten dan\ndiumumkan dalam Berita\nResmi Paten.\nBagian Kedua\nPembatalan Paten Atas Permintaan Pemegang Paten"
+   }
+  },
+  {
+   "id": "ID-H454-A96",
+   "no": 96,
+   "noLabel": {
+    "id": "Pasal 96"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 96\n(1) Paten dapat dibatalkan oleh Kantor Paten untuk\nseluruhnya atau sebagian atas Permintaan Pemegang Paten yang\ndiajukan secara tertulis\nkepada Kantor Paten.\n(2) Pembatalan paten sebagaimana dimaksud dalam\nayat (1) tidak dapat dilakukan, jika orang yang menurut catatan\ndalam Daftar Umum\nPaten memegang lisensi untuk melaksanakan paten\nyang bersangkutan tidak memberikan persetujuan secara tertulis yang\ndilampirkan pada\nPermintaan pembatalan tersebut.\n(3) Keputusan pembatalan paten diberitahukan\nsecara tertulis oleh Kantor Paten kepada Pemegang Paten dan kepada\norang yang menurut\ncatatan dalam Daftar Umum Paten menjadi Pemegang\nLisensi Paten yang bersangkutan.\n(4) Keputusan pembatalan paten karena alasan\nsebagaimana dimaksud dalam ayat (1) dicatat dalam Daftar Umum Paten\ndan diumumkan dalam\nBerita Resmi Paten.\n(5) Pembatalan paten berlaku sejak tanggal\nditetapkannya keputusan Kantor Paten mengenai pembatalan\ntersebut.\nBagian Ketiga\nPembatalan Paten Karena Gugatan"
+   }
+  },
+  {
+   "id": "ID-H454-A97",
+   "no": 97,
+   "noLabel": {
+    "id": "Pasal 97"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 97\n(1) Gugatan pembatalan paten dapat dilakukan dalam hal:\na. menurut ketentuan sebagaimana dimaksud dalam\nPasal 2 dan Pasal 7, paten tersebut seharusnya tidak\ndiberikan;\nb. paten tersebut sama dengan paten lain yang\ntelah diberikan kepada orang lain untuk penemuan yang sama\nberdasarkan Undang-undang\nini:\n(2) Gugatan pembatalan karena alasan sebagaimana\ndimaksud dalam ayat (1) huruf a diajukan pihak ketiga kepada\nPemegang Paten melalui\nPengadilan Negeri Jakarta Pusat.\n(3) Gugatan pembatalan karena alasan sebagaimana\ndimaksud dalam ayat (1) huruf b dapat diajukan Pemegang Paten atau\nPemegang Lisensi\nkepada Pengadilan Negeri Jakarta Pusat agar paten\nlain yang sama dengan patennya dibatalkan."
+   }
+  },
+  {
+   "id": "ID-H454-A98",
+   "no": 98,
+   "noLabel": {
+    "id": "Pasal 98"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 98\nJika gugatan pembatalan paten sebagaimana dimaksud dalam Pasal 97\nhanya mengenai satu atau beberapa klaim atau bagian dari klaim,\nmaka pembatalan diberikan hanya terhadap hal yang digugat\npembatalannya."
+   }
+  },
+  {
+   "id": "ID-H454-A99",
+   "no": 99,
+   "noLabel": {
+    "id": "Pasal 99"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 99\n(1) Salinan gugatan dan putusan Pengadilan Negeri\nJakarta Pusat tentang pembatalan paten harus segera disampaikan\noleh Panitera Pengadilan\nNegeri Jakarta Pusat kepada Kantor\nPaten.\n(2) Kantor Paten mencatat gugatan dan putusan\ntentang pembatalan paten dicatat dalam Daftar Umum Paten dan\ndiumumkan dalam Berita\nResmi Paten.\nBagian Keempat\nAkibat Pembatalan Paten"
+   }
+  },
+  {
+   "id": "ID-H454-A100",
+   "no": 100,
+   "noLabel": {
+    "id": "Pasal 100"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 100\nPembatalan paten menghapuskan segala akibat hukum yang berkaitan\ndengan paten dan hak- hak lainnya yang berasal dari paten\ntersebut."
+   }
+  },
+  {
+   "id": "ID-H454-A101",
+   "no": 101,
+   "noLabel": {
+    "id": "Pasal 101"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 101\nKecuali jika ditentukan lain dalam putusan Pengadilan Negeri\nJakarta Pusat, pembatalan paten untuk seluruhnya atau sebagian\nberlaku\nsejak tanggal putusan pembatalan tersebut."
+   }
+  },
+  {
+   "id": "ID-H454-A102",
+   "no": 102,
+   "noLabel": {
+    "id": "Pasal 102"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 102\n(1) Pemegang Lisensi dari paten yang batal demi\nhukum, tetap berhak melaksanakan lisensi yang dimilikinya sampai\ndengan berakhirnya\njangka waktu yang ditetapkan dalam perjanjian\nlisensi.\n(2) Pemegang Lisensi sebagaimana dimaksud dalam\nayat (1) tidak lagi wajib meneruskan pembayaran royalti yang\nseharusnya masih wajib\ndilakukannya.\n(3) Dalam hal Pemegang Paten terlebih dahulu sudah\nmenerima secara sekaligus royalti dari Pemegang Lisensi, Pemegang\nPaten tersebut\ntidak berkewajiban mengembalikan jumlah royalti yang\nsebanding dengan sisa jangka waktu penggunaan lisensi."
+   }
+  },
+  {
+   "id": "ID-H454-A103",
+   "no": 103,
+   "noLabel": {
+    "id": "Pasal 103"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 103\n(1) Lisensi dari paten yang dinyatakan batal oleh\nsebab-sebab sebagaimana dimaksud dalam Pasal 97 ayat (1) huruf b\nyang diperoleh\ndengan itikad baik sebelum diajukannya gugatan\npembatalan atas paten yang bersangkutan, tetap berlaku terhadap\npaten lainnya.\n(2) Lisensi sebagaimana dimaksud dalam ayat (1)\ntetap berlaku dengan ketentuan bahwa Pemegang Lisensi tersebut\nuntuk selanjutnya tetap\nwajib membayar royalti kepada Pemegang\nPaten yang tidak dibatalkan, yang besarnya sama dengan jumlah yang\ndiperjanjikan sebelumnya\ndengan Pemegang Paten yang patennya\ndibatalkan.\nBAB VII\nPELAKSANAAN PATEN OLEH PEMERINTAH"
+   }
+  },
+  {
+   "id": "ID-H454-A104",
+   "no": 104,
+   "noLabel": {
+    "id": "Pasal 104"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 104\n(1) Apabila Pemerintah berpendapat bahwa suatu\npaten di Indonesia sangat penting artinya bagi penyelenggaraan\npertahanan keamanan\nNegara, Pemerintah dapat melaksanakan sendiri\npaten yang bersangkutan.\n(2) Keputusan untuk melaksanakan sendiri suatu\npaten ditetapkan dengan Keputusan Presiden setelah mendengar\npertimbangan Menteri dan\nMenteri yang bertanggung jawab di bidang\npertahanan keamanan Negara."
+   }
+  },
+  {
+   "id": "ID-H454-A105",
+   "no": 105,
+   "noLabel": {
+    "id": "Pasal 105"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 105\n(1) Ketentuan Pasal 104 berlaku pula bagi penemuan\nyang dimintakan paten tetapi tidak diumumkan sebagaimana dimaksud\ndalam Pasal 52.\n(2) Dalam hal Pemerintah tidak atau belum\nbermaksud untuk melaksanakan sendiri paten sebagaimana dimaksud\ndalam ayat (1), pelaksanaan\npaten serupa itu hanya dapat dilakukan\ndengan persetujuan Pemerintah.\n(3) Pemegang Paten sebagaimana dimaksud dalam ayat\n(2) dibebaskan dari kewajiban pembayaran biaya tahunan sampai\ndengan paten tersebut\ndapat dilaksanakan."
+   }
+  },
+  {
+   "id": "ID-H454-A106",
+   "no": 106,
+   "noLabel": {
+    "id": "Pasal 106"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 106\n(1) Dalam hal Pemerintah bermaksud melaksanakan\nsendiri suatu paten yang penting artinya bagi penyelenggaraan\npertahanan keamanan\nNegara, Pemerintah memberitahukan secara\ntertulis hal tersebut kepada Pemegang Paten dengan\nmencantumkan:\na. paten yang dimaksudkan dengan nama dan\nnomornya;\nb. alasan;\nc. jangka waktu pelaksanaan;\nd. lain-lain yang dipandang penting.\n(2) Pelaksanaan paten oleh Pemerintah dilakukan\ndengan pemberian imbalan yang wajar kepada Pemegang Paten."
+   }
+  },
+  {
+   "id": "ID-H454-A107",
+   "no": 107,
+   "noLabel": {
+    "id": "Pasal 107"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 107\n(1) Keputusan Pemerintah bahwa suatu paten akan\ndilaksanakan sendiri oleh Pemerintah bersifat final.\n(2) Dalam hal Pemegang Paten tidak setuju terhadap\nbesarnya imbalan yang ditetapkan Pemerintah, maka keberatan\nmengenai hal tersebut\ndapat diajukan kepada Pengadilan Negeri\nJakarta Pusat.\n(3) Keberatan sebagaimana dimaksud dalam ayat (2)\ndiajukan sebagai gugatan perdata.\n(4) Proses pemeriksaan gugatan sebagaimana\ndimaksud dalam ayat (3) tidak menghentikan pelaksanaan paten oleh\nPemerintah."
+   }
+  },
+  {
+   "id": "ID-H454-A108",
+   "no": 108,
+   "noLabel": {
+    "id": "Pasal 108"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 108\nPelaksanaan lebih lanjut bagi ketentuan yang terdapat dalam Bab ini\ndiatur dengan Peraturan Pemerintah.\nBAB VIII\nPATEN SEDERHANA"
+   }
+  },
+  {
+   "id": "ID-H454-A109",
+   "no": 109,
+   "noLabel": {
+    "id": "Pasal 109"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 109\nKecuali untuk hal-hal yang secara khusus diatur untuk Paten\nSederhana, ketentuan lain mengenai paten sebagaimana diatur dalam\nUndang-undang\nini berlaku pula bagi Paten Sederhana."
+   }
+  },
+  {
+   "id": "ID-H454-A110",
+   "no": 110,
+   "noLabel": {
+    "id": "Pasal 110"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 110\n(1) Paten Sederhana hanya diberikan untuk satu klaim.\n(2) Terhadap Permintaan Paten Sederhana langsung\ndilakukan pemeriksaan yang bersifat substantif."
+   }
+  },
+  {
+   "id": "ID-H454-A111",
+   "no": 111,
+   "noLabel": {
+    "id": "Pasal 111"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 111\n(1) Untuk Paten Sederhana diberikan Surat Paten Sederhana oleh\nKantor Paten.\n(2) Paten Sederhana yang diberikan Kantor Paten\nsebagaimana dimaksud dalam ayat (l) dicatat dalam Daftar Umum Paten\nSederhana.\n(3) Terhadap keputusan penolakan Permintaan Paten\nSederhana tidak dapat dimintakan banding kepada Komisi Banding\nPaten."
+   }
+  },
+  {
+   "id": "ID-H454-A112",
+   "no": 112,
+   "noLabel": {
+    "id": "Pasal 112"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 112\n(1) Jangka waktu Paten Sederhana sebagaimana\ndimaksud dalam Pasal 10 tidak dapat diperpanjang.\n(2) Untuk Paten Sederhana tidak dapat dimintakan Lisensi Wajib."
+   }
+  },
+  {
+   "id": "ID-H454-A113",
+   "no": 113,
+   "noLabel": {
+    "id": "Pasal 113"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 113\nKetentuan lebih lanjut mengenai Paten Sederhana, diatur oleh\nMenteri.\nBAB IX\nB I A Y A"
+   }
+  },
+  {
+   "id": "ID-H454-A114",
+   "no": 114,
+   "noLabel": {
+    "id": "Pasal 114"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 114\n(1) Untuk setiap pengajuan Permintaan paten,\nPermintaan pemeriksaan, perpanjangan jangka waktu paten, Surat\nKeterangan Pemakai Terdahulu,\npetikan Daftar Umum Paten dan salinan\nSurat Paten, salinan Dokumen Paten, pencatatan pengalihan paten,\npendaftaran Surat Perjanjian\nLisensi, pendaftaran Lisensi Wajib,\nserta lain-lainnya yang ditentukan dalam Undang-undang ini, wajib\nmembayar biaya yang besarnya\nditetapkan dengan Keputusan\nMenteri.\n(2) Ketentuan lebih lanjut mengenai persyaratan,\njangka waktu dan tata cara pembayaran biaya diatur oleh\nMenteri."
+   }
+  },
+  {
+   "id": "ID-H454-A115",
+   "no": 115,
+   "noLabel": {
+    "id": "Pasal 115"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 115\nPembayaran biaya tahunan untuk pertama kali harus dilakukan\nselambat-lambatnya setahun terhitung sejak tanggal pemberian paten\natau\npencatatan lisensi dan untuk pembayaran tiap- tiap tahun\nberikutnya selama paten atau lisensi itu berlaku harus dilakukan\nselambat-\nlambatnya pada tanggal yang sama dengan tanggal pemberian\npaten atau pencatatan lisensi yang bersangkutan."
+   }
+  },
+  {
+   "id": "ID-H454-A116",
+   "no": 116,
+   "noLabel": {
+    "id": "Pasal 116"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 116\n(1) Apabila selama 3 (tiga) tahun berturut-turut\nPemegang Paten tidak membayar biaya tahunan sebagaimana ditentukan\ndalam Pasal 19\ndan Pasal 115, maka paten dianggap berakhir\nterhitung sejak tanggal yang menjadi akhir batas waktu kewajiban\npembayaran untuk tahun\nyang ketiga tersebut.\n(2) Apabila tidak dipenuhinya kewajiban pembayaran\nbiaya tahunan tersebut berkaitan dengan kewajiban pembayaran biaya\ntahunan untuk\ntahun kedua belas dan selanjutnya maka paten dianggap\nberakhir pada akhir batas waktu kewajiban pembayaran biaya tahunan\nuntuk tahun\nyang bersangkutan.\n(3) Berakhirnya jangka waktu paten karena alasan\nsebagaimana dimaksud dalam ayat (l) dicatat dalam Daftar Umum Paten\ndan diumumkan\ndalam Berita Resmi Paten."
+   }
+  },
+  {
+   "id": "ID-H454-A117",
+   "no": 117,
+   "noLabel": {
+    "id": "Pasal 117"
+   },
+   "chapter": {
+    "id": "BAB IX"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 117\n(1) Kecuali dalam hal sebagaimana dimaksud dalam\nPasal 116 ayat (3), pembayaran biaya tahunan yang terlambat\ndilakukan dari batas\nwaktu sebagaimana ditentukan dalam Pasal 115\ndikenakan biaya tambahan sebesar dua puluh lima perseratus untuk\ntiap tahun.\n(2) Keterlambatan pembayaran biaya tahunan\nsebagaimana dimaksud dalam ayat (l) diberitahukan secara tertulis\noleh Kantor Paten dalam\nwaktu tujuh hari setelah lewatnya batas\nwaktu yang ditentukan kepada Pemegang Paten yang\nbersangkutan.\n(3) Tidak diterimanya surat pemberitahuan\nsebagaimana dimaksud dalam ayat (2) oleh yang bersangkutan tidak\nmengurangi berlakunya ketentuan\nsebagaimana dimaksud dalam ayat\n(l).\nBAB X\nPENGELOLAAN PATEN"
+   }
+  },
+  {
+   "id": "ID-H454-A118",
+   "no": 118,
+   "noLabel": {
+    "id": "Pasal 118"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 118\n(1) Penyelenggaraan administrasi atas paten\nsebagaimana diatur dalam Undang-undang ini, dilaksanakan oleh\nKantor Paten.\n(2) Penyelenggaraan administrasi sebagaiman\ndimaksud dalam ayat (1) dilakukan dengan memperhatikan kewenangan\ninstansi lain sebagaimana\ndiatur dalam Undang-undang ini."
+   }
+  },
+  {
+   "id": "ID-H454-A119",
+   "no": 119,
+   "noLabel": {
+    "id": "Pasal 119"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 119\nKantor Paten menyelenggarakan dokumentasi dan pelayanan informasi\npaten yang dilaksanakan dengan membentuk suatu sistem dokumentasi\ndan jaringan informasi paten yang bersifat nasional, sehingga\nseluas mungkin mampu menyediakan informasi kepada masyarakat\nmengenai\nteknologi yang diberi paten."
+   }
+  },
+  {
+   "id": "ID-H454-A120",
+   "no": 120,
+   "noLabel": {
+    "id": "Pasal 120"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 120\nDalam melaksanakan pengelolaan paten, Kantor Paten memperoleh\npembinaan dari dan bertanggungjawab kepada Menteri.\nBAB XI\nHAK MENGGUGAT"
+   }
+  },
+  {
+   "id": "ID-H454-A121",
+   "no": 121,
+   "noLabel": {
+    "id": "Pasal 121"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 121\n(1) Jika suatu paten diberikan kepada orang lain\nselain daripada orang yang berdasarkan Pasal 11, Pasal 12 dan Pasal\n13 berhak atas\npaten tersebut, maka orang yang berhak atas paten\nitu dapat menuntut ke Pengadilan Negeri Jakarta Pusat supaya paten\nyang bersangkutan\nberikut hak-hak yang melekat pada paten tersebut\ndiserahkan kepadanya untuk seluruhnya atau untuk sebagian atau\nuntuk dimiliki bersama.\n(2) Salinan putusan atas gugatan sebagaimana\ndimaksud dalam ayat (1) oleh Panitera Pengadilan Negeri Jakarta\nPusat segera disampaikan\nkepada Kantor Paten untuk selanjutnya\ndicatat dalam Daftar Umum Paten dan diumumkam dalam Berita Resmi\nPaten."
+   }
+  },
+  {
+   "id": "ID-H454-A122",
+   "no": 122,
+   "noLabel": {
+    "id": "Pasal 122"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 122\n(1) Pemegang Paten atau Pemegang Lisensi berhak\nmenuntut ganti rugi melalui Pengadilan Negeri setempat, siapapun\nyang dengan sengaja\ndan tanpa hak melakukan perbuatan sebagaimana\ndimaksud dalam Pasal 17 terhadap haknya.\n(2) Tuntutan ganti rugi yang diajukan terhadap\nperbuatan sebagaimana dimaksud dalam Pasal 97 ayat (1) huruf b\nhanya dapat diterima\napabila hasil produksi itu terbukti dibuat\ndengan menggunakan penemuan yang telah diberi paten tersebut.\n(3) Putusan Pengadilan Negeri tentang gugatan\nsebagaimana dimaksud dalam ayat (1) oleh panitera Pengadilan Negeri\nyang bersangkutan\nsegera disampaikan kepada Kantor Paten untuk\nselanjutnya dicatat dalam Daftar Umum Paten dan diumumkan dalam\nBerita Resmi Paten."
+   }
+  },
+  {
+   "id": "ID-H454-A123",
+   "no": 123,
+   "noLabel": {
+    "id": "Pasal 123"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 123\n(1) Untuk mencegah kerugian yang lebih besar pada pihak yang haknya\ndilanggar, maka sewaktu masih dalam pemeriksaaan oleh Pengadilan\nNegeri, Hakim dapat memerintahkan pelanggar paten tersebut untuk\nmenghentikan perbuatan sebagaimana dimaksud dalam\nPasal 17\n(2) Jika dituntut penyerahan barang hasil\npelanggaran paten atau nilai barang tersebut maka Hakim dapat\nmemerintahkan bahwa penyerahan\nbaru dapat dilaksanakan setelah\nputusan pengadilan mempunyai kekuatan hukum tetap dan setelah\ndibayar ganti rugi oleh orang yang\nmenuntut kepada pemilik\nbarang-barang yang beritikad baik."
+   }
+  },
+  {
+   "id": "ID-H454-A124",
+   "no": 124,
+   "noLabel": {
+    "id": "Pasal 124"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 124\nHak untuk mengajukan tuntutan sebagaimana diatur dalam Bab ini\ntidak mengurangi hak Negara untuk melakukan tuntutan pidana\nterhadap\npelanggaran paten."
+   }
+  },
+  {
+   "id": "ID-H454-A125",
+   "no": 125,
+   "noLabel": {
+    "id": "Pasal 125"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 125\n(1) Terhadap putusan Pengadilan Negeri dapat\ndiajukan banding kepada Pengadilan Tinggi dan kasasi kepada\nMahkamah Agung.\n(2) Putusan banding dan putusan kasasi sebagaimana\ndimaksud dalam ayat (1) oleh Panitera Pengadilan Negeri harus\nsegera disampaikan\nkepada Kantor Paten untuk selanjutnya dicatat\ndalam Daftar Umum Paten dan diumumkan dalam Berita Resmi\nPaten.\nBAB XII\nKETENTUAN PIDANA"
+   }
+  },
+  {
+   "id": "ID-H454-A126",
+   "no": 126,
+   "noLabel": {
+    "id": "Pasal 126"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 126\nBarangsiapa dengan sengaja dan tanpa hak melanggar hak Pemegang\nPaten dengan melakukan salah satu tindakan sebagaimana dimaksud\ndalam\nPasal 17 dipidana dengan pidana penjara paling lama tujuh\ntahun dan denda paling banyak Rp100.000.000,00 (seratus juta\nrupiah)."
+   }
+  },
+  {
+   "id": "ID-H454-A127",
+   "no": 127,
+   "noLabel": {
+    "id": "Pasal 127"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 127\nBarangsiapa dengan sengaja tanpa hak dan melanggar hak Pemegang\nPaten Sederhana dengan melakukan salah satu tindakan sebagaimana\ndimaksud dalam Pasal 17 dipidana penjara paling lama lima tahun dan\ndenda paling banyak Rp50.000.000.00 (lima puluh juta rupiah)."
+   }
+  },
+  {
+   "id": "ID-H454-A128",
+   "no": 128,
+   "noLabel": {
+    "id": "Pasal 128"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 128\nBarangsiapa dengan sengaja tidak memenuhi kewajiban sebagaimana\ndimaksud dalam Pasal 27 ayat (3), Pasal 46 dan Pasal 52 dipidana\ndengan pidana penjara paling lama lima tahun."
+   }
+  },
+  {
+   "id": "ID-H454-A129",
+   "no": 129,
+   "noLabel": {
+    "id": "Pasal 129"
+   },
+   "chapter": {
+    "id": "BAB XII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 129\nTindak pidana sebagaimana dimaksud dalam Bab ini adalah\nkejahatan.\nBAB XIII\nPENYIDIKAN"
+   }
+  },
+  {
+   "id": "ID-H454-A130",
+   "no": 130,
+   "noLabel": {
+    "id": "Pasal 130"
+   },
+   "chapter": {
+    "id": "BAB XIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 130\n(1) Selain Penyidik Pejabat Polisi Negara Republik\nIndonesia, juga Pejabat Pegawai Negeri Sipil tertentu di lingkungan\ndepartemen\nyang lingkup tugas dan tanggung jawabnya meliputi\npembinaan paten, diberi wewenang khusus sebagai penyidik\nsebagaimana dimaksud dalam\nUndang-undang Nomor 8 Tahun 1981 tentang\nHukum Acara Pidana, untuk melakukan penyidikan tindak pidana di\nbidang paten.\n(2) Penyidik Pejabat Pegawai Negeri Sipil\nsebagaimana dimaksud dalam ayat (I) berwenang:\na. melakukan pemeriksaan atas kebenaran laporan\natau keterangan berkenaan dengan tindak pidana di bidang\npaten;\nb. melakukan pemeriksaan terhadap orang atau badan\nhukum yang diduga melakukan tindak pidana di bidang paten;\nc. meminta keterangan dan bahan bukti dari orang\natau badan sehubungan dengan peristiwa tindak pidana di bidang\npaten;\nd. melakukan pemeriksaan atas pembukuan,\npencatatan dan dokumen lain berkenaan dengan tindak pidana di\nbidang paten;\ne. melakukan pemeriksaan di tempat tertentu yang\ndiduga terdapat bahan bukti pembukuan, pencatatan dan dokumen lain\nserta melakukan\npenyitaan terhadap bahan dan barang hasil\npelanggaran yang dapat dijadikan bukti dalam perkara tindak pidana\ndi bidang paten;\nf. meminta bantuan ahli dalam rangka pelaksanaan\ntugas penyidikan tindak pidana di bidang paten.\n(2) Penyidik Pejabat Pegawai Negeri Sipil\nsebagaimana dimaksud dalam ayat (1) memberitahukan dimulainya\npenyidikannya kepada Penuntut\nUmum, sesuai dengan mengingat\nketentuan Pasal 107 Undang-undang Nomor 8 Tahun 1981 tentang Hukum\nAcara Pidana.\nBAB XIV\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H454-A131",
+   "no": 131,
+   "noLabel": {
+    "id": "Pasal 131"
+   },
+   "chapter": {
+    "id": "BAB XIV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 131\n(1) Dalam waktu satu tahun terhitung sejak tanggal\nmulai berlakunya Undang-undang ini, mereka yang telah mengajukan\npendaftaran Permintaan\npaten berdasarkan Pengumuman Pemerintah\nTahun 1953 dalam 10 (sepuluh) tahun sebelum tanggal mulai\nberlakunya Undang-undang ini, dapat\nmengajukan Permintaan paten\nberdasarkan ketentuan Undang- undang ini.\n(2) Apabila Permintaan paten yang telah terdaftar\ndan memenuhi ketentuan sebagaimana dimaksud dalam ayat (l) tidak\ndiajukan kembali\ndalam waktu satu tahun terhitung sejak tanggal\nberlakunya Undang-undang ini, Permintaan paten tersebut dianggap\nberakhir.\n(3) Pendatftaran Permintaan paten berdasarkan\nPengumuman sebagaimana dimaksud dalam ayat (l) yang diajukan lebih\ndari 10 (sepuluh)\ntahun sebelum mulai tanggal berlakunya\nUndang-undang ini, dinyatakan gugur.\n(4) Terhadap Permintaan paten sebagaimana dimaksud\ndalam ayat (l) berlaku ketentuan dalam Undang-undang ini dan dalam\nhal diberikan\npaten maka jangka waktu berlakunya diperhitungkan\nsejak tanggal diterimanya Permintaan paten berdasarkan Pengumuman\ntersebut.\nBAB XV\nKETENTUAN LAIN"
+   }
+  },
+  {
+   "id": "ID-H454-A132",
+   "no": 132,
+   "noLabel": {
+    "id": "Pasal 132"
+   },
+   "chapter": {
+    "id": "BAB XV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 132\nPembentukan badan yang berfungsi memberikan pertimbangan tentang\nkebijaksanaan strategis dalam masalah paten, dilakukan oleh\nPemerintah\nsesuai dengan kebutuhan dan perkembangan.\nBAB XVI\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H454-A133",
+   "no": 133,
+   "noLabel": {
+    "id": "Pasal 133"
+   },
+   "chapter": {
+    "id": "BAB XVI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 133\nSemua peraturan yang telah ada mengenai paten sejak tanggal\ndiundangkannya Undang- undang ini dinyatakan tidak berlaku\nlagi."
+   }
+  },
+  {
+   "id": "ID-H454-A134",
+   "no": 134,
+   "noLabel": {
+    "id": "Pasal 134"
+   },
+   "chapter": {
+    "id": "BAB XVI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 134\nUndang-undang ini mulai berlaku pada tanggal 1 Agustus 1991.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nUndang-undang ini dengan penempatannya dalam Lembaran Negara\nRepublik\nIndonesia.\nDisahkan di Jakarta\npada tanggal 7 Mei 1997\nPRESIDEN REPUBLIK INDONESIA\nS O E H A R T O\nDiundangkan di Jakarta\npada tanggal 1 Nopember 1989\nMENTERI/SEKRETARIS NEGARA\nREPUBLIK INDONESIA\nM O E R D I O N O\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1989 NOMOR 39\nPENJELASAN\nATAS\nUNDANG-UNDANG REPUBLIK INDONESIA\nNOMOR 6 TAHUN 1989\nTENTANG\nPATEN\nUMUM\nDalam Garis-garis Besar Haluan Negara\nditegaskan bahwa sasaran utama pembangunan jangka panjang adalah\nterciptanya landasan yang kuat\nbagi bangsa Indonesia untuk tumbuh\ndan berkembang atas kekuatannya sendiri menuju masyarakat yang adil\ndan makmur berdasarkan Pancasila.\nAdapun titik beratnya, adalah\npembangunan bidang ekonomi dengan sasaran utama terwujudnya\nstruktur ekonomi yang seimbang di mana\nterdapat kemampuan dan\nkekuatan industri yang maju yang didukung oleh kekuatan dan\nkemampuan pertanian yang tangguh.\nLandasan serupa itu telah diupayakan secara\nterus-menerus dan bertahap oleh bangsa Indonesia sejak Repelita\npertama. Melalui tahapan\nRepelita demi Repelita tersebut, bangsa\nIndonesia pada saat ini telah sampai pada tahap yang sangat penting\nyaitu mewujudkan struktur\nekonomi dengan titik berat kekuatan\nindustri yang didukung oleh bidang pertanian yang kuat. Dengan\nstruktur ekonomi seperti ini,\ndalam tahap pembangunan lima tahun\nselanjutnya bangsa Indonesia dapat memasuki era tinggal landas\nuntuk lebih memacu pembangunan\natas dasar kekuatan sendiri guna\nmewujudkan tujuan pembangunan Nasional.\nDengan memperhatikan arah dan sasaran\npembangunan sebagaimana disebut diatas, khususnya yang berkaitan\ndengan upaya untuk membangun\nkekuatan industri, faktor yang perlu\ndiperhatikan adalah kebutuhan akan teknologi. Faktor ini penting,\nkarena pada dasarnya merupakan\nsalah satu kunci yang sifatnya\nmenentukan kehidupan industri. Bahkan lebih dari itu teknologi\nadalah faktor penentu dalam pertumbuhan\ndan perkembangan industri.\nApakah teknologi itu berasal dari Negara lain, ataukah hasil\npenemuan dan pengembangan bangsa Indonesia\nsendiri, memiliki arti\nyang sama pentingnya.\nSebagai ilmu pengetahuan yang diterapkan dalam\nproses industri, teknologi lahir dari kegiatan penelitian dan\npengembangan.\nKegiatan tersebut dapat saja berlangsung dalam\nbentuk dan cara yang lebih pelik dan memakan waktu, melalui lembaga\npenelitian dan\npengembangan (Research and Development/R&D).\nTeknologi yang dihasilkan dari kegiatan itupun beraneka ragam\nsesuai dengan jenis\ndan kemanfaatannya. Dari segi nilai, kegiatan\npenemuan teknologi dan pengembangannya, selalu melibatkan tenaga\ndan pikiran, waktu\ndan juga biaya yang biasanya sangat besar\njumlahnya. Tetapi bagaimanapun bentuk, cara penemuan, waktu dan\nbiaya yang tersangkut dalam\nkegiatan tersebut, teknologi tetap\nmemiliki arti dan peran yang khusus dalam industri.\nDengan teknologi itu pula, segi teknis dan\nekonomis suatu produk industri akan dipengaruhi atau ditentukan\nnilainya di pasar. Dengan\npemanfaatan teknologi, akan makin\nmemperkuat daya saing suatu produk industri.\nDengan memperhatikan arti dan peran teknologi\nyang begitu penting dalam industri, maka tidaklah mungkin bilamana\npencapaian sasaran\npembangunan industri nasional dapay dilakukan\ndengan mengabaikan teknologi. Oleh sebab itu, langkah untuk\nmenciptakan iklim atau\nsuasana yang baik dan mampu mendorong gairah\natau semangat penemuan teknologi, menjadi sangat penting.\nSetidaknya, iklim yang lebih\nmemungkinkan bangsa Indonesia untuk\nmengetahui dan meningkatkan kemampuan dalam menguasai teknologi.\nBersamaan dengan langkah untuk\nmewujudkan iklim atau suasana\nseperti itu, langkah tersebut sekaligus harus pula memberikan\nperlindungan hukum yang memadai.\nTeknologi pada dasarnya lahir dari karsa\nintelektual, sebagai karya intelektual manusia. Karena kelahirannya\ntelah melibatkan tenaga,\nwaktu dan biaya-berapapun besarnya-, maka\nteknologi memiliki nilai atau manfaat ekonomi. Oleh sebab itu,\nadalah wajar bilamana terhadap\nhak atas penemuan tersebut diberi\nperlindungan hokum. Adanya kepastian bahwa hak seseorang akan\nmemperoleh perlindungan hukum itulah,\nyang pada gilirannya akan\nmemperkuat iklim yang baik bagi penyelenggaraan kegiatan yang\nmelahirkan teknologi.\nDalam ilmu hukum dan praktek yang secara luas\ndianut oleh bangsa lain, hak atas karya intelektual tersebut diakui\nsebagai hak milik\nyang sifatnya tidak berwujud. Hak seperti ini\nyang dikenal dengan paten.\nDalam kerangka perwujudan iklim yang mampu\nmendorong semangat penemuan dan sekaligus pemberian perlindungan\nhokum itulah, ketentuan\npaten disusun dalam Undang- undang ini.\nSebagai hak, paten diberikan oleh Negara apabila diminta oleh\npenemu, baik orang atau badan\nhokum yang berhak atas penemuan\ntersebut. Paten adalah hak uang khusus (eksklusif) sifatnya.\nArtinya, paten adalah hak yang hanya\ndiberikan kepada pemegangnya\ndalam jangka waktu tertentu melaksanakan sendiri penemuan tersebut,\natau untuk memberi kewenangan kepada\norang lain guna\nmelaksanakannya. Dalam waktu tertentu itu pula, pihak lain dilarang\nuntuk melaksanakan penemuan tersebut kecuali\natas ijin Pemegang\nPaten yang bersangkutan.\nMemperhatikan perkembangan yang sangat pesat\ndibidang teknologi, khususnya elektronika, peranan Integrated\nCircuit dalam menunjang\nperkembangan tersebut membawa dampak sangat\nluas, maka masalah Integrated Circuit tidak dimasukkan dalam\nlingkup pengaturan Undang-undang\nini. Bidang tersebut memerlukan\npengaturan tersendiri.\nDengan sifat paten seperti tersebut diatas,\nmaka sebagaimana halnya dengan hak milik lainnya, paten juga\ndiperlakukan sedemikian pula\ndalam Undang-undang ini. Karenanya,\nperampasan atau penyitaan paten oleh Negara tidak dianut\ndidalamnya. Namun demikian penghargaan\nterhadap hak seperti itu\ntidak berarti pengakuan bahwa paten dapat digunakan tanpa batas.\nSeperti hak milik lainnya, paten juga memiliki\nfungsi social. Paten\ndibatasi oleh jangka waktu tertentu. Selain itu, paten wajib untuk\ndilaksanakan atau digunakan di Indonesia.\nDalam hubungan kewajiban untuk melaksanakan\npaten ini, masyarakat industri dapat pula melakukan pengawasan.\nBila paten tidak dilaksanakan\ndalam jangka waktu tertentu, atau\ntidak cukup dilaksanakan secara komersial, sedangkan kesempatan\nuntuk itu sebenarnya dimiliki,\nmaka masyarakat industri dapat\nmeminta kepada Pengadilan Negeri untuk memberi ijin kepadanya guna\nmelaksanakan paten yang bersangkutan.\nDemikian pula halnya apabila sesuatu penemuan\n(termasuk yang telah mendapat paten) ternyata sangat penting\nartinya bagi penyelenggaraan\npertahanan keamanan Negara maka\nPemerintah dapat melaksanakannya sendiri. Walaupun demikian,\nsejalan dengan sikap penghargaan terhadap\npaten sebagai hak dan\nkeinginan untuk mewujudkan iklim yang sebaik-baiknya guna mendorong\nkegiatan penemuan teknologi, pembatasan\nyang dikaitkan dengan\nprinsip mengenai fungsi social itupun tetap dirancang secara\nseimbang. Artinya, pelaksanaan paten oleh pihak\nlain, termasuk oleh\nPemerintah, tetap harus berlangsung atas dasar ketentuan yang adil.\nPelaksanaan paten serupa itu tetap harus\nsepengetahuan Pemegang\nPaten. Ia harus diberitahu pada kesempatan pertama dan didengar\npenjelasannya. Imbalan yang wajar dalam arti\njumlah dan cara\npnghitungannya yang sesuai dengan praktek yang lazim, harus tetap\ndiberikan.\nSelain pembatasan yang berlandaskan prinsip\nfungsi sosial, Undang-undang ini juga mencegah kemungkinan\ntimbulnya penyalah gunaan paten.\nHal yang menjurus pada praktek\ndagang yang merugikan pihak lain dan merugikan masyarakat serta\nperekonomian negara pada umumnya,\nharus dihindari. Oleh karena itu,\nundang-undang ini mengatur antara lain pemasukan (impor) hasil\nproduksi oleh pihak lain dalam kaitannya\ndengan pemilikan suatu\npaten dan beberapa hal lain yang berkaitan dengan lisensi. Khusus\nmengenai masalah lisensi ini, karena luasnya\ncakupan yang hendak\ndicapai, Undang-undang ini mengamanatkan kepada Pemerintah untuk\nmengaturnya lebih lanjut agar selalu sesuai\ndengan kebutuhan dan\nkeadaan.\nHal lain yang memperoleh pertimbangan dalam\nUndang-undang ini adalah kondisi perekonomian dan kehidupan\nindustri di Indonesia saat\nini dan sasaran yang ingin dicapai di\nmasa yang akan datang, serta tingkat penguasaan dan kemampuan\nbangsa Indonesia di bidang teknologi\nbaik sekarang maupun di masa\ndepan.\nDengan mengkaji hal diatas, Undang-undang ini\ndengan tegas menyatakan bidang penemuan teknologi yang tidak dapat\ndimintakan paten.\nBegitu pula untuk penemuan di bidang tertentu\nyang dalam kebijaksanaan pembangunan industri nasional, dapat\nditunda untuk sementara\npemberian patennya. Bedanya, hal yang\nterakhir ini dipertimbangkan secara khusus demi kasus, dan\nkeputusannya diserahkan kepada Presiden.\nHal terakhir yang penting pula untuk\ndipertimbangkan, adalah segi pengelolaan ketentuan paten. Bidang\nini memiliki aspek yang sangat\nluas: sosial, budaya, ekonomi,\nhukum, politik dan pertahanan keamanan Negara. Jangkauannya\nmeliputi sektor yang erat berkaitan satu\ndengan lainnya. Oleh\nkarenanya, pengelolaannya diharapkan dapat pula dilakukan secara\nkomprehensif dan memadai. Pengelolaan tersebut\nperlu didorong agar\nterhindar dari sikap dan cara pandang yang administratif-rutin,\ntetapi harus lebih kreatif. Ketentuan paten tidak\nhanya sekedar\ndiarahkan bagi kemajuan industri yang akan menjadi tulang punggung\nekonomi nasional, tetapi juga untuk mendorong kegiatan\npenemuan dan\npengembangan teknologi di kalangan bangsa Indonesia. Dari segi ini,\nadanya sistem dokumentasi dan jaringan informasi\npaten yang secara\nefektif dapat memberikan pelayanan kepada masyarakat industri\nataupun peneliti, perlu diusahakan. Sebab, paten\nmemang merupakan\nsalah satu sumber informasi teknologi.\nKarena itu pula, badan yang diserahi tugas\nuntuk mengelolanya perlu diberi sarana dan prasarana yang\nmemungkinkannya untuk melaksanakan\ntugas secara efisien dan\nefektif.\nPASAL DEMI PASAL\nPasal 1\nAngka 1\nNegara dalam hal ini diwakili oleh Pemerintah,\nyang pelaksanaannya dilakukan oleh badan khusus yang ditunjuk dalam\nUndang-undang ini.\nTeknologi pada dasarnya adalah ilmu pengetahuan yang diterapkan\ndalam proses industri. Teknologi biasanya lahir atau ditemukan\nmelalui\nkegiatan penelitian dan pengembangan (research and\ndevelopment). Bagi penemu, hak khusus tersebut bersifat eksklusif,\nartinya hak\ntersebut hanya diberikan kepada penemu sebagai\nsatu-satunya yang berhak atas penemuannya.\nDalam hal ini, hak seperti itu tetap melekat pada penemu dan tidak\nberkurang sekalipun di kemudian hari ada pula yang berdasarkan\nUndang-undang ini diakui sebagai penemu terdahulu.\nYang dimaksud dengan orang, meliputi pula badan hukum.\nAngka 2 sampai dengan Angka 7\nCukup jelas\nPasal 2\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nYang dimaksud dengan permintaan pertama adalah\npermintaan Paten yang telah diajukan untuk pertama kali disuatu\nnegara lain.\nDalam Undang-undang ini, penemu dari luar negeri dapat pula\nmengajukan permintaan Paten di Indonesia sesuai dengan ketentuan\nsebagaimana\ndimaksud dalam Konvensi Paris. Terhadap permintaan\nPaten serupa itu diberikan hak untuk didahulukan apabila permintaan\ntersebut diajukan\ndalam waktu dan sesuai syarat-syarat yang\nditentukan dalam Undang-undang ini.\nHak untuk didahulukan seperti itu, disebut hak prioritas.\nPasal 3\nDalam hal pengumuman tersebut dilakukan dalam\nbentuk penguaraian lisan, maka hal itu harus berlangsung dalam\nforum resmi, apapun namanya,\nyang disebarluaskan secara nasional.\nYang dimaksud dengan diumumkan di Indonesia, adalah sama dengan\ndiumumkan di dalam negeri ataupun\ndiluar negeri.\nPasal 4\nYang dimaksud dengan pameran yang resmi adalah\npameran yang diselenggarakan oleh Pemerintah, sedangkan pameran\nyang diakuai sebagai\nresmi adalah pameran yang diselenggarakan oleh\nmasyarakat tetapi diakui atau memperoleh persetujuan\nPemerintah.\nPasal 5\nDapat digunakan dalam berbagai jenis industri\nmaksudnya penemuan mengenai proses.\nPasal 6\nKarena memiliki nilai kegunaan praktis, maka\nterkandung pula di dalamnya nilai ekonomis. Benda, alat, atau hasil\nproduksi seperti\nitu tidak memiliki kualitas penemuan karena\npenemuan tersebut biasanya diperoleh dengan cara yang lebih\nsederhana, tidak melalui\nprosedur sebagaimana lazimnya kegiatan\npenelitian dan pengembangan.\nBarang-barang seperti itu biasanya berupa peralatan yang banyak\ndigunakan dalam kehidupan sehari-hari, seperti misalnya mesin\npembuat\nbakso, alat pemarut kelapa, pemecah kulit kopi, pemipil\njagung dan perontok gabah.\nKarena itu, barang-barang tersebut seringkali dikenal pula sebagai\n\"utility model\".\nKarena sifatnya yang serba sederhana, maka perlindungannya\ndiberikan dalam rangka Paten Sederhana.\nPasal 7\nHuruf a\nCukup jelas\nHuruf b\nBagi Indonesia, masalah makanan dan minuman\nmerupakan masalah yang sangat pokok sifatnya dalam mewujudkan\nkesejahteraan rakyat. Oleh\nkarena itu, dirasa tidak pada tempatnya\nbilamana penemuan di bidang pangan baik mengenai cara membuat\nmaupun hasilnya, atau bahan\nbaku untuk membuatnya, diberi\npaten.\nHuruf c\nYang dimaksud dengan jenis atau varitas baru\ntanaman atau hewan adalah tanaman pangan atau hewan potong.\nHuruf d\nBilamana dalam pemeriksaan, perawatan, pengobatan\ndan pembedahan tersebut digunakan peralatan kesehatan, maka\nketentuan ini hanya\nberlaku bagi penemuan tentang metoda\npemeriksaan dan lain-lainnya.\nPeralatan kesehatan yang digunakan baik yang berupa alat, bahan,\nmaupun obat, tidak termasuk didalamnya.\nHuruf e\nCukup jelas\nPasal 8\nAyat (1)\nDi luar penemuan yang menurut ketentuan Pasal 7\nsecara mutlak tidak diberi paten, kemungkinan ada penemuan tertentu\ndi bidang-bidang\nlain yang sebenarnya dapat diberi paten tetapi\nuntuk sementara waktu perlu ditunda pemberiannya. Ketentuan ini\npada hakekatnya hanya\nbersifat penundaan pemberian paten, artinya\nbilamana sesuatu penemuan dinilai penting bagi rakyat atau bagi\nkelancaran pelaksanaan\nprogram pembangunan di bidang tertentu,\nPresiden dapat menunda pemberian paten yang diminta untuk jangka\nwaktu paling lama 5 (lima)\ntahun sejak tanggal dikeluarkannya\nKeputusan Presiden tersebut.\nPenetapan di atas sifatnya kasus per kasus dan dapat dilakukan dari\nwaktu ke waktu sejak berlakunya Undang-undang ini. Ketentuan\nini\ntidak berlaku untuk penemuan yang pada waktu itu telah memperoleh\npaten atau sedang dimintakan paten di Indonesia dengan hak\nprioritas. Dengan demikian ayat ini hanya berlaku bagi penemuan\nyang sedang atau akan dimintakan paten.\nAyat (2)\nKetentuan ini tidak berarti diabaikannya\npemenuhan syarat-syarat administratif, bahkan hal itu tetap harus\ndipenuhi. Dengan adanya\npenundaan tersebut maka pengumuman\npermintaan paten bagi penemuan yang bersangkutan juga ditunda.\nSebagai imbangan dari penundaan, maka terhadap permintaan paten\nlangsung diadakan pemeriksaan substantif setelah berakhirnya jangka\nwaktu pengumuman. Dalam hal ini, yang bersangkutan tidak perlu lagi\nmengajukan permintaan pemeriksaan substantif.\nPasal 9\nAyat (1)\nJangka waktu Paten selama 14 (empat belas) tahun\ntersebut dapat pula dikatakan sebagai jangka waktu perlindungan\nhukum atas Paten\nyang bersangkutan.\nJangka waktu itu dihitung sejak tanggal penerimaan permintaan Paten\n(filling date).\nTanggal tersebut dinyatakan dalam surat paten (Letter of Patent)\nyang diberikan oleh kantor Paten.\nAyat (2)\nDaftar Umum Paten berupa buku yang khusus\ndiberikan catatan tentang Surat Paten, yang dibuat dalam bentuk dan\nsusunan yang sederhana,\njelas dan rapi.\nBerita Resmi Paten dapat pula disebut Jurnal Paten, yang dikelola\ndan diterbitkan secara berkala oleh Kantor Paten, serta\nditempatkan/ditempelkan\ndi papan pengumuman Kantor Paten yang dapat\ndilihat denga mudah oleh masyarakat dan disebarluaskan.\nBerita Resmi Paten memiliki kekuatan hukum yang sama dengan\nTambahan Berita Negara. Sekalipun demikian, apabila pemegang Paten\nmenghendaki\nagar surat patennya diumumkan dalam Tambahan Berita\nNegara, maka hal itu dapat saja diusahakan atas biaya\nsendiri.\nPasal 10\nKarena benda atau alat yang dihasilkan tersebut\ndiperoleh dengan waktu yang relatif singkat, dengan cara yang\nsederhana, dengan biaya\nyang relatif murah dan secara teknologi\njuga bersifat sederhana, maka jangka waktu perlindungan selama 5\n(lima) tahun dinilai cukup.\nPasal 11\nAyat (1)\nKetentuan ini memberi penegasan bahwa hanya\npenemu, atau yang menerima lebih lanjut hak penemu, yang berhak\nmemperoleh paten atas\npenemuan yang bersangkutan. Penerimaan lebih\nlanjut hak penemu tersebut dapat terjadi karena pewarisan, hibah,\nwasiat atau perjanjian,\nsebagaimana diatur dalam Undang-undang\nini.\nAyat (2)\nYang dimaksud dengan mereka adalah beberapa orang\nyang secara bersama- sama menghasilkan penemuan.\nKetentuan ini memberikan penegasan hak atas penemuan yang dimiliki\noleh para penerima lebih lanjut dari orang-orang yang semula secara\nbersama-sama memiliki hak atas penemuan tersebut.\nPasal 12\nAyat (1)\nYang dimaksud dengan mereka adalah orang,\nbeberapa orang secara bersama- sama atau badan hukum.\nUndang-undang ini memakai titik tolak bahwa yang pertama kali\nmengajukan permintaan paten dianggap sebagai penemu.\nApabila di kemudian hari terbukti sebaliknya secara kuat dan\nmeyakinkan maka status sebagai penemu tersebut dapat berubah.\nAyat (2)\nCukup jelas\nPasal 13\nAyat (1)\nTermasuk dalam pengertian perjanjian kerja adalah\nperjanjian perburuhan.\nDalam hal demikian, maka pemberi kerja adalah majikan.\nAyat (2)\nCukup jelas\nAyat (3)\nSekalipun penemu yang sebenarnya tidak memiliki\nhak atas penemuannya, tetapi dengan mengingat adanya manfaat\nekonomi yang diperoleh\ndari penemuan itu, maka adalah wajar\nbilamana penemu juga memperoleh kesempatan untuk ikut menikmati\nmanfaat ekonomi tersebut.\nKesempatan untuk ikut menikmati manfaat ekonomi itulah yang\ndiwujudkan dalam bentuk pemberian imbalan. Dalam hubungan ini\nimbalan\ndiartikan sebagai kompensasi.\nAyat (4)\nCukup jelas\nAyat (5)\nCukup jelas\nAyat (6)\nPencantuman nama penemu dalam Surat Paten pada\ndasarnya adalah lazim.\nHak ini sering dikenal dengan istilah \"moral right\".\nPasal 14\nAyat (1)\nKetentuan ini dimaksudkan untuk memberi\nperlindungan kepada penemu terdahulu yang beritikad baik, tetapi\ntidak/belum mengajukan permintaan\npaten.\nDalam hal ini, kegiatan yang dilakukannya berupa pelaksanaan\npenemuannya tersebut dapat tetap dilaksanakan olehnya sebagai\npenemu\nterdahulu.\nAyat (2)\nCukup jelas\nPasal 15\nCukup jelas\nPasal 16\nAyat (1)\nCukup jelas\nAyat (2)\nPenemuan tersebut dengan demikian harus\nbenar-benar merupakan hasil kegiatan yang dilakukan dengan itikad\nbaik dan terpisah sama sekali\ndari kegiatan lain yang menghasilkan\npenemuan yang diberi paten.\nAyat (3)\nCukup jelas\nAyat (4)\nPemberian perlindungan selama masa yang sama\ntersebut didasarkan atas prinsip keadilan.\nPasal 17\nHak khusus yang dimaksudkan adalah hak yang\nbersifat eksklusif. Artinya hak yang hanya diberikan kepada\nPemegang Paten untuk dalam\njangka waktu tertentu melaksanakan\nsendiri secara perusahaan atau memberi hak lebih lanjut untuk itu\nkepada orang lain. Dengan demikian\norang lain dilarang melaksanakan\npaten tersebut tanpa persetujuan Pemegang Paten.\nPemberian hak kepada orang lain tersebut dapat melalui pewarisan,\npenyerahan, perikatan atau mungkin cara peralihan hak yang lain\nlagi.\nPasal 18\nCukup jelas\nPasal 19\nCukup jelas\nPasal 20\nPaten pada dasarnya merupakan perlindungan hukum\nbagi penemu atas penemuannya yang diberikan untuk jangka waktu\ntertentu. Perlindungan\nserupa ini, sesuai dengan sifat eksklusif\nyang dimilikinya, melarang orang lain untuk tanpa hak atau\npersetujuan dari Pemegang Paten\nmelaksanakan atau melakukan\ntindakan lainnya yang bersifat pengambilan manfaat ekonomi dari\nsuatu penemuan.\nOleh karenanya unsur yang terpenting terletak pada aspek\nperlindungan hukum terhadap pemanfaatan hak tersebut di\nIndonesia.\nPengertian ini mengacu kepada pelaksanaan paten. Dengan demikian\nadalah wajar bilamana persoalannya dipisahkan dari masalah impor.\nSebab impor, seperti halnya ekspor, adalah masalah tata niaga.\nPemisahan antara kedua masalah ini yaitu antara perlindungan hak\ndan\nmasalah tata niaga dengan demikian merupakan hal yang\nwajar.\nBukan saja keduanya menunjukkan bidang permasalahan yang berbeda\ntetapi hal inipun perlu untuk mencegah penyalahgunaan paten.\nPasal 21\nPengimporan yang dimaksudkan dalam pasal ini,\nadalah yang dilakukan oleh orang selain Pemegang Paten. Adapun\nistilah padanan sama\nartinya dengan \"copy product\".\nPemikiran mengenai masalah ini bertolak dari prinsip yang pada\ndasarnya sama seperti yang dijelaskan pada penjelasan pasal 20.\nAdapun pendekatannya juga dilakukan atas dasar pertimbangan untuk\nmenjaga keseimbangan antara hak dan kepentingan, kebutuhan dan\nkesejahteraan masyarakat pada umumnya.\nTermasuk dalam pengertian ini adalah kepentingan nasional dalam\npembinaan dan pengembangan industri didalam negeri, serta\npeningkatan\nkemampuan dalam penguasaan teknologi oleh bangsa\nIndonesia. Sekalipun begitu memang dipahami bahwa masalah\nkeseimbangan ini sangat\nbersifat situasional. Artinya dari waktu\nkewaktu berkembang sesuai dengan kebutuhan dan keadaan. Karena itu\ndalam masalah ini perlu\nkelonggaran kepada pemerintah untuk\nmenimbang dan mengaturnya sesuai dengan perkembangan keadaan\ntersebut.\nPasal 22\nKetentuan ini diperlukan untuk menjaga\nkepentingan orang atau badan hukum selain Pemegang Paten yang telah\nmenguasai atau memetik\nmanfaat ekonomi suatu penemuan yang berupa\nproses atau hasil produksi sebelum diberikannya Paten untuk\npenemuan yang bersangkutan.\nPenegasan ini dipandang perlu sebab selama belum diberi paten\nberarti belum ada perlindungan hukum.\nOleh karenanya, kegiatan pemakaian dan lain-lain yang dilakukan\nsebelum adanya paten tidak dapat dinyatakan sebagai\npelanggaran.\nSelain kepastian hukum, hal ini juga mempunyai arti penting untuk\nmelindungi anggota masyarakat.\nPasal 23\nLihat penjelasan umum.\nPasal 24\nCukup jelas\nPasal 25\nPenetapan besarya biaya dilakukan dengan selalu\nmemperhatikan keadaan dan keperluan yang mampu mendorong para\npenemu untuk mengajukan\npermintaan paten bagi penemuannya.\nPasal 26\nAyat (1)\nYang dimaksud dengan bukan penemu adalah pihak\nlain yang menerima hak atas penemuan dari penemu. Hal ini dapat\nberlangsung misalnya\nkarena pewarisan, penyerahan karena hibah atau\nkarena perjanjian.\nAyat (2)\nKetentuan ini dimaksudkan untuk melindungi penemu\ndari kemungkinan yang merugikannya.\nAyat (3)\nCukup jelas\nPasal 27\nAyat (1)\nPermintaan paten dapat diajukan sendiri oleh\npenemu atau yang berhak atas penemuan dengan secara langsung datang\nke kantor paten atau\nmelalui jasa pos.\nPermintaan tersebut dapat pula di ajukan melalui konsultan paten\nsebagai kuasa yang ahli di bidang ini. Konsultan seperti ini adalah\nlembaga yang secara khusus memberikan jasa yang berkaitan dengan\npengajuan permintaan paten.\nTujuan pengajuan ini adalah untuk memberi kemudahan bagi penemu\natau orang yang menerima hak atas penemuan, yang tidak memahami\nsegi-segi\nhukum menmgenai paten ataupun segi-segi teknis\nadministratif yang diperlukan untuk itu. Selain itu kemungkinan ini\ndimaksudkan untuk\nmempercepat proses permintaan itu sendiri. Di\ntanga kuasa yang ahli, diharapkan masalah-masalah hukum an teknis\nyang berkaitan dengan\npermintaan paten dapat diselesaikan dengan\ncepat. Konsultan ini bertindak sebagai kuasa khusus dalam pengajuan\npermintaan paten.\nAyat (2)\nTugas ini menyangkut pengetahuan dan keahlian\nyang bersifat khusus. Oleh karenanya hanya konsultan yang memiliki\npengetahuan dan keahlian\ndibidang paten saja dapat ditunjuk sebagai\nkuasa untuk menangani permintaan paten.\nMereka terdaftar dalam daftar yang khusus dibuat oleh Kantor Paten\nyang dapat diketahui oleh masyarakat.\nAyat (3)\nKewajiban Konsultan Paten untuk menjaga\nkerahasiaan tersebut berlaku pula terhadap pihak yang berkait yang\ndipekerjakan oleh konsultan\ntersebut seperti penterjemah dan\nlain-lainnya.\nKewajiban tersebtu berakhir pada saat permintaan paten mulai\ndiumumkan oleh kantor paten sebagaimana dimaksud dalam pasal 48\nayat\n(1).\nAyat (4)\nCukup jelas\nPasal 28\nAyat (1)\nKetentuan ini merupakan pengecualian sebagaimana\ndimaksud dalam pasal 27 ayat (1). Maksudnya, untuk mempermudah dan\nmembantu mempercepat\nproses permintaan paten dari para penemu atau\nyang berhak atas penemuan yang berdomisili di luar wilayah Negara\nRepublik Indonesia.\nSebab, hal ini akan menyangkut bahasa dan\npemenuhan aturan lain yang harus diperhatikan, tetapi biasanya\ntidak mereka kuasai.\nAyat (2)\nKetentuan ini untuk memudahkan korespodensi,\ntetapi juga untuk memelihara kepastian tempat tinggal atau\nkedudukan di Indonesia. Selebihnya,\nlihat penjelasan Pasal\n27.\nPasal 29\nAyat (1)\nPerjanjian internasional mengenai perlindungan\npaten yang dimaksud adalah Konvensi Paris atau Paris Convention on\nthe Protection of\nIndustrial Property, atau perjanjian\ninternasional atau regional lainnya di bidang tersebut, yang\ndiikuti oleh Negara Republik Indonesia.\nAyat (2)\nPihak yang berwenang mengesahkan salinan surat\npermintaan paten yang pertama kali adalah pejabat Kantor Paten\nsuatu Negara di mana\npermintaan paten untuk pertama kali diajukan.\nBila permintaan paten tersebut diajukan berdasar perjajnjian\ninternasional di bidang\nkerjasama paten seperti Patent Cooperation\nTreaty, maka pihak yang berwenang tersebut adalah WIPO (World\nIntellectual Property Organization,\nyaitu badan khusus PBB yang\nbertugas mengadministrasikan perjanjian internasional mengenai\nintellectual property).\nPermintaan paten dengan hak prioritas tetap harus dilakukan dengan\nmemperhatikan ketentuan Pasal 30.\nAyat (3)\nCukup jelas\nPasal 30\nAyat (1)\nPengajuan dalam bahasa Indonesia tersebut\ndimaksudkan untuk memudahkan pemeriksaan ataupun pemanfaatannya\nsebagai sumber informasi\nteknologi bagi bangsa Indonesia.\nSudah barang tentu, bagi orang dari luar negeri yang meminta paten\ndi Indonesia baik untuk yang pertama kali ataupun dengan hak\nprioritas,\nada beberapa bagian yang secara teknis menjadi sulit\nbila harus diterjemahkan, misalnya istilah atau kata yang tercetak\ndalam gambar\n(drawing).\nBagian ini dapat tidak diterjemahkan. Begitu pula istilah-istilah\nteknis yang mungkin masih dinilai lebih baik ditulis dalam bahasa\nasing. Namun demikian, surat permintaan, deskripsi, klaim dan\nabstraksi mutlak perlu dibuat dalam bahasa Indonesia.\nAyat (2)\nHuruf a\nCukup jelas\nHuruf b\nAlamat lengkap tersebut harus berisikan nama\njalan, nomor bangunan, kode wilayah pos, kota, Negara.\nDalam hal ada Negara Bagian, harus pula disebutkan dengan\njelas.\nHuruf c\nPemohon menyampaikan nama lengkap penemu dan\nkewarganegaraannya. Demikian pula jika penemuan dilakukan oleh\nlebih dari satu orang.\nApabila penemu adalah badan hukum, harus\ndisebutkan negara di mana badan hukum tersebut didirikan dan\nmemperoleh status sebagai badan\nhukum.\nHuruf d sampai dengan Huruf g\nCukup jelas\nHuruf h\nKlaim tersebut mengacu pada inti penemuan\nteknologi yang bersifat pokok atau strategis.\nKlaim seperti ituharus dengan tegas menggambarkan inti penemuan\nyang dimintakan perlindungan hukum, jelas dan tepat, serta didukung\nuraian teknis.\nHuruf I dan Huruf j\nCukup jelas\nHuruf k\nAbstraksi tersebut semata-mata dibuat untuk\ntujuan kejelasan teknis.\nAyat (3)\nCukup jelas\nPasal 31\nAyat (1)\nDokumen tersebut diperlukan untuk mempermudah dan\nmempercepat penilaian terhadap sifat kebaharuan (novelty) dan kadar\npenemuan (inventiveness)\ndari penemuan yang dimintakan paten.\nSalinan yang sah adalah salinan dari surat atau dokumen yang\nasli.\nMengenai keputusan penolakan permintaan paten yang dimaksud dalam\nhuruf c, adalah keputusan penolakan atas surat permintaan paten,\natau penolakan untuk memberikan paten.\nAyat (2)\nBerbeda dengan syarat yang ditetapkan dalam ayat\n(1) yang apabila tidak dipenuhi dapat berakibat ditolaknya\npengajuan surat permintaan\npaten, dokumen yang disebut dalam ayat\nini bersifat sebagai kelengkapan informasi yang diperlukan dalam\npemeriksaan.\nPasal 32\nKetentuan ini perlu untuk memberikan kewenangan\nkepada Pemerintah untuk mengatur lebih lanjut hal-hal yang bersifat\nteknis dalam pelaksanaan.\nSelain itu, hal ini juga diperlukan untuk menyesuaikan tingkat\nkebutuhan dengan keadaan kemampuan yang dimiliki dalam pengelolaan\nsistem paten pada umumnya.\nDengan begitu, dapat dijaga keluwesan dalam menghadapi perkembangan\ndi kemudian hari.\nPasal 33\nAyat (1)\nKetentuan ini dimaksudkan untuk memberikan\nkepastian mengenai kapan sebenarnya permintaan paten diterima. Hal\nini biasanya terjadi\nkarena tanggal penerimaan surat permintaan\noleh Kantor Paten berbeda dengan tanggal yang tercantum dalam surat\nitu.\nDalam hal ini apabila terdapat permintaan paten untuk penemuan yang\nsama dan diterima pada tanggal yang sama pula, maka permintaan\npaten yang diterima adalah permintaan yang diajukan lebih\ndahulu.\nSekalipun penerimaan surat permintaan paten tersebut hanya\nberselisih satu detik, tetapi prinsipnya permintaan yang diterima\nlebih\ndahulu itulah yang diakui.\nBegitu pula bilamana terdapat kekurangan persyaratan, biasanya\npemenuhannya baru berlangsung kemudian. Untuk itu, permintaan paten\ndianggap diajukan pada tanggal penerimaan pemenuhan kelengkapan\noleh Kantor Paten.\nAyat (2)\nPemeriksaan awal dilakukan segera setelah\nditerimanya surat permintaan paten. Karena obyeknya bersifat\nadministratif, maka pemeriksaan\nitupun pada dasarnya merupakan\npemeriksaan formal.\nApabila dalam pemeriksaan awal tersebut surat permintaan paten\nternyata sudah memenuhi ketentuan pasal 29, pasal 30 dan pasal 31\n(Untuk permintaan dengan hak prioritas) maka tanggal sewaktu Kantor\nPaten menerimanya ditetapkan sebagai tanggal penerimaan (filing\ndate).\nTetapi apabila dari pemeriksaan kemudian ternyata masih terdapat\nkekurangan, maka tanggal pada saat Kantor Paten menerima pemenuhan\nyang terakhir kekurangan tersebut yang digunakan/ditetapkan sebagai\ntanggal penerimaan.\nAyat (3)\nOleh karena pentingnya arti tanggal penerimaan\ntersebut, pencatatan untuk itu diadakan dalam buku daftar tanggal\npenerimaan yang diadakan\nsecara khusus dan dengan mencantumkan saat\natau waktu penerimaan surat permintaan tersebut.\nPasal 34\nAyat (1)\nCukup jelas\nAyat (2)\nAlasan yang dapat dipertimbangkan tersebut hanya\ndibatasi untuk hal-hal yang bersifat teknis saja, misalnya karena\nbelum terselesaikannya\npembuatan uraian atau deskripsi penemuan dan\ngambar-gambar atau drawings yang mendukungnya.\nPasal 35\nCukup jelas\nPasal 36\nDalam hal pengajuan tersebut dilakukan oleh\nkuasa, maka surat pemberitahuan tersebut disampaikan kepada kuasa\nyang bersangkutan.\nPasal 37\nKetentuan ini dimaksudkan untuk mempertegas\nprinsip bahwa satu permintaan paten hanya dapat diajukan untuk satu\npenemuan.\nPasal 38\nAyat (1)\nCukup jelas\nAyat (2)\nTanggal yang digunakan sebagai patokan adalah\ntanggal penerimaan surat permintaan paten oleh Kantor Paten baik\nyang diajukan sendiri\nsecara langsung maupun yang melalui jasa\npos.\nDalam hal surat permintaan paten diterima pada tanggal yang sama,\nharus diperhatikan waktu atau saat penerimaannya. Bagaimanapun\nsurat permintaan paten yang diterima lebih dahulu, sekalipun hanya\nberselisih satu detik lebih awal, permintaan paten yang terdahulu\nitulah yang diterima.\nLihat pula penjelasan Pasal 33.\nAyat (3)\nSebelum menolak permintaan paten tersebut, Kantor\nPaten tetap mengupayakan untuk sekali lagi mempertemukan\norang-orang yang mengajukan\npermintaan paten sehingga dapat\ndiperoleh kesepakatan diantara mereka mengenai siapa yang berhak\nuntuk mengajukan permintaan paten\nyang bersangkutan.\nApabila upaya tersebut diatas tetap tidak memberikan hasil, maka\npenentuan siapa yang berhak untuk mengajukan permintaan paten harus\ndiminta kepada Pengadilan Negeri Jakarta Pusat.\nPasal 39\nAyat (1)\nYang dimaksud dengan memperluas lingkup\nperlindungan adalah menambah jumlah klaim. Hal ini tidak\ndiperbolehkan.\nAyat (2)\nCukup jelas\nPasal 40\nAyat (1)\nKadangkala penemu atau orang yang berhak atas\npenemuan karena pertimbangan tertentu mengubah permintaan paten\nyang telah diajukannya\ndan memecahnya menjadi beberapa permintaan\nyang terpisah.\nPermintaan serupa itu biasanya memecah pula klaim dalam penemuan\nyang dimintakan perlindungan.\nHal ini dimungkinkan, sejauh perlindungan yang diminta secara\nkeseluruhan tidak melebihi lingkup perlindungan yang semula\ndiminta.\nSelain itu, klaim dalam penemuan yang dimintakan\nperlindungan dengan permintaan yang terpisah tersebut, secara\nkeseluruhan harus\ntetap merupakan satu kesatuan penemuan.\nAyat (2)\nCukup jelas\nPasal 41\nAyat (1)\nDengan penarikan kembali surat permintaan paten,\nmaka permintaan paten dianggap telah dibatalkan oleh orang yang\nmeminta.\nAyat (2)\nCukup jelas\nPasal 42\nMengenai kemungkinan perpanjangan jangka waktu\npaten hanya satu kali8 untuk selama 2 (dua) tahun, lihat pula\nPenjelasan Umum.\nPasal 43\nAyat (1)\nJangka waktu pengajuan permintaan perpanjangan\ndimaksudkan untuk memberi waktu yang cukup bagi Kantor Paten guna\nmeneliti dan menilai\npermintaan tersebut.\nPemegang Paten yang mengajukan permintaan perpanjangan jangka waktu\nbagi patennya diwajibkan untuk memenuhi secara lengkap persyaratan\nyang ditetapkan. Syarat mengenai bukti penghasilan yang diperoleh\ndari pelaksanaan paten termasuk pula penghasilan dari pelaksanaan\npaten di luar negeri. Kantor paten tidak melayani permintaan yang\ndiajukan lewat batas yang ditentukan.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nPasal 44\nCukup jelas\nPasal 45\nCukup jelas\nPasal 46\nKewajiban ini bersifat mutlak dan dimaksudkan\nterutama untuk menjamin kepentingan penemu atau orang yang berhak\natas penemuan terhadap\nsegala bentuk pelanggaran haknya. Kewajiban\nini berlangsung sejak tanggal penerimaan surat permintaan paten,\nselama penelitian awal\ndan terus berlangsung sampai dengan tanggal\ndimulainya pengumuman. Khusus mengenai tanggal penerimaan surat\npermintaan paten tersebut,\nhal itu mengacu pada tanggal diterimanya\nuntuk pertama kali surat permintaan paten oleh Kantor Paten,\nsekalipun kemudian ternyata\nmasih terdapat kekurangan syarat yang\nharus dipenuhi. Jadi tanggal tersebut bukan dalam arti \"filing\ndate\".\nPasal 47\nAyat (1)\nPengumuman suatu permintaan paten dimaksudkan\nagar masyarakat luas mengetahui adanya permintaan paten atas suatu\npenemuan. Ini berarti,\nmasyarakat khususnya pihak yang\nberkepentingan dengan adanya permintaan paten tersebut dapat\nmemperoleh kesempatan untuk memeriksa\nada atau tidaknya pelanggaran\nterhadap hak yang mungkin dimilikinya atau dimiliki orang lain\ndalam penemuan mereka, terutama yang\ntelah diumumkan sebagaimana\ndimaksud dalam Pasal 3 tetapi belum dimintakan paten.\nPengumuman dilakukan dengan cara menempatkannya dalam papan\npengumuman yang khusus disediakan dan dapat dilihat dengan mudah\noleh\nmasyarakat luas atau dengan cara dan sarana lain dengan maksud\nyang sama.\nSelain itu, pengumuman juga dilakukan dengan menempatkannya dalam\nBerita Resmi Paten atau Jurnal Paten, yang duterbitkan secara\nberkala\noleh Kantor Paten.\nPelaksanaan pengumuman tersebut dilakukan setelah Kantor Paten\nberpendapat bahwa berdasar pemeriksaan, segala persyaratan yang\nditetapkan\ndalam Pasal 29, Pasal 30 dan Pasal 31 terpenuhi dan\npermintaan tersebut tidak ditarik kembali.\nAyat (2)\nKecuali jika permintaan tersebut ditarik kembali,\npermintaan paten diumumkan selambat-lambatnya 6 (enam) bulan, sejak\ntanggal penerimaan\npermintaan paten (filing date). Sedangkan bagi\npermintaan paten yang diajukan dengan hak prioritas, diumumkan\nselambat-lambatnya\nsetelah lewat waktu 12 (dua belas) bulan sejak\ntanggal penerimaan permintaan paten yang pertama kali.\nPasal 48\nAyat (1)\nJangka waktu 6 (enam) bulan tersebut dinilai\ncukup wajar sebagai pemberitahuan kepada masyarakat mengenai adanya\npenemuan di sesuatu\nbidang teknologi yang dimintakan paten. Jangka\nwaktu tersebut juga untuk memberikan kesempatan kepada masyarakat\nuntuk mengetahui,\nterutama bagi mereka yang mungkin berkepentingan\ndengan adanya permintaan tersebut.\nSelanjutnya lihat kembali penjelasan Pasal 47. Jangka waktu\ntersebut dihitung sejak tanggal mulai diumumkannya permintaan\npaten.\nPengumuman tersebut selain ditempatkan pada papan pengumuman,\nditempatkan dalam Berita Resmi Paten, dapat pula disebarluaskan\noleh\ninstansi yang bertugas di bidang penerangan.\nMengenai penempatan dalam Berita Resmi Paten, lihat kembali\npenjelasan Pasal 9 ayat (2).\nAyat (2)\nCukup jelas\nPasal 49\nApabila permintaan paten yang diajukan dengan hak\nprioritas tersebut berpangkal pada sistem paten internasional atau\nregional, maka\ndicantumkan pula Kantor Paten dan nama Negara atau\nNegara-negara dimana permintaan pertama tersebut diajukan.\nPasal 50\nCukup jelas\nPasal 51\nAyat (1)\nPandangan atau keberatan tersebut harus diajukan\ndalam jangka waktu pengumuman, yaitu 6 (enam) bulan sebagaimana\ndimaksud dalam Pasal\n48.\nLewat dari jangka waktu tersebut, maka pandangan atau keberatan\ntidak dapat diterima. Dalam hal ini Kantor Paten memberitahukan\nsecara\ntertulis kepada orang yan mengajukan pandangan atau\nkeberatan bahwa hal trsebut telah melewati jangka waktu yang telah\nditetapkan\ndan karenanya tidak dapat diterima dengan mengembalikan\nberkas atau surat yang berisikan pandangan atau keberatan\ntersebut.\nAyat (2)\nPandangan atau keberatan tersebut harus\nsecepatnya dikirimkan ke Kantor Paten kepada orang yang mengajukan\npermintaan Paten. Permintaan\noleh Kantor Paten tersebut tidak boleh\nditunda-tunda karena pandangan dan keberatan tersebut sangat\npenting artinya bagi orang yang\nmengajukan permintaan paten,\nsehingga dapat menggunakan haknya untuk memberikan sanggahan dan\npenjelasan.\nAyat (3)\nBerbeda dengan pengajuan pandangan atau keberatan\nyang terikat pada jangka waktu pengumuman, maka penyampaian\nsanggahan dan penjelasan\npada dasarnya tidak terikat pada jangka\nwaktu tersebut.\nAyat (4)\nSegala pandangan, keberatan, sanggahan ataupun\npenjelasan tersebut dijadikan tambahan pertimbangan para pemeriksa\npaten dalam pemeriksaan\npermintaan paten yang bersangkutan.\nLebih lanjut lihat penjelasan pasal-pasal berikutnya mengenai\npemeriksaan.\nPasal 52\nAyat (1)\nDalam melaksanakan pemeriksaan terhadap\nkelengkapan dokumen permintaan paten, dapat saja Kantor Paten\nmenemukan bahwa sesuatu penemuan\ndiperkirakan sangat penting\nartinya bagi pertahanan keamanan Negara atau setidak-tidaknya,\nkalau diketahui umum dan dilaksanakan,\ndapat mempunyai pengaruh\nyang besar terhadap stabilitas pertahanan keamanan Negara.\nTersiarnya penemuan seperti itu dikhawatirkan akan mengganggu\nketentraman, ketertiban dan ketenangan masyarakat. Apalagi bila\npenemuan\ntersebut kemudian dilaksanakan secara tidak bertanggung\njawab. Untuk itu Kantor Paten diberi kewenangan untuk tidak\nmengumumkannya.\nNamun demikian sebelum mengambil keputusan untuk\nitu Kantor Paten wajib meminta persetujuan terlebih dahulu kepada\nMenteri.\nUntuk mengetahui kebenaran perkiraan dan kekhawatiran tersebut,\nKantor Paten mengadakan konsultasi dengan Instansi yang\nberwenang.\nDengan sendirinya, hal itu sulit dilakukan tanpa menyampaikan\ninformasi mengenai penemuan tersebut. Pengungkapan informasi ini,\ntidak\ndianggap sebagai pembocoran rahasia yang wajib dipegangnya.\nKetentuan ini, berlaku pula bagi instansi Pemerintah yang diminta\npertimbangan\nberikut aparatnya.\nNamun begitu, hal tersebut tetap terbatas sejauh berlangsung\ndiantara Kantor Paten dan instansi yang bersangkutan termasuk\naparat\nmereka dan tidak untuk diungkap kepada pihak ketiga\nlainnya.\nAyat (2)\nKalau permintaan paten tersebut diajukan sendiri\noleh penemu maka pemberitahuan tersebut disampaikan kepada\npenemu.\nTetapi dalam hal permintaan paten tersebut diajukan oleh kuasanya,\nmaka pemberitahuan disampaikan kepada kuasa yang bersangkutan\ndengan tembusan kepda penemu. Apabila permintaan paten tersebut\ndiajukan bukan oleh kuasa untuk dan atas nama orang yang berhak\natas\npenemuan, maka tembusan surat pemberitahuan disampaikan kepada\norang yang berhak tersebut.\nAyat (3) sampai dengan ayat (5)\nLihat penjelasan ayat (1)\nPasal 53\nAyat (1)\nDengan ketentuan ini maka terhadap permintaan\npaten yang tidak diumumkan pun pada dasarnya diberikan hak dan\nperlakuan yang sama,\nyaitu untuk diperiksa. Pemeriksaan yang\ndimaksud adalah pemeriksaan yang bersifat substantif. Sekalipun\nbegitu, untuk adanya pemeriksaan\nitu sendiri harus diajukan\npermintaan.\nDibanding dengan permintaan paten yang lain, maka bedanya hanya\npada tidak diumumkannya dokumen permintaan paten tersebut.\nSelebihnya,\ndiberlakukan ketentuan yang sama.\nAyat (2)\nKarena sifat penemuan tersebut dinilai penting\nbagi pertahanan keamanan Negara maka inisiatif pemeriksaan ini\ndatang dari pemerintah.\nOleh sebab itu pemerintah pula yang menanggung biaya\npemeriksaan.\nPasal 54\nCukup jelas\nPasal 55\nAyat (1)\nUntuk menentukan apakah permintaan paten untuk\nsuatu penemuan dapat dikabulkan atau ditolak, diperlukan\npemeriksaan yang bersifat\nsubstantif.\nTetapi untuk diadakannya pemeriksaan tersebut, harus diajuka\npermintaan secara tertulis untuk itu kepada Kantor Paten.\nOleh karenanya, bila orang yang mengajukan permintaan paten tidak\nmeminta diadakannya pemeriksaan substantif, pada prinsipnya akan\ndilakukan pemeriksaan tersebut. Dengan begitu, tidak akan ada\npemberian paten.\nPermintaan pemeriksaan harus disertai pembayaran biaya yang\nditentukan.\nAyat (2)\nBerbeda denga pemeriksaan yang bersifat formal,\nyaitu menyangkut kelengkapan syarat-syarat berdasar Pasal 29, Pasal\n30, Pasal 31,\npemeriksaan substantif ini menentukan dapat diberikan\natau ditolaknya permintaan paten.\nPemeriksaan ini lebih tertuju pada hal-hal yang bersifat\nsubstantif, yaitu apakah penemuan benar-benar baru, mengandung\nlangkah-langkah\ninventif dan mungkin atau tidaknya diterapkan dalam\nproses industri.\nAyat (3)\nKetentuan ini dimaksudkan untuk memberikan\nkeseragaman tentang bentuk permintaan. Dengan demikian, selain\nmemudahkan pihak yang meminta,\njuga mempercepat proses yang harus\ndilakukan oleh Kantor Paten.\nKarena sifatnya teknis maka pengaturan masalah ini diserahka kepada\nMenteri.\nPasal 56\nAyat (1)\nPermintaan untuk dilakukannya pemeriksaan\nsubstantif baru dapat diajukan setelah selesainya masa pengumuman\nyang berlangsung selama\n6 (enam) bulan. Sebaliknya, permintaan\npemeriksaan itupun pengajuannya memiliki batas waktu.\nPermintaan tersebut terakhir hanya dapat diajukan sebelum lewat\nwaktu 36 (tiga puluh enam) bulan sejak tanggal penerimaan\npermintaan\npaten oleh Kantor Paten.\nKetentuan in berlaku pula bagi permintaan paten yang diajukan\ndengan hak prioritas.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nPasal 57\nCukup jelas\nPasal 58\nAyat (1)\nAdalah mungkin bahwa bidang keahlian yang\ndiperlukan bagi pelaksanaan pemeriksaan substantif sesuatu penemuan\nyang dimintakan paten,\ntidak atau kurang dikuasai oleh pemeriksa\npaten. Begitu pula, fasilitas yang diperlukan untuk mengadakan\npemeriksaan secara baik,\ndimiliki oleh instansi atau lembaga lain.\nDalam hal demikian, Kantor Paten dapat meminta bantuan ahli dan\natau menggunakan fasilitas\ndari instansi atau lembaga lain\ntersebut. Tidak menjadi masalah, apakah bantuan ahli dan atau\nfasilitas seperti itu dimiliki oleh\nunit-unit penelitian dan\npengembangan di lingkungan departemen, lembaga Pemerintah non\ndepartemen, Universitas atau Institut atau\nlain- lainnya.\nHal ini tidak berarti bahwa pemeriksaan lantas dilaksanakan oleh\npihak-pihak lain dan bukan Kantor Paten. Pemeriksaan tetap\ndilakukan\noleh Kantor Paten.\nBadan atau Instansi yang memiliki tenaga ahli atau fasilitas yang\ndiperlukan, hanyalah sekedar membantu.\nTanggung jawab dan kewenangan, masih tetap ada pada Kantor\nPaten.\nBantuan tersebut diperlukan untuk memperlancar dan mempercepat\njalannya pemeriksaan. Keputusan akhir tentang dapat diberi atau\nditolaknya\npermintaan paten, dengan begitu tetap ada pada Kantor\nPaten.\nAyat (2)\nDalam hal Kantor Paten menggunakan bantuan ahli\ndan atau fasilitas yang ada pada instansi lainnya, maka mereka yang\nterlibat secara\nkeseluruhan terikat dengan kewajiban untuk menjaga\nkerahasiaan penemuan dan segala dokumen paten, termasuk penjelasan\natau informasi\nyang telah diberikan untuk melengkapinya.\nPasal 59\nAyat (1)\nPemeriksaan substantif atas permintaan paten\nhanya dilakukan oleh Pemeriksa Paten. Mereka adalah tenaga ahli\nyang secara khusus dididik\nuntuk itu, dan khusus diangkat untuk\ntugas itu pula.\nPada umumnya, mereka adalah pejabat di lingkungan Kantor Paten.\nTetapi mungkin saja, tenaga ahli seperti itu berasal dari instansi\nPemerintah lainnya, sejauh mereka juga pernah dididik secara khusus\ndan karenanya memiliki kualifikasi sebagai pemeriksa paten, serta\ndiangkat sebagai Pemeriksa Paten.\nAyat (2)\nLihat penjelasan ayat (1) Ayat (3)\nKarena sifat keahlian dan lingkup pekerjaan yang bersifat khusus,\nsudah sepantasnya bila jabatan pemeriksa paten diberi status\nsebagai\njabatan fungsional. Lebih dari itu, pada dasarnya mereka\nmemang semata-mata bekerja karena keahlian.\nStatus ini perlu diberikan dalam rangka pembinaan karir mereka,\nsehingga tidak tertinggal oleh rekan mereka yang bekerja dalam\nsatuan\norganisasi yang memiliki jenjang jabatan yang bersifat\nstruktural.\nDalam rangka pembinaan itu pula, kepada pemeriksa paten tersebut\ndiberikan penjenjangan jabata fungsional dan tunjangan yang\nbersifat\nkhusus, di samping hak-hak lainnya yang lazim diterima\noleh pegawai negeri berdasarkan peraturan perundang-undangan yang\nberlaku.\nPasal 60\nAyat (1)\nYang dimaksud dengan ketidak-jelasan atau\nkekurangan yang dinilai penting misalnya klaim yang tidak jelas,\ndeskripsi yang dirasakan\ntidak mendukung, termasuk gambar dan cara\npelaksanaan penemuan.\nBilamana hal-hal di atas kemudian dipandang perlu untuk diketahui\nlebih lanjut dalam rangka penyempurnaan, maka masalahnya\ndiberitahukan\nsecara tertulis oleh Kantor Paten kepada orang yang\nmengajukan permintaan paten.\nAyat (2)\nDalam hal diperlukan perbaikan atau perubahan,\nyang dimaksud antara lain penyempurnaan atau perubahan klaim,\ndeskripsi, termasuk gambar-gambar\nyang diperlukan dan uraian\ntentang cara pelaksanaan penemuan.\nAyat (3)\nCukup jelas\nPasal 61\nCukup jelas\nPasal 62\nAyat (1)\nKetentuan yang dimaksud adalah mengenai\nsyarat-syarat bahwa penemuan harus merupakan hal yang benar-benar\nbaru, mengandung langkah\ninventif dan dapat diterapkan dalam proses\nindustri.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nPasal 63\nCukup jelas\nPasal 64\nAyat (1)\nPaten lazimnya diberikan berupa surat yang bentuk\ndan isinya tertentu.\nKarenanya, paten seringkali disebut pula Surat Paten.\nAyat (2)\nCukup jelas\nAyat (3)\nLangkah ini dimaksudkan sebagai perwujudan salah\nsatu fungsi paten sebagai sumber informasi mengenai teknologi. Yang\ndimaksud dengan\ndokumen paten adalah surat paten beserta\nlampirannya yang antara lain meliputi deskripsi, gambar dan\nabstraksi.\nBagi anggota masyarakat yang menginginkannya, dapat meminta salinan\ndokumen paten tersebut kepada Kantor Paten dengan membayar biaya\nyang besarnya akan ditetapkan oleh Menteri.\nPasal 65\nAyat (1)\nBerbeda dengan Buku Resmi paten dimana setiap\npermintaan paten dicatat, maka Daftar Umum Paten khusus diadakan\nbagi pencatatan setiap\npaten yang diberikan oleh Kantor\nPaten.\nAyat (2)\nLihat penjelasan ayat (1)\nAyat (3)\nPengumuman dilakukan dengan cara sebagaimana\ndimaksud dalam Pasal 49 yaitu menempatkannya pada papan pengumuman\ndan pada Berita Resmi\nPaten.\nPasal 66\nTanggal pemberian paten dinyatakan dengan jelas\ndan tegas dalam Surat Paten.\nDengan berlaku surutnya paten yang diberikan sejak tanggal\npenerimaan permintaan paten berarti perlindungan terhadap penemuan\nberlaku\nsurut pula sejak tanggal tersebut.\nDengan penegasan ini maka Pemegang Paten mempunyai hak untuk\nmenuntut dihentikannya kegiatan pemakaian penemuan, penjualan dan\nlain-lain\nsebagaimana dimaksud dalam Pasal 22. Tuntutan serupa itu\ndiajukan tersebut kegiatan pemakaian, penjualan dan lain-lain\ntersebut di\natas masih tetap berlangsung, Pemegang Paten dapat\nmengajukan tuntutan atas dasar pelanggaran hak Pemegang\nPaten.\nPasal 67\nAyat (1)\nDalam Surat Paten antara lain dimuat hal-hal\npokok mengenai penemuan, klaim, nama Pemegang Paten lengkap dengan\nalamat yang jelas\ndan tetap, penemu, tanggal pemberian paten dan\nnomor paten yang bersangkutan.\nMengenai masalah nomor paten ini, penggunaan dalam arti\npencatumannya pada produk yang dihasilkan atau kemasannya pada\ndasarnya diserahkan\nkepada Pemegang paten yang bersangkutan atau\nyang menerima lebih lanjut hak tersebut.\nAyat (2)\nCukup jelas\nPasal 68\nAyat (1)\nPermintaan banding dengan demikian hanya dapat\ndiajukan dalam hal penolakan terhadap permintaan paten karena\nalasan atau pertimbangan\nyang bersifat substantif dan menjadi dasar\npenolakan tersebut. Jadi bukan dalam hal penolakan karena alasan\nlain seperti misalnya\ndiatur dalam Pasal 37 dan Pasal 38. Alasan\natau pertimbangan yang bersifat substantif tersebut adalah alasan\natau pertimbangan yang\ndigunakan Pemeriksa Paten dan kemudian\nmenghasilkan penilaian bahwa penemuan yang bersangkutan bukanlah\nmerupakan hal yang baru,\ntidak mengandung langkah inventif dan\ntidak pula dapat diterapkan dalam proses industri.\nDengan demikian banding tidak dapat diminta dalam hal penolakan\nyang disebabkan karena tidak dilakukannya perbaikan atau\npenyempurnaan\nklaim yang disarankan selama pemeriksaan\nsubstantif.\nBanding juga tidak dapat dimintakan karena dianggap ditariknya\nkembali permintaan paten sebagai hasil pemeriksaan awal sebelum\npermintaan\npaten diumumkan. Begitu pula, banding tidak dapat\ndimintakan karena ditolaknya permintaan paten oleh sebab tidak\ndimintakan pemeriksaan\nsubstantif sampai dengan batas waktu yang\nditetapkan untuk itu.\nAyat (2)\nCukup jelas\nAyat (3)\nKomisi Banding Paten adalah badan yang secara\nkhusus dibentuk untuk memeriksa permintaan banding atas penolakan\nterhadap permintaan\npaten dan memberikan hasil pemeriksaan kepada\nkantor paten. Dalam melaksanakan tugasnya, Komisi Banding Paten\nbekerja berdasarkan\nkeahlian dan tidak tunduk kepada perintah atau\nkemauan siapapun yang memimpin Departemen ataupun Kantor\nPaten.\nAyat (4)\nKomisi Banding Paten beranggotakan beberapa orang\nahli di bidang yang diperlukan dan pemeriksa paten senior. Kecuali\nKetua yang juga\nmerangkap anggota, para anggota Komisi Banding\nPaten diangkat setiap kali ada permintaan banding hanya untuk\nmemeriksa permintaan\nbanding yang bersangkutan.\nAyat (5)\nCukup jelas\nPasal 69\nAyat (1)\nCukup jelas\nAyat (2)\nAlasan, penjelasan atau bukti yang disertakan\ndalam permintaan banding harus bersifat pendalaman atas alasan\npenjelasan atau bukti\nyang telah atau seharusnya telah\ndisampaikannya. Sebab, kesempatan untuk memberikan kelengkapan\nalasan atau penjelasan atau bukti,\nsebenarnya telah diberikan\nsewaktu pemeriksaan substantif berlangsung.\nLarangan ini untuk mencegah timbulnya kemungkinan bahwa banding\nsekedar digunakan sebagai alat untuk melengkapi kekurangan dalam\npermintaan paten, sementara hal itu sebenarnya telah diberikan\ndalam tahap sebelumnya.\nPasal 70\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nPasal 71\nAyat (1)\nKeputusan Komisi Banding Paten diberikan\nselambat-lambatnya 12 (dua belas) bulan, artinya dapat pula kurang\ndari waktu tersebut.\nAyat (2)\nSifat keputusan Komisi Banding Paten ini final,\nartinya tidak dapat dimintakan peninjauan lebih lanjut kepada\nlembaga atau pejabat\nlainnya. Hal ini dilandaskan pada pertimbangan\nbahwa penilaian atas penemuan di bidang teknologi seperti ini,\nmenyangkut pertimbangan\nyang sangat bersifat teknis.\nHal ini pula yang menyebabkan mengapa keputusan mengenai diberi\natau tidak diberinya paten atas sesuatu penemuan, tidak dikaitkan\ndengan kewenangan tata usaha Negara pada umumnya yang kemudian\ndapat dijadikan obyek atau lingkup perkara Tata Usaha Negara.\nAyat (3)\nYang dimaksud dengan menerima permintaan banding\nadalah mengabulkan permintaan banding tersebut, dengan demikian\nkantor Paten memberikan\nSurat Paten.\nAyat (4)\nPemberitahuan penolakan tersebut disampaikan\nkepada orang yang mengajukan permintaan banding. Dalam hal\npermintaan banding diajukan\noleh kuasanya, maka pemberitahuan\ntersebut disampaikan kepada kuasa yang bersangkutan dan salinan\ndiberikan kepada orang yang memberi\nkuasa.\nPasal 72\nCukup jelas\nPasal 73\nAyat (1)\nSeperti halnya Hak Cipta dan Merek Dagang, paten\npada dasarnya adalah hak milik perorangan yang tidak berwujud dan\ntimbul karena kemampuan\nintelektual manusia. Sebagai hak milik,\npaten dapat pula dialihkan oleh penemunya atau yang berhak atas\npenemuan itu. Paten dapat\ndialihkan kepada perorangan atau kepada\nbadan hukum. Paten beralih atau dialihkan baik dengan cara\npewarisan, hibah, wasiat, maupun\ndengan cara perjanjian.\nKhusus mengenai pengalihan dengan perjanjian ini ditentukan, bahwa\nhal itu harus dituangkan dalam bentuk Akta Notaris. Hal ini\nmengingat\nbegitu luasnya aspek yang terjangkau oleh paten sebagai\nhak. Adapun sebab lain yang dibenarkan oleh undang-undang misalnya\npemilikan\npaten karena pembubaran badan hukum yang semula merupakan\nPemegang Paten.\nAyat (2)\nCukup jelas\nAyat (3)\nSifat pendaftaran pada Kantor Paten tersebut\nadalah wajib, sebab paten merupakan hak milik yang diberikan oleh\nNegara dan pemakaian\natau pemanfaatannya dibatasi dengan kurun\nwaktu tertentu. Begitu pula pelaksanaannya, karenanya setiap\nperalihannya perlu dicatat\ndalam Daftar Umum Paten. Biaya\npendaftaran dan pencatatan dibebankan kepada pihak yang menerima\npengalihan.\nAyat (4)\nCukup jelas\nAyat (5)\nCukup jelas\nPasal 74\nAyat (1)\nHak sebagai penemu terdahulu tidak dapat\ndialihkan karena memang bukan merupakan hak khusus seperti halnya\npaten.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nPasal 76\nAyat (1)\nBerbeda dengan pengalihan paten di mana pemilikan\nhak juga beralih, maka perlisensian melalui suatu perjanjian pada\ndasarnya hanya\nbersifat pemberian hak untuk menikmati manfaat\nekonomi daripada paten, dalam jangka waktu tertentu da syarat\ntertentu pula.\nAyat (2)\nCukup jelas\nPasal 77\nKadang-kadang perjanjian lisensi dibuat khusus,\nartinya lisensi hanya diberikan kepada pemegangnya. Bilamana\ndimaksudkan demikian\nmaka hal itu harus secara tegas dinyatakan\ndalam perjanjian lisensi. Apabila tidak, maka perjanjian lisensi\npaten dianggap tidak\nmemakai syarat seperti itu. Undang-undang ini\nmenganut faham yang demikian itu. Oleh karenanya Pemegang Paten\npada dasarnya masih\nboleh melaksanakan sendiri paten yang\ndilisensikannya, atau memberi lisensi yang sama kepada pihak ketiga\nlainnya.\nKetentuan ini dengan demikian dimaksudkan untuk mencegah\nberlangsungnya keadaan diamana perjanjian lisensi kemudian selalu\ndianggap\nbersifat ekslusif.\nPasal 78\nAyat (1)\nPaten merupakan salah satu sumber informasi\nteknologi yang sangat penting.\nPerlisensian yang berlangsung dengan syarat yang kurang atau sama\nsekali menutup jalan kearah penguasaan teknologi dalam paten, hanya\nakan menghambat pengembangan kemampuan bangsa Indonesia dalam\nmengetahui dan menguasai teknologi yang bersangkutan.\nDalam berfikir bahwa teknologi sangat penting dan besar artinya\nterhadap kehidupan dan kemajuan industri, maka adanya ketentuan\nserupa\nitu praktis tidak bermanfaat bagi perekonomian\nnasional.\nAyat (2)\nPenolakan permintaan pendaftaran dan pencatatan\ntersebut, dengan memperhatikan ayat (1), memang sudah seharusnya\nditolak oleh kantor\npaten.\nPasal 79\nAyat (1)\nSeperti halnya pengalihan pemilikan, perjanjian\nlisensi juga wajib didaftarkan dan dicatat.\nAyat (2)\nCukup jelas\nPasal 80\nCukup jelas\nPasal 81\nIstilah lisensi wajib (non voluntary\nlicense/compulsory license) lebih mengajcu pada mekanisme, dimana\ndalam kondisi tertentu dan\natas dasar dan syarat tertentu pula,\nsuatu paten berdasarkan putusan pengadilan Negeri setelah mendengar\nPemegang Paten dapat dilaksanakan\noleh pihak lain yang meminta.\nYang dimaksud dengan mendengar Pemegang Paten adalah mendengar\npenjelasan Pemegang Paten dimana di depan sidang Pengadilan Negeri\nmengenai hal-hal yang berkaitan dengan alasan diajukannya\npermintaan lisensi wajib sebagaimana dimaksud dalam pasal 82 ayat\n(2).\nDengan demikian permintaan dan pemberian Lisensi Wajib paad\ndasarnya berlangsung dengan sepengetahuan Pemegang Paten.\nPasal 82\nAyat (1)\nYang dimaksud denga orang adalah perorangan atau\nbadan hukum.\nDengan ketentuan ini, maka penilaian apakah suatu paten tidak\ndilaksanakan di Indonesia oleh Pemegang Paten dan inisiatif untuk\nmelaksanakannya,\ndiserahkan kepada masyarakat pada khususnya\nmasyarakat industri dan bukan kepada Negara.\nKetentuan ini dimaksudkan untuk mendorong kemingkinan pemakaian\npaten secara luas dan bermanfaat bagi masyarakat dan sekaligus\nmenutup\nkemungkinan dimanfaatkannya sistem paten untuk tujuan yang\nsempit dan bertentangan dengan maksud Undang-undang ini.\nPermintaan lisensi dalam rangka Lisensi Wajib ini hanya diajukan\nkepada Pengadilan Negeri dan bukan kepada Kantor Paten.\nAyat (2)\nYang dimaksud dengan tidak dilaksanakan adalah,\nbahwa dalam waktu 36 (tiga puluh enam) bulan sejak tanggal paten\ndiberikan Kantor\nPaten, paten yang bersangkutan tidak juga\ndigunakan untuk membuat produk, padahal kebutuhan masyarakat akan\nproduk yang bersangkutan\nsangat besar.\nAyat (3)\nKetentuan ini bersangkutan denga kondisi yang\nharus dipersiapkan, yaitu tersedianya hakim yang memiliki\npengetahuan dan penguasaan\nmasalah paten dengan segala aspek hukum,\nsosial, ekonomi dan teknisnya. Untuk itu menetapkan pengadilan\nNegeri tertentu yang dapat\nmenerima permintaan lisensi seperti\nitu.\nPasal 83\nAyat (1)\nSelain pembuktian mengenai kebenaran alasan\ntentang tidak dilaksanakannya paten dalam jangka waktu 36 (tiga\npuluh enam) bulan sejak\ntanggal diberikannya paten, permintaan\nLisensi Wajib harus dilengkapi dengan bukti mengenai jjhal-hal yang\ndiatur dalam ayat ini.\nPerlunya bukti yang menyakinkan bahwa orang yang meminta harus\nmempunyai kemampuan finansiil dan teknis untuk melaksanakan sendiri\npaten tersebut, dimaksudkan untuk mencegah penyalahgunaan yang\ndapat pula merusak sistem paten dan menggunakannya untuk tujuan\nantara\nlain persaingan yang tidak sehat atau sekedar menjadi\nperantara saja.\nPengadilan Negeri juga harus meneliti dengan benar apakah\npermintaan Lisensi Wajib tersebut dapat dilaksanakan orang yang\nmeminta\ndalam skala ekonomi yang layak dan dapat memberikan\nkemanfaatan kepada sebagian besar masyarakat.\nDapat dilaksanakan dalam skala ekonomi yang layak, artinya paten\ntersebut dapat digunakan untuk menghasilkan barang dalam jumlah\ndan\ntingkat harga yang sebanding dengan kebutuhan dan kondisi\npasar.\nAyat (2)\nPendapat ahli dari Kantor Paten dan pendapat\nPemegang Paten tersebut diperlukan agar Pengadilan Negeri dapat\nmempertimbangkan dan\nmemutuskan secara obyektif dan benar. Ahli\ntersebut dapat berasal dari Kantor Paten atau dari instansi\nPemerintah yang terkait atas\npermintaan Kantor Paten.\nAyat (3)\nKeputusan Pengadilan Negeri dapat saja lebih\npendek dari jangka waktu yang diatur dalam Peraturan Pemerintah dan\nhal itu tergantung\ndari hasil pemeriksaan selama persidangan.\nPada dasarnya, jangka waktu untuk pelaksanaan paten berdasar\nLisensi Wajib ini diatur dalam Peraturan Pemerintah. Selain masalah\njangka waktu, dalam Peraturan Pemerintah tersebut diatur pula\nketentuan antara lain mengenai tata cara dengar pendapat, dasar dan\ncara penetapan besarnya royalti, pendaftaran Lisensi Wajib dan\npembatalan Lisensi Wajib.\nPasal 84\nPenundaan tersebut dapat berlangsung selama waktu\nyang dinilai wajar untuk melihat dan memberi kesempatan kepada\nPemegang Paten bahwa\nia benar-benar berusaha dan dapat menunjukkan\nbukti nyata mengenai kegiatan dan hasil pelaksanaan patennya.\nBilamana demikian halnya, Pengadilan Negeri selanjutnya dapat\nmenolak permintaan lisensi.\nTetapi kalau sampai akhir penundaan tersebut memang terbukti lain,\natau selama waktu penundaan tidak ada tanda-tanda atau bukti akan\nmampu dilaksanakannya paten tersebut secara komersial, Pengadilan\nmembuka kembali persidangan dan melanjutkan pemeriksaan terhadap\npermintaan lisensi.\nPasal 85\nAyat (1)\nRoyalti adalah sejumlah uang yang dibayarkan oleh\nPemegang Lisensi Wajib kepada Pemegang Paten.\nAyat (2)\nCukup jelas\nAyat (3)\nPerjanjian lain yang sejenis, maksudnya adalah\nperjanjian yang lazim dibuat dalam pengalihan kemampuan atau\npengetahuan tentang tekhnologi\nyang tidak dipatenkan.\nMengenai bentuk imbalan dan cara pembayarannya lihat pula ketentuan\nPasal 13.\nPasal 86\nCukup jelas\nPasal 87\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nBiaya tersebut adalah untuk pendaftaran dan untuk\npemeliharaan catatan untuk setiap tahun selama jangka waktu\nberlakunya lisensi tersebut.\nAyat (4)\nCukup jelas\nAyat (5)\nCukup jelas\nPasal 88\nAyat (1)\nKeadaan ini biasanya terjadi dalam pelaksanaan\npaten yang merupakan hasil penyempurnaan atau pengembangan penemuan\nyang lebih dahulu\ntelah dilindungi paten. Oleh karenanya,\npelaksanaan paten yang baru tersebut berarti melaksanakan sebagian\natau seluruh penemuan\nyang telah dilindungi paten yang dipegang\noleh orang lain. Apabila Pemegang Paten terdahulu memberi lisensi\nbagi pelaksanaan paten\nyang merupakan hasil penyempurnaan atau\npengembangan berikutnya, jelas tidak menjadi masalah.\nTetapi kalau lisensi untuk itu tidak diberikan, semestinya\nUndang-undang ini menyediakan jalan keluarnya.\nOleh karenanya, agar paten yang diberikan belakangan dapat\ndilaksanakan, sudah sewajarnya bila yang terakhir ini juga\ndimungkinkan\nuntuk melaksanakannya tanpa melanggar paten yang\nterdahulu. Hal itu hanya dapat terlaksana apabila Lisensi Wajib\ndiberikan oleh Pengadilan.\nContoh mengenai hal ini adalah sebagai berikut:\nPaten A terdiri atas 4 klaim, yang seluruhnya merupakan satu\nkesatuan.\nPaten B, yang diperoleh sesudah paten A, pada dasarnya berisikan 3\nklaim yang pada hakekatnya merupakan penyempurnaan dan pengembangan\n3 klaim diantara 4 klaim dalam paten A. Sebagai hasil penyempurnaan\ndan pengembangan, sudah barang tentu paten B memiliki basis\nteknologi\nyang ada pada paten A. Seandainya pemegang paten B\nbermaksud akan melaksanakan patennya, hal tersebut akan sulit tanpa\nmelanggar\nsalah satu klaim dalam paten A.\nBila Pemegang Paten A memberikan lisensi kepada Pemegang paten B\nuntuk melaksanakan satu klaim miliknya, jelas tidak akan timbul\nmasalah. Tetapi kalau Pemegang paten A tidak bersedia memberikan\nlisensi maka satu-satunya jalan bagi Pemegang Paten B adalah\nmeminta\nLisensi Wajib kepada Pengadilan Negeri.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nPasal 89\nAyat (1)\nHuruf a\nAlasan yang dijadikan dasar bagi pemberian\nLisensi Wajib adalah sebagaimana diatur dalam Pasal 82 ayat\n(2).\nHuruf b\nCukup jelas\nHuruf c\nSyarat dan ketentuan yang dimaksud adalah\nsebagaimana antara lain diatur dalam Pasal 83 ayat (1) dan Pasal\n85.\nAyat (2) dan Ayat (3)\nPemberitahuan putusan pembatalan Lisensi Wajib\noleh Pengadilan Negeri dan pemberitahuan pencatatan serta\npengumuman oleh Kantor Paten\nharus dilakukan dalam waktu sesingkat\nmungkin. Oleh karena putusan pembatalan tersebut hanya menyangkut\nLisensi Wajib yang pernah\ndiberikan putusan oleh Pengadilan Negeri\natas permintaan bekas Pemegang Lisensi Wajib yang bersangkutan dan\npemberian atau pembatalannya\njuga terikat pada syarat tertentu,\nmaka pembatalan tersebut tidak dimintakan banding dan kasasi\nsebagaimana dimaksud dalam Pasal\n125.\nPasal 90\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 91\nCukup jelas\nPasal 92\nAyat (1)\nPada prinsipnya Lisensi Wajib tidak dapat\ndialihkan. Sebab, lisensi seperti ini hanya diberikan dalam keadaan\nkhusus, dan terikat\npada syarat-syarat yang khusus pula dalam\npelaksanaannya.\nDikecualikan dari ketentuan tersebut adalah dalam hal pewarisan,\nyaitu orang perorangan yang memperoleh lisensi tersebut meninggal\ndunia. Bagi badan hukum, tidak berlaku ketentuan tentang\npewarisan.\nAgak berlainan halnya dengan Lisensi Wajib yang dimintakan dalam\nkaitannya dengan pelaksanaan suatu paten, seperti yang diatur dalam\nPasal 88. Dalam hal ini, pengalihan tetap dapat berlangsung. Sebab,\nyang dialihkan adalah paten yang baru, yang pelaksanaannya tidak\nmungkin dapat berlangsung tanpa melanggar paten yang lama dan untuk\nitu dimintakan Lisensi Wajib.\nBagi badan yang baru tadi, ketentuan tentang dapat berlakunya paten\nsebagaimana diatur dalam Pasal 73 berlaku sepenuhnya.\nAyat (2)\nDalam hal beralihnya Lisensi Wajib berlangsung\nkarena pewarisan, maka pelaksanaannya oleh ahli waris tetap terikat\npada syarat-syarat\npemberiannya dan ketentuan lainnya, serta\nberlangsung untuk sisa jangka waktu yang masih ada.\nSelain itu, beralihnya Lisensi Wajib karena pewarisan tersebut\nharus dilaporkan kepada Kantor Paten untuk selanjutnya\ndicatat.\nPasal 93\nCukup jelas\nPasal 94\nAyat (1)\nCukup jelas\nAyat (2)\nKarena pelaksanaan paten serupa ini sangat\ntergantung pada persetujuan Pemerintah, maka tidak dilaksanakannya\npaten tersebut selama\njangka waktu 48 (empat puluh delapan) bulan\nsejak pemberian paten tidak dianggap sebagai tidak dilaksanakannya\npaten yang bersangkutan.\nPasal 95\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nPasal 96\nAyat (1)\nKarena paten pada dasarnya hak yang diterima dari\nNegara untuk selama jangka waktu tertentu, maka kalau yang\nbersangkutan tidak menghendaki\nhak tersebut lebih lanjut, dapat\nsaja Negara membatalkan hak yang telah diberikannya.\nPermintaan untuk itu diajukan oleh Pemegang Paten secara tertulis\nkepada Kantor Paten.\nAyat (2)\nPersetujuan Pemegang Lisensi dalam pembatalan\npaten dimaksudkan untuk melindungi kepentingan Pemegang\nLisensi.\nAyat (3)\nCukup jelas\nAyat (4)\nLihat penjelasan ayat (2)\nAyat (5)\nCukup jelas\nPasal 97\nAyat (1)\nHuruf a\nTermasuk pula dalam pengertian ini adalah paten\nyang sudah ada tetapi kemudian penggunaan, pengumuman atau\npelaksanaannya bertentangan\ndengan peraturan perundang-undangan,\nketertiban umum atau kesusilaan. Paten serupa ini dapat pula\ndigugat pembatalannya.\nHuruf b\nGugatan pembatalan ini biasanya ditujukan\nterhadap paten yang diberikan belakangan kepada orang lain, tetapi\nuntuk penemuan yang sebenarnya\nsama.\nAyat (2)\nPenentuan Pengadilan Negeri Jakarta Pusat untuk\nmelayani gugatan serupa ini, dimaksudkan untuk memusatkan\npemeriksaan mengingat penyelesaiannya\nsangat memerlukan data dan\npenjelasan dari Kantor Paten.\nAyat (3)\nLihat pula penjelasan ayat (2)\nPasal 98\nApabila ada klaim yang dimintakan pembatalan\nkarena alasan seperti yang diatur dalam Pasal 95, dan kemudian\ndinyatakan benar, maka\npembatalan hanya ditujukan terhadap klaim\nyang dimintakan pembatalan.\nDalam hal ini, berarti sebagian paten dibatalkan.\nPasal 99\nAyat (1)\nSekalipun gugatan tersebut oleh Pengadilan Negeri\nJakarta Pusat disampaikan kepada Kantor Paten, tetapi penyampaian\ntersebut lebih\nbersifat pemberitahuan.\nPemanggilan untuk pemeriksaan sehubungan dengan adanya gugatan\ntersebut, tetap dilakukan sendiri oleh Pengadilan Negeri Jakarta\nPusat.\nBegitu pula halnya dengan penyampaian putusan.\nAyat (2)\nCukup jelas\nPasal 100\nSejauh mengenai hak Pemegang Lisensi berkenaan\ndengan pembatalan paten, periksa penjelasan Pasal berikut.\nPasal 101\nKeputusan mengenai batalnya paten, baik untuk\nseluruhnya maupun untuk sebagian, tidak mulai berlaku sejak adanya\npemberitahuan Kantor\nPaten atau tanggal pencatatannya dalam Daftar\nUmum Paten ataupun tanggal pengumumannya.\nYang digunakan untuk titik tolak pada dasarnya adalah tanggal\nputusan Pengadilan, kecuali bilamana dalam putusan itu ditetapkan\ntanggal\nyang lain. Hal ini didasarkan atas pertimbangan bahwa\npencatatan dan lain-lain oleh Kantor Paten, biasanya baru\nberlangsung beberapa\nwaktu setelah putusan Pengadilan. Dengan\nbegitu, perlindungan terhadap pihak lain dapat diberikan sedini\nmungkin.\nPasal 102\nAyat (1)\nKetentuan ini merupakan perlindungan terhadap\nPemegang Lisensi.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nPasal 103\nAyat (1)\nBagi Pemegang Lisensi Paten yang dibatalkan, pada\ndasarnya terus dapat melaksanakan hak yang diperolehnya. Bedanya,\nlisensi tersebut\nmenjadi lisensi atas paten lainnya yang tidak\ndibatalkan.\nAyat (2)\nKewajiban pembayaran royalti berikutnya berpindah\nkepada Pemegang Paten yang tidak dibatalkan.\nPasal 104\nAyat (1)\nKewenangan ini terbatas hanya apabila paten\nmempunyai arti yang penting bagi penyelenggaraan pertahanan\nkeamanan Negara.\nDengan sendirinya, paten yang dimaksud adalah paten yang diberikan\ndi Indonesia saja.\nKarena pertahanan keamanan Negara menyangkut kepentingan Nasional,\nmaka adalah wajar bila Pemerintah diberi kewenangan untuk\nmelaksanakannya.\nMasalahnya bukan sekedar kelangsungan hidup\nNegara, atau semakin kuatnya Negara dimana paten yang bersangkutan\ndiberikan dan dilindungi,\ntetapi hal ini juga merupakan salah satu\nsisi daripada fungsi sosial suatu paten.\nNamun begitu, bilamana suatu paten atau pelaksanaannya sekedar\nmemiliki kaitan dengan kebutuhan penyelenggaraan pertahanan\nkeamanan\nNegara, tetapi tidak mempunyai arti/pengaruh yang penting\ndan karenanya tidak diperlukan sekali, Pemerintah tidak perlu\nmenggunakan\nkewenangan ini.\nAyat (2)\nSekalipun kewenangan untuk melaksanakan sendiri\npaten tersebut diberikan, tetapi hal itu tidak berarti bahwa\nkeputusan untuk itu dapat\ndilakukan setiap orang dalam\npemerintahan.\nKeputusan untuk itu hanya dapat diberikan oleh Presiden, setelah\nmendengar pertimbangan Menteri dan Menteri yang bertanggungjawab\ndi\nbidang pertahanan keamanan Negara.\nDengan begitu ketentuan ini merupakan pembatasan pertama terhadap\nkewenangan tersebut, sehingga tidak digunakan secara merugikan\npenemu atau yang berhak atas penemuan.\nPasal 105\nAyat (1)\nKetentuan ini khusus untuk penemuan yang belum\ndiberi paten, tetapi proses permintaannya sedang berlangsung.\nPenemuan yang dalam pemeriksaan\nawal sudah dapat diketahui memiliki\narti penting bagi penyelenggaraan pertahanan keamanan Negara, atau\npelaksanaannya akan sangat\npenting arti dan pengaruhnya terhadap\npertahanan keamanan Negara, menurut Pasal 52 tidak boleh\ndiumumkan.\nSekalipun menurut ketentuan pasal 53 terhadap penemuan serupa itu\npada saatnya dan apabila diminta juga akan dilakukan pemeriksaan\nsubstabtif, tetapi bila kepentingan seperti itu timbul, Negara\ntetap dapat melaksanakan penemuan tersebut.\nAyat (2)\nCukup jelas\nAyat (3)\nPembebasan kewajiban pembayaran biaya\npemeliharaan ini didasarkan atas pertimbangan bahwa pelaksanaan\npaten tersebut sangat tergantung\nkepada persetujuan\npemerintah.\nPasal 106\nAyat (1)\nPemberitahuan dilakukan secara tertulis dan\ndisampaikan kepada Pemegang Paten yang bersangkutan dalam waktu\nyang secukupnya, setelah\nmendengar pendapat dan saran Pemegang\nPaten yang bersangkutan.\nApabila suatu paten di Indonesia dianggap penting artinya oleh\nPemerintah bagi penyelenggaraan pertahanan keamanan Negara\nsebagaimana\ndimaksud dalam Pasal 104, paten tersebut dilaksanakan\nsendiri oleh Pemerintah dalam jangka waktu tertentu dengan\nmempertimbangkan\naspek keamanan.\nApabila Pemerintah tidak lagi bermaksud melaksanakan sendiri paten\ntersebut sedangkan jangka waktu paten belum berakhir maka hak\nPemegang Paten atas patennya menjadi pulih. Dalam hal demikian\nPemegang Paten yang bersangkutan dapat melaksanakan sendiri atau\nmemberi\nlisensi kepada pihak lain dan untuk itu harus mendapat\npersetujuan Pemerintah.\nImbalan yang diberikan Pemerintah kepada Pemegang Paten lebih\nberarti sebagai kompensasi yang besarnya disamakan dengan pemakaian\natas dasar lisensi dalam suatu kegiatan ekonomi pada umumnya.\nAyat (2)\nImbalan dalam hal ini lebih berarti sebagai\nkompensasi daripada sebagai royalti, oleh karena itu imbalan yang\nwajar harus diberikan.\nPenghitungannya, dilakukan dengan memperhatikan cara yang lazim\ndigunakan dalam praktek pemberian lisensi, termasuk komponen harga\nyang biasa digunakan dalam cara perhitungan tersebut yang akan\ndiatur lebih lanjut dalam Peraturan Pemerintah.\nTermasuk dalam pengaturan ini adalah kemungkinan pemberian semacam\nimbalan tambahan dalam bentuk hadiah atau bonus atau apapun yang\nsejenis bilamana keadaan tertentu dari pelaksana paten tersebut\nternyata diperoleh manfaat ekonomi yang besarnya melebihi perkiraan\nawal.\nHal ini penting, karena pemikiran yang mendasari pemberian\nkewenangan seperti ini sama sekali jauh dari perampasan hak atau\npenyitaan\nkekayaan seseorang. Oleh sebab itu, cara penyampaiannnya\nperlu pula dilakukan secara sederhana, cepat dan langsung.\nPasal 107\nAyat (1)\nKeputusan Pemerintah dalam bidang ini adalah\nbenar-benar untuk kepentingan pertahanan keamanan Negara.\nProses penilaian dan pertimbangan berlangsung secara cermat,\nberjenjang dan berakhir hingga keluarnya Keputusan Presiden.\nMengingat\nkepentingan yang diwakili Pemerintah lebih mengutamakan\nkeselamatan, kebutuhan, ketenteraman dan ketertiban kehidupan\nseluruh penduduk\nNegara, maka keputusan Pemerintah bersifat\nfinal.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nAyat (4)\nCukup jelas\nPasal 108\nKetentuan dalam Bab ini barulah bersifat pokok.\nKarena menyangkut hak seseorang, sudah sepantasnya bilamana\nketentuan ini segera diikuti\nketentuan yang lebih bersifat rinci\ndan mampu memberikan kejelasan operasionalisasinya.\nPasal 109\nCukup jelas\nPasal 110\nAyat (1)\nKarena proses penemuannya berlangsung sederhana\ndan hasil yang diperoleh juga bersifat sederhana, maka penemuan\nyang dihasilkan biasanya\nhanya berisikan 1 (satu) klaim.\nAyat (2)\nDengan ketentuan ini maka terhadap setiap\npermintaan Paten Sederhana secara langsung dilakukan pemeriksaan\nsubstantif tanpa perlu\nadanya pengumuman.\nSekalipun demikian syarat kelengkapan sebagaimana lazimnya\npermintaan paten pada dasarnya tetap harus dipenuhi.\nPasal 111\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nKarena Paten Sederhana ini menyangkut teknologi\nyang proses penemuannya berlangsung sederhana, maka tidak\ndiperlukan adanya mekanisme\nbanding seperti halnya paten pada\numumnya.\nDari segi ekonomi dan jangka waktu perlindungan yang relatif\npendek, proses yang semakin panjang tidak pula menguntungkan bagi\npenemu\nitu sendiri.\nPasal 112\nAyat (1)\nLihat penjelasan Pasal 10.\nAyat (2)\nCukup jelas\nPasal 113\nKarena hasil penemuan tersebut bersifat\nsederhana, sudah sepantasnya pula bila prosedur perolehan Paten\nSederhana juga dibuat sederhana.\nArtinya, lebih sederhana kalau\ndibanding dengan prosedur perolehan paten.\nBegitu pula untuk hal-hal lainnya, yang pada dasarnya perlu\ndibedakan misalnya pengenaan biaya pemeriksaan dan lain-lain yang\ndipandang\nperlu.\nPasal 114\nAyat (1)\nBiaya yang dibayarkan tersebut dan biaya lainnya\nyang ditentukan dalam Undang-undang ini merupakan penerimaan\nNegara.\nAyat (2)\nCukup jelas\nPasal 115\nContoh pembayaran biaya tahunan tersebut\nadalah:\nA memperoleh Paten pada tanggal 1 Januari 1980 maka kewajiban\npembayaran biaya tahunan yang pertama harus dipenuhi\nselambat-lambatnya\ntanggal 31 Desember 1980 tersebut. uNtuk biaya\ntahunan tiap-tiap tahun berikutnya harus dibayar selambat-\nlambatnya tanggal 1 Januair\nsetiap tahun.\nPasal 116\nAyat (1) dan Ayat (2)\nJangka waktu 3 (tiga) tahun tersebut didasarkan\natas pertimbangan untuk memberikan kesempatan yang cukup kepada\nPemegang Paten untuk\nmempertimbangkan sendiri kelangsungan\npatennya.\nPembatalan paten karena tidak membayar biaya tahunan diberitahukan\noleh Kantor Paten kepada Pemegang Paten secara tertulis. Dalam\npemberitahuan tersebut dimuat tanggal berakhirnya paten yang\nbersangkutan sesuai dengan ketentuan Pasal ini.\nAyat (3)\nCukup jelas\nPasal 117\nAyat (1)\nPengenaan biaya tambahan sebesar 25% (dua puluh\nlima perseratus) untuk tiap tahun tersebut dimaksudkan agar\nPemegang paten benar-benar\nmemperhatikan kewajibannya.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nPasal 118\nAyat (1) dan Ayat (2)\nPenyelenggaraan administrasi tersebut meliputi\npenyelengaraan dokumentasi dan pelayanan informasi paten.\nPasal 119\nSebagai salah satu sumber informasi teknologi,\npaten merupakan sarana bagi peningkatan penguasaan dan kemampuan\nbangsa di bidang teknologi.\nOleh karenanya, masalah dokumentasi dan informasi paten memiliki\narti dan peran yang sangat penting bahkan strategis. Untuk itu,\nKantor Paten perlu diberi dorongan untuk menyusun sistem\ndokumentasi dan khususnya sisten jaringan informasi yang saling\nterkait\ndan kuat. Dalam rangka ini, Kantor Paten memanfaatkan\nkemampuan dan fasilitas yang dimiliki instansi lainnya baik milik\nPemerintah\nmaupun swasta dengan kerjasama sebaik-baiknya dalam\nmewujudkan sistem tersebut.\nSelain itu, terbinanya dokumentasi dan sisten jaringan informasi\nyang baik dan tangguh, juga bermanfaat bagi kelancaran pelaksanaan\ntugas Kantor Paten itu sendiri, terutama dalam melakukan\npemeriksaan paten.\nMasih dalam rangka pembangunan dan pengembangan sisten dokumentasi\ndan informasi paten secara nasional, Kantor Paten memanfaatkan\nkesempatan bantuan teknik dan kerjasama luar negeri.\nPasal 120\nSekalipun pembinaan Kantor Paten pada dasarnya\ndilakukan oleh Menteri, tetapi mengingat paten memiliki segi-segi\nyang sangat luas\nbaik di bidang sosial-budaya, ekonomi, politik dan\npertahanan keamanan Negara, maka dalam pelaksanaan tugasnya Kantor\nPaten harus\nselalu memperhatikan pula kepentingan dan kecenderungan\nyang berlangsung di bidang di atas.\nKarenanya, Kantor Pten wajib bekerja seerat-eratnya dengan berbagai\ninstansi Pemerintah yang bersangkutan, termasuk instansi atau\norganisasi swasta.\nPenanggungjawabannya, tetap diberikan kepada Menteri.\nPasal 121\nAyat (1)\nTuntutan ini menyangkut pemilikan paten. Dalam\nhal ini orang yang merasa bahwa berdasarkan ketentuan Pasal 11,\nPasal 12 dan Pasal\n13 sebenarnya berhak atas suatu paten, dapat\nmenuntut orang lain yang ternyata telah memperoleh paten.\nPenentuan Pengadilan Negeri Jakarta Pusat untuk memeriksa tuntutan\nserupa ini didasarkan pertimbangan antara lain:\na. kemudahan untuk memperoleh data termasuk\ndokumen yang diperlukan dalam pembuktian;\nb. adanya faktor internasional dalam pelaksanaan sistem paten.\nNamun demikian bilamana keadaan di masa mendatanag telah\nmemungkinkan, Menteri dapat menetapkan Pengadilan Negeri lainnya\nuntuk melayani\ntuntutan yang serupa.\nYang dimaksud dengan hak yang melekat pada paten antara lain\nmeliputi manfaat ekonomi yang telah dinikmati dari paten yang\nbersangkutan.\nAyat (2)\nCukup jelas\nPasal 122\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nPasal 123\nAyat (1)\nKetentuan ini berlaku pula dalam hal adanya\ntuntutan sebagaimana diatur dalam Pasal 121 ayat (1).\nAyat (2)\nCukup jelas\nPasal 124\nSekalipun paten merupakan hak milik perorangan,\ntetapi pelaksanaannya memiliki dampak yang sangat luas dalam segi\nlain terutama di\nbidang tatanan kehidupan sosial, ekonomi dan\npolitik.\nOleh karenanya, agar pelaksanaan hak tersebut dapat berlangsung\ndengan tertib, Negara juga mengancam pidana atas pelanggaran\ntertentu\nterhadap Undang-undang ini.\nPasal 125\nAyat (1)\nCukup jelas\nAyat (2)\nYang dimaksud Pengadilan Negeri adalah pengadilan\ntingkat pertama.\nPasal 126\nCukup jelas\nPasal 127\nCukup jelas\nPasal 128\nCukup jelas\nPasal 129\nCukup jelas\nPasal 130\nAyat (1)\nPemberian wewenang kepada pejabat pegawai negeri\nsipil dalam ayat ini, sama sekali tidak mengurangi wewenang\npenyidik pejabat Polisi\nNegara Republik Indonesia untuk menyidik\ntindak pidana di bidang paten.\nDalam pelaksanaan tugas dan wewenangnya pejabat pegawai negeri\nsipil tersebut berada di bawah koordinasi dan pengawasan penyidik\npejabat Polisi Negara Republik Indonesia.\nAyat (2)\nKewenangan penyidikan sebagaimana dimaksud dalam\nayat (1) dan ayat (2) dilaksanakan sesuai dengan ketentuan dalam\nUndang-undang Nomor\n8 Tahun 1981 tentang Hukum Acara Pidana.\nAyat (3)\nUntuk kepentingan penyidikan, penyidik pejabat\nPolisi Negara Republik Indonesia, diminta atau tidak diminta\nmemberi petunjuk dan bantuan\npenyidikan kepada pejabat penyidik\npegawai negeri sipil tersebut pada ayat (1).\nYang dimaksud dengan petunjuk antara lain, ialah yang berkaitan\ndengan teknik dan taktik penyidikan sedangkan bantuan penyidikan\nantara lain penangkapan, penahanan dan pemeriksaan\nlaboratorium.\nOleh karena itu, pejabat penyidik pegawai negeri sipil sejak awal\nwajib memberitahukan tentang penyidikan itu kepada penyidik pejabat\nPolisi Negara Republik Indonesia. Selanjutnya hasil penyidikan\nberupa berkas perkara, tersangka dan barang bukti diserahkan kepada\nPenuntut Umum melalui penyidik pejabat Polisi Negara Republik\nIndonesia.\nPasal 131\nAyat (1)\nYang dimaksud dengan Pengumuman Pemerintah Tahun\n1953 adalah Pengumuman Menteri Kehakiman Nomor J.S.5/41/4 tanggal\n12 Agustus 1953\nyang dimuat dalam Berita Negara Nomor 69 tanggal 28\nAgustus 1953 dan Pengumuman Menteri Kehakiman Nomor J.G.1/2/17\ntanggal 29 Oktober\n1953 yang dimuat dalam Berita Negara Nomor 91\ntanggal 13 Nopember 1953.\nPembatasan bahwa yang dapat dimintakan paten adalah permintaan yang\ntelah didaftarkan dalam 10 (sepuluh) tahun terakhir didasarkan\natas\npertimbangan bahwa sekalipun dalam pengumuman tanggal 12 Agustus\n1953 diberitahukan adanya kemungkinan untuk diberikan prioritas\nuntuk diproses, tetapi hal itupun berkaitan dengan realita yang\nberkaitan dengan jangka waktu paten yang diatur dalam Undang-undang\nini serta waktu yang dibutuhkan untuk memprosesnya.\nDalam pengajuan permintaan paten tersebut, sepenuhnya harus diikuti\nketentuan Undang- undang ini.\nAyat (2)\nCukup jelas\nAyat (3)\nKarena dinyatakan gugur, maka pendaftaran\ntersebut dianggap tidak memiliki kekuatan hukum lagi dan karenanya\ntidak berlaku.\nAyat (4)\nCukup jelas\nPasal 132\nCukup jelas\nPasal 133\nCukup jelas\nPasal 134\nCukup jelas\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 3398"
+   }
+  }
+ ]
+}

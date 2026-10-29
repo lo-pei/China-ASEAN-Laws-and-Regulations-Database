@@ -1,0 +1,72 @@
+{
+ "id": "PH-H16378",
+ "title": {
+  "zh": null,
+  "en": "An Act Appropriating All Unexpended Balances of the General Fund and Authorizing the Transfer to the Said General Fund of the Unexpected Balances of All Special Funds in the Philippine Treasury for the National Defense Of, and the Protection of the Civillian Population In, the Philippines, and for Other Purposes Connected With the Present Emergency.",
+  "orig": "An Act Appropriating All Unexpended Balances of the General Fund and Authorizing the Transfer to the Said General Fund of the Unexpected Balances of All Special Funds in the Philippine Treasury for the National Defense Of, and the Protection of the Civillian Population In, the Philippines, and for Other Purposes Connected With the Present Emergency."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1941-12-12",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 670",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1138,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00670_1941_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00670_1941_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H16378-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The President is hereby authorized to declare as abandoned the purposes for which all special\nfunds were created and to transfer the unexpended balances of the said special funds to the General Fund in\nthe Philippine Treasury."
+   }
+  },
+  {
+   "id": "PH-H16378-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The provisions of existing laws to the country notwithstanding, all unexpended balances of the\nGeneral gund in the Philippine Treasury, including the unexpended balances of authorized appropriations\ntherefrom existing on the date of the approval of this Act, as well as such sums as may subsequently accrue\nthereto and the balances of the special funds transferred pursuant to section one hereof, are hereby\nappropriated for expenditure, in the discretion of the President of the Philippines, for the national defense of,\nand the protection of the civilian population in, the Philippines, including expenses of the Philippine Army\nand of the Philippine Constabulary, as well as those for the organization of volunteer or home guards, or for\nany other purpose connected with the present emergency which the President of the Philippines may"
+   }
+  },
+  {
+   "id": "PH-H16378-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, December 12, 1941."
+   }
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "id": "PH-H22122",
+ "title": {
+  "zh": null,
+  "en": "Amending Commonwealth Act No. 108, as Amended, Otherwise Known as \"The Anti-Dummy Law",
+  "orig": "Amending Commonwealth Act No. 108, as Amended, Otherwise Known as \"The Anti-Dummy Law"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1975-05-28",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 715",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 2772,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_00715_1975_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_00715_1975_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22122-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section 2-A of Commonwealth Act No. 108, as amended, is hereby further amended to read as\n\"Section 2-A. Any person, corporation, or association, which, having in its name or under its control, a right,\nfranchise, privilege, property or business, the exercise or enjoyment of which is expressly reserved by the\nConstitution or the laws to citizens of the Philippines or of any other specific country, or to corporations or\nassociations at least sixty per centum of the capital of which is owned by such citizens, permits or allows the\nuse, exploitation or enjoyment thereof by a person, corporation or association not possessing the requisites\nprescribed by the Constitution or the laws of the Philippines; or leases, or in any other way, transfers or\nconveys said right, franchise, privilege, property or business to a person, corporation or association not\notherwise qualified under the Constitution, or the provisions of the existing laws; or in any manner permits or\nallows any person, not possessing the qualifications required by the Constitution, or existing laws to acquire,\nuse, exploit or enjoy a right, franchise, privilege, property or business, the exercise and enjoyment of which\nare expressly reserved by the Constitution or existing laws to citizens of the Philippines or of any other\nspecific country, to intervene in the management, operation, administration or control thereof, whether as an\nofficer, employee or laborer therein with or without remuneration except technical personnel whose\nemployment may be specifically authorized by the Secretary of Justice, and any person who knowingly aids,\nassists, or abets in the planning, consummation or perpetration of any of the acts herein above enumerated\nshall be punished by imprisonment for not less than five nor more than fifteen years and by a fine of not less\nthan the value of the right, franchise or privilege enjoyed or acquired in violation of the provisions hereof but\nin no case less than five thousand pesos: Provided, however, that the president, managers or persons in\nviolating the provisions of this section shall be criminally liable in lieu thereof: Provided, further, That any\nperson, corporation or association shall, in addition to the penalty imposed herein, forfeit such right, franchise,\nprivilege and the property provisions of this Act; and Provided, finally, That the election of aliens as members\nof the board of directors or governing body of corporations or associations engaging in partially nationalized\nactivities shall be allowed in proportion to their allowable participation or share in the capital of such entities."
+   }
+  },
+  {
+   "id": "PH-H22122-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Decree shall take effect immediately.\nDONE in the City of Manila, this 28th day of May, in the year of Our Lord, nineteen hundred and\nseventy-five."
+   }
+  }
+ ]
+}

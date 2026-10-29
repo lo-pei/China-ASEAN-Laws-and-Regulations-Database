@@ -1,0 +1,82 @@
+{
+ "id": "PH-H11193",
+ "title": {
+  "zh": null,
+  "en": "AN ACT TO PUNISH UNLAWFUL MAINTENANCE OF COCKFIGHTING AND COCKPITS, ATTENDANCE UPON THE SAME, AND GAMBLING IN A COCKPIT.",
+  "orig": "AN ACT TO PUNISH UNLAWFUL MAINTENANCE OF COCKFIGHTING AND COCKPITS, ATTENDANCE UPON THE SAME, AND GAMBLING IN A COCKPIT."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 480",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 1136,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_00480_1902_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_00480_1902_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H11193-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Any person who shall maintain a cockpit for the fighting of cocks, or who shall engage in\ncockfighting in a cockpit, or who shall attend as a spectator of cockfighting in a cockpit, on any day when\ncockfighting is not lawfully licensed to take place by the municipality in which the cockpit is situate, shall he\npunished by a fine not exceeding two hundred dollars, in money of the United States, or by imprisonment not\nexceeding six months, or both, in the discretion of the court."
+   }
+  },
+  {
+   "id": "PH-H11193-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Any person who shall maintain or take part in a game of chance in a cockpit, whether the cockpit\nhe lawfully licensed or, not, shall be punished by a fine not exceeding two hundred dollars, in money of the\nUnited States, or by imprisonment for not exceeding six months, or both, in the discretion of the court."
+   }
+  },
+  {
+   "id": "PH-H11193-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "The public good requiring the speedy enactment of this bill, the passage of the same is hereby\nexpedited in accordance with section two of \"An Act prescribing the order of procedure by the Commission\nin the enactment of laws,\" passed September twenty-sixth, nineteen hundred."
+   }
+  },
+  {
+   "id": "PH-H11193-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, October 15, 1902."
+   }
+  }
+ ]
+}

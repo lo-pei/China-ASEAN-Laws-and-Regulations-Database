@@ -1,0 +1,62 @@
+{
+ "id": "PH-H20334",
+ "title": {
+  "zh": null,
+  "en": "MALACAÑAiN PALACE BY THE PRESIDENT OF THE PHILIPPINES FIXING THE CEILING PRICES.OF COMMODITIES",
+  "orig": "MALACAÑAiN PALACE BY THE PRESIDENT OF THE PHILIPPINES FIXING THE CEILING PRICES.OF COMMODITIES"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p158",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Executive Order No. 502",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 543,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/07_行政命令_EO/EO_00502_1952.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 EO_00502_1952.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H20334-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Sec 2"
+   },
+   "text": {
+    "en": "The ceiling prices fixed in this Order include\nfor locally produced cement the 7 per cent sales tax and\nfor electrical wires, the 17 per sent special excise tax\non foreigr. exchange,\" 7 per cent sales tax and. 1 per-\ncent municipal tax."
+   }
+  },
+  {
+   "id": "PH-H20334-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Sec 3"
+   },
+   "text": {
+    "en": "This Order shall take effect immediately.\nDone in the City of Baguio, this 9th day of May, in\nthe year of Our Lord, nineteen hundred and fifty-two,\nand of the Independence of the Philippines, the sixth.\nELPIDIO QUIRINO\nPresident of the Philippines\nBy the President:\nMARCIANO ROQUE\nActing Executive Secretary"
+   }
+  }
+ ]
+}

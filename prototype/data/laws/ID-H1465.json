@@ -1,0 +1,1036 @@
+{
+ "id": "ID-H1465",
+ "title": {
+  "zh": "宗教捐赠法",
+  "en": "waqf Law",
+  "id": "wakaf",
+  "orig": "WAKAF",
+  "vi": "Luật waqf",
+  "th": "พระราชบัญญัติ วะกัฟ",
+  "ms": "Akta wakaf"
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p02a",
+ "language": "id",
+ "level": "law",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "2004",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国会",
+ "docNumber": "UU41-2004",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 71,
+ "chars": 33808,
+ "source": {
+  "name": "印度尼西亚法律数据库（AsianLII / WorldLII 与部委官方 PDF）",
+  "url": null
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\ID\\main\\01_宪法与基础法\\印尼_WLD_2004_WAKAF.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 71 条；逐字未改写（源自 ID）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "ID-H1465-A1",
+   "no": 1,
+   "noLabel": {
+    "id": "Pasal 1"
+   },
+   "chapter": {
+    "id": "BAB I"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 1\nDalam Undang-Undang ini yang dimaksud dengan:\n1. Wakaf adalah perbuatan hukum wakif untuk\nmemisahkan dan/atau menyerahkan sebagian harta benda miliknya untuk\ndimanfaatkan selamanya\natau untuk jangka waktu tertentu sesuai\ndengan kepentingannya guna keperluan ibadah dan/atau kesejahteraan\numum menurut syariah.\n2. Wakif adalah pihak yang mewakafkan harta benda miliknya.\n3. Ikrar Wakaf adalah pernyataan kehendak wakif\nyang diucapkan secara lisan dan/atau tulisan kepada Nazhir untuk\nmewakafkan harta\nbenda miliknya.\n4. Nazhir adalah pihak yang menerima harta benda\nwakaf dari Wakif untuk dikelola dan dikembangkan sesuai dengan\nperuntukannya.\n5. Harta Benda Wakaf adalah harta benda yang\nmemiliki daya tahan lama dan/atau manfaat jangka panjang serta\nmempunyai nilai ekonomi\nmenurut syariah yang diwakafkan oleh\nWakif.\n6. Pejabat Pembuat Akta Ikrar Wakaf, selanjutnya\ndisingkat PPAIW, adalah pejabat berwenang yang ditetapkan oleh\nMenteri untuk membuat\nakta ikrar wakaf.\n7. Badan Wakaf Indonesia adalah lembaga independen\nuntuk mengembangkan perwakafan di Indonesia.\n8. Pemerintah adalah perangkat Negara Kesatuan\nRepublik Indonesia yang terdiri atas Presiden beserta para\nmenteri.\n9. Menteri adalah menteri yang bertanggung jawab di bidang\nagama.\nBAB II\nDASAR-DASAR WAKAF\nBagian Pertama\nUmum"
+   }
+  },
+  {
+   "id": "ID-H1465-A2",
+   "no": 2,
+   "noLabel": {
+    "id": "Pasal 2"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 2\nWakaf sah apabila dilaksanakan menurut syariah."
+   }
+  },
+  {
+   "id": "ID-H1465-A3",
+   "no": 3,
+   "noLabel": {
+    "id": "Pasal 3"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 3\nWakaf yang telah diikrarkan tidak dapat dibatalkan.\nBagian Kedua\nTujuan dan Fungsi Wakaf"
+   }
+  },
+  {
+   "id": "ID-H1465-A4",
+   "no": 4,
+   "noLabel": {
+    "id": "Pasal 4"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 4\nWakaf bertujuan memanfaatkan harta benda wakaf sesuai dengan\nfungsinya."
+   }
+  },
+  {
+   "id": "ID-H1465-A5",
+   "no": 5,
+   "noLabel": {
+    "id": "Pasal 5"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 5\nWakaf berfungsi mewujudkan potensi dan manfaat ekonomis harta benda\nwakaf untuk kepentingan ibadah dan untuk memajukan kesejahteraan\numum.\nBagian Ketiga\nUnsur Wakaf"
+   }
+  },
+  {
+   "id": "ID-H1465-A6",
+   "no": 6,
+   "noLabel": {
+    "id": "Pasal 6"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 6\nWakaf dilaksanakan dengan memenuhi unsur wakaf sebagai berikut:\na. Wakif;\nb. Nazhir;\nc. Harta Benda Wakaf;\nd. Ikrar Wakaf;\ne. peruntukan harta benda wakaf;\nf. jangka waktu wakaf.\nBagian Keempat\nWakif"
+   }
+  },
+  {
+   "id": "ID-H1465-A7",
+   "no": 7,
+   "noLabel": {
+    "id": "Pasal 7"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 7\nWakif meliputi:\na. perseorangan;\nb. organisasi;\nc. badan hukum."
+   }
+  },
+  {
+   "id": "ID-H1465-A8",
+   "no": 8,
+   "noLabel": {
+    "id": "Pasal 8"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 8\n(1) Wakif perseorangan sebagaimana dimaksud dalam\nPasal 7 huruf a hanya dapat melakukan wakaf apabila memenuhi\npersyaratan:\na. dewasa;\nb. berakal sehat;\nc. tidak terhalang melakukan perbuatan hukum; dan\nd. pemilik sah harta benda wakaf.\n(2) Wakif organisasi sebagaimana dimaksud dalam\nPasal 7 huruf b hanya dapat melakukan wakaf apabila memenuhi\nketentuan organisasi\nuntuk mewakafkan harta benda wakaf milik\norganisasi sesuai dengan anggaran dasar organisasi yang\nbersangkutan.\n(3) Wakif badan hukum sebagaimana dimaksud dalam\nPasal 7 huruf c hanya dapat melakukan wakaf apabila memenuhi\nketentuan badan hukum\nuntuk mewakafkan harta benda wakaf milik\nbadan hukum sesuai dengan anggaran dasar badan hukum yang\nbersangkutan.\nBagian Kelima\nNazhir"
+   }
+  },
+  {
+   "id": "ID-H1465-A9",
+   "no": 9,
+   "noLabel": {
+    "id": "Pasal 9"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 9\nNazhir meliputi:\na. perseorangan;\nb. organisasi; atau\nc. badan hukum."
+   }
+  },
+  {
+   "id": "ID-H1465-A10",
+   "no": 10,
+   "noLabel": {
+    "id": "Pasal 10"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 10\n(1) Perseorangan sebagaimana dimaksud dalam Pasal\n9 huruf a hanya dapat menjadi Nazhir apabila memenuhi\npersyaratan:\na. warga negara Indonesia;\nb. beragama Islam;\nc. dewasa;\nd. amanah;\ne. mampu secara jasmani dan rohani; dan\nf. tidak terhalang melakukan perbuatan hukum.\n(2) Organisasi sebagaimana dimaksud dalam Pasal 9\nhuruf b hanya dapat menjadi Nazhir apabila memenuhi\npersyaratan:\na. pengurus organisasi yang bersangkutan memenuhi\npersyaratan nazhir perseorangan sebagaimana dimaksud pada ayat (1);\ndan\nb. organisasi yang bergerak di bidang sosial,\npendidikan, kemasyarakatan, dan/atau keagamaan Islam.\n(3) Badan hukum sebagaimana dimaksud dalam Pasal 9\nhuruf c hanya dapat menjadi Nazhir apabila memenuhi\npersyaratan:\na. pengurus badan hukum yang bersangkutan memenuhi\npersyaratan nazhir perseorangan sebagaimana dimaksud pada ayat (1);\ndan\nb. badan hukum Indonesia yang dibentuk sesuai\ndengan peraturan perundang-undangan yang berlaku; dan\nc. badan hukum yang bersangkutan bergerak di\nbidang sosial, pendidikan, kemasyarakatan, dan/atau keagamaan\nIslam."
+   }
+  },
+  {
+   "id": "ID-H1465-A11",
+   "no": 11,
+   "noLabel": {
+    "id": "Pasal 11"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 11\nNazhir mempunyai tugas:\na. melakukan pengadministrasian harta benda wakaf;\nb. mengelola dan mengembangkan harta benda wakaf\nsesuai dengan tujuan, fungsi, dan peruntukannya;\nc. mengawasi dan melindungi harta benda wakaf;\nd. melaporkan pelaksanaan tugas kepada Badan Wakaf Indonesia."
+   }
+  },
+  {
+   "id": "ID-H1465-A12",
+   "no": 12,
+   "noLabel": {
+    "id": "Pasal 12"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 12\nDalam melaksanakan tugas sebagaimana dimaksud dalam Pasal 11,\nNazhir dapat menerima imbalan dari hasil bersih atas pengelolaan\ndan\npengembangan harta benda wakaf yang besarnya tidak melebihi 10%\n(sepuluh persen)."
+   }
+  },
+  {
+   "id": "ID-H1465-A13",
+   "no": 13,
+   "noLabel": {
+    "id": "Pasal 13"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 13\nDalam melaksanakan tugas sebagaimana dimaksud dalam Pasal 11,\nNazhir memperoleh pembinaan dari Menteri dan Badan Wakaf\nIndonesia."
+   }
+  },
+  {
+   "id": "ID-H1465-A14",
+   "no": 14,
+   "noLabel": {
+    "id": "Pasal 14"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 14\n(1) Dalam rangka pembinaan sebagaimana dimaksud\ndalam Pasal 13, Nazhir harus terdaftar pada Menteri dan Badan Wakaf\nIndonesia.\n(2) Ketentuan lebih lanjut mengenai Nazhir\nsebagaimana dimaksud dalam Pasal 9, Pasal 10, Pasal 11, Pasal 12,\ndan Pasal 13, diatur\ndengan Peraturan Pemerintah.\nBagian Keenam\nHarta Benda Wakaf"
+   }
+  },
+  {
+   "id": "ID-H1465-A15",
+   "no": 15,
+   "noLabel": {
+    "id": "Pasal 15"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 15\nHarta benda wakaf hanya dapat diwakafkan apabila dimiliki dan\ndikuasai oleh Wakif secara sah."
+   }
+  },
+  {
+   "id": "ID-H1465-A16",
+   "no": 16,
+   "noLabel": {
+    "id": "Pasal 16"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 16\n(1) Harta benda wakaf terdiri dari:\na. benda tidak bergerak; dan\nb. benda bergerak.\n(2) Benda tidak bergerak sebagaimana dimaksud pada ayat (1) huruf a\nmeliputi:\na. hak atas tanah sesuai dengan ketentuan\nperaturan perundang-undangan yang berlaku baik yang sudah maupun\nyang belum terdaftar;\nb. bangunan atau bagian bangunan yang berdiri di\natas tanah sebagaimana dimaksud pada huruf a;\nc. tanaman dan benda lain yang berkaitan dengan tanah;\nd. hak milik atas satuan rumah susun sesuai dengan\nketentuan peraturan perundang-undangan yang berlaku;\ne. benda tidak bergerak lain sesuai dengan\nketentuan syariah dan peraturan perundang-undangan yang\nberlaku.\n(3) Benda bergerak sebagaimana dimaksud pada ayat\n(1) huruf b adalah harta benda yang tidak bisa habis karena\ndikonsumsi, meliputi:\na. uang;\nb. logam mulia;\nc. surat berharga;\nd. kendaraan;\ne. hak atas kekayaan intelektual;\nf. hak sewa; dan\ng. benda bergerak lain sesuai dengan ketentuan\nsyariah dan peraturan perundang-undangan yang berlaku.\nBagian Ketujuh\nIkrar Wakaf"
+   }
+  },
+  {
+   "id": "ID-H1465-A17",
+   "no": 17,
+   "noLabel": {
+    "id": "Pasal 17"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 17\n(1) Ikrar wakaf dilaksanakan oleh Wakif kepada\nNadzir di hadapan PPAIW dengan disaksikan oleh 2 (dua) orang\nsaksi.\n(2) Ikrar Wakaf sebagaimana dimaksud pada ayat (1)\ndinyatakan secara lisan dan/atau tulisan serta dituangkan dalam\nakta ikrar wakaf\noleh PPAIW."
+   }
+  },
+  {
+   "id": "ID-H1465-A18",
+   "no": 18,
+   "noLabel": {
+    "id": "Pasal 18"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 18\nDalam hal Wakif tidak dapat menyatakan ikrar wakaf secara lisan\natau tidak dapat hadir dalam pelaksanaan ikrar wakaf karena alasan\nyang dibenarkan oleh hukum, Wakif dapat menunjuk kuasanya dengan\nsurat kuasa yang diperkuat oleh 2 (dua) orang saksi."
+   }
+  },
+  {
+   "id": "ID-H1465-A19",
+   "no": 19,
+   "noLabel": {
+    "id": "Pasal 19"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 19\nUntuk dapat melaksanakan ikrar wakaf, wakif atau kuasanya\nmenyerahkan surat dan/atau bukti kepemilikan atas harta benda wakaf\nkepada\nPPAIW."
+   }
+  },
+  {
+   "id": "ID-H1465-A20",
+   "no": 20,
+   "noLabel": {
+    "id": "Pasal 20"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 20\nSaksi dalam ikrar wakaf harus memenuhi persyaratan:\na. dewasa;\nb. beragama Islam;\nc. berakal sehat;\nd. tidak terhalang melakukan perbuatan hukum."
+   }
+  },
+  {
+   "id": "ID-H1465-A21",
+   "no": 21,
+   "noLabel": {
+    "id": "Pasal 21"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 21\n(1) Ikrar wakaf dituangkan dalam akta ikrar wakaf.\n(2) Akta ikrar wakaf sebagaimana dimaksud pada\nayat (1) paling sedikit memuat:\na. nama dan identitas Wakif;\nb. nama dan identitas Nazhir;\nc. data dan keterangan harta benda wakaf;\nd. peruntukan harta benda wakaf;\ne. jangka waktu wakaf.\n(3) Ketentuan lebih lanjut mengenai akta ikrar\nwakaf sebagaimana dimaksud pada ayat (2) diatur dengan Peraturan\nPemerintah.\nBagian Kedelapan\nPeruntukan Harta Benda Wakaf"
+   }
+  },
+  {
+   "id": "ID-H1465-A22",
+   "no": 22,
+   "noLabel": {
+    "id": "Pasal 22"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedelapan"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 22\nDalam rangka mencapai tujuan dan fungsi wakaf, harta benda wakaf\nhanya dapat diperuntukan bagi:\na. sarana dan kegiatan ibadah;\nb. sarana dan kegiatan pendidikan serta kesehatan;\nc. bantuan kepada fakir miskin, anak terlantar, yatim piatu, bea\nsiswa;\nd. kemajuan dan peningkatan ekonomi umat; dan/atau\ne. kemajuan kesejahteraan umum lainnya yang tidak\nbertentangan dengan syariah dan peraturan perundang-undangan."
+   }
+  },
+  {
+   "id": "ID-H1465-A23",
+   "no": 23,
+   "noLabel": {
+    "id": "Pasal 23"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kedelapan"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 23\n(1) Penetapan peruntukan harta benda wakaf\nsebagaimana dimaksud dalam Pasal 22 dilakukan oleh Wakif pada\npelaksanaan ikrar wakaf.\n(2) Dalam hal Wakif tidak menetapkan peruntukan\nharta benda wakaf, Nazhir dapat menetapkan peruntukan harta benda\nwakaf yang dilakukan\nsesuai dengan tujuan dan fungsi wakaf.\nBagian Kesembilan\nWakaf dengan Wasiat"
+   }
+  },
+  {
+   "id": "ID-H1465-A24",
+   "no": 24,
+   "noLabel": {
+    "id": "Pasal 24"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kesembilan"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 24\nWakaf dengan wasiat baik secara lisan maupun secara tertulis hanya\ndapat dilakukan apabila disaksikan oleh paling sedikit 2 (dua)\norang saksi yang memenuhi persyaratan sebagaimana dimaksud dalam\nPasal 20."
+   }
+  },
+  {
+   "id": "ID-H1465-A25",
+   "no": 25,
+   "noLabel": {
+    "id": "Pasal 25"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kesembilan"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 25\nHarta benda wakaf yang diwakafkan dengan wasiat paling banyak 1/3\n(satu pertiga) dari jumlah harta warisan setelah dikurangi dengan\nutang pewasiat, kecuali dengan persetujuan seluruh ahli waris."
+   }
+  },
+  {
+   "id": "ID-H1465-A26",
+   "no": 26,
+   "noLabel": {
+    "id": "Pasal 26"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kesembilan"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 26\n(1) Wakaf dengan wasiat dilaksanakan oleh penerima\nwasiat setelah pewasiat yang bersangkutan meninggal dunia.\n(2) Penerima wasiat sebagaimana dimaksud pada ayat\n(1) bertindak sebagai kuasa wakif.\n(3) Wakaf dengan wasiat sebagaimana dimaksud pada\nayat (1) dan ayat (2) dilaksanakan sesuai dengan tata cara\nperwakafan yang diatur\ndalam Undang-Undang ini."
+   }
+  },
+  {
+   "id": "ID-H1465-A27",
+   "no": 27,
+   "noLabel": {
+    "id": "Pasal 27"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kesembilan"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 27\nDalam hal wakaf dengan wasiat tidak dilaksanakan oleh penerima\nwasiat, atas permintaan pihak yang berkepentingan, pengadilan dapat\nmemerintahkan penerima wasiat yang bersangkutan untuk melaksanakan\nwasiat.\nBagian Kesepuluh\nWakaf Benda Bergerak Berupa Uang"
+   }
+  },
+  {
+   "id": "ID-H1465-A28",
+   "no": 28,
+   "noLabel": {
+    "id": "Pasal 28"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kesepuluh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 28\nWakif dapat mewakafkan benda bergerak berupa uang melalui lembaga\nkeuangan syariah yang ditunjuk oleh Menteri."
+   }
+  },
+  {
+   "id": "ID-H1465-A29",
+   "no": 29,
+   "noLabel": {
+    "id": "Pasal 29"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kesepuluh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 29\n(1) Wakaf benda bergerak berupa uang sebagaimana\ndimaksud dalam Pasal 28 dilaksanakan oleh Wakif dengan pernyataan\nkehendak Wakif\nyang dilakukan secara tertulis.\n(2) Wakaf benda bergerak berupa uang sebagaimana\ndimaksud pada ayat (1) diterbitkan dalam bentuk sertifikat wakaf\nuang.\n(3) Sertifikat wakaf uang sebagaimana dimaksud\npada ayat (2) diterbitkan dan disampaikan oleh lembaga keuangan\nsyariah kepada Wakif\ndan Nazhir sebagai bukti penyerahan harta\nbenda wakaf."
+   }
+  },
+  {
+   "id": "ID-H1465-A30",
+   "no": 30,
+   "noLabel": {
+    "id": "Pasal 30"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kesepuluh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 30\nLembaga keuangan syariah atas nama Nazhir mendaftarkan harta benda\nwakaf berupa uang kepada Menteri selambat-lambatnya 7 (tujuh)\nhari\nkerja sejak diterbitkannya Sertifikat Wakaf Uang."
+   }
+  },
+  {
+   "id": "ID-H1465-A31",
+   "no": 31,
+   "noLabel": {
+    "id": "Pasal 31"
+   },
+   "chapter": {
+    "id": "BAB II / Bagian Kesepuluh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 31\nKetentuan lebih lanjut mengenai wakaf benda bergerak berupa uang\nsebagaimana dimaksud dalam Pasal 28, Pasal 29, dan Pasal 30 diatur\ndengan Peraturan Pemerintah.\nBAB III\nPENDAFTARAN DAN PENGUMUMAN HARTA BENDA WAKAF"
+   }
+  },
+  {
+   "id": "ID-H1465-A32",
+   "no": 32,
+   "noLabel": {
+    "id": "Pasal 32"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 32\nPPAIW atas nama Nazhir mendaftarkan harta benda wakaf kepada\nInstansi yang berwenang paling lambat 7 (tujuh) hari kerja sejak\nakta\nikrar wakaf ditandatangani."
+   }
+  },
+  {
+   "id": "ID-H1465-A33",
+   "no": 33,
+   "noLabel": {
+    "id": "Pasal 33"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 33\nDalam pendaftaran harta benda wakaf sebagaimana dimaksud dalam\nPasal 32, PPAIW menyerahkan:\na. salinan akta ikrar wakaf;\nb. surat-surat dan/atau bukti-bukti kepemilikan dan dokumen terkait\nlainnya."
+   }
+  },
+  {
+   "id": "ID-H1465-A34",
+   "no": 34,
+   "noLabel": {
+    "id": "Pasal 34"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 34\nInstansi yang berwenang menerbitkan bukti pendaftaran harta benda\nwakaf."
+   }
+  },
+  {
+   "id": "ID-H1465-A35",
+   "no": 35,
+   "noLabel": {
+    "id": "Pasal 35"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 35\nBukti pendaftaran harta benda wakaf sebagaimana dimaksud dalam\nPasal 34 disampaikan oleh PPAIW kepada Nazhir."
+   }
+  },
+  {
+   "id": "ID-H1465-A36",
+   "no": 36,
+   "noLabel": {
+    "id": "Pasal 36"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 36\nDalam hal harta benda wakaf ditukar atau diubah peruntukannya,\nNazhir melalui PPAIW mendaftarkan kembali kepada Instansi yang\nberwenang\ndan Badan Wakaf Indonesia atas harta benda wakaf yang\nditukar atau diubah peruntukannya itu sesuai dengan ketentuan yang\nberlaku\ndalam tata cara pendaftaran harta benda wakaf."
+   }
+  },
+  {
+   "id": "ID-H1465-A37",
+   "no": 37,
+   "noLabel": {
+    "id": "Pasal 37"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 37\nMenteri dan Badan Wakaf Indonesia mengadministrasikan pendaftaran\nharta benda wakaf."
+   }
+  },
+  {
+   "id": "ID-H1465-A38",
+   "no": 38,
+   "noLabel": {
+    "id": "Pasal 38"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 38\nMenteri dan Badan Wakaf Indonesia mengumumkan kepada masyarakat\nharta benda wakaf yang telah terdaftar."
+   }
+  },
+  {
+   "id": "ID-H1465-A39",
+   "no": 39,
+   "noLabel": {
+    "id": "Pasal 39"
+   },
+   "chapter": {
+    "id": "BAB III"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 39\nKetentuan lebih lanjut mengenai PPAIW, tata cara pendaftaran dan\npengumuman harta benda wakaf diatur dengan Peraturan\nPemerintah.\nBAB IV\nPERUBAHAN STATUS HARTA BENDA WAKAF"
+   }
+  },
+  {
+   "id": "ID-H1465-A40",
+   "no": 40,
+   "noLabel": {
+    "id": "Pasal 40"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 40\nHarta benda wakaf yang sudah diwakafkan dilarang:\na. dijadikan jaminan;\nb. disita;\nc. dihibahkan;\nd. dijual;\ne. diwariskan;\nf. ditukar; atau\ng. dialihkan dalam bentuk pengalihan hak lainnya."
+   }
+  },
+  {
+   "id": "ID-H1465-A41",
+   "no": 41,
+   "noLabel": {
+    "id": "Pasal 41"
+   },
+   "chapter": {
+    "id": "BAB IV"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 41\n(1) Ketentuan sebagaimana dimaksud dalam Pasal 40\nhuruf f dikecualikan apabila harta benda wakaf yang telah\ndiwakafkan digunakan untuk\nkepentingan umum sesuai dengan rencana\numum tata ruang (RUTR) berdasarkan ketentuan peraturan\nperundang-undangan yang berlaku dan\ntidak bertentangan dengan\nsyariah.\n(2) Pelaksanaan ketentuan sebagaimana dimaksud\npada ayat (1) hanya dapat dilakukan setelah memperoleh izin\ntertulis dari Menteri atas\npersetujuan Badan Wakaf Indonesia.\n(3) Harta benda wakaf yang sudah diubah statusnya\nkarena ketentuan pengecualian sebagaimana dimaksud pada ayat (1)\nwajib ditukar dengan\nharta benda yang manfaat dan nilai tukar\nsekurang-kurangnya sama dengan harta benda wakaf semula.\n(4) Ketentuan mengenai perubahan status harta\nbenda wakaf sebagaimana dimaksud pada ayat (1), ayat (2), dan ayat\n(3) diatur lebih\nlanjut dengan Peraturan Pemerintah.\nBAB V\nPENGELOLAAN DAN PENGEMBANGAN\nHARTA BENDA WAKAF"
+   }
+  },
+  {
+   "id": "ID-H1465-A42",
+   "no": 42,
+   "noLabel": {
+    "id": "Pasal 42"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 42\nNazhir wajib mengelola dan mengembangkan harta benda wakaf sesuai\ndengan tujuan, fungsi, dan peruntukannya."
+   }
+  },
+  {
+   "id": "ID-H1465-A43",
+   "no": 43,
+   "noLabel": {
+    "id": "Pasal 43"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 43\n(1) Pengelolaan dan pengembangan harta benda wakaf\noleh Nazhir sebagaimana dimaksud dalam Pasal 42 dilaksanakan sesuai\ndengan prinsip\nsyariah.\n(2) Pengelolaan dan pengembangan harta benda wakaf\nsebagaimana dimaksud pada ayat (1) dilakukan secara\nproduktif.\n(3) Dalam hal pengelolaan dan pengembangan harta\nbenda wakaf yang dimaksud pada ayat (1) diperlukan penjamin, maka\ndigunakan lembaga\npenjamin syariah."
+   }
+  },
+  {
+   "id": "ID-H1465-A44",
+   "no": 44,
+   "noLabel": {
+    "id": "Pasal 44"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 44\n(1) Dalam mengelola dan mengembangkan harta benda\nwakaf, Nazhir dilarang melakukan perubahan peruntukan harta benda\nwakaf kecuali\natas dasar izin tertulis dari Badan Wakaf\nIndonesia.\n(2) Izin sebagaimana dimaksud pada ayat (1) hanya\ndapat diberikan apabila harta benda wakaf ternyata tidak dapat\ndipergunakan sesuai\ndengan peruntukan yang dinyatakan dalam ikrar\nwakaf."
+   }
+  },
+  {
+   "id": "ID-H1465-A45",
+   "no": 45,
+   "noLabel": {
+    "id": "Pasal 45"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 45\n(1) Dalam mengelola dan mengembangkan harta benda\nwakaf, Nazhir diberhentikan dan diganti dengan Nazhir lain apabila\nNazhir yang bersangkutan:\na. meninggal dunia bagi Nazhir perseorangan;\nb. bubar atau dibubarkan sesuai dengan ketentuan\nperaturan perundang-undangan yang berlaku untuk Nazhir organisasi\natau Nazhir badan\nhukum;\nc. atas permintaan sendiri;\nd. tidak melaksanakan tugasnya sebagai Nazhir\ndan/atau melanggar ketentuan larangan dalam pengelolaan dan\npengembangan harta benda\nwakaf sesuai dengan ketentuan peraturan\nperundang-undangan yang berlaku;\ne. dijatuhi hukuman pidana oleh pengadilan yang\ntelah mempunyai kekuatan hukum tetap.\n(2) Pemberhentian dan penggantian Nazhir\nsebagaimana dimaksud pada ayat (1) dilaksanakan oleh Badan Wakaf\nIndonesia.\n(3) Pengelolaan dan pengembangan harta benda wakaf\nyang dilakukan oleh Nazhir lain karena pemberhentian dan\npenggantian Nazhir, dilakukan\ndengan tetap memperhatikan peruntukan\nharta benda wakaf yang ditetapkan dan tujuan serta fungsi\nwakaf."
+   }
+  },
+  {
+   "id": "ID-H1465-A46",
+   "no": 46,
+   "noLabel": {
+    "id": "Pasal 46"
+   },
+   "chapter": {
+    "id": "BAB V"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 46\nKetentuan lebih lanjut mengenai pengelolaan dan pengembangan harta\nbenda wakaf sebagaimana dimaksud dalam Pasal 42, Pasal 43, Pasal\n44, dan Pasal 45 diatur dengan Peraturan Pemerintah.\nBAB VI\nBADAN WAKAF INDONESIA\nBagian Pertama\nKedudukan dan Tugas"
+   }
+  },
+  {
+   "id": "ID-H1465-A47",
+   "no": 47,
+   "noLabel": {
+    "id": "Pasal 47"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 47\n(1) Dalam rangka memajukan dan mengembangkan\nperwakafan nasional, dibentuk Badan Wakaf Indonesia.\n(2) Badan Wakaf Indonesia merupakan lembaga\nindependen dalam melaksanakan tugasnya."
+   }
+  },
+  {
+   "id": "ID-H1465-A48",
+   "no": 48,
+   "noLabel": {
+    "id": "Pasal 48"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 48\nBadan Wakaf Indonesia berkedudukan di ibukota Negara Kesatuan\nRepublik Indonesia dan dapat membentuk perwakilan di Provinsi dan/\natau Kabupaten/Kota sesuai dengan kebutuhan."
+   }
+  },
+  {
+   "id": "ID-H1465-A49",
+   "no": 49,
+   "noLabel": {
+    "id": "Pasal 49"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 49\n(1) Badan Wakaf Indonesia mempunyai tugas dan wewenang:\na. melakukan pembinaan terhadap Nazhir dalam\nmengelola dan mengembangkan harta benda wakaf;\nb. melakukan pengelolaan dan pengembangan harta\nbenda wakaf berskala nasional dan internasional;\nc. memberikan persetujuan dan/atau izin atas\nperubahan peruntukan dan status harta benda wakaf;\nd. memberhentikan dan mengganti Nazhir;\ne. memberikan persetujuan atas penukaran harta benda wakaf;\nf. memberikan saran dan pertimbangan kepada\nPemerintah dalam penyusunan kebijakan di bidang perwakafan.\n(2) Dalam melaksanakan tugas sebagaimana dimaksud\npada ayat (1) Badan Wakaf Indonesia dapat bekerjasama dengan\ninstansi Pemerintah\nbaik Pusat maupun Daerah, organisasi\nmasyarakat, para ahli, badan internasional, dan pihak lain yang\ndipandang perlu."
+   }
+  },
+  {
+   "id": "ID-H1465-A50",
+   "no": 50,
+   "noLabel": {
+    "id": "Pasal 50"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 50\nDalam melaksanakan tugas sebagaimana dimaksud dalam Pasal 49, Badan\nWakaf Indonesia memperhatikan saran dan pertimbangan Menteri\ndan\nMajelis Ulama Indonesia.\nBagian Kedua\nOrganisasi"
+   }
+  },
+  {
+   "id": "ID-H1465-A51",
+   "no": 51,
+   "noLabel": {
+    "id": "Pasal 51"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 51\n(1) Badan Wakaf Indonesia terdiri atas Badan\nPelaksana dan Dewan Pertimbangan.\n(2) Badan Pelaksana sebagaimana dimaksud pada ayat\n(1) merupakan unsur pelaksana tugas Badan Wakaf Indonesia.\n(3) Dewan Pertimbangan sebagaimana dimaksud pada\nayat (1) merupakan unsur pengawas pelaksanaan tugas Badan Wakaf\nIndonesia."
+   }
+  },
+  {
+   "id": "ID-H1465-A52",
+   "no": 52,
+   "noLabel": {
+    "id": "Pasal 52"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 52\n(1) Badan Pelaksana dan Dewan Pertimbangan Badan\nWakaf Indonesia sebagaimana dimaksud dalam Pasal 51, masing-masing\ndipimpin oleh\n1 (satu) orang Ketua dan 2 (dua) orang Wakil Ketua\nyang dipilih dari dan oleh para anggota.\n(2) Susunan keanggotaan masing-masing Badan\nPelaksana dan Dewan Pertimbangan Badan Wakaf Indonesia sebagaimana\ndimaksud pada ayat\n(1) ditetapkan oleh para anggota.\nBagian Ketiga\nAnggota"
+   }
+  },
+  {
+   "id": "ID-H1465-A53",
+   "no": 53,
+   "noLabel": {
+    "id": "Pasal 53"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 53\nJumlah anggota Badan Wakaf Indonesia terdiri dari paling sedikit 20\n(dua puluh) orang dan paling banyak 30 (tiga puluh) orang yang\nberasal dari unsur masyarakat."
+   }
+  },
+  {
+   "id": "ID-H1465-A54",
+   "no": 54,
+   "noLabel": {
+    "id": "Pasal 54"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Ketiga"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 54\n(1) Untuk dapat diangkat menjadi anggota Badan\nWakaf Indonesia, setiap calon anggota harus memenuhi\npersyaratan:\na. warga negara Indonesia;\nb. beragama Islam;\nc. dewasa;\nd. amanah;\ne. mampu secara jasmani dan rohani;\nf. tidak terhalang melakukan perbuatan hukum;\ng. memiliki pengetahuan, kemampuan, dan/atau\npengalaman di bidang perwakafan dan/atau ekonomi, khususnya di\nbidang ekonomi syariah;\ndan\nh. mempunyai komitmen yang tinggi untuk mengembangkan perwakafan\nnasional.\n(2) Selain persyaratan sebagaimana dimaksud pada\nayat (1), ketentuan mengenai persyaratan lain untuk menjadi anggota\nBadan Wakaf Indonesia\nditetapkan oleh Badan Wakaf Indonesia.\nBagian Keempat\nPengangkatan dan Pemberhentian"
+   }
+  },
+  {
+   "id": "ID-H1465-A55",
+   "no": 55,
+   "noLabel": {
+    "id": "Pasal 55"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 55\n(1) Keanggotaan Badan Wakaf Indonesia diangkat dan\ndiberhentikan oleh Presiden.\n(2) Keanggotaan Perwakilan Badan Wakaf Indonesia\ndi daerah diangkat dan diberhentikan oleh Badan Wakaf\nIndonesia.\n(3) Ketentuan lebih lanjut mengenai tata cara\npengangkatan dan pemberhentian anggota sebagaimana dimaksud pada\nayat (1) dan ayat (2)\ndiatur dengan peraturan Badan Wakaf\nIndonesia."
+   }
+  },
+  {
+   "id": "ID-H1465-A56",
+   "no": 56,
+   "noLabel": {
+    "id": "Pasal 56"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 56\nKeanggotaan Badan Wakaf Indonesia diangkat untuk masa jabatan\nselama 3 (tiga) tahun dan dapat diangkat kembali untuk 1 (satu)\nkali\nmasa jabatan."
+   }
+  },
+  {
+   "id": "ID-H1465-A57",
+   "no": 57,
+   "noLabel": {
+    "id": "Pasal 57"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 57\n(1) Untuk pertama kali, pengangkatan keanggotaan\nBadan Wakaf Indonesia diusulkan kepada Presiden oleh Menteri.\n(2) Pengusulan pengangkatan keanggotaan Badan\nWakaf Indonesia kepada Presiden untuk selanjutnya dilaksanakan oleh\nBadan Wakaf Indonesia.\n(3) Ketentuan mengenai tata cara pemilihan calon\nkeanggotaan Badan Wakaf Indonesia sebagaimana dimaksud pada ayat\n(2) diatur oleh\nBadan Wakaf Indonesia, yang pelaksanaannya terbuka\nuntuk umum."
+   }
+  },
+  {
+   "id": "ID-H1465-A58",
+   "no": 58,
+   "noLabel": {
+    "id": "Pasal 58"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Keempat"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 58\nKeanggotaan Badan Wakaf Indonesia yang berhenti sebelum berakhirnya\nmasa jabatan diatur oleh Badan Wakaf Indonesia.\nBagian Kelima\nPembiayaan"
+   }
+  },
+  {
+   "id": "ID-H1465-A59",
+   "no": 59,
+   "noLabel": {
+    "id": "Pasal 59"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Kelima"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 59\nDalam rangka pelaksanaan tugas Badan Wakaf Indonesia, Pemerintah\nwajib membantu biaya operasional.\nBagian Keenam\nKetentuan Pelaksanaan"
+   }
+  },
+  {
+   "id": "ID-H1465-A60",
+   "no": 60,
+   "noLabel": {
+    "id": "Pasal 60"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Keenam"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 60\nKetentuan lebih lanjut mengenai susunan organisasi, tugas, fungsi,\npersyaratan, dan tata cara pemilihan anggota serta susunan\nkeanggotaan\ndan tata kerja Badan Wakaf Indonesia diatur oleh Badan\nWakaf Indonesia.\nBagian Ketujuh\nPertanggungjawaban"
+   }
+  },
+  {
+   "id": "ID-H1465-A61",
+   "no": 61,
+   "noLabel": {
+    "id": "Pasal 61"
+   },
+   "chapter": {
+    "id": "BAB VI / Bagian Ketujuh"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 61\n(1) Pertanggungjawaban pelaksanaan tugas Badan\nWakaf Indonesia dilakukan melalui laporan tahunan yang diaudit oleh\nlembaga audit independen\ndan disampaikan kepada Menteri.\n(2) Laporan tahunan sebagaimana dimaksud pada ayat\n(1) diumumkan kepada masyarakat.\nBAB VII\nPENYELESAIAN SENGKETA"
+   }
+  },
+  {
+   "id": "ID-H1465-A62",
+   "no": 62,
+   "noLabel": {
+    "id": "Pasal 62"
+   },
+   "chapter": {
+    "id": "BAB VII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 62\n(1) Penyelesaian sengketa perwakafan ditempuh\nmelalui musyawarah untuk mencapai mufakat.\n(2) Apabila penyelesaian sengketa sebagaimana\ndimaksud pada ayat (1) tidak berhasil, sengketa dapat diselesaikan\nmelalui mediasi,\narbitrase, atau pengadilan.\nBAB VIII\nPEMBINAAN DAN PENGAWASAN"
+   }
+  },
+  {
+   "id": "ID-H1465-A63",
+   "no": 63,
+   "noLabel": {
+    "id": "Pasal 63"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 63\n(1) Menteri melakukan pembinaan dan pengawasan\nterhadap penyelenggaraan wakaf untuk mewujudkan tujuan dan fungsi\nwakaf.\n(2) Khusus mengenai pembinaan sebagaimana dimaksud\npada ayat (1) Menteri mengikutsertakan Badan Wakaf Indonesia.\n(3) Pembinaan dan pengawasan sebagaimana dimaksud\npada ayat (1) dan ayat (2) dilakukan dengan memperhatikan saran dan\npertimbangan\nMajelis Ulama Indonesia."
+   }
+  },
+  {
+   "id": "ID-H1465-A64",
+   "no": 64,
+   "noLabel": {
+    "id": "Pasal 64"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 64\nDalam rangka pembinaan, Menteri dan Badan Wakaf Indonesia dapat\nmelakukan kerja sama dengan organisasi masyarakat, para ahli, badan\ninternasional, dan pihak lain yang dipandang perlu."
+   }
+  },
+  {
+   "id": "ID-H1465-A65",
+   "no": 65,
+   "noLabel": {
+    "id": "Pasal 65"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 65\nDalam pelaksanaan pengawasan, Menteri dapat menggunakan akuntan\npublik."
+   }
+  },
+  {
+   "id": "ID-H1465-A66",
+   "no": 66,
+   "noLabel": {
+    "id": "Pasal 66"
+   },
+   "chapter": {
+    "id": "BAB VIII"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 66\nKetentuan lebih lanjut mengenai bentuk pembinaan dan pengawasan\noleh Menteri dan Badan Wakaf Indonesia sebagaimana dimaksud dalam\nPasal 63, Pasal 64, dan Pasal 65 diatur dengan Peraturan\nPemerintah.\nBAB IX\nKETENTUAN PIDANA DAN SANKSI ADMINISTRATIF\nBagian Pertama\nKetentuan Pidana"
+   }
+  },
+  {
+   "id": "ID-H1465-A67",
+   "no": 67,
+   "noLabel": {
+    "id": "Pasal 67"
+   },
+   "chapter": {
+    "id": "BAB IX / Bagian Pertama"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 67\n(1) Setiap orang yang dengan sengaja menjaminkan,\nmenghibahkan, menjual, mewariskan, mengalihkan dalam bentuk\npengalihan hak lainnya\nharta benda wakaf yang telah diwakafkan\nsebagaimana dimaksud dalam Pasal 40 atau tanpa izin menukar harta\nbenda wakaf yang telah\ndiwakafkan sebagaimana dimaksud dalam Pasal\n41, dipidana dengan pidana penjara paling lama 5 (lima) tahun\ndan/atau pidana denda paling\nbanyak Rp 500.000.000, 00 (lima ratus\njuta rupiah).\n(2) Setiap orang yang dengan sengaja mengubah\nperuntukan harta benda wakaf tanpa izin sebagaimana dimaksud dalam\nPasal 44, dipidana\ndengan pidana penjara paling lama 4 (empat)\ntahun dan/atau pidana denda paling banyak Rp 400.000.000, 00 (empat\nratus juta rupiah).\n(3) Setiap orang yang dengan sengaja menggunakan\natau mengambil fasilitas atas hasil pengelolaan dan pengembangan\nharta benda wakaf\nmelebihi jumlah yang ditentukan sebagaimana\ndimaksud dalam Pasal 12, dipidana dengan pidana penjara paling lama\n3 (tiga) tahun dan/atau\npidana denda paling banyak Rp 300.000.000,\n00 (tiga ratus juta rupiah).\nBagian Kedua\nSanksi Administratif"
+   }
+  },
+  {
+   "id": "ID-H1465-A68",
+   "no": 68,
+   "noLabel": {
+    "id": "Pasal 68"
+   },
+   "chapter": {
+    "id": "BAB IX / Bagian Kedua"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 68\n(1) Menteri dapat mengenakan sanksi administratif\natas pelanggaran tidak didaftarkannya harta benda wakaf oleh\nlembaga keuangan syariah\ndan PPAIW sebagaimana dimaksud dalam Pasal\n30 dan Pasal 32.\n(2) Sanksi administratif sebagaimana dimaksud pada ayat (1)\nberupa:\na. peringatan tertulis;\nb. penghentian sementara atau pencabutan izin\nkegiatan di bidang wakaf bagi lembaga keuangan syariah;\nc. penghentian sementara dari jabatan atau penghentian dari jabatan\nPPAIW.\n(3) Ketentuan lebih lanjut mengenai pelaksanaan\nsanksi administratif sebagaimana dimaksud pada ayat (1) dan ayat\n(2) diatur dengan\nPeraturan Pemerintah.\nBAB X\nKETENTUAN PERALIHAN"
+   }
+  },
+  {
+   "id": "ID-H1465-A69",
+   "no": 69,
+   "noLabel": {
+    "id": "Pasal 69"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 69\n(1) Dengan berlakunya Undang-Undang ini, wakaf\nyang dilakukan berdasarkan ketentuan peraturan perundang-undangan\nyang berlaku sebelum\ndiundangkannya Undang-Undang ini, dinyatakan\nsah sebagai wakaf menurut Undang-Undang ini.\n(2) Wakaf sebagaimana dimaksud pada ayat (1) wajib\ndidaftarkan dan diumumkan paling lama 5 (lima) tahun sejak\nUndang-Undang ini diundangkan."
+   }
+  },
+  {
+   "id": "ID-H1465-A70",
+   "no": 70,
+   "noLabel": {
+    "id": "Pasal 70"
+   },
+   "chapter": {
+    "id": "BAB X"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 70\nSemua peraturan perundang-undangan yang mengatur mengenai\nperwakafan masih tetap berlaku sepanjang tidak bertentangan\ndan/atau belum\ndiganti dengan peraturan yang baru berdasarkan\nUndang-Undang ini.\nBAB XI\nKETENTUAN PENUTUP"
+   }
+  },
+  {
+   "id": "ID-H1465-A71",
+   "no": 71,
+   "noLabel": {
+    "id": "Pasal 71"
+   },
+   "chapter": {
+    "id": "BAB XI"
+   },
+   "heading": {},
+   "text": {
+    "id": "Pasal 71\nUndang-Undang ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan\nUndang-Undang ini dengan penempatannya dalam Lembaran Negara\nRepublik\nIndonesia.\nDisahkan di Jakarta\npada tanggal 27 Oktober 2004\nPRESIDEN REPUBLIK INDONESIA,\nDR. H. SUSILO BAMBANG YUDHOYONO\nDiundangkan di Jakarta\npada tanggal 27 Oktober 2004\nMENTERI SEKRETARIS NEGARA\nREPUBLIK INDONESIA,\nPROF. DR. YUSRIL IHZA MAHENDRA\nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2004 NOMOR 159.\nP E N J E L A S A N\nA T A S\nUNDANG-UNDANG REPUBLIK INDONESIA\nNOMOR 41 TAHUN 2004\nTENTANG\nWAKAF\nI. UMUM\nTujuan Negara Kesatuan Republik Indonesia\nsebagaimana diamanatkan dalam Pembukaan Undang-Undang Dasar Negara\nRepublik Indonesia Tahun\n1945 antara lain adalah memajukan\nkesejahteraan umum. Untuk mencapai tujuan tersebut, perlu menggali\ndan mengembangkan potensi yang\nterdapat dalam pranata keagamaan\nyang memiliki manfaat ekonomis.\nSalah satu langkah strategis untuk\nmeningkatkan kesejahteraan umum, perlu meningkatkan peran wakaf\nsebagai pranata keagamaan yang\ntidak hanya bertujuan menyediakan\nberbagai sarana ibadah dan sosial, tetapi juga memiliki kekuatan\nekonomi yang berpotensi, antara\nlain untuk memajukan kesejahteraan\numum, sehingga perlu dikembangkan pemanfaatannya sesuai dengan\nprinsip syariah.\nPraktik wakaf yang terjadi dalam kehidupan\nmasyarakat belum sepenuhnya berjalan tertib dan efisien sehingga\ndalam berbagai kasus harta\nbenda wakaf tidak terpelihara\nsebagaimana mestinya, terlantar atau beralih ke tangan pihak ketiga\ndengan cara melawan hukum. Keadaan\ndemikian itu, tidak hanya karena\nkelalaian atau ketidakmampuan Nazhir dalam mengelola dan\nmengembangkan harta benda wakaf tetapi\nkarena juga sikap masyarakat\nyang kurang peduli atau belum memahami status harta benda wakaf\nyang seharusnya dilindungi demi untuk\nkesejahteraan umum sesuai\ndengan tujuan, fungsi, dan peruntukan wakaf.\nBerdasarkan pertimbangan di atas dan untuk\nmemenuhi kebutuhan hukum dalam rangka pembangunan hukum nasional\nperlu dibentuk Undang-Undang\ntentang Wakaf. Pada dasarnya ketentuan\nmengenai perwakafan berdasarkan syariah dan peraturan\nperundang-undangan dicantumkan kembali\ndalam Undang-Undang ini,\nnamun terdapat pula berbagai pokok pengaturan yang baru antara lain\nsebagai berikut:\n1. Untuk menciptakan tertib hukum dan administrasi\nwakaf guna melindungi harta benda wakaf, Undang-Undang ini\nmenegaskan bahwa perbuatan\nhukum wakaf wajib dicatat dan dituangkan\ndalam akta ikrar wakaf dan didaftarkan serta diumumkan yang\npelaksanaannya dilakukan sesuai\ndengan tata cara yang diatur dalam\nperaturan perundang-undangan yang mengatur mengenai wakaf dan harus\ndilaksanakan. Undang-Undang\nini tidak memisahkan antara wakaf-ahli\nyang pengelolaan dan pemanfaatan harta benda wakaf terbatas untuk\nkaum kerabat (ahli waris)\ndengan wakaf-khairi yang dimaksudkan\nuntuk kepentingan masyarakat umum sesuai dengan tujuan dan fungsi\nwakaf.\n2. Ruang lingkup wakaf yang selama ini dipahami\nsecara umum cenderung terbatas pada wakaf benda tidak bergerak\nseperti tanah dan bangunan,\nmenurut Undang-Undang ini Wakif dapat\npula mewakafkan sebagian kekayaannya berupa harta benda wakaf\nbergerak, baik berwujud atau\ntidak berwujud yaitu uang, logam\nmulia, surat berharga, kendaraan, hak kekayaan intelektual, hak\nsewa, dan benda bergerak lainnya.\nDalam hal benda bergerak berupa uang, Wakif\ndapat mewakafkan melalui Lembaga Keuangan Syariah.\nYang dimaksud dengan Lembaga Keuangan Syariah\nadalah badan hukum Indonesia yang dibentuk sesuai dengan peraturan\nperundang-undangan\nyang berlaku yang bergerak di bidang keuangan\nsyariah, misalnya badan hukum di bidang perbankan syariah.\nDimungkinkannya wakaf benda bergerak berupa\nuang melalui Lembaga Keuangan Syariah dimaksudkan agar memudahkan\nWakif untuk mewakafkan\nuang miliknya.\n3. Peruntukan harta benda wakaf tidak semata-mata\nuntuk kepentingan sarana ibadah dan sosial tetapi juga diarahkan\nuntuk memajukan\nkesejahteraan umum dengan cara mewujudkan potensi\ndan manfaat ekonomi harta benda wakaf. Hal itu memungkinkan\npengelolaan harta benda\nwakaf dapat memasuki wilayah kegiatan\nekonomi dalam arti luas sepanjang pengelolaan tersebut sesuai\ndengan prinsip manajemen dan\nekonomi Syariah.\n4. Untuk mengamankan harta benda wakaf dari campur\ntangan pihak ketiga yang merugikan kepentingan wakaf, perlu\nmeningkatkan kemampuan\nprofesional Nazhir.\n5. Undang-Undang ini juga mengatur pembentukan\nBadan Wakaf Indonesia yang dapat mempunyai perwakilan di daerah\nsesuai dengan kebutuhan.\nBadan tersebut merupakan lembaga\nindependen yang melaksanakan tugas di bidang perwakafan yang\nmelakukan pembinaan terhadap Nazhir,\nmelakukan pengelolaan dan\npengembangan harta benda wakaf berskala nasional dan internasional,\nmemberikan persetujuan atas perubahan\nperuntukan dan status harta\nbenda wakaf, dan memberikan saran dan pertimbangan kepada\nPemerintah dalam penyusunan kebijakan di bidang\nperwakafan.\nII. PASAL DEMI PASAL\nPasal 1\nCukup jelas\nPasal 2\nCukup jelas\nPasal 3\nCukup jelas\nPasal 4\nCukup jelas\nPasal 5\nCukup jelas\nPasal 6\nCukup jelas\nPasal 7\nYang dimaksud dengan perseorangan, organisasi\ndan/atau badan hukum adalah perseorangan warga negara Indonesia\natau warga negara asing,\norganisasi Indonesia atau organisasi asing\ndan/atau badan hukum Indonesia atau badan hukum asing.\nPasal 8\nCukup jelas\nPasal 9\nYang dimaksud dengan perseorangan, organisasi\ndan/atau badan hukum adalah perseorangan warga negara Indonesia,\norganisasi Indonesia\ndan/atau badan hukum Indonesia.\nPasal 10\nCukup jelas\nPasal 11\nCukup jelas\nPasal 12\nCukup jelas\nPasal 13\nCukup jelas\nPasal 14\nAyat (1)\nDalam rangka pendaftaran Nazhir, Menteri harus\nproaktif untuk mendaftar para Nazhir yang sudah ada dalam\nmasyarakat.\nAyat (2)\nCukup jelas\nPasal 15\nCukup jelas\nPasal 16\nAyat (1)\nCukup jelas\nAyat (2)\nCukup jelas\nAyat (3)\nHuruf a\nCukup jelas\nHuruf b\nCukup jelas\nHuruf c\nCukup jelas\nHuruf d\nCukup jelas\nHuruf e\nCukup jelas\nHuruf f\nCukup jelas\nHuruf g\nYang dimaksud benda bergerak lain sesuai dengan\nsyariah dan peraturan yang berlaku, antara lain mushaf, buku, dan\nkitab.\nPasal 17\nCukup jelas\nPasal 18\nCukup jelas\nPasal 19\nPenyerahan surat-surat atau dokumen kepemilikan\natas harta benda wakaf oleh Wakif atau kuasanya kepada PPAIW\ndimaksudkan agar diperoleh\nkepastian keberadaan harta benda wakaf\ndan kebenaran adanya hak Wakif atas harta benda wakaf\ndimaksud.\nPasal 20\nCukup jelas\nPasal 21\nCukup jelas\nPasal 22\nCukup jelas\nPasal 23\nCukup jelas\nPasal 24\nCukup jelas\nPasal 25\nCukup jelas\nPasal 26\nCukup jelas\nPasal 27\nYang dimaksud dengan pengadilan adalah pengadilan\nagama.\nYang dimaksud dengan pihak yang berkepentingan antara lain para\nahli waris, saksi, dan pihak penerima peruntukan wakaf.\nPasal 28\nYang dimaksud dengan Lembaga Keuangan Syariah\nadalah badan hukum Indonesia yang bergerak di bidang keuangan\nsyariah.\nPasal 29\nAyat (1)\nPernyataan kehendak Wakif secara tertulis\ntersebut dilakukan kepada Lembaga Keuangan Syariah dimaksud.\nAyat (2)\nCukup jelas\nAyat (3)\nCukup jelas\nPasal 30\nCukup jelas\nPasal 31\nCukup jelas\nPasal 32\nInstansi yang berwenang di bidang wakaf tanah\nadalah Badan Pertanahan Nasional.\nInstansi yang berwenang di bidang wakaf benda bergerak selain uang\nadalah instansi yang terkait dengan tugas pokoknya.\nInstansi yang berwenang di bidang wakaf benda bergerak selain uang\nyang tidak terdaftar (unregistered goods) adalah Badan Wakaf\nIndonesia.\nPasal 33\nCukup jelas\nPasal 34\nInstansi yang berwenang di bidang wakaf tanah\nadalah Badan Pertanahan Nasional.\nInstansi yang berwenang di bidang wakaf benda bergerak selain uang\nadalah instansi yang terkait dengan tugas pokoknya.\nInstansi yang berwenang di bidang wakaf benda bergerak selain uang\nyang tidak terdaftar (unregistered goods) adalah Badan Wakaf\nIndonesia.\nYang dimaksud dengan bukti pendaftaran harta benda wakaf adalah\nsurat keterangan yang dikeluarkan oleh instansi Pemerintah yang\nberwenang\nyang menyatakan harta benda wakaf telah terdaftar dan\ntercatat pada negara dengan status sebagai harta benda wakaf.\nPasal 35\nCukup jelas\nPasal 36\nInstansi yang berwenang di bidang wakaf tanah\nadalah Badan Pertanahan Nasional.\nInstansi yang berwenang di bidang wakaf benda bergerak selain uang\nadalah instansi yang terkait dengan tugas pokoknya.\nInstansi yang berwenang di bidang wakaf benda bergerak selain uang\nyang tidak terdaftar (unregistered goods) adalah Badan Wakaf\nIndonesia.\nPasal 37\nCukup jelas\nPasal 38\nYang dimaksud dengan mengumumkan harta benda\nwakaf adalah dengan memasukan data tentang harta benda wakaf dalam\nregister umum. Dengan\ndimasukannya data tentang harta benda wakaf\ndalam register umum, maka terpenuhi asas publisitas dari wakaf\nsehingga masyarakat dapat\nmengakses data tersebut.\nPasal 39\nCukup jelas\nPasal 40\nCukup jelas\nPasal 41\nCukup jelas\nPasal 42\nCukup jelas\nPasal 43\nAyat (1)\nCukup jelas\nAyat (2)\nPengelolaan dan pengembangan harta benda wakaf\ndilakukan secara produktif antara lain dengan cara pengumpulan,\ninvestasi, penanaman\nmodal, produksi, kemitraan, perdagangan,\nagrobisnis, pertambangan, perindustrian, pengembangan teknologi,\npembangunan gedung, apartemen,\nrumah susun, pasar swalayan,\npertokoan, perkantoran, sarana pendidikan ataupun sarana kesehatan,\ndan usaha-usaha yang tidak bertentangan\ndengan syariah.\nYang dimaksud dengan lembaga penjamin syariah adalah badan hukum\nyang menyelenggarakan kegiatan penjaminan atas suatu kegiatan usaha\nyang dapat dilakukan antara lain melalui skim asuransi syariah atau\nskim lainnya sesuai dengan ketentuan peraturan perundang-undangan\nyang berlaku.\nPasal 44\nCukup jelas\nPasal 45\nCukup jelas\nPasal 46\nCukup jelas\nPasal 47\nCukup jelas\nPasal 48\nPembentukan perwakilan Badan Wakaf Indonesia di\ndaerah dilakukan setelah Badan Wakaf Indonesia berkonsultasi dengan\npemerintah daerah\nsetempat.\nPasal 49\nCukup jelas\nPasal 50\nCukup jelas\nPasal 51\nCukup jelas\nPasal 52\nCukup jelas\nPasal 53\nCukup jelas\nPasal 54\nCukup jelas\nPasal 55\nCukup jelas\nPasal 56\nCukup jelas\nPasal 57\nCukup jelas\nPasal 58\nCukup jelas\nPasal 59\nCukup jelas\nPasal 60\nCukup jelas\nPasal 61\nCukup jelas\nPasal 62\nAyat (1)\nCukup jelas\nAyat (2)\nYang dimaksud dengan mediasi adalah penyelesaian\nsengketa dengan bantuan pihak ketiga (mediator) yang disepakati\noleh para pihak yang\nbersengketa. Dalam hal mediasi tidak berhasil\nmenyelesaikan sengketa, maka sengketa tersebut dapat dibawa kepada\nbadan arbitrase\nsyariah. Dalam hal badan arbitrase syariah tidak\nberhasil menyelesaikan sengketa, maka sengketa tersebut dapat\ndibawa ke pengadilan\nagama dan/atau mahkamah syar'iyah.\nPasal 63\nCukup jelas\nPasal 64\nCukup jelas\nPasal 65\nCukup jelas\nPasal 66\nCukup jelas\nPasal 67\nCukup jelas\nPasal 68\nCukup jelas\nPasal 69\nCukup jelas\nPasal 70\nCukup jelas\nPasal 71\nCukup jelas\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 4459."
+   }
+  }
+ ]
+}

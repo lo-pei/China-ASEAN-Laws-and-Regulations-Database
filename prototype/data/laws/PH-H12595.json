@@ -1,0 +1,62 @@
+{
+ "id": "PH-H12595",
+ "title": {
+  "zh": null,
+  "en": "An Act Amending Section thirty-Four of Act Numbered Eighty-Two By Adding thereto a Second Paragraph Authorizing the Translation of Municipal Ordinances Into the Local Dialect and the Posting thereof, as Translated Into Such Dialect.",
+  "orig": "An Act Amending Section thirty-Four of Act Numbered Eighty-Two By Adding thereto a Second Paragraph Authorizing the Translation of Municipal Ordinances Into the Local Dialect and the Posting thereof, as Translated Into Such Dialect."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1909-04-22",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 1886",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 601,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1909/act_1886_1909.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_01886_1909_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_01886_1909_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12595-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section thirty-four of Act Numbered Eighty-two, entitled 'The Municipal Code,\" is hereby\namended by adding a second paragraph, to read as follows:\n\"The municipal council may, if it deems the same to be advisable, order the municipal secretary to have the\nordinances, after their dialects. passage, translated into the dialect used by the majority of the people, and\nposted as translated into such dialect, at the main entrance of the municipal building and in other frequented\npublic places in the center of the town and its barrios.\""
+   }
+  },
+  {
+   "id": "PH-H12595-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, April 22, 1909."
+   }
+  }
+ ]
+}

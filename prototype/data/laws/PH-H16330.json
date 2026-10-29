@@ -1,0 +1,62 @@
+{
+ "id": "PH-H16330",
+ "title": {
+  "zh": null,
+  "en": "An Act to Include the City of Baguio Among the Cities Relieved From the Payment of Sheriff Fees.",
+  "orig": "An Act to Include the City of Baguio Among the Cities Relieved From the Payment of Sheriff Fees."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1941-06-07",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 622",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 332,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00622_1941_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00622_1941_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H16330-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section one of Commonwealth Act Numbered Four hundred and twenty-seven is amended to\nread as follows:\n\"Section 1, All provinces, municipalities, municipal districts, and the cities of Zamboanga, Baguio, and Davao\nshall be exempt from the payment of sheriff fees.\""
+   }
+  },
+  {
+   "id": "PH-H16330-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, June 7, 1941."
+   }
+  }
+ ]
+}

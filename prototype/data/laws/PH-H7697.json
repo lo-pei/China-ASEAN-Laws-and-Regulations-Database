@@ -3,7 +3,11 @@
  "title": {
   "zh": "儿童免受虐待、剥削与歧视特别保护法",
   "en": "Special Protection of Children against Child Abuse, Exploitation and Discrimination Act",
-  "orig": "Special Protection of Children against Child Abuse, Exploitation and Discrimination Act An Act Providing for the elimination of the Worst Forms of Child Labor and affording stronger protection for the working child, amending for this purpose Republic Act No. 7610, as amended...."
+  "orig": "Special Protection of Children against Child Abuse, Exploitation and Discrimination Act An Act Providing for the elimination of the Worst Forms of Child Labor and affording stronger protection for the working child, amending for this purpose Republic Act No. 7610, as amended",
+  "vi": "Đạo luật Bảo vệ Đặc biệt Trẻ em khỏi Lạm dụng, Bóc lột và Phân biệt đối xử",
+  "th": "พระราชบัญญัติคุ้มครองเด็กเป็นพิเศษจากการทารุณกรรม การแสวงประโยชน์ และการเลือกปฏิบัติ",
+  "id": "Undang-Undang Perlindungan Khusus Anak dari Penyalahgunaan, Eksploitasi, dan Diskriminasi",
+  "ms": "Akta Perlindungan Khas Kanak-Kanak daripada Penganiayaan, Eksploitasi dan Diskriminasi"
  },
  "country": "PH",
  "countryName": "菲律宾",
@@ -27,14 +31,14 @@
  "structureMode": "ARTICLE",
  "structure": null,
  "articleCount": 13,
- "chars": 17830,
+ "chars": 17826,
  "source": {
   "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
   "url": "https://lawphil.net/statutes/repacts/ra2003/ra_9231_2003.html"
  },
  "sourceFile": null,
  "fetchedAt": "2026-10-06",
- "completenessNote": "全文，共 11 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra2003/ra_9231_2003.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。 源文条号不连续（自第 1 条起，止于第 13 条，缺 3、8）：经逐条比对原始页面，该处原文没有对应的 “Section N.” 抬头行，系来源页自身的编号跳跃或条文以“续段”形式并入前条，非抽取遗漏，故未擅自补号。",
+ "completenessNote": "全文，共 11 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra2003/ra_9231_2003.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。 源文条号不连续（自第 1 条起，止于第 13 条，缺 3、8）：经逐条比对原始页面，该处原文没有对应的 “Section N.” 抬头行，系来源页自身的编号跳跃或条文以“续段”形式并入前条，非抽取遗漏，故未擅自补号；已清除正文中的 4 个控制字符（C0/C1 区，法律文本中无合法用途，系 PDF 抽取/表单域残留）。",
  "textQuality": null,
  "ocrNoisySections": null,
  "pdfs": null,
@@ -203,7 +207,7 @@
     "en": "Section 13."
    },
    "text": {
-    "en": "Section 13. Effectivity. - This Act shall take effect fifteen (15) days from the date of its complete publication in the Official Gazette or in at least two (2) national newspapers of general circulation.\nApproved,\nFRANKLIN DRILON\nPresident of the Senate\r\nJOSE DE VENECIA JR.\nSpeaker of the House of Representatives\r\nThis Act which is a consolidation of Senate Bill No. 2155 and House Bill No. 4235 was finally passed by the Senate and the House of Representatives on October 14, 2003 and October 13, 2003, respectively.\nOSCAR G. YABES\nSecretary of Senate\r\nROBERTO P. NAZARENO\nSecretary General\nHouse of Represenatives\r\nApproved: December 19, 2003\nGLORIA MACAPAGAL-ARROYO\nPresident of the Philippines"
+    "en": "Section 13. Effectivity. - This Act shall take effect fifteen (15) days from the date of its complete publication in the Official Gazette or in at least two (2) national newspapers of general circulation.\nApproved,\nFRANKLIN DRILON\nPresident of the Senate\nJOSE DE VENECIA JR.\nSpeaker of the House of Representatives\nThis Act which is a consolidation of Senate Bill No. 2155 and House Bill No. 4235 was finally passed by the Senate and the House of Representatives on October 14, 2003 and October 13, 2003, respectively.\nOSCAR G. YABES\nSecretary of Senate\nROBERTO P. NAZARENO\nSecretary General\nHouse of Represenatives\nApproved: December 19, 2003\nGLORIA MACAPAGAL-ARROYO\nPresident of the Philippines"
    },
    "heading": {
     "en": "Effectivity. - This Act shall take effect fifteen (15) days from the date of its complete publication in the Official Ga"

@@ -1,0 +1,62 @@
+{
+ "id": "PH-H10790",
+ "title": {
+  "zh": null,
+  "en": "AN ACT AMENDING SECTION ONE OF THE ACT CREATING THE METROPOLITAN POLICE FORCE OF MANILA.",
+  "orig": "AN ACT AMENDING SECTION ONE OF THE ACT CREATING THE METROPOLITAN POLICE FORCE OF MANILA."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 77",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 443,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_00077_1901_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_00077_1901_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H10790-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The Act entitled \"An Act providing for the organization of three companies of police for the city\nof Manila and neighboring towns,\" is hereby amended by striking out the words \"American volunteer\nsoldiery now serving\" in section one thereof, and inserting in lieu the words \"honorably discharged soldiers\nand sailors of the United States who are now serving or have served.\""
+   }
+  },
+  {
+   "id": "PH-H10790-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, January 26, 1901."
+   }
+  }
+ ]
+}

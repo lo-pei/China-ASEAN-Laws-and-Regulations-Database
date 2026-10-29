@@ -1,0 +1,72 @@
+{
+ "id": "PH-H16428",
+ "title": {
+  "zh": null,
+  "en": "An Act Providing for the Extension of Time",
+  "orig": "An Act Providing for the Extension of Time"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1945-11-01",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 720",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1341,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00720_1945_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00720_1945_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H16428-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Any provision of law to the contrary notwithstanding, such terms, conditions, or stipulations\ncontained in public land, forest or mineral concessions existing and in force on January first, nineteen hundred\nand forty-two, as by reason of the war, could not be performed, accomplished or complied with before the\npromulgation of this law, may be performed, accomplished, or complied with from and after the date of the\napproval of this Act: Provided, That in no case shall the duration of the period with in which to do so, exceed\nthe length of time fixed by the existing laws concerned: And provided, further, That rentals on any of said\nconcessions shall become due and payable from the date the concessionaire resumes his operation or\noccupation of his concession, which in any case shall not be later than one year from the approval of this Act."
+   }
+  },
+  {
+   "id": "PH-H16428-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The duration of the term of any public land, forest, or mining concession existing and in force on\nJanuary first, nineteen hundred and forty-two may be extended for a period not exceeding the length of time\nfrom January first, nineteen hundred and forty-two, up to the date of the approval of this Act, if the Secretary\nof Agriculture and Commerce finds that an extension of time is justified by attending circumstances."
+   }
+  },
+  {
+   "id": "PH-H16428-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, November 1, 1945."
+   }
+  }
+ ]
+}

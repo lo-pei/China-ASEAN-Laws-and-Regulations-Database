@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13113",
+ "title": {
+  "zh": null,
+  "en": "An Act Appropriating the Sum of Fifteen thousand Pesos for the Reconstruction of the Central Portion of the \"Hotel Pines,\" in the City of Baguio, Subprovince of Benguet, Mountain Province.",
+  "orig": "An Act Appropriating the Sum of Fifteen thousand Pesos for the Reconstruction of the Central Portion of the \"Hotel Pines,\" in the City of Baguio, Subprovince of Benguet, Mountain Province."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1914-11-02",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2415",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 578,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1914/act_2415_1914.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02415_1914_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02415_1914_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13113-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "There is hereby appropriated out of any funds in the Insular Treasury not otherwise appropriated,\nthe sum of fifteen thousand pesos, or so much thereof as maybe necessary, to be expended under the direction\nof the Secretary of Commerce and Police, for the reconstruction of the central portion of the Government's\nbuilding known as \"Hotel Pines,\" in the city of Baguio, subprovince of Benguet, Mountain Province, now\nleased to the Hotel Pines Company, Limited, and which was condemned by the city authorities."
+   }
+  },
+  {
+   "id": "PH-H13113-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, November 2, 1914."
+   }
+  }
+ ]
+}

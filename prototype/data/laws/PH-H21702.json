@@ -1,0 +1,62 @@
+{
+ "id": "PH-H21702",
+ "title": {
+  "zh": null,
+  "en": "Amending Section 1 of Presidential Decree No. 121, DatedJanuary 29, 1973, Entitled \"Amending Section 1988 of Act No. 2711 as Amended Otherwise Known as the Administrative Code",
+  "orig": "Amending Section 1 of Presidential Decree No. 121, DatedJanuary 29, 1973, Entitled \"Amending Section 1988 of Act No. 2711 as Amended Otherwise Known as the Administrative Code"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p159",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1973-07-09",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 241",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1835,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_00241_1973_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_00241_1973_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H21702-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section one thousand nine hundred eighty-eight of the Administrative Code is hereby amended\nto read as follows:\n\"Sec. 1988. Location of the bank. The central office of the Philippine Postal Savings Bank shall be in Manila\nand the Director of Posts shall establish, maintain and discontinue postal savings bank and branches thereof in\nsuch places as he shall deem proper: Provided, That postal savings bank and branches thereof, shall not be\nestablished or maintained in places where banking services are already available: Provided, further, That\nwithin three years from the date of effectivity of the Decree, all operations of the bank shall be completely\ndiscontinued and its remaining assets and liabilities shall be transferred to the Philippine National Bank or to\nany other appropriate existing government bank: And Provided, furthermore, That in addition to the buildings,\n\nlands, furniture, supplies and equipment now owned or accruing to the Philippine Postal Savings Bank which\nshall be retained by the Bureau of Posts for postal improvement, said Philippine National Bank or any other\nappropriate existing government bank shall remit to the Bureau of Posts, 50% of the net accumulated surplus\nas may be determined as of the time of the complete transfer of the assets and liabilities to such bank: And\nProvided, finally, That any unexpended amount covering the estimated pre-war liabilities of the bank as of the\ndate of transfer to the Philippine National Bank shall likewise be remitted by the Postal Savings Bank to the\nBureau of Posts which shall be used for the expansion and improvement of the postal service, subject to the\napproval of the Office of the President."
+   }
+  },
+  {
+   "id": "PH-H21702-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Decree shall take effect immediately.\nDone in the City of Manila, this 9th day of July, in the year of Our Lord, nineteen hundred and seventy-three."
+   }
+  }
+ ]
+}

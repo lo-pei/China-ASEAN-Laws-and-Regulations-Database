@@ -1,0 +1,82 @@
+{
+ "id": "PH-H16002",
+ "title": {
+  "zh": null,
+  "en": "An Act Abolishing- the Manila Harbor Board, Making the Necessary Provisions for the Administrative Adjustments Resulting therefrom, and Appropriating Funds therefor.",
+  "orig": "An Act Abolishing- the Manila Harbor Board, Making the Necessary Provisions for the Administrative Adjustments Resulting therefrom, and Appropriating Funds therefor."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1938-06-03",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "National Assembly of the Philippines",
+ "docNumber": "Commonwealth Act No. 285",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 1251,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/09_自治邦法令_CA/CA_00285_1938_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 CA_00285_1938_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H16002-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The Manila Harbor Board, created by Act Numbered Three thousand and two, as amended by\nAct Numbered Thirty-eight hundred and fifty-one, is hereby abolished and the powers and duties conferred\nupon it by existing law shall hereafter be exercised by the Bureau of Customs subject to the administrative\ncontrol and supervision of the Department of Finance."
+   }
+  },
+  {
+   "id": "PH-H16002-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The unexpended balance of the Manila Harbor Board Fund existing on the date of the approval\nof this Act shall revert to the General Fund of the National Government, and the personnel, equipment,\nmaterials, records, and other properties of the said Board shall be transferred to the Bureau of Customs, to be\nused for the same purposes for which they were originally intended."
+   }
+  },
+  {
+   "id": "PH-H16002-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "For the payment of the salaries of the necessary personnel and for the exercise of the powers and\nthe performance of the duties mentioned in section one hereof, during the remaining- period of the year\nnineteen hundred and thirty-eight, by the Bureau of Customs, there is appropriated out of the unappropriated\nportion of the General Fund in the Philippine Treasury the sum of forty-two thousand five hundred pesos, or\nso much thereof as may be necessary."
+   }
+  },
+  {
+   "id": "PH-H16002-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, June 3, 1938."
+   }
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "id": "PH-H22836",
+ "title": {
+  "zh": null,
+  "en": "Amending Presidential Decree No. 260, as Amended, By Prohibiting the Unauthorized Modification, Alteration, Repair and Destruction of Original Features of All National Shrines, Monuments, Landmarks and Other Important Historic",
+  "orig": "Amending Presidential Decree No. 260, as Amended, By Prohibiting the Unauthorized Modification, Alteration, Repair and Destruction of Original Features of All National Shrines, Monuments, Landmarks and Other Important Historic"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1978-06-11",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 1505",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 968,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_01505_1978_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_01505_1978_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22836-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Presidential Decree No. 260 is hereby amended by inserting another section after Section 4 to\nread as follows:\n\"Sec. 5. It shall be unlawfully for any person to modify, alter, repair or destroy the original features of any\nnational shrine, monument, landmark and other important historic edifices declared and classified by the\nNational Historical Institute as such without the prior written permission from the Chairman of said Institute.\nAny person who shall violate this Decree shall, upon conviction, be punished by imprisonment for not less\nthan one year nor more than five years or a fine of not less than one thousand pesos nor more than ten\nthousand pesos or both, at the discretion of the court or tribunal concerned.\""
+   }
+  },
+  {
+   "id": "PH-H22836-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Sections 5 and 6 of the same Decree are hereby renumbered Section 6 and 7 respectively."
+   }
+  },
+  {
+   "id": "PH-H22836-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Decree shall take effect immediately.\nDone in the City of Manila, this 11th day of June, in the year of Our Lord, nineteen hundred and\nseventy-eight."
+   }
+  }
+ ]
+}

@@ -1,0 +1,582 @@
+{
+ "id": "MY-H1783",
+ "title": {
+  "zh": "2025年伊斯兰法管理（联邦直辖区）（伊斯兰宗教学校的登记与规管）规则",
+  "en": "ADMINISTRATION OF ISLAMIC LAW (FEDERAL TERRITORIES) (REGISTRATION AND REGULATION OF ISLAMIC RELIGIOUS SCHOOL) RULES 2025",
+  "orig": "ADMINISTRATION OF ISLAMIC LAW (FEDERAL TERRITORIES) (REGISTRATION AND REGULATION OF ISLAMIC RELIGIOUS SCHOOL) RULES 2025",
+  "ms": "Kaedah Pentadbiran Hukum Syarak (Wilayah-Wilayah Persekutuan) (Pendaftaran dan Pengawalan Sekolah Agama Islam) 2025",
+  "vi": "Quy tắc về Quản lý luật Hồi giáo (Các lãnh thổ liên bang) (Đăng ký và quản lý trường tôn giáo Hồi giáo) năm 2025",
+  "th": "กฎการบริหารกฎหมายอิสลาม (เขตสหพันธรัฐ) (การขึ้นทะเบียนและการกำกับโรงเรียนศาสนาอิสลาม) ค.ศ. 2025",
+  "id": "Tata Tertib Penyelenggaraan Hukum Islam (Wilayah-Wilayah Persekutuan) (Registrasi dan Pengaturan Sekolah Agama Islam) Tahun 2025"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-4",
+ "language": "ms",
+ "level": "regulation",
+ "category": "04_劳工与行政法",
+ "status": "active",
+ "promulgatedDate": "2025",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "PUA169",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 45,
+ "chars": 68631,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-view.php?type=pua&no=P.U. (A) 169/2025&status=PRINCIPAL"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\04_劳工与行政法\\2025_P.U.(A)169-2025_ADMINISTRATION OF ISLAMIC LAW (FEDERAL TERRITORIES) (REGISTRATION AND REGULATION OF ISLAMIC REL.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 45 条；逐字未改写（源自厂商 OCR 文本）。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H1783-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "1. Nama, pemakaian dan permulaan kuat kuasa"
+   }
+  },
+  {
+   "id": "MY-H1783-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "2. Tafsiran\n\nBAHAGIAN II\n\nJAWATANKUASA SEKOLAH AGAMA ISLAM"
+   }
+  },
+  {
+   "id": "MY-H1783-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "3. Penubuhan Jawatankuasa"
+   }
+  },
+  {
+   "id": "MY-H1783-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "4. Fungsi Jawatankuasa"
+   }
+  },
+  {
+   "id": "MY-H1783-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "5. Keanggotaan Jawatankuasa"
+   }
+  },
+  {
+   "id": "MY-H1783-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "6. Setiausaha"
+   }
+  },
+  {
+   "id": "MY-H1783-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "7. Pembatalan dan peletakan jawatan"
+   }
+  },
+  {
+   "id": "MY-H1783-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "8. Pengosongan jawatan"
+   }
+  },
+  {
+   "id": "MY-H1783-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "9. Mesyuarat Jawatankuasa"
+   }
+  },
+  {
+   "id": "MY-H1783-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "10. Elaun\n\nBAHAGIAN III\n\nKETUA PENDAFTAR, PENDAFTAR, PENOLONG PENDAFTAR DAN NAZIR SEKOLAH"
+   }
+  },
+  {
+   "id": "MY-H1783-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "11. Pelantikan Ketua Pendaftar, Pendaftar dan Penolong Pendaftar"
+   }
+  },
+  {
+   "id": "MY-H1783-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "12. Tanggungjawab Pendaftar"
+   }
+  },
+  {
+   "id": "MY-H1783-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "13. Daftar Sekolah Agama Islam\n\nKaedah"
+   }
+  },
+  {
+   "id": "MY-H1783-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "14. Pelantikan Nazir Sekolah"
+   }
+  },
+  {
+   "id": "MY-H1783-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "15. Tanggungjawab Nazir Sekolah"
+   }
+  },
+  {
+   "id": "MY-H1783-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "16. Kuasa untuk memeriksa"
+   }
+  },
+  {
+   "id": "MY-H1783-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "17. Pemeriksaan sekolah agama Islam yang berdaftar"
+   }
+  },
+  {
+   "id": "MY-H1783-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "18. Pemeriksaan sekolah agama Islam yang tidak berdaftar\n\nBAHAGIAN IV\n\nPENUBUHAN JEMAAH PENGURUSAN"
+   }
+  },
+  {
+   "id": "MY-H1783-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "19. Jemaah Pengurusan"
+   }
+  },
+  {
+   "id": "MY-H1783-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "20. Keanggotaan Jemaah Pengurusan"
+   }
+  },
+  {
+   "id": "MY-H1783-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "21. Kelayakan anggota Jemaah Pengurusan"
+   }
+  },
+  {
+   "id": "MY-H1783-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "22. Tanggungjawab Jemaah Pengurusan\n\nBAHAGIAN V\n\nPENDAFTARAN SEKOLAH AGAMA ISLAM"
+   }
+  },
+  {
+   "id": "MY-H1783-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "23. Pendaftaran sekolah agama Islam"
+   }
+  },
+  {
+   "id": "MY-H1783-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "24. Permohonan bagi pendaftaran"
+   }
+  },
+  {
+   "id": "MY-H1783-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "25. Dokumen atau maklumat tambahan"
+   }
+  },
+  {
+   "id": "MY-H1783-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "26. Tempoh kesahan perakuan pendaftaran"
+   }
+  },
+  {
+   "id": "MY-H1783-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 27"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "27. Pembaharuan perakuan pendaftaran"
+   }
+  },
+  {
+   "id": "MY-H1783-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 28"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "28. Pempameran perakuan pendaftaran"
+   }
+  },
+  {
+   "id": "MY-H1783-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Section 29"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "29. Penggantian perakuan pendaftaran"
+   }
+  },
+  {
+   "id": "MY-H1783-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Section 30"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "30. Pendaftaran berasingan bagi setiap peringkat sekolah"
+   }
+  },
+  {
+   "id": "MY-H1783-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Section 31"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "31. Cawangan sekolah agama Islam"
+   }
+  },
+  {
+   "id": "MY-H1783-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Section 32"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "32. Penukaran nama, dsb."
+   }
+  },
+  {
+   "id": "MY-H1783-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Section 33"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "33. Pengiklanan sekolah agama Islam"
+   }
+  },
+  {
+   "id": "MY-H1783-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "Section 34"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "34. Pembatalan pendaftaran"
+   }
+  },
+  {
+   "id": "MY-H1783-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "Section 35"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "35. Rayuan\n\nBAHAGIAN VI\n\nKEWANGAN\n\nKaedah"
+   }
+  },
+  {
+   "id": "MY-H1783-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "Section 36"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "36. Akaun kewangan sekolah agama Islam"
+   }
+  },
+  {
+   "id": "MY-H1783-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "Section 37"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "37. Garis panduan kewangan"
+   }
+  },
+  {
+   "id": "MY-H1783-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "Section 38"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "38. Audit\n\nBAHAGIAN VII\n\nPENGUATKUASAAN"
+   }
+  },
+  {
+   "id": "MY-H1783-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "Section 39"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "39. Notis pemberhentian operasi\n\nBAHAGIAN VIII\n\nPELBAGAI"
+   }
+  },
+  {
+   "id": "MY-H1783-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "Section 40"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "40. Laporan"
+   }
+  },
+  {
+   "id": "MY-H1783-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "Section 41"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "41. Kurikulum dan kokurikulum sekolah agama Islam"
+   }
+  },
+  {
+   "id": "MY-H1783-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "Section 42"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "42. Penilaian"
+   }
+  },
+  {
+   "id": "MY-H1783-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "Section 43"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "43. Kuasa Majlis untuk mengeluarkan arahan"
+   }
+  },
+  {
+   "id": "MY-H1783-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "Section 44"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "44. Pengambilalihan pentadbiran sekolah agama Islam\n\nBAHAGIAN IX\n\nPERALIHAN"
+   }
+  },
+  {
+   "id": "MY-H1783-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "Section 45"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "45. Peralihan\n\nJADUAL\n\nAKTA PENTADBIRAN UNDANG-UNDANG ISLAM\n\n(WILAYAH-WILAYAH PERSEKUTUAN) 1993\n\nKAEDAH-KAEDAH PENTADBIRAN UNDANG-UNDANG ISLAM\n\n(WILAYAH-WILAYAH PERSEKUTUAN) (PENDAFTARAN DAN PENGAWALSELIAAN\n\nSEKOLAH AGAMA ISLAM) 2025\n\nPADA menjalankan kuasa yang diberikan oleh seksyen 99\n\nAkta Pentadbiran Undang-Undang Islam (Wilayah-Wilayah Persekutuan) 1993\n\n[Akta 505], Yang di-Pertuan Agong, atas nasihat Majlis, membuat kaedah-kaedah\n\nyang berikut:\n\nBAHAGIAN I\n\nPERMULAAN\n\nNama, pemakaian dan permulaan kuat kuasa\n\n1. (1) Kaedah-kaedah ini bolehlah dinamakan Kaedah-Kaedah Pentadbiran\n\nUndang-Undang Islam (Wilayah-Wilayah Persekutuan) (Pendaftaran dan\n\nPengawalseliaan Sekolah Agama Islam) 2025.\n\n(2) Kaedah-Kaedah ini hendaklah terpakai bagi Wilayah-Wilayah Persekutuan\n\nKuala Lumpur, Labuan dan Putrajaya.\n\n(3) Kaedah-Kaedah ini mula berkuat kuasa pada 1 Jun 2025.\n\nTafsiran\n\n2. Dalam Kaedah-Kaedah ini, melainkan jika konteksnya menghendaki makna\n\nyang lain—\n\n\"Jemaah Pengurusan\" ertinya Jemaah Pengurusan Sekolah Agama Islam yang\n\nditubuhkan di bawah subkaedah 19(2);\n\n\"Jawatankuasa\" ertinya Jawatankuasa Sekolah Agama Islam yang ditubuhkan\n\ndi bawah kaedah 3;\n\n\"Nazir Sekolah\" ertinya nazir sekolah agama Islam yang dilantik di bawah\n\nsubkaedah 14(1);\n\n\"Pendaftar\" ertinya Ketua Pendaftar sekolah agama Islam dan termasuklah\n\nPendaftar dan Penolong Pendaftar sekolah agama Islam yang dilantik di bawah\n\nkaedah 11;\n\n\"Pengerusi\" ertinya Pengerusi Jawatankuasa Sekolah Agama Islam yang dilantik\n\ndi bawah perenggan 5(1)(a);\n\n\"prasekolah agama Islam\" ertinya sekolah agama Islam yang menyediakan\n\nprogram pendidikan prasekolah agama Islam bagi murid yang berumur dari\n\nempat hingga enam tahun;\n\n\"perakuan pendaftaran\" ertinya perakuan pendaftaran sekolah agama Islam yang\n\ndikeluarkan di bawah perenggan 24(5)(a);\n\n\"sekolah agama Islam\" ertinya mana-mana tempat yang digunakan bagi\n\nmenjalankan aktiviti pengajaran dan pembelajaran agama Islam yang mempunyai\n\nsekurang-kurangnya sepuluh orang murid pada peringkat prasekolah, sekolah rendah\n\natau sekolah menengah agama Islam yang ditubuhkan oleh mana-mana orang,\n\nMajlis atau Jabatan Agama Islam Wilayah Persekutuan yang termasuklah institusi\n\npondok, tahfiz al-Quran, pengajian agama atau pengajian hadis tetapi tidak termasuk\n\nmana-mana institusi pendidikan yang disebut dalam perenggan 16(a) dan (b)\n\nAkta Pendidikan 1996 [Akta 550];\n\n\"sekolah menengah agama Islam\" ertinya sekolah agama Islam yang menyediakan\n\nprogram pendidikan menengah agama Islam yang bersesuaian bagi murid yang\n\nsudah tamat pendidikan rendah agama Islam atau pendidikan rendah di bawah\n\nAkta Pendidikan 1996;\n\n\"sekolah rendah agama Islam\" ertinya sekolah agama Islam yang menyediakan\n\nprogram pendidikan rendah agama Islam bagi murid yang berumur dari enam tahun;\n\n\"surat cara pengurusan\" ertinya surat cara pengurusan sekolah agama Islam yang\n\ndinyatakan di bawah subkaedah 19(1).\n\nBAHAGIAN II\n\nJAWATANKUASA SEKOLAH AGAMA ISLAM\n\nPenubuhan Jawatankuasa\n\n3. Majlis hendaklah menubuhkan suatu jawatankuasa yang dikenali sebagai\n\n\"Jawatankuasa Sekolah Agama Islam\".\n\nFungsi Jawatankuasa\n\n4. (1) Fungsi Jawatankuasa adalah seperti yang berikut:\n\n(a) untuk menimbang, meluluskan atau menolak suatu permohonan\n\nbagi pendaftaran sekolah agama Islam;\n\n(b) untuk merangka, membangunkan, menilai dan meminda\n\nkurikulum dan kokurikulum sekolah agama Islam selaras dengan\n\nketetapan Majlis;\n\n(c) untuk melaporkan hal ehwal sekolah agama Islam kepada Majlis\n\nsekurang-kurangnya sekali dalam masa enam bulan;\n\n(d) untuk melaporkan apa-apa tindakan yang diambil terhadap sekolah\n\nagama Islam kepada Majlis mengenai pendaftaran dan pembatalan\n\npendaftaran bagi sekolah agama Islam;\n\n(e) untuk menambah, meminda atau membatalkan mana-mana syarat\n\nyang dikenakan dalam perakuan pendaftaran;\n\n(f) untuk membatalkan pendaftaran mana-mana sekolah agama Islam\n\nmengikut kaedah 34 atau atas permohonan Jemaah Pengurusan;\n\ndan\n\n(g) untuk melakukan segala perkara yang perlu atau\n\nsuai manfaat untuk atau yang berkaitan dengan pelaksanaan\n\nfungsinya di bawah Kaedah-Kaedah ini.\n\n(2) Walau apa pun perenggan (1)(b), Jawatankuasa boleh mendapatkan\n\nnasihat daripada Jawatankuasa Penyelarasan Pendidikan Islam Kebangsaan yang\n\nditubuhkan oleh Majlis Kebangsaan Bagi Hal Ehwal Agama Islam Malaysia mengenai\n\napa-apa perkara yang berhubungan dengan sekolah agama Islam termasuk kurikulum\n\ndan kokurikulum, buku teks, peperiksaan, pensijilan dan latihan guru.\n\nKeanggotaan Jawatankuasa\n\n5. (1) Jawatankuasa hendaklah terdiri daripada—\n\n(a) seorang Pengerusi yang dilantik oleh Majlis dalam\n\nkalangan anggotanya;\n\n(b) Pengarah Jabatan Agama Islam Wilayah Persekutuan sebagai\n\nTimbalan Pengerusi;\n\n(c) Mufti atau wakilnya;\n\n(d) seorang pegawai Majlis yang dinamakan oleh Majlis;\n\n(e) seorang pegawai Jabatan Agama Islam Wilayah Persekutuan\n\nyang dinamakan oleh Pengarah Jabatan Agama Islam\n\nWilayah Persekutuan;\n\n(f) seorang pegawai Jabatan Kemajuan Islam Malaysia yang dinamakan\n\noleh Ketua Pengarah Jabatan Kemajuan Islam Malaysia;\n\n(g) seorang pegawai Jabatan Pendidikan Wilayah Persekutuan; dan\n\n(h) tiga orang anggota lain yang mempunyai pengalaman, pengetahuan\n\ndan kepakaran yang berkaitan dalam orang yang beragama Islam\n\nyang hendaklah dilantik oleh Majlis.\n\n(2) Anggota yang dilantik di bawah perenggan (1)(a) dan (h) hendaklah\n\ndilantik selama tempoh tidak melebihi tiga tahun dan layak untuk dilantik semula.\n\nSetiausaha\n\n6. (1) Majlis boleh melantik seorang pegawai hal ehwal Islam yang kanan\n\ndi Jabatan Agama Islam Wilayah Persekutuan sebagai Setiausaha kepada Jawatankuasa.\n\n(2) Setiausaha hendaklah bertanggungjawab bagi menjalankan dasar,\n\narahan dan keputusan Jawatankuasa.\n\n(3) Setiausaha berhak menghadiri semua mesyuarat Jawatankuasa dan\n\nmengambil bahagian dalam pertimbangtelitiannya tetapi tidak layak untuk mengundi.\n\nPembatalan dan peletakan jawatan\n\n7. (1) Majlis boleh, secara bertulis, membatalkan pelantikan mana-mana\n\nanggota Jawatankuasa yang dilantik di bawah perenggan 5(1)(a) dan (h).\n\n(2) Anggota Jawatankuasa yang dilantik di bawah perenggan 5(1)(a) dan (h)\n\nboleh meletakkan jawatan melalui suatu notis bertulis kepada Pengerusi Majlis.\n\nPengosongan jawatan\n\n8. (1) Seseorang anggota Jawatankuasa yang dilantik di bawah\n\nperenggan 5(1)(a) dan (h) hendaklah disifatkan telah mengosongkan jawatannya jika—\n\n(a) dia meninggal dunia;\n\n(b) dia telah disabitkan atas suatu kesalahan jenayah;\n\n(c) dia menjadi bankrap yang belum dilepaskan; atau\n\n(d) dia menjadi tidak sempurna akal atau selainnya tidak berupaya\n\nuntuk menunaikan kewajipannya.\n\n(2) Jika seseorang anggota yang dilantik di bawah perenggan 5(1)(a) dan (h)\n\nterhenti menjadi anggota Jawatankuasa oleh sebab mana-mana peruntukan\n\nKaedah-Kaedah ini, Majlis boleh melantik seorang yang lain untuk mengisi kekosongan\n\nitu bagi tempoh berbaki bagi anggota yang mengosongkan jawatan itu.\n\nMesyuarat Jawatankuasa\n\n9. (1) Semua mesyuarat Jawatankuasa hendaklah dipanggil oleh Setiausaha atas\n\narahan Pengerusi melalui notis bertulis kepada anggota Jawatankuasa yang disampaikan\n\nsekurang-kurangnya tujuh hari sebelum mesyuarat.\n\n(2) Walau apa pun subkaedah (1), Pengerusi boleh, jika dia mengganggap\n\nbahawa terdapat keperluan mendesak, memanggil mesyuarat dengan notis yang\n\nlebih singkat.\n\n(3) Pengerusi, atau pada masa ketiadaannya, Timbalan Pengerusi hendaklah\n\nmempengerusikan semua mesyuarat Jawatankuasa.\n\n(4) Jawatankuasa hendaklah mengadakan mesyuarat sekurang-kurangnya\n\nsekali bagi tiap-tiap enam bulan.\n\n(5) Pengerusi mesyuarat dan empat anggota Jawatankuasa lain yang hadir\n\nhendaklah membentuk kuorum dalam mana-mana mesyuarat Jawatankuasa.\n\n(6) Semua keputusan mesyuarat Jawatankuasa hendaklah dibuat secara\n\npersetujuan atau melalui ketetapan majoriti anggota yang hadir dan berhak mengundi\n\ndan jika terdapat persamaan undi, Pengerusi atau Timbalan Pengerusi yang\n\nmempengerusikan mesyuarat itu hendaklah mempunyai undi pemutus.\n\n(7) Walau apa pun subkaedah (4), Pengerusi boleh, mengarahkan Setiausaha\n\nmemanggil mesyuarat.\n\n(8) Pengerusi boleh mengundang mana-mana orang yang bukan anggota\n\nJawatankuasa untuk menghadiri mana-mana mesyuarat atau pertimbangtelitian\n\nJawatankuasa bagi menasihati Jawatankuasa mengenai apa-apa perkara yang sedang\n\ndibincangkan tetapi orang itu tidak berhak mengundi dalam mesyuarat itu.\n\nElaun\n\n10. Anggota Jawatankuasa boleh dibayar apa-apa elaun yang ditentukan oleh Majlis.\n\nBAHAGIAN III\n\nKETUA PENDAFTAR, PENDAFTAR, PENOLONG PENDAFTAR DAN NAZIR SEKOLAH\n\nPelantikan Ketua Pendaftar, Pendaftar dan Penolong Pendaftar\n\n11. (1) Setiausaha yang dilantik di bawah subkaedah 6(1) hendaklah menjadi\n\nKetua Pendaftar.\n\n(2) Majlis boleh melantik apa-apa bilangan Pendaftar dan Penolong Pendaftar\n\ndalam kalangan orang yang berkhidmat dalam perkhidmatan Hal Ehwal Islam atau\n\nperkhidmatan pendidikan di Jabatan Agama Islam Wilayah Persekutuan atas apa-apa\n\nterma dan syarat yang ditentukan oleh Majlis.\n\n(3) Tertakluk kepada arahan dan kawalan Ketua Pendaftar dan apa-apa\n\nsyarat atau sekatan yang dikenakan oleh Ketua Pendaftar, seseorang Pendaftar atau\n\nPenolong Pendaftar boleh menjalankan apa-apa kuasa Ketua Pendaftar di bawah\n\nKaedah-Kaedah ini.\n\nTanggungjawab Pendaftar\n\n12. (1) Pendaftar hendaklah bertanggungjawab untuk perkara seperti\n\nyang berikut:\n\n(a) untuk mendaftarkan suatu sekolah agama Islam jika permohonan\n\nbagi pendaftarannya telah diluluskan di bawah kaedah 24;\n\n(b) untuk memastikan bahawa semua sekolah agama Islam\n\ndi Wilayah-Wilayah Persekutuan ditadbir dengan sepatutnya;\n\n(c) untuk mengawal selia dan memantau Jemaah Pengurusan;\n\n(d) untuk mengesyorkan apa-apa tindakan yang sesuai diambil\n\nterhadap sekolah agama Islam yang melanggar Kaedah-Kaedah ini\n\nkepada Jawatankuasa;\n\n(e) untuk mengemukakan laporan bertulis mengenai hal ehwal\n\nsekolah agama Islam di Wilayah-Wilayah Persekutuan kepada\n\nJawatankuasa sekurang-kurangnya sekali dalam tiap-tiap\n\nenam bulan;\n\n(f) untuk menasihati atau mengesyorkan apa-apa tindakan yang boleh\n\ndiambil oleh sekolah agama Islam berdasarkan laporan yang\n\ndikemukakan oleh Nazir Sekolah; dan\n\n(g) untuk melaksanakan apa-apa kewajipan yang diarahkan oleh\n\nJawatankuasa dari semasa ke semasa.\n\n(2) Pendaftar hendaklah bertindak di bawah arahan dan\n\nkawalan Jawatankuasa.\n\nDaftar Sekolah Agama Islam\n\n13. (1) Pendaftar hendaklah menyimpan dan menyenggara suatu\n\nDaftar Sekolah Agama Islam.\n\n(2) Bagi maksud subkaedah (1), Daftar Sekolah Agama Islam\n\nhendaklah mengandungi—\n\n(a) nama, nombor telefon, jenis sekolah, tarikh pendaftaran dan\n\nalamat sekolah agama Islam;\n\n(b) butir-butir anggota Jemaah Pengurusan sekolah agama Islam;\n\n(c) butir-butir guru sekolah agama Islam;\n\n(d) kurikulum sekolah agama Islam, jika perlu;\n\n(e) tempoh kesahan perakuan pendaftaran sekolah agama Islam;\n\n(f) sumber kewangan sekolah agama Islam; dan\n\n(g) apa-apa maklumat lain yang difikirkan perlu oleh Pendaftar untuk\n\ndirekodkan.\n\nPelantikan Nazir Sekolah\n\n14. (1) Majlis boleh, atas syor Jawatankuasa, melantik apa-apa bilangan\n\nNazir Sekolah yang perlu dalam kalangan orang yang berkhidmat dalam—\n\n(a) perkhidmatan Hal Ehwal Islam; dan\n\n(b) perkhidmatan pendidikan,\n\ndi Jabatan Agama Islam Wilayah Persekutuan.\n\n(2) Seseorang Nazir Sekolah yang dilantik di bawah subkaedah (1) hendaklah\n\ntertakluk kepada arahan dan kawalan Pendaftar.\n\nTanggungjawab Nazir Sekolah\n\n15. Nazir Sekolah hendaklah bertanggungjawab seperti yang berikut:\n\n(a) untuk memeriksa sekolah agama Islam berhubung dengan penggunaan\n\nkurikulum yang diluluskan oleh Majlis, kualiti pengajaran dan\n\npembelajaran, penggunaan buku-buku teks, guru-guru dan pematuhan\n\nKaedah-Kaedah ini atau apa-apa perkara yang diarahkan oleh Pendaftar;\n\n(b) untuk memeriksa akaun kewangan sekolah agama Islam; dan\n\n(c) untuk mengemukakan laporan pemeriksaan sekolah agama Islam\n\ntermasuk untuk mengesyorkan apa-apa tindakan yang sesuai untuk\n\ndiambil terhadap sekolah itu kepada Pendaftar dalam masa\n\ndua puluh satu hari bekerja selepas pemeriksaan itu.\n\nKuasa untuk memeriksa\n\n16. Pendaftar, Nazir Sekolah atau mana-mana orang yang diberi kuasa oleh Majlis\n\nboleh memeriksa mana-mana sekolah agama Islam sama ada yang berdaftar atau\n\ntidak berdaftar di bawah Kaedah-Kaedah ini.\n\nPemeriksaan sekolah agama Islam yang berdaftar\n\n17. (1) Pendaftar, Nazir Sekolah atau mana-mana orang yang diberi kuasa oleh\n\nMajlis semasa menjalankan suatu pemeriksaan di bawah perenggan 15(a) dan\n\nkaedah 16, boleh memasuki mana-mana bahagian premis dan memeriksa apa-apa buku,\n\ndokumen, bahan media elektronik atau barang lain yang difikirkan perlu olehnya.\n\n(2) Pendaftar, Nazir Sekolah atau mana-mana orang yang diberi kuasa oleh\n\nMajlis, dalam menjalankan pemeriksaan di bawah subkaedah (1), boleh diiringi oleh\n\nmana-mana orang lain yang difikirkan perlu olehnya.\n\n(3) Mana-mana orang yang ada dalam milikan atau kawalannya apa-apa buku,\n\ndokumen, bahan media elektronik atau barang lain yang berhubungan dengan\n\npengurusan atau pengajaran yang dijalankan di sekolah agama Islam hendaklah\n\nmengemukakan buku, dokumen, bahan media elektronik atau barang lain itu bagi\n\npemeriksaan apabila diminta oleh Pendaftar, Nazir Sekolah atau mana-mana orang yang\n\ndiberi kuasa oleh Majlis.\n\n(4) Walau apa pun subkaedah (3), Pendaftar boleh menyita, memindahkan\n\natau menahan apa-apa buku, dokumen, bahan media elektronik atau barang lain yang\n\npada pendapatnya memudaratkan kepentingan awam atau murid atau yang boleh\n\nmenjadi keterangan pelakuan suatu kesalahan di bawah Kaedah-Kaedah ini atau\n\nAkta Kesalahan Jenayah Syariah (Wilayah-Wilayah Persekutuan) 1997 [Akta 559].\n\nPemeriksaan sekolah agama Islam yang tidak berdaftar\n\n18. (1) Jika Pendaftar atau Pegawai Penguat Kuasa Agama mempunyai sebab yang\n\nmunasabah untuk mempercayai bahawa mana-mana premis sedang digunakan sebagai\n\nsekolah agama Islam tanpa didaftarkan di bawah Kaedah-Kaedah ini, Pendaftar atau\n\nPegawai Penguat Kuasa Agama itu boleh memasuki dan memeriksa premis itu.\n\n(2) Pendaftar atau Pegawai Penguat Kuasa Agama, dalam menjalankan\n\npemeriksaan di bawah subkaedah (1), boleh disertai oleh mana-mana orang lain yang\n\ndifikirkan perlu olehnya.\n\n(3) Pendaftar atau Pegawai Penguat Kuasa Agama boleh menyita dan menahan\n\napa-apa buku, dokumen, bahan media elektronik atau barang lain yang terdapat di dalam\n\npremis itu yang didapatinya boleh menjadi keterangan pelakuan suatu kesalahan\n\nterhadap Kaedah-Kaedah ini atau yang didapatinya adalah harta, atau telah digunakan\n\nberkaitan dengan, sesuatu sekolah agama Islam yang tidak didaftarkan di bawah\n\nKaedah-Kaedah ini.\n\nBAHAGIAN IV\n\nPENUBUHAN JEMAAH PENGURUSAN\n\nJemaah Pengurusan\n\n19. (1) Tiap-tiap sekolah agama Islam hendaklah mempunyai surat cara\n\npengurusan sebagaimana yang ditentukan oleh Jawatankuasa.\n\n(2) Tiap-tiap surat cara pengurusan hendaklah mengadakan peruntukan bagi\n\npenubuhan suatu Jemaah Pengurusan sekolah agama Islam yang hendaklah\n\nbertanggungjawab bagi pengurusan sekolah agama Islam itu.\n\n(3) Jawatankuasa boleh, atas permohonan secara bertulis oleh\n\nJemaah Pengurusan, meminda surat cara pengurusan.\n\n(4) Kaedah ini tidak terpakai bagi sekolah agama Islam yang ditubuhkan oleh\n\nMajlis atau Jabatan Agama Islam Wilayah Persekutuan.\n\nKeanggotaan Jemaah Pengurusan\n\n20. Tiap-tiap Jemaah Pengurusan hendaklah terdiri daripada sekurang-kurangnya\n\nlima orang dan tidak lebih daripada sebelas orang yang hendaklah memegang apa-apa\n\njawatan sebagaimana yang perlu bagi sekolah agama Islam itu.\n\nKelayakan anggota Jemaah Pengurusan\n\n21. (1) Seseorang itu layak menjadi anggota Jemaah Pengurusan jika dia—\n\n(a) seorang Islam;\n\n(b) warganegara Malaysia;\n\n(c) berumur tidak kurang daripada dua puluh satu tahun;\n\n(d) bukan seorang bankrap yang belum dilepaskan;\n\n(e) tidak pernah disabitkan dan dihukum dengan apa-apa kesalahan\n\njenayah oleh mana-mana mahkamah; dan\n\n(f) mempunyai pengetahuan yang sesuai dalam akademik atau\n\npengajian Islam.\n\n(2) Walau apa pun perenggan (1)(b), Jawatankuasa boleh membenarkan\n\nseorang bukan warganegara Malaysia untuk dilantik sebagai anggota Jemaah Pengurusan\n\njika ia berpuas hati bahawa terdapat hal keadaan khas dan ia tidak berlawanan dengan\n\nkepentingan awam atau mana-mana undang-undang yang berkuat kuasa untuk\n\nberbuat demikian.\n\nTanggungjawab Jemaah Pengurusan\n\n22. (1) Jemaah Pengurusan hendaklah bertanggungjawab bagi pengurusan,\n\npentadbiran dan kewangan sekolah agama Islam.\n\n(2) Jemaah Pengurusan hendaklah—\n\n(a) mentadbir dan menyenggara sekolah agama Islam mengikut surat\n\ncara pengurusannya;\n\n(b) mematuhi apa-apa arahan Pendaftar; dan\n\n(c) menyenggara rekod yang sepatutnya mengenai—\n\n(i) butir-butir guru dan kakitangan sekolah agama Islam;\n\n(ii) butir-butir murid sekolah agama Islam;\n\n(iii) sumber kewangan dan perbelanjaan sekolah agama Islam;\n\n(iv) kurikulum dan kokurikulum sekolah agama Islam;\n\n(v) yuran pengajian sekolah agama Islam; dan\n\n(vi) apa-apa maklumat lain yang dikehendaki oleh Pendaftar.\n\n(3) Jemaah Pengurusan boleh melantik apa-apa bilangan guru dan kakitangan\n\nyang perlu bagi maksud kaedah ini.\n\n(4) Walau apa pun subkaedah (3), pelantikan guru dan kakitangan\n\nsekolah agama Islam yang ditubuhkan oleh Majlis atau Jabatan Agama Islam\n\nWilayah Persekutuan hendaklah masing-masing dibuat oleh Majlis atau\n\nJabatan Agama Islam Wilayah Persekutuan.\n\nBAHAGIAN V\n\nPENDAFTARAN SEKOLAH AGAMA ISLAM\n\nPendaftaran sekolah agama Islam\n\n23. Tiap-tiap sekolah agama Islam hendaklah didaftarkan di bawah\n\nKaedah-Kaedah ini.\n\nPermohonan bagi pendaftaran\n\n24. (1) Jemaah Pengurusan hendaklah memohon bagi pendaftaran sekolah\n\nagama Islam kepada Jawatankuasa mengikut cara sebagaimana yang boleh ditentukan\n\noleh Jawatankuasa.\n\n(2) Tiap-tiap permohonan bagi pendaftaran hendaklah disertakan dengan—\n\n(a) kelulusan atau dokumen sokongan daripada pihak berkuasa\n\ntempatan bahawa premis sekolah agama Islam itu boleh digunakan\n\nsebagai suatu sekolah;\n\n(b) kelulusan atau dokumen sokongan daripada pihak berkuasa yang\n\nberkenaan bahawa premis sekolah agama Islam itu telah memenuhi\n\npiawaian kesihatan dan keselamatan yang ditetapkan;\n\n(c) butir-butir mengenai anggota Jemaah Pengurusan bagi sekolah\n\nagama Islam itu;\n\n(d) maklumat mengenai sumber kewangan sekolah agama Islam\n\nitu; dan\n\n(e) apa-apa maklumat atau dokumen lain yang difikirkan perlu oleh\n\nJawatankuasa.\n\n(3) Permohonan di bawah subkaedah (1) hendaklah disertakan dengan fi\n\nsebagaimana yang dinyatakan dalam Jadual.\n\n(4) Jawatankuasa hendaklah setelah menerima permohonan, mengarahkan\n\nPendaftar memeriksa premis sekolah agama Islam itu untuk memastikan sama ada\n\natau tidak premis itu mempunyai keperluan dan kemudahan asas yang mencukupi\n\nsebagai suatu sekolah dan Pendaftar hendaklah mengemukakan dapatannya\n\nkepada Jawatankuasa.\n\n(5) Selepas mempertimbangkan permohonan itu, Jawatankuasa boleh—\n\n(a) meluluskan permohonan itu, dengan atau tanpa syarat, dan\n\nmengeluarkan perakuan pendaftaran sekolah agama Islam itu\n\nkepada pemohon mengikut cara sebagaimana yang boleh\n\nditentukan oleh Jawatankuasa selepas fi pendaftaran sebagaimana\n\nyang dinyatakan dalam Jadual dibayar; atau\n\n(b) menolak permohonan itu dan menyatakan alasan penolakan itu\n\nkepada pemohon secara bertulis.\n\n(6) Mana-mana sekolah agama islam yang tidak mematuhi kaedah 23\n\nmelakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi\n\nlima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau\n\nkedua-duanya, dan dalam hal kesalahan yang berterusan, didenda selanjutnya tidak\n\nmelebihi satu ratus ringgit bagi setiap hari selama kesalahan itu berterusan\n\nselepas disabitkan.\n\nDokumen atau maklumat tambahan\n\n25. (1) Pendaftar boleh, selepas menerima suatu permohonan di bawah\n\nsubkaedah 24(2), meminta pemohon untuk memberi Pendaftar, dalam tempoh yang\n\ndinyatakan dalam permintaan itu, apa-apa dokumen atau maklumat tambahan mengenai\n\npermohonan itu.\n\n(2) Jika dokumen atau maklumat tambahan yang dikehendaki di bawah\n\nsubkaedah (1) tidak diberikan oleh pemohon dalam tempoh yang dinyatakan dalam\n\npermintaan atau dalam apa-apa pelanjutan masa yang diberikan oleh Pendaftar,\n\npermohonan itu hendaklah disifatkan telah ditarik balik dan tidak lagi boleh diteruskan,\n\ntetapi tanpa menjejaskan hak pemohon itu untuk membuat suatu permohonan baharu.\n\nTempoh kesahan perakuan pendaftaran\n\n26. Perakuan pendaftaran adalah sah bagi tempoh lima tahun dari tarikh perakuan\n\npendaftaran itu dikeluarkan melainkan jika pendaftaran sekolah agama Islam itu\n\ndibatalkan di bawah kaedah 34 atau pentadbiran sekolah agama Islam diambil alih oleh\n\nMajlis di bawah kaedah 44.\n\nPembaharuan perakuan pendaftaran\n\n27. (1) Jemaah Pengurusan boleh memohon untuk membaharui perakuan\n\npendaftaran tidak kurang daripada tiga bulan sebelum habis tempohnya mengikut cara\n\nsebagaimana yang boleh ditentukan oleh Jawatankuasa.\n\n(2) Permohonan di bawah subkaedah (1) adalah tertakluk kepada\n\napa-apa bayaran fi yang dinyatakan dalam Jadual dan hendaklah disertakan dengan\n\ndokumen dan maklumat sebagaimana yang boleh dikehendaki oleh Jawatankuasa.\n\n(3) Selepas mempertimbangkan permohanan itu, Jawatankuasa boleh—\n\n(a) membaharui pendaftaran, dengan atau tanpa syarat, selepas fi\n\npembaharuan sebagaimana yang dinyatakan dalam Jadual dibayar;\n\natau\n\n(b) menolak untuk membaharui pendaftaran dan menyatakan alasan\n\npenolakan itu kepada pemohon secara bertulis.\n\n(4) Jika permohonan bagi pembaharuan itu dibuat selepas tempoh yang\n\ndinyatakan dalam subkaedah (1) tetapi sebelum tarikh habis tempoh perakuan,\n\npemohon hendaklah membayar fi bagi pembaharuan lewat sebagaimana yang\n\ndinyatakan dalam Jadual.\n\nPempameran perakuan pendaftaran\n\n28. (1) Jemaah Pengurusan hendaklah mempamerkan atau menyebabkan\n\ndipamerkan perakuan pendaftaran di tempat yang mudah dilihat di premis sekolah\n\nagama Islam dan hendaklah mengemukakan perakuan pendaftaran itu apabila diminta\n\nbagi pemeriksaan.\n\n(2) Mana-mana anggota Jemaah Pengurusan yang melanggar subkaedah (1)\n\nmelakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi\n\nsatu ribu ringgit atau dipenjarakan selama tempoh tidak melebihi enam bulan atau\n\nkedua-duanya, dan dalam hal kesalahan kedua atau yang berterusan, didenda tidak\n\nmelebihi dua ribu ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun\n\natau kedua-duanya.\n\nPenggantian perakuan pendaftaran\n\n29. Jika perakuan pendaftaran hilang atau rosak, Jemaah Pengurusan hendaklah\n\nmemohon kepada Pendaftar bagi suatu penggantian perakuan pendaftaran dan\n\npermohonan itu hendaklah disertakan dengan fi sebagaimana yang dinyatakan\n\ndalam Jadual.\n\nPendaftaran berasingan bagi setiap peringkat sekolah\n\n30. Setiap peringkat persekolahan bagi mana-mana sekolah agama Islam yang\n\ndijalankan di premis yang sama hendaklah didaftarkan secara berasingan.\n\nCawangan sekolah agama Islam\n\n31. Tiap-tiap cawangan sekolah agama Islam hendaklah didaftarkan\n\nsecara berasingan.\n\nPenukaran nama, dsb.\n\n32. (1) Nama, alamat, lokasi dan premis suatu sekolah agama Islam itu tidak boleh\n\nditukar, dipinda atau diubah suai tanpa kebenaran bertulis Pendaftar.\n\n(2) Suatu permohonan untuk menukar, meminda atau mengubah suai nama,\n\nalamat, lokasi atau premis sekolah agama Islam itu hendaklah dibuat oleh\n\nJemaah Pengurusan kepada Pendaftar mengikut cara yang ditentukan oleh Pendaftar.\n\n(3) Jika permohonan di bawah subkaedah (2) diluluskan, Pendaftar hendaklah\n\nmengeluarkan suatu perakuan pendaftaran yang baharu setelah fi sebagaimana yang\n\ndinyatakan dalam Jadual dibayar.\n\n(4) Mana-mana anggota Jemaah Pengurusan yang tidak mematuhi\n\nsubkaedah (1) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak\n\nmelebihi dua ribu ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun\n\natau kedua-duanya.\n\nPengiklanan sekolah agama Islam\n\n33. (1) Tiada seorang pun boleh mengiklankan suatu sekolah agama Islam\n\nmelainkan jika ia telah didaftarkan di bawah Kaedah-Kaedah ini.\n\n(2) Mana-mana orang yang melanggar subkaedah (1) melakukan suatu\n\nkesalahan dan boleh, apabila disabitkan, didenda tidak melebihi dua ribu ringgit atau\n\ndipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya, dan dalam\n\nhal kesalahan kedua atau yang berterusan, didenda tidak melebihi empat ribu ringgit\n\natau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya.\n\nPembatalan pendaftaran\n\n34. (1) Jawatankuasa boleh membatalkan pendaftaran suatu sekolah agama Islam\n\njika Jawatankuasa berpuas hati bahawa Jemaah Pengurusan—\n\n(a) telah gagal melaksanakan mana-mana tanggungjawabnya\n\ndi bawah Kaedah-Kaedah ini;\n\n(b) telah disabitkan dengan apa-apa kesalahan jenayah oleh\n\nmana-mana mahkamah;\n\n(c) telah melanggar mana-mana syarat yang dikenakan dalam\n\nperakuan pendaftaran; atau\n\n(d) telah gagal mematuhi mana-mana arahan Pendaftar, Jawatankuasa\n\natau Majlis.\n\n(2) Walau apa pun perenggan (1)(a), (c) dan (d), Jawatankuasa hendaklah,\n\nsebelum membatalkan sesuatu pendaftaran, memberi suatu notis secara bertulis kepada\n\nJemaah Pengurusan tentang hasratnya untuk berbuat demikian dan menghendaki\n\nJemaah Pengurusan itu melaksanakan tanggungjawabnya atau membetulkan\n\npelanggaran itu atau mematuhi apa-apa arahan itu dalam tempoh yang dinyatakan\n\ndalam notis itu atau dalam apa-apa tempoh lanjutan sebagaimana yang diberikan\n\noleh Jawatankuasa.\n\n(3) Jika selepas tamat tempoh yang disebut dalam subkaedah (2)\n\nJemaah Pengurusan tidak melaksanakan tanggungjawab itu atau membetulkan\n\npelanggaran itu atau mematuhi arahan itu, Jawatankuasa boleh membatalkan\n\npendaftaran sekolah agama Islam itu melalui suatu notis bertulis yang dialamatkan dan\n\ndisampaikan kepada Pengerusi Jemaah Pengurusan.\n\n(4) Jawatankuasa boleh membatalkan pendaftaran suatu sekolah agama Islam\n\njika ia mempunyai sebab untuk mempercayai bahawa sekolah agama Islam itu telah\n\nterhenti daripada beroperasi.\n\n(5) Notis pembatalan pendaftaran yang disebut dalam subkaedah (3)\n\nhendaklah—\n\n(a) menyatakan alasan dan tarikh kuat kuasa pembatalan itu; dan\n\n(b) mengandungi segala arahan yang difikirkan perlu oleh Pendaftar.\n\n(6) Pengerusi Jemaah Pengurusan hendaklah menyerahkan perakuan\n\npendaftaran itu kepada Pendaftar dalam masa tiga puluh hari dari tarikh\n\npembatalan pendaftarannya.\n\n(7) Pengerusi Jemaah Pengurusan yang tidak menyerahkan perakuan\n\npendaftaran di bawah subkaedah (6) melakukan suatu kesalahan dan boleh, apabila\n\ndisabitkan, didenda tidak melebihi dua ribu ringgit atau dipenjarakan selama tempoh\n\ntidak melebihi satu tahun atau kedua-duanya.\n\nRayuan\n\n35. (1) Jemaah Pengurusan yang terkilan dengan apa-apa keputusan\n\nJawatankuasa yang dibuat di bawah perenggan 24(5)(b) atau kaedah 34 boleh,\n\ndalam masa tiga puluh hari dari tarikh keputusan itu diterima, merayu secara bertulis\n\nterhadap keputusan itu kepada Majlis.\n\n(2) Majlis boleh, setelah menimbangkan suatu rayuan yang dibuat di bawah\n\nsubkaedah (1), mengesahkan atau mengetepikan keputusan Jawatankuasa dan\n\nkeputusan Majlis adalah muktamad.\n\n(3) Jemaah Pengurusan boleh, menurut peruntukan Kaedah-Kaedah ini,\n\nmemohon untuk mendaftarkan semula sekolah agama Islam yang telah dibatalkan\n\nperakuan pendaftarannya.\n\nBAHAGIAN VI\n\nKEWANGAN\n\nAkaun kewangan sekolah agama Islam\n\n36. (1) Bagi maksud Kaedah-Kaedah ini, tiap-tiap Jemaah Pengurusan hendaklah\n\nmembuka suatu akaun kewangan yang dinamakan sebagai akaun kewangan sekolah\n\nagama Islam di mana-mana bank Islam berlesen.\n\n(2) Bagi maksud subkaedah (1), \"bank Islam berlesen\" mempunyai erti\n\nyang diberikan kepadanya di bawah seksyen 2 Akta Perkhidmatan\n\nKewangan Islam 2013 [Akta 759].\n\nGaris panduan kewangan\n\n37. Setiap kelulusan untuk memperoleh apa-apa pembekalan atau perbelanjaan\n\nhendaklah dibuat mengikut garis panduan kewangan atau apa-apa peraturan-peraturan\n\nyang dikeluarkan oleh Majlis dari semasa ke semasa.\n\nAudit\n\n38. Pengerusi Jemaah Pengurusan hendaklah mengemukakan kepada Majlis akaun\n\nkewangan sekolah agama Islam yang telah diaudit jika diminta untuk berbuat demikian\n\noleh Majlis.\n\nBAHAGIAN VII\n\nPENGUATKUASAAN\n\nNotis pemberhentian operasi\n\n39. (1) Mana-mana sekolah agama Islam yang tidak berdaftar atau\n\npendaftarannya telah dibatalkan di bawah Kaedah-Kaedah ini hendaklah ditamatkan\n\ndaripada beroperasi.\n\n(2) Sebelum menamatkan operasi sekolah agama Islam,\n\nJawatankuasa hendaklah—\n\n(a) mengeluarkan suatu notis secara bertulis kepada Jemaah\n\nPengurusan atau mana-mana orang yang mengoperasikan sekolah\n\nagama Islam itu untuk memberitahu niatnya untuk berbuat\n\ndemikian; dan\n\n(b) menghendaki Jemaah Pengurusan atau mana-mana orang yang\n\nmengoperasikan sekolah agama Islam itu untuk mendaftarkan\n\nsekolah agama Islam itu dalam tempoh yang dinyatakan dalam notis\n\nbertulis itu atau dalam apa-apa tempoh lanjutan yang diberikan\n\noleh Jawatankuasa.\n\n(3) Selepas habis tempoh yang disebut dalam subkaedah (2)\n\nJemaah Pengurusan atau orang itu gagal untuk mendaftar, sekolah agama Islam itu boleh\n\nditamatkan operasinya melalui suatu notis bertulis oleh Jawatankuasa yang dialamatkan\n\ndan disampaikan masing-masing kepada Pengerusi Jemaah Pengurusan atau orang itu.\n\n(4) Notis untuk menamatkan operasi yang disebut dalam subkaedah (3)\n\nhendaklah—\n\n(a) menyatakan alasan dan tarikh kuat kuasa penamatan itu; dan\n\n(b) mengandungi segala arahan yang difikirkan perlu oleh Pendaftar.\n\n(5) Jemaah Pengurusan atau orang itu boleh, menurut peruntukan\n\nKaedah-Kaedah ini, memohon untuk mendaftarkan semula sekolah agama Islam yang\n\noperasinya telah ditamatkan.\n\nBAHAGIAN VIII\n\nPELBAGAI\n\nLaporan\n\n40. Tiap-tiap sekolah agama Islam hendaklah, tidak lewat daripada 31 Januari\n\ntiap-tiap tahun, membuat dan mengemukakan kepada Pendaftar suatu laporan aktiviti\n\ndan laporan kewangan sekolah agama Islam bagi tahun sebelumnya.\n\nKurikulum dan kokurikulum sekolah agama Islam\n\n41. Semua sekolah agama Islam hendaklah menggunakan kurikulum dan\n\nkokurikulum yang disediakan oleh Jawatankuasa dan diluluskan oleh Majlis.\n\nPenilaian\n\n42. Sekolah agama Islam hendaklah mengadakan penilaian bagi murid-muridnya\n\nmengikut apa-apa kaedah yang diluluskan oleh Majlis.\n\nKuasa Majlis untuk mengeluarkan arahan\n\n43. Majlis boleh mengeluarkan apa-apa arahan kepada Jawatankuasa, Jemaah\n\nPengurusan, Pendaftar atau Nazir Sekolah berhubung dengan apa-apa perkara yang\n\ndiperuntukkan di bawah Kaedah-Kaedah ini dan Jawatankuasa, Jemaah Pengurusan,\n\nPendaftar atau Nazir Sekolah hendaklah melaksanakan tiap-tiap arahan itu.\n\nPengambilalihan pentadbiran sekolah agama Islam\n\n44. (1) Jawatankuasa atas arahan Majlis boleh, jika difikirkan perlu olehnya dan\n\nsuai manfaat demi kepentingan murid atau sesuatu sekolah agama Islam itu, mengambil\n\nalih secara sementara pentadbiran sekolah agama Islam itu selama tempoh yang boleh\n\nsampai enam bulan.\n\n(2) Selepas habis tempoh yang disebut dalam subkaedah (1), Majlis boleh—\n\n(a) mengambil alih pentadbiran sekolah agama Islam itu;\n\n(b) menamatkan operasi sekolah agama Islam itu; atau\n\n(c) mengambil apa-apa tindakan yang difikirkan perlu olehnya.\n\nBAHAGIAN IX\n\nPERALIHAN\n\nPeralihan\n\n45. (1) Mana-mana orang yang mengendalikan suatu sekolah agama Islam sebaik\n\nsebelum tarikh permulaan kuat kuasa Kaedah-Kaedah ini hendaklah mendaftarkan\n\nsekolah agama Islam itu mengikut kaedah 23 Bahagian V Kaedah-Kaedah ini dalam masa\n\ndua belas bulan dari tarikh permulaan kuat kuasa Kaedah-Kaedah ini atau dalam apa-apa\n\ntempoh lanjutan yang dibenarkan oleh Jawatankuasa.\n\n(2) Jika Jawatankuasa tidak meluluskan permohonan yang disebut dalam\n\nsubkaedah (1), orang yang mengendalikan suatu sekolah agama Islam itu hendaklah\n\nmenamatkan operasi sekolah agama Islam itu.\n\nJADUAL\n\n[Subkaedah 24(3), perenggan 24(5)(a), subkaedah 27(2), perenggan 27(3)(a),\n\nsubkaedah 27(4), kaedah 29 dan subkaedah 32(3)]\n\nFI\n\n(1)\n\nBil.\n\n(2)\n\nPerkara\n\n(3)\n\nFi\n\n(RM)\n\n1. Permohonan bagi pendaftaran 50.00\n\n2. Pengeluaran perakuan pendaftaran\n\n(a) Prasekolah agama Islam\n\n(b) Sekolah rendah agama Islam\n\n(c) Sekolah menengah agama Islam\n\n400.00\n\n500.00\n\n600.00\n\n3. Permohonan pembaharuan perakuan pendaftaran 50.00\n\n4. Pengeluaran perakuan pendaftaran baharu\n\n(a) Prasekolah agama Islam\n\n(b) Sekolah rendah agama Islam\n\n(c) Sekolah menengah agama Islam\n\n200.00\n\n250.00\n\n300.00\n\n5. Pembaharuan lewat\n\n(a) Prasekolah agama Islam\n\n(b) Sekolah rendah agama Islam\n\n(c) Sekolah menengah agama Islam\n\n300.00\n\n400.00\n\n500.00\n\n6. Permohonan untuk menggantikan perakuan pendaftaran 100.00\n\n(1)\n\nBil.\n\n(2)\n\nPerkara\n\n(3)\n\nFi\n\n(RM)\n\n7. Permohonan untuk menukar, meminda atau mengubah\n\nsuai nama, alamat, lokasi dan premis sekolah agama Islam\n\n200.00\n\nDibuat 29 Mei 2025\n\n[JAKIM. (S).BUU.600-1/2/1(2); PN(PU2)530/JLD.18]\n\nDengan Titah Perintah\n\nTAN SRI SHAMSUL AZRI BIN ABU BAKAR\n\nSetiausaha Jemaah Menteri\n\nADMINISTRATION OF ISLAMIC LAW (FEDERAL TERRITORIES) ACT 1993\n\nADMINISTRATION OF ISLAMIC LAW (FEDERAL TERRITORIES)\n\n(REGISTRATION AND REGULATION OF ISLAMIC RELIGIOUS SCHOOL) RULES 2025\n\nARRANGEMENT OF RULES\n\nPART I\n\nPRELIMINARY\n\nRule\n\n1. Citation, application and commencement\n\n2. Interpretation\n\nPART II\n\nISLAMIC RELIGIOUS SCHOOL COMMITTEE\n\n3. Establishment of Committee\n\n4. Functions of Committee\n\n5. Membership of Committee\n\n6. Secretary\n\n7. Revocation and resignation of office\n\n8. Vacation of office\n\n9. Meetings of Committee\n\n10. Allowances\n\nPART III\n\nCHIEF REGISTRAR, REGISTRAR, ASSISTANT REGISTRAR AND INSPECTOR OF SCHOOLS\n\n11. Appointment of Chief Registrar, Registrar and Assistant Registrar\n\n12. Responsibilities of Registrar\n\n13. Register of Islamic Religious School\n\n14. Appointment of Inspector of Schools\n\n Rule\n\n15. Responsibilities of Inspector of Schools\n\n16. Power to inspect\n\n17. Inspection of registered Islamic religious school\n\n18. Inspection of unregistered Islamic religious school\n\nPART IV\n\nESTABLISHMENT OF BOARD OF MANAGEMENT\n\n19. Board of Management\n\n20. Members of Board of Management\n\n21. Qualifications of members of Board of Management\n\n22. Responsibilities of Board of Management\n\nPART V\n\nREGISTRATION OF ISLAMIC RELIGIOUS SCHOOL\n\n23. Registration of Islamic religious school\n\n24. Application for registration\n\n25. Additional document or information\n\n26. Validity period of certificate of registration\n\n27. Renewal of certificate of registration\n\n28. Display of certificate of registration\n\n29. Replacement of certificate of registration\n\n30. Separate registration for each level of school\n\n31. Branch of Islamic religious school\n\n32. Change of name, etc.\n\n33. Advertisement of Islamic religious school\n\n34. Revocation of registration\n\n35. Appeal\n\nPART VI\n\nFINANCIAL\n\n Rule\n\n36. Financial account of Islamic religious school\n\n37. Financial guidelines\n\n38. Audit\n\nPART VII\n\nENFORCEMENT\n\n39. Notice of cessation of operation\n\nPART VIII\n\nMISCELLANEOUS\n\n40. Report\n\n41. Curriculum and co-curriculum of Islamic religious school\n\n42. Assessment\n\n43. Power of Majlis to issue directions\n\n44. Take over of administration of Islamic religious school\n\nPART IX\n\nTRANSITIONAL\n\n45. Transitional\n\nSCHEDULE\n\nADMINISTRATION OF ISLAMIC LAW (FEDERAL TERRITORIES) ACT 1993\n\nADMINISTRATION OF ISLAMIC LAW (FEDERAL TERRITORIES)\n\n(REGISTRATION AND REGULATION OF ISLAMIC RELIGIOUS SCHOOL) RULES 2025\n\nIN exercise of the powers conferred by section 99 of the\n\nAdministration of Islamic Law (Federal Territories) Act 1993 [Act 505],\n\nthe Yang di-Pertuan Agong, on the advice of the Majlis, makes the following rules:\n\nPART I\n\nPRELIMINARY\n\nCitation, application and commencement\n\n1. (1) These rules may be cited as the Administration of Islamic Law\n\n(Federal Territories) (Registration and Regulation of Islamic Religious School)\n\nRules 2025.\n\n(2) These Rules shall apply to the Federal Territories of Kuala Lumpur, Labuan\n\nand Putrajaya.\n\n(3) These Rules come into operation on 1 June 2025.\n\nInterpretation\n\n2. In these Rules, unless the context otherwise requires—\n\n\"Board of Management\" means the Board of Management of an Islamic Religious\n\nSchool established under subrule 19(2);\n\n\"Committee\" means the Islamic Religious School Committee established\n\nunder rule 3;\n\n\"Inspector of Schools\" means the inspector of schools of Islamic religious school\n\nappointed under subrule 14(1);\n\n\"Registrar\" means the Chief Registrar of the Islamic religious school and\n\nincludes the Registrar and Assistant Registrar of Islamic religious school appointed\n\nunder rule 11.\n\n\"Chairman\" means the Chairman of the Islamic Religious School Committee\n\nappointed under paragraph 5(1)(a);\n\n\"Islamic religious pre-school\" means an Islamic religious school providing\n\nIslamic religious pre-school educational program for pupils from the ages of four\n\nto six years;\n\n\"certificate of registration\" means the certificate of registration for\n\nIslamic religious school issued under paragraph 24(5)(a);\n\n\"Islamic religious school\" means any places used for carrying out an activity\n\nof teaching and learning of the religion of Islam having at least ten pupils at the level\n\nof Islamic religious pre-school, primary school or secondary school established\n\nby any person, the Majlis or the Islamic Religious Department of the Federal Territories\n\nwhich includes the institution of pondok, tahfiz al-Quran, religious studies or hadith\n\nstudies but does not include any educational institution referred to in\n\nparagraphs 16(a) and (b) of the Education Act 1996 [Act 550];\n\n\"Islamic religious secondary school\" means an Islamic religious school providing\n\nIslamic religious secondary education appropriate for a pupil who has just completed\n\nIslamic religious primary education program or primary education under\n\nthe Education Act 1996;\n\n\"Islamic religious primary school\" means an Islamic religious school providing\n\nIslamic religious primary education program for pupils from the age of six years;\n\n\"instrument of management\" means an instrument of management of\n\nthe Islamic religious school as specified under subrule 19(1).\n\nPART II\n\nISLAMIC RELIGIOUS SCHOOL COMMITTEE\n\nEstablishment of Committee\n\n3. The Majlis shall establish a committee to be known as the \"Islamic Religious\n\nSchool Committee\".\n\nFunctions of Committee\n\n4. (1) The functions of the Committee are as follows:\n\n(a) to consider, approve or refuse an application for the registration\n\nof an Islamic religious school;\n\n(b) to formulate, develop, evaluate and amend the curriculum and\n\nco-curriculum of the Islamic religious school consistent with the\n\nresolution of the Majlis;\n\n(c) to report on the affairs of Islamic religious school to the Majlis at\n\nleast once in six months;\n\n(d) to report any action taken against an Islamic religious school to the\n\nMajlis pertaining to the registration and revocation of registration\n\nof the Islamic religious school;\n\n(e) to add, amend or revoke any condition imposed in the certificate\n\nof registration;\n\n(f) to revoke the registration of any Islamic religious school in\n\naccordance with rule 34 or by the application of\n\nthe Board of Management; and\n\n(g) to do all things necessary or expedient for or in connection with the\n\nperformance of its functions under these Rules.\n\n(2) Notwithstanding paragraph (1)(b), the Committee may seek advice from\n\nthe Jawatankuasa Penyelarasan Pendidikan Islam Kebangsaan established by the\n\nMajlis Kebangsaan Bagi Hal Ehwal Agama Islam Malaysia on any matters relating\n\nto Islamic religious school including curriculum and co-curriculum, text books,\n\nexaminations, certifications and training of teachers.\n\nMembership of Committee\n\n5. (1) The Committee shall consist of—\n\n(a) a Chairman to be appointed by the Majlis from among its members;\n\n(b) the Director of the Islamic Religious Department of the\n\nFederal Territories as a Deputy Chairman;\n\n(c) the Mufti or his representative;\n\n(d) an officer of the Majlis nominated by the Majlis;\n\n(e) an officer of the Islamic Religious Department of\n\nthe Federal Territories nominated by the Director of\n\nthe Islamic Religious Department of the Federal Territories;\n\n(f) an officer of the Department of Islamic Development Malaysia\n\nnominated by the Director General of the Department of\n\nIslamic Development Malaysia;\n\n(g) an officer of the Education Department of the Federal Territories;\n\nand\n\n(h) three other members who have the relevant experience,\n\nknowledge and expertise from among Muslims who shall be\n\nappointed by the Majlis.\n\n(2) A member appointed under paragraphs (1)(a) and (h) shall be appointed\n\nfor a term not exceeding three years and shall be eligible for reappointment.\n\nSecretary\n\n6. (1) The Majlis may appoint a senior Islamic affairs officer at the\n\nIslamic Religious Department of the Federal Territories as a Secretary to the Committee.\n\n(2) The Secretary shall be responsible for carrying out of the policies,\n\ndirections and decisions of the Committee.\n\n(3) The Secretary shall be entitled to attend all meetings of the Committee\n\nand to participate in its deliberations but shall not be entitled to vote.\n\nRevocation and resignation of office\n\n7. (1) The Majlis may, in writing, revoke the appointment of any member of\n\nthe Committee appointed under paragraphs 5(1)(a) and (h).\n\n(2) The member of the Committee appointed under paragraphs 5(1)(a) and (h)\n\nmay resign by a notice in writing to the Chairman of the Majlis.\n\nVacation of office\n\n8. (1) A member of the Committee appointed under paragraphs 5(1)(a) and (h)\n\nshall be deemed to have vacated his office if—\n\n(a) he dies;\n\n(b) he has been convicted of any criminal offences;\n\n(c) he becomes an undischarged bankrupt; or\n\n(d) he is of unsound mind or is otherwise incapable of discharging\n\nhis duties.\n\n(2) Where a member appointed under paragraphs 5(1)(a) and (h) cease to be\n\na member of the Committee by a reason of any provision in these Rules, the Majlis may\n\nappoint another person to fill the vacancy for the remaining term for which the\n\nvacating member.\n\nMeetings of Committee\n\n9. (1) All meetings of the Committee shall be summoned by the Secretary on the\n\ndirection of the Chairman by serving a written notice to the members of the Committee\n\nat least seven days before the meeting.\n\n(2) Notwithstanding subrule (1), the Chairman may, if he considers that there\n\nis an urgent need, summon a meeting at a shorter notice.\n\n(3) The Chairman, or in his absence, the Deputy Chairman shall preside over\n\nall the meetings of the Committee.\n\n(4) The Committee shall convene its meetings at least once in every\n\nsix months.\n\n(5) The chairman of the meeting and four other members of the Committee\n\npresent shall form a quorum at any meeting of the Committee.\n\n(6) All decisions of the meeting of the Committee shall be made by a consensus\n\nor by a resolution of the majority of the members present and entitled to vote and if there\n\nis an equality of votes, the Chairman or the Deputy Chairmain presiding over the meeting\n\nshall have a casting vote.\n\n(7) Notwithstanding subrule (4), the Chairman may, direct the Secretary to\n\nsummon a meeting.\n\n(8) The Chairman may invite any person who is not a member of the\n\nCommittee to attend any meeting or deliberation of the Committee for the purpose of\n\nadvising the Committee on any matter under discussion but that person shall not be\n\nentitled to vote at the meeting.\n\nAllowances\n\n10. The members of the Committee may be paid such allowances as may be\n\ndetermined by the Majlis.\n\nPART III\n\nCHIEF REGISTRAR, REGISTRAR, ASSISTANT REGISTRAR AND INSPECTOR OF SCHOOLS\n\nAppointment of Chief Registrar, Registrar and Assistant Registrar\n\n11. (1) The Secretary appointed under subrule 6(1) shall be the Chief Registrar.\n\n(2) The Majlis may appoint such numbers of Registrars and\n\nAssistant Registrars from amongst persons serving in the Islamic Affairs service or\n\neducation service at the Islamic Religious Department of the Federal Territories on such\n\nterms and conditions as may be determined by the Majlis.\n\n(3) Subject to the direction and control of the Chief Registrar and to such\n\nconditions or restrictions as may be imposed by the Chief Registrar, a Registrar or\n\nan Assistant Registrar may exercise any power of the Chief Registrar under these Rules.\n\nResponsibilities of Registrar\n\n12. (1) The Registrar shall be responsible for the following matters:\n\n(a) to register an Islamic religious school if the application for its\n\nregistration has been approved under rule 24;\n\n(b) to ensure that all Islamic religious schools in the Federal Territories\n\nare properly administered;\n\n(c) to regulate and monitor the Board of Management;\n\n(d) to recommend any appropriate action that may be taken against\n\nany Islamic religious school for contravening these Rules to\n\nthe Committee;\n\n(e) to submit a written report pertaining to the Islamic religious school\n\naffairs in the Federal Territories to the Committee at least once in\n\nevery six months;\n\n(f) to advice or recommend any action that may be taken by\n\nthe Islamic religious school based on the report submitted by\n\nthe Inspector of Schools; and\n\n(g) to perform such duties as directed by the Committee\n\nfrom time to time.\n\n(2) The Registrar shall act under the direction and control of the Committee.\n\nRegister of Islamic Religious School\n\n13. (1) The Registrar shall keep and maintain a Register of Islamic\n\nReligious School.\n\n(2) For the purposes of subrule (1), a Register of Islamic Religious School\n\nshall contain—\n\n(a) the name, telephone number, type of school, date of registration and\n\naddress of the Islamic religious schools;\n\n(b) the particulars of members of the Board of Management of the\n\nIslamic religious schools;\n\n(c) the particulars of teachers of the Islamic religious schools;\n\n(d) the curriculum of the Islamic religious schools, if necessary;\n\n(e) the validity period of certificate of registration of the Islamic\n\nreligious schools;\n\n(f) the financial resources of the Islamic religious schools; and\n\n(g) any other informations as the Registrar deems necessary to\n\nbe recorded.\n\nAppointment of Inspector of Schools\n\n14. (1) The Majlis may, on the recommendation of the Committee, appoint such\n\nnumber of Inspector of Schools as may be necessary from amongst persons serving in—\n\n(a) the Islamic Affairs service; and\n\n(b) the education service,\n\nat the Islamic Religious Department of the Federal Territories.\n\n(2) An Inspector of Schools appointed under subrule (1) shall be subject to the\n\ndirection and control of the Registrar.\n\nResponsibilities of Inspector of Schools\n\n15. An Inspector of Schools shall be responsible as follows:\n\n(a) to inspect Islamic religious schools in relation to the use of the curriculum\n\napproved by the Majlis, the quality of teaching and learning, the use of text\n\nbooks, the teachers and the compliance of these Rules or any matters as\n\ndirected by the Registrar;\n\n(b) to inspect the financial account of Islamic religious school; and\n\n(c) to submit the inspection report of Islamic religious school including to\n\nrecommend any appropriate action that may be taken against the school to\n\nthe Registrar within twenty-one working days after the inspection.\n\nPower to inspect\n\n16. The Registrar, Inspector of Schools or any person authorized by the Majlis may\n\ninspect any Islamic religious school whether registered or unregistered under\n\nthese Rules.\n\nInspection of registered Islamic religious school\n\n17. (1) The Registrar, Inspector of Schools or any person authorized by the Majlis\n\nin carrying an inspection under paragraph 15(a) and rule 16, may enter any part of the\n\npremises and examine any book, document, electronic media material or other articles as\n\nhe deems necessary.\n\n(2) The Registrar, Inspector of Schools or any person authorized by the Majlis,\n\nin carrying inspection under subrule (1), may be accompanied by any other person he\n\nconsiders necessary.\n\n(3) Any person who is in the possession or control of any book, document,\n\nelectronic media material or other articles relating to the management of or the teaching\n\ncarried out in the Islamic religious school shall produce the book, document,\n\nelectronic media material or other articles for inspection upon request by the Registrar,\n\nInspector of Schools or any person authorized by the Majlis.\n\n(4) Notwithstanding subrule (3), the Registrar may seize, remove or detain\n\nany book, document, electronic media material or other articles which in his opinion\n\nis detrimental to the interest of the public or the pupils or may become evidence of\n\nthe commission of an offence under these Rules or the Syariah Criminal Offences\n\n(Federal Territories) Act 1997 [Act 559].\n\nInspection of unregistered Islamic religious school\n\n18. (1) Where the Registrar or a Religious Enforcement Officers has reasonable\n\ncause to believe that any premises is being used as an Islamic religious school without\n\nbeing registered under these Rules, the Registrar or the Religious Enforcement Officers\n\nmay enter and inspect the premises.\n\n(2) The Registrar or a Religious Enforcement Officers, in carrying inspection\n\nunder subrule (1), may be accompanied by any other person he considers necessary.\n\n(3) The Registrar or a Religious Enforcement Officers may seize and detain any\n\nbook, document, electronic media material or other article found in the premises which\n\nappears to him may be used as evidence of the commission of an offence against\n\nthese Rules or which appears to be the property of, or to have been used in connection\n\nwith, an Islamic religious school which is not registered under these Rules.\n\nPART IV\n\nESTABLISHMENT OF BOARD OF MANAGEMENT\n\nBoard of Management\n\n19. (1) Every Islamic religious school shall have an instrument of management as\n\nmay be determined by the Committee.\n\n(2) Every instrument of management shall provide for the establishment of a\n\nBoard of Management of an Islamic religious school who shall be responsible for the\n\nmanagement of the Islamic religious school.\n\n(3) The Committee may, on the application in writing by\n\nthe Board of Management, amend the instrument of management.\n\n(4) This rule shall not apply to the Islamic religious school established by\n\nthe Majlis or Islamic Religious Department of the Federal Territories.\n\nMembers of Board of Management\n\n20. Every Board of Management shall consist of at least five persons and not\n\nexceeding eleven persons who shall hold such offices as may be necessary for such\n\nIslamic religious school.\n\nQualifications of members of Board of Management\n\n21. (1) A person may become a member of the Board of Management if he—\n\n(a) is a Muslim;\n\n(b) is a citizen of Malaysia;\n\n(c) is not less than twenty-one years old;\n\n(d) is not an undischarged bankrupt;\n\n(e) has not been convicted of and sentenced on any criminal offence by\n\nany court; and\n\n(f) has appropriate knowledge in academics or Islamic studies.\n\n(2) Notwithstanding paragraph (1)(b), the Committee may allow a non-citizen\n\nof Malaysia to be appointed as a member of the Board of Management if it is satisfied that\n\nthere are special conditions and it is not inconsistent with the public interest or any law\n\nfor the time being in force to do so.\n\nResponsibilities of Board of Management\n\n22. (1) The Board of Management shall be responsible for the management,\n\nadministration and financial of the Islamic religious school.\n\n(2) The Board of Management shall—\n\n(a) administer and maintain the Islamic religious school in accordance\n\nwith its instrument of management;\n\n(b) comply with any direction of the Registrar; and\n\n(c) maintain proper records on—\n\n(i) the particulars of teachers and officers of\n\nthe Islamic religious school;\n\n(ii) the particulars of pupils of the Islamic religious school;\n\n(iii) the financial resources and expenditures of\n\nthe Islamic religious school;\n\n(iv) the curriculum and co-curriculum of the Islamic religious\n\nschool;\n\n(v) the education fees of the Islamic religious school; and\n\n(vi) any other information as may be required by the Registrar.\n\n(3) The Board of Management may appoint such number of teachers and\n\nofficers as may be necessary for the purposes of this rule.\n\n(4) Notwithstanding subrule (3), the appointment of teachers and officers for\n\nthe Islamic religious school established by the Majlis or the Islamic Religious Department\n\nof the Federal Territories shall be made by the Majlis or the Islamic Religious Department\n\nof the Federal Territories, respectively.\n\nPART V\n\nREGISTRATION OF ISLAMIC RELIGIOUS SCHOOL\n\nRegistration of Islamic religious school\n\n23. Every Islamic religious school shall be registered under these Rules.\n\nApplication for registration\n\n24. (1) The Board of Management shall apply for a registration of an Islamic\n\nreligious school to the Committee in the manner as may be determined by the Committee.\n\n(2) Every application for registration shall be accompanied by—\n\n(a) approval or supporting document by the local authority that the\n\npremise of the Islamic religious school may be used as a school;\n\n(b) approval or supporting document by the appropriate authority\n\nthat the premise has fulfilled the health and safety standards as\n\nprescribed;\n\n(c) particulars of the members of the Board of Management for the\n\nIslamic religious school;\n\n(d) information of the financial sources of the Islamic religious school;\n\nand\n\n(e) any other information or document as the Committee deems\n\nnecessary.\n\n(3) An application under subrule (1) shall be accompanied by such fee\n\nas specified in the Schedule.\n\n(4) Committee shall upon receiving the application, direct the Registrar\n\nto inspect the premise of the Islamic religious school to ensure whether or not such\n\npremise has sufficient basic needs and facilities as a school and the Registrar shall\n\nforward its finding to the Committee.\n\n(5) After considering the application, the Committee may—\n\n(a) approve the application, with or without condition, and issue\n\na certificate of registration of the Islamic religious school to\n\nthe applicantin the manner as may be determined by the Committee\n\nafter the registration fee as specified in the Schedule is paid; or\n\n(b) refuse the application and state the ground of such refusal in writing\n\nto the applicant.\n\n(6) Any Islamic religious school who does not comply with rule 23 commits\n\nan offence and shall, on conviction, be liable to a fine not exceeding five thousand ringgit\n\nor to imprisonment for a term not exceeding three years or to both, and in the case\n\nof a continuing offence, to a further fine not exceeding one hundred ringgit for each day\n\nduring which the offence continues after conviction.\n\nAdditional document or information\n\n25. (1) The Registrar may, after the receipt of an application under subrule 24(2),\n\nrequest the applicant to give to the Registrar, within the period specified in the request,\n\nany additional document or information on the application.\n\n(2) Where the additional document or information required under\n\nsubrule (1) is not given by the applicant within the period specified in the request or\n\nwithin any extension of time granted by the Registrar, the application shall be deemed to\n\nbe withdrawn and shall not be further proceeded with, but without affecting the right of\n\nthe applicant to make a fresh application.\n\nValidity period of certificate of registration\n\n26. A certificate of registration shall be valid for a period of five years from the date it\n\nis issued unless the registration of Islamic religious school is revoked under rule 34\n\nor the administration of the Islamic religious school is taken over by the Majlis under\n\nrule 44.\n\nRenewal of certificate of registration\n\n27. (1) The Board of Management may apply to renew the certificate of\n\nregistration not less than three months before its expiry in the manner as may be\n\ndetermined by the Committee.\n\n(2) An application under subrule (1) shall be subject to the payment of fee\n\nas specified in the Schedule and shall be accompanied by such documents and\n\ninformation as may be required by the Committee.\n\n(3) After considering the application, the Committe may—\n\n(a) renew the registration, with or without conditions, after the\n\nrenewal fee as specified in the Schedule is paid; or\n\n(b) refuse to renew the registration and state the ground of such refusal\n\nto the applicant in writing.\n\n(4) If the application for renewal is made after the period specified\n\nin subrule (1) but before the date of expiry of the certificate, the applicant shall pay\n\na fee for the late renewal as specified in the Schedule.\n\nDisplay of certificate of registration\n\n28. (1) The Board of Management shall display or cause to be displayed the\n\ncertificate of registration in a conspicuous part of the premise of the Islamic religious\n\nschool and shall produce the certificate of registration upon request for inspection.\n\n(2) Any member of the Board of Management who contravenes subrule (1)\n\ncommits an offence and shall, on conviction, be liable to a fine not exceeding one thousand\n\nringgit or to imprisonment for a term not exceeding six months or to both, and in the case\n\nof a second or continuing offence, to a fine not exceeding two thousand ringgit or\n\nto imprisonment for a term not exceeding one year or to both.\n\nReplacement of certificate of registration\n\n29. If a certificate of registration is lost or damaged, the Board of Management shall\n\napply to the Registrar for a replacement of the certificate of registration and\n\nthe application shall be accompanied by a fee as specified in the Schedule.\n\nSeparate registration for each level of school\n\n30. Each level of schooling for such Islamic religious school carried out in the same\n\npremises shall be registered separately.\n\nBranch of Islamic religious school\n\n31. Every branch of the Islamic religious school shall be registered separately.\n\nChange of name, etc.\n\n32. (1) The name, address, location and premises of an Islamic religious school\n\nshall not be changed, amended or modified without the written consent of the Registrar.\n\n(2) An application to change, amend or modify the name, address, location or\n\npremises of an Islamic religious school shall be made by the Board of Management to\n\nthe Registrar in the manner as determined by the Registrar.\n\n(3) If the application under subrule (2) is approved, the Registrar shall issue\n\na new certificate of registration after the fee as specified in the Schedule is paid.\n\n(4) Any member of the Board of Management who contravenes subrule (1)\n\ncommits an offence and shall, on conviction, be liable to a fine not exceeding\n\ntwo thousand ringgit or to imprisonment for a term not exceeding one year or to both.\n\nAdvertisement of Islamic religious school\n\n33. (1) No person shall advertise an Islamic religious school unless it has been\n\nregistered under these Rules.\n\n(2) Any person who contravenes subrule (1) commits an offence and shall,\n\non conviction, be liable to a fine not exceeding two thousand ringgit or to imprisonment\n\nfor a term not exceeding one year or to both, and in the case of a second or continuing\n\noffence, to a fine not exceeding four thousand ringgit or to imprisonment for a term\n\nnot exceeding two years or to both.\n\nRevocation of registration\n\n34. (1) The Committee may revoke the registration of an Islamic religious school\n\nif the Committee is satisfied that the Board of Management—\n\n(a) has failed to perform any of its responsibilities under these Rules;\n\n(b) has been convicted of any criminal offence by any court;\n\n(c) has contravened any of the conditions imposed in the certificate of\n\nregistration; or\n\n(d) has failed to comply with any of the directions of the Registrar,\n\nthe Committee or the Majlis.\n\n(2) Notwithstanding paragraphs (1)(a), (c) and (d), the Committee shall,\n\nbefore revoking any registration, give a notice in writing to the Board of Management\n\nof its intention to do so and require the Board of Management to perform its\n\nresponsibilities or to rectify the contraventions or to comply with such directions within\n\nthe period specified in the notice or within such extended period as may be given by\n\nthe Committee.\n\n(3) If upon the expiry of the period mentioned in subrule (2)\n\nthe Board of Management fails to perform the responsibility or rectify the contravention\n\nor comply with such direction, the Committee may revoke the registration of\n\nthe Islamic religious school by a written notice addressed and served to the Chairman of\n\nthe Board of Management.\n\n(4) The Committee may revoke the registration of an Islamic religious school\n\nif it has reason to believe that the Islamic religious school has ceased to be in operation.\n\n(5) The notice of revocation of registration referred to in subrule (3) shall—\n\n(a) specify grounds and effective date of the revocation; and\n\n(b) contain all directions as the Registrar thinks necessary.\n\n(6) The Chairman of the Board of Management shall surrender the certificate\n\nof registration to the Registrar within thirty days from the date of the revocation of\n\nits registration.\n\n(7) The Chairman of the Board of Management who fails to surrender the\n\ncertificate of registration under subrule (6) commits an offence and shall, on conviction,\n\nbe liable to a fine not exceeding two thousand ringgit or to imprisonment for a term\n\nnot exceeding one year or to both.\n\nAppeal\n\n35. (1) The Board of Management who aggrieved by any decision of the Committee\n\nmade under paragraph 24(5)(b) or rule 34 may, within thirty days from the date of\n\nthe receipt of the decision, appeal in writing against such decision to the Majlis.\n\n(2) The Majlis may, after considering an appeal made under subrule (1),\n\nconfirm or set aside the decision of the Committee and the decision of the Majlis is final.\n\n(3) The Board of Management may, pursuant to these Rules, apply\n\nto re-register the Islamic religious school which certificate of registration\n\nhas been revoked.\n\nPART VI\n\nFINANCIAL\n\nFinancial account of Islamic religious school\n\n36. (1) For the purposes of these Rules, every Board of Management shall open\n\nthe financial account named as the financial account of the Islamic religious school\n\nat any licensed Islamic bank.\n\n(2) For the purposes of subrule (1), \"licensed Islamic bank\" has the meaning\n\nassigned to it under section 2 of the Islamic Financial Services Act 2013 [Act 759].\n\nFinancial guidelines\n\n37. Each approval for obtaining any supply or expenditure shall be made in\n\naccordance with the financial guidelines or any regulations issued by the Majlis\n\nfrom time to time.\n\nAudit\n\n38. The Chairman of the Board of Management shall submit to the Majlis an audited\n\nfinancial accounts of the Islamic religious school if requested to do so by the Majlis.\n\nPART VII\n\nENFORCEMENT\n\nNotice of cessation of operation\n\n39. (1) Any Islamic religious school which is not registered or its registration\n\nhas been revoked under these Rules, the operation of any Islamic religious school shall\n\ncease to operate.\n\n(2) Before ceasing the operation of the Islamic religious school,\n\nthe Committee shall—\n\n(a) give a notice in writing to the Board of Management or any person\n\noperating the Islamic religious school notifying its intention to do;\n\nand\n\n(b) require the Board of Management or that person which operating\n\nthe Islamic religous school to register the Islamic religious school\n\nwithin the period specified in the notice in writing or within any\n\nfurther period as may be given by the Committee.\n\n(3) Upon the expiry of the period referred to in subrule (2)\n\nthe Board of Management or that person fails to register, the Islamic religious school may\n\ncease to operate by a written notice by the Committee addressed and served to\n\nthe Chairman of the Board of Management or that person, respectively.\n\n(4) The notice to cease operation referred to under subrule (3) shall—\n\n(a) specify grounds and effective date of the cease; and\n\n(b) contain all directions as the Registrar deems necessary.\n\n(5) The Board of Management or that person may, pursuant to these Rules,\n\napply to re-register the Islamic religious school which the operation of\n\nthe Islamic religious school has been ceased.\n\nPART VIII\n\nMISCELLANEOUS\n\nReport\n\n40. Every Islamic religious school shall, not later than 31 January every year,\n\nmake and submit to the Registrar a report of activities and financial report\n\nof the Islamic religious school for the year before.\n\nCurriculum and co-curriculum of Islamic religious school\n\n41. All Islamic religious schools shall use the curriculum and co-curriculum which is\n\nprepared by the Committee and approved by the Majlis.\n\nAssessment\n\n42. The Islamic Religious School shall convene assessment for its pupils in such\n\nmanner as approved by the Majlis.\n\nPower of Majlis to issue directions\n\n43. The Majlis may issue any direction to the Committee, Board of Management,\n\nRegistrar or Inspector of Schools in relation to any matter provided under these Rules\n\nand the Committee, Board of Management, Registrar or Inspector of Schools shall give\n\neffect to every such direction.\n\nTake over of administration of Islamic religious school\n\n44. (1) The Committee on the direction of the Majlis may, if it thinks necessary and\n\nexpedient in the interest of the pupils or the Islamic religious school, take over\n\nprovisionally the administration of an Islamic religious school for a period which may\n\nextend to six months.\n\n(2) After the expiry of the period referred to in subrule (1), the Majlis may—\n\n(a) take over the administration of the Islamic religious school;\n\n(b) cease the operation of the Islamic religious school; or\n\n(c) take such action as it thinks necessary.\n\nPART IX\n\nTRANSITIONAL\n\nTransitional\n\n45. (1) Any person who operates an Islamic religious school immediately before\n\nthe date of coming into operation of these Rules shall register the Islamic religious school\n\nin accordance with rule 23 of Part V of these Rules within twelve months from the date of\n\ncoming into operation of these Rules or any extended period allowed by the Committee.\n\n(2) If the Committee disapproves the application referred to in subrule (1),\n\nthe person who is operating the Islamic religous school shall cease to operate\n\nthe Islamic religious school.\n\nSCHEDULE\n\n[Subrule 24(3), paragraph 24(5)(a), subrule 27(2), paragraph 27(3)(a),\n\nsubrule 27(4), rule 29 and subrule 32(3)]\n\nFEES\n\n(1)\n\nNo.\n\n(2)\n\nMatter\n\n(3)\n\nFees\n\n(RM)\n\n1. Application for registration 50.00\n\n2. Issuance of certificate of registration\n\n(a) Islamic religious pre-school\n\n(b) Islamic religious primary school\n\n(c) Islamic religious secondary school\n\n400.00\n\n500.00\n\n600.00\n\n3. Application for renewal of the certificate of registration 50.00\n\n(1)\n\nNo.\n\n(2)\n\nMatter\n\n(3)\n\nFees\n\n(RM)\n\n4. Issuance of new certificate of registration\n\n(a) Islamic religious pre-school\n\n(b) Islamic religious primary school\n\n(c) Islamic religious secondary school\n\n200.00\n\n250.00\n\n300.00\n\n5. Late renewal\n\n(a) Islamic religious pre-school\n\n(b) Islamic religious primary school\n\n(c) Islamic religious secondary school\n\n300.00\n\n400.00\n\n500.00\n\n6. Application for the replacement of certificate\n\nof registration 100.00\n\n7. Application for changing, amending or modifying\n\nthe Islamic religious school name, address, location\n\nand premises\n\n200.00\n\nMade 29 May 2025\n\n[JAKIM. (S).BUU.600-1/2/1(2); PN(PU2)530/JLD.18]\n\nBy Command\n\nTAN SRI SHAMSUL AZRI BIN ABU BAKAR\n\nSecretary to the Cabinet"
+   }
+  }
+ ]
+}

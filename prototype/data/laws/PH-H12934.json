@@ -1,0 +1,72 @@
+{
+ "id": "PH-H12934",
+ "title": {
+  "zh": null,
+  "en": "An Act Authorizing the Administrator of the San Lazaro Estate to Execute Long-Term Leases for Lands Belonging to Said Estate.",
+  "orig": "An Act Authorizing the Administrator of the San Lazaro Estate to Execute Long-Term Leases for Lands Belonging to Said Estate."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1913-02-08",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2230",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1829,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1913/act_2230_1913.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02230_1913_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02230_1913_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12934-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The administrator of the San Lazaro estate is hereby authorized, upon approval of the Secretary\nof the Interior, to execute leases covering lands belonging to said estate in accordance with the following\nconditions:\n1. All lands used for building purposes, upon which the tenants have constructed, or may hereafter construct,\nbuildings to the value of not less than two thousand pesos, a lease term of ten years.\n2. All lands used for building purposes upon which the tenants have constructed, or may hereafter construct,\nbuildings to the value of more than two thousand pesos, two additional years for each additional one thousand\npesos or portion thereof: Provided, however, That no lease shall be executed for a longer period than fifty"
+   }
+  },
+  {
+   "id": "PH-H12934-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Each lease executed in accordance with the provisions of the foregoing section shall reserve to\nthe San Lazaro estate an annual rental of five per centum of the appraised value of the lands covered thereby,\nand shall contain a provision for a reappraisement of the value of said land at the expiration of each period of\nten years during the term thereof. The reappraisement shall be made by the city assessor and collector of\nManila in the same manner as lands of private ownership are appraised for the purpose of taxation, and any\nperson in interest who shall feel aggrieved thereby shall have the right of appeal to the board of tax appeals for\nthe city of Manila, in the manner provided in section fifty-three of Act Numbered One hundred and\neighty-three. After each reappraisement of value, as herein provided, the rental reserved in each lease shall be\nreadjusted for the next succeeding period of ten years, or fraction thereof, at the rate of five per centum per\nannum on the reappraised value as herein provided."
+   }
+  },
+  {
+   "id": "PH-H12934-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, February 8, 1913."
+   }
+  }
+ ]
+}

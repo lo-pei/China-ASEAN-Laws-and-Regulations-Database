@@ -1,0 +1,62 @@
+{
+ "id": "PH-H13282",
+ "title": {
+  "zh": null,
+  "en": "All Act Authorizing the \"Marine Trading Company, Incorporated\" to Bring Suit Against the Government of the Philippine Islands to Recover Damages, If Any, Alleged to Have Arisen From the Collision of Its Launch With a Scow Towed By a Launch Belonging to the Government of the Philippine Islands.",
+  "orig": "All Act Authorizing the \"Marine Trading Company, Incorporated\" to Bring Suit Against the Government of the Philippine Islands to Recover Damages, If Any, Alleged to Have Arisen From the Collision of Its Launch With a Scow Towed By a Launch Belonging to the Government of the Philippine Islands."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1916-02-04",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 2630",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 626,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1916/act_2630_1916.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_02630_1916_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_02630_1916_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H13282-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The Marine Trading Company, Incorporated, is hereby authorized and empowered to bring\naction in the Court of First Instance in and for the city of Manila, being the Ninth Judicial District, in order to\ndetermine the responsibility and liability fro the collisionbetween its launch Active and the scow towed by the\nlaunch Bohol belonging to the Government of the Philippine Islands, and to fix the damages, if any, to which\nthe said Marine Trading Company, Incorporated, is entitled on account of said collision, and that judgment\nmay be entered accordingly."
+   }
+  },
+  {
+   "id": "PH-H13282-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, February 4, 1916."
+   }
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "id": "PH-H14717",
+ "title": {
+  "zh": null,
+  "en": "An Act to Appropriate the Sum of thirty thousand Pesos for the Expenses of the Committee and Financial Expert to Be Appointed By the President of the United states to Conduct Hearings in the Philippine Islands in Connection With the Act of Congress of March Twenty-Fourth, Nineteen Hundred and thirty-Four, and for Other Purposes.",
+  "orig": "An Act to Appropriate the Sum of thirty thousand Pesos for the Expenses of the Committee and Financial Expert to Be Appointed By the President of the United states to Conduct Hearings in the Philippine Islands in Connection With the Act of Congress of March Twenty-Fourth, Nineteen Hundred and thirty-Four, and for Other Purposes."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p156",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1934-05-26",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 4126",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 918,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1934/act_4126_1934.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_04126_1934_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_04126_1934_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14717-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The sum of thirty thousand pesos, or so much thereof as may be necessary, is hereby\nappropriated, out of any funds in the Insular Treasury not otherwise appropriated, for the payment of the\nexpenses of the committee and financial expert to be appointed by the President of the United States to\nconduct hearings and make investigations in the Philippine Islands for the purpose of determining and\nrecommending the correction of existing imperfections and inequalities in the Act of Congress of March\ntwenty-fourth, nineteen hundred and thirty-four, commonly known as the Tydings-McDuffie Act, including\nthe payment of traveling expenses from the United States to the Philippine Islands and return, of the said\ncommittee and financial expert, and the expenses for board and lodging, clerical help, and other incidental\nexpenses thereof in these Islands."
+   }
+  },
+  {
+   "id": "PH-H14717-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, May 26, 1934."
+   }
+  }
+ ]
+}

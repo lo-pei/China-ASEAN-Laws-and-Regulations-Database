@@ -1,0 +1,1530 @@
+{
+ "id": "VN-H504",
+ "title": {
+  "zh": "原子能法",
+  "en": "Law No. 18/2008/QH12 on atomic energy",
+  "vi": "Luật Năng lượng nguyên tử số 18/2008/QH12",
+  "orig": "Luật Năng lượng nguyên tử số 18/2008/QH12",
+  "th": "พระราชบัญญัติพลังงานปรมาณู เลขที่ 18/2008/QH12",
+  "id": "Undang-Undang Energi Nuklir No. 18/2008/QH12",
+  "ms": "Akta Tenaga Atom No. 18/2008/QH12"
+ },
+ "country": "VN",
+ "countryName": "越南",
+ "layer": "intl",
+ "pack": "vn-p06",
+ "language": "vi",
+ "level": "law",
+ "category": "05_其他及未分类",
+ "status": "active",
+ "promulgatedDate": "2008",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "国会",
+ "docNumber": "18/2008/QH12",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 93,
+ "chars": 97830,
+ "source": {
+  "name": "越南法律数据库（vbpl.vn 官方公报文本）",
+  "url": "https://vbpl.vn/van-ban/chi-tiet/luat-nang-luong-nguyen-tu-so-18-2008-qh12--12804"
+ },
+ "sourceFile": "_work\\ingest-archive\\_raw\\VN\\05_其他及未分类\\2008_18 2008 QH12_Luật Năng lượng nguyên tử số 18 2008 QH12.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 93 条；逐字未改写（源自 VN）。",
+ "textQuality": "official-digital-text",
+ "articles": [
+  {
+   "id": "VN-H504-A1",
+   "no": 1,
+   "noLabel": {
+    "vi": "Điều 1"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Phạm vi điều chỉnh"
+   },
+   "text": {
+    "vi": "Điều 1. Phạm vi điều chỉnh\n\nLuật này quy định về các hoạt động trong lĩnh vực năng lượng nguyên tử và bảo đảm an toàn, an ninh trong các hoạt động đó."
+   }
+  },
+  {
+   "id": "VN-H504-A2",
+   "no": 2,
+   "noLabel": {
+    "vi": "Điều 2"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Đối tượng áp dụng"
+   },
+   "text": {
+    "vi": "Điều 2. Đối tượng áp dụng\n\nLuật này áp dụng đối với tổ chức, cá nhân trong nước, người Việt Nam định cư ở nước ngoài, tổ chức, cá nhân nước ngoài, tổ chức quốc tế tiến hành các hoạt động trong lĩnh vực năng lượng nguyên tử tại Việt Nam."
+   }
+  },
+  {
+   "id": "VN-H504-A3",
+   "no": 3,
+   "noLabel": {
+    "vi": "Điều 3"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Giải thích từ ngữ"
+   },
+   "text": {
+    "vi": "Điều 3. Giải thích từ ngữ\n\nTrong Luật này, các từ ngữ dưới đây được hiểu như sau:\n\n1. Năng lượng nguyên tử là năng lượng được giải phóng trong quá trình biến đổi hạt nhân bao gồm năng lượng phân hạch, năng lượng nhiệt hạch, năng lượng do phân rã chất phóng xạ; là năng lượng sóng điện từ có khả năng ion hóa vật chất và năng lượng các hạt được gia tốc.\n\n2. Hoạt động trong lĩnh vực năng lượng nguyên tử là hoạt động nghiên cứu khoa học và phát triển công nghệ trong lĩnh vực năng lượng nguyên tử; xây dựng, vận hành, bảo dưỡng, khai thác, quản lý và tháo dỡ cơ sở hạt nhân, cơ sở bức xạ; thăm dò, khai thác, chế biến, sử dụng quặng phóng xạ; sản xuất, lưu giữ, sử dụng, vận chuyển, chuyển giao, xuất khẩu, nhập khẩu nguồn phóng xạ, thiết bị bức xạ, nhiên liệu hạt nhân, vật liệu hạt nhân nguồn, vật liệu hạt nhân và thiết bị hạt nhân; xử lý, lưu giữ chất thải phóng xạ và các dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử.\n\n3. Bức xạ là chùm hạt hoặc sóng điện từ có khả năng ion hóa vật chất.\n\n4. Nguồn bức xạ là nguồn phóng xạ hoặc thiết bị bức xạ.\n\n5. Nguồn phóng xạ là chất phóng xạ được chế tạo để sử dụng, không bao gồm vật liệu hạt nhân.\n\n6. Thiết bị bức xạ là thiết bị phát ra bức xạ hoặc có khả năng phát ra bức xạ.\n\n7. Hoạt độ phóng xạ là đại lượng biểu thị số hạt nhân phân rã phóng xạ trong một đơn vị thời gian.\n\n8. Chất phóng xạ là chất phát ra bức xạ do quá trình phân rã hạt nhân, chuyển mức năng lượng hạt nhân, có hoạt độ phóng xạ riêng hoặc tổng hoạt độ lớn hơn mức miễn trừ.\n\n9. Dược chất phóng xạ là dược chất có chứa chất phóng xạ dùng cho việc chẩn đoán và điều trị bệnh.\n\n10. Đồng vị phóng xạ là các dạng khác nhau của một nguyên tố hóa học có khả năng phân rã phóng xạ.\n\n11. Chất thải phóng xạ là chất thải chứa chất phóng xạ hoặc vật thể bị nhiễm bẩn phóng xạ phải thải bỏ.\n\n12. Chiếu xạ là sự tác động của bức xạ vào con người, môi trường, động vật, thực vật hoặc đối tượng vật chất khác.\n\n13. Liều chiếu xạ là đại lượng đo mức độ chiếu xạ.\n\n14. Kiểm xạ là việc đo liều chiếu xạ hoặc đo mức nhiễm bẩn phóng xạ để đánh giá, kiểm soát mức độ chiếu xạ do bức xạ hoặc chất phóng xạ gây ra.\n\n15. Vật liệu hạt nhân nguồn là một trong các vật liệu sau đây: urani, thori dưới dạng quặng hoặc đuôi quặng; urani chứa thành phần đồng vị urani 235 ít hơn urani trong tự nhiên; các quặng chứa thori, urani bằng hoặc lớn hơn 0,05% tính theo trọng lượng; các hợp chất của thori và urani khác chưa đủ hàm lượng để được xác định là vật liệu hạt nhân.\n\n16. Vật liệu hạt nhân là vật liệu có khả năng phân hạch bao gồm plutoni có hàm lượng đồng vị plutoni 238 không lớn hơn 80%, urani 233, urani đã làm giàu đồng vị urani 235 hoặc đồng vị urani 233, urani có thành phần đồng vị như trong tự nhiên trừ urani dưới dạng quặng hoặc đuôi quặng.\n\n17. Nhiêu liệu hạt nhân là vật liệu hạt nhân được chế tạo làm nhiên liệu cho lò phản ứng hạt nhân.\n\n18. Thiết bị hạt nhân là lò phản ứng hạt nhân, thiết bị làm giàu urani, thiết bị chế tạo nhiên liệu hạt nhân hoặc thiết bị xử lý nhiên liệu hạt nhân đã qua sử dụng.\n\n19. Chu trình nhiên liệu hạt nhân là một chuỗi hoạt động liên quan đến tạo ra năng lượng hạt nhân từ khai thác, chế biến quặng urani hoặc thori; làm giàu urani; chế tạo nhiên liệu hạt nhân; sử dụng nhiên liệu trong lò phản ứng hạt nhân; tái chế nhiên liệu hạt nhân đã qua sử dụng đến các hoạt động xử lý, lưu giữ chất thải phóng xạ sinh ra từ việc tạo ra năng lượng hạt nhân và các hoạt động nghiên cứu, phát triển có liên quan.\n\n20. An toàn bức xạ là việc thực hiện các biện pháp chống lại tác hại của bức xạ, ngăn ngừa sự cố hoặc giảm thiểu hậu quả của chiếu xạ đối với con người, môi trường.\n\n21. An toàn hạt nhân là việc thực hiện các biện pháp nhằm ngăn ngừa sự cố hoặc giảm thiểu hậu quả sự cố do thiết bị hạt nhân, vật liệu hạt nhân gây ra cho con người, môi trường.\n\n22. An ninh nguồn phóng xạ, vật liệu hạt nhân và thiết bị hạt nhân là việc thực hiện các biện pháp nhằm phát hiện, ngăn chặn, đối phó với các hành vi chiếm đoạt, phá hoại, chuyển giao hoặc sử dụng bất hợp pháp nguồn phóng xạ, vật liệu hạt nhân, thiết bị hạt nhân và nguy cơ thất lạc nguồn phóng xạ, vật liệu hạt nhân, thiết bị hạt nhân.\n\n23. Mức miễn trừ khai báo, cấp phép là mức hoạt độ phóng xạ hoặc công suất của thiết bị bức xạ mà từ mức đó trở xuống chất phóng xạ hoặc thiết bị bức xạ được coi là không nguy hại cho con người, môi trường."
+   }
+  },
+  {
+   "id": "VN-H504-A4",
+   "no": 4,
+   "noLabel": {
+    "vi": "Điều 4"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Áp dụng pháp luật và điều ước quốc tế"
+   },
+   "text": {
+    "vi": "Điều 4. Áp dụng pháp luật và điều ước quốc tế\n\n1. Hoạt động trong lĩnh vực năng lượng nguyên tử và bảo đảm an toàn bức xạ, an toàn hạt nhân (sau đây gọi chung là an toàn), an ninh nguồn phóng xạ, vật liệu hạt nhân và thiết bị hạt nhân (sau đây gọi chung là an ninh) trong các hoạt động đó phải tuân thủ quy định của Luật này và các quy định khác của pháp luật luật có liên quan.\n\n2. Trường hợp có sự khác nhau giữa quy định của Luật này với quy định của luật khác về cùng một nội dung liên quan đến hoạt động trong lĩnh vực năng lượng nguyên tử và bảo đảm an toàn, an ninh trong các hoạt động đó thì áp dụng quy định của Luật này.\n\n3. Trong trường hợp điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên có quy định khác với quy định của Luật này thì áp dụng quy định của điều ước quốc tế đó."
+   }
+  },
+  {
+   "id": "VN-H504-A5",
+   "no": 5,
+   "noLabel": {
+    "vi": "Điều 5"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Chính sách của Nhà nước trong lĩnh vực năng lượng nguyên tử"
+   },
+   "text": {
+    "vi": "Điều 5. Chính sách của Nhà nước trong lĩnh vực năng lượng nguyên tử\n\n1. Đầu tư và khuyến khích tổ chức, cá nhân trong nước, người Việt Nam định cư ở nước ngoài, tổ chức, cá nhân nước ngoài, tổ chức quốc tế đầu tư vào hoạt động trong lĩnh vực năng lượng nguyên tử phục vụ phát triển kinh tế - xã hội.\n\n2. Tập trung đầu tư phát triển điện hạt nhân, xây dựng cơ sở vật chất – kỹ thuật, đào tạo nhân lực, nghiên cứu khoa học và phát triển công nghệ phục vụ phát triển điện hạt nhân.\n\n3. Chú trọng đầu tư xây dựng cơ sở vật chất – kỹ thuật và đào tạo nhân lực để bảo đảm an toàn, an ninh cho các hoạt động trong lĩnh vực năng lượng nguyên tử.\n\n4. Ưu tiên đầu tư xây dựng hạ tầng kỹ thuật, phát triển văn hóa, giáo dục, phúc lợi xã hội ở khu vực có nhà máy điện hạt nhân.\n\n5. Tạo điều kiện cho tổ chức, cá nhân tham gia đầu tư phát triển điện hạt nhân."
+   }
+  },
+  {
+   "id": "VN-H504-A6",
+   "no": 6,
+   "noLabel": {
+    "vi": "Điều 6"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Nguyên tắc hoạt động và bảo đảm an toàn, an ninh trong lĩnh vực năng lượng nguyên tử"
+   },
+   "text": {
+    "vi": "Điều 6. Nguyên tắc hoạt động và bảo đảm an toàn, an ninh trong lĩnh vực năng lượng nguyên tử\n\n1. Hoạt động trong lĩnh vực năng lượng nguyên tử được thực hiện vì mục đích hòa bình, phục vụ phát triển kinh tế - xã hội.\n\n2. Hoạt động trong lĩnh vực năng lượng nguyên tử phải bảo đảm an toàn cho sức khỏe, tính mạng con người, môi trường và trật tự, an toàn xã hội.\n\n3. Hoạt động quản lý về an toàn, an ninh trong lĩnh vực năng lượng nguyên tử phải bảo đảm khách quan, khoa học."
+   }
+  },
+  {
+   "id": "VN-H504-A7",
+   "no": 7,
+   "noLabel": {
+    "vi": "Điều 7"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Trách nhiệm quản lý nhà nước trong lĩnh vực năng lượng nguyên tử"
+   },
+   "text": {
+    "vi": "Điều 7. Trách nhiệm quản lý nhà nước trong lĩnh vực năng lượng nguyên tử\n\n1. Chính phủ thống nhất quản lý nhà nước trong lĩnh vực năng lượng nguyên tử.\n\n2. Bộ Khoa học và Công nghệ chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước trong lĩnh vực năng lượng nguyên tử.\n\n3. Bộ, cơ quan ngang Bộ trong phạm vi nhiệm vụ, quyền hạn của mình thực hiện quản lý nhà nước trong lĩnh vực năng lượng nguyên tử theo phân công của Chính phủ.\n\n4. Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương (sau đây gọi chung là cấp tỉnh) thực hiện quản lý nhà nước trong lĩnh vực năng lượng nguyên tử theo phân cấp của Chính phủ."
+   }
+  },
+  {
+   "id": "VN-H504-A8",
+   "no": 8,
+   "noLabel": {
+    "vi": "Điều 8"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Nhiệm vụ, quyền hạn của cơ quan an toàn bức xạ và hạt nhân"
+   },
+   "text": {
+    "vi": "Điều 8. Nhiệm vụ, quyền hạn của cơ quan an toàn bức xạ và hạt nhân\n\nCơ quan an toàn bức xạ và hạt nhân thuộc Bộ Khoa học và Công nghệ có trách nhiệm giúp Bộ trưởng thực hiện các nhiệm vụ, quyền hạn sau đây:\n\n1. Xây dựng dự thảo văn bản quy phạm pháp luật về an toàn bức xạ, an toàn hạt nhân;\n\n2. Tổ chức việc khai báo chất phóng xạ, thiết bị bức xạ, vật liệu hạt nhân, thiết bị hạt nhân và việc cấp giấy phép tiến hành công việc bức xạ theo thẩm quyền;\n\n3. Thẩm định và tổ chức thẩm định an toàn bức xạ, an toàn hạt nhân;\n\n4. Kiểm tra, thanh tra và xử lý vi phạm về an toàn bức xạ, an toàn hạt nhân, tạm dừng công việc bức xạ theo thẩm quyền; kiến nghị cơ quan nhà nước có thẩm quyền tạm dừng vận hành lò phản ứng hạt nhân nghiên cứu, vận hành nhà máy điện hạt nhân khi phát hiện các yếu tố không an toàn;\n\n5. Tổ chức thực hiện hoạt động kiểm soát hạt nhân theo quy định của pháp luật;\n\n6. Tham gia ứng phó sự cố bức xạ, sự cố hạt nhân theo thẩm quyền;\n\n7. Xây dựng và cập nhật hệ thống thông tin quốc gia về an toàn bức xạ, an toàn hạt nhân;\n\n8. Tổ chức và phối hợp tổ chức việc đào tạo, bồi dưỡng, hướng dẫn chuyên môn, nghiệp vụ về an toàn bức xạ, an toàn hạt nhân;\n\n9. Tổ chức thực hiện hoạt động hợp tác quốc tế về an toàn bức xạ, an toàn hạt nhân."
+   }
+  },
+  {
+   "id": "VN-H504-A9",
+   "no": 9,
+   "noLabel": {
+    "vi": "Điều 9"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Hội đồng phát triển, ứng dụng năng lượng nguyên tử quốc gia và Hội đồng an toàn hạt nhân quốc gia"
+   },
+   "text": {
+    "vi": "Điều 9. Hội đồng phát triển, ứng dụng năng lượng nguyên tử quốc gia và Hội đồng an toàn hạt nhân quốc gia\n\n1. Hội đồng phát triển, ứng dụng năng lượng nguyên tử quốc gia là cơ quan tư vấn của Thủ tướng Chính phủ, có trách nhiệm giúp Thủ tướng về chiến lược, chính sách phát triển, ứng dụng năng lượng nguyên tử; quy hoạch, kế hoạch nghiên cứu, phát triển và sử dụng năng lượng nguyên tử.\n\n2. Hội đồng an toàn hạt nhân quốc gia là cơ quan tư vấn của Thủ tướng Chính phủ, có trách nhiệm giúp Thủ tướng về chính sách, biện pháp bảo đảm an toàn hạt nhân trong sử dụng năng lượng nguyên tử, trong quá trình hoạt động của nhà máy điện hạt nhân và biện pháp xử lý đối với sự cố hạt nhân đặc biệt nghiêm trọng; xem xét, đánh giá báo cáo an toàn của nhà máy điện hạt nhân, kết quả thẩm định của cơ quan an toàn bức xạ và hạt nhân.\n\n3. Thủ tướng Chính phủ quy định tổ chức và hoạt động của Hội đồng phát triển, ứng dụng năng lượng nguyên tử quốc gia và Hội đồng an toàn hạt nhân quốc gia."
+   }
+  },
+  {
+   "id": "VN-H504-A10",
+   "no": 10,
+   "noLabel": {
+    "vi": "Điều 10"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Kiểm soát hạt nhân"
+   },
+   "text": {
+    "vi": "Điều 10. Kiểm soát hạt nhân\n\n1. Việc kiểm soát sử dụng vật liệu hạt nhân, kiểm soát vật liệu và thiết bị sử dụng trong chu trình nhiên liệu hạt nhân và kiểm soát hoạt động có liên quan nhằm ngăn chặn phổ biến vũ khí hạt nhân, vận chuyển và sử dụng bất hợp pháp vật liệu hạt nhân được thực hiện theo quy định của pháp luật.\n\nThủ tướng Chính phủ quy định về hoạt động kiểm soát hạt nhân.\n\n2. Tổ chức, cá nhân quản lý cơ sở hạt nhân, vật liệu hạt nhân, vật liệu và thiết bị sử dụng trong chu trình nhiên liệu hạt nhân, tiến hành hoạt động có liên quan phải tuân thủ yêu cầu của cơ quan quản lý nhà nước có thẩm quyền trong việc thực hiện hoạt động kiểm soát hạt nhân."
+   }
+  },
+  {
+   "id": "VN-H504-A11",
+   "no": 11,
+   "noLabel": {
+    "vi": "Điều 11"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Hợp tác quốc tế trong lĩnh vực năng lượng nguyên tử"
+   },
+   "text": {
+    "vi": "Điều 11. Hợp tác quốc tế trong lĩnh vực năng lượng nguyên tử\n\n1. Nhà nước thực hiện hợp tác quốc tế trong lĩnh vực năng lượng nguyên tử theo nguyên tắc tôn trọng độc lập, chủ quyền, bình đẳng, cùng có lợi.\n\n2. Nhà nước tạo điều kiện cho tổ chức, cá nhân trong nước, người Việt Nam định cư ở nước ngoài, tổ chức, cá nhân nước ngoài và tổ chức quốc tế hợp tác trong lĩnh vực năng lượng nguyên tử phục vụ phát triển kinh tế - xã hội."
+   }
+  },
+  {
+   "id": "VN-H504-A12",
+   "no": 12,
+   "noLabel": {
+    "vi": "Điều 12"
+   },
+   "chapter": {
+    "vi": "Chương I"
+   },
+   "heading": {
+    "vi": "Những hành vi bị nghiêm cấm"
+   },
+   "text": {
+    "vi": "Điều 12. Những hành vi bị nghiêm cấm\n\n1. Lợi dụng, lạm dụng hoạt động trong lĩnh vực năng lượng nguyên tử để xâm phạm độc lập, chủ quyền, toàn vẹn lãnh thổ, can thiệp vào công việc nội bộ, đe dọa an ninh và lợi ích quốc gia; xâm phạm quyền và lợi ích hợp pháp của tổ chức, cá nhân, gây tổn hại cho sức khỏe, tính mạng con người, môi trường.\n\n2. Nghiên cứu, phát triển, chế tạo, mua bán, vận chuyển, chuyển giao, tàng trữ, sử dụng hoặc đe dọa sử dụng vũ khí hạt nhân, vũ khí bức xạ.\n\n3. Tiến hành công việc bức xạ mà chưa được cơ quan quản lý nhà nước có thẩm quyền cấp giấy phép theo quy định của pháp luật.\n\n4. Nhập khẩu chất thải phóng xạ.\n\n5. Vận chuyển chất thải phóng xạ, vật liệu hạt nhân bằng đường bưu điện.\n\n6. Vận chuyển chất phóng xạ, chất thải phóng xạ, vật liệu hạt nhân nguồn, vật liệu hạt nhân (sau đây gọi chung là vật liệu phóng xạ) bằng các phương tiện không được thiết kế bảo đảm an toàn, an ninh hoặc không có thiết bị bảo đảm an toàn, an ninh.\n\n7. Sản xuất, mua bán, xuất khẩu, nhập khẩu thực phẩm, đồ uống, mỹ phẩm, đồ chơi, đồ trang sức, sản phẩm, hàng hóa tiêu dùng khác có hoạt độ phóng xạ cao hơn mức quy định trong quy chuẩn kỹ thuật quốc gia tương ứng.\n\n8. Vi phạm quy định về bảo đảm an toàn, an ninh và các điều kiện ghi trong giấy phép.\n\n9. Cản trở trái pháp luật hoạt động trong lĩnh vực năng lượng nguyên tử.\n\n10. Trợ giúp dưới mọi hình thức hoạt động trái pháp luật trong lĩnh vực năng lượng nguyên tử.\n\n11. Xâm phạm công trình, thiết bị, phương tiện phục vụ hoạt động bảo đảm an toàn, an ninh trong lĩnh vực năng lượng nguyên tử.\n\n12. Chiếm đoạt, phá hoại; chuyển giao, sử dụng bất hợp pháp nguồn phóng xạ, vật liệu hạt nhân nguồn, vật liệu hạt nhân, thiết bị hạt nhân.\n\n13. Che dấu thông tin về sự cố bức xạ, sự cố hạt nhân; đưa thông tin không có căn cứ, không đúng sự thật về sự cố làm tổn hại lợi ích của Nhà nước, quyền và lợi ích hợp pháp của công dân.\n\n14. Sử dụng sai mục đích, tiết lộ thông tin bí mật trong lĩnh vực năng lượng nguyên tử.\n\nChương II\n\nCÁC BIỆN PHÁP ĐẨY MẠNH PHÁT TRIỂN, ỨNG DỤNG NĂNG LƯỢNG NGUYÊN TỬ"
+   }
+  },
+  {
+   "id": "VN-H504-A13",
+   "no": 13,
+   "noLabel": {
+    "vi": "Điều 13"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Quy hoạch phát triển, ứng dụng năng lượng nguyên tử"
+   },
+   "text": {
+    "vi": "Điều 13. Quy hoạch phát triển, ứng dụng năng lượng nguyên tử\n\n1. Quy hoạch phát triển, ứng dụng năng lượng nguyên tử bao gồm quy hoạch tổng thể, quy hoạch chi tiết cho từng lĩnh vực cụ thể.\n\n2. Quy hoạch tổng thể là quy hoạch nhằm định hướng cơ bản dài hạn, xác định các mục tiêu tổng quát phát triển, ứng dụng năng lượng nguyên tử vì mục đích hòa bình.\n\nQuy hoạch tổng thể được lập trên cơ sở chiến lược phát triển kinh tế - xã hội, chiến lược ứng dụng năng lượng nguyên tử vì mục đích hòa bình. Nội dung quy hoạch tổng thể bao gồm quan điểm phát triển, ứng dụng năng lượng nguyên tử; mục tiêu tổng quát; chỉ tiêu chung phát triển, ứng dụng năng lượng nguyên tử; giải pháp thực hiện.\n\n3. Quy hoạch chi tiết cho từng lĩnh vực cụ thể là quy hoạch nhằm định hướng dài hạn, xác định các mục tiêu cụ thể phát triển, ứng dụng năng lượng nguyên tử cho các lĩnh vực y tế; khí tượng, thủy văn, địa chất, khoáng sản, bảo vệ môi trường; nông nghiệp; công nghiệp và các ngành kinh tế - kỹ thuật khác; phát triển điện hạt nhân; thăm dò, khai thác, chế biến và sử dụng quặng phóng xạ và quy hoạch địa điểm chôn cất, lưu giữ chất thải phóng xạ.\n\nQuy hoạch chi tiết được lập trên cơ sở quy hoạch tổng thể phát triển, ứng dụng năng lượng nguyên tử, quy hoạch phát triển của ngành có liên quan. Nội dung quy hoạch chi tiết cho từng lĩnh vực cụ thể bao gồm quan điểm phát triển, mục tiêu, chỉ tiêu, giải pháp thực hiện và đánh giá môi trường chiến lược đã được thẩm định."
+   }
+  },
+  {
+   "id": "VN-H504-A14",
+   "no": 14,
+   "noLabel": {
+    "vi": "Điều 14"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Trách nhiệm lập, phê duyệt quy hoạch phát triển, ứng dụng năng lượng nguyên tử"
+   },
+   "text": {
+    "vi": "Điều 14. Trách nhiệm lập, phê duyệt quy hoạch phát triển, ứng dụng năng lượng nguyên tử\n\n1. Trách nhiệm lập quy hoạch phát triển, ứng dụng năng lượng nguyên tử được quy định như sau:\n\na) Bộ Khoa học và Công nghệ chủ trì lập quy hoạch tổng thể phát triển, ứng dụng năng lượng nguyên tử;\n\nb) Bộ Y tế chủ trì lập quy hoạch chi tiết phát triển, ứng dụng bức xạ trong y tế;\n\nc) Bộ Tài nguyên và Môi trường chủ trì lập quy hoạch chi tiết phát triển, ứng dụng bức xạ trong khí tượng, thủy văn, địa chất, khoáng sản, bảo vệ môi trường;\n\nd) Bộ Nông nghiệp và Phát triển nông thôn chủ trì lập quy hoạch chi tiết phát triển, ứng dụng bức xạ trong nông nghiệp;\n\nđ) Bộ Công thương chủ trì lập quy hoạch chi tiết phát triển, ứng dụng bức xạ trong công nghiệp và các ngành kinh tế - kỹ thuật khác; quy hoạch phát triển điện hạt nhân; quy hoạch thăm dò, khai thác, chế biến và sử dụng quặng phóng xạ;\n\ne) Bộ Xây dựng chủ trì lập quy hoạch địa điểm chôn cất, lưu giữ chất thải phóng xạ.\n\n2. Thủ tướng Chính phủ phê duyệt quy hoạch tổng thể và quy hoạch chi tiết phát triển, ứng dụng năng lượng nguyên tử.\n\n3. Cơ quan lập quy hoạch quy định tại khoản 1 Điều này có trách nhiệm tổ chức, hướng dẫn, theo dõi, kiểm tra việc thực hiện quy hoạch đã được phê duyệt."
+   }
+  },
+  {
+   "id": "VN-H504-A15",
+   "no": 15,
+   "noLabel": {
+    "vi": "Điều 15"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Điều chỉnh quy hoạch phát triển, ứng dụng năng lượng nguyên tử"
+   },
+   "text": {
+    "vi": "Điều 15. Điều chỉnh quy hoạch phát triển, ứng dụng năng lượng nguyên tử\n\nQuy hoạch phát triển, ứng dụng năng lượng nguyên tử được điều chỉnh khi căn cứ xây dựng quy hoạch quy định tại Điều 13 của Luật này thay đổi và phải được Thủ tướng Chính phủ phê duyệt."
+   }
+  },
+  {
+   "id": "VN-H504-A16",
+   "no": 16,
+   "noLabel": {
+    "vi": "Điều 16"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Phát triển nguồn nhân lực"
+   },
+   "text": {
+    "vi": "Điều 16. Phát triển nguồn nhân lực\n\n1. Nhà nước có chương trình đào tạo, xây dựng nguồn nhân lực, đặc biệt là chuyên gia có trình độ cao đáp ứng yêu cầu nghiên cứu, phát triển, ứng dụng và bảo đảm an toàn, an ninh trong lĩnh vực năng lượng nguyên tử.\n\n2. Nhà nước có chính sách ưu đãi, thu hút chuyên gia có trình độ cao trong và ngoài nước làm việc trong lĩnh vực năng lượng nguyên tử.\n\n3. Nhà nước khuyến khích tổ chức, cá nhân trong nước, người Việt Nam định cư ở nước ngoài, tổ chức, cá nhân nước ngoài và tổ chức quốc tế tham gia thực hiện chương trình đào tạo, xây dựng nguồn nhân lực quy định tại khoản 1 Điều này."
+   }
+  },
+  {
+   "id": "VN-H504-A17",
+   "no": 17,
+   "noLabel": {
+    "vi": "Điều 17"
+   },
+   "chapter": {
+    "vi": "Chương II"
+   },
+   "heading": {
+    "vi": "Nghiên cứu, phát triển, ứng dụng năng lượng nguyên tử"
+   },
+   "text": {
+    "vi": "Điều 17. Nghiên cứu, phát triển, ứng dụng năng lượng nguyên tử\n\n1. Nhà nước có chương trình nghiên cứu khoa học và phát triển công nghệ đáp ứng yêu cầu nghiên cứu, phát triển, ứng dụng năng lượng nguyên tử trong lĩnh vực kinh tế - xã hội.\n\n2. Nhà nước khuyến khích tổ chức, cá nhân trong nước, người Việt Nam định cư ở nước ngoài, tổ chức, cá nhân nước ngoài và tổ chức quốc tế tham gia thực hiện chương trình nghiên cứu khoa học và phát triển công nghệ quy định tại khoản 1 Điều này.\n\nChương III\n\nAN TOÀN BỨC XẠ, AN TOÀN HẠT NHÂN VÀ AN NINH NGUỒN\n\nPHÓNG XẠ, VẬT LIỆU HẠT NHÂN, THIẾT BỊ HẠT NHÂN"
+   }
+  },
+  {
+   "id": "VN-H504-A18",
+   "no": 18,
+   "noLabel": {
+    "vi": "Điều 18"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Công việc bức xạ"
+   },
+   "text": {
+    "vi": "Điều 18. Công việc bức xạ\n\nCông việc bức xạ bao gồm các hoạt động sau đây:\n\n1. Vận hành lò phản ứng hạt nhân nghiên cứu và nhà máy điện hạt nhân;\n\n2. Vận hành thiết bị chiếu xạ gồm máy gia tốc; thiết bị xạ trị; thiết bị chiếu xạ khử trùng, xử lý vật liệu và sử dụng các thiết bị bức xạ khác;\n\n3. Sản xuất, chế biến chất phóng xạ;\n\n4. Lưu giữ, sử dụng chất phóng xạ;\n\n5. Thăm dò, khai thác, chế biến quặng phóng xạ;\n\n6. Làm giàu urani; chế tạo nhiên liệu hạt nhân;\n\n7. Xử lý, lưu giữ, chôn cất chất thải phóng xạ, nguồn phóng xạ đã qua sử dụng và nhiên liệu hạt nhân đã qua sử dụng;\n\n8. Xây dựng, thay đổi quy mô và phạm vi hoạt động, chấm dứt hoạt động của cơ sở bức xạ, cơ sở hạt nhân;\n\n9. Sử dụng vật liệu hạt nhân ngoài chu trình nhiên liệu hạt nhân;\n\n10. Nhập khẩu, xuất khẩu chất phóng xạ, vật liệu hạt nhân nguồn, vật liệu hạt nhân và thiết bị hạt nhân;\n\n11. Đóng gói, vận chuyển vật liệu phóng xạ;\n\n12. Vận chuyển vật liệu phóng xạ quá cảnh lãnh thổ Việt Nam;\n\n13. Vận hành tàu biển, phương tiện khác có động cơ chạy bằng năng lượng hạt nhân;\n\n14. Hoạt động khác tạo ra chất thải phóng xạ."
+   }
+  },
+  {
+   "id": "VN-H504-A19",
+   "no": 19,
+   "noLabel": {
+    "vi": "Điều 19"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Báo cáo đánh giá an toàn đối với công việc bức xạ"
+   },
+   "text": {
+    "vi": "Điều 19. Báo cáo đánh giá an toàn đối với công việc bức xạ\n\n1. Tổ chức, cá nhân phải lập báo cáo đánh giá an toàn đối với công việc bức xạ khi xin cấp giấy phép tiến hành công việc bức xạ, trừ hoạt động quy định tại khoản 1 và khoản 8 Điều 18 của Luật này.\n\n2. Báo cáo đánh giá an toàn đối với công việc bức xạ phải phù hợp với từng công việc bức xạ và có các nội dung chính sau đây:\n\na) Quy trình tiến hành công việc bức xạ gồm các bước chuẩn bị, triển khai và kết thúc công việc;\n\nb) Quy định về việc đo liều chiếu xạ cá nhân và kiểm xạ khu vực làm việc;\n\nc) Quy định về việc ghi nhật ký tiến hành công việc bức xạ;\n\nd) Nội quy tiến hành công việc bức xạ;\n\nđ) Dự kiến sự cố có thể xảy ra và biện pháp khắc phục;\n\ne) Phân công trách nhiệm cá nhân tiến hành công việc bức xạ;\n\ng) Phân công trách nhiệm giám sát, phụ trách an toàn và điều hành chung."
+   }
+  },
+  {
+   "id": "VN-H504-A20",
+   "no": 20,
+   "noLabel": {
+    "vi": "Điều 20"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Báo cáo thực trạng an toàn tiến hành công việc bức xạ"
+   },
+   "text": {
+    "vi": "Điều 20. Báo cáo thực trạng an toàn tiến hành công việc bức xạ\n\n1. Định kỳ hằng năm hoặc khi có yêu cầu của cơ quan an toàn bức xạ và hạt nhân, tổ chức, cá nhân tiến hành công việc bức xạ phải lập báo cáo thực trạng an toàn tiến hành công việc bức xạ gửi đến cơ quan an toàn bức xạ và hạt nhân.\n\n2. Báo cáo thực trạng an toàn tiến hành công việc bức xạ bao gồm các nội dung sau đây:\n\na) Việc tuân thủ các điều kiện ghi trong giấy phép;\n\nb) Những thay đổi so với hồ sơ xin cấp giấy phép (nếu có);\n\nc) Sự cố bức xạ (nếu có) và các biện pháp khắc phục."
+   }
+  },
+  {
+   "id": "VN-H504-A21",
+   "no": 21,
+   "noLabel": {
+    "vi": "Điều 21"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Kiểm soát chiếu xạ do công việc bức xạ gây ra"
+   },
+   "text": {
+    "vi": "Điều 21. Kiểm soát chiếu xạ do công việc bức xạ gây ra\n\n1. Kiểm soát chiếu xạ gồm có:\n\na) Kiểm soát chiếu xạ nghề nghiệp là kiểm soát liều chiếu xạ đối với nhân viên bức xạ khi tiến hành công việc bức xạ;\n\nb) Kiểm soát chiếu xạ y tế là kiểm soát liều chiếu xạ đối với bệnh nhân trong chẩn đoán và điều trị;\n\nc) Kiểm soát chiếu xạ công chúng là kiểm soát liều chiếu xạ do công việc bức xạ gây ra đối với những người không thuộc các đối tượng quy định tại điểm a và điểm b khoản này.\n\n2. Tổ chức, cá nhân tiến hành công việc bức xạ phải tuân thủ các nguyên tắc kiểm soát chiếu xạ sau đây:\n\na) Bảo đảm cho liều chiếu xạ đối với công chúng và đối với nhân viên bức xạ không vượt quá liều giới hạn; bảo đảm cho liều chiếu xạ đối với bệnh nhân theo mức chỉ dẫn;\n\nb) Bảo đảm giữ cho liều chiếu xạ cá nhân, số người bị chiếu xạ và khả năng bị chiếu xạ ở mức thấp nhất có thể đạt được một cách hợp lý;\n\nc) Bảo đảm để lợi ích do công việc bức xạ mang lại phải đủ bù đắp cho những rủi ro, thiệt hại có thể gây ra cho con người, môi trường."
+   }
+  },
+  {
+   "id": "VN-H504-A22",
+   "no": 22,
+   "noLabel": {
+    "vi": "Điều 22"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "An ninh nguồn phóng xạ, vật liệu hạt nhân, thiết bị hạt nhân"
+   },
+   "text": {
+    "vi": "Điều 22. An ninh nguồn phóng xạ, vật liệu hạt nhân, thiết bị hạt nhân\n\n1. Tổ chức, cá nhân có nguồn phóng xạ, vật liệu hạt nhân, thiết bị hạt nhân phải có các biện pháp bảo đảm an ninh sau đây:\n\na) Kiểm soát việc tiếp cận nguồn phóng xạ, vật liệu hạt nhân, thiết bị hạt nhân;\n\nb) Không cho phép cá nhân không có nhiệm vụ tiếp cận nguồn phóng xạ, vật liệu hạt nhân, thiết bị hạt nhân;\n\nc) Thực hiện quy định về kiểm soát nguồn phóng xạ, vật liệu hạt nhân, thiết bị hạt nhân ghi trong giấy phép;\n\nd) Việc chuyển giao nguồn phóng xạ, vật liệu hạt nhân trong nội bộ cơ sở tiến hành công việc bức xạ phải có văn bản cho phép của người đứng đầu cơ sở hoặc người được ủy quyền và có biên bản bàn giao;\n\nđ) Tiến hành kiểm đếm định kỳ ít nhất một năm một lần để bảo đảm nguồn phóng xạ, vật liệu hạt nhân, thiết bị hạt nhân được để đúng nơi quy định trong điều kiện an ninh;\n\ne) Bảo vệ bí mật các biện pháp an ninh, trừ trường hợp pháp luật có quy định khác.\n\n2. Tổ chức, cá nhân quản lý nguồn phóng xạ có mức độ nguy hiểm từ trung bình trở lên và quản lý vật liệu hạt nhân, thiết bị hạt nhân ngoài việc thực hiện các quy định tại khoản 1 Điều này còn phải thực hiện các quy định sau đây:\n\na) Có kế hoạch bảo đảm an ninh;\n\nb) Phát hiện kịp thời và ngăn chặn việc tiếp cận trái phép nguồn phóng xạ, vật liệu hạt nhân, thiết bị hạt nhân;\n\nc) Áp dụng ngay biện pháp cần thiết để thu hồi nguồn phóng xạ, vật liệu hạt nhân, thiết bị hạt nhân bị chiếm đoạt, chuyển giao hoặc sử dụng bất hợp pháp;\n\nd) Ngăn chặn kịp thời việc phá hoại nguồn phóng xạ, vật liệu hạt nhân, thiết bị hạt nhân; có kế hoạch kiểm đếm thường xuyên hằng tháng, hằng tuần hoặc hằng ngày theo hướng dẫn của cơ quan an toàn bức xạ và hạt nhân;\n\nđ) Có phương án giảm thiểu tác hại khi nguồn phóng xạ, vật liệu hạt nhân, thiết bị hạt nhân bị phá hoại;\n\ne) Bảo vệ bí mật thông tin về hệ thống an ninh, trừ trường hợp pháp luật có quy định khác.\n\n3. Cơ quan an toàn bức xạ và hạt nhân có trách nhiệm xây dựng và thường xuyên cập nhật hệ thống kiểm soát nguồn phóng xạ, vật liệu hạt nhân, thiết bị hạt nhân trong phạm vi cả nước, bao gồm các thông tin sau đây:\n\na) Loại nguồn phóng xạ, vật liệu hạt nhân, thiết bị hạt nhân;\n\nb) Số nhận dạng nguồn phóng xạ, vật liệu hạt nhân, thiết bị hạt nhân và côngtenơ bảo vệ;\n\nc) Tên đồng vị phóng xạ đối với nguồn phóng xạ; thành phần hóa học đối với vật liệu hạt nhân;\n\nd) Hoạt độ, ngày xác định hoạt độ đối với nguồn phóng xạ; khối lượng plutoni, urani đối với vật liệu hạt nhân;\n\nđ) Nhà sản xuất hoặc nhà cung cấp;\n\ne) Chứng chỉ xuất xứ;\n\ng) Chủ sở hữu;\n\nh) Tổ chức, cá nhân đang lưu giữ, sử dụng;\n\ni) Tổ chức, cá nhân lưu giữ, sử dụng trước đó;\n\nk) Địa chỉ nơi đang lưu giữ, sử dụng.\n\n4. Việc phân loại nguồn phóng xạ theo mức độ nguy hiểm dưới trung bình, trung bình và trên trung bình được thực hiện theo quy chuẩn kỹ thuật quốc gia."
+   }
+  },
+  {
+   "id": "VN-H504-A23",
+   "no": 23,
+   "noLabel": {
+    "vi": "Điều 23"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Bảo vệ nhiều lớp"
+   },
+   "text": {
+    "vi": "Điều 23. Bảo vệ nhiều lớp\n\n1. Bảo vệ nhiều lớp là việc áp dụng đồng thời nhiều giải pháp, nhiều lớp bảo vệ nhằm duy trì an toàn, an ninh.\n\n2. Tổ chức, cá nhân tiến hành công việc bức xạ phải tuân thủ nguyên tắc bảo vệ nhiều lớp tương ứng với khả năng gây hại của nguồn bức xạ, vật liệu hạt nhân đối với con người, môi trường."
+   }
+  },
+  {
+   "id": "VN-H504-A24",
+   "no": 24,
+   "noLabel": {
+    "vi": "Điều 24"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Kiểm xạ khu vực làm việc"
+   },
+   "text": {
+    "vi": "Điều 24. Kiểm xạ khu vực làm việc\n\n1. Tổ chức, cá nhân tiến hành công việc bức xạ phải thực hiện thường xuyên và có hệ thống việc kiểm xạ khu vực làm việc, đo đạc các thông số cần thiết làm cơ sở cho việc đánh giá an toàn.\n\n2. Máy móc, thiết bị sử dụng cho việc kiểm xạ, đo đạc phải đáp ứng quy chuẩn kỹ thuật quốc gia, phải được bảo dưỡng, kiểm định, hiệu chuẩn định kỳ.\n\n3. Tổ chức, cá nhân tiến hành công việc bức xạ phải lập, cập nhật, bảo quản hồ sơ kiểm xạ, đo đạc và hồ sơ bảo dưỡng, kiểm định, hiệu chuẩn."
+   }
+  },
+  {
+   "id": "VN-H504-A25",
+   "no": 25,
+   "noLabel": {
+    "vi": "Điều 25"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Xử lý, lưu giữ chất thải phóng xạ, nguồn phóng xạ đã qua sử dụng và nhiên liệu hạt nhân đã qua sử dụng"
+   },
+   "text": {
+    "vi": "Điều 25. Xử lý, lưu giữ chất thải phóng xạ, nguồn phóng xạ đã qua sử dụng và nhiên liệu hạt nhân đã qua sử dụng\n\n1. Tổ chức, cá nhân có chất thải phóng xạ phải thực hiện các quy định sau đây:\n\na) Thực hiện các biện pháp nhằm giảm thiểu chất thải phóng xạ ngay tại nguồn phát sinh;\n\nb) Tách chất thải phóng xạ ra khỏi chất thải thường khi thu gom, xử lý;\n\nc) Có phương án phân loại và xử lý chất thải phóng xạ.\n\n2. Chất thải phóng xạ được xử lý bằng các giải pháp sau đây:\n\na) Lưu giữ để phân rã đối với chất thải phóng xạ có chu kỳ bán rã ngắn;\n\nb) Chôn cất chất thải phóng xạ, nếu việc chôn cất không ảnh hưởng đến sức khỏe con người, môi trường;\n\nc) Chuyển chất thải phóng xạ về dạng ít gây nguy hiểm cho con người, môi trường;\n\nd) Lưu giữ tạm thời trong điều kiện bảo đảm an toàn, an ninh chờ xử lý nếu không thể áp dụng các biện pháp quy định tại các điểm a, b và c khoản này.\n\n3. Tổ chức, cá nhân sử dụng nhiên liệu hạt nhân phải có phương án xử lý, lưu giữ nhiên liệu hạt nhân đã qua sử dụng trong điều kiện bảo đảm an toàn, an ninh.\n\n4. Tổ chức, cá nhân phải khai báo chất thải phóng xạ, nguồn phóng xạ đã qua sử dụng và nhiên liệu hạt nhân đã qua sử dụng do việc tiến hành công việc bức xạ sinh ra.\n\n5. Tổ chức, cá nhân phải xin cấp giấy phép thực hiện dịch vụ lưu giữ chất thải phóng xạ.\n\n6. Tổ chức, cá nhân chỉ được chôn cất chất thải phóng xạ khi được cơ quan nhà nước có thẩm quyền cấp giấy phép, báo cáo tình trạng chôn cất và lập bản đồ địa điểm chôn cất gửi cơ quan an toàn bức xạ và hạt nhân.\n\n7. Nhà nước đầu tư xây dựng kho lưu giữ chất thải phóng xạ quốc gia.\n\n8. Việc phân loại, xử lý chất thải phóng xạ, nguồn phóng xạ đã qua sử dụng, nhiên liệu hạt nhân đã qua sử dụng và việc lựa chọn địa điểm xây dựng kho lưu giữ chất thải phóng xạ quốc gia, lựa chọn địa điểm chôn cất chất thải phóng xạ được thực hiện theo quy chuẩn kỹ thuật quốc gia.\n\n9. Bộ Xây dựng phê duyệt địa điểm kho lưu giữ chất thải phóng xạ quốc gia, địa điểm chôn cất chất thải phóng xạ theo quy hoạch đã được phê duyệt và theo quy định của pháp luật về bảo vệ môi trường."
+   }
+  },
+  {
+   "id": "VN-H504-A26",
+   "no": 26,
+   "noLabel": {
+    "vi": "Điều 26"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Trách nhiệm của người đứng đầu tổ chức, cá nhân được cấp giấy phép tiến hành công việc bức xạ"
+   },
+   "text": {
+    "vi": "Điều 26. Trách nhiệm của người đứng đầu tổ chức, cá nhân được cấp giấy phép tiến hành công việc bức xạ\n\n1. Chịu trách nhiệm về an toàn, an ninh và thực hiện các quy định của Luật này đối với việc tiến hành công việc bức xạ.\n\n2. Bố trí người phụ trách an toàn theo quy định của Bộ Khoa học và Công nghệ; quy định trách nhiệm và quyền hạn của người phụ trách an toàn bằng văn bản.\n\n3. Thực hiện đầy đủ các quy định trong giấy phép.\n\n4. Xây dựng và tổ chức thực hiện nội quy, các chỉ dẫn về an toàn, an ninh.\n\n5. Bảo đảm điều kiện làm việc an toàn, tổ chức huấn luyện nghiệp vụ, tổ chức khám sức khỏe định kỳ và theo dõi liều chiếu xạ đối với nhân viên bức xạ.\n\n6. Tạo điều kiện cho kiểm tra viên, thanh tra viên thực hiện nhiệm vụ kiểm tra, thanh tra về an toàn, an ninh; cung cấp đầy đủ các thông tin cần thiết khi cơ quan nhà nước có thẩm quyền yêu cầu.\n\n7. Tổ chức kiểm xạ, kiểm soát chất thải phóng xạ, bảo đảm liều chiếu xạ không vượt quá liều giới hạn.\n\n8. Xây dựng và tổ chức thực hiện kế hoạch ứng phó sự cố cấp cơ sở."
+   }
+  },
+  {
+   "id": "VN-H504-A27",
+   "no": 27,
+   "noLabel": {
+    "vi": "Điều 27"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Trách nhiệm của nhân viên bức xạ"
+   },
+   "text": {
+    "vi": "Điều 27. Trách nhiệm của nhân viên bức xạ\n\n1. Nhân viên bức xạ là người làm việc trực tiếp với bức xạ, được đào tạo về chuyên môn, nghiệp vụ và nắm vững quy định của pháp luật về an toàn, có trách nhiệm chính sau đây:\n\na) Thực hiện quy định của pháp luật và tuân thủ quy chuẩn kỹ thuật quốc gia tương ứng, hướng dẫn về an toàn phù hợp với mỗi hoạt động trong lĩnh vực năng lượng nguyên tử;\n\nb) Sử dụng phương tiện theo dõi liều chiếu xạ và phương tiện bảo vệ khi tiến hành công việc bức xạ, khám sức khỏe định kỳ theo chỉ dẫn của người phụ trách an toàn; từ chối làm việc khi điều kiện bảo đảm an toàn không đầy đủ, trừ trường hợp tham gia khắc phục sự cố bức xạ, sự cố hạt nhân;\n\nc) Báo cáo ngay cho người phụ trách an toàn hiện tượng bất thường về an toàn, an ninh trong việc tiến hành công việc bức xạ;\n\nd) Thực hiện biện pháp khắc phục sự cố bức xạ, sự cố hạt nhân theo chỉ dẫn của người phụ trách an toàn.\n\n2. Người phụ trách an toàn là nhân viên bức xạ có chuyên môn, nghiệp vụ, nắm vững quy định của pháp luật về an toàn, có trách nhiệm chính sau đây:\n\na) Giúp người đứng đầu tổ chức, cá nhân được cấp giấy phép tiến hành công việc bức xạ thực hiện quy định tại các khoản 3, 4, 5, 6, 7 và 8 Điều 26 của Luật này;\n\nb) Giúp người đứng đầu tổ chức, cá nhân được cấp giấy phép tiến hành công việc bức xạ xây dựng và tổ chức thực hiện biện pháp kỹ thuật cần thiết để tuân thủ các điều kiện về an toàn, an ninh;\n\nc) Thường xuyên liên lạc với các cá nhân, bộ phận lưu giữ, sử dụng nguồn phóng xạ, vật liệu hạt nhân, thiết bị hạt nhân trong phạm vi trách nhiệm của mình; thực hiện tư vấn và hướng dẫn về bảo đảm an toàn; thường xuyên kiểm tra tình trạng an ninh nguồn phóng xạ, vật liệu hạt nhân, thiết bị hạt nhân;\n\nd) Báo cáo người đứng đầu tổ chức, cá nhân được cấp giấy phép tiến hành công việc bức xạ khi phát hiện có dấu hiệu bất thường về an toàn, an ninh, khi có sự cố bức xạ, sự cố hạt nhân;\n\nđ) Lập và lưu giữ hồ sơ liên quan đến an toàn, an ninh."
+   }
+  },
+  {
+   "id": "VN-H504-A28",
+   "no": 28,
+   "noLabel": {
+    "vi": "Điều 28"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Chứng chỉ nhân viên bức xạ"
+   },
+   "text": {
+    "vi": "Điều 28. Chứng chỉ nhân viên bức xạ\n\n1. Người đảm nhiệm một trong các công việc sau đây phải có chứng chỉ nhân viên bức xạ:\n\na) Kỹ sư trưởng lò phản ứng hạt nhân;\n\nb) Trưởng ca vận hành lò phản ứng hạt nhân;\n\nc) Người phụ trách an toàn;\n\nd) Người phụ trách tẩy xạ;\n\nđ) Người phụ trách ứng phó sự cố bức xạ, sự cố hạt nhân;\n\ne) Người quản lý nhiên liệu hạt nhân;\n\ng) Nhân viên vận hành lò phản ứng hạt nhân;\n\nh) Nhân viên vận hành máy gia tốc;\n\ni) Nhân viên vận hành thiết bị chiếu xạ sử dụng nguồn phóng xạ;\n\nk) Nhân viên sản xuất đồng vị phóng xạ;\n\nl) Nhân viên chụp ảnh phóng xạ công nghiệp.\n\n2. Người có đủ điều kiện sau đây được cấp chứng chỉ nhân viên bức xạ quy định tại khoản 1 Điều này:\n\na) Có đầy đủ năng lực hành vi dân sự;\n\nb) Có trình độ chuyên môn và kiến thức về an toàn phù hợp.\n\n3. Người được cấp chứng chỉ quy định tại khoản 1 Điều này phải thường xuyên cập nhật kiến thức liên quan."
+   }
+  },
+  {
+   "id": "VN-H504-A29",
+   "no": 29,
+   "noLabel": {
+    "vi": "Điều 29"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Hồ sơ an toàn bức xạ"
+   },
+   "text": {
+    "vi": "Điều 29. Hồ sơ an toàn bức xạ\n\n1. Tổ chức, cá nhân tiến hành công việc bức xạ phải lập, thường xuyên cập nhật, lưu giữ các hồ sơ sau đây:\n\na) Hồ sơ về nguồn phóng xạ, vật liệu hạt nhân, thiết bị bức xạ, thiết bị hạt nhân; các thay đổi, sửa chữa, nâng cấp thiết bị bức xạ, thiết bị hạt nhân;\n\nb) Hồ sơ kiểm xạ, đo đạc và hồ sơ bảo dưỡng, kiểm định, hiệu chuẩn;\n\nc) Nhật ký và hồ sơ về sự cố trong quá trình tiến hành công việc bức xạ;\n\nd) Hồ sơ đào tạo, hồ sơ sức khỏe và hồ sơ liều chiếu xạ của nhân viên bức xạ;\n\nđ) Kết luận thanh tra, kiểm tra và tài liệu về việc thực hiện yêu cầu của cơ quan có thẩm quyền.\n\n2. Tổ chức, cá nhân tiến hành công việc bức xạ phải trình các hồ sơ quy định tại khoản 1 Điều này cho cơ quan quản lý nhà nước có thẩm quyền khi được yêu cầu.\n\n3. Tổ chức, cá nhân tiến hành công việc bức xạ có trách nhiệm chuyển giao hồ sơ quy định tại khoản 1 Điều này theo quy định sau đây:\n\na) Hồ sơ được chuyển giao cho cơ quan an toàn bức xạ và hạt nhân, khi tổ chức, cá nhân tiến hành công việc bức xạ chấm dứt hoạt động;\n\nb) Hồ sơ quy định tại điểm a và điểm b khoản 1 Điều này được chuyển giao cho tổ chức, cá nhân sở hữu, sử dụng mới, khi nguồn phóng xạ, vật liệu hạt nhân, thiết bị bức xạ, thiết bị hạt nhân được chuyển giao cho tổ chức, cá nhân sở hữu, sử dụng mới;\n\nc) Hồ sơ quy định tại điểm c và điểm đ khoản 1 Điều này được chuyển giao cho cơ quan an toàn bức xạ và hạt nhân, khi nguồn phóng xạ, vật liệu hạt nhân, thiết bị bức xạ, thiết bị hạt nhân được chuyển giao cho tổ chức, cá nhân sở hữu, sử dụng mới;\n\nd) Hồ sơ quy định tại điểm d khoản 1 Điều này được chuyển giao cho tổ chức, cá nhân tiếp nhận nhân viên bức xạ, khi nhân viên bức xạ chuyển đi làm việc cho tổ chức, cá nhân mới."
+   }
+  },
+  {
+   "id": "VN-H504-A30",
+   "no": 30,
+   "noLabel": {
+    "vi": "Điều 30"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Xử lý tình huống nguồn phóng xạ, vật liệu hạt nhân, thiết bị hạt nhân bị thất lạc, bị chiếm đoạt, bị bỏ rơi, bị chuyển giao bất hợp pháp, chưa được khai báo"
+   },
+   "text": {
+    "vi": "Điều 30. Xử lý tình huống nguồn phóng xạ, vật liệu hạt nhân, thiết bị hạt nhân bị thất lạc, bị chiếm đoạt, bị bỏ rơi, bị chuyển giao bất hợp pháp, chưa được khai báo\n\n1. Tổ chức, cá nhân có nguồn phóng xạ, vật liệu hạt nhân, thiết bị hạt nhân bị thất lạc, bị chiếm đoạt phải báo cáo ngay cho Ủy ban nhân dân, cơ quan công an nơi gần nhất, cơ quan an toàn bức xạ và hạt nhân; chịu trách nhiệm phối hợp với cơ quan công an, cơ quan, tổ chức, cá nhân có liên quan tổ chức tìm kiếm, thu hồi nguồn phóng xạ, vật liệu hạt nhân, thiết bị hạt nhân bị thất lạc, bị chiếm đoạt.\n\n2. Tổ chức, cá nhân khi phát hiện nguồn phóng xạ, vật liệu hạt nhân, thiết bị hạt nhân bị thất lạc, bị chiếm đoạt, bị bỏ rơi, bị chuyển giao bất hợp pháp hoặc chưa được khai báo phải thông báo ngay cho Ủy ban nhân dân hoặc cơ quan công an nơi gần nhất hoặc cơ quan an toàn bức xạ và hạt nhân.\n\n3. Khi nhận được báo cáo hoặc thông báo quy định tại khoản 1 và khoản 2 Điều này, Ủy ban nhân dân, cơ quan công an, cơ quan an toàn bức xạ và hạt nhân có trách nhiệm sau đây:\n\na) Ủy ban nhân dân thông báo cho nhân dân địa phương biết để chủ động phòng, tránh bị chiếu xạ, tham gia cùng các cơ quan chức năng phát hiện, tìm kiếm nguồn phóng xạ, vật liệu hạt nhân, thiết bị hạt nhân bị thất lạc, bị chiếm đoạt, bị bỏ rơi, bị chuyển giao bất hợp pháp;\n\nb) Cơ quan công an chủ trì, phối hợp với cơ quan an toàn bức xạ và hạt nhân, các cơ quan, tổ chức, cá nhân có liên quan tìm kiếm, xác định chủ sở hữu, người quản lý nguồn phóng xạ, vật liệu hạt nhân, thiết bị hạt nhân bị thất lạc, bị chiếm đoạt, bị bỏ rơi;\n\nc) Cơ quan an toàn bức xạ và hạt nhân chủ trì, phối hợp với cơ quan, tổ chức, cá nhân có liên quan xử lý nguồn phóng xạ, vật liệu hạt nhân, thiết bị hạt nhân bị chuyển giao bất hợp pháp hoặc chưa được khai báo; xử lý nguồn phóng xạ, vật liệu hạt nhân, thiết bị hạt nhân bị thất lạc, bị chiếm đoạt, bị bỏ rơi đã được tìm thấy.\n\n4. Tổ chức, cá nhân là chủ sở hữu, lưu giữ nguồn phóng xạ, vật liệu hạt nhân, thiết bị hạt nhân phải chịu toàn bộ chi phí tìm kiếm và xử lý nguồn phóng xạ, vật liệu hạt nhân, thiết bị hạt nhân bị thất lạc, bị chiếm đoạt, bị bỏ rơi, bị chuyển giao bất hợp pháp; tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử lý hành chính hoặc bị truy cứu trách nhiệm hình sự."
+   }
+  },
+  {
+   "id": "VN-H504-A31",
+   "no": 31,
+   "noLabel": {
+    "vi": "Điều 31"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Lưu giữ và thanh lý vật thể bị nhiễm bẩn phóng xạ"
+   },
+   "text": {
+    "vi": "Điều 31. Lưu giữ và thanh lý vật thể bị nhiễm bẩn phóng xạ\n\n1. Vật thể bị nhiễm bẩn phóng xạ là vật thể có chất phóng xạ bám trên bề mặt hoặc trong thành phần của nó.\n\n2. Tổ chức, cá nhân có vật thể bị nhiễm bẩn phóng xạ có trách nhiệm sau đây:\n\na) Thực hiện các biện pháp lưu giữ, xử lý vật thể bị nhiễm bẩn phóng xạ như quy định đối với chất thải phóng xạ;\n\nb) Xin phép cơ quan an toàn bức xạ và hạt nhân thực hiện các biện pháp thanh lý vật thể bị nhiễm bẩn phóng xạ khi mức nhiễm bẩn phóng xạ thấp hơn hoặc bằng mức thanh lý. Khi được phép thanh lý, thì việc thanh lý vật thể bị nhiễm bẩn phóng xạ được thực hiện như loại bỏ chất thải thông thường."
+   }
+  },
+  {
+   "id": "VN-H504-A32",
+   "no": 32,
+   "noLabel": {
+    "vi": "Điều 32"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Hạn chế tác hại của chiếu xạ tự nhiên đối với con người"
+   },
+   "text": {
+    "vi": "Điều 32. Hạn chế tác hại của chiếu xạ tự nhiên đối với con người\n\n1. Chiếu xạ tự nhiên là chiếu xạ bởi bức xạ từ vũ trụ và các vật thể tự nhiên xung quanh.\n\n2. Bộ Tài nguyên và Môi trường, cơ quan an toàn bức xạ và hạt nhân có trách nhiệm xác định địa điểm có mức chiếu xạ tự nhiên có khả năng gây hại cho con người cần có sự can thiệp của cơ quan có thẩm quyền; tổ chức khảo sát, đánh giá khả năng gây hại; thông báo cho Ủy ban nhân dân cấp tỉnh phối hợp lập kế hoạch và triển khai thực hiện các biện pháp cần thiết nhằm giảm đến mức thấp nhất tác hại đối với con người."
+   }
+  },
+  {
+   "id": "VN-H504-A33",
+   "no": 33,
+   "noLabel": {
+    "vi": "Điều 33"
+   },
+   "chapter": {
+    "vi": "Chương III"
+   },
+   "heading": {
+    "vi": "Trách nhiệm quy định chi tiết về an toàn bức xạ, an toàn hạt nhân, an ninh các nguồn phóng xạ, vật liệu hạt nhân, cơ sở hạt nhân"
+   },
+   "text": {
+    "vi": "Điều 33. Trách nhiệm quy định chi tiết về an toàn bức xạ, an toàn hạt nhân, an ninh các nguồn phóng xạ, vật liệu hạt nhân, cơ sở hạt nhân\n\n1. Bộ Khoa học và Công nghệ có trách nhiệm quy định và hướng dẫn cụ thể các nội dung sau đây:\n\na) Liều giới hạn, kiểm soát chiếu xạ nghề nghiệp và kiểm soát chiếu xạ công chúng;\n\nb) Việc thực hiện nguyên tắc bảo vệ nhiều lớp;\n\nc) Việc thực hiện kiểm xạ khi tiến hành công việc bức xạ;\n\nd) Việc tẩy xạ sau khi kết thúc công việc bức xạ;\n\nđ) Những công việc bức xạ yêu cầu phải có người phụ trách an toàn;\n\ne) Chuyên môn, nghiệp vụ, yêu cầu đào tạo về an toàn đối với nhân viên bức xạ;\n\ng) Điều kiện, trình tự, thủ tục cấp chứng chỉ, thời hạn của chứng chỉ, việc gia hạn chứng chỉ nhân viên bức xạ và việc công nhận chứng chỉ nhân viên bức xạ do tổ chức nước ngoài cấp;\n\nh) Báo cáo tình trạng chôn cất và lập bản đồ địa điểm chôn cất chất thải phóng xạ;\n\ni) Nội dung hồ sơ an toàn bức xạ, thời gian lưu giữ đối với từng loại hồ sơ;\n\nk) Xử lý, lưu giữ chất thải phóng xạ, nguồn phóng xạ đã qua sử dụng và nhiên liệu hạt nhân đã qua sử dụng;\n\nl) Mức miễn trừ khai báo, cấp phép, mức thanh lý, thủ tục thẩm định, đánh giá, phê chuẩn và các biện pháp thanh lý nguồn phóng xạ, vật thể bị nhiễm bẩn phóng xạ;\n\nm) Việc xác định địa điểm có mức chiếu xạ tự nhiên có khả năng gây hại cho con người cần có sự can thiệp của cơ quan có thẩm quyền;\n\nn) Quy định về kho lưu giữ chất thải phóng xạ quốc gia, địa điểm chôn cất chất thải phóng xạ, an ninh và các vấn đề khác theo thẩm quyền.\n\n2. Bộ Y tế có trách nhiệm quy định và hướng dẫn cụ thể các nội dung sau đây:\n\na) Kiểm tra sức khỏe định kỳ đối với nhân viên bức xạ;\n\nb) Mức chỉ dẫn liều chiếu xạ đối với bệnh nhân và kiểm soát chiếu xạ y tế.\n\n3. Bộ Lao động – Thương binh và Xã hội chủ trì, phối hợp với bộ, ngành có liên quan quy định và hướng dẫn cụ thể về tiền lương, thời giờ làm việc, thời giờ nghỉ ngơi, phụ cấp nghề nghiệp, chế độ đặc thù khác đối với nhân viên bức xạ và người làm việc trong môi trường có độc hại phóng xạ.\n\nChương IV\n\nCƠ SỞ BỨC XẠ"
+   }
+  },
+  {
+   "id": "VN-H504-A34",
+   "no": 34,
+   "noLabel": {
+    "vi": "Điều 34"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Cơ sở bức xạ và thiết kế cơ sở bức xạ"
+   },
+   "text": {
+    "vi": "Điều 34. Cơ sở bức xạ và thiết kế cơ sở bức xạ\n\n1. Các loại cơ sở bức xạ bao gồm:\n\na) Cơ sở vận hành máy gia tốc;\n\nb) Cơ sở xạ trị;\n\nc) Cơ sở chiếu xạ khử trùng, chiếu xạ xử lý vật liệu;\n\nd) Cơ sở sản xuất, chế biến chất phóng xạ;\n\nđ) Kho lưu giữ chất thải phóng xạ quốc gia; cơ sở lưu giữ, xử lý, chôn cất chất thải có hoạt độ phóng xạ lớn hơn mười nghìn lần mức miễn trừ khai báo.\n\n2. Việc xây dựng, thay đổi quy mô và phạm vi hoạt động của cơ sở bức xạ phải có thiết kế phù hợp với quy chuẩn kỹ thuật quốc gia."
+   }
+  },
+  {
+   "id": "VN-H504-A35",
+   "no": 35,
+   "noLabel": {
+    "vi": "Điều 35"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Báo cáo phân tích an toàn và báo cáo đánh giá an toàn đối với cơ sở bức xạ"
+   },
+   "text": {
+    "vi": "Điều 35. Báo cáo phân tích an toàn và báo cáo đánh giá an toàn đối với cơ sở bức xạ\n\n1. Cơ sở bức xạ phải lập báo cáo phân tích an toàn khi xin cấp giấy phép xây dựng, thay đổi quy mô và phạm vi hoạt động, chấm dứt hoạt động.\n\n2. Cơ sở bức xạ phải lập báo cáo đánh giá an toàn khi xin cấp hoặc cấp lại giấy phép tiến hành công việc bức xạ khác quy định tại Điều 18 của Luật này.\n\n3. Nội dung báo cáo phân tích an toàn khi xin cấp giấy phép xây dựng bao gồm:\n\na) Thiết kế, chế tạo;\n\nb) Dự kiến kế hoạch lắp đặt, vận hành thử, nghiệm thu;\n\nc) Phân tích an toàn khi đưa cơ sở vào vận hành;\n\nd) Dự kiến kế hoạch chấm dứt hoạt động, tháo dỡ, tẩy xạ.\n\n4. Nội dung báo cáo phân tích an toàn khi xin cấp giấy phép thay đổi quy mô và phạm vi hoạt động bao gồm:\n\na) Lý do thay đổi quy mô và phạm vi hoạt động;\n\nb) Thiết kế, chế tạo;\n\nc) Dự kiến kế hoạch lắp đặt, vận hành thử, nghiệm thu;\n\nd) Phân tích an toàn khi đưa cơ sở vào vận hành;\n\nđ) Dự kiến kế hoạch chấm dứt hoạt động, tháo dỡ, tẩy xạ.\n\n5. Nội dung báo cáo phân tích an toàn khi xin cấp giấy phép chấm dứt hoạt động bao gồm:\n\na) Lý do chấm dứt hoạt động;\n\nb) Kế hoạch tháo dỡ, tẩy xạ;\n\nc) Kế hoạch xử lý nguồn bức xạ, chất thải phóng xạ.\n\n6. Báo cáo đánh giá an toàn được lập cho từng công việc bức xạ theo quy định tại Điều 19 của Luật này."
+   }
+  },
+  {
+   "id": "VN-H504-A36",
+   "no": 36,
+   "noLabel": {
+    "vi": "Điều 36"
+   },
+   "chapter": {
+    "vi": "Chương IV"
+   },
+   "heading": {
+    "vi": "Tháo dỡ, tẩy xạ cơ sở bức xạ"
+   },
+   "text": {
+    "vi": "Điều 36. Tháo dỡ, tẩy xạ cơ sở bức xạ\n\n1. Khi chấm dứt hoạt động, cơ sở bức xạ phải trình cơ quan an toàn bức xạ và hạt nhân phê duyệt kế hoạch tháo dỡ, tẩy xạ, xử lý nguồn bức xạ, chất thải phóng xạ và tổ chức thực hiện kế hoạch đã được phê duyệt.\n\n2. Cơ quan an toàn bức xạ và hạt nhân tổ chức kiểm tra việc tháo dỡ, tẩy xạ, xử lý nguồn bức xạ, chất thải phóng xạ và ra quyết định công nhận cơ sở bức xạ đã hết trách nhiệm bảo đảm an toàn.\n\n3. Cơ sở bức xạ phải chịu mọi chi phí tháo dỡ và chi phí lưu giữ, xử lý chất thải phóng xạ sinh ra do quá trình tháo dỡ.\n\n4. Việc tháo dỡ, tẩy xạ, xử lý nguồn bức xạ, chất thải phóng xạ được thực hiện theo quy chuẩn kỹ thuật quốc gia.\n\n5. Bộ Khoa học và Công nghệ quy định trình tự, thủ tục thẩm định và phê duyệt kế hoạch tháo dỡ, tẩy xạ, xử lý nguồn bức xạ, chất thải phóng xạ đối với cơ sở bức xạ.\n\nChương V\n\nCƠ SỞ HẠT NHÂN\n\nMục 1\n\nQUY ĐỊNH CHUNG VỀ CƠ SỞ HẠT NHÂN"
+   }
+  },
+  {
+   "id": "VN-H504-A37",
+   "no": 37,
+   "noLabel": {
+    "vi": "Điều 37"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Cơ sở hạt nhân và thiết kế cơ sở hạt nhân"
+   },
+   "text": {
+    "vi": "Điều 37. Cơ sở hạt nhân và thiết kế cơ sở hạt nhân\n\n1. Các loại cơ sở hạt nhân bao gồm:\n\na) Lò phản ứng hạt nhân nghiên cứu;\n\nb) Nhà máy điện hạt nhân;\n\nc) Cơ sở làm giàu urani, chế tạo nhiên liệu hạt nhân;\n\nd) Cơ sở lưu giữ, xử lý, chôn cất nhiên liệu hạt nhân đã qua sử dụng.\n\n2. Việc xây dựng, thay đổi quy mô và phạm vi hoạt động của cơ sở hạt nhân phải có thiết kế phù hợp với quy chuẩn kỹ thuật quốc gia.\n\nBộ Khoa học và Công nghệ tổ chức thẩm định thiết kế cơ sở hạt nhân, trừ tổ chức thẩm định thiết kế nhà máy điện hạt nhân."
+   }
+  },
+  {
+   "id": "VN-H504-A38",
+   "no": 38,
+   "noLabel": {
+    "vi": "Điều 38"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Phê duyệt địa điểm xây dựng cơ sở hạt nhân"
+   },
+   "text": {
+    "vi": "Điều 38. Phê duyệt địa điểm xây dựng cơ sở hạt nhân\n\n1. Địa điểm xây dựng cơ sở hạt nhân phải được phê duyệt trước khi xin cấp giấy phép xây dựng hoặc đồng thời với việc xin cấp giấy phép xây dựng. Hồ sơ đề nghị phê duyệt địa điểm xây dựng bao gồm các tài liệu sau đây:\n\na) Đơn đề nghị phê duyệt địa điểm;\n\nb) Báo cáo tổng quan về việc lựa chọn địa điểm;\n\nc) Thiết kế sơ bộ cơ sở hạt nhân;\n\nd) Báo cáo đánh giá tác động môi trường;\n\nđ) Kết quả thẩm định báo cáo đánh giá tác động môi trường;\n\ne) Báo cáo phân tích an toàn sơ bộ;\n\ng) Báo cáo thẩm định an toàn;\n\nh) Kế hoạch kiểm xạ môi trường đất, không khí, nước dưới đất và nước mặt trong vùng bị ảnh hưởng khi cơ sở hoạt động.\n\n2. Việc lựa chọn địa điểm xây dựng cơ sở hạt nhân phải căn cứ vào quy chuẩn kỹ thuật quốc gia.\n\n3. Bộ Khoa học và Công nghệ phê duyệt địa điểm xây dựng cơ sở hạt nhân, trừ địa điểm xây dựng nhà máy điện hạt nhân."
+   }
+  },
+  {
+   "id": "VN-H504-A39",
+   "no": 39,
+   "noLabel": {
+    "vi": "Điều 39"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Báo cáo phân tích an toàn và báo cáo đánh giá an toàn đối với cơ sở hạt nhân"
+   },
+   "text": {
+    "vi": "Điều 39. Báo cáo phân tích an toàn và báo cáo đánh giá an toàn đối với cơ sở hạt nhân\n\n1. Cơ sở hạt nhân phải lập báo cáo phân tích an toàn khi xin cấp giấy phép xây dựng, thay đổi quy mô và phạm vi hoạt động, chấm dứt hoạt động, vận hành lò phản ứng hạt nhân nghiên cứu và vận hành nhà máy điện hạt nhân.\n\n2. Cơ sở hạt nhân phải lập báo cáo đánh giá an toàn khi xin cấp hoặc cấp lại giấy phép tiến hành công việc bức xạ khác quy định tại Điều 18 của Luật này, trừ vận hành lò phản ứng hạt nhân nghiên cứu và vận hành nhà máy điện hạt nhân.\n\n3. Bộ Khoa học và Công nghệ quy định cụ thể nội dung báo cáo phân tích an toàn và báo cáo đánh giá an toàn đối với cơ sở hạt nhân."
+   }
+  },
+  {
+   "id": "VN-H504-A40",
+   "no": 40,
+   "noLabel": {
+    "vi": "Điều 40"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Tháo dỡ, tẩy xạ cơ sở hạt nhân, xử lý nhiên liệu hạt nhân, thiết bị hạt nhân, chất thải phóng xạ"
+   },
+   "text": {
+    "vi": "Điều 40. Tháo dỡ, tẩy xạ cơ sở hạt nhân, xử lý nhiên liệu hạt nhân, thiết bị hạt nhân, chất thải phóng xạ\n\n1. Khi chấm dứt hoạt động, cơ sở hạt nhân phải trình cơ quan an toàn bức xạ và hạt nhân phê duyệt kế hoạch tháo dỡ, tẩy xạ, xử lý nhiên liệu hạt nhân, thiết bị hạt nhân, chất thải phóng xạ và tổ chức thực hiện kế hoạch đã được phê duyệt.\n\n2. Cơ quan an toàn bức xạ và hạt nhân tổ chức kiểm tra việc tháo dỡ, tẩy xạ, xử lý nhiên liệu hạt nhân, thiết bị hạt nhân, chất thải phóng xạ và ra quyết định công nhận cơ sở hạt nhân đã hết trách nhiệm bảo đảm an toàn.\n\n3. Cơ sở hạt nhân phải chịu mọi chi phí tháo dỡ và chi phí lưu giữ, xử lý chất thải phóng xạ sinh ra từ quá trình tháo dỡ.\n\n4. Việc tháo dỡ, tẩy xạ, xử lý nhiên liệu hạt nhân, thiết bị hạt nhân, chất thải phóng xạ được thực hiện theo quy chuẩn kỹ thuật quốc gia.\n\n5. Bộ Khoa học và Công nghệ quy định trình tự, thủ tục thẩm định và phê duyệt kế hoạch tháo dỡ, tẩy xạ, xử lý nhiên liệu hạt nhân, thiết bị hạt nhân, chất thải phóng xạ đối với cơ sở hạt nhân.\n\nMục 2\n\nLÒ PHẢN ỨNG HẠT NHÂN NGHIÊN CỨU"
+   }
+  },
+  {
+   "id": "VN-H504-A41",
+   "no": 41,
+   "noLabel": {
+    "vi": "Điều 41"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Xây dựng và vận hành lò phản ứng hạt nhân nghiên cứu"
+   },
+   "text": {
+    "vi": "Điều 41. Xây dựng và vận hành lò phản ứng hạt nhân nghiên cứu\n\n1. Hồ sơ đề nghị cho phép xây dựng lò phản ứng hạt nhân nghiên cứu bao gồm:\n\na) Đơn xin cấp giấy phép xây dựng;\n\nb) Thiết kế chi tiết lò phản ứng hạt nhân và các công trình có liên quan;\n\nc) Báo cáo đánh giá tác động môi trường;\n\nd) Kết quả thẩm định báo cáo đánh giá tác động môi trường;\n\nđ) Báo cáo phân tích an toàn;\n\ne) Quy trình bảo đảm chất lượng liên quan đến việc xây dựng;\n\ng) Kế hoạch tháo dỡ lò phản ứng hạt nhân;\n\nh) Báo cáo thẩm định an toàn;\n\ni) Tài liệu khác có liên quan.\n\n2. Lò phản ứng hạt nhân nghiên cứu phải có giấy phép vận hành thử trước khi nạp nhiên liệu vào lò phản ứng.\n\n3. Việc vận hành thử lò phản ứng hạt nhân nghiên cứu phải được thực hiện ở các mức công suất thấp đồng thời với việc kiểm tra các chỉ tiêu kỹ thuật, giới hạn vận hành và nâng dần công suất lên mức thiết kế. Tổ chức có lò phản ứng hạt nhân nghiên cứu phải lập báo cáo vận hành thử và báo cáo phân tích an toàn của lò phản ứng hạt nhân, giải trình rõ các thay đổi về chỉ tiêu kỹ thuật, giới hạn vận hành so với thiết kế khi xin cấp giấy phép xây dựng, gửi cơ quan an toàn bức xạ và hạt nhân.\n\n4. Cơ quan an toàn bức xạ và hạt nhân thẩm định báo cáo kết quả vận hành thử và báo cáo phân tích an toàn của lò phản ứng hạt nhân nghiên cứu, đề xuất với Bộ Khoa học và Công nghệ về việc cấp giấy phép vận hành chính thức lò phản ứng hạt nhân nghiên cứu.\n\n5. Bộ Khoa học và Công nghệ cấp giấy phép xây dựng và giấy phép vận hành lò phản ứng hạt nhân nghiên cứu."
+   }
+  },
+  {
+   "id": "VN-H504-A42",
+   "no": 42,
+   "noLabel": {
+    "vi": "Điều 42"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Kiểm tra an toàn đối với xây dựng, thay đổi quy mô và phạm vi hoạt động của lò phản ứng hạt nhân nghiên cứu"
+   },
+   "text": {
+    "vi": "Điều 42. Kiểm tra an toàn đối với xây dựng, thay đổi quy mô và phạm vi hoạt động của lò phản ứng hạt nhân nghiên cứu\n\n1. Cơ quan an toàn bức xạ và hạt nhân tổ chức kiểm tra an toàn đối với việc xây dựng, thay đổi quy mô và phạm vi hoạt động của lò phản ứng hạt nhân nghiên cứu và có quyền yêu cầu chủ đầu tư tạm dừng hoặc tạm đình chỉ thi công nếu phát hiện những điểm không phù hợp với thiết kế và phải chịu trách nhiệm trước pháp luật về quyết định của mình.\n\n2. Cơ quan an toàn bức xạ và hạt nhân khi thực hiện kiểm tra theo quy định tại khoản 1 Điều này có quyền yêu cầu chủ đầu tư cung cấp các tài liệu và báo cáo về các nội dung sau đây:\n\na) Năng lực, trình độ chuyên môn, nghiệp vụ của tổ chức, cá nhân chịu trách nhiệm thi công và tổ chức, cá nhân chịu trách nhiệm giám sát thi công;\n\nb) Thời gian nghiệm thu từng công đoạn xây dựng;\n\nc) Việc chấp hành các quy định về an toàn đối với xây dựng lò phản ứng hạt nhân nghiên cứu.\n\n3. Chủ đầu tư, tổ chức, cá nhân chịu trách nhiệm thi công phải tạo điều kiện để cơ quan quản lý nhà nước có thẩm quyền kiểm tra tại chỗ về việc tuân thủ thiết kế đã được phê duyệt."
+   }
+  },
+  {
+   "id": "VN-H504-A43",
+   "no": 43,
+   "noLabel": {
+    "vi": "Điều 43"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Kiểm tra lắp đặt, vận hành thử, nghiệm thu an toàn đối với lò phản ứng hạt nhân nghiên cứu"
+   },
+   "text": {
+    "vi": "Điều 43. Kiểm tra lắp đặt, vận hành thử, nghiệm thu an toàn đối với lò phản ứng hạt nhân nghiên cứu\n\n1. Cơ quan an toàn bức xạ và hạt nhân tổ chức kiểm tra an toàn đối với việc lắp đặt, vận hành thử, nghiệm thu lò phản ứng hạt nhân nghiên cứu.\n\nViệc kiểm tra lắp đặt, vận hành thử được thực hiện cho từng hạng mục công trình, có kết luận nghiệm thu sơ bộ trước khi cho phép vận hành thử công đoạn tiếp theo, vận hành thử toàn bộ hệ thống và nghiệm thu.\n\n2. Cơ quan an toàn bức xạ và hạt nhân tổ chức kiểm tra theo quy định tại khoản 1 Điều này có quyền yêu cầu chủ đầu tư xây dựng cung cấp tài liệu và báo cáo về các nội dung sau đây:\n\na) Quy trình và lịch trình lắp đặt, vận hành thử, nghiệm thu;\n\nb) Việc chấp hành quy định về an toàn đối với lắp đặt, vận hành thử, nghiệm thu.\n\n3. Việc nghiệm thu tổng thể đối với lò phản ứng hạt nhân nghiên cứu chỉ được thực hiện khi các hạng mục công trình đã được nghiệm thu."
+   }
+  },
+  {
+   "id": "VN-H504-A44",
+   "no": 44,
+   "noLabel": {
+    "vi": "Điều 44"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Bảo vệ, quan trắc phóng xạ môi trường đối với lò phản ứng hạt nhân nghiên cứu"
+   },
+   "text": {
+    "vi": "Điều 44. Bảo vệ, quan trắc phóng xạ môi trường đối với lò phản ứng hạt nhân nghiên cứu\n\n1. Tổ chức có lò phản ứng hạt nhân nghiên cứu phải thực hiện các quy định sau đây:\n\na) Tổ chức bảo vệ nghiêm ngặt, kiểm soát chặt chẽ việc ra vào khu vực lò phản ứng hạt nhân;\n\nb) Thiết lập khu vực hạn chế người qua lại, khu vực bảo vệ an toàn xung quanh lò phản ứng hạt nhân;\n\nc) Tiến hành quan trắc phóng xạ môi trường nơi có lò phản ứng hạt nhân, báo cáo cơ quan an toàn bức xạ và hạt nhân kết quả quan trắc định kỳ sáu tháng một lần và báo cáo ngay khi phát hiện kết quả quan trắc bất thường.\n\n2. Việc bảo vệ lò phản ứng hạt nhân nghiên cứu được thực hiện theo quy định của pháp luật đối với công trình quan trọng liên quan đến an ninh quốc gia.\n\nMục 3\n\nNHÀ MÁY ĐIỆN HẠT NHÂN"
+   }
+  },
+  {
+   "id": "VN-H504-A45",
+   "no": 45,
+   "noLabel": {
+    "vi": "Điều 45"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Yêu cầu đối với nhà máy điện hạt nhân"
+   },
+   "text": {
+    "vi": "Điều 45. Yêu cầu đối với nhà máy điện hạt nhân\n\n1. Nhà máy điện hạt nhân là tổ hợp công trình bao gồm lò phản ứng hạt nhân và các công trình liên quan khác.\n\n2. Việc đầu tư xây dựng nhà máy điện hạt nhân phải theo quy hoạch phát triển điện hạt nhân đã được Thủ tướng Chính phủ phê duyệt.\n\n3. Việc lựa chọn, phê duyệt địa điểm, thiết kế, xây dựng, lắp đặt, vận hành và bảo đảm an toàn nhà máy điện hạt nhân phải tuân thủ quy định của Luật này và các quy định khác của pháp luật có liên quan."
+   }
+  },
+  {
+   "id": "VN-H504-A46",
+   "no": 46,
+   "noLabel": {
+    "vi": "Điều 46"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Quyết định chủ trương đầu tư xây dựng nhà máy điện hạt nhân"
+   },
+   "text": {
+    "vi": "Điều 46. Quyết định chủ trương đầu tư xây dựng nhà máy điện hạt nhân\n\n1. Chính phủ trình Quốc hội xem xét, quyết định chủ trương đầu tư xây dựng nhà máy điện hạt nhân.\n\n2. Hồ sơ dự án nhà máy điện hạt nhân trình Quốc hội bao gồm:\n\na) Tờ trình của Chính phủ;\n\nb) Báo cáo tiền khả thi (báo cáo đầu tư);\n\nc) Báo cáo của Hội đồng thẩm định nhà nước;\n\nd) Tài liệu khác có liên quan."
+   }
+  },
+  {
+   "id": "VN-H504-A47",
+   "no": 47,
+   "noLabel": {
+    "vi": "Điều 47"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Địa điểm xây dựng nhà máy điện hạt nhân"
+   },
+   "text": {
+    "vi": "Điều 47. Địa điểm xây dựng nhà máy điện hạt nhân\n\n1. Địa điểm xây dựng nhà máy điện hạt nhân phải đáp ứng các yêu cầu cơ bản sau đây:\n\na) Bảo đảm an toàn cho dân cư trên địa bàn;\n\nb) Bảo đảm an toàn cho hoạt động của nhà máy điện hạt nhân có tính tới các yếu tố địa chất, thủy văn, thiên tai, giao thông và các yếu tố khác;\n\nc) Bảo đảm an ninh cho hoạt động của nhà máy điện hạt nhân;\n\nd) Giảm thiểu hậu quả khi xảy ra sự cố.\n\n2. Hồ sơ trình Thủ tướng Chính phủ phê duyệt địa điểm bao gồm:\n\na) Đơn đề nghị phê duyệt địa điểm;\n\nb) Báo cáo tổng quan về việc lựa chọn địa điểm;\n\nc) Thiết kế sơ bộ nhà máy điện hạt nhân;\n\nd) Báo cáo đánh giá tác động môi trường;\n\nđ) Kết quả thẩm định báo cáo đánh giá tác động môi trường;\n\ne) Báo cáo phân tích an toàn sơ bộ;\n\ng) Báo cáo thẩm định an toàn;\n\nh) Kế hoạch kiểm xạ môi trường đất, không khí, nước dưới đất và nước mặt trong vùng bị ảnh hưởng khi vận hành nhà máy điện hạt nhân;\n\ni) Báo cáo của Hội đồng thẩm định nhà nước;\n\nk) Nghị quyết của Hội đồng nhân dân cấp tỉnh nơi dự kiến địa điểm xây dựng nhà máy điện hạt nhân thể hiện ý kiến nhân dân về các biện pháp bảo đảm an toàn, an ninh, chính sách đầu tư xây dựng hạ tầng kỹ thuật, phát triển văn hóa, giáo dục, phúc lợi xã hội nhằm bảo đảm hài hòa lợi ích của Nhà nước, nhà đầu tư và dân cư trên địa bàn;\n\nl) Tài liệu khác có liên quan."
+   }
+  },
+  {
+   "id": "VN-H504-A48",
+   "no": 48,
+   "noLabel": {
+    "vi": "Điều 48"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Dự án đầu tư xây dựng nhà máy điện hạt nhân"
+   },
+   "text": {
+    "vi": "Điều 48. Dự án đầu tư xây dựng nhà máy điện hạt nhân\n\n1. Dự án đầu tư xây dựng nhà máy điện hạt nhân phải được lập, thẩm định, phê duyệt theo quy định của pháp luật về xây dựng, pháp luật về đầu tư và pháp luật về đấu thầu.\n\n2. Ngoài quy định tại khoản 1 Điều này, hồ sơ dự án đầu tư xây dựng nhà máy điện hạt nhân do chủ đầu tư trình Thủ tướng Chính phủ phê duyệt phải có các tài liệu sau đây:\n\na) Đơn đề nghị cho phép đầu tư xây dựng;\n\nb) Thiết kế chi tiết nhà máy điện hạt nhân;\n\nc) Báo cáo đánh giá tác động môi trường;\n\nd) Kết quả thẩm định báo cáo đánh giá tác động môi trường;\n\nđ) Báo cáo phân tích an toàn;\n\ne) Quy trình bảo đảm chất lượng liên quan đến việc xây dựng;\n\ng) Kế hoạch tháo dỡ nhà máy điện hạt nhân và việc bảo đảm tài chính cho tháo dỡ nhà máy điện hạt nhân, quản lý nhiên liệu hạt nhân đã qua sử dụng, quản lý chất thải phóng xạ;\n\nh) Báo cáo thẩm định an toàn;\n\ni) Báo cáo của Hội đồng thẩm định nhà nước;\n\nk) Tài liệu khác có liên quan."
+   }
+  },
+  {
+   "id": "VN-H504-A49",
+   "no": 49,
+   "noLabel": {
+    "vi": "Điều 49"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Thi công xây dựng nhà máy điện hạt nhân"
+   },
+   "text": {
+    "vi": "Điều 49. Thi công xây dựng nhà máy điện hạt nhân\n\n1. Việc thi công xây dựng nhà máy điện hạt nhân chỉ được tiến hành sau khi được Thủ tướng Chính phủ phê duyệt địa điểm và dự án đầu tư quy định tại Điều 47 và Điều 48 của Luật này.\n\n2. Chủ đầu tư và tổ chức thi công xây dựng nhà máy điện hạt nhân phải tuân thủ quy chuẩn kỹ thuật quốc gia, bảo đảm an toàn hạt nhân theo quy định của Luật này và các quy định khác của pháp luật có liên quan."
+   }
+  },
+  {
+   "id": "VN-H504-A50",
+   "no": 50,
+   "noLabel": {
+    "vi": "Điều 50"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Vận hành nhà máy điện hạt nhân"
+   },
+   "text": {
+    "vi": "Điều 50. Vận hành nhà máy điện hạt nhân\n\n1. Nhà máy điện hạt nhân phải có giấy phép vận hành thử trước khi nạp nhiên liệu vào lò phản ứng hạt nhân.\n\n2. Việc vận hành thử nhà máy điện hạt nhân phải được thực hiện ở các mức công suất thấp đồng thời với việc kiểm tra các chỉ tiêu kỹ thuật, giới hạn vận hành và nâng dần công suất lên mức thiết kế. Tổ chức có nhà máy điện hạt nhân phải lập báo cáo vận hành thử và báo cáo phân tích an toàn của nhà máy điện hạt nhân, giải trình rõ các thay đổi về chỉ tiêu kỹ thuật, giới hạn vận hành so với thiết kế khi xin cấp giấy phép xây dựng, gửi cơ quan an toàn bức xạ và hạt nhân.\n\n3. Cơ quan an toàn bức xạ và hạt nhân thẩm định báo cáo kết quả vận hành thử và báo cáo phân tích an toàn của nhà máy điện hạt nhân, đề xuất về việc cấp giấy phép vận hành chính thức nhà máy điện hạt nhân trình Hội đồng an toàn hạt nhân quốc gia đánh giá kết quả thẩm định."
+   }
+  },
+  {
+   "id": "VN-H504-A51",
+   "no": 51,
+   "noLabel": {
+    "vi": "Điều 51"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Kiểm tra an toàn đối với xây dựng, thay đổi quy mô và phạm vi hoạt động, lắp đặt, vận hành thử, nghiệm thu an toàn lò phản ứng hạt nhân của nhà máy điện hạt nhân"
+   },
+   "text": {
+    "vi": "Điều 51. Kiểm tra an toàn đối với xây dựng, thay đổi quy mô và phạm vi hoạt động, lắp đặt, vận hành thử, nghiệm thu an toàn lò phản ứng hạt nhân của nhà máy điện hạt nhân\n\n1. Việc kiểm tra an toàn đối với xây dựng, thay đổi quy mô và phạm vi hoạt động, lắp đặt, vận hành thử, nghiệm thu an toàn lò phản ứng hạt nhân của nhà máy điện hạt nhân được thực hiện theo quy định tại Điều 42 và Điều 43 của Luật này.\n\n2. Cơ quan an toàn bức xạ và hạt nhân có trách nhiệm báo cáo Hội đồng an toàn hạt nhân quốc gia kết quả kiểm tra an toàn quy định tại khoản 1 Điều này."
+   }
+  },
+  {
+   "id": "VN-H504-A52",
+   "no": 52,
+   "noLabel": {
+    "vi": "Điều 52"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Bảo vệ, quan trắc phóng xạ môi trường đối với nhà máy điện hạt nhân"
+   },
+   "text": {
+    "vi": "Điều 52. Bảo vệ, quan trắc phóng xạ môi trường đối với nhà máy điện hạt nhân\n\nViệc bảo vệ, quan trắc phóng xạ môi trường đối với nhà máy điện hạt nhân được thực hiện theo quy định tại Điều 44 của Luật này."
+   }
+  },
+  {
+   "id": "VN-H504-A53",
+   "no": 53,
+   "noLabel": {
+    "vi": "Điều 53"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Kiểm tra thường xuyên tình trạng an toàn, an ninh của nhà máy điện hạt nhân"
+   },
+   "text": {
+    "vi": "Điều 53. Kiểm tra thường xuyên tình trạng an toàn, an ninh của nhà máy điện hạt nhân\n\n1. Cơ quan an toàn bức xạ và hạt nhân thành lập văn phòng kiểm tra đặt tại nhà máy điện hạt nhân, làm nhiệm vụ kiểm tra thường xuyên tình trạng an toàn, an ninh của nhà máy điện hạt nhân.\n\n2. Tổ chức có nhà máy điện hạt nhân có trách nhiệm tạo điều kiện cho cơ quan an toàn bức xạ và hạt nhân thực hiện việc kiểm tra quy định tại khoản 1 Điều này."
+   }
+  },
+  {
+   "id": "VN-H504-A54",
+   "no": 54,
+   "noLabel": {
+    "vi": "Điều 54"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Báo cáo thực trạng an toàn nhà máy điện hạt nhân"
+   },
+   "text": {
+    "vi": "Điều 54. Báo cáo thực trạng an toàn nhà máy điện hạt nhân\n\n1. Tổ chức có nhà máy điện hạt nhân phải lập báo cáo thực trạng an toàn bao gồm các nội dung quy định tại khoản 2 Điều 20 của Luật này gửi cơ quan an toàn bức xạ và hạt nhân theo quy định sau đây:\n\na) Báo cáo định kỳ hằng năm hoặc khi có yêu cầu của cơ quan an toàn bức xạ và hạt nhân;\n\nb) Báo cáo tổng thể định kỳ mười năm một lần.\n\n2. Báo cáo tổng thể quy định tại điểm b khoản 1 Điều này phải đề xuất thời gian cho phép nhà máy được tiếp tục vận hành."
+   }
+  },
+  {
+   "id": "VN-H504-A55",
+   "no": 55,
+   "noLabel": {
+    "vi": "Điều 55"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Xử lý kết quả kiểm tra, đánh giá an toàn nhà máy điện hạt nhân"
+   },
+   "text": {
+    "vi": "Điều 55. Xử lý kết quả kiểm tra, đánh giá an toàn nhà máy điện hạt nhân\n\n1. Khi phát hiện sai sót về an toàn, an ninh, cơ quan an toàn bức xạ và hạt nhân có quyền yêu cầu nhà máy điện hạt nhân có biện pháp khắc phục; trường hợp vi phạm nghiêm trọng quy định về an toàn, an ninh thì kiến nghị với cơ quan nhà nước có thẩm quyền đình chỉ hoạt động của nhà máy.\n\n2. Căn cứ báo cáo tổng thể quy định tại điểm b khoản 1 Điều 54 của Luật này, báo cáo thẩm định an toàn của cơ quan an toàn bức xạ và hạt nhân, cơ quan nhà nước có thẩm quyền xem xét việc gia hạn giấy phép vận hành nhà máy điện hạt nhân."
+   }
+  },
+  {
+   "id": "VN-H504-A56",
+   "no": 56,
+   "noLabel": {
+    "vi": "Điều 56"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Trách nhiệm bảo đảm nguồn nhân lực của tổ chức có nhà máy điện hạt nhân"
+   },
+   "text": {
+    "vi": "Điều 56. Trách nhiệm bảo đảm nguồn nhân lực của tổ chức có nhà máy điện hạt nhân\n\n1. Bảo đảm nguồn nhân lực đủ trình độ và kỹ năng cần thiết nhằm thực hiện an toàn việc vận hành nhà máy điện hạt nhân, quản lý nhiên liệu hạt nhân, lưu giữ và xử lý chất thải phóng xạ, tháo dỡ nhà máy điện hạt nhân.\n\n2. Tổ chức đào tạo và đào tạo lại nhân viên vận hành nhà máy điện hạt nhân.\n\n3. Bổ nhiệm người có đủ điều kiện vào các chức danh kỹ sư trưởng, trưởng ca vận hành, người quản lý nhiên liệu hạt nhân, người phụ trách an toàn."
+   }
+  },
+  {
+   "id": "VN-H504-A57",
+   "no": 57,
+   "noLabel": {
+    "vi": "Điều 57"
+   },
+   "chapter": {
+    "vi": "Chương V"
+   },
+   "heading": {
+    "vi": "Công tác thông tin đại chúng"
+   },
+   "text": {
+    "vi": "Điều 57. Công tác thông tin đại chúng\n\nBộ Công thương chủ trì, phối hợp với Bộ Khoa học và Công nghệ, Bộ Thông tin và Truyền thông, Ủy ban nhân dân cấp tỉnh nơi có nhà máy điện hạt nhân và tổ chức có nhà máy điện hạt nhân tổ chức thực hiện các quy định sau đây:\n\n1. Tuyên truyền, cung cấp thông tin nhằm nâng cao hiểu biết của nhân dân về nhà máy điện hạt nhân;\n\n2. Tuyên truyền, phổ biến kiến thức về an toàn cho nhân dân địa phương nơi có nhà máy điện hạt nhân;\n\n3. Cung cấp thường xuyên thông tin về tình trạng an toàn của nhà máy điện hạt nhân cho nhân dân địa phương nơi có nhà máy điện hạt nhân.\n\nChương VI\n\nTHĂM DÒ, KHAI THÁC, CHẾ BIẾN QUẶNG PHÓNG XẠ"
+   }
+  },
+  {
+   "id": "VN-H504-A58",
+   "no": 58,
+   "noLabel": {
+    "vi": "Điều 58"
+   },
+   "chapter": {
+    "vi": "Chương VI"
+   },
+   "heading": {
+    "vi": "Báo cáo đánh giá an toàn đối với cơ sở thăm dò, khai thác, chế biến quặng phóng xạ"
+   },
+   "text": {
+    "vi": "Điều 58. Báo cáo đánh giá an toàn đối với cơ sở thăm dò, khai thác, chế biến quặng phóng xạ\n\n1. Cơ sở thăm dò, khai thác, chế biến quặng phóng xạ là cơ sở tiến hành một hoặc một số công việc sau đây:\n\na) Thăm dò, khai thác và chế biến quặng urani, thori;\n\nb) Khai thác, chế biến khoáng sản khác mà sản phẩm phụ hoặc chất thải sau chế biến có chứa chất phóng xạ có hoạt độ phóng xạ lớn hơn mười nghìn lần mức hoạt độ phóng xạ miễn trừ khai báo.\n\n2. Cơ sở thăm dò, khai thác, chế biến quặng phóng xạ phải lập báo cáo đánh giá an toàn quy định tại Điều 19 của Luật này trình cơ quan an toàn bức xạ và hạt nhân thẩm định.\n\n3. Báo cáo đánh giá an toàn đối với cơ sở thăm dò, khai thác, chế biến quặng phóng xạ ngoài các nội dung quy định tại khoản 2 Điều 19 của Luật này còn phải có các nội dung sau đây: quy trình thăm dò, khai thác, chế biến; kho lưu giữ; các biện pháp giảm bụi phóng xạ; biện pháp thông gió, giảm nồng độ khí radon và các khí độc khác; đóng gói, lưu giữ, vận chuyển sản phẩm có chứa phóng xạ; thu gom, xử lý và lưu giữ chất thải phóng xạ."
+   }
+  },
+  {
+   "id": "VN-H504-A59",
+   "no": 59,
+   "noLabel": {
+    "vi": "Điều 59"
+   },
+   "chapter": {
+    "vi": "Chương VI"
+   },
+   "heading": {
+    "vi": "Trách nhiệm của cơ sở thăm dò, khai thác, chế biến quặng phóng xạ trong việc phục hồi môi trường"
+   },
+   "text": {
+    "vi": "Điều 59. Trách nhiệm của cơ sở thăm dò, khai thác, chế biến quặng phóng xạ trong việc phục hồi môi trường\n\n1. Thực hiện các biện pháp nhằm hạn chế tối đa tác động xấu đến các thành phần môi trường; thực hiện việc phục hồi môi trường sau khi kết thúc từng giai đoạn hoặc toàn bộ hoạt động thăm dò, khai thác, chế biến theo quy định của Luật khoáng sản, Luật bảo vệ môi trường và bảo đảm an toàn bức xạ theo quy định của Luật này; lập bản đồ khu vực khai thác, chế biến quặng đã chấm dứt hoạt động.\n\n2. Báo cáo cơ quan quản lý nhà nước có thẩm quyền cấp giấy phép về kết quả thực hiện các biện pháp quy định tại khoản 1 Điều này.\n\nChương VII\n\nVẬN CHUYỂN VÀ NHẬP KHẨU, XUẤT KHẨU VẬT LIỆU PHÓNG XẠ, THIẾT BỊ HẠT NHÂN\n\nMục 1\n\nVẬN CHUYỂN"
+   }
+  },
+  {
+   "id": "VN-H504-A60",
+   "no": 60,
+   "noLabel": {
+    "vi": "Điều 60"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {
+    "vi": "Yêu cầu đối với tổ chức, cá nhân vận chuyển vật liệu phóng xạ"
+   },
+   "text": {
+    "vi": "Điều 60. Yêu cầu đối với tổ chức, cá nhân vận chuyển vật liệu phóng xạ\n\n1. Tổ chức, cá nhân chỉ được vận chuyển vật liệu phóng xạ sau khi được cơ quan quản lý nhà nước có thẩm quyền cấp giấy phép.\n\n2. Tổ chức, cá nhân vận tải không được từ chối vận chuyển vật liệu phóng xạ đã được đóng gói theo quy định tại Điều 61 của Luật này và đã đủ điều kiện được vận chuyển theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H504-A61",
+   "no": 61,
+   "noLabel": {
+    "vi": "Điều 61"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {
+    "vi": "Đóng gói các kiện hàng phóng xạ để vận chuyển"
+   },
+   "text": {
+    "vi": "Điều 61. Đóng gói các kiện hàng phóng xạ để vận chuyển\n\n1. Vật liệu phóng xạ phải được đóng gói trong các kiện hàng phóng xạ trước khi vận chuyển, bảo đảm an toàn trong quá trình vận chuyển.\n\n2. Kiện hàng phóng xạ được thiết kế, chế tạo, thử nghiệm bảo đảm an toàn tương xứng với mức độ nguy hiểm của vật liệu phóng xạ và phải được cơ quan quản lý nhà nước có thẩm quyền cho phép sử dụng.\n\n3. Kiện hàng phóng xạ chỉ được dùng để chứa vật liệu phóng xạ và các tài liệu, vật phụ trợ cần thiết liên quan đến vật liệu phóng xạ được vận chuyển.\n\n4. Việc đóng gói vật liệu phóng xạ để vận chuyển được thực hiện theo quy chuẩn kỹ thuật quốc gia."
+   }
+  },
+  {
+   "id": "VN-H504-A62",
+   "no": 62,
+   "noLabel": {
+    "vi": "Điều 62"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {
+    "vi": "Kế hoạch bảo đảm an toàn, an ninh và kế hoạch ứng phó sự cố khi vận chuyển"
+   },
+   "text": {
+    "vi": "Điều 62. Kế hoạch bảo đảm an toàn, an ninh và kế hoạch ứng phó sự cố khi vận chuyển\n\n1. Tổ chức, cá nhân khi vận chuyển vật liệu phóng xạ phải lập và thực hiện kế hoạch bảo đảm an toàn, an ninh đáp ứng các yêu cầu sau đây:\n\na) Có phương án bảo vệ an toàn cho người trực tiếp tham gia vận chuyển và những người có liên quan khác; kiểm tra sự nhiễm bẩn phóng xạ của kiện hàng, khu vực chuẩn bị kiện hàng phóng xạ, khu vực kho và các phương tiện vận chuyển; lập và lưu giữ hồ sơ kiểm tra;\n\nb) Nhân viên tham gia vào quá trình vận chuyển phải được đào tạo, cập nhật kiến thức về an toàn bức xạ, có hiểu biết về quy tắc phòng cháy, chữa cháy và quy định về vận chuyển an toàn vật liệu phóng xạ;\n\nc) Xây dựng, kiểm soát lộ trình vận chuyển; phòng ngừa việc thất lạc vật liệu phóng xạ, việc chiếm đoạt, phá hoại vật liệu phóng xạ.\n\n2. Tổ chức, cá nhân khi vận chuyển vật liệu phóng xạ phải lập kế hoạch ứng phó sự cố cấp cơ sở đáp ứng những yêu cầu sau đây:\n\na) Quy định cụ thể nhiệm vụ của các bộ phận, cá nhân khi có sự cố xảy ra;\n\nb) Thông báo khẩn cấp cho các cơ quan có thẩm quyền về sự cố;\n\nc) Có biện pháp và phương tiện kỹ thuật cần thiết ứng phó sự cố;\n\nd) Cảnh báo cho dân chúng xung quanh nơi xảy ra sự cố;\n\nđ) Khoanh vùng cách ly, ngăn chặn tiếp cận, khắc phục việc nhiễm bẩn phóng xạ;\n\ne) Cấp cứu nạn nhân.\n\n3. Kế hoạch ứng phó sự cố trong vận chuyển chất phóng xạ, chất thải phóng xạ có mức độ nguy hiểm trên trung bình và vận chuyển vật liệu hạt nhân phải được diễn tập và được cơ quan quản lý nhà nước có thẩm quyền cấp phép thẩm định.\n\n4. Bộ Khoa học và Công nghệ hướng dẫn chi tiết việc lập kế hoạch bảo đảm an toàn, an ninh và kế hoạch ứng phó sự cố trong vận chuyển vật liệu phóng xạ."
+   }
+  },
+  {
+   "id": "VN-H504-A63",
+   "no": 63,
+   "noLabel": {
+    "vi": "Điều 63"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {
+    "vi": "Trách nhiệm của các tổ chức, cá nhân trong vận chuyển"
+   },
+   "text": {
+    "vi": "Điều 63. Trách nhiệm của các tổ chức, cá nhân trong vận chuyển\n\n1. Trách nhiệm của tổ chức, cá nhân gửi hàng:\n\na) Xin cấp giấy phép vận chuyển vật liệu phóng xạ;\n\nb) Đóng gói vận chuyển vật liệu phóng xạ theo quy định tại Điều 61 của Luật này;\n\nc) Thông báo cho tổ chức, cá nhân vận chuyển những yêu cầu về an toàn, an ninh và cung cấp những tài liệu liên quan đến hàng vận chuyển;\n\nd) Phối hợp với tổ chức, cá nhân vận chuyển hướng dẫn nhân viên vận chuyển thực hiện quy định của giấy phép vận chuyển và hợp đồng vận chuyển;\n\nđ) Lưu giữ hồ sơ về việc gửi hàng.\n\n2. Trách nhiệm của tổ chức, cá nhân vận chuyển:\n\na) Kiểm tra điều kiện an toàn của hàng gửi theo quy định;\n\nb) Tuân thủ các quy định của giấy phép vận chuyển và hợp đồng vận chuyển; chỉ chấp nhận vận chuyển khi hàng gửi có đầy đủ thủ tục, hồ sơ hợp lệ, đóng gói bảo đảm an toàn trong vận chuyển;\n\nc) Phối hợp với tổ chức, cá nhân gửi hàng hướng dẫn nhân viên vận chuyển thực hiện quy định của giấy phép vận chuyển và hợp đồng vận chuyển;\n\nd) Báo cáo ngay với cơ quan an toàn bức xạ và hạt nhân khi kiện hàng phóng xạ không có người nhận.\n\n3. Trách nhiệm của tổ chức, cá nhân nhận hàng:\n\na) Phối hợp với tổ chức, cá nhân gửi hàng, tổ chức, cá nhân vận chuyển tiếp nhận an toàn, đúng hạn, nhanh chóng giải phóng kiện hàng phóng xạ ra khỏi nơi nhận hàng;\n\nb) Tham gia khắc phục hậu quả cùng với tổ chức, cá nhân liên quan khi sự cố xảy ra;\n\nc) Báo cáo ngay cho tổ chức, cá nhân gửi hàng và cơ quan an toàn bức xạ và hạt nhân khi phát hiện hàng hóa nhận được không đúng với hợp đồng vận chuyển về chủng loại, số lượng, kiện hàng phóng xạ có dấu hiệu bị hư hỏng, bị tháo dỡ, bị rò rỉ phóng xạ.\n\n4. Trách nhiệm của tổ chức, cá nhân lưu giữ kiện hàng phóng xạ tại kho trung chuyển:\n\na) Phối hợp với tổ chức, cá nhân vận chuyển, tổ chức, cá nhân nhận hàng tiếp nhận an toàn, nhanh chóng giải phóng các kiện hàng phóng xạ ra khỏi nơi nhận hàng;\n\nb) Tham gia khắc phục hậu quả cùng với các bên liên quan khi sự cố xảy ra;\n\nc) Báo cáo ngay với cơ quan an toàn bức xạ và hạt nhân khi phát hiện các kiện hàng phóng xạ có dấu hiệu bị hư hỏng, bị tháo dỡ, bị rò rỉ phóng xạ; kiện hàng phóng xạ không có người nhận.\n\n5. Tổ chức, cá nhân liên quan đến việc vận chuyển phải thực hiện kế hoạch bảo đảm an toàn, an ninh và ứng phó sự cố quy định tại Điều 62 của Luật này."
+   }
+  },
+  {
+   "id": "VN-H504-A64",
+   "no": 64,
+   "noLabel": {
+    "vi": "Điều 64"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {
+    "vi": "Kiểm soát an toàn đối với vận chuyển quá cảnh vật liệu phóng xạ và hoạt động của tàu biển, phương tiện khác có động cơ chạy bằng năng lượng hạt nhân"
+   },
+   "text": {
+    "vi": "Điều 64. Kiểm soát an toàn đối với vận chuyển quá cảnh vật liệu phóng xạ và hoạt động của tàu biển, phương tiện khác có động cơ chạy bằng năng lượng hạt nhân\n\nViệc vận chuyển vật liệu phóng xạ quá cảnh lãnh thổ Việt Nam, hoạt động của tàu biển, phương tiện khác có động cơ chạy bằng năng lượng hạt nhân trên lãnh thổ Việt Nam phải được Thủ tướng Chính phủ cho phép và phải chịu sự giám sát của cơ quan quản lý nhà nước có thẩm quyền.\n\nMục 2\n\nNHẬP KHẨU VÀ XUẤT KHẨU"
+   }
+  },
+  {
+   "id": "VN-H504-A65",
+   "no": 65,
+   "noLabel": {
+    "vi": "Điều 65"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {
+    "vi": "Kiểm soát nhập khẩu, xuất khẩu vật liệu phóng xạ và thiết bị hạt nhân"
+   },
+   "text": {
+    "vi": "Điều 65. Kiểm soát nhập khẩu, xuất khẩu vật liệu phóng xạ và thiết bị hạt nhân\n\n1. Việc nhập khẩu, xuất khẩu vật liệu phóng xạ và thiết bị hạt nhân được thực hiện theo quy định sau đây:\n\na) Vật liệu phóng xạ và thiết bị hạt nhân chỉ được nhập khẩu, xuất khẩu khi được cơ quan quản lý nhà nước có thẩm quyền cấp giấy phép;\n\nb) Vật liệu phóng xạ phải được đóng gói trong kiện hàng theo quy định tại Điều 61 của Luật này;\n\n2. Cơ quan hải quan phải ưu tiên làm thủ tục thông quan vật liệu phóng xạ đáp ứng đầy đủ quy định tại khoản 1 Điều này; nếu vi phạm thì tùy theo tính chất, mức độ vi phạm và hậu quả xảy ra mà bị xử lý theo quy định của pháp luật.\n\n3. Tổ chức, cá nhân nhập khẩu vật liệu phóng xạ và thiết bị hạt nhân vi phạm quy định tại khoản 1 Điều này thì tùy theo tính chất, mức độ vi phạm và hậu quả xảy ra mà bị cơ quan quản lý nhà nước có thẩm quyền buộc phải khắc phục trước khi thông quan hoặc tái xuất hoặc tịch thu.\n\n4. Tổ chức, cá nhân xuất khẩu vật liệu phóng xạ, thiết bị hạt nhân vi phạm quy định tại khoản 1 Điều này thì tùy theo tính chất, mức độ vi phạm và hậu quả xảy ra mà bị cơ quan quản lý nhà nước có thẩm quyền buộc phải khắc phục trước khi thông quan.\n\n5. Chính phủ quy định cụ thể cơ chế phối hợp giữa cơ quan hải quan, cơ quan an toàn bức xạ và hạt nhân, các cơ quan liên quan trong việc kiểm soát nhập khẩu, xuất khẩu vật liệu phóng xạ và thiết bị hạt nhân tại cửa khẩu."
+   }
+  },
+  {
+   "id": "VN-H504-A66",
+   "no": 66,
+   "noLabel": {
+    "vi": "Điều 66"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {
+    "vi": "Kiểm soát nhập khẩu hàng hóa tiêu dùng đã chiếu xạ hoặc chứa chất phóng xạ"
+   },
+   "text": {
+    "vi": "Điều 66. Kiểm soát nhập khẩu hàng hóa tiêu dùng đã chiếu xạ hoặc chứa chất phóng xạ\n\n1. Hàng hóa tiêu dùng đã chiếu xạ không có trong danh mục được phép nhập khẩu hoặc có trong danh mục được phép nhập khẩu nhưng đã chiếu xạ hoặc chứa chất phóng xạ quá mức quy định thì không được phép nhập khẩu.\n\n2. Hàng hóa tiêu dùng đã chiếu xạ hoặc chứa chất phóng xạ được phép nhập khẩu phải ghi rõ trên nhãn.\n\n3. Bộ Y tế quy định danh mục sản phẩm tiêu dùng đã chiếu xạ hoặc chứa chất phóng xạ được phép nhập khẩu và mức chiếu xạ đối với hàng hóa tiêu dùng trên cơ sở kết quả thẩm định an toàn của cơ quan an toàn bức xạ và hạt nhân."
+   }
+  },
+  {
+   "id": "VN-H504-A67",
+   "no": 67,
+   "noLabel": {
+    "vi": "Điều 67"
+   },
+   "chapter": {
+    "vi": "Chương VII"
+   },
+   "heading": {
+    "vi": "Kiểm soát hàng hóa nhập khẩu nghi ngờ chứa chất phóng xạ hoặc nhiễm phóng xạ"
+   },
+   "text": {
+    "vi": "Điều 67. Kiểm soát hàng hóa nhập khẩu nghi ngờ chứa chất phóng xạ hoặc nhiễm phóng xạ\n\n1. Cơ quan an toàn bức xạ và hạt nhân phối hợp với cơ quan hải quan triển khai các biện pháp cần thiết để phát hiện, kiểm tra hàng hóa nhập khẩu nghi ngờ chứa chất phóng xạ hoặc nhiễm phóng xạ.\n\n2. Khi phát hiện hàng hóa nhập khẩu chứa chất phóng xạ hoặc nhiễm phóng xạ, cơ quan hải quan dừng làm thủ tục thông quan, thông báo cho chủ hàng để xử lý bằng các biện pháp sau đây:\n\na) Áp dụng ngay các biện pháp bảo đảm an toàn cần thiết nhằm hạn chế đến mức thấp nhất tác hại đối với con người, môi trường;\n\nb) Áp dụng các biện pháp loại bỏ chất phóng xạ, tẩy xạ hàng hóa chứa chất phóng xạ hoặc nhiễm phóng xạ, trừ trường hợp tái xuất ngay.\n\n3. Cơ quan hải quan phối hợp với cơ quan an toàn bức xạ và hạt nhân kiểm soát việc thực hiện các biện pháp quy định tại khoản 2 Điều này.\n\n4. Sau khi áp dụng các biện pháp quy định tại điểm b khoản 2 Điều này mà hàng hóa đủ điều kiện nhập khẩu thì tiếp tục cho làm thủ tục thông quan, trường hợp không đủ điều kiện thì buộc tái xuất.\n\n5. Chủ hàng có trách nhiệm khắc phục mọi hậu quả do hàng hóa nhập khẩu chứa chất phóng xạ hoặc nhiễm phóng xạ gây ra tại bến cảng.\n\nChương VIII\n\nDỊCH VỤ HỖ TRỢ ỨNG DỤNG NĂNG LƯỢNG NGUYÊN TỬ"
+   }
+  },
+  {
+   "id": "VN-H504-A68",
+   "no": 68,
+   "noLabel": {
+    "vi": "Điều 68"
+   },
+   "chapter": {
+    "vi": "Chương VIII"
+   },
+   "heading": {
+    "vi": "Hoạt động dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử"
+   },
+   "text": {
+    "vi": "Điều 68. Hoạt động dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử\n\n1. Tư vấn kỹ thuật và công nghệ trong lĩnh vực năng lượng nguyên tử.\n\n2. Đánh giá, định giá, giám định công nghệ bức xạ, công nghệ hạt nhân.\n\n3. Đào tạo nhân viên bức xạ; đào tạo, bồi dưỡng, huấn luyện theo yêu cầu của tổ chức, cá nhân tiến hành công việc bức xạ.\n\n4. Lắp đặt, bảo dưỡng, sửa chữa thiết bị bức xạ, thiết bị hạt nhân.\n\n5. Đo liều chiếu xạ cá nhân, đánh giá hoạt độ phóng xạ.\n\n6. Kiểm định, hiệu chuẩn các thiết bị ghi đo bức xạ, thiết bị bức xạ, thiết bị hạt nhân.\n\n7. Tẩy xạ.\n\n8. Thay, đảo nhiên liệu cho lò phản ứng hạt nhân.\n\n9. Lắp đặt nguồn phóng xạ.\n\n10. Các hoạt động dịch vụ hỗ trợ khác."
+   }
+  },
+  {
+   "id": "VN-H504-A69",
+   "no": 69,
+   "noLabel": {
+    "vi": "Điều 69"
+   },
+   "chapter": {
+    "vi": "Chương VIII"
+   },
+   "heading": {
+    "vi": "Điều kiện hoạt động dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử"
+   },
+   "text": {
+    "vi": "Điều 69. Điều kiện hoạt động dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử\n\n1. Tổ chức tiến hành hoạt động dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử phải đáp ứng các điều kiện sau đây:\n\na) Được thành lập, hoạt động theo quy định của pháp luật;\n\nb) Có ít nhất hai người có chứng chỉ hành nghề dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử;\n\nc) Có cơ sở vật chất – kỹ thuật đáp ứng yêu cầu hoạt động dịch vụ theo nội dung đăng ký.\n\n2. Cá nhân hoạt động độc lập trong lĩnh vực dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử phải có chứng chỉ hành nghề dịch vụ.\n\n3. Tổ chức, cá nhân hoạt động dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử phải đăng ký hoạt động theo quy định của Bộ Khoa học và Công nghệ."
+   }
+  },
+  {
+   "id": "VN-H504-A70",
+   "no": 70,
+   "noLabel": {
+    "vi": "Điều 70"
+   },
+   "chapter": {
+    "vi": "Chương VIII"
+   },
+   "heading": {
+    "vi": "Chứng chỉ hành nghề dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử"
+   },
+   "text": {
+    "vi": "Điều 70. Chứng chỉ hành nghề dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử\n\n1. Cá nhân có đủ điều kiện sau đây được cấp chứng chỉ hành nghề dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử:\n\na) Có đầy đủ năng lực hành vi dân sự;\n\nb) Có trình độ chuyên môn và kinh nghiệm làm việc phù hợp;\n\nc) Đã qua khóa đào tạo dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử tại cơ sở đào tạo.\n\n2. Người được cấp chứng chỉ quy định tại Điều này có trách nhiệm thường xuyên cập nhật kiến thức liên quan.\n\n3. Bộ Khoa học và Công nghệ quy định cụ thể về cơ sở đào tạo dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử; việc cấp, thu hồi chứng chỉ hành nghề dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử và việc công nhận chứng chỉ hành nghề dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử do tổ chức nước ngoài cấp."
+   }
+  },
+  {
+   "id": "VN-H504-A71",
+   "no": 71,
+   "noLabel": {
+    "vi": "Điều 71"
+   },
+   "chapter": {
+    "vi": "Chương VIII"
+   },
+   "heading": {
+    "vi": "Quyền, nghĩa vụ của tổ chức, cá nhân hoạt động dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử"
+   },
+   "text": {
+    "vi": "Điều 71. Quyền, nghĩa vụ của tổ chức, cá nhân hoạt động dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử\n\n1. Tổ chức, cá nhân hoạt động dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử có các quyền sau đây:\n\na) Tiến hành hoạt động đã đăng ký;\n\nb) Yêu cầu người sử dụng dịch vụ cung cấp thông tin, tài liệu cần thiết cho việc cung ứng dịch vụ;\n\nc) Sử dụng cộng tác viên trong nước và nước ngoài để thực hiện hoạt động dịch vụ;\n\nd) Nhận thù lao từ việc cung ứng dịch vụ theo thỏa thuận;\n\nđ) Yêu cầu người sử dụng dịch vụ bồi thường thiệt hại do lỗi của người sử dụng dịch vụ gây ra cho mình;\n\ne) Hợp tác, liên doanh với tổ chức, cá nhân trong nước, tổ chức, cá nhân nước ngoài để tiến hành hoạt động dịch vụ;\n\ng) Tham gia hiệp hội ngành, nghề trong nước, khu vực và quốc tế theo quy định của pháp luật.\n\n2. Tổ chức, cá nhân hoạt động dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử có các nghĩa vụ sau đây:\n\na) Thực hiện việc cung ứng dịch vụ theo đúng nội dung đã đăng ký;\n\nb) Thực hiện hợp đồng dịch vụ đã giao kết;\n\nc) Chịu trách nhiệm với bên sử dụng dịch vụ về kết quả thực hiện dịch vụ của mình;\n\nd) Bồi thường thiệt hại do lỗi của mình gây ra cho bên sử dụng dịch vụ;\n\nđ) Thực hiện nghĩa vụ về tài chính và các nghĩa vụ khác theo quy định của pháp luật;\n\ne) Thông báo ngay cho bên sử dụng dịch vụ và cơ quan an toàn bức xạ và hạt nhân khi phát hiện có nguy cơ phát sinh sự cố bức xạ, sự cố hạt nhân.\n\nChương IX\n\nKHAI BÁO VÀ CẤP GIẤY PHÉP"
+   }
+  },
+  {
+   "id": "VN-H504-A72",
+   "no": 72,
+   "noLabel": {
+    "vi": "Điều 72"
+   },
+   "chapter": {
+    "vi": "Chương IX"
+   },
+   "heading": {
+    "vi": "Khai báo chất phóng xạ, thiết bị bức xạ, vật liệu hạt nhân, thiết bị hạt nhân"
+   },
+   "text": {
+    "vi": "Điều 72. Khai báo chất phóng xạ, thiết bị bức xạ, vật liệu hạt nhân, thiết bị hạt nhân\n\n1. Tổ chức, cá nhân có chất phóng xạ hoặc chất thải phóng xạ với hoạt động trên mức miễn trừ khai báo, thiết bị bức xạ có công suất trên mức miễn trừ khai báo, vật liệu hạt nhân nguồn, vật liệu hạt nhân, thiết bị hạt nhân phải khai báo với cơ quan an toàn bức xạ và hạt nhân về số lượng, loại, đặc tính, xuất xứ và các thông tin khác quy định tại khoản 3 Điều 22 của Luật này.\n\n2. Việc khai báo phải được thực hiện trong thời hạn bảy ngày làm việc, kể từ ngày có vật liệu phóng xạ, thiết bị bức xạ, thiết bị hạt nhân."
+   }
+  },
+  {
+   "id": "VN-H504-A73",
+   "no": 73,
+   "noLabel": {
+    "vi": "Điều 73"
+   },
+   "chapter": {
+    "vi": "Chương IX"
+   },
+   "heading": {
+    "vi": "Giấy phép tiến hành công việc bức xạ"
+   },
+   "text": {
+    "vi": "Điều 73. Giấy phép tiến hành công việc bức xạ\n\n1. Tổ chức, cá nhân tiến hành công việc bức xạ phải có giấy phép, trừ các trường hợp quy định tại khoản 2 Điều này.\n\n2. Tổ chức, cá nhân được tiến hành các công việc bức xạ dưới đây không phải xin cấp giấy phép:\n\na) Sản xuất, chế biến, nhập khẩu, xuất khẩu, đóng gói, vận chuyển, lưu giữ, sử dụng chất phóng xạ có hoạt độ từ mức miễn trừ cấp phép trở xuống;\n\nb) Sử dụng nguồn phóng xạ, thiết bị bức xạ thuộc danh mục không phải xin cấp giấy phép."
+   }
+  },
+  {
+   "id": "VN-H504-A74",
+   "no": 74,
+   "noLabel": {
+    "vi": "Điều 74"
+   },
+   "chapter": {
+    "vi": "Chương IX"
+   },
+   "heading": {
+    "vi": "Thời hạn của giấy phép tiến hành công việc bức xạ"
+   },
+   "text": {
+    "vi": "Điều 74. Thời hạn của giấy phép tiến hành công việc bức xạ\n\n1. Giấy phép nhập khẩu, xuất khẩu nguồn phóng xạ có mức độ nguy hiểm dưới trung bình được cấp cho nhiều chuyến hàng có thời hạn mười hai tháng.\n\n2. Giấy phép nhập khẩu, xuất khẩu nguồn phóng xạ có mức độ nguy hiểm từ trung bình trở lên, vật liệu hạt nhân, thiết bị hạt nhân được cấp cho từng chuyến hàng có thời hạn sáu tháng.\n\n3. Giấy phép cho tổ chức, cá nhân nước ngoài vận chuyển vật liệu phóng xạ quá cảnh lãnh thổ Việt Nam; giấy phép cho tàu biển, phương tiện khác có động cơ chạy bằng năng lượng hạt nhân của nước ngoài hoạt động trên lãnh thổ Việt Nam có thời hạn sáu tháng.\n\n4. Giấy phép cho tàu biển, phương tiện khác có động cơ chạy bằng năng lượng hạt nhân của tổ chức, cá nhân trong nước có thời hạn mười năm.\n\n5. Giấy phép vận hành lò phản ứng hạt nhân nghiên cứu, vận hành nhà máy điện hạt nhân có thời hạn mười năm.\n\n6. Giấy phép vận hành thiết bị chiếu xạ có thời hạn năm năm.\n\n7. Giấy phép tiến hành công việc bức xạ khác có thời hạn ba năm."
+   }
+  },
+  {
+   "id": "VN-H504-A75",
+   "no": 75,
+   "noLabel": {
+    "vi": "Điều 75"
+   },
+   "chapter": {
+    "vi": "Chương IX"
+   },
+   "heading": {
+    "vi": "Điều kiện cấp giấy phép"
+   },
+   "text": {
+    "vi": "Điều 75. Điều kiện cấp giấy phép\n\n1. Tổ chức có đủ các điều kiện sau đây thì được cấp giấy phép tiến hành công việc bức xạ:\n\na) Được thành lập theo quy định của pháp luật;\n\nb) Tiến hành công việc bức xạ phù hợp với chức năng hoạt động;\n\nc) Có đội ngũ nhân lực, cơ sở vật chất – kỹ thuật phù hợp;\n\nd) Đáp ứng đủ các điều kiện bảo đảm an toàn, an ninh đối với từng công việc bức xạ cụ thể theo quy định của Luật này;\n\nđ) Hoàn thành hồ sơ, thủ tục xin cấp giấy phép theo quy định của Luật này và quy định khác của pháp luật có liên quan.\n\n2. Cá nhân có đủ các điều kiện quy định sau đây thì được cấp giấy phép tiến hành công việc bức xạ:\n\na) Có đầy đủ năng lực hành vi dân sự;\n\nb) Tiến hành công việc bức xạ phù hợp với đăng ký hành nghề hoặc đăng ký kinh doanh;\n\nc) Có trình độ chuyên môn phù hợp;\n\nd) Đáp ứng đủ các điều kiện bảo đảm an toàn, an ninh đối với từng công việc bức xạ cụ thể theo quy định của Luật này;\n\nđ) Hoàn thành hồ sơ, thủ tục xin cấp giấy phép theo quy định của Luật này và quy định khác của pháp luật có liên quan."
+   }
+  },
+  {
+   "id": "VN-H504-A76",
+   "no": 76,
+   "noLabel": {
+    "vi": "Điều 76"
+   },
+   "chapter": {
+    "vi": "Chương IX"
+   },
+   "heading": {
+    "vi": "Các loại hồ sơ xin cấp giấy phép"
+   },
+   "text": {
+    "vi": "Điều 76. Các loại hồ sơ xin cấp giấy phép\n\n1. Hồ sơ xin cấp giấy phép tiến hành công việc bức xạ có các tài liệu sau đây:\n\na) Đơn xin cấp giấy phép;\n\nb) Số lượng, loại, đặc tính, xuất xứ và mục đích sử dụng của chất phóng xạ, thiết bị bức xạ, vật liệu hạt nhân, thiết bị hạt nhân;\n\nc) Tài liệu chứng minh đủ điều kiện về nhân lực; kế hoạch đào tạo, huấn luyện nhân lực;\n\nd) Báo cáo đánh giá an toàn hoặc báo cáo phân tích an toàn đối với từng công việc bức xạ cụ thể;\n\nđ) Quy trình bảo đảm chất lượng;\n\ne) Kế hoạch ứng phó sự cố bức xạ, sự cố hạt nhân đối với từng công việc bức xạ cụ thể;\n\ng) Dự kiến hệ thống hồ sơ lưu giữ và hệ thống báo cáo.\n\n2. Hồ sơ xin cấp giấy phép xử lý, lưu giữ chất thải phóng xạ, nguồn phóng xạ đã qua sử dụng và nhiên liệu hạt nhân đã qua sử dụng gồm các tài liệu quy định tại khoản 1 Điều này và các tài liệu sau đây:\n\na) Dự kiến số lượng, loại, đặc tính chất thải phóng xạ, nguồn phóng xạ đã sử dụng và nhiên liệu hạt nhân đã qua sử dụng được lưu giữ, xử lý;\n\nb) Phương pháp, thiết bị xử lý chất thải phóng xạ, nguồn phóng xạ đã qua sử dụng và nhiên liệu hạt nhân đã qua sử dụng;\n\nc) Dự kiến khả năng phát thải ra môi trường và kế hoạch kiểm xạ môi trường;\n\nd) Dự kiến các nghiên cứu, triển khai hỗ trợ việc xử lý, lưu giữ chất thải phóng xạ, nguồn phóng xạ đã qua sử dụng và nhiên liệu hạt nhân đã qua sử dụng tại cơ sở;\n\nđ) Dự kiến địa điểm lưu giữ và chôn cất.\n\n3. Hồ sơ xin cấp giấy phép thăm dò, khai thác, chế biến quặng phóng xạ gồm các tài liệu quy định tại khoản 1 Điều này và các tài liệu sau đây:\n\na) Bản đồ khu vực thăm dò, khai thác, chế biến quặng;\n\nb) Dự kiến địa điểm lưu giữ chất thải của hoạt động thăm dò, khai thác, chế biến; phương pháp và thiết bị xử lý chất thải;\n\nc) Dự kiến các biện pháp, kế hoạch phục hồi môi trường sau khi kết thúc từng giai đoạn và toàn bộ hoạt động thăm dò, khai thác, chế biến.\n\n4. Hồ sơ xin cấp giấy phép vận chuyển vật liệu phóng xạ gồm các tài liệu quy định tại khoản 1 Điều này và các tài liệu sau đây:\n\na) Tài liệu chứng minh phương tiện vận chuyển đáp ứng yêu cầu an toàn, an ninh;\n\nb) Mô tả chi tiết kiện hàng;\n\nc) Biện pháp cố định vật liệu phóng xạ trong kiện hàng, cố định nắp kiện hàng và cố định kiện hàng trên phương tiện vận chuyển;\n\nd) Suất liều chiếu xạ cực đại trên bề mặt của kiện hàng và cách kiện hàng một mét;\n\nđ) Tài liệu chứng minh bảo đảm an toàn đối với vật liệu phóng xạ xếp trong kiện hàng trong điều kiện bình thường cũng như khi có sự cố;\n\ne) Hợp đồng vận chuyển.\n\n5. Hồ sơ xin cấp giấy phép nhập khẩu, xuất khẩu vật liệu phóng xạ, thiết bị hạt nhân bao gồm các tài liệu quy định tại khoản 1 Điều này và các tài liệu sau đây:\n\na) Thông tin về tổ chức, cá nhân sử dụng vật liệu phóng xạ, thiết bị hạt nhân;\n\nb) Hợp đồng nhập khẩu, xuất khẩu ghi rõ trách nhiệm của các bên khi tham gia nhập khẩu, xuất khẩu."
+   }
+  },
+  {
+   "id": "VN-H504-A77",
+   "no": 77,
+   "noLabel": {
+    "vi": "Điều 77"
+   },
+   "chapter": {
+    "vi": "Chương IX"
+   },
+   "heading": {
+    "vi": "Thẩm quyền, trình tự, thủ tục cấp giấy phép"
+   },
+   "text": {
+    "vi": "Điều 77. Thẩm quyền, trình tự, thủ tục cấp giấy phép\n\n1. Thẩm quyền cấp giấy phép được quy định như sau:\n\na) Bộ Khoa học và Công nghệ cấp giấy phép tiến hành công việc bức xạ, trừ trường hợp quy định tại các điểm b, c và d Điều này;\n\nb) Ủy ban nhân dân cấp tỉnh cấp giấy phép sử dụng thiết bị X-quang chẩn đoán trong y tế;\n\nc) Bộ Tài nguyên và Môi trường cấp giấy phép thăm dò, khai thác, chế biến quặng phóng xạ trên cơ sở kết quả thẩm định an toàn của cơ quan an toàn bức xạ và hạt nhân;\n\nd) Bộ Công thương cấp giấy phép vận hành thử và vận hành chính thức nhà máy điện hạt nhân sau khi thống nhất ý kiến với Bộ Khoa học và Công nghệ và Hội đồng an toàn hạt nhân quốc gia.\n\n2. Kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan nhà nước có thẩm quyền quy định tại khoản 1 Điều này phải xem xét cấp giấy phép trong thời hạn sau đây:\n\na) Mười lăm ngày làm việc đối với nhập khẩu, xuất khẩu;\n\nb) Ba mươi ngày đối với thiết bị X-quang sử dụng trong y tế;\n\nc) Sáu mươi ngày đối với các công việc bức xạ khác, trừ giấy phép vận hành lò phản ứng hạt nhân nghiên cứu và giấy phép vận hành nhà máy điện hạt nhân.\n\n3. Trường hợp không cấp giấy phép thì chậm nhất trong thời hạn quy định tại khoản 2 Điều này, cơ quan quản lý nhà nước có thẩm quyền cấp giấy phép phải trả lời bằng văn bản và nêu rõ lý do."
+   }
+  },
+  {
+   "id": "VN-H504-A78",
+   "no": 78,
+   "noLabel": {
+    "vi": "Điều 78"
+   },
+   "chapter": {
+    "vi": "Chương IX"
+   },
+   "heading": {
+    "vi": "Sửa đổi, bổ sung, gia hạn, cấp lại giấy phép"
+   },
+   "text": {
+    "vi": "Điều 78. Sửa đổi, bổ sung, gia hạn, cấp lại giấy phép\n\n1. Tổ chức, cá nhân muốn sửa đổi, bổ sung, gia hạn, cấp lại giấy phép tiến hành công việc bức xạ phải gửi hồ sơ tới cơ quan nhà nước có thẩm quyền.\n\n2. Tổ chức, cá nhân phải gửi hồ sơ xin gia hạn giấy phép trước khi giấy phép hết hạn ít nhất một trăm tám mươi ngày đối với vận hành lò phản ứng hạt nhân và vận hành nhà máy điện hạt nhân, sáu mươi ngày đối với các công việc bức xạ khác.\n\n3. Hồ sơ, trình tự, thủ tục sửa đổi, bổ sung, gia hạn, cấp lại giấy phép được thực hiện theo quy định tại các điều 41, 47, 48, 50, 64, 76 và 77 của Luật này.\n\n4. Cơ quan quản lý nhà nước có thẩm quyền cấp giấy phép có quyền sửa đổi, bổ sung, gia hạn, cấp lại giấy phép."
+   }
+  },
+  {
+   "id": "VN-H504-A79",
+   "no": 79,
+   "noLabel": {
+    "vi": "Điều 79"
+   },
+   "chapter": {
+    "vi": "Chương IX"
+   },
+   "heading": {
+    "vi": "Thu hồi giấy phép"
+   },
+   "text": {
+    "vi": "Điều 79. Thu hồi giấy phép\n\n1. Tổ chức, cá nhân bị thu hồi giấy phép tiến hành công việc bức xạ trong các trường hợp sau đây:\n\na) Vi phạm nghiêm trọng điều kiện về an toàn, an ninh;\n\nb) Vi phạm điều kiện về an toàn, an ninh mà không khắc phục được trong thời hạn do cơ quan nhà nước có thẩm quyền quy định;\n\nc) Bị xử phạt vi phạm hành chính do vi phạm quy định về an toàn, an ninh lần thứ hai trong khoảng thời gian mười hai tháng;\n\nd) Bị buộc phải chấm dứt hoạt động tiến hành công việc bức xạ theo quy định của pháp luật;\n\nđ) Xin chấm dứt tiến hành công việc bức xạ.\n\n2. Tổ chức, cá nhân bị thu hồi giấy phép do vi phạm quy định về an toàn, an ninh chỉ được xem xét cấp lại giấy phép sau hai mươi bốn tháng, kể từ ngày bị thu hồi giấy phép.\n\n3. Cơ quan quản lý nhà nước có thẩm quyền cấp giấy phép có quyền thu hồi giấy phép."
+   }
+  },
+  {
+   "id": "VN-H504-A80",
+   "no": 80,
+   "noLabel": {
+    "vi": "Điều 80"
+   },
+   "chapter": {
+    "vi": "Chương IX"
+   },
+   "heading": {
+    "vi": "Phí và lệ phí"
+   },
+   "text": {
+    "vi": "Điều 80. Phí và lệ phí\n\n1. Tổ chức, cá nhân đề nghị cấp, cấp lại, gia hạn, sửa đổi, bổ sung giấy phép phải nộp phí và lệ phí theo quy định của pháp luật.\n\n2. Chính phủ quy định cụ thể việc thu phí, lệ phí và sử dụng phí, lệ phí đối với các hoạt động trong lĩnh vực năng lượng nguyên tử và bảo đảm an toàn, an ninh trong các hoạt động đó."
+   }
+  },
+  {
+   "id": "VN-H504-A81",
+   "no": 81,
+   "noLabel": {
+    "vi": "Điều 81"
+   },
+   "chapter": {
+    "vi": "Chương IX"
+   },
+   "heading": {
+    "vi": "Trách nhiệm quy định, hướng dẫn việc khai báo, cấp giấy phép tiến hành công việc bức xạ"
+   },
+   "text": {
+    "vi": "Điều 81. Trách nhiệm quy định, hướng dẫn việc khai báo, cấp giấy phép tiến hành công việc bức xạ\n\n1. Bộ Khoa học và Công nghệ có trách nhiệm quy định, hướng dẫn các nội dung sau đây:\n\na) Thủ tục, hồ sơ khai báo vật liệu phóng xạ và thiết bị hạt nhân;\n\nb) Danh mục công việc bức xạ sử dụng nguồn phóng xạ, thiết bị bức xạ không phải xin cấp giấy phép;\n\nc) Hồ sơ xin cấp giấy phép vận hành lò phản ứng hạt nhân nghiên cứu;\n\nd) Hồ sơ xin cấp giấy phép vận chuyển vật liệu phóng xạ quá cảnh lãnh thổ Việt Nam; hồ sơ xin cấp giấy phép hoạt động của tàu biển, phương tiện khác có động cơ chạy bằng năng lượng hạt nhân trên lãnh thổ Việt Nam;\n\nđ) Thời hạn xem xét hồ sơ cấp giấy phép xây dựng, vận hành lò phản ứng hạt nhân nghiên cứu;\n\ne) Nội dung và mẫu các loại giấy phép;\n\ng) Điều kiện về nhân lực và kỹ thuật để được cấp giấy phép.\n\n2. Bộ Công thương có trách nhiệm chủ trì, phối hợp với Bộ Khoa học và Công nghệ quy định, hướng dẫn về hồ sơ xin cấp giấy phép, thời hạn xem xét hồ sơ cấp giấy phép vận hành nhà máy điện hạt nhân; nội dung, mẫu giấy phép; điều kiện về tài chính, nhân lực và kỹ thuật để được cấp giấy phép.\n\nChương X\n\nỨNG PHÓ SỰ CỐ, BỒI THƯỜNG THIỆT HẠI BỨC XẠ, HẠT NHÂN\n\nMục 1\n\nỨNG PHÓ SỰ CỐ BỨC XẠ, SỰ CỐ HẠT NHÂN"
+   }
+  },
+  {
+   "id": "VN-H504-A82",
+   "no": 82,
+   "noLabel": {
+    "vi": "Điều 82"
+   },
+   "chapter": {
+    "vi": "Chương X"
+   },
+   "heading": {
+    "vi": "Sự cố bức xạ, sự cố hạt nhân"
+   },
+   "text": {
+    "vi": "Điều 82. Sự cố bức xạ, sự cố hạt nhân\n\n1. Sự cố bức xạ là tình trạng mất an toàn bức xạ và mất an ninh đối với nguồn phóng xạ. Sự cố hạt nhân là tình trạng mất an toàn hạt nhân và mất an ninh đối với vật liệu hạt nhân, thiết bị hạt nhân.\n\n2. Sự cố bức xạ, sự cố hạt nhân (sau đây gọi chung là sự cố) được phân thành năm nhóm tình huống có thể xảy ra để xây dựng kế hoạch ứng phó:\n\na) Nhóm 1 là nhóm tình huống sự cố không nghiêm trọng do thiết bị bất bình thường hoặc do con người gây ra, nhưng chưa có rò rỉ phóng xạ, chưa gây hại đối với con người;\n\nb) Nhóm 2 là nhóm tình huống sự cố ít nghiêm trọng do thiết bị bị hư hại hoặc do con người gây ra, làm rò rỉ phóng xạ, nhưng phát tán không rộng, chưa gây hại đối với con người;\n\nc) Nhóm 3 là nhóm tình huống sự cố nghiêm trọng do thiết bị bị hư hại nặng hoặc do con người gây ra, làm rò rỉ phóng xạ, phát tán rộng, ảnh hưởng đối với con người trong cơ sở tiến hành công việc bức xạ;\n\nd) Nhóm 4 là nhóm tình huống sự cố rất nghiêm trọng do thiết bị bị hư hại nặng hoặc do con người gây ra, làm rò rỉ phóng xạ, phát tán rộng, ảnh hưởng đối với con người và môi trường bên ngoài cơ sở tiến hành công việc bức xạ, phạm vi ảnh hưởng trong một tỉnh, thành phố trực thuộc trung ương;\n\nđ) Nhóm 5 là nhóm tình huống sự cố đặc biệt nghiêm trọng do thiết bị bị hư hại nặng hoặc do con người gây ra, làm rò rỉ phóng xạ, phát tán mạnh, ảnh hưởng đối với con người và môi trường bên ngoài cơ sở ở diện rộng, phạm vi ảnh hưởng từ hai tỉnh, thành phố trực thuộc trung ương trở lên hoặc ra ngoài biên giới quốc gia, kể cả sự cố xảy ra ở nước khác có phạm vi ảnh hưởng đến một hoặc nhiều địa phương của Việt Nam.\n\n3. Mức sự cố để thông báo trên phương tiện thông tin đại chúng khi xảy ra sự cố hạt nhân được xác định như sau:\n\na) Sự cố mức 1 là sự kiện bất thường vượt quá quy định, nhưng trong mức độ cho phép;\n\nb) Sự cố mức 2 là sự cố khi thiết bị bảo vệ bị hư hại hoặc khi nhân viên bức xạ bị nhiễm xạ nhưng trong giới hạn cho phép;\n\nc) Sự cố mức 3 là sự cố nghiêm trọng, có rò rỉ chất phóng xạ, người dân bị nhiễm xạ trong giới hạn cho phép;\n\nd) Sự cố mức 4 là tai nạn, nhân viên bức xạ bị nhiễm xạ có nguy cơ tử vong, không gây tác hại ở ngoài cơ sở hạt nhân, người dân bị nhiễm xạ trong mức giới hạn cho phép;\n\nđ) Sự cố mức 5 là tai nạn, gây tác hại ở ngoài cơ sở hạt nhân, nhưng chất phóng xạ thoát ra ngoài cơ sở hạt nhân không đáng kể, cần thực hiện một số biện pháp ứng phó sự cố;\n\ne) Sự cố mức 6 là tai nạn nghiêm trọng, chất phóng xạ thoát ra ngoài cơ sở hạt nhân một lượng đáng kể, cần thực hiện tất cả các biện pháp ứng phó sự cố;\n\ng) Sự cố mức 7 là tai nạn rất nghiêm trọng, chất phóng xạ thoát ra ngoài cơ sở hạt nhân rất nhiều, gây tác hại đối với con người và môi trường trên diện rộng.\n\n4. Chính phủ quy định cụ thể việc xác định mức sự cố và việc thông báo trên phương tiện thông tin đại chúng khi xảy ra sự cố."
+   }
+  },
+  {
+   "id": "VN-H504-A83",
+   "no": 83,
+   "noLabel": {
+    "vi": "Điều 83"
+   },
+   "chapter": {
+    "vi": "Chương X"
+   },
+   "heading": {
+    "vi": "Kế hoạch ứng phó sự cố"
+   },
+   "text": {
+    "vi": "Điều 83. Kế hoạch ứng phó sự cố\n\n1. Kế hoạch ứng phó sự cố gồm có kế hoạch ứng phó sự cố cấp cơ sở, kế hoạch ứng phó sự cố cấp tỉnh và kế hoạch ứng phó sự cố cấp quốc gia.\n\n2. Kế hoạch ứng phó sự cố cấp cơ sở được áp dụng khi sự cố xảy ra ở các nhóm 1, 2 và 3 quy định tại khoản 2 Điều 82 của Luật này.\n\nNội dung kế hoạch ứng phó sự cố cấp cơ sở bao gồm dự kiến các tình huống sự cố có thể xảy ra; phương án huy động nhân lực, phương tiện thực hiện các biện pháp ứng phó ban đầu, tổ chức cấp cứu người bị nạn, hạn chế sự cố lan rộng, hạn chế hậu quả, cô lập khu vực nguy hiểm và kiểm soát an toàn, an ninh; tổ chức diễn tập ứng phó sự cố định kỳ hằng năm.\n\n3. Kế hoạch ứng phó sự cố cấp tỉnh được áp dụng khi sự cố xảy ra ở nhóm 4 quy định tại khoản 2 Điều 82 của Luật này hoặc trong trường hợp sự cố xảy ra ở các nhóm 1, 2 và 3 quy định tại khoản 2 Điều 82 của Luật này nhưng vượt quá khả năng ứng phó của cơ sở.\n\nNội dung kế hoạch ứng phó sự cố cấp tỉnh bao gồm dự kiến các tình huống sự cố có thể xảy ra; phương án huy động nhân lực, phương tiện thực hiện các biện pháp ứng phó ban đầu, tổ chức cấp cứu người bị nạn, hạn chế sự cố lan rộng, hạn chế hậu quả, cô lập khu vực nguy hiểm và kiểm soát an toàn, an ninh; tổ chức diễn tập ứng phó sự cố định kỳ hằng năm.\n\n4. Kế hoạch ứng phó sự cố cấp quốc gia được áp dụng khi sự cố xảy ra ở nhóm 5 quy định tại khoản 2 Điều 82 của Luật này hoặc trong trường hợp sự cố xảy ra ở nhóm 4 quy định tại khoản 2 Điều 82 của Luật này nhưng vượt quá khả năng ứng phó của cấp tỉnh.\n\nNội dung kế hoạch ứng phó sự cố cấp quốc gia bao gồm tổ chức bộ máy, dự kiến các tình huống sự cố có thể xảy ra, các phương án ứng phó sự cố, tổ chức diễn tập ứng phó sự cố định kỳ hai năm một lần.\n\n5. Tổ chức, cá nhân tiến hành công việc bức xạ xây dựng kế hoạch ứng phó sự cố cấp cơ sở. Cơ quan cấp giấy phép có thẩm quyền phê duyệt kế hoạch ứng phó sự cố cấp cơ sở.\n\nỦy ban nhân dân cấp tỉnh xây dựng kế hoạch ứng phó sự cố cấp tỉnh; Bộ Khoa học và Công nghệ hướng dẫn việc lập kế hoạch và phê duyệt kế hoạch ứng phó sự cố cấp tỉnh.\n\nBộ Khoa học và Công nghệ chủ trì phối hợp với Bộ Công thương, Bộ Y tế, Bộ Quốc phòng, Bộ Công an, Ủy ban nhân dân cấp tỉnh nơi có cơ sở bức xạ, cơ sở hạt nhân và cơ quan, tổ chức, cá nhân có liên quan xây dựng kế hoạch ứng phó sự cố cấp quốc gia trình Thủ tướng Chính phủ phê duyệt."
+   }
+  },
+  {
+   "id": "VN-H504-A84",
+   "no": 84,
+   "noLabel": {
+    "vi": "Điều 84"
+   },
+   "chapter": {
+    "vi": "Chương X"
+   },
+   "heading": {
+    "vi": "Trách nhiệm của tổ chức, cá nhân có liên quan khi sự cố xảy ra"
+   },
+   "text": {
+    "vi": "Điều 84. Trách nhiệm của tổ chức, cá nhân có liên quan khi sự cố xảy ra\n\n1. Tổ chức, cá nhân tiến hành công việc bức xạ có trách nhiệm:\n\na) Xác định vị trí xảy ra sự cố, xác định sơ bộ nguyên nhân, tính chất và khả năng diễn biến sự cố tương ứng với nhóm tình huống quy định tại Điều 82 của Luật này để áp dụng các biện pháp ứng phó;\n\nb) Huy động nhân lực, phương tiện của cơ sở để khắc phục sự cố, hạn chế sự cố lan rộng, hạn chế hậu quả, tổ chức cấp cứu người bị nạn, cô lập nơi nguy hiểm, kiểm soát an ninh;\n\nc) Thông báo ngay cho cơ quan, tổ chức cấp trên trực tiếp, Ủy ban nhân dân hoặc cơ quan công an nơi xảy ra sự cố hoặc cơ quan an toàn bức xạ và hạt nhân về địa điểm xảy ra sự cố; đánh giá sơ bộ nguyên nhân xảy ra sự cố và ảnh hưởng đối với con người, môi trường;\n\nd) Cung cấp thông tin, tài liệu, tạo mọi điều kiện hỗ trợ cần thiết cho việc khắc phục và điều tra nguyên nhân xảy ra sự cố.\n\n2. Bộ, ngành chủ quản, tổ chức cấp trên trực tiếp của tổ chức, cá nhân tiến hành công việc bức xạ có trách nhiệm:\n\na) Chỉ đạo tổ chức, cá nhân tiến hành công việc bức xạ triển khai kế hoạch ứng phó sự cố;\n\nb) Cử ngay cán bộ có thẩm quyền đến nơi xảy ra sự cố để giám sát, đôn đốc ứng phó sự cố;\n\nc) Huy động nhân lực, phương tiện của bộ, ngành, tổ chức mình để hỗ trợ ứng phó sự cố trong trường hợp sự cố xảy ra vượt quá khả năng ứng phó của cấp cơ sở;\n\nd) Trong thời hạn năm ngày kể từ ngày xảy ra sự cố thuộc các nhóm 1, 2 và 3 quy định tại khoản 2 Điều 82 của Luật này, phải thông báo cho Ủy ban nhân dân địa phương, cơ quan công an nơi xảy ra sự cố, cơ quan an toàn bức xạ và hạt nhân về các vấn đề liên quan đến sự cố và các biện pháp khắc phục sự cố đã được tiến hành.\n\nđ) Kịp thời báo cáo Bộ Khoa học và Công nghệ và Ủy ban quốc gia tìm kiếm – cứu nạn về sự cố xảy ra thuộc nhóm 4 và nhóm 5 quy định tại khoản 2 Điều 82 của Luật này và huy động nhân lực, phương tiện của bộ, ngành, tổ chức mình tham gia ứng phó sự cố theo điều động của Chủ tịch Ủy ban quốc gia tìm kiếm – cứu nạn;\n\ne) Phối hợp với Bộ Khoa học và Công nghệ và các cơ quan có liên quan điều tra, xác định nguyên nhân sự cố và mức sự cố theo quy định tại khoản 3 Điều 82 của Luật này.\n\ng) Phối hợp với Bộ Y tế huy động nhân lực, phương tiện tham gia cứu hộ, cứu nạn;\n\nh) Cung cấp thông tin, tài liệu và tạo mọi điều kiện hỗ trợ cần thiết cho việc cứu hộ, cứu nạn, khắc phục, điều tra nguyên nhân xảy ra sự cố.\n\n3. Ủy ban nhân dân cấp tỉnh có trách nhiệm:\n\na) Tổ chức thực hiện, chỉ đạo các cơ quan liên quan trên địa bàn thực hiện kế hoạch ứng phó sự cố cấp tỉnh khi xảy ra sự cố thuộc nhóm 4 quy định tại khoản 2 Điều 82 của Luật này; kịp thời báo cáo Chủ tịch Ủy ban quốc gia tìm kiếm – cứu nạn và yêu cầu hỗ trợ khi sự cố xảy ra vượt quá khả năng ứng phó của địa phương;\n\nb) Chỉ đạo, kiểm tra việc thực hiện kế hoạch ứng phó sự cố cấp cơ sở khi xảy ra sự cố thuộc các nhóm 1, 2 và 3 quy định tại khoản 2 Điều 82 của Luật này; kịp thời hỗ trợ trong trường hợp sự cố xảy ra vượt quá khả năng ứng phó của cấp cơ sở;\n\nc) Huy động nhân lực, phương tiện ở địa phương tham gia ứng phó sự cố theo điều động của Chủ tịch Ủy ban quốc gia tìm kiếm – cứu nạn thực hiện kế hoạch ứng phó sự cố cấp tỉnh và kế hoạch ứng phó sự cố cấp quốc gia;\n\nd) Kịp thời báo cáo Bộ Khoa học và Công nghệ về sự cố xảy ra trên địa bàn;\n\nđ) Thông báo trên phương tiện thông tin đại chúng của địa phương về sự cố xảy ra trên địa bàn.\n\n4. Bộ Khoa học và Công nghệ có trách nhiệm:\n\na) Chỉ đạo cơ quan an toàn bức xạ và hạt nhân thực hiện các biện pháp hỗ trợ, huy động nhân lực, phương tiện khắc phục sự cố; hạn chế sự cố lan rộng, hạn chế hậu quả, cô lập nơi nguy hiểm;\n\nb) Phối hợp với Ủy ban nhân dân cấp tỉnh, Ủy ban quốc gia tìm kiếm – cứu nạn thực hiện kế hoạch ứng phó sự cố cấp tỉnh và kế hoạch ứng phó sự cố cấp quốc gia;\n\nc) Kịp thời báo cáo Ủy ban quốc gia tìm kiếm – cứu nạn trong trường hợp sự cố thuộc nhóm 5 quy định tại khoản 2 Điều 82 của Luật này;\n\nd) Xác định nguyên nhân xảy ra sự cố và mức sự cố theo quy định tại khoản 3 Điều 82 của Luật này; thông báo trên phương tiện thông tin đại chúng;\n\nđ) Thông báo về sự cố cho quốc gia, tổ chức quốc tế có liên quan và đề nghị trợ giúp quốc tế theo quy định của điều ước quốc tế, thỏa thuận quốc tế về thông báo sự cố và trợ giúp quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên trong trường hợp sự cố không gây ảnh hưởng qua biên giới quốc gia.\n\n5. Ủy ban quốc gia tìm kiếm – cứu nạn có trách nhiệm:\n\na) Tổ chức thực hiện, chỉ đạo các cơ quan liên quan thực hiện kế hoạch ứng phó sự cố cấp quốc gia khi xảy ra sự cố thuộc nhóm 5 quy định tại khoản 2 Điều 82 của Luật này;\n\nb) Kịp thời hỗ trợ ứng phó sự cố thuộc nhóm 4 quy định tại khoản 2 Điều 82 của Luật này khi sự cố xảy ra vượt quá khả năng ứng phó của địa phương.\n\n6. Bộ Quốc phòng có trách nhiệm:\n\na) Huy động nhân lực, phương tiện tham gia thực hiện kế hoạch ứng phó sự cố cấp quốc gia khi xảy ra sự cố thuộc nhóm 5 quy định tại khoản 2 Điều 82 của Luật này;\n\nb) Huy động nhân lực, phương tiện hỗ trợ ứng phó sự cố thuộc nhóm 4 quy định tại khoản 2 Điều 82 của Luật này khi sự cố xảy ra vượt quá khả năng ứng phó của địa phương.\n\n7. Bộ Công an có trách nhiệm chỉ đạo, huy động nhân lực, phương tiện tham gia thực hiện kế hoạch ứng phó sự cố cấp quốc gia; chủ trì, phối hợp với Bộ Khoa học và Công nghệ và các cơ quan có liên quan điều tra nguyên nhân sự cố.\n\n8. Bộ Ngoại giao có trách nhiệm chủ trì, phối hợp với Bộ Khoa học và Công nghệ thông báo về sự cố cho quốc gia, tổ chức quốc tế có liên quan và đề nghị trợ giúp quốc tế theo quy định của điều ước quốc tế, thỏa thuận quốc tế về thông báo sự cố và trợ giúp quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên trong trường hợp sự cố có ảnh hưởng qua biên giới quốc gia.\n\n9. Bộ Y tế có trách nhiệm chỉ đạo, huy động nhân lực, phương tiện tham gia cứu hộ, cứu nạn.\n\n10. Tổ chức, cá nhân có liên quan có trách nhiệm cung cấp thông tin, tài liệu và tạo mọi điều kiện hỗ trợ cần thiết cho việc khắc phục và điều tra nguyên nhân xảy ra sự cố."
+   }
+  },
+  {
+   "id": "VN-H504-A85",
+   "no": 85,
+   "noLabel": {
+    "vi": "Điều 85"
+   },
+   "chapter": {
+    "vi": "Chương X"
+   },
+   "heading": {
+    "vi": "Nguyên tắc cung cấp thông tin về sự cố bức xạ, sự cố hạt nhân"
+   },
+   "text": {
+    "vi": "Điều 85. Nguyên tắc cung cấp thông tin về sự cố bức xạ, sự cố hạt nhân\n\n1. Thông tin về sự cố bức xạ, sự cố hạt nhân có khả năng ảnh hưởng đối với khu vực xung quanh nơi xảy ra sự cố phải được cung cấp kịp thời, trung thực cho người dân trong khu vực.\n\n2. Cơ quan thông tin đại chúng đưa tin về sự cố bức xạ, sự cố hạt nhân phải bảo đảm tính trung thực, khách quan và chịu trách nhiệm theo quy định của pháp luật về báo chí."
+   }
+  },
+  {
+   "id": "VN-H504-A86",
+   "no": 86,
+   "noLabel": {
+    "vi": "Điều 86"
+   },
+   "chapter": {
+    "vi": "Chương X"
+   },
+   "heading": {
+    "vi": "Ứng phó sự cố bức xạ, sự cố hạt nhân khi có tình trạng khẩn cấp"
+   },
+   "text": {
+    "vi": "Điều 86. Ứng phó sự cố bức xạ, sự cố hạt nhân khi có tình trạng khẩn cấp\n\nTrong trường hợp xảy ra tình huống đặc biệt nghiêm trọng, gây thảm họa lớn, việc ban bố tình trạng khẩn cấp và chỉ đạo ứng phó sự cố được thực hiện theo pháp luật về tình trạng khẩn cấp.\n\nMục 2\n\nBỒI THƯỜNG THIỆT HẠI"
+   }
+  },
+  {
+   "id": "VN-H504-A87",
+   "no": 87,
+   "noLabel": {
+    "vi": "Điều 87"
+   },
+   "chapter": {
+    "vi": "Chương X"
+   },
+   "heading": {
+    "vi": "Trách nhiệm bồi thường thiệt hại bức xạ, thiệt hại hạt nhân"
+   },
+   "text": {
+    "vi": "Điều 87. Trách nhiệm bồi thường thiệt hại bức xạ, thiệt hại hạt nhân\n\n1. Thiệt hại bức xạ là tổn thất đối với con người, tài sản, môi trường do sự cố bức xạ gây ra, bao gồm cả chi phí cho khắc phục hậu quả.\n\nTrách nhiệm bồi thường thiệt hại bức xạ được xác định theo quy định của pháp luật về dân sự.\n\n2. Thiệt hại hạt nhân là tổn thất đối với con người, tài sản, môi trường do sự cố hạt nhân gây ra, bao gồm cả chi phí cho khắc phục hậu quả.\n\nTổ chức, cá nhân là chủ sở hữu vật liệu hạt nhân, thiết bị hạt nhân hoặc tổ chức, cá nhân được chủ sở hữu giao quyền lưu trữ, sử dụng vật liệu hạt nhân, thiết bị hạt nhân phải bồi thường thiệt hại do sự cố hạt nhân gây ra cả khi không có lỗi, trừ trường hợp sự cố xảy ra do chiến tranh, khủng bố, thảm họa thiên tai vượt quá giới hạn an toàn của thiết kế theo quy chuẩn kỹ thuật quốc gia."
+   }
+  },
+  {
+   "id": "VN-H504-A88",
+   "no": 88,
+   "noLabel": {
+    "vi": "Điều 88"
+   },
+   "chapter": {
+    "vi": "Chương X"
+   },
+   "heading": {
+    "vi": "Mức bồi thường thiệt hại bức xạ, thiệt hại hạt nhân"
+   },
+   "text": {
+    "vi": "Điều 88. Mức bồi thường thiệt hại bức xạ, thiệt hại hạt nhân\n\n1. Mức bồi thường thiệt hại bức xạ được xác định theo quy định của pháp luật về dân sự.\n\n2. Mức bồi thường thiệt hại hạt nhân do các bên thỏa thuận. Trường hợp không thỏa thuận được thì thực hiện theo quy định sau đây:\n\na) Thiệt hại đối với con người được xác định theo quy định của pháp luật về dân sự;\n\nb) Thiệt hại đối với môi trường được xác định theo quy định của pháp luật về bảo vệ môi trường;\n\nc) Tổng mức bồi thường thiệt hại đối với mỗi sự cố hạt nhân xảy ra tại nhà máy điện hạt nhân không vượt quá một trăm năm mươi triệu SDR, đối với sự cố xảy ra tại các cơ sở hạt nhân khác và sự cố do vận chuyển vật liệu hạt nhân không vượt quá mười triệu SDR.\n\nSDR quy định tại khoản này là đơn vị tiền tệ do Quỹ tiền tệ quốc tế xác định, là quyền rút vốn đặc biệt, được quy đổi thành tiền Việt Nam theo tỷ giá tại thời điểm thanh toán bồi thường."
+   }
+  },
+  {
+   "id": "VN-H504-A89",
+   "no": 89,
+   "noLabel": {
+    "vi": "Điều 89"
+   },
+   "chapter": {
+    "vi": "Chương X"
+   },
+   "heading": {
+    "vi": "Thời hiệu khởi kiện đòi bồi thường thiệt hại bức xạ, thiệt hại hạt nhân"
+   },
+   "text": {
+    "vi": "Điều 89. Thời hiệu khởi kiện đòi bồi thường thiệt hại bức xạ, thiệt hại hạt nhân\n\n1. Thời hiệu khởi kiện đòi bồi thường thiệt hại bức xạ được xác định theo quy định của pháp luật về dân sự.\n\n2. Thời hiệu khởi kiện đòi bồi thường thiệt hại hạt nhân được quy định như sau:\n\na) Đối với thiệt hại về tài sản, môi trường là mười năm, kể từ ngày xảy ra sự cố hạt nhân;\n\nb) Đối với thiệt hại về con người là ba mươi năm, kể từ ngày xảy ra sự cố hạt nhân."
+   }
+  },
+  {
+   "id": "VN-H504-A90",
+   "no": 90,
+   "noLabel": {
+    "vi": "Điều 90"
+   },
+   "chapter": {
+    "vi": "Chương X"
+   },
+   "heading": {
+    "vi": "Bảo hiểm nghề nghiệp, bảo hiểm trách nhiệm dân sự và bảo hiểm trách nhiệm bồi thường thiệt hại về môi trường"
+   },
+   "text": {
+    "vi": "Điều 90. Bảo hiểm nghề nghiệp, bảo hiểm trách nhiệm dân sự và bảo hiểm trách nhiệm bồi thường thiệt hại về môi trường\n\n1. Tổ chức, cá nhân tiến hành công việc bức xạ phải mua bảo hiểm nghề nghiệp, bảo hiểm trách nhiệm dân sự; trường hợp công việc bức xạ có tiềm ẩn nguy cơ gây thiệt hại lớn cho môi trường thì phải mua bảo hiểm trách nhiệm bồi thường thiệt hại về môi trường.\n\n2. Chính phủ quy định cụ thể việc mua bảo hiểm quy định tại khoản 1 Điều này."
+   }
+  },
+  {
+   "id": "VN-H504-A91",
+   "no": 91,
+   "noLabel": {
+    "vi": "Điều 91"
+   },
+   "chapter": {
+    "vi": "Chương X"
+   },
+   "heading": {
+    "vi": "Quỹ hỗ trợ khắc phục thiệt hại hạt nhân"
+   },
+   "text": {
+    "vi": "Điều 91. Quỹ hỗ trợ khắc phục thiệt hại hạt nhân\n\n1. Quỹ hỗ trợ khắc phục thiệt hại hạt nhân được sử dụng trong các trường hợp sau:\n\na) Tổ chức, cá nhân có trách nhiệm bồi thường thiệt hại không còn tồn tại;\n\nb) Mức thiệt hại vượt quá giới hạn bồi thường cho mỗi sự cố hạt nhân quy định tại điểm c khoản 2 Điều 88 của Luật này.\n\n2. Quỹ hỗ trợ khắc phục thiệt hại hạt nhân được hình thành từ các nguồn sau:\n\na) Đóng góp của các cơ sở hạt nhân;\n\nb) Tài trợ của tổ chức, cá nhân trong nước;\n\nc) Tài trợ của tổ chức, cá nhân nước ngoài, tổ chức quốc tế;\n\nd) Các nguồn khác theo quy định của pháp luật.\n\n3. Thủ tướng Chính phủ quy định cụ thể về quỹ hỗ trợ khắc phục thiệt hại hạt nhân.\n\nChương XI\n\nĐIỀU KHOẢN THI HÀNH"
+   }
+  },
+  {
+   "id": "VN-H504-A92",
+   "no": 92,
+   "noLabel": {
+    "vi": "Điều 92"
+   },
+   "chapter": {
+    "vi": "Chương XI"
+   },
+   "heading": {
+    "vi": "Hiệu lực thi hành"
+   },
+   "text": {
+    "vi": "Điều 92. Hiệu lực thi hành\n\nLuật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2009.\n\nBãi bỏ Pháp lệnh an toàn và kiểm soát bức xạ ngày 25 tháng 6 năm 1996."
+   }
+  },
+  {
+   "id": "VN-H504-A93",
+   "no": 93,
+   "noLabel": {
+    "vi": "Điều 93"
+   },
+   "chapter": {
+    "vi": "Chương XI"
+   },
+   "heading": {
+    "vi": "Hướng dẫn thi hành"
+   },
+   "text": {
+    "vi": "Điều 93. Hướng dẫn thi hành\n\nChính phủ quy định chi tiết các điều 65, 80, 82, 90 và những nội dung cần thiết khác của Luật này theo yêu cầu quản lý.\n\nLuật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XII, kỳ họp thứ 3 thông qua ngày 03 tháng 6 năm 2008./.\n\n1:{\"id\":\"12804\",\"docType\":{\"id\":\"11025e19-2dd6-4165-85ad-ab6241186a1a\",\"name\":\"Luật\",\"code\":\"Lu\",\"parentCode\":\"VBQPPL\",\"parentName\":null},\"docGroup\":\"VBQPPL\",\"docNum\":\"18/2008/QH12\",\"title\":\"Luật Năng lượng nguyên tử số 18/2008/QH12\",\"applicationNote\":null,\"issueDate\":\"2008-06-03T00:00:00\",\"effFrom\":\"2009-01-01T00:00:00\",\"effTo\":\"2026-01-01T00:00:00\",\"publicDate\":\"2019-01-01T07:00:00\",\"effStatus\":{\"id\":\"f55c1469-4341-4274-93ef-32b283db4dbd\",\"name\":\"Hết hiệu lực toàn bộ\",\"code\":\"HHL\",\"parentCode\":null,\"parentName\":null},\"status\":\"Publish\",\"lang\":\"vi\",\"defaultLanguage\":\"VN\",\"updatedBy\":\"dungdvm_II.2\",\"updatedDate\":\"2026-01-16T17:33:21\",\"agencyName\":\"Quốc hội\",\"organization\":{\"id\":\"94e7dd4f-5655-4249-b6d2-f58d1a0d6cb4\",\"code\":\"BKHVCN\",\"name\":\"Bộ Khoa học và Công nghệ\",\"nameEn\":\"Minister of Science and Technology\",\"shortName\":\"BKHVCN\",\"orgType\":\"0\"},\"isLw\":true,\"documentContent\":{\"id\":\"12804\",\"title\":null,\"content\":\"$2\"},\"documentContentEn\":null,\"documentContentFileName\":null,\"documentContentFileDocName\":null,\"documentIssues\":[{\"id\":\"aa583f1f-456e-4f99-b6a7-527764a738ca\",\"agencyId\":\"55\",\"agencyName\":\"Quốc hội\",\"agencyNameEn\":\"National Assembly of Vietnam\",\"agencyCode\":\"QH\",\"personId\":\"119\",\"personName\":\"Nguyễn Phú Trọng\",\"jobTitleId\":\"28da0087-8afd-420c-875c-b2369e212c3e\",\"jobTitleCode\":\"CTQH\",\"jobTitleName\":\"Chủ tịch Quốc hội\",\"orderIndex\":1}],\"documentMajors\":[],\"documentFields\":[{\"id\":\"76e2c0d5-e93e-4ee9-8c72-59dae1167432\",\"name\":\"Chưa phân loại\",\"code\":null,\"parentCode\":null,\"parentName\":null}],\"documentRelatedList\":[{\"id\":\"49e47aae-f5ab-49b8-83c1-38cc5a7023c8\",\"fileName\":\"12804_body_content.html\",\"relatedType\":\"MARKDOWN\",\"fileTitle\":\"12804_body_content.html\",\"fileOrder\":null}],\"provisionTree\":null,\"references\":null,\"isEffectAllDocument\":false,\"isOld\":true,\"reviewStatus\":\"OP_INPR\",\"reviewed\":false,\"isTranslationDoc\":false,\"isConsolidatedDocument\":false,\"isConstitutionDocument\":false,\"isAdministrativeDocument\":false,\"viewCount\":58,\"showViewCount\":true,\"hasContent\":true,\"hasOriginalPdf\":null,\"hasAIProcessed\":false,\"hasClauseRelation\":true,\"aiResults\":[]}"
+   }
+  }
+ ]
+}

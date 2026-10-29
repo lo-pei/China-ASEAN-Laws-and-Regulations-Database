@@ -1,0 +1,72 @@
+{
+ "id": "PH-H21930",
+ "title": {
+  "zh": null,
+  "en": "Amending Section 3 of Presidential Decree No. 260",
+  "orig": "Amending Section 3 of Presidential Decree No. 260"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p159",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1974-06-28",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 496",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 683,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_00496_1974_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_00496_1974_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H21930-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section 3 of the Presidential Decree No. 260 is hereby amended to read as follows:\n\"Sec. 3. To carry out purposes of this Decree the sum of five hundred thousand pesos (P500,000.00) for the\nNational Museum and the same amount for the National Historical Commission are hereby appropriated from\nthe General Fund not otherwise appropriated beginning July 1, 1974. Such amount the subsequent fiscal\nyear's budgets."
+   }
+  },
+  {
+   "id": "PH-H21930-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "All laws, decrees, orders, rules and regulations inconsistent herewith are hereby repealed and/or\nmodified accordingly."
+   }
+  },
+  {
+   "id": "PH-H21930-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Decree shall take effect immediately.\nDone in the City of Manila, this 28th day of June, in the year of Our Lord, nineteen hundred and seventy-four."
+   }
+  }
+ ]
+}

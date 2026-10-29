@@ -1,0 +1,72 @@
+{
+ "id": "PH-H14348",
+ "title": {
+  "zh": null,
+  "en": "An Act Authorizing the Director of Lands, With the Approval of the Secretary of Agriculture and Natural Resources, to Collect Fees for the Verification of Surveys By Private Land Surveyors, Setting Aside An Appropriation for the Employment of Personnel and for Other Purposes.",
+  "orig": "An Act Authorizing the Director of Lands, With the Approval of the Secretary of Agriculture and Natural Resources, to Collect Fees for the Verification of Surveys By Private Land Surveyors, Setting Aside An Appropriation for the Employment of Personnel and for Other Purposes."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1930-11-20",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3716",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 814,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1930/act_3716_1930.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03716_1930_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03716_1930_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14348-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The Director of Lands is hereby authorized to collect fees from private land surveyors for the\nverification of their surveys at rates which shall be prescribed with the approval of the Secretary of\nAgriculture and Natural Resources."
+   }
+  },
+  {
+   "id": "PH-H14348-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The sum of thirty-five thousand pesos is hereby appropriated out of any funds in the Insular\nTreasury not otherwise appropriated, for the employment of Junior Computers and Junior Draftsmen, at the\nrate not to exceed six hundred pesos per annum each, to expedite the work of verification of surveys submitted\nby private land surveyors to the Bureau of Lands: Provided, however, That the payments made under the\nauthority given herein, shall not exceed the fees actually collected under section one of this Act."
+   }
+  },
+  {
+   "id": "PH-H14348-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, November 20, 1930."
+   }
+  }
+ ]
+}

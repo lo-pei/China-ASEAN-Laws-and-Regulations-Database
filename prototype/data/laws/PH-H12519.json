@@ -1,0 +1,62 @@
+{
+ "id": "PH-H12519",
+ "title": {
+  "zh": null,
+  "en": "AN ACT ADDING TO THE FIRST PARAGRAPH OF SECTION FOUR OF ACT NUMBERED FIFTEEN HUNDRED AND EIGHTY-TWO CERTAIN PROVISIONS FOR CASES OF VOID ELECTIONS OF PROVINCIAL OFFICERS AND OF THE DEATH OF THE SAME.",
+  "orig": "AN ACT ADDING TO THE FIRST PARAGRAPH OF SECTION FOUR OF ACT NUMBERED FIFTEEN HUNDRED AND EIGHTY-TWO CERTAIN PROVISIONS FOR CASES OF VOID ELECTIONS OF PROVINCIAL OFFICERS AND OF THE DEATH OF THE SAME."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p154",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 1810",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 812,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_01810_1908_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_01810_1908_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H12519-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "The following provision is hereby added to the first paragraph of section four of Act Numbered\nFifteen hundred and eighty-two:\n\"Whenever the election of an elective provincial officer shall have resulted in a failure to elect it shall be the\nduty of the Governor-General to issue as soon as possible a proclamation calling a special election to be held\nto fill said office. In the event of the death of  Death of a  provincial  officer-elect prior to his taking office\nthe Governor-General may, in his discretion, issue a proclamation calling a special election to be held to fill\nthe vacancy, or appoint the person who shall till the vacancy until his successor shall have been duly elected\nand shall have qualified for the subsequent term.\""
+   }
+  },
+  {
+   "id": "PH-H12519-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "This Act shall take effect on its passage.\nEnacted, February 18, 1908."
+   }
+  }
+ ]
+}

@@ -1,0 +1,264 @@
+{
+ "id": "MY-H460",
+ "title": {
+  "zh": "1998年财政（第2号）法",
+  "en": "FINANCE (NO. 2) ACT 1998",
+  "orig": "FINANCE (NO. 2) ACT 1998",
+  "vi": "Luật về Tài chính (số 2) năm 1998",
+  "th": "พระราชบัญญัติการคลัง (ฉบับที่ 2) ค.ศ. 1998",
+  "id": "Undang-Undang Keuangan (Nomor 2) Tahun 1998",
+  "ms": "Akta Kewangan (Bilangan 2) 1998"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-10",
+ "language": "en",
+ "level": "law",
+ "category": "02_民商事与经济法",
+ "status": "active",
+ "promulgatedDate": "1998",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "ACT591",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 18,
+ "chars": 8106,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-detail.php?act=591&lang=BI"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\02_民商事与经济法\\1998_591_FINANCE (NO. 2) ACT 1998.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 18 条；逐字未改写（源自厂商 OCR 文本）。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H460-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "1. Subject to this Schedule, a company resident in Malaysia in the basis\nyear for a year of assessment (referred to in this Schedule as a \"surrendering\ncompany\") may surrender its adjusted loss, in full or in part, in the basis\nperiod for that year of assessment in respect of an approved food production\nproject to one or more related companies resident in Malaysia in the\nbasis year for that year of assessment (referred to in this Schedule as\na \"claimant company\")."
+   }
+  },
+  {
+   "id": "MY-H460-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "2. In relation to an apprpved food production project—\n\n(a) the application for approval for the project shall be made not\nlater than 31 December 1999;\n\nthe project shall commence within one year from the date of\napproval; and\n\n(b\n\n~—\n\n(c) at least eighty per cent of the sales, if any, of the produce are\nmade within Malaysia."
+   }
+  },
+  {
+   "id": "MY-H460-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "3. For the purposes of this Schedule, a surrendering company is related\nto a claimant company if at the end of the basis period for a year of\nassessment at least—\n\n(a) seventy per cent of the issued share capital of the surrendering\ncompany are directly owned by the claimant company;\n\n(b) seventy per cent of the issued share capital of the claimant\ncompany are directly owned by the surrendering company; or\n\n(c) seventy per cent each of the issued share capital of the surrendering\ncompany and claimant company are directly owned by another\ncompany."
+   }
+  },
+  {
+   "id": "MY-H460-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "4. The amount of adjusted loss surrendered shall be allowed as a deduction\nagainst the aggregate income of the claimant company pursuant to section\n44(1)."
+   }
+  },
+  {
+   "id": "MY-H460-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "5. Any amount of adjusted loss from the approved food production\nproject that is not surrendered in any year of assessment shall not be\navailable to any claimant company for any subsequent year of assessment."
+   }
+  },
+  {
+   "id": "MY-H460-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "6. Where the asis period of the surrendering company does not coincide\nwith the basis period of the claimant company, the adjusted loss from\n\n10                            Laws of Malaysia                    Acr 591\n\nthe approved food production project shall be deemed to have accrued\nevenly over the basis period of the surrendering company and the amount\nof adjusted loss surrendered shall not exceed such amount that is apportioned\nto the period that coincides with the basis period of the claimant company."
+   }
+  },
+  {
+   "id": "MY-H460-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "7. Where a company has commenced an approved food production project,\nthat company shail maintain a separate account for the income derived\nfrom that project:\n\nProvided that where expenses have been incurred by that company\nwhich are not directly attributable to that project, the Director General\nmay allocate as expenses such amount as might reasonably and properly\nhave been incurred in the normal course of its business in respect of such\nproject."
+   }
+  },
+  {
+   "id": "MY-H460-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "8. Any claim for a deduction under this Schedule shall be made in a\nwritten statement and shall be accompanied by a notice of consent given\nby the surrendering company containing such particulars as to show the\namount of adjusted loss being surrendered."
+   }
+  },
+  {
+   "id": "MY-H460-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "9. Notwithstanding the foregoing provisions of this Schedule, where it\nappears to the Director General that the deduction as mentioned in paragraph\n4 ought not to have been so given, the Director General may raise such\nassessment or additional assessment upon that claimant company as may\nbe necessary in order to make good any loss of tax."
+   }
+  },
+  {
+   "id": "MY-H460-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "10. The provisions of this Schedule shall not apply to a surrendering\ncompany which has been allowed a deduction under Schedule 4a or\ngiven an allowance under Schedule 7a, or granted any incentive under\nact 327. the Promotion of Investments Act 1986 in respect of the same activity."
+   }
+  },
+  {
+   "id": "MY-H460-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "11. In this Schedule, \"approved food production project\" means an\nagricultural project which is approved by the Minister of Agriculture for\nthe cultivation of maize for animal feed, cattle farming or any other\nactivities as may be prescribed by the Minister of Finance.\".\n\nAmendment of Schedule 6\n\n11. Schedule 6 to the principal Act is amended—\n\n(a) in paragraphs 1a and 1B by substituting for the words\n\"Raja Permaisuri or Tengku Ampuan\" the words \"Tengku\nAmpuan, Raja Permaisuri, Tengku Permaisuri, or\nPermaisuri\";\n\n(b) in paragraph 30 by deleting the wards \"resident for the\nbasis year for a year of assessment\";\n\nFinance (No. 2)                          11\n(c) by substituting for paragraph 34 the following paragraph:\n\n\"34. (1) Income of an individual derived from\nexercising an employment on board a Malaysian ship.\n\n(2) For the purposes of subparagraph (1), \"Malaysian\nship\" has the same meaning as in section 54a(6).';\nand\n\n(d) by inserting after paragraph 35 the following paragraph:\n\n\"35a. Income of a unit trust in respect of interest\n\nderived from Malaysia and paid or credited by\n\nany bank or financial institution licensed under\nAct 372. the Banking and Financial Institutions Act 1989\nAct 276. or the Islamic Banking Act 1983.\".\n\nAmendment of Schedule ‘9"
+   }
+  },
+  {
+   "id": "MY-H460-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "12. Schedule 7 to the principal Act is amended by deleting\nparagraph 8.\n\nAmendment of Schedule 7A"
+   }
+  },
+  {
+   "id": "MY-H460-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "13. Schedule 7a to the principal Act is amended—\n\n(a) in subparagraph (1)(a) by insertirig after the semicolon\nthe word \"and\";\n\n(b) in subparagraph (1)(b) by substituting for the words\n\n\",\n\n; and\" a comma; and\n\n(c) by deleting subparagraph (1)(c).\n\nCuapTer Il\n\nAMENDMENT TO THE REAL PROPERTY GAINS TAX ACT 1976\nCommencement of amendment to the Real Property Gains\nTax Act 1976"
+   }
+  },
+  {
+   "id": "MY-H460-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "14. This Chapter shall have effect upon the coming into operation\nof this  Act,\n\nAmendment of section 53"
+   }
+  },
+  {
+   "id": "MY-H460-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "en": "15. The Real Property Gains Tax Act 1976 is amended by\nsubstituting for paragraph 53(2)(a) the following paragraph:\n\n\"(a) in the case of a company, partnership or body of persons\nhaving a registered office in Malaysia—\n\n(i) to that registered office;\n(ii) to its last known address; or\n\n(iii) to any person authorised by it to accept service of\nprocess;\".\n\nCHAPTER IV\n\nAMENDMENTS TO THE LABUAN OFFSHORE\n\nBUSINESS ACTIVITY TAX ACT 1990°\n!\n\nCommencement of amendments to the Labuan Offshore Business\nActivity Tax Act 1990"
+   }
+  },
+  {
+   "id": "MY-H460-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16"
+   },
+   "chapter": {
+    "en": "CHAPTER IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "16. This Chapter shall have effect for the year of assessment\n1999 and subsequent years of assessment.\n\nAmendment of section 2"
+   }
+  },
+  {
+   "id": "MY-H460-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17"
+   },
+   "chapter": {
+    "en": "CHAPTER IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "17. The Labuan Offshore Business Activity Tax Act 1990, which\nin this Chapter is referred to as the \"principal Act\", is amended\nin subsection 2(1)—\n\n(a) by substituting for the proviso to the definition of \"offshore\nbusiness activity\" the following proviso:\n\n\"Provided that—\n\n(a) in relation to an offshore company carrying on\nan offshore banking business, such activity may\nbe carried on with residents and, where permitted\n\nAct 443. under subsection (2) of section 20 of the Offshore\nBanking Act 1990, transactions may be carried\non in Malaysian currency;\n\n(b) in relation to an offshore company carrying on\nan offshore insurance business, such activity\nmay be carried on with residents and, where\npermitted under subsection (2) of section 21 of\n\nFinance (No. 2)                    13\n\nAct 444.    the Offshore Insurance Act 1990, transactions\nmay be carried on in Malaysian currency;\n\n(c) in relation to the holding of investments by an\noffshore company in a domestic company, such\nholding may be in Malaysian currency;\n\n(d) in relation to an offshore company carrying on\na money-broking business, such activity may\nbe carried on with residents where permitted\nunder paragraph (a) of subsection (3) of section\nAct 44. 7 Of the Offshore Companies Act 1990;\n\n(e) in relation to an offshore company carrying on\nan offshore leasing business, such activity may\nbe carried on with residents where permitted\nunder paragraph (a) of subsection (3) of section\n7 of the Offshore Companies Act 1990; or\n\n(f) the Minister may approve the carrying on of\nsuch activity with residents or such transactions\nin Malaysian currency;\"; and\n\n(b) by inserting after the definition of \"resident\" the following\ndefinition:\n\n‘ \"shipping operations\" means the transportation of\npassengers or cargo by sea or the letting out on charter\nof ships on a voyage or time charter basis;'.\n\nDeletion of section 10a"
+   }
+  },
+  {
+   "id": "MY-H460-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18"
+   },
+   "chapter": {
+    "en": "CHAPTER IV"
+   },
+   "heading": {},
+   "text": {
+    "en": "18. The principal Act is amended by deleting section 10a.\n\n3 DICETAK OLEH\n\nPERCETAKAN NASIONAL MALAYSIA BERHAD,\n\nCAWANGAN KUALA LUMPUR\n\ni) BAGI PIHAK DAN DENGAN PERINTAH KERAJAAN MALAYSIA"
+   }
+  }
+ ]
+}

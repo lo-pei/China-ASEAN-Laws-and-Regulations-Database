@@ -1,0 +1,52 @@
+{
+ "id": "PH-H22959",
+ "title": {
+  "zh": null,
+  "en": "Amending Republic Act No. 95, as Amended By Republic Act No. 855 and Republic Act No. 6373 and Further Amended By Presidential Decree No. 1264",
+  "orig": "Amending Republic Act No. 95, as Amended By Republic Act No. 855 and Republic Act No. 6373 and Further Amended By Presidential Decree No. 1264"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p160",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1979-10-01",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 1643",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 1,
+ "chars": 412,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_01643_1979_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 1 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_01643_1979_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22959-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section 6, sub-section a, Presidential Decree No. 1264, is hereby amended to read as follows:\n\"a. The term of office of all members of the Board shall be four years, including those appointed by the\nPresident of the Philippines, renewable at the pleasure of the appointing power or elective bodies.\"\nDONE in the City of Manila, this 1st day of October, in the year of Our Lord, nineteen hundred and\nseventy-nine."
+   }
+  }
+ ]
+}

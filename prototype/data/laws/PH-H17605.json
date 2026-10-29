@@ -1,0 +1,62 @@
+{
+ "id": "PH-H17605",
+ "title": {
+  "zh": null,
+  "en": "MALACAÑANG RESIDENCE OF THE PRESIDENT OF THE PHILIPPINES BY THE PRESIDENT OF THE PHILIPPINES CREATING A PRESIDENTIAL COMMITTEE ON TRADE AGREEMENTS AND RELATED MAT.",
+  "orig": "MALACAÑANG RESIDENCE OF THE PRESIDENT OF THE PHILIPPINES BY THE PRESIDENT OF THE PHILIPPINES CREATING A PRESIDENTIAL COMMITTEE ON TRADE AGREEMENTS AND RELATED MAT."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p157",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Executive Order No. 107",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 454,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": null
+ },
+ "sourceFile": "菲律宾/法律原文/07_行政命令_EO/EO_00107_1955.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 EO_00107_1955.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H17605-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Sec 3"
+   },
+   "text": {
+    "en": "Any provisions of existing executive and/or\nadministrative orders as are inconsistent with the provi-\nsions of this Order are hereby repealed."
+   }
+  },
+  {
+   "id": "PH-H17605-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Sec 4"
+   },
+   "text": {
+    "en": "This Order shall take effect on March 15, 1955.\nDone in the City of Manila, this 15th day of March, in\nthe year of Our Lord, nineteen hundred and fifty-five,\nand of the Independence of the Philippines, the ninth.\nRaMON MAGSAYSAY\nPresident of the Philippines\nBy the President:\nFRED RUIZ CASTRO\nProcutive Secretary"
+   }
+  }
+ ]
+}

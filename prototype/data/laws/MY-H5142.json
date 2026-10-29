@@ -1,0 +1,222 @@
+{
+ "id": "MY-H5142",
+ "title": {
+  "zh": "2012年野生动物保护（动物园运营）条例",
+  "en": "WILDLIFE CONSERVATION (OPERATION OF ZOO) REGULATIONS 2012",
+  "orig": "WILDLIFE CONSERVATION (OPERATION OF ZOO) REGULATIONS 2012",
+  "ms": "Peraturan Pemuliharaan Hidupan Liar (Pengoperasian Zoo) 2012",
+  "vi": "Quy định về Bảo tồn động vật hoang dã (Hoạt động của vườn thú) năm 2012",
+  "th": "ข้อบังคับการอนุรักษ์สัตว์ป่า (การดำเนินงานสวนสัตว์) ค.ศ. 2012",
+  "id": "Peraturan Konservasi Satwa Liar (Pengoperasian Kebun Binatang) Tahun 2012"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-11",
+ "language": "ms",
+ "level": "regulation",
+ "category": "05_其他及未分类",
+ "status": "active",
+ "promulgatedDate": "2012",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "PUA36",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 15,
+ "chars": 21019,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-view.php?type=pua&no=P.U. (A) 36/2012&status=PRINCIPAL"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\05_其他及未分类\\2012_P.U.(A)36-2012_WILDLIFE CONSERVATION (OPERATION OF ZOO) REGULATIONS 2012.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 15 条；逐字未改写（源自厂商 OCR 文本）；已清除正文中的 3 个控制字符（C0/C1 区，法律文本中无合法用途，系 PDF 抽取/表单域残留）。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H5142-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "1. Nama dan permulaan kuat kuasa"
+   }
+  },
+  {
+   "id": "MY-H5142-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "2. Tafsiran"
+   }
+  },
+  {
+   "id": "MY-H5142-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "3. Kehendak bagi permit"
+   }
+  },
+  {
+   "id": "MY-H5142-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "4. Fi"
+   }
+  },
+  {
+   "id": "MY-H5142-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "5. Kesahan permit"
+   }
+  },
+  {
+   "id": "MY-H5142-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "6. Kurungan"
+   }
+  },
+  {
+   "id": "MY-H5142-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "7. Kawasan kuarantin"
+   }
+  },
+  {
+   "id": "MY-H5142-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "8. Pemakanan"
+   }
+  },
+  {
+   "id": "MY-H5142-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "9. Penjagaan kesihatan hidupan liar"
+   }
+  },
+  {
+   "id": "MY-H5142-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "10. Pembersihan kurungan"
+   }
+  },
+  {
+   "id": "MY-H5142-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "11. Pelalian hidupan liar"
+   }
+  },
+  {
+   "id": "MY-H5142-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "12. Eutanasia"
+   }
+  },
+  {
+   "id": "MY-H5142-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "13. Pertunjukan hidupan liar"
+   }
+  },
+  {
+   "id": "MY-H5142-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "14. Wang cagaran"
+   }
+  },
+  {
+   "id": "MY-H5142-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "15. Penalti\n\nJADUAL\n\nAKTA PEMULIHARAAN HIDUPAN LIAR 2010\n\nPERATURAN-PERATURAN PEMULIHARAAN HIDUPAN LIAR\n\n(PENGENDALIAN ZOO) 2012\n\nPADA menjalankan kuasa yang diberikan oleh perenggan 132(2)(e) dan (f), Akta\n\nPemuliharaan Hidupan Liar 2010 [Akta 716], Menteri membuat peraturan-peraturan\n\nyang berikut:\n\nNama dan permulaan kuat kuasa\n\n1. (1) Peraturan-peraturan ini bolehlah dinamakan Peraturan-Peraturan\n\nPemuliharaan Hidupan Liar (Pengendalian Zoo) 2012.\n\n(2) Peraturan-Peraturan ini mula berkuat kuasa pada 1 Februari 2012.\n\nTafsiran\n\n2. Dalam Peraturan-Peraturan ini, melainkan jika konteksnya menghendaki makna\n\nyang lain:\n\n\"Akta\" ertinya Akta Pemuliharaan Hidupan Liar 2010 [Akta 716];\n\n\"doktor veterinar\" ertinya seseorang yang didaftarkan di bawah Akta Doktor\n\nVeterinar 1974 [Akta 147];\n\n\"kurungan\" termasuklah kawasan pameran hidupan liar dan kurungan malam;\n\n\"pengendali zoo\" ertinya mana-mana individu, badan berkanun, syarikat,\n\npersatuan atau pihak berkuasa tempatan yang memiliki atau mengusahakan zoo;\n\n\"zoo\" ertinya mana-mana kawasan atau premis yang menyimpan atau\n\nmenempatkan hidupan liar sama ada untuk tujuan pemuliharaan, pendidikan,\n\npenyelidikan atau rekreasi, dan dibuka kepada umum.\n\nKehendak bagi permit\n\n3. Tiada seorang pun boleh mengendalikan zoo melainkan jika dia memegang suatu\n\npermit yang dikeluarkan di bawah peruntukan dalam Bab 2 Akta.\n\nFi\n\n4. Fi yang kena dibayar bagi suatu permit yang dikeluarkan adalah satu ribu ringgit\n\nsetahun dan hendaklah dibayar kepada pegawai pelesen melalui apa-apa cara\n\nsebagaimana yang ditentukan oleh pegawai pelesen.\n\nKesahan permit\n\n5. Permit yang diluluskan di bawah Peraturan-Peraturan ini hendaklah sah selama\n\napa-apa tempoh yang dinyatakan dalam permit itu.\n\nKurungan\n\n6. (1) Kecuali bagi kelas insekta dan araknida, mana-mana pengendali zoo\n\nhendaklah menyediakan suatu kurungan yang bersesuaian bagi setiap spesies hidupan\n\nliar mengikut saiz sebagaimana yang dinyatakan dalam Jadual.\n\n(2) Kurungan yang disebut dalam subperaturan (1) hendaklah mempunyai\n\nreka bentuk yang sesuai dengan kelakuan semula jadi dan keperluan asas hidupan liar\n\nitu.\n\n(3) Reka bentuk kurungan yang disediakan oleh pengendali zoo itu\n\nhendaklah dikemukakan kepada Ketua Pengarah untuk kelulusan.\n\nKawasan kuarantin\n\n7. (1) Pengendali zoo hendaklah menyediakan suatu kawasan kuarantin bagi\n\npenempatan atau pengasingan sementara mana-mana hidupan liar yang baru diperoleh\n\nuntuk tujuan pencegahan atau rawatan apa-apa penyakit yang mungkin dihidapi oleh\n\nhidupan liar itu.\n\n(2) Bagi maksud subperaturan (1), apa-apa pelan kawasan kuarantin, saiz\n\ndan reka bentuk kurungan bagi hidupan liar itu hendaklah dikemukakan kepada Ketua\n\nPengarah untuk kelulusan.\n\n(3) Pengendali zoo hendaklah memastikan bahawa kawasan kuarantin itu\n\ntidak dibuka kepada mana-mana orang awam.\n\n(4) Pengendali zoo hendaklah memastikan bahawa hidupan liar itu\n\ndikuarantin bagi suatu tempoh tertentu sebagaimana yang ditentukan oleh doktor\n\nveterinar.\n\nPemakanan\n\n8. (1) Pengendali zoo hendaklah memastikan apa-apa makanan dan minuman\n\nyang disediakan bagi hidupan liar—\n\n(a) mengandungi kandungan nutrien yang diperlukan, tidak tercemar\n\ndan diberi dalam kuantiti yang mencukupi sebagaimana yang\n\nditentukan oleh doktor veterinar;\n\n(b) bersesuaian dengan pemakanan semula jadi spesies, keadaan\n\nfisiologi dan jantina hidupan liar itu.\n\n(2) Pengendali zoo hendaklah menyenggara dan menyimpan rekod-rekod\n\npemakanan bagi setiap hidupan liar itu.\n\nPenjagaan kesihatan hidupan liar\n\n9. (1) Pengendali zoo adalah bertanggungjawab untuk memastikan penjagaan\n\nkesihatan hidupan liar di zoo di bawah pengendaliannya.\n\n(2) Bagi maksud subperaturan (1), pengendali zoo hendaklah—\n\n(a) mengambil sekurang-kurangnya seorang doktor veterinar\n\nsepenuh masa untuk ditempatkan di zoo itu atau melantik seorang\n\nperunding doktor veterinar tetap jika tidak boleh berbuat\n\ndemikian, tertakluk kepada subperaturan (4);\n\n(b) menyediakan klinik dan hospital veterinar di zoo itu;\n\n(c) memastikan bahawa bedah siasat dijalankan ke atas setiap\n\nhidupan liar yang mati dan direkodkan oleh doktor veterinar;\n\n(d) menanda dan merekodkan setiap kelahiran hidupan liar di zoo itu;\n\n(e) menyenggara dan menyimpan rekod mengenai semua perkara\n\nyang berhubungan dengan pengurusan setiap hidupan liar di zoo\n\nitu; dan\n\n(f) melaporkan kepada pihak berkuasa veterinar jika mana-mana\n\nhidupan liar dijangkiti atau disyaki dijangkiti oleh penyakit atau\n\nmati atau disyaki mati akibat penyakit, mengikut kehendak Akta\n\nBinatang 1953 [Akta 647].\n\n(3) Perenggan 9(2)(a) hingga (d) tidak terpakai bagi kelas insekta dan\n\naraknida.\n\n(4) Pengendali zoo hendaklah mendapatkan kebenaran bertulis Ketua\n\nPengarah sebelum melantik mana-mana perunding doktor veterinar tetap yang disebut\n\ndalam perenggan (2)(a) dan apa-apa perubahan mengenai pelantikan itu.\n\nPembersihan kurungan\n\n10. Pengendali zoo hendaklah menyenggara aktiviti pembersihan kurungan\n\nhidupan liar di zoo dan menyimpan semua rekod yang berhubungan dengan\n\npembersihan setiap kurungan hidupan liar di zoo itu.\n\nPelalian hidupan liar\n\n11. Pengendali zoo hendaklah memastikan bahawa apa-apa pelalian terhadap manamana hidupan liar dilakukan oleh doktor veterinar atau mana-mana orang lain di\n\nbawah seliaan doktor veterinar itu.\n\nEutanasia\n\n12. (1) Eutanasia ke atas mana-mana hidupan liar di zoo hanya boleh dilakukan\n\noleh doktor veterinar atau mana-mana orang lain di bawah seliaan doktor veterinar itu.\n\n(2) Eutanasia ke atas mana-mana hidupan liar boleh dilakukan jika doktor\n\nveterinar itu mendapati selepas pemeriksaan, hidupan liar itu mengalami kecederaan\n\natau menghidapi penyakit yang tidak boleh disembuhkan atau atas apa-apa alasan lain\n\nyang doktor veterinar itu fikirkan perlu untuk menamatkan hayat hidupan liar itu.\n\nPertunjukan hidupan liar\n\n13. (1) Mana-mana pengendali zoo yang hendak mengadakan suatu aktiviti\n\npertunjukan hidupan liar di zoo di bawah pengendaliannya hendaklah mengemukakan\n\nsuatu permohonan bertulis kepada Ketua Pengarah.\n\n(2) Ketua Pengarah boleh meluluskan permohonan di bawah\n\nsubperenggan (1) dengan syarat pertunjukan hidupan liar itu—\n\n(a) dipersembahkan berasaskan kelakuan semula jadi hidupan liar itu;\n\n(b) tidak melibatkan apa-apa paksaan, penderaan atau apa-apa unsur\n\npaksaan terhadap hidupan liar itu; dan\n\n(c) tidak mengakibatkan penderitaan, kesakitan dan ketakutan\n\nkepada hidupan liar itu.\n\n(3) Hidupan liar yang digunakan bagi aktiviti pertunjukan hidupan liar tidak\n\nboleh ditempatkan di dalam kurungan pemindahan lebih daripada satu jam dalam\n\nsehari.\n\nWang cagaran\n\n14. (1) Walau apa pun seksyen 112 Akta, tiap-tiap pengendali zoo hendaklah\n\nmendeposit sejumlah wang sebagai cagaran sebagaimana yang ditentukan oleh Ketua\n\nPengarah bagi maksud membiayai apa-apa kos yang ditanggung oleh Kerajaan dalam\n\nmenyita, menyimpan dan menyenggara apa-apa hidupan liar yang disita daripada\n\npengendali zoo mengikut peruntukan Akta.\n\n(2) Jika wang cagaran itu telah digunakan sebahagiannya atau\n\nkeseluruhannya, pengendali zoo hendaklah mendepositkan semula wang secukupnya\n\nkepada Ketua Pengarah dalam tempoh yang ditentukan oleh Ketua Pengarah.\n\n(3) Wang cagaran hendaklah dikembalikan kepada pengendali zoo jika\n\noperasi zoo tidak lagi diteruskan.\n\nPenalti\n\n15. Mana-mana orang yang melanggar mana-mana peruntukan dalam PeraturanPeraturan ini melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak\n\nmelebihi satu ratus ribu ringgit atau pemenjaraan selama tempoh tidak melebihi lima\n\ntahun atau kedua-duanya.\n\nJADUAL\n\n(Peraturan 4)\n\nSaiz Kurungan\n\nA. Mamalia\n\n* Sekurang-kurangnya dua kurungan malam bagi setiap kawasan pameran\n\n** Tidak termasuk spesies yang bebas berkeliaran\n\nKategori spesies\n\nSaiz kurungan malam\n\nuntuk setiap ekor Saiz\n\nminimum\n\nbagi\n\nkawasan\n\npameran\n\n(setiap\n\npasangan)\n\n(m2)\n\nSaiz\n\nminimum\n\nkawasan\n\nbukan\n\npameran\n\n(setiap\n\npasangan)\n\n(m2)\n\nPenambahan\n\nsaiz\n\nkurungan\n\nmalam/\n\nkawasan\n\nsetiap\n\nindividu\n\ntambahan\n\n(%)\n\nPanjang\n\n(m)\n\nLebar\n\n(m)\n\nTinggi\n\n(m)\n\nKarnivora besar 4.0 3.0 3.0 500 50 10\n\nMamalia kecil,\n\nkarnivora kecil 3.0 2.0 2.5 80 8 10\n\nSemua spesies\n\nberuang 4.0 3.0 3.0 300 30 10\n\nSemua spesies\n\nbadak, badak air,\n\ntapir\n\n5.0 4.0 3.0 500 50 10\n\nLembu liar* 5.0 4.0 3.0 500 50 5\n\nSemua spesies\n\nrusa, kuda liar,\n\nantelop, unta,\n\nkambing liar*\n\n5.0 4.0 3.0 300 30 2\n\nPrimat besar 4.0 3.0 3.0 300 30 5\n\nPrimat saiz\n\nsederhana 3.0 2.5 3.0 150 15 5\n\nPrimat kecil ** 2.0 2.0 2.0 50 5 5\n\nGajah 8.0 6.0 6.0 1000 100 5\n\nZirafah 6.0 4.0 6.0 500 50 5\n\nKanggaru,\n\nwallabies* 3.0 2.0 3.0 200 20 5\n\nNapuh, pelanduk* 2.0 2.0 2.0 50 5 5\n\nB. Reptilia dan Amfibia\n\nKategori spesies\n\nSaiz\n\nminimum\n\nkurungan\n\n(m2)\n\nSaiz minimum kawasan\n\nberair di dalam kurungan\n\n(m2) bagi spesies yang\n\nmemerlukan kawasan\n\nberair\n\nPenambahan\n\nsaiz kawasan\n\nsetiap\n\nindividu\n\ntambahan\n\n(%)\n\nBuaya, gharial, aligator\n\n(sehingga 10 ekor) 100\n\n(kedalaman minimum\n\n1 meter)\n\nUlar sawa, boa, anakonda,\n\ntedung selar, buaya kerdil,\n\nbiawak air (sehingga 2 ekor)\n\n(kedalaman minimum\n\n0.5 meter)\n\nUlar-ular lain\n\n(sehingga 2 ekor) 4 - 10\n\nUlar air (sehingga 2 ekor) 4 1 10\n\nBiawak, iguana\n\n(sehingga 2 ekor) 20 - 10\n\nBiawak komodo\n\n(sehingga 2 ekor) 100 - 10\n\nGecko, cicak kecil\n\n(sehingga 2 ekor) 1 - 10\n\nTuntung, labi-labi\n\n(sehingga 2 ekor) 9 4 10\n\nKura-kura (sehingga 2 ekor) 4 - 10\n\nAmfibia (sehingga 2 ekor) 1 0.5 10\n\nC. Burung\n\nKategori spesies\n\n(sehingga 2 ekor)\n\nSaiz minimum\n\naviari (m2)\n\nsetiap pasang\n\nTinggi\n\nminimum\n\naviari (m)\n\nSaiz minimum\n\nkandungan air di\n\ndalam aviari\n\n(m2)\n\nPenambahan\n\nsaiz kawasan\n\nsetiap\n\nindividu\n\ntambahan (%)\n\nBurung pemangsa\n\nbersaiz besar\n\n(Genus: Anthracoceros,\n\nBuceros, Anorrhinus,\n\nAceros, Ictinaetus,\n\nAquila, Spilornis,\n\nCircaetus, Neophron,\n\nGyps, Aegypius,\n\nSarcogyps, Haliaeetus,\n\nIchthyophaga dan\n\nSpizaetus)\n\n100 6 - 10\n\nBurung pemangsa\n\nbersaiz sederhana\n\n(Genus: Hieraaetus,\n\nButastur, Buteo,\n\nAccipiter, Circus,\n\nMacheiramphus, Pernis\n\ndan Aviceda)\n\n40 5 - 10\n\nBurung pemangsa lain\n\nbersaiz kecil 25 4 - 10\n\nBurung kuang besar\n\n(Genus: Tragopan,\n\nArgusianus, Pavo)\n\n30 4 - 10\n\nBurung kuang lain\n\nbersaiz kecil 20 3 - 10\n\nBurung air\n\n(campuran pelbagai\n\nspesies sehingga\n\n10 ekor)\n\n50 6\n\n(kedalaman\n\n0.5 meter)\n\nPenguin\n\n(sehingga 10 ekor) 80 2\n\n(kedalaman\n\n2 meter)\n\nBurung hutan\n\n(campuran pelbagai\n\nspesies sehingga\n\n10 ekor)\n\n40 6 - 10\n\nOstrich, emu dan\n\nkasawari 100 1.8(ketinggian 0.5 10\n\n(Burung besar yang\n\ntidak boleh terbang)\n\npagar)\n\nParrot, parakeet\n\n(sehingga 10 ekor) 10 3 - 10\n\nMakaw, kakak tua 40 6 - 10\n\nDibuat 30 Januari 2012\n\n[NRE 44/4/1/08; PN(PU2)697/II]\n\nDATO SRI DOUGLAS UGGAH EMBAS\n\nKementerian Sumber Asli dan Alam Sekitar\n\nWILDLIFE CONSERVATION ACT 2010\n\nWILDLIFE CONSERVATION (OPERATION OF ZOO) REGULATIONS 2012\n\nARRANGEMENT OF REGULATIONS\n\nRegulations\n\n1. Citation and commencement\n\n2. Interpretation\n\n3. Requirement for permit\n\n4. Fee\n\n5. Validity of permit\n\n6. Enclosure\n\n7. Quarantine area\n\n8. Diet\n\n9. Wildlife health care\n\n10. Cleaning of enclosure\n\n11. Vaccination of wildlife\n\n12. Euthanasia\n\n13. Wildlife show\n\n14. Deposit\n\n15. Penalty\n\nSCHEDULE\n\nWILDLIFE CONSERVATION ACT 2010\n\nWILDLIFE CONSERVATION (OPERATION OF ZOO) REGULATIONS 2012\n\nIN exercise of the powers conferred by paragraphs 132(2)(e) and (f) of the Wildlife\n\nConservation Act 2010 [Act 716], the Minister makes the following regulations:\n\nCitation and commencement\n\n1. (1) These regulations may be cited as the Wildlife Conservation\n\n(Operation of Zoo) Regulations 2012.\n\n(2) These Regulations comes into operation on 1 February 2012.\n\nInterpretation\n\n2. In these Regulations, unless the context otherwise requires:\n\n\"Act\" means the Wildlife Conservation Act 2010 [Act 716];\n\n\"veterinary surgeon\" means a person registered under the Veterinary Surgeons\n\nAct 1974 [Act 147];\n\n\"enclosure\" includes the exhibition area of the wildlife and night stall;\n\n\"zoo operator\" means any individual, statutory bodies, companies, associations\n\nor local authorities that own or operate the zoo;\n\n\"zoo\" means any area or premises where the wildlife is kept or placed whether\n\nfor the purposes of conservation, education, research or recreation, and is open to the\n\npublic.\n\nRequirement for permit\n\n3. No person shall operate a zoo unless he holds a permit issued under the\n\nprovisions of Chapter 2 of the Act.\n\nFee\n\n4. The fee payable for a permit issued is one thousand ringgit per annum and shall\n\nbe paid to the licensing officer in such manner as determined by the licensing officer.\n\nValidity of permit\n\n5. A permit approved under these Regulations shall be valid for such period as may\n\nbe specified in the permit.\n\nEnclosure\n\n6. (1) Except for insecta and arachnida classes, any zoo operator shall provide\n\nan appropriate enclosure for each wildlife species according to the sizes as specified in\n\nthe Schedule.\n\n(2) The enclosure referred to in subregulation (1) shall have a design\n\nappropriate to the natural behaviour and basic needs of the wildlife.\n\n(3) The design of the enclosure prepared by the zoo operator shall be\n\nsubmitted to the Director General for an approval.\n\nQuarantine area\n\n7. (1) The zoo operator shall provide a quarantine area for the placement or\n\ntemporary isolation of any newly acquired wildlife for preventive or treatment\n\npurposes of any diseases that the wildlife may have.\n\n(2) For the purpose of subregulation (1), any plan for the quarantine area,\n\nsize and design of the enclosure for the wildlife shall be submitted to the Director\n\nGeneral for an approval.\n\n(3) The zoo operator shall ensure that the quarantine area is not open to any\n\npublic.\n\n(4) The zoo operator shall ensure that the wildlife is quarantined for a certain\n\nperiod as determined by the veterinary surgeon.\n\nDiet\n\n8. (1) The zoo operator shall ensure that any food and water provided for the\n\nwildlife—\n\n(a) contain all the necessary nutrients, uncontaminated and is given in\n\nsufficient quantities as determined by the veterinary surgeon;\n\n(b) correspond with the natural diet of the species, physiological\n\ncondition and sex of the wildlife.\n\n(2) The zoo operator shall maintain and keep the records of the diet given to\n\neach wildlife.\n\nWildlife health care\n\n9. (1) The zoo operator is responsible for ensuring the health care of the wildlife\n\nat the zoo under his control.\n\n(2) For the purpose of subregulation (1), the zoo operator shall—\n\n(a) employ at least one full-time veterinary surgeon to be stationed at\n\nthe zoo or to appoint a permanent consultant veterinary surgeon if\n\nunable to do so, subject to subregulation (4);\n\n(b) provide a veterinary clinic and hospital in the zoo;\n\n(c) ensure that post mortem to be conducted on all dead wildlife and\n\nrecorded by the veterinary surgeon;\n\n(d) tag and record all births of the wildlife in the zoo;\n\n(e) maintain and keep records of all matters relating to the\n\nmanagement of each wildlife in the zoo; and\n\n(f) report to the veterinary authority if any wildlife is infected or\n\nsuspected to be infected with diseases or died or suspected to have\n\ndied of diseases, in accordance with the requirements of under the\n\nAnimals Act 1953 [Act 647].\n\n(3) Paragraphs 9(2)(a) until (d) shall not apply to insecta and arachnida\n\nclasses.\n\n(4) The zoo operator shall obtain the written approval of the Director General\n\nbefore appointing the permanent consultant veterinary surgeon referred to in\n\nparagraph (2)(a) and of any changes to the appointment.\n\nCleaning of enclosure\n\n10. The zoo operator shall maintain the cleaning activities of the enclosure of the\n\nwildlife at the zoo and keep all records in relation to the cleaning of each enclosure of\n\nthe wildlife at the zoo.\n\nVaccination of wildlife\n\n11. The zoo operator shall ensure that any vaccination to the wildlife is to be\n\nconducted by the veterinary surgeon or any other person under the supervision of the\n\nveterinary surgeon.\n\nEuthanasia\n\n12. (1) Euthanasia on any wildlife at the zoo can only be conducted by a\n\nveterinary surgeon or any other person under the supervision of the veterinary\n\nsurgeon.\n\n(2) Euthanasia on any wildlife can be conducted if the veterinary surgeon\n\nfinds that upon examination, the wildlife is injured or suffering from an incurable illness\n\nor for any other reasons which he thinks necessary to terminate the life of the wildlife.\n\nWildlife show\n\n13. (1) Any zoo operator who wants to hold a wildlife show activity in the zoo\n\nunder his control shall submit a written application to the Director General.\n\n(2) The Director General may approve the application under\n\nsubregulation (1) provided that the wildlife show—\n\n(d) is performed based on the wildlife natural behaviour;\n\n(e) does not involve any force, abuse or any element of force to the\n\nwildlife; and\n\n(f) does not cause distress, pain and fear to the wildlife.\n\n(3) The wildlife used for the wildlife show activity shall not be placed in the\n\ntransfer cage for more than one hour in a day.\n\nDeposit\n\n14. (1) Notwithstanding section 112 of the Act, every zoo operator shall deposit a\n\nsum of money as a deposit as determine by the Director General for the purpose of\n\nfinancing any costs incurred by the Government in seizing, keeping and maintaining any\n\nwildlife seized from the zoo operator in accordance with the Act.\n\n(2) If the deposit has been utilised either partly or wholly, the zoo operator\n\nshall redeposit sufficient amount of money to the Director General within the period as\n\ndetermine by the Director General.\n\n(3) The deposit shall be refunded to the zoo operator if the zoo operation is\n\ndiscontinued.\n\nPenalty\n\n15. Any person who contravenes any provisions of these Regulations shall be guilty\n\nof an offence and shall, on conviction, be liable to a fine not exceeding one hundred\n\nthousand ringgit or imprisonment for a term not exceeding five years or both.\n\nSCHEDULE\n\n(Regulation 4)\n\nEnclosure Sizes\n\nA. Mammals\n\n* At least two night stall for each exhibit area\n\n** Excluding free-ranging species\n\nSpecies category\n\nNight stall size for one\n\nanimal Minimum\n\nsize for\n\nexhibit\n\narea\n\n(one pair)\n\n(m2)\n\nMinimum\n\nsize for nonexhibit area\n\n(one pair)\n\n(m2)\n\nIncrease in\n\nsize of the\n\nnight stall/\n\narea for each\n\nadditional\n\nindividual\n\n(%)\n\nLength\n\n(m)\n\nWidth\n\n(m)\n\nHeight\n\n(m)\n\nLarge carnivores 4.0 3.0 3.0 500 50 10\n\nSmall mammals,\n\nsmall carnivores 3.0 2.0 2.5 80 8 10\n\nAll bear species 4.0 3.0 3.0 300 30 10\n\nAll rhinoceros\n\nspecies, hippos,\n\ntapir\n\n5.0 4.0 3.0 500 50 10\n\nWild cattle* 5.0 4.0 3.0 500 50 5\n\nAll deer species,\n\nwild horses,\n\nantelopes,\n\ncamelids, wild\n\ngoats*\n\n5.0 4.0 3.0 300 30 2\n\nGreat apes 4.0 3.0 3.0 300 30 5\n\nMedium sized\n\nprimates 3.0 2.5 3.0 150 15 5\n\nSmall primates** 2.0 2.0 2.0 50 5 5\n\nElephants 8.0 6.0 6.0 1000 100 5\n\nGiraffes 6.0 4.0 6.0 500 50 5\n\nKangaroo,\n\nwallabies* 3.0 2.0 3.0 200 20 5\n\nLarge mouse\n\ndeer, lesser\n\nmouse deer*\n\n2.0 2.0 2.0 50 5 5\n\nB. Reptiles and Amphibians\n\nSpecies category\n\nMinimum\n\nenclosure\n\nsize (m2)\n\nMinimum size of watery\n\narea in enclosure (m2) for\n\nspecies that require\n\nwatery area\n\nIncrease in size\n\nof the area for\n\neach additional\n\nindividual (%)\n\nCrocodiles, gharials, alligators\n\n(up to 10 heads) 100\n\n(minimum depth of\n\n1 metre)\n\nPythons, boas, anacondas,\n\ncobras, dwarf crocodile,\n\nwater monitor lizard\n\n(up to 2 heads)\n\n(minimum depth of\n\n0.5 metre)\n\nOther snakes (up to 2 heads) 4 - 10\n\nWater snakes (up to 2 heads) 4 1 10\n\nMonitor lizard, iguanas\n\n(up to 2 heads) 20 - 10\n\nKomodo dragon\n\n(up to 2 heads) 100 - 10\n\nGeckos, small lizards\n\n(up to 2 heads) 1 - 10\n\nTerrapin, softshell turtle\n\n(up to 2 heads) 9 4 10\n\nTortoises (up to 2 heads) 4 - 10\n\nAmphibians (up to 2 heads) 1 0.5 10\n\nC. Aves\n\nSpecies category\n\n(up to 2 heads)\n\nMinimum\n\naviary size\n\n(m2) per\n\npair\n\nMinimum\n\naviary\n\nheight (m)\n\nMinimum water\n\ncontent in the\n\naviary (m2)\n\nIncrease in size\n\nof the area for\n\neach additional\n\nindividual (%)\n\nBig-sized raptors\n\n(Genus: Anthracoceros,\n\nBuceros, Anorrhinus, Aceros,\n\nIctinaetus, Aquila, Spilornis,\n\nCircaetus, Neophron, Gyps,\n\nAegypius, Sarcogyps,\n\nHaliaeetus, Ichthyophaga\n\nand Spizaetus)\n\n100 6 - 10\n\nMedium-sized raptors\n\n(Genus: Hieraaetus,\n\nButastur, Buteo, Accipiter,\n\nCircus, Macheiramphus,\n\nPernis and Aviceda)\n\n40 5 - 10\n\nOther small-sized raptors 25 4 - 10\n\nBig-sized pheasants\n\n(Genus: Tragopan,\n\nArgusianus, Pavo)\n\n30 4 - 10\n\nOther small-sized\n\npheasants 20 3 - 10\n\nWater birds (a variety of\n\nspecies up to 10 heads) 50 6\n\n(depth of\n\n0.5 metre)\n\nPenguin (up to 10 heads) 80 2\n\n(depth of\n\n2 metre)\n\nWild birds (variety of\n\nspecies until 10 heads) 40 6 - 10\n\nOstrich, emu and\n\ncassowary\n\n(Big flightless birds)\n\n1.8\n\n(height of\n\nfence)\n\n0.5 10\n\nParrot, parakeet\n\n(up to 10 heads) 10 3 - 10\n\nMacaws, cockatoos 40 6 - 10\n\nMade 30 January 2012\n\n[NRE 44/4/1/08; PN(PU2)697/II]\n\nDATO' SRI DOUGLAS UGGAH EMBAS\n\nMinister of Natural Resources and Environment"
+   }
+  }
+ ]
+}

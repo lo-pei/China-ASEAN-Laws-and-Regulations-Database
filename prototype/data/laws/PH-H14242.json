@@ -1,0 +1,72 @@
+{
+ "id": "PH-H14242",
+ "title": {
+  "zh": null,
+  "en": "An Act Prohibiting Foreigners From Practising Medicine in the Philippine Islands Unless the Country of Which they Are Citizens Permits Filipino Physicians to Practise in the Same.",
+  "orig": "An Act Prohibiting Foreigners From Practising Medicine in the Philippine Islands Unless the Country of Which they Are Citizens Permits Filipino Physicians to Practise in the Same."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1929-12-03",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3609",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 700,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1929/act_3609_1929.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03609_1929_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03609_1929_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14242-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Section seven hundred and seventy-two of the Administrative Code is hereby amended to read as\n\"Section 772. Examination requirement-Foreign physicians.-Except as otherwise specially provided all\napplicants for registration under the provisions of this chapter shall be subjected to examination as hereinafter\nprovided: Provided, however, That no foreign physician or medical man shall be admitted to examination\nunless the country of which he is a subject or citizen permits Filipino physicians to practice within its\nterritorial limits.\""
+   }
+  },
+  {
+   "id": "PH-H14242-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "All acts or parts of acts inconsistent with the provisions of this Act are hereby repealed."
+   }
+  },
+  {
+   "id": "PH-H14242-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, December 3, 1929."
+   }
+  }
+ ]
+}

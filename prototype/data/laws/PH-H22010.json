@@ -1,0 +1,102 @@
+{
+ "id": "PH-H22010",
+ "title": {
+  "zh": null,
+  "en": "Prescribing Penalties for the Unlawful Ejectment, Exclusion, Removal or Ouster of Tenant-Farmers From Their Farmholdings",
+  "orig": "Prescribing Penalties for the Unlawful Ejectment, Exclusion, Removal or Ouster of Tenant-Farmers From Their Farmholdings"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p159",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1974-11-16",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "President of the Philippines",
+ "docNumber": "Presidential Decree No. 583",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 6,
+ "chars": 2570,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)"
+ },
+ "sourceFile": "菲律宾/法律原文/06_总统令_PD/PD_00583_1974_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 6 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 PD_00583_1974_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H22010-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "In view of the determination of the Government to emancipate the tenant-farmers from a\nfeudalistic system of landownership, it is hereby declared a policy of the State, in furtherance of its desire to\nprotect the tenant-farmers, that no acts or schemes designed to obstruct the implementation of land reform\nprogram or obviously in derogation of the rights of tenant-farmers shall remain unpunished."
+   }
+  },
+  {
+   "id": "PH-H22010-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "Any judge of the Court of Agrarian Relations, Court of First Instance, City or Municipal Court\nor any fiscal or any investigating officer, including members of the Armed Forces of the Philippines, who\nshall order the ejectment, ouster, exclusion or removal of any tenant-farmer from the land tilled by him or who\nshall take cognizance of any ejectment case or any other similar case designed to exclude, oust, eject or\nremove a tenant-farmer from the land tilled by him without first complying with the provisions of Presidential\nDecree No. 316 shall, upon conviction, be punished by prision mayor and perpetual absolute disqualification."
+   }
+  },
+  {
+   "id": "PH-H22010-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "Any official or employee of the Government, including members of the Armed Forces of the\nPhilippines, who executes and order for the ouster, removal, exclusion or ejectment of a tenant-farmer,\nknowing that the order is unlawful as provided under Section 2 of this Decree shall, upon conviction, suffer\nthe penalty of prision correccional and perpetual absolute disqualification."
+   }
+  },
+  {
+   "id": "PH-H22010-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "text": {
+    "en": "Unless previously authorized by the Secretary of Agrarian Reform, any land-owner who\nconverts his tenanted land primarily devoted to rice and corn into any non-agricultural use or to the production\nof any other crop as a means to avoid the application of the land reform laws or decrees to his landholdings\nand to dispossess his tenant-farmers of the land tilled by them shall, upon conviction, suffer the penalty of\nprision mayor or a fine ranging from P5,000.00 to P10,000.00, or both, at the discretion of the court.\n\nThe same penalty shall be imposed on a landowner who by any other act, scheme or strategy shall eject,\nexclude, remove or oust and/or causes the ouster, exclusion, removal or ejectment of a tenant-farmer from his\nfarm-holding in contravention of decrees, laws, and other orders on land reform."
+   }
+  },
+  {
+   "id": "PH-H22010-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "text": {
+    "en": "Repealing Clause. All provisions of existing laws, orders, decrees, rules and regulations\ninconsistent herewith are hereby repealed or modified accordingly."
+   }
+  },
+  {
+   "id": "PH-H22010-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "text": {
+    "en": "Effectivity of this Decree. This Decree shall take effect immediately.\nDONE in the City of Manila, this 16th day of November, in the year of Our Lord, nineteen hundred and\nseventy-four."
+   }
+  }
+ ]
+}

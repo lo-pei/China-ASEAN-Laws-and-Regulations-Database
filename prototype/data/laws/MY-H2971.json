@@ -1,0 +1,66 @@
+{
+ "id": "MY-H2971",
+ "title": {
+  "zh": "1974年法律修订（证据法）令",
+  "en": "REVISION OF LAWS (EVIDENCE ACT) ORDER 1974",
+  "orig": "REVISION OF LAWS (EVIDENCE ACT) ORDER 1974",
+  "ms": "Perintah Semakan Undang-Undang (Akta Keterangan) 1974",
+  "vi": "Lệnh về Rà soát pháp luật (Luật Chứng cứ) năm 1974",
+  "th": "คำสั่งการปรับปรุงกฎหมาย (พระราชบัญญัติพยานหลักฐาน) ค.ศ. 1974",
+  "id": "Perintah Revisi Peraturan (Undang-Undang Alat Bukti) Tahun 1974"
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-7",
+ "language": "ms",
+ "level": "code",
+ "category": "01_宪法与基础法",
+ "status": "active",
+ "promulgatedDate": "1974",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会（Dewan Rakyat）",
+ "docNumber": "PUA239",
+ "topics": [],
+ "summary": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 2,
+ "chars": 666,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia",
+  "url": "https://lom.agc.gov.my/act-view.php?type=pua&no=P.U. (A) 239/1974&status=PINDAAN"
+ },
+ "sourceFile": "MY\\en\\TXT文本\\01_宪法与基础法\\1974_P.U.(A)239-1974_REVISION OF LAWS (EVIDENCE ACT) ORDER 1974.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文：第 1 条至第 2 条；逐字未改写（源自厂商 OCR 文本）。原文马来文/英文双语并置，已分别落 text.ms 与 text.en。",
+ "textQuality": "ocr-vendor",
+ "articles": [
+  {
+   "id": "MY-H2971-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "1. Perintah ini bolehlah dinamakan Perintah Penyemakan Undang-\nundang (Akta Keterangan), 1974, dan hendaklah berkuatkuasa mulai\ndari 1hb November, 1971."
+   }
+  },
+  {
+   "id": "MY-H2971-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {},
+   "heading": {},
+   "text": {
+    "ms": "2. Seksyen 73A (5) Akta Keterangan, 1950, adalah dengan ini dibetul-\nkan dengan menggantikan perkataan \"expedient\" dengan perkataan\n\"inexpedient\".\nDiperbuat pada 4 haribulan Julai, 1974.\n[P.N. (S.U.) 23.]                    D. B. W. Goon,\nPesuruhjaya Penyemak Undang-undang,\nMalaysia\n\nREVISION OF LAWS ACT, 1968\n\nIn exercise of the powers conferred by section 15 of the Revision of\nLaws Act, 1968, the Commissioner of Law Revision, with the approval\nof the Law Revision Committee, hereby makes the following order:"
+   }
+  }
+ ]
+}

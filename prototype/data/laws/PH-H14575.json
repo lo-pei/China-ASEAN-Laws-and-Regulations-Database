@@ -1,0 +1,72 @@
+{
+ "id": "PH-H14575",
+ "title": {
+  "zh": null,
+  "en": "An Act to Authorize the Sale of the Lands, Buildings and Other Improvements of Bilibid Prison and the Establishment of a New Insular Prison Outside the City of Manila.",
+  "orig": "An Act to Authorize the Sale of the Lands, Buildings and Other Improvements of Bilibid Prison and the Establishment of a New Insular Prison Outside the City of Manila."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p155",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1932-12-03",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Philippine Commission / Philippine Legislature",
+ "docNumber": "Act No. 3984",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1269,
+ "source": {
+  "name": "The LawPhil Project — Arellano Law Foundation",
+  "url": "LawPhil (source has HTML full text only)  |  https://lawphil.net/statutes/acts/act1932/act_3984_1932.html"
+ },
+ "sourceFile": "菲律宾/法律原文/05_法案_Acts/ACT_03984_1932_html.txt",
+ "fetchedAt": "2026-10-28",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil PDF 文本化成果（第三方 OCR，非机翻），原始文件 ACT_03984_1932_html.txt",
+ "textQuality": "ocr-vendor",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H14575-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "text": {
+    "en": "Whenever in his opinion the public interests will be promoted thereby, the Governor-General,\nupon the recommendation of the Secretary of Justice and the Secretary of Agriculture and Natural Resources,\n.may authorize the sale of the lands, buildings and other improvements of Bilibid Prison for such amount and\nupon such terms and conditions as may be approved by the Council of State, and execute the necessary deed\nor deeds of conveyance: Provided, That from the savings of the Bureau of Prisons there shall be paid to the\nSan Lazaro Investment Fund the sum of one hundred seventy-nine thousand two hundred and sixty-five pesos\nwithin fifteen years from the date of said sale."
+   }
+  },
+  {
+   "id": "PH-H14575-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "text": {
+    "en": "The proceeds from the sale of the property mentioned in section one shall be available for\nexpenditure by the Director of Prisons, with the approval of the Secretary of Justice, for the purpose of\npurchasing a new prison site outside the City of Manila; for the construction of buildings and other necessary\nstructures suitable for a modern penitentiary; for the purchase of the necessary equipment and supplies; and\nfor salaries and such other expenses as may be deemed necessary to carry out the provisions of this Act."
+   }
+  },
+  {
+   "id": "PH-H14575-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved, December 3, 1932."
+   }
+  }
+ ]
+}
